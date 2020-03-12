@@ -1,20 +1,20 @@
 > この記事は[G-STAGE](https://ja.wikipedia.org/wiki/G-STAGE)から翻訳されています。
 
 
-『**G-STAGE**』（ゴールデン・ステージ）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")から[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[フジテレビ系列局で毎週金曜](../Page/フジネットワーク.md "wikilink") 23:00 - 23:45 ([JST](../Page/日本標準時.md "wikilink")) に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**G-STAGE**』（ゴールデン・ステージ）は、[1991年](../Page/1991年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[フジテレビ系列局で毎週金曜](../Page/フジネットワーク.md "wikilink") 23:00 - 23:45 ([JST](../Page/日本標準時.md "wikilink")) に[生放送](../Page/生放送.md "wikilink")された[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 番組概要
 
-深夜番組に力を入れていた当時の[鹿内宏明](https://ja.wikipedia.org/wiki/鹿内宏明 "wikilink")会長の肝いりで放送開始。主に20代から30代の大人層をターゲットにした音楽番組で、基本的にはゲストの歌手がヒット曲や最新曲を披露するものだったが、毎回異なるテーマを設けてゲストとトークをするほか、街頭インタビューを基にしたリサーチ企画や、東京近郊からの夜間中継もあった。
+深夜番組に力を入れていた当時の[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長の肝いりで放送開始。主に20代から30代の大人層をターゲットにした音楽番組で、基本的にはゲストの歌手がヒット曲や最新曲を披露するものだったが、毎回異なるテーマを設けてゲストとトークをするほか、街頭インタビューを基にしたリサーチ企画や、東京近郊からの夜間中継もあった。
 
-司会は[徳光和夫](../Page/徳光和夫.md "wikilink")、[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")、[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")のトリオが務めた。男性3人だけの司会は当時では珍しく、音楽番組としても異例であった。
+司会は[徳光和夫](../Page/徳光和夫.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")のトリオが務めた。男性3人だけの司会は当時では珍しく、音楽番組としても異例であった。
 
 ## 出演者
 
 ### 司会
 
   - [徳光和夫](../Page/徳光和夫.md "wikilink")
-  - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")
+  - [堺正章](../Page/堺正章.md "wikilink")
   - [田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")
 
 ### 中継リポーター
@@ -23,7 +23,7 @@
 
 ## エピソード
 
-  - 司会の徳光和夫と堺正章はかつて、[日本テレビ系の](../Page/日本テレビネットワーク協議会.md "wikilink")『[NTV紅白歌のベストテン](../Page/NTV紅白歌のベストテン.md "wikilink")』で司会者とリポーターの間柄であった（ちなみに堺は当時白組キャプテンだった。2011年7月2日放送分の[TBS系料理番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")』で再び共演を果たした。田代も1980年から1981年に[シャネルズとして出演している](../Page/ラッツ&スター.md "wikilink")）。その関係は次番組である『[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")』まで続くが、徳光が降板したためしばらく解消された。その『ザ・トップテン』の映像が1991年11月8日放送分の冒頭で使用されている（この回のテーマは「10年前」で、徳光：エレクトリックおじさん、堺：司会、田代：シャネルズとして出演、の順に映像が5秒ほど流れた）。
+  - 司会の徳光和夫と堺正章はかつて、[日本テレビ系の](../Page/日本テレビネットワーク協議会.md "wikilink")『[NTV紅白歌のベストテン](../Page/NTV紅白歌のベストテン.md "wikilink")』で司会者とリポーターの間柄であった（ちなみに堺は当時白組キャプテンだった。2011年7月2日放送分の[TBS系料理番組](../Page/TBSテレビ.md "wikilink")『[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")』で再び共演を果たした。田代も1980年から1981年に[シャネルズとして出演している](../Page/ラッツ&スター.md "wikilink")）。その関係は次番組である『[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")』まで続くが、徳光が降板したためしばらく解消された。その『ザ・トップテン』の映像が1991年11月8日放送分の冒頭で使用されている（この回のテーマは「10年前」で、徳光：エレクトリックおじさん、堺：司会、田代：シャネルズとして出演、の順に映像が5秒ほど流れた）。
   - 番組タイトル『*G-STAGE*』の正式な呼び名は『**ゴールデン・ステージ**』だったのだが浸透せず、一般的には『**ジー・ステージ**』と呼ばれていた。
   - 構成作家の玉井喜代志が歌手「玉井しのぶ」として番組に出演する予定があったが、中止となったことがある。
   - 1992年1月10日放送分（総集編）では、前番組の『ヒットパレード90's』生放送時のVTRから楽曲部分を数曲ほど借用している。
@@ -31,7 +31,7 @@
 
 ## スタッフ
 
-  - 構成：[玉井貴代志](https://ja.wikipedia.org/wiki/玉井貴代志 "wikilink")
+  - 構成：[玉井貴代志](../Page/玉井貴代志.md "wikilink")
   - 演奏：G-BAND
   - プロデューサー：大前一彦
   - 制作：フジテレビ第二制作部
@@ -82,7 +82,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td><p>[1]</p></td>
 <td></td>
@@ -168,7 +168,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td></td>
 <td></td>
@@ -200,7 +200,7 @@
 </tbody>
 </table>
 
-※[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")の[テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、[鹿児島テレビは](../Page/鹿児島テレビ放送.md "wikilink")、当該時間帯で[日本テレビ系列の](../Page/日本テレビネットワーク協議会.md "wikilink")『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』を放送していた関係で一度も放送されなかった。
+※[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")の[テレビ大分](../Page/テレビ大分.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、[鹿児島テレビは](../Page/鹿児島テレビ放送.md "wikilink")、当該時間帯で[日本テレビ系列の](../Page/日本テレビネットワーク協議会.md "wikilink")『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』を放送していた関係で一度も放送されなかった。
 
 ## 脚注
 
@@ -209,9 +209,9 @@
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")
   - [トップテンシリーズ](../Page/トップテンシリーズ.md "wikilink")（日本テレビ系）
-  - [ザ・サンデー -THE SUNDAY-](https://ja.wikipedia.org/wiki/ザ・サンデー_-THE_SUNDAY- "wikilink")（かつて堺と田代がレギュラー出演していた）
-  - [SOUND ARENA](https://ja.wikipedia.org/wiki/SOUND_ARENA "wikilink") - 後継番組
-  - [幸せって何だっけ 〜カズカズの宝話〜](https://ja.wikipedia.org/wiki/幸せって何だっけ_〜カズカズの宝話〜 "wikilink")（徳光司会の番組）
+  - [ザ・サンデー -THE SUNDAY-](../Page/ザ・サンデー_-THE_SUNDAY-.md "wikilink")（かつて堺と田代がレギュラー出演していた）
+  - [SOUND ARENA](../Page/SOUND_ARENA.md "wikilink") - 後継番組
+  - [幸せって何だっけ 〜カズカズの宝話〜](../Page/幸せって何だっけ_〜カズカズの宝話〜.md "wikilink")（徳光司会の番組）
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:徳光和夫](https://ja.wikipedia.org/wiki/Category:徳光和夫 "wikilink") [Category:堺正章](https://ja.wikipedia.org/wiki/Category:堺正章 "wikilink") [Category:田代まさし](https://ja.wikipedia.org/wiki/Category:田代まさし "wikilink")
 

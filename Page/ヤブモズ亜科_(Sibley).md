@@ -3,7 +3,7 @@
 
 {{生物分類表 |名称 = ヤブモズ亜科  |画像=[Laniarius_barbarus.jpg](https://ja.wikipedia.org/wiki/File:Laniarius_barbarus.jpg "fig:Laniarius_barbarus.jpg") |画像キャプション = [アカハラヤブモズ](https://ja.wikipedia.org/wiki/アカハラヤブモズ "wikilink")  |省略 = 鳥綱 |目 = [スズメ目](../Page/スズメ目.md "wikilink")  |亜目 = [スズメ亜目](../Page/スズメ亜目.md "wikilink")  |上科 = [カラス上科](../Page/カラス上科.md "wikilink")  |亜科 = **ヤブモズ亜科**  |学名 = |下位分類名 = 系統 |下位分類 =
 
-  - [{{en](https://ja.wikipedia.org/wiki/オオハシモズ科 "wikilink")
+  - [{{en](../Page/オオハシモズ科.md "wikilink")
   - \[\[メガネヒタキ科|
 
 **ヤブモズ亜科**（Malaconotinae）は、[鳥類](../Page/鳥類.md "wikilink")[スズメ目](../Page/スズメ目.md "wikilink")の亜科として提唱された分類群である。
@@ -12,21 +12,21 @@
 
 ## 分類と系統
 
-[Sibley & Ahlquist (1990)](https://ja.wikipedia.org/wiki/シブリー・アールキスト分類 "wikilink") により、[メガネヒタキ科](https://ja.wikipedia.org/wiki/メガネヒタキ科 "wikilink") ・[ヤブモズ科](https://ja.wikipedia.org/wiki/ヤブモズ科 "wikilink") ・[オオハシモズ科](https://ja.wikipedia.org/wiki/オオハシモズ科 "wikilink") 、および分類に諸説あったいくつかの属を合わせた群として提唱された。現在では系統的には、彼らが含めなかった、伝統的には[サンショウクイ科](https://ja.wikipedia.org/wiki/サンショウクイ科 "wikilink")  だった[ヒタキサンショウクイ属](https://ja.wikipedia.org/wiki/ヒタキサンショウクイ属 "wikilink")  が含まれる。
+[Sibley & Ahlquist (1990)](https://ja.wikipedia.org/wiki/シブリー・アールキスト分類 "wikilink") により、[メガネヒタキ科](../Page/メガネヒタキ科.md "wikilink") ・[ヤブモズ科](../Page/ヤブモズ科.md "wikilink") ・[オオハシモズ科](../Page/オオハシモズ科.md "wikilink") 、および分類に諸説あったいくつかの属を合わせた群として提唱された。現在では系統的には、彼らが含めなかった、伝統的には[サンショウクイ科](../Page/サンショウクイ科.md "wikilink")  だった[ヒタキサンショウクイ属](https://ja.wikipedia.org/wiki/ヒタキサンショウクイ属 "wikilink")  が含まれる。
 
 ヤブモズ亜科は
 
-  - \- [ヤブモズ科](https://ja.wikipedia.org/wiki/ヤブモズ科 "wikilink")
+  - \- [ヤブモズ科](../Page/ヤブモズ科.md "wikilink")
 
-  - \- [メガネヒタキ科](https://ja.wikipedia.org/wiki/メガネヒタキ科 "wikilink")の大半
+  - \- [メガネヒタキ科](../Page/メガネヒタキ科.md "wikilink")の大半
 
-  - \- [オオハシモズ科](https://ja.wikipedia.org/wiki/オオハシモズ科 "wikilink")・雑多な属（ヒタキサンショウクイ属を含む）
+  - \- [オオハシモズ科](../Page/オオハシモズ科.md "wikilink")・雑多な属（ヒタキサンショウクイ属を含む）
 
 の3つの単系統に分かれる\[1\]\[2\]。Sibley & Ahlquist はヤブモズ亜科をヤブモズ族 （ヤブモズ科）と[カブトモズ族](https://ja.wikipedia.org/wiki/カブトモズ族_\(Sibley\) "wikilink") （それ以外）に分けたが、カブトモズ族の単系統性は不確実である。
 
-[国際鳥類学会議](https://ja.wikipedia.org/wiki/国際鳥類学会議 "wikilink") (IOC)\[3\]は、 の中に[メガネモズ科](https://ja.wikipedia.org/wiki/メガネモズ科 "wikilink") ・[モズサンショウクイ科](https://ja.wikipedia.org/wiki/モズサンショウクイ科 "wikilink")  を新設し、5科に分類している。
+[国際鳥類学会議](https://ja.wikipedia.org/wiki/国際鳥類学会議 "wikilink") (IOC)\[3\]は、 の中に[メガネモズ科](../Page/メガネモズ科.md "wikilink") ・[モズサンショウクイ科](https://ja.wikipedia.org/wiki/モズサンショウクイ科 "wikilink")  を新設し、5科に分類している。
 
-ヤブモズ亜科は、[フエガラス科](https://ja.wikipedia.org/wiki/フエガラス科 "wikilink")  +[モリツバメ科](https://ja.wikipedia.org/wiki/モリツバメ科 "wikilink")  などと近縁である\[4\]\[5\]。Sibley & Ahlquist はそれらの近縁なグループごと[カラス科](https://ja.wikipedia.org/wiki/カラス科_\(Sibley\) "wikilink")  に分類したが、カラス科とは同じ[カラス上科](../Page/カラス上科.md "wikilink")であるものの上科の中では疎遠である\[6\]\[7\]。
+ヤブモズ亜科は、[フエガラス科](../Page/フエガラス科.md "wikilink")  +[モリツバメ科](../Page/モリツバメ科.md "wikilink")  などと近縁である\[4\]\[5\]。Sibley & Ahlquist はそれらの近縁なグループごと[カラス科](https://ja.wikipedia.org/wiki/カラス科_\(Sibley\) "wikilink")  に分類したが、カラス科とは同じ[カラス上科](../Page/カラス上科.md "wikilink")であるものの上科の中では疎遠である\[6\]\[7\]。
 
 {{Clade
 

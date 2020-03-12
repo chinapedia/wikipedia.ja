@@ -11,11 +11,11 @@
 
 （DVD Playersゲームは除く）
 
-  - [2002年](../Page/2002年.md "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink") - FIRST ANCHOR 〜ファーストアンカー〜
+  - [2002年](../Page/2002年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink") - FIRST ANCHOR 〜ファーストアンカー〜
   - 2002年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - GEMATRIA:CODE
   - [2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink") - SAVIOR 〜セイバー〜
   - 2003年[7月18日](../Page/7月18日.md "wikilink") - EDEN V
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - EDEN FINAL
+  - [2004年](../Page/2004年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - EDEN FINAL
   - 2004年[10月15日](../Page/10月15日.md "wikilink") - VANQUISH
 
 ## 脚注

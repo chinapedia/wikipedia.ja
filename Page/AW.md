@@ -13,17 +13,17 @@
 
   - [アプローチウェッジ](https://ja.wikipedia.org/wiki/アプローチウェッジ "wikilink") (approach wedge) - [ゴルフ](../Page/ゴルフ.md "wikilink")用語
   - [オールウェザー](https://ja.wikipedia.org/wiki/オールウェザー "wikilink") (All weather type) - [全天候型](https://ja.wikipedia.org/wiki/全天候型 "wikilink")の略称。
-  - [アルミサッシ](https://ja.wikipedia.org/wiki/サッシ "wikilink") (Aluminum/Aluminium Window) - 建築用語
-  - [アルミホイール](https://ja.wikipedia.org/wiki/アルミホイール "wikilink") (Aluminum wheel)
+  - [アルミサッシ](../Page/サッシ.md "wikilink") (Aluminum/Aluminium Window) - 建築用語
+  - [アルミホイール](../Page/アルミホイール.md "wikilink") (Aluminum wheel)
 
 ### 固有名詞
 
   - 団体・企業名
-      - [エア・ウォーター](https://ja.wikipedia.org/wiki/エア・ウォーター "wikilink") (AIR WATER) - 日本の産業ガスメーカー
+      - [エア・ウォーター](../Page/エア・ウォーター.md "wikilink") (AIR WATER) - 日本の産業ガスメーカー
       - [オートウェイ](https://ja.wikipedia.org/wiki/オートウェイ "wikilink") (AUTO WAY) - 日本の自動車用輸入タイヤ及びホイール販売メーカー
-      - [アイシン・エィ・ダブリュ](https://ja.wikipedia.org/wiki/アイシン・エィ・ダブリュ "wikilink") (Aisin AW) - 日本の自動車部品メーカー
+      - [アイシン・エィ・ダブリュ](../Page/アイシン・エィ・ダブリュ.md "wikilink") (Aisin AW) - 日本の自動車部品メーカー
   - 施設名
-      - [アメリカンウォーターフロント](https://ja.wikipedia.org/wiki/アメリカンウォーターフロント "wikilink") (American Waterfront) - [東京ディズニーシー](https://ja.wikipedia.org/wiki/東京ディズニーシー "wikilink")のテーマポート。
+      - [アメリカンウォーターフロント](../Page/アメリカンウォーターフロント.md "wikilink") (American Waterfront) - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")のテーマポート。
       - [アドベンチャーワールド](../Page/アドベンチャーワールド.md "wikilink") (ADVENTURE WORLD) - 和歌山県西牟婁郡白浜町のテーマパーク。略称としてはAWSの方が一般的。
   - その他
       - アークティク・ウォーフェア (Arctic Warfare) - 英国のアキュラシー・インターナショナルが製造する狙撃銃。⇒ [L96A1](https://ja.wikipedia.org/wiki/L96A1 "wikilink")
@@ -36,15 +36,15 @@
 
 ## フィクションのことがら
 
-  - [アフターウォー](https://ja.wikipedia.org/wiki/アフターウォー "wikilink")(After War：A.W.) - アニメ『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』における架空の[紀年法](../Page/紀年法.md "wikilink")。
+  - [アフターウォー](../Page/アフターウォー.md "wikilink")(After War：A.W.) - アニメ『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』における架空の[紀年法](../Page/紀年法.md "wikilink")。
 
 ## 他の記号等を付して用いるもの
 
-  - **[.aw](https://ja.wikipedia.org/wiki/.aw "wikilink")** - アルバの[国別コードトップレベルドメイン](https://ja.wikipedia.org/wiki/国別コードトップレベルドメイン "wikilink")
+  - **[.aw](https://ja.wikipedia.org/wiki/.aw "wikilink")** - アルバの[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")
 
 ## 関連項目
 
-  - [ラテン文字のアルファベット二文字組み合わせの一覧](https://ja.wikipedia.org/wiki/ラテン文字のアルファベット二文字組み合わせの一覧 "wikilink")
+  - [ラテン文字のアルファベット二文字組み合わせの一覧](../Page/ラテン文字のアルファベット二文字組み合わせの一覧.md "wikilink")
 
   -
   -

@@ -1,11 +1,11 @@
 > この記事は[FIFA U-20](https://ja.wikipedia.org/wiki/FIFA_U-20)から翻訳されています。
 
 
-**FIFA U-20ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、20歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](https://ja.wikipedia.org/wiki/世界選手権大会 "wikilink")である。[2005年大会までは](https://ja.wikipedia.org/wiki/2005_FIFAワールドユース選手権 "wikilink")**FIFAワールドユース選手権**（）という大会名であったが、「ワールドカップ」ブランドを向上させるため、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")を除く全てのFIFA主催の世界大会に「ワールドカップ」の名前をつけることが決定したのに伴い、[2007年大会から現在の大会名に変更された](https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ "wikilink")。
+**FIFA U-20ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、20歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。[2005年大会までは](../Page/2005_FIFAワールドユース選手権.md "wikilink")**FIFAワールドユース選手権**（）という大会名であったが、「ワールドカップ」ブランドを向上させるため、[2006年](../Page/2006年.md "wikilink")に[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")を除く全てのFIFA主催の世界大会に「ワールドカップ」の名前をつけることが決定したのに伴い、[2007年大会から現在の大会名に変更された](../Page/2007_FIFA_U-20ワールドカップ.md "wikilink")。
 
 ## 概要
 
-[1977年](../Page/1977年.md "wikilink")に第1回大会が開催され、以降2年ごとに開催されている。以前の出場国数は16か国だったが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[マレーシア大会以降](https://ja.wikipedia.org/wiki/1997_FIFAワールドユース選手権 "wikilink")、各大陸予選を突破した23か国と開催国の計24か国で行われている。
+[1977年](../Page/1977年.md "wikilink")に第1回大会が開催され、以降2年ごとに開催されている。以前の出場国数は16か国だったが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[マレーシア大会以降](../Page/1997_FIFAワールドユース選手権.md "wikilink")、各大陸予選を突破した23か国と開催国の計24か国で行われている。
 
 本大会に出場できるのは、開催前年の12月31日付で20歳未満の選手に限られる。
 
@@ -22,32 +22,32 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19選手権" title="wikilink">AFC U-19選手権</a></p></td>
+<td><p><a href="../Page/AFC_U-19選手権.md" title="wikilink">AFC U-19選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アフリカ_U-20ネイションズカップ" title="wikilink">アフリカ U-20ネイションズカップ</a></p></td>
+<td><p><a href="../Page/アフリカ_U-20ネイションズカップ.md" title="wikilink">アフリカ U-20ネイションズカップ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAF_U-20選手権" title="wikilink">CONCACAF U-20選手権</a></p></td>
+<td><p><a href="../Page/CONCACAF_U-20選手権.md" title="wikilink">CONCACAF U-20選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/南米ユース選手権" title="wikilink">南米ユース選手権</a></p></td>
+<td><p><a href="../Page/南米ユース選手権.md" title="wikilink">南米ユース選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OFC_U-20選手権" title="wikilink">OFC U-20選手権</a></p></td>
+<td><p><a href="../Page/OFC_U-20選手権.md" title="wikilink">OFC U-20選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権" title="wikilink">UEFA U-19欧州選手権</a></p></td>
+<td><p><a href="../Page/UEFA_U-19欧州選手権.md" title="wikilink">UEFA U-19欧州選手権</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -89,7 +89,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1977_FIFAワールドユース選手権" title="wikilink">1</a></p></td>
+<td><p><a href="../Page/1977_FIFAワールドユース選手権.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
 <td></td>
 <td></td>
@@ -101,7 +101,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1979_FIFAワールドユース選手権" title="wikilink">2</a></p></td>
+<td><p><a href="../Page/1979_FIFAワールドユース選手権.md" title="wikilink">2</a></p></td>
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -113,8 +113,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1981_FIFAワールドユース選手権" title="wikilink">3</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1981年" title="wikilink">1981年</a></p></td>
+<td><p><a href="../Page/1981_FIFAワールドユース選手権.md" title="wikilink">3</a></p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 - 0</strong></p></td>
@@ -124,7 +124,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1983_FIFAワールドユース選手権" title="wikilink">4</a></p></td>
+<td><p><a href="../Page/1983_FIFAワールドユース選手権.md" title="wikilink">4</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -135,7 +135,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1985_FIFAワールドユース選手権" title="wikilink">5</a></p></td>
+<td><p><a href="../Page/1985_FIFAワールドユース選手権.md" title="wikilink">5</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -147,7 +147,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1987_FIFAワールドユース選手権" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/1987_FIFAワールドユース選手権.md" title="wikilink">6</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -160,7 +160,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1989_FIFAワールドユース選手権" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/1989_FIFAワールドユース選手権.md" title="wikilink">7</a></p></td>
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -171,8 +171,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991_FIFAワールドユース選手権" title="wikilink">8</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/1991_FIFAワールドユース選手権.md" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
@@ -184,7 +184,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1993_FIFAワールドユース選手権" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/1993_FIFAワールドユース選手権.md" title="wikilink">9</a></p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -195,7 +195,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1995_FIFAワールドユース選手権" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/1995_FIFAワールドユース選手権.md" title="wikilink">10</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -206,7 +206,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1997_FIFAワールドユース選手権" title="wikilink">11</a></p></td>
+<td><p><a href="../Page/1997_FIFAワールドユース選手権.md" title="wikilink">11</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -217,7 +217,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1999_FIFAワールドユース選手権" title="wikilink">12</a></p></td>
+<td><p><a href="../Page/1999_FIFAワールドユース選手権.md" title="wikilink">12</a></p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -228,7 +228,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2001_FIFAワールドユース選手権" title="wikilink">13</a></p></td>
+<td><p><a href="../Page/2001_FIFAワールドユース選手権.md" title="wikilink">13</a></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -239,7 +239,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2003_FIFAワールドユース選手権" title="wikilink">14</a></p></td>
+<td><p><a href="../Page/2003_FIFAワールドユース選手権.md" title="wikilink">14</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -250,8 +250,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005_FIFAワールドユース選手権" title="wikilink">15</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005_FIFAワールドユース選手権.md" title="wikilink">15</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
@@ -261,8 +261,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ" title="wikilink">16</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007_FIFA_U-20ワールドカップ.md" title="wikilink">16</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
@@ -272,7 +272,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2009_FIFA_U-20ワールドカップ" title="wikilink">17</a></p></td>
+<td><p><a href="../Page/2009_FIFA_U-20ワールドカップ.md" title="wikilink">17</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -2028,14 +2028,14 @@
 
   - データは2019年大会終了時点
   - **太字**は優勝経験のある国・地域で、**太数字**は最多記録
-  - 国・地域名は現在の名称で統一した（[東ドイツを除く](https://ja.wikipedia.org/wiki/サッカー東ドイツ代表 "wikilink")）
-      - [ドイツの成績は](https://ja.wikipedia.org/wiki/サッカードイツ代表 "wikilink")[西ドイツを含み](https://ja.wikipedia.org/wiki/サッカードイツ代表 "wikilink")、[東ドイツを含まない](https://ja.wikipedia.org/wiki/サッカー東ドイツ代表 "wikilink")
-      - [ロシアの成績は](https://ja.wikipedia.org/wiki/サッカーロシア代表 "wikilink")[ソビエト連邦を含む](https://ja.wikipedia.org/wiki/サッカーソビエト連邦代表 "wikilink")
-      - [韓国の成績は](https://ja.wikipedia.org/wiki/サッカー大韓民国代表 "wikilink")[南北朝鮮統一チームを含む](https://ja.wikipedia.org/wiki/U-20サッカーコリア代表 "wikilink")
-      - [北朝鮮の成績は](https://ja.wikipedia.org/wiki/サッカー朝鮮民主主義人民共和国代表 "wikilink")[南北朝鮮統一チームを含まない](https://ja.wikipedia.org/wiki/U-20サッカーコリア代表 "wikilink")
-      - [チェコの成績は](https://ja.wikipedia.org/wiki/サッカーチェコ代表 "wikilink")[チェコスロバキアを含む](https://ja.wikipedia.org/wiki/サッカーチェコスロバキア代表 "wikilink")
-      - [スロバキアの成績は](https://ja.wikipedia.org/wiki/サッカースロバキア代表 "wikilink")[チェコスロバキアを含まない](https://ja.wikipedia.org/wiki/サッカーチェコスロバキア代表 "wikilink")
-      - [セルビアの成績は](https://ja.wikipedia.org/wiki/サッカーセルビア代表 "wikilink")[ユーゴスラビアを含む](https://ja.wikipedia.org/wiki/サッカーユーゴスラビア代表 "wikilink")
+  - 国・地域名は現在の名称で統一した（[東ドイツを除く](../Page/サッカー東ドイツ代表.md "wikilink")）
+      - [ドイツの成績は](../Page/サッカードイツ代表.md "wikilink")[西ドイツを含み](../Page/サッカードイツ代表.md "wikilink")、[東ドイツを含まない](../Page/サッカー東ドイツ代表.md "wikilink")
+      - [ロシアの成績は](../Page/サッカーロシア代表.md "wikilink")[ソビエト連邦を含む](../Page/サッカーソビエト連邦代表.md "wikilink")
+      - [韓国の成績は](../Page/サッカー大韓民国代表.md "wikilink")[南北朝鮮統一チームを含む](https://ja.wikipedia.org/wiki/U-20サッカーコリア代表 "wikilink")
+      - [北朝鮮の成績は](../Page/サッカー朝鮮民主主義人民共和国代表.md "wikilink")[南北朝鮮統一チームを含まない](https://ja.wikipedia.org/wiki/U-20サッカーコリア代表 "wikilink")
+      - [チェコの成績は](../Page/サッカーチェコ代表.md "wikilink")[チェコスロバキアを含む](../Page/サッカーチェコスロバキア代表.md "wikilink")
+      - [スロバキアの成績は](../Page/サッカースロバキア代表.md "wikilink")[チェコスロバキアを含まない](../Page/サッカーチェコスロバキア代表.md "wikilink")
+      - [セルビアの成績は](../Page/サッカーセルビア代表.md "wikilink")[ユーゴスラビアを含む](https://ja.wikipedia.org/wiki/サッカーユーゴスラビア代表 "wikilink")
   - 順位は通算勝点の多い順で、通算勝点が同数の場合は1試合あたりの平均勝点が多い方を、それも同数の場合は得失点差の優れた方を、得失点差も同数の場合は総得点の多い方を上にした
   - 1993年大会までの勝点は＜勝＝2、分＝1、敗＝0＞であったが、通算成績では現行と同じ＜勝＝3、分＝1、敗＝0＞で統一した
   - [PK戦](../Page/PK戦.md "wikilink")で決着がついた試合は記録上引き分けとなる
@@ -2130,119 +2130,119 @@
 <td><p>受賞国</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1977_FIFAワールドユース選手権" title="wikilink">1977 チュニジア</a></p></td>
+<td><p><a href="../Page/1977_FIFAワールドユース選手権.md" title="wikilink">1977 チュニジア</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウラジーミル・ベスソノフ" title="wikilink">ウラジーミル・ベスソノフ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アギナウド・ロベルト・ガロン" title="wikilink">グイナ</a></p></td>
 <td><p>4</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1979_FIFAワールドユース選手権" title="wikilink">1979 日本</a></p></td>
+<td><p><a href="../Page/1979_FIFAワールドユース選手権.md" title="wikilink">1979 日本</a></p></td>
 <td><p><a href="../Page/ディエゴ・マラドーナ.md" title="wikilink">ディエゴ・マラドーナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラモン・ディアス" title="wikilink">ラモン・ディアス</a></p></td>
+<td><p><a href="../Page/ラモン・ディアス.md" title="wikilink">ラモン・ディアス</a></p></td>
 <td><p>8</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1981_FIFAワールドユース選手権" title="wikilink">1981 オーストラリア</a></p></td>
+<td><p><a href="../Page/1981_FIFAワールドユース選手権.md" title="wikilink">1981 オーストラリア</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロムルス・ガボル" title="wikilink">ロムルス・ガボル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マーク・コーサス" title="wikilink">マーク・コーサス</a></p></td>
 <td><p>4</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1983_FIFAワールドユース選手権" title="wikilink">1983 メキシコ</a></p></td>
+<td><p><a href="../Page/1983_FIFAワールドユース選手権.md" title="wikilink">1983 メキシコ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェオヴァニ・ファリア・ダ・シウヴァ" title="wikilink">ジェオヴァニ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェオヴァニ・ファリア・ダ・シウヴァ" title="wikilink">ジェオヴァニ</a></p></td>
 <td><p>6</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1985_FIFAワールドユース選手権" title="wikilink">1985 ソビエト連邦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パウロ・シーラス・ド・プラド・ペレイラ" title="wikilink">シーラス</a></p></td>
+<td><p><a href="../Page/1985_FIFAワールドユース選手権.md" title="wikilink">1985 ソビエト連邦</a></p></td>
+<td><p><a href="../Page/パウロ・シーラス・ド・プラド・ペレイラ.md" title="wikilink">シーラス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セバスティアン・ロサーダ" title="wikilink">セバスティアン・ロサーダ</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1987_FIFAワールドユース選手権" title="wikilink">1987 チリ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・プロシネチキ" title="wikilink">ロベルト・プロシネチキ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルセル・ヴィテチェク" title="wikilink">マルセル・ヴィテチェク</a></p></td>
+<td><p><a href="../Page/1987_FIFAワールドユース選手権.md" title="wikilink">1987 チリ</a></p></td>
+<td><p><a href="../Page/ロベルト・プロシネチキ.md" title="wikilink">ロベルト・プロシネチキ</a></p></td>
+<td><p><a href="../Page/マルセル・ヴィテチェク.md" title="wikilink">マルセル・ヴィテチェク</a></p></td>
 <td><p>7</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1989_FIFAワールドユース選手権" title="wikilink">1989 サウジアラビア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビスマルク・バレット・ファリア" title="wikilink">ビスマルク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オレグ・サレンコ" title="wikilink">オレグ・サレンコ</a></p></td>
+<td><p><a href="../Page/1989_FIFAワールドユース選手権.md" title="wikilink">1989 サウジアラビア</a></p></td>
+<td><p><a href="../Page/ビスマルク・バレット・ファリア.md" title="wikilink">ビスマルク</a></p></td>
+<td><p><a href="../Page/オレグ・サレンコ.md" title="wikilink">オレグ・サレンコ</a></p></td>
 <td><p>5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991_FIFAワールドユース選手権" title="wikilink">1991 ポルトガル</a></p></td>
+<td><p><a href="../Page/1991_FIFAワールドユース選手権.md" title="wikilink">1991 ポルトガル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エミリオ・ペイシェ" title="wikilink">エミリオ・ペイシェ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セルゲイ・チェルバコフ" title="wikilink">セルゲイ・チェルバコフ</a></p></td>
 <td><p>5</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1993_FIFAワールドユース選手権" title="wikilink">1993 オーストラリア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アドリアーノ・ジェルリン・ダ・シルバ" title="wikilink">アドリアーノ</a></p></td>
+<td><p><a href="../Page/1993_FIFAワールドユース選手権.md" title="wikilink">1993 オーストラリア</a></p></td>
+<td><p><a href="../Page/アドリアーノ・ジェルリン・ダ・シルバ.md" title="wikilink">アドリアーノ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エンリー・サンブラーノ" title="wikilink">エンリー・サンブラーノ</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1995_FIFAワールドユース選手権" title="wikilink">1995 カタール</a></p></td>
+<td><p><a href="../Page/1995_FIFAワールドユース選手権.md" title="wikilink">1995 カタール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カイオ・リベイロ・デコウサウ" title="wikilink">カイオ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセバ・エチェベリア" title="wikilink">ホセバ・エチェベリア</a></p></td>
+<td><p><a href="../Page/ホセバ・エチェベリア.md" title="wikilink">ホセバ・エチェベリア</a></p></td>
 <td><p>7</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1997_FIFAワールドユース選手権" title="wikilink">1997 マレーシア</a></p></td>
+<td><p><a href="../Page/1997_FIFAワールドユース選手権.md" title="wikilink">1997 マレーシア</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコラス・オリベラ" title="wikilink">ニコラス・オリベラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アダイウトン・マルティンス・ボウザン" title="wikilink">アダイウトン</a></p></td>
 <td><p>10</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1999_FIFAワールドユース選手権" title="wikilink">1999 ナイジェリア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セイドゥ・ケイタ" title="wikilink">セイドゥ・ケイタ</a></p></td>
+<td><p><a href="../Page/1999_FIFAワールドユース選手権.md" title="wikilink">1999 ナイジェリア</a></p></td>
+<td><p><a href="../Page/セイドゥ・ケイタ.md" title="wikilink">セイドゥ・ケイタ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パブロ・ゴンサレス・コウニャゴ" title="wikilink">パブロ</a></p></td>
 <td><p>5</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2001_FIFAワールドユース選手権" title="wikilink">2001 アルゼンチン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハビエル・サビオラ" title="wikilink">ハビエル・サビオラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハビエル・サビオラ" title="wikilink">ハビエル・サビオラ</a></p></td>
+<td><p><a href="../Page/2001_FIFAワールドユース選手権.md" title="wikilink">2001 アルゼンチン</a></p></td>
+<td><p><a href="../Page/ハビエル・サビオラ.md" title="wikilink">ハビエル・サビオラ</a></p></td>
+<td><p><a href="../Page/ハビエル・サビオラ.md" title="wikilink">ハビエル・サビオラ</a></p></td>
 <td><p>11</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2003_FIFAワールドユース選手権" title="wikilink">2003 アラブ首長国連邦</a></p></td>
+<td><p><a href="../Page/2003_FIFAワールドユース選手権.md" title="wikilink">2003 アラブ首長国連邦</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イスマイル・マタル" title="wikilink">イスマイル・マタル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エディ・ジョンソン" title="wikilink">エディ・ジョンソン</a></p></td>
 <td><p>4</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005_FIFAワールドユース選手権" title="wikilink">2005 オランダ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リオネル・メッシ" title="wikilink">リオネル・メッシ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リオネル・メッシ" title="wikilink">リオネル・メッシ</a></p></td>
+<td><p><a href="../Page/2005_FIFAワールドユース選手権.md" title="wikilink">2005 オランダ</a></p></td>
+<td><p><a href="../Page/リオネル・メッシ.md" title="wikilink">リオネル・メッシ</a></p></td>
+<td><p><a href="../Page/リオネル・メッシ.md" title="wikilink">リオネル・メッシ</a></p></td>
 <td><p>6</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ" title="wikilink">2007 カナダ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルヒオ・アグエロ" title="wikilink">セルヒオ・アグエロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルヒオ・アグエロ" title="wikilink">セルヒオ・アグエロ</a></p></td>
+<td><p><a href="../Page/2007_FIFA_U-20ワールドカップ.md" title="wikilink">2007 カナダ</a></p></td>
+<td><p><a href="../Page/セルヒオ・アグエロ.md" title="wikilink">セルヒオ・アグエロ</a></p></td>
+<td><p><a href="../Page/セルヒオ・アグエロ.md" title="wikilink">セルヒオ・アグエロ</a></p></td>
 <td><p>6</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2009_FIFA_U-20ワールドカップ" title="wikilink">2009 エジプト</a></p></td>
+<td><p><a href="../Page/2009_FIFA_U-20ワールドカップ.md" title="wikilink">2009 エジプト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドミニク・アディアー" title="wikilink">ドミニク・アディアー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドミニク・アディアー" title="wikilink">ドミニク・アディアー</a></p></td>
 <td><p>8</p></td>
@@ -2288,8 +2288,8 @@
 
 ## 関連項目
 
-  - [FIFA U-17ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-17ワールドカップ "wikilink")
-  - [FIFA U-20女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-20女子ワールドカップ "wikilink")
+  - [FIFA U-17ワールドカップ](../Page/FIFA_U-17ワールドカップ.md "wikilink")
+  - [FIFA U-20女子ワールドカップ](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")
 
 ## 外部リンク
 

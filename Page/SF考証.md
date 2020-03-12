@@ -1,20 +1,20 @@
 > この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
 
 
-**SF考証**（エスエフこうしょう）は、[SF作品で描写されている内容が](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、SFにおける約束事や、科学の基本的な原則に従っているかを検証する作業である。科学考証と違い、科学的には嘘であってもそれらしく辻褄を合わせるなどすることから、「考証」の語を避け、「SF設定」とすることもある（『[機動戦艦ナデシコ](https://ja.wikipedia.org/wiki/機動戦艦ナデシコ "wikilink")』など）。[時代劇](../Page/時代劇.md "wikilink")における[時代考証](https://ja.wikipedia.org/wiki/時代考証 "wikilink")に似ている。
+**SF考証**（エスエフこうしょう）は、[SF作品で描写されている内容が](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、SFにおける約束事や、科学の基本的な原則に従っているかを検証する作業である。科学考証と違い、科学的には嘘であってもそれらしく辻褄を合わせるなどすることから、「考証」の語を避け、「SF設定」とすることもある（『[機動戦艦ナデシコ](../Page/機動戦艦ナデシコ.md "wikilink")』など）。[時代劇](../Page/時代劇.md "wikilink")における[時代考証](../Page/時代考証.md "wikilink")に似ている。
 
-SF作品においては、例えば[超光速航法](https://ja.wikipedia.org/wiki/超光速航法 "wikilink")のように、現実の科学理論だけでは実現困難あるいは不可能と考えられるテーマを扱う場合、（通常は現実の科学理論をふまえた上で）それを補う架空の理論や技術を設定する。
+SF作品においては、例えば[超光速航法](../Page/超光速航法.md "wikilink")のように、現実の科学理論だけでは実現困難あるいは不可能と考えられるテーマを扱う場合、（通常は現実の科学理論をふまえた上で）それを補う架空の理論や技術を設定する。
 
 特に初期の、また低年齢層向けのSF作品においては、科学面からの考証が十分になされないまま様々な設定がなされてしまうことがあった。[ゴジラの体重が通常の生物の比重と比較して異常に重い](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")、などといった例が挙げられる。また、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』においてスカイドンを[ヘリコプター](../Page/ヘリコプター.md "wikilink")（[ローター](https://ja.wikipedia.org/wiki/翼#回転翼 "wikilink")）や[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")で宇宙空間に引き上げようとしたり、過去においてはアニメーションで宇宙にヘリコプターが飛来するというシーンなどもあったが、このような荒唐無稽さの度が過ぎ、興冷めになりかねないとなった場合、SF考証の点から設定を考え直すことがおこなわれる。
 
 一方で、『[妖星ゴラス](../Page/妖星ゴラス.md "wikilink")』のように（地球を動かす方法については無理も見られるものの）大学の研究室の協力を得て、地球の質量の概算値から必要なエネルギーを算出しシナリオに取り入れた、というような作品もある。
 
-古くは、[柴野拓美](https://ja.wikipedia.org/wiki/柴野拓美 "wikilink")が[タツノコプロ](../Page/タツノコプロ.md "wikilink")の初期のアニメにおいてSF考証を担当していた。また、[円谷プロ](https://ja.wikipedia.org/wiki/円谷プロ "wikilink")作品においては[大伴昌司](https://ja.wikipedia.org/wiki/大伴昌司 "wikilink")が怪獣の設定及び考証を行っていた。 最近は、[金子隆一が](https://ja.wikipedia.org/wiki/金子隆一_\(SF\) "wikilink")[軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")建設漫画『[まっすぐ天へ](https://ja.wikipedia.org/wiki/まっすぐ天へ "wikilink")』（作画：[的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")、[講談社](../Page/講談社.md "wikilink")）の考証面で協力者となっている。
+古くは、[柴野拓美](../Page/柴野拓美.md "wikilink")が[タツノコプロ](../Page/タツノコプロ.md "wikilink")の初期のアニメにおいてSF考証を担当していた。また、[円谷プロ](https://ja.wikipedia.org/wiki/円谷プロ "wikilink")作品においては[大伴昌司](../Page/大伴昌司.md "wikilink")が怪獣の設定及び考証を行っていた。 最近は、[金子隆一が](../Page/金子隆一_\(SF\).md "wikilink")[軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")建設漫画『[まっすぐ天へ](https://ja.wikipedia.org/wiki/まっすぐ天へ "wikilink")』（作画：[的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")、[講談社](../Page/講談社.md "wikilink")）の考証面で協力者となっている。
 
-SF考証に関する面白い例では、[ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")の『[リングワールド](https://ja.wikipedia.org/wiki/リングワールド "wikilink")』がある。『リングワールド』が発表された後、リングワールドは力学的に不安定である事がわかり、ニーヴンがその事実を公表すると、ファンからこの問題を解決のための続編を熱望する手紙を山のように受け取ることになった。そしてその後、ニーヴンは実際に続編の『[リングワールドふたたび](https://ja.wikipedia.org/wiki/リングワールドふたたび "wikilink")』を書き、そこでリングワールドを力学的に安定させる方法を載せた。
+SF考証に関する面白い例では、[ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")の『[リングワールド](../Page/リングワールド.md "wikilink")』がある。『リングワールド』が発表された後、リングワールドは力学的に不安定である事がわかり、ニーヴンがその事実を公表すると、ファンからこの問題を解決のための続編を熱望する手紙を山のように受け取ることになった。そしてその後、ニーヴンは実際に続編の『[リングワールドふたたび](../Page/リングワールドふたたび.md "wikilink")』を書き、そこでリングワールドを力学的に安定させる方法を載せた。
 
-また、SF作品の評論のひとつの形として、科学的に少々無茶であっても、作品世界内の架空の理論・技術を積極的に肯定する[長谷川裕一](../Page/長谷川裕一.md "wikilink")の『[すごい科学で守ります\!](https://ja.wikipedia.org/wiki/すごい科学で守ります! "wikilink")』のような例もある。
+また、SF作品の評論のひとつの形として、科学的に少々無茶であっても、作品世界内の架空の理論・技術を積極的に肯定する[長谷川裕一](../Page/長谷川裕一.md "wikilink")の『[すごい科学で守ります\!](../Page/すごい科学で守ります!.md "wikilink")』のような例もある。
 
-半面、SFへのこだわりは、たとえば[高千穂遙](../Page/高千穂遙.md "wikilink")の『[ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』や『[ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")』を評して曰く「あれはSFではない」といった発言の巻き起こした論争、特に「ガンダムSF論争」は、それらアニメがSFとのファーストコンタクトだった者たちが小説を敬遠する等といった副作用をもたらした。
+半面、SFへのこだわりは、たとえば[高千穂遙](../Page/高千穂遙.md "wikilink")の『[ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』や『[ガンダム](../Page/機動戦士ガンダム.md "wikilink")』を評して曰く「あれはSFではない」といった発言の巻き起こした論争、特に「ガンダムSF論争」は、それらアニメがSFとのファーストコンタクトだった者たちが小説を敬遠する等といった副作用をもたらした。
 
 [Category:SF研究者](https://ja.wikipedia.org/wiki/Category:SF研究者 "wikilink") [Category:SF作品](https://ja.wikipedia.org/wiki/Category:SF作品 "wikilink")

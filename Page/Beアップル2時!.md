@@ -1,17 +1,17 @@
 > この記事は[Be2!](https://ja.wikipedia.org/wiki/Be2!)から翻訳されています。
 
 
-『**Beアップル2時\!**』（ビーアップルにじ）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**Beアップル2時\!**』（ビーアップルにじ）は、[1992年](../Page/1992年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 
-1979年4月から13年半にわたって放送された『[2時のワイドショー](https://ja.wikipedia.org/wiki/2時のワイドショー "wikilink")』の後継番組で、引き続き主婦をターゲットにした内容で放送。月曜日から木曜日までの司会は[円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")が、金曜日の司会は[田中康夫](../Page/田中康夫.md "wikilink")が務めていた。
+1979年4月から13年半にわたって放送された『[2時のワイドショー](../Page/2時のワイドショー.md "wikilink")』の後継番組で、引き続き主婦をターゲットにした内容で放送。月曜日から木曜日までの司会は[円広志](../Page/円広志.md "wikilink")が、金曜日の司会は[田中康夫](../Page/田中康夫.md "wikilink")が務めていた。
 
 前期のオープニングテーマは[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")の「バック・イン・マイ・ライフ」で、この曲が流れている間は出演者のテロップと絵を描くシーンも流された。
 
-、放送開始3か月後の1993年1月からオープニングタイトル（りんごの形をしたもの）・音楽・企画などの大幅な変更を行うと共に、月曜日のレギュラー出演者に[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")を加えるなどのテコ入れも行った。しかし、番組は同年4月2日放送分をもって終了した。
+、放送開始3か月後の1993年1月からオープニングタイトル（りんごの形をしたもの）・音楽・企画などの大幅な変更を行うと共に、月曜日のレギュラー出演者に[やしきたかじん](../Page/やしきたかじん.md "wikilink")を加えるなどのテコ入れも行った。しかし、番組は同年4月2日放送分をもって終了した。
 
-これにより、日テレ系の昼のワイドショーは14・15時台を統合した[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・読売テレビ共同制作の『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』へ移行するのだが、当初は読売テレビ制作のパートについてはこのサロントーク型の形式を踏襲していた。しかし[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")や[オウム真理教事件](https://ja.wikipedia.org/wiki/オウム真理教事件 "wikilink")などの影響で日テレ制作パートの時間に重きが置かれ、自然消滅（ただし、晩期は読売テレビが主導となって制作するが、キーステーションは事実上日テレが継続）となり、『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』が本格的な全国ネットを展開する2007年（放送そのものは2006年開始）まで、読売テレビ制作のワイドショーは事実上途絶える形となる。
+これにより、日テレ系の昼のワイドショーは14・15時台を統合した[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・読売テレビ共同制作の『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』へ移行するのだが、当初は読売テレビ制作のパートについてはこのサロントーク型の形式を踏襲していた。しかし[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")や[オウム真理教事件](../Page/オウム真理教事件.md "wikilink")などの影響で日テレ制作パートの時間に重きが置かれ、自然消滅（ただし、晩期は読売テレビが主導となって制作するが、キーステーションは事実上日テレが継続）となり、『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』が本格的な全国ネットを展開する2007年（放送そのものは2006年開始）まで、読売テレビ制作のワイドショーは事実上途絶える形となる。
 
 同局製作の番組『[EXテレビ](../Page/EXテレビ.md "wikilink")』の「クイズ1人しか言いませんでした！」のコーナーで円がゲスト出演した際に、司会の[島田紳助](../Page/島田紳助.md "wikilink")が円に「賞金がマイナスになったら『Beアップル』差し押さえるよ、ホンマ」と言うやり取りがあった。しかしこの時点では番組は既に終了しており、円が「もう終わったわ…」と小さく吐き捨てるように返すのがやっとだった。
 
@@ -19,7 +19,7 @@
 
 ### 月 - 木曜日
 
-  - [円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")、[宇江佐りえ](https://ja.wikipedia.org/wiki/宇江佐りえ "wikilink")、[新藤栄作](https://ja.wikipedia.org/wiki/新藤栄作 "wikilink")（1992年10月 - 1992年12月）
+  - [円広志](../Page/円広志.md "wikilink")、[宇江佐りえ](../Page/宇江佐りえ.md "wikilink")、[新藤栄作](../Page/新藤栄作.md "wikilink")（1992年10月 - 1992年12月）
   - 円広志、[永井由起子](https://ja.wikipedia.org/wiki/永井由起子 "wikilink")（1993年1月 - 1993年3月、それぞれ『ザ・ワイド』も続投）
 
 ### 金曜日
@@ -140,20 +140,20 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県・岡山県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県・岡山県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a> (RNC)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a> (FBS)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎国際テレビ" title="wikilink">長崎国際テレビ</a> (NIB)</p></td>
+<td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a> (NIB)</p></td>
 <td></td>
 <td></td>
 </tr>

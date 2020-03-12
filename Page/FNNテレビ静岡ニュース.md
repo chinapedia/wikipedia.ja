@@ -20,21 +20,21 @@
 
   - [テレビ静岡ニュースホットライン](https://ja.wikipedia.org/wiki/テレビ静岡ニュースホットライン "wikilink")
     1974年4月 - 1978年9月： 月曜日 - 金曜日 16:45 - 17:00
-  - [テレビ静岡ニュースレポート](https://ja.wikipedia.org/wiki/テレビ静岡ニュースプラザ "wikilink")
+  - [テレビ静岡ニュースレポート](../Page/テレビ静岡ニュースプラザ.md "wikilink")
     1978年10月 - 1979年6月： 月曜日 - 金曜日 18:30 - 18:55
-  - [テレビ静岡ニュースプラザ](https://ja.wikipedia.org/wiki/テレビ静岡ニュースプラザ "wikilink")
+  - [テレビ静岡ニュースプラザ](../Page/テレビ静岡ニュースプラザ.md "wikilink")
     1979年7月 - 1984年9月： 月曜日 - 金曜日 18:30 - 18:55
-  - [FNNテレビ静岡スーパータイム](https://ja.wikipedia.org/wiki/FNNテレビ静岡スーパータイム "wikilink")
+  - [FNNテレビ静岡スーパータイム](../Page/FNNテレビ静岡スーパータイム.md "wikilink")
     1984年10月1日 - 1997年3月30日： 月曜日 - 金曜日 18:00 - 18:55、土曜日 18:00 - 18:30、日曜日 17:30 - 18:00
       -
         この番組からFNN冠がつく。
   - [FNNテレビ静岡ザ・ヒューマン](https://ja.wikipedia.org/wiki/FNNニュース_ザ・ヒューマン "wikilink")
     1997年3月31日 - 1998年3月29日： 月曜日 - 金曜日 17:54.45 - 18:55、土曜日 18:00 - 18:30、日曜日 17:30 - 18:00
-  - [FNNテレビ静岡スーパーニュース](https://ja.wikipedia.org/wiki/FNNテレビ静岡スーパーニュース "wikilink")
+  - [FNNテレビ静岡スーパーニュース](../Page/FNNテレビ静岡スーパーニュース.md "wikilink")
     1998年3月30日 - 2015年3月29日：月曜日 - 金曜日 17:54 - 19:00、土曜日・日曜日 17:30 - 18:00
       -
         前半は全国ニュース（[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")）、月 - 金曜は18:15から静岡県内のローカル枠。
-        ※なお、月-金曜の放送時間は『[ドレみ〜る](https://ja.wikipedia.org/wiki/番宣番組 "wikilink")』があるため、18:55までとなっている（しかし、編成上は内包番組扱い）。
+        ※なお、月-金曜の放送時間は『[ドレみ〜る](../Page/番宣番組.md "wikilink")』があるため、18:55までとなっている（しかし、編成上は内包番組扱い）。
   - [LIVEをピピピ](https://ja.wikipedia.org/wiki/LIVEをピピピ "wikilink")・[みんなのニュース しずおか](https://ja.wikipedia.org/wiki/みんなのニュース_しずおか "wikilink")
     2015年3月30日 - 2018年3月30日：月曜日 - 金曜日 17:00 - 19:00、土曜日・日曜日 17:30 - 18:00
       -
@@ -56,7 +56,7 @@
     日曜 6:00 - 6:15
     同じく中身はフジテレビ発の『FNNニュース』。現在は4月 - 6月と10月 - 12月にこのタイトルを使用。
 
-上記のタイトルが3か月ごとに交互使用されている理由は、テレビ静岡が[中日新聞社](https://ja.wikipedia.org/wiki/中日新聞社 "wikilink")と[産経新聞社](https://ja.wikipedia.org/wiki/産経新聞社 "wikilink")の双方から協力を受けているため。
+上記のタイトルが3か月ごとに交互使用されている理由は、テレビ静岡が[中日新聞社](../Page/中日新聞社.md "wikilink")と[産経新聞社](https://ja.wikipedia.org/wiki/産経新聞社 "wikilink")の双方から協力を受けているため。
 
 ## 昼のニュース
 
@@ -76,5 +76,5 @@
 [Category:テレビ静岡の番組](https://ja.wikipedia.org/wiki/Category:テレビ静岡の番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink") [Category:東海・北陸地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのミニ番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組 "wikilink") [Category:FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート11:30 "wikilink") [Category:FNNニュース6:30](https://ja.wikipedia.org/wiki/Category:FNNニュース6:30 "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")
 
 1.  土曜日はサッカー[Jリーグ中継のため](../Page/日本プロサッカーリーグ.md "wikilink")、放送時間が異なる場合がある。
-2.  以前は『[FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")』→『[FNNレインボー発・あすの天気](https://ja.wikipedia.org/wiki/FNNレインボー発・あすの天気 "wikilink")』、\*:2014年度のみ『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』、2015年4月から2016年9月までは『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』、2016年10月から2017年9月までは『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』だった。
+2.  以前は『[FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")』→『[FNNレインボー発・あすの天気](https://ja.wikipedia.org/wiki/FNNレインボー発・あすの天気 "wikilink")』、\*:2014年度のみ『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』、2015年4月から2016年9月までは『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』、2016年10月から2017年9月までは『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』だった。
 3.

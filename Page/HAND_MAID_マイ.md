@@ -7,7 +7,7 @@
 
 ## あらすじ
 
-**小津日出生**は[映画監督](../Page/映画監督.md "wikilink")を目指して頑張ってはいるものの、現実は厳しく[アダルトビデオメーカー](https://ja.wikipedia.org/wiki/アダルトビデオメーカー "wikilink")に住み込みで働き、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")の[撮影](https://ja.wikipedia.org/wiki/撮影 "wikilink")や[編集](../Page/編集.md "wikilink")に明け暮れる毎日。淡い恋心を抱きつつ、[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")の**黒澤麻衣**を9年に渡り撮影してきたものの、ラストシーンだけが撮影できずにいた。そんなおり、麻衣から久々の[電話](../Page/電話.md "wikilink")が。会ってみると…。
+**小津日出生**は[映画監督](../Page/映画監督.md "wikilink")を目指して頑張ってはいるものの、現実は厳しく[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")に住み込みで働き、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")の[撮影](../Page/撮影.md "wikilink")や[編集](../Page/編集.md "wikilink")に明け暮れる毎日。淡い恋心を抱きつつ、[幼馴染](../Page/幼馴染.md "wikilink")の**黒澤麻衣**を9年に渡り撮影してきたものの、ラストシーンだけが撮影できずにいた。そんなおり、麻衣から久々の[電話](../Page/電話.md "wikilink")が。会ってみると…。
 
 ## 登場人物
 
@@ -31,22 +31,22 @@
     声：[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")
     アクションもこなせる[AV女優](../Page/AV女優.md "wikilink")。怪力で[うどん](../Page/うどん.md "wikilink")が好物。
   - 山本社長（監督）
-    声：[茶風林](https://ja.wikipedia.org/wiki/茶風林 "wikilink")
+    声：[茶風林](../Page/茶風林.md "wikilink")
     [AVメーカー](https://ja.wikipedia.org/wiki/AVメーカー "wikilink")山本ドリーム企画の社長兼監督。
   - 勅使河原邦男
-    声：[宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")
+    声：[宝亀克寿](../Page/宝亀克寿.md "wikilink")
     麻衣の主演映画の監督。
   - 大島孝蔵
-    声：[乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+    声：[乃村健次](../Page/乃村健次.md "wikilink")
     オーロラプロダクション社長。麻衣のプロデュースを行っている。
   - 舛田恭子
-    声：[立野香菜子](https://ja.wikipedia.org/wiki/立野香菜子 "wikilink")
+    声：[立野香菜子](../Page/立野香菜子.md "wikilink")
     「マキョリンのとりあえず聞いちゃえ！」という番組で、勅使河原監督にインタビューしていた女性。
   - サイバドール　サラマーク2
     声：[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")
     酔っ払った日出生の前に、マイ達3体の納品書を持って現れたサイバドール。
   - 谷 かすみ
-    声：[高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+    声：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
     特別ゲスト出演。TV版「HAND MAID メイ」のヒロインの1人。
     お茶の水工業大学の学生。小津日出生を変質者と勘違いした。
 
@@ -55,15 +55,15 @@
   - 企画：[有栖川ケイ](https://ja.wikipedia.org/wiki/有栖川ケイ "wikilink")
   - 企画・原作：[ワンダーファーム](https://ja.wikipedia.org/wiki/ワンダーファーム "wikilink")
   - 監督：[きみやしげる](https://ja.wikipedia.org/wiki/木宮茂 "wikilink")
-  - 原作・シリーズ構成：[六月十三](https://ja.wikipedia.org/wiki/六月十三 "wikilink")
+  - 原作・シリーズ構成：[六月十三](../Page/六月十三.md "wikilink")
   - 脚本：川守田游
   - キャラクターデザイン：小林多加志
   - 制作プロデュース：木村健吾
-  - 音楽プロデュース：[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")
+  - 音楽プロデュース：[井上俊次](../Page/井上俊次.md "wikilink")
   - 音響監督：榎本崇宏
-  - 音楽制作：[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - 音楽制作：[ランティス](../Page/ランティス.md "wikilink")
   - 音響制作：[ドリーム・フォース](https://ja.wikipedia.org/wiki/ドリーム・フォース "wikilink")
-  - アニメーション制作：[東京キッズ](https://ja.wikipedia.org/wiki/東京キッズ "wikilink")
+  - アニメーション制作：[東京キッズ](../Page/東京キッズ.md "wikilink")
   - 製作プロデュース：岡田和則
   - 製作・販売：ファイブウェイズ
 

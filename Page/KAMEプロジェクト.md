@@ -1,13 +1,13 @@
 > この記事は[KAME](https://ja.wikipedia.org/wiki/KAME)から翻訳されています。
 
 
-**KAMEプロジェクト**（かめぷろじぇくと）は、[IIJ](https://ja.wikipedia.org/wiki/IIJ "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")、[日立](../Page/日立製作所.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[横河電機](https://ja.wikipedia.org/wiki/横河電機 "wikilink")(五十音順)各社による共同研究プロジェクト。[BSD](../Page/BSD.md "wikilink")系OS([FreeBSD](../Page/FreeBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"))上に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")を中心としたインターネット技術の標準コードを実装することを目的として、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に始まった。
+**KAMEプロジェクト**（かめぷろじぇくと）は、[IIJ](https://ja.wikipedia.org/wiki/IIJ "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[日立](../Page/日立製作所.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[横河電機](https://ja.wikipedia.org/wiki/横河電機 "wikilink")(五十音順)各社による共同研究プロジェクト。[BSD](../Page/BSD.md "wikilink")系OS([FreeBSD](../Page/FreeBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"))上に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")を中心としたインターネット技術の標準コードを実装することを目的として、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に始まった。
 
-KAMEの実装は[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")下で[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開され、現在までに各BSD UNIXのIPv6スタックとして採用されており、さらにルータベンダなどにも採用されている。
+KAMEの実装は[BSDライセンス](../Page/BSDライセンス.md "wikilink")下で[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開され、現在までに各BSD UNIXのIPv6スタックとして採用されており、さらにルータベンダなどにも採用されている。
 
-KAMEプロジェクトは、[USAGIプロジェクト](https://ja.wikipedia.org/wiki/USAGIプロジェクト "wikilink")や[TAHIプロジェクト](https://ja.wikipedia.org/wiki/TAHIプロジェクト "wikilink")同様に[WIDEプロジェクト](https://ja.wikipedia.org/wiki/WIDEプロジェクト "wikilink")傘下のプロジェクトで、特にこれらのプロジェクトとは密接に関係して活動している。
+KAMEプロジェクトは、[USAGIプロジェクト](https://ja.wikipedia.org/wiki/USAGIプロジェクト "wikilink")や[TAHIプロジェクト](https://ja.wikipedia.org/wiki/TAHIプロジェクト "wikilink")同様に[WIDEプロジェクト](../Page/WIDEプロジェクト.md "wikilink")傘下のプロジェクトで、特にこれらのプロジェクトとは密接に関係して活動している。
 
-「KAME」という名前は、かつてはKAMEプロジェクトの本拠地のあった[藤沢市](../Page/藤沢市.md "wikilink")刈込(かりごめ)の略と言われた頃もあったが、実際は、KAMEプロジェクトが始まる直前に行われた合宿で、開発エンジニアの一人[itojunが](https://ja.wikipedia.org/wiki/萩野純一郎 "wikilink")、どうしてもとれない[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")に悩まされていたときに、そばにあった[亀の](../Page/カメ.md "wikilink")[ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")に「かめさん助けて」といって抱きついて、その後無事にバグがとれたことに由来している。現在でも、KAMEのオフィスには様々な大きさの亀のぬいぐるみやおもちゃが飾られているし、かつては「KAMEプロジェクト」のタグをつけたぬいぐるみを販売していたこともある。(現在は在庫がつきたため販売は中止)
+「KAME」という名前は、かつてはKAMEプロジェクトの本拠地のあった[藤沢市](../Page/藤沢市.md "wikilink")刈込(かりごめ)の略と言われた頃もあったが、実際は、KAMEプロジェクトが始まる直前に行われた合宿で、開発エンジニアの一人[itojunが](../Page/萩野純一郎.md "wikilink")、どうしてもとれない[バグ](../Page/バグ.md "wikilink")に悩まされていたときに、そばにあった[亀の](../Page/カメ.md "wikilink")[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")に「かめさん助けて」といって抱きついて、その後無事にバグがとれたことに由来している。現在でも、KAMEのオフィスには様々な大きさの亀のぬいぐるみやおもちゃが飾られているし、かつては「KAMEプロジェクト」のタグをつけたぬいぐるみを販売していたこともある。(現在は在庫がつきたため販売は中止)
 
 KAMEプロジェクトのWebサイトのトップページには亀の画像があり、IPv6でアクセスすると、手足を動かすアニメーションをするようになっている。 このページは、IPv6で通信可能かどうかを判別する手段として広く知られており、「亀が踊る (the dancing kame)」と呼ばれる。
 
@@ -27,8 +27,8 @@ KAMEプロジェクトの主な成果は以下の通り
 ## 関連項目
 
   - [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")
-  - [IPsec](https://ja.wikipedia.org/wiki/IPsec "wikilink") - [racoon](https://ja.wikipedia.org/wiki/racoon "wikilink")
-  - [萩野純一郎](https://ja.wikipedia.org/wiki/萩野純一郎 "wikilink") - Itojun
+  - [IPsec](../Page/IPsec.md "wikilink") - [racoon](https://ja.wikipedia.org/wiki/racoon "wikilink")
+  - [萩野純一郎](../Page/萩野純一郎.md "wikilink") - Itojun
 
 ## 外部リンク
 

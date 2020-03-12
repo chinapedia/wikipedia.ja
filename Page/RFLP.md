@@ -1,9 +1,9 @@
 > この記事は[RFLP](https://ja.wikipedia.org/wiki/RFLP)から翻訳されています。
 
 
-**RFLP**（**R**estriction **F**ragment **L**ength **P**olymorphism、制限酵素断片長多型）とは、[制限酵素](https://ja.wikipedia.org/wiki/制限酵素 "wikilink")によって切断された [DNA](../Page/デオキシリボ核酸.md "wikilink") 断片の長さが、同一[種内の個体間で異なる](../Page/種_\(分類学\).md "wikilink")（[多型](https://ja.wikipedia.org/wiki/多型 "wikilink")を示す）ことを指し、また転じてそれを検出する手法も意味する。[一塩基多型](https://ja.wikipedia.org/wiki/一塩基多型 "wikilink")によってこの違いが現れることもある。[遺伝病](https://ja.wikipedia.org/wiki/遺伝病 "wikilink")を持つ人と持たない人でこれが異なる場合があり、診断や遺伝病の原因[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の同定に利用される。得られた断片長は、[電気泳動](../Page/電気泳動.md "wikilink")によって既知の断片長の[DNA](../Page/デオキシリボ核酸.md "wikilink")（サイズマーカー ）と比較して求める。
+**RFLP**（**R**estriction **F**ragment **L**ength **P**olymorphism、制限酵素断片長多型）とは、[制限酵素](https://ja.wikipedia.org/wiki/制限酵素 "wikilink")によって切断された [DNA](../Page/デオキシリボ核酸.md "wikilink") 断片の長さが、同一[種内の個体間で異なる](../Page/種_\(分類学\).md "wikilink")（[多型](../Page/多型.md "wikilink")を示す）ことを指し、また転じてそれを検出する手法も意味する。[一塩基多型](../Page/一塩基多型.md "wikilink")によってこの違いが現れることもある。[遺伝病](https://ja.wikipedia.org/wiki/遺伝病 "wikilink")を持つ人と持たない人でこれが異なる場合があり、診断や遺伝病の原因[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の同定に利用される。得られた断片長は、[電気泳動](../Page/電気泳動.md "wikilink")によって既知の断片長の[DNA](../Page/デオキシリボ核酸.md "wikilink")（サイズマーカー ）と比較して求める。
 
-[ゲノムプロジェクト](../Page/ゲノムプロジェクト.md "wikilink")の進行に伴って[PCRに用いる](../Page/ポリメラーゼ連鎖反応.md "wikilink")[プライマー](https://ja.wikipedia.org/wiki/プライマー "wikilink")の設計が容易になったため、現在ではPCRでDNAを増幅し、その反応生成物を制限酵素で切断する手法であるPCR-RFLPが一般的となった。PCR-RFLP以前は[ヒト](https://ja.wikipedia.org/wiki/ヒト "wikilink")を対象とした場合、
+[ゲノムプロジェクト](../Page/ゲノムプロジェクト.md "wikilink")の進行に伴って[PCRに用いる](../Page/ポリメラーゼ連鎖反応.md "wikilink")[プライマー](https://ja.wikipedia.org/wiki/プライマー "wikilink")の設計が容易になったため、現在ではPCRでDNAを増幅し、その反応生成物を制限酵素で切断する手法であるPCR-RFLPが一般的となった。PCR-RFLP以前は[ヒト](../Page/ヒト.md "wikilink")を対象とした場合、
 
 1.  生きた[細胞](../Page/細胞.md "wikilink")の採取
 2.  細胞の培養（数日）

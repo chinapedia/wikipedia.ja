@@ -1,7 +1,7 @@
 > この記事は[Q.E.D.](https://ja.wikipedia.org/wiki/Q.E.D.)から翻訳されています。
 
 
-[数学](../Page/数学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")などにおける **Q.E.D.** は[ラテン語](../Page/ラテン語.md "wikilink")の Quod Erat Demonstrandum（かく示された）が略されてできた[頭字語](https://ja.wikipedia.org/wiki/頭字語 "wikilink")。[証明](../Page/証明.md "wikilink")や[論証](https://ja.wikipedia.org/wiki/論証 "wikilink")の末尾におかれ、議論が終わったことを示す。 ただし現代の数学において Q.E.D. はほとんど使用されていない\[1\]。（[\#電子的な記号](https://ja.wikipedia.org/wiki/#電子的な記号 "wikilink")を参照。）
+[数学](../Page/数学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")などにおける **Q.E.D.** は[ラテン語](../Page/ラテン語.md "wikilink")の Quod Erat Demonstrandum（かく示された）が略されてできた[頭字語](../Page/頭字語.md "wikilink")。[証明](../Page/証明.md "wikilink")や[論証](../Page/論証.md "wikilink")の末尾におかれ、議論が終わったことを示す。 ただし現代の数学において Q.E.D. はほとんど使用されていない\[1\]。（[\#電子的な記号](https://ja.wikipedia.org/wiki/#電子的な記号 "wikilink")を参照。）
 
 ## 使用法
 

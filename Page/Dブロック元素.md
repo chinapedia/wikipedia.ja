@@ -49,6 +49,6 @@
       - [Gブロック元素](https://ja.wikipedia.org/wiki/Gブロック元素 "wikilink")
   - [周期律](../Page/周期律.md "wikilink")
   - [周期表](../Page/周期表.md "wikilink")
-  - [HSAB則](https://ja.wikipedia.org/wiki/HSAB則 "wikilink")
+  - [HSAB則](../Page/HSAB則.md "wikilink")
 
 [Category:元素群](https://ja.wikipedia.org/wiki/Category:元素群 "wikilink")

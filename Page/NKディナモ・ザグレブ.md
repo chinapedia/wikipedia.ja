@@ -3,21 +3,21 @@
 
 **グラジャンスキ・ノゴメトニ・クルブ・ディナモ・ザグレブ**（）\[1\]\[2\]\[3\] は、[クロアチア](../Page/クロアチア.md "wikilink")共和国の首都[ザグレブ](../Page/ザグレブ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。略字表記は「DZG」
 
-[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")時代からクロアチアを代表する強豪クラブのひとつであり、[ユーゴスラビアリーグでは](https://ja.wikipedia.org/wiki/ユーゴスラビア・プルヴァ・リーガ "wikilink")4回の優勝をしていた。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にユーゴスラビアからクロアチアが分離し独立してからはクロアチアリーグの最強豪チームとなった。
+[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")時代からクロアチアを代表する強豪クラブのひとつであり、[ユーゴスラビアリーグでは](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")4回の優勝をしていた。[1992年](../Page/1992年.md "wikilink")にユーゴスラビアからクロアチアが分離し独立してからはクロアチアリーグの最強豪チームとなった。
 
-日本人の獲得に熱心であり、過去には[佐藤寿人](https://ja.wikipedia.org/wiki/佐藤寿人 "wikilink")や[家長昭博](https://ja.wikipedia.org/wiki/家長昭博 "wikilink")に接触している他、[三浦知良](../Page/三浦知良.md "wikilink")を獲得したこともある。\[4\]
+日本人の獲得に熱心であり、過去には[佐藤寿人](../Page/佐藤寿人.md "wikilink")や[家長昭博](../Page/家長昭博.md "wikilink")に接触している他、[三浦知良](../Page/三浦知良.md "wikilink")を獲得したこともある。\[4\]
 
 ## 歴史
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[ユーゴスラビア共産党の指導によってそれまでザグレブに存在したHAŠK](https://ja.wikipedia.org/wiki/ユーゴスラビア共産主義者同盟 "wikilink")（[1903年](../Page/1903年.md "wikilink")創設）やグラジャンスキー（[1911年](../Page/1911年.md "wikilink")創設）といったクラブは解散させられ、[1945年](../Page/1945年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にディナモが創設された。創設当初の選手は主に元HAŠK、グラジャンスキーの選手から構成されていた。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[ユーゴスラビア共産党の指導によってそれまでザグレブに存在したHAŠK](../Page/ユーゴスラビア共産主義者同盟.md "wikilink")（[1903年](../Page/1903年.md "wikilink")創設）やグラジャンスキー（[1911年](../Page/1911年.md "wikilink")創設）といったクラブは解散させられ、[1945年](../Page/1945年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にディナモが創設された。創設当初の選手は主に元HAŠK、グラジャンスキーの選手から構成されていた。
 
-連邦国家時代には[レッドスター](https://ja.wikipedia.org/wiki/レッドスター・ベオグラード "wikilink")、[パルチザンなどの連邦の中心である](https://ja.wikipedia.org/wiki/パルチザン・ベオグラード "wikilink")[セルビア](../Page/セルビア.md "wikilink")に本拠を置く強豪の対抗馬として、同じくクロアチアに本拠を置いた[ハイデュク・スプリト](https://ja.wikipedia.org/wiki/ハイデュク・スプリト "wikilink")などとともにクロアチア国民に支持された強豪であった\[5\]。
+連邦国家時代には[レッドスター](../Page/レッドスター・ベオグラード.md "wikilink")、[パルチザンなどの連邦の中心である](../Page/パルチザン・ベオグラード.md "wikilink")[セルビア](../Page/セルビア.md "wikilink")に本拠を置く強豪の対抗馬として、同じくクロアチアに本拠を置いた[ハイデュク・スプリト](https://ja.wikipedia.org/wiki/ハイデュク・スプリト "wikilink")などとともにクロアチア国民に支持された強豪であった\[5\]。
 
-クロアチアの独立後は初代大統領[フラニョ・トゥジマン](https://ja.wikipedia.org/wiki/フラニョ・トゥジマン "wikilink")によって税制の優遇を受け、ライバルであるハイデュクを大きく経済面で上回る国内での一強状態を築き上げた\[6\]。クラブ名は[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にHAŠKグラジャンスキー、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にクロアチア・ザグレブへと改名された。一連の改名はトゥジマンの意向が働いたものであったとされるが、サポーター達はこれらの新しいクラブ名を拒絶した。そしてトゥジマンの死後、クラブは[2001年](../Page/2001年.md "wikilink")に再度ディナモ・ザグレブに改名された。
+クロアチアの独立後は初代大統領[フラニョ・トゥジマン](../Page/フラニョ・トゥジマン.md "wikilink")によって税制の優遇を受け、ライバルであるハイデュクを大きく経済面で上回る国内での一強状態を築き上げた\[6\]。クラブ名は[1991年](../Page/1991年.md "wikilink")にHAŠKグラジャンスキー、[1992年](../Page/1992年.md "wikilink")にクロアチア・ザグレブへと改名された。一連の改名はトゥジマンの意向が働いたものであったとされるが、サポーター達はこれらの新しいクラブ名を拒絶した。そしてトゥジマンの死後、クラブは[2001年](../Page/2001年.md "wikilink")に再度ディナモ・ザグレブに改名された。
 
-トゥジマンの影響力が消えるとともに税制の優遇は排除され、以前の様な経済力は無くなったが\[7\]、近年はクロアチア国内から獲得した若手有望選手を育てて売ることで多額の収益を挙げている。2000年代後半だけでもFW[エドゥアルド・ダ・シルヴァ](https://ja.wikipedia.org/wiki/エドゥアルド・ダ・シルヴァ "wikilink")（移籍金750万ポンド、[アーセナルへ](../Page/アーセナルFC.md "wikilink")\[8\]）、DF[ヴェドラン・チョルルカ](https://ja.wikipedia.org/wiki/ヴェドラン・チョルルカ "wikilink")（移籍金800万ポンド、[マンチェスター・シティへ](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")\[9\]）、FW[イヴィツァ・オリッチ](https://ja.wikipedia.org/wiki/イヴィツァ・オリッチ "wikilink")（移籍金500万ユーロ、[PFC CSKAモスクワへ](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")）、MF[ルカ・モドリッチ](https://ja.wikipedia.org/wiki/ルカ・モドリッチ "wikilink")（移籍金1650万ポンド、[トッテナムへ](https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC "wikilink")\[10\] ）、DF[デヤン・ロヴレン](https://ja.wikipedia.org/wiki/デヤン・ロヴレン "wikilink")（移籍金1000万ユーロ、[リヨンへ](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")\[11\]）、MF[マリオ・マンジュキッチ](https://ja.wikipedia.org/wiki/マリオ・マンジュキッチ "wikilink")（移籍金800万ユーロ、[ヴォルフスブルクへ](https://ja.wikipedia.org/wiki/VfLヴォルフスブルク "wikilink")\[12\]）などの放出で収益をあげている。
+トゥジマンの影響力が消えるとともに税制の優遇は排除され、以前の様な経済力は無くなったが\[7\]、近年はクロアチア国内から獲得した若手有望選手を育てて売ることで多額の収益を挙げている。2000年代後半だけでもFW[エドゥアルド・ダ・シルヴァ](../Page/エドゥアルド・ダ・シルヴァ.md "wikilink")（移籍金750万ポンド、[アーセナルへ](../Page/アーセナルFC.md "wikilink")\[8\]）、DF[ヴェドラン・チョルルカ](../Page/ヴェドラン・チョルルカ.md "wikilink")（移籍金800万ポンド、[マンチェスター・シティへ](../Page/マンチェスター・シティFC.md "wikilink")\[9\]）、FW[イヴィツァ・オリッチ](../Page/イヴィツァ・オリッチ.md "wikilink")（移籍金500万ユーロ、[PFC CSKAモスクワへ](../Page/PFC_CSKAモスクワ.md "wikilink")）、MF[ルカ・モドリッチ](../Page/ルカ・モドリッチ.md "wikilink")（移籍金1650万ポンド、[トッテナムへ](../Page/トッテナム・ホットスパーFC.md "wikilink")\[10\] ）、DF[デヤン・ロヴレン](https://ja.wikipedia.org/wiki/デヤン・ロヴレン "wikilink")（移籍金1000万ユーロ、[リヨンへ](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")\[11\]）、MF[マリオ・マンジュキッチ](https://ja.wikipedia.org/wiki/マリオ・マンジュキッチ "wikilink")（移籍金800万ユーロ、[ヴォルフスブルクへ](../Page/VfLヴォルフスブルク.md "wikilink")\[12\]）などの放出で収益をあげている。
 
-ホームスタジアムは[スタディオン・マクシミール](https://ja.wikipedia.org/wiki/スタディオン・マクシミール "wikilink")。戦前のユーゴスラビアリーグにおいて、前述のHAŠKやグラジャンスキーなどの強豪がダービーマッチを行ったこのスタジアムは旧来より「クロアチアサッカーの聖地」とされ、独立後はトゥジマンの意向により大規模な拡張工事が行われた\[13\]。ゴール裏には熱狂的なサポーター集団バッド・ブルー・ボーイズが陣取り、[クロアチア紛争](https://ja.wikipedia.org/wiki/クロアチア紛争 "wikilink")のきっかけとも言われる[1990年の暴動を始めとして度々騒ぎを起こし](https://ja.wikipedia.org/wiki/1990年ディナモ・ザグレブ対レッドスター・ベオグラード戦での暴動 "wikilink")、悪名を広めている\[14\]。2010年にはリーグ優勝したにも関わらずクラブに不満を持ったサポーターが暴動を起こすという異例の事態も起こった\[15\]。
+ホームスタジアムは[スタディオン・マクシミール](https://ja.wikipedia.org/wiki/スタディオン・マクシミール "wikilink")。戦前のユーゴスラビアリーグにおいて、前述のHAŠKやグラジャンスキーなどの強豪がダービーマッチを行ったこのスタジアムは旧来より「クロアチアサッカーの聖地」とされ、独立後はトゥジマンの意向により大規模な拡張工事が行われた\[13\]。ゴール裏には熱狂的なサポーター集団バッド・ブルー・ボーイズが陣取り、[クロアチア紛争](../Page/クロアチア紛争.md "wikilink")のきっかけとも言われる[1990年の暴動を始めとして度々騒ぎを起こし](https://ja.wikipedia.org/wiki/1990年ディナモ・ザグレブ対レッドスター・ベオグラード戦での暴動 "wikilink")、悪名を広めている\[14\]。2010年にはリーグ優勝したにも関わらずクラブに不満を持ったサポーターが暴動を起こすという異例の事態も起こった\[15\]。
 
 ### クラブ名の変遷
 
@@ -40,7 +40,7 @@
         2010-11, 2011-12, 2014-15, 2015-16, 2017-18
   - **[クロアチア・スーパーカップ](https://ja.wikipedia.org/wiki/フルヴァツキ・ノゴメトニ・スーペルクプ "wikilink")：6回**
       - 2002, 2003, 2006, 2010, 2013, 2019
-  - **[ユーゴスラビア・リーグ](https://ja.wikipedia.org/wiki/ユーゴスラビア・プルヴァ・リーガ "wikilink")：4回**
+  - **[ユーゴスラビア・リーグ](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")：4回**
       - 1947-48, 1951-52, 1957-58, 1981-82
   - **[ユーゴスラビア・カップ](https://ja.wikipedia.org/wiki/ユーゴスラビア・カップ "wikilink")：7回**
       - 1950-51, 1959-60, 1962-63, 1964-65, 1968-69, 1979-80, 1982-83
@@ -166,7 +166,7 @@
 
   - [ルドルフ・ベリン](https://ja.wikipedia.org/wiki/ルドルフ・ベリン "wikilink") (1989)
 
-  - [ヨシップ・クジェ](https://ja.wikipedia.org/wiki/ヨジップ・クゼ "wikilink") (1989-1990)
+  - [ヨシップ・クジェ](../Page/ヨジップ・クゼ.md "wikilink") (1989-1990)
 
   - [ヴラトコ・マルコヴィッチ](https://ja.wikipedia.org/wiki/ヴラトコ・マルコヴィッチ "wikilink") (1990-1991)
 
@@ -178,13 +178,13 @@
 
   - [イヴァン・ベディ](https://ja.wikipedia.org/wiki/イヴァン・ベディ "wikilink") (1994)
 
-  - [ズラトコ・クラニチャール](https://ja.wikipedia.org/wiki/ズラトコ・クラニチャール "wikilink") (1994-1996)
+  - [ズラトコ・クラニチャール](../Page/ズラトコ・クラニチャール.md "wikilink") (1994-1996)
 
   - [オット・バリッチ](https://ja.wikipedia.org/wiki/オット・バリッチ "wikilink") (1996-1997)
 
   - [マリヤン・ヴラク](https://ja.wikipedia.org/wiki/マリヤン・ヴラク "wikilink") (1997-1998)
 
-  - [ズラトコ・クラニチャール](https://ja.wikipedia.org/wiki/ズラトコ・クラニチャール "wikilink") (1998)
+  - [ズラトコ・クラニチャール](../Page/ズラトコ・クラニチャール.md "wikilink") (1998)
 
   - [イヴァン・ベディ](https://ja.wikipedia.org/wiki/イヴァン・ベディ "wikilink") /  [フルヴォイェ・ブラオヴィッチ](https://ja.wikipedia.org/wiki/フルヴォイェ・ブラオヴィッチ "wikilink") (1998)
 
@@ -192,7 +192,7 @@
 
   - [イリヤ・ロンチャレヴィッチ](https://ja.wikipedia.org/wiki/イリヤ・ロンチャレヴィッチ "wikilink") (1999)
 
-  - [オズワルド・アルディレス](https://ja.wikipedia.org/wiki/オズワルド・アルディレス "wikilink") (1999)
+  - [オズワルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") (1999)
 
   - [マリヤン・ヴラク](https://ja.wikipedia.org/wiki/マリヤン・ヴラク "wikilink") (1999-2000)
 
@@ -214,13 +214,13 @@
 
   - [ズヴィエズダン・ツヴェトコヴィッチ](https://ja.wikipedia.org/wiki/ズヴィエズダン・ツヴェトコヴィッチ "wikilink") (2005)
 
-  - [ヨシップ・クジェ](https://ja.wikipedia.org/wiki/ヨジップ・クゼ "wikilink") (2005-2006)
+  - [ヨシップ・クジェ](../Page/ヨジップ・クゼ.md "wikilink") (2005-2006)
 
-  - [ブランコ・イヴァンコヴィッチ](https://ja.wikipedia.org/wiki/ブランコ・イバンコビッチ "wikilink") (2006-2008)
+  - [ブランコ・イヴァンコヴィッチ](../Page/ブランコ・イバンコビッチ.md "wikilink") (2006-2008)
 
   - [ズヴォニミル・ソルド](https://ja.wikipedia.org/wiki/ズヴォニミル・ソルド "wikilink") (2008)
 
-  - [ブランコ・イヴァンコヴィッチ](https://ja.wikipedia.org/wiki/ブランコ・イバンコビッチ "wikilink") (2008)
+  - [ブランコ・イヴァンコヴィッチ](../Page/ブランコ・イバンコビッチ.md "wikilink") (2008)
 
   - [マリヤン・ヴラク](https://ja.wikipedia.org/wiki/マリヤン・ヴラク "wikilink") (2008-2009)
 
@@ -230,7 +230,7 @@
 
   - [スレテン・チュク](https://ja.wikipedia.org/wiki/スレテン・チュク "wikilink") *(暫定)* (2010)
 
-  - [ヴァヒド・ハリルホジッチ](https://ja.wikipedia.org/wiki/ヴァヒド・ハリルホジッチ "wikilink") (2010-2011)
+  - [ヴァヒド・ハリルホジッチ](../Page/ヴァヒド・ハリルホジッチ.md "wikilink") (2010-2011)
 
   - [マリヨ・トト](https://ja.wikipedia.org/wiki/マリヨ・トト "wikilink") (2011)
 
@@ -242,11 +242,11 @@
 
   - [ダミル・クルズナル](https://ja.wikipedia.org/wiki/ダミル・クルズナル "wikilink") *(暫定)* (2013)
 
-  - [ブランコ・イヴァンコヴィッチ](https://ja.wikipedia.org/wiki/ブランコ・イバンコビッチ "wikilink") (2013)
+  - [ブランコ・イヴァンコヴィッチ](../Page/ブランコ・イバンコビッチ.md "wikilink") (2013)
 
   - [ゾラン・マミッチ](https://ja.wikipedia.org/wiki/ゾラン・マミッチ "wikilink") 2013-2016
 
-  - [ズラトコ・クラニチャール](https://ja.wikipedia.org/wiki/ズラトコ・クラニチャール "wikilink") 2016
+  - [ズラトコ・クラニチャール](../Page/ズラトコ・クラニチャール.md "wikilink") 2016
 
   - [ジェリコ・ソピッチ](https://ja.wikipedia.org/wiki/ジェリコ・ソピッチ "wikilink") *(暫定)* 2016
 
@@ -266,11 +266,11 @@
 
 ### DF
 
-  - [アンドレイ・パナディッチ](https://ja.wikipedia.org/wiki/アンドレイ・パナディッチ "wikilink") 1988-1990
+  - [アンドレイ・パナディッチ](../Page/アンドレイ・パナディッチ.md "wikilink") 1988-1990
 
-  - [ゼリコ・ペトロビッチ](https://ja.wikipedia.org/wiki/ゼリコ・ペトロビッチ "wikilink") 1990-1991
+  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 1990-1991
 
-  - [ダリオ・シミッチ](https://ja.wikipedia.org/wiki/ダリオ・シミッチ "wikilink") 1992-1999
+  - [ダリオ・シミッチ](../Page/ダリオ・シミッチ.md "wikilink") 1992-1999
 
   -  [エディ・ボスナー](https://ja.wikipedia.org/wiki/エディ・ボスナー "wikilink") 2000-2001, 2004-2005
 
@@ -278,47 +278,47 @@
 
   - [ディノ・ドルピッチ](https://ja.wikipedia.org/wiki/ディノ・ドルピッチ "wikilink") 2000-2008
 
-  - [ヴェドラン・チョルルカ](https://ja.wikipedia.org/wiki/ヴェドラン・チョルルカ "wikilink") 2003-2007
+  - [ヴェドラン・チョルルカ](../Page/ヴェドラン・チョルルカ.md "wikilink") 2003-2007
 
   - [ゴルドン・シルデンフェルト](https://ja.wikipedia.org/wiki/ゴルドン・シルデンフェルト "wikilink") 2007-2008, 2015-
 
-  - [ロベルト・コヴァチ](https://ja.wikipedia.org/wiki/ロベルト・コヴァチ "wikilink") 2009-2010
+  - [ロベルト・コヴァチ](../Page/ロベルト・コヴァチ.md "wikilink") 2009-2010
 
-  - [レアンドロ・クフレ](https://ja.wikipedia.org/wiki/レアンドロ・クフレ "wikilink") 2009-
+  - [レアンドロ・クフレ](../Page/レアンドロ・クフレ.md "wikilink") 2009-
 
   - [ティン・イェドヴァイ](https://ja.wikipedia.org/wiki/ティン・イェドヴァイ "wikilink") 2013
 
 ### MF
 
-  - [ミハイロ・ペトロヴィッチ](https://ja.wikipedia.org/wiki/ミハイロ・ペトロヴィッチ "wikilink") 1984-1985
+  - [ミハイロ・ペトロヴィッチ](../Page/ミハイロ・ペトロヴィッチ.md "wikilink") 1984-1985
 
-  - [スレチコ・カタネッツ](https://ja.wikipedia.org/wiki/スレチコ・カタネッツ "wikilink") 1984-1986
+  - [スレチコ・カタネッツ](../Page/スレチコ・カタネッツ.md "wikilink") 1984-1986
 
-  - [ズボニミール・ボバン](https://ja.wikipedia.org/wiki/ズボニミール・ボバン "wikilink") 1985-1991
+  - [ズボニミール・ボバン](../Page/ズボニミール・ボバン.md "wikilink") 1985-1991
 
-  - [ロベルト・プロシネチキ](https://ja.wikipedia.org/wiki/ロベルト・プロシネチキ "wikilink") 1986-1987
+  - [ロベルト・プロシネチキ](../Page/ロベルト・プロシネチキ.md "wikilink") 1986-1987
 
   - [クラノスラヴ・ユルチッチ](https://ja.wikipedia.org/wiki/クラノスラヴ・ユルチッチ "wikilink") 1988-1991, 1996-1999
 
-  - [ムラデン・ムラデノビッチ](https://ja.wikipedia.org/wiki/ムラデン・ムラデノビッチ "wikilink") 1990-1991
+  - [ムラデン・ムラデノビッチ](../Page/ムラデン・ムラデノビッチ.md "wikilink") 1990-1991
 
-  - [ヴィエッコスラブ・スクリーニャ](https://ja.wikipedia.org/wiki/ヴィエッコスラブ・スクリーニャ "wikilink") 1993-1994
+  - [ヴィエッコスラブ・スクリーニャ](../Page/ヴィエッコスラブ・スクリーニャ.md "wikilink") 1993-1994
 
-  - [エディン・ムイチン](https://ja.wikipedia.org/wiki/エディン・ムイチン "wikilink") 1995-2001, 2002-2005
+  - [エディン・ムイチン](../Page/エディン・ムイチン.md "wikilink") 1995-2001, 2002-2005
 
-  - [ブランコ・フチカ](https://ja.wikipedia.org/wiki/ブランコ・フチカ "wikilink") 1996-1997
+  - [ブランコ・フチカ](../Page/ブランコ・フチカ.md "wikilink") 1996-1997
 
   - [ミハエル・ミキッチ](https://ja.wikipedia.org/wiki/ミハエル・ミキッチ "wikilink") 1997-2004, 2007-2009
 
-  - [イェルコ・レコ](https://ja.wikipedia.org/wiki/イェルコ・レコ "wikilink") 2000-2002
+  - [イェルコ・レコ](../Page/イェルコ・レコ.md "wikilink") 2000-2002
 
-  - [ニコ・クラニチャール](https://ja.wikipedia.org/wiki/ニコ・クラニチャール "wikilink") 2001-2004
+  - [ニコ・クラニチャール](../Page/ニコ・クラニチャール.md "wikilink") 2001-2004
 
-  - [ルカ・モドリッチ](https://ja.wikipedia.org/wiki/ルカ・モドリッチ "wikilink") 2002-2003, 2004-2008
+  - [ルカ・モドリッチ](../Page/ルカ・モドリッチ.md "wikilink") 2002-2003, 2004-2008
 
-  - [アルビン・ペラック](https://ja.wikipedia.org/wiki/アルビン・ペラック "wikilink") 2003-2004
+  - [アルビン・ペラック](../Page/アルビン・ペラック.md "wikilink") 2003-2004
 
-  - [シルビオ・レイナルド・スパン](https://ja.wikipedia.org/wiki/シルビオ・レイナルド・スパン "wikilink") 2004
+  - [シルビオ・レイナルド・スパン](../Page/シルビオ・レイナルド・スパン.md "wikilink") 2004
 
   - [ジョルジ・サミール・クルス・カンポス](https://ja.wikipedia.org/wiki/ジョルジ・サミール・クルス・カンポス "wikilink") 2007-2014.1
 
@@ -326,19 +326,19 @@
 
   - [ドラジャン・イェルコヴィッチ](../Page/ドラジャン・イェルコヴィッチ.md "wikilink") 1955-1965
 
-  - [ダヴォール・シューケル](https://ja.wikipedia.org/wiki/ダヴォール・シューケル "wikilink") 1989-1991
+  - [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink") 1989-1991
 
-  - [イゴール・ツビタノヴィッチ](https://ja.wikipedia.org/wiki/イゴール・ツビタノヴィッチ "wikilink") 1993-1998, 1999-2002
+  - [イゴール・ツビタノヴィッチ](../Page/イゴール・ツビタノヴィッチ.md "wikilink") 1993-1998, 1999-2002
 
-  - [マーク・ヴィドゥカ](https://ja.wikipedia.org/wiki/マーク・ヴィドゥカ "wikilink") 1995-1999
+  - [マーク・ヴィドゥカ](../Page/マーク・ヴィドゥカ.md "wikilink") 1995-1999
 
   - [三浦知良](../Page/三浦知良.md "wikilink") 1999
 
-  - [ゴッツェ・セドロスキー](https://ja.wikipedia.org/wiki/ゴッツェ・セドロスキー "wikilink") 1999-2004, 2005
+  - [ゴッツェ・セドロスキー](../Page/ゴッツェ・セドロスキー.md "wikilink") 1999-2004, 2005
 
-  -  [エドゥアルド・ダ・シルヴァ](https://ja.wikipedia.org/wiki/エドゥアルド・ダ・シルヴァ "wikilink") 2001-2002, 2003-2007
+  -  [エドゥアルド・ダ・シルヴァ](../Page/エドゥアルド・ダ・シルヴァ.md "wikilink") 2001-2002, 2003-2007
 
-  - [イヴィツァ・オリッチ](https://ja.wikipedia.org/wiki/イヴィツァ・オリッチ "wikilink") 2002-2003
+  - [イヴィツァ・オリッチ](../Page/イヴィツァ・オリッチ.md "wikilink") 2002-2003
 
   - [ダニエル・プラニッチ](https://ja.wikipedia.org/wiki/ダニエル・プラニッチ "wikilink") 2004-2005
 
@@ -376,4 +376,4 @@
 12. [クロアチア代表マンズキッチ、ヴォルフスブルク移籍](http://news.livedoor.com/article/detail/4891389/) Livedoor 2010年7月17日付記事
 13. [宇都宮](https://ja.wikipedia.org/wiki/#宇都宮 "wikilink")、p.224-225
 14. [Points Deduction For Dinamo Zagreb In Europa League](http://www.goal.com/en/news/166/europa-league/2009/10/30/1592941/points-deduction-for-dinamo-zagreb-in-europa-league) Goal.com 2009年10月30日付記事
-15. [誰も祝わぬディナモのリーグ優勝／サポーターは大暴動、監督はブチ切れ会見](http://www.plus-blog.sportsnavi.com/nogomet/article/312) [長束恭行](https://ja.wikipedia.org/wiki/長束恭行 "wikilink") クロアチア・サッカーニュース 2010年5月3日
+15. [誰も祝わぬディナモのリーグ優勝／サポーターは大暴動、監督はブチ切れ会見](http://www.plus-blog.sportsnavi.com/nogomet/article/312) [長束恭行](../Page/長束恭行.md "wikilink") クロアチア・サッカーニュース 2010年5月3日

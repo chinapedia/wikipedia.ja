@@ -1,7 +1,7 @@
 > この記事は[CODED ARMS CONTAGION](https://ja.wikipedia.org/wiki/CODED_ARMS_CONTAGION)から翻訳されています。
 
 
-『**CODED ARMS CONTAGION**』（コーデッドアームズコンテイジョン）は、2007年9月に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation Portable用の](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。
+『**CODED ARMS CONTAGION**』（コーデッドアームズコンテイジョン）は、2007年9月に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation Portable用の](../Page/PlayStation_Portable.md "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。
 
 ## 概要
 

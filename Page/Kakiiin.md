@@ -1,7 +1,7 @@
 > この記事は[Kakiiin](https://ja.wikipedia.org/wiki/Kakiiin)から翻訳されています。
 
 
-『**Kakiiin**』（カキーン）は、[2007年](../Page/2007年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")より[2015年](../Page/2015年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[音楽](../Page/音楽.md "wikilink")を主体とした[ラジオ番組](../Page/ラジオ番組.md "wikilink")。基本的に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")となっている。
+『**Kakiiin**』（カキーン）は、[2007年](../Page/2007年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")より[2015年](../Page/2015年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[音楽](../Page/音楽.md "wikilink")を主体とした[ラジオ番組](../Page/ラジオ番組.md "wikilink")。基本的に[生放送](../Page/生放送.md "wikilink")となっている。
 
 ## 概説
 
@@ -9,13 +9,13 @@
 
 また2009・2010年度後半（シーズン3／4）に放送された「カキーンレジェンド」は、80年代から90年代に大活躍し「伝説」を音楽業界に刻んだ音楽アーティストとダブルパーソナリティで放送。他にもメジャーアーティストが出演することも少なくない。
 
-サウンドステッカーはDJの[ブライアン・バートンルイス](https://ja.wikipedia.org/wiki/ブライアン・バートンルイス "wikilink")が制作している。
+サウンドステッカーはDJの[ブライアン・バートンルイス](../Page/ブライアン・バートンルイス.md "wikilink")が制作している。
 
 ### 特徴など
 
 選曲は各ディレクターが担当しており、2010年度後半（シーズン4）までにおいては曜日によって選曲傾向が異なっていた。
 
-[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのリクエスト、メッセージも受け付ける。日替わりのメッセージテーマ（必ずしも音楽関係に限らない）が設定されており、楽曲の合間に紹介している。
+[リスナー](../Page/リスナー.md "wikilink")からのリクエスト、メッセージも受け付ける。日替わりのメッセージテーマ（必ずしも音楽関係に限らない）が設定されており、楽曲の合間に紹介している。
 
 同じアーティストの楽曲は、同じ週にはリクエストしてもオンエアーされないことが多い。
 
@@ -31,20 +31,20 @@
 
 ## 番組の歴史
 
-  - 2007年10月2日放送開始（シーズン1）。当初は[プロ野球](../Page/日本プロ野球.md "wikilink")[ナイター](../Page/ナイター.md "wikilink")（[中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")）オフシーズン（10月 - 3月）限定で、[火曜から](../Page/火曜日.md "wikilink")[金曜までの](../Page/金曜日.md "wikilink")[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")として放送（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで）。
-  - 2008年[9月30日](../Page/9月30日.md "wikilink")、番組再開（シーズン2）。シーズン1と同じくプロ野球のオフシーズン限定で、火曜から金曜までの帯番組として放送（[2009年](../Page/2009年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")まで）。
+  - 2007年10月2日放送開始（シーズン1）。当初は[プロ野球](../Page/日本プロ野球.md "wikilink")[ナイター](../Page/ナイター.md "wikilink")（[中継](../Page/プロ野球中継.md "wikilink")）オフシーズン（10月 - 3月）限定で、[火曜から](../Page/火曜日.md "wikilink")[金曜までの](../Page/金曜日.md "wikilink")[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")として放送（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで）。
+  - 2008年[9月30日](../Page/9月30日.md "wikilink")、番組再開（シーズン2）。シーズン1と同じくプロ野球のオフシーズン限定で、火曜から金曜までの帯番組として放送（[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")まで）。
   - 2009年[4月6日](../Page/4月6日.md "wikilink")から月曜週1回の番組（シーズン2.5）として、プロ野球シーズンの時期にも放送（[9月28日](../Page/9月28日.md "wikilink")まで）。
-  - 2009年[10月5日](../Page/10月5日.md "wikilink")から初めて[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")5日間の完全帯番組となる（シーズン3）。また、従来19時からだった放送開始時刻を18時に引き上げ、スポーツ情報を強化。『[エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")』のシーズンオフ番組としての役割も担う\[2\]。全国ネットである月曜以外の20時台は「カキーンレジェンド」を放送。21時台には若手有望アーチストと半年がかりで楽曲を創りあげてゆく「Music Creators」コーナーがスタート。
+  - 2009年[10月5日](../Page/10月5日.md "wikilink")から初めて[平日](../Page/平日.md "wikilink")5日間の完全帯番組となる（シーズン3）。また、従来19時からだった放送開始時刻を18時に引き上げ、スポーツ情報を強化。『[エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")』のシーズンオフ番組としての役割も担う\[2\]。全国ネットである月曜以外の20時台は「カキーンレジェンド」を放送。21時台には若手有望アーチストと半年がかりで楽曲を創りあげてゆく「Music Creators」コーナーがスタート。
   - 2010年10月4日から再び平日5日間に（シーズン4）。前年度に続いて「カキーンレジェンド」も放送。
-  - 2010年12月、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")の[イクスピアリ](https://ja.wikipedia.org/wiki/イクスピアリ "wikilink")からの公開生放送を実施。以後2013年まで、年末に同様の企画を実施。
-  - 2011年3月11日、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）の発生を受けて、2ヶ月程度特別態勢で放送。この影響で同月21日に東京・[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")で開催予定だったレジェンドパートナーを迎えてのライブと、金曜レジェンドによるイベント、さらには別の日に開催予定だった「Music Creators」火曜レギュラーのライブがそれぞれ中止。
+  - 2010年12月、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")の[イクスピアリ](../Page/イクスピアリ.md "wikilink")からの公開生放送を実施。以後2013年まで、年末に同様の企画を実施。
+  - 2011年3月11日、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）の発生を受けて、2ヶ月程度特別態勢で放送。この影響で同月21日に東京・[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で開催予定だったレジェンドパートナーを迎えてのライブと、金曜レジェンドによるイベント、さらには別の日に開催予定だった「Music Creators」火曜レギュラーのライブがそれぞれ中止。
   - 2011年4月4日、当時知名度があまり高くなかった女性タレント・[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")を起用した「ウェイウェイレディオ\!」コーナー開始（シーズン4.5）。
   - 2011年6月27日をもって、放送時間短縮の影響によりスポーツ情報のコーナー「エキサイトスポーツ」を廃止。
   - 2011年10月以降も月曜のみ、かつ関東ローカルでの放送となり（シーズン5）、番組タイトルの放送開始時の由来からは逸脱してしまう。リスナー向けには同年8月のレイティング対象日に発表。
   - 2012年9月24日をもって、さらなる放送時間短縮により「Music Creators」コーナー終了（シーズン6以降）。
   - 2013年8月18日、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内サカスステージで番組イベント「KOMADA SONIC」を開催（2014年3月15日に第2回）。
   - 2014年12月24日、東京青山・[草月ホール](https://ja.wikipedia.org/wiki/草月ホール "wikilink")にて、番組主催の有料音楽ライブ「LIVE Kakiiin vol.1\~acoustic eve\~」開催。
-  - 2015年2月27日、東京渋谷・[TSUTAYA O-Crestにて](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")、「LIVE Kakiiin vol.2」開催。
+  - 2015年2月27日、東京渋谷・[TSUTAYA O-Crestにて](../Page/Shibuya_O-EAST.md "wikilink")、「LIVE Kakiiin vol.2」開催。
   - 2015年3月20日、TSUTAYA O-Crestにて、「LIVE Kakiiin vol.3～秘密の選曲会議～」開催。番組最後のイベントとなる。
   - 2015年3月23日、番組終了。最後のオンエア曲は「[さよならの向う側](../Page/さよならの向う側.md "wikilink")」（[山口百恵](../Page/山口百恵.md "wikilink")）。開始から7年半で全708回。
   - 2015年11月下旬から同局の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が開局する12月7日までの予定で、試験放送用の番組として[大野雄二 Fiveがゲスト出演](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")とLupintic・演奏した回（2011年2月24日放送、パーソナリティは[土井敏之](../Page/土井敏之.md "wikilink")）のリピート放送を実施<ref>
@@ -53,13 +53,13 @@
 
 ### 2011年3月中・下旬（シーズン4）の特別態勢
 
-[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）が発生した2011年3月11日放送分は、当日出演予定だった[初田啓介](https://ja.wikipedia.org/wiki/初田啓介 "wikilink")に代わり番組OBの[安東弘樹](https://ja.wikipedia.org/wiki/安東弘樹 "wikilink")が担当した。当日の初田は[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのプロ野球オープン戦「[横浜vs](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink").[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の取材中の大地震に遭い、番組の開始時間までに東京・赤坂のTBSに戻ることができなかったという（18日の放送で初田本人が発言）。TBSラジオ向けに安東が震災に伴う非常放送を実施していたのに対し、20時台のネット局（少なくとも[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")を除く）は初田が出演した通常内容の録音放送だった。
+[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）が発生した2011年3月11日放送分は、当日出演予定だった[初田啓介](../Page/初田啓介.md "wikilink")に代わり番組OBの[安東弘樹](../Page/安東弘樹.md "wikilink")が担当した。当日の初田は[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのプロ野球オープン戦「[横浜vs](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink").[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の取材中の大地震に遭い、番組の開始時間までに東京・赤坂のTBSに戻ることができなかったという（18日の放送で初田本人が発言）。TBSラジオ向けに安東が震災に伴う非常放送を実施していたのに対し、20時台のネット局（少なくとも[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")を除く）は初田が出演した通常内容の録音放送だった。
 
-緊急事態を受けて20時台の「カキーンレジェンド」は当初アナウンサーのみの進行の予定だったが、「声だけでも被災地の方々に届けたい」という[槇原敬之](../Page/槇原敬之.md "wikilink")の意向で16日以降は通常態勢となる（ただし各コーナーは18日まで全て自粛）。また、しばらくの間はニュースの時間を増やして各種情報を提供したほか、TBSラジオの送信所がある[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[戸田市](../Page/戸田市.md "wikilink")がいわゆる「計画停電」の対象地域だったため、送信所の電源切り替えの告知が放送されることもあった。
+緊急事態を受けて20時台の「カキーンレジェンド」は当初アナウンサーのみの進行の予定だったが、「声だけでも被災地の方々に届けたい」という[槇原敬之](../Page/槇原敬之.md "wikilink")の意向で16日以降は通常態勢となる（ただし各コーナーは18日まで全て自粛）。また、しばらくの間はニュースの時間を増やして各種情報を提供したほか、TBSラジオの送信所がある[埼玉県](../Page/埼玉県.md "wikilink")[戸田市](../Page/戸田市.md "wikilink")がいわゆる「計画停電」の対象地域だったため、送信所の電源切り替えの告知が放送されることもあった。
 
 14日以降のTBSラジオでの放送については前後の番組が休止となり、放送時間が最大4時間10分に拡大された。関連する本来のレギュラー番組の状況については次のとおり。
 
-  - [渡辺真理のコトバ遺産 〜未来に伝えたいあの一言〜](https://ja.wikipedia.org/wiki/渡辺真理のコトバ遺産_〜未来に伝えたいあの一言〜 "wikilink")／[竹中直人〜月夜の蟹〜](https://ja.wikipedia.org/wiki/竹中直人〜月夜の蟹〜 "wikilink")…3月14日放送分を休止。
+  - [渡辺真理のコトバ遺産 〜未来に伝えたいあの一言〜](https://ja.wikipedia.org/wiki/渡辺真理のコトバ遺産_〜未来に伝えたいあの一言〜 "wikilink")／[竹中直人〜月夜の蟹〜](../Page/竹中直人〜月夜の蟹〜.md "wikilink")…3月14日放送分を休止。
   - [角田信朗 〜傾いて候〜 よっしゃあ\!](https://ja.wikipedia.org/wiki/角田信朗_〜傾いて候〜_よっしゃあ! "wikilink")…3月14日から5月2日まで放送休止。特別番組が放送された3月28日を除き月曜日の『Kakiiin』の放送時間を延長。放送が再開された5月9日には『Kakiiin』のエンディングで番組再開の告知があった。
       - 3月14日放送分…17:50 - 22:00
       - 3月21日放送分…18:00 - 21:30
@@ -86,7 +86,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2008年度</p></td>
-<td><p>2008年<a href="../Page/9月30日.md" title="wikilink">9月30日</a> - <a href="../Page/2009年.md" title="wikilink">2009年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></td>
+<td><p>2008年<a href="../Page/9月30日.md" title="wikilink">9月30日</a> - <a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -220,22 +220,22 @@
 
 ## パーソナリティ
 
-  - [駒田健吾](https://ja.wikipedia.org/wiki/駒田健吾 "wikilink")
+  - [駒田健吾](../Page/駒田健吾.md "wikilink")
       - 2007年度ナイターオフ（シーズン1）は水曜〜金曜、2008年度ナイターオフ（シーズン2）は火曜・水曜、2009・2010年度ナイターオフ（シーズン3／4）は月曜・火曜を担当。
       - またナイター期間の月曜日のみの放送（シーズン2.5／3.5／4.5）では彼が番組のメインパーソナリティを担当する。2011年10月からのシーズン5以降でも同様。番組開始当初から全期間レギュラーを務め、歴代パーソナリティの土井・初田より「ミスターKakiiin」と呼ばれ冷やかされていた。
 
 ### 歴代のパーソナリティ・ピンチヒッター
 
-  - [安東弘樹](https://ja.wikipedia.org/wiki/安東弘樹 "wikilink")
+  - [安東弘樹](../Page/安東弘樹.md "wikilink")
       - シーズン1に火曜担当。このほか、先述の2011年3月11日金曜（シーズン4）や同年9月19日月曜（シーズン4.5）にも出演。
   - [土井敏之](../Page/土井敏之.md "wikilink")
       - シーズン2〜4で木曜担当。キャッチフレーズとして「ATM〜赤坂トーキングマシーン」と名乗っていた。
-  - [初田啓介](https://ja.wikipedia.org/wiki/初田啓介 "wikilink")
+  - [初田啓介](../Page/初田啓介.md "wikilink")
       - シーズン2とシーズン4は金曜、シーズン3は水曜を担当。金曜日担当だと「ゴールデン初田」、水曜日担当だと「センター初田」と名乗っていた。
-  - [小笠原亘](https://ja.wikipedia.org/wiki/小笠原亘 "wikilink")
+  - [小笠原亘](../Page/小笠原亘.md "wikilink")
       - シーズン3は金曜、シーズン4は水曜担当。番組内では「DJワッティー」と名乗っていた。
-  - [柳井麻希](https://ja.wikipedia.org/wiki/柳井麻希 "wikilink")（2009年3月13日金曜（シーズン2））
-      - [WBC取材のために不在だった初田啓介のピンチヒッター](https://ja.wikipedia.org/wiki/ワールド・ベースボール・クラシック "wikilink")。当初TBSラジオでは駒田健吾が務めると告知されていたが、当日労働組合による[ストライキ](../Page/ストライキ.md "wikilink")が敢行されたため出演キャンセルとなった。なお、女性がメインパーソナリティを務める番組唯一の回となる。
+  - [柳井麻希](../Page/柳井麻希.md "wikilink")（2009年3月13日金曜（シーズン2））
+      - [WBC取材のために不在だった初田啓介のピンチヒッター](../Page/ワールド・ベースボール・クラシック.md "wikilink")。当初TBSラジオでは駒田健吾が務めると告知されていたが、当日労働組合による[ストライキ](../Page/ストライキ.md "wikilink")が敢行されたため出演キャンセルとなった。なお、女性がメインパーソナリティを務める番組唯一の回となる。
 
 ## 主なコーナー
 
@@ -306,14 +306,14 @@
           - 思えばかなう
           - 何語でもいいじゃん！
           - 自由時間！
-      - 木曜：[サンプラザ中野くん](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")（[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")）
+      - 木曜：[サンプラザ中野くん](../Page/サンプラザ中野くん.md "wikilink")（[爆風スランプ](../Page/爆風スランプ.md "wikilink")）
           - ワタクシ
           - 無理な新歌詞募集のコーナー（2010年12月9日終了）
           - 新コーナー企画募集のコーナー（2010年12月23日より）
           - これができたらすごい\!のコーナー
           - サンプラザ中野くんの川柳コーナー
           - 音頭でありまんすのコーナー（この2つは新コーナー募集のコーナーより誕生した）
-      - 金曜：[JILL](https://ja.wikipedia.org/wiki/JILL "wikilink")（[PERSONZ](https://ja.wikipedia.org/wiki/PERSONZ "wikilink")）　\*3月18日放送分が最終出演となった。
+      - 金曜：[JILL](../Page/JILL.md "wikilink")（[PERSONZ](../Page/PERSONZ.md "wikilink")）　\*3月18日放送分が最終出演となった。
           - こーんな時はおまじない！JILLのMAGIC MOMENTS！
           - 人生どうにかなるもんです
           - ニューサントラワールド
@@ -322,7 +322,7 @@
   - ラストソングクイズ（21時台） － 3つのヒントをもとに番組の最後にかけられる楽曲を予想する懸賞付きのクイズ。
   - Music Creators（21:30ごろ）
       - 隔週火曜：[鶴](https://ja.wikipedia.org/wiki/鶴_\(バンド\) "wikilink")／Lyu:Lyu
-      - 隔週水曜：ヒダカトオル（[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")）／Fire Lily（ファイアー・リリー）
+      - 隔週水曜：ヒダカトオル（[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")）／Fire Lily（ファイアー・リリー）
       - 隔週木曜：[meg rock](https://ja.wikipedia.org/wiki/meg_rock "wikilink")／[ALLaNHiLLZ](https://ja.wikipedia.org/wiki/ALLaNHiLLZ "wikilink")(アランヒルズ）
       - 隔週金曜：[ソノダバンド](https://ja.wikipedia.org/wiki/ソノダバンド "wikilink")
 
@@ -342,7 +342,7 @@
 <!-- end list -->
 
   - [東京ガス](https://ja.wikipedia.org/wiki/東京瓦斯 "wikilink") お家のコンシェルジュ（18:45ごろ）
-      - [香田晋](https://ja.wikipedia.org/wiki/香田晋 "wikilink")
+      - [香田晋](../Page/香田晋.md "wikilink")
   - Kakiiin Buyers（19:47ごろ）
   - Kakiiin ×（クロス）（20時台）
 
@@ -357,17 +357,17 @@
   - Music Selectors（19:00）
       - 隔週月曜：[田中知之](https://ja.wikipedia.org/wiki/FANTASTIC_PLASTIC_MACHINE "wikilink")
       - 隔週木曜：[須永辰緒](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink")
-      - 隔週金曜：[マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")
+      - 隔週金曜：[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")
   - Kakiiin Legend（20時台）\[3\]
       - 火曜：[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")（[聖飢魔II](../Page/聖飢魔II.md "wikilink")）
           - 閣下、電波にしてください\!
           - 悪魔の音楽処方箋
           - アーティスト地獄送り
-      - 水曜：[杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")（[BARBEE BOYS](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")）
+      - 水曜：[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")（[BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")）
           - 啓介・杏子の愛の劇場
-      - 木曜：[大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")（[HOUND DOG](https://ja.wikipedia.org/wiki/HOUND_DOG "wikilink")）
+      - 木曜：[大友康平](../Page/大友康平.md "wikilink")（[HOUND DOG](../Page/HOUND_DOG.md "wikilink")）
           - バトルメールラジオ
-      - 金曜：[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")（[SHOW-YA](https://ja.wikipedia.org/wiki/SHOW-YA "wikilink")）
+      - 金曜：[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")（[SHOW-YA](../Page/SHOW-YA.md "wikilink")）
           - Rock・ロックこんにちわ。
           - ガーリーロック
           - ハガキを下さい
@@ -375,12 +375,12 @@
   - 21:10ごろ
       - 火曜：
           - 5分でわかる！音楽著作権講座（2009年10月 - 11月）
-          - [後藤麻衣の心配ないさぁ〜\!\!](https://ja.wikipedia.org/wiki/後藤麻衣の心配ないさぁ〜!! "wikilink")（[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(女優\) "wikilink")・[大西ライオン](https://ja.wikipedia.org/wiki/大西ライオン "wikilink")）2010年1月19日 - 同年3月30日（同年4月5日より、月曜 - 金曜24:50 - 25:00の帯番組として独立）
+          - [後藤麻衣の心配ないさぁ〜\!\!](https://ja.wikipedia.org/wiki/後藤麻衣の心配ないさぁ〜!! "wikilink")（[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(女優\) "wikilink")・[大西ライオン](../Page/大西ライオン.md "wikilink")）2010年1月19日 - 同年3月30日（同年4月5日より、月曜 - 金曜24:50 - 25:00の帯番組として独立）
       - 金曜：[穂花](https://ja.wikipedia.org/wiki/穂花 "wikilink")の「ホントだよ」（2010年5月10日よりポッドキャスト限定番組として再開）
   - Music Creators（21:30ごろ）
       - 隔週火曜：[吉田山田](https://ja.wikipedia.org/wiki/吉田山田 "wikilink")
       - 隔週水曜：[ウラニーノ](../Page/ウラニーノ.md "wikilink")／[saigenji](https://ja.wikipedia.org/wiki/saigenji "wikilink")
-      - 隔週木曜：[高野健一](https://ja.wikipedia.org/wiki/高野健一 "wikilink")（pal@pop）／[ナカムラヒロシ](https://ja.wikipedia.org/wiki/i-dep "wikilink")(i-dep)
+      - 隔週木曜：[高野健一](../Page/高野健一.md "wikilink")（pal@pop）／[ナカムラヒロシ](https://ja.wikipedia.org/wiki/i-dep "wikilink")(i-dep)
 
 ### 2009年度ナイターインシーズン（通称：シーズン2.5）
 
@@ -388,23 +388,23 @@
   - 東京ガス お家のコンシェルジュ（18:45）
   - Kakiiin Select（19:15）
   - Kakiin Music Factory（20:20）
-      - 週替わり出演：[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")／[SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")／[saigenji](https://ja.wikipedia.org/wiki/saigenji "wikilink")
+      - 週替わり出演：[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")／[SOFFet](../Page/SOFFet.md "wikilink")／[saigenji](https://ja.wikipedia.org/wiki/saigenji "wikilink")
 
 ### 2008年度ナイターオフシーズン（通称：シーズン2）
 
   - Kakiiin Special （19:20ごろ）
       - 火曜：お家のコンシェルジュ
-      - 水曜：[内藤大助](https://ja.wikipedia.org/wiki/内藤大助 "wikilink")・ラジオパンチドランカー
+      - 水曜：[内藤大助](../Page/内藤大助.md "wikilink")・ラジオパンチドランカー
           - 内藤がリスナーからの相談に回答する。
   - Kakiiin Select （20:30ごろ）
-      - 火曜：[半田健人](https://ja.wikipedia.org/wiki/半田健人 "wikilink")　昭和歌謡曲が中心
+      - 火曜：[半田健人](../Page/半田健人.md "wikilink")　昭和歌謡曲が中心
       - 水曜：田中知之　毎回1テーマで選曲
       - 木曜：[林家正蔵](../Page/林家正蔵_\(9代目\).md "wikilink")　ジャズを中心とした選曲（隔週出演）
       - 金曜：毎回ゲストが登場
   - Kakiiin Mix （21:30ごろ）
       - 火曜 - B-Side Collection
           - ヒット曲のB面にどのような曲が入っているのかをオンエアーする。
-      - 水曜 - Music Factory（[aluto](https://ja.wikipedia.org/wiki/aluto "wikilink")、[竹仲絵里](https://ja.wikipedia.org/wiki/竹仲絵里 "wikilink")、高野健一 週替わり出演）
+      - 水曜 - Music Factory（[aluto](https://ja.wikipedia.org/wiki/aluto "wikilink")、[竹仲絵里](../Page/竹仲絵里.md "wikilink")、高野健一 週替わり出演）
           - 出演者によって内容は異なるが、高野と[aluto](https://ja.wikipedia.org/wiki/aluto "wikilink")はリスナーのメールをテーマにした新曲を発表する。
       - 木曜 - One Artist Special
           - 一人のアーティストの人気投票
@@ -431,7 +431,7 @@
 
 ### コーナー備考
 
-「Kakiiin Man」「内藤大助 ラジオパンチドランカー」「Kakiiin Booth」「穂花のホントだよ」などは、[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")で配信されていた。2016年6月の[TBS RADIO podcasting954の廃止以前に](https://ja.wikipedia.org/wiki/TBS_RADIO_podcasting954 "wikilink")、すべて配信は終了した。
+「Kakiiin Man」「内藤大助 ラジオパンチドランカー」「Kakiiin Booth」「穂花のホントだよ」などは、[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")で配信されていた。2016年6月の[TBS RADIO podcasting954の廃止以前に](../Page/TBS_RADIO_podcasting954.md "wikilink")、すべて配信は終了した。
 
 ## 番組から生まれた曲
 
@@ -445,7 +445,7 @@
 
   - [プロデューサー](../Page/プロデューサー.md "wikilink")：内田伸、[萩原慶太郎](../Page/萩原慶太郎.md "wikilink")
   - [ディレクター](../Page/ディレクター.md "wikilink")：菊池、萩原、海老名、梶原、[花房達也](https://ja.wikipedia.org/wiki/花房達也 "wikilink")、大信陽一
-  - [アシスタントディレクター](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")：蓑和田裕介\[5\] 、服部
+  - [アシスタントディレクター](../Page/アシスタントディレクター.md "wikilink")：蓑和田裕介\[5\] 、服部
 
 ## 過去のネット局
 
@@ -500,7 +500,7 @@
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>(YBC)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -662,7 +662,7 @@
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a>(MBC)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -676,8 +676,8 @@
 
 ### 備考
 
-  - 全国共通の帯[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")が付かないローカルセールス枠のため、曜日・地域によっては自社制作の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")に差し替えとなる場合もある。キー局TBSラジオが特別番組を放送する場合、当番組は[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")となる。
-  - 20時56分から58分にはローカル枠が設けられていた。キー局のTBSラジオでは[道路情報を放送しているが](https://ja.wikipedia.org/wiki/交通情報 "wikilink")、大半のネット局ではTBSからのBGMのみを放送している（事実上の[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")扱い）。なお、2008年11月の一時期、2007年度から使われたBGM部分は、TBSラジオのお薦め曲をかける「Monthly Recommends」\[6\]に変更されたことがある。
+  - 全国共通の帯[スポンサー](../Page/スポンサー.md "wikilink")が付かないローカルセールス枠のため、曜日・地域によっては自社制作の[特別番組](../Page/特別番組.md "wikilink")に差し替えとなる場合もある。キー局TBSラジオが特別番組を放送する場合、当番組は[裏送り](../Page/裏送り.md "wikilink")となる。
+  - 20時56分から58分にはローカル枠が設けられていた。キー局のTBSラジオでは[道路情報を放送しているが](../Page/交通情報.md "wikilink")、大半のネット局ではTBSからのBGMのみを放送している（事実上の[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")扱い）。なお、2008年11月の一時期、2007年度から使われたBGM部分は、TBSラジオのお薦め曲をかける「Monthly Recommends」\[6\]に変更されたことがある。
 
 ## 注釈
 

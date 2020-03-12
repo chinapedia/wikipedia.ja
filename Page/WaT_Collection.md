@@ -1,7 +1,7 @@
 > この記事は[WaT Collection](https://ja.wikipedia.org/wiki/WaT_Collection)から翻訳されています。
 
 
-『**WaT Collection**』（ワット・コレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")が[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[A\&M RECORDSから発売した](https://ja.wikipedia.org/wiki/A&Mレコード "wikilink")1枚目の[ベストアルバムである](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**WaT Collection**』（ワット・コレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[A\&M RECORDSから発売した](../Page/A&Mレコード.md "wikilink")1枚目の[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -12,7 +12,7 @@
 
 ## 収録曲
 
-1.  **[Ready Go\!](https://ja.wikipedia.org/wiki/Ready_Go!_\(WaTの曲\) "wikilink")**
+1.  **[Ready Go\!](../Page/Ready_Go!_\(WaTの曲\).md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -32,7 +32,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞・作曲：[小池徹平](https://ja.wikipedia.org/wiki/小池徹平 "wikilink")
+        作詞・作曲：[小池徹平](../Page/小池徹平.md "wikilink")
         編曲：[小松清人](https://ja.wikipedia.org/wiki/小松清人 "wikilink")
 
         </div>
@@ -40,14 +40,14 @@
         </div>
 
         1stアルバムの収録曲。
-3.  **[僕のキモチ](https://ja.wikipedia.org/wiki/僕のキモチ "wikilink")**
+3.  **[僕のキモチ](../Page/僕のキモチ.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞・作曲：WaT
         編曲：小松清人
-        ストリングスアレンジ：[前嶋康明](https://ja.wikipedia.org/wiki/前嶋康明 "wikilink")
+        ストリングスアレンジ：[前嶋康明](../Page/前嶋康明.md "wikilink")
 
         </div>
 
@@ -94,7 +94,7 @@
         </div>
 
         新録曲。
-7.  **[5センチ。](https://ja.wikipedia.org/wiki/5センチ。 "wikilink")**
+7.  **[5センチ。](../Page/5センチ。.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -138,7 +138,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞・作曲：[ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")
+        作詞・作曲：[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")
         編曲：前嶋康明
 
         </div>
@@ -146,7 +146,7 @@
         </div>
 
         1stアルバムに収録されているウエンツのソロ楽曲。
-11. **[Hava Rava](https://ja.wikipedia.org/wiki/Hava_Rava "wikilink")**
+11. **[Hava Rava](../Page/Hava_Rava.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -186,7 +186,7 @@
         </div>
 
         メジャー1stシングルのカップリング曲。
-14. **[ボクラノLove Story](https://ja.wikipedia.org/wiki/ボクラノLove_Story "wikilink")**
+14. **[ボクラノLove Story](../Page/ボクラノLove_Story.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -212,7 +212,7 @@
 
         </div>
 
-        [ボーナストラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")。ウエンツのソロデビューシングル曲。
+        [ボーナストラック](../Page/ボーナス・トラック.md "wikilink")。ウエンツのソロデビューシングル曲。
 16. **[君に贈る歌](https://ja.wikipedia.org/wiki/君に贈る歌/ラッキーでハッピー "wikilink")**
       -
 
@@ -232,12 +232,12 @@
 
 新録曲以外は割愛。
 
-  - **[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")**：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#6)
-      - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (全曲)、[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") & [Percussion](../Page/パーカッション.md "wikilink") (\#6)
-      - [小池徹平](https://ja.wikipedia.org/wiki/小池徹平 "wikilink")：Vocal (全曲)、[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") (\#6)
+  - **[WaT](../Page/WaT.md "wikilink")**：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#6)
+      - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (全曲)、[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") & [Percussion](../Page/パーカッション.md "wikilink") (\#6)
+      - [小池徹平](../Page/小池徹平.md "wikilink")：Vocal (全曲)、[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") (\#6)
   - [福田真一朗](https://ja.wikipedia.org/wiki/福田真一朗 "wikilink")：Electric Guitar & Acoustic Guitar (\#6)
   - [桜井正宏](https://ja.wikipedia.org/wiki/桜井正宏 "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#6)
-  - [華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink") (\#6)
+  - [華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink") (\#6)
 
 ## 脚注
 

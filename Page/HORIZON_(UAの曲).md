@@ -7,7 +7,7 @@
 
   - UAのデビューシングル。
   - チャートインせず。
-  - 2013年には、プロデュースを務めた[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")が4か月連続配信シリーズ第1弾として、「HORIZON」のセルフカバーを配信リリース。カップリングには[大沢伸一](https://ja.wikipedia.org/wiki/大沢伸一 "wikilink")による同曲のDUB MIXがパッケージされた\[2\]。
+  - 2013年には、プロデュースを務めた[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")が4か月連続配信シリーズ第1弾として、「HORIZON」のセルフカバーを配信リリース。カップリングには[大沢伸一](../Page/大沢伸一.md "wikilink")による同曲のDUB MIXがパッケージされた\[2\]。
 
 ## 収録曲
 

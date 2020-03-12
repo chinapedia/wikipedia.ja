@@ -1,7 +1,7 @@
 > この記事は[X.500](https://ja.wikipedia.org/wiki/X.500)から翻訳されています。
 
 
-**X.500** は、電子[ディレクトリ・サービス](https://ja.wikipedia.org/wiki/ディレクトリ・サービス "wikilink")に関するコンピュータネットワーク標準規格のシリーズである。X.500 シリーズは [ITU-T](../Page/ITU-T.md "wikilink")（かつてのCCITT）が開発した。このディレクトリ・サービスは、[X.400](https://ja.wikipedia.org/wiki/X.400 "wikilink") 電子メール交換および名前参照からの要求に応えるべく開発されたものである。[ISOは標準の開発過程で協力し](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")、X.500 を[開放型システム間相互接続](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink") (OSI) プロトコルスイートの一部とした。ISO では **ISO/IEC 9594** とされている。
+**X.500** は、電子[ディレクトリ・サービス](../Page/ディレクトリ・サービス.md "wikilink")に関するコンピュータネットワーク標準規格のシリーズである。X.500 シリーズは [ITU-T](../Page/ITU-T.md "wikilink")（かつてのCCITT）が開発した。このディレクトリ・サービスは、[X.400](../Page/X.400.md "wikilink") 電子メール交換および名前参照からの要求に応えるべく開発されたものである。[ISOは標準の開発過程で協力し](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")、X.500 を[開放型システム間相互接続](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink") (OSI) プロトコルスイートの一部とした。ISO では **ISO/IEC 9594** とされている。
 
 ## X.500 プロトコル
 
@@ -20,22 +20,22 @@ X.500 の中核となる概念は、単一の[ディレクトリ情報ツリー]
 
 X.520 と X.521 は、DIT のエントリとして人物や組織を表すために使われる属性群とオブジェクトクラス群を定義しており、White pages（個人別電話帳）スキーマとして広く使われている。
 
-[X.509](https://ja.wikipedia.org/wiki/X.509 "wikilink") は認証フレームワークを提供する標準であり、X.500 ディレクトリプロトコルの範囲を超えて広く使われている。X.509 は公開鍵認証の標準形式を規定している。
+[X.509](../Page/X.509.md "wikilink") は認証フレームワークを提供する標準であり、X.500 ディレクトリプロトコルの範囲を超えて広く使われている。X.509 は公開鍵認証の標準形式を規定している。
 
 ## X.500 シリーズ標準
 
-| ITU-T 番号                                                | [ISO/IEC](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink") 番号 | 標準規格名                                                                        |
-| ------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| X.500                                                   | ISO/IEC 9594-1                                                 | The Directory: Overview of concepts, models and services                     |
-| X.501                                                   | ISO/IEC 9594-2                                                 | The Directory: Models                                                        |
-| [X.509](https://ja.wikipedia.org/wiki/X.509 "wikilink") | ISO/IEC 9594-8                                                 | The Directory: Authentication framework                                      |
-| X.512                                                   | ISO/IEC 9594-3                                                 | The Directory: Abstract service definition                                   |
-| X.518                                                   | ISO/IEC 9594-4                                                 | The Directory: Procedures for distributed operation                          |
-| X.519                                                   | ISO/IEC 9594-5                                                 | The Directory: Protocol specifications                                       |
-| X.520                                                   | ISO/IEC 9594-6                                                 | The Directory: Selected attribute types                                      |
-| X.521                                                   | ISO/IEC 9594-7                                                 | The Directory: Selected object classes                                       |
-| X.525                                                   | ISO/IEC 9594-9                                                 | The Directory: Replication                                                   |
-| X.530                                                   | ISO/IEC 9594-10                                                | The Directory: Use of systems management for administration of the Directory |
+| ITU-T 番号                             | [ISO/IEC](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink") 番号 | 標準規格名                                                                        |
+| ------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| X.500                                | ISO/IEC 9594-1                                                 | The Directory: Overview of concepts, models and services                     |
+| X.501                                | ISO/IEC 9594-2                                                 | The Directory: Models                                                        |
+| [X.509](../Page/X.509.md "wikilink") | ISO/IEC 9594-8                                                 | The Directory: Authentication framework                                      |
+| X.512                                | ISO/IEC 9594-3                                                 | The Directory: Abstract service definition                                   |
+| X.518                                | ISO/IEC 9594-4                                                 | The Directory: Procedures for distributed operation                          |
+| X.519                                | ISO/IEC 9594-5                                                 | The Directory: Protocol specifications                                       |
+| X.520                                | ISO/IEC 9594-6                                                 | The Directory: Selected attribute types                                      |
+| X.521                                | ISO/IEC 9594-7                                                 | The Directory: Selected object classes                                       |
+| X.525                                | ISO/IEC 9594-9                                                 | The Directory: Replication                                                   |
+| X.530                                | ISO/IEC 9594-10                                                | The Directory: Use of systems management for administration of the Directory |
 
 ## 外部リンク
 

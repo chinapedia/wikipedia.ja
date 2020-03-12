@@ -9,9 +9,9 @@
 
 ## 収録曲
 
-1.  **COLONY** (5:27) ([作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：UA　[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink"))
+1.  **COLONY** (5:27) ([作詞](../Page/作詞.md "wikilink")：UA　[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小倉博和](../Page/小倉博和.md "wikilink"))
 2.  **NIGHT** (4:51) (作詞：UA　作曲・編曲：小倉博和)
-3.  **I FEEL THE EARTH MOVE** (3:29) (作詞・作曲：[キャロル・キング](https://ja.wikipedia.org/wiki/キャロル・キング "wikilink")　編曲：小倉博和)
+3.  **I FEEL THE EARTH MOVE** (3:29) (作詞・作曲：[キャロル・キング](../Page/キャロル・キング.md "wikilink")　編曲：小倉博和)
 4.  **COLONY (T-V MIX)** (5:26) (作詞：UA　作曲・編曲：小倉博和)
 
 [Category:UAの楽曲](https://ja.wikipedia.org/wiki/Category:UAの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:スピードスター・レコードの楽曲](https://ja.wikipedia.org/wiki/Category:スピードスター・レコードの楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")

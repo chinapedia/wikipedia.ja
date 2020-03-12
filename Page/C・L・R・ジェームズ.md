@@ -1,17 +1,17 @@
 > この記事は[CLR](https://ja.wikipedia.org/wiki/CLR)から翻訳されています。
 
 
-**シリル・ライオネル・ロバート・ジェームズ**（**Cyril Lionel Robert James**, [1901年](../Page/1901年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")）はアフリカ系[トリニダード人の](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、教師、[社会主義](../Page/社会主義.md "wikilink")[理論家](https://ja.wikipedia.org/wiki/政治哲学 "wikilink")、[作家](../Page/作家.md "wikilink")。
+**シリル・ライオネル・ロバート・ジェームズ**（**Cyril Lionel Robert James**, [1901年](../Page/1901年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")）はアフリカ系[トリニダード人の](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、教師、[社会主義](../Page/社会主義.md "wikilink")[理論家](../Page/政治哲学.md "wikilink")、[作家](../Page/作家.md "wikilink")。
 
 ## 生い立ち
 
-ジェームズは[イギリス植民地時代のトリニダードで生まれ](../Page/イギリス帝国.md "wikilink")、[ポートオブスペイン](https://ja.wikipedia.org/wiki/ポートオブスペイン "wikilink")のクイーンズ・ロイヤル・カレッジで学んだ。それから[クリケット](../Page/クリケット.md "wikilink")記者兼フィクション作家になった。後に母校で英語教師を務め、教え子には[エリック・ウィリアムズ](https://ja.wikipedia.org/wiki/エリック・ウィリアムズ "wikilink")もいる。ラルフ・デ・ボワシエール、[アルバート・ゴメス](https://ja.wikipedia.org/wiki/アルバート・ゴメス "wikilink")、アルフレッド・メンデスらと反植民地主義の文芸誌『ザ・ビーコン』の同人となった。[1932年](../Page/1932年.md "wikilink")ジェームズは作家としての成功を求め[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ランカシャー](https://ja.wikipedia.org/wiki/ランカシャー "wikilink")のネルソンへ渡り、『[マンチェスター・ガーディアン](https://ja.wikipedia.org/wiki/ガーディアン "wikilink")』で働いた。また[レアリー・コンスタンチン](https://ja.wikipedia.org/wiki/レアリー・コンスタンチン "wikilink")の自伝を書いて彼を助けた。
+ジェームズは[イギリス植民地時代のトリニダードで生まれ](../Page/イギリス帝国.md "wikilink")、[ポートオブスペイン](../Page/ポートオブスペイン.md "wikilink")のクイーンズ・ロイヤル・カレッジで学んだ。それから[クリケット](../Page/クリケット.md "wikilink")記者兼フィクション作家になった。後に母校で英語教師を務め、教え子には[エリック・ウィリアムズ](../Page/エリック・ウィリアムズ.md "wikilink")もいる。ラルフ・デ・ボワシエール、[アルバート・ゴメス](https://ja.wikipedia.org/wiki/アルバート・ゴメス "wikilink")、アルフレッド・メンデスらと反植民地主義の文芸誌『ザ・ビーコン』の同人となった。[1932年](../Page/1932年.md "wikilink")ジェームズは作家としての成功を求め[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ランカシャー](../Page/ランカシャー.md "wikilink")のネルソンへ渡り、『[マンチェスター・ガーディアン](../Page/ガーディアン.md "wikilink")』で働いた。また[レアリー・コンスタンチン](https://ja.wikipedia.org/wiki/レアリー・コンスタンチン "wikilink")の自伝を書いて彼を助けた。
 
 ## ロンドン時代
 
-[1933年](../Page/1933年.md "wikilink")ジェームズは[ロンドン](../Page/ロンドン.md "wikilink")へ移った。彼はトリニダード時代から[西インド諸島](../Page/西インド諸島.md "wikilink")の独立運動を始めていた。*"Life of Captain Cipriani"* と小冊子 *"The Case for West-Indian Self Government"* は彼の最初の重要な著作となった。ジェームズは今や[汎アフリカ主義](https://ja.wikipedia.org/wiki/汎アフリカ主義 "wikilink")の提唱者であり、[イタリア](../Page/イタリア.md "wikilink")の[アビシニア侵攻に反対する国際的なアフリカ系連帯の代表となった](https://ja.wikipedia.org/wiki/第二次エチオピア戦争 "wikilink")。後に[クワメ・エンクルマ](../Page/クワメ・エンクルマ.md "wikilink")を支えることになる幼なじみの[ジョージ・パドモア](https://ja.wikipedia.org/wiki/ジョージ・パドモア "wikilink")と国際アフリカ奉仕事務局の指導的人物となった。イギリスで彼は[マルクス主義](../Page/マルクス主義.md "wikilink")の主な理論家となっていた。[労働党に加入したが](https://ja.wikipedia.org/wiki/労働党_\(イギリス\) "wikilink")、[世界恐慌](../Page/世界恐慌.md "wikilink")の煽りで[トロツキストに転向した](../Page/トロツキズム.md "wikilink")。[1934年](../Page/1934年.md "wikilink")には[独立労働者党](https://ja.wikipedia.org/wiki/独立労働者党 "wikilink")内のトロツキスト潜入者グループの1人であった。
+[1933年](../Page/1933年.md "wikilink")ジェームズは[ロンドン](../Page/ロンドン.md "wikilink")へ移った。彼はトリニダード時代から[西インド諸島](../Page/西インド諸島.md "wikilink")の独立運動を始めていた。*"Life of Captain Cipriani"* と小冊子 *"The Case for West-Indian Self Government"* は彼の最初の重要な著作となった。ジェームズは今や[汎アフリカ主義](https://ja.wikipedia.org/wiki/汎アフリカ主義 "wikilink")の提唱者であり、[イタリア](../Page/イタリア.md "wikilink")の[アビシニア侵攻に反対する国際的なアフリカ系連帯の代表となった](../Page/第二次エチオピア戦争.md "wikilink")。後に[クワメ・エンクルマ](../Page/クワメ・エンクルマ.md "wikilink")を支えることになる幼なじみの[ジョージ・パドモア](https://ja.wikipedia.org/wiki/ジョージ・パドモア "wikilink")と国際アフリカ奉仕事務局の指導的人物となった。イギリスで彼は[マルクス主義](../Page/マルクス主義.md "wikilink")の主な理論家となっていた。[労働党に加入したが](../Page/労働党_\(イギリス\).md "wikilink")、[世界恐慌](../Page/世界恐慌.md "wikilink")の煽りで[トロツキストに転向した](../Page/トロツキズム.md "wikilink")。[1934年](../Page/1934年.md "wikilink")には[独立労働者党](https://ja.wikipedia.org/wiki/独立労働者党 "wikilink")内のトロツキスト潜入者グループの1人であった。
 
-政治活動に精力を注ぎながら、ジェームズは[トゥーサン・ルヴェルチュール](https://ja.wikipedia.org/wiki/トゥーサン・ルヴェルチュール "wikilink")に関する戯曲を書いている。これは[1936年](../Page/1936年.md "wikilink")に[ウェスト・エンド・シアター](https://ja.wikipedia.org/wiki/ウェスト・エンド・シアター "wikilink")で[ポール・ロブソン](https://ja.wikipedia.org/wiki/ポール・ロブソン "wikilink")と[ロバート・アダムズ出演で上演された](https://ja.wikipedia.org/wiki/ロバート・アダムズ_\(俳優\) "wikilink")。同年トリニダードで書き溜めていた彼の唯一の小説 *"Minty Alley"* をロンドンで出版した。これはアフリカ系カリブ人によりイギリスで書かれた最初の小説である。[1937年](../Page/1937年.md "wikilink")には恐らく彼の最もよく知られた[コミンテルン](../Page/コミンテルン.md "wikilink")の盛衰を描いたノンフィクション *"World Revolution"* が発表された。これは[レフ・トロツキー](https://ja.wikipedia.org/wiki/レフ・トロツキー "wikilink")に絶賛された。[1938年](../Page/1938年.md "wikilink")の『』は広く称賛された[ハイチ革命](https://ja.wikipedia.org/wiki/ハイチ革命 "wikilink")の歴史書であり、後にアフリカ系の離散者の研究における影響力のあるテキストとも看做されるようになった。
+政治活動に精力を注ぎながら、ジェームズは[トゥーサン・ルヴェルチュール](https://ja.wikipedia.org/wiki/トゥーサン・ルヴェルチュール "wikilink")に関する戯曲を書いている。これは[1936年](../Page/1936年.md "wikilink")に[ウェスト・エンド・シアター](https://ja.wikipedia.org/wiki/ウェスト・エンド・シアター "wikilink")で[ポール・ロブソン](https://ja.wikipedia.org/wiki/ポール・ロブソン "wikilink")と[ロバート・アダムズ出演で上演された](https://ja.wikipedia.org/wiki/ロバート・アダムズ_\(俳優\) "wikilink")。同年トリニダードで書き溜めていた彼の唯一の小説 *"Minty Alley"* をロンドンで出版した。これはアフリカ系カリブ人によりイギリスで書かれた最初の小説である。[1937年](../Page/1937年.md "wikilink")には恐らく彼の最もよく知られた[コミンテルン](../Page/コミンテルン.md "wikilink")の盛衰を描いたノンフィクション *"World Revolution"* が発表された。これは[レフ・トロツキー](https://ja.wikipedia.org/wiki/レフ・トロツキー "wikilink")に絶賛された。[1938年](../Page/1938年.md "wikilink")の『』は広く称賛された[ハイチ革命](../Page/ハイチ革命.md "wikilink")の歴史書であり、後にアフリカ系の離散者の研究における影響力のあるテキストとも看做されるようになった。
 
 1936年ジェームズらトロツキストのマルキスト・グループは公然政党を結成するつもりで独立労働者党を離れた。1938年彼らは他の組織と統合して[革命的社会主義者同盟](https://ja.wikipedia.org/wiki/革命的社会主義者同盟_\(イギリス\) "wikilink") (RSL) を結成した。RSL は派閥争いの激しい組織だった。ジェームズが黒人労働者に対する活動の支援のために、[第四インターナショナル](../Page/第四インターナショナル.md "wikilink")の米国支部であった[社会主義労働者党](https://ja.wikipedia.org/wiki/社会主義労働者党_\(アメリカ\) "wikilink") (SWP) の指導部によって[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に招かれた時、彼は敵対者を追い出すことを願ったそのような党派的な敵（ジョン・アーチャー）によって去ることを奨励された。
 
@@ -23,17 +23,17 @@ WP党内の J-F傾向はかなり発展し、[第二次世界大戦](https://ja.
 
 [1945年](../Page/1945年.md "wikilink")以降 WP は革命闘争が減少するとの見通しを示した。J-F潮流は対照的に闘争が増加すると予想し、WP より労働者寄りになっていた SWP も同様の見通しを示していた。そのため彼ら J-F潮流は独立した小グループとして数ヶ月大量の出版をした後1947年に SWP に加入した。
 
-ジェームズは[レーニンの革命党の](../Page/ウラジーミル・レーニン.md "wikilink")[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")の概念を否定しつつ自らを[レーニン主義](https://ja.wikipedia.org/wiki/レーニン主義 "wikilink")者と規定し、社会主義者が興隆した[黒人ナショナリスト運動を支援するように議論した](https://ja.wikipedia.org/wiki/黒人ナショナリズム "wikilink")。彼は[1949年](../Page/1949年.md "wikilink")までに[前衛党](https://ja.wikipedia.org/wiki/前衛党 "wikilink")の概念を否定していた。このため彼らはトロツキスト運動から離れ、通信出版委員会に改名した。[1955年](../Page/1955年.md "wikilink")に委員会のメンバーの半数近くがラーヤ・ドゥナエフスカヤの指導を離れ、[マルクス人道主義](https://ja.wikipedia.org/wiki/マルクス人道主義 "wikilink")傾向をつくり、[ニュース通信委員会](https://ja.wikipedia.org/wiki/ニュース通信委員会 "wikilink")を組織した。ラーヤ・ドゥナエフスカヤ派が多数派であったか少数派であったかは議論の対象となっている。歴史家のケント・ウォーセスターはドゥナエフスカヤ派が多数派であったと主張し、[マーティン・グラバーマン](https://ja.wikipedia.org/wiki/マーティン・グラバーマン "wikilink")は『ニューポリティックス』誌上でジェームズ派が多数であるとした。[1962年](../Page/1962年.md "wikilink")にはグレース・リー・ボッグスと[ジェームズ・ボッグスがより](https://ja.wikipedia.org/wiki/ジェームズ・ボッグス_\(活動家\) "wikilink")[第三世界主義](https://ja.wikipedia.org/wiki/第三世界主義 "wikilink")を追求するために委員会から分離した。マーティン・グラバーマン含むジョンソン派はジェームズの英国からの助言を受けフェイシング・リアリティと改名し、1970年にジェームズの意に反し解散するまで活動した。彼は自身のライフワークをレーニン主義の理論と実践の拡張と看做したものの、ジェームズの著作はマルクス主義思想の内の[自治主義](https://ja.wikipedia.org/wiki/自治主義 "wikilink")の流れの発達に影響力があった。
+ジェームズは[レーニンの革命党の](../Page/ウラジーミル・レーニン.md "wikilink")[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")の概念を否定しつつ自らを[レーニン主義](../Page/レーニン主義.md "wikilink")者と規定し、社会主義者が興隆した[黒人ナショナリスト運動を支援するように議論した](https://ja.wikipedia.org/wiki/黒人ナショナリズム "wikilink")。彼は[1949年](../Page/1949年.md "wikilink")までに[前衛党](../Page/前衛党.md "wikilink")の概念を否定していた。このため彼らはトロツキスト運動から離れ、通信出版委員会に改名した。[1955年](../Page/1955年.md "wikilink")に委員会のメンバーの半数近くがラーヤ・ドゥナエフスカヤの指導を離れ、[マルクス人道主義](https://ja.wikipedia.org/wiki/マルクス人道主義 "wikilink")傾向をつくり、[ニュース通信委員会](https://ja.wikipedia.org/wiki/ニュース通信委員会 "wikilink")を組織した。ラーヤ・ドゥナエフスカヤ派が多数派であったか少数派であったかは議論の対象となっている。歴史家のケント・ウォーセスターはドゥナエフスカヤ派が多数派であったと主張し、[マーティン・グラバーマン](https://ja.wikipedia.org/wiki/マーティン・グラバーマン "wikilink")は『ニューポリティックス』誌上でジェームズ派が多数であるとした。[1962年](../Page/1962年.md "wikilink")にはグレース・リー・ボッグスと[ジェームズ・ボッグスがより](https://ja.wikipedia.org/wiki/ジェームズ・ボッグス_\(活動家\) "wikilink")[第三世界主義](https://ja.wikipedia.org/wiki/第三世界主義 "wikilink")を追求するために委員会から分離した。マーティン・グラバーマン含むジョンソン派はジェームズの英国からの助言を受けフェイシング・リアリティと改名し、1970年にジェームズの意に反し解散するまで活動した。彼は自身のライフワークをレーニン主義の理論と実践の拡張と看做したものの、ジェームズの著作はマルクス主義思想の内の[自治主義](https://ja.wikipedia.org/wiki/自治主義 "wikilink")の流れの発達に影響力があった。
 
 ## トリニダードへの帰還と晩年
 
-[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")ジェームズは10年以上の[ビザの期限切れにより超過滞在で米国を強制出国させられた](../Page/査証.md "wikilink")。ジェームズは米国に残るために[ハーマン・メルヴィル](https://ja.wikipedia.org/wiki/ハーマン・メルヴィル "wikilink")の研究書*"Mariners, Renegades and Castaways: The Story of Herman Melville and the World We Live In*"を書き、全ての上院議員に個人出版した作品のコピーを送った。この本は[エリス島](https://ja.wikipedia.org/wiki/エリス島 "wikilink")で勾留されている間に書かれた。彼はイギリスに戻り、[1958年](../Page/1958年.md "wikilink")トリニダードに帰り、独立派の[人民国家運動](https://ja.wikipedia.org/wiki/人民国家運動 "wikilink") (PNM) の*"The Nation"*紙の編集者になった。またガーナ革命は[脱植民地化](https://ja.wikipedia.org/wiki/脱植民地化 "wikilink")が国際的な革命家への最も重要な刺激となることを示したと信じて汎アフリカ運動にも復帰した。
+[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")ジェームズは10年以上の[ビザの期限切れにより超過滞在で米国を強制出国させられた](../Page/査証.md "wikilink")。ジェームズは米国に残るために[ハーマン・メルヴィル](../Page/ハーマン・メルヴィル.md "wikilink")の研究書*"Mariners, Renegades and Castaways: The Story of Herman Melville and the World We Live In*"を書き、全ての上院議員に個人出版した作品のコピーを送った。この本は[エリス島](../Page/エリス島.md "wikilink")で勾留されている間に書かれた。彼はイギリスに戻り、[1958年](../Page/1958年.md "wikilink")トリニダードに帰り、独立派の[人民国家運動](https://ja.wikipedia.org/wiki/人民国家運動 "wikilink") (PNM) の*"The Nation"*紙の編集者になった。またガーナ革命は[脱植民地化](https://ja.wikipedia.org/wiki/脱植民地化 "wikilink")が国際的な革命家への最も重要な刺激となることを示したと信じて汎アフリカ運動にも復帰した。
 
 ジェームズは[西インド連邦](../Page/西インド連邦.md "wikilink")を擁護したが、彼が PNM 指導部から外されると連邦も解消された。彼は英国に戻り、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")には米国の[コロンビア特別区大学](https://ja.wikipedia.org/wiki/コロンビア特別区大学 "wikilink")で教えた。最後に、彼は英国に戻り、ロンドンの[ブリクストン](https://ja.wikipedia.org/wiki/ブリクストン "wikilink")で晩年を過ごした。[1970年代](../Page/1970年代.md "wikilink")と[1980年代](../Page/1980年代.md "wikilink")には、*"The Future In the Present"*, *"Spheres of Existence"*, *"At the Rendezvous of Victory"*, *"Cricket"* の選ばれた4冊を含むジェームズの著作による多くの本がアリソン&バズビーによって再発行、復刊された。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[エドワード・P・トムスン](https://ja.wikipedia.org/wiki/エドワード・P・トムスン "wikilink")が撮影したイギリスの短い映画にはジェームズとの対談も収められている。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[エドワード・P・トムスン](../Page/エドワード・P・トムスン.md "wikilink")が撮影したイギリスの短い映画にはジェームズとの対談も収められている。
 
-ロンドンのハクニーの公立図書館は彼に因んで名付けられた。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の20周年記念日のレセプションには、彼の未亡人セルマ・ジェームズが出席した。
+ロンドンのハクニーの公立図書館は彼に因んで名付けられた。[2005年](../Page/2005年.md "wikilink")の20周年記念日のレセプションには、彼の未亡人セルマ・ジェームズが出席した。
 
 ## クリケットに関する著作
 
@@ -84,12 +84,12 @@ CLR ジェームズはクリケット記者としても特に[1963年](../Page/1
 
 ## 関連項目
 
-  - [ハイチ革命](https://ja.wikipedia.org/wiki/ハイチ革命 "wikilink")
+  - [ハイチ革命](../Page/ハイチ革命.md "wikilink")
   - [トゥーサン・ルーヴェルチュール](../Page/トゥーサン・ルーヴェルチュール.md "wikilink")
   - [汎アフリカ主義](https://ja.wikipedia.org/wiki/汎アフリカ主義 "wikilink")
   - [従属論](https://ja.wikipedia.org/wiki/従属論 "wikilink")
-  - [世界システム論](https://ja.wikipedia.org/wiki/世界システム論 "wikilink")
-  - [エリック・ウィリアムズ](https://ja.wikipedia.org/wiki/エリック・ウィリアムズ "wikilink")
+  - [世界システム論](../Page/世界システム論.md "wikilink")
+  - [エリック・ウィリアムズ](../Page/エリック・ウィリアムズ.md "wikilink")
 
 ## 外部リンク
 

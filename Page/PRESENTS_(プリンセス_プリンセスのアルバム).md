@@ -1,7 +1,7 @@
 > この記事は[PRESENTS \( \)](https://ja.wikipedia.org/wiki/PRESENTS_\(_\))から翻訳されています。
 
 
-『**PRESENTS**』（プレゼント）は、[1994年](../Page/1994年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にリリースされた[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
+『**PRESENTS**』（プレゼント）は、[1994年](../Page/1994年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
 
 ## 解説
 
@@ -11,10 +11,10 @@
 ## 収録曲
 
 1.  **HIGHWAY STAR**
-      - 作詞：[渡辺敦子](https://ja.wikipedia.org/wiki/渡辺敦子 "wikilink")　作曲：渡辺敦子、[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")
+      - 作詞：[渡辺敦子](../Page/渡辺敦子.md "wikilink")　作曲：渡辺敦子、[奥居香](../Page/岸谷香.md "wikilink")
     :\*アルバム『[PRINCESS PRINCESS](https://ja.wikipedia.org/wiki/PRINCESS_PRINCESS_\(アルバム\) "wikilink")』収録。
 2.  **ソーロングドリーマー（'94mix）**
-      - 作詞：[富田京子](https://ja.wikipedia.org/wiki/富田京子 "wikilink")　作曲：奥居香
+      - 作詞：[富田京子](../Page/富田京子.md "wikilink")　作曲：奥居香
     :\*アルバム『[TELEPORTATION](../Page/TELEPORTATION.md "wikilink")』収録。
 3.  **友達のまま**
       - 作詞：富田京子　作曲：奥居香
@@ -29,7 +29,7 @@
       - 作詞：富田京子　作曲：奥居香
     :\*アルバム『TELEPORTATION』収録。
 7.  **だからハニー**
-      - 作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")　作曲：奥居香
+      - 作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")　作曲：奥居香
     :\*16thシングル。
 8.  **パパ**
       - 作詞：中山加奈子　作曲：奥居香
@@ -41,7 +41,7 @@
       - 作詞：中山加奈子　作曲：奥居香
     :\*アルバム『[DOLLS IN ACTION](../Page/DOLLS_IN_ACTION.md "wikilink")』収録。
 11. **SHE**
-      - 作詞：中山加奈子　作曲：[今野登茂子](https://ja.wikipedia.org/wiki/今野登茂子 "wikilink")
+      - 作詞：中山加奈子　作曲：[今野登茂子](../Page/今野登茂子.md "wikilink")
     :\*アルバム『HERE WE ARE』収録。
 12. **傷跡**
       - 作詞：中山加奈子　作曲：奥居香

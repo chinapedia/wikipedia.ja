@@ -1,7 +1,7 @@
 > この記事は[LOVERS \( \)](https://ja.wikipedia.org/wiki/LOVERS_\(_\))から翻訳されています。
 
 
-『**LOVERS**』（ラヴァーズ）は、[1989年](../Page/1989年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")にリリースされた[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**LOVERS**』（ラヴァーズ）は、[1989年](../Page/1989年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 本作には収録されなかったものの、同年発売のシングル「[Diamonds (ダイアモンド)](https://ja.wikipedia.org/wiki/Diamonds_\(プリンセス_プリンセスの曲\) "wikilink")」「[世界でいちばん熱い夏](../Page/世界でいちばん熱い夏.md "wikilink")」の相次ぐヒットの影響もあり、人気は頂点に達した。本作はアルバムとしては初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、同社集計の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")も達成する出世作となった。なお1990年1月末時点で、レコード会社発表の出荷枚数は180万枚あまり\[1\]。
+  - 本作には収録されなかったものの、同年発売のシングル「[Diamonds (ダイアモンド)](../Page/Diamonds_\(プリンセス_プリンセスの曲\).md "wikilink")」「[世界でいちばん熱い夏](../Page/世界でいちばん熱い夏.md "wikilink")」の相次ぐヒットの影響もあり、人気は頂点に達した。本作はアルバムとしては初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、同社集計の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")も達成する出世作となった。なお1990年1月末時点で、レコード会社発表の出荷枚数は180万枚あまり\[1\]。
 
 <!-- end list -->
 
@@ -25,14 +25,14 @@
 
 <!-- end list -->
 
-  - シングル曲は1曲も収録されていないが、8曲目「パパ」は翌年リリースされた「[OH YEAH\!](https://ja.wikipedia.org/wiki/OH_YEAH! "wikilink")」のカップリング曲としてリカットされた。なおこの「パパ」は作詞の中山と作曲の奥居が故人となっている実父に向けて送った楽曲である。
+  - シングル曲は1曲も収録されていないが、8曲目「パパ」は翌年リリースされた「[OH YEAH\!](../Page/OH_YEAH!.md "wikilink")」のカップリング曲としてリカットされた。なおこの「パパ」は作詞の中山と作曲の奥居が故人となっている実父に向けて送った楽曲である。
 
 ## 収録曲
 
 1.  **ムーンライト ストーリー**
-      - 作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")、作曲：[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")
+      - 作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")、作曲：[奥居香](../Page/岸谷香.md "wikilink")
 2.  **友達のまま**
-      - 作詞：[富田京子](https://ja.wikipedia.org/wiki/富田京子 "wikilink")、作曲：奥居香
+      - 作詞：[富田京子](../Page/富田京子.md "wikilink")、作曲：奥居香
 3.  **DING DONG**
       - 作詞：中山加奈子、作曲：奥居香
     <!-- end list -->
@@ -41,12 +41,12 @@
 4.  **レイン**
       - 作詞：富田京子、作曲：中山加奈子
 5.  **恋に落ちたら**
-      - 作詞：奥居香、作曲：[今野登茂子](https://ja.wikipedia.org/wiki/今野登茂子 "wikilink")
+      - 作詞：奥居香、作曲：[今野登茂子](../Page/今野登茂子.md "wikilink")
     <!-- end list -->
       -
-        映画『[ファンシィダンス](https://ja.wikipedia.org/wiki/ファンシィダンス "wikilink")』（1989年公開、[岡野玲子](../Page/岡野玲子.md "wikilink")原作、[周防正行](https://ja.wikipedia.org/wiki/周防正行 "wikilink")監督、[本木雅弘](https://ja.wikipedia.org/wiki/本木雅弘 "wikilink")主演）主題歌。
+        映画『[ファンシィダンス](https://ja.wikipedia.org/wiki/ファンシィダンス "wikilink")』（1989年公開、[岡野玲子](../Page/岡野玲子.md "wikilink")原作、[周防正行](../Page/周防正行.md "wikilink")監督、[本木雅弘](../Page/本木雅弘.md "wikilink")主演）主題歌。
 6.  **スパイ イン ラヴ**
-      - 作詞：[渡辺敦子](https://ja.wikipedia.org/wiki/渡辺敦子 "wikilink")、作曲：渡辺敦子・奥居香・中山加奈子
+      - 作詞：[渡辺敦子](../Page/渡辺敦子.md "wikilink")、作曲：渡辺敦子・奥居香・中山加奈子
 7.  **シェイク イット オフ**
       - 作詞：今野登茂子、作曲：奥居香
 8.  **パパ**

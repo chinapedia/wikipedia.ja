@@ -1,7 +1,7 @@
 > この記事は[The Last Live \( \)](https://ja.wikipedia.org/wiki/The_Last_Live_\(_\))から翻訳されています。
 
 
-『**The Last Live**』（ザ・ラスト・ライヴ）は、[1996年](../Page/1996年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にリリースされた[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")。 1996年5月31日に日本武道館で行われたラストライブの演奏部分を収録（MCはカット）。
+『**The Last Live**』（ザ・ラスト・ライヴ）は、[1996年](../Page/1996年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。 1996年5月31日に日本武道館で行われたラストライブの演奏部分を収録（MCはカット）。
 
 ## 収録曲
 

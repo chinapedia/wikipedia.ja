@@ -1,17 +1,17 @@
 > この記事は[BIGHOP](https://ja.wikipedia.org/wiki/BIGHOP)から翻訳されています。
 
 
-**BIGHOPガーデンモール印西**（ビッグホップガーデンモールいんざい、[英](../Page/英語.md "wikilink"):BIG HOP Garden Mall Inzai）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")（[千葉ニュータウン](../Page/千葉ニュータウン.md "wikilink")）に立地する[複合商業施設](https://ja.wikipedia.org/wiki/複合商業施設 "wikilink")である。
+**BIGHOPガーデンモール印西**（ビッグホップガーデンモールいんざい、[英](../Page/英語.md "wikilink"):BIG HOP Garden Mall Inzai）は、[千葉県](../Page/千葉県.md "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")（[千葉ニュータウン](../Page/千葉ニュータウン.md "wikilink")）に立地する[複合商業施設](../Page/複合商業施設.md "wikilink")である。
 
-[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")のほか、[観覧車](https://ja.wikipedia.org/wiki/観覧車 "wikilink")や屋内[動物園](../Page/動物園.md "wikilink")などの[遊園施設や](https://ja.wikipedia.org/wiki/遊園地 "wikilink")[印西](https://ja.wikipedia.org/wiki/印西市 "wikilink")[市役所](https://ja.wikipedia.org/wiki/市役所 "wikilink")（[牧の原出張所](https://ja.wikipedia.org/wiki/牧の原_\(印西市\) "wikilink")）も同建物内に入る。
+[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")のほか、[観覧車](../Page/観覧車.md "wikilink")や屋内[動物園](../Page/動物園.md "wikilink")などの[遊園施設や](../Page/遊園地.md "wikilink")[印西](https://ja.wikipedia.org/wiki/印西市 "wikilink")[市役所](https://ja.wikipedia.org/wiki/市役所 "wikilink")（[牧の原出張所](https://ja.wikipedia.org/wiki/牧の原_\(印西市\) "wikilink")）も同建物内に入る。
 
 ## 概要
 
 施設は**バリューモール**と**牧の原ふれ愛モール**の2つのエリアから構成されている。
 
-バリューモール（地上2階建て）は2015年11月現在、アウトレット系店舗を中心に約70店舗が営業している\[1\]\[2\]。中心部には高さ50mの**[観覧車](https://ja.wikipedia.org/wiki/観覧車 "wikilink")**があり、当施設のランドマーク的存在となっている\[3\]。また中央の広場にはステージ（公園劇場）があり、週末には各種イベントが開催される。[印西牧の原駅](../Page/印西牧の原駅.md "wikilink")前に隣接する牧の原ふれ愛モール（旧：駅前ビレッジ）は[イタリア](../Page/イタリア.md "wikilink")の村をイメージした造りになっている\[4\]。
+バリューモール（地上2階建て）は2015年11月現在、アウトレット系店舗を中心に約70店舗が営業している\[1\]\[2\]。中心部には高さ50mの**[観覧車](../Page/観覧車.md "wikilink")**があり、当施設のランドマーク的存在となっている\[3\]。また中央の広場にはステージ（公園劇場）があり、週末には各種イベントが開催される。[印西牧の原駅](../Page/印西牧の原駅.md "wikilink")前に隣接する牧の原ふれ愛モール（旧：駅前ビレッジ）は[イタリア](../Page/イタリア.md "wikilink")の村をイメージした造りになっている\[4\]。
 
-[北総線および](https://ja.wikipedia.org/wiki/北総鉄道北総線 "wikilink")[国道464号](https://ja.wikipedia.org/wiki/国道464号 "wikilink")線に面しており、隣接して『[牧の原モア](https://ja.wikipedia.org/wiki/牧の原モア "wikilink")』『[フォレストモール印西牧の原](https://inzaimakinohara.forest-mall.com/)』および、『[ジョイフル本田](https://ja.wikipedia.org/wiki/ジョイフル本田 "wikilink")千葉ニュータウン店』（[ホームセンター](../Page/ホームセンター.md "wikilink")）『[USシネマ千葉ニュータウン](https://ja.wikipedia.org/wiki/シネマックス千葉ニュータウン "wikilink")』などがあり、周辺一帯は北総地区における広大なショッピングエリアを形成している。
+[北総線および](https://ja.wikipedia.org/wiki/北総鉄道北総線 "wikilink")[国道464号](../Page/国道464号.md "wikilink")線に面しており、隣接して『[牧の原モア](https://ja.wikipedia.org/wiki/牧の原モア "wikilink")』『[フォレストモール印西牧の原](https://inzaimakinohara.forest-mall.com/)』および、『[ジョイフル本田](../Page/ジョイフル本田.md "wikilink")千葉ニュータウン店』（[ホームセンター](../Page/ホームセンター.md "wikilink")）『[USシネマ千葉ニュータウン](../Page/シネマックス千葉ニュータウン.md "wikilink")』などがあり、周辺一帯は北総地区における広大なショッピングエリアを形成している。
 
   - 設計：株式会社[梓設計](https://ja.wikipedia.org/wiki/梓設計 "wikilink")
   - 環境デザイン：株式会社B-WAY'S
@@ -40,17 +40,17 @@
 
 ### バリューモール
 
-  - [ABC-MART OUTLET](https://ja.wikipedia.org/wiki/ABCマート "wikilink")
+  - [ABC-MART OUTLET](../Page/ABCマート.md "wikilink")
   - [SHOE PLAZA Chiyoda](https://ja.wikipedia.org/wiki/チヨダ "wikilink")
   - [Zoff](https://ja.wikipedia.org/wiki/Zoff "wikilink")
-  - [パシオス](https://ja.wikipedia.org/wiki/パシオス "wikilink")
-  - [宮脇書店](https://ja.wikipedia.org/wiki/宮脇書店 "wikilink")
-  - [Right-on OUTLET](https://ja.wikipedia.org/wiki/ライトオン "wikilink")
-  - [WILD-1](https://ja.wikipedia.org/wiki/カンセキ "wikilink")
-  - [二木の菓子](https://ja.wikipedia.org/wiki/二木の菓子 "wikilink")
+  - [パシオス](../Page/パシオス.md "wikilink")
+  - [宮脇書店](../Page/宮脇書店.md "wikilink")
+  - [Right-on OUTLET](../Page/ライトオン.md "wikilink")
+  - [WILD-1](../Page/カンセキ.md "wikilink")
+  - [二木の菓子](../Page/二木の菓子.md "wikilink")
   - [クリエイトSD](../Page/クリエイトSDホールディングス.md "wikilink")
   - [ロピア](../Page/ロピア.md "wikilink")
-  - [餃子の王将](https://ja.wikipedia.org/wiki/餃子の王将 "wikilink") 印西牧の原店
+  - [餃子の王将](../Page/餃子の王将.md "wikilink") 印西牧の原店
 
 ### 牧の原ふれ愛モール
 
@@ -80,7 +80,7 @@
 
 #### ふれあい動物園
 
-[アルパカ](https://ja.wikipedia.org/wiki/アルパカ "wikilink")や[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")・羊などのファーム動物から、[ウサギ](../Page/ウサギ.md "wikilink")・[モルモット](../Page/モルモット.md "wikilink")・ヒヨコなどの小動物、ヘビやカメなどの爬虫類、[フクロウ](https://ja.wikipedia.org/wiki/フクロウ "wikilink")などの猛禽類、インコ・ハト、オウムなどの鳥類などのたくさんの動物と触れ合うことができる施設。
+[アルパカ](../Page/アルパカ.md "wikilink")や[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")・羊などのファーム動物から、[ウサギ](../Page/ウサギ.md "wikilink")・[モルモット](../Page/モルモット.md "wikilink")・ヒヨコなどの小動物、ヘビやカメなどの爬虫類、[フクロウ](https://ja.wikipedia.org/wiki/フクロウ "wikilink")などの猛禽類、インコ・ハト、オウムなどの鳥類などのたくさんの動物と触れ合うことができる施設。
 
 様々な動物イベントに参加できるイベントチケットも別途販売。ペットを連れての入園は不可で、ペットはトリミングルームで一時預かりをしている。
 
@@ -104,18 +104,18 @@
 
 ### 自動車
 
-  - [国道464号](https://ja.wikipedia.org/wiki/国道464号 "wikilink")線沿いに店舗があり、上り線よりそのまま入ることが可能。
+  - [国道464号](../Page/国道464号.md "wikilink")線沿いに店舗があり、上り線よりそのまま入ることが可能。
   - [東関東自動車道](../Page/東関東自動車道.md "wikilink")[千葉北IC下車](../Page/千葉北インターチェンジ.md "wikilink") - 国道16号 - [県道4号](https://ja.wikipedia.org/wiki/千葉県道・茨城県道4号千葉竜ヶ崎線 "wikilink") - 国道464号、約18km。
   - 東関東自動車道[四街道IC下車](../Page/四街道インターチェンジ.md "wikilink") - [県道64号（千葉臼井印西線）](../Page/千葉県道64号千葉臼井印西線.md "wikilink") - 国道464号、約15km。
   - [常磐自動車道](../Page/常磐自動車道.md "wikilink")[柏IC下車](../Page/柏インターチェンジ.md "wikilink") - [国道16号](../Page/国道16号.md "wikilink") - 国道464号、約27km。
-  - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[龍ケ崎市](../Page/龍ケ崎市.md "wikilink")方面からアクセスの場合、[栄橋](../Page/栄橋_\(我孫子市・利根町\).md "wikilink") - [県道4号](https://ja.wikipedia.org/wiki/千葉県道・茨城県道4号千葉竜ヶ崎線 "wikilink") - 国道464号経由でアクセス可能。
+  - [茨城県](../Page/茨城県.md "wikilink")[龍ケ崎市](../Page/龍ケ崎市.md "wikilink")方面からアクセスの場合、[栄橋](../Page/栄橋_\(我孫子市・利根町\).md "wikilink") - [県道4号](https://ja.wikipedia.org/wiki/千葉県道・茨城県道4号千葉竜ヶ崎線 "wikilink") - 国道464号経由でアクセス可能。
 
 ## 広告展開
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shin-keisei_N800_1st_unit_at_Midoridai.jpg "wikilink") （2008年2月、[みどり台](https://ja.wikipedia.org/wiki/みどり台駅 "wikilink")）|代替文=\]\]
 
-  - [bayfmにおいて](../Page/ベイエフエム.md "wikilink")[CMがオンエアされていたほか](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")、2008年には[新京成線において](https://ja.wikipedia.org/wiki/新京成電鉄新京成線 "wikilink")[ラッピング車両](https://ja.wikipedia.org/wiki/ラッピング車両 "wikilink")（[広告貸切列車](https://ja.wikipedia.org/wiki/広告貸切列車 "wikilink")）が運行された。
-  - 2014年4月より、[チバテレの子供番組である](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")『[チュバチュバワンダーランド](https://ja.wikipedia.org/wiki/チュバチュバワンダーランド "wikilink")』で、6:30台の15分版放送でCMが流れている。当施設内でステージショーも実施されている。
+  - [bayfmにおいて](../Page/ベイエフエム.md "wikilink")[CMがオンエアされていたほか](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")、2008年には[新京成線において](https://ja.wikipedia.org/wiki/新京成電鉄新京成線 "wikilink")[ラッピング車両](../Page/ラッピング車両.md "wikilink")（[広告貸切列車](https://ja.wikipedia.org/wiki/広告貸切列車 "wikilink")）が運行された。
+  - 2014年4月より、[チバテレの子供番組である](../Page/千葉テレビ放送.md "wikilink")『[チュバチュバワンダーランド](https://ja.wikipedia.org/wiki/チュバチュバワンダーランド "wikilink")』で、6:30台の15分版放送でCMが流れている。当施設内でステージショーも実施されている。
 
 ## 隣接地
 
@@ -130,8 +130,8 @@
 ## 関連項目
 
   - [ショッピングセンター](../Page/ショッピングセンター.md "wikilink")
-  - [ロードサイド店舗](https://ja.wikipedia.org/wiki/ロードサイド店舗 "wikilink")
-  - [マリーナホップ](https://ja.wikipedia.org/wiki/マリーナホップ "wikilink") - ビッグホップと同じ開発元のショッピングセンター
+  - [ロードサイド店舗](../Page/ロードサイド店舗.md "wikilink")
+  - [マリーナホップ](../Page/マリーナホップ.md "wikilink") - ビッグホップと同じ開発元のショッピングセンター
   - [トナリエ南千里](https://ja.wikipedia.org/wiki/トナリエ南千里 "wikilink") - ビッグホップと同じ開発元のショッピングセンター
 
 ## 外部リンク

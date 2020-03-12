@@ -1,7 +1,7 @@
 > この記事は[The Last Princess](https://ja.wikipedia.org/wiki/The_Last_Princess)から翻訳されています。
 
 
-『**The Last Princess**』（ザ・ラスト・プリンセス）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")9枚目のアルバム。
+『**The Last Princess**』（ザ・ラスト・プリンセス）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")9枚目のアルバム。
 
 ## 解説
 
@@ -11,11 +11,11 @@
 ## 収録曲
 
 1.  **Bye Bye**
-      - 作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")、作曲：[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")
+      - 作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")、作曲：[奥居香](../Page/岸谷香.md "wikilink")
 2.  **プロポーズ**
       - 作詞：中山加奈子、作曲：奥居香
 3.  **渚は涙のパラダイス**
-      - 作詞：今野登茂子、作曲：[渡辺敦子](https://ja.wikipedia.org/wiki/渡辺敦子 "wikilink")
+      - 作詞：今野登茂子、作曲：[渡辺敦子](../Page/渡辺敦子.md "wikilink")
 4.  **ガラクタヲ吹キ飛バセ**
       - 作詞：中山加奈子、作曲：渡辺敦子
 5.  **Hello\!\!**

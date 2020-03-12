@@ -1,7 +1,7 @@
 > この記事は[Majestic](https://ja.wikipedia.org/wiki/Majestic)から翻訳されています。
 
 
-『**Majestic**』（マジェスティック）は、[1993年](../Page/1993年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にリリースされた[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")8枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**Majestic**』（マジェスティック）は、[1993年](../Page/1993年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")8枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -13,11 +13,11 @@
 ## 収録曲
 
 1.  **傷跡**
-      - 作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")、作曲：[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")
+      - 作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")、作曲：[奥居香](../Page/岸谷香.md "wikilink")
 2.  **BIRD'S EYE VIEW**
-      - 作詞・作曲：[今野登茂子](https://ja.wikipedia.org/wiki/今野登茂子 "wikilink")
+      - 作詞・作曲：[今野登茂子](../Page/今野登茂子.md "wikilink")
 3.  **さよならダーリン**
-      - 作詞：[富田京子](https://ja.wikipedia.org/wiki/富田京子 "wikilink")、作曲：奥居香
+      - 作詞：[富田京子](../Page/富田京子.md "wikilink")、作曲：奥居香
     <!-- end list -->
       -
         17thシングルのカップリング。
@@ -33,7 +33,7 @@
 7.  **OH\! MONKEY WOMAN**
       - 作詞・作曲：中山加奈子
 8.  **風が吹いたら**
-      - 作詞・作曲：[渡辺敦子](https://ja.wikipedia.org/wiki/渡辺敦子 "wikilink")
+      - 作詞・作曲：[渡辺敦子](../Page/渡辺敦子.md "wikilink")
 9.  **それじゃね**
       - 作詞：富田京子、作曲：奥居香
 10. **片想い**

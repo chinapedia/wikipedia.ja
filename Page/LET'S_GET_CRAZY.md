@@ -1,31 +1,31 @@
 > この記事は[LET\'S GET CRAZY](https://ja.wikipedia.org/wiki/LET\'S_GET_CRAZY)から翻訳されています。
 
 
-『**LET'S GET CRAZY**』（レッツ ゲット クレイジー）は、[1988年](../Page/1988年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")にリリースされた[プリンセス プリンセスの](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**LET'S GET CRAZY**』（レッツ ゲット クレイジー）は、[1988年](../Page/1988年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
-  - 「[GET CRAZY\!](https://ja.wikipedia.org/wiki/GET_CRAZY! "wikilink")」（C/W 「ひとりじめ」）は、[1988年](../Page/1988年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に本作発売に合わせ、先行でシングルカットされている。また、「[M](https://ja.wikipedia.org/wiki/Diamonds_\(プリンセス_プリンセスの曲\)#M "wikilink")」は、翌年シングル「[Diamonds (ダイアモンド)](https://ja.wikipedia.org/wiki/Diamonds_\(プリンセス_プリンセスの曲\) "wikilink")」のカップリング曲としてリカットされた。
+  - 「[GET CRAZY\!](https://ja.wikipedia.org/wiki/GET_CRAZY! "wikilink")」（C/W 「ひとりじめ」）は、[1988年](../Page/1988年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に本作発売に合わせ、先行でシングルカットされている。また、「[M](https://ja.wikipedia.org/wiki/Diamonds_\(プリンセス_プリンセスの曲\)#M "wikilink")」は、翌年シングル「[Diamonds (ダイアモンド)](../Page/Diamonds_\(プリンセス_プリンセスの曲\).md "wikilink")」のカップリング曲としてリカットされた。
   - 「GET CRAZY\!」はプリンセス・プリンセスの楽曲としては初めてドラマの主題歌に起用された楽曲、「へっちゃら」は作詞が奥居、作曲が中山と言う珍しいパターンで構成された楽曲で、このように作詞が奥居で作曲が他のメンバーで構成された楽曲はこの曲を含めて3曲しかない（その逆は沢山ある）。
 
 ## 収録曲
 
 1.  **[GET CRAZY\!](https://ja.wikipedia.org/wiki/GET_CRAZY! "wikilink")**
-      - 作詞：[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")、作曲：[奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")
+      - 作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")、作曲：[奥居香](../Page/岸谷香.md "wikilink")
     <!-- end list -->
       -
         6thシングル。
-        [フジテレビ月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")「[君が嘘をついた](https://ja.wikipedia.org/wiki/君が嘘をついた "wikilink")」主題歌。
+        [フジテレビ月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")「[君が嘘をついた](../Page/君が嘘をついた.md "wikilink")」主題歌。
 2.  **それなりに　いいひと**
-      - 作詞：[今野登茂子](https://ja.wikipedia.org/wiki/今野登茂子 "wikilink")、作曲：奥居香
+      - 作詞：[今野登茂子](../Page/今野登茂子.md "wikilink")、作曲：奥居香
 3.  **STAY THERE**
-      - 作詞：[富田京子](https://ja.wikipedia.org/wiki/富田京子 "wikilink")、作曲：奥居香
+      - 作詞：[富田京子](../Page/富田京子.md "wikilink")、作曲：奥居香
 4.  **LOVE AND BLOOD**
       - 作詞：富田京子、作曲：中山加奈子・奥居香
 5.  **へっちゃら**
       - 作詞：奥居香、作曲：中山加奈子
 6.  **夕陽がよんでいる**
-      - 作詞：[渡辺敦子](https://ja.wikipedia.org/wiki/渡辺敦子 "wikilink")、作曲：中山加奈子
+      - 作詞：[渡辺敦子](../Page/渡辺敦子.md "wikilink")、作曲：中山加奈子
     <!-- end list -->
       -
         LP盤にはこの曲は収録されていない

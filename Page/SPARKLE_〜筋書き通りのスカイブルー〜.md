@@ -5,7 +5,7 @@
 
 ## 解説
 
-最大のヒット曲「[夢みたあとで](../Page/夢みたあとで.md "wikilink")」を収録した2ndアルバム。シングル「夢みたあとで」のヒットの真っ只中にリリースされたということもあり、オリコン初登場4位を記録した。この作品とベストアルバム『[Best](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROWのアルバム\) "wikilink")』、5thアルバム『[THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")』が同位でオリコン最高位を記録している。また、累計売上も最高の売上を記録している。
+最大のヒット曲「[夢みたあとで](../Page/夢みたあとで.md "wikilink")」を収録した2ndアルバム。シングル「夢みたあとで」のヒットの真っ只中にリリースされたということもあり、オリコン初登場4位を記録した。この作品とベストアルバム『[Best](../Page/Best_\(GARNET_CROWのアルバム\).md "wikilink")』、5thアルバム『[THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")』が同位でオリコン最高位を記録している。また、累計売上も最高の売上を記録している。
 
 タイトルの『SPARKLE』は「輝き」や「きらめき」を意味し、メンバーや作品・楽曲に対する個性や才能の輝きを表している。またバンド名の一部である「GARNET」が宝石の名前であることにも意味を掛け合わせている。サブタイトルは[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")の感覚によって命名された。
 
@@ -42,7 +42,7 @@
 9.  **Please, forgive me**
 10. **Holy ground**
       -
-        [札幌テレビ制作](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")』エンディングテーマ
+        [札幌テレビ制作](../Page/札幌テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")』エンディングテーマ
 11. **[Mysterious Eyes](../Page/Mysterious_Eyes.md "wikilink") 〜dry flavor of "G" mix〜**
       - 編曲：[Miguel Sá Pessoa](https://ja.wikipedia.org/wiki/Miguel_Sá_Pessoa "wikilink")、古井弘人
     <!-- end list -->

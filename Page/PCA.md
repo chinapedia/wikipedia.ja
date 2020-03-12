@@ -7,7 +7,7 @@
 
 <!-- end list -->
 
-  - [パラクロロアンフェタミン](https://ja.wikipedia.org/wiki/パラクロロアンフェタミン "wikilink")（**P**ara-**c**hloro**a**mphetamine）- [アンフェタミン](https://ja.wikipedia.org/wiki/アンフェタミン "wikilink")系薬物の一種
+  - [パラクロロアンフェタミン](https://ja.wikipedia.org/wiki/パラクロロアンフェタミン "wikilink")（**P**ara-**c**hloro**a**mphetamine）- [アンフェタミン](../Page/アンフェタミン.md "wikilink")系薬物の一種
   - [プレートカウント寒天培地](https://ja.wikipedia.org/wiki/プレートカウント寒天培地 "wikilink")（**P**late **c**ount **a**gar）
   - [タンパク質間相互作用検出法](https://ja.wikipedia.org/wiki/タンパク質間相互作用検出法 "wikilink")（**P**rotein-fragment **C**omplementation **A**ssay）
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - 「PC Anywhere」- [シマンテック](https://ja.wikipedia.org/wiki/シマンテック "wikilink")社のリモートコントロールソフトウェア
+  - 「PC Anywhere」- [シマンテック](../Page/シマンテック.md "wikilink")社のリモートコントロールソフトウェア
   - [プリント回路](https://ja.wikipedia.org/wiki/プリント回路 "wikilink")組み立て品（**P**rinted **c**ircuit **a**ssembly）
 
 <!-- end list -->
@@ -72,7 +72,7 @@
   - [ピー・シー・エー](https://ja.wikipedia.org/wiki/ピー・シー・エー "wikilink")株式会社 - 日本の[ソフトウェア](../Page/ソフトウェア.md "wikilink")会社
   - ピーシーエー生命保険 - 日本の生命保険会社・[SBI生命保険](https://ja.wikipedia.org/wiki/SBI生命保険 "wikilink")の旧社名
   - 英国本拠[プルーデンシャル](https://ja.wikipedia.org/wiki/プルーデンシャル "wikilink")社（PRUDENTIALplc）のアジア部門（Prudential Corporation Asia）。
-  - [常設仲裁裁判所](https://ja.wikipedia.org/wiki/常設仲裁裁判所 "wikilink")（**P**ermanent **C**ourt of **A**rbitration） - [ハーグに置かれている最古の国際機関](https://ja.wikipedia.org/wiki/デン・ハーグ "wikilink")
+  - [常設仲裁裁判所](https://ja.wikipedia.org/wiki/常設仲裁裁判所 "wikilink")（**P**ermanent **C**ourt of **A**rbitration） - [ハーグに置かれている最古の国際機関](../Page/デン・ハーグ.md "wikilink")
   - [アメリカ長老教会](https://ja.wikipedia.org/wiki/改革長老教会 "wikilink")（**P**resbyterian **C**hurch in **A**merica）
   - [オーストラリア長老教会](https://ja.wikipedia.org/wiki/改革長老教会 "wikilink")（**P**resbyterian **C**hurch of **A**ustralia）
   - ***P**olice **C**omplaints **A**uthority* - [イングランド](../Page/イングランド.md "wikilink")と[ウェールズ](../Page/ウェールズ.md "wikilink")に2004年まであった警察に対する苦情を扱う監督組織
@@ -89,4 +89,4 @@
 
 <!-- end list -->
 
-  - 「***P**acific **C**oast **A**cademy*」 - [ニコロデオンテレビシリーズのうち](https://ja.wikipedia.org/wiki/ニコロデオン_\(TVチャンネル\) "wikilink")[ゾーイ101](https://ja.wikipedia.org/wiki/ゾーイ101 "wikilink")に出てくる架空の学校
+  - 「***P**acific **C**oast **A**cademy*」 - [ニコロデオンテレビシリーズのうち](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink")[ゾーイ101](https://ja.wikipedia.org/wiki/ゾーイ101 "wikilink")に出てくる架空の学校

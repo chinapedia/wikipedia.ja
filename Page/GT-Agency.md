@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月 初代社長である[村井智建](https://ja.wikipedia.org/wiki/村井智建 "wikilink")（現[AppBank](https://ja.wikipedia.org/wiki/AppBank "wikilink")取締役）により株式会社GT-Agency 設立
+  - [2006年](../Page/2006年.md "wikilink")2月 初代社長である[村井智建](https://ja.wikipedia.org/wiki/村井智建 "wikilink")（現[AppBank](https://ja.wikipedia.org/wiki/AppBank "wikilink")取締役）により株式会社GT-Agency 設立
   - 2006年2月 株式会社塔里木とコンテンツ展開に関して独占提携
   - 2006年7月 池袋ナンジャタウンにて「占者ストリート」　開始
   - 2006年8月 今日の運勢占いコンテンツ「Web Ad Fortune」リリース
@@ -50,7 +50,7 @@
   - [1991年](../Page/1991年.md "wikilink")8月 塔里木占い館、電話鑑定開始。NTTダイヤルQ2サービスを使用した、鑑定師が直接相談者に応えるシステムを開始
   - [1994年](../Page/1994年.md "wikilink")4月 塔里木占い専門学院が創設。占いの勉強が大学の単位制を取り入れた方式で出来る国内初の占い専門学院
   - [1996年](../Page/1996年.md "wikilink")4月 塔里木カウンセリング専門学院を設立
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月 株式会社GT-Agency にて占いコンテンツの展開を開始
+  - [2006年](../Page/2006年.md "wikilink")2月 株式会社GT-Agency にて占いコンテンツの展開を開始
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
 > この記事は[TDK-MCC](https://ja.wikipedia.org/wiki/TDK-MCC)から翻訳されています。
 
 
-**TDK-MCC株式会社**（ティーディーケイ・エムシーシー）は、かつて存在した[秋田県](../Page/秋田県.md "wikilink")[にかほ市](https://ja.wikipedia.org/wiki/にかほ市 "wikilink")に本社を置く[TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")100%出資の[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")。積層[セラミック](https://ja.wikipedia.org/wiki/セラミック "wikilink")[コンデンサ](../Page/コンデンサ.md "wikilink")の生産工場として設立。
+**TDK-MCC株式会社**（ティーディーケイ・エムシーシー）は、かつて存在した[秋田県](../Page/秋田県.md "wikilink")[にかほ市](../Page/にかほ市.md "wikilink")に本社を置く[TDK](../Page/TDK.md "wikilink")100%出資の[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")[子会社](../Page/子会社.md "wikilink")。積層[セラミック](https://ja.wikipedia.org/wiki/セラミック "wikilink")[コンデンサ](../Page/コンデンサ.md "wikilink")の生産工場として設立。
 
 [2017年](../Page/2017年.md "wikilink")4月1日、TDKグループ内の組織再編に伴い、新たに設立されるTDK秋田（本社：由利本荘市）に[TDK羽後](../Page/TDK羽後.md "wikilink")、[TDK由利本荘](../Page/TDK由利本荘.md "wikilink")と共に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")され、解散した\[1\]\[2\]。
 
 ## 本社・工場
 
-  - 本社・秋田工場/[秋田県](../Page/秋田県.md "wikilink")[にかほ市](https://ja.wikipedia.org/wiki/にかほ市 "wikilink")平沢字前田151
+  - 本社・秋田工場/[秋田県](../Page/秋田県.md "wikilink")[にかほ市](../Page/にかほ市.md "wikilink")平沢字前田151
   - 象潟工場/秋田県にかほ市象潟町字武道島100
-  - 本荘工場/秋田県[由利本荘市](https://ja.wikipedia.org/wiki/由利本荘市 "wikilink")
+  - 本荘工場/秋田県[由利本荘市](../Page/由利本荘市.md "wikilink")
   - 北上工場/[岩手県](../Page/岩手県.md "wikilink")[北上市](../Page/北上市.md "wikilink")和賀町後藤2地割106-163
 
 ## 沿革
@@ -24,7 +24,7 @@
   - [2000年](../Page/2000年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") - 北上工場建設着工。
   - [2001年](../Page/2001年.md "wikilink")
       - 4月 - 北上工場操業開始。
-      - [11月28日](../Page/11月28日.md "wikilink") - TDKが秋田県と[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")にある100%出資の子会社11社のうち、8社を3社に統合すると発表。
+      - [11月28日](../Page/11月28日.md "wikilink") - TDKが秋田県と[山形県](../Page/山形県.md "wikilink")にある100%出資の子会社11社のうち、8社を3社に統合すると発表。
   - [2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 象潟TDK株式会社を吸収合併。
   - [2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 本荘工場建設着工。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月 - 本荘工場操業開始。

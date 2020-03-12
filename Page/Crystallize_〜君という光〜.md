@@ -39,7 +39,7 @@
         往年の映画女優や映画作品をモチーフにしている。
 9.  **逃れの町**
       -
-        [聖書](https://ja.wikipedia.org/wiki/聖書 "wikilink")をモチーフにしている。
+        [聖書](../Page/聖書.md "wikilink")をモチーフにしている。
 10. **Only Stay**
 11. **恋することしか出来ないみたいに**
 12. **[夢みたあとで](../Page/夢みたあとで.md "wikilink") -lightin' grooves True meaning of love mix-**

@@ -5,9 +5,9 @@
 
 ## 概略
 
-ともに東京[NSC](../Page/吉本総合芸能学院.md "wikilink")7期生で\[1\][ルミネtheよしもと](https://ja.wikipedia.org/wiki/ルミネtheよしもと "wikilink")や[ヨシモト∞ホール](../Page/ヨシモト∞ホール.md "wikilink")などの舞台で活動していた。現在は幕張セブンスターズとして主に幕張イオンモール劇場を中心に活動している。
+ともに東京[NSC](../Page/吉本総合芸能学院.md "wikilink")7期生で\[1\][ルミネtheよしもと](../Page/ルミネtheよしもと.md "wikilink")や[ヨシモト∞ホール](../Page/ヨシモト∞ホール.md "wikilink")などの舞台で活動していた。現在は幕張セブンスターズとして主に幕張イオンモール劇場を中心に活動している。
 
-[東京都立武蔵野北高等学校](https://ja.wikipedia.org/wiki/東京都立武蔵野北高等学校 "wikilink")出身\[2\]。
+[東京都立武蔵野北高等学校](../Page/東京都立武蔵野北高等学校.md "wikilink")出身\[2\]。
 
 吉本ネタネットワーク（YNN・[あなたの街に住みますプロジェクト](https://ja.wikipedia.org/wiki/あなたの街に住みますプロジェクト "wikilink")）の企画により、東京都住みます芸人として活動中\[3\]。
 
@@ -26,7 +26,7 @@
 <!-- end list -->
 
   -
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[西東京市](../Page/西東京市.md "wikilink")出身。
+    [東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")出身。
     血液型B型、身長175cm、体重64kg、腹囲74cm。
     [学習院大学](../Page/学習院大学.md "wikilink")[理学部](../Page/理学部.md "wikilink")[数学科](../Page/数学科.md "wikilink")卒\[6\]。
     ギャンブルが趣味。初給料もギャンブルに使っており\[7\]、NSCの入学金はパチンコで稼いだらしい。
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[小平市](../Page/小平市.md "wikilink")出身。
+    [東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")出身。
     血液型A型、身長172cm、体重75kg、腹囲90cm。
     家族はネコ3匹とカメ2匹（名前はちょび丸、とら丸、まる子、かめ丸、ちゃちゃ丸）\[10\]。
     兄弟は10人いる\[11\]。このことについて「それお父さんとお母さん一緒なの？」と聞かれることが多く、本人曰く「ビックダディのせい」だという。
@@ -60,12 +60,12 @@
 
   -
     2006年2月13日 LLR単独ライブ『[がんばっていきまっしょい](https://ja.wikipedia.org/wiki/がんばっていきまっしょい#映画版 "wikilink")』（恵比寿エコー劇場）
-    2006年8月17日 LLR単独ライブ『[はつ恋](https://ja.wikipedia.org/wiki/はつ恋_\(2000年の映画\) "wikilink")』（新宿シアターモリエール）
-    2007年2月3日 LLR単独ライブ『[東京マリーゴールド](https://ja.wikipedia.org/wiki/東京マリーゴールド "wikilink")』（新宿シアターモリエール）
+    2006年8月17日 LLR単独ライブ『[はつ恋](../Page/はつ恋_\(2000年の映画\).md "wikilink")』（新宿シアターモリエール）
+    2007年2月3日 LLR単独ライブ『[東京マリーゴールド](../Page/東京マリーゴールド.md "wikilink")』（新宿シアターモリエール）
     2007年7月28日 LLR単独ライブ『[きょうのできごと](https://ja.wikipedia.org/wiki/きょうのできごと_\(小説\)#映画版 "wikilink")』（新宿シアターモリエール）
-    2008年2月19日 LLR単独ライブ『[ドラッグストアガール](https://ja.wikipedia.org/wiki/ドラッグストア・ガール "wikilink")』（新宿シアターモリエール）
+    2008年2月19日 LLR単独ライブ『[ドラッグストアガール](../Page/ドラッグストア・ガール.md "wikilink")』（新宿シアターモリエール）
     2008年8月23日 LLR単独ライブ『[姑獲鳥（うぶめ）の夏](https://ja.wikipedia.org/wiki/姑獲鳥の夏#映画 "wikilink")』（ヨシモト∞ホール）
-    2009年2月23日 LLR単独ライブ『[ざわざわ下北沢](https://ja.wikipedia.org/wiki/ざわざわ下北沢 "wikilink")』（北沢タウンホール）
+    2009年2月23日 LLR単独ライブ『[ざわざわ下北沢](../Page/ざわざわ下北沢.md "wikilink")』（北沢タウンホール）
     2009年8月19日 LLR単独ライブ『[魍魎の匣](https://ja.wikipedia.org/wiki/魍魎の匣#映画 "wikilink")』（北沢タウンホール）
     2010年2月6日 LLR単独ライブ『[銀色のシーズン](../Page/銀色のシーズン.md "wikilink")』（草月ホール）
     2010年3月7日 LLR単独ライブ『[銀色のシーズン](../Page/銀色のシーズン.md "wikilink")』（ヨシモト∞ホール大阪）
@@ -92,19 +92,19 @@
 <!-- end list -->
 
   - 神保町花月
-    2007年10月10日 - 14日『僕を忘れて』（[井上マー](https://ja.wikipedia.org/wiki/井上マー "wikilink")主演）
+    2007年10月10日 - 14日『僕を忘れて』（[井上マー](../Page/井上マー.md "wikilink")主演）
       -
         福田：雑誌記者・矢島役、伊藤：音楽プロデューサー・伊藤役
     2007年12月18日 - 24日『プリンス・オブ・サンタクロース』（座長公演）
       -
         福田：主人公・セシル役、伊藤：不良高校生・竜司役
-    2008年3月11日 - 16日『声〜黒松病院〜』（[POISON GIRL BAND主演](https://ja.wikipedia.org/wiki/POISON_GIRL_BAND "wikilink")）
+    2008年3月11日 - 16日『声〜黒松病院〜』（[POISON GIRL BAND主演](../Page/POISON_GIRL_BAND.md "wikilink")）
       -
         福田：患者・ハザマ役、伊藤：ヤクザ舎弟・テツ役
     2008年7月1日 - 6日『やけくそチェンジ』（[ライス主演](../Page/ライス_\(お笑いコンビ\).md "wikilink")）
       -
         福田：刑事・河合圭介役、伊藤：刑事・美樹本拓也役
-    2008年9月23日 - 28日『あい LOVE ゆう』（[サカイスト](https://ja.wikipedia.org/wiki/サカイスト "wikilink")主演）
+    2008年9月23日 - 28日『あい LOVE ゆう』（[サカイスト](../Page/サカイスト.md "wikilink")主演）
       -
         福田：勇太郎役、伊藤：元気役
     2009年1月14日 - 18日『落花生たち』（座長公演）
@@ -140,7 +140,7 @@
   - [スクール革命\!](https://ja.wikipedia.org/wiki/スクール革命! "wikilink")（日本テレビ、2009年8月16日）
   - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")（日本テレビ、2009年8月16日）福田のみ、「芸能界怒り王グランプリ\!\!」
   - [オリエンタルラジオのマンガアニメの日](https://ja.wikipedia.org/wiki/オリエンタルラジオのマンガアニメの日 "wikilink")（[Yahoo\!バラエティ](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN#Yahoo!バラエティ "wikilink")、2009年12月4日）
-  - [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")（NHK総合、2010年11月5日）
+  - [NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink")（NHK総合、2010年11月5日）
   - [人志松本の○○な話](https://ja.wikipedia.org/wiki/人志松本の○○な話 "wikilink")（フジテレビ、2010年11月19日）福田のみ
   - [芸人報道](https://ja.wikipedia.org/wiki/芸人報道 "wikilink")（日本テレビ、2011年1月17日・3月28日）福田のみ
   - [U LA LA ナナパチ](https://ja.wikipedia.org/wiki/U・LA・LA "wikilink")（TOKYO MX、2011年12月20日） - 『ななパチよしもと』コーナー
@@ -150,7 +150,7 @@
 ## 関連項目
 
   - [よしもとドラマ部](https://ja.wikipedia.org/wiki/よしもとドラマ部 "wikilink")
-  - [ルミネtheよしもと](https://ja.wikipedia.org/wiki/ルミネtheよしもと "wikilink")
+  - [ルミネtheよしもと](../Page/ルミネtheよしもと.md "wikilink")
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[Technorati](https://ja.wikipedia.org/wiki/Technorati)から翻訳されています。
 
 
-**Technorati**（テクノラティ、テクノラーティ）は、[ブログ](../Page/ブログ.md "wikilink")を検索対象とする[ブログ検索エンジン](../Page/検索エンジン.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")現在、4940万件のブログから検索可能\[1\]。[Google](../Page/Google.md "wikilink")、[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")、[Ask.com](https://ja.wikipedia.org/wiki/Ask.com "wikilink")、PubSub、IceRocketなどと競合する。
+**Technorati**（テクノラティ、テクノラーティ）は、[ブログ](../Page/ブログ.md "wikilink")を検索対象とする[ブログ検索エンジン](../Page/検索エンジン.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")現在、4940万件のブログから検索可能\[1\]。[Google](../Page/Google.md "wikilink")、[Yahoo\!](../Page/Yahoo!.md "wikilink")、[Ask.com](../Page/Ask.com.md "wikilink")、PubSub、IceRocketなどと競合する。
 
 [2003年](../Page/2003年.md "wikilink")7月、Dave Sifryにより設立された。本社は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")所在。Tantek Çelikがチーフ・テクノロジストを務める。2006年[7月24日](../Page/7月24日.md "wikilink")、設立3周年を記念し、サービスが新しいバージョンにアップデートされた\[2\]。
 
@@ -13,7 +13,7 @@
   - URL検索（検索ボックスにURlを入れるとそのURLに対してリンクしているブログを全て表示）
   - タグ検索（検索ボックスにタグワードを入れるとそのタグをつけているブログを全て表示）
 
-Technoratiは現在、[中国政府の](../Page/中華人民共和国.md "wikilink")[インターネット検閲](../Page/ネット検閲.md "wikilink")（[中国のネット検閲](https://ja.wikipedia.org/wiki/中国のネット検閲 "wikilink")）によりブロックされている\[4\]。 また、同サービスの日本語サイトは[ネットスター](https://ja.wikipedia.org/wiki/ネットスター "wikilink")により有害サイト(カテゴリ：コミュニティ\\**[掲示板](../Page/掲示板.md "wikilink")**)として[ブラックリスト](../Page/ブラックリスト.md "wikilink")登録されている\[5\]。
+Technoratiは現在、[中国政府の](../Page/中華人民共和国.md "wikilink")[インターネット検閲](../Page/ネット検閲.md "wikilink")（[中国のネット検閲](../Page/中国のネット検閲.md "wikilink")）によりブロックされている\[4\]。 また、同サービスの日本語サイトは[ネットスター](https://ja.wikipedia.org/wiki/ネットスター "wikilink")により有害サイト(カテゴリ：コミュニティ\\**[掲示板](../Page/掲示板.md "wikilink")**)として[ブラックリスト](../Page/ブラックリスト.md "wikilink")登録されている\[5\]。
 
 テクノラティジャパンは2009年10月14日、「10月23日（金）12:00をもちまして、テクノラティジャパンのサービスを全て終了」するとの発表を行った。同社によると「国内サービス開始以来、日本のブログ界に貢献し、ブロガーの皆様とともにブログを収益化することを目指してまいりましたが、米国テクノラティ社の事業方針の変更に伴い、日本語システムの開発及びサポートの継続が困難になったことにより、今回のテクノラティジャパンの全サービス停止の決定にいたりました」と述べて、サービス終了への判断に至った経緯を説明している。
 

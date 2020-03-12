@@ -5,7 +5,7 @@
 
 アップルコンピュータ社で[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")/[CLOS](https://ja.wikipedia.org/wiki/CLOS "wikilink")等を担当していたチームが設計にあたり、そのためCLOSの影響を色濃く受け継いでいる。
 
-当初「Ralph（ラルフ）」という開発コード名で呼ばれ、[アップル・ニュートン](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")に搭載する予定で開発されていたが、想定しているプログラミングの動的化や、それに付随する[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")機能等を実現する為には多大な処理能力が必要とされ、ニュートンに搭載する予定のチップでは実現できないことが解り、ニュートンには[NewtonScript](https://ja.wikipedia.org/wiki/NewtonScript "wikilink")が搭載される事となり、Dylanは採用されなかった。
+当初「Ralph（ラルフ）」という開発コード名で呼ばれ、[アップル・ニュートン](../Page/アップル・ニュートン.md "wikilink")に搭載する予定で開発されていたが、想定しているプログラミングの動的化や、それに付随する[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")機能等を実現する為には多大な処理能力が必要とされ、ニュートンに搭載する予定のチップでは実現できないことが解り、ニュートンには[NewtonScript](https://ja.wikipedia.org/wiki/NewtonScript "wikilink")が搭載される事となり、Dylanは採用されなかった。
 
 後に、開発者向けにApple Dylan Technology Release 1（テクノロジーリリース）として販売したが、アップルコンピュータの組織再編とともにプロジェクトは解散した。
 

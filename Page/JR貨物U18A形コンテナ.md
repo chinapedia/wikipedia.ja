@@ -39,7 +39,7 @@
   - 28 - 30
     日本通運下関支店所有。東急車輛製造で製造され総重量は6.5tである。日韓を結ぶフェリーで、他の旧、日本国有鉄道所有コンテナやJR貨物所有コンテナと同様に、貿易用のISO規格管理番号又は、内航用の管理番号類は無しで取り扱われていた。しかし、長年の使用での老朽化や輸送環境の変化(積載容積の増加等)により、現在は休眠状態である。
   - 31 - 40
-    [日本コカコーラ](https://ja.wikipedia.org/wiki/日本コカコーラ "wikilink")所有。[1993年](../Page/1993年.md "wikilink")（平成5年）に[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")で製造された。総重量6.6t。[コーラ原液](https://ja.wikipedia.org/wiki/コーラ_\(飲料\) "wikilink")・[香料](https://ja.wikipedia.org/wiki/香料 "wikilink")等の輸送に使用された。
+    [日本コカコーラ](https://ja.wikipedia.org/wiki/日本コカコーラ "wikilink")所有。[1993年](../Page/1993年.md "wikilink")（平成5年）に[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")で製造された。総重量6.6t。[コーラ原液](../Page/コーラ_\(飲料\).md "wikilink")・[香料](../Page/香料.md "wikilink")等の輸送に使用された。
 
 <File:U18A-32> 【日本コカ・コーラ】Containers of Japan Rail.jpg|**U18A-32 日本コカコーラ所有。**
 

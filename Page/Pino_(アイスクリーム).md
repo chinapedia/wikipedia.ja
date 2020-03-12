@@ -1,7 +1,7 @@
 > この記事は[Pino \(\)](https://ja.wikipedia.org/wiki/Pino_\(\))から翻訳されています。
 
 
-[Morinaga_Pino_2.jpg](https://ja.wikipedia.org/wiki/File:Morinaga_Pino_2.jpg "fig:Morinaga_Pino_2.jpg") **森永pino**（もりながピノ）は、[森永乳業](https://ja.wikipedia.org/wiki/森永乳業 "wikilink")が[1976年](../Page/1976年.md "wikilink")から発売している[アイスクリーム](../Page/アイスクリーム.md "wikilink")。1979年から30年以上にわたって『**エスキモーpino**』と呼ばれていたが、エスキモーブランドの廃止に伴い、2010年10月から順次置き換えられている。
+[Morinaga_Pino_2.jpg](https://ja.wikipedia.org/wiki/File:Morinaga_Pino_2.jpg "fig:Morinaga_Pino_2.jpg") **森永pino**（もりながピノ）は、[森永乳業](../Page/森永乳業.md "wikilink")が[1976年](../Page/1976年.md "wikilink")から発売している[アイスクリーム](../Page/アイスクリーム.md "wikilink")。1979年から30年以上にわたって『**エスキモーpino**』と呼ばれていたが、エスキモーブランドの廃止に伴い、2010年10月から順次置き換えられている。
 
 [円錐台](../Page/円錐台.md "wikilink")形をしており、周りを[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")で[コーティング](https://ja.wikipedia.org/wiki/コーティング "wikilink")してある。
 
@@ -17,8 +17,8 @@ pinoという商品名の由来は、イタリア語で[松ぼっくりの意味
   - [1996年](../Page/1996年.md "wikilink") - 発売20周年。謝恩販売として6個入りパッケージを100円で、マルチパックは24個から28個に増量して販売。
   - [2002年](../Page/2002年.md "wikilink") - パッケージデザインをリニューアル。イメージキャラクターに[嵐を起用](../Page/嵐_\(グループ\).md "wikilink")。
   - [2004年](../Page/2004年.md "wikilink") - 期間限定フレーバーが発売（年2回、2005年は年3回、2006年～2009年4回、2010年以降年5回）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月1日 - 森永乳業が、エスキモーブランドの商標管理および広告を行う子会社エスキモージャパン株式会社を吸収合併。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 発売30周年。
+  - [2005年](../Page/2005年.md "wikilink")7月1日 - 森永乳業が、エスキモーブランドの商標管理および広告を行う子会社エスキモージャパン株式会社を吸収合併。
+  - [2006年](../Page/2006年.md "wikilink") - 発売30周年。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 乳製品価格高騰の影響で、マルチパックの内容量を28個から26個に減量。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - エスキモーブランド廃止、『**森永pino**』に回帰。
 
@@ -388,9 +388,9 @@ pinoという商品名の由来は、イタリア語で[松ぼっくりの意味
   - [いちご果汁](https://ja.wikipedia.org/wiki/いちご果汁 "wikilink")
   - [砂糖](../Page/砂糖.md "wikilink")
   - [水あめ](https://ja.wikipedia.org/wiki/水あめ "wikilink")
-  - [乳化剤](https://ja.wikipedia.org/wiki/乳化剤 "wikilink")
-  - [増粘安定剤](https://ja.wikipedia.org/wiki/増粘安定剤 "wikilink") - [増粘多糖類](https://ja.wikipedia.org/wiki/増粘多糖類 "wikilink")
-  - [香料](https://ja.wikipedia.org/wiki/香料 "wikilink")
+  - [乳化剤](../Page/乳化剤.md "wikilink")
+  - [増粘安定剤](../Page/増粘安定剤.md "wikilink") - [増粘多糖類](https://ja.wikipedia.org/wiki/増粘多糖類 "wikilink")
+  - [香料](../Page/香料.md "wikilink")
   - [酸味料](https://ja.wikipedia.org/wiki/酸味料 "wikilink")
   - [野菜色素](https://ja.wikipedia.org/wiki/野菜色素 "wikilink") - 一部大豆を含む
 
@@ -424,9 +424,9 @@ pinoという商品名の由来は、イタリア語で[松ぼっくりの意味
   - 「森永ピノ」→「富士ピノ」→「エスキモーピノ」という商品名の変遷があった。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[国生さゆり](../Page/国生さゆり.md "wikilink")を起用\[4\]。前年の1986年からエスキモーブランドのイメージキャラクターを務めていた\[5\]。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")と[1996年](../Page/1996年.md "wikilink")には、CMの出演者によって女性アイドルグループ[pinoが結成された](https://ja.wikipedia.org/wiki/Pino_\(アイドルグループ\) "wikilink")。
-      - 1995年（第1期メンバー）: [三宅えみ](https://ja.wikipedia.org/wiki/三宅えみ "wikilink")、[長野かずえ](https://ja.wikipedia.org/wiki/長野かずえ "wikilink")、[小谷みさこ](https://ja.wikipedia.org/wiki/岩名美紗子 "wikilink")
+      - 1995年（第1期メンバー）: [三宅えみ](../Page/三宅えみ.md "wikilink")、[長野かずえ](https://ja.wikipedia.org/wiki/長野かずえ "wikilink")、[小谷みさこ](../Page/岩名美紗子.md "wikilink")
       - 1996年（第2期メンバー）: [河村理沙](../Page/河村理沙.md "wikilink")、[荒真弓](https://ja.wikipedia.org/wiki/荒真弓 "wikilink")、[勇静華](../Page/勇静華.md "wikilink")
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[1999年](../Page/1999年.md "wikilink")までは当時ジャニーズJr.（現在は嵐）の[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")と[二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")の2人が出演。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[1999年](../Page/1999年.md "wikilink")までは当時ジャニーズJr.（現在は嵐）の[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")と[二宮和也](../Page/二宮和也.md "wikilink")の2人が出演。
   - 1999年から[2000年](../Page/2000年.md "wikilink")までは嵐が出演。
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")などがCMに出演。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")が出演。

@@ -1,7 +1,7 @@
 > この記事は[STUDIO COAST](https://ja.wikipedia.org/wiki/STUDIO_COAST)から翻訳されています。
 
 
-**STUDIO COAST**（スタジオコースト）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](https://ja.wikipedia.org/wiki/新木場 "wikilink")にある[ライブ](https://ja.wikipedia.org/wiki/演奏会 "wikilink")・[イベント](../Page/イベント.md "wikilink")[スペース](https://ja.wikipedia.org/wiki/スペース "wikilink")である。運営会社はマザーエンタテイメント。
+**STUDIO COAST**（スタジオコースト）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](../Page/新木場.md "wikilink")にある[ライブ](../Page/演奏会.md "wikilink")・[イベント](../Page/イベント.md "wikilink")[スペース](../Page/スペース.md "wikilink")である。運営会社はマザーエンタテイメント。
 
 ## 概要
 
@@ -9,11 +9,11 @@
 
 日本で唯一、4ウェイフルレンジアンプ付スピーカー[オクタゴンスピーカー](https://ja.wikipedia.org/wiki/オクタゴンスピーカー "wikilink")が設置されている会場である\[1\]。
 
-[ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink")の閉鎖に伴い、2018年2月より[総合格闘技](../Page/総合格闘技.md "wikilink")団体の[パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink")がホームとして使用することを発表した\[2\]。
+[ディファ有明](../Page/ディファ有明.md "wikilink")の閉鎖に伴い、2018年2月より[総合格闘技](../Page/総合格闘技.md "wikilink")団体の[パンクラス](../Page/パンクラス.md "wikilink")がホームとして使用することを発表した\[2\]。
 
 ## ageHa
 
-ageHaは、STUDIO COASTで週末に行われる[クラブ](../Page/クラブ.md "wikilink")イベント。イベント開催は原則として週末（[金](../Page/金曜日.md "wikilink")・[土](../Page/土曜日.md "wikilink")）及び[祝前日の深夜に限られるが](../Page/国民の祝日.md "wikilink")、[クリスマス・イヴ](https://ja.wikipedia.org/wiki/クリスマス・イヴ "wikilink")や[年末等の時期は](https://ja.wikipedia.org/wiki/年末年始 "wikilink")[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")も営業する場合がある。当イベント開催時は会場名は「ageHa」（または「ageHa@STUDIO COAST」）とクレジットされる。
+ageHaは、STUDIO COASTで週末に行われる[クラブ](../Page/クラブ.md "wikilink")イベント。イベント開催は原則として週末（[金](../Page/金曜日.md "wikilink")・[土](../Page/土曜日.md "wikilink")）及び[祝前日の深夜に限られるが](../Page/国民の祝日.md "wikilink")、[クリスマス・イヴ](https://ja.wikipedia.org/wiki/クリスマス・イヴ "wikilink")や[年末等の時期は](../Page/年末年始.md "wikilink")[平日](../Page/平日.md "wikilink")も営業する場合がある。当イベント開催時は会場名は「ageHa」（または「ageHa@STUDIO COAST」）とクレジットされる。
 
 イベント実施時には、[渋谷](../Page/渋谷.md "wikilink")から無料シャトルバスが運行される他、近隣に150台収容の臨時駐車場（ageHa PARKING）が設置される。
 
@@ -57,7 +57,7 @@ ageHaは、STUDIO COASTで週末に行われる[クラブ](../Page/クラブ.md 
 ## 関連項目
 
   - [NECソリューションイノベータ](../Page/NECソリューションイノベータ.md "wikilink")（旧NECソフト）・[新木場センタービル](https://ja.wikipedia.org/wiki/新木場センタービル "wikilink") - 砂町運河の対岸にあるビル。
-  - [夢の島公園](https://ja.wikipedia.org/wiki/夢の島公園 "wikilink") - コンサートが行われることもある近隣の公園。
+  - [夢の島公園](../Page/夢の島公園.md "wikilink") - コンサートが行われることもある近隣の公園。
   - [アイドルマスター ミリオンライブ\!](https://ja.wikipedia.org/wiki/アイドルマスター_ミリオンライブ! "wikilink") - ゲーム中に登場する「765プロライブシアター」の外観モデルになっている（初出は[ゲッサン版](https://ja.wikipedia.org/wiki/アイドルマスター_ミリオンライブ!_\(門司雪の漫画\) "wikilink")）。
 
 ## 外部リンク

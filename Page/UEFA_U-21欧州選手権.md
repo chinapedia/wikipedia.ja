@@ -1,11 +1,11 @@
 > この記事は[UEFA U-21](https://ja.wikipedia.org/wiki/UEFA_U-21)から翻訳されています。
 
 
-**UEFA U-21欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、**23歳以下**の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。大会名がU-21になっているのは、予選開始時には21歳以下の年齢制限で行われるためで、2年の大会期間を経て本大会が行われる時には23歳以下の年齢制限となっている。
+**UEFA U-21欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、**23歳以下**の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。大会名がU-21になっているのは、予選開始時には21歳以下の年齢制限で行われるためで、2年の大会期間を経て本大会が行われる時には23歳以下の年齢制限となっている。
 
 ## 概要
 
-本大会の開催は2年に1度で、これまでは[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")開催年と[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")開催年に行われており、欧州選手権開催年は夏季五輪の開催年とも同一であることから、この年に行われる大会は同じく23歳以下の選手で争われる[オリンピックの欧州予選を兼ねて行われていた](https://ja.wikipedia.org/wiki/オリンピックのサッカー競技 "wikilink")。しかし、ワールドカップや欧州選手権と開催年をずらして大会への注目度を上げるべく、2006-07年大会から本大会はワールドカップと欧州選手権の中間年、すなわち西暦の奇数年に開催されることになった。この事に伴い、1984年1月1日生まれ以降の選手で争われる06-07年大会は、予選開始時にU-22代表で争われることとなったため、大会名と異なり、U-21代表で争われることのない大会となった。また、五輪予選としての性格も、五輪開催前年の本大会が引き続き兼ねることとなったが、以前と異なり、本大会開催年中に23歳になる選手は翌年の五輪には[オーバーエイジ](https://ja.wikipedia.org/wiki/オーバーエイジ "wikilink")枠でないと出場できない。
+本大会の開催は2年に1度で、これまでは[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")開催年と[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")開催年に行われており、欧州選手権開催年は夏季五輪の開催年とも同一であることから、この年に行われる大会は同じく23歳以下の選手で争われる[オリンピックの欧州予選を兼ねて行われていた](../Page/オリンピックのサッカー競技.md "wikilink")。しかし、ワールドカップや欧州選手権と開催年をずらして大会への注目度を上げるべく、2006-07年大会から本大会はワールドカップと欧州選手権の中間年、すなわち西暦の奇数年に開催されることになった。この事に伴い、1984年1月1日生まれ以降の選手で争われる06-07年大会は、予選開始時にU-22代表で争われることとなったため、大会名と異なり、U-21代表で争われることのない大会となった。また、五輪予選としての性格も、五輪開催前年の本大会が引き続き兼ねることとなったが、以前と異なり、本大会開催年中に23歳になる選手は翌年の五輪には[オーバーエイジ](../Page/オーバーエイジ.md "wikilink")枠でないと出場できない。
 
 ## 開催方式
 
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権2006" title="wikilink">15</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 - 0</strong></p></td>
@@ -617,7 +617,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権1982" title="wikilink">1982</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルディ・フェラー" title="wikilink">ルディ・フェラー</a></p></td>
+<td><p><a href="../Page/ルディ・フェラー.md" title="wikilink">ルディ・フェラー</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -635,13 +635,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権1988" title="wikilink">1988</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラン・ブラン" title="wikilink">ローラン・ブラン</a></p></td>
+<td><p><a href="../Page/ローラン・ブラン.md" title="wikilink">ローラン・ブラン</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権1990" title="wikilink">1990</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダヴォール・シューケル" title="wikilink">ダヴォール・シューケル</a></p></td>
+<td><p><a href="../Page/ダヴォール・シューケル.md" title="wikilink">ダヴォール・シューケル</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -671,26 +671,26 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権2000" title="wikilink">2000</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンドレア・ピルロ" title="wikilink">アンドレア・ピルロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンドレア・ピルロ" title="wikilink">アンドレア・ピルロ</a></p></td>
+<td><p><a href="../Page/アンドレア・ピルロ.md" title="wikilink">アンドレア・ピルロ</a></p></td>
+<td><p><a href="../Page/アンドレア・ピルロ.md" title="wikilink">アンドレア・ピルロ</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権2002" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペトル・チェフ" title="wikilink">ペトル・チェフ</a></p></td>
+<td><p><a href="../Page/ペトル・チェフ.md" title="wikilink">ペトル・チェフ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マッシモ・マッカローネ" title="wikilink">マッシモ・マッカローネ</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権2004" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・ジラルディーノ" title="wikilink">アルベルト・ジラルディーノ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・ジラルディーノ" title="wikilink">アルベルト・ジラルディーノ</a></p></td>
+<td><p><a href="../Page/アルベルト・ジラルディーノ.md" title="wikilink">アルベルト・ジラルディーノ</a></p></td>
+<td><p><a href="../Page/アルベルト・ジラルディーノ.md" title="wikilink">アルベルト・ジラルディーノ</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権2006" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラース・ヤン・フンテラール" title="wikilink">クラース・ヤン・フンテラール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラース・ヤン・フンテラール" title="wikilink">クラース・ヤン・フンテラール</a></p></td>
+<td><p><a href="../Page/クラース・ヤン・フンテラール.md" title="wikilink">クラース・ヤン・フンテラール</a></p></td>
+<td><p><a href="../Page/クラース・ヤン・フンテラール.md" title="wikilink">クラース・ヤン・フンテラール</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">

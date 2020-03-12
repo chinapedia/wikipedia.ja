@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:3dlabs_permedia_2v.jpg "wikilink") **ZiiLABS**は[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[コンピュータ](../Page/コンピュータ.md "wikilink")周辺機器ハードウェアメーカー。
 
-[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[GPU及び](../Page/Graphics_Processing_Unit.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")を生産していたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にGPUから撤退。
+[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[GPU及び](../Page/Graphics_Processing_Unit.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")を生産していたが、[2006年](../Page/2006年.md "wikilink")にGPUから撤退。
 
 [2009年](../Page/2009年.md "wikilink")に**3Dlabs**から社名を変え、現在は主にモバイル向けSoCの製造を行なっている。
 
@@ -15,11 +15,11 @@
 
 3DLabsはOpenGLの[API策定に関与しており](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、OpenGLのAPI策定に歩調を合わせて製品をリリースしていた。そのため、特定ベンダが売り込んだDirectXの新規APIファンクションのサポートなどは、次の世代のGPUでサポートされることが多く、また、演算・レンダリング精度を重視しているために、マルチメディア処理のパフォーマンスや、あるいはゲーム固有のバグを吸収するためのドライバ最適化などを原則行わなかった。そのためにDirectXに弱いという評価をなされることが多かった\[1\]が、そもそもDirectXの普及がまだ途上であった1990年代中頃にはそれほど問題とされず、特に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された**Permedia2**はその高いピクセル描画性能で大ヒットとなった。
 
-しかしDirectXが急速に浸透する1990年代後半以降、DirectXの最新APIへの対応の遅れや[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")の実行性能の遅さのために、急速にコンシューマでのシェアを低下させた。それでもOpenGLが重視されるプロフェッショナル向けGPUでは高いシェアを誇っていたが、2000年代に入るとコンシューマ向けGPUで性能競争を激化させた[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")と[ATIがプロフェッショナル向けGPUのシェアをも食うに至って](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink")、業績が悪化。
+しかしDirectXが急速に浸透する1990年代後半以降、DirectXの最新APIへの対応の遅れや[Direct3D](../Page/Direct3D.md "wikilink")の実行性能の遅さのために、急速にコンシューマでのシェアを低下させた。それでもOpenGLが重視されるプロフェッショナル向けGPUでは高いシェアを誇っていたが、2000年代に入るとコンシューマ向けGPUで性能競争を激化させた[NVIDIA](../Page/NVIDIA.md "wikilink")と[ATIがプロフェッショナル向けGPUのシェアをも食うに至って](../Page/ATI_Technologies.md "wikilink")、業績が悪化。
 
-[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[クリエイティブテクノロジー](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")によって買収された。そして2006年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、親会社のクリエイティブテクノロジーがプロフェッショナルワークステーショングラフィックス事業から撤退させると発表し、メディアプロセッサの開発に転換した。
+[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[クリエイティブテクノロジー](../Page/クリエイティブテクノロジー.md "wikilink")によって買収された。そして2006年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、親会社のクリエイティブテクノロジーがプロフェッショナルワークステーショングラフィックス事業から撤退させると発表し、メディアプロセッサの開発に転換した。
 
-2009年には**ZiiLABS**と社名を変え、自社のGPUを[ARMプロセッサと組み合わせたモバイル向けSoCである](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")「ZMS」の開発を行なっており、主にクリエイティブ製品に採用されている。
+2009年には**ZiiLABS**と社名を変え、自社のGPUを[ARMプロセッサと組み合わせたモバイル向けSoCである](../Page/ARMアーキテクチャ.md "wikilink")「ZMS」の開発を行なっており、主にクリエイティブ製品に採用されている。
 
 [2012年](../Page/2012年.md "wikilink")[11月](../Page/11月.md "wikilink")に開発チームが[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")に譲渡された。
 

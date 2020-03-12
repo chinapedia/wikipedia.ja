@@ -7,10 +7,10 @@
 
   - 前作から約1年半の時を経てリリースされた2ndアルバムである。
   - 前作同様に松尾潔プロデュースでトラック間に効果的にInterludeが収められている。『BACK TOGETHER AGAIN』には「Interlude 〜@Electric Lady Studio, NYC〜」、『Let's Get Together Now』には「Interlude 〜@Yuigahama, KAMAKURA〜」というタイトルが付いている。
-  - トリプルA面シングル「[It Takes Two / SOLID DREAM / MOVE ON](https://ja.wikipedia.org/wiki/It_Takes_Two "wikilink")」に収録されていた「MOVE ON」はこのアルバムには収録されなかった。なお、同曲は企画盤「[Between the Lines](https://ja.wikipedia.org/wiki/Between_the_Lines "wikilink")」にアルバムヴァージョンとして収録。
-  - 先行シングルとして「My Gift to You」が限定リリースされた。この楽曲は[Skoop On Somebodyとの競演で彼らのアルバム](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")「[Save Our Souls](https://ja.wikipedia.org/wiki/Save_Our_Souls "wikilink")」に収録されている作品「Two of A Kind (S.O.S. meets CHEMISTRY)」に対するお礼としての意味合いがある。後にSkoop On Somebody自身も[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+  - トリプルA面シングル「[It Takes Two / SOLID DREAM / MOVE ON](https://ja.wikipedia.org/wiki/It_Takes_Two "wikilink")」に収録されていた「MOVE ON」はこのアルバムには収録されなかった。なお、同曲は企画盤「[Between the Lines](../Page/Between_the_Lines.md "wikilink")」にアルバムヴァージョンとして収録。
+  - 先行シングルとして「My Gift to You」が限定リリースされた。この楽曲は[Skoop On Somebodyとの競演で彼らのアルバム](../Page/Skoop_On_Somebody.md "wikilink")「[Save Our Souls](../Page/Save_Our_Souls.md "wikilink")」に収録されている作品「Two of A Kind (S.O.S. meets CHEMISTRY)」に対するお礼としての意味合いがある。後にSkoop On Somebody自身も[セルフカバー](../Page/セルフカバー.md "wikilink")している。
   - 『月夜』の作詞は[柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink")。この曲の[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")が柴田淳の2ndアルバム[ため息に収められている](../Page/ため息_\(アルバム\).md "wikilink")。
-  - [オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位。前1stアルバム「[The Way We Are](../Page/The_Way_We_Are.md "wikilink")」に引き続き初動ミリオンを達成。また、[2003年](../Page/2003年.md "wikilink")年間アルバムランキングでも1位を獲得した。
+  - [オリコン初登場](../Page/オリコンチャート.md "wikilink")1位。前1stアルバム「[The Way We Are](../Page/The_Way_We_Are.md "wikilink")」に引き続き初動ミリオンを達成。また、[2003年](../Page/2003年.md "wikilink")年間アルバムランキングでも1位を獲得した。
   - 2003年[1月30日](../Page/1月30日.md "wikilink")までに出荷枚数200万枚を突破した\[1\]。
   - 初回限定：premium「chemistry」sheet
 
@@ -23,22 +23,22 @@
     <!-- end list -->
       -
         6thシングルの1曲目
-        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ダブルスコア](https://ja.wikipedia.org/wiki/ダブルスコア "wikilink")」主題歌
+        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ダブルスコア](../Page/ダブルスコア.md "wikilink")」主題歌
 3.  **STILL ECHO**
       - 作詞：小山内舞、作曲：YANAGIMAN・RYOJI、編曲：YANAGIMAN
-4.  **[My Gift to You](https://ja.wikipedia.org/wiki/My_Gift_to_You "wikilink") (CHEMISTRY meets [S.O.S.](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink"))**
+4.  **[My Gift to You](../Page/My_Gift_to_You.md "wikilink") (CHEMISTRY meets [S.O.S.](../Page/Skoop_On_Somebody.md "wikilink"))**
       - 作詞：S.O.S.・小山内舞、作曲・編曲：S.O.S.
     <!-- end list -->
       -
         7thシングル
         CHEMISTRY出演 [KDDI](../Page/KDDI.md "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") ムービーメール」CMソング
 5.  **Running Away**
-      - 作詞：立田野純、作曲：[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")、編曲：I.S.O.
+      - 作詞：立田野純、作曲：[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")、編曲：I.S.O.
     <!-- end list -->
       -
         4thシングル「君をさがしてた 〜New Jersey United〜」カップリング
 6.  **BACK TOGETHER AGAIN**
-      - 作詞：小山内舞、作曲：[今井大介](https://ja.wikipedia.org/wiki/今井大介 "wikilink")、編曲：[柿崎洋一郎](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")
+      - 作詞：小山内舞、作曲：[今井大介](https://ja.wikipedia.org/wiki/今井大介 "wikilink")、編曲：[柿崎洋一郎](../Page/柿崎洋一郎.md "wikilink")
     <!-- end list -->
       -
         5thシングル「FLOATIN'」カップリング
@@ -57,7 +57,7 @@
         6thシングルの2曲目
         フジテレビ系「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」テーマソング
 10. **[Let's Get Together Now](https://ja.wikipedia.org/wiki/Let's_Get_Together_Now "wikilink") (Tokyo Calling)**
-      - 作詞：澤本嘉光・松尾潔、作曲：[川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")、編曲：YANAGIMAN・川口大輔
+      - 作詞：澤本嘉光・松尾潔、作曲：[川口大輔](../Page/川口大輔.md "wikilink")、編曲：YANAGIMAN・川口大輔
     <!-- end list -->
       -
         [Voices of KOREA/JAPAN名義シングルのCHEMISTRYバージョン](https://ja.wikipedia.org/wiki/Voices_of_KOREA/JAPAN "wikilink")
@@ -83,7 +83,7 @@
 
 ### It Takes Two
 
-  - Piano:[川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")
+  - Piano:[川口大輔](../Page/川口大輔.md "wikilink")
   - Violins:CHARLEEN KWASS, CHARLES PARKER, EGORE WEC, EMMA KUMMROW, GLORIA JUSTIN and TAMMY LEE
   - Violas:DAVIS BAENETTE and JENNY CORENZO
 
@@ -93,10 +93,10 @@
 
 ### My Gift to You
 
-  - Acoustic Piano ＆ Synthesizer:KO-ICHIRO（[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")）
-  - Drums:KO-HEY（[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")）
+  - Acoustic Piano ＆ Synthesizer:KO-ICHIRO（[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")）
+  - Drums:KO-HEY（[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")）
   - Guitars:知念輝行
-  - Hammond B-3:[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Hammond B-3:[中西康晴](../Page/中西康晴.md "wikilink")
 
 ### No Color Line
 
@@ -109,17 +109,17 @@
 
 ### SOLID DREAM
 
-  - Acoustic Piano:[渡辺貴浩](https://ja.wikipedia.org/wiki/渡辺貴浩 "wikilink")
+  - Acoustic Piano:[渡辺貴浩](../Page/渡辺貴浩.md "wikilink")
   - Strings:村山・桐山ストリングス
   - Bass:[藤本和則](../Page/藤本和則.md "wikilink")
 
 ### 月夜
 
-  - Piano:[川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")
+  - Piano:[川口大輔](../Page/川口大輔.md "wikilink")
 
 ### マイウェイ
 
-  - Guitars:石成正人、[柿崎洋一郎](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")
+  - Guitars:石成正人、[柿崎洋一郎](../Page/柿崎洋一郎.md "wikilink")
   - Mute Trumpet:佐々木史郎
   - Fender Rhodes:[松浦晃久](https://ja.wikipedia.org/wiki/松浦晃久 "wikilink")
 
@@ -133,7 +133,7 @@
 ## 関連作品
 
   - 「[ため息](../Page/ため息_\(アルバム\).md "wikilink")」 - [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink")
-  - 「[Save Our Souls](https://ja.wikipedia.org/wiki/Save_Our_Souls "wikilink")」 - [Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")
+  - 「[Save Our Souls](../Page/Save_Our_Souls.md "wikilink")」 - [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
 
 ## 脚注
 

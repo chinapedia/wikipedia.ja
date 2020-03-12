@@ -5,15 +5,15 @@
 
 ## 概要
 
-[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[バカボン鬼塚](https://ja.wikipedia.org/wiki/バカボン鬼塚 "wikilink")と、週代わりで女性[声優](../Page/声優.md "wikilink")陣より4名前後が出演、[金田朋子](../Page/金田朋子.md "wikilink")と[有島モユ](https://ja.wikipedia.org/wiki/有島モユ "wikilink")を筆頭に[天然ボケ](https://ja.wikipedia.org/wiki/天然ボケ "wikilink")な発言をした女性声優に、バカボン鬼塚がキツい[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")を入れるのが恒例となっていた。
+[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[バカボン鬼塚](../Page/バカボン鬼塚.md "wikilink")と、週代わりで女性[声優](../Page/声優.md "wikilink")陣より4名前後が出演、[金田朋子](../Page/金田朋子.md "wikilink")と[有島モユ](../Page/有島モユ.md "wikilink")を筆頭に[天然ボケ](../Page/天然ボケ.md "wikilink")な発言をした女性声優に、バカボン鬼塚がキツい[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")を入れるのが恒例となっていた。
 
-[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")は[キングレコード](../Page/キングレコード.md "wikilink")、[セブンシーズミュージック](https://ja.wikipedia.org/wiki/セブンシーズミュージック "wikilink")、[ビクターインタラクティブソフトウェア](https://ja.wikipedia.org/wiki/パック・イン・ビデオ "wikilink")（現 [マーベラスインタラクティブ](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")）。
+[スポンサー](../Page/スポンサー.md "wikilink")は[キングレコード](../Page/キングレコード.md "wikilink")、[セブンシーズミュージック](https://ja.wikipedia.org/wiki/セブンシーズミュージック "wikilink")、[ビクターインタラクティブソフトウェア](../Page/パック・イン・ビデオ.md "wikilink")（現 [マーベラスインタラクティブ](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")）。
 
 2002年4月に、出演者の一部交代を含むリニューアルをおこなっている。
 
-後番組は[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")をキー局に同じくイーエス・エンターテインメント制作の『[水樹奈々 スマイル・ギャング](https://ja.wikipedia.org/wiki/水樹奈々_スマイル・ギャング "wikilink")』がネットされた。
+後番組は[文化放送](../Page/文化放送.md "wikilink")をキー局に同じくイーエス・エンターテインメント制作の『[水樹奈々 スマイル・ギャング](../Page/水樹奈々_スマイル・ギャング.md "wikilink")』がネットされた。
 
-当番組には『[センチメンタルグラフティ](../Page/センチメンタルグラフティ.md "wikilink")』のヒロイン役を務めた声優（[牧島有希](https://ja.wikipedia.org/wiki/牧島有希 "wikilink")・[豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")・有島モユ）が出演しているが、その関係で牧島と共に「[うさぎ組](https://ja.wikipedia.org/wiki/うさぎ組 "wikilink")」を結成していた5人のうち、[岡田純子を除く](https://ja.wikipedia.org/wiki/岡田純子_\(声優\) "wikilink")4人（[岡本麻見](https://ja.wikipedia.org/wiki/岡本麻見 "wikilink")・[鈴木麗子](https://ja.wikipedia.org/wiki/鈴木麗子 "wikilink")・[今野宏美](../Page/今野宏美.md "wikilink")・[西口有香](https://ja.wikipedia.org/wiki/西口有香 "wikilink")）が出演。牧島と共に5人で『夜はぷちぷちへなちょこラジオ』というコーナー番組を放送し、コーナー番組の名称にちなんでユニット『[プチ☆ぷち](https://ja.wikipedia.org/wiki/プチ☆ぷち "wikilink")』を結成していた。
+当番組には『[センチメンタルグラフティ](../Page/センチメンタルグラフティ.md "wikilink")』のヒロイン役を務めた声優（[牧島有希](../Page/牧島有希.md "wikilink")・[豊嶋真千子](../Page/豊嶋真千子.md "wikilink")・有島モユ）が出演しているが、その関係で牧島と共に「[うさぎ組](https://ja.wikipedia.org/wiki/うさぎ組 "wikilink")」を結成していた5人のうち、[岡田純子を除く](../Page/岡田純子_\(声優\).md "wikilink")4人（[岡本麻見](../Page/岡本麻見.md "wikilink")・[鈴木麗子](../Page/鈴木麗子.md "wikilink")・[今野宏美](../Page/今野宏美.md "wikilink")・[西口有香](../Page/西口有香.md "wikilink")）が出演。牧島と共に5人で『夜はぷちぷちへなちょこラジオ』というコーナー番組を放送し、コーナー番組の名称にちなんでユニット『[プチ☆ぷち](https://ja.wikipedia.org/wiki/プチ☆ぷち "wikilink")』を結成していた。
 
 ## 放送時間
 
@@ -36,15 +36,15 @@
 #### 2000年10月～2002年3月
 
   - [金月真美](../Page/金月真美.md "wikilink")
-  - [豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
+  - [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
   - [野田順子](../Page/野田順子.md "wikilink")
-  - [牧島有希](https://ja.wikipedia.org/wiki/牧島有希 "wikilink")
+  - [牧島有希](../Page/牧島有希.md "wikilink")
 
 #### 2002年4月～2003年3月
 
   - [金田朋子](../Page/金田朋子.md "wikilink")
-  - [神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")
-  - [野中藍](https://ja.wikipedia.org/wiki/野中藍 "wikilink")
+  - [神田朱未](../Page/神田朱未.md "wikilink")
+  - [野中藍](../Page/野中藍.md "wikilink")
 
 ## 主なコーナー
 
@@ -57,7 +57,7 @@
   - あれこれ情報のおじかん
     出演者の活動情報。
   - 無記名ディスカッション
-    リスナーが出した[アンケート](https://ja.wikipedia.org/wiki/アンケート "wikilink")に無記名で回答を書かせ、バカボン鬼塚が面白い回答を選んでトークする。無記名のはずが、バカボン鬼塚の誘導にひっかかって回答者がバレることも多かった。
+    リスナーが出した[アンケート](../Page/アンケート.md "wikilink")に無記名で回答を書かせ、バカボン鬼塚が面白い回答を選んでトークする。無記名のはずが、バカボン鬼塚の誘導にひっかかって回答者がバレることも多かった。
   - あたかも交換小説
     くじ引きで決めた順番に、6人で1本の小説を書く。
   - 反省文のおじかん
@@ -87,21 +87,21 @@
 1.  **Love You Forever**（歌：[金月真美](../Page/金月真美.md "wikilink")）
       - 作詞・作曲：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")
 2.  **輝きをあつめて**（歌：[野田順子](../Page/野田順子.md "wikilink")）
-      - 作詞：[森川美穂](https://ja.wikipedia.org/wiki/森川美穂 "wikilink") / 作曲：[KOJIRO](https://ja.wikipedia.org/wiki/KOJIRO "wikilink")
+      - 作詞：[森川美穂](../Page/森川美穂.md "wikilink") / 作曲：[KOJIRO](https://ja.wikipedia.org/wiki/KOJIRO "wikilink")
 3.  **NEVER SAY**
-      - 作詞・作曲・歌：[豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
+      - 作詞・作曲・歌：[豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
 4.  **MOTHER**
-      - 作曲：[和田薫](https://ja.wikipedia.org/wiki/和田薫_\(作曲家\) "wikilink") / 作詞・歌：[有島モユ](https://ja.wikipedia.org/wiki/有島モユ "wikilink")
-5.  **夢の足跡**（歌：[牧島有希](https://ja.wikipedia.org/wiki/牧島有希 "wikilink")）
+      - 作曲：[和田薫](../Page/和田薫_\(作曲家\).md "wikilink") / 作詞・歌：[有島モユ](../Page/有島モユ.md "wikilink")
+5.  **夢の足跡**（歌：[牧島有希](../Page/牧島有希.md "wikilink")）
       - 作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink") / 作曲：[小熊ゆかり](https://ja.wikipedia.org/wiki/小熊ゆかり "wikilink")
 6.  **[TRANSMIGRATION](https://ja.wikipedia.org/wiki/supersonic_girl "wikilink")** \[5:04\]（歌：[水樹奈々](../Page/水樹奈々.md "wikilink")）
-      - 作詞：[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
-7.  **ANJO A SONHAR**（歌：[ANTONIO BAKANO](https://ja.wikipedia.org/wiki/バカボン鬼塚 "wikilink")）
-      - 作詞：[ソニア](https://ja.wikipedia.org/wiki/ソニア "wikilink") / 作曲 [ジョルジオ・ソン](https://ja.wikipedia.org/wiki/ジョルジオ・ソン "wikilink")
+      - 作詞：[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
+7.  **ANJO A SONHAR**（歌：[ANTONIO BAKANO](../Page/バカボン鬼塚.md "wikilink")）
+      - 作詞：[ソニア](../Page/ソニア.md "wikilink") / 作曲 [ジョルジオ・ソン](https://ja.wikipedia.org/wiki/ジョルジオ・ソン "wikilink")
 8.  **Let's sing a song**（歌：ARTISTS UNITED ES HOUR（全員））
-      - 作詞・作曲：[野村義男](https://ja.wikipedia.org/wiki/野村義男 "wikilink")
+      - 作詞・作曲：[野村義男](../Page/野村義男.md "wikilink")
 9.  **めざせ一等賞！**（歌：[プチ☆ぷち](https://ja.wikipedia.org/wiki/プチ☆ぷち "wikilink")）
-      - 作詞・作曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞・作曲：[佐藤準](../Page/佐藤準.md "wikilink")
 10. あたかも交換小説「姫が行く」 （金月真美、野田順子、豊嶋真千子、有島モユ、牧島有希、水樹奈々）
 
 <!-- end list -->
@@ -114,7 +114,7 @@
 
 ### Believe 〜気づけばそこに〜
 
-「**Believe 〜気づけばそこに〜**」（）は、[金月真美](../Page/金月真美.md "wikilink")、[野田順子](../Page/野田順子.md "wikilink")、[豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")、[有島モユ](https://ja.wikipedia.org/wiki/有島モユ "wikilink")、[牧島有希](https://ja.wikipedia.org/wiki/牧島有希 "wikilink")、[水樹奈々](../Page/水樹奈々.md "wikilink")、[バカボン鬼塚](https://ja.wikipedia.org/wiki/バカボン鬼塚 "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。2001年10月30日に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコード第三クリエイティブ本部 "wikilink")。
+「**Believe 〜気づけばそこに〜**」（）は、[金月真美](../Page/金月真美.md "wikilink")、[野田順子](../Page/野田順子.md "wikilink")、[豊嶋真千子](../Page/豊嶋真千子.md "wikilink")、[有島モユ](../Page/有島モユ.md "wikilink")、[牧島有希](../Page/牧島有希.md "wikilink")、[水樹奈々](../Page/水樹奈々.md "wikilink")、[バカボン鬼塚](../Page/バカボン鬼塚.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。2001年10月30日に[キングレコードから発売された](../Page/キングレコード第三クリエイティブ本部.md "wikilink")。
 
   - 収録曲
 
@@ -122,7 +122,7 @@
 
 1.  **Believe 〜気づけばそこに〜** \[?:\]
       - 作曲：
-      - ゲーム『[リーヴェルファンタジア〜マリエルと妖精物語〜](https://ja.wikipedia.org/wiki/リーヴェルファンタジア〜マリエルと妖精物語〜 "wikilink")』オープニングテーマ
+      - ゲーム『[リーヴェルファンタジア〜マリエルと妖精物語〜](../Page/リーヴェルファンタジア〜マリエルと妖精物語〜.md "wikilink")』オープニングテーマ
 2.  **Smile Smile** \[?:\]
       - 作曲：
       - ゲーム『リーヴェルファンタジア〜マリエルと妖精物語〜』イメージソング

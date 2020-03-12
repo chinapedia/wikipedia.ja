@@ -5,15 +5,15 @@
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に登場。8ビット時代において三菱電機を代表するパソコンであった。キーボードと本体が一体化したデザインとなっている。スペックは表示機能においては[NEC製](../Page/日本電気.md "wikilink")[PC-8800シリーズ](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")と同等で、音声出力は[PSG](../Page/Programmable_Sound_Generator.md "wikilink")3重和音機能を保有。
 
-上位機種として、[MULTI 16シリーズがあるが](https://ja.wikipedia.org/wiki/MULTI_16シリーズ "wikilink")、互換性はない。
+上位機種として、[MULTI 16シリーズがあるが](../Page/MULTI_16シリーズ.md "wikilink")、互換性はない。
 
 ## 概要
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月](../Page/9月.md "wikilink")に発売。定価は123,000円。当時、[将棋](../Page/将棋.md "wikilink")の[女流棋士であった](https://ja.wikipedia.org/wiki/女流棋士_\(将棋\) "wikilink")[林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")がCMキャラクターをつとめた。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月](../Page/9月.md "wikilink")に発売。定価は123,000円。当時、[将棋](../Page/将棋.md "wikilink")の[女流棋士であった](../Page/女流棋士_\(将棋\).md "wikilink")[林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")がCMキャラクターをつとめた。
 
-M-[BASIC](../Page/BASIC.md "wikilink")80を採用しており、100%の互換ではないが、[データレコーダ](../Page/データレコーダ.md "wikilink")で記録した[PC-8001の](https://ja.wikipedia.org/wiki/PC-8000シリーズ#PC-8001 "wikilink")[N-BASIC](https://ja.wikipedia.org/wiki/N-BASIC "wikilink")プログラムデータを読み込むことが可能で、N-BASICからの移植性に配慮した設計となっている。
+M-[BASIC](../Page/BASIC.md "wikilink")80を採用しており、100%の互換ではないが、[データレコーダ](../Page/データレコーダ.md "wikilink")で記録した[PC-8001の](https://ja.wikipedia.org/wiki/PC-8000シリーズ#PC-8001 "wikilink")[N-BASIC](../Page/N-BASIC.md "wikilink")プログラムデータを読み込むことが可能で、N-BASICからの移植性に配慮した設計となっている。
 
-同時期に発売されていたNECの[PC-8001mkIIと価格層としては同じでありながら](https://ja.wikipedia.org/wiki/PC-8000シリーズ "wikilink")、その機能は上位機の[PC-8801とほぼ同スペックであることが魅力であったが](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")、対応ソフトウェアの少なさなどもあり、結果としては普及はしなかった。以降、三菱電機の8ビット系パソコン製品は[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")規格が主流となる。
+同時期に発売されていたNECの[PC-8001mkIIと価格層としては同じでありながら](../Page/PC-8000シリーズ.md "wikilink")、その機能は上位機の[PC-8801とほぼ同スペックであることが魅力であったが](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")、対応ソフトウェアの少なさなどもあり、結果としては普及はしなかった。以降、三菱電機の8ビット系パソコン製品は[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")規格が主流となる。
 
 ## 仕様
 
@@ -32,7 +32,7 @@ M-[BASIC](../Page/BASIC.md "wikilink")80を採用しており、100%の互換で
   - [インタフェース](../Page/インタフェース_\(情報技術\).md "wikilink")
       - モニタ（モノクロ（コンポジットビデオ信号）、カラー（RGBセパレート）、RF出力（オプション）にて家庭用テレビを使用可能）
       - [CMT](../Page/コンパクトカセット.md "wikilink")（600ボー / 1200ボー）
-      - [プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")（[セントロニクス](https://ja.wikipedia.org/wiki/IEEE_1284 "wikilink")）
+      - [プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")（[セントロニクス](../Page/IEEE_1284.md "wikilink")）
       - [シリアルインタフェース](../Page/シリアルポート.md "wikilink")（[RS-232](../Page/RS-232.md "wikilink")C準拠を内蔵）
       - [ミニフロッピーディスク](../Page/フロッピーディスク.md "wikilink")
       - オーディオ出力

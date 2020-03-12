@@ -1,21 +1,21 @@
 > この記事は[ N.Y.SALAD](https://ja.wikipedia.org/wiki/_N.Y.SALAD)から翻訳されています。
 
 
-『**やさいのようせい N.Y.SALAD**』（やさいのようせい ニューヨークサラダ）は、[NHK教育で放送された](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。
+『**やさいのようせい N.Y.SALAD**』（やさいのようせい ニューヨークサラダ）は、[NHK教育で放送された](../Page/NHK教育テレビジョン.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。
 
-第1シリーズは[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")より毎週木曜、金曜の午前7時15分 - 7時25分に全26話放送された。第2シリーズは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")から[6月27日](../Page/6月27日.md "wikilink")にかけて月曜から金曜の午前7時40分 - 7時45分、午後5時10分 - 5時15分（再放送）に放送された。また、『おかあさんといっしょあそびだいすき！』内でも放映された。
+第1シリーズは[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より毎週木曜、金曜の午前7時15分 - 7時25分に全26話放送された。第2シリーズは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")から[6月27日](../Page/6月27日.md "wikilink")にかけて月曜から金曜の午前7時40分 - 7時45分、午後5時10分 - 5時15分（再放送）に放送された。また、『おかあさんといっしょあそびだいすき！』内でも放映された。
 
 [2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")にかけて、土曜の午前7時25分 - 7時30分、午後5時30分 - 5時35分（午前の再放送）に、第1シリーズ、第2シリーズの再放送をまとめて放送した。
 
 ## 概要
 
-[天野喜孝](../Page/天野喜孝.md "wikilink")の画集「N.Y.SALAD」をアニメ化した作品。[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")のとあるキッチンを舞台に、野菜の妖精たちの日常を描いたメルヘンチックな作品となっている。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")に[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")を起用している。
+[天野喜孝](../Page/天野喜孝.md "wikilink")の画集「N.Y.SALAD」をアニメ化した作品。[ニューヨーク](../Page/ニューヨーク.md "wikilink")のとあるキッチンを舞台に、野菜の妖精たちの日常を描いたメルヘンチックな作品となっている。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")に[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")を起用している。
 
-鉛筆素描風の描線と淡い色彩が特徴的である。一見[水彩画](https://ja.wikipedia.org/wiki/水彩画 "wikilink")を思わせるが、実際は[3DCGソフトウェア](../Page/3次元コンピュータグラフィックス.md "wikilink")[Softimage XSIを用いて描画されている](https://ja.wikipedia.org/wiki/Softimage "wikilink")\[1\]。
+鉛筆素描風の描線と淡い色彩が特徴的である。一見[水彩画](https://ja.wikipedia.org/wiki/水彩画 "wikilink")を思わせるが、実際は[3DCGソフトウェア](../Page/3次元コンピュータグラフィックス.md "wikilink")[Softimage XSIを用いて描画されている](../Page/Softimage.md "wikilink")\[1\]。
 
-2007年度[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink")においてアニメーション部門の審査委員会推薦作品に選出されたほか、[日本オタク大賞](https://ja.wikipedia.org/wiki/日本オタク大賞 "wikilink")2007では[アニメディア](https://ja.wikipedia.org/wiki/アニメディア "wikilink")賞を受賞。第41回アニフェスト・[ヒューストン国際映画祭](https://ja.wikipedia.org/wiki/ヒューストン国際映画祭 "wikilink")ではプラチナ・ゴールド・ブロンズという3賞の同時受賞という快挙を成し遂げた。
+2007年度[文化庁メディア芸術祭](../Page/文化庁メディア芸術祭.md "wikilink")においてアニメーション部門の審査委員会推薦作品に選出されたほか、[日本オタク大賞](../Page/日本オタク大賞.md "wikilink")2007では[アニメディア](../Page/アニメディア.md "wikilink")賞を受賞。第41回アニフェスト・[ヒューストン国際映画祭](https://ja.wikipedia.org/wiki/ヒューストン国際映画祭 "wikilink")ではプラチナ・ゴールド・ブロンズという3賞の同時受賞という快挙を成し遂げた。
 
-2010年2月13日より、全国の[ワーナー・マイカル](https://ja.wikipedia.org/wiki/ワーナー・マイカル・シネマズ "wikilink")（現・[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")）系映画館にて映画版『やさいのようせい N.Y.SALAD The Movie』が上映。テレビ版のリマスターバージョン（3話、全15分）と映画オリジナルストーリー1話（全20分）で構成される。なお映画オリジナル版は[3D映画として上映された](https://ja.wikipedia.org/wiki/立体映画 "wikilink")。
+2010年2月13日より、全国の[ワーナー・マイカル](../Page/ワーナー・マイカル・シネマズ.md "wikilink")（現・[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")）系映画館にて映画版『やさいのようせい N.Y.SALAD The Movie』が上映。テレビ版のリマスターバージョン（3話、全15分）と映画オリジナルストーリー1話（全20分）で構成される。なお映画オリジナル版は[3D映画として上映された](https://ja.wikipedia.org/wiki/立体映画 "wikilink")。
 
 ## 主な受賞
 
@@ -23,7 +23,7 @@
 
 :\* 第11回[SICAF](https://ja.wikipedia.org/wiki/SICAF "wikilink") 入選
 
-:\* 第31回[アヌシー国際アニメーション映画祭](https://ja.wikipedia.org/wiki/アヌシー国際アニメーション映画祭 "wikilink") 入選
+:\* 第31回[アヌシー国際アニメーション映画祭](../Page/アヌシー国際アニメーション映画祭.md "wikilink") 入選
 
 :\* 第8回アニマドリッド国際アニメーション映画祭 入選
 
@@ -35,11 +35,11 @@
 
   - 国内
 
-:\* 第11回[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink") 審査委員会推薦作品入選
+:\* 第11回[文化庁メディア芸術祭](../Page/文化庁メディア芸術祭.md "wikilink") 審査委員会推薦作品入選
 
-:\* 第7回日本オタク大賞 [アニメディア](https://ja.wikipedia.org/wiki/アニメディア "wikilink")編集長個人賞受賞
+:\* 第7回日本オタク大賞 [アニメディア](../Page/アニメディア.md "wikilink")編集長個人賞受賞
 
-:\* 第7回日本映画テレビ技術協会[映像技術賞](https://ja.wikipedia.org/wiki/映像技術賞 "wikilink")、TVアニメ部門
+:\* 第7回日本映画テレビ技術協会[映像技術賞](../Page/映像技術賞.md "wikilink")、TVアニメ部門
 
 ## 登場キャラクター
 
@@ -49,10 +49,10 @@
     声 - [白鳥由里](../Page/白鳥由里.md "wikilink")
     芽キャベツの精。誰とでも仲良くなれる明るい性格。得意な楽器はフルート。
   - ガーリック
-    声 - [青山桐子](https://ja.wikipedia.org/wiki/青山桐子 "wikilink")
+    声 - [青山桐子](../Page/青山桐子.md "wikilink")
     ガーリックの精。やんちゃな性格だが、実は怖がり。白ナスと仲がいい。得意な楽器はサックス。
   - レタス
-    声 - [井浦愛](https://ja.wikipedia.org/wiki/井浦愛 "wikilink") / [後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")（2010年劇場版）
+    声 - [井浦愛](../Page/井浦愛.md "wikilink") / [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")（2010年劇場版）
     レタスの精。優しい女の子らしい性格だが、少しおしゃま。得意な楽器はピアノ。歌を歌うのも好き。
   - 白ナス
     声 - [松来未祐](../Page/松来未祐.md "wikilink")
@@ -61,13 +61,13 @@
 ### その他のキャラクター
 
   - サニーおばさん
-    声 - [菊池いづみ](https://ja.wikipedia.org/wiki/菊池いづみ "wikilink")
+    声 - [菊池いづみ](../Page/菊池いづみ.md "wikilink")
     サニーレタスの精。ほかの妖精たちを我が子のように可愛がっている。
   - プチトマト
     声 - [宮崎優子](https://ja.wikipedia.org/wiki/宮崎優子_\(声優\) "wikilink")
     レタスと仲良し。まじめで正義感が強い。得意な楽器はスネアドラム。
   - ニンジン
-    声 - [太田哲治](https://ja.wikipedia.org/wiki/太田哲治 "wikilink")
+    声 - [太田哲治](../Page/太田哲治.md "wikilink")
     ジャガイモと仲良し。口が達者の自慢屋だが、いざとなると腰が引けてしまう。得意な楽器はバイオリン。
   - ジャガイモ
     声 - 磯見大
@@ -79,7 +79,7 @@
     声 - 太田哲治
     トウガラシの弟。兄のトウガラシと同様にプチトマトの事が好き。同じくギターが得意。
   - モルドレイス
-    声 - [松宏彰](https://ja.wikipedia.org/wiki/松宏彰 "wikilink")
+    声 - [松宏彰](../Page/松宏彰.md "wikilink")
     カビのお化け。触れたものを真っ黒にして塵にしてしまうため、みんなから恐れられている。トウガラシの種が苦手。
   - ライチ
     声 - 高橋夏穂
@@ -92,7 +92,7 @@
     ハロウィンに使われるカボチャの精で、ピーナッツのように大勢いる。トウガラシと一緒にいたずらをした時にそのうちの一人がモルドレイスに巻き込まれて、真っ黒にカビて塵になってしまう。
   - ティーニー/フローラ
     劇場版に登場した紫の花の蕾から生まれた妖精。芽キャベツをお兄ちゃんのように慕う｡「ティーニー」という名前は芽キャベツが付けたもの。
-    実は満月の夜にしか咲かない[月下美人の妖精で](https://ja.wikipedia.org/wiki/ゲッカビジン "wikilink")、花のドレスを着た女性が本当の姿。夜が明けると種を残して消えてしまう。
+    実は満月の夜にしか咲かない[月下美人の妖精で](../Page/ゲッカビジン.md "wikilink")、花のドレスを着た女性が本当の姿。夜が明けると種を残して消えてしまう。
 
 <!-- end list -->
 
@@ -101,16 +101,16 @@
 ## スタッフ
 
   - 原作 - [天野喜孝](../Page/天野喜孝.md "wikilink")
-  - 総合演出・脚本 - [松宏彰](https://ja.wikipedia.org/wiki/松宏彰 "wikilink")
+  - 総合演出・脚本 - [松宏彰](../Page/松宏彰.md "wikilink")
   - アニメーション監督 - 青海徳之
   - 音楽 - [藤野浩一](https://ja.wikipedia.org/wiki/藤野浩一 "wikilink")
   - 背景美術 - 児玉徹郎、松村麻郁
-  - 効果 - [川田清貴](https://ja.wikipedia.org/wiki/スワラ・プロ "wikilink")
+  - 効果 - [川田清貴](../Page/スワラ・プロ.md "wikilink")
   - 録音 - 細貝真弓、[はたしょうじ](https://ja.wikipedia.org/wiki/はたしょう二 "wikilink")
   - プロデューサー - 鈴木真理子、中村哲志、佐々木拾
   - アニメーションプロデューサー - 浦澤貴洋、小林正俊、中野美穂子
   - アニメーション制作 - [デジタル・メディア・ラボ](https://ja.wikipedia.org/wiki/デジタル・メディア・ラボ "wikilink")
-  - 制作・著作 - N.Y.SALAD 製作委員会（[加賀電子](https://ja.wikipedia.org/wiki/加賀電子 "wikilink")、[NHKエデュケーショナル](../Page/NHKエデュケーショナル.md "wikilink")、[デジタル・メディア・ラボ](https://ja.wikipedia.org/wiki/デジタル・メディア・ラボ "wikilink")、[モンスターフィルムス](https://ja.wikipedia.org/wiki/モンスターフィルムス "wikilink")）
+  - 制作・著作 - N.Y.SALAD 製作委員会（[加賀電子](../Page/加賀電子.md "wikilink")、[NHKエデュケーショナル](../Page/NHKエデュケーショナル.md "wikilink")、[デジタル・メディア・ラボ](https://ja.wikipedia.org/wiki/デジタル・メディア・ラボ "wikilink")、[モンスターフィルムス](https://ja.wikipedia.org/wiki/モンスターフィルムス "wikilink")）
 
 ## 各話リスト
 
@@ -168,7 +168,7 @@
 ## 原作・絵本など
 
   - 『N.Y.SALAD―THE WORLD OF VEGETABLE FAIRIES』 2002年5月 天野喜孝事務所
-  - 『眠れるレタス姫 (N.Y.salad)』 2005年5月 [主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")
+  - 『眠れるレタス姫 (N.Y.salad)』 2005年5月 [主婦の友社](../Page/主婦の友社.md "wikilink")
   - 『知りたがりやの芽キャベツ』 2008年11月 [PHP研究所](../Page/PHP研究所.md "wikilink")
   - 『水あそび』 2009年3月 PHP研究所
   - 『はっぱのそり』 2009年8月 PHP研究所

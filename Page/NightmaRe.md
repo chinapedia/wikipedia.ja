@@ -1,7 +1,7 @@
 > この記事は[NightmaRe](https://ja.wikipedia.org/wiki/NightmaRe)から翻訳されています。
 
 
-「**NightmaRe**」（ナイトメア）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")より発売された[SNoW](https://ja.wikipedia.org/wiki/SNoW "wikilink")の[シングル](../Page/シングル.md "wikilink")。
+「**NightmaRe**」（ナイトメア）は、[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より発売された[SNoW](../Page/SNoW.md "wikilink")の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  NightmaRe
-      - 作詞：[山野英明](https://ja.wikipedia.org/wiki/山野英明 "wikilink") 作曲：SNoW / [進藤安三津](https://ja.wikipedia.org/wiki/進藤安三津 "wikilink") 編曲：[SiZK](https://ja.wikipedia.org/wiki/SiZK "wikilink")・[中村優規](https://ja.wikipedia.org/wiki/中村優規 "wikilink")・[武藤丸助](https://ja.wikipedia.org/wiki/武藤丸助 "wikilink")
+      - 作詞：[山野英明](https://ja.wikipedia.org/wiki/山野英明 "wikilink") 作曲：SNoW / [進藤安三津](https://ja.wikipedia.org/wiki/進藤安三津 "wikilink") 編曲：[SiZK](../Page/SiZK.md "wikilink")・[中村優規](https://ja.wikipedia.org/wiki/中村優規 "wikilink")・[武藤丸助](https://ja.wikipedia.org/wiki/武藤丸助 "wikilink")
 2.  Yes
       - 作詞：山野英明 作曲：SNoW / 進藤安三津 編曲：[進藤安三津](https://ja.wikipedia.org/wiki/進藤安三津 "wikilink")・[KENICHI FUJITA](https://ja.wikipedia.org/wiki/藤田謙一 "wikilink")
 3.  NightmaRe(Instrumental)

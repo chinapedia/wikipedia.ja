@@ -1,12 +1,12 @@
 > この記事は[The FLARE](https://ja.wikipedia.org/wiki/The_FLARE)から翻訳されています。
 
 
-**The FLARE**（ザ・フレア）は、元[LAZY KNACKの](https://ja.wikipedia.org/wiki/LAZY_KNACK "wikilink")[YUNA](https://ja.wikipedia.org/wiki/YUNA "wikilink")と[LUNA SEAのギタリスト](../Page/LUNA_SEA.md "wikilink")・[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")の二人による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。2004年7月結成。2006年3月4日の渋谷O-EastのLIVEを最後に解散。
+**The FLARE**（ザ・フレア）は、元[LAZY KNACKの](../Page/LAZY_KNACK.md "wikilink")[YUNA](https://ja.wikipedia.org/wiki/YUNA "wikilink")と[LUNA SEAのギタリスト](../Page/LUNA_SEA.md "wikilink")・[SUGIZO](../Page/SUGIZO.md "wikilink")の二人による[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2004年7月結成。2006年3月4日の渋谷O-EastのLIVEを最後に解散。
 
 ## メンバー
 
-  - **[YUNA](https://ja.wikipedia.org/wiki/松雪陽 "wikilink")**（ボーカル）
-  - **[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")**（ギター）
+  - **[YUNA](../Page/松雪陽.md "wikilink")**（ボーカル）
+  - **[SUGIZO](../Page/SUGIZO.md "wikilink")**（ギター）
 
 ## ディスコグラフィー
 
@@ -152,8 +152,8 @@
 
 ## タイアップ
 
-| 曲名    | タイアップ                                                                            |
-| ----- | -------------------------------------------------------------------------------- |
-| 真夏ノ恋人 | テレビ東京系「[スポパラ](https://ja.wikipedia.org/wiki/バラエティ7 "wikilink")」2005年8月度エンディングテーマ |
+| 曲名    | タイアップ                                                         |
+| ----- | ------------------------------------------------------------- |
+| 真夏ノ恋人 | テレビ東京系「[スポパラ](../Page/バラエティ7.md "wikilink")」2005年8月度エンディングテーマ |
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")

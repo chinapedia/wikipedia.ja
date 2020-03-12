@@ -8,21 +8,21 @@
 ### GOGOワイド Wテツのらぶらじ
 
   - 前番組『[猛烈昼下がりアッパレ\!ハレハレ](https://ja.wikipedia.org/wiki/猛烈昼下がりアッパレ!ハレハレ "wikilink")』までは月 - 木曜日をSBSアナウンサーのみで担当していたが、本番組より静岡県外からタレントを招きコーナー出演者を増やすなど、人的に大幅な方向転換を行なっている。
-  - 月曜日・火曜日は愛知県を中心に活躍するアウトドア系タレント[鉄崎幹人](../Page/鉄崎幹人.md "wikilink")とSBSアナウンサーの[小沼みのり](https://ja.wikipedia.org/wiki/小沼みのり "wikilink")が担当していたが、2015年9月22日をもって小沼は同番組を卒業した。その後、同年9月28日放送から[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")所属のタレント[寺田奈美江](https://ja.wikipedia.org/wiki/寺田奈美江 "wikilink")が担当。2016年3月28日から寺田が金曜日に移籍し、その後任として、SBSの新人アナウンサー[黒田菜月](https://ja.wikipedia.org/wiki/黒田菜月 "wikilink")が鉄崎のパートナーとして抜擢された。
-  - 水曜日・木曜日はミュージシャンの[杉原徹](https://ja.wikipedia.org/wiki/杉原徹 "wikilink")（元[てつ100%](https://ja.wikipedia.org/wiki/てつ100% "wikilink")）と元SBSアナウンサーの[長谷川玲子](https://ja.wikipedia.org/wiki/長谷川玲子 "wikilink")が担当。以前は元SBSアナウンサーの[橋本奈都江](https://ja.wikipedia.org/wiki/橋本奈都江 "wikilink")が担当していたが、橋本は2008年12月31日をもって同番組を卒業した。その後は長谷川が2009年1月7日放送より担当。
+  - 月曜日・火曜日は愛知県を中心に活躍するアウトドア系タレント[鉄崎幹人](../Page/鉄崎幹人.md "wikilink")とSBSアナウンサーの[小沼みのり](../Page/小沼みのり.md "wikilink")が担当していたが、2015年9月22日をもって小沼は同番組を卒業した。その後、同年9月28日放送から[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")所属のタレント[寺田奈美江](https://ja.wikipedia.org/wiki/寺田奈美江 "wikilink")が担当。2016年3月28日から寺田が金曜日に移籍し、その後任として、SBSの新人アナウンサー[黒田菜月](https://ja.wikipedia.org/wiki/黒田菜月 "wikilink")が鉄崎のパートナーとして抜擢された。
+  - 水曜日・木曜日はミュージシャンの[杉原徹](../Page/杉原徹.md "wikilink")（元[てつ100%](../Page/てつ100%.md "wikilink")）と元SBSアナウンサーの[長谷川玲子](../Page/長谷川玲子.md "wikilink")が担当。以前は元SBSアナウンサーの[橋本奈都江](../Page/橋本奈都江.md "wikilink")が担当していたが、橋本は2008年12月31日をもって同番組を卒業した。その後は長谷川が2009年1月7日放送より担当。
   - 生放送を[ストリーミング](../Page/ストリーミング.md "wikilink")ですべて聞くことが聞く事が出来るので、メールなどは[静岡県](../Page/静岡県.md "wikilink")内だけでなく世界中から届けられる（ストリーミングは[らぶらじ公式サイト](http://www.at-s.com/sbsradio/program/love/)より）。ストリーミングでは音声だけでなく、スタジオの映像も生で見る事ができる。
   - 番組名の「Wテツ」は、メインパーソナリティの**鉄**崎幹人と杉原**徹**の両名の名前から取っている\[1\]。
 
 ### GOGOワイド 勝山康晴のらぶらじ
 
-  - 金曜日は[コンテンポラリー・ダンス](https://ja.wikipedia.org/wiki/コンテンポラリー・ダンス "wikilink")カンパニー「[コンドルズ](https://ja.wikipedia.org/wiki/コンドルズ "wikilink")」のメンバーである舞台プロデューサーの[勝山康晴](https://ja.wikipedia.org/wiki/勝山康晴 "wikilink")とSBSアナウンサー[原田亜弥子](https://ja.wikipedia.org/wiki/原田亜弥子 "wikilink")（その後、[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[井川絵美](https://ja.wikipedia.org/wiki/井川絵美 "wikilink")を経て、2016年4月から、月曜から移動の[寺田奈美江](https://ja.wikipedia.org/wiki/寺田奈美江 "wikilink")）の2人で放送する「GOGOワイド 勝山康晴のらぶらじ」\[2\]。
+  - 金曜日は[コンテンポラリー・ダンス](../Page/コンテンポラリー・ダンス.md "wikilink")カンパニー「[コンドルズ](../Page/コンドルズ.md "wikilink")」のメンバーである舞台プロデューサーの[勝山康晴](https://ja.wikipedia.org/wiki/勝山康晴 "wikilink")とSBSアナウンサー[原田亜弥子](https://ja.wikipedia.org/wiki/原田亜弥子 "wikilink")（その後、[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[井川絵美](../Page/井川絵美.md "wikilink")を経て、2016年4月から、月曜から移動の[寺田奈美江](https://ja.wikipedia.org/wiki/寺田奈美江 "wikilink")）の2人で放送する「GOGOワイド 勝山康晴のらぶらじ」\[2\]。
 
 ## 過去
 
 ### GOGOワイド くんちゃんのらぶらじ
 
-  - 金曜日は元SBSアナウンサー（2009年12月に定年退社）[國本良博](https://ja.wikipedia.org/wiki/國本良博 "wikilink")・SBSアナウンサー原田亜弥子の2人で放送する「GOGOワイド くんちゃんのらぶらじ」。番組開始当初は國本とローカルおかまタレント[樹根](https://ja.wikipedia.org/wiki/樹根 "wikilink")・元[中部日本放送アナウンサー](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")[角田美保](https://ja.wikipedia.org/wiki/角田美保 "wikilink")の3人だった。金曜らぶらじは前番組の『マルキン特大号 くんちゃん樹根りん美保のアッパレ\!ハレハレ』から引き続き放送されているために「GOGOワイドWテツのらぶらじ」とは別扱いになっている。
-  - 2007年9月29日で角田が卒業し、2007年10月5日放送からSBSアナウンサー[高塚奈央子](https://ja.wikipedia.org/wiki/高塚奈央子 "wikilink")が加わる。
+  - 金曜日は元SBSアナウンサー（2009年12月に定年退社）[國本良博](../Page/國本良博.md "wikilink")・SBSアナウンサー原田亜弥子の2人で放送する「GOGOワイド くんちゃんのらぶらじ」。番組開始当初は國本とローカルおかまタレント[樹根](https://ja.wikipedia.org/wiki/樹根 "wikilink")・元[中部日本放送アナウンサー](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")[角田美保](../Page/角田美保.md "wikilink")の3人だった。金曜らぶらじは前番組の『マルキン特大号 くんちゃん樹根りん美保のアッパレ\!ハレハレ』から引き続き放送されているために「GOGOワイドWテツのらぶらじ」とは別扱いになっている。
+  - 2007年9月29日で角田が卒業し、2007年10月5日放送からSBSアナウンサー[高塚奈央子](../Page/高塚奈央子.md "wikilink")が加わる。
   - 2010年4月2日、樹根が土曜日午後の番組「[満開ラジオ樹根爛漫](https://ja.wikipedia.org/wiki/満開ラジオ樹根爛漫 "wikilink")」に移動し、高塚がSBSを退社するため番組を卒業。
   - 2010年4月9日、フリーになった國本と原田の二人による新金曜らぶらじとなった。
   - 2013年3月29日をもって國本がパーソナリティを卒業。
@@ -44,8 +44,8 @@
 
 <!-- end list -->
 
-  - [杉原徹](https://ja.wikipedia.org/wiki/杉原徹 "wikilink")（愛称：テツさん）
-  - [長谷川玲子](https://ja.wikipedia.org/wiki/長谷川玲子 "wikilink")（もとSBSアナウンサー、愛称：レイチェル）
+  - [杉原徹](../Page/杉原徹.md "wikilink")（愛称：テツさん）
+  - [長谷川玲子](../Page/長谷川玲子.md "wikilink")（もとSBSアナウンサー、愛称：レイチェル）
 
 <!-- end list -->
 
@@ -69,18 +69,18 @@
 
 ### 過去のレギュラー
 
-  - [橋本奈都江](https://ja.wikipedia.org/wiki/橋本奈都江 "wikilink")　2007年4月 - 2008年12月
-  - [角田美保](https://ja.wikipedia.org/wiki/角田美保 "wikilink")　2007年4月 - 2007年9月
-  - [高塚奈央子](https://ja.wikipedia.org/wiki/高塚奈央子 "wikilink")　2007年10月 - 2010年4月
+  - [橋本奈都江](../Page/橋本奈都江.md "wikilink")　2007年4月 - 2008年12月
+  - [角田美保](../Page/角田美保.md "wikilink")　2007年4月 - 2007年9月
+  - [高塚奈央子](../Page/高塚奈央子.md "wikilink")　2007年10月 - 2010年4月
   - [樹根](https://ja.wikipedia.org/wiki/樹根 "wikilink")　2007年4月 - 2010年4月
   - 守屋知栄　2007年4月 - 2007年9月
   - 海野圭子　2007年9月 - 2010年9月
   - 松千代　2007年4月 - 2007年10月
   - DJカツヨシ　2007年4月 - 2009年3月以前?
-  - [國本良博](https://ja.wikipedia.org/wiki/國本良博 "wikilink")　2007年4月 - 2013年3月29日
-  - [小沼みのり](https://ja.wikipedia.org/wiki/小沼みのり "wikilink") 2007年4月 - 2015年9月22日
+  - [國本良博](../Page/國本良博.md "wikilink")　2007年4月 - 2013年3月29日
+  - [小沼みのり](../Page/小沼みのり.md "wikilink") 2007年4月 - 2015年9月22日
   - [原田亜弥子](https://ja.wikipedia.org/wiki/原田亜弥子 "wikilink") 2015年2月13日をもって産休、のち降板
-  - [井川絵美](https://ja.wikipedia.org/wiki/井川絵美 "wikilink") 2015年2月27日 - 2016年3月25日
+  - [井川絵美](../Page/井川絵美.md "wikilink") 2015年2月27日 - 2016年3月25日
 
 ### 過去のコーナー出演者
 
@@ -99,9 +99,9 @@
   - 14:15 - ブレイクザニュース
   - 14:25 - メッセージ&ミュージック
   - 14:30 - 静岡の街角へ Let's groove\!groove\!Scoopy
-  - 14:40 - [ラジオショッピング](https://ja.wikipedia.org/wiki/ラジオショッピング "wikilink")
+  - 14:40 - [ラジオショッピング](../Page/ラジオショッピング.md "wikilink")
   - 14:44 - メッセージ&ミュージック
-  - 14:52 - [交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")・[天気予報](../Page/天気予報.md "wikilink")
+  - 14:52 - [交通情報](../Page/交通情報.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")
   - 15:00
       - てっちゃんねる（月曜・火曜）
           - 静岡おいしい未来予想図（月曜1 - 4週のみ）
@@ -113,13 +113,13 @@
       - がんばれ高校生 ミルクで元気（火曜2週）
       - 方広寺・法ちゃんの煩悩ラジオ（火曜4週）
       - 高森有紀のほっこりタイム（木曜3週）
-      - [いちまる](https://ja.wikipedia.org/wiki/いちまる "wikilink")ホーミングpresents 教えて\! [リフォーム](https://ja.wikipedia.org/wiki/リフォーム "wikilink")博士（金曜4週）
+      - [いちまる](https://ja.wikipedia.org/wiki/いちまる "wikilink")ホーミングpresents 教えて\! [リフォーム](../Page/リフォーム.md "wikilink")博士（金曜4週）
   - 15:25 - 交通情報・天気予報
   - 15:28 - メッセージ&ミュージック
   - 15:35 - ラジオショッピング
   - 15:40 - 今日の聞いてみよう
   - 15:50 - メッセージ&ミュージック
-  - 16:00 - [アステラス製薬 明日も元気\!](https://ja.wikipedia.org/wiki/アステラス製薬_明日も元気! "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
+  - 16:00 - [アステラス製薬 明日も元気\!](../Page/アステラス製薬_明日も元気!.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
   - 16:10 - らぶらじYou gottaスタジアム
       - らぶらじ 園児のつぶやき（水曜）
   - 16:25 - [あなたにハッピー・メロディ](https://ja.wikipedia.org/wiki/あなたにハッピー・メロディ "wikilink")（2016年10月3日 - 、[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
@@ -135,7 +135,7 @@
   - 17:46 -
       - 本当に深い時間になってきました（月曜 - 木曜）
       - カツシュラン（金曜）
-  - 17:50 - [ミュージックスクランブル](https://ja.wikipedia.org/wiki/ミュージックスクランブル "wikilink")（ニッポン放送制作）
+  - 17:50 - [ミュージックスクランブル](../Page/ミュージックスクランブル.md "wikilink")（ニッポン放送制作）
   - 18:00 - 今日の出来事まるわかり らぶらじ[タブロイド](../Page/タブロイド.md "wikilink")
   - 18:15 - エンディング・天気予報
 
@@ -145,9 +145,9 @@
 
 ### 2007年
 
-  - 2007年4月1日：「昼間なのに前夜祭」[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")で全出演者が集まっての公開生放送。小沼みのりは不参加。
+  - 2007年4月1日：「昼間なのに前夜祭」[静岡市](../Page/静岡市.md "wikilink")で全出演者が集まっての公開生放送。小沼みのりは不参加。
   - 2007年4月2日：「GOGOワイドWテツのらぶらじ」放送開始。
-  - 2007年5月22日：らぶらじ街頭生放送中に[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")」が乱入。静岡がもっとも[視聴率](../Page/視聴率.md "wikilink")が悪いということで、朝からSBSのテレビなどに[浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")・[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")が乱入。
+  - 2007年5月22日：らぶらじ街頭生放送中に[TBS](../Page/TBSテレビ.md "wikilink")「[リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")」が乱入。静岡がもっとも[視聴率](../Page/視聴率.md "wikilink")が悪いということで、朝からSBSのテレビなどに[浜田雅功](../Page/浜田雅功.md "wikilink")・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")・[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")が乱入。
   - 2007年8月18日：焼津を歌おう！オーディションに「杉原徹とスクーピーズ」が出場。番組でオーディションの話題を取り上げた事がキッカケとなってボーカル杉原徹&ダンサー門田直子・渡邊愛で出演し、オーディションを盛り上げたという事で特別賞を受賞。
   - 2007年12月26日：第一回らぶらじ静岡検定。番組開始9ヶ月で鉄崎・杉原両人がどれだけ静岡を愛しているかの試験。点数の悪い方が罰ゲームをするという趣旨だったが、共に10点満点で4点という低水準。追試が決定した。
 
@@ -159,30 +159,30 @@
   - 2008年3月31日：放送時間がそれまでの13:00 - 15:50より10分枠大の13:00 - 16:00に変更。
   - 2008年3月31日：キャスタードライバーの新貝真美・新海絵里子・平沢有樹子が新たに加わる。
   - 2008年4月22日：「[スリランカ](../Page/スリランカ.md "wikilink")に[眼鏡](../Page/眼鏡.md "wikilink")と[ボールペン](../Page/ボールペン.md "wikilink")を」キャンペーンで集まった眼鏡とペンをスリランカ大使館の方へお渡し。贈呈式のために水木組もスタジオ入りし、初の4人での放送。
-  - 2008年5月20日：[新静岡センター](https://ja.wikipedia.org/wiki/新静岡センター "wikilink")南口からの公開生放送・の予定が前日に大型台風により中止が決定。しかし当日はこれ以上無いほどの晴天になる。
-  - 2008年8月11日：[サントムーン柿田川](https://ja.wikipedia.org/wiki/サントムーン柿田川 "wikilink")の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「リスパ」で初の静岡東部での公開生放送。小沼が[浴衣](https://ja.wikipedia.org/wiki/浴衣 "wikilink")で登場し、鉄崎は炎天下を汗だくになりながら走り回った。杉村喜光が登場し、呼ばれてもいないDJカツヨシも乱入した。
+  - 2008年5月20日：[新静岡センター](../Page/新静岡センター.md "wikilink")南口からの公開生放送・の予定が前日に大型台風により中止が決定。しかし当日はこれ以上無いほどの晴天になる。
+  - 2008年8月11日：[サントムーン柿田川](../Page/サントムーン柿田川.md "wikilink")の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「リスパ」で初の静岡東部での公開生放送。小沼が[浴衣](../Page/浴衣.md "wikilink")で登場し、鉄崎は炎天下を汗だくになりながら走り回った。杉村喜光が登場し、呼ばれてもいないDJカツヨシも乱入した。
   - 2008年10月12日：ツインメッセ静岡で開催の「ハツピース\!\!プロジェクト 子育て来楽部」の一環として、[ジャガー横田](https://ja.wikipedia.org/wiki/ジャガー横田 "wikilink")をゲストに迎えて「らぶらじスペシャル ジャガー横田の子育てトーク」の収録が行われた（放送は19日9時 - 9時30分 司会進行は鉄崎と小沼）。
   - 2008年10月17日：樹根がキャスタードライバー今村直美とともに「元気発見団\! もてなしの伊豆西海岸」の一環として、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")ミュージアムなど伊豆西海岸の施設をリポート。
   - 2008年10月20日 - 10月24日：エンディングで「曜日対抗らぶらじ運動会」が実施された（主に[しりとり](https://ja.wikipedia.org/wiki/しりとり "wikilink")）。
-  - 2008年10月26日：[浜北総合体育館](https://ja.wikipedia.org/wiki/浜北総合体育館 "wikilink")グリーンアリーナで開催の浜北産業祭において「樹根とテツのらぶらじスペシャルミックスライブin浜北産業祭」の収録が行われた（放送は11月2日15時 - 15時30分）。
-  - 2008年12月23日：火曜日に、[地球温暖化](https://ja.wikipedia.org/wiki/地球温暖化 "wikilink")対策への取り組みとしての新コーナー[『ラジオうちエコ\!応援団 目指せ\!宴の達人』](http://radio-uchieco.jp/)がスタートした（2009年03月で終了）。
+  - 2008年10月26日：[浜北総合体育館](../Page/浜北総合体育館.md "wikilink")グリーンアリーナで開催の浜北産業祭において「樹根とテツのらぶらじスペシャルミックスライブin浜北産業祭」の収録が行われた（放送は11月2日15時 - 15時30分）。
+  - 2008年12月23日：火曜日に、[地球温暖化](../Page/地球温暖化.md "wikilink")対策への取り組みとしての新コーナー[『ラジオうちエコ\!応援団 目指せ\!宴の達人』](http://radio-uchieco.jp/)がスタートした（2009年03月で終了）。
   - 2008年12月30日：『宴でうちエコ\!プロジェクト・らぶらじファーム収穫祭』と題して、SBS本社正面玄関前から生中継。[パーソナリティー自らが育てた](https://ja.wikipedia.org/wiki/ラジオパーソナリティー "wikilink")"顔の見える野菜"の即売会や[豚汁](../Page/豚汁.md "wikilink")（通称"小沼汁"）の配布や[餅](../Page/餅.md "wikilink")つきなどが行われた。
   - 2008年12月31日：メインパーソナリティーの一人、水木担当の橋本奈都江が番組を卒業。エンディングでは、鉄崎&小沼、DJカツヨシ、海野圭子も登場して橋本奈都江の門出を祝った。
-  - 2008年12月31日22:00 - 2009年1月1日：『カウントダウン2009 Wテツのモ〜止まらない\!』と題して3時間の生放送が行われた。[エスパルスドリームプラザ](https://ja.wikipedia.org/wiki/エスパルスドリームプラザ "wikilink")の「年越しかっぽれ」中継なども行われた。
+  - 2008年12月31日22:00 - 2009年1月1日：『カウントダウン2009 Wテツのモ〜止まらない\!』と題して3時間の生放送が行われた。[エスパルスドリームプラザ](../Page/エスパルスドリームプラザ.md "wikilink")の「年越しかっぽれ」中継なども行われた。
 
 ### 2009年
 
   - 2009年1月7日：長谷川玲子が水・木レギュラーに加わる
-  - 2009年2月22日：[エコパで開催の](https://ja.wikipedia.org/wiki/小笠山総合運動公園 "wikilink")「エコパ花の郷 春よ恋まつり2009」内で『樹根とテツのらぶらじスペシャルミックスライブ』を開催（中継生放送は14:00 - 14:30）
+  - 2009年2月22日：[エコパで開催の](../Page/小笠山総合運動公園.md "wikilink")「エコパ花の郷 春よ恋まつり2009」内で『樹根とテツのらぶらじスペシャルミックスライブ』を開催（中継生放送は14:00 - 14:30）
   - 2009年3月3日 - 3月4日：第二回らぶらじ静岡検定。結果は鉄崎幹人=50点、杉原徹=60点で杉原徹の勝利。鉄崎が罰ゲームを受けた。
   - 2009年3月5日：『[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")応援スペシャル』と題して、チケットプレゼント（[ヤマハスタジアム](../Page/ヤマハスタジアム.md "wikilink")での[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")戦）など、ジュビロ磐田に関する話題が放送された。
   - 2009年3月27日：キャスタードライバー平沢有樹子と新貝真美が最後の出演。
   - 2009年5月26日：女性パーソナリティーでココロがブサイク（性格が悪い）な人を決めるコンテスト『らぶらじWBC（ワタシ・ブサイク・コンテスト）』がこの日に開催。結果は高塚奈央子=2点、小沼みのり=6点、長谷川玲子=8点で長谷川玲子の優勝。長谷川が罰ゲームを受けた。
-  - 2009年7月23日：はままつ地ビールレストラン マイン・シュロスに於いて『樹根のサマーナイト2009@マイン・シュロス』を開催。司会は國本良博と高塚奈央子。パートナーは、以前放送の『幻のBAR樹根の館』でもパートナーを務めた[スパニッシュ・ギター奏者の柴崎茂](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")。
-  - 2009年8月11日：午前5時に[駿河湾](../Page/駿河湾.md "wikilink")を震源とする[最大震度6弱の](https://ja.wikipedia.org/wiki/気象庁震度階級 "wikilink")[地震](../Page/地震.md "wikilink")が発生。小沼は朝8時台から11時半まで報道特番でテレビでニュースを読み、1時から通常通りらぶらじを務め、さらに夕方6時台のイブニングeyeを務める。局内もCDなどが散乱するなどの被害を受ける。
+  - 2009年7月23日：はままつ地ビールレストラン マイン・シュロスに於いて『樹根のサマーナイト2009@マイン・シュロス』を開催。司会は國本良博と高塚奈央子。パートナーは、以前放送の『幻のBAR樹根の館』でもパートナーを務めた[スパニッシュ・ギター奏者の柴崎茂](../Page/クラシック・ギター.md "wikilink")。
+  - 2009年8月11日：午前5時に[駿河湾](../Page/駿河湾.md "wikilink")を震源とする[最大震度6弱の](../Page/気象庁震度階級.md "wikilink")[地震](../Page/地震.md "wikilink")が発生。小沼は朝8時台から11時半まで報道特番でテレビでニュースを読み、1時から通常通りらぶらじを務め、さらに夕方6時台のイブニングeyeを務める。局内もCDなどが散乱するなどの被害を受ける。
   - 2009年12月8日：放送700回を達成
-  - 2009年12月23日：スタジオリスパで、長谷川玲子がパーソナリティになった水木組としては初の公開生放送を開催。番組テーマは『[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")[ざんげ大会](../Page/懺悔.md "wikilink")』。
-  - 2009年12月31日 - 2010年01月01日：『年末カウントダウン2010\! くんちゃんでGOGO\!樹根でガオー\!\!』放送。名物アナウンサー國本良博の"ありがとう定年退社式"、國本大明神・イタコ樹根・巫女高塚の厄払いコーナー、[エスパルスドリームプラザ](https://ja.wikipedia.org/wiki/エスパルスドリームプラザ "wikilink")の「年越かっぽれ」中継などが行われた。キャスタードライバー杉本のぞみが最後の出演。
+  - 2009年12月23日：スタジオリスパで、長谷川玲子がパーソナリティになった水木組としては初の公開生放送を開催。番組テーマは『[クリスマス](../Page/クリスマス.md "wikilink")[ざんげ大会](../Page/懺悔.md "wikilink")』。
+  - 2009年12月31日 - 2010年01月01日：『年末カウントダウン2010\! くんちゃんでGOGO\!樹根でガオー\!\!』放送。名物アナウンサー國本良博の"ありがとう定年退社式"、國本大明神・イタコ樹根・巫女高塚の厄払いコーナー、[エスパルスドリームプラザ](../Page/エスパルスドリームプラザ.md "wikilink")の「年越かっぽれ」中継などが行われた。キャスタードライバー杉本のぞみが最後の出演。
 
 ### 2010年
 
@@ -217,52 +217,52 @@
   - 2014年4月15日：水・木のコーナーの内容をまとめた書籍「園児のつぶやき―魔法のことばをありがとう」が静岡新聞社より刊行された。ISBN 978-4783822455
   - 2014年10月3日：『[徳川家康](../Page/徳川家康.md "wikilink")公顕彰四百年記念事業』の一環として、この日から毎週金曜日にラジオドラマ「STAND UP\!〜シズオカ独立宣言\! 家康再起動〜」がスタート（2015年3月27日まで、全26話）。
   - 2014年10月13日：この日、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")復興支援イベント『GOGOワイドらぶらじin東北の本当においしい食まつり』を、[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")ギャラリーモール・ソラモで開催予定だったが、[台風](../Page/台風.md "wikilink")19号接近にともない、安全面を考慮して中止\[7\]。
-  - 2014年12月9日：サッポロビヤホール・銀座ライオン浜松店にて、水・木パーソナリティーの杉原・長谷川とゲストのビリー片田を迎えて「[昭和歌謡](https://ja.wikipedia.org/wiki/昭和歌謡 "wikilink")を皆で歌って楽しもう\!」というイベント『SBSラジオ [歌声喫茶](https://ja.wikipedia.org/wiki/歌声喫茶 "wikilink")〜僕らが愛した青春ソングス〜』を開催した。
+  - 2014年12月9日：サッポロビヤホール・銀座ライオン浜松店にて、水・木パーソナリティーの杉原・長谷川とゲストのビリー片田を迎えて「[昭和歌謡](https://ja.wikipedia.org/wiki/昭和歌謡 "wikilink")を皆で歌って楽しもう\!」というイベント『SBSラジオ [歌声喫茶](../Page/歌声喫茶.md "wikilink")〜僕らが愛した青春ソングス〜』を開催した。
   - 2014年12月31日：この日の22:00から[元日](../Page/元日.md "wikilink")の深夜1:00まで、勝山がメインパーソナリティー、藤津亮太（アニメ[評論家](../Page/評論家.md "wikilink")）などをゲストに迎えて『SBSラジオ [アニメ](../Page/アニメ.md "wikilink")・[まんがまつり](https://ja.wikipedia.org/wiki/漫画 "wikilink")〜[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")でゆく年 オタクにくる年〜』を3時間生放送した\[8\]。
 
 ### 2015年
 
-  - 2015年1月19日 - 1月20日：この週は小沼が[冬休み](../Page/冬休み.md "wikilink")のため、19日はタレントの[井川絵美](https://ja.wikipedia.org/wiki/井川絵美 "wikilink")、20日は[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[浅利そのみ](https://ja.wikipedia.org/wiki/浅利そのみ "wikilink")が代理を勤めた\[9\]\[10\]。
-  - 2015年3月11日：マナーハウス エリザベート 3階チェスターにて「らぶらじディスコdeナイトフィーバー」を開催。鉄崎が謎の[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")『Micky』に扮したほか、「[ほのぼのワイド 中村こずえのsmile for You](../Page/ほのぼのワイド_中村こずえのsmile_for_You.md "wikilink")」のMC[中村こずえ](../Page/中村こずえ.md "wikilink")がスペシャルゲストとして登場。小沼も「[イブアイしずおか](https://ja.wikipedia.org/wiki/イブアイしずおか "wikilink")」終了後に会場へ駆けつけた\[11\]。
-  - 2015年3月28日 - 3月29日：[静岡市民文化会館](https://ja.wikipedia.org/wiki/静岡市民文化会館 "wikilink")中ホールに於いて、勝山がプロデュースを行い同番組内でラジオドラマ版が放送された「STAND UP\!〜シズオカ独立宣言\! 家康再起動〜」の舞台版の上演が行われた\[12\]。
+  - 2015年1月19日 - 1月20日：この週は小沼が[冬休み](../Page/冬休み.md "wikilink")のため、19日はタレントの[井川絵美](../Page/井川絵美.md "wikilink")、20日は[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[浅利そのみ](https://ja.wikipedia.org/wiki/浅利そのみ "wikilink")が代理を勤めた\[9\]\[10\]。
+  - 2015年3月11日：マナーハウス エリザベート 3階チェスターにて「らぶらじディスコdeナイトフィーバー」を開催。鉄崎が謎の[DJ](../Page/ディスクジョッキー.md "wikilink")『Micky』に扮したほか、「[ほのぼのワイド 中村こずえのsmile for You](../Page/ほのぼのワイド_中村こずえのsmile_for_You.md "wikilink")」のMC[中村こずえ](../Page/中村こずえ.md "wikilink")がスペシャルゲストとして登場。小沼も「[イブアイしずおか](https://ja.wikipedia.org/wiki/イブアイしずおか "wikilink")」終了後に会場へ駆けつけた\[11\]。
+  - 2015年3月28日 - 3月29日：[静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")中ホールに於いて、勝山がプロデュースを行い同番組内でラジオドラマ版が放送された「STAND UP\!〜シズオカ独立宣言\! 家康再起動〜」の舞台版の上演が行われた\[12\]。
   - 2015年3月30日：放送時間が2年ぶりに13:00 - 16:00に戻る。
   - 2015年9月12日：[焼津市](../Page/焼津市.md "wikilink")の『SPECIAL FORCE』にて、[サバゲー](../Page/サバイバルゲーム.md "wikilink")[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")の[転校少女歌撃団](https://ja.wikipedia.org/wiki/転校少女歌撃団 "wikilink")をゲストに迎えた金曜らぶらじの公開録音『らぶらじサバゲー大作戦\!〜SPECIAL FORCEの攻防〜』が行われた\[13\]。
   - 2015年9月22日：この日をもって、番組開始から月・火曜パーソナリティーとして活躍してきた小沼が番組を卒業した\[14\]。
-  - 2015年10月3日：青葉シンボルロードB5ブロックにて開催の『すんぷ秋の[ビール](../Page/ビール.md "wikilink")まつり』の特設ステージで、「らぶらじ」（水・木曜）と土曜の人気番組「[満開ラジオ樹根爛漫](https://ja.wikipedia.org/wiki/満開ラジオ樹根爛漫 "wikilink")」が[コラボした公開](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")『らぶ×爛漫太鼓判\! すんぷ秋のビールまつりスペシャル』を、同日13:00 - 15:00（通常は「樹根爛漫」の放送時間）に放送した。出演は杉原・長谷川と[樹根](https://ja.wikipedia.org/wiki/樹根 "wikilink")。\[15\]。
-  - 2015年12月31日：この日、21:00 - [元日](../Page/元日.md "wikilink")深夜1:00まで、勝山とSBS新人アナウンサー[黒田菜月](https://ja.wikipedia.org/wiki/黒田菜月 "wikilink")がメインパーソナリティー、[藤津亮太](https://ja.wikipedia.org/wiki/藤津亮太 "wikilink")（アニメ[評論家](../Page/評論家.md "wikilink")）、七海あくあ（[コスプレイヤー](https://ja.wikipedia.org/wiki/コスプレイヤー "wikilink")・[タレント](../Page/タレント.md "wikilink")）などをゲストに迎えて『SBSラジオ アニメ・まんがまつり〜オタクでゆく年 オタクに来る年〜』を4時間[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")した\[16\]。
+  - 2015年10月3日：青葉シンボルロードB5ブロックにて開催の『すんぷ秋の[ビール](../Page/ビール.md "wikilink")まつり』の特設ステージで、「らぶらじ」（水・木曜）と土曜の人気番組「[満開ラジオ樹根爛漫](https://ja.wikipedia.org/wiki/満開ラジオ樹根爛漫 "wikilink")」が[コラボした公開](../Page/コラボレーション.md "wikilink")[生放送](../Page/生放送.md "wikilink")『らぶ×爛漫太鼓判\! すんぷ秋のビールまつりスペシャル』を、同日13:00 - 15:00（通常は「樹根爛漫」の放送時間）に放送した。出演は杉原・長谷川と[樹根](https://ja.wikipedia.org/wiki/樹根 "wikilink")。\[15\]。
+  - 2015年12月31日：この日、21:00 - [元日](../Page/元日.md "wikilink")深夜1:00まで、勝山とSBS新人アナウンサー[黒田菜月](https://ja.wikipedia.org/wiki/黒田菜月 "wikilink")がメインパーソナリティー、[藤津亮太](https://ja.wikipedia.org/wiki/藤津亮太 "wikilink")（アニメ[評論家](../Page/評論家.md "wikilink")）、七海あくあ（[コスプレイヤー](https://ja.wikipedia.org/wiki/コスプレイヤー "wikilink")・[タレント](../Page/タレント.md "wikilink")）などをゲストに迎えて『SBSラジオ アニメ・まんがまつり〜オタクでゆく年 オタクに来る年〜』を4時間[生放送](../Page/生放送.md "wikilink")した\[16\]。
 
 ### 2016年
 
-  - 2016年1月6日 - 1月7日：この週は長谷川が[正月休み](https://ja.wikipedia.org/wiki/正月休み "wikilink")のため、6日は[寺田奈美江](https://ja.wikipedia.org/wiki/寺田奈美江 "wikilink")、7日は[井川絵美](https://ja.wikipedia.org/wiki/井川絵美 "wikilink")が代理を務めた\[17\]
-  - 2016年2月19日：この日は勝山が[ラオス](../Page/ラオス.md "wikilink")での[コンドルズ](https://ja.wikipedia.org/wiki/コンドルズ "wikilink")公演のため休み。[お笑い芸人の](../Page/お笑いタレント.md "wikilink")[ヒロシ](https://ja.wikipedia.org/wiki/ヒロシ "wikilink")が代理を務めた\[18\]。
-  - 2016年2月27日：この日、[ツインメッセ静岡北館で開催の](https://ja.wikipedia.org/wiki/静岡産業支援センター "wikilink")『オトナライフ応援キャンペーン オトナハク』にて、同日13:00 - 15:00に鉄崎がメインMC、ゲストに[パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")を迎えての公開生放送『てっちゃん・ジローラモのオトナ講座』が開催された\[19\]。
+  - 2016年1月6日 - 1月7日：この週は長谷川が[正月休み](https://ja.wikipedia.org/wiki/正月休み "wikilink")のため、6日は[寺田奈美江](https://ja.wikipedia.org/wiki/寺田奈美江 "wikilink")、7日は[井川絵美](../Page/井川絵美.md "wikilink")が代理を務めた\[17\]
+  - 2016年2月19日：この日は勝山が[ラオス](../Page/ラオス.md "wikilink")での[コンドルズ](../Page/コンドルズ.md "wikilink")公演のため休み。[お笑い芸人の](../Page/お笑いタレント.md "wikilink")[ヒロシ](../Page/ヒロシ.md "wikilink")が代理を務めた\[18\]。
+  - 2016年2月27日：この日、[ツインメッセ静岡北館で開催の](../Page/静岡産業支援センター.md "wikilink")『オトナライフ応援キャンペーン オトナハク』にて、同日13:00 - 15:00に鉄崎がメインMC、ゲストに[パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")を迎えての公開生放送『てっちゃん・ジローラモのオトナ講座』が開催された\[19\]。
   - 2016年3月8日：昨年行われた『らぶらじディスコdeナイトフィーバー』をサッポロビヤホール銀座ライオン浜松店にて開催。鉄崎が謎のDJ「Micky」に再び扮するほか、Namie（寺田奈美江）・Emi（井川絵美）も参加。\[20\]
-  - 2016年3月13日：この日、[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")と[富士市](../Page/富士市.md "wikilink")から女子パーソナリティー3人（寺田・長谷川・井川）とともに伊豆・村の駅、[伊豆・三津シーパラダイス](https://ja.wikipedia.org/wiki/伊豆・三津シーパラダイス "wikilink")、江間いちご狩りセンターを巡るバスツアー「らぶらじ春のお楽しみ 伊豆満喫ツアー」を開催。なお、本イベントは募集開始とともに満員となったため[キャンセル](https://ja.wikipedia.org/wiki/キャンセル "wikilink")待ちが続いた。\[21\]
-  - 2016年3月13日：[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")[清水区](../Page/清水区.md "wikilink")で開催の「防災フェスタinしみず2016」の会場で、SBS×[K-mix共同制作防災特別番組](../Page/静岡エフエム放送.md "wikilink")『ラジオと一緒に〜その時に備えて』を公開録音。出演は鉄崎幹人（SBSパーソナリティー）と[南真世](https://ja.wikipedia.org/wiki/南真世 "wikilink")（K-mix「[おひるま協同組合](https://ja.wikipedia.org/wiki/K-mix_おひるま協同組合 "wikilink")」パーソナリティー）。[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に[静岡大学](https://ja.wikipedia.org/wiki/静岡大学 "wikilink")防災総合センターの岩田孝仁[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")と、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[南三陸町](https://ja.wikipedia.org/wiki/南三陸町 "wikilink")出身で被災の[語り部](https://ja.wikipedia.org/wiki/語り部 "wikilink")・田畑祐梨さん。放送日は、SBSが20日(日)午前9時半、K-mixは23日(水)12時50分頃(「おひるま協同組合」内)の予定。\[22\]
+  - 2016年3月13日：この日、[静岡市](../Page/静岡市.md "wikilink")と[富士市](../Page/富士市.md "wikilink")から女子パーソナリティー3人（寺田・長谷川・井川）とともに伊豆・村の駅、[伊豆・三津シーパラダイス](../Page/伊豆・三津シーパラダイス.md "wikilink")、江間いちご狩りセンターを巡るバスツアー「らぶらじ春のお楽しみ 伊豆満喫ツアー」を開催。なお、本イベントは募集開始とともに満員となったため[キャンセル](https://ja.wikipedia.org/wiki/キャンセル "wikilink")待ちが続いた。\[21\]
+  - 2016年3月13日：[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")で開催の「防災フェスタinしみず2016」の会場で、SBS×[K-mix共同制作防災特別番組](../Page/静岡エフエム放送.md "wikilink")『ラジオと一緒に〜その時に備えて』を公開録音。出演は鉄崎幹人（SBSパーソナリティー）と[南真世](https://ja.wikipedia.org/wiki/南真世 "wikilink")（K-mix「[おひるま協同組合](https://ja.wikipedia.org/wiki/K-mix_おひるま協同組合 "wikilink")」パーソナリティー）。[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に[静岡大学](../Page/静岡大学.md "wikilink")防災総合センターの岩田孝仁[教授](../Page/教授.md "wikilink")と、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[南三陸町](https://ja.wikipedia.org/wiki/南三陸町 "wikilink")出身で被災の[語り部](../Page/語り部.md "wikilink")・田畑祐梨さん。放送日は、SBSが20日(日)午前9時半、K-mixは23日(水)12時50分頃(「おひるま協同組合」内)の予定。\[22\]
   - 2016年3月28日：放送時間が14:00 - 18:20に拡大。過去最大の4時間20分の放送時間に。\[23\]
-  - 2016年5月15日：この日、[熊本地震の復興を応援しようと](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、鉄崎と「海洋楽研究所」所長の林正道の2人による『鉄っちゃん・おっちゃん 海洋楽教室』が[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")[駿河区](https://ja.wikipedia.org/wiki/駿河区 "wikilink")の[アピタ静岡店で開かれた](../Page/ユニー.md "wikilink")。\[24\]
+  - 2016年5月15日：この日、[熊本地震の復興を応援しようと](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、鉄崎と「海洋楽研究所」所長の林正道の2人による『鉄っちゃん・おっちゃん 海洋楽教室』が[静岡市](../Page/静岡市.md "wikilink")[駿河区](../Page/駿河区.md "wikilink")の[アピタ静岡店で開かれた](../Page/ユニー.md "wikilink")。\[24\]
   - 2016年5月26日：この日、現行メンバーになってから初のイベント『らぶらじワンナイトショー』を、サッポロビヤホール銀座ライオン浜松店で開催。\[25\]
-  - 2016年7月15日：この日は勝山が昨年にも開催した[静岡市民文化会館](https://ja.wikipedia.org/wiki/静岡市民文化会館 "wikilink")との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")公演のプロデュースのため休み。ピンチヒッターとして、SBSのニューフェイス ・アナウンサー[桑原秀和](https://ja.wikipedia.org/wiki/桑原秀和 "wikilink")が代理を務めた。\[26\]
-  - 2016年8月26日：この日(前の週8月19日も)は、勝山がコンドルズの公演のため二週連続で休み。ピンチヒッターとして、19日はSBSの桑原秀和アナウンサー、26日は[ブリーフ&トランクス](https://ja.wikipedia.org/wiki/ブリーフ&トランクス "wikilink")の[伊藤多賀之](https://ja.wikipedia.org/wiki/伊藤多賀之 "wikilink")が代理を務めた。\[27\]
-  - 2016年9月9日：この日は、勝山が[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")でのコンドルズ公演のため休み。ピンチヒッターとして、[ポカスカジャン](https://ja.wikipedia.org/wiki/ポカスカジャン "wikilink")のリーダーで、寺田の事務所の先輩でもある[大久保ノブオ](https://ja.wikipedia.org/wiki/大久保ノブオ "wikilink")が代理を務めた。\[28\]
-  - 2016年10月29日：ツインメッセ静岡にて、「[アナらじ](https://ja.wikipedia.org/wiki/アナらじ "wikilink")」との[コラボ企画イベント](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")『アナらじスペシャル inふじのくに交通安全県民フェア』を同日15:00 - 16:00に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。司会は[柳澤亜弓](https://ja.wikipedia.org/wiki/柳澤亜弓 "wikilink")・[高木萌香](https://ja.wikipedia.org/wiki/高木萌香 "wikilink")アナウンサー（黒田菜月アナウンサーは、当日生放送のテレビ「[みなスポ](https://ja.wikipedia.org/wiki/みなスポ "wikilink")」出演のため休み）で、スペシャルリポーターとして鉄崎幹人も登場した。<ref>
+  - 2016年7月15日：この日は勝山が昨年にも開催した[静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")との[タイアップ](../Page/タイアップ.md "wikilink")公演のプロデュースのため休み。ピンチヒッターとして、SBSのニューフェイス ・アナウンサー[桑原秀和](https://ja.wikipedia.org/wiki/桑原秀和 "wikilink")が代理を務めた。\[26\]
+  - 2016年8月26日：この日(前の週8月19日も)は、勝山がコンドルズの公演のため二週連続で休み。ピンチヒッターとして、19日はSBSの桑原秀和アナウンサー、26日は[ブリーフ&トランクス](../Page/ブリーフ&トランクス.md "wikilink")の[伊藤多賀之](../Page/伊藤多賀之.md "wikilink")が代理を務めた。\[27\]
+  - 2016年9月9日：この日は、勝山が[NHKホール](../Page/NHKホール.md "wikilink")でのコンドルズ公演のため休み。ピンチヒッターとして、[ポカスカジャン](../Page/ポカスカジャン.md "wikilink")のリーダーで、寺田の事務所の先輩でもある[大久保ノブオ](https://ja.wikipedia.org/wiki/大久保ノブオ "wikilink")が代理を務めた。\[28\]
+  - 2016年10月29日：ツインメッセ静岡にて、「[アナらじ](https://ja.wikipedia.org/wiki/アナらじ "wikilink")」との[コラボ企画イベント](../Page/コラボレーション.md "wikilink")『アナらじスペシャル inふじのくに交通安全県民フェア』を同日15:00 - 16:00に[生放送](../Page/生放送.md "wikilink")。司会は[柳澤亜弓](https://ja.wikipedia.org/wiki/柳澤亜弓 "wikilink")・[高木萌香](https://ja.wikipedia.org/wiki/高木萌香 "wikilink")アナウンサー（黒田菜月アナウンサーは、当日生放送のテレビ「[みなスポ](../Page/みなスポ.md "wikilink")」出演のため休み）で、スペシャルリポーターとして鉄崎幹人も登場した。<ref>
 
 [土曜日に会いましょう](http://www.at-s.com/blogs/ayumi/2016/10/post_547.html) ブログ「柳澤亜弓のあ〜ゆ〜Happy」、2016年10月30日閲覧。</ref>
 
-  - 2016年11月24日：今年2回目の『らぶらじ ディスコdeナイトフィーバーin銀座ライオン浜松』を開催。鉄崎幹人がDJ Mickyに三度扮するほか、[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")世代のNamie（寺田奈美江）とNatsuki（黒田菜月）も参加。\[29\]
+  - 2016年11月24日：今年2回目の『らぶらじ ディスコdeナイトフィーバーin銀座ライオン浜松』を開催。鉄崎幹人がDJ Mickyに三度扮するほか、[ディスコ](../Page/ディスコ.md "wikilink")世代のNamie（寺田奈美江）とNatsuki（黒田菜月）も参加。\[29\]
   - 2016年11月25日：この日、寺田奈美江に代わって黒田菜月が勝山のパートナーを勤めた。\[30\]
-  - 2016年12月11日：2017年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[おんな城主 直虎](https://ja.wikipedia.org/wiki/おんな城主_直虎 "wikilink")』で盛り上がる観光スポット（[奥浜名湖](https://ja.wikipedia.org/wiki/奥浜名湖 "wikilink")・[舘山寺](https://ja.wikipedia.org/wiki/舘山寺 "wikilink")エリアの[井伊直虎](../Page/井伊直虎.md "wikilink")ゆかりの地）を鉄崎幹人と黒田菜月アナウンサーと巡るバスツアー『てっちゃん＆菜月と行く直虎ツアー』を開催。\[31\]
+  - 2016年12月11日：2017年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[おんな城主 直虎](https://ja.wikipedia.org/wiki/おんな城主_直虎 "wikilink")』で盛り上がる観光スポット（[奥浜名湖](https://ja.wikipedia.org/wiki/奥浜名湖 "wikilink")・[舘山寺](../Page/舘山寺.md "wikilink")エリアの[井伊直虎](../Page/井伊直虎.md "wikilink")ゆかりの地）を鉄崎幹人と黒田菜月アナウンサーと巡るバスツアー『てっちゃん＆菜月と行く直虎ツアー』を開催。\[31\]
 
 ### 2017年
 
-  - 2017年1月28日：この日、[富士市](../Page/富士市.md "wikilink")のBESS富士展示場にて『[アウトドア](https://ja.wikipedia.org/wiki/アウトドア "wikilink")の達人てっちやんと[薪ストーブ](https://ja.wikipedia.org/wiki/薪ストーブ "wikilink")＆BESSの[ログハウス](https://ja.wikipedia.org/wiki/ログハウス "wikilink")で楽しもう\!』イベントを開催\[32\]
+  - 2017年1月28日：この日、[富士市](../Page/富士市.md "wikilink")のBESS富士展示場にて『[アウトドア](../Page/アウトドア.md "wikilink")の達人てっちやんと[薪ストーブ](../Page/薪ストーブ.md "wikilink")＆BESSの[ログハウス](../Page/ログハウス.md "wikilink")で楽しもう\!』イベントを開催\[32\]
   - 2017年3月19日：この日、[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")のサッポロビヤホール銀座ライオン浜松店にて、『SBSラジオ らぶらじオールスター感謝祭 ファイナル』を開催。\[33\]
 
 ## 脚注・出典
 
 ## 関連項目
 
-  - [静岡発そこ知り](https://ja.wikipedia.org/wiki/静岡発そこ知り "wikilink")（SBSテレビ） - 本番組とタイアップした企画を行う場合がある。また、鉄崎と小沼が一緒に出演する回がある。
+  - [静岡発そこ知り](../Page/静岡発そこ知り.md "wikilink")（SBSテレビ） - 本番組とタイアップした企画を行う場合がある。また、鉄崎と小沼が一緒に出演する回がある。
 
 ## 外部リンク
 
@@ -285,12 +285,12 @@
 9.  [スタジオが新しくなりました！（らぶらじ公式サイト）](http://www.at-s.com/sbsradio/program/love/2015/01/post_1563.html)
 10. [今日のてっちゃんのお相手は・・・（らぶらじ公式サイト）](http://www.at-s.com/sbsradio/program/love/2015/01/post_1567.html)
 11. [3月11日（水）開催！「らぶらじディスコ　de ナイトフィーバー」のお知らせ！（らぶらじ公式サイト）](http://www.at-s.com/sbsradio/program/love/2015/02/de.html)、2015年4月4日閲覧。
-12. [主催事業](http://www.scch.shizuoka-city.or.jp/s_event.html) [静岡市民文化会館](https://ja.wikipedia.org/wiki/静岡市民文化会館 "wikilink")公式サイト、2015年4月4日閲覧。
+12. [主催事業](http://www.scch.shizuoka-city.or.jp/s_event.html) [静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")公式サイト、2015年4月4日閲覧。
 13. [9月12日（土）開催　SBSラジオ公開録音（参加無料）らぶらじサバゲー大作戦！〜SPECIAL FORCEの攻防〜](http://www.at-s.com/sbsradio/program/love/2015/08/special_force.html) 番組公式サイト、2015年9月24日閲覧。
 14. [初の町函南町で昭和レトロ探し\!\!（みのりのちからこぶ）](http://www.at-s.com/blogs/minori/2015/09/post_1209.html)
 15. [2015年9月｜満開ラジオ 樹根爛漫](http://www.at-s.com/sbsradio/program/mankai/archive/2015/09/) SBSラジオ公式サイト、2015年10月6日閲覧。
 16. [2015年12月|Go Natsuki's & Margaret's Way](http://www.at-s.com/blogs/newann/2015/12/po) SBSラジオ公式サイト、2016年1月8日閲覧。
-17. [2016年1月|玲子のここだけの話](http://reiko.hamazo.tv.d2016-01.html) [長谷川玲子](https://ja.wikipedia.org/wiki/長谷川玲子 "wikilink")のブログ、2016年1月8日閲覧。
+17. [2016年1月|玲子のここだけの話](http://reiko.hamazo.tv.d2016-01.html) [長谷川玲子](../Page/長谷川玲子.md "wikilink")のブログ、2016年1月8日閲覧。
 18. [2016年2月19日（金）金曜おさらい](http://www.at-s.com/sbsradio/program/love/detail/1053271.html) SBSラジオ らぶらじ公式サイト、2016年2月21日閲覧。
 19. [オトナハク](http://www.at-s.com/event/article/sbs/202406.html) 静岡新聞アットエス公式サイト、2016年2月21日閲覧。
 20. [3月8日(火)「らぶらじディスコdeナイトフィーバー in 銀座ライオン浜松」開催！](http://www/at-s.com/sbsradio/program/love/detail/1052920.html) SBSラジオ らぶらじ公式サイト、2016年2月9日閲覧。

@@ -7,21 +7,21 @@
 
 前作から約9ヶ月ぶりの発売となったシングル。
 
-ジャケットは[信藤三雄](https://ja.wikipedia.org/wiki/信藤三雄 "wikilink")（C.T.P.P）が担当。「人生に迷った時、誰かにとってこの曲が、そして音楽が明日を指し示す[コンパスになれれば](../Page/方位磁針.md "wikilink")」という願いが込められている。
+ジャケットは[信藤三雄](../Page/信藤三雄.md "wikilink")（C.T.P.P）が担当。「人生に迷った時、誰かにとってこの曲が、そして音楽が明日を指し示す[コンパスになれれば](../Page/方位磁針.md "wikilink")」という願いが込められている。
 
 オリコンチャートでは「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」から27作連続初登場1位を獲得し、シングル連続1位獲得数、通算1位獲得数共に[KinKi Kidsを上回って](../Page/KinKi_Kids.md "wikilink")、それぞれ歴代2位（当時）、歴代3位（当時）となった。初動売上は「[I'LL BE](../Page/I'LL_BE_\(Mr.Childrenの曲\).md "wikilink")」以来14作ぶり、シングルカットを除くと「innocent world」以来26作ぶりに25万枚を下回ったが、累計売上は前作を上回っている。
 
 ## 収録曲
 
 1.  **旅立ちの唄**
-      - 作詞・作曲:[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")　編曲:[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
-      - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[変ホ長調](https://ja.wikipedia.org/wiki/変ホ長調 "wikilink")
+      - 作詞・作曲:[桜井和寿](../Page/桜井和寿.md "wikilink")　編曲:[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
+      - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[変ホ長調](../Page/変ホ長調.md "wikilink")
     <!-- end list -->
       -
         [東宝](../Page/東宝.md "wikilink")系映画『[恋空](https://ja.wikipedia.org/wiki/恋空#映画 "wikilink")』主題歌、[NTT東日本CMソング](../Page/東日本電信電話.md "wikilink")。
-        ライブツアー『[Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")』にて、アンコールのラストに[キーと](https://ja.wikipedia.org/wiki/調 "wikilink")[テンポ](../Page/テンポ.md "wikilink")が異なり、1番は[ピアノ](../Page/ピアノ.md "wikilink")主体のアレンジバージョンが先行披露され、退場曲にはCD音源が使用された。[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")はこのツアーの[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")公演のライブ音源・映像を用いており、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")発売の『[SUPERMARKET FANTASY](https://ja.wikipedia.org/wiki/SUPERMARKET_FANTASY "wikilink")』の初回限定盤、[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 ＜macro＞](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は谷聰志。
-        タイアップの関係上、Mr.Childrenではこの曲のみ音楽出版社は[バーニングパブリッシャーズ](https://ja.wikipedia.org/wiki/バーニングパブリッシャーズ "wikilink")となっている。
-        [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が自身の番組「[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜 "wikilink")」内の「[寅さんが選んだ21世紀ベストソング20](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜#第11回_「寅さんが選んだ21世紀ベストソング20」 "wikilink")」の5位にこの曲を挙げ、歌唱した。
+        ライブツアー『[Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")』にて、アンコールのラストに[キーと](https://ja.wikipedia.org/wiki/調 "wikilink")[テンポ](../Page/テンポ.md "wikilink")が異なり、1番は[ピアノ](../Page/ピアノ.md "wikilink")主体のアレンジバージョンが先行披露され、退場曲にはCD音源が使用された。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")はこのツアーの[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")公演のライブ音源・映像を用いており、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")発売の『[SUPERMARKET FANTASY](https://ja.wikipedia.org/wiki/SUPERMARKET_FANTASY "wikilink")』の初回限定盤、[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 ＜macro＞](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は谷聰志。
+        タイアップの関係上、Mr.Childrenではこの曲のみ音楽出版社は[バーニングパブリッシャーズ](../Page/バーニングパブリッシャーズ.md "wikilink")となっている。
+        [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が自身の番組「[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](../Page/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜.md "wikilink")」内の「[寅さんが選んだ21世紀ベストソング20](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜#第11回_「寅さんが選んだ21世紀ベストソング20」 "wikilink")」の5位にこの曲を挙げ、歌唱した。
 2.  **羊､吠える**
       - 作詞・作曲:桜井和寿　編曲:小林武史 & Mr.Children
     <!-- end list -->
@@ -36,21 +36,21 @@
 
 ## テレビ出演
 
-  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2007年10月5日・11月2日、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（2007年10月26日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
-  - [COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（2007年11月10日、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）
+  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2007年10月5日・11月2日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（2007年10月26日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2007年11月10日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [恋うた2007](https://ja.wikipedia.org/wiki/ポップジャム・MUSIC_JAPANのスピンオフ特番一覧#MUSIC_JAPANのスピンオフ企画 "wikilink")（2007年11月16日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [2007 FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")（2007年12月5日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 
 <!-- end list -->
 
   -
-    テレビでは久々の披露となる「[名もなき詩](https://ja.wikipedia.org/wiki/名もなき詩 "wikilink")」と共に披露された。
+    テレビでは久々の披露となる「[名もなき詩](../Page/名もなき詩.md "wikilink")」と共に披露された。
 
 <!-- end list -->
 
   - [ミュージックステーションスペシャル スーパーライブ2007](../Page/ミュージックステーションスーパーライブ.md "wikilink")（2007年12月21日、テレビ朝日）
-  - [HAPPY Xmas SHOW\! 音楽とクリスマスが出会う夜](https://ja.wikipedia.org/wiki/HAPPY_Xmas_SHOW "wikilink")（2007年12月23日、日本テレビ）
+  - [HAPPY Xmas SHOW\! 音楽とクリスマスが出会う夜](../Page/HAPPY_Xmas_SHOW.md "wikilink")（2007年12月23日、日本テレビ）
 
 <!-- end list -->
 

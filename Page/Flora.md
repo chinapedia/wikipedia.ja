@@ -1,11 +1,11 @@
 > この記事は[Flora](https://ja.wikipedia.org/wiki/Flora)から翻訳されています。
 
 
-『**Flora**』（フローラ）は[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")の4thアルバム。2007年2月28日に発売された。
+『**Flora**』（フローラ）は[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の4thアルバム。2007年2月28日に発売された。
 
 ## 概要
 
-エンジニア/キーボーディストに[益子樹](https://ja.wikipedia.org/wiki/益子樹 "wikilink")（[ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")）を起用し、アルバムのほぼ全ての楽曲に参加している。また、ギター担当の戸高賢史が作詞・作曲を手掛けた楽曲も収録されている。
+エンジニア/キーボーディストに[益子樹](https://ja.wikipedia.org/wiki/益子樹 "wikilink")（[ROVO](../Page/ROVO.md "wikilink")）を起用し、アルバムのほぼ全ての楽曲に参加している。また、ギター担当の戸高賢史が作詞・作曲を手掛けた楽曲も収録されている。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
 8.  **Mary Barker**
       - 戸高作詞・作曲
 9.  **SWAN DIVE**
-      - [木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")名義時代の音源のリメイク、PVが作成されている。
+      - [木下理樹](../Page/木下理樹.md "wikilink")名義時代の音源のリメイク、PVが作成されている。
 10. **SAD SONG**
 11. **Piano**
 12. **IN THE BLUE**

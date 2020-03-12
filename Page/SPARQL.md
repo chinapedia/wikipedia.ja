@@ -1,7 +1,7 @@
 > この記事は[SPARQL](https://ja.wikipedia.org/wiki/SPARQL)から翻訳されています。
 
 
-**SPARQL**（スパークル\[1\]、**SPARQL Protocol and RDF Query Language**の[再帰的頭字語](https://ja.wikipedia.org/wiki/再帰的頭字語 "wikilink")）は、[RDF問合せ言語](https://ja.wikipedia.org/wiki/RDF問合せ言語 "wikilink")の１つである。RDF問合せ言語は、[Resource Description Framework (RDF)](../Page/Resource_Description_Framework.md "wikilink") で記述された[XMLやTurtleなどのRDFデータのリソースを取り扱うための](../Page/Extensible_Markup_Language.md "wikilink")[コンピュータ言語](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")である。
+**SPARQL**（スパークル\[1\]、**SPARQL Protocol and RDF Query Language**の[再帰的頭字語](../Page/再帰的頭字語.md "wikilink")）は、[RDF問合せ言語](https://ja.wikipedia.org/wiki/RDF問合せ言語 "wikilink")の１つである。RDF問合せ言語は、[Resource Description Framework (RDF)](../Page/Resource_Description_Framework.md "wikilink") で記述された[XMLやTurtleなどのRDFデータのリソースを取り扱うための](../Page/Extensible_Markup_Language.md "wikilink")[コンピュータ言語](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")である。
 
 SPARQL は、[クエリ](https://ja.wikipedia.org/wiki/クエリ "wikilink")の基本的な[パターン](https://ja.wikipedia.org/wiki/パターン "wikilink")である[論理積](../Page/論理積.md "wikilink")や[論理和](../Page/論理和.md "wikilink")をはじめ、文字列操作やフィルターなどのその他のパターンを指定可能であり\[2\]、[Python](../Page/Python.md "wikilink")や[Ruby](../Page/Ruby.md "wikilink")などの[プログラミング言語](../Page/プログラミング言語.md "wikilink")でSPARQLを利用できるライブラリが存在する\[3\]。
 

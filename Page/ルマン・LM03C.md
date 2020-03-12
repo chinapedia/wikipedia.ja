@@ -1,18 +1,18 @@
 > この記事は[LM03C](https://ja.wikipedia.org/wiki/LM03C)から翻訳されています。
 
 
-**ルマン・LM03C**は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[全日本耐久選手権](https://ja.wikipedia.org/wiki/全日本スポーツプロトタイプカー耐久選手権 "wikilink")（後のJSPC）、および[富士ロングディスタンスシリーズ](https://ja.wikipedia.org/wiki/富士ロングディスタンスシリーズ "wikilink")（富士LD）参戦用にルマンガレージ（現[株式会社ルマン](https://ja.wikipedia.org/wiki/ルマン_\(企業\) "wikilink")）が開発した[グループC](https://ja.wikipedia.org/wiki/グループC "wikilink")カー。
+**ルマン・LM03C**は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[全日本耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")（後のJSPC）、および[富士ロングディスタンスシリーズ](https://ja.wikipedia.org/wiki/富士ロングディスタンスシリーズ "wikilink")（富士LD）参戦用にルマンガレージ（現[株式会社ルマン](../Page/ルマン_\(企業\).md "wikilink")）が開発した[グループC](../Page/グループC.md "wikilink")カー。
 
 ## 概要
 
-エンジンは[日産の](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")2.1リッター [直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ターボ](../Page/ターボチャージャー.md "wikilink") LZ20B型を搭載。[スカイラインの](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")[シルエットフォーミュラ](https://ja.wikipedia.org/wiki/シルエットフォーミュラ "wikilink")仕様をグループC規定に改造した[スカイラインターボC](https://ja.wikipedia.org/wiki/日産・スカイラインターボC "wikilink")（フロントエンジン）を除けば、日産エンジンを搭載する初のグループCカーである。シャシーの設計はルマン商会の望月一男、サスペンションの設計は同社望月広光。※兄弟・親戚ではない。
+エンジンは[日産の](../Page/日産自動車.md "wikilink")2.1リッター [直列4気筒](../Page/直列4気筒.md "wikilink")[ターボ](../Page/ターボチャージャー.md "wikilink") LZ20B型を搭載。[スカイラインの](../Page/日産・スカイライン.md "wikilink")[シルエットフォーミュラ](https://ja.wikipedia.org/wiki/シルエットフォーミュラ "wikilink")仕様をグループC規定に改造した[スカイラインターボC](../Page/日産・スカイラインターボC.md "wikilink")（フロントエンジン）を除けば、日産エンジンを搭載する初のグループCカーである。シャシーの設計はルマン商会の望月一男、サスペンションの設計は同社望月広光。※兄弟・親戚ではない。
 
 ガレージルマンとしても初のグループCカーである。「03」なのは、F2・GC兼用シャシー・サンダーLM39、スカイラインターボCに次ぐ同社3代目のレーシングマシンと言うことから。
 
-1983年、全日本耐久選手権がスタートし、また前年から始まった[WEC-JAPAN](../Page/WEC-JAPAN.md "wikilink")にも参戦するため、日産はスーパーシルエットに同社の車両で参戦していた[ホシノレーシング](https://ja.wikipedia.org/wiki/ホシノインパル "wikilink")、[ハセミモータースポーツ](https://ja.wikipedia.org/wiki/ハセミモータースポーツ "wikilink")、セントラル20にそれぞれエンジンと資金を提供する形で、グループCレースへ参入をスタートする。3チームは独自の手法で耐久レースへの参入することになる。ホシノレーシングは[マーチ・エンジニアリング](https://ja.wikipedia.org/wiki/マーチ・エンジニアリング "wikilink")社製の[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")、[83Gを購入](https://ja.wikipedia.org/wiki/マーチ・83G "wikilink")、ハセミモータスポーツは前年[キャラミ](https://ja.wikipedia.org/wiki/キャラミ "wikilink")9時間に参戦したスカイラインのシルエット仕様をグループC規定に改造、そしてセントラル20は国内コンストラクターのガレージルマン製のシャシーを導入することになる。空力デザインにおいては日産も協力し、同社の1/5風洞も使用された。
+1983年、全日本耐久選手権がスタートし、また前年から始まった[WEC-JAPAN](../Page/WEC-JAPAN.md "wikilink")にも参戦するため、日産はスーパーシルエットに同社の車両で参戦していた[ホシノレーシング](../Page/ホシノインパル.md "wikilink")、[ハセミモータースポーツ](../Page/ハセミモータースポーツ.md "wikilink")、セントラル20にそれぞれエンジンと資金を提供する形で、グループCレースへ参入をスタートする。3チームは独自の手法で耐久レースへの参入することになる。ホシノレーシングは[マーチ・エンジニアリング](https://ja.wikipedia.org/wiki/マーチ・エンジニアリング "wikilink")社製の[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")、[83Gを購入](../Page/マーチ・83G.md "wikilink")、ハセミモータスポーツは前年[キャラミ](../Page/キャラミ.md "wikilink")9時間に参戦したスカイラインのシルエット仕様をグループC規定に改造、そしてセントラル20は国内コンストラクターのガレージルマン製のシャシーを導入することになる。空力デザインにおいては日産も協力し、同社の1/5風洞も使用された。
 
-デビューレースは1983年[富士1000km](https://ja.wikipedia.org/wiki/富士1000km "wikilink")。ドライバーは柳田春人/和田孝夫で、セントラル20より赤いコカコーラカラーにカラーリングされエントリー。2戦目となる[鈴鹿1000km](https://ja.wikipedia.org/wiki/鈴鹿1000km "wikilink")前のテストで全損のクラッシュ。2号車でWEC-JAPANに出場するも、給油規定違反で失格となる。 翌[1984年](../Page/1984年.md "wikilink")は、ノンタイトルの菅生スプリントレースで初優勝。[富士500km](https://ja.wikipedia.org/wiki/富士500km "wikilink")では日産エンジン搭載Cカーとして初めてとなる3位表彰台を獲得した。
+デビューレースは1983年[富士1000km](../Page/富士1000km.md "wikilink")。ドライバーは柳田春人/和田孝夫で、セントラル20より赤いコカコーラカラーにカラーリングされエントリー。2戦目となる[鈴鹿1000km](../Page/鈴鹿1000km.md "wikilink")前のテストで全損のクラッシュ。2号車でWEC-JAPANに出場するも、給油規定違反で失格となる。 翌[1984年](../Page/1984年.md "wikilink")は、ノンタイトルの菅生スプリントレースで初優勝。[富士500km](https://ja.wikipedia.org/wiki/富士500km "wikilink")では日産エンジン搭載Cカーとして初めてとなる3位表彰台を獲得した。
 
-なお、まったくの純粋なレーシングマシンながら、「日産フェアレディZC・コカコーラ」の名称でエントリーをしていた。そのためテールレンズはZ31型[フェアレディZのものを使用していた](https://ja.wikipedia.org/wiki/日産・フェアレディZ "wikilink")。
+なお、まったくの純粋なレーシングマシンながら、「日産フェアレディZC・コカコーラ」の名称でエントリーをしていた。そのためテールレンズはZ31型[フェアレディZのものを使用していた](../Page/日産・フェアレディZ.md "wikilink")。
 
 [Category:スポーツカー_(モータースポーツ)](https://ja.wikipedia.org/wiki/Category:スポーツカー_\(モータースポーツ\) "wikilink")

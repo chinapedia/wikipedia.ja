@@ -1,20 +1,20 @@
 > この記事は[Panasonic Melodious Library](https://ja.wikipedia.org/wiki/Panasonic_Melodious_Library)から翻訳されています。
 
 
-『**Panasonic Melodious Library**』（パナソニック・メロディアス・ライブラリー）は、[TOKYO FMをキーステーションとして](../Page/エフエム東京.md "wikilink")[JFN系列全国](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")38局ネットで放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**Panasonic Melodious Library**』（パナソニック・メロディアス・ライブラリー）は、[TOKYO FMをキーステーションとして](../Page/エフエム東京.md "wikilink")[JFN系列全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 番組のキャッチコピーは**「本のページをめくると心にメロディーが響いてくる。」**。
 
 ## 概要
 
-作家・[小川洋子](https://ja.wikipedia.org/wiki/小川洋子 "wikilink")をパーソナリティに迎えて、未来に残したい文学遺産を毎週1つずつ紹介する。番組中の楽曲は小川が選んだ曲など毎週3曲がオンエアされる。また、放送開始当初は途中で流れる[Panasonicの](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[プラズマテレビ](https://ja.wikipedia.org/wiki/プラズマテレビ "wikilink")「[VIERA](https://ja.wikipedia.org/wiki/VIERA "wikilink")」のCMは毎週内容が異なり、その回の作品に関連したナレーションとともに90秒間放送されていた。
+作家・[小川洋子](../Page/小川洋子.md "wikilink")をパーソナリティに迎えて、未来に残したい文学遺産を毎週1つずつ紹介する。番組中の楽曲は小川が選んだ曲など毎週3曲がオンエアされる。また、放送開始当初は途中で流れる[Panasonicの](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[プラズマテレビ](https://ja.wikipedia.org/wiki/プラズマテレビ "wikilink")「[VIERA](../Page/VIERA.md "wikilink")」のCMは毎週内容が異なり、その回の作品に関連したナレーションとともに90秒間放送されていた。
 
 当初は次回紹介する作品の予告を次週1週分のみ行っていたが、「放送前に読んでおきたい」というリスナーからの要望により2007年9月9日放送より、3週分の作品の予告を行うようになった。 なお、放送内容は同時放送であるため当然同一であるが、キー局のTOKYO-FMに限り、エンディング曲に沿って次番組の案内がされている（ネット局はそのまま音楽が流れる）。
 
 ## 出演者
 
   - 小川洋子
-  - [藤丸由華](https://ja.wikipedia.org/wiki/藤丸由華 "wikilink")（アシスタント／2016年2月-4月と2019年5月-7月は産休）
+  - [藤丸由華](../Page/藤丸由華.md "wikilink")（アシスタント／2016年2月-4月と2019年5月-7月は産休）
   - [小山ジャネット愛子](https://ja.wikipedia.org/wiki/小山ジャネット愛子 "wikilink")（代理アシスタント／2016年2月-4月、2019年5月-7月）
 
 ## 放送時間
@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/エフエム東京.md" title="wikilink">TOKYO FM</a><strong>※制作局</strong></p></td>
 </tr>
 <tr class="even">
@@ -59,7 +59,7 @@
 <td><p><a href="../Page/エフエム秋田.md" title="wikilink">AFM</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/エフエム山形.md" title="wikilink">Rhythm station</a></p></td>
 </tr>
 <tr class="even">
@@ -76,11 +76,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エフエムラジオ新潟" title="wikilink">FM-NIIGATA</a></p></td>
+<td><p><a href="../Page/エフエムラジオ新潟.md" title="wikilink">FM-NIIGATA</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富山エフエム放送" title="wikilink">FMとやま</a></p></td>
+<td><p><a href="../Page/富山エフエム放送.md" title="wikilink">FMとやま</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
@@ -88,11 +88,11 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井エフエム放送" title="wikilink">FM福井</a></p></td>
+<td><p><a href="../Page/福井エフエム放送.md" title="wikilink">FM福井</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野エフエム放送" title="wikilink">FM長野</a></p></td>
+<td><p><a href="../Page/長野エフエム放送.md" title="wikilink">FM長野</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
@@ -125,7 +125,7 @@
 <td><p><a href="../Page/エフエム滋賀.md" title="wikilink">e-radio</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/エフエム大阪.md" title="wikilink">FM OH!</a></p></td>
 </tr>
 <tr class="odd">
@@ -165,7 +165,7 @@
 <td><p><a href="../Page/エフエム高知.md" title="wikilink">Hi-Six</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/エフエム福岡.md" title="wikilink">FM FUKUOKA</a></p></td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@
 <td><p><a href="../Page/エフエム宮崎.md" title="wikilink">JOY FM</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/エフエム鹿児島.md" title="wikilink">μFM</a></p></td>
 </tr>
 <tr class="odd">
@@ -204,7 +204,7 @@
 
 ## 提供
 
-[Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（英語でコールされる。[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")）
+[Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（英語でコールされる。[一社提供](../Page/一社提供.md "wikilink")）
 
 ## 紹介された作品
 
@@ -876,4 +876,4 @@
 
 [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:パナソニックグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:パナソニックグループ単独提供番組 "wikilink") [Category:文学番組](https://ja.wikipedia.org/wiki/Category:文学番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  [JFNを](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")付けで除名され、また同年[5月31日](../Page/5月31日.md "wikilink")をもってJFNからの番組供給が停止される予定だったが、9月まで供給延長が決まり、続行されることになった。更に、9月28日に供給延長が再び決まり、11月4日の新規加盟まで続行された。なお、2010年9月30日までの社名は「株式会社Kiss-FM KOBE」であった。
+1.  [JFNを](../Page/全国FM放送協議会.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")付けで除名され、また同年[5月31日](../Page/5月31日.md "wikilink")をもってJFNからの番組供給が停止される予定だったが、9月まで供給延長が決まり、続行されることになった。更に、9月28日に供給延長が再び決まり、11月4日の新規加盟まで続行された。なお、2010年9月30日までの社名は「株式会社Kiss-FM KOBE」であった。

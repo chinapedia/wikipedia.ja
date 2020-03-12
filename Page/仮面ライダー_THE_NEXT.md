@@ -1,15 +1,15 @@
 > この記事は[ THE NEXT](https://ja.wikipedia.org/wiki/_THE_NEXT)から翻訳されています。
 
 
-『**仮面ライダー THE NEXT**』（かめんライダー ザ ネクスト）は、[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")の劇場用[特撮](../Page/特撮.md "wikilink")ヒーロー映画。[2007年](../Page/2007年.md "wikilink")10月27日公開。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月5日に公開された映画『[仮面ライダー THE FIRST](https://ja.wikipedia.org/wiki/仮面ライダー_THE_FIRST "wikilink")』の続編。キャッチコピーは、「**すべてを超える。**」「**アクションに酔え。怪奇に震えろ。これがNEXTエンタテインメントだ。**」。
+『**仮面ライダー THE NEXT**』（かめんライダー ザ ネクスト）は、[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")の劇場用[特撮](../Page/特撮.md "wikilink")ヒーロー映画。[2007年](../Page/2007年.md "wikilink")10月27日公開。[2005年](../Page/2005年.md "wikilink")11月5日に公開された映画『[仮面ライダー THE FIRST](../Page/仮面ライダー_THE_FIRST.md "wikilink")』の続編。キャッチコピーは、「**すべてを超える。**」「**アクションに酔え。怪奇に震えろ。これがNEXTエンタテインメントだ。**」。
 
 ## 概要
 
 主役は前作と同様、本郷猛 / [仮面ライダー1号](https://ja.wikipedia.org/wiki/仮面ライダー1号 "wikilink")で、一文字隼人 / [仮面ライダー2号](https://ja.wikipedia.org/wiki/仮面ライダー2号 "wikilink")も前作から継続して登場。また、本作には風見志郎 / [仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")が敵として登場する。
 
-本作におけるV3は、テレビシリーズの「ライダー1号・2号に改造された」という設定と異なり、「ショッカーによって改造された改造人間（V3＝Version 3）」という設定である。V3＝風見志郎役には、『[仮面ライダーカブト](https://ja.wikipedia.org/wiki/仮面ライダーカブト "wikilink")』で仮面ライダードレイク＝風間大介の役を演じた[加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")が起用された。その他、ライダー作品に出演経験がある[石田未来](../Page/石田未来.md "wikilink")、[森絵梨佳](https://ja.wikipedia.org/wiki/森絵梨佳 "wikilink")らも共演している。ショッカー首領の声は第1作『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』と同じ[納谷悟朗](../Page/納谷悟朗.md "wikilink")が担当した。
+本作におけるV3は、テレビシリーズの「ライダー1号・2号に改造された」という設定と異なり、「ショッカーによって改造された改造人間（V3＝Version 3）」という設定である。V3＝風見志郎役には、『[仮面ライダーカブト](../Page/仮面ライダーカブト.md "wikilink")』で仮面ライダードレイク＝風間大介の役を演じた[加藤和樹](../Page/加藤和樹.md "wikilink")が起用された。その他、ライダー作品に出演経験がある[石田未来](../Page/石田未来.md "wikilink")、[森絵梨佳](../Page/森絵梨佳.md "wikilink")らも共演している。ショッカー首領の声は第1作『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』と同じ[納谷悟朗](../Page/納谷悟朗.md "wikilink")が担当した。
 
-スタッフでは、監督が前作の[長石多可男](https://ja.wikipedia.org/wiki/長石多可男 "wikilink")から、[平成仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/平成仮面ライダーシリーズ "wikilink")の多くの劇場版を作ってきた[田﨑竜太に交代した](https://ja.wikipedia.org/wiki/田崎竜太 "wikilink")。脚本の[井上敏樹](../Page/井上敏樹.md "wikilink")、音楽の[安川午朗](https://ja.wikipedia.org/wiki/安川午朗 "wikilink")など、その他のメインスタッフはほぼ前作から続投している。
+スタッフでは、監督が前作の[長石多可男](../Page/長石多可男.md "wikilink")から、[平成仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/平成仮面ライダーシリーズ "wikilink")の多くの劇場版を作ってきた[田﨑竜太に交代した](../Page/田崎竜太.md "wikilink")。脚本の[井上敏樹](../Page/井上敏樹.md "wikilink")、音楽の[安川午朗](../Page/安川午朗.md "wikilink")など、その他のメインスタッフはほぼ前作から続投している。
 
 恋愛映画の要素が多く盛り込まれていた前作に対し、本作では[漫画版『仮面ライダー』や昭和テレビシリーズの序盤で見られた](../Page/仮面ライダー_\(漫画\).md "wikilink")「怪奇性」が強調され\[1\]、[ジャパニーズホラー](https://ja.wikipedia.org/wiki/ジャパニーズホラー "wikilink")の演出技法や[バイオレンス描写を多く取り入れた](../Page/暴力.md "wikilink")「ホラーアクション」としての色彩を濃くしており、恐怖感を煽る場面も多い。このため、仮面ライダー映画としては初の[PG12指定作品となった](https://ja.wikipedia.org/wiki/映画のレイティングシステム#PG12 "wikilink")。
 
@@ -25,10 +25,10 @@
 
 ## 登場人物
 
-本郷と一文字を除き、前作の主要人物（緑川あすか、[立花藤兵衛](https://ja.wikipedia.org/wiki/立花藤兵衛 "wikilink")、ショッカー三幹部など）は登場しておらず、その関連についても触れられていない。
+本郷と一文字を除き、前作の主要人物（緑川あすか、[立花藤兵衛](../Page/立花藤兵衛.md "wikilink")、ショッカー三幹部など）は登場しておらず、その関連についても触れられていない。
 
   - [本郷猛](https://ja.wikipedia.org/wiki/本郷猛#『仮面ライダー_THE_NEXT』 "wikilink")（ほんごう たけし） / [仮面ライダー1号](https://ja.wikipedia.org/wiki/本郷猛#『THE_FIRST』での仮面ライダー1号 "wikilink")
-    ショッカーの手により、ホッパー＝仮面ライダー1号に改造された男。洗脳が解けてショッカーを脱走してから2年が経過した現在は、城南大学附属高校の生物教師として過ごしている。しかし教師としての威厳は皆無で、担任するクラスも[学級崩壊](https://ja.wikipedia.org/wiki/学級崩壊 "wikilink")状態に陥り生徒からも小馬鹿にされている。しかし中盤で、学校付近で琴美を守るために20倍の腕力を発揮し、琴美を乱暴しようとしたチンピラが乗る自動車、バイクを破壊したことで目撃した生徒たちから怯えられ、後に解雇処分となった。教え子である琴美との出会いを切っ掛けに再びショッカーに立ち向かう。
+    ショッカーの手により、ホッパー＝仮面ライダー1号に改造された男。洗脳が解けてショッカーを脱走してから2年が経過した現在は、城南大学附属高校の生物教師として過ごしている。しかし教師としての威厳は皆無で、担任するクラスも[学級崩壊](../Page/学級崩壊.md "wikilink")状態に陥り生徒からも小馬鹿にされている。しかし中盤で、学校付近で琴美を守るために20倍の腕力を発揮し、琴美を乱暴しようとしたチンピラが乗る自動車、バイクを破壊したことで目撃した生徒たちから怯えられ、後に解雇処分となった。教え子である琴美との出会いを切っ掛けに再びショッカーに立ち向かう。
   - [一文字隼人](https://ja.wikipedia.org/wiki/一文字隼人#『仮面ライダー_THE_NEXT』 "wikilink")（いちもんじ はやと）/ [仮面ライダー2号](https://ja.wikipedia.org/wiki/一文字隼人#『THE_FIRST』での仮面ライダー2号 "wikilink")
     本郷と同じくショッカーの手により、ホッパー＝仮面ライダー2号に改造された男。かつてはショッカーの裏切り者である本郷を抹殺するために送り込まれた刺客であったが、ふとしたきっかけで本郷と共にショッカーと戦う道を選んだ。
     現在はリジェクション\[4\]から繋がる死の恐怖に苦しみ続けながら、それを紛らわそうと夜な夜な繁華街で豪遊し、毎日のように酒に溺れる享楽的な日々を過ごしている。常に身に着けているスカーフとグローブは、リジェクションにより浮き上がった血管を隠すためのもの（グローブの中には血管から漏れた真っ黒な血が溜まっており、本郷にその苦しみを見抜かれていた）。
@@ -42,10 +42,10 @@
     連続猟奇殺人事件に関与している神出鬼没な謎の存在。Chiharuの「Platinum Smile」を聞いた者の前に必ず現れ、彼女を見た者は全員猟奇殺人事件の被害者となっている。顔面を包帯で覆っている。
     その正体は風見志郎の妹であり、「呪いの歌」と噂され問題となっている「Platinum Smile」を歌う国民的人気アイドル歌手の**Chiharu**こと**風見ちはる**であった。本物のちはるはエクサストリーム社でのナノロボット散布実験に巻き込まれており、適合して身体に変化が起こっていたが、その直後に彼女の人気を妬む新人アイドル達に突き飛ばされ\[5\]、その弾みに配電盤に激突し、感電してしまう。その際に負った顔の傷跡は手術でも直せないくらいに醜く爛れた上に、配電盤の高圧電流の影響で暴走したナノロボットによって複眼を持つ怪人の様相を呈していた。絶望の末に自身の時計を形見のつもりで兄・志郎に送り、投身自殺を計る。だが、ナノロボットにより怪人に改造された身体では飛び降りた程度では死ぬことが出来なかった上に、全身でナノロボットの暴走が進行、より醜悪な怪人の姿・Chiharu怪人態になってしまう。
     ちはるの身体は、機密保持のために回収したショッカーの廃棄場に廃棄されていたが、自由に身動きの取れない本体の代わりに分身となる包帯姿の精神体を操り、「Platinum Smile」を聞く者や自身を絶望に追いやった影武者の2人、さらにはマネージャーや社長など、手当たり次第に殺害していたが、親友である琴美だけは唯一殺すことができずにいた。最後は暴走する自身の能力を止めたいという自らの意志を告げ、兄である志郎の手によって本体が葬られ、精神体も消滅した。
-    だが、[エンドロール後のシーンでは](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")、パチンコ店で『[CRぱちんこ仮面ライダー ショッカー全滅大作戦](../Page/CRぱちんこ仮面ライダー_ショッカー全滅大作戦.md "wikilink")』を打っていた男性を、精神体が筐体から手を伸ばして襲っていた。
+    だが、[エンドロール後のシーンでは](../Page/クレジットタイトル.md "wikilink")、パチンコ店で『[CRぱちんこ仮面ライダー ショッカー全滅大作戦](../Page/CRぱちんこ仮面ライダー_ショッカー全滅大作戦.md "wikilink")』を打っていた男性を、精神体が筐体から手を伸ばして襲っていた。
   - 進藤
     芸能事務所「トライスタープロモーション」の社長。Chiharuのことを「滅んではいけないアイドル」と称し、ちはるの死後も他のアイドルを整形手術でChiharuに仕立てていた。Chiharuとなって表に立っていた女性アイドルたちが包帯の女に殺されていたことを知らずにいた。終盤で山崎と共に怪人と化したちはるに殺される。
-    なお、進藤の眼鏡は[田﨑竜太の私物をそのまま小道具として使用したもの](https://ja.wikipedia.org/wiki/田崎竜太 "wikilink")。
+    なお、進藤の眼鏡は[田﨑竜太の私物をそのまま小道具として使用したもの](../Page/田崎竜太.md "wikilink")。
     田﨑は、進藤について「人間が持つ一部分を提示し、社会に偏在するショッカー以外の悪として描いている」と語っている\[6\]。
   - 山崎
     「トライスタープロモーション」でのChiharuのマネージャー。社長・進藤の言いなりであり、他のアイドルを利用したChiharuの顔への整形手術にも反対しない。替え玉のこともChiharuちゃんと呼び続けていた。進藤とともに事務所でちはるに殺害される。
@@ -59,7 +59,7 @@
   - 岡村
     Chiharuファンクラブの会長。琴美に頼まれてChiharuのことを話す予定だったが、そのために琴美に会おうとしたところをChiharu精神体に殺されてしまう。
   - 照夫
-    Chiharuのファンである引きこもりの青年。序盤で「Platinum Smile」のPVを見ている途中、謎のChiharu精神体に殺される本編最初の被害者。[マヨラー](https://ja.wikipedia.org/wiki/マヨラー "wikilink")らしく、彼の母親が運んできた食事には[マヨネーズ](../Page/マヨネーズ.md "wikilink")が大量に掛けられていた。
+    Chiharuのファンである引きこもりの青年。序盤で「Platinum Smile」のPVを見ている途中、謎のChiharu精神体に殺される本編最初の被害者。[マヨラー](../Page/マヨラー.md "wikilink")らしく、彼の母親が運んできた食事には[マヨネーズ](../Page/マヨネーズ.md "wikilink")が大量に掛けられていた。
 
 ## ショッカー
 
@@ -100,7 +100,7 @@
   -
     エクサストリーム社の社長秘書であった女（本名は不明）が特殊強化服を装着し、マスクを被ることで変身する。ナノロボットにより改造される前は清楚な雰囲気を携えた風見の優秀な秘書であったが、改造後は冷酷で残忍な性格の持ち主になり、妖艶な振る舞いも見せるようになった。
     恐るべき切れ味を誇る右腕の巨大[チェーンソー](../Page/チェーンソー.md "wikilink")が武器で、着脱も可能。また、ナノロボットによる改造の影響で再生能力も備えている。上記の「LEGEND OF GATHERING」の地下（ショッカーの基地の地下）で、かつての上司であった志郎にV3反転キックを受け爆散した。
-    『仮面ライダーV3』のデストロン怪人「ノコギリトカゲ」のリメイク\[8\]であるが、本作ではショッカー所属の改造人間である。また、チェーンソーに[市松模様](https://ja.wikipedia.org/wiki/市松模様 "wikilink")がついているのはノコギリトカゲへの[オマージュ](https://ja.wikipedia.org/wiki/オマージュ "wikilink")。関連書籍によるとチェーンソーを起動させても模様に変化がないことを知りつつ採用したという\[9\]。女性怪人という点も共通している。
+    『仮面ライダーV3』のデストロン怪人「ノコギリトカゲ」のリメイク\[8\]であるが、本作ではショッカー所属の改造人間である。また、チェーンソーに[市松模様](../Page/市松模様.md "wikilink")がついているのはノコギリトカゲへの[オマージュ](../Page/オマージュ.md "wikilink")。関連書籍によるとチェーンソーを起動させても模様に変化がないことを知りつつ採用したという\[9\]。女性怪人という点も共通している。
   - [ショッカーライダー](https://ja.wikipedia.org/wiki/ショッカーライダー "wikilink")
     全員がナノロボットで改造された上級戦闘員。オリジナルのホッパーである2人はショッカーを裏切っているが、彼等が改造人間の中でも高い潜在能力を秘めていた事から、ホッパータイプが次期主力改造人間として採用され、ホッパーの量産型となるショッカーライダーが生み出される事となった。V3のように正式なナンバリングは施されていないが、デザイン上のコンセプトは「1号・2号からV3への過渡期」とのこと\[10\]。
   - [ショッカー戦闘員](https://ja.wikipedia.org/wiki/ショッカー戦闘員#リメイク作品 "wikilink")
@@ -110,18 +110,18 @@
 
 ## キャスト
 
-  - [本郷猛](https://ja.wikipedia.org/wiki/本郷猛 "wikilink") / 仮面ライダー1号（声）：[黄川田将也](https://ja.wikipedia.org/wiki/黄川田将也 "wikilink")
-  - [一文字隼人](https://ja.wikipedia.org/wiki/一文字隼人 "wikilink") / 仮面ライダー2号（声）：[高野八誠](https://ja.wikipedia.org/wiki/高野八誠 "wikilink")
-  - [風見志郎](https://ja.wikipedia.org/wiki/風見志郎 "wikilink") / 仮面ライダーV3（声）：[加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")
+  - [本郷猛](../Page/本郷猛.md "wikilink") / 仮面ライダー1号（声）：[黄川田将也](../Page/黄川田将也.md "wikilink")
+  - [一文字隼人](https://ja.wikipedia.org/wiki/一文字隼人 "wikilink") / 仮面ライダー2号（声）：[高野八誠](../Page/高野八誠.md "wikilink")
+  - [風見志郎](https://ja.wikipedia.org/wiki/風見志郎 "wikilink") / 仮面ライダーV3（声）：[加藤和樹](../Page/加藤和樹.md "wikilink")
   - 菊間琴美：[石田未来](../Page/石田未来.md "wikilink")
-  - 風見ちはる：[森絵梨佳](https://ja.wikipedia.org/wiki/森絵梨佳 "wikilink")
-  - チェーンソーリザード：[益子梨恵](https://ja.wikipedia.org/wiki/益子梨恵 "wikilink")
-  - 山崎：[六角慎司](https://ja.wikipedia.org/wiki/六角慎司 "wikilink")
-  - [仲村瑠璃亜](https://ja.wikipedia.org/wiki/仲村瑠璃亜 "wikilink")
+  - 風見ちはる：[森絵梨佳](../Page/森絵梨佳.md "wikilink")
+  - チェーンソーリザード：[益子梨恵](../Page/益子梨恵.md "wikilink")
+  - 山崎：[六角慎司](../Page/六角慎司.md "wikilink")
+  - [仲村瑠璃亜](../Page/仲村瑠璃亜.md "wikilink")
   - [藤森麻由](../Page/藤森麻由.md "wikilink")
   - 加藤愛乃
   - 男子生徒A：[堀井茶渡](../Page/堀井茶渡.md "wikilink")
-  - 谷口由香里：[川原真琴](https://ja.wikipedia.org/wiki/川原真琴 "wikilink")
+  - 谷口由香里：[川原真琴](../Page/川原真琴.md "wikilink")
   - 戸塚尚子：夏山千景
   - [森田猛虎](https://ja.wikipedia.org/wiki/森田猛虎 "wikilink")
   - 田谷淳
@@ -143,26 +143,26 @@
   - 天彩音のん
   - パチンコ屋の客：[久保田悠来](https://ja.wikipedia.org/wiki/久保田悠来 "wikilink")
   - [佐藤貢三](https://ja.wikipedia.org/wiki/佐藤貢三 "wikilink")
-  - 照夫の母：[風祭ゆき](https://ja.wikipedia.org/wiki/風祭ゆき "wikilink")
+  - 照夫の母：[風祭ゆき](../Page/風祭ゆき.md "wikilink")
   - クラブのママ：[未來貴子](../Page/未來貴子.md "wikilink")
   - 教頭：[斉藤洋介](https://ja.wikipedia.org/wiki/斉藤洋介 "wikilink")
-  - 進藤：[嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
+  - 進藤：[嶋田久作](../Page/嶋田久作.md "wikilink")
   - シザーズジャガー：[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")
 
 ### 声の出演
 
   - 首領：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
-  - ショッカー戦闘員、ショッカーライダー：[塩野勝美](https://ja.wikipedia.org/wiki/塩野勝美 "wikilink")\[11\]
+  - ショッカー戦闘員、ショッカーライダー：[塩野勝美](../Page/塩野勝美.md "wikilink")\[11\]
 
 ### スーツアクター
 
-  - 仮面ライダー1号\[12\]\[13\]：[前田浩](https://ja.wikipedia.org/wiki/前田浩 "wikilink")
-  - 仮面ライダー2号\[14\]\[15\]、ショッカーライダー\[16\]：[秋山智彦](https://ja.wikipedia.org/wiki/秋山智彦 "wikilink")
-  - 仮面ライダーV3\[17\]\[18\]、ショッカーライダー\[19\]\[20\]：[伊藤慎](https://ja.wikipedia.org/wiki/伊藤慎 "wikilink")
+  - 仮面ライダー1号\[12\]\[13\]：[前田浩](../Page/前田浩.md "wikilink")
+  - 仮面ライダー2号\[14\]\[15\]、ショッカーライダー\[16\]：[秋山智彦](../Page/秋山智彦.md "wikilink")
+  - 仮面ライダーV3\[17\]\[18\]、ショッカーライダー\[19\]\[20\]：[伊藤慎](../Page/伊藤慎.md "wikilink")
   - シザーズジャガー：渡辺智隆\[21\]\[22\]
   - チェーンソーリザード\[23\]\[24\]：日野綾子
-  - [大橋明](https://ja.wikipedia.org/wiki/大橋明 "wikilink")
-  - [佐々木俊宜](https://ja.wikipedia.org/wiki/佐々木俊宜 "wikilink")
+  - [大橋明](../Page/大橋明.md "wikilink")
+  - [佐々木俊宜](../Page/佐々木俊宜.md "wikilink")
   - [舟山弘一](https://ja.wikipedia.org/wiki/舟山弘一 "wikilink")
   - 川名求己
   - 杉原明
@@ -173,18 +173,18 @@
   - 帯金伸行
   - 熊田弥生
   - [遊木康剛](https://ja.wikipedia.org/wiki/遊木康剛 "wikilink")
-  - [マーク武蔵](https://ja.wikipedia.org/wiki/マーク武蔵 "wikilink")
-  - [吉田瑞穂](https://ja.wikipedia.org/wiki/吉田瑞穂_\(スーツアクター\) "wikilink")
+  - [マーク武蔵](../Page/マーク武蔵.md "wikilink")
+  - [吉田瑞穂](../Page/吉田瑞穂_\(スーツアクター\).md "wikilink")
 
 ## スタッフ
 
-  - 原作：[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")
+  - 原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
 
   - 脚本：[井上敏樹](../Page/井上敏樹.md "wikilink")
 
-  - 音楽：[安川午朗](https://ja.wikipedia.org/wiki/安川午朗 "wikilink")
+  - 音楽：[安川午朗](../Page/安川午朗.md "wikilink")
 
-  - 製作：石井徹（[東映ビデオ](../Page/東映ビデオ.md "wikilink")）、中曽根千治（[東映](../Page/東映.md "wikilink")）、古玉國彦（[東映チャンネル](https://ja.wikipedia.org/wiki/東映チャンネル "wikilink")）、福中脩（[東映エージエンシー](https://ja.wikipedia.org/wiki/東映エージエンシー "wikilink")）
+  - 製作：石井徹（[東映ビデオ](../Page/東映ビデオ.md "wikilink")）、中曽根千治（[東映](../Page/東映.md "wikilink")）、古玉國彦（[東映チャンネル](../Page/東映チャンネル.md "wikilink")）、福中脩（[東映エージエンシー](../Page/東映エージエンシー.md "wikilink")）
 
   - 企画：日達長夫（東映ビデオ）、吉田順（東映）、金子建（東映チャンネル）、松田英史（東映エージエンシー）
 
@@ -192,7 +192,7 @@
 
   - スーパーバイサー：小野寺章（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）
 
-  - 撮影：[田中一成](https://ja.wikipedia.org/wiki/田中一成_\(映画カメラマン\) "wikilink")（[J.S.C.](https://ja.wikipedia.org/wiki/日本映画撮影監督協会 "wikilink")）
+  - 撮影：[田中一成](https://ja.wikipedia.org/wiki/田中一成_\(映画カメラマン\) "wikilink")（[J.S.C.](../Page/日本映画撮影監督協会.md "wikilink")）
 
   - 美術：和田洋
 
@@ -202,7 +202,7 @@
 
   - 照明：三重野聖一郎
 
-  - Bキャメ撮影：[菊池亘](https://ja.wikipedia.org/wiki/菊池亘 "wikilink")（[J.S.C.](https://ja.wikipedia.org/wiki/日本映画撮影監督協会 "wikilink")）
+  - Bキャメ撮影：[菊池亘](https://ja.wikipedia.org/wiki/菊池亘 "wikilink")（[J.S.C.](../Page/日本映画撮影監督協会.md "wikilink")）
 
   - 録音：室薗剛
 
@@ -222,19 +222,19 @@
 
   - 特殊衣裳造形：[竹田団吾](../Page/竹田団吾.md "wikilink")
 
-  - 特殊メイク・コーディネイト：[原口智生](https://ja.wikipedia.org/wiki/原口智生 "wikilink")
+  - 特殊メイク・コーディネイト：[原口智生](../Page/原口智生.md "wikilink")
 
-  - ライダーマシンプロデュース：[青木宣篤](https://ja.wikipedia.org/wiki/青木宣篤 "wikilink")
+  - ライダーマシンプロデュース：[青木宣篤](../Page/青木宣篤.md "wikilink")
 
-  - アクション監督：[横山誠](https://ja.wikipedia.org/wiki/横山誠 "wikilink")（[AAC STUNTS](https://ja.wikipedia.org/wiki/AAC_STUNTS "wikilink")）
+  - アクション監督：[横山誠](../Page/横山誠.md "wikilink")（[AAC STUNTS](https://ja.wikipedia.org/wiki/AAC_STUNTS "wikilink")）
 
-  - プロデュース：加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）、[白倉伸一郎](https://ja.wikipedia.org/wiki/白倉伸一郎 "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")
+  - プロデュース：加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）、[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")
 
-  - 製作プロダクション：[東映東京撮影所](https://ja.wikipedia.org/wiki/東映東京撮影所 "wikilink")
+  - 製作プロダクション：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
 
   - 製作：『仮面ライダー THE NEXT』製作委員会
 
-  - 監督：[田﨑竜太](https://ja.wikipedia.org/wiki/田崎竜太 "wikilink")
+  - 監督：[田﨑竜太](../Page/田崎竜太.md "wikilink")
 
   -
 ## 音楽
@@ -245,7 +245,7 @@
   - 挿入歌「Platinum Smile」
 
       -
-        作詞：[小坂りゆ](https://ja.wikipedia.org/wiki/小坂りゆ "wikilink") / 作曲：[LOVE+HATE](../Page/LOVE+HATE.md "wikilink") / 編曲：LOVE+HATE / 歌：小坂りゆ
+        作詞：[小坂りゆ](../Page/小坂りゆ.md "wikilink") / 作曲：[LOVE+HATE](../Page/LOVE+HATE.md "wikilink") / 編曲：LOVE+HATE / 歌：小坂りゆ
 
 ## 映像ソフト化
 

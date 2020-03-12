@@ -3,7 +3,7 @@
 
 **DASH・チサコ**（ダッシュ・チサコ、本名：**十文字 知佐子**（じゅうもんじ ちさこ）、[1988年](../Page/1988年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。
 
-[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")出身。身長151cm、体重55kg。血液型B型。[センダイガールズプロレスリング](../Page/センダイガールズプロレスリング.md "wikilink")所属。
+[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。身長151cm、体重55kg。血液型B型。[センダイガールズプロレスリング](../Page/センダイガールズプロレスリング.md "wikilink")所属。
 
 同じくセンダイガールズに所属していた妹の[仙台幸子](../Page/仙台幸子_\(プロレスラー\).md "wikilink")(2015年8月25日に結婚引退を発表、2016年1月17日に引退)と共に「**十文字姉妹**」と呼ばれている。
 
@@ -20,9 +20,9 @@
 <!-- end list -->
 
   - 7月9日、宮城・[仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")ホールにおいて、対[ダイナマイト・関西](../Page/ダイナマイト・関西.md "wikilink")戦でデビュー。右ハイキックでTKO負け。
-  - 9月29日、宮城・[Zepp Sendaiにおいて](https://ja.wikipedia.org/wiki/Zepp#各地のZepp "wikilink")、[カルロス天野](https://ja.wikipedia.org/wiki/カルロス天野 "wikilink")と対戦。ダイビング・ラリアットで敗れる。
+  - 9月29日、宮城・[Zepp Sendaiにおいて](https://ja.wikipedia.org/wiki/Zepp#各地のZepp "wikilink")、[カルロス天野](../Page/カルロス天野.md "wikilink")と対戦。ダイビング・ラリアットで敗れる。
   - 11月11日、宮城・Zepp Sendaiにおいて、[永島千佳世](../Page/永島千佳世.md "wikilink")と対戦。ウラカン・ラナを切り返されて敗れる。
-  - 12月3日、宮城・Zepp Sendaiにおいて、[吉田万里子と対戦](https://ja.wikipedia.org/wiki/吉田万里子_\(プロレスラー\) "wikilink")。クモ絡みでレフェリーストップで敗れる。
+  - 12月3日、宮城・Zepp Sendaiにおいて、[吉田万里子と対戦](../Page/吉田万里子_\(プロレスラー\).md "wikilink")。クモ絡みでレフェリーストップで敗れる。
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - 6月8日、JWP板橋大会に昼夜で開催される1dayトーナメントに出場。[春山香代子](https://ja.wikipedia.org/wiki/春山香代子 "wikilink")、[ラビット美兎](https://ja.wikipedia.org/wiki/ラビット美兎 "wikilink")、[KAZUKI](https://ja.wikipedia.org/wiki/KAZUKI "wikilink")を倒し優勝。
+  - 6月8日、JWP板橋大会に昼夜で開催される1dayトーナメントに出場。[春山香代子](../Page/春山香代子.md "wikilink")、[ラビット美兎](https://ja.wikipedia.org/wiki/ラビット美兎 "wikilink")、[KAZUKI](../Page/KAZUKI.md "wikilink")を倒し優勝。
   - 7月13日、JWP認定無差別級選手権王者[中島安里紗](../Page/中島安里紗.md "wikilink")と対戦するが敗れる。
   - 8月24日から開催される[STARDOM 5★STAR GP2014に参戦](https://ja.wikipedia.org/wiki/STARDOM_5★STAR_GP#5★STAR_GP2014 "wikilink")。
 
@@ -61,7 +61,7 @@
 
 ### 十文字姉妹としての戦歴
 
-  - [2007年](../Page/2007年.md "wikilink")12月31日 [後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")JWP「第5回[ジュニア・オールスター戦](https://ja.wikipedia.org/wiki/ジュニア・オールスター戦 "wikilink")」、vs紫雷姉妹（[紫雷美央](https://ja.wikipedia.org/wiki/紫雷美央 "wikilink")・[イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")）戦で勝利。同大会敢闘賞を受賞。
+  - [2007年](../Page/2007年.md "wikilink")12月31日 [後楽園ホール](../Page/後楽園ホール.md "wikilink")JWP「第5回[ジュニア・オールスター戦](https://ja.wikipedia.org/wiki/ジュニア・オールスター戦 "wikilink")」、vs紫雷姉妹（[紫雷美央](https://ja.wikipedia.org/wiki/紫雷美央 "wikilink")・[イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")）戦で勝利。同大会敢闘賞を受賞。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月21日 仙台大会、[デビル雅美](../Page/デビル雅美.md "wikilink")引退記念1dayタッグトーナメント準優勝。
   - [2011年](../Page/2011年.md "wikilink")9月24日 [アイスリボン](../Page/アイスリボン.md "wikilink")横浜大会、[インターナショナル・リボンタッグ王座](https://ja.wikipedia.org/wiki/インターナショナル・リボンタッグ王座 "wikilink")次期王者決定トーナメントで優勝し、同王座獲得。
   - [2012年](../Page/2012年.md "wikilink")1月9日 「JWP[タッグリーグ・ザ・ベスト](https://ja.wikipedia.org/wiki/タッグリーグ・ザ・ベスト "wikilink")2012」に参戦。
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   -
-    パートナーは[仙台幸子](../Page/仙台幸子_\(プロレスラー\).md "wikilink")→[KAORU](https://ja.wikipedia.org/wiki/KAORU_\(プロレスラー\) "wikilink")→[カサンドラ宮城](https://ja.wikipedia.org/wiki/カサンドラ宮城 "wikilink")→KAORU
+    パートナーは[仙台幸子](../Page/仙台幸子_\(プロレスラー\).md "wikilink")→[KAORU](../Page/KAORU_\(プロレスラー\).md "wikilink")→[カサンドラ宮城](https://ja.wikipedia.org/wiki/カサンドラ宮城 "wikilink")→KAORU
 
   - [アイスリボン](../Page/アイスリボン.md "wikilink")
 
@@ -93,7 +93,7 @@
 
 <!-- end list -->
 
-  - [JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")
+  - [JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - [DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")
+  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 
 ## 入場テーマ曲
 
-  - 「情熱たましい」（[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")）
+  - 「情熱たましい」（[B-DASH](../Page/B-DASH.md "wikilink")）
 
 ## 脚注
 

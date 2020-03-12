@@ -5,12 +5,12 @@
 
   -
     画像形式　PNG。横250×縦260ピクセル。色数8bit (256色)。
-    2005年3月28日、[海津郡](../Page/海津郡.md "wikilink")の3町[海津町](../Page/海津町.md "wikilink")・[南濃町](https://ja.wikipedia.org/wiki/南濃町 "wikilink")・[平田町が合併し](https://ja.wikipedia.org/wiki/平田町_\(岐阜県\) "wikilink")[海津市](https://ja.wikipedia.org/wiki/海津市 "wikilink")に。
+    2005年3月28日、[海津郡](../Page/海津郡.md "wikilink")の3町[海津町](../Page/海津町.md "wikilink")・[南濃町](../Page/南濃町.md "wikilink")・[平田町が合併し](../Page/平田町_\(岐阜県\).md "wikilink")[海津市](../Page/海津市.md "wikilink")に。
     2006年1月1日、[柳津町を](../Page/柳津町_\(岐阜県\).md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")に編入。
-    2006年1月23日、[土岐郡](../Page/土岐郡.md "wikilink")[笠原町](https://ja.wikipedia.org/wiki/笠原町 "wikilink")を[多治見市](../Page/多治見市.md "wikilink")に編入。
-    2006年3月27日、[墨俣町](https://ja.wikipedia.org/wiki/墨俣町 "wikilink")・[上石津町](https://ja.wikipedia.org/wiki/上石津町 "wikilink")を[大垣市](../Page/大垣市.md "wikilink")に編入以降、すなわち2006年3月27日以降。
+    2006年1月23日、[土岐郡](../Page/土岐郡.md "wikilink")[笠原町](../Page/笠原町.md "wikilink")を[多治見市](../Page/多治見市.md "wikilink")に編入。
+    2006年3月27日、[墨俣町](../Page/墨俣町.md "wikilink")・[上石津町](../Page/上石津町.md "wikilink")を[大垣市](../Page/大垣市.md "wikilink")に編入以降、すなわち2006年3月27日以降。
       -
-        ※[八百津町](https://ja.wikipedia.org/wiki/八百津町 "wikilink")と[御嵩町](../Page/御嵩町.md "wikilink")の町境を新たに加筆、県外の境界変更を反映。
+        ※[八百津町](../Page/八百津町.md "wikilink")と[御嵩町](../Page/御嵩町.md "wikilink")の町境を新たに加筆、県外の境界変更を反映。
     投稿者が[:画像:Japan map.pngを元に作成](https://ja.wikipedia.org/wiki/:画像:Japan_map.png "wikilink")。
 
 <!-- end list -->
@@ -157,13 +157,13 @@
 
 <td>
 
-[岐南町](https://ja.wikipedia.org/wiki/岐南町 "wikilink")
+[岐南町](../Page/岐南町.md "wikilink")
 
 </td>
 
 <td>
 
-[北方町](https://ja.wikipedia.org/wiki/北方町 "wikilink")
+[北方町](../Page/北方町.md "wikilink")
 
 </td>
 
@@ -297,13 +297,13 @@
 
 <td>
 
-[海津市](https://ja.wikipedia.org/wiki/海津市 "wikilink")
+[海津市](../Page/海津市.md "wikilink")
 
 </td>
 
 <td>
 
-[養老町](https://ja.wikipedia.org/wiki/養老町 "wikilink")
+[養老町](../Page/養老町.md "wikilink")
 
 </td>
 
@@ -315,43 +315,43 @@
 
 <td>
 
-[垂井町](https://ja.wikipedia.org/wiki/垂井町 "wikilink")
+[垂井町](../Page/垂井町.md "wikilink")
 
 </td>
 
 <td>
 
-[安八町](https://ja.wikipedia.org/wiki/安八町 "wikilink")
+[安八町](../Page/安八町.md "wikilink")
 
 </td>
 
 <td>
 
-[神戸町](https://ja.wikipedia.org/wiki/神戸町 "wikilink")
+[神戸町](../Page/神戸町.md "wikilink")
 
 </td>
 
 <td>
 
-[輪之内町](https://ja.wikipedia.org/wiki/輪之内町 "wikilink")
+[輪之内町](../Page/輪之内町.md "wikilink")
 
 </td>
 
 <td>
 
-[池田町](https://ja.wikipedia.org/wiki/池田町_\(岐阜県\) "wikilink")
+[池田町](../Page/池田町_\(岐阜県\).md "wikilink")
 
 </td>
 
 <td>
 
-[揖斐川町](https://ja.wikipedia.org/wiki/揖斐川町 "wikilink")
+[揖斐川町](../Page/揖斐川町.md "wikilink")
 
 </td>
 
 <td>
 
-[大野町](https://ja.wikipedia.org/wiki/大野町 "wikilink")
+[大野町](../Page/大野町.md "wikilink")
 
 </td>
 
@@ -491,7 +491,7 @@
 
 <td>
 
-[美濃加茂市](https://ja.wikipedia.org/wiki/美濃加茂市 "wikilink")
+[美濃加茂市](../Page/美濃加茂市.md "wikilink")
 
 </td>
 
@@ -509,43 +509,43 @@
 
 <td>
 
-[川辺町](https://ja.wikipedia.org/wiki/川辺町 "wikilink")
+[川辺町](../Page/川辺町.md "wikilink")
 
 </td>
 
 <td>
 
-[坂祝町](https://ja.wikipedia.org/wiki/坂祝町 "wikilink")
+[坂祝町](../Page/坂祝町.md "wikilink")
 
 </td>
 
 <td>
 
-[白川町](https://ja.wikipedia.org/wiki/白川町 "wikilink")
+[白川町](../Page/白川町.md "wikilink")
 
 </td>
 
 <td>
 
-[富加町](https://ja.wikipedia.org/wiki/富加町 "wikilink")
+[富加町](../Page/富加町.md "wikilink")
 
 </td>
 
 <td>
 
-[七宗町](https://ja.wikipedia.org/wiki/七宗町 "wikilink")
+[七宗町](../Page/七宗町.md "wikilink")
 
 </td>
 
 <td>
 
-[八百津町](https://ja.wikipedia.org/wiki/八百津町 "wikilink")
+[八百津町](../Page/八百津町.md "wikilink")
 
 </td>
 
 <td>
 
-[東白川村](https://ja.wikipedia.org/wiki/東白川村 "wikilink")
+[東白川村](../Page/東白川村.md "wikilink")
 
 </td>
 
@@ -631,19 +631,19 @@
 
 <td>
 
-[瑞浪市](https://ja.wikipedia.org/wiki/瑞浪市 "wikilink")
+[瑞浪市](../Page/瑞浪市.md "wikilink")
 
 </td>
 
 <td>
 
-[恵那市](https://ja.wikipedia.org/wiki/恵那市 "wikilink")
+[恵那市](../Page/恵那市.md "wikilink")
 
 </td>
 
 <td>
 
-[土岐市](https://ja.wikipedia.org/wiki/土岐市 "wikilink")
+[土岐市](../Page/土岐市.md "wikilink")
 
 </td>
 
@@ -719,7 +719,7 @@
 
 <td>
 
-[下呂市](https://ja.wikipedia.org/wiki/下呂市 "wikilink")
+[下呂市](../Page/下呂市.md "wikilink")
 
 </td>
 

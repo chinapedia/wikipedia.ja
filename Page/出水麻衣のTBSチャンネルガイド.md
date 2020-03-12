@@ -1,11 +1,11 @@
 > この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
 
 
-**出水麻衣のTBSチャンネルガイド**（でみずまいのTBSチャンネルガイド）は、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")（2006年11月号）から[2009年](../Page/2009年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")（2009年3月号）まで不定期で放送されていた番組である。
+**出水麻衣のTBSチャンネルガイド**（でみずまいのTBSチャンネルガイド）は、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")（2006年11月号）から[2009年](../Page/2009年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")（2009年3月号）まで不定期で放送されていた番組である。
 
 ## 概要
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より放送されていた『**[小林麻耶のTBSチャンネルガイド](../Page/小林麻耶のTBSチャンネルガイド.md "wikilink")**』が2006年10月よりリニューアルし、[TBS](../Page/TBSテレビ.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[出水麻衣](https://ja.wikipedia.org/wiki/出水麻衣 "wikilink")がTBSチャンネルの番組宣伝をする番組。
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より放送されていた『**[小林麻耶のTBSチャンネルガイド](../Page/小林麻耶のTBSチャンネルガイド.md "wikilink")**』が2006年10月よりリニューアルし、[TBS](../Page/TBSテレビ.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[出水麻衣](https://ja.wikipedia.org/wiki/出水麻衣 "wikilink")がTBSチャンネルの番組宣伝をする番組。
   - 最新作のオリジナル番組や名作ドラマ、ライブ、スポーツ中継などの、翌月のオススメ番組・スペシャル番組を紹介する。
   - タイトルは「出水麻衣のTBSチャンネルガイド○月号」（○には月が入る）で、放送は前月16日から。
   - 「**マイマイのチャンネルニュース**」と「**出水麻衣のオススメ番組ガイド**」の2種類があり10分枠は前者のみ、20分枠は両方が流れる。

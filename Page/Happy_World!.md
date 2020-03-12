@@ -1,11 +1,11 @@
 > この記事は[Happy World!](https://ja.wikipedia.org/wiki/Happy_World!)から翻訳されています。
 
 
-『**Happy World\!**』（ハッピーワールド）は、[竹下堅次朗による](https://ja.wikipedia.org/wiki/竹下けんじろう "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』2000年6月号から2006年7月号まで連載されていた。単行本全11巻。また2002年から2003年には全3巻の[OVA](../Page/OVA.md "wikilink")が製作された。
+『**Happy World\!**』（ハッピーワールド）は、[竹下堅次朗による](../Page/竹下けんじろう.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』2000年6月号から2006年7月号まで連載されていた。単行本全11巻。また2002年から2003年には全3巻の[OVA](../Page/OVA.md "wikilink")が製作された。
 
 ## 概要
 
-本作品の特徴は「王道的展開」である。登場するメイン、サブヒロインのほとんどが主人公に恋愛感情を持ち、最終的には争奪戦に加わる、というのがほとんど。同時に「幸せ」や「生命」と言う重いテーマや、CGを多用した激しい戦闘シーンも盛り込んでいる。9巻以降、主人公とヒロインの出生に関するエピソードから、物語の展開が大きく変わり、[パレスチナ問題](https://ja.wikipedia.org/wiki/パレスチナ問題 "wikilink")をモデルにしたとされる「パルメキア編」では、[内乱](https://ja.wikipedia.org/wiki/内乱 "wikilink")や[虐殺](https://ja.wikipedia.org/wiki/虐殺 "wikilink")を通して「神は、なぜこのような世界を作ったのか?」というテーマを描く。前半（王道[落ちもの](https://ja.wikipedia.org/wiki/落ちもの "wikilink")）・中盤（[ハーレム](../Page/ハーレムもの.md "wikilink")[ラブコメ](https://ja.wikipedia.org/wiki/ラブコメディ "wikilink")）・終盤（ヒューマンドラマ）と絵柄も内容も大きく変わり、さらに各話でのテーマもバラバラである。なお、作者は途中で路線変更した理由について、連載中に[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")が起こった事をきっかけに「幸せとは何か」について考えるようになったからだと述べている。
+本作品の特徴は「王道的展開」である。登場するメイン、サブヒロインのほとんどが主人公に恋愛感情を持ち、最終的には争奪戦に加わる、というのがほとんど。同時に「幸せ」や「生命」と言う重いテーマや、CGを多用した激しい戦闘シーンも盛り込んでいる。9巻以降、主人公とヒロインの出生に関するエピソードから、物語の展開が大きく変わり、[パレスチナ問題](../Page/パレスチナ問題.md "wikilink")をモデルにしたとされる「パルメキア編」では、[内乱](https://ja.wikipedia.org/wiki/内乱 "wikilink")や[虐殺](../Page/虐殺.md "wikilink")を通して「神は、なぜこのような世界を作ったのか?」というテーマを描く。前半（王道[落ちもの](../Page/落ちもの.md "wikilink")）・中盤（[ハーレム](../Page/ハーレムもの.md "wikilink")[ラブコメ](../Page/ラブコメディ.md "wikilink")）・終盤（ヒューマンドラマ）と絵柄も内容も大きく変わり、さらに各話でのテーマもバラバラである。なお、作者は途中で路線変更した理由について、連載中に[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")が起こった事をきっかけに「幸せとは何か」について考えるようになったからだと述べている。
 
 掲載時、読者に対するサービスを重視する傾向にあった。それは単行本での描き足し、カバー裏のピンナップや読者投稿コーナーなどが充実する結果になった。
 
@@ -158,11 +158,11 @@
 ### キャスト
 
   - エル - [花村怜美](../Page/花村怜美.md "wikilink")
-  - 大村猛 - [矢部雅史](https://ja.wikipedia.org/wiki/矢部雅史 "wikilink")
-  - 江口素子 - [笹島かほる](https://ja.wikipedia.org/wiki/笹島かほる "wikilink")
-  - 大村早苗 - [内川藍維](https://ja.wikipedia.org/wiki/内川藍維 "wikilink")
-  - 丸山獅子男 - [中國卓郎](https://ja.wikipedia.org/wiki/中國卓郎 "wikilink")
-  - 日下部ゆりあ - [こおろぎさとみ](https://ja.wikipedia.org/wiki/こおろぎさとみ "wikilink")
+  - 大村猛 - [矢部雅史](../Page/矢部雅史.md "wikilink")
+  - 江口素子 - [笹島かほる](../Page/笹島かほる.md "wikilink")
+  - 大村早苗 - [内川藍維](../Page/内川藍維.md "wikilink")
+  - 丸山獅子男 - [中國卓郎](../Page/中國卓郎.md "wikilink")
+  - 日下部ゆりあ - [こおろぎさとみ](../Page/こおろぎさとみ.md "wikilink")
 
 ### スタッフ
 
@@ -176,10 +176,10 @@
   - 撮影監督 - 大平幸輝
   - 編集 - 田熊純
   - 音楽 - 五十嵐洋
-  - 音響監督 - [飯塚康一](https://ja.wikipedia.org/wiki/飯塚康一 "wikilink")
-  - プロデューサー - [大宮三郎](https://ja.wikipedia.org/wiki/大宮三郎 "wikilink")、川崎とも子
-  - アニメーション制作 - [ゼクシズ](https://ja.wikipedia.org/wiki/ゼクシズ "wikilink")
-  - 製作 - [ソフトガレージ](https://ja.wikipedia.org/wiki/Softgarage "wikilink")
+  - 音響監督 - [飯塚康一](../Page/飯塚康一.md "wikilink")
+  - プロデューサー - [大宮三郎](../Page/大宮三郎.md "wikilink")、川崎とも子
+  - アニメーション制作 - [ゼクシズ](../Page/ゼクシズ.md "wikilink")
+  - 製作 - [ソフトガレージ](../Page/Softgarage.md "wikilink")
 
 ### 主題歌
 

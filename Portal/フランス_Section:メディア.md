@@ -7,11 +7,11 @@
 
 </div>
 
-**[メディア企業](https://ja.wikipedia.org/wiki/:fr:Catégorie:Groupe_de_médias_français "wikilink")：** [フランス通信](https://ja.wikipedia.org/wiki/フランス通信 "wikilink") - [ヴィヴェンディ・ユニバーサル](https://ja.wikipedia.org/wiki/ヴィヴェンディ・ユニバーサル "wikilink") - [ブイグ](https://ja.wikipedia.org/wiki/w:Bouygues "wikilink") - [ラガルデール](https://ja.wikipedia.org/wiki/w:Lagardère_Group "wikilink")
+**[メディア企業](https://ja.wikipedia.org/wiki/:fr:Catégorie:Groupe_de_médias_français "wikilink")：** [フランス通信](https://ja.wikipedia.org/wiki/フランス通信 "wikilink") - [ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink") - [ブイグ](https://ja.wikipedia.org/wiki/w:Bouygues "wikilink") - [ラガルデール](https://ja.wikipedia.org/wiki/w:Lagardère_Group "wikilink")
 
 -----
 
-[全国紙](https://ja.wikipedia.org/wiki/Category:フランスの新聞 "wikilink")([:fr:Catégorie:Groupe de presse français](https://ja.wikipedia.org/wiki/:fr:Catégorie:Groupe_de_presse_français "wikilink"),[w:fr:Presse en France](https://ja.wikipedia.org/wiki/w:fr:Presse_en_France "wikilink")): [ル・モンド](https://ja.wikipedia.org/wiki/ル・モンド "wikilink") - [ル・モンド・ディプロマティーク](https://ja.wikipedia.org/wiki/ル・モンド・ディプロマティーク "wikilink")（左派） - [フィガロ](https://ja.wikipedia.org/wiki/フィガロ "wikilink")（右派） - [リベラシオン](https://ja.wikipedia.org/wiki/リベラシオン "wikilink")（左派）
+[全国紙](https://ja.wikipedia.org/wiki/Category:フランスの新聞 "wikilink")([:fr:Catégorie:Groupe de presse français](https://ja.wikipedia.org/wiki/:fr:Catégorie:Groupe_de_presse_français "wikilink"),[w:fr:Presse en France](https://ja.wikipedia.org/wiki/w:fr:Presse_en_France "wikilink")): [ル・モンド](../Page/ル・モンド.md "wikilink") - [ル・モンド・ディプロマティーク](https://ja.wikipedia.org/wiki/ル・モンド・ディプロマティーク "wikilink")（左派） - [フィガロ](https://ja.wikipedia.org/wiki/フィガロ "wikilink")（右派） - [リベラシオン](https://ja.wikipedia.org/wiki/リベラシオン "wikilink")（左派）
 
 -----
 

@@ -1,7 +1,7 @@
 > この記事は[Very best II](https://ja.wikipedia.org/wiki/Very_best_II)から翻訳されています。
 
 
-『**Very best II**』（ベリー・ベスト ツー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[2nd](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Very best II**』（ベリー・ベスト ツー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[2nd](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
 1.  **[CHANGE THE WORLD](../Page/CHANGE_THE_WORLD_\(V6の曲\).md "wikilink")**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[松本理恵](https://ja.wikipedia.org/wiki/松本理恵 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[上野圭一](https://ja.wikipedia.org/wiki/上野圭一 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[松本理恵](../Page/松本理恵.md "wikilink")、[作曲](../Page/作曲.md "wikilink")：[渡辺未来](../Page/渡辺未来.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[上野圭一](https://ja.wikipedia.org/wiki/上野圭一 "wikilink")
     <!-- end list -->
       - 17thシングル
 2.  **[愛のMelody](../Page/愛のMelody.md "wikilink")**※※
@@ -37,7 +37,7 @@
       - 18thシングル
 3.  **[キセキのはじまり](https://ja.wikipedia.org/wiki/キセキのはじまり/SHODO "wikilink")**
       -
-        作詞：[黒須チヒロ](https://ja.wikipedia.org/wiki/黒須チヒロ "wikilink")、作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：[黒須チヒロ](https://ja.wikipedia.org/wiki/黒須チヒロ "wikilink")、作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 19thシングルの1曲目
 4.  **[出せない手紙](../Page/出せない手紙.md "wikilink")**
@@ -75,19 +75,19 @@
         作詞・作曲：[giris talk](https://ja.wikipedia.org/wiki/giris_talk "wikilink")([mavie･mayu](https://ja.wikipedia.org/wiki/mavie･mayu "wikilink"))、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
     <!-- end list -->
       - 24thシングルの2曲目
-11. **[ありがとうのうた](https://ja.wikipedia.org/wiki/ありがとうのうた "wikilink")**
+11. **[ありがとうのうた](../Page/ありがとうのうた.md "wikilink")**
       -
-        作詞：[A.S.Z.project](https://ja.wikipedia.org/wiki/A.S.Z.project "wikilink")、作曲：[日比野元気](https://ja.wikipedia.org/wiki/日比野元気 "wikilink")、編曲：[K-Muto](https://ja.wikipedia.org/wiki/K-Muto "wikilink")
+        作詞：[A.S.Z.project](https://ja.wikipedia.org/wiki/A.S.Z.project "wikilink")、作曲：[日比野元気](https://ja.wikipedia.org/wiki/日比野元気 "wikilink")、編曲：[K-Muto](../Page/K-Muto.md "wikilink")
     <!-- end list -->
       - 25thシングル
 12. **[サンダーバード-your voice-](../Page/サンダーバード-your_voice-.md "wikilink")**
       -
-        作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲：[RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")、編曲：[RAM RIDER CREW](https://ja.wikipedia.org/wiki/RAM_RIDER_CREW "wikilink")・[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
+        作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲：[RAM RIDER](../Page/RAM_RIDER.md "wikilink")、編曲：[RAM RIDER CREW](https://ja.wikipedia.org/wiki/RAM_RIDER_CREW "wikilink")・[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
     <!-- end list -->
       - 26thシングル
 13. **[UTAO-UTAO](../Page/UTAO-UTAO.md "wikilink")**
       -
-        作詞：[御徒町凧](https://ja.wikipedia.org/wiki/御徒町凧 "wikilink")、作曲：[HIKARI](../Page/HIKARI.md "wikilink")、編曲：[シライシ沙トリ](https://ja.wikipedia.org/wiki/シライシ沙トリ "wikilink")
+        作詞：[御徒町凧](../Page/御徒町凧.md "wikilink")、作曲：[HIKARI](../Page/HIKARI.md "wikilink")、編曲：[シライシ沙トリ](https://ja.wikipedia.org/wiki/シライシ沙トリ "wikilink")
     <!-- end list -->
       - 27thシングル
 14. **[Orange](../Page/Orange_\(V6の曲\).md "wikilink")**※※
@@ -122,7 +122,7 @@
       - 7thアルバム収録曲
 4.  **[特別な夜は平凡な夜の次に来る](../Page/∞_INFINITY_〜LOVE_&_LIFE〜.md "wikilink")**
       -
-        作詞：[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")、作曲：[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink")、編曲：h-wonder
+        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink")、編曲：h-wonder
     <!-- end list -->
       - 8thアルバム「∞ INFINITY 〜LOVE & LIFE〜」収録曲
 5.  **[Brand-New World](../Page/サンダーバード-your_voice-.md "wikilink")**※
@@ -174,12 +174,12 @@
       -
         作詞・作曲・編曲：HIKARI
     <!-- end list -->
-      - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系『[学校へ行こう\!MAX](https://ja.wikipedia.org/wiki/学校へ行こう!MAX "wikilink")』テーマソング
+      - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系『[学校へ行こう\!MAX](../Page/学校へ行こう!MAX.md "wikilink")』テーマソング
 15. **タイムカプセル**
       -
         作詞・作曲：森元康介、編曲：小幡英之・[チダタカシ](https://ja.wikipedia.org/wiki/チダタカシ "wikilink")
     <!-- end list -->
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[VivaVivaV6](https://ja.wikipedia.org/wiki/VivaVivaV6 "wikilink")』テーマソング
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[VivaVivaV6](../Page/VivaVivaV6.md "wikilink")』テーマソング
 
 #### 生産限定盤A
 
@@ -198,7 +198,7 @@
       - 7thアルバム収録曲
 10. **[ちぎれた翼](../Page/Replay〜Best_of_20th_Century〜.md "wikilink")** - 20th Century
       -
-        作詞：MIZUE、作曲：[中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")、編曲：鈴木雅也
+        作詞：MIZUE、作曲：[中野雄太](../Page/中野雄太.md "wikilink")、編曲：鈴木雅也
     <!-- end list -->
       - 20th Centuryのベストアルバム「Replay 〜Best of 20th Century〜」収録曲
 11. **[夏のメモリー](../Page/Volume_6.md "wikilink")** - 20th Century
@@ -237,22 +237,22 @@
 6.  BREAKTHROUGH
 7.  INNOCENCE
 8.  それぞれの空
-9.  **[Over Drive](../Page/Volume_6.md "wikilink")** - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
+9.  **[Over Drive](../Page/Volume_6.md "wikilink")** - [長野博](../Page/長野博.md "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
       -
         作詞・作曲・編曲：[GENEPOOL](https://ja.wikipedia.org/wiki/GENEPOOL "wikilink")
     <!-- end list -->
       - 6thアルバム収録曲
-10. **[JUST YOU CAN MAKE ME HIGH](../Page/Volume_6.md "wikilink")** - [坂本昌行](https://ja.wikipedia.org/wiki/坂本昌行 "wikilink")・[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")
+10. **[JUST YOU CAN MAKE ME HIGH](../Page/Volume_6.md "wikilink")** - [坂本昌行](../Page/坂本昌行.md "wikilink")・[岡田准一](../Page/岡田准一.md "wikilink")
       -
         作詞・作曲・編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
     <!-- end list -->
       - 6thアルバム収録曲
-11. **[Top Checker](../Page/Volume_6.md "wikilink")** - Coming Century feat.[井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")
+11. **[Top Checker](../Page/Volume_6.md "wikilink")** - Coming Century feat.[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
       -
         作詞：[浦塚勝人](https://ja.wikipedia.org/wiki/浦塚勝人 "wikilink")、作曲・編曲：笹本安詞
     <!-- end list -->
       - 6thアルバム収録曲
-12. **[X, T, C beat](../Page/Volume_6.md "wikilink")** - 20th Century feat.[三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink")
+12. **[X, T, C beat](../Page/Volume_6.md "wikilink")** - 20th Century feat.[三宅健](../Page/三宅健.md "wikilink")
       -
         作詞：[比留間徹](https://ja.wikipedia.org/wiki/比留間徹 "wikilink")、作曲編曲：[大坪直樹](https://ja.wikipedia.org/wiki/大坪直樹 "wikilink")
     <!-- end list -->

@@ -11,7 +11,7 @@
   -
     <ce>{R_{F}CF = CF2} + AgF -\> R_{F}CF(CF3)Ag</ce>
 
-1価以外のフッ化銀も存在する（記事 [フッ化銀](https://ja.wikipedia.org/wiki/フッ化銀 "wikilink") を参照のこと）。
+1価以外のフッ化銀も存在する（記事 [フッ化銀](../Page/フッ化銀.md "wikilink") を参照のこと）。
 
 ## 参考文献
 

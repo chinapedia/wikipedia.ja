@@ -1,7 +1,7 @@
 > この記事は[AWAKE \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/AWAKE_\(L\'ArcenCiel\))から翻訳されています。
 
 
-『**AWAKE**』(アウェイク) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の10作目の[アルバム](../Page/アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**AWAKE**』(アウェイク) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の10作目の[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -11,16 +11,16 @@
 
 アルバムの核となるテーマは[戦争](../Page/戦争.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")、[平和](../Page/平和.md "wikilink")等といった[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")の思想が先行しており、「無償の愛」が一つのテーマになっている。これまでのアルバムと比較し、メッセージ性の強い歌詞が多く収録されており、hydeは「ラルクの曲はキャッチーだから、パッと聴きの耳障りは悪くないと思うんですけど、深い部分では今作は全然異質だと思う」「芸術が世界に対して何かをできるっていうことは俺にはあんまりわかんない。ただ言わずにはいられなかった」と述べている\[2\]。kenはアルバムを「お手紙みたい」と表現している。作曲もhydeの割合が12曲中5曲（合作曲「New World」を含めると6曲）と他アルバムに比べ最も高い。
 
-ちなみに、収録曲「My Dear」と「Ophelia」の2曲はhydeがソロ名義の[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")として発表した1stアルバム『[ROENTGEN](https://ja.wikipedia.org/wiki/ROENTGEN "wikilink")』のレコーディング時に制作されていた楽曲\[3\]で、次作である2ndアルバム『[666](https://ja.wikipedia.org/wiki/666_\(HYDEのアルバム\) "wikilink")』の当初のコンセプトに向けてストックしていた曲をリアレンジしたものである。
+ちなみに、収録曲「My Dear」と「Ophelia」の2曲はhydeがソロ名義の[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")として発表した1stアルバム『[ROENTGEN](../Page/ROENTGEN.md "wikilink")』のレコーディング時に制作されていた楽曲\[3\]で、次作である2ndアルバム『[666](../Page/666_\(HYDEのアルバム\).md "wikilink")』の当初のコンセプトに向けてストックしていた曲をリアレンジしたものである。
 
-オリジナルアルバムでは8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来の4年10ヶ月ぶり、6作目の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を初登場で獲得。同年[9月20日](../Page/9月20日.md "wikilink")には、前作と同じく[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Tofu Recordsから](https://ja.wikipedia.org/wiki/w:Tofu_Records "wikilink")[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")1曲を追加し発売された。
+オリジナルアルバムでは8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来の4年10ヶ月ぶり、6作目の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を初登場で獲得。同年[9月20日](../Page/9月20日.md "wikilink")には、前作と同じく[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Tofu Recordsから](https://ja.wikipedia.org/wiki/w:Tofu_Records "wikilink")[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")1曲を追加し発売された。
 
 初回限定版は紙製デジパック、スーパーピクチャーレーベル仕様。
 
 ## 収録曲
 
-1.  **[New World](https://ja.wikipedia.org/wiki/New_World_\(L'Arc〜en〜Cielの曲\) "wikilink")**
-      - 作詞:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 英語訳詞:[Anis](../Page/MONORAL.md "wikilink") / 作曲:yukihiro・[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")
+1.  **[New World](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
+      - 作詞:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 英語訳詞:[Anis](../Page/MONORAL.md "wikilink") / 作曲:yukihiro・[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink")
     <!-- end list -->
       -
         26thシングル。yukihiroが作詞を担当し、シングル曲としては初のhyde以外の詞であり、作曲はhydeとyukihiroの合作。yukihiro加入後、初めての合作作品である。
@@ -28,10 +28,10 @@
       - 作詞:hyde / 英語訳詞:[Lynne Hobday](https://ja.wikipedia.org/wiki/リン・ホブデイ "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        同年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")公開の[松竹](../Page/松竹.md "wikilink")配給映画『[劇場版 鋼の錬金術師 シャンバラを征く者](https://ja.wikipedia.org/wiki/劇場版_鋼の錬金術師_シャンバラを征く者 "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
-        [歌詞](../Page/歌詞.md "wikilink")は劇場版のスタッフと話し合って作られた。歌詞に関してhydeは「たった一つの楽園などなく人それぞれが思い描く楽園があるということを言いたかった」と述べている。このアルバム発売後に発売された28thシングル「[Link](https://ja.wikipedia.org/wiki/Link_\(L'Arc〜en〜Cielの曲\) "wikilink")」は[オープニングテーマに起用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
-        yukihiroはリズムが跳ねるドラムプレイを意識したと語っており、[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")を意識したと述べている\[4\]。
-3.  **[叙情詩](https://ja.wikipedia.org/wiki/叙情詩_\(曲\) "wikilink")**
+        同年[7月23日](../Page/7月23日.md "wikilink")公開の[松竹](../Page/松竹.md "wikilink")配給映画『[劇場版 鋼の錬金術師 シャンバラを征く者](../Page/劇場版_鋼の錬金術師_シャンバラを征く者.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")。
+        [歌詞](../Page/歌詞.md "wikilink")は劇場版のスタッフと話し合って作られた。歌詞に関してhydeは「たった一つの楽園などなく人それぞれが思い描く楽園があるということを言いたかった」と述べている。このアルバム発売後に発売された28thシングル「[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink")」は[オープニングテーマに起用された](../Page/主題歌.md "wikilink")。
+        yukihiroはリズムが跳ねるドラムプレイを意識したと語っており、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")を意識したと述べている\[4\]。
+3.  **[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")**
       - 作詞:hyde / 英語訳詞:Anis / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
@@ -40,9 +40,9 @@
       - 作詞:hyde / 英語訳詞:Anis / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        作曲者のtetsuya曰く、「『tetsuの曲は明るい[ポップなものばかりだ](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")\!』という人達への『もうちょっと深みのあるマイナーな曲も書けるってところを…』みせるためのアンチテーゼとして書いた」そう。アルバム曲では本作唯一のtetsuya作曲で、前作『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に続いて1曲のみの収録となった。なお、tetsuyaはライブではこの曲を[ギター](../Page/ギター.md "wikilink")と[ベースが合体した](../Page/エレクトリックベース.md "wikilink")[ダブルネックを用いて演奏する](https://ja.wikipedia.org/wiki/ダブルネック・ギター "wikilink")。また、ライブでhydeは歌詞の最後の「きっと夢のような世界」を「僕は生まれていいの？」と変えて歌っている。
+        作曲者のtetsuya曰く、「『tetsuの曲は明るい[ポップなものばかりだ](../Page/ポップ・ミュージック.md "wikilink")\!』という人達への『もうちょっと深みのあるマイナーな曲も書けるってところを…』みせるためのアンチテーゼとして書いた」そう。アルバム曲では本作唯一のtetsuya作曲で、前作『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に続いて1曲のみの収録となった。なお、tetsuyaはライブではこの曲を[ギター](../Page/ギター.md "wikilink")と[ベースが合体した](../Page/エレクトリックベース.md "wikilink")[ダブルネックを用いて演奏する](https://ja.wikipedia.org/wiki/ダブルネック・ギター "wikilink")。また、ライブでhydeは歌詞の最後の「きっと夢のような世界」を「僕は生まれていいの？」と変えて歌っている。
         [2015年](../Page/2015年.md "wikilink")に行われたライブ「[L'Arc〜en〜Ciel LIVE 2015 L'ArCASINO](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2015_L'ArCASINO "wikilink")」において、2005年に開催されたコンサートツアー「AWAKE TOUR 2005」以来10年ぶりにライブで披露された。
-5.  **[Killing Me](https://ja.wikipedia.org/wiki/Killing_Me "wikilink")**
+5.  **[Killing Me](../Page/Killing_Me.md "wikilink")**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
@@ -53,21 +53,21 @@
       -
         [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")『サッカープレミアム』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")。
         1コーラスと2コーラスの冒頭の詞以外[英語](../Page/英語.md "wikilink")詞の曲。詞の内容は同じ過ちを繰り返す歴史を愚かだと非難したもの。また、曲中にyukihiroによる[スクラッチが存在する](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")。
-        アルバム発売時に[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』で[演奏](../Page/演奏.md "wikilink")され、後に[NHK総合テレビ音楽番組](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[POP JAM最終回1時間スペシャル](https://ja.wikipedia.org/wiki/ポップジャム#最終回スペシャル "wikilink")』では、「Link」と共に披露された。
+        アルバム発売時に[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』で[演奏](../Page/演奏.md "wikilink")され、後に[NHK総合テレビ音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[POP JAM最終回1時間スペシャル](https://ja.wikipedia.org/wiki/ポップジャム#最終回スペシャル "wikilink")』では、「Link」と共に披露された。
 7.  **My Dear**
       - 作詞・作曲:hyde / 英語訳詞:Anis / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         hydeのソロ曲になる予定もあった[バラード](../Page/バラード.md "wikilink")。hydeは楽曲のアレンジについてバンドの化学反応の凄さを感じたといい、「ああいうアレンジは俺にはできないなって思った」「俺がやってたらもっと普通になってたと思う」と述べている\[5\]。
         yukihiro曰くアルバムの中で特にお気に入りの曲であり、「この曲がアルバムの肝だと思ってるんですよ、個人的には\[6\]」と述べている。
-        この曲は[ギター](../Page/ギター.md "wikilink")が使われないため、レコーディング及びライブではkenはギターを持たずに全ての[コーラスを担当する](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。しかし、ライブツアー「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」では一転し[キーボードを演奏](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、ギターパートも追加された。
+        この曲は[ギター](../Page/ギター.md "wikilink")が使われないため、レコーディング及びライブではkenはギターを持たずに全ての[コーラスを担当する](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。しかし、ライブツアー「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」では一転し[キーボードを演奏](../Page/キーボード_\(楽器\).md "wikilink")、ギターパートも追加された。
         [2011年](../Page/2011年.md "wikilink")には[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")にリアレンジされ、39thシングル「[CHASE](https://ja.wikipedia.org/wiki/CHASE_\(L'Arc〜en〜Cielの曲\) "wikilink")」に「My Dear -L'Acoustic version-」として収録されている。
 8.  **EXISTENCE**
       - 作詞:hyde / 英語訳詞:Anis / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         無責任に突っ走れるハードな路線を意識したという曲。
-9.  **[自由への招待](https://ja.wikipedia.org/wiki/自由への招待 "wikilink")**
+9.  **[自由への招待](../Page/自由への招待.md "wikilink")**
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
@@ -77,7 +77,7 @@
     <!-- end list -->
       -
         「My Dear」同様、hydeのソロ曲になる予定もあった[ジャズ](../Page/ジャズ.md "wikilink")テイストに溢れる曲。
-        タイトルは[シェイクスピア作の](../Page/ウィリアム・シェイクスピア.md "wikilink")[悲劇](https://ja.wikipedia.org/wiki/悲劇 "wikilink")『[ハムレット](../Page/ハムレット.md "wikilink")』に登場する、ハムレットの婚約者[オフィーリア](https://ja.wikipedia.org/wiki/オフィーリア "wikilink")から取られたもの。
+        タイトルは[シェイクスピア作の](../Page/ウィリアム・シェイクスピア.md "wikilink")[悲劇](../Page/悲劇.md "wikilink")『[ハムレット](../Page/ハムレット.md "wikilink")』に登場する、ハムレットの婚約者[オフィーリア](https://ja.wikipedia.org/wiki/オフィーリア "wikilink")から取られたもの。
         [三宅純](../Page/三宅純.md "wikilink")による[フリューゲルホルン](../Page/フリューゲルホルン.md "wikilink")のパートがあるが、ライブではhydeがそれを[サックスで演奏する](../Page/サクソフォーン.md "wikilink")。
         歪んだベースは、[エレクトロ・ハーモニックス](../Page/エレクトロ・ハーモニックス.md "wikilink")社のエフェクター「Graphic-Fuzz」のヴィンテージ品を用いて演奏している\[8\]。
 11. **星空**
@@ -86,16 +86,16 @@
       -
         平和をテーマにしたバラード。歌詞は制作当時に勃発した[イラク戦争](../Page/イラク戦争.md "wikilink")を受け、子供たちの気持ちになって書かれたものである。
         アルバムツアー「AWAKE TOUR 2005」の他、「[TOUR 2008 L'7 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/TOUR_2008_L'7_〜Trans_ASIA_via_PARIS〜 "wikilink")」でもアンコールのラストで演奏された。
-        また、「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」のライブグッズの中に、この曲名にちなんでか「星ゾライト」という[サイリウムがある](https://ja.wikipedia.org/wiki/ケミカルライト "wikilink")。
+        また、「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」のライブグッズの中に、この曲名にちなんでか「星ゾライト」という[サイリウムがある](../Page/ケミカルライト.md "wikilink")。
 12. **twinkle, twinkle**
       - 作詞・作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        2005年9月から中国全土にて[王子ネピア](https://ja.wikipedia.org/wiki/王子ネピア "wikilink")「nepia」CMソングに起用されている。
+        2005年9月から中国全土にて[王子ネピア](../Page/王子ネピア.md "wikilink")「nepia」CMソングに起用されている。
         希望を持たせた本作のラストナンバー。前作収録の「[Lover Boy](https://ja.wikipedia.org/wiki/SMILE_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」に次ぐken作詞曲である。
         歌詞についてkenは「優しい気分で、信頼という言葉を感じながら作れたなと思います\[9\]」と述べている。
-        kenは「[盆踊り](../Page/盆踊り.md "wikilink")のような皆で楽しめる音を目指した」という。また、yukihiro曰くドラム録りに関してkenから「[スマッシング・パンプキンズ](https://ja.wikipedia.org/wiki/スマッシング・パンプキンズ "wikilink")のドラマーが叩いているような感じ\[10\]」というリクエストがあったという。この曲では、tetsuyaがベースを終始[スラップで演奏している](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")\[11\]。
-13. **[HEAVEN'S DRIVE](https://ja.wikipedia.org/wiki/HEAVEN'S_DRIVE "wikilink") (live at Yoyogi National Stadium June 26, 2004)**
+        kenは「[盆踊り](../Page/盆踊り.md "wikilink")のような皆で楽しめる音を目指した」という。また、yukihiro曰くドラム録りに関してkenから「[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")のドラマーが叩いているような感じ\[10\]」というリクエストがあったという。この曲では、tetsuyaがベースを終始[スラップで演奏している](../Page/スラップ奏法.md "wikilink")\[11\]。
+13. **[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink") (live at Yoyogi National Stadium June 26, 2004)**
       - 作詞・作曲:hyde
     <!-- end list -->
       -
@@ -107,7 +107,7 @@
 
   - hyde：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - ken：[Guitars](../Page/ギター.md "wikilink")
-  - tetsu：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - tetsu：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - yukihiro：[Drums](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - yukihiro：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")・[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")
+  - yukihiro：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")
   - 原裕之：レコーディング、ミックス
 
 <!-- end list -->
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [菅原弘明](https://ja.wikipedia.org/wiki/菅原弘明 "wikilink")：キーボード編曲、キーボード・プログラミング
+  - [菅原弘明](../Page/菅原弘明.md "wikilink")：キーボード編曲、キーボード・プログラミング
   - ken：キーボード編曲
   - 比留間整：レコーディング、ミックス
 
@@ -155,7 +155,7 @@
   - Suzie Katayama：チェロ
   - Dan Smith：チェロ
   - Earle Dumler：[オーボエ](../Page/オーボエ.md "wikilink")
-  - ken：キーボード・[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - ken：キーボード・[マニピュレート](../Page/マニピュレーター.md "wikilink")
   - yukihiro：タンバリン
   - Malcolm Lurker：レコーディング
   - 比留間整：レコーディング、ミックス
@@ -215,7 +215,7 @@
   - 岡野ハジメ：キーボード
   - ken：キーボード・マニピュレート、タンバリン
   - 斎藤仁: マニピュレート
-  - [衛藤利恵](https://ja.wikipedia.org/wiki/衛藤利恵 "wikilink"): バッキングボーカル
+  - [衛藤利恵](../Page/衛藤利恵.md "wikilink"): バッキングボーカル
   - 原裕之：レコーディング、ミックス
 
 <!-- end list -->

@@ -5,14 +5,14 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")、TEENS'MUSIC FESTIVALに出場し、ティーンズ大賞を受賞する。大賞受賞曲となった「明日に向かって」で[Virgin Musicメジャーデビュー](../Page/Virgin_Music.md "wikilink")。さらに、映画「[ビートキッズ](https://ja.wikipedia.org/wiki/ビートキッズ "wikilink")」のオーディションを受け合格し出演している。元気で飾り付けないストレートな歌詞が魅力。若いリスナーにメッセージを送り続けていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")春に解散した。
+[2003年](../Page/2003年.md "wikilink")、TEENS'MUSIC FESTIVALに出場し、ティーンズ大賞を受賞する。大賞受賞曲となった「明日に向かって」で[Virgin Musicメジャーデビュー](../Page/Virgin_Music.md "wikilink")。さらに、映画「[ビートキッズ](https://ja.wikipedia.org/wiki/ビートキッズ "wikilink")」のオーディションを受け合格し出演している。元気で飾り付けないストレートな歌詞が魅力。若いリスナーにメッセージを送り続けていたが、[2006年](../Page/2006年.md "wikilink")春に解散した。
 その後、古河(ba)と森口(dr)に女性ボーカルを加えた３人で [ケラケラ](https://ja.wikipedia.org/wiki/ケラケラ "wikilink") というバンドを結成。都内を中心に活動中。古河の書く繊細な詩と心に残る音は変わらないまま。
 
 ## メンバー
 
-  - **市道信義** （いちみち のぶよし、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")-、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[和泉市](../Page/和泉市.md "wikilink")出身、AB型）‐[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")　「いっちゃん」と親しまれていた。
+  - **市道信義** （いちみち のぶよし、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")-、[大阪府](../Page/大阪府.md "wikilink")[和泉市](../Page/和泉市.md "wikilink")出身、AB型）‐[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")　「いっちゃん」と親しまれていた。
   - **田中康平** （たなか こうへい、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月26日](../Page/12月26日.md "wikilink")-、大阪府和泉市出身、O型）‐[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")「コーへー」と親しまれていた。
-  - **古河弘基** （ふるかわ ひろき、1986年[10月7日](../Page/10月7日.md "wikilink")-、大阪府和泉市出身、B型）‐[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・コーラス「ふるっぺ」で親しまれていた。
+  - **古河弘基** （ふるかわ ひろき、1986年[10月7日](../Page/10月7日.md "wikilink")-、大阪府和泉市出身、B型）‐[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス「ふるっぺ」で親しまれていた。
   - **森口貴大** （もりぐち たかひろ、1986年[8月14日](../Page/8月14日.md "wikilink")-、大阪府和泉市出身、AB型）‐[ドラム](../Page/ドラムセット.md "wikilink")・コーラス「森さん」で親しまれていた。
 
 ## ディスコグラフィー
@@ -41,8 +41,8 @@
 <li>初恋物語</li>
 </ol></td>
 <td><p>オリコン最高50位<br />
-<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>のエンディングテーマ、<a href="https://ja.wikipedia.org/wiki/ボクらの太陽" title="wikilink">続・ボクらの太陽CMソング</a>。<br />
-2004年5月度<a href="https://ja.wikipedia.org/wiki/ミューパライチ押しナンバー" title="wikilink">ミューパライチ押しナンバー</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>のエンディングテーマ、<a href="../Page/ボクらの太陽.md" title="wikilink">続・ボクらの太陽CMソング</a>。<br />
+2004年5月度<a href="../Page/ミューパライチ押しナンバー.md" title="wikilink">ミューパライチ押しナンバー</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -272,13 +272,13 @@ NTV系「女優魂」エンディング・テーマ</p></td>
   - 2004年05月04日 - 「[Mの黙示録](../Page/Mの黙示録.md "wikilink")」
   - 2004年10月08日 - 「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」
   - 2005年03月18日 - 「[音遊人](https://ja.wikipedia.org/wiki/音遊人 "wikilink")」
-  - 2005年09月17日 - 「[開運音楽堂](https://ja.wikipedia.org/wiki/開運音楽堂 "wikilink")」
+  - 2005年09月17日 - 「[開運音楽堂](../Page/開運音楽堂.md "wikilink")」
 
 ## 関連項目
 
   - [TEENS' MUSIC FESTIVAL](https://ja.wikipedia.org/wiki/TEENS'_MUSIC_FESTIVAL "wikilink")
   - [餃子大王](https://ja.wikipedia.org/wiki/餃子大王 "wikilink")
-  - [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+  - [亀田誠治](../Page/亀田誠治.md "wikilink")
   - [ケラケラ](https://ja.wikipedia.org/wiki/ケラケラ "wikilink")
   - [平義隆](https://ja.wikipedia.org/wiki/平義隆 "wikilink")
 

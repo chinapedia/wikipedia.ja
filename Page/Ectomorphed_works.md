@@ -1,15 +1,15 @@
 > この記事は[Ectomorphed works](https://ja.wikipedia.org/wiki/Ectomorphed_works)から翻訳されています。
 
 
-『**ectomorphed works**』（エクトモーフト ワークス）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**ectomorphed works**』（エクトモーフト ワークス）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-本アルバムは[ドラマー](../Page/ドラマー.md "wikilink")である[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に加入して以来担当してきた[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")の分野の集大成となるアルバム。また、本作は[2001年](../Page/2001年.md "wikilink")にyukihiroの[ソロプロジェクトとして結成される](../Page/一人バンド.md "wikilink")[acid androidの礎となる作品でもある](https://ja.wikipedia.org/wiki/acid_android "wikilink")。タイトルの『ectomorphed』は"外側から再形成する"という意味の造語\[1\]。
+本アルバムは[ドラマー](../Page/ドラマー.md "wikilink")である[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に加入して以来担当してきた[リミックス](../Page/リミックス.md "wikilink")の分野の集大成となるアルバム。また、本作は[2001年](../Page/2001年.md "wikilink")にyukihiroの[ソロプロジェクトとして結成される](../Page/一人バンド.md "wikilink")[acid androidの礎となる作品でもある](https://ja.wikipedia.org/wiki/acid_android "wikilink")。タイトルの『ectomorphed』は"外側から再形成する"という意味の造語\[1\]。
 
 ほとんどの楽曲は[シングル](../Page/シングル.md "wikilink")の[カップリングとして初収録されたものであり](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")、本作はyukihiroがそれに別[アレンジを加え収録している](../Page/編曲.md "wikilink")。そのため、他のメンバーはほとんど制作に携わっておらず、本作について[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は「自分としては彼のソロ・ワークと理解している\[2\]」と述べている。
 
-yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/ken "wikilink")作曲による楽曲のリミックスの対象となっていることについて、「僕にとっては、彼の曲は世界観がわかりやすいから\[3\]」と述べている。また、アルバム制作に関してyukihiroは「他のアーティストのリミックス・アルバムは、途中までの作業は本人がやっていても最後の[トラック・ダウンは別の人がやる](https://ja.wikipedia.org/wiki/ミキシング "wikilink")、というものが多かった。この作品は、最後のトラック・ダウンまで自分でやったものを作った」「なんか悔しいじゃないですか、誰かにいじられることでカッコ良くなったら」と述べている\[4\]。
+yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/ken "wikilink")作曲による楽曲のリミックスの対象となっていることについて、「僕にとっては、彼の曲は世界観がわかりやすいから\[3\]」と述べている。また、アルバム制作に関してyukihiroは「他のアーティストのリミックス・アルバムは、途中までの作業は本人がやっていても最後の[トラック・ダウンは別の人がやる](../Page/ミキシング.md "wikilink")、というものが多かった。この作品は、最後のトラック・ダウンまで自分でやったものを作った」「なんか悔しいじゃないですか、誰かにいじられることでカッコ良くなったら」と述べている\[4\]。
 
 初回限定盤は2面デジパック仕様。また、本作はラルクのアルバムでは初となる[LP盤もリリースされている](../Page/レコード.md "wikilink")。
 
@@ -17,7 +17,7 @@ yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/
 
 ### CD
 
-全[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink"):[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")
+全[リミックス](../Page/リミックス.md "wikilink"):[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")
 
 1.  **[larva](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink") (ectomorphed long mix)**
       - 作曲:yukihiro
@@ -29,18 +29,18 @@ yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/
     <!-- end list -->
       -
         7thアルバム『ray』収録曲のリミックス。このリミックスとは別バージョンの「new wave of japanese heavy metal mix」が、19thシングル「[NEO UNIVERSE／finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」に収録されている。
-3.  **[花葬](https://ja.wikipedia.org/wiki/花葬 "wikilink") (0628 mix)**
+3.  **[花葬](../Page/花葬.md "wikilink") (0628 mix)**
       - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink")
     <!-- end list -->
       -
-        11thシングル「花葬」のリミックス。このリミックスとは別バージョンの「1014 mix」が、14thシングル「[forbidden lover](https://ja.wikipedia.org/wiki/forbidden_lover "wikilink")」、ベストアルバム『[The Best of L'Arc〜en〜Ciel c/w](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』に収録されている。
+        11thシングル「花葬」のリミックス。このリミックスとは別バージョンの「1014 mix」が、14thシングル「[forbidden lover](https://ja.wikipedia.org/wiki/forbidden_lover "wikilink")」、ベストアルバム『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』に収録されている。
 4.  **[fate](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") (everybody knows but god mix)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
-        5thアルバム『HEART』収録曲のリミックス。このリミックスとは別バージョンの「fake fate mix」が、16thシングル「[Pieces](https://ja.wikipedia.org/wiki/Pieces_\(L'Arc〜en〜Cielの曲\) "wikilink")」に収録されている。
-        [プレイステーション用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『[ディノクライシス2](https://ja.wikipedia.org/wiki/ディノクライシス2 "wikilink")』イメージソングに起用され、ゲームとのコラボ映像が制作された\[5\]。
-5.  **[浸食 〜lose control〜](https://ja.wikipedia.org/wiki/浸食_〜lose_control〜 "wikilink") (ectoborn mix)**
+        5thアルバム『HEART』収録曲のリミックス。このリミックスとは別バージョンの「fake fate mix」が、16thシングル「[Pieces](../Page/Pieces_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に収録されている。
+        [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[ディノクライシス2](https://ja.wikipedia.org/wiki/ディノクライシス2 "wikilink")』イメージソングに起用され、ゲームとのコラボ映像が制作された\[5\]。
+5.  **[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink") (ectoborn mix)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
@@ -59,17 +59,17 @@ yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/
       - 作詞:hyde / 作曲:yukihiro
     <!-- end list -->
       -
-        6thアルバム『ark』収録曲のリミックス。このリミックスとは別バージョンの「down to the earth mix」が、17thシングル「[Driver's High](https://ja.wikipedia.org/wiki/Driver's_High "wikilink")」に収録されている。
+        6thアルバム『ark』収録曲のリミックス。このリミックスとは別バージョンの「down to the earth mix」が、17thシングル「[Driver's High](../Page/Driver's_High.md "wikilink")」に収録されている。
 9.  **[真実と幻想と](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink") (out of the reality mix \#2)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
-        6thアルバム『ark』収録曲のリミックス。このリミックスとは別バージョンの「out of the reality mix」が、18thシングル「[LOVE FLIES](https://ja.wikipedia.org/wiki/LOVE_FLIES "wikilink")」に収録されている。
+        6thアルバム『ark』収録曲のリミックス。このリミックスとは別バージョンの「out of the reality mix」が、18thシングル「[LOVE FLIES](../Page/LOVE_FLIES.md "wikilink")」に収録されている。
 10. **[metropolis](https://ja.wikipedia.org/wiki/winter_fall "wikilink") (android goes to be a deep sleep mix)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
-        8thシングル「winter fall」のカップリング曲のリミックス。このリミックスとは別バージョンの「android goes to sleep mix」が、15thシングル「[HEAVEN'S DRIVE](https://ja.wikipedia.org/wiki/HEAVEN'S_DRIVE "wikilink")」に収録されている。
+        8thシングル「winter fall」のカップリング曲のリミックス。このリミックスとは別バージョンの「android goes to sleep mix」が、15thシングル「[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")」に収録されている。
         収録時間は9分59秒と、「android goes to sleep mix」と並んでL'Arc〜en〜Cielの作品では最も長い。
 
 ### LP

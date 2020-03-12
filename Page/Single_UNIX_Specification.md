@@ -7,7 +7,7 @@
 
 [1980年代](../Page/1980年代.md "wikilink")中頃、様々なUNIX系OSの[インタフェースを標準化するプロジェクトが開始され](../Page/インタフェース_\(情報技術\).md "wikilink")、これらがSUSの元となった。標準化の必要性は様々なベンダーのシステムを使っている企業の要望によるもので、ベンダーの異なるシステムでのソフトウェア移植のコストをなるべく減らしたいということから始まった。その標準化のベースとしてUNIXが選択された。というのもUNIXはベンダーに依存していない中立なOSと考えられたからである。
 
-この標準化作業の結果できたのが1988年の **IEEE 1003**（**[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IEC](https://ja.wikipedia.org/wiki/国際電気標準会議 "wikilink") 9945**としても登録された）または**[POSIX](../Page/POSIX.md "wikilink")** (Portable Operating System Interface for uniX) である。
+この標準化作業の結果できたのが1988年の **IEEE 1003**（**[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IEC](../Page/国際電気標準会議.md "wikilink") 9945**としても登録された）または**[POSIX](../Page/POSIX.md "wikilink")** (Portable Operating System Interface for uniX) である。
 
 [1990年代](../Page/1990年代.md "wikilink")初期、それとは別に[UNIX戦争](../Page/UNIX戦争.md "wikilink")の結果として、いくつかの主要ベンダーが[COSEアライアンスを結成し](../Page/Common_Open_Software_Environment.md "wikilink")、Common API Specification または Spec 1170 と呼ばれる仕様を策定した。この仕様は無料で入手可能であったため、IEEEがアクセス料を徴収したPOSIXよりも一般化した。
 
@@ -43,10 +43,10 @@ SUSv3 は全部で3700ページに及び、テーマ別に以下の4つに分け
 
   - **Base Definitions (XBD)** - 仕様記述に使われる定義と約束事のリストと、準拠するシステムが必ず提供しなければならない[C言語](../Page/C言語.md "wikilink")の[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink")のリスト。全部で84のヘッダファイルが提供されている。
   - **Shell and Utilities (XCU)** - ユーティリティ（コマンド）のリストとシェル [sh](https://ja.wikipedia.org/wiki/Bourne_shell "wikilink") の詳細。全部で160のユーティリティが示されている。
-  - **System Interfaces (XSH)** - 提供しなければならない[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")とC[ライブラリ](../Page/ライブラリ.md "wikilink")の詳細。全部で1123のシステムインタフェースが示されている。
+  - **System Interfaces (XSH)** - 提供しなければならない[システムコール](../Page/システムコール.md "wikilink")とC[ライブラリ](../Page/ライブラリ.md "wikilink")の詳細。全部で1123のシステムインタフェースが示されている。
   - **Rationale (XRAT)** - この標準についての解説
 
-この標準でのユーザのコマンドラインインターフェイスとスクリプトインターフェイスは[POSIX](../Page/POSIX.md "wikilink")シェルであり、[KornShell](https://ja.wikipedia.org/wiki/KornShell "wikilink") の初期バージョンをベースにした拡張版 [Bourne Shell](https://ja.wikipedia.org/wiki/Bourne_Shell "wikilink") である。他のユーザレベルのプログラムやサービス、ユーティリティとしては、[awk](../Page/AWK.md "wikilink")、[echo](../Page/エコー_\(コンピュータ\).md "wikilink")、[ed](https://ja.wikipedia.org/wiki/ed "wikilink")、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")などが含まれる。プログラムレベルで要求されているサービスとしては、[I/O](../Page/入出力.md "wikilink")（[ファイル](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、[端末](../Page/端末.md "wikilink")、[ネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")）サービスなどがある。標準にはテストプログラム集が付随していて、**PCTS** (**Posix Certification Test Suite**) と呼ばれている。
+この標準でのユーザのコマンドラインインターフェイスとスクリプトインターフェイスは[POSIX](../Page/POSIX.md "wikilink")シェルであり、[KornShell](../Page/KornShell.md "wikilink") の初期バージョンをベースにした拡張版 [Bourne Shell](../Page/Bourne_Shell.md "wikilink") である。他のユーザレベルのプログラムやサービス、ユーティリティとしては、[awk](../Page/AWK.md "wikilink")、[echo](../Page/エコー_\(コンピュータ\).md "wikilink")、[ed](https://ja.wikipedia.org/wiki/ed "wikilink")、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")などが含まれる。プログラムレベルで要求されているサービスとしては、[I/O](../Page/入出力.md "wikilink")（[ファイル](../Page/ファイル_\(コンピュータ\).md "wikilink")、[端末](../Page/端末.md "wikilink")、[ネットワーク](../Page/コンピュータネットワーク.md "wikilink")）サービスなどがある。標準にはテストプログラム集が付随していて、**PCTS** (**Posix Certification Test Suite**) と呼ばれている。
 
 さらに、SUSには [CURSES](../Page/Curses.md "wikilink") (XCURSES) の仕様も含まれている。372の関数と3つのヘッダファイルが定義されている。これを含めると、SUSv3は全部で1742のインタフェースを定義している。
 
@@ -63,21 +63,21 @@ SUSv3 は全部で3700ページに及び、テーマ別に以下の4つに分け
 
 ## 各種OSの準拠状況
 
-  - [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink") - AIX 5L V5.2 にいくつか更新を加えたものと AIX 5L V5.3 と AIX 6.1 は UNIX 03 準拠として登録されている。AIX 5L V5.2 は UNIX 98 準拠として登録されている。
+  - [AIX](../Page/AIX.md "wikilink") - AIX 5L V5.2 にいくつか更新を加えたものと AIX 5L V5.3 と AIX 6.1 は UNIX 03 準拠として登録されている。AIX 5L V5.2 は UNIX 98 準拠として登録されている。
   - [HP-UX](../Page/HP-UX.md "wikilink") - HP-UX 11i V3 Release B.11.31 は UNIX 03 準拠として登録されている。それ以前のリリースは UNIX 95 として登録されていた。
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") - UNIXを標榜しつつも長らくSUSを取得していなかったが、[Mac OS X v10.5 Leopard](../Page/Mac_OS_X_v10.5.md "wikilink")\[12\]\[13\]以降が Open Brand UNIX 03 に登録されている\[14\]。
       - [macOS Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink") - Leopard同様、Mac OS X Server v10.5 で Open Brand UNIX 03 に登録された\[15\]。
   - SCO
-      - [UnixWare](https://ja.wikipedia.org/wiki/UnixWare "wikilink") 7.1.3 は UNIX 95 準拠として登録されている。
+      - [UnixWare](../Page/UnixWare.md "wikilink") 7.1.3 は UNIX 95 準拠として登録されている。
       - [OpenServer](https://ja.wikipedia.org/wiki/OpenServer "wikilink") 5 は UNIX 93 準拠として登録されている。
   - [Solaris](../Page/Solaris.md "wikilink") - Solaris 10 は UNIX 03 準拠として登録されている（[富士通](../Page/富士通.md "wikilink")が登録）。Solaris 8 および 9 は UNIX 98 準拠として登録されている。
-  - [Tru64 UNIX](https://ja.wikipedia.org/wiki/Tru64_UNIX "wikilink") - Tru64 UNIX V5.1A およびその後のリリースは UNIX 98 準拠として登録されている。
+  - [Tru64 UNIX](../Page/Tru64_UNIX.md "wikilink") - Tru64 UNIX V5.1A およびその後のリリースは UNIX 98 準拠として登録されている。
   - [z/OS](https://ja.wikipedia.org/wiki/z/OS "wikilink") - IBM z/OSは1.9以前は UNIX 95 準拠として登録されていた。2007年9月28日にリリースされた z/OS 1.9 は UNIX 03 にさらに近くなると発表した（完全準拠かどうかは不明）\[16\]。
-  - [IRIX](https://ja.wikipedia.org/wiki/IRIX "wikilink") - [SGI](../Page/シリコングラフィックス.md "wikilink") IRIX 6.5 は UNIX 95 準拠として登録されている\[17\]。
+  - [IRIX](../Page/IRIX.md "wikilink") - [SGI](../Page/シリコングラフィックス.md "wikilink") IRIX 6.5 は UNIX 95 準拠として登録されている\[17\]。
 
 ### 登録されていないUNIX系システム
 
-[Unix系](../Page/Unix系.md "wikilink")の[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")や[FreeBSD](../Page/FreeBSD.md "wikilink")などのシステムベンダーは、仕様変更が頻繁に行われるため、その度に認証を受ける必要が生じ、コストに見合わないため認証を受けないのが一般的である\[18\]。
+[Unix系](../Page/Unix系.md "wikilink")の[Linux](../Page/Linux.md "wikilink")や[FreeBSD](../Page/FreeBSD.md "wikilink")などのシステムベンダーは、仕様変更が頻繁に行われるため、その度に認証を受ける必要が生じ、コストに見合わないため認証を受けないのが一般的である\[18\]。
 
 #### BSD系
 
@@ -93,7 +93,7 @@ FreeBSD は "C99 and POSIX Conformance Project" により SUS の大部分に準
 
 [リーナス・トーバルズ](../Page/リーナス・トーバルズ.md "wikilink")は、Linuxが可能な限り POSIX互換となるよう設計した\[21\]。当初、この大部分は推測によるもので、彼はLinuxが始まってからしばらくしてPOSIX標準の印刷されたものを購入した。彼は、他のシステムの[manページ](https://ja.wikipedia.org/wiki/manページ "wikilink")を見て、システムコールの動作を決めていたとも述べている\[22\]。
 
-[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")システムには、共通な拡張、共通なデファクトスタンダードがあり、それらは [Linux Standard Base](../Page/Linux_Standard_Base.md "wikilink") から提供されている。これは、POSIX 仕様や Single UNIX Specification その他のオープン標準に基づき、それらを一部拡張しているものである。[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")として多くの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")がこれを採用している。
+[Linux](../Page/Linux.md "wikilink")システムには、共通な拡張、共通なデファクトスタンダードがあり、それらは [Linux Standard Base](../Page/Linux_Standard_Base.md "wikilink") から提供されている。これは、POSIX 仕様や Single UNIX Specification その他のオープン標準に基づき、それらを一部拡張しているものである。[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")として多くの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")がこれを採用している。
 
 ## 参考文献
 
@@ -105,7 +105,7 @@ FreeBSD は "C99 and POSIX Conformance Project" により SUS の大部分に準
   - [UNIX戦争](../Page/UNIX戦争.md "wikilink")
   - [manページ](https://ja.wikipedia.org/wiki/manページ "wikilink")
   - [POSIX](../Page/POSIX.md "wikilink")
-  - [オープンシステム](https://ja.wikipedia.org/wiki/オープンシステム_\(コンピュータ\) "wikilink")
+  - [オープンシステム](../Page/オープンシステム_\(コンピュータ\).md "wikilink")
   - [オープン標準](../Page/オープン標準.md "wikilink")
 
 ## 外部リンク

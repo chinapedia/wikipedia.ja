@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [トランスなどのテンポが速い](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")が多い構成となっている。
+  - [トランスなどのテンポが速い](../Page/トランス_\(音楽\).md "wikilink")[リミックス](../Page/リミックス.md "wikilink")が多い構成となっている。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
 2.  [words of the mind -brandnew journey-](https://ja.wikipedia.org/wiki/words_of_the_mind_-brandnew_journey- "wikilink") / remixed by WAY OUT WEST
 3.  [ROCK IT DOWN](../Page/ROCK_IT_DOWN.md "wikilink") （unnatural mix） / remixed by [NAOKI ATSUMI](https://ja.wikipedia.org/wiki/渥美尚樹 "wikilink")
 4.  [singin'4 U](../Page/Blazin'_Beat.md "wikilink") / remixed by Thomas hampton
-5.  [platinum](https://ja.wikipedia.org/wiki/platinum "wikilink") / remixed by [808ステイト](https://ja.wikipedia.org/wiki/808ステイト "wikilink")
+5.  [platinum](https://ja.wikipedia.org/wiki/platinum "wikilink") / remixed by [808ステイト](../Page/808ステイト.md "wikilink")
 6.  majestic flight （Aquila mix）/ remixed by AQUILA
 7.  knock'em out （ReTimemachined Mix） / remixed by [motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")
 8.  [around the world](https://ja.wikipedia.org/wiki/around_the_world_\(m.o.v.eの曲\) "wikilink") / remixed by WAY OUT WEST

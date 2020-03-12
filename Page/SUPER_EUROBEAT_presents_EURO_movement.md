@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [SUPER EUROBEATとの](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")作品。
-  - リミックスには[デイブ・ロジャース](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")、[ローレント・ニューフィールド](https://ja.wikipedia.org/wiki/ローレント・ニューフィールド "wikilink")、[セルジオ・ダルオラ](https://ja.wikipedia.org/wiki/セルジオ・ダルオラ "wikilink")、[ニュー・ジェネレーション](https://ja.wikipedia.org/wiki/ニュー・ジェネレーション "wikilink")、[アンドレア・レオナルディ](https://ja.wikipedia.org/wiki/アンドレア・レオナルディ "wikilink")などの[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")界の重鎮が参加している。
+  - [SUPER EUROBEATとの](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")作品。
+  - リミックスには[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")、[ローレント・ニューフィールド](https://ja.wikipedia.org/wiki/ローレント・ニューフィールド "wikilink")、[セルジオ・ダルオラ](https://ja.wikipedia.org/wiki/セルジオ・ダルオラ "wikilink")、[ニュー・ジェネレーション](https://ja.wikipedia.org/wiki/ニュー・ジェネレーション "wikilink")、[アンドレア・レオナルディ](../Page/アンドレア・レオナルディ.md "wikilink")などの[ユーロビート](../Page/ユーロビート.md "wikilink")界の重鎮が参加している。
 
 ## 収録曲
 

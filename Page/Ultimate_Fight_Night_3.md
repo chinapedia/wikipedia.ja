@@ -1,7 +1,7 @@
 > この記事は[Ultimate Fight Night 3](https://ja.wikipedia.org/wiki/Ultimate_Fight_Night_3)から翻訳されています。
 
 
-**Ultimate Fight Night 3**\[1\]（アルティメット・ファイトナイト・スリー、別名**UFC Fight Night 3**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・ジョイント](https://ja.wikipedia.org/wiki/ザ・ジョイント "wikilink")で開催された。
+**Ultimate Fight Night 3**\[1\]（アルティメット・ファイトナイト・スリー、別名**UFC Fight Night 3**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・ジョイント](https://ja.wikipedia.org/wiki/ザ・ジョイント "wikilink")で開催された。
 
 大会はSpike TVにより全米およびカナダへ無料放送された。
 
@@ -19,14 +19,14 @@
     ○  ジェイソン・フォン・フルー vs.  アレックス・カラレクシス ×
     3R 1:17 TKO（レフェリーストップ：[ヴォンフルーチョーク](https://ja.wikipedia.org/wiki/ヴォンフルーチョーク "wikilink")）
   - 第2試合 ウェルター級 5分3R
-    ○  [スペンサー・フィッシャー](https://ja.wikipedia.org/wiki/スペンサー・フィッシャー "wikilink") vs.  [アーロン・ライリー](../Page/アーロン・ライリー.md "wikilink") ×
+    ○  [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink") vs.  [アーロン・ライリー](../Page/アーロン・ライリー.md "wikilink") ×
     1R終了時 TKO（ドクターストップ）
   - 第3試合 ウェルター級 5分3R
     ○  [ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink") vs.  [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink") ×
     1R 0:11 TKO（レフェリーストップ：右ストレート）
   - 第4試合 ウェルター級 5分3R
-    ○  [ジョシュ・ニアー](https://ja.wikipedia.org/wiki/ジョシュ・ニアー "wikilink") vs.  [メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink") ×
-    1R 4:20 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    ○  [ジョシュ・ニアー](../Page/ジョシュ・ニアー.md "wikilink") vs.  [メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink") ×
+    1R 4:20 [三角絞め](../Page/三角絞め.md "wikilink")
 
 ### メインカード
 
@@ -35,10 +35,10 @@
     1R 1:44 TKO（レフェリーストップ：右フック）
   - 第6試合 ウェルター級 5分3R
     ○  [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink") vs.  ドリュー・フィケット ×
-    1R 1:07 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 1:07 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第7試合 ライトヘビー級 5分3R
-    ○  [ステファン・ボナー](https://ja.wikipedia.org/wiki/ステファン・ボナー "wikilink") vs.  [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink") ×
-    1R 4:30 [チキンウィングアームロック](https://ja.wikipedia.org/wiki/ダブルリストロック "wikilink")
+    ○  [ステファン・ボナー](../Page/ステファン・ボナー.md "wikilink") vs.  [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink") ×
+    1R 4:30 [チキンウィングアームロック](../Page/ダブルリストロック.md "wikilink")
   - 第8試合 ヘビー級 5分3R
     ○  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") vs.  [アスエリオ・シウバ](../Page/アスエリオ・シウバ.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、29-28）

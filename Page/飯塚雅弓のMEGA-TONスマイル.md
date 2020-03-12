@@ -1,7 +1,7 @@
 > この記事は[MEGA-TON](https://ja.wikipedia.org/wiki/MEGA-TON)から翻訳されています。
 
 
-『**飯塚雅弓のMEGA-TONスマイル**』（いいづかまゆみのめがとんすまいる）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")にかけて\[1\][ラジオ大阪をキーステーションに](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")、[RFラジオ日本ほかで放送されていた](../Page/アール・エフ・ラジオ日本.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[1314 V-STATION](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")）である。略称は「**メガスマ**」、「**トンスマ**」。
+『**飯塚雅弓のMEGA-TONスマイル**』（いいづかまゆみのめがとんすまいる）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")にかけて\[1\][ラジオ大阪をキーステーションに](../Page/大阪放送.md "wikilink")、[RFラジオ日本ほかで放送されていた](../Page/アール・エフ・ラジオ日本.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[1314 V-STATION](../Page/1314_V-STATION.md "wikilink")）である。略称は「**メガスマ**」、「**トンスマ**」。
 
 ## 概要
 
@@ -15,13 +15,13 @@
 
 ### アシスタント
 
-  - [那須めぐみ](https://ja.wikipedia.org/wiki/那須めぐみ "wikilink")（ - 2000年9月 ）
+  - [那須めぐみ](../Page/那須めぐみ.md "wikilink")（ - 2000年9月 ）
   - 電撃ブラザーズ（2000年10月 - 2001年3月 ）
   - 深井真美（2001年1月 - 9月 ）
-  - [奈良沙緒理](https://ja.wikipedia.org/wiki/奈良沙緒理 "wikilink")（2001年4月 - 9月）
+  - [奈良沙緒理](../Page/奈良沙緒理.md "wikilink")（2001年4月 - 9月）
   - [折笠奈緒美](https://ja.wikipedia.org/wiki/折笠奈緒美 "wikilink")（2001年10月 - 2003年3月）
   - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")（2001年11月 - 12月）
-  - [仲西環](https://ja.wikipedia.org/wiki/仲西環 "wikilink")（2003年4月 - 2004年9月）
+  - [仲西環](../Page/仲西環.md "wikilink")（2003年4月 - 2004年9月）
 
 ## コーナー
 
@@ -35,7 +35,7 @@
 
 ## ゲスト
 
-  - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink") - 2003年4月6日放送分
+  - [千葉紗子](../Page/千葉紗子.md "wikilink") - 2003年4月6日放送分
 
 ## ネット局
 
@@ -52,7 +52,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪放送" title="wikilink">ラジオ大阪</a></p></td>
+<td><p><a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪</a></p></td>
 <td><p><a href="../Page/全国ラジオネットワーク.md" title="wikilink">NRN</a></p></td>
 <td><p>毎週土曜日<br />
 24:00 - 25:00</p></td>
@@ -182,29 +182,29 @@
 </tbody>
 </table>
 
-[ラジオ大阪では](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")2002年4月6日から10月5日まで休止し、『飯塚雅弓のやさしいチカラ』と『飯塚雅弓のberry-go-round』を放送。
+[ラジオ大阪では](../Page/大阪放送.md "wikilink")2002年4月6日から10月5日まで休止し、『飯塚雅弓のやさしいチカラ』と『飯塚雅弓のberry-go-round』を放送。
 
 ## 主題歌
 
-  - オープニングテーマ「[完ペキなスマイル](https://ja.wikipedia.org/wiki/かたおもい "wikilink")」
-    作詞・作曲・編曲：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")、歌 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
-  - オープニングテーマ「[聴かせてよ君の声](https://ja.wikipedia.org/wiki/SMILE×SMILE "wikilink")」
-    作詞：飯塚雅弓、作曲：[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")、編曲：鈴木"CHiBUN"智文、歌 - 飯塚雅弓
+  - オープニングテーマ「[完ペキなスマイル](../Page/かたおもい.md "wikilink")」
+    作詞・作曲・編曲：[長谷川智樹](../Page/長谷川智樹.md "wikilink")、歌 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
+  - オープニングテーマ「[聴かせてよ君の声](../Page/SMILE×SMILE.md "wikilink")」
+    作詞：飯塚雅弓、作曲：[堂島孝平](../Page/堂島孝平.md "wikilink")、編曲：鈴木"CHiBUN"智文、歌 - 飯塚雅弓
     エンディングテーマとしても使用された。
   - エンディングテーマ 「[love letter](https://ja.wikipedia.org/wiki/so_loving "wikilink")」
-    作詞・作曲： [大津美紀](https://ja.wikipedia.org/wiki/大津美紀 "wikilink")、編曲：[十川知司](../Page/十川ともじ.md "wikilink")、歌 - 飯塚雅弓
+    作詞・作曲： [大津美紀](../Page/大津美紀.md "wikilink")、編曲：[十川知司](../Page/十川ともじ.md "wikilink")、歌 - 飯塚雅弓
   - エンディングテーマ 「[おやすみ](https://ja.wikipedia.org/wiki/君へ。。。_with_MAYU☆冬SELECTION "wikilink")」
-    作詞：飯塚雅弓、作曲：[イズミカワソラ](../Page/イズミカワソラ.md "wikilink")、編曲：[加藤みちあき](https://ja.wikipedia.org/wiki/加藤みちあき "wikilink")、歌 - 飯塚雅弓
+    作詞：飯塚雅弓、作曲：[イズミカワソラ](../Page/イズミカワソラ.md "wikilink")、編曲：[加藤みちあき](../Page/加藤みちあき.md "wikilink")、歌 - 飯塚雅弓
 
 ## 関連商品
 
 ### 音楽CD
 
-| タイトル                                                    | 発売日         | 規格品番       | 収録曲         |
-| ------------------------------------------------------- | ----------- | ---------- | ----------- |
-| [かたおもい](https://ja.wikipedia.org/wiki/かたおもい "wikilink") | 1997年8月27日  | PICA-1148  | {{tracklist |
-| love letter                                             | 1999年6月25日  | PIDA-1050  | {{tracklist |
-| 聴かせてよ君の声                                                | 2002年12月21日 | TKCA-72504 | {{tracklist |
+| タイトル                                 | 発売日         | 規格品番       | 収録曲         |
+| ------------------------------------ | ----------- | ---------- | ----------- |
+| [かたおもい](../Page/かたおもい.md "wikilink") | 1997年8月27日  | PICA-1148  | {{tracklist |
+| love letter                          | 1999年6月25日  | PIDA-1050  | {{tracklist |
+| 聴かせてよ君の声                             | 2002年12月21日 | TKCA-72504 | {{tracklist |
 
 ### ラジオCD
 
@@ -223,7 +223,7 @@
 
 ### 書籍
 
-  - 飯塚雅弓のmega‐tonスタイル！（2001年、[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")、ISBN 978-4072314104）
+  - 飯塚雅弓のmega‐tonスタイル！（2001年、[主婦の友社](../Page/主婦の友社.md "wikilink")、ISBN 978-4072314104）
 
 ## 脚注
 
@@ -234,6 +234,6 @@
   -
 [Category:1314_V-STATION](https://ja.wikipedia.org/wiki/Category:1314_V-STATION "wikilink") [Category:1422_V-STATION](https://ja.wikipedia.org/wiki/Category:1422_V-STATION "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink")
 
-1.  [ラジオ大阪では](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")、2002年4月6日から10月5日まで休止して、『飯塚雅弓のやさしいチカラ』と『飯塚雅弓のberry-go-round』が放送された。
+1.  [ラジオ大阪では](../Page/大阪放送.md "wikilink")、2002年4月6日から10月5日まで休止して、『飯塚雅弓のやさしいチカラ』と『飯塚雅弓のberry-go-round』が放送された。
 2.  飯塚の母親 が僅かながら、出演している。
 3.  この掛け声には、季節柄のことを絡めたものもあった。

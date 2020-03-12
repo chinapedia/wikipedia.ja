@@ -10,13 +10,13 @@
 ## 作品
 
   - [B'z](../Page/B'z.md "wikilink") "玲"
-  - [NANA](https://ja.wikipedia.org/wiki/NANA "wikilink") トリビュート盤『LOVE for NANA』
-  - [ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")『笑顔日和』ベスト盤『E』裏ベスト盤『ura E』『ZONE FINAL in 日本武道館』『ZONE BEST MEMORIAL CRIPS』写真集『ZONE FINAL in 日本武道館 -卒業アルバム-』
+  - [NANA](../Page/NANA.md "wikilink") トリビュート盤『LOVE for NANA』
+  - [ZONE](../Page/ZONE_\(バンド\).md "wikilink")『笑顔日和』ベスト盤『E』裏ベスト盤『ura E』『ZONE FINAL in 日本武道館』『ZONE BEST MEMORIAL CRIPS』写真集『ZONE FINAL in 日本武道館 -卒業アルバム-』
   - [長瀬実夕](../Page/長瀬実夕.md "wikilink")『Just 4 your luv』『snowy love』『Luv\&love CLIPS -from N.Y.-』
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『Albireo-アルビレオ-』『SEVENTH HEAVEN』写真集 『SEVENTH HEAVEN』
-  - [V6](../Page/V6_\(グループ\).md "wikilink") ベスト盤『[Very best II](https://ja.wikipedia.org/wiki/Very_best_II "wikilink")』
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink") トリビュート盤『MATCHY TRIBUTE』
-  - [SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink") 『あいたい』
+  - [V6](../Page/V6_\(グループ\).md "wikilink") ベスト盤『[Very best II](../Page/Very_best_II.md "wikilink")』
+  - [近藤真彦](../Page/近藤真彦.md "wikilink") トリビュート盤『MATCHY TRIBUTE』
+  - [SE7EN](../Page/SE7EN.md "wikilink") 『あいたい』
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")『CONCERT TOUR 2006 Funky Tokyo OsakaNagoya』『全国ツアー第2弾』『京セラドーム公演』ツアーパンフレット&グッズ　
   - [玉置成実](../Page/玉置成実.md "wikilink") 「MyGraduation」ツアーパンフレット　
   - [KinKi Kids](../Page/KinKi_Kids.md "wikilink") 10周年コンサート 2007 東京ドーム公演『39』ツアーパンフレット&グッズ　
@@ -37,7 +37,7 @@
   - 柏木由紀（AKB48） 2nd ソロライブ 寝ても覚めてもゆきりんワールド \~夢中にさせちゃうぞっ♡\~
   - 『Birthday wedding』 販促ラバーチャーム　3rdソロコンサートグッズ
 
-作詞などの楽曲提供では[Suara](https://ja.wikipedia.org/wiki/Suara "wikilink")に提供している。[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")にも楽曲を提供している。
+作詞などの楽曲提供では[Suara](../Page/Suara.md "wikilink")に提供している。[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")にも楽曲を提供している。
 
 ## 外部リンク
 

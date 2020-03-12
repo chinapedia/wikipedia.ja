@@ -8,12 +8,12 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、ヒップホップユニット「[ZINGI](../Page/ZINGI.md "wikilink")」を結成。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ユニット「DOHZI-T\&DJ BASS」を結成。
   - [2000年](../Page/2000年.md "wikilink")より、[K DUB SHINE率いるアトミックボム](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")・プロダクションに参加。同年、ソロデビュー。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、ヒップホップに対する価値観の違いからアトミックボム・プロダクションを脱退。同年12月7日、シングル「[MARK YOURSELF](https://ja.wikipedia.org/wiki/MARK_YOURSELF "wikilink")」を[ユニバーサルミュージックから発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")、ヒップホップに対する価値観の違いからアトミックボム・プロダクションを脱退。同年12月7日、シングル「[MARK YOURSELF](https://ja.wikipedia.org/wiki/MARK_YOURSELF "wikilink")」を[ユニバーサルミュージックから発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月、自身が登場するケータイ小説『チェンジ・ザ・ゲーム』が[ミヤオビパブリッシング](https://ja.wikipedia.org/wiki/ミヤオビパブリッシング "wikilink")から発売される。
 
 ## 人物
 
-[K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")、[DJ OASISに次ぐアトミックボム](https://ja.wikipedia.org/wiki/DJ_OASIS "wikilink")・プロダクション（アトミックボム・レコーズ）の3番目のラッパーとして「第三の男」と自称・他称されていた。また、[キングギドラの面々や](https://ja.wikipedia.org/wiki/KGDR "wikilink")[UZIらと少年院で慰問ライブを行うなどの社会奉仕活動を行っていた](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink")。
+[K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")、[DJ OASISに次ぐアトミックボム](../Page/DJ_OASIS.md "wikilink")・プロダクション（アトミックボム・レコーズ）の3番目のラッパーとして「第三の男」と自称・他称されていた。また、[キングギドラの面々や](../Page/KGDR.md "wikilink")[UZIらと少年院で慰問ライブを行うなどの社会奉仕活動を行っていた](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink")。
 
 ZINGI時代やアトミックボム所属時は主にハードコアなラップスタイルであったが、徐々にスタイルがポップラップ寄りになり、アトミックボム離脱後は客演にシンガーを迎えたラブソングやバラード調の楽曲に彼がラップを乗せるスタイルとなっている。\[1\]
 
@@ -80,14 +80,14 @@ SRJL-1073:LP</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/MARK_YOURSELF" title="wikilink">MARK YOURSELF</a></strong></p></td>
 <td><p>UPCH-5354</p></td>
 <td><p>86位</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/better_days_feat.加藤ミリヤ,田中ロウマ" title="wikilink">better days feat.加藤ミリヤ、田中ロウマ</a></strong></p></td>
 <td><p>UPCH-5370</p></td>
 <td><p>30位</p></td>
@@ -371,7 +371,7 @@ COCA-13057</p></td>
 </tr>
 <tr class="even">
 <td><p>1998年11月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LITTLE" title="wikilink">LITTLE</a>「いいの」</p></td>
+<td><p><a href="../Page/LITTLE.md" title="wikilink">LITTLE</a>「いいの」</p></td>
 <td></td>
 <td><p>3. レスキュー（feat. DOHZI-T）</p></td>
 </tr>
@@ -383,7 +383,7 @@ COCA-13057</p></td>
 </tr>
 <tr class="even">
 <td><p>2002年10月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KGDR" title="wikilink">キングギドラ</a>「最終兵器」</p></td>
+<td><p><a href="../Page/KGDR.md" title="wikilink">キングギドラ</a>「最終兵器」</p></td>
 <td><p>DFCL-1081</p></td>
 <td><p>9.平成維新 feat. 童子-T &amp; <a href="https://ja.wikipedia.org/wiki/UZI_(ミュージシャン)" title="wikilink">UZI</a></p></td>
 </tr>
@@ -409,7 +409,7 @@ COCA-13057</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年9月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zeebra" title="wikilink">ZEEBRA</a>「<a href="https://ja.wikipedia.org/wiki/TOKYO&#39;S_FINEST" title="wikilink">TOKYO'S FINEST</a>」</p></td>
+<td><p><a href="../Page/Zeebra.md" title="wikilink">ZEEBRA</a>「<a href="https://ja.wikipedia.org/wiki/TOKYO&#39;S_FINEST" title="wikilink">TOKYO'S FINEST</a>」</p></td>
 <td><p>PCCA-01943</p></td>
 <td><p>13.GOLDEN MIC (REMIX) feat. KASHI DA HANDSOME, <a href="https://ja.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a>, 童子-T, <a href="https://ja.wikipedia.org/wiki/般若_(ミュージシャン)" title="wikilink">般若</a></p></td>
 </tr>
@@ -423,7 +423,7 @@ COCA-13057</p></td>
 <td><p>2003年12月10日</p></td>
 <td><p>サントラ「太陽にほえろ」</p></td>
 <td><p>TOCT-25269</p></td>
-<td><p>11.追跡のテーマ <a href="https://ja.wikipedia.org/wiki/813_(ユニット)" title="wikilink">813</a>(<a href="https://ja.wikipedia.org/wiki/DJ_YUTAKA" title="wikilink">DJ YUTAKA</a>/<a href="https://ja.wikipedia.org/wiki/Shingo.S" title="wikilink">Shingo.S</a>)Remix feat. 童子-T</p></td>
+<td><p>11.追跡のテーマ <a href="https://ja.wikipedia.org/wiki/813_(ユニット)" title="wikilink">813</a>(<a href="../Page/DJ_YUTAKA.md" title="wikilink">DJ YUTAKA</a>/<a href="https://ja.wikipedia.org/wiki/Shingo.S" title="wikilink">Shingo.S</a>)Remix feat. 童子-T</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年1月28日</p></td>
@@ -446,7 +446,7 @@ SRCL-5747</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年7月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_OASIS" title="wikilink">DJ OASIS</a>「ウォーターワールド」</p></td>
+<td><p><a href="../Page/DJ_OASIS.md" title="wikilink">DJ OASIS</a>「ウォーターワールド」</p></td>
 <td><p>SRCL-5939</p></td>
 <td><p>3. バラマク（feat. 童子-T）<br />
 8. アトミックボム（feat. K DUB SHINE, 童子-T）</p></td>
@@ -459,9 +459,9 @@ SRCL-5747</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年3月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a>「<a href="https://ja.wikipedia.org/wiki/HEAT_ISLAND_(アルバム)" title="wikilink">HEAT ISLAND</a>」</p></td>
+<td><p><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>「<a href="../Page/HEAT_ISLAND_(アルバム).md" title="wikilink">HEAT ISLAND</a>」</p></td>
 <td><p>KSCL-949</p></td>
-<td><p>18. ウィークエンド・シャッフル feat. <a href="https://ja.wikipedia.org/wiki/MCU_(ラッパー)" title="wikilink">MCU</a>, <a href="../Page/RYO-Z.md" title="wikilink">RYO-Z</a>, <a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a>, <a href="https://ja.wikipedia.org/wiki/CUEZERO" title="wikilink">CUEZERO</a>, CHANNEL, <a href="https://ja.wikipedia.org/wiki/KOHEI_JAPAN" title="wikilink">KOHEI JAPAN</a>, <a href="../Page/SU_(RIP_SLYME).md" title="wikilink">SU</a>, LITTLE, <a href="../Page/ILMARI.md" title="wikilink">ILMARI</a>, <a href="../Page/GAKU-MC.md" title="wikilink">GAKU-MC</a>, <a href="../Page/SONOMI_(歌手).md" title="wikilink">SONOMI</a>, <a href="../Page/PES.md" title="wikilink">PES</a>, <a href="../Page/KIN.md" title="wikilink">K.I.N</a>, 童子-T</p></td>
+<td><p>18. ウィークエンド・シャッフル feat. <a href="../Page/MCU_(ラッパー).md" title="wikilink">MCU</a>, <a href="../Page/RYO-Z.md" title="wikilink">RYO-Z</a>, <a href="../Page/KREVA.md" title="wikilink">KREVA</a>, <a href="../Page/CUEZERO.md" title="wikilink">CUEZERO</a>, CHANNEL, <a href="../Page/KOHEI_JAPAN.md" title="wikilink">KOHEI JAPAN</a>, <a href="../Page/SU_(RIP_SLYME).md" title="wikilink">SU</a>, LITTLE, <a href="../Page/ILMARI.md" title="wikilink">ILMARI</a>, <a href="../Page/GAKU-MC.md" title="wikilink">GAKU-MC</a>, <a href="../Page/SONOMI_(歌手).md" title="wikilink">SONOMI</a>, <a href="../Page/PES.md" title="wikilink">PES</a>, <a href="../Page/KIN.md" title="wikilink">K.I.N</a>, 童子-T</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年6月28日</p></td>
@@ -474,7 +474,7 @@ SRCL-5747</p></td>
 <td><p>MCU「<a href="../Page/A.K.A.md" title="wikilink">A.K.A</a>」</p></td>
 <td><p>BVCR-11103<br />
 BVCR-18099</p></td>
-<td><p>2.BURN feat. 童子-T, TAS from MADHAND, <a href="https://ja.wikipedia.org/wiki/KOHEI_JAPAN" title="wikilink">KOHEI JAPAN</a>, <a href="https://ja.wikipedia.org/wiki/TSUBOI" title="wikilink">TSUBOI</a></p></td>
+<td><p>2.BURN feat. 童子-T, TAS from MADHAND, <a href="../Page/KOHEI_JAPAN.md" title="wikilink">KOHEI JAPAN</a>, <a href="https://ja.wikipedia.org/wiki/TSUBOI" title="wikilink">TSUBOI</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年5月7日</p></td>
@@ -485,7 +485,7 @@ BVCR-18124</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年12月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YA-KYIM" title="wikilink">YA-KYIM</a>「君がいるだけで／さぁ行こう! -"RESPECT"4 tracks E.P.-」</p></td>
+<td><p><a href="../Page/YA-KYIM.md" title="wikilink">YA-KYIM</a>「君がいるだけで／さぁ行こう! -"RESPECT"4 tracks E.P.-」</p></td>
 <td><p>WPCL-10618</p></td>
 <td><p>3.からっぽの部屋（YA-KYIM respects 童子-T &amp; HI-D）</p></td>
 </tr>
@@ -497,7 +497,7 @@ BVCR-18124</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年11月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ" title="wikilink">バブルガム・ブラザーズ</a>「<a href="https://ja.wikipedia.org/wiki/DA_BUBBLEGUMBROTHERS_SHOW_☆多力本願☆" title="wikilink">DA BUBBLEGUMBROTHERS SHOW ☆多力本願☆</a>」</p></td>
+<td><p><a href="../Page/バブルガム・ブラザーズ.md" title="wikilink">バブルガム・ブラザーズ</a>「<a href="https://ja.wikipedia.org/wiki/DA_BUBBLEGUMBROTHERS_SHOW_☆多力本願☆" title="wikilink">DA BUBBLEGUMBROTHERS SHOW ☆多力本願☆</a>」</p></td>
 <td><p>UPCH-20172</p></td>
 <td><p>6.1.2.3.4. Me and You feat.童子-T</p></td>
 </tr>
@@ -512,7 +512,7 @@ SRCL-7179</p></td>
 <td><p>2010年7月28日</p></td>
 <td><p>KOHEI JAPAN「大人チャレンジ」</p></td>
 <td><p>PCCA-03201</p></td>
-<td><p>4.あの頃に戻れない with <a href="https://ja.wikipedia.org/wiki/MAY&#39;S" title="wikilink">MAY'S</a>（プロデュースを担当）</p></td>
+<td><p>4.あの頃に戻れない with <a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a>（プロデュースを担当）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年10月27日</p></td>
@@ -641,8 +641,8 @@ AVCD-93417</p></td>
 
 ## 出演
 
-  - 2001年〜2013年 - テレビ東京系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」
-  - 2007年02月22日 - 日本テレビ系「[シュガーヒルストリート](https://ja.wikipedia.org/wiki/シュガーヒルストリート "wikilink")」
+  - 2001年〜2013年 - テレビ東京系「[流派-R](../Page/流派-R.md "wikilink")」
+  - 2007年02月22日 - 日本テレビ系「[シュガーヒルストリート](../Page/シュガーヒルストリート.md "wikilink")」
   - 2007年06月15日・2008年06月24日 - テレビ東京系「音時間」
   - 2007年08月24日・2008年06月13日・09月19日・2009年03月12日・2010年09月17日・2012年12月14日・2014年03月14日 - テレビ東京系「[音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")」
   - 2008年04月22日 - 日本テレビ系「[THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")」
@@ -655,9 +655,9 @@ AVCD-93417</p></td>
   - 2008年10月16日 - テレビ東京系「[Scene](https://ja.wikipedia.org/wiki/SCENE_\(テレビ番組\) "wikilink")」
   - 2008年12月03日 - フジテレビ系「2008[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")」
   - 2008年12月04日 - テレビ東京系「[密着\!音楽空間](https://ja.wikipedia.org/wiki/密着!音楽空間 "wikilink")」
-  - 2008年12月17日 - TBS系「発表\!\!第41回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")」
+  - 2008年12月17日 - TBS系「発表\!\!第41回[日本有線大賞](../Page/日本有線大賞.md "wikilink")」
   - 2009年03月12日 - テレビ朝日系「FUTURE TRACKS→R」
-  - 2009年10月09日・23日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」
+  - 2009年10月09日・23日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
   - 2009年10月24日・12月26日・2010年11月27日・2011年04月23日・11月26日 - テレビ東京系「[月刊MelodiX\!](https://ja.wikipedia.org/wiki/月刊MelodiX! "wikilink")」
   - 2009年11月13日 - フジテレビ系「[キャンパスナイトフジ](https://ja.wikipedia.org/wiki/キャンパスナイトフジ "wikilink")」
   - 2009年12月09日 - フジテレビ系「[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")」

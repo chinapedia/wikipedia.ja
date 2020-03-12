@@ -7,10 +7,10 @@
 
 ## 概略
 
-  - 2005年11月9日 - [ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")[応用物理学](https://ja.wikipedia.org/wiki/応用物理学 "wikilink")研究所から、[ゴダード宇宙飛行センター](https://ja.wikipedia.org/wiki/ゴダード宇宙飛行センター "wikilink")へ打ち上げ準備のために移動\[2\]。
+  - 2005年11月9日 - [ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")[応用物理学](https://ja.wikipedia.org/wiki/応用物理学 "wikilink")研究所から、[ゴダード宇宙飛行センター](../Page/ゴダード宇宙飛行センター.md "wikilink")へ打ち上げ準備のために移動\[2\]。
   - 2006年5月3日 - Astrotech Spacecraft Processing Facility（[フロリダ](https://ja.wikipedia.org/wiki/フロリダ "wikilink")）で、最終打ち上げテスト。
   - 2機の衛星を太陽軌道に乗せる、[デルタIIロケットは](../Page/デルタロケット.md "wikilink")、Launch Complex 17 で組み立て\[3\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月26日（UST）（現地時間では25日） - 打ち上げ。
+  - [2006年](../Page/2006年.md "wikilink")10月26日（UST）（現地時間では25日） - 打ち上げ。
   - 2014年10月1日 - この日を最後に STEREO-B との通信が途絶。STEREO-A の方は2015年6月現在も正常に運用している\[4\]。
   - 2016年8月21日 - STEREO-B との通信が回復。復帰のための努力が続けられている\[5\]。
 
@@ -23,7 +23,7 @@
 
 <div style="text-align:center">
 
-Image:STEREO in cleanroom.jpg|STEREO 宇宙探査機、[ゴダードセンター](https://ja.wikipedia.org/wiki/ゴダード宇宙飛行センター "wikilink") [無菌室](https://ja.wikipedia.org/wiki/無菌室 "wikilink") Image:Sun STEREO 4dec2006 lrg.jpg|最初にとられた画像の一つ Image:STEREO-B_solar_eclipse.jpg|太陽の手前は[月](https://ja.wikipedia.org/wiki/月 "wikilink")、STEREO-B より撮影、[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")([映像](http://science.nasa.gov/headlines/y2007/12mar_stereoeclipse.htm?list39638)) Image:174719main LEFTREDSouthPole304.jpg|太陽南極 Image:STEREO-A first images.jpg Image:BLUE STEREO 3D Time for Space Wiggle.gif| Image:STEREO Panels Deploy Vision.jpg Image:STEREO's_orbits.gif
+Image:STEREO in cleanroom.jpg|STEREO 宇宙探査機、[ゴダードセンター](../Page/ゴダード宇宙飛行センター.md "wikilink") [無菌室](https://ja.wikipedia.org/wiki/無菌室 "wikilink") Image:Sun STEREO 4dec2006 lrg.jpg|最初にとられた画像の一つ Image:STEREO-B_solar_eclipse.jpg|太陽の手前は[月](https://ja.wikipedia.org/wiki/月 "wikilink")、STEREO-B より撮影、[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")([映像](http://science.nasa.gov/headlines/y2007/12mar_stereoeclipse.htm?list39638)) Image:174719main LEFTREDSouthPole304.jpg|太陽南極 Image:STEREO-A first images.jpg Image:BLUE STEREO 3D Time for Space Wiggle.gif| Image:STEREO Panels Deploy Vision.jpg Image:STEREO's_orbits.gif
 
 </div>
 

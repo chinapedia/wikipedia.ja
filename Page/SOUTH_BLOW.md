@@ -11,7 +11,7 @@
 
 2004年、「BUDDY RECORDS」からファーストミニアルバム「SOUTH BLOW」をリリース、NHK-FM「ミュージック・スクエア」の12月・1月オープニング曲に「ココロノコトバ」が選ばれる。
 
-2005年、夏には碩、長村の出身地でもある奄美大島からライブの出演依頼があり、かねてからの目標であった「いつか故郷でライブをしたい」という夢が実現。碩の出身地[龍郷町](https://ja.wikipedia.org/wiki/龍郷町 "wikilink")で念願のライブを行う。同年12月、2ndミニアルバム「A THREAD OF LIGHT」をリリース。メジャー前にしてFMラジオ局パワープレイはじめ、期待のニューカマー特集に続々登場。
+2005年、夏には碩、長村の出身地でもある奄美大島からライブの出演依頼があり、かねてからの目標であった「いつか故郷でライブをしたい」という夢が実現。碩の出身地[龍郷町](../Page/龍郷町.md "wikilink")で念願のライブを行う。同年12月、2ndミニアルバム「A THREAD OF LIGHT」をリリース。メジャー前にしてFMラジオ局パワープレイはじめ、期待のニューカマー特集に続々登場。
 
 2006年4月、シングル「春風」で[SPEEDSTAR RECORDSよりメジャーデビュー](../Page/SPEEDSTAR_RECORDS.md "wikilink")。同月、東北地方最大のロック・フェスティバル「ARABAKI ROCK FEST.06」に出演。6月にメジャー2ndシングル「スターダスト」、7月にメジャー1stアルバム「わすれもの」をリリース。9月、念願の奄美にてワンマンライブを行う。11月に3rdシングル「愛のうた」をリリースした後、12月に行われた「COUNTDOWN JAPAN 06 / 07」 に出演。
 
@@ -279,23 +279,23 @@ VICL-36237:通常盤</p></td>
 
 ## ミュージックビデオ
 
-| 監督                                                                                                             | 曲名                                                                           |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [アオキリョウジ](https://ja.wikipedia.org/wiki/青木亮二 "wikilink")＋[モリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink") | 「Flag」「[光の果て](https://www.youtube.com/watch?v=j27haDKdOZY)」                  |
-| [井上哲央](../Page/井上哲央.md "wikilink")                                                                             | 「春風」                                                                         |
-| [スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")                                                   | 「スターダスト」(PVに[JOSI出演](https://ja.wikipedia.org/wiki/JOSI_\(モデル\) "wikilink")) |
-| モリ○カツ                                                                                                          | 「愛のうた」                                                                       |
-| 不明                                                                                                             | 「[ココロノコトバ](https://www.youtube.com/watch?v=oNQRUUCIu54)」                     |
-|                                                                                                                |                                                                              |
+| 監督                                                                                                             | 曲名                                                          |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [アオキリョウジ](https://ja.wikipedia.org/wiki/青木亮二 "wikilink")＋[モリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink") | 「Flag」「[光の果て](https://www.youtube.com/watch?v=j27haDKdOZY)」 |
+| [井上哲央](../Page/井上哲央.md "wikilink")                                                                             | 「春風」                                                        |
+| [スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")                                                   | 「スターダスト」(PVに[JOSI出演](../Page/JOSI_\(モデル\).md "wikilink"))   |
+| モリ○カツ                                                                                                          | 「愛のうた」                                                      |
+| 不明                                                                                                             | 「[ココロノコトバ](https://www.youtube.com/watch?v=oNQRUUCIu54)」    |
+|                                                                                                                |                                                             |
 
 ## タイアップ
 
-| 曲名      | タイアップ                                                                                                                           |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| スターダスト  | NTV「映画天国 チネ☆パラ」オープニング・テーマ                                                                                                       |
-| 愛のうた    | [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2006年11月度エンディングテーマ |
-| 素晴らしい世界 | 「[KYT Newsリアルタイム](../Page/KYT_Newsリアルタイム.md "wikilink")」エンディングテーマ                                                               |
-| ウツセミ    | [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")「[流星のロックマン2](../Page/流星のロックマン2.md "wikilink")」CM曲                                     |
+| 曲名      | タイアップ                                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------ |
+| スターダスト  | NTV「映画天国 チネ☆パラ」オープニング・テーマ                                                                                    |
+| 愛のうた    | [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2006年11月度エンディングテーマ |
+| 素晴らしい世界 | 「[KYT Newsリアルタイム](../Page/KYT_Newsリアルタイム.md "wikilink")」エンディングテーマ                                            |
+| ウツセミ    | [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")「[流星のロックマン2](../Page/流星のロックマン2.md "wikilink")」CM曲                  |
 
 ## 主な出演イベント
 
@@ -315,7 +315,7 @@ VICL-36237:通常盤</p></td>
 ## 関連項目
 
   - [SCHOOL OF LOCK\!KING](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") OF ROOKIE
-  - [ナニワ音楽ショウ](https://ja.wikipedia.org/wiki/ナニワ音楽ショウ "wikilink")
+  - [ナニワ音楽ショウ](../Page/ナニワ音楽ショウ.md "wikilink")
 
 ## 外部リンク
 

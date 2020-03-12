@@ -6,11 +6,11 @@
 ## メンバー
 
   - **YASS**（やす、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - ）MC
-      - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[東津軽郡](../Page/東津軽郡.md "wikilink")[蓬田村](https://ja.wikipedia.org/wiki/蓬田村 "wikilink")出身。
-      - 音楽性で影響を受けたミュージシャンは[吉田美和](https://ja.wikipedia.org/wiki/吉田美和 "wikilink")\[1\]
+      - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[東津軽郡](../Page/東津軽郡.md "wikilink")[蓬田村](../Page/蓬田村.md "wikilink")出身。
+      - 音楽性で影響を受けたミュージシャンは[吉田美和](../Page/吉田美和.md "wikilink")\[1\]
   - **R-MAN**（あーるまん、[1979年](../Page/1979年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）MC
-      - 青森県[下北郡](../Page/下北郡.md "wikilink")[大間町](https://ja.wikipedia.org/wiki/大間町 "wikilink")出身。
-      - 音楽性で影響を受けたミュージシャンは[ビートルズ](../Page/ビートルズ.md "wikilink")と[BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")\[2\]。
+      - 青森県[下北郡](../Page/下北郡.md "wikilink")[大間町](../Page/大間町.md "wikilink")出身。
+      - 音楽性で影響を受けたミュージシャンは[ビートルズ](../Page/ビートルズ.md "wikilink")と[BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")\[2\]。
   - **YAMA**（やま、[1979年](../Page/1979年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - ）DJ。リーダー
       - 青森県下北郡大間町出身。
 
@@ -19,7 +19,7 @@
       -
 ## 来歴
 
-青森のクラブ「M'otive」で出会い、2002年10月結成\[4\]。インディーズで発売した3枚のアルバムがどれも好セールスを記録し、2006年[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")よりメジャーデビュー。
+青森のクラブ「M'otive」で出会い、2002年10月結成\[4\]。インディーズで発売した3枚のアルバムがどれも好セールスを記録し、2006年[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")よりメジャーデビュー。
 
 3人とも現在も青森在住。理由として「家族や友達のいる青森じゃないと自分たちらしいリリックは書けない」（YASS）、「地方出身の人が共感できることを書いてきたし、青森でもできるんだって伝えたい」（R-MAN）というのを挙げている\[5\]。
 
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
 <td><p><strong>MY ROOTS</strong></p></td>
 <td><p>BTRCD-002</p></td>
 <td><ol>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月10日.md" title="wikilink">2月10日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月10日.md" title="wikilink">2月10日</a></p></td>
 <td><p><strong>HANDS UP</strong></p></td>
 <td><p>BTRCD-004</p></td>
 <td><ol>
@@ -190,7 +190,7 @@
 <p>#スキット</p></td>
 <td><p>(温室チェリー)</p>
 <ol>
-<li>伝えたい事 <a href="https://ja.wikipedia.org/wiki/Saigenji" title="wikilink">Saigenji</a> guitar mix</li>
+<li>伝えたい事 <a href="../Page/Saigenji.md" title="wikilink">Saigenji</a> guitar mix</li>
 <li>もっと楽しめば</li>
 </ol>
 <p>#アウトロ</p></td>
@@ -237,12 +237,12 @@
 <li><a href="../Page/キスしてほしい.md" title="wikilink">キスしてほしい</a></li>
 <li><a href="../Page/青空_(THE_BLUE_HEARTSの曲).md" title="wikilink">青空</a></li>
 <li><a href="../Page/人にやさしく.md" title="wikilink">人にやさしく</a> feat.<a href="https://ja.wikipedia.org/wiki/A.F.R.O" title="wikilink">A.F.R.O</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS_(アルバム)" title="wikilink">少年の詩</a> feat.A.F.R.O</li>
-<li><a href="https://ja.wikipedia.org/wiki/BUST_WASTE_HIP" title="wikilink">夢の駅</a></li>
+<li><a href="../Page/THE_BLUE_HEARTS_(アルバム).md" title="wikilink">少年の詩</a> feat.A.F.R.O</li>
+<li><a href="../Page/BUST_WASTE_HIP.md" title="wikilink">夢の駅</a></li>
 <li><a href="../Page/夕暮れ_(THE_BLUE_HEARTSの曲).md" title="wikilink">夕暮れ</a></li>
 <li><a href="../Page/キスしてほしい.md" title="wikilink">チェインギャング</a></li>
 <li><a href="../Page/情熱の薔薇.md" title="wikilink">情熱の薔薇</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/リンダリンダ" title="wikilink">リンダリンダ</a></li>
+<li><a href="../Page/リンダリンダ.md" title="wikilink">リンダリンダ</a></li>
 </ol></td>
 <td><p>Riverside Records<br />
 オリコン圏外</p></td>
@@ -315,7 +315,7 @@
 
 ## 出演
 
-  - [MusicQ](https://ja.wikipedia.org/wiki/MusicQ "wikilink")
+  - [MusicQ](../Page/MusicQ.md "wikilink")
   - [saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")
 
 ## 主なライブ

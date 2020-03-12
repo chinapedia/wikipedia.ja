@@ -46,13 +46,13 @@
 <tr class="odd">
 <td><p>1.30</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルックリン橋" title="wikilink">ブルックリン橋</a>、<a href="https://ja.wikipedia.org/wiki/シヴィック・センター_(マンハッタン)" title="wikilink">シヴィック・センター</a></p></td>
+<td><p><a href="../Page/ブルックリン橋.md" title="wikilink">ブルックリン橋</a>、<a href="https://ja.wikipedia.org/wiki/シヴィック・センター_(マンハッタン)" title="wikilink">シヴィック・センター</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サウス・ストリート_(マンハッタン)" title="wikilink">サウス・ストリート</a> - <a href="https://ja.wikipedia.org/wiki/マンハッタン橋" title="wikilink">マンハッタン橋</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サウス・ストリート_(マンハッタン)" title="wikilink">サウス・ストリート</a> - <a href="../Page/マンハッタン橋.md" title="wikilink">マンハッタン橋</a></p></td>
 <td><p>南行き出口と北行き入口</p></td>
 </tr>
 <tr class="odd">

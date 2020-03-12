@@ -11,16 +11,16 @@
 <!-- end list -->
 
   -
-    [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。自身のソロプロジェクト[須藤寿 GATALI ACOUSTIC SETではボーカルを務めている](https://ja.wikipedia.org/wiki/須藤寿_GATALI_ACOUSTIC_SET "wikilink")。
+    [茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。自身のソロプロジェクト[須藤寿 GATALI ACOUSTIC SETではボーカルを務めている](https://ja.wikipedia.org/wiki/須藤寿_GATALI_ACOUSTIC_SET "wikilink")。
 
 <!-- end list -->
 
-  - **宮川トモユキ**（みやかわ トモユキ、本名：宮川智之）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **宮川トモユキ**（みやかわ トモユキ、本名：宮川智之）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   -
-    [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink")のサポートベースも務めている。
+    [茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink")のサポートベースも務めている。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [新潟県](../Page/新潟県.md "wikilink")出身。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink")育ち。
+    [新潟県](../Page/新潟県.md "wikilink")出身。[千葉県](../Page/千葉県.md "wikilink")[野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink")育ち。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。髭にはサポートメンバーとして参加し始め、07年9月ごろ、公式HPなどからの発表も特になくひっそりと正式メンバーに加入。「FESTIVAL OUT×髭」MUSIC VIDEO制作企画のクラウドファンディングのリターンアイテム「コテイスイの名称変更いたします権」によって、2019年2月25日(月)のMUSIC VIDEO撮影日より2020年2月24日(月祝)までの一年間限定で、佐藤"コテイスイ"康一（さとう コテイスイ こういち）から名前が変更になった。\[1\]
+    [埼玉県](../Page/埼玉県.md "wikilink")出身。髭にはサポートメンバーとして参加し始め、07年9月ごろ、公式HPなどからの発表も特になくひっそりと正式メンバーに加入。「FESTIVAL OUT×髭」MUSIC VIDEO制作企画のクラウドファンディングのリターンアイテム「コテイスイの名称変更いたします権」によって、2019年2月25日(月)のMUSIC VIDEO撮影日より2020年2月24日(月祝)までの一年間限定で、佐藤"コテイスイ"康一（さとう コテイスイ こういち）から名前が変更になった。\[1\]
 
 ### 元メンバー
 
@@ -47,7 +47,7 @@
 <!-- end list -->
 
   -
-    [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")勝田市（現[ひたちなか市](../Page/ひたちなか市.md "wikilink")）出身。ライブでのポジションは右手奥。
+    [茨城県](../Page/茨城県.md "wikilink")勝田市（現[ひたちなか市](../Page/ひたちなか市.md "wikilink")）出身。ライブでのポジションは右手奥。
     2014年2月28日 脱退。
 
 <!-- end list -->
@@ -85,7 +85,7 @@
 <!-- end list -->
 
   -
-    2019年7月20日の『夏ノ陣 2019 RETURN TO NATURAL』に参加。2020年1月21日に髭公式より2020年からのサポート参加が発表された。\[3\] [MO'SOME TONEBENDERのギター及びドラム](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")、[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")のサポートドラムを務める。
+    2019年7月20日の『夏ノ陣 2019 RETURN TO NATURAL』に参加。2020年1月21日に髭公式より2020年からのサポート参加が発表された。\[3\] [MO'SOME TONEBENDERのギター及びドラム](../Page/MO'SOME_TONEBENDER.md "wikilink")、[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")のサポートドラムを務める。
 
 ## ディスコグラフィー
 
@@ -612,7 +612,7 @@ VICL-63629:通常盤</p></td>
 <li>三日月 [5:31] 【作詞作曲:須藤寿】</li>
 <li>ローラーコースター [3:42] 【作詞作曲:須藤寿】 (初回盤ボーナストラック)</li>
 </ol>
-<p>M1,M5,M10に<a href="../Page/土屋昌巳.md" title="wikilink">土屋昌巳</a>、M3,M6,M11に<a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>がプロデューサーとして参加。M4に<a href="../Page/金子ノブアキ.md" title="wikilink">金子ノブアキ</a> (<a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a>)、M8に<a href="https://ja.wikipedia.org/wiki/川西幸一" title="wikilink">川西幸一</a> (<a href="https://ja.wikipedia.org/wiki/ユニコーン_(バンド)" title="wikilink">ユニコーン</a>)がゲストドラマーとして参加。</p>
+<p>M1,M5,M10に<a href="../Page/土屋昌巳.md" title="wikilink">土屋昌巳</a>、M3,M6,M11に<a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>がプロデューサーとして参加。M4に<a href="../Page/金子ノブアキ.md" title="wikilink">金子ノブアキ</a> (<a href="../Page/RIZE.md" title="wikilink">RIZE</a>)、M8に<a href="../Page/川西幸一.md" title="wikilink">川西幸一</a> (<a href="https://ja.wikipedia.org/wiki/ユニコーン_(バンド)" title="wikilink">ユニコーン</a>)がゲストドラマーとして参加。</p>
 </div>
 </div></td>
 <td><p>オリコン最高29位、登場回数4回</p></td>
@@ -1074,7 +1074,7 @@ VIBL-475:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年7月5日</p></td>
-<td><p><strong>オムニバス「<a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006" title="wikilink">ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006</a>」</strong></p></td>
+<td><p><strong>オムニバス「<a href="../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006.md" title="wikilink">ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006</a>」</strong></p></td>
 <td><p>KSCL-998</p></td>
 <td><p>6.ダーティーな世界(Put your head)</p></td>
 <td><p>Ki/oon Music Inc.</p></td>
@@ -1199,7 +1199,7 @@ RZC1-46475</p></td>
   - 2007年 - HiGE 2007“Bonnie and Clyde”ON SUMMER CIRCUIT\!\!\!
   - 2007年〜2008年 - HiGE 2007 “Chaos in Apple TOUR”
   - 2008年 - Chaos in Apple TOUR 追加公演
-  - 2008年 - [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")×髭（HiGE）東名阪スプリット・ツアー
+  - 2008年 - [フジファブリック](../Page/フジファブリック.md "wikilink")×髭（HiGE）東名阪スプリット・ツアー
   - 2009年 - D.I.Y.H.i.G.E.Tour
   - 2010年〜2011年 - HiGE 2010 "サンシャイン " TOUR
   - 2011年 - HiGE2011「TRAVEL IN WONDERLAND」
@@ -1258,7 +1258,7 @@ RZC1-46475</p></td>
   - 2019年01月14日 - Party Mustache（Ballade Party Mustache）
   - 2019年03月30日～04月20日 -『髭“SWEET SIXTEEN”presents 16人いる！』（3公演）
       -
-        w/[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")/THE LITTLE BLACK/[Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")
+        w/[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")/THE LITTLE BLACK/[Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")
   - 2019年05月19日、06月02日・07日 - 再現\[Thank You, Beatles & I Love Rock n'Roll編\]（アルバム「Thank You, Beatles」「I Love Rock n'Roll」完全再現LIVE）
   - 2019年08月08日 - HiGENOHi (Ballade Party Mustache)
   - 2019年09月28日～10月09日 -『髭と夜の本気ダンスがやります。2』（3公演）
@@ -1336,7 +1336,7 @@ RZC1-46475</p></td>
   - 2012年04月28日 - ARABAKI ROCK FEST.12(「髭 × 長添雅嗣」として出演)
   - 2012年05月03日 - JAPAN JAM 2012
   - 2012年05月04日 - [the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink") D.E.N.W.A KINGDOM TOUR
-  - 2012年06月02日 - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink") presents「KINOSHITA NIGHT 2012」
+  - 2012年06月02日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") presents「KINOSHITA NIGHT 2012」
   - 2012年07月04日 - [AFOC](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") presents VS tour "(LOVE IS LIKE A) SUMMERTIME BLUES The Circuit"
   - 2012年07月21日 - JOIN ALIVE 2012
   - 2012年08月03日 - ROCK IN JAPAN FESTIVAL 2012
@@ -1358,7 +1358,7 @@ RZC1-46475</p></td>
   - 2013年11月06日 - 髭×[0.8秒と衝撃。](https://ja.wikipedia.org/wiki/0.8秒と衝撃。 "wikilink") in "DECADE"
   - 2013年12月28日 - FM802 ROCK FESTIVAL RADIO CRAZY 2013
   - 2013年12月31日 - COUNTDOWN JAPAN 13/14
-  - 2014年01月21日・22日・24日 - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink") presents「KINOSHITA NIGHT2014 〜番外編TOUR〜 」
+  - 2014年01月21日・22日・24日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") presents「KINOSHITA NIGHT2014 〜番外編TOUR〜 」
   - 2014年03月03日 - [QUATTRO MIRAGE vs @JAM](https://ja.wikipedia.org/wiki/@JAM#QUATTRO_MIRAGE_VS_@JAM "wikilink") vol.1
   - 2014年03月22日 - BEA × Zepp Fukuoka presents FX2014
   - 2014年03月23日 - MUSIC CUBE 14
@@ -1439,7 +1439,7 @@ RZC1-46475</p></td>
 
 ## 出演
 
-  - 爆音アトモス([スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")：2007年4月〜2007年9月)
+  - 爆音アトモス([スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")：2007年4月〜2007年9月)
 
 <!-- end list -->
 

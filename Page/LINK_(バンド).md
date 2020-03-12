@@ -7,9 +7,9 @@
 
 2010年に再結成を果たし、9月23日のライブをもって復活。
 
-[グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")のボーカル[ビリー・ジョー・アームストロング](../Page/ビリー・ジョー・アームストロング.md "wikilink")と交流がある。
+[グリーン・デイ](../Page/グリーン・デイ.md "wikilink")のボーカル[ビリー・ジョー・アームストロング](../Page/ビリー・ジョー・アームストロング.md "wikilink")と交流がある。
 
-[ASIAN KUNG-FU GENERATIONとも交流がある](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")。
+[ASIAN KUNG-FU GENERATIONとも交流がある](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")。
 
 ## メンバー
 

@@ -24,7 +24,7 @@
   - Potential（2002年11月20日）
   - 7 DAYS（2003年4月23日）
   - 道しるべ（2003年7月2日）
-  - STEPPIN' RALLY（2004年4月21日[TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")）
+  - STEPPIN' RALLY（2004年4月21日[TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")）
   - ONCE AGAIN（2004年7月14日）
   - スバラシキ日々（2005年7月13日）
   - We are all alone（2005年9月22日）
@@ -40,13 +40,13 @@
 
 ### その他
 
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink"), [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink"), SOURCE「MOB SQUAD」（2003年3月19日）
-  - [Dt.](https://ja.wikipedia.org/wiki/Dt. "wikilink")「hippopotamus」（2005年11月2日）
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink"), [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink"), SOURCE「MOB SQUAD」（2003年3月19日）
+  - [Dt.](../Page/Dt..md "wikilink")「hippopotamus」（2005年11月2日）
       - 5\. BLITZ BEATS feat. ONO-G from SOURCE
 
 ## 関連項目
 
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")
   - [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
   - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")
 

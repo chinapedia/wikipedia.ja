@@ -9,7 +9,7 @@
 
 ## 15周年 Forever Friends
 
-**Forever Friends**（フォーエバー・フレンズ）は2000年12月1日放送。[フライデー・スーパー・フリーク](../Page/フライデー・スーパー・フリーク.md "wikilink")を休止しての生放送を行った。パーソナリティは[陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink")と[大内こずえ](https://ja.wikipedia.org/wiki/大内こずえ "wikilink")。放送時間は12:00～19:30。
+**Forever Friends**（フォーエバー・フレンズ）は2000年12月1日放送。[フライデー・スーパー・フリーク](../Page/フライデー・スーパー・フリーク.md "wikilink")を休止しての生放送を行った。パーソナリティは[陣内大蔵](../Page/陣内大蔵.md "wikilink")と[大内こずえ](https://ja.wikipedia.org/wiki/大内こずえ "wikilink")。放送時間は12:00～19:30。
 
 ## 16周年 あにらじ
 
@@ -25,7 +25,7 @@
 
 ## 19周年 みんなの19(JUKE)ボックス
 
-**みんなの19(JUKE)ボックス**（-ジューク-）は2004年11月23日放送。サブタイトルは「みんなに送る大感謝祭\!今日はとにかくかけまくり。時々ストップしながらも10時間以上に渡ってあなたのリクエストにお応えする開局19周年記念・FM山口ジュークボックス計画\!」。エフエム山口のスタジオ前ロビーを公開しての生放送を行った。また、[鈴木晶久](../Page/鈴木晶久.md "wikilink")アナが[お遍路さん姿で](../Page/四国八十八箇所.md "wikilink")[萩往還](../Page/萩往還.md "wikilink")を歩いたり、クイズコーナーがあったり、[水谷寛](../Page/水谷寛.md "wikilink")アナを招いての“アニソンリクエスト”があった。また、全編リクエストナンバーを放送したほか、[MEN'S FOUR ビリビリFriday内のコーナー](https://ja.wikipedia.org/wiki/MEN'S_FOUR_ビリビリFriday "wikilink")「ウチのバカチン」のパロディ、「逆・爆笑すくすく山口っ子 ウチのおかん\!」もあった。パーソナリティは[金光一昭と](https://ja.wikipedia.org/wiki/BB金光 "wikilink")[俊山真美](https://ja.wikipedia.org/wiki/俊山真美 "wikilink")。放送時間は11:30～21:55（過去最長）。
+**みんなの19(JUKE)ボックス**（-ジューク-）は2004年11月23日放送。サブタイトルは「みんなに送る大感謝祭\!今日はとにかくかけまくり。時々ストップしながらも10時間以上に渡ってあなたのリクエストにお応えする開局19周年記念・FM山口ジュークボックス計画\!」。エフエム山口のスタジオ前ロビーを公開しての生放送を行った。また、[鈴木晶久](../Page/鈴木晶久.md "wikilink")アナが[お遍路さん姿で](../Page/四国八十八箇所.md "wikilink")[萩往還](../Page/萩往還.md "wikilink")を歩いたり、クイズコーナーがあったり、[水谷寛](../Page/水谷寛.md "wikilink")アナを招いての“アニソンリクエスト”があった。また、全編リクエストナンバーを放送したほか、[MEN'S FOUR ビリビリFriday内のコーナー](../Page/MEN'S_FOUR_ビリビリFriday.md "wikilink")「ウチのバカチン」のパロディ、「逆・爆笑すくすく山口っ子 ウチのおかん\!」もあった。パーソナリティは[金光一昭と](https://ja.wikipedia.org/wiki/BB金光 "wikilink")[俊山真美](https://ja.wikipedia.org/wiki/俊山真美 "wikilink")。放送時間は11:30～21:55（過去最長）。
 
 ## 20周年 大盛\!ラジオ定食
 
@@ -42,7 +42,7 @@
 
 などの企画が行われた。
 
-タイトルにある「FMY Big Thanks Week」はエフエム山口の生番組「[Morning Kiss](https://ja.wikipedia.org/wiki/Morning_Kiss_\(FMY\) "wikilink")」「[スキップ<sup>3</sup>](https://ja.wikipedia.org/wiki/ランチタイムブレイクSkip×Skip×Skip "wikilink")」「[ぱららじ](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")」の各番組を聴いてWebサイトにアクセスするとプレゼントがもらえる企画。2006年12月1日～8日に実施され、当選者発表は12月8日の「[ビリフラMAX](../Page/ビリフラMAX.md "wikilink")」内で行われた。
+タイトルにある「FMY Big Thanks Week」はエフエム山口の生番組「[Morning Kiss](../Page/Morning_Kiss_\(FMY\).md "wikilink")」「[スキップ<sup>3</sup>](../Page/ランチタイムブレイクSkip×Skip×Skip.md "wikilink")」「[ぱららじ](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")」の各番組を聴いてWebサイトにアクセスするとプレゼントがもらえる企画。2006年12月1日～8日に実施され、当選者発表は12月8日の「[ビリフラMAX](../Page/ビリフラMAX.md "wikilink")」内で行われた。
 
 ## 22周年 ビリフラMAX featuring島スタらじお\!\!
 
@@ -119,9 +119,9 @@
 
 ### FMY Happy 30 Years 届いてる\!FMY 〜30年分の感謝を込めて〜
 
-『**FMY Happy 30 Years 届いてる\!FMY 〜30年分の感謝を込めて〜**』（エフエムワイ・ハッピー・サーティ・イヤーズ とどいてる\!エフエムワイ さんじゅうねんぶんのかんしゃをこめて）は2015年11月30日に30周年記念大型特別番組として放送される。スペシャルナビゲーターは15周年特番を務めるなどした[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")出身の[陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink")。放送時間は7:30-11:00と13:30-18:55。
+『**FMY Happy 30 Years 届いてる\!FMY 〜30年分の感謝を込めて〜**』（エフエムワイ・ハッピー・サーティ・イヤーズ とどいてる\!エフエムワイ さんじゅうねんぶんのかんしゃをこめて）は2015年11月30日に30周年記念大型特別番組として放送される。スペシャルナビゲーターは15周年特番を務めるなどした[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")出身の[陣内大蔵](../Page/陣内大蔵.md "wikilink")。放送時間は7:30-11:00と13:30-18:55。
 
-また、パートナーとして[新井道子](../Page/新井道子.md "wikilink")（7:30-8:50）、わだりえ（9:00-11:00）、[大和良子](https://ja.wikipedia.org/wiki/大和良子 "wikilink")（13:30-15:32／18:00-18:55）、[金光一昭](https://ja.wikipedia.org/wiki/BB金光 "wikilink")＆宮田あやか（15:42-18:55、宮田は途中で抜けて社長室を訪問した）が12月1日スタートの新番組の放送時間帯に合わせて登場。その他、コーナーやゲストとして[水谷寛](../Page/水谷寛.md "wikilink")、[大谷泰彦](../Page/大谷泰彦.md "wikilink")、大畠寛美、はる、中馬祥子、「オレンジ☆みるふぃ〜ゆ」のリーダー・兼頭のぞみが登場した。
+また、パートナーとして[新井道子](../Page/新井道子.md "wikilink")（7:30-8:50）、わだりえ（9:00-11:00）、[大和良子](../Page/大和良子.md "wikilink")（13:30-15:32／18:00-18:55）、[金光一昭](https://ja.wikipedia.org/wiki/BB金光 "wikilink")＆宮田あやか（15:42-18:55、宮田は途中で抜けて社長室を訪問した）が12月1日スタートの新番組の放送時間帯に合わせて登場。その他、コーナーやゲストとして[水谷寛](../Page/水谷寛.md "wikilink")、[大谷泰彦](../Page/大谷泰彦.md "wikilink")、大畠寛美、はる、中馬祥子、「オレンジ☆みるふぃ〜ゆ」のリーダー・兼頭のぞみが登場した。
 
 また、これまでレギュラー番組内で12月1日前後に行ってきた「愛あるソングリクエスト」（「愛」を歌った曲へのリクエストを募るもの）をこの番組の中で行う。
 

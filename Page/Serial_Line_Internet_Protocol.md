@@ -1,7 +1,7 @@
 > この記事は[Serial Line Internet Protocol](https://ja.wikipedia.org/wiki/Serial_Line_Internet_Protocol)から翻訳されています。
 
 
-**Serial Line Internet Protocol**（シリアル回線IP）は、ほとんどのコンピュータに内蔵されていた[シリアルポート](../Page/シリアルポート.md "wikilink")から[インターネット](../Page/インターネット.md "wikilink")などの[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")ネットワークに[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")など（シリアル通信回線）の低速回線を通じて一時的に接続するための[プロトコルである](../Page/通信プロトコル.md "wikilink")。略称**SLIP**（スリップ）。
+**Serial Line Internet Protocol**（シリアル回線IP）は、ほとんどのコンピュータに内蔵されていた[シリアルポート](../Page/シリアルポート.md "wikilink")から[インターネット](../Page/インターネット.md "wikilink")などの[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")ネットワークに[電話回線](../Page/電話回線.md "wikilink")など（シリアル通信回線）の低速回線を通じて一時的に接続するための[プロトコルである](../Page/通信プロトコル.md "wikilink")。略称**SLIP**（スリップ）。
 
 [1984年](../Page/1984年.md "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")3Comの[リック･アダムス](https://ja.wikipedia.org/wiki/リック･アダムス "wikilink")が[BSD](../Page/BSD.md "wikilink")4.2に実装しRFC1055として標準化された。
 
@@ -15,7 +15,7 @@
 
 ## 関連項目
 
-  - [コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")
+  - [コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")
   - [Point-to-Point Protocol](../Page/Point-to-Point_Protocol.md "wikilink")
 
 [Category:インターネットのプロトコル](https://ja.wikipedia.org/wiki/Category:インターネットのプロトコル "wikilink") [Category:リンク層プロトコル](https://ja.wikipedia.org/wiki/Category:リンク層プロトコル "wikilink") [Category:RFC](https://ja.wikipedia.org/wiki/Category:RFC "wikilink")

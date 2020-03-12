@@ -1,7 +1,7 @@
 > この記事は[Berryz ! ! !](https://ja.wikipedia.org/wiki/Berryz_!_!_!)から翻訳されています。
 
 
-**Berryz工房 起立\!礼\!着席\!**（ベリーズこうぼう きりつれいちゃくせき）は、[Berryz工房](../Page/Berryz工房.md "wikilink")と[K太郎が](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[K太郎のレコメン\!](https://ja.wikipedia.org/wiki/レコメン!#K太郎のレコメン!（月_-_水） "wikilink")』内の[フロート番組](https://ja.wikipedia.org/wiki/フロート番組 "wikilink")で、毎週[火曜日](../Page/火曜日.md "wikilink")23:35〜23:50[JST](../Page/日本標準時.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に放送開始、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送終了。2009年4月7日から2012年3月までこの枠で[Berryz工房 嗣永桃子のぷりぷりプリンセスが放送された](https://ja.wikipedia.org/wiki/Berryz工房_嗣永桃子のぷりぷりプリンセス "wikilink")。
+**Berryz工房 起立\!礼\!着席\!**（ベリーズこうぼう きりつれいちゃくせき）は、[Berryz工房](../Page/Berryz工房.md "wikilink")と[K太郎が](../Page/砂山圭大郎.md "wikilink")[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[K太郎のレコメン\!](https://ja.wikipedia.org/wiki/レコメン!#K太郎のレコメン!（月_-_水） "wikilink")』内の[フロート番組](../Page/フロート番組.md "wikilink")で、毎週[火曜日](../Page/火曜日.md "wikilink")23:35〜23:50[JST](../Page/日本標準時.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に放送開始、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送終了。2009年4月7日から2012年3月までこの枠で[Berryz工房 嗣永桃子のぷりぷりプリンセスが放送された](https://ja.wikipedia.org/wiki/Berryz工房_嗣永桃子のぷりぷりプリンセス "wikilink")。
 
 ## 概要
 
@@ -9,15 +9,15 @@
 
 2004年4月27日の第5回まではBerryz工房の8人全員が登場していた。[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")の第6回からは、原則として4人が登場し、内2人が[日直](../Page/日直.md "wikilink")として進行役を務めていた。第147回 2007年1月23日からは、原則として3人が登場し、うち1人が日直となった。第206回 2008年3月11日からは2人が出席・日直をつとめる形になった。スペシャル的な回で全員が登場することもある。
 
-当初はK太郎が[司会](https://ja.wikipedia.org/wiki/司会 "wikilink")をしていたが、メンバーのスキルが上昇するに連れ、K太郎の登場は減り、日直が司会をする様になった。ただし、K太郎はその後も時折登場していた。
+当初はK太郎が[司会](../Page/司会.md "wikilink")をしていたが、メンバーのスキルが上昇するに連れ、K太郎の登場は減り、日直が司会をする様になった。ただし、K太郎はその後も時折登場していた。
 
 番組開始のあいさつは「こんばんうっひー」。[菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")が考えたが、本人は自分が考えたということを忘れていた。終了のあいさつは「起立\!礼\!さようなら」。
 
-K太郎は、原則としてメンバーを「フルネーム+ちゃん」と呼ぶが、[嗣永桃子](../Page/嗣永桃子.md "wikilink")のことは「ももぴー」、[清水佐紀](../Page/清水佐紀.md "wikilink")のことは「[キャプテン](https://ja.wikipedia.org/wiki/キャプテン "wikilink")」とも呼ぶ。「ももぴー」は、恐らくこの番組発の[愛称](../Page/愛称.md "wikilink")である。
+K太郎は、原則としてメンバーを「フルネーム+ちゃん」と呼ぶが、[嗣永桃子](../Page/嗣永桃子.md "wikilink")のことは「ももぴー」、[清水佐紀](../Page/清水佐紀.md "wikilink")のことは「[キャプテン](../Page/キャプテン.md "wikilink")」とも呼ぶ。「ももぴー」は、恐らくこの番組発の[愛称](../Page/愛称.md "wikilink")である。
 
 嗣永桃子が、番組内で不定期に**嗣永憲法**を発表している。
 
-2004年夏、「[ハロー\!プロジェクトオフィシャルショップ](https://ja.wikipedia.org/wiki/ハロー!プロジェクト#ハロー!プロジェクトオフィシャルショップ "wikilink")・[スタンプラリー](https://ja.wikipedia.org/wiki/スタンプラリー "wikilink")」の景品として、[CD](../Page/コンパクトディスク.md "wikilink")『Berryz工房 起立\!礼\!着席\! 課外授業編』（別名『Berryz工房スペシャルCD』）が抽選で500名に配布された。内容は放送された番組ではなく、約18分の完全新録である。
+2004年夏、「[ハロー\!プロジェクトオフィシャルショップ](https://ja.wikipedia.org/wiki/ハロー!プロジェクト#ハロー!プロジェクトオフィシャルショップ "wikilink")・[スタンプラリー](../Page/スタンプラリー.md "wikilink")」の景品として、[CD](../Page/コンパクトディスク.md "wikilink")『Berryz工房 起立\!礼\!着席\! 課外授業編』（別名『Berryz工房スペシャルCD』）が抽選で500名に配布された。内容は放送された番組ではなく、約18分の完全新録である。
 
 番組終了後、嗣永桃子は『[Berryz工房 嗣永桃子のぷりぷりプリンセス](https://ja.wikipedia.org/wiki/Berryz工房_嗣永桃子のぷりぷりプリンセス "wikilink")』も続投、清水佐紀と[徳永千奈美](../Page/徳永千奈美.md "wikilink")と[須藤茉麻](../Page/須藤茉麻.md "wikilink")は、『・・・プリンセス』と同時期に[Podcast QRでスタートした](../Page/Podcast_QR.md "wikilink")『[Berryz工房 べりつぅ\!](https://ja.wikipedia.org/wiki/Berryz工房_べりつぅ! "wikilink")』に異動した。
 
@@ -58,7 +58,7 @@ K太郎は、原則としてメンバーを「フルネーム+ちゃん」と呼
   - はちゃめちゃホームルーム 2nd Stage - 対決コーナー。よみうりランドで行われた「笑っちゃおうよBOY FRIEND」の発売記念イベントでBHC王者決勝トーナメントが行われた。2代目チャンピオンは徳永千奈美。
   - はちゃめちゃスペシャルレッスン - ハロプロの先輩（松浦、後藤、石川、メロン記念日）から指令が出され、その指令をクリアする戦い。
   - Berryz夏期講習 - メンバーそれぞれの「苦手」を克服しよう！というコーナー。2005年夏に実施。2006年夏にその後の経過が報告された。
-  - Berryz短歌工房 - テーマに沿った[短歌](https://ja.wikipedia.org/wiki/短歌 "wikilink")をリスナーから募集。当初、バレンタインや七夕の時期、メンバーが短歌を発表していた。
+  - Berryz短歌工房 - テーマに沿った[短歌](../Page/短歌.md "wikilink")をリスナーから募集。当初、バレンタインや七夕の時期、メンバーが短歌を発表していた。
   - Berryzキッチン -2008年3月11日放送分からスタート。お餅を素材としたワッフル風のお菓子「[モッフル](https://ja.wikipedia.org/wiki/モッフル "wikilink")」に何かをはさんで食べる試食コーナー。第1回はチョコとバナナ（試食:清水＆菅谷）。第2回はキムチと納豆（試食:徳永&菅谷）。第3回は「トマトをグジュグジュにつぶして砂糖をかけたもの」（試食:嗣永&菅谷）。第4回は「グリンピース（＋キムチ）（試食:夏焼&熊井）。第5回は「アイスクリーム」（試食:清水&菅谷）。第6回は「たくあん」（試食:清水&嗣永）。
   - 放課後の秘密基地 - 2008年3月18日放送分からスタート。世の中で話題になっている物、これから流行りそうな物に、Berryz工房がアタックしていくコーナー。第1回は「声ちぇき」。第2回は嗣永桃子のマイブーム「ギター」（講師:鷲崎健）。第3回は「自己紹介工場」（同時に「熊井ちゃんにトマトを食べさせよう」というドッキリ企画も行われた）。第4回は「貯金箱」（フェイスバンク、世界1周しながら10万円たまる本）。第5回は「ダンス」（講師:コンドルズの勝山康晴、藤田善宏）第6回は「血液型（O型）」。
 
@@ -87,16 +87,16 @@ K太郎は、原則としてメンバーを「フルネーム+ちゃん」と呼
   - 2005年4月19日（第56回）[安倍なつみ](../Page/安倍なつみ.md "wikilink")
   - 2005年6月28日（第66回）後藤真希
   - 2005年8月16日・23日（第73・74回）W
-  - 2005年8月30日（第75回）[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")・後藤真希・[美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")
+  - 2005年8月30日（第75回）[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")・後藤真希・[美勇伝](../Page/美勇伝.md "wikilink")
   - 2005年12月6日・13日（第89・90回）後藤真希
   - 2007年1月23日 [カントリー娘。](../Page/カントリー娘。.md "wikilink")
-  - 2007年4月10日・17日 [タイムマシーン3号](https://ja.wikipedia.org/wiki/タイムマシーン3号 "wikilink")
+  - 2007年4月10日・17日 [タイムマシーン3号](../Page/タイムマシーン3号.md "wikilink")
   - 2007年8月7日 [林マヤ](../Page/林マヤ.md "wikilink")
   - 2007年8月28日 [あさりど](../Page/あさりど.md "wikilink")
   - 2007年10月23日 [℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（[梅田えりか](../Page/梅田えりか.md "wikilink")・鈴木愛理・岡井千聖・[有原栞菜](../Page/栞菜.md "wikilink")）
-  - 2008年4月29日 [鷲崎健](https://ja.wikipedia.org/wiki/鷲崎健 "wikilink")
+  - 2008年4月29日 [鷲崎健](../Page/鷲崎健.md "wikilink")
   - 2008年5月13日 鈴木愛理
-  - 2008年6月10日 [矢島舞美](../Page/矢島舞美.md "wikilink")・[前田憂佳](https://ja.wikipedia.org/wiki/前田憂佳 "wikilink")
+  - 2008年6月10日 [矢島舞美](../Page/矢島舞美.md "wikilink")・[前田憂佳](../Page/前田憂佳.md "wikilink")
   - 2008年8月5日 [益子・ペプラー](https://ja.wikipedia.org/wiki/レコメン!#K太郎のレコメン!（月_-_水） "wikilink")
   - 2008年9月2日 勝山康晴・[藤田善宏](https://ja.wikipedia.org/wiki/藤田善宏 "wikilink")
 

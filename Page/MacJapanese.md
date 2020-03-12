@@ -7,7 +7,7 @@
 
 ## 対応する文字コード
 
-MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assigned_Numbers_Authority.md "wikilink")。そのため RFC 2045 の [§ 6.3](http://tools.ietf.org/html/rfc2045#section-6.3) に従って、[XML](../Page/Extensible_Markup_Language.md "wikilink")、[MIMEなどでは](https://ja.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions "wikilink") "**x-Mac-Japanese**" という[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")がこの文字コードの名前として使われている（アップル製である[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")もこの名前を認識する\[1\]）。
+MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assigned_Numbers_Authority.md "wikilink")。そのため RFC 2045 の [§ 6.3](http://tools.ietf.org/html/rfc2045#section-6.3) に従って、[XML](../Page/Extensible_Markup_Language.md "wikilink")、[MIMEなどでは](../Page/Multipurpose_Internet_Mail_Extensions.md "wikilink") "**x-Mac-Japanese**" という[文字列](../Page/文字列.md "wikilink")がこの文字コードの名前として使われている（アップル製である[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")もこの名前を認識する\[1\]）。
 
 また、MacJapaneseを[Unicode](../Page/Unicode.md "wikilink")にマッピング（対応付け）した上で、Unicode用の[文字符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")（[UTF-16](../Page/UTF-16.md "wikilink")、[UTF-8](../Page/UTF-8.md "wikilink")など）を使って符号化する方法もあり、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")のファイル名などにはこの方法が使われている。ただし、MacJapanese固有の文字を私用領域 (Private Use Area) のU+F860、U+F861、U+F862、U+F87A、U+F87E、U+F87Fを使って表現するので、macOS以外の環境との互換性は無い。
 
@@ -23,11 +23,11 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 
 次の記号が追加されている。
 
-  - 0x80 …… U+5C reverse solidus (= backslash)、半角[バックスラッシュ](https://ja.wikipedia.org/wiki/バックスラッシュ "wikilink")「」（[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink") の0x5Cと同じ）
-  - 0xA0 …… U+A0 no-break space、[ノーブレークスペース](https://ja.wikipedia.org/wiki/ノーブレークスペース "wikilink") (NBSP)
+  - 0x80 …… U+5C reverse solidus (= backslash)、半角[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")「」（[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink") の0x5Cと同じ）
+  - 0xA0 …… U+A0 no-break space、[ノーブレークスペース](../Page/ノーブレークスペース.md "wikilink") (NBSP)
   - 0xFD …… U+A9 copyright sign、[著作権記号](https://ja.wikipedia.org/wiki/著作権記号 "wikilink")「」（○で囲まれた「C」）
   - 0xFE …… U+2122 trade mark sign、商標記号「」（「」）
-  - 0xFF …… halfwidth horizontal ellipsis、半角の欧文用三点[リーダー](https://ja.wikipedia.org/wiki/リーダー_\(記号\) "wikilink")（半角幅の「」）
+  - 0xFF …… halfwidth horizontal ellipsis、半角の欧文用三点[リーダー](../Page/リーダー_\(記号\).md "wikilink")（半角幅の「」）
 
 ### 2バイト
 
@@ -716,7 +716,7 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/顔郵便マーク" title="wikilink">顔郵便マーク</a></p></td>
+<td><p><a href="../Page/顔郵便マーク.md" title="wikilink">顔郵便マーク</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td><p>黒電話</p></td>
@@ -952,7 +952,7 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 </table>
 
 <table>
-<caption><a href="https://ja.wikipedia.org/wiki/組文字" title="wikilink">組文字</a></caption>
+<caption><a href="../Page/組文字.md" title="wikilink">組文字</a></caption>
 <thead>
 <tr class="header">
 <th><p>文字</p></th>
@@ -1106,7 +1106,7 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 </table>
 
 <table>
-<caption><a href="https://ja.wikipedia.org/wiki/引用符" title="wikilink">引用符</a></caption>
+<caption><a href="../Page/引用符.md" title="wikilink">引用符</a></caption>
 <thead>
 <tr class="header">
 <th><p>文字</p></th>
@@ -1171,9 +1171,9 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 
 #### 縦書き用の文字
 
-縦書き用文字には、[括弧](https://ja.wikipedia.org/wiki/括弧 "wikilink")などの記号を回転させたものと、[句読点](../Page/句読点.md "wikilink")と[小書きの仮名を右上に寄せたものがある](../Page/捨て仮名.md "wikilink")。「」（二点リーダ）、「」（三点リーダ）、「」「」（括弧）、「」「」（すみ付き括弧）など。三点リーダは U+FE19 に収録されているが、MacJapaneseのコードポイントとは異なり、互換性はない。
+縦書き用文字には、[括弧](../Page/括弧.md "wikilink")などの記号を回転させたものと、[句読点](../Page/句読点.md "wikilink")と[小書きの仮名を右上に寄せたものがある](../Page/捨て仮名.md "wikilink")。「」（二点リーダ）、「」（三点リーダ）、「」「」（括弧）、「」「」（すみ付き括弧）など。三点リーダは U+FE19 に収録されているが、MacJapaneseのコードポイントとは異なり、互換性はない。
 
-これらは、[DTP](../Page/DTP.md "wikilink")などの縦書きに対応したアプリケーションで縦書き表示をする際に、本来の文字コードを変換して[QuickDraw](https://ja.wikipedia.org/wiki/QuickDraw "wikilink")の描画[APIに渡すために使われたものである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。通常、情報交換に使われることはない。
+これらは、[DTP](../Page/DTP.md "wikilink")などの縦書きに対応したアプリケーションで縦書き表示をする際に、本来の文字コードを変換して[QuickDraw](../Page/QuickDraw.md "wikilink")の描画[APIに渡すために使われたものである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。通常、情報交換に使われることはない。
 
 ## 他の文字コードとの対応
 
@@ -1183,7 +1183,7 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 
 [NEC特殊文字にある文字](https://ja.wikipedia.org/wiki/Microsoftコードページ932#NEC特殊文字 "wikilink")。73字。
 
-シフト符号化表現で符号化すると、MacJapaneseと [Windows-31J](https://ja.wikipedia.org/wiki/Microsoftコードページ932 "wikilink")、[Shift_JIS-2004](../Page/Shift_JIS-2004.md "wikilink") とでは別のコードポイントが与えられているために、[機種依存文字](../Page/機種依存文字.md "wikilink")として[文字化け](../Page/文字化け.md "wikilink")の原因となる。例えば「」（○で囲まれた「12」）は Windows-31J や Shift_JIS-2004 では 0x874B に割り当てられているが、MacJapanese においては 0x874B に「」（「（代）」）が割り当てられているといった具合である。[Unicode](../Page/Unicode.md "wikilink") においては同じコードポイントが与えられているため、文字化けは発生しない。
+シフト符号化表現で符号化すると、MacJapaneseと [Windows-31J](../Page/Microsoftコードページ932.md "wikilink")、[Shift_JIS-2004](../Page/Shift_JIS-2004.md "wikilink") とでは別のコードポイントが与えられているために、[機種依存文字](../Page/機種依存文字.md "wikilink")として[文字化け](../Page/文字化け.md "wikilink")の原因となる。例えば「」（○で囲まれた「12」）は Windows-31J や Shift_JIS-2004 では 0x874B に割り当てられているが、MacJapanese においては 0x874B に「」（「（代）」）が割り当てられているといった具合である。[Unicode](../Page/Unicode.md "wikilink") においては同じコードポイントが与えられているため、文字化けは発生しない。
 
 ### 区分2
 
@@ -1450,7 +1450,7 @@ U+0076</p></td>
 
 [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")においては、MacJapaneseは「Shift_JIS (Mac)」（文字パレット）あるいは「日本語 (Mac OS)」（[テキストエディット](https://ja.wikipedia.org/wiki/TextEdit "wikilink")）と表現される。
 
-また、macOS附属のフォントでは[OsakaのみがMacJapaneseに完全対応している](../Page/Osaka_\(書体\).md "wikilink")。[ヒラギノ](https://ja.wikipedia.org/wiki/ヒラギノ "wikilink")はUnicodeと[CIDに対応しているため](../Page/CID_\(文字コード\).md "wikilink")、Unicodeを扱えるアプリケーション上ではUnicodeに対応する文字が存在しない18字（上記の区分5〜7 ）を除いてMacJapaneseの文字を表示できる。一方、CID を扱えるアプリケーション上でヒラギノを使う場合には、halfwidth horizontal ellipsis （半角三点リーダー）以外の文字を全て表示できる。
+また、macOS附属のフォントでは[OsakaのみがMacJapaneseに完全対応している](../Page/Osaka_\(書体\).md "wikilink")。[ヒラギノ](../Page/ヒラギノ.md "wikilink")はUnicodeと[CIDに対応しているため](../Page/CID_\(文字コード\).md "wikilink")、Unicodeを扱えるアプリケーション上ではUnicodeに対応する文字が存在しない18字（上記の区分5〜7 ）を除いてMacJapaneseの文字を表示できる。一方、CID を扱えるアプリケーション上でヒラギノを使う場合には、halfwidth horizontal ellipsis （半角三点リーダー）以外の文字を全て表示できる。
 
 ## iPod での対応
 
@@ -1464,7 +1464,7 @@ U+0076</p></td>
 
   - [Shift_JIS](../Page/Shift_JIS.md "wikilink")
 
-  - [Microsoftコードページ932](https://ja.wikipedia.org/wiki/Microsoftコードページ932 "wikilink")
+  - [Microsoftコードページ932](../Page/Microsoftコードページ932.md "wikilink")
 
   - [Unicode](../Page/Unicode.md "wikilink")
 

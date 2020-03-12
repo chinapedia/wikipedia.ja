@@ -6,27 +6,27 @@
 ## メンバー
 
   - 前田カシ：ボーカル（[1965年](../Page/1965年.md "wikilink") - ）
-    熊本県[天草市](https://ja.wikipedia.org/wiki/天草市 "wikilink")小松原町出身。
+    熊本県[天草市](../Page/天草市.md "wikilink")小松原町出身。
     解散後「ラフボーイズ」名義でアマチュア活動をしていた。10年余りの空白期間を経て2009年より、鍋田とカズーマン（元サニーサイドチキンズ）と「マエカシ&442」として再活動中。2013年より「マエカシ」としてソロ活動が中心となっている。
   - 鍋田建：ギター（[1963年](../Page/1963年.md "wikilink") - ）
-    熊本県[玉名郡](../Page/玉名郡.md "wikilink")[長洲町](https://ja.wikipedia.org/wiki/長洲町 "wikilink")出身。
-    ギターの講師をしている。[一五一会](https://ja.wikipedia.org/wiki/一五一会 "wikilink")の教則本に名前があった。2013年現在、前田らと共に「マエカシ＆442」を始め、色々な形態での音楽活動を行っている。
+    熊本県[玉名郡](../Page/玉名郡.md "wikilink")[長洲町](../Page/長洲町.md "wikilink")出身。
+    ギターの講師をしている。[一五一会](../Page/一五一会.md "wikilink")の教則本に名前があった。2013年現在、前田らと共に「マエカシ＆442」を始め、色々な形態での音楽活動を行っている。
   - 鐘ヶ江隆二：ベース
-    熊本県[阿蘇市](https://ja.wikipedia.org/wiki/阿蘇市 "wikilink")出身。
+    熊本県[阿蘇市](../Page/阿蘇市.md "wikilink")出身。
     アーティストのベースサポート、ピアノソロのシンガーソングライター、鐘ヶ江隆二\&MOCCO’Sとしても活動。
   - 伊東ミキオ：キーボード（[1967年](../Page/1967年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - ）
     熊本県[上天草市](../Page/上天草市.md "wikilink")大矢野町出身。
     父親が自衛隊員。元気いっぱいに跳ね回るキーボード演奏にはファンが多かった。1992年に脱退し、現在は[ウルフルズ](../Page/ウルフルズ.md "wikilink")サポートメンバーなどを務めている。
   - 丸山英秋：ドラム
-    [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[志布志市](https://ja.wikipedia.org/wiki/志布志市 "wikilink")生まれの長崎県[五島市](https://ja.wikipedia.org/wiki/五島市 "wikilink")[三井楽町](https://ja.wikipedia.org/wiki/三井楽町 "wikilink")育ち。
+    [鹿児島県](../Page/鹿児島県.md "wikilink")[志布志市](../Page/志布志市.md "wikilink")生まれの長崎県[五島市](../Page/五島市.md "wikilink")[三井楽町](../Page/三井楽町.md "wikilink")育ち。
     現在は「丸山ヒデアキ」名義でソロのシンガーソングライターとして活動。
 
 ## 概要
 
-前身はM-CAKEというバンド。当初は[ニュー・ウェイヴ系のサウンドで](https://ja.wikipedia.org/wiki/ニュー・ウェイヴ_\(音楽\) "wikilink")、[スージー・アンド・ザ・バンシーズ](https://ja.wikipedia.org/wiki/スージー・アンド・ザ・バンシーズ "wikilink")のカバーなどもしていた。 自主製作テープ「グッド・アンバランス」「プラトナイズ」、シングル「CHECK　ON　T-MAP」をリリースし、地元熊本を中心に好セールスを上げる。[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")([ポプコン](https://ja.wikipedia.org/wiki/ポプコン "wikilink"))熊本大会グランプリ受賞や[フレッシュサウンズコンテスト](https://ja.wikipedia.org/wiki/フレッシュサウンズコンテスト "wikilink")出場の経験も。
+前身はM-CAKEというバンド。当初は[ニュー・ウェイヴ系のサウンドで](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")、[スージー・アンド・ザ・バンシーズ](../Page/スージー・アンド・ザ・バンシーズ.md "wikilink")のカバーなどもしていた。 自主製作テープ「グッド・アンバランス」「プラトナイズ」、シングル「CHECK　ON　T-MAP」をリリースし、地元熊本を中心に好セールスを上げる。[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")([ポプコン](https://ja.wikipedia.org/wiki/ポプコン "wikilink"))熊本大会グランプリ受賞や[フレッシュサウンズコンテスト](https://ja.wikipedia.org/wiki/フレッシュサウンズコンテスト "wikilink")出場の経験も。
 また、[熊本大学](../Page/熊本大学.md "wikilink")学園祭の恒例ロックイベント「ロック・イン・黒髪」にも毎年出演。[博多](../Page/博多.md "wikilink")でも頻繁にライブを行う。[1988年](../Page/1988年.md "wikilink")に上京直前に、熊本郵便貯金会館で初のホールワンマンライブ「GO　TO　PARADISE」、全国ツアーを敢行。
 
-[1989年](../Page/1989年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")、[平成名物TV](https://ja.wikipedia.org/wiki/平成名物TV "wikilink")「[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")」に出場。GROUND NUTSを名乗ったのはこの直前である。「[宇宙人](../Page/宇宙人.md "wikilink")と交信したい」というボーカル前田の途方もない夢をそのまま語った、元気の良いキーボードサウンドとボーカルが特徴の『Let's Go3』を完奏。チャレンジャーを獲得してキング[NORMA JEANに挑み](../Page/NORMA_JEAN_\(日本\).md "wikilink")、キングの小気味良い小刻みなリズムが特徴の『YOU CAN CRY FOR ME』と対決。審査員曰く「**伯仲ですね**」と評されたが、結果は審査員投票6対1で敗北する。1990年にメジャーデビュー、アルバム1枚、シングル2枚を発表した。
+[1989年](../Page/1989年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")、[平成名物TV](../Page/平成名物TV.md "wikilink")「[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")」に出場。GROUND NUTSを名乗ったのはこの直前である。「[宇宙人](../Page/宇宙人.md "wikilink")と交信したい」というボーカル前田の途方もない夢をそのまま語った、元気の良いキーボードサウンドとボーカルが特徴の『Let's Go3』を完奏。チャレンジャーを獲得してキング[NORMA JEANに挑み](../Page/NORMA_JEAN_\(日本\).md "wikilink")、キングの小気味良い小刻みなリズムが特徴の『YOU CAN CRY FOR ME』と対決。審査員曰く「**伯仲ですね**」と評されたが、結果は審査員投票6対1で敗北する。1990年にメジャーデビュー、アルバム1枚、シングル2枚を発表した。
 
 つい「いか天」「ホコ天」出身バンドという先入観を持たれがちだが、音の感触はむしろ[BO GUMBOSあたりに近かった](../Page/BO_GUMBOS.md "wikilink")。
 
@@ -43,8 +43,8 @@
 ## エピソード
 
   - 伊東が上京する際、母親から特大の[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")二玉を持たされたという。
-  - イカ天出演時に持っていたプラカードではルビは**グランドナッツ**となっている。また、[叫ぶ詩人の会](https://ja.wikipedia.org/wiki/叫ぶ詩人の会 "wikilink")の曲「あだなの詩」でも「かしくん　グランドナッツのボーカル」（「かしくん」はボーカルの前田カシ）と歌われている\[1\]。
-  - ボーカルの前田は[腰痛](https://ja.wikipedia.org/wiki/腰痛 "wikilink")もち。
+  - イカ天出演時に持っていたプラカードではルビは**グランドナッツ**となっている。また、[叫ぶ詩人の会](../Page/叫ぶ詩人の会.md "wikilink")の曲「あだなの詩」でも「かしくん　グランドナッツのボーカル」（「かしくん」はボーカルの前田カシ）と歌われている\[1\]。
+  - ボーカルの前田は[腰痛](../Page/腰痛.md "wikilink")もち。
   - 上京のとき　熊本弁が抜けずにパン屋さんであ～んぱんとあ～んぱん(あのパンと、あのパン)をくださいと方言で言ってアンパンを二個買ったらしい。
 
 ## ディスコグラフィー
@@ -60,8 +60,8 @@
 
 ## 関連項目
 
-  - [三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")
-  - [三宅裕司のいかすバンド天国に出場したバンド](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国に出場したバンド "wikilink")
+  - [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")
+  - [三宅裕司のいかすバンド天国に出場したバンド](../Page/三宅裕司のいかすバンド天国に出場したバンド.md "wikilink")
 
 ## いかすバンド天国の歴代チャレンジャー
 

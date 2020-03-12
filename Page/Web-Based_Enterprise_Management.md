@@ -1,7 +1,7 @@
 > この記事は[Web-Based Enterprise Management](https://ja.wikipedia.org/wiki/Web-Based_Enterprise_Management)から翻訳されています。
 
 
-**Web-Based Enterprise Management**（**WBEM**）は、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")環境の管理を統合するために開発された[システム管理](https://ja.wikipedia.org/wiki/システム管理 "wikilink")技術群の名称である。WBEM は各種[インターネット標準](https://ja.wikipedia.org/wiki/インターネット標準 "wikilink")や[DMTFの](https://ja.wikipedia.org/wiki/Distributed_Management_Task_Force "wikilink")[オープン標準](https://ja.wikipedia.org/wiki/オープン標準 "wikilink")に基づいている（[CIMインフラストラクチャとスキーマ](https://ja.wikipedia.org/wiki/Common_Information_Model "wikilink")、CIM-[XML](../Page/Extensible_Markup_Language.md "wikilink")、CIM over [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[WS-Management](https://ja.wikipedia.org/wiki/WS-Management "wikilink")）。その他のシステム管理手法として、[リモートシェル](https://ja.wikipedia.org/wiki/リモートシェル "wikilink")、独自ソリューション、[SNMPなどを使った](../Page/Simple_Network_Management_Protocol.md "wikilink")[ネットワーク管理](../Page/ネットワーク管理.md "wikilink")などがある。
+**Web-Based Enterprise Management**（**WBEM**）は、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")環境の管理を統合するために開発された[システム管理](../Page/システム管理.md "wikilink")技術群の名称である。WBEM は各種[インターネット標準](../Page/インターネット標準.md "wikilink")や[DMTFの](../Page/Distributed_Management_Task_Force.md "wikilink")[オープン標準](../Page/オープン標準.md "wikilink")に基づいている（[CIMインフラストラクチャとスキーマ](../Page/Common_Information_Model.md "wikilink")、CIM-[XML](../Page/Extensible_Markup_Language.md "wikilink")、CIM over [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[WS-Management](https://ja.wikipedia.org/wiki/WS-Management "wikilink")）。その他のシステム管理手法として、[リモートシェル](../Page/リモートシェル.md "wikilink")、独自ソリューション、[SNMPなどを使った](../Page/Simple_Network_Management_Protocol.md "wikilink")[ネットワーク管理](../Page/ネットワーク管理.md "wikilink")などがある。
 
 ## アーキテクチャ
 
@@ -29,7 +29,7 @@ WBEM は各種コンポーネントから構成されるが、デバイス製造
 
   - [OpenWBEM](http://www.novell.com/coolsolutions/feature/14625.html): [ノベルによるオープンソース実装](../Page/ノベル_\(企業\).md "wikilink")。[SUSE Linux Enterprise Serverに実装されている](../Page/SUSE.md "wikilink")
   - [Solaris WBEM Services](http://jp.sun.com/products/software/solaris/seas/wbem/): [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の[Solaris](../Page/Solaris.md "wikilink")に実装されている
-  - [WMI](https://ja.wikipedia.org/wiki/Windows_Management_Instrumentation "wikilink"): [マイクロソフト](../Page/マイクロソフト.md "wikilink") の[Windowsに実装されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+  - [WMI](../Page/Windows_Management_Instrumentation.md "wikilink"): [マイクロソフト](../Page/マイクロソフト.md "wikilink") の[Windowsに実装されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - HP WBEM Services for [HP-UX](../Page/HP-UX.md "wikilink"): [ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")のHP-UX 11iv1以降より実装
   - [CimBiote](http://cimbiote.et.redhat.com/): [レッドハット](../Page/レッドハット.md "wikilink")
 
@@ -46,7 +46,7 @@ WBEM は各種コンポーネントから構成されるが、デバイス製造
 
 ## 関連項目
 
-  - [SMI-S](https://ja.wikipedia.org/wiki/SMI-S "wikilink")
+  - [SMI-S](../Page/SMI-S.md "wikilink")
 
 ## 外部リンク
 

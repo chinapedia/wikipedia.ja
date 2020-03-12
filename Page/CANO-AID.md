@@ -1,7 +1,7 @@
 > この記事は[CANO-AID](https://ja.wikipedia.org/wiki/CANO-AID)から翻訳されています。
 
 
-**CANO-AID**は[COBOL](https://ja.wikipedia.org/wiki/COBOL "wikilink")ソース、[JCL](https://ja.wikipedia.org/wiki/JCL "wikilink")、[データベース](../Page/データベース.md "wikilink")定義等を自動生成する開発支援ツールである。[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")株式会社において、[メインフレーム](../Page/メインフレーム.md "wikilink")アプリケーションの開発生産性を向上させるため、本村昭二を中心としたプロジェクトによって開発された。 1984年[キヤノンソフトウェア](https://ja.wikipedia.org/wiki/キヤノンソフトウェア "wikilink")株式会社によって発売が開始され、メインフレームの各種DB/DCに対応し、稼働環境を広げていった。
+**CANO-AID**は[COBOL](../Page/COBOL.md "wikilink")ソース、[JCL](https://ja.wikipedia.org/wiki/JCL "wikilink")、[データベース](../Page/データベース.md "wikilink")定義等を自動生成する開発支援ツールである。[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")株式会社において、[メインフレーム](../Page/メインフレーム.md "wikilink")アプリケーションの開発生産性を向上させるため、本村昭二を中心としたプロジェクトによって開発された。 1984年[キヤノンソフトウェア](../Page/キヤノンソフトウェア.md "wikilink")株式会社によって発売が開始され、メインフレームの各種DB/DCに対応し、稼働環境を広げていった。
 
 ガメン オ ヨム、フアイル オ カク等、片仮名を使用した中間言語[CORAL](https://ja.wikipedia.org/wiki/CORAL "wikilink")で開発をする。また、ロジックは全て部品と言う概念で構成されている。
 
@@ -35,10 +35,10 @@
 CORAL版CANO-AIDは、以下のDB/DCに対応している。
 
 1.  ADM/DB DC 日立　[VOS3](../Page/VOS3.md "wikilink")
-2.  [IMS](https://ja.wikipedia.org/wiki/IMS "wikilink")/DB DC　 IBM　[MVS](https://ja.wikipedia.org/wiki/MVS "wikilink")
+2.  [IMS](../Page/IMS.md "wikilink")/DB DC　 IBM　[MVS](https://ja.wikipedia.org/wiki/MVS "wikilink")
       -
         [DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")オプション
-3.  [IMS](https://ja.wikipedia.org/wiki/IMS "wikilink")/DB [CICS](https://ja.wikipedia.org/wiki/CICS "wikilink") IBM　[MVS](https://ja.wikipedia.org/wiki/MVS "wikilink")
+3.  [IMS](../Page/IMS.md "wikilink")/DB [CICS](../Page/CICS.md "wikilink") IBM　[MVS](https://ja.wikipedia.org/wiki/MVS "wikilink")
       -
         [DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")オプション
 4.  [XDM](https://ja.wikipedia.org/wiki/XDM_\(データベース\) "wikilink") DCCM3　　日立　[VOS3](../Page/VOS3.md "wikilink")

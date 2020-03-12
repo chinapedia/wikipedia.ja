@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR球界王**（-きゅうかいおう）は、[1994年](../Page/1994年.md "wikilink")及び[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に、[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")[西陣が発売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")、[野球](../Page/野球.md "wikilink")をモチーフとした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
+**CR球界王**（-きゅうかいおう）は、[1994年](../Page/1994年.md "wikilink")及び[2007年](../Page/2007年.md "wikilink")に、[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")[西陣が発売した](../Page/西陣_\(企業\).md "wikilink")、[野球](../Page/野球.md "wikilink")をモチーフとした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
 
 ## 1994年版
 
@@ -41,13 +41,13 @@
 
 ### 関連商品
 
-  - 『西陣パチンコ物語』（[ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月23日、スーパーファミコン用ゲームソフト）
-  - 『西陣パチンコ三昧第一巻』（[ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月28日、[WindowsPC用ゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
-  - 『パチンコ・サウンド・トラックス～花満伝説、パチンピック～』（[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")、[1999年](../Page/1999年.md "wikilink")3月18日、CRCP-20211）
+  - 『西陣パチンコ物語』（[ケイエスエス](../Page/ケイエスエス.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月23日、スーパーファミコン用ゲームソフト）
+  - 『西陣パチンコ三昧第一巻』（[ケイエスエス](../Page/ケイエスエス.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月28日、[WindowsPC用ゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
+  - 『パチンコ・サウンド・トラックス～花満伝説、パチンピック～』（[日本クラウン](../Page/日本クラウン.md "wikilink")、[1999年](../Page/1999年.md "wikilink")3月18日、CRCP-20211）
 
 ## 2007年版
 
-発売される3機種いずれもが確変突入率80%という、いわゆる「バトルスペック」となっている。また演出中には、[デーブ大久保](https://ja.wikipedia.org/wiki/大久保博元 "wikilink")、[定岡正二](https://ja.wikipedia.org/wiki/定岡正二 "wikilink")、[パンチ佐藤](https://ja.wikipedia.org/wiki/パンチ佐藤 "wikilink")が登場する。
+発売される3機種いずれもが確変突入率80%という、いわゆる「バトルスペック」となっている。また演出中には、[デーブ大久保](https://ja.wikipedia.org/wiki/大久保博元 "wikilink")、[定岡正二](../Page/定岡正二.md "wikilink")、[パンチ佐藤](../Page/パンチ佐藤.md "wikilink")が登場する。
 
 ### スペック
 

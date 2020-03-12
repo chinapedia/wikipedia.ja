@@ -1,15 +1,15 @@
 > この記事は[America\'s Next Top Model](https://ja.wikipedia.org/wiki/America\'s_Next_Top_Model)から翻訳されています。
 
 
-『**America's Next Top Model**』（アメリカズ・ネクスト・トップモデル）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[CWネットワーク](https://ja.wikipedia.org/wiki/CWネットワーク "wikilink")で放送中の[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")型[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")。略称は「**ANTM**」。元[スーパーモデル](https://ja.wikipedia.org/wiki/スーパーモデル "wikilink")の[タイラ・バンクス](https://ja.wikipedia.org/wiki/タイラ・バンクス "wikilink")がホスト兼製作総指揮を務めている。
+『**America's Next Top Model**』（アメリカズ・ネクスト・トップモデル）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[CWネットワーク](https://ja.wikipedia.org/wiki/CWネットワーク "wikilink")で放送中の[オーディション](../Page/オーディション.md "wikilink")型[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")。略称は「**ANTM**」。元[スーパーモデル](../Page/スーパーモデル.md "wikilink")の[タイラ・バンクス](../Page/タイラ・バンクス.md "wikilink")がホスト兼製作総指揮を務めている。
 
-[2003年](../Page/2003年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")から第1シーズンとなる[Cycle 1が放送となり](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_1 "wikilink")、[2011年](../Page/2011年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")からは[Cycle 16が放送中](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_16 "wikilink")。日本では、[FOXチャンネル](https://ja.wikipedia.org/wiki/FOXチャンネル "wikilink")にて[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月11日](../Page/9月11日.md "wikilink") - [11月1日](../Page/11月1日.md "wikilink")に[Cycle 1](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_1 "wikilink")、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月11日](../Page/4月11日.md "wikilink") - [6月20日](../Page/6月20日.md "wikilink")に[Cycle 2を放送](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_2 "wikilink")。その後、[FOXライフ](https://ja.wikipedia.org/wiki/FOXライフ "wikilink")にて[2009年](../Page/2009年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - [10月3日](../Page/10月3日.md "wikilink")に[Cycle 3](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_3 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [6月26日](../Page/6月26日.md "wikilink")[Cycle 4](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_4 "wikilink")、[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink") - [9月25日](../Page/9月25日.md "wikilink")[Cycle 5](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_5 "wikilink")、[10月2日](../Page/10月2日.md "wikilink") - [12月30日](../Page/12月30日.md "wikilink")[Cycle 6](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_6 "wikilink")、[2011年](../Page/2011年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [6月29日](../Page/6月29日.md "wikilink")Cycle7を放送。旧fox bsにて2012年6月18日-9月17日,Cycle9、2013年5月31日-8月16日,Cycle10、2013年9月5日-2013年11月28日、Cycle11、2014年2月6日-、Cycle12を放送。
+[2003年](../Page/2003年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")から第1シーズンとなる[Cycle 1が放送となり](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_1 "wikilink")、[2011年](../Page/2011年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")からは[Cycle 16が放送中](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_16 "wikilink")。日本では、[FOXチャンネル](../Page/FOXチャンネル.md "wikilink")にて[2006年](../Page/2006年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink") - [11月1日](../Page/11月1日.md "wikilink")に[Cycle 1](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_1 "wikilink")、[2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink") - [6月20日](../Page/6月20日.md "wikilink")に[Cycle 2を放送](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_2 "wikilink")。その後、[FOXライフ](../Page/FOXライフ.md "wikilink")にて[2009年](../Page/2009年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - [10月3日](../Page/10月3日.md "wikilink")に[Cycle 3](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_3 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [6月26日](../Page/6月26日.md "wikilink")[Cycle 4](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_4 "wikilink")、[7月3日](../Page/7月3日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")[Cycle 5](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_5 "wikilink")、[10月2日](../Page/10月2日.md "wikilink") - [12月30日](../Page/12月30日.md "wikilink")[Cycle 6](https://ja.wikipedia.org/wiki/America's_Next_Top_Model,_Cycle_6 "wikilink")、[2011年](../Page/2011年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [6月29日](../Page/6月29日.md "wikilink")Cycle7を放送。旧fox bsにて2012年6月18日-9月17日,Cycle9、2013年5月31日-8月16日,Cycle10、2013年9月5日-2013年11月28日、Cycle11、2014年2月6日-、Cycle12を放送。
 
-オープニングテーマは、[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")界のヒットメーカーである[ロドニー・ジャーキンス](https://ja.wikipedia.org/wiki/ロドニー・ジャーキンス "wikilink")(Rodney Jerkins)が手掛けており、ホストである[タイラ自身が歌っている](https://ja.wikipedia.org/wiki/タイラ・バンクス "wikilink")。
+オープニングテーマは、[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")界のヒットメーカーである[ロドニー・ジャーキンス](https://ja.wikipedia.org/wiki/ロドニー・ジャーキンス "wikilink")(Rodney Jerkins)が手掛けており、ホストである[タイラ自身が歌っている](../Page/タイラ・バンクス.md "wikilink")。
 
 ## 概要
 
-全米中から[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")の[モデルを夢見る一般の候補者を募集し](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")、次世代の[Top Modelを見つけ出すという趣旨のもと進行する番組](https://ja.wikipedia.org/wiki/スーパーモデル "wikilink")。サイクル最初の回は選考で通った約30人からファイナリストを選び出す。そしてファイナリストとなる十数名は、番組が用意した高級アパートや豪邸で共同生活に入る。写真撮影やCM撮影などのお題が与えられ、成績の悪いコンテスタントを毎週一人ずつ落選させていく。TOP5またはTOP6まで残ると海外ロケとなり、世界の主だったファッション都市で生活する。そして、最後に残ったコンテスタントには優勝賞品として、[ウィルヘルミーナ・モデルズ](https://ja.wikipedia.org/wiki/ウィルヘルミーナ・モデルズ "wikilink")、フォード・モデルズ、IMGなど世界的規模の[モデルエージェンシー](https://ja.wikipedia.org/wiki/モデルエージェンシー "wikilink")との契約、[化粧品メーカー](https://ja.wikipedia.org/wiki/化粧品メーカー・ブランド "wikilink")（[REVLON](https://ja.wikipedia.org/wiki/レブロン "wikilink")、[SEPHORA](https://ja.wikipedia.org/wiki/SEPHORA "wikilink")、[CoverGirl](https://ja.wikipedia.org/wiki/CoverGirl "wikilink")）との10万ドルの専属契約、「[marie claire](https://ja.wikipedia.org/wiki/marie_claire "wikilink")」「JANE」「ELLE girl」「Seventeen」などの[ファッション誌の表紙モデル](../Page/ファッション雑誌.md "wikilink")（または誌面掲載）が約束されている。 2015年のcycle22でアメリカ版の放送が終了することをタイラから発表された。
+全米中から[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")の[モデルを夢見る一般の候補者を募集し](../Page/ファッションモデル.md "wikilink")、次世代の[Top Modelを見つけ出すという趣旨のもと進行する番組](../Page/スーパーモデル.md "wikilink")。サイクル最初の回は選考で通った約30人からファイナリストを選び出す。そしてファイナリストとなる十数名は、番組が用意した高級アパートや豪邸で共同生活に入る。写真撮影やCM撮影などのお題が与えられ、成績の悪いコンテスタントを毎週一人ずつ落選させていく。TOP5またはTOP6まで残ると海外ロケとなり、世界の主だったファッション都市で生活する。そして、最後に残ったコンテスタントには優勝賞品として、[ウィルヘルミーナ・モデルズ](https://ja.wikipedia.org/wiki/ウィルヘルミーナ・モデルズ "wikilink")、フォード・モデルズ、IMGなど世界的規模の[モデルエージェンシー](https://ja.wikipedia.org/wiki/モデルエージェンシー "wikilink")との契約、[化粧品メーカー](https://ja.wikipedia.org/wiki/化粧品メーカー・ブランド "wikilink")（[REVLON](https://ja.wikipedia.org/wiki/レブロン "wikilink")、[SEPHORA](https://ja.wikipedia.org/wiki/SEPHORA "wikilink")、[CoverGirl](https://ja.wikipedia.org/wiki/CoverGirl "wikilink")）との10万ドルの専属契約、「[marie claire](https://ja.wikipedia.org/wiki/marie_claire "wikilink")」「JANE」「ELLE girl」「Seventeen」などの[ファッション誌の表紙モデル](../Page/ファッション雑誌.md "wikilink")（または誌面掲載）が約束されている。 2015年のcycle22でアメリカ版の放送が終了することをタイラから発表された。
 
 ## 番組の流れ
 
@@ -73,21 +73,21 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Eva_Pigford" title="wikilink">エヴァ・ピグフォード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤヤ・ダコスタ" title="wikilink">ヤヤ・ダコスタ</a></p></td>
 <td><p>Magdalena Rivas, Leah Darrow, Julie Titus, Kristi Grommet, Jennipher Frost, Kelle Jacob, Cassie Grisham, Toccara Jones, Nicole Borud, Norelle Van Herk, Ann Markley, Amanda Swafford</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日本</a>、<a href="https://ja.wikipedia.org/wiki/東京" title="wikilink">東京</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日本</a>、<a href="../Page/東京.md" title="wikilink">東京</a><br />
  <a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tokyo_Prefecture.svg" title="wikilink">20px</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:w:America&#39;s_Next_Top_Model,_Cycle_4" title="wikilink">Cycle 4</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Naima_Mora" title="wikilink">ナイーマ・モラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Kahlen_Rondot" title="wikilink">カーレン・ロンド</a></p></td>
 <td><p>Brita Petersons, Sarah Dankleman, Brandy Rusher, Noelle Staggers, Lluvy Gomez, Tiffany Richardson &amp; Rebecca Epley, Tatiana Dante, Michelle Deighton, Christina Murphy, Brittany Brower, Keenyah Hill</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/南アフリカ共和国" title="wikilink">南アフリカ共和国</a>、<a href="https://ja.wikipedia.org/wiki/ケープタウン" title="wikilink">ケープタウン</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/南アフリカ共和国" title="wikilink">南アフリカ共和国</a>、<a href="../Page/ケープタウン.md" title="wikilink">ケープタウン</a><br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:w:America&#39;s_Next_Top_Model,_Cycle_5" title="wikilink">Cycle 5</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Nicole_Linkletter" title="wikilink">ニコル・リンクレター</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Nik_Pace" title="wikilink">ニック・ペイス</a></p></td>
 <td><p>Ashley Black, Ebony Taylor, Cassandra Whitehead, Sarah Rhoades, Diane Hernández, Coryn Woitel, Kyle Kavanagh, Lisa D'Amato, Kim Stolz, Jayla Rubinelli, Bre Scullark</p></td>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:w:America&#39;s_Next_Top_Model,_Cycle_6" title="wikilink">Cycle 6</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Danielle_Evans" title="wikilink">ダニエレ・エヴァンス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Joanie_Dodds" title="wikilink">ジョアニー・ドッズ</a></p></td>
 <td><p>Kathy Hoxit, Wendy Wiltz, Kari Schmidt, Gina Choe, Mollie Sue Steenis-Gondi, Leslie Mancia, Brooke Staricha, Nnenna Agba, Furonda Brasfield, Sara Albert, Jade Cole</p></td>
@@ -104,7 +104,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:w:America&#39;s_Next_Top_Model,_Cycle_7" title="wikilink">Cycle 7</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:CariDee_English" title="wikilink">キャリディー・イングリッシュ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Melrose_Bickerstaff" title="wikilink">メルローズ・ビッカースタッフ</a></p></td>
 <td><p>Christian Evans, Megan Morris, Monique Calhoun, Megg Morales, AJ Stewart, Brooke Miller, Anchal Joseph, Jaeda Young, Michelle Babin, Amanda Babin, Eugena Washington</p></td>
@@ -113,20 +113,20 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:w:America&#39;s_Next_Top_Model,_Cycle_8" title="wikilink">Cycle 8</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/2月28日.md" title="wikilink">2月28日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月28日.md" title="wikilink">2月28日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Jaslene_Gonzalez" title="wikilink">ジャスリーン・ゴンザレス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Natasha_Galkina" title="wikilink">ナターシャ・ガルキナ</a></p></td>
 <td><p>Kathleen DuJour, Samantha Francis, Cassandra Watson, Felicia Provost, Diana Zalewski, Sarah Vanderhaar, Whitney Cunningham, Jael Strauss , Brittany Hatch, Dionne Walters, Renee Alway</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーストラリア" title="wikilink">オーストラリア</a>、<a href="https://ja.wikipedia.org/wiki/シドニー" title="wikilink">シドニー</a><br />
+<td><p><a href="../Page/オーストラリア.md" title="wikilink">オーストラリア</a>、<a href="../Page/シドニー.md" title="wikilink">シドニー</a><br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:w:America&#39;s_Next_Top_Model,_Cycle_9" title="wikilink">Cycle 9</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Saleisha_Stowers" title="wikilink">:w:Saleisha Stowers</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:w:Chantal_Jones" title="wikilink">シャンタル・ジョーンズ</a></p></td>
 <td><p>Mila Bouzinova, Kimberly Leemans, Victoria Marshman, Janet Mills, Ebony Morgan, Sarah Hartshman, Ambreal Williams, Lisa Jackson, Heather Kuzmich, Bianca Golden, Jenah Doucette</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中国" title="wikilink">中国</a>、<a href="../Page/北京市.md" title="wikilink">北京</a><br />
+<td><p><a href="../Page/中国.md" title="wikilink">中国</a>、<a href="../Page/北京市.md" title="wikilink">北京</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@
 
 ## 他国版
 
-アメリカ版の成功により、現在多くの国でリメイクされ放送されている。ほぼ一貫して言えることは、ホスト兼審査員をその国出身の[スーパーモデル](https://ja.wikipedia.org/wiki/スーパーモデル "wikilink")たちが務めていることである。[Yfke Sturm](https://ja.wikipedia.org/wiki/:w:Yfke_Sturm "wikilink")、[ハイジ・クラム](https://ja.wikipedia.org/wiki/ハイジ・クラム "wikilink")、[ミニ・アンデン](https://ja.wikipedia.org/wiki/ミニ・アンデン "wikilink")や[トリシア・エルファー](https://ja.wikipedia.org/wiki/トリシア・エルファー "wikilink")は、その中でも代表格である。また、オーストラリアの[:w:Australia's Next Top Modelの](https://ja.wikipedia.org/wiki/:w:Australia's_Next_Top_Model "wikilink")[Cycle 3で優勝した](https://ja.wikipedia.org/wiki/:w:Australia's_Next_Top_Model,_Cycle_3 "wikilink")[Alice Burdeuは](https://ja.wikipedia.org/wiki/:w:Alice_Burdeu "wikilink")、ファッション雑誌[VOGUE誌の表紙を飾り](https://ja.wikipedia.org/wiki/ヴォーグ_\(雑誌\) "wikilink")、[DOLCE & GABBANAを始め](https://ja.wikipedia.org/wiki/DOLCE_&_GABBANA "wikilink")、[ドルチェ&ガッバーナ](../Page/ドルチェ&ガッバーナ.md "wikilink")、[セリーヌ](https://ja.wikipedia.org/wiki/セリーヌ "wikilink")、[Louis Vuitton](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")、[ランバン](https://ja.wikipedia.org/wiki/ランバン "wikilink")、[アレキサンダー・マックイーン](../Page/アレキサンダー・マックイーン.md "wikilink")などのトップ・メゾンのコレクションに起用されるなどの快挙を成し遂げている。
+アメリカ版の成功により、現在多くの国でリメイクされ放送されている。ほぼ一貫して言えることは、ホスト兼審査員をその国出身の[スーパーモデル](../Page/スーパーモデル.md "wikilink")たちが務めていることである。[Yfke Sturm](https://ja.wikipedia.org/wiki/:w:Yfke_Sturm "wikilink")、[ハイジ・クラム](https://ja.wikipedia.org/wiki/ハイジ・クラム "wikilink")、[ミニ・アンデン](https://ja.wikipedia.org/wiki/ミニ・アンデン "wikilink")や[トリシア・エルファー](https://ja.wikipedia.org/wiki/トリシア・エルファー "wikilink")は、その中でも代表格である。また、オーストラリアの[:w:Australia's Next Top Modelの](https://ja.wikipedia.org/wiki/:w:Australia's_Next_Top_Model "wikilink")[Cycle 3で優勝した](https://ja.wikipedia.org/wiki/:w:Australia's_Next_Top_Model,_Cycle_3 "wikilink")[Alice Burdeuは](https://ja.wikipedia.org/wiki/:w:Alice_Burdeu "wikilink")、ファッション雑誌[VOGUE誌の表紙を飾り](../Page/ヴォーグ_\(雑誌\).md "wikilink")、[DOLCE & GABBANAを始め](https://ja.wikipedia.org/wiki/DOLCE_&_GABBANA "wikilink")、[ドルチェ&ガッバーナ](../Page/ドルチェ&ガッバーナ.md "wikilink")、[セリーヌ](https://ja.wikipedia.org/wiki/セリーヌ "wikilink")、[Louis Vuitton](../Page/ルイ・ヴィトン.md "wikilink")、[ランバン](https://ja.wikipedia.org/wiki/ランバン "wikilink")、[アレキサンダー・マックイーン](../Page/アレキサンダー・マックイーン.md "wikilink")などのトップ・メゾンのコレクションに起用されるなどの快挙を成し遂げている。
 
 <table>
 <thead>
@@ -353,7 +353,7 @@ Adriana Karembeu (2007)</p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/:w:Germany&#39;s_Next_Topmodel" title="wikilink">:w:Germany's Next Topmodel</a></em></p></td>
 <td><p>ProSieben</p></td>
 <td><p>2006-present</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイディ・クルム" title="wikilink">ハイディ・クルム</a></p></td>
+<td><p><a href="../Page/ハイディ・クルム.md" title="wikilink">ハイディ・クルム</a></p></td>
 <td><p>4</p></td>
 <td><p>The first franchise to air a live final show</p></td>
 </tr>

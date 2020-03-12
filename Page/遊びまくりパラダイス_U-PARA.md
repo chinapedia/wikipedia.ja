@@ -1,7 +1,7 @@
 > この記事は[ U-PARA](https://ja.wikipedia.org/wiki/_U-PARA)から翻訳されています。
 
 
-**遊びまくりパラダイス U-PARA**（ユーパラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")に展開している[ゲームセンター](../Page/ゲームセンター.md "wikilink")である。 日本国内では[神戸](../Page/神戸市.md "wikilink")、[高崎](https://ja.wikipedia.org/wiki/高崎市 "wikilink")、[仙台](https://ja.wikipedia.org/wiki/仙台市 "wikilink")、[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[岡山](../Page/岡山市.md "wikilink")、[熊本に展開していたが](https://ja.wikipedia.org/wiki/熊本市 "wikilink")、2009年8月末の仙台店閉鎖を最後に、国内での営業はゼロとなった。 韓国では3店舗が営業されていたが閉店し続け、今となっては[京畿道](../Page/京畿道.md "wikilink")[富川市](https://ja.wikipedia.org/wiki/富川市 "wikilink")の1個所しか残ってない。
+**遊びまくりパラダイス U-PARA**（ユーパラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")に展開している[ゲームセンター](../Page/ゲームセンター.md "wikilink")である。 日本国内では[神戸](../Page/神戸市.md "wikilink")、[高崎](../Page/高崎市.md "wikilink")、[仙台](../Page/仙台市.md "wikilink")、[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[岡山](../Page/岡山市.md "wikilink")、[熊本に展開していたが](https://ja.wikipedia.org/wiki/熊本市 "wikilink")、2009年8月末の仙台店閉鎖を最後に、国内での営業はゼロとなった。 韓国では3店舗が営業されていたが閉店し続け、今となっては[京畿道](../Page/京畿道.md "wikilink")[富川市](https://ja.wikipedia.org/wiki/富川市 "wikilink")の1個所しか残ってない。
 
 ## 事業内容
 
@@ -17,7 +17,7 @@
 
   - 株式会社ディッシュファイン
       - [資本金](../Page/資本金.md "wikilink")、1億6千万円
-      - [本社](https://ja.wikipedia.org/wiki/本社 "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田鍛冶町](../Page/神田_\(千代田区\).md "wikilink")3－3
+      - [本社](../Page/本社.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田鍛冶町](../Page/神田_\(千代田区\).md "wikilink")3－3
 
 ## 遊びまくりパラダイス
 

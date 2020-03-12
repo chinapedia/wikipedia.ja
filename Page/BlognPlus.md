@@ -3,14 +3,14 @@
 
 **BlognPlus**（ぶろぐんぷらす）は、[Blogn](https://ja.wikipedia.org/wiki/Blogn "wikilink")の公式な後継として[PHPで開発されている純](../Page/PHP_\(プログラミング言語\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国産の[ブログ](../Page/ブログ.md "wikilink")[ウェア](../Page/ソフトウェア.md "wikilink")。作者は高橋昇一（たかはし しょういち）。他のブログウェアと比較した場合、知名度も余り高いとは言えずシェアは低い。
 
-非常に多彩な設定項目や[非公式](https://ja.wikipedia.org/wiki/非公式 "wikilink")の[モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")が多数存在し、カスタマイズ性に富んでいる。しかし、[MovableType](https://ja.wikipedia.org/wiki/MovableType "wikilink")や[WordPress](https://ja.wikipedia.org/wiki/WordPress "wikilink")等とは違い、本体スクリプトを編集しなくてはいけないことが多いため、アップデートする度にユーザーが本体に修正を加える必要がある。
+非常に多彩な設定項目や[非公式](https://ja.wikipedia.org/wiki/非公式 "wikilink")の[モジュール](../Page/モジュール.md "wikilink")が多数存在し、カスタマイズ性に富んでいる。しかし、[MovableType](https://ja.wikipedia.org/wiki/MovableType "wikilink")や[WordPress](../Page/WordPress.md "wikilink")等とは違い、本体スクリプトを編集しなくてはいけないことが多いため、アップデートする度にユーザーが本体に修正を加える必要がある。
 
 また、[データベース](../Page/データベース.md "wikilink")を必要とする[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")版、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")版と、データベースを必要としないTEXT版がある為、データベースの使えない[サーバ](../Page/サーバ.md "wikilink")でも利用することが可能である。
 
 ## 主な機能
 
   - PHPによる動的ページの生成
-  - 月毎の[ログ](https://ja.wikipedia.org/wiki/ログ "wikilink")[ファイル分割](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")（TEXT版のみ）
+  - 月毎の[ログ](https://ja.wikipedia.org/wiki/ログ "wikilink")[ファイル分割](../Page/ファイル_\(コンピュータ\).md "wikilink")（TEXT版のみ）
   - 限定ユーザー記事の作成
   - 記事の予約投稿
   - [モブログ](https://ja.wikipedia.org/wiki/モブログ "wikilink")
@@ -22,7 +22,7 @@
   - カテゴリー設定
   - [IPアドレス](../Page/IPアドレス.md "wikilink")指定によるアクセス規制設定
   - [リンク管理](../Page/ハイパーリンク.md "wikilink")
-  - [アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")[ファイルマネージャー](https://ja.wikipedia.org/wiki/ファイルマネージャー "wikilink")
+  - [アップロード](../Page/アップロード.md "wikilink")[ファイルマネージャー](https://ja.wikipedia.org/wiki/ファイルマネージャー "wikilink")
 
 ## スキン
 
@@ -34,25 +34,25 @@
 
 ### 公式
 
-  - [カレンダー](https://ja.wikipedia.org/wiki/カレンダー "wikilink")
+  - [カレンダー](../Page/カレンダー.md "wikilink")
   - [Comment](https://ja.wikipedia.org/wiki/コメント "wikilink") [Captcha](https://ja.wikipedia.org/wiki/Captcha "wikilink")
 
 ### 非公式
 
   - BlognPlus [Upload](https://ja.wikipedia.org/wiki/Upload "wikilink") [Plugin](../Page/プラグイン.md "wikilink")
-  - BlognPlus [RSSReader](https://ja.wikipedia.org/wiki/フィードリーダー "wikilink") [Plugin](../Page/プラグイン.md "wikilink")
+  - BlognPlus [RSSReader](../Page/フィードリーダー.md "wikilink") [Plugin](../Page/プラグイン.md "wikilink")
   - BlognPlus [Filter](../Page/フィルター.md "wikilink") [Plugin](../Page/プラグイン.md "wikilink")
   - [Captcha](https://ja.wikipedia.org/wiki/Captcha "wikilink")
-  - [Feed](https://ja.wikipedia.org/wiki/フィード "wikilink") Generator
+  - [Feed](../Page/フィード.md "wikilink") Generator
   - [Google](../Page/Google.md "wikilink") [Sitemap](https://ja.wikipedia.org/wiki/Sitemap "wikilink") 生成[スクリプト](../Page/スクリプト.md "wikilink")
-  - [がちゃがちゃ](https://ja.wikipedia.org/wiki/カプセルトイ "wikilink")[エントリ](https://ja.wikipedia.org/wiki/エントリ "wikilink") for BlognPlus
-  - 記事評価[モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")
-  - [パンくずリスト](../Page/パンくずリスト.md "wikilink")表示[モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")
-  - [メール](https://ja.wikipedia.org/wiki/メール "wikilink")[フォーム](https://ja.wikipedia.org/wiki/フォーム "wikilink")[モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")
+  - [がちゃがちゃ](../Page/カプセルトイ.md "wikilink")[エントリ](https://ja.wikipedia.org/wiki/エントリ "wikilink") for BlognPlus
+  - 記事評価[モジュール](../Page/モジュール.md "wikilink")
+  - [パンくずリスト](../Page/パンくずリスト.md "wikilink")表示[モジュール](../Page/モジュール.md "wikilink")
+  - [メール](https://ja.wikipedia.org/wiki/メール "wikilink")[フォーム](https://ja.wikipedia.org/wiki/フォーム "wikilink")[モジュール](../Page/モジュール.md "wikilink")
 
 ## 関連項目
 
-  - [コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS)
+  - [コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS)
   - [ブログ](../Page/ブログ.md "wikilink")
   - [トラックバック](https://ja.wikipedia.org/wiki/トラックバック "wikilink")
 

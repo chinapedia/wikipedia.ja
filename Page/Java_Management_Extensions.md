@@ -3,13 +3,13 @@
 
 **Java Management Extensions**（**JMX**）は、[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")/システムオブジェクト/デバイス（[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")など）/サービス指向ネットワークなどの監視・管理のためのツールを提供する[Javaプラットフォーム](../Page/Javaプラットフォーム.md "wikilink")技術の一種。これらのリソースは MBean（[Managed Bean](https://ja.wikipedia.org/wiki/Managed_Bean "wikilink")）と呼ばれるオブジェクトで表現される。この[APIの面白い特徴として](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[クラス群を動的にロードしてインスタンス化できる](../Page/クラス_\(コンピュータ\).md "wikilink")。
 
-JMX 1.0、1.1、1.2 は [Java Community Process](https://ja.wikipedia.org/wiki/Java_Community_Process "wikilink") の [JSR](https://ja.wikipedia.org/wiki/Java_Community_Process "wikilink") [3](http://www.jcp.org/en/jsr/detail?id=3) で定義された。JMX 2.0 が JSR [255](http://www.jcp.org/en/jsr/detail?id=255) として開発されてきたが、2016年で中止された\[1\]。遠隔管理・監視のための JMX Remote API 1.0 は JSR [160](http://www.jcp.org/en/jsr/detail?id=160) で規定された。Webサービスのための JMX Remote API 拡張は JSR [262](http://www.jcp.org/en/jsr/detail?id=262) で開発中である。
+JMX 1.0、1.1、1.2 は [Java Community Process](../Page/Java_Community_Process.md "wikilink") の [JSR](../Page/Java_Community_Process.md "wikilink") [3](http://www.jcp.org/en/jsr/detail?id=3) で定義された。JMX 2.0 が JSR [255](http://www.jcp.org/en/jsr/detail?id=255) として開発されてきたが、2016年で中止された\[1\]。遠隔管理・監視のための JMX Remote API 1.0 は JSR [160](http://www.jcp.org/en/jsr/detail?id=160) で規定された。Webサービスのための JMX Remote API 拡張は JSR [262](http://www.jcp.org/en/jsr/detail?id=262) で開発中である。
 
 当初、[J2EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") に受け入れられたが、JMX は [Java SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") のバージョン5.0以降にも組み込まれている。なお「JMX」 は[オラクルの商標である](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")。
 
 ## Managed Bean
 
-**Managed Bean**（しばしば略してMBeanと呼ぶ）は、[JavaBeans](../Page/JavaBeans.md "wikilink")の一種であり、[依存性の注入](https://ja.wikipedia.org/wiki/依存性の注入 "wikilink")により作られている。MBeanは特にJava Management Extensions技術で用いられている。しかし、Java EE 6仕様ではmanaged beanにより詳細な意味を与えている。
+**Managed Bean**（しばしば略してMBeanと呼ぶ）は、[JavaBeans](../Page/JavaBeans.md "wikilink")の一種であり、[依存性の注入](../Page/依存性の注入.md "wikilink")により作られている。MBeanは特にJava Management Extensions技術で用いられている。しかし、Java EE 6仕様ではmanaged beanにより詳細な意味を与えている。
 
 MBeanは[Java Virtual Machine上で走るリソース](https://ja.wikipedia.org/wiki/Java_Virtual_Machine "wikilink")（アプリケーションやJava EE技術サービス（トランザクション・モニタやJDBCドライバなど））との連絡窓口の役割を果たす。MBeanは、関心のある統計数値（パフォーマンス、リソース使用量、問題など）を収集すること（プル）、アプリケーションの設定値を取得または設定すること（プッシュ/プル）、および障害や状態変化などのイベントを通知すること（プッシュ）に使える。
 
@@ -29,7 +29,7 @@ JMX は以下の3階層アーキテクチャに基づいている:
 
   - *Probe* レベル*（Instrumentation*レベルとも呼ぶ） : プローブ（MBean）によりリソースの状態を監視・測定する。
   - *Agent* レベル （MBeanServer とも呼ぶ）: JMX の中核である。MBean とアプリケーションの仲介を行う。
-  - *Remote Management* レベル : 遠隔のアプリケーションが Connector や Adaptor を通して MBeanServer にアクセスできるようにする。Connector は各種通信フレームワーク（[Java RMI](https://ja.wikipedia.org/wiki/Java_Remote_Method_Invocation "wikilink")、[IIOP](https://ja.wikipedia.org/wiki/IIOP "wikilink")、[JMS](../Page/Java_Message_Service.md "wikilink")、[WS-\*など](https://ja.wikipedia.org/wiki/Webサービス "wikilink")）を使って MBeanServer API への完全なリモートアクセスを提供する。Adaptor はそのAPIを他のプロトコル（[SNMPなど](../Page/Simple_Network_Management_Protocol.md "wikilink")）に接続したり、WebベースのGUI（[HTML](../Page/HyperText_Markup_Language.md "wikilink")/[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[WML](https://ja.wikipedia.org/wiki/Wireless_Markup_Language "wikilink")/[HTTPなど](../Page/Hypertext_Transfer_Protocol.md "wikilink")）に接続したりする。
+  - *Remote Management* レベル : 遠隔のアプリケーションが Connector や Adaptor を通して MBeanServer にアクセスできるようにする。Connector は各種通信フレームワーク（[Java RMI](../Page/Java_Remote_Method_Invocation.md "wikilink")、[IIOP](https://ja.wikipedia.org/wiki/IIOP "wikilink")、[JMS](../Page/Java_Message_Service.md "wikilink")、[WS-\*など](../Page/Webサービス.md "wikilink")）を使って MBeanServer API への完全なリモートアクセスを提供する。Adaptor はそのAPIを他のプロトコル（[SNMPなど](../Page/Simple_Network_Management_Protocol.md "wikilink")）に接続したり、WebベースのGUI（[HTML](../Page/HyperText_Markup_Language.md "wikilink")/[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[WML](../Page/Wireless_Markup_Language.md "wikilink")/[HTTPなど](../Page/Hypertext_Transfer_Protocol.md "wikilink")）に接続したりする。
 
 アプリケーションとしては、汎用のコンソール（[JConsole](http://java.sun.com/developer/technicalArticles/J2SE/jconsole.html) や [MC4J](http://mc4j.org/confluence/display/mc4j/Home) など）でもよいし、ドメイン固有の（監視）アプリケーションでもよい。
 
@@ -37,8 +37,8 @@ JMX は以下の3階層アーキテクチャに基づいている:
 
 JMX のサポート状況はベンダーによって様々である:
 
-  - Java [アプリケーションサーバ](https://ja.wikipedia.org/wiki/アプリケーションサーバ "wikilink")（[JBoss](https://ja.wikipedia.org/wiki/JBoss "wikilink")、[JOnAS](https://ja.wikipedia.org/wiki/JOnAS "wikilink")、[WebSphere Application Server](https://ja.wikipedia.org/wiki/WebSphere_Application_Server "wikilink")、[BEA WebLogic Server](https://ja.wikipedia.org/wiki/BEA_WebLogic_Server "wikilink")、[Sun Java System Application Serverなど](https://ja.wikipedia.org/wiki/Sun_Java_System_Application_Server "wikilink")）は JMX をサポートしている。
-  - [システム管理](https://ja.wikipedia.org/wiki/システム管理 "wikilink")ツールとして JMX をサポートしているものには [HP OpenView](https://ja.wikipedia.org/wiki/OpenView "wikilink") などがある。
+  - Java [アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")（[JBoss](../Page/JBoss.md "wikilink")、[JOnAS](../Page/JOnAS.md "wikilink")、[WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink")、[BEA WebLogic Server](https://ja.wikipedia.org/wiki/BEA_WebLogic_Server "wikilink")、[Sun Java System Application Serverなど](https://ja.wikipedia.org/wiki/Sun_Java_System_Application_Server "wikilink")）は JMX をサポートしている。
+  - [システム管理](../Page/システム管理.md "wikilink")ツールとして JMX をサポートしているものには [HP OpenView](../Page/OpenView.md "wikilink") などがある。
   - [MX4J](http://mx4j.sourceforge.net/) はオープンソースの JMX 実装である。
   - [JManage](http://www.jmanage.org) はオープンソースの JMX コンソールであり、Webインタフェースとコマンド行インタフェースがある。
   - [MC4J](http://mc4j.org/) はオープンソースのJMXコンソールである。
@@ -52,9 +52,9 @@ JMX のサポート状況はベンダーによって様々である:
   - [OSGi](../Page/OSGi.md "wikilink")
   - [Simple Network Management Protocol](../Page/Simple_Network_Management_Protocol.md "wikilink")
   - [ネットワーク管理](../Page/ネットワーク管理.md "wikilink")
-  - [メタクラス](https://ja.wikipedia.org/wiki/メタクラス "wikilink")
-  - [メタプログラミング](https://ja.wikipedia.org/wiki/メタプログラミング "wikilink")
-  - [リフレクション](https://ja.wikipedia.org/wiki/リフレクション_\(情報工学\) "wikilink")
+  - [メタクラス](../Page/メタクラス.md "wikilink")
+  - [メタプログラミング](../Page/メタプログラミング.md "wikilink")
+  - [リフレクション](../Page/リフレクション_\(情報工学\).md "wikilink")
 
 ## 参考文献
 

@@ -1,15 +1,15 @@
 > この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
 
 
-『**関西ジャニーズJr.もぎたて関ジュース**』（かんさいジャニーズジュニアもぎたてかんジュース）は、[ラジオ関西](../Page/ラジオ関西.md "wikilink")で2007年4月から放送されていた、[関西ジャニーズJr.が月替わりで](https://ja.wikipedia.org/wiki/ジャニーズJr.#関西ジャニーズJr. "wikilink")[パーソナリティーを務める初のレギュラーラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")\[1\]。ラジオ番組『[JAM×JAM](https://ja.wikipedia.org/wiki/JAM×JAM "wikilink")』内で放送されている。当初はスポーツ紙『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』のコラムと連動した番組として開始された\[2\]。
+『**関西ジャニーズJr.もぎたて関ジュース**』（かんさいジャニーズジュニアもぎたてかんジュース）は、[ラジオ関西](../Page/ラジオ関西.md "wikilink")で2007年4月から放送されていた、[関西ジャニーズJr.が月替わりで](https://ja.wikipedia.org/wiki/ジャニーズJr.#関西ジャニーズJr. "wikilink")[パーソナリティーを務める初のレギュラーラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")\[1\]。ラジオ番組『[JAM×JAM](../Page/JAM×JAM.md "wikilink")』内で放送されている。当初はスポーツ紙『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』のコラムと連動した番組として開始された\[2\]。
 
-番組放送当初から出演していた[桐山照史](https://ja.wikipedia.org/wiki/桐山照史 "wikilink")、[中間淳太](https://ja.wikipedia.org/wiki/中間淳太 "wikilink")が[2014年](../Page/2014年.md "wikilink")に[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")のメンバーに選ばれ\[3\]、番組名も『**ジャニーズWEST もぎたて関ジュース**』に変更された。また、本項目では同じ『JAM×JAM』内で2016年7月からレギュラー放送されている『**関西ジャニーズJr. とれたて関ジュース**』\[4\]についても扱う。
+番組放送当初から出演していた[桐山照史](../Page/桐山照史.md "wikilink")、[中間淳太](../Page/中間淳太.md "wikilink")が[2014年](../Page/2014年.md "wikilink")に[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")のメンバーに選ばれ\[3\]、番組名も『**ジャニーズWEST もぎたて関ジュース**』に変更された。また、本項目では同じ『JAM×JAM』内で2016年7月からレギュラー放送されている『**関西ジャニーズJr. とれたて関ジュース**』\[4\]についても扱う。
 
 ## 内容・放送時間
 
   - 関西ジャニーズJr.もぎたて関ジュース
     関西ジャニーズJr.のメンバーが月替りでパーソナリティを務める。放送を開始した2007年4月のみ、“番組スタートスペシャル”として、関西ジャニーズJr.内ユニットが週替わりで放送を担当した\[5\]。
-      - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月開始。毎週土曜日の19時20分 - 放送。
+      - [2007年](../Page/2007年.md "wikilink")4月開始。毎週土曜日の19時20分 - 放送。
 
       - 、毎週日曜日の22時30分 - 22時45分の15分間放送\[6\]。
   - ジャニーズWEST もぎたて関ジュース
@@ -27,13 +27,13 @@
 
 :\* 関西ジャニーズJr.
 
-:\*\* [B.A.D.](https://ja.wikipedia.org/wiki/B.A.D. "wikilink")\[14\]
+:\*\* [B.A.D.](../Page/B.A.D..md "wikilink")\[14\]
 
-:\*\*\* [桐山照史](https://ja.wikipedia.org/wiki/桐山照史 "wikilink")、[中間淳太](https://ja.wikipedia.org/wiki/中間淳太 "wikilink")
+:\*\*\* [桐山照史](../Page/桐山照史.md "wikilink")、[中間淳太](../Page/中間淳太.md "wikilink")
 
 :\*\* [BOYS](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#BOYS "wikilink")\[15\]
 
-:\*\*\* [濱田崇裕](https://ja.wikipedia.org/wiki/濱田崇裕 "wikilink")、[中田大智](https://ja.wikipedia.org/wiki/中田大智 "wikilink")、[室龍太](https://ja.wikipedia.org/wiki/室龍太 "wikilink")、山崎薫太
+:\*\*\* [濱田崇裕](../Page/濱田崇裕.md "wikilink")、[中田大智](../Page/中田大智.md "wikilink")、[室龍太](https://ja.wikipedia.org/wiki/室龍太 "wikilink")、山崎薫太
 
 :\*\* [OSSaN](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#OSSaN "wikilink")\[16\]
 
@@ -41,7 +41,7 @@
 
 :\*\* [チームべてらん](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#Veteran "wikilink")\[17\]
 
-:\*\*\* 伊藤政氏、[浜中文一](https://ja.wikipedia.org/wiki/浜中文一 "wikilink")、[室龍規](https://ja.wikipedia.org/wiki/室龍規 "wikilink")、菊岡正展
+:\*\*\* 伊藤政氏、[浜中文一](../Page/浜中文一.md "wikilink")、[室龍規](https://ja.wikipedia.org/wiki/室龍規 "wikilink")、菊岡正展
 
   -
 
@@ -49,7 +49,7 @@
 
 :\* [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")
 
-:\*\* [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")、桐山照史、中間淳太、[神山智洋](https://ja.wikipedia.org/wiki/神山智洋 "wikilink")、[藤井流星](https://ja.wikipedia.org/wiki/藤井流星 "wikilink")、[濵田崇裕](https://ja.wikipedia.org/wiki/濵田崇裕 "wikilink")、[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")
+:\*\* [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")、桐山照史、中間淳太、[神山智洋](../Page/神山智洋.md "wikilink")、[藤井流星](https://ja.wikipedia.org/wiki/藤井流星 "wikilink")、[濵田崇裕](https://ja.wikipedia.org/wiki/濵田崇裕 "wikilink")、[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")
 
   -
 

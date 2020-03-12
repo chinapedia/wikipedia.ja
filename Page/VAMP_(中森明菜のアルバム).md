@@ -5,11 +5,11 @@
 
 ## 背景
 
-『VAMP』は、1996年12月18日にスペシャルパッケージ仕様の限定生産で、CD（規格品番: MVCZ-1002）で発売された全4曲収録のミニ・アルバムである\[1\]\[2\]。このアルバムのレコーディングは、Sound Valley、Victor Studio、TOWERSIDE Studioで行われた\[3\]。本作の[プロデュースは中森が務めた](../Page/音楽プロデューサー.md "wikilink")\[4\]。収録楽曲は全曲新曲で、[シングル](../Page/シングル.md "wikilink")作品は収録していない。ミニ・アルバムでのリリースは、1988年の『[Wonder](../Page/Wonder_\(中森明菜のアルバム\).md "wikilink")』以来およそ8年ぶりとなった\[5\]\[6\]。本作の帯コピーは「96ラストに送る中森明菜の秘めやかな楽しみ」で、「クール&セクシー」をコンセプトに、クラブ・ミュージック風のサウンドを採り入れている\[7\]\[8\]。1996年12月5日から同年12月26日まで11公演開催された1996 Xmas Dinner Showにて本作収録の全4曲を披露している。本作発売以来、この形態での再発売はされていないが、2008年2月にリリースされた中森の1990年代の楽曲を集めた[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[歌姫伝説 〜90's BEST〜](https://ja.wikipedia.org/wiki/歌姫伝説_〜90's_BEST〜 "wikilink")』の初回限定盤の3枚目CDの2曲目から5曲目の収録楽曲として、本作全曲が収録された\[9\]\[10\]\[11\]。
+『VAMP』は、1996年12月18日にスペシャルパッケージ仕様の限定生産で、CD（規格品番: MVCZ-1002）で発売された全4曲収録のミニ・アルバムである\[1\]\[2\]。このアルバムのレコーディングは、Sound Valley、Victor Studio、TOWERSIDE Studioで行われた\[3\]。本作の[プロデュースは中森が務めた](../Page/音楽プロデューサー.md "wikilink")\[4\]。収録楽曲は全曲新曲で、[シングル](../Page/シングル.md "wikilink")作品は収録していない。ミニ・アルバムでのリリースは、1988年の『[Wonder](../Page/Wonder_\(中森明菜のアルバム\).md "wikilink")』以来およそ8年ぶりとなった\[5\]\[6\]。本作の帯コピーは「96ラストに送る中森明菜の秘めやかな楽しみ」で、「クール&セクシー」をコンセプトに、クラブ・ミュージック風のサウンドを採り入れている\[7\]\[8\]。1996年12月5日から同年12月26日まで11公演開催された1996 Xmas Dinner Showにて本作収録の全4曲を披露している。本作発売以来、この形態での再発売はされていないが、2008年2月にリリースされた中森の1990年代の楽曲を集めた[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』の初回限定盤の3枚目CDの2曲目から5曲目の収録楽曲として、本作全曲が収録された\[9\]\[10\]\[11\]。
 
 ## チャート成績
 
-本作は、[オリコン週間アルバムチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1996年12月30日付で、最高順位30位を記録した\[12\]\[13\]\[14\]。同チャートの100位以内においては、計5週に渡ってランクインしている\[15\]\[16\]。
+本作は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")1996年12月30日付で、最高順位30位を記録した\[12\]\[13\]\[14\]。同チャートの100位以内においては、計5週に渡ってランクインしている\[15\]\[16\]。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 
   - 「PRIDE AND JOY」
       - ギター: [岡田陽助](https://ja.wikipedia.org/wiki/岡田陽助 "wikilink") (by the courtesy of [PONY CANYON INC.](../Page/ポニーキャニオン.md "wikilink"))
-      - プログラミング&アザー・インストゥルメンツ: [朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")
+      - プログラミング&アザー・インストゥルメンツ: [朝本浩文](../Page/朝本浩文.md "wikilink")
   - 「EGOIST」
       - キーボード: [島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")
       - ベース: 佐藤研二
@@ -32,8 +32,8 @@
       - ギター: MASATO YAGI
       - プログラミング&アザー・インストゥルメンツ: U-ki
   - 「METROPOLITAN BLUE」
-      - キーボード: [柿崎洋一郎](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")
-      - テノール・サックス: YUKARIE (by the courtesy of [TOSHIBA EMI LTD.](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink"))
+      - キーボード: [柿崎洋一郎](../Page/柿崎洋一郎.md "wikilink")
+      - テノール・サックス: YUKARIE (by the courtesy of [TOSHIBA EMI LTD.](../Page/EMIミュージック・ジャパン.md "wikilink"))
       - コーラス、コーラス・アレンジメント: SAKURA
       - プログラミング&アザー・インストゥルメンツ: 迫田到
 
@@ -41,7 +41,7 @@
 
   - プロデューサー: [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")
   - ディレクター: 宮脇秀有（[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")）
-  - アディショナル・ディレクター: [藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")
+  - アディショナル・ディレクター: [藤原いくろう](../Page/藤原いくろう.md "wikilink")
   - ミックス・エンジニア
       - トラック1: 渡辺省二郎 (POWER BOX)
       - トラック2: 林憲一 (VICTOR STUDIO)
@@ -71,7 +71,7 @@
 
 ## 収録作品
 
-  - 『[歌姫伝説 〜90's BEST〜](https://ja.wikipedia.org/wiki/歌姫伝説_〜90's_BEST〜 "wikilink")』
+  - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』
 
 ## 外部リンク
 

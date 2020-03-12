@@ -1,22 +1,22 @@
 > この記事は[Dr. \(\)](https://ja.wikipedia.org/wiki/Dr._\(\))から翻訳されています。
 
 
-『**Dr.コトー診療所**』（ドクターコトーしんりょうじょ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた日本の](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[吉岡秀隆](https://ja.wikipedia.org/wiki/吉岡秀隆 "wikilink")。[山田貴敏](../Page/山田貴敏.md "wikilink")による[同名の漫画を原作とする](https://ja.wikipedia.org/wiki/Dr.コトー診療所 "wikilink")。
+『**Dr.コトー診療所**』（ドクターコトーしんりょうじょ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた日本の](../Page/フジネットワーク.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[吉岡秀隆](../Page/吉岡秀隆.md "wikilink")。[山田貴敏](../Page/山田貴敏.md "wikilink")による[同名の漫画を原作とする](../Page/Dr.コトー診療所.md "wikilink")。
 
-第1期は、[2003年](../Page/2003年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")より[9月11日](../Page/9月11日.md "wikilink")まで毎週木曜日22:00 - 22:54に、「[木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")」枠で放送。
+第1期は、[2003年](../Page/2003年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")より[9月11日](../Page/9月11日.md "wikilink")まで毎週木曜日22:00 - 22:54に、「[木曜劇場](../Page/木曜劇場.md "wikilink")」枠で放送。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に『特別編』と『Dr.コトー診療所2004』が放送。
+[2004年](../Page/2004年.md "wikilink")に『特別編』と『Dr.コトー診療所2004』が放送。
 
-第2期は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")より[12月21日](../Page/12月21日.md "wikilink")まで毎週木曜日22:00 - 22:54に、「木曜劇場」枠で放送。
+第2期は、[2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")より[12月21日](../Page/12月21日.md "wikilink")まで毎週木曜日22:00 - 22:54に、「木曜劇場」枠で放送。
 
 ## 概要
 
   - 第1期
     [沖縄県](../Page/沖縄県.md "wikilink")[八重山列島](../Page/八重山列島.md "wikilink")にあるとされる架空の島**志木那島**（しきなじま）{{\#tag:ref|原作では古志木島。ドラマでは島のモデルも九州の離島から与那国島に変更\[1\]\[2\]。|group="注"}}を主な舞台とするドラマ版『Dr．コトー診療所』は、2003年に連続ドラマとして第1期が制作された。ロケ地となった[与那国島](../Page/与那国島.md "wikilink")の自然が美しく、離島での過酷な医療状況とともに、島でのゆったりとした時間の流れや人間関係が情緒豊かに描かれている。また、都会から島にやってきた人の視点と島の人が外来者を見た視点が対照的に描かれ、時には誤解が生じたり、お互いを傷つけることもあるが、忘れてしまっていた大切なコトにお互いに気付きはじめ、相互に影響しあいながら少しずつ信頼関係を築いてゆく姿が描き込まれている。
-    [富良野塾](https://ja.wikipedia.org/wiki/富良野塾 "wikilink")出身である脚本家の[吉田紀子](https://ja.wikipedia.org/wiki/吉田紀子 "wikilink")と、主人公のコトー役の吉岡秀隆をはじめとする役者陣の演技や、演出家の[中江功](https://ja.wikipedia.org/wiki/中江功 "wikilink")をはじめとするスタッフ陣、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の主題歌や[吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")の[劇中音楽など](https://ja.wikipedia.org/wiki/劇伴 "wikilink")、それまでの医療ドラマの視点とは異なる作品になっている。
+    [富良野塾](../Page/富良野塾.md "wikilink")出身である脚本家の[吉田紀子](../Page/吉田紀子.md "wikilink")と、主人公のコトー役の吉岡秀隆をはじめとする役者陣の演技や、演出家の[中江功](../Page/中江功.md "wikilink")をはじめとするスタッフ陣、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の主題歌や[吉俣良](../Page/吉俣良.md "wikilink")の[劇中音楽など](../Page/劇伴.md "wikilink")、それまでの医療ドラマの視点とは異なる作品になっている。
     ハイビジョン撮影作品であるが、本放送時は地上デジタル放送は行われておらず（2003年12月1日放送開始）、アナログ放送において4:3サイドカットで放送されている。
   - 特別編
-    [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、[1月10日](../Page/1月10日.md "wikilink")の2夜連続でフジテレビ系列の新春ドラマスペシャルとして放送された。
+    [2004年](../Page/2004年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")、[1月10日](../Page/1月10日.md "wikilink")の2夜連続でフジテレビ系列の新春ドラマスペシャルとして放送された。
     志木那島での新撮場面にはコトーと和田、島の少年たちの他にはレギュラー出演者は登場しないが、Dr.コトー診療所2004、2006年第2期に繋がる貴重な新録内容となっている。
     この作品はDVD化はされておらず地上波での再放送もされていない。フジテレビオンデマンドで配信されている。
   - Dr.コトー診療所2004
@@ -31,15 +31,15 @@
   - 特別編
     志木那島で新年を迎えたコトーのもとに三上医師からの手紙が届く。大学病院を辞した三上はコトーと同じように僻地医療を担うべく、北海道にある礼別島（れべつとう：架空の島）診療所に赴任していた。島の医師は自分1人という責任の重さと、島民に信頼されない焦りとの苦悩をつづった文面から、コトーは自分が初めて志木那島に赴任して来た頃を思い出していた。ここから2003年第1期の主要エピソードを再編集した内容が回想される。東京へ研修中の彩佳からお土産を貰う。それは「週刊アクセス」という雑誌。離島医療に携わるコトーと島の現状が掲載されている。もちろんこの記事は巽謙司が書いたものである。そしてコトーは三上に励ましの手紙を書く。三上は患者となった1人暮らしの老女との交流を通して島の医師としての手応えを掴んで行く。
   - Dr.コトー診療所2004
-    島を挙げての祭りのさなか星野昌代が家で倒れているのを、診療所から戻った娘の彩佳が発見した。コトーの緊急手術により一命を取り留めたものの、[脳内出血](https://ja.wikipedia.org/wiki/脳内出血 "wikilink")の[後遺症](https://ja.wikipedia.org/wiki/後遺症 "wikilink")が残り、右半身が不自由になってしまう。昌代の異変に気付かなかったことで、夫の正一や彩佳は後々まで自分を責め続けることになる。一方、コトーに憧れ医師を目指す島の少年、原剛洋は島を出て東京の私立中学受験を決意する。漁師では充分な学資が得られないと考えた父の剛利は、漁船を手放し本土に出稼ぎに行く決断をする。
+    島を挙げての祭りのさなか星野昌代が家で倒れているのを、診療所から戻った娘の彩佳が発見した。コトーの緊急手術により一命を取り留めたものの、[脳内出血](../Page/脳内出血.md "wikilink")の[後遺症](https://ja.wikipedia.org/wiki/後遺症 "wikilink")が残り、右半身が不自由になってしまう。昌代の異変に気付かなかったことで、夫の正一や彩佳は後々まで自分を責め続けることになる。一方、コトーに憧れ医師を目指す島の少年、原剛洋は島を出て東京の私立中学受験を決意する。漁師では充分な学資が得られないと考えた父の剛利は、漁船を手放し本土に出稼ぎに行く決断をする。
 
 ## キャスト
 
-*登場人物については[Dr.コトー診療所](https://ja.wikipedia.org/wiki/Dr.コトー診療所 "wikilink")を参照*。
+*登場人物については[Dr.コトー診療所](../Page/Dr.コトー診療所.md "wikilink")を参照*。
 
   - 志木那島診療所
 
-:\* 五島健助（医師） - [吉岡秀隆](https://ja.wikipedia.org/wiki/吉岡秀隆 "wikilink")
+:\* 五島健助（医師） - [吉岡秀隆](../Page/吉岡秀隆.md "wikilink")
 
 :\* 星野彩佳（看護師・星野正一の娘） - [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")
 
@@ -53,47 +53,47 @@
 
 :\* 原剛利（漁師） - [時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")
 
-:\* 原剛洋\[5\]（息子） - [富岡涼](https://ja.wikipedia.org/wiki/富岡涼 "wikilink")
+:\* 原剛洋\[5\]（息子） - [富岡涼](../Page/富岡涼.md "wikilink")
 
   -
 
   - 星野家
 
-:\* 星野正一（村役場の民生課課長） - [小林薫](https://ja.wikipedia.org/wiki/小林薫 "wikilink")
+:\* 星野正一（村役場の民生課課長） - [小林薫](../Page/小林薫.md "wikilink")
 
-:\* 星野昌代\[6\]（正一の妻） - [朝加真由美](https://ja.wikipedia.org/wiki/朝加真由美 "wikilink")
+:\* 星野昌代\[6\]（正一の妻） - [朝加真由美](../Page/朝加真由美.md "wikilink")
 
   -
 
   - 山下家（明夫）
 
-:\* 山下明夫（農業） - [今福將雄](https://ja.wikipedia.org/wiki/今福将雄 "wikilink")（第1期）
+:\* 山下明夫（農業） - [今福將雄](../Page/今福将雄.md "wikilink")（第1期）
 
-:\* 山下一夫（明夫の息子・村役場の職員） - [納谷真大](https://ja.wikipedia.org/wiki/納谷真大 "wikilink")
+:\* 山下一夫（明夫の息子・村役場の職員） - [納谷真大](../Page/納谷真大.md "wikilink")
 
-:\* 山下道子（一夫の妻） - [森上千絵](https://ja.wikipedia.org/wiki/森上千絵 "wikilink")
+:\* 山下道子（一夫の妻） - [森上千絵](../Page/森上千絵.md "wikilink")
 
-:\* 山下邦夫\[7\]（一夫の息子） - [春山幹介](https://ja.wikipedia.org/wiki/春山幹介 "wikilink")
+:\* 山下邦夫\[7\]（一夫の息子） - [春山幹介](../Page/春山幹介.md "wikilink")
 
   -
 
   - 山下家（努）
 
-:\* 山下努（漁師） - [船木誠勝](https://ja.wikipedia.org/wiki/船木誠勝 "wikilink")
+:\* 山下努（漁師） - [船木誠勝](../Page/船木誠勝.md "wikilink")
 
-:\* 山下春江（努の妻） - [高橋史子](https://ja.wikipedia.org/wiki/高橋史子 "wikilink")
+:\* 山下春江（努の妻） - [高橋史子](../Page/高橋史子.md "wikilink")
 
 :\* 山下信一（努の息子） - [斉藤大貴](https://ja.wikipedia.org/wiki/斉藤大貴 "wikilink")（第2期：[石川眞吾](https://ja.wikipedia.org/wiki/石川眞吾 "wikilink")）
 
-:\* 山下桃子（努の娘） - [松本梨菜](https://ja.wikipedia.org/wiki/松本梨菜 "wikilink")
+:\* 山下桃子（努の娘） - [松本梨菜](../Page/松本梨菜.md "wikilink")
 
   -
 
   - 坂野家
 
-:\* 坂野ゆかり - [桜井幸子](https://ja.wikipedia.org/wiki/桜井幸子 "wikilink")
+:\* 坂野ゆかり - [桜井幸子](../Page/桜井幸子.md "wikilink")
 
-:\* 坂野孝（村役場の職員・ゆかりの夫） - [大森南朋](https://ja.wikipedia.org/wiki/大森南朋 "wikilink")
+:\* 坂野孝（村役場の職員・ゆかりの夫） - [大森南朋](../Page/大森南朋.md "wikilink")
 
 :\* 坂野千賀 - [畠山彩奈](https://ja.wikipedia.org/wiki/畠山彩奈 "wikilink")（第2期）
 
@@ -101,21 +101,21 @@
 
   - 宮野家
 
-:\* 宮野純平（剛洋の友達） - [池田晃信](https://ja.wikipedia.org/wiki/池田晃信 "wikilink")
+:\* 宮野純平（剛洋の友達） - [池田晃信](../Page/池田晃信.md "wikilink")
 
 :\* 宮野真由美 - [谷本真美](https://ja.wikipedia.org/wiki/谷本真美 "wikilink")
 
-:\* 宮野真人（純平の兄） - [細田よしひこ](https://ja.wikipedia.org/wiki/細田善彦 "wikilink")（第2期）
+:\* 宮野真人（純平の兄） - [細田よしひこ](../Page/細田善彦.md "wikilink")（第2期）
 
   -
 
   - 小沢家
 
-:\* 小沢信二 - [光石研](https://ja.wikipedia.org/wiki/光石研 "wikilink")（2004、第2期）
+:\* 小沢信二 - [光石研](../Page/光石研.md "wikilink")（2004、第2期）
 
 :\* 小沢小百合 - [神野三鈴](https://ja.wikipedia.org/wiki/神野三鈴 "wikilink")（2004、第2期）
 
-:\* 小沢ひな - [尾崎千瑛](https://ja.wikipedia.org/wiki/尾崎千瑛 "wikilink")（2004、第2期）
+:\* 小沢ひな - [尾崎千瑛](../Page/尾崎千瑛.md "wikilink")（2004、第2期）
 
   -
 
@@ -123,17 +123,17 @@
 
 :\* 西山茉莉子\[8\]（スナック経営） - [大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink")
 
-:\* 中村三郎（志木那村村長） - [坂本長利](https://ja.wikipedia.org/wiki/坂本長利 "wikilink")
+:\* 中村三郎（志木那村村長） - [坂本長利](../Page/坂本長利.md "wikilink")
 
-:\* 中村愁子（剛洋の同級生） - [大後寿々花](https://ja.wikipedia.org/wiki/大後寿々花 "wikilink")（第1期）
+:\* 中村愁子（剛洋の同級生） - [大後寿々花](../Page/大後寿々花.md "wikilink")（第1期）
 
 :\* 川畑夏美（剛洋の同級生） - [大畑稚菜](https://ja.wikipedia.org/wiki/大畑稚菜 "wikilink")（第1期）
 
-:\* 山下巌 - [谷津勲](https://ja.wikipedia.org/wiki/谷津勲 "wikilink")（第1期）
+:\* 山下巌 - [谷津勲](../Page/谷津勲.md "wikilink")（第1期）
 
 :\* 山下茂 - [松田史朗](https://ja.wikipedia.org/wiki/松田史朗 "wikilink")（第1期）
 
-:\* 元木渡（漁師） - [山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")
+:\* 元木渡（漁師） - [山西惇](../Page/山西惇.md "wikilink")
 
 :\* 橋口俊（漁師） - [塩谷瞬](https://ja.wikipedia.org/wiki/塩谷瞬 "wikilink")（第1期）
 
@@ -141,21 +141,21 @@
 
 :\* 脇田実（漁師） - [栗脇高志](https://ja.wikipedia.org/wiki/栗脇高志 "wikilink")
 
-:\* 南佑介（漁師） - [東誠一郎](https://ja.wikipedia.org/wiki/東誠一郎 "wikilink")
+:\* 南佑介（漁師） - [東誠一郎](../Page/東誠一郎.md "wikilink")
 
 :\* 洋平（漁師） - [宮嶋剛史](https://ja.wikipedia.org/wiki/宮嶋剛史 "wikilink")（第2期）
 
 :\* 剛洋の叔父 - [妹尾正文](https://ja.wikipedia.org/wiki/妹尾正文 "wikilink")（第2期）
 
-:\* 原和子 - [増子倭文江](https://ja.wikipedia.org/wiki/増子倭文江 "wikilink")（第2期）
+:\* 原和子 - [増子倭文江](../Page/増子倭文江.md "wikilink")（第2期）
 
-:\* 原沢咲（五島の元同僚・昭英大学附属病院産婦人科医） - [石田ゆり子](https://ja.wikipedia.org/wiki/石田ゆり子 "wikilink")（第1期）
+:\* 原沢咲（五島の元同僚・昭英大学附属病院産婦人科医） - [石田ゆり子](../Page/石田ゆり子.md "wikilink")（第1期）
 
-:\* 内つる子（村の長老・産婆） - [千石規子](https://ja.wikipedia.org/wiki/千石規子 "wikilink")（第1期）
+:\* 内つる子（村の長老・産婆） - [千石規子](../Page/千石規子.md "wikilink")（第1期）
 
-:\* 鳴海慧（医師） - [堺雅人](https://ja.wikipedia.org/wiki/堺雅人 "wikilink")（第2期）
+:\* 鳴海慧（医師） - [堺雅人](../Page/堺雅人.md "wikilink")（第2期）
 
-:\* 安藤重雄\[9\]（漁業協同組合漁労長） - [泉谷しげる](https://ja.wikipedia.org/wiki/泉谷しげる "wikilink")
+:\* 安藤重雄\[9\]（漁業協同組合漁労長） - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
 
 ### ゲスト
 
@@ -169,19 +169,19 @@
 
   - 第2話 「故郷で暮らす母へ」
 
-:\* 内誠（本土在住・内つる子の息子） - [國村隼](https://ja.wikipedia.org/wiki/國村隼 "wikilink")
+:\* 内誠（本土在住・内つる子の息子） - [國村隼](../Page/國村隼.md "wikilink")
 
   -
 
   - 第3話 「赤ちゃんを助けて」
 
-:\* 坂野ゆかり（妊婦・孝の妻） - [桜井幸子](https://ja.wikipedia.org/wiki/桜井幸子 "wikilink")
+:\* 坂野ゆかり（妊婦・孝の妻） - [桜井幸子](../Page/桜井幸子.md "wikilink")
 
 :\* 坂野達郎（ゆかりの義父） - [高橋征郎](https://ja.wikipedia.org/wiki/高橋征郎 "wikilink")
 
 :\* 坂野和枝（ゆかりの義母） - [田畑ゆり](https://ja.wikipedia.org/wiki/田畑ゆり "wikilink")
 
-:\* 高村 - [中根徹](https://ja.wikipedia.org/wiki/中根徹 "wikilink")
+:\* 高村 - [中根徹](../Page/中根徹.md "wikilink")
 
   -
 
@@ -189,11 +189,11 @@
 
 :\* 芦田ゆき（原沢咲の高校時代の後輩・医師） - [木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")（第5話も）
 
-:\* 芦田雄一郎（ゆきの父・代議士） - [竜雷太](https://ja.wikipedia.org/wiki/竜雷太 "wikilink")（第5話も）
+:\* 芦田雄一郎（ゆきの父・代議士） - [竜雷太](../Page/竜雷太.md "wikilink")（第5話も）
 
-:\* 安部純一（芦田の秘書） - [井澤健](https://ja.wikipedia.org/wiki/井澤健 "wikilink")（第5話も）
+:\* 安部純一（芦田の秘書） - [井澤健](../Page/井澤健.md "wikilink")（第5話も）
 
-:\* 安部広子（安部純一の母） - [白川和子](https://ja.wikipedia.org/wiki/白川和子 "wikilink")（第5話も）
+:\* 安部広子（安部純一の母） - [白川和子](../Page/白川和子.md "wikilink")（第5話も）
 
 :\* 杉本竜一（東京に住む西山茉莉子の息子） - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")（第5・6・7話も）
 
@@ -209,55 +209,55 @@
 
 :\* 安藤リカ（東京に住む安藤重雄の娘） - [伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink")
 
-:\* 古川徹 - [柏原収史](https://ja.wikipedia.org/wiki/柏原収史 "wikilink")
+:\* 古川徹 - [柏原収史](../Page/柏原収史.md "wikilink")
 
   -
 
   - 第9話 「暴かれた過去」
 
-:\* 巽謙司（週刊アクセスの記者） - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")（第10話も）
+:\* 巽謙司（週刊アクセスの記者） - [津田寛治](../Page/津田寛治.md "wikilink")（第10話も）
 
-:\* 巽久美子 - [浅見れいな](https://ja.wikipedia.org/wiki/浅見れいな "wikilink")（第10話も）
+:\* 巽久美子 - [浅見れいな](../Page/浅見れいな.md "wikilink")（第10話も）
 
   -
 
   - 第10話 「この島を出て行け」
 
-:\* 三上新一（五島の元同僚・昭英大学附属病院消化器外科医） - [山崎樹範](https://ja.wikipedia.org/wiki/山崎樹範 "wikilink")（最終話も）
+:\* 三上新一（五島の元同僚・昭英大学附属病院消化器外科医） - [山崎樹範](../Page/山崎樹範.md "wikilink")（最終話も）
 
   -
 
   - 最終話 「新たな旅立ち」
 
-:\* 奥村史朗（昭英大学附属病院消化器外科教授） - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")
+:\* 奥村史朗（昭英大学附属病院消化器外科教授） - [大和田伸也](../Page/大和田伸也.md "wikilink")
 
-:\* 熊谷英夫 - [勝部演之](https://ja.wikipedia.org/wiki/勝部演之 "wikilink")
+:\* 熊谷英夫 - [勝部演之](../Page/勝部演之.md "wikilink")
 
 #### 特別編（2004年）
 
-  - 三上新一 - [山崎樹範](https://ja.wikipedia.org/wiki/山崎樹範 "wikilink")
-  - 奥村史朗 - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")
-  - 熊谷英夫 - [勝部演之](https://ja.wikipedia.org/wiki/勝部演之 "wikilink")
-  - 北見康代 - [キムラ緑子](https://ja.wikipedia.org/wiki/キムラ緑子 "wikilink")
-  - 荻野ツネ - [大方斐紗子](https://ja.wikipedia.org/wiki/大方斐紗子 "wikilink")
+  - 三上新一 - [山崎樹範](../Page/山崎樹範.md "wikilink")
+  - 奥村史朗 - [大和田伸也](../Page/大和田伸也.md "wikilink")
+  - 熊谷英夫 - [勝部演之](../Page/勝部演之.md "wikilink")
+  - 北見康代 - [キムラ緑子](../Page/キムラ緑子.md "wikilink")
+  - 荻野ツネ - [大方斐紗子](../Page/大方斐紗子.md "wikilink")
 
 #### Dr.コトー診療所2004（2004年）
 
-  - 小沢信二（教師） - [光石研](https://ja.wikipedia.org/wiki/光石研 "wikilink")
+  - 小沢信二（教師） - [光石研](../Page/光石研.md "wikilink")
   - 小沢小百合（信二の妻） - [神野三鈴](https://ja.wikipedia.org/wiki/神野三鈴 "wikilink")
-  - 小沢ひな（信二の娘） - [尾崎千瑛](https://ja.wikipedia.org/wiki/尾崎千瑛 "wikilink")
+  - 小沢ひな（信二の娘） - [尾崎千瑛](../Page/尾崎千瑛.md "wikilink")
 
 #### 第2期（2006年）
 
   - 第1話 「二人の約束」
 
-:\* 剛利の元同僚 - [北見敏之](https://ja.wikipedia.org/wiki/北見敏之 "wikilink")（第3・4話も）
+:\* 剛利の元同僚 - [北見敏之](../Page/北見敏之.md "wikilink")（第3・4話も）
 
   -
 
   - 第2話 「最後の言葉」
 
-:\* 山下左千夫 - [石橋蓮司](https://ja.wikipedia.org/wiki/石橋蓮司 "wikilink")（最終話）※最終話は写真
+:\* 山下左千夫 - [石橋蓮司](../Page/石橋蓮司.md "wikilink")（最終話）※最終話は写真
 
 :\* 島民 - [山田貴敏](../Page/山田貴敏.md "wikilink")（第2話のモブで特別出演）
 
@@ -265,7 +265,7 @@
 
   - 第4話 「父のあやまち」
 
-:\* 宮野博（投資顧問会社勤務） - [山崎銀之丞](https://ja.wikipedia.org/wiki/山崎銀之丞 "wikilink")
+:\* 宮野博（投資顧問会社勤務） - [山崎銀之丞](../Page/山崎銀之丞.md "wikilink")
 
   -
 
@@ -277,30 +277,30 @@
 
   - 第9話 「愛を乞う者」
 
-:\* 仲依知明（ミナの夫） - [忍成修吾](https://ja.wikipedia.org/wiki/忍成修吾 "wikilink")
+:\* 仲依知明（ミナの夫） - [忍成修吾](../Page/忍成修吾.md "wikilink")
 
   -
 
   - 第10話 「失われた信頼」
 
-:\* 三上新一 - [山崎樹範](https://ja.wikipedia.org/wiki/山崎樹範 "wikilink")（最終話も）
+:\* 三上新一 - [山崎樹範](../Page/山崎樹範.md "wikilink")（最終話も）
 
   -
 
   - 最終話 「逃れられぬ、医師の宿命」
 
-:\* 五島沙知子 - [宮本信子](https://ja.wikipedia.org/wiki/宮本信子 "wikilink")
+:\* 五島沙知子 - [宮本信子](../Page/宮本信子.md "wikilink")
 
 ## スタッフ
 
-  - 脚本 - [吉田紀子](https://ja.wikipedia.org/wiki/吉田紀子 "wikilink")
+  - 脚本 - [吉田紀子](../Page/吉田紀子.md "wikilink")
   - 原作 - [山田貴敏](../Page/山田貴敏.md "wikilink")
-  - 音楽 - [吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")
-  - 主題歌 - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")「[銀の龍の背に乗って](https://ja.wikipedia.org/wiki/銀の龍の背に乗って "wikilink")」（作詞・作曲：中島みゆき、[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")「[恋文](https://ja.wikipedia.org/wiki/恋文_\(中島みゆきのアルバム\) "wikilink")」に収録）
-  - 挿入歌 - 柴咲コウ「[思い出だけではつらすぎる](https://ja.wikipedia.org/wiki/思い出だけではつらすぎる "wikilink")」（作詞・作曲：中島みゆき、アルバム「[蜜](https://ja.wikipedia.org/wiki/蜜_\(アルバム\) "wikilink")」に収録）
+  - 音楽 - [吉俣良](../Page/吉俣良.md "wikilink")
+  - 主題歌 - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")「[銀の龍の背に乗って](../Page/銀の龍の背に乗って.md "wikilink")」（作詞・作曲：中島みゆき、[アルバム](../Page/スタジオ・アルバム.md "wikilink")「[恋文](../Page/恋文_\(中島みゆきのアルバム\).md "wikilink")」に収録）
+  - 挿入歌 - 柴咲コウ「[思い出だけではつらすぎる](../Page/思い出だけではつらすぎる.md "wikilink")」（作詞・作曲：中島みゆき、アルバム「[蜜](../Page/蜜_\(アルバム\).md "wikilink")」に収録）
   - 原案協力 - 上阪泰幸、宇都宮紀子、山川恵一（小学館「週刊ヤングサンデー」編集部）
-  - 取材協力 - [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")下甑村立（現[薩摩川内市](https://ja.wikipedia.org/wiki/薩摩川内市 "wikilink")）手打診療所
-  - 協力 - [沖縄県](../Page/沖縄県.md "wikilink")、[与那国町](https://ja.wikipedia.org/wiki/与那国町 "wikilink")、[日本航空](https://ja.wikipedia.org/wiki/日本航空 "wikilink")、[日本トランスオーシャン航空](https://ja.wikipedia.org/wiki/日本トランスオーシャン航空 "wikilink")、[沖縄テレビ放送](https://ja.wikipedia.org/wiki/沖縄テレビ放送 "wikilink")、[渋谷ビデオスタジオ](https://ja.wikipedia.org/wiki/渋谷ビデオスタジオ "wikilink")ほか
+  - 取材協力 - [鹿児島県](../Page/鹿児島県.md "wikilink")下甑村立（現[薩摩川内市](../Page/薩摩川内市.md "wikilink")）手打診療所
+  - 協力 - [沖縄県](../Page/沖縄県.md "wikilink")、[与那国町](../Page/与那国町.md "wikilink")、[日本航空](../Page/日本航空.md "wikilink")、[日本トランスオーシャン航空](../Page/日本トランスオーシャン航空.md "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")、[渋谷ビデオスタジオ](../Page/渋谷ビデオスタジオ.md "wikilink")ほか
   - 美術プロデュース - 関口保幸（第1期）、木村達昭
   - 演出補
       - 第1期 - 高木健太郎、松山博昭、西坂瑞城、[並木道子](https://ja.wikipedia.org/wiki/並木道子 "wikilink")、[宮木正悟](https://ja.wikipedia.org/wiki/宮木正悟 "wikilink")
@@ -310,17 +310,17 @@
       - 第2期 - 玉田祐美子
   - プロデュース助手（第1期） - 池田匡夫、三竿玲子
   - 協力プロデュース（第1期） - 東海林秀文
-  - 企画（第1期） - [杉尾敦弘](https://ja.wikipedia.org/wiki/杉尾敦弘 "wikilink")
-  - 制作統括（第1期） - [大多亮](https://ja.wikipedia.org/wiki/大多亮 "wikilink")
+  - 企画（第1期） - [杉尾敦弘](../Page/杉尾敦弘.md "wikilink")
+  - 制作統括（第1期） - [大多亮](../Page/大多亮.md "wikilink")
   - プロデュース
-      - 第1期 - [土屋健](https://ja.wikipedia.org/wiki/土屋健 "wikilink")
-      - 第2期 - 中江功、[増本淳](https://ja.wikipedia.org/wiki/増本淳 "wikilink")、塚田洋子
+      - 第1期 - [土屋健](../Page/土屋健.md "wikilink")
+      - 第2期 - 中江功、[増本淳](../Page/増本淳.md "wikilink")、塚田洋子
   - 演出
-      - 第1期 - [中江功](https://ja.wikipedia.org/wiki/中江功 "wikilink")、[小林和宏](https://ja.wikipedia.org/wiki/小林和宏 "wikilink")、平井秀樹
+      - 第1期 - [中江功](../Page/中江功.md "wikilink")、[小林和宏](https://ja.wikipedia.org/wiki/小林和宏 "wikilink")、平井秀樹
       - 第2期 - 中江功、平井秀樹、高木健太郎
   - 制作著作 - フジテレビ
 
-※中島みゆきのアルバム「恋文」には「思い出だけではつらすぎる」の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")が収録されている。
+※中島みゆきのアルバム「恋文」には「思い出だけではつらすぎる」の[セルフカバー](../Page/セルフカバー.md "wikilink")が収録されている。
 
 ## 放送日程
 
@@ -328,7 +328,7 @@
 
   - 初回は30分拡大（22:00 - 23:24）。
   - 最終回は15分拡大（22:00 - 23:09）。
-  - [プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")などのスポーツ中継によって放送時間が繰り下げの場合もあり。
+  - [プロ野球中継](../Page/プロ野球中継.md "wikilink")などのスポーツ中継によって放送時間が繰り下げの場合もあり。
   - （「 」）内はDVD-BOXで改題されたタイトル。
   - 第1期は平均・最高視聴率ともに2003年7月期の連続ドラマで1位となった。
 
@@ -422,7 +422,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 19.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 19.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -545,7 +545,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 22.4%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 22.4%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -560,7 +560,7 @@
 
 :\* 第12回[橋田賞](https://ja.wikipedia.org/wiki/橋田賞 "wikilink")
 
-:\* 第38回[ザテレビジョン](https://ja.wikipedia.org/wiki/ザテレビジョン "wikilink")ドラマアカデミー賞
+:\* 第38回[ザテレビジョン](../Page/ザテレビジョン.md "wikilink")ドラマアカデミー賞
 
 :\*\* 最優秀作品賞
 
@@ -580,13 +580,13 @@
 
   - 第2期
 
-:\* 第15回[橋田賞](https://ja.wikipedia.org/wiki/橋田賞 "wikilink")（[吉田紀子](https://ja.wikipedia.org/wiki/吉田紀子 "wikilink")）
+:\* 第15回[橋田賞](https://ja.wikipedia.org/wiki/橋田賞 "wikilink")（[吉田紀子](../Page/吉田紀子.md "wikilink")）
 
   -
 
   - シリーズ
 
-:\* 第44回[ギャラクシー賞](https://ja.wikipedia.org/wiki/ギャラクシー賞 "wikilink") 特別賞
+:\* 第44回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink") 特別賞
 
 ## 脚注
 

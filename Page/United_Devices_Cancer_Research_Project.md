@@ -1,11 +1,11 @@
 > この記事は[United Devices Cancer Research Project](https://ja.wikipedia.org/wiki/United_Devices_Cancer_Research_Project)から翻訳されています。
 
 
-**United Devices Cancer Research Project**（**ユナイテッド デバイセズ キャンサー リサーチ プロジェクト**、別名: **grid.org**、日本語名称: **UDがん研究プロジェクト**）は、かつて行われていた[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")を用いたプロジェクトである。[2001年](../Page/2001年.md "wikilink")に始まり、米国中央時間[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")正午をもって**プロジェクト終了となった。**
+**United Devices Cancer Research Project**（**ユナイテッド デバイセズ キャンサー リサーチ プロジェクト**、別名: **grid.org**、日本語名称: **UDがん研究プロジェクト**）は、かつて行われていた[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")を用いたプロジェクトである。[2001年](../Page/2001年.md "wikilink")に始まり、米国中央時間[2007年](../Page/2007年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")正午をもって**プロジェクト終了となった。**
 
 ## 解析目的
 
-[白血病](../Page/白血病.md "wikilink")・[がんの治療薬の研究開発](../Page/悪性腫瘍.md "wikilink")。過去には[天然痘](../Page/天然痘.md "wikilink")、[炭疽菌](../Page/炭疽症.md "wikilink")、[プロテオーム](https://ja.wikipedia.org/wiki/プロテオーム "wikilink")（解析名ではロゼッタ）の治療薬開発も行われていた。
+[白血病](../Page/白血病.md "wikilink")・[がんの治療薬の研究開発](../Page/悪性腫瘍.md "wikilink")。過去には[天然痘](../Page/天然痘.md "wikilink")、[炭疽菌](../Page/炭疽症.md "wikilink")、[プロテオーム](../Page/プロテオーム.md "wikilink")（解析名ではロゼッタ）の治療薬開発も行われていた。
 
 ## プロジェクト概要
 
@@ -37,13 +37,13 @@ UDがん研究プロジェクトが始まった当初は、ポイントに応じ
 
 ### 世界一のチーム『Team 2ch』
 
-日本の[匿名掲示板](https://ja.wikipedia.org/wiki/匿名掲示板 "wikilink")群[2ちゃんねる](https://ja.wikipedia.org/wiki/2ちゃんねる "wikilink")各板のメンバーからなる『[Team 2ch](https://ja.wikipedia.org/wiki/Team2ch "wikilink")』がプロジェクトの進行中、常に世界第一位を保ち続けた。
+日本の[匿名掲示板](../Page/匿名掲示板.md "wikilink")群[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")各板のメンバーからなる『[Team 2ch](../Page/Team2ch.md "wikilink")』がプロジェクトの進行中、常に世界第一位を保ち続けた。
 
 終了段階でチームメンバーは6万6720名、うち終了時のメンバー数は6万3291名。
 
 リザルツ（提出回数）3332万6578回、ポイントは69億6889万1061ポイント、CPUTime（解析時間）は4万207年97日16時間13分9秒であった。いずれも世界第一位である。
 
-[2ちゃんねる](https://ja.wikipedia.org/wiki/2ちゃんねる "wikilink")の様々な板にチーム内チームがあり、互いに成績を競うことで参加者を増やし、維持。それぞれの板ごとに独特の表現を用いて参加者を呼んでいた。
+[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の様々な板にチーム内チームがあり、互いに成績を競うことで参加者を増やし、維持。それぞれの板ごとに独特の表現を用いて参加者を呼んでいた。
 
 ### 国別順位
 
@@ -51,11 +51,11 @@ UDがん研究プロジェクトが始まった当初は、ポイントに応じ
 
 ## 関連項目
 
-[World Community Grid](https://ja.wikipedia.org/wiki/World_Community_Grid "wikilink") - [BOINCをベースとした](https://ja.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing "wikilink")[グリッド・コンピューティング](../Page/グリッド・コンピューティング.md "wikilink")プロジェクト。本プロジェクトの終了に伴い、同様の医療系プロジェクトを有するため移入者が急増した。
+[World Community Grid](../Page/World_Community_Grid.md "wikilink") - [BOINCをベースとした](../Page/Berkeley_Open_Infrastructure_for_Network_Computing.md "wikilink")[グリッド・コンピューティング](../Page/グリッド・コンピューティング.md "wikilink")プロジェクト。本プロジェクトの終了に伴い、同様の医療系プロジェクトを有するため移入者が急増した。
 
 ## 主催
 
-システム開発は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[United Devices社](https://ja.wikipedia.org/wiki/United_Devices "wikilink")。
+システム開発は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[United Devices社](../Page/United_Devices.md "wikilink")。
 
 現在の研究主体は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")化学部およびアメリカの[がん研究国立基金](https://ja.wikipedia.org/wiki/がん研究国立基金 "wikilink")。
 

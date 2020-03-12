@@ -6,15 +6,15 @@
 `| 名称=SB2C ヘルダイヴァー`
 `A-25 シュライク`
 `| 画像=ファイル:Curtiss SB2C-5 Helldiver warbird in flight.jpg`
-`| キャプション=`[`空母ハンコック艦載のSB`](https://ja.wikipedia.org/wiki/ハンコック_\(空母\) "wikilink")`2C`
+`| キャプション=`[`空母ハンコック艦載のSB`](../Page/ハンコック_\(空母\).md "wikilink")`2C`
 `(`[`第85爆撃飛行隊所属`](https://ja.wikipedia.org/wiki/:en:Bomber_Squadron_85th "wikilink")`、`[`1945年`](../Page/1945年.md "wikilink")[`2月`](https://ja.wikipedia.org/wiki/2月 "wikilink")撮影`)`
 `| 用途=`[`急降下爆撃機`](../Page/急降下爆撃機.md "wikilink")`、`[`偵察機`](../Page/偵察機.md "wikilink")
 `| 分類=`[`艦上爆撃機`](../Page/艦上爆撃機.md "wikilink")
 `| 設計者=`[`ドノヴァン・リーズ・バーリン`](https://ja.wikipedia.org/wiki/:en:Don_R._Berlin "wikilink")
 `| 製造者=`
-`**`[`カーチス・ライト`](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")社
+`**`[`カーチス・ライト`](../Page/カーチス・ライト.md "wikilink")社
 
-  -   - [カナダ・フェアチャイルド社](https://ja.wikipedia.org/wiki/フェアチャイルド_\(航空機メーカー\) "wikilink")
+  -   - [カナダ・フェアチャイルド社](../Page/フェアチャイルド_\(航空機メーカー\).md "wikilink")
       - [カナディアン・カー・アンド・ファウンドリー社](https://ja.wikipedia.org/wiki/:en:Canadian_Car_and_Foundry "wikilink")
 
 `| 運用者=`
@@ -35,11 +35,11 @@
 `| 生産数=7,140機`
 `| 生産開始年月日=`[`1940年`](../Page/1940年.md "wikilink")[`12月`](https://ja.wikipedia.org/wiki/12月 "wikilink")
 `| 運用開始年月日=`[`1943年`](../Page/1943年.md "wikilink")[`11月11日`](../Page/11月11日.md "wikilink")
-`| 退役年月日=`[`1959年`](../Page/1959年.md "wikilink")`（`[`イタリア空軍`](https://ja.wikipedia.org/wiki/イタリア空軍 "wikilink")`）`
+`| 退役年月日=`[`1959年`](../Page/1959年.md "wikilink")`（`[`イタリア空軍`](../Page/イタリア空軍.md "wikilink")`）`
 `| 運用状況=退役`
 `| ユニットコスト=`
 
-}} **SB2C ヘルダイヴァー**（*Curtiss-Wright SB2C Helldiver* ）は、[カーチス・ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")社が開発し、第二次世界大戦期後半に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[偵察爆撃機](../Page/爆撃機.md "wikilink")。
+}} **SB2C ヘルダイヴァー**（*Curtiss-Wright SB2C Helldiver* ）は、[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が開発し、第二次世界大戦期後半に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[偵察爆撃機](../Page/爆撃機.md "wikilink")。
 
 愛称の「**ヘルダイヴァー**(Helldiver)\[1\]（同社が以前開発した[急降下爆撃機の代名詞の三代目を称した](../Page/SBC_\(航空機\).md "wikilink")\[2\]）」は、「地獄の急降下爆撃機」といったような意味合いである。
 
@@ -47,7 +47,7 @@
 
 ## 開発
 
-[XSB2C-1_18Dec1940.jpg](https://ja.wikipedia.org/wiki/File:XSB2C-1_18Dec1940.jpg "fig:XSB2C-1_18Dec1940.jpg") [ダグラス社が製造した](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")[SBDドーントレス偵察爆撃機の後継機として開発された](https://ja.wikipedia.org/wiki/SBD_\(航空機\) "wikilink")。原型機の初飛行は[1940年](../Page/1940年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")のことである。ドーントレスより[速度](../Page/速度.md "wikilink")や[爆弾](../Page/爆弾.md "wikilink")搭載量が強化され、[機銃](https://ja.wikipedia.org/wiki/機銃 "wikilink")もSBDが搭載していた12.7mmより強力な20mm機銃が搭載された。SBDと異なり、爆弾は胴体下部の爆弾倉内に収納する。
+[XSB2C-1_18Dec1940.jpg](https://ja.wikipedia.org/wiki/File:XSB2C-1_18Dec1940.jpg "fig:XSB2C-1_18Dec1940.jpg") [ダグラス社が製造した](../Page/ダグラス・エアクラフト.md "wikilink")[SBDドーントレス偵察爆撃機の後継機として開発された](../Page/SBD_\(航空機\).md "wikilink")。原型機の初飛行は[1940年](../Page/1940年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")のことである。ドーントレスより[速度](../Page/速度.md "wikilink")や[爆弾](../Page/爆弾.md "wikilink")搭載量が強化され、[機銃](https://ja.wikipedia.org/wiki/機銃 "wikilink")もSBDが搭載していた12.7mmより強力な20mm機銃が搭載された。SBDと異なり、爆弾は胴体下部の爆弾倉内に収納する。
 
 開発においては要求性能的に大型化が避けられない機体を、[航空母艦](../Page/航空母艦.md "wikilink")のエレベーターに収めるために無理やり機体後半部が切り詰められた設計とした。また、性能より生産性を重視した仕様の為、操縦性・離着艦性能などの安定性はあまり良くなく、トラブルの多い機体だった。このことから、当時の操縦士達からは型番をもじって「サノヴァビッチ・セカンドクラス（**S**on of a **B**itch **2**nd **C**lass：二流のろくでなし）」と暗に呼ばれ、忌み嫌われていた。\[3\]
 現場での評価とは裏腹に、急降下爆撃から雷撃までが可能な本機の多目的性は上層部から高く評価され、生産機数は実に7,000機以上にも及び、SBDに替わってアメリカ海軍の戦争後期の主力艦上爆撃機となっている。
@@ -56,19 +56,19 @@
 
 主に[太平洋](../Page/太平洋.md "wikilink")各地や[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")本土への空襲で活躍した。特筆すべき運用実績としては[坊の岬沖海戦](https://ja.wikipedia.org/wiki/坊の岬沖海戦 "wikilink")での[軍艦大和に対する急降下爆撃が挙げられる](../Page/大和_\(戦艦\).md "wikilink")。
 
-SB2C-1は不具合などから練習機として運用されたが、本格的に運用されたSB2C-1Cは[1943年](../Page/1943年.md "wikilink")[11月](../Page/11月.md "wikilink")から実戦に投入された。1944年には新型のカーティス社製4翅プロペラを備えエンジンも[R-2600-20へと換装されたSB](https://ja.wikipedia.org/wiki/ライト_R-2600 "wikilink")2C-3が配備されはじめた。この型が[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")や台湾、硫黄島、沖縄近海へと出撃し、[軍艦武蔵や大和の撃沈に一役買った](../Page/武蔵_\(戦艦\).md "wikilink")。
+SB2C-1は不具合などから練習機として運用されたが、本格的に運用されたSB2C-1Cは[1943年](../Page/1943年.md "wikilink")[11月](../Page/11月.md "wikilink")から実戦に投入された。1944年には新型のカーティス社製4翅プロペラを備えエンジンも[R-2600-20へと換装されたSB](../Page/ライト_R-2600.md "wikilink")2C-3が配備されはじめた。この型が[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")や台湾、硫黄島、沖縄近海へと出撃し、[軍艦武蔵や大和の撃沈に一役買った](../Page/武蔵_\(戦艦\).md "wikilink")。
 
 1942年から1943年には3色の青系迷彩が施されたSB2Cが運用されていたが、空母での運用上翼が折り畳まれた状態で甲板に並ぶため、翼下面が上から見えることを想定して翼下面の外側に暗い上面側の迷彩がされていた。
 
 F6FヘルキャットとF4U/FGコルセアが爆弾を搭載し地上目標へ攻撃でき、敵の戦闘機に対して非常に強固な防御性能を持つことが運用によって証明されていたが、SB2Cはより正確に兵器を撃ち込むことができた。また、海軍の作戦で非常に重要な爆弾を搭載しながら、戦闘機よりも優れた航続性能を持っていた。
 
-空対地ロケットの出現により、後継機である[BTDデストロイヤーや](../Page/BTD_\(航空機\).md "wikilink")[AMモーラー](https://ja.wikipedia.org/wiki/AM_\(航空機\) "wikilink")、[ADスカイレイダーは急降下爆撃を行わなくなったため](https://ja.wikipedia.org/wiki/A-1_\(航空機\) "wikilink")、SB2Cは最後に製造された急降下爆撃機となった。空対地ロケットは垂直に近い急降下による空気抵抗や、急降下爆撃機に求められるような厳しい性能要件が無くとも海上および陸上の標的に対する精密な攻撃を可能にしたことから急速に急降下爆撃機と変わって運用されはじめた。
+空対地ロケットの出現により、後継機である[BTDデストロイヤーや](../Page/BTD_\(航空機\).md "wikilink")[AMモーラー](https://ja.wikipedia.org/wiki/AM_\(航空機\) "wikilink")、[ADスカイレイダーは急降下爆撃を行わなくなったため](../Page/A-1_\(航空機\).md "wikilink")、SB2Cは最後に製造された急降下爆撃機となった。空対地ロケットは垂直に近い急降下による空気抵抗や、急降下爆撃機に求められるような厳しい性能要件が無くとも海上および陸上の標的に対する精密な攻撃を可能にしたことから急速に急降下爆撃機と変わって運用されはじめた。
 
 SB2Cは、1947年まで現役米海軍中隊で運用されており、現役部隊を退役した後も1950年まで海軍予備飛行部隊で運用されていた。第二次世界大戦の終結や現役部隊からの退役に伴って発生した余剰航空機はフランス、イタリア、ギリシャ、ポルトガル、およびタイの海軍空軍に売却された。ギリシャに供与された機体はギリシャ内戦で運用され、翼に追加の機関銃を内蔵したポッドが取り付けられた。フランスに供与された機体は、1951年から1954年までの第1次インドシナ戦争において運用された。
 
 カーティス・ライト社のセントルイス工場で製造された900機は[陸軍航空軍 (USAAF)によってA](../Page/アメリカ陸軍航空軍.md "wikilink")-25Aシュライク攻撃機として注文された。最初に生産された10機には空母積載のための折りたたみ翼があったが、これ以降の機体では廃止された。他の多くの変更により、A-25Aは大きな主輪、空気圧式尾輪、円環型照準器、長い排気スタブ、その他の陸軍指定の無線機器などがSB2Cより変更されていた。A-25Aが導入された1943年後半には、P-47サンダーボルトなどの戦闘機が戦術的航空支援任務を遂行する能力を持っていたため、急降下爆撃任務を行う本機は必要なくなっていた。このためUSAAFは410機のA-25Aを海兵隊へ移した。海兵隊ではSB2C-1として配備されたが、前線には輸送されず主に練習機として使用された。米陸軍で運用された残り490機のA-25Aも、練習や標的曳航といった支援任務に従事したのみで実戦には参加しなかった。
 
-戦後、[フランス海軍](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")航空隊に供給された機体は[インドシナ戦争に参加した](https://ja.wikipedia.org/wiki/第一次インドシナ戦争 "wikilink")。また、[ギリシャ](../Page/ギリシャ.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[イタリア](../Page/イタリア.md "wikilink")等にも供与され、[1950年代](../Page/1950年代.md "wikilink")半ばまで運用された。
+戦後、[フランス海軍](../Page/フランス海軍.md "wikilink")航空隊に供給された機体は[インドシナ戦争に参加した](https://ja.wikipedia.org/wiki/第一次インドシナ戦争 "wikilink")。また、[ギリシャ](../Page/ギリシャ.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[イタリア](../Page/イタリア.md "wikilink")等にも供与され、[1950年代](../Page/1950年代.md "wikilink")半ばまで運用された。
 
 オーストラリア政府は、オーストラリア空軍（RAAF）の運用する[ヴェンジェンス急降下爆撃機を更新する目的で](../Page/A-31_\(航空機\).md "wikilink")150機のシュライクを注文した。この代金は[武器貸与法に基づく援助として米国政府から支払われた](../Page/レンドリース法.md "wikilink")。最初に生産された10機は1943年11月にオーストラリアに届けられたが、RAAFは急降下爆撃を時代遅れと見なすようになり急降下爆撃機の注文は行わなくなったため、残りの140機の注文はキャンセルされた。
 
@@ -130,7 +130,7 @@ SB2Cが実用へ向けての改修に手間取ったためA-25も実用化が遅
 </tr>
 <tr class="odd">
 <td><p>エンジン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーチス・ライト" title="wikilink">Wright</a> <a href="https://ja.wikipedia.org/wiki/ライト_R-2600" title="wikilink">R-2600-20</a> (1,900Bhp) ×1</p></td>
+<td><p><a href="../Page/カーチス・ライト.md" title="wikilink">Wright</a> <a href="../Page/ライト_R-2600.md" title="wikilink">R-2600-20</a> (1,900Bhp) ×1</p></td>
 </tr>
 <tr class="even">
 <td><p>武装</p></td>
@@ -228,13 +228,13 @@ SB2Cが実用へ向けての改修に手間取ったためA-25も実用化が遅
 ## 型式一覧
 
   - XSB2C-1
-    試作機。[ライトR-2600-8](https://ja.wikipedia.org/wiki/ライト_R-2600 "wikilink")(1,700[馬力](../Page/馬力.md "wikilink") 1,268 kW)エンジンを搭載、固定機銃は機首に[12.7mm機銃](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")2挺。
+    試作機。[ライトR-2600-8](../Page/ライト_R-2600.md "wikilink")(1,700[馬力](../Page/馬力.md "wikilink") 1,268 kW)エンジンを搭載、固定機銃は機首に[12.7mm機銃](../Page/ブローニングM2重機関銃.md "wikilink")2挺。
   - SB2C-1
     アメリカ海軍向け初の量産型で、機首が延長され垂直尾翼が大きくなり、固定機銃が主翼に4挺へ変更。200機生産。
   - SB2C-1A
     アメリカ陸軍が発注したA-25の海軍呼称。
   - SB2C-1C
-    主翼の12.7mm4挺が20mm機関砲2門、[フラップを油圧式に変更](https://ja.wikipedia.org/wiki/高揚力装置 "wikilink")。778機生産。
+    主翼の12.7mm4挺が20mm機関砲2門、[フラップを油圧式に変更](../Page/高揚力装置.md "wikilink")。778機生産。
   - XSB2C-2
     双浮舟式の試作水上機型。SB2C-1から1機改造。
   - XSB2C-3
@@ -328,7 +328,7 @@ SB2Cが実用へ向けての改修に手間取ったためA-25も実用化が遅
 <td><p>19866</p></td>
 <td></td>
 <td><p>アメリカ<br />
-<a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="https://ja.wikipedia.org/wiki/ペンサコーラ_(フロリダ州)" title="wikilink">ペンサコーラ</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="../Page/ペンサコーラ_(フロリダ州).md" title="wikilink">ペンサコーラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a></p></td>
 <td><p>非公開</p></td>
 <td><p>修復中</p></td>
@@ -363,7 +363,7 @@ SB2Cが実用へ向けての改修に手間取ったためA-25も実用化が遅
 <td><p><a href="https://ja.wikipedia.org/wiki/File:B.J3-4-94_(4)_(14568831439).jpg" title="fig:B.J3-4-94_(4)_(14568831439).jpg">B.J3-4-94_(4)_(14568831439).jpg</a></p></td>
 <td><p><a href="../Page/タイ王国.md" title="wikilink">タイ</a><br />
 <a href="../Page/バンコク.md" title="wikilink">バンコク</a><br />
-<a href="https://ja.wikipedia.org/wiki/ドンムアン空港" title="wikilink">ドンムアン空軍基地</a></p></td>
+<a href="../Page/ドンムアン空港.md" title="wikilink">ドンムアン空軍基地</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイ王国空軍博物館" title="wikilink">タイ王国空軍博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -412,18 +412,18 @@ SB2Cが実用へ向けての改修に手間取ったためA-25も実用化が遅
 ### 映画
 
   - 『[男たちの大和/YAMATO](https://ja.wikipedia.org/wiki/男たちの大和/YAMATO "wikilink")』
-    アメリカ海軍所属機が登場。終盤にて、[TBF アヴェンジャーや](https://ja.wikipedia.org/wiki/TBF_\(航空機\) "wikilink")[F6F ヘルキャットと共に](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink")、[菊水作戦](https://ja.wikipedia.org/wiki/菊水作戦 "wikilink")のために[沖縄へ向かっていた](../Page/沖縄県.md "wikilink")[大和型戦艦](../Page/大和型戦艦.md "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」を襲撃する。
+    アメリカ海軍所属機が登場。終盤にて、[TBF アヴェンジャーや](../Page/TBF_\(航空機\).md "wikilink")[F6F ヘルキャットと共に](../Page/F6F_\(航空機\).md "wikilink")、[菊水作戦](https://ja.wikipedia.org/wiki/菊水作戦 "wikilink")のために[沖縄へ向かっていた](../Page/沖縄県.md "wikilink")[大和型戦艦](../Page/大和型戦艦.md "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」を襲撃する。
 
 ### 漫画
 
   - 『晴天365日』
-    [戦場まんがシリーズ](https://ja.wikipedia.org/wiki/戦場まんがシリーズ "wikilink")の一編。被弾して残弾もなく、負傷兵が青息吐息で飛行させている本機が登場。併走する[百式司偵](https://ja.wikipedia.org/wiki/百式司偵 "wikilink")に（互いに無武装なので）「気力でぶち墜としてやる！」と[変顔](https://ja.wikipedia.org/wiki/変顔 "wikilink")勝負を挑まれ、気力を失って墜落してしまう。
+    [戦場まんがシリーズ](../Page/戦場まんがシリーズ.md "wikilink")の一編。被弾して残弾もなく、負傷兵が青息吐息で飛行させている本機が登場。併走する[百式司偵](https://ja.wikipedia.org/wiki/百式司偵 "wikilink")に（互いに無武装なので）「気力でぶち墜としてやる！」と[変顔](https://ja.wikipedia.org/wiki/変顔 "wikilink")勝負を挑まれ、気力を失って墜落してしまう。
 
 ## 脚注
 
 ## 関連項目
 
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
   - [広島原爆で被爆したアメリカ人](https://ja.wikipedia.org/wiki/広島原爆で被爆したアメリカ人 "wikilink")
   - [SB2A_(航空機)](../Page/SB2A_\(航空機\).md "wikilink")
 

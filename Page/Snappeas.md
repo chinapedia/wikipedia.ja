@@ -1,7 +1,7 @@
 > この記事は[Snappeas](https://ja.wikipedia.org/wiki/Snappeas)から翻訳されています。
 
 
-**Snappeas**（スナッピーズ）は、[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")2003開催時にイメージガールとして[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")内のジュニアアイドル世代の選抜メンバー6人で結成された期間限定の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")ユニットで、現在は活動していない。
+**Snappeas**（スナッピーズ）は、[お台場冒険王](../Page/お台場冒険王.md "wikilink")2003開催時にイメージガールとして[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")内のジュニアアイドル世代の選抜メンバー6人で結成された期間限定の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")ユニットで、現在は活動していない。
 
 サウンドプロデュースは久々に[ビーイング](../Page/ビーイング.md "wikilink")が手がけた。
 
@@ -9,7 +9,7 @@
 
 ## メンバー
 
-  - [妹川華](https://ja.wikipedia.org/wiki/妹川華 "wikilink")
+  - [妹川華](../Page/妹川華.md "wikilink")
   - ウォードえりか（現在：[豊田エリー](../Page/豊田エリー.md "wikilink")）
   - 小出早織（現在：[早織](https://ja.wikipedia.org/wiki/早織 "wikilink")）
   - [夏帆](https://ja.wikipedia.org/wiki/夏帆 "wikilink")

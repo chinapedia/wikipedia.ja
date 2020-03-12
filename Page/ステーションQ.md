@@ -15,7 +15,7 @@
 
   - 月曜 - 金曜 18:30 - 19:00 （1995年10月2日 - 2005年4月1日）\[1\]
   - 月曜 - 金曜 18:28 - 18:55 （2005年4月4日 - 2012年3月9日）\[2\]
-  - 月曜 - 金曜 18:15 - 18:55 （2012年3月12日 - 2012年12月28日） - それまで直前の時間帯に放送されていた『[スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")』を18:19 - 18:29に内包。
+  - 月曜 - 金曜 18:15 - 18:55 （2012年3月12日 - 2012年12月28日） - それまで直前の時間帯に放送されていた『[スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")』を18:19 - 18:29に内包。
   - 月曜 - 金曜 18:25 - 19:00 （2013年1月7日 - 2013年3月29日） - 『スーパーJチャンネル九州・沖縄』を分離して再度単独番組化。
 
 ## キャスター
@@ -24,12 +24,12 @@
 
   - [三上智恵](../Page/三上智恵.md "wikilink")\[3\]
   - [池原あかね](https://ja.wikipedia.org/wiki/池原あかね "wikilink")\[4\]
-  - [宮城さつき](https://ja.wikipedia.org/wiki/宮城さつき "wikilink")\[5\]
+  - [宮城さつき](../Page/宮城さつき.md "wikilink")\[5\]
   - [比嘉鈴代](../Page/比嘉鈴代.md "wikilink")\[6\]
-  - [棚原勝也](https://ja.wikipedia.org/wiki/棚原勝也 "wikilink")\[7\]
+  - [棚原勝也](../Page/棚原勝也.md "wikilink")\[7\]
   - [上原典子](https://ja.wikipedia.org/wiki/上原典子 "wikilink")\[8\]
   - [河合麗子](https://ja.wikipedia.org/wiki/河合麗子 "wikilink")
-  - [草柳悟堂](https://ja.wikipedia.org/wiki/草柳悟堂 "wikilink")
+  - [草柳悟堂](../Page/草柳悟堂.md "wikilink")
 
 ## タイトルロゴ
 
@@ -41,7 +41,7 @@
 
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
-  - [QABニュース](https://ja.wikipedia.org/wiki/QABニュース "wikilink")
+  - [QABニュース](../Page/QABニュース.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 脚注

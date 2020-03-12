@@ -1,7 +1,7 @@
 > この記事は[Classics Two SEPIA  more \& more](https://ja.wikipedia.org/wiki/Classics_Two_SEPIA__more_\&_more)から翻訳されています。
 
 
-「**Classics Two SEPIA 秋桜 〜more & more〜**」（クラシックス・ツー セピア コスモス モア・アンド・モア）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")のコンセプチュアル[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。
+「**Classics Two SEPIA 秋桜 〜more & more〜**」（クラシックス・ツー セピア コスモス モア・アンド・モア）は、[DEEN](../Page/DEEN.md "wikilink")のコンセプチュアル[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。
 
 ## 作品解説
 
@@ -39,9 +39,9 @@
       - 田川伸治(\#1.)
       - DEEN（\#2.〜\#6.）
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")：Lead\&Back-up Vocals
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：Keyboards,Back-up Vocals,Synthesizer\&Computer Programimg
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")：Accoustic Guitar,Synthesizer\&Computer Programing
+      - [池森秀一](../Page/池森秀一.md "wikilink")：Lead\&Back-up Vocals
+      - [山根公路](../Page/山根公路.md "wikilink")：Keyboards,Back-up Vocals,Synthesizer\&Computer Programimg
+      - [田川伸治](../Page/田川伸治.md "wikilink")：Accoustic Guitar,Synthesizer\&Computer Programing
   - ゲスト
       - KAZUYA MIYANO：Electric Bass（\#2.〜\#4.）
       - TOSHIO UEDA：Acoustic Bass（\#5.）

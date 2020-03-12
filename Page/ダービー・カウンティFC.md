@@ -270,7 +270,7 @@
 
 <!-- end list -->
 
-  - [フィリップ・コクー](https://ja.wikipedia.org/wiki/フィリップ・コクー "wikilink")
+  - [フィリップ・コクー](../Page/フィリップ・コクー.md "wikilink")
 
 ### ローン移籍選手
 
@@ -343,7 +343,7 @@
 <td><p>69</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ジュエル" title="wikilink">ポール・ジュエル</a></p></td>
+<td><p><a href="../Page/ポール・ジュエル.md" title="wikilink">ポール・ジュエル</a></p></td>
 <td></td>
 <td><p>2007年11月28日</p></td>
 <td><p>2008年12月29日</p></td>
@@ -427,14 +427,14 @@
 <td><p>60</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ランパード" title="wikilink">フランク・ランパード</a></p></td>
+<td><p><a href="../Page/フランク・ランパード.md" title="wikilink">フランク・ランパード</a></p></td>
 <td></td>
 <td><p>2018年5月31日</p></td>
 <td><p>2019年7月4日</p></td>
 <td><p>57</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フィリップ・コクー" title="wikilink">フィリップ・コクー</a></p></td>
+<td><p><a href="../Page/フィリップ・コクー.md" title="wikilink">フィリップ・コクー</a></p></td>
 <td></td>
 <td><p>2019年7月5日</p></td>
 <td></td>
@@ -449,7 +449,7 @@
 
   - [ピーター・シルトン](../Page/ピーター・シルトン.md "wikilink") 1987-1992
 
-  - [マルト・ポーム](https://ja.wikipedia.org/wiki/マルト・ポーム "wikilink") 1997.3-2002.11
+  - [マルト・ポーム](../Page/マルト・ポーム.md "wikilink") 1997.3-2002.11
 
 **DF**
 
@@ -459,7 +459,7 @@
 
   - [タリボ・ウェスト](https://ja.wikipedia.org/wiki/タリボ・ウェスト "wikilink") 2000-2001
 
-  - [アシュリー・コール](https://ja.wikipedia.org/wiki/アシュリー・コール "wikilink") 2019
+  - [アシュリー・コール](../Page/アシュリー・コール.md "wikilink") 2019
 
 **MF**
 

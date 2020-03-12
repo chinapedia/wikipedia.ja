@@ -1,13 +1,13 @@
 > この記事は[FIVE \(RIP SLYME\)](https://ja.wikipedia.org/wiki/FIVE_\(RIP_SLYME\))から翻訳されています。
 
 
-『**FIVE**』（ファイヴ）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から発売された。
+『**FIVE**』（ファイヴ）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。
 
 ## 概要
 
 RIP SLYMEの記念すべきメジャーデビュー後初のアルバム。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高位は6位だが、後に発売された「[One](../Page/One_\(RIP_SLYMEの曲\).md "wikilink")」でのブレイクなどもあり、登場週数は『[TOKYO CLASSIC](https://ja.wikipedia.org/wiki/TOKYO_CLASSIC "wikilink")』に次ぐ30週を記録している。また、『[TIME TO GO](https://ja.wikipedia.org/wiki/TIME_TO_GO "wikilink")』発売時にも相乗効果で再チャートインを果たしている。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高位は6位だが、後に発売された「[One](../Page/One_\(RIP_SLYMEの曲\).md "wikilink")」でのブレイクなどもあり、登場週数は『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』に次ぐ30週を記録している。また、『[TIME TO GO](../Page/TIME_TO_GO.md "wikilink")』発売時にも相乗効果で再チャートインを果たしている。
 
 収録曲に合作やゲスト曲が多いのが特徴で、計4曲収録されている。
 
@@ -34,7 +34,7 @@ RIP SLYMEの記念すべきメジャーデビュー後初のアルバム。
 4.  **運命共同体** \[5:11\]
       -
         作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA）
-        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[グッジョブ\!CHRISTMAS EDITION](https://ja.wikipedia.org/wiki/グッジョブ!CHRISTMAS_EDITION "wikilink")』に収録されている。
+        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[グッジョブ\!CHRISTMAS EDITION](../Page/グッジョブ!CHRISTMAS_EDITION.md "wikilink")』に収録されている。
 5.  **ジャッジメント （feat.BLACK BOTTOM BRASS BAND\&KYON）** \[4:58\]
       -
         作詞・作曲：PHILEMON HOU、HARRY ELSTON
@@ -45,11 +45,11 @@ RIP SLYMEの記念すべきメジャーデビュー後初のアルバム。
 7.  **光る音 （feat.YO-KING）** \[4:23\]
       -
         作詞：RYO-Z,ILMARI,PES,SU,YO-KING　作曲：DJ FUMIYA
-        [真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")の[YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")との合作。
+        [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")の[YO-KING](../Page/YO-KING.md "wikilink")との合作。
 8.  **Talk to me** \[3:46\]
       -
         作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA
-        声優の[増山江威子](https://ja.wikipedia.org/wiki/増山江威子 "wikilink")が[天才バカボン](../Page/天才バカボン.md "wikilink")のバカボンのママ役で参加している。
+        声優の[増山江威子](../Page/増山江威子.md "wikilink")が[天才バカボン](../Page/天才バカボン.md "wikilink")のバカボンのママ役で参加している。
 9.  **[雑念エンタテインメント](../Page/雑念エンタテインメント.md "wikilink")** \[4:18\]
       -
         作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA
@@ -65,7 +65,7 @@ RIP SLYMEの記念すべきメジャーデビュー後初のアルバム。
 12. **Freak Show （feat.MELLOW YELLOW）** \[5:26\]
       -
         作詞：RYO-Z,ILMARI,PES,SU,KOHEI,KIN、作曲：PES
-        彼らの先輩でもある[MELLOW YELLOWとの合作](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")。
+        彼らの先輩でもある[MELLOW YELLOWとの合作](../Page/MELLOW_YELLOW.md "wikilink")。
 13. **R-E-M** \[4:45\]
       -
         作曲：RIP SLYME

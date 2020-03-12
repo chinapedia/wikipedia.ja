@@ -1,7 +1,7 @@
 > この記事は[MASTERPIECE \(RIP SLYME\)](https://ja.wikipedia.org/wiki/MASTERPIECE_\(RIP_SLYME\))から翻訳されています。
 
 
-『**MASTERPIECE**』（マスターピース）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")4枚目のアルバム。[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")発売。
+『**MASTERPIECE**』（マスターピース）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")4枚目のアルバム。[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")発売。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 アルバム名の由来は、関係者の「今回のアルバムはマスターピースな感じで」という言葉から来ている。また、DJ FUMIYAはこのアルバムから音作りのスタイルが変わったと発言している。
 
-[オリコンデイリーチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初日で首位を獲得したが、ウィークリーチャートでは2位を獲得し、3作ぶりにオリジナルアルバムにおけるチャート1位を逃した。
+[オリコンデイリーチャートで](../Page/オリコンチャート.md "wikilink")、初日で首位を獲得したが、ウィークリーチャートでは2位を獲得し、3作ぶりにオリジナルアルバムにおけるチャート1位を逃した。
 
 ジャケットのイラストは[GEOFF McFETRIDGEが担当した](https://ja.wikipedia.org/wiki/GEOFF_McFETRIDGE "wikilink")。
 
@@ -20,7 +20,7 @@
 1.  **Prologue**
       -
         （作曲：DJ FUMIYA）
-        [インストゥルメンタル曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。声は[藤村俊二](../Page/藤村俊二.md "wikilink")が担当。
+        [インストゥルメンタル曲](../Page/器楽曲.md "wikilink")。声は[藤村俊二](../Page/藤村俊二.md "wikilink")が担当。
 2.  **Masterpiece**
       -
         （作詞：[RYO-Z](../Page/RYO-Z.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [PES](../Page/PES.md "wikilink"), SU　作曲：DJ FUMIYA）
@@ -55,7 +55,7 @@
 10. **AMAR**
       -
         （作曲：DJ FUMIYA）
-        [インストゥルメンタル曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。元は彼らのラジオ番組「ストレイト・アウト・トーキョーSUN」のオープニングテーマ。
+        [インストゥルメンタル曲](../Page/器楽曲.md "wikilink")。元は彼らのラジオ番組「ストレイト・アウト・トーキョーSUN」のオープニングテーマ。
 11. **[STRANGE](../Page/GALAXY_\(RIP_SLYMEの曲\).md "wikilink") (ALBUM Version)**
       -
         （作詞・作曲：RIP SLYME）

@@ -1,7 +1,7 @@
 > この記事は[!CHRISTMAS EDITION](https://ja.wikipedia.org/wiki/!CHRISTMAS_EDITION)から翻訳されています。
 
 
-『**グッジョブ\!CHRISTMAS EDITION**』（グッジョブ クリスマス・エディション）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")発売。
+『**グッジョブ\!CHRISTMAS EDITION**』（グッジョブ クリスマス・エディション）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")発売。
 
 ## 概要
 
@@ -76,7 +76,7 @@
 16. **MORE & MORE**
       -
         （作詞：RYO-Z, ILMARI, PES, SU　作曲：PES）
-        新曲。[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")「[鉄拳5](https://ja.wikipedia.org/wiki/鉄拳5 "wikilink")」の[CM曲](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        新曲。[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")「[鉄拳5](../Page/鉄拳5.md "wikilink")」の[CM曲](../Page/コマーシャルソング.md "wikilink")。
 
 ## 外部リンク
 

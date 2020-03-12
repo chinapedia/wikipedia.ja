@@ -1,7 +1,7 @@
 > この記事は[TIME TO GO](https://ja.wikipedia.org/wiki/TIME_TO_GO)から翻訳されています。
 
 
-『**TIME TO GO**』（タイム・トゥー・ゴー）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")3枚目のアルバム。[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")発売。
+『**TIME TO GO**』（タイム・トゥー・ゴー）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")3枚目のアルバム。[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")発売。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 前作に引き続き、オリコンアルバムチャートで初登場1位を獲得。オリジナルアルバムでの獲得は現時点で本作が最後である。
 
-[インストゥルメンタル曲が多く](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、初回盤のみ収録の「135BPM」を含めると、計3曲収録されている。また、全体でも16曲収録されており、これはRIP SLYMEのオリジナルアルバムとしては最多である。
+[インストゥルメンタル曲が多く](../Page/器楽曲.md "wikilink")、初回盤のみ収録の「135BPM」を含めると、計3曲収録されている。また、全体でも16曲収録されており、これはRIP SLYMEのオリジナルアルバムとしては最多である。
 
 ジャケットでは、メンバー5人が[カウボーイ](../Page/カウボーイ.md "wikilink")姿になっている。
 
@@ -18,23 +18,23 @@
 1.  **INTRODUCTION feat.RYO the SKYWALKER**
       -
         （作詞：RYO the SKYWALKER 作曲：DJ FUMIYA）
-        [RYO the SKYWALKERが参加している](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink")。
+        [RYO the SKYWALKERが参加している](../Page/RYO_the_SKYWALKER.md "wikilink")。
 2.  **HOTTER THAN JULY**
       -
         （作詞：[RYO-Z](../Page/RYO-Z.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [PES](../Page/PES.md "wikilink"), SU 作曲：DJ FUMIYA）
         映画『EX（エックス）』のCMソング。
-        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[グッジョブ\!](https://ja.wikipedia.org/wiki/グッジョブ!_\(アルバム\) "wikilink")』に収録されている。
+        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[グッジョブ\!](../Page/グッジョブ!_\(アルバム\).md "wikilink")』に収録されている。
 3.  **WHAT'S UP? \~HOW'RE YOU DOIN'?**
       -
         （作詞：RYO-Z, ILMARI, PES, SU 作曲：KEI/ILMARI）
-        KEIが作曲・[ヒューマンビートボックス](https://ja.wikipedia.org/wiki/ヒューマンビートボックス "wikilink")で参加している。
+        KEIが作曲・[ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")で参加している。
 4.  **ベイシック・ライン**
       -
         （作詞：RYO-Z, ILMARI, PES, SU 作曲：SU）
 5.  **[JOINT](../Page/JOINT_\(RIP_SLYMEの曲\).md "wikilink")**
       -
         （作詞：RYO-Z, ILMARI, PES, SU 作曲：DJ FUMIYA）
-        7thシングル。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[メロディコール](../Page/メロディコール.md "wikilink")[CM曲](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        7thシングル。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[メロディコール](../Page/メロディコール.md "wikilink")[CM曲](../Page/コマーシャルソング.md "wikilink")。
 6.  **[WHY](../Page/BLUE_BE-BOP.md "wikilink")**
       -
         （作詞：RYO-Z, ILMARI, PES, SU 作曲：DJ FUMIYA）
@@ -46,7 +46,7 @@
 8.  **FIVE FISHES**
       -
         （作曲：DJ FUMIYA）
-        [インストゥルメンタル曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+        [インストゥルメンタル曲](../Page/器楽曲.md "wikilink")。
 9.  **チェッカー・フラッグ**
       -
         （作詞：RYO-Z, ILMARI, PES, SU 作曲：DJ FUMIYA）

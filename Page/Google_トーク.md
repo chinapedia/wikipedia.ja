@@ -5,7 +5,7 @@
 
 ## 概要
 
-[XMPPプロトコルをベースにしており](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")、[Pidgin](https://ja.wikipedia.org/wiki/Pidgin "wikilink")や[iChat](https://ja.wikipedia.org/wiki/iChat "wikilink")等のXMPP互換クライアントを利用して接続することも可能である。 インスタントメッセンジャーの中では比較的シンプルなデザインになっている。Google トーク ガジェットによってクライアントをインストールせずWebブラウザ上からも利用できるようになった。 英語版の最新版では[ボイスチャット機能や](https://ja.wikipedia.org/wiki/インターネット電話#ボイスチャット "wikilink")[ファイル送信](https://ja.wikipedia.org/wiki/ファイル送信 "wikilink")機能が追加されている。
+[XMPPプロトコルをベースにしており](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")、[Pidgin](../Page/Pidgin.md "wikilink")や[iChat](https://ja.wikipedia.org/wiki/iChat "wikilink")等のXMPP互換クライアントを利用して接続することも可能である。 インスタントメッセンジャーの中では比較的シンプルなデザインになっている。Google トーク ガジェットによってクライアントをインストールせずWebブラウザ上からも利用できるようになった。 英語版の最新版では[ボイスチャット機能や](https://ja.wikipedia.org/wiki/インターネット電話#ボイスチャット "wikilink")[ファイル送信](https://ja.wikipedia.org/wiki/ファイル送信 "wikilink")機能が追加されている。
 
 [Gmail](../Page/Gmail.md "wikilink")と連携していてGmailの操作画面でGoogleトークのユーザーとメッセージのやり取りが出来る。
 
@@ -13,7 +13,7 @@
 
 ## 機能
 
-メッセージのやり取り以外の機能としては、Gmailの新着[メールを](../Page/電子メール.md "wikilink")[タスクトレイ](../Page/タスクトレイ.md "wikilink")で通知してくれるアラート機能がある。[Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")・[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink"), [Android](../Page/Android.md "wikilink")といった[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")上で利用することも可能である。Android・BlackBerryにおいては、プッシュ型でメッセージが着信する。
+メッセージのやり取り以外の機能としては、Gmailの新着[メールを](../Page/電子メール.md "wikilink")[タスクトレイ](../Page/タスクトレイ.md "wikilink")で通知してくれるアラート機能がある。[Windows Mobile](../Page/Windows_Mobile.md "wikilink")・[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink"), [Android](../Page/Android.md "wikilink")といった[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")上で利用することも可能である。Android・BlackBerryにおいては、プッシュ型でメッセージが着信する。
 
 ## Labs Edition
 

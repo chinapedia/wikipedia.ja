@@ -1,7 +1,7 @@
 > この記事は[TOKYO CLASSIC](https://ja.wikipedia.org/wiki/TOKYO_CLASSIC)から翻訳されています。
 
 
-『**TOKYO CLASSIC**』（トウキョウクラシック）は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")2枚目のアルバム。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。
+『**TOKYO CLASSIC**』（トウキョウクラシック）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")2枚目のアルバム。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。
 
 ## 概要
 
@@ -19,10 +19,10 @@
 
 1.  **-Introduction-CHIKEN-featuring Breakestra-**
     （作曲：Alfred Janes Ellis ）
-    [インストゥルメンタル曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。[Breakestra](https://ja.wikipedia.org/wiki/Breakestra "wikilink")が参加している。
+    [インストゥルメンタル曲](../Page/器楽曲.md "wikilink")。[Breakestra](https://ja.wikipedia.org/wiki/Breakestra "wikilink")が参加している。
 2.  **By the Way**
     （作詞・作曲：RIP SLYME）
-    後に[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")によってリミックスされている。
+    後に[砂原良徳](../Page/砂原良徳.md "wikilink")によってリミックスされている。
 3.  **Tokyo Classic**
     （作詞・作曲：RIP SLYME）
     表題曲。
@@ -33,7 +33,7 @@
     （作詞・作曲：PES）
     [PES](../Page/PES.md "wikilink")のソロ曲。
 6.  **[Case2.MANNISH BOY（続 zeekのテーマ）](https://ja.wikipedia.org/wiki/マニッシュ・ボーイ "wikilink")**
-    （作詞・作曲：[Ellas McDaniel](../Page/ボ・ディドリー.md "wikilink") / [Muddy Waters](https://ja.wikipedia.org/wiki/マディ・ウォーターズ "wikilink") / Melvin London）
+    （作詞・作曲：[Ellas McDaniel](../Page/ボ・ディドリー.md "wikilink") / [Muddy Waters](../Page/マディ・ウォーターズ.md "wikilink") / Melvin London）
     [RYO-Z](../Page/RYO-Z.md "wikilink")のソロ曲。ちなみに、「zeek」とはRYO-Zの別名である。
 7.  **[FUNKASTIC](../Page/FUNKASTIC.md "wikilink")**
     （作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA）
@@ -54,7 +54,7 @@
     （作詞・作曲：RIP SLYME）
 13. **花火**
     （作詞・作曲：RIP SLYME）
-    演奏時間がRIP SLYMEとしては最長の7分強にも及ぶ。また、[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")が[ベースで参加している](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    演奏時間がRIP SLYMEとしては最長の7分強にも及ぶ。また、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[降谷建志](../Page/降谷建志.md "wikilink")が[ベースで参加している](../Page/ベース_\(弦楽器\).md "wikilink")。
 14. **FUNKASTIC (Breakestra Version) -featuring Breakestra-**
     （作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA）
     「FUNKASTIC」のリミックスバージョン。[Breakestra](https://ja.wikipedia.org/wiki/Breakestra "wikilink")が参加している。

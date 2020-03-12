@@ -7,9 +7,9 @@
 
 前番組だった『[ウィークエンド・ミッドナイト☆パーティー](../Page/ウィークエンド・ミッドナイト☆パーティー.md "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月－1996年3月）から[松宮麻衣子](../Page/松宮麻衣子.md "wikilink")が引き続き出演したが、本番組タイトルに『**次はオレらだ\!**』とあるとおり、女性中心の前番組とは一転して男性中心の番組となった。
 
-番組内容は、最初は松宮や[爆笑問題](../Page/爆笑問題.md "wikilink")の担当コーナーのあと、ゲストを呼んでのトークが中心だったが、メインナビゲーターが替わるごとに担当コーナーが増え、最終的には[ウルフルズ](../Page/ウルフルズ.md "wikilink")や[林家たい平](https://ja.wikipedia.org/wiki/林家たい平 "wikilink")らを加えた担当コーナーが中心となった。
+番組内容は、最初は松宮や[爆笑問題](../Page/爆笑問題.md "wikilink")の担当コーナーのあと、ゲストを呼んでのトークが中心だったが、メインナビゲーターが替わるごとに担当コーナーが増え、最終的には[ウルフルズ](../Page/ウルフルズ.md "wikilink")や[林家たい平](../Page/林家たい平.md "wikilink")らを加えた担当コーナーが中心となった。
 
-1年間の放送終了後、爆笑問題は1997年4月から平日帯の深夜番組『[UP'S](https://ja.wikipedia.org/wiki/UP'S〜Ultra_Performer'S_radio〜 "wikilink")』の火曜日担当パーソナリティとなった（『[爆笑問題カウボーイ](../Page/爆笑問題カーボーイ.md "wikilink") 』の開始）。また、ウルフルズの担当コーナーが番組として独立し、数年間放送された。
+1年間の放送終了後、爆笑問題は1997年4月から平日帯の深夜番組『[UP'S](../Page/UP'S〜Ultra_Performer'S_radio〜.md "wikilink")』の火曜日担当パーソナリティとなった（『[爆笑問題カウボーイ](../Page/爆笑問題カーボーイ.md "wikilink") 』の開始）。また、ウルフルズの担当コーナーが番組として独立し、数年間放送された。
 
 ## 放送時間・ネット局
 
@@ -28,16 +28,16 @@
       - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
       - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")
       - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
-      - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")
+      - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
       - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
       - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
-      - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")
+      - [琉球放送](../Page/琉球放送.md "wikilink")
 
 ## パーソナリティ
 
 ### メインナビゲーター
 
-番組開始当初はTBS社員の[関谷浩至](https://ja.wikipedia.org/wiki/関谷浩至 "wikilink")がメインナビゲーターを務めたが、開始数か月後に目の病気を患い降板\[1\]。のちに[林家たい平](https://ja.wikipedia.org/wiki/林家たい平 "wikilink")に交代し、その後マンスリーゲストが務めることになり、[水野あおい](https://ja.wikipedia.org/wiki/水野あおい "wikilink")らが出演した。
+番組開始当初はTBS社員の[関谷浩至](https://ja.wikipedia.org/wiki/関谷浩至 "wikilink")がメインナビゲーターを務めたが、開始数か月後に目の病気を患い降板\[1\]。のちに[林家たい平](../Page/林家たい平.md "wikilink")に交代し、その後マンスリーゲストが務めることになり、[水野あおい](../Page/水野あおい.md "wikilink")らが出演した。
 
 ### コーナーパーソナリティ
 
@@ -60,4 +60,4 @@
 
 [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink") [Category:TBSラジオの深夜番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの深夜番組 "wikilink") [Category:TBSラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのバラエティ番組 "wikilink")
 
-1.  当時、関谷の知り合いでもある[永六輔](../Page/永六輔.md "wikilink")が自身の番組『[土曜ワイド](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_永六輔その新世界 "wikilink")』の中で発言
+1.  当時、関谷の知り合いでもある[永六輔](../Page/永六輔.md "wikilink")が自身の番組『[土曜ワイド](../Page/土曜ワイドラジオTOKYO_永六輔その新世界.md "wikilink")』の中で発言

@@ -6,7 +6,7 @@
 ## Xine の特徴
 
   - CD、DVD、ビデオCD の再生 - 家庭用[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")などで録画された暗号化されていないDVDや、オーディオCD、ビデオCDは、特別な設定をすることなく再生することができる。[CSSで暗号化された市販の](../Page/Content_Scramble_System.md "wikilink")[DVD-Video](../Page/DVD-Video.md "wikilink")も、[libdvdcss](https://ja.wikipedia.org/wiki/libdvdcss "wikilink")を使用することによって再生することができる。
-  - 多様なフォーマット（[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://ja.wikipedia.org/wiki/WMV "wikilink")、[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")、[MP3](../Page/MP3.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Theora](https://ja.wikipedia.org/wiki/Theora "wikilink")、[Speex](../Page/Speex.md "wikilink")、[Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink")）のサポート - [FFmpeg](../Page/FFmpeg.md "wikilink")のライブラリを使用することによって多くのファイルの再生を実現している。一部のフォーマットの再生には[MPlayer](../Page/MPlayer.md "wikilink")のプロジェクトによって開発された[DLL](https://ja.wikipedia.org/wiki/DLL "wikilink")ファイルが必要になることもある。
+  - 多様なフォーマット（[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://ja.wikipedia.org/wiki/WMV "wikilink")、[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")、[MP3](../Page/MP3.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Theora](../Page/Theora.md "wikilink")、[Speex](../Page/Speex.md "wikilink")、[Vorbis](../Page/Vorbis.md "wikilink")）のサポート - [FFmpeg](../Page/FFmpeg.md "wikilink")のライブラリを使用することによって多くのファイルの再生を実現している。一部のフォーマットの再生には[MPlayer](../Page/MPlayer.md "wikilink")のプロジェクトによって開発された[DLL](https://ja.wikipedia.org/wiki/DLL "wikilink")ファイルが必要になることもある。
   - Linuxや[FreeBSD](../Page/FreeBSD.md "wikilink")など、多くのプラットフォームで動作する。
 
 ## ライセンス

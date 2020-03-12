@@ -1,7 +1,7 @@
 > この記事は[SCIM](https://ja.wikipedia.org/wiki/SCIM)から翻訳されています。
 
 
-**SCIM**（スキム、**Smart Common Input Method**）は 30 以上の言語（[CJKV](https://ja.wikipedia.org/wiki/CJKV "wikilink") と多くのヨーロッパ言語）をサポートする [POSIX](../Page/POSIX.md "wikilink") スタイルの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（[Linux](../Page/Linux.md "wikilink") や [BSD](../Page/BSD.md "wikilink")）のための[インプットメソッド](../Page/インプットメソッド.md "wikilink")（IM）プラットフォーム。
+**SCIM**（スキム、**Smart Common Input Method**）は 30 以上の言語（[CJKV](../Page/CJKV.md "wikilink") と多くのヨーロッパ言語）をサポートする [POSIX](../Page/POSIX.md "wikilink") スタイルの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（[Linux](../Page/Linux.md "wikilink") や [BSD](../Page/BSD.md "wikilink")）のための[インプットメソッド](../Page/インプットメソッド.md "wikilink")（IM）プラットフォーム。
 
 元々は [Turbolinux](../Page/Turbolinux.md "wikilink") で"Smart Chinese/Common Input Method platform"として提供されていたものであった\[1\]。
 

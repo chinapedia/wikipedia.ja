@@ -12,7 +12,7 @@
   - 1996年 - [Oblivion dustを結成](../Page/オブリヴィオン・ダスト.md "wikilink")。
   - 1998年 - [hide with Spread Beaverのギタリストとして活躍](https://ja.wikipedia.org/wiki/hide "wikilink")。
   - 2001年 - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")の「シュガーベイビー」で作曲家デビュー。Oblivion Dustを解散。
-  - 2002年 - [エイベックスから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[キューンレコードに移籍](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")とSpin Aquaを結成。
+  - 2002年 - [エイベックスから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[キューンレコードに移籍](../Page/キューンミュージック.md "wikilink")。[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")とSpin Aquaを結成。
   - 2004年 - メンバーである土屋の結婚・妊娠に伴い、Spin Aquaを解散。
   - 2007年 - Oblivion Dustを再結成。
   - 2008年 - [HYDEと](https://ja.wikipedia.org/wiki/hyde "wikilink")[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")を結成。2017年末より活動休止中。
@@ -37,8 +37,8 @@
 <!-- end list -->
 
   -
-    「[HELLO](https://ja.wikipedia.org/wiki/HELLO_\(HYDEの曲\) "wikilink")」
-    「[COUNTDOWN](https://ja.wikipedia.org/wiki/COUNTDOWN_\(HYDEの曲\) "wikilink")」※HYDEとの共同編曲
+    「[HELLO](../Page/HELLO_\(HYDEの曲\).md "wikilink")」
+    「[COUNTDOWN](../Page/COUNTDOWN_\(HYDEの曲\).md "wikilink")」※HYDEとの共同編曲
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   -
-    「[SEASON'S CALL](https://ja.wikipedia.org/wiki/SEASON'S_CALL "wikilink")」
+    「[SEASON'S CALL](../Page/SEASON'S_CALL.md "wikilink")」
     「[I CAN FEEL](https://ja.wikipedia.org/wiki/FAITH_\(HYDEのアルバム\)#収録曲 "wikilink")」
     「[FAITH](https://ja.wikipedia.org/wiki/FAITH_\(HYDEのアルバム\)#収録曲 "wikilink")」
     「[DOLLY](https://ja.wikipedia.org/wiki/FAITH_\(HYDEのアルバム\)#収録曲 "wikilink")」

@@ -1,9 +1,9 @@
 > この記事は[ -C1 GRAND PRIX-](https://ja.wikipedia.org/wiki/_-C1_GRAND_PRIX-)から翻訳されています。
 
 
-『**レーシングバトル -C1 GRAND PRIX-**』（レーシングバトル シーワングランプリ）は、[元気より](https://ja.wikipedia.org/wiki/元気_\(ゲーム会社\) "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
+『**レーシングバトル -C1 GRAND PRIX-**』（レーシングバトル シーワングランプリ）は、[元気より](../Page/元気_\(ゲーム会社\).md "wikilink")[2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
 
-『[首都高バトルシリーズ](https://ja.wikipedia.org/wiki/首都高バトルシリーズ "wikilink")』と『[街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")』を組み合わせた作品で、実在する日本各地の[サーキット](https://ja.wikipedia.org/wiki/サーキット "wikilink")のほか、[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")と[阪神高速道路](https://ja.wikipedia.org/wiki/阪神高速道路 "wikilink")も登場する。
+『[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")』と『[街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")』を組み合わせた作品で、実在する日本各地の[サーキット](../Page/サーキット.md "wikilink")のほか、[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")と[阪神高速道路](https://ja.wikipedia.org/wiki/阪神高速道路 "wikilink")も登場する。
 
 『首都高バトル01』や『街道バトルシリーズ』同様、登場する[自動車](../Page/自動車.md "wikilink")がすべてメーカー公認のもと、実際の名称で登場している。国産車のみの収録で、外国車は一切収録されていない。
 
@@ -28,9 +28,9 @@
   - SPバトル
     『首都高』『街道』シリーズでもお馴染みの、SP(Spirit Point=精神力)を削り合うバトル。
     対戦相手に先行されるか、壁や他車へ接触することでSPが減少して行き、どちらかのSPゲージが空になると勝敗がつく。
-    ゲーム内に登場する[スーパーオートバックスでは](https://ja.wikipedia.org/wiki/オートバックスセブン "wikilink")、プレイヤーSPの強化や、相手方SPをさらに減少させるアイテムが売られている。
+    ゲーム内に登場する[スーパーオートバックスでは](../Page/オートバックスセブン.md "wikilink")、プレイヤーSPの強化や、相手方SPをさらに減少させるアイテムが売られている。
   - DPバトル
-    一定区間内でプレイヤーが[ドリフトをし](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")、DPポイント(Drift Point)をライバルごとに設定された目標値より多く稼ぐと勝利となる\[1\]。
+    一定区間内でプレイヤーが[ドリフトをし](../Page/ドリフト走行.md "wikilink")、DPポイント(Drift Point)をライバルごとに設定された目標値より多く稼ぐと勝利となる\[1\]。
     基本的にはコースを1周して行われるが、一部のライバルは2周であったり、特定エリア内での勝負となるなど、難易度が高い場面も存在する。
     『街道バトルシリーズ』のCAバトルと基本的なシステムは同一だが、区間内で失敗してもそれまでに獲得したポイントは剥奪されない、区間内でスピンした場合は失敗扱いとなる、といった変更点がある。
     ゲーム内に登場するスーパーオートバックスではDPポイントの獲得値をさらに増やすアイテムなどが売られている。
@@ -53,17 +53,17 @@
   - 天候の変化
     大きく変わるところでは[晴れ](../Page/晴れ.md "wikilink")と[雨](../Page/雨.md "wikilink")だが、中間の[曇天](https://ja.wikipedia.org/wiki/曇天 "wikilink")も存在する。路面のコンディションも天候によって変化し、晴天時はDRY、雨天時はWETで固定だが、曇天のみDRYとWETの2パターンが存在する。
   - ボディペイント
-    『首都高バトル01』で登場したボディペイントがパワーアップ。左スティックに加え、新たに方向キーも使えるようになり、細かな微調整が可能になった。また別売りの[EyeToy](https://ja.wikipedia.org/wiki/EyeToy "wikilink")をつなぐことで、撮影した写真をそのままボディペイントに取り込む事も可能。
+    『首都高バトル01』で登場したボディペイントがパワーアップ。左スティックに加え、新たに方向キーも使えるようになり、細かな微調整が可能になった。また別売りの[EyeToy](../Page/EyeToy.md "wikilink")をつなぐことで、撮影した写真をそのままボディペイントに取り込む事も可能。
 
 ## 本作品に登場するコース
 
   - フィールド1
     [首都高サーキット](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")（外）
-    [筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")
+    [筑波サーキット](../Page/筑波サーキット.md "wikilink")
     [鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")（東）
   - フィールド2
     [大阪環状サーキット](../Page/大阪市道大阪環状線.md "wikilink")
-    [TIサーキット英田](https://ja.wikipedia.org/wiki/岡山国際サーキット "wikilink")（現:岡山国際サーキット）
+    [TIサーキット英田](../Page/岡山国際サーキット.md "wikilink")（現:岡山国際サーキット）
     鈴鹿サーキット（西）
   - フィールド3
     首都高サーキット（内）
@@ -93,8 +93,8 @@
   - [LANCER EVOLUTION VII GSR](https://ja.wikipedia.org/wiki/三菱・ランサーエボリューション#第3世代\(セダン：CT9A/ワゴン：CT9W\) "wikilink")
   - [LANCER EVOLUTION VI GSR](https://ja.wikipedia.org/wiki/三菱・ランサーエボリューション#ランサーエボリューションVI "wikilink")
   - [LANCER EVOLUTION V GSR](https://ja.wikipedia.org/wiki/三菱・ランサーエボリューション#ランサーエボリューションV "wikilink")
-  - [FTO GP Version R](https://ja.wikipedia.org/wiki/三菱・FTO "wikilink")\[3\]
-  - [eK SPORT R](https://ja.wikipedia.org/wiki/三菱・eK "wikilink")
+  - [FTO GP Version R](../Page/三菱・FTO.md "wikilink")\[3\]
+  - [eK SPORT R](../Page/三菱・eK.md "wikilink")
 
 ### MAZDA
 
@@ -104,7 +104,7 @@
   - [ROADSTER S SPECIAL TYPE2](https://ja.wikipedia.org/wiki/マツダ・ロードスター#初代_NA系（1989年-1998年） "wikilink")
   - [ATENZA SPORT 23Z](../Page/マツダ・アテンザ.md "wikilink")
   - [RX-8 Type S](../Page/マツダ・RX-8.md "wikilink")
-  - [AXELA Sport 23S](https://ja.wikipedia.org/wiki/マツダ・アクセラ "wikilink")
+  - [AXELA Sport 23S](../Page/マツダ・アクセラ.md "wikilink")
 
 ### TOYOTA
 
@@ -117,11 +117,11 @@
   - [CHASER TOURER V](../Page/トヨタ・チェイサー.md "wikilink")
   - [MR2 GT](https://ja.wikipedia.org/wiki/トヨタ・MR2#2代目_SW20型（1989年-1999年） "wikilink")
   - [MR2 G Super Charger](https://ja.wikipedia.org/wiki/トヨタ・MR2#初代_AW11型（1984年-1989年） "wikilink")
-  - [ALTEZZA RS200 L EDITION](https://ja.wikipedia.org/wiki/トヨタ・アルテッツァ "wikilink")
+  - [ALTEZZA RS200 L EDITION](../Page/トヨタ・アルテッツァ.md "wikilink")
   - [NOAH L G Selection](../Page/トヨタ・ノア.md "wikilink")
   - [ist 1.5S L EDITION](../Page/トヨタ・ist.md "wikilink")
   - [ESTIMA T AERAS S](../Page/トヨタ・エスティマ.md "wikilink")
-  - [Vitz RS](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")
+  - [Vitz RS](../Page/トヨタ・ヴィッツ.md "wikilink")
   - [WISH 2.0Z](../Page/トヨタ・ウィッシュ.md "wikilink")
   - [bB 1.5Z X Version](../Page/トヨタ・bB.md "wikilink")
 
@@ -140,11 +140,11 @@
 
   - [WAGON R RR-D1](../Page/スズキ・ワゴンR.md "wikilink")
   - [CAPPUCCINO](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink")
-  - [CARRY KA](https://ja.wikipedia.org/wiki/スズキ・キャリイ "wikilink")
+  - [CARRY KA](../Page/スズキ・キャリイ.md "wikilink")
 
 ### DAIHATSU
 
-  - [COPEN Active Top](https://ja.wikipedia.org/wiki/ダイハツ・コペン "wikilink")
+  - [COPEN Active Top](../Page/ダイハツ・コペン.md "wikilink")
   - [MOVE CUSTOM RS Limited](../Page/ダイハツ・ムーヴ.md "wikilink")
 
 ### HONDA
@@ -169,7 +169,7 @@
 
 ### スペシャルカー
 
-実在する[チューニングカー](https://ja.wikipedia.org/wiki/チューニングカー "wikilink")メーカーのデモカー。
+実在する[チューニングカー](../Page/チューニングカー.md "wikilink")メーカーのデモカー。
 
   - [HKS](../Page/エッチ・ケー・エス.md "wikilink") CT9A TRB-02
   - M SPEED BNR34
@@ -184,7 +184,7 @@
   - Sequential FireS15
   - MCR BNR34
   - [Ridox](../Page/織戸学.md "wikilink") Fact JZA80
-  - [NOB](https://ja.wikipedia.org/wiki/谷口信輝 "wikilink") S15 SILVIA
+  - [NOB](../Page/谷口信輝.md "wikilink") S15 SILVIA
   - HKS GENKI IS220R
   - A'PEX D1 PROJECT FD3S
   - [BLITZ](../Page/BLITZ.md "wikilink") ER34 D1 SPL
@@ -194,7 +194,7 @@
   - RS-R S15
   - GENKI S2000
   - AQUA NSX NA2
-  - [ALPINE](https://ja.wikipedia.org/wiki/アルパイン_\(企業\) "wikilink") NSX NA2
+  - [ALPINE](../Page/アルパイン_\(企業\).md "wikilink") NSX NA2
   - AQUA NSX NA2 Version2
 
 ### カスタムカー
@@ -227,7 +227,7 @@
 
 ## 関連項目
 
-  - [首都高バトルシリーズ](https://ja.wikipedia.org/wiki/首都高バトルシリーズ "wikilink")
+  - [首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")
   - [街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")
 
 [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:首都高速道路を舞台とした作品](https://ja.wikipedia.org/wiki/Category:首都高速道路を舞台とした作品 "wikilink")

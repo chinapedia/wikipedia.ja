@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Hoki_museum_outside_rear_001.jpg](https://ja.wikipedia.org/wiki/File:Hoki_museum_outside_rear_001.jpg "fig:Hoki_museum_outside_rear_001.jpg")。設計者の[日建設計](https://ja.wikipedia.org/wiki/日建設計 "wikilink")[山梨知彦](https://ja.wikipedia.org/wiki/山梨知彦 "wikilink")は、この建物のデザインスタディを**Sketchup**で行った。\[1\]\]\] 米Trimbleが開発・提供している[3Dデザインツール](../Page/3次元コンピュータグラフィックス.md "wikilink")。元々、**SketchUp**は米@Last Softwareが開発と販売を行なっていたが、Googleが同社を[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に買収して全ての権利を引き継いだ\[2\]。2012年5月に現在のTrimbleに買収されている。
+[Hoki_museum_outside_rear_001.jpg](https://ja.wikipedia.org/wiki/File:Hoki_museum_outside_rear_001.jpg "fig:Hoki_museum_outside_rear_001.jpg")。設計者の[日建設計](../Page/日建設計.md "wikilink")[山梨知彦](https://ja.wikipedia.org/wiki/山梨知彦 "wikilink")は、この建物のデザインスタディを**Sketchup**で行った。\[1\]\]\] 米Trimbleが開発・提供している[3Dデザインツール](../Page/3次元コンピュータグラフィックス.md "wikilink")。元々、**SketchUp**は米@Last Softwareが開発と販売を行なっていたが、Googleが同社を[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に買収して全ての権利を引き継いだ\[2\]。2012年5月に現在のTrimbleに買収されている。
 
 無償版はdxfなどファイル入出力形式が制限されるほか、高解像度の画像出力、Layoutと呼ばれる図面作成ソフトが同梱されていないなどの制限がある。2013年現在、商用版は**SketchUp pro 2013**、無償版は**SketchUp 2013 Make**と名称を変更され、無償版の商用使用は禁止されている。
 
@@ -19,7 +19,7 @@
 
 ### Google
 
-**SketchUp**は当時[Google Earthの機能強化を進めていたGoogleの目に止まり](https://ja.wikipedia.org/wiki/Google_Earth "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、@Lasts社は買収され、同年[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月27日](../Page/4月27日.md "wikilink") に"**Google SketchUp**"が公開される。
+**SketchUp**は当時[Google Earthの機能強化を進めていたGoogleの目に止まり](https://ja.wikipedia.org/wiki/Google_Earth "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、@Lasts社は買収され、同年[2006年](../Page/2006年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") に"**Google SketchUp**"が公開される。
 
 [2007年](../Page/2007年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")に公開された**SketchUp 6**にはプレゼンテーション作成ツールのLayout、線に沿って面を押し出すフォローミーツールが搭載される。
 
@@ -53,7 +53,7 @@
 
 反面、サンドボックスと呼ばれる自由曲面を作成するツールも用意されているものの、人体や自然造形、自動車などの複雑で有機的な曲線を精密に作るには高い習熟レベルを必要とする。
 
-モデルは[サーフェスモデル](https://ja.wikipedia.org/wiki/サーフェスモデル "wikilink")の[ポリゴン](../Page/ポリゴン.md "wikilink")モデルであるが、[レンダリングにより擬似曲面のモデリングも可能である](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")。
+モデルは[サーフェスモデル](https://ja.wikipedia.org/wiki/サーフェスモデル "wikilink")の[ポリゴン](../Page/ポリゴン.md "wikilink")モデルであるが、[レンダリングにより擬似曲面のモデリングも可能である](../Page/レンダリング_\(コンピュータ\).md "wikilink")。
 
 ### レンダリング
 
@@ -61,7 +61,7 @@
 
 画面の表示設定は「スタイル」として管理され、ワイヤーフレーム、シェーディング、モノクロームなどの面の表現やエッジの幅、空や地面の表示形式を複数設定して切り替えることができる。
 
-ポリゴンのエッジと輪郭を描画する[トゥーンレンダリング](https://ja.wikipedia.org/wiki/トゥーンレンダリング "wikilink")をリアルタイムに生成することができる。ペンや鉛筆の描画を表現するため、スケッチエッジと呼ばれるエッジ表現や端点や線の突き出しの調整が可能である。
+ポリゴンのエッジと輪郭を描画する[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")をリアルタイムに生成することができる。ペンや鉛筆の描画を表現するため、スケッチエッジと呼ばれるエッジ表現や端点や線の突き出しの調整が可能である。
 
 光源については、[グローバルイルミネーション](https://ja.wikipedia.org/wiki/グローバルイルミネーション "wikilink")や屋内照明はサポートされておらず、太陽光の濃淡のみの表現となる。このため、フォトリアルなレンダリング結果を得るためには以下のようなサードパーティ製の外部プラグインが必要となる。
 
@@ -197,7 +197,7 @@ OBJ、VRML、XSI出力</p></td>
 
 ## 関連項目
 
-  - [ニコン・トリンブル](https://ja.wikipedia.org/wiki/ニコン・トリンブル "wikilink")
+  - [ニコン・トリンブル](../Page/ニコン・トリンブル.md "wikilink")
   - [Trimble Navigation Limited](https://ja.wikipedia.org/wiki/:en:Trimble_Navigation "wikilink")
 
 ## 外部リンク

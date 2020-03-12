@@ -5,11 +5,11 @@
 
 ## 概要
 
-当時、男女2人組ユニットだった記念すべきデビューシングルは、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「Jリーグ A GO GO\!」テーマ曲。プロデュースは[EARTHSHAKER](https://ja.wikipedia.org/wiki/EARTHSHAKER "wikilink")の[西田昌史](../Page/西田昌史.md "wikilink")が担当。 カップリング「Over the top」は「[報道多チャンネル](https://ja.wikipedia.org/wiki/報道多チャンネル "wikilink")」のエンディングテーマに使用された。
+当時、男女2人組ユニットだった記念すべきデビューシングルは、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「Jリーグ A GO GO\!」テーマ曲。プロデュースは[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")の[西田昌史](../Page/西田昌史.md "wikilink")が担当。 カップリング「Over the top」は「[報道多チャンネル](https://ja.wikipedia.org/wiki/報道多チャンネル "wikilink")」のエンディングテーマに使用された。
 
 ## 収録曲
 
-全曲　作詞：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　作曲：FEEL SO BAD　編曲：[倉田冬樹](../Page/倉田冬樹.md "wikilink")
+全曲　作詞：[川島だりあ](../Page/川島だりあ.md "wikilink")　作曲：FEEL SO BAD　編曲：[倉田冬樹](../Page/倉田冬樹.md "wikilink")
 
 1.  **Ready or not**
 2.  **Over the top**

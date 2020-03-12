@@ -13,14 +13,14 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **forgiveness**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](https://ja.wikipedia.org/wiki/高原へいらっしゃい "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](../Page/高原へいらっしゃい.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **[ourselves](../Page/&_\(シングル\).md "wikilink") "Kentaro Takizawa remix"**
-3.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink") "[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")'S MIX 2003"**
+3.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink") "[HΛL](../Page/HΛL.md "wikilink")'S MIX 2003"**
 4.  **forgiveness -Instrumental-**
 
 ## 収録アルバム
@@ -28,7 +28,7 @@
   - **forgiveness**
       - 『[Memorial address](../Page/Memorial_address.md "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
-      - 『[A THEME SONGS -Drama edition-](https://ja.wikipedia.org/wiki/A_THEME_SONGS_-Drama_edition- "wikilink")』（配信限定）
+      - 『[A THEME SONGS -Drama edition-](../Page/A_THEME_SONGS_-Drama_edition-.md "wikilink")』（配信限定）
 
 ## 脚注
 

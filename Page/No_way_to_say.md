@@ -15,12 +15,12 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **No way to say "Original Mix"**　
       -
-        [作曲](../Page/作曲.md "wikilink")：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") ポータブルMDプレーヤー「MJ57」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") ポータブルMDプレーヤー「MJ57」[CMソング](../Page/コマーシャルソング.md "wikilink")
         [TBS系](../Page/TBSテレビ.md "wikilink")『[恋するハニカミ](https://ja.wikipedia.org/wiki/恋するハニカミ "wikilink")』テーマソング
 2.  **No way to say "Acoustic Version"**
 3.  **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink") "Acoustic Orchestra Version"**　

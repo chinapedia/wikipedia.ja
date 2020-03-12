@@ -1,7 +1,7 @@
 > この記事は[CHABA](https://ja.wikipedia.org/wiki/CHABA)から翻訳されています。
 
 
-**CHABA**（チャバ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1996年[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")にて結成。2004年にメジャーデビュー。[キューンレコード所属](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員。2008年4月7日解散。
+**CHABA**（チャバ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1996年[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")にて結成。2004年にメジャーデビュー。[キューンレコード所属](../Page/キューンミュージック.md "wikilink")。[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員。2008年4月7日解散。
 
 ## メンバー
 
@@ -9,7 +9,7 @@
       - 現在は介護福祉士を目指すかたわら、ソロ活動中。
   - 比嘉大祐（ひが だいすけ [1975年](../Page/1975年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")生まれ O型 [沖縄県](../Page/沖縄県.md "wikilink")出身）[三線](../Page/三線.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
       - 現在は[Hanasal](https://ja.wikipedia.org/wiki/Hanasal "wikilink")として活動。
-  - 鹿嶋静（かしま しずか [1979年](../Page/1979年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")生まれ O型 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身）[フィドル](https://ja.wikipedia.org/wiki/フィドル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+  - 鹿嶋静（かしま しずか [1979年](../Page/1979年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")生まれ O型 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身）[フィドル](../Page/フィドル.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
       - 現在はフリーの音楽家として活動。
 
 ## 作品
@@ -42,7 +42,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>春－旅立ちの歌－</strong></p></td>
 <td><p>KSCL-768</p></td>
 <td><ol>
@@ -53,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
 <td><p><strong>到来</strong></p></td>
 <td><p>KSCL-824</p></td>
 <td><ol>
@@ -65,7 +65,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/パレード_(CHABAの曲)" title="wikilink">パレード</a></strong></p></td>
 <td><p>KSCL-931</p></td>
 <td><ol>
@@ -74,11 +74,11 @@
 <li>パレード</li>
 </ol></td>
 <td><p>オリコン最高67位、登場回数6回<br />
-<a href="https://ja.wikipedia.org/wiki/屋敷豪太" title="wikilink">屋敷豪太</a>プロデュース</p></td>
+<a href="../Page/屋敷豪太.md" title="wikilink">屋敷豪太</a>プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
 <td><p><strong>涙</strong></p></td>
 <td><p>KSCL-993</p></td>
 <td><ol>
@@ -161,7 +161,7 @@ KSCL-926:CD</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p><strong>アトリエ</strong></p></td>
 <td><p>KSCL-1018</p></td>
 <td><ol>
@@ -192,11 +192,11 @@ KSCL-926:CD</p></td>
 
 ### 参加作品
 
-| 発売日                                                                                         | タイトル                                                                                                                             | 規格品番       | 収録曲                     |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") | [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』 | BVCR-11070 | 15.影ふみ / MCU feat.CHABA |
-| 2006年05月24日                                                                                 | 神輿ロッカーズPresents～island live in okinawa 2005～                                                                                     | BVBR-11070 |                         |
-|                                                                                             |                                                                                                                                  |            |                         |
+| 発売日                                                                      | タイトル                                                                                                                             | 規格品番       | 収録曲                     |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- |
+| [2005年](../Page/2005年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") | [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』 | BVCR-11070 | 15.影ふみ / MCU feat.CHABA |
+| 2006年05月24日                                                              | 神輿ロッカーズPresents～island live in okinawa 2005～                                                                                     | BVBR-11070 |                         |
+|                                                                          |                                                                                                                                  |            |                         |
 
 ## 出演
 
@@ -211,7 +211,7 @@ KSCL-926:CD</p></td>
 | **監督**                                                | **曲名**     |
 | [ウスイヒロシ](../Page/ウスイヒロシ.md "wikilink")                | 「青春キネマ」    |
 | [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink") | 「到来」       |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink") | 「涙」        |
+| [須永秀明](../Page/須永秀明.md "wikilink")                    | 「涙」        |
 | [高木聡](https://ja.wikipedia.org/wiki/高木聡 "wikilink")   | 「春ー旅立ちの歌ー」 |
 | 不明                                                    | 「パレード」     |
 |                                                       |            |
@@ -223,10 +223,10 @@ KSCL-926:CD</p></td>
   - 2003年10月18日 - MINAMI WHEEL 2003
   - 2004年08月14日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2004 in EZO
   - 2004年10月24日 - MINAMI WHEEL 2004
-  - 2005年07月26日 - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink") 初TOUR 2005"LIFE"
+  - 2005年07月26日 - [LITTLE](../Page/LITTLE.md "wikilink") 初TOUR 2005"LIFE"
   - 2005年08月26日 - TREASURE052 2005 ～daybreak～
   - 2006年04月29日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")06
-  - 2006年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07
+  - 2006年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
 
 ## 関連項目
 

@@ -20,7 +20,7 @@
   - 5024 - 5035, 5045 - 5048
     [千葉製粉](https://ja.wikipedia.org/wiki/千葉製粉 "wikilink")所有、[小麦粉](https://ja.wikipedia.org/wiki/小麦粉 "wikilink")専用20ftコンテナ。総重量13.5t。
   - 5036 - 5042
-    [日本ゼオン](https://ja.wikipedia.org/wiki/日本ゼオン "wikilink")所有、塩化ビニル樹脂用20ftコンテナ。総重量13.5t。
+    [日本ゼオン](../Page/日本ゼオン.md "wikilink")所有、塩化ビニル樹脂用20ftコンテナ。総重量13.5t。
   - 5043, 5044
     泉葉運輸所有、塩化ビニル樹脂用20ftコンテナ。総重量13.5t。
   - 5049 - 5070
@@ -33,8 +33,8 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HKXU_0132022.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:コンテナ貨車で海上コンテナを輸送する際の荷票.jpg "wikilink")\]\]
 
   - 8001 - 8100
-    [全農または](https://ja.wikipedia.org/wiki/全国農業協同組合連合会 "wikilink")[ホクレン所有](../Page/ホクレン農業協同組合連合会.md "wikilink")、[牛乳](../Page/牛乳.md "wikilink")専用20ftコンテナ。最大総重量20t（規格外）。[コキ100系積載限定](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車 "wikilink")。海上コンテナ（一部ISOコンテナ）へJR型番を付与したもの。JR型番は付与されているが、コキ100系貨車には海上コンテナとして積載される場合が多い。ホクレン所有のRORO船[「ほくれん丸」にコンテナ](https://ja.wikipedia.org/wiki/ホクレン農業協同組合連合会#ほくれん丸 "wikilink")[トレーラー](https://ja.wikipedia.org/wiki/トレーラー "wikilink")[シャシー](https://ja.wikipedia.org/wiki/シャシー "wikilink")ごと積載される。
-    なお、総重量以外は鉄道コンテナの規格内のため、空コンテナや総重量が規格内に収まる様に積荷を入れた積コンテナは[コキ50000形式に積載される場合もある](https://ja.wikipedia.org/wiki/国鉄コキ50000形貨車 "wikilink")。
+    [全農または](../Page/全国農業協同組合連合会.md "wikilink")[ホクレン所有](../Page/ホクレン農業協同組合連合会.md "wikilink")、[牛乳](../Page/牛乳.md "wikilink")専用20ftコンテナ。最大総重量20t（規格外）。[コキ100系積載限定](../Page/JR貨物コキ100系貨車.md "wikilink")。海上コンテナ（一部ISOコンテナ）へJR型番を付与したもの。JR型番は付与されているが、コキ100系貨車には海上コンテナとして積載される場合が多い。ホクレン所有のRORO船[「ほくれん丸」にコンテナ](https://ja.wikipedia.org/wiki/ホクレン農業協同組合連合会#ほくれん丸 "wikilink")[トレーラー](https://ja.wikipedia.org/wiki/トレーラー "wikilink")[シャシー](https://ja.wikipedia.org/wiki/シャシー "wikilink")ごと積載される。
+    なお、総重量以外は鉄道コンテナの規格内のため、空コンテナや総重量が規格内に収まる様に積荷を入れた積コンテナは[コキ50000形式に積載される場合もある](../Page/国鉄コキ50000形貨車.md "wikilink")。
 
 ### 25000番台
 
@@ -55,7 +55,7 @@
   - 25012, 25013
     日本陸運産業所有（三菱化学借受）、塩化ビニル樹脂専用22.5ftコンテナ。総重量13.5t。
   - 25014 - 25019
-    三菱化学物流所有、塩化ビニル樹脂専用22.5ftコンテナ。総重量13.5t。のちに[日新](https://ja.wikipedia.org/wiki/日新 "wikilink")所有へ変更。
+    三菱化学物流所有、塩化ビニル樹脂専用22.5ftコンテナ。総重量13.5t。のちに[日新](../Page/日新.md "wikilink")所有へ変更。
   - 25020
     所有者不明。
   - 25021 - 25023

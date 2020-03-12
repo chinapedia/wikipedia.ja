@@ -1,11 +1,11 @@
 > この記事は[Z \(\)](https://ja.wikipedia.org/wiki/Z_\(\))から翻訳されています。
 
 
-『サイクロンZ』（原題：飛龍猛将、英語題名：*Dragons Forever*）は[1988年](../Page/1988年.md "wikilink")に公開された[ゴールデン・ハーベスト](https://ja.wikipedia.org/wiki/ゴールデン・ハーベスト "wikilink")製作、[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")監督、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演のアクション映画。
+『サイクロンZ』（原題：飛龍猛将、英語題名：*Dragons Forever*）は[1988年](../Page/1988年.md "wikilink")に公開された[ゴールデン・ハーベスト](../Page/ゴールデン・ハーベスト.md "wikilink")製作、[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")監督、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演のアクション映画。
 
 ## 概要
 
-2017年現在までで、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")、[ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")の”ゴールデン・トリオ”が三人揃って出演した最後の作品。『[スパルタンX](../Page/スパルタンX.md "wikilink")』で敵役を演じた[ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")が再び敵役として出演している。
+2017年現在までで、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")、[ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")の”ゴールデン・トリオ”が三人揃って出演した最後の作品。『[スパルタンX](../Page/スパルタンX.md "wikilink")』で敵役を演じた[ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")が再び敵役として出演している。
 
 ## ストーリー
 
@@ -13,34 +13,34 @@
 
 ## キャスト
 
-| 役名                                                       | 俳優                                                                | 日本語吹替                                                      |
-| -------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------- |
-| [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")版 |                                                                   |                                                            |
-| 弁護士・ジャッキー                                                | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                      | [石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")      |
-| ウォン                                                      | [サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink") | [水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink") |
-| トン                                                       | [ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")                            | [古谷徹](../Page/古谷徹.md "wikilink")                           |
-| イップ                                                      | [ディニー・イップ](https://ja.wikipedia.org/wiki/ディニー・イップ "wikilink")     | [弘中くみ子](https://ja.wikipedia.org/wiki/弘中くみ子 "wikilink")    |
-| メイ                                                       | ポーリン・ヤン                                                           | [佐々木るん](https://ja.wikipedia.org/wiki/佐々木るん "wikilink")    |
-| 裁判長                                                      | [ロイ・チャオ](https://ja.wikipedia.org/wiki/ロイ・チャオ "wikilink")         | [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")      |
-| 用心棒                                                      | [ビリー・チョウ](https://ja.wikipedia.org/wiki/ビリー・チョウ "wikilink")       | [津久井教生](https://ja.wikipedia.org/wiki/津久井教生 "wikilink")    |
-| ファー                                                      | [ユン・ワー](https://ja.wikipedia.org/wiki/ユン・ワー "wikilink")           | [納谷六朗](../Page/納谷六朗.md "wikilink")                         |
-| ファーの部下                                                   | [ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")                        | [大塚明夫](../Page/大塚明夫.md "wikilink")                         |
-| ファーの部下                                                   | [タイ・ポー](https://ja.wikipedia.org/wiki/タイ・ポー "wikilink")           |                                                            |
-| マオ                                                       | [シン・フィオン](https://ja.wikipedia.org/wiki/シン・フィオン "wikilink")       | [真実一路](../Page/真実一路_\(俳優\).md "wikilink")                  |
-| 精神科医                                                     | [フォン・ツイフェン](https://ja.wikipedia.org/wiki/フォン・ツイフェン "wikilink")   |                                                            |
-| 殺し屋                                                      | フォン・ハックオン                                                         |                                                            |
-| マフィアのボス                                                  | [ジェームズ・ティエン](https://ja.wikipedia.org/wiki/ジェームズ・ティエン "wikilink") | [秋元羊介](../Page/秋元羊介.md "wikilink")                         |
-| コオ                                                       | クリスタル・コオ                                                          |                                                            |
-| 弁護士                                                      | [ウー・フォン](https://ja.wikipedia.org/wiki/ウー・フォン "wikilink")         |                                                            |
-|                                                          | [チン・カーロウ](https://ja.wikipedia.org/wiki/チン・カーロウ "wikilink")       |                                                            |
-|                                                          | ユン・モウ                                                             |                                                            |
-|                                                          | カー・レー                                                             |                                                            |
-|                                                          | [ウー・マ](https://ja.wikipedia.org/wiki/ウー・マ "wikilink")             |                                                            |
-|                                                          | [ロー・リエ](https://ja.wikipedia.org/wiki/ロー・リエ "wikilink")           |                                                            |
-|                                                          | [チュン・ファト](https://ja.wikipedia.org/wiki/チュン・ファト "wikilink")       |                                                            |
-|                                                          |                                                                   |                                                            |
+| 役名                                                       | 俳優                                                                | 日本語吹替                                     |
+| -------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------- |
+| [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")版 |                                                                   |                                           |
+| 弁護士・ジャッキー                                                | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                      | [石丸博也](../Page/石丸博也.md "wikilink")        |
+| ウォン                                                      | [サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")                    | [水島裕](../Page/水島裕_\(声優\).md "wikilink")   |
+| トン                                                       | [ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")                            | [古谷徹](../Page/古谷徹.md "wikilink")          |
+| イップ                                                      | [ディニー・イップ](https://ja.wikipedia.org/wiki/ディニー・イップ "wikilink")     | [弘中くみ子](../Page/弘中くみ子.md "wikilink")      |
+| メイ                                                       | ポーリン・ヤン                                                           | [佐々木るん](../Page/佐々木るん.md "wikilink")      |
+| 裁判長                                                      | [ロイ・チャオ](https://ja.wikipedia.org/wiki/ロイ・チャオ "wikilink")         | [大木民夫](../Page/大木民夫.md "wikilink")        |
+| 用心棒                                                      | [ビリー・チョウ](https://ja.wikipedia.org/wiki/ビリー・チョウ "wikilink")       | [津久井教生](../Page/津久井教生.md "wikilink")      |
+| ファー                                                      | [ユン・ワー](https://ja.wikipedia.org/wiki/ユン・ワー "wikilink")           | [納谷六朗](../Page/納谷六朗.md "wikilink")        |
+| ファーの部下                                                   | [ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")                        | [大塚明夫](../Page/大塚明夫.md "wikilink")        |
+| ファーの部下                                                   | [タイ・ポー](https://ja.wikipedia.org/wiki/タイ・ポー "wikilink")           |                                           |
+| マオ                                                       | [シン・フィオン](https://ja.wikipedia.org/wiki/シン・フィオン "wikilink")       | [真実一路](../Page/真実一路_\(俳優\).md "wikilink") |
+| 精神科医                                                     | [フォン・ツイフェン](https://ja.wikipedia.org/wiki/フォン・ツイフェン "wikilink")   |                                           |
+| 殺し屋                                                      | フォン・ハックオン                                                         |                                           |
+| マフィアのボス                                                  | [ジェームズ・ティエン](https://ja.wikipedia.org/wiki/ジェームズ・ティエン "wikilink") | [秋元羊介](../Page/秋元羊介.md "wikilink")        |
+| コオ                                                       | クリスタル・コオ                                                          |                                           |
+| 弁護士                                                      | [ウー・フォン](https://ja.wikipedia.org/wiki/ウー・フォン "wikilink")         |                                           |
+|                                                          | [チン・カーロウ](https://ja.wikipedia.org/wiki/チン・カーロウ "wikilink")       |                                           |
+|                                                          | ユン・モウ                                                             |                                           |
+|                                                          | カー・レー                                                             |                                           |
+|                                                          | [ウー・マ](https://ja.wikipedia.org/wiki/ウー・マ "wikilink")             |                                           |
+|                                                          | [ロー・リエ](https://ja.wikipedia.org/wiki/ロー・リエ "wikilink")           |                                           |
+|                                                          | [チュン・ファト](https://ja.wikipedia.org/wiki/チュン・ファト "wikilink")       |                                           |
+|                                                          |                                                                   |                                           |
 
-  - フジテレビ版：初回放送1990年6月2日『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』
+  - フジテレビ版：初回放送1990年6月2日『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』
 
 ### 設定
 
@@ -100,7 +100,7 @@
 
   - 製作総指揮：[レイモンド・チョウ](https://ja.wikipedia.org/wiki/レイモンド・チョウ "wikilink")/レナード・ホー
   - 企画制作：[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")/[ユン・ケイ](https://ja.wikipedia.org/wiki/ユン・ケイ "wikilink")（コリー・ユエン）
-  - 監督：[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")
+  - 監督：[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")
   - 脚本：シートゥ・チャホン
   - 原案：ゴードン・チャン
   - 音楽：ジェームズ・ウォン
@@ -119,7 +119,7 @@
 
   - すでに『[九龍の眼/クーロンズ・アイ](https://ja.wikipedia.org/wiki/ポリス・ストーリー2/九龍の眼 "wikilink")』や『[奇蹟/ミラクル](https://ja.wikipedia.org/wiki/奇蹟/ミラクル "wikilink")』の製作準備期間に突入していたと思われる、1987年秋に製作が開始されている。
   - 香港での劇場公開は1988年2月11日だが、完成したのはわずか10日前の2月1日で、2月2日には香港のクイーンズ・シアターでチャリティ試写会が開催された。また、日本のファンのためにアクションシーンを追加撮影している\[2\]。
-  - 香港は公開前の新聞ではタイトルが『飛龍福星』となっていた。「福星」とついていることから元々は『[五福星](../Page/五福星.md "wikilink")』や『[大福星](https://ja.wikipedia.org/wiki/香港発活劇エクスプレス_大福星 "wikilink")』の続編の「福星シリーズ」の扱いだったと思われる\[3\]。
+  - 香港は公開前の新聞ではタイトルが『飛龍福星』となっていた。「福星」とついていることから元々は『[五福星](../Page/五福星.md "wikilink")』や『[大福星](../Page/香港発活劇エクスプレス_大福星.md "wikilink")』の続編の「福星シリーズ」の扱いだったと思われる\[3\]。
   - 本作はサモ・ハン監督作品らしく、ジャッキー監督作品に比べ短期間で仕上げられた。サモ・ハンは本作の撮影完了後に『七小福』の撮影に取り掛かっている。
 
 ## 脚注

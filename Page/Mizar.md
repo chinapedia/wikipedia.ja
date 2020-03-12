@@ -1,13 +1,13 @@
 > この記事は[Mizar](https://ja.wikipedia.org/wiki/Mizar)から翻訳されています。
 
 
-自動証明検証システム <strong lang="en">Mizar</strong>（ミザー、ミザール）は、まったく厳密に形式的な形で数学的な[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")や[証明](../Page/証明.md "wikilink")を記述するための[データ記述言語](https://ja.wikipedia.org/wiki/データ記述言語 "wikilink")（**-言語**）、実際にその言語で記述された証明の内容を検証することができる[計算機プログラム](../Page/プログラム_\(コンピュータ\).md "wikilink")（**証明検証プログラム**）、プログラムから参照して新たな証明の際に利用可能な定義と証明済みの[定理](../Page/定理.md "wikilink")からなる[ライブラリ](../Page/ライブラリ.md "wikilink") (****) の三者から構成される。
+自動証明検証システム <strong lang="en">Mizar</strong>（ミザー、ミザール）は、まったく厳密に形式的な形で数学的な[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")や[証明](../Page/証明.md "wikilink")を記述するための[データ記述言語](../Page/データ記述言語.md "wikilink")（**-言語**）、実際にその言語で記述された証明の内容を検証することができる[計算機プログラム](../Page/プログラム_\(コンピュータ\).md "wikilink")（**証明検証プログラム**）、プログラムから参照して新たな証明の際に利用可能な定義と証明済みの[定理](../Page/定理.md "wikilink")からなる[ライブラリ](../Page/ライブラリ.md "wikilink") (****) の三者から構成される。
 
 と同様の目的を持つプロジェクトに、[ロバート・ボイヤー](https://ja.wikipedia.org/wiki/ロバート・ボイヤー "wikilink")の[QEDプロジェクト](https://ja.wikipedia.org/wiki/QEDプロジェクト "wikilink")がある。
 
 ## 概要
 
-システムの開発は1973年に[アンジェイ・トリブレッツ](https://ja.wikipedia.org/wiki/アンジェイ・トリブレッツ "wikilink")によって始められ、システムの保守を[ポーランド](../Page/ポーランド.md "wikilink")の、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[アルバータ大学](https://ja.wikipedia.org/wiki/アルバータ大学 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[信州大学](https://ja.wikipedia.org/wiki/信州大学 "wikilink")で行っている。
+システムの開発は1973年に[アンジェイ・トリブレッツ](https://ja.wikipedia.org/wiki/アンジェイ・トリブレッツ "wikilink")によって始められ、システムの保守を[ポーランド](../Page/ポーランド.md "wikilink")の、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[アルバータ大学](../Page/アルバータ大学.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[信州大学](../Page/信州大学.md "wikilink")で行っている。
 
 \-言語で記された証明文（以下、-論文）は普通の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")コードで書かれている。-言語は、数学の通常の言葉遣いと書式がよく似ており、数学者ならば-論文を容易に読むことができる。また、証明を自動的に検証可能とするほど十分に形式化されたものである。-論文における証明の各段階は非常に自明なものである必要があり、そのため同等の内容を持つ通常の数学論文に比べ、長さにおいて4倍程度になると評価された。
 
@@ -15,7 +15,7 @@
 
 の配布物には、新たに書かれる -論文で参照可能な種々の定義および定理から成る数学ライブラリが含まれる。レビューと自動検証を受けた新たな論文は、形式化数学ジャーナル\[2\]の関連刊行物で公表することができ、また然る後の一部に組み込まれる。
 
-は[タルスキー・グロタンディーク集合論](https://ja.wikipedia.org/wiki/タルスキー・グロタンディーク集合論 "wikilink")の公理に基づいて構築される。2008年5月現在、8,800の定義と46,000の定理を含む\[3\]。例えば[ハーン・バナッハの定理](https://ja.wikipedia.org/wiki/ハーン・バナッハの定理 "wikilink")、[ケーニヒの補題](https://ja.wikipedia.org/wiki/ケーニヒの補題 "wikilink")、[ブラウワーの不動点定理](https://ja.wikipedia.org/wiki/ブラウワーの不動点定理 "wikilink")、[ゲーデルの完全性定理](../Page/ゲーデルの完全性定理.md "wikilink")、[カントール集合](https://ja.wikipedia.org/wiki/カントール集合 "wikilink")に関するいくつかの事実、などがに含まれる。
+は[タルスキー・グロタンディーク集合論](https://ja.wikipedia.org/wiki/タルスキー・グロタンディーク集合論 "wikilink")の公理に基づいて構築される。2008年5月現在、8,800の定義と46,000の定理を含む\[3\]。例えば[ハーン・バナッハの定理](https://ja.wikipedia.org/wiki/ハーン・バナッハの定理 "wikilink")、[ケーニヒの補題](https://ja.wikipedia.org/wiki/ケーニヒの補題 "wikilink")、[ブラウワーの不動点定理](https://ja.wikipedia.org/wiki/ブラウワーの不動点定理 "wikilink")、[ゲーデルの完全性定理](../Page/ゲーデルの完全性定理.md "wikilink")、[カントール集合](../Page/カントール集合.md "wikilink")に関するいくつかの事実、などがに含まれる。
 
 の扱う全ての対象は意味論的には集合であるけれども、にも拘らず-言語では統語論的な「型」を定義して使うことが許されている。つまり、ある変数がたとえば[自然数](../Page/自然数.md "wikilink")を表すものならば`Nat`-型を、あるいは[群を表すなら](https://ja.wikipedia.org/wiki/群論 "wikilink")`Group`-型を宣言することができる。このような記法は数学者にとっての記号の捉え方とより近く、-言語をより扱いやすいものにしている。
 

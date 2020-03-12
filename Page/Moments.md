@@ -15,8 +15,8 @@
 
 1.  **Moments "Original Mix"**　
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink")
-        [コーセー](../Page/コーセー.md "wikilink")「VISÉE」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HIKARI](../Page/HIKARI.md "wikilink")
+        [コーセー](../Page/コーセー.md "wikilink")「VISÉE」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Moments "Acoustic Piano Version"**
 3.  **Moments "Flying humanoid Mix"**
 4.  **Moments "Original Mix -Instrumental-"**

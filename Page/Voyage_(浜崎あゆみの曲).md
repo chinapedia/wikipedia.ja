@@ -9,18 +9,18 @@
 
 "Voyage" の本来の読みは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")（ヴォワイアージュ）、[英語](../Page/英語.md "wikilink")（ヴォイッジ）である。「ヴォヤージュ」というのは、[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")読みとフランス語読みを掛け合わせている。
 
-この楽曲に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")された主演[短編映画](../Page/短編映画.md "wikilink")『[月に沈む](https://ja.wikipedia.org/wiki/月に沈む "wikilink")』が2002年[10月26日](../Page/10月26日.md "wikilink")に公開された\[1\]。[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は「月に沈む」のダイジェストとなっている。
+この楽曲に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")された主演[短編映画](../Page/短編映画.md "wikilink")『[月に沈む](https://ja.wikipedia.org/wiki/月に沈む "wikilink")』が2002年[10月26日](../Page/10月26日.md "wikilink")に公開された\[1\]。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は「月に沈む」のダイジェストとなっている。
 
-この楽曲で、同年の『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』\[2\]と『第35回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")』\[3\]を受賞した。
+この楽曲で、同年の『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』\[2\]と『第35回[日本有線大賞](../Page/日本有線大賞.md "wikilink")』\[3\]を受賞した。
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **Voyage**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Ken Shima](../Page/島健.md "wikilink")
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[マイリトルシェフ](https://ja.wikipedia.org/wiki/マイリトルシェフ "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Ken Shima](../Page/島健.md "wikilink")
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[マイリトルシェフ](../Page/マイリトルシェフ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **[HANABI](../Page/H_\(シングル\).md "wikilink") "electrical Bossa mix"**
 3.  **[independent](../Page/H_\(シングル\).md "wikilink") "SUGIURUMN MIX"**
 4.  **Voyage -Instrumental-**
@@ -32,7 +32,7 @@
       - 『[A BALLADS](../Page/A_BALLADS.md "wikilink")』
       - 『[A BEST 2 -WHITE-](https://ja.wikipedia.org/wiki/A_BEST_2#A_BEST_2_-WHITE- "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
-      - 『[A THEME SONGS -Drama edition-](https://ja.wikipedia.org/wiki/A_THEME_SONGS_-Drama_edition- "wikilink")』（配信限定）
+      - 『[A THEME SONGS -Drama edition-](../Page/A_THEME_SONGS_-Drama_edition-.md "wikilink")』（配信限定）
 
 ## 脚注
 

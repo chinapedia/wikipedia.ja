@@ -1,15 +1,15 @@
 > この記事は[FCF](https://ja.wikipedia.org/wiki/FCF)から翻訳されています。
 
 
-**サンセットイエローFCF** (Sunset Yellow FCF) は、[橙色](https://ja.wikipedia.org/wiki/橙色 "wikilink")に着色することのできる[着色料](../Page/着色料.md "wikilink")。[アゾ](https://ja.wikipedia.org/wiki/アゾ "wikilink")系の[食用タール色素に分類される](../Page/タール色素.md "wikilink")[合成着色料](https://ja.wikipedia.org/wiki/合成着色料 "wikilink")である。通称**黄色5号**（おうしょくごごう）。常温では赤の粒または粉末状の[固体](../Page/固体.md "wikilink")で、無臭である。[分子式はC](../Page/化学式.md "wikilink")<sub>16</sub>H<sub>10</sub>N<sub>2</sub>Na<sub>2</sub>O<sub>7</sub>S<sub>2</sub>、分子量452.38。[CAS登録番号](../Page/CAS登録番号.md "wikilink") : 2783-94-0、[モル質量](../Page/モル質量.md "wikilink") : 424.35 g/mol。[熱](https://ja.wikipedia.org/wiki/熱 "wikilink")や[光](../Page/光.md "wikilink")には強く安定している。
+**サンセットイエローFCF** (Sunset Yellow FCF) は、[橙色](https://ja.wikipedia.org/wiki/橙色 "wikilink")に着色することのできる[着色料](../Page/着色料.md "wikilink")。[アゾ](https://ja.wikipedia.org/wiki/アゾ "wikilink")系の[食用タール色素に分類される](../Page/タール色素.md "wikilink")[合成着色料](../Page/合成着色料.md "wikilink")である。通称**黄色5号**（おうしょくごごう）。常温では赤の粒または粉末状の[固体](../Page/固体.md "wikilink")で、無臭である。[分子式はC](../Page/化学式.md "wikilink")<sub>16</sub>H<sub>10</sub>N<sub>2</sub>Na<sub>2</sub>O<sub>7</sub>S<sub>2</sub>、分子量452.38。[CAS登録番号](../Page/CAS登録番号.md "wikilink") : 2783-94-0、[モル質量](../Page/モル質量.md "wikilink") : 424.35 g/mol。[熱](https://ja.wikipedia.org/wiki/熱 "wikilink")や[光](../Page/光.md "wikilink")には強く安定している。
 
 工業的には[スルファニル酸](https://ja.wikipedia.org/wiki/スルファニル酸 "wikilink")と[シェファー酸](https://ja.wikipedia.org/wiki/シェファー酸 "wikilink")を反応させて生成する。
 
 主に[工業製品](https://ja.wikipedia.org/wiki/工業製品 "wikilink")の着色用途や[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")として使用される。旧[厚生省](../Page/厚生省.md "wikilink")は天然に存在しない添加物に分類している\[1\]。
 
-[EUでは食品添加物](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")（[E番号](https://ja.wikipedia.org/wiki/E番号 "wikilink"):**E110**）として認可している\[2\]\[3\]。また[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Federal Food, Drug, and Cosmetic Act](https://ja.wikipedia.org/wiki/:en:Federal_Food,_Drug,_and_Cosmetic_Act "wikilink")（FD\&C法）\[4\]に基づき、"**FD\&C Yellow No. 6**"として食品（医薬品または化粧品）添加物として認可されている\[5\]
+[EUでは食品添加物](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")（[E番号](../Page/E番号.md "wikilink"):**E110**）として認可している\[2\]\[3\]。また[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Federal Food, Drug, and Cosmetic Act](https://ja.wikipedia.org/wiki/:en:Federal_Food,_Drug,_and_Cosmetic_Act "wikilink")（FD\&C法）\[4\]に基づき、"**FD\&C Yellow No. 6**"として食品（医薬品または化粧品）添加物として認可されている\[5\]
 
-FAO/WHO合同食品添加物専門家委員会 (JECFA) の毒性試験では短期毒性、長期毒性および発がん性は確認されていない\[6\]。国際癌研究機関 (IARC) の[発がん性リスク評価においても発がん性が確認できていない](https://ja.wikipedia.org/wiki/IARC発がん性リスク一覧 "wikilink")（Group 3）。
+FAO/WHO合同食品添加物専門家委員会 (JECFA) の毒性試験では短期毒性、長期毒性および発がん性は確認されていない\[6\]。国際癌研究機関 (IARC) の[発がん性リスク評価においても発がん性が確認できていない](../Page/IARC発がん性リスク一覧.md "wikilink")（Group 3）。
 
 食品用途には、[菓子](../Page/菓子.md "wikilink")や[清涼飲料](https://ja.wikipedia.org/wiki/清涼飲料 "wikilink")への使用が多い。
 

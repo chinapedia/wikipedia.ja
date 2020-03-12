@@ -9,7 +9,7 @@
 
 ## 来歴
 
-ボキャ天出演当初は事務所には所属せず[フリー](../Page/フリーランス.md "wikilink")（元[大川興業](https://ja.wikipedia.org/wiki/大川興業 "wikilink")所属）だったが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に高草誠を[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")に個人事務所フリーフォークスを設立（同事務所には[カンニングも所属していた](../Page/カンニング_\(お笑いコンビ\).md "wikilink")）。当初は、社名をそのまま「フリー」にするつもりだったが、すでに登録されていたため、「自由なやつら」を意味するものとして「フリーフォークス」にした。
+ボキャ天出演当初は事務所には所属せず[フリー](../Page/フリーランス.md "wikilink")（元[大川興業](../Page/大川興業.md "wikilink")所属）だったが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に高草誠を[代表取締役](../Page/代表取締役.md "wikilink")に個人事務所フリーフォークスを設立（同事務所には[カンニングも所属していた](../Page/カンニング_\(お笑いコンビ\).md "wikilink")）。当初は、社名をそのまま「フリー」にするつもりだったが、すでに登録されていたため、「自由なやつら」を意味するものとして「フリーフォークス」にした。
 
 [大島渚](../Page/大島渚.md "wikilink")から厳しい評価を下されることが多く、それでもひたすら頑張り続けたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月の最終回スペシャルで本人の口から個人的に嫌いだった事を聞かされ、ショックで怒りを隠しきれなかった。『続』では、大島渚本人に怒りをぶつけたが、「好きになれない\!」と言い返されてしまい、最終的に決別するかたちをとった。
 
@@ -22,19 +22,19 @@
     [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。「**一万種類のボケを持つ男**」と名乗っていた。
     ボキャブラ初期には奇抜な髪の色で目を引いた。
     MANZAI-C結成前は、「はいびしゃん」、「ラストチャップ」というコンビで活動していた。
-    「はいびしゃん」時代に、雑誌「スーパー写真塾」の投稿コーナーの選者をしていた。海パン姿で[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")で投稿写真を持ってポーズを取ったこともある。
+    「はいびしゃん」時代に、雑誌「スーパー写真塾」の投稿コーナーの選者をしていた。海パン姿で[歌舞伎町](../Page/歌舞伎町.md "wikilink")で投稿写真を持ってポーズを取ったこともある。
     「[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")」の計量の際に、ボールが入ったバケツをひっくり返した。これは「素人に審査されてたまるか」という西野の抵抗だった。
-    ピン芸人として、スカパー\!の成人向けチャンネル「[パラダイスTV](https://ja.wikipedia.org/wiki/パラダイステレビ "wikilink")」の番組にてMCを担当。
-    [パラダイスTVの](https://ja.wikipedia.org/wiki/パラダイステレビ "wikilink")「[24時間テレビ エロは地球を救う](https://ja.wikipedia.org/wiki/24時間テレビ_エロは地球を救う "wikilink")」のメインMCを最後に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に芸能界を引退。
-    翌年[十日町市](https://ja.wikipedia.org/wiki/十日町市 "wikilink")でペット商品販売店を開業し現在に至る。[1](http://www.oradoko.jp/kirari/2014/07/vol019.html)
+    ピン芸人として、スカパー\!の成人向けチャンネル「[パラダイスTV](../Page/パラダイステレビ.md "wikilink")」の番組にてMCを担当。
+    [パラダイスTVの](../Page/パラダイステレビ.md "wikilink")「[24時間テレビ エロは地球を救う](../Page/24時間テレビ_エロは地球を救う.md "wikilink")」のメインMCを最後に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に芸能界を引退。
+    翌年[十日町市](../Page/十日町市.md "wikilink")でペット商品販売店を開業し現在に至る。[1](http://www.oradoko.jp/kirari/2014/07/vol019.html)
 
 <!-- end list -->
 
   - 森 光司（もり こうじ）
-    [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")生まれ、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身。A型。[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。「**誰とでも漫才が出来る男**」と言われていた。
+    [1970年](../Page/1970年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")生まれ、[茨城県](../Page/茨城県.md "wikilink")出身。A型。[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。「**誰とでも漫才が出来る男**」と言われていた。
     [駒澤大学](../Page/駒澤大学.md "wikilink")中退。
     長髪が特徴。
-    後に[放送作家](../Page/放送作家.md "wikilink")に転身。担当番組は「[竹山先生?](https://ja.wikipedia.org/wiki/竹山先生? "wikilink")」「[2時っチャオ\!](https://ja.wikipedia.org/wiki/2時っチャオ! "wikilink")」「[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")」などで現在[オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/オフィス・トゥー・ワン "wikilink")所属。
+    後に[放送作家](../Page/放送作家.md "wikilink")に転身。担当番組は「[竹山先生?](../Page/竹山先生?.md "wikilink")」「[2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")」「[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")」などで現在[オフィス・トゥー・ワン](../Page/オフィス・トゥー・ワン.md "wikilink")所属。
     MANZAI-C結成前は、「光☆KENJI」というコンビで活動していた。
 
 ## 現在の出演番組
@@ -44,7 +44,7 @@
 ## 過去の出演番組
 
   - [タモリのボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")（キャッチコピーは彷徨のヒットマン)([フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績1勝0敗 最高361KB
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）戦績1勝0敗 最高361KB
   - [GAHAHAキング 爆笑王決定戦](../Page/GAHAHAキング_爆笑王決定戦.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）
   - [GAHAHA王国](../Page/GAHAHA王国.md "wikilink")（テレビ朝日）
   - [爆笑王誕生](https://ja.wikipedia.org/wiki/爆笑王誕生 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）5週勝抜き第3代チャンピオン
@@ -54,7 +54,7 @@
   - [お笑いダンクシュート](../Page/お笑いダンクシュート.md "wikilink")（NHK総合テレビ）
   - [ゲーム王国](../Page/ゲーム王国.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）
   - [世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")（フジテレビ系）
-  - [木曜の怪談](https://ja.wikipedia.org/wiki/木曜の怪談 "wikilink")（フジテレビ系）
+  - [木曜の怪談](../Page/木曜の怪談.md "wikilink")（フジテレビ系）
 
 ラジオ
 

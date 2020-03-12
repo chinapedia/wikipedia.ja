@@ -1,11 +1,11 @@
 > この記事は[ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY)から翻訳されています。
 
 
-**ROTTENGRAFFTY**（ロットングラフティー）は、1999年に[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")にて結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャーロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。略名は『ロットン』。
+**ROTTENGRAFFTY**（ロットングラフティー）は、1999年に[京都府](../Page/京都府.md "wikilink")にて結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャーロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。略名は『ロットン』。
 
 ## メンバー
 
-**NOBUYA（ノブヤ、**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名は村瀬展弥（むらせのぶや）。通称「のぶじい」[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[長岡京市](../Page/長岡京市.md "wikilink")出身
+**NOBUYA（ノブヤ、**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名は村瀬展弥（むらせのぶや）。通称「のぶじい」[京都府](../Page/京都府.md "wikilink")[長岡京市](../Page/長岡京市.md "wikilink")出身
 
   - ステージ下手（左側）のボーカル。ロットングラフティーを発起させた。
   - CL∀SSICKに収録されている「(無題)」は尊敬する[X JAPANの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")への思いを綴った曲である。
@@ -29,7 +29,7 @@
 
   - ドラムのHIROSHIとは同じバンドを組んでいた。
 
-**N∀OKI（ナオキ、 - ）**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ハープ担当](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")。本名は牧沢直樹（まきざわなおき）。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")出身
+**N∀OKI（ナオキ、 - ）**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ハープ担当](../Page/ハーモニカ.md "wikilink")。本名は牧沢直樹（まきざわなおき）。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身
 
   - ステージ上手（右側）のボーカル。
   - 作詞と作曲も手がける。時にライブ中正規通りの歌い方をせず、即興的に歌う。
@@ -42,8 +42,8 @@
 
 <!-- end list -->
 
-  - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")と親交のある[ドクター長谷川](https://ja.wikipedia.org/wiki/ドクター長谷川 "wikilink")とは同郷の先輩後輩にあたるとのこと。
-  - 尊敬するバンドとして[THE STALIN](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")、[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")、[THA BLUE HERBなどの音楽があげられる](https://ja.wikipedia.org/wiki/THA_BLUE_HERB "wikilink")。
+  - [10-FEET](../Page/10-FEET.md "wikilink")と親交のある[ドクター長谷川](https://ja.wikipedia.org/wiki/ドクター長谷川 "wikilink")とは同郷の先輩後輩にあたるとのこと。
+  - 尊敬するバンドとして[THE STALIN](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[THA BLUE HERBなどの音楽があげられる](https://ja.wikipedia.org/wiki/THA_BLUE_HERB "wikilink")。
 
 **KAZUOMI（カズオミ、**[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")・[プログラミング](../Page/プログラミング.md "wikilink")担当。本名は仲北和臣（なかきたかずおみ）。
 
@@ -54,12 +54,12 @@
   - 犬好き。小動物が好き。
   - とあるインタビューでは洋楽に影響を受けたと回答しているが、ジャンルにとらわれず「音楽」が好きと公言している。
 
-**侑威地（ゆういち、 -** [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。本名は安達友一（あだちゆういち）。
+**侑威地（ゆういち、 -** [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。本名は安達友一（あだちゆういち）。
 
   - 機材 Musicman Cutlass Seymour Duncan Precision Bass, MODULUS, Fender Japan Jazz Bass V
   - バーテンダーとして店長もしていた。
   - 2010年頃まではアシンメトリーの髪型だった。
-  - [ガンダム好きで](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")、仲の良いバンドからは「Mr.ガンダム」と言われるほど。アンプの上にはガンダムのヘッドフィギアがあった。
+  - [ガンダム好きで](../Page/機動戦士ガンダム.md "wikilink")、仲の良いバンドからは「Mr.ガンダム」と言われるほど。アンプの上にはガンダムのヘッドフィギアがあった。
   - アニメ好きでFLOWとの対バンを楽しみにしていた時期があった。
   - ヴィジュアル系バンド出身\[5\]。尊敬するバンドとして[LUNA SEAを公言している](../Page/LUNA_SEA.md "wikilink")。
 
@@ -72,7 +72,7 @@
       - また、[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")のドラム・ナヲからは「山崎邦正的ポジション」とも言われるほど。
   - 一度、脱退を決意するが最後のツアーが楽しすぎて撤回した。\[6\]というエピソードがある。
   - ヴィジュアル系バンド出身\[7\]。
-  - 尊敬するバンドとして[ユニコーンなどがあげられる](https://ja.wikipedia.org/wiki/UNICORN "wikilink")。
+  - 尊敬するバンドとして[ユニコーンなどがあげられる](../Page/UNICORN.md "wikilink")。
 
 ## 概要
 
@@ -90,46 +90,46 @@
 
 <!-- end list -->
 
-  - 「古都の[ドブネズミ](https://ja.wikipedia.org/wiki/ドブネズミ "wikilink")」をシンボルとし、グッズにもドブネズミが使用されている。
+  - 「古都の[ドブネズミ](../Page/ドブネズミ.md "wikilink")」をシンボルとし、グッズにもドブネズミが使用されている。
   - 独自企画として毎年12月に「ポルノ超特急」を行う。また、6月10日はゴロ合わせで「ロットンの日」、その逆にあたる10月6日は「逆ロットンの日」というイベントを企画。
   - 京都市にあるライブハウス「KYOTO MUSE」をメインとして活動。現在では「[KBSホール](https://ja.wikipedia.org/wiki/KBSホール_\(日本\) "wikilink")」「[京都パルスプラザ](https://ja.wikipedia.org/wiki/京都パルスプラザ "wikilink")」など京都の大型会場でもライブを行う。
-  - 同郷で同世代の[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")とは親交が深い。また、[Dragon Ashや](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")、[山嵐](https://ja.wikipedia.org/wiki/山嵐 "wikilink")、[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、[THE冠](https://ja.wikipedia.org/wiki/THE冠 "wikilink")など交流の深いバンドは多い。先輩バンドには[ブッシュマン](https://ja.wikipedia.org/wiki/ブッシュマン "wikilink")、後輩に[UVERworld](../Page/UVERworld.md "wikilink")などが当たる。
+  - 同郷で同世代の[10-FEET](../Page/10-FEET.md "wikilink")とは親交が深い。また、[Dragon Ashや](../Page/Dragon_Ash.md "wikilink")[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[RIZE](../Page/RIZE.md "wikilink")、[山嵐](https://ja.wikipedia.org/wiki/山嵐 "wikilink")、[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、[THE冠](https://ja.wikipedia.org/wiki/THE冠 "wikilink")など交流の深いバンドは多い。先輩バンドには[ブッシュマン](https://ja.wikipedia.org/wiki/ブッシュマン "wikilink")、後輩に[UVERworld](../Page/UVERworld.md "wikilink")などが当たる。
   - メジャー第一弾シングル『悪巧み〜Merry Christmas Mr.Lawrence』は、坂本龍一による「戦場のメリークリスマスのテーマ」にロットングラフティー流のアレンジを施し、自身のオリジナル曲の「悪巧み」を融合させた意欲作。
 
 <!-- end list -->
 
-  - アルバム『SYNCHRONICITIZM』のプロデューサーに[Dragon AshのIKUZONEを迎えている](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")。これはIKUZONEからの申し出から叶ったことであった。
-  - 2003年に参加した『[BOOWY Respect](https://ja.wikipedia.org/wiki/BOOWY_Respect "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
+  - アルバム『SYNCHRONICITIZM』のプロデューサーに[Dragon AshのIKUZONEを迎えている](../Page/Dragon_Ash.md "wikilink")。これはIKUZONEからの申し出から叶ったことであった。
+  - 2003年に参加した『[BOOWY Respect](../Page/BOOWY_Respect.md "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
   - アルバム『Walk』収録の「D.A.N.C.E.」は急死した[馬場育三](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")へ向けて作られた歌で、歌詞中にも「IKÜZÖNE」が登場する\[9\]。
 
 <!-- end list -->
 
-  - お笑いコンビ・[野性爆弾](https://ja.wikipedia.org/wiki/野性爆弾 "wikilink")と非常に仲がよく、野性爆弾の二人がメンバーに名を連ねる[インディーズバンド](https://ja.wikipedia.org/wiki/インディーズバンド "wikilink")・[盆地で一位](../Page/盆地で一位.md "wikilink")と共演した事もある（[2003年](../Page/2003年.md "wikilink")、大阪バナナホール）。ちなみに、野性爆弾の城野がアルバイトをしていた大阪[心斎橋](https://ja.wikipedia.org/wiki/心斎橋 "wikilink")のダーツバーの壁には、ロットングラフティーのサインが書かれている。また、お笑いコンビ・[麒麟のライブDVD](../Page/麒麟_\(お笑いコンビ\).md "wikilink")「キリン！キリン！キリン！」の[SEに](https://ja.wikipedia.org/wiki/効果音 "wikilink")「悪巧み～Merry Christmas Mr.Lawrence」が使われており、舞台の出囃子でも流されていた時期がある。自主イベントのポルノ超特急では、お笑い芸人の出演もあり、上記芸人も出演している。
+  - お笑いコンビ・[野性爆弾](https://ja.wikipedia.org/wiki/野性爆弾 "wikilink")と非常に仲がよく、野性爆弾の二人がメンバーに名を連ねる[インディーズバンド](https://ja.wikipedia.org/wiki/インディーズバンド "wikilink")・[盆地で一位](../Page/盆地で一位.md "wikilink")と共演した事もある（[2003年](../Page/2003年.md "wikilink")、大阪バナナホール）。ちなみに、野性爆弾の城野がアルバイトをしていた大阪[心斎橋](../Page/心斎橋.md "wikilink")のダーツバーの壁には、ロットングラフティーのサインが書かれている。また、お笑いコンビ・[麒麟のライブDVD](../Page/麒麟_\(お笑いコンビ\).md "wikilink")「キリン！キリン！キリン！」の[SEに](../Page/効果音.md "wikilink")「悪巧み～Merry Christmas Mr.Lawrence」が使われており、舞台の出囃子でも流されていた時期がある。自主イベントのポルノ超特急では、お笑い芸人の出演もあり、上記芸人も出演している。
 
 ## 来歴
 
   - **[1999年](../Page/1999年.md "wikilink")**
       - 結成。地元関西を中心に精力的なライブ活動を行う。
   - **[2001年](../Page/2001年.md "wikilink")**
-      - 2月 - [キングレコード](../Page/キングレコード.md "wikilink")系レーベルである[ベルウッド・レコード](https://ja.wikipedia.org/wiki/ベルウッド・レコード "wikilink")よりミニアルバム『RADICAL PEACE×RADICAL GENOCIDE』をリリース。─同年、脱退。
+      - 2月 - [キングレコード](../Page/キングレコード.md "wikilink")系レーベルである[ベルウッド・レコード](../Page/ベルウッド・レコード.md "wikilink")よりミニアルバム『RADICAL PEACE×RADICAL GENOCIDE』をリリース。─同年、脱退。
   - **[2003年](../Page/2003年.md "wikilink")**
       - 自主レーベル『BEDTIME FOR DEMOCRACY』を立ち上げ。
-      - 3月 - [プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")**[IKÜZÖNE](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")**を迎え3rdミニアルバム『[SYNCHRONICITIZM](https://ja.wikipedia.org/wiki/SYNCHRONICITIZM "wikilink")』をリリース。
+      - 3月 - [プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")**[IKÜZÖNE](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")**を迎え3rdミニアルバム『[SYNCHRONICITIZM](https://ja.wikipedia.org/wiki/SYNCHRONICITIZM "wikilink")』をリリース。
       - 11月6日 - IKÜZÖNEプロデュースにより、メジャー第一弾シングル『[悪巧み〜Merry Christmas Mr.Lawrence](https://ja.wikipedia.org/wiki/悪巧み〜Merry_Christmas_Mr.Lawrence "wikilink")』をリリース。このタイトル曲は[坂本龍一](../Page/坂本龍一.md "wikilink")による「[戦場のメリークリスマスのテーマ](https://ja.wikipedia.org/wiki/メリー・クリスマス・ミスター・ローレンス "wikilink")」にロットングラフティー流のアレンジを施し、それにオリジナル曲の「悪巧み」を融合させたもので、そのインパクトは各地で話題となった。
-  - **[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+  - **[2005年](../Page/2005年.md "wikilink")**
       - 3月 - [マキシマム ザ ホルモンのナヲがゲストコーラスとして参加した](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")「RATMAN」収録の『えきさぴこ』をリリース。その後、キングレコードとの契約を解消してフリーとなるも、活発に全国展開のライヴ活動を行う。
-  - **[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")**
+  - **[2006年](../Page/2006年.md "wikilink")**
       - ライヴ会場限定シングル『palm』、『form』の2枚を自主制作で発表。
       - 10月11日 - [LUNA SEAのベーシスト](../Page/LUNA_SEA.md "wikilink")・[J](../Page/J.md "wikilink")が新たに旗揚げした[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")の新レーベルである[INFERNO RECORDSから](https://ja.wikipedia.org/wiki/INFERNO_RECORDS "wikilink")、移籍第一弾シングルとして『マンダーラ』をリリース。
   - **[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")**
       - 吉本音楽出版に移籍。
-      - 7月 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")主催フェス「[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2008〜去年は台風でごめんな祭〜」にオープニングアクトとして出演。実質第一回目の大作戦の先陣をきった。
+      - 7月 - [10-FEET](../Page/10-FEET.md "wikilink")主催フェス「[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2008〜去年は台風でごめんな祭〜」にオープニングアクトとして出演。実質第一回目の大作戦の先陣をきった。
       - 10月 - [α-STATIONでレギュラーラジオ番組](../Page/エフエム京都.md "wikilink")「YO\! NOW YO\! NOW」がスタート。
   - **[2009年](../Page/2009年.md "wikilink")**
       - バンド結成10周年を迎える。吉本音楽出版を脱退。
       - 4月 - [FM OSAKAで](../Page/エフエム大阪.md "wikilink")「ロットングラフティーのまいどおおきにー」(09年4月-09年7月)がスタート。
   - **[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")**
-      - 4月7日 - [PINE FIELDS RECORDINGSより](https://ja.wikipedia.org/wiki/PINE_FIELDS_RECORDINGS "wikilink")、4年振りのアルバム『This World』をリリース。インディーズアルバム[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")初回4位。この作品より、バンド名表記がアルファベット綴りとなる。
+      - 4月7日 - [PINE FIELDS RECORDINGSより](https://ja.wikipedia.org/wiki/PINE_FIELDS_RECORDINGS "wikilink")、4年振りのアルバム『This World』をリリース。インディーズアルバム[オリコンチャート](../Page/オリコンチャート.md "wikilink")初回4位。この作品より、バンド名表記がアルファベット綴りとなる。
   - **[2013年](../Page/2013年.md "wikilink")**
       - 5th ALBUM『Walk』を発売しバンド史上最高セールスを記録。キャリア最大規模で行われたリリースツアーのFINAL 公演を渋谷AXで行い、チケットは完売。
   - **[2014年](../Page/2014年.md "wikilink")**
@@ -199,7 +199,7 @@ Mr.Lawrence '''</p></td>
 </ol></td>
 <td><p>91位</p></td>
 <td><p>メジャー第一弾シングル<br />
-<a href="https://ja.wikipedia.org/wiki/馬場育三" title="wikilink">IKÜZÖNE</a>（<a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a>）プロデュース<br />
+<a href="https://ja.wikipedia.org/wiki/馬場育三" title="wikilink">IKÜZÖNE</a>（<a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a>）プロデュース<br />
 </p></td>
 </tr>
 <tr class="even">
@@ -224,7 +224,7 @@ Mr.Lawrence '''</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
 <td><p>''' マンダーラ '''</p></td>
 <td><p>POCE-13004</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -526,11 +526,11 @@ VICL-37509（通常盤）</p></td>
 </div></td>
 <td><p>79位</p></td>
 <td><p>メジャーファーストアルバム<br />
-<a href="https://ja.wikipedia.org/wiki/馬場育三" title="wikilink">IKÜZÖNE</a>（<a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a>）プロデュース</p></td>
+<a href="https://ja.wikipedia.org/wiki/馬場育三" title="wikilink">IKÜZÖNE</a>（<a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a>）プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
 <td><p>''' えきさぴこ '''</p></td>
 <td><p>KICS-1146</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -826,7 +826,7 @@ VICL-65344～65345(通常盤)</p></td>
 <li>DISC 3(Compiled with Cover &amp; Collaboration Songs、数量限定20thアニヴァーサリー・ボックス・セット/完全生産限定盤)</li>
 </ul>
 <ol>
-<li>MORAL(2003年発表、『<a href="https://ja.wikipedia.org/wiki/BOOWY_Respect" title="wikilink">BOØWY Respect</a>』収録)</li>
+<li>MORAL(2003年発表、『<a href="../Page/BOOWY_Respect.md" title="wikilink">BOØWY Respect</a>』収録)</li>
 <li>マジンガーZ(2005年発表、『GO ! GO ! NAGAI Tribute to the 永井豪』収録)</li>
 <li>RAT FINK(2006年発表、『GELUGUGU AMIGOS』収録)</li>
 <li>HOLD IN LOVE［赤い雨につつまれて］(2010年発表、『ピエロとスイカと88ライダー』収録)</li>
@@ -877,12 +877,12 @@ VICL-65290(通常盤)</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>DISC 1(全タイプ共通)<br />
-#金色グラフティー/<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></p>
+#金色グラフティー/<a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></p>
 <ol>
 <li>D.A.N.C.E./<a href="https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん" title="wikilink">ヤバイTシャツ屋さん</a></li>
 <li>エレベイター/<a href="https://ja.wikipedia.org/wiki/coldrain" title="wikilink">coldrain</a></li>
 <li>e for 20/<a href="https://ja.wikipedia.org/wiki/キュウソネコカミ" title="wikilink">キュウソネコカミ</a></li>
-<li>マンダーラ/<a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
+<li>マンダーラ/<a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li>響く都/<a href="../Page/四星球.md" title="wikilink">四星球</a></li>
 <li>かくれんぼ/<a href="../Page/MUCC.md" title="wikilink">MUCC</a> feat. <a href="https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION#DJ_Santa_Monica" title="wikilink">DJ Santa Monica</a></li>
 <li>寂寞 -sekibaku-/<a href="../Page/清春.md" title="wikilink">清春</a></li>
@@ -1078,7 +1078,7 @@ VICL-65290(通常盤)</p></td>
 <td><p>ライブ会場限定販売　￥500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
 <td><p>''' CHAOS in terminal '''</p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1095,7 +1095,7 @@ VICL-65290(通常盤)</p></td>
 <td><p>ライブ会場限定配布</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
 <td><p>''' palm '''</p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1112,7 +1112,7 @@ VICL-65290(通常盤)</p></td>
 <td><p>ライブ会場限定販売</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td><p>''' form '''</p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1257,8 +1257,8 @@ VICL-65290(通常盤)</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月18日.md" title="wikilink">9月18日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月18日.md" title="wikilink">9月18日</a><br />
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td><p><strong>CHAOS in terminal</strong><br />
 '''赤紙ワンマンライブ限定配布DVD '''</p></td>
 <td></td>
@@ -1514,7 +1514,7 @@ PINE-0032:BD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年10月25日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GELUGUGU" title="wikilink">GELUGUGU</a> AMIGOS</strong></p></td>
+<td><p><strong><a href="../Page/GELUGUGU.md" title="wikilink">GELUGUGU</a> AMIGOS</strong></p></td>
 <td><p>IDCA-1028</p></td>
 <td><p>『RAT FINK』カバー参加</p></td>
 <td><p>Musicmine</p></td>
@@ -1523,7 +1523,7 @@ PINE-0032:BD</p></td>
 <td><p>2007年06月20日</p></td>
 <td><p><strong>HOUSE OF PUNX</strong> (N∀OKI参加)</p></td>
 <td><p>TSE-001</p></td>
-<td><p>『あるだけ feat TAKUMA(<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a>),N∀OKI(ロットングラフティー),CHU,ANIMAL-K』</p></td>
+<td><p>『あるだけ feat TAKUMA(<a href="../Page/10-FEET.md" title="wikilink">10-FEET</a>),N∀OKI(ロットングラフティー),CHU,ANIMAL-K』</p></td>
 <td><p>T-STAR ENTERTAINMENT</p></td>
 </tr>
 <tr class="odd">
@@ -1542,14 +1542,14 @@ PINE-0032:BD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年11月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MERRY" title="wikilink">MERRY</a>「<strong>ZERO -ゼロ-</strong>」</p></td>
+<td><p><a href="../Page/MERRY.md" title="wikilink">MERRY</a>「<strong>ZERO -ゼロ-</strong>」</p></td>
 <td><p>SFCD-127</p></td>
 <td><p>『絶望 feat.NOBUYA &amp; N∀OKI from ROTTENGRAFFTY』</p></td>
 <td><p>FIREWALL DIVISION</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年6月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a>「<strong>6-feat 2</strong>」</p></td>
+<td><p><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a>「<strong>6-feat 2</strong>」</p></td>
 <td><p>UPCH-29168<br />
 UPCH-20356</p></td>
 <td><p>『その向こうへ feat.ROTTENGRAFFTY』</p></td>
@@ -1742,7 +1742,7 @@ VICL-64420(通常盤)</p></td>
         w/[RADIOTS](https://ja.wikipedia.org/wiki/RADIOTS "wikilink")/[FAT PROP](https://ja.wikipedia.org/wiki/FAT_PROP "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")
   - 2013年-2014年 - ROTTENGRAFFTY "Walk" TOUR 2013-2014
       -
-        w/[UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink")/[キバオブアキバ](https://ja.wikipedia.org/wiki/キバオブアキバ "wikilink")/[アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")/[THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink")/[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")/[SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink")/[AIR SWELL](https://ja.wikipedia.org/wiki/AIR_SWELL "wikilink")/[HAKAIHAYABUSA](https://ja.wikipedia.org/wiki/HAKAIHAYABUSA "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[POP DISASTER](https://ja.wikipedia.org/wiki/POP_DISASTER "wikilink")/[Crossfaith](https://ja.wikipedia.org/wiki/Crossfaith "wikilink")/[FAKE FACE](https://ja.wikipedia.org/wiki/FAKE_FACE "wikilink")/[MERRY](https://ja.wikipedia.org/wiki/MERRY "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[UPLIFT SPICE](https://ja.wikipedia.org/wiki/UPLIFT_SPICE "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[UVERworld](../Page/UVERworld.md "wikilink")/HEY-SMITH/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[MUCC](../Page/MUCC.md "wikilink")/MAN WITH A MISSION
+        w/[UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink")/[キバオブアキバ](https://ja.wikipedia.org/wiki/キバオブアキバ "wikilink")/[アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")/[THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink")/[ガガガSP](../Page/ガガガSP.md "wikilink")/[SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink")/[AIR SWELL](https://ja.wikipedia.org/wiki/AIR_SWELL "wikilink")/[HAKAIHAYABUSA](https://ja.wikipedia.org/wiki/HAKAIHAYABUSA "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[POP DISASTER](https://ja.wikipedia.org/wiki/POP_DISASTER "wikilink")/[Crossfaith](https://ja.wikipedia.org/wiki/Crossfaith "wikilink")/[FAKE FACE](https://ja.wikipedia.org/wiki/FAKE_FACE "wikilink")/[MERRY](../Page/MERRY.md "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[UPLIFT SPICE](https://ja.wikipedia.org/wiki/UPLIFT_SPICE "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[UVERworld](../Page/UVERworld.md "wikilink")/HEY-SMITH/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[MUCC](../Page/MUCC.md "wikilink")/MAN WITH A MISSION
   - 2014年 - ROTTENGRAFFTY NEW SINGLE PRE RELEASE TOUR 2014
       -
         w/[BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")/[HER NAME IN BLOOD](https://ja.wikipedia.org/wiki/HER_NAME_IN_BLOOD "wikilink")
@@ -1751,7 +1751,7 @@ VICL-64420(通常盤)</p></td>
         w/dustbox/TOTALFAT/サンボマスター
   - 2015年10月06日〜2016年04月02日 - ROTTENGRAFFTY "Live Is Beautiful Tour 2015-2016"
       -
-        w/GOOD4NOTHING / WANIMA / dustbox / HAWAIIAN6 / HEY-SMITH / [OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink") / [SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink") / [The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink") / [THE ORAL CIGARETTES](https://ja.wikipedia.org/wiki/THE_ORAL_CIGARETTES "wikilink") / UNLIMITS / [ヒステリックパニック](https://ja.wikipedia.org/wiki/ヒステリックパニック "wikilink") / 04 Limited Sazabys / a flood of circle / COUNTRY YARD / CRYSTAL LAKE / KNOCK OUT MONKEY / LABRET / MEANING / Northern19 / NUBO / PAN / POLYSICS / [Rhythmic Toy World](https://ja.wikipedia.org/wiki/Rhythmic_Toy_World "wikilink") / SECRET 7 LINE / SWANKY DANK / [THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink") / ギルガメッシュ / サンボマスター / Crossfaith / G-FREAK FACTORY / [LACCO TOWER](https://ja.wikipedia.org/wiki/LACCO_TOWER "wikilink") / MELLOWSHiP
+        w/GOOD4NOTHING / WANIMA / dustbox / HAWAIIAN6 / HEY-SMITH / [OZROSAURUS](../Page/OZROSAURUS.md "wikilink") / [SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink") / [The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink") / [THE ORAL CIGARETTES](https://ja.wikipedia.org/wiki/THE_ORAL_CIGARETTES "wikilink") / UNLIMITS / [ヒステリックパニック](https://ja.wikipedia.org/wiki/ヒステリックパニック "wikilink") / 04 Limited Sazabys / a flood of circle / COUNTRY YARD / CRYSTAL LAKE / KNOCK OUT MONKEY / LABRET / MEANING / Northern19 / NUBO / PAN / POLYSICS / [Rhythmic Toy World](https://ja.wikipedia.org/wiki/Rhythmic_Toy_World "wikilink") / SECRET 7 LINE / SWANKY DANK / [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink") / ギルガメッシュ / サンボマスター / Crossfaith / G-FREAK FACTORY / [LACCO TOWER](https://ja.wikipedia.org/wiki/LACCO_TOWER "wikilink") / MELLOWSHiP
   - 2015年10月11日 - ROTTENGRAFFTYアメリカ村三角公園ゲリラライブ
   - 2016年10月05日〜2016年10月27日 - So...Start Tour 2016
 
@@ -1778,7 +1778,7 @@ VICL-64420(通常盤)</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/ABNORMAL_VOLTAGE" title="wikilink">ABNORMAL VOLTAGE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GLORY_JACKPOT_SYSTEM" title="wikilink">GLORY JACKPOT SYSTEM</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/coldrain" title="wikilink">coldrain</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Lack_Of_Common_Sense" title="wikilink">Lack Of Common Sense</a></li>
 </ul></td>
 </tr>
@@ -1837,7 +1837,7 @@ VICL-64420(通常盤)</p></td>
 <td><p>東京 新宿ACB HALL</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ゲビル" title="wikilink">ゲビル</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li><a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NEW_BREED" title="wikilink">NEW BREED</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ハカイハヤブサ" title="wikilink">ハカイハヤブサ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LIONHEAD" title="wikilink">LIONHEAD</a></li>
@@ -1849,10 +1849,10 @@ VICL-64420(通常盤)</p></td>
 <p>春の陣 (10th Aniversary) 〜仙台の陣〜</p></td>
 <td><p>宮城 HooK SENDAI</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ザ・キャプテンズ" title="wikilink">ザ・キャプテンズ</a></li>
+<li><a href="../Page/ザ・キャプテンズ.md" title="wikilink">ザ・キャプテンズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/JINBEY" title="wikilink">JINBEY</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HORI" title="wikilink">HORI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LONG_SHOT_PARTY" title="wikilink">LONG SHOT PARTY</a></li>
+<li><a href="../Page/HORI.md" title="wikilink">HORI</a></li>
+<li><a href="../Page/LONG_SHOT_PARTY.md" title="wikilink">LONG SHOT PARTY</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1874,7 +1874,7 @@ VICL-64420(通常盤)</p></td>
 <td><p>広島 CAVE-BE</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/S-QUAWK" title="wikilink">S-QUAWK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_CRANE_FLY" title="wikilink">THE CRANE FLY</a></li>
+<li><a href="../Page/THE_CRANE_FLY.md" title="wikilink">THE CRANE FLY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DJ_ATOMICDOPE" title="wikilink">DJ ATOMICDOPE</a></li>
 <li><a href="../Page/Pay_money_To_my_Pain.md" title="wikilink">Pay money To my Pain</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/REAL_REACH" title="wikilink">REAL REACH</a></li>
@@ -1957,7 +1957,7 @@ VICL-64420(通常盤)</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/tricot" title="wikilink">tricot</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HEY-SMITH" title="wikilink">HEY-SMITH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION" title="wikilink">MAN WITH A MISSION</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a></li>
+<li><a href="../Page/RIZE.md" title="wikilink">RIZE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/野生爆弾" title="wikilink">野生爆弾</a></li>
 <li>ダイノジ</li>
 </ul></td>
@@ -1993,7 +1993,7 @@ VICL-64420(通常盤)</p></td>
 <tr class="even">
 <td><p>12月23日</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li>coldrain</li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li>10-FEET</li>
@@ -2030,9 +2030,9 @@ VICL-64420(通常盤)</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/グッドモーニングアメリカ" title="wikilink">グッドモーニングアメリカ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
 <li>coldrain</li>
-<li><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">MAN WITH A MISSION</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">DIR EN GREY</a></li>
+<li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
+<li><a href="../Page/Dragon_Ash.md" title="wikilink">MAN WITH A MISSION</a></li>
+<li><a href="../Page/Dragon_Ash.md" title="wikilink">DIR EN GREY</a></li>
 <li>10-FEET</li>
 </ul></td>
 </tr>
@@ -2126,10 +2126,10 @@ VICL-64420(通常盤)</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ファミリーレストラン_(お笑いコンビ)" title="wikilink">ファミリーレストラン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/村上ショージ" title="wikilink">村上ショージ</a></li>
+<li><a href="../Page/ファミリーレストラン_(お笑いコンビ).md" title="wikilink">ファミリーレストラン</a></li>
+<li><a href="../Page/村上ショージ.md" title="wikilink">村上ショージ</a></li>
 <li><a href="../Page/テンダラー_(お笑いコンビ).md" title="wikilink">テンダラー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ザ・プラン9" title="wikilink">ザ・プラン9</a></li>
+<li><a href="../Page/ザ・プラン9.md" title="wikilink">ザ・プラン9</a></li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2222,7 +2222,7 @@ VICL-64420(通常盤)</p></td>
 
   - 2013年6月10日 - ロットンの日2013＠KYOTO MUSE
       -
-        w/[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")/[Vibedred](https://ja.wikipedia.org/wiki/Vibedred "wikilink")
+        w/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[Vibedred](https://ja.wikipedia.org/wiki/Vibedred "wikilink")
 
 <!-- end list -->
 
@@ -2245,16 +2245,16 @@ VICL-64420(通常盤)</p></td>
 ### 出演イベント
 
   - 2002年10月20日 - MINAMI WHEEL 2002
-  - 2003年08月23日 - [音楽と髭](https://ja.wikipedia.org/wiki/音楽と髭 "wikilink")達 2003
+  - 2003年08月23日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 2003
   - 2003年10月17日 - MINAMI WHEEL 2003
-  - 2007年10月06日 - [J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink") 10th Anniversary SPECIAL LIVE SHIBUYA AX 5Days - ALL of URGE -「RED Day」
+  - 2007年10月06日 - [J](../Page/J_\(ミュージシャン\).md "wikilink") 10th Anniversary SPECIAL LIVE SHIBUYA AX 5Days - ALL of URGE -「RED Day」
   - 2008年07月12日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2008〜去年は台風でごめんな祭〜
   - 2008年09月12日 - [No Use For A Name](https://ja.wikipedia.org/wiki/ノー・ユース・フォー・ア・ネイム "wikilink") JAPAN Tour 2008
-  - 2009年02月11日 - [DIENOJI](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") ROCK FESTIVAL DRF4 "for music,for Rock'n Roll,for smile,and for YOU"
+  - 2009年02月11日 - [DIENOJI](../Page/ダイノジ.md "wikilink") ROCK FESTIVAL DRF4 "for music,for Rock'n Roll,for smile,and for YOU"
   - 2009年04月29日 - GOING KOBE 09
   - 2009年08月14日 - TREASURE05X 2009 〜under the electric crowd〜
   - 2009年09月27日 - THRASHER NIGHT 09 TOKYO
-  - 2010年01月09日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") Life is sweet TOUR 2009-2010
+  - 2010年01月09日 - [10-FEET](../Page/10-FEET.md "wikilink") Life is sweet TOUR 2009-2010
   - 2010年05月02日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")10
   - 2010年11月21日 - 10-FEET"どこ行く年\!どないすん年\!"TOUR 2010
   - 2010年12月07日 - [OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink") Presents OCD showcase
@@ -2289,7 +2289,7 @@ VICL-64420(通常盤)</p></td>
   - 2012年10月20日 - Fear, and Loathing in Las Vegas "All That We Have Now" Release Tour
   - 2012年10月27日 - [湘南音祭](https://ja.wikipedia.org/wiki/湘南音祭 "wikilink") vol.4.5
   - 2012年11月03日 - YADORANG presents Helios Helios\!
-  - 2012年11月06日・09日・12日 - SiM×ROTTENGRAFFTY×ギルガメッシュ×[MERRY](https://ja.wikipedia.org/wiki/MERRY "wikilink") Vampire Circuit 2012
+  - 2012年11月06日・09日・12日 - SiM×ROTTENGRAFFTY×ギルガメッシュ×[MERRY](../Page/MERRY.md "wikilink") Vampire Circuit 2012
   - 2012年11月17日 - 夢チカLIVE VOL.82
   - 2012年11月18日 - SKULLSHIT presents SKULLMANIA Vol.6
   - 2012年11月22日 - [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink") TOUR 2012-2013 "ONE"
@@ -2297,7 +2297,7 @@ VICL-64420(通常盤)</p></td>
   - 2012年12月15日 - OSAKA HAZIKETEMAZARE FESTIVAL 2012
   - 2012年12月27日 - [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") 50 PUSH\!\! ALL AROUND JAPAN TOUR 2012裏ファイナル 神戸太陽と虎2DAYS
   - 2012年12月29日 - [G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink") "EVEN" TOUR 2012
-  - 2012年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 12/13
+  - 2012年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 12/13
   - 2013年01月18日 - 「響MUSIC,京LIFE.〜都の音遊び〜」
   - 2013年01月19日 - [Northern19](../Page/Northern19.md "wikilink") LAST WINTER,FIRST STEP tour
   - 2013年01月27日 - [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink") presents PUNISHER'S NIGHT 2013
@@ -2314,7 +2314,7 @@ VICL-64420(通常盤)</p></td>
   - 2013年06月09日 - バスケ祭2013
   - 2013年06月14日 - [四星球](../Page/四星球.md "wikilink") 4thシングル『フューちゃん』リリース2マンツアー「四星球方向性会議」
   - 2013年06月19日 - MUSIC APPLE LIVE 2013
-  - 2013年06月23日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 長田大行進曲行脚 2013 〜若者よ書を読んでから街に出よ\!そしてライブに来い\!〜
+  - 2013年06月23日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 長田大行進曲行脚 2013 〜若者よ書を読んでから街に出よ\!そしてライブに来い\!〜
   - 2013年07月07日 - 京都大作戦2013〜天の川 今年も宇治で見上げな祭〜
   - 2013年07月13日 - SUMMER CAMP 2013
   - 2013年07月14日 - dustbox Care Package TOUR 2013
@@ -2418,11 +2418,11 @@ VICL-64420(通常盤)</p></td>
 
 ## タイアップ
 
-| 曲名          | タイアップ先                                                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
-| THIS WORLD  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[やりすぎコージー](https://ja.wikipedia.org/wiki/やりすぎコージー "wikilink")」ED |
-| P.I.L       | 映画『[復讐したい](https://ja.wikipedia.org/wiki/復讐したい "wikilink")』主題歌\[25\]                                                      |
-| 「70cm四方の窓辺」 | フジテレビ系アニメ「[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")」 10月度エンディングテーマ\[26\]                              |
+| 曲名          | タイアップ先                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| THIS WORLD  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[やりすぎコージー](../Page/やりすぎコージー.md "wikilink")」ED |
+| P.I.L       | 映画『[復讐したい](https://ja.wikipedia.org/wiki/復讐したい "wikilink")』主題歌\[25\]                                   |
+| 「70cm四方の窓辺」 | フジテレビ系アニメ「[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")」 10月度エンディングテーマ\[26\]           |
 
 ## 脚注
 
@@ -2440,7 +2440,7 @@ VICL-64420(通常盤)</p></td>
 
 1.
 2.
-3.  そのため[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")、[DIR EN GREYなど尊敬](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、親交のあるバンドは多い。
+3.  そのため[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")、[DIR EN GREYなど尊敬](../Page/DIR_EN_GREY.md "wikilink")、親交のあるバンドは多い。
 4.
 5.
 6.  <http://natalie.mu/music/pp/bowline_dragonash/page/3>

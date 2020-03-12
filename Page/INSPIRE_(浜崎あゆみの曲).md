@@ -11,18 +11,18 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 ### CD
 
 1.  **INSPIRE "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")・[グッゲンハイム美術館](../Page/グッゲンハイム美術館.md "wikilink")展 イメージソング
+        [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [ニューヨーク](../Page/ニューヨーク.md "wikilink")・[グッゲンハイム美術館](../Page/グッゲンハイム美術館.md "wikilink")展 イメージソング
 2.  **GAME "Original Mix"**
       -
-        作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink") / 編曲：HΛL
-        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") MDステレオシステム「700MD」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 編曲：HΛL
+        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") MDステレオシステム「700MD」[CMソング](../Page/コマーシャルソング.md "wikilink")
 3.  **INSPIRE "Original Mix -Instrumental-"**
 4.  **GAME "Original Mix -Instrumental-"**
 

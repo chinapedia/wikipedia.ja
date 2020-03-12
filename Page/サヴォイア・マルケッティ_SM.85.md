@@ -1,7 +1,7 @@
 > この記事は[ SM.85](https://ja.wikipedia.org/wiki/_SM.85)から翻訳されています。
 
 
-'''サヴォイア・マルケッティ SM.85 '''は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[サヴォイア・マルケッティ社が開発した](../Page/SIAI-マルケッティ.md "wikilink")、[イタリア空軍](https://ja.wikipedia.org/wiki/イタリア空軍 "wikilink")の双発の急降下[爆撃機](../Page/爆撃機.md "wikilink")である。イタリア空軍で最初の国産急降下爆撃機だったが、飛行性能が劣悪な上に機体構造にも問題があったため生産機数は少数で終わった。
+'''サヴォイア・マルケッティ SM.85 '''は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[サヴォイア・マルケッティ社が開発した](../Page/SIAI-マルケッティ.md "wikilink")、[イタリア空軍](../Page/イタリア空軍.md "wikilink")の双発の急降下[爆撃機](../Page/爆撃機.md "wikilink")である。イタリア空軍で最初の国産急降下爆撃機だったが、飛行性能が劣悪な上に機体構造にも問題があったため生産機数は少数で終わった。
 
 ## 概要
 
@@ -32,6 +32,6 @@ SM.85の改良型であるSM.86も1940年に試作されたが、飛行性能は
 
 ## 関連項目
 
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
 
 [Category:イタリアの爆撃機](https://ja.wikipedia.org/wiki/Category:イタリアの爆撃機 "wikilink")

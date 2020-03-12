@@ -1,7 +1,7 @@
 > この記事は[LiLiM](https://ja.wikipedia.org/wiki/LiLiM)から翻訳されています。
 
 
-**LiLiM**（**リリム**）は、株式会社[彩文館出版](https://ja.wikipedia.org/wiki/彩文館出版 "wikilink")による[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")のブランド。また、[Le.Chocolat](https://ja.wikipedia.org/wiki/Le.Chocolat "wikilink")の製造・販売業務も請け負っている。
+**LiLiM**（**リリム**）は、株式会社[彩文館出版](../Page/彩文館出版.md "wikilink")による[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")のブランド。また、[Le.Chocolat](../Page/Le.Chocolat.md "wikilink")の製造・販売業務も請け負っている。
 
 ## ゲーム作品一覧
 
@@ -15,8 +15,8 @@
   - [2001年](../Page/2001年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") - [ゆきうさぎ](https://ja.wikipedia.org/wiki/ゆきうさぎ_\(ゲーム\) "wikilink")
   - [2002年](../Page/2002年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [ダイモン](https://ja.wikipedia.org/wiki/ダイモン "wikilink")
   - [2004年](../Page/2004年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - [朱華](https://ja.wikipedia.org/wiki/朱華_\(ゲーム\) "wikilink")
-  - 2004年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - [黒よりも昏い青](https://ja.wikipedia.org/wiki/黒よりも昏い青 "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [鳳凰戦姫 舞夢](https://ja.wikipedia.org/wiki/鳳凰戦姫_舞夢 "wikilink")
+  - 2004年[7月23日](../Page/7月23日.md "wikilink") - [黒よりも昏い青](https://ja.wikipedia.org/wiki/黒よりも昏い青 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [鳳凰戦姫 舞夢](https://ja.wikipedia.org/wiki/鳳凰戦姫_舞夢 "wikilink")
   - 2006年[12月1日](../Page/12月1日.md "wikilink") - [とらぶるっ\!](https://ja.wikipedia.org/wiki/とらぶるっ! "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - [女神大戦](https://ja.wikipedia.org/wiki/女神大戦 "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月18日](../Page/1月18日.md "wikilink") - [看護戦隊ナースレンジャー](https://ja.wikipedia.org/wiki/看護戦隊ナースレンジャー "wikilink")
@@ -29,11 +29,11 @@
 
 ### LiLiM DARKNESS
 
-（[寝取られ](https://ja.wikipedia.org/wiki/寝取られ "wikilink")に特化した内容が特徴。タイトルの末尾に「**BLUE**」が付く。）
+（[寝取られ](../Page/寝取られ.md "wikilink")に特化した内容が特徴。タイトルの末尾に「**BLUE**」が付く。）
 
   - 2002年[9月13日](../Page/9月13日.md "wikilink") - [TRUE BLUE](https://ja.wikipedia.org/wiki/TRUE_BLUE_\(アダルトゲーム\) "wikilink")
   - 2003年[9月12日](../Page/9月12日.md "wikilink") - [ANGELS BLUE](https://ja.wikipedia.org/wiki/ANGELS_BLUE "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [Innocent Blue](https://ja.wikipedia.org/wiki/Innocent_Blue "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [Innocent Blue](https://ja.wikipedia.org/wiki/Innocent_Blue "wikilink")
   - 2006年[8月25日](../Page/8月25日.md "wikilink") - BLUE BOX（上記3タイトルに追加シナリオを収録したパック作品）
   - 2007年[7月13日](../Page/7月13日.md "wikilink") - [とらいあんぐるBLUE](https://ja.wikipedia.org/wiki/とらいあんぐるBLUE "wikilink")（とらぶるっ\!の関連作品）
   - 2009年[11月27日](../Page/11月27日.md "wikilink") - [Dark Blue](https://ja.wikipedia.org/wiki/Dark_Blue "wikilink")
@@ -47,7 +47,7 @@
 （外部開発作品専用のブランド）
 
   - 2004年[4月29日](../Page/4月29日.md "wikilink") - めじょく 〜復讐学園〜（開発：[Love Juice](https://ja.wikipedia.org/wiki/Love_Juice "wikilink")）
-  - 2004年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") - 辱妻 〜ご利用は計画的に〜（開発：Love Juice）
+  - 2004年[12月10日](../Page/12月10日.md "wikilink") - 辱妻 〜ご利用は計画的に〜（開発：Love Juice）
   - 2005年[10月21日](../Page/10月21日.md "wikilink") - 青空絵日記（開発：H.W.Lab。2000年に発売された「Memories 〜夏色の記憶〜」のリメイク作品）
   - 2005年[11月11日](../Page/11月11日.md "wikilink") - 医辱（開発：Love Juice）
   - 2005年[12月9日](../Page/12月9日.md "wikilink") - 凌辱連鎖（開発：SuppleEntertainment）
@@ -83,8 +83,8 @@
 ## 関連項目
 
   - [アダルトゲームメーカー一覧](../Page/アダルトゲームメーカー一覧.md "wikilink")
-  - [彩文館出版](https://ja.wikipedia.org/wiki/彩文館出版 "wikilink")
-  - [Le.Chocolat](https://ja.wikipedia.org/wiki/Le.Chocolat "wikilink")
+  - [彩文館出版](../Page/彩文館出版.md "wikilink")
+  - [Le.Chocolat](../Page/Le.Chocolat.md "wikilink")
   - [Sugar Pot](https://ja.wikipedia.org/wiki/Sugar_Pot "wikilink")
   - [Princess Sugar](https://ja.wikipedia.org/wiki/Princess_Sugar "wikilink")
 

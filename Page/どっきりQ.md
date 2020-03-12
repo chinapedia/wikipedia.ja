@@ -5,8 +5,8 @@
 
 ## 出演者
 
-  - 司会者：[村野武範](https://ja.wikipedia.org/wiki/村野武範 "wikilink")
-  - アシスタント：飯干恵子（後の[飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")）
+  - 司会者：[村野武範](../Page/村野武範.md "wikilink")
+  - アシスタント：飯干恵子（後の[飯星景子](../Page/飯星景子.md "wikilink")）
   - 解答者：4 - 5人程度の芸能人ゲスト
 
 ## 進行方式
@@ -19,7 +19,7 @@
 
   - [関西テレビ](../Page/関西テレビ放送.md "wikilink")（**製作局**）：日曜 11:25 - 11:55 （1985年7月7日 - 1989年6月25日） - 本番組の放送期間中、フジテレビ製作の『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』（日曜 10:00 - 11:50）を11:25で飛び降りていた。その後、本番組の終了後は『増刊号』のフルネットに戻った。
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")：日曜 9:30 - 10:00
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")：日曜 12:00 - 12:30 （1988年4月 - 同年9月） - 当時は[日本テレビ系列と](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビ朝日系列の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")。ネットを開始するまでは『[象印クイズ ヒントでピント](../Page/象印クイズ_ヒントでピント.md "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")製作、日曜19:30枠）を遅れネットで放送していた。
-  - このほかに、一時期においては、[群馬テレビ](../Page/群馬テレビ.md "wikilink")・[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")などの関東の[独立UHF放送局もネットしていたことがある](../Page/全国独立放送協議会.md "wikilink")。
+  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")：日曜 12:00 - 12:30 （1988年4月 - 同年9月） - 当時は[日本テレビ系列と](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビ朝日系列の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")。ネットを開始するまでは『[象印クイズ ヒントでピント](../Page/象印クイズ_ヒントでピント.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作、日曜19:30枠）を遅れネットで放送していた。
+  - このほかに、一時期においては、[群馬テレビ](../Page/群馬テレビ.md "wikilink")・[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")などの関東の[独立UHF放送局もネットしていたことがある](../Page/全国独立放送協議会.md "wikilink")。
 
 [Category:1985年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのクイズ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのクイズ番組 "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink")

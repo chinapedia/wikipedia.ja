@@ -7,11 +7,11 @@
 
 ## 大会概要
 
-[UFC 31より新設されたミドル級のタイトルマッチでは](https://ja.wikipedia.org/wiki/UFC_31 "wikilink")[デイブ・メネー](../Page/デイブ・メネー.md "wikilink")がギル・カスティーリョを降して初代王者となった。
+[UFC 31より新設されたミドル級のタイトルマッチでは](../Page/UFC_31.md "wikilink")[デイブ・メネー](../Page/デイブ・メネー.md "wikilink")がギル・カスティーリョを降して初代王者となった。
 
-ライト級タイトルマッチでは[ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink")が[デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink")を破り初防衛に成功。
+ライト級タイトルマッチでは[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")が[デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink")を破り初防衛に成功。
 
-メインイベントのライトヘビー級タイトルマッチでは[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")が[ウラジミール・マティシェンコ](https://ja.wikipedia.org/wiki/ウラジミール・マティシェンコ "wikilink")に判定勝ちし、4度目の王座防衛に成功した。
+メインイベントのライトヘビー級タイトルマッチでは[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")が[ウラジミール・マティシェンコ](../Page/ウラジミール・マティシェンコ.md "wikilink")に判定勝ちし、4度目の王座防衛に成功した。
 
 キャリア5戦全勝の[IFC世界ウェルター級王者ギル](https://ja.wikipedia.org/wiki/International_Fighting_Championship "wikilink")・カスティーリョ、[HOOKnSHOOT](https://ja.wikipedia.org/wiki/HOOKnSHOOT "wikilink")ミドル級王者[イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink")がUFCデビュー。
 
@@ -20,11 +20,11 @@
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [ディン・トーマス](https://ja.wikipedia.org/wiki/ディン・トーマス "wikilink") vs.  ファビアノ・イハ ×
+    ○  [ディン・トーマス](../Page/ディン・トーマス.md "wikilink") vs.  ファビアノ・イハ ×
     3R終了 判定3-0（29-28、29-27、29-28）
   - 第2試合 ミドル級 5分3R
     ○  [ヒカルド・アルメイダ](../Page/ヒカルド・アルメイダ.md "wikilink") vs.  [ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") ×
-    1R 4:06 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    1R 4:06 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第3試合 ウェルター級 5分3R
     ○  [中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink") vs.  [トニー・デソーザ](https://ja.wikipedia.org/wiki/トニー・デソーザ "wikilink") ×
     2R 0:15 KO（左フック）
@@ -39,14 +39,14 @@
     ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") ×
     3R終了 判定2-0（30-26、30-27、29-29）
   - 第6試合 ライトヘビー級 5分3R
-    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ムリーロ・ブスタマンチ](https://ja.wikipedia.org/wiki/ムリーロ・ブスタマンチ "wikilink") ×
+    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ムリーロ・ブスタマンチ](../Page/ムリーロ・ブスタマンチ.md "wikilink") ×
     3R終了 判定3-0（29-28、29-27、29-27）
   - 第7試合 UFC世界ライト級タイトルマッチ 5分5R
-    ○  [ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink") vs.  [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink") ×
+    ○  [ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink") vs.  [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink") ×
     5R終了 判定3-0（49-47、48-47、48-47）
     ※パルヴァーが王座の初防衛に成功。
   - 第8試合 UFC世界ライトヘビー級タイトルマッチ 5分5R
-    ○  [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink") vs.  [ウラジミール・マティシェンコ](https://ja.wikipedia.org/wiki/ウラジミール・マティシェンコ "wikilink") ×
+    ○  [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink") vs.  [ウラジミール・マティシェンコ](../Page/ウラジミール・マティシェンコ.md "wikilink") ×
     5R終了 判定3-0（50-43、50-44、50-44）
     ※オーティズが王座の4度目の防衛に成功。
 
@@ -55,7 +55,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

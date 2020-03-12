@@ -1,7 +1,7 @@
 > この記事は[THE new WORLD -WORLD TOUR !\? in JAPAN-](https://ja.wikipedia.org/wiki/THE_new_WORLD_-WORLD_TOUR_!\?_in_JAPAN-)から翻訳されています。
 
 
-『**THE “new” WORLD ～WORLD TOUR \!? in JAPAN～**』（ザ・ニューワールド～ワールドツアー\!?イン ジャパン～）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")[ライブDVD](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売。発売元は[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")。
+『**THE “new” WORLD ～WORLD TOUR \!? in JAPAN～**』（ザ・ニューワールド～ワールドツアー\!?イン ジャパン～）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")[ライブDVD](../Page/演奏会.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売。発売元は[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 ### DISC1
 
 1.  **ある朝 ～Opening～**
-2.  **[Joy Trip](https://ja.wikipedia.org/wiki/Joy_Trip "wikilink")**
+2.  **[Joy Trip](../Page/Joy_Trip.md "wikilink")**
 3.  **Passista de Samba**
 4.  **SATISFACTION**
 5.  **ユートピア**
@@ -29,7 +29,7 @@
 15. **ワイハ**
 16. **Happy Drive ～Taste Your Stuff～**
 17. **オアシス**
-18. **[Dreamland](https://ja.wikipedia.org/wiki/Dreamland_\(BENNIE_Kの曲\) "wikilink")**
+18. **[Dreamland](../Page/Dreamland_\(BENNIE_Kの曲\).md "wikilink")**
 19. **SAFARI**
 20. **青い鳥**
 
@@ -37,7 +37,7 @@
 
 1.  **弁慶&牛若丸**
 2.  **DISCO先輩/with アルファ**
-3.  **[サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(BENNIE_Kの曲\) "wikilink")**
+3.  **[サンライズ](../Page/サンライズ_\(BENNIE_Kの曲\).md "wikilink")**
 4.  **Around THE WORLD ～Reprise～**
 
 <!-- end list -->

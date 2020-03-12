@@ -3,9 +3,9 @@
 
 『**Flower〜フラワー〜**』は、[和田尚子](../Page/和田尚子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
-『[別冊マーガレット](https://ja.wikipedia.org/wiki/別冊マーガレット "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて[2000年](../Page/2000年.md "wikilink")3月号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月号まで不定期に連載された。事故で車椅子生活となった女子中学生が、友人など周囲の人たちの理解に支えられながら、成長していく様子を描く。
+『[別冊マーガレット](../Page/別冊マーガレット.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて[2000年](../Page/2000年.md "wikilink")3月号から[2005年](../Page/2005年.md "wikilink")12月号まで不定期に連載された。事故で車椅子生活となった女子中学生が、友人など周囲の人たちの理解に支えられながら、成長していく様子を描く。
 
-そのほか、[2001年](../Page/2001年.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に番外編8話が『[デラックスマーガレット](https://ja.wikipedia.org/wiki/デラックスマーガレット "wikilink")』（集英社）に掲載された。単行本全10巻が同社より発売、文庫版は全7巻を予定している。
+そのほか、[2001年](../Page/2001年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")に番外編8話が『[デラックスマーガレット](https://ja.wikipedia.org/wiki/デラックスマーガレット "wikilink")』（集英社）に掲載された。単行本全10巻が同社より発売、文庫版は全7巻を予定している。
 
 ## あらすじ
 
@@ -61,7 +61,7 @@
 
 ## 書誌情報
 
-**単行本** [和田尚子](../Page/和田尚子.md "wikilink") 『Flower〜フラワー〜』 《[集英社](../Page/集英社.md "wikilink")・[マーガレットコミックス](https://ja.wikipedia.org/wiki/マーガレットコミックス "wikilink")》 全10巻
+**単行本** [和田尚子](../Page/和田尚子.md "wikilink") 『Flower〜フラワー〜』 《[集英社](../Page/集英社.md "wikilink")・[マーガレットコミックス](../Page/マーガレットコミックス.md "wikilink")》 全10巻
 
 1.  2000年8月25日発売、ISBN 978-4-08-847264-5
 2.  2001年1月25日発売、ISBN 978-4-08-847332-1、「Love Story 1970」収録
@@ -74,7 +74,7 @@
 9.  2006年5月25日発売、ISBN 978-4-08-846059-8
 10. 2006年10月25日発売、ISBN 978-4-08-846105-2、「理沙 決意の朝」「bouquet 〜ブーケ〜」収録
 
-**文庫本** 和田尚子 『Flower〜フラワー〜』 《集英社・[集英社文庫](https://ja.wikipedia.org/wiki/集英社文庫 "wikilink")コミック版》 全7巻（予定）
+**文庫本** 和田尚子 『Flower〜フラワー〜』 《集英社・[集英社文庫](../Page/集英社文庫.md "wikilink")コミック版》 全7巻（予定）
 
 1.  2009年9月18日発売、ISBN 978-4-08-619023-7、解説：日本介助犬使用者の会会長・木村佳友
 2.  2009年9月18日発売、ISBN 978-4-08-619024-4、「Love Story 1970」収録

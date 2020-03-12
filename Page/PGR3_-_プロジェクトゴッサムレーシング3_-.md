@@ -10,7 +10,7 @@
 ### ディスクに収録されている車種
 
   - Ariel
-    [Atom](https://ja.wikipedia.org/wiki/アリエル・アトム "wikilink") 300 Supercharged
+    [Atom](../Page/アリエル・アトム.md "wikilink") 300 Supercharged
   - Aston Martin
     [DB9](../Page/アストンマーティン・DB9.md "wikilink")
     DBR9
@@ -22,11 +22,11 @@
     [C12](https://ja.wikipedia.org/wiki/キャラウェイ・C12 "wikilink")
     C7
     Sledgehammer Twin Turbo
-  - [Colvette](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")
+  - [Colvette](../Page/シボレー・コルベット.md "wikilink")
     C6
     ZR-1
   - Dodge
-    [Viper](https://ja.wikipedia.org/wiki/ダッジ・バイパー "wikilink") GTS ACR
+    [Viper](../Page/ダッジ・バイパー.md "wikilink") GTS ACR
     Viper SRT-10 Carbon
     Viper SRT-10
   - [Elfin](https://ja.wikipedia.org/wiki/:en:Elfin_Sports_Cars "wikilink")
@@ -38,17 +38,17 @@
     [355 F1 GTS](../Page/フェラーリ・F355.md "wikilink")
     [575 M Maranello](../Page/フェラーリ・575Mマラネロ.md "wikilink")
     [Challenge Stradale](../Page/フェラーリ・360モデナ.md "wikilink")
-    [Enzo Ferrari](https://ja.wikipedia.org/wiki/フェラーリ・エンツォフェラーリ "wikilink")
-    [F40](https://ja.wikipedia.org/wiki/フェラーリ・F40 "wikilink")
-    [F430](https://ja.wikipedia.org/wiki/フェラーリ・F430 "wikilink")
-    [F50](https://ja.wikipedia.org/wiki/フェラーリ・F50 "wikilink")
+    [Enzo Ferrari](../Page/フェラーリ・エンツォフェラーリ.md "wikilink")
+    [F40](../Page/フェラーリ・F40.md "wikilink")
+    [F430](../Page/フェラーリ・F430.md "wikilink")
+    [F50](../Page/フェラーリ・F50.md "wikilink")
     [F50 GT](https://ja.wikipedia.org/wiki/フェラーリ・F50GT "wikilink")
-    [Testarossa](https://ja.wikipedia.org/wiki/フェラーリ・テスタロッサ "wikilink")
+    [Testarossa](../Page/フェラーリ・テスタロッサ.md "wikilink")
   - Ford
-    [Ford GT](https://ja.wikipedia.org/wiki/フォード・GT "wikilink")
+    [Ford GT](../Page/フォード・GT.md "wikilink")
     [GT40](../Page/フォード・GT40.md "wikilink") MKI
     [GT90](../Page/フォード・GT90.md "wikilink") Concept
-    [Mustang](https://ja.wikipedia.org/wiki/フォード・マスタング "wikilink") GT-R Concept
+    [Mustang](../Page/フォード・マスタング.md "wikilink") GT-R Concept
     Shelby Cobra Concept
     Shelby Cobra GT-500
     Shelby GR-1 Concept
@@ -63,35 +63,35 @@
     [Supercar Prototype](https://ja.wikipedia.org/wiki/:en:Joss_Supercar "wikilink")
   - Koenigsegg
     [CC8S](../Page/ケーニグセグ・CC8S.md "wikilink")
-    [CCR](https://ja.wikipedia.org/wiki/ケーニグセグ・CCR "wikilink")
+    [CCR](../Page/ケーニグセグ・CCR.md "wikilink")
   - Lamborghini
     [Countach](../Page/ランボルギーニ・カウンタック.md "wikilink") 25th Anniv.(QV)
     [Diablo](../Page/ランボルギーニ・ディアブロ.md "wikilink") GT
     Diablo VT 6.0 SE
     [Gallardo](https://ja.wikipedia.org/wiki/ランボルギーニ・ガヤルド "wikilink")
-    [Miura](https://ja.wikipedia.org/wiki/ランボルギーニ・ミウラ "wikilink") P400 SV
-    [Murcierago](https://ja.wikipedia.org/wiki/ランボルギーニ・ムルシエラゴ "wikilink") 6.2
+    [Miura](../Page/ランボルギーニ・ミウラ.md "wikilink") P400 SV
+    [Murcierago](../Page/ランボルギーニ・ムルシエラゴ.md "wikilink") 6.2
     Murcierago R-GT
   - Lotus
-    [Elise](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink") GT1
-    [Esprit](https://ja.wikipedia.org/wiki/ロータス・エスプリ "wikilink")
+    [Elise](../Page/ロータス・エリーゼ.md "wikilink") GT1
+    [Esprit](../Page/ロータス・エスプリ.md "wikilink")
   - Maserati
     GranSport
     [MC12](../Page/マセラティ・MC12.md "wikilink")
   - Mclaren
-    [F1](https://ja.wikipedia.org/wiki/マクラーレン・F1 "wikilink") LM
+    [F1](../Page/マクラーレン・F1.md "wikilink") LM
   - Mercedes-Benz
     [CLK-GTR](https://ja.wikipedia.org/wiki/メルセデスベンツ・CLK-GTR "wikilink") SuperSport
-    [SLR McLaren](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・SLRマクラーレン "wikilink")
+    [SLR McLaren](../Page/メルセデス・ベンツ・SLRマクラーレン.md "wikilink")
   - Nissan
     [GT-R](../Page/日産・GT-R.md "wikilink") Concept
-    [R390](https://ja.wikipedia.org/wiki/日産・R390 "wikilink") GT1
-    [Skyline](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink") GT-R V-SpecII Nur
-  - [Noble](https://ja.wikipedia.org/wiki/ノーブル・オートモーティブ "wikilink")
+    [R390](../Page/日産・R390.md "wikilink") GT1
+    [Skyline](../Page/日産・スカイライン.md "wikilink") GT-R V-SpecII Nur
+  - [Noble](../Page/ノーブル・オートモーティブ.md "wikilink")
     M14
     M400
   - Pagani
-    [Zonda](https://ja.wikipedia.org/wiki/パガーニ・ゾンダ "wikilink") C12 S 7.3
+    [Zonda](../Page/パガーニ・ゾンダ.md "wikilink") C12 S 7.3
   - Palmer Jaguar
     JP1
   - Panoz
@@ -111,9 +111,9 @@
   - Shelby
     [Shelby GT-500](../Page/シェルビー・マスタング.md "wikilink")
   - Spyker
-    [C8](https://ja.wikipedia.org/wiki/スパイカー・C8 "wikilink") Double 12 S
+    [C8](../Page/スパイカー・C8.md "wikilink") Double 12 S
   - Toyota
-    [GT-One](https://ja.wikipedia.org/wiki/トヨタ・GT-One_TS020 "wikilink")
+    [GT-One](../Page/トヨタ・GT-One_TS020.md "wikilink")
   - TVR
     [Cerbera Speed Twelve](../Page/TVR・サーブラウスピード12.md "wikilink")
     [Sagaris](../Page/TVR・サガリス.md "wikilink")
@@ -132,15 +132,15 @@
   - Audi
     [RS4](https://ja.wikipedia.org/wiki/:en:Audi_RS4 "wikilink") ◎
   - BMW
-    [M6](https://ja.wikipedia.org/wiki/BMW・6シリーズ "wikilink") ☆
+    [M6](../Page/BMW・6シリーズ.md "wikilink") ☆
     [Z8](../Page/BMW・Z8.md "wikilink") ☆
     [M3](../Page/BMW・M3.md "wikilink") CSL ☆
     [Mini](../Page/ミニ_\(BMW\).md "wikilink") Cooper S (for cat & mouse) ☆
   - Cadillac
-    [CTS-V](https://ja.wikipedia.org/wiki/キャデラック・CTS "wikilink")(無料)
+    [CTS-V](../Page/キャデラック・CTS.md "wikilink")(無料)
     STS-V(無料)
     [XLR-V](../Page/キャデラック・XLR.md "wikilink")(無料)
-  - [Chevrolet](https://ja.wikipedia.org/wiki/シボレー "wikilink")
+  - [Chevrolet](../Page/シボレー.md "wikilink")
     Corvette Z06 ◎
   - [Chrysler](../Page/クライスラー.md "wikilink")
     Firepower Concept ☆
@@ -171,7 +171,7 @@
     [R.K.Spyder](https://ja.wikipedia.org/wiki/:en:Ruf_RK_Coupe "wikilink") 3.8(無料) ☆
   - Saleen
     S7 Twin Turbo ◎
-  - [Vanwall](https://ja.wikipedia.org/wiki/ヴァンウォール "wikilink")
+  - [Vanwall](../Page/ヴァンウォール.md "wikilink")
     GPR V12 ☆
 
 一部を除き、全て有料である。◎の付いたものはスピードパッケージ、☆の付いたものはスタイルパックでまとめ買いが可能。価格はまとめ買いが400マイクロソフトポイント、個別購入が60マイクロソフトポイントである。Cadillac V-Series(CTS-V,STS-V,XLR-V)は、Cadillac V-Series コレクションをダウンロードすると無料で入手可能。なお、この3台のマシンでNurbergring F1サーキットのタイムアタックで100位以内に入賞すれば特別なゲーマーアイコンが入手可能になる。
@@ -181,7 +181,7 @@
 ## 関連項目
 
   - [プロジェクトゴッサム](../Page/プロジェクトゴッサム.md "wikilink")
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink") - 『[No Limit(PGR3 Version)](https://ja.wikipedia.org/wiki/No_Limit_featuring_宇多丸\(from_RHYMESTER\) "wikilink")』：イメージソング
+  - [三浦大知](../Page/三浦大知.md "wikilink") - 『[No Limit(PGR3 Version)](https://ja.wikipedia.org/wiki/No_Limit_featuring_宇多丸\(from_RHYMESTER\) "wikilink")』：イメージソング
 
 ## 外部リンク
 

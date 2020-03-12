@@ -1,7 +1,7 @@
 > この記事は[RESCUE \(HASYMO\)](https://ja.wikipedia.org/wiki/RESCUE_\(HASYMO\))から翻訳されています。
 
 
-**RESCUE**（レスキュー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")「[HASYMO（ハシモ）](https://ja.wikipedia.org/wiki/ヒューマン・オーディオ・スポンジ "wikilink")」のシングル。または同シングルに収録された曲。[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[commmons](https://ja.wikipedia.org/wiki/commmons "wikilink")よりリリース。
+**RESCUE**（レスキュー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")「[HASYMO（ハシモ）](../Page/ヒューマン・オーディオ・スポンジ.md "wikilink")」のシングル。または同シングルに収録された曲。[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[commmons](https://ja.wikipedia.org/wiki/commmons "wikilink")よりリリース。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 ミックス・メインヴォーカルは細野が務め、コーラスは高橋が担当している。また、男声と呼応するように繰り返されるスウェーデン語の女性ヴォーカルには、SKETCH SHOWの楽曲群に引き続いてシバオカ・チホが参加している。
 
-[2007年](../Page/2007年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")の「Smile Together Project Special Live」にて初披露された。 映画「[EX MACHINA -エクスマキナ-](https://ja.wikipedia.org/wiki/アップルシード#EX_MACHINA "wikilink")」の主題歌であり、劇中ではタイトルバックにオフヴォーカルヴァージョンが、スタッフロールでは[太田莉菜](https://ja.wikipedia.org/wiki/太田莉菜 "wikilink")の「PUZZLE-RIDDLE」を引き継ぐ形で、曲の後半部分が使用された。
+[2007年](../Page/2007年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")の「Smile Together Project Special Live」にて初披露された。 映画「[EX MACHINA -エクスマキナ-](https://ja.wikipedia.org/wiki/アップルシード#EX_MACHINA "wikilink")」の主題歌であり、劇中ではタイトルバックにオフヴォーカルヴァージョンが、スタッフロールでは[太田莉菜](../Page/太田莉菜.md "wikilink")の「PUZZLE-RIDDLE」を引き継ぐ形で、曲の後半部分が使用された。
 
 この曲は、一部で配布されたアニメ映画「EXMACHINA」のPRESS KITに同封されていた「RESCUE」のみが１曲だけ収録されている非売品CDが存在している。
 

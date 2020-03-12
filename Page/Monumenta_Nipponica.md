@@ -1,11 +1,11 @@
 > この記事は[Monumenta Nipponica](https://ja.wikipedia.org/wiki/Monumenta_Nipponica)から翻訳されています。
 
 
-『**Monumenta Nipponica**』（[ラテン語](../Page/ラテン語.md "wikilink")、モニュメンタ・ニポニカ）とは、主に[英語](../Page/英語.md "wikilink")で書かれる[学術雑誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会、[文化](../Page/文化.md "wikilink")、[歴史](../Page/歴史.md "wikilink")、[宗教](../Page/宗教.md "wikilink")、[文学](../Page/文学.md "wikilink")、[芸術](../Page/芸術.md "wikilink")、[人類学](../Page/人類学.md "wikilink")など、日本や[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")研究についてのさまざまな主題の[査読](https://ja.wikipedia.org/wiki/査読 "wikilink")論文や[書評](../Page/書評.md "wikilink")が掲載される。[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")の[上智大学](../Page/上智大学.md "wikilink")が季刊で発行している。毎号、3から4の投稿論文があり、おおむね10から15の直近の日本の研究書の書評が掲載される。
+『**Monumenta Nipponica**』（[ラテン語](../Page/ラテン語.md "wikilink")、モニュメンタ・ニポニカ）とは、主に[英語](../Page/英語.md "wikilink")で書かれる[学術雑誌](../Page/学術雑誌.md "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会、[文化](../Page/文化.md "wikilink")、[歴史](../Page/歴史.md "wikilink")、[宗教](../Page/宗教.md "wikilink")、[文学](../Page/文学.md "wikilink")、[芸術](../Page/芸術.md "wikilink")、[人類学](../Page/人類学.md "wikilink")など、日本や[アジア](../Page/アジア.md "wikilink")研究についてのさまざまな主題の[査読](../Page/査読.md "wikilink")論文や[書評](../Page/書評.md "wikilink")が掲載される。[東京](../Page/東京.md "wikilink")の[上智大学](../Page/上智大学.md "wikilink")が季刊で発行している。毎号、3から4の投稿論文があり、おおむね10から15の直近の日本の研究書の書評が掲載される。
 
 ## 歴史
 
-『モニュメンタ・ニポニカ』は、西欧言語での[日本研究](https://ja.wikipedia.org/wiki/日本研究 "wikilink")に特化した雑誌でも古いものである。上智大学のヨーロッパ系研究者が中心となって、[1938年](../Page/1938年.md "wikilink")に創立され、編集者の[イエズス会](../Page/イエズス会.md "wikilink")への興味を反映して、初期の内容は「キリシタン世紀」（[1550年](../Page/1550年.md "wikilink")–[1650年](../Page/1650年.md "wikilink")）の日本と[カトリック教会](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")との関係を扱ったものが大部を占めた。しかし、明らかに偏りはあったが、それで収録される論文の幅が狭められたと云うことはなく、文学や芸術、歴史、哲学、科学、民族学、言語学や音楽学、政治学などの多岐にわたる論文が収められた。
+『モニュメンタ・ニポニカ』は、西欧言語での[日本研究](https://ja.wikipedia.org/wiki/日本研究 "wikilink")に特化した雑誌でも古いものである。上智大学のヨーロッパ系研究者が中心となって、[1938年](../Page/1938年.md "wikilink")に創立され、編集者の[イエズス会](../Page/イエズス会.md "wikilink")への興味を反映して、初期の内容は「キリシタン世紀」（[1550年](../Page/1550年.md "wikilink")–[1650年](../Page/1650年.md "wikilink")）の日本と[カトリック教会](../Page/カトリック教会.md "wikilink")との関係を扱ったものが大部を占めた。しかし、明らかに偏りはあったが、それで収録される論文の幅が狭められたと云うことはなく、文学や芸術、歴史、哲学、科学、民族学、言語学や音楽学、政治学などの多岐にわたる論文が収められた。
 
 論文の形態に大きな変化はないが、内容面ではいくらかの変化がある。[1950年代](../Page/1950年代.md "wikilink")後半になって、英語で書かれたものが他言語をしのぐようになり、カトリック教会と日本との関係を扱ったものも減っていった。また、書評が論文より多く掲載されるようにもなった。
 

@@ -18,7 +18,7 @@
 ## 収録曲
 
 1.  **[パスワード](https://ja.wikipedia.org/wiki/パスワード_\(ゴスペラーズの曲\) "wikilink") -Powers G Mix-** \[4:35\]
-      - 作詩：[安岡優](https://ja.wikipedia.org/wiki/安岡優 "wikilink")／作曲：[黒沢カオル](https://ja.wikipedia.org/wiki/黒沢薫 "wikilink")、[村上てつや](https://ja.wikipedia.org/wiki/村上てつや "wikilink")／編曲：[K-Muto](https://ja.wikipedia.org/wiki/K-Muto "wikilink")(Groovediggerz)
+      - 作詩：[安岡優](../Page/安岡優.md "wikilink")／作曲：[黒沢カオル](../Page/黒沢薫.md "wikilink")、[村上てつや](../Page/村上てつや.md "wikilink")／編曲：[K-Muto](../Page/K-Muto.md "wikilink")(Groovediggerz)
           - 13thシングル曲のバージョン違い。ボーカルアレンジがシングルとは異なっている。
 2.  **[永遠に](https://ja.wikipedia.org/wiki/永遠に_\(ゴスペラーズの曲\) "wikilink") -Album Version-** \[5:45\]
       - 作詩：安岡優／作曲：[妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink")／編曲：Bryan-Michael Cox
@@ -26,9 +26,9 @@
 3.  **Forgive Me** \[5:29\]
       - 作詩：安岡優／作曲：黒沢薫／編曲：K-Muto(Groovediggerz)
 4.  **裸身** \[4:23\]
-      - 作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")／作曲：[北山陽一](https://ja.wikipedia.org/wiki/北山陽一 "wikilink")／編曲：[小西貴雄](https://ja.wikipedia.org/wiki/小西貴雄 "wikilink")
+      - 作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")／作曲：[北山陽一](../Page/北山陽一.md "wikilink")／編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")
 5.  **夢の外** \[3:48\]
-      - 作詩：安岡優／作曲：[酒井雄二](https://ja.wikipedia.org/wiki/酒井雄二 "wikilink")、黒沢薫、J.Que／編曲：Bryan-Michael Cox
+      - 作詩：安岡優／作曲：[酒井雄二](../Page/酒井雄二.md "wikilink")、黒沢薫、J.Que／編曲：Bryan-Michael Cox
           - 「永遠に」に参加したJ.QueとBryan-michael Coxとの競作。曲中の声はBryan-michael Coxである。
 6.  **Unlimited** \[4:20\]
       - 作詩：安岡優、黒沢薫／作曲：黒沢薫／編曲：K-Muto(Groovediggerz)

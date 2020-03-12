@@ -1,9 +1,9 @@
 > この記事は[ \(\)  Kiss ](https://ja.wikipedia.org/wiki/_\(\)__Kiss_)から翻訳されています。
 
 
-**停電 (地獄の再会) 〜 Kiss アンプラグド** (*Kiss Unplugged*) とは、[1996年](../Page/1996年.md "wikilink")に[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")にて[キッス](https://ja.wikipedia.org/wiki/キッス "wikilink")が出した[アルバム](../Page/アルバム.md "wikilink")である。
+**停電 (地獄の再会) 〜 Kiss アンプラグド** (*Kiss Unplugged*) とは、[1996年](../Page/1996年.md "wikilink")に[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")にて[キッス](../Page/キッス.md "wikilink")が出した[アルバム](../Page/アルバム.md "wikilink")である。
 
-メンバーが入れ替わっていた[ポール・スタンレー](../Page/ポール・スタンレー.md "wikilink")、[ジーン・シモンズ](https://ja.wikipedia.org/wiki/ジーン・シモンズ_\(ミュージシャン\) "wikilink")、[ブルース・キューリック](https://ja.wikipedia.org/wiki/ブルース・キューリック "wikilink")、[エリック・シンガー](https://ja.wikipedia.org/wiki/エリック・シンガー "wikilink")が、再び旧メンバーの[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")、[ピーター・クリス](https://ja.wikipedia.org/wiki/ピーター・クリス "wikilink")とMTVアンプラグドでライブを行った際のライブ・アルバムで、のちにオリジナルメンバーのスタンレー、シモンズ、フレーリー、クリスのリユニオンツアーの発端となったアルバムである。
+メンバーが入れ替わっていた[ポール・スタンレー](../Page/ポール・スタンレー.md "wikilink")、[ジーン・シモンズ](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")、[ブルース・キューリック](https://ja.wikipedia.org/wiki/ブルース・キューリック "wikilink")、[エリック・シンガー](../Page/エリック・シンガー.md "wikilink")が、再び旧メンバーの[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")、[ピーター・クリス](../Page/ピーター・クリス.md "wikilink")とMTVアンプラグドでライブを行った際のライブ・アルバムで、のちにオリジナルメンバーのスタンレー、シモンズ、フレーリー、クリスのリユニオンツアーの発端となったアルバムである。
 
 ## 収録曲
 

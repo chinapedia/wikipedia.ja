@@ -5,8 +5,8 @@
 
 ## 内容
 
-  - [B'z](../Page/B'z.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")（[KANONJIと共同](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")）を手掛けている。稲葉が他者に作詞・作曲を同時に提供したのは初めてであり、作曲の提供はデビュー以来（[前田亘輝](../Page/前田亘輝.md "wikilink")ソロアルバム『[Feel Me](https://ja.wikipedia.org/wiki/Feel_Me "wikilink")』、[1988年](../Page/1988年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売）、19年ぶりである。さらに音楽プロデューサーを自身以外に担当したのも初めてであることから発売前から大きな話題となる。また、楽曲中では[コーラスも担当している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
-  - 楽曲はタイアップのアニメ『[結界師](https://ja.wikipedia.org/wiki/結界師_\(アニメ\) "wikilink")』の世界観に合わせた内容となっている。また、歌詞の内容と合わせ、「100％スマイルナイト」なるキャラクターロゴマークが企画された。
+  - [B'z](../Page/B'z.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")（[KANONJIと共同](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")）を手掛けている。稲葉が他者に作詞・作曲を同時に提供したのは初めてであり、作曲の提供はデビュー以来（[前田亘輝](../Page/前田亘輝.md "wikilink")ソロアルバム『[Feel Me](../Page/Feel_Me.md "wikilink")』、[1988年](../Page/1988年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売）、19年ぶりである。さらに音楽プロデューサーを自身以外に担当したのも初めてであることから発売前から大きな話題となる。また、楽曲中では[コーラスも担当している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+  - 楽曲はタイアップのアニメ『[結界師](../Page/結界師_\(アニメ\).md "wikilink")』の世界観に合わせた内容となっている。また、歌詞の内容と合わせ、「100％スマイルナイト」なるキャラクターロゴマークが企画された。
   - 発売日には[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』にて特集が組まれ、インタビュー映像が公開された。
   - アニメソングではあるものの、テレビ番組のテーマ曲やFMラジオ局のパワープレイ、さらには有線放送など、アニメ以外にも楽曲の起用機会が多い。
 
@@ -19,9 +19,9 @@
   - [大賀好修](../Page/大賀好修.md "wikilink")：[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink")：ギター・コーラス
   - [宮内一](https://ja.wikipedia.org/wiki/宮内一 "wikilink")：ギター・コーラス
-  - [大田紳一郎](https://ja.wikipedia.org/wiki/大田紳一郎 "wikilink")：ギター・コーラス
-  - [満園庄太郎](https://ja.wikipedia.org/wiki/満園庄太郎 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・コーラス
-  - [黒瀬蛙一](https://ja.wikipedia.org/wiki/黒瀬蛙一 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：ギター・コーラス
+  - [満園庄太郎](../Page/満園庄太郎.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス
+  - [黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
 
 他
 
@@ -29,7 +29,7 @@
 
 1.  **Sha la la -アヤカシNIGHT-**
       -
-        作詞・作曲：稲葉浩志　編曲：[葉山たけし](https://ja.wikipedia.org/wiki/葉山たけし "wikilink")
+        作詞・作曲：稲葉浩志　編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
 2.  **背中越しの笑顔**
       -
         作詞：宇浦冴香　作曲：[三好誠](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")　編曲：葉山たけし
@@ -37,14 +37,14 @@
 
 ## タイアップ
 
-  - [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系全国ネット放送アニメ](../Page/日本テレビ放送網.md "wikilink")『[結界師](https://ja.wikipedia.org/wiki/結界師_\(アニメ\) "wikilink")』オープニングテーマ
-  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフト『[結界師 烏森妖奇談](https://ja.wikipedia.org/wiki/結界師_烏森妖奇談 "wikilink")』CMソング
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[PVTV](https://ja.wikipedia.org/wiki/PVTV "wikilink")』2007年3月度オープニングテーマ
-  - 全国31局ネット「[MU-GEN](https://ja.wikipedia.org/wiki/MU-GEN "wikilink") ～Music Generations～」3月度オープニングテーマ
+  - [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系全国ネット放送アニメ](../Page/日本テレビ放送網.md "wikilink")『[結界師](../Page/結界師_\(アニメ\).md "wikilink")』オープニングテーマ
+  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフト『[結界師 烏森妖奇談](../Page/結界師_烏森妖奇談.md "wikilink")』CMソング
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[PVTV](../Page/PVTV.md "wikilink")』2007年3月度オープニングテーマ
+  - 全国31局ネット「[MU-GEN](../Page/MU-GEN.md "wikilink") ～Music Generations～」3月度オープニングテーマ
 
 ## 収録アルバム
 
-  - [Juke Vox](https://ja.wikipedia.org/wiki/Juke_Vox "wikilink")（\#1）
+  - [Juke Vox](../Page/Juke_Vox.md "wikilink")（\#1）
   - [GIZA studio 10th Anniversary Masterpiece BLEND 〜FUN Side〜](https://ja.wikipedia.org/wiki/GIZA_studio_10th_Anniversary_Masterpiece_BLEND_〜FUN_Side〜 "wikilink")（\#1）
   - [GIZA studio presents -Girls-](https://ja.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")（\#1）
 
@@ -56,10 +56,10 @@
   - [エフエム福島](../Page/エフエム福島.md "wikilink") 3月度後期パワープレイ
   - [bayfm](../Page/ベイエフエム.md "wikilink") POWER PLAY
   - [TOKYO FM](../Page/エフエム東京.md "wikilink") ブランニューソング 3月度
-  - [Fm yokohama](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink") Prime Cuts 3月度
+  - [Fm yokohama](../Page/横浜エフエム放送.md "wikilink") Prime Cuts 3月度
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink") HOT SHOT AIRPLAY
-  - [エフエムラジオ新潟](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink") 3月度パワープレイ
-  - [FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink") 3月度"POWER PLAY"
+  - [エフエムラジオ新潟](../Page/エフエムラジオ新潟.md "wikilink") 3月度パワープレイ
+  - [FM長野](../Page/長野エフエム放送.md "wikilink") 3月度"POWER PLAY"
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") SBSラジオ 3月のいちおしくん
   - [岐阜エフエム放送](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink") G-Power play
   - [エフエム愛知](../Page/エフエム愛知.md "wikilink") POWER PLAY

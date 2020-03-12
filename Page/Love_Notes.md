@@ -10,7 +10,7 @@
   - 第16回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")（ポップ・アルバム・オブ・ザ・イヤー）と、 [第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")ベストアルバム賞をそれぞれ受賞。
   - 発売時に[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の号外に見立てた広告が配られた。
   - デビュー曲「[Promise](https://ja.wikipedia.org/wiki/Promise_\(ゴスペラーズの曲\) "wikilink")」、2ndシングル「[U'll Be Mine](https://ja.wikipedia.org/wiki/U'll_Be_Mine "wikilink")」は歌い直してそれぞれ新録で収録。
-  - 「[あたらしい世界](https://ja.wikipedia.org/wiki/あたらしい世界 "wikilink")」は後半のサビの部分にシングルには無かったコーラスを追加（『[G10](https://ja.wikipedia.org/wiki/G10_\(アルバム\) "wikilink")』にもこのバージョンで収録された）。
+  - 「[あたらしい世界](https://ja.wikipedia.org/wiki/あたらしい世界 "wikilink")」は後半のサビの部分にシングルには無かったコーラスを追加（『[G10](../Page/G10_\(アルバム\).md "wikilink")』にもこのバージョンで収録された）。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
       - 作詞: 安岡優/作曲: [妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink")/編曲: Bryan-Michael Cox
         初出：同名シングル（2000年8月23日）／『[Soul Serenade](../Page/Soul_Serenade.md "wikilink")』（2000年10月12日）
 3.  **NO MORE TEARS （4:33）**
-      - 作詞・作曲: Thomas Ahlstrand、Stephen Evans、安岡優/編曲:[小西貴雄](https://ja.wikipedia.org/wiki/小西貴雄 "wikilink")
+      - 作詞・作曲: Thomas Ahlstrand、Stephen Evans、安岡優/編曲:[小西貴雄](../Page/小西貴雄.md "wikilink")
         初出：『[MO' BEAT](../Page/MO'_BEAT.md "wikilink")』（1997年7月21日）
 4.  **八月の鯨 （4:58）**
       - 作詞・作曲: 村上てつや/編曲: 田辺恵二
@@ -49,7 +49,7 @@
       - 作詞: 安岡優/作曲: [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")、小西貴雄/編曲: 小西貴雄
         初出：『FIVE KEYS』（1999年7月23日）
 11. **[あたらしい世界](https://ja.wikipedia.org/wiki/あたらしい世界 "wikilink") （4:47）**
-      - 作詞: [康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")/作曲: 北山陽一/編曲: 藤井丈司
+      - 作詞: [康珍化](../Page/康珍化.md "wikilink")/作曲: 北山陽一/編曲: 藤井丈司
         初出：同名シングル（1998年12月12日）／『FIVE KEYS』（1999年7月23日）
 12. **カーテンコール （1:55）**
       - 作詞: 安岡優/作曲・編曲: 北山陽一

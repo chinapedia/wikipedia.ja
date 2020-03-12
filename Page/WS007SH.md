@@ -5,15 +5,15 @@
 
 ## 概要
 
-[W-ZERO3](https://ja.wikipedia.org/wiki/W-ZERO3 "wikilink")シリーズの1つ。WS003SHに対する「大き過ぎる」「通話するのに違和感がある」などの意見を踏まえ、液晶のサイズを2.8インチに抑えると共に通話ダイヤル用テンキーを搭載し、スタイルもより"一般的な携帯電話"に近いモデルとして[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売された。\[es\]([エス](https://ja.wikipedia.org/wiki/エス "wikilink"))とは後にラテン語で「イド」と訳された心理学用語で「[自我](../Page/自我.md "wikilink")（本能的な欲求）」を意味し、「本能的にほしくなるもの」というメッセージを込めているという\[1\]。
+[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズの1つ。WS003SHに対する「大き過ぎる」「通話するのに違和感がある」などの意見を踏まえ、液晶のサイズを2.8インチに抑えると共に通話ダイヤル用テンキーを搭載し、スタイルもより"一般的な携帯電話"に近いモデルとして[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売された。\[es\]([エス](https://ja.wikipedia.org/wiki/エス "wikilink"))とは後にラテン語で「イド」と訳された心理学用語で「[自我](../Page/自我.md "wikilink")（本能的な欲求）」を意味し、「本能的にほしくなるもの」というメッセージを込めているという\[1\]。
 
-WS003SH/WS004SHで内蔵されていた[無線LAN](../Page/無線LAN.md "wikilink")機能は省かれた一方、[SDIOと](https://ja.wikipedia.org/wiki/SDメモリーカード#SDIO "wikilink")[USBホスト機能対応に対応しており](../Page/ユニバーサル・シリアル・バス.md "wikilink")、様々な拡張が可能となった。SDIOはminiSDタイプの[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")カードや無線LANカードなどに対応している。USBホスト機能を使って外部キーボードやリムーバブルディスクなどが使用できるほか、専用オプションのチューナーを接続することで[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")の視聴も可能。また、通信中着信に対応したほか、非操作時の画面タップやボタン操作を無効化するキーロック機能が独立したスライドスイッチで行うように変更され、扱い易さが向上した。
+WS003SH/WS004SHで内蔵されていた[無線LAN](../Page/無線LAN.md "wikilink")機能は省かれた一方、[SDIOと](https://ja.wikipedia.org/wiki/SDメモリーカード#SDIO "wikilink")[USBホスト機能対応に対応しており](../Page/ユニバーサル・シリアル・バス.md "wikilink")、様々な拡張が可能となった。SDIOはminiSDタイプの[Bluetooth](../Page/Bluetooth.md "wikilink")カードや無線LANカードなどに対応している。USBホスト機能を使って外部キーボードやリムーバブルディスクなどが使用できるほか、専用オプションのチューナーを接続することで[ワンセグ](../Page/ワンセグ.md "wikilink")の視聴も可能。また、通信中着信に対応したほか、非操作時の画面タップやボタン操作を無効化するキーロック機能が独立したスライドスイッチで行うように変更され、扱い易さが向上した。
 
 ソフトウェアは、[Adobe Flashに対応した](../Page/Adobe_Flash.md "wikilink")[Opera for W-ZERO3や](https://ja.wikipedia.org/wiki/Opera "wikilink")[ATOK](../Page/ATOK.md "wikilink")、シャープ製メーラー「W-ZERO3メール」などが新たにプリインストールされ、ダイヤルキーによる文字入力や[予測変換などを使って](https://ja.wikipedia.org/wiki/入力予測 "wikilink")、より携帯電話に近い操作が可能になっている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")には[名刺](../Page/名刺.md "wikilink")リーダ機能や、一般の携帯電話のような構成のメニューで操作できるホームメニューを追加したファームウェアがインストールされた“W-ZERO3 \[es\]” Premium version（WS007SHP）が発売された\[2\]。なお、従来のW-ZERO3 \[es\]用に、同等の機能を備えたファームウェアアップデートが公開されている。
+[2006年](../Page/2006年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")には[名刺](../Page/名刺.md "wikilink")リーダ機能や、一般の携帯電話のような構成のメニューで操作できるホームメニューを追加したファームウェアがインストールされた“W-ZERO3 \[es\]” Premium version（WS007SHP）が発売された\[2\]。なお、従来のW-ZERO3 \[es\]用に、同等の機能を備えたファームウェアアップデートが公開されている。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")には後継機としてAdvanced／W-ZERO3 \[es\]（[WS011SH](https://ja.wikipedia.org/wiki/WS011SH "wikilink")）が発表された。
+[2007年](../Page/2007年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")には後継機としてAdvanced／W-ZERO3 \[es\]（[WS011SH](../Page/WS011SH.md "wikilink")）が発表された。
 
 ## 沿革
 

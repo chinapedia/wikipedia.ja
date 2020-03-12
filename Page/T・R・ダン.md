@@ -1,31 +1,31 @@
 > この記事は[TR](https://ja.wikipedia.org/wiki/TR)から翻訳されています。
 
 
-**T・R・ダン**（**Theodore Roosevelt "T.R." Dunn**、[1955年](../Page/1955年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）は[アラバマ州](../Page/アラバマ州.md "wikilink")[バーミングハム出身の](https://ja.wikipedia.org/wiki/バーミングハム_\(アラバマ州\) "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手、バスケットボール指導者。[NBA](../Page/NBA.md "wikilink")で14シーズンプレイした後NBAの数チームでアシスタントコーチを務めている。ポジションはガード/フォワード。
+**T・R・ダン**（**Theodore Roosevelt "T.R." Dunn**、[1955年](../Page/1955年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）は[アラバマ州](../Page/アラバマ州.md "wikilink")[バーミングハム出身の](../Page/バーミングハム_\(アラバマ州\).md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手、バスケットボール指導者。[NBA](../Page/NBA.md "wikilink")で14シーズンプレイした後NBAの数チームでアシスタントコーチを務めている。ポジションはガード/フォワード。
 
 ## 経歴
 
 ### 選手時代
 
-[アラバマ大学](https://ja.wikipedia.org/wiki/アラバマ大学 "wikilink")卒業後、[1977年のNBAドラフト](https://ja.wikipedia.org/wiki/1977年のNBAドラフト "wikilink")で[ポートランド・トレイルブレイザーズ](https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ "wikilink")から2巡目全体41位指名を受け入団した\[1\]。前年[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル "wikilink")を制した[ジャック・ラムジー](https://ja.wikipedia.org/wiki/ジャック・ラムジー "wikilink")ヘッドコーチの下、チームは[プレーオフに進出したものの](https://ja.wikipedia.org/wiki/NBAプレーオフ "wikilink")[ロイド・ニール](https://ja.wikipedia.org/wiki/ロイド・ニール "wikilink")、[ビル・ウォルトン](../Page/ビル・ウォルトン.md "wikilink")を怪我で失い[シアトル・スーパーソニックス](https://ja.wikipedia.org/wiki/シアトル・スーパーソニックス "wikilink")に敗れた\[2\]。
+[アラバマ大学](../Page/アラバマ大学.md "wikilink")卒業後、[1977年のNBAドラフト](https://ja.wikipedia.org/wiki/1977年のNBAドラフト "wikilink")で[ポートランド・トレイルブレイザーズ](../Page/ポートランド・トレイルブレイザーズ.md "wikilink")から2巡目全体41位指名を受け入団した\[1\]。前年[NBAファイナル](../Page/NBAファイナル.md "wikilink")を制した[ジャック・ラムジー](https://ja.wikipedia.org/wiki/ジャック・ラムジー "wikilink")ヘッドコーチの下、チームは[プレーオフに進出したものの](../Page/NBAプレーオフ.md "wikilink")[ロイド・ニール](https://ja.wikipedia.org/wiki/ロイド・ニール "wikilink")、[ビル・ウォルトン](../Page/ビル・ウォルトン.md "wikilink")を怪我で失い[シアトル・スーパーソニックス](../Page/シアトル・スーパーソニックス.md "wikilink")に敗れた\[2\]。
 
-ブレイザーズで3シーズン過ごした後、[デンバー・ナゲッツ](https://ja.wikipedia.org/wiki/デンバー・ナゲッツ "wikilink")にトレードされた。ナゲッツでは[1986-87シーズンまで先発で出場し](https://ja.wikipedia.org/wiki/1986-1987シーズンのNBA "wikilink")、[1983年から](https://ja.wikipedia.org/wiki/1982-1983シーズンのNBA "wikilink")3年連続でオールディフェンシブ2NDチームに選出された\[3\]。
+ブレイザーズで3シーズン過ごした後、[デンバー・ナゲッツ](../Page/デンバー・ナゲッツ.md "wikilink")にトレードされた。ナゲッツでは[1986-87シーズンまで先発で出場し](https://ja.wikipedia.org/wiki/1986-1987シーズンのNBA "wikilink")、[1983年から](https://ja.wikipedia.org/wiki/1982-1983シーズンのNBA "wikilink")3年連続でオールディフェンシブ2NDチームに選出された\[3\]。
 
-その後[フェニックス・サンズ](https://ja.wikipedia.org/wiki/フェニックス・サンズ "wikilink")を経てナゲッツでプレーした。
+その後[フェニックス・サンズ](../Page/フェニックス・サンズ.md "wikilink")を経てナゲッツでプレーした。
 
 ### 現役引退後
 
 1991年の現役引退後はコーチとなり[1991年から](https://ja.wikipedia.org/wiki/1991-1992シーズンのNBA "wikilink")[1997年まで](https://ja.wikipedia.org/wiki/1996-1997シーズンのNBA "wikilink")[シャーロット・ホーネッツのアシスタントコーチ](https://ja.wikipedia.org/wiki/ニューオーリンズ・ホーネッツ "wikilink")、[1997-1998シーズンはナゲッツのアシスタントコーチ](https://ja.wikipedia.org/wiki/1997-1998シーズンのNBA "wikilink")、1998-1999シーズンからは[WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")の[シャーロット・スティング](https://ja.wikipedia.org/wiki/シャーロット・スティング "wikilink")のアシスタントコーチを経て、[1999年](../Page/1999年.md "wikilink")にスティングのヘッドコーチに昇格したが[2001年](../Page/2001年.md "wikilink")に辞任した。
 
-[2002年から](https://ja.wikipedia.org/wiki/2002-2003シーズンのNBA "wikilink")[2004年までナゲッツで再びアシスタントコーチを務め](https://ja.wikipedia.org/wiki/2003-2004シーズンのNBA "wikilink")、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")6月、キングスの[リック・アデルマン](https://ja.wikipedia.org/wiki/リック・アデルマン "wikilink")の下でアシスタントコーチに就任した\[4\]。
+[2002年から](../Page/2002-2003シーズンのNBA.md "wikilink")[2004年までナゲッツで再びアシスタントコーチを務め](../Page/2003-2004シーズンのNBA.md "wikilink")、[2004年](../Page/2004年.md "wikilink")6月、キングスの[リック・アデルマン](https://ja.wikipedia.org/wiki/リック・アデルマン "wikilink")の下でアシスタントコーチに就任した\[4\]。
 
-2009年4月からは[ヒューストン・ロケッツ](https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ "wikilink")の[リック・アデルマン](https://ja.wikipedia.org/wiki/リック・アデルマン "wikilink")ヘッドコーチの下でアシスタントコーチに就任した\[5\]。
+2009年4月からは[ヒューストン・ロケッツ](../Page/ヒューストン・ロケッツ.md "wikilink")の[リック・アデルマン](https://ja.wikipedia.org/wiki/リック・アデルマン "wikilink")ヘッドコーチの下でアシスタントコーチに就任した\[5\]。
 
 ## 脚注
 
 ## 関連項目
 
-  - [デンバー・ナゲッツのチーム記録](https://ja.wikipedia.org/wiki/デンバー・ナゲッツのチーム記録 "wikilink")
+  - [デンバー・ナゲッツのチーム記録](../Page/デンバー・ナゲッツのチーム記録.md "wikilink")
 
 ## 外部リンク
 

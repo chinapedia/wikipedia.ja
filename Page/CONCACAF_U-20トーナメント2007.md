@@ -1,11 +1,11 @@
 > この記事は[CONCACAF U-202007](https://ja.wikipedia.org/wiki/CONCACAF_U-202007)から翻訳されています。
 
 
-**CONCACAF U-20トーナメント2007**（）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")から[2月25日](../Page/2月25日.md "wikilink")にかけて、[パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink")と[メキシコ](../Page/メキシコ.md "wikilink")で開催された第21回目の[CONCACAF U-20トーナメントである](https://ja.wikipedia.org/wiki/CONCACAF_U-20選手権 "wikilink")。
+**CONCACAF U-20トーナメント2007**（）は、[2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")から[2月25日](../Page/2月25日.md "wikilink")にかけて、[パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink")と[メキシコ](../Page/メキシコ.md "wikilink")で開催された第21回目の[CONCACAF U-20トーナメントである](../Page/CONCACAF_U-20選手権.md "wikilink")。
 
 ## 概要
 
-[FIFA U-20ワールドカップ・カナダ大会の](https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ "wikilink")[北中米カリブ海地域の予選である](../Page/北中米カリブ海サッカー連盟.md "wikilink")。他の大陸予選との違いは、同大会への出場国を決めるのが目的となっており、その為、優勝国は決めない。また、[FIFA U-20ワールドカップ開催国である](../Page/FIFA_U-20ワールドカップ.md "wikilink")[カナダも参加していない](https://ja.wikipedia.org/wiki/サッカーカナダ代表 "wikilink")。
+[FIFA U-20ワールドカップ・カナダ大会の](../Page/2007_FIFA_U-20ワールドカップ.md "wikilink")[北中米カリブ海地域の予選である](../Page/北中米カリブ海サッカー連盟.md "wikilink")。他の大陸予選との違いは、同大会への出場国を決めるのが目的となっており、その為、優勝国は決めない。また、[FIFA U-20ワールドカップ開催国である](../Page/FIFA_U-20ワールドカップ.md "wikilink")[カナダも参加していない](../Page/サッカーカナダ代表.md "wikilink")。
 
 ## 結果
 
@@ -73,7 +73,7 @@
   -
 ## 関連項目
 
-  - [2007 FIFA U-20ワールドカップ](https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ "wikilink")
+  - [2007 FIFA U-20ワールドカップ](../Page/2007_FIFA_U-20ワールドカップ.md "wikilink")
   - [CONCACAF U-17トーナメント2007](https://ja.wikipedia.org/wiki/CONCACAF_U-17トーナメント2007 "wikilink")
 
 ## 外部リンク

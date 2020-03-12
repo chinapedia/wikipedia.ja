@@ -11,12 +11,12 @@
 ## 収録曲
 
 1.  **FRENZY** \[3:20\]
-      - 作詞：ゴスペラーズ／作曲：酒井雄二、村上てつや／編曲：[K-Muto](https://ja.wikipedia.org/wiki/K-Muto "wikilink")(Groovediggerz)、酒井雄二
+      - 作詞：ゴスペラーズ／作曲：酒井雄二、村上てつや／編曲：[K-Muto](../Page/K-Muto.md "wikilink")(Groovediggerz)、酒井雄二
           - ワールドカップイヤーであったこの年、サッカーをイメージした歌詞になっている。酒井がヒューマンビートボックス、トークボックスなど、多くの役割を果たしている。
 2.  '''[Get me on](https://ja.wikipedia.org/wiki/Get_me_on "wikilink") ''' \[3:45\]
-      - 作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")／作曲：酒井雄二／編曲：K-Muto(Groovediggerz)
+      - 作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")／作曲：酒井雄二／編曲：K-Muto(Groovediggerz)
           - 同日発売となった19thシングル曲。シングルCDの方は10万枚限定で発売された。
-3.  '''ポーカーフェイス featuring [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") ''' \[5:31\]
+3.  '''ポーカーフェイス featuring [RHYMESTER](../Page/RHYMESTER.md "wikilink") ''' \[5:31\]
       - 作詩：安岡優、S.Sasaki、D.Sakama／作曲：黒沢薫、[宇佐美秀文](https://ja.wikipedia.org/wiki/宇佐美秀文 "wikilink")／編曲：K-Muto(Groovediggerz)
           - 先輩であり、盟友であるRHYMESTERをフィーチャーした曲。この曲にはアカペラバージョンも存在し、そちらは「Get me on」のアナログ盤に収録されている。
 4.  **残照** \[4:52\]
@@ -40,12 +40,12 @@
           - 16thシングル曲。「[Love Notes](../Page/Love_Notes.md "wikilink")」にも収録されたが、今回がオリジナルアルバム初収録。
 10. **真夜中のコーラス** \[3:24\]
       - 作詞・作曲：村上てつや／編曲：K-Muto(Groovediggerz)
-          - レギュラーラジオだった「[ゴスペラーズ 真夜中のコーラス](https://ja.wikipedia.org/wiki/ゴスペラーズ_真夜中のコーラス "wikilink")」のジングルで使われていた曲。
-          - 番組が始まった当初の「[Be@t B@by\!\!](https://ja.wikipedia.org/wiki/Be@t_B@by!! "wikilink")」という番組名が曲中に登場する。
+          - レギュラーラジオだった「[ゴスペラーズ 真夜中のコーラス](../Page/ゴスペラーズ_真夜中のコーラス.md "wikilink")」のジングルで使われていた曲。
+          - 番組が始まった当初の「[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")」という番組名が曲中に登場する。
 11. '''[約束の季節](https://ja.wikipedia.org/wiki/約束の季節 "wikilink") ''' \[5:17\]
-      - 作詩：安岡優／作曲：北山陽一、[橘哲夫](https://ja.wikipedia.org/wiki/AJI "wikilink")／編曲：K-Muto(Groovediggerz)
-          - 17thシングル曲。この曲が発売された夏は[冷夏](https://ja.wikipedia.org/wiki/冷夏 "wikilink")で、「暑かったらもっと売れただろうね」とメンバーはよく言う。
-          - この曲の作曲には[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")のサークル「[Street Conner Symphony](https://ja.wikipedia.org/wiki/Street_Conner_Symphony "wikilink")」の後輩グループ、[AJI](https://ja.wikipedia.org/wiki/AJI "wikilink")のリーダー・橘 哲夫が参加している。
+      - 作詩：安岡優／作曲：北山陽一、[橘哲夫](../Page/AJI.md "wikilink")／編曲：K-Muto(Groovediggerz)
+          - 17thシングル曲。この曲が発売された夏は[冷夏](../Page/冷夏.md "wikilink")で、「暑かったらもっと売れただろうね」とメンバーはよく言う。
+          - この曲の作曲には[早稲田大学](../Page/早稲田大学.md "wikilink")のサークル「[Street Conner Symphony](https://ja.wikipedia.org/wiki/Street_Conner_Symphony "wikilink")」の後輩グループ、[AJI](../Page/AJI.md "wikilink")のリーダー・橘 哲夫が参加している。
 12. **DAWN～夜明け～** \[5:23\]
       - 作詩：安岡優／作曲：Bryan-michael Cox、ゴスペラーズ、J.Que
           - 「永遠に」に参加したJ.QueとBryan-michael Coxとの競作。

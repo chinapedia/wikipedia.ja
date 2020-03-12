@@ -1,17 +1,17 @@
 > この記事は[KIRITO Symphonic Concert 2006 EXISTENCE PROOF RE:PARADOX](https://ja.wikipedia.org/wiki/KIRITO_Symphonic_Concert_2006_EXISTENCE_PROOF_RE:PARADOX)から翻訳されています。
 
 
-'''KIRITO Symphonic Concert 2006 EXISTENCE PROOF "RE:PARADOX" '''は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")及び[10月1日](../Page/10月1日.md "wikilink")に開催された[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")の初のシンフォニック・コンサートである。
+'''KIRITO Symphonic Concert 2006 EXISTENCE PROOF "RE:PARADOX" '''は、[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")及び[10月1日](../Page/10月1日.md "wikilink")に開催された[キリト](../Page/キリト.md "wikilink")の初のシンフォニック・コンサートである。
 
 ## 概要
 
-  - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の曲をメインのナンバーとし、『[FINALE](https://ja.wikipedia.org/wiki/FINALE "wikilink")』『[PRIVATE ENEMY](https://ja.wikipedia.org/wiki/PRIVATE_ENEMY "wikilink")』『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜 "wikilink")』のPIERROT三部作を遡る構成となっている。
-  - 指揮・ピアノ[藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")、演奏は[東京ニューシティ管弦楽団](https://ja.wikipedia.org/wiki/東京ニューシティ管弦楽団 "wikilink")。
+  - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の曲をメインのナンバーとし、『[FINALE](../Page/FINALE.md "wikilink")』『[PRIVATE ENEMY](../Page/PRIVATE_ENEMY.md "wikilink")』『[HEAVEN](../Page/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜.md "wikilink")』のPIERROT三部作を遡る構成となっている。
+  - 指揮・ピアノ[藤原いくろう](../Page/藤原いくろう.md "wikilink")、演奏は[東京ニューシティ管弦楽団](../Page/東京ニューシティ管弦楽団.md "wikilink")。
   - 後にDVD化された。
 
 ## 日程
 
-  - 2006年9月30日（土） [東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")・ホールA
+  - 2006年9月30日（土） [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")・ホールA
   - 2006年10月1日（日） 東京国際フォーラム・ホールA
 
 ## ステージ内容

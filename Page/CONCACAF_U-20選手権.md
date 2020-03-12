@@ -1,7 +1,7 @@
 > この記事は[CONCACAF U-20](https://ja.wikipedia.org/wiki/CONCACAF_U-20)から翻訳されています。
 
 
-**CONCACAF U-20選手権**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、20歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。[FIFA U-20ワールドカップ](../Page/FIFA_U-20ワールドカップ.md "wikilink")（2005年大会までは「FIFAワールドユース」）の予選を兼ねて2年に1度開催される。
+**CONCACAF U-20選手権**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、20歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。[FIFA U-20ワールドカップ](../Page/FIFA_U-20ワールドカップ.md "wikilink")（2005年大会までは「FIFAワールドユース」）の予選を兼ねて2年に1度開催される。
 
 ## 概要
 
@@ -54,7 +54,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFユーストーナメント1970" title="wikilink">3</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFユーストーナメント1976" title="wikilink">6</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1976年" title="wikilink">1976年</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFユーストーナメント1992" title="wikilink">14</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAF_U-20トーナメント2005" title="wikilink">20</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>(A組) </p></td>
 <td></td>
 <td></td>
@@ -280,7 +280,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/CONCACAF_U-20トーナメント2007.md" title="wikilink">21</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p>(A組) </p></td>
 <td></td>
 <td></td>

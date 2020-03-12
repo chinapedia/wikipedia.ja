@@ -1,23 +1,23 @@
 > この記事は[REALITY BITES](https://ja.wikipedia.org/wiki/REALITY_BITES)から翻訳されています。
 
 
-**REALITY BITES**（リアリティ・バイツ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")9月まで放送されていた[J-WAVE](../Page/J-WAVE.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&B系の楽曲を中心に流していた](../Page/リズム・アンド・ブルース.md "wikilink")。
+**REALITY BITES**（リアリティ・バイツ）は、[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")9月まで放送されていた[J-WAVE](../Page/J-WAVE.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&B系の楽曲を中心に流していた](../Page/リズム・アンド・ブルース.md "wikilink")。
 
-金曜24:30-29:00の番組として放送開始。2006年4月からは「REALITY BITES 〜HEADS UP〜」（金曜22:00-23:45）、「REALITY BITES 〜SEHR LECKER〜」（金曜24:30-27:00）の二部構成になっていたが、2007年4月からは金曜24:30-28:00に放送時間が変更し同年9月に終了した。ナビゲーター([DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink"))は[MC RYU](https://ja.wikipedia.org/wiki/MC_RYU "wikilink")。毎週月曜-金曜の帯でMC RYUがナビゲーターを務めていた[SOUL TRAINの後継番組である](https://ja.wikipedia.org/wiki/SOUL_TRAIN "wikilink")。
+金曜24:30-29:00の番組として放送開始。2006年4月からは「REALITY BITES 〜HEADS UP〜」（金曜22:00-23:45）、「REALITY BITES 〜SEHR LECKER〜」（金曜24:30-27:00）の二部構成になっていたが、2007年4月からは金曜24:30-28:00に放送時間が変更し同年9月に終了した。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[MC RYU](https://ja.wikipedia.org/wiki/MC_RYU "wikilink")。毎週月曜-金曜の帯でMC RYUがナビゲーターを務めていた[SOUL TRAINの後継番組である](https://ja.wikipedia.org/wiki/SOUL_TRAIN "wikilink")。
 
 ## 過去に存在した番組・コーナー
 
 ### REALITY BITES 〜HEADZ UP\!〜
 
-**REALITY BITES 〜HEADZ UP\!〜**（リアリティ・バイツ〜ヘッズ・アップ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")スタート。22:00-23:45まで放送しているREALITY BITESの前半部分。以下の2つのコーナーを内包している。
+**REALITY BITES 〜HEADZ UP\!〜**（リアリティ・バイツ〜ヘッズ・アップ）は、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")スタート。22:00-23:45まで放送しているREALITY BITESの前半部分。以下の2つのコーナーを内包している。
 
   - GEORGIA BE YO' SELF（ジョージア・ビー・ヨー・セルフ）
-    22:15-22:50の放送。リスナーと生電話をつなぎ、提供である缶コーヒー[ジョージアの](https://ja.wikipedia.org/wiki/ジョージア_\(缶コーヒー\) "wikilink")「エメラルドマウンテンブレンド」1ケース（30本入り）をプレゼントする。また、2006年10月ごろからは毎週テーマを設け、リスナーからそのテーマに沿ったメールを募集している。
+    22:15-22:50の放送。リスナーと生電話をつなぎ、提供である缶コーヒー[ジョージアの](../Page/ジョージア_\(缶コーヒー\).md "wikilink")「エメラルドマウンテンブレンド」1ケース（30本入り）をプレゼントする。また、2006年10月ごろからは毎週テーマを設け、リスナーからそのテーマに沿ったメールを募集している。
 
 <!-- end list -->
 
   - FENDI B.MIX CINDERELLA STORY（フェンディ・ビー・ミックス シンデレラ・ストーリー）
-    23:10-23:30の放送。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")コーナー開始。[FENDIがプロを目指して頑張っている女性たちをバックアップする](https://ja.wikipedia.org/wiki/フェンディ "wikilink")“FENDI B.MIXシンデレラ・オーディション”を開催。1,000名を超える応募者から選ばれた4名が、各分野のスペシャリストの元でノウハウを学びながら、夢を実現させる期間限定のシンデレラプロジェクト。トータルプロデューサー：[小山薫堂](https://ja.wikipedia.org/wiki/小山薫堂 "wikilink")。
+    23:10-23:30の放送。[2007年](../Page/2007年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")コーナー開始。[FENDIがプロを目指して頑張っている女性たちをバックアップする](../Page/フェンディ.md "wikilink")“FENDI B.MIXシンデレラ・オーディション”を開催。1,000名を超える応募者から選ばれた4名が、各分野のスペシャリストの元でノウハウを学びながら、夢を実現させる期間限定のシンデレラプロジェクト。トータルプロデューサー：[小山薫堂](../Page/小山薫堂.md "wikilink")。
 
 ### REALITY BITES 〜SEHR LECKER〜
 

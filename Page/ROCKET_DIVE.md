@@ -6,17 +6,17 @@
 ## 概要
 
   - [X JAPAN解散後初のソロシングルであり](../Page/X_JAPAN.md "wikilink")、当時、X JAPAN解散のショックで落ち込むファン達へ向けた「クヨクヨせずに前を向いてロケットのように飛び出していこうぜ」というhideからのメッセージが込められている。そのため全体的に明るい曲調でポップな曲に仕上がっている。「一刻も早くファンの元へ届けたかった」というhideの言葉通り、X JAPANの最終公演「THE LAST LIVE」からわずか1ヶ月足らずで発売された。
-  - この曲を閃いたきっかけは当時、テレビで[サッカーワールドカップのアジア予選を見ていたhideが選手の戦いぶりに感動したのと](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")、サポーター達の熱い声援が、自分自身のファン達にも重なって見えて共感を覚えたことがきっかけである\[1\]\[2\]。
-  - hideはこの「ROCKET DIVE」から次回作「[ピンク スパイダー](https://ja.wikipedia.org/wiki/ピンク_スパイダー "wikilink")」「[ever free](https://ja.wikipedia.org/wiki/ever_free_\(hide_with_Spread_Beaverの曲\) "wikilink")」に渡るまでの一連の楽曲を3部作の繋がった楽曲として制作しており、「ROCKET DIVE」には「若いうちは失敗を恐れずにどんどん世界へ飛び出して行こう」というメッセージが込められており、「ピンク スパイダー」には「でも飛び出した世の中はそんなに甘くはない」という「失敗と挫折」を歌った曲であり、「ever free」には「それでも人生は何度だってやり直せる、可能性を信じて生きて行こう」というメッセージが込められた楽曲であると生前語っていた。
+  - この曲を閃いたきっかけは当時、テレビで[サッカーワールドカップのアジア予選を見ていたhideが選手の戦いぶりに感動したのと](../Page/FIFAワールドカップ.md "wikilink")、サポーター達の熱い声援が、自分自身のファン達にも重なって見えて共感を覚えたことがきっかけである\[1\]\[2\]。
+  - hideはこの「ROCKET DIVE」から次回作「[ピンク スパイダー](../Page/ピンク_スパイダー.md "wikilink")」「[ever free](https://ja.wikipedia.org/wiki/ever_free_\(hide_with_Spread_Beaverの曲\) "wikilink")」に渡るまでの一連の楽曲を3部作の繋がった楽曲として制作しており、「ROCKET DIVE」には「若いうちは失敗を恐れずにどんどん世界へ飛び出して行こう」というメッセージが込められており、「ピンク スパイダー」には「でも飛び出した世の中はそんなに甘くはない」という「失敗と挫折」を歌った曲であり、「ever free」には「それでも人生は何度だってやり直せる、可能性を信じて生きて行こう」というメッセージが込められた楽曲であると生前語っていた。
   - かつてユニバーサルビクターのhideサイトで行われた曲の人気投票では1位を獲得した。
-  - イントロは、[KISSの](https://ja.wikipedia.org/wiki/キッス "wikilink")「ROCKET RIDE」のイントロをオマージュしている。これは、hideの憧れのギタリストが[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")だったからである（因みに「ROCKET RIDE」の作詞作曲とリードヴォーカルはエースであり、ドラム以外の楽器も全てエースが担当している）。
+  - イントロは、[KISSの](../Page/キッス.md "wikilink")「ROCKET RIDE」のイントロをオマージュしている。これは、hideの憧れのギタリストが[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")だったからである（因みに「ROCKET RIDE」の作詞作曲とリードヴォーカルはエースであり、ドラム以外の楽器も全てエースが担当している）。
   - 初回特典として「怪人カード」が封入された。これはhideの少年時代に流行った「[仮面ライダー](../Page/仮面ライダー.md "wikilink")スナック」のオマケを模したもので、メンバーを怪人に見立てている。
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[AWOL -Absent Without Leave-](https://ja.wikipedia.org/wiki/AWOL_-Absent_Without_Leave- "wikilink")」オープニングテーマ。
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[AWOL -Absent Without Leave-](../Page/AWOL_-Absent_Without_Leave-.md "wikilink")」オープニングテーマ。
   - 次作「ピンク スパイダー」のリリース直前にhideが[急逝](https://ja.wikipedia.org/wiki/急逝 "wikilink")した為、本作品がhideが生前のうちにリリースされた最後の楽曲となった。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売された。
+  - [2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売された。
   - [2012年](../Page/2012年.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列のお笑い番組「[ロケットライブ](https://ja.wikipedia.org/wiki/ロケットライブ "wikilink")」のテーマソングに起用された。
-  - [2018年](../Page/2018年.md "wikilink")[6月](../Page/6月.md "wikilink")、hideの最新のトリビュート・アルバム『hide TRIBUTE IMPULSE』が発売、そのアルバムの中でhideの後輩にあたるミクスチャー・ロックバンドの[Dragon Ashが本作をカバー](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")
-  - [2018年](../Page/2018年.md "wikilink")[6月](../Page/6月.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")で開催される[2018 FIFAワールドカップのテレビ朝日系の中継テーマソングとしてhide](https://ja.wikipedia.org/wiki/2018_FIFAワールドカップ "wikilink") with Spread Beaverバージョン及び、Dragon Ashバージョンの本作が公式テーマソングとして採用された\[3\]\[4\]\[5\]\[6\]。
+  - [2018年](../Page/2018年.md "wikilink")[6月](../Page/6月.md "wikilink")、hideの最新のトリビュート・アルバム『hide TRIBUTE IMPULSE』が発売、そのアルバムの中でhideの後輩にあたるミクスチャー・ロックバンドの[Dragon Ashが本作をカバー](../Page/Dragon_Ash.md "wikilink")
+  - [2018年](../Page/2018年.md "wikilink")[6月](../Page/6月.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")で開催される[2018 FIFAワールドカップのテレビ朝日系の中継テーマソングとしてhide](../Page/2018_FIFAワールドカップ.md "wikilink") with Spread Beaverバージョン及び、Dragon Ashバージョンの本作が公式テーマソングとして採用された\[3\]\[4\]\[5\]\[6\]。
 
 ## 収録曲
 
@@ -32,7 +32,7 @@
   - [Ja,Zoo](../Page/Ja,Zoo.md "wikilink") (\#1)
   - [hide BEST 〜PSYCHOMMUNITY〜](https://ja.wikipedia.org/wiki/hide_BEST_〜PSYCHOMMUNITY〜 "wikilink") (\#1)
   - [hide SINGLES 〜Junk Story〜](https://ja.wikipedia.org/wiki/hide_SINGLES_〜Junk_Story〜 "wikilink") (\#1)
-  - [KING OF PSYBORG ROCK STAR](https://ja.wikipedia.org/wiki/KING_OF_PSYBORG_ROCK_STAR "wikilink") (\#3)
+  - [KING OF PSYBORG ROCK STAR](../Page/KING_OF_PSYBORG_ROCK_STAR.md "wikilink") (\#3)
   - [We Love hide 〜The Best in The World〜](https://ja.wikipedia.org/wiki/We_Love_hide_〜The_Best_in_The_World〜 "wikilink") (\#1,3)
 
 ## カバー・バージョン
@@ -46,7 +46,7 @@
   - 2013年12月18日に発売されたhideのトリビュート・アルバム『hide TRIBUTE VI -Female SPIRITS-』で[AMIAYA](https://ja.wikipedia.org/wiki/AMIAYA "wikilink")がカバーしている。
   - 2013年12月18日に発売されたhideのトリビュート・アルバム『hide TRIBUTE VII -Rock SPIRITS-』で[氣志團](../Page/氣志團.md "wikilink")がカバーしている。
   - [EXILE SHOKICHIが](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")2018年5月23日にリリースしたソロシングル『Underdog』にカップリング曲として、この曲のカバーが収録されている。
-  - 2018年6月6日に発売されたhideのトリビュート・アルバム『hide TRIBUTE IMPULSE』で[Dragon Ashがカバーしている](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")。
+  - 2018年6月6日に発売されたhideのトリビュート・アルバム『hide TRIBUTE IMPULSE』で[Dragon Ashがカバーしている](../Page/Dragon_Ash.md "wikilink")。
 
 ## 参考
 

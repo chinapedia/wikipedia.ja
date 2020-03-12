@@ -150,7 +150,7 @@
 ## 作品
 
   -
-    『[グリムドイツ語辞書](https://ja.wikipedia.org/wiki/グリムドイツ語辞書 "wikilink")』（[グリム兄弟](https://ja.wikipedia.org/wiki/グリム兄弟 "wikilink")）
+    『[グリムドイツ語辞書](https://ja.wikipedia.org/wiki/グリムドイツ語辞書 "wikilink")』（[グリム兄弟](../Page/グリム兄弟.md "wikilink")）
     [リスボンへの夜行列車](https://ja.wikipedia.org/wiki/リスボンへの夜行列車 "wikilink")([de](https://ja.wikipedia.org/wiki/:de:Nachtzug_nach_Lissabon "wikilink"),[en](https://ja.wikipedia.org/wiki/:en:Night_Train_to_Lisbon "wikilink"))
 
 ## 人物

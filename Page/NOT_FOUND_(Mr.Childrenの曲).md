@@ -9,19 +9,19 @@
 
 本作について桜井は発売前に「この曲のために活動を続けてきた」という内容の発言をしたため、マスメディアが「最高傑作」と書き立てたことがある。
 
-ジャケットは女性が[蜂の巣](https://ja.wikipedia.org/wiki/蜂の巣 "wikilink")を握っている。アートディレクターは[信藤三雄](https://ja.wikipedia.org/wiki/信藤三雄 "wikilink")。
+ジャケットは女性が[蜂の巣](https://ja.wikipedia.org/wiki/蜂の巣 "wikilink")を握っている。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
 このシングルで当時最速となる8年で、1stシングル「[君がいた夏](../Page/君がいた夏_\(曲\).md "wikilink")」からのシングル総売上枚数が2000万枚を突破し、突破するのは[B'z](../Page/B'z.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")以来3組目の快挙となった\[1\]。
 
 ## 収録曲
 
 1.  **NOT FOUND**
-      - 作詞・作曲：[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")　編曲：[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
+      - 作詞・作曲：[桜井和寿](../Page/桜井和寿.md "wikilink")　編曲：[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
     <!-- end list -->
       -
-        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バスストップ](https://ja.wikipedia.org/wiki/バスストップ_\(テレビドラマ\) "wikilink")』主題歌。ドラマ主題歌に起用されるのは15thシングル「[終わりなき旅](https://ja.wikipedia.org/wiki/終わりなき旅 "wikilink")」以来で、月9ドラマ主題歌を担当するのは10thシングル「[名もなき詩](https://ja.wikipedia.org/wiki/名もなき詩 "wikilink")」以来2度目である。
-        タイトルの由来は[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")で[ウェブページ](../Page/ウェブページ.md "wikilink")が存在しなかったときに表示される「（404） [NOT FOUND](https://ja.wikipedia.org/wiki/HTTP_404 "wikilink")」からで、歌詞にもそれを示唆するような部分がある。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は信藤三雄。大井中央陸橋でロケが行われた。
+        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バスストップ](../Page/バスストップ_\(テレビドラマ\).md "wikilink")』主題歌。ドラマ主題歌に起用されるのは15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」以来で、月9ドラマ主題歌を担当するのは10thシングル「[名もなき詩](../Page/名もなき詩.md "wikilink")」以来2度目である。
+        タイトルの由来は[インターネット](../Page/インターネット.md "wikilink")で[ウェブページ](../Page/ウェブページ.md "wikilink")が存在しなかったときに表示される「（404） [NOT FOUND](../Page/HTTP_404.md "wikilink")」からで、歌詞にもそれを示唆するような部分がある。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は信藤三雄。大井中央陸橋でロケが行われた。
         ライブツアーでは、原曲よりもアップテンポされ、キーを半音下げて演奏することが多い\[2\]。
 2.  **1999年、夏、沖縄**
       - 作詞・作曲：桜井和寿　編曲：小林武史 & Mr.Children
@@ -51,9 +51,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a></p></td>
+<td><p><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></p></td>
 <td><p>2000年8月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS</a></p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
 <td><p>NOT FOUND[5]</p></td>
 <td><p>本楽曲を演奏する際、桜井はエレクトリック・ギターを演奏しているが、<br />
 この日の放送では、アコースティック・ギターを演奏していた。</p></td>
@@ -61,7 +61,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミュージックステーション" title="wikilink">ミュージックステーション</a></p></td>
 <td><p>2000年8月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a></p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
 <td><p>NOT FOUND[6]</p></td>
 <td><p>COUNT DOWN TVと同様に、<br />
 この日の放送では、アコースティック・ギターを演奏していた。</p></td>
@@ -81,7 +81,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FUN" title="wikilink">FUN</a></p></td>
+<td><p><a href="../Page/FUN.md" title="wikilink">FUN</a></p></td>
 <td><p>2000年8月25日</p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
 <td><p>NOT FOUND[9]</p></td>
@@ -103,15 +103,15 @@
 
 ## 収録アルバム
 
-  - 『[Q](https://ja.wikipedia.org/wiki/Q_\(アルバム\) "wikilink")』(\#1)
-  - 『[Mr.Children 1996-2000](https://ja.wikipedia.org/wiki/Mr.Children_1996-2000 "wikilink")』(\#1)
+  - 『[Q](../Page/Q_\(アルバム\).md "wikilink")』(\#1)
+  - 『[Mr.Children 1996-2000](../Page/Mr.Children_1996-2000.md "wikilink")』(\#1)
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』(\#1)
-  - 『[B-SIDE](https://ja.wikipedia.org/wiki/B-SIDE "wikilink")』(\#2)
+  - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』(\#2)
 
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:2000年代のオリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年代のオリコン月間シングルチャート1位獲得作品 "wikilink") [Category:楽曲_の](https://ja.wikipedia.org/wiki/Category:楽曲_の "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
 
 1.  [【オリコン】AKB48、“最速”7年でシングル総売上2000万枚突破 女性グループ初](http://www.oricon.co.jp/news/2022287/full/) オリコン 2015年3月25日閲覧
-2.  『[Mr.Children Concert Tour Q 2000-2001](https://ja.wikipedia.org/wiki/Mr.Children_Concert_Tour_Q_2000-2001 "wikilink")』、『[Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")』、『[Mr.Children TOUR 2011 "SENSE"](https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_"SENSE" "wikilink")』、『[Mr.Children［(an imitation) blood orange］Tour](https://ja.wikipedia.org/wiki/Mr.Children［\(an_imitation\)_blood_orange］Tour "wikilink")』など。
+2.  『[Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")』、『[Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")』、『[Mr.Children TOUR 2011 "SENSE"](https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_"SENSE" "wikilink")』、『[Mr.Children［(an imitation) blood orange］Tour](https://ja.wikipedia.org/wiki/Mr.Children［\(an_imitation\)_blood_orange］Tour "wikilink")』など。
 3.  『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』中のMCにて
 4.
 5.

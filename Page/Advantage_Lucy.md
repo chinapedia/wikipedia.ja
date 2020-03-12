@@ -1,18 +1,18 @@
 > この記事は[Advantage Lucy](https://ja.wikipedia.org/wiki/Advantage_Lucy)から翻訳されています。
 
 
-**advantage Lucy**（アドバンテージ・ルーシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ネオアコ](../Page/ネオアコ.md "wikilink")・[ギターポップ](https://ja.wikipedia.org/wiki/ギターポップ "wikilink")と呼ばれるようなギター中心のサウンドに、透明感のあるアイコのボーカルを活かした楽曲が特徴。結成当時のバンド名は**Lucy Van Pelt**であった。
+**advantage Lucy**（アドバンテージ・ルーシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ネオアコ](../Page/ネオアコ.md "wikilink")・[ギターポップ](../Page/ギターポップ.md "wikilink")と呼ばれるようなギター中心のサウンドに、透明感のあるアイコのボーカルを活かした楽曲が特徴。結成当時のバンド名は**Lucy Van Pelt**であった。
 
 ## 来歴
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")　福村が雑誌にメンバー募集を出してLucy Van Peltを結成。バンド名は漫画『[PEANUTS](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")』の登場人物名から取った。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　1枚目のアルバム『in Harmony』をGOD'S POP recordsより発売。直後に坂本が脱退。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")　シングル「シトラス e.p.」で[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。同時にバンド名を（原作者から物言いが付いた事もあって）現在の「advantage Lucy」に変更。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")　シングル「シトラス e.p.」で[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。同時にバンド名を（原作者から物言いが付いた事もあって）現在の「advantage Lucy」に変更。
   - [1999年](../Page/1999年.md "wikilink")　福村が脱退。
   - [2001年](../Page/2001年.md "wikilink")　自身のレーベルsolaris recordsを設立し、『oolt cloud』をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")　番場が脱退。
+  - [2005年](../Page/2005年.md "wikilink")　番場が脱退。
   - [2011年](../Page/2011年.md "wikilink")　12月31日、ブログ上で石坂とアイコが3月に入籍していたことを発表した\[1\]。
-  - [2015年](../Page/2015年.md "wikilink")　4月29日、結成20周年記念ライブを同じく20周年となる[Swinging Popsicleを迎え下北沢](https://ja.wikipedia.org/wiki/Swinging_Popsicle "wikilink")[CLUB Queで開催](https://ja.wikipedia.org/wiki/CLUB_Que "wikilink")。
+  - [2015年](../Page/2015年.md "wikilink")　4月29日、結成20周年記念ライブを同じく20周年となる[Swinging Popsicleを迎え下北沢](../Page/Swinging_Popsicle.md "wikilink")[CLUB Queで開催](../Page/CLUB_Que.md "wikilink")。
 
 ### エピソード
 
@@ -34,12 +34,12 @@
     ギター担当。1999年脱退。2003年に[虚血性心疾患](../Page/虚血性心疾患.md "wikilink")の発作により急逝。享年28
     毎年、命日の時期に『胸キュン☆アルペジオ』と冠した追悼ライブが行われている。在籍したadvantage LucyとVASALLO CRaB 75のほか、ゆかりのあるアーティスト・バンドが毎年ゲスト出演している。2012年には10周忌としてトリビュート盤『胸キュン☆アルペジオ〜Takayuki Fukumura with Friends』が発売された\[2\]
   - 坂本和子
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。1997年脱退
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。1997年脱退
 
 ### メンバーの音楽活動
 
   - 石坂と番場はLittlestoneのメンバーとして1997年にアルバム『Jasmine』を発表している。
-  - 番場と坂本は初期の[Luminous Orangeに在籍し](https://ja.wikipedia.org/wiki/ルミナスオレンジ "wikilink")、アルバム『Vivid Short Trip』『Waiting For The Summer』に参加している。
+  - 番場と坂本は初期の[Luminous Orangeに在籍し](../Page/ルミナスオレンジ.md "wikilink")、アルバム『Vivid Short Trip』『Waiting For The Summer』に参加している。
   - 福村は脱退後、VASALLO CRaB 75を結成し、アルバム『BREATHE』『flip turn』を発表した。
   - 初期において、ギターを持ったアイコを中心とする編成の活動をmaples（メイプルス）という名義で行っていた。
   - 番場はかつてnails of hawaiianにも在籍していた。
@@ -70,7 +70,7 @@
 <li>鈴掛けの木</li>
 <li>nothing</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「POP FILE」エンディング・テーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「POP FILE」エンディング・テーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -93,7 +93,7 @@
 <li>chick</li>
 <li>anytime everywhere,I’m blue</li>
 </ol></td>
-<td><p>TBS系列<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVオープニングテーマ</a><br />
+<td><p>TBS系列<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVオープニングテーマ</a><br />
 オリコン最高73位</p></td>
 </tr>
 <tr class="even">
@@ -401,30 +401,30 @@ QIAG-70082</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                                 | 規格品番          | 収録曲                                                                                                                              |
-| ----------- | ---------------------------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 年月日         | 米国音楽 vol. 10 付録CD『WINTER ROSE』                                                                       |               | Lucy Van Pelt名義「カタクリの花」を収録                                                                                                       |
-| 年月日         | GOD'S POP records フリーCD『LP night special』                                                            |               | Lucy Van Pelt名義「空は動かずに」「red bicycle」を収録                                                                                          |
-| 1996年12月29日 | GOD'S POP records『return of GuitarLightnin' HorrorSmilin'』                                           | CJGP-4012     | Lucy Van Pelt名義「red bicycle」「彼と彼女の事情」を収録                                                                                         |
-| 1997年08月30日 | sonorama records『pop jingu volume 1』                                                                 | CLCD-11101    | Lucy Van Pelt名義「sunny」およびmaples名義「color is navy」を収録                                                                              |
-| 1998年02月21日 | CREAM CONE records『SPLASH DIVE\!』                                                                    | CCCC-2000     | Lucy Van Pelt名義「Change」を収録                                                                                                       |
-| 1999年11月10日 | NEXT・ZIP-FM(スペシャルコンピレーションアルバム)                                                                       | TOCT-24251    | 「Solaris」を収録                                                                                                                     |
-| 2001年09月25日 | V.A.『killermont street 2001』（[LD\&K Records](https://ja.wikipedia.org/wiki/LD&K_Records "wikilink")） | 37-LDKCD      | 「地球 (far away ver.)」を収録                                                                                                          |
-| 2003年       | [演劇集団キャラメルボックス](https://ja.wikipedia.org/wiki/演劇集団キャラメルボックス "wikilink")『キャラメルボックスサウンドブック「太陽まであと一歩」』  | CBST-00020    | 「響かせて」「地球」「PHOTOGRAPH(gentle waves version)」およびLucy Van Pelt名義「sunny」を収録                                                         |
-| 2004年       | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「スキップ」』                                                                | CBST-00032    | 「everything (skip mix)」「everything (skip mix)」「is this love? (skip mix)」「Hello mate\!」およびLucy Van Pelt名義「Hammock waltz」「Nico」を収録 |
-| 2005年01月26日 | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「OPENINGS」』                                                            | MTCA-1017     | 「PHOTOGRAPH -gentle waves version-」を収録                                                                                           |
-| 2005年9月7日   | 『歌力』                                                                                                 | CJCD-6011     | 「フリスビー」「Children Of Summer (feat. Aiko from Lucy Van Pelt) / Color Filter」を収録                                                    |
-| 2006年3月23日  | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「クロノス」』                                                                | CBST-00039    | 「朱い夏」「潮騒」を収録                                                                                                                     |
-| 2006年4月28日  | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「あした あなた あいたい」「ミス・ダンデライオン」』                                            | CBST-00041/42 | 「Smile」「潮騒」を収録                                                                                                                   |
-| 2008年04月09日 | FRESH CUTS FROM JAPAN-VOLUME 2                                                                       | MOR-6922      | 「Everything」を収録                                                                                                                  |
-| 2008年11月23日 | 君の心臓の鼓動が聞こえる場所                                                                                       | CBST00056     | 「my little holiday」を収録                                                                                                           |
-| 2009年       | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「Winter」』                                                              | CBST-00065    | 「everything (skip mix)」を収録                                                                                                       |
-| 2010年3月3日   | V.A. 『SWEET VOICES -FAIRY GIRLFRIENDS-』                                                              | UVCA-3003     | 「Hello Again」を収録                                                                                                                 |
-| 2010年10月06日 | GOOD LOVIN' -下北系ギター・ポップコンピレーション-                                                                     | UVCA-3004     | 「Red Bicycle」を収録                                                                                                                 |
-| 2012年11月07日 | [古川本舗](https://ja.wikipedia.org/wiki/古川本舗 "wikilink")『ガールフレンド・フロム・キョウト』                              | PECF-3031     | 「KYOTO feat.アイコ(advantage Lucy)」を収録                                                                                              |
-| 2012年11月07日 | solaris records『胸キュン☆アルペジオ コンピレーションアルバム』                                                             | DQC-977       | 「is this love?」を収録                                                                                                               |
-| 2014年12月10日 | V.A.『[アオハライド](https://ja.wikipedia.org/wiki/アオハライド "wikilink")“MUSIC RIDE”』                          | ESCL-4321     | 「everytime everywhere, I'm blue」を収録                                                                                              |
-|             |                                                                                                      |               |                                                                                                                                  |
+| 発売日         | タイトル                                                                              | 規格品番          | 収録曲                                                                                                                              |
+| ----------- | --------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 年月日         | 米国音楽 vol. 10 付録CD『WINTER ROSE』                                                    |               | Lucy Van Pelt名義「カタクリの花」を収録                                                                                                       |
+| 年月日         | GOD'S POP records フリーCD『LP night special』                                         |               | Lucy Van Pelt名義「空は動かずに」「red bicycle」を収録                                                                                          |
+| 1996年12月29日 | GOD'S POP records『return of GuitarLightnin' HorrorSmilin'』                        | CJGP-4012     | Lucy Van Pelt名義「red bicycle」「彼と彼女の事情」を収録                                                                                         |
+| 1997年08月30日 | sonorama records『pop jingu volume 1』                                              | CLCD-11101    | Lucy Van Pelt名義「sunny」およびmaples名義「color is navy」を収録                                                                              |
+| 1998年02月21日 | CREAM CONE records『SPLASH DIVE\!』                                                 | CCCC-2000     | Lucy Van Pelt名義「Change」を収録                                                                                                       |
+| 1999年11月10日 | NEXT・ZIP-FM(スペシャルコンピレーションアルバム)                                                    | TOCT-24251    | 「Solaris」を収録                                                                                                                     |
+| 2001年09月25日 | V.A.『killermont street 2001』（[LD\&K Records](../Page/LD&K_Records.md "wikilink")） | 37-LDKCD      | 「地球 (far away ver.)」を収録                                                                                                          |
+| 2003年       | [演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")『キャラメルボックスサウンドブック「太陽まであと一歩」』  | CBST-00020    | 「響かせて」「地球」「PHOTOGRAPH(gentle waves version)」およびLucy Van Pelt名義「sunny」を収録                                                         |
+| 2004年       | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「スキップ」』                                             | CBST-00032    | 「everything (skip mix)」「everything (skip mix)」「is this love? (skip mix)」「Hello mate\!」およびLucy Van Pelt名義「Hammock waltz」「Nico」を収録 |
+| 2005年01月26日 | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「OPENINGS」』                                         | MTCA-1017     | 「PHOTOGRAPH -gentle waves version-」を収録                                                                                           |
+| 2005年9月7日   | 『歌力』                                                                              | CJCD-6011     | 「フリスビー」「Children Of Summer (feat. Aiko from Lucy Van Pelt) / Color Filter」を収録                                                    |
+| 2006年3月23日  | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「クロノス」』                                             | CBST-00039    | 「朱い夏」「潮騒」を収録                                                                                                                     |
+| 2006年4月28日  | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「あした あなた あいたい」「ミス・ダンデライオン」』                         | CBST-00041/42 | 「Smile」「潮騒」を収録                                                                                                                   |
+| 2008年04月09日 | FRESH CUTS FROM JAPAN-VOLUME 2                                                    | MOR-6922      | 「Everything」を収録                                                                                                                  |
+| 2008年11月23日 | 君の心臓の鼓動が聞こえる場所                                                                    | CBST00056     | 「my little holiday」を収録                                                                                                           |
+| 2009年       | 演劇集団キャラメルボックス『キャラメルボックスサウンドブック「Winter」』                                           | CBST-00065    | 「everything (skip mix)」を収録                                                                                                       |
+| 2010年3月3日   | V.A. 『SWEET VOICES -FAIRY GIRLFRIENDS-』                                           | UVCA-3003     | 「Hello Again」を収録                                                                                                                 |
+| 2010年10月06日 | GOOD LOVIN' -下北系ギター・ポップコンピレーション-                                                  | UVCA-3004     | 「Red Bicycle」を収録                                                                                                                 |
+| 2012年11月07日 | [古川本舗](https://ja.wikipedia.org/wiki/古川本舗 "wikilink")『ガールフレンド・フロム・キョウト』           | PECF-3031     | 「KYOTO feat.アイコ(advantage Lucy)」を収録                                                                                              |
+| 2012年11月07日 | solaris records『胸キュン☆アルペジオ コンピレーションアルバム』                                          | DQC-977       | 「is this love?」を収録                                                                                                               |
+| 2014年12月10日 | V.A.『[アオハライド](https://ja.wikipedia.org/wiki/アオハライド "wikilink")“MUSIC RIDE”』       | ESCL-4321     | 「everytime everywhere, I'm blue」を収録                                                                                              |
+|             |                                                                                   |               |                                                                                                                                  |
 
 ## ミュージックビデオ
 

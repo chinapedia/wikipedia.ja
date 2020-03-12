@@ -1,7 +1,7 @@
 > この記事は[Smile \(THE YELLOW MONKEY\)](https://ja.wikipedia.org/wiki/Smile_\(THE_YELLOW_MONKEY\))から翻訳されています。
 
 
-『**smile**』（スマイル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")4枚目のオリジナルアルバム。
+『**smile**』（スマイル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](../Page/THE_YELLOW_MONKEY.md "wikilink")4枚目のオリジナルアルバム。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")・トライアドレーベルよりリリースされた。 また、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[ミニディスク](../Page/ミニディスク.md "wikilink")盤が、[2000年](../Page/2000年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")に廉価盤が再発された。さらに、[2013年](../Page/2013年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に、リマスター盤Blu-spec CD2にて再発売された。
 
@@ -9,8 +9,8 @@
 
   - 前作『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』がコンセプト・アルバムであったのに対し、今作は吉井曰く「ハード・フレンチ・ポップを目指した」作品となっている。これは純粋にメンバーの「もっと売れたい」「チャートの上位で勝負がしたい」という願いが結実したもので、初のオリコンチャートTOP10入りを果たすなど、狙い通り売上は前作に比べ大幅にアップした\[1\]。
   - タイトルの『smile』は、吉井曰く「シンプルでわかりやすいタイトルにしたかった」と語っている\[2\]。
-  - [ジャケットのデザインは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[スウェードのパロディ](https://ja.wikipedia.org/wiki/スウェード_\(バンド\) "wikilink")\[3\]\[4\]。
-  - バンドとして唯一[ミニディスク](../Page/ミニディスク.md "wikilink")盤(品番：COYA-54)が、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")にシングル「[追憶のマーメイド](https://ja.wikipedia.org/wiki/追憶のマーメイド "wikilink")」と初の日本武道館ライブを収録したVHS『[Cherry Blossom Revolution-Live at BUDOKAN-](https://ja.wikipedia.org/wiki/Cherry_Blossom_Revolution-Live_at_BUDOKAN- "wikilink")』と合わせて3タイトル同時発売された。
+  - [ジャケットのデザインは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[スウェードのパロディ](../Page/スウェード_\(バンド\).md "wikilink")\[3\]\[4\]。
+  - バンドとして唯一[ミニディスク](../Page/ミニディスク.md "wikilink")盤(品番：COYA-54)が、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")にシングル「[追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")」と初の日本武道館ライブを収録したVHS『[Cherry Blossom Revolution-Live at BUDOKAN-](https://ja.wikipedia.org/wiki/Cherry_Blossom_Revolution-Live_at_BUDOKAN- "wikilink")』と合わせて3タイトル同時発売された。
 
 ## 評価
 
@@ -18,7 +18,7 @@
 
 ## 収録曲
 
-  - 全作詞：[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")。
+  - 全作詞：[吉井和哉](../Page/吉井和哉.md "wikilink")。
 
 <!-- end list -->
 
@@ -62,11 +62,11 @@
 
 ## 参加ミュージシャン
 
-  - 吉井和哉 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[サウンドエフェクト](https://ja.wikipedia.org/wiki/サウンドエフェクト "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
+  - 吉井和哉 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
   - 菊地英昭 - ギター
-  - 廣瀬洋一 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 廣瀬洋一 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 菊地英二 - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - 古川貴司 - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - 古川貴司 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - 三国義貴 - [ピアノ](../Page/ピアノ.md "wikilink") (\#4, \#11)
   - Berobika Suzuki - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink") (\#1)
 

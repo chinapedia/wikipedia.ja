@@ -1,24 +1,24 @@
 > この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
 
 
-「**君が好き**」（きみがすき）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
+「**君が好き**」（きみがすき）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
 
 ## 概要
 
 本作は元日の火曜日に発売された。
 
-前作同様、約2ヶ月の短期間で発売されたシングル。アートディレクターは[信藤三雄](https://ja.wikipedia.org/wiki/信藤三雄 "wikilink")。
+前作同様、約2ヶ月の短期間で発売されたシングル。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では9thシングル「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」以来で自己最高記録タイとなる3週連続1位（合算週を含む）を獲得した。2002年度のオリコン年間シングルランキングで12位にランクインし、15thシングル「[終わりなき旅](https://ja.wikipedia.org/wiki/終わりなき旅 "wikilink")」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")度年間順位19位）以来4年ぶりにTOP20入りを果たした。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では9thシングル「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」以来で自己最高記録タイとなる3週連続1位（合算週を含む）を獲得した。2002年度のオリコン年間シングルランキングで12位にランクインし、15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")度年間順位19位）以来4年ぶりにTOP20入りを果たした。
 
 ## 収録曲
 
 1.  **君が好き**
-      - 作詞・作曲:[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")　編曲:[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
+      - 作詞・作曲:[桜井和寿](../Page/桜井和寿.md "wikilink")　編曲:[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
     <!-- end list -->
       -
         [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[アンティーク 〜西洋骨董洋菓子店〜](../Page/アンティーク_〜西洋骨董洋菓子店〜.md "wikilink")』挿入歌。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は病気の治療（というより延命）のために病院内の隣同士の部屋に隔離され、お互いに恋心を抱くもガラス越しにしか触れ合う事の出来ない男女を、彼らを哀れんだ桜井が不思議な力を使って解き放ち、初めて直接触れ合えた男女が病院の外に出たところで全てを見届けた桜井が他のメンバーの乗る車に入る、というものである。このミュージック・ビデオには[窪塚洋介](../Page/窪塚洋介.md "wikilink")が出演している。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 ＜micro＞](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は病気の治療（というより延命）のために病院内の隣同士の部屋に隔離され、お互いに恋心を抱くもガラス越しにしか触れ合う事の出来ない男女を、彼らを哀れんだ桜井が不思議な力を使って解き放ち、初めて直接触れ合えた男女が病院の外に出たところで全てを見届けた桜井が他のメンバーの乗る車に入る、というものである。このミュージック・ビデオには[窪塚洋介](../Page/窪塚洋介.md "wikilink")が出演している。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 ＜micro＞](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹下紘希](../Page/丹下紘希.md "wikilink")。
 2.  **さよなら2001年**
       - 作詞・作曲:桜井和寿　編曲:小林武史 & Mr.Children
     <!-- end list -->
@@ -28,10 +28,10 @@
 
 ## 収録アルバム
 
-  - 『[IT'S A WONDERFUL WORLD](https://ja.wikipedia.org/wiki/IT'S_A_WONDERFUL_WORLD "wikilink")』(\#1)
+  - 『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』(\#1)
   - 『[Mr.Children 2001-2005 <micro>](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』(\#1)
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』(\#1)
-  - 『[B-SIDE](https://ja.wikipedia.org/wiki/B-SIDE "wikilink")』(\#2)
+  - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』(\#2)
 
 [it:Kimi Ga Suki](https://ja.wikipedia.org/wiki/it:Kimi_Ga_Suki "wikilink")
 

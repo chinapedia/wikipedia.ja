@@ -1,11 +1,11 @@
 > この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
 
 
-**昌原LGセイカーズ**（チャンウォン・エルジー・セイカーズ、韓国語: LG 、英語:Changwon LG Sakers）は、[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[慶尚南道](../Page/慶尚南道.md "wikilink")[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。スポンサーは[LGエレクトロニクス](https://ja.wikipedia.org/wiki/LGエレクトロニクス "wikilink")。
+**昌原LGセイカーズ**（チャンウォン・エルジー・セイカーズ、韓国語: LG 、英語:Changwon LG Sakers）は、[大韓民国](../Page/大韓民国.md "wikilink")・[慶尚南道](../Page/慶尚南道.md "wikilink")[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。スポンサーは[LGエレクトロニクス](../Page/LGエレクトロニクス.md "wikilink")。
 
 ## 概略
 
-[韓国バスケットボールリーグ](https://ja.wikipedia.org/wiki/韓国バスケットボールリーグ "wikilink")の9番目の球団として2年目の1997-98シーズンから参加。当初の名前は本拠地の属する[慶尚南道](../Page/慶尚南道.md "wikilink")全域を意識して「**慶南（キョンナム）LGセイカーズ**」とし、本拠地をその道庁所在地である[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")に置いた。その後、より地域密着を計って都市名中心のチーム名称を推奨するリーグ側の要請をうけ、1998-99シーズンから現在のチーム名に。
+[韓国バスケットボールリーグ](../Page/韓国バスケットボールリーグ.md "wikilink")の9番目の球団として2年目の1997-98シーズンから参加。当初の名前は本拠地の属する[慶尚南道](../Page/慶尚南道.md "wikilink")全域を意識して「**慶南（キョンナム）LGセイカーズ**」とし、本拠地をその道庁所在地である[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")に置いた。その後、より地域密着を計って都市名中心のチーム名称を推奨するリーグ側の要請をうけ、1998-99シーズンから現在のチーム名に。
 
 2000-2001シーズンにはファイナルまで進出するが、[ソウル三星サンダース](../Page/ソウル三星サンダース.md "wikilink")に敗退。
 
@@ -41,7 +41,7 @@
 ## 主な歴代所属選手
 
   - [ジェラルド・ハニーカット](https://ja.wikipedia.org/wiki/ジェラルド・ハニーカット "wikilink")
-  - [レジー・ウォーレン](https://ja.wikipedia.org/wiki/レジー・ウォーレン "wikilink")
+  - [レジー・ウォーレン](../Page/レジー・ウォーレン.md "wikilink")
   - [T・J・カミングス](https://ja.wikipedia.org/wiki/T・J・カミングス "wikilink")
   - [ジョシュア・ドラード](https://ja.wikipedia.org/wiki/ジョシュア・ドラード "wikilink")
   - [レイショーン・テリー](https://ja.wikipedia.org/wiki/レイショーン・テリー "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-[統計力学](../Page/統計力学.md "wikilink")において、**H定理**（エイチていり）とは、[理想気体](../Page/理想気体.md "wikilink")の[エントロピー](../Page/エントロピー.md "wikilink")が不可逆過程では増大することを示す[定理](../Page/定理.md "wikilink")。すなわち[熱力学第二法則](../Page/熱力学第二法則.md "wikilink")を分子論的に説明するものである。[1872年](../Page/1872年.md "wikilink")、[ルートヴィッヒ・ボルツマン](../Page/ルートヴィッヒ・ボルツマン.md "wikilink")が[ボルツマン方程式](https://ja.wikipedia.org/wiki/ボルツマン方程式 "wikilink")の考察から導いた。
+[統計力学](../Page/統計力学.md "wikilink")において、**H定理**（エイチていり）とは、[理想気体](../Page/理想気体.md "wikilink")の[エントロピー](../Page/エントロピー.md "wikilink")が不可逆過程では増大することを示す[定理](../Page/定理.md "wikilink")。すなわち[熱力学第二法則](../Page/熱力学第二法則.md "wikilink")を分子論的に説明するものである。[1872年](../Page/1872年.md "wikilink")、[ルートヴィッヒ・ボルツマン](../Page/ルートヴィッヒ・ボルツマン.md "wikilink")が[ボルツマン方程式](../Page/ボルツマン方程式.md "wikilink")の考察から導いた。
 
 微視的には可逆（[時間](../Page/時間.md "wikilink")反転可能）なはずの[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")的過程から、エントロピーの不可逆な増大が結論されるということで、当時から大いに議論を呼び、現在でも一般的に証明されたとはいえない状況にある。
 
@@ -15,11 +15,11 @@
 }\right\rangle\]
 
   -
-    ここで  は粒子の速度  に関する[確率密度関数](https://ja.wikipedia.org/wiki/確率密度関数 "wikilink")
+    ここで  は粒子の速度  に関する[確率密度関数](../Page/確率密度関数.md "wikilink")
 
-で定義される（つまり  の[平均](../Page/平均.md "wikilink")である）。これはのちに[クロード・シャノン](../Page/クロード・シャノン.md "wikilink")の定義した[情報エントロピーと同じ形である](https://ja.wikipedia.org/wiki/情報量 "wikilink")。
+で定義される（つまり  の[平均](../Page/平均.md "wikilink")である）。これはのちに[クロード・シャノン](../Page/クロード・シャノン.md "wikilink")の定義した[情報エントロピーと同じ形である](../Page/情報量.md "wikilink")。
 
-[ボルツマン](https://ja.wikipedia.org/wiki/ボルツマン "wikilink")は[ボルツマン方程式](https://ja.wikipedia.org/wiki/ボルツマン方程式 "wikilink")を用いてこの  を求めた。ボルツマン方程式は粒子間の衝突を表す項を含んでおり、これは一般には計算できないが、**[分子的混沌](https://ja.wikipedia.org/wiki/分子的混沌 "wikilink")の仮定**（衝突数の仮定）、つまり2粒子の速度の間には[相関](https://ja.wikipedia.org/wiki/相関 "wikilink")がないという仮定をおけば計算できる。
+[ボルツマン](https://ja.wikipedia.org/wiki/ボルツマン "wikilink")は[ボルツマン方程式](../Page/ボルツマン方程式.md "wikilink")を用いてこの  を求めた。ボルツマン方程式は粒子間の衝突を表す項を含んでおり、これは一般には計算できないが、**[分子的混沌](../Page/分子的混沌.md "wikilink")の仮定**（衝突数の仮定）、つまり2粒子の速度の間には[相関](https://ja.wikipedia.org/wiki/相関 "wikilink")がないという仮定をおけば計算できる。
 
 この場合、 を時間で微分したものの被積分関数は、 という形になる（ はそれぞれ2粒子の確率密度関数）。これは常に負または0であることから、 **は決して増大しない**ことが証明される。
 
@@ -33,7 +33,7 @@
 
 [ヨハン・ロシュミット](https://ja.wikipedia.org/wiki/ヨハン・ロシュミット "wikilink")は「時間対称的な力学から不可逆過程が導かれるはずがない、どこかに間違いがあるはずだ」と反論した（ロシュミットの逆行性批判、または[時間の矢](https://ja.wikipedia.org/wiki/時間の矢 "wikilink")の[パラドックス](../Page/パラドックス.md "wikilink")）。
 
-これに対する答えこそが、「[分子的混沌](https://ja.wikipedia.org/wiki/分子的混沌 "wikilink")の仮定」である。これにより、巨視的には時間対称性は破れることになる。ただし現在も、この仮定がない一般的な場合には、H定理は証明されていない。
+これに対する答えこそが、「[分子的混沌](../Page/分子的混沌.md "wikilink")の仮定」である。これにより、巨視的には時間対称性は破れることになる。ただし現在も、この仮定がない一般的な場合には、H定理は証明されていない。
 
 一方[エルンスト・ツェルメロ](../Page/エルンスト・ツェルメロ.md "wikilink")は、[ポアンカレの再帰性定理](https://ja.wikipedia.org/wiki/ポアンカレの再帰性定理 "wikilink")に基づき、「もとと同じ微視的状態に限りなく近づくことがあるはずだ」と主張した（ツェルメロの再帰性批判）。
 
@@ -43,9 +43,9 @@
 
 [ギブズ](../Page/ギブズ.md "wikilink")は[1902年](../Page/1902年.md "wikilink")に別の方法で  を定義し、やはり  が増加しないことを示した。
 
-この  はボルツマンの  とは異なり、[相空間](https://ja.wikipedia.org/wiki/相空間 "wikilink")内での分布関数を有限微小体積で平均化（[粗視化](https://ja.wikipedia.org/wiki/粗視化 "wikilink")）した上で、これから[積分](https://ja.wikipedia.org/wiki/積分 "wikilink")ではなく[総和](https://ja.wikipedia.org/wiki/総和 "wikilink")として定義したものである。厳密な分布関数を元にした  は[リウヴィルの定理により時間変化しないが](https://ja.wikipedia.org/wiki/リウヴィルの定理_\(物理学\) "wikilink")、粗視化すると減少しうるのである。
+この  はボルツマンの  とは異なり、[相空間](https://ja.wikipedia.org/wiki/相空間 "wikilink")内での分布関数を有限微小体積で平均化（[粗視化](../Page/粗視化.md "wikilink")）した上で、これから[積分](https://ja.wikipedia.org/wiki/積分 "wikilink")ではなく[総和](https://ja.wikipedia.org/wiki/総和 "wikilink")として定義したものである。厳密な分布関数を元にした  は[リウヴィルの定理により時間変化しないが](../Page/リウヴィルの定理_\(物理学\).md "wikilink")、粗視化すると減少しうるのである。
 
-ボルツマンの  は微視的な粒子の速度分布から求められた量である。それに対しギブズの  は、全粒子からなる微視的系の、巨視的系の中における分布（[統計集団](https://ja.wikipedia.org/wiki/統計集団 "wikilink")）から求められる点で異なる。
+ボルツマンの  は微視的な粒子の速度分布から求められた量である。それに対しギブズの  は、全粒子からなる微視的系の、巨視的系の中における分布（[統計集団](../Page/統計集団.md "wikilink")）から求められる点で異なる。
 
 ギブズの粗視化  は[平衡状態](https://ja.wikipedia.org/wiki/平衡状態 "wikilink")に向かって一方的に減少する傾向を示し、また平衡状態ではボルツマンの  と一致する。またボルツマンの分子的混沌仮定も、統計集団の乱雑さを分子論的に解釈したものと考えられ、それゆえこの"ギブズのH定理"はボルツマンのH定理を一般化したものと考えられている\[4\]。しかしギブズの粗視化  は、非平衡[定常状態](../Page/定常状態.md "wikilink")をうまく説明できないことが指摘されており、必ずしも一般的なものとはいえない。
 

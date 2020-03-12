@@ -1,7 +1,7 @@
 > この記事は[EMI 19941998 BEST OR WORST](https://ja.wikipedia.org/wiki/EMI_19941998_BEST_OR_WORST)から翻訳されています。
 
 
-『'''EMI 1994〜1998 BEST OR WORST '''』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『'''EMI 1994〜1998 BEST OR WORST '''』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@
   - 全曲リマスタリング。また、一部楽曲は本作用にリミックス・リレコーディングされており、特に『Drug Treatment』からの収録曲は、他の楽曲に比べかなりリファインされている。
   - 【SOFT DISK】の17曲目、【HARD DISK】の18曲目以降はライブ音源が収録されたが、いずれもツアー「TOUR Many SEX Years vol. 5//CORKSCREW A GO GO\!」より、12月6日の青森市文化会館での公演の音源が収録された。
   - シングル曲はメジャーデビュー曲「[for dear](https://ja.wikipedia.org/wiki/for_dear "wikilink")」を除く全曲が収録されている。
-  - 初期の音源については「演奏が未熟」との理由であまり選曲されておらず、1stアルバムからは【HARD DISK】1曲目に収録された「autism -自閉症-」のみ選曲された。しかし自閉症協会からのクレーム (「[自閉症](https://ja.wikipedia.org/wiki/自閉症 "wikilink")」という言葉の意味を歌詞内で取り違えていたことによる) で曲自体の収録が禁止された事により再発盤ではこの曲が無くなった。その為メジャーデビュー作からの曲は再発盤では一曲も無くなった。
+  - 初期の音源については「演奏が未熟」との理由であまり選曲されておらず、1stアルバムからは【HARD DISK】1曲目に収録された「autism -自閉症-」のみ選曲された。しかし自閉症協会からのクレーム (「[自閉症](../Page/自閉症.md "wikilink")」という言葉の意味を歌詞内で取り違えていたことによる) で曲自体の収録が禁止された事により再発盤ではこの曲が無くなった。その為メジャーデビュー作からの曲は再発盤では一曲も無くなった。
   - 黒夢解散ライブの前日である2009年1月28日にリマスター、[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")仕様で再発され、今まで入手困難だった「EITHER SIDE」と「MY STRANGE DAYS」が収録された。
   - 70万枚以上売り上げ (99年盤)、黒夢のCD作品では最も高い売上を記録した。
 

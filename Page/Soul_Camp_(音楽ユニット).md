@@ -1,11 +1,11 @@
 > この記事は[Soul Camp \(\)](https://ja.wikipedia.org/wiki/Soul_Camp_\(\))から翻訳されています。
 
 
-**Soul Camp**（そうる きゃんぷ）は、[沖縄出身の](../Page/沖縄県.md "wikilink")3人組[J-POP](../Page/J-POP.md "wikilink")・グループである。レーベルは[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。「Climax Entertainment」所属。
+**Soul Camp**（そうる きゃんぷ）は、[沖縄出身の](../Page/沖縄県.md "wikilink")3人組[J-POP](../Page/J-POP.md "wikilink")・グループである。レーベルは[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。「Climax Entertainment」所属。
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に半蔵とKOMEが出会い結成。その後ナオトが加入。2004年末ごろにサポートメンバーだったMORIKIが正式加入する。現在[ライブを中心に精力的に活動](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に半蔵とKOMEが出会い結成。その後ナオトが加入。2004年末ごろにサポートメンバーだったMORIKIが正式加入する。現在[ライブを中心に精力的に活動](../Page/演奏会.md "wikilink")。
 
 2008年12月をもって活動休止
 
@@ -49,7 +49,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11月3日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11月3日</a></p></td>
 <td><p><strong>BIG MAMA</strong></p></td>
 <td><p>CLRE-1010</p></td>
 <td><ol>
@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BIG_MAMA_(Soul_Campの曲)" title="wikilink">BIG MAMA</a></strong></p></td>
 <td><p>WPCL-10183</p></td>
 <td><ol>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>Journey</strong></p></td>
 <td><p>WPCL-10268</p></td>
 <td><ol>
@@ -122,7 +122,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td><p><strong>Soul Campus</strong></p></td>
 <td><p>WPCL-10230</p></td>
 <td><ol>

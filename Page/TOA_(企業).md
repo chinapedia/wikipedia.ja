@@ -1,15 +1,15 @@
 > この記事は[TOA \(\)](https://ja.wikipedia.org/wiki/TOA_\(\))から翻訳されています。
 
 
-**TOA株式会社**（ティーオーエー、）は、業務用の[音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")と[セキュリティ機器](https://ja.wikipedia.org/wiki/セキュリティ機器 "wikilink")の専門メーカー。音響機器はPA/SR/拡声などの設備音響、セキュリティ機器は[監視カメラ](../Page/監視カメラ.md "wikilink")などの[映像機器](../Page/映像機器.md "wikilink")を中心とした[防犯装備](https://ja.wikipedia.org/wiki/防犯装備 "wikilink")を製造する。本社は神戸市中央区港島中町7丁目2番1号（[ポートアイランド](../Page/ポートアイランド.md "wikilink")）。“TOA”とは旧社名の東亞特殊電機株式会社でのブランドネーム“トーア”が語源とされている。
+**TOA株式会社**（ティーオーエー、）は、業務用の[音響機器](../Page/音響機器.md "wikilink")と[セキュリティ機器](https://ja.wikipedia.org/wiki/セキュリティ機器 "wikilink")の専門メーカー。音響機器はPA/SR/拡声などの設備音響、セキュリティ機器は[監視カメラ](../Page/監視カメラ.md "wikilink")などの[映像機器](../Page/映像機器.md "wikilink")を中心とした[防犯装備](../Page/防犯装備.md "wikilink")を製造する。本社は神戸市中央区港島中町7丁目2番1号（[ポートアイランド](../Page/ポートアイランド.md "wikilink")）。“TOA”とは旧社名の東亞特殊電機株式会社でのブランドネーム“トーア”が語源とされている。
 
 ## 概要
 
-1954年、[拡声器として知られている](https://ja.wikipedia.org/wiki/メガホン "wikilink")「[電気メガホン](https://ja.wikipedia.org/wiki/メガホン "wikilink")」を世界で初めて開発した企業である。その後、選挙活動用の車載型[アンプで事業の基礎を築く](https://ja.wikipedia.org/wiki/増幅回路 "wikilink")。「機器ではなく音を買っていただく」を企業哲学とし、音の入り口の[マイクロフォン](../Page/マイクロフォン.md "wikilink")から、音の出口の[スピーカー](../Page/スピーカー.md "wikilink")までを取り揃え、公共空間における施設全体の[放送設備](https://ja.wikipedia.org/wiki/放送設備 "wikilink")を手がけている。現在の日本の[空港](../Page/空港.md "wikilink")施設の放送設備においては、シェアが90%を超えていると謳っている。1962年には、巨大な[ホーンスピーカー](https://ja.wikipedia.org/wiki/ホーンスピーカー "wikilink")を用いて「どこまで音が届くか？」という実験を行なった。1968年、メディカルエレクトロニクス部門を、東亞医用電子株式会社（現:[シスメックス](https://ja.wikipedia.org/wiki/シスメックス "wikilink")株式会社）として分社した。
+1954年、[拡声器として知られている](../Page/メガホン.md "wikilink")「[電気メガホン](../Page/メガホン.md "wikilink")」を世界で初めて開発した企業である。その後、選挙活動用の車載型[アンプで事業の基礎を築く](../Page/増幅回路.md "wikilink")。「機器ではなく音を買っていただく」を企業哲学とし、音の入り口の[マイクロフォン](../Page/マイクロフォン.md "wikilink")から、音の出口の[スピーカー](../Page/スピーカー.md "wikilink")までを取り揃え、公共空間における施設全体の[放送設備](https://ja.wikipedia.org/wiki/放送設備 "wikilink")を手がけている。現在の日本の[空港](../Page/空港.md "wikilink")施設の放送設備においては、シェアが90%を超えていると謳っている。1962年には、巨大な[ホーンスピーカー](https://ja.wikipedia.org/wiki/ホーンスピーカー "wikilink")を用いて「どこまで音が届くか？」という実験を行なった。1968年、メディカルエレクトロニクス部門を、東亞医用電子株式会社（現:[シスメックス](../Page/シスメックス.md "wikilink")株式会社）として分社した。
 
-製造する業務用の音響機器として代表的なものに、駅の案内放送や学校の校内放送など、公共空間で使用される拡声放送機器がある。そのほか、火災時などに使用される非常用放送設備やホール音響などの業務用オーディオ、議会場や裁判所などで使用される議場用システムを製造する。一方、業務用の映像機器では、[監視カメラ](../Page/監視カメラ.md "wikilink")や[記録装置](https://ja.wikipedia.org/wiki/記録装置 "wikilink")を中心とした、[セキュリティの分野に使用される映像機器を製造している](https://ja.wikipedia.org/wiki/保安 "wikilink")。
+製造する業務用の音響機器として代表的なものに、駅の案内放送や学校の校内放送など、公共空間で使用される拡声放送機器がある。そのほか、火災時などに使用される非常用放送設備やホール音響などの業務用オーディオ、議会場や裁判所などで使用される議場用システムを製造する。一方、業務用の映像機器では、[監視カメラ](../Page/監視カメラ.md "wikilink")や[記録装置](https://ja.wikipedia.org/wiki/記録装置 "wikilink")を中心とした、[セキュリティの分野に使用される映像機器を製造している](../Page/保安.md "wikilink")。
 
-[みどり会](https://ja.wikipedia.org/wiki/みどり会 "wikilink")の会員企業であり[三和グループ](https://ja.wikipedia.org/wiki/三和グループ "wikilink")に属している\[1\]。
+[みどり会](../Page/みどり会.md "wikilink")の会員企業であり[三和グループ](../Page/三和グループ.md "wikilink")に属している\[1\]。
 
 ## 沿革
 
@@ -29,10 +29,10 @@
   - 1990年（平成2年）フルデジタルミキシングシステム「ix-9000」を開発。
   - [1994年](../Page/1994年.md "wikilink")（平成6年）世界初のディーゼルエンジン排気消音システムの実用化に成功。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）「メセナ大賞'95」の大賞を受賞。
-  - [1996年](../Page/1996年.md "wikilink")（平成8年）[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")市場第二部に上場。
+  - [1996年](../Page/1996年.md "wikilink")（平成8年）[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部に上場。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）東京証券取引所市場第一部、大阪証券取引所市場第一部に上場。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）ネットワークPAシステム「Packet Audio」（NX-100）を開発。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）日本初のハイインピーダンス対応デジタル方式「マルチチャンネルパワーアンプ」を開発。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）日本初のハイインピーダンス対応デジタル方式「マルチチャンネルパワーアンプ」を開発。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）登記上商号もTOA株式会社に変更。
 
 ## 主な製品
@@ -45,14 +45,14 @@
   - ポータブルアンプ
   - [アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")
   - [マイクロフォン](../Page/マイクロフォン.md "wikilink")
-  - [メガホン](https://ja.wikipedia.org/wiki/メガホン "wikilink")
+  - [メガホン](../Page/メガホン.md "wikilink")
   - [スピーカー](../Page/スピーカー.md "wikilink") - [消音スピーカー](../Page/消音スピーカー.md "wikilink")
   - 音響調整機器
   - インターカムシステム
   - 会議用システム
   - 議場用システム
   - BGM再生装置（フィデリパックプレーヤー）
-  - [ミキシング・コンソール](https://ja.wikipedia.org/wiki/ミキシング・コンソール "wikilink")
+  - [ミキシング・コンソール](../Page/ミキシング・コンソール.md "wikilink")
 
 ## JR東日本での使用
 
@@ -64,7 +64,7 @@
 
 ## 関連項目
 
-  - [神戸ルミナリエ](https://ja.wikipedia.org/wiki/神戸ルミナリエ "wikilink") - 協賛企業の一員として、音響設備を供給している。
+  - [神戸ルミナリエ](../Page/神戸ルミナリエ.md "wikilink") - 協賛企業の一員として、音響設備を供給している。
   - [吉村弘](https://ja.wikipedia.org/wiki/吉村弘 "wikilink")
 
 ## 外部リンク

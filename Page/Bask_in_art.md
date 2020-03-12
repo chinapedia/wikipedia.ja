@@ -1,7 +1,7 @@
 > この記事は[Bask in art](https://ja.wikipedia.org/wiki/Bask_in_art)から翻訳されています。
 
 
-「**bask in art**」(バスク・イン・アート) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[歌手](../Page/歌手.md "wikilink")、[清春](https://ja.wikipedia.org/wiki/清春 "wikilink")の5枚目のシングル。
+「**bask in art**」(バスク・イン・アート) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[歌手](../Page/歌手.md "wikilink")、[清春](../Page/清春.md "wikilink")の5枚目のシングル。
 
 ## 概要
 

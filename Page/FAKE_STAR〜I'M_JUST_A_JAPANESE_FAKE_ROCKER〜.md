@@ -11,31 +11,31 @@
   - 「SEE YOU」はBメロに歌詞が追加されている。
   - 「S.O.S」はライブの定番曲。ライブでは必ずイントロを流した後にサビの最後を歌ってから演奏する事が多い
   - 「「H･L･M」 is ORIGINAL」の歌詞は、全て暗号のようなオリジナルの言語であり解読不能である。「H･L･M」とは「Habit･Lyric･Melody」の頭文字であり、レコーディングの仮歌をそのまま録音したもの。
-  - 「IV "EITHER SIDE"」は 後に、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")でのライヴで無料配布され、[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")に提供した楽曲のワンフレーズである。
+  - 「IV "EITHER SIDE"」は 後に、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")でのライヴで無料配布され、[高橋克典](../Page/高橋克典.md "wikilink")に提供した楽曲のワンフレーズである。
   - 「夢」はソロ名義で発売された『[エレジー](https://ja.wikipedia.org/wiki/エレジー_\(清春のアルバム\) "wikilink")』にはアコースティックバージョンで再録されている
 
 ## 収録曲
 
 ## 参加ミュージシャン
 
-  - [清春](https://ja.wikipedia.org/wiki/清春 "wikilink"): Vocals
-  - [人時](https://ja.wikipedia.org/wiki/人時 "wikilink") :Bass & guitar (M-6)
-  - [そうる透](https://ja.wikipedia.org/wiki/そうる透 "wikilink"): Drums
-  - [是永巧一](https://ja.wikipedia.org/wiki/是永巧一 "wikilink"): Guitar (M-3, 14)
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink"): Guitar (M-7, 13, 15)、Keyboards (M-7, 13, 15)、Programing (M-7, 13, 15)
+  - [清春](../Page/清春.md "wikilink"): Vocals
+  - [人時](../Page/人時.md "wikilink") :Bass & guitar (M-6)
+  - [そうる透](../Page/そうる透.md "wikilink"): Drums
+  - [是永巧一](../Page/是永巧一.md "wikilink"): Guitar (M-3, 14)
+  - [佐久間正英](../Page/佐久間正英.md "wikilink"): Guitar (M-7, 13, 15)、Keyboards (M-7, 13, 15)、Programing (M-7, 13, 15)
   - [原田喧太](../Page/原田喧太.md "wikilink"): Guitar (M-2, 4, 9, 10, 11, 16)
   - 高島政晴: Guitar (M-6)
   - [長谷川浩](https://ja.wikipedia.org/wiki/長谷川浩 "wikilink"): Guitar (M-2, 4, 10, 11)
-  - [西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink"): Keyboards (M-3) & programing (M-3)
-  - [菊地圭介](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink"): Keyboards (M-2, 4, 6, 7, 9, 10, 11, 16) & programing (M-2, 4, 6, 9, 10, 11, 16)
+  - [西平彰](../Page/西平彰.md "wikilink"): Keyboards (M-3) & programing (M-3)
+  - [菊地圭介](../Page/菊地圭介.md "wikilink"): Keyboards (M-2, 4, 6, 7, 9, 10, 11, 16) & programing (M-2, 4, 6, 9, 10, 11, 16)
   - [小滝みつる](https://ja.wikipedia.org/wiki/小滝みつる "wikilink"): Keyboards (M-14)
-  - [鈴木秋則](https://ja.wikipedia.org/wiki/鈴木秋則 "wikilink"): Keyboards
+  - [鈴木秋則](../Page/鈴木秋則.md "wikilink"): Keyboards
 
 ## アルバム曲タイアップ
 
   - **FAKE STAR**
       -
-        [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink") 「BLITZ INDEX」 OPテーマ
+        [TBS](../Page/TBSテレビ.md "wikilink") 「BLITZ INDEX」 OPテーマ
   - **BARTER**
       -
         [コカ・コーラ](../Page/コカ・コーラ.md "wikilink") 「sprite Cool」 CMソング (清春出演)

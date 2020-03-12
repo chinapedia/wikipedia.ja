@@ -290,7 +290,7 @@ BNCP-163</p></td>
 <li>海に浮かぶ星 / <a href="https://ja.wikipedia.org/wiki/Kanako_Yamamoto" title="wikilink">Kanako Yamamoto</a></li>
 <li>ひま人 / <a href="https://ja.wikipedia.org/wiki/番場ひろかず" title="wikilink">番場ひろかず</a></li>
 <li>無題(ベースレス) / <a href="https://ja.wikipedia.org/wiki/島田研介" title="wikilink">島田研介</a></li>
-<li>mellow,mellow / <a href="https://ja.wikipedia.org/wiki/□□□" title="wikilink">□□□</a></li>
+<li>mellow,mellow / <a href="../Page/□□□.md" title="wikilink">□□□</a></li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -317,9 +317,9 @@ BNCP-163</p></td>
 <li>KARASU ON MY SHOULDER / <a href="https://ja.wikipedia.org/wiki/騒音寺" title="wikilink">騒音寺</a></li>
 <li>東京タワー / <a href="../Page/ママスタジヲ.md" title="wikilink">ママスタジヲ</a></li>
 <li>生け贄のJesus Child / <a href="../Page/Limited_Express_(has_gone?).md" title="wikilink">Limited Express (has gone?)</a></li>
-<li>たった2つの冴えたやり方 / <a href="https://ja.wikipedia.org/wiki/ロボピッチャー" title="wikilink">ロボピッチャー</a></li>
+<li>たった2つの冴えたやり方 / <a href="../Page/ロボピッチャー.md" title="wikilink">ロボピッチャー</a></li>
 <li>紅い女 / <a href="https://ja.wikipedia.org/wiki/Chains_(バンド)" title="wikilink">Chains</a></li>
-<li>ハナレバナレ / <a href="https://ja.wikipedia.org/wiki/キセル_(バンド)" title="wikilink">キセル</a></li>
+<li>ハナレバナレ / <a href="../Page/キセル_(バンド).md" title="wikilink">キセル</a></li>
 <li>僕らは電気の原始人 / <a href="https://ja.wikipedia.org/wiki/Bad_Stuff" title="wikilink">Bad Stuff</a></li>
 <li>わかってくれない / <a href="https://ja.wikipedia.org/wiki/Lucky_Lips" title="wikilink">Lucky Lips</a></li>
 <li>それだけ / <a href="https://ja.wikipedia.org/wiki/奥田昌也" title="wikilink">奥田昌也</a></li>
@@ -334,21 +334,21 @@ BNCP-163</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/くるり鶏びゅ〜と" title="wikilink">くるり鶏びゅ〜と</a></strong></p></td>
 <td><p>BNCL-40</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/赤い電車_(曲)" title="wikilink">赤い電車</a> / <a href="https://ja.wikipedia.org/wiki/anonymass" title="wikilink">anonymass</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ロックンロール_(くるりの曲)" title="wikilink">ロックンロール</a> / <a href="https://ja.wikipedia.org/wiki/andymori" title="wikilink">andymori</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Baby_I_Love_You_(くるりの曲)" title="wikilink">Baby I Love You</a> / <a href="../Page/矢野顕子.md" title="wikilink">矢野顕子</a></li>
+<li><a href="../Page/赤い電車_(曲).md" title="wikilink">赤い電車</a> / <a href="https://ja.wikipedia.org/wiki/anonymass" title="wikilink">anonymass</a></li>
+<li><a href="../Page/ロックンロール_(くるりの曲).md" title="wikilink">ロックンロール</a> / <a href="https://ja.wikipedia.org/wiki/andymori" title="wikilink">andymori</a></li>
+<li><a href="../Page/Baby_I_Love_You_(くるりの曲).md" title="wikilink">Baby I Love You</a> / <a href="../Page/矢野顕子.md" title="wikilink">矢野顕子</a></li>
 <li><a href="../Page/ばらの花.md" title="wikilink">ばらの花</a> / <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/言葉はさんかく_こころは四角" title="wikilink">言葉はさんかく こころは四角</a> / <a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
-<li>さよならストレンジャー / <a href="https://ja.wikipedia.org/wiki/曽我部恵一" title="wikilink">曽我部恵一</a></li>
+<li>さよならストレンジャー / <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 <li><a href="../Page/虹_(くるりの曲).md" title="wikilink">虹</a> / <a href="../Page/ハンバート_ハンバート.md" title="wikilink">ハンバート ハンバート</a></li>
 <li><a href="../Page/ワンダーフォーゲル_(曲).md" title="wikilink">ワンダーフォーゲル</a> / <a href="../Page/高野寛.md" title="wikilink">高野寛</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ワールズエンド・スーパーノヴァ" title="wikilink">ワールズエンド・スーパーノヴァ EVERLUST MIX)</a>(FPM / <a href="https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine" title="wikilink">Fantastic Plastic Machine</a></li>
-<li>飴色の部屋 / <a href="https://ja.wikipedia.org/wiki/MASS_OF_THE_FERMENTING_DREGS" title="wikilink">MASS OF THE FERMENTING DREGS</a></li>
-<li><a href="../Page/青い空.md" title="wikilink">青い空</a> / <a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li><a href="../Page/ワールズエンド・スーパーノヴァ.md" title="wikilink">ワールズエンド・スーパーノヴァ EVERLUST MIX)</a>(FPM / <a href="../Page/Fantastic_Plastic_Machine.md" title="wikilink">Fantastic Plastic Machine</a></li>
+<li>飴色の部屋 / <a href="../Page/MASS_OF_THE_FERMENTING_DREGS.md" title="wikilink">MASS OF THE FERMENTING DREGS</a></li>
+<li><a href="../Page/青い空.md" title="wikilink">青い空</a> / <a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li><a href="../Page/春風_(くるりの曲).md" title="wikilink">春風</a> / <a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハイウェイ_(曲)" title="wikilink">ハイウェイ</a> / <a href="../Page/LITTLE_CREATURES.md" title="wikilink">LITTLE CREATURES</a></li>
-<li>宿はなし / <a href="https://ja.wikipedia.org/wiki/二階堂和美" title="wikilink">二階堂和美</a></li>
-<li>Old-fashioned / <a href="https://ja.wikipedia.org/wiki/キセル_(バンド)" title="wikilink">キセル</a></li>
+<li><a href="../Page/ハイウェイ_(曲).md" title="wikilink">ハイウェイ</a> / <a href="../Page/LITTLE_CREATURES.md" title="wikilink">LITTLE CREATURES</a></li>
+<li>宿はなし / <a href="../Page/二階堂和美.md" title="wikilink">二階堂和美</a></li>
+<li>Old-fashioned / <a href="../Page/キセル_(バンド).md" title="wikilink">キセル</a></li>
 <li><a href="../Page/東京_(くるりの曲).md" title="wikilink">東京</a> / <a href="https://ja.wikipedia.org/wiki/世武裕子" title="wikilink">世武裕子</a></li>
 </ol></td>
 </tr>

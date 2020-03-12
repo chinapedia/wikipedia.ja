@@ -1,13 +1,13 @@
 > この記事は[KV](https://ja.wikipedia.org/wiki/KV)から翻訳されています。
 
 
-**YRKVメヘレン**（**Yellow Red [Koninklijke](https://ja.wikipedia.org/wiki/コーニンクレッカ "wikilink") Voetbalclub Mechelen**\[1\] ()）は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[アントウェルペン州](https://ja.wikipedia.org/wiki/アントウェルペン州 "wikilink")[メヘレン](../Page/メヘレン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**YRKVメヘレン**（**Yellow Red [Koninklijke](https://ja.wikipedia.org/wiki/コーニンクレッカ "wikilink") Voetbalclub Mechelen**\[1\] ()）は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[アントウェルペン州](../Page/アントウェルペン州.md "wikilink")[メヘレン](../Page/メヘレン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
 同じ街のライバル[KRCメヘレン](https://ja.wikipedia.org/wiki/KRCメヘレン "wikilink")の誕生から遅れること数ヶ月、[1904年](../Page/1904年.md "wikilink")10月に地元の学生たちによってクラブは創設された。最初のクラブ名はFCマリノワ (*Football Club Malinois*) 。その後、RFCマリノワ (*Royal Football Club Malinois*)、KFCマリノワ (*Koninklijke Football Club Malinois*)、KVメヘレン (*Koninklijke Voetbalklub Mechelen*)、YRKVメヘレン (*Yellow Red Koninklijke Voetbalclub Mechelen*) と改名された。
 
-1982年に地元出身の実業家ジョン・コルディエ（電器メーカーTelindus社長）が会長職に就任\[2\]。1980年代後半からリーグ上位に名を連ねるようになり、1987年に国内カップ戦に初優勝を果たした。これによって出場権を得た1987-88シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")においても快進撃を続け、決勝で[アヤックスを下し](https://ja.wikipedia.org/wiki/アヤックス・アムステルダム "wikilink")、タイトルを獲得。1988-89シーズンは、それまで2シーズン連続の準優勝に留まっていた国内リーグにおいて41年ぶりに優勝を成し遂げた。
+1982年に地元出身の実業家ジョン・コルディエ（電器メーカーTelindus社長）が会長職に就任\[2\]。1980年代後半からリーグ上位に名を連ねるようになり、1987年に国内カップ戦に初優勝を果たした。これによって出場権を得た1987-88シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")においても快進撃を続け、決勝で[アヤックスを下し](../Page/アヤックス・アムステルダム.md "wikilink")、タイトルを獲得。1988-89シーズンは、それまで2シーズン連続の準優勝に留まっていた国内リーグにおいて41年ぶりに優勝を成し遂げた。
 
 短期間でトップクラブの座に登りつめたKVメヘレンだったが、本業の経営に行き詰ったコルディエは主力選手を売却するようになり、1992年にクラブから去った\[3\]。1996-97シーズンには14シーズンぶりに2部リーグに降格。その後クラブは財政難に陥り2003年に破算をした。新たなクラブ名とともに再建されたクラブは、2003-04シーズンに3部リーグから再出発し、2007-08シーズンに1部リーグ復帰を果たした。
 
@@ -15,7 +15,7 @@
 
 ### 国内タイトル
 
-  - **[ベルギー・ファーストディビジョン](https://ja.wikipedia.org/wiki/ベルギー・ファースト・ディビジョンA "wikilink")：4回**
+  - **[ベルギー・ファーストディビジョン](../Page/ベルギー・ファースト・ディビジョンA.md "wikilink")：4回**
       - 1942-43, 1945-46, 1947-48, 1988-89
   - **[ベルギーカップ](https://ja.wikipedia.org/wiki/ベルギーカップ "wikilink")：2回**
       - 1986–87, 2018–19
@@ -39,7 +39,7 @@
 
 ## 歴代監督
 
-  - [ア・デモス](https://ja.wikipedia.org/wiki/ア・デモス "wikilink") 1986-1989, 2000-2002
+  - [ア・デモス](../Page/ア・デモス.md "wikilink") 1986-1989, 2000-2002
 
   - [ルート・クロル](https://ja.wikipedia.org/wiki/ルート・クロル "wikilink") 1989-1990
 
@@ -55,7 +55,7 @@
 
 ### GK
 
-  - [ミシェル・プロドーム](https://ja.wikipedia.org/wiki/ミシェル・プロドーム "wikilink") 1986-1994
+  - [ミシェル・プロドーム](../Page/ミシェル・プロドーム.md "wikilink") 1986-1994
 
   - [ケヴィン・ベゴイス](https://ja.wikipedia.org/wiki/ケヴィン・ベゴイス "wikilink") 2002-2003
 
@@ -63,9 +63,9 @@
 
   - [レオ・クライシュテルス](https://ja.wikipedia.org/wiki/レオ・クライシュテルス "wikilink") 1986-1992
 
-  - [遠藤雅大](https://ja.wikipedia.org/wiki/遠藤雅大 "wikilink") 2000-2001
+  - [遠藤雅大](../Page/遠藤雅大.md "wikilink") 2000-2001
 
-  - [ハイデン・フォックス](https://ja.wikipedia.org/wiki/ハイデン・フォックス "wikilink") 2000-2001
+  - [ハイデン・フォックス](../Page/ハイデン・フォックス.md "wikilink") 2000-2001
 
   - [陳昌源](https://ja.wikipedia.org/wiki/陳昌源 "wikilink") 2007-2013, 2016-2017
 
@@ -75,7 +75,7 @@
 
   - [エルウィン・クーマン](../Page/エルウィン・クーマン.md "wikilink") 1985-1990
 
-  - [マルク・ヴィルモッツ](https://ja.wikipedia.org/wiki/マルク・ヴィルモッツ "wikilink") 1988-1991
+  - [マルク・ヴィルモッツ](../Page/マルク・ヴィルモッツ.md "wikilink") 1988-1991
 
   - [アドリエ・ボヘルス](https://ja.wikipedia.org/wiki/アドリエ・ボヘルス "wikilink") 1990-1992
 
@@ -93,7 +93,7 @@
 
   - [クラス・インゲソン](https://ja.wikipedia.org/wiki/クラス・インゲソン "wikilink") 1990-1993
 
-  - [ケネット・アンデション](https://ja.wikipedia.org/wiki/ケネット・アンデション "wikilink") 1991-1993
+  - [ケネット・アンデション](../Page/ケネット・アンデション.md "wikilink") 1991-1993
 
   - [ビョルン・フレミンクス](https://ja.wikipedia.org/wiki/ビョルン・フレミンクス "wikilink") 2006-2009
 

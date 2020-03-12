@@ -33,13 +33,13 @@
 <!-- end list -->
 
   -
-    [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。血液型はO型。趣味は妄想と猫探し。リーダー担当。
+    [大阪府](../Page/大阪府.md "wikilink")出身。血液型はO型。趣味は妄想と猫探し。リーダー担当。
 
 ※現メンバーは2人とも名前が「はるか」であるが、現ユニット名に改称した際、黒木が片岡にじゃんけんで負けたため、上記の愛称となった。
 
 ### 元メンバー
 
-  - **MAMI**（後藤 真美〔ごとう まみ〕、[1988年](../Page/1988年.md "wikilink")[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink") - ）
+  - **MAMI**（後藤 真美〔ごとう まみ〕、[1988年](../Page/1988年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   -
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。2009年12月脱退。
+    [東京都](../Page/東京都.md "wikilink")出身。2009年12月脱退。
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
   -
     [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[士別市](../Page/士別市.md "wikilink")出身。血液型はA型。身長：161cm。姉が1人いる\[4\]。
     特技はテニスとピアノ。中学時代はテニス部のキャプテンを務めていた\[5\]。
-    2011年、[D1グランプリのイメージガール](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")「D Sign」にタレントの[小林アナ](https://ja.wikipedia.org/wiki/小林アナ "wikilink")と共に選ばれる。
+    2011年、[D1グランプリのイメージガール](../Page/全日本プロドリフト選手権.md "wikilink")「D Sign」にタレントの[小林アナ](https://ja.wikipedia.org/wiki/小林アナ "wikilink")と共に選ばれる。
     2013年5月16日に脱退\[6\]。現在はソロでタレント業に専念している。
 
 ## ディスコグラフィー
@@ -123,7 +123,7 @@
   - [火星から来た蜘蛛の群れとグラマラスエンジェル](https://ja.wikipedia.org/wiki/火星から来た蜘蛛の群れとグラマラスエンジェル "wikilink")（2007年9月29日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）　※黒木、片岡、後藤、鈴木が出演
   - [ブザー・ビート〜崖っぷちのヒーロー〜](https://ja.wikipedia.org/wiki/ブザー・ビート〜崖っぷちのヒーロー〜 "wikilink")（2009年7月-9月、フジテレビ） - チアリーダー役 ※第2話以降は本名で出演
   - [しぇいけんBABY\! -Shakespeare Syndrome-](https://ja.wikipedia.org/wiki/しぇいけんBABY!_-Shakespeare_Syndrome- "wikilink")（2010年1月3日、フジテレビ） - 藤井小百合 役 ※鈴木蛍のみ出演
-  - [警部補 矢部謙三](https://ja.wikipedia.org/wiki/警部補_矢部謙三 "wikilink")（2010年4月30日、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）※黒木晴香のみ出演
+  - [警部補 矢部謙三](https://ja.wikipedia.org/wiki/警部補_矢部謙三 "wikilink")（2010年4月30日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）※黒木晴香のみ出演
   - [うたなび\!](https://ja.wikipedia.org/wiki/うたなび! "wikilink")（2010年7月-） - メンバーが月替わりで出演
 
 ### ラジオ

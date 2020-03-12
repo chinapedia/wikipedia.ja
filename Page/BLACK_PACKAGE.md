@@ -5,11 +5,11 @@
 
 ## 概要
 
-[ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")株式会社に販売を委託しているが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月までの発売タイトルは[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")（CSA）でなく[コンピューターソフトウェア倫理機構](https://ja.wikipedia.org/wiki/コンピューターソフトウェア倫理機構 "wikilink")の審査を受けていた。2010年6月、CSAへ審査団体を変更すると共にCSAの審査基準に準拠した旧作のリニューアル版を順次、再発売している。
+[ホビボックス](../Page/ホビボックス.md "wikilink")株式会社に販売を委託しているが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月までの発売タイトルは[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")（CSA）でなく[コンピューターソフトウェア倫理機構](https://ja.wikipedia.org/wiki/コンピューターソフトウェア倫理機構 "wikilink")の審査を受けていた。2010年6月、CSAへ審査団体を変更すると共にCSAの審査基準に準拠した旧作のリニューアル版を順次、再発売している。
 
 元々はゲーム業界に参入した頃の株式会社[ゲオ販売](https://ja.wikipedia.org/wiki/ゲオ販売 "wikilink")のブランドで、代表作の1つである「[魅惑の調書](https://ja.wikipedia.org/wiki/魅惑の調書 "wikilink")」は当時の作品である。その後、1996年に独立して有限会社エッジを設立した。製作のペースが早く、1年に複数の作品を発売することもある
 
-事実上のKENJI氏の会社で、彼の代表作で[DISCOVERYの一ブランドの時代のBLACK](https://ja.wikipedia.org/wiki/DISCOVERY_\(ゲームブランド\) "wikilink") PACAGEから発売した「殻の中の小鳥」は秋葉原を[メイドの街にしたと言われる](https://ja.wikipedia.org/wiki/メイド#「メイド萌え」の成立 "wikilink")。
+事実上のKENJI氏の会社で、彼の代表作で[DISCOVERYの一ブランドの時代のBLACK](../Page/DISCOVERY_\(ゲームブランド\).md "wikilink") PACAGEから発売した「殻の中の小鳥」は秋葉原を[メイドの街にしたと言われる](https://ja.wikipedia.org/wiki/メイド#「メイド萌え」の成立 "wikilink")。
 
 KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
 
@@ -22,7 +22,7 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
 
 <!-- end list -->
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - [魅惑の調書](https://ja.wikipedia.org/wiki/魅惑の調書 "wikilink")（有限会社エッジ設立前。[MS-DOS](../Page/MS-DOS.md "wikilink")版。[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GEO / DISCOVERYが発売](https://ja.wikipedia.org/wiki/DISCOVERY_\(ゲームブランド\) "wikilink")）
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - [魅惑の調書](https://ja.wikipedia.org/wiki/魅惑の調書 "wikilink")（有限会社エッジ設立前。[MS-DOS](../Page/MS-DOS.md "wikilink")版。[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GEO / DISCOVERYが発売](../Page/DISCOVERY_\(ゲームブランド\).md "wikilink")）
   - [1996年](../Page/1996年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink") - [殻の中の小鳥](https://ja.wikipedia.org/wiki/殻の中の小鳥 "wikilink")（有限会社エッジ設立前。MS-DOS版。Windows版はGEO / DISCOVERYが、続編・リメイクは[STUDiO B-ROOMが発売](https://ja.wikipedia.org/wiki/STUDiO_B-ROOM "wikilink")）
   - 1996年[9月13日](../Page/9月13日.md "wikilink") - Get\!（MS-DOS版）
       - 1996年[12月12日](../Page/12月12日.md "wikilink") - Get\!（Windows版）
@@ -32,7 +32,7 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
   - 1997年[11月14日](../Page/11月14日.md "wikilink") - RK 〜リバーシブル・カルテ〜
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月28日](../Page/5月28日.md "wikilink") - 錬金術の娘
   - 1998年[12月24日](../Page/12月24日.md "wikilink") - プレシャスLOVE
-  - [1999年](../Page/1999年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - うつせみ 〜空蝉〜
+  - [1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") - うつせみ 〜空蝉〜
   - [2000年](../Page/2000年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - 逢魔ヶ刻の記憶
   - 2000年[6月23日](../Page/6月23日.md "wikilink") - チャットしようよ\!
   - 2000年[8月25日](../Page/8月25日.md "wikilink") - 神詩
@@ -43,13 +43,13 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
   - 2004年[4月9日](../Page/4月9日.md "wikilink") - スク×スク
   - 2004年[7月30日](../Page/7月30日.md "wikilink") - えろっ娘・ぐろぅあっぷ
   - 2004年[11月12日](../Page/11月12日.md "wikilink") - ひまわりヶ丘総合病院へようこそ♥
-  - 2004年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") - Sweet and Sweet
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月15日](../Page/4月15日.md "wikilink") - ままママ\!?
+  - 2004年[12月10日](../Page/12月10日.md "wikilink") - Sweet and Sweet
+  - [2005年](../Page/2005年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") - ままママ\!?
   - 2005年[7月15日](../Page/7月15日.md "wikilink") - ぷちぷち★ご奉仕
   - 2005年[10月14日](../Page/10月14日.md "wikilink") - オレの巫女さま 〜オレ巫女〜
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月14日](../Page/4月14日.md "wikilink") - 洗濯屋しんちゃん
+  - [2006年](../Page/2006年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - 洗濯屋しんちゃん
   - 2006年[7月28日](../Page/7月28日.md "wikilink") - 教えて\!ブルマ先生
-  - 2006年[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - ふたご姉 〜姉×2とのエッチな関係〜
+  - 2006年[10月13日](../Page/10月13日.md "wikilink") - ふたご姉 〜姉×2とのエッチな関係〜
   - [2007年](../Page/2007年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") - もも×もみ 〜私、癒しちゃいます〜
   - 2007年[11月9日](../Page/11月9日.md "wikilink") - 人妻ハーレム 〜ここは人妻楽園荘〜
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月12日](../Page/9月12日.md "wikilink") - 6人の女教師
@@ -68,8 +68,8 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
   - 1998年[10月23日](../Page/10月23日.md "wikilink") - 魔淫の宴
       - 1999年[10月22日](../Page/10月22日.md "wikilink") - 憂淫の虜 〜魔淫の宴より〜
       - 2000年[9月29日](../Page/9月29日.md "wikilink") - 魔淫の宴 〜ホワイトパッケージ〜（シナリオ、音声を追加したリニューアル版）
-  - 1999年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - 虚像庭園 〜少女の散る場所〜
-  - 2000年[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - 妖淫の館
+  - 1999年[4月8日](../Page/4月8日.md "wikilink") - 虚像庭園 〜少女の散る場所〜
+  - 2000年[10月27日](../Page/10月27日.md "wikilink") - 妖淫の館
   - 2001年[6月29日](../Page/6月29日.md "wikilink") - 姉妹教師 〜恥辱の時間割〜
   - 2001年[12月14日](../Page/12月14日.md "wikilink") - 白き天使達の輪舞
       - 2003年[4月25日](../Page/4月25日.md "wikilink") - 白き天使達の輪舞2
@@ -87,7 +87,7 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
   - 2008年[12月12日](../Page/12月12日.md "wikilink") - 牝奴の館
   - 2009年[6月12日](../Page/6月12日.md "wikilink") - ジェネクレイサー サキ
   - 2009年[12月11日](../Page/12月11日.md "wikilink") - くノ一 桔梗 〜幻想官能絵巻〜
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") - 聖皇女クラウディア
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月10日](../Page/12月10日.md "wikilink") - 聖皇女クラウディア
   - [2011年](../Page/2011年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") - 肛魔の巫女
   - 2011年[12月9日](../Page/12月9日.md "wikilink") - 淫淵の館
   - [2012年](../Page/2012年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") - 魔館の淫嬢
@@ -202,7 +202,7 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
 
 ## 関連項目
 
-  - [DISCOVERY (ゲームブランド)](https://ja.wikipedia.org/wiki/DISCOVERY_\(ゲームブランド\) "wikilink")
+  - [DISCOVERY (ゲームブランド)](../Page/DISCOVERY_\(ゲームブランド\).md "wikilink")
   - [STUDiO B-ROOM](https://ja.wikipedia.org/wiki/STUDiO_B-ROOM "wikilink")
 
 ## 外部リンク

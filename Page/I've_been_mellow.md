@@ -7,27 +7,27 @@
 
   - [LP帯コピー](https://ja.wikipedia.org/wiki/帯_\(出版\)#レコード類の帯 "wikilink")：**愛の世代に贈るさわやかな予感**
   - 25thシングル「**[春の予感‐I've been mellow‐](https://ja.wikipedia.org/wiki/春の予感‐I've_been_mellow‐ "wikilink")**」とその[B面曲](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「**もどかしい夢**」、26thシングル「**[愛なき世代](../Page/愛なき世代.md "wikilink")**」とそのB面曲「**九月のエピソード**」を含む、18枚目のオリジナルアルバム。なお、「愛なき世代」「九月のエピソード」はアルバム・ヴァージョンでの収録となっている。
-  - 結婚後、姓を改めて活動を再開した[松任谷由実](../Page/松任谷由実.md "wikilink")から提供を受けた「**ミッドナイト・シンデレラ**」が収録されている。[荒井由実時代には](https://ja.wikipedia.org/wiki/松任谷由実#荒井由実時代 "wikilink")「[青春に恥じないように](../Page/青春に恥じないように.md "wikilink")」というシングル曲の提供を受けた（どちらも作詞のみ）。なお、"荒井由実"と"松任谷由実"の両名義でオリジナル楽曲の提供を受けている女性歌手は、南以外には[石川セリ](https://ja.wikipedia.org/wiki/石川セリ "wikilink")のみである。
+  - 結婚後、姓を改めて活動を再開した[松任谷由実](../Page/松任谷由実.md "wikilink")から提供を受けた「**ミッドナイト・シンデレラ**」が収録されている。[荒井由実時代には](https://ja.wikipedia.org/wiki/松任谷由実#荒井由実時代 "wikilink")「[青春に恥じないように](../Page/青春に恥じないように.md "wikilink")」というシングル曲の提供を受けた（どちらも作詞のみ）。なお、"荒井由実"と"松任谷由実"の両名義でオリジナル楽曲の提供を受けている女性歌手は、南以外には[石川セリ](../Page/石川セリ.md "wikilink")のみである。
   - 2005年、ソニーレコードのWeb通信販売サイト「Sony Music Shop」内の「オーダーメイドファクトリー」で、購入予約注文数が規定枚数に達したため、初[CD化が実現](../Page/コンパクトディスク.md "wikilink")（帯なし、プラスチックケース仕様）。その後程なく、[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")で再リリースされた。
-  - 35周年CD-BOX『[Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")』に収納された紙ジャケット盤には、「愛なき世代」「九月のエピソード」のシングル・ヴァージョンが[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録された。
-  - CDパッケージでの生産は中止されており、[音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")でのみ購入が可能である（2018年現在）。
+  - 35周年CD-BOX『[Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")』に収納された紙ジャケット盤には、「愛なき世代」「九月のエピソード」のシングル・ヴァージョンが[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録された。
+  - CDパッケージでの生産は中止されており、[音楽配信](../Page/音楽配信.md "wikilink")でのみ購入が可能である（2018年現在）。
 
 ## 収録曲
 
 ### オリジナル盤
 
 1.  **愛なき世代**
-      - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: 木戸一成、編曲: [川村栄二](https://ja.wikipedia.org/wiki/川村栄二 "wikilink")
+      - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: 木戸一成、編曲: [川村栄二](../Page/川村栄二.md "wikilink")
 2.  **ミッドナイト・シンデレラ**
-      - 作詞: [松任谷由実](../Page/松任谷由実.md "wikilink")、作曲: 原田良一、編曲: [馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+      - 作詞: [松任谷由実](../Page/松任谷由実.md "wikilink")、作曲: 原田良一、編曲: [馬飼野康二](../Page/馬飼野康二.md "wikilink")
 3.  **恋人達の場所**
-      - 作詞: [竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")、作曲: 梅垣達志、編曲: 川村栄二
+      - 作詞: [竜真知子](../Page/竜真知子.md "wikilink")、作曲: 梅垣達志、編曲: 川村栄二
 4.  **悲しきヒロイン**
       - 作詞: [中里綴](https://ja.wikipedia.org/wiki/中里綴 "wikilink")、作曲・編曲: 馬飼野康二
 5.  **そっと乾杯**
       - 作詞: 竜真知子、作曲: 梅垣達志、編曲: 川村栄二
 6.  **引き潮**
-      - 作詞: 中里綴、作曲: [都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink")、編曲: 川村栄二
+      - 作詞: 中里綴、作曲: [都倉俊一](../Page/都倉俊一.md "wikilink")、編曲: 川村栄二
     <!-- end list -->
       -
         オリジナル歌唱は、[狩人](../Page/狩人.md "wikilink")。
@@ -64,7 +64,7 @@
 10. **ジョーのコンサート**　
 11. **アンコール**　
 12. **春の予感－I've been mellow－**　
-13. **[愛なき世代 -Single-](../Page/愛なき世代.md "wikilink")**　＜[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")＞
+13. **[愛なき世代 -Single-](../Page/愛なき世代.md "wikilink")**　＜[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")＞
 14. **[九月のエピソード -Single-](https://ja.wikipedia.org/wiki/愛なき世代#収録曲 "wikilink")**　＜ボーナス・トラック＞
       -
         26thシングル「愛なき世代」のB面曲。
@@ -78,7 +78,7 @@
 
 ## 関連項目
 
-  - [1978年の音楽](https://ja.wikipedia.org/wiki/1978年の音楽 "wikilink")
+  - [1978年の音楽](../Page/1978年の音楽.md "wikilink")
   - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")
   - [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")
   - [松本隆](../Page/松本隆.md "wikilink")

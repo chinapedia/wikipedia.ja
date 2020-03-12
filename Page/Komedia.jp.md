@@ -1,7 +1,7 @@
 > この記事は[Komedia.jp](https://ja.wikipedia.org/wiki/Komedia.jp)から翻訳されています。
 
 
-『**komedia.jp**』（コメディアドットジェイピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")・[米米CLUB](../Page/米米CLUB.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[Sony Recordsから発売した](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")15枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**komedia.jp**』（コメディアドットジェイピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")・[米米CLUB](../Page/米米CLUB.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[Sony Recordsから発売した](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")15枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -15,13 +15,13 @@
 
 ## 収録曲
 
-1.  **[浪漫飛行](https://ja.wikipedia.org/wiki/浪漫飛行 "wikilink") '07** \[4:46\]
+1.  **[浪漫飛行](../Page/浪漫飛行.md "wikilink") '07** \[4:46\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞・作曲：[米米CLUB](../Page/米米CLUB.md "wikilink")
-        ホーン&ストリングスアレンジ：[フラッシュ金子](https://ja.wikipedia.org/wiki/金子隆博 "wikilink")
+        ホーン&ストリングスアレンジ：[フラッシュ金子](../Page/金子隆博.md "wikilink")
 
         </div>
 
@@ -53,7 +53,7 @@
         </div>
 
         </div>
-4.  **[E-ヨ](https://ja.wikipedia.org/wiki/E-ヨ "wikilink")** \[5:58\]
+4.  **[E-ヨ](../Page/E-ヨ.md "wikilink")** \[5:58\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -99,7 +99,7 @@
         </div>
 
         </div>
-8.  **[WELL COME 2](https://ja.wikipedia.org/wiki/WELL_COME_2 "wikilink") 〜Album Mix〜** \[4:22\]
+8.  **[WELL COME 2](../Page/WELL_COME_2.md "wikilink") 〜Album Mix〜** \[4:22\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -123,7 +123,7 @@
         </div>
 
         </div>
-10. **[君を離さない](https://ja.wikipedia.org/wiki/君を離さない "wikilink")** \[4:18\]
+10. **[君を離さない](../Page/君を離さない.md "wikilink")** \[4:18\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -146,21 +146,21 @@
         </div>
 
         </div>
-12. **[アイコトバはア・ブラ・カダ・ブラ](https://ja.wikipedia.org/wiki/アイコトバはア・ブラ・カダ・ブラ "wikilink") Remix 〜米米CLUB vs HOME MADE 家族〜** \[5:04\]
+12. **[アイコトバはア・ブラ・カダ・ブラ](../Page/アイコトバはア・ブラ・カダ・ブラ.md "wikilink") Remix 〜米米CLUB vs HOME MADE 家族〜** \[5:04\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：米米CLUB、[KURO](../Page/KURO.md "wikilink")、[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")、[U-ICHI](https://ja.wikipedia.org/wiki/U-ICHI "wikilink")
-        作曲：米米CLUB、KURO、MICRO、U-ICHI、[渡辺貴浩](https://ja.wikipedia.org/wiki/渡辺貴浩 "wikilink")
+        作曲：米米CLUB、KURO、MICRO、U-ICHI、[渡辺貴浩](../Page/渡辺貴浩.md "wikilink")
         リミックス：DJ U-ICHI
 
         </div>
 
         </div>
 
-        [HOME MADE 家族との](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[コラボレーション・シングルの](https://ja.wikipedia.org/wiki/コラボレーション#音楽 "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")バージョン。
-13. **[MATA(C)TANA](https://ja.wikipedia.org/wiki/MATA\(C\)TANA "wikilink")** \[5:22\]
+        [HOME MADE 家族との](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[コラボレーション・シングルの](https://ja.wikipedia.org/wiki/コラボレーション#音楽 "wikilink")[リミックス](../Page/リミックス.md "wikilink")バージョン。
+13. **[MATA(C)TANA](../Page/MATA\(C\)TANA.md "wikilink")** \[5:22\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -209,14 +209,14 @@
   - **[米米CLUB](../Page/米米CLUB.md "wikilink")**
       - [ジェームス小野田](https://ja.wikipedia.org/wiki/ジェームス小野田 "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - [カールスモーキー石井](https://ja.wikipedia.org/wiki/石井達也 "wikilink")：Vocal
-      - [BON](../Page/大久保謙作.md "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-      - [フラッシュ金子](https://ja.wikipedia.org/wiki/金子隆博 "wikilink")：[Sax](../Page/サクソフォーン.md "wikilink")、[Keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[三線](../Page/三線.md "wikilink")、Chorus、[Pro Tools](https://ja.wikipedia.org/wiki/Pro_Tools "wikilink") [Edit](../Page/編集.md "wikilink")、[Basic](https://ja.wikipedia.org/wiki/ベーシック "wikilink") [Arrangement](../Page/編曲.md "wikilink")
+      - [BON](../Page/大久保謙作.md "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+      - [フラッシュ金子](../Page/金子隆博.md "wikilink")：[Sax](../Page/サクソフォーン.md "wikilink")、[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")、[三線](../Page/三線.md "wikilink")、Chorus、[Pro Tools](../Page/Pro_Tools.md "wikilink") [Edit](../Page/編集.md "wikilink")、[Basic](https://ja.wikipedia.org/wiki/ベーシック "wikilink") [Arrangement](../Page/編曲.md "wikilink")
       - [MARI](https://ja.wikipedia.org/wiki/天ヶ谷真利 "wikilink")：[Dancer](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[Percussion](../Page/パーカッション.md "wikilink")、Chorus
-      - [MINAKO](https://ja.wikipedia.org/wiki/金子美奈子 "wikilink")：Dancer、[Choreographer](https://ja.wikipedia.org/wiki/振付師 "wikilink")、Chorus
-      - [BE](https://ja.wikipedia.org/wiki/林部直樹 "wikilink")：[Guitar](../Page/ギター.md "wikilink")、Chorus
+      - [MINAKO](https://ja.wikipedia.org/wiki/金子美奈子 "wikilink")：Dancer、[Choreographer](../Page/振付師.md "wikilink")、Chorus
+      - [BE](../Page/林部直樹.md "wikilink")：[Guitar](../Page/ギター.md "wikilink")、Chorus
       - [RYO-J](../Page/坂口良治.md "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")、Chorus
       - [ジョプリン得能](../Page/得能律郎.md "wikilink")：Guitar、Chorus
-  - [BIG HORNS BEE](https://ja.wikipedia.org/wiki/BIG_HORNS_BEE "wikilink")
+  - [BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")
       - [織田浩司](https://ja.wikipedia.org/wiki/織田浩司 "wikilink")：Alto Sax (\#1,2,4,5,8,9)、Baritone Sax (\#6)、Chorus (\#1,8)
       - [河合わかば](https://ja.wikipedia.org/wiki/河合わかば "wikilink")：[Trombone](../Page/トロンボーン.md "wikilink") (\#1,2,4,5,6,8,9,16)、Chorus (\#1,8)
       - [佐々木史郎](https://ja.wikipedia.org/wiki/佐々木史郎 "wikilink")：[Trumpet](../Page/トランペット.md "wikilink") (\#1,2,4,5,6,8,9,16)、[Flugel Horn](../Page/フリューゲルホルン.md "wikilink") (\#3)、Chorus (\#1,8)
@@ -225,15 +225,15 @@
   - [中島大之](https://ja.wikipedia.org/wiki/中島大之 "wikilink")：Horn (\#16)
   - [池田健司](https://ja.wikipedia.org/wiki/池田健司 "wikilink")：Guitar [Sampled](https://ja.wikipedia.org/wiki/サンプル "wikilink") (\#12)
   - [森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")：[Clavinet](../Page/クラビネット.md "wikilink") (\#4)
-  - [出口辰治](https://ja.wikipedia.org/wiki/出口辰治 "wikilink")：[Vibraphone](https://ja.wikipedia.org/wiki/ヴィブラフォン "wikilink") (\#5)
+  - [出口辰治](https://ja.wikipedia.org/wiki/出口辰治 "wikilink")：[Vibraphone](../Page/ヴィブラフォン.md "wikilink") (\#5)
   - [河合代介](https://ja.wikipedia.org/wiki/河合代介 "wikilink")：[Organ](../Page/オルガン.md "wikilink") (\#9,16)
   - [菅木真智子](https://ja.wikipedia.org/wiki/菅木真智子 "wikilink")：Chorus (\#1〜9,16)
   - [MATARO](../Page/三沢またろう.md "wikilink")：[Conga](../Page/コンガ.md "wikilink") (\#9)、Chorus (\#1,4)
   - [清水美恵](https://ja.wikipedia.org/wiki/清水美恵 "wikilink")：Chorus (\#3,6,7,9,16)
   - [吉川智子](https://ja.wikipedia.org/wiki/吉川智子 "wikilink")：Chorus (\#3,6,7,9,16)
   - MCキッズ：[Kid's](../Page/子供.md "wikilink") Chorus (\#4)
-  - [弦一徹ストリングス](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")：[Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") (\#1,4,5,7,8,10,16)
-  - [真部裕](https://ja.wikipedia.org/wiki/真部裕 "wikilink")：[Fiddle Violin](https://ja.wikipedia.org/wiki/フィドル "wikilink") (\#15)
+  - [弦一徹ストリングス](../Page/落合徹也.md "wikilink")：[Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") (\#1,4,5,7,8,10,16)
+  - [真部裕](../Page/真部裕.md "wikilink")：[Fiddle Violin](../Page/フィドル.md "wikilink") (\#15)
 
 ## 外部リンク
 

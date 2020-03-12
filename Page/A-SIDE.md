@@ -1,7 +1,7 @@
 > この記事は[A-SIDE](https://ja.wikipedia.org/wiki/A-SIDE)から翻訳されています。
 
 
-**A-SIDE**（エー・サイド）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1998年結成。メンバーの脱退・活動休止を経て2002年に再結成。2007年[ユニバーサルミュージックよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**A-SIDE**（エー・サイド）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1998年結成。メンバーの脱退・活動休止を経て2002年に再結成。2007年[ユニバーサルミュージックよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## メンバー
 
@@ -47,7 +47,7 @@
     8.
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

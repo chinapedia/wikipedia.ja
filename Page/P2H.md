@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - 児島亮介（こじまりょうすけ、[1979年](../Page/1979年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）ボーカル・ギター。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身
+  - 児島亮介（こじまりょうすけ、[1979年](../Page/1979年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）ボーカル・ギター。[千葉県](../Page/千葉県.md "wikilink")出身
   - 椎名洋輔（しいなようすけ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）ギター。千葉県出身
   - 酒井勇也（さかいゆうや、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）ベース。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")出身
   - ハゼ（大宮洋介、[1979年](../Page/1979年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") - ）ドラム。千葉県出身
@@ -204,7 +204,7 @@
 <li>HARUIRO IN MY HEAD／<a href="https://ja.wikipedia.org/wiki/GAUCHE_(バンド)" title="wikilink">GAUCHE</a></li>
 <li>サテライト／<a href="https://ja.wikipedia.org/wiki/spotrain" title="wikilink">spotrain</a></li>
 <li>果敢夏－ハカナツ－／<a href="https://ja.wikipedia.org/wiki/STAY_wander_around" title="wikilink">STAY wander around</a></li>
-<li>独唱／<a href="https://ja.wikipedia.org/wiki/BITE_THE_LUNG" title="wikilink">BITE THE LUNG</a></li>
+<li>独唱／<a href="../Page/BITE_THE_LUNG.md" title="wikilink">BITE THE LUNG</a></li>
 </ol></td>
 <td><p>PICTUS</p></td>
 </tr>

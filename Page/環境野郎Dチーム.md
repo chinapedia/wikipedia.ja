@@ -1,11 +1,11 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-『**環境野郎Dチーム**』（かんきょうやろうディーチーム）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[9月17日](../Page/9月17日.md "wikilink")まで[フジテレビ系列で毎週月曜深夜に放送されていた情報](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**環境野郎Dチーム**』（かんきょうやろうディーチーム）は、[2007年](../Page/2007年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[9月17日](../Page/9月17日.md "wikilink")まで[フジテレビ系列で毎週月曜深夜に放送されていた情報](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 番組概要
 
-頭文字の“**D**”は「団塊」、そして「Danger」（危険）の“**D**”を表しており、メンバーは60歳前後の熟年世代の俳優たちで構成される。昨今問題視されている「環境問題」をテーマに、地球が抱えるさまざまな問題をすべての世代に訴えていく情報バラエティ番組。番組のネーミングは、1980年代に日本でも人気を博した[アメリカのアクションドラマの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[特攻野郎Aチーム](https://ja.wikipedia.org/wiki/特攻野郎Aチーム "wikilink")』が由来。 出演している大物俳優にコントをやらせる等シュールな演出が特徴である。
+頭文字の“**D**”は「団塊」、そして「Danger」（危険）の“**D**”を表しており、メンバーは60歳前後の熟年世代の俳優たちで構成される。昨今問題視されている「環境問題」をテーマに、地球が抱えるさまざまな問題をすべての世代に訴えていく情報バラエティ番組。番組のネーミングは、1980年代に日本でも人気を博した[アメリカのアクションドラマの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[特攻野郎Aチーム](../Page/特攻野郎Aチーム.md "wikilink")』が由来。 出演している大物俳優にコントをやらせる等シュールな演出が特徴である。
 
 ## 出演者
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [伊吹吾郎](https://ja.wikipedia.org/wiki/伊吹吾郎 "wikilink")
+  - [伊吹吾郎](../Page/伊吹吾郎.md "wikilink")
 
 <!-- end list -->
 
@@ -21,11 +21,11 @@
 
 <!-- end list -->
 
-  - [麻丘めぐみ](https://ja.wikipedia.org/wiki/麻丘めぐみ "wikilink")
-  - [小野寺昭](https://ja.wikipedia.org/wiki/小野寺昭 "wikilink")
-  - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")
-  - [小倉一郎](https://ja.wikipedia.org/wiki/小倉一郎 "wikilink")
-  - [笹野高史](https://ja.wikipedia.org/wiki/笹野高史 "wikilink")
+  - [麻丘めぐみ](../Page/麻丘めぐみ.md "wikilink")
+  - [小野寺昭](../Page/小野寺昭.md "wikilink")
+  - [大和田伸也](../Page/大和田伸也.md "wikilink")
+  - [小倉一郎](../Page/小倉一郎.md "wikilink")
+  - [笹野高史](../Page/笹野高史.md "wikilink")
 
 <!-- end list -->
 
@@ -38,21 +38,21 @@
 
 <!-- end list -->
 
-  - [福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")（第1回）
+  - [福田沙紀](../Page/福田沙紀.md "wikilink")（第1回）
   - [東原亜希](https://ja.wikipedia.org/wiki/東原亜希 "wikilink")（第2回）
   - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")（第3回）
-  - [杏さゆり](https://ja.wikipedia.org/wiki/杏さゆり "wikilink")（第4回）
+  - [杏さゆり](../Page/杏さゆり.md "wikilink")（第4回）
   - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（第5回）
   - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")（第6・7回）
-  - [川村ゆきえ](https://ja.wikipedia.org/wiki/川村ゆきえ "wikilink")（第8回）
-  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")（第9回）
-  - [松井絵里奈](https://ja.wikipedia.org/wiki/松井絵里奈 "wikilink")（第10回）
+  - [川村ゆきえ](../Page/川村ゆきえ.md "wikilink")（第8回）
+  - [中川翔子](../Page/中川翔子.md "wikilink")（第9回）
+  - [松井絵里奈](../Page/松井絵里奈.md "wikilink")（第10回）
   - [山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")（第11回）
   - [岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")（第13回）
-  - [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")（[加藤沙耶香](https://ja.wikipedia.org/wiki/加藤沙耶香 "wikilink")・[小泉瑠美](https://ja.wikipedia.org/wiki/小泉瑠美 "wikilink")・[遠藤舞](../Page/遠藤舞.md "wikilink")・[江渡万里彩](../Page/江渡万里彩.md "wikilink")・[滝口ミラ](https://ja.wikipedia.org/wiki/滝口ミラ "wikilink")・[外岡えりか](../Page/外岡えりか.md "wikilink")・[谷澤恵里香](../Page/谷澤恵里香.md "wikilink")・[フォンチー](https://ja.wikipedia.org/wiki/フォンチー "wikilink")・[横山ルリカ](../Page/横山ルリカ.md "wikilink")）（第15回）
-  - [佐藤寛子](https://ja.wikipedia.org/wiki/佐藤寛子_\(タレント\) "wikilink")（第16回）
+  - [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")（[加藤沙耶香](../Page/加藤沙耶香.md "wikilink")・[小泉瑠美](https://ja.wikipedia.org/wiki/小泉瑠美 "wikilink")・[遠藤舞](../Page/遠藤舞.md "wikilink")・[江渡万里彩](../Page/江渡万里彩.md "wikilink")・[滝口ミラ](https://ja.wikipedia.org/wiki/滝口ミラ "wikilink")・[外岡えりか](../Page/外岡えりか.md "wikilink")・[谷澤恵里香](../Page/谷澤恵里香.md "wikilink")・[フォンチー](https://ja.wikipedia.org/wiki/フォンチー "wikilink")・[横山ルリカ](../Page/横山ルリカ.md "wikilink")）（第15回）
+  - [佐藤寛子](../Page/佐藤寛子_\(タレント\).md "wikilink")（第16回）
   - [小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")（第17回）
-  - [金田美香](https://ja.wikipedia.org/wiki/金田美香 "wikilink")（第18回）
+  - [金田美香](../Page/金田美香.md "wikilink")（第18回）
   - [三倉茉奈](https://ja.wikipedia.org/wiki/三倉茉奈 "wikilink")・[三倉佳奈](https://ja.wikipedia.org/wiki/三倉佳奈 "wikilink")（第19回）
   - [マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")（第20回）
   - [小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")（第22回）
@@ -60,7 +60,7 @@
 <!-- end list -->
 
   -
-    若年層の視聴率を獲得するためという番組の名目上、団塊世代とは大きく年齢のギャップのある若手女性タレント・アイドルが毎週ゲストとして登場。また、第14回ではペットボトルリサイクル討論の中で[小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")が登場している。
+    若年層の視聴率を獲得するためという番組の名目上、団塊世代とは大きく年齢のギャップのある若手女性タレント・アイドルが毎週ゲストとして登場。また、第14回ではペットボトルリサイクル討論の中で[小島よしお](../Page/小島よしお.md "wikilink")が登場している。
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - [クリスティーナ](https://ja.wikipedia.org/wiki/クリスティーナ_\(モデル\) "wikilink")
+  - [クリスティーナ](../Page/クリスティーナ_\(モデル\).md "wikilink")
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@
 
 <!-- end list -->
 
-  - [政宗一成](https://ja.wikipedia.org/wiki/政宗一成 "wikilink")
+  - [政宗一成](../Page/政宗一成.md "wikilink")
 
 ## 内容
 
@@ -100,7 +100,7 @@
 
 ### Dチームリポート
 
-  - 「[ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン "wikilink")大量発生」（第1回・提案者：小野寺昭）
+  - 「[ハリセンボン](../Page/ハリセンボン.md "wikilink")大量発生」（第1回・提案者：小野寺昭）
   - 「絶滅危惧種の問題」（第2回・提案者：伊吹吾郎）
   - 「生活排水による水質汚染」（第3回・提案者：大和田伸也）
 
@@ -123,7 +123,7 @@
 <!-- end list -->
 
   - 「おしゃれリサイクル\!モデルさんのいらない服をもらおう\!\!Part3」（第10回・提案者：伊吹、小野寺）
-  - 「幻の絶滅種\![ツシマヤマネコ](https://ja.wikipedia.org/wiki/ツシマヤマネコ "wikilink")を追え・完全版」（第12回・提案者：伊吹）
+  - 「幻の絶滅種\![ツシマヤマネコ](../Page/ツシマヤマネコ.md "wikilink")を追え・完全版」（第12回・提案者：伊吹）
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
   - 「**い**つの間に氷が消えた[キリマンジャロ](../Page/キリマンジャロ.md "wikilink")」（伊吹）
   - 「**う**みの底[サンゴ](../Page/サンゴ.md "wikilink")の悲鳴が聞こえるかい」（大和田）
   - 「**え**んそくに来たはいいけどヒビ割れだ」（伊吹）
-  - 「**お**ん暖化[ツバル](https://ja.wikipedia.org/wiki/ツバル "wikilink")がもうすぐ沈みそう」（伊吹）
+  - 「**お**ん暖化[ツバル](../Page/ツバル.md "wikilink")がもうすぐ沈みそう」（伊吹）
 
 ### クイズ環境問題
 
@@ -157,28 +157,28 @@
 
 ### 吾郎とめぐみのおまけコーナー
 
-『[お笑いマンガ道場](../Page/お笑いマンガ道場.md "wikilink")』の「だん吉・なお美のおまけコーナー」をパロディ化した番組最後のコーナー。毎週、視聴者から送られてくる環境に関する質問を伊吹と麻丘が答えたり、[チーム・マイナス6%](https://ja.wikipedia.org/wiki/チーム・マイナス6% "wikilink")のDチームとしての活動状況を報告する。2人の後ろには似顔絵が書かれたイラストやお便りなどが貼られている。時間が足りなくなった場合は、お便りは紹介せず、告知のみとなる。時間が足りなかった場合の、伊吹「今日は時間がないんです」、麻丘「じゃあ、やらなきゃいいじゃないですか」、伊吹「なきゃないで寂しいじゃないですか」という伊吹と麻丘の掛け合いは定番となっている。また、伊吹はたまに京都で購入した[ブルガリ](https://ja.wikipedia.org/wiki/ブルガリ "wikilink")の[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をかけて登場する。これは、長文の告知を読む際に伊吹の視線がカンペに釘付けになるのをごまかすための措置と思われる。事実サングラスをかけて登場する際には長文の告知を読んでいる。第8回には、ゲストとして小野寺昭も参加した。更に、第9回と第10回は小野寺の他にも大和田と小倉も参加し、計5人でコーナーを進行した。
+『[お笑いマンガ道場](../Page/お笑いマンガ道場.md "wikilink")』の「だん吉・なお美のおまけコーナー」をパロディ化した番組最後のコーナー。毎週、視聴者から送られてくる環境に関する質問を伊吹と麻丘が答えたり、[チーム・マイナス6%](../Page/チーム・マイナス6%.md "wikilink")のDチームとしての活動状況を報告する。2人の後ろには似顔絵が書かれたイラストやお便りなどが貼られている。時間が足りなくなった場合は、お便りは紹介せず、告知のみとなる。時間が足りなかった場合の、伊吹「今日は時間がないんです」、麻丘「じゃあ、やらなきゃいいじゃないですか」、伊吹「なきゃないで寂しいじゃないですか」という伊吹と麻丘の掛け合いは定番となっている。また、伊吹はたまに京都で購入した[ブルガリ](../Page/ブルガリ.md "wikilink")の[サングラス](../Page/サングラス.md "wikilink")をかけて登場する。これは、長文の告知を読む際に伊吹の視線がカンペに釘付けになるのをごまかすための措置と思われる。事実サングラスをかけて登場する際には長文の告知を読んでいる。第8回には、ゲストとして小野寺昭も参加した。更に、第9回と第10回は小野寺の他にも大和田と小倉も参加し、計5人でコーナーを進行した。
 
 ### チーム・マイナス6%
 
-伊吹が2007年5月5日にフジテレビで開催された環境イベント「ガチャピン&ムックといっしょに学ぼう\!ストップ温暖化」に参加し、そこで[環境省](../Page/環境省.md "wikilink")[地球環境審議官](https://ja.wikipedia.org/wiki/地球環境審議官 "wikilink")・[小島敏郎](https://ja.wikipedia.org/wiki/小島敏郎 "wikilink")と知り合ったことがきっかけとなり、Dチームが環境省より、[チーム・マイナス6%](https://ja.wikipedia.org/wiki/チーム・マイナス6% "wikilink")の加入を要請されることになった。第9回のおまけコーナーにて、麻丘、小野寺、大和田、小倉は加入を快諾したが、加入のきっかけとなった伊吹だけが「Dチームというチームが別のチームに入るのはおかしい」という理由で一人加入を固辞した。結局、伊吹以外の麻丘、小野寺、大和田、小倉、そしてその場にはいなかったが笹野も2007年6月12日に正式にチーム・マイナス6%の一員となった。また、始めは加入することに難癖をつけていた伊吹も結局6月19日に加入することとなり、現状のDチームメンバーは全員加入した。
+伊吹が2007年5月5日にフジテレビで開催された環境イベント「ガチャピン&ムックといっしょに学ぼう\!ストップ温暖化」に参加し、そこで[環境省](../Page/環境省.md "wikilink")[地球環境審議官](../Page/地球環境審議官.md "wikilink")・[小島敏郎](https://ja.wikipedia.org/wiki/小島敏郎 "wikilink")と知り合ったことがきっかけとなり、Dチームが環境省より、[チーム・マイナス6%](../Page/チーム・マイナス6%.md "wikilink")の加入を要請されることになった。第9回のおまけコーナーにて、麻丘、小野寺、大和田、小倉は加入を快諾したが、加入のきっかけとなった伊吹だけが「Dチームというチームが別のチームに入るのはおかしい」という理由で一人加入を固辞した。結局、伊吹以外の麻丘、小野寺、大和田、小倉、そしてその場にはいなかったが笹野も2007年6月12日に正式にチーム・マイナス6%の一員となった。また、始めは加入することに難癖をつけていた伊吹も結局6月19日に加入することとなり、現状のDチームメンバーは全員加入した。
 
 ## エンディングテーマ
 
 一部の回では団塊ジュニア世代を代表し、フジテレビアナウンサー・[平井理央](../Page/平井理央.md "wikilink")が地球とDチームへの応援歌を歌った。第13回以降は、不定期でDチームメンバーが歌う環境クラシックとなった。
 
   - 『[グリーングリーン](https://ja.wikipedia.org/wiki/グリーングリーン "wikilink")』（第1回・第3回）
-  - 『[野に咲く花のように](https://ja.wikipedia.org/wiki/野に咲く花のように "wikilink")』（第2回・第5回）
-  - 『私だけの十字架』（『[特捜最前線](https://ja.wikipedia.org/wiki/特捜最前線 "wikilink")』主題歌、第4回・第11回）
-  - 『タンゴむりすんな\!』（『[あばれはっちゃく](https://ja.wikipedia.org/wiki/あばれはっちゃく "wikilink")』シリーズ主題歌、第12回）
+  - 『[野に咲く花のように](../Page/野に咲く花のように.md "wikilink")』（第2回・第5回）
+  - 『私だけの十字架』（『[特捜最前線](../Page/特捜最前線.md "wikilink")』主題歌、第4回・第11回）
+  - 『タンゴむりすんな\!』（『[あばれはっちゃく](../Page/あばれはっちゃく.md "wikilink")』シリーズ主題歌、第12回）
 
 ## スタッフ
 
-  - チーフプロデューサー：[宮道治朗](https://ja.wikipedia.org/wiki/宮道治朗 "wikilink")
-  - プロデューサー：[坪井貴史](https://ja.wikipedia.org/wiki/坪井貴史 "wikilink")
-  - 演出：木村剛、[蜜谷浩弥](https://ja.wikipedia.org/wiki/蜜谷浩弥 "wikilink")
+  - チーフプロデューサー：[宮道治朗](../Page/宮道治朗.md "wikilink")
+  - プロデューサー：[坪井貴史](../Page/坪井貴史.md "wikilink")
+  - 演出：木村剛、[蜜谷浩弥](../Page/蜜谷浩弥.md "wikilink")
   - ディレクター：石武士、小林智武、麻生裕久
-  - 構成：[酒井健作](https://ja.wikipedia.org/wiki/酒井健作 "wikilink")、[岐部昌幸](https://ja.wikipedia.org/wiki/岐部昌幸 "wikilink")、安部裕之
+  - 構成：[酒井健作](../Page/酒井健作.md "wikilink")、[岐部昌幸](../Page/岐部昌幸.md "wikilink")、安部裕之
   - アシスタントプロデューサー：倉科知美
   - 制作：フジテレビバラエティ制作センター
 
@@ -190,13 +190,13 @@
 | [岩手県](../Page/岩手県.md "wikilink")                                                     | [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")                | 同時ネット              |         |
 | [広島県](../Page/広島県.md "wikilink")                                                     | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")   |                    |         |
 | [長野県](../Page/長野県.md "wikilink")                                                     | [長野放送](../Page/長野放送.md "wikilink")                          | 月曜 24時35分 - 25時00分 | 14日遅れ   |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [テレビ西日本](../Page/テレビ西日本.md "wikilink")                      | 火曜 24時50分 - 25時15分 | 15日遅れ   |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [テレビ西日本](../Page/テレビ西日本.md "wikilink")                      | 火曜 24時50分 - 25時15分 | 15日遅れ   |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [テレビ熊本](../Page/テレビ熊本.md "wikilink")                        | 木曜 25時35分 - 26時00分 | 17日遅れ   |
 | [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink") | 水曜 24時35分 - 25時00分 | 23日遅れ   |
 | [長崎県](../Page/長崎県.md "wikilink")                                                     | [テレビ長崎](../Page/テレビ長崎.md "wikilink")                        | 火曜 24時35分 - 25時00分 | 29日遅れ   |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道文化放送](../Page/北海道文化放送.md "wikilink")                    | 火曜 24時45分 - 25時10分 |         |
 | [沖縄県](../Page/沖縄県.md "wikilink")                                                     | [沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")                      | 金曜 14時35分 - 15時00分 | 32日遅れ   |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")                                  | [さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")               | 木曜 24時35分 - 25時00分 | 38日遅れ   |
+| [山形県](../Page/山形県.md "wikilink")                                                     | [さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")               | 木曜 24時35分 - 25時00分 | 38日遅れ   |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [富山テレビ](../Page/富山テレビ放送.md "wikilink")                      | 月曜 25時35分 - 26時00分 | 56日遅れ   |
 | [静岡県](../Page/静岡県.md "wikilink")                                                     | [テレビ静岡](../Page/テレビ静岡.md "wikilink")                        | 木曜 25時15分 - 25時40分 | 59日遅れ   |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [仙台放送](../Page/仙台放送.md "wikilink")                          | 水曜 25時13分 - 25時38分 | 途中打ち切り  |
@@ -211,14 +211,14 @@
 
 ## 備考
 
-  - 番組冒頭のアイドリングトークにて、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のメガネの話や[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink")の都市伝説など、伊吹がスタジオを盛り上げられると豪語している鉄板話があった。しかし、番組内で披露されることはなかった。
+  - 番組冒頭のアイドリングトークにて、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のメガネの話や[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")の都市伝説など、伊吹がスタジオを盛り上げられると豪語している鉄板話があった。しかし、番組内で披露されることはなかった。
   - この番組では、メンバーが環境の話題から話が逸れそうになったり、他の番組で話したことをこの番組でも話そうとすると、他のメンバーから注意を受ける。しかし、番組がリニューアルされた第13回以降は注意されなくなった。
   - 番組エンディングの提供バックで、伊吹と大和田による掛け合いがあった。元ネタはお笑いコンビ・[クールポコ](https://ja.wikipedia.org/wiki/クールポコ "wikilink")の掛け合いから。
-  - 番組は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")に終了したが、同年[11月15日](../Page/11月15日.md "wikilink")に[TBS系の歌番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』の終盤で復活。伊吹、大和田、小野寺、麻丘の4人がDチームとして出演し、環境クラシック「[エリーゼのために](../Page/エリーゼのために.md "wikilink")」を熱唱した。Dチーム独特の掛け合いも復活。うたばんMCである[石橋貴明](../Page/石橋貴明.md "wikilink")、[中居正広](../Page/中居正広.md "wikilink")から突っ込みが入る中、番組の締め（次週のゲスト紹介、普段は中居が言っている「さようなり〜」等）もDチームメンバーが行った。
+  - 番組は[2007年](../Page/2007年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")に終了したが、同年[11月15日](../Page/11月15日.md "wikilink")に[TBS系の歌番組](../Page/TBSテレビ.md "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』の終盤で復活。伊吹、大和田、小野寺、麻丘の4人がDチームとして出演し、環境クラシック「[エリーゼのために](../Page/エリーゼのために.md "wikilink")」を熱唱した。Dチーム独特の掛け合いも復活。うたばんMCである[石橋貴明](../Page/石橋貴明.md "wikilink")、[中居正広](../Page/中居正広.md "wikilink")から突っ込みが入る中、番組の締め（次週のゲスト紹介、普段は中居が言っている「さようなり〜」等）もDチームメンバーが行った。
 
 ## 関連項目
 
-  - [特攻野郎Aチーム](https://ja.wikipedia.org/wiki/特攻野郎Aチーム "wikilink")
+  - [特攻野郎Aチーム](../Page/特攻野郎Aチーム.md "wikilink")
   - [お笑いマンガ道場](../Page/お笑いマンガ道場.md "wikilink")
 
 ## 外部リンク

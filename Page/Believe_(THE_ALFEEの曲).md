@@ -5,11 +5,11 @@
 
 ## 概要
 
-TBS系で放送された『[ムーブ](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\) "wikilink")』の主題歌。カップリングは同年の[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")イメージソング。
+TBS系で放送された『[ムーブ](../Page/ムーブ_\(バラエティー\).md "wikilink")』の主題歌。カップリングは同年の[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")イメージソング。
 
 前作に続いて桜井がリードヴォーカルを務める。前作に引き続き、TV・ライブでの歌唱時、桜井は[ベースを持たず歌唱する](https://ja.wikipedia.org/wiki/エレクトリック・ベース "wikilink")。
 
-「[恋人の歌がきこえる](https://ja.wikipedia.org/wiki/恋人の歌がきこえる_\(曲\) "wikilink")」以来3作振りにオリジナルアルバムへは未収録。
+「[恋人の歌がきこえる](../Page/恋人の歌がきこえる_\(曲\).md "wikilink")」以来3作振りにオリジナルアルバムへは未収録。
 
 ## 収録曲
 
@@ -28,8 +28,8 @@ TBS系で放送された『[ムーブ](https://ja.wikipedia.org/wiki/ムーブ_\
   - [THE ALFEE 單曲全集二](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE ALFEE SINGLE HISTORY VOL.IV 1991-1994](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.IV_1991-1994 "wikilink")（\#1,2）
   - [THE ALFEE 單曲特集](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
-  - [夢よ急げ -大阪国際女子マラソンイメージソング・アルバム-](https://ja.wikipedia.org/wiki/夢よ急げ_-大阪国際女子マラソンイメージソング・アルバム- "wikilink")（\#2）
-  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](https://ja.wikipedia.org/wiki/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37 "wikilink")（\#1）
+  - [夢よ急げ -大阪国際女子マラソンイメージソング・アルバム-](../Page/夢よ急げ_-大阪国際女子マラソンイメージソング・アルバム-.md "wikilink")（\#2）
+  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1）
 
 ## 関連作品
 

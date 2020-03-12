@@ -30,7 +30,7 @@ FlamencoとRockの融合というコンセプトで2006年結成。2007年メジ
   - 2006年2月23日 - 1st mini album「Rockamenco」を自主レーベルよりリリース。収録曲「Morena」が音楽ポータルサイト\[mF247\]のダウンロードチャートにて総合部門、ワールドミュージック部門で1位を獲得
   - 2006年9月 - 渋谷Duo Music Exchangeにて初のワンマン・ライブを行い400人を動員。このライブを最後にDrumsのYuyaが脱退
   - 2007年1月 - オーディションによりDrumsの[片田太郎](https://ja.wikipedia.org/wiki/片田太郎 "wikilink")加入
-  - 2007年5月 - 1st Maxi Single『Morena』でavex trax系SONIC GROOVEより[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。タイトル曲Morenaが[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[日立･世界ふしぎ発見\!のエンディング曲になる](https://ja.wikipedia.org/wiki/世界ふしぎ発見 "wikilink")
+  - 2007年5月 - 1st Maxi Single『Morena』でavex trax系SONIC GROOVEより[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。タイトル曲Morenaが[TBS系](../Page/TBSテレビ.md "wikilink")[日立･世界ふしぎ発見\!のエンディング曲になる](https://ja.wikipedia.org/wiki/世界ふしぎ発見 "wikilink")
   - 2007年6月 - Live Tour“Esperanza”で全国21カ所を回り、リニューアルされた赤坂BLITZのオープニングラインナップに登場する。
   - 2008年1月 - 2nd Single『Esperanza』リリース
   - 2008年2月 - 1st Full Album『PASION』リリース

@@ -1,7 +1,7 @@
 > この記事は[1944 THE LOOP MASTER](https://ja.wikipedia.org/wiki/1944_THE_LOOP_MASTER)から翻訳されています。
 
 
-『**1944 THE LOOP MASTER**』（イチキュウヨンヨン ザ・ループマスター）は2000年に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")より発売された縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。開発は[エイティング](https://ja.wikipedia.org/wiki/エイティング "wikilink")、[ライジング](../Page/ライジング.md "wikilink")。『[19XX -THE WAR AGAINST DESTINY-](https://ja.wikipedia.org/wiki/19XX_-THE_WAR_AGAINST_DESTINY- "wikilink")』から実に4年ぶりに発売された19シリーズの最新作。
+『**1944 THE LOOP MASTER**』（イチキュウヨンヨン ザ・ループマスター）は2000年に[カプコン](../Page/カプコン.md "wikilink")より発売された縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。開発は[エイティング](../Page/エイティング.md "wikilink")、[ライジング](../Page/ライジング.md "wikilink")。『[19XX -THE WAR AGAINST DESTINY-](../Page/19XX_-THE_WAR_AGAINST_DESTINY-.md "wikilink")』から実に4年ぶりに発売された19シリーズの最新作。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 BGMが従来のメロディアスな曲から一新され、ハードロック調になっているのも特徴の1つである。
 
-開発元がカプコン自社から外注へかわったせいか、前作の『19XX』や『[1941](https://ja.wikipedia.org/wiki/1941_Counter_Attack "wikilink")』の要素やゲーム性はほとんど引き継がれていない。縦スクロールのみの構成、画面の荒さやライフ制という観点からはむしろ『[1942](https://ja.wikipedia.org/wiki/1942_\(ゲーム\) "wikilink")』に近い。
+開発元がカプコン自社から外注へかわったせいか、前作の『19XX』や『[1941](../Page/1941_Counter_Attack.md "wikilink")』の要素やゲーム性はほとんど引き継がれていない。縦スクロールのみの構成、画面の荒さやライフ制という観点からはむしろ『[1942](../Page/1942_\(ゲーム\).md "wikilink")』に近い。
 
 ## システム
 

@@ -21,9 +21,9 @@
 <th><p>その他 = }} {{Infobox animanga/Manga</p></th>
 <th><p>タイトル = FORTUNE ARTERIAL―Character's Prelude</p></th>
 <th><p>作者 = オーガスト</p></th>
-<th><p>作画 = <a href="https://ja.wikipedia.org/wiki/佐々木あかね" title="wikilink">佐々木あかね</a></p></th>
+<th><p>作画 = <a href="../Page/佐々木あかね.md" title="wikilink">佐々木あかね</a></p></th>
 <th><p>出版社 = アスキー・メディアワークス</p></th>
-<th><p>掲載誌 = <a href="https://ja.wikipedia.org/wiki/電撃G&#39;s_magazine" title="wikilink">電撃G's magazine</a><br />
+<th><p>掲載誌 = <a href="../Page/電撃G&#39;s_magazine.md" title="wikilink">電撃G's magazine</a><br />
 （2007年9月号 - 2008年4月号）<br />
 <a href="https://ja.wikipedia.org/wiki/電撃G&#39;s_Festival!_COMIC" title="wikilink">電撃G's Festival! COMIC</a><br />
 （Vol.2）</p></th>
@@ -42,11 +42,11 @@
 
 ## 沿革
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")から同年[12月31日](../Page/12月31日.md "wikilink")まで開催された[コミックマーケット](../Page/コミックマーケット.md "wikilink")71の会場で配布されたオーガストオフィシャルハンドブックにて制作が発表された後、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")にはオーガスト公式ホームページ上で公式発表が行われた。当初は2007年冬発売と記されていたが、同年[10月19日](../Page/10月19日.md "wikilink")に発売日が2008年1月25日と発表され、予約キャンペーンや協賛店舗も発表された。約7万本の売り上げを記録した前作『[夜明け前より瑠璃色な](https://ja.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")』から約2年半ぶりの新作となるので、各雑誌が発表直後から特集記事を載せるなど大きく取り上げられた。『[PUSH\!\!](https://ja.wikipedia.org/wiki/PUSH!! "wikilink")』のtotoPUSH（アダルトゲーム売上ランキング）で2008年度年間2位になるなどの売り上げとなり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月](../Page/8月.md "wikilink")で売上本数10万本を達成した\[1\]。通常版は[2011年](../Page/2011年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")し、新たに[Windows 7対応版が](../Page/Microsoft_Windows_7.md "wikilink")2011年[7月29日](../Page/7月29日.md "wikilink")に発売された。
+[2006年](../Page/2006年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")から同年[12月31日](../Page/12月31日.md "wikilink")まで開催された[コミックマーケット](../Page/コミックマーケット.md "wikilink")71の会場で配布されたオーガストオフィシャルハンドブックにて制作が発表された後、[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")にはオーガスト公式ホームページ上で公式発表が行われた。当初は2007年冬発売と記されていたが、同年[10月19日](../Page/10月19日.md "wikilink")に発売日が2008年1月25日と発表され、予約キャンペーンや協賛店舗も発表された。約7万本の売り上げを記録した前作『[夜明け前より瑠璃色な](https://ja.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")』から約2年半ぶりの新作となるので、各雑誌が発表直後から特集記事を載せるなど大きく取り上げられた。『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』のtotoPUSH（アダルトゲーム売上ランキング）で2008年度年間2位になるなどの売り上げとなり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月](../Page/8月.md "wikilink")で売上本数10万本を達成した\[1\]。通常版は[2011年](../Page/2011年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")し、新たに[Windows 7対応版が](../Page/Microsoft_Windows_7.md "wikilink")2011年[7月29日](../Page/7月29日.md "wikilink")に発売された。
 
 『[コンプティーク](../Page/コンプティーク.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）2010年5月号にてアニメ化が発表された後、同年8月号では媒体が[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")であることが発表され、同年10月から12月まで放映された。
 
-2010年には[PlayStation Portableで](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『**FORTUNE ARTERIAL 伊織の野望**』\[2\]（フォーチュン アテリアル いおりのやぼう）と、[PlayStation 3への移植版](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『**FORTUNE ARTERIAL 赤い約束**』（フォーチュン アテリアル あかいやくそく）が同年冬にそれぞれ角川書店より発売されることが発表されたが、延期の発表を経て2011年8月3日にはオーガスト/ARIAから開発中止が表明された\[3\]。
+2010年には[PlayStation Portableで](../Page/PlayStation_Portable.md "wikilink")『**FORTUNE ARTERIAL 伊織の野望**』\[2\]（フォーチュン アテリアル いおりのやぼう）と、[PlayStation 3への移植版](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『**FORTUNE ARTERIAL 赤い約束**』（フォーチュン アテリアル あかいやくそく）が同年冬にそれぞれ角川書店より発売されることが発表されたが、延期の発表を経て2011年8月3日にはオーガスト/ARIAから開発中止が表明された\[3\]。
 
 ## あらすじ
 
@@ -62,23 +62,23 @@
 
 ## 登場人物
 
-※担当[声優](../Page/声優.md "wikilink")は、PC版・[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")版 / テレビアニメ版の順。
+※担当[声優](../Page/声優.md "wikilink")は、PC版・[ドラマCD](../Page/ドラマCD.md "wikilink")版 / テレビアニメ版の順。
 
 ### 主人公
 
   - 支倉 孝平（はせくら こうへい）
-    声 - [中本伸輔](../Page/中本伸輔.md "wikilink")（ドラマCDのみ） / [小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")（幼少期 - [高森奈津美](https://ja.wikipedia.org/wiki/高森奈津美 "wikilink")）
+    声 - [中本伸輔](../Page/中本伸輔.md "wikilink")（ドラマCDのみ） / [小野大輔](../Page/小野大輔.md "wikilink")（幼少期 - [高森奈津美](https://ja.wikipedia.org/wiki/高森奈津美 "wikilink")）
     身長：174.7cm 部屋番号：2A-18
     本作の主人公。修智館学院5年生。親の都合で転校を繰り返してきたが、薄い人間関係しか築けない生活に嫌気が差し、全寮制の修智館学院を転校先に選んだ。学院のある珠津島には以前に住んでいたことがあり、戻ってきたのは7年ぶりである。
     転入後は千堂伊織にスカウトされ、生徒会で活動。入試よりも難しい編入試験に合格し、大量にある生徒会の事務処理をこなすなどの能力を持ち合わせている。発想力や行動力もあり、生徒会でも新企画・イベントを発案、実行している。
-    常識人で適度に熱い好青年。見かけで人を判断することがなく、周囲から敬遠されている八幡平司ともすぐに友人関係を築いている。千堂兄妹やかなでといった濃いキャラクターがいることもあり、会話ではツッコミ役に回ることが多い。かなりの焼きそば好きであるが、[紅しょうが](https://ja.wikipedia.org/wiki/紅しょうが "wikilink")は食べ物ではないとして嫌っている。
+    常識人で適度に熱い好青年。見かけで人を判断することがなく、周囲から敬遠されている八幡平司ともすぐに友人関係を築いている。千堂兄妹やかなでといった濃いキャラクターがいることもあり、会話ではツッコミ役に回ることが多い。かなりの焼きそば好きであるが、[紅しょうが](../Page/紅しょうが.md "wikilink")は食べ物ではないとして嫌っている。
     瑛里華ルートでは屋敷から瑛里華を救うため千堂伽耶に会いにいくが、伽耶の手刃で致命傷を負ってしまう。その場に駆けつけた瑛里華に助けられたことで、彼女の眷属となる\[4\]。
 
 ### ヒロイン
 
   - 千堂 瑛里華（せんどう えりか）
-    声 - [観村咲子](https://ja.wikipedia.org/wiki/観村咲子 "wikilink") / [神田理江](https://ja.wikipedia.org/wiki/神田理江 "wikilink")
-    誕生日：[6月7日](../Page/6月7日.md "wikilink") 血液型：B型 星座：[ふたご座](../Page/ふたご座.md "wikilink") 身長：159.8cm [3サイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：82（C）/55/83 部屋番号：4A-01 テーマ曲「smile for me」
+    声 - [観村咲子](../Page/観村咲子.md "wikilink") / [神田理江](../Page/神田理江.md "wikilink")
+    誕生日：[6月7日](../Page/6月7日.md "wikilink") 血液型：B型 星座：[ふたご座](../Page/ふたご座.md "wikilink") 身長：159.8cm [3サイズ](../Page/スリーサイズ.md "wikilink")：82（C）/55/83 部屋番号：4A-01 テーマ曲「smile for me」
     孝平と同じ5年生で、生徒会副会長を務めている。猫舌で甘いものが好き。孫と祖父以上に年が離れているが、会長の伊織を兄に持ち、文武両道かつ容姿端麗だが猫舌なのが玉に瑕。
     好奇心旺盛で常に真っ直ぐな性格。また、それだけの能力を持ちながらも気取ることなく気さくに話をするため、学院では人気者である。一度何かをし始めると周りを顧みずパワフルに突き進む姿勢から、一部では「突撃副会長」とも呼ばれる。しかし、そんな中でも綿密な計画を立てるという慎重さも兼ね備えている。学院の生徒全員が楽しく過ごせるためには自らの犠牲も厭わない。
     元人間で、蒼珠から誕生した吸血鬼であり、一度自分達との関わりを拒んだ孝平の記憶を不本意ながら消そうとした。しかし、実際は人の血を吸う事や眷属を作る事を一番に嫌っており、代わりに輸血用パックで吸血衝動を緩和している。
@@ -87,14 +87,14 @@
     携帯電話の着信音は、歌劇『ジョコンダ』の「時の踊り」である。
     オフィシャルサイトでの人気投票では第2位。
   - 東儀 白（とうぎ しろ）
-    声 - [姫川あいり](https://ja.wikipedia.org/wiki/姫川あいり "wikilink") / [峰岸由香里](https://ja.wikipedia.org/wiki/峰岸由香里 "wikilink")
+    声 - [姫川あいり](../Page/姫川あいり.md "wikilink") / [峰岸由香里](https://ja.wikipedia.org/wiki/峰岸由香里 "wikilink")
     誕生日：[2月19日](../Page/2月19日.md "wikilink") 血液型：A型 星座：[うお座](../Page/うお座.md "wikilink") 身長：145.0cm 3サイズ：70（A）/51/72 部屋番号：4D-17 テーマ曲「白うさぎ」
     孝平の後輩で4年生。珠津島最大の実力者である東儀一族本家の娘。
     その容姿通り繊細で儚げなイメージがあり、人見知りをする性格。その上、純粋無垢なので冗談を本気にすることもしばしば。生徒会財務である征一郎を兄に持ち、彼の誘いを受け生徒会に籍を置いている。同時に礼拝堂の手伝いをする「ローレル・リング」という組織に前期課程時から在籍しており、しばしば生徒会室を不在にすることもある。
-    兄の言葉を最優先にするほどのお兄ちゃんっ子。礼拝堂で飼っているウサギの「雪丸」をとても大切にしている。和菓子が好きであり、特に[きんつば](https://ja.wikipedia.org/wiki/きんつば "wikilink")が大好物。千堂兄妹の正体を知っている数少ない人物でもある。
+    兄の言葉を最優先にするほどのお兄ちゃんっ子。礼拝堂で飼っているウサギの「雪丸」をとても大切にしている。和菓子が好きであり、特に[きんつば](../Page/きんつば.md "wikilink")が大好物。千堂兄妹の正体を知っている数少ない人物でもある。
     人気投票では第4位。
   - 紅瀬 桐葉（くぜ きりは）
-    声 - [楠鈴音](https://ja.wikipedia.org/wiki/楠鈴音 "wikilink") / [鳴海エリカ](https://ja.wikipedia.org/wiki/鳴海エリカ "wikilink")
+    声 - [楠鈴音](../Page/楠鈴音.md "wikilink") / [鳴海エリカ](../Page/鳴海エリカ.md "wikilink")
     誕生日：[11月21日](../Page/11月21日.md "wikilink") 血液型：AB型 星座：[さそり座](../Page/さそり座.md "wikilink") 身長：164.4cm 3サイズ：88（D）/57/86 部屋番号：4H-09 テーマ曲「ひとりじゃなく」
     孝平のクラスメート。常に一人で過ごしており、話しかけても必要最低限の返事があるだけかと思いきや、たまに冗談を言うなどつかみどころがない人物。基本的には興味があることしかやらず、それ以外のことはほぼ無関心。そんな態度のため、司を含むクラスメートからは「フリーズドライ」と呼ばれている。
     サボり・遅刻の常習犯でテストの点数もほぼ赤点ギリギリ（陽菜曰く「狙ってやっている」らしい）。しかし数学に関しては常に学年1位を取っており、総合1位の瑛里華にとっては目の上のタンコブである。極度の機械音痴で、携帯電話やパソコンに触ったことがない。
@@ -102,15 +102,15 @@
     千堂伊織にスカウトされ、生徒会委員で活動する\[6\]。
     人気投票では第3位。
   - 悠木 かなで（ゆうき かなで）
-    声 - [雛見風香](https://ja.wikipedia.org/wiki/雛見風香 "wikilink") / [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+    声 - [雛見風香](../Page/雛見風香.md "wikilink") / [生天目仁美](../Page/生天目仁美.md "wikilink")
     誕生日：[4月2日](../Page/4月2日.md "wikilink") 血液型：O型 星座：[おひつじ座](../Page/おひつじ座.md "wikilink") 身長：151.8cm 3サイズ：75（B）/54/77 部屋番号：3A-18 テーマ曲「Hi Tension」
-    孝平の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で陽菜の姉。妹よりも小柄な体格をしている。6年生で、風紀委員長兼「白鳳寮」寮長を務め、その実績は高い。ハイテンションかつマイペースで、その行動を予測できるのは妹の陽菜だけである。陽菜を「ヨメ」と称すほど溺愛しており、自分が男なら絶対結婚すると豪語している。感情表現が豊かで、字面こそ年長者のようだが、口調や振る舞いは一番年下のそれである。妹を「ひなちゃん」、瑛里華を「えりりん」と呼ぶなど、勝手な[あだ名](https://ja.wikipedia.org/wiki/あだ名 "wikilink")を付ける癖がある。代々の寮長に受け継がれている「恋愛が成就するケヤキ（穂坂ケヤキ）」の世話をしている。
+    孝平の[幼馴染](../Page/幼馴染.md "wikilink")で陽菜の姉。妹よりも小柄な体格をしている。6年生で、風紀委員長兼「白鳳寮」寮長を務め、その実績は高い。ハイテンションかつマイペースで、その行動を予測できるのは妹の陽菜だけである。陽菜を「ヨメ」と称すほど溺愛しており、自分が男なら絶対結婚すると豪語している。感情表現が豊かで、字面こそ年長者のようだが、口調や振る舞いは一番年下のそれである。妹を「ひなちゃん」、瑛里華を「えりりん」と呼ぶなど、勝手な[あだ名](https://ja.wikipedia.org/wiki/あだ名 "wikilink")を付ける癖がある。代々の寮長に受け継がれている「恋愛が成就するケヤキ（穂坂ケヤキ）」の世話をしている。
     今は亡き母親から妹の陽菜の面倒を見るよう頼まれていたが、陽菜が交通事故により記憶を無くしたのは自身の不注意のせいだと悩んでいた。それからは陽菜に幸せになって欲しいと一途の思いから、時に自分を後回しにしてでも陽菜の支えになるように行動していた。
     記憶を取り戻した陽菜から事情を聞き瑛里華の正体を知り、妹を救ってくれて恩人の瑛里華に感謝した。
     持っている携帯電話の着信音は、シューベルトの「[軍隊行進曲](https://ja.wikipedia.org/wiki/軍隊行進曲_\(シューベルト\) "wikilink")」である。
     人気投票では第5位。
   - 悠木 陽菜（ゆうき はるな）
-    声 - [鷹月さくら](https://ja.wikipedia.org/wiki/鷹月さくら "wikilink") / [田口宏子](https://ja.wikipedia.org/wiki/田口宏子 "wikilink")
+    声 - [鷹月さくら](../Page/鷹月さくら.md "wikilink") / [田口宏子](../Page/田口宏子.md "wikilink")
     誕生日：[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") 血液型：A型 星座：[てんびん座](../Page/てんびん座.md "wikilink") 身長：155.9cm 3サイズ：84（C）/56/85 部屋番号：3B-16 テーマ曲「snow willow」
     孝平のクラスメートで幼馴染。美化委員会に所属。破天荒な姉・かなでの行動に苦労しているが、それを楽しんでいる節もある。性格は明るく面倒見が良いので、学年を問わず顔が広い。数多くの男子学生に告白されており、またその全てを断っていると言われているが、本人は否定。他の女の子の髪を編むのが得意。
     幼い頃は体が弱く、入退院を繰り返し骨髄移植などの大変な手術をしていた。またその頃、自分とは違い元気で不自由なく過ごせるかなでを妬ましく思っており、一度互いの本音を言い尽くす大喧嘩をしている。その後、今のような仲の良い姉妹になった。7年前は孝平とクラスメートで、転校後も文通をしていた。その後交通事故に遭って孝平がいた頃の1年間の記憶を失くしていた。
@@ -129,19 +129,19 @@
     過去にシスター天池の母親\[9\]と恋人だったが、伽耶から恋人を眷属するように約束させられ已む無く彼女の記憶を消し去ったことから伽耶を憎んでいる。そのため自分と同じ境遇の瑛里華に不安や血への衝動の先に何があるのか確かめたくて瑛里華が外に出られるように伽耶に頭を下げて、孝平を生徒会に入れ2人が恋人になるように仕組んだ。征一郎の父親とは親しい仲だった。
     実は征一郎の主。
   - 東儀 征一郎（とうぎ せいいちろう）
-    声 - [鷹取玲](https://ja.wikipedia.org/wiki/鷹取玲 "wikilink") / [坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
+    声 - [鷹取玲](https://ja.wikipedia.org/wiki/鷹取玲 "wikilink") / [坪井智浩](../Page/坪井智浩.md "wikilink")
     誕生日：[4月9日](../Page/4月9日.md "wikilink") 血液型：A型 星座：[おひつじ座](../Page/おひつじ座.md "wikilink") 身長：178.8cm
     6年生。生徒会財務を務め、千堂兄妹をサポートしている。亡くなった両親の後を継ぎ、東儀家の当主である。仕事の腕は確かで、周囲への根回しと火消しには特に秀でている。
     妹の白はお兄ちゃん子であるが、征一郎も白には優しく接し、その過保護ぶりから実はシスコンではないかとの噂も出るほどである。かつては弓道部の主将であった。
     実は伊織の眷属。また瑛里華が征一郎の妹に当たる。
   - 八幡平 司（はちまんだいら つかさ）
-    声 - [胚京太郎](https://ja.wikipedia.org/wiki/胚京太郎 "wikilink") / [伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")
+    声 - [胚京太郎](https://ja.wikipedia.org/wiki/胚京太郎 "wikilink") / [伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")
     誕生日：[9月20日](../Page/9月20日.md "wikilink") 血液型：O型 星座：[おとめ座](../Page/おとめ座.md "wikilink") 身長：176.3cm 部屋番号：2A-15
     孝平のクラスメート。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身で、実家には双子の妹がいる。転校して来たばかりの孝平とすぐに打ち解ける。ぶっきらぼうな話し方とその外見、規律にルーズな行動から周囲に不良と思われている。しかし実は友達思いで、昼食の奢りは要求するものの、物語中多くのルートで孝平の手助け役に回っている。
-    家計が苦しいため、美術部部長の実家である[寿司](https://ja.wikipedia.org/wiki/寿司 "wikilink")屋「寿司勝」でアルバイトをしており、全寮制の学院において平日外出許可を得ている数少ない人物。かなでからは名字の「平」と名前の「司」を合わせて「へーじ」と呼ばれている。愛車は[49ccエンジンの原動機付き「自転車」のコスタリカ号である](../Page/原動機付自転車.md "wikilink")。
+    家計が苦しいため、美術部部長の実家である[寿司](../Page/寿司.md "wikilink")屋「寿司勝」でアルバイトをしており、全寮制の学院において平日外出許可を得ている数少ない人物。かなでからは名字の「平」と名前の「司」を合わせて「へーじ」と呼ばれている。愛車は[49ccエンジンの原動機付き「自転車」のコスタリカ号である](../Page/原動機付自転車.md "wikilink")。
   - 天池 志津子（あまいけ しづこ）
-    声 - [岬友美](https://ja.wikipedia.org/wiki/岬友美 "wikilink") / [星野千寿子](https://ja.wikipedia.org/wiki/星野千寿子 "wikilink")
-    誕生日：[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink") 血液型：O型 星座：[おうし座](../Page/おうし座.md "wikilink") 身長：165.2cm 3サイズ：93（F）/61/90
+    声 - [岬友美](../Page/岬友美.md "wikilink") / [星野千寿子](../Page/星野千寿子.md "wikilink")
+    誕生日：[5月3日](../Page/5月3日.md "wikilink") 血液型：O型 星座：[おうし座](../Page/おうし座.md "wikilink") 身長：165.2cm 3サイズ：93（F）/61/90
     本敷地にある礼拝堂の管理人及び「白鳳寮」女子階の寮監。洗礼名は「マルガリータ」で、生徒からは「シスター天池」と呼ばれている。
     普段はシスターらしく丁寧な物腰の淑女だが、規律を重んじるが故に怒ると非常に怖い。司も孝平に対し「シャレが通じない人だ」と警告しているほど。また、司曰く「女子階に侵入した男子生徒をフライパンでマジ殴りしたこともある」らしい。かなでには洗礼名から「まるちゃん」、伊織からは「志津子ちゃん」と呼ばれ、いつも怒っている。
     千堂伊織と母親（元生徒会会長）は元恋人。
@@ -184,25 +184,25 @@
 
   - 制作統括・総指揮 - るね
   - キャラクターデザイン・原画 - [べっかんこう](https://ja.wikipedia.org/wiki/べっかんこう "wikilink")
-  - シナリオ - [榊原拓](https://ja.wikipedia.org/wiki/榊原拓 "wikilink")、内田ヒロユキ、安西秀明
+  - シナリオ - [榊原拓](../Page/榊原拓.md "wikilink")、内田ヒロユキ、安西秀明
   - シナリオ協力 - [岡田留奈](https://ja.wikipedia.org/wiki/岡田留奈 "wikilink")
   - CG統括 - 里見藤久
-  - 背景 - 阿舎利ん_16、北川由貴、[ゆうろ](https://ja.wikipedia.org/wiki/ゆうろ "wikilink")、紀山聡、有限会社[シルバー](https://ja.wikipedia.org/wiki/シルバー_\(アニメ制作会社\) "wikilink")、wiza kun
+  - 背景 - 阿舎利ん_16、北川由貴、[ゆうろ](../Page/ゆうろ.md "wikilink")、紀山聡、有限会社[シルバー](https://ja.wikipedia.org/wiki/シルバー_\(アニメ制作会社\) "wikilink")、wiza kun
   - 演出 - 北川由貴
-  - ムービー - 北川由貴、[Iris motion graphics](https://ja.wikipedia.org/wiki/Iris_motion_graphics "wikilink")
-  - チビキャラアイコン - [脳みそホエホエ](https://ja.wikipedia.org/wiki/脳みそホエホエ "wikilink")
+  - ムービー - 北川由貴、[Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")
+  - チビキャラアイコン - [脳みそホエホエ](../Page/脳みそホエホエ.md "wikilink")
   - サポート - よもぎ
   - 音楽 - [Active Planets](../Page/Active_Planets.md "wikilink")
       - イメージテーマ「It's my precious time\!」
-          - 歌 - [Mizuho](https://ja.wikipedia.org/wiki/石田燿子 "wikilink") / 作詞 - uriel / 作・編曲：[DJ SHIMAMURA](https://ja.wikipedia.org/wiki/DJ_SHIMAMURA "wikilink")
+          - 歌 - [Mizuho](../Page/石田燿子.md "wikilink") / 作詞 - uriel / 作・編曲：[DJ SHIMAMURA](https://ja.wikipedia.org/wiki/DJ_SHIMAMURA "wikilink")
       - オープニングテーマ「扉ひらいて、ふたり未来へ」
-          - 歌 - Mizuho / 作詞 - kurabe / 作・編曲 - [Ultra Violet](https://ja.wikipedia.org/wiki/松田純一 "wikilink")
+          - 歌 - Mizuho / 作詞 - kurabe / 作・編曲 - [Ultra Violet](../Page/松田純一.md "wikilink")
       - 挿入歌「Pure Message」
-          - 歌 - [真優](https://ja.wikipedia.org/wiki/真優 "wikilink") / 作詞 - 橋本真友子 / 作・編曲 - NOIZ'n GIRL
+          - 歌 - [真優](../Page/真優.md "wikilink") / 作詞 - 橋本真友子 / 作・編曲 - NOIZ'n GIRL
       - 挿入歌「扉ひらいて、ふたり未来へ（ballad of arterial）」
           - 歌 - Mizuho / 作詞 - kurabe / 作・編曲 - Ultra Violet
       - 挿入歌「赤い約束」
-          - 歌 - [Veil](https://ja.wikipedia.org/wiki/Veil "wikilink") ∞ [Lia](https://ja.wikipedia.org/wiki/Lia "wikilink") / 作詞 - さなぎ / 作・編曲 - sumiisan
+          - 歌 - [Veil](https://ja.wikipedia.org/wiki/Veil "wikilink") ∞ [Lia](../Page/Lia.md "wikilink") / 作詞 - さなぎ / 作・編曲 - sumiisan
       - エンディングテーマ「ひとしずく」
           - 歌 - [ちっち](https://ja.wikipedia.org/wiki/ちっち "wikilink") / 作詞：さなぎ / 作・編曲 - sumiisan
 
@@ -214,13 +214,13 @@
 
 物語とは直接関係ない背景や脇役には、過去のオーガスト作品のキャラクターが多数描かれている。
 
-地上波では、第11話と第12話（最終話）の間のイレギュラー枠にて『**FORTUNE ARTERIAL 赤い約束 最終回直前スペシャル**』が放送された。進行役は生天目仁美と田口宏子。角川書店がスポンサーということもあり、後半では後番組『[GOSICK -ゴシック-](https://ja.wikipedia.org/wiki/GOSICK_-ゴシック- "wikilink")』のプロモーション映像が公開された。
+地上波では、第11話と第12話（最終話）の間のイレギュラー枠にて『**FORTUNE ARTERIAL 赤い約束 最終回直前スペシャル**』が放送された。進行役は生天目仁美と田口宏子。角川書店がスポンサーということもあり、後半では後番組『[GOSICK -ゴシック-](../Page/GOSICK_-ゴシック-.md "wikilink")』のプロモーション映像が公開された。
 
 ### スタッフ
 
   - 製作総指揮 - [安田猛](https://ja.wikipedia.org/wiki/安田猛_\(角川書店\) "wikilink")
-  - 監督 - [名和宗則](https://ja.wikipedia.org/wiki/名和宗則 "wikilink")
-  - 助監督 - [新田靖成](https://ja.wikipedia.org/wiki/新田靖成 "wikilink")
+  - 監督 - [名和宗則](../Page/名和宗則.md "wikilink")
+  - 助監督 - [新田靖成](../Page/新田靖成.md "wikilink")
   - シリーズ構成 - [長谷川勝己](../Page/長谷川勝己.md "wikilink")
   - キャラクターデザイン - [石原恵](https://ja.wikipedia.org/wiki/石原恵治 "wikilink")
   - デザインワークス - 川崎愛香
@@ -229,18 +229,18 @@
   - 撮影監督 - 北岡正
   - 編集 - 平木大輔
   - 音楽 - 安齋孝秋
-  - 音響監督 - [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - プロデューサー - [今本尚志](https://ja.wikipedia.org/wiki/今本尚志 "wikilink")、紅谷佳和
-  - アニメーション制作 - [ゼクシズ](https://ja.wikipedia.org/wiki/ゼクシズ "wikilink")、[フィール](https://ja.wikipedia.org/wiki/フィール_\(アニメ制作会社\) "wikilink")
-  - 製作 - 修智館学院生徒会（[角川書店](../Page/角川書店.md "wikilink")、[角川映画](../Page/角川映画.md "wikilink")、テレビ東京、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")、[AMGエンタテインメント](../Page/AMGエンタテインメント.md "wikilink")、ゼクシズ）
+  - アニメーション制作 - [ゼクシズ](../Page/ゼクシズ.md "wikilink")、[フィール](../Page/フィール_\(アニメ制作会社\).md "wikilink")
+  - 製作 - 修智館学院生徒会（[角川書店](../Page/角川書店.md "wikilink")、[角川映画](../Page/角川映画.md "wikilink")、テレビ東京、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[クロックワークス](../Page/クロックワークス.md "wikilink")、[AMGエンタテインメント](../Page/AMGエンタテインメント.md "wikilink")、ゼクシズ）
 
 ### 主題歌
 
   - オープニングテーマ「[絆-kizunairo-色](https://ja.wikipedia.org/wiki/絆-kizunairo-色 "wikilink")」
-    作詞 - [RUCCA](https://ja.wikipedia.org/wiki/溝口貴紀 "wikilink") / 作曲 - 流歌 / 編曲 - [牧野信博](https://ja.wikipedia.org/wiki/牧野信博 "wikilink") / 歌 - [Lia](https://ja.wikipedia.org/wiki/Lia "wikilink")
+    作詞 - [RUCCA](https://ja.wikipedia.org/wiki/溝口貴紀 "wikilink") / 作曲 - 流歌 / 編曲 - [牧野信博](../Page/牧野信博.md "wikilink") / 歌 - [Lia](../Page/Lia.md "wikilink")
 
   - エンディングテーマ「[I miss you](https://ja.wikipedia.org/wiki/I_miss_you_\(Veilの曲\) "wikilink")」
-    作詞・作曲・編曲 - 八木雄一 / 歌 - [Veil](https://ja.wikipedia.org/wiki/Veil "wikilink")（[Misuzu](https://ja.wikipedia.org/wiki/富樫美鈴 "wikilink")、[Aoi](https://ja.wikipedia.org/wiki/多田葵 "wikilink")）
+    作詞・作曲・編曲 - 八木雄一 / 歌 - [Veil](https://ja.wikipedia.org/wiki/Veil "wikilink")（[Misuzu](https://ja.wikipedia.org/wiki/富樫美鈴 "wikilink")、[Aoi](../Page/多田葵.md "wikilink")）
 
       - 第1話〜第3話、第11話 - -the origin-
       - 第4話〜第5話 - Aoi to misuzu
@@ -282,7 +282,7 @@
 <td><p>第一話</p></td>
 <td><p>渡り鳥</p></td>
 <td><p><a href="../Page/長谷川勝己.md" title="wikilink">長谷川勝己</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新田靖成" title="wikilink">新田靖成</a></p></td>
+<td><p><a href="../Page/新田靖成.md" title="wikilink">新田靖成</a></p></td>
 <td><p>藤沢紗々</p></td>
 <td><p>磯野智、小谷杏子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石原恵治" title="wikilink">石原恵</a></p></td>
@@ -290,7 +290,7 @@
 <tr class="even">
 <td><p>第二話</p></td>
 <td><p>始業式</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/待田堂子" title="wikilink">待田堂子</a></p></td>
+<td><p><a href="../Page/待田堂子.md" title="wikilink">待田堂子</a></p></td>
 <td><p>小林孝志</p></td>
 <td><p>井硲清高</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西尾公伯" title="wikilink">西尾公伯</a></p></td>
@@ -308,7 +308,7 @@
 <tr class="even">
 <td><p>第四話</p></td>
 <td><p>新入り</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田靖智" title="wikilink">山田靖智</a></p></td>
+<td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
 <td><p>徐恵眞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山内則康" title="wikilink">山内則康</a>、筆坂明規</p></td>
@@ -417,16 +417,16 @@
 
 ### 放送局
 
-| 放送地域                                                           | 放送局                                                             | 放送期間                                                                                                                                 | 放送日時             | 放送系列                                                    | 備考       |
-| -------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------- | -------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")         | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月8日](../Page/10月8日.md "wikilink") - [12月24日](../Page/12月24日.md "wikilink") | 金曜 25:23 - 25:53 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | 制作局      |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")            | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                            | 2010年[10月11日](../Page/10月11日.md "wikilink") - [12月27日](../Page/12月27日.md "wikilink")                                                 | 月曜 25:28 - 25:58 |                                                         |          |
-| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")            | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                            | 2010年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                              | 火曜 25:30 - 26:00 |                                                         |          |
-| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                        | 2010年[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - 2011年[1月5日](../Page/1月5日.md "wikilink")                             | 水曜 25:18 - 25:48 |                                                         |          |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")            | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                        | 水曜 25:43 - 26:13                                                                                                                     |                  |                                                         |          |
-| [日本全域](../Page/全国放送.md "wikilink")                             | [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink") | 2010年10月14日 - [12月30日](../Page/12月30日.md "wikilink")                                                                                 | 木曜 12:00 更新      | [ネット配信](../Page/ネット配信.md "wikilink")                    | 最新話1週間無料 |
-| [滋賀県](../Page/滋賀県.md "wikilink")                               | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                            | 2010年[10月19日](../Page/10月19日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")                 | 火曜 26:50 - 27:20 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")               |          |
-| [日本全域](../Page/全国放送.md "wikilink")                             | [AT-X](../Page/アニメシアターX.md "wikilink")                          | 2010年[11月23日](../Page/11月23日.md "wikilink") - 2011年[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")                             | 火曜 11:00 - 11:30 | [CS放送](../Page/日本における衛星放送.md "wikilink")                | リピート放送あり |
+| 放送地域                                                | 放送局                                                             | 放送期間                                                                                                                                 | 放送日時             | 放送系列                                                    | 備考       |
+| --------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------- | -------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")         | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月8日](../Page/10月8日.md "wikilink") - [12月24日](../Page/12月24日.md "wikilink") | 金曜 25:23 - 25:53 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | 制作局      |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                            | 2010年[10月11日](../Page/10月11日.md "wikilink") - [12月27日](../Page/12月27日.md "wikilink")                                                 | 月曜 25:28 - 25:58 |                                                         |          |
+| [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                            | 2010年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                              | 火曜 25:30 - 26:00 |                                                         |          |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                        | 2010年[10月13日](../Page/10月13日.md "wikilink") - 2011年[1月5日](../Page/1月5日.md "wikilink")                                                | 水曜 25:18 - 25:48 |                                                         |          |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                        | 水曜 25:43 - 26:13                                                                                                                     |                  |                                                         |          |
+| [日本全域](../Page/全国放送.md "wikilink")                  | [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink") | 2010年10月14日 - [12月30日](../Page/12月30日.md "wikilink")                                                                                 | 木曜 12:00 更新      | [ネット配信](../Page/ネット配信.md "wikilink")                    | 最新話1週間無料 |
+| [滋賀県](../Page/滋賀県.md "wikilink")                    | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                            | 2010年[10月19日](../Page/10月19日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")                 | 火曜 26:50 - 27:20 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")               |          |
+| [日本全域](../Page/全国放送.md "wikilink")                  | [AT-X](../Page/アニメシアターX.md "wikilink")                          | 2010年[11月23日](../Page/11月23日.md "wikilink") - 2011年[2月8日](../Page/2月8日.md "wikilink")                                                | 火曜 11:00 - 11:30 | [CS放送](../Page/日本における衛星放送.md "wikilink")                | リピート放送あり |
 
 ### OVA
 
@@ -441,7 +441,7 @@
 以下の2枚はHOBiRECORDSより発売。
 
   - 『It's my precious time\!』
-    歌 - [Mizuho](https://ja.wikipedia.org/wiki/石田燿子 "wikilink") / 発売 - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月25日](../Page/10月25日.md "wikilink") / WACD-300
+    歌 - [Mizuho](../Page/石田燿子.md "wikilink") / 発売 - [2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") / WACD-300
     PCゲームイメージテーマ「It's my precious time\!」と「夢うらら」を収録。
   - 『扉ひらいて、ふたり未来へ』
     歌 - Mizuho、Veil / 発売 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") / WACD-301
@@ -450,10 +450,10 @@
 以下の2枚は[AMG MUSICより発売](https://ja.wikipedia.org/wiki/AMG_MUSIC "wikilink")。
 
   - 『[絆-kizunairo-色](https://ja.wikipedia.org/wiki/絆-kizunairo-色 "wikilink")』
-    歌 - [Lia](https://ja.wikipedia.org/wiki/Lia "wikilink") / 発売 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") / AMG-7018（生産限定盤）、AMG-7019（通常版）
+    歌 - [Lia](../Page/Lia.md "wikilink") / 発売 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月27日](../Page/10月27日.md "wikilink") / AMG-7018（生産限定盤）、AMG-7019（通常版）
     アニメ『FORTUNE ARTERIAL 赤い約束』オープニング主題歌「絆-kizunairo-色」とエンディング主題歌「I miss you」のLiaバージョンを収録。生産限定盤には「絆-kizunairo-色 〜PV Live Edition〜」が収録されたDVD付き。通常版は[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")として「絆-kizunairo-色 inst.w/z cho.」を収録。
   - 『[I miss you](https://ja.wikipedia.org/wiki/I_miss_you_\(Veilの曲\) "wikilink")』
-    歌 - [Veil](https://ja.wikipedia.org/wiki/Veil "wikilink") / 発売 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") / AMG-7020（生産限定盤）、AMG-7021（通常版）
+    歌 - [Veil](https://ja.wikipedia.org/wiki/Veil "wikilink") / 発売 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月27日](../Page/10月27日.md "wikilink") / AMG-7020（生産限定盤）、AMG-7021（通常版）
     アニメ『FORTUNE ARTERIAL 赤い約束』エンディング主題歌「I miss you」と「絆-kizunairo-色 Rock Style」などを収録。生産限定盤には「I miss you 〜PV Live Edition〜」が収録されたDVD付き。通常版はボーナストラックとして「組曲 〜FORTUNE ARTERIAL〜」を収録。
 
 #### オリジナルサウンドトラック
@@ -462,7 +462,7 @@
 
   - 『FORTUNE ARTERIAL Original Sound Track』
     発売 - 2008年[5月30日](../Page/5月30日.md "wikilink") / AUG-2071
-    テーマソング、BGM及びアレンジメドレーを収録。[DreamParty](https://ja.wikipedia.org/wiki/DreamParty "wikilink")2008春で先行発売。
+    テーマソング、BGM及びアレンジメドレーを収録。[DreamParty](../Page/DreamParty.md "wikilink")2008春で先行発売。
 
 #### ドラマCD
 
@@ -526,15 +526,15 @@ SHOT MUSICより発売。
     発売 - 2008年[6月20日](../Page/6月20日.md "wikilink") / ISBN 978-4-04-867158-3
     PCゲームのビジュアルブック。表紙は千堂瑛里華。
   - 『FORTUNE ARTERIAL 赤い約束 オフィシャルビジュアルガイド』（[角川書店](../Page/角川書店.md "wikilink")刊）
-    発売 - 2011年[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink") / ISBN 978-4-04-854589-1
+    発売 - 2011年[2月26日](../Page/2月26日.md "wikilink") / ISBN 978-4-04-854589-1
     アニメ『FORTUNE ARTERIAL 赤い約束』のビジュアルブック。児玉樹描きおろしのオリジナルコミックも収録。
 
 ### コミックス
 
   - 『FORTUNE ARTERIAL―Character's Prelude』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")刊）※一般作品
-    原作 - オーガスト / 作画 - [佐々木あかね](https://ja.wikipedia.org/wiki/佐々木あかね "wikilink")
+    原作 - オーガスト / 作画 - [佐々木あかね](../Page/佐々木あかね.md "wikilink")
 
-    『[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』（アスキー・メディアワークス）2007年9月号より2008年4月号まで連載。その後『[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")』（アスキー・メディアワークス）に移籍してVol.2（2008年4月26日発売）に掲載。各キャラクターを中心に据えたオリジナルストーリーによる短編集。
+    『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（アスキー・メディアワークス）2007年9月号より2008年4月号まで連載。その後『[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")』（アスキー・メディアワークス）に移籍してVol.2（2008年4月26日発売）に掲載。各キャラクターを中心に据えたオリジナルストーリーによる短編集。
 
     休載の旨はアナウンスされていないが、『電撃G's Festival\! COMIC』Vol.2以後、作品は掲載されていない（2009年10月現在）、作者も同誌でVol.7より[別作品を連載中である](https://ja.wikipedia.org/wiki/アリアンロッド・サガ#アリアンロッド・サガ・コンチェルト "wikilink")。コミックス第1巻には、今までの掲載作品が全て収録されている。
 
@@ -550,14 +550,14 @@ SHOT MUSICより発売。
     3.  2009年[10月24日](../Page/10月24日.md "wikilink")発売 / ISBN 978-4-04-715304-2
     4.  2010年[9月24日](../Page/9月24日.md "wikilink")発売 / ISBN 978-4-04-715519-0
     5.  2010年[10月25日](../Page/10月25日.md "wikilink")発売 / ISBN 978-4-04-715547-3
-    6.  （オリジナルアニメDVD付き 限定版） - 2011年[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")発売 / ISBN 978-4-04-900803-6
+    6.  （オリジナルアニメDVD付き 限定版） - 2011年[2月26日](../Page/2月26日.md "wikilink")発売 / ISBN 978-4-04-900803-6
           - （通常版）：2011年[3月10日](../Page/3月10日.md "wikilink")発売 / ISBN 978-4-04-715643-2
     7.  2011年[9月26日](../Page/9月26日.md "wikilink")発売 / ISBN 978-4-04-715780-4
 
   - 『FORTUNE ARTERIAL 赤い約束 公式コミックアラカルト』（角川書店刊）※一般作品
     3名のイラストと11名のコミックを収録したアンソロジー。
 
-    2010年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")発売 / ISBN 978-4-04-715578-7
+    2010年[12月10日](../Page/12月10日.md "wikilink")発売 / ISBN 978-4-04-715578-7
 
   - 『マジキュー4コマ FORTUNE ARTERIAL』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊）※一般作品
 
@@ -583,7 +583,7 @@ SHOT MUSICより発売。
 
   -
 
-  - 『FORTUNE ARTERIAL コミックアンソロジー』（[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")刊）※一般作品
+  - 『FORTUNE ARTERIAL コミックアンソロジー』（[一迅社](../Page/一迅社.md "wikilink")刊）※一般作品
 
 :\# 2008年[6月25日](../Page/6月25日.md "wikilink")発売 / ISBN 978-4-7580-0447-3
 
@@ -598,7 +598,7 @@ SHOT MUSICより発売。
 
 ## Webラジオ
 
-マリン・エンタテイメントより、『**オーガスト放送局 修智館学院出張生徒会**』が2009年9月10日から2011年2月24日まで隔週で全36回放送された。パーソナリティは千堂伊織（声 - [ケビン・スパイシー](https://ja.wikipedia.org/wiki/ケビン・スパイシー "wikilink")）と千堂瑛里華（声 - [観村咲子](https://ja.wikipedia.org/wiki/観村咲子 "wikilink")）。本放送に先立ち、2009年8月13日には第0回が放送された。
+マリン・エンタテイメントより、『**オーガスト放送局 修智館学院出張生徒会**』が2009年9月10日から2011年2月24日まで隔週で全36回放送された。パーソナリティは千堂伊織（声 - [ケビン・スパイシー](https://ja.wikipedia.org/wiki/ケビン・スパイシー "wikilink")）と千堂瑛里華（声 - [観村咲子](../Page/観村咲子.md "wikilink")）。本放送に先立ち、2009年8月13日には第0回が放送された。
 
 ### ラジオCD
 
@@ -607,15 +607,15 @@ SHOT MUSICより発売。
   - DJCD オーガスト放送局 修智館学院出張生徒会 Vol.1
       - 2009年12月29日発売 品番MGS-0008
       - 第1回から第6回までの放送分と録り下ろしラジオ音源を収録。CD4枚組。
-      - ゲストは東儀白（声 - [姫川あいり](https://ja.wikipedia.org/wiki/姫川あいり "wikilink")）と東儀征一郎（声 - [鷹取玲](https://ja.wikipedia.org/wiki/鷹取玲 "wikilink")）。
+      - ゲストは東儀白（声 - [姫川あいり](../Page/姫川あいり.md "wikilink")）と東儀征一郎（声 - [鷹取玲](https://ja.wikipedia.org/wiki/鷹取玲 "wikilink")）。
   - DJCD オーガスト放送局 修智館学院出張生徒会 Vol.2
       - 2010年4月30日発売 品番MGS-0012
       - 第7回から第12回までの放送分と録り下ろしラジオ音源を収録。CD4枚組。
-      - ゲストは悠木陽菜（声 - [鷹月さくら](https://ja.wikipedia.org/wiki/鷹月さくら "wikilink")）、千堂伽耶（声 - [美芹桜花](https://ja.wikipedia.org/wiki/美芹桜花 "wikilink")）、悠木かなで（声 - [雛見風香](https://ja.wikipedia.org/wiki/雛見風香 "wikilink")）。
+      - ゲストは悠木陽菜（声 - [鷹月さくら](../Page/鷹月さくら.md "wikilink")）、千堂伽耶（声 - [美芹桜花](https://ja.wikipedia.org/wiki/美芹桜花 "wikilink")）、悠木かなで（声 - [雛見風香](../Page/雛見風香.md "wikilink")）。
   - DJCD オーガスト放送局 修智館学院出張生徒会 Vol.3
       - 2010年8月13日発売 品番MGS-0019
       - 第13回から第18回までの放送分と録り下ろしラジオ音源を収録。CD4枚組。
-      - ゲストは紅瀬桐葉（声 - [楠鈴音](https://ja.wikipedia.org/wiki/楠鈴音 "wikilink")）、フィーナ・ファム・アーシュライト\[15\]（声 - [手塚まき](https://ja.wikipedia.org/wiki/手塚まき "wikilink")）、東儀白、東儀征一郎。新規録音分ゲストは千堂伽耶。
+      - ゲストは紅瀬桐葉（声 - [楠鈴音](../Page/楠鈴音.md "wikilink")）、フィーナ・ファム・アーシュライト\[15\]（声 - [手塚まき](../Page/手塚まき.md "wikilink")）、東儀白、東儀征一郎。新規録音分ゲストは千堂伽耶。
   - DJCD オーガスト放送局 修智館学院出張生徒会 Vol.4
       - 2010年12月29日発売 品番MGS-0030
       - 第19回から第24回までの放送分と録り下ろしラジオ音源を収録。CD4枚組。
@@ -623,7 +623,7 @@ SHOT MUSICより発売。
   - DJCD オーガスト放送局 修智館学院出張生徒会 Vol.5
       - 2011年4月28日発売 品番MGS-0033
       - 第25回から第30回までの放送分と録り下ろしラジオ音源を収録。CD4枚組。
-      - ゲストは朝霧麻衣\[16\]（声 - [安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink")）、天池志津子（声 - [岬友美](https://ja.wikipedia.org/wiki/岬友美 "wikilink")）、東儀白、紅瀬桐葉、千堂伽耶。新規録音分ゲストはシンシア・マルグリット\[17\]（声 - [遠野そよぎ](https://ja.wikipedia.org/wiki/遠野そよぎ "wikilink")）。
+      - ゲストは朝霧麻衣\[16\]（声 - [安玖深音](../Page/安玖深音.md "wikilink")）、天池志津子（声 - [岬友美](../Page/岬友美.md "wikilink")）、東儀白、紅瀬桐葉、千堂伽耶。新規録音分ゲストはシンシア・マルグリット\[17\]（声 - [遠野そよぎ](../Page/遠野そよぎ.md "wikilink")）。
   - DJCD オーガスト放送局 修智館学院出張生徒会 Vol.6
       - 2011年8月12日発売 品番MGS-0036
       - 第31回から第36回までの放送分と録り下ろしラジオ音源を収録。CD4枚組。

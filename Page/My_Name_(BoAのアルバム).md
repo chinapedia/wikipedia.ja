@@ -1,7 +1,7 @@
 > この記事は[My Name \(BoA\)](https://ja.wikipedia.org/wiki/My_Name_\(BoA\))から翻訳されています。
 
 
-『**My Name**』（マイ・ネーム）は、[韓国出身の女性](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、4集として発表されたアルバム。
+『**My Name**』（マイ・ネーム）は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、4集として発表されたアルバム。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 [<span lang="ko">유영진</span>（ユ･ヨンジン）](https://ja.wikipedia.org/wiki/ユ・ヨンジン "wikilink")、[<span lang="ko">황성제</span>（ファン・ソンジェ）](https://ja.wikipedia.org/wiki/ファン・ソンジェ "wikilink")、[Young-hu Kim（ヤンフ・キム）](https://ja.wikipedia.org/wiki/ヤンフ・キム "wikilink")、[KENZIE](https://ja.wikipedia.org/wiki/KENZIE "wikilink")、[Damon Sharpe（デーモン・シャープ）など](https://ja.wikipedia.org/wiki/デーモン・シャープ "wikilink")、内外の著名作曲家を起用して多様なジャンルの曲を収録。
 
-[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")版、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")版には、ボーナストラックとして「**My Name**」と「**My Prayer**」の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版が収録され、「**My Name**」の[PVが収録された](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")[VCDが付加されている](../Page/ビデオCD.md "wikilink")。また、中国語曲を収録した特殊パッケージ盤「**My Name Boa**」もリリースされている。
+[中国](../Page/中国.md "wikilink")版、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")版には、ボーナストラックとして「**My Name**」と「**My Prayer**」の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版が収録され、「**My Name**」の[PVが収録された](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")[VCDが付加されている](../Page/ビデオCD.md "wikilink")。また、中国語曲を収録した特殊パッケージ盤「**My Name Boa**」もリリースされている。
 
 なお、日本では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[DVD](../Page/DVD.md "wikilink")付のSPECIAL EDITIONが[エイベックスから発売された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
 

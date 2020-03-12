@@ -3,7 +3,7 @@
 
 **Riryka**（りりか、[1月15日](../Page/1月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[Angel Noteに所属しており](https://ja.wikipedia.org/wiki/Angel_Note "wikilink")、主に[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")のテーマソングを中心に活動している。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")までは**みるくくるみ**という名義で活動していた。呼び方は常に**Riryka様**である。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[Angel Noteに所属しており](../Page/Angel_Note.md "wikilink")、主に[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")のテーマソングを中心に活動している。[2006年](../Page/2006年.md "wikilink")までは**みるくくるみ**という名義で活動していた。呼び方は常に**Riryka様**である。
 
 ## 人物
 
@@ -13,17 +13,17 @@
 
 ブログでのコメント書き込み名や1人称として「**Riryka様**」と書く時がある。よって、通常時もファンや周りから「Riryka様」と呼ばれている。ライブでのマイクパフォーマンス時は『闇の世界から来た女王様キャラ』として振る舞い、男性の観客をいじりながら笑いを取る。
 
-彼女のライブに来る男性の観客には常に「かっこよく、やさしく、そして熱い紳士」であることを要求している。基本的に[オタ芸](https://ja.wikipedia.org/wiki/オタ芸 "wikilink")も含めて、観客の応援スタイルには寛容な姿勢をとっており、ファンは自発的に騒いでも、静かに聴いても、[土下座](https://ja.wikipedia.org/wiki/土下座 "wikilink")をしても良いことになっている（観客の土下座は2008年夏に[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の[石丸電気](https://ja.wikipedia.org/wiki/石丸電気 "wikilink")で行われた「Aiai Music Carnival」でのライブで、持ち前の女王様キャラやパワフルな歌声で強烈な印象を観客に残し、結果一部の観客が自発的に土下座をするようになったのがきっかけである。なお、その際は共演者の[THE ポッシボー](https://ja.wikipedia.org/wiki/THE_ポッシボー "wikilink")、[キャナァーリ倶楽部](https://ja.wikipedia.org/wiki/キャナァーリ倶楽部 "wikilink")等目当てで来ていた観客が大半であった）。そのため、彼女のライブを初めて見た観客が呼称を知らずに呼び捨てで名前を呼んでしまうと、ステージ上から『Riryka様とお呼びなさい\!』と注意を行う。ライブでは観客に野太い声で「おー」と言わせて、彼女自身が気持ち良くなるのがお約束となっている。理由は「高い声で応援されるより、正面からぶつかってくるような低音（＝男らしさ）を子宮で感じたい」ということで始まった。この他にもステージ上で使われた曲のゲーム名・メーカー名、さらに歌っている曲の歌詞まで毎回のように忘れる。
+彼女のライブに来る男性の観客には常に「かっこよく、やさしく、そして熱い紳士」であることを要求している。基本的に[オタ芸](https://ja.wikipedia.org/wiki/オタ芸 "wikilink")も含めて、観客の応援スタイルには寛容な姿勢をとっており、ファンは自発的に騒いでも、静かに聴いても、[土下座](../Page/土下座.md "wikilink")をしても良いことになっている（観客の土下座は2008年夏に[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の[石丸電気](../Page/石丸電気.md "wikilink")で行われた「Aiai Music Carnival」でのライブで、持ち前の女王様キャラやパワフルな歌声で強烈な印象を観客に残し、結果一部の観客が自発的に土下座をするようになったのがきっかけである。なお、その際は共演者の[THE ポッシボー](https://ja.wikipedia.org/wiki/THE_ポッシボー "wikilink")、[キャナァーリ倶楽部](../Page/キャナァーリ倶楽部.md "wikilink")等目当てで来ていた観客が大半であった）。そのため、彼女のライブを初めて見た観客が呼称を知らずに呼び捨てで名前を呼んでしまうと、ステージ上から『Riryka様とお呼びなさい\!』と注意を行う。ライブでは観客に野太い声で「おー」と言わせて、彼女自身が気持ち良くなるのがお約束となっている。理由は「高い声で応援されるより、正面からぶつかってくるような低音（＝男らしさ）を子宮で感じたい」ということで始まった。この他にもステージ上で使われた曲のゲーム名・メーカー名、さらに歌っている曲の歌詞まで毎回のように忘れる。
 
 ライブによってはオタ芸を繰り広げる会場前半分と、静かに観覧する後半分の客とで反応が極端に違うことがあり、特に前半分のことを本人は「Rirykaマニア」と呼んで彼女のMCのサポート役にさせる。その一例として、彼女のマイクスタンドの代わりとして最前列にいる観客の一人に両手でマイクを持たせる「人間マイクスタンド技」がある。なお「女王様キャラ」はRirykaと名乗ってから始まったものであり、彼女本来の性格ではない。そして「鞭を持つ」と発言はするものの、実際に暴力や意地悪・強制を行うこともない。むしろ観客を笑わせることの方が多いために本人曰く「Riryka様」のSは「サド」の意味ではなく「皆様を素敵な精神世界へ連れて行くサービス」の意味として振舞っているという。
 
-ライブの感想として歌への評価に加えて、上記の行動により「MCが面白い」と言われることがある。（他にも「音曲漫談」や「芸人」と言われたこともある）また、本人は「かっこよく決めているのにそう言われるのは心外」と否定しているものの、[なかせひな](https://ja.wikipedia.org/wiki/なかせひな "wikilink")とのネットラジオ『[ひなとRirykaのキラキラスパイス](https://ja.wikipedia.org/wiki/ひなとRirykaのキラキラスパイス "wikilink")』の開始以降、彼女の「女王様キャラ」を自分から何度も崩したり、崩されたりしている。
+ライブの感想として歌への評価に加えて、上記の行動により「MCが面白い」と言われることがある。（他にも「音曲漫談」や「芸人」と言われたこともある）また、本人は「かっこよく決めているのにそう言われるのは心外」と否定しているものの、[なかせひな](../Page/なかせひな.md "wikilink")とのネットラジオ『[ひなとRirykaのキラキラスパイス](https://ja.wikipedia.org/wiki/ひなとRirykaのキラキラスパイス "wikilink")』の開始以降、彼女の「女王様キャラ」を自分から何度も崩したり、崩されたりしている。
 
 年齢は非公表だが、自称「400年くらい生きている」としている。
 
-ライブは2007年春頃から首都圏のライブハウスで、2週間～3ヶ月に1回のペースで行っている。声優の[なかせひな](https://ja.wikipedia.org/wiki/なかせひな "wikilink")と仲が良い。この縁は、なかせがAngel Noteで歌手活動するきっかけとなり、後に共同でCDを出したり、ラジオ番組開始にもつながっている。この他に自身のサインもなかせに考えてもらったものを使っている。なお、なかせからは「りりかん」と呼ばれている。他に[真理絵](https://ja.wikipedia.org/wiki/真理絵 "wikilink")と交流が深い。
+ライブは2007年春頃から首都圏のライブハウスで、2週間～3ヶ月に1回のペースで行っている。声優の[なかせひな](../Page/なかせひな.md "wikilink")と仲が良い。この縁は、なかせがAngel Noteで歌手活動するきっかけとなり、後に共同でCDを出したり、ラジオ番組開始にもつながっている。この他に自身のサインもなかせに考えてもらったものを使っている。なお、なかせからは「りりかん」と呼ばれている。他に[真理絵](../Page/真理絵.md "wikilink")と交流が深い。
 
-過去には[SIAM SHADEなどのアーティストのバックコーラスの経験を持っている](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")。これは2008年に川崎で行われたライブで、その時の[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")が[遠藤一馬](https://ja.wikipedia.org/wiki/遠藤一馬 "wikilink")だったことで『キラキラスパイス』で後日発表された。なお、遠藤自身は『Riryka』の正体を知らなかったらしく、本人も当日まで伝えていなかった。
+過去には[SIAM SHADEなどのアーティストのバックコーラスの経験を持っている](../Page/SIAM_SHADE.md "wikilink")。これは2008年に川崎で行われたライブで、その時の[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")が[遠藤一馬](../Page/遠藤一馬.md "wikilink")だったことで『キラキラスパイス』で後日発表された。なお、遠藤自身は『Riryka』の正体を知らなかったらしく、本人も当日まで伝えていなかった。
 
 夜中に手の込んだ料理を作るのが趣味で、酒を飲んで気分が良くなると、蕎麦つゆをダシから作ったり、ピザや餃子を焼いたりすることがあるという。なお、作った料理の写真は時々彼女のブログに載ることがある。音楽活動と違って料理は思ったものがすぐ形になるので、遊びや実験感覚で作れるという。
 
@@ -35,11 +35,11 @@
 
 ### シングル
 
-| 枚   | 発売日        | タイトル                                                                              | 規格品番      | レーベル                                                                        | 備考                                                                                                 | 最高位 |
-| --- | ---------- | --------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --- |
-| 1st | 2007年1月24日 | **[Bravin' Bad Brew](https://ja.wikipedia.org/wiki/Bravin'_Bad_Brew "wikilink")** | LHCM-1027 | [Mellow Head](https://ja.wikipedia.org/wiki/Mellow_Head "wikilink")         | テレビアニメ『[Venus Versus Virus](https://ja.wikipedia.org/wiki/Venus_Versus_Virus "wikilink")』オープニングテーマ | 65位 |
-| 2nd | 2007年5月23日 | **Perfect tears**                                                                 | LACM-4373 | [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")                     | PCゲーム『[Clear -クリア-](https://ja.wikipedia.org/wiki/Clear_-クリア- "wikilink")』イメージソング                  | 92位 |
-| 3rd | 2008年6月27日 | **Prime Star/僕らの未来**                                                              | SRL-2003  | [Star Rose label](https://ja.wikipedia.org/wiki/Star_Rose_label "wikilink") | PCゲーム『[プリマ☆ステラ](https://ja.wikipedia.org/wiki/プリマ☆ステラ "wikilink")』オープニングテーマ/エンディングテーマ              | 圈外  |
+| 枚   | 発売日        | タイトル                                                                              | 規格品番      | レーベル                                                                        | 備考                                                                                | 最高位 |
+| --- | ---------- | --------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --- |
+| 1st | 2007年1月24日 | **[Bravin' Bad Brew](https://ja.wikipedia.org/wiki/Bravin'_Bad_Brew "wikilink")** | LHCM-1027 | [Mellow Head](https://ja.wikipedia.org/wiki/Mellow_Head "wikilink")         | テレビアニメ『[Venus Versus Virus](../Page/Venus_Versus_Virus.md "wikilink")』オープニングテーマ   | 65位 |
+| 2nd | 2007年5月23日 | **Perfect tears**                                                                 | LACM-4373 | [ランティス](../Page/ランティス.md "wikilink")                                        | PCゲーム『[Clear -クリア-](https://ja.wikipedia.org/wiki/Clear_-クリア- "wikilink")』イメージソング | 92位 |
+| 3rd | 2008年6月27日 | **Prime Star/僕らの未来**                                                              | SRL-2003  | [Star Rose label](https://ja.wikipedia.org/wiki/Star_Rose_label "wikilink") | PCゲーム『[プリマ☆ステラ](../Page/プリマ☆ステラ.md "wikilink")』オープニングテーマ/エンディングテーマ                | 圈外  |
 
 ### アルバム
 
@@ -142,7 +142,7 @@
 <td><p>BELLES DIVAS -Angel Note Best Collection III-</p></td>
 <td><p><strong>Riryka</strong></p></td>
 <td><p>「Miss You」</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/おしえて_Re:メイド" title="wikilink">おしえて Re:メイド</a>』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/おしえて_Re:メイド.md" title="wikilink">おしえて Re:メイド</a>』オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>「傷跡」</p></td>
@@ -273,7 +273,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/片霧烈火" title="wikilink">片霧烈火</a>×<strong>Riryka</strong>×Mint</p></td>
+<td><p><a href="../Page/片霧烈火.md" title="wikilink">片霧烈火</a>×<strong>Riryka</strong>×Mint</p></td>
 <td><p>「EXIT」<br />
 「約束〜our precious time〜」</p></td>
 <td></td>
@@ -295,7 +295,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>Riryka</strong>、<a href="https://ja.wikipedia.org/wiki/なかせひな" title="wikilink">なかせひな</a></p></td>
+<td><p><strong>Riryka</strong>、<a href="../Page/なかせひな.md" title="wikilink">なかせひな</a></p></td>
 <td><p>「Crusader Dream」</p></td>
 <td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/ダンジョンクルセイダーズ2_〜永劫の楽土〜" title="wikilink">ダンジョンクルセイダーズ2 〜永劫の楽土〜</a>』オープニングテーマ</p></td>
 <td></td>
@@ -487,11 +487,11 @@
       - Rhythm-MAX
           - PCゲーム『[Stellar☆Theater](https://ja.wikipedia.org/wiki/Stellar☆Theater "wikilink")』オープニングテーマ
           - 作詞：AlAi / 作曲・編曲：BAL\[内藤侑史 & 山田屋カズ\]
-  - 2010年1月29日発売（[Hearts](https://ja.wikipedia.org/wiki/ソフパル "wikilink")）
+  - 2010年1月29日発売（[Hearts](../Page/ソフパル.md "wikilink")）
       - 青い花
           - PCゲーム『[メルクリア 〜水の都に恋の花束を〜](https://ja.wikipedia.org/wiki/メルクリア_〜水の都に恋の花束を〜 "wikilink")』挿入歌
           - 作詞・作曲：kala / 編曲：森まもる
-  - 2010年2月26日発売（[マリゴールド](https://ja.wikipedia.org/wiki/マリゴールド "wikilink")）
+  - 2010年2月26日発売（[マリゴールド](../Page/マリゴールド.md "wikilink")）
       - Heaven's waltz
 
 <!-- end list -->
@@ -525,7 +525,7 @@
           - PCゲーム『輝光翼戦記 銀の刻のコロナ』2ndオープニングテーマ
           - 作詞：ナインチュ / 作曲・編曲：四十万行道
 
-  - 2012年3月30日発売（[ゆずソフト](https://ja.wikipedia.org/wiki/ゆずソフト "wikilink")）
+  - 2012年3月30日発売（[ゆずソフト](../Page/ゆずソフト.md "wikilink")）
 
       - 君だけの僕
           - PCゲーム『[DRACU-RIOT\!](https://ja.wikipedia.org/wiki/DRACU-RIOT! "wikilink")』エンディングテーマ
@@ -604,7 +604,7 @@
 
 **2006年**
 
-  - 追憶のノクターン（[中原涼](https://ja.wikipedia.org/wiki/中原涼_\(歌手\) "wikilink")）
+  - 追憶のノクターン（[中原涼](../Page/中原涼_\(歌手\).md "wikilink")）
 
 **2009年**
 
@@ -612,7 +612,7 @@
 
 **2011年**
 
-  - Love flower（[青葉りんご](https://ja.wikipedia.org/wiki/青葉りんご "wikilink")）
+  - Love flower（[青葉りんご](../Page/青葉りんご.md "wikilink")）
 
 **2015年**
 

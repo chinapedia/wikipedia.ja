@@ -5,21 +5,21 @@
 
 ## 概要
 
-[白倉由美](../Page/白倉由美.md "wikilink")がプロデューサーを勤め、[MADARA PROJECT](https://ja.wikipedia.org/wiki/MADARA_PROJECT "wikilink")（現：大塚英志事務所）製作のラジオ番組にパーソナリティとして[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")ジュニア所属の新人声優であった3人が選ばれた。その番組上で結成されたのがS-neryである。
+[白倉由美](../Page/白倉由美.md "wikilink")がプロデューサーを勤め、[MADARA PROJECT](https://ja.wikipedia.org/wiki/MADARA_PROJECT "wikilink")（現：大塚英志事務所）製作のラジオ番組にパーソナリティとして[青二プロダクション](../Page/青二プロダクション.md "wikilink")ジュニア所属の新人声優であった3人が選ばれた。その番組上で結成されたのがS-neryである。
 
 ### メンバー
 
   - [桑島法子](../Page/桑島法子.md "wikilink")
-  - [前田このみ](https://ja.wikipedia.org/wiki/前田このみ_\(声優\) "wikilink")
+  - [前田このみ](../Page/前田このみ_\(声優\).md "wikilink")
   - [桂川千絵](https://ja.wikipedia.org/wiki/桂川千絵 "wikilink")
-  - [前田ちあき](https://ja.wikipedia.org/wiki/前田ちあき "wikilink")
-  - [豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
+  - [前田ちあき](../Page/前田ちあき.md "wikilink")
+  - [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
 
 ### くらげ会メンバー
 
 [成田紗矢香](../Page/成田紗矢香.md "wikilink")
 
-[菊地由美](https://ja.wikipedia.org/wiki/菊地由美 "wikilink")
+[菊地由美](../Page/菊地由美.md "wikilink")
 
 千葉千恵巳
 
@@ -86,8 +86,8 @@
 
 ## 関連項目
 
-  - [前田千亜紀](https://ja.wikipedia.org/wiki/前田ちあき "wikilink")
-  - [ファンタジーワールド](https://ja.wikipedia.org/wiki/ファンタジーワールド "wikilink")
+  - [前田千亜紀](../Page/前田ちあき.md "wikilink")
+  - [ファンタジーワールド](../Page/ファンタジーワールド.md "wikilink")
   - [大江光](../Page/大江光.md "wikilink")
 
 ## 外部リンク

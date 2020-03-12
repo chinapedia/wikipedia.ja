@@ -1,11 +1,11 @@
 > この記事は[Girls On Top](https://ja.wikipedia.org/wiki/Girls_On_Top)から翻訳されています。
 
 
-『**Girls On Top**』ないし『**MOTO**』は、[韓国出身の女性](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の5集として発表されたアルバム。
+『**Girls On Top**』ないし『**MOTO**』は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の5集として発表されたアルバム。
 
 ## 概要
 
-前作から久々となる[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月24日に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")版[オリジナルアルバム](../Page/アルバム.md "wikilink")5集として発表され、ヘアスタイルなどでそれまでの[BoA](../Page/BoA.md "wikilink")のイメージを一変させ、あっと驚かせた話題のアルバムである。なお、CD発売前にデジタルアルバムとして先行販売された。そして、オンライン、オフライン両方でチャート1位を獲得した。
+前作から久々となる[2005年](../Page/2005年.md "wikilink")6月24日に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")版[オリジナルアルバム](../Page/アルバム.md "wikilink")5集として発表され、ヘアスタイルなどでそれまでの[BoA](../Page/BoA.md "wikilink")のイメージを一変させ、あっと驚かせた話題のアルバムである。なお、CD発売前にデジタルアルバムとして先行販売された。そして、オンライン、オフライン両方でチャート1位を獲得した。
 
 全13曲が収録され、多様なジャンルの選曲とさまざまなアレンジに乗せて、20歳（韓国における数え年）に成長した[BoA](../Page/BoA.md "wikilink")が多彩な唱法を展開している。発売2ヵ月後の同年8月17日には、リメイクアルバム「**MOTO**」が発売されたが、単にアルバムジャケットとアルバムタイトルが変更されただけであり、内容は初版の「**Girls On Top**」と全く変わりは無い。
 
@@ -35,7 +35,7 @@
       -
         作詞・作曲：<span lang="ko">유영진</span>（ユ・ヨンジン）
           -
-            BoAのデビュー曲[ID; Peace Bの](../Page/ID;_Peace_B.md "wikilink")[<span lang="ko">유영진</span>（ユ・ヨンジン）によるタイトル](https://ja.wikipedia.org/wiki/ユ・ヨンジン "wikilink")・ナンバー。アレンジには、[Usherや](https://ja.wikipedia.org/wiki/アッシャー_\(歌手\) "wikilink")[Ciara](https://ja.wikipedia.org/wiki/Ciara "wikilink")の曲に見られるような「<span lang="ko">원 코드 흐름</span>」（円コード進行）を採用。旧来的な男性社会を乗越えようとする歌詞に合わせて、男性バックダンサー陣を足蹴にするような振付が行われた。BoAは、2005年6月-8月の間、主にプロモーションにこの曲を使い、[SBSの番組](https://ja.wikipedia.org/wiki/SBS_\(韓国\) "wikilink")「[人気歌謡](https://ja.wikipedia.org/wiki/人気歌謡 "wikilink")」の1位を3週連続で受賞した。
+            BoAのデビュー曲[ID; Peace Bの](../Page/ID;_Peace_B.md "wikilink")[<span lang="ko">유영진</span>（ユ・ヨンジン）によるタイトル](https://ja.wikipedia.org/wiki/ユ・ヨンジン "wikilink")・ナンバー。アレンジには、[Usherや](../Page/アッシャー_\(歌手\).md "wikilink")[Ciara](https://ja.wikipedia.org/wiki/Ciara "wikilink")の曲に見られるような「<span lang="ko">원 코드 흐름</span>」（円コード進行）を採用。旧来的な男性社会を乗越えようとする歌詞に合わせて、男性バックダンサー陣を足蹴にするような振付が行われた。BoAは、2005年6月-8月の間、主にプロモーションにこの曲を使い、[SBSの番組](../Page/SBS_\(韓国\).md "wikilink")「[人気歌謡](https://ja.wikipedia.org/wiki/人気歌謡 "wikilink")」の1位を3週連続で受賞した。
 6.
 7.  　**<span lang="ko">오늘 그댈 본다면</span>** （オヌル クデ<small>ル</small> ボンダミョン） - ***If you were here***
       -
@@ -61,7 +61,7 @@
       -
         作曲：[Kenzie](https://ja.wikipedia.org/wiki/Kenzie "wikilink")
           -
-            [バビロンの空中庭園](https://ja.wikipedia.org/wiki/バビロンの空中庭園 "wikilink")に[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")を得た[アシッド](../Page/アシッド・ハウス.md "wikilink")・ポップ。「<span lang="ko">공중정원</span> （コンジュンジョンウォン）」および「Garden In The Air」は、「空中庭園」の意。
+            [バビロンの空中庭園](../Page/バビロンの空中庭園.md "wikilink")に[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")を得た[アシッド](../Page/アシッド・ハウス.md "wikilink")・ポップ。「<span lang="ko">공중정원</span> （コンジュンジョンウォン）」および「Garden In The Air」は、「空中庭園」の意。
 16.
 17. 　**I Spy**
       -

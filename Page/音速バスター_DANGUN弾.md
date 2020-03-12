@@ -1,7 +1,7 @@
 > この記事は[ DANGUN](https://ja.wikipedia.org/wiki/_DANGUN)から翻訳されています。
 
 
-『**音速バスターDANGUN弾**』（おんそくばすたーだんがんだん）は、[2000年](../Page/2000年.md "wikilink")6月号 - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")2月号まで「[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")」で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。原作は[てしろぎたかし](https://ja.wikipedia.org/wiki/てしろぎたかし "wikilink")。[タミヤ](../Page/タミヤ.md "wikilink")の[ダンガンレーサー](https://ja.wikipedia.org/wiki/ダンガンレーサー "wikilink")を主題としている。単行本全8巻。
+『**音速バスターDANGUN弾**』（おんそくばすたーだんがんだん）は、[2000年](../Page/2000年.md "wikilink")6月号 - [2004年](../Page/2004年.md "wikilink")2月号まで「[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")」で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。原作は[てしろぎたかし](../Page/てしろぎたかし.md "wikilink")。[タミヤ](../Page/タミヤ.md "wikilink")の[ダンガンレーサー](../Page/ダンガンレーサー.md "wikilink")を主題としている。単行本全8巻。
 
 ## ストーリー
 
@@ -49,6 +49,6 @@
 
 ## ゲームソフト
 
-タイトルは「激走ダンガンレーサー音速バスターDANGAN弾」。[2001年](../Page/2001年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")発売。プラットフォームは[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")、発売元は[イマジニア](https://ja.wikipedia.org/wiki/イマジニア "wikilink")。ダンガンレースのシミュレーションゲームで、ゲームオリジナルの人物も登場する。
+タイトルは「激走ダンガンレーサー音速バスターDANGAN弾」。[2001年](../Page/2001年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")発売。プラットフォームは[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")、発売元は[イマジニア](../Page/イマジニア.md "wikilink")。ダンガンレースのシミュレーションゲームで、ゲームオリジナルの人物も登場する。
 
 [Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:玩具を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:玩具を題材にした漫画作品 "wikilink") [Category:カーレース漫画](https://ja.wikipedia.org/wiki/Category:カーレース漫画 "wikilink")

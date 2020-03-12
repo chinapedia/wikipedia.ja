@@ -1,11 +1,11 @@
 > この記事は[PamS](https://ja.wikipedia.org/wiki/PamS)から翻訳されています。
 
 
-『**pamS**』（ウラスマ）は、[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ビクターエンタテインメントよりリリースされた](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**pamS**』（ウラスマ）は、[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ビクターエンタテインメントよりリリースされた](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
-  - 今作リリース前にリリースされた「[Smac](https://ja.wikipedia.org/wiki/Smac "wikilink")」は未収録である。
+  - 今作リリース前にリリースされた「[Smac](../Page/Smac.md "wikilink")」は未収録である。
   - 隠れた名曲を収録した裏ベストアルバム。シングル曲ではないが、ライブで頻繁に披露されたり、ファンから人気のある曲を中心に収録された。
   - 2～16曲目までは、同年に発売された「[Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")」と同じく、新しい曲→古い曲の順番という収録になっている。
   - 収録曲には既存の楽曲を「ballad version」「2001 version」としてアレンジしたものもある。
@@ -14,7 +14,7 @@
 
 ## チャート成績
 
-  - [2001年](../Page/2001年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")付の[オリコン週間アルバムチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週23.0万枚を売り上げ、初登場1位を獲得した。
+  - [2001年](../Page/2001年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")付の[オリコン週間アルバムチャートで](../Page/オリコンチャート.md "wikilink")、初週23.0万枚を売り上げ、初登場1位を獲得した。
   - 累計売上は35.5万枚（[オリコン](../Page/オリコン.md "wikilink")調べ）。
 
 ## 収録曲
@@ -23,26 +23,26 @@
 
 1.  **[雪が降ってきた](https://ja.wikipedia.org/wiki/雪が降ってきた "wikilink")**（ballad version）
       -
-        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink") / 編曲：大山泰輝
+        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink") / 編曲：大山泰輝
     <!-- end list -->
       - 6thシングルのバラード・バージョン
-2.  **[オレンジ](https://ja.wikipedia.org/wiki/らいおんハート "wikilink")**※
+2.  **[オレンジ](../Page/らいおんハート.md "wikilink")**※
       -
         作詞:市川喜康 / 作曲:市川喜康 / 編曲：ZAKI
     <!-- end list -->
       - 32ndシングル「らいおんハート」カップリング
-3.  **[恋の形](https://ja.wikipedia.org/wiki/たいせつ "wikilink")**（2001 version）※
+3.  **[恋の形](../Page/たいせつ.md "wikilink")**（2001 version）※
       -
         作詞:久保田洋司 / 作曲:野崎昌利 / 編曲：上杉洋史/ コーラスアレンジ:知野芳彦
     <!-- end list -->
       - 28thシングル「たいせつ」カップリングの新録バージョン
-4.  **[言えばよかった](https://ja.wikipedia.org/wiki/SMAP_012_VIVA_AMIGOS! "wikilink")**
+4.  **[言えばよかった](../Page/SMAP_012_VIVA_AMIGOS!.md "wikilink")**
       -
-        作詞・作曲:[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink") / 編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞・作曲:[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink") / 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 11thアルバム「SMAP 012 VIVA AMIGOS\!」収録曲
-      - ミニアルバム「[La Festa](https://ja.wikipedia.org/wiki/La_Festa "wikilink")」CMソング
-5.  **[ひと駅歩こう](https://ja.wikipedia.org/wiki/SMAP_012_VIVA_AMIGOS! "wikilink")** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
+      - ミニアルバム「[La Festa](../Page/La_Festa.md "wikilink")」CMソング
+5.  **[ひと駅歩こう](../Page/SMAP_012_VIVA_AMIGOS!.md "wikilink")** - [木村拓哉](../Page/木村拓哉.md "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
       -
         作詞:[三井拓](../Page/森浩美.md "wikilink") / 作曲・編曲:谷本新 / 編曲：佐々木章
     <!-- end list -->
@@ -53,49 +53,49 @@
     <!-- end list -->
       - 8thアルバム「SMAP 008 TACOMAX」収録曲
       - SMAP出演 [NTT東日本](https://ja.wikipedia.org/wiki/NTT東日本 "wikilink")「テレチョイス」CMソング
-7.  **[君と僕の6ヶ月](https://ja.wikipedia.org/wiki/がんばりましょう "wikilink")**※※
+7.  **[君と僕の6ヶ月](../Page/がんばりましょう.md "wikilink")**※※
       -
         作詞:三井拓 / 作曲・編曲:馬飼野康二
     <!-- end list -->
       - 14thシングル「がんばりましょう」カップリング
       - SMAP出演 [ロッテ](../Page/ロッテ.md "wikilink")「シュガーレスガム」CMソング
-8.  **[Major](https://ja.wikipedia.org/wiki/オリジナル_スマイル "wikilink")**（2001 version）
+8.  **[Major](../Page/オリジナル_スマイル.md "wikilink")**（2001 version）
       -
         作詞:森浩美 / 作曲:庄野賢一 / 編曲:知野芳彦
     <!-- end list -->
       - 13thシングル「オリジナル スマイル」カップリングの新録バージョン
-9.  **[泣きたい気持ち](https://ja.wikipedia.org/wiki/Hey_Hey_おおきに毎度あり "wikilink")**※※
+9.  **[泣きたい気持ち](../Page/Hey_Hey_おおきに毎度あり.md "wikilink")**※※
       -
-        作詞:相田毅 / 作曲:[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink") / 編曲:土方隆行
+        作詞:相田毅 / 作曲:[太田美知彦](../Page/太田美知彦.md "wikilink") / 編曲:土方隆行
     <!-- end list -->
       - 12thシングル「Hey Hey おおきに毎度あり」カップリング
       - 4thアルバム「SMAP 004」収録曲（[中居ソロ曲](../Page/中居正広.md "wikilink")）のシングルバージョン
-      - SMAP主演 映画「[シュート\!](https://ja.wikipedia.org/wiki/シュート! "wikilink")」主題歌
+      - SMAP主演 映画「[シュート\!](../Page/シュート!.md "wikilink")」主題歌
 10. **[どうしても君がいい](https://ja.wikipedia.org/wiki/君は君だよ "wikilink")**※
       -
         作詞:小倉めぐみ / 作曲:馬飼野康二 / 編曲:CHOKKAKU
     <!-- end list -->
       - 9thシングル「君は君だよ」カップリング
-11. **[かなしいほど青い空](https://ja.wikipedia.org/wiki/SMAP_004 "wikilink")**
+11. **[かなしいほど青い空](../Page/SMAP_004.md "wikilink")**
       -
         作詞:小倉めぐみ / 作曲:多々納好夫 / 編曲:小野沢篤 / コーラスアレンジ:松下誠
     <!-- end list -->
       - 4thアルバム収録曲
-12. **[If You Give Your Heart](https://ja.wikipedia.org/wiki/If_You_Give_Your_Heart "wikilink")**※ - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
+12. **[If You Give Your Heart](../Page/If_You_Give_Your_Heart.md "wikilink")**※ - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
       -
         作詞・作曲・編曲:J.Carbone-D.Belfield
     <!-- end list -->
       - 稲垣のソロシングル
-      - 稲垣吾郎主演 映画「[プライベート・レッスン](https://ja.wikipedia.org/wiki/プライベート・レッスン "wikilink")」主題歌
+      - 稲垣吾郎主演 映画「[プライベート・レッスン](../Page/プライベート・レッスン.md "wikilink")」主題歌
     <!-- end list -->
       -
         SMAP名義アルバム初収録。
-13. **[BEST FRIEND](https://ja.wikipedia.org/wiki/負けるなBaby!_〜Never_give_up "wikilink")**（2001 version）※
+13. **[BEST FRIEND](../Page/負けるなBaby!_〜Never_give_up.md "wikilink")**（2001 version）※
       -
         作詞:福島優子・森浩美 / 作曲:筒美京平 / 編曲:河野伸 / コーラスアレンジ:知野芳彦
     <!-- end list -->
       - 4thシングル「負けるなBaby\! 〜Never give up」カップリングの新録バージョン
-14. **[Part Time Kiss](https://ja.wikipedia.org/wiki/SMAP_002 "wikilink")**（2001 version）- 木村拓哉・稲垣吾郎
+14. **[Part Time Kiss](../Page/SMAP_002.md "wikilink")**（2001 version）- 木村拓哉・稲垣吾郎
       -
         作詞:久和カノン / 作曲:川上明彦 / 編曲:CHOKKAKU
     <!-- end list -->

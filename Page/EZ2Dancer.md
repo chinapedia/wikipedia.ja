@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ＥＺ２ダンサー.JPG "wikilink") **EZ2Dancer**（イージー・トゥ・ダンサー）は、韓国のゲームメーカーAmuse World社が開発していた業務用音楽ゲーム。
 
-Amuse World社が制作した[EZ2DJ](https://ja.wikipedia.org/wiki/EZ2DJ "wikilink")が韓国で大ヒットし、その流れを受けて制作される形となった。 3枚のパネルと2つのセンサーを入力デバイスに持ち、流れる音楽と画面下から出てくるシーケンスに合わせてパネルを踏んだりセンサーをさえぎったりする。形態としては[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")社の[ダンスダンスレボリューションと](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")[ダンスマニアックス](https://ja.wikipedia.org/wiki/ダンスマニアックス "wikilink")を合わせた状態である。
+Amuse World社が制作した[EZ2DJ](https://ja.wikipedia.org/wiki/EZ2DJ "wikilink")が韓国で大ヒットし、その流れを受けて制作される形となった。 3枚のパネルと2つのセンサーを入力デバイスに持ち、流れる音楽と画面下から出てくるシーケンスに合わせてパネルを踏んだりセンサーをさえぎったりする。形態としては[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")社の[ダンスダンスレボリューションと](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")[ダンスマニアックス](../Page/ダンスマニアックス.md "wikilink")を合わせた状態である。
 
 曲はK-POPS版権曲が中心だが、EZ2DJの曲も相当数選べるようになっている。これは当作とEZ2DJをリンクさせてプレイするモードを想定していたからであるが、最終的には開発が中断し未実装で終わっている。その為、EZ2DJに収録される予定だったEZ2Dancerの移植曲はEZ2DJ 2ND TRAXにて収録される事になった。
 

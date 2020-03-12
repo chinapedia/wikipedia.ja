@@ -13,7 +13,7 @@
 
 ↑2017年8月の改良でさらに性能が向上した
 
-  - [ウォシュレット](https://ja.wikipedia.org/wiki/ウォシュレット "wikilink")一体型便器（ハイブリッドエコロジーシステム搭載含む）
+  - [ウォシュレット](../Page/ウォシュレット.md "wikilink")一体型便器（ハイブリッドエコロジーシステム搭載含む）
       - ネオレストD（SD）●（2016年頃製造停止⇒その後DHへ移行）
       - ネオレストX（EX）●（製造停止）
       - ネオレストA●（[2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")製造停止）
@@ -32,7 +32,7 @@
 
 ●（[ハイブリッドエコロジーシステム](http://www.toto.co.jp/products/toilet/t00016/03.htm)を搭載、洗浄水量大5.5L/小4.5L/eco小4L（2009年8月発売の機種からは、大4.8L/小3.6L/eco小3.4L）（2012年2月発売の機種からはそれぞれ大3.8L/小3.3L/eco小3.0L）。）
 
-  - タンク式[ウォシュレット](https://ja.wikipedia.org/wiki/ウォシュレット "wikilink")一体型便器
+  - タンク式[ウォシュレット](../Page/ウォシュレット.md "wikilink")一体型便器
       - GG●（[2014年](../Page/2014年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にマイナーチェンジ。デザインが多少変わり、プレミストが追加された。2018年2月にノズルきれいが追加され、リモコンのデザインが変更された。）
       - GG-800●（GG同様、[2014年](../Page/2014年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にマイナーチェンジ。デザインが多少変わり、プレミストが追加された。2018年2月にノズルきれいが追加され、リモコンのデザインが変更された。）
       - Zシリーズ●（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月](../Page/8月.md "wikilink")頃製造停止、後継品はGG、GG-800だが、Z4、Z5に相当するものはない。）
@@ -41,7 +41,7 @@
           -
             Zシリーズは2006年11月にモデルチェンジし、便器の洗浄水量を大6L/小5Lに改良した。
   - 住宅用システムトイレ
-      - レストパルDX●（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")製造停止）
+      - レストパルDX●（[2007年](../Page/2007年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")製造停止）
       - レストパル（2012年型以降●）
       - レストパスFシリーズ●
       - レストパルSシリーズ（2006年製造停止）
@@ -86,10 +86,10 @@
       - ネオレストEX-D●（2006年製造停止）
       - 自動洗浄大便器（CS800系・CS802系・CS99系）
       - 新節水フラッシュバルブ式便器（C480N/C743PVRS/C550SU）
-      - 腰掛式非水洗便器（C47、C47R[汲み取り式便所](https://ja.wikipedia.org/wiki/汲み取り式便所 "wikilink")）（C47は[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")製造停止）
+      - 腰掛式非水洗便器（C47、C47R[汲み取り式便所](../Page/汲み取り式便所.md "wikilink")）（C47は[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")製造停止）
   - 航空機用システムトイレ
       -
-        [ボーイング787](https://ja.wikipedia.org/wiki/ボーイング787 "wikilink")用として[日本航空](../Page/日本航空.md "wikilink")、[ジャムコ](../Page/ジャムコ.md "wikilink")、[ボーイング](../Page/ボーイング.md "wikilink")と共同開発\[3\]。
+        [ボーイング787](../Page/ボーイング787.md "wikilink")用として[日本航空](../Page/日本航空.md "wikilink")、[ジャムコ](../Page/ジャムコ.md "wikilink")、[ボーイング](../Page/ボーイング.md "wikilink")と共同開発\[3\]。
 
 ## 大便器ユニット（一部●）
 
@@ -114,7 +114,7 @@
       - ネオレストのミニチュア便器（A967）
       - 洗面器+ペデスタルミニチュア（A947）
   - [便座](https://ja.wikipedia.org/wiki/便座 "wikilink")
-      - [ウォシュレット](https://ja.wikipedia.org/wiki/ウォシュレット "wikilink")アプリコット
+      - [ウォシュレット](../Page/ウォシュレット.md "wikilink")アプリコット
 
 クリーン便座標準装備
 
@@ -128,7 +128,7 @@
       - やわらか補高便座
       - 普通便座・幼児用便座
 
-  - [小便器](https://ja.wikipedia.org/wiki/小便器 "wikilink")
+  - [小便器](../Page/小便器.md "wikilink")
 
       - 自動洗浄小便器・自動洗浄小便器ジアテクト
       - プッシュボタン小便器
@@ -313,7 +313,7 @@
       - ガスユプロ（RGE/RGW/RGHシリーズ）※4
       - クイック循環ユニット
 
-※1※2は[コロナへ移譲した](https://ja.wikipedia.org/wiki/コロナ_\(暖房器具\) "wikilink")。 ※3※4は[ノーリツ](https://ja.wikipedia.org/wiki/ノーリツ "wikilink")へ移譲した。
+※1※2は[コロナへ移譲した](../Page/コロナ_\(暖房器具\).md "wikilink")。 ※3※4は[ノーリツ](../Page/ノーリツ.md "wikilink")へ移譲した。
 
 ## その他設備商品
 
@@ -332,13 +332,13 @@
       - 乳児バス(BH25/BH26)
       - 自動手指消毒器 ワンショットクリーン
       - 感染症手洗カウンター メディケート
-      - 自動消毒手洗器（[HACCP](https://ja.wikipedia.org/wiki/HACCP "wikilink")対応）
+      - 自動消毒手洗器（[HACCP](../Page/HACCP.md "wikilink")対応）
       - 実験用流し(SK6/SK7/SK73R/SK138/SK146)
       - 汚物流し(SK33/SK35)(SKL330●)
       - 掃除用流し(SK322/SK22A)
       - 洗髪器(S305DUN)
   - 配管王（樹脂配管システム）
-      - 防火システム（住宅用[スプリンクラー](https://ja.wikipedia.org/wiki/スプリンクラー "wikilink")）
+      - 防火システム（住宅用[スプリンクラー](../Page/スプリンクラー.md "wikilink")）
       - 排水システム
 
 ## CERA

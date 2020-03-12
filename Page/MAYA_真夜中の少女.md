@@ -30,7 +30,7 @@
   - 村川政憲
     東都大で[超伝導](../Page/超伝導.md "wikilink")の研究をしていたが超能力の存在を確信し、超能力の研究にのめり込む。
   - 木場修
-    真夜を凌ぐ予知能力を持ち、人を思い通りに事故に遭わせることが出来る。真夜は木場とキスすることによって隠れた力を引き出した。最後はより強力な力を持った真夜に予知を封じられた（彼自身の予知は正確だったが、真夜は更にそれを上回る能力で彼が起こそうとした事故を防いだ）上に、今まで自分が虫けらのように殺してきた不良達に[リンチ](https://ja.wikipedia.org/wiki/リンチ "wikilink")を受け、ノイローゼとなる。
+    真夜を凌ぐ予知能力を持ち、人を思い通りに事故に遭わせることが出来る。真夜は木場とキスすることによって隠れた力を引き出した。最後はより強力な力を持った真夜に予知を封じられた（彼自身の予知は正確だったが、真夜は更にそれを上回る能力で彼が起こそうとした事故を防いだ）上に、今まで自分が虫けらのように殺してきた不良達に[リンチ](../Page/リンチ.md "wikilink")を受け、ノイローゼとなる。
   - 畑中
     警部補。超能力を信じていなかったが、真夜やあけなと仕事をするうちに良き理解者となった。
   - 北斗あけな
@@ -42,53 +42,53 @@
 
 ## 備考
 
-  - 『週刊少年マガジン』1995年40号から42号まで掲載された第20章「闇の住人たち〈殺人鬼〉」は、[サイコパスの連続殺人犯を描いた話であるが](https://ja.wikipedia.org/wiki/精神病質 "wikilink")、その描写について全国障害者解放運動連絡会議から「犯罪と精神障害を結びつけ、精神障害者への差別をあおっている」と抗議があり、単行本未収録となっている\[1\]。
+  - 『週刊少年マガジン』1995年40号から42号まで掲載された第20章「闇の住人たち〈殺人鬼〉」は、[サイコパスの連続殺人犯を描いた話であるが](../Page/精神病質.md "wikilink")、その描写について全国障害者解放運動連絡会議から「犯罪と精神障害を結びつけ、精神障害者への差別をあおっている」と抗議があり、単行本未収録となっている\[1\]。
   - 作者がプロレスファンのため、様々なレスラーの名前が登場する。「武藤ケイジ（二重人格という設定）」「村川政憲（ザ・グレート・サスケ）」「江崎英治（ハヤブサ）」「冬木（弘道）」「脇田洋人（スペル・デルフィン）」「北斗あけな（北斗晶）」など。
 
 ## ドラマ
 
-2002年に『[日テレジェニック](https://ja.wikipedia.org/wiki/日テレジェニック "wikilink")2002卒業制作ドラマ 真夜中の少女MAYA』として実写ドラマ化され、[2003年](../Page/2003年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[BS日テレで放送された](../Page/BS日本.md "wikilink")。「赤と黒の仮面」「真夜中の少女の冒険」「虚空の眼」「少女は黄昏の中で…」の4作品の[オムニバス](../Page/オムニバス.md "wikilink")形式となっている。
+2002年に『[日テレジェニック](../Page/日テレジェニック.md "wikilink")2002卒業制作ドラマ 真夜中の少女MAYA』として実写ドラマ化され、[2003年](../Page/2003年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[BS日テレで放送された](../Page/BS日本.md "wikilink")。「赤と黒の仮面」「真夜中の少女の冒険」「虚空の眼」「少女は黄昏の中で…」の4作品の[オムニバス](../Page/オムニバス.md "wikilink")形式となっている。
 
 ### スタッフ
 
   - 監督: 中島敦
-  - 脚本: [本島幸久](../Page/本島幸久.md "wikilink")（赤と黒の仮面）、[原田裕司](https://ja.wikipedia.org/wiki/原田裕司 "wikilink")（赤と黒の仮面）、[津村美智子](https://ja.wikipedia.org/wiki/津村美智子 "wikilink")（真夜中の少女の冒険）、[青木英美](https://ja.wikipedia.org/wiki/青木英美 "wikilink")（虚空の眼）、[安部陽子](https://ja.wikipedia.org/wiki/安部陽子 "wikilink")（少女は黄昏の中で…）、[堀口みち子](https://ja.wikipedia.org/wiki/堀口みち子 "wikilink")（少女は黄昏の中で…）　
+  - 脚本: [本島幸久](../Page/本島幸久.md "wikilink")（赤と黒の仮面）、[原田裕司](https://ja.wikipedia.org/wiki/原田裕司 "wikilink")（赤と黒の仮面）、[津村美智子](https://ja.wikipedia.org/wiki/津村美智子 "wikilink")（真夜中の少女の冒険）、[青木英美](../Page/青木英美.md "wikilink")（虚空の眼）、[安部陽子](https://ja.wikipedia.org/wiki/安部陽子 "wikilink")（少女は黄昏の中で…）、[堀口みち子](https://ja.wikipedia.org/wiki/堀口みち子 "wikilink")（少女は黄昏の中で…）　
   - プロデューサー: 近貞博、小寺洋
   - 音楽: [木村祐士](https://ja.wikipedia.org/wiki/木村祐士 "wikilink")
   - 制作協力：クリエイティブビジョン
-  - 製作著作：[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")
+  - 製作著作：[バップ](../Page/バップ.md "wikilink")
 
 ### キャスト
 
 #### 赤と黒の仮面
 
   - マヤ：[森本さやか](../Page/森本さやか_\(タレント\).md "wikilink")
-  - 武藤ケイジ：[倉貫匡弘](https://ja.wikipedia.org/wiki/倉貫匡弘 "wikilink")
-  - 川村まりあ：[福愛美](https://ja.wikipedia.org/wiki/福愛美 "wikilink")
+  - 武藤ケイジ：[倉貫匡弘](../Page/倉貫匡弘.md "wikilink")
+  - 川村まりあ：[福愛美](../Page/福愛美.md "wikilink")
   - [伊藤弘顕](https://ja.wikipedia.org/wiki/伊藤弘顕 "wikilink")
 
 #### 真夜中の少女の冒険
 
   - マヤ：[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")
   - 木場：[奥瀬雄大](https://ja.wikipedia.org/wiki/奥瀬雄大 "wikilink")
-  - 真島：[宮崎将](https://ja.wikipedia.org/wiki/宮崎将 "wikilink")
-  - 芦田：[高濱正朋](https://ja.wikipedia.org/wiki/高濱正朋 "wikilink")
+  - 真島：[宮崎将](../Page/宮崎将.md "wikilink")
+  - 芦田：[高濱正朋](../Page/高濱正朋.md "wikilink")
   - [折原みか](../Page/折原みか.md "wikilink")
 
 #### 虚空の眼
 
-  - マヤ：[佐藤めぐみ](https://ja.wikipedia.org/wiki/佐藤めぐみ "wikilink")
+  - マヤ：[佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")
   - かおり：[小森早也香](https://ja.wikipedia.org/wiki/小森早也香 "wikilink")
   - [真帆](../Page/鵜飼真帆.md "wikilink")
   - [酒井伸泰](https://ja.wikipedia.org/wiki/酒井伸泰 "wikilink")
 
 #### 少女は黄昏の中で…
 
-  - マヤ：[藤本綾](https://ja.wikipedia.org/wiki/藤本綾 "wikilink")
+  - マヤ：[藤本綾](../Page/藤本綾.md "wikilink")
   - 志織：[畑中梨沙](https://ja.wikipedia.org/wiki/畑中梨沙 "wikilink")
   - [フランキー仲村](https://ja.wikipedia.org/wiki/フランキー仲村 "wikilink")
-  - [西村優子](https://ja.wikipedia.org/wiki/西村優子 "wikilink")
-  - [古賀亘](https://ja.wikipedia.org/wiki/古賀亘 "wikilink")
+  - [西村優子](../Page/西村優子.md "wikilink")
+  - [古賀亘](../Page/古賀亘.md "wikilink")
 
 ## 脚注
 

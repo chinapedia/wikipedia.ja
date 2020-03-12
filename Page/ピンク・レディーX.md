@@ -5,15 +5,15 @@
 
 ## 概要
 
-1996年のピンク・レディー20周年を記念し\[1\]、[電通](../Page/電通.md "wikilink")と[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")の共同プロジェクトという形で登場した\[2\]。同時期に登場した「DK-96/[伊達杏子](https://ja.wikipedia.org/wiki/伊達杏子 "wikilink")」のような3DCGによる、2人が変身したという設定の[バーチャルアイドル](https://ja.wikipedia.org/wiki/バーチャルアイドル "wikilink")版の同時展開も行われた\[3\]。バーチャルアイドル版は、[田中秀幸のデザインによるもので](https://ja.wikipedia.org/wiki/田中秀幸_\(アートディレクター\) "wikilink")\[4\]、生身の2人の動きを[モーションキャプチャ](../Page/モーションキャプチャ.md "wikilink")で取り込んで映像を作成していた\[5\]。デビュー曲「恋の診察室 '97」は10万枚\[6\]を売り上げたものの、その後は注目度も低下し、シングル3枚を出したのみで以後活動せずそのまま自然消滅した。バーチャルアイドル版についても、採算上は厳しいものだっただろうと言われている\[7\]。
+1996年のピンク・レディー20周年を記念し\[1\]、[電通](../Page/電通.md "wikilink")と[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")の共同プロジェクトという形で登場した\[2\]。同時期に登場した「DK-96/[伊達杏子](../Page/伊達杏子.md "wikilink")」のような3DCGによる、2人が変身したという設定の[バーチャルアイドル](../Page/バーチャルアイドル.md "wikilink")版の同時展開も行われた\[3\]。バーチャルアイドル版は、[田中秀幸のデザインによるもので](../Page/田中秀幸_\(アートディレクター\).md "wikilink")\[4\]、生身の2人の動きを[モーションキャプチャ](../Page/モーションキャプチャ.md "wikilink")で取り込んで映像を作成していた\[5\]。デビュー曲「恋の診察室 '97」は10万枚\[6\]を売り上げたものの、その後は注目度も低下し、シングル3枚を出したのみで以後活動せずそのまま自然消滅した。バーチャルアイドル版についても、採算上は厳しいものだっただろうと言われている\[7\]。
 
 なお、この企画は本家ピンク・レディーに知らされていなかったこともあり、デビュー時の本家ピンク・レディーへのインタビューでは「X？何ですかそれ？」「知りません」といった発言が週刊誌等に掲載されたこともあった。
 
 [2000年](../Page/2000年.md "wikilink")前後にピンク・レディーX公式HPが閉鎖。
 
-本家ピンク・レディーのシングル『UFO』のB面曲として『レディーX』が、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")の一機種として[大一商会](https://ja.wikipedia.org/wiki/大一商会 "wikilink")から出ている「CRピンクレディーX」が存在するが、このグループとは関連性は全くない。
+本家ピンク・レディーのシングル『UFO』のB面曲として『レディーX』が、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")の一機種として[大一商会](../Page/大一商会.md "wikilink")から出ている「CRピンクレディーX」が存在するが、このグループとは関連性は全くない。
 
-2006年に[劇団](https://ja.wikipedia.org/wiki/劇団 "wikilink")・[大人計画](../Page/大人計画.md "wikilink")が多摩市・旧西落合中学校で行った「[大人計画フェスティバル](https://ja.wikipedia.org/wiki/大人計画フェスティバル "wikilink")」において「[松尾スズキ](../Page/松尾スズキ.md "wikilink")と“ママさんコーラス”」その他に出演した[筒井明日](https://ja.wikipedia.org/wiki/筒井明日 "wikilink")（つつい・さやか）は、松尾スズキによれば、ピンク・レディーXのメンバーであった\[8\]。なお筒井は2004年の「松尾スズキ物語」（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [BS-hi](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")「いま裸にしたい男たち-松尾スズキ・41歳-」番組内の企画）にも出演している。
+2006年に[劇団](../Page/劇団.md "wikilink")・[大人計画](../Page/大人計画.md "wikilink")が多摩市・旧西落合中学校で行った「[大人計画フェスティバル](https://ja.wikipedia.org/wiki/大人計画フェスティバル "wikilink")」において「[松尾スズキ](../Page/松尾スズキ.md "wikilink")と“ママさんコーラス”」その他に出演した[筒井明日](https://ja.wikipedia.org/wiki/筒井明日 "wikilink")（つつい・さやか）は、松尾スズキによれば、ピンク・レディーXのメンバーであった\[8\]。なお筒井は2004年の「松尾スズキ物語」（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [BS-hi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")「いま裸にしたい男たち-松尾スズキ・41歳-」番組内の企画）にも出演している。
 
 ## シングル
 
@@ -23,13 +23,13 @@
 
 ## 音楽出版権利・管理
 
-  - 全ての楽曲の出版権利・管理は[バーニングパブリッシャーズ](https://ja.wikipedia.org/wiki/バーニングパブリッシャーズ "wikilink")にある。\[9\]
+  - 全ての楽曲の出版権利・管理は[バーニングパブリッシャーズ](../Page/バーニングパブリッシャーズ.md "wikilink")にある。\[9\]
 
 　
 
 ## CM出演
 
-  - [アロンアルフア](https://ja.wikipedia.org/wiki/アロンアルフア "wikilink")
+  - [アロンアルフア](../Page/アロンアルフア.md "wikilink")
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
   - [IIJ4U](https://ja.wikipedia.org/wiki/IIJ4U "wikilink")（[IIJ](https://ja.wikipedia.org/wiki/IIJ "wikilink")の個人向けサービス）
 

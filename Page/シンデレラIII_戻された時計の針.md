@@ -1,7 +1,7 @@
 > この記事は[III ](https://ja.wikipedia.org/wiki/III_)から翻訳されています。
 
 
-『**シンデレラIII 戻された時計の針**』（シンデレラスリー もどされたとけいのはり、原題：*Cinderella III: A Twist in Time*）は、[ディズニーの](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")[映画](../Page/映画.md "wikilink")『[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")』の続編の[OVA](../Page/OVA.md "wikilink")作品。[2007年](../Page/2007年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")（日本語版は同年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）に発売された。なお、『**[シンデレラII](https://ja.wikipedia.org/wiki/シンデレラII "wikilink")**』に続くシンデレラの二度目の続編である。[ブエナビスタ ホーム エンターテイメント](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")（当時）の表示では、本編約74分。
+『**シンデレラIII 戻された時計の針**』（シンデレラスリー もどされたとけいのはり、原題：*Cinderella III: A Twist in Time*）は、[ディズニーの](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")[映画](../Page/映画.md "wikilink")『[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")』の続編の[OVA](../Page/OVA.md "wikilink")作品。[2007年](../Page/2007年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")（日本語版は同年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）に発売された。なお、『**[シンデレラII](../Page/シンデレラII.md "wikilink")**』に続くシンデレラの二度目の続編である。[ブエナビスタ ホーム エンターテイメント](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")（当時）の表示では、本編約74分。
 
 ## あらすじ
 
@@ -59,17 +59,17 @@
 <td><p>プリンス・チャーミング<br />
 （王子）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・ダニエル・バーンズ" title="wikilink">クリストファー・ダニエル・バーンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀内賢雄" title="wikilink">堀内賢雄</a></p></td>
+<td><p><a href="../Page/堀内賢雄.md" title="wikilink">堀内賢雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>フェアリー・ゴッドマザー<br />
 （妖精のおばあさん）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルシー・テイラー" title="wikilink">ルシー・テイラー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京田尚子" title="wikilink">京田尚子</a></p></td>
+<td><p><a href="../Page/京田尚子.md" title="wikilink">京田尚子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ドリゼラ・トレメイン</p></td>
-<td><p>台詞：<a href="https://ja.wikipedia.org/wiki/安達忍" title="wikilink">安達忍</a><br />
+<td><p>台詞：<a href="../Page/安達忍.md" title="wikilink">安達忍</a><br />
 歌：<a href="https://ja.wikipedia.org/wiki/美咲黎" title="wikilink">美咲黎</a></p></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@
 <tr class="even">
 <td><p>アナスタシア・トレメイン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トレス・マクニール" title="wikilink">トレス・マクニール</a></p></td>
-<td><p>台詞：<a href="https://ja.wikipedia.org/wiki/喜田あゆ美" title="wikilink">喜田あゆ美</a><br />
+<td><p>台詞：<a href="../Page/喜田あゆ美.md" title="wikilink">喜田あゆ美</a><br />
 歌：<a href="https://ja.wikipedia.org/wiki/内田ゆう" title="wikilink">内田ゆう</a></p></td>
 </tr>
 <tr class="odd">
@@ -98,24 +98,24 @@
 </tr>
 <tr class="odd">
 <td><p>大公</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎ひろし" title="wikilink">岩崎ひろし</a></p></td>
+<td><p><a href="../Page/岩崎ひろし.md" title="wikilink">岩崎ひろし</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ガス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コーリー・バートン" title="wikilink">コーリー・バートン</a></p></td>
+<td><p><a href="../Page/コーリー・バートン.md" title="wikilink">コーリー・バートン</a></p></td>
 <td><p>台詞：<a href="../Page/亀山助清.md" title="wikilink">亀山助清</a><br />
 歌：<a href="https://ja.wikipedia.org/wiki/安西康高" title="wikilink">安西康高</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>プルーデンス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホランド・テイラー" title="wikilink">ホランド・テイラー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷育子" title="wikilink">谷育子</a></p></td>
+<td><p><a href="../Page/ホランド・テイラー.md" title="wikilink">ホランド・テイラー</a></p></td>
+<td><p><a href="../Page/谷育子.md" title="wikilink">谷育子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>郵便屋</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長嶝高士" title="wikilink">長嶝高士</a></p></td>
+<td><p><a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ルシファー</p></td>
@@ -130,7 +130,7 @@
 </tbody>
 </table>
 
-  - その他の日本語版吹き替え：[三宅健太](https://ja.wikipedia.org/wiki/三宅健太 "wikilink")／[藤本譲](https://ja.wikipedia.org/wiki/藤本譲 "wikilink")／[井浦愛](../Page/井浦愛.md "wikilink")／[須部和佳奈](https://ja.wikipedia.org/wiki/須部和佳奈 "wikilink")／[藤堂まり](https://ja.wikipedia.org/wiki/藤堂まり "wikilink")／[仁科洋平](https://ja.wikipedia.org/wiki/仁科洋平 "wikilink")／[太田哲治](https://ja.wikipedia.org/wiki/太田哲治 "wikilink")／[岸野真一](https://ja.wikipedia.org/wiki/岸野真一 "wikilink")／[伝坂勉](https://ja.wikipedia.org/wiki/伝坂勉 "wikilink")／[三浦博和](https://ja.wikipedia.org/wiki/三浦博和 "wikilink")
+  - その他の日本語版吹き替え：[三宅健太](../Page/三宅健太.md "wikilink")／[藤本譲](../Page/藤本譲.md "wikilink")／[井浦愛](../Page/井浦愛.md "wikilink")／[須部和佳奈](https://ja.wikipedia.org/wiki/須部和佳奈 "wikilink")／[藤堂まり](https://ja.wikipedia.org/wiki/藤堂まり "wikilink")／[仁科洋平](../Page/仁科洋平.md "wikilink")／[太田哲治](../Page/太田哲治.md "wikilink")／[岸野真一](https://ja.wikipedia.org/wiki/岸野真一 "wikilink")／[伝坂勉](../Page/伝坂勉.md "wikilink")／[三浦博和](../Page/三浦博和.md "wikilink")
 
 ## スタッフ
 
@@ -165,6 +165,6 @@
 
 ## サウンドトラック
 
-[ヘイデン・パネッティーア](https://ja.wikipedia.org/wiki/ヘイデン・パネッティーア "wikilink")が歌う『*I Still Believe*』がエンドクレジットで流されるとともに、同曲のミュージック・クリップがDVDの特典として収録されている。公式の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")は未発売。
+[ヘイデン・パネッティーア](../Page/ヘイデン・パネッティーア.md "wikilink")が歌う『*I Still Believe*』がエンドクレジットで流されるとともに、同曲のミュージック・クリップがDVDの特典として収録されている。公式の[サウンドトラック](../Page/サウンドトラック.md "wikilink")は未発売。
 
 [Category:シンデレラ_(ディズニー)](https://ja.wikipedia.org/wiki/Category:シンデレラ_\(ディズニー\) "wikilink") [Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:タイムトラベルを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたアニメ映画 "wikilink") [Category:2007年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2007年のアニメ映画 "wikilink") [Category:ジョエル・マクニーリーの作曲映画](https://ja.wikipedia.org/wiki/Category:ジョエル・マクニーリーの作曲映画 "wikilink")

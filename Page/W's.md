@@ -3,21 +3,21 @@
 
 **W's**（ウィズ）は、[1996年](../Page/1996年.md "wikilink")に1年間限定で結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-もともとは[横山智佐](https://ja.wikipedia.org/wiki/横山智佐 "wikilink")と[野上ゆかな](https://ja.wikipedia.org/wiki/野上ゆかな "wikilink")（現在の芸名はゆかな）によるデュエットでRPGゲームの『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")（Wizardry）』のイメージCDおよびシングルCDを発売する企画だった。W'sというユニット名もウィザードリィの愛称である『ウィズ』からきている。
+もともとは[横山智佐](../Page/横山智佐.md "wikilink")と[野上ゆかな](https://ja.wikipedia.org/wiki/野上ゆかな "wikilink")（現在の芸名はゆかな）によるデュエットでRPGゲームの『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")（Wizardry）』のイメージCDおよびシングルCDを発売する企画だった。W'sというユニット名もウィザードリィの愛称である『ウィズ』からきている。
 
 [1996年](../Page/1996年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に渋谷ON AIR WESTで開催した『W's旗揚げライブ』から活動開始し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月13日](../Page/8月13日.md "wikilink")に赤坂BLITZで開催した『W'sファイナルライブ』にて活動終了。
 
 ## メンバー
 
-  - [IKURO](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink") - キーボード、コーラス
+  - [IKURO](../Page/藤原いくろう.md "wikilink") - キーボード、コーラス
   - SPARK - ギター
   - TORU - ベース
-  - [CHISA](https://ja.wikipedia.org/wiki/横山智佐 "wikilink") - ボーカル
+  - [CHISA](../Page/横山智佐.md "wikilink") - ボーカル
   - [YUKA](../Page/ゆかな.md "wikilink") - ボーカル
 
 ## ディスコグラフィー
 
-特に記述していない曲は、全て歌：CHISA\&YUKA、編曲：[藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")
+特に記述していない曲は、全て歌：CHISA\&YUKA、編曲：[藤原いくろう](../Page/藤原いくろう.md "wikilink")
 
 ### アルバム
 

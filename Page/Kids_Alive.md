@@ -5,24 +5,24 @@
 
 ## 概要
 
-Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")で結成される。[2000年](../Page/2000年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で1作の[シングル](../Page/シングル.md "wikilink")を発表したのち、[2001年](../Page/2001年.md "wikilink")にシングル『雨』でメジャーデビューを果たす。デビュー時、メンバー全員が現役の[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")であった。このデビューを機に彼らは活動の拠点を北海道から東京に移す。同じく2001年、シングル『[ボクらの冒険](https://ja.wikipedia.org/wiki/ボクらの冒険 "wikilink")』がヒットし、[オリコンによる](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")で30位を記録する。翌年の2002年には彼らの唯一のアルバムとなる『3 Colors Infinity』を発表した。2003年、シングル『ふたりの季節〜North Point〜』を発表後、活動休止となった。
+Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")で結成される。[2000年](../Page/2000年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で1作の[シングル](../Page/シングル.md "wikilink")を発表したのち、[2001年](../Page/2001年.md "wikilink")にシングル『雨』でメジャーデビューを果たす。デビュー時、メンバー全員が現役の[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")であった。このデビューを機に彼らは活動の拠点を北海道から東京に移す。同じく2001年、シングル『[ボクらの冒険](https://ja.wikipedia.org/wiki/ボクらの冒険 "wikilink")』がヒットし、[オリコンによる](../Page/オリコンチャート.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")で30位を記録する。翌年の2002年には彼らの唯一のアルバムとなる『3 Colors Infinity』を発表した。2003年、シングル『ふたりの季節〜North Point〜』を発表後、活動休止となった。
 
 ## メンバー
 
-**Akihiro** - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+**Akihiro** - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
 
   -
-    [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")生まれで本名は山村明弘。[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ストレイ・キャッツ](https://ja.wikipedia.org/wiki/ストレイ・キャッツ "wikilink")、[アッシュといったバンドを好んでいる](https://ja.wikipedia.org/wiki/アッシュ_\(バンド\) "wikilink")。
+    [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")生まれで本名は山村明弘。[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ストレイ・キャッツ](../Page/ストレイ・キャッツ.md "wikilink")、[アッシュといったバンドを好んでいる](../Page/アッシュ_\(バンド\).md "wikilink")。
 
 **Yuta** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当
 
   -
-    [1984年](../Page/1984年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")生まれで本名は相原憂太。好んでいるバンドは[グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")。彼はバンドの活動休止後、[ホストに転身しており](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")、のちに[club Princeという現役ホストによる音楽グループを結成した](https://ja.wikipedia.org/wiki/club_Prince "wikilink")。club Princeでは「Yuga」という名前を使用している。なお、club Princeは[2007年](../Page/2007年.md "wikilink")にメジャーデビューしている。
+    [1984年](../Page/1984年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")生まれで本名は相原憂太。好んでいるバンドは[グリーン・デイ](../Page/グリーン・デイ.md "wikilink")。彼はバンドの活動休止後、[ホストに転身しており](../Page/ホストクラブ.md "wikilink")、のちに[club Princeという現役ホストによる音楽グループを結成した](https://ja.wikipedia.org/wiki/club_Prince "wikilink")。club Princeでは「Yuga」という名前を使用している。なお、club Princeは[2007年](../Page/2007年.md "wikilink")にメジャーデビューしている。
 
 **Keiji** - [ギター](../Page/ギター.md "wikilink")担当
 
   -
-    [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")生まれで本名は管野浩司。好んでいるバンドは[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")。本名でclub Princeに楽曲提供を行っている。
+    [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")生まれで本名は管野浩司。好んでいるバンドは[ビートルズ](../Page/ビートルズ.md "wikilink")。本名でclub Princeに楽曲提供を行っている。
 
 ## 作品
 
@@ -63,7 +63,7 @@ Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wik
     4.  サマーバケーション 〜ボクらは運命共同体＼(\*^-^\*)/〜 (TV MIX)\[3:47\]
     5.  無心な世界 (TV MIX)\[4:09\]
     6.  オレンジの 『そら』 (TV MIX)\[4:01\]
-4.  『[ボクらの冒険](https://ja.wikipedia.org/wiki/ボクらの冒険 "wikilink")』（2001年11月14日）[オリコン最高順位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")30位
+4.  『[ボクらの冒険](https://ja.wikipedia.org/wiki/ボクらの冒険 "wikilink")』（2001年11月14日）[オリコン最高順位](../Page/オリコンチャート.md "wikilink")30位
     1.  ボクらの冒険\[3:56\]
           -
             作詞：Keiji／作曲：Keiji・朝三“sammy”憲一／編曲：Kids Alive・朝三“sammy”憲一
@@ -132,17 +132,17 @@ Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wik
 
 ## タイアップ
 
-|                                                                                       |                                                                                                                |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 雨                                                                                     | 音楽番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』 エンディングテーマ |
-| Top Speed                                                                             | [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")「スーパースター」 コマーシャルソング                                         |
-| バラエティ番組『[e-girl](https://ja.wikipedia.org/wiki/e-girl "wikilink")』 エンディングテーマ          |                                                                                                                |
-| サマーバケーション〜ボクらは運命共同体＼(\*^-^\*)／〜                                                       | バラエティ番組『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』 エンディングテーマ                                              |
-| ボクらの冒険                                                                                | テレビアニメ『[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")』 エンディングテーマ                              |
-| 音楽番組『[倫敦音楽館 Lon-mu](https://ja.wikipedia.org/wiki/倫敦音楽館_Lon-mu "wikilink")』 オープニングテーマ |                                                                                                                |
-| Never mind                                                                            | バラエティ番組『[オフレコ\!](https://ja.wikipedia.org/wiki/オフレコ! "wikilink")』 エンディングテーマ                                    |
-| 2nd STAGE                                                                             | テレビアニメ『[ハングリーハート WILD STRIKER](https://ja.wikipedia.org/wiki/ハングリーハート_WILD_STRIKER "wikilink")』 オープニングテーマ      |
-| ふたりの季節〜North Point〜                                                                   | テレビドラマ『[ノースポイント](https://ja.wikipedia.org/wiki/ノースポイント "wikilink")』 主題歌                                        |
+|                                                                              |                                                                                                                |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 雨                                                                            | 音楽番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』 エンディングテーマ |
+| Top Speed                                                                    | [ミズノ](../Page/ミズノ.md "wikilink")「スーパースター」 コマーシャルソング                                                            |
+| バラエティ番組『[e-girl](https://ja.wikipedia.org/wiki/e-girl "wikilink")』 エンディングテーマ |                                                                                                                |
+| サマーバケーション〜ボクらは運命共同体＼(\*^-^\*)／〜                                              | バラエティ番組『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』 エンディングテーマ                                              |
+| ボクらの冒険                                                                       | テレビアニメ『[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")』 エンディングテーマ                              |
+| 音楽番組『[倫敦音楽館 Lon-mu](../Page/倫敦音楽館_Lon-mu.md "wikilink")』 オープニングテーマ           |                                                                                                                |
+| Never mind                                                                   | バラエティ番組『[オフレコ\!](../Page/オフレコ!.md "wikilink")』 エンディングテーマ                                                       |
+| 2nd STAGE                                                                    | テレビアニメ『[ハングリーハート WILD STRIKER](../Page/ハングリーハート_WILD_STRIKER.md "wikilink")』 オープニングテーマ                         |
+| ふたりの季節〜North Point〜                                                          | テレビドラマ『[ノースポイント](../Page/ノースポイント.md "wikilink")』 主題歌                                                           |
 
 ## 参考資料
 
@@ -150,7 +150,7 @@ Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wik
   - CDJournal.com / [Kids Alive](http://www.cdjournal.com/main/artist/artist.php?ano=139313)
   - Listen Japan / [Kids Alive](http://listen.jp/store/artist_1146636.htm)
   - OnGen / [Kids Alive](http://www.ongen.net/search_detail_artist/artist_id/at0000006867/)
-  - [夢チカ18](https://ja.wikipedia.org/wiki/夢チカ18 "wikilink")公式サイト / [2001年3月30日の放送内容](http://www.htb.co.jp/yumechika/b_naiyou/20010330.html)
+  - [夢チカ18](../Page/夢チカ18.md "wikilink")公式サイト / [2001年3月30日の放送内容](http://www.htb.co.jp/yumechika/b_naiyou/20010330.html)
   - [club Prince公式サイト](https://ja.wikipedia.org/wiki/club_Prince "wikilink") / [PROFILE](http://avexnet.or.jp/clubprince/profile)
 
 ## 外部リンク

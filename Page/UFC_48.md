@@ -7,7 +7,7 @@
 
 ## 大会概要
 
-メインイベントでは[ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink")と[キモが対戦](https://ja.wikipedia.org/wiki/キモ・レオポルド "wikilink")。シャムロックがキモをKOで破った。
+メインイベントでは[ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink")と[キモが対戦](../Page/キモ・レオポルド.md "wikilink")。シャムロックがキモをKOで破った。
 
 第6試合の世界ヘビー級タイトルマッチではフランク・ミアがティム・シルビアから腕ひしぎ十字固めで見込み一本勝ちを収め第10代世界ヘビー級王者となった。
 
@@ -18,32 +18,32 @@
 ### プレリミナリィカード
 
   - 第1試合 ウェルター級 5分3R
-    ○  [ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink") vs.  [ジェイ・ヒエロン](https://ja.wikipedia.org/wiki/ジェイ・ヒエロン "wikilink") ×
-    1R 1:42 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") vs.  [ジェイ・ヒエロン](https://ja.wikipedia.org/wiki/ジェイ・ヒエロン "wikilink") ×
+    1R 1:42 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 ミドル級 5分3R
     ○  [トレヴァー・プラングリー](../Page/トレヴァー・プラングリー.md "wikilink") vs.  カーティス・スタウト ×
     2R 1:05 [ネックロック](https://ja.wikipedia.org/wiki/ネックロック "wikilink")
   - 第3試合 ライト級 5分3R
-    ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  [アイヴァン・メンジバー](https://ja.wikipedia.org/wiki/アイヴァン・メンジバー "wikilink") ×
+    ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  [アイヴァン・メンジバー](../Page/アイヴァン・メンジバー.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
 
 ### メインカード
 
   - 第4試合 ミドル級 5分3R
-    ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  [フィル・バローニ](https://ja.wikipedia.org/wiki/フィル・バローニ "wikilink") ×
+    ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  [フィル・バローニ](../Page/フィル・バローニ.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、29-28）
   - 第5試合 ウェルター級 5分3R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [ヘナート・ヴェリッシモ](https://ja.wikipedia.org/wiki/ヘナート・ヴェリッシモ "wikilink") ×
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [ヘナート・ヴェリッシモ](https://ja.wikipedia.org/wiki/ヘナート・ヴェリッシモ "wikilink") ×
     3R終了 判定3-0（29-28、30-27、30-27）
   - 第6試合 UFC世界ヘビー級王座決定戦 5分5R
     ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") ×
-    1R 0:50 TKO（レフェリーストップ：[腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")）
+    1R 0:50 TKO（レフェリーストップ：[腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）
     ※ミアが王座獲得に成功。
   - 第7試合 ウェルター級 5分3R
     ○  [フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink") vs.  [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink") ×
-    1R 4:15 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 4:15 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 ヘビー級 5分3R
-    ○  [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink") vs.  [キモ](https://ja.wikipedia.org/wiki/キモ・レオポルド "wikilink") ×
+    ○  [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink") vs.  [キモ](../Page/キモ・レオポルド.md "wikilink") ×
     1R 1:26 KO（右膝蹴り）
 
 ## 脚注
@@ -51,7 +51,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

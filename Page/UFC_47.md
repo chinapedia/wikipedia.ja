@@ -3,13 +3,13 @@
 
 **UFC 47: It's On**（ユーエフシー・フォーティセブン：イッツ・オン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[マンダレイ・ベイ・イベント・センター](https://ja.wikipedia.org/wiki/マンダレイ・ベイ・イベント・センター "wikilink")で開催された。
 
-メインイベントでは[チャック・リデル](../Page/チャック・リデル.md "wikilink")と[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")のライトヘビー級戦が行われた。
+メインイベントでは[チャック・リデル](../Page/チャック・リデル.md "wikilink")と[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")のライトヘビー級戦が行われた。
 
 ## 大会概要
 
-各階級ともタイトルマッチは行われず。メインイベントでは[チャック・リデル](../Page/チャック・リデル.md "wikilink")が[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")をKOで破った。
+各階級ともタイトルマッチは行われず。メインイベントでは[チャック・リデル](../Page/チャック・リデル.md "wikilink")が[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")をKOで破った。
 
-ヘビー級では[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")が薬物検査をクリアすることができず\[1\]、[アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink")とのヘビー級タイトルマッチが延期となった。
+ヘビー級では[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")が薬物検査をクリアすることができず\[1\]、[アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink")とのヘビー級タイトルマッチが延期となった。
 
 また、[ウェズリー・コレイラ](https://ja.wikipedia.org/wiki/ウェズリー・コレイラ "wikilink")は当初マイク・カイルとの対戦が予定されていたが、カイルが本大会でウェス・シムズと再戦する運びとなったため、アルロフスキーと対戦することとなった。
 
@@ -20,11 +20,11 @@
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [須藤元気](https://ja.wikipedia.org/wiki/須藤元気 "wikilink") vs.  [マイク・トーマス・ブラウン](https://ja.wikipedia.org/wiki/マイク・トーマス・ブラウン "wikilink") ×
-    1R 3:31 [腕ひしぎ三角固め](https://ja.wikipedia.org/wiki/腕挫三角固 "wikilink")
+    ○  [須藤元気](../Page/須藤元気.md "wikilink") vs.  [マイク・トーマス・ブラウン](https://ja.wikipedia.org/wiki/マイク・トーマス・ブラウン "wikilink") ×
+    1R 3:31 [腕ひしぎ三角固め](../Page/腕挫三角固.md "wikilink")
   - 第2試合 ヘビー級 5分3R
     ○  ジョナサン・ウィゾレック vs.  ウェイド・シップ ×
-    1R 4:40 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 4:40 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 ヘビー級 5分3R
     ○  マイク・カイル vs.  [ウェス・シムズ](https://ja.wikipedia.org/wiki/ウェス・シムズ "wikilink") ×
     1R 4:59 KO（右ストレート）
@@ -35,16 +35,16 @@
     ○  [ニック・ディアス](../Page/ニック・ディアス.md "wikilink") vs.  [ロビー・ローラー](../Page/ロビー・ローラー.md "wikilink") ×
     2R 1:31 KO（右フック）
   - 第5試合 ヘビー級 5分3R
-    ○  [アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink") vs.  [ウェズリー・コレイラ](https://ja.wikipedia.org/wiki/ウェズリー・コレイラ "wikilink") ×
+    ○  [アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink") vs.  [ウェズリー・コレイラ](https://ja.wikipedia.org/wiki/ウェズリー・コレイラ "wikilink") ×
     2R 1:15 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第6試合 ライト級 5分3R
-    ○  [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") vs.  [エルメス・フランカ](https://ja.wikipedia.org/wiki/エルメス・フランカ "wikilink") ×
+    ○  [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") vs.  [エルメス・フランカ](../Page/エルメス・フランカ.md "wikilink") ×
     3R終了 判定2-1（29-28、28-29、29-28）
   - 第7試合 ウェルター級 5分3R
     ○  [クリス・ライトル](../Page/クリス・ライトル.md "wikilink") vs.  ティキ・ゴーセン ×
-    2R 1:55 [ヘッドロック](https://ja.wikipedia.org/wiki/ヘッドロック "wikilink")
+    2R 1:55 [ヘッドロック](../Page/ヘッドロック.md "wikilink")
   - 第8試合 ライトヘビー級 5分3R
-    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink") ×
+    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink") ×
     2R 0:38 KO（スタンドパンチ連打）
 
 ## 脚注

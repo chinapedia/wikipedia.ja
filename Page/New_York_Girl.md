@@ -5,7 +5,7 @@
 
 ## 解説
 
-作詞作曲は[アメリカのミュージシャン](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[シャラマー](https://ja.wikipedia.org/wiki/シャラマー "wikilink")のリードシンガーとしても知られるハワード・ヒューイットと[ジョージ・デューク](https://ja.wikipedia.org/wiki/ジョージ・デューク "wikilink")による共作。ジャケットのイラストは[永井博](https://ja.wikipedia.org/wiki/永井博 "wikilink")が手がけている。
+作詞作曲は[アメリカのミュージシャン](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[シャラマー](../Page/シャラマー.md "wikilink")のリードシンガーとしても知られるハワード・ヒューイットと[ジョージ・デューク](../Page/ジョージ・デューク.md "wikilink")による共作。ジャケットのイラストは[永井博](../Page/永井博.md "wikilink")が手がけている。
 
 ## 収録曲
 
@@ -24,10 +24,10 @@
 ## この頃のできごと
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")～[3月8日](../Page/3月8日.md "wikilink") - 中国にて[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")を開催。
-  - [香港映画](https://ja.wikipedia.org/wiki/香港映画 "wikilink")『[天使行動](https://ja.wikipedia.org/wiki/天使行動 "wikilink")』の主演を務める。
+  - [香港映画](../Page/香港映画.md "wikilink")『[天使行動](https://ja.wikipedia.org/wiki/天使行動 "wikilink")』の主演を務める。
 
 ## 関連項目
 
-  - [1987年の音楽](https://ja.wikipedia.org/wiki/1987年の音楽 "wikilink")
+  - [1987年の音楽](../Page/1987年の音楽.md "wikilink")
 
 [Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink")

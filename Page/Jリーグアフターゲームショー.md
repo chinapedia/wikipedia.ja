@@ -5,7 +5,7 @@
 
 ## 概説・歴史
 
-[2007年](../Page/2007年.md "wikilink")シーズンより[スカチャン](https://ja.wikipedia.org/wiki/スカチャン "wikilink")（放送開始当初はスカパー\!は[パーフェクト・チョイス](https://ja.wikipedia.org/wiki/パーフェクト・チョイス "wikilink")、e2 by スカパー\!（現[スカパー\!e2](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）はスカチャン\!）で放送。
+[2007年](../Page/2007年.md "wikilink")シーズンより[スカチャン](../Page/スカチャン.md "wikilink")（放送開始当初はスカパー\!は[パーフェクト・チョイス](../Page/パーフェクト・チョイス.md "wikilink")、e2 by スカパー\!（現[スカパー\!e2](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）はスカチャン\!）で放送。
 
 当日開催された全試合のハイライトのほかに試合直後の監督や選手の声を伝えたほか、試合終了直後の会場と中継をつなぎ、当日出演した解説者や選手が出演したりする場合があった。
 
@@ -29,7 +29,7 @@
 
 ### MC
 
-  - [野々村芳和](https://ja.wikipedia.org/wiki/野々村芳和 "wikilink")
+  - [野々村芳和](../Page/野々村芳和.md "wikilink")
   - [平畠啓史](../Page/平畠啓史.md "wikilink")
 
 土曜日を平畠、日曜日を野々村が担当することが多い。また、J2のみの開催日など1日の試合数が少ない場合は、スタジオではなく、会議室のような場所で、アシスタントを置かずに、野々村と平畠2人のみで番組を進行することがある。（2008年以降）
@@ -37,7 +37,7 @@
 ### アシスタント
 
   - [日々野真理](https://ja.wikipedia.org/wiki/日々野真理 "wikilink")
-  - [寺田ちひろ](https://ja.wikipedia.org/wiki/寺田ちひろ "wikilink")
+  - [寺田ちひろ](../Page/寺田ちひろ.md "wikilink")
   - [渡辺枝里子](https://ja.wikipedia.org/wiki/渡辺枝里子 "wikilink")
 
 土曜日を渡辺・寺田、日曜日を日々野が担当することが多い。
@@ -46,7 +46,7 @@
 
 ### その他の出演者
 
-  - [遠藤雅大](https://ja.wikipedia.org/wiki/遠藤雅大 "wikilink")（2007年）
+  - [遠藤雅大](../Page/遠藤雅大.md "wikilink")（2007年）
   - [湯本久美](https://ja.wikipedia.org/wiki/湯本久美 "wikilink")（2008年 - 2009年）
   - [信澤美穂](https://ja.wikipedia.org/wiki/信澤美穂 "wikilink")（2007年 - 2008年）
   - [武藤乃子](../Page/武藤乃子.md "wikilink")（2009年）
@@ -116,6 +116,6 @@
 ## 関連番組
 
   - [Jリーグナイト07 プレビューショー](../Page/Jリーグナイト_プレビューショー.md "wikilink")（スカパー\!制作）
-  - [Jリーグプレビューショー](https://ja.wikipedia.org/wiki/Jリーグプレビューショー "wikilink")（[J SPORTS制作](../Page/J_SPORTS.md "wikilink")）
+  - [Jリーグプレビューショー](../Page/Jリーグプレビューショー.md "wikilink")（[J SPORTS制作](../Page/J_SPORTS.md "wikilink")）
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:スカパー\!の番組](https://ja.wikipedia.org/wiki/Category:スカパー!の番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:Jリーグ](https://ja.wikipedia.org/wiki/Category:Jリーグ "wikilink")

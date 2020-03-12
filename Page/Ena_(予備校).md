@@ -1,11 +1,11 @@
 > この記事は[Ena \(\)](https://ja.wikipedia.org/wiki/Ena_\(\))から翻訳されています。
 
 
-**ena**（エナ）は、**株式会社学究社**（がっきゅうしゃ、*Gakkyusha Co., Ltd.*）が運営する[中学](../Page/中学受験.md "wikilink")・[高校](../Page/高校受験.md "wikilink")・[大学受験](../Page/大学受験.md "wikilink")の[予備校](../Page/予備校.md "wikilink")である。校舎は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")全域を中心に展開する。
+**ena**（エナ）は、**株式会社学究社**（がっきゅうしゃ、*Gakkyusha Co., Ltd.*）が運営する[中学](../Page/中学受験.md "wikilink")・[高校](../Page/高校受験.md "wikilink")・[大学受験](../Page/大学受験.md "wikilink")の[予備校](../Page/予備校.md "wikilink")である。校舎は[東京都](../Page/東京都.md "wikilink")全域を中心に展開する。
 
 ## 概説
 
-現学院長の[河端真一](https://ja.wikipedia.org/wiki/河端真一 "wikilink")（元[一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")[客員教授](https://ja.wikipedia.org/wiki/客員教授 "wikilink")）が、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")在学中の1972年に[国立市](../Page/国立市.md "wikilink")内で始めた[学習塾](../Page/学習塾.md "wikilink")「**国立学院**」（くにたちがくいん、1977年から**国立学院予備校**に改称。略称・KG）をルーツとしている。
+現学院長の[河端真一](https://ja.wikipedia.org/wiki/河端真一 "wikilink")（元[一橋大学](../Page/一橋大学.md "wikilink")[客員教授](https://ja.wikipedia.org/wiki/客員教授 "wikilink")）が、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")在学中の1972年に[国立市](../Page/国立市.md "wikilink")内で始めた[学習塾](../Page/学習塾.md "wikilink")「**国立学院**」（くにたちがくいん、1977年から**国立学院予備校**に改称。略称・KG）をルーツとしている。
 
 1991年に、難関校受験部門を専門塾として独立させ、「**ENA**」として開校。1993年には、国立学院予備校を「**ENA-KG国立学院予備校**」に名称変更した。その後、1996年に、「ENA」と「ENA-KG国立学院予備校」を統合して、「**ena**」とし現在に至る。2017年都立中入試では、738名合格を成し遂げた。
 
@@ -13,7 +13,7 @@
 
 ## 運営会社
 
-運営会社の学究社は[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（[昭和](../Page/昭和.md "wikilink")51年）10月に設立。本社は東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に所在。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）12月に[学習塾](../Page/学習塾.md "wikilink")業界として初めて[株式市場に](https://ja.wikipedia.org/wiki/証券市場 "wikilink")[上場](../Page/上場.md "wikilink")する。社長（学院長）は河端真一、学院長代行は池田清一。
+運営会社の学究社は[1976年](../Page/1976年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")51年）10月に設立。本社は東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に所在。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）12月に[学習塾](../Page/学習塾.md "wikilink")業界として初めて[株式市場に](../Page/証券市場.md "wikilink")[上場](../Page/上場.md "wikilink")する。社長（学院長）は河端真一、学院長代行は池田清一。
 
 ## 事業内容
 

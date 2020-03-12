@@ -1,7 +1,7 @@
 > この記事は[MARBLE \(\)](https://ja.wikipedia.org/wiki/MARBLE_\(\))から翻訳されています。
 
 
-『**MARBLE**』（**マーブル**）は、日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")37枚目となる結成25周年記念アルバム。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA Plays Guitar MINUS ONE MARBLE』(GNCT-1004)も発売された。
+『**MARBLE**』（**マーブル**）は、日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")37枚目となる結成25周年記念アルバム。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA Plays Guitar MINUS ONE MARBLE』(GNCT-1004)も発売された。
 
 ## 解説
 
@@ -13,18 +13,18 @@
 
 ### CASIOPEA
 
-  - [野呂一生](https://ja.wikipedia.org/wiki/野呂一生 "wikilink") - [エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")
-  - [向谷実](../Page/向谷実.md "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [鳴瀬喜博](https://ja.wikipedia.org/wiki/鳴瀬喜博 "wikilink") - [ベース](../Page/エレクトリックベース.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")(M3, M5, M7)、プログラミング(M5, M7)
+  - [野呂一生](../Page/野呂一生.md "wikilink") - [エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")
+  - [向谷実](../Page/向谷実.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink") - [ベース](../Page/エレクトリックベース.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")(M3, M5, M7)、プログラミング(M5, M7)
 
 ### サポーテッド・ミュージシャン
 
-  - [神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")、プログラミング(M4)
+  - [神保彰](../Page/神保彰.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")、プログラミング(M4)
 
 ## 制作クレジット
 
   - サウンドプロデューサー - [カシオペア](../Page/カシオペア_\(バンド\).md "wikilink")
-  - [レコーディング＆ミックス・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink") - 倉石裕治
+  - [レコーディング＆ミックス・エンジニア](../Page/レコーディング・エンジニア.md "wikilink") - 倉石裕治
   - マスタリング・エンジニア - 宮本茂男 (FLAIR)
   - アシスタント・エンジニア - Shinichi Naitoh, 大川誠
 

@@ -1,21 +1,21 @@
 > この記事は[Es \(\)](https://ja.wikipedia.org/wiki/Es_\(\))から翻訳されています。
 
 
-『**es［エス］**』 （原題：*Das Experiment*、国際向け題：*The Experiment*）は、[オリヴァー・ヒルシュビーゲル](https://ja.wikipedia.org/wiki/オリヴァー・ヒルシュビーゲル "wikilink")が監督し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2002年](../Page/2002年.md "wikilink")に公開された[ドイツ映画](../Page/ドイツの映画.md "wikilink")。
+『**es［エス］**』 （原題：*Das Experiment*、国際向け題：*The Experiment*）は、[オリヴァー・ヒルシュビーゲル](../Page/オリヴァー・ヒルシュビーゲル.md "wikilink")が監督し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2002年](../Page/2002年.md "wikilink")に公開された[ドイツ映画](../Page/ドイツの映画.md "wikilink")。
 
 原題は「実験」の意。日本語版映画名の「es」とは、通常[ドイツ語](../Page/ドイツ語.md "wikilink")では「これ」または「それ」の意（英語ではit）であるが、心理学・精神分析学の用語で、「無意識層の中心の機能」という概念を意味する語である（この語もドイツ語起源で、語源は前者のesから来ている）。詳しくは[自我](../Page/自我.md "wikilink")を参照。
 
 ## 概要
 
-この映画は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で実際に行われた[スタンフォード監獄実験](https://ja.wikipedia.org/wiki/スタンフォード監獄実験 "wikilink")を元にした[マリオ・ジョルダーノ](https://ja.wikipedia.org/wiki/マリオ・ジョルダーノ "wikilink")の小説『**』を原作とし、ジョルダーノ本人が脚本作成に加わっている。
+この映画は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で実際に行われた[スタンフォード監獄実験](../Page/スタンフォード監獄実験.md "wikilink")を元にした[マリオ・ジョルダーノ](https://ja.wikipedia.org/wiki/マリオ・ジョルダーノ "wikilink")の小説『**』を原作とし、ジョルダーノ本人が脚本作成に加わっている。
 
-映画では、[新聞広告](https://ja.wikipedia.org/wiki/新聞広告 "wikilink")によって募集された男たちが、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の大学地下に設置された擬似[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")で、[囚人](https://ja.wikipedia.org/wiki/囚人 "wikilink")と[看守](https://ja.wikipedia.org/wiki/看守 "wikilink")の役を2週間演じ続ける実験が行われる。この実験の存在を知った主人公の男（[モーリッツ・ブライブトロイ](https://ja.wikipedia.org/wiki/モーリッツ・ブライブトロイ "wikilink")）は、取材と報酬目当てで囚人としてこの実験に参加する。
+映画では、[新聞広告](../Page/新聞広告.md "wikilink")によって募集された男たちが、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の大学地下に設置された擬似[刑務所](../Page/刑務所.md "wikilink")で、[囚人](https://ja.wikipedia.org/wiki/囚人 "wikilink")と[看守](https://ja.wikipedia.org/wiki/看守 "wikilink")の役を2週間演じ続ける実験が行われる。この実験の存在を知った主人公の男（[モーリッツ・ブライブトロイ](https://ja.wikipedia.org/wiki/モーリッツ・ブライブトロイ "wikilink")）は、取材と報酬目当てで囚人としてこの実験に参加する。
 
-[2001年](../Page/2001年.md "wikilink")度[ヨーロッパ映画賞](https://ja.wikipedia.org/wiki/ヨーロッパ映画賞 "wikilink")作品賞、ノミネート作品。
+[2001年](../Page/2001年.md "wikilink")度[ヨーロッパ映画賞](../Page/ヨーロッパ映画賞.md "wikilink")作品賞、ノミネート作品。
 
 ## ストーリー
 
-[タクシー](../Page/タクシー.md "wikilink")[運転手](https://ja.wikipedia.org/wiki/運転手 "wikilink")兼[記者](../Page/記者.md "wikilink")の男タレク（[モーリッツ・ブライプトロイ](https://ja.wikipedia.org/wiki/モーリッツ・ブライプトロイ "wikilink")）はある日、こんな実験者募集の新聞広告を目にする。
+[タクシー](../Page/タクシー.md "wikilink")[運転手](../Page/運転手.md "wikilink")兼[記者](../Page/記者.md "wikilink")の男タレク（[モーリッツ・ブライプトロイ](../Page/モーリッツ・ブライプトロイ.md "wikilink")）はある日、こんな実験者募集の新聞広告を目にする。
 
   -
     被験者求む。
@@ -30,28 +30,28 @@
 
 ## キャスト
 
-| 役名             | 俳優                                                                            | 日本語吹替                                                   |
-| -------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| ソフト版           | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版                      |                                                         |
-| 囚人番号77／タレク     | [モーリッツ・ブライブトロイ](https://ja.wikipedia.org/wiki/モーリッツ・ブライプトロイ "wikilink")       | [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")   |
-| 囚人番号38／シュタインホフ | [クリスチャン・ベルケル](https://ja.wikipedia.org/wiki/クリスチャン・ベルケル "wikilink")           | [小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink") |
-| 囚人番号82／シュッテ    | [オリヴァー・ストコウスキ](https://ja.wikipedia.org/wiki/オリヴァー・ストコウスキ "wikilink")         | [水内清光](https://ja.wikipedia.org/wiki/水内清光 "wikilink")   |
-| 囚人番号69／ジョー     | [ヴォータン・ヴィルケ・メーリング](https://ja.wikipedia.org/wiki/ヴォータン・ヴィルケ・メーリング "wikilink") | [川村拓央](https://ja.wikipedia.org/wiki/川村拓央 "wikilink")   |
-| 看守／ベルス         | [ユストゥス・フォン・ドホナーニ](https://ja.wikipedia.org/wiki/ユストゥス・フォン・ドホナーニ "wikilink")   | [井上倫宏](../Page/井上倫宏.md "wikilink")                      |
-| 看守／エッカート       | [ティモ・ディールケス](https://ja.wikipedia.org/wiki/ティモ・ディールケス "wikilink")             | [花田光](https://ja.wikipedia.org/wiki/花田光 "wikilink")     |
-| 看守／カンプス        | [ニッキ・フォン・テンペルホフ](https://ja.wikipedia.org/wiki/ニッキ・フォン・テンペルホフ "wikilink")     | [諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")   |
-| 看守／ボッシュ        | [アントニオ・モノー・ジュニア](https://ja.wikipedia.org/wiki/アントワーヌ・モノー・Jr "wikilink")      | [石住昭彦](../Page/石住昭彦.md "wikilink")                      |
-| ドラ             | [マレン・エッゲルト](https://ja.wikipedia.org/wiki/マレン・エッゲルト "wikilink")               | [高橋理恵子](https://ja.wikipedia.org/wiki/高橋理恵子 "wikilink") |
-| トーン教授          | [エトガー・ゼルゲ](https://ja.wikipedia.org/wiki/エトガー・ゼルゲ "wikilink")                 | [世古陽丸](https://ja.wikipedia.org/wiki/世古陽丸 "wikilink")   |
-| ユッタ・グリム博士      | [アンドレア・サバスキ](https://ja.wikipedia.org/wiki/アンドレア・サバスキ "wikilink")             | [宮寺智子](https://ja.wikipedia.org/wiki/宮寺智子 "wikilink")   |
-| ジグラー           | [アンドレ・ユング](https://ja.wikipedia.org/wiki/アンドレ・ユング "wikilink")                 | [稲葉実](https://ja.wikipedia.org/wiki/稲葉実 "wikilink")     |
-| ラース            | [フィリップ・ホフマイヤー](https://ja.wikipedia.org/wiki/フィリップ・ホフマイヤー "wikilink")         | [伊藤栄次](https://ja.wikipedia.org/wiki/伊藤栄次 "wikilink")   |
-| レンツェル          | [ラース・ガルトナー](https://ja.wikipedia.org/wiki/ラース・ガルトナー "wikilink")               | [上田陽司](https://ja.wikipedia.org/wiki/上田陽司 "wikilink")   |
-| ニュースアナ         | [クリスティアン・ゲルボス](https://ja.wikipedia.org/wiki/クリスティアン・ゲルボス "wikilink")         | [牧薫子](https://ja.wikipedia.org/wiki/牧薫子 "wikilink")     |
-|                |                                                                               |                                                         |
+| 役名             | 俳優                                                                            | 日本語吹替                                                 |
+| -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- |
+| ソフト版           | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版                      |                                                       |
+| 囚人番号77／タレク     | [モーリッツ・ブライブトロイ](../Page/モーリッツ・ブライプトロイ.md "wikilink")                          | [森川智之](../Page/森川智之.md "wikilink")                    |
+| 囚人番号38／シュタインホフ | [クリスチャン・ベルケル](../Page/クリスチャン・ベルケル.md "wikilink")                              | [小杉十郎太](../Page/小杉十郎太.md "wikilink")                  |
+| 囚人番号82／シュッテ    | [オリヴァー・ストコウスキ](https://ja.wikipedia.org/wiki/オリヴァー・ストコウスキ "wikilink")         | [水内清光](../Page/水内清光.md "wikilink")                    |
+| 囚人番号69／ジョー     | [ヴォータン・ヴィルケ・メーリング](https://ja.wikipedia.org/wiki/ヴォータン・ヴィルケ・メーリング "wikilink") | [川村拓央](https://ja.wikipedia.org/wiki/川村拓央 "wikilink") |
+| 看守／ベルス         | [ユストゥス・フォン・ドホナーニ](https://ja.wikipedia.org/wiki/ユストゥス・フォン・ドホナーニ "wikilink")   | [井上倫宏](../Page/井上倫宏.md "wikilink")                    |
+| 看守／エッカート       | [ティモ・ディールケス](https://ja.wikipedia.org/wiki/ティモ・ディールケス "wikilink")             | [花田光](../Page/花田光.md "wikilink")                      |
+| 看守／カンプス        | [ニッキ・フォン・テンペルホフ](https://ja.wikipedia.org/wiki/ニッキ・フォン・テンペルホフ "wikilink")     | [諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink") |
+| 看守／ボッシュ        | [アントニオ・モノー・ジュニア](https://ja.wikipedia.org/wiki/アントワーヌ・モノー・Jr "wikilink")      | [石住昭彦](../Page/石住昭彦.md "wikilink")                    |
+| ドラ             | [マレン・エッゲルト](https://ja.wikipedia.org/wiki/マレン・エッゲルト "wikilink")               | [高橋理恵子](../Page/高橋理恵子.md "wikilink")                  |
+| トーン教授          | [エトガー・ゼルゲ](https://ja.wikipedia.org/wiki/エトガー・ゼルゲ "wikilink")                 | [世古陽丸](https://ja.wikipedia.org/wiki/世古陽丸 "wikilink") |
+| ユッタ・グリム博士      | [アンドレア・サバスキ](https://ja.wikipedia.org/wiki/アンドレア・サバスキ "wikilink")             | [宮寺智子](../Page/宮寺智子.md "wikilink")                    |
+| ジグラー           | [アンドレ・ユング](https://ja.wikipedia.org/wiki/アンドレ・ユング "wikilink")                 | [稲葉実](../Page/稲葉実.md "wikilink")                      |
+| ラース            | [フィリップ・ホフマイヤー](https://ja.wikipedia.org/wiki/フィリップ・ホフマイヤー "wikilink")         | [伊藤栄次](../Page/伊藤栄次.md "wikilink")                    |
+| レンツェル          | [ラース・ガルトナー](https://ja.wikipedia.org/wiki/ラース・ガルトナー "wikilink")               | [上田陽司](https://ja.wikipedia.org/wiki/上田陽司 "wikilink") |
+| ニュースアナ         | [クリスティアン・ゲルボス](https://ja.wikipedia.org/wiki/クリスティアン・ゲルボス "wikilink")         | [牧薫子](https://ja.wikipedia.org/wiki/牧薫子 "wikilink")   |
+|                |                                                                               |                                                       |
 
-  - テレビ東京版：2003年9月18日『[木曜洋画劇場](https://ja.wikipedia.org/wiki/木曜洋画劇場 "wikilink")』
-  - その他：[中村大樹](https://ja.wikipedia.org/wiki/中村大樹 "wikilink")、[加藤亮夫](https://ja.wikipedia.org/wiki/加藤亮夫 "wikilink")、[小森創介](../Page/小森創介.md "wikilink")、[奥田啓人](https://ja.wikipedia.org/wiki/奥田啓人 "wikilink")、[野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")、[土田大](https://ja.wikipedia.org/wiki/土田大 "wikilink")、[高瀬右光](https://ja.wikipedia.org/wiki/高瀬右光 "wikilink")、[河本邦弘](https://ja.wikipedia.org/wiki/河本邦弘 "wikilink")
+  - テレビ東京版：2003年9月18日『[木曜洋画劇場](../Page/木曜洋画劇場.md "wikilink")』
+  - その他：[中村大樹](../Page/中村大樹.md "wikilink")、[加藤亮夫](../Page/加藤亮夫.md "wikilink")、[小森創介](../Page/小森創介.md "wikilink")、[奥田啓人](../Page/奥田啓人.md "wikilink")、[野島裕史](../Page/野島裕史.md "wikilink")、[土田大](../Page/土田大.md "wikilink")、[高瀬右光](../Page/高瀬右光.md "wikilink")、[河本邦弘](../Page/河本邦弘.md "wikilink")
 
 ## リメイク
 
@@ -60,8 +60,8 @@
 ## 関連項目
 
   - [スタンフォード大学](../Page/スタンフォード大学.md "wikilink")
-  - [スタンフォード監獄実験](https://ja.wikipedia.org/wiki/スタンフォード監獄実験 "wikilink")
-  - [社会実験](https://ja.wikipedia.org/wiki/社会実験 "wikilink")
+  - [スタンフォード監獄実験](../Page/スタンフォード監獄実験.md "wikilink")
+  - [社会実験](../Page/社会実験.md "wikilink")
   - [プリズン・エクスペリメント](https://ja.wikipedia.org/wiki/プリズン・エクスペリメント "wikilink") - 同じくスタンフォード監獄実験をモチーフにした映画。
 
 ## 外部リンク

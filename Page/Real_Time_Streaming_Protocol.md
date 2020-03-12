@@ -5,9 +5,9 @@
 
 ## 概要
 
-RTSP は[オーディオ](https://ja.wikipedia.org/wiki/音声 "wikilink")、[ビデオなどの](https://ja.wikipedia.org/wiki/映像 "wikilink")[マルチメディア](../Page/マルチメディア.md "wikilink")・データをふくむ[サーバ](../Page/サーバ.md "wikilink")を遠隔操作するためのプロトコルであり、テープレコーダのように再生、停止、記録 (録音) などの操作ができる (巻き戻しや早送りの機能はない)。[SIP](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol "wikilink") (セッション確立プロトコル) とはちがって RTSP においてはサーバと[クライアントとが明確に区別され](../Page/クライアント_\(コンピュータ\).md "wikilink")、データの流れは基本的にサーバからクライアントへの一方向であるが、サーバからクライアントに送付する要求も定義されている。すなわち、[要求-応答モデル](https://ja.wikipedia.org/wiki/要求-応答モデル "wikilink")としてみると、サーバ とクライアントの役割が逆転することもある。
+RTSP は[オーディオ](https://ja.wikipedia.org/wiki/音声 "wikilink")、[ビデオなどの](https://ja.wikipedia.org/wiki/映像 "wikilink")[マルチメディア](../Page/マルチメディア.md "wikilink")・データをふくむ[サーバ](../Page/サーバ.md "wikilink")を遠隔操作するためのプロトコルであり、テープレコーダのように再生、停止、記録 (録音) などの操作ができる (巻き戻しや早送りの機能はない)。[SIP](../Page/Session_Initiation_Protocol.md "wikilink") (セッション確立プロトコル) とはちがって RTSP においてはサーバと[クライアントとが明確に区別され](../Page/クライアント_\(コンピュータ\).md "wikilink")、データの流れは基本的にサーバからクライアントへの一方向であるが、サーバからクライアントに送付する要求も定義されている。すなわち、[要求-応答モデル](https://ja.wikipedia.org/wiki/要求-応答モデル "wikilink")としてみると、サーバ とクライアントの役割が逆転することもある。
 
-サーバからクライアントへのデータ転送 (RTSP においてはプレゼンテーションとよばれる) には通常[Real-time Transport Protocol](https://ja.wikipedia.org/wiki/Real-time_Transport_Protocol "wikilink") (RTP) が使用されるが、それに限定されてはいない。RTSP によって制御されるデータのながれに関しては "RTSP セッション" が存在するが、RTSP 自体には、SIP と同様にセッションの概念はない。SIP と同様、RTSP も [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") (ハイパーテキスト転送プロトコル) に似せてある。RTSP の下位のプロトコルとしては、SIP とはちがって、[TCP](../Page/Transmission_Control_Protocol.md "wikilink") のように高信頼なプロトコルの使用が前提とされている。ただし、RTSP の改訂にあたっては低信頼なプロトコルを使用できるようにする方向性が示されている。
+サーバからクライアントへのデータ転送 (RTSP においてはプレゼンテーションとよばれる) には通常[Real-time Transport Protocol](../Page/Real-time_Transport_Protocol.md "wikilink") (RTP) が使用されるが、それに限定されてはいない。RTSP によって制御されるデータのながれに関しては "RTSP セッション" が存在するが、RTSP 自体には、SIP と同様にセッションの概念はない。SIP と同様、RTSP も [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") (ハイパーテキスト転送プロトコル) に似せてある。RTSP の下位のプロトコルとしては、SIP とはちがって、[TCP](../Page/Transmission_Control_Protocol.md "wikilink") のように高信頼なプロトコルの使用が前提とされている。ただし、RTSP の改訂にあたっては低信頼なプロトコルを使用できるようにする方向性が示されている。
 
 RTSP がサポートする操作はつぎの3 つである。
 

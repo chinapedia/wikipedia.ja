@@ -5,15 +5,15 @@
 
 HLVの例：
 
-  - [アリアン5 ES](https://ja.wikipedia.org/wiki/アリアン5 "wikilink")(低軌道(LEO)への打上能力20トン)
+  - [アリアン5 ES](../Page/アリアン5.md "wikilink")(低軌道(LEO)への打上能力20トン)
   - [デルタIVヘビー](https://ja.wikipedia.org/wiki/デルタ_IV "wikilink")(22トン/LEO)
   - [アトラスV HLV](https://ja.wikipedia.org/wiki/アトラスV "wikilink")(29トン/LEO)
   - [アンガラA7V](https://ja.wikipedia.org/wiki/アンガラロケット "wikilink")(40トン/LEO)
   - [長征5号](https://ja.wikipedia.org/wiki/長征5号 "wikilink")(25トン/LEO)
   - [ファルコンヘビー](https://ja.wikipedia.org/wiki/ファルコンヘビー "wikilink")(53トン/LEO)　
-  - [N-1](https://ja.wikipedia.org/wiki/N-1 "wikilink")（約90トン/LEO）:旧ソ連が打上げに失敗した月計画用ロケット
+  - [N-1](../Page/N-1.md "wikilink")（約90トン/LEO）:旧ソ連が打上げに失敗した月計画用ロケット
   - [エネルギア](../Page/エネルギア.md "wikilink")(約100トン/LEO)（退役）、派生型のヴァルカンロケット(175トン/LEO)（構想検討のみ）
-  - [サターンV](https://ja.wikipedia.org/wiki/サターンV "wikilink")(約120トン/LEO)（退役）
+  - [サターンV](../Page/サターンV.md "wikilink")(約120トン/LEO)（退役）
 
 NASAの次世代HLVとしては、[アレスV](https://ja.wikipedia.org/wiki/アレスV "wikilink")が計画されていたがキャンセルされ、現在は低軌道へ70トン(初期型)、能力向上型で130トンの打ち上げ能力を目指す[SLS](https://ja.wikipedia.org/wiki/スペース・ローンチ・システム "wikilink")(Space Launch System)の開発が行われている。
 

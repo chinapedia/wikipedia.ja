@@ -1,7 +1,7 @@
 > この記事は[PLACES](https://ja.wikipedia.org/wiki/PLACES)から翻訳されています。
 
 
-『***PLACES***』（***プレイセズ***）は、日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")35枚目のスタジオ・アルバム。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA Plays Guitar MINUS ONE PLACES』(GNCT-1003)も発売された。
+『***PLACES***』（***プレイセズ***）は、日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")35枚目のスタジオ・アルバム。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA Plays Guitar MINUS ONE PLACES』(GNCT-1003)も発売された。
 
 ## 収録曲
 
@@ -9,13 +9,13 @@
 
 ### CASIOPEA
 
-  - [野呂一生](https://ja.wikipedia.org/wiki/野呂一生 "wikilink") — [ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (6)
-  - [向谷実](../Page/向谷実.md "wikilink") — [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [鳴瀬喜博](https://ja.wikipedia.org/wiki/鳴瀬喜博 "wikilink") — [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、プログラミング (4, 8, 10)、、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink") (4)、[パーカッション](../Page/パーカッション.md "wikilink") (10)
+  - [野呂一生](../Page/野呂一生.md "wikilink") — [ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (6)
+  - [向谷実](../Page/向谷実.md "wikilink") — [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink") — [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、プログラミング (4, 8, 10)、、[タンバリン](../Page/タンバリン.md "wikilink") (4)、[パーカッション](../Page/パーカッション.md "wikilink") (10)
 
 ### ゲスト・ミュージシャン
 
-  - [神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink") — [ドラム](../Page/ドラムセット.md "wikilink")
+  - [神保彰](../Page/神保彰.md "wikilink") — [ドラム](../Page/ドラムセット.md "wikilink")
   - Akemi Kato — Voice
 
 ## 制作クレジット
@@ -58,11 +58,11 @@
 
 ## 発売履歴
 
-| 地域                                                                                          | 日付                                                                        | レーベル                                                          | フォーマット                                                                     | 型番        | 備考                                   |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------- | --------- | ------------------------------------ |
-| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")                                           | [2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")    | [パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink") | [12cmCD](../Page/コンパクトディスク.md "wikilink")                                  | PICL-1276 | [Stereo](../Page/ステレオ.md "wikilink") |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink") | [ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink") | PCCR-50013                                                    |                                                                            |           |                                      |
-| 不明                                                                                          | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信#デジタル・ダウンロード "wikilink")  | 79142207                                                      | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[1\] |           |                                      |
+| 地域                                                                       | 日付                                                                        | レーベル                                                          | フォーマット                                                                     | 型番        | 備考                                   |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------- | --------- | ------------------------------------ |
+| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")                        | [2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")    | [パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink") | [12cmCD](../Page/コンパクトディスク.md "wikilink")                                  | PICL-1276 | [Stereo](../Page/ステレオ.md "wikilink") |
+| [2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink") | [ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink") | PCCR-50013                                                    |                                                                            |           |                                      |
+| 不明                                                                       | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信#デジタル・ダウンロード "wikilink")  | 79142207                                                      | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[1\] |           |                                      |
 
 ## 外部リンク
 

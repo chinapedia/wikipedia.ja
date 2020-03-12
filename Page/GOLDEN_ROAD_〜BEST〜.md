@@ -1,7 +1,7 @@
 > この記事は[GOLDEN ROAD BEST](https://ja.wikipedia.org/wiki/GOLDEN_ROAD_BEST)から翻訳されています。
 
 
-『**GOLDEN ROAD 〜BEST〜**』（ゴールデン・ロード ベスト）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")にリリースされた、ロードオブメジャー初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。
+『**GOLDEN ROAD 〜BEST〜**』（ゴールデン・ロード ベスト）は、[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にリリースされた、ロードオブメジャー初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
 ## 概要
 
@@ -96,7 +96,7 @@
         初出「ENERGY」（2006年5月31日）
         アルバム初収録。
 
-**DISC 2(DVD)＜5万枚完全初回限定版＞「花火と情熱！打ち上げナイトっ！！2006」06,8,25[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")＜DIGEST＞**
+**DISC 2(DVD)＜5万枚完全初回限定版＞「花火と情熱！打ち上げナイトっ！！2006」06,8,25[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")＜DIGEST＞**
 
 1.  **Sunny Road March**
 2.  **ARI AND NAI 2006**

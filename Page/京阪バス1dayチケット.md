@@ -15,7 +15,7 @@
 
   - 2004年11月26日 京都市内版の発売開始
   - 2005年11月1日 大阪版の発売開始
-  - 2006年4月1日 [京阪宇治交通](https://ja.wikipedia.org/wiki/京阪宇治交通 "wikilink")との合併に伴い、大阪版の利用範囲が男山団地（旧・京阪宇治交通エリア）にも拡大される。
+  - 2006年4月1日 [京阪宇治交通](../Page/京阪宇治交通.md "wikilink")との合併に伴い、大阪版の利用範囲が男山団地（旧・京阪宇治交通エリア）にも拡大される。
   - 2007年3月1日 男山営業所での発売を開始。
   - 2009年11月1日 京田辺営業所の路線の[長尾駅](https://ja.wikipedia.org/wiki/長尾駅_\(大阪府\) "wikilink")・[津田駅](https://ja.wikipedia.org/wiki/津田駅 "wikilink")・[枚方市駅](https://ja.wikipedia.org/wiki/枚方市駅 "wikilink")乗り入れにより、京田辺営業所および同営業所が管轄するバス車内で、大阪版の車内発売を開始。
   - 2011年3月1日 大阪版・京都市内版共に適用範囲を拡大（同時にカードのデザインも変更）。大人600円、小児300円（それまで大人500円、小児250円）に値上げし、大阪版は八幡地区（一部を除く）も適用範囲となった。京都市内版は「京都・大津版」と改称し適用範囲を大津営業所管内のほぼ全域（[岩間寺](https://ja.wikipedia.org/wiki/岩間寺 "wikilink")臨時線等を除く）に拡大した。同時に大津営業所と管内のバス車内で京都・大津版を、男山営業所管内のバス車内で大阪版の販売を開始。
@@ -37,12 +37,12 @@
   - [大津市](../Page/大津市.md "wikilink")内の一部
   - [宇治市](../Page/宇治市.md "wikilink")の一部（[六地蔵駅](https://ja.wikipedia.org/wiki/六地蔵駅 "wikilink")付近）
 
-[山科営業所の大半の区間](https://ja.wikipedia.org/wiki/京阪バス山科営業所 "wikilink")、[大津営業所管内全区間と](https://ja.wikipedia.org/wiki/京阪バス大津営業所 "wikilink")、[男山営業所管内の京都南部線の内](../Page/京阪バス男山営業所.md "wikilink")、京阪淀駅 - 京阪中書島 - 竹田駅西口路線、および京阪淀駅 - 京都駅八条口路線で利用可（残る京都南部線の路線である京阪淀駅〜JR山崎間は「京阪バスIC1dayチケット」のみ利用可）。
+[山科営業所の大半の区間](../Page/京阪バス山科営業所.md "wikilink")、[大津営業所管内全区間と](../Page/京阪バス大津営業所.md "wikilink")、[男山営業所管内の京都南部線の内](../Page/京阪バス男山営業所.md "wikilink")、京阪淀駅 - 京阪中書島 - 竹田駅西口路線、および京阪淀駅 - 京都駅八条口路線で利用可（残る京都南部線の路線である京阪淀駅〜JR山崎間は「京阪バスIC1dayチケット」のみ利用可）。
 
 ### 大阪版
 
   - 大阪府下と八幡地区（松井山手地区の一部路線\[2\]、奈良県生駒市の一部も利用可）
-      - [深夜バス](../Page/深夜バス.md "wikilink")は差額要（[京阪グループ共通バスカード](https://ja.wikipedia.org/wiki/京阪グループ共通バスカード "wikilink")（発売終了）などでも差額支払可能）。
+      - [深夜バス](../Page/深夜バス.md "wikilink")は差額要（[京阪グループ共通バスカード](../Page/京阪グループ共通バスカード.md "wikilink")（発売終了）などでも差額支払可能）。
 
 ## 発売箇所
 
@@ -53,33 +53,33 @@
 ### 京都・大津版
 
   - 京阪バス山科営業所、大津営業所、管内バス車内（車内発売は大人用のみ。車内販売に限り男山営業所管轄便でも販売）。
-  - 京阪バス[山科駅](../Page/山科駅.md "wikilink")案内所、[三条京阪](https://ja.wikipedia.org/wiki/三条京阪 "wikilink")案内所。
+  - 京阪バス[山科駅](../Page/山科駅.md "wikilink")案内所、[三条京阪](../Page/三条京阪.md "wikilink")案内所。
 
 ### 大阪版
 
-  - 京阪バス[京田辺](../Page/京阪バス京田辺営業所.md "wikilink")、[男山](../Page/京阪バス男山営業所.md "wikilink")、[枚方](https://ja.wikipedia.org/wiki/京阪バス枚方営業所 "wikilink")、[交野](https://ja.wikipedia.org/wiki/京阪バス交野営業所 "wikilink")、[香里団地](https://ja.wikipedia.org/wiki/京阪バス香里団地営業所 "wikilink")、[高槻](https://ja.wikipedia.org/wiki/京阪バス高槻営業所 "wikilink")、[寝屋川](https://ja.wikipedia.org/wiki/京阪バス寝屋川営業所 "wikilink")、[門真の各営業所](https://ja.wikipedia.org/wiki/京阪バス門真営業所 "wikilink")、管内バス車内（車内発売は大人用のみ）。
+  - 京阪バス[京田辺](../Page/京阪バス京田辺営業所.md "wikilink")、[男山](../Page/京阪バス男山営業所.md "wikilink")、[枚方](../Page/京阪バス枚方営業所.md "wikilink")、[交野](../Page/京阪バス交野営業所.md "wikilink")、[香里団地](../Page/京阪バス香里団地営業所.md "wikilink")、[高槻](../Page/京阪バス高槻営業所.md "wikilink")、[寝屋川](../Page/京阪バス寝屋川営業所.md "wikilink")、[門真の各営業所](../Page/京阪バス門真営業所.md "wikilink")、管内バス車内（車内発売は大人用のみ）。
   - 京阪バス[枚方市駅](https://ja.wikipedia.org/wiki/枚方市駅 "wikilink")、[香里園駅](https://ja.wikipedia.org/wiki/香里園駅 "wikilink")、[寝屋川市駅](https://ja.wikipedia.org/wiki/寝屋川市駅 "wikilink")、[守口市駅](https://ja.wikipedia.org/wiki/守口市駅 "wikilink")案内所。[樟葉駅](https://ja.wikipedia.org/wiki/樟葉駅 "wikilink")バス定期券発売所。
 
 ## 利用不可路線
 
 ### 共通
 
-  - [淀競馬場線](https://ja.wikipedia.org/wiki/淀競馬場線 "wikilink")、[ダイレクトエクスプレス直Q京都号](https://ja.wikipedia.org/wiki/ダイレクトエクスプレス直Q京都号 "wikilink")。
+  - [淀競馬場線](../Page/淀競馬場線.md "wikilink")、[ダイレクトエクスプレス直Q京都号](https://ja.wikipedia.org/wiki/ダイレクトエクスプレス直Q京都号 "wikilink")。
 
 ### 京都・大津版
 
   - 京都比叡山線（比叡山ドライブバス）、比叡山内シャトルバス、岩間寺臨時線、淀長岡京線、京都南部線のうち京阪淀駅 - JR山崎系統
   - 阿含宗星まつり等の臨時バス（清水焼団地陶器まつり臨時バスは利用可\[3\]）。
-  - [京阪京都交通](https://ja.wikipedia.org/wiki/京阪京都交通 "wikilink")、[京都京阪バス](https://ja.wikipedia.org/wiki/京都京阪バス "wikilink")など。
+  - [京阪京都交通](../Page/京阪京都交通.md "wikilink")、[京都京阪バス](../Page/京都京阪バス.md "wikilink")など。
 
 ### 大阪版
 
   - 八幡市内の一部路線（上奈良・金右衛門口・本郷より東側）
   - 京田辺市内路線（一部除く）
-  - [コミュニティバスやわた](https://ja.wikipedia.org/wiki/コミュニティバスやわた "wikilink")
+  - [コミュニティバスやわた](../Page/コミュニティバスやわた.md "wikilink")
   - [枚方市内100円バス](https://ja.wikipedia.org/wiki/枚方市内100円バス "wikilink")
-  - [四條畷市コミュニティバス](https://ja.wikipedia.org/wiki/四條畷市コミュニティバス "wikilink")
-      - [タウンくる](https://ja.wikipedia.org/wiki/タウンくる "wikilink")、[くずは・男山循環コミュニティバス](https://ja.wikipedia.org/wiki/くずは・男山循環コミュニティバス "wikilink")などは利用可。
+  - [四條畷市コミュニティバス](../Page/四條畷市コミュニティバス.md "wikilink")
+      - [タウンくる](../Page/タウンくる.md "wikilink")、[くずは・男山循環コミュニティバス](../Page/くずは・男山循環コミュニティバス.md "wikilink")などは利用可。
       - 各種臨時バス等（万人講開催時の円福寺線、[彼岸](../Page/彼岸.md "wikilink")時運行の飯盛霊園線を除く）
 
 ## 特記事項
@@ -88,7 +88,7 @@
 
 ## 関連項目
 
-  - [京阪グループ共通バスカード](https://ja.wikipedia.org/wiki/京阪グループ共通バスカード "wikilink")
+  - [京阪グループ共通バスカード](../Page/京阪グループ共通バスカード.md "wikilink")
 
 ## 脚注
 

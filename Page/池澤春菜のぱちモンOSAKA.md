@@ -1,7 +1,7 @@
 > この記事は[OSAKA](https://ja.wikipedia.org/wiki/OSAKA)から翻訳されています。
 
 
-**池澤春菜のぱちモンOSAKA**（いけざわはるなのぱちモンおーさか）とは、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[ラジオ大阪と](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")[ラジオ日本で放送された](../Page/アール・エフ・ラジオ日本.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[川上稔](https://ja.wikipedia.org/wiki/川上稔 "wikilink")の小説とそれを元にしたゲーム[奏（騒）楽都市OSAKAを題材としており](https://ja.wikipedia.org/wiki/ソウ楽都市OSAKA "wikilink")、それらの情報も紹介された。1997年10月から1998年4月1週まで[TBSラジオ放送されていた](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[池澤春菜のみんなで、た～る ～ラジオ・マリーのアトリエ～](https://ja.wikipedia.org/wiki/池澤春菜のみんなで、た～る_～ラジオ・マリーのアトリエ～ "wikilink")（以下「たるラジ」）とパーソナリティとディレクターが同じで、番組の雰囲気も通じるものがある。略称は「ぱちラジ」。
+**池澤春菜のぱちモンOSAKA**（いけざわはるなのぱちモンおーさか）とは、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[ラジオ大阪と](../Page/大阪放送.md "wikilink")[ラジオ日本で放送された](../Page/アール・エフ・ラジオ日本.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[川上稔](../Page/川上稔.md "wikilink")の小説とそれを元にしたゲーム[奏（騒）楽都市OSAKAを題材としており](../Page/ソウ楽都市OSAKA.md "wikilink")、それらの情報も紹介された。1997年10月から1998年4月1週まで[TBSラジオ放送されていた](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[池澤春菜のみんなで、た～る ～ラジオ・マリーのアトリエ～](https://ja.wikipedia.org/wiki/池澤春菜のみんなで、た～る_～ラジオ・マリーのアトリエ～ "wikilink")（以下「たるラジ」）とパーソナリティとディレクターが同じで、番組の雰囲気も通じるものがある。略称は「ぱちラジ」。
 
 ## パーソナリティ
 
@@ -30,7 +30,7 @@
 
 ## 関連項目
 
-  - [奏（騒）楽都市OSAKA](https://ja.wikipedia.org/wiki/ソウ楽都市OSAKA "wikilink")
+  - [奏（騒）楽都市OSAKA](../Page/ソウ楽都市OSAKA.md "wikilink")
   - [筒井武](../Page/筒井武.md "wikilink")
   - [アニラジ](../Page/アニラジ.md "wikilink")
 

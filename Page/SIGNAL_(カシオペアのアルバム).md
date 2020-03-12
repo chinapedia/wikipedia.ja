@@ -1,7 +1,7 @@
 > この記事は[SIGNAL \(\)](https://ja.wikipedia.org/wiki/SIGNAL_\(\))から翻訳されています。
 
 
-**『SIGNAL』**（**シグナル**）は日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")40枚目のアルバム。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA with Sync DNA Plays Guitar MINUS ONE SIGNAL』(GNCT-1005)も発売された。
+**『SIGNAL』**（**シグナル**）は日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")40枚目のアルバム。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA with Sync DNA Plays Guitar MINUS ONE SIGNAL』(GNCT-1005)も発売された。
 
 ## 収録曲
 
@@ -9,19 +9,19 @@
 
 ### CASIOPEA
 
-  - [野呂一生](https://ja.wikipedia.org/wiki/野呂一生 "wikilink") - [ギター](../Page/ギター.md "wikilink")
-  - [向谷実](../Page/向谷実.md "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [鳴瀬喜博](https://ja.wikipedia.org/wiki/鳴瀬喜博 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、プログラミング (M3, M6, M8)、[パーカッション](../Page/パーカッション.md "wikilink") (M6, M8)、[ティンバレス](https://ja.wikipedia.org/wiki/ティンバレス "wikilink") (M3)
+  - [野呂一生](../Page/野呂一生.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
+  - [向谷実](../Page/向谷実.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、プログラミング (M3, M6, M8)、[パーカッション](../Page/パーカッション.md "wikilink") (M6, M8)、[ティンバレス](../Page/ティンバレス.md "wikilink") (M3)
 
 ### サポートミュージシャン(Synchronized DNA)
 
-  - [神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink") (左)、プログラミング (M4)
-  - [則竹裕之](https://ja.wikipedia.org/wiki/則竹裕之 "wikilink") - ドラムス (右)
+  - [神保彰](../Page/神保彰.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink") (左)、プログラミング (M4)
+  - [則竹裕之](../Page/則竹裕之.md "wikilink") - ドラムス (右)
 
 ## 制作クレジット
 
   - プロデュース - [カシオペア](../Page/カシオペア_\(バンド\).md "wikilink")
-  - ディレクター - [野呂一生](https://ja.wikipedia.org/wiki/野呂一生 "wikilink")
+  - ディレクター - [野呂一生](../Page/野呂一生.md "wikilink")
   - スーパーバイザ - Yoshinori Kumazawa, Akihiro Kawamura
 
 <!-- end list -->
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [レコーディング＆ミックス・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink") - 倉石裕治
+  - [レコーディング＆ミックス・エンジニア](../Page/レコーディング・エンジニア.md "wikilink") - 倉石裕治
       -
         Recorded at Landmark Studio, and Studio Jive
         Mixed at Studio Jive
@@ -55,10 +55,10 @@
 
 ## 発売履歴
 
-| 地域                                                | 日付                                                                                            | レーベル                                                                      | フォーマット                                                                     | 型番        | 備考                                   |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------- | ------------------------------------ |
-| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink") | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink") | [ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink") | [12cmCD](../Page/コンパクトディスク.md "wikilink")                                  | GNCL-1041 | [Stereo](../Page/ステレオ.md "wikilink") |
-| 不明                                                | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信#デジタル・ダウンロード "wikilink")                      | 120662112                                                                 | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[1\] |           |                                      |
+| 地域                                                | 日付                                                                         | レーベル                                                                      | フォーマット                                                                     | 型番        | 備考                                   |
+| ------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------- | ------------------------------------ |
+| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink") | [2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") | [ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink") | [12cmCD](../Page/コンパクトディスク.md "wikilink")                                  | GNCL-1041 | [Stereo](../Page/ステレオ.md "wikilink") |
+| 不明                                                | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信#デジタル・ダウンロード "wikilink")   | 120662112                                                                 | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[1\] |           |                                      |
 
 ## 参考文献
 

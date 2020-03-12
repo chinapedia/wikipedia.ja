@@ -1,7 +1,7 @@
 > この記事は[ESRI](https://ja.wikipedia.org/wiki/ESRI)から翻訳されています。
 
 
-**ESRI**（）は、[地理情報システム](https://ja.wikipedia.org/wiki/地理情報システム "wikilink") (GIS) のソフトウェア、データ、出版、提供を行なっている企業。[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](https://ja.wikipedia.org/wiki/カリフォルニア州 "wikilink")[レッドランズ市](https://ja.wikipedia.org/wiki/レッドランズ市 "wikilink")に所在し、GIS関連では世界有数の企業である。
+**ESRI**（）は、[地理情報システム](../Page/地理情報システム.md "wikilink") (GIS) のソフトウェア、データ、出版、提供を行なっている企業。[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[レッドランズ市](https://ja.wikipedia.org/wiki/レッドランズ市 "wikilink")に所在し、GIS関連では世界有数の企業である。
 
 ## 社名の読み
 
@@ -9,7 +9,7 @@
 
 これに伴い、文書中の表記も変更された。これまでは米国法人を"ESRI"と表記していたが、2010年以降は"Esri"と表記する。
 
-日本では最初の正規代理店だった[株式会社パスコが](https://ja.wikipedia.org/wiki/パスコ_\(航空測量\) "wikilink")「エ**ス**リ製品」と呼んでいたことからこの呼称が一般的である。現在の国内総販売代理店である[ESRIジャパン株式会社](https://ja.wikipedia.org/wiki/ESRIジャパン株式会社 "wikilink")の社名は「エスリジャパン」と発音するのが正式である\[1\]。2010年以降も法人名は「ESRIジャパン株式会社」であり、「エスリ」と表音する。
+日本では最初の正規代理店だった[株式会社パスコが](../Page/パスコ_\(航空測量\).md "wikilink")「エ**ス**リ製品」と呼んでいたことからこの呼称が一般的である。現在の国内総販売代理店である[ESRIジャパン株式会社](https://ja.wikipedia.org/wiki/ESRIジャパン株式会社 "wikilink")の社名は「エスリジャパン」と発音するのが正式である\[1\]。2010年以降も法人名は「ESRIジャパン株式会社」であり、「エスリ」と表音する。
 
 ## データ形式
 

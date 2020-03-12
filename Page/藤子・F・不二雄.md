@@ -1,29 +1,29 @@
 > この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
 
 
-**藤子・F・不二雄**（ふじこ・エフ・ふじお、[1933年](../Page/1933年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")8年〉[12月1日](../Page/12月1日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")〈[平成](../Page/平成.md "wikilink")8年〉[9月23日](../Page/9月23日.md "wikilink")\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[脚本家](https://ja.wikipedia.org/wiki/脚本家 "wikilink")。本名は**藤本 弘**（ふじもと ひろし）\[2\]。「F」とは「藤本（フジモト）」の頭文字を意味する。
+**藤子・F・不二雄**（ふじこ・エフ・ふじお、[1933年](../Page/1933年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")8年〉[12月1日](../Page/12月1日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")〈[平成](../Page/平成.md "wikilink")8年〉[9月23日](../Page/9月23日.md "wikilink")\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[脚本家](../Page/脚本家.md "wikilink")。本名は**藤本 弘**（ふじもと ひろし）\[2\]。「F」とは「藤本（フジモト）」の頭文字を意味する。
 
-[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[高岡市](https://ja.wikipedia.org/wiki/高岡市 "wikilink")定塚町出身。[富山県立高岡工芸高等学校](https://ja.wikipedia.org/wiki/富山県立高岡工芸高等学校 "wikilink")電気科卒\[3\]。
+[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[高岡市](https://ja.wikipedia.org/wiki/高岡市 "wikilink")定塚町出身。[富山県立高岡工芸高等学校](../Page/富山県立高岡工芸高等学校.md "wikilink")電気科卒\[3\]。
 
-隣接の[氷見市](https://ja.wikipedia.org/wiki/氷見市 "wikilink")出身の安孫子素雄（[藤子不二雄{{Unicode](../Page/藤子不二雄A.md "wikilink")）と共に“[藤子不二雄](../Page/藤子不二雄.md "wikilink")”としてコンビを組み、数多くの作品を発表。児童漫画の新時代を築き、第一人者となる。代表作は『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』『[パーマン](https://ja.wikipedia.org/wiki/パーマン "wikilink")』『[キテレツ大百科](https://ja.wikipedia.org/wiki/キテレツ大百科 "wikilink")』『[エスパー魔美](https://ja.wikipedia.org/wiki/エスパー魔美 "wikilink")』『[21エモン](../Page/21エモン.md "wikilink")』など。作品の著作権管理は生前に活動拠点としていた**[藤子・F・不二雄プロ](https://ja.wikipedia.org/wiki/藤子・F・不二雄プロ "wikilink")**が担当している。
+隣接の[氷見市](../Page/氷見市.md "wikilink")出身の安孫子素雄（[藤子不二雄{{Unicode](../Page/藤子不二雄A.md "wikilink")）と共に“[藤子不二雄](../Page/藤子不二雄.md "wikilink")”としてコンビを組み、数多くの作品を発表。児童漫画の新時代を築き、第一人者となる。代表作は『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』『[パーマン](../Page/パーマン.md "wikilink")』『[キテレツ大百科](../Page/キテレツ大百科.md "wikilink")』『[エスパー魔美](../Page/エスパー魔美.md "wikilink")』『[21エモン](../Page/21エモン.md "wikilink")』など。作品の著作権管理は生前に活動拠点としていた**[藤子・F・不二雄プロ](../Page/藤子・F・不二雄プロ.md "wikilink")**が担当している。
 
 ## 経歴
 
-本人によると、大人しくて真面目で体が弱かった藤本は小学校時代に壮絶ないじめに遭い、番長格の少年から[似顔絵](https://ja.wikipedia.org/wiki/似顔絵 "wikilink")を評価されるまでずっと抜け出せず、その時の気持ちが後の作品に反映されているという（『[まんが道](https://ja.wikipedia.org/wiki/まんが道 "wikilink")』\[4\]にも描写がある）。[1944年](../Page/1944年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")19年）に安孫子素雄と出会う。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（[昭和](../Page/昭和.md "wikilink")26年）、安孫子と共に『[毎日小学生新聞](https://ja.wikipedia.org/wiki/毎日小学生新聞 "wikilink")』に投稿した「[天使の玉ちゃん](https://ja.wikipedia.org/wiki/天使の玉ちゃん "wikilink")」が採用され、17歳にして漫画家デビューを果たす。製菓会社に就職するが、作業中の不意の事故により漫画が描けなくなることを恐れ3日で退社した\[5\]。そして自宅で漫画の執筆に専念し、休日は新聞社で働いていた安孫子と合作した。その2年後、渋る安孫子を無理やり誘って上京し、「藤子不二雄」の合作ペンネームでプロ漫画家としての活動を始める。2人は博学博識で、そこから生まれるユニークかつユーモア溢れるアイディアは数知れず、低年齢の子供向け作品を中心として、『[オバケのQ太郎](https://ja.wikipedia.org/wiki/オバケのQ太郎 "wikilink")』、『パーマン』、『ドラえもん』などの国民的な大ヒット作をいくつも生み出した（二人のデュオとしての活動の詳細については、[藤子不二雄\#経歴](https://ja.wikipedia.org/wiki/藤子不二雄#経歴 "wikilink")を参照）\[6\]。
+本人によると、大人しくて真面目で体が弱かった藤本は小学校時代に壮絶ないじめに遭い、番長格の少年から[似顔絵](../Page/似顔絵.md "wikilink")を評価されるまでずっと抜け出せず、その時の気持ちが後の作品に反映されているという（『[まんが道](../Page/まんが道.md "wikilink")』\[4\]にも描写がある）。[1944年](../Page/1944年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")19年）に安孫子素雄と出会う。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（[昭和](../Page/昭和.md "wikilink")26年）、安孫子と共に『[毎日小学生新聞](../Page/毎日小学生新聞.md "wikilink")』に投稿した「[天使の玉ちゃん](https://ja.wikipedia.org/wiki/天使の玉ちゃん "wikilink")」が採用され、17歳にして漫画家デビューを果たす。製菓会社に就職するが、作業中の不意の事故により漫画が描けなくなることを恐れ3日で退社した\[5\]。そして自宅で漫画の執筆に専念し、休日は新聞社で働いていた安孫子と合作した。その2年後、渋る安孫子を無理やり誘って上京し、「藤子不二雄」の合作ペンネームでプロ漫画家としての活動を始める。2人は博学博識で、そこから生まれるユニークかつユーモア溢れるアイディアは数知れず、低年齢の子供向け作品を中心として、『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』、『パーマン』、『ドラえもん』などの国民的な大ヒット作をいくつも生み出した（二人のデュオとしての活動の詳細については、[藤子不二雄\#経歴](https://ja.wikipedia.org/wiki/藤子不二雄#経歴 "wikilink")を参照）\[6\]。
 
-[1988年](../Page/1988年.md "wikilink")（昭和63年）にコンビを解消し、藤本は**藤子不二雄**として活動\[7\]を始めたが、約1年後、[トキワ荘](https://ja.wikipedia.org/wiki/トキワ荘 "wikilink")の仲間だった[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")の助言によって**藤子・F・不二雄**に改名した。後年になるに従って大人向けのダークな作風が強くなっていった安孫子とやや異なり、藤本はSF物など時おり大人向きの作品を手がけながらも『ドラえもん』を中心とした子供向け作品をメインに漫画の執筆を続けた。子供向け作品を手がけるその手腕のあざやかさは、「子供たちの夢と願望を心にくいばかりに視覚化する」\[8\]と評されるように極めて高い評価を得ており、没後も子供漫画の名手としてのその名声は揺らいでいない。
+[1988年](../Page/1988年.md "wikilink")（昭和63年）にコンビを解消し、藤本は**藤子不二雄**として活動\[7\]を始めたが、約1年後、[トキワ荘](../Page/トキワ荘.md "wikilink")の仲間だった[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の助言によって**藤子・F・不二雄**に改名した。後年になるに従って大人向けのダークな作風が強くなっていった安孫子とやや異なり、藤本はSF物など時おり大人向きの作品を手がけながらも『ドラえもん』を中心とした子供向け作品をメインに漫画の執筆を続けた。子供向け作品を手がけるその手腕のあざやかさは、「子供たちの夢と願望を心にくいばかりに視覚化する」\[8\]と評されるように極めて高い評価を得ており、没後も子供漫画の名手としてのその名声は揺らいでいない。
 
   - 生前
 
 <!-- end list -->
 
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）：[川崎市](https://ja.wikipedia.org/wiki/川崎市 "wikilink")に転入。
-  - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")（昭和56年）：川崎市文化賞を受賞\[9\]。
-  - [1982年](../Page/1982年.md "wikilink")（昭和57年）：第27回[小学館漫画賞](https://ja.wikipedia.org/wiki/小学館漫画賞 "wikilink")児童部門 受賞（『ドラえもん』当時は藤子不二雄）
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）：[川崎市](../Page/川崎市.md "wikilink")に転入。
+  - [1981年](../Page/1981年.md "wikilink")（昭和56年）：川崎市文化賞を受賞\[9\]。
+  - [1982年](../Page/1982年.md "wikilink")（昭和57年）：第27回[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")児童部門 受賞（『ドラえもん』当時は藤子不二雄）
   - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）：映画特別功労賞、[ゴールデングロス賞](https://ja.wikipedia.org/wiki/ゴールデングロス賞 "wikilink") 受賞
-  - [1994年](../Page/1994年.md "wikilink")（平成6年）：第23回[日本漫画家協会賞](https://ja.wikipedia.org/wiki/日本漫画家協会賞 "wikilink")文部大臣賞受賞
-  - [1996年](../Page/1996年.md "wikilink")（平成8年）[9月20日](https://ja.wikipedia.org/wiki/9月20日 "wikilink")：自宅の仕事部屋にて、『[ドラえもん のび太のねじ巻き都市冒険記](https://ja.wikipedia.org/wiki/ドラえもん_のび太のねじ巻き都市冒険記 "wikilink")』を執筆中に鉛筆を持ったまま意識を失う。
-  - [1996年](../Page/1996年.md "wikilink")（平成8年）[9月23日](../Page/9月23日.md "wikilink")：[肝不全](https://ja.wikipedia.org/wiki/肝不全 "wikilink")のため[慶應義塾大学病院](https://ja.wikipedia.org/wiki/慶應義塾大学病院 "wikilink")で[死去](https://ja.wikipedia.org/wiki/#死去 "wikilink")。。
+  - [1994年](../Page/1994年.md "wikilink")（平成6年）：第23回[日本漫画家協会賞](../Page/日本漫画家協会賞.md "wikilink")文部大臣賞受賞
+  - [1996年](../Page/1996年.md "wikilink")（平成8年）[9月20日](../Page/9月20日.md "wikilink")：自宅の仕事部屋にて、『[ドラえもん のび太のねじ巻き都市冒険記](../Page/ドラえもん_のび太のねじ巻き都市冒険記.md "wikilink")』を執筆中に鉛筆を持ったまま意識を失う。
+  - [1996年](../Page/1996年.md "wikilink")（平成8年）[9月23日](../Page/9月23日.md "wikilink")：[肝不全](https://ja.wikipedia.org/wiki/肝不全 "wikilink")のため[慶應義塾大学病院](../Page/慶應義塾大学病院.md "wikilink")で[死去](https://ja.wikipedia.org/wiki/#死去 "wikilink")。。
 
 <!-- end list -->
 
@@ -31,70 +31,70 @@
 
 <!-- end list -->
 
-  - [1996年](../Page/1996年.md "wikilink")（平成8年）：[アニメーション神戸](https://ja.wikipedia.org/wiki/アニメーション神戸 "wikilink")'96読売賞 受賞（アニメーションの文化と産業振興への寄与に対して）
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）：第1回[手塚治虫文化賞](https://ja.wikipedia.org/wiki/手塚治虫文化賞 "wikilink") マンガ大賞 受賞（『ドラえもん』）
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）：[小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")が12903部限定生産の「F's complete works 藤子・F・不二雄複製原画集」を発売。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）：川崎市[多摩区](https://ja.wikipedia.org/wiki/多摩区 "wikilink")に住んでいたため、[生田緑地](https://ja.wikipedia.org/wiki/生田緑地 "wikilink")内に「[藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")」という博物館が設立されることが正式に発表される。
+  - [1996年](../Page/1996年.md "wikilink")（平成8年）：[アニメーション神戸](../Page/アニメーション神戸.md "wikilink")'96読売賞 受賞（アニメーションの文化と産業振興への寄与に対して）
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）：第1回[手塚治虫文化賞](../Page/手塚治虫文化賞.md "wikilink") マンガ大賞 受賞（『ドラえもん』）
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）：[小学館](../Page/小学館.md "wikilink")が12903部限定生産の「F's complete works 藤子・F・不二雄複製原画集」を発売。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）：川崎市[多摩区](../Page/多摩区.md "wikilink")に住んでいたため、[生田緑地](../Page/生田緑地.md "wikilink")内に「[藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")」という博物館が設立されることが正式に発表される。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）：12月に博物館の建設地が、川崎市多摩区長尾2丁目・小田急向ヶ丘遊園ボウル周辺に決定。
-  - [2009年](../Page/2009年.md "wikilink")（平成21年）：小学館が[特設サイト](http://www.shogakukan.co.jp/fzenshu/)において『[藤子・F・不二雄大全集](https://ja.wikipedia.org/wiki/藤子・F・不二雄大全集 "wikilink")』の発売を発表。同年7月より刊行が始まり、[2014年](https://ja.wikipedia.org/wiki/2014年 "wikilink")（平成26年）までに全115巻が刊行された。同時に、藤子・F・不二雄作品のキャラクターを[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")展開させる「Fプロジェクト」の立ち上げを発表した。
-  - [2011年](https://ja.wikipedia.org/wiki/2011年 "wikilink")（平成23年）：[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")（ドラえもんの誕生日）に、[藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")が開業。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）：小学館が[特設サイト](http://www.shogakukan.co.jp/fzenshu/)において『[藤子・F・不二雄大全集](https://ja.wikipedia.org/wiki/藤子・F・不二雄大全集 "wikilink")』の発売を発表。同年7月より刊行が始まり、[2014年](../Page/2014年.md "wikilink")（平成26年）までに全115巻が刊行された。同時に、藤子・F・不二雄作品のキャラクターを[メディアミックス](../Page/メディアミックス.md "wikilink")展開させる「Fプロジェクト」の立ち上げを発表した。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）：[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")（ドラえもんの誕生日）に、[藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")が開業。
 
 ## 人物
 
 ### 創作に対する姿勢や嗜好
 
-愛用していた鉛筆は[三菱ユニのB](https://ja.wikipedia.org/wiki/三菱鉛筆 "wikilink")、ペン先は[ゼブラのかぶらペン](https://ja.wikipedia.org/wiki/ゼブラ_\(文具メーカー\) "wikilink")\[10\]。整理された画面構成を好み、不必要な線が入りすぎることを嫌った\[11\]。作品を単行本化する際、加筆修正、削除を行い、より完成度を高めるようにしている。
+愛用していた鉛筆は[三菱ユニのB](../Page/三菱鉛筆.md "wikilink")、ペン先は[ゼブラのかぶらペン](../Page/ゼブラ_\(文具メーカー\).md "wikilink")\[10\]。整理された画面構成を好み、不必要な線が入りすぎることを嫌った\[11\]。作品を単行本化する際、加筆修正、削除を行い、より完成度を高めるようにしている。
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に小学校時代を過ごした世代であり、第二次大戦終結（[1945年](../Page/1945年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")）当時は[国民学校](https://ja.wikipedia.org/wiki/国民学校 "wikilink")（現・[小学校](https://ja.wikipedia.org/wiki/小学校 "wikilink")）6年生であった\[12\]。従って、[兵器](https://ja.wikipedia.org/wiki/兵器 "wikilink")、軍事、[クーデター](https://ja.wikipedia.org/wiki/クーデター "wikilink")、[革命](https://ja.wikipedia.org/wiki/革命 "wikilink")などに関する作品も多くある\[13\]。兵器に関しては子供が憧れる格好いいものと描いている描写（スネ夫のセリフなど）があるが、戦争自体への考えは世代に関係なく一貫して虚しいもの、恐るべき物、愚かしい行為として描いている<ref>厭戦的な価値観が表出している作品としては、ドラえもん内では
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に小学校時代を過ごした世代であり、第二次大戦終結（[1945年](../Page/1945年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")）当時は[国民学校](../Page/国民学校.md "wikilink")（現・[小学校](../Page/小学校.md "wikilink")）6年生であった\[12\]。従って、[兵器](../Page/兵器.md "wikilink")、軍事、[クーデター](../Page/クーデター.md "wikilink")、[革命](https://ja.wikipedia.org/wiki/革命 "wikilink")などに関する作品も多くある\[13\]。兵器に関しては子供が憧れる格好いいものと描いている描写（スネ夫のセリフなど）があるが、戦争自体への考えは世代に関係なく一貫して虚しいもの、恐るべき物、愚かしい行為として描いている<ref>厭戦的な価値観が表出している作品としては、ドラえもん内では
 
-  - 『[のび太の海底鬼岩城](https://ja.wikipedia.org/wiki/ドラえもん_のび太の海底鬼岩城 "wikilink")』でのポセイドンに関する描写
-  - 『[のび太の創世日記](https://ja.wikipedia.org/wiki/ドラえもん_のび太の創世日記 "wikilink")』における宗教戦争の否定
+  - 『[のび太の海底鬼岩城](../Page/ドラえもん_のび太の海底鬼岩城.md "wikilink")』でのポセイドンに関する描写
+  - 『[のび太の創世日記](../Page/ドラえもん_のび太の創世日記.md "wikilink")』における宗教戦争の否定
   - 「階級ワッペン」でののび太の同級生の「昔の軍隊はこんなふうに無茶な命令で無茶な戦争を始めたんだね」
   - 「ラジコン大海戦」での[スネ吉](https://ja.wikipedia.org/wiki/スネ吉 "wikilink")の「戦争は金ばかりかかって むなしいものだなあ」
   - 「ご先祖さまがんばれ」でのドラえもんの「どっちも自分が正しいと思ってるよ。戦争ってそんなもんだよ」
 
 といった描写があり、SF短編では『[マイシェルター](https://ja.wikipedia.org/wiki/マイシェルター "wikilink")』や『[ある日……](https://ja.wikipedia.org/wiki/ある日…… "wikilink")』など。</ref>。また、ドラえもん初期には、第二次世界大戦に関するエピソードが幾つか見受けられる（[疎開先での児童生活の辛さを描いた](https://ja.wikipedia.org/wiki/学童疎開 "wikilink")「白ゆりのような女の子」、[上野動物園での動物の殺処分について触れた](https://ja.wikipedia.org/wiki/戦時猛獣処分 "wikilink")「ぞうとおじさん」など）。1979年発表『T・Pぼん「戦場の美少女」』では主人公たちが[特攻隊員に歴史干渉をしている](https://ja.wikipedia.org/wiki/特別攻撃隊 "wikilink")。1980年発表の短編『[超兵器ガ壱号](https://ja.wikipedia.org/wiki/超兵器ガ壱号 "wikilink")』では、第二次世界大戦に日本が勝利する世界を描いている。
 
-『ドラえもん』など、SF色（特に[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")を描いた内容）の強い作品の多さなどから解る通り、SFに対しての関心も強かった。SF短編などには、名作SFからの影響や引用が散見できる。『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』が公開され、大ブームになった時期には、『ドラえもん』の各所に『スター・ウォーズ』にちなんだネタを数多く登場させた（パロディとして描いた「天井うらの宇宙戦争」（姫は[アーレ・オッカナ](https://ja.wikipedia.org/wiki/レイア・オーガナ "wikilink")、ロボットは[R3-D3](https://ja.wikipedia.org/wiki/R2-D2 "wikilink")、敵は[アカンベーダー](https://ja.wikipedia.org/wiki/ダース・ベイダー "wikilink")）の話のほかにも、リザーブマシンで取った映画の席が『スター・ジョーズ』であるなど。SF短編では『[ある日……](https://ja.wikipedia.org/wiki/ある日…… "wikilink")』と『[裏町裏通り名画館](https://ja.wikipedia.org/wiki/裏町裏通り名画館 "wikilink")』に『スター・ウォーズ』のパロディ[劇中劇](https://ja.wikipedia.org/wiki/劇中劇 "wikilink")がある）。
+『ドラえもん』など、SF色（特に[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")を描いた内容）の強い作品の多さなどから解る通り、SFに対しての関心も強かった。SF短編などには、名作SFからの影響や引用が散見できる。『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』が公開され、大ブームになった時期には、『ドラえもん』の各所に『スター・ウォーズ』にちなんだネタを数多く登場させた（パロディとして描いた「天井うらの宇宙戦争」（姫は[アーレ・オッカナ](../Page/レイア・オーガナ.md "wikilink")、ロボットは[R3-D3](../Page/R2-D2.md "wikilink")、敵は[アカンベーダー](../Page/ダース・ベイダー.md "wikilink")）の話のほかにも、リザーブマシンで取った映画の席が『スター・ジョーズ』であるなど。SF短編では『[ある日……](https://ja.wikipedia.org/wiki/ある日…… "wikilink")』と『[裏町裏通り名画館](../Page/裏町裏通り名画館.md "wikilink")』に『スター・ウォーズ』のパロディ[劇中劇](../Page/劇中劇.md "wikilink")がある）。
 
-大ヒットした映画『[南極物語](https://ja.wikipedia.org/wiki/南極物語 "wikilink")』を本来南極に住んでいた[野生動物の立場から自作の中で暗に非難し](https://ja.wikipedia.org/wiki/アザラシ "wikilink")（『[裏町裏通り名画館](https://ja.wikipedia.org/wiki/裏町裏通り名画館 "wikilink")』）、『大長編ドラえもん』でも環境保護を早期から唱えていた（『[のび太とアニマル惑星](https://ja.wikipedia.org/wiki/ドラえもん_のび太とアニマル惑星 "wikilink")』）。
+大ヒットした映画『[南極物語](../Page/南極物語.md "wikilink")』を本来南極に住んでいた[野生動物の立場から自作の中で暗に非難し](../Page/アザラシ.md "wikilink")（『[裏町裏通り名画館](../Page/裏町裏通り名画館.md "wikilink")』）、『大長編ドラえもん』でも環境保護を早期から唱えていた（『[のび太とアニマル惑星](../Page/ドラえもん_のび太とアニマル惑星.md "wikilink")』）。
 
 子供による、現実と自作の作品世界が混同した無邪気な質問に対しては、夢を壊さないような答えを返している。以下に例を列挙する。
 
-  - [武田鉄矢](https://ja.wikipedia.org/wiki/武田鉄矢 "wikilink")がまだ幼い娘を連れて藤本に会いに行ったとき、娘が「[ドラえもんはどこにいるの](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")?」と尋ねた。すると藤本は「ドラえもんはね、今[テレビ局にいるんだよ](../Page/テレビジョン放送局.md "wikilink")。」と答えた。
+  - [武田鉄矢](../Page/武田鉄矢.md "wikilink")がまだ幼い娘を連れて藤本に会いに行ったとき、娘が「[ドラえもんはどこにいるの](../Page/ドラえもん_\(キャラクター\).md "wikilink")?」と尋ねた。すると藤本は「ドラえもんはね、今[テレビ局にいるんだよ](../Page/テレビジョン放送局.md "wikilink")。」と答えた。
   - 『ドラえもん』人気が高かった[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")を訪れた際、現地の子供が「四次元ポケットは（藤本先生は）持っていないのですか?」という質問をした。それに対し、藤本は「ドラえもんが着けているもののほかに、予備（スペアポケット）があるんだけど、この2つしかないから、僕は持っていないんだよ。」と答えた。
 
-作中に登場する[女の子](https://ja.wikipedia.org/wiki/女の子 "wikilink")には強いこだわりがあり、女の子が登場しただけで単行本に収録する際、加筆修正を何重にも行うこともある（『[21エモン](../Page/21エモン.md "wikilink")』でのルナ登場シーンや、『[エスパー魔美](https://ja.wikipedia.org/wiki/エスパー魔美 "wikilink")』の[ヌード](https://ja.wikipedia.org/wiki/ヌード "wikilink")シーンなど）。特に『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』のアニメ化の際、しずかについての[作画](https://ja.wikipedia.org/wiki/作画 "wikilink")には多く注文した。
+作中に登場する[女の子](https://ja.wikipedia.org/wiki/女の子 "wikilink")には強いこだわりがあり、女の子が登場しただけで単行本に収録する際、加筆修正を何重にも行うこともある（『[21エモン](../Page/21エモン.md "wikilink")』でのルナ登場シーンや、『[エスパー魔美](../Page/エスパー魔美.md "wikilink")』の[ヌード](../Page/ヌード.md "wikilink")シーンなど）。特に『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』のアニメ化の際、しずかについての[作画](https://ja.wikipedia.org/wiki/作画 "wikilink")には多く注文した。
 
-自作のアニメーション化の制作には、細かいチェックや要望などは特に行わなかったとされている。ただ[しずかについては特別なこだわりを持っていたらしく](https://ja.wikipedia.org/wiki/源静香 "wikilink")、絵や性格などに注文を出すときがある。また、元シンエイ動画社長の[楠部三吉郎](https://ja.wikipedia.org/wiki/楠部三吉郎 "wikilink")は、映画『ドラえもん』公開後のミーティングでも決まって「面白かったですね」としか言わなかった\[14\]が、シンエイ動画版『ドラえもん』が始まって少し経った頃に「私のキャラクターでお願いします」と言われたことと、『[ドラえもん のび太の大魔境](https://ja.wikipedia.org/wiki/ドラえもん_のび太の大魔境 "wikilink")』完成後に「作品の出来はいいと思う」が「私の世界を理解していただいていない。監督をかえてもらえないか」と言われたことの2度（いずれも楠部との差し向かい）、アニメ版の内容について「叱られた」\[15\]と記している。[武田鉄矢](https://ja.wikipedia.org/wiki/武田鉄矢 "wikilink")の歌にもこだわりを持っていたらしく、映画大長編のエンディングテーマをずっと担当していた武田の降板を製作側から持ちかけられた時には強く拒絶したことが『ドラえもん大全集』にて武田本人により明かされている。最初の映画『[ドラえもん のび太の恐竜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の恐竜 "wikilink")』に客が入るのか不安で、公開前日に映画館の向かいのホテルに宿を取ったと[大山のぶ代](https://ja.wikipedia.org/wiki/大山のぶ代 "wikilink")は記している\[16\]。
+自作のアニメーション化の制作には、細かいチェックや要望などは特に行わなかったとされている。ただ[しずかについては特別なこだわりを持っていたらしく](../Page/源静香.md "wikilink")、絵や性格などに注文を出すときがある。また、元シンエイ動画社長の[楠部三吉郎](../Page/楠部三吉郎.md "wikilink")は、映画『ドラえもん』公開後のミーティングでも決まって「面白かったですね」としか言わなかった\[14\]が、シンエイ動画版『ドラえもん』が始まって少し経った頃に「私のキャラクターでお願いします」と言われたことと、『[ドラえもん のび太の大魔境](../Page/ドラえもん_のび太の大魔境.md "wikilink")』完成後に「作品の出来はいいと思う」が「私の世界を理解していただいていない。監督をかえてもらえないか」と言われたことの2度（いずれも楠部との差し向かい）、アニメ版の内容について「叱られた」\[15\]と記している。[武田鉄矢](../Page/武田鉄矢.md "wikilink")の歌にもこだわりを持っていたらしく、映画大長編のエンディングテーマをずっと担当していた武田の降板を製作側から持ちかけられた時には強く拒絶したことが『ドラえもん大全集』にて武田本人により明かされている。最初の映画『[ドラえもん のび太の恐竜](../Page/ドラえもん_のび太の恐竜.md "wikilink")』に客が入るのか不安で、公開前日に映画館の向かいのホテルに宿を取ったと[大山のぶ代](../Page/大山のぶ代.md "wikilink")は記している\[16\]。
 
-晩年、[小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")の児童向け学習雑誌や『[コロコロコミック](https://ja.wikipedia.org/wiki/月刊コロコロコミック "wikilink")』などに作品が掲載される際には、「マンガの王様」というクレジットがあった。
+晩年、[小学館](../Page/小学館.md "wikilink")の児童向け学習雑誌や『[コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』などに作品が掲載される際には、「マンガの王様」というクレジットがあった。
 
-初の専属[アシスタントとして](https://ja.wikipedia.org/wiki/アシスタント_\(漫画\) "wikilink")、『[まいっちんぐマチコ先生](https://ja.wikipedia.org/wiki/まいっちんぐマチコ先生 "wikilink")』で知られる[えびはら武司](https://ja.wikipedia.org/wiki/えびはら武司 "wikilink")がいる。[むぎわらしんたろう](https://ja.wikipedia.org/wiki/むぎわらしんたろう "wikilink")（萩原伸一）もアシスタントとして晩年の藤本を支え、一緒に劇を見たり途中で[そばを食べるなどとかなり親密な関係だった](https://ja.wikipedia.org/wiki/蕎麦 "wikilink")。また、むぎわらが描いた漫画に細かい部分まで指導を行ったり、『ドラえもん』単行本の表紙を任せるなど、後進としても目をかけていた。
+初の専属[アシスタントとして](../Page/アシスタント_\(漫画\).md "wikilink")、『[まいっちんぐマチコ先生](../Page/まいっちんぐマチコ先生.md "wikilink")』で知られる[えびはら武司](../Page/えびはら武司.md "wikilink")がいる。[むぎわらしんたろう](../Page/むぎわらしんたろう.md "wikilink")（萩原伸一）もアシスタントとして晩年の藤本を支え、一緒に劇を見たり途中で[そばを食べるなどとかなり親密な関係だった](../Page/蕎麦.md "wikilink")。また、むぎわらが描いた漫画に細かい部分まで指導を行ったり、『ドラえもん』単行本の表紙を任せるなど、後進としても目をかけていた。
 
 『ドラえもん』のジャイ子があだ名のままで本名が明かされなかったのは、ジャイ子の本名を明かすと同じ名前の女の子が学校でいじめられるかもしれないと配慮したためである。これは藤子の死後、2006年2月19日放送のテレビ朝日系『〜ドラえもん誕生物語 藤子・F・不二雄からの手紙〜』にて関係者が告白したことにより初めて明らかになったもので、それまでは「藤子は『（ジャイ子の本名は）そのうち漫画の中で書きますよ』と答えていたが、結局書かれることがなかっただけ」と説明されていた\[17\]。藤子は生前、「友達の女の子をジャイ子と呼ぶのはやめましょう」と語っていた。
 
-骨川スネ夫の弟スネツグは連載初期には登場させていたものの次第に藤子がスネツグの存在を忘れてしまいスネ夫は一人っ子と設定された。[苦肉の策として](https://ja.wikipedia.org/wiki/苦肉計 "wikilink")、スネ夫に弟はいるが養子に出たというエピソード\[18\]が描かれている。
+骨川スネ夫の弟スネツグは連載初期には登場させていたものの次第に藤子がスネツグの存在を忘れてしまいスネ夫は一人っ子と設定された。[苦肉の策として](../Page/苦肉計.md "wikilink")、スネ夫に弟はいるが養子に出たというエピソード\[18\]が描かれている。
 
 ### 性格・趣味など
 
-社交的でテレビ出演やエッセイ執筆、ゴルフなどもこなす安孫子とは対照的に、コツコツとマンガ執筆に専心していた。ゴルフは個人的にたしなんでいたが、自他共に認める「下手の横好き」であったといい、晩年に執筆した作品の『[未来の想い出](https://ja.wikipedia.org/wiki/未来の想い出 "wikilink")』ではゴルフが下手糞な自身をモデルにした納戸理人が「藤子・F・不二雄（名前だけの登場）の方が下手だぞ\!」と話す場面がある。酒は全く飲めなかった。この点について楠部三吉郎は、宴席の場ではお互い緊張することになったと述べている\[19\]。
+社交的でテレビ出演やエッセイ執筆、ゴルフなどもこなす安孫子とは対照的に、コツコツとマンガ執筆に専心していた。ゴルフは個人的にたしなんでいたが、自他共に認める「下手の横好き」であったといい、晩年に執筆した作品の『[未来の想い出](../Page/未来の想い出.md "wikilink")』ではゴルフが下手糞な自身をモデルにした納戸理人が「藤子・F・不二雄（名前だけの登場）の方が下手だぞ\!」と話す場面がある。酒は全く飲めなかった。この点について楠部三吉郎は、宴席の場ではお互い緊張することになったと述べている\[19\]。
 
-[ベレー帽](https://ja.wikipedia.org/wiki/ベレー帽 "wikilink")と[パイプがトレードマークであり](https://ja.wikipedia.org/wiki/パイプ_\(たばこ\) "wikilink")、作中に登場する本人の似顔絵にも描かれている。ベレー帽をかぶるきっかけを作った人物は、同じくベレー帽をトレードマークとする手塚治虫ではなく、相棒の安孫子である。ある日、安孫子は知り合いからベレー帽を貰ったが、あまりかぶる気にはならなかったため、それをそのまま藤本に譲った。以来彼のトレードマークになった。なお藤本は「安孫子のほうがおしゃれだから、僕より似合ったはず」と思っていたそうである。パイプについては、執筆中に撮影された写真でもくわえているものがあったが\[20\]、癌を発症した晩年に医者から[禁煙](https://ja.wikipedia.org/wiki/禁煙 "wikilink")を命じられ、[禁煙パイポ](https://ja.wikipedia.org/wiki/禁煙パイポ "wikilink")を使っていたこともあった\[21\]。仕事場ではベレー帽をかぶり、パイプ煙草を吹かしながら黙々と机に向かうのが日課であった\[22\]。一方でベレー帽は普段は着用せず取材の時だけかぶっていたとの証言もある\[23\]。
+[ベレー帽](../Page/ベレー帽.md "wikilink")と[パイプがトレードマークであり](../Page/パイプ_\(たばこ\).md "wikilink")、作中に登場する本人の似顔絵にも描かれている。ベレー帽をかぶるきっかけを作った人物は、同じくベレー帽をトレードマークとする手塚治虫ではなく、相棒の安孫子である。ある日、安孫子は知り合いからベレー帽を貰ったが、あまりかぶる気にはならなかったため、それをそのまま藤本に譲った。以来彼のトレードマークになった。なお藤本は「安孫子のほうがおしゃれだから、僕より似合ったはず」と思っていたそうである。パイプについては、執筆中に撮影された写真でもくわえているものがあったが\[20\]、癌を発症した晩年に医者から[禁煙](../Page/禁煙.md "wikilink")を命じられ、[禁煙パイポ](../Page/禁煙パイポ.md "wikilink")を使っていたこともあった\[21\]。仕事場ではベレー帽をかぶり、パイプ煙草を吹かしながら黙々と机に向かうのが日課であった\[22\]。一方でベレー帽は普段は着用せず取材の時だけかぶっていたとの証言もある\[23\]。
 
-[野球](../Page/野球.md "wikilink")好きで、[近鉄バファローズファンであった](../Page/大阪近鉄バファローズ.md "wikilink")（『[小学四年生](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")』[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）1月号で読者の質問に回答）。また[鉄道ファン](https://ja.wikipedia.org/wiki/鉄道ファン "wikilink")でもあり、[鉄道模型](https://ja.wikipedia.org/wiki/鉄道模型 "wikilink")が趣味の一つ。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）にはテレビ番組『[ドラえもん・ヨーロッパ鉄道の旅](https://ja.wikipedia.org/wiki/ドラえもん・ヨーロッパ鉄道の旅 "wikilink")』にキャラクターと共演している。また[鉄道](../Page/鉄道.md "wikilink")、[鉄道模型](https://ja.wikipedia.org/wiki/鉄道模型 "wikilink")、[SL等を題材にした作品も多数存在する](https://ja.wikipedia.org/wiki/蒸気機関車 "wikilink")（SF短編『四畳半SL旅行』、『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』「SLえんとつ」「のび太の模型鉄道」「天の川鉄道乗車券」、『[ポコニャン](https://ja.wikipedia.org/wiki/ポコニャン "wikilink")』「ダイナミックもけい鉄道」など）。
+[野球](../Page/野球.md "wikilink")好きで、[近鉄バファローズファンであった](../Page/大阪近鉄バファローズ.md "wikilink")（『[小学四年生](../Page/小学館の学年別学習雑誌.md "wikilink")』[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）1月号で読者の質問に回答）。また[鉄道ファン](../Page/鉄道ファン.md "wikilink")でもあり、[鉄道模型](../Page/鉄道模型.md "wikilink")が趣味の一つ。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）にはテレビ番組『[ドラえもん・ヨーロッパ鉄道の旅](https://ja.wikipedia.org/wiki/ドラえもん・ヨーロッパ鉄道の旅 "wikilink")』にキャラクターと共演している。また[鉄道](../Page/鉄道.md "wikilink")、[鉄道模型](../Page/鉄道模型.md "wikilink")、[SL等を題材にした作品も多数存在する](../Page/蒸気機関車.md "wikilink")（SF短編『四畳半SL旅行』、『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』「SLえんとつ」「のび太の模型鉄道」「天の川鉄道乗車券」、『[ポコニャン](../Page/ポコニャン.md "wikilink")』「ダイナミックもけい鉄道」など）。
 
 [カメラ](../Page/カメラ.md "wikilink")撮影や[ジオラマ](https://ja.wikipedia.org/wiki/ジオラマ "wikilink")制作なども趣味であり、ドラえもんのひみつ道具には数多くのカメラが登場するほか、ジオラマ制作について事細かに極意を解いたマニアックな話も登場する。藤本は、ひみつ道具のアイディアをひねり出すヒントの一つに「自分の好きなものをモチーフにする」というのがあり、その一例としてカメラを採り上げていた。その他、特撮、プラモデル、ラジコンなどホビー関連に造詣が深い。
 
-[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")についての造詣の深さでも知られ、仕事机には[始祖鳥](https://ja.wikipedia.org/wiki/始祖鳥 "wikilink")の化石のレプリカや[ティラノサウルス](https://ja.wikipedia.org/wiki/ティラノサウルス "wikilink")の[プラモデル](../Page/プラモデル.md "wikilink")、果てには本物の[ディプロドクス](https://ja.wikipedia.org/wiki/ディプロドクス "wikilink")の尾の骨までが飾られていたという。過去にアシスタントの[むぎわらしんたろう](https://ja.wikipedia.org/wiki/むぎわらしんたろう "wikilink")が[翼竜](https://ja.wikipedia.org/wiki/翼竜 "wikilink")のイラストのペン入れを行ったところ、一瞥して即座に「腕の関節がおかしい！」と指摘したこともある\[24\]。恐竜に関する関心の強さは作品の各所にも現れ、ドラえもん大長編第1作『[のび太の恐竜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の恐竜 "wikilink")』、第8作『[のび太と竜の騎士](https://ja.wikipedia.org/wiki/ドラえもん_のび太と竜の騎士 "wikilink")』や本編の各所、『[キテレツ大百科](https://ja.wikipedia.org/wiki/キテレツ大百科 "wikilink")』のアニメ1988年5月29日放送回、SF短編と『[T・Pぼん](https://ja.wikipedia.org/wiki/T・Pぼん "wikilink")』などでも、恐竜をモチーフにしたエピソードは数多い。
+[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")についての造詣の深さでも知られ、仕事机には[始祖鳥](../Page/始祖鳥.md "wikilink")の化石のレプリカや[ティラノサウルス](../Page/ティラノサウルス.md "wikilink")の[プラモデル](../Page/プラモデル.md "wikilink")、果てには本物の[ディプロドクス](https://ja.wikipedia.org/wiki/ディプロドクス "wikilink")の尾の骨までが飾られていたという。過去にアシスタントの[むぎわらしんたろう](../Page/むぎわらしんたろう.md "wikilink")が[翼竜](../Page/翼竜.md "wikilink")のイラストのペン入れを行ったところ、一瞥して即座に「腕の関節がおかしい！」と指摘したこともある\[24\]。恐竜に関する関心の強さは作品の各所にも現れ、ドラえもん大長編第1作『[のび太の恐竜](../Page/ドラえもん_のび太の恐竜.md "wikilink")』、第8作『[のび太と竜の騎士](../Page/ドラえもん_のび太と竜の騎士.md "wikilink")』や本編の各所、『[キテレツ大百科](../Page/キテレツ大百科.md "wikilink")』のアニメ1988年5月29日放送回、SF短編と『[T・Pぼん](../Page/T・Pぼん.md "wikilink")』などでも、恐竜をモチーフにしたエピソードは数多い。
 
-[西部劇](../Page/西部劇.md "wikilink")や[ガンマン](https://ja.wikipedia.org/wiki/ガンマン "wikilink")にも関心が強く、それに関した話も少なくない。ドラえもんののび太には射撃の才能があるエピソードが多く描かれており、またドラミとタッグを組んだ後期の話（単行本24巻「ガンファイターのび太」）や『T・Pぼん』や[SF短編集](https://ja.wikipedia.org/wiki/藤子・F・不二雄のSF短編 "wikilink")（『[休日のガンマン](https://ja.wikipedia.org/wiki/休日のガンマン "wikilink")』）などで本格的なスタイルのガンマンたちを描いている。藤子不二雄・[鈴木伸一](https://ja.wikipedia.org/wiki/鈴木伸一 "wikilink")・[つのだじろう](../Page/つのだじろう.md "wikilink")と共に8mmカメラで西部劇を撮影したこともある。
+[西部劇](../Page/西部劇.md "wikilink")や[ガンマン](../Page/ガンマン.md "wikilink")にも関心が強く、それに関した話も少なくない。ドラえもんののび太には射撃の才能があるエピソードが多く描かれており、またドラミとタッグを組んだ後期の話（単行本24巻「ガンファイターのび太」）や『T・Pぼん』や[SF短編集](../Page/藤子・F・不二雄のSF短編.md "wikilink")（『[休日のガンマン](../Page/休日のガンマン.md "wikilink")』）などで本格的なスタイルのガンマンたちを描いている。藤子不二雄・[鈴木伸一](../Page/鈴木伸一.md "wikilink")・[つのだじろう](../Page/つのだじろう.md "wikilink")と共に8mmカメラで西部劇を撮影したこともある。
 
-[落語](https://ja.wikipedia.org/wiki/落語 "wikilink")ファンでもあって、特に[古今亭志ん生を好み](https://ja.wikipedia.org/wiki/古今亭志ん生_\(5代目\) "wikilink")、ときには落語のネタを自作の中で用いることもあった\[25\]。
+[落語](../Page/落語.md "wikilink")ファンでもあって、特に[古今亭志ん生を好み](../Page/古今亭志ん生_\(5代目\).md "wikilink")、ときには落語のネタを自作の中で用いることもあった\[25\]。
 
-食の面では特に[肉を好み](https://ja.wikipedia.org/wiki/食肉 "wikilink")、[大根だけは苦手だった](../Page/ダイコン.md "wikilink")\[26\]。いくつかの作品に登場するキャラクター[小池さん](https://ja.wikipedia.org/wiki/小池さん "wikilink")と同様に、好きな食べ物は「[インスタントラーメン](https://ja.wikipedia.org/wiki/インスタントラーメン "wikilink")（特に[チキンラーメン](https://ja.wikipedia.org/wiki/チキンラーメン "wikilink")）」であると語っていた。小池さんのモデルである鈴木伸一は、自分よりも藤本の方がずっとラーメン好きだったと語っている。お湯をかけるだけで食べられるという点が「魔法のよう」であると言い、旧[スタジオ・ゼロ](https://ja.wikipedia.org/wiki/スタジオ・ゼロ "wikilink")の屋上でインスタントラーメンを食べているグラフが撮影されたこともある。
+食の面では特に[肉を好み](../Page/食肉.md "wikilink")、[大根だけは苦手だった](../Page/ダイコン.md "wikilink")\[26\]。いくつかの作品に登場するキャラクター[小池さん](../Page/小池さん.md "wikilink")と同様に、好きな食べ物は「[インスタントラーメン](../Page/インスタントラーメン.md "wikilink")（特に[チキンラーメン](https://ja.wikipedia.org/wiki/チキンラーメン "wikilink")）」であると語っていた。小池さんのモデルである鈴木伸一は、自分よりも藤本の方がずっとラーメン好きだったと語っている。お湯をかけるだけで食べられるという点が「魔法のよう」であると言い、旧[スタジオ・ゼロ](../Page/スタジオ・ゼロ.md "wikilink")の屋上でインスタントラーメンを食べているグラフが撮影されたこともある。
 
-好きな女優は[白川由美](https://ja.wikipedia.org/wiki/白川由美 "wikilink")。トキワ荘時代、藤子不二雄から「表の煙草屋の前に白川由美がいるよ」と告げられ、慌てて部屋を飛び出して煙草屋まで駆けつけたが誰もいない。煙草屋のお婆さんに「白川由美さんがここにいませんでしたか」と聞くと、お婆さんは窓ガラスのポスターを指さした。そのポスターの中では、白川由美が微笑んでいた\[27\]。
+好きな女優は[白川由美](../Page/白川由美.md "wikilink")。トキワ荘時代、藤子不二雄から「表の煙草屋の前に白川由美がいるよ」と告げられ、慌てて部屋を飛び出して煙草屋まで駆けつけたが誰もいない。煙草屋のお婆さんに「白川由美さんがここにいませんでしたか」と聞くと、お婆さんは窓ガラスのポスターを指さした。そのポスターの中では、白川由美が微笑んでいた\[27\]。
 
 イタズラ好きで、トキワ荘の住人にたくさんのイタズラをした。赤塚や石ノ森などから仕返しを喰らうことも度々だったという。
 
@@ -104,9 +104,9 @@
 
 ### 病歴
 
-上京した頃、当時死亡率第1位だった[結核](https://ja.wikipedia.org/wiki/結核 "wikilink")にかかったことがあったが、気力で回復したという\[28\]。
+上京した頃、当時死亡率第1位だった[結核](../Page/結核.md "wikilink")にかかったことがあったが、気力で回復したという\[28\]。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に検査入院で[胃癌](https://ja.wikipedia.org/wiki/胃癌 "wikilink")が見つかる\[29\]\[30\]。しかし、仕事の関係者には全く話さなかったという\[31\]。これ以降何かと体調を崩すようになっていた\[32\]。また、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")には[肝臓癌](https://ja.wikipedia.org/wiki/肝臓癌 "wikilink")が見つかり、当時『コロコロコミック』で連載していた大長編ドラえもん作品「[のび太と雲の王国](https://ja.wikipedia.org/wiki/ドラえもん_のび太と雲の王国 "wikilink")」が中断、藤子プロによる絵物語（ビジュアルストーリー）を掲載する事態となった。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に検査入院で[胃癌](../Page/胃癌.md "wikilink")が見つかる\[29\]\[30\]。しかし、仕事の関係者には全く話さなかったという\[31\]。これ以降何かと体調を崩すようになっていた\[32\]。また、[1992年](../Page/1992年.md "wikilink")には[肝臓癌](https://ja.wikipedia.org/wiki/肝臓癌 "wikilink")が見つかり、当時『コロコロコミック』で連載していた大長編ドラえもん作品「[のび太と雲の王国](../Page/ドラえもん_のび太と雲の王国.md "wikilink")」が中断、藤子プロによる絵物語（ビジュアルストーリー）を掲載する事態となった。
 
 ## 手塚治虫との関係
 
@@ -114,39 +114,39 @@
 
 14歳の頃、藤本は手塚にファンレターを出す。その返事として「しっかりしたタッチで将来がたのしみです」と手塚から直筆のハガキを受け取り、ますますファンになったという。藤本はそのハガキを生涯大事に保管していて、現在は[藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")に展示されている。
 
-高校卒業時には一旦就職することに決めるが、漫画家への夢を諦めきれず、春休みを利用して手塚治虫に会いに行ったこともある。藤本は高校を卒業して漫画家としてやっていけるか不安だったが、手塚から「君たちならやっていけると思う」と言われたことでプロになることを決意したという。当時を想起して、藤本は「夢の様な声をかけてくれた」と語っている\[34\]。その頃の2人のペンネームは「手塚の足元にも及ばない」として「足塚不二雄」であった。その後、藤本と安孫子は憧れの手塚がかつて住んでいた[トキワ荘](https://ja.wikipedia.org/wiki/トキワ荘 "wikilink")の14号室に部屋を借り、漫画を描いた。手塚は2人のためにトキワ荘の敷金を肩代わりし、漫画を描くための机を残した。そのため、トキワ荘時代の作品は手塚が使っていた机で描かれた。この机は現在、安孫子の実家に保管されている。手塚が肩代わりした敷金3万円は、6年掛けて手塚に返済したという。藤本の初期の絵は手塚に酷似した絵であった。
+高校卒業時には一旦就職することに決めるが、漫画家への夢を諦めきれず、春休みを利用して手塚治虫に会いに行ったこともある。藤本は高校を卒業して漫画家としてやっていけるか不安だったが、手塚から「君たちならやっていけると思う」と言われたことでプロになることを決意したという。当時を想起して、藤本は「夢の様な声をかけてくれた」と語っている\[34\]。その頃の2人のペンネームは「手塚の足元にも及ばない」として「足塚不二雄」であった。その後、藤本と安孫子は憧れの手塚がかつて住んでいた[トキワ荘](../Page/トキワ荘.md "wikilink")の14号室に部屋を借り、漫画を描いた。手塚は2人のためにトキワ荘の敷金を肩代わりし、漫画を描くための机を残した。そのため、トキワ荘時代の作品は手塚が使っていた机で描かれた。この机は現在、安孫子の実家に保管されている。手塚が肩代わりした敷金3万円は、6年掛けて手塚に返済したという。藤本の初期の絵は手塚に酷似した絵であった。
 
 その後も藤本は漫画の描き方の本や自伝などで頻繁に手塚作品への特別な思いを述べており、「いつか手塚先生のような壮大な作風にも挑戦してみたい気持ちもある」とも語っていた。
 
 手塚を信奉するあまり、『コロコロ』初代編集長の千葉和治が手塚への批判を漏らすと、千葉を1週間近く事務所に出入りさせなかったという\[35\]。
 
-[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）に手塚が死去した際、藤本は「『[新宝島](https://ja.wikipedia.org/wiki/新宝島 "wikilink")』が世に出た1947年をもって元号は手塚元年にしたいと思っているほどです。」とまで称えた\[36\]。
+[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）に手塚が死去した際、藤本は「『[新宝島](../Page/新宝島.md "wikilink")』が世に出た1947年をもって元号は手塚元年にしたいと思っているほどです。」とまで称えた\[36\]。
 
 ## 長年にわたるスランプ
 
-藤本は、当初こそ『[オバケのQ太郎](https://ja.wikipedia.org/wiki/オバケのQ太郎 "wikilink")』（[1964年](../Page/1964年.md "wikilink")）、『[パーマン](https://ja.wikipedia.org/wiki/パーマン "wikilink")』（[1966年](../Page/1966年.md "wikilink")）等のヒット作に恵まれたが、それ以降の『[21エモン](../Page/21エモン.md "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）、『[ウメ星デンカ](https://ja.wikipedia.org/wiki/ウメ星デンカ "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）、『[モジャ公](https://ja.wikipedia.org/wiki/モジャ公 "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）といった作品はあまりヒットせず、いずれも短命に終わった。藤子スタジオも、[えびはら武司](https://ja.wikipedia.org/wiki/えびはら武司 "wikilink")などの一部のアシスタントを除いて、『[怪物くん](https://ja.wikipedia.org/wiki/怪物くん "wikilink")』（[1965年](../Page/1965年.md "wikilink")）、『[黒ィせぇるすまん](https://ja.wikipedia.org/wiki/笑ゥせぇるすまん "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）、『[魔太郎がくる\!\!](https://ja.wikipedia.org/wiki/魔太郎がくる!! "wikilink")』（[1972年](../Page/1972年.md "wikilink")）といったヒット作に当時恵まれていた安孫子の方を中心に手伝うようになった。藤本はスランプに陥り、「[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")」の編集長に「サンデー作家陣から外してほしい。」という手紙を送りつけるようになる。
+藤本は、当初こそ『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』（[1964年](../Page/1964年.md "wikilink")）、『[パーマン](../Page/パーマン.md "wikilink")』（[1966年](../Page/1966年.md "wikilink")）等のヒット作に恵まれたが、それ以降の『[21エモン](../Page/21エモン.md "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）、『[ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）、『[モジャ公](../Page/モジャ公.md "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）といった作品はあまりヒットせず、いずれも短命に終わった。藤子スタジオも、[えびはら武司](../Page/えびはら武司.md "wikilink")などの一部のアシスタントを除いて、『[怪物くん](../Page/怪物くん.md "wikilink")』（[1965年](../Page/1965年.md "wikilink")）、『[黒ィせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）、『[魔太郎がくる\!\!](../Page/魔太郎がくる!!.md "wikilink")』（[1972年](../Page/1972年.md "wikilink")）といったヒット作に当時恵まれていた安孫子の方を中心に手伝うようになった。藤本はスランプに陥り、「[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")」の編集長に「サンデー作家陣から外してほしい。」という手紙を送りつけるようになる。
 
-その後、藤本に青年誌である『[ビッグコミック](https://ja.wikipedia.org/wiki/ビッグコミック "wikilink")』から執筆依頼が来た。藤本は自分の児童向け作調に合っていないという判断で最初は断っていたが、編集者の熱心な要望により渋々引き受けることにした。そこで描かれたのが短編の『[ミノタウロスの皿](https://ja.wikipedia.org/wiki/ミノタウロスの皿 "wikilink")』である。この作品は編集部でも好評であり、「自分にもこんなものが書けるのかという、新しいオモチャを手に入れたような喜びがありました。」と語っている。
+その後、藤本に青年誌である『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』から執筆依頼が来た。藤本は自分の児童向け作調に合っていないという判断で最初は断っていたが、編集者の熱心な要望により渋々引き受けることにした。そこで描かれたのが短編の『[ミノタウロスの皿](../Page/ミノタウロスの皿.md "wikilink")』である。この作品は編集部でも好評であり、「自分にもこんなものが書けるのかという、新しいオモチャを手に入れたような喜びがありました。」と語っている。
 
-そして間もなく、学年誌にて『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）を執筆し始めるが、人気は今ひとつであった。藤本は不満げに「もう少し人気が出てもいいのに…。」とぼやいていた\[37\]。4年後、[アニメ化されるも](https://ja.wikipedia.org/wiki/ドラえもん_\(1973年のテレビアニメ\) "wikilink")、すぐに終了。それに伴い、編集部やスタジオ側も、漫画のドラえもんの連載終了の雰囲気であった。しかし、その翌年、単行本が全6巻発売され、話題となり、続刊。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には1500万部をも売り上げるようになり、日本のみならず海外でも話題となるようになる。そして[1979年](../Page/1979年.md "wikilink")に[再びアニメ化](https://ja.wikipedia.org/wiki/ドラえもん_\(1979年のテレビアニメ\) "wikilink")。[大幅なリニューアルが行われながらも現在まで続く長寿アニメとなる](https://ja.wikipedia.org/wiki/ドラえもん_\(2005年のテレビアニメ\) "wikilink")。翌[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")には劇場映画第1作『[のび太の恐竜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の恐竜 "wikilink")』が公開され、配給収入15億5000万円\[38\]、観客動員数累計1億人を突破する大ヒットとなる。これらの成功により人気は決定的なものとなり、『ドラえもん』は藤本のみならず、日本を代表する国民的作品となった。
+そして間もなく、学年誌にて『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）を執筆し始めるが、人気は今ひとつであった。藤本は不満げに「もう少し人気が出てもいいのに…。」とぼやいていた\[37\]。4年後、[アニメ化されるも](../Page/ドラえもん_\(1973年のテレビアニメ\).md "wikilink")、すぐに終了。それに伴い、編集部やスタジオ側も、漫画のドラえもんの連載終了の雰囲気であった。しかし、その翌年、単行本が全6巻発売され、話題となり、続刊。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には1500万部をも売り上げるようになり、日本のみならず海外でも話題となるようになる。そして[1979年](../Page/1979年.md "wikilink")に[再びアニメ化](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")。[大幅なリニューアルが行われながらも現在まで続く長寿アニメとなる](https://ja.wikipedia.org/wiki/ドラえもん_\(2005年のテレビアニメ\) "wikilink")。翌[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")には劇場映画第1作『[のび太の恐竜](../Page/ドラえもん_のび太の恐竜.md "wikilink")』が公開され、配給収入15億5000万円\[38\]、観客動員数累計1億人を突破する大ヒットとなる。これらの成功により人気は決定的なものとなり、『ドラえもん』は藤本のみならず、日本を代表する国民的作品となった。
 
 ## 死去
 
-1996年（平成8年）[9月20日](https://ja.wikipedia.org/wiki/9月20日 "wikilink")、家族が夕飯の準備を告げるといつものように仕事部屋から返事があった。だがいつまで経っても食卓にやって来なかったので娘が仕事場へ呼びに行ったところ、机に向かったまま意識を失っているところを発見した。『[ドラえもん のび太のねじ巻き都市冒険記](https://ja.wikipedia.org/wiki/ドラえもん_のび太のねじ巻き都市冒険記 "wikilink")』の62頁目を描いている途中で、発見されたときは鉛筆を握ったままだったという。そのまま病院に搬送されたが、意識が回復することなく3日後の[9月23日](../Page/9月23日.md "wikilink")午前2時10分に[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")の[慶應義塾大学病院](https://ja.wikipedia.org/wiki/慶應義塾大学病院 "wikilink")で[肝不全](https://ja.wikipedia.org/wiki/肝不全 "wikilink")のためその生涯を閉じた、\[39\]。
+1996年（平成8年）[9月20日](../Page/9月20日.md "wikilink")、家族が夕飯の準備を告げるといつものように仕事部屋から返事があった。だがいつまで経っても食卓にやって来なかったので娘が仕事場へ呼びに行ったところ、机に向かったまま意識を失っているところを発見した。『[ドラえもん のび太のねじ巻き都市冒険記](../Page/ドラえもん_のび太のねじ巻き都市冒険記.md "wikilink")』の62頁目を描いている途中で、発見されたときは鉛筆を握ったままだったという。そのまま病院に搬送されたが、意識が回復することなく3日後の[9月23日](../Page/9月23日.md "wikilink")午前2時10分に[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")の[慶應義塾大学病院](../Page/慶應義塾大学病院.md "wikilink")で[肝不全](https://ja.wikipedia.org/wiki/肝不全 "wikilink")のためその生涯を閉じた、\[39\]。
 
-自身も以前から先が長くないことを自覚していたようで、『ドラえもん のび太のねじ巻き都市冒険記』の大筋を執筆前に[芝山努](https://ja.wikipedia.org/wiki/芝山努 "wikilink")に教えていたり、死後の自身の作品の行方や、[藤子プロの活動などに対して心配を寄せている内容を書いた手紙を残していた](https://ja.wikipedia.org/wiki/藤子・F・不二雄プロ "wikilink")。
+自身も以前から先が長くないことを自覚していたようで、『ドラえもん のび太のねじ巻き都市冒険記』の大筋を執筆前に[芝山努](../Page/芝山努.md "wikilink")に教えていたり、死後の自身の作品の行方や、[藤子プロの活動などに対して心配を寄せている内容を書いた手紙を残していた](../Page/藤子・F・不二雄プロ.md "wikilink")。
 
 藤子不二雄は仮通夜にて、「気持ちは混乱していまして、正直言って今朝からずっと足ががたがた震えてて、すごく残念でしょうがないんです。彼はたいへんな天才だったと思うんですね、僕なんか彼がいたから漫画家になれたようなものでね。すごくピュアな気持ちの男だったんですね」と語った。また、『[愛…しりそめし頃に…](https://ja.wikipedia.org/wiki/まんが道#愛…しりそめし頃に… "wikilink")』の連載中に亡くなったことを受け、追悼として読切作品「さらば友よ」を執筆した。
 
-[1996年](../Page/1996年.md "wikilink")（平成8年）[9月29日](https://ja.wikipedia.org/wiki/9月29日 "wikilink")に[上野](https://ja.wikipedia.org/wiki/上野 "wikilink")[寛永寺](https://ja.wikipedia.org/wiki/寛永寺 "wikilink")で挙行された葬儀には、多くの人が参列し、出棺の時には「ありがとう弘さん」と大勢の人に見送られた。[大山のぶ代](https://ja.wikipedia.org/wiki/大山のぶ代 "wikilink")は、葬儀のときに、「本当のお葬式の日、ドラえもん、のび太君、しずかちゃん、ジャイアン、スネ夫、ママ、パパみんなで先生を送りたいと思います」と涙をこぼしながら語った\[40\]。その後、遺体は[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")の[町屋斎場](https://ja.wikipedia.org/wiki/町屋斎場 "wikilink")にて荼毘に付された。また、葬儀の日9月29日には、追悼特番として『[ドラえもん のび太の日本誕生](https://ja.wikipedia.org/wiki/ドラえもん_のび太の日本誕生 "wikilink")』がテレビ朝日系列で放送された。
+[1996年](../Page/1996年.md "wikilink")（平成8年）[9月29日](../Page/9月29日.md "wikilink")に[上野](../Page/上野.md "wikilink")[寛永寺](../Page/寛永寺.md "wikilink")で挙行された葬儀には、多くの人が参列し、出棺の時には「ありがとう弘さん」と大勢の人に見送られた。[大山のぶ代](../Page/大山のぶ代.md "wikilink")は、葬儀のときに、「本当のお葬式の日、ドラえもん、のび太君、しずかちゃん、ジャイアン、スネ夫、ママ、パパみんなで先生を送りたいと思います」と涙をこぼしながら語った\[40\]。その後、遺体は[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")の[町屋斎場](https://ja.wikipedia.org/wiki/町屋斎場 "wikilink")にて荼毘に付された。また、葬儀の日9月29日には、追悼特番として『[ドラえもん のび太の日本誕生](../Page/ドラえもん_のび太の日本誕生.md "wikilink")』がテレビ朝日系列で放送された。
 
-なお、訃報に際して、長きに渡って映画ドラえもんシリーズの主題歌を制作していた[武田鉄矢](https://ja.wikipedia.org/wiki/武田鉄矢 "wikilink")は、[1996年](../Page/1996年.md "wikilink")（平成8年）公開『[のび太と銀河超特急](https://ja.wikipedia.org/wiki/ドラえもん_のび太と銀河超特急 "wikilink")』を最後に主題歌制作から外れた\[41\]。
+なお、訃報に際して、長きに渡って映画ドラえもんシリーズの主題歌を制作していた[武田鉄矢](../Page/武田鉄矢.md "wikilink")は、[1996年](../Page/1996年.md "wikilink")（平成8年）公開『[のび太と銀河超特急](../Page/ドラえもん_のび太と銀河超特急.md "wikilink")』を最後に主題歌制作から外れた\[41\]。
 
 ## 作品
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:F-Train_of_OER-3493.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Kawasakicitybus-w-1877.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Doraemon-no-akichi.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Kawasakicitybus-w-1878.jpg "wikilink")
 
-小学館の児童向け学習雑誌や『コロコロコミック』で児童向け漫画を描く一方、『[ビッグコミック](https://ja.wikipedia.org/wiki/ビッグコミック "wikilink")』などで大人向けのSF短篇漫画も多く描いた。
+小学館の児童向け学習雑誌や『コロコロコミック』で児童向け漫画を描く一方、『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』などで大人向けのSF短篇漫画も多く描いた。
 
 藤子・F・不二雄の提唱する「SF」とは本来の「[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")」ではなく、「すこし・不思議」という意味で、日常の中に非日常が飛び込んでくる内容の作品が多い。その一方でSF短編集に収録されている作品には、ハードなサイエンス・フィクションの流れを汲む作品も多く、バラエティに富む。
 
@@ -168,7 +168,7 @@
   - 時の記念日（1950年、漫画少年） ※藤本弘名義。
   - ダンゴ仙人とたなばた（1950年、漫画少年、4コマ） ※藤本弘名義。
   - はかられたか\!（1950年、漫画少年） ※藤本弘名義。
-  - こんな子供に誰がした（1950年、[北日本新聞](https://ja.wikipedia.org/wiki/北日本新聞 "wikilink")、4コマ） ※藤本弘名義。
+  - こんな子供に誰がした（1950年、[北日本新聞](../Page/北日本新聞.md "wikilink")、4コマ） ※藤本弘名義。
   - ああ無情（1950年、北日本新聞、4コマ） ※藤本弘名義。
   - 花咲爺さんの嘆き（1950年、北日本新聞、4コマ） ※藤本弘名義。
   - 幼児の心理（1950年、北日本新聞、4コマ） ※藤本弘名義。
@@ -190,45 +190,45 @@
   - [天使の玉ちゃん](https://ja.wikipedia.org/wiki/天使の玉ちゃん "wikilink")（[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") - [1952年](../Page/1952年.md "wikilink")）
   - [てぶくろてっちゃん](https://ja.wikipedia.org/wiki/てぶくろてっちゃん "wikilink")（[1960年](../Page/1960年.md "wikilink") - [1963年](../Page/1963年.md "wikilink")、[1966年](../Page/1966年.md "wikilink")）
   - [すすめロボケット](https://ja.wikipedia.org/wiki/すすめロボケット "wikilink")（[1962年](../Page/1962年.md "wikilink") - [1965年](../Page/1965年.md "wikilink")）
-  - [オバケのQ太郎](https://ja.wikipedia.org/wiki/オバケのQ太郎 "wikilink")([1964年](../Page/1964年.md "wikilink") - [1967年](../Page/1967年.md "wikilink"))
-  - 新[オバケのQ太郎](https://ja.wikipedia.org/wiki/オバケのQ太郎 "wikilink")（1971年 - [1974年](../Page/1974年.md "wikilink")）
-  - [パーマン](https://ja.wikipedia.org/wiki/パーマン "wikilink")（[1966年](../Page/1966年.md "wikilink") - 1968年、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - [オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")([1964年](../Page/1964年.md "wikilink") - [1967年](../Page/1967年.md "wikilink"))
+  - 新[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")（1971年 - [1974年](../Page/1974年.md "wikilink")）
+  - [パーマン](../Page/パーマン.md "wikilink")（[1966年](../Page/1966年.md "wikilink") - 1968年、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
   - チンタラ神ちゃん ([1967年](../Page/1967年.md "wikilink"))
   - [21エモン](../Page/21エモン.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
-  - [ウメ星デンカ](https://ja.wikipedia.org/wiki/ウメ星デンカ "wikilink")（1968年）
+  - [ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")（1968年）
   - ベラボー (1968年 - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"))
-  - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）
-  - [ポコニャン](https://ja.wikipedia.org/wiki/ポコニャン "wikilink")（1970年 - 1974年、[1975年](../Page/1975年.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
+  - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1991年](../Page/1991年.md "wikilink")）
+  - [ポコニャン](../Page/ポコニャン.md "wikilink")（1970年 - 1974年、[1975年](../Page/1975年.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
   - [ドビンソン漂流記](https://ja.wikipedia.org/wiki/ドビンソン漂流記 "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - [1972年](../Page/1972年.md "wikilink")）
   - [仙べえ](https://ja.wikipedia.org/wiki/仙べえ "wikilink") (1971年 - 1972年)
-  - [ジャングル黒べえ](https://ja.wikipedia.org/wiki/ジャングル黒べえ "wikilink")（[1973年](../Page/1973年.md "wikilink")）
+  - [ジャングル黒べえ](../Page/ジャングル黒べえ.md "wikilink")（[1973年](../Page/1973年.md "wikilink")）
   - [パジャママン](https://ja.wikipedia.org/wiki/パジャママン "wikilink")（1973年 - [1974年](../Page/1974年.md "wikilink")）
-  - [キテレツ大百科](https://ja.wikipedia.org/wiki/キテレツ大百科 "wikilink")（1974年 - [1977年](../Page/1977年.md "wikilink")）
-  - [ぞうくんとりすちゃん](https://ja.wikipedia.org/wiki/ぞうくんとりすちゃん "wikilink")（[絵本](https://ja.wikipedia.org/wiki/絵本 "wikilink")作品・1974年）
-  - [みきおとミキオ](https://ja.wikipedia.org/wiki/みきおとミキオ "wikilink")（1974年 - [1975年](../Page/1975年.md "wikilink")）
+  - [キテレツ大百科](../Page/キテレツ大百科.md "wikilink")（1974年 - [1977年](../Page/1977年.md "wikilink")）
+  - [ぞうくんとりすちゃん](https://ja.wikipedia.org/wiki/ぞうくんとりすちゃん "wikilink")（[絵本](../Page/絵本.md "wikilink")作品・1974年）
+  - [みきおとミキオ](../Page/みきおとミキオ.md "wikilink")（1974年 - [1975年](../Page/1975年.md "wikilink")）
   - [モッコロくん](https://ja.wikipedia.org/wiki/モッコロくん "wikilink")（1974年 - 1975年）
-  - [バケルくん](https://ja.wikipedia.org/wiki/バケルくん "wikilink") （1974年 - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")、[1984年](../Page/1984年.md "wikilink")）
-  - [4じげんぼうPポコ](https://ja.wikipedia.org/wiki/4じげんぼうPポコ "wikilink")（[1975年](../Page/1975年.md "wikilink") - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")）
-  - [Uボー](https://ja.wikipedia.org/wiki/Uボー "wikilink")（[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") - [1979年](../Page/1979年.md "wikilink")）
+  - [バケルくん](../Page/バケルくん.md "wikilink") （1974年 - [1976年](../Page/1976年.md "wikilink")、[1984年](../Page/1984年.md "wikilink")）
+  - [4じげんぼうPポコ](https://ja.wikipedia.org/wiki/4じげんぼうPポコ "wikilink")（[1975年](../Page/1975年.md "wikilink") - [1976年](../Page/1976年.md "wikilink")）
+  - [Uボー](https://ja.wikipedia.org/wiki/Uボー "wikilink")（[1976年](../Page/1976年.md "wikilink") - [1979年](../Page/1979年.md "wikilink")）
   - [バウバウ大臣](https://ja.wikipedia.org/wiki/バウバウ大臣 "wikilink")（1976年）
   - [きゃぷてんボン](https://ja.wikipedia.org/wiki/きゃぷてんボン "wikilink")（1976年）
-  - [エスパー魔美](https://ja.wikipedia.org/wiki/エスパー魔美 "wikilink")（1977年 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
+  - [エスパー魔美](../Page/エスパー魔美.md "wikilink")（1977年 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
   - [宙ポコ](https://ja.wikipedia.org/wiki/宙ポコ "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）
   - [宙犬トッピ](https://ja.wikipedia.org/wiki/宙犬トッピ "wikilink")（[1984年](../Page/1984年.md "wikilink")）
-  - [チンプイ](https://ja.wikipedia.org/wiki/チンプイ "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）
+  - [チンプイ](../Page/チンプイ.md "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1991年](../Page/1991年.md "wikilink")）
 
 ### 劇画、SF
 
   - 四万年漂流（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）
-  - [UTOPIA 最後の世界大戦](https://ja.wikipedia.org/wiki/UTOPIA_最後の世界大戦 "wikilink")（1953年）
-  - [海の王子](https://ja.wikipedia.org/wiki/海の王子 "wikilink") ([1959年](../Page/1959年.md "wikilink") - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink"))
-  - [モジャ公](https://ja.wikipedia.org/wiki/モジャ公 "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
+  - [UTOPIA 最後の世界大戦](../Page/UTOPIA_最後の世界大戦.md "wikilink")（1953年）
+  - [海の王子](../Page/海の王子.md "wikilink") ([1959年](../Page/1959年.md "wikilink") - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink"))
+  - [モジャ公](../Page/モジャ公.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
   - [劇画・オバQ](https://ja.wikipedia.org/wiki/オバケのQ太郎#劇画・オバQ "wikilink")（[1973年](../Page/1973年.md "wikilink")）
-  - [中年スーパーマン左江内氏](https://ja.wikipedia.org/wiki/中年スーパーマン左江内氏 "wikilink")（1977年 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
-  - [T・Pぼん](https://ja.wikipedia.org/wiki/T・Pぼん "wikilink")（タイムパトロールぼん）（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - 1979年、1980年 - 1983年、1984年 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
-  - [ミラ・クル・1](https://ja.wikipedia.org/wiki/ミラ・クル・1 "wikilink")（[1979年](../Page/1979年.md "wikilink")）
-  - [大長編ドラえもん](https://ja.wikipedia.org/wiki/大長編ドラえもん "wikilink")([1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [1996年](../Page/1996年.md "wikilink"))
-  - [未来の想い出](https://ja.wikipedia.org/wiki/未来の想い出 "wikilink")（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）
+  - [中年スーパーマン左江内氏](../Page/中年スーパーマン左江内氏.md "wikilink")（1977年 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
+  - [T・Pぼん](../Page/T・Pぼん.md "wikilink")（タイムパトロールぼん）（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - 1979年、1980年 - 1983年、1984年 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - [ミラ・クル・1](../Page/ミラ・クル・1.md "wikilink")（[1979年](../Page/1979年.md "wikilink")）
+  - [大長編ドラえもん](../Page/大長編ドラえもん.md "wikilink")([1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [1996年](../Page/1996年.md "wikilink"))
+  - [未来の想い出](../Page/未来の想い出.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）
 
 など多数
 
@@ -240,40 +240,40 @@
 
 #### 映像化作品への提供
 
-  - 『[オバケのQ太郎](https://ja.wikipedia.org/wiki/オバケのQ太郎 "wikilink")(1966)』\[42\]
+  - 『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")(1966)』\[42\]
       - オバQ音頭（作曲：[広瀬健次郎](https://ja.wikipedia.org/wiki/広瀬健次郎 "wikilink")）
       - オバQマーチ（作曲：広瀬健次郎）
       - オバケのP子（作曲：広瀬健次郎）
-  - 『[パーマン](https://ja.wikipedia.org/wiki/パーマン "wikilink")(1967)』
+  - 『[パーマン](../Page/パーマン.md "wikilink")(1967)』
       - ぼくらのパーマン（作曲：[越部信義](../Page/越部信義.md "wikilink")）
       - すてきなパー子（作曲：越部信義）
       - パーマン2号はウキャキャのキャ（作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")）
-  - 『[ウメ星デンカ](https://ja.wikipedia.org/wiki/ウメ星デンカ "wikilink")(1969)』
-      - ウメ星デンカがこんにちは（作曲：[鈴木邦彦](https://ja.wikipedia.org/wiki/鈴木邦彦 "wikilink")）
+  - 『[ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")(1969)』
+      - ウメ星デンカがこんにちは（作曲：[鈴木邦彦](../Page/鈴木邦彦.md "wikilink")）
       - ウメ星マーチ（作曲：鈴木邦彦）
       - ウメ星デンカの子守歌（作曲：鈴木邦彦）
       - ウメ星国家（作曲：鈴木邦彦）
-  - 『[ジャングル黒べえ](https://ja.wikipedia.org/wiki/ジャングル黒べえ "wikilink")(1973)』
-      - ジャングル黒べえの歌（作曲：[三沢郷](https://ja.wikipedia.org/wiki/三沢郷 "wikilink")）
+  - 『[ジャングル黒べえ](../Page/ジャングル黒べえ.md "wikilink")(1973)』
+      - ジャングル黒べえの歌（作曲：[三沢郷](../Page/三沢郷.md "wikilink")）
       - ウラウラ・タムタムベッカンコ？（作曲：三沢郷）
-  - 『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん_\(1973年のテレビアニメ\) "wikilink")(1973)』
+  - 『[ドラえもん](../Page/ドラえもん_\(1973年のテレビアニメ\).md "wikilink")(1973)』
       - ドラえもん（作曲：越部信義）
       - ドラえもん いん できしいらんど（作曲：越部信義）
-  - 『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん_\(1979年のテレビアニメ\) "wikilink")(1979)』
-      - [ぼくドラえもん](https://ja.wikipedia.org/wiki/ぼくドラえもん "wikilink")（作曲：[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")）
+  - 『[ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")(1979)』
+      - [ぼくドラえもん](../Page/ぼくドラえもん.md "wikilink")（作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink")）
       - ドラえもん音頭（作曲：菊池俊輔）
       - ドラえもん子守歌（作曲：菊池俊輔）
       - ぼくドラえもん2112（作曲：菊池俊輔）
   - 『[21エモン 宇宙へいらっしゃい！](../Page/21エモン.md "wikilink")(1981)』
       - 宇宙へいらっしゃい！（作曲：菊池俊輔）
   - 『パーマン(1983)』
-      - きてよパーマン（作曲：[古田喜昭](https://ja.wikipedia.org/wiki/古田喜昭 "wikilink")）
+      - きてよパーマン（作曲：[古田喜昭](../Page/古田喜昭.md "wikilink")）
       - パーマン音頭（作曲：古田喜昭）
   - 『オバケのQ太郎(1985)』
       - ぼくはオバQノンキなオバケ（作曲：菊池俊輔）
-  - 『[ポストの中の明日](https://ja.wikipedia.org/wiki/ポストの中の明日 "wikilink")(1990)』
+  - 『[ポストの中の明日](../Page/ポストの中の明日.md "wikilink")(1990)』
       - 明日が見えたら（作曲：菊池俊輔）
-  - 『[ポコニャン](https://ja.wikipedia.org/wiki/ポコニャン "wikilink")！(1994)』
+  - 『[ポコニャン](../Page/ポコニャン.md "wikilink")！(1994)』
       - ポコニャラ音頭（作曲：[宮原恵太](https://ja.wikipedia.org/wiki/宮原恵太 "wikilink")）
 
 #### その他
@@ -282,10 +282,10 @@
 
 ### 関連書籍
 
-  - [鉄腕アトム第](https://ja.wikipedia.org/wiki/鉄腕アトム_\(アニメ第1作\) "wikilink")34話「ミドロヶ沼の巻」 - 原画マンとして。
+  - [鉄腕アトム第](../Page/鉄腕アトム_\(アニメ第1作\).md "wikilink")34話「ミドロヶ沼の巻」 - 原画マンとして。
   - 藤子・F・不二雄の異説クラブ
   - 「藤子・F・不二雄の発想術」2014年、小学館新書
-  - 藤子・F・不二雄ファンブック F-Trip（2016年9月3日、[小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")）
+  - 藤子・F・不二雄ファンブック F-Trip（2016年9月3日、[小学館](../Page/小学館.md "wikilink")）
 
 ## 出演
 
@@ -295,7 +295,7 @@
 
   - 空想科学任侠伝 極道忍者ドス竜（1990年） - [永井豪](../Page/永井豪.md "wikilink")第1回監督作品
   - [未来の想い出 Last Christmas](https://ja.wikipedia.org/wiki/未来の想い出#映画 "wikilink")（1992年） - 占い師 役
-  - [2112年 ドラえもん誕生](https://ja.wikipedia.org/wiki/2112年_ドラえもん誕生 "wikilink")（1995年、ナレーション）
+  - [2112年 ドラえもん誕生](../Page/2112年_ドラえもん誕生.md "wikilink")（1995年、ナレーション）
 
 <!-- end list -->
 
@@ -303,16 +303,16 @@
 
 <!-- end list -->
 
-  - [春休みマンガ祭り](https://ja.wikipedia.org/wiki/春休み・夏休みマンガ祭り "wikilink")（1981年3月11日、1984年3月14日） - 『[水曜スペシャル](https://ja.wikipedia.org/wiki/水曜スペシャル "wikilink")』で放送。
+  - [春休みマンガ祭り](https://ja.wikipedia.org/wiki/春休み・夏休みマンガ祭り "wikilink")（1981年3月11日、1984年3月14日） - 『[水曜スペシャル](../Page/水曜スペシャル.md "wikilink")』で放送。
   - [輝け\! オールスター春の番組対抗ボウリング大会](https://ja.wikipedia.org/wiki/オールスター番組対抗ボウリング大会 "wikilink")（1982年3月24日） - 『水曜スペシャル』で放送。初めてアニメチームが出場するにあたり、藤子不二雄Aと共にアニメチームに参加した。
   - [ドラえもん・ヨーロッパ鉄道の旅](https://ja.wikipedia.org/wiki/ドラえもん・ヨーロッパ鉄道の旅 "wikilink") （1983年10月18日）
-  - [ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ "wikilink") （1993年5月24〜28日） - 番組内コーナー「おしえて\!えらいひと」にて登場。
+  - [ウゴウゴルーガ](../Page/ウゴウゴルーガ.md "wikilink") （1993年5月24〜28日） - 番組内コーナー「おしえて\!えらいひと」にて登場。
   - ドラえもん 放送14周年特番（1993年9月9日） - 藤子・F・不二雄がアニメのキャラクターと話をするという珍しいシチュエーションがとられた。
-  - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")(1994年11月 7日) -藤子・F・不二雄についての[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")。[2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")[1月3日](https://ja.wikipedia.org/wiki/1月3日 "wikilink")には一部だけ[ダイジェスト](https://ja.wikipedia.org/wiki/ダイジェスト "wikilink")版が流された。
+  - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")(1994年11月 7日) -藤子・F・不二雄についての[インタビュー](../Page/インタビュー.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")には一部だけ[ダイジェスト](https://ja.wikipedia.org/wiki/ダイジェスト "wikilink")版が流された。
 
 ## 参考文献
 
-  - 藤子不二雄（藤子不二雄Ⓐ、藤子・F・不二雄）『二人で少年漫画ばかり描いてきた 戦後児童漫画私史』 [毎日新聞社](https://ja.wikipedia.org/wiki/毎日新聞社 "wikilink")、1977年/[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink")、1980年、各・絶版。復刻版・[日本図書センター](https://ja.wikipedia.org/wiki/日本図書センター "wikilink")、2010年1月、ISBN 978-4284700412
+  - 藤子不二雄（藤子不二雄Ⓐ、藤子・F・不二雄）『二人で少年漫画ばかり描いてきた 戦後児童漫画私史』 [毎日新聞社](../Page/毎日新聞社.md "wikilink")、1977年/[文春文庫](../Page/文春文庫.md "wikilink")、1980年、各・絶版。復刻版・[日本図書センター](../Page/日本図書センター.md "wikilink")、2010年1月、ISBN 978-4284700412
   - 藤子プロ監修、[さいとうはるお](https://ja.wikipedia.org/wiki/さいとうはるお "wikilink")絵\[43\]、[黒沢哲哉](https://ja.wikipedia.org/wiki/黒沢哲哉 "wikilink")シナリオ 『学習まんが人物館　藤子・F・不二雄』 小学館、1997年10月、ISBN 4-09-270111-X
 
 <!-- end list -->
@@ -324,7 +324,7 @@
 
 <!-- end list -->
 
-  - 『藤子・F・不二雄　「ドラえもん」はこうして生まれた　ちくま評伝シリーズ〈ポルトレ〉』 同編集部、[筑摩書房](https://ja.wikipedia.org/wiki/筑摩書房 "wikilink")、2014年8月、ISBN 978-4480766151。青春時代の評伝
+  - 『藤子・F・不二雄　「ドラえもん」はこうして生まれた　ちくま評伝シリーズ〈ポルトレ〉』 同編集部、[筑摩書房](../Page/筑摩書房.md "wikilink")、2014年8月、ISBN 978-4480766151。青春時代の評伝
 
 ## 脚注
 
@@ -333,13 +333,13 @@
   - [藤子不二雄](../Page/藤子不二雄.md "wikilink")
   - [藤子不二雄{{Unicode](../Page/藤子不二雄A.md "wikilink")
   - [藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")
-  - [まんが道](https://ja.wikipedia.org/wiki/まんが道 "wikilink")
-  - [スタジオ・ゼロ](https://ja.wikipedia.org/wiki/スタジオ・ゼロ "wikilink")
-  - [トキワ荘](https://ja.wikipedia.org/wiki/トキワ荘 "wikilink")
-  - [藤子・F・不二雄プロ](https://ja.wikipedia.org/wiki/藤子・F・不二雄プロ "wikilink")（藤子プロ）
-  - [シンエイ動画](https://ja.wikipedia.org/wiki/シンエイ動画 "wikilink")
-  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")
-  - [小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")
+  - [まんが道](../Page/まんが道.md "wikilink")
+  - [スタジオ・ゼロ](../Page/スタジオ・ゼロ.md "wikilink")
+  - [トキワ荘](../Page/トキワ荘.md "wikilink")
+  - [藤子・F・不二雄プロ](../Page/藤子・F・不二雄プロ.md "wikilink")（藤子プロ）
+  - [シンエイ動画](../Page/シンエイ動画.md "wikilink")
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")
+  - [小学館](../Page/小学館.md "wikilink")
   - [ウイング・ウイング高岡](https://ja.wikipedia.org/wiki/ウイング・ウイング高岡 "wikilink")
 
 ## 外部リンク
@@ -357,30 +357,30 @@
 4.  [番組エピソード　銀河テレビ小説「まんが道」 -NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=drama005)
 5.  在職中、電気科卒としての仕事は切れた電球をひとつ取り換えたことだけだったという。
 6.  ちくま評伝シリーズ〈ポルトレ〉藤子F不二雄46頁
-7.  藤子不二雄の名義はてんとう虫コミックス版の『ドラえもん』第39巻（[1989年](../Page/1989年.md "wikilink")[1月25日](https://ja.wikipedia.org/wiki/1月25日 "wikilink")、初版発行）初版などにて使用されている
+7.  藤子不二雄の名義はてんとう虫コミックス版の『ドラえもん』第39巻（[1989年](../Page/1989年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、初版発行）初版などにて使用されている
 8.  呉智英『現代マンガの全体像』双葉社 P241
 9.  [川崎市役所　「藤子F不二雄ミュージアム　これまでのあゆみ」](http://www.city.kawasaki.jp/250/page/0000016452.html)
 10.
 11.
-12. 第二次大戦の終結当時に小学6年生だった世代には、藤本弘と安孫子素雄の外に、[大山のぶ代](https://ja.wikipedia.org/wiki/大山のぶ代 "wikilink")、[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")、[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")、[大橋巨泉](https://ja.wikipedia.org/wiki/大橋巨泉 "wikilink")などがおり、厭戦的な価値観を持っている人物が少なくない。
-13. 作品としてはドラえもんでのスネ夫の[戦艦「大和」乗っ取りから潜水艦攻撃までのシーン](https://ja.wikipedia.org/wiki/大和_\(戦艦\) "wikilink")、大長編『[のび太の宇宙小戦争](https://ja.wikipedia.org/wiki/ドラえもん_のび太の宇宙小戦争 "wikilink")』など。
+12. 第二次大戦の終結当時に小学6年生だった世代には、藤本弘と安孫子素雄の外に、[大山のぶ代](../Page/大山のぶ代.md "wikilink")、[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")、[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")、[大橋巨泉](../Page/大橋巨泉.md "wikilink")などがおり、厭戦的な価値観を持っている人物が少なくない。
+13. 作品としてはドラえもんでのスネ夫の[戦艦「大和」乗っ取りから潜水艦攻撃までのシーン](../Page/大和_\(戦艦\).md "wikilink")、大長編『[のび太の宇宙小戦争](../Page/ドラえもん_のび太の宇宙小戦争.md "wikilink")』など。
 14. 楠部三吉郎『「ドラえもん」への感謝状』小学館、2014年、pp.87 - 88
-15. 『「ドラえもん」への感謝状』pp.103 - 108。実際に映画の監督は次の『[ドラえもん のび太の海底鬼岩城](https://ja.wikipedia.org/wiki/ドラえもん_のび太の海底鬼岩城 "wikilink")』から交代した。
-16. [大山のぶ代](https://ja.wikipedia.org/wiki/大山のぶ代 "wikilink")『ぼく、ドラえもんでした。』大山は「封切り同時に多くの子供が駆け付け満員になったのを見て藤本が安心した」としているが、楠部三吉郎は封切り直後の午前中の回、舞台挨拶をおこなった日比谷の宝塚劇場は半分埋まるかどうかの「スカスカ」だったため、直後の新聞記者対応に藤本を出さなかったと記している（『「ドラえもん」への感謝状』pp.90 - 91。封切り日は[土曜日](https://ja.wikipedia.org/wiki/土曜日 "wikilink")で当時の小学校は午前授業があり、午後に次の舞台挨拶をした映画館で初めて超満員の観客であふれていることを知ったという）。
+15. 『「ドラえもん」への感謝状』pp.103 - 108。実際に映画の監督は次の『[ドラえもん のび太の海底鬼岩城](../Page/ドラえもん_のび太の海底鬼岩城.md "wikilink")』から交代した。
+16. [大山のぶ代](../Page/大山のぶ代.md "wikilink")『ぼく、ドラえもんでした。』大山は「封切り同時に多くの子供が駆け付け満員になったのを見て藤本が安心した」としているが、楠部三吉郎は封切り直後の午前中の回、舞台挨拶をおこなった日比谷の宝塚劇場は半分埋まるかどうかの「スカスカ」だったため、直後の新聞記者対応に藤本を出さなかったと記している（『「ドラえもん」への感謝状』pp.90 - 91。封切り日は[土曜日](../Page/土曜日.md "wikilink")で当時の小学校は午前授業があり、午後に次の舞台挨拶をした映画館で初めて超満員の観客であふれていることを知ったという）。
 17. 『ドラえ本 ドラえもんグッズ大図鑑2』（1998年、小学館）
 18. 40巻収録「スネ夫は理想のお兄さん」
 19. 『「ドラえもん」からの感謝状』p.241
 20. [藤子・Ｆ・不二雄さんの元アシスタントが明かした、藤本さんの漫画に懸けた思い](https://www.hochi.co.jp/topics/20180702-OHT1T50297.html)スポーツ報知(2018年7月7日)-2018年11月20日閲覧
 21. 『「ドラえもんへの感謝状」』pp.237 - 240
 22. [弟子が語るドラえもんの知られざる"黒歴史"](https://toyokeizai.net/articles/-/262470?page=3)
-23. [むぎわらしんたろう](https://ja.wikipedia.org/wiki/むぎわらしんたろう "wikilink")『[ドラえもん物語〜藤子・F・不二雄先生の背中〜](https://ja.wikipedia.org/wiki/ドラえもん物語〜藤子・F・不二雄先生の背中〜 "wikilink")』p.39（2017年 小学館）
-24. 『[ドラベース ドラえもん超野球外伝](https://ja.wikipedia.org/wiki/ドラベース_ドラえもん超野球外伝 "wikilink")』の巻末おまけ漫画より。
-25. [1950年代](../Page/1950年代.md "wikilink")後半から[1960年代](../Page/1960年代.md "wikilink")前半にかけて、志ん生が枕として使っていた「蛇が血を流してる、ヘービーチーデー (ABCD)」という[だじゃれを](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")『エスパー魔美』の「オロチが夜くる」の中で使ったことなど。
-26. 『[ぼく、ドラえもん](https://ja.wikipedia.org/wiki/ぼく、ドラえもん "wikilink")』6号
+23. [むぎわらしんたろう](../Page/むぎわらしんたろう.md "wikilink")『[ドラえもん物語〜藤子・F・不二雄先生の背中〜](https://ja.wikipedia.org/wiki/ドラえもん物語〜藤子・F・不二雄先生の背中〜 "wikilink")』p.39（2017年 小学館）
+24. 『[ドラベース ドラえもん超野球外伝](../Page/ドラベース_ドラえもん超野球外伝.md "wikilink")』の巻末おまけ漫画より。
+25. [1950年代](../Page/1950年代.md "wikilink")後半から[1960年代](../Page/1960年代.md "wikilink")前半にかけて、志ん生が枕として使っていた「蛇が血を流してる、ヘービーチーデー (ABCD)」という[だじゃれを](../Page/駄洒落.md "wikilink")『エスパー魔美』の「オロチが夜くる」の中で使ったことなど。
+26. 『[ぼく、ドラえもん](../Page/ぼく、ドラえもん.md "wikilink")』6号
 27. 山内ジョージ『トキワ荘最後の住人の記録』p.71（東京書籍、2011年）
 28. 小学館　学習まんが人物館「藤子・F・不二雄」
 29.
-30. テレビ朝日系列『ドラえもん誕生物語 〜藤子・F・不二雄からの手紙〜』[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月19日](../Page/2月19日.md "wikilink")放送
+30. テレビ朝日系列『ドラえもん誕生物語 〜藤子・F・不二雄からの手紙〜』[2006年](../Page/2006年.md "wikilink")（平成18年）[2月19日](../Page/2月19日.md "wikilink")放送
 31.
 32.
 33. DO LIVE 1989年5月号「天才・手塚治虫が遺したもの　藤子・F・不二雄」
@@ -393,5 +393,5 @@
 40. 大山のぶ代著[『ぼく、ドラえもんでした。』](http://www.shogakukan.co.jp/ddesita/)
 41. ただし、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）の『[のび太の人魚大海戦](https://ja.wikipedia.org/wiki/ドラえもん_のび太の人魚大海戦 "wikilink")』のみ例外で、映画30周年を記念して再び武田が挿入歌を制作した。
 42. いずれも藤子不二雄名義
-43. 当初は[方倉陽二](https://ja.wikipedia.org/wiki/方倉陽二 "wikilink")の予定だったが、方倉の急死によりさいとうが代役を務めた。
+43. 当初は[方倉陽二](../Page/方倉陽二.md "wikilink")の予定だったが、方倉の急死によりさいとうが代役を務めた。
 44. 黒沢哲哉　[小学館版 学習まんが人物館シリーズ　こどもの夢をえがき続けた「ドラえもん」の作者　藤子・Ｆ・不二雄](http://www.allnightpress.com/workshop/fujiko.htm)

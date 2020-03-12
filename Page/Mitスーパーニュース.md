@@ -1,7 +1,7 @@
 > この記事は[Mit](https://ja.wikipedia.org/wiki/Mit)から翻訳されています。
 
 
-『**mitスーパーニュース**』（ミット スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*mit Super NEWS*）は、[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")で夕方に放送されていた[岩手県](../Page/岩手県.md "wikilink")向け[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。全国ネット番組『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を交えて放送した。
+『**mitスーパーニュース**』（ミット スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*mit Super NEWS*）は、[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")で夕方に放送されていた[岩手県](../Page/岩手県.md "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。全国ネット番組『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を交えて放送した。
 
 ## 概要
 
@@ -183,22 +183,22 @@
 
   - [落合昭彦](../Page/落合昭彦.md "wikilink")（1998年 - [2003年](../Page/2003年.md "wikilink")、現・[えふえむ花巻](https://ja.wikipedia.org/wiki/えふえむ花巻 "wikilink")放送局長）
   - [石川佳子](https://ja.wikipedia.org/wiki/石川佳子 "wikilink")（1998年 - [2001年](../Page/2001年.md "wikilink")）
-  - [横山義則](https://ja.wikipedia.org/wiki/横山義則 "wikilink")（1998年 - [2000年](../Page/2000年.md "wikilink")、現・[東北放送](../Page/東北放送.md "wikilink")解説委員）
-  - [熊谷麻衣子](https://ja.wikipedia.org/wiki/熊谷麻衣子 "wikilink")（1998年 - 2000年、現・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
+  - [横山義則](../Page/横山義則.md "wikilink")（1998年 - [2000年](../Page/2000年.md "wikilink")、現・[東北放送](../Page/東北放送.md "wikilink")解説委員）
+  - [熊谷麻衣子](../Page/熊谷麻衣子.md "wikilink")（1998年 - 2000年、現・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
   - [常世晶子](../Page/常世晶子.md "wikilink")（お天気担当。現・フリーアナウンサー）
 
 ※以上4名は、前身「mitザ・ヒューマン」からそのまま続投。
 
   - [伊藤里紗](https://ja.wikipedia.org/wiki/伊藤里紗 "wikilink")（土曜・日曜担当）
   - [春山恵理](../Page/春山恵理.md "wikilink")（2005年6月 - 2006年3月。千葉絢子が産休の間代理でキャスターを担当）
-  - [物袋綾子](https://ja.wikipedia.org/wiki/物袋綾子 "wikilink")（2003年 - 2005年。現・[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")アナウンサー）
+  - [物袋綾子](../Page/物袋綾子.md "wikilink")（2003年 - 2005年。現・[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")アナウンサー）
   - [川原弓奈](https://ja.wikipedia.org/wiki/川原弓奈 "wikilink")（2006年。天気予報担当。現・フリーアナウンサー）
-  - [古川興二](https://ja.wikipedia.org/wiki/古川興二 "wikilink")（現・[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")アナウンサー）
+  - [古川興二](../Page/古川興二.md "wikilink")（現・[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")アナウンサー）
   - [佐藤雪江](https://ja.wikipedia.org/wiki/佐藤雪江 "wikilink")（現・フリーアナウンサー）
-  - [千葉絢子](https://ja.wikipedia.org/wiki/千葉絢子 "wikilink")（月～金曜キャスター。2001年9月1日 - 2010年3月25日。2005年6月 - 2006年3月までは産休のため一時降板）
-  - [玉井新平](https://ja.wikipedia.org/wiki/玉井新平 "wikilink")（金曜キャスター。2009年4月 - 2010年3月26日。現・[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")アナウンサー）
-  - [高橋裕二](https://ja.wikipedia.org/wiki/高橋裕二 "wikilink")（月～金曜キャスター。2003年 - 2011年）
-  - [坂口奈央](https://ja.wikipedia.org/wiki/坂口奈央 "wikilink")
+  - [千葉絢子](../Page/千葉絢子.md "wikilink")（月～金曜キャスター。2001年9月1日 - 2010年3月25日。2005年6月 - 2006年3月までは産休のため一時降板）
+  - [玉井新平](../Page/玉井新平.md "wikilink")（金曜キャスター。2009年4月 - 2010年3月26日。現・[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")アナウンサー）
+  - [高橋裕二](../Page/高橋裕二.md "wikilink")（月～金曜キャスター。2003年 - 2011年）
+  - [坂口奈央](../Page/坂口奈央.md "wikilink")
   - [増田優香子](https://ja.wikipedia.org/wiki/増田優香子 "wikilink")
   - [千田剛裕](https://ja.wikipedia.org/wiki/千田剛裕 "wikilink")
   - [野牛あかね](https://ja.wikipedia.org/wiki/野牛あかね "wikilink")（月～金曜キャスター（2013年10月－12月は月～水曜キャスター）。2010年3月末－2013年12月）
@@ -211,7 +211,7 @@
   - 2001年4月2日 - セットをリニューアル。当初は[副調整室](../Page/副調整室.md "wikilink")を背景としたが、しばらくして背景の見えないセットに改装（2004年、背景の造作を作り替え）。
   - 2001年9月1日 - 石川佳子に代わって千葉絢子がキャスターに。
   - 2003年 - 体調を崩し、落合昭彦キャスターが降板（のちにアナウンサーから編成部副部長へ異動）。高橋裕二を新たに起用し、千葉絢子とコンビを組む（双方とも岩手出身）。
-  - 2005年4月1日 - セットを青を基調としたものにリニューアル。退社と同時に降板した天気予報担当の[物袋綾子](https://ja.wikipedia.org/wiki/物袋綾子 "wikilink")に代わり、同時期に入社した川原弓奈が天気予報担当に起用。他、「岩手食王国」、「スーパーリポート」などのコーナーがスタート。
+  - 2005年4月1日 - セットを青を基調としたものにリニューアル。退社と同時に降板した天気予報担当の[物袋綾子](../Page/物袋綾子.md "wikilink")に代わり、同時期に入社した川原弓奈が天気予報担当に起用。他、「岩手食王国」、「スーパーリポート」などのコーナーがスタート。
   - 2005年[6月1日](../Page/6月1日.md "wikilink") - 千葉絢子が産休の為、番組を一時降板。代わりに春山恵理をキャスターに起用。
   - 2006年[3月27日](../Page/3月27日.md "wikilink") - 千葉絢子が産休から復帰。再び千葉・高橋体制に戻る。
   - 2006年[9月25日](../Page/9月25日.md "wikilink") - 番組内で一番長く5年間放送された「きょうのお弁当」のコーナーが終了。

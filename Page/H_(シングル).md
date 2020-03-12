@@ -9,13 +9,13 @@
 
 3曲[A面シングル](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。ジャケット違いの3種類の限定盤、通常盤および、ミリオンヒット記念盤（2002年[11月7日](../Page/11月7日.md "wikilink")発売）が発売された。
 
-2002年[オリコン年間シングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。また、2002年の邦楽唯一の[ミリオン突破シングルであるが](../Page/ミリオンセラー.md "wikilink")、実際は上述の100万枚出荷記念版を含んだ僅差でのミリオン達成となった。
+2002年[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。また、2002年の邦楽唯一の[ミリオン突破シングルであるが](../Page/ミリオンセラー.md "wikilink")、実際は上述の100万枚出荷記念版を含んだ僅差でのミリオン達成となった。
 
-3曲とも[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は制作されておらず、本作のプロモーション映像において「independent」は過去のライブ映像を、「July 1st」と「HANABI」はそれぞれのタイアップ先のCM映像を組み合わせたものが使用された。
+3曲とも[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は制作されておらず、本作のプロモーション映像において「independent」は過去のライブ映像を、「July 1st」と「HANABI」はそれぞれのタイアップ先のCM映像を組み合わせたものが使用された。
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink")
 
 1.  **independent**
       -

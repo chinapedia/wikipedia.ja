@@ -31,7 +31,7 @@
 
 CD2枚組で発売。
 
-本作の収録曲は、後に各曲のフルバージョンや[ダブ](https://ja.wikipedia.org/wiki/ダブ "wikilink")バージョンが『[excerpts from ayu-mi-x III](https://ja.wikipedia.org/wiki/excerpts_from_ayu-mi-x_III "wikilink")』としてリリースされた（ただし、「Duty "Elephant Fish Mix"」のみ、上記作品や他シングルのカップリングとしても独立した形でのリリースはなかった）。
+本作の収録曲は、後に各曲のフルバージョンや[ダブ](../Page/ダブ.md "wikilink")バージョンが『[excerpts from ayu-mi-x III](https://ja.wikipedia.org/wiki/excerpts_from_ayu-mi-x_III "wikilink")』としてリリースされた（ただし、「Duty "Elephant Fish Mix"」のみ、上記作品や他シングルのカップリングとしても独立した形でのリリースはなかった）。
 
 ### 収録曲
 

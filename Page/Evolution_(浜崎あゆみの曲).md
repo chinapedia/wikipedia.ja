@@ -7,11 +7,11 @@
 
 前作「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」からわずか1ヶ月後に発売された。前作同様、浜崎本人がCREA名義で作曲を担当しており、この年のシングル曲は全て浜崎が作曲した。
 
-2001年[6月13日](../Page/6月13日.md "wikilink")には[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")等を収めた同名の[DVDシングルが発売された](../Page/DVD-Video.md "wikilink")。2001年[8月12日](../Page/8月12日.md "wikilink")には[アメリカでアナログ盤がavex](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") usaより発売された\[2\]。
+2001年[6月13日](../Page/6月13日.md "wikilink")には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")等を収めた同名の[DVDシングルが発売された](../Page/DVD-Video.md "wikilink")。2001年[8月12日](../Page/8月12日.md "wikilink")には[アメリカでアナログ盤がavex](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") usaより発売された\[2\]。
 
 [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2001年](../Page/2001年.md "wikilink")度の年間9位\[3\]を獲得した。
 
-[2012年](../Page/2012年.md "wikilink")には[日本映画](../Page/日本映画.md "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』の[テーマソングに採用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")\[4\]。
+[2012年](../Page/2012年.md "wikilink")には[日本映画](../Page/日本映画.md "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』の[テーマソングに採用された](../Page/主題歌.md "wikilink")\[4\]。
 
 ## 収録曲
 
@@ -19,12 +19,12 @@
 
 1.  **evolution "Original Mix"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」[CMソング](../Page/コマーシャルソング.md "wikilink")
         [アスミック・エース エンタテインメント配給映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』テーマソング
 2.  **evolution "Dub's Floor Remix Transport 004"**
 3.  **evolution "DJ REMO-CON REMIX"**
-4.  **[End of the World](../Page/Duty.md "wikilink") "[Laugh & Peace](https://ja.wikipedia.org/wiki/Laugh_and_Peace "wikilink") MIX"**
+4.  **[End of the World](../Page/Duty.md "wikilink") "[Laugh & Peace](../Page/Laugh_and_Peace.md "wikilink") MIX"**
 5.  **evolution "BOOM BASS Ayumix"**
 6.  **evolution "Oriental Hot SPA"**
 7.  **[SURREAL](../Page/SURREAL.md "wikilink") "nicely nice electron '00 remix"**

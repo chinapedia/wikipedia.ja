@@ -1,14 +1,14 @@
 > この記事は[ZEPPET STORE](https://ja.wikipedia.org/wiki/ZEPPET_STORE)から翻訳されています。
 
 
-**ZEPPET STORE**（ゼペット・ストア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1996年](../Page/1996年.md "wikilink")メジャー・デビュー。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")したが、[2011年](../Page/2011年.md "wikilink")に再結成された。13枚のシングルと12枚のアルバム（内2枚はインディーズ盤）を発表している。[hide](https://ja.wikipedia.org/wiki/hide "wikilink")に見出された形でメジャーデビューに至り、深い関わりを持っていた。1997年という、一説に「ニューロック世代」と言われる時期のバンドの一つ。
+**ZEPPET STORE**（ゼペット・ストア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1996年](../Page/1996年.md "wikilink")メジャー・デビュー。[2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")したが、[2011年](../Page/2011年.md "wikilink")に再結成された。13枚のシングルと12枚のアルバム（内2枚はインディーズ盤）を発表している。[hide](https://ja.wikipedia.org/wiki/hide "wikilink")に見出された形でメジャーデビューに至り、深い関わりを持っていた。1997年という、一説に「ニューロック世代」と言われる時期のバンドの一つ。
 
 ## メンバー
 
   - [木村世治](../Page/木村世治.md "wikilink")（きむら せいじ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ギター](../Page/ギター.md "wikilink")担当。
   - 五味誠（ごみ まこと）ギター担当。（1996年に脱退したが、2011年の再始動時に加入）
   - 赤羽根謙二（あかばね けんじ）ギター担当。
-  - 中村雄一（なかむら ゆういち）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。バンド[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。元[GEN](../Page/GEN.md "wikilink")メンバー。[Lucy's Driveメンバー](https://ja.wikipedia.org/wiki/Lucy's_Drive "wikilink")。
+  - 中村雄一（なかむら ゆういち）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。バンド[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。元[GEN](../Page/GEN.md "wikilink")メンバー。[Lucy's Driveメンバー](https://ja.wikipedia.org/wiki/Lucy's_Drive "wikilink")。
   - YA/NA 本名：柳田英輝（やなぎた えいき）[ドラム担当](../Page/ドラムセット.md "wikilink")。
 
 ## 来歴
@@ -30,12 +30,12 @@
 
 ### 変化
 
-  - hideの死後、hideが担当していた[ニッポン放送](../Page/ニッポン放送.md "wikilink")『[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")』金曜第二部を木村が担当することになる。これはhideが生前、飲み会の席で木村のトークを評価していたことから、「hideも木村が担当することを望んでいるのではないか」というスタッフの考えが現実化したものであった。 木村の第一声は「hideさん天国行っちゃいました。」と淡々としたものだった。
-  - 後に月曜日の第二部への移動などを経て、木村のオールナイトは2年間放送された。そして、1999年に発売されたメジャーセカンド・アルバム『CLUTCH』は、[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")8位を記録。その他、[ドラマ](../Page/ドラマ.md "wikilink")の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")を担当したり、「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」や「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」といった[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")にも出演を果たす。さらに、この年に行われた『[RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")』にも出演した。
+  - hideの死後、hideが担当していた[ニッポン放送](../Page/ニッポン放送.md "wikilink")『[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")』金曜第二部を木村が担当することになる。これはhideが生前、飲み会の席で木村のトークを評価していたことから、「hideも木村が担当することを望んでいるのではないか」というスタッフの考えが現実化したものであった。 木村の第一声は「hideさん天国行っちゃいました。」と淡々としたものだった。
+  - 後に月曜日の第二部への移動などを経て、木村のオールナイトは2年間放送された。そして、1999年に発売されたメジャーセカンド・アルバム『CLUTCH』は、[オリコン初登場](../Page/オリコンチャート.md "wikilink")8位を記録。その他、[ドラマ](../Page/ドラマ.md "wikilink")の[主題歌](../Page/主題歌.md "wikilink")を担当したり、「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」や「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」といった[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")にも出演を果たす。さらに、この年に行われた『[RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")』にも出演した。
 
 ### サウンドの変貌、そして解散
 
-  - その後も彼らは『GOOSEFLESH』（[2000年](../Page/2000年.md "wikilink")）、『DINO』（[2001年](../Page/2001年.md "wikilink")）といった作品を発表していくが、デビュー時は[UKギターロックの影響が色濃かった彼らのサウンドは作品を重ねるごとにヘヴィなサウンドに変化していき](https://ja.wikipedia.org/wiki/イギリス "wikilink")、歌詞にも「これが現実なんだ」という一種の厳しさを持つものが多くなってくる。[2003年](../Page/2003年.md "wikilink")にはアルバム『SLICK』を発表。自ら「原点回帰」というキャッチコピーを用い、英語詞と日本語の楽曲が混合して収録された初のアルバムであった。そして[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、全英語詞によるアルバム『BLACK BERRY BED』を発表後、公式[ホームページ](../Page/ホームページ.md "wikilink")で解散を発表。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")、[LIQUIDROOM ebisuでのステージが最後となったが](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")、同年8月19日に行われた『RISING SUN ROCK FESTIVAL 05』にて急遽一夜限りの再結成を行った。
+  - その後も彼らは『GOOSEFLESH』（[2000年](../Page/2000年.md "wikilink")）、『DINO』（[2001年](../Page/2001年.md "wikilink")）といった作品を発表していくが、デビュー時は[UKギターロックの影響が色濃かった彼らのサウンドは作品を重ねるごとにヘヴィなサウンドに変化していき](https://ja.wikipedia.org/wiki/イギリス "wikilink")、歌詞にも「これが現実なんだ」という一種の厳しさを持つものが多くなってくる。[2003年](../Page/2003年.md "wikilink")にはアルバム『SLICK』を発表。自ら「原点回帰」というキャッチコピーを用い、英語詞と日本語の楽曲が混合して収録された初のアルバムであった。そして[2005年](../Page/2005年.md "wikilink")、全英語詞によるアルバム『BLACK BERRY BED』を発表後、公式[ホームページ](../Page/ホームページ.md "wikilink")で解散を発表。[2005年](../Page/2005年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")、[LIQUIDROOM ebisuでのステージが最後となったが](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")、同年8月19日に行われた『RISING SUN ROCK FESTIVAL 05』にて急遽一夜限りの再結成を行った。
 
 ### 解散後の動き
 
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - 2007年に、ドラムの柳田＝YANAは、[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")/[PLAGUES](../Page/PLAGUES.md "wikilink")の[深沼元昭](https://ja.wikipedia.org/wiki/深沼元昭 "wikilink")（Vo,G）、元[PEALOUT](https://ja.wikipedia.org/wiki/PEALOUT "wikilink")の[近藤智洋](https://ja.wikipedia.org/wiki/近藤智洋 "wikilink")（Vo,G）、[東京ピンサロックス](https://ja.wikipedia.org/wiki/東京ピンサロックス "wikilink")の[hisayo](https://ja.wikipedia.org/wiki/hisayo "wikilink")（B）と新バンド[GHEEE](../Page/GHEEE.md "wikilink")を結成。その他、AKUH、NACANO、Vez、Microphone and Fish、エレキバターの計6バンドでドラムを兼任
+  - 2007年に、ドラムの柳田＝YANAは、[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")/[PLAGUES](../Page/PLAGUES.md "wikilink")の[深沼元昭](https://ja.wikipedia.org/wiki/深沼元昭 "wikilink")（Vo,G）、元[PEALOUT](../Page/PEALOUT.md "wikilink")の[近藤智洋](https://ja.wikipedia.org/wiki/近藤智洋 "wikilink")（Vo,G）、[東京ピンサロックス](https://ja.wikipedia.org/wiki/東京ピンサロックス "wikilink")の[hisayo](https://ja.wikipedia.org/wiki/hisayo "wikilink")（B）と新バンド[GHEEE](../Page/GHEEE.md "wikilink")を結成。その他、AKUH、NACANO、Vez、Microphone and Fish、エレキバターの計6バンドでドラムを兼任
   - 2007年、ベースの中村は自身のバンドLUCY'S DRIVEをソロユニットとして再スタートさせる。
 
 <!-- end list -->
@@ -965,7 +965,7 @@ TOCT-22029:マキシ</p></td>
         『716』に収録されたナンバーで、生前hideが最も気に入っていた曲。
   - DONT' ASK ME WHY
       -
-        メジャー4作目のシングル曲。日本語詞。アニメ『[AWOL](https://ja.wikipedia.org/wiki/AWOL "wikilink")』エンディングテーマ、『[出動\!ミニスカポリス](https://ja.wikipedia.org/wiki/出動!ミニスカポリス "wikilink")』テーマソングに起用された。hideいわく「この曲を聴いて100回くらい泣いたかもしれない」
+        メジャー4作目のシングル曲。日本語詞。アニメ『[AWOL](https://ja.wikipedia.org/wiki/AWOL "wikilink")』エンディングテーマ、『[出動\!ミニスカポリス](../Page/出動!ミニスカポリス.md "wikilink")』テーマソングに起用された。hideいわく「この曲を聴いて100回くらい泣いたかもしれない」
   - ROSE
       -
         hideの死後にリリースされた6作目のシングル。日本語詞のバラードナンバー。7つものタイアップがついた。
@@ -974,7 +974,7 @@ TOCT-22029:マキシ</p></td>
         7作目のシングル曲。『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』1999年5月度エンディングテーマに起用された。
   - 遠くまで
       -
-        8作目のシングル曲。[日本テレビ系のドラマ](../Page/日本テレビ放送網.md "wikilink")『[甘い生活。](https://ja.wikipedia.org/wiki/甘い生活。 "wikilink")』のエンディングテーマとして起用された。
+        8作目のシングル曲。[日本テレビ系のドラマ](../Page/日本テレビ放送網.md "wikilink")『[甘い生活。](../Page/甘い生活。.md "wikilink")』のエンディングテーマとして起用された。
   - DEARLY
       -
         セカンド・アルバム『CLUTCH』に収録されたナンバー。木村自身が「hideさんに捧げた曲」と公言している。
@@ -986,7 +986,7 @@ TOCT-22029:マキシ</p></td>
 | **監督**                                                              | **曲名**                                                                                                                                                                              |
 | [久保茂昭](../Page/久保茂昭.md "wikilink")                                  | 「PUZZLE」「SEEK OUT」                                                                                                                                                                  |
 | [齋藤和廣](https://ja.wikipedia.org/wiki/齋藤和廣 "wikilink")               | 「SUPER STITION」                                                                                                                                                                     |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")               | 「DISTANCE」「EMOTION」                                                                                                                                                                 |
+| [須永秀明](../Page/須永秀明.md "wikilink")                                  | 「DISTANCE」「EMOTION」                                                                                                                                                                 |
 | [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink") | 「PRESENCE」                                                                                                                                                                          |
 | [藤兼友子](https://ja.wikipedia.org/wiki/藤兼友子 "wikilink")               | 「DELIGHT」                                                                                                                                                                           |
 | 不明                                                                  | 「BLUE」「DON'T ASK ME WHY」「FLAKE」「FLY HIGH」「GETAWAY?SEARCH ME」「LOOP」「ROSE」「SPIRAL」「TIGHTROPE」「TO BE FREE」「もっともっと」「遠くまで」「声」 |-「[NOTHING](https://www.youtube.com/watch?v=0LEMlbpx6jU)」 |
@@ -1037,7 +1037,7 @@ TOCT-22029:マキシ</p></td>
 
   - 1996年9月8日 - [hide](https://ja.wikipedia.org/wiki/hide "wikilink") SOLO TOUR PSYENCE A GO GO
   - 1999年7月18日 - スーパースターも夢じゃない\!\!
-  - 1999年8月17日 - [音楽と髭](https://ja.wikipedia.org/wiki/音楽と髭 "wikilink")達 '99
+  - 1999年8月17日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 '99
   - 1999年8月21日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 1999 in EZO
   - 1999年10月11日 - HEADROCKS'99〜START UP THE HAMMER MUSIC〜
   - 2000年8月11日 - [ロックロックこんにちは\!](https://ja.wikipedia.org/wiki/ロックロックこんにちは! "wikilink") Ver.4.00 Hyper
@@ -1045,12 +1045,12 @@ TOCT-22029:マキシ</p></td>
   - 2001年8月31日 - Rolling Rocks EPISODE 5
   - 2002年8月31日 - hide presents「MIX LEMONed JELLY TOUR 2002」
   - 2005年8月19日 - RISING SUN ROCK FESTIVAL 2005 in EZO
-  - 2012年11月10日 - CLUB251 19th ANNIVERSARY〜MIX?PHONEMICS\! Special ZEPPET STORE VS [PENPALS](https://ja.wikipedia.org/wiki/PENPALS "wikilink")
+  - 2012年11月10日 - CLUB251 19th ANNIVERSARY〜MIX?PHONEMICS\! Special ZEPPET STORE VS [PENPALS](../Page/PENPALS.md "wikilink")
   - 2012年12月8日 - hide Birthday Party 2012
   - 2013年8月16日 - RISING SUN ROCK FESTIVAL 2013 in EZO
   - 2013年8月25日 - [DISK GARAGE](https://ja.wikipedia.org/wiki/DISK_GARAGE "wikilink") MUSIC MONSTERS -2013 summer-
   - 2013年12月8日 - hide Birthday Party 2013 feat.CLUB PSYENCE(「ZEPPET STORE Acoustic Style」として出演)
-  - 2013年12月20日 - CLUB251 20th ANNIVERSARY ZEPPET STORE×[音速ライン](https://ja.wikipedia.org/wiki/音速ライン "wikilink")
+  - 2013年12月20日 - CLUB251 20th ANNIVERSARY ZEPPET STORE×[音速ライン](../Page/音速ライン.md "wikilink")
   - 2014年11月21日・22日 - 20周年記念\! 人類史上初の試み\! 年間2デイズ乱れ撃ち\! "CLUB Que 20th記念 2DAYS series 『OPERATION Que HATACHI』"
   - 2015年5月1日 - 五味誠生誕50周年記念音楽祭
   - 2016年6月18日 - MIX LEMONeD JELLY2016

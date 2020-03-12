@@ -1,23 +1,23 @@
 > この記事は[WORLDILLIA](https://ja.wikipedia.org/wiki/WORLDILLIA)から翻訳されています。
 
 
-『**WORLDILLIA**』（ワールディリア）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の4作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
+『**WORLDILLIA**』（ワールディリア）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の4作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
 
 ## 概要
 
-このアルバムの歌詞カードは今までの左右ページとは違い、初めての上下ページとなる。ジャケット写真は[銀色](https://ja.wikipedia.org/wiki/銀色 "wikilink")の[龍](https://ja.wikipedia.org/wiki/龍 "wikilink")を背景にアルバムタイトルが[虹色](https://ja.wikipedia.org/wiki/虹色 "wikilink")の絵の具で描かれていて龍は裏表紙と繋がっている。
+このアルバムの歌詞カードは今までの左右ページとは違い、初めての上下ページとなる。ジャケット写真は[銀色](../Page/銀色.md "wikilink")の[龍](https://ja.wikipedia.org/wiki/龍 "wikilink")を背景にアルバムタイトルが[虹色](https://ja.wikipedia.org/wiki/虹色 "wikilink")の絵の具で描かれていて龍は裏表紙と繋がっている。
 
-アルバムタイトルの由来は「[ワールド](../Page/世界.md "wikilink")」「[アルカディア](https://ja.wikipedia.org/wiki/アルカディア "wikilink")」「[シャングリラ](https://ja.wikipedia.org/wiki/シャングリラ "wikilink")」のような響きを合わせた造語で、「楽園」や「[理想郷](https://ja.wikipedia.org/wiki/理想郷 "wikilink")」という意味。
+アルバムタイトルの由来は「[ワールド](../Page/世界.md "wikilink")」「[アルカディア](../Page/アルカディア.md "wikilink")」「[シャングリラ](../Page/シャングリラ.md "wikilink")」のような響きを合わせた造語で、「楽園」や「[理想郷](https://ja.wikipedia.org/wiki/理想郷 "wikilink")」という意味。
 
-2002年のヒットシングル「[Mugen](https://ja.wikipedia.org/wiki/Mugen_\(曲\) "wikilink")」、同シングルのカップリング曲「Go Steady Go\!」、このアルバムの3週間前にリリースされたリードシングル「[渦](https://ja.wikipedia.org/wiki/渦_\(ポルノグラフィティの曲\) "wikilink")」、同シングルのカップリング曲「ワールド☆サタデーグラフティ」を収録。なお、「渦」と「ワールド☆サタデーグラフティ」はアルバムバージョンとしての収録。これ以降カップリング曲がオリジナルアルバムに収録されなくなり、このオリジナルアルバムがポルノグラフィティにとって、2016年現在[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")が収録されている最後のオリジナルアルバムとなった。\[1\]\[2\]
+2002年のヒットシングル「[Mugen](../Page/Mugen_\(曲\).md "wikilink")」、同シングルのカップリング曲「Go Steady Go\!」、このアルバムの3週間前にリリースされたリードシングル「[渦](../Page/渦_\(ポルノグラフィティの曲\).md "wikilink")」、同シングルのカップリング曲「ワールド☆サタデーグラフティ」を収録。なお、「渦」と「ワールド☆サタデーグラフティ」はアルバムバージョンとしての収録。これ以降カップリング曲がオリジナルアルバムに収録されなくなり、このオリジナルアルバムがポルノグラフィティにとって、2016年現在[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")が収録されている最後のオリジナルアルバムとなった。\[1\]\[2\]
 
-このアルバムでは、初めての[インストゥルメンタル曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")「didgedilli」を収録。
+このアルバムでは、初めての[インストゥルメンタル曲](../Page/器楽曲.md "wikilink")「didgedilli」を収録。
 
-[Tama在籍時最後のオリジナルアルバム](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")。このアルバムを軸としたライブツアーが事実上行われなかった上、2004年にTamaが脱退したことにより、特に長期・大規模ツアーにおいてこのアルバムの曲が演奏されることが極端に少なく、単発のイベントなどでわずかに演奏されるにとどまっている。
+[Tama在籍時最後のオリジナルアルバム](../Page/Tama_\(ベーシスト\).md "wikilink")。このアルバムを軸としたライブツアーが事実上行われなかった上、2004年にTamaが脱退したことにより、特に長期・大規模ツアーにおいてこのアルバムの曲が演奏されることが極端に少なく、単発のイベントなどでわずかに演奏されるにとどまっている。
 
 このアルバムには当初、「LIVE ON LIVE」(リヴ オン ライヴ)が収録予定で、収録曲と同時にレコーディングされたが、「アルバム収録よりも、『["BITTER SWEET MUSIC BIZ" LIVE IN BUDOKAN 2002](https://ja.wikipedia.org/wiki/"BITTER_SWEET_MUSIC_BIZ"_LIVE_IN_BUDOKAN_2002 "wikilink")』に収録した方がフィットするのでは?」という意見が持ち上がったため、アルバム収録を取りやめて収録見送りとなった。
 
-発売当時は[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")（[SME Recordsレーベル](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")）より発売。後に発売元はエスエムイーレコーズ（SME Records）へ移行している。
+発売当時は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[SME Recordsレーベル](../Page/エスエムイーレコーズ.md "wikilink")）より発売。後に発売元はエスエムイーレコーズ（SME Records）へ移行している。
 
 ポルノグラフィティにとって最後の販売記号（SRCL）。
 
@@ -42,7 +42,7 @@
       -
         タイトルは「エレメント エル」と読む\[5\]。
         2011年9月の『[つま恋ロマンスポルノ'11 〜ポルノ丸〜](https://ja.wikipedia.org/wiki/つま恋ロマンスポルノ'11_〜ポルノ丸〜 "wikilink")』で新たなアレンジで披露され、それを元にした「元素L 〜つま恋Ver.〜 Studio Session」がシングル「[ゆきのいろ](https://ja.wikipedia.org/wiki/ゆきのいろ "wikilink")」に収録された。
-4.  **[Mugen](https://ja.wikipedia.org/wiki/Mugen_\(曲\) "wikilink")**
+4.  **[Mugen](../Page/Mugen_\(曲\).md "wikilink")**
       - 作詞：新藤晴一 / 作曲：ak.homma
     <!-- end list -->
       -
@@ -59,7 +59,7 @@
       -
         曲名が示す通り、2001年8月にニューヨークで[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")されたものを「寝かして」発表したものである。『[foo?](https://ja.wikipedia.org/wiki/foo? "wikilink")』の時期に既に存在していた。ベスト盤収録。
         『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』で演奏された。近年のライヴでは『つま恋ロマンスポルノ'11 〜ポルノ丸〜』で演奏されている。
-7.  **[ワールド☆サタデーグラフティ（★★★）](https://ja.wikipedia.org/wiki/渦_\(ポルノグラフィティの曲\) "wikilink")**
+7.  **[ワールド☆サタデーグラフティ（★★★）](../Page/渦_\(ポルノグラフィティの曲\).md "wikilink")**
       - 作詞：新藤晴一 / 作曲：ak.homma
     <!-- end list -->
       -
@@ -75,7 +75,7 @@
     <!-- end list -->
       -
         ライブ『LIVE RE・BODY』（2006年）で初めて演奏された。
-10. **[Go Steady Go\!](https://ja.wikipedia.org/wiki/Mugen_\(曲\) "wikilink")**
+10. **[Go Steady Go\!](../Page/Mugen_\(曲\).md "wikilink")**
       - 作詞：新藤晴一 / 作曲：Tama　
     <!-- end list -->
       -
@@ -92,7 +92,7 @@
       -
         由来は晴一が口ずさんだこの曲のイントロから。
         ライヴでは「Guitar Inst」として『[BITTER SWEET MUSIC BIZ](https://ja.wikipedia.org/wiki/"BITTER_SWEET_MUSIC_BIZ"_LIVE_IN_BUDOKAN_2002 "wikilink")』で先行披露され、その後『[ロイヤル ストレート フラッシュ](https://ja.wikipedia.org/wiki/"ロイヤル_ストレート_フラッシュ"_LIVE_IN_YOYOGI_DAIICHI_TAIIKUKAN_2009 "wikilink")』でも演奏された。
-13. **[渦（Helix Track）](https://ja.wikipedia.org/wiki/渦_\(ポルノグラフィティの曲\) "wikilink")**
+13. **[渦（Helix Track）](../Page/渦_\(ポルノグラフィティの曲\).md "wikilink")**
       - 作詞：新藤晴一 / 作曲：Tama　
     <!-- end list -->
       -
@@ -111,7 +111,7 @@
 
   - [岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
   - [新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")：[ギター](../Page/ギター.md "wikilink")（[エレキ](../Page/エレクトリック・ギター.md "wikilink")、アコースティック）、コーラス
-  - [Tama](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（[エレキ](../Page/エレクトリックベース.md "wikilink")、[アコースティック](../Page/アコースティック・ベース.md "wikilink")）、[トランペット](../Page/トランペット.md "wikilink")、コーラス
+  - [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（[エレキ](../Page/エレクトリックベース.md "wikilink")、[アコースティック](../Page/アコースティック・ベース.md "wikilink")）、[トランペット](../Page/トランペット.md "wikilink")、コーラス
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
   - [エレクトリック・ヴァイオリン](../Page/エレクトリック・ヴァイオリン.md "wikilink")：NAOTO（\#12）
   - [ブラス担当](../Page/ブラスバンド.md "wikilink")：THE THRILL（\#4）
   - [クラリネット](../Page/クラリネット.md "wikilink")：谷口英治（\#8）
-  - [ドラムス](../Page/ドラムセット.md "wikilink")：[村石雅行](../Page/村石雅行.md "wikilink")（\#4,5,11,13）、[小畑"PUMP"隆彦](https://ja.wikipedia.org/wiki/小畑隆彦 "wikilink")（\#12）
+  - [ドラムス](../Page/ドラムセット.md "wikilink")：[村石雅行](../Page/村石雅行.md "wikilink")（\#4,5,11,13）、[小畑"PUMP"隆彦](../Page/小畑隆彦.md "wikilink")（\#12）
   - その他全ての[音源](../Page/音源.md "wikilink")：[ak.homma](../Page/本間昭光.md "wikilink")
 
 <!-- end list -->
@@ -136,21 +136,21 @@
 
   - プロデュース：[田村充義](https://ja.wikipedia.org/wiki/田村充義 "wikilink")（[田村制作所](https://ja.wikipedia.org/wiki/田村制作所 "wikilink")）、本間昭光（ブルーソファ）
   - エグゼクティブプロデューサー：畠中達郎（[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")）、佐藤康広（[SME Records](https://ja.wikipedia.org/wiki/SME_Records "wikilink")）
-  - スーパーバイザー：[大里洋吉](https://ja.wikipedia.org/wiki/大里洋吉 "wikilink")、山本久（いずれもアミューズ）
+  - スーパーバイザー：[大里洋吉](../Page/大里洋吉.md "wikilink")、山本久（いずれもアミューズ）
   - 録音：山内"Dr."隆義（[サウンドインスタジオ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")）、Ray　Bardai
-  - 録音スタジオ：[ソニー・ミュージックスタジオ](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")、ビクタースタジオ、[ザ・ヒット・ファクトリー](https://ja.wikipedia.org/wiki/ザ・ヒット・ファクトリー "wikilink")（[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")）
+  - 録音スタジオ：[ソニー・ミュージックスタジオ](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")、ビクタースタジオ、[ザ・ヒット・ファクトリー](https://ja.wikipedia.org/wiki/ザ・ヒット・ファクトリー "wikilink")（[ニューヨーク](../Page/ニューヨーク.md "wikilink")）
   - ミキサー：山内"Dr."隆義（サウンドインスタジオ）
   - ミキサースタジオ：サウンドインスタジオ
   - プロモーションチーム：ポルノグラフィティを売り出そうとする人々（SME、Amuse）
-  - スペシャル サンクス：[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、[MICHIKO](../Page/MICHIKO.md "wikilink")、佐藤先生、直江先生＆まんじゅ、西村“KENZO”賢三、花田勝志、All Of The Live Tour Crew、"love up\!" members、[因島の家族や友達たち](../Page/因島市.md "wikilink")
+  - スペシャル サンクス：[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、[森雪之丞](../Page/森雪之丞.md "wikilink")、[MICHIKO](../Page/MICHIKO.md "wikilink")、佐藤先生、直江先生＆まんじゅ、西村“KENZO”賢三、花田勝志、All Of The Live Tour Crew、"love up\!" members、[因島の家族や友達たち](../Page/因島市.md "wikilink")
 
 ## ベストアルバム収録
 
-  - 『[PORNO GRAFFITTI BEST RED'S](https://ja.wikipedia.org/wiki/PORNO_GRAFFITTI_BEST_RED'S "wikilink")』収録（2004年7月28日）
+  - 『[PORNO GRAFFITTI BEST RED'S](../Page/PORNO_GRAFFITTI_BEST_RED'S.md "wikilink")』収録（2004年7月28日）
       - **ヴィンテージ**
       - **Mugen**
       - **Go Steady Go\!**
-  - 『[PORNO GRAFFITTI BEST BLUE'S](https://ja.wikipedia.org/wiki/PORNO_GRAFFITTI_BEST_BLUE'S "wikilink")』収録（2004年7月28日）
+  - 『[PORNO GRAFFITTI BEST BLUE'S](../Page/PORNO_GRAFFITTI_BEST_BLUE'S.md "wikilink")』収録（2004年7月28日）
       - **渦**(シングルバージョンは初)
       - **カルマの坂**
 
@@ -162,10 +162,10 @@
 
 [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:ポルノグラフィティのアルバム](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティのアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")
 
-1.  なお、『[THUMP<sup>χ</sup>](https://ja.wikipedia.org/wiki/THUMPχ "wikilink")』に収録されている「プッシュプレイ」は、「[ネオメロドラマティック/ROLL](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")」のカップリング曲としてライブバージョンが収録されているがこれは含まれない。
-2.  ベスト・アルバムを含めると、『[PORNO GRAFFITTI BEST RED'S](https://ja.wikipedia.org/wiki/PORNO_GRAFFITTI_BEST_RED'S "wikilink")』が最後。
+1.  なお、『[THUMP<sup>χ</sup>](../Page/THUMPχ.md "wikilink")』に収録されている「プッシュプレイ」は、「[ネオメロドラマティック/ROLL](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")」のカップリング曲としてライブバージョンが収録されているがこれは含まれない。
+2.  ベスト・アルバムを含めると、『[PORNO GRAFFITTI BEST RED'S](../Page/PORNO_GRAFFITTI_BEST_RED'S.md "wikilink")』が最後。
 3.  当該ライヴのVHS/DVD作品で確認可能。
 4.
 5.
 6.  カタカナ名義時代と[インディーズ時代も含めて](https://ja.wikipedia.org/wiki/ポルノグラフィティのインディーズ作品 "wikilink")7曲のみ。現在のアーティスト名義になってからは2016年現在では唯一の曲。
-7.  この曲以外にインディーズ時代は[「左に下る坂道」、「Winter's man」、「GATE」でデビュー後は](https://ja.wikipedia.org/wiki/ポルノグラフィティのインディーズ作品 "wikilink")「[PRIME](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")」、「[夜明けまえには](../Page/Foo?.md "wikilink")」、「[冷たい手 〜3年8ヵ月〜](https://ja.wikipedia.org/wiki/サウダージ_\(曲\) "wikilink")」がある。
+7.  この曲以外にインディーズ時代は[「左に下る坂道」、「Winter's man」、「GATE」でデビュー後は](https://ja.wikipedia.org/wiki/ポルノグラフィティのインディーズ作品 "wikilink")「[PRIME](../Page/ミュージック・アワー.md "wikilink")」、「[夜明けまえには](../Page/Foo?.md "wikilink")」、「[冷たい手 〜3年8ヵ月〜](../Page/サウダージ_\(曲\).md "wikilink")」がある。

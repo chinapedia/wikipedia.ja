@@ -1,7 +1,7 @@
 > この記事は[SONG FOR TALES OF THE ABYSS](https://ja.wikipedia.org/wiki/SONG_FOR_TALES_OF_THE_ABYSS)から翻訳されています。
 
 
-『**SONG FOR TALES OF THE ABYSS**』（ソング・フォー・テイルズ・オブ・ジ・アビス）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")に発売された[MOTOO FUJIWARAによるゲーム](https://ja.wikipedia.org/wiki/藤原基央 "wikilink")『[テイルズ オブ ジ アビス](../Page/テイルズ_オブ_ジ_アビス.md "wikilink")』のサウンドトラック集。発売元は、[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
+『**SONG FOR TALES OF THE ABYSS**』（ソング・フォー・テイルズ・オブ・ジ・アビス）は、[2006年](../Page/2006年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に発売された[MOTOO FUJIWARAによるゲーム](https://ja.wikipedia.org/wiki/藤原基央 "wikilink")『[テイルズ オブ ジ アビス](../Page/テイルズ_オブ_ジ_アビス.md "wikilink")』のサウンドトラック集。発売元は、[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。
 
 ## 解説
 
@@ -9,11 +9,11 @@
 
 元々はゲーム挿入曲の『カルマ』のアレンジを藤原が引き受けたことに端を発したもので、CD化の予定も無ければソロとして発表する計画も無かった。当初は主題歌のみの依頼であったが「作品全体で主題歌を表現したい」という藤原の希望により、作中の重要場面のBGM作曲が依頼され、このアルバムの楽曲が制作された。ゲームで実際に使われた音源と、それらをオーケストラで生演奏した音源の二種類から構成されている。ゲーム音源だけなら、サウンドトラック（下記参照）でも聴くことが可能。中核に、BUMP OF CHICKEN名義で発表した楽曲『カルマ』があり、各楽曲のタイトルも『カルマ』の歌詞から引用されている。楽曲は藤原の作品だが、実際にCDとして発表するまでの段階（曲のタイトル、ライナーやジャケットのアイデア等）、藤原は企画にほとんど提案をしていない。トラックNo.1『譜歌〜quartet〜』、No.13『譜歌〜solo〜』は、ストリングスの開放弦の響きを生かすため、No.9「譜歌〜song by Tear〜」よりも1音上げて演奏している
 
-藤原基央によるセルフライナー&[升秀夫](https://ja.wikipedia.org/wiki/升秀夫 "wikilink")によるライナー、『譜歌』藤原直筆スコア入り。初回限定生産盤はハードカバータイプ特殊パッケージ仕様。通常盤はデジパック仕様。封入されている応募券を葉書に貼って送ると抽選で300名に「特製ニコル・ミラー」がプレゼントされた。
+藤原基央によるセルフライナー&[升秀夫](../Page/升秀夫.md "wikilink")によるライナー、『譜歌』藤原直筆スコア入り。初回限定生産盤はハードカバータイプ特殊パッケージ仕様。通常盤はデジパック仕様。封入されている応募券を葉書に貼って送ると抽選で300名に「特製ニコル・ミラー」がプレゼントされた。
 
-今後「MOTOO FUJIWARA」名義で活動することは「まず無い」と明言したが、2008年には『テイルズ オブ ジ アビス』のテレビアニメ化に伴い、[榎本くるみ](https://ja.wikipedia.org/wiki/榎本くるみ "wikilink")のED曲『[冒険彗星](https://ja.wikipedia.org/wiki/冒険彗星 "wikilink")』にて再び「MOTOO FUJIWARA」名義でサウンドプロデュースとして参加。それ以後の同名義での活動はない。
+今後「MOTOO FUJIWARA」名義で活動することは「まず無い」と明言したが、2008年には『テイルズ オブ ジ アビス』のテレビアニメ化に伴い、[榎本くるみ](../Page/榎本くるみ.md "wikilink")のED曲『[冒険彗星](https://ja.wikipedia.org/wiki/冒険彗星 "wikilink")』にて再び「MOTOO FUJIWARA」名義でサウンドプロデュースとして参加。それ以後の同名義での活動はない。
 
-通常のBUMP OF CHICKENの作品と違って、[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")は収録されていない。
+通常のBUMP OF CHICKENの作品と違って、[隠しトラック](../Page/隠しトラック.md "wikilink")は収録されていない。
 
 本作とは別に『テイルズ オブ ジ アビス オリジナル・サウンドトラック』が[キングレコード](../Page/キングレコード.md "wikilink")から同時発売された。本作の楽曲も一部を除き、ほぼ収録している。
 

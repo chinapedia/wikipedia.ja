@@ -1,13 +1,13 @@
 > この記事は[Sci-Fi HARRY](https://ja.wikipedia.org/wiki/Sci-Fi_HARRY)から翻訳されています。
 
 
-『**Sci-Fi HARRY**』（サイファイ ハリー）は、原作：[飯田譲治](https://ja.wikipedia.org/wiki/飯田譲治 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の漫画作品、および[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
+『**Sci-Fi HARRY**』（サイファイ ハリー）は、原作：[飯田譲治](../Page/飯田譲治.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の漫画作品、および[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
 
 ## 概要
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[東城麻美](https://ja.wikipedia.org/wiki/東城麻美 "wikilink")による漫画版が出版されたのを皮切りに、[2000年](../Page/2000年.md "wikilink")にテレビアニメ版が、[2001年](../Page/2001年.md "wikilink")には[阿部忍](https://ja.wikipedia.org/wiki/阿部忍 "wikilink")による漫画版が出されている。
 
-なお、原作を担当した飯田譲治はこの作品を、自身が手掛けた[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[NIGHT HEAD](https://ja.wikipedia.org/wiki/NIGHT_HEAD "wikilink")」の原点だと語っている\[1\]。
+なお、原作を担当した飯田譲治はこの作品を、自身が手掛けた[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[NIGHT HEAD](../Page/NIGHT_HEAD.md "wikilink")」の原点だと語っている\[1\]。
 
 ## 漫画版
 
@@ -32,24 +32,24 @@
 
   - ハリー - [伊藤龍](../Page/伊藤龍.md "wikilink")
   - キャサリン - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
-  - ジョン - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
-  - エリオット - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+  - ジョン - [千葉進歩](../Page/千葉進歩.md "wikilink")
+  - エリオット - [千葉紗子](../Page/千葉紗子.md "wikilink")
   - ナンシー - [さいとう滝子](https://ja.wikipedia.org/wiki/さいとう滝子 "wikilink")
-  - マイク - [田中信夫](https://ja.wikipedia.org/wiki/田中信夫 "wikilink")
-  - ジョージ - [細井治](https://ja.wikipedia.org/wiki/細井治 "wikilink")
+  - マイク - [田中信夫](../Page/田中信夫.md "wikilink")
+  - ジョージ - [細井治](../Page/細井治.md "wikilink")
   - ロッド - [若本規夫](../Page/若本規夫.md "wikilink")
   - ミック - [大塚明夫](../Page/大塚明夫.md "wikilink")
   - ジノリ - [野上ゆかな](../Page/ゆかな.md "wikilink")
   - マザー - [山本泰輔](../Page/山本泰輔.md "wikilink")
-  - ケイト - [沢海陽子](https://ja.wikipedia.org/wiki/沢海陽子 "wikilink")
-  - ドルフ - [田中正彦](https://ja.wikipedia.org/wiki/田中正彦 "wikilink")
-  - ファットマン - [永野広一](https://ja.wikipedia.org/wiki/永野広一 "wikilink")
+  - ケイト - [沢海陽子](../Page/沢海陽子.md "wikilink")
+  - ドルフ - [田中正彦](../Page/田中正彦.md "wikilink")
+  - ファットマン - [永野広一](../Page/永野広一.md "wikilink")
   - メリル - [金月真美](../Page/金月真美.md "wikilink")
   - ターニャ、ミーシャ - [金田朋子](../Page/金田朋子.md "wikilink")
 
 ### スタッフ
 
-  - 原作 - [飯田譲治](https://ja.wikipedia.org/wiki/飯田譲治 "wikilink")
+  - 原作 - [飯田譲治](../Page/飯田譲治.md "wikilink")
   - 監督 - [小寺勝之](../Page/小寺勝之.md "wikilink")
   - シリーズ構成 - 高島健一
   - キャラクターデザイン - 高橋しんや
@@ -58,7 +58,7 @@
   - 色彩設計 - 関美恵子
   - 撮影監督 - 岡崎英夫
   - 録音監督 - [吉田知弘](https://ja.wikipedia.org/wiki/吉田知弘_\(音響監督\) "wikilink")
-  - 音楽 - [池頼広](https://ja.wikipedia.org/wiki/池頼広 "wikilink")
+  - 音楽 - [池頼広](../Page/池頼広.md "wikilink")
   - プロデューサー - 木下健士、有川俊、野村和史
   - アニメーション制作 - [A.P.P.P.](https://ja.wikipedia.org/wiki/アナザープッシュピン・プランニング "wikilink")
   - 制作 - テレビ朝日、[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")、A.P.P.P
@@ -66,7 +66,7 @@
 ### 主題歌
 
   - オープニングテーマ「[Mysterious](../Page/Mysterious_\(Janne_Da_Arcの曲\).md "wikilink")」
-    作詞・作曲 - yasu / 編曲 - yasu & Janne Da Arc & [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink") / 歌 - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
+    作詞・作曲 - yasu / 編曲 - yasu & Janne Da Arc & [HΛL](../Page/HΛL.md "wikilink") / 歌 - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
   - エンディングテーマ「愛を知るには早すぎたのか」
     作詞 - KAZUKI / 作曲 - SHUJI / 編曲 - 辻剛 / 歌 - LUCA
 
@@ -276,9 +276,9 @@
 ## 関連項目
 
   - [テレビ朝日系アニメ](../Page/テレビ朝日系アニメ.md "wikilink")
-  - [深夜アニメ一覧](https://ja.wikipedia.org/wiki/深夜アニメ一覧 "wikilink")
-  - [NIGHT HEAD](https://ja.wikipedia.org/wiki/NIGHT_HEAD "wikilink")
-  - [常識酒場](https://ja.wikipedia.org/wiki/常識酒場 "wikilink") - [テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』の1話であり、「NIGHT HEAD」の原案となった作品。2作とも飯田譲治が原作を担当しており、本作と同様に超能力を扱っている。
+  - [深夜アニメ一覧](../Page/深夜アニメ一覧.md "wikilink")
+  - [NIGHT HEAD](../Page/NIGHT_HEAD.md "wikilink")
+  - [常識酒場](../Page/常識酒場.md "wikilink") - [テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』の1話であり、「NIGHT HEAD」の原案となった作品。2作とも飯田譲治が原作を担当しており、本作と同様に超能力を扱っている。
 
 [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2000年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年のテレビアニメ "wikilink") [Category:テレビ朝日の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜アニメ "wikilink") [Category:名古屋テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:名古屋テレビの深夜アニメ "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:超能力を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ作品 "wikilink") [Category:アメリカ合衆国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台とした作品 "wikilink")
 

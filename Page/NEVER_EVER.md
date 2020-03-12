@@ -7,7 +7,7 @@
 
 前作「[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")」よりわずか約1ヶ月でリリースされ、前作に引き続き、浜崎本人がCREA名義で作曲を担当している。
 
-[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")はサビのみのプロモーショナルクリップしか存在しない。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")はサビのみのプロモーショナルクリップしか存在しない。
 
 ## 収録曲
 
@@ -15,12 +15,12 @@
 
 1.  **NEVER EVER "Original Mix"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
-        [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+        [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **NEVER EVER "Yuta's prayer mix"**
 3.  **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink") "H-H remix"**
 4.  **NEVER EVER "PROJECT O.T MIX"**
-5.  **NEVER EVER "[Laugh & Peace](https://ja.wikipedia.org/wiki/Laugh_and_Peace "wikilink") MIX"**
+5.  **NEVER EVER "[Laugh & Peace](../Page/Laugh_and_Peace.md "wikilink") MIX"**
 6.  **NEVER EVER "Empty Pot Shuttlecock wood"**
 7.  **[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink") "Ayu Can Hear U Miz"**
 8.  **NEVER EVER "nicely nice hot stab remix"**

@@ -7,7 +7,7 @@
 
 シングルとしては前作「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」から約5ヶ月ぶりのリリースで、4thアルバム『[I am...](../Page/I_am....md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。
 
-30万枚限定生産ではあったが、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」に敗れ初登場2位となってしまい、2000年発売の19thシングル「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」以来続いていた連続首位記録が途絶えてしまう。
+30万枚限定生産ではあったが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")で[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」に敗れ初登場2位となってしまい、2000年発売の19thシングル「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」以来続いていた連続首位記録が途絶えてしまう。
 
 リカットシングルだが、『[I am...](../Page/I_am....md "wikilink")』に収録されているオリジナルは収録されていない。
 
@@ -19,12 +19,12 @@
 
 ### CD
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
-1.  **Daybreak "[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")'s Mix 2002"**
+1.  **Daybreak "[HΛL](../Page/HΛL.md "wikilink")'s Mix 2002"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") + [junichi matsuda](../Page/松田純一.md "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") F1」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") + [junichi matsuda](../Page/松田純一.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") F1」[CMソング](../Page/コマーシャルソング.md "wikilink")
         Panasonic [ソルトレイクオリンピック](https://ja.wikipedia.org/wiki/ソルトレイクオリンピック "wikilink") 関連商品 CMソング
 2.  **[no more words](../Page/I_am....md "wikilink") "BRENT MINI'S ROTARY MIX"**
       - リミックス: [イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
@@ -33,12 +33,12 @@
 4.  **no more words "nicely nice remix"**
       - リミックス: [佐藤清喜](https://ja.wikipedia.org/wiki/佐藤清喜 "wikilink")
 5.  **I am... "Ram's Special 11Days Mix"**
-      - リミックス: [RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")
+      - リミックス: [RAM RIDER](../Page/RAM_RIDER.md "wikilink")
 6.  **no more words "turn up the break mix"**
       - リミックス: [83key](https://ja.wikipedia.org/wiki/矢崎俊輔 "wikilink")
 7.  **I am... "Huge Fairy tAle mix"**
       - リミックス: Huge
-8.  **no more words "[Laugh & Peace](https://ja.wikipedia.org/wiki/Laugh_and_Peace "wikilink") Mix"**
+8.  **no more words "[Laugh & Peace](../Page/Laugh_and_Peace.md "wikilink") Mix"**
       - リミックス: Laugh & Peace
 9.  **Daybreak "HΛL's Mix 2002 -Instrumental-"**
 10. **[opening Run](../Page/I_am....md "wikilink") "[JK](https://ja.wikipedia.org/wiki/CMJK "wikilink")'s extended mix"**

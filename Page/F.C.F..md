@@ -1,7 +1,7 @@
 > この記事は[F.C.F.](https://ja.wikipedia.org/wiki/F.C.F.)から翻訳されています。
 
 
-**F.C.F.（エフ・シー・エフ）**は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代後半から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代初めにかけて活躍していた[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")の[ユニット兼](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")集団。
+**F.C.F.（エフ・シー・エフ）**は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代後半から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代初めにかけて活躍していた[ユーロビート](../Page/ユーロビート.md "wikilink")の[ユニット兼](../Page/音楽ユニット.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")集団。
 
 ## 概要
 

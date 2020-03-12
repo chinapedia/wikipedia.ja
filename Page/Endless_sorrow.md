@@ -17,11 +17,11 @@
 
 1.  **Endless sorrow "Original Mix"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")、[Junichi Matsuda](../Page/松田純一.md "wikilink")
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[昔の男](https://ja.wikipedia.org/wiki/昔の男 "wikilink")』主題歌
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")、[Junichi Matsuda](../Page/松田純一.md "wikilink")
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[昔の男](../Page/昔の男.md "wikilink")』主題歌
 2.  **[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink") "Kirari Natsu Ayu Mix"**
       -
-        [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ） マーメイド編」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ） マーメイド編」[CMソング](../Page/コマーシャルソング.md "wikilink")
         [リミックス](../Page/リミックス.md "wikilink")名になっている「Kirari Natsu Ayu（キラリ夏あゆ）」は、CM内で使われていたキャッチフレーズ
 3.  **Endless sorrow "Natural Green Dub Mix"**
 4.  **Endless sorrow "nicely nice skyblue remix"**
@@ -44,7 +44,7 @@
       - 『[I am...](../Page/I_am....md "wikilink")』（gone with the wind ver.）
       - 『[A BEST 2 -BLACK-](https://ja.wikipedia.org/wiki/A_BEST_2_-BLACK- "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
-      - 『[A THEME SONGS -Drama edition-](https://ja.wikipedia.org/wiki/A_THEME_SONGS_-Drama_edition- "wikilink")』（配信限定）
+      - 『[A THEME SONGS -Drama edition-](../Page/A_THEME_SONGS_-Drama_edition-.md "wikilink")』（配信限定）
 
 ## 脚注
 

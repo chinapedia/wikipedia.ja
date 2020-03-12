@@ -1,22 +1,22 @@
 > この記事は[ISCSI](https://ja.wikipedia.org/wiki/ISCSI)から翻訳されています。
 
 
-[ISCSI_SAN_example.svg](https://ja.wikipedia.org/wiki/File:ISCSI_SAN_example.svg "fig:ISCSI_SAN_example.svg")  **Internet Small Computer System Interface** (**iSCSI、アイスカジー**) とは、[SCSIプロトコルを](../Page/Small_Computer_System_Interface.md "wikilink")[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")上で使用する規格である。[ファイバーチャネル](../Page/ファイバーチャネル.md "wikilink")よりも安価に[ストレージエリアネットワーク](../Page/ストレージエリアネットワーク.md "wikilink") (SAN) を構築出来る\[1\]。[2003年](../Page/2003年.md "wikilink")2月11日に[IETFによって](../Page/Internet_Engineering_Task_Force.md "wikilink")[RFCとして公表された](../Page/Request_for_Comments.md "wikilink")"公式な規格への提案" (Proposed standard) であり、SCSI-3標準の[トランスポート層](https://ja.wikipedia.org/wiki/トランスポート層 "wikilink")に相当する。[ギガビット・イーサネットが一般化した現在](https://ja.wikipedia.org/wiki/イーサネット#ギガビット・イーサネット "wikilink")、iSCSIベースのSANは十分高速・安価となり検討に値するものとなっている。
+[ISCSI_SAN_example.svg](https://ja.wikipedia.org/wiki/File:ISCSI_SAN_example.svg "fig:ISCSI_SAN_example.svg")  **Internet Small Computer System Interface** (**iSCSI、アイスカジー**) とは、[SCSIプロトコルを](../Page/Small_Computer_System_Interface.md "wikilink")[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")上で使用する規格である。[ファイバーチャネル](../Page/ファイバーチャネル.md "wikilink")よりも安価に[ストレージエリアネットワーク](../Page/ストレージエリアネットワーク.md "wikilink") (SAN) を構築出来る\[1\]。[2003年](../Page/2003年.md "wikilink")2月11日に[IETFによって](../Page/Internet_Engineering_Task_Force.md "wikilink")[RFCとして公表された](../Page/Request_for_Comments.md "wikilink")"公式な規格への提案" (Proposed standard) であり、SCSI-3標準の[トランスポート層](../Page/トランスポート層.md "wikilink")に相当する。[ギガビット・イーサネットが一般化した現在](https://ja.wikipedia.org/wiki/イーサネット#ギガビット・イーサネット "wikilink")、iSCSIベースのSANは十分高速・安価となり検討に値するものとなっている。
 
 ## 特徴
 
-データ転送にTCP/IPを使う。[ストレージエリアネットワーク](../Page/ストレージエリアネットワーク.md "wikilink")(SAN)の基盤である[ファイバーチャネル](../Page/ファイバーチャネル.md "wikilink")と違い汎用な[イーサネット](../Page/イーサネット.md "wikilink")（またはTCP/IPが使用可能なネットワーク）があればよい。SANのコスト/互換性問題なしにメリットを享受できる。TCP/IPの[オーバヘッド](https://ja.wikipedia.org/wiki/オーバヘッド "wikilink")によりファイバーチャネルより性能が悪いという批判もある。しかし、[TCPオフロードエンジン](https://ja.wikipedia.org/wiki/オフロード_\(コンピュータ用語\)#TOE "wikilink") (TOE) のような新技術が影響を緩和する。市場は成長しており、ギガビットイーサネットや[10GbE](https://ja.wikipedia.org/wiki/10GbE "wikilink")の普及に伴い性能・使いやすさが向上している。ベンダーも [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")、SAN製品、ストレージシステムでiSCSIをサポートしてきている。従来のハードワイヤードのSCSIに比べ[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")・[可用性](https://ja.wikipedia.org/wiki/可用性 "wikilink")・[スケーラビリティ](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")に優れている。既存のTCP/IP機材を流用できる優れた可搬性は設計開発段階からベンダーの注目を集めた。プロトコルの完成によってベンダーは直ちに製品を提供した。
+データ転送にTCP/IPを使う。[ストレージエリアネットワーク](../Page/ストレージエリアネットワーク.md "wikilink")(SAN)の基盤である[ファイバーチャネル](../Page/ファイバーチャネル.md "wikilink")と違い汎用な[イーサネット](../Page/イーサネット.md "wikilink")（またはTCP/IPが使用可能なネットワーク）があればよい。SANのコスト/互換性問題なしにメリットを享受できる。TCP/IPの[オーバヘッド](https://ja.wikipedia.org/wiki/オーバヘッド "wikilink")によりファイバーチャネルより性能が悪いという批判もある。しかし、[TCPオフロードエンジン](https://ja.wikipedia.org/wiki/オフロード_\(コンピュータ用語\)#TOE "wikilink") (TOE) のような新技術が影響を緩和する。市場は成長しており、ギガビットイーサネットや[10GbE](https://ja.wikipedia.org/wiki/10GbE "wikilink")の普及に伴い性能・使いやすさが向上している。ベンダーも [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")、SAN製品、ストレージシステムでiSCSIをサポートしてきている。従来のハードワイヤードのSCSIに比べ[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")・[可用性](../Page/可用性.md "wikilink")・[スケーラビリティ](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")に優れている。既存のTCP/IP機材を流用できる優れた可搬性は設計開発段階からベンダーの注目を集めた。プロトコルの完成によってベンダーは直ちに製品を提供した。
 
 ## プロトコル階層
 
 [ISCSI_Layers.gif](https://ja.wikipedia.org/wiki/File:ISCSI_Layers.gif "fig:ISCSI_Layers.gif") 下記の5層から構成される\[2\]。下位から順に、
 
-  - [物理層](https://ja.wikipedia.org/wiki/物理層 "wikilink")、[リンク層](https://ja.wikipedia.org/wiki/データリンク層 "wikilink")
+  - [物理層](../Page/物理層.md "wikilink")、[リンク層](../Page/データリンク層.md "wikilink")
 
 <!-- end list -->
 
   -
-    [IEEE802.3](https://ja.wikipedia.org/wiki/IEEE_802 "wikilink") が使われる。これはイーサネットと同様のLANコネクタや物理現象が利用される事を意味する。[ファイバーチャネル・オーバー・イーサネット](https://ja.wikipedia.org/wiki/ファイバーチャネル・オーバー・イーサネット "wikilink")とは異なり10GbEは必須ではなく1GbEでも良い。
+    [IEEE802.3](../Page/IEEE_802.md "wikilink") が使われる。これはイーサネットと同様のLANコネクタや物理現象が利用される事を意味する。[ファイバーチャネル・オーバー・イーサネット](https://ja.wikipedia.org/wiki/ファイバーチャネル・オーバー・イーサネット "wikilink")とは異なり10GbEは必須ではなく1GbEでも良い。
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
 ## 記憶装置
 
-ホストはiSCSIイニシエータ ([Small Computer System Interface](../Page/Small_Computer_System_Interface.md "wikilink") 参照) をサポートしている必要がある。ホストはこれを使って遠隔にある[ディスクや](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[テープのような対象記憶装置](https://ja.wikipedia.org/wiki/テープドライブ "wikilink") (target) に接続する。ドライバやアプリケーションから見れば記憶装置はローカルにSCSIで接続されているのと同じに見える。ホストやtargetが複数存在する複雑な環境は[ストレージエリアネットワーク](../Page/ストレージエリアネットワーク.md "wikilink")(SAN)となる。iSCSIは[ネットワークアタッチトストレージ](../Page/ネットワークアタッチトストレージ.md "wikilink") (NAS) とは異なる事に留意する。イーサネットを使うという点では共通であるが、NASは複数ホストからの同時アクセスを仲裁するためのソフトウェアを内蔵してファイル共有を行う役割でありiSCSIの目的(ストレージプールの共有)とは異なる。
+ホストはiSCSIイニシエータ ([Small Computer System Interface](../Page/Small_Computer_System_Interface.md "wikilink") 参照) をサポートしている必要がある。ホストはこれを使って遠隔にある[ディスクや](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[テープのような対象記憶装置](../Page/テープドライブ.md "wikilink") (target) に接続する。ドライバやアプリケーションから見れば記憶装置はローカルにSCSIで接続されているのと同じに見える。ホストやtargetが複数存在する複雑な環境は[ストレージエリアネットワーク](../Page/ストレージエリアネットワーク.md "wikilink")(SAN)となる。iSCSIは[ネットワークアタッチトストレージ](../Page/ネットワークアタッチトストレージ.md "wikilink") (NAS) とは異なる事に留意する。イーサネットを使うという点では共通であるが、NASは複数ホストからの同時アクセスを仲裁するためのソフトウェアを内蔵してファイル共有を行う役割でありiSCSIの目的(ストレージプールの共有)とは異なる。
 
 ## サポート状況
 
@@ -68,7 +68,7 @@
 
 | OS名                                                                                                           | リリース時期   | バージョン                                    |
 | ------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- |
-| [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")                                                           | 2002年10月 | AIX 5.2                                  |
+| [AIX](../Page/AIX.md "wikilink")                                                                              | 2002年10月 | AIX 5.2                                  |
 | [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")                                         | 2003年6月  | 2000, XP Pro, 2003, Vista,2008,7,2008 R2 |
 | \! style="text-align:left; background:\#ececec" | [NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink") | 2003年8月  | NetWare 6.5                              |
 | [HP-UX](../Page/HP-UX.md "wikilink")                                                                          | 2003年10月 | HP 11i v1, HP 11i v2                     |
@@ -80,7 +80,7 @@
 
 #### ソフトウェア
 
-  - [Cisco](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink") iSCSI ドライバー - 最初期のソフトウェア iSCSI イニシエータのひとつ。[HP-UX](../Page/HP-UX.md "wikilink"), [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink"), [Linux](../Page/Linux.md "wikilink"), [Solaris](../Page/Solaris.md "wikilink"), [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") NT4/2000 をサポート。 最近ではCisco SAN-OS の名称でファイバーチャネルも含めたSAN全般をサポートする体系に組み込まれている\[5\]。
+  - [Cisco](../Page/シスコシステムズ.md "wikilink") iSCSI ドライバー - 最初期のソフトウェア iSCSI イニシエータのひとつ。[HP-UX](../Page/HP-UX.md "wikilink"), [AIX](../Page/AIX.md "wikilink"), [Linux](../Page/Linux.md "wikilink"), [Solaris](../Page/Solaris.md "wikilink"), [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") NT4/2000 をサポート。 最近ではCisco SAN-OS の名称でファイバーチャネルも含めたSAN全般をサポートする体系に組み込まれている\[5\]。
   - [IBM](../Page/IBM.md "wikilink") iSCSI ソフトウェアイニシエータ for AIX - バージョン 5.2 (2002年10月) から対応
   - [FreeBSD](../Page/FreeBSD.md "wikilink") - バージョン 7.0 (2008年2月) から対応
   - [HP](../Page/ヒューレット・パッカード.md "wikilink") HP-UX iSCSI ソフトウェアイニシエータ\[6\]
@@ -96,7 +96,7 @@
 
 #### ハードウエア
 
-iSCSI[ホストバスアダプタ](https://ja.wikipedia.org/wiki/ホストバスアダプタ "wikilink") (HBA) はそれ自身にiSCSIプロトコルを実装している。OSからはSCSI HBAに見える。TOE [NICを持つものやiSCSI専用処理をオフロード出来るものもある](https://ja.wikipedia.org/wiki/ネットワークカード "wikilink")。遠隔のtargetディスクからOSをブートするために、[NVRAMを搭載しているものもある](../Page/不揮発性メモリ.md "wikilink")。以下のベンダーが主に開発している。
+iSCSI[ホストバスアダプタ](https://ja.wikipedia.org/wiki/ホストバスアダプタ "wikilink") (HBA) はそれ自身にiSCSIプロトコルを実装している。OSからはSCSI HBAに見える。TOE [NICを持つものやiSCSI専用処理をオフロード出来るものもある](../Page/ネットワークカード.md "wikilink")。遠隔のtargetディスクからOSをブートするために、[NVRAMを搭載しているものもある](../Page/不揮発性メモリ.md "wikilink")。以下のベンダーが主に開発している。
 
   - [アダプテック](../Page/アダプテック.md "wikilink")（生産終了）
   - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")
@@ -106,7 +106,7 @@ iSCSI[ホストバスアダプタ](https://ja.wikipedia.org/wiki/ホストバス
 
 ### ターゲット
 
-ディスク製品が主である。[テープドライブ](https://ja.wikipedia.org/wiki/テープドライブ "wikilink")や[テープライブラリ](https://ja.wikipedia.org/wiki/テープライブラリ "wikilink")にも需要があるが、今のところサポートしている製品は限られている\[11\]。代わりに並列パラレルSCSIやファイバーチャネルを持つ装置にテープとiSCSIターゲットソフトウェアを搭載した製品がある。ターゲットは[仮想化](../Page/仮想化.md "wikilink")できる可能性がある。[仮想テープライブラリ](https://ja.wikipedia.org/wiki/テープライブラリ#仮想テープライブラリ "wikilink") (VTL) のように外から見えるターゲットの種別とは全く関係なく、内部の構造を自由に実装できる。仮想ターゲットでも装置筐体内で専用コントローラやソフトウェアを使う事で、iSCSIターゲットとして見せかける事が出来る。
+ディスク製品が主である。[テープドライブ](../Page/テープドライブ.md "wikilink")や[テープライブラリ](https://ja.wikipedia.org/wiki/テープライブラリ "wikilink")にも需要があるが、今のところサポートしている製品は限られている\[11\]。代わりに並列パラレルSCSIやファイバーチャネルを持つ装置にテープとiSCSIターゲットソフトウェアを搭載した製品がある。ターゲットは[仮想化](../Page/仮想化.md "wikilink")できる可能性がある。[仮想テープライブラリ](https://ja.wikipedia.org/wiki/テープライブラリ#仮想テープライブラリ "wikilink") (VTL) のように外から見えるターゲットの種別とは全く関係なく、内部の構造を自由に実装できる。仮想ターゲットでも装置筐体内で専用コントローラやソフトウェアを使う事で、iSCSIターゲットとして見せかける事が出来る。
 
 #### ソフトウェア
 
@@ -116,7 +116,7 @@ iSCSI[ホストバスアダプタ](https://ja.wikipedia.org/wiki/ホストバス
   - Linux
       - [LIO](http://www.linux-iscsi.org/) - Linux open source iSCSI target, kernel ≥2.6.37
       - [iSCSI Enterprise Target](http://iscsitarget.sourceforge.net/) - オープンソースの iSCSIターゲット実装（Linux用）
-      - [iSCSI_Tape](http://sourceforge.net/projects/iscsitape/) - iSCSIターゲットの仮想[テープドライブ](https://ja.wikipedia.org/wiki/テープドライブ "wikilink")
+      - [iSCSI_Tape](http://sourceforge.net/projects/iscsitape/) - iSCSIターゲットの仮想[テープドライブ](../Page/テープドライブ.md "wikilink")
       - [Linux SCSI target framework](http://stgt.sourceforge.net/)
       - [Generic SCSI Target Subsystem for Linux](http://scst.sourceforge.net/)
       - [MayaStor](http://www.pavitrasoft.com/products/mayastor.html)

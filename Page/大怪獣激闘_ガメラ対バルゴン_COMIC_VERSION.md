@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")公開の『[ガメラ 大怪獣空中決戦](https://ja.wikipedia.org/wiki/ガメラ_大怪獣空中決戦 "wikilink")』に感動した近藤が、当時の[角川書店](../Page/角川書店.md "wikilink")の編集員に「[ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")の漫画を描きたい」と打診したところ、了承を得られたために執筆活動が始まった\[2\]。しかし、当時の近藤は連載中の作品（『[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")0079』など）を優先せざるを得なかったうえ、アシスタントを使わなかった\[3\]ために作業はなかなか進まず、[1999年](../Page/1999年.md "wikilink")に『[ガメラ3 邪神〈イリス〉覚醒](https://ja.wikipedia.org/wiki/ガメラ3_邪神覚醒 "wikilink")』の公開が終了してもなお、完成しなかった。「[映画](../Page/映画.md "wikilink")化に合わせての漫画化した物ではなく、『[ガメラ2 レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")』と『ガメラ3 邪神〈イリス〉覚醒』との間に位置するストーリーとしながらも、あくまで独立した作品との考えがあった」と語っている。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")公開の『[ガメラ 大怪獣空中決戦](../Page/ガメラ_大怪獣空中決戦.md "wikilink")』に感動した近藤が、当時の[角川書店](../Page/角川書店.md "wikilink")の編集員に「[ガメラ](../Page/ガメラ.md "wikilink")の漫画を描きたい」と打診したところ、了承を得られたために執筆活動が始まった\[2\]。しかし、当時の近藤は連載中の作品（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")0079』など）を優先せざるを得なかったうえ、アシスタントを使わなかった\[3\]ために作業はなかなか進まず、[1999年](../Page/1999年.md "wikilink")に『[ガメラ3 邪神〈イリス〉覚醒](../Page/ガメラ3_邪神覚醒.md "wikilink")』の公開が終了してもなお、完成しなかった。「[映画](../Page/映画.md "wikilink")化に合わせての漫画化した物ではなく、『[ガメラ2 レギオン襲来](../Page/ガメラ2_レギオン襲来.md "wikilink")』と『ガメラ3 邪神〈イリス〉覚醒』との間に位置するストーリーとしながらも、あくまで独立した作品との考えがあった」と語っている。
 
-『大怪獣決闘 ガメラ対バルゴン』については「思い入れのある作品」と語っており、ストーリーやムードを残しつつ、現代的にアレンジしている\[4\]。しかし、本作では[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")が健在であったり\[5\]、[自衛隊](../Page/自衛隊.md "wikilink")の装備品が一部旧装備であるなど、[平成ガメラシリーズの世界観](https://ja.wikipedia.org/wiki/ガメラ "wikilink")（や現実）との相違点が見られる。
+『大怪獣決闘 ガメラ対バルゴン』については「思い入れのある作品」と語っており、ストーリーやムードを残しつつ、現代的にアレンジしている\[4\]。しかし、本作では[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")が健在であったり\[5\]、[自衛隊](../Page/自衛隊.md "wikilink")の装備品が一部旧装備であるなど、[平成ガメラシリーズの世界観](../Page/ガメラ.md "wikilink")（や現実）との相違点が見られる。
 
-著者の「あとがき」に加え、[樋口真嗣](https://ja.wikipedia.org/wiki/樋口真嗣 "wikilink")（平成ガメラシリーズ特撮監督）へのインタビュー（「樋口真嗣監督の激烈特撮トーク」）も収録されている。
+著者の「あとがき」に加え、[樋口真嗣](../Page/樋口真嗣.md "wikilink")（平成ガメラシリーズ特撮監督）へのインタビュー（「樋口真嗣監督の激烈特撮トーク」）も収録されている。
 
 ### 樋口真嗣監督の激烈特撮トーク
 
@@ -19,13 +19,13 @@
 
 ## あらすじ
 
-パイロットの開田、宝石商の井上、学者の下丸子は、[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")近くの島で、バルゴンの[骨](../Page/骨.md "wikilink")と大量の[宝石](../Page/宝石.md "wikilink")を発見する。しかし、骨の[頭部](https://ja.wikipedia.org/wiki/頭部 "wikilink")から滴り落ちてきた巨大な[オパール](../Page/オパール.md "wikilink")を巡って奪い合いになり、井上は下丸子博士を射殺してしまう。開田も突如起きた[地震](../Page/地震.md "wikilink")と浸水で流されてしまい、井上は一人で島を脱出したが、手に入れた巨大オパールは、実はバルゴンの[卵](../Page/卵.md "wikilink")だった。
+パイロットの開田、宝石商の井上、学者の下丸子は、[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")近くの島で、バルゴンの[骨](../Page/骨.md "wikilink")と大量の[宝石](../Page/宝石.md "wikilink")を発見する。しかし、骨の[頭部](../Page/頭部.md "wikilink")から滴り落ちてきた巨大な[オパール](../Page/オパール.md "wikilink")を巡って奪い合いになり、井上は下丸子博士を射殺してしまう。開田も突如起きた[地震](../Page/地震.md "wikilink")と浸水で流されてしまい、井上は一人で島を脱出したが、手に入れた巨大オパールは、実はバルゴンの[卵](../Page/卵.md "wikilink")だった。
 
 日本へ向かう船上でバルゴンは孵化し、井上を餌食にした後、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")葉山に上陸する\[7\]。一方、開田はアヤという少女に助けられて一命を取りとめ、バルゴンを退治すべく、アヤと共に日本へ向かう。切り札となる「バルゴンの魂」を持って。
 
 ## 登場怪獣
 
-  - [ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")
+  - [ガメラ](../Page/ガメラ.md "wikilink")
     レギオンを倒した後、人間の前から去っていたが、バルゴンの存在を感知し、戦いに赴く。
   - バルゴン
     [ワニ](../Page/ワニ.md "wikilink")のようだったオリジナルに対して、本作ではどちらかと言えば[イグアナ](https://ja.wikipedia.org/wiki/イグアナ "wikilink")に近い形態となっており、デザインは異なっている（頭部には左右に1本ずつ、計2本の角がある。頭頂部に紅い宝石状の結晶体を有し、全身からは輝く棘を生やしている）。
@@ -35,7 +35,7 @@
   - [ギャオス](../Page/ギャオス.md "wikilink")
     米軍の[F/A-18](https://ja.wikipedia.org/wiki/F/A-18 "wikilink")を襲うが、海中より出現したガメラに羽を喰いちぎられて倒される\[10\]。
   - [レギオン](../Page/レギオン_\(架空の怪獣\).md "wikilink")
-    冒頭のみ登場（『[ガメラ2 レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")』のラストシーンとして\[11\]）。
+    冒頭のみ登場（『[ガメラ2 レギオン襲来](../Page/ガメラ2_レギオン襲来.md "wikilink")』のラストシーンとして\[11\]）。
 
 この他、作中のイメージシーンでジャイガー、ジグラ、イリスらしき怪獣が登場する\[12\]。
 
@@ -52,7 +52,7 @@
   - 下丸子
     半生をかけてバルゴンを研究している学者。巨大オパール（バルゴンの卵）を巡って井上と争いになり、死亡。
   - 穂波碧
-    『[ガメラ2 レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")』のヒロイン。序盤のシーン（『ガメラ2』のラストシーン）に登場\[15\]。
+    『[ガメラ2 レギオン襲来](../Page/ガメラ2_レギオン襲来.md "wikilink")』のヒロイン。序盤のシーン（『ガメラ2』のラストシーン）に登場\[15\]。
   - 帯津
     同じく、『ガメラ2』のキャラクター。序盤にのみ登場\[16\]。
 
@@ -63,10 +63,10 @@
 <!-- end list -->
 
   - [90式戦車](../Page/90式戦車.md "wikilink")
-  - [87式偵察警戒車](https://ja.wikipedia.org/wiki/87式偵察警戒車 "wikilink")
-  - [82式指揮通信車](https://ja.wikipedia.org/wiki/82式指揮通信車 "wikilink")
-  - [73式中型トラック](https://ja.wikipedia.org/wiki/73式中型トラック "wikilink")
-  - [73式小型トラック](https://ja.wikipedia.org/wiki/73式小型トラック "wikilink")（旧式）
+  - [87式偵察警戒車](../Page/87式偵察警戒車.md "wikilink")
+  - [82式指揮通信車](../Page/82式指揮通信車.md "wikilink")
+  - [73式中型トラック](../Page/73式中型トラック.md "wikilink")
+  - [73式小型トラック](../Page/73式小型トラック.md "wikilink")（旧式）
   - [偵察用オートバイ](https://ja.wikipedia.org/wiki/偵察用オートバイ "wikilink")
   - [こんごう型護衛艦](../Page/こんごう型護衛艦.md "wikilink")「[きりしま](../Page/きりしま_\(護衛艦\).md "wikilink")」
   - [しらね型護衛艦](https://ja.wikipedia.org/wiki/しらね型護衛艦 "wikilink")「[しらね](../Page/しらね_\(護衛艦\).md "wikilink")」
@@ -74,7 +74,7 @@
   - [F-1](../Page/F-1_\(航空機\).md "wikilink")[支援戦闘機](../Page/支援戦闘機.md "wikilink")
   - [AH-1S](https://ja.wikipedia.org/wiki/AH-1S "wikilink")[対戦車ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")
   - [UH-1J](https://ja.wikipedia.org/wiki/UH-1_\(航空機\)#日本での展開 "wikilink")[多用途ヘリコプター](https://ja.wikipedia.org/wiki/汎用ヘリコプター "wikilink")
-  - [SH-60J](https://ja.wikipedia.org/wiki/SH-60J_\(航空機\) "wikilink")[哨戒ヘリコプター](https://ja.wikipedia.org/wiki/対潜哨戒機#哨戒ヘリコプター "wikilink")
+  - [SH-60J](../Page/SH-60J_\(航空機\).md "wikilink")[哨戒ヘリコプター](https://ja.wikipedia.org/wiki/対潜哨戒機#哨戒ヘリコプター "wikilink")
   - [OH-6D](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")[観測ヘリコプター](../Page/偵察機.md "wikilink")
   - [89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")
   - [コルト・ガバメント](https://ja.wikipedia.org/wiki/コルト・ガバメント "wikilink")
@@ -97,7 +97,7 @@
 
 <!-- end list -->
 
-  - [キティホーク級航空母艦](../Page/キティホーク級航空母艦.md "wikilink")「[キティホーク](https://ja.wikipedia.org/wiki/キティホーク_\(空母\) "wikilink")」
+  - [キティホーク級航空母艦](../Page/キティホーク級航空母艦.md "wikilink")「[キティホーク](../Page/キティホーク_\(空母\).md "wikilink")」
   - [F/A-18](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")[戦闘攻撃機](https://ja.wikipedia.org/wiki/戦闘攻撃機 "wikilink")
 
 ## 出典

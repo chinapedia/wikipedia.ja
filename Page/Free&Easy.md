@@ -5,22 +5,22 @@
 
 ## 解説
 
-前作「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」より約1ヶ月半振りのリリースとなった本作は、浜崎あゆみの初の[CCCD](../Page/コピーコントロールCD.md "wikilink")。CCCDで[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した初の作品であり、オリコンシングルチャート通算800作目の第1位獲得作品\[1\]でもある。初回盤CDのみ、ピクチャーレーベル仕様であった。
+前作「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」より約1ヶ月半振りのリリースとなった本作は、浜崎あゆみの初の[CCCD](../Page/コピーコントロールCD.md "wikilink")。CCCDで[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した初の作品であり、オリコンシングルチャート通算800作目の第1位獲得作品\[1\]でもある。初回盤CDのみ、ピクチャーレーベル仕様であった。
 
-雑誌『Free & Easy』とのコラボレーション作品であり、同雑誌の2002年5月号別冊『浜崎共和国』と同日発売\[2\]。ジャケットや[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は[ジャンヌ・ダルク](../Page/ジャンヌ・ダルク.md "wikilink")がモチーフとなっている。
+雑誌『Free & Easy』とのコラボレーション作品であり、同雑誌の2002年5月号別冊『浜崎共和国』と同日発売\[2\]。ジャケットや[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[ジャンヌ・ダルク](../Page/ジャンヌ・ダルク.md "wikilink")がモチーフとなっている。
 
 本作以降、シングルに表題曲や過去の楽曲の[リミックス](../Page/リミックス.md "wikilink")バージョンが多数収録されるという傾向は無くなった。
 
-この曲で[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")が[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")の編曲賞を受賞した\[3\]。
+この曲で[HΛL](../Page/HΛL.md "wikilink")が[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")の編曲賞を受賞した\[3\]。
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **Free & Easy "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") MDステレオシステム「PM57MD」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") MDステレオシステム「PM57MD」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **[Naturally](../Page/I_am....md "wikilink") "dolly remix"**
       -
         [コーセー](../Page/コーセー.md "wikilink")「VISÉE（ヴィセ） ドーリーメイク編」TV-CFソング

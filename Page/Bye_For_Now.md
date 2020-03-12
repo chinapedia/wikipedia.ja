@@ -1,23 +1,23 @@
 > この記事は[Bye For Now](https://ja.wikipedia.org/wiki/Bye_For_Now)から翻訳されています。
 
 
-「**Bye For Now**」（バイ・フォー・ナウ）は、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Bye For Now**」（バイ・フォー・ナウ）は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 内容
 
-オリコンシングルチャート3週連続2位を記録（そのときの3週連続1位は[稲垣潤一](https://ja.wikipedia.org/wiki/稲垣潤一 "wikilink")「[クリスマスキャロルの頃には](https://ja.wikipedia.org/wiki/クリスマスキャロルの頃には "wikilink")」）。ロングヒットを続けT-BOLAN初の、シングルでは唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")（日本レコード協会認定及びオリコン）を記録した。
+オリコンシングルチャート3週連続2位を記録（そのときの3週連続1位は[稲垣潤一](../Page/稲垣潤一.md "wikilink")「[クリスマスキャロルの頃には](../Page/クリスマスキャロルの頃には.md "wikilink")」）。ロングヒットを続けT-BOLAN初の、シングルでは唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")（日本レコード協会認定及びオリコン）を記録した。
 
 曲の構造はAメロ、Bメロ、サビのパターンや曲中での配置の仕方が、一般の曲([トゥーハーフ](https://ja.wikipedia.org/wiki/トゥーハーフ "wikilink"))とは違うものとなっている。 サウンドとしては共同編曲者の明石昌夫が得意とする[オーケストラ・ヒット](https://ja.wikipedia.org/wiki/オーケストラ・ヒット "wikilink")の音色がインパクトを与えている。
 
-恋人への別れの曲に思われるが、実は[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")へ旅立つ信頼していたスタッフへ贈られた曲である。
+恋人への別れの曲に思われるが、実は[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ旅立つ信頼していたスタッフへ贈られた曲である。
 
-[関西テレビ](../Page/関西テレビ放送.md "wikilink")･[フジテレビ系月曜サスペンスシリーズ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ウーマンドリーム](https://ja.wikipedia.org/wiki/ウーマンドリーム "wikilink")」主題歌。[ZAIN RECORDS移籍第](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")1弾シングル。
+[関西テレビ](../Page/関西テレビ放送.md "wikilink")･[フジテレビ系月曜サスペンスシリーズ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ウーマンドリーム](../Page/ウーマンドリーム.md "wikilink")」主題歌。[ZAIN RECORDS移籍第](../Page/ZAIN_RECORDS.md "wikilink")1弾シングル。
 
 ## 収録曲
 
 1.  **Bye For Now**
       -
-        作詞･作曲:[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink") 編曲:T-BOLAN･[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞･作曲:[森友嵐士](../Page/森友嵐士.md "wikilink") 編曲:T-BOLAN･[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **鏡の中の嘘が微笑むよ**
       -
         作詞･作曲:森友嵐士 編曲:T-BOLAN･明石昌夫
@@ -36,8 +36,8 @@
 ### コンピレーションアルバム
 
   - [ウーマンドリーム ORIGINAL SOUNDTRACK](../Page/ウーマンドリーム_\(アルバム\).md "wikilink")(\#1)
-  - [COUNTDOWN BEING](https://ja.wikipedia.org/wiki/COUNTDOWN_BEING "wikilink") (\#1)
-  - [FUN Greatest Hits of 90's](https://ja.wikipedia.org/wiki/FUN_Greatest_Hits_of_90's "wikilink") (\#1)
+  - [COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink") (\#1)
+  - [FUN Greatest Hits of 90's](../Page/FUN_Greatest_Hits_of_90's.md "wikilink") (\#1)
 
 ## ゲストコーラス
 

@@ -8,7 +8,7 @@
   - [怜](https://ja.wikipedia.org/wiki/兒玉怜 "wikilink")（りょう）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       -
         [1982年](../Page/1982年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")生まれ
-        [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[青梅市](../Page/青梅市.md "wikilink")出身
+        [東京都](../Page/東京都.md "wikilink")[青梅市](../Page/青梅市.md "wikilink")出身
         本名：兒玉龍（こだま りょう）
         別名：怜～れん～（第１期）、兒玉怜（第２期での作詞、書籍執筆名義）
         [BAROQUEのボーカルとして活動中](https://ja.wikipedia.org/wiki/baroque "wikilink")
@@ -19,10 +19,10 @@
         本名：濱田圭（はまだ けい）
         別名：K（第１期）、濱田圭（第２期での作曲名義）
         [BAROQUEのギターとして活動中](https://ja.wikipedia.org/wiki/baroque "wikilink")
-  - 裕地（ゆち）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 裕地（ゆち）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       -
         [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")生まれ
-        [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")出身
+        [千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")出身
         本名：富山忠春（とみやま ただはる）
         別名：8342（第１期）、富山裕地（第２期での作曲名義）
         「YUCHI」名義で[sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")のベースとして活動中
@@ -43,17 +43,17 @@
 
 2001年初頭に怜、K、8342、桐の４人体制で活動を開始。メンバー全員が10代（最年少のKは16歳）という話題性や、当時新興ブランドであった[h.NAOTO](https://ja.wikipedia.org/wiki/h.NAOTO "wikilink")の広告モデルとしても活動を行い、のちに[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")シーンで「オサレ系」と呼ばれるバンドを多く生む怜の独自のファッション性などで急速に人気を得るが\[1\]、2001年6月20日、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")でのワンマンライブをもって解散。シングル「逝ってキマス。」が唯一の音源として発表されている。
 
-その後、怜～れん～は怜、Kは圭へ名義を変更し、2001年夏[バロックへ加入](https://ja.wikipedia.org/wiki/baroque "wikilink")。8342はk@mikazeのメンバーとして活動し、k@mikaze脱退後はゆちのすけ等の名義で[雅-miyavi-のサポートベースなど各所で活動](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")。桐はポロリのメンバーとして活動後、2005年に[heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")を結成、活動中。
+その後、怜～れん～は怜、Kは圭へ名義を変更し、2001年夏[バロックへ加入](https://ja.wikipedia.org/wiki/baroque "wikilink")。8342はk@mikazeのメンバーとして活動し、k@mikaze脱退後はゆちのすけ等の名義で[雅-miyavi-のサポートベースなど各所で活動](../Page/MIYAVI.md "wikilink")。桐はポロリのメンバーとして活動後、2005年に[heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")を結成、活動中。
 
 ### 第２期
 
 怜と圭の所属した[baroque](https://ja.wikipedia.org/wiki/baroque "wikilink")が2004年12月25日、[Zepp Tokyoのライブをもって解散](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")。その１年後の2005年12月25日、新設されたkannivalism公式HPにおいて怜、圭、裕地の３人体制でkannivalismとして活動を開始することを発表。
 
-2006年4月26日、自身のインディーズレーベルよりミニアルバム「奏功humority」のリリースを経て、9月27日、[avex traxよりシングル](https://ja.wikipedia.org/wiki/avex_trax "wikilink")「リトリ」をリリースし、メジャーデビュー。精力的に活動を行っていたが、怜の[適応障害](https://ja.wikipedia.org/wiki/適応障害 "wikilink")による入院のため、2008年1月に活動を一時休止\[2\]。
+2006年4月26日、自身のインディーズレーベルよりミニアルバム「奏功humority」のリリースを経て、9月27日、[avex traxよりシングル](https://ja.wikipedia.org/wiki/avex_trax "wikilink")「リトリ」をリリースし、メジャーデビュー。精力的に活動を行っていたが、怜の[適応障害](../Page/適応障害.md "wikilink")による入院のため、2008年1月に活動を一時休止\[2\]。
 
 2009年8月25日よりドラムとして光也が加入し４人体制で活動再開。同年11月18日にシングル「life is.」をリリース、12月25日には[Zepp Tokyoでの復活ライブを行い](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、2010年3月17日に2ndアルバム「helios」をリリースするが、「helios」レコーディング以降は光也はライブの欠席が増え、１年未満で脱退\[3\]。ふたたび３人体制に戻る。
 
-2011年4月以降はバンドとして表立った活動はなく、事実上の活動休止状態となっており、怜と圭は2011年より再結成した[BAROQUE](https://ja.wikipedia.org/wiki/baroque "wikilink")、裕地は2013年より[DIR EN GREYの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[京率いる](../Page/京_\(ミュージシャン\).md "wikilink")[sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")で活動している。
+2011年4月以降はバンドとして表立った活動はなく、事実上の活動休止状態となっており、怜と圭は2011年より再結成した[BAROQUE](https://ja.wikipedia.org/wiki/baroque "wikilink")、裕地は2013年より[DIR EN GREYの](../Page/DIR_EN_GREY.md "wikilink")[京率いる](../Page/京_\(ミュージシャン\).md "wikilink")[sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")で活動している。
 
 2017年11月22日に開催された[ken](https://ja.wikipedia.org/wiki/ken "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）主催のイベント「PARTY ZOO」にて、kannivalismとして３人体制で約７年ぶりの１日復活ライブを行った\[4\]。また、2019年1月14日、所属事務所である[FWDの主催イベント](../Page/フリーウィル.md "wikilink")「Free-Will SLUM」にて３人体制での出演を発表している\[5\]。
 
@@ -133,7 +133,7 @@ AVCD-31227:通常盤</p></td>
 <ol>
 <li>Home Sick</li>
 </ol></td>
-<td><p>オリコンチャート初登場9位。「Home Sick」は<a href="https://ja.wikipedia.org/wiki/ROUAGE" title="wikilink">ROUAGE</a>の同名曲のカバー</p></td>
+<td><p>オリコンチャート初登場9位。「Home Sick」は<a href="../Page/ROUAGE.md" title="wikilink">ROUAGE</a>の同名曲のカバー</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
@@ -509,16 +509,16 @@ AVCD-38043:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>ストイックボーイ</p></td>
-<td><p>TBS系『<a href="https://ja.wikipedia.org/wiki/激あま〜い" title="wikilink">激あま〜い</a>』2006年4月-5月度オープニングテーマ</p></td>
+<td><p>TBS系『<a href="../Page/激あま〜い.md" title="wikilink">激あま〜い</a>』2006年4月-5月度オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>リトリ</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="https://ja.wikipedia.org/wiki/ツボ屋与兵衛" title="wikilink">ツボ屋与兵衛</a>』2006年9月度エンディングテーマ<br />
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="../Page/ツボ屋与兵衛.md" title="wikilink">ツボ屋与兵衛</a>』2006年9月度エンディングテーマ<br />
 music.jp TVCFソング</p></td>
 </tr>
 <tr class="even">
 <td><p>ホシの夜</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="https://ja.wikipedia.org/wiki/恋愛部活" title="wikilink">恋愛部活</a>(ラブカツ)』2007年1月度エンディングテーマ</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="../Page/恋愛部活.md" title="wikilink">恋愛部活</a>(ラブカツ)』2007年1月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>モノクローム</p></td>
@@ -529,25 +529,25 @@ music.jp TVCFソング</p></td>
 
 ## 主なライブなど
 
-| 開催日                  | 公演名                                                                               | 備考                                                                                     |
-| -------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2005年12月31日          |                                                                                   | HOLIDAY NAGOYA、HOLIDAY SHINJYUKUにてシークレット出演                                             |
-| 2006年3月5日            | independence-D 2006                                                               | [新木場STUDIO COASTにて公式初ライブ](../Page/STUDIO_COAST.md "wikilink")                          |
-| 2006年5月27日           | 黒諧謔 ブラック・ユーモアリティ                                                                  | [CLUB CITTA'川崎での初ワンマンライブ](../Page/CLUB_CITTA'.md "wikilink")                           |
-| 2006年8月2日            | S'CUBER DIVE〜渋谷が大変〜                                                               | [渋谷O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")                    |
-| 2006年12月14日 - 12月27日 |                                                                                   | デビューシングル「リトリ」発売記念無料東名阪ライブ                                                              |
-| 2007年3月11日 - 5月13日   | TOUR2007 APPLE CHING★PO-PO                                                        | ワンマンツアー                                                                                |
-| 2007年8月4日 - 9月17日    | TOUR07 APPLE CHING★PO-PO Episod II                                                | ワンマンツアー                                                                                |
-| 2009年12月26日          | syncretism                                                                        | [Zepp Tokyoでの復活ワンマンライブ](https://ja.wikipedia.org/wiki/Zepp "wikilink")                 |
-| 2010年3月30日           | she said,under the helios.                                                        | [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")でのワンマンライブ                   |
-| 2010年4月1日            | concept live vol.1                                                                | [目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")での第１期kannivalismメンバーによるコンセプトライブ |
-| 2010年4月29日 - 5月5日    | EXTRA-TERRITORIAL                                                                 | 主催イベントツアー                                                                              |
-| 2010年8月23日           | the other side of the love                                                        | [渋谷C.C.Lemonホールでのワンマンライブ](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")              |
-| 2010年12月9日 - 12月28日  | TOUR reincarnation of helios                                                      | ワンマンツアー                                                                                |
-| 2010年12月29日          | [COUNTDOWN JAPAN 10/11](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") | [幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場1～8ホール、イベントホール                                |
-| 2011年1月28日 - 01月30日  | ポルノ超特急                                                                            |                                                                                        |
-| 2017年11月22日          | PARTY ZOO                                                                         | [Zepp Tokyoでの](https://ja.wikipedia.org/wiki/Zepp "wikilink")１日復活ライブ                   |
-| 2019年1月14日           | Free-Will SLUM                                                                    | [新木場STUDIO COASTでの](../Page/STUDIO_COAST.md "wikilink")１日復活ライブ                         |
+| 開催日                  | 公演名                                                            | 備考                                                                                     |
+| -------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 2005年12月31日          |                                                                | HOLIDAY NAGOYA、HOLIDAY SHINJYUKUにてシークレット出演                                             |
+| 2006年3月5日            | independence-D 2006                                            | [新木場STUDIO COASTにて公式初ライブ](../Page/STUDIO_COAST.md "wikilink")                          |
+| 2006年5月27日           | 黒諧謔 ブラック・ユーモアリティ                                               | [CLUB CITTA'川崎での初ワンマンライブ](../Page/CLUB_CITTA'.md "wikilink")                           |
+| 2006年8月2日            | S'CUBER DIVE〜渋谷が大変〜                                            | [渋谷O-EAST](../Page/Shibuya_O-EAST.md "wikilink")                                       |
+| 2006年12月14日 - 12月27日 |                                                                | デビューシングル「リトリ」発売記念無料東名阪ライブ                                                              |
+| 2007年3月11日 - 5月13日   | TOUR2007 APPLE CHING★PO-PO                                     | ワンマンツアー                                                                                |
+| 2007年8月4日 - 9月17日    | TOUR07 APPLE CHING★PO-PO Episod II                             | ワンマンツアー                                                                                |
+| 2009年12月26日          | syncretism                                                     | [Zepp Tokyoでの復活ワンマンライブ](../Page/Zepp.md "wikilink")                                    |
+| 2010年3月30日           | she said,under the helios.                                     | [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")でのワンマンライブ                                      |
+| 2010年4月1日            | concept live vol.1                                             | [目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")での第１期kannivalismメンバーによるコンセプトライブ |
+| 2010年4月29日 - 5月5日    | EXTRA-TERRITORIAL                                              | 主催イベントツアー                                                                              |
+| 2010年8月23日           | the other side of the love                                     | [渋谷C.C.Lemonホールでのワンマンライブ](../Page/渋谷公会堂.md "wikilink")                                 |
+| 2010年12月9日 - 12月28日  | TOUR reincarnation of helios                                   | ワンマンツアー                                                                                |
+| 2010年12月29日          | [COUNTDOWN JAPAN 10/11](../Page/COUNTDOWN_JAPAN.md "wikilink") | [幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場1～8ホール、イベントホール                                |
+| 2011年1月28日 - 01月30日  | ポルノ超特急                                                         |                                                                                        |
+| 2017年11月22日          | PARTY ZOO                                                      | [Zepp Tokyoでの](../Page/Zepp.md "wikilink")１日復活ライブ                                      |
+| 2019年1月14日           | Free-Will SLUM                                                 | [新木場STUDIO COASTでの](../Page/STUDIO_COAST.md "wikilink")１日復活ライブ                         |
 
 ## 脚注
 

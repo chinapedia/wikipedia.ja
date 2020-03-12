@@ -1,17 +1,17 @@
 > この記事は[Foo\?](https://ja.wikipedia.org/wiki/Foo\?)から翻訳されています。
 
 
-『**foo?**』（フー?）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の2作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
+『**foo?**』（フー?）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の2作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
 
 ## 概要
 
   - ジャケット写真はピンクの四角いタイル。
   - アルバムタイトルは、セカンドアルバムなので｢[ひぃふぅみぃ（一二三）](https://ja.wikipedia.org/wiki/命数法#ひふみ詞 "wikilink")｣の｢ふぅ｣から取ったものだが、一息着いたということでため息の「ふぅ」、英語の「Who?（誰?）」も掛けている。
   - ジャケットのタイルに映っている影は、本間昭光がTwitterで、「[さっきスタジオで話してて意外とみんな気付いてなかったんだけど、 肩から白いタオルを掛けたtamaちゃんが映ってるんよ。 このピンクのタイルには](https://twitter.com/akimitsuhomma/status/1041658203103092736)」との事で、Tamaが映っている。
-  - 2000年のシングル3曲（「[ミュージック・アワー](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")」、「[サウダージ](https://ja.wikipedia.org/wiki/サウダージ_\(曲\) "wikilink")」、「[サボテン](https://ja.wikipedia.org/wiki/サボテン_\(ポルノグラフィティの曲\) "wikilink")」）を収録。なお｢ミュージック・アワー｣と「サウダージ」はアルバムバージョンとしての収録となっている。
+  - 2000年のシングル3曲（「[ミュージック・アワー](../Page/ミュージック・アワー.md "wikilink")」、「[サウダージ](../Page/サウダージ_\(曲\).md "wikilink")」、「[サボテン](../Page/サボテン_\(ポルノグラフィティの曲\).md "wikilink")」）を収録。なお｢ミュージック・アワー｣と「サウダージ」はアルバムバージョンとしての収録となっている。
   - メンバー曰く『[ロマンチスト・エゴイスト](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")』はインディーズの時の曲も入っており時間がかかった作品だが、『foo?』は『ロマンチスト・エゴイスト』ほど時間はかからなかった。
-  - 発売当時は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（[SME Recordsレーベル](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")）より発売。後に発売元は[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")を経て、エスエムイーレコーズ（SME Records）へ移行している。
-  - ブックレットの最後のページには（[岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")、[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")、[白玉雅己](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")）とクレジットされている。
+  - 発売当時は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（[SME Recordsレーベル](../Page/エスエムイーレコーズ.md "wikilink")）より発売。後に発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")を経て、エスエムイーレコーズ（SME Records）へ移行している。
+  - ブックレットの最後のページには（[岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")、[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")、[白玉雅己](../Page/Tama_\(ベーシスト\).md "wikilink")）とクレジットされている。
 
 ## 収録曲
 
@@ -23,10 +23,10 @@
       - 作詞：ハルイチ / 作曲：シラタマ
     <!-- end list -->
       -
-        作詞した時点では、晴一は[グァバジュースを飲んだことがなかったため甘いことを強調している](https://ja.wikipedia.org/wiki/グアバ "wikilink")が、実際すっぱいグァバも存在する。
-        アルバムタイトルは、この曲の[コーラスのことだと思ってもらってもいいと晴一が語っている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。シングル「[アポロ](https://ja.wikipedia.org/wiki/アポロ_\(曲\) "wikilink")」でデビューする前から披露されていた。
+        作詞した時点では、晴一は[グァバジュースを飲んだことがなかったため甘いことを強調している](../Page/グアバ.md "wikilink")が、実際すっぱいグァバも存在する。
+        アルバムタイトルは、この曲の[コーラスのことだと思ってもらってもいいと晴一が語っている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。シングル「[アポロ](../Page/アポロ_\(曲\).md "wikilink")」でデビューする前から披露されていた。
         近年のライヴでは『東京ロマンスポルノ'09　～愛と青春の日々～』で演奏された。\[1\]
-3.  **[サウダージ <small>"D" tour style</small>](https://ja.wikipedia.org/wiki/サウダージ_\(曲\) "wikilink")**
+3.  **[サウダージ <small>"D" tour style</small>](../Page/サウダージ_\(曲\).md "wikilink")**
       - 作詞：ハルイチ / 作曲：ak.homma
     <!-- end list -->
       -
@@ -45,7 +45,7 @@
         アルバム発売時の[3月2日](../Page/3月2日.md "wikilink")に『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも歌われた。その際、歌詞の｢**赤い**空｣を間違えて「**青い**空」と歌っている。\[2\]
         ベスト盤に収録された。
         本アルバムのオリジナル曲の中では、ライヴで演奏される回数が比較的多い。\[3\]
-6.  **[サボテン](https://ja.wikipedia.org/wiki/サボテン_\(ポルノグラフィティの曲\) "wikilink")**
+6.  **[サボテン](../Page/サボテン_\(ポルノグラフィティの曲\).md "wikilink")**
       - 作詞：ハルイチ / 作曲：シラタマ
     <!-- end list -->
       -
@@ -61,9 +61,9 @@
     <!-- end list -->
       -
         晴一の父親が亡くなった時期に作られた。「春光」は「しゅんこう」と読む。\[4\]
-        一連の「デッサン」シリーズは、アルバムごとに作られるのではなく、事実を基にしているので、「デッサン」となるだけの事実がなければ制作されない。『[雲をも摑む民](https://ja.wikipedia.org/wiki/雲をも掴む民 "wikilink")』で一回休み\[5\]、『[WORLDILLIA](https://ja.wikipedia.org/wiki/WORLDILLIA "wikilink")』以降途絶えているのもこのため。
+        一連の「デッサン」シリーズは、アルバムごとに作られるのではなく、事実を基にしているので、「デッサン」となるだけの事実がなければ制作されない。『[雲をも摑む民](../Page/雲をも掴む民.md "wikilink")』で一回休み\[5\]、『[WORLDILLIA](../Page/WORLDILLIA.md "wikilink")』以降途絶えているのもこのため。
         このデッサンにだけサブタイトルがあるのは、Tamaが「人の命は何よりも重い」と言ったためだという。「春光」は、亡くなった晴一の父親の名前と春の光をかけたもの。
-9.  **[ミュージック・アワー <small>Ver.164</small>](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")**
+9.  **[ミュージック・アワー <small>Ver.164</small>](../Page/ミュージック・アワー.md "wikilink")**
       - 作詞：ハルイチ / 作曲：ak.homma
     <!-- end list -->
       -
@@ -94,7 +94,7 @@
 
 :\* [新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")：[ギター](../Page/ギター.md "wikilink")（[エレキ](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")）、コーラス
 
-:\* [白玉雅己](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス
+:\* [白玉雅己](../Page/Tama_\(ベーシスト\).md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス
 
   -
 
@@ -108,9 +108,9 @@
 
 :\* [パーカッション](../Page/パーカッション.md "wikilink")：[三沢またろう](../Page/三沢またろう.md "wikilink")（\#3）
 
-:\* コーラス：[障子久美](https://ja.wikipedia.org/wiki/障子久美 "wikilink")（\#9）、DJ Nowdig（\#9）
+:\* コーラス：[障子久美](../Page/障子久美.md "wikilink")（\#9）、DJ Nowdig（\#9）
 
-:\* [ドラムス](../Page/ドラムセット.md "wikilink")：[小畑"PUMP"隆彦](https://ja.wikipedia.org/wiki/小畑隆彦 "wikilink")（\#11）
+:\* [ドラムス](../Page/ドラムセット.md "wikilink")：[小畑"PUMP"隆彦](../Page/小畑隆彦.md "wikilink")（\#11）
 
 :\* [ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")：[ジャッキー池田](https://ja.wikipedia.org/wiki/ms-jacky "wikilink")（\#11）
 
@@ -130,10 +130,10 @@
 
 ## ベストアルバム収録
 
-  - 『[PORNO GRAFFITTI BEST RED'S](https://ja.wikipedia.org/wiki/PORNO_GRAFFITTI_BEST_RED'S "wikilink")』収録（2004年7月28日）
+  - 『[PORNO GRAFFITTI BEST RED'S](../Page/PORNO_GRAFFITTI_BEST_RED'S.md "wikilink")』収録（2004年7月28日）
       - **ミュージック・アワー**(シングルバージョンは初)
       - **サウダージ**(シングルバージョンは初)
-  - 『[PORNO GRAFFITTI BEST BLUE'S](https://ja.wikipedia.org/wiki/PORNO_GRAFFITTI_BEST_BLUE'S "wikilink")』収録（2004年7月28日）
+  - 『[PORNO GRAFFITTI BEST BLUE'S](../Page/PORNO_GRAFFITTI_BEST_BLUE'S.md "wikilink")』収録（2004年7月28日）
       - **オレ、天使**
       - **サボテン**
 
@@ -146,4 +146,4 @@
 3.  『[幕張ロマンスポルノ'11 〜DAYS OF WONDER〜](https://ja.wikipedia.org/wiki/幕張ロマンスポルノ'11_〜DAYS_OF_WONDER〜 "wikilink")』『[ラヴ・E・メール・フロム・1999](https://ja.wikipedia.org/wiki/13thライヴサーキット“ラヴ・E・メール・フロム・1999” "wikilink")』などに収録。
 4.  [歌詞タイム](http://www.kasi-time.com/item-5377.html)より
 5.  ただし収録曲「夜はお静かに」が元々の「デッサン \#3」だった。
-6.  なお、このコールサインは[NHK釧路放送局](https://ja.wikipedia.org/wiki/NHK釧路放送局 "wikilink")として実在する。
+6.  なお、このコールサインは[NHK釧路放送局](../Page/NHK釧路放送局.md "wikilink")として実在する。

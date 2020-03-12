@@ -1,18 +1,18 @@
 > この記事は[THUMP](https://ja.wikipedia.org/wiki/THUMP)から翻訳されています。
 
 
-『**THUMP<sup>χ</sup>**』（サンプ・サンプ・サンプ）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の5作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
+『**THUMP<sup>χ</sup>**』（サンプ・サンプ・サンプ）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の5作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
 
 ## 概要
 
   - アルバム名は「サンプ・サンプ・サンプ」と読み、[日本語](../Page/日本語.md "wikilink")でいう「ドキドキ」を表す。
   - ジャケットに描かれているハート形のキャラクターの名前は**THUMP MAN**（サンプマン）。また、ジャケットの一部に小さくシルエットになったメンバーが描かれている。
-  - [Tama脱退後初めてのアルバムで](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")、『[WORLDILLIA](../Page/WORLDILLIA.md "wikilink")』との間にベスト盤を挟んで2年2か月ぶりのオリジナルアルバムとなった。
-  - Tama脱退後にリリースされたシングル「[シスター](https://ja.wikipedia.org/wiki/シスター_\(ポルノグラフィティの曲\) "wikilink")」「[黄昏ロマンス](https://ja.wikipedia.org/wiki/黄昏ロマンス "wikilink")」、このアルバムの前月にリリースされたリードシングル[「ネオメロドラマティック」、「ROLL」を収録](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")。
+  - [Tama脱退後初めてのアルバムで](../Page/Tama_\(ベーシスト\).md "wikilink")、『[WORLDILLIA](../Page/WORLDILLIA.md "wikilink")』との間にベスト盤を挟んで2年2か月ぶりのオリジナルアルバムとなった。
+  - Tama脱退後にリリースされたシングル「[シスター](../Page/シスター_\(ポルノグラフィティの曲\).md "wikilink")」「[黄昏ロマンス](../Page/黄昏ロマンス.md "wikilink")」、このアルバムの前月にリリースされたリードシングル[「ネオメロドラマティック」、「ROLL」を収録](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")。
   - オリジナルアルバムとして、初のオリコンチャート1位獲得。
   - ポルノグラフィティにとってアルバム最初の販売記号（SECL）。
   - 初回限定盤はスペシャルBOX仕様。箱の中に通常盤と同様のCDケースが入っている。
-  - アルバム名の「χ」が[ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")であることと、「<sup>χ</sup>」の表記が[ウィキペディア](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")以外のほとんどのサイトでは表記できないため「THUMPx」と表記されることが多い。
+  - アルバム名の「χ」が[ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")であることと、「<sup>χ</sup>」の表記が[ウィキペディア](../Page/ウィキペディア.md "wikilink")以外のほとんどのサイトでは表記できないため「THUMPx」と表記されることが多い。
   - 『[雲をも摑む民](../Page/雲をも掴む民.md "wikilink")』以来の[カップリング曲が収録されていないアルバム](https://ja.wikipedia.org/wiki/シングル#A面/B面 "wikilink")。このアルバムから「[∠TRIGGER](https://ja.wikipedia.org/wiki/∠TRIGGER "wikilink")」までアルバムバージョンが存在しなくなった。
   - これまでのプロモーションチームの「ポルノグラフィティを売り出そうとする人々（SME、Amuse）」及びスペシャルサンクスの「[因島の家族や友達たち](../Page/因島市.md "wikilink")」の表記がこのアルバムで最後となった。
 
@@ -39,7 +39,7 @@
     <!-- end list -->
       -
         [ギター](../Page/ギター.md "wikilink")の跳ねる音は曲を作るときの昭仁の癖らしい。ライブツアー『[SWITCH](../Page/7th_LIVE_CIRCUIT_"SWITCH"_2005.md "wikilink")』の本編最終曲。ベスト盤にも収録。
-5.  **[黄昏ロマンス](https://ja.wikipedia.org/wiki/黄昏ロマンス "wikilink")**
+5.  **[黄昏ロマンス](../Page/黄昏ロマンス.md "wikilink")**
       - 作詞・作曲：新藤晴一
       - 16thシングル
     <!-- end list -->
@@ -50,13 +50,13 @@
     <!-- end list -->
       -
         前曲の最後にフェード・インしてくる音によって繋がる形でこの曲に入る。最初のサビまでは、左音声から[演奏](../Page/演奏.md "wikilink")（[カラオケ](../Page/カラオケ.md "wikilink")風）、右音声から[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")風）と音楽が分離されている。
-        戦争をテーマにした曲。曲名の「Twilight（トワイライト）」は「[黄昏](https://ja.wikipedia.org/wiki/黄昏 "wikilink")」や「[暁](../Page/暁.md "wikilink")」の意味を持つ。
+        戦争をテーマにした曲。曲名の「Twilight（トワイライト）」は「[黄昏](../Page/黄昏.md "wikilink")」や「[暁](../Page/暁.md "wikilink")」の意味を持つ。
 7.  **[ROLL](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")**
       - 作詞・作曲：岡野昭仁
     <!-- end list -->
       -
         17thシングルの2曲目
-8.  **[シスター](https://ja.wikipedia.org/wiki/シスター_\(ポルノグラフィティの曲\) "wikilink")**
+8.  **[シスター](../Page/シスター_\(ポルノグラフィティの曲\).md "wikilink")**
       - 作詞：新藤晴一 作曲：ak.homma
     <!-- end list -->
       -
@@ -80,14 +80,14 @@
       - 作詞：岡野昭仁 作曲：ak.homma
     <!-- end list -->
       -
-        [二胡](../Page/二胡.md "wikilink")を使った[中国風な楽曲](../Page/中華人民共和国.md "wikilink")。曲はTama在籍時から存在していた。詞は恋心や想いをはかないものとしており、[蜉蝣](https://ja.wikipedia.org/wiki/蜉蝣 "wikilink")（カゲロウ）や[夜光虫に例えている](https://ja.wikipedia.org/wiki/ヤコウチュウ "wikilink")。ベスト盤にも収録。
+        [二胡](../Page/二胡.md "wikilink")を使った[中国風な楽曲](../Page/中華人民共和国.md "wikilink")。曲はTama在籍時から存在していた。詞は恋心や想いをはかないものとしており、[蜉蝣](https://ja.wikipedia.org/wiki/蜉蝣 "wikilink")（カゲロウ）や[夜光虫に例えている](../Page/ヤコウチュウ.md "wikilink")。ベスト盤にも収録。
 13. **何度も**
       - 作詞・作曲：新藤晴一
 14. **Let's go to the answer**
       - 作詞・作曲：岡野昭仁
     <!-- end list -->
       -
-        歌詞の中に今までリリースしてきた楽曲のタイトルが挙げられている（**[ヒトリノ夜](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")**、**[Mugen](https://ja.wikipedia.org/wiki/Mugen_\(曲\) "wikilink")**、**[幸せについて本気出して考えてみた](https://ja.wikipedia.org/wiki/幸せについて本気出して考えてみた "wikilink")**\[1\]、**[ジレンマ](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")**、**[渦](https://ja.wikipedia.org/wiki/渦_\(ポルノグラフィティの曲\) "wikilink")**、**[ヴォイス](https://ja.wikipedia.org/wiki/ヴォイス_\(ポルノグラフィティの曲\) "wikilink")**、**[ROLL](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")**、**[ラック](https://ja.wikipedia.org/wiki/ラック_\(ポルノグラフィティの曲\) "wikilink")**\[2\]）。歌詞中に[因島市](../Page/因島市.md "wikilink")\[3\]が登場している。歌詞の2か所のある「30's」は30秒ではなく年齢の30代を意味している。2005年『ポルノグラフィティ Live in　因島（高校生の部）』で「俺らまだまだ都会のやつらに負けてないぜ」と言った後で歌われた。2人になった自分達の新たなスタートを切るという意味でもある。
+        歌詞の中に今までリリースしてきた楽曲のタイトルが挙げられている（**[ヒトリノ夜](../Page/ヒトリノ夜.md "wikilink")**、**[Mugen](../Page/Mugen_\(曲\).md "wikilink")**、**[幸せについて本気出して考えてみた](../Page/幸せについて本気出して考えてみた.md "wikilink")**\[1\]、**[ジレンマ](../Page/ヒトリノ夜.md "wikilink")**、**[渦](../Page/渦_\(ポルノグラフィティの曲\).md "wikilink")**、**[ヴォイス](../Page/ヴォイス_\(ポルノグラフィティの曲\).md "wikilink")**、**[ROLL](https://ja.wikipedia.org/wiki/ネオメロドラマティック/ROLL "wikilink")**、**[ラック](../Page/ラック_\(ポルノグラフィティの曲\).md "wikilink")**\[2\]）。歌詞中に[因島市](../Page/因島市.md "wikilink")\[3\]が登場している。歌詞の2か所のある「30's」は30秒ではなく年齢の30代を意味している。2005年『ポルノグラフィティ Live in　因島（高校生の部）』で「俺らまだまだ都会のやつらに負けてないぜ」と言った後で歌われた。2人になった自分達の新たなスタートを切るという意味でもある。
 
 ## 制作・演奏参加
 
@@ -99,9 +99,9 @@
 
   - 参加ミュージシャン
 
-:\* [ドラムス](../Page/ドラムセット.md "wikilink")：[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")（\#1,3,6,7,10,13）、[村石雅行](../Page/村石雅行.md "wikilink")（\#2,5,8）、[野崎真助](../Page/野崎真助.md "wikilink")（\#9）、[小畑ポンプ](https://ja.wikipedia.org/wiki/小畑隆彦 "wikilink")（\#14）
+:\* [ドラムス](../Page/ドラムセット.md "wikilink")：[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")（\#1,3,6,7,10,13）、[村石雅行](../Page/村石雅行.md "wikilink")（\#2,5,8）、[野崎真助](../Page/野崎真助.md "wikilink")（\#9）、[小畑ポンプ](../Page/小畑隆彦.md "wikilink")（\#14）
 
-:\* [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：[野崎森男](https://ja.wikipedia.org/wiki/野崎森男 "wikilink")（\#3,9,11,14）、[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")（\#5,7,8,10,13）、[バカボン鈴木](https://ja.wikipedia.org/wiki/バカボン鈴木 "wikilink")（\#6）
+:\* [ベース](../Page/ベース_\(弦楽器\).md "wikilink")：[野崎森男](../Page/野崎森男.md "wikilink")（\#3,9,11,14）、[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")（\#5,7,8,10,13）、[バカボン鈴木](https://ja.wikipedia.org/wiki/バカボン鈴木 "wikilink")（\#6）
 
 :\* [パーカッション](../Page/パーカッション.md "wikilink")：[三沢マタロー](../Page/三沢またろう.md "wikilink")（\#1,2,5,7,8,10,12）
 
@@ -119,7 +119,7 @@
 
 :\* [二胡](../Page/二胡.md "wikilink")（\#12）／[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")（\#14）：NAOTO
 
-:\* [オルガン](../Page/オルガン.md "wikilink")：[ただすけ](https://ja.wikipedia.org/wiki/ただすけ "wikilink")（\#14）
+:\* [オルガン](../Page/オルガン.md "wikilink")：[ただすけ](../Page/ただすけ.md "wikilink")（\#14）
 
 :\* その他全ての[音源](../Page/音源.md "wikilink")：[ak.homma](../Page/本間昭光.md "wikilink")（\#1-13）、[南澤則賀](https://ja.wikipedia.org/wiki/nang-chang "wikilink")（\#14）
 
@@ -129,17 +129,17 @@
 
   - プロデュース：[田村充義](https://ja.wikipedia.org/wiki/田村充義 "wikilink")（[田村制作所](https://ja.wikipedia.org/wiki/田村制作所 "wikilink")）、本間昭光（ブルーソファ）
   - エグゼクティブプロデューサー：畠中達郎（[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")）、佐藤康広（[SME Records](https://ja.wikipedia.org/wiki/SME_Records "wikilink")）
-  - スーパーバイザー：[大里洋吉](https://ja.wikipedia.org/wiki/大里洋吉 "wikilink")、松崎澄夫、山本久（いずれもAmuse）
+  - スーパーバイザー：[大里洋吉](../Page/大里洋吉.md "wikilink")、松崎澄夫、山本久（いずれもAmuse）
   - 録音：中山信彦（SOUND INN Mixer's crew）、阪田幸亮（ブルーソファ）
   - 録音スタジオ：[サウンドインスタジオ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")、[ソニー・ミュージックスタジオ](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")、ビクタースタジオ
   - ミキサー：山内"Dr."隆義（SOUND INN Mixer's crew）
   - ミキサースタジオ：サウンドインスタジオ、ビクタースタジオ
   - プロモーションチーム：**ポルノグラフィティを売り出そうとする人々（SME、Amuse）**
-  - スペシャル サンクス：[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、[MICHIKO](../Page/MICHIKO.md "wikilink")、佐藤先生、直江先生＆まんじゅ、西村“KENZO”賢三、"love up\!" members、**因島の家族や友達たち**
+  - スペシャル サンクス：[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、[森雪之丞](../Page/森雪之丞.md "wikilink")、[MICHIKO](../Page/MICHIKO.md "wikilink")、佐藤先生、直江先生＆まんじゅ、西村“KENZO”賢三、"love up\!" members、**因島の家族や友達たち**
 
 ## 関連項目
 
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
   - [ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")
 
 ## 脚注

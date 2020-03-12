@@ -1,11 +1,11 @@
 > この記事は[DS2](https://ja.wikipedia.org/wiki/DS2)から翻訳されています。
 
 
-『**三國志DS 2**』（さんごくしでぃーえすつー）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](https://ja.wikipedia.org/wiki/三國志シリーズ "wikilink")」の1つ。当初は[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")発売予定だった。
+『**三國志DS 2**』（さんごくしでぃーえすつー）は、[2007年](../Page/2007年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の1つ。当初は[3月21日](../Page/3月21日.md "wikilink")発売予定だった。
 
 ## 概要
 
-プレイヤーは、[後漢](../Page/後漢.md "wikilink")・[三国時代に活躍した武将](https://ja.wikipedia.org/wiki/三国時代_\(中国\) "wikilink")（主に君主）のひとりとなって天下統一を目指す。同社の『[三國志IV](https://ja.wikipedia.org/wiki/三國志IV "wikilink")』を元にして開発されている。前作『[三國志DS](https://ja.wikipedia.org/wiki/三國志DS "wikilink")』では通信対戦が可能であったが、本作では通信対戦には対応していない。
+プレイヤーは、[後漢](../Page/後漢.md "wikilink")・[三国時代に活躍した武将](../Page/三国時代_\(中国\).md "wikilink")（主に君主）のひとりとなって天下統一を目指す。同社の『[三國志IV](../Page/三國志IV.md "wikilink")』を元にして開発されている。前作『[三國志DS](../Page/三國志DS.md "wikilink")』では通信対戦が可能であったが、本作では通信対戦には対応していない。
 
 ## シナリオ
 
@@ -16,8 +16,8 @@
 6本のシナリオが存在し、それぞれのシナリオの君主ごとに3段階の難易度が示されている。
 
   - [189年](../Page/189年.md "wikilink")12月 [董卓](../Page/董卓.md "wikilink")、都[洛陽](https://ja.wikipedia.org/wiki/洛陽 "wikilink")を制す
-  - [194年](https://ja.wikipedia.org/wiki/194年 "wikilink")11月 [飛将軍](https://ja.wikipedia.org/wiki/呂布 "wikilink")、[中原](https://ja.wikipedia.org/wiki/中原 "wikilink")に舞う
-  - [201年](https://ja.wikipedia.org/wiki/201年 "wikilink")10月 [劉備](../Page/劉備.md "wikilink")、[新野に雌伏す](https://ja.wikipedia.org/wiki/新野県 "wikilink")
+  - [194年](https://ja.wikipedia.org/wiki/194年 "wikilink")11月 [飛将軍](../Page/呂布.md "wikilink")、[中原](https://ja.wikipedia.org/wiki/中原 "wikilink")に舞う
+  - [201年](https://ja.wikipedia.org/wiki/201年 "wikilink")10月 [劉備](../Page/劉備.md "wikilink")、[新野に雌伏す](../Page/新野県.md "wikilink")
   - [208年](https://ja.wikipedia.org/wiki/208年 "wikilink")9月 [臥龍](../Page/諸葛亮.md "wikilink")、[赤壁に飛翔す](../Page/赤壁の戦い.md "wikilink")
   - [221年](https://ja.wikipedia.org/wiki/221年 "wikilink")4月 [漢朝滅び](../Page/後漢.md "wikilink")、三國鼎立す
   - [235年](https://ja.wikipedia.org/wiki/235年 "wikilink")2月 巨星、[五丈原](https://ja.wikipedia.org/wiki/五丈原 "wikilink")に堕つ
@@ -28,7 +28,7 @@
 
 シナリオをクリアすると新武将用の顔グラフィックスやスペシャル武将のデータが追加される。
 
-  - 194年11月 打倒[呂布](https://ja.wikipedia.org/wiki/呂布 "wikilink")（劉備）
+  - 194年11月 打倒[呂布](../Page/呂布.md "wikilink")（劉備）
     期間内に呂布を一騎討ちで倒すことが目標。
   - 194年11月 200万都市（[袁紹](../Page/袁紹.md "wikilink")）
     期間内に自軍の支配都市の合計人口を200万にする事が目標。
@@ -49,7 +49,7 @@
 
 ## スペシャル武将
 
-シナリオのクリアや[ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")などで獲得できる武将で、ゲーム内では「SP武将」と表記される。特にWi-Fiコネクションでは[劉邦](../Page/劉邦.md "wikilink")や[項籍](../Page/項籍.md "wikilink")といった三国時代以外の武将を獲得することができる。獲得したスペシャル武将は中華統一シナリオに出現させることができる。
+シナリオのクリアや[ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")などで獲得できる武将で、ゲーム内では「SP武将」と表記される。特にWi-Fiコネクションでは[劉邦](../Page/劉邦.md "wikilink")や[項籍](../Page/項籍.md "wikilink")といった三国時代以外の武将を獲得することができる。獲得したスペシャル武将は中華統一シナリオに出現させることができる。
 
 ## 外部リンク
 

@@ -28,21 +28,21 @@
 
 ### 参加作品
 
-1.  [FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")「**BOOK OF LIFE～炎の章～**」（2003年6月27日）
+1.  [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")「**BOOK OF LIFE～炎の章～**」（2003年6月27日）
       -
         14.星(スター) feat.GUAN CHAI
 2.  [オムニバス](../Page/オムニバス.md "wikilink")「**76 Joint One Inter FM RE-MIX**」（2003年11月6日）
       -
         11.DANCING MOOD w/Guan Chai
-3.  [Mighty Crown](https://ja.wikipedia.org/wiki/Mighty_Crown "wikilink"),Fire Ball,[PAPA B](https://ja.wikipedia.org/wiki/PAPA_B "wikilink"),Guan Chai「**Dancehall Fiesta～レゲエ祭のテーマ～**」（2004年7月28日）
+3.  [Mighty Crown](https://ja.wikipedia.org/wiki/Mighty_Crown "wikilink"),Fire Ball,[PAPA B](../Page/PAPA_B.md "wikilink"),Guan Chai「**Dancehall Fiesta～レゲエ祭のテーマ～**」（2004年7月28日）
       -
 
 ## 関連項目
 
-  - [PAPA B](https://ja.wikipedia.org/wiki/PAPA_B "wikilink")
-  - [FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")
-  - [Mighty Jam Rock](https://ja.wikipedia.org/wiki/Mighty_Jam_Rock "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [PAPA B](../Page/PAPA_B.md "wikilink")
+  - [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")
+  - [Mighty Jam Rock](../Page/Mighty_Jam_Rock.md "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

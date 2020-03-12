@@ -1,7 +1,7 @@
 > この記事は[Sell Our Soul](https://ja.wikipedia.org/wiki/Sell_Our_Soul)から翻訳されています。
 
 
-『**Sell Our Soul**』（セル・アワ・ソウル）は、[THA BLUE HERBの](https://ja.wikipedia.org/wiki/ザ_ブルーハーブ "wikilink")2枚目のアルバム。[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")発売。なお、先行シングル「FRONT ACT CD」に収録されている3曲はどれも未収録となっている。
+『**Sell Our Soul**』（セル・アワ・ソウル）は、[THA BLUE HERBの](../Page/ザ_ブルーハーブ.md "wikilink")2枚目のアルバム。[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")発売。なお、先行シングル「FRONT ACT CD」に収録されている3曲はどれも未収録となっている。
 
 ## 解説
 
@@ -34,7 +34,7 @@
       -
 12. **サイの角のようにただ独り歩め**（6:09）
       -
-        『[スッタニパータ](https://ja.wikipedia.org/wiki/スッタニパータ "wikilink")』の中の一節から取られている。
+        『[スッタニパータ](../Page/スッタニパータ.md "wikilink")』の中の一節から取られている。
 
 全曲作詞:BOSS THE MC、作曲:O・N・O
 

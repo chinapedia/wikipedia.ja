@@ -3,7 +3,7 @@
 
 [5jzc.jpg](https://ja.wikipedia.org/wiki/File:5jzc.jpg "fig:5jzc.jpg")
 
-**Rad51** \[1\]は、単細胞真核生物から[ヒト](https://ja.wikipedia.org/wiki/ヒト "wikilink")までの知られている限りすべての[真核生物](../Page/真核生物.md "wikilink")に存在する、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")あるいはそれにコードされる[タンパク質](../Page/タンパク質.md "wikilink")である。[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")二重鎖切断の[修復に関与する](https://ja.wikipedia.org/wiki/DNA修復 "wikilink")。[原核生物](../Page/原核生物.md "wikilink")のRecAタンパク質と配列の相同性を有する。
+**Rad51** \[1\]は、単細胞真核生物から[ヒト](../Page/ヒト.md "wikilink")までの知られている限りすべての[真核生物](../Page/真核生物.md "wikilink")に存在する、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")あるいはそれにコードされる[タンパク質](../Page/タンパク質.md "wikilink")である。[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")二重鎖切断の[修復に関与する](../Page/DNA修復.md "wikilink")。[原核生物](../Page/原核生物.md "wikilink")のRecAタンパク質と配列の相同性を有する。
 
 ## タンパク質の生化学的性質
 

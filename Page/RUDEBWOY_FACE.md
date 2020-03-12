@@ -1,7 +1,7 @@
 > この記事は[RUDEBWOY FACE](https://ja.wikipedia.org/wiki/RUDEBWOY_FACE)から翻訳されています。
 
 
-**RUDEBWOY FACE**（ルード・ボーイ・フェイス、本名：*高木正樹*、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")-）は[横浜市](../Page/横浜市.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[シンガー,Deejayである](../Page/歌手.md "wikilink")。**RUDE BOY FACE**と表記されることもある。2007年[ユニバーサル ミュージックよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。2013年同じくマグナムレコーズの[AKANE](https://ja.wikipedia.org/wiki/AKANE "wikilink")と結婚。
+**RUDEBWOY FACE**（ルード・ボーイ・フェイス、本名：*高木正樹*、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")-）は[横浜市](../Page/横浜市.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[シンガー,Deejayである](../Page/歌手.md "wikilink")。**RUDE BOY FACE**と表記されることもある。2007年[ユニバーサル ミュージックよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2013年同じくマグナムレコーズの[AKANE](https://ja.wikipedia.org/wiki/AKANE "wikilink")と結婚。
 
 ## ディスコグラフィー
 
@@ -123,7 +123,7 @@
 <li>Cow Bwoy</li>
 <li>夜の街 KG-K Remix</li>
 <li>ふたり feat.MIND VOICE</li>
-<li>俺-さすらいの<a href="https://ja.wikipedia.org/wiki/刃頭" title="wikilink">刃頭</a>Remix</li>
+<li>俺-さすらいの<a href="../Page/刃頭.md" title="wikilink">刃頭</a>Remix</li>
 <li>一歩</li>
 <li>Outro</li>
 </ol></td>
@@ -318,7 +318,7 @@ MGR-1002:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2000年4月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CORN_HEAD" title="wikilink">CORN HEAD</a>『YOUNG GENERATION』</p></td>
+<td><p><a href="../Page/CORN_HEAD.md" title="wikilink">CORN HEAD</a>『YOUNG GENERATION』</p></td>
 <td><p>WINN-82031</p></td>
 <td><p>2.Dem Fi Dead featuring Rude Boy Face</p></td>
 </tr>
@@ -397,7 +397,7 @@ SRCL-5854</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年3月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/&quot;E&quot;qual" title="wikilink">"E"qual</a>『ごうだつゲーム』</p></td>
+<td><p><a href="../Page/&quot;E&quot;qual.md" title="wikilink">"E"qual</a>『ごうだつゲーム』</p></td>
 <td><p>COCP-33082</p></td>
 <td><p>6.ターミネーター feat.RYUZO,Rude Boy Face</p></td>
 </tr>
@@ -433,7 +433,7 @@ SRCL-5854</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年04月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Miss_Monday" title="wikilink">Miss Monday</a>『RED KUNOICHI BLACK NINJA feat.RUDEBWOY FACE』</p></td>
+<td><p><a href="../Page/Miss_Monday.md" title="wikilink">Miss Monday</a>『RED KUNOICHI BLACK NINJA feat.RUDEBWOY FACE』</p></td>
 <td><p>SYUM-0320</p></td>
 <td><p>Epic</p></td>
 </tr>
@@ -457,7 +457,7 @@ SRCL-5854</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年7月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HIBIKILLA" title="wikilink">HIBIKILLA</a>『NO PROBLEM』</p></td>
+<td><p><a href="../Page/HIBIKILLA.md" title="wikilink">HIBIKILLA</a>『NO PROBLEM』</p></td>
 <td><p>PCCA-2285</p></td>
 <td><p>9.Five The 梁山泊 feat.HAN-KUN,UZI,RUDEBWOY FACE and AKTION</p></td>
 </tr>
@@ -517,7 +517,7 @@ SRCL-5854</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年06月06日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Reggae_Disco_Rockers" title="wikilink">Reggae Disco Rockers</a>『MELODIES』</p></td>
+<td><p><a href="../Page/Reggae_Disco_Rockers.md" title="wikilink">Reggae Disco Rockers</a>『MELODIES』</p></td>
 <td><p>FLRC-051</p></td>
 <td><p>SENDING YOU.. feat. RUDEBWOY FACE</p></td>
 </tr>

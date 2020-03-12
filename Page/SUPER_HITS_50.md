@@ -1,7 +1,7 @@
 > この記事は[SUPER HITS 50](https://ja.wikipedia.org/wiki/SUPER_HITS_50)から翻訳されています。
 
 
-**SUPER HITS 50**（スーパーヒッツ50）は[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")で放送されていた[邦楽](../Page/邦楽.md "wikilink")[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")番組である（アルバムでは[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を含める）。2008年に名称変更し、**SUPER HITS SINGLE RANKING 50**になっていた。しかし2011年からは洋楽も含むようになり、SUPER HITS RANKING 50を経て番組名が2012年6月から**SUPER HITS PERFECT RANKING 50**に変わった。ただし、SUPER HITS SINGLE RANKING 10は邦楽ランキングのままである。
+**SUPER HITS 50**（スーパーヒッツ50）は[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")で放送されていた[邦楽](../Page/邦楽.md "wikilink")[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")番組である（アルバムでは[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を含める）。2008年に名称変更し、**SUPER HITS SINGLE RANKING 50**になっていた。しかし2011年からは洋楽も含むようになり、SUPER HITS RANKING 50を経て番組名が2012年6月から**SUPER HITS PERFECT RANKING 50**に変わった。ただし、SUPER HITS SINGLE RANKING 10は邦楽ランキングのままである。
 
 ## 放送日
 
@@ -47,7 +47,7 @@
       - 4・9のつく順位：[アザラシ](../Page/アザラシ.md "wikilink")が縦になって数字が表示される。
       - 3・8のつく順位：[アンコウ](https://ja.wikipedia.org/wiki/アンコウ "wikilink")が提灯がわりに数字を点灯させる。
       - 2・7のつく順位：[親子ガメが泳いでいると同時に数字が表示される](../Page/カメ.md "wikilink")。
-      - 1・6のつく順位：[タツノオトシゴ](https://ja.wikipedia.org/wiki/タツノオトシゴ "wikilink")が泡を吹くと同時に、数字が表示される。
+      - 1・6のつく順位：[タツノオトシゴ](../Page/タツノオトシゴ.md "wikilink")が泡を吹くと同時に、数字が表示される。
   - 2006年4月〜2008年3月：CGがお店になっている。
   - 2008年4月〜2009年3月：CGがビルになっている。（2008年度のスペースシャワーオリジナルチャート以外のランキング番組でも同じ物を使用）
   - 2009年4月〜2012年5月：CGが機械になっていて番組ごとに色が異なる。（ハイビジョン仕様）

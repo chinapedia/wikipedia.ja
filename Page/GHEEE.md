@@ -1,14 +1,14 @@
 > この記事は[GHEEE](https://ja.wikipedia.org/wiki/GHEEE)から翻訳されています。
 
 
-**GHEEE**（ギー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")結成。
+**GHEEE**（ギー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")結成。
 
 ## メンバー
 
-  - **近藤智洋**（ボーカル・ギター）元[PEALOUT](https://ja.wikipedia.org/wiki/PEALOUT "wikilink")
+  - **近藤智洋**（ボーカル・ギター）元[PEALOUT](../Page/PEALOUT.md "wikilink")
   - **[深沼元昭](https://ja.wikipedia.org/wiki/深沼元昭 "wikilink")**（ボーカル・ギター）現[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")、現[PLAGUES](../Page/PLAGUES.md "wikilink")
   - **Hisayo**（ベース）現[tokyo pinsalocks](https://ja.wikipedia.org/wiki/tokyo_pinsalocks "wikilink")、現[a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink")
-  - **YANA**（ドラム）現[DRYASDUST](https://ja.wikipedia.org/wiki/DRYASDUST "wikilink")、現[ZEPPET STORE](https://ja.wikipedia.org/wiki/ZEPPET_STORE "wikilink")
+  - **YANA**（ドラム）現[DRYASDUST](https://ja.wikipedia.org/wiki/DRYASDUST "wikilink")、現[ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink")
 
 ## ディスコグラフィー
 

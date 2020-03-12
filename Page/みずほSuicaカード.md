@@ -51,6 +51,6 @@
 
 [Category:クレジットカード](https://ja.wikipedia.org/wiki/Category:クレジットカード "wikilink") [Category:Suica](https://ja.wikipedia.org/wiki/Category:Suica "wikilink") [Category:みずほグループの歴史](https://ja.wikipedia.org/wiki/Category:みずほグループの歴史 "wikilink")
 
-1.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[2月1日](../Page/2月1日.md "wikilink")付けで、発行・運営主体を株式会社[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")へ事業継承
+1.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[2月1日](../Page/2月1日.md "wikilink")付けで、発行・運営主体を株式会社[ビューカード](../Page/ビューカード.md "wikilink")へ事業継承
 2.  [みずほICキャッシュカード](http://www.mizuhobank.co.jp/start/iccard/)
 3.

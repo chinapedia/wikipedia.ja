@@ -1,13 +1,13 @@
 > この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
 
 
-**ECジュベントゥージ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](https://ja.wikipedia.org/wiki/リオグランデ・ド・スル州 "wikilink")[カシアス・ド・スル](https://ja.wikipedia.org/wiki/カシアス・ド・スル "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**ECジュベントゥージ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")[カシアス・ド・スル](https://ja.wikipedia.org/wiki/カシアス・ド・スル "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 概要
 
 [1913年](../Page/1913年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")にカシアス市在住の[イタリア](../Page/イタリア.md "wikilink")系移民らが中心となり発足。後に現在の「ジュベントゥージ」に改名。チーム名の意味・語源はイタリア・[セリエAの](../Page/セリエA_\(サッカー\).md "wikilink")[ユヴェントスとほぼ同じ](../Page/ユヴェントスFC.md "wikilink")。
 
-同じくカシアス・ド・スルをホームとする[SERカシアス・ド・スル](https://ja.wikipedia.org/wiki/SERカシアス・ド・スル "wikilink")とは長年のライバル関係。
+同じくカシアス・ド・スルをホームとする[SERカシアス・ド・スル](../Page/SERカシアス・ド・スル.md "wikilink")とは長年のライバル関係。
 
 ## タイトル
 
@@ -53,7 +53,7 @@
 
 ### [MF](../Page/ミッドフィールダー.md "wikilink")
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
 ## 外部リンク
 

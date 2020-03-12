@@ -5,17 +5,17 @@
 
 ## 来歴
 
-1945年から1948年まで[海兵隊に参加](../Page/アメリカ海兵隊.md "wikilink")。その後、[ミズーリ大学](https://ja.wikipedia.org/wiki/ミズーリ大学 "wikilink")でジャーナリズムを学ぶが、演劇に興味を持つようになり、1年で大学を去る。[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")の舞台に出演するようになり、『The Andersonville Trial』などで高い評価を得る。[1959年](../Page/1959年.md "wikilink")に映画デビューし、同年[ジェームズ・スチュワートと共演した](https://ja.wikipedia.org/wiki/ジェームズ・ステュアート_\(俳優\) "wikilink")『或る殺人』で[アカデミー助演男優賞](https://ja.wikipedia.org/wiki/アカデミー助演男優賞 "wikilink")にノミネートされた。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にも『ハスラー』で助演男優賞にノミネートされたが、この時は即座にノミネートを辞退した\[1\]。
+1945年から1948年まで[海兵隊に参加](../Page/アメリカ海兵隊.md "wikilink")。その後、[ミズーリ大学](https://ja.wikipedia.org/wiki/ミズーリ大学 "wikilink")でジャーナリズムを学ぶが、演劇に興味を持つようになり、1年で大学を去る。[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")の舞台に出演するようになり、『The Andersonville Trial』などで高い評価を得る。[1959年](../Page/1959年.md "wikilink")に映画デビューし、同年[ジェームズ・スチュワートと共演した](../Page/ジェームズ・ステュアート_\(俳優\).md "wikilink")『或る殺人』で[アカデミー助演男優賞](../Page/アカデミー助演男優賞.md "wikilink")にノミネートされた。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にも『ハスラー』で助演男優賞にノミネートされたが、この時は即座にノミネートを辞退した\[1\]。
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")には『[パットン大戦車軍団](https://ja.wikipedia.org/wiki/パットン大戦車軍団 "wikilink")』で[アカデミー主演男優賞](https://ja.wikipedia.org/wiki/アカデミー主演男優賞 "wikilink")を受賞したが、これを辞退した\[2\]。栄えあるアカデミー賞の受賞辞退という前代未聞の行動が話題になった。この時、スコットは主催者へ丁重に辞退を申し入れたが、別の所では「あんなのは皆、下らないお祭り騒ぎさ。関わるのはご免だね。」と語っていた\[3\]。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")の『ホスピタル』でも主演男優賞にノミネートされたが、これも辞退した。主演男優賞の受賞を辞退した例としては他に[マーロン・ブランド](../Page/マーロン・ブランド.md "wikilink")がいるが、スコットの場合はついに最後まで1度も壇上に現れることはなかった。
+[1970年](../Page/1970年.md "wikilink")には『[パットン大戦車軍団](../Page/パットン大戦車軍団.md "wikilink")』で[アカデミー主演男優賞](../Page/アカデミー主演男優賞.md "wikilink")を受賞したが、これを辞退した\[2\]。栄えあるアカデミー賞の受賞辞退という前代未聞の行動が話題になった。この時、スコットは主催者へ丁重に辞退を申し入れたが、別の所では「あんなのは皆、下らないお祭り騒ぎさ。関わるのはご免だね。」と語っていた\[3\]。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")の『ホスピタル』でも主演男優賞にノミネートされたが、これも辞退した。主演男優賞の受賞を辞退した例としては他に[マーロン・ブランド](../Page/マーロン・ブランド.md "wikilink")がいるが、スコットの場合はついに最後まで1度も壇上に現れることはなかった。
 
 [1980年代](../Page/1980年代.md "wikilink")初頭までは、[リベラルで](https://ja.wikipedia.org/wiki/自由主義 "wikilink")、時に重厚かつ正統派の演技者として厳格な存在感を示していた。しかし、[1984年](../Page/1984年.md "wikilink")の『クリスマス・キャロル』以降は性格俳優として不気味な[悪役](https://ja.wikipedia.org/wiki/悪役 "wikilink")や、[ホラー映画](../Page/ホラー映画.md "wikilink")でのヒーローなど別の一面を披露。同時に大型テレビシリーズ『ムッソリーニ』では、20世紀初頭のイタリアを統率した[ムッソリーニを演じ](../Page/ベニート・ムッソリーニ.md "wikilink")、いぶし銀の魅力に箔をかけていた。また『[ジェネシスを追え](https://ja.wikipedia.org/wiki/ジェネシスを追え "wikilink")』ではブランドと共演し、演技合戦に火花を散らせたことで話題になる。[1990年代](../Page/1990年代.md "wikilink")も主に大作映画では[脇役](https://ja.wikipedia.org/wiki/脇役 "wikilink")で存在感を示し、B級作品での主演などでも第一線であった。晩年は、[テレビドラマ](../Page/テレビドラマ.md "wikilink")での活躍が主だった。
 
-『[博士の異常な愛情](https://ja.wikipedia.org/wiki/博士の異常な愛情 "wikilink")』のタージドソン将軍役について、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督は[アドリブ](https://ja.wikipedia.org/wiki/アドリブ "wikilink")で強い印象を残した[ピーター・セラーズ](https://ja.wikipedia.org/wiki/ピーター・セラーズ "wikilink")と対比して「同じ演技を何度でも繰り返せる俳優」とコメントしている。
+『[博士の異常な愛情](https://ja.wikipedia.org/wiki/博士の異常な愛情 "wikilink")』のタージドソン将軍役について、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督は[アドリブ](https://ja.wikipedia.org/wiki/アドリブ "wikilink")で強い印象を残した[ピーター・セラーズ](../Page/ピーター・セラーズ.md "wikilink")と対比して「同じ演技を何度でも繰り返せる俳優」とコメントしている。
 
 ### 私生活
 
-生涯で5度[結婚](../Page/結婚.md "wikilink")しており、2度結婚した女優の[コリーン・デューハースト](../Page/コリーン・デューハースト.md "wikilink")との間の息子[キャンベル・スコット](https://ja.wikipedia.org/wiki/キャンベル・スコット "wikilink")は俳優になった。
+生涯で5度[結婚](../Page/結婚.md "wikilink")しており、2度結婚した女優の[コリーン・デューハースト](../Page/コリーン・デューハースト.md "wikilink")との間の息子[キャンベル・スコット](../Page/キャンベル・スコット.md "wikilink")は俳優になった。
 
 晩年、最後に連れ添った[トリッシュ・ヴァン・ディヴァー](../Page/トリッシュ・ヴァン・ディヴァー.md "wikilink")とは幾度か共演作を残している。
 
@@ -48,7 +48,7 @@
 </tr>
 <tr class="odd">
 <td><p>1961</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハスラー_(映画)" title="wikilink">ハスラー</a><br />
+<td><p><a href="../Page/ハスラー_(映画).md" title="wikilink">ハスラー</a><br />
 <em>The Hustler</em></p></td>
 <td><p>バート・ゴードン</p></td>
 <td><p>アカデミー賞助演男優賞ノミネート</p></td>
@@ -69,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p>1966</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天地創造_(映画)" title="wikilink">天地創造</a><br />
+<td><p><a href="../Page/天地創造_(映画).md" title="wikilink">天地創造</a><br />
 <em>The Bible: In the Beginning...</em></p></td>
 <td><p><a href="../Page/アブラハム.md" title="wikilink">アブラハム</a></p></td>
 <td></td>
@@ -97,9 +97,9 @@
 </tr>
 <tr class="even">
 <td><p>1970</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パットン大戦車軍団" title="wikilink">パットン大戦車軍団</a><br />
+<td><p><a href="../Page/パットン大戦車軍団.md" title="wikilink">パットン大戦車軍団</a><br />
 <em>Patton</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・パットン" title="wikilink">ジョージ・S・パットン大将</a></p></td>
+<td><p><a href="../Page/ジョージ・パットン.md" title="wikilink">ジョージ・S・パットン大将</a></p></td>
 <td><p>アカデミー賞主演男優賞受賞</p></td>
 </tr>
 <tr class="odd">
@@ -223,7 +223,7 @@
 </tr>
 <tr class="even">
 <td><p>1981</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タップス" title="wikilink">タップス</a><br />
+<td><p><a href="../Page/タップス.md" title="wikilink">タップス</a><br />
 <em>Taps</em></p></td>
 <td><p>ハーラン・ベイシュ将軍</p></td>
 <td></td>
@@ -267,7 +267,7 @@
 <td><p>1986</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パットン将軍_最後の日々" title="wikilink">パットン将軍 最後の日々</a><br />
 <em>The Last Days of Patton</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・パットン" title="wikilink">ジョージ・S・パットン大将</a></p></td>
+<td><p><a href="../Page/ジョージ・パットン.md" title="wikilink">ジョージ・S・パットン大将</a></p></td>
 <td><p>テレビ映画</p></td>
 </tr>
 <tr class="odd">

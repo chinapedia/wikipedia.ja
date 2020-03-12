@@ -1,7 +1,7 @@
 > この記事は[WAVE](https://ja.wikipedia.org/wiki/WAVE)から翻訳されています。
 
 
-**株式会社WAVE出版**（ウェーブしゅっぱん）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社がある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")。主に[文芸](https://ja.wikipedia.org/wiki/文芸 "wikilink")、[社会](../Page/社会.md "wikilink")、[自己啓発](https://ja.wikipedia.org/wiki/自己啓発 "wikilink")、[ビジネス](../Page/ビジネス.md "wikilink")、[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")、[実用書](https://ja.wikipedia.org/wiki/実用書 "wikilink")などの[書籍を出版している](../Page/本.md "wikilink")。
+**株式会社WAVE出版**（ウェーブしゅっぱん）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社がある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")。主に[文芸](https://ja.wikipedia.org/wiki/文芸 "wikilink")、[社会](../Page/社会.md "wikilink")、[自己啓発](../Page/自己啓発.md "wikilink")、[ビジネス](../Page/ビジネス.md "wikilink")、[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")、[実用書](https://ja.wikipedia.org/wiki/実用書 "wikilink")などの[書籍を出版している](../Page/本.md "wikilink")。
 
 ## 沿革
 
@@ -13,18 +13,18 @@
   - [1994年](../Page/1994年.md "wikilink")6月 - 東京都千代田区[九段北](../Page/九段北.md "wikilink")の山崎ビルに移転。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月 - 東京都千代田区九段南の仙波ビルに移転。
   - [2003年](../Page/2003年.md "wikilink")7月 - 東京都千代田区九段南の九段藤山ビルに移転。
-  - [2007年](../Page/2007年.md "wikilink")12月 - 中小企業の経営者を応援する月刊誌「BUSINESS SUPPORT」（[東京商工リサーチ](https://ja.wikipedia.org/wiki/東京商工リサーチ "wikilink")発行）の編集・発売を開始（[2009年](../Page/2009年.md "wikilink")3月号まで刊行）。
-  - [2009年](../Page/2009年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") - 1Fで実験的に「WAVE SHOP」を開店（[11月13日](../Page/11月13日.md "wikilink")閉店）。
+  - [2007年](../Page/2007年.md "wikilink")12月 - 中小企業の経営者を応援する月刊誌「BUSINESS SUPPORT」（[東京商工リサーチ](../Page/東京商工リサーチ.md "wikilink")発行）の編集・発売を開始（[2009年](../Page/2009年.md "wikilink")3月号まで刊行）。
+  - [2009年](../Page/2009年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - 1Fで実験的に「WAVE SHOP」を開店（[11月13日](../Page/11月13日.md "wikilink")閉店）。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月 - [WAVE文庫](https://ja.wikipedia.org/wiki/WAVE文庫 "wikilink")を創刊。
   - [2011年](../Page/2011年.md "wikilink")6月 - 九段南JPR市ヶ谷ビルへ移転。商号を株式会社ＷＡＶＥ出版に変更。
   - [2012年](../Page/2012年.md "wikilink")5月 - 創立25周年を迎える。児童書部門創設。
   - [2017年](../Page/2017年.md "wikilink")2月 - 九段ニッカナビルへ移転。
-  - [2018年](../Page/2018年.md "wikilink")12月 - 株式会社[ぎょうせい](https://ja.wikipedia.org/wiki/ぎょうせい "wikilink")のグループ会社の一員となる。
+  - [2018年](../Page/2018年.md "wikilink")12月 - 株式会社[ぎょうせい](../Page/ぎょうせい.md "wikilink")のグループ会社の一員となる。
 
 ## 出版物
 
-  - 『新ニッポン見聞録』（[ピーター・フランクル](https://ja.wikipedia.org/wiki/ピーター・フランクル "wikilink")）
-  - 『彼女が[総合職](https://ja.wikipedia.org/wiki/総合職 "wikilink")を辞めた理由』（秋葉ふきこ）
+  - 『新ニッポン見聞録』（[ピーター・フランクル](../Page/ピーター・フランクル.md "wikilink")）
+  - 『彼女が[総合職](../Page/総合職.md "wikilink")を辞めた理由』（秋葉ふきこ）
   - 『英和和英 [金融](../Page/金融.md "wikilink")用語[辞典](../Page/辞典.md "wikilink")』（アイエスエス編著）
   - 『借りてはいけない』（行徳峰史）
   - 『捨て[犬を救う街](../Page/イヌ.md "wikilink")』（渡辺眞子）

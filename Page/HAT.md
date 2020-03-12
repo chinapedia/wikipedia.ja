@@ -1,13 +1,13 @@
 > この記事は[HAT](https://ja.wikipedia.org/wiki/HAT)から翻訳されています。
 
 
-**HAT**（ハット）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")ミュージック[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。ユニット名は、メンバーの[頭文字を並べたもの](../Page/頭字語.md "wikilink")。
+**HAT**（ハット）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")ミュージック[ユニット](../Page/音楽ユニット.md "wikilink")。ユニット名は、メンバーの[頭文字を並べたもの](../Page/頭字語.md "wikilink")。
 
 ## メンバー
 
   - [細野晴臣](../Page/細野晴臣.md "wikilink")
   - [アトム・ハート](https://ja.wikipedia.org/wiki/アトム・ハート "wikilink")
-  - [テツ・イノウエ](https://ja.wikipedia.org/wiki/テツ・イノウエ "wikilink")
+  - [テツ・イノウエ](../Page/テツ・イノウエ.md "wikilink")
 
 ## アルバム
 

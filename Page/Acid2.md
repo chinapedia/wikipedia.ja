@@ -1,9 +1,9 @@
 > この記事は[Acid2](https://ja.wikipedia.org/wiki/Acid2)から翻訳されています。
 
 
-**Acid2**（アシッドツー）は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")や[オーサリングツール](../Page/オーサリングツール.md "wikilink")における[ウェブページ](../Page/ウェブページ.md "wikilink")のレンダリング上の問題点を特定するために[ウェブスタンダードプロジェクト](https://ja.wikipedia.org/wiki/ウェブスタンダードプロジェクト "wikilink")(WaSP)が作成した[テストケース](https://ja.wikipedia.org/wiki/テストケース "wikilink")である。Acid2は同様のテストケース・[Acid1](https://ja.wikipedia.org/wiki/Acid1 "wikilink")（1998年開発）を後継したが、ほぼ主流ブラウザの対応完了およびさらなる後継版である[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")の公開（2008年3月）によって役目を終えつつある。
+**Acid2**（アシッドツー）は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")や[オーサリングツール](../Page/オーサリングツール.md "wikilink")における[ウェブページ](../Page/ウェブページ.md "wikilink")のレンダリング上の問題点を特定するために[ウェブスタンダードプロジェクト](../Page/ウェブスタンダードプロジェクト.md "wikilink")(WaSP)が作成した[テストケース](https://ja.wikipedia.org/wiki/テストケース "wikilink")である。Acid2は同様のテストケース・[Acid1](https://ja.wikipedia.org/wiki/Acid1 "wikilink")（1998年開発）を後継したが、ほぼ主流ブラウザの対応完了およびさらなる後継版である[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")の公開（2008年3月）によって役目を終えつつある。
 
-[HTML](../Page/HyperText_Markup_Language.md "wikilink") や [CSS](../Page/Cascading_Style_Sheets.md "wikilink") 2.1などの [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告等に、どの程度準拠しているかを測るために用いられる。完全に準拠したレンダリングで描かれるはずの画像とそのソースがあり、レンダリングイメージと画像の相違によりどの程度準拠しているかを測る。正確に準拠していれば、[スマイリーが描かれる](https://ja.wikipedia.org/wiki/スマイリーフェイス "wikilink")。
+[HTML](../Page/HyperText_Markup_Language.md "wikilink") や [CSS](../Page/Cascading_Style_Sheets.md "wikilink") 2.1などの [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告等に、どの程度準拠しているかを測るために用いられる。完全に準拠したレンダリングで描かれるはずの画像とそのソースがあり、レンダリングイメージと画像の相違によりどの程度準拠しているかを測る。正確に準拠していれば、[スマイリーが描かれる](../Page/スマイリーフェイス.md "wikilink")。
 
 ## 各ウェブブラウザでの状況
 
@@ -13,7 +13,7 @@
 
 ## 合格したアプリケーション
 
-[150px](https://ja.wikipedia.org/wiki/ファイル:Safariacid2.png "wikilink") Acid2テストは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")に公式発表された。テストに合格した代表的なソフトウェアリリースを時系列に沿って下記に示す（公式版初リリース時に既に合格していたアプリケーションは含んでいない）。 なお、下記に挙げられたブラウザでもページをスクロールさせたり、極端なフォントやウィンドウのサイズを設定するとスマイリーが不正確に表示される可能性がある。これは予期された振る舞いであり、ブラウザがテストに合格していないというわけではない。
+[150px](https://ja.wikipedia.org/wiki/ファイル:Safariacid2.png "wikilink") Acid2テストは[2005年](../Page/2005年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")に公式発表された。テストに合格した代表的なソフトウェアリリースを時系列に沿って下記に示す（公式版初リリース時に既に合格していたアプリケーションは含んでいない）。 なお、下記に挙げられたブラウザでもページをスクロールさせたり、極端なフォントやウィンドウのサイズを設定するとスマイリーが不正確に表示される可能性がある。これは予期された振る舞いであり、ブラウザがテストに合格していないというわけではない。
 
 <table>
 <thead>
@@ -74,7 +74,7 @@
 <td><p>Version 5.1。<a href="../Page/Extensible_Markup_Language.md" title="wikilink">XML</a> を <a href="../Page/Portable_Document_Format.md" title="wikilink">PDF</a> に変換するコンバータ。ブラウザ以外のソフトウェアとして初の合格。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Opera" title="wikilink">Opera</a></p></td>
 <td><p>公開weeklyビルド[8]</p></td>
 <td><p>Opera9 Windows 版 Weelky build にて。<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows上のブラウザとして初の合格</a>。公式ベータ版が<a href="https://ja.wikipedia.org/wiki/4月20日" title="wikilink">4月20日</a>にリリースされたが、これも同様に合格。</p></td>
@@ -174,7 +174,7 @@
 
 ## 不合格のアプリケーション
 
-[Internet Explorerも](../Page/Internet_Explorer.md "wikilink")、[CSS勧告への適合に向けて前進してはいるが](../Page/Cascading_Style_Sheets.md "wikilink")、Internet Explorer 7の時点では、テストに合格していない。Internet Explorerプラットフォームアーキテクトであるクリス・ウィルソンは、Acid2を真の標準適合性テストというより機能の「要望リスト」であるとしていた\[19\]。それにもかかわらず、Internet Explorer 8には「IE8標準モード」と呼ばれる新しい描画モードが含まれる予定である\[20\]。当初、IE8標準モードは既定では有効にされないが、Webページに特殊なフラグを挿入することで切り替えられるようにする予定であった\[21\]。IE8標準モードではIE8はAcid2テストに合格するが\[22\]、IE8標準モードは既定では有効にされていなかったので\[23\]、[オペラ・ソフトウェア](https://ja.wikipedia.org/wiki/オペラ・ソフトウェア "wikilink")の[CTOである](../Page/最高技術責任者.md "wikilink")[ホーコン・ウィウム・リー](../Page/ホーコン・ウィウム・リー.md "wikilink")はIE8が真にテストに合格したとはみなせないと主張していた\[24\]\[25\]。その後、マイクロソフトが同社の[相互運用性](https://ja.wikipedia.org/wiki/相互運用性 "wikilink")に関する方針を見直したことによってフル標準モードがデフォルトの[レンダリングモードに変更された](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")\[26\]。[互換モード](https://ja.wikipedia.org/wiki/互換モード "wikilink")でのレンダリングには、利用者側でIE7エミュレートボタンを使用するか\[27\]、Webサイト側がmeta要素などで明示する必要がある\[28\]。
+[Internet Explorerも](../Page/Internet_Explorer.md "wikilink")、[CSS勧告への適合に向けて前進してはいるが](../Page/Cascading_Style_Sheets.md "wikilink")、Internet Explorer 7の時点では、テストに合格していない。Internet Explorerプラットフォームアーキテクトであるクリス・ウィルソンは、Acid2を真の標準適合性テストというより機能の「要望リスト」であるとしていた\[19\]。それにもかかわらず、Internet Explorer 8には「IE8標準モード」と呼ばれる新しい描画モードが含まれる予定である\[20\]。当初、IE8標準モードは既定では有効にされないが、Webページに特殊なフラグを挿入することで切り替えられるようにする予定であった\[21\]。IE8標準モードではIE8はAcid2テストに合格するが\[22\]、IE8標準モードは既定では有効にされていなかったので\[23\]、[オペラ・ソフトウェア](https://ja.wikipedia.org/wiki/オペラ・ソフトウェア "wikilink")の[CTOである](../Page/最高技術責任者.md "wikilink")[ホーコン・ウィウム・リー](../Page/ホーコン・ウィウム・リー.md "wikilink")はIE8が真にテストに合格したとはみなせないと主張していた\[24\]\[25\]。その後、マイクロソフトが同社の[相互運用性](https://ja.wikipedia.org/wiki/相互運用性 "wikilink")に関する方針を見直したことによってフル標準モードがデフォルトの[レンダリングモードに変更された](../Page/レンダリング_\(コンピュータ\).md "wikilink")\[26\]。[互換モード](https://ja.wikipedia.org/wiki/互換モード "wikilink")でのレンダリングには、利用者側でIE7エミュレートボタンを使用するか\[27\]、Webサイト側がmeta要素などで明示する必要がある\[28\]。
 
 [Firefox 2など](../Page/Mozilla_Firefox.md "wikilink")、レイアウトエンジンに[Gecko](../Page/Gecko.md "wikilink")バージョン1.8を採用するブラウザは、テストに合格しない。その他[NetFront](https://ja.wikipedia.org/wiki/NetFront "wikilink")や、それを基にした[プレイステーション3のウェブブラウザもテストに失敗する](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
 

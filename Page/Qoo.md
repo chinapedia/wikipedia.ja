@@ -5,7 +5,7 @@
 
 ## 概要
 
-Qooのキャラクターデザインは「[でこぼこフレンズ](https://ja.wikipedia.org/wiki/でこぼこフレンズ "wikilink")」や「[ルミネのルミ姉](https://ja.wikipedia.org/wiki/ルミネ#ルミ姉 "wikilink")」でも知られる[丸山もも子](https://ja.wikipedia.org/wiki/丸山もも子 "wikilink")。アニメーションは[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")。 [1999年](../Page/1999年.md "wikilink")に、かつて出されていた果物風味の清涼飲料水、[HI-C](https://ja.wikipedia.org/wiki/HI-C "wikilink")の後継商品として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で誕生し（HI-Cは飲食店向け200ml瓶入りのオレンジのみ継続）、現在では[東アジア](https://ja.wikipedia.org/wiki/東アジア "wikilink")・[東南アジア](../Page/東南アジア.md "wikilink")の各地、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で販売されている。名称の由来は、大人がビールを飲み干して発する感嘆詞「クーッ」からであり、子どもも飲んで発してみたくなるような飲み物というコンセプト。 [2009年](../Page/2009年.md "wikilink")に、Qooは誕生10周年を迎えた。[2012年](../Page/2012年.md "wikilink")9月のリニューアル時に同社が展開する果実飲料ブランド「[ミニッツメイド](https://ja.wikipedia.org/wiki/ミニッツメイド "wikilink")」の傘下に入り（サブブランド化）、「**ミニッツメイド Qoo**」となったが、[2017年](../Page/2017年.md "wikilink")9月のリニューアル時より「ミニッツメイド」ブランドから独立し、単独ブランドに戻った。
+Qooのキャラクターデザインは「[でこぼこフレンズ](../Page/でこぼこフレンズ.md "wikilink")」や「[ルミネのルミ姉](https://ja.wikipedia.org/wiki/ルミネ#ルミ姉 "wikilink")」でも知られる[丸山もも子](https://ja.wikipedia.org/wiki/丸山もも子 "wikilink")。アニメーションは[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")。 [1999年](../Page/1999年.md "wikilink")に、かつて出されていた果物風味の清涼飲料水、[HI-C](https://ja.wikipedia.org/wiki/HI-C "wikilink")の後継商品として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で誕生し（HI-Cは飲食店向け200ml瓶入りのオレンジのみ継続）、現在では[東アジア](../Page/東アジア.md "wikilink")・[東南アジア](../Page/東南アジア.md "wikilink")の各地、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で販売されている。名称の由来は、大人がビールを飲み干して発する感嘆詞「クーッ」からであり、子どもも飲んで発してみたくなるような飲み物というコンセプト。 [2009年](../Page/2009年.md "wikilink")に、Qooは誕生10周年を迎えた。[2012年](../Page/2012年.md "wikilink")9月のリニューアル時に同社が展開する果実飲料ブランド「[ミニッツメイド](../Page/ミニッツメイド.md "wikilink")」の傘下に入り（サブブランド化）、「**ミニッツメイド Qoo**」となったが、[2017年](../Page/2017年.md "wikilink")9月のリニューアル時より「ミニッツメイド」ブランドから独立し、単独ブランドに戻った。
 
 ## キャラクター
 
@@ -100,13 +100,13 @@ Qooのキャラクターデザインは「[でこぼこフレンズ](https://ja.
 
 ## その他
 
-  - [2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年の[9月28日](../Page/9月28日.md "wikilink")までは、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列で放送されている](https://ja.wikipedia.org/wiki/TXN "wikilink")[子供向け](https://ja.wikipedia.org/wiki/子供番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")「[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")」内にて、Qooが世界のダンスを披露するという内容のコーナーアニメ「レッツ★クー★ダンス」が全26回放送された。
+  - [2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年の[9月28日](../Page/9月28日.md "wikilink")までは、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列で放送されている](https://ja.wikipedia.org/wiki/TXN "wikilink")[子供向け](../Page/子供番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")「[おはスタ](../Page/おはスタ.md "wikilink")」内にて、Qooが世界のダンスを披露するという内容のコーナーアニメ「レッツ★クー★ダンス」が全26回放送された。
 
 ## 関連項目
 
-  - [ミニッツメイド](https://ja.wikipedia.org/wiki/ミニッツメイド "wikilink") - 同社が展開する果実飲料
-  - [なっちゃん](https://ja.wikipedia.org/wiki/なっちゃん "wikilink") - Qooの競合商品
-  - [フキゲン](https://ja.wikipedia.org/wiki/フキゲン "wikilink") - キャラクター使用の[清涼飲料水](../Page/清涼飲料水.md "wikilink")
+  - [ミニッツメイド](../Page/ミニッツメイド.md "wikilink") - 同社が展開する果実飲料
+  - [なっちゃん](../Page/なっちゃん.md "wikilink") - Qooの競合商品
+  - [フキゲン](../Page/フキゲン.md "wikilink") - キャラクター使用の[清涼飲料水](../Page/清涼飲料水.md "wikilink")
 
 ## 外部リンク
 

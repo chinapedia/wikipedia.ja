@@ -3,11 +3,11 @@
 
 **Professional Graphics Controller** (プロフェッショナル グラフィックス コントローラー、PGC) は、[IBM](../Page/IBM.md "wikilink")が[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")用として[1984年](../Page/1984年.md "wikilink")に販売したインテリジェントな[ビデオカード](../Page/ビデオカード.md "wikilink")である。とも呼ばれる。登場時点ではPC/AT用としては最も高機能なビデオカードであった\[1\]。
 
-は最大解像度640x480ドット256色（[リフレッシュレート](https://ja.wikipedia.org/wiki/リフレッシュレート "wikilink")60Hz）で、[EGAや](../Page/Enhanced_Graphics_Adapter.md "wikilink")[VGAよりも高い](../Page/Video_Graphics_Array.md "wikilink")[画面解像度](../Page/画面解像度.md "wikilink")と[色深度](https://ja.wikipedia.org/wiki/色深度 "wikilink")をサポートしていた。このモードは[BIOSではサポートされていない](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。[CAD](../Page/CAD.md "wikilink")用途を対象にしており、320KBの[VRAM](../Page/VRAM.md "wikilink")と[Intel 8088マイクロプロセッサをオンボードで搭載していた](../Page/Intel_8088.md "wikilink")。8088はVRAMの更新を高速に行うためにカード上に直接搭載された。他のビデオカードはPC本体のCPUを使い、低速な[ISAバスを通してVRAMに表示データを書き込んでいた](../Page/Industry_Standard_Architecture.md "wikilink")。コンシューマクラスのパソコンでは普及する兆しはなかったものの、その定価US$4,290という価格は当時のCAD[ワークステーション](../Page/ワークステーション.md "wikilink")のUS$50,000に比べれば優位であった。PGCは1987年に登場した[VGAと](../Page/Video_Graphics_Array.md "wikilink")[8514をもって廃止された](https://ja.wikipedia.org/wiki/8514/A "wikilink")。
+は最大解像度640x480ドット256色（[リフレッシュレート](../Page/リフレッシュレート.md "wikilink")60Hz）で、[EGAや](../Page/Enhanced_Graphics_Adapter.md "wikilink")[VGAよりも高い](../Page/Video_Graphics_Array.md "wikilink")[画面解像度](../Page/画面解像度.md "wikilink")と[色深度](../Page/色深度.md "wikilink")をサポートしていた。このモードは[BIOSではサポートされていない](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。[CAD](../Page/CAD.md "wikilink")用途を対象にしており、320KBの[VRAM](../Page/VRAM.md "wikilink")と[Intel 8088マイクロプロセッサをオンボードで搭載していた](../Page/Intel_8088.md "wikilink")。8088はVRAMの更新を高速に行うためにカード上に直接搭載された。他のビデオカードはPC本体のCPUを使い、低速な[ISAバスを通してVRAMに表示データを書き込んでいた](../Page/Industry_Standard_Architecture.md "wikilink")。コンシューマクラスのパソコンでは普及する兆しはなかったものの、その定価US$4,290という価格は当時のCAD[ワークステーション](../Page/ワークステーション.md "wikilink")のUS$50,000に比べれば優位であった。PGCは1987年に登場した[VGAと](../Page/Video_Graphics_Array.md "wikilink")[8514をもって廃止された](https://ja.wikipedia.org/wiki/8514/A "wikilink")。
 
 ## 対応ソフトウェア
 
-本ボードはCAD用途をターゲットにしていたため、対応するソフトウェアは少数である思われる。PGCをサポートするソフトウェアとして知られているものは、IBMの[Graphical Kernel System](https://ja.wikipedia.org/wiki/Graphical_Kernel_System "wikilink")、 4.5、Canyon State Systems CompuShow\[2\]\[3\]、[AutoCAD](https://ja.wikipedia.org/wiki/AutoCAD "wikilink") 2.5。\[4\]
+本ボードはCAD用途をターゲットにしていたため、対応するソフトウェアは少数である思われる。PGCをサポートするソフトウェアとして知られているものは、IBMの[Graphical Kernel System](https://ja.wikipedia.org/wiki/Graphical_Kernel_System "wikilink")、 4.5、Canyon State Systems CompuShow\[2\]\[3\]、[AutoCAD](../Page/AutoCAD.md "wikilink") 2.5。\[4\]
 
 ## 出力能力
 
@@ -18,7 +18,7 @@ PGCは次の機能を持っている。
 
 ## 仕組み
 
-ディスプレイアダプターは3枚の基板（マイクロプロセッサ、ファームウェアROM、映像出力端子を搭載したボード、CGAエミュレーション機能を担うボード、RAMを搭載したボード）から構成され、XTまたはAT[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")上の2つのスロットを占有した\[7\]。3枚目のカードは2つのスロットの間に位置した。PGCはオリジナルの[IBM PCではスロットのスペースの違いのために無改造の状態では使用することができなかった](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")。
+ディスプレイアダプターは3枚の基板（マイクロプロセッサ、ファームウェアROM、映像出力端子を搭載したボード、CGAエミュレーション機能を担うボード、RAMを搭載したボード）から構成され、XTまたはAT[マザーボード](../Page/マザーボード.md "wikilink")上の2つのスロットを占有した\[7\]。3枚目のカードは2つのスロットの間に位置した。PGCはオリジナルの[IBM PCではスロットのスペースの違いのために無改造の状態では使用することができなかった](../Page/IBM_PC.md "wikilink")。
 
 ネイティブな640x480モードに加えて、PGCはオプションでCGA相当のテキスト・グラフィックモードをサポートした。それはボード上のジャンパーで有効にすることができた。しかし、CGAとの[レジスタレベルでの互換性は限定的であった](../Page/レジスタ_\(コンピュータ\).md "wikilink")。
 
@@ -28,7 +28,7 @@ PGCに対応するディスプレイはIBM 5175である。これは独自仕様
 
 ## ハードウェア互換品
 
-  - [Matrox](https://ja.wikipedia.org/wiki/Matrox "wikilink") PG-640, PG-1280, QG-640 (DEC [MicroVAX用](https://ja.wikipedia.org/wiki/VAX "wikilink"))\[9\]
+  - [Matrox](../Page/Matrox.md "wikilink") PG-640, PG-1280, QG-640 (DEC [MicroVAX用](../Page/VAX.md "wikilink"))\[9\]
   - [Dell](https://ja.wikipedia.org/wiki/Dell "wikilink") NEC MVA-1024
   - [Everex](https://ja.wikipedia.org/wiki/Everex "wikilink") EPGA
   - [Orchid Technology](https://ja.wikipedia.org/wiki/Orchid_Technology "wikilink") TurboPGA

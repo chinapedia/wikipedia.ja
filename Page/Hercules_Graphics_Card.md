@@ -1,7 +1,7 @@
 > この記事は[Hercules Graphics Card](https://ja.wikipedia.org/wiki/Hercules_Graphics_Card)から翻訳されています。
 
 
-[KL_Hercules_HGC.png](https://ja.wikipedia.org/wiki/File:KL_Hercules_HGC.png "fig:KL_Hercules_HGC.png") **Hercules Graphics Card** (ハーキュリーズ グラフィックス カード、**HGC**)は、[1980年代](../Page/1980年代.md "wikilink")中ごろのによる[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")用グラフィックスコントローラであり、当時、IBM純正品ではないにもかかわらず、標準的な地位を占めていた。MDA用モニタがそのまま利用できる。コントローラは、MDAやCGA同様モトローラ[MC6845を用いている](https://ja.wikipedia.org/wiki/CRTC_\(LSI\) "wikilink")。
+[KL_Hercules_HGC.png](https://ja.wikipedia.org/wiki/File:KL_Hercules_HGC.png "fig:KL_Hercules_HGC.png") **Hercules Graphics Card** (ハーキュリーズ グラフィックス カード、**HGC**)は、[1980年代](../Page/1980年代.md "wikilink")中ごろのによる[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")用グラフィックスコントローラであり、当時、IBM純正品ではないにもかかわらず、標準的な地位を占めていた。MDA用モニタがそのまま利用できる。コントローラは、MDAやCGA同様モトローラ[MC6845を用いている](../Page/CRTC_\(LSI\).md "wikilink")。
 
 HGCは、720x348 のモノクロ表示をサポートし、特に[スプレッドシート](https://ja.wikipedia.org/wiki/スプレッドシート "wikilink")の利用者に愛用された。
 
@@ -11,7 +11,7 @@ HGCは他のIBM標準のディスプレイアダプタと異なるアドレス([
 
 ## 技術仕様
 
-IBMの[MDAと同じように](../Page/Monochrome_Display_Adapter.md "wikilink")、HGCは[パラレルプリンタポートとビデオ出力端子の両方を搭載していた](https://ja.wikipedia.org/wiki/パラレルポート "wikilink")\[1\]。
+IBMの[MDAと同じように](../Page/Monochrome_Display_Adapter.md "wikilink")、HGCは[パラレルプリンタポートとビデオ出力端子の両方を搭載していた](../Page/パラレルポート.md "wikilink")\[1\]。
 
 テキストモードは80x25字を表示でき、MDAと互換性があった。文字は7x11ピクセルフォントを使用して9x14ピクセルのボックス（文字間・行間の空白を含む）で描画した。これによりCGAよりも鮮明なテキストを表示することができた。このテキストモードの理論的な合計解像度は720x350ピクセルであった。
 

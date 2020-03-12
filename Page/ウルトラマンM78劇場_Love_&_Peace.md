@@ -1,13 +1,13 @@
 > この記事は[M78 Love \& Peace](https://ja.wikipedia.org/wiki/M78_Love_\&_Peace)から翻訳されています。
 
 
-『**ウルトラマンM78劇場 Love & Peace**』（ウルトラマンえむななはちげきじょう ラブアンドピース）は、1999年3月6日から[松竹](../Page/松竹.md "wikilink")系で公開された[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の劇場アニメ映画。同時上映『[ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア 超時空の大決戦](https://ja.wikipedia.org/wiki/ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア_超時空の大決戦 "wikilink")』。
+『**ウルトラマンM78劇場 Love & Peace**』（ウルトラマンえむななはちげきじょう ラブアンドピース）は、1999年3月6日から[松竹](../Page/松竹.md "wikilink")系で公開された[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の劇場アニメ映画。同時上映『[ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア 超時空の大決戦](../Page/ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア_超時空の大決戦.md "wikilink")』。
 
 ## 概要
 
 文具やアパレルなどで商品展開しているディフォルメキャラクター「M78ウルトラマン」\[[http://www.m78-online.net/shopping/?ca=120\]のアニメ作品。平成ウルトラシリーズのキャラクターは本作のために新たにデザインされた](http://www.m78-online.net/shopping/?ca=120%5Dのアニメ作品。平成ウルトラシリーズのキャラクターは本作のために新たにデザインされた)\[1\]。
 
-2002年6月15日、主演俳優誤認逮捕によって放送を休止した『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』の代替番組としてテレビ放送された（番組の冒頭と終了時には主演俳優逮捕に対するお詫びのテロップが表示された）。 なお、放送終了後の提供クレジットでは、直前に放送されていたCM（[ミニモニ。](../Page/ミニモニ。.md "wikilink")のメンバーである[ミカ・タレッサ・トッド](https://ja.wikipedia.org/wiki/ミカ・タレッサ・トッド "wikilink")が出演する[小学館](../Page/小学館.md "wikilink")ホームパルのCM）の映像にクレジットが数秒間挿入され、後に本作の映像に切り替わるという[放送事故](https://ja.wikipedia.org/wiki/放送事故 "wikilink")が発生した。
+2002年6月15日、主演俳優誤認逮捕によって放送を休止した『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』の代替番組としてテレビ放送された（番組の冒頭と終了時には主演俳優逮捕に対するお詫びのテロップが表示された）。 なお、放送終了後の提供クレジットでは、直前に放送されていたCM（[ミニモニ。](../Page/ミニモニ。.md "wikilink")のメンバーである[ミカ・タレッサ・トッド](../Page/ミカ・タレッサ・トッド.md "wikilink")が出演する[小学館](../Page/小学館.md "wikilink")ホームパルのCM）の映像にクレジットが数秒間挿入され、後に本作の映像に切り替わるという[放送事故](../Page/放送事故.md "wikilink")が発生した。
 
 ## ストーリー
 
@@ -19,9 +19,9 @@
 
 ### ウルトラドミノ
 
-[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")、[ウルトラマンゼアス](../Page/ウルトラマンゼアス.md "wikilink")、[バルタン星人](../Page/バルタン星人.md "wikilink")、[ガヴァドンA](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#二次元怪獣_ガヴァドン "wikilink")、[ガンダーが何百人もの観客の前で](https://ja.wikipedia.org/wiki/ウルトラセブンの登場怪獣#凍結怪獣_ガンダー "wikilink")[ドミノ](https://ja.wikipedia.org/wiki/ドミノ "wikilink")に挑戦するストーリー。
+[ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")、[ウルトラマンゼアス](../Page/ウルトラマンゼアス.md "wikilink")、[バルタン星人](../Page/バルタン星人.md "wikilink")、[ガヴァドンA](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#二次元怪獣_ガヴァドン "wikilink")、[ガンダーが何百人もの観客の前で](https://ja.wikipedia.org/wiki/ウルトラセブンの登場怪獣#凍結怪獣_ガンダー "wikilink")[ドミノ](../Page/ドミノ.md "wikilink")に挑戦するストーリー。
 
-セブンが一枚目の板を倒すと、奥にあるウルトラマンの像のカラータイマーの下にあるタイマーが動き始める。中盤に入るとセブンの像に達し、アイスラッガーで次のドミノが動き始める。事は順調に進んだが突然地面が裂け、地面を掘り進んでいた[ゴモラがその場のまだ倒れていない板を逆に倒してしまう](https://ja.wikipedia.org/wiki/ゴモラ_\(ウルトラ怪獣\) "wikilink")。だが逆走する板はすぐにガンダーの冷凍光線で止められ、セブンとゼアス、たくさんに分身したバルタン星人が急いで板を立て直した。
+セブンが一枚目の板を倒すと、奥にあるウルトラマンの像のカラータイマーの下にあるタイマーが動き始める。中盤に入るとセブンの像に達し、アイスラッガーで次のドミノが動き始める。事は順調に進んだが突然地面が裂け、地面を掘り進んでいた[ゴモラがその場のまだ倒れていない板を逆に倒してしまう](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")。だが逆走する板はすぐにガンダーの冷凍光線で止められ、セブンとゼアス、たくさんに分身したバルタン星人が急いで板を立て直した。
 
 あと少しでドミノが来るというその時、凍りついたままの板にゼアスが気づいてしまう。パニックを起こすゼアスをセブンとガンダーがサポートし、スペシュッシュラ光線で板の氷を溶かす。最後の地点までドミノが進むと、倒れた板が巨大なガヴァドンAの絵になった。直後、ウルトラマンの像の目から特殊光線が照射され巨大ガヴァドンAが実体化、地面の模様の中心に向かってのろのろと歩き出す。動きの遅い巨大ガヴァドンAをゼアスとセブンが引っ張るが、巨大ガヴァドンAはすぐにばててしまった。
 
@@ -29,7 +29,7 @@
 
 ### MINIMINI・手品
 
-ウルトラマンがジェントルマン風の衣装で登場し手品を披露する。[ピグモン](https://ja.wikipedia.org/wiki/ピグモン "wikilink")が苺と思しき小さな果実を持ってきて机の上に置くと、ウルトラマンが布で隠して消してしまう。次にリンゴを持ってきた。同じように布で隠す。また消えているがウルトラマンの口が微妙に動いていた。最後はスイカ。同じように布で隠すとまた消えてしまったが、ウルトラマンのお腹が異様に膨れていた……。
+ウルトラマンがジェントルマン風の衣装で登場し手品を披露する。[ピグモン](../Page/ピグモン.md "wikilink")が苺と思しき小さな果実を持ってきて机の上に置くと、ウルトラマンが布で隠して消してしまう。次にリンゴを持ってきた。同じように布で隠す。また消えているがウルトラマンの口が微妙に動いていた。最後はスイカ。同じように布で隠すとまた消えてしまったが、ウルトラマンのお腹が異様に膨れていた……。
 
 ### MINIMINI・幽霊退治
 
@@ -43,9 +43,9 @@
 
 [ドドンゴと一緒にシャボン玉で遊んでいたウルトラマンがシャボン玉に入ってしまい](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#ミイラ怪獣_ドドンゴ "wikilink")、飛ばされるストーリー。
 
-ドドンゴはウルトラマンを追いかけるが中々追いつかない。ウルトラマンが入ったシャボン玉は海に入る。それを追っていたドドンゴも海に落ちてしまう。ウルトラマンは光る洞窟を見つける。その中には海底レストランがあった。その頃、ウルトラマンを探していたドドンゴは[ラゴンから光る玉の付いた](https://ja.wikipedia.org/wiki/ラゴン_\(ウルトラ怪獣\) "wikilink")[サンゴ](../Page/サンゴ.md "wikilink")をもらう。ようやくウルトラマンと合流するドドンゴ。しかし、その時近くにあった貝が開き（中には[ガマクジラがいた](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#汐吹き怪獣_ガマクジラ "wikilink")）、中からたくさんの泡が現れて海面に流されてしまった。
+ドドンゴはウルトラマンを追いかけるが中々追いつかない。ウルトラマンが入ったシャボン玉は海に入る。それを追っていたドドンゴも海に落ちてしまう。ウルトラマンは光る洞窟を見つける。その中には海底レストランがあった。その頃、ウルトラマンを探していたドドンゴは[ラゴンから光る玉の付いた](../Page/ラゴン_\(ウルトラ怪獣\).md "wikilink")[サンゴ](../Page/サンゴ.md "wikilink")をもらう。ようやくウルトラマンと合流するドドンゴ。しかし、その時近くにあった貝が開き（中には[ガマクジラがいた](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#汐吹き怪獣_ガマクジラ "wikilink")）、中からたくさんの泡が現れて海面に流されてしまった。
 
-ウルトラマンとドドンゴはシャボン玉の中で一緒になる。ところがそれもつかの間、突如現れた[バードンにシャボン玉を割られてしまう](https://ja.wikipedia.org/wiki/バードン_\(ウルトラ怪獣\) "wikilink")。ウルトラマンは飛ぼうとしたが結局数秒しか飛べず、ドドンゴもろとも落ちてしまう。
+ウルトラマンとドドンゴはシャボン玉の中で一緒になる。ところがそれもつかの間、突如現れた[バードンにシャボン玉を割られてしまう](../Page/バードン_\(ウルトラ怪獣\).md "wikilink")。ウルトラマンは飛ぼうとしたが結局数秒しか飛べず、ドドンゴもろとも落ちてしまう。
 
 一方その頃、[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")がウルトラマンを探していた。ティガは眠っているウルトラマンを起こす。目覚めたウルトラマンとドドンゴは、今までの事はすべて夢であったことを認識した。ドドンゴと別れるウルトラマン。しかし、その近くには、ラゴンからもらった光る玉の付いたサンゴが落ちていた……。
 
@@ -74,31 +74,31 @@
 ## 声の出演
 
   - [大谷育江](../Page/大谷育江.md "wikilink")
-  - [梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
+  - [梁田清之](../Page/梁田清之.md "wikilink")
   - [上田祐司](../Page/うえだゆうじ.md "wikilink")
-  - [世田壱恵](https://ja.wikipedia.org/wiki/世田壱恵 "wikilink")
-  - [伊藤舞子](https://ja.wikipedia.org/wiki/伊藤舞子 "wikilink")
+  - [世田壱恵](../Page/世田壱恵.md "wikilink")
+  - [伊藤舞子](../Page/伊藤舞子.md "wikilink")
   - [平原優子](https://ja.wikipedia.org/wiki/平原優子 "wikilink")
   - [安達まり](../Page/安達まり.md "wikilink")
 
 ## スタッフ
 
-  - 監督 - [ときたひろこ](https://ja.wikipedia.org/wiki/ときたひろこ "wikilink")
-  - 構成 - 森みちこ、[太田愛](https://ja.wikipedia.org/wiki/太田愛 "wikilink")、[大西信介](https://ja.wikipedia.org/wiki/大西信介 "wikilink")、[渋谷浩康](https://ja.wikipedia.org/wiki/渋谷浩康 "wikilink")
+  - 監督 - [ときたひろこ](../Page/ときたひろこ.md "wikilink")
+  - 構成 - 森みちこ、[太田愛](../Page/太田愛.md "wikilink")、[大西信介](../Page/大西信介.md "wikilink")、[渋谷浩康](../Page/渋谷浩康.md "wikilink")
   - キャラクター設計 - [高橋春男](../Page/高橋春男.md "wikilink")
   - キャラクターデザイン - クラークケント、中田和幸、小島実、長島健二、島田美樹子、奥村享子、つちやかずとも、丹波賢一
   - 絵コンテ - 浜野哲人、高橋春男、[えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink")、桂川吉春
-  - 作画監督 - [安藤正浩](https://ja.wikipedia.org/wiki/安藤正浩 "wikilink")
+  - 作画監督 - [安藤正浩](../Page/安藤正浩.md "wikilink")
   - 美術 - 工藤ただし、松岡聡
   - 色彩設計 - 鈴城留美子
   - 撮影 - 岡崎英夫
-  - 編集 - [瀬山武司](https://ja.wikipedia.org/wiki/瀬山武司 "wikilink")
-  - 音楽 - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
-  - 録音演出 - [亀山俊樹](https://ja.wikipedia.org/wiki/亀山俊樹 "wikilink")
+  - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
+  - 音楽 - [大島ミチル](../Page/大島ミチル.md "wikilink")
+  - 録音演出 - [亀山俊樹](../Page/亀山俊樹.md "wikilink")
   - 制作プロデューサー - 浅利義美、大橋浩一郎
-  - プロデューサー - [鈴木清](https://ja.wikipedia.org/wiki/鈴木清_\(映画監督\) "wikilink")、吉田剛、[川城和実](https://ja.wikipedia.org/wiki/川城和実 "wikilink")、[平野隆](https://ja.wikipedia.org/wiki/平野隆 "wikilink")、[丸谷嘉彦](https://ja.wikipedia.org/wiki/丸谷嘉彦 "wikilink")、水尾芳正、石川清司
-  - アニメーション制作 - [トライアングルスタッフ](https://ja.wikipedia.org/wiki/トライアングルスタッフ "wikilink")
-  - 製作 - ウルトラマンM78劇場製作委員会（[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")、[松竹](../Page/松竹.md "wikilink")、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、[毎日放送](../Page/毎日放送.md "wikilink")、[講談社](../Page/講談社.md "wikilink")、[読売広告社](https://ja.wikipedia.org/wiki/読売広告社 "wikilink")）
+  - プロデューサー - [鈴木清](https://ja.wikipedia.org/wiki/鈴木清_\(映画監督\) "wikilink")、吉田剛、[川城和実](../Page/川城和実.md "wikilink")、[平野隆](../Page/平野隆.md "wikilink")、[丸谷嘉彦](../Page/丸谷嘉彦.md "wikilink")、水尾芳正、石川清司
+  - アニメーション制作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
+  - 製作 - ウルトラマンM78劇場製作委員会（[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")、[松竹](../Page/松竹.md "wikilink")、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")、[毎日放送](../Page/毎日放送.md "wikilink")、[講談社](../Page/講談社.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")）
 
 ## 主題歌
 
@@ -114,7 +114,7 @@
 
 ## 外部リンク
 
-  - [ウルトラマンM78劇場 Love & peace](http://www.jmdb.ne.jp/index.cgi?%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3%ef%bc%ad%ef%bc%97%ef%bc%98%e5%8a%87%e5%a0%b4%e3%80%80%ef%bc%ac%ef%bd%8f%ef%bd%96%ef%bd%85%ef%bc%86%ef%bc%b0%ef%bd%85%ef%bd%81%ef%bd%83%ef%bd%85) - [日本映画データベース](https://ja.wikipedia.org/wiki/日本映画データベース "wikilink")
+  - [ウルトラマンM78劇場 Love & peace](http://www.jmdb.ne.jp/index.cgi?%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3%ef%bc%ad%ef%bc%97%ef%bc%98%e5%8a%87%e5%a0%b4%e3%80%80%ef%bc%ac%ef%bd%8f%ef%bd%96%ef%bd%85%ef%bc%86%ef%bc%b0%ef%bd%85%ef%bd%81%ef%bd%83%ef%bd%85) - [日本映画データベース](../Page/日本映画データベース.md "wikilink")
 
 [Category:ウルトラシリーズアニメ作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズアニメ作品 "wikilink") [Category:ウルトラシリーズ映画作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズ映画作品 "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1999年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1999年のアニメ映画 "wikilink") [Category:トライアングルスタッフ](https://ja.wikipedia.org/wiki/Category:トライアングルスタッフ "wikilink") [Category:松竹のアニメ映画](https://ja.wikipedia.org/wiki/Category:松竹のアニメ映画 "wikilink") [Category:バンダイビジュアルのアニメ映画](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ映画 "wikilink") [Category:TBS製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:TBS製作のアニメ映画 "wikilink") [Category:毎日放送製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:毎日放送製作のアニメ映画 "wikilink") [Category:講談社のアニメ作品](https://ja.wikipedia.org/wiki/Category:講談社のアニメ作品 "wikilink") [Category:読売広告社のアニメ作品](https://ja.wikipedia.org/wiki/Category:読売広告社のアニメ作品 "wikilink") [Category:ユーメックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ユーメックスのアニメ作品 "wikilink") [Category:大島ミチルの作曲映画](https://ja.wikipedia.org/wiki/Category:大島ミチルの作曲映画 "wikilink")
 

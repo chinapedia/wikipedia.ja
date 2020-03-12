@@ -5,7 +5,7 @@
 
 以下にVESAにて制定された標準を列挙する。
 
-  - [DisplayPort](https://ja.wikipedia.org/wiki/DisplayPort "wikilink")
+  - [DisplayPort](../Page/DisplayPort.md "wikilink")
 
       -
         デジタル・ディスプレイ装置の為に設計された映像・音声出力インタフェースの標準化規格。

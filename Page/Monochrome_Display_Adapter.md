@@ -1,15 +1,15 @@
 > この記事は[Monochrome Display Adapter](https://ja.wikipedia.org/wiki/Monochrome_Display_Adapter)から翻訳されています。
 
 
-[IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg](https://ja.wikipedia.org/wiki/File:IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg "fig:IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg") **Monochrome Display Adapter** (モノクローム ディスプレイ アダプター、**MDA**) は、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")に[IBM PC用に開発された標準](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")である。[CGAとともに](../Page/Color_Graphics_Adapter.md "wikilink")、IBM PCおよびその互換機用の最初の標準ビデオカードであった。
+[IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg](https://ja.wikipedia.org/wiki/File:IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg "fig:IBM_PC_Original_Monochrome_Display_and_Parallel_Printer_Adapter.jpg") **Monochrome Display Adapter** (モノクローム ディスプレイ アダプター、**MDA**) は、[1981年](../Page/1981年.md "wikilink")に[IBM PC用に開発された標準](../Page/IBM_PC.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")である。[CGAとともに](../Page/Color_Graphics_Adapter.md "wikilink")、IBM PCおよびその互換機用の最初の標準ビデオカードであった。
 
 MDAには4K[バイトの](../Page/バイト_\(情報\).md "wikilink")[VRAM](../Page/VRAM.md "wikilink")が搭載され、80桁×25行のテキストを表示することができた。また、プリンタインターフェースを持っており、当時求められていた、テキスト表示とプリントアウトのための機能を考えると、お買い得であった。コントローラは、CGA同様モトローラ[MC6845](https://ja.wikipedia.org/wiki/MC6845 "wikilink")を用いている。
 
-グラフィックスの解像度としては、720×350[ピクセル](../Page/ピクセル.md "wikilink")に相当するため、後にこの解像度でグラフィック表示を行える [Hercules Graphics Card](https://ja.wikipedia.org/wiki/Hercules_Graphics_Card "wikilink") がHercules社から発売され、おりからの[スプレッドシート](https://ja.wikipedia.org/wiki/スプレッドシート "wikilink")ブームと相まって爆発的な売れ行きを示したと言う。
+グラフィックスの解像度としては、720×350[ピクセル](../Page/ピクセル.md "wikilink")に相当するため、後にこの解像度でグラフィック表示を行える [Hercules Graphics Card](../Page/Hercules_Graphics_Card.md "wikilink") がHercules社から発売され、おりからの[スプレッドシート](https://ja.wikipedia.org/wiki/スプレッドシート "wikilink")ブームと相まって爆発的な売れ行きを示したと言う。
 
 ## 機能
 
-MDAの合計画面解像度は720×350ピクセルで、9ピクセル幅が80字と14ピクセルの高さが25行の文字で構成される。しかし、MDAは各ピクセルを個別に扱うことはできず、各位置に256種類の文字を表示するテキストモードのみを備える。その始めの128字は標準的な[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字セット。後の128字はアクセント文字、[ローマン体](https://ja.wikipedia.org/wiki/ローマン体 "wikilink")、数学記号やグラフィック文字を含んでおり、[拡張ASCII](https://ja.wikipedia.org/wiki/拡張ASCII "wikilink")として知られる。この文字セットは[コードページ](https://ja.wikipedia.org/wiki/コードページ "wikilink")437として知られる。[フォント](../Page/フォント.md "wikilink")パターンは8KBの[ROMに記憶されており](../Page/Read_only_memory.md "wikilink")、ソフトウェアから変更することはできない。[アスキーアート](https://ja.wikipedia.org/wiki/アスキーアート "wikilink")が「グラフィカル」に表示を行う唯一の方法である。
+MDAの合計画面解像度は720×350ピクセルで、9ピクセル幅が80字と14ピクセルの高さが25行の文字で構成される。しかし、MDAは各ピクセルを個別に扱うことはできず、各位置に256種類の文字を表示するテキストモードのみを備える。その始めの128字は標準的な[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字セット。後の128字はアクセント文字、[ローマン体](../Page/ローマン体.md "wikilink")、数学記号やグラフィック文字を含んでおり、[拡張ASCII](../Page/拡張ASCII.md "wikilink")として知られる。この文字セットは[コードページ](../Page/コードページ.md "wikilink")437として知られる。[フォント](../Page/フォント.md "wikilink")パターンは8KBの[ROMに記憶されており](../Page/Read_only_memory.md "wikilink")、ソフトウェアから変更することはできない。[アスキーアート](../Page/アスキーアート.md "wikilink")が「グラフィカル」に表示を行う唯一の方法である。
 
 ## 文字アトリビュート
 

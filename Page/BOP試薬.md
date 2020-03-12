@@ -11,9 +11,9 @@
 
 いずれのBOP試薬も反応系中で遊離カルボン酸と反応しHOBtエステルなど活性エステルを生成させる縮合剤である\[3\]。
 
-カストロ試薬を利用して、P. RivaileらはLH-RHホルモンフラグメントを合成し\[4\]、Wengerらは[シクロスポリン](https://ja.wikipedia.org/wiki/シクロスポリン "wikilink")を合成している\[5\]。
+カストロ試薬を利用して、P. RivaileらはLH-RHホルモンフラグメントを合成し\[4\]、Wengerらは[シクロスポリン](../Page/シクロスポリン.md "wikilink")を合成している\[5\]。
 
-同じくHOBt活性エステルを生成する[DCC](https://ja.wikipedia.org/wiki/N,N'-ジシクロヘキシルカルボジイミド "wikilink")/[HOBt法に比べカストロ試薬は反応も速く](https://ja.wikipedia.org/wiki/1-ヒドロキシベンゾトリアゾール "wikilink")、DCUのような不溶性の副産物を生成しない点は有利である。しかしカストロ試薬自体は反応後に生成する[HMPAの](https://ja.wikipedia.org/wiki/ヘキサメチルリン酸トリアミド "wikilink")[発癌性](https://ja.wikipedia.org/wiki/発癌性 "wikilink")が問題視されており、BOP誘導体が代換品として利用されることが多い。
+同じくHOBt活性エステルを生成する[DCC](https://ja.wikipedia.org/wiki/N,N'-ジシクロヘキシルカルボジイミド "wikilink")/[HOBt法に比べカストロ試薬は反応も速く](../Page/1-ヒドロキシベンゾトリアゾール.md "wikilink")、DCUのような不溶性の副産物を生成しない点は有利である。しかしカストロ試薬自体は反応後に生成する[HMPAの](../Page/ヘキサメチルリン酸トリアミド.md "wikilink")[発癌性](../Page/発癌性.md "wikilink")が問題視されており、BOP誘導体が代換品として利用されることが多い。
 
 ## BOP誘導体
 
@@ -37,7 +37,7 @@ Image:BOP reagent.png| BOP Castro試薬 Image:PyBOP.svg| PyBoP®
 ## 関連項目
 
   - [ペプチド合成](https://ja.wikipedia.org/wiki/ペプチド合成 "wikilink")
-  - [1-ヒドロキシベンゾトリアゾール](https://ja.wikipedia.org/wiki/1-ヒドロキシベンゾトリアゾール "wikilink")
+  - [1-ヒドロキシベンゾトリアゾール](../Page/1-ヒドロキシベンゾトリアゾール.md "wikilink")
 
 [Category:有機反応試剤](https://ja.wikipedia.org/wiki/Category:有機反応試剤 "wikilink") [Category:ベンゾトリアゾール](https://ja.wikipedia.org/wiki/Category:ベンゾトリアゾール "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:アミン](https://ja.wikipedia.org/wiki/Category:アミン "wikilink") [Category:ヘキサフルオロリン酸塩](https://ja.wikipedia.org/wiki/Category:ヘキサフルオロリン酸塩 "wikilink")
 

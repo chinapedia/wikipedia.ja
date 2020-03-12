@@ -1,27 +1,27 @@
 > この記事は[UP STAR](https://ja.wikipedia.org/wiki/UP_STAR)から翻訳されています。
 
 
-**UP STAR** (アップスター) は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**UP STAR** (アップスター) は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
 
-2004年9月に[成昌司](https://ja.wikipedia.org/wiki/成昌司 "wikilink") (現・[成田昌児](https://ja.wikipedia.org/wiki/成田昌児 "wikilink")) と[加藤良輔](https://ja.wikipedia.org/wiki/加藤良輔 "wikilink")により結成され活動していたが、2006年3月25日のライブをもって解散した。
+2004年9月に[成昌司](https://ja.wikipedia.org/wiki/成昌司 "wikilink") (現・[成田昌児](https://ja.wikipedia.org/wiki/成田昌児 "wikilink")) と[加藤良輔](../Page/加藤良輔.md "wikilink")により結成され活動していたが、2006年3月25日のライブをもって解散した。
 
 ## メンバー
 
-  - [加藤良輔](https://ja.wikipedia.org/wiki/加藤良輔 "wikilink") ([1984年](../Page/1984年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - )
+  - [加藤良輔](../Page/加藤良輔.md "wikilink") ([1984年](../Page/1984年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - )
 
 <!-- end list -->
 
   -
-    [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [茨城県](../Page/茨城県.md "wikilink")出身。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 <!-- end list -->
 
-  - [成昌司](https://ja.wikipedia.org/wiki/成昌司 "wikilink") (現・[成田昌児](https://ja.wikipedia.org/wiki/成田昌児 "wikilink")) ([1984年](../Page/1984年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - )
+  - [成昌司](https://ja.wikipedia.org/wiki/成昌司 "wikilink") (現・[成田昌児](https://ja.wikipedia.org/wiki/成田昌児 "wikilink")) ([1984年](../Page/1984年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - )
 
 <!-- end list -->
 
   -
-    [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [大阪府](../Page/大阪府.md "wikilink")出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 出演
 

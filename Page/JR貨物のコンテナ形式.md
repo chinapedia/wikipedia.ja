@@ -12,15 +12,15 @@
 ##### 有蓋コンテナ
 
   - [19D形](../Page/JR貨物19D形コンテナ.md "wikilink")
-  - [19G形](https://ja.wikipedia.org/wiki/JR貨物19G形コンテナ "wikilink")
-  - [20B形](https://ja.wikipedia.org/wiki/JR貨物20B形コンテナ "wikilink")
-  - [20C形](https://ja.wikipedia.org/wiki/JR貨物20C形コンテナ "wikilink")
+  - [19G形](../Page/JR貨物19G形コンテナ.md "wikilink")
+  - [20B形](../Page/JR貨物20B形コンテナ.md "wikilink")
+  - [20C形](../Page/JR貨物20C形コンテナ.md "wikilink")
   - [20D形](https://ja.wikipedia.org/wiki/JR貨物20D形コンテナ "wikilink")
   - [20E形](https://ja.wikipedia.org/wiki/JR貨物20E形コンテナ "wikilink")
 
 ##### 無蓋コンテナ
 
-  - [M2A形](https://ja.wikipedia.org/wiki/JR貨物M2A形コンテナ "wikilink")
+  - [M2A形](../Page/JR貨物M2A形コンテナ.md "wikilink")
 
 ##### 通風コンテナ
 
@@ -57,10 +57,10 @@
 
 ##### 有蓋コンテナ
 
-  - [30A形](https://ja.wikipedia.org/wiki/JR貨物30A形コンテナ "wikilink")
-  - [30B形](https://ja.wikipedia.org/wiki/JR貨物30B形コンテナ "wikilink")
+  - [30A形](../Page/JR貨物30A形コンテナ.md "wikilink")
+  - [30B形](../Page/JR貨物30B形コンテナ.md "wikilink")
   - [30C形](https://ja.wikipedia.org/wiki/JR貨物30C形コンテナ "wikilink")
-  - [30D形](https://ja.wikipedia.org/wiki/JR貨物30D形コンテナ "wikilink")
+  - [30D形](../Page/JR貨物30D形コンテナ.md "wikilink")
 
 ##### 無蓋コンテナ
 
@@ -92,17 +92,17 @@
 
   - [U16A形](https://ja.wikipedia.org/wiki/JR貨物U16A形コンテナ "wikilink")
   - [U17A形](https://ja.wikipedia.org/wiki/JR貨物U17A形コンテナ "wikilink")
-  - [U18A形](https://ja.wikipedia.org/wiki/JR貨物U18A形コンテナ "wikilink")
+  - [U18A形](../Page/JR貨物U18A形コンテナ.md "wikilink")
   - [U19A形](https://ja.wikipedia.org/wiki/JR貨物U19A形コンテナ "wikilink")
   - [U19B形](https://ja.wikipedia.org/wiki/JR貨物U19B形コンテナ "wikilink")
   - [U19D形](https://ja.wikipedia.org/wiki/JR貨物U19D形コンテナ "wikilink")
   - [U20A形](https://ja.wikipedia.org/wiki/JR貨物U20A形コンテナ "wikilink")
-  - [U22A形](https://ja.wikipedia.org/wiki/JR貨物U22A形コンテナ "wikilink")
+  - [U22A形](../Page/JR貨物U22A形コンテナ.md "wikilink")
 
 ##### 無蓋コンテナ
 
   - [UM1形](https://ja.wikipedia.org/wiki/国鉄UM1形コンテナ "wikilink")
-  - [UM8A形](https://ja.wikipedia.org/wiki/JR貨物UM8A形コンテナ "wikilink")
+  - [UM8A形](../Page/JR貨物UM8A形コンテナ.md "wikilink")
   - [UM8C形](https://ja.wikipedia.org/wiki/JR貨物UM8C形コンテナ "wikilink")
   - [UM9A形](https://ja.wikipedia.org/wiki/JR貨物UM9A形コンテナ "wikilink")
 
@@ -125,7 +125,7 @@
 ##### 冷凍コンテナ
 
   - [UF14A形](https://ja.wikipedia.org/wiki/JR貨物UF14A形コンテナ "wikilink")
-  - [UF15A形](https://ja.wikipedia.org/wiki/JR貨物UF15A形コンテナ "wikilink")
+  - [UF15A形](../Page/JR貨物UF15A形コンテナ.md "wikilink")
   - [UF16A形](https://ja.wikipedia.org/wiki/JR貨物UF16A形コンテナ "wikilink")
   - [UF16R形](https://ja.wikipedia.org/wiki/JR貨物UF16R形コンテナ "wikilink")
   - [UF17A形](https://ja.wikipedia.org/wiki/JR貨物UF17A形コンテナ "wikilink")
@@ -179,13 +179,13 @@
 ##### 無蓋コンテナ
 
   - [UM5形](https://ja.wikipedia.org/wiki/国鉄UM5形コンテナ "wikilink")
-  - [UM11A形](https://ja.wikipedia.org/wiki/JR貨物UM11A形コンテナ "wikilink")
+  - [UM11A形](../Page/JR貨物UM11A形コンテナ.md "wikilink")
   - [UM12A形](https://ja.wikipedia.org/wiki/JR貨物UM12A形コンテナ "wikilink")
   - [UM13A形](https://ja.wikipedia.org/wiki/JR貨物UM13A形コンテナ "wikilink")
   - [UM14A形](https://ja.wikipedia.org/wiki/JR貨物UM14A形コンテナ "wikilink")
-  - [UM14C形](https://ja.wikipedia.org/wiki/JR貨物UM14C形コンテナ "wikilink")
+  - [UM14C形](../Page/JR貨物UM14C形コンテナ.md "wikilink")
   - [UM16A形](https://ja.wikipedia.org/wiki/JR貨物UM16A形コンテナ "wikilink")
-  - [UM20A形](https://ja.wikipedia.org/wiki/JR貨物UM20A形コンテナ "wikilink")
+  - [UM20A形](../Page/JR貨物UM20A形コンテナ.md "wikilink")
   - [UM21A形](https://ja.wikipedia.org/wiki/JR貨物UM21A形コンテナ "wikilink")
 
 ##### 通風コンテナ
@@ -213,7 +213,7 @@
   - [UT7形](https://ja.wikipedia.org/wiki/国鉄UT7形コンテナ "wikilink")
   - [UT9形](https://ja.wikipedia.org/wiki/国鉄UT9形コンテナ "wikilink")
   - [UT03C形](https://ja.wikipedia.org/wiki/JR貨物UT03C形コンテナ "wikilink")
-  - [UT06C形](https://ja.wikipedia.org/wiki/JR貨物UT06C形コンテナ "wikilink")
+  - [UT06C形](../Page/JR貨物UT06C形コンテナ.md "wikilink")
   - [UT7A形](https://ja.wikipedia.org/wiki/JR貨物UT7A形コンテナ "wikilink")
   - [UT7C形](https://ja.wikipedia.org/wiki/JR貨物UT7C形コンテナ "wikilink")
   - [UT8A形](https://ja.wikipedia.org/wiki/JR貨物UT8A形コンテナ "wikilink")
@@ -222,14 +222,14 @@
   - [UT9C形](https://ja.wikipedia.org/wiki/JR貨物UT9C形コンテナ "wikilink")
   - [UT9F形](https://ja.wikipedia.org/wiki/JR貨物UT9F形コンテナ "wikilink")
   - [UT10A形](https://ja.wikipedia.org/wiki/JR貨物UT10A形コンテナ "wikilink")
-  - [UT10C形](https://ja.wikipedia.org/wiki/JR貨物UT10C形コンテナ "wikilink")
+  - [UT10C形](../Page/JR貨物UT10C形コンテナ.md "wikilink")
   - [UT11A形](https://ja.wikipedia.org/wiki/JR貨物UT11A形コンテナ "wikilink")
-  - [UT11C形](https://ja.wikipedia.org/wiki/JR貨物UT11C形コンテナ "wikilink")
+  - [UT11C形](../Page/JR貨物UT11C形コンテナ.md "wikilink")
   - [UT11F形](https://ja.wikipedia.org/wiki/JR貨物UT11F形コンテナ "wikilink")
-  - [UT12A形](https://ja.wikipedia.org/wiki/JR貨物UT12A形コンテナ "wikilink")
+  - [UT12A形](../Page/JR貨物UT12A形コンテナ.md "wikilink")
   - [UT12C形](https://ja.wikipedia.org/wiki/JR貨物UT12C形コンテナ "wikilink")
   - [UT13A形](https://ja.wikipedia.org/wiki/JR貨物UT13A形コンテナ "wikilink")
-  - [UT13C形](https://ja.wikipedia.org/wiki/JR貨物UT13C形コンテナ "wikilink")
+  - [UT13C形](../Page/JR貨物UT13C形コンテナ.md "wikilink")
   - [UT13F形](https://ja.wikipedia.org/wiki/JR貨物UT13F形コンテナ "wikilink")
   - [UT14A形](https://ja.wikipedia.org/wiki/JR貨物UT14A形コンテナ "wikilink")
   - [UT14C形](https://ja.wikipedia.org/wiki/JR貨物UT14C形コンテナ "wikilink")
@@ -237,12 +237,12 @@
   - [UT16A形](https://ja.wikipedia.org/wiki/JR貨物UT16A形コンテナ "wikilink")
   - [UT16C形](https://ja.wikipedia.org/wiki/JR貨物UT16C形コンテナ "wikilink")
   - [UT17A形](https://ja.wikipedia.org/wiki/JR貨物UT17A形コンテナ "wikilink")
-  - [UT17C形](https://ja.wikipedia.org/wiki/JR貨物UT17C形コンテナ "wikilink")
+  - [UT17C形](../Page/JR貨物UT17C形コンテナ.md "wikilink")
   - [UT18A形](https://ja.wikipedia.org/wiki/JR貨物UT18A形コンテナ "wikilink")
   - [UT18C形](https://ja.wikipedia.org/wiki/JR貨物UT18C形コンテナ "wikilink")
   - [UT19A形](https://ja.wikipedia.org/wiki/JR貨物UT19A形コンテナ "wikilink")
   - [UT19C形](https://ja.wikipedia.org/wiki/JR貨物UT19C形コンテナ "wikilink")
-  - [UT20A形](https://ja.wikipedia.org/wiki/JR貨物UT20A形コンテナ "wikilink")
+  - [UT20A形](../Page/JR貨物UT20A形コンテナ.md "wikilink")
   - [UT20C形](https://ja.wikipedia.org/wiki/JR貨物UT20C形コンテナ "wikilink")
   - [UT21C形](https://ja.wikipedia.org/wiki/JR貨物UT21C形コンテナ "wikilink")
 
@@ -272,12 +272,12 @@
   - [U52A形](https://ja.wikipedia.org/wiki/JR貨物U52A形コンテナ "wikilink")
   - [U53A形](https://ja.wikipedia.org/wiki/JR貨物U53A形コンテナ "wikilink")
   - [U53D形](https://ja.wikipedia.org/wiki/JR貨物U53D形コンテナ "wikilink")
-  - [U54A形](https://ja.wikipedia.org/wiki/JR貨物U54A形コンテナ "wikilink")
+  - [U54A形](../Page/JR貨物U54A形コンテナ.md "wikilink")
   - [U55A形](https://ja.wikipedia.org/wiki/JR貨物U55A形コンテナ "wikilink")
 
 ##### 無蓋コンテナ
 
-  - [UM20A形](https://ja.wikipedia.org/wiki/JR貨物UM20A形コンテナ "wikilink")
+  - [UM20A形](../Page/JR貨物UM20A形コンテナ.md "wikilink")
 
 ##### 通風コンテナ
 
@@ -300,7 +300,7 @@
   - [UF39A形](https://ja.wikipedia.org/wiki/JR貨物UF39A形コンテナ "wikilink")
   - [UF40A形](https://ja.wikipedia.org/wiki/JR貨物UF40A形コンテナ "wikilink")
   - [UF41A形](https://ja.wikipedia.org/wiki/JR貨物UF41A形コンテナ "wikilink")
-  - [UF42A形](https://ja.wikipedia.org/wiki/JR貨物UF42A形コンテナ "wikilink")
+  - [UF42A形](../Page/JR貨物UF42A形コンテナ.md "wikilink")
   - [UF43A形](https://ja.wikipedia.org/wiki/JR貨物UF43A形コンテナ "wikilink")
   - [UF44A形](https://ja.wikipedia.org/wiki/JR貨物UF44A形コンテナ "wikilink")
   - [UF45A形](https://ja.wikipedia.org/wiki/JR貨物UF45A形コンテナ "wikilink")
@@ -310,7 +310,7 @@
 ##### タンクコンテナ
 
   - [UT24C形](https://ja.wikipedia.org/wiki/JR貨物UT24C形コンテナ "wikilink")
-  - [UT26C形](https://ja.wikipedia.org/wiki/JR貨物UT26C形コンテナ "wikilink")
+  - [UT26C形](../Page/JR貨物UT26C形コンテナ.md "wikilink")
 
 #### 40ft
 
@@ -329,40 +329,40 @@
   - [5000形](https://ja.wikipedia.org/wiki/国鉄5000形コンテナ "wikilink")（廃形式）
   - [6000形](https://ja.wikipedia.org/wiki/国鉄6000形コンテナ "wikilink")（廃形式）
   - [7000形](https://ja.wikipedia.org/wiki/国鉄7000形コンテナ "wikilink")（廃形式）
-  - [C10形](https://ja.wikipedia.org/wiki/国鉄C10形コンテナ "wikilink")（廃形式）
+  - [C10形](../Page/国鉄C10形コンテナ.md "wikilink")（廃形式）
   - [C11形](../Page/国鉄C11形コンテナ.md "wikilink")（廃形式）
-  - [C12形](https://ja.wikipedia.org/wiki/国鉄C12形コンテナ "wikilink")（廃形式）
+  - [C12形](../Page/国鉄C12形コンテナ.md "wikilink")（廃形式）
 
 #### 12ft
 
 ##### 有蓋コンテナ
 
-  - [C20形](https://ja.wikipedia.org/wiki/国鉄C20形コンテナ "wikilink")（廃形式）
-  - [C21形](https://ja.wikipedia.org/wiki/国鉄C21形コンテナ "wikilink")（廃形式）
-  - [C30形](https://ja.wikipedia.org/wiki/国鉄C30形コンテナ "wikilink")（廃形式）
-  - [C31形](https://ja.wikipedia.org/wiki/国鉄C31形コンテナ "wikilink")（廃形式）
+  - [C20形](../Page/国鉄C20形コンテナ.md "wikilink")（廃形式）
+  - [C21形](../Page/国鉄C21形コンテナ.md "wikilink")（廃形式）
+  - [C30形](../Page/国鉄C30形コンテナ.md "wikilink")（廃形式）
+  - [C31形](../Page/国鉄C31形コンテナ.md "wikilink")（廃形式）
 
 <!-- end list -->
 
   - [C35形](../Page/国鉄C35形コンテナ.md "wikilink")（廃形式）
-  - [C36形](https://ja.wikipedia.org/wiki/国鉄C36形コンテナ "wikilink")（廃形式）
-  - [C40形](https://ja.wikipedia.org/wiki/国鉄C40形コンテナ "wikilink")（廃形式）
+  - [C36形](../Page/国鉄C36形コンテナ.md "wikilink")（廃形式）
+  - [C40形](../Page/国鉄C40形コンテナ.md "wikilink")（廃形式）
   - [C93形](https://ja.wikipedia.org/wiki/国鉄C93形コンテナ "wikilink")（廃形式）
   - [C94形](https://ja.wikipedia.org/wiki/国鉄C94形コンテナ "wikilink")（廃形式）
-  - [C95形](https://ja.wikipedia.org/wiki/国鉄C95形コンテナ "wikilink")（廃形式）
-  - [NC1形](https://ja.wikipedia.org/wiki/国鉄NC1形コンテナ "wikilink")（廃形式）
+  - [C95形](../Page/国鉄C95形コンテナ.md "wikilink")（廃形式）
+  - [NC1形](../Page/国鉄NC1形コンテナ.md "wikilink")（廃形式）
   - [ZC1形](https://ja.wikipedia.org/wiki/国鉄ZC1形コンテナ "wikilink")（廃形式）
-  - [18A形](https://ja.wikipedia.org/wiki/JR貨物18A形コンテナ "wikilink")（廃形式）
-  - [18B形](https://ja.wikipedia.org/wiki/JR貨物18B形コンテナ "wikilink")（廃形式）
-  - [18C形](https://ja.wikipedia.org/wiki/JR貨物18C形コンテナ "wikilink")（廃形式)
+  - [18A形](../Page/JR貨物18A形コンテナ.md "wikilink")（廃形式）
+  - [18B形](../Page/JR貨物18B形コンテナ.md "wikilink")（廃形式）
+  - [18C形](../Page/JR貨物18C形コンテナ.md "wikilink")（廃形式)
   - [18D形](../Page/JR貨物18D形コンテナ.md "wikilink")（廃形式・2012年度消滅）
   - [18E形](https://ja.wikipedia.org/wiki/JR貨物18E形コンテナ "wikilink")（廃形式・2013年度消滅）
-  - [19A形](https://ja.wikipedia.org/wiki/JR貨物19A形コンテナ "wikilink")（廃形式・2013年度消滅）
-  - [19B形](https://ja.wikipedia.org/wiki/JR貨物19B形コンテナ "wikilink")（廃形式・2013年度消滅）
-  - [19C形](https://ja.wikipedia.org/wiki/JR貨物19C形コンテナ "wikilink")（廃形式・2012年度消滅）
-  - [19E形](https://ja.wikipedia.org/wiki/JR貨物19E形コンテナ "wikilink")（廃形式・2016年度消滅）
-  - [19F形](https://ja.wikipedia.org/wiki/JR貨物19F形コンテナ "wikilink")（廃形式・2018年度消滅）
-  - [20A形](https://ja.wikipedia.org/wiki/JR貨物20A形コンテナ "wikilink")（廃形式・2013年度消滅）
+  - [19A形](../Page/JR貨物19A形コンテナ.md "wikilink")（廃形式・2013年度消滅）
+  - [19B形](../Page/JR貨物19B形コンテナ.md "wikilink")（廃形式・2013年度消滅）
+  - [19C形](../Page/JR貨物19C形コンテナ.md "wikilink")（廃形式・2012年度消滅）
+  - [19E形](../Page/JR貨物19E形コンテナ.md "wikilink")（廃形式・2016年度消滅）
+  - [19F形](../Page/JR貨物19F形コンテナ.md "wikilink")（廃形式・2018年度消滅）
+  - [20A形](../Page/JR貨物20A形コンテナ.md "wikilink")（廃形式・2013年度消滅）
 
 ##### 無蓋コンテナ
 
@@ -405,8 +405,8 @@
   - [V10形](https://ja.wikipedia.org/wiki/国鉄V10形コンテナ "wikilink")（廃形式）
   - [V11形](https://ja.wikipedia.org/wiki/国鉄V11形コンテナ "wikilink")（廃形式）
   - [V18A形](https://ja.wikipedia.org/wiki/JR貨物V18A形コンテナ "wikilink")（廃形式）
-  - [V18B形](https://ja.wikipedia.org/wiki/JR貨物V18B形コンテナ "wikilink")（廃形式）
-  - [V18C形](https://ja.wikipedia.org/wiki/JR貨物V18C形コンテナ "wikilink")（廃形式・2012年度消滅）
+  - [V18B形](../Page/JR貨物V18B形コンテナ.md "wikilink")（廃形式）
+  - [V18C形](../Page/JR貨物V18C形コンテナ.md "wikilink")（廃形式・2012年度消滅）
   - [V19A形](https://ja.wikipedia.org/wiki/JR貨物V19A形コンテナ "wikilink")（廃形式・2016年度消滅）
 
 ##### ホッパコンテナ
@@ -487,7 +487,7 @@ JR貨物が少数を試作したのみで、実用化には至らなかった。
 
 ##### 有蓋コンテナ
 
-  - [NC1形](https://ja.wikipedia.org/wiki/国鉄NC1形コンテナ "wikilink")（廃形式）
+  - [NC1形](../Page/国鉄NC1形コンテナ.md "wikilink")（廃形式）
   - [NC2形](https://ja.wikipedia.org/wiki/国鉄NC2形コンテナ "wikilink")（廃形式）
   - [UC1形](https://ja.wikipedia.org/wiki/国鉄UC1形コンテナ "wikilink")（廃形式）
   - [ZC1形](https://ja.wikipedia.org/wiki/国鉄ZC1形コンテナ "wikilink")（廃形式）
@@ -532,7 +532,7 @@ JR貨物が少数を試作したのみで、実用化には至らなかった。
 
   - [U8D形](https://ja.wikipedia.org/wiki/JR貨物U8D形コンテナ "wikilink")（廃形式）
   - [U29B形](https://ja.wikipedia.org/wiki/JR貨物U29B形コンテナ "wikilink")（廃形式）
-  - [U30S形](https://ja.wikipedia.org/wiki/JR貨物U30S形コンテナ "wikilink")（廃形式）
+  - [U30S形](../Page/JR貨物U30S形コンテナ.md "wikilink")（廃形式）
   - [U42A形](https://ja.wikipedia.org/wiki/JR貨物U42A形コンテナ "wikilink")（廃形式）
 
 ##### 無蓋コンテナ

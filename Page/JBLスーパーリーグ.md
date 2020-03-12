@@ -1,11 +1,11 @@
 > この記事は[JBL](https://ja.wikipedia.org/wiki/JBL)から翻訳されています。
 
 
-**スーパーリーグ**は、[バスケットボール](../Page/バスケットボール.md "wikilink")[日本リーグ機構（JBL）が主催していた社会人リーグのトップリーグ](https://ja.wikipedia.org/wiki/バスケットボール日本リーグ機構 "wikilink")。
+**スーパーリーグ**は、[バスケットボール](../Page/バスケットボール.md "wikilink")[日本リーグ機構（JBL）が主催していた社会人リーグのトップリーグ](../Page/バスケットボール日本リーグ機構.md "wikilink")。
 
 ## 概略
 
-[バスケットボール日本リーグ](https://ja.wikipedia.org/wiki/バスケットボール日本リーグ "wikilink")1部を前身とし[2001年](../Page/2001年.md "wikilink")に誕生。[2000年](../Page/2000年.md "wikilink")に「プレスーパーリーグ」として行われ、同時に下部リーグ（2部）は日本リーグとなった（但し成績によるクラス入れ替えは行われず、欠員が出た場合のみ昇格があった）。また、2000年よりJBLホームタウンが導入されていた。
+[バスケットボール日本リーグ](../Page/バスケットボール日本リーグ.md "wikilink")1部を前身とし[2001年](../Page/2001年.md "wikilink")に誕生。[2000年](../Page/2000年.md "wikilink")に「プレスーパーリーグ」として行われ、同時に下部リーグ（2部）は日本リーグとなった（但し成績によるクラス入れ替えは行われず、欠員が出た場合のみ昇格があった）。また、2000年よりJBLホームタウンが導入されていた。
 
 参加チーム数は8チーム（2006-07のみ7チーム）。プロ化を意識し、[NBA](../Page/NBA.md "wikilink")で採用されていたルールも導入し、10月から翌年3月まで4回戦総当りのリーグ戦を行い、レギュラーシーズンの上位4チームによるプレーオフ（セミファイナル:3回戦制、ファイナル:5回戦制）を行って優勝を決定していた。
 
@@ -20,20 +20,20 @@
 
 ### 新JBLにも参加
 
-  - [東芝レッドサンダース→東芝ブレイブサンダース](https://ja.wikipedia.org/wiki/川崎ブレイブサンダース "wikilink") （[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")、[横須賀市](../Page/横須賀市.md "wikilink")）
-  - [トヨタ自動車アルバルク](https://ja.wikipedia.org/wiki/アルバルク東京 "wikilink") （[静岡県](../Page/静岡県.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[府中市](../Page/府中市_\(東京都\).md "wikilink")）
-  - [アイシン精機アイシンシーホース→アイシンシーホース](https://ja.wikipedia.org/wiki/シーホース三河 "wikilink") （愛知県[刈谷市](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")）
-  - [三菱電機メルコドルフィンズ](https://ja.wikipedia.org/wiki/名古屋ダイヤモンドドルフィンズ "wikilink") （愛知県[名古屋市](../Page/名古屋市.md "wikilink")）
-  - [松下電器パナソニックスーパーカンガルーズ→パナソニックスーパーカンガルーズ](https://ja.wikipedia.org/wiki/パナソニックトライアンズ "wikilink") （[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[枚方市](../Page/枚方市.md "wikilink")）
-  - [日立サンロッカーズ](https://ja.wikipedia.org/wiki/サンロッカーズ渋谷 "wikilink") （[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")、[ひたちなか市](../Page/ひたちなか市.md "wikilink")）
-  - [オーエスジーフェニックス](https://ja.wikipedia.org/wiki/三遠ネオフェニックス "wikilink") （[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](https://ja.wikipedia.org/wiki/豊橋市 "wikilink")、2002-03より参加）
+  - [東芝レッドサンダース→東芝ブレイブサンダース](../Page/川崎ブレイブサンダース.md "wikilink") （[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")、[横須賀市](../Page/横須賀市.md "wikilink")）
+  - [トヨタ自動車アルバルク](../Page/アルバルク東京.md "wikilink") （[静岡県](../Page/静岡県.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[府中市](../Page/府中市_\(東京都\).md "wikilink")）
+  - [アイシン精機アイシンシーホース→アイシンシーホース](https://ja.wikipedia.org/wiki/シーホース三河 "wikilink") （愛知県[刈谷市](../Page/刈谷市.md "wikilink")）
+  - [三菱電機メルコドルフィンズ](../Page/名古屋ダイヤモンドドルフィンズ.md "wikilink") （愛知県[名古屋市](../Page/名古屋市.md "wikilink")）
+  - [松下電器パナソニックスーパーカンガルーズ→パナソニックスーパーカンガルーズ](https://ja.wikipedia.org/wiki/パナソニックトライアンズ "wikilink") （[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")）
+  - [日立サンロッカーズ](../Page/サンロッカーズ渋谷.md "wikilink") （[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")、[ひたちなか市](../Page/ひたちなか市.md "wikilink")）
+  - [オーエスジーフェニックス](../Page/三遠ネオフェニックス.md "wikilink") （[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")、2002-03より参加）
 
 ### 途中脱退
 
-  - [いすゞ自動車ギガキャッツ](https://ja.wikipedia.org/wiki/横浜ギガスピリッツ "wikilink")（神奈川県[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink") 2001-02解散）
-  - [ボッシュブルーウィンズ](https://ja.wikipedia.org/wiki/ボッシュブルーウィンズ "wikilink")（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[東松山市](https://ja.wikipedia.org/wiki/東松山市 "wikilink") 2001-02解散）
-  - [新潟アルビレックス](https://ja.wikipedia.org/wiki/新潟アルビレックスBB "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink") 2002-03より参加。2004-05脱退し、[bjリーグを](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[埼玉ブロンコス](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")などと創設）
-  - [福岡レッドファルコンズ](https://ja.wikipedia.org/wiki/ライジングゼファーフクオカ#福岡レッドファルコンズ "wikilink")（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink") 2005-06新規加盟。オールジャパン終了後の2006年1月19日にリーグ後半戦不参加と脱退を表明し解散）
+  - [いすゞ自動車ギガキャッツ](../Page/横浜ギガスピリッツ.md "wikilink")（神奈川県[横浜市](../Page/横浜市.md "wikilink") 2001-02解散）
+  - [ボッシュブルーウィンズ](../Page/ボッシュブルーウィンズ.md "wikilink")（[埼玉県](../Page/埼玉県.md "wikilink")[東松山市](https://ja.wikipedia.org/wiki/東松山市 "wikilink") 2001-02解散）
+  - [新潟アルビレックス](../Page/新潟アルビレックスBB.md "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink") 2002-03より参加。2004-05脱退し、[bjリーグを](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[埼玉ブロンコス](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")などと創設）
+  - [福岡レッドファルコンズ](https://ja.wikipedia.org/wiki/ライジングゼファーフクオカ#福岡レッドファルコンズ "wikilink")（[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink") 2005-06新規加盟。オールジャパン終了後の2006年1月19日にリーグ後半戦不参加と脱退を表明し解散）
 
 ## 歴代優勝・準優勝チーム
 
@@ -336,7 +336,7 @@
 
 ## 関連記事
 
-  - [プロリーグ構想](https://ja.wikipedia.org/wiki/プロリーグ構想_\(バスケットボール\) "wikilink")
+  - [プロリーグ構想](../Page/プロリーグ構想_\(バスケットボール\).md "wikilink")
 
 ## 外部リンク
 

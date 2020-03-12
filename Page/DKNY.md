@@ -3,7 +3,7 @@
 
 **ダナ・キャラン・ニューヨーク**（Donna Karan New York、略称DKNY）は1989年に[ダナ・キャラン](../Page/ダナ・キャラン.md "wikilink")により設立したファッションブランドである\[1\]。
 
-DKNYを展開するダナ・キャラン・インターナショナルは、[LVMH](https://ja.wikipedia.org/wiki/LVMH "wikilink")の傘下だったが、2016年7月25日、LVMHが[アメリカのアパレルブランド](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「G-3」への売却を発表\[2\]。
+DKNYを展開するダナ・キャラン・インターナショナルは、[LVMH](../Page/LVMH.md "wikilink")の傘下だったが、2016年7月25日、LVMHが[アメリカのアパレルブランド](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「G-3」への売却を発表\[2\]。
 
 ## 店舗
 

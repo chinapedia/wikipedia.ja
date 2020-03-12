@@ -1,7 +1,7 @@
 > この記事は[MONGOL800](https://ja.wikipedia.org/wiki/MONGOL800)から翻訳されています。
 
 
-**MONGOL800**（モンゴルはっぴゃく）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[沖縄県](../Page/沖縄県.md "wikilink")で結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[ハイウェーブに所属](https://ja.wikipedia.org/wiki/ハイ・ウェーブ "wikilink")。略称は**モンパチ**。
+**MONGOL800**（モンゴルはっぴゃく）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[沖縄県](../Page/沖縄県.md "wikilink")で結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[ハイウェーブに所属](../Page/ハイ・ウェーブ.md "wikilink")。略称は**モンパチ**。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
     [沖縄国際大学](../Page/沖縄国際大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")英文学科卒業。
 
 <!-- end list -->
@@ -21,8 +21,8 @@
 
   -
     [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、ボーカル担当。
-    [四国大学](https://ja.wikipedia.org/wiki/四国大学 "wikilink")卒業。趣味は釣り。釣り番組『[大ちゃんの釣りに行こう\!](https://ja.wikipedia.org/wiki/大ちゃんの釣りに行こう! "wikilink")』にゲスト出演したことがある。
-    2016年より、[四国大学短期大学部](https://ja.wikipedia.org/wiki/四国大学短期大学部 "wikilink")音楽科特任教授。
+    [四国大学](../Page/四国大学.md "wikilink")卒業。趣味は釣り。釣り番組『[大ちゃんの釣りに行こう\!](../Page/大ちゃんの釣りに行こう!.md "wikilink")』にゲスト出演したことがある。
+    2016年より、[四国大学短期大学部](../Page/四国大学短期大学部.md "wikilink")音楽科特任教授。
 
 ### 旧メンバー
 
@@ -39,40 +39,40 @@
 
 ## 概要
 
-バンド名に深い意味はなく、ギターの儀間が、思いつきで考えた「モンゴル800」と言うフレーズをそのままグループ名にした\[2\]だけで、実際の[モンゴル国](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")や[モンゴル人](https://ja.wikipedia.org/wiki/モンゴル人 "wikilink")とは関係ない。2001年9月にリリースされたアルバム『[MESSAGE](https://ja.wikipedia.org/wiki/MESSAGE_\(MONGOL800のアルバム\) "wikilink")』が、発売から7か月後の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で首位を獲得して[インディーズ](../Page/インディーズ.md "wikilink")としては初の280万枚以上を売り上げ、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")バンドのアルバムとしては最高のセールスになった\[3\]。
+バンド名に深い意味はなく、ギターの儀間が、思いつきで考えた「モンゴル800」と言うフレーズをそのままグループ名にした\[2\]だけで、実際の[モンゴル国](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")や[モンゴル人](https://ja.wikipedia.org/wiki/モンゴル人 "wikilink")とは関係ない。2001年9月にリリースされたアルバム『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』が、発売から7か月後の[オリコンチャート](../Page/オリコンチャート.md "wikilink")で首位を獲得して[インディーズ](../Page/インディーズ.md "wikilink")としては初の280万枚以上を売り上げ、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")バンドのアルバムとしては最高のセールスになった\[3\]。
 
-代表曲は「DON'T WORRY BE HAPPY」、「[小さな恋のうた](https://ja.wikipedia.org/wiki/小さな恋のうた "wikilink")」、「[あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink")」など\[4\]。[青春パンク](https://ja.wikipedia.org/wiki/青春パンク "wikilink")の中に位置づける見方もあったが、沖縄を拠点に活動していた事もあり自ら積極的に関わる事はなかった\[5\]。
+代表曲は「DON'T WORRY BE HAPPY」、「[小さな恋のうた](https://ja.wikipedia.org/wiki/小さな恋のうた "wikilink")」、「[あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink")」など\[4\]。[青春パンク](../Page/青春パンク.md "wikilink")の中に位置づける見方もあったが、沖縄を拠点に活動していた事もあり自ら積極的に関わる事はなかった\[5\]。
 
 ## 音楽性など
 
 2004年まではバンド活動と学生生活を並行しており、居住地が離れていることもあって練習時間の制約などから勢いを重視する面が強かった\[6\]。バンドに専念するようになってからは、より深く音楽と向きあうようになったという\[7\]。
 
-[エレキギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ベース](../Page/エレクトリックベース.md "wikilink")、[ドラムの](../Page/ドラムセット.md "wikilink")3つの楽器しか使わず、演奏の構成は非常にシンプルである\[8\]\[9\]。一方で、自分たちの音と歌に対する信用が自然な形で音楽に表れていて、シンプルな演奏であってもリスナーを退屈させない、と[近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")は評している\[10\]。アレンジの知識や演奏技術については経験を積むに従って格段に向上していった\[11\]。
+[エレキギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ベース](../Page/エレクトリックベース.md "wikilink")、[ドラムの](../Page/ドラムセット.md "wikilink")3つの楽器しか使わず、演奏の構成は非常にシンプルである\[8\]\[9\]。一方で、自分たちの音と歌に対する信用が自然な形で音楽に表れていて、シンプルな演奏であってもリスナーを退屈させない、と[近田春夫](../Page/近田春夫.md "wikilink")は評している\[10\]。アレンジの知識や演奏技術については経験を積むに従って格段に向上していった\[11\]。
 
 結成当初からライブが好きで\[12\]、『MESSAGE』がブームになった時も期待してきた観客が喜ぶ事がうれしかったという\[13\]。精神的に余裕がなくても、MCなどの観客とのコミュニケーションを積極的に行なっている\[14\]。ライブでの入場曲である『Enjoy Yourself (It's Later Than You Think)』はカバーした『2TONE RECORDS TRIBUTE ALBUM BLACK 〜RESPECT TO GANGSTERS〜』に収録されている。
 
-「琉球愛歌」や「矛盾の上に咲く花」等、琉球愛をテーマとした曲が多い\[15\]。故郷の沖縄のことを歌った時に、そこに自分の地元を重ねあわせて聴かれているのではないか、と上江洌は語っている\[16\]。 『MESSAGE』ではストレートな歌詞も多かったが、同作で聴き手の年齢層が広がったこともあって『[百々](https://ja.wikipedia.org/wiki/百々 "wikilink")』からは表現を柔らかくしたという\[17\]。沖縄の米軍基地に触れた曲などもあるが、「反基地を唱えることも良いが、日常の中にある大切なものを歌う方がやりたいことに近い」と述べている\[18\]。
+「琉球愛歌」や「矛盾の上に咲く花」等、琉球愛をテーマとした曲が多い\[15\]。故郷の沖縄のことを歌った時に、そこに自分の地元を重ねあわせて聴かれているのではないか、と上江洌は語っている\[16\]。 『MESSAGE』ではストレートな歌詞も多かったが、同作で聴き手の年齢層が広がったこともあって『[百々](../Page/百々.md "wikilink")』からは表現を柔らかくしたという\[17\]。沖縄の米軍基地に触れた曲などもあるが、「反基地を唱えることも良いが、日常の中にある大切なものを歌う方がやりたいことに近い」と述べている\[18\]。
 
 ## 活動のスタンス
 
-デビュー以来、故郷の沖縄をずっと活動の拠点にしており\[19\]、作品の発表とライブだけで満足している。逆に、メディア出演には関心が薄く、『[MESSAGE](https://ja.wikipedia.org/wiki/MESSAGE_\(MONGOL800のアルバム\) "wikilink")』のヒット直後は取材申し込みが殺到し、精神的な負担の危惧などから、ほぼ全てを断っていた\[20\]。また、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")やアーティスト写真すらも作らなかった\[21\]。こういった姿勢から、「ロック界最強のマイペース」とも呼ばれた\[22\]。ブームが落ち着き、バンド活動に専念するようになってからは、普通に取材を受けている\[23\]。
+デビュー以来、故郷の沖縄をずっと活動の拠点にしており\[19\]、作品の発表とライブだけで満足している。逆に、メディア出演には関心が薄く、『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』のヒット直後は取材申し込みが殺到し、精神的な負担の危惧などから、ほぼ全てを断っていた\[20\]。また、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")やアーティスト写真すらも作らなかった\[21\]。こういった姿勢から、「ロック界最強のマイペース」とも呼ばれた\[22\]。ブームが落ち着き、バンド活動に専念するようになってからは、普通に取材を受けている\[23\]。
 
 ### テレビ出演
 
 基本的に出演しないスタンスをとっているが、全く出演しないというわけではない。これまでに出演した番組は以下の通り。
 
-  - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[プレミアム10](https://ja.wikipedia.org/wiki/プレミアム10 "wikilink") やさしい歌は世界を変える〜MONGOL800 沖縄・奄美 トロピカルツアー'07〜』（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")放送）
+  - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")『[プレミアム10](../Page/プレミアム10.md "wikilink") やさしい歌は世界を変える〜MONGOL800 沖縄・奄美 トロピカルツアー'07〜』（[2007年](../Page/2007年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")放送）
   - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink")』（2007年[11月2日](../Page/11月2日.md "wikilink")放送分）
       - [奥田民生](../Page/奥田民生.md "wikilink")と共演できるという理由から。また、同番組には2009年8月21日放送分にも出演。
   - フジテレビ系『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[2009年](../Page/2009年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")放送分）
       - 同番組内の[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")に、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")の紹介で出演。なお、これが初のバラエティ番組への出演。
-  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[2013年](../Page/2013年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")放送分、[2015年](../Page/2015年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")放送分）
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[2013年](../Page/2013年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")放送分、[2015年](../Page/2015年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")放送分）
       - 2013年1月25日:「[小さな恋のうた](https://ja.wikipedia.org/wiki/小さな恋のうた "wikilink")」を披露。
       - 2015年8月21日:「[あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink")」と「himeyuri」のメドレーを披露。
-  - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[クリスマスの約束 2010](https://ja.wikipedia.org/wiki/クリスマスの約束 "wikilink")』
+  - [TBS系](../Page/TBSテレビ.md "wikilink")『[クリスマスの約束 2010](../Page/クリスマスの約束.md "wikilink")』
       - 上江洌が単独で出演し、共演者と「小さな恋のうた」を歌った\[24\]。
   - テレビ朝日系『[関ジャニの仕分け∞](https://ja.wikipedia.org/wiki/関ジャニの仕分け∞ "wikilink")』（2012年9月8日放送分）
-      - 髙里が単独で出演し、[太鼓の達人](https://ja.wikipedia.org/wiki/太鼓の達人 "wikilink")で対決をした。
+      - 髙里が単独で出演し、[太鼓の達人](../Page/太鼓の達人.md "wikilink")で対決をした。
   - TBS『[アーティスト](https://ja.wikipedia.org/wiki/アーティスト_\(テレビ番組\) "wikilink")』（2013年9月11日放送分）
       - 『小さな恋のうた』と『Love song』を演奏。
 
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   -
-    この年の夏、[浦添高校の同級生同士で](https://ja.wikipedia.org/wiki/沖縄県立浦添高等学校 "wikilink")「MONGOL800」が結成される\[25\]。最初はメンバーが4人で、単独の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")もいるオーソドックスなバンド構成だった\[26\]。[THE BLUE HEARTSや](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")の[コピーバンド](https://ja.wikipedia.org/wiki/コピーバンド "wikilink")として活動していたが、作曲に挑戦したところ意外な手応えを感じ、オリジナルの楽曲を演奏するようになった\[27\]。『START』と『新コメカミン』を自主制作した\[28\]が、[CD-R](../Page/CD-R.md "wikilink")のコピーが途中で面倒になり予定枚数まで作らなかったという\[29\]。12月には[宜野湾](https://ja.wikipedia.org/wiki/宜野湾 "wikilink")で[SNAIL RAMPの](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")[フロントアクトを務めた](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")\[30\]。
+    この年の夏、[浦添高校の同級生同士で](../Page/沖縄県立浦添高等学校.md "wikilink")「MONGOL800」が結成される\[25\]。最初はメンバーが4人で、単独の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")もいるオーソドックスなバンド構成だった\[26\]。[THE BLUE HEARTSや](../Page/THE_BLUE_HEARTS.md "wikilink")[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")の[コピーバンド](https://ja.wikipedia.org/wiki/コピーバンド "wikilink")として活動していたが、作曲に挑戦したところ意外な手応えを感じ、オリジナルの楽曲を演奏するようになった\[27\]。『START』と『新コメカミン』を自主制作した\[28\]が、[CD-R](../Page/CD-R.md "wikilink")のコピーが途中で面倒になり予定枚数まで作らなかったという\[29\]。12月には[宜野湾](../Page/宜野湾.md "wikilink")で[SNAIL RAMPの](../Page/SNAIL_RAMP.md "wikilink")[フロントアクトを務めた](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")\[30\]。
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@
 <!-- end list -->
 
   -
-    3月に高校を卒業し、メンバー3名とも進学する\[31\]。沖縄の若いバンドのCDを出したいと考えていた[3rd WAVEから高校在学中にオファーを受けており](https://ja.wikipedia.org/wiki/ハイ・ウェーブ "wikilink")、[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")にレコーディングを行なって1st[アルバム](../Page/アルバム.md "wikilink")の『[GO ON AS YOU ARE](https://ja.wikipedia.org/wiki/GO_ON_AS_YOU_ARE "wikilink")』を作成した\[32\]。12月に沖縄県内限定で発売されたが、1,000枚というレーベル側の販売目標が多すぎて不安になったという\[33\]。一方、9月にはHi-STANDARD、10月には[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")の沖縄公演で、それぞれフロントアクトを務めている\[34\]。
+    3月に高校を卒業し、メンバー3名とも進学する\[31\]。沖縄の若いバンドのCDを出したいと考えていた[3rd WAVEから高校在学中にオファーを受けており](../Page/ハイ・ウェーブ.md "wikilink")、[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")にレコーディングを行なって1st[アルバム](../Page/アルバム.md "wikilink")の『[GO ON AS YOU ARE](../Page/GO_ON_AS_YOU_ARE.md "wikilink")』を作成した\[32\]。12月に沖縄県内限定で発売されたが、1,000枚というレーベル側の販売目標が多すぎて不安になったという\[33\]。一方、9月にはHi-STANDARD、10月には[BRAHMAN](../Page/BRAHMAN.md "wikilink")の沖縄公演で、それぞれフロントアクトを務めている\[34\]。
 
 <!-- end list -->
 
@@ -101,7 +101,7 @@
 <!-- end list -->
 
   -
-    『[GO ON AS YOU ARE](https://ja.wikipedia.org/wiki/GO_ON_AS_YOU_ARE "wikilink")』が[タワーレコード](../Page/タワーレコード.md "wikilink")那覇店を中心に爆発的に売れ\[35\]、県内で11,000枚のセールスを記録し、4月に全国発売された\[36\]。8月には[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")と[ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")に出演した\[37\]。
+    『[GO ON AS YOU ARE](../Page/GO_ON_AS_YOU_ARE.md "wikilink")』が[タワーレコード](../Page/タワーレコード.md "wikilink")那覇店を中心に爆発的に売れ\[35\]、県内で11,000枚のセールスを記録し、4月に全国発売された\[36\]。8月には[サマーソニック](../Page/サマーソニック.md "wikilink")と[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")に出演した\[37\]。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 <!-- end list -->
 
   -
-    9月、2ndアルバムとなる『[MESSAGE](https://ja.wikipedia.org/wiki/MESSAGE_\(MONGOL800のアルバム\) "wikilink")』をリリース。収録曲の「[あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink")」が、3月より[トップの全国](https://ja.wikipedia.org/wiki/トップ_\(洗剤\) "wikilink")[CFに使われていた事がきっかけで](https://ja.wikipedia.org/wiki/コマーシャルフィルム "wikilink")、大ヒット\[38\]\[39\]。また、大学の夏休み期間を利用して\[40\]全国9都市でのライブツアー10公演を行なっている\[41\]。
+    9月、2ndアルバムとなる『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』をリリース。収録曲の「[あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink")」が、3月より[トップの全国](../Page/トップ_\(洗剤\).md "wikilink")[CFに使われていた事がきっかけで](https://ja.wikipedia.org/wiki/コマーシャルフィルム "wikilink")、大ヒット\[38\]\[39\]。また、大学の夏休み期間を利用して\[40\]全国9都市でのライブツアー10公演を行なっている\[41\]。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    3月29日から[Green Dayの日本ツアーに帯同してサポートを行なった](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")\[42\]。8月には[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")、[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、サマーソニック、ライジング・サン・ロックフェスの4つの夏フェスに出場した\[43\]。同年の『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")』への参加を依頼されたが、[大晦日](../Page/大晦日.md "wikilink")は沖縄の小さなライブハウスで[年越し](../Page/年越し.md "wikilink")ライブを行なった\[44\]。
+    3月29日から[Green Dayの日本ツアーに帯同してサポートを行なった](../Page/グリーン・デイ.md "wikilink")\[42\]。8月には[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")、[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、サマーソニック、ライジング・サン・ロックフェスの4つの夏フェスに出場した\[43\]。同年の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』への参加を依頼されたが、[大晦日](../Page/大晦日.md "wikilink")は沖縄の小さなライブハウスで[年越し](../Page/年越し.md "wikilink")ライブを行なった\[44\]。
 
 <!-- end list -->
 
@@ -128,20 +128,20 @@
 <!-- end list -->
 
   -
-    4月、[イタリア](../Page/イタリア.md "wikilink")で初の海外公演を行なう\[45\]。12月には「[ヨロコビノウタ](https://ja.wikipedia.org/wiki/ヨロコビノウタ "wikilink")」をリリースした。
+    4月、[イタリア](../Page/イタリア.md "wikilink")で初の海外公演を行なう\[45\]。12月には「[ヨロコビノウタ](../Page/ヨロコビノウタ.md "wikilink")」をリリースした。
 
 <!-- end list -->
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")
+  - [2004年](../Page/2004年.md "wikilink")
 
 <!-- end list -->
 
   -
-    3月に3rdアルバム『[百々](https://ja.wikipedia.org/wiki/百々 "wikilink")』をリリース。メンバー全員が大学を卒業した事を受け、バンド初となる全国47都道府県ツアー「MONGOL800全国 PARTY\!\!?百々2004?」を4月から9月まで開催し、63本の・宴Cブを行なった\[46\]。非常に大変だったが、いろいろな反応を見られて良かった、と語っている\[47\]。12月には、[沖国大米軍ヘリ墜落事件](https://ja.wikipedia.org/wiki/沖国大米軍ヘリ墜落事件 "wikilink")を受けて上江洌の母校・[沖縄国際大学](../Page/沖縄国際大学.md "wikilink")で行われた、[普天間飛行場](../Page/普天間飛行場.md "wikilink")の飛行停止を訴えるイベント『NO FLY ZONE』にボランティアで参加した\[48\]。
+    3月に3rdアルバム『[百々](../Page/百々.md "wikilink")』をリリース。メンバー全員が大学を卒業した事を受け、バンド初となる全国47都道府県ツアー「MONGOL800全国 PARTY\!\!?百々2004?」を4月から9月まで開催し、63本の・宴Cブを行なった\[46\]。非常に大変だったが、いろいろな反応を見られて良かった、と語っている\[47\]。12月には、[沖国大米軍ヘリ墜落事件](https://ja.wikipedia.org/wiki/沖国大米軍ヘリ墜落事件 "wikilink")を受けて上江洌の母校・[沖縄国際大学](../Page/沖縄国際大学.md "wikilink")で行われた、[普天間飛行場](../Page/普天間飛行場.md "wikilink")の飛行停止を訴えるイベント『NO FLY ZONE』にボランティアで参加した\[48\]。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
@@ -159,12 +159,12 @@
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
 
 <!-- end list -->
 
   -
-    他のアーティストとのセッションやトリビュートの企画のオファーが多く、[BLACK BOTTOM BRASS BANDや](https://ja.wikipedia.org/wiki/BLACK_BOTTOM_BRASS_BAND "wikilink")[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")の作品に参加した\[54\]。8月に[南西諸島](https://ja.wikipedia.org/wiki/南西諸島 "wikilink")で10公演を行なうトロピカルツアーを開催している\[55\]。
+    他のアーティストとのセッションやトリビュートの企画のオファーが多く、[BLACK BOTTOM BRASS BANDや](../Page/BLACK_BOTTOM_BRASS_BAND.md "wikilink")[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")の作品に参加した\[54\]。8月に[南西諸島](../Page/南西諸島.md "wikilink")で10公演を行なうトロピカルツアーを開催している\[55\]。
 
 <!-- end list -->
 
@@ -182,7 +182,7 @@
 <!-- end list -->
 
   -
-    [7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")、3年ぶりのオリジナルアルバム『[eight-hundreds](https://ja.wikipedia.org/wiki/eight-hundreds "wikilink")』をリリース。結成から10年が経ち、再出発という意味を込めてバンド名から名前を取ったという\[57\]。7月から11月にかけ、全国47都道府県ツアー「MONGOL800 eight-hundreds tour 2009」を実施。10月にはMONGOL800主催の「[MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink")」を開催。[12月7日](../Page/12月7日.md "wikilink")、MONGOL800初のアリーナ「MONGOL800 ga LIVE at [日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")」を開催\[58\]。
+    [7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")、3年ぶりのオリジナルアルバム『[eight-hundreds](https://ja.wikipedia.org/wiki/eight-hundreds "wikilink")』をリリース。結成から10年が経ち、再出発という意味を込めてバンド名から名前を取ったという\[57\]。7月から11月にかけ、全国47都道府県ツアー「MONGOL800 eight-hundreds tour 2009」を実施。10月にはMONGOL800主催の「[MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink")」を開催。[12月7日](../Page/12月7日.md "wikilink")、MONGOL800初のアリーナ「MONGOL800 ga LIVE at [日本武道館](../Page/日本武道館.md "wikilink")」を開催\[58\]。
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 <!-- end list -->
 
   -
-    約2年ぶりとなるオリジナルアルバム『etc works 2』をリリース。6月には、かねて共演の多かった[SPECIAL OTHERSのシングル](https://ja.wikipedia.org/wiki/SPECIAL_OTHERS "wikilink")「空っぽ」に上江洌がコラボレーションで参加\[59\]。また、10月1日、2日には[読谷村](https://ja.wikipedia.org/wiki/読谷村 "wikilink")で野外フェス「What a Wonderful World\!\!」を主催した\[60\]。
+    約2年ぶりとなるオリジナルアルバム『etc works 2』をリリース。6月には、かねて共演の多かった[SPECIAL OTHERSのシングル](../Page/SPECIAL_OTHERS.md "wikilink")「空っぽ」に上江洌がコラボレーションで参加\[59\]。また、10月1日、2日には[読谷村](../Page/読谷村.md "wikilink")で野外フェス「What a Wonderful World\!\!」を主催した\[60\]。
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@
 <!-- end list -->
 
   -
-    [4月13日](../Page/4月13日.md "wikilink")、同じ沖縄出身の[ORANGE RANGE主催の](https://ja.wikipedia.org/wiki/ORANGE_RANGE "wikilink")「おかげさまで10周年。琉球サミット in 江戸 〜ORANGE RANGEとMONGOL800〜」に出演。
+    [4月13日](../Page/4月13日.md "wikilink")、同じ沖縄出身の[ORANGE RANGE主催の](../Page/ORANGE_RANGE.md "wikilink")「おかげさまで10周年。琉球サミット in 江戸 〜ORANGE RANGEとMONGOL800〜」に出演。
 
 <!-- end list -->
 
@@ -242,28 +242,28 @@
 <td><p>1st</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a>12月・沖縄のみ発売<br />
 <a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月7日.md" title="wikilink">4月7日</a>・全国発売</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GO_ON_AS_YOU_ARE" title="wikilink">GO ON AS YOU ARE</a></strong></p></td>
+<td><p><strong><a href="../Page/GO_ON_AS_YOU_ARE.md" title="wikilink">GO ON AS YOU ARE</a></strong></p></td>
 <td><p>HICC-1001</p></td>
 <td><p>オリコン最高6位、登場回数89回</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MESSAGE_(MONGOL800のアルバム)" title="wikilink">MESSAGE</a></strong></p></td>
+<td><p><strong><a href="../Page/MESSAGE_(MONGOL800のアルバム).md" title="wikilink">MESSAGE</a></strong></p></td>
 <td><p>HICC-1201</p></td>
 <td><p>オリコン最高1位、登場回数269回</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/百々" title="wikilink">百々</a></strong></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
+<td><p><strong><a href="../Page/百々.md" title="wikilink">百々</a></strong></p></td>
 <td><p>HICC-1801</p></td>
 <td><p>オリコン最高3位、登場回数26回</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Daniel" title="wikilink">Daniel</a></strong></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
+<td><p><strong><a href="../Page/Daniel.md" title="wikilink">Daniel</a></strong></p></td>
 <td><p>HICC-2201</p></td>
 <td><p>オリコン最高4位、登場回数18回</p></td>
 </tr>
@@ -344,18 +344,18 @@ HICC-3403:通常盤</p></td>
 
 ### シングル
 
-|     | 発売日                                                                                         | タイトル                                                            | 規格品番      | 備考               |
-| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- | ---------------- |
-| 1st | [2003年](../Page/2003年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")                    | **[ヨロコビノウタ](https://ja.wikipedia.org/wiki/ヨロコビノウタ "wikilink")** | HICC-1601 | オリコン最高1位、登場回数18回 |
-| 2nd | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink") | **special thanks！！**                                            | HICC-2701 | オリコン最高19位、登場回数7回 |
-| 3rd | [2014年](../Page/2014年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")                    | **OKINAWA CALLING×STAND BY ME**                                 | HICC-3802 | オリコン最高40位、登場回数3回 |
-|     |                                                                                             |                                                                 |           |                  |
+|     | 発売日                                                                                         | タイトル                                         | 規格品番      | 備考               |
+| --- | ------------------------------------------------------------------------------------------- | -------------------------------------------- | --------- | ---------------- |
+| 1st | [2003年](../Page/2003年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")                    | **[ヨロコビノウタ](../Page/ヨロコビノウタ.md "wikilink")** | HICC-1601 | オリコン最高1位、登場回数18回 |
+| 2nd | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink") | **special thanks！！**                         | HICC-2701 | オリコン最高19位、登場回数7回 |
+| 3rd | [2014年](../Page/2014年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")                    | **OKINAWA CALLING×STAND BY ME**              | HICC-3802 | オリコン最高40位、登場回数3回 |
+|     |                                                                                             |                                              |           |                  |
 
 ### DVD
 
 |     | 発売日                                                                                         | タイトル                                                                                                                                  | 規格品番      | 備考                |
 | --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- |
-| 1st | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月10日](../Page/7月10日.md "wikilink") | **[DVD800 Daniel's Tour 2006](https://ja.wikipedia.org/wiki/DVD800_Daniel's_Tour_2006 "wikilink")**                                   | HIBH-2501 | オリコン最高10位、登場回数14回 |
+| 1st | [2007年](../Page/2007年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")                    | **[DVD800 Daniel's Tour 2006](https://ja.wikipedia.org/wiki/DVD800_Daniel's_Tour_2006 "wikilink")**                                   | HIBH-2501 | オリコン最高10位、登場回数14回 |
 | 2nd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") | **[DVD800 SPECIAL BOXX！！](https://ja.wikipedia.org/wiki/DVD800_SPECIAL_BOXX！！ "wikilink")**                                           | HIBH-3001 | オリコン最高10位、登場回数5回  |
 | 3rd | [2014年](../Page/2014年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")                    | **[DVD800 GOOD MORNING OKINAWA TOUR 2013-2014](https://ja.wikipedia.org/wiki/DVD800_GOOD_MORNING_OKINAWA_TOUR_2013-2014 "wikilink")** | HIBH-3901 | オリコン最高9位、登場回数5回   |
 |     |                                                                                             |                                                                                                                                       |           |                   |
@@ -386,19 +386,19 @@ HICC-3403:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003年12月03日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山嵐_(バンド)" title="wikilink">山嵐</a>「「嵐2003」feat.ラッパ我リヤ/「輪」feat.キヨサク(from モンゴル800)/山嶺(Remix)」</p></td>
+<td><p><a href="../Page/山嵐_(バンド).md" title="wikilink">山嵐</a>「「嵐2003」feat.ラッパ我リヤ/「輪」feat.キヨサク(from モンゴル800)/山嶺(Remix)」</p></td>
 <td><p>MUCD-5044</p></td>
 <td><p>2.「輪」feat.キヨサク(from モンゴル800)</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年10月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLACK_BOTTOM_BRASS_BAND" title="wikilink">BLACK BOTTOM BRASS BAND</a>「ライフ・イズ・パレード」</p></td>
+<td><p><a href="../Page/BLACK_BOTTOM_BRASS_BAND.md" title="wikilink">BLACK BOTTOM BRASS BAND</a>「ライフ・イズ・パレード」</p></td>
 <td><p>VICL-62091</p></td>
 <td><p>5.Beautiful / BLACK BOTTOM BRASS BANDとMONGOL800</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HUSKING_BEE_(アルバム)" title="wikilink">HUSKING BEE</a>（トリビュートアルバム）</p></td>
+<td><p><a href="../Page/HUSKING_BEE_(アルバム).md" title="wikilink">HUSKING BEE</a>（トリビュートアルバム）</p></td>
 <td><p>TFCC-86216</p></td>
 <td><p>14. オーバーラップワルツ</p></td>
 </tr>
@@ -410,25 +410,25 @@ HICC-3403:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年10月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニコーン・トリビュート" title="wikilink">ユニコーン・トリビュート</a>（トリビュートアルバム）</p></td>
+<td><p><a href="../Page/ユニコーン・トリビュート.md" title="wikilink">ユニコーン・トリビュート</a>（トリビュートアルバム）</p></td>
 <td><p>SECL-561</p></td>
 <td><p>2.<a href="https://ja.wikipedia.org/wiki/大迷惑" title="wikilink">大迷惑</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年11月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>「<a href="https://ja.wikipedia.org/wiki/FUNFAIR" title="wikilink">FUNFAIR</a>」</p></td>
+<td><p><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>「<a href="../Page/FUNFAIR.md" title="wikilink">FUNFAIR</a>」</p></td>
 <td><p>WPCL-10444</p></td>
 <td><p>12.Remember (RIP SLYME with MONGOL800)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年2月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきなわのホームソング" title="wikilink">おきなわのホームソング</a></p></td>
+<td><p><a href="../Page/おきなわのホームソング.md" title="wikilink">おきなわのホームソング</a></p></td>
 <td></td>
 <td><p>ニーブイカーブイ(作詞:上江洌清作)</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年02月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SOFFet" title="wikilink">SOFFet</a>「<a href="https://ja.wikipedia.org/wiki/NEW_STANDARD_(アルバム)" title="wikilink">NEW STANDARD</a>」</p></td>
+<td><p><a href="../Page/SOFFet.md" title="wikilink">SOFFet</a>「<a href="https://ja.wikipedia.org/wiki/NEW_STANDARD_(アルバム)" title="wikilink">NEW STANDARD</a>」</p></td>
 <td><p>RZCD-45820B<br />
 RZCD-45821</p></td>
 <td><p>2.ひとりじゃない (SOFFet with MONGOL800)</p></td>
@@ -441,7 +441,7 @@ RZCD-45821</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年06月26日</p></td>
-<td><p>DJ<a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a>「DJやついいちろう 1」</p></td>
+<td><p>DJ<a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a>「DJやついいちろう 1」</p></td>
 <td><p>VICL-63348</p></td>
 <td><p>8.小さな恋のうた</p></td>
 </tr>
@@ -473,13 +473,13 @@ RZC1-46475</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年05月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Miss_Monday" title="wikilink">Miss Monday</a>「Life is beautiful feat.キヨサク from MONGOL800, Salyu, SHOCK EYE from 湘南乃風」</p></td>
+<td><p><a href="../Page/Miss_Monday.md" title="wikilink">Miss Monday</a>「Life is beautiful feat.キヨサク from MONGOL800, Salyu, SHOCK EYE from 湘南乃風」</p></td>
 <td><p>FLCF-4333</p></td>
 <td><p>1.Life is beautiful feat.キヨサク from MONGOL800,Salyu,SHOCK EYE from 湘南乃風</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年06月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Q;indivi" title="wikilink">Q;indivi</a>+「ACACIA;」</p></td>
+<td><p><a href="../Page/Q;indivi.md" title="wikilink">Q;indivi</a>+「ACACIA;」</p></td>
 <td><p>WPCL-10825</p></td>
 <td><p>9.hanabi / Q;indivi+キヨサク</p></td>
 </tr>
@@ -509,13 +509,13 @@ RZC1-46475</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年03月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a> Tribute - GO!GO! A GO!GO!</p></td>
+<td><p><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a> Tribute - GO!GO! A GO!GO!</p></td>
 <td><p>VICB-60069</p></td>
 <td><p>10.こいのうた</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年06月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a>＆キヨサク（from MONGOL800）「空っぽ」</p></td>
+<td><p><a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a>＆キヨサク（from MONGOL800）「空っぽ」</p></td>
 <td><p>VICL-36650</p></td>
 <td><p>1.空っぽ</p></td>
 </tr>
@@ -533,7 +533,7 @@ RZC1-46475</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年09月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤登紀子" title="wikilink">加藤登紀子</a>「命結-ぬちゆい」</p></td>
+<td><p><a href="../Page/加藤登紀子.md" title="wikilink">加藤登紀子</a>「命結-ぬちゆい」</p></td>
 <td><p>UICZ-4250</p></td>
 <td><p>4.タユタウタ with キヨサク (MONGOL800)</p></td>
 </tr>
@@ -588,7 +588,7 @@ CTCR-40360</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年11月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DOZAN11" title="wikilink">DOZAN11</a>「Japan be Irie</p></td>
+<td><p><a href="../Page/DOZAN11.md" title="wikilink">DOZAN11</a>「Japan be Irie</p></td>
 <td><p>」</p></td>
 <td><p>UPCH-2002</p></td>
 </tr>
@@ -596,7 +596,7 @@ CTCR-40360</p></td>
 <td><p>2015年04月01日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/私とドリカム2_-ドリカムワンダーランド2015_開催記念_BEST_COVERS-" title="wikilink">私とドリカム2 -ドリカムワンダーランド2015 開催記念 BEST COVERS-</a></p></td>
 <td><p>ESCL-4394</p></td>
-<td><p>13.<a href="https://ja.wikipedia.org/wiki/MAGIC_(DREAMS_COME_TRUEのアルバム)" title="wikilink">a little waltz</a></p></td>
+<td><p>13.<a href="../Page/MAGIC_(DREAMS_COME_TRUEのアルバム).md" title="wikilink">a little waltz</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年07月29日</p></td>
@@ -606,7 +606,7 @@ CTCR-40360</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年11月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GAKU-MC" title="wikilink">GAKU-MC</a>「LIFE IS A JOURNEY」</p></td>
+<td><p><a href="../Page/GAKU-MC.md" title="wikilink">GAKU-MC</a>「LIFE IS A JOURNEY」</p></td>
 <td><p>DDCZ-2062</p></td>
 <td><p>2.rap love song feat.キヨサク from MONGOL800</p></td>
 </tr>
@@ -624,14 +624,14 @@ CTCR-40360</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年07月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ORANGE_RANGE" title="wikilink">ORANGE RANGE</a>「<a href="https://ja.wikipedia.org/wiki/縁盤" title="wikilink">縁盤</a>」</p></td>
+<td><p><a href="../Page/ORANGE_RANGE.md" title="wikilink">ORANGE RANGE</a>「<a href="https://ja.wikipedia.org/wiki/縁盤" title="wikilink">縁盤</a>」</p></td>
 <td><p>VICL-64609<br />
 VIZL-1013</p></td>
 <td><p>2.以心電信</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年08月03日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン" title="wikilink">ソウル・フラワー・ユニオン</a>&amp;<a href="https://ja.wikipedia.org/wiki/ニューエスト・モデル" title="wikilink">ニューエスト・モデル</a> 2016トリビュート</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン" title="wikilink">ソウル・フラワー・ユニオン</a>&amp;<a href="../Page/ニューエスト・モデル.md" title="wikilink">ニューエスト・モデル</a> 2016トリビュート</p></td>
 <td><p>CRCP-40473</p></td>
 <td><p>4.海行かば 山行かば 踊るかばね</p></td>
 </tr>
@@ -646,11 +646,11 @@ VIZL-1013</p></td>
 
 ### 他アーティストによるカバー
 
-  - [小さな恋のうた](https://ja.wikipedia.org/wiki/小さな恋のうた "wikilink") - [沢知恵](https://ja.wikipedia.org/wiki/沢知恵 "wikilink")、[大山百合香](https://ja.wikipedia.org/wiki/大山百合香 "wikilink")、[アンドリューW.K.](https://ja.wikipedia.org/wiki/アンドリューW.K. "wikilink")、[Hearts Grow](https://ja.wikipedia.org/wiki/Hearts_Grow "wikilink")、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")、[Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink")、SISTER KAYA、pino schizzo、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[Naomile](https://ja.wikipedia.org/wiki/Naomile "wikilink")、[Goosehouse](https://ja.wikipedia.org/wiki/Goosehouse "wikilink")、[KCB (KICK CHOP BUSTERS)](https://ja.wikipedia.org/wiki/KCB_\(KICK_CHOP_BUSTERS\) "wikilink")、[大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")、[ダイアナ・ガーネット](https://ja.wikipedia.org/wiki/ダイアナ・ガーネット "wikilink")、[フラチナリズム](https://ja.wikipedia.org/wiki/フラチナリズム "wikilink")、[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")（からかい上手の高木さん）、[天月](https://ja.wikipedia.org/wiki/天月-あまつき- "wikilink")
+  - [小さな恋のうた](https://ja.wikipedia.org/wiki/小さな恋のうた "wikilink") - [沢知恵](../Page/沢知恵.md "wikilink")、[大山百合香](../Page/大山百合香.md "wikilink")、[アンドリューW.K.](../Page/アンドリューW.K..md "wikilink")、[Hearts Grow](../Page/Hearts_Grow.md "wikilink")、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")、[Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink")、SISTER KAYA、pino schizzo、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[Naomile](https://ja.wikipedia.org/wiki/Naomile "wikilink")、[Goosehouse](https://ja.wikipedia.org/wiki/Goosehouse "wikilink")、[KCB (KICK CHOP BUSTERS)](https://ja.wikipedia.org/wiki/KCB_\(KICK_CHOP_BUSTERS\) "wikilink")、[大友康平](../Page/大友康平.md "wikilink")、[ダイアナ・ガーネット](https://ja.wikipedia.org/wiki/ダイアナ・ガーネット "wikilink")、[フラチナリズム](https://ja.wikipedia.org/wiki/フラチナリズム "wikilink")、[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")（からかい上手の高木さん）、[天月](https://ja.wikipedia.org/wiki/天月-あまつき- "wikilink")
 
 <!-- end list -->
 
-  - [あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink") - [沢知恵](https://ja.wikipedia.org/wiki/沢知恵 "wikilink")、[加藤登紀子](https://ja.wikipedia.org/wiki/加藤登紀子 "wikilink")、SISTER KAYA、[大山百合香](https://ja.wikipedia.org/wiki/大山百合香 "wikilink")、新垣結衣、[アイコ](https://ja.wikipedia.org/wiki/advantage_Lucy "wikilink")
+  - [あなたに](https://ja.wikipedia.org/wiki/あなたに_\(MONGOL800の曲\) "wikilink") - [沢知恵](../Page/沢知恵.md "wikilink")、[加藤登紀子](../Page/加藤登紀子.md "wikilink")、SISTER KAYA、[大山百合香](../Page/大山百合香.md "wikilink")、新垣結衣、[アイコ](https://ja.wikipedia.org/wiki/advantage_Lucy "wikilink")
 
 ## ミュージックビデオ
 
@@ -667,10 +667,10 @@ VIZL-1013</p></td>
 
   - 2004年 - MONGOL800 全国PARTY\!\! 〜百々2004〜
       -
-        w/[BLACK BOTTOM BRASS BAND](https://ja.wikipedia.org/wiki/BLACK_BOTTOM_BRASS_BAND "wikilink") / [NEW TOWNER](https://ja.wikipedia.org/wiki/NEW_TOWNER "wikilink") / [SKAYMATES](https://ja.wikipedia.org/wiki/SKAYMATES "wikilink") / [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink") / [古謝美佐子](https://ja.wikipedia.org/wiki/古謝美佐子 "wikilink") / [赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")
+        w/[BLACK BOTTOM BRASS BAND](../Page/BLACK_BOTTOM_BRASS_BAND.md "wikilink") / [NEW TOWNER](https://ja.wikipedia.org/wiki/NEW_TOWNER "wikilink") / [SKAYMATES](https://ja.wikipedia.org/wiki/SKAYMATES "wikilink") / [SOFFet](../Page/SOFFet.md "wikilink") / [古謝美佐子](../Page/古謝美佐子.md "wikilink") / [赤犬](../Page/赤犬.md "wikilink")
   - 2005年 - MONGOL800 ga LIVE
       -
-        w/[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink") / [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink") / [KOOLOGI](https://ja.wikipedia.org/wiki/KOOLOGI "wikilink")
+        w/[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink") / [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") / [KOOLOGI](../Page/KOOLOGI.md "wikilink")
   - 2005年 - MONGOL800 ga LIVE 2
       -
         w/[Bleach](https://ja.wikipedia.org/wiki/Bleach "wikilink") / [EAST WOMAN](https://ja.wikipedia.org/wiki/EAST_WOMAN "wikilink") / [The☆Hookers](https://ja.wikipedia.org/wiki/The☆Hookers "wikilink") / [耳切坊主](https://ja.wikipedia.org/wiki/耳切坊主 "wikilink")
@@ -682,15 +682,15 @@ VIZL-1013</p></td>
   - 2009年12月07日 - MONGOL800 ga LIVE at 日本武道館
   - 2010年10月02日・03日 - 800だョ全員集合\!\!
       -
-        w/BLACK BOTTOM BRASS BAND / [奥田民生](../Page/奥田民生.md "wikilink") / [YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink") / [ハナレグミ](https://ja.wikipedia.org/wiki/ハナレグミ "wikilink") / [OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink") / [ディアマンテス](https://ja.wikipedia.org/wiki/ディアマンテス "wikilink") / [The BK Sound](https://ja.wikipedia.org/wiki/The_BK_Sound "wikilink") / [浅草ジンタ](https://ja.wikipedia.org/wiki/浅草ジンタ "wikilink") / [Bagdad Cafe The Trench Town](https://ja.wikipedia.org/wiki/Bagdad_Cafe_The_Trench_Town "wikilink")
+        w/BLACK BOTTOM BRASS BAND / [奥田民生](../Page/奥田民生.md "wikilink") / [YO-KING](../Page/YO-KING.md "wikilink") / [ハナレグミ](../Page/ハナレグミ.md "wikilink") / [OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink") / [ディアマンテス](https://ja.wikipedia.org/wiki/ディアマンテス "wikilink") / [The BK Sound](https://ja.wikipedia.org/wiki/The_BK_Sound "wikilink") / [浅草ジンタ](../Page/浅草ジンタ.md "wikilink") / [Bagdad Cafe The Trench Town](https://ja.wikipedia.org/wiki/Bagdad_Cafe_The_Trench_Town "wikilink")
   - 2011年05月28日〜08月29日 - MONGOL800 ga LIVE 4
       -
-        w/[COOL WISE MAN](https://ja.wikipedia.org/wiki/COOL_WISE_MAN "wikilink") / [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink") / [磯部正文BAND](https://ja.wikipedia.org/wiki/磯部正文BAND "wikilink")
+        w/[COOL WISE MAN](https://ja.wikipedia.org/wiki/COOL_WISE_MAN "wikilink") / [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink") / [磯部正文BAND](https://ja.wikipedia.org/wiki/磯部正文BAND "wikilink")
   - 2011年10月01日・10月02日 - MONGOL800 ga FESTIVAL What a Wonderful World\!\! 11
   - 2012年07月20日〜08月16日 - MONGOL800 ga LIVE〜tropical tour'12〜
   - 2012年10月16日・10月16日 - 800だョ全員集合\!\!
       -
-        w/[THE 冠](https://ja.wikipedia.org/wiki/THE_冠 "wikilink")/[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")/[かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink")/[喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")&チャンプルーズ/[U-DOU\&PLATY](https://ja.wikipedia.org/wiki/U-DOU&PLATY "wikilink")/[赤犬](https://ja.wikipedia.org/wiki/赤犬 "wikilink")
+        w/[THE 冠](https://ja.wikipedia.org/wiki/THE_冠 "wikilink")/[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")/[かりゆし58](../Page/かりゆし58.md "wikilink")/[喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")&チャンプルーズ/[U-DOU\&PLATY](../Page/U-DOU&PLATY.md "wikilink")/[赤犬](../Page/赤犬.md "wikilink")
   - 2013年03月08日〜06月21日 - GOOD MORNING OKINAWA TOUR 2013
   - 2013年07月05日 - MONGOL800 ga LIVE "800BEST" at 日本武道館
   - 2013年11月01日〜2014年02月02日 - GOOD MORNING OKINAWA TOUR 2013-2014
@@ -702,7 +702,7 @@ VIZL-1013</p></td>
   - 2014年10月04日・10月05日 - MONGOL800 ga FESTIVAL What a Wonderful World\!\! 13+14
   - 2015年08月29日・09月04日・05日 - 800だョ全員集合\!\!
       -
-        w/[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink") / [きいやま商店](https://ja.wikipedia.org/wiki/きいやま商店 "wikilink") / Sakishima Meeting (新良幸人, 下地勇) / [FLiP](https://ja.wikipedia.org/wiki/FLiP "wikilink") / [U-DOU\&PLATY](https://ja.wikipedia.org/wiki/U-DOU&PLATY "wikilink") / [Kachimba 1551](https://ja.wikipedia.org/wiki/Kachimba_1551 "wikilink") / [I-VAN](https://ja.wikipedia.org/wiki/I-VAN "wikilink") / [清水ミチコ](../Page/清水ミチコ.md "wikilink") / [かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink")
+        w/[DA PUMP](../Page/DA_PUMP.md "wikilink") / [きいやま商店](https://ja.wikipedia.org/wiki/きいやま商店 "wikilink") / Sakishima Meeting (新良幸人, 下地勇) / [FLiP](https://ja.wikipedia.org/wiki/FLiP "wikilink") / [U-DOU\&PLATY](../Page/U-DOU&PLATY.md "wikilink") / [Kachimba 1551](https://ja.wikipedia.org/wiki/Kachimba_1551 "wikilink") / [I-VAN](https://ja.wikipedia.org/wiki/I-VAN "wikilink") / [清水ミチコ](../Page/清水ミチコ.md "wikilink") / [かりゆし58](../Page/かりゆし58.md "wikilink")
   - 2015年09月29日〜12月27日 - People People TOUR 2015
   - 2016年11月05日〜11月06日 - MONGOL800 ga FESTIVAL What a Wonderful World\!\! 16
 
@@ -712,15 +712,15 @@ VIZL-1013</p></td>
   - 2000年08月05日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2000
   - 2000年08月19日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2000 in EZO
   - 2001年07月07日 - 第19回 PEACEFUL LOVE ROCK FESTIVAL 2001
-  - 2001年08月01日 - [MONSTER baSH](https://ja.wikipedia.org/wiki/MONSTER_baSH "wikilink") 2001
-  - 2001年08月04日 - [ARABAKI ROCK FEST.](https://ja.wikipedia.org/wiki/ARABAKI_ROCK_FEST. "wikilink")01 in Sendai Bay 08042001
+  - 2001年08月01日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2001
+  - 2001年08月04日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")01 in Sendai Bay 08042001
   - 2002年03月29日・31日・04月01日・03日・04日 - Green Day Festival 2002
   - 2002年07月06日 - 第20回 PEACEFUL LOVE ROCK FESTIVAL 2002
   - 2002年08月09日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2002
   - 2002年08月16日 - RISING SUN ROCK FESTIVAL 2002 in EZO
   - 2002年08月17日・18日 - SUMMER SONIC 2002
   - 2002年08月25日 - MONSTER baSH 2002
-  - 2002年09月01日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink") 2002
+  - 2002年09月01日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2002
   - 2003年07月05日 - 第21回 PEACEFUL LOVE ROCK FESTIVAL 2003
   - 2003年08月16日 - RISING SUN ROCK FESTIVAL 2003 in EZO
   - 2004年07月03日 - 第22回 PEACEFUL LOVE ROCK FESTIVAL 2004
@@ -733,7 +733,7 @@ VIZL-1013</p></td>
   - 2005年08月28日 - MONSTER baSH 2005
   - 2005年08月30日 - TREASURE052 2005 〜the greatest riot 2nd day〜
   - 2005年12月04日 - [SPITZ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") JAMBOREE TOUR "あまったれ2005"
-  - 2006年01月13日 - [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink") SPACE SONIC TOUR 2005-2006
+  - 2006年01月13日 - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") SPACE SONIC TOUR 2005-2006
   - 2006年04月29日 - ARABAKI ROCK FEST.06
   - 2006年06月24日 - MIYAKO ISLAND ROCKFESTIVAL 2006
   - 2006年07月01日 - 第24回 PEACEFUL LOVE ROCK FESTIVAL 2006
@@ -746,7 +746,7 @@ VIZL-1013</p></td>
   - 2007年08月25日 - [OTODAMA](https://ja.wikipedia.org/wiki/OTODAMA_音泉魂 "wikilink")'07 〜音泉魂〜
   - 2007年08月26日 - MONSTER baSH 2007
   - 2007年09月08日 - [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink") ぶっ生き返すTOUR
-  - 2007年10月08日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") GG07
+  - 2007年10月08日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") GG07
   - 2007年10月10日・13日 - ELLEGARDEN TOUR 2007
   - 2008年04月28日 - ARABAKI ROCK FEST.08
   - 2008年05月21日 - [ジッタリン・ジン](https://ja.wikipedia.org/wiki/ジッタリン・ジン "wikilink")×MONGOL800
@@ -762,7 +762,7 @@ VIZL-1013</p></td>
   - 2009年07月31日 - ROCK IN JAPAN FESTIVAL 2009
   - 2009年08月09日 - SUMMER SONIC 2009
   - 2009年08月22日 - [ロックロックこんにちは\!](https://ja.wikipedia.org/wiki/ロックロックこんにちは! "wikilink") in 仙台 〜10th Anniversary Special〜
-  - 2009年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 09/10
+  - 2009年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10
   - 2010年05月02日 - ARABAKI ROCK FEST.10
   - 2010年06月05日 - FREEDOM 2010 in 淡路島 "青空"
   - 2010年07月03日 - 湘南音祭 Vol.4
@@ -774,19 +774,19 @@ VIZL-1013</p></td>
   - 2010年08月22日 - MONSTER baSH 2010
   - 2010年09月04日 - OTODAMA'10 〜音泉魂〜
   - 2011年02月11日 - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") Tour STOUT
-  - 2011年07月17日 - [AOMORI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/AOMORI_ROCK_FESTIVAL "wikilink") '11 〜夏の魔物〜
+  - 2011年07月17日 - [AOMORI ROCK FESTIVAL](../Page/AOMORI_ROCK_FESTIVAL.md "wikilink") '11 〜夏の魔物〜
   - 2011年07月30日 - OGA NAMAHAGE ROCK FESTIVAL VOL.2
   - 2011年08月05日 - ROCK IN JAPAN FESTIVAL 2011
   - 2011年08月13日 - RISING SUN ROCK FESTIVAL 2011 in EZO
   - 2011年08月26日 - 荒吐宵祭 GO\!\! ARABAKI11 GO\!\!
   - 2011年08月27日 - ARABAKI ROCK FEST.11
   - 2011年09月11日 - ベリテンライブ2011
-  - 2011年10月20日 - [山嵐](https://ja.wikipedia.org/wiki/山嵐_\(バンド\) "wikilink") 15th Anniversary 〜湘南音祭番外編〜
+  - 2011年10月20日 - [山嵐](../Page/山嵐_\(バンド\).md "wikilink") 15th Anniversary 〜湘南音祭番外編〜
   - 2011年12月11日 - G.M.C 2011 (Global Music Center 2011)
   - 2011年12月28日 - COUNTDOWN JAPAN 11/12
   - 2012年01月29日 - [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink") presents PUNISHER'S NIGHT 2012
   - 2012年02月26日 - DEVILOCK NIGHT THE FINAL
-  - 2012年04月13日 - おかげさまで10周年。琉球サミット in 江戸 〜[ORANGE RANGEとMONGOL](https://ja.wikipedia.org/wiki/ORANGE_RANGE "wikilink")800〜
+  - 2012年04月13日 - おかげさまで10周年。琉球サミット in 江戸 〜[ORANGE RANGEとMONGOL](../Page/ORANGE_RANGE.md "wikilink")800〜
   - 2012年04月29日 - ARABAKI ROCK FEST.12
   - 2012年06月10日 - Tropical Lovers Beach Festa 2012
   - 2012年06月23日 - MIYAKO ISLAND ROCKFESTIVAL 2012
@@ -811,19 +811,19 @@ VIZL-1013</p></td>
   - 2013年08月31日 - TREASURE05X 2013 10th Anniversary 〜sweet 10 treasures〜
   - 2013年09月06日 - [Sunset Live](https://ja.wikipedia.org/wiki/サンセットライブ "wikilink") 2013
   - 2013年09月07日 - OTODAMA'13 〜音泉魂〜
-  - 2013年09月21日 - [真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink") マゴーソニック2013 大阪 〜オラ、モンパチが観てぇ\!〜
+  - 2013年09月21日 - [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink") マゴーソニック2013 大阪 〜オラ、モンパチが観てぇ\!〜
   - 2013年09月23日 - [いしがきミュージックフェスティバル](https://ja.wikipedia.org/wiki/いしがきミュージックフェスティバル "wikilink") 2013
   - 2013年12月29日 - FM802 ROCK FESTIVAL RADIO CRAZY 2013
-  - 2014年04月20日 - [ザ・クロマニヨンズ](https://ja.wikipedia.org/wiki/ザ・クロマニヨンズ "wikilink")×MONGOL800 ROCK★ADDICTION
+  - 2014年04月20日 - [ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")×MONGOL800 ROCK★ADDICTION
   - 2014年04月26日 - ARABAKI ROCK FEST.14
   - 2014年05月11日 - POLYONSEN 2014〜ネズミまっしぐら\!風呂スキ〜モンパチ♪〜
-  - 2014年05月17日 - [浅草ジンタ](https://ja.wikipedia.org/wiki/浅草ジンタ "wikilink") presents ロッキン新天地スペシャル10周年編
+  - 2014年05月17日 - [浅草ジンタ](../Page/浅草ジンタ.md "wikilink") presents ロッキン新天地スペシャル10周年編
   - 2014年05月18日 - FOUR SEASONS FESTIVAL'14
   - 2014年05月24日 - GREENROOM FESTIVAL '14
   - 2014年06月21日 - MIYAKO ISLAND ROCKFESTIVAL 2014 10th Anniversary
   - 2014年07月06日 - 京都大作戦2014〜束になってかかってきな祭\!〜
   - 2014年07月19日 - オフィス男闘呼塾エンターテインメントPresents [氣志團](../Page/氣志團.md "wikilink")現象2014「極東ロックンロール・ハイスクール 第弐章」 MONGOL800vs氣志團
-  - 2014年07月24日 - G-SHOCK SHOCK THE WORLD 2014 Powerd by [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink") SHOCK THE RADIO
+  - 2014年07月24日 - G-SHOCK SHOCK THE WORLD 2014 Powerd by [RIP SLYME](../Page/RIP_SLYME.md "wikilink") SHOCK THE RADIO
   - 2014年08月09日 - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink") presents 第4回トーキョースカジャンボリー
   - 2014年08月10日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年08月24日 - MONSTER baSH 2014
@@ -848,13 +848,13 @@ VIZL-1013</p></td>
   - 2015年08月08日 - SOUND MARINA '15
   - 2015年08月09日 - オハラ☆ブレイク '15夏(「ウクレレジプシー キヨサク from MONGOL800」名義)
   - 2015年08月22日 - MONSTER baSH 2015(「ウクレレジプシー キヨサク from MONGOL800」名義)
-  - 2015年11月14日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 尽未来際 〜尽未来祭〜
+  - 2015年11月14日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 尽未来際 〜尽未来祭〜
   - 2015年12月29日 - COUNTDOWN JAPAN 15/16
   - 2016年01月23日 - [KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink") 20th Anniversary Tour 2015「F」
   - 2016年02月22日 - 琉球サミット in 江戸
   - 2016年02月27日 - [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")「Are You Coming? Tour」
-  - 2016年02月28日 - [チャットモンチー](https://ja.wikipedia.org/wiki/チャットモンチー "wikilink")の徳島こなそんそんフェス2016〜みな、おいでなしてよ\!〜
-  - 2016年03月26日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") "Live Is Beautiful Tour 2015-2016"
+  - 2016年02月28日 - [チャットモンチー](../Page/チャットモンチー.md "wikilink")の徳島こなそんそんフェス2016〜みな、おいでなしてよ\!〜
+  - 2016年03月26日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") "Live Is Beautiful Tour 2015-2016"
   - 2016年05月14日 - 〜VARIOUS PEOPLE, ONE SKY〜 ふくしま おおぞら フェスタ2016 AIR LIVE
   - 2016年05月15日 - [RHYMESTER presents 人間交差点 2016](https://ja.wikipedia.org/wiki/人間交差点_\(イベント\) "wikilink")
   - 2016年05月21日 - HumanStage 20th Anniversary
@@ -865,7 +865,7 @@ VIZL-1013</p></td>
   - 2016年07月30日 - OGA NAMAHAGE ROCK FESTIVAL VOL.7
   - 2016年08月14日 - ROCK IN JAPAN FESTIVAL 2016
   - 2016年08月21日 - MONSTER baSH 2016
-  - 2016年08月27日 - [音楽と髭](https://ja.wikipedia.org/wiki/音楽と髭 "wikilink")達2016 -C'mon OTOHIGE-
+  - 2016年08月27日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達2016 -C'mon OTOHIGE-
   - 2016年09月10日 - 中津川 THE SOLAR BUDOKAN 2016
   - 2016年09月11日 - OSAKA HAZIKETEMAZARE FESTIVAL 2016
   - 2016年09月17日 - [氣志團万博](https://ja.wikipedia.org/wiki/氣志團万博 "wikilink")2016 〜房総ロックンロール・チャンピオン・カーニバル〜 Presented by シミズオクト
@@ -893,7 +893,7 @@ VIZL-1013</p></td>
 7.
 8.  『ROCKIN'ON JAPAN』、2009年8月1日、P.150
 9.
-10. [近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")「近田春夫の考えるヒット 343回 MONGOL800人気のワケは産地直送の通販モノに通じる」『[週刊文春](../Page/週刊文春.md "wikilink")』、2004年1月22日号、P.74
+10. [近田春夫](../Page/近田春夫.md "wikilink")「近田春夫の考えるヒット 343回 MONGOL800人気のワケは産地直送の通販モノに通じる」『[週刊文春](../Page/週刊文春.md "wikilink")』、2004年1月22日号、P.74
 11.
 12. 「ROCK IN JAPAN FES.2005 MONGOL800 2度目にして3年半ぶりのJAPAN登場！『MESSAGE』が日本を席巻して以降、彼らは…」『ROCKIN'ON JAPAN』、2005年9月30日臨時増刊号、P.91
 13.
@@ -909,7 +909,7 @@ VIZL-1013</p></td>
 23.
 24. 「依布サラサのチョコより歌詞　リスペクトするあの人に、勝手に歌詞提供?　40回　MONGOL800さん　『やさしい花』」『CDでーた』、23巻7号、2011年7月、P.103
 25.
-26. 「MONGOL800　俺らはある意味、純粋に音楽に向き合えているんじゃないかな。音楽のピュア度みたいなのが、今度の作品はかなりあるほうだと思ってて」『[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")』、14巻9号、2006年9月1日、P.68
+26. 「MONGOL800　俺らはある意味、純粋に音楽に向き合えているんじゃないかな。音楽のピュア度みたいなのが、今度の作品はかなりあるほうだと思ってて」『[音楽と人](../Page/音楽と人.md "wikilink")』、14巻9号、2006年9月1日、P.68
 27.
 28.
 29.

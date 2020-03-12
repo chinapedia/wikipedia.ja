@@ -8,7 +8,7 @@
 
 </div>
 
-『**MMR未確認飛行物体**』（エムエムアールみかくにんひこうぶったい）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけて毎週木曜夜8時台に放送された「[木曜の怪談](https://ja.wikipedia.org/wiki/木曜の怪談 "wikilink")」第2シーズン内の[特撮](../Page/特撮.md "wikilink")シリーズで、放送期間は[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[9月](../Page/9月.md "wikilink")までの半年間。
+『**MMR未確認飛行物体**』（エムエムアールみかくにんひこうぶったい）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけて毎週木曜夜8時台に放送された「[木曜の怪談](../Page/木曜の怪談.md "wikilink")」第2シーズン内の[特撮](../Page/特撮.md "wikilink")シリーズで、放送期間は[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[9月](../Page/9月.md "wikilink")までの半年間。
 
 [1996年](../Page/1996年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")、[12月12日](../Page/12月12日.md "wikilink")には「木曜の怪談 MMR未確認飛行物体SP ノストラダムスの大予言」というスペシャル版が放映された。
 
@@ -19,11 +19,11 @@
 ## スタッフ
 
   - 原案：[石垣ゆうき](../Page/石垣ゆうき.md "wikilink")（『[MMR マガジンミステリー調査班](../Page/MMR_マガジンミステリー調査班.md "wikilink")』）
-  - 脚本：[野尻靖之](https://ja.wikipedia.org/wiki/野尻靖之 "wikilink")、笹生八穂子、[武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")
+  - 脚本：[野尻靖之](https://ja.wikipedia.org/wiki/野尻靖之 "wikilink")、笹生八穂子、[武上純希](../Page/武上純希.md "wikilink")
   - 演出：[田島大輔](https://ja.wikipedia.org/wiki/田島大輔 "wikilink")、山本一男、[長江俊和](https://ja.wikipedia.org/wiki/長江俊和 "wikilink")
-  - オープニングナレーション：[森山周一郎](https://ja.wikipedia.org/wiki/森山周一郎 "wikilink")
+  - オープニングナレーション：[森山周一郎](../Page/森山周一郎.md "wikilink")
   - ナレーション：[銀河万丈](../Page/銀河万丈.md "wikilink")
-  - プロデュース：[和田行](https://ja.wikipedia.org/wiki/和田行 "wikilink")
+  - プロデュース：[和田行](../Page/和田行.md "wikilink")
   - CG：[スタジオ美峰](https://ja.wikipedia.org/wiki/スタジオ美峰 "wikilink")
 
 ## キャスト
@@ -48,7 +48,7 @@
 
   - 池田見栄子（[築山万有美](https://ja.wikipedia.org/wiki/築山万有美 "wikilink")）
 
-  - サヤカ（[立河宜子](https://ja.wikipedia.org/wiki/立河宜子 "wikilink")）
+  - サヤカ（[立河宜子](../Page/立河宜子.md "wikilink")）
     栄談社の社内にあるカフェバー・らくまくの店員。お色気天然キャラクター。踝や皇がしょっちゅう訪れており、彼らの話に耳を傾けつつ的外れな返答でずっこけさせたりしている。
 
 ## メモ
@@ -80,7 +80,7 @@
 <td><p>天使を見た少女</p></td>
 <td><p>武上純希</p></td>
 <td><p>田島大輔</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇梶剛士" title="wikilink">宇梶剛士</a></p></td>
+<td><p><a href="../Page/宇梶剛士.md" title="wikilink">宇梶剛士</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -88,7 +88,7 @@
 <td><p>ヒーリングパワーの謎</p></td>
 <td><p>野尻晴之</p></td>
 <td><p><a href="../Page/阿部寛.md" title="wikilink">阿部寛</a><br />
-<a href="https://ja.wikipedia.org/wiki/田中広子" title="wikilink">田中広子</a><br />
+<a href="../Page/田中広子.md" title="wikilink">田中広子</a><br />
 <a href="../Page/ルー大柴.md" title="wikilink">ルー大柴</a></p></td>
 <td></td>
 </tr>
@@ -105,7 +105,7 @@
 <td><p>5月23日</p></td>
 <td><p>キャトルミューティレーション</p></td>
 <td><p>武上純希</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高樹澪" title="wikilink">高樹澪</a></p></td>
+<td><p><a href="../Page/高樹澪.md" title="wikilink">高樹澪</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -114,14 +114,14 @@
 <td><p>写れ念写の謎</p></td>
 <td><p>小中千昭</p></td>
 <td><p>田島大輔</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いかりや長介" title="wikilink">いかりや長介</a></p></td>
+<td><p><a href="../Page/いかりや長介.md" title="wikilink">いかりや長介</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>6月6日</p></td>
 <td><p>遺伝子操作</p></td>
 <td><p>武上純希</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黒田勇樹" title="wikilink">黒田勇樹</a></p></td>
+<td><p><a href="../Page/黒田勇樹.md" title="wikilink">黒田勇樹</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -130,14 +130,14 @@
 <td><p>最後の予言</p></td>
 <td><p>野尻晴之</p></td>
 <td><p>澤田鎌作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京本政樹" title="wikilink">京本政樹</a></p></td>
+<td><p><a href="../Page/京本政樹.md" title="wikilink">京本政樹</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>6月20日</p></td>
 <td><p>シンクロニシティ</p></td>
 <td><p>葉山陽一郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中野英雄" title="wikilink">中野英雄</a></p></td>
+<td><p><a href="../Page/中野英雄.md" title="wikilink">中野英雄</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -154,8 +154,8 @@
 <td><p>UFO墜落 前編</p></td>
 <td><p>武上純希</p></td>
 <td><p>田島大輔</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀内正美" title="wikilink">堀内正美</a><br />
-<a href="https://ja.wikipedia.org/wiki/永堀剛敏" title="wikilink">永堀剛敏</a></p></td>
+<td><p><a href="../Page/堀内正美.md" title="wikilink">堀内正美</a><br />
+<a href="../Page/永堀剛敏.md" title="wikilink">永堀剛敏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -171,7 +171,7 @@
 <td><p>宇宙から還った男</p></td>
 <td><p>楠本ひろみ</p></td>
 <td><p>長江俊和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長谷川初範" title="wikilink">長谷川初範</a></p></td>
+<td><p><a href="../Page/長谷川初範.md" title="wikilink">長谷川初範</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -179,8 +179,8 @@
 <td><p>蘇る死体</p></td>
 <td><p>野尻晴之</p></td>
 <td><p>山本一男</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松重豊" title="wikilink">松重豊</a><br />
-<a href="https://ja.wikipedia.org/wiki/神保悟志" title="wikilink">神保悟志</a></p></td>
+<td><p><a href="../Page/松重豊.md" title="wikilink">松重豊</a><br />
+<a href="../Page/神保悟志.md" title="wikilink">神保悟志</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -188,7 +188,7 @@
 <td><p>超能力教室</p></td>
 <td><p>笹生八稲子</p></td>
 <td><p>長江俊和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉野真弓" title="wikilink">吉野真弓</a></p></td>
+<td><p><a href="../Page/吉野真弓.md" title="wikilink">吉野真弓</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -197,7 +197,7 @@
 <td><p>武上純希</p></td>
 <td><p>田島大輔</p></td>
 <td><p><a href="../Page/前田亜季.md" title="wikilink">前田亜季</a><br />
-<a href="https://ja.wikipedia.org/wiki/伊藤淳史" title="wikilink">伊藤淳史</a></p></td>
+<a href="../Page/伊藤淳史.md" title="wikilink">伊藤淳史</a></p></td>
 </tr>
 <tr class="even">
 <td><p>スペシャル</p></td>
@@ -229,9 +229,9 @@
 
 ## テーマ曲
 
-  - メインテーマ：[ザ・サーフコースターズ](https://ja.wikipedia.org/wiki/ザ・サーフコースターズ "wikilink")『アストラル・サークル』
+  - メインテーマ：[ザ・サーフコースターズ](../Page/ザ・サーフコースターズ.md "wikilink")『アストラル・サークル』
   - エンディングテーマ：[オイスターズ](https://ja.wikipedia.org/wiki/OYSTARS "wikilink")『SO SERIOUS がむしゃらな恋』
-  - スペシャル版ED：[THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")『楽園』
+  - スペシャル版ED：[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")『楽園』
 
 ## 脚注
 

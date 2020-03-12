@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - 3rdアルバム『[DEEP FOREST](https://ja.wikipedia.org/wiki/DEEP_FOREST "wikilink")』の先行シングル。
+  - 3rdアルバム『[DEEP FOREST](../Page/DEEP_FOREST.md "wikilink")』の先行シングル。
   - 「冒険者たち」は[花王](../Page/花王.md "wikilink")「ラビナス」CMソング。もともとシングルとして発売する予定は無かったが、タイアップが付いたため急遽シングル化となった。
-  - 炎の輪の中で演奏するPVが話題となった。ちなみにこの炎はCGではなく本物で、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")の身長を超す高さまで燃え上がったという。
+  - 炎の輪の中で演奏するPVが話題となった。ちなみにこの炎はCGではなく本物で、[大渡亮](../Page/大渡亮.md "wikilink")の身長を超す高さまで燃え上がったという。
 
 ## 収録曲
 
-（全作詞･作曲：[D･A･I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")･全編曲：D･A･I / [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")）
+（全作詞･作曲：[D･A･I](../Page/長尾大.md "wikilink")･全編曲：D･A･I / [亀田誠治](../Page/亀田誠治.md "wikilink")）
 
 1.  **冒険者たち**
 2.  **Remember the hill**
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - 『[DEEP FOREST](https://ja.wikipedia.org/wiki/DEEP_FOREST "wikilink")』
+  - 『[DEEP FOREST](../Page/DEEP_FOREST.md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』（ライブレコーディング「GREAT TOUR BAND version」として収録）
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
@@ -48,7 +48,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第15弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第15弾。
 
 ### 収録曲
 

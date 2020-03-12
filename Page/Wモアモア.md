@@ -1,11 +1,11 @@
 > この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
 
 
-**Wモアモア**（だぶるもあもあ）は[トービック](https://ja.wikipedia.org/wiki/トービック "wikilink")、[漫才協会](https://ja.wikipedia.org/wiki/漫才協会 "wikilink")、[落語芸術協会](../Page/落語芸術協会.md "wikilink")所属（デビュー当初は[太田プロダクション](../Page/太田プロダクション.md "wikilink")） の日本の漫才コンビ。
+**Wモアモア**（だぶるもあもあ）は[トービック](https://ja.wikipedia.org/wiki/トービック "wikilink")、[漫才協会](../Page/漫才協会.md "wikilink")、[落語芸術協会](../Page/落語芸術協会.md "wikilink")所属（デビュー当初は[太田プロダクション](../Page/太田プロダクション.md "wikilink")） の日本の漫才コンビ。
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[春日八郎](https://ja.wikipedia.org/wiki/春日八郎 "wikilink")の弟子であったけんが、漫才に魅せられ[Wけんじ](https://ja.wikipedia.org/wiki/Wけんじ "wikilink")に師事、一流企業の社員だったしんと[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")コンビを結成。[1975年](../Page/1975年.md "wikilink")、NHK漫才コンクールで最優秀賞を受賞。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、漫才協団真打に昇進し幹部となる。
+[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[春日八郎](../Page/春日八郎.md "wikilink")の弟子であったけんが、漫才に魅せられ[Wけんじ](../Page/Wけんじ.md "wikilink")に師事、一流企業の社員だったしんと[1970年](../Page/1970年.md "wikilink")コンビを結成。[1975年](../Page/1975年.md "wikilink")、NHK漫才コンクールで最優秀賞を受賞。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、漫才協団真打に昇進し幹部となる。
 
 訛りの抜けないけんが、しんを「このバカ！」となじりながらギャグを飛ばす。しんは柳に風とばかりに聞き流しておいて、折を見てけんに抗弁するが、肝心なところで言葉を言い間違えて笑いをとる。
 
@@ -25,17 +25,17 @@
 
 ## 主な出演
 
-  - [笑いがいちばん](https://ja.wikipedia.org/wiki/笑いがいちばん "wikilink")
+  - [笑いがいちばん](../Page/笑いがいちばん.md "wikilink")
   - [年忘れ漫才競演](https://ja.wikipedia.org/wiki/年忘れ漫才競演 "wikilink")
-  - [真打ち競演](https://ja.wikipedia.org/wiki/真打ち競演 "wikilink")
-  - [ラジオ寄席](https://ja.wikipedia.org/wiki/ラジオ寄席 "wikilink")
+  - [真打ち競演](../Page/真打ち競演.md "wikilink")
+  - [ラジオ寄席](../Page/ラジオ寄席.md "wikilink")
   - [メイコの税ミナール](https://ja.wikipedia.org/wiki/メイコの税ミナール "wikilink")
   - [お笑い名人館](https://ja.wikipedia.org/wiki/お笑い名人館 "wikilink")
   - [特選お笑い名人会](https://ja.wikipedia.org/wiki/特選お笑い名人会 "wikilink")
 
 ## 関連項目
 
-  - [春日八郎](https://ja.wikipedia.org/wiki/春日八郎 "wikilink")
+  - [春日八郎](../Page/春日八郎.md "wikilink")
   - [サミーモアモアJr.](https://ja.wikipedia.org/wiki/サミーモアモアJr. "wikilink")
 
 ## 外部リンク

@@ -8,7 +8,7 @@
   - [a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")2003で初披露。ジャケットもPVも全てa-nationで撮影された。
   - 元々はa-nation2003の為に、「SUMMER DAYS」の他にもう1曲盛り上がる夏の歌が欲しいという事で制作された。
   - 当初は「本日**モ**晴天ナリ」にするかどうか迷っていたらしい。a-nationで初披露された時は「本日**モ**晴天ナリ」だった。
-  - 「本日ハ晴天ナリ」は、[KONAMI](https://ja.wikipedia.org/wiki/KONAMI "wikilink")のゲームソフト「[Jリーグウイニングイレブンタクティクス](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")」オープニングソング。
+  - 「本日ハ晴天ナリ」は、[KONAMI](https://ja.wikipedia.org/wiki/KONAMI "wikilink")のゲームソフト「[Jリーグウイニングイレブンタクティクス](../Page/ウイニングイレブン.md "wikilink")」オープニングソング。
 
 ## 収録曲
 
@@ -19,7 +19,7 @@
 1.  **本日ハ晴天ナリ**
 2.  **10W40**
       -
-        10W40とは自動車用[エンジンオイル](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")の粘度指数区分のことである。
+        10W40とは自動車用[エンジンオイル](../Page/エンジンオイル.md "wikilink")の粘度指数区分のことである。
 3.  本日ハ晴天ナリ(Instrumental)
 4.  10W40(Instrumental)
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - 『[GATES OF HEAVEN](https://ja.wikipedia.org/wiki/GATES_OF_HEAVEN "wikilink")』（初回盤にはボーナストラックとしてa-nation 2003のライブ音源も収録）
+  - 『[GATES OF HEAVEN](../Page/GATES_OF_HEAVEN.md "wikilink")』（初回盤にはボーナストラックとしてa-nation 2003のライブ音源も収録）
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
   - 『[The Best of Do As Infinity](https://ja.wikipedia.org/wiki/The_Best_of_Do_As_Infinity "wikilink")』
@@ -55,7 +55,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第3弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第3弾。
 
 ### 収録曲
 

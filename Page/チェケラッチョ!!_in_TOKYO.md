@@ -1,29 +1,29 @@
 > この記事は[!! in TOKYO](https://ja.wikipedia.org/wiki/!!_in_TOKYO)から翻訳されています。
 
 
-『**チェケラッチョ\!\! in TOKYO**』（チェケラッチョインとうきょう）は、[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[青春★ENERGY](https://ja.wikipedia.org/wiki/青春★ENERGY "wikilink")』で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[6月15日](../Page/6月15日.md "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。映画『[チェケラッチョ\!\!](https://ja.wikipedia.org/wiki/チェケラッチョ!! "wikilink")』の続編。
+『**チェケラッチョ\!\! in TOKYO**』（チェケラッチョインとうきょう）は、[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[青春★ENERGY](../Page/青春★ENERGY.md "wikilink")』で[2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[6月15日](../Page/6月15日.md "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。映画『[チェケラッチョ\!\!](../Page/チェケラッチョ!!.md "wikilink")』の続編。
 
 ## 概要
 
-喜屋武茂雄先生が赴任した東京の高校の廃部寸前の放送部を舞台に、映画『[チェケラッチョ\!\!](https://ja.wikipedia.org/wiki/チェケラッチョ!! "wikilink")』のその後を描く。放送部員が[ラップ](../Page/ラップ.md "wikilink")によって成長していく。
+喜屋武茂雄先生が赴任した東京の高校の廃部寸前の放送部を舞台に、映画『[チェケラッチョ\!\!](../Page/チェケラッチョ!!.md "wikilink")』のその後を描く。放送部員が[ラップ](../Page/ラップ.md "wikilink")によって成長していく。
 
 ## ストーリー
 
 ## キャスト
 
-  - 青葉拓実：[窪田正孝](https://ja.wikipedia.org/wiki/窪田正孝 "wikilink")
-  - 九条三平：[木村了](https://ja.wikipedia.org/wiki/木村了 "wikilink")
-  - 綱田慎吾：[加治将樹](https://ja.wikipedia.org/wiki/加治将樹 "wikilink")
-  - 大木悟：[渡部豪太](https://ja.wikipedia.org/wiki/渡部豪太 "wikilink")
-  - 喜屋武茂雄：[川田広樹](https://ja.wikipedia.org/wiki/川田広樹 "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
+  - 青葉拓実：[窪田正孝](../Page/窪田正孝.md "wikilink")
+  - 九条三平：[木村了](../Page/木村了.md "wikilink")
+  - 綱田慎吾：[加治将樹](../Page/加治将樹.md "wikilink")
+  - 大木悟：[渡部豪太](../Page/渡部豪太.md "wikilink")
+  - 喜屋武茂雄：[川田広樹](../Page/川田広樹.md "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
 
 ## スタッフ
 
-  - 企画：[瀧山麻土香](https://ja.wikipedia.org/wiki/瀧山麻土香 "wikilink")
+  - 企画：[瀧山麻土香](../Page/瀧山麻土香.md "wikilink")
   - 脚本：[酒井雅秋](https://ja.wikipedia.org/wiki/酒井雅秋 "wikilink")
-  - 台本監修：[秦建日子](https://ja.wikipedia.org/wiki/秦建日子 "wikilink")
-  - プロデュース：[鹿内植](https://ja.wikipedia.org/wiki/鹿内植 "wikilink") 、竹田浩子　
-  - 演出：[大木綾子](https://ja.wikipedia.org/wiki/大木綾子 "wikilink")、加藤裕将、[小林和宏](https://ja.wikipedia.org/wiki/小林和宏 "wikilink")
+  - 台本監修：[秦建日子](../Page/秦建日子.md "wikilink")
+  - プロデュース：[鹿内植](../Page/鹿内植.md "wikilink") 、竹田浩子　
+  - 演出：[大木綾子](../Page/大木綾子.md "wikilink")、加藤裕将、[小林和宏](https://ja.wikipedia.org/wiki/小林和宏 "wikilink")
 
 ## サブタイトル
 

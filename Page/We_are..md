@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』（ライブレコーディング「GREAT TOUR BAND version」として収録）
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』（アレンジ・新録音して収録）
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
 
 <!-- end list -->
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』（Album Mix）
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』（Album Mix）
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』（Album Mixからイントロをカットしたバージョン）
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』（Album Mixからイントロをカットしたバージョン）
 
@@ -58,7 +58,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第9弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第9弾。
 
 ### 収録曲
 

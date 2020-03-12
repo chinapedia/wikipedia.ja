@@ -233,7 +233,7 @@
 <td><p>PCCA-03140</p></td>
 <td><ol>
 <li>春風LOVER SONG / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>
-<li>サクラ舞い散る夜は / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>サクラ舞い散る夜は / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 <li>サクラ / <a href="https://ja.wikipedia.org/wiki/REAL_REACH" title="wikilink">REAL REACH</a></li>
 </ol>
 <p>#春風 / [[SQUEEZE</p></td>
@@ -245,7 +245,7 @@
 <td><p>PCCA-03226</p></td>
 <td><ol>
 <li>shiny / <a href="../Page/Ala_(ロックバンド).md" title="wikilink">ala</a></li>
-<li>laid back song / <a href="https://ja.wikipedia.org/wiki/SKA_SKA_CLUB" title="wikilink">SKA SKA CLUB</a></li>
+<li>laid back song / <a href="../Page/SKA_SKA_CLUB.md" title="wikilink">SKA SKA CLUB</a></li>
 </ol>
 <p>#恋花火 / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
@@ -272,6 +272,6 @@
 ## 関連項目
 
   - [自由人](https://ja.wikipedia.org/wiki/自由人 "wikilink")
-  - [LOOSELY](https://ja.wikipedia.org/wiki/LOOSELY "wikilink")
+  - [LOOSELY](../Page/LOOSELY.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

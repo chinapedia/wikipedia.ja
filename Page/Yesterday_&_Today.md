@@ -9,14 +9,14 @@
 
 1.  **Yesterday & Today**
       -
-        [CX系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[二千年の恋](https://ja.wikipedia.org/wiki/二千年の恋 "wikilink")」主題歌。
+        [CX系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[二千年の恋](../Page/二千年の恋.md "wikilink")」主題歌。
 2.  **Raven**
       -
         静かなイントロで始まるが、サビでは激しいロック調に変わる。
-        [東映](../Page/東映.md "wikilink")配給映画｢[うずまき](https://ja.wikipedia.org/wiki/うずまき_\(漫画\) "wikilink")｣主題歌。制作された[PVには映画のシーンも数々登場する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        [東映](../Page/東映.md "wikilink")配給映画｢[うずまき](https://ja.wikipedia.org/wiki/うずまき_\(漫画\) "wikilink")｣主題歌。制作された[PVには映画のシーンも数々登場する](../Page/ミュージック・ビデオ.md "wikilink")。
 3.  **Glasses**
       -
-        「Raven」のアルバム収録が決定し、急遽追加された。初めてロックを前面に出した曲。サビ部分のコーラスには、[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")も参加している。ちなみに長尾大のコーラスが入っているのはこの曲だけである。
+        「Raven」のアルバム収録が決定し、急遽追加された。初めてロックを前面に出した曲。サビ部分のコーラスには、[長尾大](../Page/長尾大.md "wikilink")も参加している。ちなみに長尾大のコーラスが入っているのはこの曲だけである。
 4.  Yesterday & Today (Instrumental)
 5.  Raven (Instrumental)
 6.  Glasses (Instrumental)
@@ -28,9 +28,9 @@
 
 <!-- end list -->
 
-  - 『[BREAK OF DAWN](https://ja.wikipedia.org/wiki/BREAK_OF_DAWN "wikilink")』
+  - 『[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』※初回限定盤のみ「Strings Orchestra Mix」として収録
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』※初回限定盤のみ「Strings Orchestra Mix」として収録
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - 『[BREAK OF DAWN](https://ja.wikipedia.org/wiki/BREAK_OF_DAWN "wikilink")』
+  - 『[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")』
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第11弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第11弾。
 
 ### 収録曲
 

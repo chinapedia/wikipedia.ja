@@ -1,9 +1,9 @@
 > この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Hkairport_echannel.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:E-channel_01.jpg "wikilink") **e-道**（）とは、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")に導入された[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の自動出入境ゲートである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hkairport_echannel.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:E-channel_01.jpg "wikilink") **e-道**（）とは、[2004年](../Page/2004年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に導入された[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の自動出入境ゲートである。
 
-非接触型[ICカード](../Page/ICカード.md "wikilink")に置き換えられた香港IDカード（香港IC身分証）を所持する香港国民、あるいは香港在留資格のある外国人が利用できる。[永住権](https://ja.wikipedia.org/wiki/永住権 "wikilink")のある住民でなくとも良い。現在、[羅湖](https://ja.wikipedia.org/wiki/羅湖駅 "wikilink")・[紅磡駅などの鉄道駅](https://ja.wikipedia.org/wiki/紅カン駅 "wikilink")、[マカオ・フェリー・ターミナル](https://ja.wikipedia.org/wiki/マカオ・フェリー・ターミナル "wikilink")（[中環](https://ja.wikipedia.org/wiki/中環 "wikilink")）・香港中国フェリーターミナル（[九龍](https://ja.wikipedia.org/wiki/九龍 "wikilink")）、[文锦渡](https://ja.wikipedia.org/wiki/文锦渡 "wikilink")・[沙頭角](https://ja.wikipedia.org/wiki/沙頭角 "wikilink")・[落馬洲](https://ja.wikipedia.org/wiki/落馬洲 "wikilink")の自動車専用のゲート、[香港国際空港](https://ja.wikipedia.org/wiki/香港国際空港 "wikilink")などに設置されている。
+非接触型[ICカード](../Page/ICカード.md "wikilink")に置き換えられた香港IDカード（香港IC身分証）を所持する香港国民、あるいは香港在留資格のある外国人が利用できる。[永住権](../Page/永住権.md "wikilink")のある住民でなくとも良い。現在、[羅湖](https://ja.wikipedia.org/wiki/羅湖駅 "wikilink")・[紅磡駅などの鉄道駅](https://ja.wikipedia.org/wiki/紅カン駅 "wikilink")、[マカオ・フェリー・ターミナル](https://ja.wikipedia.org/wiki/マカオ・フェリー・ターミナル "wikilink")（[中環](../Page/中環.md "wikilink")）・香港中国フェリーターミナル（[九龍](../Page/九龍.md "wikilink")）、[文锦渡](https://ja.wikipedia.org/wiki/文锦渡 "wikilink")・[沙頭角](https://ja.wikipedia.org/wiki/沙頭角 "wikilink")・[落馬洲](https://ja.wikipedia.org/wiki/落馬洲 "wikilink")の自動車専用のゲート、[香港国際空港](../Page/香港国際空港.md "wikilink")などに設置されている。
 
 2008年より、従来香港居住者しか利用できなかった自動出入境ゲートを、1年間に香港への入国が3回以上ある者に発行される「香港国際空港フリークエントビジターカード（）」所持者、もしくは航空会社[マイレージサービス](../Page/マイレージサービス.md "wikilink")上級会員資格保持者も利用できるようになった。2012年6月にはフリークエントビジターカード自体が廃止され、同様のサービスはバーコードを旅券裏表紙へ貼り付けて認識する、このe道に一本化されている。
 
@@ -14,7 +14,7 @@
   - [自動化ゲート](https://ja.wikipedia.org/wiki/自動化ゲート "wikilink")（日本）
   - [J-BIS](https://ja.wikipedia.org/wiki/J-BIS "wikilink")（日本）
   - [Smartgate](https://ja.wikipedia.org/wiki/Smartgate "wikilink")（オーストラリア）
-  - [US-VISIT](https://ja.wikipedia.org/wiki/US-VISIT "wikilink")（アメリカ合衆国）
+  - [US-VISIT](../Page/US-VISIT.md "wikilink")（アメリカ合衆国）
 
 ## 外部リンク
 

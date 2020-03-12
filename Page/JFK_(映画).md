@@ -1,34 +1,34 @@
 > この記事は[JFK \(\)](https://ja.wikipedia.org/wiki/JFK_\(\))から翻訳されています。
 
 
-『**JFK**』（**）は[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。[ケネディ大統領暗殺事件](https://ja.wikipedia.org/wiki/ケネディ大統領暗殺事件 "wikilink")の捜査に執念を燃やす地方検事[ジム・ギャリソン](https://ja.wikipedia.org/wiki/ジム・ギャリソン "wikilink")（[ケビン・コスナー](https://ja.wikipedia.org/wiki/ケビン・コスナー "wikilink")）を中心に描いた現代史ミステリー。大統領暗殺をめぐる唯一の訴訟である[クレイ・ショー裁判にいたる捜査を題材として描いている](https://ja.wikipedia.org/wiki/:en:Trial_of_Clay_Shaw "wikilink")。
+『**JFK**』（**）は[1991年](../Page/1991年.md "wikilink")の[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[ケネディ大統領暗殺事件](../Page/ケネディ大統領暗殺事件.md "wikilink")の捜査に執念を燃やす地方検事[ジム・ギャリソン](https://ja.wikipedia.org/wiki/ジム・ギャリソン "wikilink")（[ケビン・コスナー](../Page/ケビン・コスナー.md "wikilink")）を中心に描いた現代史ミステリー。大統領暗殺をめぐる唯一の訴訟である[クレイ・ショー裁判にいたる捜査を題材として描いている](https://ja.wikipedia.org/wiki/:en:Trial_of_Clay_Shaw "wikilink")。
 
-[第64回アカデミー賞](https://ja.wikipedia.org/wiki/第64回アカデミー賞 "wikilink")で[撮影賞と編集賞を受賞した](https://ja.wikipedia.org/wiki/アカデミー撮影賞 "wikilink")。
+[第64回アカデミー賞](https://ja.wikipedia.org/wiki/第64回アカデミー賞 "wikilink")で[撮影賞と編集賞を受賞した](../Page/アカデミー撮影賞.md "wikilink")。
 
 劇場公開版の時点で、上映時間3時間を超える大作だった\[1\]。公開と同じ1991年、さらに長いディレクターズ・カット版（約206分）がビデオ発売された。
 
-主として、[リー・ハーヴェイ・オズワルド](https://ja.wikipedia.org/wiki/リー・ハーヴェイ・オズワルド "wikilink")、[CIA](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")、[マフィア](https://ja.wikipedia.org/wiki/マフィア "wikilink")や大物政治家がケネディ暗殺の犯人あるいは黒幕らしいとして語られるが、この映画は独自の説に基づいて展開されている。この独自の説の[材料は](https://ja.wikipedia.org/wiki/:en:Badge_man "wikilink")1980年代に発表されていたものの、この映画により一躍知名度を高めた\[2\]。
+主として、[リー・ハーヴェイ・オズワルド](../Page/リー・ハーヴェイ・オズワルド.md "wikilink")、[CIA](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")、[マフィア](../Page/マフィア.md "wikilink")や大物政治家がケネディ暗殺の犯人あるいは黒幕らしいとして語られるが、この映画は独自の説に基づいて展開されている。この独自の説の[材料は](https://ja.wikipedia.org/wiki/:en:Badge_man "wikilink")1980年代に発表されていたものの、この映画により一躍知名度を高めた\[2\]。
 
 ## あらすじ
 
-[ニューオーリンズ](https://ja.wikipedia.org/wiki/ニューオーリンズ "wikilink")の地方検事であるジム・ギャリソンは、昼食中に大統領暗殺の第一報を受けた。しかし、直後に逮捕されるリー・ハーヴェイ・オズワルドという人物に、彼は大多数のアメリカ人とは別のショックを受ける。ニューオーリンズの法曹関係者の間ではオズワルドという男は有名人であったからである。 オズワルドは不思議な過去を持ち、奇行を繰り返し、[キューバ](../Page/キューバ.md "wikilink")人の団体とトラブルを起こしていた人物だった。彼はすぐにこの人物の調査を始めるも、大統領暗殺事件の二日後にさらに事件が起こった。マスコミや大勢の警官がいるさなか、オズワルドが警察署の中で[ジャック・ルビー](https://ja.wikipedia.org/wiki/ジャック・ルビー "wikilink")という男に射殺されたのだ。 それから約3年後、ギャリソンはウォーレン委員会の報告書を何度も読破し、調べれば調べるほど事件の矛盾点や疑問点という名の霧が彼を包む。そしてその霧が一気に雹となって彼の体を叩く。この瞬間、仕事も名誉も 捨て去ることになる、彼と[合衆国との長い戦いが始まったのだった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")の地方検事であるジム・ギャリソンは、昼食中に大統領暗殺の第一報を受けた。しかし、直後に逮捕されるリー・ハーヴェイ・オズワルドという人物に、彼は大多数のアメリカ人とは別のショックを受ける。ニューオーリンズの法曹関係者の間ではオズワルドという男は有名人であったからである。 オズワルドは不思議な過去を持ち、奇行を繰り返し、[キューバ](../Page/キューバ.md "wikilink")人の団体とトラブルを起こしていた人物だった。彼はすぐにこの人物の調査を始めるも、大統領暗殺事件の二日後にさらに事件が起こった。マスコミや大勢の警官がいるさなか、オズワルドが警察署の中で[ジャック・ルビー](../Page/ジャック・ルビー.md "wikilink")という男に射殺されたのだ。 それから約3年後、ギャリソンはウォーレン委員会の報告書を何度も読破し、調べれば調べるほど事件の矛盾点や疑問点という名の霧が彼を包む。そしてその霧が一気に雹となって彼の体を叩く。この瞬間、仕事も名誉も 捨て去ることになる、彼と[合衆国との長い戦いが始まったのだった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
 ## 典拠
 
-原案はジム・ギャリソン（Jim Garrison）の『On the Trail of the Assassins: My Investigation and Prosecution of the Murder of President Kennedy』（邦訳: ジム・ギャリソン『JFK　ケネディ暗殺犯を追え』、岩瀬孝雄訳、[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")NF：[早川書房](https://ja.wikipedia.org/wiki/早川書房 "wikilink") 1992年）及びジム・マース（Jim Marrs）の『Crossfire: The Plot That Killed Kennedy』。ジム・ギャリソンは実在の元検事、ジム・マースはケネディ暗殺事件の研究家（映画は事実に虚構を織り交ぜたフィクションである）。
+原案はジム・ギャリソン（Jim Garrison）の『On the Trail of the Assassins: My Investigation and Prosecution of the Murder of President Kennedy』（邦訳: ジム・ギャリソン『JFK　ケネディ暗殺犯を追え』、岩瀬孝雄訳、[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")NF：[早川書房](../Page/早川書房.md "wikilink") 1992年）及びジム・マース（Jim Marrs）の『Crossfire: The Plot That Killed Kennedy』。ジム・ギャリソンは実在の元検事、ジム・マースはケネディ暗殺事件の研究家（映画は事実に虚構を織り交ぜたフィクションである）。
 
 参考書籍は、オリバー・ストーン、ザカリー・スクラー 『JFK　ケネディ暗殺の真相を追って』（テンプリント 1993年）。映画を巡る論争、注釈付シナリオを収録している。
 
 ## スタッフ
 
-  - 製作総指揮：[アーノン・ミルチャン](https://ja.wikipedia.org/wiki/アーノン・ミルチャン "wikilink")
-  - 製作：A・キットマン・ホー、[オリヴァー・ストーン](https://ja.wikipedia.org/wiki/オリバー・ストーン "wikilink")
-  - 監督：[オリヴァー・ストーン](https://ja.wikipedia.org/wiki/オリバー・ストーン "wikilink")
+  - 製作総指揮：[アーノン・ミルチャン](../Page/アーノン・ミルチャン.md "wikilink")
+  - 製作：A・キットマン・ホー、[オリヴァー・ストーン](../Page/オリバー・ストーン.md "wikilink")
+  - 監督：[オリヴァー・ストーン](../Page/オリバー・ストーン.md "wikilink")
   - 原案：ジム・ギャリソン、ジム・マース
-  - 脚色：[オリヴァー・ストーン](https://ja.wikipedia.org/wiki/オリバー・ストーン "wikilink")、ザカリー・スクラー
+  - 脚色：[オリヴァー・ストーン](../Page/オリバー・ストーン.md "wikilink")、ザカリー・スクラー
   - 撮影：ロバート・リチャードソン
-  - 音楽：[ジョン・ウィリアムズ](https://ja.wikipedia.org/wiki/ジョン・ウィリアムズ_\(作曲家\) "wikilink")
-  - 提供：[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")
+  - 音楽：[ジョン・ウィリアムズ](../Page/ジョン・ウィリアムズ_\(作曲家\).md "wikilink")
+  - 提供：[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")
 
 ## キャスト
 
@@ -45,73 +45,73 @@
 <tbody>
 <tr class="odd">
 <td><p>ソフト版[3]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>版</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジム・ギャリソン" title="wikilink">ジム・ギャリソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・コスナー" title="wikilink">ケビン・コスナー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津嘉山正種" title="wikilink">津嘉山正種</a></p></td>
+<td><p><a href="../Page/ケビン・コスナー.md" title="wikilink">ケビン・コスナー</a></p></td>
+<td><p><a href="../Page/津嘉山正種.md" title="wikilink">津嘉山正種</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トミー・リー・ジョーンズ" title="wikilink">トミー・リー・ジョーンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小川真司" title="wikilink">小川真司</a></p></td>
+<td><p><a href="../Page/トミー・リー・ジョーンズ.md" title="wikilink">トミー・リー・ジョーンズ</a></p></td>
+<td><p><a href="../Page/小川真司.md" title="wikilink">小川真司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ウィリー・オキーフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケヴィン・ベーコン" title="wikilink">ケヴィン・ベーコン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金尾哲夫" title="wikilink">金尾哲夫</a></p></td>
+<td><p><a href="../Page/ケヴィン・ベーコン.md" title="wikilink">ケヴィン・ベーコン</a></p></td>
+<td><p><a href="../Page/金尾哲夫.md" title="wikilink">金尾哲夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>スージー・コックス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ローリー・メトカーフ" title="wikilink">ローリー・メトカーフ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/弘中くみ子" title="wikilink">弘中くみ子</a></p></td>
+<td><p><a href="../Page/弘中くみ子.md" title="wikilink">弘中くみ子</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/リー・ハーヴェイ・オズワルド" title="wikilink">リー・ハーヴェイ・オズワルド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲイリー・オールドマン" title="wikilink">ゲイリー・オールドマン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牛山茂" title="wikilink">牛山茂</a></p></td>
+<td><p><a href="../Page/リー・ハーヴェイ・オズワルド.md" title="wikilink">リー・ハーヴェイ・オズワルド</a></p></td>
+<td><p><a href="../Page/ゲイリー・オールドマン.md" title="wikilink">ゲイリー・オールドマン</a></p></td>
+<td><p><a href="../Page/牛山茂.md" title="wikilink">牛山茂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ビル・ブロザード</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ルーカー" title="wikilink">マイケル・ルーカー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/納谷六朗" title="wikilink">納谷六朗</a></p></td>
+<td><p><a href="../Page/マイケル・ルーカー.md" title="wikilink">マイケル・ルーカー</a></p></td>
+<td><p><a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ルー・アイヴォン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイ・O・サンダース" title="wikilink">ジェイ・O・サンダース</a> [4]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大塚明夫" title="wikilink">大塚明夫</a></p></td>
+<td><p><a href="../Page/大塚明夫.md" title="wikilink">大塚明夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>リズ・ギャリソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シシー・スペイセク" title="wikilink">シシー・スペイセク</a></p></td>
+<td><p><a href="../Page/シシー・スペイセク.md" title="wikilink">シシー・スペイセク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神保共子" title="wikilink">神保共子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジャック・マーティン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャック・レモン" title="wikilink">ジャック・レモン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山野史人" title="wikilink">山野史人</a></p></td>
+<td><p><a href="../Page/ジャック・レモン.md" title="wikilink">ジャック・レモン</a></p></td>
+<td><p><a href="../Page/山野史人.md" title="wikilink">山野史人</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ペシ" title="wikilink">ジョー・ペシ</a></p></td>
+<td><p><a href="../Page/ジョー・ペシ.md" title="wikilink">ジョー・ペシ</a></p></td>
 <td><p><a href="../Page/青野武.md" title="wikilink">青野武</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アル・オーサー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲイリー・グラッブス" title="wikilink">ゲイリー・グラッブス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中正彦" title="wikilink">田中正彦</a></p></td>
+<td><p><a href="../Page/田中正彦.md" title="wikilink">田中正彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ヌーマ・ベルテル</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・ナイト" title="wikilink">ウェイン・ナイト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福田信昭" title="wikilink">福田信昭</a></p></td>
+<td><p><a href="../Page/ウェイン・ナイト.md" title="wikilink">ウェイン・ナイト</a></p></td>
+<td><p><a href="../Page/福田信昭.md" title="wikilink">福田信昭</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ローズ・チェラミー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サリー・カークランド" title="wikilink">サリー・カークランド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/一城みゆ希" title="wikilink">一城みゆ希</a></p></td>
+<td><p><a href="../Page/一城みゆ希.md" title="wikilink">一城みゆ希</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>FBI広報官</p></td>
@@ -121,32 +121,32 @@
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プルイット・テイラー・ヴィンス" title="wikilink">プルイット・テイラー・ヴィンス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/土師孝也" title="wikilink">土師孝也</a></p></td>
+<td><p><a href="../Page/土師孝也.md" title="wikilink">土師孝也</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エドワード・アズナー" title="wikilink">エドワード・アズナー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/筈見純" title="wikilink">筈見純</a></p></td>
+<td><p><a href="../Page/筈見純.md" title="wikilink">筈見純</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャック・ルビー" title="wikilink">ジャック・ルビー</a></p></td>
+<td><p><a href="../Page/ジャック・ルビー.md" title="wikilink">ジャック・ルビー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・ドイル＝マーレイ" title="wikilink">ブライアン・ドイル＝マーレイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/円谷文彦" title="wikilink">円谷文彦</a></p></td>
+<td><p><a href="../Page/円谷文彦.md" title="wikilink">円谷文彦</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ラッセル・ロング" title="wikilink">上院議員ロング</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォルター・マッソー" title="wikilink">ウォルター・マッソー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本譲" title="wikilink">藤本譲</a></p></td>
+<td><p><a href="../Page/ラッセル・ロング.md" title="wikilink">上院議員ロング</a></p></td>
+<td><p><a href="../Page/ウォルター・マッソー.md" title="wikilink">ウォルター・マッソー</a></p></td>
+<td><p><a href="../Page/藤本譲.md" title="wikilink">藤本譲</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・キャンディ" title="wikilink">ジョン・キャンディ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笹岡繁蔵" title="wikilink">笹岡繁蔵</a></p></td>
+<td><p><a href="../Page/ジョン・キャンディ.md" title="wikilink">ジョン・キャンディ</a></p></td>
+<td><p><a href="../Page/笹岡繁蔵.md" title="wikilink">笹岡繁蔵</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ジャスパー・ギャリソン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ショーン・ストーン" title="wikilink">ショーン・ストーン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安達忍" title="wikilink">安達忍</a></p></td>
+<td><p><a href="../Page/安達忍.md" title="wikilink">安達忍</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ヴァージニア・ギャリソン</p></td>
@@ -165,13 +165,13 @@
 </tr>
 <tr class="odd">
 <td><p>ビル・ニューマン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィンセント・ドノフリオ" title="wikilink">ヴィンセント・ドノフリオ</a></p></td>
+<td><p><a href="../Page/ヴィンセント・ドノフリオ.md" title="wikilink">ヴィンセント・ドノフリオ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>X大佐</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドナルド・サザーランド" title="wikilink">ドナルド・サザーランド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内田稔" title="wikilink">内田稔</a></p></td>
+<td><p><a href="../Page/ドナルド・サザーランド.md" title="wikilink">ドナルド・サザーランド</a></p></td>
+<td><p><a href="../Page/内田稔.md" title="wikilink">内田稔</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Y将軍</p></td>
@@ -181,21 +181,21 @@
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベアタ・ポズニアック" title="wikilink">ベアタ・ポズニアック</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安永沙都子" title="wikilink">安永沙都子</a></p></td>
+<td><p><a href="../Page/安永沙都子.md" title="wikilink">安永沙都子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>フランク</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・ティペット" title="wikilink">ウェイン・ティペット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仲野裕" title="wikilink">仲野裕</a></p></td>
+<td><p><a href="../Page/仲野裕.md" title="wikilink">仲野裕</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ベーカー巡査</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビル・ピックル" title="wikilink">ビル・ピックル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荒川太朗" title="wikilink">荒川太朗</a></p></td>
+<td><p><a href="../Page/荒川太朗.md" title="wikilink">荒川太朗</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Mr.ゴールドバーグ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロン・リフキン" title="wikilink">ロン・リフキン</a></p></td>
+<td><p><a href="../Page/ロン・リフキン.md" title="wikilink">ロン・リフキン</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -214,14 +214,14 @@
 <td><p>藤本譲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アール・ウォーレン" title="wikilink">アール・ウォーレン</a>最高裁長官</p></td>
+<td><p><a href="../Page/アール・ウォーレン.md" title="wikilink">アール・ウォーレン</a>最高裁長官</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジム・ギャリソン" title="wikilink">ジム・ギャリソン</a>（カメオ出演）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉水慶" title="wikilink">吉水慶</a></p></td>
 </tr>
 <tr class="even">
 <td><p>エドワード・ハガーティ判事</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・フィネガン" title="wikilink">ジョン・フィネガン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/峰恵研" title="wikilink">峰恵研</a></p></td>
+<td><p><a href="../Page/峰恵研.md" title="wikilink">峰恵研</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>陪審長</p></td>
@@ -231,17 +231,17 @@
 <tr class="even">
 <td><p>ジェリー・ジョンソン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ラロケット" title="wikilink">ジョン・ラロケット</a></p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/手塚秀彰" title="wikilink">手塚秀彰</a>）</p></td>
+<td><p>（<a href="../Page/手塚秀彰.md" title="wikilink">手塚秀彰</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>偽オズワルド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ホエーリー" title="wikilink">フランク・ホエーリー</a></p></td>
+<td><p><a href="../Page/フランク・ホエーリー.md" title="wikilink">フランク・ホエーリー</a></p></td>
 <td><p>土師孝也<br />
-（<a href="https://ja.wikipedia.org/wiki/落合弘治" title="wikilink">落合弘治</a>）</p></td>
+（<a href="../Page/落合弘治.md" title="wikilink">落合弘治</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>冒頭のナレーション</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーティン・シーン" title="wikilink">マーティン・シーン</a></p></td>
+<td><p><a href="../Page/マーティン・シーン.md" title="wikilink">マーティン・シーン</a></p></td>
 <td><p>内田稔</p></td>
 </tr>
 <tr class="odd">
@@ -262,17 +262,17 @@
 
 翻訳：進藤光太（追加シーン分：平田百合子）、演出：福永莞爾、録音・調整：山下裕康（山本隆行）、VTR編集：松村卓朗、音響制作：相原正之、中西真澄、日本語版制作：ワーナー・ホーム・ビデオ、プロセンスタジオ（[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、20世紀フォックス・ホーム・エンターテイメント・ジャパン）
 
-その他の声の出演：[有本欽隆](https://ja.wikipedia.org/wiki/有本欽隆 "wikilink")、[伊井篤史](https://ja.wikipedia.org/wiki/伊井篤史 "wikilink")、[磯辺万沙子](https://ja.wikipedia.org/wiki/磯辺万沙子 "wikilink")、糸博、[伊藤和晃](https://ja.wikipedia.org/wiki/伊藤和晃 "wikilink")、[小室正幸](https://ja.wikipedia.org/wiki/小室正幸 "wikilink")、[定岡小百合](https://ja.wikipedia.org/wiki/定岡小百合 "wikilink")、[佐藤しのぶ](https://ja.wikipedia.org/wiki/佐藤しのぶ_\(声優\) "wikilink")、[鈴木勝美](https://ja.wikipedia.org/wiki/鈴木勝美 "wikilink")、辻親八、[中多和宏](https://ja.wikipedia.org/wiki/中田和宏 "wikilink")、[西宏子](https://ja.wikipedia.org/wiki/西宏子 "wikilink")、[藤生聖子](https://ja.wikipedia.org/wiki/藤生聖子 "wikilink")、[水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink")
+その他の声の出演：[有本欽隆](../Page/有本欽隆.md "wikilink")、[伊井篤史](../Page/伊井篤史.md "wikilink")、[磯辺万沙子](../Page/磯辺万沙子.md "wikilink")、糸博、[伊藤和晃](../Page/伊藤和晃.md "wikilink")、[小室正幸](../Page/小室正幸.md "wikilink")、[定岡小百合](../Page/定岡小百合.md "wikilink")、[佐藤しのぶ](../Page/佐藤しのぶ_\(声優\).md "wikilink")、[鈴木勝美](../Page/鈴木勝美.md "wikilink")、辻親八、[中多和宏](../Page/中田和宏.md "wikilink")、[西宏子](../Page/西宏子.md "wikilink")、[藤生聖子](../Page/藤生聖子.md "wikilink")、[水野龍司](../Page/水野龍司.md "wikilink")
 
-追加録音分その他キャスト：[根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")、[茜部真弓](https://ja.wikipedia.org/wiki/茜部真弓 "wikilink")、[坂井恭子](https://ja.wikipedia.org/wiki/坂井恭子 "wikilink")、[町田政則](https://ja.wikipedia.org/wiki/町田政則 "wikilink")、[岡田栄美](https://ja.wikipedia.org/wiki/岡田栄美 "wikilink")、[西村太佑](https://ja.wikipedia.org/wiki/西村太佑 "wikilink")、[こねり翔](https://ja.wikipedia.org/wiki/こねり翔 "wikilink")
+追加録音分その他キャスト：[根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")、[茜部真弓](https://ja.wikipedia.org/wiki/茜部真弓 "wikilink")、[坂井恭子](https://ja.wikipedia.org/wiki/坂井恭子 "wikilink")、[町田政則](../Page/町田政則.md "wikilink")、[岡田栄美](https://ja.wikipedia.org/wiki/岡田栄美 "wikilink")、[西村太佑](https://ja.wikipedia.org/wiki/西村太佑 "wikilink")、[こねり翔](https://ja.wikipedia.org/wiki/こねり翔 "wikilink")
 
 ### テレビ朝日版
 
-初回放送1994年10月9日（日）21:02-23:54「[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")」
+初回放送1994年10月9日（日）21:02-23:54「[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")」
 
 翻訳：たかしまちせこ、演出：福永莞爾、調整：荒井孝、制作：東北新社、プロデューサー：圓井一夫
 
-その他の声の出演：有本欽隆、[岩田安生](https://ja.wikipedia.org/wiki/岩田安生 "wikilink")、[池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")、伊井篤史、[叶木翔子](https://ja.wikipedia.org/wiki/叶木翔子 "wikilink")、[瀬畑奈津子](https://ja.wikipedia.org/wiki/瀬畑奈津子 "wikilink")、[火野カチコ](https://ja.wikipedia.org/wiki/火野カチ子 "wikilink")、[宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")、[堀越真己](https://ja.wikipedia.org/wiki/堀越真己 "wikilink")、[宮田光](https://ja.wikipedia.org/wiki/宮田光 "wikilink")、[幹本雄之](https://ja.wikipedia.org/wiki/幹本雄之 "wikilink")
+その他の声の出演：有本欽隆、[岩田安生](../Page/岩田安生.md "wikilink")、[池水通洋](../Page/池水通洋.md "wikilink")、伊井篤史、[叶木翔子](../Page/叶木翔子.md "wikilink")、[瀬畑奈津子](https://ja.wikipedia.org/wiki/瀬畑奈津子 "wikilink")、[火野カチコ](https://ja.wikipedia.org/wiki/火野カチ子 "wikilink")、[宝亀克寿](../Page/宝亀克寿.md "wikilink")、[堀越真己](../Page/堀越真己.md "wikilink")、[宮田光](../Page/宮田光.md "wikilink")、[幹本雄之](../Page/幹本雄之.md "wikilink")
 
 ## 受賞歴
 
@@ -282,7 +282,7 @@
 
 ## モデル
 
-ドナルド・サザーランド演ずる「X大佐」のモデルは[フレッチャー・プラウティ](https://ja.wikipedia.org/wiki/フレッチャー・プラウティ "wikilink")であるとされている。プラウティの著書『JFK: The Cia, Vietnam, and the Plot to Assassinate John F. Kennedy』（Citadel; Upd Sub edition, 2003）にはオリバー・ストーンが序文を寄せている。
+ドナルド・サザーランド演ずる「X大佐」のモデルは[フレッチャー・プラウティ](../Page/フレッチャー・プラウティ.md "wikilink")であるとされている。プラウティの著書『JFK: The Cia, Vietnam, and the Plot to Assassinate John F. Kennedy』（Citadel; Upd Sub edition, 2003）にはオリバー・ストーンが序文を寄せている。
 
 ## 反証
 

@@ -1,31 +1,31 @@
 > この記事は[Every Little Thing](https://ja.wikipedia.org/wiki/Every_Little_Thing)から翻訳されています。
 
 
-**Every Little Thing**（エヴリ・リトル・シング、略称：**ELT**）は、日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[1996年](../Page/1996年.md "wikilink")8月7日にデビュー。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。
+**Every Little Thing**（エヴリ・リトル・シング、略称：**ELT**）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")8月7日にデビュー。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。
 
-表記の仕方に関しては作品によって異なる事もあり、**EVERY LITTLE THING**（[Graceful Worldなど](https://ja.wikipedia.org/wiki/Graceful_World "wikilink")）、**every little thing**（[恋文/good nightなど](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")）、**エヴリ リトル シング**（[また あしたなど](https://ja.wikipedia.org/wiki/また_あした "wikilink")）とする場合もある。
+表記の仕方に関しては作品によって異なる事もあり、**EVERY LITTLE THING**（[Graceful Worldなど](../Page/Graceful_World.md "wikilink")）、**every little thing**（[恋文/good nightなど](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")）、**エヴリ リトル シング**（[また あしたなど](../Page/また_あした.md "wikilink")）とする場合もある。
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")・作詞・作曲・編曲担当の[五十嵐充](https://ja.wikipedia.org/wiki/五十嵐充 "wikilink")の3人で、1stシングル「[Feel My Heart](https://ja.wikipedia.org/wiki/Feel_My_Heart "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")）からCDデビューした。同シングルは[オリコンで最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")24位を記録し、約10万枚を売り上げた。
+[1996年](../Page/1996年.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](../Page/伊藤一朗.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作詞・作曲・編曲担当の[五十嵐充](../Page/五十嵐充.md "wikilink")の3人で、1stシングル「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](../Page/エイベックス・エンタテインメント.md "wikilink")）からCDデビューした。同シングルは[オリコンで最高位](../Page/オリコンチャート.md "wikilink")24位を記録し、約10万枚を売り上げた。
 
-1997年に3rdシングル「[Dear My Friend](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(Every_Little_Thingの曲\) "wikilink")」で初のトップ10入りをしてブレイクを果たす。1998年には8thシングル「[Time goes by](https://ja.wikipedia.org/wiki/Time_goes_by "wikilink")」がシングルで初めてミリオンヒットし、2ndアルバム『[Time to Destination](https://ja.wikipedia.org/wiki/Time_to_Destination "wikilink")』が350万枚を超える大ヒットを記録した\[1\]。 五十嵐の楽曲の世界観、[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
+1997年に3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入りをしてブレイクを果たす。1998年には8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が350万枚を超える大ヒットを記録した\[1\]。 五十嵐の楽曲の世界観、[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
 
-デビュー以来ハイペースでシングルリリースを続けてきたが、1999年はプロデュースのための十分な時間を確保したいという五十嵐の思いで、3月の11thシングル「[Over and Over](https://ja.wikipedia.org/wiki/Over_and_Over "wikilink")」、12thシングル「[Someday, Someplace](https://ja.wikipedia.org/wiki/Someday,_Someplace "wikilink")」とベストアルバム『[Every Best Single +3](https://ja.wikipedia.org/wiki/Every_Best_Single_+3 "wikilink")』のリリース後はリリースやツアーのない期間を過ごした。
+デビュー以来ハイペースでシングルリリースを続けてきたが、1999年はプロデュースのための十分な時間を確保したいという五十嵐の思いで、3月の11thシングル「[Over and Over](../Page/Over_and_Over.md "wikilink")」、12thシングル「[Someday, Someplace](../Page/Someday,_Someplace.md "wikilink")」とベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』のリリース後はリリースやツアーのない期間を過ごした。
 
 2000年、13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」、14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」と3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』のリリース後、3月をもって五十嵐がプロデュース活動に専念するために脱退し、メンバーは持田と伊藤の2人になった。「五十嵐はフロントメンバーから脱退し、サウンドプロデューサーになる」と発表されたことから、テレビやライブ出演はせずに楽曲提供を続けるものと思われたが、3rdアルバム『eternity』からシングルカットされた15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」で携わっただけで、以降はELTの楽曲に直接的に五十嵐が長らく関与することは無かったが、五十嵐の脱退から約9年後の2009年[9月23日](../Page/9月23日.md "wikilink")発売の36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」、同年[11月18日](../Page/11月18日.md "wikilink")発売の37thシングル「[冷たい雨](https://ja.wikipedia.org/wiki/冷たい雨_\(Every_Little_Thingの曲\) "wikilink")」、2010年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")発売の38thシングル「[Change](https://ja.wikipedia.org/wiki/Change_\(Every_Little_Thingの曲\) "wikilink")」の3枚のシングルで、五十嵐がサウンドプロデューサーとして作曲・編曲を担当した。また、2010年[3月24日](../Page/3月24日.md "wikilink")発売の10thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』でも、上記の3枚のシングル以外の収録曲で作詞、作曲、編曲を担当した。
 
 代表曲のひとつである「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」は2001年オリコン年間カラオケチャートで1位を獲得。その後も3年連続年間TOP10入りを果たした。
 
-音楽番組のみならずバラエティー番組の出演も多く、幅広い世代に親しまれており、[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")には過去8回連続出場している（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")）。
+音楽番組のみならずバラエティー番組の出演も多く、幅広い世代に親しまれており、[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")には過去8回連続出場している（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2004年](../Page/2004年.md "wikilink")）。
 
 2016年8月7日にデビュー20周年を迎え、同日には代々木第二体育館で記念コンサートを行った。それ以降、ユニットとしては目立った活動(半年に数回の新譜リリース配信のみ)はなく、それぞれソロ活動として拠点を置いている。
 
 ## 楽曲制作
 
-デビューから[2000年](../Page/2000年.md "wikilink")の13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」まではインストなどの例外を除き、作詞、作曲、編曲のほぼ全てを五十嵐が行っていたが、[2000年](../Page/2000年.md "wikilink")の14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」以降からは持田や伊藤も楽曲製作に加わるようになった。五十嵐脱退後は、楽曲の作詞は原則持田が行っているが、他のアーティストから作詞提供を受ける事もある。作曲は[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink")・[多胡邦夫](https://ja.wikipedia.org/wiki/多胡邦夫 "wikilink")・[HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink")などの作曲家からの楽曲提供が主だが、持田、伊藤が作曲を手がける場合もある。Every Little Thing名義で編曲にも携わることも多い。
+デビューから[2000年](../Page/2000年.md "wikilink")の13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」まではインストなどの例外を除き、作詞、作曲、編曲のほぼ全てを五十嵐が行っていたが、[2000年](../Page/2000年.md "wikilink")の14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」以降からは持田や伊藤も楽曲製作に加わるようになった。五十嵐脱退後は、楽曲の作詞は原則持田が行っているが、他のアーティストから作詞提供を受ける事もある。作曲は[菊池一仁](../Page/菊池一仁.md "wikilink")・[多胡邦夫](../Page/多胡邦夫.md "wikilink")・[HIKARI](../Page/HIKARI.md "wikilink")などの作曲家からの楽曲提供が主だが、持田、伊藤が作曲を手がける場合もある。Every Little Thing名義で編曲にも携わることも多い。
 
-サウンド面も五十嵐の脱退を境に変わっており、デビューから[2000年](../Page/2000年.md "wikilink")3月までの五十嵐が在籍していた頃は、[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[プログラミング](../Page/プログラミング.md "wikilink")の楽曲が多く制作され、五十嵐脱退後も2000年10月の16thシングル「[愛のカケラ](https://ja.wikipedia.org/wiki/愛のカケラ_\(Every_Little_Thingの曲\) "wikilink")」から、翌[2001年](../Page/2001年.md "wikilink")3月の4thアルバム『[4 FORCE](https://ja.wikipedia.org/wiki/4_FORCE "wikilink")』までは五十嵐在籍時の曲風を踏襲した楽曲が作られていたが、2001年10月の19thシングル「[jump](https://ja.wikipedia.org/wiki/jump_\(Every_Little_Thingの曲\) "wikilink")」以降からはバンドサウンド志向、[2003年](../Page/2003年.md "wikilink")の25thシングル「[また あした](https://ja.wikipedia.org/wiki/また_あした "wikilink")」以降からはアコースティック志向の楽曲を発表する事が多く\[2\]、楽器の生演奏を多用するようになった。また、五十嵐在籍時に製作された楽曲をアコースティックにアレンジしたものも、何曲か発表するようにもなった。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")頃からは生音を主体にしつつ、ギター以外の伴奏をメインにする楽曲（33rdシングル「[恋をしている](https://ja.wikipedia.org/wiki/恋をしている/冬がはじまるよ_feat.槇原敬之 "wikilink")」など）も作られている。
+サウンド面も五十嵐の脱退を境に変わっており、デビューから[2000年](../Page/2000年.md "wikilink")3月までの五十嵐が在籍していた頃は、[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[プログラミング](../Page/プログラミング.md "wikilink")の楽曲が多く制作され、五十嵐脱退後も2000年10月の16thシングル「[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")」から、翌[2001年](../Page/2001年.md "wikilink")3月の4thアルバム『[4 FORCE](../Page/4_FORCE.md "wikilink")』までは五十嵐在籍時の曲風を踏襲した楽曲が作られていたが、2001年10月の19thシングル「[jump](https://ja.wikipedia.org/wiki/jump_\(Every_Little_Thingの曲\) "wikilink")」以降からはバンドサウンド志向、[2003年](../Page/2003年.md "wikilink")の25thシングル「[また あした](../Page/また_あした.md "wikilink")」以降からはアコースティック志向の楽曲を発表する事が多く\[2\]、楽器の生演奏を多用するようになった。また、五十嵐在籍時に製作された楽曲をアコースティックにアレンジしたものも、何曲か発表するようにもなった。[2007年](../Page/2007年.md "wikilink")頃からは生音を主体にしつつ、ギター以外の伴奏をメインにする楽曲（33rdシングル「[恋をしている](https://ja.wikipedia.org/wiki/恋をしている/冬がはじまるよ_feat.槇原敬之 "wikilink")」など）も作られている。
 
 [2009年](../Page/2009年.md "wikilink")の36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の10thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』にかけて再び五十嵐と楽曲製作を行ってからは、それまでのアコースティック、バンドサウンド志向の楽曲に加え、シンセサイザーやプログラミングを主体にした楽曲も再び作られるようになる。[2014年](../Page/2014年.md "wikilink")頃からは前述の作曲家に加えて海外のアーティストからの楽曲提供もされるようになった。この他、[カントリー調](https://ja.wikipedia.org/wiki/カントリー・ミュージック "wikilink")\[3\]、[ブラック・コンテンポラリー](https://ja.wikipedia.org/wiki/ブラック・コンテンポラリー "wikilink")調、[ディスコ調](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")調といった楽曲も作られている\[4\]\[5\]。
 
@@ -34,14 +34,14 @@
 ### 現メンバー
 
   - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")（もちだ かおり）
-    [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")生まれ。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。愛称はもっちー。幼い頃から芸能活動をしていた。イラストが得意。
-  - [伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")（いとう いちろう）
+    [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。愛称はもっちー。幼い頃から芸能活動をしていた。イラストが得意。
+  - [伊藤一朗](../Page/伊藤一朗.md "wikilink")（いとう いちろう）
     [1967年](../Page/1967年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")出身。リーダー、[ギター](../Page/ギター.md "wikilink")、作曲、編曲担当。血液型はA型。愛称はいっくん。
 
 ### 元メンバー
 
-  - [五十嵐充](https://ja.wikipedia.org/wiki/五十嵐充 "wikilink")（いがらし みつる）
-    [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")生まれ。神奈川県[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")出身。リーダー、サウンドプロデューサー、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://ja.wikipedia.org/wiki/作曲 "wikilink")・[編曲](../Page/編曲.md "wikilink")を担当。
+  - [五十嵐充](../Page/五十嵐充.md "wikilink")（いがらし みつる）
+    [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")生まれ。神奈川県[横浜市](../Page/横浜市.md "wikilink")出身。リーダー、サウンドプロデューサー、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")を担当。
     血液型はA型。愛称はイガちゃん。2000年3月リリースの3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』の発表後に脱退。脱退後は15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」のサウンドプロデュースをしていたのみで、その後はELTの楽曲制作に一切関わっていなかったが、2009年9月リリースの36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」で9年振りにサウンドプロデュースを行い、また2010年発売の9thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』の制作に10年振りに参加した。また、2009年夏のa-nationと、2010年3月27、28日のMEETツアーにゲストミュージシャン（キーボード）としてサプライズ参加。
     2002年 - 2005年までバンド[day after tomorrowのサウンドプロデューサーを務め](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")、その後は男性4人組バンド[RUSHMORE](https://ja.wikipedia.org/wiki/RUSHMORE "wikilink")（活動休止）のリーダー兼サウンドプロデューサーを務める。
     2012年 - 2013年まで[girl next doorのサウンドプロデューサーを務める](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")。
@@ -51,7 +51,7 @@
   - ドラムス - 髭白健（2015年春-）
   - キーボード - 田中誠 (2015年夏-)
   - キーボード　- [ハタヤテツヤ](https://ja.wikipedia.org/wiki/ハタヤテツヤ "wikilink") (2019年夏-)
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") - 笠原直樹（2005年夏 - ）
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink") - 笠原直樹（2005年夏 - ）
   - コーラス - 山口めぐみ（2015年冬 - ）
 
 ### 元サポートメンバー
@@ -89,7 +89,7 @@
 
 :\* 中村康就（2004年夏頃 - 2011年初め頃まで）＊
 
-:\* [十川ともじ](https://ja.wikipedia.org/wiki/十川ともじ "wikilink")（2011年夏 - 2014年夏頃まで）＊
+:\* [十川ともじ](../Page/十川ともじ.md "wikilink")（2011年夏 - 2014年夏頃まで）＊
 
 :\* 岩崎太整（Tabitabiツアー -20周年記念ライブ）※ギターも担当。\*
 
@@ -125,7 +125,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/8月7日.md" title="wikilink">8月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Feel_My_Heart" title="wikilink">Feel My Heart</a></p></td>
+<td><p><a href="../Page/Feel_My_Heart.md" title="wikilink">Feel My Heart</a></p></td>
 <td><p>AVDD-20144</p></td>
 <td><p>CD-DA</p></td>
 <td><p>24位</p></td>
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1996年<a href="../Page/10月23日.md" title="wikilink">10月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Future_World" title="wikilink">Future World</a></p></td>
+<td><p><a href="../Page/Future_World.md" title="wikilink">Future World</a></p></td>
 <td><p>AVDD-20157</p></td>
 <td><p>CD-DA</p></td>
 <td><p>20位</p></td>
@@ -143,7 +143,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dear_My_Friend_(Every_Little_Thingの曲)" title="wikilink">Dear My Friend</a></p></td>
+<td><p><a href="../Page/Dear_My_Friend_(Every_Little_Thingの曲).md" title="wikilink">Dear My Friend</a></p></td>
 <td><p>AVDD-20168</p></td>
 <td><p>CD-DA</p></td>
 <td><p>9位</p></td>
@@ -152,16 +152,16 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>1997年<a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/For_the_moment" title="wikilink">For the moment</a></p></td>
+<td><p><a href="../Page/For_the_moment.md" title="wikilink">For the moment</a></p></td>
 <td><p>AVDD-20182</p></td>
 <td><p>CD-DA</p></td>
 <td><p>1位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Time_to_Destination" title="wikilink">Time to Destination</a></strong></p></td>
+<td><p><strong><a href="../Page/Time_to_Destination.md" title="wikilink">Time to Destination</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1997年<a href="../Page/8月6日.md" title="wikilink">8月6日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/出逢った頃のように" title="wikilink">出逢った頃のように</a></p></td>
+<td><p><a href="../Page/出逢った頃のように.md" title="wikilink">出逢った頃のように</a></p></td>
 <td><p>AVDD-20198</p></td>
 <td><p>CD-DA</p></td>
 <td><p>3位</p></td>
@@ -175,21 +175,21 @@
 <td><p>CD-DA</p></td>
 <td><p>3位</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/everlasting_(Every_Little_Thingのアルバム)" title="wikilink">everlasting</a></strong><br />
-<strong><a href="https://ja.wikipedia.org/wiki/Time_to_Destination" title="wikilink">Time to Destination</a></strong></p></td>
+<strong><a href="../Page/Time_to_Destination.md" title="wikilink">Time to Destination</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/1月7日.md" title="wikilink">1月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Face_the_change" title="wikilink">Face the change</a></p></td>
+<td><p><a href="../Page/Face_the_change.md" title="wikilink">Face the change</a></p></td>
 <td><p>AVDD-20223</p></td>
 <td><p>CD-DA</p></td>
 <td><p>1位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Time_to_Destination" title="wikilink">Time to Destination</a></strong></p></td>
+<td><p><strong><a href="../Page/Time_to_Destination.md" title="wikilink">Time to Destination</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>1998年<a href="../Page/2月11日.md" title="wikilink">2月11日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Time_goes_by" title="wikilink">Time goes by</a></p></td>
+<td><p><a href="../Page/Time_goes_by.md" title="wikilink">Time goes by</a></p></td>
 <td><p>AVDD-20218</p></td>
 <td><p>CD-DA</p></td>
 <td><p>2位</p></td>
@@ -198,16 +198,16 @@
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>1998年<a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FOREVER_YOURS" title="wikilink">FOREVER YOURS</a></p></td>
+<td><p><a href="../Page/FOREVER_YOURS.md" title="wikilink">FOREVER YOURS</a></p></td>
 <td><p>AVDD-20244</p></td>
 <td><p>CD-DA</p></td>
 <td><p>1位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Every_Best_Single_+3" title="wikilink">Every Best Single +3</a></strong></p></td>
+<td><p><strong><a href="../Page/Every_Best_Single_+3.md" title="wikilink">Every Best Single +3</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>1998年<a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NECESSARY" title="wikilink">NECESSARY</a></p></td>
+<td><p><a href="../Page/NECESSARY.md" title="wikilink">NECESSARY</a></p></td>
 <td><p>AVDD-20260</p></td>
 <td><p>CD-DA</p></td>
 <td><p>2位</p></td>
@@ -216,7 +216,7 @@
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/1月27日.md" title="wikilink">1月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Over_and_Over" title="wikilink">Over and Over</a></p></td>
+<td><p><a href="../Page/Over_and_Over.md" title="wikilink">Over and Over</a></p></td>
 <td><p>AVDD-20284</p></td>
 <td><p>CD-DA</p></td>
 <td><p>4位</p></td>
@@ -225,7 +225,7 @@
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>1999年<a href="../Page/3月3日.md" title="wikilink">3月3日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Someday,_Someplace" title="wikilink">Someday, Someplace</a></p></td>
+<td><p><a href="../Page/Someday,_Someplace.md" title="wikilink">Someday, Someplace</a></p></td>
 <td><p>AVDD-20293</p></td>
 <td><p>CD-DA</p></td>
 <td><p>4位</p></td>
@@ -233,7 +233,7 @@
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
-<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove" title="wikilink">Pray/Get Into A Groove</a></p></td>
 <td><p>AVCD-30078</p></td>
 <td><p>CD-DA</p></td>
@@ -260,16 +260,16 @@
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
-<td><p>2000年<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛のカケラ_(Every_Little_Thingの曲)" title="wikilink">愛のカケラ</a></p></td>
+<td><p>2000年<a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
+<td><p><a href="../Page/愛のカケラ_(Every_Little_Thingの曲).md" title="wikilink">愛のカケラ</a></p></td>
 <td><p>AVCD-30145</p></td>
 <td><p>CD-DA</p></td>
 <td><p>2位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/4_FORCE" title="wikilink">4 FORCE</a></strong></p></td>
+<td><p><strong><a href="../Page/4_FORCE.md" title="wikilink">4 FORCE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>17th</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/fragile/JIRENMA" title="wikilink">fragile/JIRENMA</a></p></td>
 <td><p>AVCD-30165</p></td>
 <td><p>CD-DA</p></td>
@@ -279,7 +279,7 @@
 <tr class="even">
 <td><p>18th</p></td>
 <td><p>2001年<a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Graceful_World" title="wikilink">Graceful World</a></p></td>
+<td><p><a href="../Page/Graceful_World.md" title="wikilink">Graceful World</a></p></td>
 <td><p>AVCD-30189</p></td>
 <td><p>CD-DA</p></td>
 <td><p>5位</p></td>
@@ -292,12 +292,12 @@
 <td><p>AVCD-30223</p></td>
 <td><p>CD-DA</p></td>
 <td><p>7位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Many_Pieces" title="wikilink">Many Pieces</a></strong></p></td>
+<td><p><strong><a href="../Page/Many_Pieces.md" title="wikilink">Many Pieces</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キヲク" title="wikilink">キヲク</a></p></td>
+<td><p><a href="../Page/キヲク.md" title="wikilink">キヲク</a></p></td>
 <td><p>AVCD-30349</p></td>
 <td><p>CCCD</p></td>
 <td><p>4位</p></td>
@@ -306,7 +306,7 @@
 <tr class="odd">
 <td><p>21st</p></td>
 <td><p>2002年<a href="../Page/8月16日.md" title="wikilink">8月16日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ささやかな祈り" title="wikilink">ささやかな祈り</a></p></td>
+<td><p><a href="../Page/ささやかな祈り.md" title="wikilink">ささやかな祈り</a></p></td>
 <td><p>AVCD-30375</p></td>
 <td><p>CCCD</p></td>
 <td><p>5位</p></td>
@@ -315,7 +315,7 @@
 <tr class="even">
 <td><p>22nd</p></td>
 <td><p>2002年<a href="../Page/12月18日.md" title="wikilink">12月18日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UNTITLED_4_ballads" title="wikilink">UNTITLED 4 ballads</a></p></td>
+<td><p><a href="../Page/UNTITLED_4_ballads.md" title="wikilink">UNTITLED 4 ballads</a></p></td>
 <td><p>AVCD-30429</p></td>
 <td><p>CCCD</p></td>
 <td><p>1位</p></td>
@@ -324,7 +324,7 @@
 <tr class="odd">
 <td><p>23rd</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Grip!" title="wikilink">Grip!</a></p></td>
+<td><p><a href="../Page/Grip!.md" title="wikilink">Grip!</a></p></td>
 <td><p>AVCD-30420</p></td>
 <td><p>CD-DA (CD-EXTRA)</p></td>
 <td><p>7位</p></td>
@@ -333,17 +333,17 @@
 <tr class="even">
 <td><p>24th</p></td>
 <td><p>2003年<a href="../Page/7月30日.md" title="wikilink">7月30日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファンダメンタル・ラブ" title="wikilink">ファンダメンタル・ラブ</a></p></td>
+<td><p><a href="../Page/ファンダメンタル・ラブ.md" title="wikilink">ファンダメンタル・ラブ</a></p></td>
 <td><p>AVCD-30501</p></td>
 <td><p>CCCD</p></td>
 <td><p>9位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Every_Best_Single_2" title="wikilink">Every Best Single 2</a></strong><br />
+<td><p><strong><a href="../Page/Every_Best_Single_2.md" title="wikilink">Every Best Single 2</a></strong><br />
 <strong><a href="https://ja.wikipedia.org/wiki/commonplace" title="wikilink">commonplace</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2003年<a href="../Page/11月12日.md" title="wikilink">11月12日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/また_あした" title="wikilink">また あした</a></p></td>
+<td><p><a href="../Page/また_あした.md" title="wikilink">また あした</a></p></td>
 <td><p>AVCD-30505</p></td>
 <td><p>CCCD</p></td>
 <td><p>3位</p></td>
@@ -351,8 +351,8 @@
 </tr>
 <tr class="even">
 <td><p>26th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソラアイ" title="wikilink">ソラアイ</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
+<td><p><a href="../Page/ソラアイ.md" title="wikilink">ソラアイ</a></p></td>
 <td><p>AVCD-30541</p></td>
 <td><p>CCCD</p></td>
 <td><p>8位</p></td>
@@ -365,12 +365,12 @@
 <td><p>AVCD-30631</p></td>
 <td><p>CD-DA/CCCD</p></td>
 <td><p>1位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Crispy_Park" title="wikilink">Crispy Park</a></strong></p></td>
+<td><p><strong><a href="../Page/Crispy_Park.md" title="wikilink">Crispy Park</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>28th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/きみの_て" title="wikilink">きみの て</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a></p></td>
+<td><p><a href="../Page/きみの_て.md" title="wikilink">きみの て</a></p></td>
 <td><p>AVCD-30850</p></td>
 <td><p>CD-DA/CCCD</p></td>
 <td><p>2位</p></td>
@@ -378,7 +378,7 @@
 </tr>
 <tr class="odd">
 <td><p>29th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/azure_moon" title="wikilink">azure moon</a></p></td>
 <td><p>AVCD-30905</p></td>
 <td><p>CD-DA/CCCD</p></td>
@@ -388,7 +388,7 @@
 <tr class="even">
 <td><p>30th</p></td>
 <td><p>2006年<a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイファイ_メッセージ" title="wikilink">ハイファイ メッセージ</a></p></td>
+<td><p><a href="../Page/ハイファイ_メッセージ.md" title="wikilink">ハイファイ メッセージ</a></p></td>
 <td><p>AVCD-30940</p></td>
 <td><p>CD-DA/CCCD</p></td>
 <td><p>9位</p></td>
@@ -397,7 +397,7 @@
 <tr class="odd">
 <td><p>31st</p></td>
 <td><p>2006年<a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スイミー_(曲)" title="wikilink">スイミー</a></p></td>
+<td><p><a href="../Page/スイミー_(曲).md" title="wikilink">スイミー</a></p></td>
 <td><p>AVCD-31122</p></td>
 <td><p>CD-DA</p></td>
 <td><p>16位</p></td>
@@ -405,16 +405,16 @@
 </tr>
 <tr class="even">
 <td><p>32nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キラメキアワー" title="wikilink">キラメキアワー</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
+<td><p><a href="../Page/キラメキアワー.md" title="wikilink">キラメキアワー</a></p></td>
 <td><p>AVCD-31251</p></td>
 <td><p>CD-DA</p></td>
 <td><p>14位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Door_(Every_Little_Thingのアルバム)" title="wikilink">Door</a></strong></p></td>
+<td><p><strong><a href="../Page/Door_(Every_Little_Thingのアルバム).md" title="wikilink">Door</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>33rd</p></td>
-<td><p>2007年<a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a></p></td>
+<td><p>2007年<a href="../Page/10月31日.md" title="wikilink">10月31日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/恋をしている/冬がはじまるよ_feat.槇原敬之" title="wikilink">恋をしている/冬がはじまるよ feat.槇原敬之</a></p></td>
 <td><p>AVCD-31350</p></td>
 <td><p>CD-DA</p></td>
@@ -424,7 +424,7 @@
 <tr class="even">
 <td><p>34th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月13日.md" title="wikilink">2月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラビト" title="wikilink">サクラビト</a></p></td>
+<td><p><a href="../Page/サクラビト.md" title="wikilink">サクラビト</a></p></td>
 <td><p>AVCD-31356<br />
 AVCD-31357</p></td>
 <td><p>CD-DA</p></td>
@@ -577,7 +577,7 @@ AVCD-83390</p></td>
   - Over and Over / ELT Songs from L.A.（1999年10月20日発売）
   - every little thing commonplace tour 2004〜2005 パンフレット特典CD
       -
-        「stray cat」、「water(s)」、「鮮やかなもの」のアコースティックバージョンが収録されている。コンサート会場限定特典のため、ネット通販分には付いていない。なお、このうち、「water(s)」、「鮮やかなもの」は2005年発売のアコースティックアルバム『[ACOUSTIC:LATTE](https://ja.wikipedia.org/wiki/ACOUSTIC:LATTE "wikilink")』に収録された。
+        「stray cat」、「water(s)」、「鮮やかなもの」のアコースティックバージョンが収録されている。コンサート会場限定特典のため、ネット通販分には付いていない。なお、このうち、「water(s)」、「鮮やかなもの」は2005年発売のアコースティックアルバム『[ACOUSTIC:LATTE](../Page/ACOUSTIC:LATTE.md "wikilink")』に収録された。
 
 ### シングルBOX
 
@@ -593,24 +593,24 @@ AVCD-83390</p></td>
 
   - キラメキアワー (AKAKAGE in the water)
       -
-        [ミュゥモ](https://ja.wikipedia.org/wiki/ミュゥモ "wikilink")限定配信。
+        [ミュゥモ](../Page/ミュゥモ.md "wikilink")限定配信。
   - 恋をしている (Acoustic Version)
       -
         ミュゥモ限定配信。1コーラスのみの配信。
   - あたらしい日々 (Acoustic Version)（2008年7月21日配信）
       -
         MUSICO独占配信。1コーラスのみの配信。
-  - [チェルシーの唄](https://ja.wikipedia.org/wiki/チェルシーの唄 "wikilink")
+  - [チェルシーの唄](../Page/チェルシーの唄.md "wikilink")
       -
-        [明治製菓](https://ja.wikipedia.org/wiki/明治製菓 "wikilink")「チェルシー」とのコラボレーション企画・チェルシー39周年 CHELSEA×ELT 39❤Thank youプロジェクトの景品。39000名限定[着うた](https://ja.wikipedia.org/wiki/着うた "wikilink")。
+        [明治製菓](../Page/明治製菓.md "wikilink")「チェルシー」とのコラボレーション企画・チェルシー39周年 CHELSEA×ELT 39❤Thank youプロジェクトの景品。39000名限定[着うた](../Page/着うた.md "wikilink")。
   - [アクアマリンのままでいて](https://ja.wikipedia.org/wiki/アクアマリンのままでいて "wikilink")（2013年8月24日配信）
       -
-        [カルロス・トシキ](https://ja.wikipedia.org/wiki/カルロス・トシキ "wikilink")＆[オメガトライブ](https://ja.wikipedia.org/wiki/オメガトライブ "wikilink")の[カバー](../Page/カバー.md "wikilink")。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系スペシャルドラマ「[抱きしめたい\! Forever](https://ja.wikipedia.org/wiki/抱きしめたい! "wikilink")」の主題歌。
+        [カルロス・トシキ](../Page/カルロス・トシキ.md "wikilink")＆[オメガトライブ](../Page/オメガトライブ.md "wikilink")の[カバー](../Page/カバー.md "wikilink")。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系スペシャルドラマ「[抱きしめたい\! Forever](../Page/抱きしめたい!.md "wikilink")」の主題歌。
         11thオリジナルアルバム『[FUN-FARE](https://ja.wikipedia.org/wiki/FUN-FARE "wikilink")』でCD音源化。
   - [RUN FOR](https://ja.wikipedia.org/wiki/RUN_FOR "wikilink")（2014年9月24日配信）
       -
         持田香織本人も参加する事が発表されている「JALホノルルマラソン2014」オフィシャルテーマソング。
-        [e-onkyo music](https://ja.wikipedia.org/wiki/オンキヨー "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")では自身初となる48kHz/24bitの[ハイレゾ音源](https://ja.wikipedia.org/wiki/ハイレゾ音源 "wikilink")で配信もされている。
+        [e-onkyo music](../Page/オンキヨー.md "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")では自身初となる48kHz/24bitの[ハイレゾ音源](https://ja.wikipedia.org/wiki/ハイレゾ音源 "wikilink")で配信もされている。
         企画アルバム『[Every Cheering Songs](https://ja.wikipedia.org/wiki/Every_Cheering_Songs "wikilink")』でCD音源化。
   - [ELT Hi-res ballad selection](https://ja.wikipedia.org/wiki/ELT_Hi-res_ballad_selection "wikilink")（2015年09月23日配信）
       -
@@ -625,7 +625,7 @@ AVCD-83390</p></td>
         メナード「フェアルーセント」2017 CMソング。
   - [浴びて\! 光](https://ja.wikipedia.org/wiki/浴びて!_光 "wikilink")（2018年5月23日配信）
       -
-        作詞：[Kasekicider.](https://ja.wikipedia.org/wiki/かせきさいだぁ "wikilink") / 作曲：[Kota Hashimoto](https://ja.wikipedia.org/wiki/橋本幸太 "wikilink")
+        作詞：[Kasekicider.](../Page/かせきさいだぁ.md "wikilink") / 作曲：[Kota Hashimoto](https://ja.wikipedia.org/wiki/橋本幸太 "wikilink")
         メナード「フェアルーセント」2018 CMソング。
 
 ### アルバム
@@ -653,34 +653,34 @@ AVCD-83390</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Time_to_Destination" title="wikilink">Time to Destination</a></p></td>
+<td><p><a href="../Page/Time_to_Destination.md" title="wikilink">Time to Destination</a></p></td>
 <td><p>AVCD-11643</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Eternity_(Every_Little_Thingのアルバム)" title="wikilink">eternity</a></p></td>
+<td><p><a href="../Page/Eternity_(Every_Little_Thingのアルバム).md" title="wikilink">eternity</a></p></td>
 <td><p>AVCD-11757</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/4_FORCE" title="wikilink">4 FORCE</a></p></td>
+<td><p><a href="../Page/4_FORCE.md" title="wikilink">4 FORCE</a></p></td>
 <td><p>AVCD-11908</p></td>
 <td><p>2位</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/3月19日.md" title="wikilink">3月19日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Many_Pieces" title="wikilink">Many Pieces</a></p></td>
+<td><p><a href="../Page/Many_Pieces.md" title="wikilink">Many Pieces</a></p></td>
 <td><p>AVCD-17240</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/commonplace" title="wikilink">commonplace</a></p></td>
 <td><p>AVCD-17439（初回盤）<br />
 AVCD-17440（通常盤）</p></td>
@@ -688,8 +688,8 @@ AVCD-17440（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Crispy_Park" title="wikilink">Crispy Park</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
+<td><p><a href="../Page/Crispy_Park.md" title="wikilink">Crispy Park</a></p></td>
 <td><p>AVCD-17988（初回盤）<br />
 AVCD-17989（通常盤）</p></td>
 <td><p>1位</p></td>
@@ -697,7 +697,7 @@ AVCD-17989（通常盤）</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Door_(Every_Little_Thingのアルバム)" title="wikilink">Door</a></p></td>
+<td><p><a href="../Page/Door_(Every_Little_Thingのアルバム).md" title="wikilink">Door</a></p></td>
 <td><p>AVCD-23478（初回盤）<br />
 AVCD-23479（通常盤）</p></td>
 <td><p>2位</p></td>
@@ -764,14 +764,14 @@ AVCD-93199 - 204/B-E（NEWアルバム＋ベストアルバム+BD＋DVD）</p></
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Every_Best_Single_+3" title="wikilink">Every Best Single +3</a></p></td>
+<td><p><a href="../Page/Every_Best_Single_+3.md" title="wikilink">Every Best Single +3</a></p></td>
 <td><p>AVCD-11714</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Every_Best_Single_2" title="wikilink">Every Best Single 2</a></p></td>
+<td><p><a href="../Page/Every_Best_Single_2.md" title="wikilink">Every Best Single 2</a></p></td>
 <td><p>AVCD-17364（初回盤）<br />
 AVCD-17365（通常盤）</p></td>
 <td><p>1位</p></td>
@@ -823,14 +823,14 @@ AVCD-93199 - 204/B-E（NEWアルバム＋ベストアルバム+BD＋DVD）</p></
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Every_Ballad_Songs" title="wikilink">Every Ballad Songs</a></p></td>
+<td><p><a href="../Page/Every_Ballad_Songs.md" title="wikilink">Every Ballad Songs</a></p></td>
 <td><p>AVCD-17055</p></td>
 <td><p>2位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/2月14日.md" title="wikilink">2月14日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/14_message_〜every_ballad_songs_2〜" title="wikilink">14 message 〜every ballad songs 2〜</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月14日.md" title="wikilink">2月14日</a></p></td>
+<td><p><a href="../Page/14_message_〜every_ballad_songs_2〜.md" title="wikilink">14 message 〜every ballad songs 2〜</a></p></td>
 <td><p>AVCD-23205（初回盤）<br />
 AVCD-23206（通常盤）</p></td>
 <td><p>2位</p></td>
@@ -858,8 +858,8 @@ AVCD-23206（通常盤）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACOUSTIC:LATTE" title="wikilink">ACOUSTIC:LATTE</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
+<td><p><a href="../Page/ACOUSTIC:LATTE.md" title="wikilink">ACOUSTIC:LATTE</a></p></td>
 <td><p>AVCD-17612（初回盤）<br />
 AVCD-17613（通常盤）</p></td>
 <td><p>4位</p></td>
@@ -1151,11 +1151,11 @@ AVXD-92488</p></td>
   - SUPER EUROBEAT VOL.106 / Various Artists: 「Pray (Eurobeat Mix)」収録。
   - J-EURO BEST / Various Artists: 「Pray (Eurobeat Mix)」収録。
   - SUPER EUROBEAT VOL.119 / Various Artists: 「fragile (RED ROSES REMIX)」収録。
-  - Heart of Mine / [BREATH](https://ja.wikipedia.org/wiki/BREATH_\(バンド\) "wikilink"): 「spin」に持田香織がコーラス、伊藤一朗がサポートギターとして参加。
-  - [Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink") / [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink"): Disc 2で「BRAVE STORY」をカバー。DVDにインタビュー収録。
-  - ザ・ベスト・オブ・東京プリン2 / [東京プリン](https://ja.wikipedia.org/wiki/東京プリン "wikilink"): 「東京プリンが10周年」に参加。
+  - Heart of Mine / [BREATH](../Page/BREATH_\(バンド\).md "wikilink"): 「spin」に持田香織がコーラス、伊藤一朗がサポートギターとして参加。
+  - [Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink") / [TRF](../Page/TRF.md "wikilink"): Disc 2で「BRAVE STORY」をカバー。DVDにインタビュー収録。
+  - ザ・ベスト・オブ・東京プリン2 / [東京プリン](../Page/東京プリン.md "wikilink"): 「東京プリンが10周年」に参加。
   - [Digitalian is eating breakfast 2](https://ja.wikipedia.org/wiki/Digitalian_is_eating_breakfast_2 "wikilink") / [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink"): a-nation's party「THX A LOT (Album Version)」に参加。
-  - a-nation 10th Anniversary Best Selection CD / Various Artists: [7\&i](https://ja.wikipedia.org/wiki/7&i "wikilink")グループとのコラボレーション商品。DISC2に「THX A LOT」(a-nation's party名義)、DISC7に「出逢った頃のように (Acoustic version)(a-nation '04 Live Ver.)」、DISC9に「Dear My Friend」収録。[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")、[イトーヨーカドー](https://ja.wikipedia.org/wiki/イトーヨーカドー "wikilink")、[セブンネットショッピング](https://ja.wikipedia.org/wiki/セブンネットショッピング "wikilink")、a-nation会場（セブン-イレブン出店ブース）にて販売。
+  - a-nation 10th Anniversary Best Selection CD / Various Artists: [7\&i](https://ja.wikipedia.org/wiki/7&i "wikilink")グループとのコラボレーション商品。DISC2に「THX A LOT」(a-nation's party名義)、DISC7に「出逢った頃のように (Acoustic version)(a-nation '04 Live Ver.)」、DISC9に「Dear My Friend」収録。[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")、[イトーヨーカドー](https://ja.wikipedia.org/wiki/イトーヨーカドー "wikilink")、[セブンネットショッピング](../Page/セブンネットショッピング.md "wikilink")、a-nation会場（セブン-イレブン出店ブース）にて販売。
   - [Digitalian is remixing](https://ja.wikipedia.org/wiki/Digitalian_is_remixing "wikilink") / 小室哲哉: a-nation's party「THX A LOT \[Remixed by Dave Ford & Ian Curnow\]」に参加。
   - [劇場版ポケットモンスター ベストウイッシュ ビクティニと黒き英雄 ゼクロム・白き英雄 レシラム ミュージックコレクション](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_ベストウイッシュ_ビクティニと黒き英雄_ゼクロム・白き英雄_レシラム_ミュージックコレクション "wikilink") / Various Artists: DISC1に「宙-そら-」、DISC2に「響-こえ-」収録。
   - フジテレビ系ドラマ「抱きしめたい\!」ミュージックコレクション / [小西康陽](../Page/小西康陽.md "wikilink")/[ピチカート・ファイブ](https://ja.wikipedia.org/wiki/ピチカート・ファイブ "wikilink"): 「アクアマリンのままでいて」収録。
@@ -1178,7 +1178,7 @@ AVXD-92488</p></td>
   - a-nation '03 avex summer festa / Various Artists: 「fragile」、「ファンダメンタル・ラブ」、「Shapes Of Love」、All Castによる「WORLD GROOVE 3rd.chapter (main message)」（TRF）収録。
   - a-nation '04 BEST HIT SUMMER LIVE\!\! / Various Artists: 「出逢った頃のように (Acoustic Version)」、「Free Walkin'」収録。
   - a-nation '05 BEST HIT LIVE / Various Artists: 「FOREVER YOURS」収録。
-  - ap bank fes '05 / [Bank Band](https://ja.wikipedia.org/wiki/Bank_Band "wikilink") with Great Artists & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink"): 「water(s)」収録。
+  - ap bank fes '05 / [Bank Band](../Page/Bank_Band.md "wikilink") with Great Artists & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink"): 「water(s)」収録。
   - a-nation '06 BEST HIT LIVE / Various Artists: 「ハイファイ メッセージ」収録。
   - a-nation '07 BEST HIT LIVE / Various Artists: 「キラメキアワー」収録。
   - a-nation '08 〜avex ALL CAST SPECIAL LIVE〜 / Various Artists: 「Dear My Friend」、「Shapes Of Love」収録。
@@ -1244,7 +1244,7 @@ MCはゆったりとほのぼのとした、心地のよいELTワールドをつ
 <tr class="odd">
 <td><p>1998年</p></td>
 <td><p>Concert Tour '98 Time to Destination</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Time_to_Destination" title="wikilink">Time to Destination</a>』による最初のツアー。<br />
+<td><p>アルバム『<a href="../Page/Time_to_Destination.md" title="wikilink">Time to Destination</a>』による最初のツアー。<br />
 全27公演。五十嵐が参加した唯一のツアーである。</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -1284,7 +1284,7 @@ MCはゆったりとほのぼのとした、心地のよいELTワールドをつ
 <tr class="even">
 <td><p>2000年</p></td>
 <td><p>concert tour spirit 2000</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Eternity_(Every_Little_Thingのアルバム)" title="wikilink">eternity</a>』によるツアー。全25公演。<br />
+<td><p>アルバム『<a href="../Page/Eternity_(Every_Little_Thingのアルバム).md" title="wikilink">eternity</a>』によるツアー。全25公演。<br />
 ELTで唯一のアリーナクラスでのライブツアー。<br />
 ツアー直前に五十嵐が脱退したため、パンフレットなどには<br />
 彼の写真が使われている。五十嵐が抜けたキーボードの代替<br />
@@ -1328,7 +1328,7 @@ ELTで唯一のアリーナクラスでのライブツアー。<br />
 <tr class="odd">
 <td><p>2001年</p></td>
 <td><p>Concert Tour 2001 4 FORCE</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/4_FORCE" title="wikilink">4 FORCE</a>』によるツアー。全31公演。<br />
+<td><p>アルバム『<a href="../Page/4_FORCE.md" title="wikilink">4 FORCE</a>』によるツアー。全31公演。<br />
 持田がギターを披露した。<br />
 デビュー当時からELTを支えてきたサポートメンバー<br />
 （Key:桑島、Dr:古道、Ba：浅田）が参加した最後のツアー<br />
@@ -1376,7 +1376,7 @@ ELTで唯一のアリーナクラスでのライブツアー。<br />
 <tr class="even">
 <td><p>2003年</p></td>
 <td><p>2003 tour MANY PIECES</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Many_Pieces" title="wikilink">Many Pieces</a>』によるツアー。全27公演。<br />
+<td><p>アルバム『<a href="../Page/Many_Pieces.md" title="wikilink">Many Pieces</a>』によるツアー。全27公演。<br />
 ギター以外のサポートメンバーが変わった後の最初のツアー。<br />
 このツアーからアコースティックコーナーが設けられ、<br />
 以後のツアーでも定着化する事になる。</p></td>
@@ -1425,7 +1425,7 @@ ELT史上最大のツアー。<br />
 これは、各地域をくまなく周りたいという2人の希望による<br />
 ものだったが、ツアーの序盤から声に異変が起こり始め、<br />
 さらに終盤は年末年始の歌番組の収録が重なるというタイト<br />
-なスケジュールもあってか、持田が急性<a href="https://ja.wikipedia.org/wiki/気管支炎" title="wikilink">気管支炎</a>を発症、<br />
+なスケジュールもあってか、持田が急性<a href="../Page/気管支炎.md" title="wikilink">気管支炎</a>を発症、<br />
 熊本公演では「<a href="https://ja.wikipedia.org/wiki/fragile/JIRENMA" title="wikilink">fragile</a>」のところで声が出ずに、持田が泣き<br />
 出す事態になった。これにより、1月28日に予定された<a href="https://ja.wikipedia.org/wiki/帯広" title="wikilink">帯広</a>、<br />
 及び30日に予定された<a href="../Page/旭川市.md" title="wikilink">旭川に於ける公演がそれぞれ</a>4月8日<br />
@@ -1488,7 +1488,7 @@ ELT史上最大のツアー。<br />
 ~<br />
 2007年</p></td>
 <td><p>concert tour 2006-2007 Crispy Park</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Crispy_Park" title="wikilink">Crispy Park</a>』によるツアー。全30公演。<br />
+<td><p>アルバム『<a href="../Page/Crispy_Park.md" title="wikilink">Crispy Park</a>』によるツアー。全30公演。<br />
 デビュー10周年を迎えてのツアーだが、2011年の15周年、<br />
 2015-2016年の20周年のようにアニバーサリーツアーと<br />
 位置づけてはなく、通常のアルバムコンセプトツアーであった<br />
@@ -1536,7 +1536,7 @@ ELT史上最大のツアー。<br />
 <tr class="odd">
 <td><p>2008年</p></td>
 <td><p>concert tour 2008 Door</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Door_(Every_Little_Thingのアルバム)" title="wikilink">Door</a>』によるツアー。全25公演。<br />
+<td><p>アルバム『<a href="../Page/Door_(Every_Little_Thingのアルバム).md" title="wikilink">Door</a>』によるツアー。全25公演。<br />
 ギターのサポートメンバーがいなくなり、このツアーのみ<br />
 ストリングス3人が加わった。ツアー後半から伊藤が<br />
 <a href="https://ja.wikipedia.org/wiki/ものもらい" title="wikilink">ものもらい</a>を発症したため、黒い眼帯をつけてステージに<br />
@@ -1584,7 +1584,7 @@ ELT史上最大のツアー。<br />
 全33公演。本人たち曰く「ELTとしては初めてアルバムを<br />
 引っ提げていないツアー」と公言<br />
 （いわゆる「ベスト・ヒット・ツアー」）。ツアー期間中に<br />
-<a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a>『<a href="https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜" title="wikilink">Every Best Single 〜COMPLETE〜</a>』、<br />
+<a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a>『<a href="https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜" title="wikilink">Every Best Single 〜COMPLETE〜</a>』、<br />
 ツアーファイナルの東京公演前（2010年3月27・28日）に、<br />
 オリジナル・アルバム『<a href="https://ja.wikipedia.org/wiki/CHANGE_(Every_Little_Thingのアルバム)" title="wikilink">CHANGE</a>』が発売された。<br />
 また、2010年3月27・28日の東京公演には12年ぶりに<br />
@@ -1876,7 +1876,7 @@ ELT史上最大のツアー。<br />
 ### 単発公演
 
   - Count Down Live 2001-2002 HORSE
-    ELT唯一の[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")公演。12月30日・31日の2回公演が行われた（カウントダウンは31日のみ）。大晦日の公演は、有料でインターネットからのストリーミング配信が行われた。
+    ELT唯一の[カウントダウン](../Page/カウントダウン.md "wikilink")公演。12月30日・31日の2回公演が行われた（カウントダウンは31日のみ）。大晦日の公演は、有料でインターネットからのストリーミング配信が行われた。
   - 2002 Christmas Special Concert（12月19日）
     キリスト教品川教会にて開催。カップル50組を抽選で招待。
   - X'mas Acoustic Live 2003（12月23日、24日）
@@ -1886,7 +1886,7 @@ ELT史上最大のツアー。<br />
   - Every Little Thing 10th Anniversary Special Live at Nippon Budokan（2007年3月6日、7日）
     2006年8月に10周年を迎えたことを記念してのライブ。大ヒット曲を中心に披露した。日本武道館にて開催。
   - Every Little Thing X'mas Concert 2008（2008年12月7日、8日、11日）
-    [フェスティバルホール](https://ja.wikipedia.org/wiki/フェスティバルホール "wikilink")で2回、[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")で1回開催。フェスティバルホールは2008年限りで建て替えとなるため、『[4 FORCE](https://ja.wikipedia.org/wiki/4_FORCE "wikilink")』のツアー以来使用してきたこのホールでの開催も、これが最後となった。
+    [フェスティバルホール](../Page/フェスティバルホール.md "wikilink")で2回、[NHKホール](../Page/NHKホール.md "wikilink")で1回開催。フェスティバルホールは2008年限りで建て替えとなるため、『[4 FORCE](../Page/4_FORCE.md "wikilink")』のツアー以来使用してきたこのホールでの開催も、これが最後となった。
   - Every Little Thing Premium Christmas Concert 2009（2009年12月23日、24日）
     12月23日、24日に[神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")で開催された。
   - Every Little Thing 15th Anniversary Premium 2days 〜naEverLasTing 2012〜（2012年2月18日、19日）
@@ -1895,18 +1895,18 @@ ELT史上最大のツアー。<br />
     2016年8月にデビュー満20年を迎えることを記念してのプレミアムライブ。会場は10周年記念ライブ（日本武道館）と異なり、国立代々木競技場第二体育館で開催。ちなみに代々木会場でのライブは2000年に開催されたSpiritツアー以来、約16年ぶりとなるが、「第二体育館」では初開催（2000年のツアーは「第一体育館」での開催）。
   - Every Little Thing 23rd Anniversary Concert（2019年8月28日）
     デビュー23周年を記念して中野サンプラザホールにおいて行われたスペシャルライブ。上述の20周年記念公演以来、尚且つツアーやイベントなどを除けば、ELTとしてこれが現時点で唯一の最新ライブとなる(2人はソロ活動としてそれぞれ拠点を置いていた)。
-    後半のアンコール前には、観客席に居た元メンバーである[五十嵐充](https://ja.wikipedia.org/wiki/五十嵐充 "wikilink")がサプライズゲストとしてステージに登壇し、事前に知らされていなかったメンバーを驚かせた。因みに3人が共演するのは2010年のコンサートツアー以来であり、およそ9年半ぶりである。
+    後半のアンコール前には、観客席に居た元メンバーである[五十嵐充](../Page/五十嵐充.md "wikilink")がサプライズゲストとしてステージに登壇し、事前に知らされていなかったメンバーを驚かせた。因みに3人が共演するのは2010年のコンサートツアー以来であり、およそ9年半ぶりである。
 
 ### イベント・ミュージックフェスティバル
 
   - [POP HILL](https://ja.wikipedia.org/wiki/POP_HILL "wikilink")'97（1997年、石川県森林公園）
-  - Midsummer Marine Live（1997年、1998年[千葉マリンスタジアム](https://ja.wikipedia.org/wiki/千葉マリンスタジアム "wikilink")）
-  - channel a Special Live（2000年、[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館）
-  - JAM JAM MARINA2001（2001年、[山口きらら博](https://ja.wikipedia.org/wiki/山口きらら博 "wikilink")会場隣特設会場）
+  - Midsummer Marine Live（1997年、1998年[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")）
+  - channel a Special Live（2000年、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館）
+  - JAM JAM MARINA2001（2001年、[山口きらら博](../Page/山口きらら博.md "wikilink")会場隣特設会場）
   - Summer Breezeスーパーライブ（2001年、島根YASUGI SEASIDE野外特設ステージ）
   - 美浜海遊祭2001 STARLIGHT GIG（2001年、愛知美浜町総合公園グランド内特設会場）
   - サンマリーナイリュージョン2001（2001年、沖縄サンマリーナホテル野外ステージ）
-  - MUSIC EXIPO INASAYAMA Girls Girls Girl（2001年、長崎[稲佐山](https://ja.wikipedia.org/wiki/稲佐山 "wikilink")公園野外ステージ）
+  - MUSIC EXIPO INASAYAMA Girls Girls Girl（2001年、長崎[稲佐山](../Page/稲佐山.md "wikilink")公園野外ステージ）
   - [a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") - （2002年-2015年まで参加）
   - [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank "wikilink")
   - SOUND MARINA 2006（広島港出島野外特設会場）
@@ -1920,7 +1920,7 @@ ELT史上最大のツアー。<br />
   - [FM大阪](https://ja.wikipedia.org/wiki/FM大阪 "wikilink")40周年記念Live E∞Tracks Live（2010年9月28日、大阪城ホール）
   - 早稲田祭2010記念会堂LIVE Age×Every Little Thing（2010年11月7日）
   - 第68回国民体育大会総合開会式（2013年6月10日）
-  - [ROCK IN JAPAN FESTIVAL 2014](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")（2014年8月2日、[国営ひたち海浜公園](https://ja.wikipedia.org/wiki/国営ひたち海浜公園 "wikilink")）
+  - [ROCK IN JAPAN FESTIVAL 2014](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")（2014年8月2日、[国営ひたち海浜公園](../Page/国営ひたち海浜公園.md "wikilink")）
   - BEAT PHOENIX 2014 （2014年9月13日、福井フェニックスプラザ）
   - [イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")（2014年9月14日、滋賀県草津市烏丸半島芝生広場）
   - 「バレンタインジャンボ（旧グリーンジャンボ）宝くじ」抽せん会 アトラクション・スペシャルライブ（2018年3月7日、オリックス劇場）
@@ -1931,7 +1931,7 @@ ELT史上最大のツアー。<br />
 
 ･2018年10月5日
 
-[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")トークライブ ラジオ [ルミネtheよしもと](https://ja.wikipedia.org/wiki/ルミネtheよしもと "wikilink")
+[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")トークライブ ラジオ [ルミネtheよしもと](../Page/ルミネtheよしもと.md "wikilink")
 
 ## タイアップ
 
@@ -1950,11 +1950,11 @@ ELT史上最大のツアー。<br />
 <tr class="even">
 <td><p>Feel My Heart</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ヴァーナル" title="wikilink">ヴァーナル</a>」CMソング<br />
-<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>」1996年8月度エンディングテーマ</p></td>
+<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>」1996年8月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>Future World</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TDK" title="wikilink">TDK</a>「TDK's <a href="../Page/ミニディスク.md" title="wikilink">MD</a>」CMソング</p></td>
+<td><p><a href="../Page/TDK.md" title="wikilink">TDK</a>「TDK's <a href="../Page/ミニディスク.md" title="wikilink">MD</a>」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1997年</strong></p></td>
@@ -1962,7 +1962,7 @@ ELT史上最大のツアー。<br />
 </tr>
 <tr class="odd">
 <td><p>Dear My Friend</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/スリムビューティハウス" title="wikilink">スリムビューティハウス</a>」CMソング</p></td>
+<td><p>「<a href="../Page/スリムビューティハウス.md" title="wikilink">スリムビューティハウス</a>」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>For the moment</p></td>
@@ -1972,15 +1972,15 @@ TBS系「COUNT DOWN TV」1998年6月度エンディングテーマ</p></td>
 <tr class="odd">
 <td><p>出逢った頃のように</p></td>
 <td><p>森永製菓「ICE BOX」CMソング<br />
-<a href="https://ja.wikipedia.org/wiki/日本メナード化粧品" title="wikilink">メナード企業CMソング</a>（2015年）</p></td>
+<a href="../Page/日本メナード化粧品.md" title="wikilink">メナード企業CMソング</a>（2015年）</p></td>
 </tr>
 <tr class="even">
 <td><p>Shapes Of Love</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>系列<a href="../Page/ドラマ.md" title="wikilink">ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/研修医なな子" title="wikilink">研修医なな子</a>」主題歌</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系列<a href="../Page/ドラマ.md" title="wikilink">ドラマ</a>「<a href="../Page/研修医なな子.md" title="wikilink">研修医なな子</a>」主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Never Stop!</p></td>
-<td><p>テレビ朝日系列<a href="https://ja.wikipedia.org/wiki/27時間チャレンジテレビ" title="wikilink">27時間テレビ</a>「熱血チャレンジ宣言'97」テーマソング</p></td>
+<td><p>テレビ朝日系列<a href="../Page/27時間チャレンジテレビ.md" title="wikilink">27時間テレビ</a>「熱血チャレンジ宣言'97」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1998年</strong></p></td>
@@ -1993,7 +1993,7 @@ TBS系「COUNT DOWN TV」1998年6月度エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>Time goes by</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系列</a> 木曜10時ドラマ『<a href="https://ja.wikipedia.org/wiki/甘い結婚" title="wikilink">甘い結婚</a>』主題歌<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系列</a> 木曜10時ドラマ『<a href="../Page/甘い結婚.md" title="wikilink">甘い結婚</a>』主題歌<br />
 TOYOTA「HILUX SURF SSR-V」CFソング<br />
 <a href="https://ja.wikipedia.org/wiki/ソフトバンクモバイル" title="wikilink">ソフトバンクモバイル</a>CFソング（2012年）<br />
 エヌ・シー・ソフト ハートフルプライス（リネージュII・タワー オブ アイオン）CFソング（2012年）</p></td>
@@ -2004,7 +2004,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="even">
 <td><p>FOREVER YOURS</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/シーブリーズ" title="wikilink">シーブリーズ</a> 」1998年度CMソング</p></td>
+<td><p>「<a href="../Page/シーブリーズ.md" title="wikilink">シーブリーズ</a> 」1998年度CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>NECESSARY</p></td>
@@ -2016,7 +2016,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="odd">
 <td><p>Over and Over</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/讀賣テレビ放送" title="wikilink">読売テレビ</a>・<a href="https://ja.wikipedia.org/wiki/日本テレビ系列" title="wikilink">日本テレビ系列</a>月曜10時ドラマ「<a href="https://ja.wikipedia.org/wiki/ボーダー_犯罪心理捜査ファイル" title="wikilink">ボーダー 犯罪心理捜査ファイル</a>」エンディング・テーマ</p></td>
+<td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>・<a href="../Page/日本テレビ系列.md" title="wikilink">日本テレビ系列</a>月曜10時ドラマ「<a href="../Page/ボーダー_犯罪心理捜査ファイル.md" title="wikilink">ボーダー 犯罪心理捜査ファイル</a>」エンディング・テーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>Someday, Someplace</p></td>
@@ -2032,7 +2032,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="odd">
 <td><p>Pray</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイドードリンコ" title="wikilink">DyDo</a>「Ti-Ha」CFソング<br />
+<td><p><a href="../Page/ダイドードリンコ.md" title="wikilink">DyDo</a>「Ti-Ha」CFソング<br />
 メナード企業CMソング（2017年）</p></td>
 </tr>
 <tr class="even">
@@ -2041,15 +2041,15 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="odd">
 <td><p>sure</p></td>
-<td><p>日本テレビ系列ドラマ「<a href="https://ja.wikipedia.org/wiki/バーチャルガール_(テレビドラマ)" title="wikilink">バーチャルガール</a>」主題歌</p></td>
+<td><p>日本テレビ系列ドラマ「<a href="../Page/バーチャルガール_(テレビドラマ).md" title="wikilink">バーチャルガール</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>The One Thing</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/クロスファイア_(小説)" title="wikilink">クロスファイア</a>」主題歌</p></td>
+<td><p>映画「<a href="../Page/クロスファイア_(小説).md" title="wikilink">クロスファイア</a>」主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Rescue me</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本ゲートウェイ" title="wikilink">日本ゲートウェイ</a>ノートパソコン「<a href="https://ja.wikipedia.org/wiki/ゲートウェイ_(PCメーカー)" title="wikilink">Gateway</a> Solo」CMソング</p></td>
+<td><p><a href="../Page/日本ゲートウェイ.md" title="wikilink">日本ゲートウェイ</a>ノートパソコン「<a href="../Page/ゲートウェイ_(PCメーカー).md" title="wikilink">Gateway</a> Solo」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>Smile Again</p></td>
@@ -2065,7 +2065,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="odd">
 <td><p>fragile</p></td>
-<td><p>フジテレビ系列「<a href="https://ja.wikipedia.org/wiki/あいのり" title="wikilink">あいのり</a>」主題歌（2000年10月 - 2001年9月）</p></td>
+<td><p>フジテレビ系列「<a href="../Page/あいのり.md" title="wikilink">あいのり</a>」主題歌（2000年10月 - 2001年9月）</p></td>
 </tr>
 <tr class="even">
 <td><p>JIRENMA</p></td>
@@ -2073,12 +2073,12 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="odd">
 <td><p>Graceful World</p></td>
-<td><p>TBS系列ドラマ「<a href="https://ja.wikipedia.org/wiki/ビッグウイング" title="wikilink">ビッグウイング</a>」主題歌<br />
+<td><p>TBS系列ドラマ「<a href="../Page/ビッグウイング.md" title="wikilink">ビッグウイング</a>」主題歌<br />
 メナード企業CMソング（2016年）</p></td>
 </tr>
 <tr class="even">
 <td><p>jump</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カネボウ" title="wikilink">カネボウ</a>「プロスタイル」TV-CFソング</p></td>
+<td><p><a href="../Page/カネボウ.md" title="wikilink">カネボウ</a>「プロスタイル」TV-CFソング</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2002年</strong></p></td>
@@ -2086,7 +2086,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="even">
 <td><p>キヲク</p></td>
-<td><p>TBS系カネボウ木曜劇場『<a href="https://ja.wikipedia.org/wiki/しあわせのシッポ" title="wikilink">しあわせのシッポ</a>』主題歌</p></td>
+<td><p>TBS系カネボウ木曜劇場『<a href="../Page/しあわせのシッポ.md" title="wikilink">しあわせのシッポ</a>』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>time trip 〜僕が僕であるために〜</p></td>
@@ -2094,7 +2094,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 </tr>
 <tr class="even">
 <td><p>ささやかな祈り</p></td>
-<td><p>テレビ朝日系列「<a href="https://ja.wikipedia.org/wiki/やじうまプラス" title="wikilink">やじうまプラス</a>」テーマソング</p></td>
+<td><p>テレビ朝日系列「<a href="../Page/やじうまプラス.md" title="wikilink">やじうまプラス</a>」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>AMBIVALENCE</p></td>
@@ -2111,11 +2111,11 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>ルーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノーベル製菓" title="wikilink">ノーベル製菓</a>「はちみつきんかんのど飴」CMソング</p></td>
+<td><p><a href="../Page/ノーベル製菓.md" title="wikilink">ノーベル製菓</a>「はちみつきんかんのど飴」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>nostalgia</p></td>
-<td><p>フジテレビ系列ドラマ『<a href="https://ja.wikipedia.org/wiki/お義母さんといっしょ" title="wikilink">お義母さんといっしょ</a>』主題歌</p></td>
+<td><p>フジテレビ系列ドラマ『<a href="../Page/お義母さんといっしょ.md" title="wikilink">お義母さんといっしょ</a>』主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2003年</strong></p></td>
@@ -2131,24 +2131,24 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>stray cat</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン" title="wikilink">NHK-BS2</a>「真夜中の王国」オープニングテーマ</p></td>
+<td><p><a href="../Page/NHK衛星第2テレビジョン.md" title="wikilink">NHK-BS2</a>「真夜中の王国」オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>self reliance</p></td>
-<td><p>フジテレビ系列「<a href="https://ja.wikipedia.org/wiki/ベルリンマラソン" title="wikilink">ベルリンマラソン</a>2002」イメージソング</p></td>
+<td><p>フジテレビ系列「<a href="../Page/ベルリンマラソン.md" title="wikilink">ベルリンマラソン</a>2002」イメージソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>ファンダメンタル・ラブ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森永乳業" title="wikilink">森永乳業</a>「ラクトフェリンヨーグルト」TV-CFソング</p></td>
+<td><p><a href="../Page/森永乳業.md" title="wikilink">森永乳業</a>「ラクトフェリンヨーグルト」TV-CFソング</p></td>
 </tr>
 <tr class="even">
 <td><p>また あした</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">MBS</a>・TBS系列 <a href="https://ja.wikipedia.org/wiki/ドラマ30" title="wikilink">ドラマ30</a>「<a href="https://ja.wikipedia.org/wiki/ピュア・ラブIII" title="wikilink">ピュア・ラブIII</a>」主題歌<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">MBS</a>・TBS系列 <a href="../Page/ドラマ30.md" title="wikilink">ドラマ30</a>「<a href="https://ja.wikipedia.org/wiki/ピュア・ラブIII" title="wikilink">ピュア・ラブIII</a>」主題歌<br />
 ノーベル製菓「はちみつきんかんのど飴」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>一日の始まりに...</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニベア花王" title="wikilink">ニベア花王</a>「アトリックス」CMソング</p></td>
+<td><p><a href="../Page/ニベア花王.md" title="wikilink">ニベア花王</a>「アトリックス」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>しあわせの風景</p></td>
@@ -2164,7 +2164,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>うらうらら</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">NHK総合</a><a href="https://ja.wikipedia.org/wiki/月曜ドラマシリーズ" title="wikilink">月曜ドラマシリーズ</a>「<a href="https://ja.wikipedia.org/wiki/農家のヨメになりたい" title="wikilink">農家のヨメになりたい</a>」主題歌</p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a><a href="../Page/月曜ドラマシリーズ.md" title="wikilink">月曜ドラマシリーズ</a>「<a href="https://ja.wikipedia.org/wiki/農家のヨメになりたい" title="wikilink">農家のヨメになりたい</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>五月雨</p></td>
@@ -2172,12 +2172,12 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>恋文</p></td>
-<td><p>映画『<a href="https://ja.wikipedia.org/wiki/天国からのラブレター" title="wikilink">天国からのラブレター</a>』主題歌<br />
+<td><p>映画『<a href="../Page/天国からのラブレター.md" title="wikilink">天国からのラブレター</a>』主題歌<br />
 ノーベル製菓「はちみつきんかんのど飴」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>good night</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナムコ" title="wikilink">ナムコ</a>『<a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_リバース" title="wikilink">テイルズ オブ リバース</a>』主題歌</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ナムコ" title="wikilink">ナムコ</a>『<a href="../Page/テイルズ_オブ_リバース.md" title="wikilink">テイルズ オブ リバース</a>』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2005年</strong></p></td>
@@ -2186,11 +2186,11 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 <tr class="even">
 <td><p>きみの て</p></td>
 <td><p>ニベア花王「アトリックス うるおいパッククリーム」CMソング<br />
-<a href="https://ja.wikipedia.org/wiki/日本テレビ系列" title="wikilink">日本テレビ系列</a>「<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」11月オープニングテーマ</p></td>
+<a href="../Page/日本テレビ系列.md" title="wikilink">日本テレビ系列</a>「<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」11月オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>鮮やかなもの（Acoustic Version）</p></td>
-<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/BUZZER_BEATER" title="wikilink">BUZZER BEATER</a>」エンディングテーマ</p></td>
+<td><p>アニメ「<a href="../Page/BUZZER_BEATER.md" title="wikilink">BUZZER BEATER</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2006年</strong></p></td>
@@ -2198,7 +2198,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>azure moon</p></td>
-<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/クイズ発見バラエティー_イッテQ!" title="wikilink">クイズ発見バラエティー イッテQ!</a>」3月エンディングテーマ<br />
+<td><p>日本テレビ系「<a href="../Page/クイズ発見バラエティー_イッテQ!.md" title="wikilink">クイズ発見バラエティー イッテQ!</a>」3月エンディングテーマ<br />
 日本テレビ系「音楽戦士 MUSIC FIGHTER」3月POWER PLAY</p></td>
 </tr>
 <tr class="even">
@@ -2207,7 +2207,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>スイミー</p></td>
-<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・フジテレビ系火曜22時ドラマ「<a href="https://ja.wikipedia.org/wiki/結婚できない男" title="wikilink">結婚できない男</a>」主題歌</p></td>
+<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・フジテレビ系火曜22時ドラマ「<a href="../Page/結婚できない男.md" title="wikilink">結婚できない男</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2007年</strong></p></td>
@@ -2215,9 +2215,9 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>キラメキアワー</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/ECC" title="wikilink">ECC</a>ジュニア」CMソング<br />
-日本テレビ系列「<a href="https://ja.wikipedia.org/wiki/いただきマッスル!" title="wikilink">いただきマッスル!</a>」8月エンディングテーマ<br />
-日本テレビ系列「<a href="https://ja.wikipedia.org/wiki/ミラクル☆シェイプ" title="wikilink">ミラクル☆シェイプ</a>」8月エンディングテーマ</p></td>
+<td><p>「<a href="../Page/ECC.md" title="wikilink">ECC</a>ジュニア」CMソング<br />
+日本テレビ系列「<a href="../Page/いただきマッスル!.md" title="wikilink">いただきマッスル!</a>」8月エンディングテーマ<br />
+日本テレビ系列「<a href="../Page/ミラクル☆シェイプ.md" title="wikilink">ミラクル☆シェイプ</a>」8月エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>夏色夏夢</p></td>
@@ -2225,7 +2225,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>恋をしている</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/サッポロビール" title="wikilink">サッポロ</a> 冬物語」CMソング</p></td>
+<td><p>「<a href="../Page/サッポロビール.md" title="wikilink">サッポロ</a> 冬物語」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2008年</strong></p></td>
@@ -2266,7 +2266,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Change</p></td>
-<td><p>「英会話<a href="https://ja.wikipedia.org/wiki/イーオン" title="wikilink">イーオン</a>企業」CMソング</p></td>
+<td><p>「英会話<a href="../Page/イーオン.md" title="wikilink">イーオン</a>企業」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2011年</strong></p></td>
@@ -2322,7 +2322,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>アクアマリンのままでいて</p></td>
-<td><p>フジテレビ系スペシャルドラマ「<a href="https://ja.wikipedia.org/wiki/抱きしめたい!" title="wikilink">抱きしめたい! Forever</a>」主題歌</p></td>
+<td><p>フジテレビ系スペシャルドラマ「<a href="../Page/抱きしめたい!.md" title="wikilink">抱きしめたい! Forever</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2014年</strong></p></td>
@@ -2338,11 +2338,11 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Sympathy</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉銀行" title="wikilink">千葉銀行</a>イメージソング</p></td>
+<td><p><a href="../Page/千葉銀行.md" title="wikilink">千葉銀行</a>イメージソング</p></td>
 </tr>
 <tr class="even">
 <td><p>キミト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本テレビ系列" title="wikilink">日本テレビ系列</a>「<a href="https://ja.wikipedia.org/wiki/PON!" title="wikilink">PON!</a>」2月度テーマソング</p></td>
+<td><p><a href="../Page/日本テレビ系列.md" title="wikilink">日本テレビ系列</a>「<a href="https://ja.wikipedia.org/wiki/PON!" title="wikilink">PON!</a>」2月度テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>Take me Tell me</p></td>
@@ -2374,7 +2374,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>MY LIFE</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/住宅情報館" title="wikilink">住宅情報館</a>」CMソング</p></td>
+<td><p>「<a href="../Page/住宅情報館.md" title="wikilink">住宅情報館</a>」CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>まいにち。</p></td>
@@ -2405,22 +2405,22 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 
 ## NHK紅白歌合戦
 
-| 年/放送回                                                                      | 回 | 曲目                                                                                      | 対戦相手                                                                                                                              |
-| -------------------------------------------------------------------------- | - | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1997年（平成9年）/[第48回](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")  | 初 | 「[Shapes Of Love](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")」 | [山川豊](https://ja.wikipedia.org/wiki/山川豊 "wikilink")                                                                               |
-| 1998年（平成10年）/[第49回](https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦 "wikilink") | 2 | 「[Time goes by](https://ja.wikipedia.org/wiki/Time_goes_by "wikilink")」                 | [西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")                                                                             |
-| 1999年（平成11年）/[第50回](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink") | 3 | 「[Over and Over](https://ja.wikipedia.org/wiki/Over_and_Over "wikilink")」               | [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")                                                                             |
-| 2000年（平成12年）/[第51回](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦 "wikilink") | 4 | 「[愛のカケラ](https://ja.wikipedia.org/wiki/愛のカケラ_\(Every_Little_Thingの曲\) "wikilink")」      | 西城秀樹                                                                                                                              |
-| 2001年（平成13年）/[第52回](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦 "wikilink") | 5 | 「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」                   | [TOKIO](https://ja.wikipedia.org/wiki/TOKIO "wikilink")                                                                           |
-| 2002年（平成14年）/[第53回](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink") | 6 | 「[UNSPEAKABLE](https://ja.wikipedia.org/wiki/UNTITLED_4_ballads "wikilink")」            | [アルフレッド・カセーロ](https://ja.wikipedia.org/wiki/アルフレッド・カセーロ "wikilink")&[THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink") |
-| 2003年（平成15年）/[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink") | 7 | 「[また あした](https://ja.wikipedia.org/wiki/また_あした "wikilink")」                             | [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")&[テツandトモ](../Page/テツandトモ.md "wikilink")                                      |
-| 2004年（平成16年）/[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink") | 8 | 「[恋文](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")」                          | [美川憲一](https://ja.wikipedia.org/wiki/美川憲一 "wikilink")                                                                             |
+| 年/放送回                                                                      | 回 | 曲目                                                                                      | 対戦相手                                                                                                           |
+| -------------------------------------------------------------------------- | - | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1997年（平成9年）/[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")                     | 初 | 「[Shapes Of Love](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")」 | [山川豊](../Page/山川豊.md "wikilink")                                                                               |
+| 1998年（平成10年）/[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")                    | 2 | 「[Time goes by](../Page/Time_goes_by.md "wikilink")」                                    | [西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")                                                          |
+| 1999年（平成11年）/[第50回](../Page/第50回NHK紅白歌合戦.md "wikilink")                    | 3 | 「[Over and Over](../Page/Over_and_Over.md "wikilink")」                                  | [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")                                                          |
+| 2000年（平成12年）/[第51回](../Page/第51回NHK紅白歌合戦.md "wikilink")                    | 4 | 「[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")」                         | 西城秀樹                                                                                                           |
+| 2001年（平成13年）/[第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")                    | 5 | 「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」                   | [TOKIO](../Page/TOKIO.md "wikilink")                                                                           |
+| 2002年（平成14年）/[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")                    | 6 | 「[UNSPEAKABLE](../Page/UNTITLED_4_ballads.md "wikilink")」                               | [アルフレッド・カセーロ](https://ja.wikipedia.org/wiki/アルフレッド・カセーロ "wikilink")&[THE BOOM](../Page/THE_BOOM.md "wikilink") |
+| 2003年（平成15年）/[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink") | 7 | 「[また あした](../Page/また_あした.md "wikilink")」                                                | [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")&[テツandトモ](../Page/テツandトモ.md "wikilink")                   |
+| 2004年（平成16年）/[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink") | 8 | 「[恋文](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")」                          | [美川憲一](../Page/美川憲一.md "wikilink")                                                                             |
 
 ## CM
 
-  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")モバイル [白戸家](https://ja.wikipedia.org/wiki/白戸家 "wikilink")（2012年 - 2013年） - [LTE開始を記念し](https://ja.wikipedia.org/wiki/Long_Term_Evolution "wikilink")、[白戸彩が](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、父（[白戸次郎](https://ja.wikipedia.org/wiki/白戸次郎 "wikilink")）の一言で*LTE（Little Thing Every）*への改名をお願いし、最初は「私たち、ELTだから」（持田）と断るが、その後、改名する。再び上戸が田舎中心の全国[ツアー](https://ja.wikipedia.org/wiki/ツアー "wikilink")をお願いするが、「人います?」（持田）と断られるが何故かやってくれる設定になっている。ツアー（主に、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")ならりんご畑など田舎の野外ライヴ）では「[Time goes by](https://ja.wikipedia.org/wiki/Time_goes_by "wikilink")」を歌うという設定となっている。さらに、同曲の歌詞中にある「信じ合える」から転じて「**シンジ**会える」となり、[白戸次郎](https://ja.wikipedia.org/wiki/白戸次郎 "wikilink")の[甥](https://ja.wikipedia.org/wiki/甥 "wikilink")・[香川真司](https://ja.wikipedia.org/wiki/香川真司 "wikilink")が登場することになった。ちなみにこのCM放送後に開催された全国ツアーの告知ポスターには父と共に3人並んで映っていた。ポスター上記の項目には「**お父さんは来ません**」との注意書きが明記してある。なお、実際に東京公演にはお父さん犬（カイくん）もステージに初めて出演し共演を果たした。
-  - [住宅情報館](https://ja.wikipedia.org/wiki/住宅情報館 "wikilink")（2015年 - 2016年）- 2015年から2016年に掛けて開催されたデビュー20周年記念ツアーの公式スポンサーで縁があることでもわかる通り、本ツアーの11月8日の神奈川公演終了後にCM撮影のため、観客並びにメンバーが再び登壇\[10\]し、「Grip\!」を披露後、持田が「**住宅ー\!**」と叫び、観客らが「**情報館ー\!**」と掛け合わせている模様\[11\]となっている\[12\]。
-  - [宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")（2018年 - ） - 「バレンタインジャンボ&バレンタインジャンボミニ」[役所広司](https://ja.wikipedia.org/wiki/役所広司 "wikilink")、[島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink")との共演。また、バレンタインジャンボの抽せん会当日に、スペシャルゲストとして登場し、抽せん会に使用する矢のセット・発射を行った\[13\]。また、抽せん会終了後は、同会場でスペシャルライブを行った。（全てのジャンボ宝くじで行われる抽せん会のゲストは抽せん会終了後にアトラクションを行う事が恒例となっている）バレンタインジャンボでは、宝くじ売り場限定ながら、抽選でスペシャルライブ付の抽せん会参加のキャンペーン（20枚以上購入で応募はがきをもらえる）を大々的に行った。
+  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")モバイル [白戸家](https://ja.wikipedia.org/wiki/白戸家 "wikilink")（2012年 - 2013年） - [LTE開始を記念し](https://ja.wikipedia.org/wiki/Long_Term_Evolution "wikilink")、[白戸彩が](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、父（[白戸次郎](https://ja.wikipedia.org/wiki/白戸次郎 "wikilink")）の一言で*LTE（Little Thing Every）*への改名をお願いし、最初は「私たち、ELTだから」（持田）と断るが、その後、改名する。再び上戸が田舎中心の全国[ツアー](../Page/ツアー.md "wikilink")をお願いするが、「人います?」（持田）と断られるが何故かやってくれる設定になっている。ツアー（主に、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")ならりんご畑など田舎の野外ライヴ）では「[Time goes by](../Page/Time_goes_by.md "wikilink")」を歌うという設定となっている。さらに、同曲の歌詞中にある「信じ合える」から転じて「**シンジ**会える」となり、[白戸次郎](https://ja.wikipedia.org/wiki/白戸次郎 "wikilink")の[甥](https://ja.wikipedia.org/wiki/甥 "wikilink")・[香川真司](../Page/香川真司.md "wikilink")が登場することになった。ちなみにこのCM放送後に開催された全国ツアーの告知ポスターには父と共に3人並んで映っていた。ポスター上記の項目には「**お父さんは来ません**」との注意書きが明記してある。なお、実際に東京公演にはお父さん犬（カイくん）もステージに初めて出演し共演を果たした。
+  - [住宅情報館](../Page/住宅情報館.md "wikilink")（2015年 - 2016年）- 2015年から2016年に掛けて開催されたデビュー20周年記念ツアーの公式スポンサーで縁があることでもわかる通り、本ツアーの11月8日の神奈川公演終了後にCM撮影のため、観客並びにメンバーが再び登壇\[10\]し、「Grip\!」を披露後、持田が「**住宅ー\!**」と叫び、観客らが「**情報館ー\!**」と掛け合わせている模様\[11\]となっている\[12\]。
+  - [宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")（2018年 - ） - 「バレンタインジャンボ&バレンタインジャンボミニ」[役所広司](../Page/役所広司.md "wikilink")、[島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink")との共演。また、バレンタインジャンボの抽せん会当日に、スペシャルゲストとして登場し、抽せん会に使用する矢のセット・発射を行った\[13\]。また、抽せん会終了後は、同会場でスペシャルライブを行った。（全てのジャンボ宝くじで行われる抽せん会のゲストは抽せん会終了後にアトラクションを行う事が恒例となっている）バレンタインジャンボでは、宝くじ売り場限定ながら、抽選でスペシャルライブ付の抽せん会参加のキャンペーン（20枚以上購入で応募はがきをもらえる）を大々的に行った。
 
 ## 脚注
 

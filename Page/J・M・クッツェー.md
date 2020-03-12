@@ -5,19 +5,19 @@
 
 ## 略歴
 
-クッツェーは[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")の[ケープタウン](https://ja.wikipedia.org/wiki/ケープタウン "wikilink")のモーブレーで、[アフリカーナー](https://ja.wikipedia.org/wiki/アフリカーナー "wikilink")の系譜にあたる父親ザカライアス・クッツェー（1912–1988）と母親ヴェラ・ヴェーメイエル・クッツェー（1904–1986）のあいだの第一子として生まれた。弟にデイヴィッド・クッツェー（1943-2010）がいる。少年時代をケープタウンと内陸の町[ヴスター](https://ja.wikipedia.org/wiki/ヴスター "wikilink")で、[ハイスクール](https://ja.wikipedia.org/wiki/ハイスクール "wikilink")と[大学](https://ja.wikipedia.org/wiki/大学 "wikilink")時代をケープタウンで過ごし──この間のエピソードは回想記風の作品『少年時代』（1997年）や『青年時代』（2002年）に詳しい──1960年に英文学の学位を、1961年に数学の学位を取得して[ケープタウン大学](https://ja.wikipedia.org/wiki/ケープタウン大学 "wikilink")を卒業。
+クッツェーは[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")の[ケープタウン](../Page/ケープタウン.md "wikilink")のモーブレーで、[アフリカーナー](../Page/アフリカーナー.md "wikilink")の系譜にあたる父親ザカライアス・クッツェー（1912–1988）と母親ヴェラ・ヴェーメイエル・クッツェー（1904–1986）のあいだの第一子として生まれた。弟にデイヴィッド・クッツェー（1943-2010）がいる。少年時代をケープタウンと内陸の町[ヴスター](https://ja.wikipedia.org/wiki/ヴスター "wikilink")で、[ハイスクール](https://ja.wikipedia.org/wiki/ハイスクール "wikilink")と[大学](../Page/大学.md "wikilink")時代をケープタウンで過ごし──この間のエピソードは回想記風の作品『少年時代』（1997年）や『青年時代』（2002年）に詳しい──1960年に英文学の学位を、1961年に数学の学位を取得して[ケープタウン大学](../Page/ケープタウン大学.md "wikilink")を卒業。
 
-1961年に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")に渡り、コンピューター[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")として働きながら、[フォード・マドックス・フォード](https://ja.wikipedia.org/wiki/フォード・マドックス・フォード "wikilink")について修士論文を書く。1963年にケープタウンに戻ってフィリパ・ジャバーと結婚。その後、1965年に渡米して[テキサス大学](https://ja.wikipedia.org/wiki/テキサス大学 "wikilink")オースティン校で学び、[サミュエル・ベケット](https://ja.wikipedia.org/wiki/サミュエル・ベケット "wikilink")の初期作品の言語学的研究で博士号を取得。[バッファローの](https://ja.wikipedia.org/wiki/バッファロー_\(ニューヨーク州\) "wikilink")[ニューヨーク州立大学](https://ja.wikipedia.org/wiki/ニューヨーク州立大学 "wikilink")で教壇に立ちながら作品を書き始める。この間1966年に息子ニコラスが、1968に娘ギゼラが誕生している。
+1961年に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")に渡り、コンピューター[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")として働きながら、[フォード・マドックス・フォード](https://ja.wikipedia.org/wiki/フォード・マドックス・フォード "wikilink")について修士論文を書く。1963年にケープタウンに戻ってフィリパ・ジャバーと結婚。その後、1965年に渡米して[テキサス大学](https://ja.wikipedia.org/wiki/テキサス大学 "wikilink")オースティン校で学び、[サミュエル・ベケット](../Page/サミュエル・ベケット.md "wikilink")の初期作品の言語学的研究で博士号を取得。[バッファローの](../Page/バッファロー_\(ニューヨーク州\).md "wikilink")[ニューヨーク州立大学](../Page/ニューヨーク州立大学.md "wikilink")で教壇に立ちながら作品を書き始める。この間1966年に息子ニコラスが、1968に娘ギゼラが誕生している。
 
-アメリカ合衆国永住を希望していたが、[ヴェトナム反戦の学内集会](https://ja.wikipedia.org/wiki/ベトナム戦争#反戦運動 "wikilink")（学内に警察が常駐することへの教職員の反対集会）に出ていたとき参加者全員が逮捕され起訴された（翌年全員が無罪）ことが原因で[ビザ取得がかなわず](https://ja.wikipedia.org/wiki/査証 "wikilink")、1971年に南アフリカに帰国して、1972年から[ケープタウン大学](https://ja.wikipedia.org/wiki/ケープタウン大学 "wikilink")で教職に就く。1974年に初作『ダスクランズ』を発表し、肉を食べないヴェジタリアンになる。
+アメリカ合衆国永住を希望していたが、[ヴェトナム反戦の学内集会](https://ja.wikipedia.org/wiki/ベトナム戦争#反戦運動 "wikilink")（学内に警察が常駐することへの教職員の反対集会）に出ていたとき参加者全員が逮捕され起訴された（翌年全員が無罪）ことが原因で[ビザ取得がかなわず](../Page/査証.md "wikilink")、1971年に南アフリカに帰国して、1972年から[ケープタウン大学](../Page/ケープタウン大学.md "wikilink")で教職に就く。1974年に初作『ダスクランズ』を発表し、肉を食べないヴェジタリアンになる。
 
-ケープタウン大学で2001年まで英文学、言語学、文学、クリエイティヴライティングなどを教えながら創作や講演を続けたが、2002年、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")の[アデレード](https://ja.wikipedia.org/wiki/アデレード "wikilink")に移住し、[アデレード大学](https://ja.wikipedia.org/wiki/アデレード大学 "wikilink")の英文学部名誉研究員となり、2006年3月にはオーストラリアの[市民権を取得する](https://ja.wikipedia.org/wiki/市民#市民権 "wikilink")。2003年までの6年間、[シカゴ大学](https://ja.wikipedia.org/wiki/シカゴ大学 "wikilink")社会思想委員会のメンバーでもあった。
+ケープタウン大学で2001年まで英文学、言語学、文学、クリエイティヴライティングなどを教えながら創作や講演を続けたが、2002年、[オーストラリア](../Page/オーストラリア.md "wikilink")の[アデレード](../Page/アデレード.md "wikilink")に移住し、[アデレード大学](../Page/アデレード大学.md "wikilink")の英文学部名誉研究員となり、2006年3月にはオーストラリアの[市民権を取得する](https://ja.wikipedia.org/wiki/市民#市民権 "wikilink")。2003年までの6年間、[シカゴ大学](../Page/シカゴ大学.md "wikilink")社会思想委員会のメンバーでもあった。
 
-1983年の『[マイケル・K](https://ja.wikipedia.org/wiki/マイケル・K "wikilink")』で、さらに1999年の『[恥辱](https://ja.wikipedia.org/wiki/恥辱 "wikilink")』でブッカー賞を受賞。これは同賞はじまって以来の初のダブル受賞だった（授賞式はいずれも欠席）。重層的な連想を引き起こしながら、無駄を削ぎ落とした硬質な文体で、人間存在の奥深くを描き出す作風は、実験的、寓意的、ポストモダンとさまざまに論評されてきたが、そのたぐいまれな倫理性とともに、同時代を生きるもっとも偉大な英語作家の一人として論じられることが多い。
+1983年の『[マイケル・K](../Page/マイケル・K.md "wikilink")』で、さらに1999年の『[恥辱](https://ja.wikipedia.org/wiki/恥辱 "wikilink")』でブッカー賞を受賞。これは同賞はじまって以来の初のダブル受賞だった（授賞式はいずれも欠席）。重層的な連想を引き起こしながら、無駄を削ぎ落とした硬質な文体で、人間存在の奥深くを描き出す作風は、実験的、寓意的、ポストモダンとさまざまに論評されてきたが、そのたぐいまれな倫理性とともに、同時代を生きるもっとも偉大な英語作家の一人として論じられることが多い。
 
-ノーベル賞授賞時にスウェーデン・アカデミーがあげた理由は、「数々の装いを凝らし、[アウトサイダー](https://ja.wikipedia.org/wiki/アウトサイダー "wikilink")が巻き込まれていくところを意表を突くかたちで描いた。その小説は、緻密な構成と含みのある対話、すばらしい分析を特徴としている。しかし同時に、周到な懐疑心をもって、西欧文明のもつ残酷な合理性と見せかけの道徳性を容赦なく批判した」というもの。[アフリカ](../Page/アフリカ.md "wikilink")出身の受賞者としては、[ナイジェリア](../Page/ナイジェリア.md "wikilink")の[ウォーレ・ショインカ](https://ja.wikipedia.org/wiki/ウォーレ・ショインカ "wikilink")、[エジプト](../Page/エジプト.md "wikilink")の[ナギーブ・マフフーズ](https://ja.wikipedia.org/wiki/ナギーブ・マフフーズ "wikilink")、南アフリカの[ナディン・ゴーディマー](https://ja.wikipedia.org/wiki/ナディン・ゴーディマー "wikilink")についで4人目であった。[マスコミ](https://ja.wikipedia.org/wiki/マスコミ "wikilink")嫌いで知られるクッツェーは、[2003年](../Page/2003年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")に[ストックホルム](../Page/ストックホルム.md "wikilink")で行われた授賞式には出席したが、[記者会見](https://ja.wikipedia.org/wiki/記者会見 "wikilink")はしなかった。
+ノーベル賞授賞時にスウェーデン・アカデミーがあげた理由は、「数々の装いを凝らし、[アウトサイダー](../Page/アウトサイダー.md "wikilink")が巻き込まれていくところを意表を突くかたちで描いた。その小説は、緻密な構成と含みのある対話、すばらしい分析を特徴としている。しかし同時に、周到な懐疑心をもって、西欧文明のもつ残酷な合理性と見せかけの道徳性を容赦なく批判した」というもの。[アフリカ](../Page/アフリカ.md "wikilink")出身の受賞者としては、[ナイジェリア](../Page/ナイジェリア.md "wikilink")の[ウォーレ・ショインカ](../Page/ウォーレ・ショインカ.md "wikilink")、[エジプト](../Page/エジプト.md "wikilink")の[ナギーブ・マフフーズ](../Page/ナギーブ・マフフーズ.md "wikilink")、南アフリカの[ナディン・ゴーディマー](../Page/ナディン・ゴーディマー.md "wikilink")についで4人目であった。[マスコミ](https://ja.wikipedia.org/wiki/マスコミ "wikilink")嫌いで知られるクッツェーは、[2003年](../Page/2003年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[ストックホルム](../Page/ストックホルム.md "wikilink")で行われた授賞式には出席したが、[記者会見](../Page/記者会見.md "wikilink")はしなかった。
 
-2006年9月末、[国際サミュエル・ベケット・シンポジウム](https://ja.wikipedia.org/wiki/国際サミュエル・ベケット・シンポジウム "wikilink")に特別ゲストとして招かれて初来日。さらに2007年12月に[国際交流基金](https://ja.wikipedia.org/wiki/国際交流基金 "wikilink")の招きでパートナーのドロシー・ドライヴァーといっしょに再来日。2週間にわたって金沢、京都、広島、松山、長崎など日本各地を旅行し、17日には東京で開かれた自作朗読会では、9月に出版された作品『*Diary of a Bad Year*』をアレンジして朗読した。
+2006年9月末、[国際サミュエル・ベケット・シンポジウム](https://ja.wikipedia.org/wiki/国際サミュエル・ベケット・シンポジウム "wikilink")に特別ゲストとして招かれて初来日。さらに2007年12月に[国際交流基金](../Page/国際交流基金.md "wikilink")の招きでパートナーのドロシー・ドライヴァーといっしょに再来日。2週間にわたって金沢、京都、広島、松山、長崎など日本各地を旅行し、17日には東京で開かれた自作朗読会では、9月に出版された作品『*Diary of a Bad Year*』をアレンジして朗読した。
 
 2009年8月、『少年時代』『青年時代』と続いた三部から構成される自伝的小説の最終巻『サマータイム』を発表。みたびブッカー賞を受賞するかと話題になったが実現はしなかった。この自伝的三部作は2011年に『*Scenes from Provincial Life*』（邦訳『サマータイム、青年時代、少年時代──辺境からの三つの〈自伝〉』）として一巻にまとめられた。
 
@@ -38,12 +38,12 @@
       - [くぼたのぞみ](https://ja.wikipedia.org/wiki/くぼたのぞみ "wikilink")訳 『ダスクランズ』人文書院, 2017.9 ISBN 978-4409130384
   - 『石の女』 *In the Heart of the Country* (1977) ISBN 4-88319-035-8
       - [村田靖子](https://ja.wikipedia.org/wiki/村田靖子 "wikilink")訳 スリーエーネットワーク,1997.6 アフリカ文学叢書
-  - 『[夷狄を待ちながら](https://ja.wikipedia.org/wiki/夷狄を待ちながら "wikilink")』 *Waiting for the Barbarians* (1980) ISBN 4-08-760452-7
+  - 『[夷狄を待ちながら](../Page/夷狄を待ちながら.md "wikilink")』 *Waiting for the Barbarians* (1980) ISBN 4-08-760452-7
       - [土岐恒二](https://ja.wikipedia.org/wiki/土岐恒二 "wikilink")訳　集英社ギャラリー「世界の文学」1991, 集英社文庫 2003 　
-  - 『[マイケル・K](https://ja.wikipedia.org/wiki/マイケル・K "wikilink")』 *Life and Times of Michael K* (1983) ISBN 4-480-83100-2
+  - 『[マイケル・K](../Page/マイケル・K.md "wikilink")』 *Life and Times of Michael K* (1983) ISBN 4-480-83100-2
       - [くぼたのぞみ](https://ja.wikipedia.org/wiki/くぼたのぞみ "wikilink")訳　筑摩書房 1989.9, ちくま文庫 2006.8, 岩波文庫 2015.4
   - 『[敵あるいはフォー](https://ja.wikipedia.org/wiki/敵あるいはフォー "wikilink")』 *Foe* (1986) ISBN 0-436-10298-6
-      - [本橋哲也](https://ja.wikipedia.org/wiki/本橋哲也 "wikilink")訳 白水社,1992.4.
+      - [本橋哲也](../Page/本橋哲也.md "wikilink")訳 白水社,1992.4.
   - *White Writing,* Yale University Press, New Haven (1988) ISBN 0-300-03974-3
   - 『[鉄の時代](https://ja.wikipedia.org/wiki/鉄の時代 "wikilink")』 *Age of Iron* (1990) ISBN 4-309-70951-6
       - [くぼたのぞみ](https://ja.wikipedia.org/wiki/くぼたのぞみ "wikilink")訳　世界文学全集　河出書房新社, 2008.9　
@@ -53,8 +53,8 @@
   - 『少年時代』 *Boyhood: Scenes from Provincial Life,* Harvill Secker, London (1997) ISBN 0-436-20450-9
       - [くぼたのぞみ](https://ja.wikipedia.org/wiki/くぼたのぞみ "wikilink")訳 みすず書房,1999.8, インスクリプト, 2014.6『サマータイム、青年時代、少年時代──辺境からの三つの〈自伝〉』に改訳収録
   - *Giving Offense: Essays on Censorship,* The University of Chicago Press, (1997) ISBN 0-226-11176-8
-  - 『[恥辱](https://ja.wikipedia.org/wiki/恥辱_\(小説\) "wikilink")』 *Disgrace* (1999) ISBN 0-436-20489-4
-      - [鴻巣友季子](https://ja.wikipedia.org/wiki/鴻巣友季子 "wikilink")訳　早川書房 2000.11. ハヤカワepi文庫 2006.7
+  - 『[恥辱](../Page/恥辱_\(小説\).md "wikilink")』 *Disgrace* (1999) ISBN 0-436-20489-4
+      - [鴻巣友季子](../Page/鴻巣友季子.md "wikilink")訳　早川書房 2000.11. ハヤカワepi文庫 2006.7
   - 『動物のいのち』 *The Lives of Animals* (2001) ISBN 4-272-60046-X
       - 森祐希子,尾関周二訳　大月書店,2003.11.
   - 『青年時代』*Youth: Scenes from Provincial Life II,* Harvill Secker, London （[2002年](../Page/2002年.md "wikilink")） ISBN 0-436-27593-7

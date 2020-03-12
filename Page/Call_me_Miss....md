@@ -8,8 +8,8 @@
   - 約1年ぶりにリリースされた6thオリジナルアルバム。前作に引き続き、DVD付き初回限定盤 (3360円) とCDのみの通常盤(3059円) の2種類がある。
   - 初回限定盤のDVDには[横浜ランドマークタワー](../Page/横浜ランドマークタワー.md "wikilink")で行われたXmas Live、シングル2曲のビデオクリップを収録。また初回限定盤にはボーナストラックも収録されている。
   - タイトルには「今年で20歳になるので、大人の女性と呼んでほしい」という意味が込められている。
-  - 前作に引き続き[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録。
-  - このアルバムのリリース後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")～[4月6日](../Page/4月6日.md "wikilink")にかけて、[Zepp Tokyoなどの全国の](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")でツアーを行った。
+  - 前作に引き続き[オリコン初登場](../Page/オリコンチャート.md "wikilink")2位を記録。
+  - このアルバムのリリース後、[2006年](../Page/2006年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")～[4月6日](../Page/4月6日.md "wikilink")にかけて、[Zepp Tokyoなどの全国の](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")でツアーを行った。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 2.  **[Kirakuni](https://ja.wikipedia.org/wiki/Kirakuni/Together "wikilink")**
       -
         作詞・作曲：James Harris,III\&Terry Lewis-Emi/April Music/ Flyte Tyme Tunes (ASCAP),Crystal Kay／Produced by Jimmy Jam & Terry Lewis for Flyte Tyme Productions, Inc.
-        先行シングル。この曲のプロデュースは、[ジャネット・ジャクソン](https://ja.wikipedia.org/wiki/ジャネット・ジャクソン "wikilink")などを手がけたことのある[米国の人気プロデューサー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、ジミー・ジャム&テリー・ルイス ([Jam & Lewis](https://ja.wikipedia.org/wiki/:en:Jimmy_Jam_and_Terry_Lewis "wikilink")) が担当。[忍者](../Page/忍者.md "wikilink")をイメージしたビデオクリップも話題に。
+        先行シングル。この曲のプロデュースは、[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")などを手がけたことのある[米国の人気プロデューサー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、ジミー・ジャム&テリー・ルイス ([Jam & Lewis](https://ja.wikipedia.org/wiki/:en:Jimmy_Jam_and_Terry_Lewis "wikilink")) が担当。[忍者](../Page/忍者.md "wikilink")をイメージしたビデオクリップも話題に。
 3.  **恋におちたら**
       -
         作詞：H.U.B.／作曲：[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink")／Produced by Shingo.S for 813
@@ -61,7 +61,7 @@
 14. **涙があふれても**
       -
         作詞：西尾佐栄子／作曲：[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink")／Produced by [村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
-        「Two As One」カップリング曲として収録されたバラード曲。映画「[ダーク・ウォーター](https://ja.wikipedia.org/wiki/ダーク・ウォーター "wikilink")」国内イメージソング。
+        「Two As One」カップリング曲として収録されたバラード曲。映画「[ダーク・ウォーター](../Page/ダーク・ウォーター.md "wikilink")」国内イメージソング。
 15. **Kiss (Orchestra Version)**
       -
         作詞：Satomi／作曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")／Produced by 河野伸
@@ -69,7 +69,7 @@
 
 ### DVD(初回限定盤のみ)
 
-1.  恋におちたら ([Music Video](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink"))
+1.  恋におちたら ([Music Video](../Page/ミュージック・ビデオ.md "wikilink"))
 2.  Two As One (Music Video)
 3.  恋におちたら (Live Version)
 4.  Two As One (Live Version)

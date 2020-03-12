@@ -7,7 +7,7 @@
 
 [1996年](../Page/1996年.md "wikilink")まで[大沢伸一](../Page/大沢伸一.md "wikilink")がリーダーを務め、[ジャズ](../Page/ジャズ.md "wikilink")楽曲を中心としたバンド、[MONDO GROSSOのメンバーとしてMCを担当](../Page/MONDO_GROSSO.md "wikilink")。バンド脱退後、ソロアーティストとしての活動を中心に、アルバムリリースや様々なジャンルのアーティストとの客演などを精力的に行う。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代中頃に[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")などで活躍していた[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ、[NAKED ARTZのMCであった](https://ja.wikipedia.org/wiki/NAKED_ARTZ "wikilink")[MILI](https://ja.wikipedia.org/wiki/MILI "wikilink")と共に音楽活動を新たにスタートさせる。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代後半にはMILI、DJチーム「BEAT TRICKS」のメンバーだった[DJ SUWA](https://ja.wikipedia.org/wiki/DJ_SUWA "wikilink")、バンド「Naked Tracks」のドラマーであった[M.FUJITANI](https://ja.wikipedia.org/wiki/M.FUJITANI "wikilink")、そしてM.FUJITANIと「Cool Struttin'」というバンドで活動していたギタリスト[GURO](https://ja.wikipedia.org/wiki/GURO "wikilink")と共にヒップホップグループ、[瘋癲](../Page/瘋癲_\(バンド\).md "wikilink")（ふうてん）を結成。さらに2008年からは瘋癲のエンジニアとしてバンドのボトムを支えるTakaki ITO (nagomi-Studio) と、[DJ KRUSH率いた](../Page/DJ_KRUSH.md "wikilink")「[流 -RYU-](https://ja.wikipedia.org/wiki/流_\(音楽ユニット\) "wikilink")」のメンバーとしても活動したサクカエイセイ (ex DJ SAK)とのユニット「ABSTRACTION DUBSTRACTION」にも参加。京都を中心に活動を展開中。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代中頃に[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")などで活躍していた[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ、[NAKED ARTZのMCであった](https://ja.wikipedia.org/wiki/NAKED_ARTZ "wikilink")[MILI](https://ja.wikipedia.org/wiki/MILI "wikilink")と共に音楽活動を新たにスタートさせる。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代後半にはMILI、DJチーム「BEAT TRICKS」のメンバーだった[DJ SUWA](https://ja.wikipedia.org/wiki/DJ_SUWA "wikilink")、バンド「Naked Tracks」のドラマーであった[M.FUJITANI](https://ja.wikipedia.org/wiki/M.FUJITANI "wikilink")、そしてM.FUJITANIと「Cool Struttin'」というバンドで活動していたギタリスト[GURO](https://ja.wikipedia.org/wiki/GURO "wikilink")と共にヒップホップグループ、[瘋癲](../Page/瘋癲_\(バンド\).md "wikilink")（ふうてん）を結成。さらに2008年からは瘋癲のエンジニアとしてバンドのボトムを支えるTakaki ITO (nagomi-Studio) と、[DJ KRUSH率いた](../Page/DJ_KRUSH.md "wikilink")「[流 -RYU-](../Page/流_\(音楽ユニット\).md "wikilink")」のメンバーとしても活動したサクカエイセイ (ex DJ SAK)とのユニット「ABSTRACTION DUBSTRACTION」にも参加。京都を中心に活動を展開中。
 
 また、母国語である[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")の他、[英語](../Page/英語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")共に流暢に使いこなす。
 
@@ -29,7 +29,7 @@
 
 ### アルバム
 
-  - CLUB NEW LIGHT　1993年（[近藤等則](https://ja.wikipedia.org/wiki/近藤等則 "wikilink")）
+  - CLUB NEW LIGHT　1993年（[近藤等則](../Page/近藤等則.md "wikilink")）
   - MONDO GROSSO 1993年（MONDO GROSSO）
   - MARBLE 1993年（MONDO GROSSO）
   - KYOTO JAZZ MASSIVE 1994年 （Various Artist）

@@ -5,7 +5,7 @@
 
 ## 概要
 
-シングル『[Real Face](../Page/Real_Face.md "wikilink")』、DVD『[Real Face Film](https://ja.wikipedia.org/wiki/Real_Face#Real_Face_Film "wikilink")』との同時発売となった、デビューアルバム。デビューアルバムにして、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")と銘打った、異例の形で発売された。以前から、テレビ番組やコンサートで披露されていた楽曲に、新曲7曲を加えた構成となっている。9曲目は、本来「REMEMBER」という曲が収録される予定だったが、公式サイトで詳細を発表した数日後に、変更された（後に同タイトルの「REMEMBER」は、13枚目のシングル「[CHANGE UR WORLD](https://ja.wikipedia.org/wiki/CHANGE_UR_WORLD "wikilink")」に収録されるが、同曲なのか「SPECIAL HAPPINESS」への改名による変更なのかは不明）。
+シングル『[Real Face](../Page/Real_Face.md "wikilink")』、DVD『[Real Face Film](https://ja.wikipedia.org/wiki/Real_Face#Real_Face_Film "wikilink")』との同時発売となった、デビューアルバム。デビューアルバムにして、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")と銘打った、異例の形で発売された。以前から、テレビ番組やコンサートで披露されていた楽曲に、新曲7曲を加えた構成となっている。9曲目は、本来「REMEMBER」という曲が収録される予定だったが、公式サイトで詳細を発表した数日後に、変更された（後に同タイトルの「REMEMBER」は、13枚目のシングル「[CHANGE UR WORLD](https://ja.wikipedia.org/wiki/CHANGE_UR_WORLD "wikilink")」に収録されるが、同曲なのか「SPECIAL HAPPINESS」への改名による変更なのかは不明）。
 
 ## 収録曲
 
@@ -13,11 +13,11 @@
 
 1.  **SHE SAID...** (3:45)
       -
-        作詞：田口亮・Axel G、Rap詞：[JOKER](https://ja.wikipedia.org/wiki/田中聖 "wikilink")、作曲：Katsumi Ohnishi、編曲：FLYING GRIND
+        作詞：田口亮・Axel G、Rap詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：Katsumi Ohnishi、編曲：FLYING GRIND
     <!-- end list -->
       - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")出演 [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[Happy\!](https://ja.wikipedia.org/wiki/Happy!_\(漫画\)#テレビドラマ "wikilink")』挿入歌
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[KAT-TUN×3](https://ja.wikipedia.org/wiki/KAT-TUN×3 "wikilink")』エンディングテーマ
-      - [文化放送](../Page/文化放送.md "wikilink")『[R-One KAT-TUN](https://ja.wikipedia.org/wiki/R-One_KAT-TUN "wikilink")』オープニングテーマ
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[KAT-TUN×3](../Page/KAT-TUN×3.md "wikilink")』エンディングテーマ
+      - [文化放送](../Page/文化放送.md "wikilink")『[R-One KAT-TUN](../Page/R-One_KAT-TUN.md "wikilink")』オープニングテーマ
 2.  **NEVER AGAIN** (3:49)
       -
         作詞：SPIN、Rap詞：JOKER、作曲：[JOEY CARBONE](https://ja.wikipedia.org/wiki/JOEY_CARBONE "wikilink")、STEVEN LEE、編曲: FLYING GRIND
@@ -29,10 +29,10 @@
         作詞：hamai、作曲：[コモリタミノル](../Page/小森田実.md "wikilink")、編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
 5.  **BLUE TUESDAY**※ (4:37)
       -
-        作詞：[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")、作曲：谷本新、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
+        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：谷本新、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
 6.  **RHODESIA**※ (5:09)
       -
-        作詞：相田毅、作曲・編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：相田毅、作曲・編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
         声優ユニット『Weiβ Kreuz』の楽曲「**Rhodesia**」と歌詞が一部酷似している。（作詞は本曲と同じ相田毅）
 7.  **GOLD** (4:54)
       -
@@ -43,10 +43,10 @@
 9.  **SPECIAL HAPPINESS**※ - [亀梨和也](../Page/亀梨和也.md "wikilink")・田口淳之介 (5:05)
       -
         作詞：K2、作曲：[Gajin](../Page/Gajin.md "wikilink")、編曲：知野芳彦
-10. **ONE ON ONE**※ - [田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")・[中丸雄一](https://ja.wikipedia.org/wiki/中丸雄一 "wikilink") (5:01)
+10. **ONE ON ONE**※ - [田中聖](../Page/田中聖.md "wikilink")・[中丸雄一](../Page/中丸雄一.md "wikilink") (5:01)
       -
         作詞：JOKER・中丸雄一、作曲：mo'doo-・井筒 "Growth" 伸太郎、編曲：井筒 "Growth" 伸太郎・江口貴勅
-11. **BUTTERFLY**※ - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[上田竜也](https://ja.wikipedia.org/wiki/上田竜也 "wikilink") (4:53)
+11. **BUTTERFLY**※ - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[上田竜也](../Page/上田竜也.md "wikilink") (4:53)
       -
         作詞：赤西仁・上田竜也、作曲・編曲：velvetronica
 12. **RUSH OF LIGHT**※ (4:27)
@@ -61,7 +61,7 @@
         [Sun Boy'zという香港歌手が](https://ja.wikipedia.org/wiki/Sun_Boy'z "wikilink")「**3+1=1**」というタイトルでカバーしている。
 15. **[Real Face](../Page/Real_Face.md "wikilink")**\#1 (4:58)
       -
-        作詞：[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")、Rap詞：JOKER、作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")、編曲：松本孝弘・[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞：[スガシカオ](../Page/スガシカオ.md "wikilink")、Rap詞：JOKER、作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")、編曲：松本孝弘・[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       - 田口淳之介出演 TBS系ドラマ『Happy\!』『[Happy\!(2)](https://ja.wikipedia.org/wiki/Happy!_\(漫画\)#テレビドラマ "wikilink")』主題歌
     <!-- end list -->

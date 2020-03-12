@@ -1,11 +1,11 @@
 > この記事は[R.O.B](https://ja.wikipedia.org/wiki/R.O.B)から翻訳されています。
 
 
-**R.O.B**（アール・オー・ビー）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")を中心に活躍する[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。名前はそれぞれのイメージカラー「RED」「ORANGE」「BLUE」の頭文字から由来している。
+**R.O.B**（アール・オー・ビー）は、[福岡県](../Page/福岡県.md "wikilink")を中心に活躍する[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。名前はそれぞれのイメージカラー「RED」「ORANGE」「BLUE」の頭文字から由来している。
 
-[NHK総合テレビ系列で放送されていた](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「[熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")」に出場し、437KBという高得点で、トップ合格の実力を持つ。「夢のワンダーランドへ」この曲は郊外型アミューズメント施設[楽市楽座のテレビCMに起用された](../Page/ワイドレジャー.md "wikilink")。そのCMには[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")時代の[スザンヌも出演している](../Page/スザンヌ_\(タレント\).md "wikilink")。
+[NHK総合テレビ系列で放送されていた](../Page/NHK総合テレビジョン.md "wikilink")「[熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")」に出場し、437KBという高得点で、トップ合格の実力を持つ。「夢のワンダーランドへ」この曲は郊外型アミューズメント施設[楽市楽座のテレビCMに起用された](../Page/ワイドレジャー.md "wikilink")。そのCMには[ローカルタレント](../Page/ローカルタレント.md "wikilink")時代の[スザンヌも出演している](../Page/スザンヌ_\(タレント\).md "wikilink")。
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列の「ストリートファイターズ」でも人気を博し、同番組の総合月間ランキングでもベスト10入りを果すなど、名前を全国区に売り出した。ファンからの投票が特に多く、長くランキングに残る。さらに、上記2つの全国系列のテレビに出場したことから、インディーズでの最初のマキシシングルとなった。[オリコンインディーズシングルランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、ウィークリー20位となり、ランクインを果した。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列の「ストリートファイターズ」でも人気を博し、同番組の総合月間ランキングでもベスト10入りを果すなど、名前を全国区に売り出した。ファンからの投票が特に多く、長くランキングに残る。さらに、上記2つの全国系列のテレビに出場したことから、インディーズでの最初のマキシシングルとなった。[オリコンインディーズシングルランキングで](../Page/オリコンチャート.md "wikilink")、ウィークリー20位となり、ランクインを果した。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")をもって解散。
 
@@ -20,7 +20,7 @@
 
   - 立野翔（たての しょう）
       - [1984年](../Page/1984年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")生まれ
-      - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、ピアニカ、コーラス、[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")担当
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ピアニカ、コーラス、[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")担当
       - 福岡県北九州市出身
 
 <!-- end list -->
@@ -168,7 +168,7 @@
 
 ## レギュラー出演
 
-  - [MTM](https://ja.wikipedia.org/wiki/MTM "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[MBS毎日放送](../Page/毎日放送.md "wikilink")）
+  - [MTM](../Page/MTM.md "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[MBS毎日放送](../Page/毎日放送.md "wikilink")）
 
 ## 外部リンク
 

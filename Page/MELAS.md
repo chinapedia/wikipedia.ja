@@ -1,11 +1,11 @@
 > この記事は[MELAS](https://ja.wikipedia.org/wiki/MELAS)から翻訳されています。
 
 
-**ミトコンドリア脳筋症・乳酸アシドーシス・脳卒中様発作症候群** (**M**itochondrial myopathy, **E**ncephalopathy, **L**actic **A**cidosis, **S**troke-like episodes)あるいは略して**MELAS**（メラス）は反復する**脳卒中様発作**を特徴とする[ミトコンドリア病](https://ja.wikipedia.org/wiki/ミトコンドリア病 "wikilink")の一種である（以下"MELAS"と呼ぶ）。MELASの80%が[mtDNA](https://ja.wikipedia.org/wiki/mtDNA "wikilink")の点突然変異（3243A→G変異）により引き起こされる。
+**ミトコンドリア脳筋症・乳酸アシドーシス・脳卒中様発作症候群** (**M**itochondrial myopathy, **E**ncephalopathy, **L**actic **A**cidosis, **S**troke-like episodes)あるいは略して**MELAS**（メラス）は反復する**脳卒中様発作**を特徴とする[ミトコンドリア病](../Page/ミトコンドリア病.md "wikilink")の一種である（以下"MELAS"と呼ぶ）。MELASの80%が[mtDNA](https://ja.wikipedia.org/wiki/mtDNA "wikilink")の点突然変異（3243A→G変異）により引き起こされる。
 
 ## 症状
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Melas_dwi_ax.jpg "wikilink")。脳梗塞類似病変（白く見えるところ）を向かって左側に認める\]\] MELASはミトコンドリアの障害で[ATP産生がうまくいかなくなる](../Page/アデノシン三リン酸.md "wikilink")[ミトコンドリア病](https://ja.wikipedia.org/wiki/ミトコンドリア病 "wikilink")（ミトコンドリア脳筋症）の1種である。5～15歳で好発し、知能低下や[感音性難聴](https://ja.wikipedia.org/wiki/感音性難聴 "wikilink")、低身長、易疲労性、[心筋症](../Page/心筋症.md "wikilink")、筋力低下といったミトコンドリア病に共通する神経・筋症状のほかに、繰り返す**脳卒中様発作**（[頭痛](../Page/頭痛.md "wikilink")・[嘔吐](../Page/嘔吐.md "wikilink")・[痙攣](../Page/痙攣.md "wikilink")・[意識障害](https://ja.wikipedia.org/wiki/意識障害 "wikilink")・[片麻痺](https://ja.wikipedia.org/wiki/片麻痺 "wikilink")など）が特徴的で、この発作時に[CT](https://ja.wikipedia.org/wiki/CT "wikilink")や[MRI](https://ja.wikipedia.org/wiki/MRI "wikilink")（拡散強調画像）をとると脳梗塞に類似した病変を認める（ただし、この病変の発症機序は不明）。
+[thumb](https://ja.wikipedia.org/wiki/画像:Melas_dwi_ax.jpg "wikilink")。脳梗塞類似病変（白く見えるところ）を向かって左側に認める\]\] MELASはミトコンドリアの障害で[ATP産生がうまくいかなくなる](../Page/アデノシン三リン酸.md "wikilink")[ミトコンドリア病](../Page/ミトコンドリア病.md "wikilink")（ミトコンドリア脳筋症）の1種である。5～15歳で好発し、知能低下や[感音性難聴](https://ja.wikipedia.org/wiki/感音性難聴 "wikilink")、低身長、易疲労性、[心筋症](../Page/心筋症.md "wikilink")、筋力低下といったミトコンドリア病に共通する神経・筋症状のほかに、繰り返す**脳卒中様発作**（[頭痛](../Page/頭痛.md "wikilink")・[嘔吐](../Page/嘔吐.md "wikilink")・[痙攣](../Page/痙攣.md "wikilink")・[意識障害](../Page/意識障害.md "wikilink")・[片麻痺](../Page/片麻痺.md "wikilink")など）が特徴的で、この発作時に[CT](https://ja.wikipedia.org/wiki/CT "wikilink")や[MRI](https://ja.wikipedia.org/wiki/MRI "wikilink")（拡散強調画像）をとると脳梗塞に類似した病変を認める（ただし、この病変の発症機序は不明）。
 
 ## 検査所見
 
@@ -17,7 +17,7 @@ MELASの80%はミトコンドリアDNAの[点変異](https://ja.wikipedia.org/wi
 
 ## 治療
 
-現在、発症後の治療法は対症療法にとどまるが、[2015年](../Page/2015年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、英国議会[上院が](https://ja.wikipedia.org/wiki/貴族院_\(イギリス\) "wikilink")、ミトコンドリアDNAに異常のある女性の受精卵から核を取り出し、正常なミトコンドリアDNAを持つ女性の脱核した卵子に移植するという手法で、3人の遺伝子をもつ受精卵を誕生させ、MELASの子供への遺伝を防止する技術を承認した\[1\]。この治療法は、ミトコンドリア脳筋症の根治的治療法として期待される一方で、英国上院での審議では「[デザイナーベビー](../Page/デザイナーベビー.md "wikilink")」につながるとの倫理上の懸念から反対意見や慎重論が根強かった\[2\]。
+現在、発症後の治療法は対症療法にとどまるが、[2015年](../Page/2015年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、英国議会[上院が](../Page/貴族院_\(イギリス\).md "wikilink")、ミトコンドリアDNAに異常のある女性の受精卵から核を取り出し、正常なミトコンドリアDNAを持つ女性の脱核した卵子に移植するという手法で、3人の遺伝子をもつ受精卵を誕生させ、MELASの子供への遺伝を防止する技術を承認した\[1\]。この治療法は、ミトコンドリア脳筋症の根治的治療法として期待される一方で、英国上院での審議では「[デザイナーベビー](../Page/デザイナーベビー.md "wikilink")」につながるとの倫理上の懸念から反対意見や慎重論が根強かった\[2\]。
 
 [2013年](../Page/2013年.md "wikilink")に日本においても[コエンザイムQ10](https://ja.wikipedia.org/wiki/コエンザイムQ10 "wikilink")類似の薬剤の臨床試験が開始された\[3\]。
 

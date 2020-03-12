@@ -1,7 +1,7 @@
 > この記事は[DVDFab HD Decrypter](https://ja.wikipedia.org/wiki/DVDFab_HD_Decrypter)から翻訳されています。
 
 
-**DVDFab**（ディーブイディーファブ）は、[中国の](../Page/中華人民共和国.md "wikilink")**フェンタオソフトウェア**→**ディーブイディーファブソフトウェア**によって開発された、[DVD](../Page/DVD.md "wikilink")や[Blu-ray Discを](../Page/Blu-ray_Disc.md "wikilink")[リッピング](https://ja.wikipedia.org/wiki/リッピング "wikilink")・[バックアップ](../Page/バックアップ.md "wikilink")するための[ソフトウェアである](../Page/アプリケーションソフトウェア.md "wikilink")。
+**DVDFab**（ディーブイディーファブ）は、[中国の](../Page/中華人民共和国.md "wikilink")**フェンタオソフトウェア**→**ディーブイディーファブソフトウェア**によって開発された、[DVD](../Page/DVD.md "wikilink")や[Blu-ray Discを](../Page/Blu-ray_Disc.md "wikilink")[リッピング](../Page/リッピング.md "wikilink")・[バックアップ](../Page/バックアップ.md "wikilink")するための[ソフトウェアである](../Page/アプリケーションソフトウェア.md "wikilink")。
 
 ## 概要
 
@@ -22,8 +22,8 @@
 ### フリー版
 
   - DVDFab HD Decrypterは製品版の機能を大幅に制限した[フリーウェア](../Page/フリーウェア.md "wikilink")であり、[CSS等を解除してリッピングすることができる](../Page/Content_Scramble_System.md "wikilink")。
-  - バージョン5.0.0.0 [Beta以降では無料版の](../Page/ベータ版.md "wikilink")「DVDFab HD Decrypter」と有料版の「DVDFab」の[実行ファイル](https://ja.wikipedia.org/wiki/実行ファイル "wikilink")が統合され起動時に選択する方式になった。有料版の試用期間終了後は「DVDFab HD Decrypter」として動作する。
-  - フリー版は「フルディスク」、「メインムービー」に限定されている。フリー版でバックアップを行う場合、「DVDFab HD Decrypter」→「[DVD Shrink](https://ja.wikipedia.org/wiki/DVD_Shrink "wikilink")」、「[ImgTool Classic](https://ja.wikipedia.org/wiki/ImgTool_Classic "wikilink")」→「DVD Decrypter」という順序での使用例が挙げられる。
+  - バージョン5.0.0.0 [Beta以降では無料版の](../Page/ベータ版.md "wikilink")「DVDFab HD Decrypter」と有料版の「DVDFab」の[実行ファイル](../Page/実行ファイル.md "wikilink")が統合され起動時に選択する方式になった。有料版の試用期間終了後は「DVDFab HD Decrypter」として動作する。
+  - フリー版は「フルディスク」、「メインムービー」に限定されている。フリー版でバックアップを行う場合、「DVDFab HD Decrypter」→「[DVD Shrink](../Page/DVD_Shrink.md "wikilink")」、「[ImgTool Classic](https://ja.wikipedia.org/wiki/ImgTool_Classic "wikilink")」→「DVD Decrypter」という順序での使用例が挙げられる。
 
 ### 製品版
 
@@ -46,7 +46,7 @@
 ## その他
 
   - 「[DVD Decrypter](../Page/DVD_Decrypter.md "wikilink")」と名前は似ているが、別のソフトウェア（開発者も異なる）である。
-  - 「DVD Decrypter」より解除できる[コピーガード](https://ja.wikipedia.org/wiki/コピーガード "wikilink")が多い。
+  - 「DVD Decrypter」より解除できる[コピーガード](../Page/コピーガード.md "wikilink")が多い。
   - [西遊記](../Page/西遊記.md "wikilink")の[孫悟空](../Page/孫悟空.md "wikilink")を模したキャラクターをソフトのアイコンなどに使用している。
 
 ## 日本国内における著作権改正
@@ -62,7 +62,7 @@
   - [DVDFab Passkey](https://ja.wikipedia.org/wiki/DVDFab_Passkey "wikilink")
   - [AnyDVD HD](https://ja.wikipedia.org/wiki/AnyDVD_HD "wikilink")
   - [DVD Decrypter](../Page/DVD_Decrypter.md "wikilink")
-  - [DVD Shrink](https://ja.wikipedia.org/wiki/DVD_Shrink "wikilink")
+  - [DVD Shrink](../Page/DVD_Shrink.md "wikilink")
   - [ImgTool Classic](https://ja.wikipedia.org/wiki/ImgTool_Classic "wikilink")
   - [DVD](../Page/DVD.md "wikilink")
   - [DVD-Video](../Page/DVD-Video.md "wikilink")

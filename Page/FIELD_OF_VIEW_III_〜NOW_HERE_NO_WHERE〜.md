@@ -1,7 +1,7 @@
 > この記事は[FIELD OF VIEW III NOW HERE NO WHERE](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_III_NOW_HERE_NO_WHERE)から翻訳されています。
 
 
-『**FIELD OF VIEW III 〜NOW HERE NO WHERE〜**』（フィールド・オブ・ビュー・サード ナウ・ヒア・ノー・フェアー）は[FIELD OF VIEWの](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")3枚目のアルバム。
+『**FIELD OF VIEW III 〜NOW HERE NO WHERE〜**』（フィールド・オブ・ビュー・サード ナウ・ヒア・ノー・フェアー）は[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")3枚目のアルバム。
 
 ## 内容
 
@@ -13,7 +13,7 @@
 
 1.  **風よ**
       -
-        作詞:[浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink") 作曲:[小橋琢人](https://ja.wikipedia.org/wiki/小橋琢人 "wikilink") 編曲:[FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink") ・ [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+        作詞:[浅岡雄也](../Page/浅岡雄也.md "wikilink") 作曲:[小橋琢人](https://ja.wikipedia.org/wiki/小橋琢人 "wikilink") 編曲:[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink") ・ [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 2.  **終わらない恋〜ひとつになれる〜**
       -
         作詞:浅岡雄也 作曲:[新津健二](https://ja.wikipedia.org/wiki/新津健二 "wikilink") 編曲:FIELD OF VIEW
@@ -49,6 +49,6 @@
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")
+  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")
 
 [Category:FIELD_OF_VIEWのアルバム](https://ja.wikipedia.org/wiki/Category:FIELD_OF_VIEWのアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

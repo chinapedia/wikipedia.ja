@@ -1,7 +1,7 @@
 > この記事は[SO BAD](https://ja.wikipedia.org/wiki/SO_BAD)から翻訳されています。
 
 
-『**SO BAD**』（ソー・バッド）は、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")の3枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1992年](../Page/1992年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[ROCK IT RECORDSから発売](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")（[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はROCL-6004）。[1993年](../Page/1993年.md "wikilink")4月には、[ZAIN RECORDSから再発売された](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")（規格品番はZACL-2004）。
+『**SO BAD**』（ソー・バッド）は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の3枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[ROCK IT RECORDSから発売](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")（[規格品番](../Page/規格品番.md "wikilink")はROCL-6004）。[1993年](../Page/1993年.md "wikilink")4月には、[ZAIN RECORDSから再発売された](../Page/ZAIN_RECORDS.md "wikilink")（規格品番はZACL-2004）。
 
 ## 概要
 
@@ -9,12 +9,12 @@
 
 ## 収録曲
 
-  - 全曲、編曲:T-BOLAN･[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+  - 全曲、編曲:T-BOLAN･[明石昌夫](../Page/明石昌夫.md "wikilink")
 
 <!-- end list -->
 
 1.  **[じれったい愛](../Page/じれったい愛.md "wikilink")**
-      - 作詞･作曲:[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")
+      - 作詞･作曲:[森友嵐士](../Page/森友嵐士.md "wikilink")
     <!-- end list -->
       -
         5thシングル。
@@ -35,9 +35,9 @@
 6.  **あこがれていた大人になりたくて**
       - 作詞･作曲:森友嵐士
 7.  **壊れかけのHistory**
-      - 作詞:森友嵐士　作曲:[上野博文](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")
+      - 作詞:森友嵐士　作曲:[上野博文](../Page/T-BOLAN.md "wikilink")
 8.  **BOY**
-      - 作詞:森友嵐士･[青木和義](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")　作曲:森友嵐士
+      - 作詞:森友嵐士･[青木和義](../Page/T-BOLAN.md "wikilink")　作曲:森友嵐士
 9.  **SO BAD**
       - 作詞･作曲:森友嵐士
 10. **[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")**

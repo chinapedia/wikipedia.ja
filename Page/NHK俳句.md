@@ -1,9 +1,9 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-『**NHK俳句**』（エヌエイチケイはいく）は、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[俳句](https://ja.wikipedia.org/wiki/俳句 "wikilink")番組である。
+『**NHK俳句**』（エヌエイチケイはいく）は、[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[俳句](../Page/俳句.md "wikilink")番組である。
 
-元々は『**NHK俳壇**』と題して[1994年](../Page/1994年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から放送されたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月以降は当タイトルに変更された。また[2012年](../Page/2012年.md "wikilink")4月からは、毎月第4日曜放送分が初心者向けの俳句講座『**俳句さく咲く！**』（はいくさくさく）としてリニューアルされた。
+元々は『**NHK俳壇**』と題して[1994年](../Page/1994年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から放送されたが、[2005年](../Page/2005年.md "wikilink")4月以降は当タイトルに変更された。また[2012年](../Page/2012年.md "wikilink")4月からは、毎月第4日曜放送分が初心者向けの俳句講座『**俳句さく咲く！**』（はいくさくさく）としてリニューアルされた。
 
 ## 概要
 
@@ -17,27 +17,27 @@
 
 :\*[小林聡美](../Page/小林聡美.md "wikilink")（女優、第1週担当。2018年より出演）
 
-:\*[岸本葉子](https://ja.wikipedia.org/wiki/岸本葉子 "wikilink")（[エッセイスト](https://ja.wikipedia.org/wiki/エッセイスト "wikilink")、第2週担当。2015年より出演。2017年度までは全週担当していた）
+:\*[岸本葉子](../Page/岸本葉子.md "wikilink")（[エッセイスト](https://ja.wikipedia.org/wiki/エッセイスト "wikilink")、第2週担当。2015年より出演。2017年度までは全週担当していた）
 
 :\*[戸田菜穂](../Page/戸田菜穂.md "wikilink")（女優、第3週担当。2018年より出演）
 
   - 過去
 
-:\*[石井かおる](https://ja.wikipedia.org/wiki/石井かおる "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、現[金沢局](../Page/NHK金沢放送局.md "wikilink")）
+:\*[石井かおる](../Page/石井かおる.md "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、現[金沢局](../Page/NHK金沢放送局.md "wikilink")）
 
 :\*[西村弘](https://ja.wikipedia.org/wiki/西村弘 "wikilink")（アナウンサー、『NHK俳壇』時代）
 
 :\*[中村充](https://ja.wikipedia.org/wiki/中村充_\(アナウンサー\) "wikilink")（アナウンサー、『NHK俳壇』時代）
 
-:\*[桜井洋子](https://ja.wikipedia.org/wiki/桜井洋子 "wikilink")（アナウンサー、嘱託職）
+:\*[桜井洋子](../Page/桜井洋子.md "wikilink")（アナウンサー、嘱託職）
 
-:\*ナレーション（詠み人）：[酒井雄二](https://ja.wikipedia.org/wiki/酒井雄二 "wikilink")（[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")）2006年4月〜2012年3月
+:\*ナレーション（詠み人）：[酒井雄二](../Page/酒井雄二.md "wikilink")（[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")）2006年4月〜2012年3月
 
 ## 選者
 
   - 2019年度
 
-:\*[宇多喜代子](https://ja.wikipedia.org/wiki/宇多喜代子 "wikilink")（第1週）
+:\*[宇多喜代子](../Page/宇多喜代子.md "wikilink")（第1週）
 
 :\*[長嶋有](../Page/長嶋有.md "wikilink")（第2週）
 
@@ -83,7 +83,7 @@
 
 :\*[高柳克弘](https://ja.wikipedia.org/wiki/高柳克弘 "wikilink")（第2週）
 
-:\*[夏井いつき](https://ja.wikipedia.org/wiki/夏井いつき "wikilink")（第3週）
+:\*[夏井いつき](../Page/夏井いつき.md "wikilink")（第3週）
 
 :\*[櫂未知子](https://ja.wikipedia.org/wiki/櫂未知子 "wikilink")（第4週『俳句さく咲く！』）
 
@@ -122,7 +122,7 @@
 
   - 選者・講師
 
-:\*[宇多喜代子](https://ja.wikipedia.org/wiki/宇多喜代子 "wikilink")（2012年度）
+:\*[宇多喜代子](../Page/宇多喜代子.md "wikilink")（2012年度）
 
 :\*[神野紗希](https://ja.wikipedia.org/wiki/神野紗希 "wikilink")（2013年度）
 
@@ -140,13 +140,13 @@
 
 :\*2012年度
 
-:\*\*[石井正則](https://ja.wikipedia.org/wiki/石井正則 "wikilink")（[アリtoキリギリス](https://ja.wikipedia.org/wiki/アリtoキリギリス "wikilink")）（司会担当）
+:\*\*[石井正則](../Page/石井正則.md "wikilink")（[アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")）（司会担当）
 
 :\*\*[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")（[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")）（10月放送分の司会担当）
 
 :\*\*[我が家](../Page/我が家.md "wikilink")（[坪倉由幸](https://ja.wikipedia.org/wiki/坪倉由幸 "wikilink")・[杉山裕之](https://ja.wikipedia.org/wiki/杉山裕之 "wikilink")・[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")）
 
-:\*\*[福田花音](https://ja.wikipedia.org/wiki/福田花音 "wikilink")（[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）
+:\*\*[福田花音](../Page/福田花音.md "wikilink")（[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）
 
 :\*\*オープニングコーナー「おめざ！BY俳句男子」出演者
 
@@ -162,13 +162,13 @@
 
 :\*2013年度
 
-:\*\*[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")（[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")・[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")） （石田は生徒、井上は司会）
+:\*\*[NON STYLE](../Page/NON_STYLE.md "wikilink")（[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")・[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")） （石田は生徒、井上は司会）
 
 :\*\*[室井滋](https://ja.wikipedia.org/wiki/室井滋 "wikilink")
 
 :\*\*[廣田あいか](https://ja.wikipedia.org/wiki/廣田あいか "wikilink")
 
-:\*\*[冨浦智嗣](https://ja.wikipedia.org/wiki/冨浦智嗣 "wikilink")
+:\*\*[冨浦智嗣](../Page/冨浦智嗣.md "wikilink")
 
 :\*2014年度
 
@@ -188,7 +188,7 @@
 
 :\*\*「さく咲く\!ミニ句会」出演者・さく咲くセブン
 
-:\*\*\*[赤嶺総理](https://ja.wikipedia.org/wiki/赤嶺総理 "wikilink")（すぽっと→ピン芸人）・[三浦友加](https://ja.wikipedia.org/wiki/三浦唯歌 "wikilink")・舛方一真（[エレファンツ](https://ja.wikipedia.org/wiki/エレファンツ "wikilink")→舛方・高見）・シシオガイ・[おばたかずき](https://ja.wikipedia.org/wiki/おばたのお兄さん "wikilink")（[ひので](https://ja.wikipedia.org/wiki/ひので_\(お笑い\) "wikilink")→ピン芸人）・宮戸洋行（[GAG少年楽団](https://ja.wikipedia.org/wiki/GAG_\(お笑いトリオ\) "wikilink")）
+:\*\*\*[赤嶺総理](https://ja.wikipedia.org/wiki/赤嶺総理 "wikilink")（すぽっと→ピン芸人）・[三浦友加](https://ja.wikipedia.org/wiki/三浦唯歌 "wikilink")・舛方一真（[エレファンツ](https://ja.wikipedia.org/wiki/エレファンツ "wikilink")→舛方・高見）・シシオガイ・[おばたかずき](https://ja.wikipedia.org/wiki/おばたのお兄さん "wikilink")（[ひので](https://ja.wikipedia.org/wiki/ひので_\(お笑い\) "wikilink")→ピン芸人）・宮戸洋行（[GAG少年楽団](../Page/GAG_\(お笑いトリオ\).md "wikilink")）
 
 :\*2016年度
 
@@ -206,7 +206,7 @@
 
 :\*\*[加藤諒](../Page/加藤諒.md "wikilink")
 
-:\*\*[酒井敏也](https://ja.wikipedia.org/wiki/酒井敏也 "wikilink")
+:\*\*[酒井敏也](../Page/酒井敏也.md "wikilink")
 
 :\*\*[上西星来](https://ja.wikipedia.org/wiki/上西星来 "wikilink")（[東京パフォーマンスドール](../Page/東京パフォーマンスドール.md "wikilink")）
 
@@ -218,7 +218,7 @@
 
 :\*\*[加藤諒](../Page/加藤諒.md "wikilink")
 
-:\*\*[酒井敏也](https://ja.wikipedia.org/wiki/酒井敏也 "wikilink")
+:\*\*[酒井敏也](../Page/酒井敏也.md "wikilink")
 
 :\*\*[上西星来](https://ja.wikipedia.org/wiki/上西星来 "wikilink")（[東京パフォーマンスドール](../Page/東京パフォーマンスドール.md "wikilink")）
 

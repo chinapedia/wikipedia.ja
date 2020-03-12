@@ -1,9 +1,9 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK短歌**（エヌエイチケイたんか）は、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[短歌](https://ja.wikipedia.org/wiki/短歌 "wikilink")番組である。
+**NHK短歌**（エヌエイチケイたんか）は、[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[短歌](../Page/短歌.md "wikilink")番組である。
 
-元々は**NHK歌壇**と題して[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")から放送されたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")以降は当タイトルに変更された。また[2012年](../Page/2012年.md "wikilink")4月1日からは、毎月第4日曜放送分が初心者向けの短歌講座「**短歌de胸キュン**」としてリニューアルされた。
+元々は**NHK歌壇**と題して[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")から放送されたが、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")以降は当タイトルに変更された。また[2012年](../Page/2012年.md "wikilink")4月1日からは、毎月第4日曜放送分が初心者向けの短歌講座「**短歌de胸キュン**」としてリニューアルされた。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
   - 2019年度現在
 
-:\* 第1週・第2週 [星野真里](https://ja.wikipedia.org/wiki/星野真里 "wikilink")、第3週 [有森也実](https://ja.wikipedia.org/wiki/有森也実 "wikilink")
+:\* 第1週・第2週 [星野真里](../Page/星野真里.md "wikilink")、第3週 [有森也実](https://ja.wikipedia.org/wiki/有森也実 "wikilink")
 
   -
     レギュラー出演
@@ -24,18 +24,18 @@
 
   - 過去
 
-:\* [内藤啓史](https://ja.wikipedia.org/wiki/内藤啓史 "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+:\* [内藤啓史](../Page/内藤啓史.md "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
 
 :\* [濱中博久](../Page/濱中博久.md "wikilink")（アナウンサー、2010年度 - 2014年度）
 
-:\* [小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")（[スピードワゴン](../Page/スピードワゴン.md "wikilink")）（2014年8月放送分）
+:\* [小沢一敬](../Page/小沢一敬.md "wikilink")（[スピードワゴン](../Page/スピードワゴン.md "wikilink")）（2014年8月放送分）
 
-:\* [知花くらら](https://ja.wikipedia.org/wiki/知花くらら "wikilink")（2014年8月放送分）
+:\* [知花くらら](../Page/知花くらら.md "wikilink")（2014年8月放送分）
 
-:\* [剣幸](https://ja.wikipedia.org/wiki/剣幸 "wikilink")（2015年度 - 2017年度）
+:\* [剣幸](../Page/剣幸.md "wikilink")（2015年度 - 2017年度）
 
   -
-    ※なお、題名が「NHK歌壇」だった頃は、[俵万智](https://ja.wikipedia.org/wiki/俵万智 "wikilink")や[水原紫苑](../Page/水原紫苑.md "wikilink")、[梅内美華子](../Page/梅内美華子.md "wikilink")らの[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")や、語り部の[平野啓子](../Page/平野啓子.md "wikilink")が司会を務めたこともある。
+    ※なお、題名が「NHK歌壇」だった頃は、[俵万智](../Page/俵万智.md "wikilink")や[水原紫苑](../Page/水原紫苑.md "wikilink")、[梅内美華子](../Page/梅内美華子.md "wikilink")らの[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")や、語り部の[平野啓子](../Page/平野啓子.md "wikilink")が司会を務めたこともある。
 
 ## 選者
 
@@ -55,13 +55,13 @@
 
 :\* 2003年 - 2004年度：[松平盟子](../Page/松平盟子.md "wikilink")、[永田和宏](../Page/永田和宏.md "wikilink")、[小島ゆかり](https://ja.wikipedia.org/wiki/小島ゆかり "wikilink")、[福島泰樹](../Page/福島泰樹.md "wikilink")
 
-:\* 2005年 - 2006年度：[河野裕子](../Page/河野裕子.md "wikilink")、[佐佐木幸綱](https://ja.wikipedia.org/wiki/佐佐木幸綱 "wikilink")、[三枝昂之](https://ja.wikipedia.org/wiki/三枝昂之 "wikilink")、[山埜井喜美枝](https://ja.wikipedia.org/wiki/山埜井喜美枝 "wikilink")
+:\* 2005年 - 2006年度：[河野裕子](../Page/河野裕子.md "wikilink")、[佐佐木幸綱](https://ja.wikipedia.org/wiki/佐佐木幸綱 "wikilink")、[三枝昂之](../Page/三枝昂之.md "wikilink")、[山埜井喜美枝](../Page/山埜井喜美枝.md "wikilink")
 
-:\* 2007年 - 2008年度：栗木京子、[高野公彦](https://ja.wikipedia.org/wiki/高野公彦 "wikilink")、[辺見じゅん](https://ja.wikipedia.org/wiki/辺見じゅん "wikilink")、[川野里子](https://ja.wikipedia.org/wiki/川野里子 "wikilink")
+:\* 2007年 - 2008年度：栗木京子、[高野公彦](https://ja.wikipedia.org/wiki/高野公彦 "wikilink")、[辺見じゅん](../Page/辺見じゅん.md "wikilink")、[川野里子](https://ja.wikipedia.org/wiki/川野里子 "wikilink")
 
-:\* 2009年 - 2010年度：[今野寿美](https://ja.wikipedia.org/wiki/今野寿美 "wikilink")、[加藤治郎](https://ja.wikipedia.org/wiki/加藤治郎_\(歌人\) "wikilink")、[東直子](https://ja.wikipedia.org/wiki/東直子 "wikilink")、[米川千嘉子](https://ja.wikipedia.org/wiki/米川千嘉子 "wikilink")
+:\* 2009年 - 2010年度：[今野寿美](https://ja.wikipedia.org/wiki/今野寿美 "wikilink")、[加藤治郎](../Page/加藤治郎_\(歌人\).md "wikilink")、[東直子](https://ja.wikipedia.org/wiki/東直子 "wikilink")、[米川千嘉子](https://ja.wikipedia.org/wiki/米川千嘉子 "wikilink")
 
-:\* 2011年 - 2012年度：[来嶋靖生](https://ja.wikipedia.org/wiki/来嶋靖生 "wikilink")、[花山多佳子](../Page/花山多佳子.md "wikilink")、[坂井修一](https://ja.wikipedia.org/wiki/坂井修一 "wikilink")、[佐伯裕子](https://ja.wikipedia.org/wiki/佐伯裕子 "wikilink")
+:\* 2011年 - 2012年度：[来嶋靖生](https://ja.wikipedia.org/wiki/来嶋靖生 "wikilink")、[花山多佳子](../Page/花山多佳子.md "wikilink")、[坂井修一](../Page/坂井修一.md "wikilink")、[佐伯裕子](https://ja.wikipedia.org/wiki/佐伯裕子 "wikilink")
 
 :\* 2013年度：[小島ゆかり](https://ja.wikipedia.org/wiki/小島ゆかり "wikilink")、[斉藤斎藤](https://ja.wikipedia.org/wiki/斉藤斎藤 "wikilink")、永田和宏、佐伯裕子
 
@@ -90,9 +90,9 @@
 
   - 生徒
 
-:\* [スピードワゴン](../Page/スピードワゴン.md "wikilink")（[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")・[小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")\[1\]）（2012年度 - ）
+:\* [スピードワゴン](../Page/スピードワゴン.md "wikilink")（[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")・[小沢一敬](../Page/小沢一敬.md "wikilink")\[1\]）（2012年度 - ）
 
-:\* [小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")（2012年度 - ）
+:\* [小島よしお](../Page/小島よしお.md "wikilink")（2012年度 - ）
 
 :\* [鈴木あや](https://ja.wikipedia.org/wiki/鈴木あや "wikilink")（2012 - 2015年度）
 
@@ -108,7 +108,7 @@
 
 :\* [マクドナルド・サラ](https://ja.wikipedia.org/wiki/マクドナルド・サラ "wikilink")（2016年度）
 
-:\* [星野真里](https://ja.wikipedia.org/wiki/星野真里 "wikilink")（2017年度）\[4\]
+:\* [星野真里](../Page/星野真里.md "wikilink")（2017年度）\[4\]
 
 :\* [永島聖羅](https://ja.wikipedia.org/wiki/永島聖羅 "wikilink")（2018年度 - ）
 
@@ -129,7 +129,7 @@
 ## 関連項目
 
   - [夜はぷちぷちケータイ短歌](https://ja.wikipedia.org/wiki/夜はぷちぷちケータイ短歌 "wikilink")
-  - [NHK俳句](https://ja.wikipedia.org/wiki/NHK俳句 "wikilink")
+  - [NHK俳句](../Page/NHK俳句.md "wikilink")
 
 ## 外部リンク
 

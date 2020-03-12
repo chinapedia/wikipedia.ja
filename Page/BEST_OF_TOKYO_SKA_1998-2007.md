@@ -1,14 +1,14 @@
 > この記事は[BEST OF TOKYO SKA 1998-2007](https://ja.wikipedia.org/wiki/BEST_OF_TOKYO_SKA_1998-2007)から翻訳されています。
 
 
-**BEST OF TOKYO SKA 1998-2007**（ベスト・オブ・トーキョー・スカ・1998-2007）は[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")が[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")にリリースした[ベストアルバムである](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[cutting edge移籍後のシングル](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")・アルバム曲を網羅している。選曲は[茂木欣一](https://ja.wikipedia.org/wiki/茂木欣一 "wikilink")による。初回限定生産盤にはミュージックビデオ全17曲を収録したDVD付き。
+**BEST OF TOKYO SKA 1998-2007**（ベスト・オブ・トーキョー・スカ・1998-2007）は[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースした[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。[cutting edge移籍後のシングル](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")・アルバム曲を網羅している。選曲は[茂木欣一](../Page/茂木欣一.md "wikilink")による。初回限定生産盤にはミュージックビデオ全17曲を収録したDVD付き。
 
 ## 収録曲
 
 ### DISC1
 
 1.  **DOWN BEAT STOMP**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[谷中敦](https://ja.wikipedia.org/wiki/谷中敦 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[川上つよし](https://ja.wikipedia.org/wiki/川上つよし "wikilink")）
+    （[作詞](../Page/作詞.md "wikilink")：[谷中敦](https://ja.wikipedia.org/wiki/谷中敦 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[川上つよし](https://ja.wikipedia.org/wiki/川上つよし "wikilink")）
       -
         [アルバム](../Page/アルバム.md "wikilink")「[Stompin' On DOWN BEAT ALLEY](https://ja.wikipedia.org/wiki/Stompin'_On_DOWN_BEAT_ALLEY "wikilink")」収録
 2.  **火の玉ジャイヴ**
@@ -18,7 +18,7 @@
 3.  **めくれたオレンジ**
     （作詞：谷中敦・作曲：川上つよし）
       -
-        シングル「[めくれたオレンジ](https://ja.wikipedia.org/wiki/めくれたオレンジ "wikilink")」収録。ゲスト[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に[田島貴男](https://ja.wikipedia.org/wiki/田島貴男 "wikilink")
+        シングル「[めくれたオレンジ](https://ja.wikipedia.org/wiki/めくれたオレンジ "wikilink")」収録。ゲスト[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に[田島貴男](../Page/田島貴男.md "wikilink")
 4.  **CALL FROM RIO**
     （作曲：川上つよし）
       -
@@ -31,7 +31,7 @@
 6.  **星降る夜に**
     （作詞：谷中敦・作曲：[NARGO](https://ja.wikipedia.org/wiki/NARGO "wikilink")）
       -
-        シングル「[星降る夜に](https://ja.wikipedia.org/wiki/星降る夜に "wikilink")」収録。ゲストボーカルに[甲本ヒロト](https://ja.wikipedia.org/wiki/甲本ヒロト "wikilink")
+        シングル「[星降る夜に](https://ja.wikipedia.org/wiki/星降る夜に "wikilink")」収録。ゲストボーカルに[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")
 7.  **SKA ME CRAZY**
     （作詞：冷牟田竜之・作曲：NARGO）
       -
@@ -52,12 +52,12 @@
     （作詞：谷中敦・作曲：NARGO）
       -
         シングル「[銀河と迷路](https://ja.wikipedia.org/wiki/銀河と迷路 "wikilink")」収録。フジテレビ系列ドラマ「[美女か野獣](../Page/美女か野獣.md "wikilink")」主題歌
-        ボーカルは[ドラムの](../Page/ドラムセット.md "wikilink")[茂木欣一](https://ja.wikipedia.org/wiki/茂木欣一 "wikilink")が担当
+        ボーカルは[ドラムの](../Page/ドラムセット.md "wikilink")[茂木欣一](../Page/茂木欣一.md "wikilink")が担当
 12. **WALK BETWEEN RAINDROPS**
     （作詞・作曲：[Donald Fagen](https://ja.wikipedia.org/wiki/Donald_Fagen "wikilink")）
       -
-        [ライブではおなじみの新曲](https://ja.wikipedia.org/wiki/演奏会 "wikilink")
-        元[スティーリー・ダン](https://ja.wikipedia.org/wiki/スティーリー・ダン "wikilink")の[ドナルド・フェイゲン](https://ja.wikipedia.org/wiki/ドナルド・フェイゲン "wikilink")が、[1982年](../Page/1982年.md "wikilink")にリリースした初ソロアルバム「[ナイトフライ](https://ja.wikipedia.org/wiki/ナイトフライ "wikilink")」からの[カバー](../Page/カバー.md "wikilink")
+        [ライブではおなじみの新曲](../Page/演奏会.md "wikilink")
+        元[スティーリー・ダン](../Page/スティーリー・ダン.md "wikilink")の[ドナルド・フェイゲン](../Page/ドナルド・フェイゲン.md "wikilink")が、[1982年](../Page/1982年.md "wikilink")にリリースした初ソロアルバム「[ナイトフライ](../Page/ナイトフライ.md "wikilink")」からの[カバー](../Page/カバー.md "wikilink")
 13. **雨の軌跡**
     （作詞：谷中敦・作曲：北原雅彦）
       -
@@ -68,7 +68,7 @@
 1.  **[ルパン三世'78](../Page/ルパン三世のテーマ.md "wikilink")**
     （作曲：[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")）
       -
-        アルバム「[Gunslingers〜LIVE BEST〜](https://ja.wikipedia.org/wiki/Gunslingers_-LIVE_BEST- "wikilink")」収録。アニメ「[ルパン三世(新)](https://ja.wikipedia.org/wiki/ルパン三世_\(TV第2シリーズ\) "wikilink")」主題歌の[カバー](../Page/カバー.md "wikilink")
+        アルバム「[Gunslingers〜LIVE BEST〜](https://ja.wikipedia.org/wiki/Gunslingers_-LIVE_BEST- "wikilink")」収録。アニメ「[ルパン三世(新)](../Page/ルパン三世_\(TV第2シリーズ\).md "wikilink")」主題歌の[カバー](../Page/カバー.md "wikilink")
 2.  **A Quick Drunkard**
     （作詞：谷中敦・作曲：[加藤隆志](https://ja.wikipedia.org/wiki/加藤隆志 "wikilink")）
       -
@@ -84,7 +84,7 @@
 5.  **カナリヤ鳴く空**
     （作詞：谷中敦・作曲：NARGO）
       -
-        シングル「[カナリヤ鳴く空](https://ja.wikipedia.org/wiki/カナリヤ鳴く空 "wikilink")」収録。ゲストボーカルに[チバユウスケ](https://ja.wikipedia.org/wiki/チバユウスケ "wikilink")
+        シングル「[カナリヤ鳴く空](https://ja.wikipedia.org/wiki/カナリヤ鳴く空 "wikilink")」収録。ゲストボーカルに[チバユウスケ](../Page/チバユウスケ.md "wikilink")
 6.  **SKARADA(Original Version)**
     （作曲：NARGO）
       -
@@ -92,7 +92,7 @@
 7.  **追憶のライラック**
     （作詞：谷中敦・作曲：沖祐市）
       -
-        シングル「[追憶のライラック](https://ja.wikipedia.org/wiki/追憶のライラック "wikilink")」収録。ゲストボーカルに[ハナレグミ](https://ja.wikipedia.org/wiki/ハナレグミ "wikilink")
+        シングル「[追憶のライラック](https://ja.wikipedia.org/wiki/追憶のライラック "wikilink")」収録。ゲストボーカルに[ハナレグミ](../Page/ハナレグミ.md "wikilink")
 8.  **Dear My Sister**
     （作詞：杉村ルイ・作曲：沖祐市）
       -
@@ -104,7 +104,7 @@
 10. **White Light-Live at Saitama Super Arena-**
     （作曲：加藤隆志）
       -
-        [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")のライブ音源より収録
+        [2007年](../Page/2007年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")のライブ音源より収録
 11. **美しく燃える森**
     （作詞：谷中敦・作曲：川上つよし）
       -
@@ -112,7 +112,7 @@
 12. **Come On\!**
     （作詞：谷中敦・作曲：川上つよし）
       -
-        アルバム「[WILD PEACE](https://ja.wikipedia.org/wiki/WILD_PEACE "wikilink")」収録
+        アルバム「[WILD PEACE](../Page/WILD_PEACE.md "wikilink")」収録
 13. **世界地図**
     （作詞：谷中敦・作曲：川上つよし）
       -

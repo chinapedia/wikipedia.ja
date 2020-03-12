@@ -3,7 +3,7 @@
 
 **Gajin**（ガジン、本名:**中村雅人** （なかむら まさと））は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[アワーソングスクリエイティブ](https://ja.wikipedia.org/wiki/アワーソングスクリエイティブ "wikilink")所属。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。名前の雅人（まさと）を音読みにして**Gajin**と名乗っている。
+[東京都](../Page/東京都.md "wikilink")出身。名前の雅人（まさと）を音読みにして**Gajin**と名乗っている。
 
 ## 楽曲提供
 
@@ -30,7 +30,7 @@
 
 **[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")**
 
-  - 「[もしも願いが叶うなら](https://ja.wikipedia.org/wiki/License_\(上戸彩のアルバム\) "wikilink")」（共作詞・共作曲・コーラス）（[Kohei Sakamaと共作](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink")）
+  - 「[もしも願いが叶うなら](../Page/License_\(上戸彩のアルバム\).md "wikilink")」（共作詞・共作曲・コーラス）（[Kohei Sakamaと共作](../Page/KOHEI_JAPAN.md "wikilink")）
 
 **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**関連
 
@@ -67,7 +67,7 @@
 
   - 「Extra Times」（作曲）
 
-**[コタニキンヤ](https://ja.wikipedia.org/wiki/コタニキンヤ. "wikilink")**
+**[コタニキンヤ](../Page/コタニキンヤ..md "wikilink")**
 
   - 「[ロマンティック☆ジャーニー](https://ja.wikipedia.org/wiki/NATIVE_\(コタニキンヤのアルバム\) "wikilink")」（作詞）
 
@@ -75,22 +75,22 @@
 
   - 「a start」（作曲）
 
-**[GOLF\&MIKE](https://ja.wikipedia.org/wiki/GOLF&MIKE "wikilink")**
+**[GOLF\&MIKE](../Page/GOLF&MIKE.md "wikilink")**
 
   - 「こころがわり」（作曲）
 
-**[阪井あゆみ](https://ja.wikipedia.org/wiki/阪井あゆみ "wikilink")**
+**[阪井あゆみ](../Page/阪井あゆみ.md "wikilink")**
 
   - 「[re-set](https://ja.wikipedia.org/wiki/悲しみを愛しさで "wikilink")」（作詞・作曲・編曲）
   - 「[Fun to the night](https://ja.wikipedia.org/wiki/ex-lover "wikilink")」（作曲）
   - 「[tears](https://ja.wikipedia.org/wiki/Precious_\(阪井あゆみのアルバム\) "wikilink")」（編曲）
 
-**[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")**
+**[堺正章](../Page/堺正章.md "wikilink")**
 
   - 「[忘れもの](https://ja.wikipedia.org/wiki/忘れもの "wikilink")」（作曲）
   - 「娘へ」（作曲）
 
-**[SATOMI'](https://ja.wikipedia.org/wiki/SATOMI' "wikilink")**
+**[SATOMI'](../Page/SATOMI'.md "wikilink")**
 
   - 「Strong」（作曲）
 
@@ -98,10 +98,10 @@
 
   - 「[初戀](https://ja.wikipedia.org/wiki/未来地図_\(さんみゅ〜のアルバム\) "wikilink")」（作曲）
 
-**[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")**関連
+**[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")**関連
 
-  - **[嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")**
-      - 「[Secret Eyes](https://ja.wikipedia.org/wiki/ARASHIC "wikilink")」（作曲）
+  - **[嵐](../Page/嵐_\(グループ\).md "wikilink")**
+      - 「[Secret Eyes](../Page/ARASHIC.md "wikilink")」（作曲）
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   - **[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")**
-      - 「[SPECIAL HAPPINESS](https://ja.wikipedia.org/wiki/Best_of_KAT-TUN "wikilink")」（作曲）
+      - 「[SPECIAL HAPPINESS](../Page/Best_of_KAT-TUN.md "wikilink")」（作曲）
       - 「[MY WEATHER](https://ja.wikipedia.org/wiki/Live_of_KAT-TUN_"Real_Face" "wikilink")」（作曲）
 
 <!-- end list -->
@@ -124,15 +124,15 @@
   - '''[KinKi Kids](../Page/KinKi_Kids.md "wikilink") '''
       - 「[BRAND NEW SONG](../Page/BRAND_NEW_SONG.md "wikilink")」（作詞・作曲）
       - 「[Destination](https://ja.wikipedia.org/wiki/G_album_-24/7- "wikilink")」（作詞・作曲）
-      - 「[未完のラブ・ソング](https://ja.wikipedia.org/wiki/H_album_-H・A・N・D- "wikilink")」（作詞・作曲・編曲・コーラス）
-      - 「[Night+Flight](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")」（作詞・作曲）
+      - 「[未完のラブ・ソング](../Page/H_album_-H・A・N・D-.md "wikilink")」（作詞・作曲・編曲・コーラス）
+      - 「[Night+Flight](../Page/I_album_-iD-.md "wikilink")」（作詞・作曲）
       - 「[walk on...](https://ja.wikipedia.org/wiki/J_album "wikilink")」（作詞）
 
 <!-- end list -->
 
   - **[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
-      - 「[弾丸ファイター](https://ja.wikipedia.org/wiki/弾丸ファイター "wikilink")」（作曲）
-      - 「[buzzer beater](https://ja.wikipedia.org/wiki/Dear_WOMAN "wikilink")」（作曲・編曲・コーラス）
+      - 「[弾丸ファイター](../Page/弾丸ファイター.md "wikilink")」（作曲）
+      - 「[buzzer beater](../Page/Dear_WOMAN.md "wikilink")」（作曲・編曲・コーラス）
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 <!-- end list -->
 
   - **[V6](../Page/V6_\(グループ\).md "wikilink")**
-      - 「[Like it\!](https://ja.wikipedia.org/wiki/Orange_\(V6の曲\) "wikilink")」（作詞・作曲）
+      - 「[Like it\!](../Page/Orange_\(V6の曲\).md "wikilink")」（作詞・作曲）
       - 「[あの空](https://ja.wikipedia.org/wiki/LIGHT_IN_YOUR_HEART/Swing! "wikilink")」（作詞・作曲）
 
 <!-- end list -->
@@ -152,27 +152,27 @@
 
 <!-- end list -->
 
-  - **[四銃士](https://ja.wikipedia.org/wiki/忍者_\(グループ\) "wikilink")**
+  - **[四銃士](../Page/忍者_\(グループ\).md "wikilink")**
       - 「[Shout\!](https://ja.wikipedia.org/wiki/DO_YOUR_BEST_\(忍者の曲\) "wikilink")」（作曲）
 
-**[下川みくに](https://ja.wikipedia.org/wiki/下川みくに "wikilink")**
+**[下川みくに](../Page/下川みくに.md "wikilink")**
 
   - 「[もう一度君に会いたい](https://ja.wikipedia.org/wiki/南風/もう一度君に会いたい "wikilink")」（作曲）
 
 **[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**
 
-  - 「[Cryin'](https://ja.wikipedia.org/wiki/BRIDGE_\(SPEEDのアルバム\) "wikilink")」（編曲）
+  - 「[Cryin'](../Page/BRIDGE_\(SPEEDのアルバム\).md "wikilink")」（編曲）
   - 「[Long Way Home](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")」（編曲）
 
-**[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")**
+**[高橋克典](../Page/高橋克典.md "wikilink")**
 
   - 「TSUKIKAGE」（作曲）
 
-**[高橋真梨子](https://ja.wikipedia.org/wiki/高橋真梨子 "wikilink")**
+**[高橋真梨子](../Page/高橋真梨子.md "wikilink")**
 
   - 「可笑しなしあわせ」（作曲）
 
-**[チャン・ナラ](https://ja.wikipedia.org/wiki/チャン・ナラ "wikilink")**
+**[チャン・ナラ](../Page/チャン・ナラ.md "wikilink")**
 
   - 「蜃気楼」（作詞）
   - 「jump jump」（作詞）
@@ -200,7 +200,7 @@
 
   - 「Distance」（共作詞・作曲）（作詞は5963 Production、Shokoと共作）
 
-**[PaniCrew](https://ja.wikipedia.org/wiki/PaniCrew "wikilink")**
+**[PaniCrew](../Page/PaniCrew.md "wikilink")**
 
   - 「shining you」（作曲）
   - 「gettin' deeper」（共作詞・作曲・編曲）（作詞はGo、Yo-heyと共作）
@@ -227,7 +227,7 @@
 
   - 「[Beat☆](https://ja.wikipedia.org/wiki/LOVE_LIFE_2 "wikilink")」（共作詞・作曲・共編曲）（作詞は[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")と編曲はヒロキと共作）
 
-**[平松まゆき](https://ja.wikipedia.org/wiki/平松まゆき "wikilink")**
+**[平松まゆき](../Page/平松まゆき.md "wikilink")**
 
   - 「さよならの伝説」（作曲）
 
@@ -235,19 +235,19 @@
 
   - 「大切なお知らせ」（作曲）
 
-**[福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")**
+**[福田沙紀](../Page/福田沙紀.md "wikilink")**
 
-  - 「[刹那バイバイ](https://ja.wikipedia.org/wiki/花束を下さい "wikilink")」（作曲）
+  - 「[刹那バイバイ](../Page/花束を下さい.md "wikilink")」（作曲）
 
 **[predia](https://ja.wikipedia.org/wiki/predia "wikilink")**
 
   - 「please please」（作詞・作曲・編曲）
-  - 「[image](https://ja.wikipedia.org/wiki/Invitation_\(prediaのアルバム\) "wikilink")」（作詞・作曲）
+  - 「[image](../Page/Invitation_\(prediaのアルバム\).md "wikilink")」（作詞・作曲）
 
-**[Buono\!](https://ja.wikipedia.org/wiki/Buono! "wikilink")**
+**[Buono\!](../Page/Buono!.md "wikilink")**
 
-  - 「[バケツの水](https://ja.wikipedia.org/wiki/Café_Buono! "wikilink")」（作曲）
-  - 「[君がいれば](https://ja.wikipedia.org/wiki/Café_Buono! "wikilink")」（作曲）
+  - 「[バケツの水](../Page/Café_Buono!.md "wikilink")」（作曲）
+  - 「[君がいれば](../Page/Café_Buono!.md "wikilink")」（作曲）
   - 「[OVER THE RAINBOW](https://ja.wikipedia.org/wiki/Buono!2 "wikilink")」（作曲）
   - 「[タビダチの歌](https://ja.wikipedia.org/wiki/We_are_Buono! "wikilink")」（作曲）
 
@@ -264,17 +264,17 @@
   - 「[Realize](https://ja.wikipedia.org/wiki/innocence "wikilink")」（作詞・作曲）
   - 「[想い](https://ja.wikipedia.org/wiki/innocence "wikilink")」（作詞・作曲）
 
-**[米倉利紀](https://ja.wikipedia.org/wiki/米倉利紀 "wikilink")**
+**[米倉利紀](../Page/米倉利紀.md "wikilink")**
 
   - 「君がすべて」（作曲）
   - 「MANHATTAN,NY\*\*\*\*\*」（作曲）
   - 「あの夏の日･･･」（作曲）
 
-**[YU-A](https://ja.wikipedia.org/wiki/YU-A "wikilink")**
+**[YU-A](../Page/YU-A.md "wikilink")**
 
   - 「[見守っていたい](https://ja.wikipedia.org/wiki/2_Girls "wikilink")」（作曲）
 
-**[リウ・イーフェイ](https://ja.wikipedia.org/wiki/劉亦菲 "wikilink")**
+**[リウ・イーフェイ](../Page/劉亦菲.md "wikilink")**
 
   - 「[テノヒラノカナタ](https://ja.wikipedia.org/wiki/All_My_Words "wikilink")」（作曲）
 
@@ -282,17 +282,17 @@
 
   - 「Say you love me」（作曲・編曲・プロデュース）
 
-**[Licca](https://ja.wikipedia.org/wiki/Licca "wikilink")**
+**[Licca](../Page/Licca.md "wikilink")**
 
   - 「深呼吸して I NEED YOU\!」（作曲）
 
-**[Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")**
+**[Lead](../Page/Lead.md "wikilink")**
 
   - 「[空の彼方へ](https://ja.wikipedia.org/wiki/海_\(Leadの曲\) "wikilink")」（作詞・作曲）
   - 「Here we go」（作詞・作曲・編曲）
   - 「Party Tune」（作詞・作曲・編曲）
 
-**[Le Couple](https://ja.wikipedia.org/wiki/Le_Couple "wikilink")**
+**[Le Couple](../Page/Le_Couple.md "wikilink")**
 
   - 「[もう一度](https://ja.wikipedia.org/wiki/on_the_sofa "wikilink")」（作曲）
 
@@ -302,10 +302,10 @@
 
 ## ボーカル参加曲
 
-  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[恋はあせらず](https://ja.wikipedia.org/wiki/恋はあせらず_\(テレビドラマ\) "wikilink")」オリジナル・サウンドトラック収録
+  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[恋はあせらず](../Page/恋はあせらず_\(テレビドラマ\).md "wikilink")」オリジナル・サウンドトラック収録
       - 「Live Today」
       - 「Somebody Somewhere」
-  - [TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[L×I×V×E](https://ja.wikipedia.org/wiki/L×I×V×E "wikilink")」オリジナル・サウンドトラック収録
+  - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[L×I×V×E](../Page/L×I×V×E.md "wikilink")」オリジナル・サウンドトラック収録
       - 「Miles Away」
       - 「Dear Friends」
   - [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")CDアルバム『Stay Gold』収録
@@ -313,7 +313,7 @@
 
 ## ツアー参加
 
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")
   - [パク・ヨンハ](../Page/パク・ヨンハ.md "wikilink")
   - [今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")

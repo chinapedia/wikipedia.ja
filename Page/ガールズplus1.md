@@ -7,7 +7,7 @@
 
 ナンセンスなストーリー展開と実験的な演出のテレビドラマ。番組内で結成されたグループ、ガールズplus1は、実際に1枚のシングルCDを発売し、レコード店で記念イベントを行った。
 
-『[ギフト](https://ja.wikipedia.org/wiki/ギフト_\(テレビドラマ\) "wikilink")』や『[きらきらひかる](https://ja.wikipedia.org/wiki/きらきらひかる_\(漫画\) "wikilink")』で知られるフジテレビプロデューサー[山口雅俊](https://ja.wikipedia.org/wiki/山口雅俊 "wikilink")が手掛けた連続テレビドラマ第1作であり、山口の思い入れも強く、自身のプロフィールには必ず記載されている。メインキャストには、[ルー大柴](../Page/ルー大柴.md "wikilink")以外、当時無名に近いタレントが起用された。脇役や端役に、[浅井企画](../Page/浅井企画.md "wikilink")や[大人計画](../Page/大人計画.md "wikilink")の所属俳優が多数出演した。
+『[ギフト](../Page/ギフト_\(テレビドラマ\).md "wikilink")』や『[きらきらひかる](../Page/きらきらひかる_\(漫画\).md "wikilink")』で知られるフジテレビプロデューサー[山口雅俊](../Page/山口雅俊.md "wikilink")が手掛けた連続テレビドラマ第1作であり、山口の思い入れも強く、自身のプロフィールには必ず記載されている。メインキャストには、[ルー大柴](../Page/ルー大柴.md "wikilink")以外、当時無名に近いタレントが起用された。脇役や端役に、[浅井企画](../Page/浅井企画.md "wikilink")や[大人計画](../Page/大人計画.md "wikilink")の所属俳優が多数出演した。
 
 ## ストーリー
 
@@ -16,38 +16,38 @@
 ## キャスト
 
   - ヒミコ：[堀恵子](https://ja.wikipedia.org/wiki/堀恵子 "wikilink")
-  - レイナ：[夏観享子](https://ja.wikipedia.org/wiki/夏観享子 "wikilink")
+  - レイナ：[夏観享子](../Page/夏観享子.md "wikilink")
   - ミチコ：[松田千奈](../Page/松田千奈.md "wikilink")
-  - ヒナ：[島村千草](https://ja.wikipedia.org/wiki/島村千草 "wikilink")
+  - ヒナ：[島村千草](../Page/島村千草.md "wikilink")
   - マサキ：[大地](https://ja.wikipedia.org/wiki/黒田大地 "wikilink")
   - キクチ：[ルー大柴](../Page/ルー大柴.md "wikilink")
 
 <!-- end list -->
 
-  - 修道女／予言者：[角田智美](https://ja.wikipedia.org/wiki/角田ともみ "wikilink")
-  - 国籍不明男：[神戸浩](https://ja.wikipedia.org/wiki/神戸浩 "wikilink")
-  - 敏腕プロデューサー：[モロ師岡](https://ja.wikipedia.org/wiki/モロ師岡 "wikilink")
-  - スナック「ほつれ髪」の女：[梅垣義明](https://ja.wikipedia.org/wiki/梅垣義明 "wikilink")
-  - 坊っちゃん：[飯塚俊太郎](https://ja.wikipedia.org/wiki/飯塚俊太郎 "wikilink")
-  - 復讐したガールの華子：[濱田万葉](https://ja.wikipedia.org/wiki/濱田万葉 "wikilink")
-  - 丼飯米：[小野みゆき](https://ja.wikipedia.org/wiki/小野みゆき "wikilink")
+  - 修道女／予言者：[角田智美](../Page/角田ともみ.md "wikilink")
+  - 国籍不明男：[神戸浩](../Page/神戸浩.md "wikilink")
+  - 敏腕プロデューサー：[モロ師岡](../Page/モロ師岡.md "wikilink")
+  - スナック「ほつれ髪」の女：[梅垣義明](../Page/梅垣義明.md "wikilink")
+  - 坊っちゃん：[飯塚俊太郎](../Page/飯塚俊太郎.md "wikilink")
+  - 復讐したガールの華子：[濱田万葉](../Page/濱田万葉.md "wikilink")
+  - 丼飯米：[小野みゆき](../Page/小野みゆき.md "wikilink")
   - ホンマ・ジャメリカ：[おさる](../Page/モンキッキー.md "wikilink")
   - チョー有名な作詞家：[ラッキィ池田](../Page/ラッキィ池田.md "wikilink")
   - 一ノ瀬うらら：[藤本恭子](https://ja.wikipedia.org/wiki/後藤恭子 "wikilink")
-  - 白百合社長：[上白土なおこ](https://ja.wikipedia.org/wiki/麻丘実希 "wikilink")
-  - 日陰歩／大岩田松之介：[赤星昇一郎](https://ja.wikipedia.org/wiki/赤星昇一郎 "wikilink")
+  - 白百合社長：[上白土なおこ](../Page/麻丘実希.md "wikilink")
+  - 日陰歩／大岩田松之介：[赤星昇一郎](../Page/赤星昇一郎.md "wikilink")
   - 催眠術師：[海津義孝](https://ja.wikipedia.org/wiki/海津義孝 "wikilink")
 
 ## スタッフ
 
-  - プロデュース：[山口雅俊](https://ja.wikipedia.org/wiki/山口雅俊 "wikilink")、[長尾恵美子](https://ja.wikipedia.org/wiki/長尾恵美子 "wikilink")
-  - 脚本：[松本稔](https://ja.wikipedia.org/wiki/松本稔_\(脚本家\) "wikilink")、山本寛子、山口雅俊
-  - 演出：[水田成英](https://ja.wikipedia.org/wiki/水田成英 "wikilink")、[緒方幸夫](https://ja.wikipedia.org/wiki/緒方幸夫 "wikilink")
+  - プロデュース：[山口雅俊](../Page/山口雅俊.md "wikilink")、[長尾恵美子](https://ja.wikipedia.org/wiki/長尾恵美子 "wikilink")
+  - 脚本：[松本稔](../Page/松本稔_\(脚本家\).md "wikilink")、山本寛子、山口雅俊
+  - 演出：[水田成英](../Page/水田成英.md "wikilink")、[緒方幸夫](https://ja.wikipedia.org/wiki/緒方幸夫 "wikilink")
 
 ## 主題歌・挿入歌
 
-  - オープニングテーマ（前期）：[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")「GROWING UP」
-  - オープニングテーマ（後期）：[EL-MALO](https://ja.wikipedia.org/wiki/EL-MALO "wikilink")「Companies」
+  - オープニングテーマ（前期）：[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")「GROWING UP」
+  - オープニングテーマ（後期）：[EL-MALO](../Page/EL-MALO.md "wikilink")「Companies」
   - エンディングテーマ：[eri](https://ja.wikipedia.org/wiki/森下恵理 "wikilink")「強くなれる」
   - 挿入歌：ガールズplus1「スウィッチ！」（作詞：山口雅俊、作曲：中川孝）
 

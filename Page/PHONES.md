@@ -1,11 +1,11 @@
 > この記事は[PHONES](https://ja.wikipedia.org/wiki/PHONES)から翻訳されています。
 
 
-**PHONES**（フォーンズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2002年6月に結成。2003年[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。株式会社パレット所属。2007年7月をもって活動休止することをHP上で発表。
+**PHONES**（フォーンズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2002年6月に結成。2003年[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。株式会社パレット所属。2007年7月をもって活動休止することをHP上で発表。
 
 ## メンバー
 
-  - **[竹本健一](https://ja.wikipedia.org/wiki/竹本健一 "wikilink")**（たけもとけんいち）ボーカル。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")出身
+  - **[竹本健一](https://ja.wikipedia.org/wiki/竹本健一 "wikilink")**（たけもとけんいち）ボーカル。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身
   - **安藤啓介**（あんどうけいすけ）ベース。[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")出身
   - **滝川岳**（たきがわがく）ドラム。[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")出身出身。リーダー
 
@@ -279,17 +279,17 @@
 
 ## タイアップ
 
-| 曲名           | タイアップ                                                                            |
-| ------------ | -------------------------------------------------------------------------------- |
-| Eternal Ring | TX系『[たけしの誰でもピカソ](https://ja.wikipedia.org/wiki/たけしの誰でもピカソ "wikilink")』エンディング・テーマ |
-| Sister       | 岩手県競馬組合CMソング                                                                     |
-| Family       | テレビ東京系「開運\!なんでも鑑定団」エンディングテーマ                                                     |
-| 告白           | 映画「オオカミの誘惑」日本語主題歌                                                                |
+| 曲名           | タイアップ                                                         |
+| ------------ | ------------------------------------------------------------- |
+| Eternal Ring | TX系『[たけしの誰でもピカソ](../Page/たけしの誰でもピカソ.md "wikilink")』エンディング・テーマ |
+| Sister       | 岩手県競馬組合CMソング                                                  |
+| Family       | テレビ東京系「開運\!なんでも鑑定団」エンディングテーマ                                  |
+| 告白           | 映画「オオカミの誘惑」日本語主題歌                                             |
 
 ## 関連項目
 
-  - [関西大学の人物一覧](https://ja.wikipedia.org/wiki/関西大学の人物一覧 "wikilink")
-  - [魁\!ミュー塾](https://ja.wikipedia.org/wiki/魁!ミュー塾 "wikilink")
+  - [関西大学の人物一覧](../Page/関西大学の人物一覧.md "wikilink")
+  - [魁\!ミュー塾](../Page/魁!ミュー塾.md "wikilink")
 
 ## 外部リンク
 

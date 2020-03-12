@@ -1,7 +1,7 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-**e防人**（イーさきもり、e-sakimori :For **E**merging infection, **S**afety **A**nd **K**eep **I**n touch with **M**edical **O**rganizations, **RI**sk management）は[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")や[SARS](https://ja.wikipedia.org/wiki/SARS "wikilink")などを含むエマージング感染症（[新興感染症](https://ja.wikipedia.org/wiki/新興感染症 "wikilink")、新型感染症）の危機に対処することを目的としたWebサイト、および研究主題。文部科学省平成17年（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）度科学研究費補助金（[医療社会学](https://ja.wikipedia.org/wiki/医療社会学 "wikilink")・萌芽研究）を受けた研究である\[1\]。
+**e防人**（イーさきもり、e-sakimori :For **E**merging infection, **S**afety **A**nd **K**eep **I**n touch with **M**edical **O**rganizations, **RI**sk management）は[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")や[SARS](https://ja.wikipedia.org/wiki/SARS "wikilink")などを含むエマージング感染症（[新興感染症](../Page/新興感染症.md "wikilink")、新型感染症）の危機に対処することを目的としたWebサイト、および研究主題。文部科学省平成17年（[2005年](../Page/2005年.md "wikilink")-[2006年](../Page/2006年.md "wikilink")）度科学研究費補助金（[医療社会学](https://ja.wikipedia.org/wiki/医療社会学 "wikilink")・萌芽研究）を受けた研究である\[1\]。
 
 ## 目的
 
@@ -23,7 +23,7 @@
 
 ### 感染症診断支援
 
-目の前の患者に[インフルエンザ](https://ja.wikipedia.org/wiki/インフルエンザ "wikilink")を疑うが迅速検査は陰性だった、インフルエンザをほとんど疑わないのに患者の要請で検査をしてみたら迅速検査が陽性だった。このような状況でどう診断すべきかを解説している。
+目の前の患者に[インフルエンザ](../Page/インフルエンザ.md "wikilink")を疑うが迅速検査は陰性だった、インフルエンザをほとんど疑わないのに患者の要請で検査をしてみたら迅速検査が陽性だった。このような状況でどう診断すべきかを解説している。
 
 ### 過去の集団感染から学ぶ
 
@@ -31,11 +31,11 @@
 
 ### [トリアージ](../Page/トリアージ.md "wikilink")に関する疫学的研究
 
-実際に大規模な集団感染が起きた場合、どの患者を優先して治療するかをあらかじめ決めておくことは大切である。このことを実際に起きた[レジオネラ](https://ja.wikipedia.org/wiki/レジオネラ "wikilink")集団感染から具体的に解説されている。
+実際に大規模な集団感染が起きた場合、どの患者を優先して治療するかをあらかじめ決めておくことは大切である。このことを実際に起きた[レジオネラ](../Page/レジオネラ.md "wikilink")集団感染から具体的に解説されている。
 
 ### インフルエンザの院内感染対策
 
-[院内感染](../Page/院内感染.md "wikilink")対策はあらゆる感染症に対して重要である。ここでは従来の[インフルエンザ](https://ja.wikipedia.org/wiki/インフルエンザ "wikilink")院内感染対策をコンパクトにまとめ、[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")の院内感染対策に応用できるよう掲載している。
+[院内感染](../Page/院内感染.md "wikilink")対策はあらゆる感染症に対して重要である。ここでは従来の[インフルエンザ](../Page/インフルエンザ.md "wikilink")院内感染対策をコンパクトにまとめ、[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")の院内感染対策に応用できるよう掲載している。
 
 ### 新思考型感染症戦略テキスト
 

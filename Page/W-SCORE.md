@@ -1,7 +1,7 @@
 > この記事は[W-SCORE](https://ja.wikipedia.org/wiki/W-SCORE)から翻訳されています。
 
 
-**W-SCORE**（ダブル・スコア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")にデビュー。
+**W-SCORE**（ダブル・スコア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")にデビュー。
 
 ## メンバー
 
@@ -36,7 +36,7 @@
 ### アルバム
 
 1.  **Double Score**（2007年3月7日）- Handcuts Records
-    1.  Ride On Time（[山下達郎](../Page/山下達郎.md "wikilink")の「[RIDE ON TIME](https://ja.wikipedia.org/wiki/RIDE_ON_TIME_\(山下達郎のアルバム\) "wikilink")」をサンプリング）
+    1.  Ride On Time（[山下達郎](../Page/山下達郎.md "wikilink")の「[RIDE ON TIME](../Page/RIDE_ON_TIME_\(山下達郎のアルバム\).md "wikilink")」をサンプリング）
     2.  Why
     3.  Buddy
     4.  Sadness
@@ -45,7 +45,7 @@
     7.  Money Can't Buy Yo Love
     8.  Time After Time
     9.  Dreamin'
-    10. Buddy -[DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE "wikilink") REMIX-
+    10. Buddy -[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink") REMIX-
 
 ## 外部リンク
 

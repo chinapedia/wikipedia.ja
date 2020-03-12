@@ -74,6 +74,6 @@
 ## 関連項目
 
   - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 [Category:GUILTY_GEARの登場人物](https://ja.wikipedia.org/wiki/Category:GUILTY_GEARの登場人物 "wikilink") [Category:架空の医師](https://ja.wikipedia.org/wiki/Category:架空の医師 "wikilink") [Category:架空のシリアルキラー](https://ja.wikipedia.org/wiki/Category:架空のシリアルキラー "wikilink")

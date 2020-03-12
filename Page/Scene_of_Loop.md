@@ -1,7 +1,7 @@
 > この記事は[Scene of Loop](https://ja.wikipedia.org/wiki/Scene_of_Loop)から翻訳されています。
 
 
-**Scene of Loop**（シーン・オブ・ループ）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のセカンドDVD。[2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[東芝EMIから発売](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。セカンドアルバム「[Loop](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")」の[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")を中心に収録。全ての監督は[小島淳二](https://ja.wikipedia.org/wiki/小島淳二 "wikilink")。
+**Scene of Loop**（シーン・オブ・ループ）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のセカンドDVD。[2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[東芝EMIから発売](../Page/EMIミュージック・ジャパン.md "wikilink")。セカンドアルバム「[Loop](../Page/Loop_\(アルバム\).md "wikilink")」の[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")を中心に収録。全ての監督は[小島淳二](../Page/小島淳二.md "wikilink")。
 
 ## 収録曲
 
@@ -28,6 +28,6 @@
 
 ## 関連項目
 
-  - [Loop](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")
+  - [Loop](../Page/Loop_\(アルバム\).md "wikilink")
 
 [Category:ACIDMANの映像作品](https://ja.wikipedia.org/wiki/Category:ACIDMANの映像作品 "wikilink") [Category:ビデオ・クリップ集](https://ja.wikipedia.org/wiki/Category:ビデオ・クリップ集 "wikilink") [Category:2003年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2003年の音楽関連の映像作品 "wikilink")

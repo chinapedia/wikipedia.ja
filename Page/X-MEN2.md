@@ -1,13 +1,13 @@
 > この記事は[X-MEN2](https://ja.wikipedia.org/wiki/X-MEN2)から翻訳されています。
 
 
-『**X-MEN2**』（エックスメン2、原題: *X2*）は、[2003年](../Page/2003年.md "wikilink")の[アメリカ合衆国の映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。
+『**X-MEN2**』（エックスメン2、原題: *X2*）は、[2003年](../Page/2003年.md "wikilink")の[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。
 
 ## 概要
 
-「[マーベル・コミック](https://ja.wikipedia.org/wiki/マーベル・コミック "wikilink")」の[アメリカン・コミック](https://ja.wikipedia.org/wiki/アメリカン・コミック "wikilink")『[X-メン](https://ja.wikipedia.org/wiki/X-メン "wikilink")』の実写映画化第2作目。監督は前作に続き[ブライアン・シンガー](https://ja.wikipedia.org/wiki/ブライアン・シンガー "wikilink")。
+「[マーベル・コミック](../Page/マーベル・コミック.md "wikilink")」の[アメリカン・コミック](https://ja.wikipedia.org/wiki/アメリカン・コミック "wikilink")『[X-メン](../Page/X-メン.md "wikilink")』の実写映画化第2作目。監督は前作に続き[ブライアン・シンガー](../Page/ブライアン・シンガー.md "wikilink")。
 
-[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2003年[5月2日](../Page/5月2日.md "wikilink")に公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場から2週連続で1位になった。日本では同年5月3日に[日劇1系列ほかで公開され](https://ja.wikipedia.org/wiki/TOHOシネマズ日劇 "wikilink")、週末興行成績（全国9大都市集計）では初登場2位となった。
+[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2003年[5月2日](../Page/5月2日.md "wikilink")に公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場から2週連続で1位になった。日本では同年5月3日に[日劇1系列ほかで公開され](../Page/TOHOシネマズ日劇.md "wikilink")、週末興行成績（全国9大都市集計）では初登場2位となった。
 
 本作は前作『[X-メン](../Page/X-メン_\(映画\).md "wikilink")』を超えるヒットとなった。
 
@@ -31,43 +31,43 @@
 
 | 役名                                                                                        | 俳優                                                                               | 日本語吹替                                                        |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 劇場公開版                                                                                     | [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")版                         |                                                              |
-| チャールズ・エグゼビア（プロフェッサーX）                                                                     | [パトリック・スチュワート](https://ja.wikipedia.org/wiki/パトリック・スチュワート "wikilink")            | [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")        |
-| エリック・マグナス・レーンシャー（[マグニートー](https://ja.wikipedia.org/wiki/マグニートー_\(マーベル・コミック\) "wikilink")） | [イアン・マッケラン](https://ja.wikipedia.org/wiki/イアン・マッケラン "wikilink")                  | [有川博](https://ja.wikipedia.org/wiki/有川博 "wikilink")          |
-| ローガン（[ウルヴァリン](../Page/ウルヴァリン.md "wikilink")）                                              | [ヒュー・ジャックマン](https://ja.wikipedia.org/wiki/ヒュー・ジャックマン "wikilink")                | [山路和弘](https://ja.wikipedia.org/wiki/山路和弘 "wikilink")        |
-| スコット・サマーズ（サイクロップス）                                                                        | [ジェームズ・マースデン](https://ja.wikipedia.org/wiki/ジェームズ・マースデン "wikilink")              | [檀臣幸](https://ja.wikipedia.org/wiki/檀臣幸 "wikilink")          |
-| ジーン・グレイ（フェニックス）                                                                           | [ファムケ・ヤンセン](https://ja.wikipedia.org/wiki/ファムケ・ヤンセン "wikilink")                  | [日野由利加](https://ja.wikipedia.org/wiki/日野由利加 "wikilink")      |
-| オロロ・マンロー（[ストーム](https://ja.wikipedia.org/wiki/ストーム_\(マーベル・コミック\) "wikilink")）             | [ハル・ベリー](https://ja.wikipedia.org/wiki/ハル・ベリー "wikilink")                        | [本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")        |
-| マリー・ダンキャント（ローグ）                                                                           | [アンナ・パキン](https://ja.wikipedia.org/wiki/アンナ・パキン "wikilink")                      | [小島幸子](https://ja.wikipedia.org/wiki/小島幸子 "wikilink")        |
-| ボビー・ドレイク（[アイスマン](https://ja.wikipedia.org/wiki/アイスマン_\(マーベル・コミック\) "wikilink")）           | [ショーン・アシュモア](https://ja.wikipedia.org/wiki/ショーン・アシュモア "wikilink")                | [私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")          |
-| ジョン・アラダイス（パイロ）                                                                            | [アーロン・スタンフォード](https://ja.wikipedia.org/wiki/アーロン・スタンフォード "wikilink")            | [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")        |
-| [カート・ワグナー（ナイトクローラー）](https://ja.wikipedia.org/wiki/ナイトクローラー "wikilink")                   | [アラン・カミング](https://ja.wikipedia.org/wiki/アラン・カミング "wikilink")                    | [後藤敦](https://ja.wikipedia.org/wiki/後藤敦 "wikilink")          |
-| [レイブン・ダークホルム（ミスティーク）](https://ja.wikipedia.org/wiki/ミスティーク "wikilink")                    | <small>[レベッカ・ローミン](https://ja.wikipedia.org/wiki/レベッカ・ローミン "wikilink")＝ステイモス     | [幸田直子](https://ja.wikipedia.org/wiki/幸田直子 "wikilink")        |
-| ウィリアム・ストライカー                                                                              | [ブライアン・コックス](https://ja.wikipedia.org/wiki/ブライアン・コックス_\(俳優\) "wikilink")         | [稲垣隆史](https://ja.wikipedia.org/wiki/稲垣隆史 "wikilink")        |
-| ケリー上院議員                                                                                   | [ブルース・デイヴィソン](https://ja.wikipedia.org/wiki/ブルース・デイヴィソン "wikilink")              | [千田光男](https://ja.wikipedia.org/wiki/千田光男 "wikilink")        |
-| ユリコ（レディ・デスストライク）                                                                          | [ケリー・ヒュー](https://ja.wikipedia.org/wiki/ケリー・ヒュー "wikilink")                      | [小林優子](https://ja.wikipedia.org/wiki/小林優子 "wikilink")        |
-| マッケナ大統領                                                                                   | [コッター・スミス](https://ja.wikipedia.org/wiki/コッター・スミス "wikilink")                    | [原康義](https://ja.wikipedia.org/wiki/原康義 "wikilink")          |
+| 劇場公開版                                                                                     | [テレビ朝日](../Page/テレビ朝日.md "wikilink")版                                            |                                                              |
+| チャールズ・エグゼビア（プロフェッサーX）                                                                     | [パトリック・スチュワート](../Page/パトリック・スチュワート.md "wikilink")                               | [大木民夫](../Page/大木民夫.md "wikilink")                           |
+| エリック・マグナス・レーンシャー（[マグニートー](https://ja.wikipedia.org/wiki/マグニートー_\(マーベル・コミック\) "wikilink")） | [イアン・マッケラン](../Page/イアン・マッケラン.md "wikilink")                                     | [有川博](../Page/有川博.md "wikilink")                             |
+| ローガン（[ウルヴァリン](../Page/ウルヴァリン.md "wikilink")）                                              | [ヒュー・ジャックマン](../Page/ヒュー・ジャックマン.md "wikilink")                                   | [山路和弘](../Page/山路和弘.md "wikilink")                           |
+| スコット・サマーズ（サイクロップス）                                                                        | [ジェームズ・マースデン](../Page/ジェームズ・マースデン.md "wikilink")                                 | [檀臣幸](../Page/檀臣幸.md "wikilink")                             |
+| ジーン・グレイ（フェニックス）                                                                           | [ファムケ・ヤンセン](../Page/ファムケ・ヤンセン.md "wikilink")                                     | [日野由利加](../Page/日野由利加.md "wikilink")                         |
+| オロロ・マンロー（[ストーム](https://ja.wikipedia.org/wiki/ストーム_\(マーベル・コミック\) "wikilink")）             | [ハル・ベリー](https://ja.wikipedia.org/wiki/ハル・ベリー "wikilink")                        | [本田貴子](../Page/本田貴子.md "wikilink")                           |
+| マリー・ダンキャント（ローグ）                                                                           | [アンナ・パキン](../Page/アンナ・パキン.md "wikilink")                                         | [小島幸子](../Page/小島幸子.md "wikilink")                           |
+| ボビー・ドレイク（[アイスマン](../Page/アイスマン_\(マーベル・コミック\).md "wikilink")）                              | [ショーン・アシュモア](https://ja.wikipedia.org/wiki/ショーン・アシュモア "wikilink")                | [私市淳](../Page/私市淳.md "wikilink")                             |
+| ジョン・アラダイス（パイロ）                                                                            | [アーロン・スタンフォード](https://ja.wikipedia.org/wiki/アーロン・スタンフォード "wikilink")            | [浪川大輔](../Page/浪川大輔.md "wikilink")                           |
+| [カート・ワグナー（ナイトクローラー）](../Page/ナイトクローラー.md "wikilink")                                      | [アラン・カミング](../Page/アラン・カミング.md "wikilink")                                       | [後藤敦](../Page/後藤敦.md "wikilink")                             |
+| [レイブン・ダークホルム（ミスティーク）](https://ja.wikipedia.org/wiki/ミスティーク "wikilink")                    | <small>[レベッカ・ローミン](../Page/レベッカ・ローミン.md "wikilink")＝ステイモス                        | [幸田直子](../Page/幸田直子.md "wikilink")                           |
+| ウィリアム・ストライカー                                                                              | [ブライアン・コックス](../Page/ブライアン・コックス_\(俳優\).md "wikilink")                            | [稲垣隆史](../Page/稲垣隆史.md "wikilink")                           |
+| ケリー上院議員                                                                                   | [ブルース・デイヴィソン](../Page/ブルース・デイヴィソン.md "wikilink")                                 | [千田光男](../Page/千田光男.md "wikilink")                           |
+| ユリコ（レディ・デスストライク）                                                                          | [ケリー・ヒュー](../Page/ケリー・ヒュー.md "wikilink")                                         | [小林優子](../Page/小林優子.md "wikilink")                           |
+| マッケナ大統領                                                                                   | [コッター・スミス](https://ja.wikipedia.org/wiki/コッター・スミス "wikilink")                    | [原康義](../Page/原康義.md "wikilink")                             |
 | ジャッキー                                                                                     |                                                                                  | [正木美也子](https://ja.wikipedia.org/wiki/正木美也子 "wikilink")      |
 | ジェイソン                                                                                     | [マイケル・リード・マッケイ](https://ja.wikipedia.org/wiki/マイケル・リード・マッケイ "wikilink")          | [根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")        |
 | 女の子（ジェイソンのイメージ）                                                                           | [キーリー・パーヴィス](https://ja.wikipedia.org/wiki/キーリー・パーヴィス "wikilink")                | [川田妙子](../Page/川田妙子.md "wikilink")                           |
-| ウォルターズ                                                                                    |                                                                                  | [沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")        |
-| ローリオ                                                                                      | [タイ・オルソン](https://ja.wikipedia.org/wiki/タイ・オルソン "wikilink")                      | [高宮俊介](https://ja.wikipedia.org/wiki/高宮俊介 "wikilink")        |
-| コロッサス                                                                                     | [ダニエル・クドモア](https://ja.wikipedia.org/wiki/ダニエル・クドモア "wikilink")                  | [加藤亮夫](https://ja.wikipedia.org/wiki/加藤亮夫 "wikilink")        |
-| ライマン（ストライカーの兵士）                                                                           | <small>[ピーター・ウィングフィールド](https://ja.wikipedia.org/wiki/ピーター・ウィングフィールド "wikilink") | [水内清光](https://ja.wikipedia.org/wiki/水内清光 "wikilink")        |
-| ラングロア                                                                                     |                                                                                  | [松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")   |
-| ロニー・ドレイク（ボビーの弟）                                                                           | [ジェームズ・カーク](https://ja.wikipedia.org/wiki/ジェームズ・カーク_\(俳優\) "wikilink")           | [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")          |
+| ウォルターズ                                                                                    |                                                                                  | [沢木郁也](../Page/沢木郁也.md "wikilink")                           |
+| ローリオ                                                                                      | [タイ・オルソン](https://ja.wikipedia.org/wiki/タイ・オルソン "wikilink")                      | [高宮俊介](../Page/高宮俊介.md "wikilink")                           |
+| コロッサス                                                                                     | [ダニエル・クドモア](https://ja.wikipedia.org/wiki/ダニエル・クドモア "wikilink")                  | [加藤亮夫](../Page/加藤亮夫.md "wikilink")                           |
+| ライマン（ストライカーの兵士）                                                                           | <small>[ピーター・ウィングフィールド](https://ja.wikipedia.org/wiki/ピーター・ウィングフィールド "wikilink") | [水内清光](../Page/水内清光.md "wikilink")                           |
+| ラングロア                                                                                     |                                                                                  | [松本大](../Page/松本大_\(声優\).md "wikilink")                      |
+| ロニー・ドレイク（ボビーの弟）                                                                           | [ジェームズ・カーク](https://ja.wikipedia.org/wiki/ジェームズ・カーク_\(俳優\) "wikilink")           | [仲野裕](../Page/仲野裕.md "wikilink")                             |
 | マデリーン・ドレイク（ボビーの母）                                                                         | [ジル・ティード](https://ja.wikipedia.org/wiki/ジル・ティード "wikilink")                      | [小野洋子](https://ja.wikipedia.org/wiki/小野洋子_\(女優\) "wikilink") |
-| ビル                                                                                        |                                                                                  | [永井誠](https://ja.wikipedia.org/wiki/永井誠 "wikilink")          |
+| ビル                                                                                        |                                                                                  | [永井誠](../Page/永井誠.md "wikilink")                             |
 | ダグ                                                                                        |                                                                                  | [佐々木健](../Page/佐々木健_\(声優\).md "wikilink")                    |
 | アーチー                                                                                      | [ブライス・ホジソン](https://ja.wikipedia.org/wiki/ブライス・ホジソン "wikilink")                  | [小林沙苗](../Page/小林沙苗.md "wikilink")                           |
-| [ジュビリー](https://ja.wikipedia.org/wiki/ジュビリー_\(マーベル・コミック\) "wikilink")                     | [リーキー・ウォン](https://ja.wikipedia.org/wiki/リーキー・ウォン "wikilink")                    | [紗川じゅん](../Page/紗川じゅん.md "wikilink")                         |
+| [ジュビリー](../Page/ジュビリー_\(マーベル・コミック\).md "wikilink")                                        | [リーキー・ウォン](https://ja.wikipedia.org/wiki/リーキー・ウォン "wikilink")                    | [紗川じゅん](../Page/紗川じゅん.md "wikilink")                         |
 | ジョーンズ                                                                                     | [コナー・ウィドーズ](https://ja.wikipedia.org/wiki/コナー・ウィドーズ "wikilink")                  | [重松朋](../Page/重松朋.md "wikilink")                             |
 | [サイリーン](https://ja.wikipedia.org/wiki/サイリーン "wikilink")                                   | [ショーナ・ケイン](https://ja.wikipedia.org/wiki/ショーナ・ケイン "wikilink")                    | [伊東恵里](../Page/伊東恵里.md "wikilink")                           |
-| セレブロ（声）                                                                                   |                                                                                  | [水落幸子](https://ja.wikipedia.org/wiki/水落幸子 "wikilink")        |
+| セレブロ（声）                                                                                   |                                                                                  | [水落幸子](../Page/水落幸子.md "wikilink")                           |
 | 少年\#1                                                                                     |                                                                                  | [羽切翔](https://ja.wikipedia.org/wiki/羽切翔 "wikilink")          |
-| 少年\#2                                                                                     |                                                                                  | [牛村友哉](https://ja.wikipedia.org/wiki/牛村友哉 "wikilink")        |
+| 少年\#2                                                                                     |                                                                                  | [牛村友哉](../Page/牛村友哉.md "wikilink")                           |
 | ERT隊員                                                                                     |                                                                                  | [宮崎倫彰](https://ja.wikipedia.org/wiki/宮崎倫彰 "wikilink")        |
-| 警備員                                                                                       |                                                                                  | [小谷津央典](https://ja.wikipedia.org/wiki/小谷津央典 "wikilink")      |
+| 警備員                                                                                       |                                                                                  | [小谷津央典](../Page/小谷津央典.md "wikilink")                         |
 | 女子生徒                                                                                      |                                                                                  | [有村智子](https://ja.wikipedia.org/wiki/有村智子 "wikilink")        |
 | その他声の出演                                                                                   |                                                                                  |                                                              |
 |                                                                                           |                                                                                  |                                                              |
@@ -81,7 +81,7 @@
 
 ## スタッフ
 
-  - 監督：[ブライアン・シンガー](https://ja.wikipedia.org/wiki/ブライアン・シンガー "wikilink")
+  - 監督：[ブライアン・シンガー](../Page/ブライアン・シンガー.md "wikilink")
   - 脚本：マイケル・ドハティ、ダニエル・P・ハリス、ブライアン・シンガー
   - 製作総指揮：[スタン・リー](../Page/スタン・リー.md "wikilink")
   - 視覚効果：[リズム&ヒューズ](https://ja.wikipedia.org/wiki/リズム&ヒューズ "wikilink")、[シネサイト](https://ja.wikipedia.org/wiki/シネサイト "wikilink")
@@ -97,7 +97,7 @@
 
 ## 興行
 
-2003年[4月30日](../Page/4月30日.md "wikilink")から[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")にかけて世界同時公開された。同年[4月24日](../Page/4月24日.md "wikilink")の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")での[プレミア](https://ja.wikipedia.org/wiki/プレミア "wikilink")上映が、世界で最も早い上映となった\[1\]。
+2003年[4月30日](../Page/4月30日.md "wikilink")から[5月3日](../Page/5月3日.md "wikilink")にかけて世界同時公開された。同年[4月24日](../Page/4月24日.md "wikilink")の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")での[プレミア](../Page/プレミア.md "wikilink")上映が、世界で最も早い上映となった\[1\]。
 
 アメリカでは2003年[4月28日](../Page/4月28日.md "wikilink")にプレミア上映された後、2003年[5月2日](../Page/5月2日.md "wikilink")に3741館で公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場から2週連続で1位にランクイン、その後トップ10内に7週間留まった。
 
@@ -118,4 +118,4 @@
   -
 [Category:X-メンの映画作品](https://ja.wikipedia.org/wiki/Category:X-メンの映画作品 "wikilink") [Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:ボストンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ボストンを舞台とした映画作品 "wikilink") [Category:ニューヨーク市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした映画作品 "wikilink") [Category:ワシントンD.C.を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.を舞台とした映画作品 "wikilink") [Category:瞬間移動を題材にした映画作品](https://ja.wikipedia.org/wiki/Category:瞬間移動を題材にした映画作品 "wikilink") [Category:ウルヴァリンの映画作品](https://ja.wikipedia.org/wiki/Category:ウルヴァリンの映画作品 "wikilink") [Category:バンクーバーで製作された映画作品](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作された映画作品 "wikilink") [Category:アルバータ州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:アルバータ州で製作された映画作品 "wikilink") [Category:ブライアン・シンガーの監督映画](https://ja.wikipedia.org/wiki/Category:ブライアン・シンガーの監督映画 "wikilink") [Category:ジョン・オットマンの作曲映画](https://ja.wikipedia.org/wiki/Category:ジョン・オットマンの作曲映画 "wikilink") [Category:20世紀フォックスの作品](https://ja.wikipedia.org/wiki/Category:20世紀フォックスの作品 "wikilink") [Category:サターン賞受賞作品](https://ja.wikipedia.org/wiki/Category:サターン賞受賞作品 "wikilink")
 
-1.  世界で最も早く公開したのは[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")である
+1.  世界で最も早く公開したのは[オーストラリア](../Page/オーストラリア.md "wikilink")である

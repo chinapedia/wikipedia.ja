@@ -18,21 +18,21 @@
 
 ### 一般名詞
 
-  - [ガーター勲章](https://ja.wikipedia.org/wiki/ガーター勲章 "wikilink")を授けられた男性（ガーター騎士団員）の称号。**K**night of Order of **G**arter
-  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")における企業組織の一形態 *[Kommanditgesellschaft](https://ja.wikipedia.org/wiki/:de:Kommanditgesellschaft "wikilink")*。日本での[合資会社](https://ja.wikipedia.org/wiki/合資会社 "wikilink")に相当する。
+  - [ガーター勲章](../Page/ガーター勲章.md "wikilink")を授けられた男性（ガーター騎士団員）の称号。**K**night of Order of **G**arter
+  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")における企業組織の一形態 *[Kommanditgesellschaft](https://ja.wikipedia.org/wiki/:de:Kommanditgesellschaft "wikilink")*。日本での[合資会社](../Page/合資会社.md "wikilink")に相当する。
 
 ### 固有名詞
 
 #### 企業・団体
 
-  - [兼松](https://ja.wikipedia.org/wiki/兼松 "wikilink")（兼松江商 **K**anematsu **G**osho）の略称。
-  - [関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink") (**K**wansei **G**akuin University)の通称
+  - [兼松](../Page/兼松.md "wikilink")（兼松江商 **K**anematsu **G**osho）の略称。
+  - [関西学院大学](../Page/関西学院大学.md "wikilink") (**K**wansei **G**akuin University)の通称
   - 九州旅客鉄道[鹿児島総合車両所](https://ja.wikipedia.org/wiki/鹿児島総合車両所 "wikilink")（**K**A**G**OSHIMA）の略称。
-  - ヒップホップグループ、[KGDR](https://ja.wikipedia.org/wiki/KGDR "wikilink")の略称。
+  - ヒップホップグループ、[KGDR](../Page/KGDR.md "wikilink")の略称。
 
 #### 人名
 
-  - [ブルックリン・ネッツ](https://ja.wikipedia.org/wiki/ブルックリン・ネッツ "wikilink")所属の[バスケットボール](../Page/バスケットボール.md "wikilink")選手、[ケビン・ガーネット](https://ja.wikipedia.org/wiki/ケビン・ガーネット "wikilink") (**K**evin **G**arnett) の愛称。
+  - [ブルックリン・ネッツ](../Page/ブルックリン・ネッツ.md "wikilink")所属の[バスケットボール](../Page/バスケットボール.md "wikilink")選手、[ケビン・ガーネット](../Page/ケビン・ガーネット.md "wikilink") (**K**evin **G**arnett) の愛称。
 
 **その他**
 
@@ -40,14 +40,14 @@
 
 ## コード・形式名
 
-  - [国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](https://ja.wikipedia.org/wiki/ISO_3166-1 "wikilink")）で、[キルギス](../Page/キルギス.md "wikilink")を示す。
-      - [.kg](https://ja.wikipedia.org/wiki/.kg "wikilink") - コモロの[国別コードトップレベルドメイン](https://ja.wikipedia.org/wiki/国別コードトップレベルドメイン "wikilink")（ccTLD）
-  - [言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")（ISO 639-1）で、[コンゴ語](https://ja.wikipedia.org/wiki/コンゴ語 "wikilink")を示す。
-  - [漁船](https://ja.wikipedia.org/wiki/漁船 "wikilink")の登録番号において[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")を表す識別標（漁船法施行規則13条・付録第二）
-  - [NHK甲府放送局](https://ja.wikipedia.org/wiki/NHK甲府放送局 "wikilink") (JO**KG**) の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")
+  - [国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、[キルギス](../Page/キルギス.md "wikilink")を示す。
+      - [.kg](https://ja.wikipedia.org/wiki/.kg "wikilink") - コモロの[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")（ccTLD）
+  - [言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、[コンゴ語](../Page/コンゴ語.md "wikilink")を示す。
+  - [漁船](../Page/漁船.md "wikilink")の登録番号において[鹿児島県](../Page/鹿児島県.md "wikilink")を表す識別標（漁船法施行規則13条・付録第二）
+  - [NHK甲府放送局](../Page/NHK甲府放送局.md "wikilink") (JO**KG**) の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")
 
 ## 関連項目
 
-  - [ラテン文字のアルファベット二文字組み合わせの一覧](https://ja.wikipedia.org/wiki/ラテン文字のアルファベット二文字組み合わせの一覧 "wikilink")
+  - [ラテン文字のアルファベット二文字組み合わせの一覧](../Page/ラテン文字のアルファベット二文字組み合わせの一覧.md "wikilink")
   - [KGで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/KG "wikilink")
   - [Kg,kgで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/Kg "wikilink")

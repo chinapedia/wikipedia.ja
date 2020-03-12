@@ -1,9 +1,9 @@
 > この記事は[FLASH \(\)](https://ja.wikipedia.org/wiki/FLASH_\(\))から翻訳されています。
 
 
-『**FLASH**』（フラッシュ）は、[光文社](../Page/光文社.md "wikilink")発行の[写真週刊誌](https://ja.wikipedia.org/wiki/写真週刊誌 "wikilink")。毎週[火曜日](../Page/火曜日.md "wikilink")発売（合併号を除く）。創刊は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")。
+『**FLASH**』（フラッシュ）は、[光文社](../Page/光文社.md "wikilink")発行の[写真週刊誌](../Page/写真週刊誌.md "wikilink")。毎週[火曜日](../Page/火曜日.md "wikilink")発売（合併号を除く）。創刊は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")。
 
-同ジャンルの写真週刊誌『[FOCUS](https://ja.wikipedia.org/wiki/FOCUS "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[FRIDAY](https://ja.wikipedia.org/wiki/FRIDAY_\(雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）、創刊当初は『[Emma](https://ja.wikipedia.org/wiki/Emma "wikilink")』（[文藝春秋](../Page/文藝春秋.md "wikilink")）、『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(週刊誌\) "wikilink")』（[小学館](../Page/小学館.md "wikilink")）\[1\]。
+同ジャンルの写真週刊誌『[FOCUS](../Page/FOCUS.md "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[FRIDAY](../Page/FRIDAY_\(雑誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）、創刊当初は『[Emma](../Page/Emma.md "wikilink")』（[文藝春秋](../Page/文藝春秋.md "wikilink")）、『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(週刊誌\) "wikilink")』（[小学館](../Page/小学館.md "wikilink")）\[1\]。
 
 当項目では、『FLASH』が主催する「**ミスFLASH**」についても扱う。
 
@@ -11,11 +11,11 @@
 
 1986年の創刊。
 
-[2000年](../Page/2000年.md "wikilink")春、電子書籍販売サイト「[Bitway-books](../Page/ビットウェイ.md "wikilink")」で[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の事業展開を開始。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から表紙デザインを一新しイメージチェンジを図る。『FLASH』の[ロゴをポップなものに変え](../Page/ロゴタイプ.md "wikilink")、担当の写真家を[篠山紀信](../Page/篠山紀信.md "wikilink")から[松田忠雄](https://ja.wikipedia.org/wiki/松田忠雄 "wikilink")へと変更した\[2\]。
+[2000年](../Page/2000年.md "wikilink")春、電子書籍販売サイト「[Bitway-books](../Page/ビットウェイ.md "wikilink")」で[インターネット](../Page/インターネット.md "wikilink")の事業展開を開始。[2005年](../Page/2005年.md "wikilink")から表紙デザインを一新しイメージチェンジを図る。『FLASH』の[ロゴをポップなものに変え](../Page/ロゴタイプ.md "wikilink")、担当の写真家を[篠山紀信](../Page/篠山紀信.md "wikilink")から[松田忠雄](https://ja.wikipedia.org/wiki/松田忠雄 "wikilink")へと変更した\[2\]。
 
-同じく[光文社](../Page/光文社.md "wikilink")が発行していた『[週刊宝石](https://ja.wikipedia.org/wiki/週刊宝石 "wikilink")』が[2001年](../Page/2001年.md "wikilink")に廃刊となり、その機能を統合して現在に至る。
+同じく[光文社](../Page/光文社.md "wikilink")が発行していた『[週刊宝石](../Page/週刊宝石.md "wikilink")』が[2001年](../Page/2001年.md "wikilink")に廃刊となり、その機能を統合して現在に至る。
 
-公式の[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクターは「[写写丸（しゃしゃまる）](https://ja.wikipedia.org/wiki/#写写丸 "wikilink")」。ちなみに2000年には、写写丸も登場するパズルゲーム「FLASH 恋人クン」が[ワンダースワン](../Page/ワンダースワン.md "wikilink")用ソフトとして発売されている\[3\]。
+公式の[マスコット](../Page/マスコット.md "wikilink")キャラクターは「[写写丸（しゃしゃまる）](https://ja.wikipedia.org/wiki/#写写丸 "wikilink")」。ちなみに2000年には、写写丸も登場するパズルゲーム「FLASH 恋人クン」が[ワンダースワン](../Page/ワンダースワン.md "wikilink")用ソフトとして発売されている\[3\]。
 
 記事・[グラビアでは](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")、30歳未満の女性[タレント](../Page/タレント.md "wikilink")を「クン」（30歳以上は「サン」）付けする。
 
@@ -35,13 +35,13 @@
 
 ## ミスFLASH
 
-『FLASH』が主催する[ミス・コンテスト](https://ja.wikipedia.org/wiki/ミス・コンテスト "wikilink")。同誌の創刊20周年を記念して[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に創設された。
+『FLASH』が主催する[ミス・コンテスト](../Page/ミス・コンテスト.md "wikilink")。同誌の創刊20周年を記念して[2006年](../Page/2006年.md "wikilink")に創設された。
 
 ### 受賞者
 
   - 第1回（2006年）
-      - グランプリ:[稲生美紀](https://ja.wikipedia.org/wiki/稲生美紀 "wikilink")
-      - 準グランプリ:[吉原夏紀](https://ja.wikipedia.org/wiki/吉原夏紀 "wikilink")、[ますきあこ](https://ja.wikipedia.org/wiki/桝木亜子 "wikilink")
+      - グランプリ:[稲生美紀](../Page/稲生美紀.md "wikilink")
+      - 準グランプリ:[吉原夏紀](../Page/吉原夏紀.md "wikilink")、[ますきあこ](../Page/桝木亜子.md "wikilink")
       - 審査員特別賞:[山本由貴](../Page/山本由貴.md "wikilink")
 
 <!-- end list -->

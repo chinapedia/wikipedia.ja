@@ -5,9 +5,9 @@
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
-シンガーソングライターとして活動していた山田にとって初の提供曲（作詞は共作）となる。[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")の化粧品ブランド『[MAQuillAGE](../Page/MAQuillAGE.md "wikilink")』の[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")よりイントロ部がオンエアされていた。発売翌週の2006年4月第2週のオリコンチャートで初登場15位を記録し、スマッシュヒット。[5月20日](../Page/5月20日.md "wikilink")には[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』の「新入戦士 FRESH FIGHTER」コーナーに同曲で出演し、初の全国ネットテレビ音楽番組出演を果たした。
+シンガーソングライターとして活動していた山田にとって初の提供曲（作詞は共作）となる。[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")の化粧品ブランド『[MAQuillAGE](../Page/MAQuillAGE.md "wikilink")』の[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として[2005年](../Page/2005年.md "wikilink")よりイントロ部がオンエアされていた。発売翌週の2006年4月第2週のオリコンチャートで初登場15位を記録し、スマッシュヒット。[5月20日](../Page/5月20日.md "wikilink")には[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』の「新入戦士 FRESH FIGHTER」コーナーに同曲で出演し、初の全国ネットテレビ音楽番組出演を果たした。
 
 シングル収録のバージョンはアウトロ部分がフェードアウトとなってカットされているが、ミニアルバム『[回廊](../Page/回廊_\(アルバム\).md "wikilink")』およびアルバム『[start](https://ja.wikipedia.org/wiki/start_\(山田タマルのアルバム\) "wikilink")』ではアウトロ部分がカットされていないものが収録されている。
 

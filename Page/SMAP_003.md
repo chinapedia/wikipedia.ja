@@ -1,7 +1,7 @@
 > この記事は[SMAP 003](https://ja.wikipedia.org/wiki/SMAP_003)から翻訳されています。
 
 
-『**SMAP 003**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。 [1993年](../Page/1993年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）から発売された。
+『**SMAP 003**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1993年](../Page/1993年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）から発売された。
 
 ## 解説
 
@@ -19,12 +19,12 @@
         リミックスアルバム「[BOO](../Page/BOO_\(アルバム\).md "wikilink")」にも収録されている。
 3.  **いますぐ天気にしておくれ**
       -
-        作詞：浅田有理 / 作曲：[樫原伸彦](https://ja.wikipedia.org/wiki/樫原伸彦 "wikilink") / 編曲：[重実徹](../Page/重実徹.md "wikilink") / コーラスアレンジ：[松下誠](../Page/松下誠.md "wikilink")
+        作詞：浅田有理 / 作曲：[樫原伸彦](../Page/樫原伸彦.md "wikilink") / 編曲：[重実徹](../Page/重実徹.md "wikilink") / コーラスアレンジ：[松下誠](../Page/松下誠.md "wikilink")
 4.  **Happy Birthday**
       -
-        作詞：小倉めぐみ / 作曲：羽場仁志 / 編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：小倉めぐみ / 作曲：羽場仁志 / 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
         1stインストゥルメンタルアルバム「[SMAPPIES - Rhythmsticks](https://ja.wikipedia.org/wiki/SMAPPIES_-_Rhythmsticks "wikilink")」にも収録されている。
-5.  **Cry** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[森且行](../Page/森且行.md "wikilink")
+5.  **Cry** - [木村拓哉](../Page/木村拓哉.md "wikilink")・[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[森且行](../Page/森且行.md "wikilink")
       -
         作詞：久和カノン / 作曲：羽場仁志 / 編曲：[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink") / コーラスアレンジ：椎名和夫
 6.  **言わなきゃわからない** - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")

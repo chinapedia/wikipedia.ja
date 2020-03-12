@@ -1,7 +1,7 @@
 > この記事は[SMAP 002](https://ja.wikipedia.org/wiki/SMAP_002)から翻訳されています。
 
 
-『**SMAP 002**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。 [1992年](../Page/1992年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**SMAP 002**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1992年](../Page/1992年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 
@@ -19,26 +19,26 @@
         作詞：[浅田有理](https://ja.wikipedia.org/wiki/浅田有理 "wikilink") / 作曲：[多々納好夫](../Page/多々納好夫.md "wikilink") / 編曲：[重実徹](../Page/重実徹.md "wikilink")
     <!-- end list -->
       - SMAP主演 VHS/DVD「[オリジナル・ストーリー 心の鏡](https://ja.wikipedia.org/wiki/オリジナル・ストーリー_心の鏡 "wikilink")」挿入歌
-      - SMAP主演 映画「[シュート\!](https://ja.wikipedia.org/wiki/シュート! "wikilink")」挿入歌
+      - SMAP主演 映画「[シュート\!](../Page/シュート!.md "wikilink")」挿入歌
 3.  **Adieu**
       -
         作詞：[高柳恋](../Page/高柳恋.md "wikilink") / 作曲：[谷本新](https://ja.wikipedia.org/wiki/谷本新 "wikilink") / 編曲：[椎名和夫](../Page/椎名和夫.md "wikilink")
 4.  **Living in the Jungle**
       -
-        作詞：[相田毅](https://ja.wikipedia.org/wiki/相田毅 "wikilink") / 作曲：[川上明彦](https://ja.wikipedia.org/wiki/川上明彦 "wikilink") / 編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink") / コーラスアレンジ：椎名和夫
+        作詞：[相田毅](https://ja.wikipedia.org/wiki/相田毅 "wikilink") / 作曲：[川上明彦](https://ja.wikipedia.org/wiki/川上明彦 "wikilink") / 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink") / コーラスアレンジ：椎名和夫
 5.  **さよならのサマーレイン** - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[森且行](../Page/森且行.md "wikilink")
       -
         作詞：相田毅 / 作曲・編曲：[野崎昌利](https://ja.wikipedia.org/wiki/野崎昌利 "wikilink") / コーラスアレンジ：椎名和夫
 6.  **Fade Out**
       -
-        作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲：[羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink") / 編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲：[羽田一郎](../Page/羽田一郎.md "wikilink") / 編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
         リミックスアルバム「[BOO](../Page/BOO_\(アルバム\).md "wikilink")」にも収録されている。
-7.  **恋のメロディー** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+7.  **恋のメロディー** - [木村拓哉](../Page/木村拓哉.md "wikilink")
       -
         作詞・作曲：[山森正之](https://ja.wikipedia.org/wiki/山森正之 "wikilink") / 編曲：[THE SHAMROCK](../Page/ザ・シャムロック.md "wikilink")
 8.  **Waiting Waiting Waiting**
       -
-        作詞：小倉めぐみ / [TAKUYA](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink") / 作曲：[谷本新](https://ja.wikipedia.org/wiki/谷本新 "wikilink") / 編曲：[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")
+        作詞：小倉めぐみ / [TAKUYA](../Page/木村拓哉.md "wikilink") / 作曲：[谷本新](https://ja.wikipedia.org/wiki/谷本新 "wikilink") / 編曲：[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")
 9.  **Part Time Kiss** - 木村拓哉・稲垣吾郎
       -
         作詞：[久和カノン](https://ja.wikipedia.org/wiki/久和カノン "wikilink") /作曲：川上明彦 / 編曲：CHOKKAKU

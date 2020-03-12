@@ -1,13 +1,13 @@
 > この記事は[HORIZON \(HYDE\)](https://ja.wikipedia.org/wiki/HORIZON_\(HYDE\))から翻訳されています。
 
 
-「**HORIZON**」（ホライズン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
+「**HORIZON**」（ホライズン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
 
 ## 解説
 
 前作「[HELLO](../Page/HELLO_\(HYDEの曲\).md "wikilink")」以来5ヶ月ぶりとなるシングル。
 
-表題曲の「HORIZON」は[ファルセット](../Page/ファルセット.md "wikilink")、[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")などを使い分けて歌われている。今作の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は、「[MTV Video Music Awards Japan](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink") 2004」最優秀buzzASIA賞にノミネートされた。
+表題曲の「HORIZON」は[ファルセット](../Page/ファルセット.md "wikilink")、[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")などを使い分けて歌われている。今作の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、「[MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink") 2004」最優秀buzzASIA賞にノミネートされた。
 
 カップリングには[ビートルズ](../Page/ビートルズ.md "wikilink")の楽曲「[Lucy in the Sky with Diamonds](../Page/ルーシー・イン・ザ・スカイ・ウィズ・ダイアモンズ.md "wikilink")」の[カバー](../Page/カバー.md "wikilink")を収録している。
 

@@ -1,13 +1,13 @@
 > この記事は[SHALLOW SLEEP](https://ja.wikipedia.org/wiki/SHALLOW_SLEEP)から翻訳されています。
 
 
-「**SHALLOW SLEEP**」（シャロー スリープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
+「**SHALLOW SLEEP**」（シャロー スリープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
 
 ## 解説
 
 前作「[Angel's tale](../Page/Angel's_tale.md "wikilink")」の発売から、約3ヶ月後という短い期間でリリースされた。
 
-本作は初回限定盤（8cmCD）と通常盤（12cmCD）の2形態でリリース。初回限定盤仕様は8cmシングル、[棺桶](https://ja.wikipedia.org/wiki/棺桶 "wikilink")型の特別ケース。「[evergreen](https://ja.wikipedia.org/wiki/evergreen_\(HYDEの曲\) "wikilink")」の[バラ](../Page/バラ.md "wikilink")、「Angel's tale」のトルコ[キキョウ](https://ja.wikipedia.org/wiki/キキョウ "wikilink")に続き、今作では4頭の[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")が釘で打ち付けられたジャケットになっている。4本という数についてHYDEは、「バラが1本で、トルコキキョウが偶然2本という形（クリスマスベルのイメージから）になってしまったから、次は3本だろうという予想を裏切りたかった」と語っている\[1\]。なお、今作までの3作品のジャケットに用いられた花は全て、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の[誕生花](https://ja.wikipedia.org/wiki/誕生花 "wikilink")である。
+本作は初回限定盤（8cmCD）と通常盤（12cmCD）の2形態でリリース。初回限定盤仕様は8cmシングル、[棺桶](https://ja.wikipedia.org/wiki/棺桶 "wikilink")型の特別ケース。「[evergreen](https://ja.wikipedia.org/wiki/evergreen_\(HYDEの曲\) "wikilink")」の[バラ](../Page/バラ.md "wikilink")、「Angel's tale」のトルコ[キキョウ](../Page/キキョウ.md "wikilink")に続き、今作では4頭の[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")が釘で打ち付けられたジャケットになっている。4本という数についてHYDEは、「バラが1本で、トルコキキョウが偶然2本という形（クリスマスベルのイメージから）になってしまったから、次は3本だろうという予想を裏切りたかった」と語っている\[1\]。なお、今作までの3作品のジャケットに用いられた花は全て、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の[誕生花](../Page/誕生花.md "wikilink")である。
 
 表題曲の「SHALLOWS SLEEP」は前作2曲に比べ、曲調は若干テンポアップされたナンバー。人間は浅い眠り（[レム睡眠](../Page/レム睡眠.md "wikilink")）のときに[夢](../Page/夢.md "wikilink")を見るとされていることから、このタイトルが付けられた。歌詞の内容も「夢」がテーマになっている。HYDEは「ギターもドラムも全部入っているし、ラルクでやってもよかった曲」とコメントしている。また、[チェロ](../Page/チェロ.md "wikilink")がソロをとっている。
 
@@ -19,7 +19,7 @@
 
 **SHALLOW SLEEP**
 
-  - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")』エンディングテーマ
+  - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")』エンディングテーマ
 
 ## 参加ミュージシャン
 

@@ -1,14 +1,14 @@
 > この記事は[Be \(2\)](https://ja.wikipedia.org/wiki/Be_\(2\))から翻訳されています。
 
 
-**be**（びー）は、[匿名](../Page/匿名.md "wikilink")[掲示板](../Page/電子掲示板.md "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[カテゴリ](https://ja.wikipedia.org/wiki/カテゴリ "wikilink")の1つである。書き込みに[認証](../Page/認証.md "wikilink")が必要な板をまとめていて、書き込みはBeログインが必要。また、全板が強制IDである。
+**be**（びー）は、[匿名](../Page/匿名.md "wikilink")[掲示板](../Page/電子掲示板.md "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[カテゴリ](../Page/カテゴリ.md "wikilink")の1つである。書き込みに[認証](../Page/認証.md "wikilink")が必要な板をまとめていて、書き込みはBeログインが必要。また、全板が強制IDである。
 
 2006年8月2日現在、Be登録人数は51,055人。
 
 ## 歴史
 
   - [2004年](../Page/2004年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink") - **面白ネタnews板**が新設される。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - **朝生板**が新設される。
+  - [2005年](../Page/2005年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") - **朝生板**が新設される。
   - 2005年[3月9日](../Page/3月9日.md "wikilink") - **なんでも質問板**が新設される。
 
 ## 掲示板

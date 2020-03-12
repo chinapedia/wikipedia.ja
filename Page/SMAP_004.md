@@ -16,7 +16,7 @@
 
 1.  **ポケットに青春のFUN FUN FUN**
       -
-        作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink") / 作曲・編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink") / コーラスアレンジ：[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink")
+        作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink") / 作曲・編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink") / コーラスアレンジ：[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink")
         リミックスアルバム「[BOO](../Page/BOO_\(アルバム\).md "wikilink")」、2ndベストアルバム「[Wool](../Page/WOOL_\(アルバム\).md "wikilink")」にも収録されている。
 2.  **かなしいほど青い空**
       -
@@ -24,7 +24,7 @@
         1stベストアルバム「[Cool](../Page/Cool_\(SMAPのアルバム\).md "wikilink")」、4thベストアルバム「[pamS](https://ja.wikipedia.org/wiki/pamS "wikilink")」にも収録されている。
 3.  **[ずっと忘れない](https://ja.wikipedia.org/wiki/ずっと忘れない "wikilink")**（アルバム・バージョン）
       -
-        作詞：[森浩美](../Page/森浩美.md "wikilink") / 作曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink") / 編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+        作詞：[森浩美](../Page/森浩美.md "wikilink") / 作曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink") / 編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
     <!-- end list -->
       - 7thシングルのアルバム・バージョン
 4.  **永遠に抱きしめたい** - [森且行](../Page/森且行.md "wikilink")
@@ -45,17 +45,17 @@
 9.  **September Rain** - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
       -
         作詞：[覚和歌子](../Page/覚和歌子.md "wikilink") / 作曲・編曲：長岡成貢 / コーラスアレンジ：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
-10. **こんなに僕を切なくさせてるのに** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")
+10. **こんなに僕を切なくさせてるのに** - [木村拓哉](../Page/木村拓哉.md "wikilink")
       -
         作詞：小倉めぐみ / 作曲：谷本新 / 編曲：CHOKKAKU
-11. **[泣きたい気持ち](https://ja.wikipedia.org/wiki/Hey_Hey_おおきに毎度あり "wikilink")** - [中居正広](../Page/中居正広.md "wikilink")
+11. **[泣きたい気持ち](../Page/Hey_Hey_おおきに毎度あり.md "wikilink")** - [中居正広](../Page/中居正広.md "wikilink")
       -
         作詞：相田毅 / 作曲：太田美知彦 / 編曲：土方隆行
     <!-- end list -->
       - 12thシングル「Hey Hey おおきに毎度あり」カップリングのアルバム・バージョン
 12. **[笑顔のゲンキ](../Page/笑顔のゲンキ.md "wikilink")**
       -
-        作詞：森浩美 / 作曲：馬飼野康二 / 編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+        作詞：森浩美 / 作曲：馬飼野康二 / 編曲：[船山基紀](../Page/船山基紀.md "wikilink")
     <!-- end list -->
       - 5thシングル
 13. **[雪が降ってきた](https://ja.wikipedia.org/wiki/雪が降ってきた "wikilink")**（アルバム・バージョン）

@@ -1,11 +1,11 @@
 > この記事は[Go For It!](https://ja.wikipedia.org/wiki/Go_For_It!)から翻訳されています。
 
 
-「**Go For It\!**」（ゴー・フォー・イット）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[Lantisより発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")[KISHOWと](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")[e-ZUKAによるロックユニット](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")、[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink")のデビューシングルである。
+「**Go For It\!**」（ゴー・フォー・イット）は、[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[Lantisより発売された](../Page/ランティス.md "wikilink")[KISHOWと](../Page/谷山紀章.md "wikilink")[e-ZUKAによるロックユニット](../Page/飯塚昌明.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")のデビューシングルである。
 
 ## 解説
 
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系・[カートゥーンネットワーク](https://ja.wikipedia.org/wiki/カートゥーンネットワーク "wikilink")アニメ『[IGPX](https://ja.wikipedia.org/wiki/IGPX "wikilink")』オープニングテーマ。
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系・[カートゥーンネットワーク](https://ja.wikipedia.org/wiki/カートゥーンネットワーク "wikilink")アニメ『[IGPX](../Page/IGPX.md "wikilink")』オープニングテーマ。
   - 「Go For It\!」はGRANRODEOの楽曲の中でカバー曲を除けば、唯一KISHOWが作詞をしていない作品である。
 
 ## 収録曲

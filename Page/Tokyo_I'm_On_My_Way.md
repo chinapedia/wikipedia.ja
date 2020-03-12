@@ -1,11 +1,11 @@
 > この記事は[Tokyo I\'m On My Way](https://ja.wikipedia.org/wiki/Tokyo_I\'m_On_My_Way)から翻訳されています。
 
 
-「**Tokyo I'm On My Way**」（トキオ・アイム・オン・マイ・ウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")コンビである[PUFFY](../Page/PUFFY.md "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[Ki/oon Recordsよりリリースされた](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。[アルバム](../Page/アルバム.md "wikilink")の先行[シングル](../Page/シングル.md "wikilink")となったがアルバムには[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は収録されていない。
+「**Tokyo I'm On My Way**」（トキオ・アイム・オン・マイ・ウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")コンビである[PUFFY](../Page/PUFFY.md "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[Ki/oon Recordsよりリリースされた](../Page/キューンミュージック.md "wikilink")。[アルバム](../Page/アルバム.md "wikilink")の先行[シングル](../Page/シングル.md "wikilink")となったがアルバムには[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は収録されていない。
 
 ## 解説
 
-Puffy10周年記念シングル第2弾。[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")は[オフスプリング](https://ja.wikipedia.org/wiki/オフスプリング "wikilink")の[デクスター・ホーランド](https://ja.wikipedia.org/wiki/デクスター・ホーランド "wikilink")。タイトル曲である『Tokyo I'm On My Way』では、[ギタリスト](../Page/ギタリスト.md "wikilink")として元[CHARCOAL FILTERの](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER "wikilink")[小名川高弘](https://ja.wikipedia.org/wiki/小名川高弘 "wikilink")が参加している。また、オランダのバンドGruppo Sportivoのwikiでも書かれるように、彼らの1978年発表の曲『Tokyo』と曲、歌詞とも共通する部分が多くみられる。
+Puffy10周年記念シングル第2弾。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")は[オフスプリング](../Page/オフスプリング.md "wikilink")の[デクスター・ホーランド](../Page/デクスター・ホーランド.md "wikilink")。タイトル曲である『Tokyo I'm On My Way』では、[ギタリスト](../Page/ギタリスト.md "wikilink")として元[CHARCOAL FILTERの](../Page/CHARCOAL_FILTER.md "wikilink")[小名川高弘](../Page/小名川高弘.md "wikilink")が参加している。また、オランダのバンドGruppo Sportivoのwikiでも書かれるように、彼らの1978年発表の曲『Tokyo』と曲、歌詞とも共通する部分が多くみられる。
 
 ## 収録曲
 

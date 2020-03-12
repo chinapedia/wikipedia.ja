@@ -1,7 +1,7 @@
 > この記事は[World Hits!\? of Southern All Stars](https://ja.wikipedia.org/wiki/World_Hits!\?_of_Southern_All_Stars)から翻訳されています。
 
 
-『**World Hits\!? of Southern All Stars**』（ワールドヒッツ・オブ・サザンオールスターズ）は、[関口和之](../Page/関口和之.md "wikilink")のアルバムであり、アーティスト名義は「**関口和之&砂山オールスターズ**」として発売された[カバーアルバム](https://ja.wikipedia.org/wiki/カバーアルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。発売元は[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")。
+『**World Hits\!? of Southern All Stars**』（ワールドヒッツ・オブ・サザンオールスターズ）は、[関口和之](../Page/関口和之.md "wikilink")のアルバムであり、アーティスト名義は「**関口和之&砂山オールスターズ**」として発売された[カバーアルバム](https://ja.wikipedia.org/wiki/カバーアルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 初回盤はデジパック仕様。
 
@@ -25,12 +25,12 @@
 1.  <overture> **[涙のキッス](../Page/涙のキッス.md "wikilink")** ([a cappella](https://ja.wikipedia.org/wiki/アカペラ "wikilink"))
       - [1992年](../Page/1992年.md "wikilink")の31stシングル。
       - 「アカペラ」と表記されているが、実際には関口の[ウクレレ](../Page/ウクレレ.md "wikilink")も挿入されている。イントロのみ収録。
-2.  \<[Kingston](https://ja.wikipedia.org/wiki/キングストン_\(ジャマイカ\) "wikilink")/[JAMAICA](../Page/ジャマイカ.md "wikilink")\> **[ミス・ブランニュー・デイ (MISS BRAND-NEW DAY)](../Page/ミス・ブランニュー・デイ.md "wikilink")**'
+2.  \<[Kingston](../Page/キングストン_\(ジャマイカ\).md "wikilink")/[JAMAICA](../Page/ジャマイカ.md "wikilink")\> **[ミス・ブランニュー・デイ (MISS BRAND-NEW DAY)](../Page/ミス・ブランニュー・デイ.md "wikilink")**'
       - [1984年](../Page/1984年.md "wikilink")の20thシングル。
       - [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調にアレンジされている。
 3.  \<[Hawaii](../Page/ハワイ州.md "wikilink")/[USA](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")\> **[Ya Ya (あの時代を忘れない)](../Page/Ya_Ya_\(あの時代を忘れない\).md "wikilink")** ※
       - [1982年](../Page/1982年.md "wikilink")の16thシングル。
-4.  \<[Havana](https://ja.wikipedia.org/wiki/ハバナ "wikilink")/[CUBA](../Page/キューバ.md "wikilink")\> **[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")**
+4.  \<[Havana](../Page/ハバナ.md "wikilink")/[CUBA](../Page/キューバ.md "wikilink")\> **[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")**
       - [2000年](../Page/2000年.md "wikilink")の45thシングル。
       - ヴォーカルは[玲葉奈](https://ja.wikipedia.org/wiki/玲葉奈 "wikilink")が担当し、一部の音楽番組ではこの曲が披露されることもあった。
 5.  \<[Santa Marta](https://ja.wikipedia.org/wiki/サンタマルタ "wikilink")/[COLOMBIA](../Page/コロンビア.md "wikilink")\> **[愛の言霊 〜Spiritual Message〜](../Page/愛の言霊_〜Spiritual_Message〜.md "wikilink")** ※
@@ -41,15 +41,15 @@
       - オリジナルであるサザンの「涙のキッス」のレコーディングには、病気療養中のため関口は参加していない。
 7.  \<[California](../Page/カリフォルニア州.md "wikilink")/USA\> **[みんなのうた](../Page/みんなのうた_\(サザンオールスターズの曲\).md "wikilink")**
       - [1988年](../Page/1988年.md "wikilink")の24thシングル。
-8.  \<[Mississippi](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")/USA\> **[希望の轍](https://ja.wikipedia.org/wiki/希望の轍 "wikilink")**
-      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の映画[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")『[稲村ジェーン](../Page/稲村ジェーン_\(サウンドトラック\).md "wikilink")』収録曲。
+8.  \<[Mississippi](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")/USA\> **[希望の轍](../Page/希望の轍.md "wikilink")**
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の映画[サウンドトラック](../Page/サウンドトラック.md "wikilink")『[稲村ジェーン](../Page/稲村ジェーン_\(サウンドトラック\).md "wikilink")』収録曲。
       - 実際はサザンオールスターズ名義ではなく、こちらも関口もレコーディングには参加していなかった。
-9.  \<[Port of Spain](https://ja.wikipedia.org/wiki/ポートオブスペイン "wikilink")/[TRINIDAD AND TOBAGO](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink")\> **南たいへいよ音頭**
-      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の6thアルバム『[綺麗](https://ja.wikipedia.org/wiki/綺麗 "wikilink")』収録の関口ボーカル曲。歌詞がオリジナル版より一部変更されている。
+9.  \<[Port of Spain](../Page/ポートオブスペイン.md "wikilink")/[TRINIDAD AND TOBAGO](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink")\> **南たいへいよ音頭**
+      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の6thアルバム『[綺麗](../Page/綺麗.md "wikilink")』収録の関口ボーカル曲。歌詞がオリジナル版より一部変更されている。
 10. \<[Kerama](../Page/慶良間諸島.md "wikilink")/[JAPAN](https://ja.wikipedia.org/wiki/日本 "wikilink")\> **[Big Star Blues (ビッグスターの悲劇)](../Page/Big_Star_Blues_\(ビッグスターの悲劇\).md "wikilink")**
       - [1981年](../Page/1981年.md "wikilink")の12thシングル。
       - 原曲とはからはかけ離れたアレンジであり、サザンのファンでもこの曲を聴き原曲を連想するのは難しい。
-11. \<[Douala](https://ja.wikipedia.org/wiki/ドゥアラ "wikilink")/[CAMEROON](../Page/カメルーン.md "wikilink")\> **[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")**
+11. \<[Douala](../Page/ドゥアラ.md "wikilink")/[CAMEROON](../Page/カメルーン.md "wikilink")\> **[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")**
       - 1990年の28thシングル。
       - 歌詞はフランス語に翻訳されたものになっているが、作詞は桑田佳祐のままとなっている。
 12. \<[Dublin](../Page/ダブリン.md "wikilink")/[IRELAND](../Page/アイルランド.md "wikilink")\> **[クリスマス・ラブ (涙のあとには白い雪が降る)](../Page/クリスマス・ラブ_\(涙のあとには白い雪が降る\).md "wikilink")**
@@ -78,41 +78,41 @@
       - [CAPTAIN MOOK](../Page/関口和之.md "wikilink"):[ukulele](../Page/ウクレレ.md "wikilink")
           - LALLA from IGORANDOM
   - ミス・ブランニュー・デイ (MISS BRAND-NEW DAY)
-      - Rah-D:[dancehall](https://ja.wikipedia.org/wiki/ディスコ "wikilink") [mc](https://ja.wikipedia.org/wiki/司会 "wikilink")
+      - Rah-D:[dancehall](../Page/ディスコ.md "wikilink") [mc](../Page/司会.md "wikilink")
       - iwao:Ukulele, [chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-      - 柳満夫:[bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), [keyboards](../Page/キーボード_\(楽器\).md "wikilink"), [prgoramming](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink"), chorus
+      - 柳満夫:[bass](../Page/ベース_\(弦楽器\).md "wikilink"), [keyboards](../Page/キーボード_\(楽器\).md "wikilink"), [prgoramming](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink"), chorus
       - CAPTAIN MOOK;vocal ukulele chorus
           - iwao by the courtesy of GEMMATIKA Records
   - Ya Ya (あの時代を忘れない)
-      - 青柳拓次:[slack key guitar](../Page/ウクレレ.md "wikilink"), [xylophone](https://ja.wikipedia.org/wiki/木琴 "wikilink"), [ipu](https://ja.wikipedia.org/wiki/ヒョウタン "wikilink"), [african drums](../Page/ドラムセット.md "wikilink"), prrogramming
+      - 青柳拓次:[slack key guitar](../Page/ウクレレ.md "wikilink"), [xylophone](https://ja.wikipedia.org/wiki/木琴 "wikilink"), [ipu](../Page/ヒョウタン.md "wikilink"), [african drums](../Page/ドラムセット.md "wikilink"), prrogramming
       - 栗林慧:ukulele
       - 高橋祐治:[wood bass](../Page/コントラバス.md "wikilink")
       - CAPTAIN MOOK:ukulele
-          - 青柳拓次 & 栗林慧 from [Double Famous](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")
+          - 青柳拓次 & 栗林慧 from [Double Famous](../Page/Double_Famous.md "wikilink")
           - 高橋祐治 from acoustic dub messengers by the courtesy of RAFT MUSIC
   - HOTEL PACIFIC
-      - [玲葉奈](https://ja.wikipedia.org/wiki/Leyona "wikilink"):vocal
-      - 青柳拓次:[electric](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") [12 strings guitar](../Page/12弦ギター.md "wikilink"), [organ](../Page/オルガン.md "wikilink"), [drums](../Page/ドラムセット.md "wikilink"), [percussion](../Page/打楽器.md "wikilink"), [hand clap](https://ja.wikipedia.org/wiki/拍手 "wikilink"), [cowbell](https://ja.wikipedia.org/wiki/カウベル "wikilink"), [timbalitos](https://ja.wikipedia.org/wiki/ティンバレス "wikilink"), programming
+      - [玲葉奈](../Page/Leyona.md "wikilink"):vocal
+      - 青柳拓次:[electric](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") [12 strings guitar](../Page/12弦ギター.md "wikilink"), [organ](../Page/オルガン.md "wikilink"), [drums](../Page/ドラムセット.md "wikilink"), [percussion](../Page/打楽器.md "wikilink"), [hand clap](../Page/拍手.md "wikilink"), [cowbell](../Page/カウベル.md "wikilink"), [timbalitos](../Page/ティンバレス.md "wikilink"), programming
       - 岡田 kaya 真由美:[alto](../Page/アルト.md "wikilink") [sax](../Page/サクソフォーン.md "wikilink")
       - 山口友也:[trumpet](../Page/トランペット.md "wikilink")
       - 高橋祐治:wood bass
       - CAPTAIN MOOK:ukulele
-          - 玲葉奈 by the courtesy of [Epic Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
-          - 岡田 kaya 真由美 from [Double Famous](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")
+          - 玲葉奈 by the courtesy of [Epic Records](../Page/エピックレコードジャパン.md "wikilink")
+          - 岡田 kaya 真由美 from [Double Famous](../Page/Double_Famous.md "wikilink")
   - 愛の言霊 〜Spiritual Message〜
-      - 青柳拓次:[accordion](https://ja.wikipedia.org/wiki/アコーディオン "wikilink"), [conga](../Page/コンガ.md "wikilink"), udu, drums, programming, ukulele
+      - 青柳拓次:[accordion](../Page/アコーディオン.md "wikilink"), [conga](../Page/コンガ.md "wikilink"), udu, drums, programming, ukulele
       - TAMIE:guilo
       - CAPTAIN MOOK:bass, ukulele
-          - TAMIE from [Double Famous](https://ja.wikipedia.org/wiki/Double_Famous "wikilink")
+          - TAMIE from [Double Famous](../Page/Double_Famous.md "wikilink")
   - 涙のキッス
       - LALAA:vocal
       - 柳満夫:programming
-      - 青柳拓次:[spanish guitar](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")
+      - 青柳拓次:[spanish guitar](../Page/クラシック・ギター.md "wikilink")
       - 山本拓夫:[flute](../Page/フルート.md "wikilink")
       - CAPTAIN MOOK:ukulele
   - みんなのうた
       - Petty Booka:vocals
-      - [高野寛](../Page/高野寛.md "wikilink"):[theremin](../Page/テルミン.md "wikilink"), [toy piano](../Page/トイピアノ.md "wikilink"), [口笛](https://ja.wikipedia.org/wiki/口笛 "wikilink"), chorus, programming, ukulele
+      - [高野寛](../Page/高野寛.md "wikilink"):[theremin](../Page/テルミン.md "wikilink"), [toy piano](../Page/トイピアノ.md "wikilink"), [口笛](../Page/口笛.md "wikilink"), chorus, programming, ukulele
       - CAPTAIN MOOK:ukulele
           - Petty Booka by the courtesy of BENTEN label
   - 希望の轍
@@ -136,14 +136,14 @@
       - CAPTAIN MOOK:[三線](../Page/三線.md "wikilink"), ukulele
   - 真夏の果実
       - Mahya:vocal, chorus
-      - 柳満夫:keyboard, [kalimba](https://ja.wikipedia.org/wiki/カリンバ "wikilink"), programming
-      - CAPTAIN MOOK:[jew's harp](https://ja.wikipedia.org/wiki/口琴 "wikilink"), ukulele
+      - 柳満夫:keyboard, [kalimba](../Page/カリンバ.md "wikilink"), programming
+      - CAPTAIN MOOK:[jew's harp](../Page/口琴.md "wikilink"), ukulele
           - Mahya from SOUL LOVERS by the courtesy of RE-WIND RECORDINGS INC.
   - クリスマス・ラブ (涙のあとには白い雪が降る)
-      - 青柳拓次:[bouzouki](../Page/弦楽器.md "wikilink"), [concertina](https://ja.wikipedia.org/wiki/コンサーティーナ "wikilink"), toy piano, ukulele
+      - 青柳拓次:[bouzouki](../Page/弦楽器.md "wikilink"), [concertina](../Page/コンサーティーナ.md "wikilink"), toy piano, ukulele
   - 忘れられた Big Wave
-      - 高橋一眞:[口笛](https://ja.wikipedia.org/wiki/口笛 "wikilink")
-      - [分山貴美子](../Page/分山貴美子.md "wikilink"):[口笛](https://ja.wikipedia.org/wiki/口笛 "wikilink")
+      - 高橋一眞:[口笛](../Page/口笛.md "wikilink")
+      - [分山貴美子](../Page/分山貴美子.md "wikilink"):[口笛](../Page/口笛.md "wikilink")
       - 柳満夫:keyboard, programming
       - CAPTAIN MOOK:theremin, ukulele
   - TSUNAMI

@@ -1,7 +1,7 @@
 > この記事は[EDVEGA](https://ja.wikipedia.org/wiki/EDVEGA)から翻訳されています。
 
 
-**EDVEGA**（Electric Delta-V Earth Gravity Assist, EΔV-EGAとも表記）とは、日本の[小惑星探査機](https://ja.wikipedia.org/wiki/惑星探査機 "wikilink")[はやぶさ](../Page/はやぶさ_\(探査機\).md "wikilink") (MUSES-C) による小惑星[イトカワの探査の際に用いられた](https://ja.wikipedia.org/wiki/イトカワ_\(小惑星\) "wikilink")、地球[スイングバイ](https://ja.wikipedia.org/wiki/スイングバイ "wikilink") (Earth Gravity Assist) に[電気推進](../Page/電気推進.md "wikilink")による加速 (Electric Delta-V) を組み合わせて増速量をかせぐ、宇宙探査機の航法の名称。
+**EDVEGA**（Electric Delta-V Earth Gravity Assist, EΔV-EGAとも表記）とは、日本の[小惑星探査機](https://ja.wikipedia.org/wiki/惑星探査機 "wikilink")[はやぶさ](../Page/はやぶさ_\(探査機\).md "wikilink") (MUSES-C) による小惑星[イトカワの探査の際に用いられた](../Page/イトカワ_\(小惑星\).md "wikilink")、地球[スイングバイ](../Page/スイングバイ.md "wikilink") (Earth Gravity Assist) に[電気推進](../Page/電気推進.md "wikilink")による加速 (Electric Delta-V) を組み合わせて増速量をかせぐ、宇宙探査機の航法の名称。
 
 はやぶさプロジェクトのプロジェクトマネージャーであった[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")の[川口淳一郎](https://ja.wikipedia.org/wiki/川口淳一郎 "wikilink")教授の考案による。
 

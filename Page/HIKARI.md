@@ -7,7 +7,7 @@
 
 ## 概説
 
-自らアーティスト活動も行っているが、[ソングライター](https://ja.wikipedia.org/wiki/ソングライター "wikilink")・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")として一般的に知られている。[TOKIO](../Page/TOKIO.md "wikilink")、[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[V6](../Page/V6_\(グループ\).md "wikilink")、[嵐他多くのアーティストに楽曲を提供し](../Page/嵐_\(グループ\).md "wikilink")、その作品に参加。[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「Mistake\!」、嵐の「Find The Answer」、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")「AinoArika」、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")の「Edge of Days」などヒット曲も数多く手がけており、作曲と編曲を担当した[Snow Manのデビューシングル](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")「D.D.」では発売から3日でミリオン達成という驚異的な記録を残している\[1\]。 アーティストとしては[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")レーベルJOTAより[シングル](../Page/シングル.md "wikilink")「ジェットコースター」でデビュー、同年[9月22日](../Page/9月22日.md "wikilink")、BMGファンハウスより「PLAY BACK」でメジャーデビューを果たした。以降、4枚のシングルと1枚のアルバムを発表している。
+自らアーティスト活動も行っているが、[ソングライター](../Page/ソングライター.md "wikilink")・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")として一般的に知られている。[TOKIO](../Page/TOKIO.md "wikilink")、[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[V6](../Page/V6_\(グループ\).md "wikilink")、[嵐他多くのアーティストに楽曲を提供し](../Page/嵐_\(グループ\).md "wikilink")、その作品に参加。[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「Mistake\!」、嵐の「Find The Answer」、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")「AinoArika」、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の「Edge of Days」などヒット曲も数多く手がけており、作曲と編曲を担当した[Snow Manのデビューシングル](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")「D.D.」では発売から3日でミリオン達成という驚異的な記録を残している\[1\]。 アーティストとしては[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")レーベルJOTAより[シングル](../Page/シングル.md "wikilink")「ジェットコースター」でデビュー、同年[9月22日](../Page/9月22日.md "wikilink")、BMGファンハウスより「PLAY BACK」でメジャーデビューを果たした。以降、4枚のシングルと1枚のアルバムを発表している。
 
 ## 提供した主な楽曲
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    2004年から2006年にかけてEvery Little Thingが発売したシングルのうち、「[スイミー](https://ja.wikipedia.org/wiki/スイミー_\(曲\) "wikilink")」を除いたすべてのシングル表題曲を担当した。
+    2004年から2006年にかけてEvery Little Thingが発売したシングルのうち、「[スイミー](../Page/スイミー_\(曲\).md "wikilink")」を除いたすべてのシングル表題曲を担当した。
 
 <!-- end list -->
 
@@ -47,8 +47,8 @@
       - [04515](https://ja.wikipedia.org/wiki/5_AHEAD#収録曲 "wikilink")（作詞/作曲/編曲）
       - [Symphonic](https://ja.wikipedia.org/wiki/5_AHEAD#収録曲 "wikilink")（作詞/作曲）
       - [遠い日のメロディー](https://ja.wikipedia.org/wiki/花唄 "wikilink")（作詞/作曲）
-      - [GREEN](https://ja.wikipedia.org/wiki/GREEN_\(TOKIOの曲\) "wikilink")（作詞/作曲）
-      - [Southend](https://ja.wikipedia.org/wiki/GREEN_\(TOKIOの曲\) "wikilink")（作詞/作曲/編曲）
+      - [GREEN](../Page/GREEN_\(TOKIOの曲\).md "wikilink")（作詞/作曲）
+      - [Southend](../Page/GREEN_\(TOKIOの曲\).md "wikilink")（作詞/作曲/編曲）
       - [glider](https://ja.wikipedia.org/wiki/ding-dong/glider "wikilink")（作詞/作曲/編曲）
       - [フォノグラフ](https://ja.wikipedia.org/wiki/glider_\(アルバム\)#収録曲 "wikilink")(作詞/作曲/編曲)
       - [for you](https://ja.wikipedia.org/wiki/自分のために/for_you "wikilink")（編曲）
@@ -88,11 +88,11 @@
       - [Gram-8](https://ja.wikipedia.org/wiki/ジャスミン/Rainbow#収録曲 "wikilink")（作詞/作曲/編曲）
   - [Coming Century](../Page/V6_\(グループ\).md "wikilink")
       - [Our Place](https://ja.wikipedia.org/wiki/ジャスミン/Rainbow#収録曲 "wikilink")（作曲）
-  - [Junichi Okada](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")
+  - [Junichi Okada](../Page/岡田准一.md "wikilink")
       - [ユメニアイニ](https://ja.wikipedia.org/wiki/musicmind#収録曲 "wikilink")（作曲）
-  - [Hiroshi Nagano](https://ja.wikipedia.org/wiki/長野博 "wikilink")
+  - [Hiroshi Nagano](../Page/長野博.md "wikilink")
       - [桜風桜色](https://ja.wikipedia.org/wiki/READY?#収録曲 "wikilink")（作曲）
-  - [Rinka（梨花）](https://ja.wikipedia.org/wiki/梨花 "wikilink")
+  - [Rinka（梨花）](../Page/梨花.md "wikilink")
       - XXX(Millions Kisses)（作曲/編曲）
   - [嵐](../Page/嵐_\(グループ\).md "wikilink")
       - [忘れられない](https://ja.wikipedia.org/wiki/Beautiful_days#収録曲 "wikilink")（作曲）
@@ -111,7 +111,7 @@
       - [BJ](https://ja.wikipedia.org/wiki/ワッハッハー#通常版CD "wikilink")（作詞/作曲/編曲）
       - [Half Down](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\)#通常版CD "wikilink")（錦戸亮ソロ）（作詞／編曲）
       - [EXTEND\!](https://ja.wikipedia.org/wiki/強く_強く_強く "wikilink")（作詞/作曲/編曲）
-  - [上田竜也](https://ja.wikipedia.org/wiki/上田竜也 "wikilink")
+  - [上田竜也](../Page/上田竜也.md "wikilink")
       - SPARKING（作曲）
   - [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")
       - [あなたのキスを数えましょう](https://ja.wikipedia.org/wiki/The_Best_Now_&_Then_〜10th_Anniversary〜#収録曲 "wikilink")（編曲）
@@ -129,7 +129,7 @@
       - [Mistake\!](https://ja.wikipedia.org/wiki/Mistake!/Battery "wikilink")（作曲）
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
       - [そばにおいでよ](https://ja.wikipedia.org/wiki/怪・セラ・セラ#収録曲 "wikilink")（作詞/作曲/編曲）
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
       - [Forza\!](https://ja.wikipedia.org/wiki/Goodいくぜ!#収録曲 "wikilink")（作詞/作曲\~Stephan Elfgrenと共作\~)
       - [赤い果実](https://ja.wikipedia.org/wiki/赤い果実 "wikilink")（作曲）
       - [Invitation](https://ja.wikipedia.org/wiki/Yummy!!#収録曲 "wikilink")（共作曲）
@@ -147,7 +147,7 @@
       - [Last Dance](https://ja.wikipedia.org/wiki/Lucky-Unlucky/Oh!_my_darling "wikilink")（共作曲）
   - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")
       - [4 Seasons](https://ja.wikipedia.org/wiki/Sexy_Second#収録曲 "wikilink")（作曲）
-      - [タイムトラベル](https://ja.wikipedia.org/wiki/POP×STEP!? "wikilink")（作詞/共作曲）
+      - [タイムトラベル](../Page/POP×STEP!?.md "wikilink")（作詞/共作曲）
   - [三代目J Soul Brothers](https://ja.wikipedia.org/wiki/三代目J_Soul_Brothers "wikilink")
       - Glory（作曲/編曲）
   - [Chay](https://ja.wikipedia.org/wiki/Chay "wikilink")
@@ -166,7 +166,7 @@
       - Eternally（編曲）
       - 決意の朝に（編曲）
       - Damn it\!（共作曲/共作詞）
-  - [SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")
+  - [SE7EN](../Page/SE7EN.md "wikilink")
       - Fate（作曲/編曲）
       - One（作詞/作曲/編曲）
   - [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")

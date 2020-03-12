@@ -1,7 +1,7 @@
 > この記事は[Universal Business Language](https://ja.wikipedia.org/wiki/Universal_Business_Language)から翻訳されています。
 
 
-**Universal Business Language** (**UBL**) は、企業間[電子商取引](../Page/電子商取引.md "wikilink")のために定義された[XML形式の電子伝票の](../Page/Extensible_Markup_Language.md "wikilink")[仕様](../Page/仕様.md "wikilink")である。[OASISで標準化が行われている](https://ja.wikipedia.org/wiki/OASIS_\(組織\) "wikilink")。Commerce One社による[xCBL](https://ja.wikipedia.org/wiki/xCBL "wikilink") 3.0をベースに開発された。
+**Universal Business Language** (**UBL**) は、企業間[電子商取引](../Page/電子商取引.md "wikilink")のために定義された[XML形式の電子伝票の](../Page/Extensible_Markup_Language.md "wikilink")[仕様](../Page/仕様.md "wikilink")である。[OASISで標準化が行われている](../Page/OASIS_\(組織\).md "wikilink")。Commerce One社による[xCBL](https://ja.wikipedia.org/wiki/xCBL "wikilink") 3.0をベースに開発された。
 
 通常、企業間電子商取引の伝票定義は業界ごとに行われているが、「注文」「請求」など似通ったものも少なくない。業界ごとに似たような伝票の定義を開発・維持するコストを抑えるため、UBLは業種に依存しない汎用の伝票を定義する。
 

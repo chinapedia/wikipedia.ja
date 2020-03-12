@@ -10,7 +10,7 @@
       - [1965年](../Page/1965年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")：中落合 一～四丁目
       - [1965年](../Page/1965年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")：西落合 一〜四丁目
       - [1966年](../Page/1966年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")：上落合 一〜三丁目
-      - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")：西新宿一〜六丁目
+      - [1970年](../Page/1970年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")：西新宿一〜六丁目
       - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")：北新宿 一〜四丁目
       - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")：西新宿七・八丁目
       - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")：百人町 一〜三丁目

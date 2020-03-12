@@ -1,15 +1,15 @@
 > この記事は[Angel\'s tale](https://ja.wikipedia.org/wiki/Angel\'s_tale)から翻訳されています。
 
 
-「**Angel's tale**」（エンジェルズ テイル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
+「**Angel's tale**」（エンジェルズ テイル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
 
 ## 解説
 
 前作「[evergreen](https://ja.wikipedia.org/wiki/evergreen_\(HYDEの曲\) "wikilink")」から僅か2ヶ月後という短い期間に発売された。HYDE名義のシングルで初のノンタイアップシングル。
 
-本作は初回限定盤（8cmCD）と通常盤（12cmCD）の2形態でリリース。初回限定盤仕様は8cmシングル、[棺桶](https://ja.wikipedia.org/wiki/棺桶 "wikilink")型の特別ケース。ジャケットは「evergreen」の[バラ](../Page/バラ.md "wikilink")に続いて、双頭のトルコ[キキョウ](https://ja.wikipedia.org/wiki/キキョウ "wikilink")が[釘](../Page/釘.md "wikilink")で打ち付けられたものになっている。HYDE曰く、2本で[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")[ベル](../Page/ベル.md "wikilink")のようなイメージを表現したかったと語っている。
+本作は初回限定盤（8cmCD）と通常盤（12cmCD）の2形態でリリース。初回限定盤仕様は8cmシングル、[棺桶](https://ja.wikipedia.org/wiki/棺桶 "wikilink")型の特別ケース。ジャケットは「evergreen」の[バラ](../Page/バラ.md "wikilink")に続いて、双頭のトルコ[キキョウ](../Page/キキョウ.md "wikilink")が[釘](../Page/釘.md "wikilink")で打ち付けられたものになっている。HYDE曰く、2本で[クリスマス](../Page/クリスマス.md "wikilink")[ベル](../Page/ベル.md "wikilink")のようなイメージを表現したかったと語っている。
 
-表題曲の「Angel's tale」はHYDEのソロワークの中でも、特に低音で歌われている[バラード](../Page/バラード.md "wikilink")曲である。本作はHYDEなりの「[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")ソング」がテーマであり、ラジオ出演の際、「華やかな感じではなく、教会に流れるようなしんみりしたクリスマスソングを作ってみたかった」と語っている。
+表題曲の「Angel's tale」はHYDEのソロワークの中でも、特に低音で歌われている[バラード](../Page/バラード.md "wikilink")曲である。本作はHYDEなりの「[クリスマス](../Page/クリスマス.md "wikilink")ソング」がテーマであり、ラジオ出演の際、「華やかな感じではなく、教会に流れるようなしんみりしたクリスマスソングを作ってみたかった」と語っている。
 
 制作していきながら思い浮かんでいたのは映画『[シザーハンズ](../Page/シザーハンズ.md "wikilink")』であり、[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")の歌手、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")の『Selmasongs』に凄く近いイメージがあったとのこと\[1\]。また、「Angel's taleは凄くアンダーグラウンドな曲であると思う。そういう意味で、ロックだと思う」とも語っている。
 

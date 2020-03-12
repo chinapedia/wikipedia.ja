@@ -5,7 +5,7 @@
 
 ## 解説
 
-アニメやゲームソフトの主題歌を中心に、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")までにリリースされた楽曲を収録したベスト・アルバム。この時期に所属していた[マーベラスエンターテイメントから発売されていた楽曲のみならず](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")、レーベルそのものが消滅した[アポロンから発売の](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")2曲も収録されている。
+アニメやゲームソフトの主題歌を中心に、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")までにリリースされた楽曲を収録したベスト・アルバム。この時期に所属していた[マーベラスエンターテイメントから発売されていた楽曲のみならず](../Page/マーベラス_\(企業\).md "wikilink")、レーベルそのものが消滅した[アポロンから発売の](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")2曲も収録されている。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@
 6.  Honey
 7.  shining eyes
       -
-        [1996年](../Page/1996年.md "wikilink")[オートレース](https://ja.wikipedia.org/wiki/オートレース "wikilink")のテーマ曲。
+        [1996年](../Page/1996年.md "wikilink")[オートレース](../Page/オートレース.md "wikilink")のテーマ曲。
 8.  etoile-星-
       -
         テレビ朝日系アニメ「明日のナージャ」カップリング曲。
@@ -50,7 +50,7 @@
       - 柚木美祐(\#8)
       - [尾崎豊](../Page/尾崎豊.md "wikilink")(\#9)
   - 作曲
-      - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")(\#1,4)
+      - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")(\#1,4)
       - 茅原万起(\#2)
       - 藤原いくろう(\#3,5)
       - KAZUHIKO MAEDA(\#6)
@@ -60,7 +60,7 @@
       - [山梨鐐平](../Page/山梨鐐平.md "wikilink")(\#10)
       - DJ SOMA & HITOSHI HARUKAWA for GROW SOUND(\#11)
       - 編曲
-      - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")(\#1,4)
+      - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")(\#1,4)
       - 大谷幸(\#2)
       - 藤原いくろう(\#3,5)
       - KAZUHIKO MAEDA(\#6)

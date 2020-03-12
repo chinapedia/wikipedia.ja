@@ -5,9 +5,9 @@
 
 ## 概要
 
-[小学館](../Page/小学館.md "wikilink")の[学年別学習雑誌の](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")1つである『小学一年生』の[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")から生まれた作品。[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")より同年[12月22日](../Page/12月22日.md "wikilink")まで、[CSの](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")にて毎週[土曜日](../Page/土曜日.md "wikilink")8時00分から8時30分に放送された 。メインキャラクターに[よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")の[濱口優](../Page/濱口優.md "wikilink")・[有野晋哉](../Page/有野晋哉.md "wikilink")が起用されている。
+[小学館](../Page/小学館.md "wikilink")の[学年別学習雑誌の](../Page/小学館の学年別学習雑誌.md "wikilink")1つである『小学一年生』の[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")から生まれた作品。[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")より同年[12月22日](../Page/12月22日.md "wikilink")まで、[CSの](../Page/衛星放送.md "wikilink")[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")にて毎週[土曜日](../Page/土曜日.md "wikilink")8時00分から8時30分に放送された 。メインキャラクターに[よゐこ](../Page/よゐこ.md "wikilink")の[濱口優](../Page/濱口優.md "wikilink")・[有野晋哉](../Page/有野晋哉.md "wikilink")が起用されている。
 
-[環境問題](../Page/環境問題.md "wikilink")をテーマとしているが、難解な事柄を考えずとも楽しめるように考慮され制作されている。[シリーズ構成](https://ja.wikipedia.org/wiki/シリーズ構成 "wikilink")の[田中桂](https://ja.wikipedia.org/wiki/田中桂 "wikilink")曰く、「『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』世代ならば楽しんでもらえるのではと思うが、一応[子供向けである](../Page/子供向けアニメ.md "wikilink")」という。
+[環境問題](../Page/環境問題.md "wikilink")をテーマとしているが、難解な事柄を考えずとも楽しめるように考慮され制作されている。[シリーズ構成](../Page/シリーズ構成.md "wikilink")の[田中桂](https://ja.wikipedia.org/wiki/田中桂 "wikilink")曰く、「『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』世代ならば楽しんでもらえるのではと思うが、一応[子供向けである](../Page/子供向けアニメ.md "wikilink")」という。
 
 ## あらすじ
 
@@ -24,7 +24,7 @@
   - カオリ
     声 - [名塚佳織](../Page/名塚佳織.md "wikilink")
   - エリコ
-    声 - [並木のり子](https://ja.wikipedia.org/wiki/並木のり子 "wikilink")
+    声 - [並木のり子](../Page/並木のり子.md "wikilink")
   - 社長（しゃちょう）
     声 - [柳原哲也](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")（[アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink") ）
 
@@ -43,7 +43,7 @@
   - 3DCG制作 - DSJ (Digital Studio Japan)
   - 音響監督 - 赤間明吉
   - 制作プロデューサー - 小原辰也
-  - アニメーション制作 - [トランス・アーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - アニメーション制作 - [トランス・アーツ](../Page/トランス・アーツ.md "wikilink")
   - 制作協力 - [Production I.G](../Page/プロダクション・アイジー.md "wikilink")
   - 製作・音響制作 - [東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
 

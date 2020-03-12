@@ -1,11 +1,11 @@
 > この記事は[CB ](https://ja.wikipedia.org/wiki/CB_)から翻訳されています。
 
 
-『**CBキャラウォーズ 失われたギャ〜グ**』（ちびきゃらうぉーず - うしなわれたぎゃーぐ）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[8月28日](../Page/8月28日.md "wikilink")に[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+『**CBキャラウォーズ 失われたギャ〜グ**』（ちびきゃらうぉーず - うしなわれたぎゃーぐ）は、[1992年](../Page/1992年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")に[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 ## 概要
 
-本作は、[永井豪](../Page/永井豪.md "wikilink")作品のキャラクターを使用した[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")である。ジャンルは[アクションゲーム](../Page/アクションゲーム.md "wikilink")だが、アイテムによるパラメータ上昇など、若干[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")の要素も含まれる。また、マジンガーZの顔に口が描写されるなど、よりデフォルメされたキャラクターデザインとなっている。
+本作は、[永井豪](../Page/永井豪.md "wikilink")作品のキャラクターを使用した[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")である。ジャンルは[アクションゲーム](../Page/アクションゲーム.md "wikilink")だが、アイテムによるパラメータ上昇など、若干[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")の要素も含まれる。また、マジンガーZの顔に口が描写されるなど、よりデフォルメされたキャラクターデザインとなっている。
 
 ## ゲーム内容
 
@@ -68,18 +68,18 @@
 
 ## 参加作品
 
-  - [ハレンチ学園](https://ja.wikipedia.org/wiki/ハレンチ学園 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1972年](../Page/1972年.md "wikilink")）
-  - [あばしり一家](https://ja.wikipedia.org/wiki/あばしり一家 "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1973年](../Page/1973年.md "wikilink")）
-  - [デビルマン](https://ja.wikipedia.org/wiki/デビルマン "wikilink")（1972年 - 1973年）
+  - [ハレンチ学園](../Page/ハレンチ学園.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1972年](../Page/1972年.md "wikilink")）
+  - [あばしり一家](../Page/あばしり一家.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1973年](../Page/1973年.md "wikilink")）
+  - [デビルマン](../Page/デビルマン.md "wikilink")（1972年 - 1973年）
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")（1972年 - 1973年）
   - [キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")（1973年 - [1974年](../Page/1974年.md "wikilink")）
-  - [ドロロンえん魔くん](https://ja.wikipedia.org/wiki/ドロロンえん魔くん "wikilink")（1973年 - 1974年）
-  - [バイオレンスジャック](https://ja.wikipedia.org/wiki/バイオレンスジャック "wikilink")（1973年 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")（1974年 - [1975年](../Page/1975年.md "wikilink")）
+  - [ドロロンえん魔くん](../Page/ドロロンえん魔くん.md "wikilink")（1973年 - 1974年）
+  - [バイオレンスジャック](../Page/バイオレンスジャック.md "wikilink")（1973年 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")（1974年 - [1975年](../Page/1975年.md "wikilink")）
   - [ゲッターロボ](../Page/ゲッターロボ.md "wikilink")（1974年 - 1975年）
-  - [けっこう仮面](https://ja.wikipedia.org/wiki/けっこう仮面 "wikilink")（1974年 - 1978年）
-  - [UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")（1975年 - [1977年](../Page/1977年.md "wikilink")）
-  - [手天童子](../Page/手天童子.md "wikilink")（[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
+  - [けっこう仮面](../Page/けっこう仮面.md "wikilink")（1974年 - 1978年）
+  - [UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")（1975年 - [1977年](../Page/1977年.md "wikilink")）
+  - [手天童子](../Page/手天童子.md "wikilink")（[1976年](../Page/1976年.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
 
 ## スタッフ
 
@@ -93,12 +93,12 @@
   - 音楽：安西史孝
   - サウンド・プログラム：マイケル・カミジマ（平沢道也）、佐々木筑柴
   - プロデューサー：じっぱひとからげ
-  - ダイナミック・スタッフ：永井隆、永井謙次、水野さつき、[真樹村正](https://ja.wikipedia.org/wiki/どろんぱ "wikilink")
+  - ダイナミック・スタッフ：永井隆、永井謙次、水野さつき、[真樹村正](../Page/どろんぱ.md "wikilink")
   - 著作：[永井豪](../Page/永井豪.md "wikilink")
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では5、6、5、4の合計20点（満40点）\[1\]、レビュアーは『[ダウンタウン熱血物語](https://ja.wikipedia.org/wiki/ダウンタウン熱血物語 "wikilink")』がベースの『[ファイナルファイト](https://ja.wikipedia.org/wiki/ファイナルファイト "wikilink")』系のアクションゲームでキャラをCBにしてギャグテイストになっているが、設定とゲーム内容が合っておらず射程が短く敵も固く嫌らしい動きをしてプレイヤーは接近してボタンを押すだけ、子分コマンドはパシリとしてはいいがそれだけでしかない、次の目的地のヒントが少ない、レスンポスがよろしくない、爽快感がないアクションゲームとしては今一つであくまでキャラクターゲームだとし、セールスポイントのギャグもお子様が対象なのかもしれないがおかしさはあるが大人には笑えないとする者や不満はあるがCBキャラになったとはいえ懐かしのデビルマンが主人公なせいか楽しいとする者がいた\[2\]。「Best Picks of This Week」の欄では同じ号でレビューした12作品中レビュアー4人中1人が本作を選んだ\[3\]。『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、20.25点（満30点）となっている\[4\]。この得点はスーパーファミコン全ソフトの中で180位（323本中、1993年時点）となっている\[5\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では5、6、5、4の合計20点（満40点）\[1\]、レビュアーは『[ダウンタウン熱血物語](../Page/ダウンタウン熱血物語.md "wikilink")』がベースの『[ファイナルファイト](../Page/ファイナルファイト.md "wikilink")』系のアクションゲームでキャラをCBにしてギャグテイストになっているが、設定とゲーム内容が合っておらず射程が短く敵も固く嫌らしい動きをしてプレイヤーは接近してボタンを押すだけ、子分コマンドはパシリとしてはいいがそれだけでしかない、次の目的地のヒントが少ない、レスンポスがよろしくない、爽快感がないアクションゲームとしては今一つであくまでキャラクターゲームだとし、セールスポイントのギャグもお子様が対象なのかもしれないがおかしさはあるが大人には笑えないとする者や不満はあるがCBキャラになったとはいえ懐かしのデビルマンが主人公なせいか楽しいとする者がいた\[2\]。「Best Picks of This Week」の欄では同じ号でレビューした12作品中レビュアー4人中1人が本作を選んだ\[3\]。『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、20.25点（満30点）となっている\[4\]。この得点はスーパーファミコン全ソフトの中で180位（323本中、1993年時点）となっている\[5\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -106,7 +106,7 @@
 
 ## 関連項目
 
-  - [CBキャラ 永井豪ワールド](../Page/CBキャラ_永井豪ワールド.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）
+  - [CBキャラ 永井豪ワールド](../Page/CBキャラ_永井豪ワールド.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [1991年](../Page/1991年.md "wikilink")）
 
 ## 脚注
 

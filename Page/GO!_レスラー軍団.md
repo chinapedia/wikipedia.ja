@@ -3,7 +3,7 @@
 
 『**GO\! レスラー軍団**』（ゴー-ぐんだん）は、[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")により制作された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から同年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放映された。
 
-原作は[カネボウフーズの](https://ja.wikipedia.org/wiki/クラシエフーズ "wikilink")[ガムラツイスト及び](https://ja.wikipedia.org/wiki/ラーメンばあ "wikilink")[ラーメンばあ](https://ja.wikipedia.org/wiki/ラーメンばあ "wikilink")付属の『レスラー軍団抗争シール』。メインライター[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")の特徴であるシュールコメディ色を前面に押し出している。
+原作は[カネボウフーズの](../Page/クラシエフーズ.md "wikilink")[ガムラツイスト及び](../Page/ラーメンばあ.md "wikilink")[ラーメンばあ](../Page/ラーメンばあ.md "wikilink")付属の『レスラー軍団抗争シール』。メインライター[浦沢義雄](../Page/浦沢義雄.md "wikilink")の特徴であるシュールコメディ色を前面に押し出している。
 
 ## ストーリー
 
@@ -22,10 +22,10 @@
 本編の中心になるプロレス団体およびプロレス理事。なおシールなどに登場する軍団長「ザ・スーパー・ブッダー」、同副軍団長「Mr.ミト」などの正規軍上層部や、ゴッド三兄弟次男「ドリー・ゴッド」（氷河軍軍団長）とドンの母（即ちロビンとベン・Kの祖母）「マザー・ゴッド」は登場せず。
 
   - ロビン・ゴッド
-    [声](../Page/声優.md "wikilink") - [小粥ようこ](https://ja.wikipedia.org/wiki/日比野朱里 "wikilink")
+    [声](../Page/声優.md "wikilink") - [小粥ようこ](../Page/日比野朱里.md "wikilink")
     ゴッド三兄弟の三男にして、「勇気」のパワーを持つプロレス戦士。武器は「聖弓アークチェリー」というアーチェリー。苦手な物はゴキブリと注射とタマネギ（ゴキブリと注射はベン・Kと星若丸も苦手）。身長186cm。
   - ベン・K・ゴッド
-    声 - [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
+    声 - [堀内賢雄](../Page/堀内賢雄.md "wikilink")
     三兄弟の長男で、「団結」のパワーを持つ戦士。口癖は「ござる」。苦手な野菜は人参。身長203cm。
   - 星若丸
     声 - [折笠愛](../Page/折笠愛.md "wikilink")
@@ -34,16 +34,16 @@
     声 - [増岡弘](../Page/増岡弘.md "wikilink")
     ロビンとベン・Kの父にして、世界プロレスの理事。かつては世界最強のレスラーだったが、年の衰えによってぎっくり腰が耐えない。シールキャラよりもかなりお調子者になっている。口癖は「ぞよ」。第4話では自ら超悪魔生命体を飲み込んで強化した事が有った。
   - 秘書マリリン
-    声 - [水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")
+    声 - [水谷優子](../Page/水谷優子.md "wikilink")
     理事長の秘書。モデルは[マリリン・モンロー](https://ja.wikipedia.org/wiki/マリリン・モンロー "wikilink")。本編では「子持ち」という設定は省かれた。
 
 ### 我無羅殿
 
   - 我無羅殿神王
-    声 - [梅津秀行](https://ja.wikipedia.org/wiki/梅津秀行 "wikilink")
-    「我無羅殿」の支配者にして、別名「プロレスの神」。計り知れない力を持った実力者。[歌舞伎](https://ja.wikipedia.org/wiki/歌舞伎 "wikilink")役者の様な声で喋る。
+    声 - [梅津秀行](../Page/梅津秀行.md "wikilink")
+    「我無羅殿」の支配者にして、別名「プロレスの神」。計り知れない力を持った実力者。[歌舞伎](../Page/歌舞伎.md "wikilink")役者の様な声で喋る。
   - 史上空前の必殺技
-    声 - [佐々木望](https://ja.wikipedia.org/wiki/佐々木望 "wikilink")
+    声 - [佐々木望](../Page/佐々木望.md "wikilink")
     アニメのみのキャラクター。ロビンとベン・Kと星若丸の心が一つになり、我無羅殿のご神体の「勇気」「団結」「友情」のベルトをそれぞれ装着される事で召喚される巨漢レスラー。恐るべき技で敵をねじ伏せる。最終回、超悪魔生命体にベルトを奪われた事で悪と化すが、ロビン達の真の強い心で元に戻った。
 
 ### 世界各国のプロレス団体
@@ -114,13 +114,13 @@
 
 ## スタッフ
 
-  - チーフディレクター - [奥脇雅晴](https://ja.wikipedia.org/wiki/奥脇雅晴 "wikilink")
-  - 脚本 - [浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")、[川崎良](https://ja.wikipedia.org/wiki/川崎良 "wikilink")、[橋本裕志](https://ja.wikipedia.org/wiki/橋本裕志 "wikilink")
-  - キャラクターデザイン - [前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
-  - 作画監督 - [平山智](https://ja.wikipedia.org/wiki/平山智_\(アニメーター\) "wikilink")
+  - チーフディレクター - [奥脇雅晴](../Page/奥脇雅晴.md "wikilink")
+  - 脚本 - [浦沢義雄](../Page/浦沢義雄.md "wikilink")、[川崎良](https://ja.wikipedia.org/wiki/川崎良 "wikilink")、[橋本裕志](../Page/橋本裕志.md "wikilink")
+  - キャラクターデザイン - [前田実](../Page/前田実.md "wikilink")
+  - 作画監督 - [平山智](../Page/平山智_\(アニメーター\).md "wikilink")
   - 美術監督 - 水谷利春
   - 撮影監督 - 高橋宏固
-  - 音響監督 - [本田保則](https://ja.wikipedia.org/wiki/本田保則 "wikilink")
+  - 音響監督 - [本田保則](../Page/本田保則.md "wikilink")
   - 編集 - 鶴渕允寿
   - 音楽 - [難波弘之](../Page/難波弘之.md "wikilink")、兼崎順一
   - 制作協力 - 東京ムービー新社
@@ -129,9 +129,9 @@
 ## 主題歌
 
   - オープニングテーマ - 「?(なぞ)のパレード」
-    歌 - 村田有美 / 作詞 - [麻生圭子](https://ja.wikipedia.org/wiki/麻生圭子 "wikilink") / 作曲・編曲 - [笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")
+    歌 - 村田有美 / 作詞 - [麻生圭子](../Page/麻生圭子.md "wikilink") / 作曲・編曲 - [笹路正徳](../Page/笹路正徳.md "wikilink")
   - エンディングテーマ - 「\!(オドロキ)MAP」
-    歌 - 村田有美 / 作詞 - [伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink") / 作曲・編曲 - 笹路正徳
+    歌 - 村田有美 / 作詞 - [伊藤アキラ](../Page/伊藤アキラ.md "wikilink") / 作曲・編曲 - 笹路正徳
 
 ## 各話リスト
 
@@ -254,9 +254,9 @@
 </table>
 
   - 5月30日と6月20日は、それぞれ[プロ野球中継](https://ja.wikipedia.org/wiki/全力闘球 "wikilink")（19:00 - 20:54）のため休止。
-  - 7月25日は『[夏祭りにっぽんの歌](https://ja.wikipedia.org/wiki/にっぽんの歌 "wikilink")』（19:03 - 21:48）のため休止。
-  - 8月1日は特別ロードショー『[戦場にかける橋](https://ja.wikipedia.org/wiki/戦場にかける橋 "wikilink")』（19:00 - 21:48）のため休止。
-  - 第14話は、19:30枠に「[東京・埼玉連続幼女誘拐殺人事件](https://ja.wikipedia.org/wiki/東京・埼玉連続幼女誘拐殺人事件 "wikilink")」関連の[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")が編成されたため、19:00に繰上げて放送。19:00の『[スターどっきん学園](https://ja.wikipedia.org/wiki/スターどっきん学園 "wikilink")』は休止された。
+  - 7月25日は『[夏祭りにっぽんの歌](../Page/にっぽんの歌.md "wikilink")』（19:03 - 21:48）のため休止。
+  - 8月1日は特別ロードショー『[戦場にかける橋](../Page/戦場にかける橋.md "wikilink")』（19:00 - 21:48）のため休止。
+  - 第14話は、19:30枠に「[東京・埼玉連続幼女誘拐殺人事件](https://ja.wikipedia.org/wiki/東京・埼玉連続幼女誘拐殺人事件 "wikilink")」関連の[報道特別番組](../Page/報道特別番組.md "wikilink")が編成されたため、19:00に繰上げて放送。19:00の『[スターどっきん学園](https://ja.wikipedia.org/wiki/スターどっきん学園 "wikilink")』は休止された。
 
 ## 放送局
 
@@ -296,7 +296,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p>木曜 8:10 - 8:40</p></td>
 <td></td>
@@ -339,7 +339,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>不明</p></td>
 <td><p>日本テレビ系列<br />
@@ -382,7 +382,7 @@
 
 ## 関連項目
 
-  - [レスラー軍団〈銀河編〉 聖戦士ロビンJr.](https://ja.wikipedia.org/wiki/レスラー軍団〈銀河編〉_聖戦士ロビンJr. "wikilink")
+  - [レスラー軍団〈銀河編〉 聖戦士ロビンJr.](../Page/レスラー軍団〈銀河編〉_聖戦士ロビンJr..md "wikilink")
 
 [Category:アニメ作品_こ](https://ja.wikipedia.org/wiki/Category:アニメ作品_こ "wikilink") [Category:1989年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1989年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:東京ムービーのアニメ作品](https://ja.wikipedia.org/wiki/Category:東京ムービーのアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:プロレスアニメ](https://ja.wikipedia.org/wiki/Category:プロレスアニメ "wikilink") [Category:シュール・コメディ](https://ja.wikipedia.org/wiki/Category:シュール・コメディ "wikilink")
 

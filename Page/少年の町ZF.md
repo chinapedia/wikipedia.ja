@@ -1,11 +1,11 @@
 > この記事は[ZF](https://ja.wikipedia.org/wiki/ZF)から翻訳されています。
 
 
-『**少年の町ZF**』（しょうねんのまちゼフ）は、原作：[小池一夫](../Page/小池一夫.md "wikilink")、作画：[平野仁](../Page/平野仁.md "wikilink")による日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")から[1979年](../Page/1979年.md "wikilink")まで連載された。
+『**少年の町ZF**』（しょうねんのまちゼフ）は、原作：[小池一夫](../Page/小池一夫.md "wikilink")、作画：[平野仁](../Page/平野仁.md "wikilink")による日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[1976年](../Page/1976年.md "wikilink")から[1979年](../Page/1979年.md "wikilink")まで連載された。
 
-[1977年](../Page/1977年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")から同年[12月16日](../Page/12月16日.md "wikilink")まで、[TBSラジオの](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[ラジオ劇画傑作シリーズ](https://ja.wikipedia.org/wiki/ラジオ劇画傑作シリーズ "wikilink")』で[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")化され、放送された。
+[1977年](../Page/1977年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")から同年[12月16日](../Page/12月16日.md "wikilink")まで、[TBSラジオの](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[ラジオ劇画傑作シリーズ](../Page/ラジオ劇画傑作シリーズ.md "wikilink")』で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化され、放送された。
 
-[2011年](../Page/2011年.md "wikilink")に[小池書院](https://ja.wikipedia.org/wiki/小池書院 "wikilink")キングシリーズ版の再刊により、『[テレビブロス](https://ja.wikipedia.org/wiki/テレビブロス "wikilink")』「ブロス・コミックアワード2011」SF部門1位を受賞した。
+[2011年](../Page/2011年.md "wikilink")に[小池書院](../Page/小池書院.md "wikilink")キングシリーズ版の再刊により、『[テレビブロス](../Page/テレビブロス.md "wikilink")』「ブロス・コミックアワード2011」SF部門1位を受賞した。
 
 ## あらすじ
 

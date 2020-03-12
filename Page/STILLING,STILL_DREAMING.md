@@ -1,7 +1,7 @@
 > この記事は[STILLING,STILL DREAMING](https://ja.wikipedia.org/wiki/STILLING,STILL_DREAMING)から翻訳されています。
 
 
-『**STILLING,STILL DREAMING**』（スティリング・スティル・ドリーミング）は、[THA BLUE HERBの](https://ja.wikipedia.org/wiki/ザ_ブルーハーブ "wikilink")1枚目のアルバム。
+『**STILLING,STILL DREAMING**』（スティリング・スティル・ドリーミング）は、[THA BLUE HERBの](../Page/ザ_ブルーハーブ.md "wikilink")1枚目のアルバム。
 
 ## 解説
 
@@ -64,6 +64,6 @@ DISC1
 
 ## 関連項目
 
-  - [日本のヒップホップ](https://ja.wikipedia.org/wiki/日本のヒップホップ "wikilink")
+  - [日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")
 
 [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:日本のヒップホップのアルバム](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのアルバム "wikilink")

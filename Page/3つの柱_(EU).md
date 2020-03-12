@@ -7,7 +7,7 @@
 
 1.  第1の柱「[欧州共同体](../Page/欧州共同体.md "wikilink")」- 経済、社会、環境政策分野
 2.  第2の柱「[共通外交・安全保障政策](https://ja.wikipedia.org/wiki/共通外交・安全保障政策 "wikilink")」- 外交、軍事分野
-3.  第3の柱「[警察・刑事司法協力](https://ja.wikipedia.org/wiki/警察・刑事司法協力 "wikilink")」- 犯罪対策協力。かつては「司法・内務協力」とされていた。
+3.  第3の柱「[警察・刑事司法協力](../Page/警察・刑事司法協力.md "wikilink")」- 犯罪対策協力。かつては「司法・内務協力」とされていた。
 
 <table>
 <thead>
@@ -24,22 +24,22 @@
 </tr>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/関税同盟" title="wikilink">関税同盟</a>と<a href="https://ja.wikipedia.org/wiki/共同市場" title="wikilink">単一市場</a></li>
+<li><a href="../Page/関税同盟.md" title="wikilink">関税同盟</a>と<a href="../Page/共同市場.md" title="wikilink">単一市場</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/共通農業政策" title="wikilink">共通農業政策</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/共通漁業政策" title="wikilink">共通漁業政策</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/欧州連合競争法" title="wikilink">競争法</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/欧州連合の経済通貨統合" title="wikilink">経済通貨統合</a></li>
+<li><a href="../Page/欧州連合競争法.md" title="wikilink">競争法</a></li>
+<li><a href="../Page/欧州連合の経済通貨統合.md" title="wikilink">経済通貨統合</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/欧州連合の市民" title="wikilink">市民権</a></li>
 <li><a href="../Page/教育.md" title="wikilink">教育</a>・<a href="../Page/文化.md" title="wikilink">文化</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/トランス・ヨーロピアン・ネットワーク" title="wikilink">トランス・ヨーロピアン・ネットワーク</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/消費者保護" title="wikilink">消費者保護</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/保健医療" title="wikilink">保健医療</a></li>
 <li><a href="../Page/研究.md" title="wikilink">研究</a> （例 - <a href="https://ja.wikipedia.org/wiki/欧州連合研究・技術開発枠組み計画" title="wikilink">欧州連合研究・技術開発枠組み計画</a> (FP6)）</li>
-<li><a href="https://ja.wikipedia.org/wiki/環境法" title="wikilink">環境法</a></li>
+<li><a href="../Page/環境法.md" title="wikilink">環境法</a></li>
 <li><a href="../Page/社会政策.md" title="wikilink">社会政策</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/難民" title="wikilink">難民</a>政策</li>
-<li><a href="https://ja.wikipedia.org/wiki/シェンゲン協定" title="wikilink">シェンゲン協定</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/移民" title="wikilink">移民</a>政策</li>
+<li><a href="../Page/シェンゲン協定.md" title="wikilink">シェンゲン協定</a></li>
+<li><a href="../Page/移民.md" title="wikilink">移民</a>政策</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -50,9 +50,9 @@
 
 いずれの柱の分野においても、[超国家主義と](https://ja.wikipedia.org/wiki/スープラナショナリズム "wikilink")[政府間主義](https://ja.wikipedia.org/wiki/政府間主義 "wikilink")の原則の間でさまざまな均衡が保たれている。
 
-超国家主義はとくに第1の柱に強く表れている。第1の柱に含まれる使命は、[3つの欧州の共同体](https://ja.wikipedia.org/wiki/欧州諸共同体 "wikilink")（[欧州石炭鉄鋼共同体](https://ja.wikipedia.org/wiki/欧州石炭鉄鋼共同体 "wikilink")、[欧州経済共同体](https://ja.wikipedia.org/wiki/欧州経済共同体 "wikilink")、[欧州原子力共同体](https://ja.wikipedia.org/wiki/欧州原子力共同体 "wikilink")。なおこれら3共同体の各機関は[1960年代](../Page/1960年代.md "wikilink")に[ブリュッセル条約](https://ja.wikipedia.org/wiki/ブリュッセル条約 "wikilink")で既に統合されている。また欧州石炭鉄鋼共同体は[パリ条約の失効により](https://ja.wikipedia.org/wiki/パリ条約_\(1951年\) "wikilink")2002年に消滅した）のそれとほぼ一致している。その後、マーストリヒト条約において欧州経済共同体の名称から「経済」が取り除かれ、単に欧州共同体となった。また[アムステルダム条約](https://ja.wikipedia.org/wiki/アムステルダム条約 "wikilink")においては、さらに第3の柱の分野が部分的に第1の柱に移された。
+超国家主義はとくに第1の柱に強く表れている。第1の柱に含まれる使命は、[3つの欧州の共同体](https://ja.wikipedia.org/wiki/欧州諸共同体 "wikilink")（[欧州石炭鉄鋼共同体](../Page/欧州石炭鉄鋼共同体.md "wikilink")、[欧州経済共同体](../Page/欧州経済共同体.md "wikilink")、[欧州原子力共同体](../Page/欧州原子力共同体.md "wikilink")。なおこれら3共同体の各機関は[1960年代](../Page/1960年代.md "wikilink")に[ブリュッセル条約](https://ja.wikipedia.org/wiki/ブリュッセル条約 "wikilink")で既に統合されている。また欧州石炭鉄鋼共同体は[パリ条約の失効により](https://ja.wikipedia.org/wiki/パリ条約_\(1951年\) "wikilink")2002年に消滅した）のそれとほぼ一致している。その後、マーストリヒト条約において欧州経済共同体の名称から「経済」が取り除かれ、単に欧州共同体となった。また[アムステルダム条約](../Page/アムステルダム条約.md "wikilink")においては、さらに第3の柱の分野が部分的に第1の柱に移された。
 
-第2、第3の柱の分野については、[欧州議会](https://ja.wikipedia.org/wiki/欧州議会 "wikilink")、[欧州委員会](https://ja.wikipedia.org/wiki/欧州委員会 "wikilink")、[欧州司法裁判所](https://ja.wikipedia.org/wiki/欧州司法裁判所 "wikilink")に与えられた権限は、[欧州連合理事会](https://ja.wikipedia.org/wiki/欧州連合理事会 "wikilink")のそれと比べると、まったくというほどではないが大幅に限定されたものである。第1の柱で図られているバランスは、欧州共同体によってなされていることから、しばしば「共同体の秩序 (community method)」と表現されることがある。
+第2、第3の柱の分野については、[欧州議会](../Page/欧州議会.md "wikilink")、[欧州委員会](../Page/欧州委員会.md "wikilink")、[欧州司法裁判所](../Page/欧州司法裁判所.md "wikilink")に与えられた権限は、[欧州連合理事会](../Page/欧州連合理事会.md "wikilink")のそれと比べると、まったくというほどではないが大幅に限定されたものである。第1の柱で図られているバランスは、欧州共同体によってなされていることから、しばしば「共同体の秩序 (community method)」と表現されることがある。
 
 ## 3本柱構造の由来
 

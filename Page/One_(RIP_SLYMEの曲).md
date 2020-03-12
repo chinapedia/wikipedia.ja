@@ -1,13 +1,13 @@
 > この記事は[One \(RIP SLYME\)](https://ja.wikipedia.org/wiki/One_\(RIP_SLYME\))から翻訳されています。
 
 
-「**One**」（ワン）は、[RIP SLYMEの楽曲で](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")、[2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に発売された3枚目の[シングル](../Page/シングル.md "wikilink")。
+「**One**」（ワン）は、[RIP SLYMEの楽曲で](../Page/RIP_SLYME.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に発売された3枚目の[シングル](../Page/シングル.md "wikilink")。
 
-「[STEPPER'S DELIGHT](https://ja.wikipedia.org/wiki/STEPPER'S_DELIGHT "wikilink")」「[雑念エンタテインメント](https://ja.wikipedia.org/wiki/雑念エンタテインメント "wikilink")」『[FIVE](https://ja.wikipedia.org/wiki/FIVE_\(RIP_SLYMEのアルバム\) "wikilink")』で続いていた、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")のスタジオであるフジオプロダクションによる、メンバーが『[天才バカボン](../Page/天才バカボン.md "wikilink")』風にアレンジされた[イラストのジャケットは本作から使用されていない](../Page/イラストレーション.md "wikilink")（後に発売された[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[グッジョブ\!](https://ja.wikipedia.org/wiki/グッジョブ!_\(アルバム\) "wikilink")』で一度だけ復活した）。
+「[STEPPER'S DELIGHT](../Page/STEPPER'S_DELIGHT.md "wikilink")」「[雑念エンタテインメント](../Page/雑念エンタテインメント.md "wikilink")」『[FIVE](../Page/FIVE_\(RIP_SLYMEのアルバム\).md "wikilink")』で続いていた、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")のスタジオであるフジオプロダクションによる、メンバーが『[天才バカボン](../Page/天才バカボン.md "wikilink")』風にアレンジされた[イラストのジャケットは本作から使用されていない](../Page/イラストレーション.md "wikilink")（後に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[グッジョブ\!](../Page/グッジョブ!_\(アルバム\).md "wikilink")』で一度だけ復活した）。
 
 ## 収録曲
 
-  - 全作詞：[RYO-Z](https://ja.wikipedia.org/wiki/RYO-Z "wikilink"), [ILMARI](https://ja.wikipedia.org/wiki/ILMARI "wikilink"), [PES](https://ja.wikipedia.org/wiki/PES "wikilink"), [SU](../Page/SU_\(RIP_SLYME\).md "wikilink")
+  - 全作詞：[RYO-Z](../Page/RYO-Z.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [PES](../Page/PES.md "wikilink"), [SU](../Page/SU_\(RIP_SLYME\).md "wikilink")
 
 <!-- end list -->
 
@@ -23,10 +23,10 @@
 
 ## クレジット
 
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
-      - [RYO-Z](https://ja.wikipedia.org/wiki/RYO-Z "wikilink")：MC
-      - [ILMARI](https://ja.wikipedia.org/wiki/ILMARI "wikilink")：MC
-      - [PES](https://ja.wikipedia.org/wiki/PES "wikilink")：MC, Additional Vocal (\#3)
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
+      - [RYO-Z](../Page/RYO-Z.md "wikilink")：MC
+      - [ILMARI](../Page/ILMARI.md "wikilink")：MC
+      - [PES](../Page/PES.md "wikilink")：MC, Additional Vocal (\#3)
       - [SU](../Page/SU_\(RIP_SLYME\).md "wikilink")：MC
       - [DJ FUMIYA](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")：DJ
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - 加藤薫：[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")
-  - [ナスノミツル](https://ja.wikipedia.org/wiki/ナスノミツル "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [ナスノミツル](https://ja.wikipedia.org/wiki/ナスノミツル "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - Recorded & Mixed by 松田直 (at Digi-Toga, Warner recording studio, Free studio Yotsuya)
   - Mastered by Stuart Hawkes (at Metropolis studio London)
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 『[TOKYO CLASSIC](https://ja.wikipedia.org/wiki/TOKYO_CLASSIC "wikilink")』 (\#1)
+  - 『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』 (\#1)
 
 <!-- end list -->
 
@@ -73,8 +73,8 @@
 
 <!-- end list -->
 
-  - 『[グッジョブ\!](https://ja.wikipedia.org/wiki/グッジョブ!_\(アルバム\) "wikilink")』 (\#1)
-  - 『[グッジョブ\!CHRISTMAS EDITION](https://ja.wikipedia.org/wiki/グッジョブ!CHRISTMAS_EDITION "wikilink")』 (\#1)
+  - 『[グッジョブ\!](../Page/グッジョブ!_\(アルバム\).md "wikilink")』 (\#1)
+  - 『[グッジョブ\!CHRISTMAS EDITION](../Page/グッジョブ!CHRISTMAS_EDITION.md "wikilink")』 (\#1)
   - 『[BAD TIMES](https://ja.wikipedia.org/wiki/BAD_TIMES "wikilink")』 (\#2)
 
 ## 脚注

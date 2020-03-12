@@ -1,7 +1,7 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-'''海南テレビ中継局・和歌山FM送信所 '''（かいなんてれびちゅうけいきょく・わかやまえふえむそうしんじょ）は、[和歌山県](../Page/和歌山県.md "wikilink")[海南市](../Page/海南市.md "wikilink")の[岩屋山](https://ja.wikipedia.org/wiki/岩屋山 "wikilink")\[1\]\[2\]\[3\]に所在するテレビ放送の[中継局](../Page/中継局.md "wikilink")と[FM放送の](../Page/超短波.md "wikilink")[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")である。
+'''海南テレビ中継局・和歌山FM送信所 '''（かいなんてれびちゅうけいきょく・わかやまえふえむそうしんじょ）は、[和歌山県](../Page/和歌山県.md "wikilink")[海南市](../Page/海南市.md "wikilink")の[岩屋山](https://ja.wikipedia.org/wiki/岩屋山 "wikilink")\[1\]\[2\]\[3\]に所在するテレビ放送の[中継局](../Page/中継局.md "wikilink")と[FM放送の](../Page/超短波.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。
 
 ## 概要
 
@@ -20,8 +20,8 @@
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコンキーID</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効輻射電力" title="wikilink">実効輻射電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>
@@ -31,7 +31,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>23ch</p></td>
 <td><p>3W[5][6][7][8][9][10][11]</p></td>
 <td><p>8.7W[12][13]</p></td>
@@ -41,7 +41,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>13ch</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -101,7 +101,7 @@
 </tbody>
 </table>
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")放送開始
+  - [2006年](../Page/2006年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")放送開始
   - 放送エリアは、[海南市](../Page/海南市.md "wikilink")と周辺地域。
 
 ## 地上アナログテレビジョン放送送信設備
@@ -112,8 +112,8 @@
 <thead>
 <tr class="header">
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#対象区域" title="wikilink">放送区域内世帯数</a></p></th>
@@ -121,7 +121,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>50ch</p></td>
 <td><p>映像30W/<br />
 音声7.5W</p></td>
@@ -131,7 +131,7 @@
 <td><p>約-世帯</p></td>
 </tr>
 <tr class="even">
-<td><p>NHK<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<td><p>NHK<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>52ch</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -190,7 +190,7 @@
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a>（MHz）</p></th>
 <th><p>放送局名</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コールサイン</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p>実効輻射電力</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>

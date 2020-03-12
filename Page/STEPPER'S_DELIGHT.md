@@ -1,7 +1,7 @@
 > この記事は[STEPPER\'S DELIGHT](https://ja.wikipedia.org/wiki/STEPPER\'S_DELIGHT)から翻訳されています。
 
 
-「**STEPPER'S DELIGHT**」（ステッパーズ・ディライト）は[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")発売。
+「**STEPPER'S DELIGHT**」（ステッパーズ・ディライト）は[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")発売。
 
 ## 概要
 
@@ -9,7 +9,7 @@ RIP SLYMEのメジャーデビューシングル。
 
 オリコンシングルチャートでは初登場30位だったが、発売3週目に最高位の23位を記録。最高位こそメジャーデビュー後の彼らにとっては最も低いが、10万枚を売り上げるヒットとなった。
 
-ジャケットデザインはgroovisionsが担当し、メンバーを『[天才バカボン](../Page/天才バカボン.md "wikilink")』風にアレンジした[イラストとなっている](../Page/イラストレーション.md "wikilink")。また、「STEPPER'S DELIGHT」の[PV内にもこのイラストが登場する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+ジャケットデザインはgroovisionsが担当し、メンバーを『[天才バカボン](../Page/天才バカボン.md "wikilink")』風にアレンジした[イラストとなっている](../Page/イラストレーション.md "wikilink")。また、「STEPPER'S DELIGHT」の[PV内にもこのイラストが登場する](../Page/ミュージック・ビデオ.md "wikilink")。
 
 この作品の表記は、「STEPPER'S DELIGHT」と「ステッパーズ・ディライト」の両方が見られ、公式サイトのディスコグラフィーでは前者だが、オリコンでは後者の表記になっている。本項では、基本的に前者の表記で統一する。
 
@@ -19,7 +19,7 @@ RIP SLYMEのメジャーデビューシングル。
     （作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA）
     A面曲。
 
-発売当初に[スズキ](../Page/スズキ_\(企業\).md "wikilink")「[ジムニー](../Page/スズキ・ジムニー.md "wikilink")」「[Kei](../Page/スズキ・Kei.md "wikilink")」「FISフリースタイルリミテッド」のCMソング、[2004年](../Page/2004年.md "wikilink")に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")プレイヤーの[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")の指名で[NIKE FOOTBALLの](https://ja.wikipedia.org/wiki/ナイキ "wikilink")[東アジア](https://ja.wikipedia.org/wiki/東アジア "wikilink")[CM曲に使用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。PVではメンバーが[卓球](../Page/卓球.md "wikilink")をしている。[アルバム](../Page/アルバム.md "wikilink")『[FIVE](https://ja.wikipedia.org/wiki/FIVE_\(RIP_SLYMEのアルバム\) "wikilink")』収録。
+発売当初に[スズキ](../Page/スズキ_\(企業\).md "wikilink")「[ジムニー](../Page/スズキ・ジムニー.md "wikilink")」「[Kei](../Page/スズキ・Kei.md "wikilink")」「FISフリースタイルリミテッド」のCMソング、[2004年](../Page/2004年.md "wikilink")に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")プレイヤーの[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")の指名で[NIKE FOOTBALLの](../Page/ナイキ.md "wikilink")[東アジア](../Page/東アジア.md "wikilink")[CM曲に使用された](../Page/コマーシャルソング.md "wikilink")。PVではメンバーが[卓球](../Page/卓球.md "wikilink")をしている。[アルバム](../Page/アルバム.md "wikilink")『[FIVE](../Page/FIVE_\(RIP_SLYMEのアルバム\).md "wikilink")』収録。
 
 1.  **AIR CONDITIONER**
     （作詞：RYO-Z,ILMARI,PES,SU　作曲：DJ FUMIYA）

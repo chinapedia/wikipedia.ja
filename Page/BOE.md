@@ -7,12 +7,12 @@
 
   - 企業・官庁・その他の組織
       - [BOE (企業)](https://ja.wikipedia.org/wiki/BOE_\(企業\) "wikilink")（）
-      - [イングランド銀行](https://ja.wikipedia.org/wiki/イングランド銀行 "wikilink") ()
+      - [イングランド銀行](../Page/イングランド銀行.md "wikilink") ()
       - [特殊作戦大隊](https://ja.wikipedia.org/wiki/特殊警察作戦大隊_\(ブラジル\)#その他のBOPE "wikilink") () - ブラジルの特殊部隊。
       - [ボーイング](../Page/ボーイング.md "wikilink") (, ICAO: BOE) - アメリカの航空機メーカー（エアラインとしてのICAOコード）。
       - [海洋エネルギー管理・規制・執行局](https://ja.wikipedia.org/wiki/海洋エネルギー管理・規制・執行局 "wikilink") () - [アメリカ内務省](https://ja.wikipedia.org/wiki/アメリカ内務省 "wikilink")の機関。
       - [査定平準委員会](https://ja.wikipedia.org/wiki/査定平準委員会 "wikilink") () - アメリカのいくつかの州の機関。
-      - [教育委員会](https://ja.wikipedia.org/wiki/教育委員会 "wikilink") ()
+      - [教育委員会](../Page/教育委員会.md "wikilink") ()
   - [石油換算バレル](https://ja.wikipedia.org/wiki/石油換算バレル "wikilink") ()
   - [国家官報](https://ja.wikipedia.org/wiki/国家官報 "wikilink") () - スペインの官報。
   - [ブンジ空港](https://ja.wikipedia.org/wiki/ブンジ空港 "wikilink") (; IATA: BOE) - コンゴ共和国[ブンジ](https://ja.wikipedia.org/wiki/ブンジ "wikilink")の空港。
@@ -24,7 +24,7 @@
 
   - 地理
       - [ボエ地区](../Page/ボエ地区.md "wikilink") () - ナウルの行政地区。
-      - [ボエ](https://ja.wikipedia.org/wiki/ボエ "wikilink") () - ギニアビサウの町。
+      - [ボエ](../Page/ボエ.md "wikilink") () - ギニアビサウの町。
       - [ボー (ヌールラン県)](https://ja.wikipedia.org/wiki/ボー_\(ヌールラン県\) "wikilink") () - ノルウェーの自治体。
   - 人物
       - [エリック・ボー](https://ja.wikipedia.org/wiki/エリック・ボー "wikilink") () - アメリカの宇宙飛行士。

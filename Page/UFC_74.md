@@ -1,17 +1,17 @@
 > この記事は[UFC 74](https://ja.wikipedia.org/wiki/UFC_74)から翻訳されています。
 
 
-**UFC 74: Respect**（ユーエフシー・セブンティフォー：リスペクト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[マンダレイ・ベイ・イベント・センター](https://ja.wikipedia.org/wiki/マンダレイ・ベイ・イベント・センター "wikilink")で開催された。
+**UFC 74: Respect**（ユーエフシー・セブンティフォー：リスペクト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[マンダレイ・ベイ・イベント・センター](https://ja.wikipedia.org/wiki/マンダレイ・ベイ・イベント・センター "wikilink")で開催された。
 
-大会メインイベントではUFC世界ヘビー級王者[ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")と挑戦者[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")によるUFC世界ヘビー級タイトルマッチが行われた。
+大会メインイベントではUFC世界ヘビー級王者[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")と挑戦者[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")によるUFC世界ヘビー級タイトルマッチが行われた。
 
 ## 大会概要
 
-メインイベントである[ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")対[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")のUFC世界ヘビー級タイトルマッチでは、クートゥアがゴンザーガをTKOで降し、44歳にして王座防衛に成功した。セミファイナルでは王座陥落後の復帰戦となる[ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")が[ジョシュ・コスチェック](https://ja.wikipedia.org/wiki/ジョシュ・コスチェック "wikilink")を判定で破った。
+メインイベントである[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")対[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")のUFC世界ヘビー級タイトルマッチでは、クートゥアがゴンザーガをTKOで降し、44歳にして王座防衛に成功した。セミファイナルでは王座陥落後の復帰戦となる[ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")が[ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink")を判定で破った。
 
-第4試合の[レナート・ババル](../Page/レナート・ババル.md "wikilink")対デビッド・ヒース戦では、ヒースがタップした後もババルが絞めを解かなかったため、試合後ババルには[ネバダ州アスレチック・コミッション](https://ja.wikipedia.org/wiki/ネバダ州アスレチック・コミッション "wikilink")より25,000ドルの罰金が課せられた（これは当該試合の勝利者賞の額に相当）。また、ババルにはUFCとの契約更新がない旨も併せて通知された\[1\]。
+第4試合の[レナート・ババル](../Page/レナート・ババル.md "wikilink")対デビッド・ヒース戦では、ヒースがタップした後もババルが絞めを解かなかったため、試合後ババルには[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")より25,000ドルの罰金が課せられた（これは当該試合の勝利者賞の額に相当）。また、ババルにはUFCとの契約更新がない旨も併せて通知された\[1\]。
 
-今大会でUFC初参戦となった[マーカス・アウレリオ](https://ja.wikipedia.org/wiki/マーカス・アウレリオ "wikilink")は、[クレイ・グイダ](https://ja.wikipedia.org/wiki/クレイ・グイダ "wikilink")に僅差の判定で敗れ、黒星デビューとなった。
+今大会でUFC初参戦となった[マーカス・アウレリオ](../Page/マーカス・アウレリオ.md "wikilink")は、[クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink")に僅差の判定で敗れ、黒星デビューとなった。
 
 キャリア8戦全勝の元[KOTC世界ライト級王者アルバート](https://ja.wikipedia.org/wiki/King_of_the_Cage "wikilink")・クレインがUFCデビュー。
 
@@ -20,36 +20,36 @@
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [クレイ・グイダ](https://ja.wikipedia.org/wiki/クレイ・グイダ "wikilink") vs.  [マーカス・アウレリオ](https://ja.wikipedia.org/wiki/マーカス・アウレリオ "wikilink") ×
+    ○  [クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink") vs.  [マーカス・アウレリオ](../Page/マーカス・アウレリオ.md "wikilink") ×
     3R終了 判定2-1（30-27、30-27、28-29）
   - 第2試合 ミドル級 5分3R
     ○  [ターレス・レイチ](https://ja.wikipedia.org/wiki/ターレス・レイチ "wikilink") vs.  ライアン・ジェンセン ×
-    1R 3:47 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
-    レイチは[トラヴィス・ルター](https://ja.wikipedia.org/wiki/トラヴィス・ルター "wikilink")に代わっての出場。
+    1R 3:47 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
+    レイチは[トラヴィス・ルター](../Page/トラヴィス・ルター.md "wikilink")に代わっての出場。
   - 第3試合 ヘビー級 5分3R
-    ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [アントニー・ハードンク](https://ja.wikipedia.org/wiki/アントニー・ハードンク "wikilink") ×
-    1R 1:17 [チキンウィングアームロック](https://ja.wikipedia.org/wiki/ダブルリストロック "wikilink")
+    ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [アントニー・ハードンク](../Page/アントニー・ハードンク.md "wikilink") ×
+    1R 1:17 [チキンウィングアームロック](../Page/ダブルリストロック.md "wikilink")
   - 第4試合 ライトヘビー級 5分3R
     ○  [レナート・ババル](../Page/レナート・ババル.md "wikilink") vs.  デビッド・ヒース ×
-    3R 3:30 [スピニングチョーク](https://ja.wikipedia.org/wiki/スピニングチョーク "wikilink")
+    3R 3:30 [スピニングチョーク](../Page/スピニングチョーク.md "wikilink")
 
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
-    ○  [パトリック・コーテ](https://ja.wikipedia.org/wiki/パトリック・コーテ "wikilink") vs.  [ケンドール・グローブ](https://ja.wikipedia.org/wiki/ケンドール・グローブ "wikilink") ×
-    1R 4:45 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink") vs.  [ケンドール・グローブ](../Page/ケンドール・グローブ.md "wikilink") ×
+    1R 4:45 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第6試合 ライト級 5分3R
     ○  [ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink") vs.  [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink") ×
     3R終了 判定3-0（30-27、30-27、29-28）
   - 第7試合 ライト級 5分3R
     ○  [ロジャー・ウエルタ](https://ja.wikipedia.org/wiki/ロジャー・ウエルタ "wikilink") vs.  アルバート・クレイン ×
-    3R 1:50 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    3R 1:50 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 ウェルター級 5分3R
-    ○  [ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink") vs.  [ジョシュ・コスチェック](https://ja.wikipedia.org/wiki/ジョシュ・コスチェック "wikilink") ×
+    ○  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") vs.  [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink") ×
     3R終了 判定3-0（29-28、29-28、30-27）
   - 第9試合 UFC世界ヘビー級タイトルマッチ 5分5R
-    ○  [ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink") vs.  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") ×
-    3R 1:37 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink") vs.  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") ×
+    3R 1:37 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※クートゥアが王座の初防衛に成功。
 
 ### 各賞
@@ -65,7 +65,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

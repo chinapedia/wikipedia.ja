@@ -14,8 +14,8 @@
 ### 日本版
 
 1.  **Rock With You**
-      - 作詞：[藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")／作曲：[原一博](../Page/原一博.md "wikilink")／編曲：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")
-      - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") [CDMA 1X](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink") A5501T」CMソング
+      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲：[原一博](../Page/原一博.md "wikilink")／編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
+      - [東芝](../Page/東芝.md "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") [CDMA 1X](../Page/CDMA_1X.md "wikilink") A5501T」CMソング
 2.  **[DOUBLE（English Version）](../Page/DOUBLE_\(BoAの曲\).md "wikilink")**
       - 英語詞：Emi K. Lynn
 3.  Rock With You（Instrumental）
@@ -26,7 +26,7 @@
 1.  **Rock With You**
 2.  **[Atlantis Princess](../Page/Atlantis_Princess.md "wikilink")（Just FiCTiOn Mix 2003）**
 3.  **Moon & Sunrise**
-      - オリジナルは日本における2ndアルバム『[VALENTI](https://ja.wikipedia.org/wiki/VALENTI_\(アルバム\) "wikilink")』に収録されている。
+      - オリジナルは日本における2ndアルバム『[VALENTI](../Page/VALENTI_\(アルバム\).md "wikilink")』に収録されている。
 4.  Rock With You（Instrumental）
 5.  Atlantis Princess（Just FiCTiOn Mix 2003）（Instrumental）
 6.  Moon & Sunrise（Instrumental）

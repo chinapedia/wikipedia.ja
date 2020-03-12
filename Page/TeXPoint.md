@@ -1,7 +1,7 @@
 > この記事は[TeXPoint](https://ja.wikipedia.org/wiki/TeXPoint)から翻訳されています。
 
 
-**TexPoint** は Microsoft [PowerPoint](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink") と [Word](../Page/Microsoft_Word.md "wikilink") の[アドイン](https://ja.wikipedia.org/wiki/アドイン "wikilink")である。これを使うと、[](../Page/LaTeX.md "wikilink") の記号や数式を PowerPoint ファイルやWord文書に簡単に挿入することができるようになる。
+**TexPoint** は Microsoft [PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink") と [Word](../Page/Microsoft_Word.md "wikilink") の[アドイン](https://ja.wikipedia.org/wiki/アドイン "wikilink")である。これを使うと、[](../Page/LaTeX.md "wikilink") の記号や数式を PowerPoint ファイルやWord文書に簡単に挿入することができるようになる。
 
 バージョン2.0.3までは[フリーウェア](../Page/フリーウェア.md "wikilink")であったが、それ以降のバージョンは[シェアウェア](../Page/シェアウェア.md "wikilink")として配布されている。2.0.3は現在は配布されていない。
 

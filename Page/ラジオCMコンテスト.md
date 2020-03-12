@@ -31,8 +31,8 @@
 
   - [静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")「第○回K-MIX RADIO CMコピーコンテスト あなたが宣伝本部長」（開催時期 11月末 - 翌年2月初旬）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")「YBSラジオ AM765kHz 1ミニッツ ストーリーCMアワード」（開催時期 11月末 - 翌年1月末日）\[1\]
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")「第○回RBCiラジオCMグランプリ」（開催時期 12月初旬 - 翌年3月初旬）\[2\]
-  - [エフエムおびひろ](https://ja.wikipedia.org/wiki/エフエムおびひろ "wikilink")「FM-JAGA CMアワード（西暦）」（開催時期 1月末 - 2月中旬）
+  - [琉球放送](../Page/琉球放送.md "wikilink")「第○回RBCiラジオCMグランプリ」（開催時期 12月初旬 - 翌年3月初旬）\[2\]
+  - [エフエムおびひろ](../Page/エフエムおびひろ.md "wikilink")「FM-JAGA CMアワード（西暦）」（開催時期 1月末 - 2月中旬）
   - [エフエム秋田](../Page/エフエム秋田.md "wikilink")「輝け！コピーライター大賞（西暦）」（開催時期 1月末 - 2月末日）
   - [エフエム仙台](../Page/エフエム仙台.md "wikilink")「第○回賞金10万円 Date fm CM コピーコンテスト」（開催時期 3月中旬 - 4月下旬）
   - [エフエム高知](../Page/エフエム高知.md "wikilink")「Hi-six CMコピー大賞（西暦）」（開催時期 4月1日 - 5月末日）
@@ -71,10 +71,10 @@
   - [宣伝会議賞](http://award.sendenkaigi.com/)（ラジオCMの課題がある公募賞）
   - [京都広告賞](http://www.kaaa.jp/)（ラジオCMの課題がある公募賞）年齢制限がある。
   - [ACC学生CMコンクール](http://www.acc-cm.or.jp/festival/index_student.html)（ラジオCMの課題がある公募賞）注）学生のみ応募可能。
-  - [全国FM放送協議会](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink") 「全国放送争奪！JFN学生ラジオCMコンテスト」学生のみ応募可能。
+  - [全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink") 「全国放送争奪！JFN学生ラジオCMコンテスト」学生のみ応募可能。
   - [KBS京都](../Page/京都放送.md "wikilink") 「自転車交通安全CMコンテスト」学生のみ応募可能。
   - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")「高校生交通安全CMコンテスト」学生のみ応募可能。
-  - [ラジオCMコピー大会](https://ja.wikipedia.org/wiki/ラジオCMコピー大会 "wikilink")「100万円大賞 ラジオCMコピー大会〜本家本元 ラジオCMまるかじり\!\!〜」文化放送の旧ラジオCMコンテストについて記載されている。
+  - [ラジオCMコピー大会](../Page/ラジオCMコピー大会.md "wikilink")「100万円大賞 ラジオCMコピー大会〜本家本元 ラジオCMまるかじり\!\!〜」文化放送の旧ラジオCMコンテストについて記載されている。
 
 [Category:日本のラジオ放送](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
 

@@ -1,20 +1,20 @@
 > この記事は[Red \(\)](https://ja.wikipedia.org/wiki/Red_\(\))から翻訳されています。
 
 
-『**Red**』（レッド）は、[1996年](../Page/1996年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に[cutting edgeからリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のデビューアルバム。CDコードはCTCR-18001。
+『**Red**』（レッド）は、[1996年](../Page/1996年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に[cutting edgeからリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のデビューアルバム。CDコードはCTCR-18001。
 
 ## 解説
 
-  - デビューシングルから4枚目のシングルまでの表題曲（「[夢見る少女じゃいられない](https://ja.wikipedia.org/wiki/夢見る少女じゃいられない "wikilink")」、「[バイバイ。](../Page/バイバイ。.md "wikilink")」、「[LIKE A HARD RAIN](../Page/LIKE_A_HARD_RAIN.md "wikilink")」、「[BREAK OUT\!](../Page/BREAK_OUT!_\(相川七瀬の曲\).md "wikilink")」）に、カップリング曲のうちの2曲、さらに新曲5曲を加えた全11曲を収録。
+  - デビューシングルから4枚目のシングルまでの表題曲（「[夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")」、「[バイバイ。](../Page/バイバイ。.md "wikilink")」、「[LIKE A HARD RAIN](../Page/LIKE_A_HARD_RAIN.md "wikilink")」、「[BREAK OUT\!](../Page/BREAK_OUT!_\(相川七瀬の曲\).md "wikilink")」）に、カップリング曲のうちの2曲、さらに新曲5曲を加えた全11曲を収録。
   - 3週目で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。総売り上げは、デビューアルバムにも関わらず、約245万枚の売り上げを記録し、大ヒットアルバムとなった。
   - [ビーイング](../Page/ビーイング.md "wikilink")のスタジオで制作された作品。
-  - ジャケットデザインは、織田哲郎を始め[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")や[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")・[浜田麻里](https://ja.wikipedia.org/wiki/浜田麻里 "wikilink")・[B'z](../Page/B'z.md "wikilink")・[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")などビーイング初期から中興期のジャケットを手掛けた[カッツ三宅](https://ja.wikipedia.org/wiki/カッツ三宅 "wikilink")が手掛けた。
+  - ジャケットデザインは、織田哲郎を始め[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")や[LOUDNESS](../Page/LOUDNESS.md "wikilink")・[浜田麻里](../Page/浜田麻里.md "wikilink")・[B'z](../Page/B'z.md "wikilink")・[T-BOLAN](../Page/T-BOLAN.md "wikilink")などビーイング初期から中興期のジャケットを手掛けた[カッツ三宅](https://ja.wikipedia.org/wiki/カッツ三宅 "wikilink")が手掛けた。
 
 ## 収録曲
 
 1.  **光と影の迷宮（ラビリンス）** (5:52)
       - 作詞：SAKUYA、[織田哲郎](../Page/織田哲郎.md "wikilink") / 作曲・編曲：織田哲郎
-2.  **[夢見る少女じゃいられない](https://ja.wikipedia.org/wiki/夢見る少女じゃいられない "wikilink")** (4:18)
+2.  **[夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")** (4:18)
       - 作詞・作曲・編曲：織田哲郎
     <!-- end list -->
       -
@@ -37,7 +37,7 @@
       - 作詞：相川七瀬、井手功二 / 作曲・編曲：織田哲郎
     <!-- end list -->
       -
-        [ブランニューモンキーズ](https://ja.wikipedia.org/wiki/ブランニューモンキーズ "wikilink")の井手功二（現:[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink")）をラッパーとして迎え共同作詞（ラップ部分）。\<\!--\>ライブでもスペシャルゲストとして出演することもあった。\<--\>
+        [ブランニューモンキーズ](https://ja.wikipedia.org/wiki/ブランニューモンキーズ "wikilink")の井手功二（現:[井手コウジ](../Page/井手コウジ.md "wikilink")）をラッパーとして迎え共同作詞（ラップ部分）。\<\!--\>ライブでもスペシャルゲストとして出演することもあった。\<--\>
 8.  **Love me** (4:10)
       - 作詞：相川七瀬 / 作曲・編曲：ホリエアキラ
     <!-- end list -->
@@ -57,6 +57,6 @@
       - 作詞：相川七瀬 / 作曲・編曲：織田哲郎
     <!-- end list -->
       -
-        4thシングル「BREAK OUT\!」のカップリング曲。[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")』にも収録された。
+        4thシングル「BREAK OUT\!」のカップリング曲。[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")』にも収録された。
 
 [Category:相川七瀬のアルバム](https://ja.wikipedia.org/wiki/Category:相川七瀬のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:織田哲郎プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:織田哲郎プロデュースのアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[WAO!!](https://ja.wikipedia.org/wiki/WAO!!)から翻訳されています。
 
 
-『**WAO\!\!**』（ワオ）は、[オレスカバンドの](https://ja.wikipedia.org/wiki/ORESKABAND "wikilink")1作目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")より発売された。
+『**WAO\!\!**』（ワオ）は、[オレスカバンドの](../Page/ORESKABAND.md "wikilink")1作目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より発売された。
 
 ## 解説
 
-  - 初回生産限定盤（[DVD](../Page/DVD.md "wikilink")付）と通常盤の2種類ある。初回生産限定盤は3方背スリーブケース仕様であり、バンド結成後から現在に至るまでの秘蔵ドキュメンタリー映像と6曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を収録したDVDが付属した。
+  - 初回生産限定盤（[DVD](../Page/DVD.md "wikilink")付）と通常盤の2種類ある。初回生産限定盤は3方背スリーブケース仕様であり、バンド結成後から現在に至るまでの秘蔵ドキュメンタリー映像と6曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録したDVDが付属した。
   - アルバムタイトルは「We Are Oreskaband」の頭文字3文字を取って付けられた。
 
 ## 収録曲
@@ -15,8 +15,8 @@
 <!-- end list -->
 
 1.  **ピノキオ**
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』14代目[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - 2006年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送分）。
-      - [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")[ポッキー](https://ja.wikipedia.org/wiki/ポッキー "wikilink")チョコレート[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")バージョンCFソング
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』14代目[エンディングテーマ](../Page/主題歌.md "wikilink")（[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink") - 2006年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送分）。
+      - [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")[ポッキー](../Page/ポッキー.md "wikilink")チョコレート[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")バージョンCFソング
 2.  **クーラーソサイエティ**
 3.  **[爪先](../Page/爪先_\(オレスカバンドの曲\).md "wikilink")**
       - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』エンディングテーマ

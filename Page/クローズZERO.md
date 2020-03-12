@@ -1,7 +1,7 @@
 > この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
 
 
-『**クローズZERO**』（クローズゼロ）は、[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")の漫画『[クローズ](https://ja.wikipedia.org/wiki/クローズ "wikilink")』を原作とした[2007年](../Page/2007年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。[PG-12指定](../Page/映画のレイティングシステム.md "wikilink")。[2009年](../Page/2009年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")公開の続編『**クローズZERO II**』、[2014年](../Page/2014年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")公開のシリーズ第3作『**クローズEXPLODE**』や、『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）で連載された漫画についてもここで扱う。
+『**クローズZERO**』（クローズゼロ）は、[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")の漫画『[クローズ](../Page/クローズ.md "wikilink")』を原作とした[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。[PG-12指定](../Page/映画のレイティングシステム.md "wikilink")。[2009年](../Page/2009年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")公開の続編『**クローズZERO II**』、[2014年](../Page/2014年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")公開のシリーズ第3作『**クローズEXPLODE**』や、『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）で連載された漫画についてもここで扱う。
 
 ## クローズZERO
 
@@ -10,19 +10,19 @@
   - キャッチコピーは「熱く生きろ。」、「今を生きるオメーら、バカなままでいい、燃え尽きろ。」、「全部壊して、ゼロになれ。」。
   - 原作の主人公・坊屋春道が鈴蘭高校に転校してくる1年前を描いた完全オリジナルストーリーである。
   - 原作者の[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")は『クローズ』連載中の頃から実写映画化の話を全て断っていたが、完全オリジナルストーリーという条件で実現した。
-  - 原作ではほとんど登場しない女性キャラが登場しており、[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")が[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で歌う[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")という設定のため、ライブシーンを披露している。
+  - 原作ではほとんど登場しない女性キャラが登場しており、[ヒロイン](../Page/ヒロイン.md "wikilink")が[ライブハウス](../Page/ライブハウス.md "wikilink")で歌う[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")という設定のため、ライブシーンを披露している。
 
 ### キャスト
 
 #### 鈴蘭男子高校
 
-県内随一の不良が集まる男子高。偏差値は県内最低。多くの猛者が集い、派閥や一匹狼が常に存在しているため、いまだかつて[番長](https://ja.wikipedia.org/wiki/番長 "wikilink")として全校をまとめ上げた者は存在しない。
+県内随一の不良が集まる男子高。偏差値は県内最低。多くの猛者が集い、派閥や一匹狼が常に存在しているため、いまだかつて[番長](../Page/番長.md "wikilink")として全校をまとめ上げた者は存在しない。
 
 ##### G.P.S（GENJI.PERFECT.SEIHA）
 
 **（第23期生）**
 
-  - 滝谷 源治（たきや げんじ）：[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")
+  - 滝谷 源治（たきや げんじ）：[小栗旬](../Page/小栗旬.md "wikilink")
     本作の主人公であり最凶の転入生。G.P.Sの頭。ヒロミ達が入学する日に3年E組に転校してきた。実家は劉生会というヤクザでその組をもらうべく不可能と言われている鈴蘭制覇を本気で目指す。人付き合いが苦手で一見冷めた風に見えるが根は仲間想いで仲間のためならば自分の身を投げ出す。群れることを嫌い単独行動する源治であったが、ふとしたことで知り合った鈴蘭OBのチンピラ・片桐拳と友情を深める。そして忠太、牧瀬、伊崎らを率いてG.P.Sを結成する。
     鈴蘭の制覇に最も近いと言われている芹沢軍団の頭・芹沢多摩雄と激突し、僅差で勝利を収めたが、2年にして鈴蘭史上最強の男といわれているリンダマンこと林田恵に完全敗北を喫してしまう。
     続編では鳳仙のトップ・鳴海大我と激闘を繰り広げた末、芹沢を倒した時と同じく僅差で勝利した。最後はリンダマンとのリベンジ戦でタイマン勝負をし、ボディへのパンチで初めてリンダマンに膝を付かせた（が、その1年後を描いたクローズ本編においてリンダマンは無敗となっている事実から、敗れたか引き分けたと思われる）。しなやかな肢体とシャープな肉体を活かした中距離戦闘を得意とする。その中でも一撃必殺の飛び膝蹴りが強烈。髪型は長髪ツーブロックに2本のラインを入れた独特なスタイル。
@@ -50,17 +50,17 @@
     映画オリジナルキャラであったが原作の続編、「WORST」では名前の表記で登場した。
   - 辰川 時生（たつかわ ときお）：[桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")
     芹沢軍団のナンバー2。源治の中学時代の友人。芹沢と同じ3年A組。解離性脳動脈瘤を患っているが芹沢にも黙っている。
-    そのため、G.P.Sとの抗争には参加出来なかった。最後は病気に打ち勝ち、退院した。家は金持ちのボンボンで、学校では自分の名前を刺繍した[ラルフ・ローレン](https://ja.wikipedia.org/wiki/ラルフ・ローレン "wikilink")のYシャツを着ている。
+    そのため、G.P.Sとの抗争には参加出来なかった。最後は病気に打ち勝ち、退院した。家は金持ちのボンボンで、学校では自分の名前を刺繍した[ラルフ・ローレン](../Page/ラルフ・ローレン.md "wikilink")のYシャツを着ている。
     続編では手術後の体調を周りに気遣われつつも、鳳仙との抗争に参加。鳳仙の生徒に頭を攻撃されて危機に陥りかけるも、襲いかかって来た鳳仙の生徒達を見事全滅させた。
-  - 戸梶 勇次（とかじ ゆうじ）：[遠藤要](https://ja.wikipedia.org/wiki/遠藤要_\(俳優\) "wikilink")
+  - 戸梶 勇次（とかじ ゆうじ）：[遠藤要](../Page/遠藤要_\(俳優\).md "wikilink")
     芹沢軍団のナンバー3。芹沢軍団の頭脳といわれるほどの策士。芹沢や時生と同じく3年A組。切れ者の伊崎を大人数で襲ったり、源治達と阪東達の間にいざこざを起こし共倒れを目論むなど、卑怯な手も厭わない。伊崎とは犬猿の仲。
     G.P.Sとの抗争では伊崎とタイマンを張り、アッパーによって敗北。
     続編の鳳仙との抗争では伊崎との和解を思わせる場面があった後に芝山にタイマンで勝利した。芹沢多摩雄の元ライバル。ヘビースモーカー。
-  - 三上 学（みかみ まなぶ）：[伊崎右典](https://ja.wikipedia.org/wiki/伊崎右典 "wikilink")
+  - 三上 学（みかみ まなぶ）：[伊崎右典](../Page/伊崎右典.md "wikilink")
     3年B組を仕切る三上兄弟の兄。通称「極悪ツインズ1号」。三年の頭を決めようと芹沢に弟・豪と共に勝負を挑むもあっさり完敗し、軍団入りを表明。
     G.P.Sとの抗争では牧瀬とタイマンを張り、ラリアットにより敗北。弟・豪との連携技を得意とする。リーゼントにマスクという典型的なスタイル。
     続編では茶髪リーゼント。兄弟そろって\[クローズZERO\]と\[クローズZERO II\]で髪型が変わった。弟の豪と共にG.P.Sに移籍した。豪と共に手術以降の時生を気遣っており、セメダインを渡したり、鳳仙との抗争では時生を助けたりした。鳳仙からの奇襲の際は牧瀬と共に最後まで意識を持ち兵隊を全員倒すものの、力尽き気絶する。鳳仙との抗争では豪と共に熊切と闘い、勝利した。
-  - 三上 豪（みかみ たけし）：[伊崎央登](https://ja.wikipedia.org/wiki/伊崎央登 "wikilink")
+  - 三上 豪（みかみ たけし）：[伊崎央登](../Page/伊崎央登.md "wikilink")
     3年B組を仕切る三上兄弟の弟。通称「極悪ツインズ2号」。金髪のオールバック。三年の頭を決めようと芹沢に兄・学と共に勝負を挑むもあっさり完敗し、軍団入りを表明。
     G.P.Sとの抗争では忠太とタイマンを張り、優位に闘いを進めた。兄・学との連携技を得意とする。
     続編ではパンチリーゼント。兄弟そろって\[クローズZERO\]と\[クローズZERO II\]で髪型が変わった。兄の学と共にG.P.Sに移籍した。学と共に手術以降の時生を気遣っており、セメダインを渡したり、鳳仙との抗争では時生を助けたりした。鳳仙との抗争では学と共に熊切と闘い、勝利した。
@@ -78,18 +78,18 @@
 
   - 桐島 ヒロミ（きりしま ヒロミ）：[大東俊介](https://ja.wikipedia.org/wiki/大東俊介 "wikilink")
     本作で本城・杉原と共に入学してくる。クラスは3人とも1年F組。伊崎から再三に渡りG.P.S入りを進められるも、拒み続けた。
-  - 本城 俊明（ほんじょう としあき）：[橋爪遼](https://ja.wikipedia.org/wiki/橋爪遼 "wikilink")
+  - 本城 俊明（ほんじょう としあき）：[橋爪遼](../Page/橋爪遼.md "wikilink")
     本作で桐島・杉原と共に入学してくる。常にマスクを付けているのが特徴。
-  - 杉原 誠（すぎはら まこと）：[小柳友](https://ja.wikipedia.org/wiki/小柳友 "wikilink")
+  - 杉原 誠（すぎはら まこと）：[小柳友](../Page/小柳友.md "wikilink")
     本作で桐島・本城と共に入学してくる。原作の「クローズ」では短髪のリーゼントだが、本作では肩につくほどの長髪である（小柳が他の作品と撮影が平行していた為に髪を切れなかった）。本作で中学時代の先輩でもある伊崎に「髪切れ」と言われ、その後G.P.Sの勧誘の目的で伊崎が髪を切ったので、続編では短髪のリーゼント。
 
 ##### その他の生徒
 
 **（第24期生）**
 
-  - 林田 恵（はやしだ めぐみ）：[深水元基](https://ja.wikipedia.org/wiki/深水元基 "wikilink")
+  - 林田 恵（はやしだ めぐみ）：[深水元基](../Page/深水元基.md "wikilink")
     鈴蘭2年。通称・リンダマン。鈴蘭史上最強の男との呼び声が高い。鈴蘭制覇には関っていないが「別格」や「怪物」と呼ばれ、その実力は源治や芹沢をも凌駕する。なにやら過去にあった出来事が彼を戒めているようだ。最後は源治との一騎討ちで圧倒的な差を見せつける。続編の最後の源治とのタイマンでは腹部にパンチの一撃をくらい初めて跪いた。クラスは2年C組。原作に比べてより寡黙な性格で無表情である。
-  - 鷲尾 郷太（わしお ごうた）：[波岡一喜](https://ja.wikipedia.org/wiki/波岡一喜 "wikilink")
+  - 鷲尾 郷太（わしお ごうた）：[波岡一喜](../Page/波岡一喜.md "wikilink")
     2年生で構成された鷲尾組を率いており、芹沢に挑むも瞬殺される。続編では鈴蘭を退学し、鳳仙に転入した。通称・最怯の転入生。
 
 **（第25期生）**
@@ -101,9 +101,9 @@
 
 **（第24期生）** パート1のみ登場
 
-  - 阪東 秀人（ばんどう ひでと）：[渡辺大](https://ja.wikipedia.org/wiki/渡辺大 "wikilink")
-    千田 ナオキ（せんだ ナオキ）：[武田航平](https://ja.wikipedia.org/wiki/武田航平 "wikilink")
-    山崎 タツヤ（やまざき タツヤ）：[鈴木信二](https://ja.wikipedia.org/wiki/鈴木信二 "wikilink")
+  - 阪東 秀人（ばんどう ひでと）：[渡辺大](../Page/渡辺大.md "wikilink")
+    千田 ナオキ（せんだ ナオキ）：[武田航平](../Page/武田航平.md "wikilink")
+    山崎 タツヤ（やまざき タツヤ）：[鈴木信二](../Page/鈴木信二.md "wikilink")
 
 #### 協力者
 
@@ -111,33 +111,33 @@
     劉生会と敵対する矢崎組のチンピラで、鈴蘭OB。入学式の日に芹沢に舎弟をやられた報復に鈴蘭高校に乗り込んできた。源治を芹沢と間違えて復讐にいった（返り討ちにあったが）際に源治と知り合う。実は面倒見のいい性格で、その後は源治の鈴蘭制覇に協力する。小柄で腕力も弱いが男気溢れる憎めない男。源治と関っていくうちに自身も大きなトラブルに巻き込まれてしまう。
   - 逢沢 ルカ（あいざわ ルカ）：[黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")
     源治のいきつけのライブハウスの女性ヴォーカリスト。男勝りな性格でサバサバしているが傷だらけの源治を気遣ったり、など根は優しく純粋。武装戦線になりすました戸梶らに拉致されてしまう。実家は八百屋。
-  - 牛山（うしやま）：[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")
+  - 牛山（うしやま）：[松重豊](../Page/松重豊.md "wikilink")
     源治のいきつけのライブハウスで働いている。鈴蘭や鳳仙の事をよく知っていると思われる。滝谷英雄のことを「先輩」と呼んでいた事から、彼も鈴蘭OBである可能性が高い。
 
 #### 警察
 
-  - 黒岩 義信（くろいわ よしのぶ）：[塩見三省](https://ja.wikipedia.org/wiki/塩見三省 "wikilink")
+  - 黒岩 義信（くろいわ よしのぶ）：[塩見三省](../Page/塩見三省.md "wikilink")
     刑事。芹沢の天敵。バイクで中央市場を逃げ回る芹沢と、車で店舗を破壊しながらもお構い無しに追い続けるカーチェイスを繰り広げた。最後は芹沢にチキンレースを申し出たがド派手に横転し、敗北。そして血まみれになりながらも鈴蘭のグラウンドにて芹沢を包囲し、確保した。後に片桐拳とも顔見知りであることが判明し、拳と同学年の鈴蘭の頭の仲井の話をしていた。
 
 #### 組関係
 
-  - 滝谷 英雄（たきや ひでお）：[岸谷五朗](https://ja.wikipedia.org/wiki/岸谷五朗 "wikilink")
+  - 滝谷 英雄（たきや ひでお）：[岸谷五朗](../Page/岸谷五朗.md "wikilink")
     滝谷源治の父で、劉生会滝谷組の組長。鈴蘭のOBであり、続編では源治を子供扱いしていた事から喧嘩は強いと見受けられる。源治のことを「ゲン」と呼んでいる。
-  - 矢崎 丈治（やざき じょうじ）：[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
+  - 矢崎 丈治（やざき じょうじ）：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
     片桐拳の親分で、早秋一家矢崎組の組長。続編では体調を壊しつつある。
-  - 前園 康太（まえぞの こうた）：[辻岡正人](https://ja.wikipedia.org/wiki/辻岡正人 "wikilink")
+  - 前園 康太（まえぞの こうた）：[辻岡正人](../Page/辻岡正人.md "wikilink")
     ルカに暴行を働こうと企て、源治・拳とトラブルを引き起こすストリートギャング。
 
 ### スタッフ
 
   - 原作：[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")
   - 監督：[三池崇史](../Page/三池崇史.md "wikilink")
-  - プロデューサー：[山本又一朗](https://ja.wikipedia.org/wiki/山本又一朗 "wikilink")
+  - プロデューサー：[山本又一朗](../Page/山本又一朗.md "wikilink")
   - 企画：[濱名一哉](https://ja.wikipedia.org/wiki/濱名一哉 "wikilink")
   - 共同プロデューサー：[佐谷秀美](https://ja.wikipedia.org/wiki/佐谷秀美 "wikilink")
   - アソシエイトプロデューサー：[岡田有正](https://ja.wikipedia.org/wiki/岡田有正 "wikilink")、[富田敏家](https://ja.wikipedia.org/wiki/富田敏家 "wikilink")、[堀之内郁哉](https://ja.wikipedia.org/wiki/堀之内郁哉 "wikilink")
-  - 脚本：[武藤将吾](https://ja.wikipedia.org/wiki/武藤将吾 "wikilink")
-  - 撮影：[古谷巧](https://ja.wikipedia.org/wiki/古谷巧 "wikilink")
+  - 脚本：[武藤将吾](../Page/武藤将吾.md "wikilink")
+  - 撮影：[古谷巧](../Page/古谷巧.md "wikilink")
   - 美術：[林田裕至](https://ja.wikipedia.org/wiki/林田裕至 "wikilink")
   - 照明：[高坂俊秀](https://ja.wikipedia.org/wiki/高坂俊秀 "wikilink")
   - 録音：[石貝洋](https://ja.wikipedia.org/wiki/石貝洋 "wikilink")
@@ -155,16 +155,16 @@
   - アクションコーディネーター：[辻井啓伺](https://ja.wikipedia.org/wiki/辻井啓伺 "wikilink")、[出口正義](https://ja.wikipedia.org/wiki/出口正義 "wikilink")
   - CGIプロデューサー：[坂美佐子](https://ja.wikipedia.org/wiki/坂美佐子 "wikilink")
   - CGIディレクター：[太田垣香織](https://ja.wikipedia.org/wiki/太田垣香織 "wikilink")
-  - 製作：「クローズZERO」製作委員会（[TBS](../Page/TBSテレビ.md "wikilink") [トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink") [東宝](../Page/東宝.md "wikilink") [MBS](../Page/毎日放送.md "wikilink") [秋田書店](../Page/秋田書店.md "wikilink") [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") [ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")）
+  - 製作：「クローズZERO」製作委員会（[TBS](../Page/TBSテレビ.md "wikilink") [トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink") [東宝](../Page/東宝.md "wikilink") [MBS](../Page/毎日放送.md "wikilink") [秋田書店](../Page/秋田書店.md "wikilink") [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") [ハピネット](../Page/ハピネット.md "wikilink")）
   - 配給：[東宝](../Page/東宝.md "wikilink")
-  - 上映時間：128分/[ビスタビジョン](https://ja.wikipedia.org/wiki/ビスタビジョン "wikilink")
+  - 上映時間：128分/[ビスタビジョン](../Page/ビスタビジョン.md "wikilink")
 
 ### その他
 
-  - 学校のシーンの撮影は2005年3月をもって廃校となった旧[大阪府立高槻南高等学校](https://ja.wikipedia.org/wiki/大阪府立高槻南高等学校 "wikilink")で行われた。卒業生など関係者の意向により演出上必要なペインティングなどはペンキを使わずカッティングシートで代用するなど工夫し、完全な形で現状復帰が出来るようにして行われた（[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 2007年11月8日発行の関西版夕刊 「GoGo\!ロケ地探検隊」より）。
+  - 学校のシーンの撮影は2005年3月をもって廃校となった旧[大阪府立高槻南高等学校](../Page/大阪府立高槻南高等学校.md "wikilink")で行われた。卒業生など関係者の意向により演出上必要なペインティングなどはペンキを使わずカッティングシートで代用するなど工夫し、完全な形で現状復帰が出来るようにして行われた（[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 2007年11月8日発行の関西版夕刊 「GoGo\!ロケ地探検隊」より）。
   - 興行収約25億円を記録。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")に最凶エディション、プレミアムエディション、スタンダードエディションの3種のDVDが発売。
-  - この作品で第17回[日本映画批評家大賞](https://ja.wikipedia.org/wiki/日本映画批評家大賞 "wikilink")において[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")が主演男優賞を、[やべきょうすけ](../Page/やべきょうすけ.md "wikilink")が助演男優賞を受賞。
+  - この作品で第17回[日本映画批評家大賞](../Page/日本映画批評家大賞.md "wikilink")において[小栗旬](../Page/小栗旬.md "wikilink")が主演男優賞を、[やべきょうすけ](../Page/やべきょうすけ.md "wikilink")が助演男優賞を受賞。
   - 映画を原作として、[内藤ケンイチロウ](https://ja.wikipedia.org/wiki/内藤ケンイチロウ "wikilink")作画により『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』2008年50号から「漫画版」の連載が開始された。
   - 多摩雄が時生のバイク（[ホンダ・ダックス](https://ja.wikipedia.org/wiki/ホンダ・ダックス "wikilink")）に乗り、警察に追われる場面では何故かバイクのハンドルの形状が途中で変わる。
   - 男性ファッション誌[HUgE](https://ja.wikipedia.org/wiki/HUgE "wikilink")にて、原作者[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")と映画のスタイリストを担当した[北原哲夫](https://ja.wikipedia.org/wiki/北原哲夫 "wikilink")による原作と映画における「クローズファッション」についての対談が掲載される。
@@ -175,7 +175,7 @@
 
 ### 影響
 
-  - [2009](../Page/2009年.md "wikilink") - [2012年](../Page/2012年.md "wikilink")頃、[ブータン](../Page/ブータン.md "wikilink")の若者が『クローズZERO』に感化され、徒党を組んで[乱闘](https://ja.wikipedia.org/wiki/乱闘 "wikilink")を起こすという[社会問題](https://ja.wikipedia.org/wiki/社会問題 "wikilink")が発生している\[1\]
+  - [2009](../Page/2009年.md "wikilink") - [2012年](../Page/2012年.md "wikilink")頃、[ブータン](../Page/ブータン.md "wikilink")の若者が『クローズZERO』に感化され、徒党を組んで[乱闘](../Page/乱闘.md "wikilink")を起こすという[社会問題](../Page/社会問題.md "wikilink")が発生している\[1\]
 
 ## クローズZERO II
 
@@ -191,7 +191,7 @@
 
 **（第21期生）**
 
-  - 川西 昇（かわにし のぼる）：[阿部進之介](https://ja.wikipedia.org/wiki/阿部進之介 "wikilink")
+  - 川西 昇（かわにし のぼる）：[阿部進之介](../Page/阿部進之介.md "wikilink")
     2年前、鈴蘭のトップとして鳳仙と戦った際、美藤真喜雄を刺して殺してしまう。以来、少年刑務所に服役していたが、ついに出所が決まった。出所後に真喜雄の墓前で佇んでいる所を鳳仙に見つかり、追いかけまわされる。その後、早秋一家に入ろうとするも矢崎に断られる。しかし、早秋一家の幹部から対立する滝谷組組長を射殺すれば入れてやると言われ、射殺を実行に移す。しかし、寸での所で片桐に止められ消されそうになるも、滝谷組長の計らいでお咎めなしとなった。その後は、片桐と共に田舎の漁師町に引っ込む。
     原作では抗争で川西が退学になったあとに真喜雄が刺されるが、「ZERO II」では抗争の際に刺されている。
 
@@ -202,22 +202,22 @@
   - 鳴海 大我（なるみ たいが）：[金子ノブアキ](../Page/金子ノブアキ.md "wikilink")
     鳳仙3年。武闘派集団・鳳仙のトップとして4人の幹部と武闘派スキンヘッド軍団を従え、鋼の肉体を持つ鳳仙最強の男。本当の男の匂いを嗅ぎわけることができるらしい（ただし、「ホモじゃないよ」とのこと）。喧嘩では前蹴りを多用する。ナイフで真喜雄を喪った為か「男は素手だろ」という発言をする。戦いになると興奮し、「アウトーー！」や「人間は動物だー！」と吠える。
     鈴蘭との抗争では源治とタイマンを張り、死闘を繰り広げた結果敗北。鳳仙トップの座は竜也に渡すことになる。牧瀬とも2度タイマンを張ったが、激闘の末勝利した。
-  - 的場 闘志（まとば とうし）：[阿部亮平](https://ja.wikipedia.org/wiki/阿部亮平_\(俳優\) "wikilink")
+  - 的場 闘志（まとば とうし）：[阿部亮平](../Page/阿部亮平_\(俳優\).md "wikilink")
     鳳仙3年。猪突猛進ファイター。鳳仙のナンバー2。近隣の女子高生からひそかに怖がられているが本人は知らない。芹沢のことをライバル視している。剛腕を生かしたラリアットが得意。
     鈴蘭との抗争では伊崎とタイマンを張り、アッパーによって敗北。
-  - 熊切 力哉（くまきり りきや）：[大口兼悟](https://ja.wikipedia.org/wiki/大口兼悟 "wikilink")
+  - 熊切 力哉（くまきり りきや）：[大口兼悟](../Page/大口兼悟.md "wikilink")
     鳳仙3年。地獄のテディベアといわれ、キレやすい性格で口より先に手が出るタイプ。整った顔立ちに茶髪で、近隣の女子高生からひそかに「イケメンブラウン」と呼ばれて人気。前記で言われている性格とは裏腹に暴走した漆原の制止役をした事もあり、冷静な部分も持ち合わせている。
     鈴蘭との抗争では三上兄弟との勝負に敗れたと思われる（映画では彼らのバトルシーンがカットされているが、DVDに収録されているメイキング映像には三上兄弟に倒されるシーンが収録されている）。
   - 芝山 隼人（しばやま はやと）：[蕨野友也](../Page/蕨野友也.md "wikilink")
     鳳仙3年。ミスターヘラクレス。トレードマークの金髪も似合うイケメンで、熊切とともに近隣の女子高生から「イケメンゴールド」と呼ばれて人気。戸梶を大勢の兵隊と共に奇襲し、倒す。
     クライマックスの 鈴蘭との抗争では戸梶とタイマンを張り、敗れた（映画本編では2人のタイマンシーンはカットされているが、DVDに付属している特典ディスクにはボディ連打からの右ストレートで戸梶に倒されるシーンが収録されている）。
-  - 漆原 凌（うるしばら りょう）：[綾野剛](https://ja.wikipedia.org/wiki/綾野剛 "wikilink")
+  - 漆原 凌（うるしばら りょう）：[綾野剛](../Page/綾野剛.md "wikilink")
     鳳仙2年。狂戦士（バーサーカー）。普段は穏やかでおとなしい青年に見えるが、ひとたび戦闘に入ると人格交代し、愛闘家バトルマニアへと変貌する。筒本に全治3か月のケガを負わせており、鳴海以外の言うことは聞かない。
     鈴蘭との抗争では芹沢とのタイマンの際に、「芹沢に憧れており、芹沢を倒した男と呼ばれたい」と発言している。ケンカの限度を知らない彼は芹沢を追いつめるが、最後は芹沢の豪快な空中蹴りによって敗北。得意技は肘打ちと膝蹴り。
   - 美藤 竜也（びとう たつや）：[三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")
     多彩な蹴り技を自在に操り、1年にして幹部入りした鳳仙のスーパールーキー。中学時代は近隣の全中学を支配していた。2年前の鈴蘭との抗争で命を落としたかつての鳳仙の王者・美藤真喜雄の弟。
     自身は鈴蘭との抗争には参加しなかったが、ナイフを使って源治に襲い掛かった鷲尾をハイキックで倒し、源治の危機を救った。その後鳴海から鳳仙を任され、この物語から1年後の原作・「クローズ」で鳳仙のトップに君臨することになる。
-  - 美藤真喜雄（びとう　まきお）：[山口祥行](https://ja.wikipedia.org/wiki/山口祥行 "wikilink")
+  - 美藤真喜雄（びとう　まきお）：[山口祥行](../Page/山口祥行.md "wikilink")
     本作から2年前に鳳仙のトップに君臨していた。鈴蘭との抗争で川西に腹を刺されて死亡。
     鳴海やリンダマンからも慕われていたらしく、原作で竜也を諌める場面がある。
     ナイフを使う川西をダサいと言ったり、死んでからも後輩達が川西に私刑をかけるほど男気がある模様。
@@ -226,12 +226,12 @@
 
   - 原作：[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")
   - 監督：[三池崇史](../Page/三池崇史.md "wikilink")
-  - プロデューサー：[山本又一朗](https://ja.wikipedia.org/wiki/山本又一朗 "wikilink")
+  - プロデューサー：[山本又一朗](../Page/山本又一朗.md "wikilink")
   - 企画：[濱名一哉](https://ja.wikipedia.org/wiki/濱名一哉 "wikilink")
   - 共同プロデューサー：佐谷秀美
   - アソシエイトプロデューサー：[岡田有正](https://ja.wikipedia.org/wiki/岡田有正 "wikilink")、富田敏家、堀之内郁哉
   - ラインプロデューサー：原田耕治
-  - 脚本：[武藤将吾](https://ja.wikipedia.org/wiki/武藤将吾 "wikilink")、[水島力也](https://ja.wikipedia.org/wiki/水島力也 "wikilink")
+  - 脚本：[武藤将吾](../Page/武藤将吾.md "wikilink")、[水島力也](https://ja.wikipedia.org/wiki/水島力也 "wikilink")
   - 撮影：[北信康](https://ja.wikipedia.org/wiki/北信康 "wikilink")
   - 美術：[林田裕至](https://ja.wikipedia.org/wiki/林田裕至 "wikilink")、橋本創
   - 照明：渡部嘉
@@ -242,15 +242,15 @@
   - 助監督：吉見拓真
   - 音楽プロデューサー：[古川ヒロシ](https://ja.wikipedia.org/wiki/古川ヒロシ "wikilink")
   - 音楽：[大坪直樹](https://ja.wikipedia.org/wiki/大坪直樹 "wikilink")
-  - 制作：「クローズZERO II」制作委員会（[TBS](../Page/TBSテレビ.md "wikilink") [トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink") [東宝](../Page/東宝.md "wikilink") [MBS](../Page/毎日放送.md "wikilink") [秋田書店](../Page/秋田書店.md "wikilink") [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") [ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink") [SDP](https://ja.wikipedia.org/wiki/スターダストピクチャーズ "wikilink")）
+  - 制作：「クローズZERO II」制作委員会（[TBS](../Page/TBSテレビ.md "wikilink") [トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink") [東宝](../Page/東宝.md "wikilink") [MBS](../Page/毎日放送.md "wikilink") [秋田書店](../Page/秋田書店.md "wikilink") [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") [ハピネット](../Page/ハピネット.md "wikilink") [SDP](https://ja.wikipedia.org/wiki/スターダストピクチャーズ "wikilink")）
   - 配給：東宝
   - 上映時間：133分
 
 ### その他
 
-  - 出演俳優および[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")に参加するアーティストを募集するコンテストが実施された。俳優部門では長田成哉がグランプリを獲得、音楽部門では該当者はなかった。
+  - 出演俳優および[サウンドトラック](../Page/サウンドトラック.md "wikilink")に参加するアーティストを募集するコンテストが実施された。俳優部門では長田成哉がグランプリを獲得、音楽部門では該当者はなかった。
   - [スカパー\!にて](../Page/スカパー!プレミアムサービス.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")から[8月1日](../Page/8月1日.md "wikilink")にかけて『24時間特番\!小栗旬「クローズZERO II」とその仲間たち』と題し、キャスティングの模様などが放送された。
-  - [リングス](https://ja.wikipedia.org/wiki/リングス "wikilink")主催[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[THE OUTSIDER](https://ja.wikipedia.org/wiki/THE_OUTSIDER "wikilink")」に参戦している選手が不良生徒役として多数出演している。
+  - [リングス](../Page/リングス.md "wikilink")主催[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[THE OUTSIDER](../Page/THE_OUTSIDER.md "wikilink")」に参戦している選手が不良生徒役として多数出演している。
   - ほんの一瞬だが、[哀川翔](../Page/哀川翔.md "wikilink")が[カメオ出演](../Page/カメオ出演.md "wikilink")している。
   - 卒業式の日の源治とリンダマンの屋外でのタイマンの背景になぜか焼失したはずの体育館が映っている。
 
@@ -258,9 +258,9 @@
 
 ### クローズZERO（漫画）
 
-『週刊少年チャンピオン』にて、2008年50号から2010年28号まで連載。脚本/[武藤将吾](https://ja.wikipedia.org/wiki/武藤将吾 "wikilink")・漫画/内藤ケンイチロウ）。
+『週刊少年チャンピオン』にて、2008年50号から2010年28号まで連載。脚本/[武藤将吾](../Page/武藤将吾.md "wikilink")・漫画/内藤ケンイチロウ）。
 
-  - 内藤ケンイチロウ 『クローズZERO』 秋田書店〈[少年チャンピオン・コミックス](https://ja.wikipedia.org/wiki/少年チャンピオン・コミックス "wikilink")〉、全9巻
+  - 内藤ケンイチロウ 『クローズZERO』 秋田書店〈[少年チャンピオン・コミックス](../Page/少年チャンピオン・コミックス.md "wikilink")〉、全9巻
     1.  2009年4月8日発売 ISBN 978-4-253-20903-8
     2.  2009年4月8日発売 ISBN 978-4-253-20904-5
     3.  2009年6月8日発売 ISBN 978-4-253-20905-2
@@ -273,7 +273,7 @@
 
 ### クローズZERO II 鈴蘭×鳳仙
 
-『[別冊少年チャンピオン](https://ja.wikipedia.org/wiki/別冊少年チャンピオン "wikilink")』（秋田書店）にて、2012年7月号から2016年10月号まで連載。脚本/[武藤将吾](https://ja.wikipedia.org/wiki/武藤将吾 "wikilink")、[水島力也](https://ja.wikipedia.org/wiki/水島力也 "wikilink")・漫画/[平川哲弘](https://ja.wikipedia.org/wiki/平川哲弘 "wikilink")）。
+『[別冊少年チャンピオン](https://ja.wikipedia.org/wiki/別冊少年チャンピオン "wikilink")』（秋田書店）にて、2012年7月号から2016年10月号まで連載。脚本/[武藤将吾](../Page/武藤将吾.md "wikilink")、[水島力也](https://ja.wikipedia.org/wiki/水島力也 "wikilink")・漫画/[平川哲弘](https://ja.wikipedia.org/wiki/平川哲弘 "wikilink")）。
 
 #### 映画版との相違点
 
@@ -318,10 +318,10 @@
   - 本多保：[柿澤勇人](https://ja.wikipedia.org/wiki/柿澤勇人 "wikilink")
       -
         鈴蘭喧嘩偏差値4位(65)。【王の軍団】のNo.2。強羅の右腕。眼鏡をかけている。最終決戦では織田に勝利した。
-  - 高木哲次：[KENZO](https://ja.wikipedia.org/wiki/KENZO_\(ダンサー\) "wikilink")
+  - 高木哲次：[KENZO](../Page/KENZO_\(ダンサー\).md "wikilink")
       -
         鈴蘭喧嘩偏差値2位(66)。強羅をライバル視するが敗北。以降は、強羅率いる【王の軍団】の中核を担う。
-  - 寺島総司：[遠藤雄弥](https://ja.wikipedia.org/wiki/遠藤雄弥 "wikilink")
+  - 寺島総司：[遠藤雄弥](../Page/遠藤雄弥.md "wikilink")
       -
         鈴蘭喧嘩偏差値3位(66)。五島劣闘のリーダー格。
   - 岩田五郎：[矢本悠馬](https://ja.wikipedia.org/wiki/矢本悠馬 "wikilink")
@@ -333,7 +333,7 @@
   - 山下甲兵：[ELLY](https://ja.wikipedia.org/wiki/ELLY "wikilink")
       -
         七森工業から転入してきた。常に野望を露にする危険な男。鈴蘭喧嘩偏差値7位(65)。"ブラックダイナマイト"の異名を持つ。
-  - 林田恵：[深水元基](https://ja.wikipedia.org/wiki/深水元基 "wikilink")
+  - 林田恵：[深水元基](../Page/深水元基.md "wikilink")
       -
         鈴蘭最強の男。
 
@@ -342,7 +342,7 @@
   - 角住賢一：[野替愁平](https://ja.wikipedia.org/wiki/野替愁平 "wikilink")
       -
         "カクマルコンビ"をマルケンと組む黒咲工業の暴れ牛。原作キャラクター。
-  - 丸山健一：[丞威](https://ja.wikipedia.org/wiki/岩永ジョーイ "wikilink")
+  - 丸山健一：[丞威](../Page/岩永ジョーイ.md "wikilink")
       -
         "カクマルコンビ"をカクケンと組む黒咲工業の暴れ馬。原作キャラクター。
   - 柴田浩樹：[岩田剛典](https://ja.wikipedia.org/wiki/岩田剛典 "wikilink")
@@ -363,7 +363,7 @@
   - 牧瀬隆史：[高橋努](https://ja.wikipedia.org/wiki/高橋努 "wikilink")
       -
         鈴蘭卒業後に中古車販売店中田オートで働いている。片桐を中田オートに誘った。鈴蘭在学中は坊主だったが、現在は黒髪オールバック。
-  - 中田あや：[浅見れいな](https://ja.wikipedia.org/wiki/浅見れいな "wikilink")
+  - 中田あや：[浅見れいな](../Page/浅見れいな.md "wikilink")
       -
         中田オート経営者。シングルマザー。
   - 鏑木風子：[高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink")
@@ -375,7 +375,7 @@
   - 真島修：[鬼丸](https://ja.wikipedia.org/wiki/鬼丸_\(俳優\) "wikilink")
       -
         早秋一家大津組の構成員。藤原の教育係を務める。
-  - 奈良岡精三：[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")
+  - 奈良岡精三：[板尾創路](../Page/板尾創路.md "wikilink")
       -
         早秋一家大津組の現組長。藤原らODAを利用し策略を巡らす。
 
@@ -383,12 +383,12 @@
 
   - 監督：[豊田利晃](../Page/豊田利晃.md "wikilink")
   - 企画：[濱名一哉](https://ja.wikipedia.org/wiki/濱名一哉 "wikilink")
-  - プロデューサー：[山本又一朗](https://ja.wikipedia.org/wiki/山本又一朗 "wikilink")
+  - プロデューサー：[山本又一朗](../Page/山本又一朗.md "wikilink")
   - アソシエイトプロデューサー：富田敏家、堀之内郁哉、矢部享
   - ラインプロデューサー：大里俊博
   - 共同プロデューサー：佐谷秀美、[岡田有正](https://ja.wikipedia.org/wiki/岡田有正 "wikilink")
   - 原作：高橋ヒロシ
-  - 脚本：[向井康介](https://ja.wikipedia.org/wiki/向井康介 "wikilink")、[水島力也](https://ja.wikipedia.org/wiki/水島力也 "wikilink")、[長谷川隆](https://ja.wikipedia.org/wiki/長谷川隆 "wikilink")
+  - 脚本：[向井康介](../Page/向井康介.md "wikilink")、[水島力也](https://ja.wikipedia.org/wiki/水島力也 "wikilink")、[長谷川隆](https://ja.wikipedia.org/wiki/長谷川隆 "wikilink")
   - 撮影：[大塚亮](https://ja.wikipedia.org/wiki/大塚亮 "wikilink")
   - 美術：橋本創
   - 衣裳：森口誠治
@@ -410,11 +410,11 @@
   - ポストプロダクションプロデューサー：篠田学
   - 配給：[東宝](../Page/東宝.md "wikilink")
   - 制作プロダクション：[トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink")
-  - 製作：「クローズEXPLODE」製作委員会（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[トライストーン・ホールディングス](https://ja.wikipedia.org/wiki/トライストーン・ホールディングス "wikilink")、東宝、[毎日放送](../Page/毎日放送.md "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")）
+  - 製作：「クローズEXPLODE」製作委員会（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[トライストーン・ホールディングス](https://ja.wikipedia.org/wiki/トライストーン・ホールディングス "wikilink")、東宝、[毎日放送](../Page/毎日放送.md "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[ハピネット](../Page/ハピネット.md "wikilink")）
 
 ### 受賞
 
-  - 第27回[日刊スポーツ映画大賞](https://ja.wikipedia.org/wiki/日刊スポーツ映画大賞・石原裕次郎賞 "wikilink")
+  - 第27回[日刊スポーツ映画大賞](../Page/日刊スポーツ映画大賞・石原裕次郎賞.md "wikilink")
       - 石原裕次郎新人賞 - [東出昌大](../Page/東出昌大.md "wikilink")（『[寄生獣](https://ja.wikipedia.org/wiki/寄生獣_\(映画\) "wikilink")』と合わせて受賞\[4\]）
   - 第88回[キネマ旬報ベスト・テン](https://ja.wikipedia.org/wiki/キネマ旬報ベスト・テン "wikilink")新人男優賞（東出昌大、『[アオハライド](https://ja.wikipedia.org/wiki/アオハライド#映画 "wikilink")』『[寄生獣](https://ja.wikipedia.org/wiki/寄生獣_\(映画\) "wikilink")』、『[0.5ミリ](https://ja.wikipedia.org/wiki/0.5ミリ "wikilink")』と合わせての受賞）\[5\]
 
@@ -424,42 +424,42 @@
 
 ## 登場人物とキャスト一覧
 
-| キャラクター | クローズZERO                                                         | クローズZERO II                                             | クローズEXPLODE |
-| ------ | ---------------------------------------------------------------- | ------------------------------------------------------- | ----------- |
-| 滝谷源治   | [小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")              |                                                         |             |
-| 芹沢多摩雄  | [山田孝之](../Page/山田孝之.md "wikilink")                               |                                                         |             |
-| 逢沢ルカ   | [黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")          |                                                         |             |
-| 辰川時生   | [桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")            |                                                         |             |
-| 伊崎瞬    | [高岡蒼甫](https://ja.wikipedia.org/wiki/高岡蒼甫 "wikilink")            |                                                         |             |
-| 牧瀬隆史   | [高橋努](https://ja.wikipedia.org/wiki/高橋努 "wikilink")              |                                                         |             |
-| 田村忠太   | [鈴之助](https://ja.wikipedia.org/wiki/鈴之助 "wikilink")              |                                                         |             |
-| 戸梶勇次   | [遠藤要](https://ja.wikipedia.org/wiki/遠藤要_\(俳優\) "wikilink")       |                                                         |             |
-| 三上学    | [伊崎右典](https://ja.wikipedia.org/wiki/伊崎右典 "wikilink")            |                                                         |             |
-| 三上豪    | [伊崎央登](https://ja.wikipedia.org/wiki/伊崎央登 "wikilink")            |                                                         |             |
-| 筒本将治   | [上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")            |                                                         |             |
-| 阪東 秀人  | [渡辺大](https://ja.wikipedia.org/wiki/渡辺大 "wikilink")              |                                                         |             |
-| 桐島ヒロミ  | [大東俊介](https://ja.wikipedia.org/wiki/大東俊介 "wikilink")            |                                                         |             |
-| 本城俊明   | [橋爪遼](https://ja.wikipedia.org/wiki/橋爪遼 "wikilink")              |                                                         |             |
-| 杉原誠    | [小柳友](https://ja.wikipedia.org/wiki/小柳友 "wikilink")              |                                                         |             |
-| 林田恵    | [深水元基](https://ja.wikipedia.org/wiki/深水元基 "wikilink")            |                                                         |             |
-| 鷲尾郷太   | [波岡一喜](https://ja.wikipedia.org/wiki/波岡一喜 "wikilink")            |                                                         |             |
-| 片桐拳    | [やべきょうすけ](../Page/やべきょうすけ.md "wikilink")                         |                                                         |             |
-| 川西昇    |                                                                  | [阿部進之介](https://ja.wikipedia.org/wiki/阿部進之介 "wikilink") |             |
-| 鳴海大我   | [金子ノブアキ](https://ja.wikipedia.org/wiki/金子統昭 "wikilink")          |                                                         |             |
-| 的場闘志   | [阿部亮平](https://ja.wikipedia.org/wiki/阿部亮平_\(俳優\) "wikilink")     |                                                         |             |
-| 熊切力哉   | [大口兼悟](https://ja.wikipedia.org/wiki/大口兼悟 "wikilink")            |                                                         |             |
-| 芝山隼人   | [蕨野友也](../Page/蕨野友也.md "wikilink")                               |                                                         |             |
-| 漆原凌    | [綾野剛](https://ja.wikipedia.org/wiki/綾野剛 "wikilink")              |                                                         |             |
-| 美藤竜也   | [三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")            |                                                         |             |
-| 美藤真喜雄  | [山口祥行](https://ja.wikipedia.org/wiki/山口祥行 "wikilink")            |                                                         |             |
-| 鏑木旋風雄  |                                                                  | [東出昌大](../Page/東出昌大.md "wikilink")                      |             |
-| 加賀美遼平  | [早乙女太一](../Page/早乙女太一.md "wikilink")                             |                                                         |             |
-| 小岐須健一  | [勝地涼](https://ja.wikipedia.org/wiki/勝地涼 "wikilink")              |                                                         |             |
-| 山下甲兵   | [ELLY](https://ja.wikipedia.org/wiki/ELLY "wikilink")            |                                                         |             |
-| 柴田浩樹   | [岩田剛典](https://ja.wikipedia.org/wiki/岩田剛典 "wikilink")            |                                                         |             |
-| 高木哲次   | [KENZO](https://ja.wikipedia.org/wiki/KENZO_\(ダンサー\) "wikilink") |                                                         |             |
-| 藤原一    | [永山絢斗](https://ja.wikipedia.org/wiki/永山絢斗 "wikilink")            |                                                         |             |
-| 強羅徹    | [柳楽優弥](../Page/柳楽優弥.md "wikilink")                               |                                                         |             |
+| キャラクター | クローズZERO                                                | クローズZERO II                          | クローズEXPLODE |
+| ------ | ------------------------------------------------------- | ------------------------------------ | ----------- |
+| 滝谷源治   | [小栗旬](../Page/小栗旬.md "wikilink")                        |                                      |             |
+| 芹沢多摩雄  | [山田孝之](../Page/山田孝之.md "wikilink")                      |                                      |             |
+| 逢沢ルカ   | [黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink") |                                      |             |
+| 辰川時生   | [桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")   |                                      |             |
+| 伊崎瞬    | [高岡蒼甫](https://ja.wikipedia.org/wiki/高岡蒼甫 "wikilink")   |                                      |             |
+| 牧瀬隆史   | [高橋努](https://ja.wikipedia.org/wiki/高橋努 "wikilink")     |                                      |             |
+| 田村忠太   | [鈴之助](https://ja.wikipedia.org/wiki/鈴之助 "wikilink")     |                                      |             |
+| 戸梶勇次   | [遠藤要](../Page/遠藤要_\(俳優\).md "wikilink")                 |                                      |             |
+| 三上学    | [伊崎右典](../Page/伊崎右典.md "wikilink")                      |                                      |             |
+| 三上豪    | [伊崎央登](../Page/伊崎央登.md "wikilink")                      |                                      |             |
+| 筒本将治   | [上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")   |                                      |             |
+| 阪東 秀人  | [渡辺大](../Page/渡辺大.md "wikilink")                        |                                      |             |
+| 桐島ヒロミ  | [大東俊介](https://ja.wikipedia.org/wiki/大東俊介 "wikilink")   |                                      |             |
+| 本城俊明   | [橋爪遼](../Page/橋爪遼.md "wikilink")                        |                                      |             |
+| 杉原誠    | [小柳友](../Page/小柳友.md "wikilink")                        |                                      |             |
+| 林田恵    | [深水元基](../Page/深水元基.md "wikilink")                      |                                      |             |
+| 鷲尾郷太   | [波岡一喜](../Page/波岡一喜.md "wikilink")                      |                                      |             |
+| 片桐拳    | [やべきょうすけ](../Page/やべきょうすけ.md "wikilink")                |                                      |             |
+| 川西昇    |                                                         | [阿部進之介](../Page/阿部進之介.md "wikilink") |             |
+| 鳴海大我   | [金子ノブアキ](https://ja.wikipedia.org/wiki/金子統昭 "wikilink") |                                      |             |
+| 的場闘志   | [阿部亮平](../Page/阿部亮平_\(俳優\).md "wikilink")               |                                      |             |
+| 熊切力哉   | [大口兼悟](../Page/大口兼悟.md "wikilink")                      |                                      |             |
+| 芝山隼人   | [蕨野友也](../Page/蕨野友也.md "wikilink")                      |                                      |             |
+| 漆原凌    | [綾野剛](../Page/綾野剛.md "wikilink")                        |                                      |             |
+| 美藤竜也   | [三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")   |                                      |             |
+| 美藤真喜雄  | [山口祥行](../Page/山口祥行.md "wikilink")                      |                                      |             |
+| 鏑木旋風雄  |                                                         | [東出昌大](../Page/東出昌大.md "wikilink")   |             |
+| 加賀美遼平  | [早乙女太一](../Page/早乙女太一.md "wikilink")                    |                                      |             |
+| 小岐須健一  | [勝地涼](https://ja.wikipedia.org/wiki/勝地涼 "wikilink")     |                                      |             |
+| 山下甲兵   | [ELLY](https://ja.wikipedia.org/wiki/ELLY "wikilink")   |                                      |             |
+| 柴田浩樹   | [岩田剛典](https://ja.wikipedia.org/wiki/岩田剛典 "wikilink")   |                                      |             |
+| 高木哲次   | [KENZO](../Page/KENZO_\(ダンサー\).md "wikilink")           |                                      |             |
+| 藤原一    | [永山絢斗](https://ja.wikipedia.org/wiki/永山絢斗 "wikilink")   |                                      |             |
+| 強羅徹    | [柳楽優弥](../Page/柳楽優弥.md "wikilink")                      |                                      |             |
 
 ## 脚注
 

@@ -1,11 +1,11 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRルパン三世**（シーアールルパンさんせい）は、[平和が開発](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")・販売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")作の漫画・アニメ作品『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』とのタイアップ機である。本項では、[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")版と同時に販売された[現金機](https://ja.wikipedia.org/wiki/現金機 "wikilink")版についても述べる。
+**CRルパン三世**（シーアールルパンさんせい）は、[平和が開発](../Page/平和_\(パチンコ\).md "wikilink")・販売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")作の漫画・アニメ作品『[ルパン三世](../Page/ルパン三世.md "wikilink")』とのタイアップ機である。本項では、[CR機](../Page/CR機.md "wikilink")版と同時に販売された[現金機](../Page/現金機.md "wikilink")版についても述べる。
 
 ## 概要
 
-CR機デジパチの[確変による連チャンが](https://ja.wikipedia.org/wiki/確率変動 "wikilink")5回（合計80ラウンド）までと規制され、パチンコ新機種のリリースが減少する中、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月](../Page/11月.md "wikilink")に、『CRルパン三世K』・『CRルパン三世A』と現金機版の『ルパン三世V』が販売された。当時、タイアップ機はさほどメジャーな存在ではなかったが、一般に馴染み深いキャラクターを起用したことでそれまでパチンコを打たなかった新規客層の開拓にも貢献し、20万台を超える大ヒットを収める。また本機のヒットにより、他のメーカーからも漫画作品や著名人とのタイアップ機が大量に開発されることとなった。
+CR機デジパチの[確変による連チャンが](../Page/確率変動.md "wikilink")5回（合計80ラウンド）までと規制され、パチンコ新機種のリリースが減少する中、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月](../Page/11月.md "wikilink")に、『CRルパン三世K』・『CRルパン三世A』と現金機版の『ルパン三世V』が販売された。当時、タイアップ機はさほどメジャーな存在ではなかったが、一般に馴染み深いキャラクターを起用したことでそれまでパチンコを打たなかった新規客層の開拓にも貢献し、20万台を超える大ヒットを収める。また本機のヒットにより、他のメーカーからも漫画作品や著名人とのタイアップ機が大量に開発されることとなった。
 
 本機のヒットで平和にとってもルパン三世は看板キャラクター的存在となり、パチンコ・[パチスロ](../Page/パチスロ.md "wikilink")において同作のシリーズ作品を次々と輩出する契機となった。
 
@@ -13,7 +13,7 @@ CR機デジパチの確変のリミット規制が実質撤廃されたことに
 
 ## スペック
 
-本シリーズの大当たり絵柄はいずれも0～9、[五ェ門](https://ja.wikipedia.org/wiki/石川五ェ門_\(ルパン三世\) "wikilink")、[不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink")、[次元](https://ja.wikipedia.org/wiki/次元大介 "wikilink")、[ルパン](https://ja.wikipedia.org/wiki/ルパン三世_\(架空の人物\) "wikilink")。
+本シリーズの大当たり絵柄はいずれも0～9、[五ェ門](../Page/石川五ェ門_\(ルパン三世\).md "wikilink")、[不二子](../Page/峰不二子.md "wikilink")、[次元](../Page/次元大介.md "wikilink")、[ルパン](../Page/ルパン三世_\(架空の人物\).md "wikilink")。
 
   - CRルパン三世K
       - 出玉数 - 約2240個
@@ -39,7 +39,7 @@ CR機デジパチの確変のリミット規制が実質撤廃されたことに
       - 出玉数 約2000個
       - 賞球数 5＆10＆13
       - 大当たり確率 1/210.5
-      - 3・7・ルパンで150回、5・次元・五ェ門・不二子で80回、その他で50回の[時短](https://ja.wikipedia.org/wiki/時短_\(パチンコ\) "wikilink")
+      - 3・7・ルパンで150回、5・次元・五ェ門・不二子で80回、その他で50回の[時短](../Page/時短_\(パチンコ\).md "wikilink")
 
 <!-- end list -->
 

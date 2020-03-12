@@ -7,9 +7,9 @@
 
 ## 概要
 
-[大学時代に打ち込みとバイオリンのユニットの活動をしていたが卒業後解散](../Page/愛知県立芸術大学.md "wikilink")、ソロ活動を始める2000年、ヘアショー出演時に「サイバーバイオリン」という名称で参加。[2000年](../Page/2000年.md "wikilink")、[2001年](../Page/2001年.md "wikilink")、[鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink") [ヨシムラ](https://ja.wikipedia.org/wiki/ヨシムラ "wikilink")スズキに公式テーマ曲を提供。2001年、梅原孝太の加入によりツイン・バイオリンの形態のユニットになる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、梅原孝太脱退でソロユニットとなる。
+[大学時代に打ち込みとバイオリンのユニットの活動をしていたが卒業後解散](../Page/愛知県立芸術大学.md "wikilink")、ソロ活動を始める2000年、ヘアショー出演時に「サイバーバイオリン」という名称で参加。[2000年](../Page/2000年.md "wikilink")、[2001年](../Page/2001年.md "wikilink")、[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink") [ヨシムラ](https://ja.wikipedia.org/wiki/ヨシムラ "wikilink")スズキに公式テーマ曲を提供。2001年、梅原孝太の加入によりツイン・バイオリンの形態のユニットになる。[2005年](../Page/2005年.md "wikilink")、梅原孝太脱退でソロユニットとなる。
 
-ライブではその都度メンバーを追加するユニット形態であり、ほぼレギュラーのように参加しているのはパーカッションのコルゲンぽん鈴木。他ギター、キーボード、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、DJがよく参加している。
+ライブではその都度メンバーを追加するユニット形態であり、ほぼレギュラーのように参加しているのはパーカッションのコルゲンぽん鈴木。他ギター、キーボード、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、DJがよく参加している。
 
 ## サイバーバイオリン
 
@@ -35,7 +35,7 @@
     11. Neo Kanon
     12. Pavane (Frantic-241Remix / Nishii)
     13. What is Love? (Cry Violino Mix)
-    14. Night Fever ([BEE GEES](https://ja.wikipedia.org/wiki/ビージーズ "wikilink"))
+    14. Night Fever ([BEE GEES](../Page/ビージーズ.md "wikilink"))
 2.  sister of Troy ([2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink"))
     1.  Leviathan
     2.  Chain Pain your Gain
@@ -52,7 +52,7 @@
 
 ### コンピレーション
 
-1.  [WILD ARMS](../Page/ワイルドアームズ.md "wikilink") Music the Best -rocking heart- ([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink"))
+1.  [WILD ARMS](../Page/ワイルドアームズ.md "wikilink") Music the Best -rocking heart- ([2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink"))
     1.  (6) バトルフォース
     2.  (9) あれれ？（ゼットのテーマ）
 2.  sister of Troy Alternative ([2007年](../Page/2007年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink"))
@@ -65,7 +65,7 @@
 1.  任天堂GAMECUBE用ゲーム
     1.  Go\!Go\! Hypergrind / Atlus USA ([2003年](../Page/2003年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink"))
 2.  PlayStation2用ゲーム
-    1.  POISON PINK ポイズン ピンク / [フライト・プラン](https://ja.wikipedia.org/wiki/フライト・プラン "wikilink") / [バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink") ([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月14日](../Page/2月14日.md "wikilink"))
+    1.  POISON PINK ポイズン ピンク / [フライト・プラン](../Page/フライト・プラン.md "wikilink") / [バンプレスト](../Page/バンプレスト.md "wikilink") ([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月14日](../Page/2月14日.md "wikilink"))
 
 ## 外部リンク
 

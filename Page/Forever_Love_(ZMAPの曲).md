@@ -5,12 +5,12 @@
 
 ## 解説
 
-この曲は[文化放送](../Page/文化放送.md "wikilink")の「[ZMAP＝ZMAP](https://ja.wikipedia.org/wiki/ZMAP＝ZMAP "wikilink")」のテーマソングで、 劇場版『[機動戦艦ナデシコ -The prince of darkness-](https://ja.wikipedia.org/wiki/機動戦艦ナデシコ_-The_prince_of_darkness- "wikilink")』の[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")である。『機動戦艦ナデシコ The blank of 3years』のOPにも使用された。
+この曲は[文化放送](../Page/文化放送.md "wikilink")の「[ZMAP＝ZMAP](https://ja.wikipedia.org/wiki/ZMAP＝ZMAP "wikilink")」のテーマソングで、 劇場版『[機動戦艦ナデシコ -The prince of darkness-](../Page/機動戦艦ナデシコ_-The_prince_of_darkness-.md "wikilink")』の[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")である。『機動戦艦ナデシコ The blank of 3years』のOPにも使用された。
 
   - 発売元 - [キングレコード](../Page/キングレコード.md "wikilink")
   - 発売日 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に放送された「[渋谷でチュッ\!](https://ja.wikipedia.org/wiki/渋谷でチュッ! "wikilink")」で歌い、翌日に[杉並公会堂](https://ja.wikipedia.org/wiki/杉並公会堂 "wikilink")で行われた「ZMAP＝ZMAP ゲキ祭」で歌った事もある\[1\]。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に放送された「[渋谷でチュッ\!](../Page/渋谷でチュッ!.md "wikilink")」で歌い、翌日に[杉並公会堂](../Page/杉並公会堂.md "wikilink")で行われた「ZMAP＝ZMAP ゲキ祭」で歌った事もある\[1\]。
 
 ## 収録曲
 
@@ -27,4 +27,4 @@
 
 [Category:機動戦艦ナデシコ](https://ja.wikipedia.org/wiki/Category:機動戦艦ナデシコ "wikilink") [Category:有森聡美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:有森聡美が制作した楽曲 "wikilink") [Category:大森俊之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大森俊之が制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
-1.  [ZMAPインタビュー](http://www.jah.ne.jp/shibuchu/bangumi/b/0123.html) [渋谷でチュッ\!](https://ja.wikipedia.org/wiki/渋谷でチュッ! "wikilink") 1998年1月23日収録
+1.  [ZMAPインタビュー](http://www.jah.ne.jp/shibuchu/bangumi/b/0123.html) [渋谷でチュッ\!](../Page/渋谷でチュッ!.md "wikilink") 1998年1月23日収録

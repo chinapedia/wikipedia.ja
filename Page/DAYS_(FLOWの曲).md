@@ -1,7 +1,7 @@
 > この記事は[DAYS \(FLOW\)](https://ja.wikipedia.org/wiki/DAYS_\(FLOW\))から翻訳されています。
 
 
-「**DAYS**」（デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")の楽曲で、メジャー7枚目（通算11枚目）のシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[Ki/oon Recordsより発売](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**DAYS**」（デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")の楽曲で、メジャー7枚目（通算11枚目）のシングル。[2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[Ki/oon Recordsより発売](../Page/キューンミュージック.md "wikilink")。
 
 キャッチコピーは、『**MBS・TBS系全国ネット「交響詩篇エウレカセブン」オープニングテーマ**』\[1\]。
 
@@ -10,16 +10,16 @@
 前作より約1か月という短期間でのリリースで、表題曲は、テレビアニメ『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』のオープニングテーマ。初回仕様盤には、以下の特典が付属した\[2\]。
 
   - 豪華24Pオープニング原画集（第1期オープニング映像を収録したブックレット）
-  - 同作のキャラクターデザインを担当する、[吉田健一による描き下ろしジャケットステッカー](https://ja.wikipedia.org/wiki/吉田健一_\(アニメーター\) "wikilink")
+  - 同作のキャラクターデザインを担当する、[吉田健一による描き下ろしジャケットステッカー](../Page/吉田健一_\(アニメーター\).md "wikilink")
   - 応募特典
       - A賞：FLOWサイン入りのプラスエイト（主人公、レントン・サーストン愛用の[スニーカー](https://ja.wikipedia.org/wiki/スニーカー "wikilink")）（3名）
       - B賞：FLOWオリジナルカラーリングによる[ニルヴァーシュの](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン#メカニック "wikilink")[プラモデル](../Page/プラモデル.md "wikilink")（50名）
       - C賞：吉田健一描き下ろしのイラストポスター（200名）
-  - 同アニメのオープニング映像と特別映像を収録した[CD EXTRA仕様](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")
+  - 同アニメのオープニング映像と特別映像を収録した[CD EXTRA仕様](../Page/CD_EXTRA.md "wikilink")
 
 ## チャート成績・受賞
 
-2005年[6月13日](../Page/6月13日.md "wikilink")付の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で初登場3位にランクイン\[3\]。シングルとしては「[GO\!\!\!](https://ja.wikipedia.org/wiki/GO!!! "wikilink")」以来のトップ10入り、また、シングルで初のトップ3入りを果たした。累計売り上げは、「[贈る言葉](https://ja.wikipedia.org/wiki/贈る言葉#FLOWのシングル "wikilink")」、｢GO\!\!\!」に次いで3番目に高い\[4\]。
+2005年[6月13日](../Page/6月13日.md "wikilink")付の[オリコンチャート](../Page/オリコンチャート.md "wikilink")で初登場3位にランクイン\[3\]。シングルとしては「[GO\!\!\!](../Page/GO!!!.md "wikilink")」以来のトップ10入り、また、シングルで初のトップ3入りを果たした。累計売り上げは、「[贈る言葉](https://ja.wikipedia.org/wiki/贈る言葉#FLOWのシングル "wikilink")」、｢GO\!\!\!」に次いで3番目に高い\[4\]。
 
 2019年3月1日には、[ソニー・ミュージックエンタテインメントのアニメソング人気投票キャンペーン](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")「[平成アニソン大賞](https://ja.wikipedia.org/wiki/平成アニソン大賞 "wikilink")」においてアーティストソング賞（2000年 - 2009年）に選出された\[5\]。
 
@@ -27,11 +27,11 @@
 
 1.  **DAYS** (4:11)
       -
-        作詞：KEIGO HAYASHI,KOHSHI ASAKAWA　作曲：TAKESHI ASAKAWA　編曲：FLOW&[Seiji Kameda](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+        作詞：KEIGO HAYASHI,KOHSHI ASAKAWA　作曲：TAKESHI ASAKAWA　編曲：FLOW&[Seiji Kameda](../Page/亀田誠治.md "wikilink")
     <!-- end list -->
-      - [MBS](../Page/毎日放送.md "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』第1期[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")\[6\]、『[パチスロ交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/パチスロ交響詩篇エウレカセブン "wikilink")』CMソング。
+      - [MBS](../Page/毎日放送.md "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』第1期[オープニングテーマ](../Page/主題歌.md "wikilink")\[6\]、『[パチスロ交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/パチスロ交響詩篇エウレカセブン "wikilink")』CMソング。
       - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")をフィーチャーした[4つ打ち](https://ja.wikipedia.org/wiki/4つ打ち "wikilink")の楽曲で、間奏には[ラップ](../Page/ラップ.md "wikilink")を取り入れている。なお、このラップ詞はボーカルのKOHSHIが書いた\[7\]。ギターのTAKE曰く、「新たな方向性を模索し始めた際に最初に上がってきた曲」（要約）\[8\]。
-      - [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は、ボーカルのKEIGOをモデルにしたロボット「K-5」を主人公としたストーリーになっている。ちなみにビデオ内には、KEIGOが[カメラマン](../Page/カメラマン.md "wikilink")役として後ろ姿ではあるが少しだけ映っている\[9\]。
+      - [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、ボーカルのKEIGOをモデルにしたロボット「K-5」を主人公としたストーリーになっている。ちなみにビデオ内には、KEIGOが[カメラマン](../Page/カメラマン.md "wikilink")役として後ろ姿ではあるが少しだけ映っている\[9\]。
       - この曲は元々、ゲーム『[エウレカセブン TRI:NEW WAVE](https://ja.wikipedia.org/wiki/エウレカセブン_\(ゲーム\) "wikilink")』のテーマソングとして制作されていたが、『交響詩篇エウレカセブン』のオープニングテーマに関しての話を受け、KEIGOがアニメの資料に目を通したところ、自分の書いた詞がアニメの世界観とリンクしていると感じ、そのイメージから詞を完成させタイアップが決まった\[10\]。なお、前述のゲームには「[Realize](https://ja.wikipedia.org/wiki/Golden_Coast "wikilink")」という曲を提供した。
       - パチスロ版『交響詩篇エウレカセブン』のCMで、この曲が使用されたことがきっかけで[着うたでのダウンロード件数を伸ばしてゆき](https://ja.wikipedia.org/wiki/レコチョク "wikilink")\[11\]、最終的には60万件を突破した\[12\]。
       - [2012年](../Page/2012年.md "wikilink")に、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンドの[heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")がコンピレーション・アルバム『[V-ANIME ROCKS\!](https://ja.wikipedia.org/wiki/V-ANIME_ROCKS! "wikilink")』にてこの曲をカバーした\[13\]。
@@ -72,9 +72,9 @@
 
 ## テレビ出演
 
-  - 『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』（[TBS系](../Page/TBSテレビ.md "wikilink")、2005年[6月4日](../Page/6月4日.md "wikilink")放送分）
+  - 『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』（[TBS系](../Page/TBSテレビ.md "wikilink")、2005年[6月4日](../Page/6月4日.md "wikilink")放送分）
   - 『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系、2005年[6月10日](../Page/6月10日.md "wikilink")放送分）
-  - 『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、2005年6月10日放送分）
+  - 『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、2005年6月10日放送分）
   - 『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2005年[7月15日](../Page/7月15日.md "wikilink")放送分）
 
 ## カバー
@@ -88,7 +88,7 @@
 ## 関連項目
 
   - [ブレイブルー](https://ja.wikipedia.org/wiki/ブレイブルー_\(曲\) "wikilink")
-      - 「DAYS」のセルフ[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")として[2012年](../Page/2012年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")にリリースされた、自身24作目のシングル曲。また、このシングルには、[中村弘二](https://ja.wikipedia.org/wiki/中村弘二 "wikilink")による「DAYS」のリミックスバージョン「DAYS -AO MIX-」が収録されている。
+      - 「DAYS」のセルフ[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")として[2012年](../Page/2012年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")にリリースされた、自身24作目のシングル曲。また、このシングルには、[中村弘二](../Page/中村弘二.md "wikilink")による「DAYS」のリミックスバージョン「DAYS -AO MIX-」が収録されている。
 
 [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:エウレカセブンの音楽](https://ja.wikipedia.org/wiki/Category:エウレカセブンの音楽 "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 

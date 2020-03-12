@@ -1,17 +1,17 @@
 > この記事は[Thinking Out Loud](https://ja.wikipedia.org/wiki/Thinking_Out_Loud)から翻訳されています。
 
 
-『**Thinking Out Loud**』（シンキング・アウト・ラウド）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")9枚目のオリジナルアルバム。[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。CDコードは初回限定盤がWPZL-30060/61、通常盤がWPCL-10419。スウェーデン盤の発売元はWarner Music Sweden。CDコードは514427617。
+『**Thinking Out Loud**』（シンキング・アウト・ラウド）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")9枚目のオリジナルアルバム。[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。CDコードは初回限定盤がWPZL-30060/61、通常盤がWPCL-10419。スウェーデン盤の発売元はWarner Music Sweden。CDコードは514427617。
 
 ## 概要
 
-ベストアルバムから丸1年ぶり、前作のオリジナルアルバム『[Golden Tears](https://ja.wikipedia.org/wiki/Golden_Tears "wikilink")』から1年10ヶ月ぶりとなるオリジナルアルバム。タイトルは本アルバム2曲目のタイトルおよび歌詞の一節で、日本語にすると「考えを外に出す」「独り言を言う」などという意味である。自分の考えを独り言で終えるのではなく、もっとどんどん外に漏らして解放していき、誰かに聴き取ってもらって連鎖させていった方が人と繋がれて気持ち良い気分になれるのではないかという考えと願いがこめられている\[1\]\[2\]。レコーディングは4月から6月までの間に[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[マルメ](https://ja.wikipedia.org/wiki/マルメ "wikilink")でおこなわれた。
+ベストアルバムから丸1年ぶり、前作のオリジナルアルバム『[Golden Tears](../Page/Golden_Tears.md "wikilink")』から1年10ヶ月ぶりとなるオリジナルアルバム。タイトルは本アルバム2曲目のタイトルおよび歌詞の一節で、日本語にすると「考えを外に出す」「独り言を言う」などという意味である。自分の考えを独り言で終えるのではなく、もっとどんどん外に漏らして解放していき、誰かに聴き取ってもらって連鎖させていった方が人と繋がれて気持ち良い気分になれるのではないかという考えと願いがこめられている\[1\]\[2\]。レコーディングは4月から6月までの間に[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[マルメ](../Page/マルメ.md "wikilink")でおこなわれた。
 
-初回限定盤は特典として「[Anything For You](https://ja.wikipedia.org/wiki/Anything_For_You "wikilink")」と「[Water Me](https://ja.wikipedia.org/wiki/Water_Me "wikilink")」の[MUSIC CLIPと](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")で行われた[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")・[ライブから](https://ja.wikipedia.org/wiki/演奏会 "wikilink")3曲の映像が収録された[DVD](../Page/DVD.md "wikilink")付き。\[3\]
+初回限定盤は特典として「[Anything For You](../Page/Anything_For_You.md "wikilink")」と「[Water Me](../Page/Water_Me.md "wikilink")」の[MUSIC CLIPと](../Page/ミュージック・ビデオ.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")で行われた[インターネット](../Page/インターネット.md "wikilink")・[ライブから](../Page/演奏会.md "wikilink")3曲の映像が収録された[DVD](../Page/DVD.md "wikilink")付き。\[3\]
 
 また、初回限定盤・通常盤共通の購入特典として[2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に行われた『BONNIE PINK TOUR 2007 "Thinking Out Loud" Final at 日本武道館』のチケット先行予約特設ページにアクセスできるIDとパスワードを得ることができた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")リリースのスウェーデン盤には、[Bjorn Yttlingの](https://ja.wikipedia.org/wiki/ピーター・ビヨーン・アンド・ジョン "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")による「[A Perfect Sky](../Page/A_Perfect_Sky.md "wikilink")（Björn Remix）」が[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録されている。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")リリースのスウェーデン盤には、[Bjorn Yttlingの](https://ja.wikipedia.org/wiki/ピーター・ビヨーン・アンド・ジョン "wikilink")[リミックス](../Page/リミックス.md "wikilink")による「[A Perfect Sky](../Page/A_Perfect_Sky.md "wikilink")（Björn Remix）」が[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されている。
 
 ## 収録曲
 
@@ -41,7 +41,7 @@
 8.  **坂道** （3:56）
       -
         （作詞・作曲：BONNIE PINK　編曲：Burning Chicken）
-9.  **[Water Me](https://ja.wikipedia.org/wiki/Water_Me "wikilink")** （3:50）
+9.  **[Water Me](../Page/Water_Me.md "wikilink")** （3:50）
       -
         （作詞・作曲：BONNIE PINK　編曲：奥野真哉([SOUL FLOWER UNION](https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン "wikilink"))）
 10. **Catch The Sun** （4:17）
@@ -50,12 +50,12 @@
 11. **Chances Are** （2:56）
       -
         （作詞・作曲：BONNIE PINK　編曲：Burning Chicken）
-12. **[Anything For You](https://ja.wikipedia.org/wiki/Anything_For_You "wikilink")** （4:10）
+12. **[Anything For You](../Page/Anything_For_You.md "wikilink")** （4:10）
       -
         （作詞・作曲：BONNIE PINK　編曲：Burning Chicken/BONNIE PINK）
 13. **[A Perfect Sky(Björn Remix)](../Page/A_Perfect_Sky.md "wikilink")（スウェーデン盤ボーナス・トラック）** （3:31）
       -
-        （作詞・作曲:BONNIE PINK／[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink"):[Bjorn Yttling](https://ja.wikipedia.org/wiki/ピーター・ビヨーン・アンド・ジョン "wikilink")）
+        （作詞・作曲:BONNIE PINK／[リミックス](../Page/リミックス.md "wikilink"):[Bjorn Yttling](https://ja.wikipedia.org/wiki/ピーター・ビヨーン・アンド・ジョン "wikilink")）
 
 ### DVD
 
@@ -73,16 +73,16 @@
 
   - **MUSIC CLIP**
       -
-        **[Anything For You](https://ja.wikipedia.org/wiki/Anything_For_You "wikilink")**
-        **[Water Me](https://ja.wikipedia.org/wiki/Water_Me "wikilink")**
+        **[Anything For You](../Page/Anything_For_You.md "wikilink")**
+        **[Water Me](../Page/Water_Me.md "wikilink")**
           -
             （全曲、ディレクター：松本剛）
 
 ## タイアップ
 
-  - [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")「[MOCO](https://ja.wikipedia.org/wiki/日産・モコ "wikilink")」CMソング（M-3）
+  - [日産自動車](../Page/日産自動車.md "wikilink")「[MOCO](../Page/日産・モコ.md "wikilink")」CMソング（M-3）
   - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[わたしたちの教科書](../Page/わたしたちの教科書.md "wikilink")』主題歌（M-9）
-  - [au by KDDI](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")「ケータイの掟」CMソング（M-12）
+  - [au by KDDI](../Page/Au_\(携帯電話\).md "wikilink")「ケータイの掟」CMソング（M-12）
   - 舞台『ダブルブッキング\!』テーマソング（M-13、スウェーデン盤）
 
 ## 出典

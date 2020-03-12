@@ -7,9 +7,9 @@
 
 ## 概要
 
-AMR-WB は、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink") などで使用される [Adaptive Multi-Rate](../Page/Adaptive_Multi-Rate.md "wikilink")（AMR）と同様マルチレートをサポートする[音声符号化](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")方式で、AMR を広帯域化することで[音質](https://ja.wikipedia.org/wiki/音質 "wikilink")を高めたものである。 通常の電話インタフェースの2倍の[帯域幅](../Page/帯域幅.md "wikilink")を持つ 50 Hz-7 kHz（[サンプリング周波数](../Page/サンプリング周波数.md "wikilink") 16kHz）の音声信号を 6.60 k[bps](../Page/ビット毎秒.md "wikilink")～23.85 k[bpsまでの](../Page/ビット毎秒.md "wikilink") 9 種類の[ビットレート](https://ja.wikipedia.org/wiki/ビットレート "wikilink")で符号化できる \[2\]。 AMR-WB は標準化団体の[3GPP](https://ja.wikipedia.org/wiki/3GPP "wikilink")（3rd Generation Partnership Project）が策定した。
+AMR-WB は、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink") などで使用される [Adaptive Multi-Rate](../Page/Adaptive_Multi-Rate.md "wikilink")（AMR）と同様マルチレートをサポートする[音声符号化](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")方式で、AMR を広帯域化することで[音質](https://ja.wikipedia.org/wiki/音質 "wikilink")を高めたものである。 通常の電話インタフェースの2倍の[帯域幅](../Page/帯域幅.md "wikilink")を持つ 50 Hz-7 kHz（[サンプリング周波数](../Page/サンプリング周波数.md "wikilink") 16kHz）の音声信号を 6.60 k[bps](../Page/ビット毎秒.md "wikilink")～23.85 k[bpsまでの](../Page/ビット毎秒.md "wikilink") 9 種類の[ビットレート](../Page/ビットレート.md "wikilink")で符号化できる \[2\]。 AMR-WB は標準化団体の[3GPP](../Page/3GPP.md "wikilink")（3rd Generation Partnership Project）が策定した。
 
-[ITU-T](../Page/ITU-T.md "wikilink") が勧告した広帯域[音声符号化](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")方式 **G.722.2** も AMR-WB と同じものである。この規格は [G.722](https://ja.wikipedia.org/wiki/G.722 "wikilink")、[G.722.1](https://ja.wikipedia.org/wiki/G.722.1 "wikilink") から派生したもので、これらと比べると同じ広帯域の音声をより低い[ビットレート](https://ja.wikipedia.org/wiki/ビットレート "wikilink")で符号化できる。G.722.2 の正式な名称は*"Wideband coding of speech at around 16 kbit/s using Adaptive Multi-Rate Wideband (AMR-WB)"*（広帯域適応マルチレート (AMR-WB) 方式を用いた16 kbit/s程度の広帯域音声符号化）である\[3\]。
+[ITU-T](../Page/ITU-T.md "wikilink") が勧告した広帯域[音声符号化](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")方式 **G.722.2** も AMR-WB と同じものである。この規格は [G.722](https://ja.wikipedia.org/wiki/G.722 "wikilink")、[G.722.1](https://ja.wikipedia.org/wiki/G.722.1 "wikilink") から派生したもので、これらと比べると同じ広帯域の音声をより低い[ビットレート](../Page/ビットレート.md "wikilink")で符号化できる。G.722.2 の正式な名称は*"Wideband coding of speech at around 16 kbit/s using Adaptive Multi-Rate Wideband (AMR-WB)"*（広帯域適応マルチレート (AMR-WB) 方式を用いた16 kbit/s程度の広帯域音声符号化）である\[3\]。
 
 AMR-WB の符号化アルゴリズムは AMR と同じ [ACELP](https://ja.wikipedia.org/wiki/ACELP "wikilink")（Algebraic Code Excited Linear Prediction）を使用し\[4\]、 以下のビットレートをサポートしている。6.60 kbps～12.65 kbps までが必須マルチレート構成で、通常は 12.65 kbps が使用される。それより高いビットレートは背景雑音が多い環境、音声と音楽との組み合わせ、マルチパーティ会議など高い音質が要求される場合に使用される\[5\]\[6\]。
 
@@ -35,10 +35,10 @@ AMR-WB のビットレート
 
 ## 用途
 
-[携帯電話](../Page/携帯電話.md "wikilink")や[VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")での音声通信用以外に、AMR-WB は [3GPP](https://ja.wikipedia.org/wiki/3GPP "wikilink") で定義された各種マルチメディアサービスで使用することができる \[9\] \[10\] \[11\]。
+[携帯電話](../Page/携帯電話.md "wikilink")や[VoIP](../Page/VoIP.md "wikilink")での音声通信用以外に、AMR-WB は [3GPP](../Page/3GPP.md "wikilink") で定義された各種マルチメディアサービスで使用することができる \[9\] \[10\] \[11\]。
 
   - [IPマルチメディアサブシステム](https://ja.wikipedia.org/wiki/IPマルチメディアサブシステム "wikilink")（IMS）
-  - [マルチメディアメッセージングサービス](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")（MMS）
+  - [マルチメディアメッセージングサービス](../Page/マルチメディアメッセージングサービス.md "wikilink")（MMS）
   - パケットスイッチドストリーミングサービス（PSS）
 
 ## 脚注
@@ -54,13 +54,13 @@ AMR-WB のビットレート
 
   - [音声符号化](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")
   - [Adaptive Multi-Rate](../Page/Adaptive_Multi-Rate.md "wikilink")
-  - [G.711](https://ja.wikipedia.org/wiki/G.711 "wikilink")
+  - [G.711](../Page/G.711.md "wikilink")
   - [G.722](https://ja.wikipedia.org/wiki/G.722 "wikilink")
   - [G.722.1](https://ja.wikipedia.org/wiki/G.722.1 "wikilink")
   - [G.723](https://ja.wikipedia.org/wiki/G.723 "wikilink")
   - [G.723.1](https://ja.wikipedia.org/wiki/G.723.1 "wikilink")
   - [G.726](https://ja.wikipedia.org/wiki/G.726 "wikilink")
-  - [3GPP](https://ja.wikipedia.org/wiki/3GPP "wikilink")
+  - [3GPP](../Page/3GPP.md "wikilink")
 
 ## 外部リンク
 

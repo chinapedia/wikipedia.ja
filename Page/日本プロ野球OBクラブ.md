@@ -1,13 +1,13 @@
 > この記事は[OB](https://ja.wikipedia.org/wiki/OB)から翻訳されています。
 
 
-**日本プロ野球OBクラブ**（にほんプロやきゅうOBクラブ）は、正式な法人名を**公益社団法人全国野球振興会**（こうえきしゃだんほうじんぜんこくやきゅうしんこうかい、）といい、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[野球](../Page/野球.md "wikilink")発展を目的とした[内閣府](../Page/内閣府.md "wikilink")所管の[公益法人](https://ja.wikipedia.org/wiki/公益法人 "wikilink")である。[1994年](../Page/1994年.md "wikilink")に[任意団体](https://ja.wikipedia.org/wiki/任意団体 "wikilink")として設立し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[文部省](../Page/文部省.md "wikilink")所管の[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")として認可を受け全国野球振興会に改組した。現在は、この法人が活動する際の名義として日本プロ野球OBクラブの名称が用いられている。
+**日本プロ野球OBクラブ**（にほんプロやきゅうOBクラブ）は、正式な法人名を**公益社団法人全国野球振興会**（こうえきしゃだんほうじんぜんこくやきゅうしんこうかい、）といい、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[野球](../Page/野球.md "wikilink")発展を目的とした[内閣府](../Page/内閣府.md "wikilink")所管の[公益法人](../Page/公益法人.md "wikilink")である。[1994年](../Page/1994年.md "wikilink")に[任意団体](../Page/任意団体.md "wikilink")として設立し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[文部省](../Page/文部省.md "wikilink")所管の[社団法人](../Page/社団法人.md "wikilink")として認可を受け全国野球振興会に改組した。現在は、この法人が活動する際の名義として日本プロ野球OBクラブの名称が用いられている。
 
 ## 概要
 
 [日本プロ野球](../Page/日本プロ野球.md "wikilink")選手経験者なら誰でも参加することができる。野球を通しての社会貢献、野球競技者の拡大・普及を目指しており、プロ・アマ野球の交流や少年野球教室、[プロ野球マスターズリーグ](../Page/プロ野球マスターズリーグ.md "wikilink")やOBオールスターゲーム等の開催を展開している。
 
-現在の理事長は[八木沢荘六](https://ja.wikipedia.org/wiki/八木沢荘六 "wikilink")（2014年2月11日から）。
+現在の理事長は[八木沢荘六](../Page/八木沢荘六.md "wikilink")（2014年2月11日から）。
 
 ## 沿革
 

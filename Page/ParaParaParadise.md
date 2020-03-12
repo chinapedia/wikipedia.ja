@@ -48,7 +48,7 @@
 
 ## 収録曲
 
-収録曲は[SUPER EUROBEATからの楽曲や](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")、コナミオリジナル曲で構成されている。コナミオリジナル曲は殆どが既存の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の楽曲をリミックスしたものである。特筆すべき点は「CAN'T STOP FALLIN' IN LOVE -super euro version-」で、当作品の為にパラパラオールスターズが付けた振り付けが2010年に[Xbox 360で発売された](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[Dance Evolutionにてそのまま収録を果たしている](https://ja.wikipedia.org/wiki/Dance_Evolution "wikilink")（2012年にアーケードで稼働を開始した、Dance Evolution ARCADEにも収録）。
+収録曲は[SUPER EUROBEATからの楽曲や](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")、コナミオリジナル曲で構成されている。コナミオリジナル曲は殆どが既存の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の楽曲をリミックスしたものである。特筆すべき点は「CAN'T STOP FALLIN' IN LOVE -super euro version-」で、当作品の為にパラパラオールスターズが付けた振り付けが2010年に[Xbox 360で発売された](../Page/Xbox_360.md "wikilink")[Dance Evolutionにてそのまま収録を果たしている](https://ja.wikipedia.org/wiki/Dance_Evolution "wikilink")（2012年にアーケードで稼働を開始した、Dance Evolution ARCADEにも収録）。
 
 サウンドトラックはエイベックスから発売されたが1st - 1stMIX PLUSまでの楽曲しかフォローされず、2ndMIXに新規収録された楽曲がCD音源化されないままである。
 

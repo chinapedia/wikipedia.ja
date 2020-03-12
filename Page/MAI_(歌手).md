@@ -3,7 +3,7 @@
 
 **MAI**（まい、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は鶴岡真衣、母・鶴岡メイ子は[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")の校長と元・双子ユニット[ON/OFF](https://ja.wikipedia.org/wiki/ON/OFF "wikilink")のマネージャー。プロデューサーズ・カンパニー所属。元「[ミスリル](../Page/ミスリル.md "wikilink")」メンバー。
 
-[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身。[淑徳与野高等学校](https://ja.wikipedia.org/wiki/淑徳与野高等学校 "wikilink")を経て[韓国の高等学校卒](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[フェリス女学院大学](https://ja.wikipedia.org/wiki/フェリス女学院大学 "wikilink")を経て、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")大学院メディアデザイン研究科修士課程卒業。今はJinnyというアーティスト名をバンド「RODEO GIRLS」のメンバーとして音楽活動を行っている、作詞家として活動する際の名義はMarilyn、Jinny、M@iである。
+[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身。[淑徳与野高等学校](https://ja.wikipedia.org/wiki/淑徳与野高等学校 "wikilink")を経て[韓国の高等学校卒](../Page/大韓民国.md "wikilink")、[フェリス女学院大学](../Page/フェリス女学院大学.md "wikilink")を経て、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")大学院メディアデザイン研究科修士課程卒業。今はJinnyというアーティスト名をバンド「RODEO GIRLS」のメンバーとして音楽活動を行っている、作詞家として活動する際の名義はMarilyn、Jinny、M@iである。
 
 ## 略歴
 
@@ -17,7 +17,7 @@
   - 2005年1月20日 - 韓国でアルバム『暁-AKATSUKI-』発売。
   - 2005年1月24日 - 「[音箱登龍門](https://ja.wikipedia.org/wiki/登龍門F#音箱登龍門 "wikilink")」出演。
   - 2005年9月26日 - シングル『きりんのはなし』で[コロムビアミュージックエンタテインメントからメジャーデビュー](../Page/日本コロムビア.md "wikilink")。
-  - 2009年8月 - [ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")移籍後、映画「[ぼくとママの黄色い自転車](../Page/ぼくとママの黄色い自転車.md "wikilink")」の挿入歌、『YOU』をリリース。
+  - 2009年8月 - [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")移籍後、映画「[ぼくとママの黄色い自転車](../Page/ぼくとママの黄色い自転車.md "wikilink")」の挿入歌、『YOU』をリリース。
   - 2009年12月 - 「SUPRE★POWER」結成。
   - 2011年12月7日 - ON/OFFの2ndアルバム『Legend of Twins II -続・双子伝説-』の収録曲「AKATSUKI ～君のキレイな心が好き～」には、Jというアーティスト名をラッパーとして参加している。
   - 2012年11月14日 - [Sexy Zoneの](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")1stアルバム『[One Sexy Zone](https://ja.wikipedia.org/wiki/One_Sexy_Zone "wikilink")』の収録曲「Don't Stop Sexy Boyz」を作詞。以降、ジャニーズ事務所所属のタレントにも作品提供をしている。
@@ -54,7 +54,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/きりんのはなし" title="wikilink">きりんのはなし</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td><p>COCA-15768</p></td>
 <td><ol>
 <li>きりんのはなし 【作詞：鈴木おさむ｜作曲：山沢大洋】
@@ -71,13 +71,13 @@
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夏NATSUxxx" title="wikilink">夏NATSUxxx</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
 <td><p>COCA-15885</p></td>
 <td><ol>
 <li>夏NATSUxxx 【作詞：MAI｜作曲：AxSxE】
 <dl>
 <dt></dt>
-<dd>『<a href="https://ja.wikipedia.org/wiki/所萬遊記" title="wikilink">所萬遊記</a>』エンディングテーマ。
+<dd>『<a href="../Page/所萬遊記.md" title="wikilink">所萬遊記</a>』エンディングテーマ。
 </dd>
 </dl></li>
 <li>エブリボデー</li>
@@ -155,7 +155,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/暁-AKATSUKI-" title="wikilink">暁-AKATSUKI-</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
 <td><p>DD-1234</p></td>
 <td><ol>
 <li>曉-Akatsuki (Japanese Version)</li>
@@ -205,7 +205,7 @@
 <tr class="even">
 <td><p>※</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/世界中の誰より…" title="wikilink">世界中の誰より…</a></p></td>
-<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td><p>SBIX-2005</p></td>
 <td><ol>
 <li>世界中の誰より…【作詞：新屋豊】　</li>
@@ -332,7 +332,7 @@ DFCL-1810:通常盤</p></td>
 
 ## 歌詞提供
 
-  - [SEED](https://ja.wikipedia.org/wiki/SEED_\(音楽ユニット\) "wikilink")
+  - [SEED](../Page/SEED_\(音楽ユニット\).md "wikilink")
       - True Song　作詞：鶴岡真衣、作曲：山田知広
       - 悔しいけど大好き　作詞：Marilyn、作曲：Akihiro Shigematsu
 

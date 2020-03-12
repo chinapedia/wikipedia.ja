@@ -1,7 +1,7 @@
 > この記事は[Du le quartz](https://ja.wikipedia.org/wiki/Du_le_quartz)から翻訳されています。
 
 
-**Dué le quartz**（**デュール クォーツ**、[1999年](../Page/1999年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")）は主に日本で活動していた[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。有限会社[PS COMPANYに所属していた](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")。インディーズで絶大な人気を得て、後期にはアジアを中心に海外でも多くのファンに支持されるが、2002年に解散。
+**Dué le quartz**（**デュール クォーツ**、[1999年](../Page/1999年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")）は主に日本で活動していた[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。有限会社[PS COMPANYに所属していた](../Page/PS_COMPANY.md "wikilink")。インディーズで絶大な人気を得て、後期にはアジアを中心に海外でも多くのファンに支持されるが、2002年に解散。
 
 ## バンド
 
@@ -16,18 +16,18 @@
 
 [ギター](../Page/ギター.md "wikilink")、[裏ボイス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[コンポーザー担当](../Page/作曲家.md "wikilink")。
 誕生日は[9月14日](../Page/9月14日.md "wikilink")、血液型AB型、[兵庫県](../Page/兵庫県.md "wikilink")民。
-現在：[MIYAVIとして活躍中](https://ja.wikipedia.org/wiki/雅-miyavi- "wikilink")。発表された四人目のオリジナルメンバーとして[YOSHIKI](../Page/YOSHIKI.md "wikilink")、[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")、[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")と新バンド[S.K.I.N.](../Page/S.K.I.N..md "wikilink")を結成。
+現在：[MIYAVIとして活躍中](https://ja.wikipedia.org/wiki/雅-miyavi- "wikilink")。発表された四人目のオリジナルメンバーとして[YOSHIKI](../Page/YOSHIKI.md "wikilink")、[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")と新バンド[S.K.I.N.](../Page/S.K.I.N..md "wikilink")を結成。
 
   - **キカサ**
 
-[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
 誕生日は[1月24日](../Page/1月24日.md "wikilink")、血液型A型、[長野県](../Page/長野県.md "wikilink")出身。
-現在：自ら立ち上げたインディーズレーベル[TUXEDO PRODUCTIONの代表を務める](https://ja.wikipedia.org/wiki/TUXEDO_PRODUCTION "wikilink")。正式なバンドには所属しておらず、新バンドを準備中。ロックバンド[riceのボーカリスト桜井有紀との不定期セッションバンド](https://ja.wikipedia.org/wiki/Rice_\(バンド\) "wikilink")[うんず](https://ja.wikipedia.org/wiki/うんず "wikilink")のベーシストとしても活動中。
+現在：自ら立ち上げたインディーズレーベル[TUXEDO PRODUCTIONの代表を務める](https://ja.wikipedia.org/wiki/TUXEDO_PRODUCTION "wikilink")。正式なバンドには所属しておらず、新バンドを準備中。ロックバンド[riceのボーカリスト桜井有紀との不定期セッションバンド](../Page/Rice_\(バンド\).md "wikilink")[うんず](https://ja.wikipedia.org/wiki/うんず "wikilink")のベーシストとしても活動中。
 
   - **KAZUKI**
 
 [ドラム担当](../Page/ドラムセット.md "wikilink")。
-誕生日は[5月11日](../Page/5月11日.md "wikilink")、血液型不明、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+誕生日は[5月11日](../Page/5月11日.md "wikilink")、血液型不明、[東京都](../Page/東京都.md "wikilink")出身。
 
 ### 過去のメンバー
 
@@ -40,7 +40,7 @@
     [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")生まれ。[長野県](../Page/長野県.md "wikilink")出身。
     脱退後はCRADLE（2000年2月結成\~2000年8月解散）に在籍。
     CRADLE解散後はGill'e cadith（2000年10月結成\~2000年12月脱退）に在籍。
-    その後は[フードファイター](https://ja.wikipedia.org/wiki/フードファイター "wikilink")「アーティスト泉」として大食い番組等で活動。2005年新人戦で準優勝、同年大食い王戦で4位、2006年4位、2007年3位、2008年東京予選敗退を機に引退。
+    その後は[フードファイター](../Page/フードファイター.md "wikilink")「アーティスト泉」として大食い番組等で活動。2005年新人戦で準優勝、同年大食い王戦で4位、2006年4位、2007年3位、2008年東京予選敗退を機に引退。
 
 ### エピソード
 
@@ -76,7 +76,7 @@
 ### 2002年
 
   - 6月　解散発表 in [渋谷ON AIR EAST](https://ja.wikipedia.org/wiki/渋谷ON_AIR_EAST "wikilink")。
-  - 9月　解散ライブ in [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")。
+  - 9月　解散ライブ in [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")。
 
 ## ディスコグラフィ
 
@@ -101,11 +101,11 @@
 ### シングル
 
   - **Ｄ** （[2000年](../Page/2000年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、[7月9日](../Page/7月9日.md "wikilink")）
-    *[DAS:VASSER](https://ja.wikipedia.org/wiki/DAS:VASSER "wikilink")とのカップリングツアーファイナル二日間無料配布、二バンド各一曲収録*
+    *[DAS:VASSER](../Page/DAS:VASSER.md "wikilink")とのカップリングツアーファイナル二日間無料配布、二バンド各一曲収録*
 
 <!-- end list -->
 
-1.  D [DAS:VASSER](https://ja.wikipedia.org/wiki/DAS:VASSER "wikilink")
+1.  D [DAS:VASSER](../Page/DAS:VASSER.md "wikilink")
 2.  鋲 Dué le quartz
 
 <!-- end list -->
@@ -163,11 +163,11 @@
 <!-- end list -->
 
   - **WARNING** （[2001年](../Page/2001年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")～[8月27日](../Page/8月27日.md "wikilink")）
-    *[PS COMPANY所属三バンドの合同ツアー会場限定販売](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")、ジャケット全五種類*
+    *[PS COMPANY所属三バンドの合同ツアー会場限定販売](../Page/PS_COMPANY.md "wikilink")、ジャケット全五種類*
 
 <!-- end list -->
 
-1.  WARNING <small>([Kagrra](https://ja.wikipedia.org/wiki/Kagrra "wikilink")、Ashとの[コラボ曲](https://ja.wikipedia.org/wiki/コラボレーション "wikilink"))</small>
+1.  WARNING <small>([Kagrra](https://ja.wikipedia.org/wiki/Kagrra "wikilink")、Ashとの[コラボ曲](../Page/コラボレーション.md "wikilink"))</small>
 2.  メンバーコメント
 
 <!-- end list -->
@@ -319,10 +319,10 @@
 
 ## 関連項目
 
-  - [PS COMPANY](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")
+  - [PS COMPANY](../Page/PS_COMPANY.md "wikilink")
   - [雅-miyavi-](https://ja.wikipedia.org/wiki/雅-miyavi- "wikilink")
   - [Kagrra](https://ja.wikipedia.org/wiki/Kagrra "wikilink")
-  - [DAS:VASSER](https://ja.wikipedia.org/wiki/DAS:VASSER "wikilink")
+  - [DAS:VASSER](../Page/DAS:VASSER.md "wikilink")
   - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")

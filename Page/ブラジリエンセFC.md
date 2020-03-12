@@ -3,7 +3,7 @@
 
 **ブラジリエンセFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")・[タグアチンガを本拠地とする](https://ja.wikipedia.org/wiki/タグアチンガ_\(ブラジリア連邦直轄区\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-[ユニフォーム](../Page/ユニフォーム.md "wikilink")が[黄色](../Page/黄色.md "wikilink")のため、ブラジリエンセのサポーターはフェブレ・アマレラ（*Febre Amarela*、[黄熱](https://ja.wikipedia.org/wiki/黄熱 "wikilink")病）と呼ばれている。ナショナルカラーである黄色と緑色を身にまとう数少ないチームである。[ライバル](../Page/ライバル.md "wikilink")は同じく連邦直轄区に本拠地を置く[SEガマ](https://ja.wikipedia.org/wiki/SEガマ "wikilink")。
+[ユニフォーム](../Page/ユニフォーム.md "wikilink")が[黄色](../Page/黄色.md "wikilink")のため、ブラジリエンセのサポーターはフェブレ・アマレラ（*Febre Amarela*、[黄熱](https://ja.wikipedia.org/wiki/黄熱 "wikilink")病）と呼ばれている。ナショナルカラーである黄色と緑色を身にまとう数少ないチームである。[ライバル](../Page/ライバル.md "wikilink")は同じく連邦直轄区に本拠地を置く[SEガマ](../Page/SEガマ.md "wikilink")。
 
 ## 歴史
 
@@ -11,7 +11,7 @@
 
 [2002年](../Page/2002年.md "wikilink")に[ブラジル全国選手権セリエC優勝](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエC "wikilink")、[2004年](../Page/2004年.md "wikilink")に[セリエB優勝を果たし](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink")、わずか数年でセリエAへと駆け上る。[セリエAに昇格した](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")[2005年は最下位に終わり](https://ja.wikipedia.org/wiki/2005_カンピオナート・ブラジレイロ・セリエA "wikilink")、再びセリエBに戻った。2002年には[コパ・ド・ブラジル](https://ja.wikipedia.org/wiki/コパ・ド・ブラジル "wikilink")で準優勝を果たした。
 
-[カンピオナート・ブラジリエンセ](https://ja.wikipedia.org/wiki/カンピオナート・ブラジリエンセ "wikilink")（[ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")選手権）では2004年に初優勝し、2009年まで6連覇している。優勝回数8回は[ブラジリアFC](https://ja.wikipedia.org/wiki/ブラジリアFC "wikilink")と並んで2番目である（最多回数は11回の[SEガマ](https://ja.wikipedia.org/wiki/SEガマ "wikilink")）。
+[カンピオナート・ブラジリエンセ](https://ja.wikipedia.org/wiki/カンピオナート・ブラジリエンセ "wikilink")（[ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")選手権）では2004年に初優勝し、2009年まで6連覇している。優勝回数8回は[ブラジリアFC](https://ja.wikipedia.org/wiki/ブラジリアFC "wikilink")と並んで2番目である（最多回数は11回の[SEガマ](../Page/SEガマ.md "wikilink")）。
 
 ## タイトル
 
@@ -67,9 +67,9 @@
 
 ### DF
 
-  - [エメルソン](https://ja.wikipedia.org/wiki/エメルソン・オルランド・デ・メロ "wikilink") 2002
+  - [エメルソン](../Page/エメルソン・オルランド・デ・メロ.md "wikilink") 2002
 
-  - [アウグスト](https://ja.wikipedia.org/wiki/アウグスト・ペドロ・デ・ソウザ "wikilink") 2006-
+  - [アウグスト](../Page/アウグスト・ペドロ・デ・ソウザ.md "wikilink") 2006-
 
 ### MF
 
@@ -79,7 +79,7 @@
 
   - [ヴァンペッタ](../Page/ヴァンペッタ.md "wikilink") 2005-2006
 
-  - [ベット](https://ja.wikipedia.org/wiki/ジョベルト・アラウジョ・マルチンス "wikilink") 2007
+  - [ベット](../Page/ジョベルト・アラウジョ・マルチンス.md "wikilink") 2007
 
 ### FW
 
@@ -89,11 +89,11 @@
 
   - [パウロ・イジドーロ](../Page/アレックス・サンドロ・サンターナ・オリヴェイラ.md "wikilink") 2003
 
-  - [オゼアス](https://ja.wikipedia.org/wiki/オゼアス・レイス・ドス・サントス "wikilink") 2005
+  - [オゼアス](../Page/オゼアス・レイス・ドス・サントス.md "wikilink") 2005
 
   - [ファビオ・ジュニオール](../Page/ファビオ・ジュニオール・ペレイラ.md "wikilink") 2009
 
-  - [ワシントン](https://ja.wikipedia.org/wiki/ワシントン・ルイス・マスカレニャス・シルバ "wikilink") 2012
+  - [ワシントン](../Page/ワシントン・ルイス・マスカレニャス・シルバ.md "wikilink") 2012
 
 ## 関連項目
 

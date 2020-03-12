@@ -1,11 +1,11 @@
 > この記事は[EZFM](https://ja.wikipedia.org/wiki/EZFM)から翻訳されています。
 
 
-**EZ-FM**(イージー・エフエム)は、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")、[ナノ・メディア](../Page/ナノ・メディア.md "wikilink")が提供する、[FM](https://ja.wikipedia.org/wiki/FM放送 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")チューナー内蔵携帯電話端末にてFMラジオを受信するための[EZアプリ(BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")。
+**EZ-FM**(イージー・エフエム)は、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")、[ナノ・メディア](../Page/ナノ・メディア.md "wikilink")が提供する、[FM](https://ja.wikipedia.org/wiki/FM放送 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")チューナー内蔵携帯電話端末にてFMラジオを受信するための[EZアプリ(BREW)](../Page/BREW.md "wikilink")。
 
 ## 概要
 
-携帯電話を利用してFM放送を聴きながら、ワンクリックで各放送局（[NHK](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")・[コミュニティFM局を除く](../Page/コミュニティ放送.md "wikilink")）のWebサイトにアクセスできる。放送局のサイトで現在放送中の曲を調べたり、アーティスト情報の検索、番組表の開覧、着うた配信サイトで聴いている曲の着うたをダウンロードするなど、幅広いサービスとの連携が可能で、番組へのリクエストなども受け付けられる。ただし、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（見えるラジオなど）には対応していない。
+携帯電話を利用してFM放送を聴きながら、ワンクリックで各放送局（[NHK](../Page/NHK-FM放送.md "wikilink")・[コミュニティFM局を除く](../Page/コミュニティ放送.md "wikilink")）のWebサイトにアクセスできる。放送局のサイトで現在放送中の曲を調べたり、アーティスト情報の検索、番組表の開覧、着うた配信サイトで聴いている曲の着うたをダウンロードするなど、幅広いサービスとの連携が可能で、番組へのリクエストなども受け付けられる。ただし、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（見えるラジオなど）には対応していない。
 
 FMラジオの受信は電波を直接受信するので通信料等はかからないが、情報入手にはパケット通信料がかかるため、注意が必要である。
 
@@ -15,7 +15,7 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
 
 2003年12月、携帯電話としては日本で初めてFMチューナーを内蔵した端末・A5503SAが初の対応機。以来、au端末の大多数が対応している。しかし2007年の秋冬モデル以降のau端末ではFMチューナーに対応した機種が激減し、[三洋電機](../Page/三洋電機.md "wikilink")(後の[京セラ](../Page/京セラ.md "wikilink")のSANYOブランド)製、または[シャープ](../Page/シャープ.md "wikilink")製のハイスペック機種の一部に搭載されるのみとなっている。
 
-2010年夏モデルから原則全機種搭載になるという報道がされた\[1\]ものの、実際の2010年夏モデルでは全機種搭載されなかった([ソニー・エリクソン（現・ソニーモバイル）](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")/[カシオ](../Page/カシオ計算機.md "wikilink")/[東芝](../Page/東芝.md "wikilink")（現・[富士通モバイルTOSHIBAブランド](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")）製のごく一部の機種に復活したにとどまった)ため、見送られた可能性が高い。また、auとしては2011年以降より主力を[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に切り替えたため、事実上au携帯電話におけるEZ・FMの採用も回を追うごとに淘汰されつつあり、事実上「[LISMO WAVE](../Page/LISMO.md "wikilink")」にその座を譲っている。
+2010年夏モデルから原則全機種搭載になるという報道がされた\[1\]ものの、実際の2010年夏モデルでは全機種搭載されなかった([ソニー・エリクソン（現・ソニーモバイル）](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")/[カシオ](../Page/カシオ計算機.md "wikilink")/[東芝](../Page/東芝.md "wikilink")（現・[富士通モバイルTOSHIBAブランド](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")）製のごく一部の機種に復活したにとどまった)ため、見送られた可能性が高い。また、auとしては2011年以降より主力を[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に切り替えたため、事実上au携帯電話におけるEZ・FMの採用も回を追うごとに淘汰されつつあり、事実上「[LISMO WAVE](../Page/LISMO.md "wikilink")」にその座を譲っている。
 
 **[三洋電機](../Page/三洋電機.md "wikilink")→[京セラ](../Page/京セラ.md "wikilink")SANYOブランド**
 
@@ -24,14 +24,14 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
   - [A5514SA](https://ja.wikipedia.org/wiki/A5514SA "wikilink")
   - [A5522SA](../Page/A5522SA.md "wikilink")
   - [A5527SA](https://ja.wikipedia.org/wiki/A5527SA "wikilink")
-  - [W21SA](https://ja.wikipedia.org/wiki/W21SA "wikilink")
-  - [W22SA](https://ja.wikipedia.org/wiki/W22SA "wikilink")
-  - [W31SA](https://ja.wikipedia.org/wiki/W31SA "wikilink")
-  - [W31SA II](https://ja.wikipedia.org/wiki/W31SA "wikilink")
-  - [W33SA](https://ja.wikipedia.org/wiki/W33SA "wikilink")
-  - [W33SA II](https://ja.wikipedia.org/wiki/W33SA "wikilink")
+  - [W21SA](../Page/W21SA.md "wikilink")
+  - [W22SA](../Page/W22SA.md "wikilink")
+  - [W31SA](../Page/W31SA.md "wikilink")
+  - [W31SA II](../Page/W31SA.md "wikilink")
+  - [W33SA](../Page/W33SA.md "wikilink")
+  - [W33SA II](../Page/W33SA.md "wikilink")
   - [W41SA](../Page/W41SA.md "wikilink")
-  - [W43SA](https://ja.wikipedia.org/wiki/W43SA "wikilink")
+  - [W43SA](../Page/W43SA.md "wikilink")
   - [W51SA](../Page/W51SA.md "wikilink")
   - [W52SA](../Page/W52SA.md "wikilink")
   - [W54SA](../Page/W54SA.md "wikilink")
@@ -42,19 +42,19 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
 **[三洋電機コンシューマエレクトロニクス](https://ja.wikipedia.org/wiki/三洋電機コンシューマエレクトロニクス "wikilink")（旧・鳥取三洋電機←三洋マルチメディア鳥取←鳥取三洋電機）**
 
   - [A5518SA](../Page/A5518SA.md "wikilink")
-  - [W42SA](https://ja.wikipedia.org/wiki/W42SA "wikilink")
+  - [W42SA](../Page/W42SA.md "wikilink")
   - [INFOBAR2](https://ja.wikipedia.org/wiki/INFOBAR2 "wikilink")(W55SA)
 
-**[ソニー・エリクソン・モバイルコミュニケーションズ（現・ソニーモバイルコミュニケーションズ）](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")**
+**[ソニー・エリクソン・モバイルコミュニケーションズ（現・ソニーモバイルコミュニケーションズ）](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")**
 
   - [A1404S](https://ja.wikipedia.org/wiki/A1404S "wikilink")
   - [A1404S II](https://ja.wikipedia.org/wiki/A1404S "wikilink")
-  - [W31S](https://ja.wikipedia.org/wiki/W31S "wikilink")
-  - [W32S](https://ja.wikipedia.org/wiki/W32S "wikilink")
-  - [W41S](https://ja.wikipedia.org/wiki/W41S "wikilink")
-  - [W42S](https://ja.wikipedia.org/wiki/W42S "wikilink")
-  - [W43S](https://ja.wikipedia.org/wiki/W43S "wikilink")
-  - [W44S](https://ja.wikipedia.org/wiki/W44S "wikilink")
+  - [W31S](../Page/W31S.md "wikilink")
+  - [W32S](../Page/W32S.md "wikilink")
+  - [W41S](../Page/W41S.md "wikilink")
+  - [W42S](../Page/W42S.md "wikilink")
+  - [W43S](../Page/W43S.md "wikilink")
+  - [W44S](../Page/W44S.md "wikilink")
   - [W51S](../Page/W51S.md "wikilink")
   - [W52S](../Page/W52S.md "wikilink")
   - [W54S](../Page/W54S.md "wikilink")
@@ -66,17 +66,17 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
 **[カシオ計算機](../Page/カシオ計算機.md "wikilink")**
 
   - [W41CA](../Page/W41CA.md "wikilink")
-  - [W43CA](https://ja.wikipedia.org/wiki/W43CA "wikilink")
+  - [W43CA](../Page/W43CA.md "wikilink")
   - [W51CA](../Page/W51CA.md "wikilink")
   - [G'zOne TYPE-X](https://ja.wikipedia.org/wiki/G'zOne_TYPE-X "wikilink")(CAY01)
 
 **[日立製作所](../Page/日立製作所.md "wikilink")（現・[日立コンシューマエレクトロニクス](https://ja.wikipedia.org/wiki/日立コンシューマエレクトロニクス "wikilink")）**
 
   - [W32H](../Page/W32H.md "wikilink")
-  - [W41H](https://ja.wikipedia.org/wiki/W41H "wikilink")
-  - [W42H](https://ja.wikipedia.org/wiki/W42H "wikilink")
-  - [W43H](https://ja.wikipedia.org/wiki/W43H "wikilink")
-  - [W43H II](https://ja.wikipedia.org/wiki/W43H "wikilink")
+  - [W41H](../Page/W41H.md "wikilink")
+  - [W42H](../Page/W42H.md "wikilink")
+  - [W43H](../Page/W43H.md "wikilink")
+  - [W43H II](../Page/W43H.md "wikilink")
   - [W51H](../Page/W51H.md "wikilink")
   - [W52H](../Page/W52H.md "wikilink")
 
@@ -85,11 +85,11 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
   - [A5523T](https://ja.wikipedia.org/wiki/A5523T "wikilink")
   - [W41T](https://ja.wikipedia.org/wiki/W41T "wikilink")
   - [neon](https://ja.wikipedia.org/wiki/neon_\(携帯電話\) "wikilink")(W42T)
-  - [W43T](https://ja.wikipedia.org/wiki/W43T "wikilink")
-  - [W44T](https://ja.wikipedia.org/wiki/W44T "wikilink")
+  - [W43T](../Page/W43T.md "wikilink")
+  - [W44T](../Page/W44T.md "wikilink")
   - [W45T](../Page/W45T.md "wikilink")
-  - [DRAPE](https://ja.wikipedia.org/wiki/DRAPE "wikilink")(W46T)
-  - [W47T](https://ja.wikipedia.org/wiki/W47T "wikilink")
+  - [DRAPE](../Page/DRAPE.md "wikilink")(W46T)
+  - [W47T](../Page/W47T.md "wikilink")
   - [W51T](../Page/W51T.md "wikilink")
   - [W52T](../Page/W52T.md "wikilink")
   - [W53T](../Page/W53T.md "wikilink")
@@ -104,7 +104,7 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
 
 **[シャープ](../Page/シャープ.md "wikilink")**
 
-  - [W41SH](https://ja.wikipedia.org/wiki/W41SH "wikilink")
+  - [W41SH](../Page/W41SH.md "wikilink")
   - [W51SH](../Page/W51SH.md "wikilink")
   - [W52SH](../Page/W52SH.md "wikilink")
   - [W62SH](../Page/W62SH.md "wikilink")
@@ -118,7 +118,7 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
   - [SH010](https://ja.wikipedia.org/wiki/SH010 "wikilink")
   - [SH011](https://ja.wikipedia.org/wiki/SH011 "wikilink")
 
-**[パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")**
+**[パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")**
 
   - [W51P](../Page/W51P.md "wikilink")
   - [W52P](../Page/W52P.md "wikilink")
@@ -127,17 +127,17 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
 
   - [A5521K](https://ja.wikipedia.org/wiki/A5521K "wikilink")
   - [A5526K](https://ja.wikipedia.org/wiki/A5526K "wikilink")
-  - [W31K](https://ja.wikipedia.org/wiki/W31K "wikilink")
-  - [W31K II](https://ja.wikipedia.org/wiki/W31K "wikilink")
+  - [W31K](../Page/W31K.md "wikilink")
+  - [W31K II](../Page/W31K.md "wikilink")
   - [W41K](../Page/W41K.md "wikilink")
-  - [W42K](https://ja.wikipedia.org/wiki/W42K "wikilink")
-  - [W43K](https://ja.wikipedia.org/wiki/W43K "wikilink")
+  - [W42K](../Page/W42K.md "wikilink")
+  - [W43K](../Page/W43K.md "wikilink")
   - [W44K](../Page/W44K.md "wikilink")
   - [W44K II](../Page/W44K.md "wikilink")
   - [W51K](../Page/W51K.md "wikilink")
   - [MEDIA SKIN](../Page/MEDIA_SKIN.md "wikilink")(W52K)
 
-**[パンテック&キュリテル](https://ja.wikipedia.org/wiki/パンテック&キュリテル "wikilink")（パンテックワイヤレスジャパン）**
+**[パンテック&キュリテル](../Page/パンテック&キュリテル.md "wikilink")（パンテックワイヤレスジャパン）**
 
   - [W61PT](../Page/W61PT.md "wikilink")
 

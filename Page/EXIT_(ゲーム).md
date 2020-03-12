@@ -1,7 +1,7 @@
 > この記事は[EXIT \(\)](https://ja.wikipedia.org/wiki/EXIT_\(\))から翻訳されています。
 
 
-『**EXIT**』（イグジット）とは、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation Portable用](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[パズルゲーム](../Page/パズルゲーム.md "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")には続編である『**[カンガエル EXIT](https://ja.wikipedia.org/wiki/#カンガエル_EXIT "wikilink")**』が発売された。[Xbox 360の](../Page/Xbox_360.md "wikilink")[Xbox Live Arcadeとして配信されたほか](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（**非常口 -EXIT DS-**）や[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+『**EXIT**』（イグジット）とは、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[パズルゲーム](../Page/パズルゲーム.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")には続編である『**[カンガエル EXIT](https://ja.wikipedia.org/wiki/#カンガエル_EXIT "wikilink")**』が発売された。[Xbox 360の](../Page/Xbox_360.md "wikilink")[Xbox Live Arcadeとして配信されたほか](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（**非常口 -EXIT DS-**）や[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 概要
 
@@ -119,7 +119,7 @@
 
 ## カンガエル EXIT
 
-『**カンガエル EXIT**』（-イグジット）とは、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")に発売された『**EXIT**』の続編。難易度が上がり、上級者向けの内容になっている。『**ケータイデEXIT**』のタイトルで[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")に（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")には続編『**ケータイデEXIT-Lv.2〜ジャングル遺跡バージョン〜**』が配信開始された）、『**EXIT 2**』のタイトルで[Xbox 360](../Page/Xbox_360.md "wikilink")（[Xbox Live Arcade](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")）に移植された。
+『**カンガエル EXIT**』（-イグジット）とは、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")に発売された『**EXIT**』の続編。難易度が上がり、上級者向けの内容になっている。『**ケータイデEXIT**』のタイトルで[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")に（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")には続編『**ケータイデEXIT-Lv.2〜ジャングル遺跡バージョン〜**』が配信開始された）、『**EXIT 2**』のタイトルで[Xbox 360](../Page/Xbox_360.md "wikilink")（[Xbox Live Arcade](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")）に移植された。
 
 ### EXITとの主な違い
 

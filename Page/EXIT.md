@@ -7,7 +7,7 @@
 
   - [EXIT (漫画)](../Page/EXIT_\(漫画\).md "wikilink") - [1989年](../Page/1989年.md "wikilink") - 、[藤田貴美](https://ja.wikipedia.org/wiki/藤田貴美 "wikilink")
 
-  - [EXIT (ゲーム)](https://ja.wikipedia.org/wiki/EXIT_\(ゲーム\) "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[PlayStation Portable向けに発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[パズルゲーム](../Page/パズルゲーム.md "wikilink")。
+  - [EXIT (ゲーム)](../Page/EXIT_\(ゲーム\).md "wikilink") - [2005年](../Page/2005年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[PlayStation Portable向けに発売された](../Page/PlayStation_Portable.md "wikilink")[パズルゲーム](../Page/パズルゲーム.md "wikilink")。
 
   - （[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")）
 
@@ -19,11 +19,11 @@
       - [EXIT (J-WALKのアルバム)](https://ja.wikipedia.org/wiki/EXIT_\(J-WALKのアルバム\) "wikilink") - [J-WALK](https://ja.wikipedia.org/wiki/J-WALK "wikilink")のアルバム。
       - [EXIT (PASSENGERSのアルバム)](https://ja.wikipedia.org/wiki/EXIT_\(PASSENGERSのアルバム\) "wikilink") - [PASSENGERS](https://ja.wikipedia.org/wiki/PASSENGERS "wikilink")のアルバム。
 
-  - \- [コンピュータプログラム](https://ja.wikipedia.org/wiki/コンピュータプログラム "wikilink")を終了するための[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")などの関数（→[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")）または[コマンド](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。
+  - \- [コンピュータプログラム](https://ja.wikipedia.org/wiki/コンピュータプログラム "wikilink")を終了するための[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")などの関数（→[サブルーチン](../Page/サブルーチン.md "wikilink")）または[コマンド](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。
 
   - （[映画](../Page/映画.md "wikilink")）
 
-      - \- [2000年](../Page/2000年.md "wikilink")に公開された[フランスのサイコスリラー映画](https://ja.wikipedia.org/wiki/フランスの映画 "wikilink")。[オリビエ・メガトン](https://ja.wikipedia.org/wiki/オリビエ・メガトン "wikilink")監督、[リュック・ベッソン](https://ja.wikipedia.org/wiki/リュック・ベッソン "wikilink")製作総指揮。
+      - \- [2000年](../Page/2000年.md "wikilink")に公開された[フランスのサイコスリラー映画](../Page/フランスの映画.md "wikilink")。[オリビエ・メガトン](https://ja.wikipedia.org/wiki/オリビエ・メガトン "wikilink")監督、[リュック・ベッソン](../Page/リュック・ベッソン.md "wikilink")製作総指揮。
 
       - \- [2014年](../Page/2014年.md "wikilink")に公開された[台湾映画](../Page/台湾映画.md "wikilink")。主演。
 
@@ -31,7 +31,7 @@
 
   - [EXIT (お笑いコンビ)](https://ja.wikipedia.org/wiki/EXIT_\(お笑いコンビ\) "wikilink") - [よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。
 
-  - [EXIT (企業)](https://ja.wikipedia.org/wiki/EXIT_\(企業\) "wikilink") - [退職代行サービス](https://ja.wikipedia.org/wiki/退職代行サービス "wikilink")を行う企業。
+  - [EXIT (企業)](https://ja.wikipedia.org/wiki/EXIT_\(企業\) "wikilink") - [退職代行サービス](../Page/退職代行サービス.md "wikilink")を行う企業。
 
 ## 関連項目
 

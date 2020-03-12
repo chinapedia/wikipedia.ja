@@ -1,7 +1,7 @@
 > この記事は[ DS](https://ja.wikipedia.org/wiki/_DS)から翻訳されています。
 
 
-『**財団法人日本漢字能力検定協会公認 漢検DS**』（ざいだんほうじんにほんかんじのうりょくけんていきょうかいこうにん かんけんディーエス）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に発売された漢字トレーニングゲームである。
+『**財団法人日本漢字能力検定協会公認 漢検DS**』（ざいだんほうじんにほんかんじのうりょくけんていきょうかいこうにん かんけんディーエス）は、[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")に発売された漢字トレーニングゲームである。
 
 DS版の続編や[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版も発売された。
 
@@ -45,7 +45,7 @@ DS版の続編や[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版も発売
 
 ## 関連項目
 
-  - [大奥 (2006年の映画)](https://ja.wikipedia.org/wiki/大奥_\(2006年の映画\) "wikilink") - コラボレーションCMがつくられた
+  - [大奥 (2006年の映画)](../Page/大奥_\(2006年の映画\).md "wikilink") - コラボレーションCMがつくられた
   - [Open\! Study](https://ja.wikipedia.org/wiki/Open!_Study "wikilink") - ロケットカンパニーのDS向け学習ソフトの総称
   - [財団法人日本漢字能力検定協会公式ソフト 200万人の漢検 とことん漢字脳](../Page/財団法人日本漢字能力検定協会公式ソフト_200万人の漢検_とことん漢字脳.md "wikilink")
 

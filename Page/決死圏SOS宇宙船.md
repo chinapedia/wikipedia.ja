@@ -1,7 +1,7 @@
 > この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
 
 
-『**決死圏SOS宇宙船**』（原題: *Doppelgänger*、米題: *Journey to the Far Side of the Sun*）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")が作った[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")であり、それまで[スーパーマリオネーション](https://ja.wikipedia.org/wiki/スーパーマリオネーション "wikilink")を用いていたアンダーソンが、初めて人間の俳優を使った（これを[ライブアクション](https://ja.wikipedia.org/wiki/ライブアクション "wikilink")と呼ぶ）作品である。日本では劇場公開されず、[1972年](../Page/1972年.md "wikilink")8月6日に[NETテレビ](../Page/テレビ朝日.md "wikilink")「[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")」でテレビ放映された。尚、当時の録音台本では『宇宙太陽系大征服』となっている\[1\]。 また、日曜洋画劇場の公式HPでは『太陽系宇宙大征服』とも書かれているが\[2\]、この題名が使われた記録はない\[3\]。
+『**決死圏SOS宇宙船**』（原題: *Doppelgänger*、米題: *Journey to the Far Side of the Sun*）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")が作った[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")であり、それまで[スーパーマリオネーション](https://ja.wikipedia.org/wiki/スーパーマリオネーション "wikilink")を用いていたアンダーソンが、初めて人間の俳優を使った（これを[ライブアクション](https://ja.wikipedia.org/wiki/ライブアクション "wikilink")と呼ぶ）作品である。日本では劇場公開されず、[1972年](../Page/1972年.md "wikilink")8月6日に[NETテレビ](../Page/テレビ朝日.md "wikilink")「[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")」でテレビ放映された。尚、当時の録音台本では『宇宙太陽系大征服』となっている\[1\]。 また、日曜洋画劇場の公式HPでは『太陽系宇宙大征服』とも書かれているが\[2\]、この題名が使われた記録はない\[3\]。
 
 ## ストーリー
 
@@ -9,7 +9,7 @@
 
 ## 作品史
 
-[エド・ビショップ](https://ja.wikipedia.org/wiki/エド・ビショップ "wikilink")（後に『[謎の円盤UFO](https://ja.wikipedia.org/wiki/謎の円盤UFO "wikilink")』でストレイカー司令官を演じる）をはじめ「UFO」出演者の多くが端役で出演している他、ミニチェアや衣装、車両等も「UFO」に引き継がれたものが多い。
+[エド・ビショップ](https://ja.wikipedia.org/wiki/エド・ビショップ "wikilink")（後に『[謎の円盤UFO](../Page/謎の円盤UFO.md "wikilink")』でストレイカー司令官を演じる）をはじめ「UFO」出演者の多くが端役で出演している他、ミニチェアや衣装、車両等も「UFO」に引き継がれたものが多い。
 
 なお、この「微妙に異なるもう一つの地球は、太陽を挟んで点対象位置にある為、通常は見えない」という基本設定は[反地球](https://ja.wikipedia.org/wiki/反地球 "wikilink")と呼ばれるもので、SFでは古典的なアイデアの一つである。
 
@@ -17,18 +17,18 @@
 
 ## キャスト
 
-※括弧内は日本語吹き替え（初放送1972年8月6日 [NETテレビ](../Page/テレビ朝日.md "wikilink") 『[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』、スティングレイ発売のDVDに収録）
+※括弧内は日本語吹き替え（初放送1972年8月6日 [NETテレビ](../Page/テレビ朝日.md "wikilink") 『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』、スティングレイ発売のDVDに収録）
 
-  - グレン・ロス大佐 - [ロイ・シネス](https://ja.wikipedia.org/wiki/ロイ・シネス "wikilink")（[露口茂](https://ja.wikipedia.org/wiki/露口茂 "wikilink")）
-  - ジョン・ケーン博士 - イアン・ヘンドリー（[家弓家正](https://ja.wikipedia.org/wiki/家弓家正 "wikilink")）
+  - グレン・ロス大佐 - [ロイ・シネス](https://ja.wikipedia.org/wiki/ロイ・シネス "wikilink")（[露口茂](../Page/露口茂.md "wikilink")）
+  - ジョン・ケーン博士 - イアン・ヘンドリー（[家弓家正](../Page/家弓家正.md "wikilink")）
   - ジェイソン・ウェッブ司令官 - パトリック・ワイマーク（[富田耕生](../Page/富田耕生.md "wikilink")）
   - シャロン・ロス - リン・ローリング（[小谷野美智子](https://ja.wikipedia.org/wiki/小谷野美智子 "wikilink")）
   - リサ・ハートマン - ロニー・フォン・フリーデル（[渋沢詩子](https://ja.wikipedia.org/wiki/渋沢詩子 "wikilink")）
   - パウロ・ランディ - フランコ・デ・ローザ（[青野武](../Page/青野武.md "wikilink")）
-  - マーク・ニューマン - ジョージ・シーウェル（[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")）
+  - マーク・ニューマン - ジョージ・シーウェル（[小林清志](../Page/小林清志.md "wikilink")）
   - デヴィッド・ポールソン - [エド・ビショップ](https://ja.wikipedia.org/wiki/エド・ビショップ "wikilink")（[細井重之](../Page/細井重之.md "wikilink")）
-  - ポンティーニ博士 - フィリップ・マドック（[村越伊知郎](https://ja.wikipedia.org/wiki/村越伊知郎 "wikilink")）
-  - 精神病医学者 - ヴラデク・シェイバル（[嶋俊介](https://ja.wikipedia.org/wiki/嶋俊介 "wikilink")）
+  - ポンティーニ博士 - フィリップ・マドック（[村越伊知郎](../Page/村越伊知郎.md "wikilink")）
+  - 精神病医学者 - ヴラデク・シェイバル（[嶋俊介](../Page/嶋俊介.md "wikilink")）
   - ハスラー博士 - [ハーバート・ロム](../Page/ハーバート・ロム.md "wikilink")（[西田昭市](../Page/西田昭市.md "wikilink")）
 
 ## スタッフ

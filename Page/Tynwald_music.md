@@ -5,15 +5,15 @@
 
 ## 経歴・音楽性
 
-樋口とWHITE-LIPSの2人は1999年にユニットを結成した。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")（[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")）の楽曲制作を手掛けており、ゲーム音楽（BGM）と主題歌・挿入歌等の制作提供を行っている。初期からはアダルトゲームブランドである[light](https://ja.wikipedia.org/wiki/light "wikilink")や[ぱれっとから委託を受けるほか](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")、[株式会社ビジュアルアーツ傘下のブランドである](../Page/ビジュアルアーツ.md "wikilink")[SAGA PLANETSやその他のブランドにも数多くの楽曲を提供している](https://ja.wikipedia.org/wiki/SAGA_PLANETS "wikilink")。主題歌等ではWHITE-LIPSが歌唱を務める曲だけでなく、各ゲームのヒロイン（演じた声優）が歌う主題歌・キャラクターソング等の作詞・作曲も行っている。そのほか[コミックマーケット](../Page/コミックマーケット.md "wikilink")などで頒布する同人誌のイメージソングも手がけている。
+樋口とWHITE-LIPSの2人は1999年にユニットを結成した。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")（[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")）の楽曲制作を手掛けており、ゲーム音楽（BGM）と主題歌・挿入歌等の制作提供を行っている。初期からはアダルトゲームブランドである[light](https://ja.wikipedia.org/wiki/light "wikilink")や[ぱれっとから委託を受けるほか](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")、[株式会社ビジュアルアーツ傘下のブランドである](../Page/ビジュアルアーツ.md "wikilink")[SAGA PLANETSやその他のブランドにも数多くの楽曲を提供している](../Page/SAGA_PLANETS.md "wikilink")。主題歌等ではWHITE-LIPSが歌唱を務める曲だけでなく、各ゲームのヒロイン（演じた声優）が歌う主題歌・キャラクターソング等の作詞・作曲も行っている。そのほか[コミックマーケット](../Page/コミックマーケット.md "wikilink")などで頒布する同人誌のイメージソングも手がけている。
 
 [民族音楽](../Page/民族音楽.md "wikilink")や[オーケストラ](../Page/オーケストラ.md "wikilink")の要素を組み込んだ[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")を制作しており、中にはを想わせる楽曲もある。そのほか、[アコースティック楽器](https://ja.wikipedia.org/wiki/アコースティック楽器 "wikilink")を交えた作品を得意としている。ヴォーカルのWHITE-LIPSは、ゲーム『[僕と、僕らの夏](../Page/僕と、僕らの夏.md "wikilink")』・『[ぽぽたん](../Page/ぽぽたん.md "wikilink")』・『[Dear My Friend](../Page/Dear_My_Friend_\(ゲーム\).md "wikilink")』などの作品において透明感のある歌声を披露している。
 
 ## ディスコグラフィ
 
-作品は一部を除いて一般流通には乗らず、[とらのあな](../Page/コミックとらのあな.md "wikilink")・[メロンブックス](https://ja.wikipedia.org/wiki/メロンブックス "wikilink")・[あきばお〜](https://ja.wikipedia.org/wiki/あきばお〜 "wikilink")等の[同人ショップ](../Page/同人ショップ.md "wikilink")や、コミックマーケット等のイベントでの販売となる。
+作品は一部を除いて一般流通には乗らず、[とらのあな](../Page/コミックとらのあな.md "wikilink")・[メロンブックス](../Page/メロンブックス.md "wikilink")・[あきばお〜](https://ja.wikipedia.org/wiki/あきばお〜 "wikilink")等の[同人ショップ](../Page/同人ショップ.md "wikilink")や、コミックマーケット等のイベントでの販売となる。
 
-  - **『WHITE-LIPS VOCAL COLLECTION』**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")発売/TYNR-0001）
+  - **『WHITE-LIPS VOCAL COLLECTION』**（[2005年](../Page/2005年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")発売/TYNR-0001）
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - **『もしも明日が晴れならば Extra Soundtrack』**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")発売/TYNR-0002-0003）
+  - **『もしも明日が晴れならば Extra Soundtrack』**（[2006年](../Page/2006年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")発売/TYNR-0002-0003）
 
 <table>
 <tbody>
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   -
-    [GWAVE](https://ja.wikipedia.org/wiki/GWAVE "wikilink")による「Super Feature's」シリーズの第8弾である。[初回限定版](https://ja.wikipedia.org/wiki/初回限定版 "wikilink")には特典として、声優の[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")による[朗読](../Page/朗読.md "wikilink")CD『朗読class words』が付属。ジャケットイラストは[泉まひる](../Page/泉まひる.md "wikilink")が担当する。
+    [GWAVE](https://ja.wikipedia.org/wiki/GWAVE "wikilink")による「Super Feature's」シリーズの第8弾である。[初回限定版](https://ja.wikipedia.org/wiki/初回限定版 "wikilink")には特典として、声優の[井上喜久子](../Page/井上喜久子.md "wikilink")による[朗読](../Page/朗読.md "wikilink")CD『朗読class words』が付属。ジャケットイラストは[泉まひる](../Page/泉まひる.md "wikilink")が担当する。
 
 <!-- end list -->
 
@@ -265,7 +265,7 @@
 
 <!-- end list -->
 
-  - [まじかるカナン -RISEA-](https://ja.wikipedia.org/wiki/SeptemCharm_まじかるカナン "wikilink")（[Terios](https://ja.wikipedia.org/wiki/Terios "wikilink")）
+  - [まじかるカナン -RISEA-](../Page/SeptemCharm_まじかるカナン.md "wikilink")（[Terios](../Page/Terios.md "wikilink")）
       - 奇跡のkiss 目覚める戦士\!（編曲のみ）
       - 深紅の炎（編曲のみ）
   - [群青の空を越えて](../Page/群青の空を越えて.md "wikilink")（light）
@@ -284,7 +284,7 @@
       - 雛鳥（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
       - あなたを照らす、月になりましょう（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
       - これからずっと…（作曲・編曲：樋口秀樹、コーラス：WHITE-LIPS）
-  - [かいわれっ\!](../Page/かいわれっ!.md "wikilink")（[FlyingShine](https://ja.wikipedia.org/wiki/フライングシャイン "wikilink")）
+  - [かいわれっ\!](../Page/かいわれっ!.md "wikilink")（[FlyingShine](../Page/フライングシャイン.md "wikilink")）
       - ボクとキミのこと（作詞・作曲・編曲：樋口秀樹、歌：[月子](https://ja.wikipedia.org/wiki/月子_\(歌手\) "wikilink")）
 
 <!-- end list -->
@@ -348,9 +348,9 @@
       - キミノソラ／ボクノソラ（作詞・作曲・編曲：樋口秀樹、歌：凛）
       - あなたの空になりたい（作詞・作曲・編曲：樋口秀樹、歌：cia）
   - [まじのコンプレックス](https://ja.wikipedia.org/wiki/まじのコンプレックス "wikilink")（light）
-      - まじこんうぉーず（作曲・編曲：樋口秀樹、作詞：津島暁生、歌：[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")）
+      - まじこんうぉーず（作曲・編曲：樋口秀樹、作詞：津島暁生、歌：[木村あやか](../Page/木村あやか.md "wikilink")）
       - マーマレード・プリンセス（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
-  - [キサラギGOLD★STAR](https://ja.wikipedia.org/wiki/キサラギGOLD★STAR "wikilink")（[SAGA PLANETS](https://ja.wikipedia.org/wiki/SAGA_PLANETS "wikilink")）
+  - [キサラギGOLD★STAR](https://ja.wikipedia.org/wiki/キサラギGOLD★STAR "wikilink")（[SAGA PLANETS](../Page/SAGA_PLANETS.md "wikilink")）
       - as always（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
 
 <!-- end list -->
@@ -411,7 +411,7 @@
       - 鏡花水月（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
       - 雛鳥-arrange.ver-（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
       - 歌（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
-  - \-memento- [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink") remix album([Key Sounds Label](https://ja.wikipedia.org/wiki/Key_Sounds_Label "wikilink"))
+  - \-memento- [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink") remix album([Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink"))
       - 桜抒曲（作詞・作曲・編曲：樋口秀樹、歌：[riya](https://ja.wikipedia.org/wiki/riya "wikilink")）
 
 ### 同人音楽
@@ -420,7 +420,7 @@
       - Swallow（作詞・作曲：樋口秀樹、歌：[片霧烈火](../Page/片霧烈火.md "wikilink")）
       - Sie bleibet meine Freude あなたは変わりなきわが喜び（作詞・作曲：樋口秀樹、歌：片霧烈火）
   - reverence・unify（[少女病](https://ja.wikipedia.org/wiki/少女病 "wikilink")）
-      - Imaginary affair（作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") ([I've](../Page/I've.md "wikilink"))、作曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink") (I've)、編曲：樋口秀樹、歌：[茶太](https://ja.wikipedia.org/wiki/茶太 "wikilink")）
+      - Imaginary affair（作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") ([I've](../Page/I've.md "wikilink"))、作曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink") (I've)、編曲：樋口秀樹、歌：[茶太](../Page/茶太.md "wikilink")）
   - Festa\!（少女病）
       - Replica（作詞：少女病、作曲・編曲：樋口秀樹、歌：星名優子）
   - a la mode（La Bella Luna）

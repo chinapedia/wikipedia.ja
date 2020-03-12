@@ -1,13 +1,13 @@
 > この記事は[Gizmo5](https://ja.wikipedia.org/wiki/Gizmo5)から翻訳されています。
 
 
-**Gizmo5** (旧称**Gizmo Project**) (**ギズモ プロジェクト**)は、Googleの運営する[インターネット電話](https://ja.wikipedia.org/wiki/インターネット電話 "wikilink")の[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。
+**Gizmo5** (旧称**Gizmo Project**) (**ギズモ プロジェクト**)は、Googleの運営する[インターネット電話](https://ja.wikipedia.org/wiki/インターネット電話 "wikilink")の[無料](../Page/無料.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。
 
 ## 概要
 
 有料サービスの決済方法はクレジットカードのみに限られている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")には、日本を含む世界60カ国の固定電話に無料通話が行なえるサービス「All Calls Free」\[1\]\[2\]を発表。これは、Gizomoユーザーの利用拡大を目的とするサービスであるため、アクティブユーザーにならなければならない。
+[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")には、日本を含む世界60カ国の固定電話に無料通話が行なえるサービス「All Calls Free」\[1\]\[2\]を発表。これは、Gizomoユーザーの利用拡大を目的とするサービスであるため、アクティブユーザーにならなければならない。
 
 [2009年](../Page/2009年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")に、米Googleが米Gizmo5を買収したと発表した。\[3\]
 

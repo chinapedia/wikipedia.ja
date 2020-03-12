@@ -1,7 +1,7 @@
 > この記事は[ORESKABAND](https://ja.wikipedia.org/wiki/ORESKABAND)から翻訳されています。
 
 
-**ORESKABAND** (*オレスカバンド*) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のガールズ[スカ・ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。所属レーベルは[ビクターミュージックアーツ](https://ja.wikipedia.org/wiki/ビクターミュージックアーツ "wikilink")。事務所はSteezlab Musicに所属していたが、現在はフリーで活動中。[2003年](../Page/2003年.md "wikilink")5月に結成。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にメジャーデビューし、全米ツアーや、アルゼンチン、ブラジル公演など、日本にとどまらず海外まで活動の幅を広げている。
+**ORESKABAND** (*オレスカバンド*) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のガールズ[スカ・ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。所属レーベルは[ビクターミュージックアーツ](../Page/ビクターミュージックアーツ.md "wikilink")。事務所はSteezlab Musicに所属していたが、現在はフリーで活動中。[2003年](../Page/2003年.md "wikilink")5月に結成。[2006年](../Page/2006年.md "wikilink")にメジャーデビューし、全米ツアーや、アルゼンチン、ブラジル公演など、日本にとどまらず海外まで活動の幅を広げている。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## メンバー
 
-初期メンバーは全員[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")立[月州中学校出身](https://ja.wikipedia.org/wiki/堺市立月州中学校 "wikilink") 。
+初期メンバーは全員[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")立[月州中学校出身](../Page/堺市立月州中学校.md "wikilink") 。
 
   - **iCas　**[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（2003-）1989年2月13日　[skaskaskaclub](https://ja.wikipedia.org/wiki/skaskaskaclub "wikilink")、[インディーズ電力](https://ja.wikipedia.org/wiki/インディーズ電力 "wikilink")のメンバーとしても活動中。
   - **tomi　**[ベース](../Page/エレクトリックベース.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（2003-）1988年7月29日　[mahol-hul](https://ja.wikipedia.org/wiki/mahol-hul "wikilink")、[Mariner Valley Cruiseのメンバーとしても活動中](https://ja.wikipedia.org/wiki/MarinerValleyCruise "wikilink")。
@@ -38,11 +38,11 @@
 
 [2003年](../Page/2003年.md "wikilink")5月、中学のブラスバンド部のメンバーを中心に「俺たちカスカスローソンスカバンドウィズカッターシャツ」結成。その後ライブハウスのスタッフにバンド名が長いと言われ「オレスカバンド」へ改名\[4\]。10月に初ライブを行った。[2004年](../Page/2004年.md "wikilink")にメンバーが高校進学し、本格的にライブ活動を開始。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月に自主制作盤『ペンパル』リリース。
+[2005年](../Page/2005年.md "wikilink")6月に自主制作盤『ペンパル』リリース。
 
 ### メジャーデビュー後
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")に初の自主企画イベント「平成サラダ合戦」開催。2月に[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")とメジャー契約を結び、プライベートレーベル「TERRY DOLLAR RECORD$」および専属マネジメント「TERRY DOLLAR PRODUCTION$」を設立。[7月19日](../Page/7月19日.md "wikilink")にデビューミニアルバム『俺』をリリースした。[11月1日](../Page/11月1日.md "wikilink")には1stシングル「アーモンド」リリース。
+[2006年](../Page/2006年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に初の自主企画イベント「平成サラダ合戦」開催。2月に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")とメジャー契約を結び、プライベートレーベル「TERRY DOLLAR RECORD$」および専属マネジメント「TERRY DOLLAR PRODUCTION$」を設立。[7月19日](../Page/7月19日.md "wikilink")にデビューミニアルバム『俺』をリリースした。[11月1日](../Page/11月1日.md "wikilink")には1stシングル「アーモンド」リリース。
 
 [2007年](../Page/2007年.md "wikilink")はメンバーが高校を卒業し、3月からアメリカでのライブを含む全国ツアー「We Are Oreskaband TOUR '07」を開催。5月にアルバム『[WAO\!\!](../Page/WAO!!.md "wikilink")』をリリース。
 
@@ -58,7 +58,7 @@
 
 ### ビクターミュージックアーツ移籍後
 
-[2014年](../Page/2014年.md "wikilink")に[ビクターミュージックアーツ](https://ja.wikipedia.org/wiki/ビクターミュージックアーツ "wikilink")へ移籍し、バンド名を英語表記の「ORESKABAND」へ改名。7月には初のアルゼンチン公演を行った。
+[2014年](../Page/2014年.md "wikilink")に[ビクターミュージックアーツ](../Page/ビクターミュージックアーツ.md "wikilink")へ移籍し、バンド名を英語表記の「ORESKABAND」へ改名。7月には初のアルゼンチン公演を行った。
 
 [2016年](../Page/2016年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、moricoが育児に専念するため脱退を発表\[7\]。6月にサポートメンバーのADD（テナーサックス）の正式加入を発表。
 
@@ -88,7 +88,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ" title="wikilink">Sony Music Associated Records</a></p></td>
+<td><p><a href="../Page/ソニー・ミュージックアソシエイテッドレコーズ.md" title="wikilink">Sony Music Associated Records</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +137,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビクターミュージックアーツ" title="wikilink">Victor Music Arts</a></p></td>
+<td><p><a href="../Page/ビクターミュージックアーツ.md" title="wikilink">Victor Music Arts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -224,7 +224,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビクターミュージックアーツ" title="wikilink">Victor Music Arts</a></p></td>
+<td><p><a href="../Page/ビクターミュージックアーツ.md" title="wikilink">Victor Music Arts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -304,7 +304,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビクターミュージックアーツ" title="wikilink">Victor Music Arts</a></p></td>
+<td><p><a href="../Page/ビクターミュージックアーツ.md" title="wikilink">Victor Music Arts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -438,22 +438,22 @@
 
 ## タイアップ
 
-| 楽曲                                                                                                                                                       | タイアップ                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 花のスカダンス                                                                                                                                                  | [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「[ポッキー](https://ja.wikipedia.org/wiki/ポッキー "wikilink")」[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")限定CMソング (2006年4月 - 6月)\[14\] |
-| [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ (2005年8月) |                                                                                                                                                                                                             |
-| ピノキオ                                                                                                                                                     | 江崎グリコ「ポッキー」スペースシャワーTV限定CMソング (2006年7月 - 9月)\[15\]                                                                                                                                                           |
-| テレビ東京系アニメ「[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")」エンディングテーマ (2006年)                                                |                                                                                                                                                                                                             |
-| チャック                                                                                                                                                     | テレビ東京系「[PVTV](../Page/PVTV.md "wikilink")」エンディングテーマ (2007年3月)                                                                                                                                               |
-| テレビ東京系「PVTV」オープニングテーマ (2007年4月)                                                                                                                          |                                                                                                                                                                                                             |
-| 爪先                                                                                                                                                       | テレビ東京系アニメ「[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")」エンディングテーマ (2007年)                                                                                                               |
-| カメレヨン                                                                                                                                                    | [ヤマザキナビスコ](https://ja.wikipedia.org/wiki/ヤマザキビスケット "wikilink")「ビッツサンド」CMソング (2008年)\[16\]                                                                                                                   |
-| 24カラット                                                                                                                                                   | HONDA CARS中部 エコトクキャンペーンソング (2009年)\[17\]                                                                                                                                                                    |
-| ジェットウェーブ                                                                                                                                                 | [南日本酪農協同](https://ja.wikipedia.org/wiki/南日本酪農協同 "wikilink")「[スコール](../Page/スコール_\(飲料\).md "wikilink")」CMソング (2009年)\[18\]                                                                                   |
-| 自転車                                                                                                                                                      | テレビ東京系アニメ「[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")」エンディングテーマ (2010年)\[19\]                                                                                             |
-| [関西サイクルスポーツセンター](https://ja.wikipedia.org/wiki/関西サイクルスポーツセンター "wikilink") CMソング (2010年)                                                                  |                                                                                                                                                                                                             |
-| ダンスナンバー802                                                                                                                                               | 大阪デザイナー専門学校CMソング (2010年)\[20\]                                                                                                                                                                              |
-| Hands Up Girls                                                                                                                                           | [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")「[松井愛のすこ〜し愛して♥](https://ja.wikipedia.org/wiki/松井愛のすこ〜し愛して★ "wikilink")」テーマソング (2015年3月29日 - )                                                      |
+| 楽曲                                                                                                                                    | タイアップ                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 花のスカダンス                                                                                                                               | [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「[ポッキー](../Page/ポッキー.md "wikilink")」[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")限定CMソング (2006年4月 - 6月)\[14\] |
+| [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ (2005年8月) |                                                                                                                                                                       |
+| ピノキオ                                                                                                                                  | 江崎グリコ「ポッキー」スペースシャワーTV限定CMソング (2006年7月 - 9月)\[15\]                                                                                                                     |
+| テレビ東京系アニメ「[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")」エンディングテーマ (2006年)                             |                                                                                                                                                                       |
+| チャック                                                                                                                                  | テレビ東京系「[PVTV](../Page/PVTV.md "wikilink")」エンディングテーマ (2007年3月)                                                                                                         |
+| テレビ東京系「PVTV」オープニングテーマ (2007年4月)                                                                                                       |                                                                                                                                                                       |
+| 爪先                                                                                                                                    | テレビ東京系アニメ「[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")」エンディングテーマ (2007年)                                                                         |
+| カメレヨン                                                                                                                                 | [ヤマザキナビスコ](../Page/ヤマザキビスケット.md "wikilink")「ビッツサンド」CMソング (2008年)\[16\]                                                                                                |
+| 24カラット                                                                                                                                | HONDA CARS中部 エコトクキャンペーンソング (2009年)\[17\]                                                                                                                              |
+| ジェットウェーブ                                                                                                                              | [南日本酪農協同](../Page/南日本酪農協同.md "wikilink")「[スコール](../Page/スコール_\(飲料\).md "wikilink")」CMソング (2009年)\[18\]                                                                |
+| 自転車                                                                                                                                   | テレビ東京系アニメ「[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")」エンディングテーマ (2010年)\[19\]                                                       |
+| [関西サイクルスポーツセンター](../Page/関西サイクルスポーツセンター.md "wikilink") CMソング (2010年)                                                                  |                                                                                                                                                                       |
+| ダンスナンバー802                                                                                                                            | 大阪デザイナー専門学校CMソング (2010年)\[20\]                                                                                                                                        |
+| Hands Up Girls                                                                                                                        | [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")「[松井愛のすこ〜し愛して♥](https://ja.wikipedia.org/wiki/松井愛のすこ〜し愛して★ "wikilink")」テーマソング (2015年3月29日 - )                |
 
 ## ライブ
 

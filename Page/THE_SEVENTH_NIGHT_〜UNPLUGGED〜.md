@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [アンプラグド](https://ja.wikipedia.org/wiki/アンプラグド "wikilink")という名の通り、Gacktがこれまで発表してきた曲を[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンで[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")し、再収録したアルバムとなっている。
-  - このアルバムの[プロモーションのために](../Page/宣伝.md "wikilink")、「君が待っているから」、「Mirror」、「Last Song」の[PVが制作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - [アンプラグド](https://ja.wikipedia.org/wiki/アンプラグド "wikilink")という名の通り、Gacktがこれまで発表してきた曲を[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンで[セルフカバー](../Page/セルフカバー.md "wikilink")し、再収録したアルバムとなっている。
+  - このアルバムの[プロモーションのために](../Page/宣伝.md "wikilink")、「君が待っているから」、「Mirror」、「Last Song」の[PVが制作されている](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 収録曲
 
@@ -48,10 +48,10 @@
 
   - [Gackt's family](https://ja.wikipedia.org/wiki/Gackt#Gackt_Job "wikilink")
   - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")
-  - [弦一徹](https://ja.wikipedia.org/wiki/落合徹也 "wikilink") - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
+  - [弦一徹](../Page/落合徹也.md "wikilink") - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
   - [クラッシャー木村](https://ja.wikipedia.org/wiki/クラッシャー木村 "wikilink") - ヴァイオリン
   - [室屋大先生](https://ja.wikipedia.org/wiki/室屋大先生 "wikilink") - [ヴィオラ](../Page/ヴィオラ.md "wikilink")
   - [堀沢真己](https://ja.wikipedia.org/wiki/堀沢真己 "wikilink") - [チェロ](../Page/チェロ.md "wikilink")
-  - [八木のぶお](https://ja.wikipedia.org/wiki/八木のぶお "wikilink") - [ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - [八木のぶお](https://ja.wikipedia.org/wiki/八木のぶお "wikilink") - [ハーモニカ](../Page/ハーモニカ.md "wikilink")
 
 [Category:GACKTのアルバム](https://ja.wikipedia.org/wiki/Category:GACKTのアルバム "wikilink") [Category:2004年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のセルフカバー・アルバム "wikilink") [Category:アコースティック・アルバム](https://ja.wikipedia.org/wiki/Category:アコースティック・アルバム "wikilink")

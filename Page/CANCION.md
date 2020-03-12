@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身。血液型B型。2009年3月4日に[コロムビアミュージックエンタテインメントよりソロデビュー](../Page/日本コロムビア.md "wikilink")。
+    [茨城県](../Page/茨城県.md "wikilink")出身。血液型B型。2009年3月4日に[コロムビアミュージックエンタテインメントよりソロデビュー](../Page/日本コロムビア.md "wikilink")。
 
 <!-- end list -->
 
@@ -19,13 +19,13 @@
 <!-- end list -->
 
   -
-    [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。血液型A型。
+    [埼玉県](../Page/埼玉県.md "wikilink")出身。血液型A型。
 
 ## ディスコグラフィー
 
 ### シングル
 
-1.  疾風怒濤/MOMENT（2004年4月7日）　※[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")196位
+1.  疾風怒濤/MOMENT（2004年4月7日）　※[オリコン](../Page/オリコンチャート.md "wikilink")196位
     1.  疾風怒濤
     2.  MOMENT
 2.  嘘つき（2004年8月4日）
@@ -36,7 +36,7 @@
     2.  Beautiful day
     3.  大丈夫
 4.  青春の影/交差点（2006年2月1日）　※オリコン152位
-    1.  青春の影（[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")「[青春の影](../Page/青春の影_\(チューリップの曲\).md "wikilink")」のカバー。「[田舎に泊まろう\!](https://ja.wikipedia.org/wiki/田舎に泊まろう! "wikilink")」エンディングテーマ）
+    1.  青春の影（[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")「[青春の影](../Page/青春の影_\(チューリップの曲\).md "wikilink")」のカバー。「[田舎に泊まろう\!](../Page/田舎に泊まろう!.md "wikilink")」エンディングテーマ）
     2.  交差点
     3.  STARTER
 

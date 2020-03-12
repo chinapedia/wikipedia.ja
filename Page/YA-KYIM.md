@@ -3,11 +3,11 @@
 
 **YA-KYIM**（ヤキーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")／[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[ユニットである](../Page/音楽ユニット.md "wikilink")。
 
-2002年から活動開始。2005年、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。2008年5月に[Real Note（ワーナーミュージック・ジャパン内のレーベル）へ移籍後第](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")1弾『Super☆Looper』をリリース。[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")、[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")に続くReal Noteの第3弾アーティストとしてデビューした\[1\]。2012年11月22日、[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")「YA-KYIM.TV」で人生の方向性の違いを理由に2012年末をもっての解散を発表した。12月22日、[渋谷Glad](https://ja.wikipedia.org/wiki/渋谷Glad "wikilink")にて最後のライブが行われた。
+2002年から活動開始。2005年、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。2008年5月に[Real Note（ワーナーミュージック・ジャパン内のレーベル）へ移籍後第](../Page/ワーナーミュージック・ジャパン.md "wikilink")1弾『Super☆Looper』をリリース。[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")、[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")に続くReal Noteの第3弾アーティストとしてデビューした\[1\]。2012年11月22日、[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")「YA-KYIM.TV」で人生の方向性の違いを理由に2012年末をもっての解散を発表した。12月22日、[渋谷Glad](https://ja.wikipedia.org/wiki/渋谷Glad "wikilink")にて最後のライブが行われた。
 
 ## メンバー
 
-  - ALISA（本名：柿沼亜里沙）（メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - ）
+  - ALISA（本名：柿沼亜里沙）（メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ）
   - [MIKU](https://ja.wikipedia.org/wiki/MIKU_a.k.a_Tomboy "wikilink")（本名：山崎未来）（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月25日](../Page/10月25日.md "wikilink") - ）
   - YURIE（本名：石川友里恵）（ボーカル、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）
 
@@ -172,18 +172,18 @@ WPCL-10837</p></td>
 
 ### 配信限定シングル
 
-| 発売日         | タイトル                                                                                      | 備考                                                                    |
-| ----------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2006年11月22日 | beauty × beauty                                                                           | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink") |
-| 2007年8月1日   | 20 〜twenty〜                                                                               | iTunes Store                                                          |
-| 2011年10月1日  | Tower\!                                                                                   | 着うた／iTunes Store                                                      |
-| 2011年11月23日 | [Don't wanna cry](https://ja.wikipedia.org/wiki/Don't_wanna_cry "wikilink")（※安室奈美恵のカヴァー曲） | 着うた／iTunes Store                                                      |
+| 発売日         | タイトル                                                                   | 備考                                                                    |
+| ----------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2006年11月22日 | beauty × beauty                                                        | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink") |
+| 2007年8月1日   | 20 〜twenty〜                                                            | iTunes Store                                                          |
+| 2011年10月1日  | Tower\!                                                                | 着うた／iTunes Store                                                      |
+| 2011年11月23日 | [Don't wanna cry](../Page/Don't_wanna_cry.md "wikilink")（※安室奈美恵のカヴァー曲） | 着うた／iTunes Store                                                      |
 
 ### 参加作品
 
   - [NORISIAM-X](../Page/URALi.md "wikilink")『N☆X☆R☆2』（2005年9月21日）
       - M-22「Focus On The Streets (my火リレー) feat. TOMOGEN ([DOBERMAN INC](https://ja.wikipedia.org/wiki/DOBERMAN_INC "wikilink")), WAYZZY (IMP), MIKU (YA-KYIM), & MOGGY (9 FAR EAST)」
-  - ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")『7 Days』（2006年9月27日）
+  - ["E"qual](../Page/"E"qual.md "wikilink")『7 Days』（2006年9月27日）
       - M-5「Dress code feat. YA-KYIM」
   - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")『[DIRTY](https://ja.wikipedia.org/wiki/DIARY_\(青山テルマのアルバム\) "wikilink")』（2008年3月26日）
       - M-7「GOOD TIME REMIX feat. MIKU from YA-KYIM」
@@ -212,34 +212,34 @@ WPCL-10837</p></td>
 
 ## タイアップ一覧
 
-| 曲名                                                                                                                                                             | タイアップ                                                                                                                                        | 初出                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Happy the globe**                                                                                                                                            | [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2005年8月度エンディングテーマ               | <small>シングル『Happy the globe』</small>                                              |
-| **Super☆Looper**                                                                                                                                               | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[キミ犯人じゃないよね?](../Page/キミ犯人じゃないよね?.md "wikilink")」主題歌                                                   | <small>シングル『Super☆Looper／"新"呼吸』</small>                                           |
-| [中京テレビ](../Page/中京テレビ放送.md "wikilink")「[スポーツスタジアム](https://ja.wikipedia.org/wiki/SPORTS_STADIUM "wikilink")」2008年5月度エンディングテーマ                                  |                                                                                                                                              |                                                                                   |
-| **"新"呼吸**                                                                                                                                                      | [P\&G](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")「[パンテーン](../Page/パンテーン.md "wikilink")」CMソング                                                |                                                                                   |
-| **さぁ行こう\!**\[2\]                                                                                                                                               | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[セレぶり3](https://ja.wikipedia.org/wiki/セレぶり3 "wikilink")」主題歌                         | <small>シングル『君がいるだけで／さぁ行こう\! ‐"RESPECT" 4 tracks E.P‐』</small>                     |
-| **たぶんきっと**                                                                                                                                                     | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」2009年7月度エンディングテーマ | <small>シングル『たぶんきっと／HAPPY FACE (love ver.)』</small>                                |
-| テレビ朝日系「FUTURE TRACKS→R」2009年8月度MONTHLY TRACK                                                                                                                   |                                                                                                                                              |                                                                                   |
-| [近鉄パッセ](../Page/近鉄百貨店名古屋店.md "wikilink")「Summer Final Sale」イメージソング                                                                                             |                                                                                                                                              |                                                                                   |
-| **HAPPY FACE (love ver.)**                                                                                                                                     | [ロート製薬](../Page/ロート製薬.md "wikilink")「ロートリセ」CMソング                                                                                             |                                                                                   |
-| **Afro Samurai**                                                                                                                                               | ストリートバスケットリーグ「LEGEND」SEASON 8テーマソング                                                                                                          | <small>アルバム『HAPPY\! ENJOY\! FRESH\!』</small>                                      |
-| **キミがくれたもの**\[3\]                                                                                                                                              | TBS系「\[\[がっちりマンデー                                                                                                                            | |がっちりマンデー                                                                         |
-| **Tippin**'                                                                                                                                                    | テレビ東京「[THE HILLS](https://ja.wikipedia.org/wiki/The_Hills "wikilink")」テーマソング                                                                 |                                                                                   |
-| **コイノヨロコビ**                                                                                                                                                    | 「[PEACH JOHN](../Page/ピーチ・ジョン.md "wikilink") '09秋号」CMソング                                                                                     |                                                                                   |
-| **HAPPY FACE (original ver.)**                                                                                                                                 | ロート製薬「ロートリセ」CMソング                                                                                                                            |                                                                                   |
-| [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[マツケン・今ちゃん・オセロのGO\!GO\!サタ](https://ja.wikipedia.org/wiki/マツケン・今ちゃん・オセロのGO!GO!サタ "wikilink")」テーマソング |                                                                                                                                              |                                                                                   |
-| **SHAPE IT UP**                                                                                                                                                | GRP第2回GAL川柳テーマソング                                                                                                                            | <small>ミニアルバム『HIP\! UP\! POP\!』</small>                                           |
-| '''MONSTERS                                                                                                                                                    | \!'''                                                                                                                                        | [ヴィーナスフォート](https://ja.wikipedia.org/wiki/ヴィーナスフォート "wikilink")「VenusFort BARGAIN |
-| **BAKUROCK 〜未来の輪郭線〜**                                                                                                                                          | [NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「[バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink")」エンディングテーマ      | <small>シングル『BAKUROCK 〜未来の輪郭線〜』</small>                                            |
-| **Tower\!**                                                                                                                                                    | [全日本タワー協議会](https://ja.wikipedia.org/wiki/全日本タワー協議会 "wikilink") 公式テーマソング                                                                     | <small>着うた『Tower\!』</small>                                                       |
+| 曲名                                                                                                                                          | タイアップ                                                                                                                     | 初出                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Happy the globe**                                                                                                                         | [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2005年8月度エンディングテーマ               | <small>シングル『Happy the globe』</small>                           |
+| **Super☆Looper**                                                                                                                            | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[キミ犯人じゃないよね?](../Page/キミ犯人じゃないよね?.md "wikilink")」主題歌                                | <small>シングル『Super☆Looper／"新"呼吸』</small>                        |
+| [中京テレビ](../Page/中京テレビ放送.md "wikilink")「[スポーツスタジアム](../Page/SPORTS_STADIUM.md "wikilink")」2008年5月度エンディングテーマ                                  |                                                                                                                           |                                                                |
+| **"新"呼吸**                                                                                                                                   | [P\&G](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")「[パンテーン](../Page/パンテーン.md "wikilink")」CMソング                             |                                                                |
+| **さぁ行こう\!**\[2\]                                                                                                                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[セレぶり3](https://ja.wikipedia.org/wiki/セレぶり3 "wikilink")」主題歌      | <small>シングル『君がいるだけで／さぁ行こう\! ‐"RESPECT" 4 tracks E.P‐』</small>  |
+| **たぶんきっと**                                                                                                                                  | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」2009年7月度エンディングテーマ | <small>シングル『たぶんきっと／HAPPY FACE (love ver.)』</small>             |
+| テレビ朝日系「FUTURE TRACKS→R」2009年8月度MONTHLY TRACK                                                                                                |                                                                                                                           |                                                                |
+| [近鉄パッセ](../Page/近鉄百貨店名古屋店.md "wikilink")「Summer Final Sale」イメージソング                                                                          |                                                                                                                           |                                                                |
+| **HAPPY FACE (love ver.)**                                                                                                                  | [ロート製薬](../Page/ロート製薬.md "wikilink")「ロートリセ」CMソング                                                                          |                                                                |
+| **Afro Samurai**                                                                                                                            | ストリートバスケットリーグ「LEGEND」SEASON 8テーマソング                                                                                       | <small>アルバム『HAPPY\! ENJOY\! FRESH\!』</small>                   |
+| **キミがくれたもの**\[3\]                                                                                                                           | TBS系「\[\[がっちりマンデー                                                                                                         | |がっちりマンデー                                                      |
+| **Tippin**'                                                                                                                                 | テレビ東京「[THE HILLS](https://ja.wikipedia.org/wiki/The_Hills "wikilink")」テーマソング                                              |                                                                |
+| **コイノヨロコビ**                                                                                                                                 | 「[PEACH JOHN](../Page/ピーチ・ジョン.md "wikilink") '09秋号」CMソング                                                                  |                                                                |
+| **HAPPY FACE (original ver.)**                                                                                                              | ロート製薬「ロートリセ」CMソング                                                                                                         |                                                                |
+| [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[マツケン・今ちゃん・オセロのGO\!GO\!サタ](../Page/マツケン・今ちゃん・オセロのGO!GO!サタ.md "wikilink")」テーマソング |                                                                                                                           |                                                                |
+| **SHAPE IT UP**                                                                                                                             | GRP第2回GAL川柳テーマソング                                                                                                         | <small>ミニアルバム『HIP\! UP\! POP\!』</small>                        |
+| '''MONSTERS                                                                                                                                 | \!'''                                                                                                                     | [ヴィーナスフォート](../Page/ヴィーナスフォート.md "wikilink")「VenusFort BARGAIN |
+| **BAKUROCK 〜未来の輪郭線〜**                                                                                                                       | [NHK教育](../Page/NHK教育テレビジョン.md "wikilink")「[バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink")」エンディングテーマ      | <small>シングル『BAKUROCK 〜未来の輪郭線〜』</small>                         |
+| **Tower\!**                                                                                                                                 | [全日本タワー協議会](https://ja.wikipedia.org/wiki/全日本タワー協議会 "wikilink") 公式テーマソング                                                  | <small>着うた『Tower\!』</small>                                    |
 
 ## 出演
 
 ### テレビ
 
   - [スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")（[中京テレビ](../Page/中京テレビ放送.md "wikilink")）
-  - [超音2〜スーパーミュージック〜](https://ja.wikipedia.org/wiki/超音2〜スーパーミュージック〜 "wikilink")（[チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）ゲスト出演
+  - [超音2〜スーパーミュージック〜](https://ja.wikipedia.org/wiki/超音2〜スーパーミュージック〜 "wikilink")（[チバテレビ](../Page/千葉テレビ放送.md "wikilink")）ゲスト出演
 
 ### その他
 
@@ -257,9 +257,9 @@ WPCL-10837</p></td>
 ## 関連項目
 
   - [西村隼平](https://ja.wikipedia.org/wiki/西村隼平 "wikilink")
-  - [藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")
+  - [藤林聖子](../Page/藤林聖子.md "wikilink")
   - [藤本和則](../Page/藤本和則.md "wikilink")
-  - [堀謙](https://ja.wikipedia.org/wiki/堀謙 "wikilink")
+  - [堀謙](../Page/堀謙.md "wikilink")
   - [三浦葵](../Page/三浦葵.md "wikilink")
 
 ## 脚注

@@ -1,7 +1,7 @@
 > この記事は[The Birthday](https://ja.wikipedia.org/wiki/The_Birthday)から翻訳されています。
 
 
-**The Birthday**（ザ・バースディ）は、2005年に結成された日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ユニバーサルシグマ所属](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**The Birthday**（ザ・バースディ）は、2005年に結成された日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ユニバーサルシグマ所属](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 略歴
 
@@ -24,7 +24,7 @@
   - [チバユウスケ](../Page/チバユウスケ.md "wikilink")
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。また全楽曲の作詞を担当する。元[thee michelle gun elephant](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink")、[ROSSO](../Page/ROSSO.md "wikilink")。
   - [ヒライハルキ](../Page/ヒライハルキ.md "wikilink")
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。元[てるる...](https://ja.wikipedia.org/wiki/てるる... "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。元[てるる...](../Page/てるる....md "wikilink")。
   - [クハラカズユキ](../Page/クハラカズユキ.md "wikilink")
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。元[thee michelle gun elephant](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink")、うつみようこ\&YOKOLOCO BAND、M.J.Q、qybのメンバー。
   - [フジイケンジ](../Page/藤井謙二.md "wikilink")
@@ -47,7 +47,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録アルバム</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -785,7 +785,7 @@ UMXK-1023（Blu-ray）</p></td>
 <li>激突</li>
 <li>Ave verum</li>
 <li>ETERNAL ROCK'N'ROLL / THE STREET BEATS</li>
-<li>君の心に触れたくて / <a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a>
+<li>君の心に触れたくて / <a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a>
 </div>
 </div></li>
 </ol></td>
@@ -804,10 +804,10 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
 <ol>
 <li>セントレイ / <a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
 <li>ワンダーフォーゲル / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li>虹 / <a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
-<li>センチメント・エキスプレス / <a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
-<li>リライト / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>Discommunication / <a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li>虹 / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
+<li>センチメント・エキスプレス / <a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
+<li>リライト / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>Discommunication / <a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li>CANのジャケットのモンスターみたいのが現れて世界壊しちゃえばいい / <a href="https://ja.wikipedia.org/wiki/The_Mirraz" title="wikilink">The Mirraz</a></li>
 <li>ユキちゃんの遺伝子 / <a href="https://ja.wikipedia.org/wiki/モーモールルギャバン" title="wikilink">モーモールルギャバン</a></li>
 <li>Monkey Discooooooo / <a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
@@ -816,9 +816,9 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
 <li>走れエロス / <a href="https://ja.wikipedia.org/wiki/BIGMAMA" title="wikilink">BIGMAMA</a></li>
 <li>NEVER ENDING STORY / <a href="../Page/Northern19.md" title="wikilink">Northern19</a></li>
 <li>Summer Frequence / <a href="https://ja.wikipedia.org/wiki/TOTALFAT" title="wikilink">TOTALFAT</a></li>
-<li>under the umber shine / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li>AMBITIOUS / <a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
-<li>BANKROBBER / <a href="https://ja.wikipedia.org/wiki/THE_BEACHES" title="wikilink">THE BEACHES</a></li>
+<li>under the umber shine / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li>AMBITIOUS / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
+<li>BANKROBBER / <a href="../Page/THE_BEACHES.md" title="wikilink">THE BEACHES</a></li>
 <li>Human Licence -carnival mix- / <a href="https://ja.wikipedia.org/wiki/a_flood_of_circle" title="wikilink">a flood of circle</a></li>
 <li>バクチダンサー / <a href="https://ja.wikipedia.org/wiki/DOES" title="wikilink">DOES</a></li>
 <li><strong>Party People / The Birthday</strong></li>
@@ -839,17 +839,17 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
 <li><strong>誰かが / The Birthday</strong></li>
 <li>MOTHER / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a></li>
 <li>サーキットの娘 / <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
-<li>くちびるモーション / <a href="https://ja.wikipedia.org/wiki/吉井和哉" title="wikilink">吉井和哉</a></li>
-<li>晴れ女 / <a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li>くちびるモーション / <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a></li>
+<li>晴れ女 / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li>愛のしるし / <a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
 <li>たららん / <a href="../Page/ROLLY.md" title="wikilink">ROLLY</a></li>
-<li>Bye Bye / <a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li>Bye Bye / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li>マイストーリー / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
-<li>渚にまつわるエトセトラ / <a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
+<li>渚にまつわるエトセトラ / <a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
 <li>はさんじゃうぜ / <a href="../Page/ザ・クロマニヨンズ.md" title="wikilink">ザ・クロマニヨンズ</a></li>
 <li>オリエンタル・ダイヤモンド (宅録DEMO音源) / <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li>海へと / <a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a></li>
-<li>これが私の生きる道 / <a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a></li>
+<li>これが私の生きる道 / <a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></li>
 <li>女マシンガン / <a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a></li>
 <li>ジェット警察 / <a href="https://ja.wikipedia.org/wiki/OKAMOTO&#39;S" title="wikilink">OKAMOTO'S</a></li>
 <li>アジアの純真 / <a href="../Page/井上陽水奥田民生.md" title="wikilink">井上陽水奥田民生</a>
@@ -884,7 +884,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
 | **Sheryl (8.3 Live Ver.)**                                                                                            | 岡崎邦彦                                                    |
 | **ハレルヤ (8.3 Live Ver.)**                                                                                              | 岡崎邦彦                                                    |
 | **[カレンダーガール](https://www.youtube.com/watch?v=4LZpsleP0zg)**                                                           | 番場秀一                                                    |
-| **[涙がこぼれそう](https://www.youtube.com/watch?v=7ZkGxAgOhVw)**                                                            | [蜷川実花](https://ja.wikipedia.org/wiki/蜷川実花 "wikilink")   |
+| **[涙がこぼれそう](https://www.youtube.com/watch?v=7ZkGxAgOhVw)**                                                            | [蜷川実花](../Page/蜷川実花.md "wikilink")                      |
 | **[あの娘のスーツケース](https://www.youtube.com/watch?v=s_DIJj9SRzc)**                                                         | 番場秀一                                                    |
 | **マスカレード 38 NIGHTS ON FOOL version**                                                                                  | YOU-DIE                                                 |
 | **[愛でぬりつぶせ](https://www.youtube.com/watch?v=LsR0v2OzUtE)**                                                            | 番場秀一                                                    |
@@ -922,7 +922,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
   - 2008年11月14日・2014年05月30日 - TX「[音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")」
   - 2008年11月22日 - CX「T-ROCKS」
   - 2009年04月01日 - CX「ELVISカムバックスペシャル2009」
-  - 2010年02月20日・2011年06月11日 - TX「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」
+  - 2010年02月20日・2011年06月11日 - TX「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」
   - 2011年05月30日・2012年07月10日 - NTV「[音龍門](https://ja.wikipedia.org/wiki/音龍門 "wikilink")」
   - 2012年06月08日 - TX「[ロック兄弟](https://ja.wikipedia.org/wiki/ロック兄弟 "wikilink")」
   - 2014年04月27日 - NHK「MUSIC JAPAN」
@@ -959,7 +959,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
   - 2006年08月25日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink")★P
   - 2006年09月24日 - SPACE SHOWER [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2006
   - 2007年04月28日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")07
-  - 2007年06月01日 - The Birthday×[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")「SPRING un/desca? ver.69」
+  - 2007年06月01日 - The Birthday×[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")「SPRING un/desca? ver.69」
   - 2007年08月04日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2007
   - 2007年08月18日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2007 in EZO
   - 2007年09月02日 - SPACE SHOWER [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2007
@@ -967,7 +967,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
   - 2008年08月16日 - RISING SUN ROCK FESTIVAL 2008 in EZO
   - 2008年11月23日 - Treasurebox@shibuya extra
   - 2009年07月04日 - [湘南音祭](https://ja.wikipedia.org/wiki/湘南音祭 "wikilink") Vol.3
-  - 2009年07月16日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") presents GG09
+  - 2009年07月16日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") presents GG09
   - 2009年07月18日 - LIVE FACTORY 2009
   - 2009年07月25日 - FUJI ROCK FESTIVAL '09
   - 2009年08月01日 - [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink") 20th Anniversary LATE BLOOMER SERIES 04 "SYNCHRONIZED TOUR"
@@ -997,7 +997,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
   - 2012年09月01日 - [EIKICHI YAZAWA](../Page/矢沢永吉.md "wikilink") 40th ANNIVERSARY LIVE 「BLUE SKY」
   - 2012年09月08日 - BAYCAMP 2012
   - 2012年09月09日 - [OTODAMA](https://ja.wikipedia.org/wiki/OTODAMA_音泉魂 "wikilink")'11-'12 ～音泉魂～
-  - 2012年10月25日 - [PAUL WELLER](https://ja.wikipedia.org/wiki/ポール・ウェラー "wikilink") JAPAN 2012
+  - 2012年10月25日 - [PAUL WELLER](../Page/ポール・ウェラー.md "wikilink") JAPAN 2012
   - 2012年12月29日 - FM802 ROCK FESTIVAL RADIO CRAZY 2012
   - 2013年01月12日 - HYPER SOUND 30th Anniversary 50CLUB
   - 2013年02月11日 - RUDE GALLERY 13th ANNIVERSARY PARTY BLACK RUDE NIGHT
@@ -1011,7 +1011,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
   - 2013年08月17日 - RISING SUN ROCK FESTIVAL 2013 in EZO
   - 2013年08月23日 - LIQUIDROOM 9th ANNIVERSARY presents "UNDER THE INFLUENCE"
   - 2013年09月07日 - BAYCAMP 2013
-  - 2014年03月21日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink") LIVE 2014 TOKYO NIGHT CARNIVAL
+  - 2014年03月21日 - [音楽と人](../Page/音楽と人.md "wikilink") LIVE 2014 TOKYO NIGHT CARNIVAL
   - 2014年04月09日 - 京都磔磔 40周年 Planet"Kyu"
   - 2014年05月17日 - CELLULOID 1st ANNIVERSARY
   - 2014年07月25日 - FUJI ROCK FESTIVAL '14
@@ -1027,7 +1027,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
   - 2014年11月01日 - [京都大学](../Page/京都大学.md "wikilink")西部講堂ライブ
   - 2014年11月30日 - SHINJUKU LOFT 15TH ANNIVERSARY LOFT MUSIC & CULTURE FESTIVAL 2014
   - 2015年01月24日 - うみ・そら・おんがく・おきなわ 2015
-  - 2015年02月10日・12日 - [中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink") 9 Souls -Anniversary of Drums Beast-
+  - 2015年02月10日・12日 - [中村達也](../Page/中村達也_\(ドラマー\).md "wikilink") 9 Souls -Anniversary of Drums Beast-
   - 2015年05月05日 - 越前・アオッサの乱 ～第二戦～
   - 2015年05月23日 - MAZRIの祭 2015 -15th Anniversary Events- 音の祭
   - 2015年05月31日 - [BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink")「FRONT CHAPTER Vol.4」

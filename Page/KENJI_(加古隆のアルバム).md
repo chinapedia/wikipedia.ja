@@ -5,7 +5,7 @@
 
 [1988年](../Page/1988年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に発売され、その後廃盤となっていたが、[2003年](../Page/2003年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")にデビュー30周年を記念して再発売された。
 
-[宮沢賢治](../Page/宮沢賢治.md "wikilink")の諸作品から着想を得て書かれたそれぞれの曲に、作品の朗読を重ねる構成になっており、収録された曲が全て同じテーマで貫かれていることから、アルバム全体が[組曲](https://ja.wikipedia.org/wiki/組曲 "wikilink")的な要素を持っている。ジャケットには宮沢賢治が描いた[水彩画](https://ja.wikipedia.org/wiki/水彩画 "wikilink")「日輪と山」が使用されている。
+[宮沢賢治](../Page/宮沢賢治.md "wikilink")の諸作品から着想を得て書かれたそれぞれの曲に、作品の朗読を重ねる構成になっており、収録された曲が全て同じテーマで貫かれていることから、アルバム全体が[組曲](../Page/組曲.md "wikilink")的な要素を持っている。ジャケットには宮沢賢治が描いた[水彩画](https://ja.wikipedia.org/wiki/水彩画 "wikilink")「日輪と山」が使用されている。
 
 ## 収録曲
 
@@ -14,7 +14,7 @@
 <!-- end list -->
 
   -
-    演奏中に宮沢賢治の[短歌](https://ja.wikipedia.org/wiki/短歌 "wikilink")が朗読される。
+    演奏中に宮沢賢治の[短歌](../Page/短歌.md "wikilink")が朗読される。
 
 <!-- end list -->
 
@@ -50,12 +50,12 @@
 <!-- end list -->
 
   -
-    「[風の又三郎](https://ja.wikipedia.org/wiki/風の又三郎 "wikilink")」より。加古隆の[フリー・ジャズ](https://ja.wikipedia.org/wiki/フリー・ジャズ "wikilink")時代を思わせる演奏と、効果的な[パーカッション](../Page/パーカッション.md "wikilink")により、独特の雰囲気が醸し出されている。
+    「[風の又三郎](../Page/風の又三郎.md "wikilink")」より。加古隆の[フリー・ジャズ](../Page/フリー・ジャズ.md "wikilink")時代を思わせる演奏と、効果的な[パーカッション](../Page/パーカッション.md "wikilink")により、独特の雰囲気が醸し出されている。
 
 <!-- end list -->
 
   - **[グスコーブドリの伝記](../Page/グスコーブドリの伝記.md "wikilink")**
-  - **エピローグ - [注文の多い料理店](https://ja.wikipedia.org/wiki/注文の多い料理店 "wikilink")の“序”**
+  - **エピローグ - [注文の多い料理店](../Page/注文の多い料理店.md "wikilink")の“序”**
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
   - **[ピアノ](../Page/ピアノ.md "wikilink")** 加古隆
   - **[パーカッション](../Page/パーカッション.md "wikilink")** [吉原すみれ](https://ja.wikipedia.org/wiki/吉原すみれ "wikilink")
-  - **[チェロ](../Page/チェロ.md "wikilink")** [溝口肇](https://ja.wikipedia.org/wiki/溝口肇 "wikilink")
+  - **[チェロ](../Page/チェロ.md "wikilink")** [溝口肇](../Page/溝口肇.md "wikilink")
   - **[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")** [篠崎正嗣](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink")
   - **[トロンボーン](../Page/トロンボーン.md "wikilink")** [喜多原和人](https://ja.wikipedia.org/wiki/喜多原和人 "wikilink")
   - **[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")** 篠崎ストリングス

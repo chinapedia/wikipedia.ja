@@ -1,7 +1,7 @@
 > この記事は[KOOLOGI](https://ja.wikipedia.org/wiki/KOOLOGI)から翻訳されています。
 
 
-**KOOLOGI**（コオロギ）は、2002年に[SNAIL RAMPから脱退した](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")**AKIO**が、2004年からスタートさせたソロプロジェクトである。
+**KOOLOGI**（コオロギ）は、2002年に[SNAIL RAMPから脱退した](../Page/SNAIL_RAMP.md "wikilink")**AKIO**が、2004年からスタートさせたソロプロジェクトである。
 
 ## メンバー
 
@@ -13,7 +13,7 @@
   - KATSUYA.N - （ベース）ex.[東京スカンクス](https://ja.wikipedia.org/wiki/東京スカンクス "wikilink")
   - BAGI - （ドラム）ex.[ONE TRACK MIND](../Page/ONE_TRACK_MIND.md "wikilink")
   - JINPEI - （ドラム）
-  - Arimatsu - （ドラム）[特撮](https://ja.wikipedia.org/wiki/特撮_\(バンド\) "wikilink")
+  - Arimatsu - （ドラム）[特撮](../Page/特撮_\(バンド\).md "wikilink")
   - ZAKO - （ゲストボーカル）[ONE TRACK MIND](../Page/ONE_TRACK_MIND.md "wikilink")
 
 ## ディスコグラフィー
@@ -26,7 +26,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -34,7 +34,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
 <td><p><strong>爆音の宝石</strong></p></td>
 <td><p>KLG-001SP</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -71,7 +71,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -79,7 +79,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
 <td><p><strong>篝火-マティダ ブルース-</strong></p></td>
 <td><p>COCP-50826</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -105,7 +105,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td><p><strong>ぶわりと波に鯱</strong></p></td>
 <td><p>COCP-50935</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -116,7 +116,7 @@
 <ol>
 <li>ぶわりと波に鯱～Amazing Bass～</li>
 <li>キリングムード</li>
-<li>Dear Bob　　　アニメ「<a href="https://ja.wikipedia.org/wiki/ウィッチブレイド_(アニメ)" title="wikilink">ウィッチブレイド</a>」オープニングテーマ</li>
+<li>Dear Bob　　　アニメ「<a href="../Page/ウィッチブレイド_(アニメ).md" title="wikilink">ウィッチブレイド</a>」オープニングテーマ</li>
 <li>谺す</li>
 <li>Free Fall</li>
 <li>アトリエ</li>
@@ -148,7 +148,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -156,7 +156,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
 <td><p><strong>ふたりのキスを待つあいだに</strong></p></td>
 <td><p>COBA-50875</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

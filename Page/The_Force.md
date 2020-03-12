@@ -1,11 +1,11 @@
 > この記事は[The Force](https://ja.wikipedia.org/wiki/The_Force)から翻訳されています。
 
 
-『**The Force**』（ザ・フォース）は、[1999年](../Page/1999年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の4枚目のアルバム。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+『**The Force**』（ザ・フォース）は、[1999年](../Page/1999年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の4枚目のアルバム。発売元は[アンティノスレコード](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 概要
 
-  - [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")での累計売上は68.1万枚を記録\[1\]。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の出荷枚数ではミリオンの認定を受けた。
+  - [オリコンチャート](../Page/オリコンチャート.md "wikilink")での累計売上は68.1万枚を記録\[1\]。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の出荷枚数ではミリオンの認定を受けた。
   - タイトルは「力」を意味するが、「4th」即ち4作目のアルバムであることにかけている。
   - ジャケットはデジパック仕様で[観音開き](../Page/観音開き.md "wikilink")になっており、折りたたむと表は[西川貴教](../Page/西川貴教.md "wikilink")が青い空の下の草原に座って微笑んでいる写真、裏は黒ずくめの服を着た西川が足を投げ出している写真であり、観音開きの左側を開くと2人の西川が背中合わせに立っている写真が現れる。壁に掛けるための穴や歌詞カードの代わりに差し替えるための写真が付いていて、CDの盤面とCD収納部に日付や曜日が印刷されており、パッケージ全体をカレンダーとして使う事を意図したデザインである。なお、当時のCMでは、このジャケットを使った間違い探しが行われた。
   - [Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")に対応したCD-EXTRAも封入されており、対応機種のパソコンに挿入すると「[WILD RUSH](https://ja.wikipedia.org/wiki/WILD_RUSH "wikilink")」のPV（一部）が見られるほか、ミニゲームを楽しむことが出来る。なお、発売当時に開設されていた特設サイトへのリンクもあるが、現在は閉鎖されている。
@@ -16,8 +16,8 @@
 ## 収録曲
 
 1.  **[WILD RUSH](https://ja.wikipedia.org/wiki/WILD_RUSH "wikilink") (Album mix)**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
-      - 出版社：[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 出版社：[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")
 2.  **アンタッチャブルGirls (Album mix)**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
@@ -31,7 +31,7 @@
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：[ダーウィン](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")
 6.  **Salsa Bazaar**
-      - 作詞：[麻倉真琴](https://ja.wikipedia.org/wiki/麻倉真琴 "wikilink")　作曲・編曲：浅倉大介
+      - 作詞：[麻倉真琴](../Page/麻倉真琴.md "wikilink")　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
 7.  **AQUALOVERS〜DEEP into the night (Album mix)**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
@@ -70,7 +70,7 @@
   - レコーディング・エンジニア：[香椎茂樹](https://ja.wikipedia.org/wiki/香椎茂樹 "wikilink")、[秋窪博一](https://ja.wikipedia.org/wiki/秋窪博一 "wikilink")
   - ミキシング・エンジニア：[フィル・カッフェル](https://ja.wikipedia.org/wiki/フィル・カッフェル "wikilink")
   - マスタリング・エンジニア：[ブライアン・ガードナー](https://ja.wikipedia.org/wiki/ブライアン・ガードナー "wikilink")
-  - ディレクター：[安部裕子](https://ja.wikipedia.org/wiki/麻倉真琴 "wikilink")
+  - ディレクター：[安部裕子](../Page/麻倉真琴.md "wikilink")
 
 ## 脚注
 

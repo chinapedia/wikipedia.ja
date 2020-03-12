@@ -5,18 +5,18 @@
 
 ## 解説
 
-  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』エンディングテーマ。[明治生命](../Page/明治安田生命保険.md "wikilink")「ライフアカウントL.A.」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で撮影された。意図的に映像を横に乱している映像が多い。
+  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』エンディングテーマ。[明治生命](../Page/明治安田生命保険.md "wikilink")「ライフアカウントL.A.」[CMソング](../Page/コマーシャルソング.md "wikilink")。
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で撮影された。意図的に映像を横に乱している映像が多い。
   - PV及びシングルジャケットの衣装は、空模様のスーツ上下。
   - これまでよりダンスの難易度が高くなり、SAMのスタッフのテストダンスでも「プロが踊り終わって肩で息をしてる」と言われた程だったが、PVなどではきちんと踊りきっている。
-  - [NHK紅白歌合戦に](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦 "wikilink")2度目の出場を果たした。[オリンピックイヤーという事で](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")、ボーカルチームが[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")、ダンサーチームが[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")（半田のみ[田村亮子](https://ja.wikipedia.org/wiki/谷亮子 "wikilink")）の[コスプレ](../Page/コスプレ.md "wikilink")で登場した(コスプレの対象となった人物は、審査員として会場で観覧していた)。[石橋貴明](../Page/石橋貴明.md "wikilink")は紅白で初めて服を着て出場する形になった。
+  - [NHK紅白歌合戦に](../Page/第51回NHK紅白歌合戦.md "wikilink")2度目の出場を果たした。[オリンピックイヤーという事で](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")、ボーカルチームが[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")、ダンサーチームが[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")（半田のみ[田村亮子](../Page/谷亮子.md "wikilink")）の[コスプレ](../Page/コスプレ.md "wikilink")で登場した(コスプレの対象となった人物は、審査員として会場で観覧していた)。[石橋貴明](../Page/石橋貴明.md "wikilink")は紅白で初めて服を着て出場する形になった。
 
 ## 収録曲
 
 1.  Chicken guys
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
-        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")「[撤収](https://ja.wikipedia.org/wiki/撤収_\(アルバム\) "wikilink")」に収録
+        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
+        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")「[撤収](../Page/撤収_\(アルバム\).md "wikilink")」に収録
 2.  Money
       -
         作詞：秋元康、作曲・編曲：後藤次利

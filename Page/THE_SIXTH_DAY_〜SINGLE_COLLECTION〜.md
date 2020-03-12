@@ -6,7 +6,7 @@
 ## 概要
 
   - Gacktとしては、初のベストアルバムで1枚目のシングル・コレクションである。本作品発売から、6年後に2作目のシングルコレクションとなる『[THE ELEVENTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_ELEVENTH_DAY_〜SINGLE_COLLECTION〜 "wikilink")』が発売された。また、付属のブックレットには[東條雅人](https://ja.wikipedia.org/wiki/東條雅人 "wikilink")による文章が掲載されている。
-  - 今回はGacktがソロデビューしてから発表された1stシングル「[Mizérable](https://ja.wikipedia.org/wiki/Mizerable_\(GACKTの曲\) "wikilink")」から16thシングル「[Last Song](https://ja.wikipedia.org/wiki/Last_Song_\(Gacktの曲\) "wikilink")」までのシングルが再収録された。ただし、10thシングル「[12月のLove song](https://ja.wikipedia.org/wiki/12月のLove_song "wikilink")」と12thシングル「[12月のLove song / December Love](https://ja.wikipedia.org/wiki/12月のLove_song "wikilink")」は収録されていない。また、全曲とも本作用にリミックスあるいはリテイクが施されている。
+  - 今回はGacktがソロデビューしてから発表された1stシングル「[Mizérable](https://ja.wikipedia.org/wiki/Mizerable_\(GACKTの曲\) "wikilink")」から16thシングル「[Last Song](https://ja.wikipedia.org/wiki/Last_Song_\(Gacktの曲\) "wikilink")」までのシングルが再収録された。ただし、10thシングル「[12月のLove song](../Page/12月のLove_song.md "wikilink")」と12thシングル「[12月のLove song / December Love](../Page/12月のLove_song.md "wikilink")」は収録されていない。また、全曲とも本作用にリミックスあるいはリテイクが施されている。
 
 ## 収録曲
 
@@ -88,13 +88,13 @@
 ## 参加ミュージシャン
 
   - [Gackt's family](https://ja.wikipedia.org/wiki/Gackt#Gackt_Job "wikilink")
-  - [永井敏己](https://ja.wikipedia.org/wiki/永井敏己 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [永井敏己](https://ja.wikipedia.org/wiki/永井敏己 "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [恩田快人](../Page/恩田快人.md "wikilink") - ベース
   - [CRAZY COOL JOE](https://ja.wikipedia.org/wiki/CRAZY_COOL_JOE "wikilink") - ベース
-  - [チャック・ライト](https://ja.wikipedia.org/wiki/クワイエット・ライオット "wikilink") - ベース
+  - [チャック・ライト](../Page/クワイエット・ライオット.md "wikilink") - ベース
   - [五十嵐公太](../Page/五十嵐公太.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - [マット・ソーラム](https://ja.wikipedia.org/wiki/ヴェルヴェット・リヴォルヴァー "wikilink") - ドラムス
-  - [弦一徹](https://ja.wikipedia.org/wiki/落合徹也 "wikilink") - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
+  - [マット・ソーラム](../Page/ヴェルヴェット・リヴォルヴァー.md "wikilink") - ドラムス
+  - [弦一徹](../Page/落合徹也.md "wikilink") - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
   - [ブルース・ドゥコフ](https://ja.wikipedia.org/wiki/:en:Bruce_Dukov "wikilink") - ヴァイオリン
   - [堀沢真己](https://ja.wikipedia.org/wiki/堀沢真己 "wikilink") - [チェロ](../Page/チェロ.md "wikilink")
   - [塚本周成](https://ja.wikipedia.org/wiki/塚本周成 "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")

@@ -12,7 +12,7 @@
   - 1998年
       - **MSN サーチ**として[Inktomi](https://ja.wikipedia.org/wiki/Inktomi "wikilink")の検索エンジンを利用して立ち上げる。
   - 1999年
-      - 短期間[AltaVista](https://ja.wikipedia.org/wiki/AltaVista "wikilink")の検索エンジンが用いられた後、[Looksmart](https://ja.wikipedia.org/wiki/Looksmart "wikilink")とInktomiエンジンを採用する。
+      - 短期間[AltaVista](../Page/AltaVista.md "wikilink")の検索エンジンが用いられた後、[Looksmart](https://ja.wikipedia.org/wiki/Looksmart "wikilink")とInktomiエンジンを採用する。
   - 2004年
       - Microsoft 製エンジンを搭載したベータ版がリリースされる。
   - 2005年
@@ -31,7 +31,7 @@
 
   - 2009年
       - 5月 - 新しい検索サービスのブランドとして**Bing**を発表\[1\]。翌6月にサービスを開始する。日本語版ではベータ版としてサービスを開始する。
-      - 7月 - 米[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink") と提携。Yahoo\! がウェブ検索に**Bing**の検索エンジンを搭載することを発表\[2\]。12月に最終合意。
+      - 7月 - 米[Yahoo\!](../Page/Yahoo!.md "wikilink") と提携。Yahoo\! がウェブ検索に**Bing**の検索エンジンを搭載することを発表\[2\]。12月に最終合意。
   - 2010年
       - 7月 - Bing日本語版の正式サービスが開始\[3\]。
 

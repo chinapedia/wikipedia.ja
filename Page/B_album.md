@@ -1,7 +1,7 @@
 > この記事は[B album](https://ja.wikipedia.org/wiki/B_album)から翻訳されています。
 
 
-『**B album**』（ビー・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+『**B album**』（ビー・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@ B albumの「B」には、CDジャケットにも記載されている通り「B
 
 ## チャート成績
 
-本作は[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")86.7万枚を記録してミリオンに到達はしていないが、日本レコード協会からは出荷枚数の関係でミリオンの認定を受けている。
+本作は[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")86.7万枚を記録してミリオンに到達はしていないが、日本レコード協会からは出荷枚数の関係でミリオンの認定を受けている。
 
 ## 収録曲
 
@@ -24,17 +24,17 @@ B albumの「B」には、CDジャケットにも記載されている通り「B
 2.  **仮病をつかおう**
     （作詞:戸沢暢美　作曲・編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
 3.  **[愛されるより 愛したい](../Page/愛されるより_愛したい.md "wikilink")**
-    （作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")　コーラスアレンジ:岩田雅之）
+    （作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:岩田雅之）
       -
         2ndシングル。
 4.  **MY WISH** - 堂本光一
-    （作詞・作曲:[堂本光一](../Page/堂本光一.md "wikilink")　編曲:[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")）
+    （作詞・作曲:[堂本光一](../Page/堂本光一.md "wikilink")　編曲:[吉田建](../Page/吉田建.md "wikilink")）
 5.  **愛なんてコトバじゃ言えない**
     （作詞:真名杏樹　作曲・編曲:岩田雅之）
 6.  **ずっと抱きしめたい**
     （作詞:相田毅・[堂本剛](../Page/堂本剛.md "wikilink")　作曲:寺田一郎　編曲:長岡成貢　コーラスアレンジ:松下誠）
 7.  **イノセント・ウォーズ**
-    （作詞:[売野雅勇](https://ja.wikipedia.org/wiki/売野雅勇 "wikilink")　作曲・編曲:[坂本龍一](../Page/坂本龍一.md "wikilink")）
+    （作詞:[売野雅勇](../Page/売野雅勇.md "wikilink")　作曲・編曲:[坂本龍一](../Page/坂本龍一.md "wikilink")）
 8.  **ボーダーライン**
     （作詞:KinKi Kids・相田毅　作曲:[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")）
       -
@@ -46,7 +46,7 @@ B albumの「B」には、CDジャケットにも記載されている通り「B
 11. **このまま手をつないで**
     （作詞:[松本隆](../Page/松本隆.md "wikilink")　作曲：馬飼野康二　編曲:CHOKKAKU　コーラスアレンジ:松下誠）
 12. **[ジェットコースター・ロマンス](../Page/ジェットコースター・ロマンス.md "wikilink")**
-    （作詞:松本隆　作曲:[山下達郎](../Page/山下達郎.md "wikilink")　編曲:[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")）
+    （作詞:松本隆　作曲:[山下達郎](../Page/山下達郎.md "wikilink")　編曲:[船山基紀](../Page/船山基紀.md "wikilink")）
       -
         3rdシングル。
 13. **[硝子の少年](../Page/硝子の少年.md "wikilink")**

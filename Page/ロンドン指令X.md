@@ -13,15 +13,15 @@
 
 ## 技術面
 
-特撮は『[キャプテン・スカーレット](https://ja.wikipedia.org/wiki/キャプテン・スカーレット "wikilink")』から変わらないが、人間の俳優による演技（ライブアクションと呼ぶ）と俳優そっくりに作られた人形による演技とが分担されており、[人形劇](../Page/人形劇.md "wikilink")とライブアクションの過渡的な作品となっているのが特徴である。人形がリアルで俳優そっくりなのは『[海底大戦争 スティングレイ](../Page/海底大戦争_スティングレイ.md "wikilink")』からの流れであり、違和感は小さい。手先の演技のアップに俳優を使う事は以前から行われており、人形劇での演出表現の限界を感じ、そこから脱しようとする意図はその頃からあったものと思われる。等身大のシーンは人間と人形の双方が演じ、小さくなったマシュウが活躍するシーンは、人形を実物（=人間用）のセットで動かしている。マシュウが小さくなるバンクシーンは、アンダーソン作品にしては珍しいハメコミ[合成](https://ja.wikipedia.org/wiki/合成 "wikilink")による（同様の手法が使われている例としては、『[電子戦隊デンジマン](../Page/電子戦隊デンジマン.md "wikilink")』や『[太陽戦隊サンバルカン](../Page/太陽戦隊サンバルカン.md "wikilink")』等で、怪人が巨大化する時が挙げられる）。
+特撮は『[キャプテン・スカーレット](../Page/キャプテン・スカーレット.md "wikilink")』から変わらないが、人間の俳優による演技（ライブアクションと呼ぶ）と俳優そっくりに作られた人形による演技とが分担されており、[人形劇](../Page/人形劇.md "wikilink")とライブアクションの過渡的な作品となっているのが特徴である。人形がリアルで俳優そっくりなのは『[海底大戦争 スティングレイ](../Page/海底大戦争_スティングレイ.md "wikilink")』からの流れであり、違和感は小さい。手先の演技のアップに俳優を使う事は以前から行われており、人形劇での演出表現の限界を感じ、そこから脱しようとする意図はその頃からあったものと思われる。等身大のシーンは人間と人形の双方が演じ、小さくなったマシュウが活躍するシーンは、人形を実物（=人間用）のセットで動かしている。マシュウが小さくなるバンクシーンは、アンダーソン作品にしては珍しいハメコミ[合成](https://ja.wikipedia.org/wiki/合成 "wikilink")による（同様の手法が使われている例としては、『[電子戦隊デンジマン](../Page/電子戦隊デンジマン.md "wikilink")』や『[太陽戦隊サンバルカン](../Page/太陽戦隊サンバルカン.md "wikilink")』等で、怪人が巨大化する時が挙げられる）。
 
 ## キャスト
 
   - スタンレー・アンウィン神父
-    声 - [久松保夫](https://ja.wikipedia.org/wiki/久松保夫 "wikilink")
+    声 - [久松保夫](../Page/久松保夫.md "wikilink")
     ある田舎の教会の神父だが、実はイギリス情報部の諜報部員。マシュウを現場に派遣し、彼に指示を出すのが役目。愛車は黄色の[1917年](../Page/1917年.md "wikilink")[フォード・モデルT](https://ja.wikipedia.org/wiki/フォード・モデルT "wikilink")。
   - マシュウ・ハーディング
-    声 - [堀勝之祐](https://ja.wikipedia.org/wiki/堀勝之祐 "wikilink")
+    声 - [堀勝之祐](../Page/堀勝之祐.md "wikilink")
     教会の若い庭師だが、事件があると神父の手で小さくさせられて活躍する。
   - ビショップ
     声 - [川久保潔](../Page/川久保潔.md "wikilink")
@@ -34,7 +34,7 @@
 
 ## サブタイトルリスト
 
-日本では[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")まで、[NHK総合の](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[少年映画劇場](https://ja.wikipedia.org/wiki/少年映画劇場 "wikilink")』第1部（第2部は『[進めや進め\!スモーキー](https://ja.wikipedia.org/wiki/進めや進め!スモーキー "wikilink")』）で放映されたほか、[スーパー\!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")でも放映されている。
+日本では[1970年](../Page/1970年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")まで、[NHK総合の](../Page/NHK総合テレビジョン.md "wikilink")『[少年映画劇場](https://ja.wikipedia.org/wiki/少年映画劇場 "wikilink")』第1部（第2部は『[進めや進め\!スモーキー](https://ja.wikipedia.org/wiki/進めや進め!スモーキー "wikilink")』）で放映されたほか、[スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")でも放映されている。
 
 <table>
 <thead>
@@ -184,6 +184,6 @@
 
 ## 外部リンク
 
-  - [ロンドン指令X](http://www.superdramatv.com/line/london/) - [スーパー\!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")
+  - [ロンドン指令X](http://www.superdramatv.com/line/london/) - [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")
 
 [Category:イギリスのテレビドラマ](https://ja.wikipedia.org/wiki/Category:イギリスのテレビドラマ "wikilink") [Category:子供向けテレビ番組](https://ja.wikipedia.org/wiki/Category:子供向けテレビ番組 "wikilink") [Category:人形劇番組](https://ja.wikipedia.org/wiki/Category:人形劇番組 "wikilink") [Category:特撮テレビ番組](https://ja.wikipedia.org/wiki/Category:特撮テレビ番組 "wikilink") [Category:SFテレビドラマ](https://ja.wikipedia.org/wiki/Category:SFテレビドラマ "wikilink") [Category:1969年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1969年のテレビドラマ "wikilink") [Category:1960年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1960年代の特撮作品 "wikilink") [Category:アンダーソン作品](https://ja.wikipedia.org/wiki/Category:アンダーソン作品 "wikilink") [Category:ロンドンを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした作品 "wikilink") [Category:人間の巨大化・縮小化を題材とした作品](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材とした作品 "wikilink") [Category:NHK総合テレビジョンの子供向け番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの子供向け番組 "wikilink") [Category:NHK総合テレビジョンのテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのテレビドラマ "wikilink") [Category:1970年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1970年のテレビドラマ "wikilink")

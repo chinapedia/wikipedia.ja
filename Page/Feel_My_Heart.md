@@ -5,11 +5,11 @@
 
 ## 概要
 
-[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")と[ギター](../Page/ギター.md "wikilink")の[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")はこの曲がレコーディングされた時点ではお互い対面すらした事がなかった。
+[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")と[ギター](../Page/ギター.md "wikilink")の[伊藤一朗](../Page/伊藤一朗.md "wikilink")はこの曲がレコーディングされた時点ではお互い対面すらした事がなかった。
 
-[PVの撮影は](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われた。
+[PVの撮影は](../Page/ミュージック・ビデオ.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われた。
 
-発売から1ヶ月後、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演。これがメディア初登場となった。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にDOMINOによってカバーされた（[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")のコンピレーションアルバム『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink") VOL.90』に収録されている。
+発売から1ヶ月後、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演。これがメディア初登場となった。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にDOMINOによってカバーされた（[ユーロビート](../Page/ユーロビート.md "wikilink")のコンピレーションアルバム『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink") VOL.90』に収録されている。
 
 ## 収録曲
 
@@ -17,11 +17,11 @@
 
 1.  **Feel My Heart （ORIGINAL MIX）** \[4:26\]
       -
-        「[ヴァーナル](https://ja.wikipedia.org/wiki/ヴァーナル "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-        [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」1996年8月度[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        「[ヴァーナル](https://ja.wikipedia.org/wiki/ヴァーナル "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+        [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」1996年8月度[エンディングテーマ](../Page/主題歌.md "wikilink")
 2.  **Feel My Heart （DAVE RODGERS EURO MIX）**
       -
-        リミックス：[DAVE RODGERS](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")
+        リミックス：[DAVE RODGERS](../Page/デイブ・ロジャース.md "wikilink")
 3.  **Feel My Heart （CLUB MIX）**
 4.  Feel My Heart （[INSTRUMENTAL](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 

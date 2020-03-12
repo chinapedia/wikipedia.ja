@@ -1,9 +1,9 @@
 > この記事は[W33SA](https://ja.wikipedia.org/wiki/W33SA)から翻訳されています。
 
 
-**W33SA**（ダブリュー さんさん エスエイ）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、後の[京セラ](../Page/京セラ.md "wikilink") [SANYOブランド](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）が開発し、[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[auブランドで販売された](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")（後のau 3G）の携帯電話である。日本初の[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")対応端末として発売された。
+**W33SA**（ダブリュー さんさん エスエイ）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、後の[京セラ](../Page/京セラ.md "wikilink") [SANYOブランド](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）が開発し、[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[auブランドで販売された](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")（後のau 3G）の携帯電話である。日本初の[ワンセグ](../Page/ワンセグ.md "wikilink")対応端末として発売された。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")夏モデルとして、新たなカラーバリエーションとPCサイトビューアーや3D絵文字などが追加されたマイナーチェンジ版の「**W33SA II**」（ダブリュー さんさん エスエイ ツー）も発売された。それと引き換えに旧機種のW33SAは生産打ち切りとなった。
+[2006年](../Page/2006年.md "wikilink")夏モデルとして、新たなカラーバリエーションとPCサイトビューアーや3D絵文字などが追加されたマイナーチェンジ版の「**W33SA II**」（ダブリュー さんさん エスエイ ツー）も発売された。それと引き換えに旧機種のW33SAは生産打ち切りとなった。
 
 ## 特徴
 
@@ -13,7 +13,7 @@
 
 ### テレビ機能
 
-日本で初めて移動体向けの地上デジタル放送「[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")」に対応している。そのため、[SH-Mobile3Aを一部カスタマイズした](../Page/SuperH.md "wikilink")[プロセッサを搭載している](../Page/CPU.md "wikilink")\[2\]。また、メーカーが「ダブル-テレビケータイ」\[3\]と宣伝しているとおり、併せて従来のアナログテレビ放送も受信でき、au端末においてワンセグとアナログの両方に対応している最初で最後の端末となった。
+日本で初めて移動体向けの地上デジタル放送「[ワンセグ](../Page/ワンセグ.md "wikilink")」に対応している。そのため、[SH-Mobile3Aを一部カスタマイズした](../Page/SuperH.md "wikilink")[プロセッサを搭載している](../Page/CPU.md "wikilink")\[2\]。また、メーカーが「ダブル-テレビケータイ」\[3\]と宣伝しているとおり、併せて従来のアナログテレビ放送も受信でき、au端末においてワンセグとアナログの両方に対応している最初で最後の端末となった。
 
 ### オーディオ環境
 
@@ -25,13 +25,13 @@
 
 ### 基本機能
 
-[PTT](https://ja.wikipedia.org/wiki/プッシュ・ツー・トーク "wikilink")「Hello Messenger」や[SD-Audio](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")(AAC)、[FMラジオ](../Page/ラジオ.md "wikilink")、[GPSなど基本機能も充実している](../Page/グローバル・ポジショニング・システム.md "wikilink")。
+[PTT](../Page/プッシュ・ツー・トーク.md "wikilink")「Hello Messenger」や[SD-Audio](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")(AAC)、[FMラジオ](../Page/ラジオ.md "wikilink")、[GPSなど基本機能も充実している](../Page/グローバル・ポジショニング・システム.md "wikilink")。
 
-ユーザーから候補数不足などと指摘されていた[日本語入力システム](../Page/日本語入力システム.md "wikilink")の[Advanced Wnn V2は](https://ja.wikipedia.org/wiki/Wnn "wikilink")、W33SAⅡでAdvanced Wnn αに変更しており、変換辞書が従来のAdvanced Wnnの約8倍の容量に拡張されたという。
+ユーザーから候補数不足などと指摘されていた[日本語入力システム](../Page/日本語入力システム.md "wikilink")の[Advanced Wnn V2は](../Page/Wnn.md "wikilink")、W33SAⅡでAdvanced Wnn αに変更しており、変換辞書が従来のAdvanced Wnnの約8倍の容量に拡張されたという。
 
 ### その他
 
-この機種に取り付けられているワンセグ・アナログ・FM共用ホイップアンテナは、ワンセグ対応機種では唯一可倒式ではない。そのため、他のワンセグ対応機種（[P901iTV](https://ja.wikipedia.org/wiki/P901iTV "wikilink")や[W43SA](https://ja.wikipedia.org/wiki/W43SA "wikilink")など）のアンテナに交換しているユーザーも一部いる。
+この機種に取り付けられているワンセグ・アナログ・FM共用ホイップアンテナは、ワンセグ対応機種では唯一可倒式ではない。そのため、他のワンセグ対応機種（[P901iTV](../Page/P901iTV.md "wikilink")や[W43SA](../Page/W43SA.md "wikilink")など）のアンテナに交換しているユーザーも一部いる。
 
 ## 沿革
 
@@ -39,12 +39,12 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[9月13日](../Page/9月13日.md "wikilink") W33SA、[JATE認定](../Page/電気通信端末機器審査協会.md "wikilink")、通過。
-  - 2005年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") KDDIよりW33SAの開発を発表。この時点では、アナログテレビ受信と[EZ FeliCaに対応するかを検討中であった](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")\[5\]。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[9月13日](../Page/9月13日.md "wikilink") W33SA、[JATE認定](../Page/電気通信端末機器審査協会.md "wikilink")、通過。
+  - 2005年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") KDDIよりW33SAの開発を発表。この時点では、アナログテレビ受信と[EZ FeliCaに対応するかを検討中であった](../Page/EZ_FeliCa.md "wikilink")\[5\]。
   - 2005年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") W33SAの試作機を、[CEATEC JAPAN](https://ja.wikipedia.org/wiki/CEATEC_JAPAN "wikilink") 2005のKDDIブースと[JEITA](../Page/電子情報技術産業協会.md "wikilink")・[NHKブースで展示](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
   - 2005年[10月24日](../Page/10月24日.md "wikilink") KDDI、および三洋電機（大阪）より公式発表。
   - 2005年[12月16日](../Page/12月16日.md "wikilink") 順次発売開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）6月 販売終了。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）6月 販売終了。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）[7月22日](../Page/7月22日.md "wikilink") L800MHz帯（旧800MHz帯・CDMA Band-Class 3）によるサービス停波。以降は利用不可となる。
 
 <!-- end list -->
@@ -61,13 +61,13 @@
 
 ## 対応サービス・機能
 
-  - [EZアプリ (BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")
-  - [EZ「着うたフル」](https://ja.wikipedia.org/wiki/着うたフル "wikilink")
+  - [EZアプリ (BREW)](../Page/BREW.md "wikilink")
+  - [EZ「着うたフル」](../Page/着うたフル.md "wikilink")
   - [EZ「着うた」](../Page/着うた.md "wikilink") （ハイクオリティステレオ対応）
   - [EZ・FM](../Page/EZ・FM.md "wikilink")
-  - [EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")
-  - [EZ助手席ナビ](https://ja.wikipedia.org/wiki/EZ助手席ナビ "wikilink")
-  - [EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")
+  - [EZナビウォーク](../Page/EZナビウォーク.md "wikilink")
+  - [EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")
+  - [EZチャンネル](../Page/EZチャンネル.md "wikilink")
   - [EZテレビ](../Page/EZテレビ.md "wikilink")（ワンセグ・アナログ）
   - Hello Messenger
   - 安心ナビ
@@ -97,7 +97,7 @@
       - マスストレージクラス対応（著作権保護機能付）
   - [SAR値](../Page/電磁波.md "wikilink") 0.465W/kg
 
-## [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")機能
+## [ワンセグ](../Page/ワンセグ.md "wikilink")機能
 
   - 連続視聴可能時間
       - イヤホン出力時：約2時間45分
@@ -105,7 +105,7 @@
   - 静止画キャプチャ
   - 最大約15分の録画(本体メモリのみ。miniSDへの録画は不可)
   - [EPG](../Page/電子番組ガイド.md "wikilink")（EZテレビの[サーバ](../Page/サーバ.md "wikilink")から取得）
-  - [字幕](https://ja.wikipedia.org/wiki/字幕 "wikilink")放送
+  - [字幕](../Page/字幕.md "wikilink")放送
   - [データ放送](../Page/データ放送.md "wikilink")
   - 画面表示切り替え
       - 16:9縮小表示+テレビ操作/データ放送
@@ -120,7 +120,7 @@
   - [au (携帯電話)](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")
   - [三洋電機](../Page/三洋電機.md "wikilink")
   - [京セラ](../Page/京セラ.md "wikilink")
-  - [CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
+  - [CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")
 
 ## 出典
 

@@ -1,7 +1,7 @@
 > この記事は[SPICA](https://ja.wikipedia.org/wiki/SPICA)から翻訳されています。
 
 
-**下館SPICA**（しもだてスピカ）は、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[筑西市](https://ja.wikipedia.org/wiki/筑西市 "wikilink")丙360番地の通称田中町にある複合[ビル](../Page/ビル.md "wikilink")の名称である。[下館駅](https://ja.wikipedia.org/wiki/下館駅 "wikilink")北口に立地する。管理運営は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[下館都市開発](https://ja.wikipedia.org/wiki/下館都市開発 "wikilink")。かつては下館[サティが核店舗であったが](https://ja.wikipedia.org/wiki/サティ_\(チェーンストア\) "wikilink")、現在は筑西市役所本庁舎ともなっている。
+**下館SPICA**（しもだてスピカ）は、[茨城県](../Page/茨城県.md "wikilink")[筑西市](../Page/筑西市.md "wikilink")丙360番地の通称田中町にある複合[ビル](../Page/ビル.md "wikilink")の名称である。[下館駅](../Page/下館駅.md "wikilink")北口に立地する。管理運営は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[下館都市開発](https://ja.wikipedia.org/wiki/下館都市開発 "wikilink")。かつては下館[サティが核店舗であったが](https://ja.wikipedia.org/wiki/サティ_\(チェーンストア\) "wikilink")、現在は筑西市役所本庁舎ともなっている。
 
 ## 歴史・概要
 
@@ -17,7 +17,7 @@
 
 ### 再開業
 
-閉店直後から風俗店がビル内に出店する計画があるとの噂が流れたために市が管財人と協議を行って\[12\]マイカルが所有していたビルの床の持分を購入し\[13\]、国の中心市街地活性化総合支援事業の補助金約1億円を使って再生して\[14\]、2003年（平成15年）7月に下館サティに代わる新たな核店舗として[エコス](https://ja.wikipedia.org/wiki/エコス "wikilink")や[長崎屋](../Page/長崎屋.md "wikilink")が出店して再開業した\[15\]。
+閉店直後から風俗店がビル内に出店する計画があるとの噂が流れたために市が管財人と協議を行って\[12\]マイカルが所有していたビルの床の持分を購入し\[13\]、国の中心市街地活性化総合支援事業の補助金約1億円を使って再生して\[14\]、2003年（平成15年）7月に下館サティに代わる新たな核店舗として[エコス](../Page/エコス.md "wikilink")や[長崎屋](../Page/長崎屋.md "wikilink")が出店して再開業した\[15\]。
 
 しかし、再開業から1年後に書店や衣料品店が閉店し、2006年（平成18年）1月16日にエコスが閉店したため再び食品関連の核店舗が失われることになるなど再開業後の運営は当初から苦戦することになった\[16\]。
 
@@ -37,11 +37,11 @@
 
   - [1991年](../Page/1991年.md "wikilink")（平成3年）5月31日：下館駅前再開発ビル｢スピカ｣オープン\[29\]
   - [2002年](../Page/2002年.md "wikilink")（平成14年）8月末 : 下館サティ、[マイカル](../Page/マイカル.md "wikilink")経営破綻の影響により閉鎖\[30\]\[31\]。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年）7月 : 新たな核店舗として[エコス](https://ja.wikipedia.org/wiki/エコス "wikilink")や[長崎屋](../Page/長崎屋.md "wikilink")が出店して下館スピカとして再開業\[32\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成18年）
-      - 1月16日 : [エコス](https://ja.wikipedia.org/wiki/エコス "wikilink")撤退\[33\]により、地下一階閉鎖。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）7月 : 新たな核店舗として[エコス](../Page/エコス.md "wikilink")や[長崎屋](../Page/長崎屋.md "wikilink")が出店して下館スピカとして再開業\[32\]。
+  - [2005年](../Page/2005年.md "wikilink")（平成18年）
+      - 1月16日 : [エコス](../Page/エコス.md "wikilink")撤退\[33\]により、地下一階閉鎖。
       - 12月 : [サントマト](https://ja.wikipedia.org/wiki/サントマト "wikilink")が出店\[34\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月 : [長崎屋](../Page/長崎屋.md "wikilink")サンバード撤退。
+  - [2006年](../Page/2006年.md "wikilink")8月 : [長崎屋](../Page/長崎屋.md "wikilink")サンバード撤退。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
       - 3月 : 3階と4階が筑西市役所スピカ分庁舎に\[35\]。
       - 4月 : サントマトが撤退\[36\]。
@@ -110,7 +110,7 @@
 28.
 29.
 30.
-31. [JR高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")[本庄駅](https://ja.wikipedia.org/wiki/本庄駅 "wikilink")南口（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[本庄市](../Page/本庄市.md "wikilink")）にあったサティ本庄店も同時期に閉鎖。[本庄BLALA](../Page/本庄BLALA.md "wikilink")として再びオープンされ現在に至る。
+31. [JR高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")[本庄駅](https://ja.wikipedia.org/wiki/本庄駅 "wikilink")南口（[埼玉県](../Page/埼玉県.md "wikilink")[本庄市](../Page/本庄市.md "wikilink")）にあったサティ本庄店も同時期に閉鎖。[本庄BLALA](../Page/本庄BLALA.md "wikilink")として再びオープンされ現在に至る。
 32.
 33.
 34.

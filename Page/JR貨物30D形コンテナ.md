@@ -13,7 +13,7 @@
 
 ## 製作状況・現況
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）に[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")和歌山製作所にて100個製造された。[2013年](../Page/2013年.md "wikilink")（平成25年）度に総合車輛製作所和歌山事業所にて101以降の番号が増備されている。
+[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）に[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")和歌山製作所にて100個製造された。[2013年](../Page/2013年.md "wikilink")（平成25年）度に総合車輛製作所和歌山事業所にて101以降の番号が増備されている。
 
 2016年（平成28年）5月現在、205個が保有されている。 2019年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）7月現在、アスベスト含有の1-100迄の廃棄処分が進んでいる。
 

@@ -5,7 +5,7 @@
 
 **JR貨物20A形コンテナ**（JRかもつ20Aがたコンテナ）とは、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）に[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")大阪製作所にて1個のみ試作製造した12[ft](../Page/フィート.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")である。
 
-天井開きの試作コンテナとして登場し、現在まで1個のみの存在である。また全高が高い[ハイキューブコンテナ](https://ja.wikipedia.org/wiki/ハイキューブコンテナ "wikilink")のため、低床である[コキ100系列貨車専用となっている](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車 "wikilink")。
+天井開きの試作コンテナとして登場し、現在まで1個のみの存在である。また全高が高い[ハイキューブコンテナ](https://ja.wikipedia.org/wiki/ハイキューブコンテナ "wikilink")のため、低床である[コキ100系列貨車専用となっている](../Page/JR貨物コキ100系貨車.md "wikilink")。
 
 [2014年](../Page/2014年.md "wikilink")（平成26年）1月に用途廃止となった。
 

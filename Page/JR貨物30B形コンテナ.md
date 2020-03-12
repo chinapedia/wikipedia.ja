@@ -7,7 +7,7 @@
 
 両側側扉・片側妻扉の三方開きとなり、外法寸法は高さ2,500[mm](../Page/ミリメートル.md "wikilink")、幅2,490mm、長さ6,058mm、自重3.5[t](../Page/トン.md "wikilink")。内容積は30.4[m<sup>3</sup>](../Page/立方メートル.md "wikilink")、最大積載量は8.8t。
 
-外観は[19B形と同様のフロンティアレッド一色塗りである](../Page/JR貨物19B形コンテナ.md "wikilink")。側面には[梅田](https://ja.wikipedia.org/wiki/梅田信号場 "wikilink")・[大阪（貨）](https://ja.wikipedia.org/wiki/大阪貨物ターミナル駅 "wikilink") - [札幌（貨）専用の運用表記があるが](https://ja.wikipedia.org/wiki/札幌貨物ターミナル駅 "wikilink")、この区間以外で使用されているものもある。
+外観は[19B形と同様のフロンティアレッド一色塗りである](../Page/JR貨物19B形コンテナ.md "wikilink")。側面には[梅田](https://ja.wikipedia.org/wiki/梅田信号場 "wikilink")・[大阪（貨）](../Page/大阪貨物ターミナル駅.md "wikilink") - [札幌（貨）専用の運用表記があるが](../Page/札幌貨物ターミナル駅.md "wikilink")、この区間以外で使用されているものもある。
 
 ## 現状
 

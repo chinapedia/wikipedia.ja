@@ -94,17 +94,17 @@
 
 ### その他
 
-  - 映画『[夢二人形](https://ja.wikipedia.org/wiki/夢二人形 "wikilink")』 （1998年） - [山崎達璽](https://ja.wikipedia.org/wiki/山崎達璽 "wikilink")監督。音楽を担当。
-  - 映画『三面夢姿繪―みつおもてゆめのすがたえ―』 （2000年） - [山崎達璽](https://ja.wikipedia.org/wiki/山崎達璽 "wikilink")監督。音楽を担当。
+  - 映画『[夢二人形](../Page/夢二人形.md "wikilink")』 （1998年） - [山崎達璽](../Page/山崎達璽.md "wikilink")監督。音楽を担当。
+  - 映画『三面夢姿繪―みつおもてゆめのすがたえ―』 （2000年） - [山崎達璽](../Page/山崎達璽.md "wikilink")監督。音楽を担当。
   - 映画『あの日、忘れた、想い出。 』 （2000年） - 音楽を担当。
-  - JAZZTRONIK presents MIHONOVA. （2003年1月16日） - [唐沢美帆](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")のアルバムをプロデュース。
+  - JAZZTRONIK presents MIHONOVA. （2003年1月16日） - [唐沢美帆](../Page/唐沢美帆.md "wikilink")のアルバムをプロデュース。
   - [TRIBUTE TO YMO](../Page/TRIBUTE_TO_YMO.md "wikilink")（2004年） - 「BEHIND THE MASK」で参加
   - ドラマ『未来講師めぐる』（2008年）－ 挿入曲担当
-  - 映画『[宮城野](https://ja.wikipedia.org/wiki/宮城野_\(映画\) "wikilink") 』（2008年） - [山崎達璽](https://ja.wikipedia.org/wiki/山崎達璽 "wikilink")監督。音楽を担当。ディレクターズカット版も製作される。
+  - 映画『[宮城野](https://ja.wikipedia.org/wiki/宮城野_\(映画\) "wikilink") 』（2008年） - [山崎達璽](../Page/山崎達璽.md "wikilink")監督。音楽を担当。ディレクターズカット版も製作される。
   - 単発ドラマ『[リアル・クローズ](https://ja.wikipedia.org/wiki/リアル・クローズ "wikilink")』（2008年）－ メイン・テーマ担当。
   - 連続ドラマ『リアル・クローズ』（2009年）－ メイン・テーマ、劇伴担当。
   - 連続ドラマ『[逃亡弁護士](https://ja.wikipedia.org/wiki/逃亡弁護士_成田誠#テレビドラマ "wikilink")』（2010年） - 音楽担当。
-  - [NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「[サタデースポーツ](../Page/サタデースポーツ.md "wikilink")&[サンデースポーツ](../Page/サンデースポーツ.md "wikilink")」（2011年） - 共通のメインテーマ「Walk ON」作曲
+  - [NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")「[サタデースポーツ](../Page/サタデースポーツ.md "wikilink")&[サンデースポーツ](../Page/サンデースポーツ.md "wikilink")」（2011年） - 共通のメインテーマ「Walk ON」作曲
   - 連続ドラマ『[ファースト・クラス](https://ja.wikipedia.org/wiki/ファーストクラス_\(テレビドラマ\) "wikilink")』（2014年） - 音楽担当。
 
 ### 主なリミックス作品
@@ -136,7 +136,7 @@
 
 <!-- end list -->
 
-  - [キタキマユ](https://ja.wikipedia.org/wiki/キタキマユ "wikilink")「ナカナイデ」（2001年10月24日）
+  - [キタキマユ](../Page/キタキマユ.md "wikilink")「ナカナイデ」（2001年10月24日）
 
 <!-- end list -->
 
@@ -163,7 +163,7 @@
 
 <!-- end list -->
 
-  - [唐沢美帆](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")「sparkle」（2002年3月6日）
+  - [唐沢美帆](../Page/唐沢美帆.md "wikilink")「sparkle」（2002年3月6日）
 
 <!-- end list -->
 
@@ -181,7 +181,7 @@
 
 <!-- end list -->
 
-  - [Reggae Disco Rockers](https://ja.wikipedia.org/wiki/Reggae_Disco_Rockers "wikilink")「Reggae Disco Rockers Remixes Chapter 1」（2002年7月10日）
+  - [Reggae Disco Rockers](../Page/Reggae_Disco_Rockers.md "wikilink")「Reggae Disco Rockers Remixes Chapter 1」（2002年7月10日）
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@
 
 <!-- end list -->
 
-  - [PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")「PE’Z COLOR Vol.1」（2004年3月24日）
+  - [PE'Z](../Page/PE'Z.md "wikilink")「PE’Z COLOR Vol.1」（2004年3月24日）
 
 <!-- end list -->
 
@@ -307,7 +307,7 @@
 
 <!-- end list -->
 
-  - [Rhymescientist](https://ja.wikipedia.org/wiki/Rhymescientist "wikilink")「Real Thing」（2006年7月19日）
+  - [Rhymescientist](../Page/Rhymescientist.md "wikilink")「Real Thing」（2006年7月19日）
 
 <!-- end list -->
 
@@ -316,7 +316,7 @@
 
 <!-- end list -->
 
-  - [有坂美香](https://ja.wikipedia.org/wiki/有坂美香 "wikilink")「TV Song Book 1999-2006」（2006年10月25日）
+  - [有坂美香](../Page/有坂美香.md "wikilink")「TV Song Book 1999-2006」（2006年10月25日）
 
 <!-- end list -->
 
@@ -362,8 +362,8 @@
 
 ## 関連項目
 
-  - [ストリーム](https://ja.wikipedia.org/wiki/ストリーム_\(TBSラジオ\) "wikilink")（[TBSラジオの番組](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")。野崎がテーマ曲を作曲）
-  - [トンガリキッズ](https://ja.wikipedia.org/wiki/トンガリキッズ "wikilink")
+  - [ストリーム](../Page/ストリーム_\(TBSラジオ\).md "wikilink")（[TBSラジオの番組](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")。野崎がテーマ曲を作曲）
+  - [トンガリキッズ](../Page/トンガリキッズ.md "wikilink")
 
 ## 外部リンク
 

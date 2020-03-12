@@ -3,7 +3,7 @@
 
 **JR貨物20B形コンテナ**（JRかもつ20Bがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が224個を配備し、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）2月に運用が開始された12[ft](../Page/フィート.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")である。
 
-従来のコンテナよりも高さが高く、[車両限界](https://ja.wikipedia.org/wiki/車両限界 "wikilink")の関係から[コキ100系貨車限定となっている](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車 "wikilink")。 しかし車両限界に余裕のある線区では、まれに[コキ50000形に積載されることもあった](https://ja.wikipedia.org/wiki/国鉄コキ50000形貨車 "wikilink")。
+従来のコンテナよりも高さが高く、[車両限界](https://ja.wikipedia.org/wiki/車両限界 "wikilink")の関係から[コキ100系貨車限定となっている](../Page/JR貨物コキ100系貨車.md "wikilink")。 しかし車両限界に余裕のある線区では、まれに[コキ50000形に積載されることもあった](../Page/国鉄コキ50000形貨車.md "wikilink")。
 
 ## 構造
 

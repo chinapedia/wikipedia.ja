@@ -1,15 +1,15 @@
 > この記事は[View](https://ja.wikipedia.org/wiki/View)から翻訳されています。
 
 
-**Viewフォント**（**ビューフォント**）は、株式会社[モリサワ](../Page/モリサワ.md "wikilink")が販売していた[フォント](../Page/フォント.md "wikilink")。[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ATMフォント](https://ja.wikipedia.org/wiki/ATMフォント "wikilink")であり、Windows環境から同社の[Macintosh](../Page/Macintosh.md "wikilink")用[PostScriptフォント](https://ja.wikipedia.org/wiki/PostScriptフォント "wikilink")を仮想的に使用できる機能をもっていた。
+**Viewフォント**（**ビューフォント**）は、株式会社[モリサワ](../Page/モリサワ.md "wikilink")が販売していた[フォント](../Page/フォント.md "wikilink")。[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ATMフォント](https://ja.wikipedia.org/wiki/ATMフォント "wikilink")であり、Windows環境から同社の[Macintosh](../Page/Macintosh.md "wikilink")用[PostScriptフォント](../Page/PostScriptフォント.md "wikilink")を仮想的に使用できる機能をもっていた。
 
 ## 背景
 
-[DTP](../Page/DTP.md "wikilink")においてはMacintoshが標準であり、日本語PostScript (PS) フォントの市場ではモリサワが[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")の座を占めていた。そのような事情からDTPの現場では同社のフォントを使用せざるを得ずWindowsシステムでの需要も多かったが、Windowsでは[TrueType](https://ja.wikipedia.org/wiki/TrueType "wikilink")の使用がメインであったためそのまま移植するのは困難であった。
+[DTP](../Page/DTP.md "wikilink")においてはMacintoshが標準であり、日本語PostScript (PS) フォントの市場ではモリサワが[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")の座を占めていた。そのような事情からDTPの現場では同社のフォントを使用せざるを得ずWindowsシステムでの需要も多かったが、Windowsでは[TrueType](../Page/TrueType.md "wikilink")の使用がメインであったためそのまま移植するのは困難であった。
 
 ## 概要
 
-Viewフォントは、そういった需要に応えるために、Windows向けの[ATMフォント](https://ja.wikipedia.org/wiki/ATMフォント "wikilink")として開発された。販売開始は[1999年](../Page/1999年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")。同社のNew-CIDフォントと同一のフォント名を持っているため、プリンタで置き換えての出力が可能という仕様になっている。これにより、Windows機の画面上で[リュウミン](https://ja.wikipedia.org/wiki/リュウミン "wikilink")や[新ゴ](https://ja.wikipedia.org/wiki/新ゴ "wikilink")などの書体を正しい字形で確認し、それらのフォントが搭載されたPostScriptプリンタから出力することができるようになり、Windows DTPの一角を担うこととなった。[Adobe Font Metricsを用いた](../Page/Adobe_Font_Metrics.md "wikilink")[仮想フォント](https://ja.wikipedia.org/wiki/仮想フォント "wikilink")環境と似ているが、いくつかの点で異なる。
+Viewフォントは、そういった需要に応えるために、Windows向けの[ATMフォント](https://ja.wikipedia.org/wiki/ATMフォント "wikilink")として開発された。販売開始は[1999年](../Page/1999年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")。同社のNew-CIDフォントと同一のフォント名を持っているため、プリンタで置き換えての出力が可能という仕様になっている。これにより、Windows機の画面上で[リュウミン](../Page/リュウミン.md "wikilink")や[新ゴ](../Page/新ゴ.md "wikilink")などの書体を正しい字形で確認し、それらのフォントが搭載されたPostScriptプリンタから出力することができるようになり、Windows DTPの一角を担うこととなった。[Adobe Font Metricsを用いた](../Page/Adobe_Font_Metrics.md "wikilink")[仮想フォント](https://ja.wikipedia.org/wiki/仮想フォント "wikilink")環境と似ているが、いくつかの点で異なる。
 
 ## 仕様
 
@@ -28,7 +28,7 @@ Viewフォントは、そういった需要に応えるために、Windows向け
 <!-- end list -->
 
   -
-    ※Viewフォントの[文字セット](https://ja.wikipedia.org/wiki/文字セット "wikilink")は`90ms-RKSJ-H`と`90ms-RKSJ-V`、対してMacintosh版PSフォントは`83pv-RKSJ-H`であったため、別OSに[組版](https://ja.wikipedia.org/wiki/組版 "wikilink")データを移動する場合にはフォントの置き換え作業が必要だった。
+    ※Viewフォントの[文字セット](https://ja.wikipedia.org/wiki/文字セット "wikilink")は`90ms-RKSJ-H`と`90ms-RKSJ-V`、対してMacintosh版PSフォントは`83pv-RKSJ-H`であったため、別OSに[組版](../Page/組版.md "wikilink")データを移動する場合にはフォントの置き換え作業が必要だった。
 
 その他注意点
 

@@ -1,13 +1,13 @@
 > この記事は[Publishing TeX](https://ja.wikipedia.org/wiki/Publishing_TeX)から翻訳されています。
 
 
-**Publishing ** (**Publishing TeX**) は、[日本語](../Page/日本語.md "wikilink")用の機能を追加した [](../Page/TeX.md "wikilink") の一種で、通常 **** (**pTeX**) と表記される。当初[アスキーが開発していたが](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")、現在は日本語コミュニティが[フォークして開発を継続している](https://ja.wikipedia.org/wiki/フォーク_\(ソフトウェア開発\) "wikilink")\[1\]\[2\]。本記事では****に関しても併せて説明する。
+**Publishing ** (**Publishing TeX**) は、[日本語](../Page/日本語.md "wikilink")用の機能を追加した [](../Page/TeX.md "wikilink") の一種で、通常 **** (**pTeX**) と表記される。当初[アスキーが開発していたが](../Page/アスキー_\(企業\).md "wikilink")、現在は日本語コミュニティが[フォークして開発を継続している](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")\[1\]\[2\]。本記事では****に関しても併せて説明する。
 
 ## 歴史
 
 ### アスキー日本語と
 
-は[組版](https://ja.wikipedia.org/wiki/組版 "wikilink")処理を行う[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、[ソースコード](../Page/ソースコード.md "wikilink")も公開されている。そのため、誰でも改良を加えることができる。英語圏で開発された  を日本語に対応させる試みはいくつかあって、[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink") によるもの (NTT ) や、[アスキーによるもの](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")（アスキー日本語 ）が代表的であった。互換性を維持するなどの技術的な理由で、当初はどちらも[縦組み](https://ja.wikipedia.org/wiki/縦組み "wikilink")の文章を組版できなかった。
+は[組版](../Page/組版.md "wikilink")処理を行う[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、[ソースコード](../Page/ソースコード.md "wikilink")も公開されている。そのため、誰でも改良を加えることができる。英語圏で開発された  を日本語に対応させる試みはいくつかあって、[NTT](../Page/日本電信電話.md "wikilink") によるもの (NTT ) や、[アスキーによるもの](../Page/アスキー_\(企業\).md "wikilink")（アスキー日本語 ）が代表的であった。互換性を維持するなどの技術的な理由で、当初はどちらも[縦組み](https://ja.wikipedia.org/wiki/縦組み "wikilink")の文章を組版できなかった。
 
 このような状況の中で、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にアスキーは  の改造を進めて縦組みにも対応させ、これを機にその名称を “” (Publishing ) に改めた。
 
@@ -54,7 +54,7 @@
 
       - [The  Catalogue OnLine, Entry for , Ctan Edition](https://www.ctan.org/tex-archive/help/Catalogue/entries/ptex.html)（[Ring Server によるミラーリング](http://www.ring.gr.jp/pub/text/CTAN/help/Catalogue/entries/ptex.html)）
 
-  - [Cloud LaTeX](https://cloudlatex.io) [株式会社アカリクが運営する](https://ja.wikipedia.org/wiki/アカリク "wikilink")、Web 上で  をコンパイルできるサービス
+  - [Cloud LaTeX](https://cloudlatex.io) [株式会社アカリクが運営する](../Page/アカリク.md "wikilink")、Web 上で  をコンパイルできるサービス
 
 [Category:DTP](https://ja.wikipedia.org/wiki/Category:DTP "wikilink") [Category:TeX](https://ja.wikipedia.org/wiki/Category:TeX "wikilink") [Category:アスキー・メディアワークス](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークス "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
 

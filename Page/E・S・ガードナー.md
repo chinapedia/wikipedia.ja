@@ -1,7 +1,7 @@
 > この記事は[ES](https://ja.wikipedia.org/wiki/ES)から翻訳されています。
 
 
-**アール・スタンリー・ガードナー**（**Erle Stanley Gardner**、[1889年](../Page/1889年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[モールデン](https://ja.wikipedia.org/wiki/モールデン_\(マサチューセッツ州\) "wikilink") (Malden) 生まれの[推理作家](../Page/推理作家.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。ミドルネームは**スタンレー**、**スタンリ**、**スタンレイ**などの表記もある。
+**アール・スタンリー・ガードナー**（**Erle Stanley Gardner**、[1889年](../Page/1889年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [1970年](../Page/1970年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[モールデン](https://ja.wikipedia.org/wiki/モールデン_\(マサチューセッツ州\) "wikilink") (Malden) 生まれの[推理作家](../Page/推理作家.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。ミドルネームは**スタンレー**、**スタンリ**、**スタンレイ**などの表記もある。
 
 法廷弁護士「[ペリー・メイスン](https://ja.wikipedia.org/wiki/ペリー・メイスン "wikilink")」シリーズの作者として知られる。同シリーズの長編82冊の他に、小説以外のものも含め、彼の作品は約900編に及ぶ。
 
@@ -17,7 +17,7 @@
 
 [1937年](../Page/1937年.md "wikilink")、カリフォルニア州[テメキュラへ転居し](https://ja.wikipedia.org/wiki/テメキュラ_\(カリフォルニア州\) "wikilink")、1970年3月11日に死去するまで、生涯をそこで過ごした。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、長年にわたり[秘書](https://ja.wikipedia.org/wiki/秘書 "wikilink")を務めていたアグネス・ジーン・ベセル (Agnes Jean Bethell) と結婚した。
+[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、長年にわたり[秘書](../Page/秘書.md "wikilink")を務めていたアグネス・ジーン・ベセル (Agnes Jean Bethell) と結婚した。
 
 弁護士業の傍ら、様々なペンネームを用いて[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")に短編小説を書き始め、『ブリーズィ・ストーリイズ』誌1921年6月号に掲載された短編「The Police of the House」でデビューする。
 
@@ -42,7 +42,7 @@
   - 屠所の羊 *The Bigger They Come* （1939年）
       -
         『ボスを倒せ』[宇野利泰](https://ja.wikipedia.org/wiki/宇野利泰 "wikilink")訳 六興・出版部 1957年 のち[新潮文庫](../Page/新潮文庫.md "wikilink")
-        [田村隆一](https://ja.wikipedia.org/wiki/田村隆一 "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1961年 のち文庫
+        [田村隆一](../Page/田村隆一.md "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1961年 のち文庫
   - ラム君、奮闘す *Turn On the Heat* （1940年）
       -
         [三田村裕](https://ja.wikipedia.org/wiki/三田村裕 "wikilink")訳 早川書房 1962年 のち文庫　
@@ -54,7 +54,7 @@
         砧一郎訳 早川書房 1960年
   - 倍額保険 *Double Or Quits* （1941年）
       -
-        [田中小実昌](https://ja.wikipedia.org/wiki/田中小実昌 "wikilink")訳 早川書房 1960年
+        [田中小実昌](../Page/田中小実昌.md "wikilink")訳 早川書房 1960年
   - 梟はまばたきしない *Owls Don't Blink* （1942年）
       -
         田中小実昌訳 早川書房 1960年
@@ -211,8 +211,8 @@
       -
         [平井イサク](https://ja.wikipedia.org/wiki/平井イサク "wikilink")訳 早川書房 1955年
         小西宏訳 [創元推理文庫](https://ja.wikipedia.org/wiki/創元推理文庫 "wikilink") 1964年
-  - 腹の空いた馬 [常盤新平](https://ja.wikipedia.org/wiki/常盤新平 "wikilink")訳 早川書房 1958年
-  - 最後の法廷 [新庄哲夫](https://ja.wikipedia.org/wiki/新庄哲夫 "wikilink")訳 早川書房 1959年
+  - 腹の空いた馬 [常盤新平](../Page/常盤新平.md "wikilink")訳 早川書房 1958年
+  - 最後の法廷 [新庄哲夫](../Page/新庄哲夫.md "wikilink")訳 早川書房 1959年
   - 最後の法廷 続 新庄哲夫訳 早川書房 1959年
   - 忘れられた殺人
       -
@@ -221,7 +221,7 @@
   - おせっかいな潮 尾坂力訳 早川書房 1961年
   - 牝牛は鈴を鳴らす [船戸牧子](https://ja.wikipedia.org/wiki/船戸牧子 "wikilink")訳 早川書房 1961年
   - 地獄の扉を打ち破れ [井上一夫](https://ja.wikipedia.org/wiki/井上一夫 "wikilink")訳 早川書房 1962年
-  - けむるランプ [常盤新平](https://ja.wikipedia.org/wiki/常盤新平 "wikilink")訳 早川書房 1963年
+  - けむるランプ [常盤新平](../Page/常盤新平.md "wikilink")訳 早川書房 1963年
   - 叫ぶ燕 [尾坂力](https://ja.wikipedia.org/wiki/尾坂力 "wikilink")訳 早川書房 1976年
   - ガードナー傑作集 [各務三郎](https://ja.wikipedia.org/wiki/各務三郎 "wikilink")編 [池央耿](https://ja.wikipedia.org/wiki/池央耿 "wikilink")訳 番町書房 1977年4月
 

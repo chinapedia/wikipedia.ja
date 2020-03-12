@@ -1,7 +1,7 @@
 > この記事は[M-stage](https://ja.wikipedia.org/wiki/M-stage)から翻訳されています。
 
 
-**M-stage** (エムステージ) は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と旧ドコモグループ各社が[mova](https://ja.wikipedia.org/wiki/mova "wikilink")・[DoPa](https://ja.wikipedia.org/wiki/DoPa "wikilink")・[ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")・[FOMA](../Page/FOMA.md "wikilink")（以下、総称して「通信機器」）で提供していた[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")マルチメディア機器を対象にしたコンテンツ情報配信サービス群の総称である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月を以て一部を除き終了している。
+**M-stage** (エムステージ) は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と旧ドコモグループ各社が[mova](https://ja.wikipedia.org/wiki/mova "wikilink")・[DoPa](https://ja.wikipedia.org/wiki/DoPa "wikilink")・[ドコモPHS](../Page/ドコモPHS.md "wikilink")・[FOMA](../Page/FOMA.md "wikilink")（以下、総称して「通信機器」）で提供していた[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")マルチメディア機器を対象にしたコンテンツ情報配信サービス群の総称である。[2005年](../Page/2005年.md "wikilink")6月を以て一部を除き終了している。
 
 ## サービスの概要
 
@@ -13,17 +13,17 @@
 
 ### mopera位置情報サービス
 
-ブラウザホン（PHS）[メニューサイトやPDAの地図コンテンツなどで](https://ja.wikipedia.org/wiki/公式サイト_\(携帯電話\) "wikilink")、端末が通信している基地局の位置を送信し、おおよその現在地を表示させるサービス。PHS端末所在地（基地局）周辺地図をファクシミリやWeb上で通知する「[いまどこサービス](https://ja.wikipedia.org/wiki/いまどこサービス "wikilink")（現在の[イマドコサーチ](https://ja.wikipedia.org/wiki/イマドコサーチ "wikilink")）」を応用したサービスである。後述のインフォゲートへの統合を機に「M-stage位置情報サービス」となったが、2004年3月末で終了。
+ブラウザホン（PHS）[メニューサイトやPDAの地図コンテンツなどで](../Page/公式サイト_\(携帯電話\).md "wikilink")、端末が通信している基地局の位置を送信し、おおよその現在地を表示させるサービス。PHS端末所在地（基地局）周辺地図をファクシミリやWeb上で通知する「[いまどこサービス](https://ja.wikipedia.org/wiki/いまどこサービス "wikilink")（現在の[イマドコサーチ](https://ja.wikipedia.org/wiki/イマドコサーチ "wikilink")）」を応用したサービスである。後述のインフォゲートへの統合を機に「M-stage位置情報サービス」となったが、2004年3月末で終了。
 
 ### M-stage visual
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Eggy.jpg "wikilink")
 
-  - 対応機種は[eggy](https://ja.wikipedia.org/wiki/eggy "wikilink")(P-in Comp@ct利用または[ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")をケーブル接続)・[musea](https://ja.wikipedia.org/wiki/musea "wikilink")・[FOMA SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")・[Lookwalk P751v](https://ja.wikipedia.org/wiki/Lookwalk_P751v "wikilink")。[FOMA P2101VにおいてはFOMA試験サービス時に対応していたが](https://ja.wikipedia.org/wiki/P2101V "wikilink")、「接続時間が長いのが問題」となり、商用サービス開始時には非対応となった。
+  - 対応機種は[eggy](https://ja.wikipedia.org/wiki/eggy "wikilink")(P-in Comp@ct利用または[ドコモPHS](../Page/ドコモPHS.md "wikilink")をケーブル接続)・[musea](https://ja.wikipedia.org/wiki/musea "wikilink")・[FOMA SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")・[Lookwalk P751v](https://ja.wikipedia.org/wiki/Lookwalk_P751v "wikilink")。[FOMA P2101VにおいてはFOMA試験サービス時に対応していたが](https://ja.wikipedia.org/wiki/P2101V "wikilink")、「接続時間が長いのが問題」となり、商用サービス開始時には非対応となった。
 
-2000年12月に対応端末eggyの発売に合わせて開始された動画配信サービスである。[PVや映画の](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[予告編](https://ja.wikipedia.org/wiki/予告編 "wikilink")・ニュース映像・[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")を中心に、多彩な動画コンテンツが無料有料問わず用意されており、mopera網へ[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")による64k[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")で接続し、[MPEG4](https://ja.wikipedia.org/wiki/MPEG4 "wikilink")(3GP)動画を[ストリーミング](../Page/ストリーミング.md "wikilink")配信する形態だった。インフォゲート統合前までの利用料は月200円で、有料コンテンツ利用分が別途課金される。
+2000年12月に対応端末eggyの発売に合わせて開始された動画配信サービスである。[PVや映画の](../Page/ミュージック・ビデオ.md "wikilink")[予告編](../Page/予告編.md "wikilink")・ニュース映像・[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")を中心に、多彩な動画コンテンツが無料有料問わず用意されており、mopera網へ[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")による64k[データ通信](../Page/データ通信.md "wikilink")で接続し、[MPEG4](https://ja.wikipedia.org/wiki/MPEG4 "wikilink")(3GP)動画を[ストリーミング](../Page/ストリーミング.md "wikilink")配信する形態だった。インフォゲート統合前までの利用料は月200円で、有料コンテンツ利用分が別途課金される。
 
-サービスの開始から1年弱後の2002年にFOMAで[パケット交換](https://ja.wikipedia.org/wiki/パケット交換 "wikilink")方式による[iモーション](https://ja.wikipedia.org/wiki/iモーション "wikilink")が開始されたが、こちらは[パケット定額制](https://ja.wikipedia.org/wiki/パケット定額制 "wikilink")サービスが導入されておらず（パケットパックのみ）、2004年の[900i](https://ja.wikipedia.org/wiki/900i "wikilink")シリーズ発売まで30秒程度の動画しか再生出来なかった事、どちらも従量制の通信費が嵩む点から苦戦を強いられた。2003年4月にPHSのデータ通信定額制サービス「[@FreeD](../Page/アットフリード.md "wikilink")」が開始されたものの、[eggy](https://ja.wikipedia.org/wiki/eggy "wikilink")は@FreeDには非対応のままであった。2004年3月末にサービス終了。
+サービスの開始から1年弱後の2002年にFOMAで[パケット交換](https://ja.wikipedia.org/wiki/パケット交換 "wikilink")方式による[iモーション](https://ja.wikipedia.org/wiki/iモーション "wikilink")が開始されたが、こちらは[パケット定額制](../Page/パケット定額制.md "wikilink")サービスが導入されておらず（パケットパックのみ）、2004年の[900i](https://ja.wikipedia.org/wiki/900i "wikilink")シリーズ発売まで30秒程度の動画しか再生出来なかった事、どちらも従量制の通信費が嵩む点から苦戦を強いられた。2003年4月にPHSのデータ通信定額制サービス「[@FreeD](../Page/アットフリード.md "wikilink")」が開始されたものの、[eggy](https://ja.wikipedia.org/wiki/eggy "wikilink")は@FreeDには非対応のままであった。2004年3月末にサービス終了。
 
 ### M-stage music
 
@@ -31,19 +31,19 @@
 
   - 対応機種は[Picwalk P711m](https://ja.wikipedia.org/wiki/ドコモPHS#データ通信端末 "wikilink")・[Picwalk SH712m](https://ja.wikipedia.org/wiki/ドコモPHS#音声端末 "wikilink")
 
-2001年1月に対応機種Picwalk P711mの発売に伴い開始されたドコモによる[音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")サービス。mopera網へ回線交換による32k/64kデータ通信で接続し、サイト上でJ-POPや洋楽を中心とした楽曲（コンテンツ）を検索のうえ購入し、端末のメモリーカードにダウンロードすることでフルコーラスの音楽を楽しめるものである。サイト上で試聴もできた。月額利用料は100円。
+2001年1月に対応機種Picwalk P711mの発売に伴い開始されたドコモによる[音楽配信](../Page/音楽配信.md "wikilink")サービス。mopera網へ回線交換による32k/64kデータ通信で接続し、サイト上でJ-POPや洋楽を中心とした楽曲（コンテンツ）を検索のうえ購入し、端末のメモリーカードにダウンロードすることでフルコーラスの音楽を楽しめるものである。サイト上で試聴もできた。月額利用料は100円。
 
-記録フォーマットは、P711mは128kbpsの[AAC](../Page/AAC.md "wikilink")方式と[SDメモリカード](https://ja.wikipedia.org/wiki/SDメモリカード "wikilink")（[SD-Audio](https://ja.wikipedia.org/wiki/SD-Audio "wikilink")）、SH712mは[ATRAC3](https://ja.wikipedia.org/wiki/ATRAC3 "wikilink")(132kbps)方式と[マジックゲート](https://ja.wikipedia.org/wiki/マジックゲート "wikilink")[メモリースティック](../Page/メモリースティック.md "wikilink")を用いている。2000年初頭よりレコード会社主導のPC向け[音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")サービスが本格的に展開されたが、当初はコンテンツ供給者とメーカーの関係によって[ATRAC3](https://ja.wikipedia.org/wiki/ATRAC3 "wikilink")、[AAC](../Page/AAC.md "wikilink")、[MP3](../Page/MP3.md "wikilink")と採用フォーマットがバラバラであったことから、Picwalkもメーカーにより採用フォーマットが異なった。
+記録フォーマットは、P711mは128kbpsの[AAC](../Page/AAC.md "wikilink")方式と[SDメモリカード](https://ja.wikipedia.org/wiki/SDメモリカード "wikilink")（[SD-Audio](../Page/SD-Audio.md "wikilink")）、SH712mは[ATRAC3](https://ja.wikipedia.org/wiki/ATRAC3 "wikilink")(132kbps)方式と[マジックゲート](https://ja.wikipedia.org/wiki/マジックゲート "wikilink")[メモリースティック](../Page/メモリースティック.md "wikilink")を用いている。2000年初頭よりレコード会社主導のPC向け[音楽配信](../Page/音楽配信.md "wikilink")サービスが本格的に展開されたが、当初はコンテンツ供給者とメーカーの関係によって[ATRAC3](https://ja.wikipedia.org/wiki/ATRAC3 "wikilink")、[AAC](../Page/AAC.md "wikilink")、[MP3](../Page/MP3.md "wikilink")と採用フォーマットがバラバラであったことから、Picwalkもメーカーにより採用フォーマットが異なった。
 
-先述のVisualと同じく、従量制で通信費が嵩み対応機種が限られたことから苦戦し、2004年9月にサービス終了となった。携帯電話端末を用いたフルコーラスの音楽配信サービスは[パケ・ホーダイ](https://ja.wikipedia.org/wiki/パケ・ホーダイ "wikilink")と[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")が広く受け入れられる2006年頃までブランクが生じている。
+先述のVisualと同じく、従量制で通信費が嵩み対応機種が限られたことから苦戦し、2004年9月にサービス終了となった。携帯電話端末を用いたフルコーラスの音楽配信サービスは[パケ・ホーダイ](../Page/パケ・ホーダイ.md "wikilink")と[着うたフル](../Page/着うたフル.md "wikilink")が広く受け入れられる2006年頃までブランクが生じている。
 
-ドコモでは、movaにおいて2000年11月に「[SO502iWM](https://ja.wikipedia.org/wiki/SO502iWM "wikilink")」を、2004年12月に[D253iWMをSH](https://ja.wikipedia.org/wiki/Music_PORTER "wikilink")702mと同じコーデック形式で発売していたが、PCなどでMGメモリースティックへ[リッピング](https://ja.wikipedia.org/wiki/リッピング "wikilink")した楽曲再生のみ対応で音楽配信には未対応であった。また2007年に月額定額制の音楽配信サービス[うた・ホーダイ](../Page/うた・ホーダイ.md "wikilink")を開始したが、2010年5月に[Napster Japanの撤退によりコンテンツが大幅縮小している](https://ja.wikipedia.org/wiki/Napster_Japan "wikilink")。
+ドコモでは、movaにおいて2000年11月に「[SO502iWM](https://ja.wikipedia.org/wiki/SO502iWM "wikilink")」を、2004年12月に[D253iWMをSH](../Page/Music_PORTER.md "wikilink")702mと同じコーデック形式で発売していたが、PCなどでMGメモリースティックへ[リッピング](../Page/リッピング.md "wikilink")した楽曲再生のみ対応で音楽配信には未対応であった。また2007年に月額定額制の音楽配信サービス[うた・ホーダイ](../Page/うた・ホーダイ.md "wikilink")を開始したが、2010年5月に[Napster Japanの撤退によりコンテンツが大幅縮小している](../Page/Napster_Japan.md "wikilink")。
 
 ### M-Stage book
 
   - 対応機種[Windows 98](https://ja.wikipedia.org/wiki/Windows_98 "wikilink")/[Windows 2000がインストールされたPC](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink")、[ザウルス](../Page/ザウルス.md "wikilink")など一部のPDA機種のみ
 
-2002年10月より開始された[電子書籍](../Page/電子書籍.md "wikilink")配信サービス。当時電子書籍の汎用フォーマットとしてシャープが技術開放して間もない[XMDF](https://ja.wikipedia.org/wiki/XMDF "wikilink")形式を採用し、日本の電子書籍におけるXMDFのデファクトスタンダード化への一歩に貢献した。当初は小説が配信タイトルの中心だったが、2004年からはマンガ（[デジタルコミック](https://ja.wikipedia.org/wiki/デジタルコミック "wikilink")）の配信も始めた。通信端末からインフォゲート（mopera）に接続した対応機器のみダウンロードが出来る。
+2002年10月より開始された[電子書籍](../Page/電子書籍.md "wikilink")配信サービス。当時電子書籍の汎用フォーマットとしてシャープが技術開放して間もない[XMDF](https://ja.wikipedia.org/wiki/XMDF "wikilink")形式を採用し、日本の電子書籍におけるXMDFのデファクトスタンダード化への一歩に貢献した。当初は小説が配信タイトルの中心だったが、2004年からはマンガ（[デジタルコミック](../Page/デジタルコミック.md "wikilink")）の配信も始めた。通信端末からインフォゲート（mopera）に接続した対応機器のみダウンロードが出来る。
 
 ビューワソフトは「ブンコビューア」によるもので、対応端末はPC・PDAのみ。[携帯コミック](../Page/携帯コミック.md "wikilink")のように[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")で読む事は出来なかった。
 
@@ -51,7 +51,7 @@ Music・Visualよりも提供コンテンツ数が伸び悩んだ状態のまま
 
 ### M-Stage ビジュアルネット
 
-[docomoP2101V.jpg](https://ja.wikipedia.org/wiki/File:docomoP2101V.jpg "fig:docomoP2101V.jpg") [テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")対応[FOMA](../Page/FOMA.md "wikilink")端末を用いた[テレビ会議](https://ja.wikipedia.org/wiki/テレビ会議 "wikilink")システムとして2002年10月よりスタートした。2003年よりFOMAとP751V(PHS)・公衆回線の[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")間との会議も可能となり、法人ユーザー向けのサービスとしてアピールしていた。2005年以降も「[ケータイ会議 ビジュアルネット](https://ja.wikipedia.org/wiki/ケータイ会議_ビジュアルネット "wikilink")」として存続したが、2012年3月31日で終了する。
+[docomoP2101V.jpg](https://ja.wikipedia.org/wiki/File:docomoP2101V.jpg "fig:docomoP2101V.jpg") [テレビ電話](../Page/テレビ電話.md "wikilink")対応[FOMA](../Page/FOMA.md "wikilink")端末を用いた[テレビ会議](https://ja.wikipedia.org/wiki/テレビ会議 "wikilink")システムとして2002年10月よりスタートした。2003年よりFOMAとP751V(PHS)・公衆回線の[テレビ電話](../Page/テレビ電話.md "wikilink")間との会議も可能となり、法人ユーザー向けのサービスとしてアピールしていた。2005年以降も「[ケータイ会議 ビジュアルネット](https://ja.wikipedia.org/wiki/ケータイ会議_ビジュアルネット "wikilink")」として存続したが、2012年3月31日で終了する。
 
 ### M-Stage Vライブ
 
@@ -59,11 +59,11 @@ Music・Visualよりも提供コンテンツ数が伸び悩んだ状態のまま
 
 ## インフォゲート
 
-[thumb](https://ja.wikipedia.org/wiki/画像:G-FORT.jpg "wikilink")\]\] **infogate**（インフォゲート）は、「mopera有料情報サービスHot's」の有料コンテンツメニューサイト部分を実質的に継承し、2001年3月1日にスタートした『PDA向けポータルサイトサービス』（言い換えれば、「mopera網専用の[携帯電話IP接続サービス](https://ja.wikipedia.org/wiki/携帯電話IP接続サービス "wikilink")」）である。後述の2002年8月にM-Stageと統合し、メニューサイト部分は「**M-stage コンテンツメニュー/アプリケーションメニュー**」となった。
+[thumb](https://ja.wikipedia.org/wiki/画像:G-FORT.jpg "wikilink")\]\] **infogate**（インフォゲート）は、「mopera有料情報サービスHot's」の有料コンテンツメニューサイト部分を実質的に継承し、2001年3月1日にスタートした『PDA向けポータルサイトサービス』（言い換えれば、「mopera網専用の[携帯電話IP接続サービス](../Page/携帯電話IP接続サービス.md "wikilink")」）である。後述の2002年8月にM-Stageと統合し、メニューサイト部分は「**M-stage コンテンツメニュー/アプリケーションメニュー**」となった。
 
 ### M-stage コンテンツメニュー/アプリケーションメニュー
 
-携帯電話と比べて大画面である[PDA端末や](../Page/携帯情報端末.md "wikilink")[ノートパソコン](../Page/ノートパソコン.md "wikilink")を通信端末を介して[mopera](https://ja.wikipedia.org/wiki/mopera "wikilink")へ接続し、[ポータルサイト](../Page/ポータルサイト.md "wikilink")へアクセスすることで[ニュースサイト](../Page/ニュースサイト.md "wikilink")・[地図](../Page/地図.md "wikilink")・[乗換案内](../Page/乗換案内.md "wikilink")（※パケット通信を考慮して、基本的にテキストと簡易な図画のみで構成）などの有料情報コンテンツを購入できるものである。このポータルサイトのシステムは[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")（[iメニュー](https://ja.wikipedia.org/wiki/iメニュー "wikilink")）と同等の[IP接続サービスであり](https://ja.wikipedia.org/wiki/携帯電話IP接続サービス "wikilink")、モバイラー版の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")を狙ったものとされている。
+携帯電話と比べて大画面である[PDA端末や](../Page/携帯情報端末.md "wikilink")[ノートパソコン](../Page/ノートパソコン.md "wikilink")を通信端末を介して[mopera](https://ja.wikipedia.org/wiki/mopera "wikilink")へ接続し、[ポータルサイト](../Page/ポータルサイト.md "wikilink")へアクセスすることで[ニュースサイト](../Page/ニュースサイト.md "wikilink")・[地図](../Page/地図.md "wikilink")・[乗換案内](../Page/乗換案内.md "wikilink")（※パケット通信を考慮して、基本的にテキストと簡易な図画のみで構成）などの有料情報コンテンツを購入できるものである。このポータルサイトのシステムは[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")（[iメニュー](https://ja.wikipedia.org/wiki/iメニュー "wikilink")）と同等の[IP接続サービスであり](../Page/携帯電話IP接続サービス.md "wikilink")、モバイラー版の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")を狙ったものとされている。
 
 対応端末は一覧表形式で公表されていたが、[compact HTML表示が可能な端末でmopera接続が可能な環境であれば問題なかったため](https://ja.wikipedia.org/wiki/compact_HTML "wikilink")、ブラウザホンや[Lookwalk P751vでも](https://ja.wikipedia.org/wiki/Lookwalk_P751v "wikilink")「ブラウザホンメニュー」とは別に、Internet機能でアクセスできた。
 
@@ -87,15 +87,15 @@ Music・Visualよりも提供コンテンツ数が伸び悩んだ状態のまま
 
 ## CM
 
-M-stage musicに関して、2001年7月と11月にドコモグループでCMが制作・放送された。前者は[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")（楽曲のみ）の「[FINAL DISTANCE](https://ja.wikipedia.org/wiki/FINAL_DISTANCE "wikilink")」、後者は[佐田真由美](../Page/佐田真由美.md "wikilink")の「kiseki」とタイアップした。宇多田は同年10月からFOMAのイメージキャラクターとしての出演が決定した一環によるものであったが、CD発売前の7月15日からM-stage musicで試聴配信が実施されていた。（[宇多田ヒカルが"FOMA"のCMキャラクターに](http://ascii.jp/elem/000/000/324/324604/) ASCII.jp 2001年7月12日）
+M-stage musicに関して、2001年7月と11月にドコモグループでCMが制作・放送された。前者は[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")（楽曲のみ）の「[FINAL DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")」、後者は[佐田真由美](../Page/佐田真由美.md "wikilink")の「kiseki」とタイアップした。宇多田は同年10月からFOMAのイメージキャラクターとしての出演が決定した一環によるものであったが、CD発売前の7月15日からM-stage musicで試聴配信が実施されていた。（[宇多田ヒカルが"FOMA"のCMキャラクターに](http://ascii.jp/elem/000/000/324/324604/) ASCII.jp 2001年7月12日）
 
 ## 関連項目
 
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
   - [mopera](https://ja.wikipedia.org/wiki/mopera "wikilink")
-  - [ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")
+  - [ドコモPHS](../Page/ドコモPHS.md "wikilink")
   - [Lookwalk P751v](https://ja.wikipedia.org/wiki/Lookwalk_P751v "wikilink")
-  - [音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")
+  - [音楽配信](../Page/音楽配信.md "wikilink")
   - [電子書籍](../Page/電子書籍.md "wikilink")
 
 [Category:携帯電話_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(NTTドコモ\) "wikilink") [Category:PHS_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:PHS_\(NTTドコモ\) "wikilink") [Category:携帯電話ブラウジング](https://ja.wikipedia.org/wiki/Category:携帯電話ブラウジング "wikilink") [Category:かつて存在した音楽配信サービス](https://ja.wikipedia.org/wiki/Category:かつて存在した音楽配信サービス "wikilink") [Category:電子書籍配信サービス](https://ja.wikipedia.org/wiki/Category:電子書籍配信サービス "wikilink")

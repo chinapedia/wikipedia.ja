@@ -1,15 +1,15 @@
 > この記事は[JOINT \(\)](https://ja.wikipedia.org/wiki/JOINT_\(\))から翻訳されています。
 
 
-「**JOINT**」（ジョイント）は、日本の女性歌手、[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")の楽曲。川田の5作目の[シングル](../Page/シングル.md "wikilink")として、[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")から発売された。本シングルに収録された楽曲「JOINT」・「triangle」は[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系テレビアニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の前期[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")・エンディングテーマとしてそれぞれ起用された。
+「**JOINT**」（ジョイント）は、日本の女性歌手、[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")の楽曲。川田の5作目の[シングル](../Page/シングル.md "wikilink")として、[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")から発売された。本シングルに収録された楽曲「JOINT」・「triangle」は[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系テレビアニメ](../Page/TBSテレビ.md "wikilink")『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の前期[オープニングテーマ](../Page/主題歌.md "wikilink")・エンディングテーマとしてそれぞれ起用された。
 
 ## リリース
 
-初回限定盤には「JOINT」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を収録した[DVD](../Page/DVD.md "wikilink")が同梱されている。「JOINT」とカップリング曲「triangle」の歌詞の中には、『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の資料やシナリオに出てくる言葉がいくつか含まれていると、インタビューで彼女は答えている。2曲共にアルバム『[SAVIA](https://ja.wikipedia.org/wiki/SAVIA "wikilink")』に収録されている。
+初回限定盤には「JOINT」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録した[DVD](../Page/DVD.md "wikilink")が同梱されている。「JOINT」とカップリング曲「triangle」の歌詞の中には、『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の資料やシナリオに出てくる言葉がいくつか含まれていると、インタビューで彼女は答えている。2曲共にアルバム『[SAVIA](../Page/SAVIA.md "wikilink")』に収録されている。
 
 ## 音楽性
 
-楽曲「JOINT」のジャンルについて[洋泉社](https://ja.wikipedia.org/wiki/洋泉社 "wikilink")が発行する『アニソンマガジン』のライター・有村悠は、作・編曲を手掛けた[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")の「持ち味である[ポップなメロディラインが光る](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")」とし、サビに至るまでの[ベースラインを特筆して](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")[インダストリアル・ロック](https://ja.wikipedia.org/wiki/インダストリアル・ロック "wikilink")もしくは[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")に近いアレンジがなされていると言及した。IBGメディアが運営する[無料歌詞検索サイトUtaTen](https://ja.wikipedia.org/wiki/無料歌詞検索サイトUtaTen "wikilink")のライター・有紀はBPMの速さ、音の重厚感や歌詞の内容にタイアップ作品『灼眼のシャナⅡ』のストーリー展開が反映されていると述べた。[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")が作・編曲を行ったカップリング曲「triangle」について、有村は高瀬の得意とする[トランス](https://ja.wikipedia.org/wiki/トランス "wikilink")楽曲であると指摘し、高瀬の所属する音楽制作集団[I've](../Page/I've.md "wikilink")らしさが垣間見えると言及した。また、高瀬がこれまでに手掛けてきた川田のディスコグラフィ「[Get my way\!](../Page/Get_my_way!.md "wikilink")」、「Not Fil」と比較して、バンド風のアレンジがなされたそれらの楽曲と異なるアプローチを今作で見せたと特筆している。音楽雑誌『CDJournal』のガイドコメントでは、シングル収録曲について「ロック・テイストにあふれた楽曲が力強く鳴らされている」と述べられた。
+楽曲「JOINT」のジャンルについて[洋泉社](../Page/洋泉社.md "wikilink")が発行する『アニソンマガジン』のライター・有村悠は、作・編曲を手掛けた[中沢伴行](../Page/中沢伴行.md "wikilink")の「持ち味である[ポップなメロディラインが光る](../Page/ポップ・ミュージック.md "wikilink")」とし、サビに至るまでの[ベースラインを特筆して](../Page/ベース_\(弦楽器\).md "wikilink")[インダストリアル・ロック](https://ja.wikipedia.org/wiki/インダストリアル・ロック "wikilink")もしくは[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")に近いアレンジがなされていると言及した。IBGメディアが運営する[無料歌詞検索サイトUtaTen](https://ja.wikipedia.org/wiki/無料歌詞検索サイトUtaTen "wikilink")のライター・有紀はBPMの速さ、音の重厚感や歌詞の内容にタイアップ作品『灼眼のシャナⅡ』のストーリー展開が反映されていると述べた。[高瀬一矢](../Page/高瀬一矢.md "wikilink")が作・編曲を行ったカップリング曲「triangle」について、有村は高瀬の得意とする[トランス](../Page/トランス.md "wikilink")楽曲であると指摘し、高瀬の所属する音楽制作集団[I've](../Page/I've.md "wikilink")らしさが垣間見えると言及した。また、高瀬がこれまでに手掛けてきた川田のディスコグラフィ「[Get my way\!](../Page/Get_my_way!.md "wikilink")」、「Not Fil」と比較して、バンド風のアレンジがなされたそれらの楽曲と異なるアプローチを今作で見せたと特筆している。音楽雑誌『CDJournal』のガイドコメントでは、シングル収録曲について「ロック・テイストにあふれた楽曲が力強く鳴らされている」と述べられた。
 
 ## チャート成績、評価
 
@@ -25,10 +25,10 @@
 
 1.  **JOINT** \[4:01\]
       -
-        作詞：[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")／作曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")／編曲：中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
+        作詞：[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
 2.  **triangle** \[4:51\]
       -
-        作詞：川田まみ／作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+        作詞：川田まみ／作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
 3.  JOINT -[Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")- \[4:01\]
 4.  triangle -Instrumental- \[4:48\]
 
@@ -59,7 +59,7 @@
 
 ## カバー
 
-  - [日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")（アルバム『[新・百歌声爛 男性声優編](https://ja.wikipedia.org/wiki/百歌声爛#男性声優編（新） "wikilink")』収録）
+  - [日野聡](../Page/日野聡.md "wikilink")（アルバム『[新・百歌声爛 男性声優編](https://ja.wikipedia.org/wiki/百歌声爛#男性声優編（新） "wikilink")』収録）
 
 ## 脚注
 

@@ -12,15 +12,15 @@
 
 ## メンバー
 
-  - **[安藤悠美](https://ja.wikipedia.org/wiki/安藤悠美 "wikilink")**（あんどう ゆうみ、1984年1月24日生）
+  - **[安藤悠美](../Page/安藤悠美.md "wikilink")**（あんどう ゆうみ、1984年1月24日生）
       -
         リーダー、振り付け担当。北海道出身。身長154cm、B84cm、W56cm、H83cm。[エスピーワン](https://ja.wikipedia.org/wiki/エスピーワン "wikilink")所属。
-  - **[KONAN](https://ja.wikipedia.org/wiki/KONAN "wikilink")**（こなん、1985年3月4日生）
+  - **[KONAN](../Page/KONAN.md "wikilink")**（こなん、1985年3月4日生）
       -
-        大阪府出身。身長162cm、B84cm、W60cm、H87cm。[ワンエイトプロモーション](https://ja.wikipedia.org/wiki/ワンエイトプロモーション "wikilink")所属。
+        大阪府出身。身長162cm、B84cm、W60cm、H87cm。[ワンエイトプロモーション](../Page/ワンエイトプロモーション.md "wikilink")所属。
   - **[つばきあみ](https://ja.wikipedia.org/wiki/つばきあみ "wikilink")**（1989年9月9日生）
       -
-        福岡県出身。身長163cm、B82cm、W57cm、H81cm。[ワンエイトプロモーション](https://ja.wikipedia.org/wiki/ワンエイトプロモーション "wikilink")所属。
+        福岡県出身。身長163cm、B82cm、W57cm、H81cm。[ワンエイトプロモーション](../Page/ワンエイトプロモーション.md "wikilink")所属。
   - **[永作あいり](https://ja.wikipedia.org/wiki/永作あいり "wikilink")**（ながさく あいり、1988年3月17日生）
       -
         茨城県出身。 身長162cm、B98cm、W58cm、H90cm。[エスピーワン](https://ja.wikipedia.org/wiki/エスピーワン "wikilink")所属。

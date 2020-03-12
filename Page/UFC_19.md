@@ -5,7 +5,7 @@
 
 ## 大会概要
 
-各階級ともタイトルマッチは行われず。メインイベントでは、[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")が[ガイ・メッツァー](https://ja.wikipedia.org/wiki/ガイ・メッツァー "wikilink")をTKOで破った。
+各階級ともタイトルマッチは行われず。メインイベントでは、[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")が[ガイ・メッツァー](../Page/ガイ・メッツァー.md "wikilink")をTKOで破った。
 
 ## 試合結果
 
@@ -19,17 +19,17 @@
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  ヴァレリ・イグナトフ ×
     1R 2:58 TKO（レフェリーストップ：グラウンドの肘打ち）
   - 第4試合 ヘビー級 15分1R
-    ○  [ケビン・ランデルマン](https://ja.wikipedia.org/wiki/ケビン・ランデルマン "wikilink") vs.  [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink") ×
+    ○  [ケビン・ランデルマン](../Page/ケビン・ランデルマン.md "wikilink") vs.  [モーリス・スミス](../Page/モーリス・スミス.md "wikilink") ×
     1R終了 判定3-0
   - 第5試合 ミドル級 15分1R
     ○  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") vs.  [チャック・リデル](../Page/チャック・リデル.md "wikilink") ×
-    1R 12:00 TKO（レフェリーストップ：[肩固め](https://ja.wikipedia.org/wiki/肩固め "wikilink")）
+    1R 12:00 TKO（レフェリーストップ：[肩固め](../Page/肩固め.md "wikilink")）
   - 第6試合 ヘビー級 15分1R
-    ○  [ゲーリー・グッドリッジ](https://ja.wikipedia.org/wiki/ゲーリー・グッドリッジ "wikilink") vs.  アンドレ・ロバーツ ×
-    1R 0:43 ギブアップ（[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") vs.  アンドレ・ロバーツ ×
+    1R 0:43 ギブアップ（[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ミドル級 15分1R
-    ○  [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink") vs.  [ガイ・メッツァー](https://ja.wikipedia.org/wiki/ガイ・メッツァー "wikilink") ×
-    1R 9:56 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink") vs.  [ガイ・メッツァー](../Page/ガイ・メッツァー.md "wikilink") ×
+    1R 9:56 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
 
 ## 関連項目
 

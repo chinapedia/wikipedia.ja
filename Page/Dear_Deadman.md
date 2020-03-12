@@ -1,7 +1,7 @@
 > この記事は[Dear Deadman](https://ja.wikipedia.org/wiki/Dear_Deadman)から翻訳されています。
 
 
-『**Dear Deadman**』（ディア・デッドマン）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー3rd[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**Dear Deadman**』（ディア・デッドマン）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー3rd[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
@@ -16,7 +16,7 @@
 
 1.  **The Novemberist**
       -
-        本作のリードトラックで、[PVが製作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        本作のリードトラックで、[PVが製作されている](../Page/ミュージック・ビデオ.md "wikilink")。
 2.  **[Melodic Storm](https://ja.wikipedia.org/wiki/Melodic_Storm "wikilink") -DEAR EDIT-**
       -
         メジャー5thシングルのアルバムバージョン。イントロが長くなっている。
@@ -27,7 +27,7 @@
       - メジャー4thシングルのアルバムバージョン。
 7.  **The Nowarist**
       -
-        『[ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006 "wikilink")』にも収録されている。
+        『[ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006.md "wikilink")』にも収録されている。
 8.  **Tornado Surfer**
 9.  **[Discography](https://ja.wikipedia.org/wiki/THE_REMAINS "wikilink")**
       -

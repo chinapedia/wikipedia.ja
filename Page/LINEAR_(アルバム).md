@@ -1,12 +1,12 @@
 > この記事は[LINEAR \(\)](https://ja.wikipedia.org/wiki/LINEAR_\(\))から翻訳されています。
 
 
-『**LINEAR**』（リニア）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**LINEAR**』（リニア）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
   - 前作から約1年振りとなるアルバム。3人体制で製作された最後のアルバムである。また、東芝EMIからリリースされた最後のアルバムとなった。
-  - [オリコンのアルバムウィークリーチャートでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、バンド初となるトップ10にランクインした。
+  - [オリコンのアルバムウィークリーチャートでは](../Page/オリコンチャート.md "wikilink")、バンド初となるトップ10にランクインした。
   - リリース前からメンバー自身が「今までとは違う作品」とメディアなどで言い続けていた。
   - セルフカバーアルバム『[STOUT](https://ja.wikipedia.org/wiki/STOUT "wikilink")』では全10曲中今作から最多の3曲が選ばれ、再録されている。
 
@@ -35,7 +35,7 @@
 6.  **[BERSERKER TUNE](https://ja.wikipedia.org/wiki/BERSERKER_TUNE "wikilink")**(3:48)
       -
         メジャー6thシングル。
-        2番の語りの部分がシングルとは違うアレンジになっている。ホリエ曰く、｢[アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")を意識した｣らしい。
+        2番の語りの部分がシングルとは違うアレンジになっている。ホリエ曰く、｢[アル・パチーノ](../Page/アル・パチーノ.md "wikilink")を意識した｣らしい。
 7.  **REST**(4:58)
       -
         全英語詞である。

@@ -5,9 +5,9 @@
 
 データは[XML](../Page/Extensible_Markup_Language.md "wikilink") 1.0 [DTD](../Page/Document_Type_Definition.md "wikilink") でエンコード（符号化）され、プラットフォームに依存しない、まとまった形式となる。そのような形式のデータを[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[FTPなど適当な転送機構で送る](../Page/File_Transfer_Protocol.md "wikilink")。受信側のマシンにはWDDXを解釈できるソフトウェアが搭載されており、そのマシンが扱える形式に変換を行う。WDDX はファイルシステムやストレージへ格納する際のデータ[シリアライズ](../Page/シリアライズ.md "wikilink")機構としても使うことができる。典型的な使用法としては、WebブラウザでWDDXを解釈する[JavaScript](../Page/JavaScript.md "wikilink")を動作させ、サーバからブラウザに対して複雑なデータをWDDX形式で送る。これは一種の[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")である。
 
-WDDX は1998年、Allaire の Simeon Simeonov が [ColdFusion](https://ja.wikipedia.org/wiki/ColdFusion "wikilink")サーバ環境向けに開発したのが最初である\[1\]。
+WDDX は1998年、Allaire の Simeon Simeonov が [ColdFusion](../Page/ColdFusion.md "wikilink")サーバ環境向けに開発したのが最初である\[1\]。
 
-共に1998年に生まれた WDDX と [XML-RPC](../Page/XML-RPC.md "wikilink") は [SOAP](../Page/SOAP_\(プロトコル\).md "wikilink") と[Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")の先駆けとなった。
+共に1998年に生まれた WDDX と [XML-RPC](../Page/XML-RPC.md "wikilink") は [SOAP](../Page/SOAP_\(プロトコル\).md "wikilink") と[Webサービス](../Page/Webサービス.md "wikilink")の先駆けとなった。
 
 例: \[2\]
 

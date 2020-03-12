@@ -1,15 +1,15 @@
 > この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
 
 
-『**新機動戦記ガンダムW〜ティエルの衝動〜**』（しんきどうせんきガンダムウイング ティエルのしょうどう）は、[ガンダムシリーズのうち](../Page/ガンダムシリーズ一覧.md "wikilink")、『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』を初めとする[アフターコロニー](https://ja.wikipedia.org/wiki/アフターコロニー "wikilink")を舞台とした世界観に属する[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**新機動戦記ガンダムW〜ティエルの衝動〜**』（しんきどうせんきガンダムウイング ティエルのしょうどう）は、[ガンダムシリーズのうち](../Page/ガンダムシリーズ一覧.md "wikilink")、『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』を初めとする[アフターコロニー](../Page/アフターコロニー.md "wikilink")を舞台とした世界観に属する[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 ## 概要
 
-ストーリーは[コミックと](https://ja.wikipedia.org/wiki/漫画 "wikilink")[ジオラマ](https://ja.wikipedia.org/wiki/ジオラマ "wikilink")[写真](../Page/写真.md "wikilink")による二重構成によって展開し、[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")刊行の「新機動戦記ガンダムWエンドレスワルツ最強プレイングブック」Chapter 3 にて掲載された。ただし、現在において掲載された書籍は絶版となっている為、作品の知名度は非常に低いものとなっている。
+ストーリーは[コミックと](https://ja.wikipedia.org/wiki/漫画 "wikilink")[ジオラマ](https://ja.wikipedia.org/wiki/ジオラマ "wikilink")[写真](../Page/写真.md "wikilink")による二重構成によって展開し、[実業之日本社](../Page/実業之日本社.md "wikilink")刊行の「新機動戦記ガンダムWエンドレスワルツ最強プレイングブック」Chapter 3 にて掲載された。ただし、現在において掲載された書籍は絶版となっている為、作品の知名度は非常に低いものとなっている。
 
 本作は模型を楽しむためのオリジナルストーリーであり、サンライズの公式ストーリーであるか否かの記述はないが、2010年から展開されている『[新機動戦記ガンダムW Frozen Teardrop](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Frozen_Teardrop "wikilink")』では本作初出の一部設定が逆輸入される形で使われている。また、巻末の奥付には制作協力の欄に、サンライズ／バンダイホビー事業部の名がクレジットされている。
 
-「ガンダムW版のMSV」と言えるストーリー内容で、物語の舞台はAC（アフターコロニー）196年1～2月頃（後述の終戦の日から1ヵ月後という記述による）であり、『新機動戦記ガンダムW』（AC195年12月25日終戦）と『[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")』（AC196年末終結）の間となる。
+「ガンダムW版のMSV」と言えるストーリー内容で、物語の舞台はAC（アフターコロニー）196年1～2月頃（後述の終戦の日から1ヵ月後という記述による）であり、『新機動戦記ガンダムW』（AC195年12月25日終戦）と『[新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")』（AC196年末終結）の間となる。
 
 ## 物語
 
@@ -68,13 +68,13 @@ AC（アフターコロニー）196年。ロームフェラ財団の戦争推進
   - [ガンダムサンドレオン](https://ja.wikipedia.org/wiki/ガンダムサンドロック#ガンダムサンドレオン "wikilink")
       - ガンダムサンドレオンカスタム
 
-また、本書の表紙及び Chapter 2 には以下が登場する（Chapter 3 である『〜ティエルの衝動〜』には登場しない）。[石垣純哉](https://ja.wikipedia.org/wiki/石垣純哉 "wikilink")のオリジナルデザインであり、模型作例が掲載されているものの簡単に作れるものではない。
+また、本書の表紙及び Chapter 2 には以下が登場する（Chapter 3 である『〜ティエルの衝動〜』には登場しない）。[石垣純哉](../Page/石垣純哉.md "wikilink")のオリジナルデザインであり、模型作例が掲載されているものの簡単に作れるものではない。
 
   - [ウイングガンダム Endless Waltz バージョン](https://ja.wikipedia.org/wiki/ウイングガンダム#ウイングガンダム_Endless_Waltz_バージョン "wikilink")
 
 ## 書籍
 
-  - 新機動戦記ガンダムWエンドレスワルツ最強プレイングブック（1998年9月6日、[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")）ISBN 978-4408614748
+  - 新機動戦記ガンダムWエンドレスワルツ最強プレイングブック（1998年9月6日、[実業之日本社](../Page/実業之日本社.md "wikilink")）ISBN 978-4408614748
 
 コミック部分の作者は[小野進](https://ja.wikipedia.org/wiki/小野進 "wikilink")・[いりえまさよ](https://ja.wikipedia.org/wiki/いりえまさよ "wikilink")。
 

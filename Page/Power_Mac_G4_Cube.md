@@ -17,7 +17,7 @@
 
 メンテナンス性にも考慮しており、本体を逆さにしてハンドルを引くとロジックボードなど主要なコンポーネントにアクセスでき、メモリやAirMacなどが簡単に装着できるようになっている。
 
-新開発されたApple Pro MouseとApple Pro Keyboard、アンプやスピーカーは[ハーマン・カードンとの共同開発のものが付属され](https://ja.wikipedia.org/wiki/JBL_\(企業\) "wikilink")、これに併せ新しいデザインの[Apple Studio Displayと](https://ja.wikipedia.org/wiki/Apple_Studio_Display "wikilink")[Apple Cinema Displayも販売された](https://ja.wikipedia.org/wiki/Apple_Cinema_Display "wikilink")。
+新開発されたApple Pro MouseとApple Pro Keyboard、アンプやスピーカーは[ハーマン・カードンとの共同開発のものが付属され](../Page/JBL_\(企業\).md "wikilink")、これに併せ新しいデザインの[Apple Studio Displayと](https://ja.wikipedia.org/wiki/Apple_Studio_Display "wikilink")[Apple Cinema Displayも販売された](../Page/Apple_Cinema_Display.md "wikilink")。
 
 ## 売上と評価
 
@@ -43,7 +43,7 @@
       - 400Mbpsの[FireWireポート](../Page/IEEE_1394.md "wikilink")2基
       - [USBポート](../Page/ユニバーサル・シリアル・バス.md "wikilink")2基
       - [モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")/モニタポート×各1基
-      - [AirMac](https://ja.wikipedia.org/wiki/AirMac "wikilink")ポート×1基
+      - [AirMac](../Page/AirMac.md "wikilink")ポート×1基
       - 10/100Base-T[イーサネット](../Page/イーサネット.md "wikilink")×1基（オプション: Gigabit Ethernet）
       - ADCポート, VGAポート
   - 拡張 - [AGP](../Page/Accelerated_Graphics_Port.md "wikilink") 2Xスロット

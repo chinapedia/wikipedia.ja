@@ -1,7 +1,7 @@
 > この記事は[XML-RPC](https://ja.wikipedia.org/wiki/XML-RPC)から翻訳されています。
 
 
-**XML-RPC**とは、[遠隔手続き呼出し](https://ja.wikipedia.org/wiki/遠隔手続き呼出し "wikilink") (RPC) プロトコルの一種であり、エンコード（符号化）に[XMLを採用し](../Page/Extensible_Markup_Language.md "wikilink")、転送機構に[HTTPを採用している](../Page/Hypertext_Transfer_Protocol.md "wikilink")。非常に単純なプロトコルで、少数の[データ型](https://ja.wikipedia.org/wiki/データ型 "wikilink")やコマンドだけを定義しているだけであり、その仕様は2枚の紙にまとめられる。これは多くのRPCシステムが膨大な量の規格を規定し、実装に多量のプログラミングを要することに比べると、際立った特徴と言える。
+**XML-RPC**とは、[遠隔手続き呼出し](../Page/遠隔手続き呼出し.md "wikilink") (RPC) プロトコルの一種であり、エンコード（符号化）に[XMLを採用し](../Page/Extensible_Markup_Language.md "wikilink")、転送機構に[HTTPを採用している](../Page/Hypertext_Transfer_Protocol.md "wikilink")。非常に単純なプロトコルで、少数の[データ型](../Page/データ型.md "wikilink")やコマンドだけを定義しているだけであり、その仕様は2枚の紙にまとめられる。これは多くのRPCシステムが膨大な量の規格を規定し、実装に多量のプログラミングを要することに比べると、際立った特徴と言える。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、ユーザーランド・ソフトウェアが[マイクロソフト](../Page/マイクロソフト.md "wikilink")と共同で開発した。その後、これに新たな機能を追加したものが[SOAPへと発展した](../Page/SOAP_\(プロトコル\).md "wikilink")。しかし、SOAP よりも単純で扱いやすいXML-RPCを好む人もいる。
 
@@ -32,12 +32,12 @@
 <tr class="even">
 <td><p>base64</p></td>
 <td><p><base64><code>eW91IGNhbid0IHJlYWQgdGhpcyE=</code></base64></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Base64" title="wikilink">Base64</a>でエンコードされたバイナリデータ</p></td>
+<td><p><a href="../Page/Base64.md" title="wikilink">Base64</a>でエンコードされたバイナリデータ</p></td>
 </tr>
 <tr class="odd">
 <td><p>boolean</p></td>
 <td><p><boolean><code>1</code></boolean></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブーリアン型" title="wikilink">ブーリアン型</a>の論理値（0または1）</p></td>
+<td><p><a href="../Page/ブーリアン型.md" title="wikilink">ブーリアン型</a>の論理値（0または1）</p></td>
 </tr>
 <tr class="even">
 <td><p>date/time</p></td>
@@ -136,8 +136,8 @@ XML-RPCフォールトの典型例を以下に示す。
   - [Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")
   - [ソフトウェアコンポーネント](../Page/ソフトウェアコンポーネント.md "wikilink")
   - [OPML](https://ja.wikipedia.org/wiki/OPML "wikilink")
-  - [Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")
-  - [WDDX](https://ja.wikipedia.org/wiki/WDDX "wikilink")
+  - [Webサービス](../Page/Webサービス.md "wikilink")
+  - [WDDX](../Page/WDDX.md "wikilink")
 
 ## 外部リンク
 
@@ -146,7 +146,7 @@ XML-RPCフォールトの典型例を以下に示す。
   - [Tutorials](http://www.xml.com/pub/rg/XML_RPC_Tutorials)
   - [Technology Reports](http://xml.coverpages.org/xml-rpc.html)
   - [Citations from CiteSeer](http://citeseer.org/cs?q=XML+and+RPC)
-  - [XEP-0009: Jabber-RPC](http://xmpp.org/extensions/xep-0009.html) [XMPPプロトコル上のXML](https://ja.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol "wikilink")-RPC
+  - [XEP-0009: Jabber-RPC](http://xmpp.org/extensions/xep-0009.html) [XMPPプロトコル上のXML](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")-RPC
   - [pyJabberXMLRPC](http://gdr.geekhood.net/gdrwpl/jxmlrpc.php): Python用（Jabber上のXML-RPC）
   - [Secure Apache XML-RPC](http://members.fortunecity.com/neptune42/xmlrpc/index.htm)
   - [RemObjects SDK](http://www.remobjects.com/ro) [SOAPなどへのXML](../Page/SOAP_\(プロトコル\).md "wikilink")-RPC対応

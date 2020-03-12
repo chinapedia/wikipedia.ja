@@ -5,7 +5,7 @@
 
 ## 概要
 
-特典として、収録曲である「A SONG RUNS THROUGH WORLD」の[ビデオ・クリップも収録されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+特典として、収録曲である「A SONG RUNS THROUGH WORLD」の[ビデオ・クリップも収録されている](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 収録曲
 

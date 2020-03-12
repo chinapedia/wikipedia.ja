@@ -1,14 +1,14 @@
 > この記事は[! Radio the combat butler](https://ja.wikipedia.org/wiki/!_Radio_the_combat_butler)から翻訳されています。
 
 
-**ハヤテのごとく\! Radio the combat butler**（*' - レディオザコンバットバトラー**）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系テレビアニメ『**[ハヤテのごとく\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")**』との連動番組として[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")と[BEWE](https://ja.wikipedia.org/wiki/BEWE "wikilink")にて[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")まで配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[略称は](../Page/略語.md "wikilink")『**ハヤコン*'』。
+**ハヤテのごとく\! Radio the combat butler**（*' - レディオザコンバットバトラー**）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系テレビアニメ『**[ハヤテのごとく\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")**』との連動番組として[音泉](../Page/音泉.md "wikilink")と[BEWE](../Page/BEWE.md "wikilink")にて[2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")まで配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[略称は](../Page/略語.md "wikilink")『**ハヤコン*'』。
 
 なお、当該作中登場人物の一人である西沢歩については、作中では主に「西沢さん」の呼称が用いられるが、本項では以下「歩」と表記する。
 
 ## パーソナリティ
 
-  - **[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")** （[綾崎ハヤテ](https://ja.wikipedia.org/wiki/綾崎ハヤテ "wikilink")役）
-  - **[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")** （[三千院ナギ](https://ja.wikipedia.org/wiki/三千院ナギ "wikilink")役）
+  - **[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")** （[綾崎ハヤテ](../Page/綾崎ハヤテ.md "wikilink")役）
+  - **[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")** （[三千院ナギ](../Page/三千院ナギ.md "wikilink")役）
 
 ## ゲスト
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - \#8 （[5月25日](../Page/5月25日.md "wikilink")）・\#9 （[6月1日](../Page/6月1日.md "wikilink")） [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")（[マリア役](https://ja.wikipedia.org/wiki/マリア_\(ハヤテのごとく!\) "wikilink")）\[1\]
+  - \#8 （[5月25日](../Page/5月25日.md "wikilink")）・\#9 （[6月1日](../Page/6月1日.md "wikilink")） [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")（[マリア役](../Page/マリア_\(ハヤテのごとく!\).md "wikilink")）\[1\]
 
 <!-- end list -->
 
@@ -24,16 +24,16 @@
 
 <!-- end list -->
 
-  - \#27 （[10月5日](../Page/10月5日.md "wikilink")） [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")（[愛沢咲夜](https://ja.wikipedia.org/wiki/愛沢咲夜 "wikilink")役）
+  - \#27 （[10月5日](../Page/10月5日.md "wikilink")） [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")（[愛沢咲夜](../Page/愛沢咲夜.md "wikilink")役）
 
 <!-- end list -->
 
   -
-    「執事とらのあな」休止、特別コーナー「[ごきげんよう](https://ja.wikipedia.org/wiki/ライオンのごきげんよう "wikilink")」（関西に関する言葉が書かれたサイコロを振ってトーク）が実施
+    「執事とらのあな」休止、特別コーナー「[ごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")」（関西に関する言葉が書かれたサイコロを振ってトーク）が実施
 
 <!-- end list -->
 
-  - \#28・\#29 （[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")・[10月19日](../Page/10月19日.md "wikilink")） [松来未祐](../Page/松来未祐.md "wikilink")（[鷺ノ宮伊澄](https://ja.wikipedia.org/wiki/鷺ノ宮伊澄 "wikilink")役）
+  - \#28・\#29 （[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")・[10月19日](../Page/10月19日.md "wikilink")） [松来未祐](../Page/松来未祐.md "wikilink")（[鷺ノ宮伊澄](../Page/鷺ノ宮伊澄.md "wikilink")役）
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - \#30 （[10月26日](../Page/10月26日.md "wikilink")） [矢作紗友里](https://ja.wikipedia.org/wiki/矢作紗友里 "wikilink")（[瀬川泉](https://ja.wikipedia.org/wiki/瀬川泉 "wikilink")役）・[中尾衣里](https://ja.wikipedia.org/wiki/中尾衣里 "wikilink")（[花菱美希](https://ja.wikipedia.org/wiki/花菱美希 "wikilink")役）・[浅野真澄](../Page/浅野真澄.md "wikilink")（[朝風理沙](https://ja.wikipedia.org/wiki/朝風理沙 "wikilink")役）
+  - \#30 （[10月26日](../Page/10月26日.md "wikilink")） [矢作紗友里](https://ja.wikipedia.org/wiki/矢作紗友里 "wikilink")（[瀬川泉](../Page/瀬川泉.md "wikilink")役）・[中尾衣里](../Page/中尾衣里.md "wikilink")（[花菱美希](../Page/花菱美希.md "wikilink")役）・[浅野真澄](../Page/浅野真澄.md "wikilink")（[朝風理沙](../Page/朝風理沙.md "wikilink")役）
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - \#48・\#49 （[3月7日](../Page/3月7日.md "wikilink")・[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")） [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")（[西沢歩](https://ja.wikipedia.org/wiki/西沢歩 "wikilink")役）\[2\]
+  - \#48・\#49 （[3月7日](../Page/3月7日.md "wikilink")・[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")） [高橋美佳子](../Page/高橋美佳子.md "wikilink")（[西沢歩](../Page/西沢歩.md "wikilink")役）\[2\]
 
 ## 概要
 
@@ -87,9 +87,9 @@
 
 <!-- end list -->
 
-  - 3月7日・14日放送分（\#48・\#49） [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")がゲスト出演。初めて白石と釘宮がそろってでのゲストになった。\#48では久しぶりに「執事とらのあな」のコーナーが行われ、それぞれのお題が成功すれば、アニメ中の歩が食べたものがゲットできるものだった。\#49では、いつもどおりのコーナーに戻った。
+  - 3月7日・14日放送分（\#48・\#49） [高橋美佳子](../Page/高橋美佳子.md "wikilink")がゲスト出演。初めて白石と釘宮がそろってでのゲストになった。\#48では久しぶりに「執事とらのあな」のコーナーが行われ、それぞれのお題が成功すれば、アニメ中の歩が食べたものがゲットできるものだった。\#49では、いつもどおりのコーナーに戻った。
   - 4月4日放送分（\#52）アニメ最終回と供にラジオ放送終了。
-  - その後、アニメ第2期の製作が発表された。そして、ラジオは『[ハヤコン](https://ja.wikipedia.org/wiki/ハヤコン "wikilink")』に受け継がれた。
+  - その後、アニメ第2期の製作が発表された。そして、ラジオは『[ハヤコン](../Page/ハヤコン.md "wikilink")』に受け継がれた。
 
 ## コーナー
 
@@ -105,7 +105,7 @@
     \#31から募集、\#32から開始。ハヤテ並とまではいかなくても不幸な体験をしたリスナーからその不幸体験を送ってもらうコーナー。
     毎週勝ち抜き戦をして、最終的にプチ不幸チャンピオンになったリスナーには素敵なプレゼントが贈られる。
   - 執事とらのあな
-    一流の[執事](https://ja.wikipedia.org/wiki/執事 "wikilink")を目指すために、執事として求められる能力をさまざまな形で試していくコーナー。ゲーム失敗の場合は罰ゲームがある。
+    一流の[執事](../Page/執事.md "wikilink")を目指すために、執事として求められる能力をさまざまな形で試していくコーナー。ゲーム失敗の場合は罰ゲームがある。
     コーナーの募集自体はエンディングでされていたが、＃29で一旦最後に途切れるも、＃48、＃49。
   - 三千院相談室
     悩み多きリスナーの相談をさっくりと、時にはざっくりと解決していくコーナー。
@@ -145,7 +145,7 @@
       -
         結果…引き抜きにくい釘 抜きにくい釘 引き抜きにくい釘（田中理恵 - ×）、白い広いお城でおしろいをお披露目しろ（釘宮：○）、ハヤテのごとく\!RADIO THE COMBAT BUTLER（釘宮 - ○）
         罰ゲームは「ハヤコン」と略さず「ハヤテのごとく\! RADIO THE COMBAT BUTLER」と番組中に言い切る
-  - \#10 [おみくじ](https://ja.wikipedia.org/wiki/おみくじ "wikilink")（〈白石 - × 釘宮 - ○〉）
+  - \#10 [おみくじ](../Page/おみくじ.md "wikilink")（〈白石 - × 釘宮 - ○〉）
       -
         リスナーの提案元は「回数に制限をつけて、ある回数以内に引けなかったら罰ゲーム」だったが、番組が用意したのは確率1/6のおみくじクラッカー（[大吉](https://ja.wikipedia.org/wiki/大吉 "wikilink")・[中吉](https://ja.wikipedia.org/wiki/中吉 "wikilink")・[小吉](https://ja.wikipedia.org/wiki/小吉 "wikilink")・[吉](https://ja.wikipedia.org/wiki/吉 "wikilink")・[凶](https://ja.wikipedia.org/wiki/凶 "wikilink")・[大凶](https://ja.wikipedia.org/wiki/大凶 "wikilink")）のを1回で大吉を引き当てる
         罰ゲームはスタジオの下にあるお菓子自販機でお菓子をダッシュで買わせた
@@ -167,8 +167,8 @@
         結果…本と答えるが不正解（正解：当たりの宝くじ）。罰ゲームは放送中は語尾に「ざます」を付けて話す
   - \#15 水（用意された4種類の水で一番高いものを当てる〈×〉）
       -
-        水一覧 - [コントレックス](https://ja.wikipedia.org/wiki/コントレックス "wikilink")、[エビアン](https://ja.wikipedia.org/wiki/エビアン_\(ミネラルウォーター\) "wikilink")、[クリスタルガイザー](https://ja.wikipedia.org/wiki/クリスタルガイザー "wikilink")、[還元水素水](https://ja.wikipedia.org/wiki/還元水素水 "wikilink")
-        結果…(A)と解答するも不正解（正解はB〔エビアン(A)、還元水素水(B)、コントレックス(C)、クリスタルガイザー(D)〕）、罰ゲームは[コントレックス](https://ja.wikipedia.org/wiki/コントレックス "wikilink")を収録中に全て飲みきる
+        水一覧 - [コントレックス](../Page/コントレックス.md "wikilink")、[エビアン](../Page/エビアン_\(ミネラルウォーター\).md "wikilink")、[クリスタルガイザー](../Page/クリスタルガイザー.md "wikilink")、[還元水素水](https://ja.wikipedia.org/wiki/還元水素水 "wikilink")
+        結果…(A)と解答するも不正解（正解はB〔エビアン(A)、還元水素水(B)、コントレックス(C)、クリスタルガイザー(D)〕）、罰ゲームは[コントレックス](../Page/コントレックス.md "wikilink")を収録中に全て飲みきる
 
 </div>
 
@@ -199,9 +199,9 @@
         4.3文字しりとり…制限時間1分で20個言えたらクリア（成功 - 高級サーロインステーキ、失敗 - 高級サーロインステーキ小）
         ＜結果＞18個(※)で失敗でサーロイン小に
         (※)ハヤテ→テスト→トンビ→ビンゴ→ゴリラ→ラッパ→パスタ→太鼓→子供→モラル→ルール→ルビー→イルカ→カラス→スイカ→蚕→コタツ→積み木→キッス
-        5.トランプの神経衰弱…2人で交代しながら1分以内に26枚13組をそろえれば成功（成功 - 北海道[牧家](https://ja.wikipedia.org/wiki/牧家 "wikilink")の[白いプリン](https://ja.wikipedia.org/wiki/白いプリン "wikilink")またはチーズケーキ、失敗はその小）
+        5.トランプの神経衰弱…2人で交代しながら1分以内に26枚13組をそろえれば成功（成功 - 北海道[牧家](https://ja.wikipedia.org/wiki/牧家 "wikilink")の[白いプリン](../Page/白いプリン.md "wikilink")またはチーズケーキ、失敗はその小）
         ＜結果＞失敗、白石はプリン、釘宮はチーズケーキの小を選択
-  - \#18 [スイカ割り](https://ja.wikipedia.org/wiki/スイカ割り "wikilink")（3回体を回し、上手く叩けたらスイカを食べてよし、美味しい部分を取り除いたスイカが渡される〈○〉）
+  - \#18 [スイカ割り](../Page/スイカ割り.md "wikilink")（3回体を回し、上手く叩けたらスイカを食べてよし、美味しい部分を取り除いたスイカが渡される〈○〉）
       -
         スタジオの外で挑戦
         結果…1回目…先行白石 - 失敗、後攻釘宮 - 失敗。2回目…先行白石 - 成功
@@ -242,11 +242,11 @@
       -
         「ハヤテ」に出演されたキャストのプロフィールが書かれた紙を引き、そのプロフィールが誰のものであるかを当て多くるというゲーム
         結果…3問中全問正解
-        詳細…1問目 - [小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")（[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身、[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")芸術学部放送学科卒業、お酒が好き）、2問目 - [若本規夫](../Page/若本規夫.md "wikilink")（[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")生まれ、[山口県](../Page/山口県.md "wikilink")出身、167cm・57kg、大学卒業後[警視庁](../Page/警視庁.md "wikilink")[機動隊](https://ja.wikipedia.org/wiki/機動隊 "wikilink")に勤務した経験がある）、3問目 - [日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")（[8月4日](../Page/8月4日.md "wikilink")生まれ、剣道初段・英検3級、AB型、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身）
+        詳細…1問目 - [小杉十郎太](../Page/小杉十郎太.md "wikilink")（[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身、[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")芸術学部放送学科卒業、お酒が好き）、2問目 - [若本規夫](../Page/若本規夫.md "wikilink")（[10月18日](../Page/10月18日.md "wikilink")生まれ、[山口県](../Page/山口県.md "wikilink")出身、167cm・57kg、大学卒業後[警視庁](../Page/警視庁.md "wikilink")[機動隊](https://ja.wikipedia.org/wiki/機動隊 "wikilink")に勤務した経験がある）、3問目 - [日野聡](../Page/日野聡.md "wikilink")（[8月4日](../Page/8月4日.md "wikilink")生まれ、剣道初段・英検3級、AB型、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身）
   - \#27 挑戦なし
       -
         釘宮欠席のため
-        ゲストの植田佳奈とは「[ごきげんよう](https://ja.wikipedia.org/wiki/ライオンのごきげんよう "wikilink")」と題し、関西にまつわる言葉が書かれたサイコロ（カンサイコロ）を振って出た目でトークするというもの（本家のルールと同様、このコーナーに限り関西弁で喋るようにという縛りがあった）。サイコロの目の詳細は「食い倒れ」、「関西自慢」、「阪神タイガース」、「子供の頃の思い出」、「鹿」、「今日の当たり目」。
+        ゲストの植田佳奈とは「[ごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")」と題し、関西にまつわる言葉が書かれたサイコロ（カンサイコロ）を振って出た目でトークするというもの（本家のルールと同様、このコーナーに限り関西弁で喋るようにという縛りがあった）。サイコロの目の詳細は「食い倒れ」、「関西自慢」、「阪神タイガース」、「子供の頃の思い出」、「鹿」、「今日の当たり目」。
         実際に出た目…今日の当たり目→鹿→鹿（スルー）→関西自慢。
   - \#28 挑戦なし
       -
@@ -259,7 +259,7 @@
   - \#30 挑戦なし
       -
         代わりに「ハヤコン常識力チェック」を実施、常識度を測るクイズで毎回くじを引いて出題者を決め、残りの3人に対して常識クイズを出題。万が一間違えた人がいた場合くじで選ばれた出題者がその人のカレーに辛いスパイスを1回振りかけることが出来る。時間が来たところで終了の合図が出た後は、みんなでそのカレーを食べるというものであった。
-        詳細…1.（出題者）矢作／慣用句の問題。すごくケチな人が火をともす場所といえばどこ? A.[爪](https://ja.wikipedia.org/wiki/爪 "wikilink")（正解者 - 浅野・白石）
+        詳細…1.（出題者）矢作／慣用句の問題。すごくケチな人が火をともす場所といえばどこ? A.[爪](../Page/爪.md "wikilink")（正解者 - 浅野・白石）
         2.中尾／アニメの現場でセル画が使われなくなった一番の理由は何? A.デジタル化（白石）
         3.浅野／フランスの作家、スタンダールの墓に刻まれている言葉といえば何? A.生きた、描いた、愛した（矢作）
         結果…白石・矢作・浅野1回 - 中尾2回（スパイシー数）
@@ -288,7 +288,7 @@
         \#32以降…「我が家の家訓」を1ネタ紹介、2人がそれについてトークをする
   - オープニング
       -
-        OPの最初には必ず「テレビ東京の方では第○話まで放送しました」と言い、その週の話の裏話やパロディの詳細などを話している。トークを一旦終了後、提供クレジット読み無しでそのまま小学館のCMに接続。ちなみに小学館のCMはマリア役の田中が担当している。\#?からは[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")のCM（本アニメのOP\&EDテーマ曲・DVD）も流れるようになった。ちなみにDVD「ハヤテのごとく\!」のDVDCM（\#16-）は[桂ヒナギク](https://ja.wikipedia.org/wiki/桂ヒナギク "wikilink")役の[伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")が担当している。また番組内で「ハヤテ」関連の曲を紹介し、その曲の1コーラスだけを流すこともある。
+        OPの最初には必ず「テレビ東京の方では第○話まで放送しました」と言い、その週の話の裏話やパロディの詳細などを話している。トークを一旦終了後、提供クレジット読み無しでそのまま小学館のCMに接続。ちなみに小学館のCMはマリア役の田中が担当している。\#?からは[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")のCM（本アニメのOP\&EDテーマ曲・DVD）も流れるようになった。ちなみにDVD「ハヤテのごとく\!」のDVDCM（\#16-）は[桂ヒナギク](../Page/桂ヒナギク.md "wikilink")役の[伊藤静](../Page/伊藤静.md "wikilink")が担当している。また番組内で「ハヤテ」関連の曲を紹介し、その曲の1コーラスだけを流すこともある。
   - CM
       -
         小学館（\#1-\#24）、セブンアンドワイ（\#25-）→ジェネオン（2代目OP曲）
@@ -362,6 +362,6 @@
 1.  放送上は2週連続での代理となっていたが実際は2本録り。
 2.  2人揃った状態でのゲスト出演は第1期では最初で最後であった。
 3.  本アニメの英名タイトルは「Hayate the combat butler」であるため略称が被っているが何故か問題なく本ラジオの略称として定着した。
-4.  『[白石涼子★R-24hr](https://ja.wikipedia.org/wiki/白石涼子★R-24hr "wikilink")』（ネットラジオ、5月28日配信分）によると喉を約半年前から痛めており、薬を飲んで通院していたが完治しなかったため手術に踏み切ったという。また、\#10で[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")中に実母が上京（この時、本アニメも一緒に見ていたと「ハヤコン」\#11で発言）してきて二人暮らしをしていた（本人のサイト日記では[4月24日付](http://www.starchild.co.jp/artist/shiraishi/diary070424.html)と[5月27日付](http://www.starchild.co.jp/artist/shiraishi/diary070527.html)参照）ことを話していたことから見舞いという見方ができる。
+4.  『[白石涼子★R-24hr](../Page/白石涼子★R-24hr.md "wikilink")』（ネットラジオ、5月28日配信分）によると喉を約半年前から痛めており、薬を飲んで通院していたが完治しなかったため手術に踏み切ったという。また、\#10で[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")中に実母が上京（この時、本アニメも一緒に見ていたと「ハヤコン」\#11で発言）してきて二人暮らしをしていた（本人のサイト日記では[4月24日付](http://www.starchild.co.jp/artist/shiraishi/diary070424.html)と[5月27日付](http://www.starchild.co.jp/artist/shiraishi/diary070527.html)参照）ことを話していたことから見舞いという見方ができる。
 5.  他のレギュラーラジオ番組とアフレコの仕事の兼ね合いかと思われる。
 6.  当初は2008年5月23日に発売の予定だったが諸般の事情により延期された。

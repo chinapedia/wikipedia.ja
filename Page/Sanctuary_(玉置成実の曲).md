@@ -1,11 +1,11 @@
 > この記事は[Sanctuary \(\)](https://ja.wikipedia.org/wiki/Sanctuary_\(\))から翻訳されています。
 
 
-『**Sanctuary**』（サンクチュアリ）は[玉置成実](../Page/玉置成実.md "wikilink")の12枚目のシングルで、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")に発売された。レーベルは[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+『**Sanctuary**』（サンクチュアリ）は[玉置成実](../Page/玉置成実.md "wikilink")の12枚目のシングルで、[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に発売された。レーベルは[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 ## 概要
 
-『Sanctuary』は[テレビ東京系アニメ](https://ja.wikipedia.org/wiki/テレビ東京系アニメ "wikilink")『[牙-KIBA-](https://ja.wikipedia.org/wiki/牙_\(アニメ\) "wikilink")』前期オープニングテーマ曲。それまで[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（[TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）制作の[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")の主題歌を歌っていた玉置としては初のガンダム以外のアニメ主題歌で、初のテレビ東京系アニメ主題歌となった。初回限定盤は、ジャケットの衣装と同じ赤のCDケース仕様で販売され、帯ラベルの裏面に『牙』の主人公・ゼッドが描かれたステッカー仕様となっている。
+『Sanctuary』は[テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")『[牙-KIBA-](../Page/牙_\(アニメ\).md "wikilink")』前期オープニングテーマ曲。それまで[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（[TBS系列](../Page/TBSテレビ.md "wikilink")）制作の[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")の主題歌を歌っていた玉置としては初のガンダム以外のアニメ主題歌で、初のテレビ東京系アニメ主題歌となった。初回限定盤は、ジャケットの衣装と同じ赤のCDケース仕様で販売され、帯ラベルの裏面に『牙』の主人公・ゼッドが描かれたステッカー仕様となっている。
 
 なお、カップリングの「Happiness」と「Double Story」はアルバム『[Speciality](../Page/Speciality.md "wikilink")』には収録されていない。
 

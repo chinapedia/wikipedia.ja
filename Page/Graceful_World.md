@@ -18,9 +18,9 @@
 ## 収録曲
 
 1.  **Graceful World**
-    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[大谷靖夫](https://ja.wikipedia.org/wiki/大谷靖夫 "wikilink") / 編曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")、桑島幻矢、大谷靖夫）
+    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[大谷靖夫](../Page/大谷靖夫.md "wikilink") / 編曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink")、桑島幻矢、大谷靖夫）
       -
-        [TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[ビッグウイング](https://ja.wikipedia.org/wiki/ビッグウイング "wikilink")」主題歌
+        [TBS系列](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[ビッグウイング](../Page/ビッグウイング.md "wikilink")」主題歌
 2.  **Graceful World (2 Fat GTR Mix)**
       -
         リミックス：[渥美尚樹](https://ja.wikipedia.org/wiki/渥美尚樹 "wikilink")
@@ -35,8 +35,8 @@
 
 <!-- end list -->
 
-  - 『[4 FORCE](https://ja.wikipedia.org/wiki/4_FORCE "wikilink")』
-  - 『[Every Best Single 2](https://ja.wikipedia.org/wiki/Every_Best_Single_2 "wikilink")』
+  - 『[4 FORCE](../Page/4_FORCE.md "wikilink")』
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Cheering Songs](https://ja.wikipedia.org/wiki/Every_Cheering_Songs "wikilink")』
   - 『[Every Best Single 2 〜MORE COMPLETE〜](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』

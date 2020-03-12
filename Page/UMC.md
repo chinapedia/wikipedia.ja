@@ -3,9 +3,9 @@
 
 [UMC_SG_HQ.JPG](https://ja.wikipedia.org/wiki/File:UMC_SG_HQ.JPG "fig:UMC_SG_HQ.JPG")
 
-**UMC** （略称は**聯電**、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[半導体](../Page/半導体.md "wikilink")製造[ファウンドリ](../Page/ファウンドリ.md "wikilink")である。半導体受託製造での世界[シェアは](https://ja.wikipedia.org/wiki/市場占有率 "wikilink")2015年時点で世界3位。 [台湾証券取引所](../Page/台湾証券取引所.md "wikilink")（TYSE:2303）及び[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")（NYSE:UMC）に上場している。 本部は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[新竹市](../Page/新竹市.md "wikilink")[新竹科学工業園区](https://ja.wikipedia.org/wiki/新竹科学工業園区 "wikilink")。
+**UMC** （略称は**聯電**、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[半導体](../Page/半導体.md "wikilink")製造[ファウンドリ](../Page/ファウンドリ.md "wikilink")である。半導体受託製造での世界[シェアは](../Page/市場占有率.md "wikilink")2015年時点で世界3位。 [台湾証券取引所](../Page/台湾証券取引所.md "wikilink")（TYSE:2303）及び[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")（NYSE:UMC）に上場している。 本部は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[新竹市](../Page/新竹市.md "wikilink")[新竹科学工業園区](https://ja.wikipedia.org/wiki/新竹科学工業園区 "wikilink")。
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に設立され、新竹市 新竹科学工業園区、台南区、シンガポールに200mm、300 mmウェーハ対応の半導体製造工場を持つ。ファウンドリとしては台湾の[TSMC](https://ja.wikipedia.org/wiki/TSMC "wikilink")、ドイツ・シンガポールの[GLOBALFOUNDRIES](https://ja.wikipedia.org/wiki/GLOBALFOUNDRIES "wikilink")等と競合する。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に設立され、新竹市 新竹科学工業園区、台南区、シンガポールに200mm、300 mmウェーハ対応の半導体製造工場を持つ。ファウンドリとしては台湾の[TSMC](../Page/TSMC.md "wikilink")、ドイツ・シンガポールの[GLOBALFOUNDRIES](https://ja.wikipedia.org/wiki/GLOBALFOUNDRIES "wikilink")等と競合する。
 
 2003年には[SiS](https://ja.wikipedia.org/wiki/SiS "wikilink")を傘下に納めた。
 

@@ -1,9 +1,9 @@
 > この記事は[ Love\&Farm](https://ja.wikipedia.org/wiki/_Love\&Farm)から翻訳されています。
 
 
-『**牛に願いを Love\&Farm**』（うしにねがいを ラブアンドファーム）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")から[9月11日](../Page/9月11日.md "wikilink")まで毎週火曜日22:00 - 22:54に、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜22時枠](https://ja.wikipedia.org/wiki/関西テレビ制作・火曜夜10時枠の連続ドラマ "wikilink")」で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[玉山鉄二](../Page/玉山鉄二.md "wikilink")。全11回。
+『**牛に願いを Love\&Farm**』（うしにねがいを ラブアンドファーム）は、[2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[9月11日](../Page/9月11日.md "wikilink")まで毎週火曜日22:00 - 22:54に、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜22時枠](https://ja.wikipedia.org/wiki/関西テレビ制作・火曜夜10時枠の連続ドラマ "wikilink")」で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[玉山鉄二](../Page/玉山鉄二.md "wikilink")。全11回。
 
-[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")に[キャンパス](https://ja.wikipedia.org/wiki/キャンパス "wikilink")を構える関東農業大学に在籍する学生たちが、3か月間、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")に実学研修に参加をし、動物や自然、[過疎](https://ja.wikipedia.org/wiki/過疎 "wikilink")の村の人々との触れ合いを描く青春ストーリー。
+[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")に[キャンパス](../Page/キャンパス.md "wikilink")を構える関東農業大学に在籍する学生たちが、3か月間、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")に実学研修に参加をし、動物や自然、[過疎](../Page/過疎.md "wikilink")の村の人々との触れ合いを描く青春ストーリー。
 
 ## 登場人物
 
@@ -13,10 +13,10 @@
     演 - [玉山鉄二](../Page/玉山鉄二.md "wikilink")
     北美別町出身の酪農家の息子。2浪しているため、ほかの5人より年上である。テンションがかなり低く、真野とよく対立する。北美別町の酪農家の現状に絶望し、当初は故郷を捨てて大学も辞め、東京の喫茶店で働くことを考えていた。しかし、仲間と触れ合ったり、父親の酪農への想いを知っていくうちに酪農に対する姿勢が段々と変わっていき、最終的には北美別町に残ることを決める。ちなみに高校時代まではファッションがダサかったらしく、好きな女子に告白するとたいてい失敗していたらしい。背が高く板割りもできるが、腕相撲は真野や若松より弱い（エンディングの映像より）。
   - 真野 統平（まの とうへい）
-    演 - [小出恵介](https://ja.wikipedia.org/wiki/小出恵介 "wikilink")
+    演 - [小出恵介](../Page/小出恵介.md "wikilink")
     父親が官僚というエリート一家に育つ。6人の中ではリーダー的なポジションであり、酪農に対する想いは非常に強い。熱血漢である反面、理知的でもあり物事を論理的に考える傾向が強い。そのため末永から「頭でっかちのダサボンボン」と言われた事がある。勤勉で、将来は農林水産省に入省しようと考えているが、実地ではそれが役に立たないことを痛感し、仕事のミスから一度は実習を抜け出す。当初は高清水との衝突が絶えなくて、実地で役に立つ知識が豊富な高清水に嫉妬していたが、次第に理解を示すようになる。恋愛に関しては積極的で狙った獲物は逃さないのがポリシー。腕相撲は高清水よりは強いが、若松よりは弱い。藤井に気がある。
   - 若松 亮太（わかまつ りょうた）
-    演 - [中田敦彦](https://ja.wikipedia.org/wiki/中田敦彦 "wikilink")（[オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")）
+    演 - [中田敦彦](../Page/中田敦彦.md "wikilink")（[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")）
     画家志望だったが、「環境デザイン学部」を誤解してしまい、美大と農大を間違えて入学してしまったうっかり者。大声を出すのが好きで、草原に出てよく「ラブ・アンド・ファーム」と叫んでいる。基本的に空気が読めず変人であるため、今まで友達がいなかった（克也が初めての友達）。仲間との関係はきちんと築いているが、単独行動が多く一人で絵を描くのが好き。3人の中では腕相撲が一番強い。高清水の妹の百合に想いを寄せている。
   - 藤井 彩華（ふじい あやか）
     演 - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")
@@ -31,10 +31,10 @@
 ### あしざきファーム
 
   - 芦崎 克也（あしざき かつや）
-    演 - [田中圭](https://ja.wikipedia.org/wiki/田中圭 "wikilink")
+    演 - [田中圭](../Page/田中圭.md "wikilink")
     あしざきファームの一人息子で、北美別町出身の高清水の幼馴染。愛想がよく明るい性格のため、すぐに実習生たちと打ち解ける。末永に一目惚れし、最初は全く相手にされなかったが、末永が次第に変わっていくうちにデートの約束をするまでの仲に進展する。母・富貴子の死後牧場を継ぐが、その際に返済しきれないほどの借金が発覚し、牧場を手放さざるを得なくなる。そして、ほかの牧場に働きに行くため、競走馬を育てるという自分や母の夢を胸に北美別町を去っていった。実習生からは「カッチャン」と呼ばれている。
   - 芦崎 富貴子（あしざき ふきこ）
-    演 - [市毛良枝](https://ja.wikipedia.org/wiki/市毛良枝 "wikilink")
+    演 - [市毛良枝](../Page/市毛良枝.md "wikilink")
     克也の母。
 
 ### 高清水牧場
@@ -43,7 +43,7 @@
     演 - [有村実樹](https://ja.wikipedia.org/wiki/有村実樹 "wikilink")
     高志の妹。気が少々強く思ったことははっきりと口に出す性格。兄と違い、町に対する思い入れが強く町を捨てると言った兄に対して怒りをあらわにする。また、町の現状を分かっていない高志の発言に対しても度々食って掛かる。自分に想いを寄せる若松に対しては普通に友達として接しており、末永に対してはその大人びた振る舞いに憧れを抱いている模様。
   - 高清水 サチ（たかしみず サチ）
-    演 - [朝加真由美](https://ja.wikipedia.org/wiki/朝加真由美 "wikilink")
+    演 - [朝加真由美](../Page/朝加真由美.md "wikilink")
     高志の母。
   - 高清水 弘志（たかしみず ひろし）
     演 - [大杉漣](../Page/大杉漣.md "wikilink")
@@ -52,7 +52,7 @@
 ### 吉田綿羊牧場
 
   - 吉田 宗之（よしだ むねゆき）
-    演 - [相島一之](https://ja.wikipedia.org/wiki/相島一之 "wikilink")
+    演 - [相島一之](../Page/相島一之.md "wikilink")
     吉田綿羊牧場の牧場主人。
   - 平林 すみよ（ひらばやし すみよ）
     演 - [藤本静](https://ja.wikipedia.org/wiki/藤本静 "wikilink")
@@ -61,16 +61,16 @@
 ### 北美別町
 
   - 宮本 奈津美（みやもと なつみ）
-    演 - [中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")
+    演 - [中嶋朋子](../Page/中嶋朋子.md "wikilink")
     北美別町出身の市議会議員。
   - 津村 太郎（つむら たろう）
-    演 - [森永悠希](https://ja.wikipedia.org/wiki/森永悠希 "wikilink")
+    演 - [森永悠希](../Page/森永悠希.md "wikilink")
     北美別町の小学生。関西出身で関西弁で話す。実習生や克也によくなついており、酪農家の生活を心配している。
 
 ### その他
 
   - 加藤 明（かとう あきら）
-    演 - [中村獅童](https://ja.wikipedia.org/wiki/中村獅童_\(2代目\) "wikilink")
+    演 - [中村獅童](../Page/中村獅童_\(2代目\).md "wikilink")
     獣医師。
   - 津村 杏子（つむら きょうこ）
     演 - [濱田マリ](https://ja.wikipedia.org/wiki/濱田マリ "wikilink")
@@ -78,24 +78,24 @@
 
 <!-- end list -->
 
-  - 末永 美代子（すえなが みよこ） - [栗田よう子](https://ja.wikipedia.org/wiki/栗田よう子 "wikilink")
+  - 末永 美代子（すえなが みよこ） - [栗田よう子](../Page/栗田よう子.md "wikilink")
   - 武田 和則（たけだ かずのり） - [菊池均也](../Page/菊池均也.md "wikilink")
-  - 真野 紀代（まの のりよ） - [岡まゆみ](https://ja.wikipedia.org/wiki/岡まゆみ "wikilink")
-  - 真野 達彦（まの たつひこ） - [平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
-  - 村上 亮司（むらかみ りょうじ） - [春田純一](https://ja.wikipedia.org/wiki/春田純一 "wikilink")
-  - 串田 孝光（くしだ たかみつ） - [でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
-  - 寺西 悠太郎（てらにし ゆうたろう） - [小日向文世](https://ja.wikipedia.org/wiki/小日向文世 "wikilink")
+  - 真野 紀代（まの のりよ） - [岡まゆみ](../Page/岡まゆみ.md "wikilink")
+  - 真野 達彦（まの たつひこ） - [平泉成](../Page/平泉成.md "wikilink")
+  - 村上 亮司（むらかみ りょうじ） - [春田純一](../Page/春田純一.md "wikilink")
+  - 串田 孝光（くしだ たかみつ） - [でんでん](../Page/でんでん.md "wikilink")
+  - 寺西 悠太郎（てらにし ゆうたろう） - [小日向文世](../Page/小日向文世.md "wikilink")
   - 松山 隆（まつやま たかし） - [田原浩史](../Page/田原浩史.md "wikilink")
 
 ## スタッフ
 
-  - 脚本 - [金子ありさ](https://ja.wikipedia.org/wiki/金子ありさ "wikilink")
-  - 音楽 - [住友紀人](https://ja.wikipedia.org/wiki/住友紀人 "wikilink")
-  - 演出 - [三宅喜重](https://ja.wikipedia.org/wiki/三宅喜重 "wikilink")、[本橋圭太](https://ja.wikipedia.org/wiki/本橋圭太 "wikilink")
-  - 主題歌 - [槇原敬之](../Page/槇原敬之.md "wikilink")「[GREEN DAYS](https://ja.wikipedia.org/wiki/GREEN_DAYS "wikilink")」（[エイベックス・エンタテインメント](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")）
-  - 監修 - [祐森誠司](https://ja.wikipedia.org/wiki/祐森誠司 "wikilink")（[東京農業大学](https://ja.wikipedia.org/wiki/東京農業大学 "wikilink")[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")）
-  - 協力 - [農林水産省](../Page/農林水産省.md "wikilink")、[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[レガートミュージック](https://ja.wikipedia.org/wiki/レガートミュージック "wikilink")、[シネハウス](https://ja.wikipedia.org/wiki/シネハウス "wikilink")、[バスク](https://ja.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[レモンスタジオ](../Page/レモンスタジオ.md "wikilink")、[ナイス・デー](https://ja.wikipedia.org/wiki/ナイス・デー_\(企業\) "wikilink")、[インナップ](https://ja.wikipedia.org/wiki/インナップ "wikilink")、[ファン](https://ja.wikipedia.org/wiki/有限会社ファン "wikilink")、[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")、[酪農学園大学](https://ja.wikipedia.org/wiki/酪農学園大学 "wikilink")
-  - プロデューサー - [重松圭一](https://ja.wikipedia.org/wiki/重松圭一 "wikilink")、[豊福陽子](https://ja.wikipedia.org/wiki/豊福陽子 "wikilink")
+  - 脚本 - [金子ありさ](../Page/金子ありさ.md "wikilink")
+  - 音楽 - [住友紀人](../Page/住友紀人.md "wikilink")
+  - 演出 - [三宅喜重](https://ja.wikipedia.org/wiki/三宅喜重 "wikilink")、[本橋圭太](../Page/本橋圭太.md "wikilink")
+  - 主題歌 - [槇原敬之](../Page/槇原敬之.md "wikilink")「[GREEN DAYS](../Page/GREEN_DAYS.md "wikilink")」（[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")）
+  - 監修 - [祐森誠司](https://ja.wikipedia.org/wiki/祐森誠司 "wikilink")（[東京農業大学](../Page/東京農業大学.md "wikilink")[教授](../Page/教授.md "wikilink")）
+  - 協力 - [農林水産省](../Page/農林水産省.md "wikilink")、[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[レガートミュージック](https://ja.wikipedia.org/wiki/レガートミュージック "wikilink")、[シネハウス](../Page/シネハウス.md "wikilink")、[バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[レモンスタジオ](../Page/レモンスタジオ.md "wikilink")、[ナイス・デー](https://ja.wikipedia.org/wiki/ナイス・デー_\(企業\) "wikilink")、[インナップ](https://ja.wikipedia.org/wiki/インナップ "wikilink")、[ファン](https://ja.wikipedia.org/wiki/有限会社ファン "wikilink")、[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")、[酪農学園大学](../Page/酪農学園大学.md "wikilink")
+  - プロデューサー - [重松圭一](../Page/重松圭一.md "wikilink")、[豊福陽子](https://ja.wikipedia.org/wiki/豊福陽子 "wikilink")
   - 制作著作 - 関西テレビ
 
 ## 放送日程
@@ -189,7 +189,7 @@
 <td><p>10.4%</p></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 8.7%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 8.7%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -202,10 +202,10 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shibauratec.jpg "wikilink")
 
-  - 撮影に使用した大学校舎は[芝浦工業大学](https://ja.wikipedia.org/wiki/芝浦工業大学 "wikilink")豊洲校舎である。
-  - シチュエーションは[東京農業大学](https://ja.wikipedia.org/wiki/東京農業大学 "wikilink")[国際食料情報学部](https://ja.wikipedia.org/wiki/国際食料情報学部 "wikilink")食料環境経済学科の『フィールド研修I』（農家実地研修）を参照している。この研修は、ゼミごとに行われ、北海道、山形県、長野県など各所で行われるが、ドラマと異なり、研修期間は一週間である。また東京農業大学の教育理念は「実学主義」である。
-  - このドラマの制作に協力したのは、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[江別市](../Page/江別市.md "wikilink")にある[酪農学園大学](https://ja.wikipedia.org/wiki/酪農学園大学 "wikilink")である。酪農学園大学は日本で唯一、酪農学部を有する実学主義の大学で、獣医学部、環境システム学部・短期大学部がある。酪農学部酪農学科の実践酪農学コースには、3か月間の酪農実習のカリキュラムが設定されている。このドラマの制作には、実践酪農学コースで酪農実習を体験した学生達、指導教員及び委託実習先農家がインタビューなどの取材に協力した。
-  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")で番組特製タオルが当たるプレゼントゲーム、CMでは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")のコンパクトカー「[ラクティス](https://ja.wikipedia.org/wiki/トヨタ・ラクティス "wikilink")」とのコラボレーション企画が放送された。
+  - 撮影に使用した大学校舎は[芝浦工業大学](../Page/芝浦工業大学.md "wikilink")豊洲校舎である。
+  - シチュエーションは[東京農業大学](../Page/東京農業大学.md "wikilink")[国際食料情報学部](https://ja.wikipedia.org/wiki/国際食料情報学部 "wikilink")食料環境経済学科の『フィールド研修I』（農家実地研修）を参照している。この研修は、ゼミごとに行われ、北海道、山形県、長野県など各所で行われるが、ドラマと異なり、研修期間は一週間である。また東京農業大学の教育理念は「実学主義」である。
+  - このドラマの制作に協力したのは、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[江別市](../Page/江別市.md "wikilink")にある[酪農学園大学](../Page/酪農学園大学.md "wikilink")である。酪農学園大学は日本で唯一、酪農学部を有する実学主義の大学で、獣医学部、環境システム学部・短期大学部がある。酪農学部酪農学科の実践酪農学コースには、3か月間の酪農実習のカリキュラムが設定されている。このドラマの制作には、実践酪農学コースで酪農実習を体験した学生達、指導教員及び委託実習先農家がインタビューなどの取材に協力した。
+  - [ワンセグ](../Page/ワンセグ.md "wikilink")で番組特製タオルが当たるプレゼントゲーム、CMでは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")のコンパクトカー「[ラクティス](../Page/トヨタ・ラクティス.md "wikilink")」とのコラボレーション企画が放送された。
 
 ## 外部リンク
 

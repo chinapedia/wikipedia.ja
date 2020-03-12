@@ -1,7 +1,7 @@
 > この記事は[C \(\)](https://ja.wikipedia.org/wiki/C_\(\))から翻訳されています。
 
 
-**レッスンC**（レッスンシー）は[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")・[ネオドラマ](https://ja.wikipedia.org/wiki/ネオドラマ "wikilink")枠で放送された[中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")主演の連続ドラマ。放送期間は[1993年](../Page/1993年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")〜[4月23日](../Page/4月23日.md "wikilink")。放送時間は23:25〜（30分）。全4回であった。
+**レッスンC**（レッスンシー）は[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[ネオドラマ](../Page/ネオドラマ.md "wikilink")枠で放送された[中嶋朋子](../Page/中嶋朋子.md "wikilink")主演の連続ドラマ。放送期間は[1993年](../Page/1993年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")〜[4月23日](../Page/4月23日.md "wikilink")。放送時間は23:25〜（30分）。全4回であった。
 
 ## ストーリー
 
@@ -11,7 +11,7 @@
 
 ## キャスト
 
-  - 水木千春（上南大学学生）：[中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")
+  - 水木千春（上南大学学生）：[中嶋朋子](../Page/中嶋朋子.md "wikilink")
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - 氷室浩平（千春の同棲相手）：[沢向要士](https://ja.wikipedia.org/wiki/澤向要進 "wikilink")
+  - 氷室浩平（千春の同棲相手）：[沢向要士](../Page/澤向要進.md "wikilink")
 
 <!-- end list -->
 
@@ -38,28 +38,28 @@
 
 <!-- end list -->
 
-  - 信一の母：[角替和枝](https://ja.wikipedia.org/wiki/角替和枝 "wikilink")
+  - 信一の母：[角替和枝](../Page/角替和枝.md "wikilink")
   - 恵子（家庭教師の教え子）：[菊池彩美](https://ja.wikipedia.org/wiki/菊池彩美 "wikilink")
-  - 恵子の父：[山崎一](https://ja.wikipedia.org/wiki/山崎一 "wikilink")
+  - 恵子の父：[山崎一](../Page/山崎一.md "wikilink")
 
 <!-- end list -->
 
   - [梶原阿貴](https://ja.wikipedia.org/wiki/梶原阿貴 "wikilink")
   - [森川由紀子](https://ja.wikipedia.org/wiki/森川由紀子 "wikilink")
-  - [金子恵実](https://ja.wikipedia.org/wiki/金子恵実 "wikilink")
+  - [金子恵実](../Page/金子恵実.md "wikilink")
 
 ## スタッフ
 
   - 企画：[田辺昭知](https://ja.wikipedia.org/wiki/田辺昭知 "wikilink")
-  - プロデュース：[木村純一](https://ja.wikipedia.org/wiki/木村純一 "wikilink")、[田辺昭知](https://ja.wikipedia.org/wiki/田辺昭知 "wikilink")
+  - プロデュース：[木村純一](../Page/木村純一.md "wikilink")、[田辺昭知](https://ja.wikipedia.org/wiki/田辺昭知 "wikilink")
   - 脚本：[田子明弘](https://ja.wikipedia.org/wiki/田子明弘 "wikilink")
   - 演出：[瀧川治水](https://ja.wikipedia.org/wiki/瀧川治水 "wikilink")
-  - 技術協力：[フォーチュン](https://ja.wikipedia.org/wiki/フォーチュン_\(テレビ技術会社\) "wikilink")
+  - 技術協力：[フォーチュン](../Page/フォーチュン_\(テレビ技術会社\).md "wikilink")
   - 協力：[富士通](../Page/富士通.md "wikilink")、[日本発条](../Page/日本発条.md "wikilink")、[化学情報協会](https://ja.wikipedia.org/wiki/化学情報協会 "wikilink")
   - 制作：テレビ朝日、[Ts.co.ltd](https://ja.wikipedia.org/wiki/ティーズ_\(制作プロダクション\) "wikilink")
 
 ## 小ネタ
 
-  - 上南大学のシーンの撮影は[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")で行われた。大学の学生有志が[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")として参加しているが、全4回における大学シーンのパートを1日で撮影する関係上、同じ服を着た学生が複数回出演している。
+  - 上南大学のシーンの撮影は[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")で行われた。大学の学生有志が[エキストラ](../Page/エキストラ.md "wikilink")として参加しているが、全4回における大学シーンのパートを1日で撮影する関係上、同じ服を着た学生が複数回出演している。
 
 [Category:テレビ朝日の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink")

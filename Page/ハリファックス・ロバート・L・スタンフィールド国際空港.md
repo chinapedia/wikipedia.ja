@@ -5,62 +5,62 @@
 
 ## 概要
 
-カナダ交通省が所有するこの空港は、2000年からはハリファックス国際空港公団が運営している。[エア・カナダJazz](https://ja.wikipedia.org/wiki/エア・カナダJazz "wikilink")と[キャンジェット航空](https://ja.wikipedia.org/wiki/キャンジェット航空 "wikilink")がハリファックス国際空港を[ハブ空港](https://ja.wikipedia.org/wiki/ハブ空港 "wikilink")としている。カナダで7番目に乗降客の多い空港である。
+カナダ交通省が所有するこの空港は、2000年からはハリファックス国際空港公団が運営している。[エア・カナダJazz](https://ja.wikipedia.org/wiki/エア・カナダJazz "wikilink")と[キャンジェット航空](https://ja.wikipedia.org/wiki/キャンジェット航空 "wikilink")がハリファックス国際空港を[ハブ空港](../Page/ハブ空港.md "wikilink")としている。カナダで7番目に乗降客の多い空港である。
 
 ## 就航路線
 
 ### 国内線
 
   - [トロント (ピアソン)](https://ja.wikipedia.org/wiki/トロント・ピアソン国際空港 "wikilink")
-  - [エドモントン](https://ja.wikipedia.org/wiki/エドモントン国際空港 "wikilink")
-  - [カルガリー](https://ja.wikipedia.org/wiki/カルガリー国際空港 "wikilink")
-  - [バンクーバー](https://ja.wikipedia.org/wiki/バンクーバー国際空港 "wikilink")
-  - [モントリオール (トルドー)](https://ja.wikipedia.org/wiki/モントリオール・ピエール・エリオット・トルドー国際空港 "wikilink")
-  - [オタワ](https://ja.wikipedia.org/wiki/オタワ・マクドナルド・カルティエ国際空港 "wikilink")
+  - [エドモントン](../Page/エドモントン国際空港.md "wikilink")
+  - [カルガリー](../Page/カルガリー国際空港.md "wikilink")
+  - [バンクーバー](../Page/バンクーバー国際空港.md "wikilink")
+  - [モントリオール (トルドー)](../Page/モントリオール・ピエール・エリオット・トルドー国際空港.md "wikilink")
+  - [オタワ](../Page/オタワ・マクドナルド・カルティエ国際空港.md "wikilink")
   - [ガンダー](https://ja.wikipedia.org/wiki/ガンダー_\(ニューファンドランド・ラブラドール州\) "wikilink")
   - [グースベイ](https://ja.wikipedia.org/wiki/グースベイ "wikilink")
-  - [シャーロットタウン](https://ja.wikipedia.org/wiki/シャーロットタウン "wikilink")
+  - [シャーロットタウン](../Page/シャーロットタウン.md "wikilink")
   - [シドニー](https://ja.wikipedia.org/wiki/シドニー_\(ノバスコシア州\) "wikilink")
-  - [セントジョン](https://ja.wikipedia.org/wiki/セントジョン_\(ニューブランズウィック州\) "wikilink")
-  - [セントジョンズ](https://ja.wikipedia.org/wiki/セントジョンズ_\(ニューファンドランド・ラブラドール州\) "wikilink")
-  - [ハミルトン](https://ja.wikipedia.org/wiki/ハミルトン・ジョン・C・マンロ国際空港 "wikilink")
+  - [セントジョン](../Page/セントジョン_\(ニューブランズウィック州\).md "wikilink")
+  - [セントジョンズ](../Page/セントジョンズ_\(ニューファンドランド・ラブラドール州\).md "wikilink")
+  - [ハミルトン](../Page/ハミルトン・ジョン・C・マンロ国際空港.md "wikilink")
   - [フォートマクマレー](https://ja.wikipedia.org/wiki/フォートマクマレー "wikilink")
-  - [フレデリクトン](https://ja.wikipedia.org/wiki/フレデリクトン "wikilink")
+  - [フレデリクトン](../Page/フレデリクトン.md "wikilink")
 
 ### 国際線
 
 #### アメリカ合衆国
 
-  - [オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")
+  - [オーランド](../Page/オーランド.md "wikilink")
   - [シカゴ (オヘア)](../Page/シカゴ・オヘア国際空港.md "wikilink")
-  - [ボストン](https://ja.wikipedia.org/wiki/ジェネラル・エドワード・ローレンス・ローガン国際空港 "wikilink")
+  - [ボストン](../Page/ジェネラル・エドワード・ローレンス・ローガン国際空港.md "wikilink")
   - [ニューヨーク (ケネディ)](../Page/ジョン・F・ケネディ国際空港.md "wikilink")
-  - [セントピーターズバーグ](https://ja.wikipedia.org/wiki/セントピーターズバーグ_\(フロリダ州\) "wikilink")／[クリアウォーター](https://ja.wikipedia.org/wiki/クリアウォーター "wikilink")。
+  - [セントピーターズバーグ](../Page/セントピーターズバーグ_\(フロリダ州\).md "wikilink")／[クリアウォーター](../Page/クリアウォーター.md "wikilink")。
   - [ワシントン (ダレス)](https://ja.wikipedia.org/wiki/ダレス国際空港 "wikilink")
-  - [デトロイト](https://ja.wikipedia.org/wiki/デトロイト・メトロポリタン・ウェイン・カウンティ空港 "wikilink")
+  - [デトロイト](../Page/デトロイト・メトロポリタン・ウェイン・カウンティ空港.md "wikilink")
   - [ニューアーク](../Page/ニューアーク・リバティー国際空港.md "wikilink")
-  - [アトランタ](https://ja.wikipedia.org/wiki/ハーツフィールド・ジャクソン・アトランタ国際空港 "wikilink")
-  - [ニューヨーク (ラガーディア)](https://ja.wikipedia.org/wiki/ラガーディア空港 "wikilink")
+  - [アトランタ](../Page/ハーツフィールド・ジャクソン・アトランタ国際空港.md "wikilink")
+  - [ニューヨーク (ラガーディア)](../Page/ラガーディア空港.md "wikilink")
 
 #### ヨーロッパ
 
   - [ロンドン (ガトウィック)](https://ja.wikipedia.org/wiki/ロンドン・ガトウィック空港 "wikilink")
-  - [ロンドン (ヒースロー)](https://ja.wikipedia.org/wiki/ロンドン・ヒースロー空港 "wikilink")
-  - [フランクフルト](https://ja.wikipedia.org/wiki/フランクフルト空港 "wikilink")
-  - [レイキャヴィーク](https://ja.wikipedia.org/wiki/ケプラヴィーク国際空港 "wikilink")
+  - [ロンドン (ヒースロー)](../Page/ロンドン・ヒースロー空港.md "wikilink")
+  - [フランクフルト](../Page/フランクフルト空港.md "wikilink")
+  - [レイキャヴィーク](../Page/ケプラヴィーク国際空港.md "wikilink")
 
 #### 他
 
-  - [オルギン](https://ja.wikipedia.org/wiki/オルギン "wikilink")
+  - [オルギン](../Page/オルギン.md "wikilink")
   - [カヨココ](https://ja.wikipedia.org/wiki/:en:Cayo_Coco "wikilink")
-  - [カンクン](https://ja.wikipedia.org/wiki/カンクン "wikilink")
+  - [カンクン](../Page/カンクン.md "wikilink")
   - [サングスタ](https://ja.wikipedia.org/wiki/:en:Sangster_International_Airport "wikilink")
   - [ディアレイク](https://ja.wikipedia.org/wiki/ディアレイク "wikilink")
   - [バミューダ](https://ja.wikipedia.org/wiki/バミューダ "wikilink")
   - [バラデロ](https://ja.wikipedia.org/wiki/バラデロ "wikilink")
   - [プエルトプラタ](https://ja.wikipedia.org/wiki/プエルトプラタ "wikilink")
   - [プンタ・カーナ](https://ja.wikipedia.org/wiki/プンタ・カーナ "wikilink")
-  - [ラ・ロマーナ](https://ja.wikipedia.org/wiki/ラ・ロマーナ_\(ドミニカ共和国\) "wikilink")
+  - [ラ・ロマーナ](../Page/ラ・ロマーナ_\(ドミニカ共和国\).md "wikilink")
 
 ## アクセス
 

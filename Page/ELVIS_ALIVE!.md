@@ -1,11 +1,11 @@
 > この記事は[ELVIS ALIVE!](https://ja.wikipedia.org/wiki/ELVIS_ALIVE!)から翻訳されています。
 
 
-**ELVIS ALIVE\!**（エルビス アライブ）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")で、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送されていた番組。放送時間は、毎週日曜日の19:00-20:55（2007年[9月30日](../Page/9月30日.md "wikilink")までは、20:00-20:55だった）（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。
+**ELVIS ALIVE\!**（エルビス アライブ）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送されていた番組。放送時間は、毎週日曜日の19:00-20:55（2007年[9月30日](../Page/9月30日.md "wikilink")までは、20:00-20:55だった）（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。
 
 ## 概要
 
-[萩原健太](https://ja.wikipedia.org/wiki/萩原健太 "wikilink")をパーソナリティとして、エルヴィス・プレスリーの、ロックンロール、ソングライター、映画などを紹介する。
+[萩原健太](../Page/萩原健太.md "wikilink")をパーソナリティとして、エルヴィス・プレスリーの、ロックンロール、ソングライター、映画などを紹介する。
 
 ## タイムテーブル
 
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   -
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")のエルヴィス・プレスリーについての最新情報
+    [2007年](../Page/2007年.md "wikilink")のエルヴィス・プレスリーについての最新情報
 
 <!-- end list -->
 

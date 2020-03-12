@@ -1,7 +1,7 @@
 > この記事は[NEWSMAN](https://ja.wikipedia.org/wiki/NEWSMAN)から翻訳されています。
 
 
-『**NEWSMAN**』（ニュースマン）は、[矢島正雄](https://ja.wikipedia.org/wiki/矢島正雄 "wikilink")原作、ふんわり（現・[小幡文生](https://ja.wikipedia.org/wiki/小幡文生 "wikilink")）作画の漫画。[集英社](../Page/集英社.md "wikilink")発行の漫画雑誌『[スーパージャンプ](https://ja.wikipedia.org/wiki/スーパージャンプ "wikilink")』にて連載された。単行本は全2巻（集英社刊）。
+『**NEWSMAN**』（ニュースマン）は、[矢島正雄](../Page/矢島正雄.md "wikilink")原作、ふんわり（現・[小幡文生](../Page/小幡文生.md "wikilink")）作画の漫画。[集英社](../Page/集英社.md "wikilink")発行の漫画雑誌『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』にて連載された。単行本は全2巻（集英社刊）。
 
 ## あらすじ
 

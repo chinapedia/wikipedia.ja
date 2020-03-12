@@ -7,7 +7,7 @@
 
 ## 出演者
 
-  - [湘南探偵団](https://ja.wikipedia.org/wiki/湘南探偵団 "wikilink")
+  - [湘南探偵団](../Page/湘南探偵団.md "wikilink")
 
 ## ネット局・放送時間
 
@@ -33,8 +33,8 @@
 
 <!-- end list -->
 
-  - 2005年4月 - 2005年9月・水曜21:00 - 21:30（[MUSIC9](https://ja.wikipedia.org/wiki/MUSIC9 "wikilink")枠・前半）
-  - 2005年10月 - 2006年3月・水曜19:00 - 19:30（[MusicQ](https://ja.wikipedia.org/wiki/MusicQ "wikilink")枠・前半）
+  - 2005年4月 - 2005年9月・水曜21:00 - 21:30（[MUSIC9](../Page/MUSIC9.md "wikilink")枠・前半）
+  - 2005年10月 - 2006年3月・水曜19:00 - 19:30（[MusicQ](../Page/MusicQ.md "wikilink")枠・前半）
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@
 
 ## 関連項目
 
-  - [MUSIC9](https://ja.wikipedia.org/wiki/MUSIC9 "wikilink")／[MusicQ](https://ja.wikipedia.org/wiki/MusicQ "wikilink") - 本番組を内包する番組枠（岐阜FM）。
-  - [K-MIX 8×8](https://ja.wikipedia.org/wiki/K-MIX_8×8 "wikilink") - 本番組を内包する番組枠。
+  - [MUSIC9](../Page/MUSIC9.md "wikilink")／[MusicQ](../Page/MusicQ.md "wikilink") - 本番組を内包する番組枠（岐阜FM）。
+  - [K-MIX 8×8](../Page/K-MIX_8×8.md "wikilink") - 本番組を内包する番組枠。
 
 [Category:エフエム岐阜の番組](https://ja.wikipedia.org/wiki/Category:エフエム岐阜の番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")

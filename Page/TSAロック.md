@@ -1,7 +1,7 @@
 > この記事は[TSA](https://ja.wikipedia.org/wiki/TSA)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Suitcase2.jpg "wikilink") **TSAロック**（ティーエスエーロック）とは、[アメリカ合衆国国土安全保障省](https://ja.wikipedia.org/wiki/アメリカ合衆国国土安全保障省 "wikilink")の[運輸保安庁](https://ja.wikipedia.org/wiki/運輸保安庁 "wikilink")から認定を受けた、旅具等に備えられた[施錠機構の総称である](https://ja.wikipedia.org/wiki/鍵 "wikilink")。「赤い[菱形](../Page/菱形.md "wikilink")（[TravelSentry](http://www.travelsentry.org/jp/) 社製）」または「赤い[松明](https://ja.wikipedia.org/wiki/たいまつ "wikilink")（[SafeSkies](http://www.safeskieslocks.com/) 社製）」のマークが付いている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Suitcase2.jpg "wikilink") **TSAロック**（ティーエスエーロック）とは、[アメリカ合衆国国土安全保障省](../Page/アメリカ合衆国国土安全保障省.md "wikilink")の[運輸保安庁](https://ja.wikipedia.org/wiki/運輸保安庁 "wikilink")から認定を受けた、旅具等に備えられた[施錠機構の総称である](https://ja.wikipedia.org/wiki/鍵 "wikilink")。「赤い[菱形](../Page/菱形.md "wikilink")（[TravelSentry](http://www.travelsentry.org/jp/) 社製）」または「赤い[松明](../Page/たいまつ.md "wikilink")（[SafeSkies](http://www.safeskieslocks.com/) 社製）」のマークが付いている。
 
 ## 機能・役割
 
@@ -11,7 +11,7 @@
 
 しかし、TSAロック機能が装備された荷物・錠前等は、持ち主が自分の鍵で施錠してあっても、運輸保安庁係官が専用の合鍵を用いて、随意荷物を抜き取り開錠し荷物を検査することが出来る。そのため、米国領土（[グアム](../Page/グアム.md "wikilink")、[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")等も含む）から出航する航空機への預け入れ時にも、施錠して渡すことが出来る。
 
-TSAロック採用製品は、[スーツケース](https://ja.wikipedia.org/wiki/スーツケース "wikilink")・[南京錠](https://ja.wikipedia.org/wiki/南京錠 "wikilink")・[スーツケースベルト](https://ja.wikipedia.org/wiki/スーツケースベルト "wikilink")・[ワイヤーロック](https://ja.wikipedia.org/wiki/ワイヤーロック "wikilink")などが存在する。抜き取り検査の対象となったことを示すインジケータが付いている製品もある。
+TSAロック採用製品は、[スーツケース](https://ja.wikipedia.org/wiki/スーツケース "wikilink")・[南京錠](../Page/南京錠.md "wikilink")・[スーツケースベルト](https://ja.wikipedia.org/wiki/スーツケースベルト "wikilink")・[ワイヤーロック](https://ja.wikipedia.org/wiki/ワイヤーロック "wikilink")などが存在する。抜き取り検査の対象となったことを示すインジケータが付いている製品もある。
 
 ## 背景
 

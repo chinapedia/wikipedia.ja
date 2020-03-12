@@ -1,7 +1,7 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-**ドランクドラゴンのオールナイトニッポンR**（**どらんくどらごんのおーるないとにっぽんあーる**）とは[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ドランクドラゴン](https://ja.wikipedia.org/wiki/ドランクドラゴン "wikilink")（[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")、[鈴木拓](https://ja.wikipedia.org/wiki/鈴木拓 "wikilink")）。
+**ドランクドラゴンのオールナイトニッポンR**（**どらんくどらごんのおーるないとにっぽんあーる**）とは[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")（[塚地武雅](../Page/塚地武雅.md "wikilink")、[鈴木拓](../Page/鈴木拓.md "wikilink")）。
 
 ## 放送時間
 
@@ -43,7 +43,7 @@
 ※全国21局ネットで放送
 
   - 27:00 - 29:00
-    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・ [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](../Page/茨城放送.md "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・ [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
   - 27:00 - 28:30
     ニッポン放送
   - 27:00 - 28:00
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - ゲストに[悲愴感](https://ja.wikipedia.org/wiki/悲愴感 "wikilink")メンバーが登場。しかしニッポン放送では、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[アジアカップ関連の番組のため放送されなかった](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")。
+  - ゲストに[悲愴感](../Page/悲愴感.md "wikilink")メンバーが登場。しかしニッポン放送では、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[アジアカップ関連の番組のため放送されなかった](../Page/AFCアジアカップ.md "wikilink")。
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
 ## 関連項目
 
-  - [ニッポン放送番組一覧](https://ja.wikipedia.org/wiki/ニッポン放送番組一覧 "wikilink")
+  - [ニッポン放送番組一覧](../Page/ニッポン放送番組一覧.md "wikilink")
   - [オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
   - オールナイトニッポンR・GAGナイト
   - [オールナイトニッポンR スペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")

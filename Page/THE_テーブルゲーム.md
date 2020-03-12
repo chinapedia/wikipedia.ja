@@ -5,7 +5,7 @@
 
 ## THE テーブルゲーム〜麻雀・囲碁・将棋・カード・花札・リバーシ・五目ならべ〜
 
-[PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、[DS版は](../Page/ニンテンドーDS.md "wikilink")[ワイヤレス対戦に対応](../Page/ゲームシェアリング.md "wikilink")。[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版は[ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")でのネット対戦に対応。Wii版の複数人数プレイ（マージャン、花札、カード）はDSを各プレイヤーのコントローラとして使用する。
+[PSP版](../Page/PlayStation_Portable.md "wikilink")、[DS版は](../Page/ニンテンドーDS.md "wikilink")[ワイヤレス対戦に対応](../Page/ゲームシェアリング.md "wikilink")。[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版は[ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")でのネット対戦に対応。Wii版の複数人数プレイ（マージャン、花札、カード）はDSを各プレイヤーのコントローラとして使用する。
 
 ### 収録ゲーム
 
@@ -91,4 +91,4 @@
 
 [Category:SIMPLEシリーズ](https://ja.wikipedia.org/wiki/Category:SIMPLEシリーズ "wikilink") [Category:ミニゲーム集](https://ja.wikipedia.org/wiki/Category:ミニゲーム集 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink")
 
-1.  SIMPLE1500シリーズ（[プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")）でテーブルゲームの開発実績（THE リバーシ2、THE 囲碁2、THE 花札2）があった。
+1.  SIMPLE1500シリーズ（[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")）でテーブルゲームの開発実績（THE リバーシ2、THE 囲碁2、THE 花札2）があった。

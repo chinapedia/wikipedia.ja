@@ -25,14 +25,14 @@
       - 7月 - [ショッピングカート](../Page/ショッピングカート.md "wikilink")サービス「ストアツール」提供開始
       - 9月 - [レンタルサーバー](https://ja.wikipedia.org/wiki/レンタルサーバー "wikilink")「サイトサーブ」提供開始
   - 2000年（平成12年）
-      - 3月 - 株式会社大阪有線放送社（現 株式会社[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")）と販売提携
+      - 3月 - 株式会社大阪有線放送社（現 株式会社[USEN](../Page/USEN.md "wikilink")）と販売提携
       - 6月 - ソニーコミュニケーションネットワーク株式会社（現[ソニーネットワークコミュニケーションズ](../Page/ソニーネットワークコミュニケーションズ.md "wikilink")株式会社）、株式会社ジャングルと販売提携
   - 2001年（平成13年）
       - 2月 - 株式会社[日本レジストリサービス](../Page/日本レジストリサービス.md "wikilink")と業務提携
-      - 5月 - グローバルメディアオンライン株式会社（現 [GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")株式会社）と販売提携
+      - 5月 - グローバルメディアオンライン株式会社（現 [GMOインターネット](../Page/GMOインターネット.md "wikilink")株式会社）と販売提携
       - 9月 大阪証券取引所ナスダックジャパン市場（現 [JASDAQ](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）に上場
   - 2002年（平成14年）
-      - 3月 - メルボルンIT社 （[豪国](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")） と業務提携
+      - 3月 - メルボルンIT社 （[豪国](../Page/オーストラリア.md "wikilink")） と業務提携
       - 4月 - [レンタルサーバー](https://ja.wikipedia.org/wiki/レンタルサーバー "wikilink")「サイトサーブ」リニューアル
       - 4月 - [ドメイン管理転送サービス](../Page/ドメイン名.md "wikilink")「ドメインフォワード」提供開始
   - 2003年（平成15年）
@@ -44,13 +44,13 @@
       - 11月 - コンテンツ（情報）販売サービス「インフォストア」提供開始
   - 2005年（平成17年）
       - 6月 - 「ショッピングサーチ・アラジン」を運営するコマースリンク株式会社と業務提携
-      - 7月 - 事業の拡大および業務の一層の効率化を図るため[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本店移転](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
-      - 11月 - [Yahoo\! JAPANのショッピング事業及びオークション事業に関して](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")[ヤフー株式会社と業務提携](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")
+      - 7月 - 事業の拡大および業務の一層の効率化を図るため[東京都](../Page/東京都.md "wikilink")[港区に本店移転](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
+      - 11月 - [Yahoo\! JAPANのショッピング事業及びオークション事業に関して](../Page/Yahoo!_JAPAN.md "wikilink")[ヤフー株式会社と業務提携](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")
       - 11月 - 株式会社[カカクコム](https://ja.wikipedia.org/wiki/カカクコム "wikilink")と業務提携
   - 2006年（平成18年）
       - 1月 - 独自ドメインウェブショップ総合支援サービス「ショップサーブ\[3\]」提供開始
       - 9月 - 株式会社ECホールディングスと資本・業務提携「ECおまかせ」を提供開始
-      - 10月 - [フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")「fido」創刊
+      - 10月 - [フリーペーパー](../Page/フリーペーパー.md "wikilink")「fido」創刊
       - 11月 - 商品検索サイト「ショッピングフィード」提供開始
       - 11月 - 顧客数が40,000社を突破
   - 2007年（平成19年）
@@ -62,10 +62,10 @@
       - 8月 - 「ショッピングフィード」の顧客売上が月間1億円を突破　
   - 2009年（平成21年）
       - 2月 - 携帯サイト「ショッピングフィードモバイル」を提供開始
-      - 8月 - 株式会社[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")と業務提携（ef、11月Scawaii\!、12月mina、2010年1月GISELe、6月Ray）
-      - 11月 - 株式会社[スクロールと業務提携](https://ja.wikipedia.org/wiki/スクロール_\(通販会社\) "wikilink")「グルメ通販サイト「FOODS\!FOODS\!FOODS\!」」提供開始
+      - 8月 - 株式会社[主婦の友社](../Page/主婦の友社.md "wikilink")と業務提携（ef、11月Scawaii\!、12月mina、2010年1月GISELe、6月Ray）
+      - 11月 - 株式会社[スクロールと業務提携](../Page/スクロール_\(通販会社\).md "wikilink")「グルメ通販サイト「FOODS\!FOODS\!FOODS\!」」提供開始
   - 2010年（平成22年）
-      - 7月 - 株式会社インテリジェンス（現 [パーソルキャリア](https://ja.wikipedia.org/wiki/パーソルキャリア "wikilink")株式会社）と共同出資会社「株式会社ECパートナーズ」設立
+      - 7月 - 株式会社インテリジェンス（現 [パーソルキャリア](../Page/パーソルキャリア.md "wikilink")株式会社）と共同出資会社「株式会社ECパートナーズ」設立
       - 10月 - Google ショッピングとパートナー契約
   - 2011年（平成23年）
       - 6月 - 株式会社プレシジョンマーケティングを連結子会社化

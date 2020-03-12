@@ -1,7 +1,7 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-**次長課長のオールナイトニッポンR**（**じちょうかちょうのおーるないとにっぽんあーる**）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気深夜枠[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")）。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")放送開始。
+**次長課長のオールナイトニッポンR**（**じちょうかちょうのおーるないとにっぽんあーる**）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気深夜枠[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](../Page/井上聡.md "wikilink")）。[2007年](../Page/2007年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")放送開始。
 
 ## 放送時間・日程
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")、[オールナイトニッポンR スペシャルナイト枠で特番を放送](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")。（録音）
+  - [2005年](../Page/2005年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")、[オールナイトニッポンR スペシャルナイト枠で特番を放送](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")。（録音）
 
 <!-- end list -->
 
@@ -44,34 +44,34 @@
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")、オールナイトニッポンR枠でレギュラー放送開始。（生放送）
+  - [2007年](../Page/2007年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")、オールナイトニッポンR枠でレギュラー放送開始。（生放送）
 
 ### 番組の特徴
 
   - 彼らの持ち味であるしつこさ、中学生のノリのような悪ふざけ満載の自由な内容が魅力である。
-  - オープニングで、今回の[ケータリング](https://ja.wikipedia.org/wiki/ケータリング "wikilink")について話すのが恒例となっている。
+  - オープニングで、今回の[ケータリング](../Page/ケータリング.md "wikilink")について話すのが恒例となっている。
   - タイトルコールは当初2人で行っていたが、現在は河本が1人でコールしている。
   - オープニング後のCM明けは、2人のフリートークが展開される。
-  - 井上がアニメやゲームが大好きなので、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")・[ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")・[モンスターハンター](https://ja.wikipedia.org/wiki/モンスターハンター "wikilink")等の話題になることがよくある。
-  - 深夜に放送しているラジオには珍しく、[下ネタ](https://ja.wikipedia.org/wiki/下ネタ "wikilink")トークがほとんどない。
+  - 井上がアニメやゲームが大好きなので、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")・[ガンダム](../Page/機動戦士ガンダム.md "wikilink")・[モンスターハンター](../Page/モンスターハンター.md "wikilink")等の話題になることがよくある。
+  - 深夜に放送しているラジオには珍しく、[下ネタ](../Page/下ネタ.md "wikilink")トークがほとんどない。
 
 ## 出来事
 
   - 第1回目の放送で、井上が「白紙のメールでいいので送ってください」と軽く発言したところ、予想外に白紙メールが1000通以上届いてしまい、回線がパンクしそうになった。
   - 第1・2回目ともに、モノマネのコーナーでの投票メールが届きすぎて、サーバーがパンクしてしまうハプニングが起こった。
-  - 第3回目の放送から、井上がコレクションしているレアな[ビックリマンシール](https://ja.wikipedia.org/wiki/ビックリマンシール "wikilink")の情報を呼びかけたところ、第6回目の放送では、実際にビックリマンシールを送ってきてくれたリスナーがいた。また、井上のリクエストで、[新ビックリマン](https://ja.wikipedia.org/wiki/新ビックリマン "wikilink")の主題歌「セント・ジュエルを探せ\!」が、2ヶ月（2回）連続で流れたことがある。
-  - 毎回のように[ケータリング](https://ja.wikipedia.org/wiki/ケータリング "wikilink")について文句を言っていたところ、第5回目の放送でオールナイトニッポン史上初の出来事、リスナーからケータリングが送られてきた。
+  - 第3回目の放送から、井上がコレクションしているレアな[ビックリマンシール](https://ja.wikipedia.org/wiki/ビックリマンシール "wikilink")の情報を呼びかけたところ、第6回目の放送では、実際にビックリマンシールを送ってきてくれたリスナーがいた。また、井上のリクエストで、[新ビックリマン](../Page/新ビックリマン.md "wikilink")の主題歌「セント・ジュエルを探せ\!」が、2ヶ月（2回）連続で流れたことがある。
+  - 毎回のように[ケータリング](../Page/ケータリング.md "wikilink")について文句を言っていたところ、第5回目の放送でオールナイトニッポン史上初の出来事、リスナーからケータリングが送られてきた。
   - 第6回目の放送は、それまで唯一のケータリングであった飴がどこかへ消えてしまったため、ケータリングが何も無い状態でのスタートとなってしまった。
   - 飴が消えてしまった事件をきっかけに、盗んだ犯人は誰なのかという話になり、『[若林史江のラジオで株が好き](https://ja.wikipedia.org/wiki/若林史江のラジオで株が好き "wikilink")』でパーソナリティを務める[若林史江](https://ja.wikipedia.org/wiki/若林史江 "wikilink")が怪しいと勝手に言い始め、どういう人物なのかという想像トークが異常に盛り上がった。そして第8回目の放送から、ついにコーナー化された。
   - 若林史江について想像で勝手に話が進み過ぎたため、河本が若林のブログに謝罪コメントを残したことがある。
   - 第10回目の放送では、井上がラジオ局内で仮眠をとったままオープニングになっても起きなかったので、番組の本番中にスピーカーで起こすという寝起きドッキリが行われた。
-  - [レベッカの](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")「MOON」が3回連続で流されたことがある。(2008年3月〜5月)
+  - [レベッカの](../Page/レベッカ_\(バンド\).md "wikilink")「MOON」が3回連続で流されたことがある。(2008年3月〜5月)
 
 ## 主なコーナー
 
 ### 河本準一のタンバリンクイズ
 
-河本がタンバリンで、[CMソングや](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")、ゲームソフト（[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")）などの曲を演奏し、井上とリスナーに当ててもらうコーナー。マニアックな選曲が多く、正解するのは少し難しい。元々は一部地域のみの放送枠で行っていたが、好評につき全国ネットで放送される場合もある。
+河本がタンバリンで、[CMソングや](../Page/コマーシャルソング.md "wikilink")[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")、ゲームソフト（[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")）などの曲を演奏し、井上とリスナーに当ててもらうコーナー。マニアックな選曲が多く、正解するのは少し難しい。元々は一部地域のみの放送枠で行っていたが、好評につき全国ネットで放送される場合もある。
 
   - 第13回目の放送では、骨折が完治していなかった河本に代わって、ゲストである[麒麟の川島がタンバリンクイズを出題した](../Page/麒麟_\(お笑いコンビ\).md "wikilink")。
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   - [ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")で1番強いのは誰か？
-  - [ポケモンのなつきを上げるにはどうしたらいいか](https://ja.wikipedia.org/wiki/ポケットモンスター_\(架空の生物\) "wikilink")？
+  - [ポケモンのなつきを上げるにはどうしたらいいか](../Page/ポケットモンスター_\(架空の生物\).md "wikilink")？
   - 大人になってからのことを考えると眠れない。
   - 釧路動物園の入場者数が増えなくて困っている。
   - どうしたら[ファミスタ](https://ja.wikipedia.org/wiki/ファミスタ "wikilink")の強い相手に勝てるか？
@@ -101,7 +101,7 @@
 
 ### デニーとジョニー
 
-リスナーから送られてきたデニー（[デニー友利](https://ja.wikipedia.org/wiki/デニー友利 "wikilink")）とジョニー（[黒木知宏](https://ja.wikipedia.org/wiki/黒木知宏 "wikilink")）の情報を紹介していく。ただし、情報はすべてリスナーの想像で作り上げたものである。 **君が知っている若林史江情報\!**の後継コーナーである。
+リスナーから送られてきたデニー（[デニー友利](https://ja.wikipedia.org/wiki/デニー友利 "wikilink")）とジョニー（[黒木知宏](../Page/黒木知宏.md "wikilink")）の情報を紹介していく。ただし、情報はすべてリスナーの想像で作り上げたものである。 **君が知っている若林史江情報\!**の後継コーナーである。
 
 ## 過去のコーナー
 
@@ -113,8 +113,8 @@
 
 大好評のコーナーであったが、歌の判定を募集したリスナーからのメールがあまりにも多く届きすぎたため、2回とも回線のサーバーがパンクしてしまうハプニングが起こった。（全2回）
 
-  - 第1回　河本「TOMORROW／[岡本真夜](https://ja.wikipedia.org/wiki/岡本真夜 "wikilink")」　井上「[冬がはじまるよ](../Page/冬がはじまるよ.md "wikilink")／香港人のまね」 ※井上勝利
-  - 第2回　河本「悲しい色やね／[上田正樹](https://ja.wikipedia.org/wiki/上田正樹 "wikilink")」　井上「にっぽん昔ばなし／花頭巾」 ※井上勝利　
+  - 第1回　河本「TOMORROW／[岡本真夜](../Page/岡本真夜.md "wikilink")」　井上「[冬がはじまるよ](../Page/冬がはじまるよ.md "wikilink")／香港人のまね」 ※井上勝利
+  - 第2回　河本「悲しい色やね／[上田正樹](../Page/上田正樹.md "wikilink")」　井上「にっぽん昔ばなし／花頭巾」 ※井上勝利　
 
 ### 次長課長にお話ししてもらいたい動物昔話
 
@@ -175,7 +175,7 @@
   - ディレクター：[石田誠](https://ja.wikipedia.org/wiki/石田誠_\(演出家\) "wikilink")
   - 放送作家：小西さん([小西マサテル](https://ja.wikipedia.org/wiki/小西マサテル "wikilink"))
 
-※小西は「[ナインティナインのオールナイトニッポン](https://ja.wikipedia.org/wiki/ナインティナインのオールナイトニッポン "wikilink")」（木曜25:00 - 27:00）も一緒に担当している。
+※小西は「[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")」（木曜25:00 - 27:00）も一緒に担当している。
 
 ## ネット局
 
@@ -184,7 +184,7 @@
 **27:00 - 29:00**
 
   -
-    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink")・[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[茨城放送](../Page/茨城放送.md "wikilink")・[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
 
 **27:00 - 28:30**
 
@@ -198,10 +198,10 @@
 
 ## 関連項目
 
-  - [ニッポン放送番組一覧](https://ja.wikipedia.org/wiki/ニッポン放送番組一覧 "wikilink")
+  - [ニッポン放送番組一覧](../Page/ニッポン放送番組一覧.md "wikilink")
   - [オールナイトニッポンのパーソナリティ一覧](../Page/オールナイトニッポンのパーソナリティ一覧.md "wikilink")
   - [オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
-  - [オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")
+  - [オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")
   - [オールナイトニッポンR スペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")
 
 [Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink")

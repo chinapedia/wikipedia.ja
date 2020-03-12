@@ -9,9 +9,9 @@
 
 <!-- end list -->
 
-  - **[マニラ・ライトレール](https://ja.wikipedia.org/wiki/マニラ・ライトレール "wikilink")**（Manila **Light Rail Transit** System：[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・[マニラ](https://ja.wikipedia.org/wiki/マニラ首都圏 "wikilink")）
+  - **[マニラ・ライトレール](../Page/マニラ・ライトレール.md "wikilink")**（Manila **Light Rail Transit** System：[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・[マニラ](../Page/マニラ首都圏.md "wikilink")）
 
-  - **[軽鉄](https://ja.wikipedia.org/wiki/軽鉄_\(香港\) "wikilink")**（MTR **Light Rail Transit**：[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）
+  - **[軽鉄](../Page/軽鉄_\(香港\).md "wikilink")**（MTR **Light Rail Transit**：[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）
 
   - **[富山地方鉄道富山港線](https://ja.wikipedia.org/wiki/富山地方鉄道富山港線 "wikilink")**（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")）
 
@@ -23,21 +23,21 @@
 
 <!-- end list -->
 
-  - [澳門軽軌鉄路](https://ja.wikipedia.org/wiki/澳門軽軌鉄路 "wikilink")（Macau **Light Rail Transit**：[マカオ](../Page/マカオ.md "wikilink")）
+  - [澳門軽軌鉄路](../Page/澳門軽軌鉄路.md "wikilink")（Macau **Light Rail Transit**：[マカオ](../Page/マカオ.md "wikilink")）
 
   - **[ライト・レール・トランジット](https://ja.wikipedia.org/wiki/ライト・レール・トランジット "wikilink")**（[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")） - 「ライト・ラピッド・トランジット（Light Rapid Transit）」とも呼ばれる。
 
-  - [ラピドKL](https://ja.wikipedia.org/wiki/ラピドKL "wikilink")（[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")）
+  - [ラピドKL](../Page/ラピドKL.md "wikilink")（[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")）
 
       - [クラナ・ジャヤ線](https://ja.wikipedia.org/wiki/ラピドKLクラナ・ジャヤ線 "wikilink")（以前は PUTRA **LRT** と呼ばれていた）
-      - [アンパン線](https://ja.wikipedia.org/wiki/ラピドKLアンパン線 "wikilink")（以前は STAR **LRT** と呼ばれていた）
+      - [アンパン線](../Page/ラピドKLアンパン線.md "wikilink")（以前は STAR **LRT** と呼ばれていた）
       - LRT3号線（建設中。郊外のダマンサラ地区からクラン市を結ぶ線。2020年完成予定）
 
 <!-- end list -->
 
   - （[中国](../Page/中華人民共和国.md "wikilink")。Guangzhou–Zhuhai **Light Rail**と呼ばれることがある）
 
-  - [釜山-金海軽電鉄](https://ja.wikipedia.org/wiki/釜山-金海軽電鉄 "wikilink")（Busan Gimhae **Light Rail Transit**：[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")）
+  - [釜山-金海軽電鉄](../Page/釜山-金海軽電鉄.md "wikilink")（Busan Gimhae **Light Rail Transit**：[韓国](../Page/大韓民国.md "wikilink")）
 
   - [議政府軽電鉄](https://ja.wikipedia.org/wiki/議政府軽電鉄 "wikilink")（Uijeongbu **Light Rail Transit**：韓国）
 

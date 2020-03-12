@@ -3,7 +3,7 @@
 
 **R・B・J・ウォーカー**（**R. B. J. (Rob) Walker**, [1947年](../Page/1947年.md "wikilink")-）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の政治学者。専攻は、[国際関係論](../Page/国際関係論.md "wikilink")、[政治理論](https://ja.wikipedia.org/wiki/政治理論 "wikilink")。
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・レディングで生まれ、[ウェールズ](../Page/ウェールズ.md "wikilink")・[スウォンジー大学](https://ja.wikipedia.org/wiki/スウォンジー大学 "wikilink")卒業後、[クイーンズ大学で修士号および博士号取得](https://ja.wikipedia.org/wiki/クイーンズ大学_\(カナダ\) "wikilink")。
+[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・レディングで生まれ、[ウェールズ](../Page/ウェールズ.md "wikilink")・[スウォンジー大学](https://ja.wikipedia.org/wiki/スウォンジー大学 "wikilink")卒業後、[クイーンズ大学で修士号および博士号取得](../Page/クイーンズ大学_\(カナダ\).md "wikilink")。
 
 現在、[ヴィクトリア大学政治学部教授](https://ja.wikipedia.org/wiki/ヴィクトリア大学_\(カナダ\) "wikilink")（1992年-）、および[キール大学の](https://ja.wikipedia.org/wiki/キール大学_\(イギリス\) "wikilink")[国際関係論](../Page/国際関係論.md "wikilink")教授（[2000年](../Page/2000年.md "wikilink")-）。また学術誌 *Alternatives: Global, Local, Politial* の編集長を務める。
 

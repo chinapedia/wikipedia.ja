@@ -7,9 +7,9 @@
 
 テレビ東京系列の総称がメガTONネットワークからTXNネットワークに変更したのに合わせて、『[メガTONニュースTODAY](../Page/メガTONニュースTODAY.md "wikilink")』に替わってスタートした。
 
-また、TXN系のニュースで初めて土日にも進出した（それまでは土日の夕方に、ニュースの放送自体が無かった）。90年代半ばごろから土日の放送には「**土曜特集**」「**日曜特集**」のサブタイトルが付けられており、その後放送された『[TXNニュースワイド 夕方いちばん](https://ja.wikipedia.org/wiki/TXNニュースワイド_夕方いちばん "wikilink")』『[TXNニュースアイ](../Page/TXNニュースアイ.md "wikilink")』では「土日特集」としてタイトルが継続使用された。
+また、TXN系のニュースで初めて土日にも進出した（それまでは土日の夕方に、ニュースの放送自体が無かった）。90年代半ばごろから土日の放送には「**土曜特集**」「**日曜特集**」のサブタイトルが付けられており、その後放送された『[TXNニュースワイド 夕方いちばん](../Page/TXNニュースワイド_夕方いちばん.md "wikilink")』『[TXNニュースアイ](../Page/TXNニュースアイ.md "wikilink")』では「土日特集」としてタイトルが継続使用された。
 
-なお、日曜日で桂三枝（現・[六代桂文枝](https://ja.wikipedia.org/wiki/桂文枝_\(6代目\) "wikilink")）がキャスターをしていた時代（後述）にはタイトルに『**桂三枝の**』がついていた。
+なお、日曜日で桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）がキャスターをしていた時代（後述）にはタイトルに『**桂三枝の**』がついていた。
 
 ## 放送時間
 
@@ -23,27 +23,27 @@
 
 ## 歴代のメインキャスター
 
-| 期間                      | 月-金曜                                                            | 土曜                                                                  | 日曜                                                      |
-| ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------- |
-| 男性                      | 女性                                                              | 男性                                                                  | 女性                                                      |
-| 1989年4月1日 - 1990年4月1日   | [土居壮](https://ja.wikipedia.org/wiki/土居壮 "wikilink")<sup>1</sup> | [東海林克江](https://ja.wikipedia.org/wiki/東海林克江 "wikilink")<sup>1</sup> | [海江田万里](https://ja.wikipedia.org/wiki/海江田万里 "wikilink") |
-| 1990年4月2日 - 1990年9月30日  | [横井ひろみ](https://ja.wikipedia.org/wiki/横井ひろみ "wikilink")         | [土川由加](https://ja.wikipedia.org/wiki/土川由加 "wikilink")               |                                                         |
-| 1990年10月1日 - 1991年3月31日 | [市川森一](https://ja.wikipedia.org/wiki/市川森一 "wikilink")           |                                                                     |                                                         |
-| 1991年4月1日 - 1992年4月5日   | [榎田卓央](https://ja.wikipedia.org/wiki/榎田卓央 "wikilink")           | [槇徳子](https://ja.wikipedia.org/wiki/槇徳子 "wikilink")                 |                                                         |
-| 1992年4月6日 - 1992年9月27日  | [田口恵美子](https://ja.wikipedia.org/wiki/田口惠美子 "wikilink")         | [久保田麻三留](https://ja.wikipedia.org/wiki/久保田麻三留 "wikilink")           | 春日美奈子                                                   |
-| 1992年9月28日 - 1993年4月4日  | （土曜と同様）                                                         |                                                                     |                                                         |
-| 1993年4月5日 - 1995年4月2日   | [鶴岡巍](https://ja.wikipedia.org/wiki/鶴岡巍 "wikilink")<sup>1</sup> |                                                                     |                                                         |
-| 1995年4月3日 - 1996年9月29日  | 久保田麻三留<sup>2</sup>                                              | [横銭秀一](https://ja.wikipedia.org/wiki/横銭秀一 "wikilink")               | 槇徳子<sup>2</sup>                                         |
-| 1996年9月30日 - 1997年9月28日 | [八塩圭子](../Page/八塩圭子.md "wikilink")                              | [福田秀和](https://ja.wikipedia.org/wiki/福田秀和 "wikilink")<sup>2</sup>   |                                                         |
+| 期間                      | 月-金曜                                                    | 土曜                                                                | 日曜                                   |
+| ----------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------ |
+| 男性                      | 女性                                                      | 男性                                                                | 女性                                   |
+| 1989年4月1日 - 1990年4月1日   | [土居壮](../Page/土居壮.md "wikilink")<sup>1</sup>            | [東海林克江](../Page/東海林克江.md "wikilink")<sup>1</sup>                  | [海江田万里](../Page/海江田万里.md "wikilink") |
+| 1990年4月2日 - 1990年9月30日  | [横井ひろみ](https://ja.wikipedia.org/wiki/横井ひろみ "wikilink") | [土川由加](../Page/土川由加.md "wikilink")                                |                                      |
+| 1990年10月1日 - 1991年3月31日 | [市川森一](../Page/市川森一.md "wikilink")                      |                                                                   |                                      |
+| 1991年4月1日 - 1992年4月5日   | [榎田卓央](../Page/榎田卓央.md "wikilink")                      | [槇徳子](../Page/槇徳子.md "wikilink")                                  |                                      |
+| 1992年4月6日 - 1992年9月27日  | [田口恵美子](../Page/田口惠美子.md "wikilink")                    | [久保田麻三留](../Page/久保田麻三留.md "wikilink")                            | 春日美奈子                                |
+| 1992年9月28日 - 1993年4月4日  | （土曜と同様）                                                 |                                                                   |                                      |
+| 1993年4月5日 - 1995年4月2日   | [鶴岡巍](../Page/鶴岡巍.md "wikilink")<sup>1</sup>            |                                                                   |                                      |
+| 1995年4月3日 - 1996年9月29日  | 久保田麻三留<sup>2</sup>                                      | [横銭秀一](https://ja.wikipedia.org/wiki/横銭秀一 "wikilink")             | 槇徳子<sup>2</sup>                      |
+| 1996年9月30日 - 1997年9月28日 | [八塩圭子](../Page/八塩圭子.md "wikilink")                      | [福田秀和](https://ja.wikipedia.org/wiki/福田秀和 "wikilink")<sup>2</sup> |                                      |
 
   - <sup>1</sup> 『[メガTONニュースTODAY](../Page/メガTONニュースTODAY.md "wikilink")』から続投（鶴岡は再登板）。
-  - <sup>2</sup> 『[TXNニュースワイド 夕方いちばん](https://ja.wikipedia.org/wiki/TXNニュースワイド_夕方いちばん "wikilink")』も続投（久保田は気象キャスターとして）。
+  - <sup>2</sup> 『[TXNニュースワイド 夕方いちばん](../Page/TXNニュースワイド_夕方いちばん.md "wikilink")』も続投（久保田は気象キャスターとして）。
 
 ## テーマ曲 （月-金曜のみ）
 
 [スクランブル](https://ja.wikipedia.org/wiki/ヴィーナス_\(ORIGINAL_LOVEの曲\) "wikilink")（[ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")）- 1992年4月より使用時期不明
 
-  - 月-金曜版で使用されたエンディングテーマは、[宇井かおり](https://ja.wikipedia.org/wiki/宇井かおり "wikilink")の「帰ろう」、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の「ゆきうさぎ」、[チャーミースマイル&グリーンヘッド](https://ja.wikipedia.org/wiki/チャーミースマイル&グリーンヘッド "wikilink")の「Growin'Up」等である。
+  - 月-金曜版で使用されたエンディングテーマは、[宇井かおり](../Page/宇井かおり.md "wikilink")の「帰ろう」、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の「ゆきうさぎ」、[チャーミースマイル&グリーンヘッド](../Page/チャーミースマイル&グリーンヘッド.md "wikilink")の「Growin'Up」等である。
 
 ## 放送局
 

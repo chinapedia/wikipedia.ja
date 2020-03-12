@@ -11,7 +11,7 @@ YOHEY･･･Produce、Compose、Arrange、Turntable
 
 D-THE 369･･･MC、Lyrics
 
-  - [369として](https://ja.wikipedia.org/wiki/369_\(ミュージシャン\) "wikilink")2007年5月23日[SPEEDSTAR RECORDSからソロデビュー](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。
+  - [369として](../Page/369_\(ミュージシャン\).md "wikilink")2007年5月23日[SPEEDSTAR RECORDSからソロデビュー](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
 
 有輝･･･Vocal、Lyrics
 

@@ -1,17 +1,17 @@
 > この記事は[Journal of the Physical Society of Japan](https://ja.wikipedia.org/wiki/Journal_of_the_Physical_Society_of_Japan)から翻訳されています。
 
 
-**Journal of the Physical Society of Japan**（略称：J. Phys. Soc. Jpn.またはJPSJ）は、[日本物理学会](https://ja.wikipedia.org/wiki/日本物理学会 "wikilink")による英文の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[学術雑誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")。日本物理学会及び[応用物理学会](../Page/応用物理学会.md "wikilink")の両学会共同の内部組織である[物理系学術誌刊行センター](https://ja.wikipedia.org/wiki/物理系学術誌刊行センター "wikilink")から刊行されている。
+**Journal of the Physical Society of Japan**（略称：J. Phys. Soc. Jpn.またはJPSJ）は、[日本物理学会](../Page/日本物理学会.md "wikilink")による英文の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[学術雑誌](../Page/学術雑誌.md "wikilink")。日本物理学会及び[応用物理学会](../Page/応用物理学会.md "wikilink")の両学会共同の内部組織である[物理系学術誌刊行センター](https://ja.wikipedia.org/wiki/物理系学術誌刊行センター "wikilink")から刊行されている。
 
 **日本物理学会**の英語名は The Physical Society of Japan であり、略称は **JPS** を使う。PSJ としていないのは、アメリカ物理学会 American Physical Society の略称 **APS** を真似ているからである。なお、**JPSJ** においては、**PSJ** の順番である。両方のスペリングを併用している学会は、世界的にも珍しい。
 
 ## 概要
 
-内容は[査読](https://ja.wikipedia.org/wiki/査読 "wikilink")を経た投稿論文（Papers）及び速報（Letters)で、そのほか編集委員会の依頼によるレビュー論文（Review）が掲載される。内容は[物理学](../Page/物理学.md "wikilink")の全領域を扱うが、実際は[物性物理学](../Page/物性物理学.md "wikilink")に偏り気味である\[1\]。2008年現在、[インパクト・ファクター](https://ja.wikipedia.org/wiki/インパクト・ファクター "wikilink")（IF）は2.212\[2\]。
+内容は[査読](../Page/査読.md "wikilink")を経た投稿論文（Papers）及び速報（Letters)で、そのほか編集委員会の依頼によるレビュー論文（Review）が掲載される。内容は[物理学](../Page/物理学.md "wikilink")の全領域を扱うが、実際は[物性物理学](../Page/物性物理学.md "wikilink")に偏り気味である\[1\]。2008年現在、[インパクト・ファクター](https://ja.wikipedia.org/wiki/インパクト・ファクター "wikilink")（IF）は2.212\[2\]。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")現在のJPSJ編集委員長（日本物理学会理事）は[髙山一](https://ja.wikipedia.org/wiki/髙山一 "wikilink")（前[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[物性研究所](https://ja.wikipedia.org/wiki/物性研究所 "wikilink")[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")）である。
+[2007年](../Page/2007年.md "wikilink")現在のJPSJ編集委員長（日本物理学会理事）は[髙山一](https://ja.wikipedia.org/wiki/髙山一 "wikilink")（前[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[物性研究所](https://ja.wikipedia.org/wiki/物性研究所 "wikilink")[教授](../Page/教授.md "wikilink")）である。
 
-[理論物理学](https://ja.wikipedia.org/wiki/理論物理学 "wikilink")領域の論文誌としては、"[Progress of Theoretical Physics](https://ja.wikipedia.org/wiki/Progress_of_Theoretical_Physics "wikilink")”（発行元：[京都大学基礎物理学研究所](https://ja.wikipedia.org/wiki/京都大学基礎物理学研究所 "wikilink")）があり、そちらに主力論文が掲載されるためである。
+[理論物理学](https://ja.wikipedia.org/wiki/理論物理学 "wikilink")領域の論文誌としては、"[Progress of Theoretical Physics](https://ja.wikipedia.org/wiki/Progress_of_Theoretical_Physics "wikilink")”（発行元：[京都大学基礎物理学研究所](../Page/京都大学基礎物理学研究所.md "wikilink")）があり、そちらに主力論文が掲載されるためである。
 
 ## 著名な掲載論文
 
@@ -34,9 +34,9 @@
 
 ## 関連項目
 
-  - [学術雑誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")
-  - [日本物理学会](https://ja.wikipedia.org/wiki/日本物理学会 "wikilink")
-  - [Japanese Journal of Applied Physics](https://ja.wikipedia.org/wiki/Japanese_Journal_of_Applied_Physics "wikilink")
+  - [学術雑誌](../Page/学術雑誌.md "wikilink")
+  - [日本物理学会](../Page/日本物理学会.md "wikilink")
+  - [Japanese Journal of Applied Physics](../Page/Japanese_Journal_of_Applied_Physics.md "wikilink")
 
 ## 外部リンク
 

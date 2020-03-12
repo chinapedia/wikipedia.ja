@@ -1,19 +1,19 @@
 > この記事は[NSR250R](https://ja.wikipedia.org/wiki/NSR250R)から翻訳されています。
 
 
-**NSR250R**（エヌエスアールにひゃくごじゅうアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")の[レーサーレプリカ](https://ja.wikipedia.org/wiki/レーサーレプリカ "wikilink")タイプの[2ストローク](../Page/2ストローク機関.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。車名のNSRは**N**ew **S**print **R**acingの略である。競技車両であるワークスレーサー[NSR500のレプリカで](../Page/ホンダ・NSR500.md "wikilink")、市販車の[NSRシリーズの中ではフラッグシップモデルになる](https://ja.wikipedia.org/wiki/ホンダ・NSR "wikilink")。
+**NSR250R**（エヌエスアールにひゃくごじゅうアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")の[レーサーレプリカ](https://ja.wikipedia.org/wiki/レーサーレプリカ "wikilink")タイプの[2ストローク](../Page/2ストローク機関.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。車名のNSRは**N**ew **S**print **R**acingの略である。競技車両であるワークスレーサー[NSR500のレプリカで](../Page/ホンダ・NSR500.md "wikilink")、市販車の[NSRシリーズの中ではフラッグシップモデルになる](../Page/ホンダ・NSR.md "wikilink")。
 
 ## 概要
 
-ホンダは、[WGPで](../Page/ロードレース世界選手権.md "wikilink")[NS500が](https://ja.wikipedia.org/wiki/ホンダ・NS500 "wikilink")1983年にチャンピオンを得るなど、レース部門での2ストロークのオートバイの成功を収めた。一方、市販車部門では[ヤマハの](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")[RZ250/350のヒットにより販売で大きく水をあけられていた](https://ja.wikipedia.org/wiki/ヤマハ・RZ "wikilink")。RZに対抗してまずは4ストロークの[CBX400Fと](https://ja.wikipedia.org/wiki/ホンダ・CBX400F "wikilink")[VT250Fを発売すると爆発的ヒットとなったが](https://ja.wikipedia.org/wiki/ホンダ・VT "wikilink")、直接競合する2ストローク車種が不在であった事と更に[ヤマハに差をつけるべく](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")、[MVX250Fを投入した](https://ja.wikipedia.org/wiki/ホンダ・MVX250F "wikilink")。しかし、焼きつきの多発や同時期に発売されたフルカウル、アルミフレームのRG250Γなどに押され、失敗となってしまった。再度、市場に参入すべく1984年の[NS250F/Rの発売で販売は互角となった](https://ja.wikipedia.org/wiki/ホンダ・NS "wikilink")。ヤマハはその後、TZR250を発売しホンダとのリードを広げる。それに対抗すべく1986年にNSR250Rを投入する。抜群の速さを誇るNSRは発売当初から大ヒットする。初代モデルより、[ヤマハTZR250R](https://ja.wikipedia.org/wiki/ヤマハ・TZR "wikilink")、[スズキRGV250Γとの三つ巴による熾烈な](https://ja.wikipedia.org/wiki/スズキ・ガンマ "wikilink")2ストローク技術開発競争が繰り広げられ、1987年から1990年の間は毎年モデルチェンジが行われた。NSRのヒットで2ストバイク市場のトップを奪うことになり、その後はTZR250Rと市場を分け合った。NSRは4代目まで生産されたが、1990年代中盤にレーサーレプリカブームは終焉を迎え、1999年に生産終了となった。
+ホンダは、[WGPで](../Page/ロードレース世界選手権.md "wikilink")[NS500が](../Page/ホンダ・NS500.md "wikilink")1983年にチャンピオンを得るなど、レース部門での2ストロークのオートバイの成功を収めた。一方、市販車部門では[ヤマハの](../Page/ヤマハ発動機.md "wikilink")[RZ250/350のヒットにより販売で大きく水をあけられていた](../Page/ヤマハ・RZ.md "wikilink")。RZに対抗してまずは4ストロークの[CBX400Fと](../Page/ホンダ・CBX400F.md "wikilink")[VT250Fを発売すると爆発的ヒットとなったが](../Page/ホンダ・VT.md "wikilink")、直接競合する2ストローク車種が不在であった事と更に[ヤマハに差をつけるべく](../Page/ヤマハ発動機.md "wikilink")、[MVX250Fを投入した](../Page/ホンダ・MVX250F.md "wikilink")。しかし、焼きつきの多発や同時期に発売されたフルカウル、アルミフレームのRG250Γなどに押され、失敗となってしまった。再度、市場に参入すべく1984年の[NS250F/Rの発売で販売は互角となった](../Page/ホンダ・NS.md "wikilink")。ヤマハはその後、TZR250を発売しホンダとのリードを広げる。それに対抗すべく1986年にNSR250Rを投入する。抜群の速さを誇るNSRは発売当初から大ヒットする。初代モデルより、[ヤマハTZR250R](../Page/ヤマハ・TZR.md "wikilink")、[スズキRGV250Γとの三つ巴による熾烈な](../Page/スズキ・ガンマ.md "wikilink")2ストローク技術開発競争が繰り広げられ、1987年から1990年の間は毎年モデルチェンジが行われた。NSRのヒットで2ストバイク市場のトップを奪うことになり、その後はTZR250Rと市場を分け合った。NSRは4代目まで生産されたが、1990年代中盤にレーサーレプリカブームは終焉を迎え、1999年に生産終了となった。
 
-NSRは型式で大きくMC16、MC18、MC21、MC28の4種類に分けられるが、MC18のみ1988年式に対し1989年式の仕様変更が大きいため、市場ではこれを2つに分け、順に1〜5型と呼ばれることも多い。なお、歴代モデルすべて一貫して始動方法は[キックスターター](https://ja.wikipedia.org/wiki/キックスターター "wikilink")のみを採用し、[セルスターターは装備されていなかった](https://ja.wikipedia.org/wiki/セルモーター "wikilink")。
+NSRは型式で大きくMC16、MC18、MC21、MC28の4種類に分けられるが、MC18のみ1988年式に対し1989年式の仕様変更が大きいため、市場ではこれを2つに分け、順に1〜5型と呼ばれることも多い。なお、歴代モデルすべて一貫して始動方法は[キックスターター](../Page/キックスターター.md "wikilink")のみを採用し、[セルスターターは装備されていなかった](../Page/セルモーター.md "wikilink")。
 
 ## モデル一覧
 
 ### NSR250RG(初代)
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:Honda_NSR250R_in_the_Honda_Collection_Hall..JPG "wikilink") 型式MC16。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[NS250Rのフルモデルチェンジ車として登場した](https://ja.wikipedia.org/wiki/ホンダ・NS "wikilink")\[1\]。新設計の“目の字”断面をもつアルミニウム製ツイン・スパーフレームに、クランクケースリードバルブの[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")90°[V型2気筒](https://ja.wikipedia.org/wiki/V型2気筒 "wikilink")エンジンを搭載し、競技専用車RS250Rをそのまま公道用にスケールダウンしたようなレーシーな姿をまとっていた。エンジンのクランクケースなど、一部部品には「HONDA RACING」の刻印が入り、競技用車両とパーツの設計を一にしている点も注目された。
+[250px](https://ja.wikipedia.org/wiki/ファイル:Honda_NSR250R_in_the_Honda_Collection_Hall..JPG "wikilink") 型式MC16。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[NS250Rのフルモデルチェンジ車として登場した](../Page/ホンダ・NS.md "wikilink")\[1\]。新設計の“目の字”断面をもつアルミニウム製ツイン・スパーフレームに、クランクケースリードバルブの[水冷](../Page/水冷エンジン.md "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")90°[V型2気筒](../Page/V型2気筒.md "wikilink")エンジンを搭載し、競技専用車RS250Rをそのまま公道用にスケールダウンしたようなレーシーな姿をまとっていた。エンジンのクランクケースなど、一部部品には「HONDA RACING」の刻印が入り、競技用車両とパーツの設計を一にしている点も注目された。
 
 ### NSR250RJ - RK(2代目)
 
@@ -63,7 +63,7 @@ MC18にはSPグレードとは別に、F3用キットパーツをあらかじめ
 
   - STD（スタンダード仕様）
   - SE（乾式多板クラッチや前後サスペンションに減衰力調整機構を装備。）
-  - SP（SEをベースに、マグテックホイール（[エンケイ](https://ja.wikipedia.org/wiki/エンケイ "wikilink")製のマグネシウム合金を使用した廉価な軽量ホイール）・フロントサスペンションは、路面追従性に優れたニュー・カートリッジタイプを装備（工具なしで減衰調整可能）ロスマンズやHRC\[11\]、[レプソルホンダ](https://ja.wikipedia.org/wiki/レプソル・ホンダ "wikilink")\[12\]などのワークスカラーを採用）
+  - SP（SEをベースに、マグテックホイール（[エンケイ](../Page/エンケイ.md "wikilink")製のマグネシウム合金を使用した廉価な軽量ホイール）・フロントサスペンションは、路面追従性に優れたニュー・カートリッジタイプを装備（工具なしで減衰調整可能）ロスマンズやHRC\[11\]、[レプソルホンダ](https://ja.wikipedia.org/wiki/レプソル・ホンダ "wikilink")\[12\]などのワークスカラーを採用）
 
 の3つがあった。
 
@@ -73,8 +73,8 @@ MC18にはSPグレードとは別に、F3用キットパーツをあらかじめ
 
 ## 関連項目
 
-  - [ホンダ・NS](https://ja.wikipedia.org/wiki/ホンダ・NS "wikilink")
-  - [ホンダ・MVX250F](https://ja.wikipedia.org/wiki/ホンダ・MVX250F "wikilink")
+  - [ホンダ・NS](../Page/ホンダ・NS.md "wikilink")
+  - [ホンダ・MVX250F](../Page/ホンダ・MVX250F.md "wikilink")
   - [レーサーレプリカ](https://ja.wikipedia.org/wiki/レーサーレプリカ "wikilink")
   - [バリバリマシン](https://ja.wikipedia.org/wiki/バリバリマシン "wikilink")
 

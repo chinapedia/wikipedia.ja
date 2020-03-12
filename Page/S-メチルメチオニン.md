@@ -5,7 +5,7 @@
 
 ## 概要
 
-戦後[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ガーネット・チェニー](https://ja.wikipedia.org/wiki/ガーネット・チェニー "wikilink")らにより[キャベツ](https://ja.wikipedia.org/wiki/キャベツ "wikilink")の絞り汁より発見された。そのため[キャベジンとも呼ばれ](https://ja.wikipedia.org/wiki/キャベジン_\(曖昧さ回避\) "wikilink")、[興和](https://ja.wikipedia.org/wiki/興和 "wikilink")の同名の薬品他、様々な胃腸薬の成分となっている\[1\]。[水溶性](https://ja.wikipedia.org/wiki/水溶性 "wikilink")の[化合物](../Page/化合物.md "wikilink")であり、熱に弱い。[胃酸](https://ja.wikipedia.org/wiki/胃酸 "wikilink")の分泌を抑え、[胃](../Page/胃.md "wikilink")[粘膜](https://ja.wikipedia.org/wiki/粘膜 "wikilink")の修復を助けて[胃潰瘍](https://ja.wikipedia.org/wiki/胃潰瘍 "wikilink")を防止する作用があるため、潰瘍を意味する英語*ulcer*の頭文字をとってビタミンUと命名された\[2\]。
+戦後[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ガーネット・チェニー](https://ja.wikipedia.org/wiki/ガーネット・チェニー "wikilink")らにより[キャベツ](https://ja.wikipedia.org/wiki/キャベツ "wikilink")の絞り汁より発見された。そのため[キャベジンとも呼ばれ](https://ja.wikipedia.org/wiki/キャベジン_\(曖昧さ回避\) "wikilink")、[興和](../Page/興和.md "wikilink")の同名の薬品他、様々な胃腸薬の成分となっている\[1\]。[水溶性](https://ja.wikipedia.org/wiki/水溶性 "wikilink")の[化合物](../Page/化合物.md "wikilink")であり、熱に弱い。[胃酸](https://ja.wikipedia.org/wiki/胃酸 "wikilink")の分泌を抑え、[胃](../Page/胃.md "wikilink")[粘膜](../Page/粘膜.md "wikilink")の修復を助けて[胃潰瘍](https://ja.wikipedia.org/wiki/胃潰瘍 "wikilink")を防止する作用があるため、潰瘍を意味する英語*ulcer*の頭文字をとってビタミンUと命名された\[2\]。
 
 ## 出典
 

@@ -7,41 +7,41 @@
 
 中学から[ギター](../Page/ギター.md "wikilink")を始め、高校の頃には劇伴やゲーム音楽のレコーディングなどを行うスタジオミュージシャンとして活動していた。
 
-その後、渡米しセッションや演奏活動をおこないながら様々な音楽に触れ、帰国後は専門学校等で講師をする傍ら並行して作編曲を学び、[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")プロデュースによるアーティストなどの作・編曲を行う。
+その後、渡米しセッションや演奏活動をおこないながら様々な音楽に触れ、帰国後は専門学校等で講師をする傍ら並行して作編曲を学び、[原田真二](../Page/原田真二.md "wikilink")プロデュースによるアーティストなどの作・編曲を行う。
 
-[2003年](../Page/2003年.md "wikilink")、[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")との合宿制作（シングル「[夏の思い出](../Page/夏の思い出_\(ケツメイシの曲\).md "wikilink")」、アルバム「[ケツノポリス3](../Page/ケツノポリス3.md "wikilink")」）からトラックメーカーとして頭角を現し、 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")発売の「[さくら](https://ja.wikipedia.org/wiki/さくら_\(ケツメイシの曲\) "wikilink")」でトラックメイク、編曲と共に自身初のプロデュースを担当。
+[2003年](../Page/2003年.md "wikilink")、[ケツメイシ](../Page/ケツメイシ.md "wikilink")との合宿制作（シングル「[夏の思い出](../Page/夏の思い出_\(ケツメイシの曲\).md "wikilink")」、アルバム「[ケツノポリス3](../Page/ケツノポリス3.md "wikilink")」）からトラックメーカーとして頭角を現し、 [2005年](../Page/2005年.md "wikilink")発売の「[さくら](../Page/さくら_\(ケツメイシの曲\).md "wikilink")」でトラックメイク、編曲と共に自身初のプロデュースを担当。
 
 同作品を収録したケツノポリス4が240万枚のセールス記録とともにレコード大賞年間最優秀賞アルバム賞を受賞。
 
 [2011年](../Page/2011年.md "wikilink")9月10日、同年3月11日におこった東日本大震災を受けケツメイシとFUNKY MONKEY BABYSのコラボソング『ライジングサン』をプロデュース・共作曲し、復興チャリティーソングとして配信限定リリース。この楽曲の印税、制作費は全額義援金として寄付された。
 
-[2012年](../Page/2012年.md "wikilink")、miwaの「[ヒカリヘ](https://ja.wikipedia.org/wiki/ヒカリヘ "wikilink")」を手掛けた事で同楽曲が主題歌であったフジテレビ系ドラマ『[リッチマン、プアウーマン](https://ja.wikipedia.org/wiki/リッチマン、プアウーマン "wikilink")』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")制作に参加。翌[2013年](../Page/2013年.md "wikilink")に続編として放送された『リッチマン、プアウーマン in ニューヨーク』でもmiwaの新曲「[Delight](https://ja.wikipedia.org/wiki/Delight_\(miwaのアルバム\)#収録曲 "wikilink")」と共に[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")制作に参加した。
+[2012年](../Page/2012年.md "wikilink")、miwaの「[ヒカリヘ](https://ja.wikipedia.org/wiki/ヒカリヘ "wikilink")」を手掛けた事で同楽曲が主題歌であったフジテレビ系ドラマ『[リッチマン、プアウーマン](https://ja.wikipedia.org/wiki/リッチマン、プアウーマン "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")制作に参加。翌[2013年](../Page/2013年.md "wikilink")に続編として放送された『リッチマン、プアウーマン in ニューヨーク』でもmiwaの新曲「[Delight](https://ja.wikipedia.org/wiki/Delight_\(miwaのアルバム\)#収録曲 "wikilink")」と共に[サウンドトラック](../Page/サウンドトラック.md "wikilink")制作に参加した。
 
-[2014年](../Page/2014年.md "wikilink")、「[ドラえもん 新・のび太の大魔境 〜ペコと5人の探検隊〜](https://ja.wikipedia.org/wiki/ドラえもん_新・のび太の大魔境_〜ペコと5人の探検隊〜 "wikilink")」劇中歌「友達」の編曲を担当（作詞・作曲は[多田慎也](https://ja.wikipedia.org/wiki/タダシンヤ "wikilink")、歌を[木村昴](https://ja.wikipedia.org/wiki/木村昴 "wikilink")が担当）。
+[2014年](../Page/2014年.md "wikilink")、「[ドラえもん 新・のび太の大魔境 〜ペコと5人の探検隊〜](https://ja.wikipedia.org/wiki/ドラえもん_新・のび太の大魔境_〜ペコと5人の探検隊〜 "wikilink")」劇中歌「友達」の編曲を担当（作詞・作曲は[多田慎也](https://ja.wikipedia.org/wiki/タダシンヤ "wikilink")、歌を[木村昴](../Page/木村昴.md "wikilink")が担当）。
 
-[FUNKY MONKEY BABYSや](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")[miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")などプロデュースを担当するアーティストはデビューから手がける事も多い。ライブやツアー、テレビにギターリスト、ベーシスト、キーボードなどミュージシャンとして出演する事もある（過去に[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")、[やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink")、[龍](https://ja.wikipedia.org/wiki/龍 "wikilink") 、[miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")などのLiveに参加)。
+[FUNKY MONKEY BABYSや](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")[miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")などプロデュースを担当するアーティストはデビューから手がける事も多い。ライブやツアー、テレビにギターリスト、ベーシスト、キーボードなどミュージシャンとして出演する事もある（過去に[KREVA](../Page/KREVA.md "wikilink")、[やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink")、[龍](https://ja.wikipedia.org/wiki/龍 "wikilink") 、[miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")などのLiveに参加)。
 
-制作スタイルや曲調はクラブミュージックからバンド、シンガーソングライターからアイドルと幅広い。ビートメイキングやプログラミングだけでなく、ギターやベース、鍵盤楽器、打楽器、民族楽器と演奏者としてのクレジットも多岐に渡り、ストリングスアレンジやブラスアレンジも自ら行う。使用している[DAW](https://ja.wikipedia.org/wiki/デジタル・オーディオ・ワークステーション "wikilink")（デジタル・オーディオ・ワークステーション）は、 [アビッド・テクノロジー](https://ja.wikipedia.org/wiki/アビッド・テクノロジー "wikilink")社のPro Tools。
+制作スタイルや曲調はクラブミュージックからバンド、シンガーソングライターからアイドルと幅広い。ビートメイキングやプログラミングだけでなく、ギターやベース、鍵盤楽器、打楽器、民族楽器と演奏者としてのクレジットも多岐に渡り、ストリングスアレンジやブラスアレンジも自ら行う。使用している[DAW](../Page/デジタル・オーディオ・ワークステーション.md "wikilink")（デジタル・オーディオ・ワークステーション）は、 [アビッド・テクノロジー](../Page/アビッド・テクノロジー.md "wikilink")社のPro Tools。
 
 ## プロデュースした主なアーティスト（作曲のみ・編曲のみも含む）
 
-  - [嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")
+  - [嵐](../Page/嵐_\(グループ\).md "wikilink")
+  - [ET-KING](../Page/ET-KING.md "wikilink")
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")
   - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")
   - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")
   - [K](https://ja.wikipedia.org/wiki/K "wikilink")
-  - [ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")
+  - [ケツメイシ](../Page/ケツメイシ.md "wikilink")
   - [CODE-V](https://ja.wikipedia.org/wiki/CODE-V "wikilink")
-  - [阪本奨悟](https://ja.wikipedia.org/wiki/阪本奨悟 "wikilink")
+  - [阪本奨悟](../Page/阪本奨悟.md "wikilink")
   - [沢井美空](https://ja.wikipedia.org/wiki/沢井美空 "wikilink")
   - [しなまゆ](https://ja.wikipedia.org/wiki/しなまゆ "wikilink")
   - [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")
 
 <!-- end list -->
 
-  - [清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink")
-  - [JUN SKY WALKER(S)](https://ja.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
+  - [清水翔太](../Page/清水翔太.md "wikilink")
+  - [JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
   - [高橋幸宏](../Page/高橋幸宏.md "wikilink")
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")
   - [chay](https://ja.wikipedia.org/wiki/chay "wikilink")
@@ -49,29 +49,29 @@
   - [中澤信栄](https://ja.wikipedia.org/wiki/中澤信栄 "wikilink")
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")
-  - [浜崎貴司](https://ja.wikipedia.org/wiki/浜崎貴司 "wikilink")
+  - [浜崎貴司](../Page/浜崎貴司.md "wikilink")
   - [ハルカトミユキ](https://ja.wikipedia.org/wiki/ハルカトミユキ "wikilink")
   - [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")
 
 <!-- end list -->
 
   - [BoA](../Page/BoA.md "wikilink")
-  - [POSSIBILITY](https://ja.wikipedia.org/wiki/POSSIBILITY "wikilink")
+  - [POSSIBILITY](../Page/POSSIBILITY.md "wikilink")
   - [松田聖子](../Page/松田聖子.md "wikilink")
   - [miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")
-  - [May'n](https://ja.wikipedia.org/wiki/May'n "wikilink")
+  - [May'n](../Page/May'n.md "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
   - [やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink")
   - [山猿](https://ja.wikipedia.org/wiki/山猿_\(ミュージシャン\) "wikilink")
   - [遊助](https://ja.wikipedia.org/wiki/遊助 "wikilink")
-  - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")
+  - [LITTLE](../Page/LITTLE.md "wikilink")
 
 ほか
 
 ## 主なプロデュース作品（作曲のみ・編曲のみも含む）
 
-  - **[嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")**
+  - **[嵐](../Page/嵐_\(グループ\).md "wikilink")**
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - **[ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")**
+  - **[ET-KING](../Page/ET-KING.md "wikilink")**
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - **[K](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")**
+  - **[K](../Page/K_\(歌手\).md "wikilink")**
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - **[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")**
+  - **[ケツメイシ](../Page/ケツメイシ.md "wikilink")**
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - **[阪本奨悟](https://ja.wikipedia.org/wiki/阪本奨悟 "wikilink")**
+  - **[阪本奨悟](../Page/阪本奨悟.md "wikilink")**
 
 <!-- end list -->
 
@@ -170,7 +170,7 @@
 
 <!-- end list -->
 
-  - **[JUN SKY WALKER(S)](https://ja.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")**
+  - **[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")**
 
 <!-- end list -->
 
@@ -242,7 +242,7 @@
 
 <!-- end list -->
 
-  - **[POSSIBILITY](https://ja.wikipedia.org/wiki/POSSIBILITY "wikilink")**
+  - **[POSSIBILITY](../Page/POSSIBILITY.md "wikilink")**
 
 <!-- end list -->
 
@@ -269,7 +269,7 @@
 
 <!-- end list -->
 
-  - **[May'n](https://ja.wikipedia.org/wiki/May'n "wikilink")**
+  - **[May'n](../Page/May'n.md "wikilink")**
 
 <!-- end list -->
 
@@ -305,7 +305,7 @@
 
 <!-- end list -->
 
-  - **[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")**
+  - **[LITTLE](../Page/LITTLE.md "wikilink")**
 
 <!-- end list -->
 

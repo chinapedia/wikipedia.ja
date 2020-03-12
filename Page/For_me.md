@@ -9,7 +9,7 @@ DOUBLEのデビュー・シングルとして、[筒美京平](https://ja.wikipe
 
 [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「甘い運命」は、[UAの](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")「[甘い運命](https://ja.wikipedia.org/wiki/甘い運命 "wikilink")」のカバー。SACHIKOが訳詞をし、TAKAKOがリード・ボーカルを担当した。
 
-[タイアップとしては](https://ja.wikipedia.org/wiki/タイアップ#音楽業界におけるタイアップ "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系月曜](../Page/日本テレビ放送網.md "wikilink")10時連続ドラマ「[冷たい月](https://ja.wikipedia.org/wiki/冷たい月_\(テレビドラマ\) "wikilink")」の挿入歌として使用された。
+[タイアップとしては](https://ja.wikipedia.org/wiki/タイアップ#音楽業界におけるタイアップ "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系月曜](../Page/日本テレビ放送網.md "wikilink")10時連続ドラマ「[冷たい月](../Page/冷たい月_\(テレビドラマ\).md "wikilink")」の挿入歌として使用された。
 
 ## 収録曲
 

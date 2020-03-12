@@ -1,11 +1,11 @@
 > この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
 
 
-**フドバルスキ・クルブ・ラド**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](https://ja.wikipedia.org/wiki/ベオグラード "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
+**フドバルスキ・クルブ・ラド**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](../Page/ベオグラード.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
 
 ## 概要
 
-ラドは[労働](../Page/労働.md "wikilink")を意味する[セルビア語](https://ja.wikipedia.org/wiki/セルビア語 "wikilink")で、同名の建設会社によってクラブが設立された。ベオグラード南部の[バニツァ](https://ja.wikipedia.org/wiki/バニツァ "wikilink")地区にあるクラリ・ペータル1世スタジアム（別名FKラド・スタジアム）をホームスタジアムとして使用している。
+ラドは[労働](../Page/労働.md "wikilink")を意味する[セルビア語](../Page/セルビア語.md "wikilink")で、同名の建設会社によってクラブが設立された。ベオグラード南部の[バニツァ](https://ja.wikipedia.org/wiki/バニツァ "wikilink")地区にあるクラリ・ペータル1世スタジアム（別名FKラド・スタジアム）をホームスタジアムとして使用している。
 
 クラブは1958年3月10日に設立された。1980年代に1部リーグに昇格し、2002-03シーズンまで同リーグに留まった。2005-06シーズンに再び1部に昇格したが、1シーズンで降格した。
 
@@ -25,15 +25,15 @@
 
 ## 歴代所属選手
 
-  - [ミハイロ・ペトロヴィッチ](https://ja.wikipedia.org/wiki/ミハイロ・ペトロヴィッチ "wikilink") 1974-1976
+  - [ミハイロ・ペトロヴィッチ](../Page/ミハイロ・ペトロヴィッチ.md "wikilink") 1974-1976
 
   - [ミロスラヴ・ジュキッチ](https://ja.wikipedia.org/wiki/ミロスラヴ・ジュキッチ "wikilink") 1988-1990
 
-  - [ヴラディミル・ユーゴヴィッチ](https://ja.wikipedia.org/wiki/ヴラディミル・ユーゴヴィッチ "wikilink") 1990
+  - [ヴラディミル・ユーゴヴィッチ](../Page/ヴラディミル・ユーゴヴィッチ.md "wikilink") 1990
 
   - [ゴラン・ブニェヴチェヴィッチ](https://ja.wikipedia.org/wiki/ゴラン・ブニェヴチェヴィッチ "wikilink") 1993-1997
 
-  - [森田真吾](https://ja.wikipedia.org/wiki/森田真吾 "wikilink") 2004
+  - [森田真吾](../Page/森田真吾.md "wikilink") 2004
 
   - [李春郁](https://ja.wikipedia.org/wiki/李春郁 "wikilink") 2010
 
@@ -43,7 +43,7 @@
 
   - [ミラン・ミラノヴィッチ](https://ja.wikipedia.org/wiki/:en:Milan_Milanović_\(footballer,_born_1963\) "wikilink") (2003-2004)
 
-  - [ズドラヴコ・ゼムノヴィッチ](https://ja.wikipedia.org/wiki/ゼムノビッチ・ズドラヴコ "wikilink") (2004)
+  - [ズドラヴコ・ゼムノヴィッチ](../Page/ゼムノビッチ・ズドラヴコ.md "wikilink") (2004)
 
   - [ラドミロ・イバンチェビッチ](../Page/イバンチェビッチ・ラドミロ.md "wikilink") (2004-2005)
 

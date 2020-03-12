@@ -7,7 +7,7 @@
 
 また、[SASL認証フレームワークの事実上の標準実装であり](https://ja.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer "wikilink")、同じCyrus Projectにより開発・保守されているCyrus SASLライブラリと親和性が高いのも特徴の一つである。
 
-[Mac OS X v10.5までの](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")[Mac OS X Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink") で標準採用されていた（[Mac OS X v10.6より](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.6 "wikilink")[Dovecot](https://ja.wikipedia.org/wiki/Dovecot "wikilink")に変更された）。
+[Mac OS X v10.5までの](../Page/Mac_OS_X_v10.5.md "wikilink")[Mac OS X Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink") で標準採用されていた（[Mac OS X v10.6より](../Page/Mac_OS_X_v10.6.md "wikilink")[Dovecot](../Page/Dovecot.md "wikilink")に変更された）。
 
 ## 脚注
 
@@ -16,7 +16,7 @@
 ## 関連項目
 
   - [Internet Message Access Protocol](../Page/Internet_Message_Access_Protocol.md "wikilink")
-  - [Sieve](https://ja.wikipedia.org/wiki/Sieve "wikilink")
+  - [Sieve](../Page/Sieve.md "wikilink")
 
 ## 外部リンク
 

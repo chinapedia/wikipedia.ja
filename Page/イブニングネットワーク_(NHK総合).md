@@ -1,11 +1,11 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-元々この時間帯は、18:00 - 18:30の『[にっぽん列島ただいま6時](https://ja.wikipedia.org/wiki/にっぽん列島ただいま6時 "wikilink")』（通称「いま6」）と、18:30 - 18:59のローカルニュース枠（関東では『[ニュースセンター630](https://ja.wikipedia.org/wiki/ニュースセンター_\(関東ローカル枠\) "wikilink")』、関西では『[ニュースワイド630](https://ja.wikipedia.org/wiki/ニュースワイド_\(NHK大阪放送局\) "wikilink")』、東海では『[ニュース630](https://ja.wikipedia.org/wiki/ニュース630 "wikilink")』）であったが、1988年4月のNHKのワイドニュース改革により、1時間のローカルワイドニュースとしてスタートした。
+元々この時間帯は、18:00 - 18:30の『[にっぽん列島ただいま6時](../Page/にっぽん列島ただいま6時.md "wikilink")』（通称「いま6」）と、18:30 - 18:59のローカルニュース枠（関東では『[ニュースセンター630](../Page/ニュースセンター_\(関東ローカル枠\).md "wikilink")』、関西では『[ニュースワイド630](../Page/ニュースワイド_\(NHK大阪放送局\).md "wikilink")』、東海では『[ニュース630](../Page/ニュース630.md "wikilink")』）であったが、1988年4月のNHKのワイドニュース改革により、1時間のローカルワイドニュースとしてスタートした。
 
 なお、タイトルは原則として全国共通で、後ろに各地域の呼称が付く。例えば関東なら「イブニングネットワーク首都圏」、関西なら「イブニングネットワークきんき」。ただし、番組末期はローカルパートを別タイトルで独立させた地域もあった（当該節参照）。また、内容は一部のコーナーを除き、各地域によって異なる。
 
@@ -37,7 +37,7 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 
 全国ニュースが独立番組となる。
 
-  - 18:10 - 18:57 （18:57 - 19:00 『[テレマップ](https://ja.wikipedia.org/wiki/テレマップ "wikilink")』）
+  - 18:10 - 18:57 （18:57 - 19:00 『[テレマップ](../Page/テレマップ.md "wikilink")』）
       - 18:30 - 18:40 リポートくらし（任意ネット）
       - 18:50 - 18:57 気象情報（18:52まで任意ネット）
 
@@ -63,7 +63,7 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 
 ## 列島リレー
 
-  - 1992年度開始。NHKの8[拠点局](https://ja.wikipedia.org/wiki/基幹局 "wikilink")（札幌、仙台、東京、名古屋、大阪、広島、松山、福岡）から[リレー形式でニュースを伝える](https://ja.wikipedia.org/wiki/列島リレーニュース "wikilink")。[ラジオ第1の](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")『郷土の話題』がその起源。1996年度の1年間のみ『[NHKネットワークニュース](https://ja.wikipedia.org/wiki/NHKネットワークニュース "wikilink")』として継続して放送した。
+  - 1992年度開始。NHKの8[拠点局](../Page/基幹局.md "wikilink")（札幌、仙台、東京、名古屋、大阪、広島、松山、福岡）から[リレー形式でニュースを伝える](../Page/列島リレーニュース.md "wikilink")。[ラジオ第1の](../Page/NHKラジオ第1放送.md "wikilink")『郷土の話題』がその起源。1996年度の1年間のみ『[NHKネットワークニュース](https://ja.wikipedia.org/wiki/NHKネットワークニュース "wikilink")』として継続して放送した。
 
 ## 歴代の出演者
 
@@ -95,27 +95,27 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 <td><p>イブニングネットワーク北海道</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK室蘭放送局" title="wikilink">室蘭</a></p></td>
+<td><p><a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a></p></td>
 <td><p>イブニングネットワーク室蘭</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK旭川放送局" title="wikilink">旭川</a></p></td>
+<td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a></p></td>
 <td><p>イブニングネットワーク旭川</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK帯広放送局" title="wikilink">帯広</a></p></td>
+<td><p><a href="../Page/NHK帯広放送局.md" title="wikilink">帯広</a></p></td>
 <td><p>イブニングネットワーク帯広</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK釧路放送局" title="wikilink">釧路</a></p></td>
+<td><p><a href="../Page/NHK釧路放送局.md" title="wikilink">釧路</a></p></td>
 <td><p>イブニングネットワーク釧路</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK北見放送局" title="wikilink">北見</a></p></td>
+<td><p><a href="../Page/NHK北見放送局.md" title="wikilink">北見</a></p></td>
 <td><p>イブニングネットワーク北見</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK青森放送局" title="wikilink">青森</a></p></td>
+<td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
 <td><p>イブニングネットワークあおもり<br />
 あおもり630</p></td>
 </tr>
@@ -125,19 +125,19 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 あきたTODAY</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a></p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
 <td><p>イブニングネットワークいわて</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山形放送局" title="wikilink">山形</a></p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td><p>イブニングネットワークやまがた</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK仙台放送局" title="wikilink">仙台</a></p></td>
+<td><p><a href="../Page/NHK仙台放送局.md" title="wikilink">仙台</a></p></td>
 <td><p>イブニングネットワークみやぎ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福島放送局" title="wikilink">福島</a></p></td>
+<td><p><a href="../Page/NHK福島放送局.md" title="wikilink">福島</a></p></td>
 <td><p>イブニングネットワーク福島</p></td>
 </tr>
 <tr class="odd">
@@ -145,30 +145,30 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワーク首都圏" title="wikilink">イブニングネットワーク首都圏</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK新潟放送局" title="wikilink">新潟</a></p></td>
+<td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
 <td><p>1988年4月 - 1995年3月：イブニングネットワークにいがた<br />
 1995年4月 - 1997年3月：にいがたニュース街道</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK長野放送局" title="wikilink">長野</a></p></td>
+<td><p><a href="../Page/NHK長野放送局.md" title="wikilink">長野</a></p></td>
 <td><p>イブニングネットワーク信州</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK甲府放送局" title="wikilink">甲府</a></p></td>
+<td><p><a href="../Page/NHK甲府放送局.md" title="wikilink">甲府</a></p></td>
 <td><p>イブニングネットワークやまなし<br />
 ニュースセンターやまなし630</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK静岡放送局" title="wikilink">静岡</a></p></td>
+<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワークしずおか" title="wikilink">イブニングネットワークしずおか</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td><p>1988年4月 - 1991年7月：<a href="https://ja.wikipedia.org/wiki/イブニングネットワーク東海" title="wikilink">イブニングネットワーク東海</a><br />
-1991年8月 - 1998年3月：<a href="https://ja.wikipedia.org/wiki/ニュースウェーブNHK東海" title="wikilink">ニュースウェーブNHK東海</a></p></td>
+1991年8月 - 1998年3月：<a href="../Page/ニュースウェーブNHK東海.md" title="wikilink">ニュースウェーブNHK東海</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK富山放送局" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p>イブニングネットワークとやま</p></td>
 </tr>
 <tr class="even">
@@ -176,7 +176,7 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 <td><p>イブニングネットワーク金沢</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福井放送局" title="wikilink">福井</a></p></td>
+<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td><p>イブニングネットワークふくい</p></td>
 </tr>
 <tr class="even">
@@ -197,13 +197,13 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 <td><p>イブニングネットワークしまね</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK岡山放送局" title="wikilink">岡山</a></p></td>
+<td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
 <td><p>1988年4月 - 1992年3月：イブニングネットワークおかやま<br />
 1992年4月 - フレッシュおかやま630<br />
 おかやまToday630</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK広島放送局" title="wikilink">広島</a></p></td>
+<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
 <td><p>1988年4月 - 1992年3月：イブニングネットワークひろしま<br />
 1992年4月 - 1997年3月：ニュースポートひろしま</p></td>
 </tr>
@@ -228,7 +228,7 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 <td><p>イブニングネットワークとくしま</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK高知放送局" title="wikilink">高知</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
 <td><p>1988年4月 - 1995年3月：イブニングネットワークこうち<br />
 1995年4月 -：ニュースタイムこうち</p></td>
 </tr>
@@ -248,7 +248,7 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 ニュース630佐賀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK長崎放送局" title="wikilink">長崎</a></p></td>
+<td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
 <td><p>イブニングネットワークながさき</p></td>
 </tr>
 <tr class="odd">
@@ -277,10 +277,10 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 </tbody>
 </table>
 
-  - [名古屋局では](../Page/NHK名古屋放送局.md "wikilink")、1991年8月から『[ニュースウェーブNHK東海](https://ja.wikipedia.org/wiki/ニュースウェーブNHK東海 "wikilink")』というタイトルに変更している。初代キャスターは[石戸谷健一](https://ja.wikipedia.org/wiki/石戸谷健一 "wikilink")アナウンサー。ただし、土曜だけは『土曜イブネット』だった。なお、1992年度は、18:00 - 18:07の全国ニュースも名古屋局で独自に伝えていた。
-  - [広島局では](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink")、1992年4月のローカル枠縮小から、『ニュースポートひろしま』にタイトルを変更した。
-  - [高知局の場合](https://ja.wikipedia.org/wiki/NHK高知放送局 "wikilink")、1995年頃から18:30以降のローカルパートを『ニュースタイムこうち』という別番組として独立させており、「NHKネットワークニュース」終了後にはこのタイトルのまま1時間枠に拡大した。
-  - 福岡県の場合は、[福岡局と](../Page/NHK福岡放送局.md "wikilink")[北九州局がそれぞれ自主制作しており](../Page/NHK北九州放送局.md "wikilink")、1996年度のみ『6時半です\!ニュースセンター福岡（北九州）』というタイトルに変更した。夕方の定時ニュースについては、現在に至るまで異なる内容を放送している。ちなみに、福岡局のイブニングネットワークふくおかの初代キャスターは現在フリーとして活躍中の[堀尾正明](https://ja.wikipedia.org/wiki/堀尾正明 "wikilink")であった。
+  - [名古屋局では](../Page/NHK名古屋放送局.md "wikilink")、1991年8月から『[ニュースウェーブNHK東海](../Page/ニュースウェーブNHK東海.md "wikilink")』というタイトルに変更している。初代キャスターは[石戸谷健一](../Page/石戸谷健一.md "wikilink")アナウンサー。ただし、土曜だけは『土曜イブネット』だった。なお、1992年度は、18:00 - 18:07の全国ニュースも名古屋局で独自に伝えていた。
+  - [広島局では](../Page/NHK広島放送局.md "wikilink")、1992年4月のローカル枠縮小から、『ニュースポートひろしま』にタイトルを変更した。
+  - [高知局の場合](../Page/NHK高知放送局.md "wikilink")、1995年頃から18:30以降のローカルパートを『ニュースタイムこうち』という別番組として独立させており、「NHKネットワークニュース」終了後にはこのタイトルのまま1時間枠に拡大した。
+  - 福岡県の場合は、[福岡局と](../Page/NHK福岡放送局.md "wikilink")[北九州局がそれぞれ自主制作しており](../Page/NHK北九州放送局.md "wikilink")、1996年度のみ『6時半です\!ニュースセンター福岡（北九州）』というタイトルに変更した。夕方の定時ニュースについては、現在に至るまで異なる内容を放送している。ちなみに、福岡局のイブニングネットワークふくおかの初代キャスターは現在フリーとして活躍中の[堀尾正明](../Page/堀尾正明.md "wikilink")であった。
 
 ## 脚注
 

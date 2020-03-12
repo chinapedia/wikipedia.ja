@@ -1,11 +1,11 @@
 > この記事は[XT](https://ja.wikipedia.org/wiki/XT)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:XT_Bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Bussysteme_Extended_ISA_32Bit,_ISA_16Bit,_XT_8Bit.JPG "wikilink"), [EISA](../Page/Extended_Industry_Standard_Architecture.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:XT_Bus_pins.svg "wikilink") **XTバス**（エックスティー バス、XT bus architecture）は、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")発売の[IBM PC](https://ja.wikipedia.org/wiki/IBM_PC "wikilink") 及び、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")発売の [PC XT](https://ja.wikipedia.org/wiki/PC/AT#PC_XT "wikilink") に搭載された、8ビット[バスである](../Page/バス_\(コンピュータ\).md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:XT_Bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Bussysteme_Extended_ISA_32Bit,_ISA_16Bit,_XT_8Bit.JPG "wikilink"), [EISA](../Page/Extended_Industry_Standard_Architecture.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:XT_Bus_pins.svg "wikilink") **XTバス**（エックスティー バス、XT bus architecture）は、[1981年](../Page/1981年.md "wikilink")発売の[IBM PC](../Page/IBM_PC.md "wikilink") 及び、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")発売の [PC XT](https://ja.wikipedia.org/wiki/PC/AT#PC_XT "wikilink") に搭載された、8ビット[バスである](../Page/バス_\(コンピュータ\).md "wikilink")。
 
 XTバスは8つの割り込みチャネル(IRQ)を持ち、そのうち6つが拡張スロットに引き出されている。また、4つの[DMAチャネルを持ち](../Page/Direct_Memory_Access.md "wikilink")、うち3つが引き出されている。
 
-XTバスを更に16ビットに追加拡張したATバス（[ISA](../Page/Industry_Standard_Architecture.md "wikilink")、Industry Standard Architecture） とは下位[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")を持ち、共存もできるため、[1990年代](../Page/1990年代.md "wikilink")のISAバス搭載マシンにも搭載されていた。「8ビットISA」とも呼ばれる。なお[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売の[IBM PS/2モデル](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")25/30もXTバスである。
+XTバスを更に16ビットに追加拡張したATバス（[ISA](../Page/Industry_Standard_Architecture.md "wikilink")、Industry Standard Architecture） とは下位[互換性](../Page/互換性.md "wikilink")を持ち、共存もできるため、[1990年代](../Page/1990年代.md "wikilink")のISAバス搭載マシンにも搭載されていた。「8ビットISA」とも呼ばれる。なお[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売の[IBM PS/2モデル](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")25/30もXTバスである。
 
 <table>
 <thead>
@@ -25,7 +25,7 @@ XTバスを更に16ビットに追加拡張したATバス（[ISA](../Page/Indust
 <tr class="even">
 <td><p>1</p></td>
 <td><p>無</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キーボード_(コンピュータ)" title="wikilink">キーボード</a></p></td>
+<td><p><a href="../Page/キーボード_(コンピュータ).md" title="wikilink">キーボード</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -55,7 +55,7 @@ XTバスを更に16ビットに追加拡張したATバス（[ISA](../Page/Indust
 <tr class="even">
 <td><p>7</p></td>
 <td><p>有</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パラレルポート" title="wikilink">パラレルポート</a></p></td>
+<td><p><a href="../Page/パラレルポート.md" title="wikilink">パラレルポート</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -95,7 +95,7 @@ XTバスを更に16ビットに追加拡張したATバス（[ISA](../Page/Indust
 
 ## 関連項目
 
-  - [IBM PC](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")
+  - [IBM PC](../Page/IBM_PC.md "wikilink")
   - [Industry Standard Architecture](../Page/Industry_Standard_Architecture.md "wikilink") (ISA)
   - [Extended Industry Standard Architecture](../Page/Extended_Industry_Standard_Architecture.md "wikilink") (EISA)
   - [Micro Channel Architecture](https://ja.wikipedia.org/wiki/Micro_Channel_Architecture "wikilink") (MCA)

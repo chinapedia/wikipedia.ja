@@ -7,17 +7,17 @@
 
 ## 概要
 
-東京12チャンネル（現・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）の開局当初は[朝日新聞社](../Page/朝日新聞社.md "wikilink")と報道提携を結んでいたため、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")の旧・[朝日新聞東京本社](https://ja.wikipedia.org/wiki/朝日新聞東京本社 "wikilink")（現・[有楽町マリオン](https://ja.wikipedia.org/wiki/有楽町センタービル "wikilink")）に専用ニューススタジオを設け、そこから『[朝日新聞ニュース](https://ja.wikipedia.org/wiki/朝日新聞ニュース "wikilink")』（『[ワイドニュース → きょうのニュース](https://ja.wikipedia.org/wiki/ワイドニュース_\(東京12チャンネル\) "wikilink")』など）と題して放送された。
+東京12チャンネル（現・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）の開局当初は[朝日新聞社](../Page/朝日新聞社.md "wikilink")と報道提携を結んでいたため、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")の旧・[朝日新聞東京本社](https://ja.wikipedia.org/wiki/朝日新聞東京本社 "wikilink")（現・[有楽町マリオン](../Page/有楽町センタービル.md "wikilink")）に専用ニューススタジオを設け、そこから『[朝日新聞ニュース](../Page/朝日新聞ニュース.md "wikilink")』（『[ワイドニュース → きょうのニュース](../Page/ワイドニュース_\(東京12チャンネル\).md "wikilink")』など）と題して放送された。
 
 1969年12月1日からは自社制作による『**[東京12チャンネルニュース](https://ja.wikipedia.org/wiki/東京12チャンネルニュース "wikilink")**』として再スタートし、同時に経営再建のため資本・報道協定提携を結んだ[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")と2社のローテーション体制で放送され、タイトルに『協力：日本経済新聞社』、『協力：朝日新聞社』のクレジットがそれぞれ入るようになる。
 
 1972年4月1日に朝日新聞社が撤退し、東京12チャンネルから放送されるニュースは日経一本となる。なお、1970年から1973年までは、[名古屋](../Page/名古屋市.md "wikilink")・[中京テレビでも](../Page/中京テレビ放送.md "wikilink")『**中京テレビニュース**』のタイトルで放送されていた。1982年3月1日から1989年3月31日まで、『**メガTONニュース**』のタイトルで放送されていた。現在『**TXNニュース**』では、1989年4月1日から、タイトルで放送されている。
 
-[BSジャパン（現・BSテレ東）でも](../Page/BSテレビ東京.md "wikilink")2000年12月の開局当初から2014年2月末まで放送されていた。これにあわせて、テレビ東京の報道番組はすべて[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作で放送されている（在京民放キー局では最初。この番組に限っては「ハイビジョン制作」の[マークは表示されない](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")）。ニュース素材については、2000年の[BSデジタル放送と](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")2003年の[地上デジタル放送の開始当初はすべて標準画面のアップコンバートで放送されていたが](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、2006年9月以降は一部のニュース素材もハイビジョンで放送されるようになった。
+[BSジャパン（現・BSテレ東）でも](../Page/BSテレビ東京.md "wikilink")2000年12月の開局当初から2014年2月末まで放送されていた。これにあわせて、テレビ東京の報道番組はすべて[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作で放送されている（在京民放キー局では最初。この番組に限っては「ハイビジョン制作」の[マークは表示されない](../Page/ハイビジョン制作.md "wikilink")）。ニュース素材については、2000年の[BSデジタル放送と](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")2003年の[地上デジタル放送の開始当初はすべて標準画面のアップコンバートで放送されていたが](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、2006年9月以降は一部のニュース素材もハイビジョンで放送されるようになった。
 
 [TXNはニュースネットワークをも包含するネットワークであるため](../Page/TXNネットワーク.md "wikilink")、加盟各局と共同で制作を行っているほか、一部の[独立放送局](../Page/独立放送局.md "wikilink")も取材協力している。系列局を持たない[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")や[北陸地方](../Page/北陸地方.md "wikilink")など取材できない地域のニュースを伝える際は、[共同通信社](../Page/共同通信社.md "wikilink")の撮影した映像をクレジットつきで使用する例が見られる。
 
-[土曜](../Page/土曜日.md "wikilink")・[日曜の夕方の放送は](../Page/日曜日.md "wikilink")、2000年10月、それまで[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")夕方の報道番組（『[THIS EVENING](../Page/TXNニュース_THIS_EVENING.md "wikilink")』→『[夕方いちばん](https://ja.wikipedia.org/wiki/TXNニュースワイド_夕方いちばん "wikilink")』→『[ニュースアイ](../Page/TXNニュースアイ.md "wikilink")』）の冠を模した『土日特集』が廃止されたのに伴い、本番組に改題した（過去の放送時間は[後述](https://ja.wikipedia.org/wiki/#過去の放送時間 "wikilink")）。2007年10月6日放送分から、キャスターのバック（背景）が[クロマキー](https://ja.wikipedia.org/wiki/クロマキー "wikilink")合成による天気カメラの映像からスタジオセットへ変更となった（[祝日](../Page/祝日.md "wikilink")朝〈2017年9月に放送終了〉と昼の放送は変更なし）。
+[土曜](../Page/土曜日.md "wikilink")・[日曜の夕方の放送は](../Page/日曜日.md "wikilink")、2000年10月、それまで[平日](../Page/平日.md "wikilink")夕方の報道番組（『[THIS EVENING](../Page/TXNニュース_THIS_EVENING.md "wikilink")』→『[夕方いちばん](../Page/TXNニュースワイド_夕方いちばん.md "wikilink")』→『[ニュースアイ](../Page/TXNニュースアイ.md "wikilink")』）の冠を模した『土日特集』が廃止されたのに伴い、本番組に改題した（過去の放送時間は[後述](https://ja.wikipedia.org/wiki/#過去の放送時間 "wikilink")）。2007年10月6日放送分から、キャスターのバック（背景）が[クロマキー](../Page/クロマキー.md "wikilink")合成による天気カメラの映像からスタジオセットへ変更となった（[祝日](../Page/祝日.md "wikilink")朝〈2017年9月に放送終了〉と昼の放送は変更なし）。
 
 [JNNのような](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、系列局に対する放送の強制はなく、放送するかどうかは各系列局の編成方針による。そのため、他系列のスポットニュースと同様のネット形態となっている。土曜昼の放送は現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のみでされており、各系列局やBSジャパン→BSテレビ東京では放送されていない。また、[テレビ愛知](../Page/テレビ愛知.md "wikilink")では土曜・日曜の夕方の放送を2000年10月から2001年3月までネットしなかった他、[テレビ北海道](../Page/テレビ北海道.md "wikilink")・テレビ愛知の2局は土曜最終版（現在は廃枠）の放送を2010年3月をもって打ち切っている（[後述](https://ja.wikipedia.org/wiki/#過去の放送時間 "wikilink")）。テレビ東京以外の系列局は土曜昼枠の放送を2017年3月を以って打ち切っている。
 
@@ -42,7 +42,7 @@
 <td><p>（放送なし）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京系列夕方ニュース枠" title="wikilink">夕方</a></p></td>
+<td><p><a href="../Page/テレビ東京系列夕方ニュース枠.md" title="wikilink">夕方</a></p></td>
 <td><p>17:20 - 17:30（10分）<sup>1</sup></p></td>
 <td></td>
 </tr>
@@ -71,7 +71,7 @@
 <tbody>
 <tr class="odd">
 <td><p>昼</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/矢内雄一郎" title="wikilink">矢内雄一郎</a><sup>1</sup></p></td>
+<td><p><a href="../Page/矢内雄一郎.md" title="wikilink">矢内雄一郎</a><sup>1</sup></p></td>
 <td><p>（放送なし）</p></td>
 </tr>
 <tr class="even">
@@ -98,7 +98,7 @@
 
 上記の担当者は都合により変わる場合もある。
 
-土曜・日曜の夕方の放送の後半パートにある天気予報（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のみ）は、以前は担当のニュースキャスターが併せて読んでいたが、2007年10月7日放送分からは[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")所属の[気象予報士](../Page/気象予報士.md "wikilink")が担当。2016年11月放送分からは[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")所属の[気象予報士](../Page/気象予報士.md "wikilink")が担当している。
+土曜・日曜の夕方の放送の後半パートにある天気予報（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のみ）は、以前は担当のニュースキャスターが併せて読んでいたが、2007年10月7日放送分からは[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")所属の[気象予報士](../Page/気象予報士.md "wikilink")が担当。2016年11月放送分からは[日本気象協会](../Page/日本気象協会.md "wikilink")所属の[気象予報士](../Page/気象予報士.md "wikilink")が担当している。
 
 ## ネット状況
 
@@ -145,19 +145,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a><sup>3</sup></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a><sup>4</sup></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a><sup>5</sup></p></td>
 <td></td>
 <td></td>
@@ -165,10 +165,10 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup>　土曜後半は『<a href="https://ja.wikipedia.org/wiki/道新ニュース" title="wikilink">TVh道新ニュース</a>』（前半枠終了時にも画面左上に「このあとはTVh道新ニュース」と表示される）、日曜後半は『TVhお天気情報』を放送。</li>
+<li><sup>1</sup>　土曜後半は『<a href="../Page/道新ニュース.md" title="wikilink">TVh道新ニュース</a>』（前半枠終了時にも画面左上に「このあとはTVh道新ニュース」と表示される）、日曜後半は『TVhお天気情報』を放送。</li>
 <li><sup>2</sup>　土曜・日曜後半はローカルニュースを放送（当番組に内包。エンディングはリニューアル前のロゴ）。</li>
 <li><sup>3</sup>　土曜・日曜後半は『<a href="https://ja.wikipedia.org/wiki/やさしいニュース" title="wikilink">やさしいニュース</a>プラス』を放送。</li>
-<li><sup>4</sup>　土曜・日曜後半は『<a href="https://ja.wikipedia.org/wiki/TSCニュース" title="wikilink">TSCニュース</a>』を放送。</li>
+<li><sup>4</sup>　土曜・日曜後半は『<a href="../Page/TSCニュース.md" title="wikilink">TSCニュース</a>』を放送。</li>
 <li><sup>5</sup>　土曜・日曜後半は『<a href="https://ja.wikipedia.org/wiki/テレQニュース" title="wikilink">テレQニュース</a>』を放送。</li>
 </ul>
 <p></small></p></td>
@@ -231,7 +231,7 @@
 <td><p><small></p>
 <ul>
 <li><sup>1</sup>　土曜・日曜夕方はフルネットで放送していた。土曜・日曜夕方のネット終了と同時期に平日夕方の『<a href="https://ja.wikipedia.org/wiki/NEWS_FINE" title="wikilink">NEWS FINE</a>』もネット終了。</li>
-<li><sup>2</sup> 後半は『<a href="https://ja.wikipedia.org/wiki/BBCニュースライン" title="wikilink">BBCニュースライン</a>』として放送していた（本番組打ち切り後も単独番組として継続）。</li>
+<li><sup>2</sup> 後半は『<a href="../Page/BBCニュースライン.md" title="wikilink">BBCニュースライン</a>』として放送していた（本番組打ち切り後も単独番組として継続）。</li>
 <li><sup>3</sup> 番組表などでの終了マーク無し。</li>
 <li><sup>4</sup> 18:50 - 19:00に1時間30分遅れの時差ネット。</li>
 </ul>
@@ -258,7 +258,7 @@
   - 17:26:00　天気予報
   - 17:27:05　エンディング
   - 17:27:10　次番組の[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")（5秒）
-  - 17:27:15　番組終了（土曜日は[THE フィッシング](https://ja.wikipedia.org/wiki/THE_フィッシング "wikilink")、日曜日は[BORUTO-ボルト- -NARUTO NEXT GENERATIONS-に続く](https://ja.wikipedia.org/wiki/BORUTO-ボルト-_-NARUTO_NEXT_GENERATIONS- "wikilink")）
+  - 17:27:15　番組終了（土曜日は[THE フィッシング](../Page/THE_フィッシング.md "wikilink")、日曜日は[BORUTO-ボルト- -NARUTO NEXT GENERATIONS-に続く](https://ja.wikipedia.org/wiki/BORUTO-ボルト-_-NARUTO_NEXT_GENERATIONS- "wikilink")）
 
 ## 特別編成
 
@@ -267,7 +267,7 @@
 #### 放送時間
 
   - 11:55 - 12:00
-      - 『[昼サテ](https://ja.wikipedia.org/wiki/昼サテ "wikilink")』の放送日と[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")が祝日などで開かれない日が重なった場合に、『昼サテ』の代替で放送される。2017年9月に『[ニュースモーニングサテライト](https://ja.wikipedia.org/wiki/ニュースモーニングサテライト "wikilink")』の祝日における本番組の代替放送が終了したため、同年10月9日以降の月曜 - 金曜の祝日においては、本枠が最初のニュース枠となる。
+      - 『[昼サテ](https://ja.wikipedia.org/wiki/昼サテ "wikilink")』の放送日と[東京証券取引所](../Page/東京証券取引所.md "wikilink")が祝日などで開かれない日が重なった場合に、『昼サテ』の代替で放送される。2017年9月に『[ニュースモーニングサテライト](../Page/ニュースモーニングサテライト.md "wikilink")』の祝日における本番組の代替放送が終了したため、同年10月9日以降の月曜 - 金曜の祝日においては、本枠が最初のニュース枠となる。
       - 放送時間は基本的なものであり、編成によっては放送時間が変更になる場合もある\[3\]。
 
 #### ネット状況
@@ -299,11 +299,11 @@
 
 ### 年末年始などの放送
 
-『[ニュースモーニングサテライト](https://ja.wikipedia.org/wiki/ニュースモーニングサテライト "wikilink")』・『[昼サテ](https://ja.wikipedia.org/wiki/昼サテ "wikilink")』・『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』・『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』の放送のない期間に、朝・正午前後・夕方・深夜に放送（TXN系列6局、BSジャパン→BSテレ東でも放送）される。
+『[ニュースモーニングサテライト](../Page/ニュースモーニングサテライト.md "wikilink")』・『[昼サテ](https://ja.wikipedia.org/wiki/昼サテ "wikilink")』・『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』・『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』の放送のない期間に、朝・正午前後・夕方・深夜に放送（TXN系列6局、BSジャパン→BSテレ東でも放送）される。
 
   - 朝の放送はない場合がある。
   - 夕方の放送は系列局によっては放送しない場合があるが\[4\]、その場合でもBSジャパン→BSテレ東で視聴可能。
-  - 放送日付上での大晦日深夜の放送については、一部の年度を除き、『[東急ジルベスターコンサート](https://ja.wikipedia.org/wiki/東急ジルベスターコンサート "wikilink")』放送終了直後の12月31日深夜の24:45 - 24:50（1月1日未明0:45 - 0:50）に放送されている。これがテレビ東京系および民放キー局のその年最初の報道番組となっている。内容は他局と同様だが、[増上寺](../Page/増上寺.md "wikilink")境内での年越しカウントダウンの模様が毎年のように取り挙げられている。
+  - 放送日付上での大晦日深夜の放送については、一部の年度を除き、『[東急ジルベスターコンサート](../Page/東急ジルベスターコンサート.md "wikilink")』放送終了直後の12月31日深夜の24:45 - 24:50（1月1日未明0:45 - 0:50）に放送されている。これがテレビ東京系および民放キー局のその年最初の報道番組となっている。内容は他局と同様だが、[増上寺](../Page/増上寺.md "wikilink")境内での年越しカウントダウンの模様が毎年のように取り挙げられている。
   - 2018年度（2018年年末から2019年年始にかけて）の年末年始の放送については、12月28日の昼以降、翌1月4日未明（1月3日深夜）までの年末年始代替ニュースは[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")を除き各局ともに放送されず、『[テレビ東京ビジネスオンデマンド](https://ja.wikipedia.org/wiki/テレビ東京ビジネスオンデマンド "wikilink")』やTXNニュースのホームページのみで数項目分配信する程度だった\[5\]。
   - 2019年12月31日の深夜は、26:15 - 26:20（2020年1月1日未明午前2:15 - 2:20）に放送された。
 
@@ -312,9 +312,9 @@
 ### 平日朝
 
   - 8:00 - 8:04（2008年9月29日 - 2009年3月27日）
-      - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")が休場となる祝祭日には放送休止となっていた。TXNを冠していたが、放送はテレビ東京のみ。そのため、一部の新聞の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")などでは『**TXニュース**』と表記されていた。
+      - [東京証券取引所](../Page/東京証券取引所.md "wikilink")が休場となる祝祭日には放送休止となっていた。TXNを冠していたが、放送はテレビ東京のみ。そのため、一部の新聞の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")などでは『**TXニュース**』と表記されていた。
       - 実質の放送時間は8:00 - 8:01:45であり、45秒間のCMを挟んだ後、8:02:30 - 8:04に『[レースガイド](https://ja.wikipedia.org/wiki/レースガイド#テレビ東京の『レースガイド』 "wikilink")』が放送されていた。
-      - [池谷亨](https://ja.wikipedia.org/wiki/池谷亨 "wikilink")（テレビ東京社員\[6\]）と[滝井礼乃](https://ja.wikipedia.org/wiki/滝井礼乃 "wikilink")（当時テレビ東京アナウンサー）のどちらかが担当していた。
+      - [池谷亨](../Page/池谷亨.md "wikilink")（テレビ東京社員\[6\]）と[滝井礼乃](../Page/滝井礼乃.md "wikilink")（当時テレビ東京アナウンサー）のどちらかが担当していた。
 
 ### 日曜朝
 
@@ -325,8 +325,8 @@
 ### 土曜昼
 
   - 12:26 - 12:30（ - 2008年3月29日）
-      - 『[ワールドビジネスサテライト土曜版](https://ja.wikipedia.org/wiki/ワールドビジネスサテライト土曜版 "wikilink")』の終了に伴い、その実質上の後継にあたる『[週刊ニュース新書](https://ja.wikipedia.org/wiki/田勢康弘の週刊ニュース新書 "wikilink")』（土曜11:30）がスタートした。最新のニュースは同番組内で伝えることになったため、一旦終了となった。
-      - 後番組は、[番組宣伝](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")『○○（番組名）オススメ』（[全国ネット枠は維持](https://ja.wikipedia.org/wiki/ネット番組 "wikilink")）。
+      - 『[ワールドビジネスサテライト土曜版](../Page/ワールドビジネスサテライト土曜版.md "wikilink")』の終了に伴い、その実質上の後継にあたる『[週刊ニュース新書](https://ja.wikipedia.org/wiki/田勢康弘の週刊ニュース新書 "wikilink")』（土曜11:30）がスタートした。最新のニュースは同番組内で伝えることになったため、一旦終了となった。
+      - 後番組は、[番組宣伝](../Page/番組宣伝.md "wikilink")『○○（番組名）オススメ』（[全国ネット枠は維持](../Page/ネット番組.md "wikilink")）。
       - 2016年3月末で『週刊ニュース新書』が終了したため、翌月より土曜昼のニュース補完として11:00 - 11:03に当番組が復活している。
 
 ### 日曜昼
@@ -346,11 +346,11 @@
       - テレビ愛知でもネット開始（前半5分のみ）。
       - 2002年10月以降は現在の放送時間となる。
 
-### 土曜・日曜夜（[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")）
+### 土曜・日曜夜（[スポットニュース](../Page/スポットニュース.md "wikilink")）
 
   - 21:54 - 22:00（ - 1997年3月）
       - 1990年代に放送。1993年 - 1995年頃は、[レインボーブリッジ](../Page/レインボーブリッジ.md "wikilink")の夜景をタイトルバックに放送。
-      - 『[ニュースブレイク](https://ja.wikipedia.org/wiki/ニュースブレイク "wikilink")』開始に伴い終了。
+      - 『[ニュースブレイク](../Page/ニュースブレイク.md "wikilink")』開始に伴い終了。
 
 ### 日曜未明（土曜深夜）
 
@@ -358,7 +358,7 @@
   - 0:15 - 0:25（1998年4月5日 - 2002年9月29日）\[8\]
   - 0:20 - 0:25（2008年4月6日 - 2009年9月27日）
   - 0:50 - 0:55（2009年10月4日 - 2010年9月26日）
-      - 2002年10月に『[ワールドビジネスサテライト土曜版](https://ja.wikipedia.org/wiki/ワールドビジネスサテライト土曜版 "wikilink")』の開始に伴い一旦終了したものの、2008年4月に同番組の終了に伴い再開された。当番組の枠確保のため、『[メガスポ\!](https://ja.wikipedia.org/wiki/メガスポ! "wikilink")』が5分短縮された。
+      - 2002年10月に『[ワールドビジネスサテライト土曜版](../Page/ワールドビジネスサテライト土曜版.md "wikilink")』の開始に伴い一旦終了したものの、2008年4月に同番組の終了に伴い再開された。当番組の枠確保のため、『[メガスポ\!](../Page/メガスポ!.md "wikilink")』が5分短縮された。
       - 2010年3月28日（27日深夜）をもって[テレビ北海道](../Page/テレビ北海道.md "wikilink")・[テレビ愛知](../Page/テレビ愛知.md "wikilink")の2局における放送は終了した他、同年9月26日（25日深夜）には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[テレビせとうち](../Page/テレビせとうち.md "wikilink")・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")における放送も終了した。これに伴い、1969年12月に『[東京12チャンネルニュース](https://ja.wikipedia.org/wiki/東京12チャンネルニュース "wikilink")』を放送開始以来40年9か月に渡って放送されてきた土曜最終版のニュース枠は廃枠となった\[9\]。
 
 ### 月曜未明（日曜深夜）
@@ -371,7 +371,7 @@
 
   - 6:30 - 6:40（ - 2016年3月21日）
   - 7:00 - 7:05（2017年5月3日 - 9月18日）
-      - 『[ニュースモーニングサテライト](https://ja.wikipedia.org/wiki/ニュースモーニングサテライト "wikilink")（モーサテ）』休止時の代替で放送。2016年3月までは6:30 - 6:40に放送していたが、2016年度は『ニュースモーニングサテライト』休止時の朝の放送はなくなり、当該日の朝の最終ニュースは、当時、同番組の後続で放送していた『[モーニングチャージ\!](https://ja.wikipedia.org/wiki/チャージ730! "wikilink")』で補う形になっていた。同番組が2017年3月末で終了したことに伴い、5月3日より『[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")』開始前の7:00 - 7:05に時間変更のうえ、復活したが、同年9月18日放送分をもって祝日朝の放送を終了した。
+      - 『[ニュースモーニングサテライト](../Page/ニュースモーニングサテライト.md "wikilink")（モーサテ）』休止時の代替で放送。2016年3月までは6:30 - 6:40に放送していたが、2016年度は『ニュースモーニングサテライト』休止時の朝の放送はなくなり、当該日の朝の最終ニュースは、当時、同番組の後続で放送していた『[モーニングチャージ\!](https://ja.wikipedia.org/wiki/チャージ730! "wikilink")』で補う形になっていた。同番組が2017年3月末で終了したことに伴い、5月3日より『[おはスタ](../Page/おはスタ.md "wikilink")』開始前の7:00 - 7:05に時間変更のうえ、復活したが、同年9月18日放送分をもって祝日朝の放送を終了した。
 
 ### 祝祭日（月 - 金）昼
 
@@ -383,9 +383,9 @@
 
 ## 関連項目
 
-  - [ニュースモーニングサテライト](https://ja.wikipedia.org/wiki/ニュースモーニングサテライト "wikilink")
+  - [ニュースモーニングサテライト](../Page/ニュースモーニングサテライト.md "wikilink")
   - [昼サテ](https://ja.wikipedia.org/wiki/昼サテ "wikilink")
-  - [ニュースブレイク](https://ja.wikipedia.org/wiki/ニュースブレイク "wikilink")
+  - [ニュースブレイク](../Page/ニュースブレイク.md "wikilink")
 
 ## 外部リンク
 
@@ -399,11 +399,11 @@
 
 [Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:TXN](https://ja.wikipedia.org/wiki/Category:TXN "wikilink") [Category:TXN番組](https://ja.wikipedia.org/wiki/Category:TXN番組 "wikilink") [Category:テレビ東京](https://ja.wikipedia.org/wiki/Category:テレビ東京 "wikilink") [Category:テレビ東京のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のミニ番組 "wikilink")
 
-1.  ただし、TXNの報道番組の放送は、岐阜放送においては『[ニュースモーニングサテライト](https://ja.wikipedia.org/wiki/ニュースモーニングサテライト "wikilink")』と『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』（同局では自社制作のワイド番組『[ぎふサテ\!](https://ja.wikipedia.org/wiki/ぎふサテ! "wikilink")』に内包。）と『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』の同時ネットを、びわ湖放送とテレビ和歌山においては『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』と『ワールドビジネスサテライト』の同時ネットをそれぞれ行っている（2020年1月時点）。
+1.  ただし、TXNの報道番組の放送は、岐阜放送においては『[ニュースモーニングサテライト](../Page/ニュースモーニングサテライト.md "wikilink")』と『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』（同局では自社制作のワイド番組『[ぎふサテ\!](https://ja.wikipedia.org/wiki/ぎふサテ! "wikilink")』に内包。）と『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』の同時ネットを、びわ湖放送とテレビ和歌山においては『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』と『ワールドビジネスサテライト』の同時ネットをそれぞれ行っている（2020年1月時点）。
 2.  2016年度は同時ネットでの放送であった。
 3.  放送時間が変更される場合は、極端な場合10:45 - 10:50や13:25 - 13:30など、中途半端な時間での放送となる場合がある。
 4.  例として夕方のニュースの系列未ネットは2008年度（2008年年末から2009年年始にかけて）が顕著で、夕方のニュースをTXN加盟全局がネットするのは1月4日（日曜日）のみ。他はテレビ北海道、テレビ大阪（2008年12月30日のみ）だけがネットした。
-5.  このため例年『東急ジルベスターコンサート』放送終了直後の12月31日深夜24時台（1月1日未明午前0時台）のニュース素材はTXNニュースのホームページや『テレビ東京ビジネスオンデマンド』のアーカイブスのみとなった。また例年1月2日の皇室一般参賀のニュース素材については同日21:00 - 23:40放送の『[池上彰の2019年初解説\!日本と世界を見に行く](https://ja.wikipedia.org/wiki/池上彰の現代史を歩く〜Walking_through_Modern_History〜 "wikilink")』内の冒頭数分間にて[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")の形で取り扱った。
+5.  このため例年『東急ジルベスターコンサート』放送終了直後の12月31日深夜24時台（1月1日未明午前0時台）のニュース素材はTXNニュースのホームページや『テレビ東京ビジネスオンデマンド』のアーカイブスのみとなった。また例年1月2日の皇室一般参賀のニュース素材については同日21:00 - 23:40放送の『[池上彰の2019年初解説\!日本と世界を見に行く](https://ja.wikipedia.org/wiki/池上彰の現代史を歩く〜Walking_through_Modern_History〜 "wikilink")』内の冒頭数分間にて[撮って出し](../Page/撮って出し.md "wikilink")の形で取り扱った。
 6.  当時は報道局マーケット情報部キャスター、現在は報道局解説委員。
 7.  [テレビ東京 土曜日深夜（23:00 - ）番組変遷表](https://sabajanee233.dokkoisho.com/h_tx_sat23.html)[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") 2003年9月26日、2020年2月4日閲覧。
 8.

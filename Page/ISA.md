@@ -21,7 +21,7 @@
 
   - 万国規格統一協会 - [1947年](../Page/1947年.md "wikilink")に[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink") (ISO) へと発展した
 
-  - [命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")アーキテクチャ (Instruction Set Architecture)
+  - [命令セット](../Page/命令セット.md "wikilink")アーキテクチャ (Instruction Set Architecture)
 
   - （障害者のための）[国際シンボルマーク](https://ja.wikipedia.org/wiki/国際シンボルマーク "wikilink") (International Symbol of Access)
 

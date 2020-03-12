@@ -1,31 +1,31 @@
 > この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
 
 
-『**ステーションY**』（Station Y、STATION Y、ステーションy）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山口朝日放送](../Page/山口朝日放送.md "wikilink") (yab) で月曜 - 金曜 18:17（当初は18:18） - 18:54に放送されていた[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**ステーションY**』（Station Y、STATION Y、ステーションy）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山口朝日放送](../Page/山口朝日放送.md "wikilink") (yab) で月曜 - 金曜 18:17（当初は18:18） - 18:54に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のローカルパートとしての『[YABスーパーJチャンネル](https://ja.wikipedia.org/wiki/YABスーパーJチャンネル "wikilink")』を、単独番組として発展させる形でスタート。[報道](https://ja.wikipedia.org/wiki/報道 "wikilink")を意識しており、日替わりでコメンテーターが出演していたのが特徴。放送開始当初は金融・政治関連の特集なども行っていた。。
+『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のローカルパートとしての『[YABスーパーJチャンネル](https://ja.wikipedia.org/wiki/YABスーパーJチャンネル "wikilink")』を、単独番組として発展させる形でスタート。[報道](../Page/報道.md "wikilink")を意識しており、日替わりでコメンテーターが出演していたのが特徴。放送開始当初は金融・政治関連の特集なども行っていた。。
 
-金曜日には[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")・[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")・[愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")、ならびにyabのブロックネット番組である『[ぐるりん瀬戸内](https://ja.wikipedia.org/wiki/ぐるりん瀬戸内 "wikilink")』を放送していた。また、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")との共同企画のコーナーも放送していた。
+金曜日には[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")・[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")・[愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")、ならびにyabのブロックネット番組である『[ぐるりん瀬戸内](../Page/ぐるりん瀬戸内.md "wikilink")』を放送していた。また、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")との共同企画のコーナーも放送していた。
 
 番組の終了後、替わって後継番組の『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』がスタートした。
 
 ## キャスター
 
-| 期間                    | メインキャスター                                                   | ニュース担当                                                      | 天気                                                    | ぐるりん瀬戸内 |
-| --------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------- |
-| 月曜・火曜                 | 水曜                                                         | 木曜・金曜                                                       | 月曜・火曜                                                 | 水曜      |
-| 2003.3.31 - 2004.3.26 | [高山了子](https://ja.wikipedia.org/wiki/高山了子 "wikilink")      | [柘植忠司](https://ja.wikipedia.org/wiki/柘植忠司 "wikilink")       | [田中寿江](https://ja.wikipedia.org/wiki/田中寿江 "wikilink") | 柘植忠司    |
-| 2004.3.29 - 2004.10.1 | 田中寿江                                                       | [黒宮千香子](https://ja.wikipedia.org/wiki/黒宮千香子 "wikilink")     | 黒宮千香子                                                 |         |
-| 2004.10.4 - 2005.4.1  | [松田梨香](https://ja.wikipedia.org/wiki/松田梨香 "wikilink")      | 松田梨香                                                        |                                                       |         |
-| 2005.4.4 - 2005.9.30  | 柘植忠司                                                       | [福山博子](https://ja.wikipedia.org/wiki/福山博子 "wikilink")       | 福山博子                                                  |         |
-| 2005.10.3 - 2006.3.31 | 松田梨香                                                       | [山田香菜子](https://ja.wikipedia.org/wiki/山田香菜子 "wikilink")     | 松田梨香                                                  | 山田香菜子   |
-| 期間                    | ニュース担当                                                     | 天気                                                          | ぐるりん瀬戸内                                               |         |
-| 月曜 - 木曜               | 金曜                                                         | 月曜 - 水曜                                                     | 木曜                                                    | 金曜      |
-| 2006.4.3 - 2007.3.30  | 柘植忠司 松田梨香                                                  | [井川弘宜](https://ja.wikipedia.org/wiki/井川弘宜 "wikilink") 山田香菜子 | 松田梨香                                                  | 山田香菜子   |
-| 2007.4.2 - 2008.3.28  | 柘植忠司 [堂本幸代](https://ja.wikipedia.org/wiki/堂本幸代 "wikilink") | [村中智絵](https://ja.wikipedia.org/wiki/村中智絵 "wikilink")       |                                                       |         |
-| 2008.3.31 - 2009.3.27 | [関真由美](https://ja.wikipedia.org/wiki/関真由美 "wikilink")      | [八木ひとみ](https://ja.wikipedia.org/wiki/八木ひとみ "wikilink")     |                                                       |         |
+| 期間                    | メインキャスター                                                   | ニュース担当                                                  | 天気                                 | ぐるりん瀬戸内 |
+| --------------------- | ---------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------- | ------- |
+| 月曜・火曜                 | 水曜                                                         | 木曜・金曜                                                   | 月曜・火曜                              | 水曜      |
+| 2003.3.31 - 2004.3.26 | [高山了子](https://ja.wikipedia.org/wiki/高山了子 "wikilink")      | [柘植忠司](https://ja.wikipedia.org/wiki/柘植忠司 "wikilink")   | [田中寿江](../Page/田中寿江.md "wikilink") | 柘植忠司    |
+| 2004.3.29 - 2004.10.1 | 田中寿江                                                       | [黒宮千香子](https://ja.wikipedia.org/wiki/黒宮千香子 "wikilink") | 黒宮千香子                              |         |
+| 2004.10.4 - 2005.4.1  | [松田梨香](https://ja.wikipedia.org/wiki/松田梨香 "wikilink")      | 松田梨香                                                    |                                    |         |
+| 2005.4.4 - 2005.9.30  | 柘植忠司                                                       | [福山博子](https://ja.wikipedia.org/wiki/福山博子 "wikilink")   | 福山博子                               |         |
+| 2005.10.3 - 2006.3.31 | 松田梨香                                                       | [山田香菜子](../Page/山田香菜子.md "wikilink")                    | 松田梨香                               | 山田香菜子   |
+| 期間                    | ニュース担当                                                     | 天気                                                      | ぐるりん瀬戸内                            |         |
+| 月曜 - 木曜               | 金曜                                                         | 月曜 - 水曜                                                 | 木曜                                 | 金曜      |
+| 2006.4.3 - 2007.3.30  | 柘植忠司 松田梨香                                                  | [井川弘宜](../Page/井川弘宜.md "wikilink") 山田香菜子                | 松田梨香                               | 山田香菜子   |
+| 2007.4.2 - 2008.3.28  | 柘植忠司 [堂本幸代](https://ja.wikipedia.org/wiki/堂本幸代 "wikilink") | [村中智絵](../Page/村中智絵.md "wikilink")                      |                                    |         |
+| 2008.3.31 - 2009.3.27 | [関真由美](https://ja.wikipedia.org/wiki/関真由美 "wikilink")      | [八木ひとみ](https://ja.wikipedia.org/wiki/八木ひとみ "wikilink") |                                    |         |
 
 ## コメンテーター
 
@@ -50,17 +50,17 @@
 ## エピソード
 
   - 毎週月曜日に放送されていたスポーツコーナー「週スポ」は、番組開始当初より続く唯一のコーナーだった（ブロックネット企画である「ぐるりん瀬戸内」を除く）。
-  - 『[ほっと土曜日](https://ja.wikipedia.org/wiki/ほっと土曜日 "wikilink")』が放送終了した際に、同番組の人気コーナーであった「学校の快談」は本番組へ移行した（コーナーは終了）。
+  - 『[ほっと土曜日](../Page/ほっと土曜日.md "wikilink")』が放送終了した際に、同番組の人気コーナーであった「学校の快談」は本番組へ移行した（コーナーは終了）。
   - 2006年8月14日より、スタジオカメラを除く機器がHD対応（放送は地上デジタル放送の試験放送のみ）。同年9月13日からは、スタジオカメラの更新も完了し、正式にハイビジョン制作番組となった。また同日より、サイドテロップなど2つのテロップが表示可能となったため、活用を始めた。
   - 初代テーマソングは本番組のために制作されたもので、2006年3月末まで3年間使われた。
   - ロゴマークは、かつてのコーポレートカラーであった緑と青の2色の三角形で「Y」を表現したもの。2006年7月14日のCI導入からは、赤茶と橙とに色を変えたものが使用されるようになった（番組内テロップのみ）。このロゴマークは、2007年4月に変更された。
-  - 山口朝日放送では従来平日17時台にローカル番組を編成（[5時からワイド](https://ja.wikipedia.org/wiki/5時からワイド "wikilink")→[とれたてテレビYAB](https://ja.wikipedia.org/wiki/とれたてテレビYAB "wikilink")）し、18時台後半にローカルニュースを編成していなかったが、当番組以降は系列他局および県内他局（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")）と同様に18時台後半にローカルニュースを編成するようになった。
+  - 山口朝日放送では従来平日17時台にローカル番組を編成（[5時からワイド](../Page/5時からワイド.md "wikilink")→[とれたてテレビYAB](../Page/とれたてテレビYAB.md "wikilink")）し、18時台後半にローカルニュースを編成していなかったが、当番組以降は系列他局および県内他局（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")）と同様に18時台後半にローカルニュースを編成するようになった。
 
 ## 関連項目
 
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
-  - [ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧 "wikilink")
+  - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク
 

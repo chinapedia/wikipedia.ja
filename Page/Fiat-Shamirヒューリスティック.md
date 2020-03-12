@@ -44,7 +44,7 @@
 
   - [暗号理論](../Page/暗号理論.md "wikilink")
   - [ランダム・オラクル](https://ja.wikipedia.org/wiki/ランダム・オラクル "wikilink")
-  - [ゼロ知識証明](https://ja.wikipedia.org/wiki/ゼロ知識証明 "wikilink")
+  - [ゼロ知識証明](../Page/ゼロ知識証明.md "wikilink")
   - [電子署名](../Page/電子署名.md "wikilink")
   - [Shnorr署名](https://ja.wikipedia.org/wiki/Shnorr署名 "wikilink")
 

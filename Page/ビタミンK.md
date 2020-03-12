@@ -1,7 +1,7 @@
 > この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
 
 
-**ビタミンK** (Vitamin K) は、[脂溶性ビタミン](https://ja.wikipedia.org/wiki/脂溶性ビタミン "wikilink")の一種である。ビタミンK依存性タンパク質の活性化に必須であり、動物体内で[血液の凝固や](https://ja.wikipedia.org/wiki/血液凝固 "wikilink")[組織の](../Page/組織_\(生物学\).md "wikilink")[石灰化](https://ja.wikipedia.org/wiki/石灰化 "wikilink")に関わっている。したがって欠乏すると出血傾向となり、また[骨粗鬆症](https://ja.wikipedia.org/wiki/骨粗鬆症 "wikilink")や[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")に関連していると考えられている。化学構造上は[2-メチル-1,4-ナフトキノン](https://ja.wikipedia.org/wiki/2-メチル-1,4-ナフトキノン "wikilink")の3位誘導体で、天然にはK<sub>1</sub>とK<sub>2</sub>の2種類があり、このうちK<sub>2</sub>には[イソプレノイド](https://ja.wikipedia.org/wiki/イソプレノイド "wikilink")側鎖の長さや修飾が異なる多数の化合物が含まれる。
+**ビタミンK** (Vitamin K) は、[脂溶性ビタミン](https://ja.wikipedia.org/wiki/脂溶性ビタミン "wikilink")の一種である。ビタミンK依存性タンパク質の活性化に必須であり、動物体内で[血液の凝固や](https://ja.wikipedia.org/wiki/血液凝固 "wikilink")[組織の](../Page/組織_\(生物学\).md "wikilink")[石灰化](https://ja.wikipedia.org/wiki/石灰化 "wikilink")に関わっている。したがって欠乏すると出血傾向となり、また[骨粗鬆症](../Page/骨粗鬆症.md "wikilink")や[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")に関連していると考えられている。化学構造上は[2-メチル-1,4-ナフトキノン](https://ja.wikipedia.org/wiki/2-メチル-1,4-ナフトキノン "wikilink")の3位誘導体で、天然にはK<sub>1</sub>とK<sub>2</sub>の2種類があり、このうちK<sub>2</sub>には[イソプレノイド](https://ja.wikipedia.org/wiki/イソプレノイド "wikilink")側鎖の長さや修飾が異なる多数の化合物が含まれる。
 
 ## 種類
 
@@ -14,21 +14,21 @@
 <!-- end list -->
 
   -
-    [フィロキノン](https://ja.wikipedia.org/wiki/フィロキノン "wikilink")、ファイトメナジオンなどとも呼ばれ、植物が[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")に使うために合成している。摂取源としては[葉菜類](../Page/葉菜類.md "wikilink")、[植物油](https://ja.wikipedia.org/wiki/植物油 "wikilink")、[豆類](https://ja.wikipedia.org/wiki/豆類 "wikilink")、海藻類、[魚介類](../Page/魚介類.md "wikilink")などが挙げられる。
+    [フィロキノン](../Page/フィロキノン.md "wikilink")、ファイトメナジオンなどとも呼ばれ、植物が[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")に使うために合成している。摂取源としては[葉菜類](../Page/葉菜類.md "wikilink")、[植物油](../Page/植物油.md "wikilink")、[豆類](https://ja.wikipedia.org/wiki/豆類 "wikilink")、海藻類、[魚介類](../Page/魚介類.md "wikilink")などが挙げられる。
 
   - ビタミンK<sub>2</sub>
 
 <!-- end list -->
 
   -
-    [メナキノン](https://ja.wikipedia.org/wiki/メナキノン "wikilink")とも呼ばれ、その側鎖の長さによってメナキノン-4、メナキノン-7の様に区別されている。この数字は側鎖を構成するイソプレン単位の数を表しており、それぞれMK-4、MK-7のように略記する。MK-4は動物体内に多く存在するもので、食餌から得たビタミンK1を動脈壁や膵臓、精巣などで変換している\[1\]\[2\]。原核生物はMK-6からMK-14という側鎖の長いメナキノンを合成し呼吸に利用している。摂取源としては[食肉](https://ja.wikipedia.org/wiki/食肉 "wikilink")、[鶏卵](https://ja.wikipedia.org/wiki/鶏卵 "wikilink")、[乳製品](../Page/乳製品.md "wikilink")などが挙げられるが、[納豆](../Page/納豆.md "wikilink")には非常に多く含まれている。
+    [メナキノン](../Page/メナキノン.md "wikilink")とも呼ばれ、その側鎖の長さによってメナキノン-4、メナキノン-7の様に区別されている。この数字は側鎖を構成するイソプレン単位の数を表しており、それぞれMK-4、MK-7のように略記する。MK-4は動物体内に多く存在するもので、食餌から得たビタミンK1を動脈壁や膵臓、精巣などで変換している\[1\]\[2\]。原核生物はMK-6からMK-14という側鎖の長いメナキノンを合成し呼吸に利用している。摂取源としては[食肉](../Page/食肉.md "wikilink")、[鶏卵](../Page/鶏卵.md "wikilink")、[乳製品](../Page/乳製品.md "wikilink")などが挙げられるが、[納豆](../Page/納豆.md "wikilink")には非常に多く含まれている。
 
   - ビタミンK<sub>3</sub>
 
 <!-- end list -->
 
   -
-    [メナジオン](https://ja.wikipedia.org/wiki/メナジオン "wikilink")とも呼ばれ、動物体内で代謝されてビタミンK<sub>2</sub>となる。代表的な合成ビタミンKであるが、動物体内にも反応中間体としてわずかに存在する\[3\]。大量摂取により毒性を示すため[サプリメント](https://ja.wikipedia.org/wiki/サプリメント "wikilink")としては使用されないが\[4\]、安価なビタミンK源として動物用飼料に添加されている\[5\]。
+    [メナジオン](https://ja.wikipedia.org/wiki/メナジオン "wikilink")とも呼ばれ、動物体内で代謝されてビタミンK<sub>2</sub>となる。代表的な合成ビタミンKであるが、動物体内にも反応中間体としてわずかに存在する\[3\]。大量摂取により毒性を示すため[サプリメント](../Page/サプリメント.md "wikilink")としては使用されないが\[4\]、安価なビタミンK源として動物用飼料に添加されている\[5\]。
 
   - ビタミンK<sub>4</sub>
 
@@ -37,7 +37,7 @@
   -
     [メナジオール](https://ja.wikipedia.org/wiki/メナジオール "wikilink")とも呼ばれ、ビタミンK<sub>3</sub>の還元型である。
   - ビタミンK<sub>5</sub>
-    4-アミノ-2-メチル-1-[ナフトール](https://ja.wikipedia.org/wiki/ナフトール "wikilink")\[6\]。ビタミンK<sub>4</sub>の4位の水酸基をアミノ基に置換したもの。
+    4-アミノ-2-メチル-1-[ナフトール](../Page/ナフトール.md "wikilink")\[6\]。ビタミンK<sub>4</sub>の4位の水酸基をアミノ基に置換したもの。
 
 これら一群の化合物は動物体内でビタミンKとして作用するが、全く等価という訳ではない。
 
@@ -53,16 +53,16 @@
 
 | 名称                                                             | 略称                 | 構造                                                                                                                    | 説明                                                               |
 | -------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ビタミンK                                                          | **K**              | [Vitamin_K_allgemein.svg](https://ja.wikipedia.org/wiki/File:Vitamin_K_allgemein.svg "fig:Vitamin_K_allgemein.svg") | [キノン](https://ja.wikipedia.org/wiki/キノン "wikilink")骨格。           |
+| ビタミンK                                                          | **K**              | [Vitamin_K_allgemein.svg](https://ja.wikipedia.org/wiki/File:Vitamin_K_allgemein.svg "fig:Vitamin_K_allgemein.svg") | [キノン](../Page/キノン.md "wikilink")骨格。                              |
 | ビタミンK[ヒドロキノン](https://ja.wikipedia.org/wiki/ヒドロキノン "wikilink") | **KH<sub>2</sub>** | [Vitamin_K_reduziert.svg](https://ja.wikipedia.org/wiki/File:Vitamin_K_reduziert.svg "fig:Vitamin_K_reduziert.svg") | 還元型のビタミンK。                                                       |
 | ビタミンK[エポキシド](../Page/エポキシド.md "wikilink")                      | **KO**             | [Vitamin-K-Epoxid.svg](https://ja.wikipedia.org/wiki/File:Vitamin-K-Epoxid.svg "fig:Vitamin-K-Epoxid.svg")            | [エポキシ化](https://ja.wikipedia.org/wiki/エポキシ化 "wikilink")されたビタミンK。 |
 |                                                                |                    |                                                                                                                       |                                                                  |
 
 ## 機能
 
-[Carboxyglutamic_acid.png](https://ja.wikipedia.org/wiki/File:Carboxyglutamic_acid.png "fig:Carboxyglutamic_acid.png") ビタミンKは[ガンマグルタミルカルボキシラーゼ](https://ja.wikipedia.org/wiki/ガンマグルタミルカルボキシラーゼ "wikilink")（別名ビタミンK依存的カルボキラーゼ）の[補因子](https://ja.wikipedia.org/wiki/補因子 "wikilink")である。この酵素は[Glaタンパク質](https://ja.wikipedia.org/wiki/Glaタンパク質 "wikilink")と総称される一連のビタミンK依存性タンパク質の[翻訳後修飾](https://ja.wikipedia.org/wiki/翻訳後修飾 "wikilink")（カルボキシル化）に関わっており、その働きでGlaタンパク質の特定の位置にγ-カルボキシグルタミン酸(Gla)残基が生じ機能性が獲得される。Glaは[グルタミン酸](../Page/グルタミン酸.md "wikilink")の4位の炭素がカルボキシル化され、1つの炭素原子に2つのカルボキシル基が結合した構造をしている。これにより[カルシウム](../Page/カルシウム.md "wikilink")イオンを[キレート](../Page/キレート.md "wikilink")することができ、実際Glaタンパク質はカルシウムイオンの結合により活性化するものが多い\[9\]。
+[Carboxyglutamic_acid.png](https://ja.wikipedia.org/wiki/File:Carboxyglutamic_acid.png "fig:Carboxyglutamic_acid.png") ビタミンKは[ガンマグルタミルカルボキシラーゼ](https://ja.wikipedia.org/wiki/ガンマグルタミルカルボキシラーゼ "wikilink")（別名ビタミンK依存的カルボキラーゼ）の[補因子](../Page/補因子.md "wikilink")である。この酵素は[Glaタンパク質](https://ja.wikipedia.org/wiki/Glaタンパク質 "wikilink")と総称される一連のビタミンK依存性タンパク質の[翻訳後修飾](../Page/翻訳後修飾.md "wikilink")（カルボキシル化）に関わっており、その働きでGlaタンパク質の特定の位置にγ-カルボキシグルタミン酸(Gla)残基が生じ機能性が獲得される。Glaは[グルタミン酸](../Page/グルタミン酸.md "wikilink")の4位の炭素がカルボキシル化され、1つの炭素原子に2つのカルボキシル基が結合した構造をしている。これにより[カルシウム](../Page/カルシウム.md "wikilink")イオンを[キレート](../Page/キレート.md "wikilink")することができ、実際Glaタンパク質はカルシウムイオンの結合により活性化するものが多い\[9\]。
 
-それ以外に、食事から摂取したビタミンKは生体内でMK-4に転換し\[10\]\[11\]、[核内受容体](https://ja.wikipedia.org/wiki/核内受容体 "wikilink")（[SXR/PXR](https://ja.wikipedia.org/wiki/w:Pregnane_X_receptor "wikilink")）と結合しコラーゲン産生に関与していることが知られる\[12\]。
+それ以外に、食事から摂取したビタミンKは生体内でMK-4に転換し\[10\]\[11\]、[核内受容体](../Page/核内受容体.md "wikilink")（[SXR/PXR](https://ja.wikipedia.org/wiki/w:Pregnane_X_receptor "wikilink")）と結合しコラーゲン産生に関与していることが知られる\[12\]。
 
 ### Glaタンパク質
 
@@ -77,15 +77,15 @@
 Glaタンパク質はヒトの場合16個見付かっており、機能別に挙げると次の通りである。
 
   - 血液凝固
-    凝固因子の[プロトロンビン](https://ja.wikipedia.org/wiki/プロトロンビン "wikilink")（prothrombin, factor II)、[第VII因子](https://ja.wikipedia.org/wiki/第VII因子 "wikilink")(factor VII)、[第IX因子](https://ja.wikipedia.org/wiki/第IX因子 "wikilink")(factor IX)、[第X因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")(factor X)、および凝固抑制因子のprotein C、protein S、protein Z。これらは肝臓で合成される\[17\]。
+    凝固因子の[プロトロンビン](https://ja.wikipedia.org/wiki/プロトロンビン "wikilink")（prothrombin, factor II)、[第VII因子](../Page/第VII因子.md "wikilink")(factor VII)、[第IX因子](../Page/第IX因子.md "wikilink")(factor IX)、[第X因子](https://ja.wikipedia.org/wiki/第X因子 "wikilink")(factor X)、および凝固抑制因子のprotein C、protein S、protein Z。これらは肝臓で合成される\[17\]。
   - 組織の石灰化
-    [骨芽細胞](https://ja.wikipedia.org/wiki/骨芽細胞 "wikilink")が作る[オステオカルシン](https://ja.wikipedia.org/wiki/オステオカルシン "wikilink")(osteocalcin, bone Gla protein)と[マトリックスGlaタンパク質](https://ja.wikipedia.org/wiki/マトリックスGlaタンパク質 "wikilink")(matrix Gla protein)\[18\]、[ペリオスチン](https://ja.wikipedia.org/wiki/ペリオスチン "wikilink")(periostin)\[19\]、およびGla-rich protein\[20\]\[21\]。
+    [骨芽細胞](https://ja.wikipedia.org/wiki/骨芽細胞 "wikilink")が作る[オステオカルシン](../Page/オステオカルシン.md "wikilink")(osteocalcin, bone Gla protein)と[マトリックスGlaタンパク質](https://ja.wikipedia.org/wiki/マトリックスGlaタンパク質 "wikilink")(matrix Gla protein)\[18\]、[ペリオスチン](https://ja.wikipedia.org/wiki/ペリオスチン "wikilink")(periostin)\[19\]、およびGla-rich protein\[20\]\[21\]。
   - 細胞増殖因子
     Growth arrest-specific protein 6 (Gas6)\[22\]
   - 機能不明
     Proline-rich g-carboxy glutamyl proteins (PRGPs) 1 and 2, and transmembrane g-carboxy glutamyl proteins (TMGs) 3 and 4.\[23\]
 
-ガンマグルタミルカルボキラーゼにより[カルボキシル化](https://ja.wikipedia.org/wiki/カルボキシル化 "wikilink")されるグルタミン酸残基は、[Glaドメイン](https://ja.wikipedia.org/wiki/Glaドメイン "wikilink")と呼ばれる構造中に存在することが多い。
+ガンマグルタミルカルボキラーゼにより[カルボキシル化](../Page/カルボキシル化.md "wikilink")されるグルタミン酸残基は、[Glaドメイン](https://ja.wikipedia.org/wiki/Glaドメイン "wikilink")と呼ばれる構造中に存在することが多い。
 
 ### 血液凝固とビタミンK
 
@@ -93,7 +93,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
 ### 骨代謝とビタミンK
 
-ビタミンKのうちビタミンK<sub>2</sub>（MK-4）が骨粗鬆症の治療薬として利用されている。骨形成マーカーの1つである[オステオカルシン](https://ja.wikipedia.org/wiki/オステオカルシン "wikilink")は、ビタミンKによって活性化され骨代謝を調節する。このオステオカルシンを十分に活性化するためには、血液凝固を維持するために必要なビタミンK量よりも多くのビタミンKを摂取しなければならない\[25\]。納豆を多く食べる習慣のある地方では、納豆をあまり食べない地方よりも骨折が少ないことが知られており、納豆に含まれるビタミンK<sub>2</sub>(MK-7）が骨折を予防する因子と考えられる\[26\]。ビタミンKのうち、MK-4やMK-7などのビタミンK<sub>2</sub>はオステオカルシンを活性化するだけでなく、骨組織に対して直接的に骨形成を促進し、骨の破壊を抑える効果がある\[27\]。また、ビタミンK<sub>2</sub>は、骨のコラーゲン生産を促進し、骨質を改善する点に特徴がある\[28\]。
+ビタミンKのうちビタミンK<sub>2</sub>（MK-4）が骨粗鬆症の治療薬として利用されている。骨形成マーカーの1つである[オステオカルシン](../Page/オステオカルシン.md "wikilink")は、ビタミンKによって活性化され骨代謝を調節する。このオステオカルシンを十分に活性化するためには、血液凝固を維持するために必要なビタミンK量よりも多くのビタミンKを摂取しなければならない\[25\]。納豆を多く食べる習慣のある地方では、納豆をあまり食べない地方よりも骨折が少ないことが知られており、納豆に含まれるビタミンK<sub>2</sub>(MK-7）が骨折を予防する因子と考えられる\[26\]。ビタミンKのうち、MK-4やMK-7などのビタミンK<sub>2</sub>はオステオカルシンを活性化するだけでなく、骨組織に対して直接的に骨形成を促進し、骨の破壊を抑える効果がある\[27\]。また、ビタミンK<sub>2</sub>は、骨のコラーゲン生産を促進し、骨質を改善する点に特徴がある\[28\]。
 
 ## 病気との関連
 
@@ -110,9 +110,9 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
   - ビタミンK1が白内障のリスクを低減するとする報告がある\[38\]。
   - アルツハイマー病の患者ではビタミンKの摂取量が少ないとする研究がある\[39\]。
   - 歯周病病巣部では歯肉溝滲出液中のビタミンK1濃度が低いという報告がある\[40\]。
-  - ビタミンK2(MK-7)は[アディポネクチン](https://ja.wikipedia.org/wiki/アディポネクチン "wikilink")を増やし内臓脂肪を低減させる可能性がある\[41\]。
+  - ビタミンK2(MK-7)は[アディポネクチン](../Page/アディポネクチン.md "wikilink")を増やし内臓脂肪を低減させる可能性がある\[41\]。
   - ラットではビタミンK1の塗布により傷の治りが早まるという報告がある\[42\]。
-  - ラットの脳では[スフィンゴ脂質](https://ja.wikipedia.org/wiki/スフィンゴ脂質 "wikilink")の濃度がビタミンK2(MK-4)の濃度に相関しているとする研究がある\[43\]。
+  - ラットの脳では[スフィンゴ脂質](../Page/スフィンゴ脂質.md "wikilink")の濃度がビタミンK2(MK-4)の濃度に相関しているとする研究がある\[43\]。
   - ビタミンKと炎症との間に逆の相関がありビタミンKが多いと炎症マーカーが低くなるとするコホート研究がある\[44\]
 
 ### ビタミンKクリーム
@@ -269,7 +269,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
 ### 相互作用
 
-  - ビタミンK製剤は抗血液凝固薬[ワルファリン](https://ja.wikipedia.org/wiki/ワルファリン "wikilink")とは拮抗する成分であり、ワルファリンを摂取している患者には、ビタミンKの過剰摂取は禁忌である\[62\]。また、ワルファリンを服用している場合、納豆・青汁・クロレラなどの摂取は避けるべきであり、必ず医師と相談する必要がある。同様に、種々の[ビタミンKの作用を阻害するアンタゴニスト類(英語)の摂取にも注意が必要である](https://ja.wikipedia.org/wiki/:en:Vitamin_K_antagonist "wikilink")。
+  - ビタミンK製剤は抗血液凝固薬[ワルファリン](../Page/ワルファリン.md "wikilink")とは拮抗する成分であり、ワルファリンを摂取している患者には、ビタミンKの過剰摂取は禁忌である\[62\]。また、ワルファリンを服用している場合、納豆・青汁・クロレラなどの摂取は避けるべきであり、必ず医師と相談する必要がある。同様に、種々の[ビタミンKの作用を阻害するアンタゴニスト類(英語)の摂取にも注意が必要である](https://ja.wikipedia.org/wiki/:en:Vitamin_K_antagonist "wikilink")。
 
 <!-- end list -->
 
@@ -277,7 +277,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
 ## 体内動態
 
-ビタミンKは、小腸から吸収され[カイロミクロン](https://ja.wikipedia.org/wiki/カイロミクロン "wikilink")にとりこまれ、リンパを介して肝臓に移行する。肝臓では、アポリポタンパクEリセプターを介してカイロミクロンレムナントから外れる。肝臓に運ばれたビタミンKは、血液凝固に関わる因子を活性化するために利用されるほか、[LDL](https://ja.wikipedia.org/wiki/LDL "wikilink")を介して血中を移動し臓器へ運ばれる。最終的には側鎖がω酸化ならびにβ酸化され、グルクロン酸抱合体となって尿から排泄される。 野菜類のビタミンKは吸収されにくく、サプリメントや植物油脂に含まれるビタミンKはよく吸収される\[63\]\[64\]。ビタミンKの代謝は、K1、MK-4および側鎖の長いMKで非常に異なっていて、納豆に含まれるMK-7はよく吸収され活性が高く\[65\]、MK-4は半減期が非常に短い\[66\]。
+ビタミンKは、小腸から吸収され[カイロミクロン](../Page/カイロミクロン.md "wikilink")にとりこまれ、リンパを介して肝臓に移行する。肝臓では、アポリポタンパクEリセプターを介してカイロミクロンレムナントから外れる。肝臓に運ばれたビタミンKは、血液凝固に関わる因子を活性化するために利用されるほか、[LDL](https://ja.wikipedia.org/wiki/LDL "wikilink")を介して血中を移動し臓器へ運ばれる。最終的には側鎖がω酸化ならびにβ酸化され、グルクロン酸抱合体となって尿から排泄される。 野菜類のビタミンKは吸収されにくく、サプリメントや植物油脂に含まれるビタミンKはよく吸収される\[63\]\[64\]。ビタミンKの代謝は、K1、MK-4および側鎖の長いMKで非常に異なっていて、納豆に含まれるMK-7はよく吸収され活性が高く\[65\]、MK-4は半減期が非常に短い\[66\]。
 
 ### 組織分布
 
@@ -291,7 +291,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
 ビタミンKの作用を抑える薬物のこと。[拮抗薬](https://ja.wikipedia.org/wiki/拮抗薬 "wikilink")ともアンタゴニストとも言う。 以下は代表的なアンタゴニスト
 
-  - [ワルファリン](https://ja.wikipedia.org/wiki/ワルファリン "wikilink")
+  - [ワルファリン](../Page/ワルファリン.md "wikilink")
 
 <!-- end list -->
 
@@ -321,7 +321,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
 ### 発がん毒性
 
-[IARCはビタミンKを](https://ja.wikipedia.org/wiki/国際がん研究機関 "wikilink")「ヒトに対する発がん性について分類できない」グループ3に指定している。
+[IARCはビタミンKを](../Page/国際がん研究機関.md "wikilink")「ヒトに対する発がん性について分類できない」グループ3に指定している。
 
 ## 法規制
 
@@ -329,15 +329,15 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
   - 食薬区分
 
-ビタミンK（K1の[フィトナジオン](https://ja.wikipedia.org/wiki/フィトナジオン "wikilink")／K3の[メナジオン](https://ja.wikipedia.org/wiki/メナジオン "wikilink")）は[成分本質 (原材料) では医薬品でないものに区分されているので](https://ja.wikipedia.org/wiki/成分本質_\(原材料\)_では医薬品でないもの "wikilink")、効能を謳わない限りは食品扱いとなる。
+ビタミンK（K1の[フィトナジオン](https://ja.wikipedia.org/wiki/フィトナジオン "wikilink")／K3の[メナジオン](https://ja.wikipedia.org/wiki/メナジオン "wikilink")）は[成分本質 (原材料) では医薬品でないものに区分されているので](../Page/成分本質_\(原材料\)_では医薬品でないもの.md "wikilink")、効能を謳わない限りは食品扱いとなる。
 
   - 食品添加物
 
-培養液から得られるビタミンK抽出物（ビタミンK2の[メナキノン](https://ja.wikipedia.org/wiki/メナキノン "wikilink")）は[既存添加物](https://ja.wikipedia.org/wiki/既存添加物 "wikilink")に指定されており添加物(強化剤)として使用できる。(その他のビタミンKは指定されていないことに留意)
+培養液から得られるビタミンK抽出物（ビタミンK2の[メナキノン](../Page/メナキノン.md "wikilink")）は[既存添加物](../Page/既存添加物.md "wikilink")に指定されており添加物(強化剤)として使用できる。(その他のビタミンKは指定されていないことに留意)
 
 ## 歴史
 
-[1929年](../Page/1929年.md "wikilink")、[デンマーク人](https://ja.wikipedia.org/wiki/デンマーク人 "wikilink")の[カール・ピーター・ヘンリク・ダム](https://ja.wikipedia.org/wiki/カール・ピーター・ヘンリク・ダム "wikilink")は[コレステロール](https://ja.wikipedia.org/wiki/コレステロール "wikilink")の研究のためニワトリにコレステロール除去食を与える実験を行った。ニワトリは数週間のうちに出血し始めたが、コレステロール除去食に純粋なコレステロールを加えてもこの現象を止めることができなかった。つまりコレステロール以外の何かが一緒に除去されていることになり、それを凝血ビタミン()と呼ぶことにした。これがビタミンKの発見である\[74\]。その構造や性質を明らかにしたのは[セントルイス大学](https://ja.wikipedia.org/wiki/セントルイス大学 "wikilink")の[エドワード・アダルバート・ドイジー](https://ja.wikipedia.org/wiki/エドワード・アダルバート・ドイジー "wikilink")らで\[75\]、二人は1943年の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞したが、ビタミンKの正確な機能が判明したのは1974年になってからである。
+[1929年](../Page/1929年.md "wikilink")、[デンマーク人](https://ja.wikipedia.org/wiki/デンマーク人 "wikilink")の[カール・ピーター・ヘンリク・ダム](../Page/カール・ピーター・ヘンリク・ダム.md "wikilink")は[コレステロール](../Page/コレステロール.md "wikilink")の研究のためニワトリにコレステロール除去食を与える実験を行った。ニワトリは数週間のうちに出血し始めたが、コレステロール除去食に純粋なコレステロールを加えてもこの現象を止めることができなかった。つまりコレステロール以外の何かが一緒に除去されていることになり、それを凝血ビタミン()と呼ぶことにした。これがビタミンKの発見である\[74\]。その構造や性質を明らかにしたのは[セントルイス大学](https://ja.wikipedia.org/wiki/セントルイス大学 "wikilink")の[エドワード・アダルバート・ドイジー](../Page/エドワード・アダルバート・ドイジー.md "wikilink")らで\[75\]、二人は1943年の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞したが、ビタミンKの正確な機能が判明したのは1974年になってからである。
 
 ## 関連項目
 

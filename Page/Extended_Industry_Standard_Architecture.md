@@ -5,11 +5,11 @@
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:EISA_Bus_pins.png "wikilink") EISAは、[IBM](../Page/IBM.md "wikilink")の[IBM PS/2に搭載された](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink") [MCA](https://ja.wikipedia.org/wiki/Micro_Channel_Architecture "wikilink") に対抗すべく、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")メーカー9社（AST Research、[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")、[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")、[日本電気](../Page/日本電気.md "wikilink")、[オリベッティ](https://ja.wikipedia.org/wiki/オリベッティ "wikilink")、[タンディ・ラジオシャック](https://ja.wikipedia.org/wiki/ラジオシャック "wikilink")、Wyse、Zenith Data Systems）によって[1988年](../Page/1988年.md "wikilink")末に制定された。規格書は有料で配布されたものの、規格そのものは[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")とされている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:EISA_Bus_pins.png "wikilink") EISAは、[IBM](../Page/IBM.md "wikilink")の[IBM PS/2に搭載された](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink") [MCA](https://ja.wikipedia.org/wiki/Micro_Channel_Architecture "wikilink") に対抗すべく、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")メーカー9社（AST Research、[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")、[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")、[日本電気](../Page/日本電気.md "wikilink")、[オリベッティ](../Page/オリベッティ.md "wikilink")、[タンディ・ラジオシャック](../Page/ラジオシャック.md "wikilink")、Wyse、Zenith Data Systems）によって[1988年](../Page/1988年.md "wikilink")末に制定された。規格書は有料で配布されたものの、規格そのものは[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")とされている。
 
 高度なバス調停機能、[リソース](https://ja.wikipedia.org/wiki/リソース "wikilink")の自動設定、4Gバイトまでの[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")アドレスサポート、理論最大33Mbytes/Secの帯域等、MCAにほぼ匹敵する仕様を持つが、[ISAとの互換性を維持するために](../Page/Industry_Standard_Architecture.md "wikilink")、ノイズ対策に必要なグラウンド信号線のレイアウトが最適化できず、高速化に制約が課せられていたため、絶対的な性能ではMCAに劣る。
 
-EISAは[ISAを縦方向に拡張し](../Page/Industry_Standard_Architecture.md "wikilink")、エッジ・コネクタの接点を2列の千鳥配置とすることで32bit化してあるため、MCAとは異なり、ISAのボードや、[XTバス](https://ja.wikipedia.org/wiki/XTバス "wikilink")のボードをそのまま装着することが可能である。
+EISAは[ISAを縦方向に拡張し](../Page/Industry_Standard_Architecture.md "wikilink")、エッジ・コネクタの接点を2列の千鳥配置とすることで32bit化してあるため、MCAとは異なり、ISAのボードや、[XTバス](../Page/XTバス.md "wikilink")のボードをそのまま装着することが可能である。
 
 このことから、互換機メーカ各社にとって下位互換性の断絶というリスクを侵さずにバスの高速化が図れるメリットがあった。そのため、IBMも後年になって一部の機種に採用している。
 
@@ -35,7 +35,7 @@ EISAは[ISAを縦方向に拡張し](../Page/Industry_Standard_Architecture.md "
 
 この許諾条件はIBM製品に対する価格面での優位性によって市場での競争力を得ていた互換機メーカー各社にとって到底許容できる条件ではなく、またISAバスとの共存を拒否するMCAの採用は、既存のISA用拡張カードを購入した顧客の利便性を損なうことを意味していた。
 
-このため、ごく一部のメーカーはMCAのライセンスを取得し、実際にもMCAを搭載するマシンを製造販売したものの、1987年当時アメリカ市場において有力であった大手[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")メーカー9社、具体的にはAST Research、[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")、[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")、NEC、[オリベッティ](https://ja.wikipedia.org/wiki/オリベッティ "wikilink")、[タンディ・ラジオシャック](https://ja.wikipedia.org/wiki/ラジオシャック "wikilink")、Wyse、Zenith Data Systemsの各社はこの条件提示に応じることを拒否した。もっとも32ビットの新しい汎用バス規格が必要な状況には変わりがなかったため、これら9社は協議の上、MCAに対抗可能でなおかつ従来のISAに対する上位互換性を備えた新しい汎用32ビットバス規格の開発に乗り出し、IBMとは異なる道を進むことを決断した。
+このため、ごく一部のメーカーはMCAのライセンスを取得し、実際にもMCAを搭載するマシンを製造販売したものの、1987年当時アメリカ市場において有力であった大手[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")メーカー9社、具体的にはAST Research、[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")、[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")、NEC、[オリベッティ](../Page/オリベッティ.md "wikilink")、[タンディ・ラジオシャック](../Page/ラジオシャック.md "wikilink")、Wyse、Zenith Data Systemsの各社はこの条件提示に応じることを拒否した。もっとも32ビットの新しい汎用バス規格が必要な状況には変わりがなかったため、これら9社は協議の上、MCAに対抗可能でなおかつ従来のISAに対する上位互換性を備えた新しい汎用32ビットバス規格の開発に乗り出し、IBMとは異なる道を進むことを決断した。
 
 こうしてMCAに対抗する**EISA**が誕生し、アメリカのPC市場では一時MCAとEISAの激しい競争が起きた。
 
@@ -43,9 +43,9 @@ EISAは[ISAを縦方向に拡張し](../Page/Industry_Standard_Architecture.md "
 
   - [Industry Standard Architecture](../Page/Industry_Standard_Architecture.md "wikilink") (ISA)
   - [Micro Channel Architecture](https://ja.wikipedia.org/wiki/Micro_Channel_Architecture "wikilink") (MCA)
-  - [New Extend Standard Architecture](https://ja.wikipedia.org/wiki/New_Extend_Standard_Architecture "wikilink") (NESA)
+  - [New Extend Standard Architecture](../Page/New_Extend_Standard_Architecture.md "wikilink") (NESA)
   - [Peripheral Component Interconnect](../Page/Peripheral_Component_Interconnect.md "wikilink") (PCI)
-  - [XTバス](https://ja.wikipedia.org/wiki/XTバス "wikilink")
+  - [XTバス](../Page/XTバス.md "wikilink")
   - [VESA ローカルバス](../Page/VESA_ローカルバス.md "wikilink")
   - [コンパクトPCI](https://ja.wikipedia.org/wiki/コンパクトPCI "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[HITOE](https://ja.wikipedia.org/wiki/HITOE)から翻訳されています。
 
 
-**HITOE**（ひとえ、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")[島尻郡](../Page/島尻郡.md "wikilink")[八重瀬町](https://ja.wikipedia.org/wiki/八重瀬町 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、女性ボーカル&ダンスグループ・**[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**の最年長メンバーである。出生名および旧芸名は**新垣 仁絵**（あらかき ひとえ）、現姓本名は夫が一般人であるため非公開。芸能事務所に所属しておらずフリー。
+**HITOE**（ひとえ、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")[島尻郡](../Page/島尻郡.md "wikilink")[八重瀬町](../Page/八重瀬町.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、女性ボーカル&ダンスグループ・**[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**の最年長メンバーである。出生名および旧芸名は**新垣 仁絵**（あらかき ひとえ）、現姓本名は夫が一般人であるため非公開。芸能事務所に所属しておらずフリー。
 
 [血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")の[ライセンス](../Page/ライセンス.md "wikilink")を取得し、講師としても活動中。ニックネームは、「仁絵ちゃん」、「ヒッチー」である。
 
@@ -9,15 +9,15 @@
 
 ## 来歴
 
-[沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")を経て、SPEEDのリーダーとして1996年にデビュー。グループでは主にダンスとコーラスを担当。
+[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")を経て、SPEEDのリーダーとして1996年にデビュー。グループでは主にダンスとコーラスを担当。
 
-1999年4月、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[L×I×V×E](https://ja.wikipedia.org/wiki/L×I×V×E "wikilink")』で連続ドラマ初主演。同じSPEEDのメンバー・[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")と共演。
+1999年4月、[TBS](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[L×I×V×E](../Page/L×I×V×E.md "wikilink")』で連続ドラマ初主演。同じSPEEDのメンバー・[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")と共演。
 
-1999年6月30日、ソロプロジェクト「HITOE'S 57 MOVE（ヒトエズゴナムーブ）」として初のソロシングル「[INORI](https://ja.wikipedia.org/wiki/INORI_\(HIMの曲\) "wikilink")」をリリースし、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を獲得。
+1999年6月30日、ソロプロジェクト「HITOE'S 57 MOVE（ヒトエズゴナムーブ）」として初のソロシングル「[INORI](../Page/INORI_\(HIMの曲\).md "wikilink")」をリリースし、[オリコンチャート](../Page/オリコンチャート.md "wikilink")2位を獲得。
 
-1999年7月、「仁絵ブランド」として、新垣がデザインした[Tシャツ](https://ja.wikipedia.org/wiki/Tシャツ "wikilink")などが日本全国の専門店で販売開始される。ちなみにこの年はSPEEDとしてチャリティーパーソナリティとして出演し、[24時間テレビ 「愛は地球を救う」のTシャツもデザインした](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")。
+1999年7月、「仁絵ブランド」として、新垣がデザインした[Tシャツ](../Page/Tシャツ.md "wikilink")などが日本全国の専門店で販売開始される。ちなみにこの年はSPEEDとしてチャリティーパーソナリティとして出演し、[24時間テレビ 「愛は地球を救う」のTシャツもデザインした](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")。
 
-2000年のSPEED解散以降は[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")・絵画の技術を磨くために[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨークの専門学校へ留学](../Page/ニューヨーク州.md "wikilink")。2001年3月31日、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")・[原宿](../Page/原宿.md "wikilink")にて初の個展を開き、2003年3月には自身初のイラスト集を出版した。
+2000年のSPEED解散以降は[ダンス](../Page/ダンス.md "wikilink")・絵画の技術を磨くために[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨークの専門学校へ留学](../Page/ニューヨーク州.md "wikilink")。2001年3月31日、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")・[原宿](../Page/原宿.md "wikilink")にて初の個展を開き、2003年3月には自身初のイラスト集を出版した。
 
 2002年、日本で芸能活動を再開。他のSPEEDメンバーとともにSONIC GROOVEレーベルに移籍し、「HITOE」名義でソロ歌手として活動。また限定的に再結成したSPEEDでもやはり、リーダーとして活動した。
 
@@ -35,7 +35,7 @@
 
 ## ダンス
 
-SPEEDではリーダーでありながら地味な存在であったが、メンバーの中ではもっとも音楽に造詣が深く、当時最先端のアメリカの[R\&Bを研究し](../Page/リズム・アンド・ブルース.md "wikilink")、ダンスの振り付けや曲のアレンジ等に取り入れていた。実際にSPEEDの解散前のラストシングル「[Long Way Home](https://ja.wikipedia.org/wiki/Long_Way_Home "wikilink")」の振り付けを行ったのは新垣である。これはSPEEDの中でも抜群にダンスがうまかった新垣だからこそ任されたことである。
+SPEEDではリーダーでありながら地味な存在であったが、メンバーの中ではもっとも音楽に造詣が深く、当時最先端のアメリカの[R\&Bを研究し](../Page/リズム・アンド・ブルース.md "wikilink")、ダンスの振り付けや曲のアレンジ等に取り入れていた。実際にSPEEDの解散前のラストシングル「[Long Way Home](../Page/Long_Way_Home.md "wikilink")」の振り付けを行ったのは新垣である。これはSPEEDの中でも抜群にダンスがうまかった新垣だからこそ任されたことである。
 
 「[ジャマイカ](../Page/ジャマイカ.md "wikilink")人になりたい」と発言し、実際何度もジャマイカに行き本場のジャマイカミュージックを身につけようとした努力家である。
 
@@ -59,7 +59,7 @@ SPEEDではリーダーでありながら地味な存在であったが、メン
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/INORI_(HIMの曲)" title="wikilink">INORI</a></strong>[3]</p></td>
+<td><p><strong><a href="../Page/INORI_(HIMの曲).md" title="wikilink">INORI</a></strong>[3]</p></td>
 <td><p>1999年6月30日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トイズファクトリー" title="wikilink">トイズファクトリー</a></p></td>
 <td><p>TFCC-87032</p></td>
@@ -69,13 +69,13 @@ SPEEDではリーダーでありながら地味な存在であったが、メン
 <td><p><s>2nd</s></p></td>
 <td><p><strong>I'll keep searching</strong>[4]</p></td>
 <td><p><s>2002年9月26日</s></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SONIC_GROOVE" title="wikilink">SONIC GROOVE</a></p></td>
+<td><p><a href="../Page/SONIC_GROOVE.md" title="wikilink">SONIC GROOVE</a></p></td>
 <td><p>AVCD-16023</p></td>
 <td><p>発売中止</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/I_Got_You" title="wikilink">I Got You</a></strong></p></td>
+<td><p><strong><a href="../Page/I_Got_You.md" title="wikilink">I Got You</a></strong></p></td>
 <td><p>2002年12月18日</p></td>
 <td><p>SONIC GROOVE</p></td>
 <td><p>AVCD-16030</p></td>
@@ -133,12 +133,12 @@ SPEEDではリーダーでありながら地味な存在であったが、メン
 
 **テレビドラマ**
 
-  - [L×I×V×E](https://ja.wikipedia.org/wiki/L×I×V×E "wikilink")（1999年、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）戸之塚 優希 役
+  - [L×I×V×E](../Page/L×I×V×E.md "wikilink")（1999年、[TBS](../Page/TBSテレビ.md "wikilink")）戸之塚 優希 役
 
 **映画**
 
-  - [アンドロメディア](https://ja.wikipedia.org/wiki/アンドロメディア "wikilink")（1998年、[松竹](../Page/松竹.md "wikilink")）ナオ 役
-  - [男はソレを我慢できない](https://ja.wikipedia.org/wiki/男はソレを我慢できない "wikilink")（2006年7月29日公開、[キネティック](https://ja.wikipedia.org/wiki/キネティック "wikilink")）ひとえ 役
+  - [アンドロメディア](../Page/アンドロメディア.md "wikilink")（1998年、[松竹](../Page/松竹.md "wikilink")）ナオ 役
+  - [男はソレを我慢できない](../Page/男はソレを我慢できない.md "wikilink")（2006年7月29日公開、[キネティック](../Page/キネティック.md "wikilink")）ひとえ 役
 
 **バラエティ・情報番組**
 
@@ -171,4 +171,4 @@ SPEEDではリーダーでありながら地味な存在であったが、メン
 1.
 2.
 3.  **HITOE'S 57 MOVE**名義
-4.  後に[AKINAが](https://ja.wikipedia.org/wiki/AKINA_\(歌手\) "wikilink")「Touch me」というタイトルでリリースした
+4.  後に[AKINAが](../Page/AKINA_\(歌手\).md "wikilink")「Touch me」というタイトルでリリースした

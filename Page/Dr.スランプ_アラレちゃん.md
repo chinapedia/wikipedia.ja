@@ -1,27 +1,27 @@
 > この記事は[Dr. ](https://ja.wikipedia.org/wiki/Dr._)から翻訳されています。
 
 
-{{ external media | image1 = [番組ロゴ（フジテレビ公式サイト）](http://www.fujitv.co.jp/bangumi/basic/logo/img/606100005.gif) }} 『**Dr.スランプ アラレちゃん**』（ドクタースランプ アラレちゃん、Dr.SLUMPアラレちゃん\[1\]）は、漫画『[Dr.スランプ](https://ja.wikipedia.org/wiki/Dr.スランプ "wikilink")』を原作とした[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から1986年2月16日まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[水曜日19:00 - 19:30に放送された](https://ja.wikipedia.org/wiki/フジテレビ系列水曜夜7時台枠のアニメ "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、一連の[メディアミックス](../Page/メディアミックス.md "wikilink")作品。  
+{{ external media | image1 = [番組ロゴ（フジテレビ公式サイト）](http://www.fujitv.co.jp/bangumi/basic/logo/img/606100005.gif) }} 『**Dr.スランプ アラレちゃん**』（ドクタースランプ アラレちゃん、Dr.SLUMPアラレちゃん\[1\]）は、漫画『[Dr.スランプ](https://ja.wikipedia.org/wiki/Dr.スランプ "wikilink")』を原作とした[1981年](../Page/1981年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から1986年2月16日まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[水曜日19:00 - 19:30に放送された](https://ja.wikipedia.org/wiki/フジテレビ系列水曜夜7時台枠のアニメ "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、一連の[メディアミックス](../Page/メディアミックス.md "wikilink")作品。  
 
 ## 概要
 
-当時、[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")のアニメ映画プロデューサーだった[今田智憲](https://ja.wikipedia.org/wiki/今田智憲 "wikilink")が、『Dr.スランプ』のアニメ化を指示\[2\]\[3\]。その頃は、主な製作会社はもとより、在京キー局までもがアニメ化権利を巡って争奪戦を繰り広げる状況だったが、多くの出版社は読者がアニメを見て事足りてしまい雑誌や単行本の売れ行きが落ちるのではないかと懸念している時代で、ジャンプ編集部もどちらかといえば乗り気ではなかった。そのような中、当時フジテレビ編成局長の職にあった[日枝久](https://ja.wikipedia.org/wiki/日枝久 "wikilink")が何度も集英社を訪ね熱烈なオファーを続け、テレビ局の局長級幹部\[4\]も繰り返し訪れたことで、ついには集英社側の経営陣もことの成り行きを傍観していられなくなり、最終的には「もはや、雑誌編集部とテレビ局のアニメ部門の問題ではなく、集英社とフジテレビの全体の問題である」として、事実上の経営判断という形で熱意に応えフジテレビでのアニメ化を許諾した\[5\]。
+当時、[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")のアニメ映画プロデューサーだった[今田智憲](../Page/今田智憲.md "wikilink")が、『Dr.スランプ』のアニメ化を指示\[2\]\[3\]。その頃は、主な製作会社はもとより、在京キー局までもがアニメ化権利を巡って争奪戦を繰り広げる状況だったが、多くの出版社は読者がアニメを見て事足りてしまい雑誌や単行本の売れ行きが落ちるのではないかと懸念している時代で、ジャンプ編集部もどちらかといえば乗り気ではなかった。そのような中、当時フジテレビ編成局長の職にあった[日枝久](../Page/日枝久.md "wikilink")が何度も集英社を訪ね熱烈なオファーを続け、テレビ局の局長級幹部\[4\]も繰り返し訪れたことで、ついには集英社側の経営陣もことの成り行きを傍観していられなくなり、最終的には「もはや、雑誌編集部とテレビ局のアニメ部門の問題ではなく、集英社とフジテレビの全体の問題である」として、事実上の経営判断という形で熱意に応えフジテレビでのアニメ化を許諾した\[5\]。
 
-本作は、企画の七條敬三が『[フクちゃん](https://ja.wikipedia.org/wiki/フクちゃん "wikilink")』に倣い、本作の人気キャラクターであるアラレの名前をタイトルに加えようと提案\[6\]。中には「Dr.スランプ」を外して「アラレちゃん」というタイトルにする案もあったが\[7\]、原作タイトルにアラレちゃんを付けた『Dr.スランプ アラレちゃん』に決定した。
+本作は、企画の七條敬三が『[フクちゃん](../Page/フクちゃん.md "wikilink")』に倣い、本作の人気キャラクターであるアラレの名前をタイトルに加えようと提案\[6\]。中には「Dr.スランプ」を外して「アラレちゃん」というタイトルにする案もあったが\[7\]、原作タイトルにアラレちゃんを付けた『Dr.スランプ アラレちゃん』に決定した。
 
-アニメ放映の開始は、単行本の大幅な部数増や、派生したキャラクター商品による版権収入など、集英社の想像をはるかに超える莫大な相乗効果を生み出した。それは集英社そのものの業績にまで影響を及ぼすほどの規模であり、これ以後、集英社は自社作品のアニメ化に積極的になり、後続の諸作品についても次々とアニメ化をされてゆくこととなる。また、本作で組まれた「集英社・東映動画・フジテレビ」の組み合わせの放映枠は、本作以後も『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール_\(アニメ\) "wikilink")』『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』と四半世紀を超えて続き、現在でもスポンサーを含む関連各社にとって大きな収益源として機能している。本作以降、1999年の『[ドクタースランプ](../Page/ドクタースランプ.md "wikilink")』終了まで、鳥山明原作作品が約18年間フジテレビ系列の水曜夜19時 - 19時30分を占めることとなった。
+アニメ放映の開始は、単行本の大幅な部数増や、派生したキャラクター商品による版権収入など、集英社の想像をはるかに超える莫大な相乗効果を生み出した。それは集英社そのものの業績にまで影響を及ぼすほどの規模であり、これ以後、集英社は自社作品のアニメ化に積極的になり、後続の諸作品についても次々とアニメ化をされてゆくこととなる。また、本作で組まれた「集英社・東映動画・フジテレビ」の組み合わせの放映枠は、本作以後も『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール_\(アニメ\) "wikilink")』『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』と四半世紀を超えて続き、現在でもスポンサーを含む関連各社にとって大きな収益源として機能している。本作以降、1999年の『[ドクタースランプ](../Page/ドクタースランプ.md "wikilink")』終了まで、鳥山明原作作品が約18年間フジテレビ系列の水曜夜19時 - 19時30分を占めることとなった。
 
-『週刊少年ジャンプ』[1984年](../Page/1984年.md "wikilink")39号で原作が連載終了し、原作漫画のネタを使い切った[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月以降は、完全なアニメオリジナルストーリーを放送して、テーマソングを変更するなどリニューアルを図ったが、視聴率が20％もいかなくなり、かつてのような勢いを取り戻すことはできなかった\[8\]。翌年2月、最終回は視聴率27.6%で有終の美を飾り、同じく鳥山原作の『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール_\(アニメ\) "wikilink")』と交代するかたちで放送を終了した。[西村繁男](https://ja.wikipedia.org/wiki/西村繁男 "wikilink")の著書、「さらば、わが青春の『少年ジャンプ』」によると、当時の週刊少年ジャンプには、連載1年未満の漫画はアニメ化させないという方針があったため、フジテレビは人気が低迷しても『Dr.スランプ』の放送を継続し、『ドラゴンボール』がアニメ化できるまで待ち続けたとの事。
+『週刊少年ジャンプ』[1984年](../Page/1984年.md "wikilink")39号で原作が連載終了し、原作漫画のネタを使い切った[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月以降は、完全なアニメオリジナルストーリーを放送して、テーマソングを変更するなどリニューアルを図ったが、視聴率が20％もいかなくなり、かつてのような勢いを取り戻すことはできなかった\[8\]。翌年2月、最終回は視聴率27.6%で有終の美を飾り、同じく鳥山原作の『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール_\(アニメ\) "wikilink")』と交代するかたちで放送を終了した。[西村繁男](../Page/西村繁男.md "wikilink")の著書、「さらば、わが青春の『少年ジャンプ』」によると、当時の週刊少年ジャンプには、連載1年未満の漫画はアニメ化させないという方針があったため、フジテレビは人気が低迷しても『Dr.スランプ』の放送を継続し、『ドラゴンボール』がアニメ化できるまで待ち続けたとの事。
 
 ### 視聴率
 
-[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")の[関東地区](https://ja.wikipedia.org/wiki/関東地区 "wikilink")での調査で、平均視聴率**22.7%**。これは『ジャンプアニメ歴代1位』の視聴率である。1981年12月16日に放送された第34話「地獄の使者チビルくん」で、最高視聴率となる**36.9%**を記録した\[9\]。ビデオリサーチがオンライン調査を開始した1977年9月26日以後に放送されたTVアニメとしては「[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")」「[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")」に次ぐ**歴代高視聴率第3位**\[10\]。[関西地区](https://ja.wikipedia.org/wiki/関西地区 "wikilink")（[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")）での最高視聴率は**35.7%**（1982年1月27日放送回）\[11\]。原作者・鳥山の地元である[東海三県](https://ja.wikipedia.org/wiki/東海三県 "wikilink")の[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")では関東・関西以上に視聴率が高く視聴率**40%越え**と「ちびまる子ちゃん」「サザエさん」を抜く視聴率を記録している\[12\]。この爆発的人気は、同時間帯に放送された民間放送局の番組を次々と終了に追い込んだ。それまで水曜19時台前半枠で民放トップに君臨していた『[霊感ヤマカン第六感](https://ja.wikipedia.org/wiki/霊感ヤマカン第六感 "wikilink")』（[朝日放送制作](../Page/朝日放送テレビ.md "wikilink")・[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系）は、当アニメに視聴率を奪われ1984年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には終了に追い込まれ、同じく[裏番組](https://ja.wikipedia.org/wiki/裏番組 "wikilink")だった[アニメ第2作の『鉄腕アトム』](https://ja.wikipedia.org/wiki/鉄腕アトム_\(アニメ第2作\) "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）も視聴率が4%から5%と低迷し\[13\]、1981年12月に終了。[TBS系では](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、本作と同日に放送開始した『[刑事犬カール2](https://ja.wikipedia.org/wiki/刑事犬カール2 "wikilink")』が低視聴率で同年9月23日に終了し、その後も1984年開始のニュース番組『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』が放送されるまでの間、1年から2年以内の短期間で終了する番組が続いた。
+[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")の[関東地区](https://ja.wikipedia.org/wiki/関東地区 "wikilink")での調査で、平均視聴率**22.7%**。これは『ジャンプアニメ歴代1位』の視聴率である。1981年12月16日に放送された第34話「地獄の使者チビルくん」で、最高視聴率となる**36.9%**を記録した\[9\]。ビデオリサーチがオンライン調査を開始した1977年9月26日以後に放送されたTVアニメとしては「[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")」「[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")」に次ぐ**歴代高視聴率第3位**\[10\]。[関西地区](https://ja.wikipedia.org/wiki/関西地区 "wikilink")（[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")）での最高視聴率は**35.7%**（1982年1月27日放送回）\[11\]。原作者・鳥山の地元である[東海三県](https://ja.wikipedia.org/wiki/東海三県 "wikilink")の[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")では関東・関西以上に視聴率が高く視聴率**40%越え**と「ちびまる子ちゃん」「サザエさん」を抜く視聴率を記録している\[12\]。この爆発的人気は、同時間帯に放送された民間放送局の番組を次々と終了に追い込んだ。それまで水曜19時台前半枠で民放トップに君臨していた『[霊感ヤマカン第六感](../Page/霊感ヤマカン第六感.md "wikilink")』（[朝日放送制作](../Page/朝日放送テレビ.md "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）は、当アニメに視聴率を奪われ1984年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には終了に追い込まれ、同じく[裏番組](../Page/裏番組.md "wikilink")だった[アニメ第2作の『鉄腕アトム』](../Page/鉄腕アトム_\(アニメ第2作\).md "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）も視聴率が4%から5%と低迷し\[13\]、1981年12月に終了。[TBS系では](../Page/TBSテレビ.md "wikilink")、本作と同日に放送開始した『[刑事犬カール2](https://ja.wikipedia.org/wiki/刑事犬カール2 "wikilink")』が低視聴率で同年9月23日に終了し、その後も1984年開始のニュース番組『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』が放送されるまでの間、1年から2年以内の短期間で終了する番組が続いた。
 
-本作で使われている「アラレ語」は1981年に流行語となり、『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』朝刊掲載のコラム「[天声人語](https://ja.wikipedia.org/wiki/天声人語 "wikilink")」（[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")付）でも取り上げられた。[日本アニメ大賞](https://ja.wikipedia.org/wiki/日本アニメ大賞 "wikilink")第3回（1985年）で貢献賞を取った。また、[2014年](../Page/2014年.md "wikilink")12月19日放送の『[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")』で、「外国人の描く「うんこ」は」という質問で、本作を放映している国は、とぐろをまいたうんちを書くという結果が出り、本作の影響と言っている\[14\]。
+本作で使われている「アラレ語」は1981年に流行語となり、『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』朝刊掲載のコラム「[天声人語](https://ja.wikipedia.org/wiki/天声人語 "wikilink")」（[1981年](../Page/1981年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")付）でも取り上げられた。[日本アニメ大賞](../Page/日本アニメ大賞.md "wikilink")第3回（1985年）で貢献賞を取った。また、[2014年](../Page/2014年.md "wikilink")12月19日放送の『[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")』で、「外国人の描く「うんこ」は」という質問で、本作を放映している国は、とぐろをまいたうんちを書くという結果が出り、本作の影響と言っている\[14\]。
 
-本作は世界各国でも放送され人気を博した。2017年におけるアルゼンチン・[ラプラタで人気の盆踊りも](https://ja.wikipedia.org/wiki/ラプラタ_\(アルゼンチン\) "wikilink")、アラレちゃん音頭が3位で\[15\]、ラプラタ盆踊りのホームページでも独自の振り付けで踊る振り付けをYouTubeの動画で「Ararechan Ondo // PASOS De Bon Odori La Plata」というタイトルで公開している。[北朝鮮でも](https://ja.wikipedia.org/wiki/朝鮮民主主義人民共和国 "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より日本側に許可を得ず放送されており、1997年当時の[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")社会面では「北朝鮮でも『んちゃ』」という見出しで報じられた\[16\]。
+本作は世界各国でも放送され人気を博した。2017年におけるアルゼンチン・[ラプラタで人気の盆踊りも](../Page/ラプラタ_\(アルゼンチン\).md "wikilink")、アラレちゃん音頭が3位で\[15\]、ラプラタ盆踊りのホームページでも独自の振り付けで踊る振り付けをYouTubeの動画で「Ararechan Ondo // PASOS De Bon Odori La Plata」というタイトルで公開している。[北朝鮮でも](../Page/朝鮮民主主義人民共和国.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より日本側に許可を得ず放送されており、1997年当時の[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")社会面では「北朝鮮でも『んちゃ』」という見出しで報じられた\[16\]。
 
-放送当時、日本テレビ系列で放送されていた『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』の1コーナー「朝のポエム」で、アラレと山吹みどりによる学園内でのショートストーリーがアニメと同じ声優で披露された。これは『ズームイン\!\!朝\!』のスポンサーとして集英社も関わっていたことにより実現したものである\[17\]。放送中は他のフジテレビ系特別番組にも出演。放送を開始して半年後の1981年[10月20日](../Page/10月20日.md "wikilink")放送『[オールスター紅白大運動会](https://ja.wikipedia.org/wiki/オールスター紅白大運動会 "wikilink")』では、アラレの着ぐるみ人形が白組の応援として登場（紅組は『[新竹取物語 1000年女王](https://ja.wikipedia.org/wiki/新竹取物語_1000年女王 "wikilink")』の雨森始）、翌[1982年](../Page/1982年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")放送の同番組でも、引き続きアラレ人形が白組応援として登場\[18\]。この他、1982年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に放送された「[オールスター春秋の祭典スペシャル](https://ja.wikipedia.org/wiki/オールスター春秋の祭典スペシャル "wikilink")」『秋の祭典』では本作の声優陣が出演し、同番組では唯一のアニメ声優が参加した回となった。『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』のコーナーでは[ビートたけし](../Page/ビートたけし.md "wikilink")が本作のパロディ『Dr.スランプ　ヤラレちゃん』を行っており、1回だけ本作の声優陣がオープニングナレーションも担当。2006年12月30日放送の『[脳内エステ IQサプリ第](../Page/脳内エステ_IQサプリ.md "wikilink")100回超特大生放送』内のコーナー「IQミラー」で本作を基にしたクイズ問題アニメが放送された\[19\]。2018年1月から3放送されたテレビドラマ「[オー・マイ・ジャンプ\! 〜少年ジャンプが地球を救う〜](https://ja.wikipedia.org/wiki/オー・マイ・ジャンプ!_〜少年ジャンプが地球を救う〜 "wikilink")」の1話と2話では、[佐藤仁美](https://ja.wikipedia.org/wiki/佐藤仁美 "wikilink")がアラレのコスプレで出演した\[20\]。
+放送当時、日本テレビ系列で放送されていた『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』の1コーナー「朝のポエム」で、アラレと山吹みどりによる学園内でのショートストーリーがアニメと同じ声優で披露された。これは『ズームイン\!\!朝\!』のスポンサーとして集英社も関わっていたことにより実現したものである\[17\]。放送中は他のフジテレビ系特別番組にも出演。放送を開始して半年後の1981年[10月20日](../Page/10月20日.md "wikilink")放送『[オールスター紅白大運動会](https://ja.wikipedia.org/wiki/オールスター紅白大運動会 "wikilink")』では、アラレの着ぐるみ人形が白組の応援として登場（紅組は『[新竹取物語 1000年女王](../Page/新竹取物語_1000年女王.md "wikilink")』の雨森始）、翌[1982年](../Page/1982年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")放送の同番組でも、引き続きアラレ人形が白組応援として登場\[18\]。この他、1982年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に放送された「[オールスター春秋の祭典スペシャル](https://ja.wikipedia.org/wiki/オールスター春秋の祭典スペシャル "wikilink")」『秋の祭典』では本作の声優陣が出演し、同番組では唯一のアニメ声優が参加した回となった。『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』のコーナーでは[ビートたけし](../Page/ビートたけし.md "wikilink")が本作のパロディ『Dr.スランプ　ヤラレちゃん』を行っており、1回だけ本作の声優陣がオープニングナレーションも担当。2006年12月30日放送の『[脳内エステ IQサプリ第](../Page/脳内エステ_IQサプリ.md "wikilink")100回超特大生放送』内のコーナー「IQミラー」で本作を基にしたクイズ問題アニメが放送された\[19\]。2018年1月から3放送されたテレビドラマ「[オー・マイ・ジャンプ\! 〜少年ジャンプが地球を救う〜](https://ja.wikipedia.org/wiki/オー・マイ・ジャンプ!_〜少年ジャンプが地球を救う〜 "wikilink")」の1話と2話では、[佐藤仁美](https://ja.wikipedia.org/wiki/佐藤仁美 "wikilink")がアラレのコスプレで出演した\[20\]。
 
 ### アラレちゃんショック
 
@@ -33,11 +33,11 @@
 
   - [則巻アラレ](../Page/則巻アラレ.md "wikilink") - [小山茉美](../Page/小山茉美.md "wikilink")
   - 則巻千兵衛\[27\] - [内海賢二](../Page/内海賢二.md "wikilink")\[28\]
-  - 則巻ガッちゃん - [中野聖子](https://ja.wikipedia.org/wiki/中野聖子 "wikilink")
+  - 則巻ガッちゃん - [中野聖子](../Page/中野聖子.md "wikilink")
   - 山吹みどり→則巻みどり\[29\] - [向井真理子](https://ja.wikipedia.org/wiki/向井真理子 "wikilink")
-  - 木緑あかね - [杉山佳寿子](https://ja.wikipedia.org/wiki/杉山佳寿子 "wikilink")
+  - 木緑あかね - [杉山佳寿子](../Page/杉山佳寿子.md "wikilink")
   - 空豆タロウ - [古川登志夫](../Page/古川登志夫.md "wikilink")
-  - 空豆ピースケ - [神保なおみ](https://ja.wikipedia.org/wiki/神保なおみ "wikilink")、中野聖子（133話・137話・163話・164話・166話・167話・169話、代役）
+  - 空豆ピースケ - [神保なおみ](../Page/神保なおみ.md "wikilink")、中野聖子（133話・137話・163話・164話・166話・167話・169話、代役）
   - オボッチャマン\[30\] - [堀江美都子](../Page/堀江美都子.md "wikilink")
   - ドクター・マシリト - [野沢那智](../Page/野沢那智.md "wikilink")
 
@@ -45,23 +45,23 @@
 
   - 企画 - [七條敬三](https://ja.wikipedia.org/wiki/七條敬三 "wikilink")（東映動画）、 [土屋登喜蔵](https://ja.wikipedia.org/wiki/土屋登喜蔵 "wikilink")（フジテレビ）\[31\]
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink") 「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」連載\[32\]）
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
-  - チーフ作画監督 - [前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
+  - チーフ作画監督 - [前田実](../Page/前田実.md "wikilink")
   - チーフデザイナー（美術監督）\[33\] - [浦田又治](https://ja.wikipedia.org/wiki/浦田又治 "wikilink")
-  - チーフディレクター - [岡崎稔](https://ja.wikipedia.org/wiki/岡崎稔 "wikilink")
-  - フジテレビ プロデューサー\[34\] - 土屋登喜蔵（1話 - 243話）、[清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")（198話 - 243話）
+  - チーフディレクター - [岡崎稔](../Page/岡崎稔.md "wikilink")
+  - フジテレビ プロデューサー\[34\] - 土屋登喜蔵（1話 - 243話）、[清水賢治](../Page/清水賢治.md "wikilink")（198話 - 243話）
   - 製作担当 - [岸本松司](https://ja.wikipedia.org/wiki/岸本松司 "wikilink")
-  - キャスティング協力 - [青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")
+  - キャスティング協力 - [青二プロダクション](../Page/青二プロダクション.md "wikilink")
   - 特殊効果 - 佐藤章一、熊井芳貴、橋本由香里、山本公
   - 編集 - 花井正明→鳥羽亮一→吉川泰弘、千蔵豊
-  - 録音 - 二宮健治、[田中英行](https://ja.wikipedia.org/wiki/田中英行 "wikilink")
-  - 音響効果 - [新井秀徳](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")（フィズサウンド）
+  - 録音 - 二宮健治、[田中英行](../Page/田中英行.md "wikilink")
+  - 音響効果 - [新井秀徳](../Page/フィズサウンドクリエイション.md "wikilink")（フィズサウンド）
   - 選曲 - [宮下滋](https://ja.wikipedia.org/wiki/ビモス・プランニング "wikilink")
   - オーディオディレクター - [小松亘弘](https://ja.wikipedia.org/wiki/小松亘弘 "wikilink")
   - 美術進行 - 杉本隆一→森英樹
   - 仕上進行 - 植木知子
-  - 色指定 - [沢田豊二](https://ja.wikipedia.org/wiki/沢田豊二 "wikilink")（タカプロ）\[35\]
-  - 録音スタジオ - [タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")\[36\]
+  - 色指定 - [沢田豊二](../Page/沢田豊二.md "wikilink")（タカプロ）\[35\]
+  - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")\[36\]
   - 現像 - [東映化学](https://ja.wikipedia.org/wiki/東映化学工業 "wikilink")
   - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")
 
@@ -73,18 +73,18 @@
 
   - オープニングテーマ
 
-:; 「[ワイワイワールド](https://ja.wikipedia.org/wiki/ワイワイワールド "wikilink")」（1話 - 197話、240話 - 243話（最終話））
+:; 「[ワイワイワールド](../Page/ワイワイワールド.md "wikilink")」（1話 - 197話、240話 - 243話（最終話））
 
-:: 作詞 - 河岸亜砂 / 作曲 - 菊池俊輔 / 編曲 - [たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink") / 歌 - [水森亜土](https://ja.wikipedia.org/wiki/水森亜土 "wikilink")、[こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")
+:: 作詞 - 河岸亜砂 / 作曲 - 菊池俊輔 / 編曲 - [たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink") / 歌 - [水森亜土](../Page/水森亜土.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
 
-:: 歌詞にある「ぶたさんホーホケキョ」の部分は、初期バージョン（1話から50話）では水森が「ぶたさん?」と問いかけて、ぶたさん（[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")）の色々なセリフが挿入される形式だったが、51話以降は水森が「ぶたさん?ホーホケキョ」を言う形式に変えられている（歌詞[テロップは一貫して](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")「????」）。放送開始から1年目の過ぎた51話から全て映像を変えていて、前より多くのキャラクターが登場する。ブタのセリフは1話 - 6話、14話 - 16話、18話 - 50話、240話 - 243話が「あっえっとえっと〜」で、7話が「コケッコッコー」、8話・11話・[劇場版第1作が](https://ja.wikipedia.org/wiki/Dr.スランプ_アラレちゃんの映画作品 "wikilink")「みんなげんきー？」、9話・12話・13話が「ムエーホー」、10話・17話が「ホケキョー」。第128話「正義と愛の板ばさみ」から効果音が追加される。240話からは映像は初期（1話 - 50話）のものに変更。
+:: 歌詞にある「ぶたさんホーホケキョ」の部分は、初期バージョン（1話から50話）では水森が「ぶたさん?」と問いかけて、ぶたさん（[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")）の色々なセリフが挿入される形式だったが、51話以降は水森が「ぶたさん?ホーホケキョ」を言う形式に変えられている（歌詞[テロップは一貫して](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")「????」）。放送開始から1年目の過ぎた51話から全て映像を変えていて、前より多くのキャラクターが登場する。ブタのセリフは1話 - 6話、14話 - 16話、18話 - 50話、240話 - 243話が「あっえっとえっと〜」で、7話が「コケッコッコー」、8話・11話・[劇場版第1作が](https://ja.wikipedia.org/wiki/Dr.スランプ_アラレちゃんの映画作品 "wikilink")「みんなげんきー？」、9話・12話・13話が「ムエーホー」、10話・17話が「ホケキョー」。第128話「正義と愛の板ばさみ」から効果音が追加される。240話からは映像は初期（1話 - 50話）のものに変更。
 
 :; 「わいわい行進曲」（198話 - 239話）
 
   -
 
       -
-        作詞 - 河岸亜砂 / 作曲 - 菊池俊輔 / 編曲 - たかしまあきひこ / 歌 - [小山茉美](../Page/小山茉美.md "wikilink")、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+        作詞 - 河岸亜砂 / 作曲 - 菊池俊輔 / 編曲 - たかしまあきひこ / 歌 - [小山茉美](../Page/小山茉美.md "wikilink")、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
         映像は本篇に合わせ、ガッちゃんが2人になり、ターボ、オボッチャマンも登場している。
 
 <!-- end list -->
@@ -93,7 +93,7 @@
 
 :; 「アレアレアラレちゃん」（1話 - 15話、25話 - 61話、76話 - 112話、174話 - 197話、240話 - 243話（最終話））
 
-:: 作詞 - [冬杜花代子](https://ja.wikipedia.org/wiki/冬杜花代子 "wikilink") / 作曲 - [サタンタ](https://ja.wikipedia.org/wiki/子門真人 "wikilink") / 編曲 - たかしまあきひこ / 歌 - 水森亜土、こおろぎ'73
+:: 作詞 - [冬杜花代子](../Page/冬杜花代子.md "wikilink") / 作曲 - [サタンタ](../Page/子門真人.md "wikilink") / 編曲 - たかしまあきひこ / 歌 - 水森亜土、こおろぎ'73
 
 :: 原作漫画の扉絵や、コミックスの表紙イラストをセル画に描き起こしたものも使用した。オープニングと同じで51話から全て映像を変えていて、前より多くのキャラクターが登場している。173話から映像にターボ、オボッチャマン（キャラメルマン4号）も登場している。
 
@@ -122,7 +122,7 @@
 
 :; 「[パパパーマのうた](https://ja.wikipedia.org/wiki/パパパーマのうた "wikilink")」（第8話、第20話他）
 
-:: 作詞 - [金春智子](https://ja.wikipedia.org/wiki/金春智子 "wikilink") / 作曲 - 菊池俊輔 / 編曲 - [いちひさし](https://ja.wikipedia.org/wiki/武市昌久 "wikilink") / 歌 - 皿田きのこ（[杉山佳寿子](https://ja.wikipedia.org/wiki/杉山佳寿子 "wikilink")）
+:: 作詞 - [金春智子](../Page/金春智子.md "wikilink") / 作曲 - 菊池俊輔 / 編曲 - [いちひさし](../Page/武市昌久.md "wikilink") / 歌 - 皿田きのこ（[杉山佳寿子](../Page/杉山佳寿子.md "wikilink")）
 
 :: 原作でも使われたが、きのこの初登場の回のみで、アニメでは複数にわたって使われている。
 
@@ -136,13 +136,13 @@
 
 :; 「アラレちゃんのララバイ」（第32話、第148話）
 
-:: 作詞 - 冬社花代子 / 作曲 - [伊藤薫](https://ja.wikipedia.org/wiki/伊藤薫_\(作曲家\) "wikilink") / 編曲 - [高田弘](https://ja.wikipedia.org/wiki/高田弘 "wikilink") / 歌 - 水森亜土
+:: 作詞 - 冬社花代子 / 作曲 - [伊藤薫](../Page/伊藤薫_\(作曲家\).md "wikilink") / 編曲 - [高田弘](../Page/高田弘.md "wikilink") / 歌 - 水森亜土
 
 :; 「[赤鼻のトナカイ](https://ja.wikipedia.org/wiki/赤鼻のトナカイ "wikilink")」（第35話）
 
-:: 作詞 - [新田宣夫](https://ja.wikipedia.org/wiki/漣健児 "wikilink") / 作曲 - Johnny Marks / 編曲 - [小森昭宏](https://ja.wikipedia.org/wiki/小森昭宏 "wikilink") / 歌 - アラレ（小山茉美）、千兵衛（[内海賢二](../Page/内海賢二.md "wikilink")）
+:: 作詞 - [新田宣夫](../Page/漣健児.md "wikilink") / 作曲 - Johnny Marks / 編曲 - [小森昭宏](../Page/小森昭宏.md "wikilink") / 歌 - アラレ（小山茉美）、千兵衛（[内海賢二](../Page/内海賢二.md "wikilink")）
 
-:; 「[ジングルベル](https://ja.wikipedia.org/wiki/ジングルベル "wikilink")」（第35話）
+:; 「[ジングルベル](../Page/ジングルベル.md "wikilink")」（第35話）
 
 :: 作詞 - [高田三九三](https://ja.wikipedia.org/wiki/高田三九三 "wikilink") / 作曲 - James Pierpont / 編曲 - 小森昭宏 / 歌 -アラレ（小山茉美）、千兵衛（内海賢二）
 
@@ -152,7 +152,7 @@
 
 :; 「夢みるシンデレラ」（第37話）
 
-:: 作詞 - 冬社花代子 / 作曲 - 菊池俊輔 / 編曲 - いちひさし / 歌 - 山吹みどり（[向井真理子](https://ja.wikipedia.org/wiki/向井真理子 "wikilink")）、[ザ・チャープス](https://ja.wikipedia.org/wiki/ザ・チャープス "wikilink")
+:: 作詞 - 冬社花代子 / 作曲 - 菊池俊輔 / 編曲 - いちひさし / 歌 - 山吹みどり（[向井真理子](https://ja.wikipedia.org/wiki/向井真理子 "wikilink")）、[ザ・チャープス](../Page/ザ・チャープス.md "wikilink")
 
 :; 「んちゃんちゃソング」（第37話）
 
@@ -243,7 +243,7 @@
 <td><p>4月8日</p></td>
 <td><p>アラレちゃん誕生</p></td>
 <td><p><a href="../Page/辻真先.md" title="wikilink">辻真先</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡崎稔" title="wikilink">岡崎稔</a></p></td>
+<td><p><a href="../Page/岡崎稔.md" title="wikilink">岡崎稔</a></p></td>
 <td><p>西山里枝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浦田又治" title="wikilink">浦田又治</a></p></td>
 <td><p>1巻1話</p></td>
@@ -264,7 +264,7 @@
 <td><p>3</p></td>
 <td><p>4月15日</p></td>
 <td><p>アラレちゃん学校へ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芦田豊雄" title="wikilink">芦田豊雄</a></p></td>
+<td><p><a href="../Page/芦田豊雄.md" title="wikilink">芦田豊雄</a></p></td>
 <td><p>山口俊和</p></td>
 <td><p>1巻5話</p></td>
 <td></td>
@@ -286,9 +286,9 @@
 <td><p>5</p></td>
 <td><p>4月22日</p></td>
 <td><p>タイムスリッパーで大冒険</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/雪室俊一" title="wikilink">雪室俊一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永丘昭典" title="wikilink">永丘昭典</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平野俊貴" title="wikilink">平野俊弘</a></p></td>
+<td><p><a href="../Page/雪室俊一.md" title="wikilink">雪室俊一</a></p></td>
+<td><p><a href="../Page/永丘昭典.md" title="wikilink">永丘昭典</a></p></td>
+<td><p><a href="../Page/平野俊貴.md" title="wikilink">平野俊弘</a></p></td>
 <td><p>明石貞一</p></td>
 <td><p>1巻10話</p></td>
 </tr>
@@ -309,7 +309,7 @@
 <td><p>5月6日</p></td>
 <td><p>あや?!男の子?女の子?</p></td>
 <td><p>大関雅幸</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富永貞義" title="wikilink">富永貞義</a></p></td>
+<td><p><a href="../Page/富永貞義.md" title="wikilink">富永貞義</a></p></td>
 <td><p>山口俊和</p></td>
 <td><p>1巻12話</p></td>
 <td></td>
@@ -331,7 +331,7 @@
 <td><p>5月13日</p></td>
 <td><p>クマさん友だち</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金春智子" title="wikilink">金春智子</a></p></td>
+<td><p><a href="../Page/金春智子.md" title="wikilink">金春智子</a></p></td>
 <td><p>（遠藤克己）<br />
 池田裕之<br />
 加藤雄治</p></td>
@@ -594,7 +594,7 @@
 <td><p>（森田浩光）<br />
 加藤雄治</p></td>
 <td><p>進藤満尾</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/窪田忠雄" title="wikilink">窪田忠雄</a></p></td>
+<td><p><a href="../Page/窪田忠雄.md" title="wikilink">窪田忠雄</a></p></td>
 <td><p>5巻6話</p></td>
 </tr>
 <tr class="odd">
@@ -672,7 +672,7 @@
 <td><p>雪室俊一</p></td>
 <td><p>大関雅幸</p></td>
 <td><p>平野俊弘</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/椋尾篁" title="wikilink">椋尾篁</a></p></td>
+<td><p><a href="../Page/椋尾篁.md" title="wikilink">椋尾篁</a></p></td>
 <td><p>5巻2話</p></td>
 <td></td>
 <td></td>
@@ -709,7 +709,7 @@
 <td></td>
 <td><p>雪室俊一</p></td>
 <td><p>永丘昭典</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前田実" title="wikilink">前田みのる</a></p></td>
+<td><p><a href="../Page/前田実.md" title="wikilink">前田みのる</a></p></td>
 <td><p>椋尾篁</p></td>
 </tr>
 <tr class="odd">
@@ -754,7 +754,7 @@
 <td><p>ドキドキわくわく!はつこいピースケ</p></td>
 <td><p>雪室俊一</p></td>
 <td><p>永丘昭典</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松原一男" title="wikilink">小松原一男</a></p></td>
+<td><p><a href="../Page/小松原一男.md" title="wikilink">小松原一男</a></p></td>
 <td><p>陶山尚治</p></td>
 <td><p>4巻12話</p></td>
 </tr>
@@ -951,7 +951,7 @@
 <td><p>60</p></td>
 <td><p>2月10日</p></td>
 <td><p>ジャングルの王者パーザン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島田満" title="wikilink">島田満</a></p></td>
+<td><p><a href="../Page/島田満.md" title="wikilink">島田満</a></p></td>
 <td><p>（遠藤克己）<br />
 加藤雄治</p></td>
 <td><p>野館誠一</p></td>
@@ -999,7 +999,7 @@
 <td><p>井上敏樹</p></td>
 <td><p>（前田康成）<br />
 芦田豊雄<br />
-<a href="https://ja.wikipedia.org/wiki/芝田浩樹" title="wikilink">芝田浩樹</a></p></td>
+<a href="../Page/芝田浩樹.md" title="wikilink">芝田浩樹</a></p></td>
 <td><p>海老沢幸男</p></td>
 <td><p>山口俊和</p></td>
 <td><p>7巻4話</p></td>
@@ -1148,7 +1148,7 @@
 <td><p>77</p></td>
 <td><p>6月9日</p></td>
 <td><p>ドキドキわくわくタイム・ストップ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/曽田博久" title="wikilink">曽田博久</a></p></td>
+<td><p><a href="../Page/曽田博久.md" title="wikilink">曽田博久</a></p></td>
 <td><p>（吉田浩）<br />
 芦田豊雄<br />
 芝田浩樹</p></td>
@@ -1589,7 +1589,7 @@
 <td><p>112</p></td>
 <td><p>2月9日</p></td>
 <td><p>エンジェルは生きていた!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小山高生" title="wikilink">小山高男</a></p></td>
+<td><p><a href="../Page/小山高生.md" title="wikilink">小山高男</a></p></td>
 <td><p>芝田浩樹</p></td>
 <td><p>進藤満尾</p></td>
 <td><p>11巻8話</p></td>
@@ -1741,7 +1741,7 @@
 <td><p>5月11日</p></td>
 <td><p>変身コンコンヘルメット</p></td>
 <td><p>井上敏樹</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/奥田誠治_(アニメーション演出家)" title="wikilink">奥田誠治</a>）<br />
+<td><p>（<a href="../Page/奥田誠治_(アニメーション演出家).md" title="wikilink">奥田誠治</a>）<br />
 芦田豊雄<br />
 荒川弘枝</p></td>
 <td><p>芦田豊雄</p></td>
@@ -1988,7 +1988,7 @@
 <td><p>正義と愛の板ばさみ</p></td>
 <td><p>井上敏樹</p></td>
 <td><p>（遠藤克己）<br />
-<a href="https://ja.wikipedia.org/wiki/西尾大介" title="wikilink">西尾大介</a></p></td>
+<a href="../Page/西尾大介.md" title="wikilink">西尾大介</a></p></td>
 <td><p>土田勇</p></td>
 <td><p>13巻3話・4話</p></td>
 <td></td>
@@ -2103,7 +2103,7 @@
 <td><p>156</p></td>
 <td><p>12月21日</p></td>
 <td><p>いたいデークリスマス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/由木義文" title="wikilink">由木義文</a></p></td>
+<td><p><a href="../Page/由木義文.md" title="wikilink">由木義文</a></p></td>
 <td><p>岡崎稔</p></td>
 <td><p>前田実</p></td>
 <td><p>明石貞一</p></td>
@@ -2125,7 +2125,7 @@
 </table>
 
   - 放送休止
-    11月16日‐'83アジアバレーボール選手権・女子順位決定リーグ〜[福岡市民体育館](https://ja.wikipedia.org/wiki/福岡市民体育館 "wikilink")（19:02-20:54）
+    11月16日‐'83アジアバレーボール選手権・女子順位決定リーグ〜[福岡市民体育館](../Page/福岡市民体育館.md "wikilink")（19:02-20:54）
 
 </div>
 
@@ -2175,7 +2175,7 @@
 <td><p>1月18日</p></td>
 <td><p>マシリト野望達成?!</p></td>
 <td><p>小山高男</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/勝間田具治" title="wikilink">勝間田具治</a></p></td>
+<td><p><a href="../Page/勝間田具治.md" title="wikilink">勝間田具治</a></p></td>
 <td><p>前田実</p></td>
 <td><p>内川文広</p></td>
 <td><p>14巻1話 - 3話</p></td>
@@ -2693,7 +2693,7 @@
 </table>
 
   - 放送休止
-    1月4日：正月スペシャル「[ザ・ガマン](https://ja.wikipedia.org/wiki/ザ・ガマン "wikilink")！ヨーロッパ激闘編・2」（19:00-20:54）
+    1月4日：正月スペシャル「[ザ・ガマン](../Page/ザ・ガマン.md "wikilink")！ヨーロッパ激闘編・2」（19:00-20:54）
     7月4日：プロ野球中継 ヤクルト－巨人〜神宮球場（19:00-20:54）
     8月8日：[ロサンゼルス・オリンピック](../Page/1984年ロサンゼルスオリンピック.md "wikilink") バレーボール女子（19:00-20:54）
     10月3日：プロ野球中継 [大洋](../Page/横浜DeNAベイスターズ.md "wikilink")－[広島](../Page/広島東洋カープ.md "wikilink")〜[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")（19:00-21:48）\[9\]
@@ -2945,7 +2945,7 @@
 <td><p>224</p></td>
 <td><p>5月22日</p></td>
 <td><p>激突!アレーすい星</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平野靖士" title="wikilink">平野靖士</a></p></td>
+<td><p><a href="../Page/平野靖士.md" title="wikilink">平野靖士</a></p></td>
 <td><p>岡崎稔</p></td>
 <td><p>前田実</p></td>
 <td><p>明石貞一</p></td>
@@ -2956,7 +2956,7 @@
 <td><p>225</p></td>
 <td><p>5月29日</p></td>
 <td><p>恐怖のおじょうひんゴッコ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/丸尾みほ" title="wikilink">丸尾みほ</a></p></td>
+<td><p><a href="../Page/丸尾みほ.md" title="wikilink">丸尾みほ</a></p></td>
 <td><p>西尾大介</p></td>
 <td><p>海老沢幸男</p></td>
 <td><p>浦田又治</p></td>
@@ -3299,7 +3299,7 @@
 
   - 放送休止
     1月2日：'85[新春スターかくし芸大会](../Page/新春かくし芸大会.md "wikilink")・二部（18:35-20:54）
-    11月13日：[バレーボールワールドカップ女子](https://ja.wikipedia.org/wiki/1985年ワールドカップバレーボール "wikilink")「日本×韓国」〜札幌・中島体育センター（19:00-20:54）
+    11月13日：[バレーボールワールドカップ女子](../Page/1985年ワールドカップバレーボール.md "wikilink")「日本×韓国」〜札幌・中島体育センター（19:00-20:54）
 
 </div>
 
@@ -3464,7 +3464,7 @@
 <td><p>金曜18時30分 - 21時48分枠[49]</p></td>
 <td><p>アラレちゃん誕生〈再放送〉</p></td>
 <td><p><a href="../Page/辻真先.md" title="wikilink">辻真先</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡崎稔" title="wikilink">岡崎稔</a></p></td>
+<td><p><a href="../Page/岡崎稔.md" title="wikilink">岡崎稔</a></p></td>
 <td><p>西山里枝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浦田又治" title="wikilink">浦田又治</a></p></td>
 <td><p>1巻1話</p></td>
@@ -3484,9 +3484,9 @@
 </tr>
 <tr class="odd">
 <td><p>タイムスリッパーで大冒険〈再放送〉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/雪室俊一" title="wikilink">雪室俊一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永丘昭典" title="wikilink">永丘昭典</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平野俊貴" title="wikilink">平野俊弘</a></p></td>
+<td><p><a href="../Page/雪室俊一.md" title="wikilink">雪室俊一</a></p></td>
+<td><p><a href="../Page/永丘昭典.md" title="wikilink">永丘昭典</a></p></td>
+<td><p><a href="../Page/平野俊貴.md" title="wikilink">平野俊弘</a></p></td>
 <td><p>明石貞一</p></td>
 <td><p>1巻10話</p></td>
 <td></td>
@@ -3669,18 +3669,18 @@
 
 <div class="NavHead" style="text-align:left;">
 
-[安全教育アニメ](https://ja.wikipedia.org/wiki/安全教育アニメ "wikilink")ビデオ
+[安全教育アニメ](../Page/安全教育アニメ.md "wikilink")ビデオ
 
 </div>
 
 <div class="NavContent" style="text-align:left;">
 
-| 発表    | サブタイトル      | 脚本                                                  | 演出   | 作画監督 | 美術       | 原作 |
-| ----- | ----------- | --------------------------------------------------- | ---- | ---- | -------- | -- |
-| 1982年 | 交通安全        | 井上敏樹                                                | 芦田豊雄 | 明石貞一 | アニメオリジナル |    |
-| 1983年 | 交通ルールをまもろうよ |                                                     | 岡崎稔  | 前田実  | 浦田又治     |    |
-| 1984年 | ペンギン村の消防隊   | [腰繁男](https://ja.wikipedia.org/wiki/腰繁男 "wikilink") | 富永貞義 | 東潤二  |          |    |
-|       |             |                                                     |      |      |          |    |
+| 発表    | サブタイトル      | 脚本                               | 演出   | 作画監督 | 美術       | 原作 |
+| ----- | ----------- | -------------------------------- | ---- | ---- | -------- | -- |
+| 1982年 | 交通安全        | 井上敏樹                             | 芦田豊雄 | 明石貞一 | アニメオリジナル |    |
+| 1983年 | 交通ルールをまもろうよ |                                  | 岡崎稔  | 前田実  | 浦田又治     |    |
+| 1984年 | ペンギン村の消防隊   | [腰繁男](../Page/腰繁男.md "wikilink") | 富永貞義 | 東潤二  |          |    |
+|       |             |                                  |      |      |          |    |
 
 </div>
 
@@ -3708,13 +3708,13 @@
 
 ### DVD発売特別番組
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")深夜2:50 - 3:50に初DVD化を記念して『Dr.スランプアラレちゃんSP 〜うほほ〜い\!帰ってきちったの巻〜』というタイトルで放送された特番。[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")と[フットボールアワー](../Page/フットボールアワー.md "wikilink")が登場人物のキャラクター紹介やベストエピソードなどを紹介する。ナレーションは則巻アラレ役の小山茉美とフジテレビアナウンサーの、[牧原俊幸](../Page/牧原俊幸.md "wikilink")である。キーワードプレゼントも行われた。
+[2007年](../Page/2007年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")深夜2:50 - 3:50に初DVD化を記念して『Dr.スランプアラレちゃんSP 〜うほほ〜い\!帰ってきちったの巻〜』というタイトルで放送された特番。[中川翔子](../Page/中川翔子.md "wikilink")と[フットボールアワー](../Page/フットボールアワー.md "wikilink")が登場人物のキャラクター紹介やベストエピソードなどを紹介する。ナレーションは則巻アラレ役の小山茉美とフジテレビアナウンサーの、[牧原俊幸](../Page/牧原俊幸.md "wikilink")である。キーワードプレゼントも行われた。
 
   - 出演者
 
 <!-- end list -->
 
-  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")
+  - [中川翔子](../Page/中川翔子.md "wikilink")
   - [フットボールアワー](../Page/フットボールアワー.md "wikilink")
   - ナレーション ‐ [小山茉美](../Page/小山茉美.md "wikilink")（アラレちゃん）、[牧原俊幸](../Page/牧原俊幸.md "wikilink")（フジテレビアナウンサー）
 
@@ -3729,13 +3729,13 @@
   - MA ‐ 天谷馬直男
   - 音効 ‐田村智之（クジラノイズ）
   - 協力 ‐[キャラメル・ママ](https://ja.wikipedia.org/wiki/キャラメル・ママ "wikilink")
-  - 技術協力 ‐[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[アンサーズ](https://ja.wikipedia.org/wiki/アンサーズ "wikilink")
+  - 技術協力 ‐[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[アンサーズ](../Page/アンサーズ.md "wikilink")
   - 編成 ‐[浜野貴敏](https://ja.wikipedia.org/wiki/浜野貴敏 "wikilink")
   - AP ‐ 和田敬子
   - ディレクター ‐ 谷中憲、高田直、伊達和輝
   - 演出 ‐ 掛水伸一
   - プロデューサー ‐ 佐佐敏行(フジテレビ)、山地考英
-  - 制作協力 ‐ [ジーヤマ](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink")
+  - 制作協力 ‐ [ジーヤマ](../Page/ジーヤマ.md "wikilink")
   - 制作・著作 ‐ [集英社](../Page/集英社.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
 
 ## 放送局
@@ -3788,7 +3788,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td><p>[55]</p></td>
@@ -3860,7 +3860,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a></p></td>
 <td></td>
 <td></td>
@@ -3884,7 +3884,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td></td>
 <td></td>
@@ -4011,7 +4011,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
 <td></td>
 <td><p>火曜 17:30 - 18:00</p></td>
 <td><p>日本テレビ系列<br />
@@ -4020,7 +4020,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a></p></td>
 <td><p>1981年4月 - 1985年3月</p></td>
 <td><p>土曜 17:00 - 17:30</p></td>
@@ -4041,12 +4041,12 @@
 
 1980年代から2000年にテレビ静岡の [夏休みアニメスペシャルで毎年夏休みに放送されていた](https://ja.wikipedia.org/wiki/テレビ静岡アニメ番組一覧#夏休みアニメスペシャル "wikilink")。
 
-[東日本放送](../Page/東日本放送.md "wikilink")\[62\]、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")\[63\]、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")\[64\]（以上、テレビ朝日系列）や、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")\[65\]、[テレビユー山形](../Page/テレビユー山形.md "wikilink")\[66\]（以上、TBS系列）、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（日本テレビ系列）\[67\]、[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")（[全国独立放送協議会](../Page/全国独立放送協議会.md "wikilink")）、[BSフジ](../Page/BSフジ.md "wikilink")（BS放送）、[アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")（CS・BS放送）などで再放送が行われていた事がある。
+[東日本放送](../Page/東日本放送.md "wikilink")\[62\]、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")\[63\]、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")\[64\]（以上、テレビ朝日系列）や、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")\[65\]、[テレビユー山形](../Page/テレビユー山形.md "wikilink")\[66\]（以上、TBS系列）、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（日本テレビ系列）\[67\]、[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")（[全国独立放送協議会](../Page/全国独立放送協議会.md "wikilink")）、[BSフジ](../Page/BSフジ.md "wikilink")（BS放送）、[アニマックス](../Page/アニマックス.md "wikilink")（CS・BS放送）などで再放送が行われていた事がある。
 
 ## ゲーム
 
   - ポピー Dr.スランプ アラレちゃん
-    [ポピーより](https://ja.wikipedia.org/wiki/ポピー_\(玩具メーカー\) "wikilink")1982年発売された本作の[電子ゲーム](https://ja.wikipedia.org/wiki/電子ゲーム "wikilink")
+    [ポピーより](../Page/ポピー_\(玩具メーカー\).md "wikilink")1982年発売された本作の[電子ゲーム](../Page/電子ゲーム.md "wikilink")
       - 第1巻 ホヨヨボンバー
       - 第2巻 ガッちゃん\! ガジガジ
       - 第3巻 んちゃ\! バイちゃ
@@ -4064,7 +4064,7 @@
 
 ### 映像ソフト
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月に前半を収録したDVD-BOX、9月にはTVシリーズ後半を収録したDVD-BOX『ほよよ編』を完全予約限定生産で発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月から[2009年](../Page/2009年.md "wikilink")1月まで、全20巻の単巻DVDを発売した。現在は、生産終了。同年には劇場作品全10作が収録されているDVDが発売された。DVDBOXのPRに[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")、[アンガールズ](https://ja.wikipedia.org/wiki/アンガールズ "wikilink")を起用した\[68\]。2006年10月20日から2007年3月30日まで毎週金曜15:28〜15:58に再放送した。本DVDの発売を記念する形で2007年6月29日に後述の特番が放送された。
+[2007年](../Page/2007年.md "wikilink")3月に前半を収録したDVD-BOX、9月にはTVシリーズ後半を収録したDVD-BOX『ほよよ編』を完全予約限定生産で発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月から[2009年](../Page/2009年.md "wikilink")1月まで、全20巻の単巻DVDを発売した。現在は、生産終了。同年には劇場作品全10作が収録されているDVDが発売された。DVDBOXのPRに[中川翔子](../Page/中川翔子.md "wikilink")、[アンガールズ](../Page/アンガールズ.md "wikilink")を起用した\[68\]。2006年10月20日から2007年3月30日まで毎週金曜15:28〜15:58に再放送した。本DVDの発売を記念する形で2007年6月29日に後述の特番が放送された。
 
 <div class="NavFrame" style="clear:both; border:0;">
 
@@ -4234,7 +4234,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 <!-- end list -->
 
   -
-    本作の[テレビ絵本](https://ja.wikipedia.org/wiki/テレビ絵本 "wikilink")版
+    本作の[テレビ絵本](../Page/テレビ絵本.md "wikilink")版
 
 <!-- end list -->
 
@@ -4260,7 +4260,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 <!-- end list -->
 
-  - [アーモンドグリコ](https://ja.wikipedia.org/wiki/アーモンドグリコ "wikilink")
+  - [アーモンドグリコ](../Page/アーモンドグリコ.md "wikilink")
 
 <!-- end list -->
 
@@ -4272,7 +4272,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 <!-- end list -->
 
-  - [丸美屋食品工業](https://ja.wikipedia.org/wiki/丸美屋食品工業 "wikilink")・Dr.スランプアラレちゃん ふりかけ（1982）
+  - [丸美屋食品工業](../Page/丸美屋食品工業.md "wikilink")・Dr.スランプアラレちゃん ふりかけ（1982）
 
 <!-- end list -->
 
@@ -4284,7 +4284,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 <!-- end list -->
 
-  - [ポピー](https://ja.wikipedia.org/wiki/ポピー_\(玩具メーカー\) "wikilink")・Dr.スランプアラレちゃん めちゃんこ すりんちょ！
+  - [ポピー](../Page/ポピー_\(玩具メーカー\).md "wikilink")・Dr.スランプアラレちゃん めちゃんこ すりんちょ！
 
 <!-- end list -->
 
@@ -4304,7 +4304,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
       -
         声：則巻アラレ - 小山茉美
-        商品のぬいぐるみによる[ストップモーション・アニメーション](https://ja.wikipedia.org/wiki/ストップモーション・アニメーション "wikilink")とアラレ役の実写の子役による、商品紹介や則巻家の姿で子供が中に入れる大きさの「でっかいおうち」プレゼントの応募方法を紹介するバージョンと、ゴリラの着ぐるみと商品のぬいぐるみによるストップモーション・アニメーションを組み合わせたバージョンがある。
+        商品のぬいぐるみによる[ストップモーション・アニメーション](../Page/ストップモーション・アニメーション.md "wikilink")とアラレ役の実写の子役による、商品紹介や則巻家の姿で子供が中に入れる大きさの「でっかいおうち」プレゼントの応募方法を紹介するバージョンと、ゴリラの着ぐるみと商品のぬいぐるみによるストップモーション・アニメーションを組み合わせたバージョンがある。
 
 <!-- end list -->
 
@@ -4340,7 +4340,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
       -
         声：則巻アラレ - 小山茉美、暗悪 健太（スッパマン） - 玄田哲章
-        アニメの暗悪健太とアラレが商品を紹介して村人たちが驚くアニメに、ANIMEST（[電子ゲーム](https://ja.wikipedia.org/wiki/電子ゲーム "wikilink")）の「ホヨヨボンバー」と「ガッちゃん！カジカジ」の映像を組み合わせたバージョンと、ポピーのアラレちゃんガッちゃんぬいぐるみの応募シールでホヨヨボンバーをプレゼントする内容の、アラレと千兵衛のアニメや商品の映像で構成されたバージョンがある。
+        アニメの暗悪健太とアラレが商品を紹介して村人たちが驚くアニメに、ANIMEST（[電子ゲーム](../Page/電子ゲーム.md "wikilink")）の「ホヨヨボンバー」と「ガッちゃん！カジカジ」の映像を組み合わせたバージョンと、ポピーのアラレちゃんガッちゃんぬいぐるみの応募シールでホヨヨボンバーをプレゼントする内容の、アラレと千兵衛のアニメや商品の映像で構成されたバージョンがある。
 
 <!-- end list -->
 
@@ -4404,7 +4404,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 <!-- end list -->
 
-  - ペン型瞬間[アロンアルフア](https://ja.wikipedia.org/wiki/アロンアルフア "wikilink")
+  - ペン型瞬間[アロンアルフア](../Page/アロンアルフア.md "wikilink")
 
 <!-- end list -->
 
@@ -4424,7 +4424,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
       -
         声：則巻アラレ - 小山茉美、ニコチャン大王 - 大竹宏、ブータレブー - 佐藤正治
-        アニメの[アンガールズ](https://ja.wikipedia.org/wiki/アンガールズ "wikilink")がペンギン村で村人たちと絡むバージョン、アニメの[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")がペンギン村で村人たちと絡むバージョン、アニメのダイジェスト映像と共に商品内容を紹介する30秒CMバージョンがある。
+        アニメの[アンガールズ](../Page/アンガールズ.md "wikilink")がペンギン村で村人たちと絡むバージョン、アニメの[中川翔子](../Page/中川翔子.md "wikilink")がペンギン村で村人たちと絡むバージョン、アニメのダイジェスト映像と共に商品内容を紹介する30秒CMバージョンがある。
 
 <!-- end list -->
 
@@ -4473,8 +4473,8 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
         声：則巻アラレ - 小山茉美、ガッちゃん - 西原久美子（『Dr.スランプ アラレちゃん』篇 、『クリスマス アラレちゃん』篇のみ）
         出演:[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")（『コラージュ』篇 以降）
         2014年9月11日からは[スズキ](../Page/スズキ_\(企業\).md "wikilink")・[ハスラーとのコラボ企画が行われ](https://ja.wikipedia.org/wiki/スズキ・ハスラー "wikilink")、ハスラーのコマーシャルや広告に登場した。完全オリジナルで制作\[71\]されたアニメーションの制作は、東映アニメーション。ハスラーのCMでアニメを起用したのはこのバージョンが初めてである。CM動画は、テレビや公式サイト以外に、YouTubeやニコニコ動画の公式アカウントでも公開されていた。
-        2014年9月11日には公式サイトで『Dr.スランプ アラレちゃん』篇が公開され、テレビCMも9月11日から11月12日まで放送された。CMにはアラレ、センベエ、みどり、ガッちゃんが登場。声はCMのため新たに収録され、アラレ役はテレビアニメおよび劇場版と同じだが、ガッちゃん役を務めていた中野聖子は1990年代前半に声優を引退したため、[西原久美子](https://ja.wikipedia.org/wiki/西原久美子 "wikilink")が担当\[72\]。「ワクワク感」を最大限に伝えるために、「Dr.スランプ アラレちゃん篇」のコマーシャルを制作したとスズキは述べている\[73\]。11月13日には、公式サイトで『クリスマス アラレちゃん』篇が公開され、テレビCMも11月12日から11月25日まで放送された。アラレ、センベエ、みどりに加え、ターボ、オボッチャマンも登場した。Dr.スランプアラレちゃんのクリアファイルをプレゼントする企画なども9月から行われており\[74\]\[75\]、好評だったため11月20日からはアラレちゃんのトイレットペーパーをプレゼントする企画も行われた\[76\]。
-        2015年[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")に[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")を加えたハスラーの新ポスターが発表され、ももいろクローバーZとは[5月13日](../Page/5月13日.md "wikilink")からコマーシャルでもコラボレートし\[77\]どのコマーシャルも前半に本作のキャラクターが登場し、後半にももいろクローバーZが登場。5月13日には、本作のキャラクターが原作に登場する発明品や持ち物でハスラーのコラージュを作り、ももいろクローバーZがアラレのコスプレ姿で登場する内容の『コラージュ』篇が公式サイトで公開され、テレビでも5月14日から12月上旬にオンエア。12月7日からは、公式サイトで『ワクワク広がれ』篇が公開され、テレビCMも2016年8月下旬まで放送。2016年8月26日には、公式サイトで『ワクワクがズラリ』篇が公開され、テレビCMも2017年10月まで放送され最長期間となる約1年1カ月使われた。2017年10月12日には『ぴたっ！と 安全』篇が公式サイトで公開され、テレビCMも2018年7月まで放送。さらに、ももいろクローバーZによる各会場1日限りのスペシャルライブ、園内スタンプラリー、ペンギン村オリジナル「100肉カレー」などが行われた、フジテレビ・[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")主催による、ももいろクローバーZと本作のコラボイベント「西へ、東へ、ペンギン村キャラバン！」が、2015年6月8日から6月14日まで[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の[スペースワールド](../Page/スペースワールド.md "wikilink")で、2015年6月15日から6月21日まで[兵庫県](../Page/兵庫県.md "wikilink")の[姫路セントラルパーク](https://ja.wikipedia.org/wiki/姫路セントラルパーク "wikilink")で、2015年6月29日から7月5日まで[山梨県](../Page/山梨県.md "wikilink")の[富士急ハイランド・コニファーフォレストで](https://ja.wikipedia.org/wiki/コニファーフォレスト "wikilink")、それぞれ開催\[78\]。また、スズキの各店舗のドアやポップにも本作のキャラクター（則巻アラレ・則巻千兵衛・則巻みどり・ガジラ・オボッチャマン）を用いている\[79\]。2018年7月18日から11月8日までは、ハスラーが停まる工場の床に、ハスラーにペンキを塗るアラレと2人のガッちゃんが描かれ、ももいろクローバーZは出演しないCM『タフワイルド』篇が放送された。2019年6月20日からは、楽しく賑わうペンギン村全体の様子から視野が宇宙にまで広がり、後半には以前同様ももいろクローバーZが出演する『日本中が、遊べる軽！』篇が放送された。
+        2014年9月11日には公式サイトで『Dr.スランプ アラレちゃん』篇が公開され、テレビCMも9月11日から11月12日まで放送された。CMにはアラレ、センベエ、みどり、ガッちゃんが登場。声はCMのため新たに収録され、アラレ役はテレビアニメおよび劇場版と同じだが、ガッちゃん役を務めていた中野聖子は1990年代前半に声優を引退したため、[西原久美子](../Page/西原久美子.md "wikilink")が担当\[72\]。「ワクワク感」を最大限に伝えるために、「Dr.スランプ アラレちゃん篇」のコマーシャルを制作したとスズキは述べている\[73\]。11月13日には、公式サイトで『クリスマス アラレちゃん』篇が公開され、テレビCMも11月12日から11月25日まで放送された。アラレ、センベエ、みどりに加え、ターボ、オボッチャマンも登場した。Dr.スランプアラレちゃんのクリアファイルをプレゼントする企画なども9月から行われており\[74\]\[75\]、好評だったため11月20日からはアラレちゃんのトイレットペーパーをプレゼントする企画も行われた\[76\]。
+        2015年[5月9日](../Page/5月9日.md "wikilink")に[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")を加えたハスラーの新ポスターが発表され、ももいろクローバーZとは[5月13日](../Page/5月13日.md "wikilink")からコマーシャルでもコラボレートし\[77\]どのコマーシャルも前半に本作のキャラクターが登場し、後半にももいろクローバーZが登場。5月13日には、本作のキャラクターが原作に登場する発明品や持ち物でハスラーのコラージュを作り、ももいろクローバーZがアラレのコスプレ姿で登場する内容の『コラージュ』篇が公式サイトで公開され、テレビでも5月14日から12月上旬にオンエア。12月7日からは、公式サイトで『ワクワク広がれ』篇が公開され、テレビCMも2016年8月下旬まで放送。2016年8月26日には、公式サイトで『ワクワクがズラリ』篇が公開され、テレビCMも2017年10月まで放送され最長期間となる約1年1カ月使われた。2017年10月12日には『ぴたっ！と 安全』篇が公式サイトで公開され、テレビCMも2018年7月まで放送。さらに、ももいろクローバーZによる各会場1日限りのスペシャルライブ、園内スタンプラリー、ペンギン村オリジナル「100肉カレー」などが行われた、フジテレビ・[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")主催による、ももいろクローバーZと本作のコラボイベント「西へ、東へ、ペンギン村キャラバン！」が、2015年6月8日から6月14日まで[福岡県](../Page/福岡県.md "wikilink")の[スペースワールド](../Page/スペースワールド.md "wikilink")で、2015年6月15日から6月21日まで[兵庫県](../Page/兵庫県.md "wikilink")の[姫路セントラルパーク](../Page/姫路セントラルパーク.md "wikilink")で、2015年6月29日から7月5日まで[山梨県](../Page/山梨県.md "wikilink")の[富士急ハイランド・コニファーフォレストで](https://ja.wikipedia.org/wiki/コニファーフォレスト "wikilink")、それぞれ開催\[78\]。また、スズキの各店舗のドアやポップにも本作のキャラクター（則巻アラレ・則巻千兵衛・則巻みどり・ガジラ・オボッチャマン）を用いている\[79\]。2018年7月18日から11月8日までは、ハスラーが停まる工場の床に、ハスラーにペンキを塗るアラレと2人のガッちゃんが描かれ、ももいろクローバーZは出演しないCM『タフワイルド』篇が放送された。2019年6月20日からは、楽しく賑わうペンギン村全体の様子から視野が宇宙にまで広がり、後半には以前同様ももいろクローバーZが出演する『日本中が、遊べる軽！』篇が放送された。
 
 <!-- end list -->
 
@@ -4485,11 +4485,11 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
   -
 
       -
-        2016年9月に、[GUのコマーシャルで実写での起用となった](https://ja.wikipedia.org/wiki/ジーユー "wikilink")。『Dr.スランプ アラレちゃん』の初めての実写化で、則巻アラレは[中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")、木緑あかねは[内田有紀](../Page/内田有紀.md "wikilink")、空豆ピースケは[高良健吾](https://ja.wikipedia.org/wiki/高良健吾 "wikilink")が演じた\[80\]。他に空豆タロウや則巻ガジラ、皿田きのこが出ているが、役者は非公開。シリーズとして作られ、『アラレがスカート\!?』篇、『カーじゃなくてコー！』篇、『小さくまとまるな』篇の3編が制作され、9月から11月にかけて放送された。
+        2016年9月に、[GUのコマーシャルで実写での起用となった](https://ja.wikipedia.org/wiki/ジーユー "wikilink")。『Dr.スランプ アラレちゃん』の初めての実写化で、則巻アラレは[中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")、木緑あかねは[内田有紀](../Page/内田有紀.md "wikilink")、空豆ピースケは[高良健吾](../Page/高良健吾.md "wikilink")が演じた\[80\]。他に空豆タロウや則巻ガジラ、皿田きのこが出ているが、役者は非公開。シリーズとして作られ、『アラレがスカート\!?』篇、『カーじゃなくてコー！』篇、『小さくまとまるな』篇の3編が制作され、9月から11月にかけて放送された。
 
 <!-- end list -->
 
-  - [クイックル](https://ja.wikipedia.org/wiki/クイックル "wikilink")ワイパー（2016年11月）/バス[マジックリン](https://ja.wikipedia.org/wiki/マジックリン "wikilink")除菌消臭プラス（2016年12月 - 2017年1月）
+  - [クイックル](../Page/クイックル.md "wikilink")ワイパー（2016年11月）/バス[マジックリン](../Page/マジックリン.md "wikilink")除菌消臭プラス（2016年12月 - 2017年1月）
 
 <!-- end list -->
 
@@ -4498,7 +4498,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
       -
         声：則巻アラレ - 小山茉美
         [阿部サダヲ](../Page/阿部サダヲ.md "wikilink")が出演する、クイックルワイパーハンディとクイックルワイパー立体吸着ウエットシートのCM。最後に則巻一家やオボッチャマンが一緒にクリスマスクリーニングをPR。[花王](../Page/花王.md "wikilink")公式サイトでもクリスマスクリーニングのページで2016年11月からクリスマスにかけて、アラレたち則巻一家やオボッチャマンが登場。
-        [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")が出演するバス[マジックリン](https://ja.wikipedia.org/wiki/マジックリン "wikilink")除菌消臭プラスのCMにも、最後に則巻一家と一緒にアラレが新年の除菌掃除をPR。花王公式サイトでも「クリスマスクリーニング」や「新年は除菌掃除」のページで2016年12月下旬から、アラレたち則巻一家やオボッチャマンが登場。
+        [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")が出演するバス[マジックリン](../Page/マジックリン.md "wikilink")除菌消臭プラスのCMにも、最後に則巻一家と一緒にアラレが新年の除菌掃除をPR。花王公式サイトでも「クリスマスクリーニング」や「新年は除菌掃除」のページで2016年12月下旬から、アラレたち則巻一家やオボッチャマンが登場。
 
 <!-- end list -->
 
@@ -4525,7 +4525,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 <!-- end list -->
 
-  - [ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")（2018年7月）
+  - [ビューカード](../Page/ビューカード.md "wikilink")（2018年7月）
 
 <!-- end list -->
 
@@ -4535,13 +4535,13 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
         声：則巻アラレ - 小山茉美
         [Suica](../Page/Suica.md "wikilink")一体型クレジットカードのCM。アニメはモノトーン調。喋るのはアラレだけだが、千兵衛、ガッちゃん、あかね、タロウ、ピースケを始めとした多数のキャラクターが登場する。2018年7月から放送され、2019年3月からは同じ内容でカードの種類だけが増えた『最強ラインナップ』篇を放送\[81\]。
 
-放送以前にはアラレの喋りで紹介する新番組予告CM、放送期間中はアラレが喋るバージョンとみどりが喋るバージョンの番組宣伝スポットCMや、アラレの喋りで紹介する「東映まんがまつり」のCMなども放送された。ちなみに、2009年には、[トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ポルテの](https://ja.wikipedia.org/wiki/トヨタ・ポルテ "wikilink")[CMにおいてアニメ版のオープニングテーマ曲](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")『[ワイワイワールド](https://ja.wikipedia.org/wiki/ワイワイワールド "wikilink")』（替え歌およびアレンジ）が使用され、[2011年](../Page/2011年.md "wikilink")春から[サントリー](../Page/サントリー.md "wikilink")[ウーロン茶](https://ja.wikipedia.org/wiki/ウーロン茶 "wikilink")のCMでも[広東語](../Page/広東語.md "wikilink")版『ワイワイワールド』が使われた。
+放送以前にはアラレの喋りで紹介する新番組予告CM、放送期間中はアラレが喋るバージョンとみどりが喋るバージョンの番組宣伝スポットCMや、アラレの喋りで紹介する「東映まんがまつり」のCMなども放送された。ちなみに、2009年には、[トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ポルテの](../Page/トヨタ・ポルテ.md "wikilink")[CMにおいてアニメ版のオープニングテーマ曲](../Page/コマーシャルメッセージ.md "wikilink")『[ワイワイワールド](../Page/ワイワイワールド.md "wikilink")』（替え歌およびアレンジ）が使用され、[2011年](../Page/2011年.md "wikilink")春から[サントリー](../Page/サントリー.md "wikilink")[ウーロン茶](https://ja.wikipedia.org/wiki/ウーロン茶 "wikilink")のCMでも[広東語](../Page/広東語.md "wikilink")版『ワイワイワールド』が使われた。
 
 ## イベント
 
 ### ゲンゴロウ島 めちゃんこ大冒険
 
-1982年7月12日から同年8月22日の間、[中国新聞社](https://ja.wikipedia.org/wiki/中国新聞社 "wikilink")の主催で瀬戸内海の無人島「[絵の島](https://ja.wikipedia.org/wiki/絵の島 "wikilink")」（[瀬戸内海汽船](https://ja.wikipedia.org/wiki/瀬戸内海汽船 "wikilink")所有）に「ゲンゴロウ島」を再現して、『ゲンゴロウ島 めちゃんこ大冒険』が開催された。当時、海水浴のメッカだった絵の島で、約4万平方メートルの土地にペンギン村の施設を再現して、船の乗船券と一緒になったパスポート（入場券）を販売。地理の関係上、1日最大約4000人しか入島出来なかったが、16万人の入場者を見込んだ\[82\]。
+1982年7月12日から同年8月22日の間、[中国新聞社](../Page/中国新聞社.md "wikilink")の主催で瀬戸内海の無人島「[絵の島](https://ja.wikipedia.org/wiki/絵の島 "wikilink")」（[瀬戸内海汽船](../Page/瀬戸内海汽船.md "wikilink")所有）に「ゲンゴロウ島」を再現して、『ゲンゴロウ島 めちゃんこ大冒険』が開催された。当時、海水浴のメッカだった絵の島で、約4万平方メートルの土地にペンギン村の施設を再現して、船の乗船券と一緒になったパスポート（入場券）を販売。地理の関係上、1日最大約4000人しか入島出来なかったが、16万人の入場者を見込んだ\[82\]。
 
 期間内は、8時20分から20分おきに船が出航して、旅客船で40分、高速船で16分で島に到着\[83\]。島内には「アラレちゃん神社」、「ウェスタンペンギン村牧場」、「アラレちゃんビックリランド」、「ゲンゴロウ村税関」、「ペンギン村病院」、「ペンギン村郵便局」、「ペンギン村交番」、「ペンギン村放送局」、「メインステージ」、「コーヒーポット売店」、「プール」が整備された\[84\]。開催前日に行われた開村式には、作者自ら1日村長を務めた\[85\]。広島市近郊だけではなく、旅客船などで全国から集客。最終的には約10万人が訪れた\[86\]。
 
@@ -4556,7 +4556,7 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 ### 他のイベント
 
-[2016年](../Page/2016年.md "wikilink")4月8日に放映35年を迎え、それに伴い[ららぽーとTOKYO-BAY](https://ja.wikipedia.org/wiki/ららぽーとTOKYO-BAY "wikilink")（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")）でイベントが行われた\[88\]\[89\]。第1弾として、4月8日から6月30日までららぽーとTOKYO-BAY館内に本作の装飾をしており、4月9日には、オープニングイベントとして、『アラレちゃんスペシャルステージ&大抽選会』、4月30日には、ぬりえ&グリーンティングを開催、5月20日から6月30日には、アラレちゃんフォトスポットを行った\[90\]。[タワーレコード](../Page/タワーレコード.md "wikilink")でも、35周年を記念してタワーレコードが運営するカフェ「TOWER RECORDS CAFE」で、5月31日から6月22日まで、「Dr.スランプ アラレちゃん × TOWER RECORDS CAFE」というコラボ企画を行った\[91\]。2017年2月21日から3月3日まで、新宿アルタ1Fの入り口で期間限定のアラレちゃんSHOPがオープンした。2018年には、群馬県の伝統工芸「卯三郎（うさぶろう）こけし」とコラボし、アラレちゃんこけしを発売\[92\]。
+[2016年](../Page/2016年.md "wikilink")4月8日に放映35年を迎え、それに伴い[ららぽーとTOKYO-BAY](../Page/ららぽーとTOKYO-BAY.md "wikilink")（[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")）でイベントが行われた\[88\]\[89\]。第1弾として、4月8日から6月30日までららぽーとTOKYO-BAY館内に本作の装飾をしており、4月9日には、オープニングイベントとして、『アラレちゃんスペシャルステージ&大抽選会』、4月30日には、ぬりえ&グリーンティングを開催、5月20日から6月30日には、アラレちゃんフォトスポットを行った\[90\]。[タワーレコード](../Page/タワーレコード.md "wikilink")でも、35周年を記念してタワーレコードが運営するカフェ「TOWER RECORDS CAFE」で、5月31日から6月22日まで、「Dr.スランプ アラレちゃん × TOWER RECORDS CAFE」というコラボ企画を行った\[91\]。2017年2月21日から3月3日まで、新宿アルタ1Fの入り口で期間限定のアラレちゃんSHOPがオープンした。2018年には、群馬県の伝統工芸「卯三郎（うさぶろう）こけし」とコラボし、アラレちゃんこけしを発売\[92\]。
 
 ## 脚注
 
@@ -4566,8 +4566,8 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 ## 関連項目
 
-  - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビ系アニメ "wikilink")
-  - [子供アニメ大会](https://ja.wikipedia.org/wiki/子供アニメ大会 "wikilink")
+  - [フジテレビ系アニメ](../Page/フジテレビ系アニメ.md "wikilink")
+  - [子供アニメ大会](../Page/子供アニメ大会.md "wikilink")
 
 ## 外部リンク
 
@@ -4614,15 +4614,15 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 1.  「[なつかしアニメch｜4月ラインナップ＆放送情報](https://guide.abema.tv/posts/2184802?categoryIds=97042)」　abema.tv。
 2.
-3.  [大下英治](https://ja.wikipedia.org/wiki/大下英治 "wikilink")「第八章 アニメファンの拡大 フジテレビと東映、少年ジャンプを口説き落とす」『<ruby>日本<rp>（</rp><rt>ジャパニーズ</rt><rp>）</rp></ruby>ヒーローは世界を制す』[角川書店](../Page/角川書店.md "wikilink")、1995年11月24日、238頁。ISBN 4-04-883416-9。
-4.  一般的な企業で例えれば、部長と取締役の間くらいの位置付けとなる上級[管理職](https://ja.wikipedia.org/wiki/管理職 "wikilink")にあたる。
-5.  このエピソードについては、後にフジテレビの番組『[週刊フジテレビ批評](https://ja.wikipedia.org/wiki/週刊フジテレビ批評 "wikilink")』の番組中で日枝が語っている。
+3.  [大下英治](../Page/大下英治.md "wikilink")「第八章 アニメファンの拡大 フジテレビと東映、少年ジャンプを口説き落とす」『<ruby>日本<rp>（</rp><rt>ジャパニーズ</rt><rp>）</rp></ruby>ヒーローは世界を制す』[角川書店](../Page/角川書店.md "wikilink")、1995年11月24日、238頁。ISBN 4-04-883416-9。
+4.  一般的な企業で例えれば、部長と取締役の間くらいの位置付けとなる上級[管理職](../Page/管理職.md "wikilink")にあたる。
+5.  このエピソードについては、後にフジテレビの番組『[週刊フジテレビ批評](../Page/週刊フジテレビ批評.md "wikilink")』の番組中で日枝が語っている。
 6.  「[アニメ様365日［小黒祐一郎］ 第69回　『Ｄｒ．スランプ　アラレちゃん』（ＴＶ版）](http://www.style.fm/as/05_column/365/365_069.shtml)」WEBアニメスタイル、2009年2月19日。
 7.
 8.  1985年　ビデオリサーチ調べ
 9.  「[アニメ高世帯視聴率番組 - 1977年9月26日以降に放送された番組【関東地区】](https://www.videor.co.jp/tvrating/past_tvrating/anime/01/index.html)」　ビデオリサーチ。
-10. それ以前では1963年の『[鉄腕アトム](https://ja.wikipedia.org/wiki/鉄腕アトム_\(アニメ第1作\) "wikilink")』が40%超えを達成している。
-11. [ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")関西地区調べ。
+10. それ以前では1963年の『[鉄腕アトム](../Page/鉄腕アトム_\(アニメ第1作\).md "wikilink")』が40%超えを達成している。
+11. [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")関西地区調べ。
 12. 「ずっこけアラレちゃん まじめアトムKO TVアニメホヨヨー人気の秘密」『中日新聞』1981年12月4日付夕刊。
 13.
 14. 「[2014年12月19日（金）放送 爆笑ネタ三連発！ - 探偵\!ナイトスクープ 過去の放送内容](https://www.asahi.co.jp/knight-scoop/archive.html?datetime=20141200)」朝日放送。
@@ -4658,14 +4658,14 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 44.
 45. 土曜日放送。
 46. 原作の「ぼくのといれっとぺいぱー」が元になったストーリー。
-47. 関西テレビはこの日、[阪神が勝てば](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")21年ぶりのリーグ優勝が決定するヤクルトVS阪神戦（神宮球場）を放送したため、この話のみ後日放送。
+47. 関西テレビはこの日、[阪神が勝てば](../Page/阪神タイガース.md "wikilink")21年ぶりのリーグ優勝が決定するヤクルトVS阪神戦（神宮球場）を放送したため、この話のみ後日放送。
 48. ペンギン村の七ふしぎ全公開\!スペシャル。
 49. 毎日新聞・縮刷版。
 50. 帰って来たDr.スランプ アラレちゃんスペシャル。
 51. 92お正月スペシャル。
 52.
 53.
-54. 「全国放映リスト」『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")』1985年3月号、[徳間書店](../Page/徳間書店.md "wikilink")、1985年、126 - 127頁。
+54. 「全国放映リスト」『[アニメージュ](../Page/アニメージュ.md "wikilink")』1985年3月号、[徳間書店](../Page/徳間書店.md "wikilink")、1985年、126 - 127頁。
 55. [現在は](https://ja.wikipedia.org/wiki/ネットチェンジ#山形県の事例 "wikilink")、テレビ朝日系列。
 56. 現・テレビ愛媛。
 57. 1982年3月まではフジテレビ系列・日本テレビ系列・テレビ朝日系列のトリプルネット。
@@ -4673,12 +4673,12 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 59. 1983年9月まで[TBS系列とのクロスネット](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。
 60. 現・NST新潟総合テレビ。1983年9月までテレビ朝日系列とのクロスネット。
 61. 1982年9月まではフジテレビ系列・日本テレビ系列・テレビ朝日系列のトリプルネット。
-62. 「全国放送局別放映リスト」『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")』1995年9月号、徳間書店、204頁。
-63. 「全国放送局別放映リスト」『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")』1995年9月号、徳間書店、205頁。
-64. 夏休み・冬休みの放送されていたアニメ番組の再放送枠[子供アニメ大会](https://ja.wikipedia.org/wiki/子供アニメ大会 "wikilink")。
+62. 「全国放送局別放映リスト」『[アニメージュ](../Page/アニメージュ.md "wikilink")』1995年9月号、徳間書店、204頁。
+63. 「全国放送局別放映リスト」『[アニメージュ](../Page/アニメージュ.md "wikilink")』1995年9月号、徳間書店、205頁。
+64. 夏休み・冬休みの放送されていたアニメ番組の再放送枠[子供アニメ大会](../Page/子供アニメ大会.md "wikilink")。
 65.
 66.
-67. [うすいファミリー劇場](https://ja.wikipedia.org/wiki/うすい百貨店 "wikilink")。
+67. [うすいファミリー劇場](../Page/うすい百貨店.md "wikilink")。
 68. 「[しょこたんとアンガールズ、アラレちゃんのCMに登場](http://www.j-cast.com/2006/11/13003800.html)」 J-CAST、2006年11月13日。
 69. 小山高生『Dr.スランプアラレちゃん』集英社〈JUMP j BOOKS〉、1994年。ISBN 4087030210。
 70. みどりは出番なし。

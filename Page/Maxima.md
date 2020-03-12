@@ -1,17 +1,17 @@
 > この記事は[Maxima](https://ja.wikipedia.org/wiki/Maxima)から翻訳されています。
 
 
-**Maxima**（マキシマ）は、[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink") で記述された[数式処理システム](../Page/数式処理システム.md "wikilink")である。[GNU GPL](../Page/GNU_General_Public_License.md "wikilink") に基づく[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、現在も活発に開発が続けられている。[Maple](https://ja.wikipedia.org/wiki/Maple "wikilink") や [Mathematica](https://ja.wikipedia.org/wiki/Mathematica "wikilink") などの商用の数式処理システムと比べても遜色のない機能を持っている。
+**Maxima**（マキシマ）は、[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink") で記述された[数式処理システム](../Page/数式処理システム.md "wikilink")である。[GNU GPL](../Page/GNU_General_Public_License.md "wikilink") に基づく[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、現在も活発に開発が続けられている。[Maple](../Page/Maple.md "wikilink") や [Mathematica](../Page/Mathematica.md "wikilink") などの商用の数式処理システムと比べても遜色のない機能を持っている。
 
 ## 略史
 
-Maxima の起源は、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の [MACプロジェクトによって開発され](https://ja.wikipedia.org/wiki/Project_MAC "wikilink")、[米国エネルギー省](https://ja.wikipedia.org/wiki/アメリカ合衆国エネルギー省 "wikilink")（DOE）によって配布されていたDOE [Macsyma](https://ja.wikipedia.org/wiki/Macsyma "wikilink") の1982年のバージョンを [GNU Common Lisp](https://ja.wikipedia.org/wiki/Common_Lisp#実装のリスト "wikilink") に移植したものである。
+Maxima の起源は、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の [MACプロジェクトによって開発され](https://ja.wikipedia.org/wiki/Project_MAC "wikilink")、[米国エネルギー省](../Page/アメリカ合衆国エネルギー省.md "wikilink")（DOE）によって配布されていたDOE [Macsyma](../Page/Macsyma.md "wikilink") の1982年のバージョンを [GNU Common Lisp](https://ja.wikipedia.org/wiki/Common_Lisp#実装のリスト "wikilink") に移植したものである。
 
 1982年から Macsyma の独自のバージョンを管理・維持していた[ビル・シェルター](https://ja.wikipedia.org/wiki/ビル・シェルター "wikilink") ([en](https://ja.wikipedia.org/wiki/:en:Bill_Schelter "wikilink")) が、1998年にエネルギー省から GPLライセンスを適用することを条件に公開の許可を得た。こうして公開されたプログラムは Maxima と呼ばれることになり、2001年のシェルターの死後も開発者や利用者のグループによって独自に開発が続けられている。
 
 ## 実装
 
-上述のように、Maxima は [GNU Common Lisp](https://ja.wikipedia.org/wiki/Common_Lisp#実装のリスト "wikilink") への移植から開発が始まったが、その後 [CLISP](https://ja.wikipedia.org/wiki/CLISP "wikilink") や[CMU Common Lisp](https://ja.wikipedia.org/wiki/CMU_Common_Lisp "wikilink") (CMUCL) でも動作するように改良されている。V5.9 以降は、CLISP や CMUCL が標準になっている 。
+上述のように、Maxima は [GNU Common Lisp](https://ja.wikipedia.org/wiki/Common_Lisp#実装のリスト "wikilink") への移植から開発が始まったが、その後 [CLISP](../Page/CLISP.md "wikilink") や[CMU Common Lisp](https://ja.wikipedia.org/wiki/CMU_Common_Lisp "wikilink") (CMUCL) でも動作するように改良されている。V5.9 以降は、CLISP や CMUCL が標準になっている 。
 
 Maxima は、文法的には [ALGOL](../Page/ALGOL.md "wikilink") に、意味的には Lisp にそれぞれ類似のプログラム言語を備えており、プログラミングや計算機代数の教育用としても使えるようになっている。
 
@@ -161,4 +161,4 @@ Maxima を[グラフィカルユーザーインターフェース](https://ja.wi
 
 [Category:数式処理システム](https://ja.wikipedia.org/wiki/Category:数式処理システム "wikilink") [Category:Linux向け数式処理システム](https://ja.wikipedia.org/wiki/Category:Linux向け数式処理システム "wikilink") [Category:フリー教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:フリー教育ソフトウェア "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
 
-1.  [竹内薫](https://ja.wikipedia.org/wiki/竹内薫 "wikilink")2007『はじめての数式処理ソフト---Maximaで楽しむ数式計算と物理グラフィック』[講談社](../Page/講談社.md "wikilink"):21-2
+1.  [竹内薫](../Page/竹内薫.md "wikilink")2007『はじめての数式処理ソフト---Maximaで楽しむ数式計算と物理グラフィック』[講談社](../Page/講談社.md "wikilink"):21-2

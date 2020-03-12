@@ -3,7 +3,7 @@
 
 **CP戦士ぶちエージャー**は、[山口ケーブルビジョン](../Page/山口ケーブルビジョン.md "wikilink")が製作・放送していた、ローカル戦士番組である。放送期間は[2007年](../Page/2007年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")\[1\]〜[2009年](../Page/2009年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")\[2\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")で放送された「[CATVネットワーク～すばらしき私の街～](http://www.nhk-jn.co.jp/002bangumi/catv/index.htm)」で当番組が取り上げられた。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")で放送された「[CATVネットワーク～すばらしき私の街～](http://www.nhk-jn.co.jp/002bangumi/catv/index.htm)」で当番組が取り上げられた。
 
 ## あらすじ
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - わやスラー
-    長い歴史を持つ悪の貴族・わやスラー一族の御曹司で、[山口商店街を乗っ取り](https://ja.wikipedia.org/wiki/山口市中心商店街 "wikilink")、自由し放題でにできるわやスラー商店街にしようと企んでいるが、ぶちエージャーにやられっぱなし。夏は下地が軽装で涼しげ。
+    長い歴史を持つ悪の貴族・わやスラー一族の御曹司で、[山口商店街を乗っ取り](../Page/山口市中心商店街.md "wikilink")、自由し放題でにできるわやスラー商店街にしようと企んでいるが、ぶちエージャーにやられっぱなし。夏は下地が軽装で涼しげ。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 ## 主題歌
 
   - 『CP戦士ぶちエージャー』
-    作詞：[和田カマリ](https://ja.wikipedia.org/wiki/和田カマリ "wikilink") 作曲・歌：[前田達也](https://ja.wikipedia.org/wiki/前田達也 "wikilink")
+    作詞：[和田カマリ](https://ja.wikipedia.org/wiki/和田カマリ "wikilink") 作曲・歌：[前田達也](../Page/前田達也.md "wikilink")
     この番組のテーマソングであり、体操も存在している。
     ぶちエージャンヌが登場するときはこの曲のアレンジバージョンが流れている。
 

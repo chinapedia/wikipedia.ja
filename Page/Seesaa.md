@@ -1,13 +1,13 @@
 > この記事は[Seesaa](https://ja.wikipedia.org/wiki/Seesaa)から翻訳されています。
 
 
-**シーサー株式会社**は、東京都渋谷区渋谷に本社を置く、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")[メディア](../Page/メディア.md "wikilink")や[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")に関する事業を行っている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の会社である。
+**シーサー株式会社**は、東京都渋谷区渋谷に本社を置く、[インターネット](../Page/インターネット.md "wikilink")[メディア](../Page/メディア.md "wikilink")や[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")に関する事業を行っている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の会社である。
 
 「Seesaa[ブログ](../Page/ブログ.md "wikilink")」「[Seesaa Wiki](https://ja.wikipedia.org/wiki/Seesaa_Wiki "wikilink")」などの[メディア](../Page/メディア.md "wikilink")事業を主軸に、法人向けブログエンジン提供、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")の開発などを手掛けている。
 
-起業時のメンバーは、元[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")（現・[LINE株式会社](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）の社員である。社名は沖縄の守り神「[シーサー](https://ja.wikipedia.org/wiki/シーサー "wikilink")」を意味しているが、語感から決めたという\[1\]。
+起業時のメンバーは、元[ライブドア](../Page/ライブドア.md "wikilink")（現・[LINE株式会社](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）の社員である。社名は沖縄の守り神「[シーサー](../Page/シーサー.md "wikilink")」を意味しているが、語感から決めたという\[1\]。
 
-2017年7月、[ファンコミュニケーションズ](https://ja.wikipedia.org/wiki/ファンコミュニケーションズ "wikilink")の買収によって子会社化された\[2\]\[3\]。
+2017年7月、[ファンコミュニケーションズ](../Page/ファンコミュニケーションズ.md "wikilink")の買収によって子会社化された\[2\]\[3\]。
 
 ## 主なサービス
 
@@ -15,7 +15,7 @@
     同社運営による無料ブログサービス\[4\]。月間で1100万人が利用する\[5\]。
     アップロードは2GBまで可能（テキストは無制限）。モブログやポッドキャスティングに対応し、アクセス解析やドメイン設定が出来ると言った無料でありながら多機能であることが特徴。
     仕様が[livedoor blogのそれと似ている](https://ja.wikipedia.org/wiki/livedoor_blog "wikilink")。
-    同社では自社のブログエンジンをASPとして販売している。[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")、[オリコン](../Page/オリコン.md "wikilink")、[さくらインターネット](https://ja.wikipedia.org/wiki/さくらインターネット "wikilink")などのブログで導入実績があり、管理画面や一部のシステムでSeesaaのシステムが使われている\[6\]。
+    同社では自社のブログエンジンをASPとして販売している。[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")、[オリコン](../Page/オリコン.md "wikilink")、[さくらインターネット](../Page/さくらインターネット.md "wikilink")などのブログで導入実績があり、管理画面や一部のシステムでSeesaaのシステムが使われている\[6\]。
   - [Seesaa Wiki](https://ja.wikipedia.org/wiki/Seesaa_Wiki "wikilink") (シーサーウィキ)
     無料で利用できるWikiサービス\[7\]。ユーザー数10万人、月間1億6000万PV。2013年5月15日付で、[LINE株式会社より](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")「livedoor ウィキ」を譲受し改称\[8\]。
   - forkN （フォークン）
@@ -29,7 +29,7 @@
 
 ### かつて運営していたサービス
 
-  - [したらば掲示板](https://ja.wikipedia.org/wiki/したらば掲示板 "wikilink")
+  - [したらば掲示板](../Page/したらば掲示板.md "wikilink")
     スレッド形式の無料レンタル掲示板。[ユニークユーザー](https://ja.wikipedia.org/wiki/ユニークユーザー "wikilink")22万人、月間[ページビュー](https://ja.wikipedia.org/wiki/ページビュー "wikilink")(PV)は5億PV。掲示板サービスとしては国内屈指の規模を誇る\[15\]。2013年5月15日付で、LINE株式会社より「livedoor したらば掲示板」を譲受し改称\[16\]。2018年12月3日に運営会社がエーゲート株式会社に変更された\[17\]。\[18\]
 
 ## 脚注

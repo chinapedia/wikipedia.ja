@@ -9,11 +9,11 @@
 
 ## 概要
 
-全体的なインターフェイスは [RPGツクール2000](https://ja.wikipedia.org/wiki/RPGツクール2000 "wikilink")に近いものとなっているが、従来の[MS ゴシックに代わり](https://ja.wikipedia.org/wiki/MS_ゴシック "wikilink") UmePlus Gothic（[梅フォント](https://ja.wikipedia.org/wiki/梅フォント "wikilink")と [M<sup>+</sup> FONTS](https://ja.wikipedia.org/wiki/M+_FONTS "wikilink") との混植。基本的に[カーニング](https://ja.wikipedia.org/wiki/カーニング "wikilink")はしていない）がゲーム画面の書体として採用されている。また、複雑な操作が必要だった機能が、簡単な操作で実現できるようになり、ツクール XP では削除されたイベントコマンドの多くが復活した。ほかに、マップエディター機能が強化されている。全体的にツクール2000への原点回帰に近い。また、前作の [RGSS](https://ja.wikipedia.org/wiki/RGSS "wikilink") を強化した RGSS2 を搭載している。ただし、データベースに登録できる数が2000の頃と比べると大幅に減っている。
+全体的なインターフェイスは [RPGツクール2000](../Page/RPGツクール2000.md "wikilink")に近いものとなっているが、従来の[MS ゴシックに代わり](../Page/MS_ゴシック.md "wikilink") UmePlus Gothic（[梅フォント](https://ja.wikipedia.org/wiki/梅フォント "wikilink")と [M<sup>+</sup> FONTS](https://ja.wikipedia.org/wiki/M+_FONTS "wikilink") との混植。基本的に[カーニング](https://ja.wikipedia.org/wiki/カーニング "wikilink")はしていない）がゲーム画面の書体として採用されている。また、複雑な操作が必要だった機能が、簡単な操作で実現できるようになり、ツクール XP では削除されたイベントコマンドの多くが復活した。ほかに、マップエディター機能が強化されている。全体的にツクール2000への原点回帰に近い。また、前作の [RGSS](../Page/RGSS.md "wikilink") を強化した RGSS2 を搭載している。ただし、データベースに登録できる数が2000の頃と比べると大幅に減っている。
 
 ツクラーに対して制作支援のためのファンサイトキットが公式サイトで配布されている。パッケージデザインは隼優紀が担当している。
 
-RPGツクールシリーズ初の海外版が発売された [RPGツクールXP](https://ja.wikipedia.org/wiki/RPGツクールXP "wikilink")（海外版のタイトルは “RPG Maker XP”）に続き、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")には本作の海外版 **RPG MAKER VX** のダウンロード販売が開始された。
+RPGツクールシリーズ初の海外版が発売された [RPGツクールXP](../Page/RPGツクールXP.md "wikilink")（海外版のタイトルは “RPG Maker XP”）に続き、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")には本作の海外版 **RPG MAKER VX** のダウンロード販売が開始された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")にバージョン1.01のアップデータが公開されて以降、長らくアップデートは行われていなかったが[2011年](../Page/2011年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")にバージョン1.02が公開された。同日に発売された『ツクールシリーズ素材集　和』とセット発売されているVXおよびValue版の本体では最初から1.02が適用されている。
 
@@ -37,7 +37,7 @@ VX・VXAce共に2013年7月1日からアップデータ(VX1.03、VXAce1.02）が
 
 ## サンプルゲーム
 
-VXは6本の作品が収録されている。今回も、[コンテストパーク](https://ja.wikipedia.org/wiki/コンテストパーク "wikilink")等のツクール関係で賞を取ったツクラーが制作したものがある。
+VXは6本の作品が収録されている。今回も、[コンテストパーク](../Page/コンテストパーク.md "wikilink")等のツクール関係で賞を取ったツクラーが制作したものがある。
 
   - Dragoness Edge 2820
   - INVAS 退魔録

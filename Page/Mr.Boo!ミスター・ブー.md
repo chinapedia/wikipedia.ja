@@ -1,9 +1,9 @@
 > この記事は[Mr.Boo!](https://ja.wikipedia.org/wiki/Mr.Boo!)から翻訳されています。
 
 
-『**Mr.Boo\!ミスター・ブー**』（原題：半斤八两、英題：*The Private Eyes*）は、ホイ兄弟演じる私立探偵のドタバタ活躍を描く、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")の[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")[香港映画](https://ja.wikipedia.org/wiki/香港映画 "wikilink")。
+『**Mr.Boo\!ミスター・ブー**』（原題：半斤八两、英題：*The Private Eyes*）は、ホイ兄弟演じる私立探偵のドタバタ活躍を描く、[1976年](../Page/1976年.md "wikilink")の[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")[香港映画](../Page/香港映画.md "wikilink")。
 
-[ゴールデン・ハーベスト](https://ja.wikipedia.org/wiki/ゴールデン・ハーベスト "wikilink")製作のホイ兄弟作品としては3作目だが、日本においては1979年2月に本作が最初に公開されてヒットしたことから、「[Mr.Boo\!](https://ja.wikipedia.org/wiki/Mr.Boo! "wikilink")」シリーズ第1弾と紹介されている。
+[ゴールデン・ハーベスト](../Page/ゴールデン・ハーベスト.md "wikilink")製作のホイ兄弟作品としては3作目だが、日本においては1979年2月に本作が最初に公開されてヒットしたことから、「[Mr.Boo\!](https://ja.wikipedia.org/wiki/Mr.Boo! "wikilink")」シリーズ第1弾と紹介されている。
 
 ## あらすじ
 
@@ -15,12 +15,12 @@
 
 ## スタッフ
 
-  - 監督・脚本：[マイケル・ホイ](https://ja.wikipedia.org/wiki/マイケル・ホイ "wikilink")（許冠文）
+  - 監督・脚本：[マイケル・ホイ](../Page/マイケル・ホイ.md "wikilink")（許冠文）
   - 製作：[レイモンド・チョウ](https://ja.wikipedia.org/wiki/レイモンド・チョウ "wikilink")（鄒文懐）
   - 撮影：[チャン・ヤオ・チュウ](https://ja.wikipedia.org/wiki/チャン・ヤオ・チュウ "wikilink")（張耀祖）
-  - 音楽：[サミュエル・ホイ](https://ja.wikipedia.org/wiki/サミュエル・ホイ "wikilink")（許冠傑）、ザ・ロータス（蓮花楽隊）
-  - 応援監督：[ジョン・ウー](https://ja.wikipedia.org/wiki/ジョン・ウー "wikilink")（呉字森）
-  - 武術指導：[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")（洪金寶）
+  - 音楽：[サミュエル・ホイ](../Page/サミュエル・ホイ.md "wikilink")（許冠傑）、ザ・ロータス（蓮花楽隊）
+  - 応援監督：[ジョン・ウー](../Page/ジョン・ウー.md "wikilink")（呉字森）
+  - 武術指導：[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")（洪金寶）
 
 ## キャスト
 
@@ -35,17 +35,17 @@
 <tbody>
 <tr class="odd">
 <td><p>ウォン・ヨクシー（黄若思） / 所長</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ホイ" title="wikilink">マイケル・ホイ</a>（許冠文）</p></td>
+<td><p><a href="../Page/マイケル・ホイ.md" title="wikilink">マイケル・ホイ</a>（許冠文）</p></td>
 <td><p><a href="../Page/広川太一郎.md" title="wikilink">広川太一郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>レイ・コウキ（李國傑） / キット</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サミュエル・ホイ" title="wikilink">サミュエル・ホイ</a> （許冠傑）</p></td>
+<td><p><a href="../Page/サミュエル・ホイ.md" title="wikilink">サミュエル・ホイ</a> （許冠傑）</p></td>
 <td><p><a href="../Page/ビートたけし.md" title="wikilink">ビートたけし</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>フグ（鶏泡） / ダイ・チョンボ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リッキー・ホイ" title="wikilink">リッキー・ホイ</a>（許冠英）</p></td>
+<td><p><a href="../Page/リッキー・ホイ.md" title="wikilink">リッキー・ホイ</a>（許冠英）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビートきよし" title="wikilink">ビートきよし</a></p></td>
 </tr>
 <tr class="even">
@@ -58,22 +58,22 @@
 <tr class="odd">
 <td><p>強盗団のボス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シー・キエン" title="wikilink">シー・キエン</a>（石堅）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林清志" title="wikilink">小林清志</a></p></td>
+<td><p><a href="../Page/小林清志.md" title="wikilink">小林清志</a></p></td>
 </tr>
 <tr class="even">
 <td><p>警部</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リチャード・ン" title="wikilink">リチャード・ン</a>（呉耀漢）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/及川ヒロオ" title="wikilink">及川ヒロオ</a></p></td>
+<td><p><a href="../Page/及川ヒロオ.md" title="wikilink">及川ヒロオ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>チュン・モック</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュー・ムー" title="wikilink">ジュー・ムー</a>（朱牧）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石森達幸" title="wikilink">石森達幸</a></p></td>
+<td><p><a href="../Page/石森達幸.md" title="wikilink">石森達幸</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アチョー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウォン・ハー" title="wikilink">ウォン・ハー</a>（黄蝦）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塚田正昭" title="wikilink">塚田正昭</a></p></td>
+<td><p><a href="../Page/塚田正昭.md" title="wikilink">塚田正昭</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>レストランの格闘相手</p></td>
@@ -107,8 +107,8 @@
 </tr>
 <tr class="odd">
 <td><p>チンピラ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サモ・ハン・キンポー" title="wikilink">サモ・ハン・キンポー</a>（洪金寶）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安西正弘" title="wikilink">安西正弘</a></p></td>
+<td><p><a href="../Page/サモ・ハン・キンポー.md" title="wikilink">サモ・ハン・キンポー</a>（洪金寶）</p></td>
+<td><p><a href="../Page/安西正弘.md" title="wikilink">安西正弘</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -118,25 +118,25 @@
 </tbody>
 </table>
 
-  - フジテレビ放送版 - 初回放送1981年5月2日、フジテレビ『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』
+  - フジテレビ放送版 - 初回放送1981年5月2日、フジテレビ『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』
       - 字幕翻訳 - 矢野留美子
       - 吹替翻訳 - 山田実
   - DVD版 - 2005年8月26日に『Mr.BOO \! DVD-BOX』（5,000セット限定生産）として発売時、フジテレビ放送版の日本語音声を初収録しDVD化（ただし、編集はオリジナル版に基づく）。その後、2007年5月10日に単品廉価版発売。
 
 ## エピソード
 
-  - 作品の随所に『[ジョーズ](https://ja.wikipedia.org/wiki/ジョーズ "wikilink")』、『[燃えよドラゴン](https://ja.wikipedia.org/wiki/燃えよドラゴン "wikilink")』、『[007](https://ja.wikipedia.org/wiki/007 "wikilink")』、『[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")』、『[ピンク・パンサー](https://ja.wikipedia.org/wiki/ピンク・パンサー "wikilink")』、『[荒野の七人](https://ja.wikipedia.org/wiki/荒野の七人 "wikilink")（[七人の侍](https://ja.wikipedia.org/wiki/七人の侍 "wikilink")）』、『[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")』等のパロディが見受けられる。
-  - 『[燃えよドラゴン](https://ja.wikipedia.org/wiki/燃えよドラゴン "wikilink")』で悪の首領ハン役で[ブルース・リー](../Page/ブルース・リー.md "wikilink")と激闘を演じた[シー・キエン](https://ja.wikipedia.org/wiki/シー・キエン "wikilink")が強盗団のとぼけたボス役を好演している。
-  - 警察署長役で出演した[リチャード・ン](https://ja.wikipedia.org/wiki/リチャード・ン "wikilink")は、その後[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演の[スパルタンX](https://ja.wikipedia.org/wiki/スパルタンX "wikilink")・[五福星](../Page/五福星.md "wikilink")・[大福星](https://ja.wikipedia.org/wiki/大福星 "wikilink")等に出演し、当地の主演男優賞を受賞するなど、香港映画界に欠かせない存在となった。
+  - 作品の随所に『[ジョーズ](../Page/ジョーズ.md "wikilink")』、『[燃えよドラゴン](../Page/燃えよドラゴン.md "wikilink")』、『[007](https://ja.wikipedia.org/wiki/007 "wikilink")』、『[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")』、『[ピンク・パンサー](../Page/ピンク・パンサー.md "wikilink")』、『[荒野の七人](../Page/荒野の七人.md "wikilink")（[七人の侍](https://ja.wikipedia.org/wiki/七人の侍 "wikilink")）』、『[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")』等のパロディが見受けられる。
+  - 『[燃えよドラゴン](../Page/燃えよドラゴン.md "wikilink")』で悪の首領ハン役で[ブルース・リー](../Page/ブルース・リー.md "wikilink")と激闘を演じた[シー・キエン](https://ja.wikipedia.org/wiki/シー・キエン "wikilink")が強盗団のとぼけたボス役を好演している。
+  - 警察署長役で出演した[リチャード・ン](https://ja.wikipedia.org/wiki/リチャード・ン "wikilink")は、その後[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演の[スパルタンX](../Page/スパルタンX.md "wikilink")・[五福星](../Page/五福星.md "wikilink")・[大福星](https://ja.wikipedia.org/wiki/大福星 "wikilink")等に出演し、当地の主演男優賞を受賞するなど、香港映画界に欠かせない存在となった。
   - 日本での初公開は「グリーン・ホーネット／電光石火」との同時上映であった。
   - 『ゴールデン洋画劇場』はタレントによる吹き替えに積極的であり、本作にも[ツービート](https://ja.wikipedia.org/wiki/ツービート "wikilink")が起用された。ツービートの人気と話題性に加え、当時の[ビートたけし](../Page/ビートたけし.md "wikilink")がサミュエルに似ているとの関連性もあった。
   - マイケル役の広川太一郎は、「元がつまらないギャグ映画だったので『[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")』みたいに本編と関係なく徹底的にふざけた声にしようと思った」と回想している（広川は[エリック・アイドル](../Page/エリック・アイドル.md "wikilink")の吹き替えを担当していた）。
-  - 日本劇場公開第3弾となった『[Mr.Boo\!ギャンブル大将](https://ja.wikipedia.org/wiki/Mr.Boo!ギャンブル大将 "wikilink")』には、香港オリジナル版からカット（差し替え）されたシーンがある。そのサミュエルとサモ・ハン・キンポーとの乱闘シーンは、本作の日本劇場公開時に挿入され、フジテレビ放映版にも採用された。当該シーンは本作のビデオソフトには未収録だが、『Mr.Boo\!ギャンブル大将』のDVDに特典映像として収録されている（ただし字幕のみ）。
+  - 日本劇場公開第3弾となった『[Mr.Boo\!ギャンブル大将](../Page/Mr.Boo!ギャンブル大将.md "wikilink")』には、香港オリジナル版からカット（差し替え）されたシーンがある。そのサミュエルとサモ・ハン・キンポーとの乱闘シーンは、本作の日本劇場公開時に挿入され、フジテレビ放映版にも採用された。当該シーンは本作のビデオソフトには未収録だが、『Mr.Boo\!ギャンブル大将』のDVDに特典映像として収録されている（ただし字幕のみ）。
   - 「ミスターブー&チャンチャンブラザースバンド」による日本語[カバー](../Page/カバー.md "wikilink")主題歌は漫画家の[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")による訳詞である。
   - 公開当時の日本版レコードおよび映画パンフレットに、「BOOになる心得（十カ条）」として以下が掲載された。
     1.  永遠に二枚目でない男であること。
     2.  ケチ､しかし貯金はゼロの男であること。
-    3.  [吉野屋の牛丼と](../Page/吉野家.md "wikilink")、[養老の滝の](https://ja.wikipedia.org/wiki/養老乃瀧 "wikilink")[牛丼](../Page/牛丼.md "wikilink")、どちらがうまいか毎日食べ比べてみるような男であること。
+    3.  [吉野屋の牛丼と](../Page/吉野家.md "wikilink")、[養老の滝の](../Page/養老乃瀧.md "wikilink")[牛丼](../Page/牛丼.md "wikilink")、どちらがうまいか毎日食べ比べてみるような男であること。
     4.  [カラオケ](../Page/カラオケ.md "wikilink")で「うまい\!プロになれ」と言われて、本当に[レコード](../Page/レコード.md "wikilink")会社に売り込みに行くような男であること。
     5.  時々、ネクタイのしめ方を忘れて鏡の前で1時間、真剣に悩むような男であること。
     6.  「人生はかけだ」とえらそうなことをいいながら[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")をやり、いつも負けて後悔するような男であること。

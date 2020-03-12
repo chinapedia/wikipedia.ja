@@ -1,13 +1,13 @@
 > この記事は[\&N.Y.](https://ja.wikipedia.org/wiki/\&N.Y.)から翻訳されています。
 
 
-『**ヒア・アンド・ゼア〜ライブ・イン・ロンドン\&N.Y.**』（*Here and There*）は、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")に発表された[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")のアルバム。
+『**ヒア・アンド・ゼア〜ライブ・イン・ロンドン\&N.Y.**』（*Here and There*）は、[1976年](../Page/1976年.md "wikilink")に発表された[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")のアルバム。
 
 ## 解説
 
-イギリスではDJMレコードとの契約終了となったライブアルバム。[レコード](../Page/レコード.md "wikilink")での発売時は、A面に1974年5月18日のロンドン、ロイヤル・フェスティバル・ホールでのオーケストラとの競演ライヴ5曲と、B面に同年11月28日の[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")でのライヴ4曲収録という、小ぶりなアルバムだった。
+イギリスではDJMレコードとの契約終了となったライブアルバム。[レコード](../Page/レコード.md "wikilink")での発売時は、A面に1974年5月18日のロンドン、ロイヤル・フェスティバル・ホールでのオーケストラとの競演ライヴ5曲と、B面に同年11月28日の[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")でのライヴ4曲収録という、小ぶりなアルバムだった。
 
-1995年のリマスター化の際、多くの楽曲が追加収録された。特にニューヨークでのライヴでは元[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")の[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")との競演曲三曲が収録された。エルトンは、レノンの「[真夜中を突っ走れ](https://ja.wikipedia.org/wiki/真夜中を突っ走れ "wikilink")」のレコーディングに参加。このシングルが一位になった際はライヴに来て欲しいと頼んでおり、実際一位となったため実現した競演である。なおこれはレノン最後から二番目のライヴ出演となった。
+1995年のリマスター化の際、多くの楽曲が追加収録された。特にニューヨークでのライヴでは元[ビートルズ](../Page/ビートルズ.md "wikilink")の[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")との競演曲三曲が収録された。エルトンは、レノンの「[真夜中を突っ走れ](../Page/真夜中を突っ走れ.md "wikilink")」のレコーディングに参加。このシングルが一位になった際はライヴに来て欲しいと頼んでおり、実際一位となったため実現した競演である。なおこれはレノン最後から二番目のライヴ出演となった。
 
 ## 収録曲
 
@@ -66,9 +66,9 @@
 5.  グレイ・シール - Grey Seal
 6.  [ダニエル](https://ja.wikipedia.org/wiki/ダニエル_\(曲\) "wikilink") - Daniel
 7.  ニューヨークの尻軽女 - You're So Static
-8.  [真夜中を突っ走れ](https://ja.wikipedia.org/wiki/真夜中を突っ走れ "wikilink") - Whatever Gets You Thru the Night
+8.  [真夜中を突っ走れ](../Page/真夜中を突っ走れ.md "wikilink") - Whatever Gets You Thru the Night
 9.  [ルーシー・イン・ザ・スカイ・ウィズ・ダイアモンズ](../Page/ルーシー・イン・ザ・スカイ・ウィズ・ダイアモンズ.md "wikilink") - Lucy in the Sky With Diamonds
-10. [アイ・ソー・ハー・スタンディング・ゼア](https://ja.wikipedia.org/wiki/アイ・ソー・ハー・スタンディング・ゼア "wikilink") - I Saw Her Standing There
+10. [アイ・ソー・ハー・スタンディング・ゼア](../Page/アイ・ソー・ハー・スタンディング・ゼア.md "wikilink") - I Saw Her Standing There
 11. 僕の瞳に小さな太陽 - Don't Let the Sun Go Down on Me
 12. 僕の歌は君の歌 - Your Song
 13. あばずれさんのお帰り - The Bitch Is Back

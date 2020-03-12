@@ -3,14 +3,14 @@
 
 **Wiiウェアのゲームタイトル一覧**（ウィーウェアのゲームタイトルいちらん）では、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")において実施されていたサービス「**[Wiiウェア](../Page/Wiiウェア.md "wikilink")**」においてダウンロード可能だったゲームソフト211タイトル（配信終了分含む）を列記する。
 
-  - Wii専用ディスクによって販売されているソフトは**[Wiiのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Wiiのゲームタイトル一覧 "wikilink")**を参照。
-  - Wii[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信されていたソフトは**[Wii版バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 "wikilink")**を参照。
+  - Wii専用ディスクによって販売されているソフトは**[Wiiのゲームタイトル一覧](../Page/Wiiのゲームタイトル一覧.md "wikilink")**を参照。
+  - Wii[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されていたソフトは**[Wii版バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Wii版バーチャルコンソールのゲームタイトル一覧 "wikilink")**を参照。
 
 ## 一覧表について
 
   - 掲載しているソフトは、全て[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")仕様のWii向けに配信されているものである。その他の国で配信されているソフトについては[英語版を参照](https://ja.wikipedia.org/wiki/:en:List_of_WiiWare_games "wikilink")。
   - 「必要ブロック数」とは、ソフトのダウンロードに必要なWii本体内蔵メモリの空き容量のことである。
-  - 「Wi-Fi」内に書かれている「対応」は、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用したサービス（[ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")・[WiiConnect24](../Page/WiiConnect24.md "wikilink")）に対応しているソフトであることを示している。「専用」は、インターネットに接続しないと遊ぶことが出来ないソフトであることを示している。{{-}}
+  - 「Wi-Fi」内に書かれている「対応」は、[インターネット](../Page/インターネット.md "wikilink")を利用したサービス（[ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")・[WiiConnect24](../Page/WiiConnect24.md "wikilink")）に対応しているソフトであることを示している。「専用」は、インターネットに接続しないと遊ぶことが出来ないソフトであることを示している。{{-}}
   - [Wiiショッピングチャンネル](../Page/Wiiショッピングチャンネル.md "wikilink")の終了に伴い、[2019年](../Page/2019年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")をもって全てのソフトの配信を終了した\[1\]。
 
 ## 2008年（全60タイトル）
@@ -39,8 +39,8 @@
 </tr>
 <tr class="even">
 <td><p>3月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/みんなのポケモン牧場" title="wikilink">みんなのポケモン牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポケモン_(企業)" title="wikilink">ポケモン</a></p></td>
+<td><p><a href="../Page/みんなのポケモン牧場.md" title="wikilink">みんなのポケモン牧場</a></p></td>
+<td><p><a href="../Page/ポケモン_(企業).md" title="wikilink">ポケモン</a></p></td>
 <td><p>129ブロック</p></td>
 <td><p>対応</p></td>
 <td></td>
@@ -49,7 +49,7 @@
 <tr class="odd">
 <td><p>3月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくピンポンWii</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アークシステムワークス" title="wikilink">アークシステムワークス</a></p></td>
+<td><p><a href="../Page/アークシステムワークス.md" title="wikilink">アークシステムワークス</a></p></td>
 <td><p>274ブロック</p></td>
 <td></td>
 <td></td>
@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p>3月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ことばのパズル_もじぴったん" title="wikilink">ことばのパズル もじぴったんWii</a></p></td>
+<td><p><a href="../Page/ことばのパズル_もじぴったん.md" title="wikilink">ことばのパズル もじぴったんWii</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バンダイナムコゲームス" title="wikilink">バンダイナムコゲームス</a></p></td>
 <td><p>286ブロック</p></td>
 <td><p>対応</p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>3月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サクサク_アニマルパニック" title="wikilink">サクサク アニマルパニック</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント" title="wikilink">コナミデジタルエンタテインメント</a></p></td>
+<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">コナミデジタルエンタテインメント</a></p></td>
 <td><p>302ブロック</p></td>
 <td></td>
 <td></td>
@@ -84,7 +84,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小さな王様と約束の国_ファイナルファンタジー・クリスタルクロニクル" title="wikilink">小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル</a></p></td>
+<td><p><a href="../Page/小さな王様と約束の国_ファイナルファンタジー・クリスタルクロニクル.md" title="wikilink">小さな王様と約束の国 ファイナルファンタジー・クリスタルクロニクル</a></p></td>
 <td><p><a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a></p></td>
 <td><p>287ブロック</p></td>
 <td><p>対応</p></td>
@@ -94,7 +94,7 @@
 <tr class="even">
 <td><p>3月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/天使のソリティア" title="wikilink">天使のソリティア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジー・モード" title="wikilink">ジー・モード</a></p></td>
+<td><p><a href="../Page/ジー・モード.md" title="wikilink">ジー・モード</a></p></td>
 <td><p>91ブロック</p></td>
 <td></td>
 <td></td>
@@ -103,7 +103,7 @@
 <tr class="odd">
 <td><p>3月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LONPOS" title="wikilink">LONPOS</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/元気_(ゲーム会社)" title="wikilink">元気</a></p></td>
+<td><p><a href="../Page/元気_(ゲーム会社).md" title="wikilink">元気</a></p></td>
 <td><p>99ブロック</p></td>
 <td><p>対応</p></td>
 <td></td>
@@ -150,7 +150,7 @@
 <tr class="even">
 <td><p>5月27日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/銀星将棋" title="wikilink">最強銀星将棋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エレクトロニック・アーツ" title="wikilink">エレクトロニック・アーツ</a></p></td>
+<td><p><a href="../Page/エレクトロニック・アーツ.md" title="wikilink">エレクトロニック・アーツ</a></p></td>
 <td><p>174ブロック</p></td>
 <td></td>
 <td></td>
@@ -357,7 +357,7 @@
 <tr class="odd">
 <td><p>10月7日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/仔犬でくるりん" title="wikilink">みんなで遊ぼう! 仔犬でくるりん</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エム・ティー・オー" title="wikilink">エム・ティー・オー</a></p></td>
+<td><p><a href="../Page/エム・ティー・オー.md" title="wikilink">エム・ティー・オー</a></p></td>
 <td><p>93ブロック</p></td>
 <td></td>
 <td></td>
@@ -429,7 +429,7 @@
 <tr class="odd">
 <td><p>11月11日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/たたいて!モグポン" title="wikilink">たたいて!モグポン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アジェンダ_(企業)" title="wikilink">アジェンダ</a></p></td>
+<td><p><a href="../Page/アジェンダ_(企業).md" title="wikilink">アジェンダ</a></p></td>
 <td><p>113ブロック</p></td>
 <td></td>
 <td></td>
@@ -465,7 +465,7 @@
 <tr class="odd">
 <td><p>11月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぽーかーず" title="wikilink">ぽーかーず</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイルストーン_(ゲーム会社)" title="wikilink">マイルストーン</a></p></td>
+<td><p><a href="../Page/マイルストーン_(ゲーム会社).md" title="wikilink">マイルストーン</a></p></td>
 <td><p>116ブロック</p></td>
 <td></td>
 <td><p>●</p></td>
@@ -473,8 +473,8 @@
 </tr>
 <tr class="even">
 <td><p>11月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黒ひげ危機一発" title="wikilink">黒ひげ危機一発</a>Wii</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タカラトミー" title="wikilink">タカラトミー</a></p></td>
+<td><p><a href="../Page/黒ひげ危機一発.md" title="wikilink">黒ひげ危機一発</a>Wii</p></td>
+<td><p><a href="../Page/タカラトミー.md" title="wikilink">タカラトミー</a></p></td>
 <td><p>126ブロック</p></td>
 <td></td>
 <td></td>
@@ -537,7 +537,7 @@
 <tr class="odd">
 <td><p>12月16日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソーサリーブレイド" title="wikilink">ソーサリーブレイド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケムコ" title="wikilink">ケムコ</a></p></td>
+<td><p><a href="../Page/ケムコ.md" title="wikilink">ケムコ</a></p></td>
 <td><p>266ブロック</p></td>
 <td></td>
 <td></td>
@@ -608,7 +608,7 @@
 </tr>
 <tr class="even">
 <td><p>1月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューパルサー" title="wikilink">すぐスロDUO「ニューパルサーR&amp;V」</a></p></td>
+<td><p><a href="../Page/ニューパルサー.md" title="wikilink">すぐスロDUO「ニューパルサーR&amp;V」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤマサエンタテインメント" title="wikilink">ヤマサエンタテインメント</a></p></td>
 <td><p>110ブロック</p></td>
 <td></td>
@@ -618,7 +618,7 @@
 <tr class="odd">
 <td><p>1月20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プリンセス・アイ物語" title="wikilink">プリンセス・アイ物語</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サン電子" title="wikilink">サンソフト</a></p></td>
+<td><p><a href="../Page/サン電子.md" title="wikilink">サンソフト</a></p></td>
 <td><p>246ブロック</p></td>
 <td><p>対応</p></td>
 <td></td>
@@ -636,7 +636,7 @@
 </tr>
 <tr class="odd">
 <td><p>1月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ" title="wikilink">クリスタル・ディフェンダーズR1</a></p></td>
+<td><p><a href="../Page/クリスタル_ガーディアンズ.md" title="wikilink">クリスタル・ディフェンダーズR1</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td><p>208ブロック</p></td>
 <td><p>対応</p></td>
@@ -655,7 +655,7 @@
 <tr class="odd">
 <td><p>1月27日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みんなのシアターWii" title="wikilink">みんなのシアターWii</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富士ソフト" title="wikilink">富士ソフト</a></p></td>
+<td><p><a href="../Page/富士ソフト.md" title="wikilink">富士ソフト</a></p></td>
 <td><p>59ブロック</p></td>
 <td><p><strong>専用</strong></p></td>
 <td></td>
@@ -718,7 +718,7 @@
 </tr>
 <tr class="even">
 <td><p>2月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスタル_ガーディアンズ" title="wikilink">クリスタル・ディフェンダーズR2</a></p></td>
+<td><p><a href="../Page/クリスタル_ガーディアンズ.md" title="wikilink">クリスタル・ディフェンダーズR2</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td><p>216ブロック</p></td>
 <td><p>対応</p></td>
@@ -754,7 +754,7 @@
 </tr>
 <tr class="even">
 <td><p>3月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レインボーアイランド" title="wikilink">RAINBOW ISLANDS - TOWERING ADVENTURE!</a></p></td>
+<td><p><a href="../Page/レインボーアイランド.md" title="wikilink">RAINBOW ISLANDS - TOWERING ADVENTURE!</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>295ブロック</p></td>
 <td></td>
@@ -782,7 +782,7 @@
 <tr class="odd">
 <td><p>3月24日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/メジャーリーグ・イーティング" title="wikilink">メジャーリーグ・イーティング</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/童_(ゲーム会社)" title="wikilink">童</a></p></td>
+<td><p><a href="../Page/童_(ゲーム会社).md" title="wikilink">童</a></p></td>
 <td></td>
 <td><p>対応</p></td>
 <td></td>
@@ -844,7 +844,7 @@
 </tr>
 <tr class="even">
 <td><p>4月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パズルボブル" title="wikilink">PUZZLE BOBBLE Wii</a></p></td>
+<td><p><a href="../Page/パズルボブル.md" title="wikilink">PUZZLE BOBBLE Wii</a></p></td>
 <td><p>タイトー</p></td>
 <td></td>
 <td><p>対応</p></td>
@@ -880,7 +880,7 @@
 </tr>
 <tr class="even">
 <td><p>4月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/つっぱり大相撲" title="wikilink">つっぱり大相撲</a>Wii</p></td>
+<td><p><a href="../Page/つっぱり大相撲.md" title="wikilink">つっぱり大相撲</a>Wii</p></td>
 <td><p>テクモ</p></td>
 <td></td>
 <td></td>
@@ -1052,7 +1052,7 @@
 <tr class="odd">
 <td><p>6月9日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲームサウンドステーション" title="wikilink">ゲームサウンドステーション</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガスト_(ゲームブランド)" title="wikilink">ガスト</a></p></td>
+<td><p><a href="../Page/ガスト_(ゲームブランド).md" title="wikilink">ガスト</a></p></td>
 <td></td>
 <td><p><strong>専用</strong></p></td>
 <td></td>
@@ -1125,7 +1125,7 @@
 <tr class="odd">
 <td><p>7月14日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ケンテイ!TV_Wii" title="wikilink">ケンテイ!TV Wii</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/廣済堂" title="wikilink">廣済堂</a></p></td>
+<td><p><a href="../Page/廣済堂.md" title="wikilink">廣済堂</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1134,7 +1134,7 @@
 <tr class="even">
 <td><p>7月14日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ひらめきカードバトル_メクルカ" title="wikilink">ひらめきカードバトル メクルカ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トムクリエイト" title="wikilink">トムクリエイト</a></p></td>
+<td><p><a href="../Page/トムクリエイト.md" title="wikilink">トムクリエイト</a></p></td>
 <td></td>
 <td><p>対応</p></td>
 <td><p>●</p></td>
@@ -1169,7 +1169,7 @@
 </tr>
 <tr class="even">
 <td><p>7月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイナルファンタジーIV_THE_AFTER_月の帰還" title="wikilink">ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-</a></p></td>
+<td><p><a href="../Page/ファイナルファンタジーIV_THE_AFTER_月の帰還.md" title="wikilink">ファイナルファンタジーIV ジ・アフターイヤーズ -月の帰還-</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td></td>
 <td><p>対応</p></td>
@@ -1178,7 +1178,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トミカ" title="wikilink">トミカ しゅつどう!緊急車両編</a>ドライブ</p></td>
+<td><p><a href="../Page/トミカ.md" title="wikilink">トミカ しゅつどう!緊急車両編</a>ドライブ</p></td>
 <td><p>タカラトミー</p></td>
 <td></td>
 <td></td>
@@ -1188,7 +1188,7 @@
 <tr class="even">
 <td><p>7月28日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カラオケJOYSOUND_Wii" title="wikilink">カラオケJOYSOUND Wii</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エクシング" title="wikilink">エクシング</a></p></td>
+<td><p><a href="../Page/エクシング.md" title="wikilink">エクシング</a></p></td>
 <td></td>
 <td><p><strong>専用</strong></p></td>
 <td></td>
@@ -1358,7 +1358,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シュガーバニーズ" title="wikilink">シュガーバニーズ ようこそ☆バニーズフィールドへ</a>Wii</p></td>
+<td><p><a href="../Page/シュガーバニーズ.md" title="wikilink">シュガーバニーズ ようこそ☆バニーズフィールドへ</a>Wii</p></td>
 <td><p>タカラトミー</p></td>
 <td></td>
 <td><p>対応</p></td>
@@ -1475,7 +1475,7 @@
 </tr>
 <tr class="even">
 <td><p>12月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポンジャン" title="wikilink">ポンジャン</a>Wii</p></td>
+<td><p><a href="../Page/ポンジャン.md" title="wikilink">ポンジャン</a>Wii</p></td>
 <td><p>タカラトミー</p></td>
 <td></td>
 <td></td>
@@ -1565,7 +1565,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プラレール" title="wikilink">ぼくはプラレール運転士 新幹線&amp;蒸気機関車編</a></p></td>
+<td><p><a href="../Page/プラレール.md" title="wikilink">ぼくはプラレール運転士 新幹線&amp;蒸気機関車編</a></p></td>
 <td><p>タカラトミー</p></td>
 <td></td>
 <td></td>
@@ -1601,7 +1601,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネクタリス" title="wikilink">ネクタリス</a></p></td>
+<td><p><a href="../Page/ネクタリス.md" title="wikilink">ネクタリス</a></p></td>
 <td><p>ハドソン</p></td>
 <td></td>
 <td><p>対応</p></td>
@@ -1673,7 +1673,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フロッガー_(ゲーム)" title="wikilink">Frogger Returns</a></p></td>
+<td><p><a href="../Page/フロッガー_(ゲーム).md" title="wikilink">Frogger Returns</a></p></td>
 <td><p>コナミデジタルエンタテインメント</p></td>
 <td></td>
 <td></td>
@@ -1737,7 +1737,7 @@
 <tr class="even">
 <td><p>5月11日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プーヨーとあそぼう" title="wikilink">プーヨーとあそぼう エピソード1</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アガツマ" title="wikilink">アガツマ</a>・エンターテイメント</p></td>
+<td><p><a href="../Page/アガツマ.md" title="wikilink">アガツマ</a>・エンターテイメント</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,21 +1,21 @@
 > この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
 
 
-『**LOVEシーズン**』（*A Change of Seasons*）は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")制作の[アメリカ合衆国の映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。
+『**LOVEシーズン**』（*A Change of Seasons*）は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")制作の[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。
 
 ## 概要
 
 日本国内向けのビデオは『**シャーリー・マクレーン ダイヤモンドダストの朝**』という別題で販売された。
 
-同じリゾート地で浮気相手と一緒に冬の休暇を過ごすこととなった倦怠期の夫婦とその相手が繰り広げる、度が過ぎるラブ・コメディ。[アンソニー・ホプキンス](https://ja.wikipedia.org/wiki/アンソニー・ホプキンス "wikilink")と[シャーリー・マクレーン](https://ja.wikipedia.org/wiki/シャーリー・マクレーン "wikilink")、[ボー・デレク](https://ja.wikipedia.org/wiki/ボー・デレク "wikilink")という異色の顔合わせの映画だったが、年の差の浮気というテーマもあって悪評となり、本国では興行的に振るわず、[ゴールデンラズベリー賞](../Page/ゴールデンラズベリー賞.md "wikilink")でも最悪俳優、最悪脚本、最悪オリジナル歌曲の3部門でノミネートされた。
+同じリゾート地で浮気相手と一緒に冬の休暇を過ごすこととなった倦怠期の夫婦とその相手が繰り広げる、度が過ぎるラブ・コメディ。[アンソニー・ホプキンス](../Page/アンソニー・ホプキンス.md "wikilink")と[シャーリー・マクレーン](../Page/シャーリー・マクレーン.md "wikilink")、[ボー・デレク](../Page/ボー・デレク.md "wikilink")という異色の顔合わせの映画だったが、年の差の浮気というテーマもあって悪評となり、本国では興行的に振るわず、[ゴールデンラズベリー賞](../Page/ゴールデンラズベリー賞.md "wikilink")でも最悪俳優、最悪脚本、最悪オリジナル歌曲の3部門でノミネートされた。
 
 ## あらすじ
 
 ## キャスト
 
-  - キャリン・エヴァンズ - [シャーリー・マクレーン](https://ja.wikipedia.org/wiki/シャーリー・マクレーン "wikilink")
-  - アダム・エヴァンズ - [アンソニー・ホプキンス](https://ja.wikipedia.org/wiki/アンソニー・ホプキンス "wikilink")： キャリンの夫。大学教授。
-  - リンジー・ラトレッジ - [ボー・デレク](https://ja.wikipedia.org/wiki/ボー・デレク "wikilink")： アダムの教え子で愛人。
+  - キャリン・エヴァンズ - [シャーリー・マクレーン](../Page/シャーリー・マクレーン.md "wikilink")
+  - アダム・エヴァンズ - [アンソニー・ホプキンス](../Page/アンソニー・ホプキンス.md "wikilink")： キャリンの夫。大学教授。
+  - リンジー・ラトレッジ - [ボー・デレク](../Page/ボー・デレク.md "wikilink")： アダムの教え子で愛人。
   - ピート・ラシャペル - [マイケル・ブランドン](https://ja.wikipedia.org/wiki/マイケル・ブランドン "wikilink")： 大工。
   - ケイシー・エヴァンズ - [メアリー・ベス・ハート](https://ja.wikipedia.org/wiki/メアリー・ベス・ハート "wikilink")： キャリンとアダムの娘。
   - スティーヴン・ラトレッジ - ： リンジーの父親。

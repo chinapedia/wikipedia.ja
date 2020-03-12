@@ -1,7 +1,7 @@
 > この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
 
 
-**Academi**\[1\]（アカデミ、旧Xeサービシズ[LLC](../Page/LLC.md "wikilink")、旧ブラックウォーターUSA）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[民間軍事会社](https://ja.wikipedia.org/wiki/民間軍事会社 "wikilink")である。
+**Academi**\[1\]（アカデミ、旧Xeサービシズ[LLC](../Page/LLC.md "wikilink")、旧ブラックウォーターUSA）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[民間軍事会社](../Page/民間軍事会社.md "wikilink")である。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[アメリカ海軍特殊部隊SEALsを退役した](../Page/Navy_SEALs.md "wikilink")[エリック・プリンス](https://ja.wikipedia.org/wiki/エリック・プリンス "wikilink")により、**ブラックウォーターUSA**として創設された。
 
@@ -22,15 +22,15 @@
 
 ### 経営陣
 
-ブラックウォーターは株式非公開の企業で、内部情報はほとんど公開していない。ブラックウォーターの創業者であり、[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")だった[エリック・プリンス](https://ja.wikipedia.org/wiki/エリック・プリンス "wikilink")は元[ネイビーシールズである](../Page/Navy_SEALs.md "wikilink")。プリンスは[海軍兵学校で学び](https://ja.wikipedia.org/wiki/海軍兵学校_\(アメリカ合衆国\) "wikilink")、ヒルズデール・カレッジ (Hillsdale College) を卒業、[ホワイトハウス実習生](../Page/ホワイトハウス実習生.md "wikilink")として[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")で働いたこともある。また、ブラックウォーターには9つの事業部があり、更にBlackwater Vehiclesという子会社を持っている。
+ブラックウォーターは株式非公開の企業で、内部情報はほとんど公開していない。ブラックウォーターの創業者であり、[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")だった[エリック・プリンス](https://ja.wikipedia.org/wiki/エリック・プリンス "wikilink")は元[ネイビーシールズである](../Page/Navy_SEALs.md "wikilink")。プリンスは[海軍兵学校で学び](../Page/海軍兵学校_\(アメリカ合衆国\).md "wikilink")、ヒルズデール・カレッジ (Hillsdale College) を卒業、[ホワイトハウス実習生](../Page/ホワイトハウス実習生.md "wikilink")として[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")で働いたこともある。また、ブラックウォーターには9つの事業部があり、更にBlackwater Vehiclesという子会社を持っている。
 
-アメリカの政府、米軍、CIAと密接な関係を持ち、ブラックウォーターの代表取締役であるゲイリー・ジャクソンも元[ネイビーシールズで](../Page/Navy_SEALs.md "wikilink")\[9\]、副会長を務めたは[対テロ戦争](../Page/対テロ戦争.md "wikilink")で法的に議論のある[無人攻撃機](https://ja.wikipedia.org/wiki/無人攻撃機 "wikilink")を運用した標的殺害プログラムを推し進めたことで有名な[CIAの元](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")所長であり、副社長であったは元CIA副本部長である\[10\]\[11\]。[ペンタゴンの元監察総監である](../Page/アメリカ国防総省.md "wikilink")\[12\]、元[司法長官の](https://ja.wikipedia.org/wiki/アメリカ合衆国司法長官 "wikilink")[ジョン・アシュクロフト](https://ja.wikipedia.org/wiki/ジョン・アシュクロフト "wikilink")や元[NSA長官の](https://ja.wikipedia.org/wiki/アメリカ国家安全保障局長官 "wikilink")なども取締役会に名を連ねた\[13\]\[14\]。
+アメリカの政府、米軍、CIAと密接な関係を持ち、ブラックウォーターの代表取締役であるゲイリー・ジャクソンも元[ネイビーシールズで](../Page/Navy_SEALs.md "wikilink")\[9\]、副会長を務めたは[対テロ戦争](../Page/対テロ戦争.md "wikilink")で法的に議論のある[無人攻撃機](https://ja.wikipedia.org/wiki/無人攻撃機 "wikilink")を運用した標的殺害プログラムを推し進めたことで有名な[CIAの元](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")所長であり、副社長であったは元CIA副本部長である\[10\]\[11\]。[ペンタゴンの元監察総監である](../Page/アメリカ国防総省.md "wikilink")\[12\]、元[司法長官の](../Page/アメリカ合衆国司法長官.md "wikilink")[ジョン・アシュクロフト](../Page/ジョン・アシュクロフト.md "wikilink")や元[NSA長官の](https://ja.wikipedia.org/wiki/アメリカ国家安全保障局長官 "wikilink")なども取締役会に名を連ねた\[13\]\[14\]。
 
 ## 歴史
 
-1990年代後半、エリック・プリンスは[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")と[ヴァージニア州](https://ja.wikipedia.org/wiki/ヴァージニア州 "wikilink")の境にある沼地 Great Dismal Swamp の6,000[エーカー](../Page/エーカー.md "wikilink")の土地を購入。その土地は現在では大部分は国有地となっている。彼はそこに最新鋭の訓練施設と、沼地の水が[泥炭](https://ja.wikipedia.org/wiki/泥炭 "wikilink")で[黒くなっている所から名づけられたブラックウォーターという企業を設立](https://ja.wikipedia.org/wiki/ブラックウォーター_\(陸水学\) "wikilink")\[15\]。軍や警察当局への訓練サポートの提供を主とするブラックウォーターUSAは1997年に設立された。2002年にはブラックウォーター・セキュリティ・コンサルティング (以下BSC 、Blackwater Security Consulting ) が設立された。
+1990年代後半、エリック・プリンスは[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")と[ヴァージニア州](https://ja.wikipedia.org/wiki/ヴァージニア州 "wikilink")の境にある沼地 Great Dismal Swamp の6,000[エーカー](../Page/エーカー.md "wikilink")の土地を購入。その土地は現在では大部分は国有地となっている。彼はそこに最新鋭の訓練施設と、沼地の水が[泥炭](../Page/泥炭.md "wikilink")で[黒くなっている所から名づけられたブラックウォーターという企業を設立](https://ja.wikipedia.org/wiki/ブラックウォーター_\(陸水学\) "wikilink")\[15\]。軍や警察当局への訓練サポートの提供を主とするブラックウォーターUSAは1997年に設立された。2002年にはブラックウォーター・セキュリティ・コンサルティング (以下BSC 、Blackwater Security Consulting ) が設立された。
 
-2002年。ブラックウォーターUSAは[アフガニスタン紛争の際に雇われた企業の一つとなった](../Page/アフガニスタン紛争_\(2001年-\).md "wikilink")。ブラックウォーターはアフガニスタンや[パキスタン](../Page/パキスタン.md "wikilink")で[無人航空機](https://ja.wikipedia.org/wiki/無人航空機 "wikilink")[RQ-1 プレデターによる](https://ja.wikipedia.org/wiki/RQ-1_プレデター "wikilink")[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")の暗殺などCIAの秘密任務を請け負った\[16\]\[17\]\[18\]\[19\]。また、BSCはイラク戦争の際に軍人や基地を守ったり、イラクの新しい軍や警察を訓練するために雇われた60を超える警備会社の1つとなった\[20\]。更にブラックウォーターは[ハリケーン・カトリーナ](https://ja.wikipedia.org/wiki/ハリケーン・カトリーナ "wikilink")が猛威を振るった後に[アメリカ国土安全保障省](https://ja.wikipedia.org/wiki/アメリカ国土安全保障省 "wikilink")によって用いられたり、通信、石油、保険会社といった企業とも契約している\[21\]。いずれのケースでもブラックウォーターは入札なしで受注している。全体的に見て、ブラックウォーターは10億ドル（1040億円）以上を政府との契約によって得ている\[22\]。 [Blackwater_Security_Company_MD-530F_helicopter_in_Baghdad,_2004.JPG](https://ja.wikipedia.org/wiki/File:Blackwater_Security_Company_MD-530F_helicopter_in_Baghdad,_2004.JPG "fig:Blackwater_Security_Company_MD-530F_helicopter_in_Baghdad,_2004.JPG") 2004年、[イラク](../Page/イラク.md "wikilink")の[ファルージャ](../Page/ファルージャ.md "wikilink")にて、輸送会社ESSのトラックを警備していた4人の警備要員が武装した市民達に殺害される。この4人はかつてネイビー・シールズや[レンジャーといった精鋭部隊に所属していたが](https://ja.wikipedia.org/wiki/第75レンジャー連隊 "wikilink")、人数や装備が不十分なまま警備に当たっていた。この事件は後に[ファルージャの戦闘](https://ja.wikipedia.org/wiki/ファルージャの戦闘 "wikilink")のきっかけとなった。
+2002年。ブラックウォーターUSAは[アフガニスタン紛争の際に雇われた企業の一つとなった](../Page/アフガニスタン紛争_\(2001年-\).md "wikilink")。ブラックウォーターはアフガニスタンや[パキスタン](../Page/パキスタン.md "wikilink")で[無人航空機](../Page/無人航空機.md "wikilink")[RQ-1 プレデターによる](../Page/RQ-1_プレデター.md "wikilink")[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")の暗殺などCIAの秘密任務を請け負った\[16\]\[17\]\[18\]\[19\]。また、BSCはイラク戦争の際に軍人や基地を守ったり、イラクの新しい軍や警察を訓練するために雇われた60を超える警備会社の1つとなった\[20\]。更にブラックウォーターは[ハリケーン・カトリーナ](../Page/ハリケーン・カトリーナ.md "wikilink")が猛威を振るった後に[アメリカ国土安全保障省](https://ja.wikipedia.org/wiki/アメリカ国土安全保障省 "wikilink")によって用いられたり、通信、石油、保険会社といった企業とも契約している\[21\]。いずれのケースでもブラックウォーターは入札なしで受注している。全体的に見て、ブラックウォーターは10億ドル（1040億円）以上を政府との契約によって得ている\[22\]。 [Blackwater_Security_Company_MD-530F_helicopter_in_Baghdad,_2004.JPG](https://ja.wikipedia.org/wiki/File:Blackwater_Security_Company_MD-530F_helicopter_in_Baghdad,_2004.JPG "fig:Blackwater_Security_Company_MD-530F_helicopter_in_Baghdad,_2004.JPG") 2004年、[イラク](../Page/イラク.md "wikilink")の[ファルージャ](../Page/ファルージャ.md "wikilink")にて、輸送会社ESSのトラックを警備していた4人の警備要員が武装した市民達に殺害される。この4人はかつてネイビー・シールズや[レンジャーといった精鋭部隊に所属していたが](https://ja.wikipedia.org/wiki/第75レンジャー連隊 "wikilink")、人数や装備が不十分なまま警備に当たっていた。この事件は後に[ファルージャの戦闘](../Page/ファルージャの戦闘.md "wikilink")のきっかけとなった。
 
 2004年、エリック・プリンスが**グレイストーン・リミテッド**を設立する。ブラックウォーターがアメリカ軍人を中心とした警備サービスをする事に対し、グレイストーン社は警備員達を現地雇用しアメリカ軍人らが指揮するイギリス型民間軍事会社の方式を採用している。 [Xe-Logo.svg](https://ja.wikipedia.org/wiki/File:Xe-Logo.svg "fig:Xe-Logo.svg")
 
@@ -46,17 +46,17 @@
 
 ## イラク戦争への関与
 
-[Bremer_leaves_after_Iraqi_Sovereignty_Transfer,_2004_June_28.jpg](https://ja.wikipedia.org/wiki/File:Bremer_leaves_after_Iraqi_Sovereignty_Transfer,_2004_June_28.jpg "fig:Bremer_leaves_after_Iraqi_Sovereignty_Transfer,_2004_June_28.jpg") ブラックウォーターは、イラク占領当局の最高責任者だった[連合国暫定当局](../Page/連合国暫定当局.md "wikilink")（CPA）の代表[ポール・ブレマー](../Page/ポール・ブレマー.md "wikilink")の[ボディーガード](../Page/ボディーガード.md "wikilink")を請け負ったのを皮切りに\[29\]、[アメリカ政府](https://ja.wikipedia.org/wiki/アメリカ政府 "wikilink")の[国務省が契約するコントラクターの中でも最大の会社となった](https://ja.wikipedia.org/wiki/アメリカ合衆国国務省 "wikilink")。特に[イラク戦争](../Page/イラク戦争.md "wikilink")におけるアメリカ軍正規兵の慢性的不足により[傭兵](../Page/傭兵.md "wikilink")の需要が増したことから、急成長を遂げた。同社サイトでは年4万人以上の社員を訓練していると発表している\[30\]。
+[Bremer_leaves_after_Iraqi_Sovereignty_Transfer,_2004_June_28.jpg](https://ja.wikipedia.org/wiki/File:Bremer_leaves_after_Iraqi_Sovereignty_Transfer,_2004_June_28.jpg "fig:Bremer_leaves_after_Iraqi_Sovereignty_Transfer,_2004_June_28.jpg") ブラックウォーターは、イラク占領当局の最高責任者だった[連合国暫定当局](../Page/連合国暫定当局.md "wikilink")（CPA）の代表[ポール・ブレマー](../Page/ポール・ブレマー.md "wikilink")の[ボディーガード](../Page/ボディーガード.md "wikilink")を請け負ったのを皮切りに\[29\]、[アメリカ政府](https://ja.wikipedia.org/wiki/アメリカ政府 "wikilink")の[国務省が契約するコントラクターの中でも最大の会社となった](../Page/アメリカ合衆国国務省.md "wikilink")。特に[イラク戦争](../Page/イラク戦争.md "wikilink")におけるアメリカ軍正規兵の慢性的不足により[傭兵](../Page/傭兵.md "wikilink")の需要が増したことから、急成長を遂げた。同社サイトでは年4万人以上の社員を訓練していると発表している\[30\]。
 
 警護対象に死者を一人も出さないなど業務の優秀さに定評がある一方で「イラク人のことを動物扱いしている」と評され、2007年9月に社員によるイラク人射殺事件が表面化したことから、議論の的になっている\[31\]。また、武器の横流しや目に付いた民間人を無差別に撃って遊ぶ「実弾演習」が常態化しているという噂もあり、これに対し、イラクの反米派からは「ブラックウォーター社の社員は犯罪者だ」とする声も大きい。また、秘密主義で閉鎖的な社風があることや、一部社員達の傲慢な言動や猟色癖など態度が非常に悪いことなどを指摘されており、同じ民間軍事会社の社員など関係者達からもブラックウォーターを酷評する声があった\[32\]。
 
-民間軍事会社の「[不祥事](https://ja.wikipedia.org/wiki/不祥事 "wikilink")」で、駐留アメリカ軍とイラクとの関係が悪化しかねないという懸念も強い。アメリカ国内においては、[FBIがこれに関する事件の調査に乗り出すことを宣言しているが](../Page/連邦捜査局.md "wikilink")、紛争地での充分な捜査が可能かどうかは疑問である。民間軍事会社の犯罪をアメリカ国内法の管轄下におく法案が下院で可決されているが、[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")は反発しており、アメリカ政府内では「民間業者に頼るしかなく、むしろその人達の能力、勇気を称えるべきだ」と民間軍事会社を擁護する立場が主流である。
+民間軍事会社の「[不祥事](../Page/不祥事.md "wikilink")」で、駐留アメリカ軍とイラクとの関係が悪化しかねないという懸念も強い。アメリカ国内においては、[FBIがこれに関する事件の調査に乗り出すことを宣言しているが](../Page/連邦捜査局.md "wikilink")、紛争地での充分な捜査が可能かどうかは疑問である。民間軍事会社の犯罪をアメリカ国内法の管轄下におく法案が下院で可決されているが、[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")は反発しており、アメリカ政府内では「民間業者に頼るしかなく、むしろその人達の能力、勇気を称えるべきだ」と民間軍事会社を擁護する立場が主流である。
 
 2007年9月、バグダッドにおいてブラックウォーターの社員がイラク人17人を射殺する事件が発生し、当初ブラックウォーター側は正当性を主張したが、アメリカ政府は、少なくとも14人の射殺には正当性が認められないと判断した\[33\]。一方で、アメリカ政府はブラックウォーター社との再契約を「問題ない」とし、その契約を継続している。
 
 ## 日本での展開
 
-2006年6月、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[つがる市](https://ja.wikipedia.org/wiki/つがる市 "wikilink")の[航空自衛隊](../Page/航空自衛隊.md "wikilink")[車力分屯基地](../Page/車力分屯基地.md "wikilink")で、[ミサイル防衛](../Page/ミサイル防衛.md "wikilink")用の[レーダー](../Page/レーダー.md "wikilink")：AN/TPY-2（Xバンドレーダー）の搬入の際、アメリカ政府と契約していたブラックウォーター社の要員が、車力分屯基地、及び、AN/TPY-2の警備にあたっていたことがある。レーダーの運用の為、開発元の[レイセオン](https://ja.wikipedia.org/wiki/レイセオン "wikilink")社から派遣された同社社員もそこにおり、つがる市に派遣された民間企業の要員は、ブラックウォーター社の人間と合わせて、約100名であった（2名の米軍軍人が監督）\[34\]。
+2006年6月、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[つがる市](../Page/つがる市.md "wikilink")の[航空自衛隊](../Page/航空自衛隊.md "wikilink")[車力分屯基地](../Page/車力分屯基地.md "wikilink")で、[ミサイル防衛](../Page/ミサイル防衛.md "wikilink")用の[レーダー](../Page/レーダー.md "wikilink")：AN/TPY-2（Xバンドレーダー）の搬入の際、アメリカ政府と契約していたブラックウォーター社の要員が、車力分屯基地、及び、AN/TPY-2の警備にあたっていたことがある。レーダーの運用の為、開発元の[レイセオン](../Page/レイセオン.md "wikilink")社から派遣された同社社員もそこにおり、つがる市に派遣された民間企業の要員は、ブラックウォーター社の人間と合わせて、約100名であった（2名の米軍軍人が監督）\[34\]。
 
 ## 脚注
 
@@ -85,7 +85,7 @@
 12. "Blackwaters Top Brass". The Virginian-Pilot. July 24, 2006.
 13. "Jack Quinn to Become Independent Director of Xe Services". Business Wire. Business Wire. Retrieved July 7, 2011.
 14. [Former Blackwater Security Firm Gets New Leaders in Image Makeover](http://www.foxnews.com/politics/2011/03/09/blackwater-security-firm-gets-new-leaders-image-makeover/) By Justin Fishel March 09, 2011, foxnews.com
-15. *[ニューズウィーク](https://ja.wikipedia.org/wiki/ニューズウィーク "wikilink")*, "The Man Behind Blackwater", 22 October 2007, pp 36-38.
+15. *[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")*, "The Man Behind Blackwater", 22 October 2007, pp 36-38.
 16.
 17. Civilian Warriors: The Inside Story of Blackwater and the Unsung Heroes of the War on Terror Hardcover by Erik Prince.Portfolio Hardcover (November 18, 2013) ISBN 978-1591847212
 18.

@@ -5,7 +5,7 @@
 
 ## 概要
 
-タイトル曲が[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・ビデオサスペンスシリーズ『[COMPLEX BLUE](https://ja.wikipedia.org/wiki/COMPLEX_BLUE "wikilink")』主題歌として使われている。カップリング曲はタイトル曲の別バージョン（いずれも[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）。
+タイトル曲が[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・ビデオサスペンスシリーズ『[COMPLEX BLUE](https://ja.wikipedia.org/wiki/COMPLEX_BLUE "wikilink")』主題歌として使われている。カップリング曲はタイトル曲の別バージョン（いずれも[インストゥルメンタル](../Page/器楽曲.md "wikilink")）。
 
 このシングル以降、プライベート[レーベル](../Page/レコードレーベル.md "wikilink")「**Zeit**（ツァイト）」を立ち上げ、以後ポニーキャニオン在籍中はこのレーベルで楽曲を発表した。
 
@@ -29,7 +29,7 @@
   - [THE ALFEE SINGLE HISTORY VOL.IV 1991-1994](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.IV_1991-1994 "wikilink")（\#1,2,3）
   - [THE ALFEE EMOTIONAL LOVE SONGS](https://ja.wikipedia.org/wiki/THE_ALFEE_EMOTIONAL_LOVE_SONGS "wikilink")（\#1）
   - [THE ALFEE 單曲特集](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
-  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](https://ja.wikipedia.org/wiki/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37 "wikilink")（\#1）
+  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1）
 
 ## 制作時期
 

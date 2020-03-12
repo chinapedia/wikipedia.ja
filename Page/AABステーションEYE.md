@@ -1,7 +1,7 @@
 > この記事は[AABEYE](https://ja.wikipedia.org/wiki/AABEYE)から翻訳されています。
 
 
-『**AABステーションEYE**』（エーエービー ステーションアイ）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送していた夕方の[ローカルワイドニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[秋田県](../Page/秋田県.md "wikilink")ローカルパートに相当する。
+『**AABステーションEYE**』（エーエービー ステーションアイ）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送していた夕方の[ローカルワイドニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[秋田県](../Page/秋田県.md "wikilink")ローカルパートに相当する。
 
 平日の全国ニュースのタイトルが『ANNスーパーJチャンネル』に変更されたあとも半年間『ステーションEYE ANN』のタイトルを使用し続けていた。
 
@@ -13,7 +13,7 @@
 
 ウェザーリポートと題してお送りしていた。 5分間の天気予報「AABウェザーリポート」と同じテーマ曲（初代）に乗せて情報カメラの映像に雪だるまや傘マークなどのCGが流れて始まっていた。
 
-開局当時は、秋田の民放2局（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")、[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）では、沿岸、内陸と2つに分けていたのに対し秋田朝日放送では、秋田県北部、南部9市+鷹巣町（現:[北秋田市](https://ja.wikipedia.org/wiki/北秋田市 "wikilink")）、象潟町（現:[にかほ市](https://ja.wikipedia.org/wiki/にかほ市 "wikilink")）などを加えた市町のきめ細かな天気予報を伝えていた。
+開局当時は、秋田の民放2局（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")、[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）では、沿岸、内陸と2つに分けていたのに対し秋田朝日放送では、秋田県北部、南部9市+鷹巣町（現:[北秋田市](../Page/北秋田市.md "wikilink")）、象潟町（現:[にかほ市](../Page/にかほ市.md "wikilink")）などを加えた市町のきめ細かな天気予報を伝えていた。
 
 秋田県北部、南部どちらにも秋田市の天気を入れていた。
 
@@ -21,7 +21,7 @@
 
 ## ニュースキャスター
 
-週末版の出演者は[シフト勤務](https://ja.wikipedia.org/wiki/シフト勤務 "wikilink")。
+週末版の出演者は[シフト勤務](../Page/シフト勤務.md "wikilink")。
 
 ### 平日
 
@@ -56,13 +56,13 @@
   - 開局初日は、[角館武家屋敷から全国ニュースと](https://ja.wikipedia.org/wiki/武家屋敷通り_\(仙北市\) "wikilink")18:30からのニュース、22:00からのニュースステーションにて中継を行った。当日は、中継の裏側を紹介し[ニュースステーション](../Page/ニュースステーション.md "wikilink")でも中継する事を宣伝していた。
       - 当時、秋田の民放テレビ局では、初めて映画で使用するクレーンや、大掛かりな照明などを使い臨場感あふれる中継を総勢53名のスタッフで行った。AABの伊東充子アナウンサー（当時）が角館武家屋敷としても初めてだとも伝えていた。
   - 開局初日では、開局を祝して当時、日本テレビ系とテレビ朝日系の[クロスネット局](../Page/クロスネット局.md "wikilink")であったYBC[山形放送](../Page/山形放送.md "wikilink")とテレビ朝日系のKHB[東日本放送](../Page/東日本放送.md "wikilink")からお祝いメッセージと秋田にちなんだ話題などをお送りした。この日、山形放送と東日本放送の担当したアナウンサー（当時）はいずれも秋田県出身であった。
-  - 初代セットは、AABの開局の半年後に始まった「[YTSステーションEYE](https://ja.wikipedia.org/wiki/YTSステーションEYE "wikilink")」（YTS[山形テレビ](../Page/山形テレビ.md "wikilink")）でも似たようなものに流用していた（AABは背景が社屋を中心としてビルや山になっているのに対して、YTSはビルや山を模した装飾）。AABの初代ロゴマークである筆記体も、YTSに置き換えて使用していた。
+  - 初代セットは、AABの開局の半年後に始まった「[YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink")」（YTS[山形テレビ](../Page/山形テレビ.md "wikilink")）でも似たようなものに流用していた（AABは背景が社屋を中心としてビルや山になっているのに対して、YTSはビルや山を模した装飾）。AABの初代ロゴマークである筆記体も、YTSに置き換えて使用していた。
 
 ## 関連項目
 
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")（開局時の夕方ニュース）
   - [ANN 530ステーション](../Page/600ステーション.md "wikilink")（開局時の週末夕方ニュースとして放送。『[600ステーション](../Page/600ステーション.md "wikilink")』は開局前に終了）
-  - [AABニュース](https://ja.wikipedia.org/wiki/AABニュース&ウェザー "wikilink")
+  - [AABニュース](../Page/AABニュース&ウェザー.md "wikilink")
   - [チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")（月曜 - 木曜のみ、後番組）
   - [チャンネルeiei金曜版](https://ja.wikipedia.org/wiki/チャンネルeiei金曜版 "wikilink")（金曜のみ、後番組）
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ICHIZU](https://ja.wikipedia.org/wiki/ICHIZU)から翻訳されています。
 
 
-**ICHIZU**（イチズ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")8月1日に[ビクター音楽産業（現・ビクターエンタテインメント）から](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。
+**ICHIZU**（イチズ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")8月1日に[ビクター音楽産業（現・ビクターエンタテインメント）から](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[やしきたかじん](../Page/やしきたかじん.md "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")
+  - [やしきたかじん](../Page/やしきたかじん.md "wikilink")
   - [ICHIZU new version '96](https://ja.wikipedia.org/wiki/ICHIZU_new_version_'96 "wikilink")
 
 [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:やしきたかじんの楽曲](https://ja.wikipedia.org/wiki/Category:やしきたかじんの楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

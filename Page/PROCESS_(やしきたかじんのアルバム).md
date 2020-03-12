@@ -1,17 +1,17 @@
 > この記事は[PROCESS \(\)](https://ja.wikipedia.org/wiki/PROCESS_\(\))から翻訳されています。
 
 
-『**PROCESS**』（プロセス）は、[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")の14枚目のアルバム。
+『**PROCESS**』（プロセス）は、[やしきたかじん](../Page/やしきたかじん.md "wikilink")の14枚目のアルバム。
 
 ## 内容
 
-[渡辺直樹が全曲のベース演奏に参加したアルバム](https://ja.wikipedia.org/wiki/渡辺直樹_\(ミュージシャン\) "wikilink")。以降、たかじん自身が消極的であるため、オリジナル・アルバムのリリースは途絶えている。なお、最後の「Process for Love」はタイトル曲である。
+[渡辺直樹が全曲のベース演奏に参加したアルバム](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")。以降、たかじん自身が消極的であるため、オリジナル・アルバムのリリースは途絶えている。なお、最後の「Process for Love」はタイトル曲である。
 
 ## 収録曲
 
 1.  **[惚れた弱み](https://ja.wikipedia.org/wiki/惚れた弱み "wikilink")**
       -
-        作詞:[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink") 作曲:川上明彦 編曲：[芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink")
+        作詞:[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink") 作曲:川上明彦 編曲：[芳野藤丸](../Page/芳野藤丸.md "wikilink")
 2.  **笑うしかないさ**
       -
         作詞:及川眠子 作曲:坂本洋 編曲：芳野藤丸
@@ -20,7 +20,7 @@
         作詞:及川眠子 作曲:坂本洋 編曲：芳野藤丸
 4.  **最後のネクタイ**
       -
-        作詞:伊藤薫 作曲:川上明彦 編曲：[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作詞:伊藤薫 作曲:川上明彦 編曲：[若草恵](../Page/若草恵.md "wikilink")
 5.  **待ってあげて**
       -
         作詞:及川眠子 作曲:[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") 編曲：[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
@@ -43,6 +43,6 @@
 
 ## 関連項目
 
-  - [PIECE OF MY SOUL](https://ja.wikipedia.org/wiki/PIECE_OF_MY_SOUL "wikilink") - 当アルバム同様、[渡辺直樹が全曲に参加した](https://ja.wikipedia.org/wiki/渡辺直樹_\(ミュージシャン\) "wikilink")[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")のアルバム。
+  - [PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink") - 当アルバム同様、[渡辺直樹が全曲に参加した](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")[WANDS](../Page/WANDS.md "wikilink")のアルバム。
 
 [Category:やしきたかじんのアルバム](https://ja.wikipedia.org/wiki/Category:やしきたかじんのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink")

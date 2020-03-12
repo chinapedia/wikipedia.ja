@@ -1,7 +1,7 @@
 > この記事は[SMAP 012 VIVA AMIGOS!](https://ja.wikipedia.org/wiki/SMAP_012_VIVA_AMIGOS!)から翻訳されています。
 
 
-『**SMAP 012 VIVA AMIGOS\!**』（スマップ ゼロワンツー ビバ アミーゴス\!）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の11作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[ビクターエンタテインメントから発売された](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。
+『**SMAP 012 VIVA AMIGOS\!**』（スマップ ゼロワンツー ビバ アミーゴス\!）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の11作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 
@@ -13,11 +13,11 @@
 
 1.  **Theme of 012**（inst.）
       -
-        作曲・編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")、コーラスアレンジ：Janis Siegel & Roger Treece
+        作曲・編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")、コーラスアレンジ：Janis Siegel & Roger Treece
         2ndインストゥルメンタルアルバム「[Smappies II](https://ja.wikipedia.org/wiki/Smappies_II "wikilink")」にも収録されている。
 2.  **[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")**
       -
-        作詞：飯塚麻純、作曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")、編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+        作詞：飯塚麻純、作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")、編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
     <!-- end list -->
       - 26thシングル
     <!-- end list -->
@@ -30,7 +30,7 @@
       -
         作詞：相田毅、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
         2ndインストゥルメンタルアルバムにも収録されている。
-5.  **[たいせつ](https://ja.wikipedia.org/wiki/たいせつ "wikilink")**
+5.  **[たいせつ](../Page/たいせつ.md "wikilink")**
       -
         作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：[小森田実](../Page/小森田実.md "wikilink")、編曲：長岡成貢、コーラスアレンジ：佐々木久美
     <!-- end list -->
@@ -38,13 +38,13 @@
     <!-- end list -->
       -
         表記はないが、アルバムバージョンである。
-6.  **ひと駅歩こう** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
+6.  **ひと駅歩こう** - [木村拓哉](../Page/木村拓哉.md "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
       -
         作詞：三井拓、作曲：谷本新、編曲：谷本新・佐々木章
         4thベストアルバム「[pamS](https://ja.wikipedia.org/wiki/pamS "wikilink")」にも収録されている。
-7.  **[夜空ノムコウ](https://ja.wikipedia.org/wiki/夜空ノムコウ "wikilink")**
+7.  **[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")**
       -
-        作詞：[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")、作曲：[川村結花](../Page/川村結花.md "wikilink")、編曲：CHOKKAKU
+        作詞：[スガシカオ](../Page/スガシカオ.md "wikilink")、作曲：[川村結花](../Page/川村結花.md "wikilink")、編曲：CHOKKAKU
     <!-- end list -->
       - 27thシングル
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")」テーマソング
@@ -80,15 +80,15 @@
 
 ### Theme of 012
 
-  - Drums: [Steve Smith](https://ja.wikipedia.org/wiki/スティーヴ・スミス_\(ドラマー\) "wikilink")
+  - Drums: [Steve Smith](../Page/スティーヴ・スミス_\(ドラマー\).md "wikilink")
   - Bass: [Will Lee](../Page/ウィル・リー.md "wikilink")
   - Soprano Sax: Kenny Garrett
-  - Chorus & Voices: [The Manhattan Transfer](https://ja.wikipedia.org/wiki/マンハッタン・トランスファー "wikilink") (Janis Siegel, Cheryl Bentyne, Tim Hauser, Alan Paul)
-  - Other Instruments: [CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+  - Chorus & Voices: [The Manhattan Transfer](../Page/マンハッタン・トランスファー.md "wikilink") (Janis Siegel, Cheryl Bentyne, Tim Hauser, Alan Paul)
+  - Other Instruments: [CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 
 ### Peace\!
 
-  - Drums: [Omar Hakim](https://ja.wikipedia.org/wiki/オマー・ハキム "wikilink")
+  - Drums: [Omar Hakim](../Page/オマー・ハキム.md "wikilink")
   - Bass: Will Lee
   - Guitar: Mike Campbell
   - Fender Rhodes: [Philippe Saisse](../Page/フィリップ・セス.md "wikilink")
@@ -104,7 +104,7 @@
 ### Possession Possession
 
   - Drums: Omar Hakim
-  - Bass: [Hideki Matsubara](https://ja.wikipedia.org/wiki/松原秀樹 "wikilink")
+  - Bass: [Hideki Matsubara](../Page/松原秀樹.md "wikilink")
   - Guitar: CHOKKAKU
   - Tenor Sax Solo: Lenny Picket
   - Super Sax Section
@@ -179,7 +179,7 @@
   - Drums: Steve Smith
   - Bass: Will Lee
   - Guitar: CHOKKAKU
-  - E.Piano: [Yasuharu Nakanishi](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - E.Piano: [Yasuharu Nakanishi](../Page/中西康晴.md "wikilink")
   - Chorus: Masayuki Iwata
   - Other Instruments: CHOKKAKU
 

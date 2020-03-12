@@ -7,15 +7,15 @@
 
 ## 概要
 
-プレイする時間帯に合わせて列車の運行時間帯が変わる「リアルタイムモード」を採用したほか、[ホームで乗客が](../Page/プラットホーム.md "wikilink")[駆け込み乗車](https://ja.wikipedia.org/wiki/駆け込み乗車 "wikilink")をして[車掌](../Page/車掌.md "wikilink")がドアを再開閉するシーンなども見られる（発車時刻も若干遅れる）。
+プレイする時間帯に合わせて列車の運行時間帯が変わる「リアルタイムモード」を採用したほか、[ホームで乗客が](../Page/プラットホーム.md "wikilink")[駆け込み乗車](../Page/駆け込み乗車.md "wikilink")をして[車掌](../Page/車掌.md "wikilink")がドアを再開閉するシーンなども見られる（発車時刻も若干遅れる）。
 
 従来のゲームモードに加え、数駅の間を持ち時間の設定なしで自由に運転できる「ファミリーモード」（フリー運転モード）と、上級者向けの「鉄人モード」を追加されたが、鉄人モードは「ダイヤが非常にタイト」「残り距離・ブレーキの状態・速度制限予告が非表示」「残り時間の増減がインフレ」「コンティニュー不可」という、ゲームを極めたプレイヤーをターゲットにしたものである。
 
-また[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用した、ネットワークランキングも公開された。
+また[インターネット](../Page/インターネット.md "wikilink")を利用した、ネットワークランキングも公開された。
 
-前作まで音楽を担当していた[古川典裕](https://ja.wikipedia.org/wiki/古川典裕 "wikilink")（中山上等兵）にかわり、今作では[瓜田幸治](https://ja.wikipedia.org/wiki/瓜田幸治 "wikilink")が音楽と効果音を担当している。
+前作まで音楽を担当していた[古川典裕](https://ja.wikipedia.org/wiki/古川典裕 "wikilink")（中山上等兵）にかわり、今作では[瓜田幸治](../Page/瓜田幸治.md "wikilink")が音楽と効果音を担当している。
 
-アーケード版では本作より[システム基板として](https://ja.wikipedia.org/wiki/アーケードゲーム基板 "wikilink")、従来の[JCシステム](https://ja.wikipedia.org/wiki/JCシステム "wikilink")よりも高性能な[Type-Zero](https://ja.wikipedia.org/wiki/Type-Zero "wikilink")を採用。車両のドア開閉や窓のシースルー化、[電化区間での](../Page/鉄道の電化.md "wikilink")[架線](../Page/架線.md "wikilink")の表現や処理落ちの激減など、グラフィック面で大幅な進化が見られた。そのかわりロード時間は延びている。
+アーケード版では本作より[システム基板として](../Page/アーケードゲーム基板.md "wikilink")、従来の[JCシステム](https://ja.wikipedia.org/wiki/JCシステム "wikilink")よりも高性能な[Type-Zero](https://ja.wikipedia.org/wiki/Type-Zero "wikilink")を採用。車両のドア開閉や窓のシースルー化、[電化区間での](../Page/鉄道の電化.md "wikilink")[架線](../Page/架線.md "wikilink")の表現や処理落ちの激減など、グラフィック面で大幅な進化が見られた。そのかわりロード時間は延びている。
 
 筐体の仕様は基本的にこれまでとあまり変わらないが、スピーカーの色がシルバー→レッドに、側面やシートの色がレッド+ブラックからライトグリーン+ダークグリーンに変更されたほか、インストを小型化することで実車のような懐中時計を入れるスペースが追加された。
 
@@ -50,15 +50,15 @@ PS2版は電車でGO\!シリーズ初の[PlayStation 2移植作品であり](htt
 ## 収録路線・車両
 
   - [篠栗線](https://ja.wikipedia.org/wiki/篠栗線 "wikilink")
-    [篠栗](https://ja.wikipedia.org/wiki/篠栗駅 "wikilink")→[博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")、[キハ58系](../Page/国鉄キハ58系気動車.md "wikilink")・[キハ66系](../Page/国鉄キハ66系気動車.md "wikilink")・[キハ200系](https://ja.wikipedia.org/wiki/JR九州キハ200系気動車 "wikilink")
-    開発当時[篠栗線](https://ja.wikipedia.org/wiki/篠栗線 "wikilink")が電化開業直前で、車両は[気動車](../Page/気動車.md "wikilink")だが線路脇には[架線柱が立っている](https://ja.wikipedia.org/wiki/電柱 "wikilink")。また[吉塚駅](https://ja.wikipedia.org/wiki/吉塚駅 "wikilink")も高架化工事中だった。
+    [篠栗](https://ja.wikipedia.org/wiki/篠栗駅 "wikilink")→[博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")、[キハ58系](../Page/国鉄キハ58系気動車.md "wikilink")・[キハ66系](../Page/国鉄キハ66系気動車.md "wikilink")・[キハ200系](../Page/JR九州キハ200系気動車.md "wikilink")
+    開発当時[篠栗線](https://ja.wikipedia.org/wiki/篠栗線 "wikilink")が電化開業直前で、車両は[気動車](../Page/気動車.md "wikilink")だが線路脇には[架線柱が立っている](../Page/電柱.md "wikilink")。また[吉塚駅](https://ja.wikipedia.org/wiki/吉塚駅 "wikilink")も高架化工事中だった。
     キハ58系はセレクトボタンを路線選択画面で押すとキハ66から変化。性能は山陰本線のものと変わらないが、こちらの方が若干難易度が低い。
   - [鹿児島本線](https://ja.wikipedia.org/wiki/鹿児島本線 "wikilink")
-    [二日市](https://ja.wikipedia.org/wiki/二日市駅 "wikilink")→博多、[811系](../Page/JR九州811系電車.md "wikilink")・[813系](../Page/JR九州813系電車.md "wikilink") - 鳥栖→博多、[787系](../Page/JR九州787系電車.md "wikilink")・[キハ72系](https://ja.wikipedia.org/wiki/JR九州キハ72系気動車 "wikilink")
+    [二日市](https://ja.wikipedia.org/wiki/二日市駅 "wikilink")→博多、[811系](../Page/JR九州811系電車.md "wikilink")・[813系](../Page/JR九州813系電車.md "wikilink") - 鳥栖→博多、[787系](../Page/JR九州787系電車.md "wikilink")・[キハ72系](../Page/JR九州キハ72系気動車.md "wikilink")
     開発当時は[弥生が丘駅](https://ja.wikipedia.org/wiki/弥生が丘駅 "wikilink")が開業直前で、付近には工事中であることを知らせるため警笛標識が設置されている\[1\]。
     キハ72系[ゆふいんの森に限り](https://ja.wikipedia.org/wiki/ゆふ_\(列車\)#ゆふいんの森 "wikilink")、朝のダイヤが設定されていないため朝を選ぼうとしても昼のダイヤで運転する事になる。
   - [山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")（通称[JR神戸線](../Page/JR神戸線.md "wikilink")）
-    [神戸](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")→[西明石](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")、[201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")・[205系](https://ja.wikipedia.org/wiki/国鉄205系電車 "wikilink")・[207系](../Page/JR西日本207系電車.md "wikilink")・[221系](../Page/JR西日本221系電車.md "wikilink")・[223系](https://ja.wikipedia.org/wiki/JR西日本223系電車 "wikilink")
+    [神戸](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")→[西明石](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")、[201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")・[205系](../Page/国鉄205系電車.md "wikilink")・[207系](../Page/JR西日本207系電車.md "wikilink")・[221系](../Page/JR西日本221系電車.md "wikilink")・[223系](https://ja.wikipedia.org/wiki/JR西日本223系電車 "wikilink")
   - [山陰本線](https://ja.wikipedia.org/wiki/山陰本線 "wikilink")（通称[嵯峨野線](https://ja.wikipedia.org/wiki/嵯峨野線 "wikilink")）
     [亀岡](../Page/亀岡駅.md "wikilink")→[京都](https://ja.wikipedia.org/wiki/京都駅 "wikilink")、[キハ58系](../Page/国鉄キハ58系気動車.md "wikilink")
     この路線は初代とプロフェッショナル仕様に収録された電化前の旧線のもので、グラフィックなどを改良して再収録。ただしこれまでの作品に比べ車両性能が低く設定されているので、難易度は高くなっている。
@@ -110,7 +110,7 @@ AC:[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki
 
 通勤編で隠し路線だった路線が最初から運転できるほか、タイトル通り一部区間における厳しいダイヤの見直しがされた。また運転時に上部の景色が隠れず、見やすくなった。また、デジタル速度計が常時表示されている（非表示も可能）。運転評価も0.1点単位から1点単位に変更されている。
 
-Windows版としても[アンバランスから発売された](https://ja.wikipedia.org/wiki/アンバランス_\(ゲーム会社\) "wikilink")。インターネットに接続し、スコアを登録できた。
+Windows版としても[アンバランスから発売された](../Page/アンバランス_\(ゲーム会社\).md "wikilink")。インターネットに接続し、スコアを登録できた。
 
 アーケード版では『がんばれ運転士\!』と同時期の発売だったため、出回った数はごく少ない。
 

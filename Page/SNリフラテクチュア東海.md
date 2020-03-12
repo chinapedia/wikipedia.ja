@@ -1,7 +1,7 @@
 > この記事は[SN](https://ja.wikipedia.org/wiki/SN)から翻訳されています。
 
 
-**株式会社SNリフラテクチュア東海**（えすえぬリフラテクチュアとうかい、*SN Refratecture Tokai Co., Ltd.* 、**SNRT**）は[製鉄所](https://ja.wikipedia.org/wiki/製鉄所 "wikilink")で使用される[連続鋳造](https://ja.wikipedia.org/wiki/連続鋳造 "wikilink")用の[耐火物](https://ja.wikipedia.org/wiki/耐火物 "wikilink")メーカーであり、[黒崎播磨](https://ja.wikipedia.org/wiki/黒崎播磨 "wikilink")の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")である。
+**株式会社SNリフラテクチュア東海**（えすえぬリフラテクチュアとうかい、*SN Refratecture Tokai Co., Ltd.* 、**SNRT**）は[製鉄所](../Page/製鉄所.md "wikilink")で使用される[連続鋳造](../Page/連続鋳造.md "wikilink")用の[耐火物](../Page/耐火物.md "wikilink")メーカーであり、[黒崎播磨](../Page/黒崎播磨.md "wikilink")の[子会社](../Page/子会社.md "wikilink")である。
 
 ## 概要
 
@@ -9,12 +9,12 @@
 
 ## 主要事業所
 
-  - 刈谷事業所 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")[小垣江町](https://ja.wikipedia.org/wiki/小垣江町 "wikilink")南藤1
-  - 鹿島工場　- [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[鹿嶋市](../Page/鹿嶋市.md "wikilink")光3番地（[日本製鉄鹿島製鉄所](https://ja.wikipedia.org/wiki/日本製鉄鹿島製鉄所 "wikilink")構内）
+  - 刈谷事業所 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")[小垣江町](https://ja.wikipedia.org/wiki/小垣江町 "wikilink")南藤1
+  - 鹿島工場　- [茨城県](../Page/茨城県.md "wikilink")[鹿嶋市](../Page/鹿嶋市.md "wikilink")光3番地（[日本製鉄鹿島製鉄所](../Page/日本製鉄鹿島製鉄所.md "wikilink")構内）
 
 ## 沿革
 
-  - [2004年](../Page/2004年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - 東芝セラミックス（現・[クアーズテック](https://ja.wikipedia.org/wiki/クアーズテック "wikilink")）・黒崎播磨の業務提携に伴い会社発足。
+  - [2004年](../Page/2004年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - 東芝セラミックス（現・[クアーズテック](../Page/クアーズテック.md "wikilink")）・黒崎播磨の業務提携に伴い会社発足。
 
 ## 脚注
 

@@ -5,19 +5,19 @@
 
 [Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")や[モバイルSuica](../Page/モバイルSuica.md "wikilink")など主要なサービスには対応しており、その他のサービスについてもソフトバンク機種のみ対応していないというケースは少なくなった（ただし、NTTドコモのおサイフケータイのみに対応するサービスも依然としてある）。
 
-このFeliCa ICチップを内蔵したソフトバンクモバイルの携帯電話を他社と同様に「[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")」と呼ぶ。おサイフケータイは[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の登録商標であり、許可を得て使用している。
+このFeliCa ICチップを内蔵したソフトバンクモバイルの携帯電話を他社と同様に「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」と呼ぶ。おサイフケータイは[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の登録商標であり、許可を得て使用している。
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")
-      - [Vodafone 703SHfでサービスを開始した](https://ja.wikipedia.org/wiki/Vodafone_703SHf "wikilink")。発売の時点で、703SHfはおサイフケータイ最小サイズであった。
+  - [2005年](../Page/2005年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")
+      - [Vodafone 703SHfでサービスを開始した](../Page/Vodafone_703SHf.md "wikilink")。発売の時点で、703SHfはおサイフケータイ最小サイズであった。
       - [Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")のモバイルサービスを開始。
       - ANAモバイルAMCアプリのモバイルサービスを開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [10月1日](../Page/10月1日.md "wikilink") - ボーダフォンがソフトバンクモバイルに社名変更されたことから、サービスの名称を「Vodafone Live\!Felica」から「S\!FeliCa」に変更。
       - [12月2日](../Page/12月2日.md "wikilink") - [モバイルSuica](../Page/モバイルSuica.md "wikilink")サービスを開始。
   - [2007年](../Page/2007年.md "wikilink")
-      - [4月2日](../Page/4月2日.md "wikilink") - NTTドコモと[コカコーラ](https://ja.wikipedia.org/wiki/コカコーラ "wikilink")が共同開発した電子マネー[Cmode](https://ja.wikipedia.org/wiki/Cmode "wikilink")にサービス対応。
+      - [4月2日](../Page/4月2日.md "wikilink") - NTTドコモと[コカコーラ](https://ja.wikipedia.org/wiki/コカコーラ "wikilink")が共同開発した電子マネー[Cmode](../Page/Cmode.md "wikilink")にサービス対応。
       - [6月4日](../Page/6月4日.md "wikilink") - [Mobile Edyのサービスに対応](https://ja.wikipedia.org/wiki/Edy#インターネット上での利用 "wikilink")。
       - [9月12日](../Page/9月12日.md "wikilink") - [nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")モバイルのサービスを開始。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [WAON](../Page/WAON.md "wikilink")モバイルのサービスを開始。
@@ -34,7 +34,7 @@
   - [814T](../Page/SoftBank_814T.md "wikilink")
   - [815T/815T PB](https://ja.wikipedia.org/wiki/SoftBank_815T "wikilink")
   - [830T](https://ja.wikipedia.org/wiki/SoftBank_830T "wikilink")
-  - [904T](https://ja.wikipedia.org/wiki/Vodafone_904T "wikilink")<span style="font-size:0.69em;color:red;">※</span>
+  - [904T](../Page/Vodafone_904T.md "wikilink")<span style="font-size:0.69em;color:red;">※</span>
   - [911T](https://ja.wikipedia.org/wiki/SoftBank_911T "wikilink")
   - [912T](../Page/SoftBank_912T.md "wikilink")
   - [920T](https://ja.wikipedia.org/wiki/SoftBank_911T "wikilink")
@@ -44,10 +44,10 @@
 
 ### シャープ製
 
-  - [703SHf](https://ja.wikipedia.org/wiki/Vodafone_703SHf "wikilink")<span style="font-size:0.69em;color:red;">※</span>
-  - [804SH](https://ja.wikipedia.org/wiki/Vodafone_804SH "wikilink")<span style="font-size:0.69em;color:red;">※</span>
-  - [810SH](https://ja.wikipedia.org/wiki/SoftBank_810SH "wikilink")
-  - [811SH](https://ja.wikipedia.org/wiki/SoftBank_811SH "wikilink")
+  - [703SHf](../Page/Vodafone_703SHf.md "wikilink")<span style="font-size:0.69em;color:red;">※</span>
+  - [804SH](../Page/Vodafone_804SH.md "wikilink")<span style="font-size:0.69em;color:red;">※</span>
+  - [810SH](../Page/SoftBank_810SH.md "wikilink")
+  - [811SH](../Page/SoftBank_811SH.md "wikilink")
   - [812SH/812SHs/812SHsII](https://ja.wikipedia.org/wiki/SoftBank_812SH "wikilink")
   - [813SH](../Page/SoftBank_813SH.md "wikilink")
   - [814SH](../Page/SoftBank_814SH.md "wikilink")
@@ -61,10 +61,10 @@
   - [832SH/832SHs](https://ja.wikipedia.org/wiki/SoftBank_832SH "wikilink")◎
   - [841SH/841SHs](https://ja.wikipedia.org/wiki/SoftBank_841SH "wikilink")◎
   - [842SH](https://ja.wikipedia.org/wiki/SoftBank_842SH "wikilink")◎
-  - [904SH](https://ja.wikipedia.org/wiki/Vodafone_904SH "wikilink")
-  - [905SH](https://ja.wikipedia.org/wiki/Vodafone_905SH "wikilink")
-  - [910SH](https://ja.wikipedia.org/wiki/SoftBank_910SH "wikilink")
-  - [911SH](https://ja.wikipedia.org/wiki/SoftBank_911SH "wikilink")
+  - [904SH](../Page/Vodafone_904SH.md "wikilink")
+  - [905SH](../Page/Vodafone_905SH.md "wikilink")
+  - [910SH](../Page/SoftBank_910SH.md "wikilink")
+  - [911SH](../Page/SoftBank_911SH.md "wikilink")
   - [912SH](../Page/SoftBank_912SH.md "wikilink")
   - [913SH/913SH G](../Page/SoftBank_913SH.md "wikilink")
   - [920SH](../Page/SoftBank_920SH.md "wikilink")
@@ -132,7 +132,7 @@
 
 ## 関連項目
 
-  - [おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")
+  - [おサイフケータイ](../Page/おサイフケータイ.md "wikilink")
   - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")
   - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")
 

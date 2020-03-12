@@ -7,9 +7,9 @@
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、音楽ジャーナリストのマーティン・フライ（ボーカル）と、ヴァイス・ヴァーサというバンドが合体し結成。フライとマーク・ホワイト（ギター、キーボード）以外のメンバーは流動的である。
 
-1980年代前半、イギリスの[ニューロマンティック](../Page/ニューロマンティック.md "wikilink")系アーティストが[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")によるビジュアル効果を利用してアメリカのヒットチャートを席巻し、「[第2次ブリティッシュ・インヴェイジョン](https://ja.wikipedia.org/wiki/第2次ブリティッシュ・インヴェイジョン "wikilink")」と呼ばれる一大ムーブメントを巻き起こした。ABCもその例に漏れず、ダンディかつきらびやかな[ジゴロ](https://ja.wikipedia.org/wiki/ジゴロ "wikilink")的イメージ戦略でブームに乗り、[1982年](../Page/1982年.md "wikilink")に英米で「The Look Of Love（ルック・オブ・ラブ）」のヒットを放った。この曲は日本でもディスコで連日流されるほどの大ヒットとなる。
+1980年代前半、イギリスの[ニューロマンティック](../Page/ニューロマンティック.md "wikilink")系アーティストが[MTV](../Page/MTV.md "wikilink")によるビジュアル効果を利用してアメリカのヒットチャートを席巻し、「[第2次ブリティッシュ・インヴェイジョン](https://ja.wikipedia.org/wiki/第2次ブリティッシュ・インヴェイジョン "wikilink")」と呼ばれる一大ムーブメントを巻き起こした。ABCもその例に漏れず、ダンディかつきらびやかな[ジゴロ](../Page/ジゴロ.md "wikilink")的イメージ戦略でブームに乗り、[1982年](../Page/1982年.md "wikilink")に英米で「The Look Of Love（ルック・オブ・ラブ）」のヒットを放った。この曲は日本でもディスコで連日流されるほどの大ヒットとなる。
 
-ファーストアルバム『The Lexicon Of Love』からは「Tears Are Not Enough（涙まだまだ）」（全英19位）「Poison Arrow」（全英6位）「The Look Of Love」（全英4位）「All Of My Heart（我が心のすべてを）」（全英5位）と4曲ものビッグヒットを放ち、初登場でいきなり全英アルバムチャート1位となった。更に収録曲の一つであった「Valentine's Day」が、[本田技研工業](../Page/本田技研工業.md "wikilink")が[1982年](../Page/1982年.md "wikilink")発表した[スクーター](https://ja.wikipedia.org/wiki/スクーター "wikilink")「[リード](https://ja.wikipedia.org/wiki/ホンダ・リード "wikilink")」のCMソングに採用され、日本国内のみシングルカットされ発売された。
+ファーストアルバム『The Lexicon Of Love』からは「Tears Are Not Enough（涙まだまだ）」（全英19位）「Poison Arrow」（全英6位）「The Look Of Love」（全英4位）「All Of My Heart（我が心のすべてを）」（全英5位）と4曲ものビッグヒットを放ち、初登場でいきなり全英アルバムチャート1位となった。更に収録曲の一つであった「Valentine's Day」が、[本田技研工業](../Page/本田技研工業.md "wikilink")が[1982年](../Page/1982年.md "wikilink")発表した[スクーター](../Page/スクーター.md "wikilink")「[リード](https://ja.wikipedia.org/wiki/ホンダ・リード "wikilink")」のCMソングに採用され、日本国内のみシングルカットされ発売された。
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")セカンドアルバム『Beauty Stab（ビューティ・スタッブ）』をリリース。ライブ感溢れるエネルギッシュな作品ではあったが、余りにも前作が売れすぎた為か、あるいは前作とはかけ離れたハードなロック路線に転向した為か、セールスは芳しいものではなかった。
 
@@ -21,9 +21,9 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、長い沈黙を破り、マーティン・フライがABC名義で復活。『Skyscraping（スカイスクレイピング）』をリリース。
 
-現在もセッションメンバーを加えながら[ディナーショー](https://ja.wikipedia.org/wiki/ディナーショー "wikilink")や[懐メロ](../Page/懐メロ.md "wikilink")コンサートなどで音楽活動を続けている。
+現在もセッションメンバーを加えながら[ディナーショー](../Page/ディナーショー.md "wikilink")や[懐メロ](../Page/懐メロ.md "wikilink")コンサートなどで音楽活動を続けている。
 
-[2004年](../Page/2004年.md "wikilink")、[トレヴァー・ホーン](https://ja.wikipedia.org/wiki/トレヴァー・ホーン "wikilink")のイベントに元ドラマー、デヴィッド・パーマーを迎えてライブに出演する。 このライブの模様は『Produced by Trevor Horn』というDVDにも収録されている。
+[2004年](../Page/2004年.md "wikilink")、[トレヴァー・ホーン](../Page/トレヴァー・ホーン.md "wikilink")のイベントに元ドラマー、デヴィッド・パーマーを迎えてライブに出演する。 このライブの模様は『Produced by Trevor Horn』というDVDにも収録されている。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、元ドラマー、デヴィッド・パーマーを迎えてアルバム『Traffic（トラフィック）』をリリース。
 

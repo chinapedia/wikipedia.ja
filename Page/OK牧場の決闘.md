@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1881年](../Page/1881年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、[ワイアット・アープ](../Page/ワイアット・アープ.md "wikilink")らを始めとする市[保安官](../Page/保安官.md "wikilink")たちと、クラントン兄弟をはじめとする****が[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[コチセ郡](https://ja.wikipedia.org/wiki/コチセ郡_\(アリゾナ州\) "wikilink")\[1\][トゥームストーン](../Page/トゥームストーン.md "wikilink")の町で撃ち合い銃撃戦となった\[2\]。これは正式な意味での[決闘](https://ja.wikipedia.org/wiki/決闘 "wikilink")ではなく、表面的には市保安官が銃不法所持者を武装解除しようとした際に発生した銃撃戦と言える。
+[1881年](../Page/1881年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、[ワイアット・アープ](../Page/ワイアット・アープ.md "wikilink")らを始めとする市[保安官](../Page/保安官.md "wikilink")たちと、クラントン兄弟をはじめとする****が[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[コチセ郡](https://ja.wikipedia.org/wiki/コチセ郡_\(アリゾナ州\) "wikilink")\[1\][トゥームストーン](../Page/トゥームストーン.md "wikilink")の町で撃ち合い銃撃戦となった\[2\]。これは正式な意味での[決闘](../Page/決闘.md "wikilink")ではなく、表面的には市保安官が銃不法所持者を武装解除しようとした際に発生した銃撃戦と言える。
 
 そして実際にはアープ組とカウボーイズ組とのさまざまな確執の結果であるというのが今日の見方である。すでに[ダッジシティで保安官として名を馳せたワイアット](../Page/ドッジシティ.md "wikilink")・アープが、[1879年](../Page/1879年.md "wikilink")の12月1日、銀鉱山であるトゥームストーンへ一旗揚げようと兄弟のとの家族と共にやって来た。当初はまだカウボーイズらとの仲は悪くなかったと言われている。それが銃撃戦にまで至る事情はおおむね次のような原因が重なったためと言われている。
 
@@ -17,13 +17,13 @@
 
 当日は、「フライ写真館の隣にある空き地から、フリモントストリートに出たあたりで、カウボーイズ組が銃を所持しているので、武装解除するべきだ」と市民の忠告を受けた、バージル・アープは、彼らをただ武装解除するだけのつもりで出かけた。 決闘は、郡保安官の仲裁も失敗に終わり、約30秒、30発の銃弾でほとんど至近距離での撃ち合いとなった。
 
-決闘後、アープ組は全員殺人罪で起訴されたが、全員無罪となった。この判決を受け、カウボーイズ組はバージルとモーガンを闇討ちし、バージルは腕を、モーガンは命を失う。その後、ワイアット・アープら自警団は、モーガン殺害の実行犯と見られたを[ツーソン](https://ja.wikipedia.org/wiki/ツーソン "wikilink")駅構内で殺害したと言われている。
+決闘後、アープ組は全員殺人罪で起訴されたが、全員無罪となった。この判決を受け、カウボーイズ組はバージルとモーガンを闇討ちし、バージルは腕を、モーガンは命を失う。その後、ワイアット・アープら自警団は、モーガン殺害の実行犯と見られたを[ツーソン](../Page/ツーソン.md "wikilink")駅構内で殺害したと言われている。
 
 その後、ワイアットとドクはロサンゼルスへと移ったが恩赦はおりず、貧困を極めたが、やがて1920年代に当時映画撮影の中心地となったハリウッドで西部劇の決闘の演技を指導する仕事に就いた\[3\]。そしてその折りにワイアットはこの決闘を題材として売り込んだと言われている。
 
 ## 決闘の名称について
 
-「OK牧場の決闘」の名称は、[1957年](../Page/1957年.md "wikilink")に[ジョン・スタージェス](../Page/ジョン・スタージェス.md "wikilink")監督が制作した西部劇映画『[OK牧場の決斗](https://ja.wikipedia.org/wiki/OK牧場の決斗 "wikilink")』の邦題に由来する。映画の原題（および英語での事件名）である*Gunfight at the O.K. Corral*は直訳すれば「OKコラルの銃撃戦」となる。コラルとは家畜の囲いを意味し、[牧場](https://ja.wikipedia.org/wiki/牧場 "wikilink")の畜舎を指すこともあるが、ここでは旅の集団が牛や馬を一時的に預けたり繋いでおくために用いられる、西部開拓時代特有の囲い場を指し、実際に映画の中で描かれている「O.K. Corral(オーケー・コラル)」も町はずれにあって柵で囲ってあるだけの簡素な囲い込み場で\[4\]、一般的な意味での[牧場](https://ja.wikipedia.org/wiki/牧場 "wikilink")ではない\[5\]。
+「OK牧場の決闘」の名称は、[1957年](../Page/1957年.md "wikilink")に[ジョン・スタージェス](../Page/ジョン・スタージェス.md "wikilink")監督が制作した西部劇映画『[OK牧場の決斗](../Page/OK牧場の決斗.md "wikilink")』の邦題に由来する。映画の原題（および英語での事件名）である*Gunfight at the O.K. Corral*は直訳すれば「OKコラルの銃撃戦」となる。コラルとは家畜の囲いを意味し、[牧場](../Page/牧場.md "wikilink")の畜舎を指すこともあるが、ここでは旅の集団が牛や馬を一時的に預けたり繋いでおくために用いられる、西部開拓時代特有の囲い場を指し、実際に映画の中で描かれている「O.K. Corral(オーケー・コラル)」も町はずれにあって柵で囲ってあるだけの簡素な囲い込み場で\[4\]、一般的な意味での[牧場](../Page/牧場.md "wikilink")ではない\[5\]。
 しかしこの映画の日本公開にあたり、配給会社が「OKコラルの決闘」では分かりにくいので「OK牧場の決闘」と意訳し\[6\]、この映画を受けて日本では史実の決闘のことも「OK牧場の決闘」と呼ぶようになった。映画の題名がそのまま史実の名称として語られることになった珍しい例といえる。
 
 ## 関係者
@@ -60,12 +60,12 @@
   - 映画 *[Frontier Marshal](https://ja.wikipedia.org/wiki/:en:Frontier_Marshal "wikilink")* ([1939年](../Page/1939年.md "wikilink"))
       - ランドルフ・スコット主演。前述の『国境守備隊』と同じ原作であるが、少し変えている。このプロットは7年後『荒野の決闘』でも踏襲されている。
   - 映画 *[Tombstone, the Town Too Tough to Die](https://ja.wikipedia.org/wiki/:en:Tombstone,_the_Town_Too_Tough_to_Die "wikilink")* ([1942年](../Page/1942年.md "wikilink"))
-  - 映画『[荒野の決闘](https://ja.wikipedia.org/wiki/荒野の決闘 "wikilink")（荒野の決闘/いとしのクレメンタイン）』 *[My Darling Clementine](https://ja.wikipedia.org/wiki/:en:My_Darling_Clementine "wikilink")* ([1946年](../Page/1946年.md "wikilink"))
-      - [ジョン・フォード](https://ja.wikipedia.org/wiki/ジョン・フォード "wikilink")監督作品。ヘンリー・フォンダ主演。史実とは大きく異なった内容で詩情を謳い上げている。
+  - 映画『[荒野の決闘](../Page/荒野の決闘.md "wikilink")（荒野の決闘/いとしのクレメンタイン）』 *[My Darling Clementine](https://ja.wikipedia.org/wiki/:en:My_Darling_Clementine "wikilink")* ([1946年](../Page/1946年.md "wikilink"))
+      - [ジョン・フォード](../Page/ジョン・フォード.md "wikilink")監督作品。ヘンリー・フォンダ主演。史実とは大きく異なった内容で詩情を謳い上げている。
       - 1939年の*[Frontier Marshal](https://ja.wikipedia.org/wiki/:en:Frontier_Marshal "wikilink")*のリメイクでもある。
   - TVシリーズ『[保安官ワイアット・アープ](https://ja.wikipedia.org/wiki/保安官ワイアット・アープ "wikilink")』 *[The Life and Legend of Wyatt Earp](https://ja.wikipedia.org/wiki/:en:The_Life_and_Legend_of_Wyatt_Earp "wikilink")* ([1955年](../Page/1955年.md "wikilink"))
       - ヒュー・オブライエン主演。1955年秋から6シーズン全226話放映されたテレビ西部劇（30分）。このシリーズの最終話で決闘を描いている。
-  - 映画『[OK牧場の決斗](https://ja.wikipedia.org/wiki/OK牧場の決斗 "wikilink")』 *[Gunfight at the O.K. Corral](https://ja.wikipedia.org/wiki/:en:Gunfight_at_the_O.K._Corral_\(1957_film\) "wikilink")* ([1957年](../Page/1957年.md "wikilink"))
+  - 映画『[OK牧場の決斗](../Page/OK牧場の決斗.md "wikilink")』 *[Gunfight at the O.K. Corral](https://ja.wikipedia.org/wiki/:en:Gunfight_at_the_O.K._Corral_\(1957_film\) "wikilink")* ([1957年](../Page/1957年.md "wikilink"))
       - [ジョン・スタージェス](../Page/ジョン・スタージェス.md "wikilink")監督作品。バート・ランカスター主演。史実と異なりOK牧場の決闘で抗争の決着がつく娯楽活劇となっている。
   - TVシリーズ『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』のシリアル（連続した数話） *[The Gunfighters](https://ja.wikipedia.org/wiki/:en:The_Gunfighters "wikilink")* ([1966年](../Page/1966年.md "wikilink"))
   - 映画『[墓石と決闘](https://ja.wikipedia.org/wiki/墓石と決闘 "wikilink")』 *[Hour of the Gun](https://ja.wikipedia.org/wiki/:en:Hour_of_the_Gun "wikilink")* ([1967年](../Page/1967年.md "wikilink"))
@@ -76,9 +76,9 @@
   - 映画『[トゥームストーン](https://ja.wikipedia.org/wiki/トゥームストーン_\(映画\) "wikilink")』 *[Tombstone](https://ja.wikipedia.org/wiki/:en:Tombstone_\(film\) "wikilink")* ([1993年](../Page/1993年.md "wikilink"))
       - [ジョージ・P・コスマトス](https://ja.wikipedia.org/wiki/ジョージ・P・コスマトス "wikilink")監督作品。カート・ラッセル主演。「OK牧場の決闘」は作品半ばの山場となっている。史実に準拠した流れで作られたガンファイトアクション作品。
   - 映画『[ワイアット・アープ](https://ja.wikipedia.org/wiki/ワイアット・アープ_\(1994年の映画\) "wikilink")』 *[Wyatt Earp](https://ja.wikipedia.org/wiki/:en:Wyatt_Earp_\(film\) "wikilink")* ([1994年](../Page/1994年.md "wikilink"))
-      - [ローレンス・カスダン](https://ja.wikipedia.org/wiki/ローレンス・カスダン "wikilink")監督作品。 ケヴィン・コスナー主演。ワイアットの生涯を描く[伝記映画](https://ja.wikipedia.org/wiki/伝記映画 "wikilink")。
+      - [ローレンス・カスダン](../Page/ローレンス・カスダン.md "wikilink")監督作品。 ケヴィン・コスナー主演。ワイアットの生涯を描く[伝記映画](https://ja.wikipedia.org/wiki/伝記映画 "wikilink")。
       - 映画中盤に決闘のエピソードまでたどり着き、その後の人生まで描かれて、「事実」と「伝説」との差で当惑するワイアットの姿も描いている。
-  - TVシリーズ *[Deadwood](https://ja.wikipedia.org/wiki/:en:Deadwood_\(TV_series\) "wikilink")* シーズン3エピソード8 ([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink"))
+  - TVシリーズ *[Deadwood](https://ja.wikipedia.org/wiki/:en:Deadwood_\(TV_series\) "wikilink")* シーズン3エピソード8 ([2006年](../Page/2006年.md "wikilink"))
 
 ## 注釈
 
@@ -91,7 +91,7 @@
 
 1.  日本では「コチーズ郡」とも呼ばれる
 2.  なおここでの**カウボーイズ**とは、この時代のこの地方特有の特殊用語で「悪い牧童」と言う意味である。牛飼いや牧童であるが同時に牛泥棒でもあった。
-3.  この頃、ワイアットが決闘の演技を指導した俳優の中に[ジョン・ウェイン](https://ja.wikipedia.org/wiki/ジョン・ウェイン "wikilink")がいた。
+3.  この頃、ワイアットが決闘の演技を指導した俳優の中に[ジョン・ウェイン](../Page/ジョン・ウェイン.md "wikilink")がいた。
 4.  映画がリバイバル公開された1962年頃の映画雑誌に、この映画の題名の直訳として「OK牛囲い込み場での銃撃戦」と表現されていた。
 5.  「西部劇を見て男を学んだ」227P　芦原伸　著　祥伝社　2006年3月発行
 6.  ≪牧場はご都合主義的誤訳である≫「西部劇への招待」第4章　ジョン・スタージェス賛　166P　逢坂剛　著　PHPエル新書　2004年9月発行

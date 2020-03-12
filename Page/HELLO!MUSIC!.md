@@ -5,7 +5,7 @@
 
 ## 概要
 
-1992年[CBX-T3同梱の](../Page/ヤマハ・CBXシリーズ.md "wikilink")「HELLO\!MUSIC\!」登場以来、[ローランド](../Page/ローランド.md "wikilink")の「[ミュージ郎](https://ja.wikipedia.org/wiki/ミュージ郎 "wikilink")」などとシェアを競いながら現在に至るまで様々な製品が登場した。主に[MUシリーズなどの](https://ja.wikipedia.org/wiki/ヤマハ・MUシリーズ "wikilink")[音源モジュール](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")が同梱されたが、中には[QY70や](https://ja.wikipedia.org/wiki/ヤマハ・QYシリーズ "wikilink")[CS1xといった](https://ja.wikipedia.org/wiki/ヤマハ・CSシリーズ "wikilink")、どちらかといえば[シンセサイザー](../Page/シンセサイザー.md "wikilink")系の楽器もあり、バラエティに富んでいた。
+1992年[CBX-T3同梱の](../Page/ヤマハ・CBXシリーズ.md "wikilink")「HELLO\!MUSIC\!」登場以来、[ローランド](../Page/ローランド.md "wikilink")の「[ミュージ郎](../Page/ミュージ郎.md "wikilink")」などとシェアを競いながら現在に至るまで様々な製品が登場した。主に[MUシリーズなどの](../Page/ヤマハ・MUシリーズ.md "wikilink")[音源モジュール](../Page/音源モジュール.md "wikilink")が同梱されたが、中には[QY70や](../Page/ヤマハ・QYシリーズ.md "wikilink")[CS1xといった](../Page/ヤマハ・CSシリーズ.md "wikilink")、どちらかといえば[シンセサイザー](../Page/シンセサイザー.md "wikilink")系の楽器もあり、バラエティに富んでいた。
 
 ## MUシリーズなどの音源モジュールを同梱したもの
 
@@ -61,9 +61,9 @@
 ## 関連項目
 
   - [デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")
-  - [XGフォーマット](https://ja.wikipedia.org/wiki/XGフォーマット "wikilink")
-  - [ヤマハ・TGシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・TGシリーズ "wikilink")
-  - [ヤマハ・MUシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・MUシリーズ "wikilink")
+  - [XGフォーマット](../Page/XGフォーマット.md "wikilink")
+  - [ヤマハ・TGシリーズ](../Page/ヤマハ・TGシリーズ.md "wikilink")
+  - [ヤマハ・MUシリーズ](../Page/ヤマハ・MUシリーズ.md "wikilink")
   - [ヤマハ・CBXシリーズ](../Page/ヤマハ・CBXシリーズ.md "wikilink")
 
 [Category:ヤマハ](https://ja.wikipedia.org/wiki/Category:ヤマハ "wikilink") [Category:コンピュータミュージック](https://ja.wikipedia.org/wiki/Category:コンピュータミュージック "wikilink") [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:音声処理ソフト](https://ja.wikipedia.org/wiki/Category:音声処理ソフト "wikilink")

@@ -1,15 +1,15 @@
 > この記事は[Strawberry Panic!](https://ja.wikipedia.org/wiki/Strawberry_Panic!)から翻訳されています。
 
 
-『**Strawberry Panic\!**』（ストロベリー・パニック）は、『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")、及びそれを原作にした[メディアミックス](../Page/メディアミックス.md "wikilink")群の総称。略称は「**ストパニ**」。
+『**Strawberry Panic\!**』（ストロベリー・パニック）は、『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")、及びそれを原作にした[メディアミックス](../Page/メディアミックス.md "wikilink")群の総称。略称は「**ストパニ**」。
 
 ## 作品概要
 
-『電撃G's magazine』[2003年](../Page/2003年.md "wikilink")10月号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月号まで連載。企画・シナリオは『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』を手掛けた[公野櫻子](https://ja.wikipedia.org/wiki/公野櫻子 "wikilink")、キャラクターデザイン・イラストは[真木ちとせ](https://ja.wikipedia.org/wiki/真木ちとせ "wikilink")、ミニコミックは『シスプリ』の[霧賀ユキ](../Page/霧賀ユキ.md "wikilink")が担当した。
+『電撃G's magazine』[2003年](../Page/2003年.md "wikilink")10月号から[2005年](../Page/2005年.md "wikilink")10月号まで連載。企画・シナリオは『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』を手掛けた[公野櫻子](../Page/公野櫻子.md "wikilink")、キャラクターデザイン・イラストは[真木ちとせ](https://ja.wikipedia.org/wiki/真木ちとせ "wikilink")、ミニコミックは『シスプリ』の[霧賀ユキ](../Page/霧賀ユキ.md "wikilink")が担当した。
 
 アストラエアの丘にある三つの女子校（聖ミアトル女学園、聖スピカ女学院、聖ル・リム女学校）、そしてそのはずれにある3校共通の寄宿舎・いちご舎を舞台に、各校の生徒たちが繰り広げる物語。
 
-本作のコンセプトは女性ヒロイン同士のカップリング、いわゆる「[百合](https://ja.wikipedia.org/wiki/百合_\(ジャンル\) "wikilink")」である。そのため、それまでの『G's』読者参加企画と異なり、読者とヒロインの直接的接触（恋愛）の要素はない。連載開始時は読者が3人の主人公（渚砂・光莉・絆奈）の兄という設定であったが、途中から言及されなくなり、結果的に男性的要素が一切排除された世界観へとシフトしていった\[1\]。
+本作のコンセプトは女性ヒロイン同士のカップリング、いわゆる「[百合](../Page/百合_\(ジャンル\).md "wikilink")」である。そのため、それまでの『G's』読者参加企画と異なり、読者とヒロインの直接的接触（恋愛）の要素はない。連載開始時は読者が3人の主人公（渚砂・光莉・絆奈）の兄という設定であったが、途中から言及されなくなり、結果的に男性的要素が一切排除された世界観へとシフトしていった\[1\]。
 
 読者参加企画版の連載終了後、公野櫻子による[小説](../Page/小説.md "wikilink")の刊行、その小説版の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化、そして[アニメ](../Page/アニメ.md "wikilink")化、ゲーム化など、メディアミックス展開がなされた。読者参加企画版・小説版・アニメ版・ゲーム版ではそれぞれ、内容・設定・世界観などが異なっている。
 
@@ -101,7 +101,7 @@
     校則第5条「外出時は常に本校指定の制服を正しく着用すること」
     校則第8条「上級生は下級生を常に守り教え導くこと」
   - 聖アストラエア合同寄宿舎
-    通称「いちご舎」。3校合同の寄宿舎で、三角形状に隣接している3校の敷地のちょうど中間\[8\]に位置しており、建物自体が三角形状をしているためこう呼ばれている。ミアトル創設時に建てられた歴史ある建物。遠方から入学する生徒のために用意された施設であるが、集団生活を経験するために入ってくる名家の子女も多くいる。ちなみに「[アストラエア](https://ja.wikipedia.org/wiki/アストライアー "wikilink")」とは「星乙女」を意味し、3校の名前はアストラエアをモデルとする[乙女座](https://ja.wikipedia.org/wiki/乙女座 "wikilink")に関係する。
+    通称「いちご舎」。3校合同の寄宿舎で、三角形状に隣接している3校の敷地のちょうど中間\[8\]に位置しており、建物自体が三角形状をしているためこう呼ばれている。ミアトル創設時に建てられた歴史ある建物。遠方から入学する生徒のために用意された施設であるが、集団生活を経験するために入ってくる名家の子女も多くいる。ちなみに「[アストラエア](../Page/アストライアー.md "wikilink")」とは「星乙女」を意味し、3校の名前はアストラエアをモデルとする[乙女座](https://ja.wikipedia.org/wiki/乙女座 "wikilink")に関係する。
     学年や役職に応じて2人部屋と1人部屋が用意されているが\[9\]、劇中に出てくるのは基本的に2人部屋で、寮生は特別な理由がない限り同学年の生徒と二人で共に過ごすことになる。ゲーム版ではベッドが2つあるにもかかわらず、一人で過ごす生徒がほとんどである。
     小説では夜間の他校棟との直接の行き来はできなくなっており、三角形の頂点を内側から120度角で結ぶ「お鈴廊下」と呼ばれる渡り廊下によって各棟が結ばれているが、アニメとゲームでは夜間でも比較的自由に他校棟との行き来が行われている。
     部屋ごとにトイレ・シャワー・バスタブが設置されているが、洗濯室は共用。また、大浴場が設置されている。
@@ -139,7 +139,7 @@
 
 ## 小説
 
-『**ストロベリー・パニック！**』は、[公野櫻子](https://ja.wikipedia.org/wiki/公野櫻子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラストは](../Page/イラストレーション.md "wikilink")[たくみなむち](https://ja.wikipedia.org/wiki/たくみなむち "wikilink")が担当している。[電撃文庫](../Page/電撃文庫.md "wikilink")（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）より、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月から12月にかけて全3冊（長編3冊）が刊行された。
+『**ストロベリー・パニック！**』は、[公野櫻子](../Page/公野櫻子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラストは](../Page/イラストレーション.md "wikilink")[たくみなむち](../Page/たくみなむち.md "wikilink")が担当している。[電撃文庫](../Page/電撃文庫.md "wikilink")（[メディアワークス](../Page/メディアワークス.md "wikilink")）より、[2006年](../Page/2006年.md "wikilink")3月から12月にかけて全3冊（長編3冊）が刊行された。
 
 同名の読者参加企画を原作とする。読者参加企画時代のメインヒロイン12人に加え、多数のキャラクターによる、3校の代表「エトワール」を巡るラブストーリー。原作や「改版 ストロベリー・パニック\!」とは異なる内容・世界観であるため、その2つの作品とこの小説との関係はパラレルワールドであるとも言える。
 
@@ -153,23 +153,23 @@
 
 ## 漫画
 
-『**ストロベリー・パニック！**』は、[たくみなむち](https://ja.wikipedia.org/wiki/たくみなむち "wikilink")による日本の漫画で、[公野櫻子](https://ja.wikipedia.org/wiki/公野櫻子 "wikilink")による同名小説の漫画化作品。内容・設定・世界観などは小説版に忠実で、また小説版のストーリーを短縮しながらも、独自のシーンなども追加されている。
+『**ストロベリー・パニック！**』は、[たくみなむち](../Page/たくみなむち.md "wikilink")による日本の漫画で、[公野櫻子](../Page/公野櫻子.md "wikilink")による同名小説の漫画化作品。内容・設定・世界観などは小説版に忠実で、また小説版のストーリーを短縮しながらも、独自のシーンなども追加されている。
 
-『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月号から連載。『G's』[2007年](../Page/2007年.md "wikilink")4月号の目次に、「**コミック『ストロベリー・パニック』はしばらくの間休載いたします**」と表記され休載となり、その後も再開の目途は立たず、事実上の[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")となった。
+『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）[2005年](../Page/2005年.md "wikilink")11月号から連載。『G's』[2007年](../Page/2007年.md "wikilink")4月号の目次に、「**コミック『ストロベリー・パニック』はしばらくの間休載いたします**」と表記され休載となり、その後も再開の目途は立たず、事実上の[打ち切り](../Page/打ち切り.md "wikilink")となった。
 
 単行本も、第2巻の巻末に「3巻へつづく」と表記されているが、第3巻発売に関する発表などは現在までのところない。そのため、日本では第13・14話（2006年12月号・2007年2月号掲載分）は単行本未収録となっている\[13\]。
 
 ## アニメ
 
-『**Strawberry Panic**』（他メディアと異なり、「**\!**」が付かない）のタイトルで、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月より9月まで[tvk他の](../Page/テレビ神奈川.md "wikilink")[UHF局](https://ja.wikipedia.org/wiki/UHF局 "wikilink")及び[キッズステーション](../Page/キッズステーション.md "wikilink")（CS）で放送された。全26話。
+『**Strawberry Panic**』（他メディアと異なり、「**\!**」が付かない）のタイトルで、[2006年](../Page/2006年.md "wikilink")4月より9月まで[tvk他の](../Page/テレビ神奈川.md "wikilink")[UHF局](../Page/UHF局.md "wikilink")及び[キッズステーション](../Page/キッズステーション.md "wikilink")（CS）で放送された。全26話。
 
 ## ラジオ
 
 ## ゲーム
 
-2006年8月24日に[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")より、[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[CEROによる対象年齢はB](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（12歳以上）。
+2006年8月24日に[メディアワークス](../Page/メディアワークス.md "wikilink")より、[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[CEROによる対象年齢はB](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（12歳以上）。
 
-初回限定版特典は本格百合[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")・聖アストラエア特製生徒証。予約特典は聖アストラエア3校合同入学案内。
+初回限定版特典は本格百合[ドラマCD](../Page/ドラマCD.md "wikilink")・聖アストラエア特製生徒証。予約特典は聖アストラエア3校合同入学案内。
 
 エトワール制度が存在せず、ミアトル・スピカの生徒会メンバーが登場しないなど、小説版・アニメ版とは設定や世界観などが大きく異なっている\[14\]。
 
@@ -185,7 +185,7 @@
 
 :\* 「Sweetest」
 
-:\*\* 作詞・作曲：[rino](https://ja.wikipedia.org/wiki/rino "wikilink") 編曲：[宅見将典](../Page/宅見将典.md "wikilink") 歌：[CooRie](https://ja.wikipedia.org/wiki/CooRie "wikilink")
+:\*\* 作詞・作曲：[rino](https://ja.wikipedia.org/wiki/rino "wikilink") 編曲：[宅見将典](../Page/宅見将典.md "wikilink") 歌：[CooRie](../Page/CooRie.md "wikilink")
 
 :\*\* 2006年9月21日発売 LACA-5558 24曲目
 
@@ -218,7 +218,7 @@
 
 ### 携帯アプリ
 
-2006年6月より[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")の『携帯ゲーム百選』（[i-mode](https://ja.wikipedia.org/wiki/i-mode "wikilink")・[EZweb](../Page/EZweb.md "wikilink")）で順次配信されている。
+2006年6月より[ドワンゴ](../Page/ドワンゴ.md "wikilink")の『携帯ゲーム百選』（[i-mode](https://ja.wikipedia.org/wiki/i-mode "wikilink")・[EZweb](../Page/EZweb.md "wikilink")）で順次配信されている。
 
   - MOBILE PUZZLE
     絵柄はゲーム版準拠。オーソドックスなスライド式パズル。完成させた絵柄は待ち受け画像として使える。
@@ -235,7 +235,7 @@
 
 ## 日本国外での展開
 
-  - アメリカでは[セブンシーズ・エンターテインメント](https://ja.wikipedia.org/wiki/セブンシーズ・エンターテインメント "wikilink")が2006年9月にメディアワークスよりライセンス供与を受け、2007年春より漫画と小説を順次、刊行している。また、同年中にメディアブラスターズ社がアニメのDVDを発売（全5巻）。後に全話収録のコンプリートセットも発売された。なおアニメの仕様は日本語音声・英語字幕である（英語音声はない）。
+  - アメリカでは[セブンシーズ・エンターテインメント](../Page/セブンシーズ・エンターテインメント.md "wikilink")が2006年9月にメディアワークスよりライセンス供与を受け、2007年春より漫画と小説を順次、刊行している。また、同年中にメディアブラスターズ社がアニメのDVDを発売（全5巻）。後に全話収録のコンプリートセットも発売された。なおアニメの仕様は日本語音声・英語字幕である（英語音声はない）。
   - 中国語の文による公式の訳題は、台湾・[尖端出版](../Page/尖端出版.md "wikilink")が2007年1月に[繁体字](../Page/繁体字.md "wikilink")中国語版コミックスを刊行した際に採用した「**<span lang="zh">草莓狂熱</span>**」であるが、コミックス刊行以前は『[ファミ通PS2](https://ja.wikipedia.org/wiki/ファミ通PLAYSTATION+ "wikilink")』香港・台湾版（電玩通PS2雑誌）で用いられた「**<span lang="zh">草莓危機</span>**」や「**<span lang="zh">驚爆草莓</span>**」など、様々な訳題が存在した。
 
 ## イベント
@@ -243,19 +243,19 @@
   - 聖アストラエア合同入学試験（2006年2月26日）
       - インターネットラジオ番組『[麻衣＆愛の電撃G'sラジオ ストロベリー・パニック\!〜お姉様といちご♥そうどう〜](../Page/麻衣&愛の電撃G'sラジオ_ストロベリー・パニック!_〜お姉様といちご・そうどう〜.md "wikilink")』の公開録音イベント。参加者に試験を行なわせ、その回答をスクリーンに映し出すなどの催しを行なった。主登場人物12人の担当声優も発表。収録内容は同番組2006年3月7・14日配信分で公開。出演者は[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")、[清水愛](../Page/清水愛.md "wikilink")。
   - 聖アストラエア合同入学式（2006年4月2日）
-      - アニメ放送記念イベント。アニメ第1話の先行上映、主題歌の生歌唱、トーク、ラジオの公開録音などの催しを行なった。DVD限定版第2・3巻およびDVD BOXのDISC2・3にダイジェストを収録。出演者は中原麻衣、清水愛、[松来未祐](../Page/松来未祐.md "wikilink")、[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")、[中島沙樹](https://ja.wikipedia.org/wiki/中島沙樹 "wikilink")、[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")、[甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")、[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")、[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")、[森永たまち](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")、[美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink")。
+      - アニメ放送記念イベント。アニメ第1話の先行上映、主題歌の生歌唱、トーク、ラジオの公開録音などの催しを行なった。DVD限定版第2・3巻およびDVD BOXのDISC2・3にダイジェストを収録。出演者は中原麻衣、清水愛、[松来未祐](../Page/松来未祐.md "wikilink")、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[中島沙樹](../Page/中島沙樹.md "wikilink")、[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")、[野川さくら](../Page/野川さくら.md "wikilink")、[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")、[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")、[生天目仁美](../Page/生天目仁美.md "wikilink")、[森永たまち](../Page/三重野瞳.md "wikilink")、[美郷あき](../Page/美郷あき.md "wikilink")。
   - 聖アストラエア合同文化祭（2006年11月12日）
-      - アニメ放送終了記念イベント。DVDの限定版（Special Limited Box）I - III封入の参加券による応募者を抽選で招待した。アニメの名場面を振り返ったり、登壇者の中からエトワールを決めるエトワール選などの催しが行なわれた。映像・音声媒体等未収録。出演者は、中原麻衣、清水愛、桑谷夏子、野川さくら、甲斐田裕子、[木下紗華](https://ja.wikipedia.org/wiki/木下紗華 "wikilink")、[後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")、中島沙樹、[福井裕佳梨](https://ja.wikipedia.org/wiki/福井裕佳梨 "wikilink")、宮崎羽衣、美郷あき、森永たまち。
+      - アニメ放送終了記念イベント。DVDの限定版（Special Limited Box）I - III封入の参加券による応募者を抽選で招待した。アニメの名場面を振り返ったり、登壇者の中からエトワールを決めるエトワール選などの催しが行なわれた。映像・音声媒体等未収録。出演者は、中原麻衣、清水愛、桑谷夏子、野川さくら、甲斐田裕子、[木下紗華](../Page/木下紗華.md "wikilink")、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")、中島沙樹、[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")、宮崎羽衣、美郷あき、森永たまち。
 
 ## 書誌情報
 
-[公野櫻子](https://ja.wikipedia.org/wiki/公野櫻子 "wikilink")（著）、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")〈[電撃文庫](../Page/電撃文庫.md "wikilink")〉、全3冊
+[公野櫻子](../Page/公野櫻子.md "wikilink")（著）、[メディアワークス](../Page/メディアワークス.md "wikilink")〈[電撃文庫](../Page/電撃文庫.md "wikilink")〉、全3冊
 
   - 『ストロベリー・パニック\!(1)』、2006年3月25日初版発行（2006年3月10日発売）、ISBN 4-8402-3354-3
   - 『ストロベリー・パニック\!(2)』、2006年8月25日初版発行（2006年8月9日発売）、ISBN 4-8402-3526-0
   - 『ストロベリー・パニック\!(3)』、2006年12月25日初版発行（2006年12月10日発売）、ISBN 4-8402-3646-1
 
-公野櫻子（原作）・[たくみなむち](https://ja.wikipedia.org/wiki/たくみなむち "wikilink")（作画） 『ストロベリー・パニック\!』 [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")〈[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")〉、既刊2巻（2006年10月27日現在）
+公野櫻子（原作）・[たくみなむち](../Page/たくみなむち.md "wikilink")（作画） 『ストロベリー・パニック\!』 [メディアワークス](../Page/メディアワークス.md "wikilink")〈[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")〉、既刊2巻（2006年10月27日現在）
 
 1.  2006年4月15日初版発行（2006年3月27日発売）、ISBN 4-8402-3419-1
 2.  2006年11月15日初版発行（2006年10月27日発売）、ISBN 4-8402-3600-3
@@ -330,9 +330,9 @@
   - 2006年6月号
     中原麻衣・清水愛によるPS2版ゲームの体験プレイ記事掲載。
   - 2006年7月号
-    [松来未祐](../Page/松来未祐.md "wikilink")・[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")によるPS2版ゲームの体験プレイ記事掲載。
+    [松来未祐](../Page/松来未祐.md "wikilink")・[桑谷夏子](../Page/桑谷夏子.md "wikilink")によるPS2版ゲームの体験プレイ記事掲載。
   - 2006年8月号
-    [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")・[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")によるPS2版ゲームの体験プレイ記事掲載。
+    [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")・[野川さくら](../Page/野川さくら.md "wikilink")によるPS2版ゲームの体験プレイ記事掲載。
   - 2006年10月号
     漫画『ストロベリー・パニック！』休載。アニメの設定資料、ゲームの攻略記事（渚砂編）掲載、渚砂・玉青の両面特大ポスター（アニメ版）を付属。
   - 2006年11月号

@@ -5,9 +5,9 @@
 
 ## 概要
 
-[小学館](../Page/小学館.md "wikilink")発行の『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink") (WS) 』誌上において、[1994年](../Page/1994年.md "wikilink")（平成6年）44号から[2000年](../Page/2000年.md "wikilink")（平成12年）42号まで連載。『[機動警察パトレイバー](../Page/機動警察パトレイバー.md "wikilink")』の次作にあたり、『WS』誌上において3作目となる長期連載作品\[1\]。単行本は少年サンデーコミックスより全26巻が刊行されており、同一表題の作品としてはゆうき最長の作品となっている\[2\]。[2004年](../Page/2004年.md "wikilink")（平成16年）から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）にかけては文庫版が全14巻で発売された。
+[小学館](../Page/小学館.md "wikilink")発行の『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink") (WS) 』誌上において、[1994年](../Page/1994年.md "wikilink")（平成6年）44号から[2000年](../Page/2000年.md "wikilink")（平成12年）42号まで連載。『[機動警察パトレイバー](../Page/機動警察パトレイバー.md "wikilink")』の次作にあたり、『WS』誌上において3作目となる長期連載作品\[1\]。単行本は少年サンデーコミックスより全26巻が刊行されており、同一表題の作品としてはゆうき最長の作品となっている\[2\]。[2004年](../Page/2004年.md "wikilink")（平成16年）から[2005年](../Page/2005年.md "wikilink")（平成17年）にかけては文庫版が全14巻で発売された。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[静内郡](../Page/静内郡.md "wikilink")[静内町](../Page/静内町.md "wikilink")（現：[新ひだか町](../Page/新ひだか町.md "wikilink")）の[牧場](https://ja.wikipedia.org/wiki/牧場 "wikilink")を舞台に、ふとしたきっかけから競走馬の育成に携わるようになった主人公の成長を描いた作品。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[静内郡](../Page/静内郡.md "wikilink")[静内町](../Page/静内町.md "wikilink")（現：[新ひだか町](../Page/新ひだか町.md "wikilink")）の[牧場](../Page/牧場.md "wikilink")を舞台に、ふとしたきっかけから競走馬の育成に携わるようになった主人公の成長を描いた作品。
 
 馬産を取り扱った作品の性質上から登場する馬の血統は細かく設定されており\[3\]、この血統の設定に苦心したことをゆうきが述べている\[4\]。
 
@@ -25,7 +25,7 @@
 
 ## あらすじ
 
-東京都内の有名進学校に通う久世駿平は、[春休み](../Page/春休み.md "wikilink")に北海道[旅行](../Page/旅行.md "wikilink")へと[バイクで出かけ](https://ja.wikipedia.org/wiki/自動二輪車 "wikilink")、ひょんなことから競馬馬生産の渡会（わたらい）牧場と関わることになる。そこで[馬とふれあう中でその魅力に惹かれ](../Page/ウマ.md "wikilink")、日本一の競走馬の育成を目標とするようになる。親との葛藤、[恋愛](../Page/恋愛.md "wikilink")、[結婚](../Page/結婚.md "wikilink")といった人生の様々な出来事を体験し、[思春期](https://ja.wikipedia.org/wiki/思春期 "wikilink")の少年は一人の大人へと育っていく。
+東京都内の有名進学校に通う久世駿平は、[春休み](../Page/春休み.md "wikilink")に北海道[旅行](../Page/旅行.md "wikilink")へと[バイクで出かけ](https://ja.wikipedia.org/wiki/自動二輪車 "wikilink")、ひょんなことから競馬馬生産の渡会（わたらい）牧場と関わることになる。そこで[馬とふれあう中でその魅力に惹かれ](../Page/ウマ.md "wikilink")、日本一の競走馬の育成を目標とするようになる。親との葛藤、[恋愛](../Page/恋愛.md "wikilink")、[結婚](../Page/結婚.md "wikilink")といった人生の様々な出来事を体験し、[思春期](../Page/思春期.md "wikilink")の少年は一人の大人へと育っていく。
 
 ## 登場人物
 
@@ -62,30 +62,30 @@
 
 ### その他の漫画作品
 
-折々に[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")や[オマージュ](https://ja.wikipedia.org/wiki/オマージュ "wikilink")描写が見られる他、モブとしても描かれている。
+折々に[パロディ](../Page/パロディ.md "wikilink")や[オマージュ](../Page/オマージュ.md "wikilink")描写が見られる他、モブとしても描かれている。
 
   - [めぞん一刻](../Page/めぞん一刻.md "wikilink")（[高橋留美子](../Page/高橋留美子.md "wikilink")）
     「PIYO PIYOエプロン」\[17\]および「PIYO PIYO」のマタニティのワンピース\[18\]が作中に登場。また猪口（父）は笑い方を「『めぞん一刻』で三鷹の親父の声をやってた[神谷明](../Page/神谷明.md "wikilink")みたいな声」で笑う\[19\]と表現されている。
   - [オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")（[藤子不二雄](../Page/藤子不二雄.md "wikilink")）
     駿平の部屋に『サンデー』があり、表紙には「新オバケのQ太郎FX」が描かれている\[20\]。また競馬場でのモブとしてQ太郎が描かれている\[21\]。
   - [赤塚不二夫](../Page/赤塚不二夫.md "wikilink")作品
-    競馬場でのモブとしてイヤミ（[おそ松くん](https://ja.wikipedia.org/wiki/おそ松くん "wikilink")）が登場\[22\]。また[シェー](https://ja.wikipedia.org/wiki/シェー "wikilink")\[23\]やレレレのおじさん（[天才バカボン](../Page/天才バカボン.md "wikilink")）のパロディ描写\[24\]\[25\]が見られる。
-  - [かってに改蔵](https://ja.wikipedia.org/wiki/かってに改蔵 "wikilink")（[久米田康治](https://ja.wikipedia.org/wiki/久米田康治 "wikilink")）
+    競馬場でのモブとしてイヤミ（[おそ松くん](../Page/おそ松くん.md "wikilink")）が登場\[22\]。また[シェー](../Page/シェー.md "wikilink")\[23\]やレレレのおじさん（[天才バカボン](../Page/天才バカボン.md "wikilink")）のパロディ描写\[24\]\[25\]が見られる。
+  - [かってに改蔵](https://ja.wikipedia.org/wiki/かってに改蔵 "wikilink")（[久米田康治](../Page/久米田康治.md "wikilink")）
     ひびきが『サンデー』で読んでいる\[26\]。
   - [神聖モテモテ王国](../Page/神聖モテモテ王国.md "wikilink")（[ながいけん](../Page/ながいけん.md "wikilink")）
     梅ちゃんの台詞中に題名が含まれ、背景にファーザーが描かれている\[27\]。
   - [楳図かずお](../Page/楳図かずお.md "wikilink")作品
     パロディ描写が見られる\[28\]。
-  - [月下の棋士](https://ja.wikipedia.org/wiki/月下の棋士 "wikilink")（[能條純一](../Page/能條純一.md "wikilink")）
+  - [月下の棋士](../Page/月下の棋士.md "wikilink")（[能條純一](../Page/能條純一.md "wikilink")）
     将棋を指す場面でパロディ描写が見られる\[29\]。
-  - [ど根性ガエル](https://ja.wikipedia.org/wiki/ど根性ガエル "wikilink")（[吉沢やすみ](https://ja.wikipedia.org/wiki/吉沢やすみ "wikilink")）
+  - [ど根性ガエル](../Page/ど根性ガエル.md "wikilink")（[吉沢やすみ](../Page/吉沢やすみ.md "wikilink")）
     梅ちゃんとひびきのかけあいが、同作の梅さんとヒロシのようになっている描写がある\[30\]。
   - [いがらしみきお](../Page/いがらしみきお.md "wikilink")作品
     呆けた醍醐悟がいがらしのキャラクターむん坊になっている\[31\]。
   - 競馬場での観客
     様々なキャラクターが競馬場の観客として描かれている。
     Q太郎・イヤミ（上述）・[鉄人28号](https://ja.wikipedia.org/wiki/鉄人28号_\(架空のロボット\) "wikilink")（『[鉄人28号](../Page/鉄人28号.md "wikilink")』）・[バルタン星人](../Page/バルタン星人.md "wikilink")（『[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")』）・[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(架空のキャラクター\) "wikilink")（『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』）\[32\]。
-    『[アクシデンツ -事故調クジラの事件簿-](https://ja.wikipedia.org/wiki/アクシデンツ_-事故調クジラの事件簿- "wikilink")』（[山田貴敏](../Page/山田貴敏.md "wikilink")）・『[アホアホ学園](https://ja.wikipedia.org/wiki/アホアホ学園 "wikilink")』（[久喜青葉](https://ja.wikipedia.org/wiki/久喜青葉 "wikilink")）・『[うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")』（[藤田和日郎](../Page/藤田和日郎.md "wikilink")）・『[エンヤ KODOMO忍法帖](../Page/エンヤ_KODOMO忍法帖.md "wikilink")』[森下裕美](../Page/森下裕美.md "wikilink")・『[GS美神 極楽大作戦\!\!](https://ja.wikipedia.org/wiki/GS美神_極楽大作戦!! "wikilink")』（[椎名高志](../Page/椎名高志.md "wikilink")）・『["LOVe"](../Page/"LOVe".md "wikilink")』（[石渡治](../Page/石渡治.md "wikilink")）・『[め組の大吾](../Page/め組の大吾.md "wikilink")』（[曽田正人](../Page/曽田正人.md "wikilink")）・『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』（[青山剛昌](../Page/青山剛昌.md "wikilink")）・『["LOVe"](../Page/"LOVe".md "wikilink")』（[石渡治](../Page/石渡治.md "wikilink")）\[33\]。
+    『[アクシデンツ -事故調クジラの事件簿-](https://ja.wikipedia.org/wiki/アクシデンツ_-事故調クジラの事件簿- "wikilink")』（[山田貴敏](../Page/山田貴敏.md "wikilink")）・『[アホアホ学園](https://ja.wikipedia.org/wiki/アホアホ学園 "wikilink")』（[久喜青葉](https://ja.wikipedia.org/wiki/久喜青葉 "wikilink")）・『[うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")』（[藤田和日郎](../Page/藤田和日郎.md "wikilink")）・『[エンヤ KODOMO忍法帖](../Page/エンヤ_KODOMO忍法帖.md "wikilink")』[森下裕美](../Page/森下裕美.md "wikilink")・『[GS美神 極楽大作戦\!\!](../Page/GS美神_極楽大作戦!!.md "wikilink")』（[椎名高志](../Page/椎名高志.md "wikilink")）・『["LOVe"](../Page/"LOVe".md "wikilink")』（[石渡治](../Page/石渡治.md "wikilink")）・『[め組の大吾](../Page/め組の大吾.md "wikilink")』（[曽田正人](../Page/曽田正人.md "wikilink")）・『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』（[青山剛昌](../Page/青山剛昌.md "wikilink")）・『["LOVe"](../Page/"LOVe".md "wikilink")』（[石渡治](../Page/石渡治.md "wikilink")）\[33\]。
 
 ## 書誌情報
 
@@ -152,7 +152,7 @@
 ## 関連項目
 
   - [競馬](../Page/競馬.md "wikilink")
-      - [日本の競馬](https://ja.wikipedia.org/wiki/日本の競馬 "wikilink")
+      - [日本の競馬](../Page/日本の競馬.md "wikilink")
   - [競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")
 
 ## 外部リンク

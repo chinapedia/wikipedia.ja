@@ -1,7 +1,7 @@
 > この記事は[Vodafone 802SH](https://ja.wikipedia.org/wiki/Vodafone_802SH)から翻訳されています。
 
 
-**Vodafone 802SH**（ボーダフォン802SH）は[シャープ](../Page/シャープ.md "wikilink")が開発し、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（旧・ボーダフォン日本法人）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末である。
+**Vodafone 802SH**（ボーダフォン802SH）は[シャープ](../Page/シャープ.md "wikilink")が開発し、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（旧・ボーダフォン日本法人）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](../Page/SoftBank_3G.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末である。
 
 ## 評判
 
@@ -13,7 +13,7 @@
 
 ## 関連項目
 
-  - [ソフトバンクの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクの端末一覧 "wikilink")
+  - [ソフトバンクの端末一覧](../Page/ソフトバンクの端末一覧.md "wikilink")
   - [Vodafone 902SH](../Page/Vodafone_902SH.md "wikilink")
   - [巻き取り](https://ja.wikipedia.org/wiki/巻き取り_\(携帯電話\) "wikilink")
 

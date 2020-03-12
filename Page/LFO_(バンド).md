@@ -5,12 +5,12 @@
 
 ## 概要
 
-1990年代初期にイギリスで流行したブリープ・テクノの主要アーティスト、及び[IDMシーンの開拓者として知られる](../Page/インテリジェント・ダンス・ミュージック.md "wikilink")。バンド名の由来は、[シンセサイザー](../Page/シンセサイザー.md "wikilink")などに搭載されている[LFO](https://ja.wikipedia.org/wiki/LFO_\(電子楽器\) "wikilink")(Low Frequency Oscillator)から。初期はマーク・ベルとジェズ・ヴァーレイの2名によるユニットで、後にヴァーレイが脱退してベルのソロプロジェクトとなった。
+1990年代初期にイギリスで流行したブリープ・テクノの主要アーティスト、及び[IDMシーンの開拓者として知られる](../Page/インテリジェント・ダンス・ミュージック.md "wikilink")。バンド名の由来は、[シンセサイザー](../Page/シンセサイザー.md "wikilink")などに搭載されている[LFO](../Page/LFO_\(電子楽器\).md "wikilink")(Low Frequency Oscillator)から。初期はマーク・ベルとジェズ・ヴァーレイの2名によるユニットで、後にヴァーレイが脱退してベルのソロプロジェクトとなった。
 
 ## メンバー
 
   - マーク・ベル (Mark Bell)
-    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")生。[プロデューサーとしても手腕を発揮し](../Page/音楽プロデューサー.md "wikilink")、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")や[デペッシュ・モード](https://ja.wikipedia.org/wiki/デペッシュ・モード "wikilink")の作品をプロデュースしたことでも知られる。[2014年](../Page/2014年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")に亡くなったことが報じられた\[1\]\[2\]。享年43。
+    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")生。[プロデューサーとしても手腕を発揮し](../Page/音楽プロデューサー.md "wikilink")、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")や[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")の作品をプロデュースしたことでも知られる。[2014年](../Page/2014年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に亡くなったことが報じられた\[1\]\[2\]。享年43。
 
 <!-- end list -->
 

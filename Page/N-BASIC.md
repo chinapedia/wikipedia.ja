@@ -1,15 +1,15 @@
 > この記事は[N-BASIC](https://ja.wikipedia.org/wiki/N-BASIC)から翻訳されています。
 
 
-**N-BASIC**（エヌベーシック）は、NEC（[日本電気](../Page/日本電気.md "wikilink")）のパソコン[PC-8000シリーズ](https://ja.wikipedia.org/wiki/PC-8000シリーズ "wikilink")・[PC-8800シリーズ](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")に搭載された、[スタンドアロンBASIC](https://ja.wikipedia.org/wiki/スタンドアロンBASIC "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")の一種。[Microsoft BASICを基にしている](https://ja.wikipedia.org/wiki/Microsoft_BASIC "wikilink")。
+**N-BASIC**（エヌベーシック）は、NEC（[日本電気](../Page/日本電気.md "wikilink")）のパソコン[PC-8000シリーズ](../Page/PC-8000シリーズ.md "wikilink")・[PC-8800シリーズ](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")に搭載された、[スタンドアロンBASIC](../Page/スタンドアロンBASIC.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")の一種。[Microsoft BASICを基にしている](../Page/Microsoft_BASIC.md "wikilink")。
 
-[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")を扱えるように拡張されたものは、NECのマニュアル等ではDISK-BASICと呼んでいるが、[ROM-BASIC](https://ja.wikipedia.org/wiki/ROM-BASIC "wikilink")に対する普通名詞としての[DISK-BASIC](https://ja.wikipedia.org/wiki/DISK-BASIC "wikilink")とまぎらわしいため、一般にはN-DISK-BASICなどと呼ばれる。
+[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")を扱えるように拡張されたものは、NECのマニュアル等ではDISK-BASICと呼んでいるが、[ROM-BASIC](../Page/ROM-BASIC.md "wikilink")に対する普通名詞としての[DISK-BASIC](https://ja.wikipedia.org/wiki/DISK-BASIC "wikilink")とまぎらわしいため、一般にはN-DISK-BASICなどと呼ばれる。
 
 ## 概要
 
 [1979年](../Page/1979年.md "wikilink")に発売されたPC-8001に24KBのROMで搭載された。
 
-[倍精度実数演算やカラーグラフィックなど](../Page/浮動小数点数.md "wikilink")、当時の[スタンドアロンBASIC](https://ja.wikipedia.org/wiki/スタンドアロンBASIC "wikilink")としては最先端の機能を備え、完成度が高く、後の同種の環境の模範となった。ただし、後の[N<small>88</small>-BASICなどと比較すると](../Page/N88-BASIC.md "wikilink")、[ラベルが使えない](https://ja.wikipedia.org/wiki/ラベル_\(プログラミング\) "wikilink")、[変数名が先頭](https://ja.wikipedia.org/wiki/変数_\(プログラミング\) "wikilink")2文字しか識別されない、構造化制御文がないなど見劣りする点もある。
+[倍精度実数演算やカラーグラフィックなど](../Page/浮動小数点数.md "wikilink")、当時の[スタンドアロンBASIC](../Page/スタンドアロンBASIC.md "wikilink")としては最先端の機能を備え、完成度が高く、後の同種の環境の模範となった。ただし、後の[N<small>88</small>-BASICなどと比較すると](../Page/N88-BASIC.md "wikilink")、[ラベルが使えない](https://ja.wikipedia.org/wiki/ラベル_\(プログラミング\) "wikilink")、[変数名が先頭](../Page/変数_\(プログラミング\).md "wikilink")2文字しか識別されない、構造化制御文がないなど見劣りする点もある。
 
 命令や関数の前後は、必ずしも[空白文字](https://ja.wikipedia.org/wiki/空白文字 "wikilink")で区切らなくてもよい。よって、
 
@@ -53,7 +53,7 @@ PC-8001の開発は1978年夏頃に始まった。開発を指揮していた渡
 N-BASICの特徴的な命令・関数を示す。
 
   - `CONSOLE`文
-    スクロール範囲、[ファンクションキー](https://ja.wikipedia.org/wiki/ファンクションキー "wikilink")の表示、カラーモードを設定する。
+    スクロール範囲、[ファンクションキー](../Page/ファンクションキー.md "wikilink")の表示、カラーモードを設定する。
 
   - `COLOR`文
     文字色あるいは属性、グラフィックモードを設定する。
@@ -80,7 +80,7 @@ N-BASICの特徴的な命令・関数を示す。
   - `MON`命令
     [機械語モニタ](https://ja.wikipedia.org/wiki/機械語モニタ "wikilink")に入る。
   - `MOUNT`/`REMOVE`命令（DISK-BASICのみ）
-    フロッピーディスクを挿入したときに`MOUNT`によりFATを読み込み、抜く前に`REMOVE`によりFATを書き出す。FATの読み書きをメモリ上でのみ行うようにしてアクセスの高速化を図ったものだが、`REMOVE`を忘れてフロッピーの内容を破壊するという事故がおきやすい。また、REMOBEなどとタイプミスをするとREM文と解釈されてしまい、内部では何も処理されず（エラー表示もされない）、やはり記録内容の破壊につながった。これら注意を要する扱いづらさのため、大変評判が悪かった。PC-9801用のN-BASIC(86)ではこの命令を使用しなくても自動でMOUNT/REMOVEされる(互換性の為のダミー命令としてMOUNT/REMOVE文は残されている)。またN<small>80</small>/N<small>88</small>-DISK BASICでは不要となり、命令自体の削除となっている。 ベースとなった[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")用[Microsoft BASICにも同じ命令があった](https://ja.wikipedia.org/wiki/Microsoft_BASIC "wikilink")。
+    フロッピーディスクを挿入したときに`MOUNT`によりFATを読み込み、抜く前に`REMOVE`によりFATを書き出す。FATの読み書きをメモリ上でのみ行うようにしてアクセスの高速化を図ったものだが、`REMOVE`を忘れてフロッピーの内容を破壊するという事故がおきやすい。また、REMOBEなどとタイプミスをするとREM文と解釈されてしまい、内部では何も処理されず（エラー表示もされない）、やはり記録内容の破壊につながった。これら注意を要する扱いづらさのため、大変評判が悪かった。PC-9801用のN-BASIC(86)ではこの命令を使用しなくても自動でMOUNT/REMOVEされる(互換性の為のダミー命令としてMOUNT/REMOVE文は残されている)。またN<small>80</small>/N<small>88</small>-DISK BASICでは不要となり、命令自体の削除となっている。 ベースとなった[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")用[Microsoft BASICにも同じ命令があった](../Page/Microsoft_BASIC.md "wikilink")。
 
 ### 組み込まれなかった命令
 

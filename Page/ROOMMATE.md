@@ -1,16 +1,16 @@
 > この記事は[ROOMMATE](https://ja.wikipedia.org/wiki/ROOMMATE)から翻訳されています。
 
 
-**ROOMMATE**（ルームメイト）は、[データム・ポリスター](https://ja.wikipedia.org/wiki/データム・ポリスター "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より[セガサターン](../Page/セガサターン.md "wikilink")他の家庭用ゲーム機で発売している[美少女ゲームのシリーズ](../Page/ギャルゲー.md "wikilink")。狭義では、1997年1月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月にかけて発売された「井上涼子三部作」を指す。それ以外の作品及び[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")で発売されたシリーズはそれぞれ、以下の項目を参照。
+**ROOMMATE**（ルームメイト）は、[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より[セガサターン](../Page/セガサターン.md "wikilink")他の家庭用ゲーム機で発売している[美少女ゲームのシリーズ](../Page/ギャルゲー.md "wikilink")。狭義では、1997年1月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月にかけて発売された「井上涼子三部作」を指す。それ以外の作品及び[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")で発売されたシリーズはそれぞれ、以下の項目を参照。
 
-  - [ルームメイトW 〜ふたり〜a](https://ja.wikipedia.org/wiki/ルームメイトW_〜ふたり〜 "wikilink")
-  - [ルームメイトノベル 〜佐藤由香〜](https://ja.wikipedia.org/wiki/ルームメイトノベル_〜佐藤由香〜 "wikilink")
+  - [ルームメイトW 〜ふたり〜a](../Page/ルームメイトW_〜ふたり〜.md "wikilink")
+  - [ルームメイトノベル 〜佐藤由香〜](../Page/ルームメイトノベル_〜佐藤由香〜.md "wikilink")
   - 井上涼子 〜ルームメイト〜
   - [ルームメイト麻美-おくさまは女子高生-](https://ja.wikipedia.org/wiki/おくさまは女子高生 "wikilink")
 
 ## 作品の概要
 
-全作品に共通しているシチュエーションは、主人公が一軒家で一人暮らしをしている所に知人の紹介でヒロインが居候することになり、同居生活を営むことになると言うものである。このシリーズで斬新な所はセガサターン本体内蔵（[PlayStation版は](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[PocketStation](../Page/PocketStation.md "wikilink")接続）の[時計とイベントを連動させることによりリアルタイムでイベントが進行する点であり](https://ja.wikipedia.org/wiki/リアルタイムクロック "wikilink")、クリスマスなどのイベントが現実の日時と連動して発生する点で画期的であった。
+全作品に共通しているシチュエーションは、主人公が一軒家で一人暮らしをしている所に知人の紹介でヒロインが居候することになり、同居生活を営むことになると言うものである。このシリーズで斬新な所はセガサターン本体内蔵（[PlayStation版は](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PocketStation](../Page/PocketStation.md "wikilink")接続）の[時計とイベントを連動させることによりリアルタイムでイベントが進行する点であり](../Page/リアルタイムクロック.md "wikilink")、クリスマスなどのイベントが現実の日時と連動して発生する点で画期的であった。
 
 ## シリーズ作品（井上涼子三部作）
 
@@ -38,7 +38,7 @@
 
 ### ROOMMATE+ONE
 
-[Windows 95対応](../Page/Microsoft_Windows_95.md "wikilink")（98以降は動作未確認、[XPには非対応](../Page/Microsoft_Windows_XP.md "wikilink")）。1998年2月 発売。本作だけ[データム・ポリスター](https://ja.wikipedia.org/wiki/データム・ポリスター "wikilink")でなく[イメージファクトリー/アイエム](https://ja.wikipedia.org/wiki/イメージファクトリー/アイエム "wikilink")が発売している。リアルタイム連動に加えて通常の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")形式のモードが選択可能であったり、本作だけのオリジナルキャラクターで隣家に住む女子大生・鈴木いずみ（[声](../Page/声優.md "wikilink")：[小松里賀](https://ja.wikipedia.org/wiki/小松里賀 "wikilink")）が登場するなど多数の要素が追加されている。発売当初の製品版では様々なバグが発生していたが、後日データムのサイトで解消するパッチプログラムが配布された。
+[Windows 95対応](../Page/Microsoft_Windows_95.md "wikilink")（98以降は動作未確認、[XPには非対応](../Page/Microsoft_Windows_XP.md "wikilink")）。1998年2月 発売。本作だけ[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")でなく[イメージファクトリー/アイエム](https://ja.wikipedia.org/wiki/イメージファクトリー/アイエム "wikilink")が発売している。リアルタイム連動に加えて通常の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")形式のモードが選択可能であったり、本作だけのオリジナルキャラクターで隣家に住む女子大生・鈴木いずみ（[声](../Page/声優.md "wikilink")：[小松里賀](https://ja.wikipedia.org/wiki/小松里賀 "wikilink")）が登場するなど多数の要素が追加されている。発売当初の製品版では様々なバグが発生していたが、後日データムのサイトで解消するパッチプログラムが配布された。
 
 ## 主な登場人物のプロフィール
 
@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - 声：[藤野とも子](https://ja.wikipedia.org/wiki/藤野とも子 "wikilink")
+  - 声：[藤野とも子](../Page/藤野とも子.md "wikilink")
   - 東京都立橘南（たちばなみなみ）高等学校2年生
   - 生年月日：[1979年](../Page/1979年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")
   - 血液型：[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 声：[柳原みわ](https://ja.wikipedia.org/wiki/星河舞 "wikilink")
+  - 声：[柳原みわ](../Page/星河舞.md "wikilink")
   - 東京都立橘南高等学校2年生
   - 生年月日：1979年[12月21日](../Page/12月21日.md "wikilink")
   - 血液型：[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
@@ -81,10 +81,10 @@
 
 ## ノベライズ
 
-[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")の[電撃G's文庫](https://ja.wikipedia.org/wiki/電撃G's文庫 "wikilink")\[4\]より本作のノベライズが刊行されている。ゲーム1作目でしか見ることが出来なかったキャラクター原案・[たくま朋正](https://ja.wikipedia.org/wiki/たくま朋正 "wikilink")の挿絵を見ることが出来る。涼子より1歳年下の主人公・大沢悟の視点から涼子との共同生活が描かれる。細部の設定はゲーム本編とかなり異なっているが、ゲームを未プレイでもすんなり読める内容になっている。
+[メディアワークス](../Page/メディアワークス.md "wikilink")の[電撃G's文庫](https://ja.wikipedia.org/wiki/電撃G's文庫 "wikilink")\[4\]より本作のノベライズが刊行されている。ゲーム1作目でしか見ることが出来なかったキャラクター原案・[たくま朋正](../Page/たくま朋正.md "wikilink")の挿絵を見ることが出来る。涼子より1歳年下の主人公・大沢悟の視点から涼子との共同生活が描かれる。細部の設定はゲーム本編とかなり異なっているが、ゲームを未プレイでもすんなり読める内容になっている。
 
   - ルームメイト 井上涼子の場合（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")、[紺野たくみ](https://ja.wikipedia.org/wiki/紺野たくみ "wikilink")・著、たくま朋正・画）
-  - ルームメイト2 井上涼子と三角関係（1997年[9月25日](../Page/9月25日.md "wikilink")、[伊達将範](https://ja.wikipedia.org/wiki/伊達将範 "wikilink")・著、たくま朋正・画）
+  - ルームメイト2 井上涼子と三角関係（1997年[9月25日](../Page/9月25日.md "wikilink")、[伊達将範](../Page/伊達将範.md "wikilink")・著、たくま朋正・画）
   - ルームメイト3 井上涼子と大沢悟（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")5月25日、伊達将範・著、たくま朋正・画）
 
 なお、大沢悟編が完結した後に姉妹作として『クラスメイト イー・リンリンの場合』（1998年[1月25日](../Page/1月25日.md "wikilink")、紺野たくみ・著、たくま朋正・画）が刊行されたが、関連性はほぼ皆無である。
@@ -100,7 +100,7 @@
 
 ## その他の関連商品
 
-データム・ポリスターからラジオ番組『[電撃大賞](https://ja.wikipedia.org/wiki/電撃大賞 "wikilink")』で放送されたドラマCD2点を始め、サウンドトラックや主題歌など多数のCDが出ている。
+データム・ポリスターからラジオ番組『[電撃大賞](../Page/電撃大賞.md "wikilink")』で放送されたドラマCD2点を始め、サウンドトラックや主題歌など多数のCDが出ている。
 
 2000年[3月16日](../Page/3月16日.md "wikilink")には、井上涼子3部作+ファンディスク『涼子のおしゃべりルーム』の4作品を収録した豪華版『ROOMMATE〜井上涼子 COMPLETE BOX〜』が発売された。同BOXの特典として、応募者全員に井上涼子からの手書きの手紙が届くというスペシャル企画があった。
 

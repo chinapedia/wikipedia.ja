@@ -1,7 +1,7 @@
 > この記事は[AVG Anti-Virus](https://ja.wikipedia.org/wiki/AVG_Anti-Virus)から翻訳されています。
 
 
-**AVG AntiVirus**, **AVG Anti-Virus**（エーブイジー アンチウイルス）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")に本社を置く[AVGテクノロジー社](https://ja.wikipedia.org/wiki/AVG_Technologies "wikilink")（旧グリソフト社：本社[チェコ](../Page/チェコ.md "wikilink")）が[開発](https://ja.wikipedia.org/wiki/ソフトウェア開発 "wikilink")、販売している[アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではデジカ社（旧コージェンメディア社）が販売・[サポート](https://ja.wikipedia.org/wiki/サポート "wikilink")をしている。
+**AVG AntiVirus**, **AVG Anti-Virus**（エーブイジー アンチウイルス）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")に本社を置く[AVGテクノロジー社](../Page/AVG_Technologies.md "wikilink")（旧グリソフト社：本社[チェコ](../Page/チェコ.md "wikilink")）が[開発](../Page/ソフトウェア開発.md "wikilink")、販売している[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではデジカ社（旧コージェンメディア社）が販売・[サポート](https://ja.wikipedia.org/wiki/サポート "wikilink")をしている。
 
 __TOC__{{-}}
 
@@ -28,7 +28,7 @@ __TOC__{{-}}
   - AVG Anti-Virus plus Firewall Edition
     Anti-Virusにパーソナルファイアウォール機能を追加。
   - AVG Internet Security
-    Anti-Virusに[パーソナルファイアウォール](../Page/パーソナルファイアウォール.md "wikilink")機能、[アンチスパイウェア](https://ja.wikipedia.org/wiki/アンチスパイウェア "wikilink")や[迷惑メールフィルタがセットになっている](../Page/スパム_\(メール\).md "wikilink")[インターネットセキュリティスイート](https://ja.wikipedia.org/wiki/インターネットセキュリティスイート "wikilink")。
+    Anti-Virusに[パーソナルファイアウォール](../Page/パーソナルファイアウォール.md "wikilink")機能、[アンチスパイウェア](../Page/アンチスパイウェア.md "wikilink")や[迷惑メールフィルタがセットになっている](../Page/スパム_\(メール\).md "wikilink")[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")。
   - AVG Identity Protection
     日本未発売。AVG Internet Security 9.0には本機能が含まれている。パターンファイルなどの従来のウイルス対策機能に依存せず、プログラムの行動監視を行う事で未知のマルウェア検出を可能としている。本製品は、他のウイルス対策ソフトとの併用が可能。
 
@@ -40,7 +40,7 @@ __TOC__{{-}}
     AVG File Server Edition
     AVG Email Server Edition
     AVG Server Edition for Linux/FreeBSD
-    [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")と[FreeBSD](../Page/FreeBSD.md "wikilink")用
+    [Linux](../Page/Linux.md "wikilink")と[FreeBSD](../Page/FreeBSD.md "wikilink")用
 
 ## 無料製品
 
@@ -52,7 +52,7 @@ __TOC__{{-}}
   - AVG Anti-Virus Free Small Business Edition
     企業内での利用が可能になった無料バージョン。個人使用に限定されたAVG Anti-Virus Free Editionと異なり、ユーザー登録が必須。使用可能ライセンス数は1社あたり5ライセンス以下。基本性能、動作環境はAVG Anti-Virus Free Editionと同等。2009年8月12日より日本、ドイツ、ブラジルの3ヶ国でのみ配布開始された。
   - AVG Rescue CD
-    2010年3月25日より英語版のみ無償で公開された。CDだけでなく、BIOSが対応していればUSBメモリからの起動も可能である。ウイルス検出の他、ファイルマネージャーや、Windows用のレジストリエディタ、削除ファイルやパーティションを復帰するためのユーティリティを実装する。他に、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")、[OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH "wikilink")デーモン、[ntfsprogs](https://ja.wikipedia.org/wiki/:en:ntfsprogs "wikilink")、[ping](https://ja.wikipedia.org/wiki/ping "wikilink")などの基本的な[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")サービスを搭載しおり、アンチウイルスソフトではなく、データ復旧用のLinuxにアンチウイルスソフトを追加したものである。
+    2010年3月25日より英語版のみ無償で公開された。CDだけでなく、BIOSが対応していればUSBメモリからの起動も可能である。ウイルス検出の他、ファイルマネージャーや、Windows用のレジストリエディタ、削除ファイルやパーティションを復帰するためのユーティリティを実装する。他に、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")、[OpenSSH](../Page/OpenSSH.md "wikilink")デーモン、[ntfsprogs](https://ja.wikipedia.org/wiki/:en:ntfsprogs "wikilink")、[ping](https://ja.wikipedia.org/wiki/ping "wikilink")などの基本的な[Linux](../Page/Linux.md "wikilink")サービスを搭載しおり、アンチウイルスソフトではなく、データ復旧用のLinuxにアンチウイルスソフトを追加したものである。
 
 ## 不具合
 

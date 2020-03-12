@@ -5,7 +5,7 @@
 
 ## 概要
 
-本番組が開始する2年半前から放送されている[TBSの](../Page/TBSテレビ.md "wikilink")『[関口宏のサンデーモーニング](https://ja.wikipedia.org/wiki/サンデーモーニング "wikilink")』の成功を受けて、当時の[鹿内宏明](https://ja.wikipedia.org/wiki/鹿内宏明 "wikilink")会長の肝いりで放送を開始した。2012年3月まで同枠で続く土曜日午前の情報番組路線の元祖といえる。[1992年](../Page/1992年.md "wikilink")4月4日から、放送時間は85分となった。
+本番組が開始する2年半前から放送されている[TBSの](../Page/TBSテレビ.md "wikilink")『[関口宏のサンデーモーニング](../Page/サンデーモーニング.md "wikilink")』の成功を受けて、当時の[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長の肝いりで放送を開始した。2012年3月まで同枠で続く土曜日午前の情報番組路線の元祖といえる。[1992年](../Page/1992年.md "wikilink")4月4日から、放送時間は85分となった。
 
 1998年3月いっぱいで放送終了し、9年間の歴史に幕を下ろした。
 
@@ -45,7 +45,7 @@
 <tr class="even">
 <td><p>1996.10.5</p></td>
 <td><p>1998.3.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青嶋達也" title="wikilink">青嶋達也</a></p></td>
+<td><p><a href="../Page/青嶋達也.md" title="wikilink">青嶋達也</a></p></td>
 </tr>
 </tbody>
 </table>

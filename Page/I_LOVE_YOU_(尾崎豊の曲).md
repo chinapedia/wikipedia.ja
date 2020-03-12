@@ -1,11 +1,11 @@
 > この記事は[I LOVE YOU \(\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(\))から翻訳されています。
 
 
-「**I LOVE YOU**」（アイ ラブ ユー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[尾崎豊](https://ja.wikipedia.org/wiki/尾崎豊 "wikilink")が、1983年にリリースしたファースト・アルバム『[十七歳の地図](https://ja.wikipedia.org/wiki/十七歳の地図_\(アルバム\) "wikilink")』に収録されていた曲で、1991年にシングル・カットされた（11枚目の[シングル](../Page/シングル.md "wikilink")）。
+「**I LOVE YOU**」（アイ ラブ ユー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[尾崎豊](../Page/尾崎豊.md "wikilink")が、1983年にリリースしたファースト・アルバム『[十七歳の地図](../Page/十七歳の地図_\(アルバム\).md "wikilink")』に収録されていた曲で、1991年にシングル・カットされた（11枚目の[シングル](../Page/シングル.md "wikilink")）。
 
 ## 背景
 
-この曲が創作された経緯は、尾崎のデビュー・アルバムである『[十七歳の地図](https://ja.wikipedia.org/wiki/十七歳の地図_\(アルバム\) "wikilink")』の制作も終盤に差し掛かった際に、[プロデューサーである](../Page/音楽プロデューサー.md "wikilink")[須藤晃](../Page/須藤晃.md "wikilink")の提案で、「曲が足りないからバラードを書いてきて」と言われ、尾崎はその場で「あ、良い曲あります。『I LOVE YOU〜♪』って感じの曲なんですけど」と返答し、須藤も「うん、いいじゃない。そういう感じで書いてきてくれる」とのやり取りで創作された\[1\]。
+この曲が創作された経緯は、尾崎のデビュー・アルバムである『[十七歳の地図](../Page/十七歳の地図_\(アルバム\).md "wikilink")』の制作も終盤に差し掛かった際に、[プロデューサーである](../Page/音楽プロデューサー.md "wikilink")[須藤晃](../Page/須藤晃.md "wikilink")の提案で、「曲が足りないからバラードを書いてきて」と言われ、尾崎はその場で「あ、良い曲あります。『I LOVE YOU〜♪』って感じの曲なんですけど」と返答し、須藤も「うん、いいじゃない。そういう感じで書いてきてくれる」とのやり取りで創作された\[1\]。
 
 しかし、須藤の見解では「僕はその場で即興で口ずさんだ可能性が高い気がする。もともとあった曲なら、それ以前にテープで渡しているはずだし。曲作りをしていたときに、大学ノートの歌詞を見ながら、その場で僕に歌って聞かせたのと似た感じだったんじゃないだろうか」と述べている\[2\]。
 
@@ -29,15 +29,15 @@
 
 ## リリース
 
-[1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[CBSソニーより](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")の2形態でリリースされた。
+[1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[CBSソニーより](../Page/ソニー・ミュージックレコーズ.md "wikilink")[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")の2形態でリリースされた。
 
-元々この曲は、1983年にリリースされた尾崎のファースト・アルバム、『[十七歳の地図](https://ja.wikipedia.org/wiki/十七歳の地図_\(アルバム\) "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）に収録されていた作品で、8年の歳月を経てシングル曲としてリリースされた。
+元々この曲は、1983年にリリースされた尾崎のファースト・アルバム、『[十七歳の地図](../Page/十七歳の地図_\(アルバム\).md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）に収録されていた作品で、8年の歳月を経てシングル曲としてリリースされた。
 
-また、2001年9月12日にジャケット、カップリング曲を一新して再リリースされており、カップリングのライブバージョンは[1991年](../Page/1991年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")の[郡山市民文化センター](https://ja.wikipedia.org/wiki/郡山市民文化センター "wikilink")でのライブより収録されている。
+また、2001年9月12日にジャケット、カップリング曲を一新して再リリースされており、カップリングのライブバージョンは[1991年](../Page/1991年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")の[郡山市民文化センター](../Page/郡山市民文化センター.md "wikilink")でのライブより収録されている。
 
 ## ミュージック・ビデオ
 
-[PVはビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")『[6 PIECES OF STORY](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）では1985年11月14日の[代々木オリンピックプール第一体育館でのライブ音源を元に](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")、独房のような場所で尾崎がたたずみ、転げ回り不気味に笑うなど狂ったような様子の尾崎を映したものが収録されている。[1996年](../Page/1996年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には[1991年](../Page/1991年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")に行われた郡山市民文化センターでのライブ映像を使用した新たなPVがシングルビデオとして発売されている。[2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[10 PIECES OF STORYには](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")、また新たなミュージックビデオが制作されている\[7\]。
+[PVはビデオ](../Page/ミュージック・ビデオ.md "wikilink")『[6 PIECES OF STORY](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）では1985年11月14日の[代々木オリンピックプール第一体育館でのライブ音源を元に](../Page/国立代々木競技場.md "wikilink")、独房のような場所で尾崎がたたずみ、転げ回り不気味に笑うなど狂ったような様子の尾崎を映したものが収録されている。[1996年](../Page/1996年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には[1991年](../Page/1991年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")に行われた郡山市民文化センターでのライブ映像を使用した新たなPVがシングルビデオとして発売されている。[2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[10 PIECES OF STORYには](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")、また新たなミュージックビデオが制作されている\[7\]。
 
 ## ライブ・パフォーマンス
 
@@ -63,9 +63,9 @@
 
 :\* [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[カップヌードル](../Page/カップヌードル.md "wikilink")」（2001年）
 
-:\* [ダイハツ・タント](https://ja.wikipedia.org/wiki/ダイハツ・タント "wikilink")カスタム（2005年） - [河口恭吾](../Page/河口恭吾.md "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")によるカバーを使用。
+:\* [ダイハツ・タント](../Page/ダイハツ・タント.md "wikilink")カスタム（2005年） - [河口恭吾](../Page/河口恭吾.md "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")によるカバーを使用。
 
-:\* [KDDI](../Page/KDDI.md "wikilink")・音楽配信サービス「[LISMO](https://ja.wikipedia.org/wiki/LISMO "wikilink")」（2009年） - 初めて尾崎豊自身の映像がCMに使用される。
+:\* [KDDI](../Page/KDDI.md "wikilink")・音楽配信サービス「[LISMO](../Page/LISMO.md "wikilink")」（2009年） - 初めて尾崎豊自身の映像がCMに使用される。
 
 :\* [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（2010年） - 尾崎の息子である[尾崎裕哉](https://ja.wikipedia.org/wiki/尾崎裕哉 "wikilink")のカバーを使用。
 
@@ -78,24 +78,24 @@
   - [ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")） - テレビ番組『[EXH](https://ja.wikipedia.org/wiki/EXH "wikilink")』内ソロライブ（2009年5月16日）
   - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") - テレビ番組『[MUSIC FAIR21](https://ja.wikipedia.org/wiki/MUSIC_FAIR21 "wikilink")』内ライブ（2007年3月3日）
   - [Infinix](../Page/Infinix.md "wikilink")& Voices （[Infinix](../Page/Infinix.md "wikilink")）『[尾崎豊が教えてくれたこと](https://ja.wikipedia.org/wiki/尾崎豊が教えてくれたこと "wikilink")〜YUTAKA OZAKI BALLAD COVERS〜』（2012年）
-  - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink") - ライブでのカバー。後にトリビュートアルバム『["BLUE" A TRIBUTE TO YUTAKA OZAKI](https://ja.wikipedia.org/wiki/"BLUE"_A_TRIBUTE_TO_YUTAKA_OZAKI "wikilink")』に収録（2004年）
-  - [岡幸二郎](https://ja.wikipedia.org/wiki/岡幸二郎 "wikilink") - 『LOVE COLLECTION』（2005年）
+  - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink") - ライブでのカバー。後にトリビュートアルバム『["BLUE" A TRIBUTE TO YUTAKA OZAKI](../Page/"BLUE"_A_TRIBUTE_TO_YUTAKA_OZAKI.md "wikilink")』に収録（2004年）
+  - [岡幸二郎](../Page/岡幸二郎.md "wikilink") - 『LOVE COLLECTION』（2005年）
   - [岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")（ポルノグラフィティ） - 自身のラジオ番組でカバー
-  - [小田和正](../Page/小田和正.md "wikilink") - テレビ番組『[クリスマスの約束](https://ja.wikipedia.org/wiki/クリスマスの約束 "wikilink")2006』内ライブ（2006年）
+  - [小田和正](../Page/小田和正.md "wikilink") - テレビ番組『[クリスマスの約束](../Page/クリスマスの約束.md "wikilink")2006』内ライブ（2006年）
   - [男気レゲエ組](https://ja.wikipedia.org/wiki/男気レゲエ組 "wikilink") - 『絆レゲエ 〜明日に向かって歌え\!〜』（2011年）
-  - [加藤登紀子](https://ja.wikipedia.org/wiki/加藤登紀子 "wikilink") - 『SONGS うたが街に流れていた』（2008年）
+  - [加藤登紀子](../Page/加藤登紀子.md "wikilink") - 『SONGS うたが街に流れていた』（2008年）
   - [甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink") - 『[TEN STORIES 2](https://ja.wikipedia.org/wiki/TEN_STORIES_2 "wikilink")』（2008年）
   - [KARIN](https://ja.wikipedia.org/wiki/KARIN "wikilink") - シングル「SING 4 U」カップリング（2009年）
   - [河口恭吾](../Page/河口恭吾.md "wikilink") - 『I LOVE YOU 〜singles〜』（2006年）
-  - [河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink") - 『[evergreen anniversary edition](https://ja.wikipedia.org/wiki/evergreen_anniversary_edition "wikilink")』（2007年）
+  - [河村隆一](../Page/河村隆一.md "wikilink") - 『[evergreen anniversary edition](https://ja.wikipedia.org/wiki/evergreen_anniversary_edition "wikilink")』（2007年）
   - [清木場俊介](../Page/清木場俊介.md "wikilink") - ライブでのカバー。『[ドキュメンタリー・ミュージックビデオ 宇部三部作 完全版](https://ja.wikipedia.org/wiki/ドキュメンタリー・ミュージックビデオ_宇部三部作_完全版 "wikilink")』収録（2011年）
-  - [清貴](https://ja.wikipedia.org/wiki/清貴 "wikilink")
-  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")） - [2012年](../Page/2012年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に放送された[TOKYO FM系列のラジオ番組](../Page/エフエム東京.md "wikilink")『[桑田佳祐のめでたい夜遊び 〜“歳越し”バースデースペシャル〜](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』や、2013年の[AAAイベント](https://ja.wikipedia.org/wiki/アクト・アゲインスト・エイズ "wikilink")『昭和八十八年度\!第二回ひとり紅白歌合戦』でカバー。
+  - [清貴](../Page/清貴.md "wikilink")
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")） - [2012年](../Page/2012年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に放送された[TOKYO FM系列のラジオ番組](../Page/エフエム東京.md "wikilink")『[桑田佳祐のめでたい夜遊び 〜“歳越し”バースデースペシャル〜](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』や、2013年の[AAAイベント](../Page/アクト・アゲインスト・エイズ.md "wikilink")『昭和八十八年度\!第二回ひとり紅白歌合戦』でカバー。
   - [香寿たつき](https://ja.wikipedia.org/wiki/香寿たつき "wikilink") - 『Gladiolus（グラジオラス）』 （2018年）
   - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink") - ライブでのカバー。後にアルバム『[ALL COVERS BEST](https://ja.wikipedia.org/wiki/ALL_COVERS_BEST "wikilink")』に収録（2010年）
   - [酒匂ミユキ](https://ja.wikipedia.org/wiki/酒匂ミユキ "wikilink") - 『MAN〜女が唄う男達のバラード〜』（2003年）
-  - [沢田知可子](https://ja.wikipedia.org/wiki/沢田知可子 "wikilink") - 『UTATANE』（1993年）
-  - [さわち美欧](https://ja.wikipedia.org/wiki/さわち美欧 "wikilink") - 『さわち美欧 モン・レーヴ〜私の夢』（2005年）
+  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 『UTATANE』（1993年）
+  - [さわち美欧](../Page/さわち美欧.md "wikilink") - 『さわち美欧 モン・レーヴ〜私の夢』（2005年）
   - [姿月あさと](https://ja.wikipedia.org/wiki/姿月あさと "wikilink") - 『姿月あさと シンフォニック・アルバム』（2001年）
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink") - 『[男歌II〜20世紀ノスタルジア〜](https://ja.wikipedia.org/wiki/男歌II〜20世紀ノスタルジア〜 "wikilink")』（2010年）
   - [姜暁艶](https://ja.wikipedia.org/wiki/姜暁艶 "wikilink")（ジャン・ショウイェン) - 『心恋〜LOVE〜』（2010年）
@@ -104,32 +104,32 @@
   - [堂本剛](../Page/堂本剛.md "wikilink") - ライブでのカバー。ビデオ『KinKi Kids'96』に収録（1996年）。後にアルバム『[カバ](https://ja.wikipedia.org/wiki/カバ_\(アルバム\) "wikilink")』に収録（2013年）
   - [NAOKI](https://ja.wikipedia.org/wiki/NAOKI_\(ダンサー\) "wikilink")（EXILE） - ラジオ番組「[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")」でカバー
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") - シングル「[見えない星](../Page/見えない星.md "wikilink")」カップリング（2007年）
-  - [中西保志](https://ja.wikipedia.org/wiki/中西保志 "wikilink") - 『Standards2』（2007年）
+  - [中西保志](../Page/中西保志.md "wikilink") - 『Standards2』（2007年）
   - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 『[フォーク・ソング2 〜歌姫哀翔歌](https://ja.wikipedia.org/wiki/フォーク・ソング2_〜歌姫哀翔歌 "wikilink")』（2009年）
-  - [成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink") - トークCD『剣の舞』
-  - [畑儀文](https://ja.wikipedia.org/wiki/畑儀文 "wikilink") - 『シクラメンのかほり〜新しい日本のうた』（2001年）
+  - [成田剣](../Page/成田剣.md "wikilink") - トークCD『剣の舞』
+  - [畑儀文](../Page/畑儀文.md "wikilink") - 『シクラメンのかほり〜新しい日本のうた』（2001年）
   - [飛蘭](https://ja.wikipedia.org/wiki/Faylan "wikilink") - 『[FAYvorite](https://ja.wikipedia.org/wiki/FAYvorite "wikilink")』（2014年）
   - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") - [2011年](../Page/2011年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列のラジオ番組『[福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ](../Page/福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ.md "wikilink")』でカヴァー。
-  - [大倉忠義](https://ja.wikipedia.org/wiki/大倉忠義 "wikilink") - [2013年](../Page/2013年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列のラジオ番組『[関ジャニ∞大倉忠義 日曜日好っきゃねん](https://ja.wikipedia.org/wiki/関ジャニ∞大倉忠義_日曜日好っきゃねん "wikilink")』でカヴァー。
+  - [大倉忠義](../Page/大倉忠義.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列のラジオ番組『[関ジャニ∞大倉忠義 日曜日好っきゃねん](https://ja.wikipedia.org/wiki/関ジャニ∞大倉忠義_日曜日好っきゃねん "wikilink")』でカヴァー。
   - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink") - 『Ballade』（2008年）
-  - [本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - 『[I LOVE YOU](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(本田美奈子.のアルバム\) "wikilink")』（2006年）
+  - [本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - 『[I LOVE YOU](../Page/I_LOVE_YOU_\(本田美奈子.のアルバム\).md "wikilink")』（2006年）
   - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink") - 『pure flavor \#1〜color of love〜』（2007年）
   - [桃井かおり](../Page/桃井かおり.md "wikilink") - 『More Standard』（1993年）
   - [森進一](../Page/森進一.md "wikilink") - 『Love Music』（2009年）
-  - [未涼亜希](https://ja.wikipedia.org/wiki/未涼亜希 "wikilink") - 『14 COVERS TAKARAZUKA OTOKOUTA』（2011年）
-  - [和央ようか](https://ja.wikipedia.org/wiki/和央ようか "wikilink") - 『麗人 REIJIN』（2015年）\[11\]
+  - [未涼亜希](../Page/未涼亜希.md "wikilink") - 『14 COVERS TAKARAZUKA OTOKOUTA』（2011年）
+  - [和央ようか](../Page/和央ようか.md "wikilink") - 『麗人 REIJIN』（2015年）\[11\]
 
 ### 英語バージョン
 
-  - [ケーシー・ランキン](https://ja.wikipedia.org/wiki/ケーシー・ランキン "wikilink") (*Casey Rankin*)
-  - [デス・ダイアー](https://ja.wikipedia.org/wiki/ジグソー "wikilink") (*Des Dyer*)
+  - [ケーシー・ランキン](../Page/ケーシー・ランキン.md "wikilink") (*Casey Rankin*)
+  - [デス・ダイアー](../Page/ジグソー.md "wikilink") (*Des Dyer*)
   - [デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")
       - 2010年11月放送の「MUSIC FAIR」では[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")とデュエットした。
   - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink") - 『[COVERS:2](https://ja.wikipedia.org/wiki/COVERS:2 "wikilink")』（2012年）
 
 ### 韓国語バージョン
 
-  - [Zero](https://ja.wikipedia.org/wiki/Zero_\(歌手\) "wikilink") - シングル「あなたがいてくれるから」 type Blue カップリング (2012年)
+  - [Zero](../Page/Zero_\(歌手\).md "wikilink") - シングル「あなたがいてくれるから」 type Blue カップリング (2012年)
 
   - [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink") - シングル「ジグソーパズル」カップリング（2004年）
 
@@ -156,13 +156,13 @@
 
   - **オリジナル版**
       - 滝本季延 - [ドラム](../Page/ドラムセット.md "wikilink")
-      - 本田達也 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+      - 本田達也 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink") - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
       - [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink") - [エレクトリックピアノ](../Page/エレクトリックピアノ.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
   - 「**I LOVE YOU （LIVE VERSION）**」
       - 「**[Yutaka Ozaki & THE BIRTH TOUR BAND](https://ja.wikipedia.org/wiki/Heart_Of_Klaxon#THE_BIRTH_TOUR_BAND "wikilink")**」
           - 尾崎豊 - ボーカル、ギター、[ピアノ](../Page/ピアノ.md "wikilink")
-          - 西本明 - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+          - 西本明 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
           - [長田進](../Page/Dr.StrangeLove.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
           - 鈴川真樹 - ギター
           - 渡辺茂 - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
@@ -176,20 +176,20 @@
 
   - **オリジナル版**
       - **[須藤晃](../Page/須藤晃.md "wikilink")** - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
-      - **助川健** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、ミックス・エンジニア
+      - **助川健** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、ミックス・エンジニア
       - **[田島照久](https://ja.wikipedia.org/wiki/田島照久_\(デザイナー\) "wikilink")** - デザイン、[アート・ディレクション](https://ja.wikipedia.org/wiki/アートディレクション "wikilink")、写真撮影
       - **TAKASHI ITO** - セカンド・エンジニア
       - **大野邦彦** - セカンド・エンジニア
       - **村上茂** - プロモーション・スタッフ
   - 「**I LOVE YOU （LIVE VERSION）**」
-      - **[尾崎豊](https://ja.wikipedia.org/wiki/尾崎豊 "wikilink")** - プロデューサー
+      - **[尾崎豊](../Page/尾崎豊.md "wikilink")** - プロデューサー
       - **須藤晃** - コ・プロデューサー
       - **諸鍛治辰也** - レコーディング、ミックス・エンジニア
-      - **笠井鉄平** - [マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+      - **笠井鉄平** - [マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")
       - **中沢慎太郎** - アシスタント・ディレクター
       - **徳永陽一** - アシスタント・エンジニア
       - **田島照久** - アート・ディレクション、デザイン、写真撮影
-      - **[アイソトープ](https://ja.wikipedia.org/wiki/アイソトープ_\(事務所\) "wikilink")** - [エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+      - **[アイソトープ](https://ja.wikipedia.org/wiki/アイソトープ_\(事務所\) "wikilink")** - [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
 
 ## リリース履歴
 
@@ -200,7 +200,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -209,7 +209,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ" title="wikilink">CBSソニー</a></p></td>
+<td><p><a href="../Page/ソニー・ミュージックレコーズ.md" title="wikilink">CBSソニー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8センチCD</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>CSDL3248<br />
@@ -233,17 +233,17 @@ CSSL3248</p></td>
 
   - 「**I LOVE YOU**」
       - ライブ音源
-          - 『[6 PIECES OF STORY](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")』（1986年）- 1985年11月15日の[代々木オリンピックプール第一体育館でのライブから収録](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")。
-          - 『[LAST TEENAGE APPEARANCE](https://ja.wikipedia.org/wiki/LAST_TEENAGE_APPEARANCE "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")） - 1985年11月15日の国立代々木競技場|代々木オリンピックプール第\*\*\*『[約束の日 Vol.2](https://ja.wikipedia.org/wiki/約束の日_Vol.2 "wikilink")』（[1993年](../Page/1993年.md "wikilink")） - 事実上、最後のライブとなった1991年10月30日の代々木オリンピックプール第一体育館での公演から収録。
-          - 『[MISSING BOY](https://ja.wikipedia.org/wiki/MISSING_BOY "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")） - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")の[有明コロシアム](https://ja.wikipedia.org/wiki/有明コロシアム "wikilink")でのライブから収録。
+          - 『[6 PIECES OF STORY](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")』（1986年）- 1985年11月15日の[代々木オリンピックプール第一体育館でのライブから収録](../Page/国立代々木競技場.md "wikilink")。
+          - 『[LAST TEENAGE APPEARANCE](../Page/LAST_TEENAGE_APPEARANCE.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")） - 1985年11月15日の国立代々木競技場|代々木オリンピックプール第\*\*\*『[約束の日 Vol.2](../Page/約束の日_Vol.2.md "wikilink")』（[1993年](../Page/1993年.md "wikilink")） - 事実上、最後のライブとなった1991年10月30日の代々木オリンピックプール第一体育館での公演から収録。
+          - 『[MISSING BOY](../Page/MISSING_BOY.md "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")） - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")の[有明コロシアム](../Page/有明コロシアム.md "wikilink")でのライブから収録。
           - 『[ARTERY & VEIN : THE VERY BEST OF YUTAKA OZAKI](https://ja.wikipedia.org/wiki/ARTERY_&_VEIN_:_THE_VERY_BEST_OF_YUTAKA_OZAKI "wikilink")』（[1999年](../Page/1999年.md "wikilink")）
       - ライブ映像
           - 『[TOUR 1991 BIRTH](https://ja.wikipedia.org/wiki/TOUR_1991_BIRTH "wikilink")』（1992年） - 事実上、最後のライブとなった1991年10月30日の代々木オリンピックプール第一体育館での公演から収録。
           - 『[約束の日 LAST APPEARANCE](https://ja.wikipedia.org/wiki/約束の日_LAST_APPEARANCE "wikilink")』（1993年） - 事実上、最後のライブとなった1991年10月30日の代々木オリンピックプール第一体育館での公演から収録。
-          - 『[OZAKI・18](https://ja.wikipedia.org/wiki/OZAKI・18 "wikilink")』（1996年） - [1984年](../Page/1984年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")の[新宿ルイードでのデビューライブから収録](https://ja.wikipedia.org/wiki/原宿RUIDO "wikilink")。
-          - 『[OZAKI・19](https://ja.wikipedia.org/wiki/OZAKI・19 "wikilink")』（1997年） - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月12日](../Page/1月12日.md "wikilink")の[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")でのライブから収録。
+          - 『[OZAKI・18](https://ja.wikipedia.org/wiki/OZAKI・18 "wikilink")』（1996年） - [1984年](../Page/1984年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")の[新宿ルイードでのデビューライブから収録](../Page/原宿RUIDO.md "wikilink")。
+          - 『[OZAKI・19](https://ja.wikipedia.org/wiki/OZAKI・19 "wikilink")』（1997年） - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月12日](../Page/1月12日.md "wikilink")の[日本青年館](../Page/日本青年館.md "wikilink")でのライブから収録。
           - 『[LAST TEENAGE APPEARANCE](https://ja.wikipedia.org/wiki/LAST_TEENAGE_APPEARANCE_\(ビデオ\) "wikilink")』（1997年）
-          - 『尾崎豊・もうひとつのリアリティ LIVE + DOCUMENTARY』（2004年） - 1991年8月27日の[郡山市民文化センター](https://ja.wikipedia.org/wiki/郡山市民文化センター "wikilink")でのライブから収録。
+          - 『尾崎豊・もうひとつのリアリティ LIVE + DOCUMENTARY』（2004年） - 1991年8月27日の[郡山市民文化センター](../Page/郡山市民文化センター.md "wikilink")でのライブから収録。
           - 『[OZAKI FILM ALIVE AT ARIAKE COLOSSEUM IN 1987 THE TWENTY-FIRST SUMMER](https://ja.wikipedia.org/wiki/OZAKI_FILM_ALIVE_AT_ARIAKE_COLOSSEUM_IN_1987_THE_TWENTY-FIRST_SUMMER "wikilink")』（2006年） - 1987年[8月29日](../Page/8月29日.md "wikilink")の有明コロシアムでのライブから収録。
   - 「**ダンスホール**」
       - ライブ音源
@@ -256,14 +256,14 @@ CSSL3248</p></td>
 ## 収録アルバム
 
   - 「**I LOVE YOU**」
-      - 『[十七歳の地図](https://ja.wikipedia.org/wiki/十七歳の地図_\(アルバム\) "wikilink")』（1983年）
-      - 『[愛すべきものすべてに](https://ja.wikipedia.org/wiki/愛すべきものすべてに "wikilink")』（[1996年](../Page/1996年.md "wikilink")）
+      - 『[十七歳の地図](../Page/十七歳の地図_\(アルバム\).md "wikilink")』（1983年）
+      - 『[愛すべきものすべてに](../Page/愛すべきものすべてに.md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）
       - 『[13/71 - THE BEST SELECTION](https://ja.wikipedia.org/wiki/13/71_-_THE_BEST_SELECTION "wikilink")』（[2004年](../Page/2004年.md "wikilink")）
       - 『[WEDNESDAY 〜LOVE SONG BEST OF YUTAKA OZAKI](https://ja.wikipedia.org/wiki/WEDNESDAY_〜LOVE_SONG_BEST_OF_YUTAKA_OZAKI "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）
       - 『[I LOVE YOU〜BALLADE BEST](https://ja.wikipedia.org/wiki/I_LOVE_YOU〜BALLADE_BEST "wikilink")』（[2011年](../Page/2011年.md "wikilink")）
       - 『[ALL TIME BEST](https://ja.wikipedia.org/wiki/ALL_TIME_BEST "wikilink")』（[2013年](../Page/2013年.md "wikilink")）
   - 「**ダンスホール**」
-      - 『[回帰線](https://ja.wikipedia.org/wiki/回帰線_\(尾崎豊のアルバム\) "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）
+      - 『[回帰線](../Page/回帰線_\(尾崎豊のアルバム\).md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）
       - 『WEDNESDAY 〜LOVE SONG BEST OF YUTAKA OZAKI』（2008年）
       - 『I LOVE YOU〜BALLADE BEST』（2011年）
 

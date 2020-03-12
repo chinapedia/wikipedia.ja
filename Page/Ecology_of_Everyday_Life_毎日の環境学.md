@@ -1,17 +1,17 @@
 > この記事は[Ecology of Everyday Life ](https://ja.wikipedia.org/wiki/Ecology_of_Everyday_Life_)から翻訳されています。
 
 
-『**Ecology of Everyday Life 毎日の環境学**』（エコロジー オヴ エヴリデイ ライフ まいにちのかんきょうがく）は、[小沢健二](../Page/小沢健二.md "wikilink")の5枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**Ecology of Everyday Life 毎日の環境学**』（エコロジー オヴ エヴリデイ ライフ まいにちのかんきょうがく）は、[小沢健二](../Page/小沢健二.md "wikilink")の5枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
-2002年に発売のアルバム『[Eclectic](../Page/Eclectic.md "wikilink")』以来4年ぶりのリリースで、全曲[インストゥルメンタルの作品となっている](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")\[1\]。紙ジャケット仕様。
+2002年に発売のアルバム『[Eclectic](../Page/Eclectic.md "wikilink")』以来4年ぶりのリリースで、全曲[インストゥルメンタルの作品となっている](../Page/器楽曲.md "wikilink")\[1\]。紙ジャケット仕様。
 
 タイトルの元ネタは、チャイア・ヘラー著の『Ecology Of Everyday Life』で、ジャケットのイラストは[1981年](../Page/1981年.md "wikilink")に出版された『Der Zupfgeigenhansl』が元ネタとなっている。\[2\]。
 
 アーティスト写真が撮影されていなかったので、アーティスト写真の代わりにジャケット写真が使われることがあった。
 
-収録曲の演奏時間が6分以上と長く、全曲で60分を越え、小沢のアルバムでは最長の作品。前作に続いて全曲シングル・カットされておらず、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")も制作されていない。
+収録曲の演奏時間が6分以上と長く、全曲で60分を越え、小沢のアルバムでは最長の作品。前作に続いて全曲シングル・カットされておらず、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も制作されていない。
 
 なお、アルバムタイトルに入っている「Ecology」の本来の意味は「[生態学](../Page/生態学.md "wikilink")」であり\[3\]、「[環境学](../Page/環境学.md "wikilink")」という訳はあまり適当ではない\[4\]。
 
@@ -60,7 +60,7 @@
 
   - ：Synthesizer
 
-  - ：[Vibraphone](https://ja.wikipedia.org/wiki/ヴィブラフォン "wikilink"), [Marimba](https://ja.wikipedia.org/wiki/マリンバ "wikilink")
+  - ：[Vibraphone](../Page/ヴィブラフォン.md "wikilink"), [Marimba](../Page/マリンバ.md "wikilink")
 
 **スタッフ**
 
@@ -68,17 +68,17 @@
 
   - Tia Kane, Charisse Louallen：[A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")
 
-  - [Mitsuo Shindo](https://ja.wikipedia.org/wiki/信藤三雄 "wikilink")：[Art Director](https://ja.wikipedia.org/wiki/美術監督 "wikilink")
+  - [Mitsuo Shindo](../Page/信藤三雄.md "wikilink")：[Art Director](../Page/美術監督.md "wikilink")
 
   - Izumi Itoyama：[Design](../Page/デザイン.md "wikilink")
 
   - Kris Lewis, The SOS Crew：Assistant Engineer
 
-  - Soichi Kobayashi, Charisse Louallen, Minori Nakamura, Akira Miyake：[Executive-Producer](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+  - Soichi Kobayashi, Charisse Louallen, Minori Nakamura, Akira Miyake：[Executive-Producer](../Page/エグゼクティブ・プロデューサー.md "wikilink")
 
-  - ：[Mastering](https://ja.wikipedia.org/wiki/マスタリング "wikilink")
+  - ：[Mastering](../Page/マスタリング.md "wikilink")
 
-  - \- [Mixing](https://ja.wikipedia.org/wiki/ミキシング "wikilink")
+  - \- [Mixing](../Page/ミキシング.md "wikilink")
 
   - ：[Recorded](../Page/録音.md "wikilink")
 

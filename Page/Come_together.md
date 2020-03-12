@@ -13,7 +13,7 @@
 
 1.  **come together(RADIO EDIT)**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink") 作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
-      - [TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』テーマソング
+      - [TBS系列](../Page/TBSテレビ.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』テーマソング
 2.  **blue jewel**
       - 作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink") 作曲・編曲：[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
 3.  **1969**

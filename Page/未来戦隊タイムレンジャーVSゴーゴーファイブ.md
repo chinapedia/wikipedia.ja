@@ -73,7 +73,7 @@ EDにはOP『JIKU〜未来戦隊タイムレンジャー〜』の英詞版『Bey
     名前の由来は、の通貨単位「[レアル](../Page/レアル.md "wikilink")」\[8\]。
   - ルピア
     本編第15話登場のスナイパー・レイホウの姉。レーザーガンが武器。ディナールと共に[西部時代に赴き](../Page/西部開拓時代.md "wikilink")、アヤセ、ユウリ、ナガレ、マツリと交戦。
-    名前の由来は、の通貨単位「[ルピア](https://ja.wikipedia.org/wiki/ルピア "wikilink")」\[9\]。
+    名前の由来は、の通貨単位「[ルピア](../Page/ルピア.md "wikilink")」\[9\]。
   - バーツ
     本編第10話登場の傭兵オーグの叔父。シリングと共に[江戸時代](../Page/江戸時代.md "wikilink")に赴き、ドモン、シオン、ショウ、ダイモンと交戦。
     名前の由来は、の通貨単位「[バーツ](https://ja.wikipedia.org/wiki/バーツ "wikilink")」\[10\]。
@@ -99,58 +99,58 @@ EDにはOP『JIKU〜未来戦隊タイムレンジャー〜』の英詞版『Bey
 ## スタッフ
 
   - 原作：[八手三郎](../Page/八手三郎.md "wikilink")
-  - 連載：[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")
-  - プロデューサー：[日笠淳](https://ja.wikipedia.org/wiki/日笠淳 "wikilink")（東映）、加藤和夫（東映ビデオ）、矢田晃一（東映エージェンジー）
-  - 監督・特撮監督：[佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")
-  - 脚本：[山口亮太](https://ja.wikipedia.org/wiki/山口亮太 "wikilink")
-  - 撮影：[松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 連載：[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[てれびくん](../Page/てれびくん.md "wikilink")
+  - プロデューサー：[日笠淳](../Page/日笠淳.md "wikilink")（東映）、加藤和夫（東映ビデオ）、矢田晃一（東映エージェンジー）
+  - 監督・特撮監督：[佛田洋](../Page/佛田洋.md "wikilink")
+  - 脚本：[山口亮太](../Page/山口亮太.md "wikilink")
+  - 撮影：[松村文雄](../Page/松村文雄.md "wikilink")
   - 照明：竹田勝三
   - 録音：渡辺典夫
   - 編集：長田直樹
   - 美術：山下宏
-  - 助監督：[竹本昇](https://ja.wikipedia.org/wiki/竹本昇 "wikilink")
-  - 音楽：[亀山耕一郎](https://ja.wikipedia.org/wiki/亀山耕一郎 "wikilink")、[渡辺俊幸](https://ja.wikipedia.org/wiki/渡辺俊幸 "wikilink")
+  - 助監督：[竹本昇](../Page/竹本昇.md "wikilink")
+  - 音楽：[亀山耕一郎](../Page/亀山耕一郎.md "wikilink")、[渡辺俊幸](../Page/渡辺俊幸.md "wikilink")
   - 制作協力：東映テレビ・プロダクション
-  - 製作：[東映](../Page/東映.md "wikilink")、[東映エージエンシー](https://ja.wikipedia.org/wiki/東映エージエンシー "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")
+  - 製作：[東映](../Page/東映.md "wikilink")、[東映エージエンシー](../Page/東映エージエンシー.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")
 
 ## キャスト
 
   - 浅見竜也 / タイムレッド（声）：[永井マサル](../Page/永井大.md "wikilink")
-  - ユウリ / タイムピンク（声）：[勝村美香](https://ja.wikipedia.org/wiki/勝村美香 "wikilink")
-  - アヤセ / タイムブルー（声）：[城戸裕次](https://ja.wikipedia.org/wiki/城戸裕次 "wikilink")
-  - ドモン / タイムイエロー（声）：[小泉朋英](https://ja.wikipedia.org/wiki/和泉宗兵 "wikilink")
-  - シオン / タイムグリーン（声）：[倉貫匡弘](https://ja.wikipedia.org/wiki/倉貫匡弘 "wikilink")
-  - 滝沢直人 / タイムファイヤー（声）：[笠原紳司](https://ja.wikipedia.org/wiki/笠原紳司 "wikilink")
-  - 巽纏 / ゴーレッド（声）：[西岡竜一朗](https://ja.wikipedia.org/wiki/西岡竜一朗 "wikilink")
-  - 巽流水 / ゴーブルー（声）：[谷口賢志](https://ja.wikipedia.org/wiki/谷口賢志 "wikilink")
+  - ユウリ / タイムピンク（声）：[勝村美香](../Page/勝村美香.md "wikilink")
+  - アヤセ / タイムブルー（声）：[城戸裕次](../Page/城戸裕次.md "wikilink")
+  - ドモン / タイムイエロー（声）：[小泉朋英](../Page/和泉宗兵.md "wikilink")
+  - シオン / タイムグリーン（声）：[倉貫匡弘](../Page/倉貫匡弘.md "wikilink")
+  - 滝沢直人 / タイムファイヤー（声）：[笠原紳司](../Page/笠原紳司.md "wikilink")
+  - 巽纏 / ゴーレッド（声）：[西岡竜一朗](../Page/西岡竜一朗.md "wikilink")
+  - 巽流水 / ゴーブルー（声）：[谷口賢志](../Page/谷口賢志.md "wikilink")
   - 巽鐘 / ゴーグリーン（声）：[原田篤](../Page/原田篤.md "wikilink")
-  - 巽大門 / ゴーイエロー（声）：[柴田賢志](https://ja.wikipedia.org/wiki/柴田賢志 "wikilink")
-  - 巽祭 / ゴーピンク（声）：[坂口望二香](https://ja.wikipedia.org/wiki/柴田かよこ "wikilink")
-  - 巽世界：[マイク眞木](https://ja.wikipedia.org/wiki/マイク眞木 "wikilink")
-  - リラ：[久瑠あさ美](https://ja.wikipedia.org/wiki/久瑠あさ美 "wikilink")
+  - 巽大門 / ゴーイエロー（声）：[柴田賢志](../Page/柴田賢志.md "wikilink")
+  - 巽祭 / ゴーピンク（声）：[坂口望二香](../Page/柴田かよこ.md "wikilink")
+  - 巽世界：[マイク眞木](../Page/マイク眞木.md "wikilink")
+  - リラ：[久瑠あさ美](../Page/久瑠あさ美.md "wikilink")
 
 ### 声の出演
 
-  - タック：[沼田祐介](https://ja.wikipedia.org/wiki/沼田祐介 "wikilink")
-  - ドン・ドルネロ：[大友龍三郎](https://ja.wikipedia.org/wiki/大友龍三郎 "wikilink")
-  - ギエン：[戸部公爾](https://ja.wikipedia.org/wiki/戸部公爾 "wikilink")
-  - 呪士ピエール：[松野太紀](https://ja.wikipedia.org/wiki/松野太紀 "wikilink")
-  - 殺人ボクサー・ボリバル、合成災魔ボリピエール：[矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
-  - ドゴールの双子の弟レアル：[服巻浩司](https://ja.wikipedia.org/wiki/服巻浩司 "wikilink")
-  - レイホウの姉ルピア：[小松由佳](https://ja.wikipedia.org/wiki/小松由佳_\(声優\) "wikilink")
+  - タック：[沼田祐介](../Page/沼田祐介.md "wikilink")
+  - ドン・ドルネロ：[大友龍三郎](../Page/大友龍三郎.md "wikilink")
+  - ギエン：[戸部公爾](../Page/戸部公爾.md "wikilink")
+  - 呪士ピエール：[松野太紀](../Page/松野太紀.md "wikilink")
+  - 殺人ボクサー・ボリバル、合成災魔ボリピエール：[矢尾一樹](../Page/矢尾一樹.md "wikilink")
+  - ドゴールの双子の弟レアル：[服巻浩司](../Page/服巻浩司.md "wikilink")
+  - レイホウの姉ルピア：[小松由佳](../Page/小松由佳_\(声優\).md "wikilink")
   - オーグの叔父バーツ：[前原実](../Page/前原実.md "wikilink")
-  - ゲーマルクの又従兄弟ディナール：[塩野勝美](https://ja.wikipedia.org/wiki/塩野勝美 "wikilink")
-  - ブラスター・マドウの隣人シリング：[田中大文](https://ja.wikipedia.org/wiki/田中大文 "wikilink")
+  - ゲーマルクの又従兄弟ディナール：[塩野勝美](../Page/塩野勝美.md "wikilink")
+  - ブラスター・マドウの隣人シリング：[田中大文](../Page/田中大文.md "wikilink")
 
 ### スーツアクター
 
-  - タイムレッド、ゴーレッド、ブイレックス - [高岩成二](https://ja.wikipedia.org/wiki/高岩成二 "wikilink")
-  - [日下秀昭](https://ja.wikipedia.org/wiki/日下秀昭 "wikilink")
-  - タイムブルー - [竹内康博](https://ja.wikipedia.org/wiki/竹内康博 "wikilink")
-  - タイムグリーン - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
-  - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
-  - タイムファイヤー、ギエン - [今井靖彦](https://ja.wikipedia.org/wiki/今井靖彦 "wikilink")
-  - 呪士ピエール - [宮崎剛](https://ja.wikipedia.org/wiki/宮崎剛_\(俳優\) "wikilink")
+  - タイムレッド、ゴーレッド、ブイレックス - [高岩成二](../Page/高岩成二.md "wikilink")
+  - [日下秀昭](../Page/日下秀昭.md "wikilink")
+  - タイムブルー - [竹内康博](../Page/竹内康博.md "wikilink")
+  - タイムグリーン - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
+  - [中川素州](../Page/中川素州.md "wikilink")
+  - タイムファイヤー、ギエン - [今井靖彦](../Page/今井靖彦.md "wikilink")
+  - 呪士ピエール - [宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")
   - ドン・ドルネロ - [大西修](https://ja.wikipedia.org/wiki/大西修 "wikilink")
   - 殺人ボクサー・ボリバル - [藤榮史哉](../Page/藤榮史哉.md "wikilink")
 
@@ -160,7 +160,7 @@ EDにはOP『JIKU〜未来戦隊タイムレンジャー〜』の英詞版『Bey
 
 :; オープニングテーマ「JIKŪ 〜未来戦隊タイムレンジャー〜」
 
-:: 作詞：[磯谷佳江](https://ja.wikipedia.org/wiki/磯谷佳江 "wikilink") / 作曲・編曲：[亀山耕一郎](https://ja.wikipedia.org/wiki/亀山耕一郎 "wikilink") / 歌：[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink")
+:: 作詞：[磯谷佳江](https://ja.wikipedia.org/wiki/磯谷佳江 "wikilink") / 作曲・編曲：[亀山耕一郎](../Page/亀山耕一郎.md "wikilink") / 歌：[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink")
 
 :; エンディングテーマ「BEYOND ALL SPACE AND TIME」
 
@@ -173,14 +173,14 @@ EDにはOP『JIKU〜未来戦隊タイムレンジャー〜』の英詞版『Bey
 
 :; 「OK\! タイムロボ\!\!」
 
-:: 作詞：[里乃塚玲央](https://ja.wikipedia.org/wiki/里乃塚玲央 "wikilink") / 作曲・編曲：亀山耕一郎 / 歌：[高尾直樹](../Page/高尾直樹.md "wikilink")
+:: 作詞：[里乃塚玲央](../Page/里乃塚玲央.md "wikilink") / 作曲・編曲：亀山耕一郎 / 歌：[高尾直樹](../Page/高尾直樹.md "wikilink")
 
 :; 「緊急合体\! ビクトリーロボ」
 
   -
 
       -
-        作詞：桑原永江 / 作曲：渡辺俊幸 / 編曲：亀山耕一郎 / 歌：[山形ユキオ](https://ja.wikipedia.org/wiki/山形ユキオ "wikilink")
+        作詞：桑原永江 / 作曲：渡辺俊幸 / 編曲：亀山耕一郎 / 歌：[山形ユキオ](../Page/山形ユキオ.md "wikilink")
 
 ## メディア
 

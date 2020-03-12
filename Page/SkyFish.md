@@ -1,13 +1,13 @@
 > この記事は[SkyFish](https://ja.wikipedia.org/wiki/SkyFish)から翻訳されています。
 
 
-**SkyFish**（スカイフィッシュ）は、[合資会社](https://ja.wikipedia.org/wiki/合資会社 "wikilink")スカイ・フィッシュの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。合資会社スカイ・フィッシュは、株式会社エフアンドシー（[F\&C](../Page/F&C.md "wikilink")）の子会社のひとつであった有限会社[ドリームソフト](https://ja.wikipedia.org/wiki/ドリームソフト "wikilink")の所属スタッフが独立して設立された。代表は[シナリオライターでもある](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")[ひろもりさかな](https://ja.wikipedia.org/wiki/ひろもりさかな "wikilink")。第1作目から[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")（CSA）の審査を受けている。
+**SkyFish**（スカイフィッシュ）は、[合資会社](../Page/合資会社.md "wikilink")スカイ・フィッシュの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。合資会社スカイ・フィッシュは、株式会社エフアンドシー（[F\&C](../Page/F&C.md "wikilink")）の子会社のひとつであった有限会社[ドリームソフト](https://ja.wikipedia.org/wiki/ドリームソフト "wikilink")の所属スタッフが独立して設立された。代表は[シナリオライターでもある](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")[ひろもりさかな](https://ja.wikipedia.org/wiki/ひろもりさかな "wikilink")。第1作目から[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")（CSA）の審査を受けている。
 
 ## 作品一覧
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - [白銀のソレイユ 〜Valkyr in Love〜](https://ja.wikipedia.org/wiki/白銀のソレイユ_〜Valkyr_in_Love〜 "wikilink") シリーズ<ref>
+  - [2006年](../Page/2006年.md "wikilink") - [白銀のソレイユ 〜Valkyr in Love〜](https://ja.wikipedia.org/wiki/白銀のソレイユ_〜Valkyr_in_Love〜 "wikilink") シリーズ<ref>
 
-雑誌「[TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")」（2006年9月号 - 2007年2月号）の付録DVDで「白銀のソレイユ 〜Valkyr in Love〜」（全6話）を連載していた。本作は完結しており、これに同規模の続編シナリオと音声を加えたものが、製品版の「白銀のソレイユ -Successor of Wyrd≪運命の継承者≫-」である。</ref>
+雑誌「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」（2006年9月号 - 2007年2月号）の付録DVDで「白銀のソレイユ 〜Valkyr in Love〜」（全6話）を連載していた。本作は完結しており、これに同規模の続編シナリオと音声を加えたものが、製品版の「白銀のソレイユ -Successor of Wyrd≪運命の継承者≫-」である。</ref>
 
   -   - 2006年7月21日 - 第1話 ユル -復活-
       - 2006年8月21日 - 第2話 テュール -勝利-
@@ -123,7 +123,7 @@
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Guardian☆Place〜ドエスな妹と3人の嫁〜" title="wikilink">Guardian☆Place〜ドエスな妹と3人の嫁〜</a></strong></p></td>
 <td><p>蔓木鋼音、さえき北都、<br />
-ひなた睦月、<a href="https://ja.wikipedia.org/wiki/小林_(イラストレーター)" title="wikilink">小林ちさと</a>、<br />
+ひなた睦月、<a href="../Page/小林_(イラストレーター).md" title="wikilink">小林ちさと</a>、<br />
 ヲリ（SD）</p></td>
 <td><p>宮村優、素浪人、児玉新一郎</p></td>
 </tr>
@@ -153,7 +153,7 @@
 </tbody>
 </table>
 
-なお、[スクリプトエンジンには](https://ja.wikipedia.org/wiki/スクリプトエンジン_\(ゲーム\) "wikilink")、F\&Cの過去作品で採用されていたExHIBIT / retouchが設立当初から継続して採用されている\[2\]。
+なお、[スクリプトエンジンには](../Page/スクリプトエンジン_\(ゲーム\).md "wikilink")、F\&Cの過去作品で採用されていたExHIBIT / retouchが設立当初から継続して採用されている\[2\]。
 
 ### SkyFish poco
 
@@ -222,7 +222,7 @@
 
 ## 関連するネットラジオ番組
 
-いずれも配信は[ロックンバナナ](https://ja.wikipedia.org/wiki/ロックンバナナ "wikilink")。
+いずれも配信は[ロックンバナナ](../Page/ロックンバナナ.md "wikilink")。
 
   - [ソレ・ラジ](https://ja.wikipedia.org/wiki/ソレ・ラジ "wikilink") - 『白銀のソレイユ』の連動番組。
   - [はるとま。と-](https://ja.wikipedia.org/wiki/はるかぜどりに、とまりぎを。#Webラジオ "wikilink") - 『はるかぜどりに、とまりぎを。』の連動番組。

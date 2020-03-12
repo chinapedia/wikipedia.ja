@@ -1,17 +1,17 @@
 > この記事は[ZC](https://ja.wikipedia.org/wiki/ZC)から翻訳されています。
 
 
-**ZC型エンジン**（ZCがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた1.6Lの[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")である。
+**ZC型エンジン**（ZCがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた1.6Lの[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。
 
 ## 機構
 
 ### DOHC
 
-[ホンダ・S800](https://ja.wikipedia.org/wiki/ホンダ・S800 "wikilink")の生産終了から14年ぶりに復活した[DOHC](../Page/DOHC.md "wikilink")エンジンで、動弁系以外の基本構造はEV型及びEW型のものが踏襲された。[ボアストローク比](https://ja.wikipedia.org/wiki/ボアストローク比 "wikilink")はDOHCエンジンとしては異例の[ロングストローク](https://ja.wikipedia.org/wiki/ロングストローク "wikilink")型で\[1\]、軽量コンパクトながら中・低速域\[2\]のトルクも高く、同機種を搭載した[シビックなどがモータースポーツ](../Page/ホンダ・シビック.md "wikilink")（[JTC](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1985年-1993年\) "wikilink")、[N1耐久など](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")）で活躍した。
+[ホンダ・S800](../Page/ホンダ・S800.md "wikilink")の生産終了から14年ぶりに復活した[DOHC](../Page/DOHC.md "wikilink")エンジンで、動弁系以外の基本構造はEV型及びEW型のものが踏襲された。[ボアストローク比](../Page/ボアストローク比.md "wikilink")はDOHCエンジンとしては異例の[ロングストローク](https://ja.wikipedia.org/wiki/ロングストローク "wikilink")型で\[1\]、軽量コンパクトながら中・低速域\[2\]のトルクも高く、同機種を搭載した[シビックなどがモータースポーツ](../Page/ホンダ・シビック.md "wikilink")（[JTC](../Page/全日本ツーリングカー選手権_\(1985年-1993年\).md "wikilink")、[N1耐久など](../Page/スーパー耐久.md "wikilink")）で活躍した。
 
-軽量の[アルミ製](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")が採用された本体は、[吸・排気バルブがそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個ずつ設けられ、[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")で駆動される[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")により内側支点の[スイングアームを介し開閉される](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")。[点火プラグ](../Page/点火プラグ.md "wikilink")が[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")の天井中央部に取付けられている。
+軽量の[アルミ製](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")が採用された本体は、[吸・排気バルブがそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個ずつ設けられ、[タイミングベルト](../Page/タイミングベルト.md "wikilink")で駆動される[カムシャフト](../Page/カムシャフト.md "wikilink")により内側支点の[スイングアームを介し開閉される](../Page/ロッカーアーム.md "wikilink")。[点火プラグ](../Page/点火プラグ.md "wikilink")が[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")の天井中央部に取付けられている。
 
-[PGM-FI仕様が基本的なモデルであるが](../Page/燃料噴射装置.md "wikilink")、一部車種にシングル[キャブレター](../Page/キャブレター.md "wikilink")仕様も存在する。PGM-FI仕様は[インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式で、インテークマニホールドに可変吸気装置が装備されているものもある。ES型と同様[CVCC](../Page/CVCC.md "wikilink")が採用されておらず、[三元触媒](https://ja.wikipedia.org/wiki/三元触媒 "wikilink")が採用されたほか、キャブレター仕様では[排気2次エアー供給システムも装備されている](https://ja.wikipedia.org/wiki/二次空気導入装置 "wikilink")。
+[PGM-FI仕様が基本的なモデルであるが](../Page/燃料噴射装置.md "wikilink")、一部車種にシングル[キャブレター](../Page/キャブレター.md "wikilink")仕様も存在する。PGM-FI仕様は[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式で、インテークマニホールドに可変吸気装置が装備されているものもある。ES型と同様[CVCC](../Page/CVCC.md "wikilink")が採用されておらず、[三元触媒](../Page/三元触媒.md "wikilink")が採用されたほか、キャブレター仕様では[排気2次エアー供給システムも装備されている](https://ja.wikipedia.org/wiki/二次空気導入装置 "wikilink")。
 
 ### SOHC
 
@@ -21,14 +21,14 @@
 
 ### SOHC VTEC
 
-[B型エンジン等の](https://ja.wikipedia.org/wiki/ホンダ・B型エンジン "wikilink")「DOHC VTEC」とは異なり、高出力と実用性を両立するため[可変バルブタイミング・リフト機構が装備されている](https://ja.wikipedia.org/wiki/可変バルブ機構 "wikilink")。吸気側カムシャフトにのみハイ/ロー2種類のカム駒を設け、そこに接するロッカーアームを切り替え、吸排気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させていた。
+[B型エンジン等の](../Page/ホンダ・B型エンジン.md "wikilink")「DOHC VTEC」とは異なり、高出力と実用性を両立するため[可変バルブタイミング・リフト機構が装備されている](../Page/可変バルブ機構.md "wikilink")。吸気側カムシャフトにのみハイ/ロー2種類のカム駒を設け、そこに接するロッカーアームを切り替え、吸排気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させていた。
 
 ## 歴史
 
-  - [1984年](../Page/1984年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発表の[シビックSiおよび](../Page/ホンダ・シビック.md "wikilink")[バラードスポーツ CR-X Siに初採用](../Page/ホンダ・CR-X.md "wikilink")。[スイングアーム方式のDOHCモデルが搭載される](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")発表の[クイントインテグラにDOHC](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink") シングルキャブ仕様が搭載。
+  - [1984年](../Page/1984年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発表の[シビックSiおよび](../Page/ホンダ・シビック.md "wikilink")[バラードスポーツ CR-X Siに初採用](../Page/ホンダ・CR-X.md "wikilink")。[スイングアーム方式のDOHCモデルが搭載される](../Page/ロッカーアーム.md "wikilink")。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")発表の[クイントインテグラにDOHC](../Page/ホンダ・インテグラ.md "wikilink") シングルキャブ仕様が搭載。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")発表の4代目シビック（セダン・[シビックシャトル](../Page/ホンダ・シビックシャトル.md "wikilink")）に、SOHC（PGM-FI仕様/CVデュアルキャブ仕様）が搭載。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")発表の[ドマーニにSOHC](../Page/ホンダ・ドマーニ.md "wikilink") VTEC仕様が搭載（[翌](../Page/1993年.md "wikilink")[秋に発表された](../Page/8月30日.md "wikilink")[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")の[ジェミニを含む](https://ja.wikipedia.org/wiki/いすゞ・ジェミニ#4代目_MJ1/2/3型（1993年_-_1997年） "wikilink")）。
+  - [1992年](../Page/1992年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")発表の[ドマーニにSOHC](../Page/ホンダ・ドマーニ.md "wikilink") VTEC仕様が搭載（[翌](../Page/1993年.md "wikilink")[秋に発表された](../Page/8月30日.md "wikilink")[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")の[ジェミニを含む](https://ja.wikipedia.org/wiki/いすゞ・ジェミニ#4代目_MJ1/2/3型（1993年_-_1997年） "wikilink")）。
   - [2001年](../Page/2001年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に発表された4代目インテグラへのモデルチェンジによって、ZC型エンジンは幕を閉じた。
 
 ## バリエーション
@@ -114,7 +114,7 @@
   - [シビックフェリオ](../Page/ホンダ・シビックフェリオ.md "wikilink")（EH1）
   - [バラードスポーツ CR-X](../Page/ホンダ・CR-X.md "wikilink")（AS）
   - CR-X（EF7）
-  - [クイントインテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")（AV/DA1）
+  - [クイントインテグラ](../Page/ホンダ・インテグラ.md "wikilink")（AV/DA1）
   - [コンチェルト](../Page/ホンダ・コンチェルト.md "wikilink")（MA2/3）
 
 :;シングルキャブ仕様
@@ -133,7 +133,7 @@
   - インテグラ（DA5/7/DC1/DB6/9）
   - コンチェルト（MA2/3）
   - [ドマーニ](../Page/ホンダ・ドマーニ.md "wikilink")（MA4/6）
-  - [いすゞ・ジェミニ](https://ja.wikipedia.org/wiki/いすゞ・ジェミニ "wikilink")（MJ2）
+  - [いすゞ・ジェミニ](../Page/いすゞ・ジェミニ.md "wikilink")（MJ2）
 
 :;デュアルキャブ仕様
 
@@ -160,9 +160,9 @@
 
   - [DOHC](../Page/DOHC.md "wikilink")
   - [ホンダのエンジン型式一覧](https://ja.wikipedia.org/wiki/ホンダのエンジン型式一覧 "wikilink")
-  - [B型エンジン](https://ja.wikipedia.org/wiki/ホンダ・B型エンジン "wikilink")
-  - [D型エンジン](https://ja.wikipedia.org/wiki/ホンダ・D型エンジン "wikilink")
-  - [全日本ツーリングカー選手権 (JTC,Gr.A)](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1985年-1993年\) "wikilink")
+  - [B型エンジン](../Page/ホンダ・B型エンジン.md "wikilink")
+  - [D型エンジン](../Page/ホンダ・D型エンジン.md "wikilink")
+  - [全日本ツーリングカー選手権 (JTC,Gr.A)](../Page/全日本ツーリングカー選手権_\(1985年-1993年\).md "wikilink")
 
 ## 外部リンク
 

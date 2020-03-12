@@ -1,15 +1,15 @@
 > この記事は[FBS](https://ja.wikipedia.org/wiki/FBS)から翻訳されています。
 
 
-『**FBS金曜トレビアン**』（エフビーエスきんようトレビアン）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、[福岡放送](../Page/福岡放送.md "wikilink")で[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。通称「**金曜トレビアン**」「**金トレ**」。番組[連動データ放送実施](../Page/データ放送.md "wikilink")。
+『**FBS金曜トレビアン**』（エフビーエスきんようトレビアン）は、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、[福岡放送](../Page/福岡放送.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。通称「**金曜トレビアン**」「**金トレ**」。番組[連動データ放送実施](../Page/データ放送.md "wikilink")。
 
 ## 放送内容
 
-本番組では、新製品やイベント、ファッション等に関する情報を、男女の[MCがペアで番組を進行し](https://ja.wikipedia.org/wiki/司会 "wikilink")、紹介する 。
+本番組では、新製品やイベント、ファッション等に関する情報を、男女の[MCがペアで番組を進行し](../Page/司会.md "wikilink")、紹介する 。
 
 ## 放送時間
 
-放送日が[祝日](../Page/祝日.md "wikilink")と重なった場合、[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")の編成が優先されて放送休止になることがある。
+放送日が[祝日](../Page/祝日.md "wikilink")と重なった場合、[特別番組](../Page/特別番組.md "wikilink")の編成が優先されて放送休止になることがある。
 
 <table>
 <thead>
@@ -68,21 +68,21 @@
 
 ### MC
 
-  - [赤峯康一](https://ja.wikipedia.org/wiki/どんぴしゃ "wikilink")（[どんぴしゃ](https://ja.wikipedia.org/wiki/どんぴしゃ "wikilink")） - 2006年4月から2008年3月まで出演。
+  - [赤峯康一](../Page/どんぴしゃ.md "wikilink")（[どんぴしゃ](../Page/どんぴしゃ.md "wikilink")） - 2006年4月から2008年3月まで出演。
   - [吉川貴司](https://ja.wikipedia.org/wiki/吉川貴司 "wikilink") - 2008年4月から同年7月まで出演。
-  - [齊藤直史](https://ja.wikipedia.org/wiki/齊藤直史 "wikilink")（当時福岡放送アナウンサー） - 元々はリポーターの1人だったが、2008年8月からMCを務めていた。2013年9月まで出演。
+  - [齊藤直史](../Page/齊藤直史.md "wikilink")（当時福岡放送アナウンサー） - 元々はリポーターの1人だったが、2008年8月からMCを務めていた。2013年9月まで出演。
   - 奥ゆかり - 2009年4月から2010年8月までナレーター兼務で出演。奥田と連動する形で顔出し出演を終了したが、ナレーションについては不明。
   - 秋本ゆかり - 2010年9月から2011年9月まで出演。
   - 美波ゆい - 2011年10月から2012年7月まで出演。
   - 蔵薗えみり - 2012年8月から2013年9月まで出演。
-  - [奥田美香子](https://ja.wikipedia.org/wiki/奥田美香子 "wikilink")（元福岡放送アナウンサー） - 2006年4月から2015年9月迄出演。妊娠・出産のため、2010年8月に一度降板したが、出産後の2011年10月に復帰。後にFBSを退社したが、その後も番組に出演し続けていた。
-  - [山田真由美](https://ja.wikipedia.org/wiki/山田真由美_\(アナウンサー\) "wikilink")（FBS報道局報道部記者） - アナウンサー時代の2015年10月から2016年6月まで出演。
+  - [奥田美香子](../Page/奥田美香子.md "wikilink")（元福岡放送アナウンサー） - 2006年4月から2015年9月迄出演。妊娠・出産のため、2010年8月に一度降板したが、出産後の2011年10月に復帰。後にFBSを退社したが、その後も番組に出演し続けていた。
+  - [山田真由美](../Page/山田真由美_\(アナウンサー\).md "wikilink")（FBS報道局報道部記者） - アナウンサー時代の2015年10月から2016年6月まで出演。
   - [豊原慎二](https://ja.wikipedia.org/wiki/豊原慎二 "wikilink")（福岡放送アナウンサー） - 2013年10月から2017年3月まで出演。
 
 ### コーナー担当･リポーター
 
-  - [仲谷亜希子](https://ja.wikipedia.org/wiki/仲谷亜希子 "wikilink")（当時福岡放送アナウンサー）
-  - [井手迫弘美](https://ja.wikipedia.org/wiki/井手迫弘美 "wikilink") - 「FBSギャザリング」を担当。
+  - [仲谷亜希子](../Page/仲谷亜希子.md "wikilink")（当時福岡放送アナウンサー）
+  - [井手迫弘美](../Page/井手迫弘美.md "wikilink") - 「FBSギャザリング」を担当。
   - [山際千津枝](https://ja.wikipedia.org/wiki/山際千津枝 "wikilink")（料理研究家） - 「100円クッキング」を担当。
   - 増永吉亨（気象予報士）
   - 河野ありさ

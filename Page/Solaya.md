@@ -1,13 +1,13 @@
 > この記事は[Solaya](https://ja.wikipedia.org/wiki/Solaya)から翻訳されています。
 
 
-**solaya**（そらや、[1981年](../Page/1981年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。Solaya Label代表取締役社長。
+**solaya**（そらや、[1981年](../Page/1981年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")出身。Solaya Label代表取締役社長。
 
 ## 来歴
 
 [滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")にて育つ。幼少の頃よりピアノを学び、中学生の頃からギター、作曲なども始める。音楽専門学校ギター科在学中にメジャーデビュー。卒業後の2002年、SMP主催オーディションを経て作編曲家デビュー。
 
-作編曲、弦アレンジで[中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")、[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")など様々なアーティストに携わる。
+作編曲、弦アレンジで[中孝介](../Page/中孝介.md "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")、[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")など様々なアーティストに携わる。
 
 2013年にはアーティストマネジメント事務所兼レコード会社Solaya Labelを設立。[朝倉さや](https://ja.wikipedia.org/wiki/朝倉さや "wikilink")のプロデュースを手掛け、iTunesランキング1位、Amazonランキング1位、2014年Amazonデジタルミュージック年間ランキング4位などを記録。 朝倉さやのカバー曲以外の楽曲は、朝倉が作詞作曲、全楽曲の編曲•プロデュースはsolayaが担当している。
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [Fonogenico](https://ja.wikipedia.org/wiki/Fonogenico "wikilink")
+  - [Fonogenico](../Page/Fonogenico.md "wikilink")
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 
 <!-- end list -->
 
-  - [中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")
+  - [中孝介](../Page/中孝介.md "wikilink")
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 
 <!-- end list -->
 
-  - [美郷あき](https://ja.wikipedia.org/wiki/美郷あき "wikilink")
+  - [美郷あき](../Page/美郷あき.md "wikilink")
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@
 
 <!-- end list -->
 
-  - [10,000 Promises.](https://ja.wikipedia.org/wiki/10,000_Promises. "wikilink")
+  - [10,000 Promises.](../Page/10,000_Promises..md "wikilink")
 
 <!-- end list -->
 
@@ -176,7 +176,7 @@
 
 <!-- end list -->
 
-  - [劉亦菲](https://ja.wikipedia.org/wiki/劉亦菲 "wikilink")
+  - [劉亦菲](../Page/劉亦菲.md "wikilink")
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
 
 <!-- end list -->
 
-  - [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")
+  - [WISE](../Page/WISE.md "wikilink")
 
 <!-- end list -->
 
@@ -232,7 +232,7 @@
 
 <!-- end list -->
 
-  - [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")
+  - [MAY'S](../Page/MAY'S.md "wikilink")
 
 <!-- end list -->
 
@@ -260,7 +260,7 @@
 
 <!-- end list -->
 
-  - [福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")
+  - [福田沙紀](../Page/福田沙紀.md "wikilink")
 
 <!-- end list -->
 
@@ -294,7 +294,7 @@
 
 ## その他
 
-[劇伴](https://ja.wikipedia.org/wiki/劇伴 "wikilink")　
+[劇伴](../Page/劇伴.md "wikilink")　
 
   - TBS[ぼくの妹](https://ja.wikipedia.org/wiki/ぼくの妹 "wikilink")オリジナル・サウンドトラック
 
@@ -337,7 +337,7 @@
 
 <!-- end list -->
 
-  - [和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink")　
+  - [和田光司](../Page/和田光司.md "wikilink")　
 
 <!-- end list -->
 

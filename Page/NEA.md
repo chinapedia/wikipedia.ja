@@ -5,9 +5,9 @@
 
   - 原子力機関（）の略称 - [経済協力開発機構原子力機関](https://ja.wikipedia.org/wiki/経済協力開発機構原子力機関 "wikilink")（OECD/NEA）
 
-  - [東北方面隊](https://ja.wikipedia.org/wiki/東北方面隊 "wikilink")（）の略称 - [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[方面隊](https://ja.wikipedia.org/wiki/方面隊 "wikilink")のひとつ。[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の防衛警備や災害派遣等を担任している。
+  - [東北方面隊](../Page/東北方面隊.md "wikilink")（）の略称 - [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[方面隊](../Page/方面隊.md "wikilink")のひとつ。[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の防衛警備や災害派遣等を担任している。
 
-  - [地球近傍小惑星](https://ja.wikipedia.org/wiki/地球近傍小惑星 "wikilink")（）の略称 - 地球に接近する軌道を持つ[天体](../Page/天体.md "wikilink")のうち[小惑星](../Page/小惑星.md "wikilink")のみを指す。
+  - [地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")（）の略称 - 地球に接近する軌道を持つ[天体](../Page/天体.md "wikilink")のうち[小惑星](../Page/小惑星.md "wikilink")のみを指す。
 
   - （）の略称 - 米国の政治組織。市民行動ネットワークの一環として1984年に設立。
 

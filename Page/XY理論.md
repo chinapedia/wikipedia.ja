@@ -7,7 +7,7 @@
 
 XY理論は、ダグラス・マグレガーの著書『[企業の人間的側面](https://ja.wikipedia.org/wiki/企業の人間的側面 "wikilink")』の中に登場する理論である。著書の中で、権限行使と命令統制による経営手法をX理論として批判し、統合と自己統制による経営が、将来の良い経営手法となると主張している。
 
-[アブラハム・マズロー](https://ja.wikipedia.org/wiki/アブラハム・マズロー "wikilink")が先に唱えた[欲求段階説](https://ja.wikipedia.org/wiki/欲求段階説 "wikilink")を基にして説明されている。XY理論に境界はなく人間はX-Yを繋いだ線上にある前提で、X理論は低次元の[欲求](https://ja.wikipedia.org/wiki/欲求 "wikilink")を多く持つ人間の行動モデルに分類され、Y理論は高次元の欲求を多く持つ人間の行動モデルに分類される。
+[アブラハム・マズロー](../Page/アブラハム・マズロー.md "wikilink")が先に唱えた[欲求段階説](https://ja.wikipedia.org/wiki/欲求段階説 "wikilink")を基にして説明されている。XY理論に境界はなく人間はX-Yを繋いだ線上にある前提で、X理論は低次元の[欲求](https://ja.wikipedia.org/wiki/欲求 "wikilink")を多く持つ人間の行動モデルに分類され、Y理論は高次元の欲求を多く持つ人間の行動モデルに分類される。
 
 マクレガーは、低次元の欲求が満たされている人に対してはX理論による経営手法の効果は期待できない、低次元の欲求が満たされている1960年代ではY理論に基づいた経営方法が望ましい、と主張した。
 
@@ -30,15 +30,15 @@ Y理論が万能ではないことが指摘され始め、マクレガーはZ理
 ## 参考文献
 
   - [ダグラス・マグレガー](https://ja.wikipedia.org/wiki/ダグラス・マグレガー "wikilink")『企業の人間的側面：統合と自己統制による経営』[高橋達男](https://ja.wikipedia.org/wiki/高橋達男 "wikilink")訳、産能大学出版部、1970年
-  - [アブラハム・マズロー](https://ja.wikipedia.org/wiki/アブラハム・マズロー "wikilink")『完全なる経営』[金井寿宏](https://ja.wikipedia.org/wiki/金井寿宏 "wikilink")監訳、大川修二訳、日本経済新聞出版社 2001年
+  - [アブラハム・マズロー](../Page/アブラハム・マズロー.md "wikilink")『完全なる経営』[金井寿宏](https://ja.wikipedia.org/wiki/金井寿宏 "wikilink")監訳、大川修二訳、日本経済新聞出版社 2001年
 
 ## 関連項目
 
-  - [自己実現理論](https://ja.wikipedia.org/wiki/自己実現理論 "wikilink")
+  - [自己実現理論](../Page/自己実現理論.md "wikilink")
   - [動機づけ](../Page/動機づけ.md "wikilink")（モチベーション）
   - [科学的管理法](../Page/科学的管理法.md "wikilink")
   - [経営管理論](../Page/経営管理論.md "wikilink")
-  - [リスクマネジメント](https://ja.wikipedia.org/wiki/リスクマネジメント "wikilink")
+  - [リスクマネジメント](../Page/リスクマネジメント.md "wikilink")
   - [ナレッジマネジメント](../Page/ナレッジマネジメント.md "wikilink")
   - [マインドコントロール](../Page/マインドコントロール.md "wikilink")
 

@@ -7,11 +7,11 @@
 
 ## 概要
 
-前作『[必殺仕事人V・激闘編](https://ja.wikipedia.org/wiki/必殺仕事人V・激闘編 "wikilink")』は初期必殺シリーズのようなハードボイルドな作風への原点回帰作であったが、第二次必殺ブームを支持した層からの支持は得られず、視聴率は低迷する。そのため本作は、再度路線変更し、後期必殺シリーズらしいコメディ要素やコミカルなシーン、放映当時の世相のパロディを多く盛り込んだ、娯楽色の強い作品となった。
+前作『[必殺仕事人V・激闘編](../Page/必殺仕事人V・激闘編.md "wikilink")』は初期必殺シリーズのようなハードボイルドな作風への原点回帰作であったが、第二次必殺ブームを支持した層からの支持は得られず、視聴率は低迷する。そのため本作は、再度路線変更し、後期必殺シリーズらしいコメディ要素やコミカルなシーン、放映当時の世相のパロディを多く盛り込んだ、娯楽色の強い作品となった。
 
-主水は左遷された上に、上司の筆頭同心 田中に加え、更なる上司の与力 鬼塚が登場し、奉行所でのいびられ方がよりユーモラスとなる。西順之助が再登場し、『[必殺仕事人V](https://ja.wikipedia.org/wiki/必殺仕事人V "wikilink")』での彼を巡る、お新と玉助と同様のキャラクターである、おりんと千代松が登場する。
+主水は左遷された上に、上司の筆頭同心 田中に加え、更なる上司の与力 鬼塚が登場し、奉行所でのいびられ方がよりユーモラスとなる。西順之助が再登場し、『[必殺仕事人V](../Page/必殺仕事人V.md "wikilink")』での彼を巡る、お新と玉助と同様のキャラクターである、おりんと千代松が登場する。
 
-当初、全26話を予定していたが出門英がスケジュールの都合で降板しなければならなくなったことに加え、視聴率が低迷し、中村主水シリーズとしては異例の全14話で打ち切りとなった。ただし、翌週からは本作最終話の1年後の世界を描いた続編『[必殺仕事人V・風雲竜虎編](https://ja.wikipedia.org/wiki/必殺仕事人V・風雲竜虎編 "wikilink")』がスタートし、主題歌等も本作から変更されなかった。
+当初、全26話を予定していたが出門英がスケジュールの都合で降板しなければならなくなったことに加え、視聴率が低迷し、中村主水シリーズとしては異例の全14話で打ち切りとなった。ただし、翌週からは本作最終話の1年後の世界を描いた続編『[必殺仕事人V・風雲竜虎編](../Page/必殺仕事人V・風雲竜虎編.md "wikilink")』がスタートし、主題歌等も本作から変更されなかった。
 
 本作では新たに用意されたBGMについて収録方法がふたたびモノラル録音となった。
 
@@ -38,11 +38,11 @@
     南町奉行所の同心。第1話で、石川島百軒長屋の番所への異動を命じられる。そのことを、せんとりつには隠していたが、結局は知られることとなる（第一話）。
     再会した順之助に対しては表では「先生」と呼んでおり、裏の仕事も信頼を置くようになった。
   - [鍛冶屋の政](../Page/政_\(必殺シリーズ\).md "wikilink")
-    演 - [村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")
+    演 - [村上弘明](../Page/村上弘明.md "wikilink")
     江戸に舞い戻り、鍛冶屋を開いていたところに裏稼業で敵に追われている主水が偶然飛び込んで来て、悪人を始末したことで仕事人に復帰した。
     最終回で、親しくなった女中の滝山や順之助、銀平を助けることができず、悲痛を受ける。
   - 夜鶴の銀平
-    演 - [出門英](https://ja.wikipedia.org/wiki/出門英 "wikilink")
+    演 - [出門英](../Page/出門英.md "wikilink")
     表稼業は船宿「磯春」の板前で、船頭も兼ねている。主水によれば、かつては仕事人の元締 上方の虎の配下だったという。
     落ち着いた性格で、日常では他のメンバーと絡むことは少ない。
     最終回で火薬の爆発に巻き込まれ、政の助けをあえて拒否し、夜の川の闇に消える\[1\]。
@@ -54,7 +54,7 @@
     主に情報収集と仕事の依頼を受ける役目で、順之助の殺しのサポートも行う。見かけによらず、人並み外れた跳躍力がある。
     演じたかとうは初期の次回予告も担当。
   - [西順之助](https://ja.wikipedia.org/wiki/西順之助 "wikilink")
-    演 - [ひかる一平](https://ja.wikipedia.org/wiki/ひかる一平 "wikilink")
+    演 - [ひかる一平](../Page/ひかる一平.md "wikilink")
     かつて主水と組んでいた仕事人で、西洋医学所の試験に合格後、長崎の留学を終え、江戸の百軒長屋で歯科医を開業していた。
     半人前の若造と見られていた以前とは異なり、表稼業、裏稼業ともに一人前になったと認められており、主水の信頼を得ている。主水に対する呼び方は初登場の『必殺仕事人III』から『必殺仕事人V』まで「おじさん」で通してきたが、本作では「中村さん」に変わっている。
     最終回で、自らが携帯していた火薬の引火による爆発に巻き込まれ、行方不明となる\[4\]。
@@ -62,19 +62,19 @@
 ### その他
 
   - [中村せん](https://ja.wikipedia.org/wiki/中村せん・りつ#中村せん "wikilink")
-    演 - [菅井きん](https://ja.wikipedia.org/wiki/菅井きん "wikilink")
+    演 - [菅井きん](../Page/菅井きん.md "wikilink")
     主水の姑。あいわらず、婿養子の主水をいびる。
   - [中村りつ](https://ja.wikipedia.org/wiki/中村せん・りつ#中村りつ "wikilink")
     演 - [白木万理](../Page/白木万理.md "wikilink")
     主水の妻。せんとともに、婿養子の主水をいびる。主水が左遷されたため、肩身の狭い思いをしている。
-  - [筆頭同心 田中](https://ja.wikipedia.org/wiki/田中熊五郎 "wikilink")
-    演 - [山内としお](https://ja.wikipedia.org/wiki/山内としお "wikilink")
+  - [筆頭同心 田中](../Page/田中熊五郎.md "wikilink")
+    演 - [山内としお](../Page/山内としお.md "wikilink")
     南町奉行所の筆頭同心で、主水の上司。上司の鬼塚と一緒にいることが多く、主水を叱ったりする。
   - 与力 鬼塚
-    演 - [西田健](https://ja.wikipedia.org/wiki/西田健 "wikilink")
+    演 - [西田健](../Page/西田健.md "wikilink")
     南町奉行所の与力で、田中の上司。部下の田中と一緒に登場することが多い。短気な性格で、昼行灯の主水を大声で叱る。
   - 千代松
-    演 - [遠藤太津朗](https://ja.wikipedia.org/wiki/遠藤太津朗 "wikilink")
+    演 - [遠藤太津朗](../Page/遠藤太津朗.md "wikilink")
     百軒長屋の住人。オカマの中年男性で順之助に惚れており、順之助の同意を得ず、勝手に歯医者の助手となる。
     最終回での百軒長屋の焼失以降の動向は描かれていない。
   - おりん
@@ -97,7 +97,7 @@
 
 :\* お松 - [あき竹城](../Page/あき竹城.md "wikilink")
 
-:\* 高森正太夫 - [中田浩二](https://ja.wikipedia.org/wiki/中田浩二_\(俳優\) "wikilink")
+:\* 高森正太夫 - [中田浩二](../Page/中田浩二_\(俳優\).md "wikilink")
 
 :\* 上総屋久七 - [吉原正皓](https://ja.wikipedia.org/wiki/吉原正皓 "wikilink")
 
@@ -111,9 +111,9 @@
 
 :\* お志麻 - [中村明美](../Page/中村明美_\(女優\).md "wikilink")
 
-:\* 聖古堂勘兵衛 - [高城淳一](https://ja.wikipedia.org/wiki/高城淳一 "wikilink")
+:\* 聖古堂勘兵衛 - [高城淳一](../Page/高城淳一.md "wikilink")
 
-:\* 真珠院 - [泉じゅん](https://ja.wikipedia.org/wiki/泉じゅん "wikilink")
+:\* 真珠院 - [泉じゅん](../Page/泉じゅん.md "wikilink")
 
 :\* 水野久三郎 - [伊藤敏八](../Page/伊藤敏八.md "wikilink")
 
@@ -127,9 +127,9 @@
 
 :\* 直吉 - [丹波義隆](../Page/丹波義隆.md "wikilink")
 
-:\* 稲葉備中守 - [菅貫太郎](https://ja.wikipedia.org/wiki/菅貫太郎 "wikilink")
+:\* 稲葉備中守 - [菅貫太郎](../Page/菅貫太郎.md "wikilink")
 
-:\* 久世京四郎 - [きくち英一](https://ja.wikipedia.org/wiki/きくち英一 "wikilink")
+:\* 久世京四郎 - [きくち英一](../Page/きくち英一.md "wikilink")
 
 :\* 小夜 - [本城ゆき](https://ja.wikipedia.org/wiki/本城ゆき "wikilink")
 
@@ -141,13 +141,13 @@
 
   - 第4話 「せん、りつ、カチンカチン体操をする」
 
-:\* 黒岩忠継 - [上野山功一](https://ja.wikipedia.org/wiki/上野山功一 "wikilink")
+:\* 黒岩忠継 - [上野山功一](../Page/上野山功一.md "wikilink")
 
-:\* おたき - [山本ゆか里](https://ja.wikipedia.org/wiki/山本ゆか里 "wikilink")
+:\* おたき - [山本ゆか里](../Page/山本ゆか里.md "wikilink")
 
-:\* 殿村主記 - [田畑猛雄](https://ja.wikipedia.org/wiki/田畑猛雄 "wikilink")
+:\* 殿村主記 - [田畑猛雄](../Page/田畑猛雄.md "wikilink")
 
-:\* 七兵衛 - [西園寺章雄](https://ja.wikipedia.org/wiki/西園寺章雄 "wikilink")
+:\* 七兵衛 - [西園寺章雄](../Page/西園寺章雄.md "wikilink")
 
   -
 
@@ -157,13 +157,13 @@
 
 :\* お小夜 - [貴倉良子](https://ja.wikipedia.org/wiki/貴倉良子 "wikilink")
 
-:\* 加納源太夫 - [高峰圭二](https://ja.wikipedia.org/wiki/高峰圭二 "wikilink")
+:\* 加納源太夫 - [高峰圭二](../Page/高峰圭二.md "wikilink")
 
 :\* 水城 - [田中弘史](https://ja.wikipedia.org/wiki/田中弘史 "wikilink")
 
 :\* 永倉 - [石倉英彦](https://ja.wikipedia.org/wiki/石倉英彦 "wikilink")
 
-:\* 与助 - [升毅](https://ja.wikipedia.org/wiki/升毅 "wikilink")
+:\* 与助 - [升毅](../Page/升毅.md "wikilink")
 
 :\* お糸 - 加藤由美
 
@@ -173,9 +173,9 @@
 
   - 第6話 「主水 バースになる」
 
-:\* おみね - [斉藤林子](https://ja.wikipedia.org/wiki/斉藤林子 "wikilink")
+:\* おみね - [斉藤林子](../Page/斉藤林子.md "wikilink")
 
-:\* 屋敷宗久 - [中山昭二](https://ja.wikipedia.org/wiki/中山昭二 "wikilink")
+:\* 屋敷宗久 - [中山昭二](../Page/中山昭二.md "wikilink")
 
 :\* 倉持典膳 - [遠藤征慈](https://ja.wikipedia.org/wiki/遠藤征慈 "wikilink")
 
@@ -193,7 +193,7 @@
 
 :\* マリア - [マリアン](../Page/マリアン.md "wikilink")
 
-:\* カピタン - [大月ウルフ](https://ja.wikipedia.org/wiki/大月ウルフ "wikilink")
+:\* カピタン - [大月ウルフ](../Page/大月ウルフ.md "wikilink")
 
 :\* 中村弾正利重 - [西山辰夫](../Page/西山辰夫.md "wikilink")
 
@@ -205,13 +205,13 @@
 
 :\* おむら - [千野弘美](../Page/千野弘美.md "wikilink")
 
-:\* 鎌吉 - [河原さぶ](https://ja.wikipedia.org/wiki/河原さぶ "wikilink")
+:\* 鎌吉 - [河原さぶ](../Page/河原さぶ.md "wikilink")
 
 :\* 騎西屋宇兵衛 - [牧冬吉](../Page/牧冬吉.md "wikilink")
 
 :\* 多吉 - [坂西良太](https://ja.wikipedia.org/wiki/坂西良太 "wikilink")
 
-:\* 玄達 - [芝本正](https://ja.wikipedia.org/wiki/芝本正 "wikilink")
+:\* 玄達 - [芝本正](../Page/芝本正.md "wikilink")
 
   -
 
@@ -231,9 +231,9 @@
 
   - 第10話 「主水、ワープロをうつ」
 
-:\* とせ - [大信田礼子](https://ja.wikipedia.org/wiki/大信田礼子 "wikilink")
+:\* とせ - [大信田礼子](../Page/大信田礼子.md "wikilink")
 
-:\* 金森右京 - [上野山功一](https://ja.wikipedia.org/wiki/上野山功一 "wikilink")
+:\* 金森右京 - [上野山功一](../Page/上野山功一.md "wikilink")
 
 :\* 伊良子屋 - [高木二郎](https://ja.wikipedia.org/wiki/高木二郎 "wikilink")
 
@@ -241,9 +241,9 @@
 
   - 第11話 「主水の隠し子現れる」
 
-:\* お島 - [中村メイコ](https://ja.wikipedia.org/wiki/中村メイコ "wikilink")
+:\* お島 - [中村メイコ](../Page/中村メイコ.md "wikilink")
 
-:\* 矢平次 - [浜田晃](https://ja.wikipedia.org/wiki/浜田晃 "wikilink")
+:\* 矢平次 - [浜田晃](../Page/浜田晃.md "wikilink")
 
 :\* 伊吹 - [北村晃一](https://ja.wikipedia.org/wiki/北村晃一 "wikilink")
 
@@ -253,9 +253,9 @@
 
   - 第12話 「主水、ネズミ捕りにかかる」
 
-:\* 雲州斎可楽 - [島田順司](https://ja.wikipedia.org/wiki/島田順司 "wikilink")
+:\* 雲州斎可楽 - [島田順司](../Page/島田順司.md "wikilink")
 
-:\* おしん - [牛原千恵](https://ja.wikipedia.org/wiki/牛原千恵 "wikilink")
+:\* おしん - [牛原千恵](../Page/牛原千恵.md "wikilink")
 
 :\* 留蔵 - 藤沢徹夫
 
@@ -269,7 +269,7 @@
 
 :\* 藤尾欽太郎 - [山本陽一](../Page/山本陽一.md "wikilink")
 
-:\* 藤尾欽兵衛 - [有川博](https://ja.wikipedia.org/wiki/有川博 "wikilink")
+:\* 藤尾欽兵衛 - [有川博](../Page/有川博.md "wikilink")
 
 :\* 宮沢一学 - [北原義郎](../Page/北原義郎.md "wikilink")
 
@@ -301,22 +301,22 @@
 
 ## スタッフ
 
-  - 制作 - [山内久司](https://ja.wikipedia.org/wiki/山内久司 "wikilink")（朝日放送）
+  - 制作 - [山内久司](../Page/山内久司.md "wikilink")（朝日放送）
   - プロデューサー - [奥田哲雄](https://ja.wikipedia.org/wiki/奥田哲雄 "wikilink")（朝日放送）、辰野悦央（朝日放送）、櫻井洋三（松竹）
-  - 脚本 - [田上雄](https://ja.wikipedia.org/wiki/田上雄 "wikilink")、保利吉紀、中原朗、[林千代](https://ja.wikipedia.org/wiki/林千代 "wikilink")、[篠崎好](https://ja.wikipedia.org/wiki/篠崎好 "wikilink")、[安倍徹郎](https://ja.wikipedia.org/wiki/安倍徹郎 "wikilink")、[吉田剛](https://ja.wikipedia.org/wiki/吉田剛_\(脚本家\) "wikilink")
+  - 脚本 - [田上雄](https://ja.wikipedia.org/wiki/田上雄 "wikilink")、保利吉紀、中原朗、[林千代](https://ja.wikipedia.org/wiki/林千代 "wikilink")、[篠崎好](https://ja.wikipedia.org/wiki/篠崎好 "wikilink")、[安倍徹郎](../Page/安倍徹郎.md "wikilink")、[吉田剛](https://ja.wikipedia.org/wiki/吉田剛_\(脚本家\) "wikilink")
   - 音楽 - [平尾昌晃](../Page/平尾昌晃.md "wikilink")
-  - オープニングナレーター - [中村梅之助](https://ja.wikipedia.org/wiki/中村梅之助_\(4代目\) "wikilink")
+  - オープニングナレーター - [中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")
   - 協力 - [エクラン演技集団](https://ja.wikipedia.org/wiki/エクラン社 "wikilink")、新演技座
-  - 監督 - [工藤栄一](https://ja.wikipedia.org/wiki/工藤栄一 "wikilink")、水川淳三、[田中徳三](https://ja.wikipedia.org/wiki/田中徳三 "wikilink")、[石原興](https://ja.wikipedia.org/wiki/石原興 "wikilink")、原田雄一、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")
+  - 監督 - [工藤栄一](../Page/工藤栄一.md "wikilink")、水川淳三、[田中徳三](../Page/田中徳三.md "wikilink")、[石原興](../Page/石原興.md "wikilink")、原田雄一、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")
   - 製作協力 - 京都映画撮影所（現・松竹撮影所）
   - 制作 - 朝日放送、松竹
 
 ## 主題歌・挿入歌
 
-  - 主題歌 - [川中美幸](https://ja.wikipedia.org/wiki/川中美幸 "wikilink")「愛は別離（わかれ）」\[7\]（テイチクレコード（現・[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")））
+  - 主題歌 - [川中美幸](../Page/川中美幸.md "wikilink")「愛は別離（わかれ）」\[7\]（テイチクレコード（現・[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")））
       -
-        作詞：[なかにし礼](../Page/なかにし礼.md "wikilink")、作曲：[浜圭介](https://ja.wikipedia.org/wiki/浜圭介 "wikilink")、編曲：桜庭伸幸
-        次作『[必殺仕事人V・風雲竜虎編](https://ja.wikipedia.org/wiki/必殺仕事人V・風雲竜虎編 "wikilink")』でも使用された。
+        作詞：[なかにし礼](../Page/なかにし礼.md "wikilink")、作曲：[浜圭介](../Page/浜圭介.md "wikilink")、編曲：桜庭伸幸
+        次作『[必殺仕事人V・風雲竜虎編](../Page/必殺仕事人V・風雲竜虎編.md "wikilink")』でも使用された。
   - 挿入歌 - 川中美幸「風花」（テイチクレコード（現・テイチクエンタテインメント））
       -
         作詞：中西冬樹、作曲：伊豆康臣、編曲：桜庭伸幸
@@ -326,22 +326,22 @@
 
   - サブタイトルは画面上では「主水」の後、改行して、次の言葉になるが、便宜上「、」を用いる。
 
-| 話数       | 放送日        | サブタイトル                                                               | 脚本   | 監督   |
-| -------- | ---------- | -------------------------------------------------------------------- | ---- | ---- |
-| 第1話      | 1986年11月7日 | 主水、[エスカルゴ](../Page/エスカルゴ.md "wikilink")を食べる                          | 田上雄  | 工藤栄一 |
-| 第2話      | 11月14日     | りつ、[ハウスマヌカンになる](https://ja.wikipedia.org/wiki/マネキン "wikilink")       | 保利吉紀 | 水川淳三 |
-| 第3話\[8\] | 12月5日      | 主水、殺人ツアーに出かける                                                        | 田中徳三 |      |
-| 第4話      | 12月12日     | せん、りつ、[カチンカチン体操をする](https://ja.wikipedia.org/wiki/うつみ宮土理 "wikilink") | 中原朗  | 松野宏軌 |
-| 第5話      | 12月19日     | 主水、[X'マスプレゼントする](https://ja.wikipedia.org/wiki/クリスマス "wikilink")     | 林千代  |      |
-| 第6話      | 1987年1月9日  | 主水 [バースになる](https://ja.wikipedia.org/wiki/ランディ・バース "wikilink")\[9\]  | 保利吉紀 | 田中徳三 |
-| 第7話      | 1月16日      | 主水、せん、りつ、ダブルベッドに寝る                                                   | 篠崎好  | 水川淳三 |
-| 第8話      | 1月23日      | 主水、コールガールの仇をうつ                                                       | 安倍徹郎 |      |
-| 第9話      | 1月30日      | 主水、りつ、[ラブホテル](https://ja.wikipedia.org/wiki/ラブホテル "wikilink")に行く     | 篠崎好  | 田中徳三 |
-| 第10話     | 2月6日       | 主水、[ワープロをうつ](../Page/ワードプロセッサ.md "wikilink")                         | 安倍徹郎 | 石原興  |
-| 第11話     | 2月13日      | 主水の隠し子現れる                                                            | 篠崎好  | 原田雄一 |
-| 第12話     | 2月20日      | 主水、ネズミ捕りにかかる                                                         | 保利吉紀 | 松野宏軌 |
-| 第13話     | 2月27日      | 主水、化粧をする                                                             | 吉田剛  | 原田雄一 |
-| 第14話     | 3月6日       | 主水、大奥の鶴を食べて失業する                                                      | 松野宏軌 |      |
+| 話数       | 放送日        | サブタイトル                                            | 脚本   | 監督   |
+| -------- | ---------- | ------------------------------------------------- | ---- | ---- |
+| 第1話      | 1986年11月7日 | 主水、[エスカルゴ](../Page/エスカルゴ.md "wikilink")を食べる       | 田上雄  | 工藤栄一 |
+| 第2話      | 11月14日     | りつ、[ハウスマヌカンになる](../Page/マネキン.md "wikilink")       | 保利吉紀 | 水川淳三 |
+| 第3話\[8\] | 12月5日      | 主水、殺人ツアーに出かける                                     | 田中徳三 |      |
+| 第4話      | 12月12日     | せん、りつ、[カチンカチン体操をする](../Page/うつみ宮土理.md "wikilink") | 中原朗  | 松野宏軌 |
+| 第5話      | 12月19日     | 主水、[X'マスプレゼントする](../Page/クリスマス.md "wikilink")     | 林千代  |      |
+| 第6話      | 1987年1月9日  | 主水 [バースになる](../Page/ランディ・バース.md "wikilink")\[9\]  | 保利吉紀 | 田中徳三 |
+| 第7話      | 1月16日      | 主水、せん、りつ、ダブルベッドに寝る                                | 篠崎好  | 水川淳三 |
+| 第8話      | 1月23日      | 主水、コールガールの仇をうつ                                    | 安倍徹郎 |      |
+| 第9話      | 1月30日      | 主水、りつ、[ラブホテル](../Page/ラブホテル.md "wikilink")に行く     | 篠崎好  | 田中徳三 |
+| 第10話     | 2月6日       | 主水、[ワープロをうつ](../Page/ワードプロセッサ.md "wikilink")      | 安倍徹郎 | 石原興  |
+| 第11話     | 2月13日      | 主水の隠し子現れる                                         | 篠崎好  | 原田雄一 |
+| 第12話     | 2月20日      | 主水、ネズミ捕りにかかる                                      | 保利吉紀 | 松野宏軌 |
+| 第13話     | 2月27日      | 主水、化粧をする                                          | 吉田剛  | 原田雄一 |
+| 第14話     | 3月6日       | 主水、大奥の鶴を食べて失業する                                   | 松野宏軌 |      |
 
 ## ネット局
 
@@ -404,7 +404,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
@@ -509,7 +509,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 <td></td>
@@ -547,7 +547,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>
@@ -565,12 +565,12 @@
 [Category:必殺シリーズ](https://ja.wikipedia.org/wiki/Category:必殺シリーズ "wikilink") [Category:1986年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1986年のテレビドラマ "wikilink") [Category:必殺仕事人](https://ja.wikipedia.org/wiki/Category:必殺仕事人 "wikilink")
 
 1.  次作の『風雲竜虎編』第1話の鍛冶屋の政の登場シーンでは主水から「銀平のことは諦めろ」との一言がある。
-2.  今でいうところの[古物商](https://ja.wikipedia.org/wiki/古物商 "wikilink")。
+2.  今でいうところの[古物商](../Page/古物商.md "wikilink")。
 3.  この虎が『[新・必殺仕置人](../Page/新・必殺仕置人.md "wikilink")』の元締・虎を指すかは不明。
-4.  ひかるのコメントによると、旋風編での順之助の最期は「爆死」ではなく「行方不明」である。これは映画『[必殺4 恨みはらします](../Page/必殺4_恨みはらします.md "wikilink")』の公開が控えていたことと、いずれ、必殺シリーズに順之助を再登場させるためにと、制作スタッフと約束していたことであるが、再登場の前に必殺シリーズが一旦、終了となった。出典：『時代劇マガジンVol.19』（[辰巳出版](https://ja.wikipedia.org/wiki/辰巳出版 "wikilink")）内のスペシャル インタビューより。
+4.  ひかるのコメントによると、旋風編での順之助の最期は「爆死」ではなく「行方不明」である。これは映画『[必殺4 恨みはらします](../Page/必殺4_恨みはらします.md "wikilink")』の公開が控えていたことと、いずれ、必殺シリーズに順之助を再登場させるためにと、制作スタッフと約束していたことであるが、再登場の前に必殺シリーズが一旦、終了となった。出典：『時代劇マガジンVol.19』（[辰巳出版](../Page/辰巳出版.md "wikilink")）内のスペシャル インタビューより。
 5.  今でいうところの[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")。
 6.  複数の悪人に対しては便利屋お玉が火の付いた提灯を悪人に手渡し、回避を合図に提灯の火を狙撃。弾丸の中にある炸薬に引火させ、空中爆発を引き起こす。
 7.
 8.  1986年11月21日の放送が予定されていたが「[三原山噴火](https://ja.wikipedia.org/wiki/三原山噴火 "wikilink")」によるANN報道特別番組のため、休止（スポンサーと提供クレジットは朝日放送が担当）。11月28日は『[サントリーミステリー大賞](../Page/サントリーミステリー大賞.md "wikilink")スペシャル』放送のため、本作第3話の放送は12月5日に延期された。
 9.  撮影された時期（1986年11月）に藤田がミュージカル『[その男ゾルバ](https://ja.wikipedia.org/wiki/その男ゾルバ_\(ミュージカル\) "wikilink")』（[梅田コマ劇場](https://ja.wikipedia.org/wiki/梅田コマ劇場 "wikilink")）に主演していたため、一部のシーンで髭を生やしたままの状態でいることを形容したもの。
-10. 山田誠二『必殺シリーズ完全百科』p55 - 56より。出典では次作『[必殺仕事人V・風雲竜虎編](https://ja.wikipedia.org/wiki/必殺仕事人V・風雲竜虎編 "wikilink")』撮影時での出来事としているが、実際には本作撮影時での出来事である。
+10. 山田誠二『必殺シリーズ完全百科』p55 - 56より。出典では次作『[必殺仕事人V・風雲竜虎編](../Page/必殺仕事人V・風雲竜虎編.md "wikilink")』撮影時での出来事としているが、実際には本作撮影時での出来事である。

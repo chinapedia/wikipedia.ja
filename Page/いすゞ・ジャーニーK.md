@@ -1,7 +1,7 @@
 > この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
 
 
-**いすゞ・ジャーニーK**（**Journey K**）はかつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が製造・販売していた中型バス。大型[路線バス](../Page/路線バス.md "wikilink")の[キュービックと同じく](https://ja.wikipedia.org/wiki/いすゞ・キュービック "wikilink")[1984年](../Page/1984年.md "wikilink")に発売され、路線仕様と[観光](https://ja.wikipedia.org/wiki/観光バス "wikilink")・[自家用仕様が存在した](https://ja.wikipedia.org/wiki/自家用バス "wikilink")。[1999年](../Page/1999年.md "wikilink")に路線用は[エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、観光・自家用は[ガーラミオに移行して製造終了した](https://ja.wikipedia.org/wiki/いすゞ・ガーラミオ "wikilink")。
+**いすゞ・ジャーニーK**（**Journey K**）はかつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が製造・販売していた中型バス。大型[路線バス](../Page/路線バス.md "wikilink")の[キュービックと同じく](../Page/いすゞ・キュービック.md "wikilink")[1984年](../Page/1984年.md "wikilink")に発売され、路線仕様と[観光](../Page/観光バス.md "wikilink")・[自家用仕様が存在した](../Page/自家用バス.md "wikilink")。[1999年](../Page/1999年.md "wikilink")に路線用は[エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、観光・自家用は[ガーラミオに移行して製造終了した](../Page/いすゞ・ガーラミオ.md "wikilink")。
 
 また本項では、前身となったいすゞ初の中型[リヤエンジン](https://ja.wikipedia.org/wiki/リヤエンジン "wikilink")バスBK30系、およびその後継車種であるCCM系・CDM系についても述べて、[1970年代](../Page/1970年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")のいすゞの中型バスを概観する。
 
@@ -9,11 +9,11 @@
 
 ### BK30系
 
-1972年、中型トラックTYをベースにした[BY30/31のコンポーネントを元に](https://ja.wikipedia.org/wiki/いすゞ・ジャーニーQ "wikilink")、いすゞ初の中型[リヤエンジン](https://ja.wikipedia.org/wiki/リヤエンジン "wikilink")バスとしてBK30が登場。車体は[川重車体工業](https://ja.wikipedia.org/wiki/川重車体工業 "wikilink")（以下川重）が架装した。エンジンは130PSのD500型を搭載した。後にエンジンを145PSの6BB1型に、ウインカーもバス標準タイプに変更したと同時に型式もBK32に変更された。全長8200mm、全高2830mm、全幅2300mm、ホイールベースは3780mmで、[ブレーキ](../Page/ブレーキ.md "wikilink")は倍力装置付オイルブレーキが装備された。トップドア ・ 引き違い窓・立席設定なしのみの設定であったため、自家用としての需要が殆どで、営業用としての導入は一部に留まった。
+1972年、中型トラックTYをベースにした[BY30/31のコンポーネントを元に](../Page/いすゞ・ジャーニーQ.md "wikilink")、いすゞ初の中型[リヤエンジン](https://ja.wikipedia.org/wiki/リヤエンジン "wikilink")バスとしてBK30が登場。車体は[川重車体工業](https://ja.wikipedia.org/wiki/川重車体工業 "wikilink")（以下川重）が架装した。エンジンは130PSのD500型を搭載した。後にエンジンを145PSの6BB1型に、ウインカーもバス標準タイプに変更したと同時に型式もBK32に変更された。全長8200mm、全高2830mm、全幅2300mm、ホイールベースは3780mmで、[ブレーキ](../Page/ブレーキ.md "wikilink")は倍力装置付オイルブレーキが装備された。トップドア ・ 引き違い窓・立席設定なしのみの設定であったため、自家用としての需要が殆どで、営業用としての導入は一部に留まった。
 
 ### CCM/CDM系
 
-1976年、BK30系の後継として登場。側窓が2段サッシ、前中扉及び前後扉仕様の路線車がラインナップされた。エンジンは直接噴射式の6BD1型 (160PS) を採用、ブレーキも空気油圧倍力装置付に変更された。[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")は[オーバードライブ](https://ja.wikipedia.org/wiki/マニュアルトランスミッション#内部構造 "wikilink")5速[MTで](../Page/マニュアルトランスミッション.md "wikilink")、1978年には[GM](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")[アリソン製の直結](https://ja.wikipedia.org/wiki/アリソン・トランスミッション "wikilink")4速[ATも追加された](../Page/オートマチックトランスミッション.md "wikilink")\[1\]。
+1976年、BK30系の後継として登場。側窓が2段サッシ、前中扉及び前後扉仕様の路線車がラインナップされた。エンジンは直接噴射式の6BD1型 (160PS) を採用、ブレーキも空気油圧倍力装置付に変更された。[トランスミッション](../Page/トランスミッション.md "wikilink")は[オーバードライブ](https://ja.wikipedia.org/wiki/マニュアルトランスミッション#内部構造 "wikilink")5速[MTで](../Page/マニュアルトランスミッション.md "wikilink")、1978年には[GM](../Page/ゼネラルモーターズ.md "wikilink")[アリソン製の直結](../Page/アリソン・トランスミッション.md "wikilink")4速[ATも追加された](../Page/オートマチックトランスミッション.md "wikilink")\[1\]。
 
 型式は以下のとおり。
 
@@ -28,19 +28,19 @@
 
 川重と[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")（以下北村）が架装した。川重製の路線車は当初、方向幕の左右にルーバーがあり、2段サッシに丸みがあった。北村製は角張ったボディで当時としては斬新なものだった。
 
-[1981年](../Page/1981年.md "wikilink")から[西日本車体工業](../Page/西日本車体工業.md "wikilink")製（以下西工）も登場したが、川重の[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")のため、細部を除きボディ形状は川重と同一であった。
+[1981年](../Page/1981年.md "wikilink")から[西日本車体工業](../Page/西日本車体工業.md "wikilink")製（以下西工）も登場したが、川重の[ライセンス生産](../Page/ライセンス生産.md "wikilink")のため、細部を除きボディ形状は川重と同一であった。
 
 Image:JRsikoku CCM410 kawasaki.jpg|川重車体
 CCM410
-[JR四国](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink") <File:Yamaguchishiei> K-CCM410 kawasaki.jpg|川重車体
+[JR四国](../Page/四国旅客鉄道.md "wikilink") <File:Yamaguchishiei> K-CCM410 kawasaki.jpg|川重車体
 K-CCM410
 [山口市交通局](../Page/山口市交通局.md "wikilink") 画像:Yamanashikotsu C486 restored.jpg|川重車体
 K-CCM410
-[山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink") <File:Towadakanko> ISUZU K-CDM410.jpg|川重車体
+[山梨交通](../Page/山梨交通.md "wikilink") <File:Towadakanko> ISUZU K-CDM410.jpg|川重車体
 K-CDM410
 [十和田観光電鉄](../Page/十和田観光電鉄.md "wikilink") 画像:K-CCM370-Kitamura-Gumma-Bus.jpg|北村車体
 K-CCM370
-[群馬バス](https://ja.wikipedia.org/wiki/群馬バス "wikilink") 画像:K-CCM410-Nougata-Kotsu-1560.jpg|西工車体
+[群馬バス](../Page/群馬バス.md "wikilink") 画像:K-CCM410-Nougata-Kotsu-1560.jpg|西工車体
 K-CCM410
 [直方交通](https://ja.wikipedia.org/wiki/直方交通 "wikilink")
 
@@ -48,13 +48,13 @@ K-CCM410
 
 [1984年](../Page/1984年.md "wikilink")、CDMの後継として登場。車体長は普通尺（J尺）、短尺（F尺）のバリエーションがあり、型式末尾の記号で判別できる。
 
-車体は標準では川重車体（→アイ・ケイ・コーチ）で、[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")から[スケルトンボディにフルモデルチェンジされた](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#マルチチューブラーフレーム "wikilink")。[キュービックと同様に直線的なデザインだが](https://ja.wikipedia.org/wiki/いすゞ・キュービック "wikilink")、前面のデザインはキュービックと異なっている。
+車体は標準では川重車体（→アイ・ケイ・コーチ）で、[モノコック](../Page/モノコック.md "wikilink")から[スケルトンボディにフルモデルチェンジされた](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#マルチチューブラーフレーム "wikilink")。[キュービックと同様に直線的なデザインだが](../Page/いすゞ・キュービック.md "wikilink")、前面のデザインはキュービックと異なっている。
 
-LRには[富士重工業製や](https://ja.wikipedia.org/wiki/スバルカスタマイズ工房 "wikilink")[西日本車体工業](../Page/西日本車体工業.md "wikilink")製のボディを架装した例もある。富士重工業製は1994年までは16型（6Eまたは6B）、その後は18型（8Eまたは8B）を架装する。西日本車体工業製は58MC型、その後は96MC型を架装する。
+LRには[富士重工業製や](../Page/スバルカスタマイズ工房.md "wikilink")[西日本車体工業](../Page/西日本車体工業.md "wikilink")製のボディを架装した例もある。富士重工業製は1994年までは16型（6Eまたは6B）、その後は18型（8Eまたは8B）を架装する。西日本車体工業製は58MC型、その後は96MC型を架装する。
 
 #### P-LR系
 
-[1984年](../Page/1984年.md "wikilink")3月、CDMの後継として登場。[昭和58年排出ガス規制](https://ja.wikipedia.org/wiki/昭和58年排出ガス規制 "wikilink")に適合し、[エアサス車や](../Page/空気ばね.md "wikilink")[ターボ車も設定された](https://ja.wikipedia.org/wiki/ターボチャージャー#自動車など "wikilink")。エンジンは[直接噴射式の](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")6BG1型 (175PS) を採用、[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")は直結5速[MTが標準仕様となる](../Page/マニュアルトランスミッション.md "wikilink")。ホイールベースは普通尺（J尺）が4.3m、短尺（F尺）が3.75mに変更された。
+[1984年](../Page/1984年.md "wikilink")3月、CDMの後継として登場。[昭和58年排出ガス規制](https://ja.wikipedia.org/wiki/昭和58年排出ガス規制 "wikilink")に適合し、[エアサス車や](../Page/空気ばね.md "wikilink")[ターボ車も設定された](https://ja.wikipedia.org/wiki/ターボチャージャー#自動車など "wikilink")。エンジンは[直接噴射式の](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")6BG1型 (175PS) を採用、[トランスミッション](../Page/トランスミッション.md "wikilink")は直結5速[MTが標準仕様となる](../Page/マニュアルトランスミッション.md "wikilink")。ホイールベースは普通尺（J尺）が4.3m、短尺（F尺）が3.75mに変更された。
 
 型式は以下のとおり。
 
@@ -62,11 +62,11 @@ LRには[富士重工業製や](https://ja.wikipedia.org/wiki/スバルカスタ
   - P-LR311（リーフサス・ターボ車）
   - P-LR212（エアサス）
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に指定車体メーカーである川重車体工業は、いすゞとの[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")アイ・ケイ・コーチ（IK Coach、後の[いすゞバス製造](https://ja.wikipedia.org/wiki/いすゞバス製造 "wikilink")。現：[ジェイ・バス](https://ja.wikipedia.org/wiki/ジェイ・バス "wikilink")宇都宮工場）を設立した。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に指定車体メーカーである川重車体工業は、いすゞとの[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")アイ・ケイ・コーチ（IK Coach、後の[いすゞバス製造](../Page/いすゞバス製造.md "wikilink")。現：[ジェイ・バス](../Page/ジェイ・バス.md "wikilink")宇都宮工場）を設立した。
 
 ファイル:P-LR212J-Azuma-Bus.JPG|観光仕様
 P-LR212J
-[東運輸](https://ja.wikipedia.org/wiki/東運輸 "wikilink")バス ファイル:Nanbubus-438.JPG|富士重工6E架装車
+[東運輸](../Page/東運輸.md "wikilink")バス ファイル:Nanbubus-438.JPG|富士重工6E架装車
 P-LR312J
 南部バス ファイル:Daikohokubu bus 15-74.jpg|路線仕様・前扉車
 P-LR312F
@@ -74,7 +74,7 @@ P-LR312F
 
 #### U-LR系
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[平成元年排出ガス規制に適合](https://ja.wikipedia.org/wiki/自動車排出ガス規制#日本 "wikilink")。[ラジエーター](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")[グリルの位置が変更された](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")（ターボ車は除く）。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[平成元年排出ガス規制に適合](https://ja.wikipedia.org/wiki/自動車排出ガス規制#日本 "wikilink")。[ラジエーター](../Page/ラジエーター.md "wikilink")[グリルの位置が変更された](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")（ターボ車は除く）。
 
 型式は以下のとおり。※ターボ車は普通尺（J尺、ホイールベース4.3m）のみ。
 
@@ -87,13 +87,13 @@ P-LR312F
 
 ファイル:Miyako-Osaki-bus-5623.JPG|路線仕様
 U-LR332J
-[宮交大崎バス（撮影当時）](https://ja.wikipedia.org/wiki/ミヤコーバス "wikilink") ファイル:九州産交バス 熊本22か2727.jpg|トップドア路線仕様
+[宮交大崎バス（撮影当時）](../Page/ミヤコーバス.md "wikilink") ファイル:九州産交バス 熊本22か2727.jpg|トップドア路線仕様
 U-LR332J
-[産交バス](https://ja.wikipedia.org/wiki/九州産交バス "wikilink") ファイル:Bandai-Toto-bus-NA-1.jpg|観光仕様
+[産交バス](../Page/九州産交バス.md "wikilink") ファイル:Bandai-Toto-bus-NA-1.jpg|観光仕様
 U-LR232F
-[磐梯東都バス](https://ja.wikipedia.org/wiki/磐梯東都バス "wikilink") ファイル:ShuhokuBus-711.JPG|富士重工6E架装車
+[磐梯東都バス](../Page/磐梯東都バス.md "wikilink") ファイル:ShuhokuBus-711.JPG|富士重工6E架装車
 U-LR332J
-[秋北バス](https://ja.wikipedia.org/wiki/秋北バス "wikilink") ファイル:関東鉄道 1602TK非公式側(U-LR332J).JPG|富士重工6E架装車
+[秋北バス](../Page/秋北バス.md "wikilink") ファイル:関東鉄道 1602TK非公式側(U-LR332J).JPG|富士重工6E架装車
 U-LR332J
 [関東鉄道](../Page/関東鉄道.md "wikilink") ファイル:ISUZU U-LR332J Mie Kotsu Fuji Jyuko 6E Body Mie 22 ki 434 Kintetsu Aoyama-cho St..JPG|富士重工6E架装車
 U-LR332J
@@ -110,11 +110,11 @@ U-LR332J
   - KC-LR333（リーフサス）
   - KC-LR233（エアサス）
 
-内装は[ステアリング](../Page/ステアリング.md "wikilink")および[運転席周りのデザインが変更された](https://ja.wikipedia.org/wiki/ダッシュボード_\(自動車\) "wikilink")。また車体は[キュービックと同様にリアガラス周りのの凸部がなくなり](https://ja.wikipedia.org/wiki/いすゞ・キュービック "wikilink")、すっきりしたデザインとなった。観光・自家用はフロントマスクが変更され、[スーパークルーザーに似たものとなった](../Page/いすゞ・スーパークルーザー.md "wikilink")。
+内装は[ステアリング](../Page/ステアリング.md "wikilink")および[運転席周りのデザインが変更された](../Page/ダッシュボード_\(自動車\).md "wikilink")。また車体は[キュービックと同様にリアガラス周りのの凸部がなくなり](../Page/いすゞ・キュービック.md "wikilink")、すっきりしたデザインとなった。観光・自家用はフロントマスクが変更され、[スーパークルーザーに似たものとなった](../Page/いすゞ・スーパークルーザー.md "wikilink")。
 
-末期は[アイドリングストップ](../Page/アイドリングストップ.md "wikilink")装置装備車や[ワンステップバス](https://ja.wikipedia.org/wiki/ワンステップバス "wikilink")、[CNGエンジン車も設定された](https://ja.wikipedia.org/wiki/天然ガス自動車 "wikilink")。
+末期は[アイドリングストップ](../Page/アイドリングストップ.md "wikilink")装置装備車や[ワンステップバス](../Page/ワンステップバス.md "wikilink")、[CNGエンジン車も設定された](../Page/天然ガス自動車.md "wikilink")。
 
-[1999年](../Page/1999年.md "wikilink")に路線用が[エルガミオに](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、観光・自家用が[ガーラミオに移行する形で生産を終了している](https://ja.wikipedia.org/wiki/いすゞ・ガーラミオ "wikilink")。
+[1999年](../Page/1999年.md "wikilink")に路線用が[エルガミオに](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、観光・自家用が[ガーラミオに移行する形で生産を終了している](../Page/いすゞ・ガーラミオ.md "wikilink")。
 
 ファイル:Iwateken-kotsu-1266.jpg|路線仕様（短尺車）
 KC-LR333F
@@ -122,7 +122,7 @@ KC-LR333F
 KC-LR333J
 [千葉中央バス](../Page/千葉中央バス.md "wikilink") ファイル:YamanashiKotsuC666.JPG|路線仕様（CNGエンジン）
 KC-LR333J改
-[山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink") ファイル:Ccity_c131.JPG|路線仕様ワンステップバス
+[山梨交通](../Page/山梨交通.md "wikilink") ファイル:Ccity_c131.JPG|路線仕様ワンステップバス
 KC-LR333J
 [ちばシティバス](../Page/ちばシティバス.md "wikilink") ファイル:KC-LR233J-Azuma-Bus-from-HatoBus-R.JPG|観光仕様
 KC-LR233J
@@ -138,8 +138,8 @@ KC-LR233J
 ## 関連項目
 
   - [いすゞ・エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink") - ジャーニーK（LR系）の後継モデル
-  - [いすゞ・キュービック](https://ja.wikipedia.org/wiki/いすゞ・キュービック "wikilink") - 同時期に発売された大型路線バス
-  - [いすゞ・ジャーニー](https://ja.wikipedia.org/wiki/いすゞ・ジャーニー "wikilink") - 他のジャーニー（[マイクロバス](https://ja.wikipedia.org/wiki/マイクロバス "wikilink")）
+  - [いすゞ・キュービック](../Page/いすゞ・キュービック.md "wikilink") - 同時期に発売された大型路線バス
+  - [いすゞ・ジャーニー](../Page/いすゞ・ジャーニー.md "wikilink") - 他のジャーニー（[マイクロバス](../Page/マイクロバス.md "wikilink")）
 
 ## 参考文献
 

@@ -7,11 +7,11 @@
 
 ## 概要
 
-当時F1の競技者団体だった[FOCA](https://ja.wikipedia.org/wiki/フォーミュラ・ワン・コンストラクターズ・アソシエーション "wikilink") (Formula One Constructors Association) 及び、日本国内でのF1関連の諸権利を保有していた[フジテレビとライセンス契約を結び](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、発売の前年である[1992年](../Page/1992年.md "wikilink")当時のF1ドライバーやチーム名、[サーキット](https://ja.wikipedia.org/wiki/サーキット "wikilink")名などが実名で登場する。
+当時F1の競技者団体だった[FOCA](https://ja.wikipedia.org/wiki/フォーミュラ・ワン・コンストラクターズ・アソシエーション "wikilink") (Formula One Constructors Association) 及び、日本国内でのF1関連の諸権利を保有していた[フジテレビとライセンス契約を結び](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、発売の前年である[1992年](../Page/1992年.md "wikilink")当時のF1ドライバーやチーム名、[サーキット](../Page/サーキット.md "wikilink")名などが実名で登場する。
 
 但し今作では、多くのF1レースゲームのように実在のドライバーを操るのではなく、プレイヤーはあくまでプレイヤー本人であり、彼らの中から最大12人を相手に戦うことになる。ライバルドライバーは自分で選択でき、誰を選ぶかによって難易度が変化する。
 
-マシンは[マクラーレン](../Page/マクラーレン.md "wikilink")・[フェラーリ](https://ja.wikipedia.org/wiki/スクーデリア・フェラーリ "wikilink")・[ウィリアムズ](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")・[ベネトンの](https://ja.wikipedia.org/wiki/ベネトン・フォーミュラ "wikilink")4種類から選ぶことができるが、カラーリングはある程度自分好みに変更することが出来る。
+マシンは[マクラーレン](../Page/マクラーレン.md "wikilink")・[フェラーリ](../Page/スクーデリア・フェラーリ.md "wikilink")・[ウィリアムズ](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")・[ベネトンの](../Page/ベネトン・フォーミュラ.md "wikilink")4種類から選ぶことができるが、カラーリングはある程度自分好みに変更することが出来る。
 
 ファミコン末期の発売タイトルということも有り、供給本数はそれほど多くなく、中古市場ではやや高値が付いている。
 
@@ -45,7 +45,7 @@
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計22点（満40点）\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、21.1点（満30点）となっている\[2\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計22点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、21.1点（満30点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |

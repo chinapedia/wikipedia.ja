@@ -53,17 +53,17 @@
       - 開業日：南館:[2001年](../Page/2001年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")、北館:[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")
   - JRホテル屋久島（[鹿児島県](../Page/鹿児島県.md "wikilink")[熊毛郡](../Page/熊毛郡_\(鹿児島県\).md "wikilink")[屋久島町](../Page/屋久島町.md "wikilink")）
       - 部屋数：46室
-      - 開業日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")
+      - 開業日：[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")
   - JR九州ホテル ブラッサム博多中央（福岡市博多区、博多駅博多口側（福岡センタービル裏）\[10\]\[11\]）
       - 部屋数：247室
-      - 開業日：[2013年](../Page/2013年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")
-  - JR九州ホテル ブラッサム新宿（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）\[12\]
+      - 開業日：[2013年](../Page/2013年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")
+  - JR九州ホテル ブラッサム新宿（[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）\[12\]
       - 部屋数：240室
       - 開業日：[2014年](../Page/2014年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")
   - 別府温泉 竹と椿のお宿「花べっぷ」（旧 JR九州の宿 べっぷ荘）（[別府市](../Page/別府市.md "wikilink")）
       - 部屋数：30室
       - 新装開業日：[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")
-      - 「JR九州の宿 べっぷ荘」を2012年4月27日に全面リニューアルし、現名称に変更。かつては[分鉄開発](https://ja.wikipedia.org/wiki/分鉄開発 "wikilink")株式会社が運営していたが、2017年4月1日に[JR九州フードサービス](https://ja.wikipedia.org/wiki/JR九州フードサービス "wikilink")に合併し解散したため、当社運営に変更になった。2018年4月2日からはJRホテルメンバーズ対象ホテルになっている\[13\]。
+      - 「JR九州の宿 べっぷ荘」を2012年4月27日に全面リニューアルし、現名称に変更。かつては[分鉄開発](../Page/分鉄開発.md "wikilink")株式会社が運営していたが、2017年4月1日に[JR九州フードサービス](https://ja.wikipedia.org/wiki/JR九州フードサービス "wikilink")に合併し解散したため、当社運営に変更になった。2018年4月2日からはJRホテルメンバーズ対象ホテルになっている\[13\]。
   - JR九州ホテル ブラッサム那覇（[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")）
       - 開業日：[2017年](../Page/2017年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
       - 部屋数：218室
@@ -82,8 +82,8 @@
 
 **ジェイアール九州ハウステンボスホテル株式会社**
 
-  - ホテルオークラJRハウステンボス（[佐世保市](../Page/佐世保市.md "wikilink")、[ハウステンボス](https://ja.wikipedia.org/wiki/ハウステンボス "wikilink")、旧ハウステンボスジェイアール全日空ホテル）（[ホテルオークラ](https://ja.wikipedia.org/wiki/ホテルオークラ "wikilink")のフランチャイズ）
-      - 2012年3月31日を持って[IHG・ANA・ホテルズグループジャパンとの契約を終了](https://ja.wikipedia.org/wiki/全日空ホテルズ "wikilink")、翌4月1日より名称変更と同時に[ホテルオークラ](https://ja.wikipedia.org/wiki/ホテルオークラ "wikilink")のオークラホテルズ&リゾーツに加盟した。\[17\]
+  - ホテルオークラJRハウステンボス（[佐世保市](../Page/佐世保市.md "wikilink")、[ハウステンボス](https://ja.wikipedia.org/wiki/ハウステンボス "wikilink")、旧ハウステンボスジェイアール全日空ホテル）（[ホテルオークラ](../Page/ホテルオークラ.md "wikilink")のフランチャイズ）
+      - 2012年3月31日を持って[IHG・ANA・ホテルズグループジャパンとの契約を終了](https://ja.wikipedia.org/wiki/全日空ホテルズ "wikilink")、翌4月1日より名称変更と同時に[ホテルオークラ](../Page/ホテルオークラ.md "wikilink")のオークラホテルズ&リゾーツに加盟した。\[17\]
       - 部屋数：320室
       - 開業日：[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")（ハウステンボスジェイアール全日空ホテルとして）
 
@@ -111,7 +111,7 @@
 
 ## 関連項目
 
-  - [アミュプラザ](https://ja.wikipedia.org/wiki/アミュプラザ "wikilink")
+  - [アミュプラザ](../Page/アミュプラザ.md "wikilink")
   - [JR九州駅ビルホールディングス](https://ja.wikipedia.org/wiki/JR九州駅ビルホールディングス "wikilink")
 
 ## 外部リンク

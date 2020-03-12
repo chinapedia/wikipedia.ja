@@ -1,7 +1,7 @@
 > この記事は[No Regret Life](https://ja.wikipedia.org/wiki/No_Regret_Life)から翻訳されています。
 
 
-**No Regret Life**（ノー リグレット ライフ）は、[2001年](../Page/2001年.md "wikilink")に結成され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月にシングル「メロディー」でデビューした日本の3人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は「ノーリグ」。[2013年](../Page/2013年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")をもって解散。
+**No Regret Life**（ノー リグレット ライフ）は、[2001年](../Page/2001年.md "wikilink")に結成され、[2005年](../Page/2005年.md "wikilink")2月にシングル「メロディー」でデビューした日本の3人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は「ノーリグ」。[2013年](../Page/2013年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")をもって解散。
 
 ## メンバー
 
@@ -12,14 +12,14 @@
   -
     [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐北区](../Page/安佐北区.md "wikilink")可部出身。
     2012年、[つばきのトリビュートアルバム](../Page/つばき_\(ロックバンド\).md "wikilink")『つばきフレンズ』に参加。
-    2013年、[LOST IN TIMEのオリジナルアルバム](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")『LIFE IS WONDER』に参加。
+    2013年、[LOST IN TIMEのオリジナルアルバム](../Page/LOST_IN_TIME.md "wikilink")『LIFE IS WONDER』に参加。
     [SWANKY DOGSのオリジナルアルバム](https://ja.wikipedia.org/wiki/SWANKY_DOGS "wikilink")『何もない地平線の上から』にサウンドプロデューサーとして参加。
     2016年、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ジョジョの奇妙な冒険](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink")・3rd Season ダイヤモンドは砕けない』のオープニング曲『Crazy Noisy Bizarre Town』の作曲を担当。同曲のディレクション及びコーラスとしても参加している。上記楽曲がリリースされた4月27日、同アニメ1st Seasonオープニング曲『[BLOODY STREAM](https://ja.wikipedia.org/wiki/BLOODY_STREAM "wikilink")』の歌唱、及び、2nd Seasonオープニング曲『ジョジョ その血の記憶〜end of THE WORLD〜』を歌ったユニット“JO☆STARS”のメンバーの一人・**Coda**であったことを明らかにした\[1\]\[2\]。
     2018年には同アニメの4th Seasonとなる『黄金の風』のオープニング曲『Fighting Gold』も歌唱している。
 
 <!-- end list -->
 
-  - **松村元太**（まつむら げんた [1979年](../Page/1979年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")担当。
+  - **松村元太**（まつむら げんた [1979年](../Page/1979年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")担当。
 
 <!-- end list -->
 
@@ -38,20 +38,20 @@
 ## 来歴
 
   - [2001年](../Page/2001年.md "wikilink")
-      - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿屋市](https://ja.wikipedia.org/wiki/鹿屋市 "wikilink")で小田和奏、橋口竜太を中心として「No Regret Life」を結成。
+      - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿屋市](../Page/鹿屋市.md "wikilink")で小田和奏、橋口竜太を中心として「No Regret Life」を結成。
       - [11月](../Page/11月.md "wikilink")、ベース脱退と同時に松村元太加入し、現在のメンバーが揃う。
   - [2002年](../Page/2002年.md "wikilink")
       - [11月](../Page/11月.md "wikilink")、アルバム『Tommorrow Is The Another Day』発売。
   - [2003年](../Page/2003年.md "wikilink")
-      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")と対バンを行う。この対バンが縁となり、後に現事務所と出会う。
+      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")と対バンを行う。この対バンが縁となり、後に現事務所と出会う。
   - [2004年](../Page/2004年.md "wikilink")
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、ミニアルバム『My Life,My Song,My Mind』発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [2月9日](../Page/2月9日.md "wikilink")、1枚目のシングル「メロディー」発売し、メジャーデビューする。このシングル以降は現在まで[Sony Music Associated Recordsからの発売となる](https://ja.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")。
       - [6月8日](../Page/6月8日.md "wikilink")、2枚目のシングル「[失くした言葉](https://ja.wikipedia.org/wiki/失くした言葉 "wikilink")」発売。
       - [11月2日](../Page/11月2日.md "wikilink")、3枚目のシングル「あの日の未来」発売。
-      - [12月31日](../Page/12月31日.md "wikilink")、「[COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink")」の05/06に出演。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+      - [12月31日](../Page/12月31日.md "wikilink")、「[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink")」の05/06に出演。
+  - [2006年](../Page/2006年.md "wikilink")
       - [2月1日](../Page/2月1日.md "wikilink")、1枚目のアルバム『Sign』発売。
       - 2月8日、下北沢SHELTERを皮切りに、4月7日のフルハウスの新宿LOFTまで全32本の全国ツアーを敢行。また、宮城県仙台で行われる春フェス[ARABAKI ROCK FEST.にも参加した](../Page/ARABAKI_ROCK_FEST..md "wikilink")。
       - [7月12日](../Page/7月12日.md "wikilink")、初のバンドスコア『sign』をドレミ音楽出版社より発売。
@@ -65,7 +65,7 @@
       - [8月13日](../Page/8月13日.md "wikilink")、7枚目のシングル「Can't Explain」発売。
       - [10月22日](../Page/10月22日.md "wikilink")、3枚目のアルバム『Wheels Of Fortune』発売。その後、40本あまりの全国ツアー「Wheels Of Fortune TOUR 2008-2009」を行う。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
-      - [7月24日](../Page/7月24日.md "wikilink")、それまで所属していた[Sony Music Associated Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")、[GROWING UPから離れ](../Page/グローイングアップ_\(企業\).md "wikilink")、自主レーベル「spiral-motion」を設立。
+      - [7月24日](../Page/7月24日.md "wikilink")、それまで所属していた[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、[GROWING UPから離れ](../Page/グローイングアップ_\(企業\).md "wikilink")、自主レーベル「spiral-motion」を設立。
       - [9月23日](../Page/9月23日.md "wikilink")、spiral-motionに移籍して初めてのミニアルバム『Magical Destiny e.p.』を通販・ライブ会場限定で発売。
   - 2011年
       - [8月5日](../Page/8月5日.md "wikilink")、アコースティックシングル「Private works 01」を通販・ライブ会場限定で発売。
@@ -73,7 +73,7 @@
   - 2012年
       - [2月7日](../Page/2月7日.md "wikilink")、アコースティックシングル「Private works 02」を通販・ライブ会場限定で発売。
   - 2013年
-      - [1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、[7月6日](../Page/7月6日.md "wikilink")の新代田FEVERでのワンマンライブをもって、活動終了、解散することを発表。
+      - [1月1日](../Page/1月1日.md "wikilink")、[7月6日](../Page/7月6日.md "wikilink")の新代田FEVERでのワンマンライブをもって、活動終了、解散することを発表。
       - [5月24日](../Page/5月24日.md "wikilink")、ラストツアー「No Regret Life LAST TOUR 2013 "Memory & Record"」をスタート。最後の音源となるミニアルバム『Memory & Record e.p.』を通販・ライブ会場限定で発売。
 
 ## ディスコグラフィー
@@ -94,7 +94,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p><strong>メロディー</strong></p></td>
 <td><p>AICL-1591</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -154,7 +154,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
 <td><p><strong>憧れの果て</strong></p></td>
 <td><p>AICL-1760</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -412,7 +412,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a></p></td>
 <td><p><strong>Sign</strong></p></td>
 <td><p>AICL-1694</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -556,14 +556,14 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>ある午後の感情 / <a href="https://ja.wikipedia.org/wiki/氷柱" title="wikilink">氷柱</a></li>
+<li>ある午後の感情 / <a href="../Page/氷柱.md" title="wikilink">氷柱</a></li>
 <li>ALONE / <a href="https://ja.wikipedia.org/wiki/HI-Cheese" title="wikilink">HI-Cheese</a></li>
 <li>Green resistance / <a href="https://ja.wikipedia.org/wiki/Frust-comp." title="wikilink">Frust-comp.</a></li>
 <li>ワンモアナイト / <a href="https://ja.wikipedia.org/wiki/N.W.O." title="wikilink">N.W.O.</a></li>
 <li>海ノ孤独 / <a href="https://ja.wikipedia.org/wiki/AYAKASI" title="wikilink">AYAKASI</a></li>
 <li>今日はハレ / <a href="https://ja.wikipedia.org/wiki/POGO→STICK" title="wikilink">POGO→STICK</a></li>
 <li><strong>Wonderful World / No Regret Life</strong></li>
-<li>Wisdom / <a href="https://ja.wikipedia.org/wiki/CAMEL_WIZARD" title="wikilink">CAMEL WIZARD</a></li>
+<li>Wisdom / <a href="../Page/CAMEL_WIZARD.md" title="wikilink">CAMEL WIZARD</a></li>
 <li>TRY A DREAM / <a href="https://ja.wikipedia.org/wiki/ONE_GRAM" title="wikilink">ONE GRAM</a></li>
 <li>足跡 / <a href="https://ja.wikipedia.org/wiki/LiMIT-LiNE" title="wikilink">LiMIT-LiNE</a></li>
 <li>KEEP IT REAL / <a href="https://ja.wikipedia.org/wiki/MONGOLIAN_CHOPPERS" title="wikilink">MONGOLIAN CHOPPERS</a></li>
@@ -578,7 +578,7 @@
 <td><p>IAM RECORD COMMUNICATIONS</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-のディスコグラフィ" title="wikilink">NARUTO BEST HIT COLLECTION 2</a></strong></p></td>
 <td><p>SVWC-7367</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -589,16 +589,16 @@
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/流星_(TiAの曲)" title="wikilink">流星</a> / <a href="../Page/TiA.md" title="wikilink">TiA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Home_Sweet_Home_(YUKIの曲)" title="wikilink">Home Sweet Home</a> / <a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/青春狂騒曲" title="wikilink">青春狂騒曲</a> / <a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/青春狂騒曲" title="wikilink">青春狂騒曲</a> / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マウンテン・ア・ゴーゴー・ツー" title="wikilink">マウンテン・ア・ゴーゴー・ツー</a> / <a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/はじめて君としゃべった" title="wikilink">はじめて君としゃべった</a> / <a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ノーボーイ・ノークライ" title="wikilink">ノーボーイ・ノークライ</a> / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/はじめて君としゃべった" title="wikilink">はじめて君としゃべった</a> / <a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ノーボーイ・ノークライ" title="wikilink">ノーボーイ・ノークライ</a> / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/失くした言葉" title="wikilink">失くした言葉</a> / No Regret Life</strong></li>
 <li>スピード / <a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Ding!_Dong!_Dang!" title="wikilink">Ding! Dong! Dang!</a> / <a href="../Page/TUBE.md" title="wikilink">TUBE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/波風サテライト" title="wikilink">波風サテライト</a> / <a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケル</a></li>
 <li>そばにいるから / <a href="https://ja.wikipedia.org/wiki/アマドリ" title="wikilink">アマドリ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/パレード_(CHABAの曲)" title="wikilink">パレード</a> / <a href="https://ja.wikipedia.org/wiki/CHABA" title="wikilink">CHABA</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/パレード_(CHABAの曲)" title="wikilink">パレード</a> / <a href="../Page/CHABA.md" title="wikilink">CHABA</a></li>
 <li>Yellow moon / <a href="../Page/Akeboshi.md" title="wikilink">Akeboshi</a>
 </div>
 </div></li>
@@ -615,10 +615,10 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>小さな町の小さな唄 / 海北大輔（<a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a>）</li>
+<li>小さな町の小さな唄 / 海北大輔（<a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a>）</li>
 <li>Daisy Train / Tony Sly(<a href="https://ja.wikipedia.org/wiki/No_Use_For_A_Name" title="wikilink">No Use For A Name</a>）</li>
 <li>笑い声 / 三浦ユウキ(<a href="https://ja.wikipedia.org/wiki/TOMBOTORI" title="wikilink">TOMBOTORI</a>）</li>
-<li>Courage Song / YU-TAN(<a href="https://ja.wikipedia.org/wiki/GOOD4NOTHING" title="wikilink">GOOD4NOTHING</a>）</li>
+<li>Courage Song / YU-TAN(<a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a>）</li>
 <li>LONG WAY AROUND / Keisaku "Sit" Matsu-ura(<a href="https://ja.wikipedia.org/wiki/COUNTRY_YARD" title="wikilink">COUNTRY YARD</a>）</li>
 <li>サンダルの底 / 野中康平(ex.<a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a>）</li>
 <li>リスタート / HIDETA(ex.<a href="https://ja.wikipedia.org/wiki/SHACHI" title="wikilink">SHACHI</a>）</li>
@@ -693,7 +693,7 @@
 | 曲名     | タイアップ                                                                                                                                                                |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 失くした言葉 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』9代目（2005年4月 - 6月）エンディングテーマ |
-| あの日の未来 | [TBS系音楽番組](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2005年11月度オープニングテーマ                                  |
+| あの日の未来 | [TBS系音楽番組](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2005年11月度オープニングテーマ                                                     |
 
 ## 主なライブ
 
@@ -702,22 +702,22 @@
   - 2008年10月23日-12月12日 - Wheels Of Fortune TOUR 2008-2009
   - 2010年09月23日 - No Regret Life presents "wonderful tonight\!\! vol.6"
       -
-        w/[SOUTH BLOW](https://ja.wikipedia.org/wiki/SOUTH_BLOW "wikilink")/[GENERAL HEAD MOUNTAIN](https://ja.wikipedia.org/wiki/GENERAL_HEAD_MOUNTAIN "wikilink")
+        w/[SOUTH BLOW](../Page/SOUTH_BLOW.md "wikilink")/[GENERAL HEAD MOUNTAIN](https://ja.wikipedia.org/wiki/GENERAL_HEAD_MOUNTAIN "wikilink")
   - 2010年10月10日-12月18日（23公演） - No Regret Life TOUR 2010
       -
-        w/[he](https://ja.wikipedia.org/wiki/he_\(バンド\) "wikilink")/[the HANGOVERS](https://ja.wikipedia.org/wiki/the_HANGOVERS "wikilink")/[ゴーストノート](https://ja.wikipedia.org/wiki/ゴーストノート "wikilink")/[HARTONE](https://ja.wikipedia.org/wiki/HARTONE "wikilink")/[へきれき](../Page/へきれき.md "wikilink")/[SAY MY NAME.](https://ja.wikipedia.org/wiki/SAY_MY_NAME. "wikilink")/[赤靴](https://ja.wikipedia.org/wiki/赤靴 "wikilink")/[AJISAI](https://ja.wikipedia.org/wiki/AJISAI "wikilink")/[e-sound speaker](https://ja.wikipedia.org/wiki/e-sound_speaker "wikilink")/[SuiseiNoboAz](https://ja.wikipedia.org/wiki/SuiseiNoboAz "wikilink")/[Prague](https://ja.wikipedia.org/wiki/Prague "wikilink")/FIT/[ボヤケルズ](https://ja.wikipedia.org/wiki/ボヤケルズ "wikilink")/[codomotona(WONDERS)](https://ja.wikipedia.org/wiki/codomotona\(WONDERS\) "wikilink")/[Far apart Daily life](https://ja.wikipedia.org/wiki/Far_apart_Daily_life "wikilink")/[GINBACK](https://ja.wikipedia.org/wiki/GINBACK "wikilink")/[明日、照らす](https://ja.wikipedia.org/wiki/明日、照らす "wikilink")/[NEWLIFE](https://ja.wikipedia.org/wiki/NEWLIFE "wikilink")（O.A）/[DOOKIE FESTA](https://ja.wikipedia.org/wiki/DOOKIE_FESTA "wikilink")/[Prof.Moriarty\&Smiley-Todd](https://ja.wikipedia.org/wiki/Prof.Moriarty&Smiley-Todd "wikilink")/[ザ・ガールハント](../Page/ザ・ガールハント.md "wikilink")/[GRAND COLOR STONE](https://ja.wikipedia.org/wiki/GRAND_COLOR_STONE "wikilink")/[hare-brained unity](https://ja.wikipedia.org/wiki/hare-brained_unity "wikilink")
+        w/[he](https://ja.wikipedia.org/wiki/he_\(バンド\) "wikilink")/[the HANGOVERS](https://ja.wikipedia.org/wiki/the_HANGOVERS "wikilink")/[ゴーストノート](https://ja.wikipedia.org/wiki/ゴーストノート "wikilink")/[HARTONE](https://ja.wikipedia.org/wiki/HARTONE "wikilink")/[へきれき](../Page/へきれき.md "wikilink")/[SAY MY NAME.](https://ja.wikipedia.org/wiki/SAY_MY_NAME. "wikilink")/[赤靴](https://ja.wikipedia.org/wiki/赤靴 "wikilink")/[AJISAI](../Page/AJISAI.md "wikilink")/[e-sound speaker](https://ja.wikipedia.org/wiki/e-sound_speaker "wikilink")/[SuiseiNoboAz](https://ja.wikipedia.org/wiki/SuiseiNoboAz "wikilink")/[Prague](https://ja.wikipedia.org/wiki/Prague "wikilink")/FIT/[ボヤケルズ](https://ja.wikipedia.org/wiki/ボヤケルズ "wikilink")/[codomotona(WONDERS)](https://ja.wikipedia.org/wiki/codomotona\(WONDERS\) "wikilink")/[Far apart Daily life](https://ja.wikipedia.org/wiki/Far_apart_Daily_life "wikilink")/[GINBACK](https://ja.wikipedia.org/wiki/GINBACK "wikilink")/[明日、照らす](https://ja.wikipedia.org/wiki/明日、照らす "wikilink")/[NEWLIFE](https://ja.wikipedia.org/wiki/NEWLIFE "wikilink")（O.A）/[DOOKIE FESTA](https://ja.wikipedia.org/wiki/DOOKIE_FESTA "wikilink")/[Prof.Moriarty\&Smiley-Todd](https://ja.wikipedia.org/wiki/Prof.Moriarty&Smiley-Todd "wikilink")/[ザ・ガールハント](../Page/ザ・ガールハント.md "wikilink")/[GRAND COLOR STONE](../Page/GRAND_COLOR_STONE.md "wikilink")/[hare-brained unity](https://ja.wikipedia.org/wiki/hare-brained_unity "wikilink")
   - 2010年12月23日 - No Regret Life presents wonderful tonight\!\!vol.7〜year end special\!\!
       -
-        w/[つばき](../Page/つばき_\(ロックバンド\).md "wikilink")/[テルスター](https://ja.wikipedia.org/wiki/テルスター_\(バンド\) "wikilink")/[SOUTH BLOW](https://ja.wikipedia.org/wiki/SOUTH_BLOW "wikilink")/柿澤秀吉（[秀吉](https://ja.wikipedia.org/wiki/秀吉_\(バンド\) "wikilink")）/[butterfly inthe stomach](https://ja.wikipedia.org/wiki/butterfly_inthe_stomach "wikilink")/[フタリロストインタイム](https://ja.wikipedia.org/wiki/フタリロストインタイム "wikilink")/[hare-brained unity](https://ja.wikipedia.org/wiki/hare-brained_unity "wikilink")/[伊藤文暁](https://ja.wikipedia.org/wiki/伊藤文暁 "wikilink")
+        w/[つばき](../Page/つばき_\(ロックバンド\).md "wikilink")/[テルスター](https://ja.wikipedia.org/wiki/テルスター_\(バンド\) "wikilink")/[SOUTH BLOW](../Page/SOUTH_BLOW.md "wikilink")/柿澤秀吉（[秀吉](https://ja.wikipedia.org/wiki/秀吉_\(バンド\) "wikilink")）/[butterfly inthe stomach](https://ja.wikipedia.org/wiki/butterfly_inthe_stomach "wikilink")/[フタリロストインタイム](https://ja.wikipedia.org/wiki/フタリロストインタイム "wikilink")/[hare-brained unity](https://ja.wikipedia.org/wiki/hare-brained_unity "wikilink")/[伊藤文暁](https://ja.wikipedia.org/wiki/伊藤文暁 "wikilink")
   - 2011年01月15日 - No Regret Life presents "wonderful tonight\!\! vol.8〜10th Anniversary special one-man"
   - 2011年10月05日-2012年01月28日（29公演） - No Regret Life TOUR 2011-2012 "Discovery"
   - 2012年02月07日-03月02日（16公演） - 小田和奏弾き語りツアー「in my room, in your town.」
       -
-        w/キクチユウスケ（[plane](https://ja.wikipedia.org/wiki/plane "wikilink")）/ 金廣真悟（[グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")）/ せきしん（[SOUTH BLOW](https://ja.wikipedia.org/wiki/SOUTH_BLOW "wikilink")）/ 有吉裕樹（[Nobel](https://ja.wikipedia.org/wiki/Nobel "wikilink")）/ 松本俊（[AJISAI](https://ja.wikipedia.org/wiki/AJISAI "wikilink")）/ 宮崎アツシ（[ゆらん](https://ja.wikipedia.org/wiki/ゆらん "wikilink")）/ 中村翔太（[PINCH COX](https://ja.wikipedia.org/wiki/PINCH_COX "wikilink")）/ モリシー（covo, [TSUNAGI](https://ja.wikipedia.org/wiki/TSUNAGI "wikilink")）/ 佐々木健太郎（[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")）/ 高橋俊介（[ミゾオチ](https://ja.wikipedia.org/wiki/ミゾオチ "wikilink")）/ [万貴音](https://ja.wikipedia.org/wiki/万貴音 "wikilink") / 奥野涼（[KIDS](https://ja.wikipedia.org/wiki/KIDS_\(バンド\) "wikilink")）/ 中村維俊（[THE YOUTH](https://ja.wikipedia.org/wiki/THE_YOUTH "wikilink")）/ [斎藤ネコ](../Page/斎藤ネコ.md "wikilink")
-  - 2013年02月07日-21日（8公演） - 小田和奏×岩崎慧（[セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink")）「慧と和奏の酔いどれ唄紀行」
+        w/キクチユウスケ（[plane](https://ja.wikipedia.org/wiki/plane "wikilink")）/ 金廣真悟（[グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")）/ せきしん（[SOUTH BLOW](../Page/SOUTH_BLOW.md "wikilink")）/ 有吉裕樹（[Nobel](https://ja.wikipedia.org/wiki/Nobel "wikilink")）/ 松本俊（[AJISAI](../Page/AJISAI.md "wikilink")）/ 宮崎アツシ（[ゆらん](https://ja.wikipedia.org/wiki/ゆらん "wikilink")）/ 中村翔太（[PINCH COX](https://ja.wikipedia.org/wiki/PINCH_COX "wikilink")）/ モリシー（covo, [TSUNAGI](https://ja.wikipedia.org/wiki/TSUNAGI "wikilink")）/ 佐々木健太郎（[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")）/ 高橋俊介（[ミゾオチ](https://ja.wikipedia.org/wiki/ミゾオチ "wikilink")）/ [万貴音](https://ja.wikipedia.org/wiki/万貴音 "wikilink") / 奥野涼（[KIDS](https://ja.wikipedia.org/wiki/KIDS_\(バンド\) "wikilink")）/ 中村維俊（[THE YOUTH](../Page/THE_YOUTH.md "wikilink")）/ [斎藤ネコ](../Page/斎藤ネコ.md "wikilink")
+  - 2013年02月07日-21日（8公演） - 小田和奏×岩崎慧（[セカイイチ](../Page/セカイイチ.md "wikilink")）「慧と和奏の酔いどれ唄紀行」
   - 2013年05月24日-07月06日（12公演） - No Regret Life LAST TOUR 2013 "Memory & Record"
       -
-        w/[アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")/[グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")/[明日、照らす](https://ja.wikipedia.org/wiki/明日、照らす "wikilink")/[soulkids](https://ja.wikipedia.org/wiki/soulkids "wikilink")/[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE_\(バンド\) "wikilink")/[ゴーストノート](https://ja.wikipedia.org/wiki/ゴーストノート "wikilink")/[AJISAI](https://ja.wikipedia.org/wiki/AJISAI "wikilink")/[GLARE SOUNDS PROJECTION](https://ja.wikipedia.org/wiki/GLARE_SOUNDS_PROJECTION "wikilink")/[ポラリスカブ](https://ja.wikipedia.org/wiki/ポラリスカブ "wikilink")/[ircle](https://ja.wikipedia.org/wiki/ircle "wikilink")/[オノマトペ](https://ja.wikipedia.org/wiki/オノマトペ "wikilink")/[ALFRED](https://ja.wikipedia.org/wiki/ALFRED "wikilink")/[satellite blue metro](https://ja.wikipedia.org/wiki/satellite_blue_metro "wikilink")/[セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink")/[Jake Stone Garage](https://ja.wikipedia.org/wiki/Jake_Stone_Garage "wikilink")
+        w/[アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")/[グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")/[明日、照らす](https://ja.wikipedia.org/wiki/明日、照らす "wikilink")/[soulkids](https://ja.wikipedia.org/wiki/soulkids "wikilink")/[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE_\(バンド\) "wikilink")/[ゴーストノート](https://ja.wikipedia.org/wiki/ゴーストノート "wikilink")/[AJISAI](../Page/AJISAI.md "wikilink")/[GLARE SOUNDS PROJECTION](https://ja.wikipedia.org/wiki/GLARE_SOUNDS_PROJECTION "wikilink")/[ポラリスカブ](https://ja.wikipedia.org/wiki/ポラリスカブ "wikilink")/[ircle](https://ja.wikipedia.org/wiki/ircle "wikilink")/[オノマトペ](https://ja.wikipedia.org/wiki/オノマトペ "wikilink")/[ALFRED](https://ja.wikipedia.org/wiki/ALFRED "wikilink")/[satellite blue metro](https://ja.wikipedia.org/wiki/satellite_blue_metro "wikilink")/[セカイイチ](../Page/セカイイチ.md "wikilink")/[Jake Stone Garage](https://ja.wikipedia.org/wiki/Jake_Stone_Garage "wikilink")
 
 ### 出演イベント
 

@@ -7,13 +7,13 @@
 
 ## 概要
 
-[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")1,800ccガソリンエンジンで、[4A-GEおよび](../Page/トヨタ・4A-GE.md "wikilink")[3S-GE型エンジンの後継となるスポーツエンジン](https://ja.wikipedia.org/wiki/トヨタ・3S-GE "wikilink")（スポーツツインカム）である。同社製の量産型スポーツエンジンとしては初のオールアルミエンジンであった。トヨタ製の[1ZZ-FE型エンジンをベースに](https://ja.wikipedia.org/wiki/トヨタ・1ZZ-FE "wikilink")、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が開発と生産を行った。
+[直列4気筒](../Page/直列4気筒.md "wikilink")1,800ccガソリンエンジンで、[4A-GEおよび](../Page/トヨタ・4A-GE.md "wikilink")[3S-GE型エンジンの後継となるスポーツエンジン](../Page/トヨタ・3S-GE.md "wikilink")（スポーツツインカム）である。同社製の量産型スポーツエンジンとしては初のオールアルミエンジンであった。トヨタ製の[1ZZ-FE型エンジンをベースに](../Page/トヨタ・1ZZ-FE.md "wikilink")、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が開発と生産を行った。
 
-連続可変バルブタイミング・バルブリフト機構([VVTL-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink"))を備えていて、6,000rpmでハイカムに切り替わる。8,000rpm強にレブリミッターが設定されているが、メータ上のレッドゾーンは7,800rpmからとなっている。トルク重視のロングストロークであった1ZZ-FEに対し、2ZZ-GEは同じ排気量としながらボア（シリンダ径）が広げられ、許容回転速度は約1,000rpm高く設計された。ボアの拡大には、1ZZ-FEのシリンダーを形成している鋳鉄スリーブを取り除き、ヤマハ独自のメタル蒸着技術を用いてアルミブロックに直接シリンダーを設ける手法がとられた。圧縮比は11.5と、市販の自動車用エンジンとしては比較的高く、ハイオク指定とされ、レギュラーガソリンの使用は厳禁とされた（一般的なハイオク指定エンジンでは何らかの理由でハイオクガソリンが入手できない場合に備えてレギュラーガソリンも使用できる場合が多い）。
+連続可変バルブタイミング・バルブリフト機構([VVTL-i](../Page/VVT-i.md "wikilink"))を備えていて、6,000rpmでハイカムに切り替わる。8,000rpm強にレブリミッターが設定されているが、メータ上のレッドゾーンは7,800rpmからとなっている。トルク重視のロングストロークであった1ZZ-FEに対し、2ZZ-GEは同じ排気量としながらボア（シリンダ径）が広げられ、許容回転速度は約1,000rpm高く設計された。ボアの拡大には、1ZZ-FEのシリンダーを形成している鋳鉄スリーブを取り除き、ヤマハ独自のメタル蒸着技術を用いてアルミブロックに直接シリンダーを設ける手法がとられた。圧縮比は11.5と、市販の自動車用エンジンとしては比較的高く、ハイオク指定とされ、レギュラーガソリンの使用は厳禁とされた（一般的なハイオク指定エンジンでは何らかの理由でハイオクガソリンが入手できない場合に備えてレギュラーガソリンも使用できる場合が多い）。
 
-[1999年](../Page/1999年.md "wikilink")に登場した7代目[セリカに初めて搭載された](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")。その後、[カローラフィールダー](https://ja.wikipedia.org/wiki/トヨタ・カローラフィールダー "wikilink")、[カローラランクス（アレックス）](https://ja.wikipedia.org/wiki/トヨタ・カローラランクス "wikilink")、[WiLL VS](https://ja.wikipedia.org/wiki/トヨタ・WiLL_VS "wikilink")、[ヴォルツ（ポンティアック・ヴァイヴ）](https://ja.wikipedia.org/wiki/トヨタ・ヴォルツ "wikilink")、[マトリックス](../Page/トヨタ・マトリックス.md "wikilink")（北米専売）、[ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")、[カローラセダンXRS](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（北米専売）、[欧州向けカローラハッチバック](https://ja.wikipedia.org/wiki/トヨタ・カローラランクス "wikilink")（ただし3ドアのみ）に搭載され、トヨタの小排気量スポーツエンジンとして現在に至っている。また、イートンのスーパーチャージャーと空冷式インタークーラを装備し、240bhpとした[ロータス・エキシージ](https://ja.wikipedia.org/wiki/ロータス・エキシージ "wikilink")240Rも生産された。いずれの車種においても、6速[MTと組み合わされて搭載されている](../Page/マニュアルトランスミッション.md "wikilink")。
+[1999年](../Page/1999年.md "wikilink")に登場した7代目[セリカに初めて搭載された](../Page/トヨタ・セリカ.md "wikilink")。その後、[カローラフィールダー](../Page/トヨタ・カローラフィールダー.md "wikilink")、[カローラランクス（アレックス）](../Page/トヨタ・カローラランクス.md "wikilink")、[WiLL VS](../Page/トヨタ・WiLL_VS.md "wikilink")、[ヴォルツ（ポンティアック・ヴァイヴ）](../Page/トヨタ・ヴォルツ.md "wikilink")、[マトリックス](../Page/トヨタ・マトリックス.md "wikilink")（北米専売）、[ロータス・エリーゼ](../Page/ロータス・エリーゼ.md "wikilink")、[カローラセダンXRS](../Page/トヨタ・カローラ.md "wikilink")（北米専売）、[欧州向けカローラハッチバック](../Page/トヨタ・カローラランクス.md "wikilink")（ただし3ドアのみ）に搭載され、トヨタの小排気量スポーツエンジンとして現在に至っている。また、イートンのスーパーチャージャーと空冷式インタークーラを装備し、240bhpとした[ロータス・エキシージ](../Page/ロータス・エキシージ.md "wikilink")240Rも生産された。いずれの車種においても、6速[MTと組み合わされて搭載されている](../Page/マニュアルトランスミッション.md "wikilink")。
 
-北米向けとしては[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に、日本国内向けとしては[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に廃止された。その後も欧州では[ロータス向けに供給されていたが](../Page/ロータス・カーズ.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月に最後の1基を搭載したエリーゼRがラインオフし、登場から11年間の歴史に幕を下ろした。
+北米向けとしては[2005年](../Page/2005年.md "wikilink")に、日本国内向けとしては[2006年](../Page/2006年.md "wikilink")に廃止された。その後も欧州では[ロータス向けに供給されていたが](../Page/ロータス・カーズ.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月に最後の1基を搭載したエリーゼRがラインオフし、登場から11年間の歴史に幕を下ろした。
 
 ## バリエーション
 
@@ -55,14 +55,14 @@
 
 ## 搭載車種
 
-  - [セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
-  - [カローラセダンXRS](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（北米専売）
-  - [カローラフィールダー](https://ja.wikipedia.org/wiki/トヨタ・カローラフィールダー "wikilink")
-  - [カローラランクス](https://ja.wikipedia.org/wiki/トヨタ・カローラランクス "wikilink")（アレックス、欧州向けカローラ3ドアHBを含む）
-  - [WiLL VS](https://ja.wikipedia.org/wiki/トヨタ・WiLL_VS "wikilink")
-  - [ヴォルツ（ポンティアック・ヴァイヴ）](https://ja.wikipedia.org/wiki/トヨタ・ヴォルツ "wikilink")
+  - [セリカ](../Page/トヨタ・セリカ.md "wikilink")
+  - [カローラセダンXRS](../Page/トヨタ・カローラ.md "wikilink")（北米専売）
+  - [カローラフィールダー](../Page/トヨタ・カローラフィールダー.md "wikilink")
+  - [カローラランクス](../Page/トヨタ・カローラランクス.md "wikilink")（アレックス、欧州向けカローラ3ドアHBを含む）
+  - [WiLL VS](../Page/トヨタ・WiLL_VS.md "wikilink")
+  - [ヴォルツ（ポンティアック・ヴァイヴ）](../Page/トヨタ・ヴォルツ.md "wikilink")
   - [マトリックス](../Page/トヨタ・マトリックス.md "wikilink")（北米専売）
-  - [ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")、[エクシージ](https://ja.wikipedia.org/wiki/ロータス・エキシージ "wikilink")、[2-Elevenなど](https://ja.wikipedia.org/wiki/ロータス・エリーゼ#2-Eleven "wikilink")
+  - [ロータス・エリーゼ](../Page/ロータス・エリーゼ.md "wikilink")、[エクシージ](../Page/ロータス・エキシージ.md "wikilink")、[2-Elevenなど](https://ja.wikipedia.org/wiki/ロータス・エリーゼ#2-Eleven "wikilink")
 
 ## 脚注
 
@@ -70,10 +70,10 @@
 
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
   - [トヨタ・ZZエンジン](../Page/トヨタ・ZZエンジン.md "wikilink")
-  - [トヨタ・1ZZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1ZZ-FE "wikilink")
+  - [トヨタ・1ZZ-FE](../Page/トヨタ・1ZZ-FE.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
   - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")
 

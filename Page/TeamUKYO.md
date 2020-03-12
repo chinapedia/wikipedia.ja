@@ -9,9 +9,9 @@
 
 ## レーシングチーム
 
-[2001年](../Page/2001年.md "wikilink")に[セルモ](https://ja.wikipedia.org/wiki/セルモ "wikilink")にメンテナンスを委託して[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")に[トヨタ・スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")で参戦。ドライバーは片山右京と[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")。右京が不在のときは[脇阪薫一](https://ja.wikipedia.org/wiki/脇阪薫一 "wikilink")がステアリングを握った。しかし、マシンが旧式（2000年型）のせいか不調でタイムも出ず、2ポイント（近藤と脇阪のみ）の獲得に終わった。だが、第5戦では[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")を獲得した。
+[2001年](../Page/2001年.md "wikilink")に[セルモ](../Page/セルモ.md "wikilink")にメンテナンスを委託して[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")に[トヨタ・スープラ](../Page/トヨタ・スープラ.md "wikilink")で参戦。ドライバーは片山右京と[近藤真彦](../Page/近藤真彦.md "wikilink")。右京が不在のときは[脇阪薫一](../Page/脇阪薫一.md "wikilink")がステアリングを握った。しかし、マシンが旧式（2000年型）のせいか不調でタイムも出ず、2ポイント（近藤と脇阪のみ）の獲得に終わった。だが、第5戦では[ポールポジション](../Page/ポールポジション.md "wikilink")を獲得した。
 
-[2002年](../Page/2002年.md "wikilink")は前年とほぼ同様の体制で参戦。ドライバーも[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")のまま。しかし、右京が[エベレスト](../Page/エベレスト.md "wikilink")への登頂に挑戦するため、第4戦からは若手の[下田隼成](https://ja.wikipedia.org/wiki/下田隼成 "wikilink")を起用した。
+[2002年](../Page/2002年.md "wikilink")は前年とほぼ同様の体制で参戦。ドライバーも[近藤真彦](../Page/近藤真彦.md "wikilink")のまま。しかし、右京が[エベレスト](../Page/エベレスト.md "wikilink")への登頂に挑戦するため、第4戦からは若手の[下田隼成](../Page/下田隼成.md "wikilink")を起用した。
 
 [2003年](../Page/2003年.md "wikilink")はレース活動を行わなかった。
 
@@ -25,7 +25,7 @@
 
 ## 自転車チーム
 
-右京は2010年より[宇都宮ブリッツェン](https://ja.wikipedia.org/wiki/宇都宮ブリッツェン "wikilink")の選手兼アドバイザーとして自転車ロードレースでの活動を行ってきたが、2012年からはこれを拡大する形で新たにサイクルロードレースチームを設立し、[国際自転車競技連合](https://ja.wikipedia.org/wiki/国際自転車競技連合 "wikilink")（UCI）の[コンチネンタルチーム](https://ja.wikipedia.org/wiki/コンチネンタルチーム "wikilink")として活動することになった。UCIコードは「UKO」。 2016年までは主にJプロツアーの国内を主戦場に2013-2015までホセ・ビセンテや畑中勇介を擁し個人総合優勝し、団体総合でも2013、2015、2016と３度の優勝を果たしたチーム右京だが、2017年からはアジアUCIレースやヨーロッパ遠征など海外をメインの主戦場にする。
+右京は2010年より[宇都宮ブリッツェン](https://ja.wikipedia.org/wiki/宇都宮ブリッツェン "wikilink")の選手兼アドバイザーとして自転車ロードレースでの活動を行ってきたが、2012年からはこれを拡大する形で新たにサイクルロードレースチームを設立し、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink")（UCI）の[コンチネンタルチーム](https://ja.wikipedia.org/wiki/コンチネンタルチーム "wikilink")として活動することになった。UCIコードは「UKO」。 2016年までは主にJプロツアーの国内を主戦場に2013-2015までホセ・ビセンテや畑中勇介を擁し個人総合優勝し、団体総合でも2013、2015、2016と３度の優勝を果たしたチーム右京だが、2017年からはアジアUCIレースやヨーロッパ遠征など海外をメインの主戦場にする。
 2017年、選手権ロードーレースにて[畑中勇介](https://ja.wikipedia.org/wiki/畑中勇介 "wikilink")が優勝。
 
 ### 自転車競技チーム陣容

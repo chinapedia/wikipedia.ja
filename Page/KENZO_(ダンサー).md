@@ -1,17 +1,17 @@
 > この記事は[KENZO \(\)](https://ja.wikipedia.org/wiki/KENZO_\(\))から翻訳されています。
 
 
-**KENZO**（ケンゾー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[コレオグラファーで](https://ja.wikipedia.org/wiki/振付師 "wikilink")、[DA PUMPの](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")。本名、中村 朋揮（なかむら ともき）。
+**KENZO**（ケンゾー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[コレオグラファーで](../Page/振付師.md "wikilink")、[DA PUMPの](../Page/DA_PUMP.md "wikilink")[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")。本名、中村 朋揮（なかむら ともき）。
 
-[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[宮若市](https://ja.wikipedia.org/wiki/宮若市 "wikilink")（旧[宮田町](https://ja.wikipedia.org/wiki/宮田町_\(福岡県\) "wikilink")）出身。所属[事務所は](../Page/芸能事務所.md "wikilink")[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")。所属レコード会社は[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[レーベルは](../Page/レコードレーベル.md "wikilink")[SONIC GROOVE](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")）。[東海大学](../Page/東海大学.md "wikilink")卒業。
+[福岡県](../Page/福岡県.md "wikilink")[宮若市](../Page/宮若市.md "wikilink")（旧[宮田町](../Page/宮田町_\(福岡県\).md "wikilink")）出身。所属[事務所は](../Page/芸能事務所.md "wikilink")[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")。所属レコード会社は[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[レーベルは](../Page/レコードレーベル.md "wikilink")[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")）。[東海大学](../Page/東海大学.md "wikilink")卒業。
 
 ## 経歴
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、宮田町立笠松小学校卒業。
   - [2000年](../Page/2000年.md "wikilink")、宮田町立宮田西中学校卒業。
   - [2003年](../Page/2003年.md "wikilink")、[東海大学付属第五高等学校卒業](../Page/東海大学付属福岡高等学校.md "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、ストリートダンスチームSHUFFLE\!\!結成\[1\]。
-  - 2008年、[東海大学](../Page/東海大学.md "wikilink")[理学部](../Page/理学部.md "wikilink")[数学科](https://ja.wikipedia.org/wiki/数学科 "wikilink")卒業。
+  - [2005年](../Page/2005年.md "wikilink")、ストリートダンスチームSHUFFLE\!\!結成\[1\]。
+  - 2008年、[東海大学](../Page/東海大学.md "wikilink")[理学部](../Page/理学部.md "wikilink")[数学科](../Page/数学科.md "wikilink")卒業。
   - 2008年[12月18日](../Page/12月18日.md "wikilink")、DA PUMP新メンバーとして加入\[2\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")・[2011年](../Page/2011年.md "wikilink")と2年連続『EURO BATTLE WORLD FINAL』で優勝し、アジア人としては初優勝者となった\[3\]\[4\]\[5\]。
   - [2011年](../Page/2011年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[デュッセルドルフ](https://ja.wikipedia.org/wiki/デュッセルドルフ "wikilink")で開かれた世界一の決定戦FUNKIN STYLE WORLD TEAM BATTLE 2011に日本代表チームの一員として参加し、全対戦でジャッジ6人の満票を得て優勝した。個人の世界大会では4冠しているが、団体戦での世界一はこれが初めてである。
@@ -25,11 +25,11 @@
 ## 人物
 
   - 背筋250kg、100m11秒7。
-  - KENZOの由来は、眼鏡のブランド名[KENZOからである](https://ja.wikipedia.org/wiki/ケンゾー "wikilink")。
+  - KENZOの由来は、眼鏡のブランド名[KENZOからである](../Page/ケンゾー.md "wikilink")。
   - 愛称は KENZOの他、「ケンちゃん」や「ケンゾーくん」、本名の「朋揮（ともき）くん」など。
   - 友人の[FISHBOY](https://ja.wikipedia.org/wiki/FISHBOY "wikilink")が所属する[RADIO FISHの](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")「[PERFECT HUMAN](https://ja.wikipedia.org/wiki/PERFECT_HUMAN "wikilink")」のミュージックビデオに友情出演した。
   - RISING Dance Schoolの総合監修を務め、講師としても活動中（初心者向けレッスン、LOCKIN'クラス）\[9\]。
-  - [ヒューマンビートボックス](https://ja.wikipedia.org/wiki/ヒューマンビートボックス "wikilink")をDA PUMPのライブで披露することがある。
+  - [ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")をDA PUMPのライブで披露することがある。
   - DA PUMPの歴代メンバーでは唯一、テレビでもLiveでも単独での歌唱あるいはラップをしていない。（複数だと2009年のThunder partyで他メンバーと共に披露している）\[10\]。
   - メンバーの中では、2番目に若いため、最年少の[DAICHI](https://ja.wikipedia.org/wiki/DAICHI "wikilink")とともに年下BOYSと呼ばれ、ファンに愛されている。
   - 担当カラーはベージュ、チェック柄。衣装では白の場合もある。
@@ -49,7 +49,7 @@
 
 ### テレビ番組
 
-  - [少年チャンプル](https://ja.wikipedia.org/wiki/少年チャンプル "wikilink")（2004年 - 2005年、[中京テレビ](../Page/中京テレビ放送.md "wikilink")） - 準レギュラー
+  - [少年チャンプル](../Page/少年チャンプル.md "wikilink")（2004年 - 2005年、[中京テレビ](../Page/中京テレビ放送.md "wikilink")） - 準レギュラー
   - [スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")（2007年 - 2009年、中京テレビ） - 準レギュラー
   - [原宿キラキラ学院](https://ja.wikipedia.org/wiki/原宿キラキラ学院 "wikilink")（2012年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 準レギュラー
   - [スター☆ドラフト会議](https://ja.wikipedia.org/wiki/スター☆ドラフト会議 "wikilink")（2012年 - 2013年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - レギュラー審査員
@@ -70,9 +70,9 @@
 
   - JADE Spring / Summer 〜My time, My kicks〜（2015年）
   - JADE Autumn / Winter 〜SUPER CAUTION〜（2015年）
-  - [GUINNESS BEER](https://ja.wikipedia.org/wiki/ギネス "wikilink")（2016年） - [1MILLION DANCE STUDIOとのコラボレーション](https://ja.wikipedia.org/wiki/1MILLION_DANCE_STUDIO "wikilink")
+  - [GUINNESS BEER](../Page/ギネス.md "wikilink")（2016年） - [1MILLION DANCE STUDIOとのコラボレーション](https://ja.wikipedia.org/wiki/1MILLION_DANCE_STUDIO "wikilink")
   - LINE MUSIC（2018年）
-  - [リクルート](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")・[スーモ](https://ja.wikipedia.org/wiki/スーモ "wikilink") 「スーモとDAPUMP」篇（2018年）
+  - [リクルート](../Page/リクルートホールディングス.md "wikilink")・[スーモ](https://ja.wikipedia.org/wiki/スーモ "wikilink") 「スーモとDAPUMP」篇（2018年）
   - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")「Google Pixel（訂正する少女）」篇（2018年）
   - 北九州市長選挙 啓発CM（2019年）
   - リクルート・スーモ 「スーモとDA PUMP 歌番組」篇、「スーモとDA PUMP ニッポンの住まい探し篇」（2019年）
@@ -91,11 +91,11 @@
   - VISION DANCE FESTA「UNITED vol.4」（2011年）
   - VISION DANCE FESTA「UNITED vol.5」（2011年）
   - VISION DANCE FESTA「UNITED vol.6」（2012年）
-  - 舞台「The Shot」（2013年） - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の[千葉涼平](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")とW主演
+  - 舞台「The Shot」（2013年） - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の[千葉涼平](../Page/千葉涼平.md "wikilink")とW主演
   - 舞台「The Shot II」（2014年） - w-inds.の千葉涼平とW主演
   - ホノルルフェスティバル @ USA HAWAII（2014年）
   - [文科省巡回公演](../Page/文部科学省.md "wikilink")（2015年・2016年）
-  - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink") 結成25周年記念 初舞台「DANCE REPUBLIC 〜The devotion〜」（2017年）
+  - [TRF](../Page/TRF.md "wikilink") 結成25周年記念 初舞台「DANCE REPUBLIC 〜The devotion〜」（2017年）
 
 ### DVD
 
@@ -119,7 +119,7 @@
 
 <!-- end list -->
 
-  - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")
+  - [TRF](../Page/TRF.md "wikilink")
       - [PUSH YOUR BACK](https://ja.wikipedia.org/wiki/WATCH_THE_MUSIC "wikilink")（2013年）
 
 <!-- end list -->
@@ -181,7 +181,7 @@
 
 <!-- end list -->
 
-  - [荻野目洋子](https://ja.wikipedia.org/wiki/荻野目洋子 "wikilink")
+  - [荻野目洋子](../Page/荻野目洋子.md "wikilink")
       - [ダンシング・ヒーロー (Eat You Up)](../Page/ダンシング・ヒーロー_\(Eat_You_Up\).md "wikilink")（2014年）
 
 <!-- end list -->
@@ -196,7 +196,7 @@
 
 <!-- end list -->
 
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
       - [SUMMER RIDER](https://ja.wikipedia.org/wiki/SUMMER_RIDER "wikilink")（2009年）
       - [Thunder Party \#09](https://ja.wikipedia.org/wiki/SUMMER_RIDER "wikilink")（2009年）
       - [Around The World](https://ja.wikipedia.org/wiki/Around_The_World_\(DA_PUMPの曲\) "wikilink")（2009年）
@@ -295,7 +295,7 @@
 
 <!-- end list -->
 
-  - [ロードオブメジャー](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")
+  - [ロードオブメジャー](../Page/ロードオブメジャー.md "wikilink")
       - [さらば碧き面影](../Page/さらば碧き面影.md "wikilink")（2006年）
 
 <!-- end list -->
@@ -315,7 +315,7 @@
 
 ### ライブ
 
-  - [五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")
+  - [五木ひろし](../Page/五木ひろし.md "wikilink")
       - VIVA・LA・VIDA\!〜生きてるっていいね\!〜（2018年12月31日、[第69回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")） - DA PUMP TOMOと共同振付
 
 <!-- end list -->
@@ -357,14 +357,14 @@
 
 <!-- end list -->
 
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
       - [世界ダウン症の日](https://ja.wikipedia.org/wiki/世界ダウン症の日 "wikilink")2009〜ONE+LOVE WORLD @ 東京・沖縄（2009年3月22日・29日）
       - BMO MUSIC FEST 09 @ Zepp TOKYO（2009年6月18日）
       - [a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") @ [味の素スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")（2009年8月22日・23日）
-      - WOW LIVE\! THANKS FOR MUSIC @ [代々木第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")（2009年10月10日）
+      - WOW LIVE\! THANKS FOR MUSIC @ [代々木第一体育館](../Page/国立代々木競技場.md "wikilink")（2009年10月10日）
       - DA PUMP LIVE 2009 “Thunder Party \#09”（2009年9月12日・13日・19日）
       - DA PUMP LIVE 2010 FIRST STORM（2010年1月16日）
-      - [東京ガールズコレクション](https://ja.wikipedia.org/wiki/東京ガールズコレクション "wikilink") in 沖縄（2010年4月14日）
+      - [東京ガールズコレクション](../Page/東京ガールズコレクション.md "wikilink") in 沖縄（2010年4月14日）
       - DA PUMP LIVE 2010 AM/PM 〜second storm〜（2010年5月29日）
       - DA PUMP LIVE 2011 DPMF（2011年12月17日）
       - THA DREAM FES. 2012 vol.1（2012年4月8日）
@@ -373,7 +373,7 @@
       - キッズ&ティーンズダンスエキスポ 2012 in 心斎橋（2012年8月14日） - YORI・KENZO・TOMO
       - DA PUMP EVOLUTION LIVE TOUR（2014年2月2日 - 6月29日）
       - フィリピン台風被災児童支援イベント（2014年2月23日）
-      - [神戸コレクション](https://ja.wikipedia.org/wiki/神戸コレクション "wikilink") 2014 SPRING/SUMMER（2014年3月2日）
+      - [神戸コレクション](../Page/神戸コレクション.md "wikilink") 2014 SPRING/SUMMER（2014年3月2日）
       - ASIA国際交流型音楽イベント “TORNADO” in NISEKO（2014年3月29日・30日）
       - a-nation Asia Progress 〜Departure〜 @ 代々木第一体育館（2014年8月17日）
       - Fab Fes vol.0（2014年9月25日）
@@ -412,11 +412,11 @@
 <!-- end list -->
 
   - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")
-      - 1stシングル「[VS](https://ja.wikipedia.org/wiki/VS_\(misonoの曲\) "wikilink")」リリースライブ ダンスコーナー（2007年）
+      - 1stシングル「[VS](../Page/VS_\(misonoの曲\).md "wikilink")」リリースライブ ダンスコーナー（2007年）
 
 <!-- end list -->
 
-  - [COOLON](https://ja.wikipedia.org/wiki/COOLON "wikilink")
+  - [COOLON](../Page/COOLON.md "wikilink")
       - リリースライブ（2007年）
 
 <!-- end list -->
@@ -442,17 +442,17 @@
   - 舞台「The Shot」（2013年）
   - 舞台「The Shot II」（2014年）
   - [文科省巡回公演](../Page/文部科学省.md "wikilink")（2015年・2016年）
-  - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink") 結成25周年記念 初舞台「DANCE REPUBLIC 〜The devotion〜」（2017年）
+  - [TRF](../Page/TRF.md "wikilink") 結成25周年記念 初舞台「DANCE REPUBLIC 〜The devotion〜」（2017年）
 
 ### CM
 
-  - [アシックス](https://ja.wikipedia.org/wiki/アシックス "wikilink")「TIGON〜Laser Beam〜」（2011年）
+  - [アシックス](../Page/アシックス.md "wikilink")「TIGON〜Laser Beam〜」（2011年）
   - [テレビ朝日系](../Page/オールニッポン・ニュースネットワーク.md "wikilink")「プロマーシャル」（2011年）
   - JADE Spring / Summer 〜My time, My kicks～（2015年）
   - JADE Autumn / Winter 〜SUPER CAUTION〜（2015年）
   - [日本生命](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")（2015年）
-  - [GUINNESS BEER](https://ja.wikipedia.org/wiki/ギネス "wikilink")（2016年）
-  - [リクルート](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")・[スーモ](https://ja.wikipedia.org/wiki/スーモ "wikilink")（2018年）
+  - [GUINNESS BEER](../Page/ギネス.md "wikilink")（2016年）
+  - [リクルート](../Page/リクルートホールディングス.md "wikilink")・[スーモ](https://ja.wikipedia.org/wiki/スーモ "wikilink")（2018年）
   - 北九州市長選挙 啓発CM（2019年）
   - RECRUIT SUUMO 「スーモとDA PUMP 歌番組」篇（2019年）
   - ABC MART 「GW-SALE」篇（2019年）
@@ -468,10 +468,10 @@
   - [キャンパスナイトフジ](https://ja.wikipedia.org/wiki/キャンパスナイトフジ "wikilink")（2010年、フジテレビ） - オープニングダンス
   - [1番ソングSHOW](https://ja.wikipedia.org/wiki/1番ソングSHOW "wikilink")（2011年、日本テレビ） - ダンスナンバー
   - [ミタパンブー](https://ja.wikipedia.org/wiki/ミタパンブー "wikilink")（2011年、フジテレビ） - オープニングダンス
-  - [大晦日はマル・マル・モリ・モリ\! 爆笑そっくりものまね紅白歌合戦 祭りだ祭りだスペシャル](https://ja.wikipedia.org/wiki/大晦日はマル・マル・モリ・モリ!_爆笑そっくりものまね紅白歌合戦_祭りだ祭りだスペシャル "wikilink")（2011年12月31日、フジテレビ） - [オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink") & [FISHBOY](https://ja.wikipedia.org/wiki/FISHBOY "wikilink") 兄弟共演ダンス
+  - [大晦日はマル・マル・モリ・モリ\! 爆笑そっくりものまね紅白歌合戦 祭りだ祭りだスペシャル](https://ja.wikipedia.org/wiki/大晦日はマル・マル・モリ・モリ!_爆笑そっくりものまね紅白歌合戦_祭りだ祭りだスペシャル "wikilink")（2011年12月31日、フジテレビ） - [オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink") & [FISHBOY](https://ja.wikipedia.org/wiki/FISHBOY "wikilink") 兄弟共演ダンス
   - [原宿キラキラ学院](https://ja.wikipedia.org/wiki/原宿キラキラ学院 "wikilink")（2012年、テレビ東京） - 総合ダンス監修
   - ハートにグッとくる\!キッズダンス祭（2012年、フジテレビ） - ダンスコーナー
-  - マル☆カツ定食「[ハイスクール・ミュージカル](../Page/ハイスクール・ミュージカル.md "wikilink")SP」（2016年、[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")）
+  - マル☆カツ定食「[ハイスクール・ミュージカル](../Page/ハイスクール・ミュージカル.md "wikilink")SP」（2016年、[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")）
 
 ### ウェブサイト
 
@@ -582,4 +582,4 @@
 10.
 11.
 12.
-13. DA PUMP [KIMI](https://ja.wikipedia.org/wiki/KIMI "wikilink")と[KAZUMAのユニット](https://ja.wikipedia.org/wiki/山根和馬 "wikilink")。
+13. DA PUMP [KIMI](https://ja.wikipedia.org/wiki/KIMI "wikilink")と[KAZUMAのユニット](../Page/山根和馬.md "wikilink")。

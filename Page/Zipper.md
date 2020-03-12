@@ -1,7 +1,7 @@
 > この記事は[Zipper](https://ja.wikipedia.org/wiki/Zipper)から翻訳されています。
 
 
-『**Zipper**』（ジッパー）は、1993年に[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")が創刊した10代後半向けの女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")\[1\]。
+『**Zipper**』（ジッパー）は、1993年に[祥伝社](../Page/祥伝社.md "wikilink")が創刊した10代後半向けの女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")\[1\]。
 
 ## 概要
 
@@ -37,7 +37,7 @@
 
 ### 読者モデル
 
-Zipperでは[読者モデル](https://ja.wikipedia.org/wiki/読者モデル "wikilink")のことを「パチパチズ」と呼んでいる\[16\]。「パチパチ」は拍手の音に由来する。
+Zipperでは[読者モデル](../Page/読者モデル.md "wikilink")のことを「パチパチズ」と呼んでいる\[16\]。「パチパチ」は拍手の音に由来する。
 
   - [AMO](https://ja.wikipedia.org/wiki/AMO_\(モデル\) "wikilink")\[17\]
   - [山岡あやも](https://ja.wikipedia.org/wiki/AYAMO "wikilink")\[18\]
@@ -47,9 +47,9 @@ Zipperでは[読者モデル](https://ja.wikipedia.org/wiki/読者モデル "wik
 
 ## 連載
 
-1999年5月号から2003年5月号まで、[矢沢あい](../Page/矢沢あい.md "wikilink")の漫画『[Paradise Kiss](https://ja.wikipedia.org/wiki/Paradise_Kiss "wikilink")』が連載されていた。この漫画の掲載以前には、矢沢あいの漫画『[ご近所物語](https://ja.wikipedia.org/wiki/ご近所物語 "wikilink")』の登場人物が、流行の洋服の作り方を紹介する連載もあった。
+1999年5月号から2003年5月号まで、[矢沢あい](../Page/矢沢あい.md "wikilink")の漫画『[Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")』が連載されていた。この漫画の掲載以前には、矢沢あいの漫画『[ご近所物語](../Page/ご近所物語.md "wikilink")』の登場人物が、流行の洋服の作り方を紹介する連載もあった。
 
-  - [ジョージ朝倉](https://ja.wikipedia.org/wiki/ジョージ朝倉 "wikilink")「テケテケ★ランデブー」\[21\]
+  - [ジョージ朝倉](../Page/ジョージ朝倉.md "wikilink")「テケテケ★ランデブー」\[21\]
   - [おおたうに](https://ja.wikipedia.org/wiki/おおたうに "wikilink")「チェリーコーク」\[22\]
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")「お気に召すmama」\[23\]
   - [チャットモンチー](../Page/チャットモンチー.md "wikilink")「チャットモンチーの“作文（ちゃくぶん）”」
@@ -60,7 +60,7 @@ Zipperでは[読者モデル](https://ja.wikipedia.org/wiki/読者モデル "wik
   - [高城れに](https://ja.wikipedia.org/wiki/高城れに "wikilink")「風雲\! たかぎ城」（2012年 - 2013年）\[28\]
   - [喜矢武豊](https://ja.wikipedia.org/wiki/喜矢武豊 "wikilink")「カレCan」（2012年 - ）\[29\]
   - [でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")「Depper でんぱのヲススメ」（2013年8月 - ）
-  - [タカノ綾](https://ja.wikipedia.org/wiki/タカノ綾 "wikilink")「愛ごよみ」\[30\]
+  - [タカノ綾](../Page/タカノ綾.md "wikilink")「愛ごよみ」\[30\]
   - [仲里依紗](https://ja.wikipedia.org/wiki/仲里依紗 "wikilink")「仲さんのキテレツA to Z」\[31\]
   - 仲里依紗「RISAのファッションアンテナ」（2013年 - ）\[32\]
   - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")「Kiko Gourmet -キコグルメ-」（2013年 - ）\[33\]
@@ -88,7 +88,7 @@ Zipperでは[読者モデル](https://ja.wikipedia.org/wiki/読者モデル "wik
 ## 関連項目
 
   - [Zipper comic](https://ja.wikipedia.org/wiki/Zipper_comic "wikilink")
-  - [KERA](https://ja.wikipedia.org/wiki/KERA "wikilink")
+  - [KERA](../Page/KERA.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[CHOKO!!](https://ja.wikipedia.org/wiki/CHOKO!!)から翻訳されています。
 
 
-『**CHŌKOビースト\!\!**』（ちょーこ ビースト）は、[浅野りん](../Page/浅野りん.md "wikilink")による[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")作品。[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")社（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")社）刊行の少年漫画誌『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』に[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")まで連載されていた。単行本は全4巻。[2003年](../Page/2003年.md "wikilink")新装版として[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")社から全4巻で発売された。
+『**CHŌKOビースト\!\!**』（ちょーこ ビースト）は、[浅野りん](../Page/浅野りん.md "wikilink")による[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")作品。[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")社（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")社）刊行の少年漫画誌『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』に[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")まで連載されていた。単行本は全4巻。[2003年](../Page/2003年.md "wikilink")新装版として[マッグガーデン](../Page/マッグガーデン.md "wikilink")社から全4巻で発売された。
 
 連載開始をまたいで『増刊フレッシュガンガン』に主人公の蝶子以外の登場人物が異なる同題名の短編が掲載されていた。それは『ビースト&ビースト 浅野りん短編集』に収録されている。また、連載終了後に発行された『平成バンパイアの逆襲 浅野りん作品集』に書き下ろしとして特別編が掲載されている。
 

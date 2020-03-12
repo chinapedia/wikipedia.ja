@@ -1,13 +1,13 @@
 > この記事は[TOKYONIIGATA MUSIC CONVOY](https://ja.wikipedia.org/wiki/TOKYONIIGATA_MUSIC_CONVOY)から翻訳されています。
 
 
-**TOKYO→NIIGATA MUSIC CONVOY**（とうきょうにいがたミュージックコンボイ）は、[FM PORTで](../Page/新潟県民エフエム放送.md "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは曜日別](../Page/ラジオパーソナリティ.md "wikilink")。
+**TOKYO→NIIGATA MUSIC CONVOY**（とうきょうにいがたミュージックコンボイ）は、[FM PORTで](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは曜日別](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 概要
 
-曜日別パーソナリティが、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からの[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[e-mailを紹介してトークを展開していく](../Page/電子メール.md "wikilink")。
+曜日別パーソナリティが、[リスナー](../Page/リスナー.md "wikilink")からの[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[e-mailを紹介してトークを展開していく](../Page/電子メール.md "wikilink")。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内にあるスタジオから[新潟県](../Page/新潟県.md "wikilink")に向けて放送されていることから番組名は「TOKYO」と「NIIGATA」の両方を称している。
+[東京都](../Page/東京都.md "wikilink")内にあるスタジオから[新潟県](../Page/新潟県.md "wikilink")に向けて放送されていることから番組名は「TOKYO」と「NIIGATA」の両方を称している。
 
 この番組を始めとする東京発（都内にある制作会社のスタジオ。番組内での呼称は「中目黒GOGOスタジオ」。後に「赤坂レクシムスタジオ」）の番組はFM PORTが開局以来貫いてきた原則新潟制作の方針を大きく転換するものであり、その点についてはリスナーの賛否が分かれる。なお、東京都内のスタジオで製作する手法は同じく独立FM局の[NACK5や](../Page/エフエムナックファイブ.md "wikilink")[FM-FUJIでもみられるが](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、FM PORTは首都圏での聴取が基本的にはできない点が前述の2局と大きく異なる。
 
@@ -73,24 +73,24 @@
 
   -
     声優やアニメ・特撮に関わりの深いミュージシャンを起用していた。
-      - [後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")（2005年10月）
-      - [鹿野優以](https://ja.wikipedia.org/wiki/鹿野優以 "wikilink")（2005年11月）
+      - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")（2005年10月）
+      - [鹿野優以](../Page/鹿野優以.md "wikilink")（2005年11月）
       - [前田愛](../Page/前田愛_\(声優\).md "wikilink")（2005年12月）
       - [桃井はるこ](../Page/桃井はるこ.md "wikilink")（2006年1月）
-      - [本名陽子](https://ja.wikipedia.org/wiki/本名陽子 "wikilink")（2006年2月）
-      - [加藤英美里](https://ja.wikipedia.org/wiki/加藤英美里 "wikilink")（2006年3月）
+      - [本名陽子](../Page/本名陽子.md "wikilink")（2006年2月）
+      - [加藤英美里](../Page/加藤英美里.md "wikilink")（2006年3月）
       - [成田紗矢香](../Page/成田紗矢香.md "wikilink")（2006年4月）
-      - [根本圭子](https://ja.wikipedia.org/wiki/根本圭子 "wikilink")（2006年5月）
+      - [根本圭子](../Page/根本圭子.md "wikilink")（2006年5月）
       - [柿原徹也](https://ja.wikipedia.org/wiki/柿原徹也 "wikilink")（2006年6月）
-      - [又吉愛](https://ja.wikipedia.org/wiki/又吉愛 "wikilink")（2006年7月）
+      - [又吉愛](../Page/又吉愛.md "wikilink")（2006年7月）
       - [松本彩乃](https://ja.wikipedia.org/wiki/松本彩乃 "wikilink")（2006年8月）
       - [吉田智則](https://ja.wikipedia.org/wiki/吉田智則_\(声優\) "wikilink")（2006年9月）
-      - [関山美沙紀](https://ja.wikipedia.org/wiki/関山美沙紀 "wikilink")（2006年10月）
-      - [吉川友佳子](https://ja.wikipedia.org/wiki/塩野アンリ "wikilink")（2006年11月）
-      - [園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")（2006年12月）
-      - [サイキックラバー](https://ja.wikipedia.org/wiki/サイキックラバー "wikilink")（2007年1月）
-      - [三宅華也](https://ja.wikipedia.org/wiki/三宅華也 "wikilink")（2007年2月）
-      - 赤松芳朋（[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")）、[菊池志穂](https://ja.wikipedia.org/wiki/菊池志穂 "wikilink")（2007年3月）
+      - [関山美沙紀](../Page/関山美沙紀.md "wikilink")（2006年10月）
+      - [吉川友佳子](../Page/塩野アンリ.md "wikilink")（2006年11月）
+      - [園崎未恵](../Page/園崎未恵.md "wikilink")（2006年12月）
+      - [サイキックラバー](../Page/サイキックラバー.md "wikilink")（2007年1月）
+      - [三宅華也](../Page/三宅華也.md "wikilink")（2007年2月）
+      - 赤松芳朋（[SOPHIA](../Page/SOPHIA.md "wikilink")）、[菊池志穂](../Page/菊池志穂.md "wikilink")（2007年3月）
 
 <!-- end list -->
 
@@ -105,8 +105,8 @@
 
 ### 水曜
 
-  - [中島卓偉](https://ja.wikipedia.org/wiki/中島卓偉 "wikilink")（2005年10月〜2007年3月）
-  - [YUTAKA](https://ja.wikipedia.org/wiki/YUTAKA "wikilink")（[Full Of Harmony](https://ja.wikipedia.org/wiki/Full_Of_Harmony "wikilink")）（2007年4月〜2008年3月）
+  - [中島卓偉](../Page/中島卓偉.md "wikilink")（2005年10月〜2007年3月）
+  - [YUTAKA](https://ja.wikipedia.org/wiki/YUTAKA "wikilink")（[Full Of Harmony](../Page/Full_Of_Harmony.md "wikilink")）（2007年4月〜2008年3月）
   - [橋本昌彦](../Page/橋本昌彦.md "wikilink")（2008年4月〜2009年6月）
   - [ゾロ](https://ja.wikipedia.org/wiki/ゾロ_\(バンド\) "wikilink")（2009年7月〜2010年9月）
   - [Sunya](https://ja.wikipedia.org/wiki/Sunya "wikilink")（2010年10月〜2012年9月）
@@ -118,7 +118,7 @@
       - [RYUTist](https://ja.wikipedia.org/wiki/RYUTist "wikilink")（2013年6月26日）
   - [宮崎薫](https://ja.wikipedia.org/wiki/宮崎薫 "wikilink")（2013年7月3日〜2013年8月14日）
   - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")（2013年8月21日〜8月28日）
-  - [小川真奈](https://ja.wikipedia.org/wiki/小川真奈 "wikilink")（2013年9月4日〜9月25日）
+  - [小川真奈](../Page/小川真奈.md "wikilink")（2013年9月4日〜9月25日）
   - [SUSIE LOVE](https://ja.wikipedia.org/wiki/SUSIE_LOVE "wikilink")（2013年10月〜2015年3月）
   - [宍戸翼](https://ja.wikipedia.org/wiki/宍戸翼 "wikilink")（[The Cheserasera](https://ja.wikipedia.org/wiki/The_Cheserasera "wikilink")）（2015年4月〜2016年6月）
   - [Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink")（2016年7月〜12月）
@@ -127,7 +127,7 @@
 
   - [諫山実生](https://ja.wikipedia.org/wiki/諫山実生 "wikilink")（2005年10月〜2007年3月）
   - [ランクヘッド](https://ja.wikipedia.org/wiki/ランクヘッド "wikilink")（2007年4月〜2008年3月）
-  - [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")（2008年4月〜2008年9月）
+  - [WISE](../Page/WISE.md "wikilink")（2008年4月〜2008年9月）
   - [Spontania](../Page/Spontania.md "wikilink")（2008年10月〜2009年6月）
   - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")（2009年7月〜2010年6月）
   - [Baby M](https://ja.wikipedia.org/wiki/Baby_M "wikilink")（2010年7月〜2011年9月）
@@ -251,7 +251,7 @@
 
 **水曜**
 
-  - [中島卓偉](https://ja.wikipedia.org/wiki/中島卓偉 "wikilink")
+  - [中島卓偉](../Page/中島卓偉.md "wikilink")
 
 :\*TAKUIのニュースタックル
 
@@ -320,7 +320,7 @@
 :\*宮﨑　薫のお悩みHOT LINE
 
   - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")
-  - [小川真奈](https://ja.wikipedia.org/wiki/小川真奈 "wikilink")
+  - [小川真奈](../Page/小川真奈.md "wikilink")
 
 **木曜**
 
@@ -344,7 +344,7 @@
 
 :\*選曲バトル
 
-  - [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")
+  - [WISE](../Page/WISE.md "wikilink")
 
 <!-- end list -->
 

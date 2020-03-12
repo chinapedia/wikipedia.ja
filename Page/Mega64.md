@@ -1,7 +1,7 @@
 > この記事は[Mega64](https://ja.wikipedia.org/wiki/Mega64)から翻訳されています。
 
 
-[Mega64_at_Game_Developers_Conference_(GDC)_in_2010.jpg](https://ja.wikipedia.org/wiki/File:Mega64_at_Game_Developers_Conference_\(GDC\)_in_2010.jpg "fig:Mega64_at_Game_Developers_Conference_(GDC)_in_2010.jpg") **Mega64**(メガ64) は、ビデオゲーム周りを中心に紹介する、英国[チャンネル4](https://ja.wikipedia.org/wiki/チャンネル4 "wikilink")のTrigger Happy TV([w:Trigger Happy TV](https://ja.wikipedia.org/wiki/w:Trigger_Happy_TV "wikilink"))の低予算テレビ番組である。 テレビゲームのシーンを、街の中で再現する。
+[Mega64_at_Game_Developers_Conference_(GDC)_in_2010.jpg](https://ja.wikipedia.org/wiki/File:Mega64_at_Game_Developers_Conference_\(GDC\)_in_2010.jpg "fig:Mega64_at_Game_Developers_Conference_(GDC)_in_2010.jpg") **Mega64**(メガ64) は、ビデオゲーム周りを中心に紹介する、英国[チャンネル4](../Page/チャンネル4.md "wikilink")のTrigger Happy TV([w:Trigger Happy TV](https://ja.wikipedia.org/wiki/w:Trigger_Happy_TV "wikilink"))の低予算テレビ番組である。 テレビゲームのシーンを、街の中で再現する。
 
 ## 前述
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [シェンムー](https://ja.wikipedia.org/wiki/シェンムー "wikilink")(SHENMUE)
+  - [シェンムー](../Page/シェンムー.md "wikilink")(SHENMUE)
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - [メタルギアソリッド](https://ja.wikipedia.org/wiki/メタルギアソリッド "wikilink")(METAL GEAR)
+  - [メタルギアソリッド](../Page/メタルギアソリッド.md "wikilink")(METAL GEAR)
 
 <!-- end list -->
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")(TETRIS)
+  - [テトリス](../Page/テトリス.md "wikilink")(TETRIS)
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - [ダウンタウン熱血物語](https://ja.wikipedia.org/wiki/ダウンタウン熱血物語 "wikilink")(RIVER CITY RANSOM)
+  - [ダウンタウン熱血物語](../Page/ダウンタウン熱血物語.md "wikilink")(RIVER CITY RANSOM)
 
 <!-- end list -->
 
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [デッドライジング](https://ja.wikipedia.org/wiki/デッドライジング "wikilink")(DEAD RISING)
+  - [デッドライジング](../Page/デッドライジング.md "wikilink")(DEAD RISING)
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-  - [メタルギアソリッド4](https://ja.wikipedia.org/wiki/メタルギアソリッド4 "wikilink")(METAL GEAR SOLID 4)
+  - [メタルギアソリッド4](../Page/メタルギアソリッド4.md "wikilink")(METAL GEAR SOLID 4)
 
 <!-- end list -->
 

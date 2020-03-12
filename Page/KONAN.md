@@ -3,32 +3,32 @@
 
 **KONAN**（こなん、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月4日](../Page/3月4日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")で、女性アイドルグループ[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")の元メンバー。愛称は、**こにゃん**。
 
-[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[生野区](../Page/生野区.md "wikilink")出身。3姉妹の末っ子\[1\]。[ワンエイトプロモーション](../Page/ワンエイトプロモーション.md "wikilink")所属。元アイドルダンスユニット[SOUL TIGERメンバー](../Page/SOUL_TIGER.md "wikilink")、元[レースクイーン](../Page/レースクイーン.md "wikilink")。旧芸名、**虎南 有美**（こなん ゆみ）。
+[大阪市](../Page/大阪市.md "wikilink")[生野区](../Page/生野区.md "wikilink")出身。3姉妹の末っ子\[1\]。[ワンエイトプロモーション](../Page/ワンエイトプロモーション.md "wikilink")所属。元アイドルダンスユニット[SOUL TIGERメンバー](../Page/SOUL_TIGER.md "wikilink")、元[レースクイーン](../Page/レースクイーン.md "wikilink")。旧芸名、**虎南 有美**（こなん ゆみ）。
 
 ## 略歴
 
-  - [2001年](../Page/2001年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、テレビ番組『バトラク』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）から派生した4人組ダンスユニット・[SOUL TIGERのメインボーカルとして活動](../Page/SOUL_TIGER.md "wikilink")。他のメンバーは吉井弓香、[石田裕子](../Page/石田裕子.md "wikilink")、[虎南有香](https://ja.wikipedia.org/wiki/虎南有香 "wikilink")。当時、虎南有香と芸名が似ていたため、番組内では『虎南有香』を「虎南有美の従妹」として紹介していた。ちなみに、「虎南有香」という芸名はそれに則ったもので、番組終了以後、この血縁関係に触れられたことはない。
+  - [2001年](../Page/2001年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、テレビ番組『バトラク』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）から派生した4人組ダンスユニット・[SOUL TIGERのメインボーカルとして活動](../Page/SOUL_TIGER.md "wikilink")。他のメンバーは吉井弓香、[石田裕子](../Page/石田裕子.md "wikilink")、[虎南有香](../Page/虎南有香.md "wikilink")。当時、虎南有香と芸名が似ていたため、番組内では『虎南有香』を「虎南有美の従妹」として紹介していた。ちなみに、「虎南有香」という芸名はそれに則ったもので、番組終了以後、この血縁関係に触れられたことはない。
   - [集英社](../Page/集英社.md "wikilink")主催のヤングジャンプ全国女子高生制服コレクション2001にて、7up\!を受賞。同期には[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")、[長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")など。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、ワンエイトプロモーションへ移籍。
+  - [2005年](../Page/2005年.md "wikilink")、ワンエイトプロモーションへ移籍。
   - 同年、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink") マッハクイーンズ（[雨坪春菜](../Page/雨坪春菜.md "wikilink")、竹内ともえ、[花井ゆき](https://ja.wikipedia.org/wiki/花井ゆき "wikilink")）として活動。
-  - 同年、[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink") 南葛YJシューターズ（現[南葛シューターズ](../Page/南葛シューターズ.md "wikilink")）に所属し、[スフィアリーグ](../Page/スフィアリーグ.md "wikilink")に参戦。背番号「10」で、ポジションはピヴォ（[FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")）もしくはアラ（[MF](../Page/ミッドフィールダー.md "wikilink")）。右サイドからの切れ味が鋭い。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink") houzan's cosmos CircutLadyとして活動。
+  - 同年、[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink") 南葛YJシューターズ（現[南葛シューターズ](../Page/南葛シューターズ.md "wikilink")）に所属し、[スフィアリーグ](../Page/スフィアリーグ.md "wikilink")に参戦。背番号「10」で、ポジションはピヴォ（[FW](../Page/フォワード_\(サッカー\).md "wikilink")）もしくはアラ（[MF](../Page/ミッドフィールダー.md "wikilink")）。右サイドからの切れ味が鋭い。
+  - [2006年](../Page/2006年.md "wikilink")、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink") houzan's cosmos CircutLadyとして活動。
   - [2007年](../Page/2007年.md "wikilink")、グラビアアイドルユニット[VENUS](../Page/VENUS_\(2007年結成のアイドルユニット\).md "wikilink")（[安藤悠美](../Page/安藤悠美.md "wikilink")、つばきあみ、[永作あいり](https://ja.wikipedia.org/wiki/永作あいり "wikilink")）を結成。
-  - 同年、[ABCヴィーナスバトル](https://ja.wikipedia.org/wiki/ABCヴィーナスバトル "wikilink")2007〜有名企業イメージガール選択会議（[ABC](../Page/朝日放送テレビ.md "wikilink")）にて、[JINRO](https://ja.wikipedia.org/wiki/眞露 "wikilink")、[マンダム](https://ja.wikipedia.org/wiki/マンダム "wikilink")、『[週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")』（集英社）の各代表からの指名を受け、抽選の結果、『週刊プレイボーイ』誌の宣伝活動を担うこととなった。
+  - 同年、[ABCヴィーナスバトル](../Page/ABCヴィーナスバトル.md "wikilink")2007〜有名企業イメージガール選択会議（[ABC](../Page/朝日放送テレビ.md "wikilink")）にて、[JINRO](https://ja.wikipedia.org/wiki/眞露 "wikilink")、[マンダム](../Page/マンダム.md "wikilink")、『[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")』（集英社）の各代表からの指名を受け、抽選の結果、『週刊プレイボーイ』誌の宣伝活動を担うこととなった。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のバラエティ番組『[おねがい\!マスカット](https://ja.wikipedia.org/wiki/おねがい!マスカット "wikilink")』のレギュラー出演者・[恵比寿マスカッツ](https://ja.wikipedia.org/wiki/恵比寿マスカッツ "wikilink")の1期生となる。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")から、SDN48（2期生）として活動開始\[2\]。これに伴い、『[ちょいとマスカット\!](https://ja.wikipedia.org/wiki/ちょいとマスカット! "wikilink")』のレギュラー・恵比寿マスカッツを卒業。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")、『[すっぽんの女たち](https://ja.wikipedia.org/wiki/すっぽんの女たち "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）番組内でSDN48デビュー曲を歌う選抜メンバー12人を発表、最終順位4位になる（2期生最上位）。
-  - [2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")で行われた『SDN48 コンサート「NEXT ENCORE」 in NHKホール』をもってSDN48を卒業。
+  - [2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた『SDN48 コンサート「NEXT ENCORE」 in NHKホール』をもってSDN48を卒業。
   - 2017年バチェラージャパン、シーズン１に参加。
-  - 2019年8月1日、東京・秋葉原の[AKB48劇場](https://ja.wikipedia.org/wiki/AKB48劇場 "wikilink")で開催されたSDN48結成10年記念「誘惑のガーター」特別公演に出演。
+  - 2019年8月1日、東京・秋葉原の[AKB48劇場](../Page/AKB48劇場.md "wikilink")で開催されたSDN48結成10年記念「誘惑のガーター」特別公演に出演。
 
 ## 人物
 
   - 趣味はダンス、歌、しゃべること。
   - 特技はダンス、フットサル、バスケットボール。
   - 資格は、[漢字検定準](https://ja.wikipedia.org/wiki/日本漢字能力検定 "wikilink")2級と[習字](https://ja.wikipedia.org/wiki/習字 "wikilink")[毛筆](https://ja.wikipedia.org/wiki/毛筆 "wikilink")7段。
-  - 芸名の由来には諸説あるが、出身地の大阪をイメージする[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")から「虎」を、大阪府南部出身であるためにそれに「南」を加えた、と本人は語っている\[3\]。
-  - 『おねがい\!マスカット』、『[おねだり\!\!マスカット](https://ja.wikipedia.org/wiki/おねだり!!マスカット "wikilink")』でのキャッチフレーズは「浪速の一匹オオカミ」。強気、関西弁、[阪神タイガースファンというキャラクター設定となっている](../Page/阪神ファン.md "wikilink")。同番組でのコーナーで、[蒼井そら](https://ja.wikipedia.org/wiki/蒼井そら "wikilink")が「[ゴリラ](../Page/ゴリラ.md "wikilink")キャラでよくね?」と発言して以来、番組の内外問わずゴリラの愛称が定着している。なお、KONAN本人は「グラビアをやっているからゴリラキャラはできない」としている。
+  - 芸名の由来には諸説あるが、出身地の大阪をイメージする[阪神タイガース](../Page/阪神タイガース.md "wikilink")から「虎」を、大阪府南部出身であるためにそれに「南」を加えた、と本人は語っている\[3\]。
+  - 『おねがい\!マスカット』、『[おねだり\!\!マスカット](https://ja.wikipedia.org/wiki/おねだり!!マスカット "wikilink")』でのキャッチフレーズは「浪速の一匹オオカミ」。強気、関西弁、[阪神タイガースファンというキャラクター設定となっている](../Page/阪神ファン.md "wikilink")。同番組でのコーナーで、[蒼井そら](../Page/蒼井そら.md "wikilink")が「[ゴリラ](../Page/ゴリラ.md "wikilink")キャラでよくね?」と発言して以来、番組の内外問わずゴリラの愛称が定着している。なお、KONAN本人は「グラビアをやっているからゴリラキャラはできない」としている。
   - 『おねがい\!マスカット』と『おねだり\!\!マスカット』で共演していた[川村りか](../Page/川村りか.md "wikilink")とは、親友である。
   - 『ちょいとマスカット\!』2010年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")放送分で、番組と番組内ユニット「恵比寿マスカッツ」を卒業。番組途中では、フェードアウトの形で脱退していくメンバーがほとんどの中、異例とも言える卒業セレモニーが行われた。本人からのコメントや、マスカッツメンバーである[Rioの](https://ja.wikipedia.org/wiki/Rio_\(AV女優\) "wikilink")「お手紙」も読まれた。放送3日後の[7月10日](../Page/7月10日.md "wikilink")、『恵比寿マスカッツファーストコンサート 恵比寿マスカッツ殺人事件 〜歌って 踊って 殺されて〜』にサプライズ出演し、ファンの前でもマスカッツ卒業を報告している。
 
@@ -73,7 +73,7 @@
   - KONAN-ism（2007年7月22日、ENFD-5067、発売元・販売元：イーネット・フロンティア）
   - コナミルク（2008年2月22日、TSDV-41167、発売元・販売元：[竹書房](../Page/竹書房.md "wikilink")）
   - アイドルワン With You（2008年7月20日、LCDV-40323、発売元：ラインコミュニケーションズ）
-  - CHINANの癒しまっくす（完全版）（2008年8月、GAZA003、発売元・販売元：ネットプライス）ネット予約専売 - [福永ちな](https://ja.wikipedia.org/wiki/福永ちな "wikilink")と共演
+  - CHINANの癒しまっくす（完全版）（2008年8月、GAZA003、発売元・販売元：ネットプライス）ネット予約専売 - [福永ちな](../Page/福永ちな.md "wikilink")と共演
   - CHINANの癒しまっくす（2008年11月21日、NPEF003、発売元：ネットプライス、販売元：イーネット・フロンティア） - 福永ちなと共演
   - KONAN WINDS〜癒しの風〜（2009年1月22日、TRID-084、発売元・販売元：トリコ）
   - 催眠遊戯 〜アイドールKONAN with 永作あいり〜（2010年1月1日、RMQ-010、RMQプロジェクト CHIQエンタープライズ） - [永作あいり](https://ja.wikipedia.org/wiki/永作あいり "wikilink")と共演
@@ -116,10 +116,10 @@
 
   - [女子アナ一直線\!](../Page/女子アナ一直線!.md "wikilink")（2007年7月 - 9月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - 週刊プレイガール（2007年10月 - 2008年3月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - プレイガール
-  - [オビラジR](https://ja.wikipedia.org/wiki/オビラジR "wikilink")（2007年10月 - 2009年3月、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [オビラジR](../Page/オビラジR.md "wikilink")（2007年10月 - 2009年3月、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [おねがい\!マスカット](https://ja.wikipedia.org/wiki/おねがい!マスカット "wikilink") （2008年5月19日 - 2009年3月31日、テレビ東京）
   - [アイドル@deep](https://ja.wikipedia.org/wiki/アイドル@deep "wikilink")（2009年1月16日 - 3月27日、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
-  - [白黒アンジャッシュ](https://ja.wikipedia.org/wiki/白黒アンジャッシュ "wikilink")（2009年4月 - 2015年6月30日、[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）
+  - [白黒アンジャッシュ](../Page/白黒アンジャッシュ.md "wikilink")（2009年4月 - 2015年6月30日、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")）
   - [おねだり\!\!マスカット](https://ja.wikipedia.org/wiki/おねだり!!マスカット "wikilink") （2009年4月7日 - 2010年3月29日、テレビ東京）
   - [ちょいとマスカット\!](https://ja.wikipedia.org/wiki/ちょいとマスカット! "wikilink") （2010年4月7日 - 7月7日、テレビ東京）
   - [キャンパスナイトフジ](https://ja.wikipedia.org/wiki/キャンパスナイトフジ "wikilink")（2010年2月19日・3月12日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
@@ -128,11 +128,11 @@
   - [めちゃ×２イケてるッ！](../Page/めちゃ×2イケてるッ!.md "wikilink")（201１年9月、フジテレビ）
   - パチFUN！(2014年〜2017年)
   - [マッコイ 小木の￥道中　もっでっぞ山形](https://ja.wikipedia.org/wiki/マッコイ_小木の/道中_もっでっぞ山形 "wikilink")（2013年7月15日 - 9月30日、[さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")）
-  - [ロンドンハーツ](https://ja.wikipedia.org/wiki/ロンドンハーツ "wikilink")（2013年〜2015年、テレビ朝日）
+  - [ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")（2013年〜2015年、テレビ朝日）
   - [おーい！ひろいき村](https://ja.wikipedia.org/wiki/おーい!ひろいき村 "wikilink")「シンクロ部」（2015年、フジテレビ）
   - [有吉ゼミ](https://ja.wikipedia.org/wiki/有吉ゼミ "wikilink")（2015年〜2016年、日本テレビ）
   - 水曜日のダウンタウン（2019年８月、TBS）
-  - [DJモノフェスタ](https://ja.wikipedia.org/wiki/DJモノフェスタ "wikilink")（2019年〜2020年、フジテレビ）
+  - [DJモノフェスタ](../Page/DJモノフェスタ.md "wikilink")（2019年〜2020年、フジテレビ）
 
 ### 配信
 
@@ -140,14 +140,14 @@
 
 ### インターネットテレビ
 
-  - [KONANの部屋](http://odoroku.tv/variety/konan/)（2011年4月4日-6月27日、[あっ\!とおどろく放送局](https://ja.wikipedia.org/wiki/あっ!とおどろく放送局 "wikilink")）
+  - [KONANの部屋](http://odoroku.tv/variety/konan/)（2011年4月4日-6月27日、[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）
   - [田原俊彦 DOUBLE-T RELAX TIME IV](http://www.aspect.co.jp/tahara/)
   - [コイカツ　恋愛ノウハウトークライブvol.2](http://www.mache.tv/renai_knowhow_second/)（マシェリバラエティ　マシェバラ 2011年10月21日）
   - 24時間ゼロテレビ☆めちゃゆる(2014年８月)
 
 ### CM
 
-  - [HEIWA](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")
+  - [HEIWA](../Page/平和_\(パチンコ\).md "wikilink")
       - 企業CM「ゴルフ場に愛されている」篇（2012年）
       - 企業CM「最高の笑顔のために」篇（2013年）
 
@@ -166,7 +166,7 @@
 ### ゲーム
 
   - サカつくONLINE(2007年度)
-  - [WCCF15－16](https://ja.wikipedia.org/wiki/WORLD_CLUB_Champion_Football "wikilink")（[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")、2016年稼働） - 秘書 役\[4\]
+  - [WCCF15－16](../Page/WORLD_CLUB_Champion_Football.md "wikilink")（[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")、2016年稼働） - 秘書 役\[4\]
 
 ### その他
 
@@ -177,7 +177,7 @@
 
 ### 写真集
 
-  - KONAN THE FIRST（2007年6月、[彩文館出版](https://ja.wikipedia.org/wiki/彩文館出版 "wikilink")、撮影：上野勇） - ISBN 4-7756-0214-4
+  - KONAN THE FIRST（2007年6月、[彩文館出版](../Page/彩文館出版.md "wikilink")、撮影：上野勇） - ISBN 4-7756-0214-4
 
 ### デジタル写真集
 

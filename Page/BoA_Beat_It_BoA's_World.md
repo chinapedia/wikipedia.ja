@@ -26,12 +26,12 @@
   - [ふくしまFM](../Page/エフエム福島.md "wikilink") 日曜22:00
   - [RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink") 木曜21:30 短縮バージョン
   - [FMぐんま](../Page/エフエム群馬.md "wikilink") 月曜20:30
-  - [TOKYO FM](../Page/エフエム東京.md "wikilink") 日曜24:00 ※スポンサー付きでの放送（番組終了時のスポンサー：[シダックス](https://ja.wikipedia.org/wiki/シダックス "wikilink")）
-  - [FM新潟](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink") 火曜19:30 短縮バージョン
+  - [TOKYO FM](../Page/エフエム東京.md "wikilink") 日曜24:00 ※スポンサー付きでの放送（番組終了時のスポンサー：[シダックス](../Page/シダックス.md "wikilink")）
+  - [FM新潟](../Page/エフエムラジオ新潟.md "wikilink") 火曜19:30 短縮バージョン
   - [FM長野](https://ja.wikipedia.org/wiki/エフエム長野 "wikilink") 土曜20:00
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink") 日曜24:00
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink") 日曜24:00
   - [FM石川](../Page/エフエム石川.md "wikilink") 火曜20:30 短縮バージョン
-  - [FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink") 木曜21:00
+  - [FM福井](../Page/福井エフエム放送.md "wikilink") 木曜21:00
   - [岐阜FM](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink") 日曜21:00
   - [FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink") 土曜25:30
   - [e-radio](../Page/エフエム滋賀.md "wikilink") 月曜20:00

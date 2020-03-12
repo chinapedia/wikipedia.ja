@@ -144,28 +144,28 @@
 
 ## タイアップ
 
-| 曲名                                                                                                                                                    | タイアップ                                                                                                                             | 収録作品                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ドレスを脱いだシンデレラ                                                                                                                                          | [KOSE](../Page/コーセー.md "wikilink")「ファシオ」CMソング\[19\]                                                                               | 1stシングル「[ドレスを脱いだシンデレラ](https://ja.wikipedia.org/wiki/ドレスを脱いだシンデレラ "wikilink")」               |
-| トライ・エヴリシング                                                                                                                                            | ディズニー映画『[ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink")』日本語版主題歌\[20\]\[21\]\[22\]                                         | 2ndシングル「[トライ・エヴリシング](https://ja.wikipedia.org/wiki/トライ・エヴリシング "wikilink")」                   |
-| Lovefool -好きだって言って-                                                                                                                                   | [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」CMソング                                                                             | 3rdシングル「[Lovefool -好きだって言って-](https://ja.wikipedia.org/wiki/Lovefool_-好きだって言って- "wikilink")」 |
-| [Right-on](https://ja.wikipedia.org/wiki/Right-on "wikilink")「MOCOMOCO JEANS」CMソング                                                                    |                                                                                                                                   |                                                                                              |
-| JUMP\!                                                                                                                                                | [健栄製薬](https://ja.wikipedia.org/wiki/健栄製薬 "wikilink")「手ピカジェルプラス」CMソング                                                             |                                                                                              |
-| 第32回[東日本女子駅伝](../Page/東日本女子駅伝.md "wikilink") 大会応援ソング                                                                                                  |                                                                                                                                   |                                                                                              |
-| じゃあね                                                                                                                                                  | [Right-on](https://ja.wikipedia.org/wiki/Right-on "wikilink") 「ダウンイロイロ篇」CMソング                                                     |                                                                                              |
-| はやく逢いたい                                                                                                                                               | 映画『[ひるなかの流星](https://ja.wikipedia.org/wiki/ひるなかの流星 "wikilink")』主題歌\[23\]                                                          | 4thシングル「[はやく逢いたい](https://ja.wikipedia.org/wiki/はやく逢いたい "wikilink")」                         |
-| 第一興商「DAM CHANNEL LIVE 2017」告知CMソング\[24\]                                                                                                              |                                                                                                                                   |                                                                                              |
-| Samantha Vega×ひるなかの流星 コラボCM\[25\]                                                                                                                     |                                                                                                                                   |                                                                                              |
-| Change my life                                                                                                                                        | [サマンサタバサ](https://ja.wikipedia.org/wiki/サマンサタバサ "wikilink")「DREAM COLOR」TVCMソング\[26\]                                             |                                                                                              |
-| 君のとなり                                                                                                                                                 | [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")『真夏のオオカミくんには騙されない』エンディングテーマ                                            | 5thシングル「[君のとなり](https://ja.wikipedia.org/wiki/君のとなり_\(Dream_Amiの曲\) "wikilink")」             |
-| Re: Dream                                                                                                                                             | 健栄製薬「手ピカジェル」CMソング                                                                                                                 | 1stアルバム『[Re: Dream](https://ja.wikipedia.org/wiki/Re:_Dream "wikilink")』                     |
-| アマハル                                                                                                                                                  | ブルボン「おいしいココナッツミルク」CMソング                                                                                                           | 6thシングル「[アマハル](https://ja.wikipedia.org/wiki/アマハル "wikilink")」                               |
-| Wonderland                                                                                                                                            | 映画『[オズランド 笑顔の魔法おしえます。](https://ja.wikipedia.org/wiki/オズの世界#映画 "wikilink")』主題歌\[27\]                                               | 7thシングル「[Wonderland](https://ja.wikipedia.org/wiki/Wonderland_\(Dream_Amiの曲\) "wikilink")」   |
-| 美容・ヘルスケア分野向け求人サイト「リジョブ」CMソング\[28\]\[29\]                                                                                                              |                                                                                                                                   |                                                                                              |
-| [ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink") 「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」CMソング\[30\] |                                                                                                                                   |                                                                                              |
-| NEXT                                                                                                                                                  | [Netflix](../Page/Netflix.md "wikilink")オリジナル映画『[ネクスト ロボ](https://ja.wikipedia.org/wiki/ネクスト_ロボ "wikilink")』日本語吹替版エンディングソング\[31\] |                                                                                              |
-| Good Goodbye                                                                                                                                          | 劇場版『[えいがのおそ松さん](https://ja.wikipedia.org/wiki/おそ松さん#劇場版 "wikilink")』主題歌\[32\]                                                     | 配信シングル「[Good Goodbye](https://ja.wikipedia.org/wiki/Good_Goodbye "wikilink")」                |
-| 恋のつぼみ                                                                                                                                                 | 配信ドラマ『[ブスの瞳に恋してる2019](https://ja.wikipedia.org/wiki/ブスの瞳に恋してる#配信ドラマ "wikilink")』主題歌\[33\]                                         | 配信シングル「[恋のつぼみ](https://ja.wikipedia.org/wiki/恋のつぼみ#Dream_Amiバージョン "wikilink")」               |
+| 曲名                                                                                                                                 | タイアップ                                                                                                                             | 収録作品                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ドレスを脱いだシンデレラ                                                                                                                       | [KOSE](../Page/コーセー.md "wikilink")「ファシオ」CMソング\[19\]                                                                               | 1stシングル「[ドレスを脱いだシンデレラ](https://ja.wikipedia.org/wiki/ドレスを脱いだシンデレラ "wikilink")」               |
+| トライ・エヴリシング                                                                                                                         | ディズニー映画『[ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink")』日本語版主題歌\[20\]\[21\]\[22\]                                         | 2ndシングル「[トライ・エヴリシング](https://ja.wikipedia.org/wiki/トライ・エヴリシング "wikilink")」                   |
+| Lovefool -好きだって言って-                                                                                                                | [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」CMソング                                                                             | 3rdシングル「[Lovefool -好きだって言って-](https://ja.wikipedia.org/wiki/Lovefool_-好きだって言って- "wikilink")」 |
+| [Right-on](https://ja.wikipedia.org/wiki/Right-on "wikilink")「MOCOMOCO JEANS」CMソング                                                 |                                                                                                                                   |                                                                                              |
+| JUMP\!                                                                                                                             | [健栄製薬](../Page/健栄製薬.md "wikilink")「手ピカジェルプラス」CMソング                                                                                |                                                                                              |
+| 第32回[東日本女子駅伝](../Page/東日本女子駅伝.md "wikilink") 大会応援ソング                                                                               |                                                                                                                                   |                                                                                              |
+| じゃあね                                                                                                                               | [Right-on](https://ja.wikipedia.org/wiki/Right-on "wikilink") 「ダウンイロイロ篇」CMソング                                                     |                                                                                              |
+| はやく逢いたい                                                                                                                            | 映画『[ひるなかの流星](https://ja.wikipedia.org/wiki/ひるなかの流星 "wikilink")』主題歌\[23\]                                                          | 4thシングル「[はやく逢いたい](https://ja.wikipedia.org/wiki/はやく逢いたい "wikilink")」                         |
+| 第一興商「DAM CHANNEL LIVE 2017」告知CMソング\[24\]                                                                                           |                                                                                                                                   |                                                                                              |
+| Samantha Vega×ひるなかの流星 コラボCM\[25\]                                                                                                  |                                                                                                                                   |                                                                                              |
+| Change my life                                                                                                                     | [サマンサタバサ](../Page/サマンサタバサ.md "wikilink")「DREAM COLOR」TVCMソング\[26\]                                                                |                                                                                              |
+| 君のとなり                                                                                                                              | [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")『真夏のオオカミくんには騙されない』エンディングテーマ                                            | 5thシングル「[君のとなり](https://ja.wikipedia.org/wiki/君のとなり_\(Dream_Amiの曲\) "wikilink")」             |
+| Re: Dream                                                                                                                          | 健栄製薬「手ピカジェル」CMソング                                                                                                                 | 1stアルバム『[Re: Dream](https://ja.wikipedia.org/wiki/Re:_Dream "wikilink")』                     |
+| アマハル                                                                                                                               | ブルボン「おいしいココナッツミルク」CMソング                                                                                                           | 6thシングル「[アマハル](https://ja.wikipedia.org/wiki/アマハル "wikilink")」                               |
+| Wonderland                                                                                                                         | 映画『[オズランド 笑顔の魔法おしえます。](https://ja.wikipedia.org/wiki/オズの世界#映画 "wikilink")』主題歌\[27\]                                               | 7thシングル「[Wonderland](https://ja.wikipedia.org/wiki/Wonderland_\(Dream_Amiの曲\) "wikilink")」   |
+| 美容・ヘルスケア分野向け求人サイト「リジョブ」CMソング\[28\]\[29\]                                                                                           |                                                                                                                                   |                                                                                              |
+| [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink") 「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」CMソング\[30\] |                                                                                                                                   |                                                                                              |
+| NEXT                                                                                                                               | [Netflix](../Page/Netflix.md "wikilink")オリジナル映画『[ネクスト ロボ](https://ja.wikipedia.org/wiki/ネクスト_ロボ "wikilink")』日本語吹替版エンディングソング\[31\] |                                                                                              |
+| Good Goodbye                                                                                                                       | 劇場版『[えいがのおそ松さん](https://ja.wikipedia.org/wiki/おそ松さん#劇場版 "wikilink")』主題歌\[32\]                                                     | 配信シングル「[Good Goodbye](https://ja.wikipedia.org/wiki/Good_Goodbye "wikilink")」                |
+| 恋のつぼみ                                                                                                                              | 配信ドラマ『[ブスの瞳に恋してる2019](https://ja.wikipedia.org/wiki/ブスの瞳に恋してる#配信ドラマ "wikilink")』主題歌\[33\]                                         | 配信シングル「[恋のつぼみ](https://ja.wikipedia.org/wiki/恋のつぼみ#Dream_Amiバージョン "wikilink")」               |
 
 ## ライブ
 
@@ -181,11 +181,11 @@ Dream Ami 1st. Live Tour 2017 ♡ Re: Dream\[34\]\[35\]
 
 <div class="NavContent" style="text-align: left;">
 
-  - 11月09日：北海道・[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") Sapporo
+  - 11月09日：北海道・[Zepp](../Page/Zepp.md "wikilink") Sapporo
   - 11月17日：大阪・Zepp Namba
   - 11月21日：東京・Zepp DiverCity TOKYO
   - 11月28日：愛知・Zepp Nagoya
-  - 11月29日：福岡・[福岡サンパレス](https://ja.wikipedia.org/wiki/福岡サンパレス "wikilink")
+  - 11月29日：福岡・[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")
 
 </div>
 
@@ -203,34 +203,34 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2月22日：大阪・[オリックス劇場](https://ja.wikipedia.org/wiki/オリックス劇場 "wikilink")
-  - 2月24日：京都・[ロームシアター京都](https://ja.wikipedia.org/wiki/ロームシアター京都 "wikilink") メインホール
-  - 3月01日：石川・[金沢歌劇座](https://ja.wikipedia.org/wiki/金沢歌劇座 "wikilink")
+  - 2月22日：大阪・[オリックス劇場](../Page/オリックス劇場.md "wikilink")
+  - 2月24日：京都・[ロームシアター京都](../Page/ロームシアター京都.md "wikilink") メインホール
+  - 3月01日：石川・[金沢歌劇座](../Page/金沢歌劇座.md "wikilink")
   - 3月03日：長野・[キッセイ文化ホール](../Page/長野県松本文化会館.md "wikilink")
-  - 3月05日：栃木・[宇都宮市文化会館](https://ja.wikipedia.org/wiki/宇都宮市文化会館 "wikilink")
-  - 3月09日：福井・[フェニックス・プラザ](https://ja.wikipedia.org/wiki/フェニックス・プラザ "wikilink") 大ホール
+  - 3月05日：栃木・[宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink")
+  - 3月09日：福井・[フェニックス・プラザ](../Page/フェニックス・プラザ.md "wikilink") 大ホール
   - 3月14日：静岡・[静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink") 大ホール
   - 3月17日：三重・[三重県文化会館](https://ja.wikipedia.org/wiki/三重県総合文化センター "wikilink") 大ホール
-  - 3月22日：宮城・[仙台サンプラザ](https://ja.wikipedia.org/wiki/仙台サンプラザ "wikilink")ホール
-  - 3月24日：山形・[やまぎんホール](https://ja.wikipedia.org/wiki/山形県県民会館 "wikilink")
-  - 3月27日、3月28日：東京・[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")
+  - 3月22日：宮城・[仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")ホール
+  - 3月24日：山形・[やまぎんホール](../Page/山形県県民会館.md "wikilink")
+  - 3月27日、3月28日：東京・[NHKホール](../Page/NHKホール.md "wikilink")
   - 3月30日：山梨・[コラニー文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")
-  - 3月31日：新潟・[新潟県民会館](https://ja.wikipedia.org/wiki/新潟県民会館 "wikilink")
+  - 3月31日：新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
   - 4月02日、4月03日：大阪・オリックス劇場
   - 4月05日：滋賀・[滋賀県立芸術劇場 びわ湖ホール](../Page/滋賀県立芸術劇場_びわ湖ホール.md "wikilink")
   - 4月06日：山口・[周南市文化会館](https://ja.wikipedia.org/wiki/周南市文化会館 "wikilink")
   - 4月08日：広島・[ふくやま芸術文化ホール](../Page/ふくやま芸術文化ホール.md "wikilink") リーデンローズ 大ホール
   - 4月11日：愛媛・[松山市民会館](../Page/松山市民会館.md "wikilink")
-  - 4月13日：岩手・[岩手県民会館](https://ja.wikipedia.org/wiki/岩手県民会館 "wikilink")
-  - 4月14日：青森・[リンクステーションホール青森](https://ja.wikipedia.org/wiki/青森市文化会館 "wikilink")
+  - 4月13日：岩手・[岩手県民会館](../Page/岩手県民会館.md "wikilink")
+  - 4月14日：青森・[リンクステーションホール青森](../Page/青森市文化会館.md "wikilink")
   - 4月16日：埼玉・[川口総合文化センター](../Page/川口総合文化センター.md "wikilink") リリア
-  - 4月20日：佐賀・[佐賀市文化会館](https://ja.wikipedia.org/wiki/佐賀市文化会館 "wikilink")
+  - 4月20日：佐賀・[佐賀市文化会館](../Page/佐賀市文化会館.md "wikilink")
   - 4月21日：大分・[iichiko グランシアタ](../Page/大分県立総合文化センター.md "wikilink")
   - 4月24日、4月25日：福岡・福岡サンパレス
-  - 5月07日、5月08日：愛知・[名古屋国際会議場](https://ja.wikipedia.org/wiki/名古屋国際会議場 "wikilink") センチュリーホール
+  - 5月07日、5月08日：愛知・[名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink") センチュリーホール
   - 5月10日、5月11日：千葉・[市川市文化会館](../Page/市川市文化会館.md "wikilink") 大ホール
   - 5月17日、5月18日：北海道・[札幌文化芸術劇場](https://ja.wikipedia.org/wiki/札幌文化芸術劇場 "wikilink") hitaru
-  - 5月25日：神奈川・[パシフィコ横浜](https://ja.wikipedia.org/wiki/横浜国際平和会議場 "wikilink") 国立大ホール
+  - 5月25日：神奈川・[パシフィコ横浜](../Page/横浜国際平和会議場.md "wikilink") 国立大ホール
 
 </div>
 
@@ -270,7 +270,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 ### 配信番組
 
-  - [DAM CHANNEL](https://ja.wikipedia.org/wiki/DAMチャンネル "wikilink")（2013年10月） - 月替わりMC\[47\]
+  - [DAM CHANNEL](../Page/DAMチャンネル.md "wikilink")（2013年10月） - 月替わりMC\[47\]
       - [DAM CHANNEL TV](https://ja.wikipedia.org/wiki/DAMチャンネル#歴代司会者 "wikilink")（2017年4月 - 2018年3月） - 14代目MC\[48\]
   - [真夏のオオカミくんには騙されない](https://ja.wikipedia.org/wiki/オオカミくんには騙されない "wikilink")（2017年7月 - 9月、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - MC\[49\]
       - 真冬のオオカミくんには騙されない（2018年1月 - 3月）\[50\]
@@ -295,13 +295,13 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
   - [バンダイ](../Page/バンダイ.md "wikilink")「カラオケランキンパーティ」（2015年）\[61\]
   - [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」（2016年 - ）\[62\]
-  - [健栄製薬](https://ja.wikipedia.org/wiki/健栄製薬 "wikilink")「手ピカジェル」（2016年 - 2017年）
+  - [健栄製薬](../Page/健栄製薬.md "wikilink")「手ピカジェル」（2016年 - 2017年）
 
 ### 広告
 
   - [BRITA Japan](../Page/ブリタ.md "wikilink")「fill\&go Active」（2018年）\[63\]\[64\]
   - リジョブ「リジョブ」（2018年）\[65\]\[66\]
-  - [ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[67\]
+  - [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[67\]
   - [Google Japan](https://ja.wikipedia.org/wiki/Google#日本法人 "wikilink") Googleアプリ「Discover（探す）」「写真でお店検索」（2018年）\[68\]
   - [花王](../Page/花王.md "wikilink")「[メリット](../Page/メリット_\(シャンプー\).md "wikilink") PYUAN」（2019年）\[69\]\[70\]
 
@@ -312,7 +312,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
 ### その他
 
   - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[73\]
-  - [サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[74\]
+  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[74\]
 
 ## 脚注
 

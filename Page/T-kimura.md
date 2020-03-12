@@ -1,7 +1,7 @@
 > この記事は[T-kimura](https://ja.wikipedia.org/wiki/T-kimura)から翻訳されています。
 
 
-**t-kimura**（ティーキムラ、本名：**木村 貴志**（きむら たかし）、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ）は、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")と活動の幅は多岐にわたる。
+**t-kimura**（ティーキムラ、本名：**木村 貴志**（きむら たかし）、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ）は、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")と活動の幅は多岐にわたる。
 
 ## 人物
 
@@ -17,11 +17,11 @@
 
 1992年、[Groovy Boyfriendsを結成し](https://ja.wikipedia.org/wiki/Groovy_Boyfriends "wikilink")、1994年に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からデビューするも、同年の1stアルバムの発売後に脱退する。
 
-1993年、Groovy Boyfriendsの活動と並行してダンスミュージックのユニット[RAVEMAN](https://ja.wikipedia.org/wiki/RAVEMAN "wikilink")を結成、1994年に発売したシングル「PUMPIN'」が[ジュリアナ東京](https://ja.wikipedia.org/wiki/ジュリアナ東京 "wikilink")を初め全国のディスコでパワープレイされ、年間クラブチャートベスト10圏内にオリジナル3曲がランクインする（リミックスを含むと5曲）。
+1993年、Groovy Boyfriendsの活動と並行してダンスミュージックのユニット[RAVEMAN](../Page/RAVEMAN.md "wikilink")を結成、1994年に発売したシングル「PUMPIN'」が[ジュリアナ東京](../Page/ジュリアナ東京.md "wikilink")を初め全国のディスコでパワープレイされ、年間クラブチャートベスト10圏内にオリジナル3曲がランクインする（リミックスを含むと5曲）。
 
-東京ドームで開催されたエイベックスレイヴに出演。またこの頃から[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")や[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")などのリミックスを手掛ける。
+東京ドームで開催されたエイベックスレイヴに出演。またこの頃から[TRF](../Page/TRF.md "wikilink")や[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")などのリミックスを手掛ける。
 
-1996年、[松崎麻矢](https://ja.wikipedia.org/wiki/松崎麻矢 "wikilink")と[Favorite Blueを結成](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink")。アルバムが2作続けてオリコン1位。レコーディングに世界的にも著名なバンドであるDURAN DURANのベーシストのジョンテイラーを起用。
+1996年、[松崎麻矢](../Page/松崎麻矢.md "wikilink")と[Favorite Blueを結成](../Page/Favorite_Blue.md "wikilink")。アルバムが2作続けてオリコン1位。レコーディングに世界的にも著名なバンドであるDURAN DURANのベーシストのジョンテイラーを起用。
 
 翌年、Favorite Blueとは対をなすアグレッシブなサウンドのプロジェクト[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")を結成。デビュー間もなく英国の"HYBRID"などと台湾のフェスに参加。3万人動員。
 
@@ -37,7 +37,7 @@
 
 2013年、音楽制作活動を再開。ハリウッドで活躍する映画監督[北村龍平](../Page/北村龍平.md "wikilink")とタッグを組んだ[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")ドームツアーの交響曲や[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のサウンドプロデュースを手掛ける。
 
-2014年 1月、中学校時代からの親友である[山岡晃](https://ja.wikipedia.org/wiki/山岡晃 "wikilink")らと共にクロスメディアプロジェクト「Blitzage」を旗揚げし、ニューロマンティクスカルチャーの中核的人物のスティーブストレンジ率いるVISAGEと共演。（BLITZAGE　FACEBOOK　OFFICIALから転載)
+2014年 1月、中学校時代からの親友である[山岡晃](../Page/山岡晃.md "wikilink")らと共にクロスメディアプロジェクト「Blitzage」を旗揚げし、ニューロマンティクスカルチャーの中核的人物のスティーブストレンジ率いるVISAGEと共演。（BLITZAGE　FACEBOOK　OFFICIALから転載)
 
 2018年5月、自身がプロデューサーとして携わる[マキアダチ](https://ja.wikipedia.org/wiki/マキアダチ "wikilink")のミニアルバム「[OVERWHELMING](https://ja.wikipedia.org/wiki/OVERWHELMING "wikilink")」が配信リリースとなる。
 
@@ -45,10 +45,10 @@
 
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - SUBSONIC FACTORを結成。[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー（現在は解散）
   - [1992年](../Page/1992年.md "wikilink")（平成4年） - [Groovy Boyfriendsを結成](https://ja.wikipedia.org/wiki/Groovy_Boyfriends "wikilink")。1994年に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー（現在は解散）
-  - [1994年](../Page/1994年.md "wikilink")（平成6年） - [motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")（当時はU.S-TOM名義）、GEE RAVEMANと共に[RAVEMAN](https://ja.wikipedia.org/wiki/RAVEMAN "wikilink")を結成。[エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")と専属プロデューサー契約を締結（KIM RAVEMAN名義で活動・現在は解散）
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - [松崎麻矢](https://ja.wikipedia.org/wiki/松崎麻矢 "wikilink")と[Favorite Blueを結成](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink")
+  - [1994年](../Page/1994年.md "wikilink")（平成6年） - [motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")（当時はU.S-TOM名義）、GEE RAVEMANと共に[RAVEMAN](../Page/RAVEMAN.md "wikilink")を結成。[エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")と専属プロデューサー契約を締結（KIM RAVEMAN名義で活動・現在は解散）
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - [松崎麻矢](../Page/松崎麻矢.md "wikilink")と[Favorite Blueを結成](../Page/Favorite_Blue.md "wikilink")
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年） - motsu、[yuri](https://ja.wikipedia.org/wiki/yuri "wikilink")とmoveを結成、同グループのリーダーに就任（後に[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")へ名称変更）
-  - [2000年](../Page/2000年.md "wikilink")（平成12年） - [Favorite Blue活動停止](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink")
+  - [2000年](../Page/2000年.md "wikilink")（平成12年） - [Favorite Blue活動停止](../Page/Favorite_Blue.md "wikilink")
   - [2001年](../Page/2001年.md "wikilink") (平成13年)　- 結婚。子供を儲ける。
   - [2002年](../Page/2002年.md "wikilink")（平成14年） - ソロプロジェクト・[Orbitribe](https://ja.wikipedia.org/wiki/Orbitribe "wikilink")を始動し、アルバム『TUNE ON』をリリース
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - プロデューサーに専念するためエイベックスとの契約を終了。
@@ -58,8 +58,8 @@
 
   - [SUBSONIC FACTOR](https://ja.wikipedia.org/wiki/:en:Subsonic_Factor "wikilink")
   - [Groovy Boyfriends](https://ja.wikipedia.org/wiki/Groovy_Boyfriends "wikilink")
-  - [RAVEMAN](https://ja.wikipedia.org/wiki/RAVEMAN "wikilink")
-  - [Favorite Blue](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink")
+  - [RAVEMAN](../Page/RAVEMAN.md "wikilink")
+  - [Favorite Blue](../Page/Favorite_Blue.md "wikilink")
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")
   - [Orbitribe](https://ja.wikipedia.org/wiki/Orbitribe "wikilink")
 
@@ -114,12 +114,12 @@
 
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")
   - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
-      - 「[Trust](https://ja.wikipedia.org/wiki/Trust_\(浜崎あゆみの曲\) "wikilink")」（作曲・編曲）
-  - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")
+      - 「[Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink")」（作曲・編曲）
+  - [TRF](../Page/TRF.md "wikilink")
       - 「[Frame](https://ja.wikipedia.org/wiki/Frame "wikilink")」（作曲・編曲）
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
       - 「[恋するヴェルファーレダンス 〜Saturday Night〜](https://ja.wikipedia.org/wiki/恋するヴェルファーレダンス_〜Saturday_Night〜 "wikilink")」（編曲）
-  - [Folder5](https://ja.wikipedia.org/wiki/Folder5 "wikilink")
+  - [Folder5](../Page/Folder5.md "wikilink")
       - 「[GO AHEAD\!\!](https://ja.wikipedia.org/wiki/GO_AHEAD!! "wikilink")」（作曲・編曲）
   - [V6](../Page/V6_\(グループ\).md "wikilink")
       - 「[MUSIC FOR THE PEOPLE](../Page/MUSIC_FOR_THE_PEOPLE.md "wikilink")」（編曲）
@@ -130,7 +130,7 @@
 
 ## 関連項目
 
-  - [山岡晃](https://ja.wikipedia.org/wiki/山岡晃 "wikilink") - ゲームソフト開発企業[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")所属のクリエイター、学生時代の同級生。現在もライブ活動等で共演。
+  - [山岡晃](../Page/山岡晃.md "wikilink") - ゲームソフト開発企業[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")所属のクリエイター、学生時代の同級生。現在もライブ活動等で共演。
   - [クレヨンしんちゃん (アニメ)](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")
   - [頭文字D](../Page/頭文字D.md "wikilink")
 

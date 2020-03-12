@@ -1,7 +1,7 @@
 > この記事は[DAWN \(Aimer\)](https://ja.wikipedia.org/wiki/DAWN_\(Aimer\))から翻訳されています。
 
 
-『**DAWN**』（ドーン）は、[Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")の3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2015年](../Page/2015年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[DefSTAR RECORDSから発売された](https://ja.wikipedia.org/wiki/DefSTAR_RECORDS "wikilink")。
+『**DAWN**』（ドーン）は、[Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2015年](../Page/2015年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[DefSTAR RECORDSから発売された](https://ja.wikipedia.org/wiki/DefSTAR_RECORDS "wikilink")。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 
 ### CD
 
-1.  **[MOON RIVER](https://ja.wikipedia.org/wiki/ムーン・リバー "wikilink")** -prologue- (1:59)
+1.  **[MOON RIVER](../Page/ムーン・リバー.md "wikilink")** -prologue- (1:59)
       -
-        作詞：[ジョニー・マーサー](https://ja.wikipedia.org/wiki/ジョニー・マーサー "wikilink")　作曲：[ヘンリー・マンシーニ](https://ja.wikipedia.org/wiki/ヘンリー・マンシーニ "wikilink")　編曲：[玉井健二](https://ja.wikipedia.org/wiki/玉井健二 "wikilink")、[飛内将大](https://ja.wikipedia.org/wiki/飛内将大 "wikilink")
+        作詞：[ジョニー・マーサー](https://ja.wikipedia.org/wiki/ジョニー・マーサー "wikilink")　作曲：[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")　編曲：[玉井健二](../Page/玉井健二.md "wikilink")、[飛内将大](https://ja.wikipedia.org/wiki/飛内将大 "wikilink")
 2.  **Believe Be:leave** (5:22)
       -
         作詞：aimerrythm　作曲：飛内将大　編曲：玉井健二、飛内将大
@@ -43,13 +43,13 @@
         作詞：aimerrythm　作曲：小山寿　編曲：玉井健二、大西省吾
 11. **キズナ** (4:56)
       -
-        作詞：[田中秀典](https://ja.wikipedia.org/wiki/田中秀典 "wikilink")　作曲：飛内将大　編曲：玉井健二、飛内将大
+        作詞：[田中秀典](../Page/田中秀典.md "wikilink")　作曲：飛内将大　編曲：玉井健二、飛内将大
 12. **DAWN** (5:09)
       -
         作詞：aimerrythm　作曲：秋田博之、玉井健二　編曲：玉井健二、[釣俊輔](https://ja.wikipedia.org/wiki/釣俊輔 "wikilink")
-13. **[MOON RIVER](https://ja.wikipedia.org/wiki/ムーン・リバー "wikilink")** (1:59)
+13. **[MOON RIVER](../Page/ムーン・リバー.md "wikilink")** (1:59)
       -
-        作詞：[ジョニー・マーサー](https://ja.wikipedia.org/wiki/ジョニー・マーサー "wikilink")　作曲：[ヘンリー・マンシーニ](https://ja.wikipedia.org/wiki/ヘンリー・マンシーニ "wikilink")　編曲：[玉井健二](https://ja.wikipedia.org/wiki/玉井健二 "wikilink")、[飛内将大](https://ja.wikipedia.org/wiki/飛内将大 "wikilink")
+        作詞：[ジョニー・マーサー](https://ja.wikipedia.org/wiki/ジョニー・マーサー "wikilink")　作曲：[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")　編曲：[玉井健二](../Page/玉井健二.md "wikilink")、[飛内将大](https://ja.wikipedia.org/wiki/飛内将大 "wikilink")
 
 ### 初回生産限定盤 BD DFCL-2151 / DVD DFCL-2153
 
@@ -62,31 +62,31 @@
 
 ## リリース日一覧
 
-| 地域                                                                                            | リリース日                                                                                                       | レーベル                                                                                                          | 規格                                                                                          | カタログ番号          | 備考       |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------- | -------- |
-| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")                                             | [2015年](../Page/2015年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")                                    | [DefSTAR RECORDS](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")                                         | [12cmCD](../Page/コンパクトディスク.md "wikilink")+[BD](https://ja.wikipedia.org/wiki/BD "wikilink") | DFCL-2150, 2151 | 初回生産限定盤A |
-| [12cmCD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")                    | DFCL-2152, 2153                                                                                             | 初回生産限定盤B                                                                                                      |                                                                                             |                 |          |
-| [12cmCD](../Page/コンパクトディスク.md "wikilink")                                                     | DFCL-2154                                                                                                   | 通常盤                                                                                                           |                                                                                             |                 |          |
-| [デジタル・ダウンロード](../Page/音楽配信.md "wikilink")                                                     | 882310303                                                                                                   | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[1\]                                    |                                                                                             |                 |          |
-| [Sony Music Labels Inc.](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") | A1002513041                                                                                                 | [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink") [AAC](../Page/AAC.md "wikilink") 128/320kbps\[2\]     |                                                                                             |                 |          |
-| 4560429730019                                                                                 | [mora](https://ja.wikipedia.org/wiki/mora "wikilink") [AAC](../Page/AAC.md "wikilink")-LC 320kbps\[3\]      |                                                                                                               |                                                                                             |                 |          |
-| B011UVOTUE                                                                                    | [Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")\[4\]                                                     |                                                                                                               |                                                                                             |                 |          |
-| A1004663625                                                                                   | [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink") [FLAC](../Page/FLAC.md "wikilink") 96kHz 24bit\[5\] |                                                                                                               |                                                                                             |                 |          |
-| 4560429730026                                                                                 | [mora](https://ja.wikipedia.org/wiki/mora "wikilink") [FLAC](../Page/FLAC.md "wikilink") 96kHz 24bit\[6\]   |                                                                                                               |                                                                                             |                 |          |
-| 5676                                                                                          | HD-music [FLAC](../Page/FLAC.md "wikilink") 96kHz/24bit\[7\]                                                |                                                                                                               |                                                                                             |                 |          |
-| [2016年](../Page/2016年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")                      | smj4560429730026                                                                                            | [e-onkyo](https://ja.wikipedia.org/wiki/オンキヨー "wikilink") [FLAC](../Page/FLAC.md "wikilink") 96kHz 24bit\[8\] |                                                                                             |                 |          |
-|                                                                                               |                                                                                                             |                                                                                                               |                                                                                             |                 |          |
+| 地域                                                                                            | リリース日                                                                                                       | レーベル                                                                                                      | 規格                                                                                          | カタログ番号          | 備考       |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------- | -------- |
+| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")                                             | [2015年](../Page/2015年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")                                    | [DefSTAR RECORDS](../Page/デフスターレコーズ.md "wikilink")                                                        | [12cmCD](../Page/コンパクトディスク.md "wikilink")+[BD](https://ja.wikipedia.org/wiki/BD "wikilink") | DFCL-2150, 2151 | 初回生産限定盤A |
+| [12cmCD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")                    | DFCL-2152, 2153                                                                                             | 初回生産限定盤B                                                                                                  |                                                                                             |                 |          |
+| [12cmCD](../Page/コンパクトディスク.md "wikilink")                                                     | DFCL-2154                                                                                                   | 通常盤                                                                                                       |                                                                                             |                 |          |
+| [デジタル・ダウンロード](../Page/音楽配信.md "wikilink")                                                     | 882310303                                                                                                   | [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[1\]                                |                                                                                             |                 |          |
+| [Sony Music Labels Inc.](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") | A1002513041                                                                                                 | [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink") [AAC](../Page/AAC.md "wikilink") 128/320kbps\[2\] |                                                                                             |                 |          |
+| 4560429730019                                                                                 | [mora](https://ja.wikipedia.org/wiki/mora "wikilink") [AAC](../Page/AAC.md "wikilink")-LC 320kbps\[3\]      |                                                                                                           |                                                                                             |                 |          |
+| B011UVOTUE                                                                                    | [Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")\[4\]                                                     |                                                                                                           |                                                                                             |                 |          |
+| A1004663625                                                                                   | [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink") [FLAC](../Page/FLAC.md "wikilink") 96kHz 24bit\[5\] |                                                                                                           |                                                                                             |                 |          |
+| 4560429730026                                                                                 | [mora](https://ja.wikipedia.org/wiki/mora "wikilink") [FLAC](../Page/FLAC.md "wikilink") 96kHz 24bit\[6\]   |                                                                                                           |                                                                                             |                 |          |
+| 5676                                                                                          | HD-music [FLAC](../Page/FLAC.md "wikilink") 96kHz/24bit\[7\]                                                |                                                                                                           |                                                                                             |                 |          |
+| [2016年](../Page/2016年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")                      | smj4560429730026                                                                                            | [e-onkyo](../Page/オンキヨー.md "wikilink") [FLAC](../Page/FLAC.md "wikilink") 96kHz 24bit\[8\]                |                                                                                             |                 |          |
+|                                                                                               |                                                                                                             |                                                                                                           |                                                                                             |                 |          |
 
 ## タイアップ
 
-| 曲名                 | [タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")                                                                                                                             |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 「Brave Shine」      | [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink") \[UBW\]』2ndシーズンOPテーマ                                                                                    |
-| 「LAST STARDUST」    | Fate/stay night \[UBW\]』挿入歌                                                                                                                                                         |
-| 「broKen NIGHT」     | [PS Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")『[Fate/hollow ataraxia](https://ja.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")』主題歌                      |
-| 「誰か、海を。」           | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")“[ノイタミナ](https://ja.wikipedia.org/wiki/ノイタミナ "wikilink")”アニメ『[残響のテロル](https://ja.wikipedia.org/wiki/残響のテロル "wikilink")』EDテーマ |
-| 「君を待つ」             | ドラマスペシャル『[クロハ 〜機捜の女性捜査官〜](https://ja.wikipedia.org/wiki/クロハ_〜機捜の女性捜査官〜 "wikilink")』主題歌（主演：[杏](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")）                                   |
-| 「Believe Be:leave」 | [YTV](https://ja.wikipedia.org/wiki/YTV "wikilink")「音力-ONCHIKA-」7月度エンディングテーマ                                                                                                        |
+| 曲名                 | [タイアップ](../Page/タイアップ.md "wikilink")                                                                                                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 「Brave Shine」      | [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink") \[UBW\]』2ndシーズンOPテーマ                                                                 |
+| 「LAST STARDUST」    | Fate/stay night \[UBW\]』挿入歌                                                                                                                                      |
+| 「broKen NIGHT」     | [PS Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")『[Fate/hollow ataraxia](https://ja.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")』主題歌   |
+| 「誰か、海を。」           | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")“[ノイタミナ](../Page/ノイタミナ.md "wikilink")”アニメ『[残響のテロル](https://ja.wikipedia.org/wiki/残響のテロル "wikilink")』EDテーマ |
+| 「君を待つ」             | ドラマスペシャル『[クロハ 〜機捜の女性捜査官〜](https://ja.wikipedia.org/wiki/クロハ_〜機捜の女性捜査官〜 "wikilink")』主題歌（主演：[杏](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")）                |
+| 「Believe Be:leave」 | [YTV](https://ja.wikipedia.org/wiki/YTV "wikilink")「音力-ONCHIKA-」7月度エンディングテーマ                                                                                     |
 
 ## 購入特典
 

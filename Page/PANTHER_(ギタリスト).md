@@ -1,7 +1,7 @@
 > この記事は[PANTHER \(\)](https://ja.wikipedia.org/wiki/PANTHER_\(\))から翻訳されています。
 
 
-**PANTHER**（パンサー、本名：**八尋 義和**（やひろ よしかず） [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身。身長182cm、体重62kg。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。 [ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")、元[SEX MACHINEGUNSの](../Page/SEX_MACHINEGUNS.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")（当時の名前はCIRCUIT.V.PANTHER）。
+**PANTHER**（パンサー、本名：**八尋 義和**（やひろ よしかず） [1970年](../Page/1970年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身。身長182cm、体重62kg。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。 [ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")、元[SEX MACHINEGUNSの](../Page/SEX_MACHINEGUNS.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")（当時の名前はCIRCUIT.V.PANTHER）。
 
 名前の由来は、三重県といえば鈴鹿サーキットだから「**CIRCUIT**」・尊敬するギタリスト、「Steve Vai」のVをとって「**V**」・長身で細身、速弾きが上手くて一番らしいから「**PANTHER**」。「**Sexy**」がいつしか代名詞になっていた。
 
@@ -13,10 +13,10 @@ PANTHERファンの事を「**やひらー**」という。
   - 2001年4月、SEX MACHINEGUNSのギタリスト[SUSSY](../Page/SUSSY.md "wikilink")の脱退に伴いサポートメンバーとして参加。
   - 2001年9月、SEX MACHINEGUNSに正式加入。2003年8月の解散まで在籍。
   - 2003年9月、ソロ活動開始。ソロアルバム「Sexy Finger」をリリース。
-  - 2004年4月、SEX MACHINEGUNS再結成の際に正式メンバーとして再び参加。その後、同バンドのメンバーである[SPEED STAR SYPAN JOE](../Page/JOE_\(ドラマー\).md "wikilink")(Dr)と[SAMURAI.W.KENJILAW](../Page/村井研次郎.md "wikilink")(B)の三人で、[インストバンド](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")・**ELLEGUNS**も結成。
+  - 2004年4月、SEX MACHINEGUNS再結成の際に正式メンバーとして再び参加。その後、同バンドのメンバーである[SPEED STAR SYPAN JOE](../Page/JOE_\(ドラマー\).md "wikilink")(Dr)と[SAMURAI.W.KENJILAW](../Page/村井研次郎.md "wikilink")(B)の三人で、[インストバンド](../Page/器楽曲.md "wikilink")・**ELLEGUNS**も結成。
   - 2006年9月7日、ELLEGUNSのメンバー三人で、SEX MACHINEGUNSを正式に脱退。同時に、所属事務所Marsaからも離れる。アーティスト名を**PANTHER**に変更。
   - 2006年12月6日、同じくJOEと村井研次郎にアーティスト名を変更した元ELLEGUNSの二人と共に結成した新バンド・J-P-K PROJECTを、**[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")**と改名。今後は新たにヴォーカルを迎えて、CYCLEとして本格的なバンド活動をして行く予定。
-  - 2011年1月、ソロ活動再開。[Shibuya O-WESTにてワンマンライブを敢行](https://ja.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")。ゲストギタリストとして白田一秀(ex.[PRESENCE](../Page/PRESENCE.md "wikilink") / ex.[GRAND SLAM](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")) ,[橘高文彦](../Page/橘高文彦.md "wikilink")(from：[筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")、[X.Y.Z.→A](https://ja.wikipedia.org/wiki/X.Y.Z.→A "wikilink"))を招致。
+  - 2011年1月、ソロ活動再開。[Shibuya O-WESTにてワンマンライブを敢行](../Page/Shibuya_O-WEST.md "wikilink")。ゲストギタリストとして白田一秀(ex.[PRESENCE](../Page/PRESENCE.md "wikilink") / ex.[GRAND SLAM](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")) ,[橘高文彦](../Page/橘高文彦.md "wikilink")(from：[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")、[X.Y.Z.→A](../Page/X.Y.Z.→A.md "wikilink"))を招致。
   - 2011年4月13日、ソロアルバム「Sexy Finger III」をリリース。
 
 ## 特徴
@@ -48,7 +48,7 @@ PANTHERファンの事を「**やひらー**」という。
 
 **ギター**\[1\]
 
-  - [ESP](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") M-II -Panther Custom-
+  - [ESP](../Page/イーエスピー.md "wikilink") M-II -Panther Custom-
   - ESP M-III -Panther Custom-
   - ESP PV -BLACK Arm'or-
   - ESP PV -GOLD Arm'or-
@@ -60,7 +60,7 @@ PANTHERファンの事を「**やひらー**」という。
   - ESP PV -Sexy Finger II-
   - ESP PV -Sexy Finger III Sexy Rose-
   - ESP SEC-YY Custom -FIRST LOVE-
-  - [Shelldon](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") YY Custom -SECOND LOVE-
+  - [Shelldon](../Page/イーエスピー.md "wikilink") YY Custom -SECOND LOVE-
   - ESP POTBELLY -Panther Custom-
   - ESP SEC-MI Custom -Red Meanie-
   - ESP PURPLE TIGER

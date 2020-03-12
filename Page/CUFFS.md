@@ -3,7 +3,7 @@
 
 **CUFFS**（カフス）は、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")製作会社である[有限会社](../Page/有限会社.md "wikilink")CUFFSおよび[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドの名称である。
 
-株式会社エフアンドシー（[F\&C](../Page/F&C.md "wikilink")）から独立した[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")の[☆画野朗](../Page/☆画野朗.md "wikilink")と[脚本家](../Page/脚本家.md "wikilink")の[トノイケダイスケ](https://ja.wikipedia.org/wiki/トノイケダイスケ "wikilink")が、有限会社[スタジオライン](../Page/スタジオライン.md "wikilink")の協力を受け\[1\]、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に設立した。
+株式会社エフアンドシー（[F\&C](../Page/F&C.md "wikilink")）から独立した[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")の[☆画野朗](../Page/☆画野朗.md "wikilink")と[脚本家](../Page/脚本家.md "wikilink")の[トノイケダイスケ](https://ja.wikipedia.org/wiki/トノイケダイスケ "wikilink")が、有限会社[スタジオライン](../Page/スタジオライン.md "wikilink")の協力を受け\[1\]、[2005年](../Page/2005年.md "wikilink")に設立した。
 
 姉妹ブランドに**Sphere**（スフィア）・**CUBE**（キューブ）・**MintCUBE**（ミントキューブ）・**Sonora**（ソノラ）がある。
 
@@ -15,8 +15,8 @@
 
 ### CUFFS
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月5日](../Page/8月5日.md "wikilink") - [さくらむすび](https://ja.wikipedia.org/wiki/さくらむすび "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月11日](../Page/8月11日.md "wikilink") - [ワンコとリリー](../Page/ワンコとリリー.md "wikilink")（[コミックマーケット](../Page/コミックマーケット.md "wikilink")70先行販売版）
+  - [2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink") - [さくらむすび](../Page/さくらむすび.md "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink") - [ワンコとリリー](../Page/ワンコとリリー.md "wikilink")（[コミックマーケット](../Page/コミックマーケット.md "wikilink")70先行販売版）
       - [2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ワンコとリリー（通常版）
   - 2007年[4月27日](../Page/4月27日.md "wikilink") - [アメサラサ 〜雨と、不思議な君に、恋をする〜](../Page/アメサラサ_〜雨と、不思議な君に、恋をする〜.md "wikilink")
   - 2007年[8月17日](../Page/8月17日.md "wikilink") - [おにいちゃんだぁいすき\! 〜LOVE? or LIKE?〜](https://ja.wikipedia.org/wiki/おにいちゃんだぁいすき!_〜LOVE?_or_LIKE?〜 "wikilink")（コミックマーケット72限定発売）
@@ -55,7 +55,7 @@
 
   - BGMおよび楽曲は[Peak A Soul+から提供されている](https://ja.wikipedia.org/wiki/Peak_A_Soul+ "wikilink")。特にオープニング曲やエンディング曲の多くを[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink")が歌唱している。『ヨスガノソラ』シリーズ、『あま恋シロップス』のみ例外である。
   - ほぼすべての作品が家族問題を扱った内容であり、『CAFE SOURIRE』などでは主人公を取り巻く複雑な家庭環境が物語の発端となる。　また、『ヨスガノソラ』及びそのファンディスクである『ハルカナソラ』、『夏ノ雨』、『イモウトノカタチ』、『倉野くんちのふたご事情』では実妹・実姉との恋愛を描いている。
-  - 2010年には『ヨスガノソラ』がテレビアニメ化され放映された。[アダルトゲームのテレビアニメ化では性描写は省かれるのが一般的だが](https://ja.wikipedia.org/wiki/アニメ化されたことがあるコンピュータゲーム一覧 "wikilink")、同作のアニメでは軽度ながらも性交渉を行うシーンが描かれ、先述の様に近親相姦を扱う内容でもあったため一部で問題となった。\[5\]詳細は[ヨスガノソラ](https://ja.wikipedia.org/wiki/ヨスガノソラ "wikilink")を参照。
+  - 2010年には『ヨスガノソラ』がテレビアニメ化され放映された。[アダルトゲームのテレビアニメ化では性描写は省かれるのが一般的だが](../Page/アニメ化されたことがあるコンピュータゲーム一覧.md "wikilink")、同作のアニメでは軽度ながらも性交渉を行うシーンが描かれ、先述の様に近親相姦を扱う内容でもあったため一部で問題となった。\[5\]詳細は[ヨスガノソラ](https://ja.wikipedia.org/wiki/ヨスガノソラ "wikilink")を参照。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[Id Software](https://ja.wikipedia.org/wiki/Id_Software)から翻訳されています。
 
 
-**id Software**（イド・ソフトウェア）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発会社。[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")郊外に本拠を置いている。代表作に[Commander Keen](https://ja.wikipedia.org/wiki/Commander_Keen "wikilink")、[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")([Doom 3](https://ja.wikipedia.org/wiki/Doom_3 "wikilink"))と[Quake](https://ja.wikipedia.org/wiki/Quake "wikilink")がある。
+**id Software**（イド・ソフトウェア）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発会社。[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")郊外に本拠を置いている。代表作に[Commander Keen](https://ja.wikipedia.org/wiki/Commander_Keen "wikilink")、[DOOM](../Page/DOOM.md "wikilink")([Doom 3](https://ja.wikipedia.org/wiki/Doom_3 "wikilink"))と[Quake](../Page/Quake.md "wikilink")がある。
 
 2007年6月11日（米国時間）[アップルの主催する](../Page/アップル_\(企業\).md "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")向けソフトウェア開発者のカンファレンス[WWDC](https://ja.wikipedia.org/wiki/WWDC "wikilink")2007（Worldwide Developers Conference 2007）にて、新世代ゲームエンジン[id TECH5を発表した](https://ja.wikipedia.org/wiki/id_TECH5 "wikilink")。
 

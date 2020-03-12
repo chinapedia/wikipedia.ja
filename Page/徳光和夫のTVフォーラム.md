@@ -1,13 +1,13 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**徳光和夫のTVフォーラム**』（とくみつかずおのテレビフォーラム）は、[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[松下電器グループの](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")\[1\]。日本テレビ系列局では1984年10月7日から1988年12月25日まで放送。
+『**徳光和夫のTVフォーラム**』（とくみつかずおのテレビフォーラム）は、[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[松下電器グループの](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[一社提供](../Page/一社提供.md "wikilink")\[1\]。日本テレビ系列局では1984年10月7日から1988年12月25日まで放送。
 
 ## 概要
 
-[徳光和夫](../Page/徳光和夫.md "wikilink")が司会を務めていた番組。内容は、グルメ・温泉・冠婚葬祭・旅行などの生活情報の紹介とニュースの解説が中心だった。初期にはゲストを迎えてのトークコーナーもあり、第1回では[高島忠夫](https://ja.wikipedia.org/wiki/高島忠夫 "wikilink")を招いていた。
+[徳光和夫](../Page/徳光和夫.md "wikilink")が司会を務めていた番組。内容は、グルメ・温泉・冠婚葬祭・旅行などの生活情報の紹介とニュースの解説が中心だった。初期にはゲストを迎えてのトークコーナーもあり、第1回では[高島忠夫](../Page/高島忠夫.md "wikilink")を招いていた。
 
-[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある[放送ライブラリー](https://ja.wikipedia.org/wiki/放送ライブラリー "wikilink")には、この番組の記録映像が5本保存されている\[2\]。
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある[放送ライブラリー](../Page/放送ライブラリー.md "wikilink")には、この番組の記録映像が5本保存されている\[2\]。
 
 ## 放送時間
 
@@ -22,7 +22,7 @@
 
   - [徳光和夫](../Page/徳光和夫.md "wikilink")（当時日本テレビアナウンサー） - メイン司会を担当。
   - [岡田美里](../Page/岡田美里.md "wikilink")
-  - [馬場憲治](https://ja.wikipedia.org/wiki/馬場憲治 "wikilink")
+  - [馬場憲治](../Page/馬場憲治.md "wikilink")
   - [加藤明美](https://ja.wikipedia.org/wiki/加藤明美_\(アナウンサー\) "wikilink")（当時日本テレビアナウンサー）
 
 ## スタッフ
@@ -55,7 +55,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -85,7 +85,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
@@ -173,7 +173,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県・岡山県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県・岡山県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
@@ -197,7 +197,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -257,7 +257,7 @@
 
 [Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:日本テレビの情報・ワイドショー番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:パナソニックグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:パナソニックグループ単独提供番組 "wikilink") [Category:日本テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの番組の歴史 "wikilink") [Category:徳光和夫](https://ja.wikipedia.org/wiki/Category:徳光和夫 "wikilink")
 
-1.  [松下グループとは別の組織で](../Page/パナソニックグループ.md "wikilink")、[松下電工](../Page/パナソニック電工.md "wikilink")、[ナショナル住宅産業](https://ja.wikipedia.org/wiki/パナソニック_ホームズ "wikilink")、[日本ビクター](../Page/日本ビクター.md "wikilink")、[宮田工業](https://ja.wikipedia.org/wiki/モリタ宮田工業 "wikilink")、[日本オーチス・エレベータ](../Page/日本オーチス・エレベータ.md "wikilink")などの一部を除いた企業で構成されていた。エンディングでは後提供を兼ねてグループ各社をロールスーパーで紹介するCMを放送していた。
+1.  [松下グループとは別の組織で](../Page/パナソニックグループ.md "wikilink")、[松下電工](../Page/パナソニック電工.md "wikilink")、[ナショナル住宅産業](../Page/パナソニック_ホームズ.md "wikilink")、[日本ビクター](../Page/日本ビクター.md "wikilink")、[宮田工業](../Page/モリタ宮田工業.md "wikilink")、[日本オーチス・エレベータ](../Page/日本オーチス・エレベータ.md "wikilink")などの一部を除いた企業で構成されていた。エンディングでは後提供を兼ねてグループ各社をロールスーパーで紹介するCMを放送していた。
 2.
 3.  当初は同時ネットだったが、後に同じ日の11:00 - 11:30に時差ネットするようになった。
 4.

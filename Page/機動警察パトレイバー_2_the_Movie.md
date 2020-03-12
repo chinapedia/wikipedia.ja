@@ -1,17 +1,17 @@
 > この記事は[ 2 the Movie](https://ja.wikipedia.org/wiki/_2_the_Movie)から翻訳されています。
 
 
-『**機動警察パトレイバー2 the Movie**』（きどうけいさつパトレイバー ツー ザ ムービー）は、[1993年に公開された](https://ja.wikipedia.org/wiki/1993年の映画 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション](../Page/アニメーション.md "wikilink")[映画](../Page/映画.md "wikilink")作品。
+『**機動警察パトレイバー2 the Movie**』（きどうけいさつパトレイバー ツー ザ ムービー）は、[1993年に公開された](../Page/1993年の映画.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション](../Page/アニメーション.md "wikilink")[映画](../Page/映画.md "wikilink")作品。
 
 ## あらすじ
 
-[1999年](../Page/1999年.md "wikilink")、[東南アジア](../Page/東南アジア.md "wikilink")某国で、[PKO部隊として日本から派遣された](https://ja.wikipedia.org/wiki/国際連合平和維持活動 "wikilink")[陸自](../Page/陸上自衛隊.md "wikilink")[レイバー](https://ja.wikipedia.org/wiki/機動警察パトレイバー#レイバー "wikilink")[小隊](../Page/小隊.md "wikilink")が、戦闘車輌を持つ[ゲリラ](https://ja.wikipedia.org/wiki/ゲリラ "wikilink")部隊と接触、本部からの発砲許可を得られないまま一方的に攻撃を受けて壊滅する。しかし一人の生存者がいた。破壊されたレイバーから脱出した彼がそこで見たのは、異教の神像が見下ろす古代遺跡であった。そして、彼は「[彼岸](../Page/彼岸.md "wikilink")の人」となった。
+[1999年](../Page/1999年.md "wikilink")、[東南アジア](../Page/東南アジア.md "wikilink")某国で、[PKO部隊として日本から派遣された](../Page/国際連合平和維持活動.md "wikilink")[陸自](../Page/陸上自衛隊.md "wikilink")[レイバー](https://ja.wikipedia.org/wiki/機動警察パトレイバー#レイバー "wikilink")[小隊](../Page/小隊.md "wikilink")が、戦闘車輌を持つ[ゲリラ](../Page/ゲリラ.md "wikilink")部隊と接触、本部からの発砲許可を得られないまま一方的に攻撃を受けて壊滅する。しかし一人の生存者がいた。破壊されたレイバーから脱出した彼がそこで見たのは、異教の神像が見下ろす古代遺跡であった。そして、彼は「[彼岸](../Page/彼岸.md "wikilink")の人」となった。
 
 [「方舟」の一件から](../Page/機動警察パトレイバー_the_Movie.md "wikilink")3年後の[2002年](../Page/2002年.md "wikilink")[冬](../Page/冬.md "wikilink")、かつての特車二課第2小隊の面々は、隊長の後藤と山崎を除いて新しい職場に異動し、それぞれの日々を送っていた。そんなある日、[横浜ベイブリッジ](https://ja.wikipedia.org/wiki/横浜ベイブリッジ "wikilink")で爆破事件が起こる。当初は自動車爆弾かと思われたが、[自衛隊](../Page/自衛隊.md "wikilink")の戦闘機F-16Jらしき飛行機から放たれた一発の[ミサイル](../Page/ミサイル.md "wikilink")によるものであることがテレビによって報道される。そして、これがすべての始まりであった。
 
-事件に関する様々な情報が錯綜する中、南雲と後藤の前に、陸幕調査部別室の荒川と名乗る男が現れ、「柘植行人（つげ ゆきひと）」という人物の捜索協力を依頼する。後藤は荒川の真意を測りかねて依頼を断るものの、直後に[バッジシステム](https://ja.wikipedia.org/wiki/バッジシステム "wikilink")への[ハッキング](https://ja.wikipedia.org/wiki/ハッキング "wikilink")によって、航空自衛隊三沢基地所属機による幻の東京爆撃が演出されるという事件が発生する。これに対して警察は、事件を利用して警察の権限強化を図る政治的思惑から、青森県警が三沢基地のゲート前で基地司令を拘束するなど、自衛隊に対して過剰な対抗行動に出るが、これにより各地の自衛隊基地や駐屯地が抗議のために外部との通信を絶って篭城する事態にまで発展し、政府は警察への不信感を募らせる。そんな中、ベイブリッジ爆破事件を調べていた松井刑事は、後藤から渡された荒川の資料を元に柘植と彼の組織を調べ始める。
+事件に関する様々な情報が錯綜する中、南雲と後藤の前に、陸幕調査部別室の荒川と名乗る男が現れ、「柘植行人（つげ ゆきひと）」という人物の捜索協力を依頼する。後藤は荒川の真意を測りかねて依頼を断るものの、直後に[バッジシステム](https://ja.wikipedia.org/wiki/バッジシステム "wikilink")への[ハッキング](../Page/ハッキング.md "wikilink")によって、航空自衛隊三沢基地所属機による幻の東京爆撃が演出されるという事件が発生する。これに対して警察は、事件を利用して警察の権限強化を図る政治的思惑から、青森県警が三沢基地のゲート前で基地司令を拘束するなど、自衛隊に対して過剰な対抗行動に出るが、これにより各地の自衛隊基地や駐屯地が抗議のために外部との通信を絶って篭城する事態にまで発展し、政府は警察への不信感を募らせる。そんな中、ベイブリッジ爆破事件を調べていた松井刑事は、後藤から渡された荒川の資料を元に柘植と彼の組織を調べ始める。
 
-その後も状況は悪化の一途を辿り、[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")の圧力もあって事態の早急な収拾を図ろうとした政府は、警察に事態悪化の責任を押し付け、警察の代役として自衛隊に東京への[治安出動](https://ja.wikipedia.org/wiki/治安出動 "wikilink")命令を下し、都内各地に陸上自衛隊の部隊が配置された。
+その後も状況は悪化の一途を辿り、[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")の圧力もあって事態の早急な収拾を図ろうとした政府は、警察に事態悪化の責任を押し付け、警察の代役として自衛隊に東京への[治安出動](../Page/治安出動.md "wikilink")命令を下し、都内各地に陸上自衛隊の部隊が配置された。
 
 そして雪の朝、東京湾の埋立地から3機の戦闘ヘリが飛び立つ。都内にある官民の通信施設、橋梁、警視庁本部庁舎は戦闘ヘリの銃爆撃を受け、通信ケーブル網は仕掛けられた爆弾で破壊され、特車二課も壊滅してしまう。さらに東京上空を周回する3機の無人飛行船から妨害電波が流され、都内に展開した自衛隊部隊は情報が途絶して孤立していった。東京を舞台にした仮想的な「戦争」が、現実のものとして創り出されていく。
 
@@ -25,33 +25,33 @@
 
   - 篠原遊馬 - [古川登志夫](../Page/古川登志夫.md "wikilink")
   - 泉野明 - [冨永みーな](../Page/冨永みーな.md "wikilink")
-  - 後藤喜一 - [大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
-  - 南雲しのぶ - [榊原良子](https://ja.wikipedia.org/wiki/榊原良子 "wikilink")
-  - 太田功 - [池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")
+  - 後藤喜一 - [大林隆介](../Page/大林隆介.md "wikilink")
+  - 南雲しのぶ - [榊原良子](../Page/榊原良子.md "wikilink")
+  - 太田功 - [池水通洋](../Page/池水通洋.md "wikilink")
   - 進士幹泰 - [二又一成](../Page/二又一成.md "wikilink")
-  - 山崎ひろみ - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
-  - シバシゲオ - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
-  - 榊清太郎 - [阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
-  - 松井刑事 - [西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+  - 山崎ひろみ - [郷里大輔](../Page/郷里大輔.md "wikilink")
+  - シバシゲオ - [千葉繁](../Page/千葉繁.md "wikilink")
+  - 榊清太郎 - [阪脩](../Page/阪脩.md "wikilink")
+  - 松井刑事 - [西村知道](../Page/西村知道.md "wikilink")
   - 荒川茂樹 - [竹中直人](../Page/竹中直人.md "wikilink")
-  - 柘植行人 - [根津甚八](https://ja.wikipedia.org/wiki/根津甚八_\(俳優\) "wikilink")
+  - 柘植行人 - [根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")
 
 ### サウンドリニューアル版追加キャスト
 
-  - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
-  - [佐藤政道](https://ja.wikipedia.org/wiki/佐藤政道 "wikilink")
+  - [中田譲治](../Page/中田譲治.md "wikilink")
+  - [佐藤政道](../Page/佐藤政道.md "wikilink")
   - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
   - [上田祐司](../Page/うえだゆうじ.md "wikilink")
-  - [岡野浩介](https://ja.wikipedia.org/wiki/岡野浩介 "wikilink")
-  - [伊崎寿克](https://ja.wikipedia.org/wiki/伊崎寿克 "wikilink")
-  - [室園丈裕](https://ja.wikipedia.org/wiki/室園丈裕 "wikilink")
-  - [坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
+  - [岡野浩介](../Page/岡野浩介.md "wikilink")
+  - [伊崎寿克](../Page/伊崎寿克.md "wikilink")
+  - [室園丈裕](../Page/室園丈裕.md "wikilink")
+  - [坪井智浩](../Page/坪井智浩.md "wikilink")
   - [関口英司](../Page/関口英司.md "wikilink")
 
 {{-}}
 
   - [秋山卓史](https://ja.wikipedia.org/wiki/秋山卓史 "wikilink")
-  - [清水敏孝](https://ja.wikipedia.org/wiki/清水敏孝 "wikilink")
+  - [清水敏孝](../Page/清水敏孝.md "wikilink")
 
 <!-- end list -->
 
@@ -59,8 +59,8 @@
   - [加藤照幸](https://ja.wikipedia.org/wiki/加藤照幸 "wikilink")
   - [栗原利充](https://ja.wikipedia.org/wiki/栗原利充 "wikilink")
   - [川越千夏](https://ja.wikipedia.org/wiki/川越千夏 "wikilink")
-  - [永田亮子](https://ja.wikipedia.org/wiki/永田亮子 "wikilink")
-  - [加藤奈々絵](https://ja.wikipedia.org/wiki/加藤奈々絵 "wikilink")
+  - [永田亮子](../Page/永田亮子.md "wikilink")
+  - [加藤奈々絵](../Page/加藤奈々絵.md "wikilink")
   - [島田美どり](https://ja.wikipedia.org/wiki/島田美どり "wikilink")
   - [GABU](https://ja.wikipedia.org/wiki/GABU "wikilink")
 
@@ -69,12 +69,12 @@
   - 監督 - [押井守](../Page/押井守.md "wikilink")
   - 企画・原作 - [ヘッドギア](https://ja.wikipedia.org/wiki/機動警察パトレイバー#ヘッドギア "wikilink")
   - 脚本 - [伊藤和典](../Page/伊藤和典.md "wikilink")
-  - 演出 - [西久保利彦](https://ja.wikipedia.org/wiki/西久保瑞穂 "wikilink")
-  - キャラクターデザイン - [高田明美](https://ja.wikipedia.org/wiki/高田明美 "wikilink")、[ゆうきまさみ](../Page/ゆうきまさみ.md "wikilink")
-  - メカニックデザイン - [出渕裕](../Page/出渕裕.md "wikilink")、[河森正治](../Page/河森正治.md "wikilink")、[カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")、[藤島康介](../Page/藤島康介.md "wikilink")、[佐山善則](https://ja.wikipedia.org/wiki/佐山善則 "wikilink")、[伊東守](https://ja.wikipedia.org/wiki/伊東守 "wikilink")
-  - 作画監督 - [黄瀬和哉](https://ja.wikipedia.org/wiki/黄瀬和哉 "wikilink")
-  - レイアウト - [渡部隆](https://ja.wikipedia.org/wiki/渡部隆 "wikilink")、[今敏](../Page/今敏.md "wikilink")、[竹内敦志](https://ja.wikipedia.org/wiki/竹内敦志 "wikilink")、水村良男、[荒川眞嗣](https://ja.wikipedia.org/wiki/荒川真嗣 "wikilink")、田中精美
-  - 原画 - [沖浦啓之](https://ja.wikipedia.org/wiki/沖浦啓之 "wikilink")、[竹内敦志](https://ja.wikipedia.org/wiki/竹内敦志 "wikilink")、水村良男、[村木靖](../Page/村木靖.md "wikilink")、[岸田隆宏](https://ja.wikipedia.org/wiki/岸田隆宏 "wikilink")、江村豊秋、大川こうぎ、[安藤真裕](https://ja.wikipedia.org/wiki/安藤真裕 "wikilink")、川名久美子、丹沢学、[濱名孝行](https://ja.wikipedia.org/wiki/浜名孝行 "wikilink")、高岡希一、武田一也、オグロアキラ、[荒川真嗣](https://ja.wikipedia.org/wiki/荒川真嗣 "wikilink")、[はばらのぶよし](../Page/羽原信義.md "wikilink")、安東信悦、音無竜之介、勝亦祥視、[石井明治](https://ja.wikipedia.org/wiki/石井明治 "wikilink")、[小森高博](https://ja.wikipedia.org/wiki/小森高博 "wikilink")、星和伸、[土器手司](https://ja.wikipedia.org/wiki/土器手司 "wikilink")、井口忠一、渡辺すみお、橋本浩一、[戸部敦夫](https://ja.wikipedia.org/wiki/戸部敦夫 "wikilink")、[藤田しげる](https://ja.wikipedia.org/wiki/藤田しげる "wikilink")、[菅沼栄治](../Page/菅沼栄治.md "wikilink")、高橋しんや、大上浩明、仲森文、児玉昌弘、[高見明男](../Page/高見明男.md "wikilink")
+  - 演出 - [西久保利彦](../Page/西久保瑞穂.md "wikilink")
+  - キャラクターデザイン - [高田明美](../Page/高田明美.md "wikilink")、[ゆうきまさみ](../Page/ゆうきまさみ.md "wikilink")
+  - メカニックデザイン - [出渕裕](../Page/出渕裕.md "wikilink")、[河森正治](../Page/河森正治.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[藤島康介](../Page/藤島康介.md "wikilink")、[佐山善則](https://ja.wikipedia.org/wiki/佐山善則 "wikilink")、[伊東守](https://ja.wikipedia.org/wiki/伊東守 "wikilink")
+  - 作画監督 - [黄瀬和哉](../Page/黄瀬和哉.md "wikilink")
+  - レイアウト - [渡部隆](https://ja.wikipedia.org/wiki/渡部隆 "wikilink")、[今敏](../Page/今敏.md "wikilink")、[竹内敦志](https://ja.wikipedia.org/wiki/竹内敦志 "wikilink")、水村良男、[荒川眞嗣](../Page/荒川真嗣.md "wikilink")、田中精美
+  - 原画 - [沖浦啓之](../Page/沖浦啓之.md "wikilink")、[竹内敦志](https://ja.wikipedia.org/wiki/竹内敦志 "wikilink")、水村良男、[村木靖](../Page/村木靖.md "wikilink")、[岸田隆宏](../Page/岸田隆宏.md "wikilink")、江村豊秋、大川こうぎ、[安藤真裕](https://ja.wikipedia.org/wiki/安藤真裕 "wikilink")、川名久美子、丹沢学、[濱名孝行](../Page/浜名孝行.md "wikilink")、高岡希一、武田一也、オグロアキラ、[荒川真嗣](../Page/荒川真嗣.md "wikilink")、[はばらのぶよし](../Page/羽原信義.md "wikilink")、安東信悦、音無竜之介、勝亦祥視、[石井明治](https://ja.wikipedia.org/wiki/石井明治 "wikilink")、[小森高博](https://ja.wikipedia.org/wiki/小森高博 "wikilink")、星和伸、[土器手司](../Page/土器手司.md "wikilink")、井口忠一、渡辺すみお、橋本浩一、[戸部敦夫](https://ja.wikipedia.org/wiki/戸部敦夫 "wikilink")、[藤田しげる](https://ja.wikipedia.org/wiki/藤田しげる "wikilink")、[菅沼栄治](../Page/菅沼栄治.md "wikilink")、高橋しんや、大上浩明、仲森文、児玉昌弘、[高見明男](../Page/高見明男.md "wikilink")
   - 色彩設計 - 遊佐久美子
   - 美術監督 - [小倉宏昌](../Page/小倉宏昌.md "wikilink")
   - 背景 - [武重洋二](https://ja.wikipedia.org/wiki/武重洋二 "wikilink")、[平田秀一](https://ja.wikipedia.org/wiki/平田秀一 "wikilink")、[黒田聡](https://ja.wikipedia.org/wiki/黒田聡 "wikilink")、甲斐政俊、廣瀬義憲、田村盛揮、荒井貞幸、池田祐二（スタジオワイエス）
@@ -83,9 +83,9 @@
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
   - 録音 - [浅梨なおこ](https://ja.wikipedia.org/wiki/浅梨なおこ "wikilink")
   - 編集 - [掛須秀一](../Page/掛須秀一.md "wikilink")（JSE）
-  - プロデューサー - 鵜之沢伸、濱渡剛、[石川光久](https://ja.wikipedia.org/wiki/石川光久 "wikilink")
+  - プロデューサー - 鵜之沢伸、濱渡剛、[石川光久](../Page/石川光久.md "wikilink")
   - エグゼクティブプロデューサー - 山科誠、植村徹
-  - コンピューターグラフィックス - [オムニバス・ジャパン](https://ja.wikipedia.org/wiki/オムニバス・ジャパン "wikilink")
+  - コンピューターグラフィックス - [オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
   - アニメーション制作 - [IG TATSUNOKO](../Page/プロダクション・アイジー.md "wikilink")
   - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")株式会社、株式会社[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、株式会社[イング](https://ja.wikipedia.org/wiki/IGポート "wikilink")
   - 配給 - [松竹](../Page/松竹.md "wikilink")株式会社
@@ -95,7 +95,7 @@
   - 監督 - 押井守
   - 録音演出 - [斯波重治](../Page/斯波重治.md "wikilink")
   - 調整 - 住谷真
-  - 効果 - [伊藤道廣](https://ja.wikipedia.org/wiki/伊藤道廣 "wikilink")＜[サウンドリング](https://ja.wikipedia.org/wiki/サウンドリング "wikilink")＞
+  - 効果 - [伊藤道廣](https://ja.wikipedia.org/wiki/伊藤道廣 "wikilink")＜[サウンドリング](../Page/サウンドリング.md "wikilink")＞
   - 録音助手 - 高野慎二、森本桂一郎
   - 録音スタジオ - [東京テレビセンター](https://ja.wikipedia.org/wiki/東京テレビセンター "wikilink")
   - 録音制作 - [オムニバスプロモーション](../Page/オムニバスプロモーション.md "wikilink")
@@ -104,13 +104,13 @@
   - 音楽制作デスク - 仲野智子、安田玲子
   - ミュージシャンコーディネーター - DAYBREAK、大竹茂
   - KEYBOARDS - 川井憲次
-  - CHORUS - 井出真理、斉藤裕美子、近藤薫、川俣由規子、[東京混声合唱団](https://ja.wikipedia.org/wiki/東京混声合唱団 "wikilink")
+  - CHORUS - 井出真理、斉藤裕美子、近藤薫、川俣由規子、[東京混声合唱団](../Page/東京混声合唱団.md "wikilink")
   - VIOLIN - 内田輝、宮内道子
   - STRINGS - 内田GROUP
   - 音楽録音・調整スタジオ - Bunkamura STUDIO、AUBE STUDIO
   - 音楽ディレクター - 国分浩安
   - スーパーバイザー - 大島満、松根文
-  - 音楽制作 - AUBE、[日本テレビ音楽](https://ja.wikipedia.org/wiki/日本テレビ音楽 "wikilink")、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")
+  - 音楽制作 - AUBE、[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")、[バップ](../Page/バップ.md "wikilink")
   - 協力 - [ドルビージャパン](../Page/ドルビーラボラトリーズ.md "wikilink")、伏木雅昭
   - 宣伝 - 熊谷淳
   - アシスタントプロデューサー - 桑島龍一、国崎久
@@ -170,7 +170,7 @@ CG技術が未発達の頃に制作された本作では、劇中でコンピュ
 
 [川井憲次](../Page/川井憲次.md "wikilink")によるサウンドトラックアルバムは三種類が発売されている。まず、劇場公開一週間前の[1993年](../Page/1993年.md "wikilink")8月1日には本編の予告編的な意味合いを持つイメージアルバム「PATLABOR 2 the Movie/PRE SOUNDTRACK」が発売され、続いて9月21日に正式な劇中サントラ盤となる「ORIGINAL SOUNDTRACK "P2"」が発売された。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発売の「PATLABOR 2 the Movie "SOUND RENEWAL"」は本作のDVDソフト化に際しリニューアル（再録音）された音源を収録している。
 
-劇中歌「おもひでのベイブリッジ」は前売りチケットマガジン付属のシングルCDに美桜かな子が歌ったバージョンが収録されている。また、のちに[VAPより単発のシングルCDとしても一般発売された](https://ja.wikipedia.org/wiki/バップ "wikilink")。こちらには美桜バージョンと劇中で使用されたカラオケ・バージョンの他に、「しのぶと喜一」([榊原良子](https://ja.wikipedia.org/wiki/榊原良子 "wikilink")と[大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink"))によるデュエット・バージョンも併せて収録されている\[6\]。
+劇中歌「おもひでのベイブリッジ」は前売りチケットマガジン付属のシングルCDに美桜かな子が歌ったバージョンが収録されている。また、のちに[VAPより単発のシングルCDとしても一般発売された](../Page/バップ.md "wikilink")。こちらには美桜バージョンと劇中で使用されたカラオケ・バージョンの他に、「しのぶと喜一」([榊原良子](../Page/榊原良子.md "wikilink")と[大林隆介](../Page/大林隆介.md "wikilink"))によるデュエット・バージョンも併せて収録されている\[6\]。
 
 ## 賞歴
 
@@ -239,7 +239,7 @@ CG技術が未発達の頃に制作された本作では、劇中でコンピュ
 1.  ただし、これは押井の認めるところであったか、演出ミスであったどうかは不明。
 2.  後に押井自ら手がけた小説版『TOKYO WAR』では、映画では割愛された部分が大幅に追加されている為、映画では描かれなかった彼らの様子も詳細に描写されている。劇場版には登場しなかった香貫花・クランシーについてもわずかに触れられているが、熊耳武緒についての記述は一切ない。この小説版はそんな映画版の補完の役目を担う一方、あらゆる面で『食』に対する押井のこだわりが書き綴られている。なお、これは押井にとっての小説処女作でもある。
 3.  なお、鳥の他に魚も押井が好むモチーフだが、これは聖書からの暗喩でもあるという。犬については押井本人の好み。押井が自ら執筆した本作のノベライズでは、柘植一味のヘルハウンド発進を目撃した男性の飼い犬には“ガブ”という名前が設定されており、これは当時の押井が飼っていたバセットハウンドの愛称(正式な名前はガブリエル)である。また、映像作品中(本作)で描かれた姿から、犬種も同じである。
-4.  設定上18号埋立地に隣接する[中央防波堤外側埋立地](https://ja.wikipedia.org/wiki/中央防波堤外側埋立地 "wikilink")を指す。
+4.  設定上18号埋立地に隣接する[中央防波堤外側埋立地](../Page/中央防波堤外側埋立地.md "wikilink")を指す。
 5.  アニメージュ叢書『すべての映画はアニメになる』（押井守著、pp.244、宮崎との対談）
 6.  当初この「おもひでのベイブリッジ」は冗談の様な軽い気持ちで作曲されたが、美桜かな子バージョンのレコーディングの際には「[演歌](../Page/演歌.md "wikilink")の鬼」の様な先生が同伴してきて美桜かな子に熱烈指導を始めた為、作曲を担当した川井の顔は徐々に青ざめていったという。
 7.

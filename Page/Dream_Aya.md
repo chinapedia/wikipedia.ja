@@ -51,7 +51,7 @@ SOEIプロダクションのスクール生であった\[2\]\[3\]。
 ### 連載
 
   - Dream Ayaのフォトコラム【フォトバイアヤ】（2017年11月 - 、TOKYO HEADLINE WEB）\[25\]
-  - Photo by Aya in ViVi（2018年6月号 - 2019年5月号、[ViVi](https://ja.wikipedia.org/wiki/ViVi "wikilink")）\[26\]
+  - Photo by Aya in ViVi（2018年6月号 - 2019年5月号、[ViVi](../Page/ViVi.md "wikilink")）\[26\]
   - Dream Ayaのココだけの話（2019年2月、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")）\[27\]
 
 ## 出演

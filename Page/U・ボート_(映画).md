@@ -1,7 +1,7 @@
 > この記事は[U \(\)](https://ja.wikipedia.org/wiki/U_\(\))から翻訳されています。
 
 
-『**U・ボート**』（原題：*Das Boot*、英題：*The Boat*）は、[1981年の](https://ja.wikipedia.org/wiki/1981年の映画 "wikilink")[西ドイツの](../Page/ドイツの映画.md "wikilink")[戦争映画](../Page/戦争映画.md "wikilink")。監督は[ウォルフガング・ペーターゼン](../Page/ウォルフガング・ペーターゼン.md "wikilink")、出演は[ユルゲン・プロホノフ](https://ja.wikipedia.org/wiki/ユルゲン・プロホノフ "wikilink")と[ヘルベルト・グレーネマイヤー](../Page/ヘルベルト・グレーネマイヤー.md "wikilink")など。日本での公開は1982年、[日本ヘラルド映画配給](../Page/角川ヘラルド・ピクチャーズ.md "wikilink")。1997年（日本では1999年5月1日）には、ペーターゼン自ら編集した[ディレクターズ・カット](https://ja.wikipedia.org/wiki/ディレクターズ・カット "wikilink")版が公開された。
+『**U・ボート**』（原題：*Das Boot*、英題：*The Boat*）は、[1981年の](../Page/1981年の映画.md "wikilink")[西ドイツの](../Page/ドイツの映画.md "wikilink")[戦争映画](../Page/戦争映画.md "wikilink")。監督は[ウォルフガング・ペーターゼン](../Page/ウォルフガング・ペーターゼン.md "wikilink")、出演は[ユルゲン・プロホノフ](../Page/ユルゲン・プロホノフ.md "wikilink")と[ヘルベルト・グレーネマイヤー](../Page/ヘルベルト・グレーネマイヤー.md "wikilink")など。日本での公開は1982年、[日本ヘラルド映画配給](../Page/角川ヘラルド・ピクチャーズ.md "wikilink")。1997年（日本では1999年5月1日）には、ペーターゼン自ら編集した[ディレクターズ・カット](../Page/ディレクターズ・カット.md "wikilink")版が公開された。
 
 ## 概要
 
@@ -9,20 +9,20 @@
 
 [1982年](../Page/1982年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で公開されると、同年の[アカデミー賞](../Page/アカデミー賞.md "wikilink")で6部門にノミネート（監督、撮影、視覚・音響効果、編集、音響、脚色）されるなど、国際的に広く評価された。また、監督・脚本を手がけたウォルフガング・ペーターゼンは、本作をきっかけにハリウッドへと進出することになった。
 
-構想から完成まで4年の歳月を費やし、3200万[マルク](https://ja.wikipedia.org/wiki/ドイツマルク "wikilink")（当時のレートで1850万ドル、約40億円）という巨額の製作費の下（ドイツ映画としては[1927年の](https://ja.wikipedia.org/wiki/1927年の映画 "wikilink")『[メトロポリス](https://ja.wikipedia.org/wiki/メトロポリス_\(1927年の映画\) "wikilink")』に次ぐ規模）でUボートの実物大レプリカが建造された。このセットを用いたリアルな艦内描写が作品の中心に据えられており、物語が進むにつれ薄汚れ・髭だらけになり匂い立つばかりにまで演出される乗組員の有り様が、他に類を見ない迫力を出している。本作の出演者は当時無名の俳優たちであったが、本作を出世作として以後活躍している者も少なくない。
+構想から完成まで4年の歳月を費やし、3200万[マルク](../Page/ドイツマルク.md "wikilink")（当時のレートで1850万ドル、約40億円）という巨額の製作費の下（ドイツ映画としては[1927年の](https://ja.wikipedia.org/wiki/1927年の映画 "wikilink")『[メトロポリス](../Page/メトロポリス_\(1927年の映画\).md "wikilink")』に次ぐ規模）でUボートの実物大レプリカが建造された。このセットを用いたリアルな艦内描写が作品の中心に据えられており、物語が進むにつれ薄汚れ・髭だらけになり匂い立つばかりにまで演出される乗組員の有り様が、他に類を見ない迫力を出している。本作の出演者は当時無名の俳優たちであったが、本作を出世作として以後活躍している者も少なくない。
 
 また、[クラウス・ドルディンガー](https://ja.wikipedia.org/wiki/クラウス・ドルディンガー "wikilink")によるテーマ曲は、[1991年](../Page/1991年.md "wikilink")にテクノ風にリミックスされヨーロッパを中心にヒットした。
 
 ## ストーリー
 
-第二次世界大戦中の[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")秋、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の占領下にあった[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")大西洋岸の[ラ・ロシェル](https://ja.wikipedia.org/wiki/ラ・ロシェル "wikilink")港から、1隻のUボート「[U96](https://ja.wikipedia.org/wiki/U-96_\(潜水艦・2代\) "wikilink")」が出航する。彼らに与えられた任務は、[大西洋](../Page/大西洋.md "wikilink")を航行する[連合国](../Page/連合国_\(第二次世界大戦\).md "wikilink")[護送船団](https://ja.wikipedia.org/wiki/護送船団 "wikilink")への攻撃であった。報道班員のヴェルナー少尉はUボートの戦いを取材するため、歴戦の艦長と古参のクルー、若者ばかりの水兵を乗せたU96に乗り込む。荒れ狂う北大西洋での孤独な索敵行、ようやく発見した敵船団への攻撃と戦果、海中で息を潜めながら聞く敵[駆逐艦](../Page/駆逐艦.md "wikilink")のソナー音と[爆雷](../Page/爆雷.md "wikilink")の恐怖、そして目の前に突きつけられた死に行く敵の姿。疲労したU96の乗組員たちは[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")には帰港できることを願うが、母国から届いた指令はイギリス軍の[地中海](../Page/地中海.md "wikilink")要衝である[ジブラルタル海峡](../Page/ジブラルタル海峡.md "wikilink")を突破して[イタリア](../Page/イタリア.md "wikilink")に向え、という過酷なものであった。中立国[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[ビゴにて偽装商船から補給を受けたU](../Page/ビーゴ_\(スペイン\).md "wikilink")96は、敵が厳しく警戒するジブラルタル海峡突破に挑む。艦長、ヴェルナー少尉、そして乗組員たちの前には非情な運命が待ち受けていた。
+第二次世界大戦中の[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")秋、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の占領下にあった[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")大西洋岸の[ラ・ロシェル](../Page/ラ・ロシェル.md "wikilink")港から、1隻のUボート「[U96](https://ja.wikipedia.org/wiki/U-96_\(潜水艦・2代\) "wikilink")」が出航する。彼らに与えられた任務は、[大西洋](../Page/大西洋.md "wikilink")を航行する[連合国](../Page/連合国_\(第二次世界大戦\).md "wikilink")[護送船団](../Page/護送船団.md "wikilink")への攻撃であった。報道班員のヴェルナー少尉はUボートの戦いを取材するため、歴戦の艦長と古参のクルー、若者ばかりの水兵を乗せたU96に乗り込む。荒れ狂う北大西洋での孤独な索敵行、ようやく発見した敵船団への攻撃と戦果、海中で息を潜めながら聞く敵[駆逐艦](../Page/駆逐艦.md "wikilink")のソナー音と[爆雷](../Page/爆雷.md "wikilink")の恐怖、そして目の前に突きつけられた死に行く敵の姿。疲労したU96の乗組員たちは[クリスマス](../Page/クリスマス.md "wikilink")には帰港できることを願うが、母国から届いた指令はイギリス軍の[地中海](../Page/地中海.md "wikilink")要衝である[ジブラルタル海峡](../Page/ジブラルタル海峡.md "wikilink")を突破して[イタリア](../Page/イタリア.md "wikilink")に向え、という過酷なものであった。中立国[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[ビゴにて偽装商船から補給を受けたU](../Page/ビーゴ_\(スペイン\).md "wikilink")96は、敵が厳しく警戒するジブラルタル海峡突破に挑む。艦長、ヴェルナー少尉、そして乗組員たちの前には非情な運命が待ち受けていた。
 
 ## 主な登場人物
 
 [Bundesarchiv_Bild_101II-MW-3483-05,_Heinrich_Lehmann-Willenbrock.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_101II-MW-3483-05,_Heinrich_Lehmann-Willenbrock.jpg "fig:Bundesarchiv_Bild_101II-MW-3483-05,_Heinrich_Lehmann-Willenbrock.jpg")[大尉](../Page/大尉.md "wikilink")（写真中央）。[1940年](../Page/1940年.md "wikilink")から[1942年](../Page/1942年.md "wikilink")までU96の艦長に就任、エース級の戦果を出した者のみに与えられる[騎士鉄十字章を叙勲している](https://ja.wikipedia.org/wiki/騎士鉄十字章#騎士鉄十字章 "wikilink")。\]\]
 
   - 艦長
-    [ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")[潜水艦](../Page/潜水艦.md "wikilink")「[U96](https://ja.wikipedia.org/wiki/U・ボート_\(映画\)#潜水艦U96 "wikilink")」の[艦長](https://ja.wikipedia.org/wiki/艦長 "wikilink")。階級は海軍大尉。部下からの正式な呼びかけはヘル・カピテーンロイトナント（大尉殿）であるが、ドイツ海軍全般の慣習により「ヘル・カーロイ」と略されている。歴戦のベテランであるが故に、前線の状況も知らずに大言壮語する上層部には冷ややかで、出撃に浮かれる若い乗組員には憂いの目を向ける。劇中では自国の[プロパガンダ](../Page/プロパガンダ.md "wikilink")放送に嫌気がさして、敢えて敵国イギリスの愛唱歌「[ティペラリー・ソング](https://ja.wikipedia.org/wiki/遥かなティペラリー "wikilink")」の[レコード](../Page/レコード.md "wikilink")をかけさせたこともあった。戦争前は[帆船](https://ja.wikipedia.org/wiki/帆船 "wikilink")の船乗りで、生粋の海の男である。モデルは、U96艦長でUボートエースの一人だった[ハインリヒ・レーマン=ヴィレンブロック](https://ja.wikipedia.org/wiki/ハインリヒ・レーマン＝ヴィレンブロック "wikilink")[大尉](../Page/大尉.md "wikilink")。彼も潜水艦乗りの前は水上艦勤務の経歴を持っていた。
+    [ドイツ海軍](../Page/ドイツ海軍.md "wikilink")[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")[潜水艦](../Page/潜水艦.md "wikilink")「[U96](https://ja.wikipedia.org/wiki/U・ボート_\(映画\)#潜水艦U96 "wikilink")」の[艦長](https://ja.wikipedia.org/wiki/艦長 "wikilink")。階級は海軍大尉。部下からの正式な呼びかけはヘル・カピテーンロイトナント（大尉殿）であるが、ドイツ海軍全般の慣習により「ヘル・カーロイ」と略されている。歴戦のベテランであるが故に、前線の状況も知らずに大言壮語する上層部には冷ややかで、出撃に浮かれる若い乗組員には憂いの目を向ける。劇中では自国の[プロパガンダ](../Page/プロパガンダ.md "wikilink")放送に嫌気がさして、敢えて敵国イギリスの愛唱歌「[ティペラリー・ソング](https://ja.wikipedia.org/wiki/遥かなティペラリー "wikilink")」の[レコード](../Page/レコード.md "wikilink")をかけさせたこともあった。戦争前は[帆船](https://ja.wikipedia.org/wiki/帆船 "wikilink")の船乗りで、生粋の海の男である。モデルは、U96艦長でUボートエースの一人だった[ハインリヒ・レーマン=ヴィレンブロック](https://ja.wikipedia.org/wiki/ハインリヒ・レーマン＝ヴィレンブロック "wikilink")[大尉](../Page/大尉.md "wikilink")。彼も潜水艦乗りの前は水上艦勤務の経歴を持っていた。
   - ヴェルナー少尉
     Uボートを取材するために同乗した海軍報道班員。海軍報道班員だった原作者のブーフハイムが潜水艦を取材した際の体験が投影されたキャラクター。専用のベッドを与えられるなど序盤は“お客様”扱いされていたが、徐々にUボートの戦いの過酷な現実を知る。テレビドラマ版では物語の語り部を務めている。
   - 機関長
@@ -38,7 +38,7 @@
   - ヨハン
     機関兵曹長。発令所から機関部に指示を出す機関長に対して、機関科の現場責任者。滅多に機関室から外に出ないため、（機関室の）“幽霊”と渾名される。出撃経験も少なくないが、敵[駆逐艦](../Page/駆逐艦.md "wikilink")からの激しい爆雷攻撃に錯乱してしまう。しかし、ジブラルタルでは自分の職責を果たした。
   - ヒンリッヒ兵曹
-    聴音・通信を担当し、[衛生兵](https://ja.wikipedia.org/wiki/衛生兵 "wikilink")も兼ねる。潜航中はヘッドフォンを耳に当てて音を頼りに外部の様子を探り、負傷者には献身的な手当てをする。持ち場が艦長室の向かいにあるため、艦長と会話する場面も多い。
+    聴音・通信を担当し、[衛生兵](../Page/衛生兵.md "wikilink")も兼ねる。潜航中はヘッドフォンを耳に当てて音を頼りに外部の様子を探り、負傷者には献身的な手当てをする。持ち場が艦長室の向かいにあるため、艦長と会話する場面も多い。
   - ランプレヒト兵曹長
     水兵をまとめあげる役目を担う。出港後すぐヴェルナーに艦内を案内する。魚雷命中の際に興奮して水兵を騒がせてしまい、あわてて黙らせた。無線で届いたサッカーの試合の結果に激しく落胆するなど感情豊かな人物。ディレクターズ・カット版の冒頭では泥酔しており、出撃前夜祭に向かう艦長の車を止めた。
   - ピルグリム二等兵曹
@@ -48,7 +48,7 @@
   - その他の兵士たち
     平均年齢19歳で構成される経験の浅い水兵。現実主義者の艦長からは「[子供十字軍](https://ja.wikipedia.org/wiki/子供十字軍 "wikilink")」だと思われている。
   - フィリップ・トムゼン大尉
-    ヴェルナー達の出航前日に帰港してきた歴戦のUボート艦長。戦功により[騎士十字章を受章し](https://ja.wikipedia.org/wiki/騎士鉄十字章 "wikilink")、港の酒場には部下たちと共に酩酊した状態で現れるが、翌朝のU96の出港を沈鬱な表情で見送る。次の任務では離れた場所で哨戒をしているはずが、悪天候や潮流の影響もあり洋上で鉢合わせしてしまう。
+    ヴェルナー達の出航前日に帰港してきた歴戦のUボート艦長。戦功により[騎士十字章を受章し](../Page/騎士鉄十字章.md "wikilink")、港の酒場には部下たちと共に酩酊した状態で現れるが、翌朝のU96の出港を沈鬱な表情で見送る。次の任務では離れた場所で哨戒をしているはずが、悪天候や潮流の影響もあり洋上で鉢合わせしてしまう。
 
 ## キャスト
 
@@ -68,7 +68,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>艦長</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユルゲン・プロホノフ" title="wikilink">ユルゲン・プロホノフ</a></p></td>
+<td><p><a href="../Page/ユルゲン・プロホノフ.md" title="wikilink">ユルゲン・プロホノフ</a></p></td>
 <td><p><a href="../Page/羽佐間道夫.md" title="wikilink">羽佐間道夫</a></p></td>
 </tr>
 <tr class="odd">
@@ -79,22 +79,22 @@
 <tr class="even">
 <td><p><strong>機関長</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林恭治" title="wikilink">小林恭治</a></p></td>
+<td><p><a href="../Page/小林恭治.md" title="wikilink">小林恭治</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>第一当直士官</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本大_(声優)" title="wikilink">松本大</a></p></td>
+<td><p><a href="../Page/松本大_(声優).md" title="wikilink">松本大</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>第二当直士官</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桑原たけし" title="wikilink">桑原たけし</a></p></td>
+<td><p><a href="../Page/桑原たけし.md" title="wikilink">桑原たけし</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>一等航海士</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西尾徳" title="wikilink">西尾徳</a></p></td>
+<td><p><a href="../Page/西尾徳.md" title="wikilink">西尾徳</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>ヨハン</strong></p></td>
@@ -109,17 +109,17 @@
 <tr class="even">
 <td><p><strong>ヒンリッヒ</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/緒方文興" title="wikilink">緒方文興</a></p></td>
+<td><p><a href="../Page/緒方文興.md" title="wikilink">緒方文興</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>兵曹長</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遠近孝一" title="wikilink">遠近孝一</a></p></td>
+<td><p><a href="../Page/遠近孝一.md" title="wikilink">遠近孝一</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>アリオ</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大友龍三郎" title="wikilink">大友龍三郎</a></p></td>
+<td><p><a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>ピルグリム</strong></p></td>
@@ -134,13 +134,13 @@
 <tr class="odd">
 <td><p><small>役不明又はその他</small></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/篠原まさのり" title="wikilink">篠原正典</a><br />
-<a href="https://ja.wikipedia.org/wiki/岸野一彦" title="wikilink">岸野一彦</a><br />
+<td><p><a href="../Page/篠原まさのり.md" title="wikilink">篠原正典</a><br />
+<a href="../Page/岸野一彦.md" title="wikilink">岸野一彦</a><br />
 <a href="https://ja.wikipedia.org/wiki/佐田明" title="wikilink">佐田明</a><br />
 <a href="https://ja.wikipedia.org/wiki/寺床秀太" title="wikilink">寺床秀太</a><br />
-<a href="https://ja.wikipedia.org/wiki/宮田光" title="wikilink">宮田光</a><br />
-<a href="https://ja.wikipedia.org/wiki/鈴木弘子" title="wikilink">鈴木弘子</a><br />
-<a href="https://ja.wikipedia.org/wiki/金野恵子" title="wikilink">金野恵子</a></p></td>
+<a href="../Page/宮田光.md" title="wikilink">宮田光</a><br />
+<a href="../Page/鈴木弘子.md" title="wikilink">鈴木弘子</a><br />
+<a href="../Page/金野恵子.md" title="wikilink">金野恵子</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -195,9 +195,9 @@
 
 ## 潜水艦U96
 
-[U-96_Model.jpg](https://ja.wikipedia.org/wiki/File:U-96_Model.jpg "fig:U-96_Model.jpg")のハンブルク国際海事博物館に展示されている[VIIC型](https://ja.wikipedia.org/wiki/UボートVII型 "wikilink")[U96の模型](https://ja.wikipedia.org/wiki/U-96_\(潜水艦・2代\) "wikilink")。左上には「笑うノコギリザメ」のエンブレム、右下にはブーフハイムの原作本「Das Boot」がある。\]\] [Baselapallice08.jpg](https://ja.wikipedia.org/wiki/File:Baselapallice08.jpg "fig:Baselapallice08.jpg")の[ラ・ロシェル](https://ja.wikipedia.org/wiki/ラ・ロシェル "wikilink")で撮影に使用された[Uボート・ブンカー](../Page/Uボート・ブンカー.md "wikilink")（整備と防空機能を兼ねた係留施設）。\]\] 本作で主人公艦として扱われるUボートは一般に「U96」と称される。原作では「UA」と表記されているが、作者のブーフハイムが戦時中にそのU96に同乗取材していたことや、艦橋両舷に描かれた「**笑うノコギリザメ**」のマーキングが実在のU96のものと同一であることから、DVDの字幕などでも「U96」の表記が見られる様になった。
+[U-96_Model.jpg](https://ja.wikipedia.org/wiki/File:U-96_Model.jpg "fig:U-96_Model.jpg")のハンブルク国際海事博物館に展示されている[VIIC型](../Page/UボートVII型.md "wikilink")[U96の模型](https://ja.wikipedia.org/wiki/U-96_\(潜水艦・2代\) "wikilink")。左上には「笑うノコギリザメ」のエンブレム、右下にはブーフハイムの原作本「Das Boot」がある。\]\] [Baselapallice08.jpg](https://ja.wikipedia.org/wiki/File:Baselapallice08.jpg "fig:Baselapallice08.jpg")の[ラ・ロシェル](../Page/ラ・ロシェル.md "wikilink")で撮影に使用された[Uボート・ブンカー](../Page/Uボート・ブンカー.md "wikilink")（整備と防空機能を兼ねた係留施設）。\]\] 本作で主人公艦として扱われるUボートは一般に「U96」と称される。原作では「UA」と表記されているが、作者のブーフハイムが戦時中にそのU96に同乗取材していたことや、艦橋両舷に描かれた「**笑うノコギリザメ**」のマーキングが実在のU96のものと同一であることから、DVDの字幕などでも「U96」の表記が見られる様になった。
 
-実在のU96は、第二次世界大戦期に最も多い659隻が建造された[VIIC型と呼ばれる中型Uボートの](https://ja.wikipedia.org/wiki/UボートVII型 "wikilink")1隻である。[1939年](../Page/1939年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")起工、[1940年](../Page/1940年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")竣工し、本作の「艦長」のモデルとされるヴィレンブロック大尉が初代艦長を務めた。同艦長のもと[1943年](../Page/1943年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")までに8回出撃し、28隻・199087tを撃沈破した。この功績により潜水戦隊司令へと栄転したヴィレンブロックが下艦した後も別の艦長の指揮のもと活動を続け、1943年3月に前線を退いて訓練艦となり、[1945年](../Page/1945年.md "wikilink")2月に除籍となったあと、1945年[3月30日](../Page/3月30日.md "wikilink")に[ヴィルヘルムスハーフェン](https://ja.wikipedia.org/wiki/ヴィルヘルムスハーフェン "wikilink")にてアメリカ軍の攻撃により沈没。連合軍の対潜戦術向上により作戦行動中に撃沈されたUボートが多い中、計11度もの作戦行動を生き延びた稀有な例である。
+実在のU96は、第二次世界大戦期に最も多い659隻が建造された[VIIC型と呼ばれる中型Uボートの](../Page/UボートVII型.md "wikilink")1隻である。[1939年](../Page/1939年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")起工、[1940年](../Page/1940年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")竣工し、本作の「艦長」のモデルとされるヴィレンブロック大尉が初代艦長を務めた。同艦長のもと[1943年](../Page/1943年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")までに8回出撃し、28隻・199087tを撃沈破した。この功績により潜水戦隊司令へと栄転したヴィレンブロックが下艦した後も別の艦長の指揮のもと活動を続け、1943年3月に前線を退いて訓練艦となり、[1945年](../Page/1945年.md "wikilink")2月に除籍となったあと、1945年[3月30日](../Page/3月30日.md "wikilink")に[ヴィルヘルムスハーフェン](../Page/ヴィルヘルムスハーフェン.md "wikilink")にてアメリカ軍の攻撃により沈没。連合軍の対潜戦術向上により作戦行動中に撃沈されたUボートが多い中、計11度もの作戦行動を生き延びた稀有な例である。
 
 「U96」という明確なモデルは存在するものの、劇中に描かれる哨戒行動及び戦闘は概ねフィクションである。物語中に描かれる1941年秋頃には、実艦のU96もヴィレンブロック艦長のもとで哨戒任務を行っていたが、連合軍の対潜戦術の向上や船団護衛方針の転換によってか、戦果虚しく帰港している。また、登場人物の運命もモデルとなった人物のものとは少なからず異なっている。
 
@@ -224,7 +224,7 @@
 ### DVD
 
   - 『U・ボート ディレクターズ・カット』（パイオニアLDC（現ジェネオン・エンタテインメント））、[1999年](../Page/1999年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")）
-  - 『U・ボート ディレクターズ・カット』（ジェネオン・エンタテインメント、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）※上記のリパッケージ版。
+  - 『U・ボート ディレクターズ・カット』（ジェネオン・エンタテインメント、[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）※上記のリパッケージ版。
   - 『U・ボート パーフェクト・コレクション』（ジェネオン・エンタテインメント、2005年1月26日）『ディレクターズ・カット』、『TVシリーズ』、『オリジナル劇場版』を同梱した限定セット。
   - 『U・ボート TVシリーズ完全版』（ジェネオン・エンタテインメント、2005年1月26日）
   - 『U・ボート ディレクターズ・カット』（角川書店、[2011年](../Page/2011年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")）※『ディレクターズ・カット』の廉価盤

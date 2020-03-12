@@ -7,13 +7,13 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Maiko-koen_st01s3872.jpg "wikilink") 舞子駅前地区第一種市街地再開発事業によって建設された。 Tioは、「トラフィック」「インフォメーション」「オアシス」の頭文字。 2001年3月にオープンした。
 
-規模は地上26階、地下1階、高さ101 [m](../Page/メートル.md "wikilink")。低層部は商業施設、[カルチャーセンター](https://ja.wikipedia.org/wiki/カルチャーセンター "wikilink")で、高層部は展望レストラン、住宅というフロア構成である。
+規模は地上26階、地下1階、高さ101 [m](../Page/メートル.md "wikilink")。低層部は商業施設、[カルチャーセンター](../Page/カルチャーセンター.md "wikilink")で、高層部は展望レストラン、住宅というフロア構成である。
 
-三方を[山陽電鉄](https://ja.wikipedia.org/wiki/山陽電鉄 "wikilink")と[JR神戸線](../Page/JR神戸線.md "wikilink")と[神戸淡路鳴門自動車道](../Page/神戸淡路鳴門自動車道.md "wikilink")に囲まれた土地に建てられたビルで、JR[舞子駅](https://ja.wikipedia.org/wiki/舞子駅 "wikilink")と山陽電鉄[舞子公園駅](../Page/舞子公園駅.md "wikilink")に直結する。 また[明石海峡大橋](../Page/明石海峡大橋.md "wikilink")の本州側の袂に位置し、[高速舞子バスターミナルにも直結する](https://ja.wikipedia.org/wiki/舞子バスストップ "wikilink")。
+三方を[山陽電鉄](https://ja.wikipedia.org/wiki/山陽電鉄 "wikilink")と[JR神戸線](../Page/JR神戸線.md "wikilink")と[神戸淡路鳴門自動車道](../Page/神戸淡路鳴門自動車道.md "wikilink")に囲まれた土地に建てられたビルで、JR[舞子駅](https://ja.wikipedia.org/wiki/舞子駅 "wikilink")と山陽電鉄[舞子公園駅](../Page/舞子公園駅.md "wikilink")に直結する。 また[明石海峡大橋](../Page/明石海峡大橋.md "wikilink")の本州側の袂に位置し、[高速舞子バスターミナルにも直結する](../Page/舞子バスストップ.md "wikilink")。
 
 ## 建築概要
 
-  - 設計 - [日建設計](https://ja.wikipedia.org/wiki/日建設計 "wikilink")
+  - 設計 - [日建設計](../Page/日建設計.md "wikilink")
   - 最高部 - 101 m
   - 規模 - 地上26階、塔屋1階、地下1階
   - 敷地面積 - 6,061 [m<sup>2</sup>](../Page/平方メートル.md "wikilink")

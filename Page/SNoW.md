@@ -1,17 +1,17 @@
 > この記事は[SNoW](https://ja.wikipedia.org/wiki/SNoW)から翻訳されています。
 
 
-**SNoW**（スノー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月11日](../Page/6月11日.md "wikilink") - ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、LA育ちのシンガーソングライター。
+**SNoW**（スノー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月11日](../Page/6月11日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身、LA育ちのシンガーソングライター。
 
 ## 経歴
 
-2004年11月、[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")よりファーストシングル「Yes」をリリース。翌2005年には[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")に移籍し、7月にメジャーデビューシングル「花火まであとすこし」を発売。 メジャーデビュー、立て続けに3枚のシングルをリリース。
+2004年11月、[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")よりファーストシングル「Yes」をリリース。翌2005年には[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")に移籍し、7月にメジャーデビューシングル「花火まであとすこし」を発売。 メジャーデビュー、立て続けに3枚のシングルをリリース。
 
-3枚目シングル「[逆さまの蝶](../Page/逆さまの蝶.md "wikilink")」は、TVアニメ『[地獄少女](https://ja.wikipedia.org/wiki/地獄少女 "wikilink")』のオープニングテーマとなったほか、2006年2月公開の映画『[ユモレスク 〜逆さまの蝶〜](https://ja.wikipedia.org/wiki/ユモレスク_〜逆さまの蝶〜 "wikilink")』と[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")、挿入歌としても使われている。5万枚に達するロングセラーを記録。
+3枚目シングル「[逆さまの蝶](../Page/逆さまの蝶.md "wikilink")」は、TVアニメ『[地獄少女](https://ja.wikipedia.org/wiki/地獄少女 "wikilink")』のオープニングテーマとなったほか、2006年2月公開の映画『[ユモレスク 〜逆さまの蝶〜](https://ja.wikipedia.org/wiki/ユモレスク_〜逆さまの蝶〜 "wikilink")』と[コラボレーション](../Page/コラボレーション.md "wikilink")、挿入歌としても使われている。5万枚に達するロングセラーを記録。
 
 2007年1月に1st アルバム「初雪」を発表。
 
-2007年7月、[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")との契約を解消。
+2007年7月、[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")との契約を解消。
 
 2008年4月、**Yukie**という名義で[SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")のセルフカバー「[そばにいるね](../Page/そばにいるね_\(青山テルマの曲\).md "wikilink")」にフィーチャリングされる。
 
@@ -36,7 +36,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>
@@ -109,7 +109,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 </tr>
 </thead>

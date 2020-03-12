@@ -1,7 +1,7 @@
 > この記事は[Rand](https://ja.wikipedia.org/wiki/Rand)から翻訳されています。
 
 
-**rand**は、引き続く呼び出しが[擬似乱数](../Page/擬似乱数.md "wikilink")列を返すような[関数に付けられる名前である](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")。**ランド**、**ランダム**と呼ばれている。以下、主に[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")のそれについて説明する。
+**rand**は、引き続く呼び出しが[擬似乱数](../Page/擬似乱数.md "wikilink")列を返すような[関数に付けられる名前である](../Page/サブルーチン.md "wikilink")。**ランド**、**ランダム**と呼ばれている。以下、主に[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")のそれについて説明する。
 
 ## 概要
 

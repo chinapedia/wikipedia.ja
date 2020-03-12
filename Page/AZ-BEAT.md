@@ -6,7 +6,7 @@
 ## 概要
 
   -
-    タイトル中の“BEAT”のとおり、ビート感のある洋楽をノンストップで流していた。男性による、番組名・曲名等の簡単な英語ナビゲートがあったが、WEB上で情報が一切公開されておらず、氏名等は一切不明である。途中、[LIFE INFORMATIONとCMが挿入された](https://ja.wikipedia.org/wiki/J-WAVE_LIFE_INFORMATION "wikilink")。
+    タイトル中の“BEAT”のとおり、ビート感のある洋楽をノンストップで流していた。男性による、番組名・曲名等の簡単な英語ナビゲートがあったが、WEB上で情報が一切公開されておらず、氏名等は一切不明である。途中、[LIFE INFORMATIONとCMが挿入された](../Page/J-WAVE_LIFE_INFORMATION.md "wikilink")。
     この番組はJ-WAVE開局当初から放送していた、AZ-WAVE（下段参照）の流れを汲むもので、開始当初は土曜9回・日曜9回と週末に複数回放送され、雰囲気の異なる番組間をつなぐ役割も果たしていた。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（当時はAZ-WAVE）から[2000年](../Page/2000年.md "wikilink")にかけて、土曜深夜28:30-29:00（日曜早朝4:30-5:00）のAZ-BEATは[石野卓球](../Page/石野卓球.md "wikilink")によるノンストップDJミックスを放送していた。
 
 ## 放送時間・放送回数の変遷
@@ -30,12 +30,12 @@
 
 番組終了時点のもの
 
-  - 16:30 [SUPER LINE'J'から](https://ja.wikipedia.org/wiki/SUPER_LINE'J' "wikilink")[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")なしでWEATHER INFORMATION。
+  - 16:30 [SUPER LINE'J'から](../Page/SUPER_LINE'J'.md "wikilink")[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")なしでWEATHER INFORMATION。
 
 <!-- end list -->
 
   -
-    [スペシャルウィーク中は](../Page/聴取率.md "wikilink")[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")による土曜日の番組情報の後WEATHER INFORMATION。
+    [スペシャルウィーク中は](../Page/聴取率.md "wikilink")[秀島史香](../Page/秀島史香.md "wikilink")による土曜日の番組情報の後WEATHER INFORMATION。
 
 <!-- end list -->
 
@@ -53,13 +53,13 @@
   -
     個性の強い各番組間の流れを調和させるとともに、時間の流れを断ち切らないという局コンセプト維持の目的で、平日の夜と土・日のほぼ終日に、各20～30分間設けられた、ノンストップ・ミュージック・ゾーンである。当初は、掛かる楽曲は[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")、[スムースジャズ](https://ja.wikipedia.org/wiki/スムースジャズ "wikilink")や[ニューエイジ系などのインストゥルメンタルのものが主流であった](../Page/ニューエイジ・ミュージック.md "wikilink")。
     タイトル中の“AZ”は、当時J-WAVEの局舎が存在した西麻布を指すものとされる。なお、前述のAZ-BEATに移行後の2003年に、局舎が西麻布から[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")に移転している。
-    当初はナビゲーターが付けられておらず、CMに入る前に、局名や局コンセプトの英語ナレーションが入る程度で、番組名のコールは無い状態であったが、1990年代後半に入ってから、[ルーシー・ケント](https://ja.wikipedia.org/wiki/ルーシー・ケント "wikilink")、[南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")、[福ノ上達也](../Page/福ノ上達也.md "wikilink")等のナビゲーターが付けられた。
+    当初はナビゲーターが付けられておらず、CMに入る前に、局名や局コンセプトの英語ナレーションが入る程度で、番組名のコールは無い状態であったが、1990年代後半に入ってから、[ルーシー・ケント](../Page/ルーシー・ケント.md "wikilink")、[南美布](../Page/南美布.md "wikilink")、[福ノ上達也](../Page/福ノ上達也.md "wikilink")等のナビゲーターが付けられた。
     1999年に、土・日曜の放送枠をAZ-BEATに変更し、平日に残った22:30-23:00と23:30-24:00（但し、それぞれ、[BMW](../Page/BMW.md "wikilink") SENSE & EMOTIONと、[DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") BEAT ON THE ROADというミニ番組を内包しており、当初のコンセプトの番組としては殆ど消滅状態であった）の枠は、2000年3月に終了した。
 
 ## 関連番組
 
-  - [VOICE...](https://ja.wikipedia.org/wiki/VOICE... "wikilink")
-  - ['AZ'-STATION J-WAVE](https://ja.wikipedia.org/wiki/'AZ'-STATION_J-WAVE "wikilink")
+  - [VOICE...](../Page/VOICE....md "wikilink")
+  - ['AZ'-STATION J-WAVE](../Page/'AZ'-STATION_J-WAVE.md "wikilink")
 
 ## 外部リンク
 

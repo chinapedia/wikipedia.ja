@@ -1,13 +1,13 @@
 > この記事は[OECD](https://ja.wikipedia.org/wiki/OECD)から翻訳されています。
 
 
-**OECD生徒の学習到達度調査**（OECDせいとのがくしゅうとうたつどちょうさ、）とは、[経済協力開発機構](https://ja.wikipedia.org/wiki/経済協力開発機構 "wikilink")（OECD）による[国際](https://ja.wikipedia.org/wiki/国際 "wikilink")的な[生徒の](https://ja.wikipedia.org/wiki/在学生 "wikilink")[学習](../Page/学習.md "wikilink")到達度[調査](https://ja.wikipedia.org/wiki/調査 "wikilink")のこと。日本では「国際学習到達度調査」とも言われるが、英語の原文は『**国際生徒評価のためのプログラム**』である。
+**OECD生徒の学習到達度調査**（OECDせいとのがくしゅうとうたつどちょうさ、）とは、[経済協力開発機構](../Page/経済協力開発機構.md "wikilink")（OECD）による[国際](https://ja.wikipedia.org/wiki/国際 "wikilink")的な[生徒の](https://ja.wikipedia.org/wiki/在学生 "wikilink")[学習](../Page/学習.md "wikilink")到達度[調査](../Page/調査.md "wikilink")のこと。日本では「国際学習到達度調査」とも言われるが、英語の原文は『**国際生徒評価のためのプログラム**』である。
 
 この項では[概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")、[調査方法ならびに](https://ja.wikipedia.org/wiki/#調査方法 "wikilink")[その直接的結果についてのみ述べる](https://ja.wikipedia.org/wiki/#その直接的結果 "wikilink")。[文部科学省](../Page/文部科学省.md "wikilink")による詳細な結果や、PISA自体については[外部リンクを](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")、結果の評価、解釈、影響等については[関連項目を参照されたい](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")。
 
 ## 概要
 
-[OECD加盟国の多くで](https://ja.wikipedia.org/wiki/経済協力開発機構 "wikilink")[義務教育](https://ja.wikipedia.org/wiki/義務教育 "wikilink")の終了段階にある15歳の生徒を対象に、読解力、数学知識、科学知識、[問題解決](../Page/問題解決.md "wikilink")を調査するもの。国際比較により教育方法を改善し標準化する観点から、生徒の成績を研究することを目的としている。調査プログラムの開発が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に始まり、第1回調査は[2000年](../Page/2000年.md "wikilink")、以後3年毎に調査することになっている。2000年の第1回調査、[2003年](../Page/2003年.md "wikilink")の第2回調査、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の第3回調査の結果については、国際報告書をもとに日本国内向けに翻訳した形で[国立教育政策研究所](https://ja.wikipedia.org/wiki/国立教育政策研究所 "wikilink")が編纂し、[ぎょうせい](https://ja.wikipedia.org/wiki/ぎょうせい "wikilink")から出版されている。
+[OECD加盟国の多くで](../Page/経済協力開発機構.md "wikilink")[義務教育](../Page/義務教育.md "wikilink")の終了段階にある15歳の生徒を対象に、読解力、数学知識、科学知識、[問題解決](../Page/問題解決.md "wikilink")を調査するもの。国際比較により教育方法を改善し標準化する観点から、生徒の成績を研究することを目的としている。調査プログラムの開発が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に始まり、第1回調査は[2000年](../Page/2000年.md "wikilink")、以後3年毎に調査することになっている。2000年の第1回調査、[2003年](../Page/2003年.md "wikilink")の第2回調査、[2006年](../Page/2006年.md "wikilink")の第3回調査の結果については、国際報告書をもとに日本国内向けに翻訳した形で[国立教育政策研究所](../Page/国立教育政策研究所.md "wikilink")が編纂し、[ぎょうせい](../Page/ぎょうせい.md "wikilink")から出版されている。
 
 調査は、毎回メインテーマが存在し、読解力、数学的知識、科学的知識の順番でメインテーマが移っていく。そのため、2000年は読解力、2003年は数学的リテラシー、2006年は科学的リテラシー、[2009年](../Page/2009年.md "wikilink")は読解力、[2012年](../Page/2012年.md "wikilink")は数学的リテラシーをメインテーマとして扱っており、[2015年](../Page/2015年.md "wikilink")は科学的リテラシーをメインテーマで扱う予定である\[1\]。
 
@@ -49,7 +49,7 @@ OECD加盟国28か国を含む32か国、約26万5000人の生徒が参加。各
 </tr>
 <tr class="even">
 <td><p>4.</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィンランド" title="wikilink">フィンランド</a></p></td>
+<td><p><a href="../Page/フィンランド.md" title="wikilink">フィンランド</a></p></td>
 <td><p>536</p></td>
 </tr>
 <tr class="odd">

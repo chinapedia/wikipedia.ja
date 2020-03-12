@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")の留学に伴い終了した『[VIVA\! ACCESS](https://ja.wikipedia.org/wiki/VIVA!_ACCESS "wikilink")』のあとをうけ、同じ時間帯での音楽リクエスト番組としてスタートした。同年3月にJ-WAVEのウェブサイトがリニューアル。その目玉が「[ブログ](../Page/ブログ.md "wikilink")の導入」であり、この新方針に際して、当番組は番組サイトコンテンツをすべて[Movable Typeによって管理する最前線に当たる番組となった](../Page/Movable_Type.md "wikilink")。このため番組内でもインターネットに関係する内容が多い。また2009年12月からは[Twitter](../Page/Twitter.md "wikilink")アカウントを開設、さらに[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")でスタジオ内の映像のライブ配信を行っている。
+[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[南美布](../Page/南美布.md "wikilink")の留学に伴い終了した『[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink")』のあとをうけ、同じ時間帯での音楽リクエスト番組としてスタートした。同年3月にJ-WAVEのウェブサイトがリニューアル。その目玉が「[ブログ](../Page/ブログ.md "wikilink")の導入」であり、この新方針に際して、当番組は番組サイトコンテンツをすべて[Movable Typeによって管理する最前線に当たる番組となった](../Page/Movable_Type.md "wikilink")。このため番組内でもインターネットに関係する内容が多い。また2009年12月からは[Twitter](../Page/Twitter.md "wikilink")アカウントを開設、さらに[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")でスタジオ内の映像のライブ配信を行っている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月7日〜6月18日、DJ TAROの不調により南美布がピンチヒッターで登場していた。
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    [Brandnew Jで同時放送](https://ja.wikipedia.org/wiki/Brandnew_J "wikilink")
+    [Brandnew Jで同時放送](../Page/Brandnew_J.md "wikilink")
 
 ## ナビゲーター
 
@@ -27,11 +27,11 @@
 番組終了時点
 
   - [NIPPON EXPRESS](https://ja.wikipedia.org/wiki/日本通運 "wikilink") BUZZ FLASH\!
-  - RIP SERVICE - ナビゲーター：[RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
+  - RIP SERVICE - ナビゲーター：[RIP SLYME](../Page/RIP_SLYME.md "wikilink")
   - Body Movin'\!
-  - [CHECK THE HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink") - ナビゲーター：[クリス・ペプラー](https://ja.wikipedia.org/wiki/クリス・ペプラー "wikilink")
+  - [CHECK THE HOT 100](../Page/TOKIO_HOT_100.md "wikilink") - ナビゲーター：[クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")
   - COLORS OF HAWAII - ナビゲーター：[内田佐知子](https://ja.wikipedia.org/wiki/内田佐知子 "wikilink")
-      - [ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")・[ワイキキ](https://ja.wikipedia.org/wiki/ワイキキ "wikilink")市内のスタジオからの生放送。ハワイアンソングとともに、ハワイの最新情報を伝える。衛星回線を使っての生中継のため、たびたび回線が途切れることがある。その間は波の音を流してフィラーとして繋いでいる。ハワイ州観光局提供。
+      - [ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")・[ワイキキ](../Page/ワイキキ.md "wikilink")市内のスタジオからの生放送。ハワイアンソングとともに、ハワイの最新情報を伝える。衛星回線を使っての生中継のため、たびたび回線が途切れることがある。その間は波の音を流してフィラーとして繋いでいる。ハワイ州観光局提供。
 
 ## ブログ企画
 
@@ -42,13 +42,13 @@
 <!-- end list -->
 
   - [鮎瀬梢](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")（シンガーソングライター）
-  - [道蔦岳史](https://ja.wikipedia.org/wiki/道蔦岳史 "wikilink") （クイズ王、クイズ作家）
+  - [道蔦岳史](../Page/道蔦岳史.md "wikilink") （クイズ王、クイズ作家）
   - [菊地奈々子](../Page/菊地奈々子.md "wikilink") （プロボクサー）
   - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")
   - [阿部美穂子](../Page/阿部美穂子.md "wikilink") （タレント）
   - [笹公人](../Page/笹公人.md "wikilink") （歌人）
   - [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink") （シンガーソングライター）
-  - [東野翠れん](https://ja.wikipedia.org/wiki/東野翠れん "wikilink") （写真家）
+  - [東野翠れん](../Page/東野翠れん.md "wikilink") （写真家）
 
 ## 外部リンク
 

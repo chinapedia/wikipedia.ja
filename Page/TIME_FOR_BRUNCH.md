@@ -16,7 +16,7 @@
 
 ## 歴代ナビゲーター
 
-  - [大槻りこ](https://ja.wikipedia.org/wiki/大槻りこ "wikilink") （2001年8月 - 2003年3月）
+  - [大槻りこ](../Page/大槻りこ.md "wikilink") （2001年8月 - 2003年3月）
   - [はな](../Page/はな_\(タレント\).md "wikilink") （2003年4月 - 2013年3月）
 
 ### 代理を担当したナビゲーター
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   -
-    [J-WAVE HOLIDAY SPECIALとして放送](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")。レギュラー放送ナビゲーターのはなに加えて、「HAPPINESS」から宮本絢子がナビゲーターとして、[NICO](https://ja.wikipedia.org/wiki/NICO "wikilink")がリポーターとしてそれぞれ出演した。
+    [J-WAVE HOLIDAY SPECIALとして放送](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")。レギュラー放送ナビゲーターのはなに加えて、「HAPPINESS」から宮本絢子がナビゲーターとして、[NICO](../Page/NICO.md "wikilink")がリポーターとしてそれぞれ出演した。
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
 
 番組で取り上げた内容を元にした単行本として下記の書籍が出版されている。
 
-  - タイム・フォー・ブランチ はなの東京散歩（2004年、ISBN 4-89194-703-9、[PARCO出版](https://ja.wikipedia.org/wiki/パルコ "wikilink")）
+  - タイム・フォー・ブランチ はなの東京散歩（2004年、ISBN 4-89194-703-9、[PARCO出版](../Page/パルコ.md "wikilink")）
 
 ## 外部リンク
 

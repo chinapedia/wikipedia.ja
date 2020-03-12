@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作は『[プリンセスメーカー](https://ja.wikipedia.org/wiki/プリンセスメーカー "wikilink")』（[ガイナックス](../Page/ガイナックス.md "wikilink")）で確立された育成シミュレーションと言うジャンルをさらに発展させると共に、登場キャラクターの複数化・個性化を図ったことで単なる二番煎じに留まらない印象付けに成功。[PCエンジン](../Page/PCエンジン.md "wikilink")への移植を皮切りに多数の機種へ移植されると共に、[角川書店](../Page/角川書店.md "wikilink")から「お家騒動」により分離・独立した[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")の全面的なバックアップを受けて広範囲な[メディアミックス](../Page/メディアミックス.md "wikilink")が展開された。こうしたゲームの製作手法やメディアミックス戦略は『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』（[コナミ](../Page/コナミデジタルエンタテインメント.md "wikilink")）を始め多数のゲームに採り入れられており、現在まで続いている[ギャルゲー](../Page/ギャルゲー.md "wikilink")のスタンダードを確立した作品となっている。
+本作は『[プリンセスメーカー](../Page/プリンセスメーカー.md "wikilink")』（[ガイナックス](../Page/ガイナックス.md "wikilink")）で確立された育成シミュレーションと言うジャンルをさらに発展させると共に、登場キャラクターの複数化・個性化を図ったことで単なる二番煎じに留まらない印象付けに成功。[PCエンジン](../Page/PCエンジン.md "wikilink")への移植を皮切りに多数の機種へ移植されると共に、[角川書店](../Page/角川書店.md "wikilink")から「お家騒動」により分離・独立した[メディアワークス](../Page/メディアワークス.md "wikilink")の全面的なバックアップを受けて広範囲な[メディアミックス](../Page/メディアミックス.md "wikilink")が展開された。こうしたゲームの製作手法やメディアミックス戦略は『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』（[コナミ](../Page/コナミデジタルエンタテインメント.md "wikilink")）を始め多数のゲームに採り入れられており、現在まで続いている[ギャルゲー](../Page/ギャルゲー.md "wikilink")のスタンダードを確立した作品となっている。
 
 ## ゲームシステム
 
@@ -19,13 +19,13 @@
 ### 機種別の相違点
 
   - PC-9800シリーズ版
-    最初に発売。[FM TOWNS版の発売前後に](../Page/FM_TOWNS.md "wikilink")[ソフ倫](https://ja.wikipedia.org/wiki/ソフ倫 "wikilink")審査を受けており「[全年齢対象](https://ja.wikipedia.org/wiki/全年齢対象 "wikilink")」となっている。[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")版及び[2004年](../Page/2004年.md "wikilink")に発売された[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（復刻版）も本バージョンがベース。PC98の音源は貧弱なものであったが、この時点で既にBEEP音を合成して主要登場人物に発声させていた\[1\]。この作品のみヒロイン役の声優が異なる（中本静役の[久川綾](../Page/久川綾.md "wikilink")のみ続投）。
+    最初に発売。[FM TOWNS版の発売前後に](../Page/FM_TOWNS.md "wikilink")[ソフ倫](https://ja.wikipedia.org/wiki/ソフ倫 "wikilink")審査を受けており「[全年齢対象](../Page/全年齢対象.md "wikilink")」となっている。[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")版及び[2004年](../Page/2004年.md "wikilink")に発売された[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（復刻版）も本バージョンがベース。PC98の音源は貧弱なものであったが、この時点で既にBEEP音を合成して主要登場人物に発声させていた\[1\]。この作品のみヒロイン役の声優が異なる（中本静役の[久川綾](../Page/久川綾.md "wikilink")のみ続投）。
   - PCエンジン版
     [NECアベニュー](../Page/NECアベニュー.md "wikilink")より発売。以後の移植版はほとんどが本バージョンをベースにしている。声優は中本静役の久川綾を除いた4人全員が変更。[カラオケ](../Page/カラオケ.md "wikilink")イベントで全員の持ち歌が用意されるなどイベントを大幅に追加。また、五重婚エンドが成立した場合に「畜生以下」の評価が追加された。
   - 3DO版
     『卒業FINAL』として[北部通信工業](https://ja.wikipedia.org/wiki/北部通信工業 "wikilink")SharLockブランドより発売（16歳未満不適）。それまでは3学期の2月末でゲーム終了であったのに対し「[卒業旅行](https://ja.wikipedia.org/wiki/卒業旅行 "wikilink")」イベントが追加されている。
   - セガサターン版
-    『卒業S』としてNECインターチャネル（現[インターチャネル](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")）より発売。基本的にはPCエンジン版がベースだが、未成年者の[飲酒](https://ja.wikipedia.org/wiki/飲酒 "wikilink")・[喫煙](https://ja.wikipedia.org/wiki/喫煙 "wikilink")描写に対する批判が強まったことなどを考慮して一部のイベントが差し替えられている（18歳以上推奨）。なお、発売順序が続編の『[卒業II 〜Neo Generation〜](https://ja.wikipedia.org/wiki/卒業II_〜Neo_Generation〜 "wikilink")』よりも後になっている。
+    『卒業S』としてNECインターチャネル（現[インターチャネル](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")）より発売。基本的にはPCエンジン版がベースだが、未成年者の[飲酒](https://ja.wikipedia.org/wiki/飲酒 "wikilink")・[喫煙](https://ja.wikipedia.org/wiki/喫煙 "wikilink")描写に対する批判が強まったことなどを考慮して一部のイベントが差し替えられている（18歳以上推奨）。なお、発売順序が続編の『[卒業II 〜Neo Generation〜](../Page/卒業II_〜Neo_Generation〜.md "wikilink")』よりも後になっている。
   - ワンダースワン版
     『卒業 for WonderSwan』として[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より発売。PC-9800シリーズ版がベース。グラフィックは白黒で、音声は部分的に収録されている。
 
@@ -34,7 +34,7 @@
 [声優](../Page/声優.md "wikilink")は、特に注記の無い限りPC-98版 / その他の機種・メディアの順。登場人物の苗字は[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")に由来する。
 
   - 高城 麗子（たかぎ れいこ）
-    声 - [大野由佳](https://ja.wikipedia.org/wiki/大野由佳 "wikilink") / [冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+    声 - [大野由佳](https://ja.wikipedia.org/wiki/大野由佳 "wikilink") / [冬馬由美](../Page/冬馬由美.md "wikilink")
     [10月3日](../Page/10月3日.md "wikilink")生（[てんびん座](../Page/てんびん座.md "wikilink")）・[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長165cm B 87 / W 57 / H 87
     大資産家の令嬢。自分の才能と美貌に絶対の自信を持ち、多少の無理は札束を積み上げればどうにでもなると考えており協調性に乏しい。主人公に対して最初は歯牙にもかけない態度しか示さないが、尊敬に値すると感じた相手には一転して従順。
   - 新井 聖美（あらい きよみ）
@@ -42,12 +42,12 @@
     [12月3日](../Page/12月3日.md "wikilink")生（[いて座](../Page/いて座.md "wikilink")）・血液型はO型。身長164cm B 86 / W 58 / H 85
     いわゆる[不良少女](https://ja.wikipedia.org/wiki/不良少女 "wikilink")。ひたすら反抗的な態度を取るうえ、学力も低水準にあるなどとことん手を焼かされる。家業はバイクショップで、オートバイを飛ばすのが趣味。喧嘩は滅法強いが、理由も無く暴力的手段に訴えることはせず義理人情には厚いタイプ。弟がいる。
   - 志村 まみ（しむら まみ）
-    声 - [鉄炮塚葉子](https://ja.wikipedia.org/wiki/鉄炮塚葉子 "wikilink") / [金丸日向子](../Page/芳野日向子.md "wikilink")
+    声 - [鉄炮塚葉子](../Page/鉄炮塚葉子.md "wikilink") / [金丸日向子](../Page/芳野日向子.md "wikilink")
     [1月4日](../Page/1月4日.md "wikilink")生（[やぎ座](../Page/やぎ座.md "wikilink")）・血液型はB型。身長159cm B 82 / W 59 / H 83
     両親とも[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")で、甘やかされて育てられ非常に子供っぽい性格。そのうえ、華奢な体格からは想像も付かないほどの大食いでその食欲が原因のトラブルを起こすことも多い。主人公に対しては最初から好意的で、正しく指導すれば伸びるタイプ。
   - 加藤 美夏（かとう みか）
-    声 - [関根明子](https://ja.wikipedia.org/wiki/関根明子_\(声優\) "wikilink") / [嶋方淳子](https://ja.wikipedia.org/wiki/嶋方淳子 "wikilink")
-    [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")生（[しし座](../Page/しし座.md "wikilink")）・血液型はA型。身長162cm B 83 / W 56 / H 85
+    声 - [関根明子](../Page/関根明子_\(声優\).md "wikilink") / [嶋方淳子](../Page/嶋方淳子.md "wikilink")
+    [7月23日](../Page/7月23日.md "wikilink")生（[しし座](../Page/しし座.md "wikilink")）・血液型はA型。身長162cm B 83 / W 56 / H 85
     学級委員。スポーツ万能で成績もそこそこ良く、主人公に対しても従順だが思い込みが激しく、暴走すると手が付けられないのが玉に瑕。実家は老舗の蕎麦屋で、お薦めのメニューは「鴨南蛮マヨネーズ蕎麦」。
   - 中本 静（なかもと しずか）
     声 - [久川綾](../Page/久川綾.md "wikilink")
@@ -70,7 +70,7 @@
     第3学期 超えろ\! 涙の卒業試験 1994年3月25日発売
     別巻・卒業 ソングコレクション 1993年11月25日発売
 
-メディアワークス発売。[渡辺麻実](../Page/渡辺麻実.md "wikilink")・脚本。後に『[卒業クロスワールド](https://ja.wikipedia.org/wiki/卒業クロスワールド "wikilink")』で登場する武蔵三十朗（声：[古谷徹](../Page/古谷徹.md "wikilink")）・大和雅子（声：[小山茉美](../Page/小山茉美.md "wikilink")）・赤城圭二郎（声：[難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")）ら教師陣は本作が初出である。
+メディアワークス発売。[渡辺麻実](../Page/渡辺麻実.md "wikilink")・脚本。後に『[卒業クロスワールド](https://ja.wikipedia.org/wiki/卒業クロスワールド "wikilink")』で登場する武蔵三十朗（声：[古谷徹](../Page/古谷徹.md "wikilink")）・大和雅子（声：[小山茉美](../Page/小山茉美.md "wikilink")）・赤城圭二郎（声：[難波圭一](../Page/難波圭一.md "wikilink")）ら教師陣は本作が初出である。
 
   - その他のドラマCD
     卒業 〜Graduation〜・サウンドトラック（NECアベニュー）
@@ -80,8 +80,8 @@
     アニマガパラディ・マンスリードラマシリーズ「卒業&卒業II 卒業ガールズ全員集合\!」（[アニメイトフィルム](https://ja.wikipedia.org/wiki/アニメイトフィルム "wikilink")）
       -
         1994年6月30日発売 APD2-40630
-        [文化放送](../Page/文化放送.md "wikilink")「[アニマガパラディ](https://ja.wikipedia.org/wiki/アニマガパラディ "wikilink")」内で放送された[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")。IIとの[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")。ゲスト出演・[緑川光](../Page/緑川光.md "wikilink")、[永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")。
-    卒業 〜Graduation〜 Teach Me Please（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")/[ユーメックス](https://ja.wikipedia.org/wiki/ユーメックス "wikilink")）
+        [文化放送](../Page/文化放送.md "wikilink")「[アニマガパラディ](https://ja.wikipedia.org/wiki/アニマガパラディ "wikilink")」内で放送された[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。IIとの[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")。ゲスト出演・[緑川光](../Page/緑川光.md "wikilink")、[永島由子](../Page/永島由子.md "wikilink")。
+    卒業 〜Graduation〜 Teach Me Please（[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/[ユーメックス](../Page/ユーメックス.md "wikilink")）
       -
         1995年3月15日発売 TYCY-5426
         CDドラマとキャラクターソング6曲収録。ゲスト出演・古谷徹。
@@ -109,17 +109,17 @@
 <!-- end list -->
 
   - 原作 - HEAD ROOM
-  - 監督 - [西島克彦](https://ja.wikipedia.org/wiki/西島克彦 "wikilink")
-  - 原案（聖羅ヴィクトリー） - 西島克彦、[関島眞頼](https://ja.wikipedia.org/wiki/関島眞頼 "wikilink")、[金巻兼一](https://ja.wikipedia.org/wiki/金巻兼一 "wikilink")
-  - キャラクターデザイン - [只野和子](../Page/只野和子.md "wikilink")（『卒業 〜Graduation〜』）、[毛利和昭](https://ja.wikipedia.org/wiki/毛利和昭 "wikilink")（『聖羅ヴィクトリー』）
+  - 監督 - [西島克彦](../Page/西島克彦.md "wikilink")
+  - 原案（聖羅ヴィクトリー） - 西島克彦、[関島眞頼](../Page/関島眞頼.md "wikilink")、[金巻兼一](../Page/金巻兼一.md "wikilink")
+  - キャラクターデザイン - [只野和子](../Page/只野和子.md "wikilink")（『卒業 〜Graduation〜』）、[毛利和昭](../Page/毛利和昭.md "wikilink")（『聖羅ヴィクトリー』）
   - 美術監督 - [東潤一](https://ja.wikipedia.org/wiki/東潤一 "wikilink")（『卒業 〜Graduation〜』）、中座洋次（『聖羅ヴィクトリー』）
   - 色彩設定 - 中沢麻樹（『卒業 〜Graduation〜』）、一色緑（『卒業 〜Graduation〜』）、三笠修（『聖羅ヴィクトリー』）
   - 撮影監督 - 佐野禎史
   - 音響監督 - [藤山房伸](../Page/藤山房伸.md "wikilink")
-  - 音楽 - [和田薫](https://ja.wikipedia.org/wiki/和田薫_\(作曲家\) "wikilink")
-  - プロデューサー - 杉田敦、[池口和彦](https://ja.wikipedia.org/wiki/池口和彦 "wikilink")
+  - 音楽 - [和田薫](../Page/和田薫_\(作曲家\).md "wikilink")
+  - プロデューサー - 杉田敦、[池口和彦](../Page/池口和彦.md "wikilink")
   - 制作プロデューサー - 飯塚智久
-  - 制作協力 - [スタジオ・ファンタジア](https://ja.wikipedia.org/wiki/スタジオ・ファンタジア "wikilink")
+  - 制作協力 - [スタジオ・ファンタジア](../Page/スタジオ・ファンタジア.md "wikilink")
   - 制作 - [アニメイトフィルム](https://ja.wikipedia.org/wiki/アニメイトフィルム "wikilink")
   - 製作・著作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")
 
@@ -137,14 +137,14 @@
 
   - 各巻リスト
 
-| 巻数              | サブタイトル                     | 脚本                                                    | 絵コンテ                                                    | 演出                                                    | 作画監督                               |
-| --------------- | -------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------- |
-| 卒業 〜Graduation〜 |                            |                                                       |                                                         |                                                       |                                    |
-| 第1巻             | いつまでも一緒にいられたら              | [渡辺麻実](../Page/渡辺麻実.md "wikilink")                    | [もりたけし](https://ja.wikipedia.org/wiki/もりたけし "wikilink") | [水島精二](https://ja.wikipedia.org/wiki/水島精二 "wikilink") | [只野和子](../Page/只野和子.md "wikilink") |
-| 第2巻             | それぞれの明日                    | 神田直人                                                  |                                                         |                                                       |                                    |
-| 聖羅ヴィクトリー        |                            |                                                       |                                                         |                                                       |                                    |
-| 第3巻             | 花鳥風月 乙女の舞\! 事件だョ、全員集合      |                                                       | [関島眞頼](https://ja.wikipedia.org/wiki/関島眞頼 "wikilink")   | [河本昇吾](https://ja.wikipedia.org/wiki/河本昇悟 "wikilink") | 水島精二                               |
-| 第4巻             | 波乱万丈 乙女のピンチ\! 悪しき魔性に桜散る\!? | [金巻兼一](https://ja.wikipedia.org/wiki/金巻兼一 "wikilink") | [近藤信宏](https://ja.wikipedia.org/wiki/近藤信宏 "wikilink")   |                                                       |                                    |
+| 巻数              | サブタイトル                     | 脚本                                 | 絵コンテ                                                  | 演出                                 | 作画監督                               |
+| --------------- | -------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------- | ---------------------------------- |
+| 卒業 〜Graduation〜 |                            |                                    |                                                       |                                    |                                    |
+| 第1巻             | いつまでも一緒にいられたら              | [渡辺麻実](../Page/渡辺麻実.md "wikilink") | [もりたけし](../Page/もりたけし.md "wikilink")                  | [水島精二](../Page/水島精二.md "wikilink") | [只野和子](../Page/只野和子.md "wikilink") |
+| 第2巻             | それぞれの明日                    | 神田直人                               |                                                       |                                    |                                    |
+| 聖羅ヴィクトリー        |                            |                                    |                                                       |                                    |                                    |
+| 第3巻             | 花鳥風月 乙女の舞\! 事件だョ、全員集合      |                                    | [関島眞頼](../Page/関島眞頼.md "wikilink")                    | [河本昇吾](../Page/河本昇悟.md "wikilink") | 水島精二                               |
+| 第4巻             | 波乱万丈 乙女のピンチ\! 悪しき魔性に桜散る\!? | [金巻兼一](../Page/金巻兼一.md "wikilink") | [近藤信宏](https://ja.wikipedia.org/wiki/近藤信宏 "wikilink") |                                    |                                    |
 
 ### 漫画作品
 
@@ -153,7 +153,7 @@
   - 卒業 〜Graduation〜 みんなでParty
     1994年1月初版 ISBN 4894250144
 
-[真行寺たつや](https://ja.wikipedia.org/wiki/真行寺たつや "wikilink")作。『[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")』（メディアワークス）連載。単行本は全1巻。
+[真行寺たつや](../Page/真行寺たつや.md "wikilink")作。『[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")』（メディアワークス）連載。単行本は全1巻。
 
   - 卒業 〜Graduation〜 Have a good day（[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")）
     1994年9月初版 ISBN 4073019481
@@ -164,11 +164,11 @@
 
 ### 卒業番外篇 〜ねぇ麻雀しよ\!〜
 
-[1994年](../Page/1994年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")より発売。機種は[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")。
+[1994年](../Page/1994年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[ケイエスエス](../Page/ケイエスエス.md "wikilink")より発売。機種は[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")。
 
 ### 卒業R 〜Graduation Real〜
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")にNECアベニューより発売された実写によるリメイク作品。機種は[PC-FX](../Page/PC-FX.md "wikilink")で、後に[Windows95](../Page/Microsoft_Windows_95.md "wikilink")・[Macintosh](../Page/Macintosh.md "wikilink")・[プレイステーションへ移植された](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")（バンダイビジュアル発売）。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")にNECアベニューより発売された実写によるリメイク作品。機種は[PC-FX](../Page/PC-FX.md "wikilink")で、後に[Windows95](../Page/Microsoft_Windows_95.md "wikilink")・[Macintosh](../Page/Macintosh.md "wikilink")・[プレイステーションへ移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")（バンダイビジュアル発売）。
 
 女子高教師となって、生徒たちを育て上げるゲーム『卒業』。『卒業R』は、アニメ絵が苦手な人も楽しくプレイできる、実写版の「卒業」であり、オリジナルの魅力をそのままに、実写ならではの表情豊かなグラフィックや、要所要所に挿入されたムービーで女子高生のキュートさが満喫できるものとなっている。\[4\]
 

@@ -1,17 +1,17 @@
 > この記事は[W41CA](https://ja.wikipedia.org/wiki/W41CA)から翻訳されています。
 
 
-**W41CA**（だぶりゅーよんいちしーえー）は、[カシオ計算機](../Page/カシオ計算機.md "wikilink")および[カシオ日立モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/カシオ日立モバイルコミュニケーションズ "wikilink")（現・[日本電気](../Page/日本電気.md "wikilink")）が日本国内向けに開発した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の第3/3.5世代対応（[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")）[携帯電話](../Page/携帯電話.md "wikilink")である。
+**W41CA**（だぶりゅーよんいちしーえー）は、[カシオ計算機](../Page/カシオ計算機.md "wikilink")および[カシオ日立モバイルコミュニケーションズ](../Page/カシオ日立モバイルコミュニケーションズ.md "wikilink")（現・[日本電気](../Page/日本電気.md "wikilink")）が日本国内向けに開発した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の第3/3.5世代対応（[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")）[携帯電話](../Page/携帯電話.md "wikilink")である。
 
 ## 特徴
 
-[au LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")、[EZ FeliCa](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")、[EZ・FM](https://ja.wikipedia.org/wiki/EZ・FM "wikilink")、[赤外線通信といった新機能](https://ja.wikipedia.org/wiki/赤外線#赤外線通信 "wikilink")・新サービスに対応した（2006年当時の）[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")端末だが、大幅な薄型化・軽量化を実現し、前機種[W31CA](../Page/W31CA.md "wikilink")と比べ厚さが28mmから22mmに、重量が143gから126gへと改良されている。また、キーの形状を波状のエッジを付けることで押し易さの向上を図っている。[W21CA](https://ja.wikipedia.org/wiki/W21CA "wikilink")、[W31CA](../Page/W31CA.md "wikilink")の流れをくむ「[ワイドQVGA](https://ja.wikipedia.org/wiki/Quarter_Video_Graphics_Array "wikilink")[液晶](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") + [回転2軸ヒンジ](https://ja.wikipedia.org/wiki/日本における携帯電話#携帯電話端末形状 "wikilink")」という構造だが、薄型化のため設計は大幅に見直されている。カメラがW31CAでの320万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CCDから](../Page/CCDイメージセンサ.md "wikilink")、207万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CMOSに変更されたのもそのためである](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")。なお、本体色によって、キーのフォントと発光部分、発光色が異なる。
+[au LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")、[EZ FeliCa](../Page/EZ_FeliCa.md "wikilink")、[EZ・FM](../Page/EZ・FM.md "wikilink")、[赤外線通信といった新機能](https://ja.wikipedia.org/wiki/赤外線#赤外線通信 "wikilink")・新サービスに対応した（2006年当時の）[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")端末だが、大幅な薄型化・軽量化を実現し、前機種[W31CA](../Page/W31CA.md "wikilink")と比べ厚さが28mmから22mmに、重量が143gから126gへと改良されている。また、キーの形状を波状のエッジを付けることで押し易さの向上を図っている。[W21CA](../Page/W21CA.md "wikilink")、[W31CA](../Page/W31CA.md "wikilink")の流れをくむ「[ワイドQVGA](../Page/Quarter_Video_Graphics_Array.md "wikilink")[液晶](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") + [回転2軸ヒンジ](https://ja.wikipedia.org/wiki/日本における携帯電話#携帯電話端末形状 "wikilink")」という構造だが、薄型化のため設計は大幅に見直されている。カメラがW31CAでの320万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CCDから](../Page/CCDイメージセンサ.md "wikilink")、207万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CMOSに変更されたのもそのためである](../Page/CMOSイメージセンサ.md "wikilink")。なお、本体色によって、キーのフォントと発光部分、発光色が異なる。
 
-また、本機種は俗に**ペンギンケータイ**と呼ばれることがある。これは本機種の大きな特徴でもある、プリセットの待ち受け画面の一つ「[アデリーペンギン](../Page/アデリーペンギン.md "wikilink")」による。これは、画面を開くたびに、用意された40種類以上もの[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")のアニメーションのうち、いずれかが表示されるものである。その中には、時間帯や電池残量に応じて出現するものも存在する。また、メニュー画面や、[電話](../Page/電話.md "wikilink")や[Eメールの送受信](../Page/電子メール.md "wikilink")、メールの新着問い合わせ、[EZweb](../Page/EZweb.md "wikilink")接続、[GPS測位](../Page/グローバル・ポジショニング・システム.md "wikilink")、録音時、アラーム、着うたなどの再生、撮影画像の保存と、ありとあらゆる場面でこれらに合わせたペンギンのアニメーションが用意されている。このデザインは、カシオの携帯電話[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")の設計思想「[Heart Craft](../Page/Heart_Craft.md "wikilink")」によるもの。このペンギンは「回転2軸ヒンジ構造の機種のみに住んでいる」という設定のため、[W42CA](https://ja.wikipedia.org/wiki/W42CA "wikilink")、[W43CA](https://ja.wikipedia.org/wiki/W43CA "wikilink")では登場せず\[1\]、後継機種の[W51CA](../Page/W51CA.md "wikilink")で再び登場する。
+また、本機種は俗に**ペンギンケータイ**と呼ばれることがある。これは本機種の大きな特徴でもある、プリセットの待ち受け画面の一つ「[アデリーペンギン](../Page/アデリーペンギン.md "wikilink")」による。これは、画面を開くたびに、用意された40種類以上もの[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")のアニメーションのうち、いずれかが表示されるものである。その中には、時間帯や電池残量に応じて出現するものも存在する。また、メニュー画面や、[電話](../Page/電話.md "wikilink")や[Eメールの送受信](../Page/電子メール.md "wikilink")、メールの新着問い合わせ、[EZweb](../Page/EZweb.md "wikilink")接続、[GPS測位](../Page/グローバル・ポジショニング・システム.md "wikilink")、録音時、アラーム、着うたなどの再生、撮影画像の保存と、ありとあらゆる場面でこれらに合わせたペンギンのアニメーションが用意されている。このデザインは、カシオの携帯電話[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")の設計思想「[Heart Craft](../Page/Heart_Craft.md "wikilink")」によるもの。このペンギンは「回転2軸ヒンジ構造の機種のみに住んでいる」という設定のため、[W42CA](../Page/W42CA.md "wikilink")、[W43CA](../Page/W43CA.md "wikilink")では登場せず\[1\]、後継機種の[W51CA](../Page/W51CA.md "wikilink")で再び登場する。
 
 ## 評判
 
-本機種は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")から[2月11日](../Page/2月11日.md "wikilink")にかけて発売された。その週から19週連続でauでの売上1位を獲得し、6月第4週に初登場の[ウォークマンケータイ W42Sに](https://ja.wikipedia.org/wiki/W42S "wikilink")1週だけ1位を奪われた（2位）ものの、次週からは再び10週連続で売上1位を記録し、9月第1週までそれを維持し続けた\[2\]\[3\]。9月中も2位（第2週）、5位（第3週）、9位（第4週）と上位にランクインしていた\[4\]。2006年で最も多く売れたau端末である\[5\]。
+本機種は[2006年](../Page/2006年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")から[2月11日](../Page/2月11日.md "wikilink")にかけて発売された。その週から19週連続でauでの売上1位を獲得し、6月第4週に初登場の[ウォークマンケータイ W42Sに](../Page/W42S.md "wikilink")1週だけ1位を奪われた（2位）ものの、次週からは再び10週連続で売上1位を記録し、9月第1週までそれを維持し続けた\[2\]\[3\]。9月中も2位（第2週）、5位（第3週）、9位（第4週）と上位にランクインしていた\[4\]。2006年で最も多く売れたau端末である\[5\]。
 
 <table>
 <caption>style="margin-top:1em;" | au端末の販売台数上位1位・2位の推移<br />
@@ -31,7 +31,7 @@
 <td><p>2006年<br />
 2月</p></td>
 <td><p>第1週</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W32T" title="wikilink">W32T</a></p></td>
+<td><p><a href="../Page/W32T.md" title="wikilink">W32T</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2週</p></td>
@@ -41,7 +41,7 @@
 <tr class="odd">
 <td><p>第3週</p></td>
 <td><p>W41CA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W41H" title="wikilink">W41H</a></p></td>
+<td><p><a href="../Page/W41H.md" title="wikilink">W41H</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第4週</p></td>
@@ -78,7 +78,7 @@
 <tr class="even">
 <td><p>第2週</p></td>
 <td><p>W41CA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W33SA" title="wikilink">W33SA</a></p></td>
+<td><p><a href="../Page/W33SA.md" title="wikilink">W33SA</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第3週</p></td>
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>第4週</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W42S" title="wikilink">W42S</a></p></td>
+<td><p><a href="../Page/W42S.md" title="wikilink">W42S</a></p></td>
 <td><p>W41CA</p></td>
 </tr>
 <tr class="odd">
@@ -167,7 +167,7 @@
 <tr class="even">
 <td><p>第4週</p></td>
 <td><p>W41CA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W44T" title="wikilink">W44T</a></p></td>
+<td><p><a href="../Page/W44T.md" title="wikilink">W44T</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第5週</p></td>
@@ -188,7 +188,7 @@
 <tr class="even">
 <td><p>第3週</p></td>
 <td><p>W41CA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W42K" title="wikilink">W42K</a></p></td>
+<td><p><a href="../Page/W42K.md" title="wikilink">W42K</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第4週</p></td>
@@ -208,7 +208,7 @@
 </tr>
 <tr class="even">
 <td><p>第3週</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/W43S" title="wikilink">W43S</a></p></td>
+<td><p><a href="../Page/W43S.md" title="wikilink">W43S</a></p></td>
 <td><p>W42K</p></td>
 </tr>
 <tr class="odd">
@@ -224,8 +224,8 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[8月10日](../Page/8月10日.md "wikilink") 特定無線設備の技術適合自己確認を取得。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[1月19日](../Page/1月19日.md "wikilink") [KDDI](../Page/KDDI.md "wikilink")、およびカシオ計算機から公式発表。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[8月10日](../Page/8月10日.md "wikilink") 特定無線設備の技術適合自己確認を取得。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[1月19日](../Page/1月19日.md "wikilink") [KDDI](../Page/KDDI.md "wikilink")、およびカシオ計算機から公式発表。
   - 2006年[2月9日](../Page/2月9日.md "wikilink") 中国・四国地方で発売。
   - 2006年[2月10日](../Page/2月10日.md "wikilink") 東北・関東・九州・沖縄地方で発売。
   - 2006年[2月11日](../Page/2月11日.md "wikilink") 北海道・中部・北陸・関西地方で発売。
@@ -238,13 +238,13 @@
   - [PCサイトビューアー](https://ja.wikipedia.org/wiki/PCサイトビューアー "wikilink")
   - [PCドキュメントビューアー](https://ja.wikipedia.org/wiki/PCドキュメントビューアー "wikilink")
   - [au LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")
-  - EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」
+  - EZ「[着うたフル](../Page/着うたフル.md "wikilink")」
   - EZ「[着うた](../Page/着うた.md "wikilink")」（ハイクオリティステレオ対応）
-  - [EZアプリ (BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")
-  - [EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")（声de入力）
-  - [EZ助手席ナビ](https://ja.wikipedia.org/wiki/EZ助手席ナビ "wikilink")
-  - [EZ FeliCa](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")
-  - [EZ・FM](https://ja.wikipedia.org/wiki/EZ・FM "wikilink")
+  - [EZアプリ (BREW)](../Page/BREW.md "wikilink")
+  - [EZナビウォーク](../Page/EZナビウォーク.md "wikilink")（声de入力）
+  - [EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")
+  - [EZ FeliCa](../Page/EZ_FeliCa.md "wikilink")
+  - [EZ・FM](../Page/EZ・FM.md "wikilink")
   - [Hello Messenger](https://ja.wikipedia.org/wiki/Hello_Messenger "wikilink")
   - 赤外線通信
   - Eメールバックグラウンド受信

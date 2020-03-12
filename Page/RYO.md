@@ -10,21 +10,21 @@
   - [松本亮 (ボクサー)](https://ja.wikipedia.org/wiki/松本亮_\(ボクサー\) "wikilink") (RYO) - 日本のボクサー (1994–)。RYOはモデルとしての芸名。
   - [Ryo (手品師)](https://ja.wikipedia.org/wiki/Ryo_\(手品師\) "wikilink") - 手品師。
   - RYO (ROY) - ヘアデザイナー。
-  - RYO - 男性俳優。SFC用ソフト『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』のCMに、主人公[RYU役で出演した](https://ja.wikipedia.org/wiki/リュウ_\(ストリートファイター\) "wikilink")。
-  - Ryo (1992年生まれの歌手) - 本名：池森龍。DEENのボーカリスト、[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")の甥。2016年9月「HOMARE」でデビュー。
+  - RYO - 男性俳優。SFC用ソフト『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』のCMに、主人公[RYU役で出演した](../Page/リュウ_\(ストリートファイター\).md "wikilink")。
+  - Ryo (1992年生まれの歌手) - 本名：池森龍。DEENのボーカリスト、[池森秀一](../Page/池森秀一.md "wikilink")の甥。2016年9月「HOMARE」でデビュー。
   - 音楽グループのメンバー
       - RYÖ - [BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")・BY-SEX・[ZIGZO](../Page/ZIGZO.md "wikilink")のギタリスト (1970–)。
       - [Ryo](../Page/Ryo.md "wikilink") (田中亮) - 東方神起、JYJ、防弾少年団のダンサー。ドリカムパフォーマー。
-      - Ryo (HAKU) - [AcQuA-E.P.](https://ja.wikipedia.org/wiki/AcQuA-E.P. "wikilink")のメンバー (1983–)。
+      - Ryo (HAKU) - [AcQuA-E.P.](../Page/AcQuA-E.P..md "wikilink")のメンバー (1983–)。
       - [RYO (ORANGE RANGE)](../Page/RYO_\(ORANGE_RANGE\).md "wikilink") - [ORANGE RANGEのヴォーカリスト](../Page/ORANGE_RANGE.md "wikilink") (1985–)。
-      - RYO (前田亮太) - COLOR・[DEEPのメンバー](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink") (1986–)。
+      - RYO (前田亮太) - COLOR・[DEEPのメンバー](../Page/DEEP_\(歌手グループ\).md "wikilink") (1986–)。
       - Яyo - [girugämesh](https://ja.wikipedia.org/wiki/girugämesh "wikilink")のドラマー (1986–)。
       - RYO - LGY・[LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink")の元MC。
-      - RYO - LOONIE・[キャラメルペッパーズ](https://ja.wikipedia.org/wiki/キャラメルペッパーズ "wikilink")のMC。
+      - RYO - LOONIE・[キャラメルペッパーズ](../Page/キャラメルペッパーズ.md "wikilink")のMC。
       - RYO - [Beat Buddy BoiのMPCなど](https://ja.wikipedia.org/wiki/Beat_Buddy_Boi "wikilink")。
       - Ryo - [supercell](https://ja.wikipedia.org/wiki/supercell "wikilink")のクリエイター。
       - RYO - [defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink")のベーシスト。
-      - RYO - [BLOOD STAIN CHILD](https://ja.wikipedia.org/wiki/BLOOD_STAIN_CHILD "wikilink") のベーシスト。
+      - RYO - [BLOOD STAIN CHILD](../Page/BLOOD_STAIN_CHILD.md "wikilink") のベーシスト。
       - RYO - [北海道札幌市のR\&Bシンガー/ソングライター](http://soundfoun.com/ryo/) 。SOUNDFOUN。
 
 ## 人物以外

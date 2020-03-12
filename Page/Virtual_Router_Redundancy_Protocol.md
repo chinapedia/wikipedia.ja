@@ -17,7 +17,7 @@ VRRPは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月に RFC 23
 
 ## 適用環境
 
-VRRPは[イーサネット](../Page/イーサネット.md "wikilink")、[FDDI](../Page/Fiber_distributed_data_interface.md "wikilink")、[トークンリング](https://ja.wikipedia.org/wiki/トークンリング "wikilink")上で用いることが可能である。RFC 5798で[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")用のVRRP規格が決まった。VRRPは[ノーテル・ネットワークス](https://ja.wikipedia.org/wiki/ノーテル・ネットワークス "wikilink")、[シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink")、[ジュニパーネットワークス](../Page/ジュニパーネットワークス.md "wikilink")、[華為技術](https://ja.wikipedia.org/wiki/華為技術 "wikilink")、[ファウンドリーネットワークス](../Page/ファウンドリーネットワークス.md "wikilink")、[エクストリームネットワークス](https://ja.wikipedia.org/wiki/エクストリームネットワークス "wikilink")、[3comなど多くのベンダのルータに採用されており](https://ja.wikipedia.org/wiki/スリーコム "wikilink")、また[Linux](../Page/Linux.md "wikilink")や[BSD](../Page/BSD.md "wikilink")でも使用可能である。
+VRRPは[イーサネット](../Page/イーサネット.md "wikilink")、[FDDI](../Page/Fiber_distributed_data_interface.md "wikilink")、[トークンリング](../Page/トークンリング.md "wikilink")上で用いることが可能である。RFC 5798で[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")用のVRRP規格が決まった。VRRPは[ノーテル・ネットワークス](https://ja.wikipedia.org/wiki/ノーテル・ネットワークス "wikilink")、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")、[ジュニパーネットワークス](../Page/ジュニパーネットワークス.md "wikilink")、[華為技術](https://ja.wikipedia.org/wiki/華為技術 "wikilink")、[ファウンドリーネットワークス](../Page/ファウンドリーネットワークス.md "wikilink")、[エクストリームネットワークス](https://ja.wikipedia.org/wiki/エクストリームネットワークス "wikilink")、[3comなど多くのベンダのルータに採用されており](https://ja.wikipedia.org/wiki/スリーコム "wikilink")、また[Linux](../Page/Linux.md "wikilink")や[BSD](../Page/BSD.md "wikilink")でも使用可能である。
 
 VRRPは[ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")ではないので、IPルートをアドバタイズしたり、他のルータのルーティングテーブルに影響を与えることはない。
 
@@ -45,7 +45,7 @@ VRRPは米[Cisco](https://ja.wikipedia.org/wiki/Cisco "wikilink")社の保有す
 
 ## 関連項目
 
-  - [Hot Standby Router Protocol](https://ja.wikipedia.org/wiki/Hot_Standby_Router_Protocol "wikilink")（HSRP） - [シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink")社製の[ルータ](https://ja.wikipedia.org/wiki/ルータ "wikilink")冗長ソリューション
+  - [Hot Standby Router Protocol](https://ja.wikipedia.org/wiki/Hot_Standby_Router_Protocol "wikilink")（HSRP） - [シスコシステムズ](../Page/シスコシステムズ.md "wikilink")社製の[ルータ](https://ja.wikipedia.org/wiki/ルータ "wikilink")冗長ソリューション
 
   - [Gateway Load Balancing Protocol](https://ja.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol "wikilink")（GLBP） - シスコシステムズ社製のルータ冗長兼ロードバランシングソリューション
 
@@ -55,7 +55,7 @@ VRRPは米[Cisco](https://ja.wikipedia.org/wiki/Cisco "wikilink")社の保有す
 
   - （RSMT） - ノテル・ネットワークス社製のルータ冗長ソリューション
 
-  - \- [データリンク層](https://ja.wikipedia.org/wiki/データリンク層 "wikilink")で[スイッチングハブ](../Page/スイッチングハブ.md "wikilink")間の複数の物理回線を束ねて1本の論理回線として扱う
+  - \- [データリンク層](../Page/データリンク層.md "wikilink")で[スイッチングハブ](../Page/スイッチングハブ.md "wikilink")間の複数の物理回線を束ねて1本の論理回線として扱う
 
   - \- [ロードバランサ](../Page/サーバロードバランス.md "wikilink")（負荷分散装置）などを用いて、[インターネット](../Page/インターネット.md "wikilink")などの[Wide Area Network](../Page/Wide_Area_Network.md "wikilink")（WAN）回線を[冗長化](../Page/冗長化.md "wikilink")すること
 

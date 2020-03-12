@@ -3,7 +3,7 @@
 
 『**THE 武士道 〜辻斬り一代〜**』（ザ・ぶしどう つじぎりいちだい）は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に発売された[SIMPLE2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLE2000シリーズ "wikilink")第28作目の[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月4日](../Page/8月4日.md "wikilink")にSIMPLE2000シリーズ 2in1 vol.4『THE 武士道 〜辻斬り一代〜 & THEスナイパー2 〜悪夢の銃弾〜』として再発されている。
+[2005年](../Page/2005年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")にSIMPLE2000シリーズ 2in1 vol.4『THE 武士道 〜辻斬り一代〜 & THEスナイパー2 〜悪夢の銃弾〜』として再発されている。
 
 ## ストーリー
 
@@ -23,13 +23,13 @@
     本作の主人公。剣豪を倒して天下無双を目指す。ただし、倒すための手段は選ばない外道。
   - [宮本武蔵](../Page/宮本武蔵.md "wikilink")
     無敗の放浪者。本作では二刀流は使わない。
-  - [佐々木小次郎](https://ja.wikipedia.org/wiki/佐々木小次郎 "wikilink")
+  - [佐々木小次郎](../Page/佐々木小次郎.md "wikilink")
     美しき舞の如く。なぜか女性になっている。武蔵を倒した直後に現れる最後の猛者。
-  - [柳生十兵衛](https://ja.wikipedia.org/wiki/柳生三厳 "wikilink")
+  - [柳生十兵衛](../Page/柳生三厳.md "wikilink")
     闇を纏う隻眼。夜な夜な遊郭を遊び歩く遊び人。一人称は「私」。都合二回戦うことになる。
-  - [千葉周作](https://ja.wikipedia.org/wiki/千葉周作 "wikilink")
+  - [千葉周作](../Page/千葉周作.md "wikilink")
     幕末剣技の極。門下生（雑魚敵）が多い。
-  - [塚原卜伝](https://ja.wikipedia.org/wiki/塚原卜伝 "wikilink")
+  - [塚原卜伝](../Page/塚原卜伝.md "wikilink")
     瞬殺の老剣士。ひっそりと隠居していた。
 
 ## 外部リンク

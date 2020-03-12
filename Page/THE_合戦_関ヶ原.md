@@ -1,11 +1,11 @@
 > この記事は[THE  ](https://ja.wikipedia.org/wiki/THE__)から翻訳されています。
 
 
-**THE 合戦 関ヶ原**（ざ かっせん せきがはら）は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2004年](../Page/2004年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に発売された[SIMPLE2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLE2000シリーズ "wikilink")第47作目の痛快剣劇[アクションゲーム](../Page/アクションゲーム.md "wikilink")。開発は[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")。
+**THE 合戦 関ヶ原**（ざ かっせん せきがはら）は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2004年](../Page/2004年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に発売された[SIMPLE2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLE2000シリーズ "wikilink")第47作目の痛快剣劇[アクションゲーム](../Page/アクションゲーム.md "wikilink")。開発は[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")。
 
 ## 概要
 
-プレイヤーは[宮本武蔵](../Page/宮本武蔵.md "wikilink")か[佐々木小次郎](https://ja.wikipedia.org/wiki/佐々木小次郎 "wikilink")のどちらかの[剣豪](https://ja.wikipedia.org/wiki/剣豪 "wikilink")を選び、[関ヶ原の戦い](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")の西軍に参戦して[豊臣方を勝利に導くことが目的](../Page/豊臣氏.md "wikilink")。つまり[歴史](../Page/歴史.md "wikilink")を変えることになる。もちろん東軍の[徳川方に参戦して](../Page/徳川氏.md "wikilink")[歴史](../Page/歴史.md "wikilink")どおりにすることも可能。とにかく[歴史](../Page/歴史.md "wikilink")をかえられるかはプレイヤーの腕次第。[関ヶ原の地形](../Page/関ケ原町.md "wikilink")、布陣図、[裏切り](https://ja.wikipedia.org/wiki/裏切り "wikilink")、[内応](https://ja.wikipedia.org/wiki/内応 "wikilink")、参戦した武将などが細かく再現されている。
+プレイヤーは[宮本武蔵](../Page/宮本武蔵.md "wikilink")か[佐々木小次郎](../Page/佐々木小次郎.md "wikilink")のどちらかの[剣豪](https://ja.wikipedia.org/wiki/剣豪 "wikilink")を選び、[関ヶ原の戦い](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")の西軍に参戦して[豊臣方を勝利に導くことが目的](../Page/豊臣氏.md "wikilink")。つまり[歴史](../Page/歴史.md "wikilink")を変えることになる。もちろん東軍の[徳川方に参戦して](../Page/徳川氏.md "wikilink")[歴史](../Page/歴史.md "wikilink")どおりにすることも可能。とにかく[歴史](../Page/歴史.md "wikilink")をかえられるかはプレイヤーの腕次第。[関ヶ原の地形](../Page/関ケ原町.md "wikilink")、布陣図、[裏切り](https://ja.wikipedia.org/wiki/裏切り "wikilink")、[内応](https://ja.wikipedia.org/wiki/内応 "wikilink")、参戦した武将などが細かく再現されている。
 
 ## システム
 
@@ -23,11 +23,11 @@
 <!-- end list -->
 
   -
-    プレイヤーキャラの一人。[二刀流](https://ja.wikipedia.org/wiki/二刀流 "wikilink")で戦う。
+    プレイヤーキャラの一人。[二刀流](../Page/二刀流.md "wikilink")で戦う。
 
 体力は高いが、移動速度が遅い。
 
-  - **[佐々木小次郎](https://ja.wikipedia.org/wiki/佐々木小次郎 "wikilink")**
+  - **[佐々木小次郎](../Page/佐々木小次郎.md "wikilink")**
 
 <!-- end list -->
 

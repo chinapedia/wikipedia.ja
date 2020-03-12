@@ -7,9 +7,9 @@
 
 元々は、同氏が[Atari ST向けに開発した](../Page/Atari_ST.md "wikilink")[Crystal Atari Browser](https://ja.wikipedia.org/wiki/Crystal_Atari_Browser "wikilink") (CAB) というウェブブラウザを[Macintosh](../Page/Macintosh.md "wikilink")に移植したものであり\[1\]、独自の[レンダリングエンジンを搭載していた](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")。
 
-当初は[CSSや](../Page/Cascading_Style_Sheets.md "wikilink")[DOMなどの](../Page/Document_Object_Model.md "wikilink")[ウェブ標準](https://ja.wikipedia.org/wiki/ウェブ標準 "wikilink")技術に対応していなかったが、iCab 3.0にてCSS 2及び[Unicode](../Page/Unicode.md "wikilink")をサポートした。
+当初は[CSSや](../Page/Cascading_Style_Sheets.md "wikilink")[DOMなどの](../Page/Document_Object_Model.md "wikilink")[ウェブ標準](../Page/ウェブ標準.md "wikilink")技術に対応していなかったが、iCab 3.0にてCSS 2及び[Unicode](../Page/Unicode.md "wikilink")をサポートした。
 
-iCab 4.0以降はレンダリングエンジンが[WebKit](https://ja.wikipedia.org/wiki/WebKit "wikilink")に置き換えられ、[Safari](../Page/Safari.md "wikilink")と同等のレンダリング能力を得た。そのため現在のiCabは、Crystal Atari Browserと全くの別物である。
+iCab 4.0以降はレンダリングエンジンが[WebKit](../Page/WebKit.md "wikilink")に置き換えられ、[Safari](../Page/Safari.md "wikilink")と同等のレンダリング能力を得た。そのため現在のiCabは、Crystal Atari Browserと全くの別物である。
 
 2009年6月7日、iCab 4.6は[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")を100/100で通過した初めてのウェブブラウザとなった。 なお、Safari 4はその翌日にリリースされたにもかかわらず、Acid3を初めて100/100で通過した正式版のウェブブラウザとされている。
 
@@ -35,7 +35,7 @@ iCab 4.0以降はレンダリングエンジンが[WebKit](https://ja.wikipedia.
 
 2012年7月現在、iCab 4の開発は継続されている。
 
-[ソースコード](../Page/ソースコード.md "wikilink")が[Cocoa](../Page/Cocoa.md "wikilink") API を用いて書き直されたほか、[レンダリングエンジンが](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")[WebKit](https://ja.wikipedia.org/wiki/WebKit "wikilink")に置き換えられた。
+[ソースコード](../Page/ソースコード.md "wikilink")が[Cocoa](../Page/Cocoa.md "wikilink") API を用いて書き直されたほか、[レンダリングエンジンが](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")[WebKit](../Page/WebKit.md "wikilink")に置き換えられた。
 
 2012年6月現在、最新版のiCab 4.9では、Mac OS X 10.3.9〜10.4.x（[PowerPC](../Page/PowerPC.md "wikilink")版・[Intel版](../Page/X86.md "wikilink")）に対応する。
 
@@ -53,7 +53,7 @@ iCab 4.0以降はレンダリングエンジンが[WebKit](https://ja.wikipedia.
 
 [Mobile Safariでは行えないような幅広いカスタマイズや](../Page/Safari.md "wikilink")、様々な[ウェブアプリ](https://ja.wikipedia.org/wiki/ウェブアプリ "wikilink")やiOSアプリとの連携が特徴的である。
 
-かつては独自のヘッダを加えた[JavaScript](../Page/JavaScript.md "wikilink")ベースのユーザーによる[エクステンション](https://ja.wikipedia.org/wiki/エクステンション "wikilink")をWebページ上からインストールすることができた。
+かつては独自のヘッダを加えた[JavaScript](../Page/JavaScript.md "wikilink")ベースのユーザーによる[エクステンション](../Page/エクステンション.md "wikilink")をWebページ上からインストールすることができた。
 
 ## 外部リンク
 

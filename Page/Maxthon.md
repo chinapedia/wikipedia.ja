@@ -1,11 +1,11 @@
 > この記事は[Maxthon](https://ja.wikipedia.org/wiki/Maxthon)から翻訳されています。
 
 
-**Maxthon**（マクストン）または**傲游**は、[タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")のひとつである。[北京市](../Page/北京市.md "wikilink")[海淀区](../Page/海淀区.md "wikilink")にあるMaxthon International社が開発している。Windows版は、HTMLレンダリングエンジンを[Webkit](https://ja.wikipedia.org/wiki/Webkit "wikilink")と[Trident](https://ja.wikipedia.org/wiki/Trident "wikilink")の間で切り替えることができる。2013年７月の今のバージョンはベースがChromium[Webkit](https://ja.wikipedia.org/wiki/Webkit "wikilink")で、Chromeのエクステンションがそのまま使える。旧名称は**MyIE2**。
+**Maxthon**（マクストン）または**傲游**は、[タブブラウザ](../Page/タブブラウザ.md "wikilink")のひとつである。[北京市](../Page/北京市.md "wikilink")[海淀区](../Page/海淀区.md "wikilink")にあるMaxthon International社が開発している。Windows版は、HTMLレンダリングエンジンを[Webkit](https://ja.wikipedia.org/wiki/Webkit "wikilink")と[Trident](../Page/Trident.md "wikilink")の間で切り替えることができる。2013年７月の今のバージョンはベースがChromium[Webkit](https://ja.wikipedia.org/wiki/Webkit "wikilink")で、Chromeのエクステンションがそのまま使える。旧名称は**MyIE2**。
 
 ## 概要
 
-[中国のインターネットにおいては中国政府が](../Page/中華人民共和国.md "wikilink")[ネット検閲](../Page/ネット検閲.md "wikilink")を目的に巨大検閲システム[グレート・ファイアウォール](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")などによる[フィルタリングを行っている](https://ja.wikipedia.org/wiki/フィルタリング_\(有害サイトアクセス制限\) "wikilink")。これに対してMaxthonは[ウェブプロキシを介して](https://ja.wikipedia.org/wiki/プロキシ "wikilink")[トラフィック](https://ja.wikipedia.org/wiki/トラフィック "wikilink")を処理することで政府の情報統制を迂回する機能を持っている。そのため中国国内での人気が高い\[1\]。
+[中国のインターネットにおいては中国政府が](../Page/中華人民共和国.md "wikilink")[ネット検閲](../Page/ネット検閲.md "wikilink")を目的に巨大検閲システム[グレート・ファイアウォール](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")などによる[フィルタリングを行っている](https://ja.wikipedia.org/wiki/フィルタリング_\(有害サイトアクセス制限\) "wikilink")。これに対してMaxthonは[ウェブプロキシを介して](../Page/プロキシ.md "wikilink")[トラフィック](https://ja.wikipedia.org/wiki/トラフィック "wikilink")を処理することで政府の情報統制を迂回する機能を持っている。そのため中国国内での人気が高い\[1\]。
 
 マイクロソフトは[ヨーロッパにて競争法違反で訴えられていたが](https://ja.wikipedia.org/wiki/マイクロソフトの欧州連合における競争法違反事件 "wikilink")、これに関連して2010年、[欧州経済領域](../Page/欧州経済領域.md "wikilink")の [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") ユーザーに対して選択肢として12のウェブブラウザを提示することとした。この中に Maxthon が含まれている\[2\]。
 
@@ -14,10 +14,10 @@
 ## 関連項目
 
   - [Internet Explorer](../Page/Internet_Explorer.md "wikilink")
-  - [タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")
+  - [タブブラウザ](../Page/タブブラウザ.md "wikilink")
   - [IEコンポーネントブラウザ](../Page/IEコンポーネントブラウザ.md "wikilink")
-  - [中国のネット検閲](https://ja.wikipedia.org/wiki/中国のネット検閲 "wikilink")
-  - [金盾](https://ja.wikipedia.org/wiki/金盾 "wikilink")
+  - [中国のネット検閲](../Page/中国のネット検閲.md "wikilink")
+  - [金盾](../Page/金盾.md "wikilink")
 
 ## 脚注
 

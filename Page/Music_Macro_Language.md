@@ -1,7 +1,7 @@
 > この記事は[Music Macro Language](https://ja.wikipedia.org/wiki/Music_Macro_Language)から翻訳されています。
 
 
-**Music Macro Language**（ミュージック・マクロ・ランゲージ）とは音楽演奏を表現する[データ記述言語](https://ja.wikipedia.org/wiki/データ記述言語 "wikilink")ないし[ドメイン固有言語](https://ja.wikipedia.org/wiki/ドメイン固有言語 "wikilink")である。**MML**と略されることが多いが、[XMLの一種である](../Page/Extensible_Markup_Language.md "wikilink")[Music Markup Languageも音楽を表現するものでそちらもMMLと略されるため](https://ja.wikipedia.org/wiki/Music_Markup_Language "wikilink")、混同されることがある。
+**Music Macro Language**（ミュージック・マクロ・ランゲージ）とは音楽演奏を表現する[データ記述言語](../Page/データ記述言語.md "wikilink")ないし[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")である。**MML**と略されることが多いが、[XMLの一種である](../Page/Extensible_Markup_Language.md "wikilink")[Music Markup Languageも音楽を表現するものでそちらもMMLと略されるため](https://ja.wikipedia.org/wiki/Music_Markup_Language "wikilink")、混同されることがある。
 
 楽曲として聞くに堪える音声信号を直接表現するとデータ量が膨大になるため、また人間可読な文字列として簡単にシーケンスデータを入力するため、初期の[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")での音楽演奏によく使われた。独立した演奏プログラムとしての実装と、[BASIC](../Page/BASIC.md "wikilink")に埋込みの、`PLAY`文で演奏するものと、どちらが先かは定かではない。
 
@@ -12,8 +12,8 @@
 方言は音源や実装により多種多様である。ここでは代表的（比較的どれでも共通）なものを挙げるが、違っているものもある。大文字小文字を区別しないものが多いが、区別して別のコマンドとしているものもある。
 
   - `C D E F G A B`
-    それぞれ、ドレミファソラシの[音符](https://ja.wikipedia.org/wiki/音符 "wikilink")。
-  - [`#`](https://ja.wikipedia.org/wiki/変化記号 "wikilink")`  + - `
+    それぞれ、ドレミファソラシの[音符](../Page/音符.md "wikilink")。
+  - [`#`](../Page/変化記号.md "wikilink")`  + - `
     音符の後につけて半音上げ下げを表す。\#と+は同じ意味。
   - `R`
     休符。
@@ -30,20 +30,20 @@
   - `V`
     音量（ボリューム）を指定
   - `@`
-    [FM音源](https://ja.wikipedia.org/wiki/FM音源 "wikilink")などでの音色の指定
+    [FM音源](../Page/FM音源.md "wikilink")などでの音色の指定
   - `T`
-    [テンポ](https://ja.wikipedia.org/wiki/テンポ "wikilink")を指定。たとえば「`T120`」なら120BPMで演奏する。プラットフォームによってはテンポのずれが発生する。
+    [テンポ](../Page/テンポ.md "wikilink")を指定。たとえば「`T120`」なら120BPMで演奏する。プラットフォームによってはテンポのずれが発生する。
 
 やや一般的でないものに、次のものが挙げられる。
 
   - `N`
     通常のオクターブ+CDEFGABではなく、音の高さを数値で直接指定する。
   - `Q`
-    発音の長さを指定する。[レガート](https://ja.wikipedia.org/wiki/レガート "wikilink")や[スタッカート](https://ja.wikipedia.org/wiki/スタッカート "wikilink")を表現する。
+    発音の長さを指定する。[レガート](../Page/レガート.md "wikilink")や[スタッカート](https://ja.wikipedia.org/wiki/スタッカート "wikilink")を表現する。
   - `P`
     左右の定位を設定する。噛み砕いて言えば[ステレオ](../Page/ステレオ.md "wikilink")設定である。
   - `S`
-    [PSGの](../Page/Programmable_Sound_Generator.md "wikilink")[エンベロープの種類を選択する](https://ja.wikipedia.org/wiki/ADSR "wikilink")。
+    [PSGの](../Page/Programmable_Sound_Generator.md "wikilink")[エンベロープの種類を選択する](../Page/ADSR.md "wikilink")。
   - `M`
     PSGのエンベロープの周期を設定する。
   - `Y`
@@ -73,7 +73,7 @@
 
 #### 応用・テンポ数225と64分音符による音長表現法
 
-分解能の低さは、[テクノポップ](https://ja.wikipedia.org/wiki/テクノポップ "wikilink")などのグルーブ感（音長やリズムの微妙な変化とその一定性）を重視する音楽の多くをPCとMMLでは再現困難または不能とする。また、通常の4分音符や8分音符という長さのみでの表現はそもそも不可能な曲もある。しかし「tickが1/60秒のシステムの場合は、テンポ225に設定することで64分音符をtick1回分の長さとして扱うことが可能」というテクニックで、テンポと音長の組み合わせでは再現できなかった音長の楽曲が演奏可能となる。
+分解能の低さは、[テクノポップ](../Page/テクノポップ.md "wikilink")などのグルーブ感（音長やリズムの微妙な変化とその一定性）を重視する音楽の多くをPCとMMLでは再現困難または不能とする。また、通常の4分音符や8分音符という長さのみでの表現はそもそも不可能な曲もある。しかし「tickが1/60秒のシステムの場合は、テンポ225に設定することで64分音符をtick1回分の長さとして扱うことが可能」というテクニックで、テンポと音長の組み合わせでは再現できなかった音長の楽曲が演奏可能となる。
 
   - 例：7/60音長(`x16..`)に設定すると、テンポ128.571(以下略)の16分音符となる
 
@@ -85,10 +85,10 @@
 
 ## 関連項目
 
-  - [チップチューン](https://ja.wikipedia.org/wiki/チップチューン "wikilink")
-  - [N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC "wikilink")
+  - [チップチューン](../Page/チップチューン.md "wikilink")
+  - [N88-BASIC](../Page/N88-BASIC.md "wikilink")
   - [ABC記譜法](https://ja.wikipedia.org/wiki/ABC記譜法 "wikilink")
-  - [Ray (ソフトウェア)](https://ja.wikipedia.org/wiki/Ray_\(ソフトウェア\) "wikilink")
+  - [Ray (ソフトウェア)](../Page/Ray_\(ソフトウェア\).md "wikilink")
 
 ## 外部リンク
 
@@ -100,4 +100,4 @@
 
 [Category:コンピュータ言語](https://ja.wikipedia.org/wiki/Category:コンピュータ言語 "wikilink") [Category:音声ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:音声ファイルフォーマット "wikilink") [Category:記譜法](https://ja.wikipedia.org/wiki/Category:記譜法 "wikilink")
 
-1.  たとえば[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC "wikilink")の場合、`T`コマンドの値を88/176/177等に固定し、`Y`コマンドでOPNのTIMER-Bを操作してテンポを指定することにより、テンポずれを防ぐことができる。
+1.  たとえば[N88-BASIC](../Page/N88-BASIC.md "wikilink")の場合、`T`コマンドの値を88/176/177等に固定し、`Y`コマンドでOPNのTIMER-Bを操作してテンポを指定することにより、テンポずれを防ぐことができる。

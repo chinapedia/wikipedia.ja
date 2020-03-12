@@ -1,19 +1,19 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHKマイルカップ**（エヌエイチケイマイルカップ）は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が[東京競馬場](../Page/東京競馬場.md "wikilink")で施行する[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](https://ja.wikipedia.org/wiki/競馬の競走 "wikilink")（[GI](https://ja.wikipedia.org/wiki/競馬の競走格付け "wikilink")）である。
+**NHKマイルカップ**（エヌエイチケイマイルカップ）は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が[東京競馬場](../Page/東京競馬場.md "wikilink")で施行する[中央競馬](../Page/中央競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[GI](../Page/競馬の競走格付け.md "wikilink")）である。
 
-競走名の「NHK」は寄贈賞を提供している[特殊法人](https://ja.wikipedia.org/wiki/特殊法人 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")の略称で、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神南](https://ja.wikipedia.org/wiki/神南 "wikilink")に本部を置く[公共放送](https://ja.wikipedia.org/wiki/公共放送 "wikilink")\[1\]。
+競走名の「NHK」は寄贈賞を提供している[特殊法人](../Page/特殊法人.md "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")の略称で、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神南](../Page/神南.md "wikilink")に本部を置く[公共放送](../Page/公共放送.md "wikilink")\[1\]。
 
-正賞は[NHK杯](https://ja.wikipedia.org/wiki/NHK杯 "wikilink")、[日本馬主協会連合会](https://ja.wikipedia.org/wiki/日本馬主協会連合会 "wikilink")会長賞\[2\]\[3\]。
+正賞は[NHK杯](../Page/NHK杯.md "wikilink")、[日本馬主協会連合会](../Page/日本馬主協会連合会.md "wikilink")会長賞\[2\]\[3\]。
 
 ## 概要
 
-1953年から1995年まで[東京優駿](https://ja.wikipedia.org/wiki/東京優駿 "wikilink")（日本ダービー）の[トライアル](https://ja.wikipedia.org/wiki/トライアル "wikilink")競走として施行されていた「[NHK杯](https://ja.wikipedia.org/wiki/NHK杯_\(競馬\) "wikilink")」を前身としている\[4\]。当時はクラシック競走に出走できなかった外国産馬や短距離適性のある馬に目標となる大レースを4歳（現3歳）春季に創設しようという気運が高まり、1996年に春の4歳（現3歳）[マイル](../Page/マイル.md "wikilink")王決定戦として新設された\[5\]。
+1953年から1995年まで[東京優駿](https://ja.wikipedia.org/wiki/東京優駿 "wikilink")（日本ダービー）の[トライアル](https://ja.wikipedia.org/wiki/トライアル "wikilink")競走として施行されていた「[NHK杯](../Page/NHK杯_\(競馬\).md "wikilink")」を前身としている\[4\]。当時はクラシック競走に出走できなかった外国産馬や短距離適性のある馬に目標となる大レースを4歳（現3歳）春季に創設しようという気運が高まり、1996年に春の4歳（現3歳）[マイル](../Page/マイル.md "wikilink")王決定戦として新設された\[5\]。
 
-創設当初より[外国産馬](https://ja.wikipedia.org/wiki/外国産馬 "wikilink")が出走可能なほか、[指定交流競走](https://ja.wikipedia.org/wiki/指定交流競走 "wikilink")として所定の条件を満たした[地方競馬](../Page/地方競馬.md "wikilink")所属馬も出走が可能となっている\[6\]。2009年より[国際競走](https://ja.wikipedia.org/wiki/国際競走 "wikilink")となり、[外国馬](https://ja.wikipedia.org/wiki/外国馬 "wikilink")も出走可能になった\[7\]。
+創設当初より[外国産馬](../Page/外国産馬.md "wikilink")が出走可能なほか、[指定交流競走](../Page/指定交流競走.md "wikilink")として所定の条件を満たした[地方競馬](../Page/地方競馬.md "wikilink")所属馬も出走が可能となっている\[6\]。2009年より[国際競走](../Page/国際競走.md "wikilink")となり、[外国馬](../Page/外国馬.md "wikilink")も出走可能になった\[7\]。
 
-[NHK交響楽団](https://ja.wikipedia.org/wiki/NHK交響楽団 "wikilink")のメンバー（正式には、正団員以外を交えた「NHK交響楽団とその仲間たちによる[金管](https://ja.wikipedia.org/wiki/金管楽器 "wikilink")[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")」）が、発走前の[ファンファーレを生演奏するのが恒例となっている](https://ja.wikipedia.org/wiki/ファンファーレ_\(競馬\) "wikilink")\[8\]\[9\]。
+[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")のメンバー（正式には、正団員以外を交えた「NHK交響楽団とその仲間たちによる[金管](../Page/金管楽器.md "wikilink")[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")」）が、発走前の[ファンファーレを生演奏するのが恒例となっている](https://ja.wikipedia.org/wiki/ファンファーレ_\(競馬\) "wikilink")\[8\]\[9\]。
 
 ### 競走条件
 
@@ -24,7 +24,7 @@
   - JRA所属馬
   - 地方競馬所属馬（後述）
   - 外国調教馬（9頭まで、優先出走）
-  - [騸馬](https://ja.wikipedia.org/wiki/せん馬 "wikilink")（去勢した牡馬）は出走できない\[12\]。
+  - [騸馬](../Page/せん馬.md "wikilink")（去勢した牡馬）は出走できない\[12\]。
 
 負担重量：定量（牡馬57kg、牝馬55kg）
 
@@ -44,16 +44,16 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュージーランドトロフィー" title="wikilink">ニュージーランドトロフィー</a></p></td>
+<td><p><a href="../Page/ニュージーランドトロフィー.md" title="wikilink">ニュージーランドトロフィー</a></p></td>
 <td><p>GII</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中山競馬場" title="wikilink">中山競馬場</a></p></td>
+<td><p><a href="../Page/中山競馬場.md" title="wikilink">中山競馬場</a></p></td>
 <td><p>芝1600m</p></td>
 <td><p>3着以内</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アーリントンカップ" title="wikilink">アーリントンカップ</a></p></td>
+<td><p><a href="../Page/アーリントンカップ.md" title="wikilink">アーリントンカップ</a></p></td>
 <td><p>GIII</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阪神競馬場" title="wikilink">阪神競馬場</a></p></td>
+<td><p><a href="../Page/阪神競馬場.md" title="wikilink">阪神競馬場</a></p></td>
 <td><p>芝1600m</p></td>
 <td><p>3着以内</p></td>
 </tr>
@@ -117,10 +117,10 @@
 ## 歴史
 
   - 1996年 - 4歳牡馬・牝馬限定の重賞競走（GI\[22\]）として新設\[23\]。
-  - 2001年 - [馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")表示の国際基準への変更に伴い、出走資格を「3歳牡馬・牝馬」に変更\[24\]。
+  - 2001年 - [馬齢](../Page/馬齢.md "wikilink")表示の国際基準への変更に伴い、出走資格を「3歳牡馬・牝馬」に変更\[24\]。
   - 2007年 - 日本のパートI国昇格に伴い、格付表記をJpnIに変更\[25\]。
   - 2009年
-      - [国際競走](https://ja.wikipedia.org/wiki/国際競走 "wikilink")に変更され、外国調教馬が9頭まで出走可能となる\[26\]。
+      - [国際競走](../Page/国際競走.md "wikilink")に変更され、外国調教馬が9頭まで出走可能となる\[26\]。
       - 格付表記をGI（国際格付）に変更\[27\]。
 
 ### 歴代優勝馬
@@ -129,32 +129,32 @@
 
 コース種別を記載していない距離は、芝コースを表す。
 
-| 回数   | 施行日        | 競馬場 | 距離    | 優勝馬                                                             | 性齢 | タイム    | 優勝騎手                                                             | 管理調教師                                                   | 馬主                                                                             |
-| ---- | ---------- | --- | ----- | --------------------------------------------------------------- | -- | ------ | ---------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 第1回  | 1996年5月12日 | 東京  | 1600m | [タイキフォーチュン](https://ja.wikipedia.org/wiki/タイキフォーチュン "wikilink") | 牡3 | 1:32.6 | [柴田善臣](https://ja.wikipedia.org/wiki/柴田善臣 "wikilink")            | [高橋祥泰](https://ja.wikipedia.org/wiki/高橋祥泰 "wikilink")   | [（有）大樹ファーム](https://ja.wikipedia.org/wiki/大樹ファーム "wikilink")                   |
-| 第2回  | 1997年5月11日 | 東京  | 1600m | [シーキングザパール](https://ja.wikipedia.org/wiki/シーキングザパール "wikilink") | 牝3 | 1:33.1 | [武豊](https://ja.wikipedia.org/wiki/武豊 "wikilink")                | [森秀行](https://ja.wikipedia.org/wiki/森秀行 "wikilink")     | 植中倫子                                                                           |
-| 第3回  | 1998年5月17日 | 東京  | 1600m | [エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink") | 牡3 | 1:33.7 | [的場均](https://ja.wikipedia.org/wiki/的場均 "wikilink")              | [二ノ宮敬宇](https://ja.wikipedia.org/wiki/二ノ宮敬宇 "wikilink") | [渡邊隆](https://ja.wikipedia.org/wiki/渡邊隆 "wikilink")                            |
-| 第4回  | 1999年5月16日 | 東京  | 1600m | [シンボリインディ](https://ja.wikipedia.org/wiki/シンボリインディ "wikilink")   | 牡3 | 1:33.8 | [横山典弘](https://ja.wikipedia.org/wiki/横山典弘 "wikilink")            | [藤沢和雄](https://ja.wikipedia.org/wiki/藤沢和雄 "wikilink")   | [シンボリ牧場](https://ja.wikipedia.org/wiki/シンボリ牧場 "wikilink")                      |
-| 第5回  | 2000年5月7日  | 東京  | 1600m | [イーグルカフェ](https://ja.wikipedia.org/wiki/イーグルカフェ "wikilink")     | 牡3 | 1:33.5 | [岡部幸雄](https://ja.wikipedia.org/wiki/岡部幸雄 "wikilink")            | [小島太](https://ja.wikipedia.org/wiki/小島太 "wikilink")     | [西川清](https://ja.wikipedia.org/wiki/西川清 "wikilink")                            |
-| 第6回  | 2001年5月6日  | 東京  | 1600m | [クロフネ](https://ja.wikipedia.org/wiki/クロフネ "wikilink")           | 牡3 | 1:33.0 | 武豊                                                               | [松田国英](https://ja.wikipedia.org/wiki/松田国英 "wikilink")   | [金子真人](https://ja.wikipedia.org/wiki/金子真人 "wikilink")                          |
-| 第7回  | 2002年5月4日  | 東京  | 1600m | [テレグノシス](https://ja.wikipedia.org/wiki/テレグノシス "wikilink")       | 牡3 | 1:33.1 | [勝浦正樹](https://ja.wikipedia.org/wiki/勝浦正樹 "wikilink")            | [杉浦宏昭](https://ja.wikipedia.org/wiki/杉浦宏昭 "wikilink")   | [（有）社台レースホース](https://ja.wikipedia.org/wiki/社台レースホース "wikilink")               |
-| 第8回  | 2003年5月11日 | 東京  | 1600m | [ウインクリューガー](https://ja.wikipedia.org/wiki/ウインクリューガー "wikilink") | 牡3 | 1:34.2 | [武幸四郎](https://ja.wikipedia.org/wiki/武幸四郎 "wikilink")            | [松元茂樹](https://ja.wikipedia.org/wiki/松元茂樹 "wikilink")   | [（株）ウイン](https://ja.wikipedia.org/wiki/ウイン "wikilink")                         |
-| 第9回  | 2004年5月9日  | 東京  | 1600m | [キングカメハメハ](https://ja.wikipedia.org/wiki/キングカメハメハ "wikilink")   | 牡3 | 1:32.5 | [安藤勝己](https://ja.wikipedia.org/wiki/安藤勝己 "wikilink")            | 松田国英                                                    | 金子真人                                                                           |
-| 第10回 | 2005年5月8日  | 東京  | 1600m | [ラインクラフト](https://ja.wikipedia.org/wiki/ラインクラフト "wikilink")     | 牝3 | 1:33.6 | [福永祐一](https://ja.wikipedia.org/wiki/福永祐一 "wikilink")            | [瀬戸口勉](https://ja.wikipedia.org/wiki/瀬戸口勉 "wikilink")   | 大澤繁昌                                                                           |
-| 第11回 | 2006年5月7日  | 東京  | 1600m | [ロジック](https://ja.wikipedia.org/wiki/ロジック_\(競走馬\) "wikilink")   | 牡3 | 1:33.2 | 武豊                                                               | [橋口弘次郎](https://ja.wikipedia.org/wiki/橋口弘次郎 "wikilink") | [前田幸治](https://ja.wikipedia.org/wiki/前田幸治 "wikilink")                          |
-| 第12回 | 2007年5月6日  | 東京  | 1600m | [ピンクカメオ](https://ja.wikipedia.org/wiki/ピンクカメオ "wikilink")       | 牝3 | 1:34.3 | [内田博幸](https://ja.wikipedia.org/wiki/内田博幸 "wikilink")            | [国枝栄](https://ja.wikipedia.org/wiki/国枝栄 "wikilink")     | [金子真人](https://ja.wikipedia.org/wiki/金子真人 "wikilink")ホールディングス（株）               |
-| 第13回 | 2008年5月11日 | 東京  | 1600m | [ディープスカイ](https://ja.wikipedia.org/wiki/ディープスカイ "wikilink")     | 牡3 | 1:34.2 | [四位洋文](https://ja.wikipedia.org/wiki/四位洋文 "wikilink")            | [昆貢](https://ja.wikipedia.org/wiki/昆貢 "wikilink")       | [深見敏男](https://ja.wikipedia.org/wiki/深見敏男 "wikilink")                          |
-| 第14回 | 2009年5月10日 | 東京  | 1600m | [ジョーカプチーノ](https://ja.wikipedia.org/wiki/ジョーカプチーノ "wikilink")   | 牡3 | 1:32.4 | [藤岡康太](https://ja.wikipedia.org/wiki/藤岡康太 "wikilink")            | [中竹和也](https://ja.wikipedia.org/wiki/中竹和也 "wikilink")   | 上田けい子                                                                          |
-| 第15回 | 2010年5月9日  | 東京  | 1600m | [ダノンシャンティ](https://ja.wikipedia.org/wiki/ダノンシャンティ "wikilink")   | 牡3 | 1:31.4 | 安藤勝己                                                             | 松田国英                                                    | [ダノックス](https://ja.wikipedia.org/wiki/野田順弘 "wikilink")                         |
-| 第16回 | 2011年5月8日  | 東京  | 1600m | [グランプリボス](https://ja.wikipedia.org/wiki/グランプリボス "wikilink")     | 牡3 | 1:32.2 | [C.ウィリアムズ](https://ja.wikipedia.org/wiki/クレイグ・ウィリアムズ "wikilink") | [矢作芳人](https://ja.wikipedia.org/wiki/矢作芳人 "wikilink")   | [（株）グランプリ](https://ja.wikipedia.org/wiki/グランプリ_\(教育関連\) "wikilink")            |
-| 第17回 | 2012年5月6日  | 東京  | 1600m | [カレンブラックヒル](https://ja.wikipedia.org/wiki/カレンブラックヒル "wikilink") | 牡3 | 1:34.5 | [秋山真一郎](https://ja.wikipedia.org/wiki/秋山真一郎 "wikilink")          | [平田修](https://ja.wikipedia.org/wiki/平田修 "wikilink")     | 鈴木隆司                                                                           |
-| 第18回 | 2013年5月5日  | 東京  | 1600m | [マイネルホウオウ](https://ja.wikipedia.org/wiki/マイネルホウオウ "wikilink")   | 牡3 | 1:32.7 | [柴田大知](https://ja.wikipedia.org/wiki/柴田大知 "wikilink")            | [畠山吉宏](https://ja.wikipedia.org/wiki/畠山吉宏 "wikilink")   | [（株）サラブレッドクラブ・ラフィアン](https://ja.wikipedia.org/wiki/サラブレッドクラブ・ラフィアン "wikilink") |
-| 第19回 | 2014年5月11日 | 東京  | 1600m | [ミッキーアイル](https://ja.wikipedia.org/wiki/ミッキーアイル "wikilink")     | 牡3 | 1:33.2 | [浜中俊](https://ja.wikipedia.org/wiki/浜中俊 "wikilink")              | [音無秀孝](https://ja.wikipedia.org/wiki/音無秀孝 "wikilink")   | 野田みづき                                                                          |
-| 第20回 | 2015年5月10日 | 東京  | 1600m | [クラリティスカイ](https://ja.wikipedia.org/wiki/クラリティスカイ "wikilink")   | 牡3 | 1:33.5 | 横山典弘                                                             | [友道康夫](https://ja.wikipedia.org/wiki/友道康夫 "wikilink")   | [（有）パカパカファーム](https://ja.wikipedia.org/wiki/パカパカファーム "wikilink")               |
-| 第21回 | 2016年5月8日  | 東京  | 1600m | [メジャーエンブレム](https://ja.wikipedia.org/wiki/メジャーエンブレム "wikilink") | 牝3 | 1:32.8 | [C.ルメール](https://ja.wikipedia.org/wiki/クリストフ・ルメール "wikilink")    | [田村康仁](https://ja.wikipedia.org/wiki/田村康仁 "wikilink")   | [（有）サンデーレーシング](https://ja.wikipedia.org/wiki/サンデーレーシング "wikilink")             |
-| 第22回 | 2017年5月7日  | 東京  | 1600m | [アエロリット](https://ja.wikipedia.org/wiki/アエロリット "wikilink")       | 牝3 | 1:32.3 | 横山典弘                                                             | [菊沢隆徳](https://ja.wikipedia.org/wiki/菊沢隆徳 "wikilink")   | [（有）サンデーレーシング](https://ja.wikipedia.org/wiki/サンデーレーシング "wikilink")             |
-| 第23回 | 2018年5月6日  | 東京  | 1600m | [ケイアイノーテック](https://ja.wikipedia.org/wiki/ケイアイノーテック "wikilink") | 牡3 | 1:32.8 | [藤岡佑介](https://ja.wikipedia.org/wiki/藤岡佑介 "wikilink")            | [平田修](https://ja.wikipedia.org/wiki/平田修 "wikilink")     | [亀田和弘](https://ja.wikipedia.org/wiki/亀田和弘 "wikilink")                          |
-| 第24回 | 2019年5月5日  | 東京  | 1600m | [アドマイヤマーズ](https://ja.wikipedia.org/wiki/アドマイヤマーズ "wikilink")   | 牡3 | 1:32.4 | [M.デムーロ](https://ja.wikipedia.org/wiki/ミルコ・デムーロ "wikilink")      | [友道康夫](https://ja.wikipedia.org/wiki/友道康夫 "wikilink")   | [近藤利一](https://ja.wikipedia.org/wiki/近藤利一 "wikilink")                          |
+| 回数   | 施行日        | 競馬場 | 距離    | 優勝馬                                                             | 性齢 | タイム    | 優勝騎手                                                  | 管理調教師                                                 | 馬主                                                          |
+| ---- | ---------- | --- | ----- | --------------------------------------------------------------- | -- | ------ | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
+| 第1回  | 1996年5月12日 | 東京  | 1600m | [タイキフォーチュン](../Page/タイキフォーチュン.md "wikilink")                    | 牡3 | 1:32.6 | [柴田善臣](https://ja.wikipedia.org/wiki/柴田善臣 "wikilink") | [高橋祥泰](../Page/高橋祥泰.md "wikilink")                    | [（有）大樹ファーム](../Page/大樹ファーム.md "wikilink")                   |
+| 第2回  | 1997年5月11日 | 東京  | 1600m | [シーキングザパール](../Page/シーキングザパール.md "wikilink")                    | 牝3 | 1:33.1 | [武豊](../Page/武豊.md "wikilink")                        | [森秀行](../Page/森秀行.md "wikilink")                      | 植中倫子                                                        |
+| 第3回  | 1998年5月17日 | 東京  | 1600m | [エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink") | 牡3 | 1:33.7 | [的場均](../Page/的場均.md "wikilink")                      | [二ノ宮敬宇](../Page/二ノ宮敬宇.md "wikilink")                  | [渡邊隆](https://ja.wikipedia.org/wiki/渡邊隆 "wikilink")         |
+| 第4回  | 1999年5月16日 | 東京  | 1600m | [シンボリインディ](../Page/シンボリインディ.md "wikilink")                      | 牡3 | 1:33.8 | [横山典弘](../Page/横山典弘.md "wikilink")                    | [藤沢和雄](../Page/藤沢和雄.md "wikilink")                    | [シンボリ牧場](../Page/シンボリ牧場.md "wikilink")                      |
+| 第5回  | 2000年5月7日  | 東京  | 1600m | [イーグルカフェ](../Page/イーグルカフェ.md "wikilink")                        | 牡3 | 1:33.5 | [岡部幸雄](../Page/岡部幸雄.md "wikilink")                    | [小島太](../Page/小島太.md "wikilink")                      | [西川清](../Page/西川清.md "wikilink")                            |
+| 第6回  | 2001年5月6日  | 東京  | 1600m | [クロフネ](../Page/クロフネ.md "wikilink")                              | 牡3 | 1:33.0 | 武豊                                                    | [松田国英](../Page/松田国英.md "wikilink")                    | [金子真人](../Page/金子真人.md "wikilink")                          |
+| 第7回  | 2002年5月4日  | 東京  | 1600m | [テレグノシス](../Page/テレグノシス.md "wikilink")                          | 牡3 | 1:33.1 | [勝浦正樹](../Page/勝浦正樹.md "wikilink")                    | [杉浦宏昭](../Page/杉浦宏昭.md "wikilink")                    | [（有）社台レースホース](../Page/社台レースホース.md "wikilink")               |
+| 第8回  | 2003年5月11日 | 東京  | 1600m | [ウインクリューガー](../Page/ウインクリューガー.md "wikilink")                    | 牡3 | 1:34.2 | [武幸四郎](../Page/武幸四郎.md "wikilink")                    | [松元茂樹](../Page/松元茂樹.md "wikilink")                    | [（株）ウイン](../Page/ウイン.md "wikilink")                         |
+| 第9回  | 2004年5月9日  | 東京  | 1600m | [キングカメハメハ](../Page/キングカメハメハ.md "wikilink")                      | 牡3 | 1:32.5 | [安藤勝己](../Page/安藤勝己.md "wikilink")                    | 松田国英                                                  | 金子真人                                                        |
+| 第10回 | 2005年5月8日  | 東京  | 1600m | [ラインクラフト](../Page/ラインクラフト.md "wikilink")                        | 牝3 | 1:33.6 | [福永祐一](../Page/福永祐一.md "wikilink")                    | [瀬戸口勉](../Page/瀬戸口勉.md "wikilink")                    | 大澤繁昌                                                        |
+| 第11回 | 2006年5月7日  | 東京  | 1600m | [ロジック](../Page/ロジック_\(競走馬\).md "wikilink")                      | 牡3 | 1:33.2 | 武豊                                                    | [橋口弘次郎](../Page/橋口弘次郎.md "wikilink")                  | [前田幸治](https://ja.wikipedia.org/wiki/前田幸治 "wikilink")       |
+| 第12回 | 2007年5月6日  | 東京  | 1600m | [ピンクカメオ](../Page/ピンクカメオ.md "wikilink")                          | 牝3 | 1:34.3 | [内田博幸](../Page/内田博幸.md "wikilink")                    | [国枝栄](../Page/国枝栄.md "wikilink")                      | [金子真人](../Page/金子真人.md "wikilink")ホールディングス（株）               |
+| 第13回 | 2008年5月11日 | 東京  | 1600m | [ディープスカイ](https://ja.wikipedia.org/wiki/ディープスカイ "wikilink")     | 牡3 | 1:34.2 | [四位洋文](../Page/四位洋文.md "wikilink")                    | [昆貢](../Page/昆貢.md "wikilink")                        | [深見敏男](https://ja.wikipedia.org/wiki/深見敏男 "wikilink")       |
+| 第14回 | 2009年5月10日 | 東京  | 1600m | [ジョーカプチーノ](https://ja.wikipedia.org/wiki/ジョーカプチーノ "wikilink")   | 牡3 | 1:32.4 | [藤岡康太](../Page/藤岡康太.md "wikilink")                    | [中竹和也](../Page/中竹和也.md "wikilink")                    | 上田けい子                                                       |
+| 第15回 | 2010年5月9日  | 東京  | 1600m | [ダノンシャンティ](https://ja.wikipedia.org/wiki/ダノンシャンティ "wikilink")   | 牡3 | 1:31.4 | 安藤勝己                                                  | 松田国英                                                  | [ダノックス](../Page/野田順弘.md "wikilink")                         |
+| 第16回 | 2011年5月8日  | 東京  | 1600m | [グランプリボス](https://ja.wikipedia.org/wiki/グランプリボス "wikilink")     | 牡3 | 1:32.2 | [C.ウィリアムズ](../Page/クレイグ・ウィリアムズ.md "wikilink")         | [矢作芳人](../Page/矢作芳人.md "wikilink")                    | [（株）グランプリ](../Page/グランプリ_\(教育関連\).md "wikilink")            |
+| 第17回 | 2012年5月6日  | 東京  | 1600m | [カレンブラックヒル](https://ja.wikipedia.org/wiki/カレンブラックヒル "wikilink") | 牡3 | 1:34.5 | [秋山真一郎](../Page/秋山真一郎.md "wikilink")                  | [平田修](../Page/平田修.md "wikilink")                      | 鈴木隆司                                                        |
+| 第18回 | 2013年5月5日  | 東京  | 1600m | [マイネルホウオウ](https://ja.wikipedia.org/wiki/マイネルホウオウ "wikilink")   | 牡3 | 1:32.7 | [柴田大知](../Page/柴田大知.md "wikilink")                    | [畠山吉宏](https://ja.wikipedia.org/wiki/畠山吉宏 "wikilink") | [（株）サラブレッドクラブ・ラフィアン](../Page/サラブレッドクラブ・ラフィアン.md "wikilink") |
+| 第19回 | 2014年5月11日 | 東京  | 1600m | [ミッキーアイル](https://ja.wikipedia.org/wiki/ミッキーアイル "wikilink")     | 牡3 | 1:33.2 | [浜中俊](../Page/浜中俊.md "wikilink")                      | [音無秀孝](../Page/音無秀孝.md "wikilink")                    | 野田みづき                                                       |
+| 第20回 | 2015年5月10日 | 東京  | 1600m | [クラリティスカイ](https://ja.wikipedia.org/wiki/クラリティスカイ "wikilink")   | 牡3 | 1:33.5 | 横山典弘                                                  | [友道康夫](../Page/友道康夫.md "wikilink")                    | [（有）パカパカファーム](../Page/パカパカファーム.md "wikilink")               |
+| 第21回 | 2016年5月8日  | 東京  | 1600m | [メジャーエンブレム](https://ja.wikipedia.org/wiki/メジャーエンブレム "wikilink") | 牝3 | 1:32.8 | [C.ルメール](../Page/クリストフ・ルメール.md "wikilink")            | [田村康仁](https://ja.wikipedia.org/wiki/田村康仁 "wikilink") | [（有）サンデーレーシング](../Page/サンデーレーシング.md "wikilink")             |
+| 第22回 | 2017年5月7日  | 東京  | 1600m | [アエロリット](https://ja.wikipedia.org/wiki/アエロリット "wikilink")       | 牝3 | 1:32.3 | 横山典弘                                                  | [菊沢隆徳](../Page/菊沢隆徳.md "wikilink")                    | [（有）サンデーレーシング](../Page/サンデーレーシング.md "wikilink")             |
+| 第23回 | 2018年5月6日  | 東京  | 1600m | [ケイアイノーテック](https://ja.wikipedia.org/wiki/ケイアイノーテック "wikilink") | 牡3 | 1:32.8 | [藤岡佑介](../Page/藤岡佑介.md "wikilink")                    | [平田修](../Page/平田修.md "wikilink")                      | [亀田和弘](https://ja.wikipedia.org/wiki/亀田和弘 "wikilink")       |
+| 第24回 | 2019年5月5日  | 東京  | 1600m | [アドマイヤマーズ](https://ja.wikipedia.org/wiki/アドマイヤマーズ "wikilink")   | 牡3 | 1:32.4 | [M.デムーロ](../Page/ミルコ・デムーロ.md "wikilink")              | [友道康夫](../Page/友道康夫.md "wikilink")                    | [近藤利一](../Page/近藤利一.md "wikilink")                          |
 
 ### NHKマイルカップの記録
 
@@ -205,8 +205,8 @@
 
 ## 関連項目
 
-  - [NHK杯](https://ja.wikipedia.org/wiki/NHK杯 "wikilink") - NHK主催の各種競技大会
-  - [きさらぎ賞](https://ja.wikipedia.org/wiki/きさらぎ賞 "wikilink") - NHKより優勝杯が提供されており、「NHK賞」の副称が付いている
+  - [NHK杯](../Page/NHK杯.md "wikilink") - NHK主催の各種競技大会
+  - [きさらぎ賞](../Page/きさらぎ賞.md "wikilink") - NHKより優勝杯が提供されており、「NHK賞」の副称が付いている
 
 ## 外部リンク
 
@@ -221,11 +221,11 @@
 5.
 6.
 7.
-8.  [NHKマイルカップでファンファーレ](http://www.nhkso.or.jp/about/contents/12781/) 活動報告 [NHK交響楽団](https://ja.wikipedia.org/wiki/NHK交響楽団 "wikilink") 2015年5月19日
+8.  [NHKマイルカップでファンファーレ](http://www.nhkso.or.jp/about/contents/12781/) 活動報告 [NHK交響楽団](../Page/NHK交響楽団.md "wikilink") 2015年5月19日
 9.
 10.
 11.
-12. ただしクラシック競走と違い、本競走では騸馬排除の根拠とされる「繁殖馬の選定」を明確に謳っているわけではない。これは[朝日杯フューチュリティステークス](../Page/朝日杯フューチュリティステークス.md "wikilink")、[ニュージーランドトロフィー](https://ja.wikipedia.org/wiki/ニュージーランドトロフィー "wikilink")でも同様である。
+12. ただしクラシック競走と違い、本競走では騸馬排除の根拠とされる「繁殖馬の選定」を明確に謳っているわけではない。これは[朝日杯フューチュリティステークス](../Page/朝日杯フューチュリティステークス.md "wikilink")、[ニュージーランドトロフィー](../Page/ニュージーランドトロフィー.md "wikilink")でも同様である。
 13.
 14.
 15.

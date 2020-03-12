@@ -7,13 +7,13 @@
 
 [thumbにおけるJava](https://ja.wikipedia.org/wiki/ファイル:Java_Platforms.PNG "wikilink") EEの位置づけ。Java EEは[Java SEの拡張機能として位置づけられている](../Page/Java_Platform,_Standard_Edition.md "wikilink")。\]\]
 
-[1999年](../Page/1999年.md "wikilink")に初版である1.2が発表された。主に小規模〜大規模サーバーシステムの標準仕様として、動的HTTPサーバー機能、自動トランザクション管理機能、データベース接続機能、メッセージング機能、各種通信プロトコル機能がAPIとして定められている。大規模システムにおける[多層システムの構築も想定されており](https://ja.wikipedia.org/wiki/多層アーキテクチャ "wikilink")、XAプロトコルを用いた分散トランザクションにも対応している。
+[1999年](../Page/1999年.md "wikilink")に初版である1.2が発表された。主に小規模〜大規模サーバーシステムの標準仕様として、動的HTTPサーバー機能、自動トランザクション管理機能、データベース接続機能、メッセージング機能、各種通信プロトコル機能がAPIとして定められている。大規模システムにおける[多層システムの構築も想定されており](../Page/多層アーキテクチャ.md "wikilink")、XAプロトコルを用いた分散トランザクションにも対応している。
 
-過去のリリースに伴い名称が変化しており、[2017年](https://ja.wikipedia.org/wiki/2017年 "wikilink")現在のバージョンはJava Platform, Enterprise Edition 8 (Java EE 8) と命名されているが、Java EE 5より過去のバージョンはJava 2 Platform, Enterprise Edition (J2EE) と命名されていた。
+過去のリリースに伴い名称が変化しており、[2017年](../Page/2017年.md "wikilink")現在のバージョンはJava Platform, Enterprise Edition 8 (Java EE 8) と命名されているが、Java EE 5より過去のバージョンはJava 2 Platform, Enterprise Edition (J2EE) と命名されていた。
 
 Java EE自体は仕様であるため、各社・各組織がライセンスを受け実装している。オープンソースのものからプロプライエタリなもの、無償のものや有償のものなど選択肢が多い。
 
-Java EEの権利は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")を買収した[オラクルが保有してきたが](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、同社は2017年にJava EEを[Eclipse Foundationに寄贈して](https://ja.wikipedia.org/wiki/Eclipse_Foundation "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")化をすることを発表。Java EEの商標については引き続きオラクルが保有するため、Java EE 9以後は**Jakarta EE**の名で開発が進められる事が発表された。\[1\]
+Java EEの権利は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")を買収した[オラクルが保有してきたが](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、同社は2017年にJava EEを[Eclipse Foundationに寄贈して](../Page/Eclipse_Foundation.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")化をすることを発表。Java EEの商標については引き続きオラクルが保有するため、Java EE 9以後は**Jakarta EE**の名で開発が進められる事が発表された。\[1\]
 
 ## 歴史
 
@@ -21,12 +21,12 @@ Java EEは[1999年](../Page/1999年.md "wikilink")の登場以後、数年おき
 
   - Java 2 Platform, Enterprise Edition 1.2
     最初のJ2EEの仕様。[Sun Microsystemsが開発をし](../Page/サン・マイクロシステムズ.md "wikilink")、[1999年](../Page/1999年.md "wikilink")12月12日にリリースされた。1.2当初は以下のような技術から構成されていた。
-    [JDBC](https://ja.wikipedia.org/wiki/JDBC "wikilink") 2.0, [JNDI](https://ja.wikipedia.org/wiki/Java_Naming_and_Directory_Interface "wikilink") 1.2, [RMI-IIOP](https://ja.wikipedia.org/wiki/RMI-IIOP "wikilink") 1.0, [Servlet](https://ja.wikipedia.org/wiki/Java_Servlet "wikilink") 2.2, [JSP](https://ja.wikipedia.org/wiki/JavaServer_Pages "wikilink") 1.1, [EJB](https://ja.wikipedia.org/wiki/Enterprise_JavaBeans "wikilink") 1.1, [JMS](https://ja.wikipedia.org/wiki/Java_Message_Service "wikilink") 1.0, [JTA](https://ja.wikipedia.org/wiki/Java_Transaction_API "wikilink") 1.0,  1.1,  1.0
+    [JDBC](../Page/JDBC.md "wikilink") 2.0, [JNDI](../Page/Java_Naming_and_Directory_Interface.md "wikilink") 1.2, [RMI-IIOP](../Page/RMI-IIOP.md "wikilink") 1.0, [Servlet](../Page/Java_Servlet.md "wikilink") 2.2, [JSP](../Page/JavaServer_Pages.md "wikilink") 1.1, [EJB](../Page/Enterprise_JavaBeans.md "wikilink") 1.1, [JMS](../Page/Java_Message_Service.md "wikilink") 1.0, [JTA](../Page/Java_Transaction_API.md "wikilink") 1.0,  1.1,  1.0
 
 <!-- end list -->
 
   - Java 2 Platform, Enterprise Edition 1.3
-    JSR 58 として[2001年](../Page/2001年.md "wikilink")9月24日にリリースされた。仕様検討は、[Java Community Processの元で行われた](https://ja.wikipedia.org/wiki/Java_Community_Process "wikilink")。[ベータ版](https://ja.wikipedia.org/wiki/ベータ版 "wikilink")が2001年4月にSunによってリリースされている。1.3では新たにJSPの標準カスタムタグライブラリである[JSTLや](https://ja.wikipedia.org/wiki/JavaServer_Pages#JSTL "wikilink")、[JAXP](https://ja.wikipedia.org/wiki/Java_API_for_XML_Processing "wikilink"), , といった技術が追加された。またEJBが2.0へと更新され、JNDIは[J2SEへの移行により取り除かれた](../Page/Java_Platform,_Standard_Edition.md "wikilink")。
+    JSR 58 として[2001年](../Page/2001年.md "wikilink")9月24日にリリースされた。仕様検討は、[Java Community Processの元で行われた](../Page/Java_Community_Process.md "wikilink")。[ベータ版](../Page/ベータ版.md "wikilink")が2001年4月にSunによってリリースされている。1.3では新たにJSPの標準カスタムタグライブラリである[JSTLや](https://ja.wikipedia.org/wiki/JavaServer_Pages#JSTL "wikilink")、[JAXP](../Page/Java_API_for_XML_Processing.md "wikilink"), , といった技術が追加された。またEJBが2.0へと更新され、JNDIは[J2SEへの移行により取り除かれた](../Page/Java_Platform,_Standard_Edition.md "wikilink")。
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@ Java EEは[1999年](../Page/1999年.md "wikilink")の登場以後、数年おき
 <!-- end list -->
 
   - Java Platform, Enterprise Edition 5
-    JSR 244として[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月11日にリリースされた。5からは名称・バージョン体系が改められており、またJ2SE 5.0で導入された[アノテーション](https://ja.wikipedia.org/wiki/アノテーション "wikilink")を使った仕組みが導入されるなど、仕様自体も大きく変更された。中でもEJBは[DIや](https://ja.wikipedia.org/wiki/依存性の注入 "wikilink")[POJOの概念を取り入れ仕様を全面的に見直した](https://ja.wikipedia.org/wiki/Plain_Old_Java_Object "wikilink")3.0へと更新されており、さらにEJBから派生する形で永続化フレームワークである[JPAも追加されている](https://ja.wikipedia.org/wiki/Java_Persistence_API "wikilink")。また、新たに[Webアプリケーションフレームワーク](https://ja.wikipedia.org/wiki/Webアプリケーションフレームワーク "wikilink")である[JSFが採用された](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink")。
+    JSR 244として[2006年](../Page/2006年.md "wikilink")5月11日にリリースされた。5からは名称・バージョン体系が改められており、またJ2SE 5.0で導入された[アノテーション](../Page/アノテーション.md "wikilink")を使った仕組みが導入されるなど、仕様自体も大きく変更された。中でもEJBは[DIや](../Page/依存性の注入.md "wikilink")[POJOの概念を取り入れ仕様を全面的に見直した](../Page/Plain_Old_Java_Object.md "wikilink")3.0へと更新されており、さらにEJBから派生する形で永続化フレームワークである[JPAも追加されている](../Page/Java_Persistence_API.md "wikilink")。また、新たに[Webアプリケーションフレームワーク](../Page/Webアプリケーションフレームワーク.md "wikilink")である[JSFが採用された](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink")。
 
 <!-- end list -->
 
@@ -46,13 +46,13 @@ Java EEは[1999年](../Page/1999年.md "wikilink")の登場以後、数年おき
 <!-- end list -->
 
   - Java Platform, Enterprise Edition 7
-    JSR 342として[2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")5月28日にリリースされた。7ではJSFが2.2となりCDIに準拠した上で[HTML5](https://ja.wikipedia.org/wiki/HTML5 "wikilink")にも対応した。[WebSocket](https://ja.wikipedia.org/wiki/WebSocket "wikilink")や[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")に関する仕様が追加されている。Java EE 7は以下のような技術から構成されている。
-    [WebSocket](https://ja.wikipedia.org/wiki/WebSocket "wikilink"), [JSON](https://ja.wikipedia.org/wiki/JavaScript_Object_Notation "wikilink") Processing, [Servlet](https://ja.wikipedia.org/wiki/Java_Servlet "wikilink") 3.1, [JSF](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink") 2.2, [EL](https://ja.wikipedia.org/wiki/JavaServer_Pages#EL式 "wikilink") 3.0, [JSP](https://ja.wikipedia.org/wiki/JavaServer_Pages "wikilink") 2.3, [JSTL](https://ja.wikipedia.org/wiki/JavaServer_Pages#JSTL "wikilink") 1.2, [Batch Applications](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink"), Concurrency Utilities, CDI 1.1, [DI](https://ja.wikipedia.org/wiki/依存性の注入 "wikilink") 1.0, [Bean Validation](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink") 1.1, [EJB](https://ja.wikipedia.org/wiki/Enterprise_JavaBeans "wikilink") 3.2, Interceptors 1.2,  1.7, [JPA](https://ja.wikipedia.org/wiki/Java_Persistence_API "wikilink") 2.1,  1.2, [JMS](https://ja.wikipedia.org/wiki/Java_Message_Service "wikilink") 2.0, [JTA](https://ja.wikipedia.org/wiki/Java_Transaction_API "wikilink") 1.2,  1.5, [JAX-RS](https://ja.wikipedia.org/wiki/JAX-RS "wikilink") 2.0, Enterprise Web Services 1.3,  2.2, , [JAX-RPC](https://ja.wikipedia.org/wiki/JAX-RPC "wikilink") 1.1,  1.3,  1.0, JASPIC 1.1, Java ACC 1.5, Java EE Application Deployment 1.2,  1.1, Debugging Support for Other Languages 1.0, [JAXB](https://ja.wikipedia.org/wiki/Java_Architecture_for_XML_Binding "wikilink") 2.2, [JAXP](https://ja.wikipedia.org/wiki/Java_API_for_XML_Processing "wikilink") 1.3, [JDBC](https://ja.wikipedia.org/wiki/JDBC "wikilink") 4.0, [JMX](https://ja.wikipedia.org/wiki/Java_Management_Extensions "wikilink") 2.0,  1.1, [StAX](https://ja.wikipedia.org/wiki/Streaming_API_for_XML "wikilink")
+    JSR 342として[2013年](../Page/2013年.md "wikilink")5月28日にリリースされた。7ではJSFが2.2となりCDIに準拠した上で[HTML5](../Page/HTML5.md "wikilink")にも対応した。[WebSocket](https://ja.wikipedia.org/wiki/WebSocket "wikilink")や[バッチ処理](../Page/バッチ処理.md "wikilink")に関する仕様が追加されている。Java EE 7は以下のような技術から構成されている。
+    [WebSocket](https://ja.wikipedia.org/wiki/WebSocket "wikilink"), [JSON](../Page/JavaScript_Object_Notation.md "wikilink") Processing, [Servlet](../Page/Java_Servlet.md "wikilink") 3.1, [JSF](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink") 2.2, [EL](https://ja.wikipedia.org/wiki/JavaServer_Pages#EL式 "wikilink") 3.0, [JSP](../Page/JavaServer_Pages.md "wikilink") 2.3, [JSTL](https://ja.wikipedia.org/wiki/JavaServer_Pages#JSTL "wikilink") 1.2, [Batch Applications](../Page/バッチ処理.md "wikilink"), Concurrency Utilities, CDI 1.1, [DI](../Page/依存性の注入.md "wikilink") 1.0, [Bean Validation](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink") 1.1, [EJB](../Page/Enterprise_JavaBeans.md "wikilink") 3.2, Interceptors 1.2,  1.7, [JPA](../Page/Java_Persistence_API.md "wikilink") 2.1,  1.2, [JMS](../Page/Java_Message_Service.md "wikilink") 2.0, [JTA](../Page/Java_Transaction_API.md "wikilink") 1.2,  1.5, [JAX-RS](https://ja.wikipedia.org/wiki/JAX-RS "wikilink") 2.0, Enterprise Web Services 1.3,  2.2, , [JAX-RPC](https://ja.wikipedia.org/wiki/JAX-RPC "wikilink") 1.1,  1.3,  1.0, JASPIC 1.1, Java ACC 1.5, Java EE Application Deployment 1.2,  1.1, Debugging Support for Other Languages 1.0, [JAXB](../Page/Java_Architecture_for_XML_Binding.md "wikilink") 2.2, [JAXP](../Page/Java_API_for_XML_Processing.md "wikilink") 1.3, [JDBC](../Page/JDBC.md "wikilink") 4.0, [JMX](../Page/Java_Management_Extensions.md "wikilink") 2.0,  1.1, [StAX](../Page/Streaming_API_for_XML.md "wikilink")
 
 <!-- end list -->
 
   - Java Platform, Enterprise Edition 8
-    JSR 366として[2017年](https://ja.wikipedia.org/wiki/2017年 "wikilink")9月21日にリリースされた。8ではServletが[HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2 "wikilink")をサポートした4.0に更新されている。全体としては7の小改良に留まっているものの、JSF 2.3によるHTML処理が大きく改良されている。
+    JSR 366として[2017年](../Page/2017年.md "wikilink")9月21日にリリースされた。8ではServletが[HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2 "wikilink")をサポートした4.0に更新されている。全体としては7の小改良に留まっているものの、JSF 2.3によるHTML処理が大きく改良されている。
 
 ## 主なAPI
 
@@ -64,7 +64,7 @@ Java EE APIは Java SE APIを元に機能拡張された様々な技術を包含
 
 ###
 
-[Servlet](https://ja.wikipedia.org/wiki/Java_Servlet "wikilink")[パッケージでは](https://ja.wikipedia.org/wiki/パッケージ_\(Java\) "wikilink")、主に[HTTPリクエストのためのAPIが定義されている](../Page/Hypertext_Transfer_Protocol.md "wikilink")。また[JavaServer Pages](https://ja.wikipedia.org/wiki/JavaServer_Pages "wikilink") (JSP) に関するAPIも含まれる。
+[Servlet](../Page/Java_Servlet.md "wikilink")[パッケージでは](../Page/パッケージ_\(Java\).md "wikilink")、主に[HTTPリクエストのためのAPIが定義されている](../Page/Hypertext_Transfer_Protocol.md "wikilink")。また[JavaServer Pages](../Page/JavaServer_Pages.md "wikilink") (JSP) に関するAPIも含まれる。
 
 ###
 
@@ -76,11 +76,11 @@ Facesパッケージでは、 [Java Server Faces](https://ja.wikipedia.org/wiki/
 
 ###
 
-ELパッケージでは、Java EEの[EL式に関する](https://ja.wikipedia.org/wiki/JavaServer_Pages#EL式 "wikilink")[クラスと](https://ja.wikipedia.org/wiki/クラス_\(コンピュータ\) "wikilink")[インターフェースが定義されている](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")。EL式はJSPやJSFを作成するWebアプリケーション開発者のためにデザインされた簡単な構文である。主にJSFにおいてコンポーネントに管理beanを結びつけるために用いられるが、仕様自体は独立しており、それ以外の部分でも使用可能である。
+ELパッケージでは、Java EEの[EL式に関する](https://ja.wikipedia.org/wiki/JavaServer_Pages#EL式 "wikilink")[クラスと](../Page/クラス_\(コンピュータ\).md "wikilink")[インターフェースが定義されている](../Page/インタフェース_\(情報技術\).md "wikilink")。EL式はJSPやJSFを作成するWebアプリケーション開発者のためにデザインされた簡単な構文である。主にJSFにおいてコンポーネントに管理beanを結びつけるために用いられるが、仕様自体は独立しており、それ以外の部分でも使用可能である。
 
 ###
 
-Injectパッケージでは、[Contexts and Dependency Injection](http://jcp.org/en/jsr/detail?id=299) (CDI) APIのためのインジェクション[アノテーション](https://ja.wikipedia.org/wiki/アノテーション "wikilink")が定義されている。CDIは[依存性の注入](https://ja.wikipedia.org/wiki/依存性の注入 "wikilink") (DI) に関する仕様である。
+Injectパッケージでは、[Contexts and Dependency Injection](http://jcp.org/en/jsr/detail?id=299) (CDI) APIのためのインジェクション[アノテーション](../Page/アノテーション.md "wikilink")が定義されている。CDIは[依存性の注入](../Page/依存性の注入.md "wikilink") (DI) に関する仕様である。
 
 ###
 
@@ -88,19 +88,19 @@ Contextパッケージでは、Contexts and Dependency Injection (CDI) APIのた
 
 ###
 
-[Enterprise JavaBeans](https://ja.wikipedia.org/wiki/Enterprise_JavaBeans "wikilink") (EJB) パッケージでは、EJBコンテナがサポートする[トランザクション処理](https://ja.wikipedia.org/wiki/トランザクション処理 "wikilink") ([JTA](https://ja.wikipedia.org/wiki/JTA "wikilink"))、[RPC](https://ja.wikipedia.org/wiki/遠隔手続き呼出し "wikilink")（[RMIまたは](https://ja.wikipedia.org/wiki/Java_Remote_Method_Invocation "wikilink")[RMI-IIOP](https://ja.wikipedia.org/wiki/RMI-IIOP "wikilink")）、[並行性制御](https://ja.wikipedia.org/wiki/並行性制御 "wikilink")、[依存性の注入](https://ja.wikipedia.org/wiki/依存性の注入 "wikilink") (DI)、ビジネスオブジェクトのための[アクセス制御](https://ja.wikipedia.org/wiki/アクセス制御 "wikilink")といった軽量APIが定義されている。またこのパッケージは、エンタープライズBeanとそのクライアント間、エンタープライズBeanとEJBコンテナ間の取り決めを定義したクラスとインタフェースも含む。
+[Enterprise JavaBeans](../Page/Enterprise_JavaBeans.md "wikilink") (EJB) パッケージでは、EJBコンテナがサポートする[トランザクション処理](../Page/トランザクション処理.md "wikilink") ([JTA](https://ja.wikipedia.org/wiki/JTA "wikilink"))、[RPC](../Page/遠隔手続き呼出し.md "wikilink")（[RMIまたは](../Page/Java_Remote_Method_Invocation.md "wikilink")[RMI-IIOP](../Page/RMI-IIOP.md "wikilink")）、[並行性制御](../Page/並行性制御.md "wikilink")、[依存性の注入](../Page/依存性の注入.md "wikilink") (DI)、ビジネスオブジェクトのための[アクセス制御](../Page/アクセス制御.md "wikilink")といった軽量APIが定義されている。またこのパッケージは、エンタープライズBeanとそのクライアント間、エンタープライズBeanとEJBコンテナ間の取り決めを定義したクラスとインタフェースも含む。
 
 ###
 
-Validationパッケージでは、[Bean Validation](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink") APIのためのアノテーションとインタフェースが定義されている。Bean Validationはbean（例えばJPAのモデルクラス）に対する統一されたバリデーション（値の検証）手法を提供する。Java EEの各要素では、[JPAが永続化層におけるバリデーションに](https://ja.wikipedia.org/wiki/Java_Persistence_API "wikilink")、[JSFがビュー層におけるバリデーションにまた関与する](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink")。
+Validationパッケージでは、[Bean Validation](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink") APIのためのアノテーションとインタフェースが定義されている。Bean Validationはbean（例えばJPAのモデルクラス）に対する統一されたバリデーション（値の検証）手法を提供する。Java EEの各要素では、[JPAが永続化層におけるバリデーションに](../Page/Java_Persistence_API.md "wikilink")、[JSFがビュー層におけるバリデーションにまた関与する](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink")。
 
 ###
 
-Persistenceパッケージには、永続化プロバイダと管理クラス、それに[Java Persistence API](https://ja.wikipedia.org/wiki/Java_Persistence_API "wikilink") (JPA) クライアントの間の取り決めを定義したクラスとインタフェースが含まれている。
+Persistenceパッケージには、永続化プロバイダと管理クラス、それに[Java Persistence API](../Page/Java_Persistence_API.md "wikilink") (JPA) クライアントの間の取り決めを定義したクラスとインタフェースが含まれている。
 
 ###
 
-Transactionパッケージでは、Java EEの[トランザクション処理](https://ja.wikipedia.org/wiki/トランザクション処理 "wikilink")を担う[Java Transaction API](https://ja.wikipedia.org/wiki/Java_Transaction_API "wikilink") (JTA) のインタフェースとアノテーションを含むAPIが定義されている。これらのAPIは低レベルAPIが抽象化されたものであり、通常のアプリケーション開発者がJava EEを用いて開発する場合は、EJBのより高レベルのトランザクション管理を用いたり、このAPIのアノテーションとCDIの管理Beanとを組み合わせて使用することが想定されている。
+Transactionパッケージでは、Java EEの[トランザクション処理](../Page/トランザクション処理.md "wikilink")を担う[Java Transaction API](../Page/Java_Transaction_API.md "wikilink") (JTA) のインタフェースとアノテーションを含むAPIが定義されている。これらのAPIは低レベルAPIが抽象化されたものであり、通常のアプリケーション開発者がJava EEを用いて開発する場合は、EJBのより高レベルのトランザクション管理を用いたり、このAPIのアノテーションとCDIの管理Beanとを組み合わせて使用することが想定されている。
 
 ###
 
@@ -112,26 +112,26 @@ Concurrentパッケージでは、Java EEプラットフォーム標準の管理
 
 ###
 
-JMSパッケージでは、[Java Message Service](https://ja.wikipedia.org/wiki/Java_Message_Service "wikilink") (JMS) APIが定義されている。JMSはJavaプログラムにエンタープライズメッセージの生成、送信、受信、読込のための手法を提供する。
+JMSパッケージでは、[Java Message Service](../Page/Java_Message_Service.md "wikilink") (JMS) APIが定義されている。JMSはJavaプログラムにエンタープライズメッセージの生成、送信、受信、読込のための手法を提供する。
 
 ###
 
-BatchのAPIパッケージでは、Java EEの[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")のためのAPIが定義されている。バッチ処理APIは、大容量のデータを扱う長時間に亘るバックグラウンドタスクや、定期的に実行されるタスクのための手法を提供する。
+BatchのAPIパッケージでは、Java EEの[バッチ処理](../Page/バッチ処理.md "wikilink")のためのAPIが定義されている。バッチ処理APIは、大容量のデータを扱う長時間に亘るバックグラウンドタスクや、定期的に実行されるタスクのための手法を提供する。
 
 ###
 
-Resourceパッケージでは、 (JCA) APIが定義されている。JCAは[Enterprise application integration](https://ja.wikipedia.org/wiki/Enterprise_application_integration "wikilink") (EAI) の一部であるアプリケーションサーバーや企業情報システム (EIS) の相互接続を実現するための技術である。このAPIはベンダーのための低レベルAPIであり、通常のアプリケーション開発者をターゲットとしてはいない。
+Resourceパッケージでは、 (JCA) APIが定義されている。JCAは[Enterprise application integration](../Page/Enterprise_application_integration.md "wikilink") (EAI) の一部であるアプリケーションサーバーや企業情報システム (EIS) の相互接続を実現するための技術である。このAPIはベンダーのための低レベルAPIであり、通常のアプリケーション開発者をターゲットとしてはいない。
 
 ## Java EEの実装
 
-Java EEの機能を用いた[アプリケーションを動作させるには](../Page/アプリケーションソフトウェア.md "wikilink")、Java EEの仕様を実装した実行環境や[ライブラリ](../Page/ライブラリ.md "wikilink")が必要である。Java EE SDKには、Java EEに準拠した[オープンソース](../Page/オープンソース.md "wikilink")の[アプリケーションサーバ](https://ja.wikipedia.org/wiki/アプリケーションサーバ "wikilink")である[GlassFish Open Source Editionが同梱されている](https://ja.wikipedia.org/wiki/GlassFish "wikilink")。GlassFish 4.0はJava EE 7の[参照実装である](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink")。[NetBeans](https://ja.wikipedia.org/wiki/NetBeans "wikilink")や[EclipseといったJava開発ツールの多くもJava](https://ja.wikipedia.org/wiki/Eclipse_\(統合開発環境\) "wikilink") EEに対応している。
+Java EEの機能を用いた[アプリケーションを動作させるには](../Page/アプリケーションソフトウェア.md "wikilink")、Java EEの仕様を実装した実行環境や[ライブラリ](../Page/ライブラリ.md "wikilink")が必要である。Java EE SDKには、Java EEに準拠した[オープンソース](../Page/オープンソース.md "wikilink")の[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")である[GlassFish Open Source Editionが同梱されている](https://ja.wikipedia.org/wiki/GlassFish "wikilink")。GlassFish 4.0はJava EE 7の[参照実装である](../Page/リファレンス実装.md "wikilink")。[NetBeans](../Page/NetBeans.md "wikilink")や[EclipseといったJava開発ツールの多くもJava](../Page/Eclipse_\(統合開発環境\).md "wikilink") EEに対応している。
 
 以下に、Java EEに準拠した主なアプリケーションサーバを示す。表のバージョン番号は、該当するJava EE仕様に対応したバージョンを表している。
 
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/アプリケーションサーバ" title="wikilink">アプリケーションサーバ</a></p></th>
+<th><p><a href="../Page/アプリケーションサーバ.md" title="wikilink">アプリケーションサーバ</a></p></th>
 <th><p>Java EE 8準拠</p></th>
 <th><p>Java EE 7準拠</p></th>
 <th><p>Java EE 6準拠<br />
@@ -140,7 +140,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 (Web Profile)</p></th>
 <th><p>Java EE 5準拠</p></th>
 <th><p>J2EE 1.4準拠</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ライセンス" title="wikilink">ライセンス</a></p></th>
+<th><p><a href="../Page/ライセンス.md" title="wikilink">ライセンス</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -186,7 +186,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/JBoss" title="wikilink">WildFly</a></p></td>
+<td><p><a href="../Page/JBoss.md" title="wikilink">WildFly</a></p></td>
 <td><p>v14.x[7]</p></td>
 <td><p>v12,x, v11.x, v10.x, v9.x, v8.x[8][9][10], v7.1[11]</p></td>
 <td><p>v6.0 <a href="http://www.jboss.org/jbossas">1</a>, v7.0 <a href="http://www.jboss.org/as7">2</a></p></td>
@@ -196,7 +196,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/JBoss" title="wikilink">JBoss Enterprise Application Platform</a></p></td>
+<td><p><a href="../Page/JBoss.md" title="wikilink">JBoss Enterprise Application Platform</a></p></td>
 <td><p>v7.2 [14]</p></td>
 <td><p>v7.0</p></td>
 <td><p>v6.0 [15]</p></td>
@@ -207,7 +207,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 （WildFlyの商用版）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/WebSphere_Application_Server" title="wikilink">IBM WebSphere Application Server</a></p></td>
+<td><p><a href="../Page/WebSphere_Application_Server.md" title="wikilink">IBM WebSphere Application Server</a></p></td>
 <td></td>
 <td></td>
 <td><p>v8[16]</p></td>
@@ -227,7 +227,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/WebSphere_Application_Server" title="wikilink">IBM WebSphere Application Server Community Edition</a></p></td>
+<td><p><a href="../Page/WebSphere_Application_Server.md" title="wikilink">IBM WebSphere Application Server Community Edition</a></p></td>
 <td></td>
 <td></td>
 <td><p>v3.0[21]</p></td>
@@ -237,7 +237,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Apache_Geronimo" title="wikilink">Apache Geronimo</a></p></td>
+<td><p><a href="../Page/Apache_Geronimo.md" title="wikilink">Apache Geronimo</a></p></td>
 <td></td>
 <td></td>
 <td><p>v3.0 <a href="http://geronimo.apache.org/">3</a>[22]</p></td>
@@ -257,7 +257,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/富士通.md" title="wikilink">富士通</a> <a href="https://ja.wikipedia.org/wiki/Interstage" title="wikilink">Interstage Application Server</a>[28]</p></td>
+<td><p><a href="../Page/富士通.md" title="wikilink">富士通</a> <a href="../Page/Interstage.md" title="wikilink">Interstage Application Server</a>[28]</p></td>
 <td></td>
 <td></td>
 <td><p>v1[29]</p></td>
@@ -267,7 +267,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/日本電気.md" title="wikilink">NEC</a> <a href="https://ja.wikipedia.org/wiki/WebOTX" title="wikilink">WebOTX</a></p></td>
+<td><p><a href="../Page/日本電気.md" title="wikilink">NEC</a> <a href="../Page/WebOTX.md" title="wikilink">WebOTX</a></p></td>
 <td></td>
 <td></td>
 <td><p>[30]</p></td>
@@ -297,7 +297,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/OW2_Consortium" title="wikilink">OW2</a> <a href="https://ja.wikipedia.org/wiki/JOnAS" title="wikilink">JOnAS</a></p></td>
+<td><p><a href="../Page/OW2_Consortium.md" title="wikilink">OW2</a> <a href="../Page/JOnAS.md" title="wikilink">JOnAS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -347,7 +347,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Sybase" title="wikilink">Sybase</a> Enterprise Application Server [36]</p></td>
+<td><p><a href="../Page/Sybase.md" title="wikilink">Sybase</a> Enterprise Application Server [36]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,7 +363,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 
 以下に、Java EE 7の様々な技術を組み合わせて作成した、ユーザーの登録を行うWeb入力画面のサンプルを示す。
 
-Java EEには、[サーブレットに](https://ja.wikipedia.org/wiki/Java_Servlet "wikilink")[JSP](https://ja.wikipedia.org/wiki/JavaServer_Pages "wikilink")、また[JSFと](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink")[Faceletsといった](https://ja.wikipedia.org/wiki/JavaServer_Faces#Facelets "wikilink")、Web UIを作ることが可能ないくつかの技術が存在する。以下はJSFとFaceletsを用いた例である。コード上では明示されていないが、入力コンポーネントでは入力値の検証に[Bean Validationを使用している](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink")。
+Java EEには、[サーブレットに](../Page/Java_Servlet.md "wikilink")[JSP](../Page/JavaServer_Pages.md "wikilink")、また[JSFと](https://ja.wikipedia.org/wiki/JavaServer_Faces "wikilink")[Faceletsといった](https://ja.wikipedia.org/wiki/JavaServer_Faces#Facelets "wikilink")、Web UIを作ることが可能ないくつかの技術が存在する。以下はJSFとFaceletsを用いた例である。コード上では明示されていないが、入力コンポーネントでは入力値の検証に[Bean Validationを使用している](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink")。
 
 ``` xml
 <html ns="http://www.w3.org/1999/xhtml"
@@ -395,7 +395,7 @@ Java EEには、[サーブレットに](https://ja.wikipedia.org/wiki/Java_Servl
 
 ### バッキングBeanの例
 
-Java EEでは、ビューの処理の実装にバッキングBean（画面の背後で処理するBean、管理Beanとも）と呼ばれる仕組みを用いる。以下はCDIと[EJBを用いたバッキングBeanの例である](https://ja.wikipedia.org/wiki/Enterprise_JavaBeans "wikilink")。
+Java EEでは、ビューの処理の実装にバッキングBean（画面の背後で処理するBean、管理Beanとも）と呼ばれる仕組みを用いる。以下はCDIと[EJBを用いたバッキングBeanの例である](../Page/Enterprise_JavaBeans.md "wikilink")。
 
 ``` java
 @Named
@@ -426,7 +426,7 @@ public class UserEdit {
 
 ### DAOの例
 
-Java EEでは、[ビジネスロジック](https://ja.wikipedia.org/wiki/ビジネスロジック "wikilink")の実装のために[EJBが用意されている](https://ja.wikipedia.org/wiki/Enterprise_JavaBeans "wikilink")。データの永続化では[JDBC](https://ja.wikipedia.org/wiki/JDBC "wikilink")や[JPAが使用できる](https://ja.wikipedia.org/wiki/Java_Persistence_API "wikilink")。以下はEJBとJPAを用いた[Data Access Object](https://ja.wikipedia.org/wiki/Data_Access_Object "wikilink") (DAO) の例である。コード上では明示されていないが、EJBではトランザクション管理に[JTAが使用される](https://ja.wikipedia.org/wiki/Java_Transaction_API "wikilink")。
+Java EEでは、[ビジネスロジック](../Page/ビジネスロジック.md "wikilink")の実装のために[EJBが用意されている](../Page/Enterprise_JavaBeans.md "wikilink")。データの永続化では[JDBC](../Page/JDBC.md "wikilink")や[JPAが使用できる](../Page/Java_Persistence_API.md "wikilink")。以下はEJBとJPAを用いた[Data Access Object](../Page/Data_Access_Object.md "wikilink") (DAO) の例である。コード上では明示されていないが、EJBではトランザクション管理に[JTAが使用される](../Page/Java_Transaction_API.md "wikilink")。
 
 ``` java
 @Stateless
@@ -453,7 +453,7 @@ public class UserDAO {
 
 ### エンティティの例
 
-Java EEでは、[エンティティ](https://ja.wikipedia.org/wiki/エンティティ "wikilink")/モデルクラスのために[JPAが用意されており](https://ja.wikipedia.org/wiki/Java_Persistence_API "wikilink")、またバリデーション（値の検証）では[Bean Validationが使用できる](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink")。以下は両者を用いた例である。
+Java EEでは、[エンティティ](https://ja.wikipedia.org/wiki/エンティティ "wikilink")/モデルクラスのために[JPAが用意されており](../Page/Java_Persistence_API.md "wikilink")、またバリデーション（値の検証）では[Bean Validationが使用できる](https://ja.wikipedia.org/wiki/Bean_Validation "wikilink")。以下は両者を用いた例である。
 
 ``` java
 @Entity

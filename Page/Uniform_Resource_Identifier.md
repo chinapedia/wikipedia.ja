@@ -1,7 +1,7 @@
 > この記事は[Uniform Resource Identifier](https://ja.wikipedia.org/wiki/Uniform_Resource_Identifier)から翻訳されています。
 
 
-**Uniform Resource Identifier**（ユニフォーム リソース アイデンティファイア、**URI**）または**統一資源識別子**\[1\]（とういつしげんしきべつし）は、一定の書式によって[リソース](https://ja.wikipedia.org/wiki/リソース_\(WWW\) "wikilink")（資源）を指し示す[識別子](https://ja.wikipedia.org/wiki/識別子 "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月に RFC 2396 として規定され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月に RFC 3986 として改定された。URI は[Uniform Resource Locator](../Page/Uniform_Resource_Locator.md "wikilink") (URL) の考え方を拡張したものである。
+**Uniform Resource Identifier**（ユニフォーム リソース アイデンティファイア、**URI**）または**統一資源識別子**\[1\]（とういつしげんしきべつし）は、一定の書式によって[リソース](https://ja.wikipedia.org/wiki/リソース_\(WWW\) "wikilink")（資源）を指し示す[識別子](../Page/識別子.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月に RFC 2396 として規定され、[2005年](../Page/2005年.md "wikilink")1月に RFC 3986 として改定された。URI は[Uniform Resource Locator](../Page/Uniform_Resource_Locator.md "wikilink") (URL) の考え方を拡張したものである。
 
 URI は [http](../Page/Hypertext_Transfer_Protocol.md "wikilink")/[https](../Page/HTTPS.md "wikilink") や [ftp](../Page/File_Transfer_Protocol.md "wikilink") などのスキームで始まり、コロン (:) による区切りのあとにスキームごとに定義された書式によってリソースを示す。また、URIによって示されるリソースはコンピュータが扱うデータに限らず、人や会社、書籍などを示すことも可能である。
 
@@ -22,13 +22,13 @@ URIスキームは[IANAによって登録されたものが公式なものとさ
 
 ## 関連項目
 
-  - [Extensible Resource Identifier](https://ja.wikipedia.org/wiki/Extensible_Resource_Identifier "wikilink") (XRI)
-  - [Internationalized Resource Identifier](https://ja.wikipedia.org/wiki/Internationalized_Resource_Identifier "wikilink") (IRI)
+  - [Extensible Resource Identifier](../Page/Extensible_Resource_Identifier.md "wikilink") (XRI)
+  - [Internationalized Resource Identifier](../Page/Internationalized_Resource_Identifier.md "wikilink") (IRI)
   - [短縮URI](https://ja.wikipedia.org/wiki/短縮URI "wikilink") (CURIE)
   - [Uniform Resource Locator](../Page/Uniform_Resource_Locator.md "wikilink") (URL)
   - [Uniform Resource Name](https://ja.wikipedia.org/wiki/Uniform_Resource_Name "wikilink") (URN)
-  - [名前空間](https://ja.wikipedia.org/wiki/名前空間 "wikilink")
-  - [パーセントエンコーディング](https://ja.wikipedia.org/wiki/パーセントエンコーディング "wikilink")
+  - [名前空間](../Page/名前空間.md "wikilink")
+  - [パーセントエンコーディング](../Page/パーセントエンコーディング.md "wikilink")
 
 ## 参考資料
 

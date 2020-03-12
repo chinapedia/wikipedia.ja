@@ -23,10 +23,10 @@
         日本語版は[Wink](../Page/Wink.md "wikilink")のカヴァー。
 4.  **[PIECE OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")**
       -
-        [今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")のカヴァー。
+        [今井美樹](../Page/今井美樹.md "wikilink")のカヴァー。
 5.  **キャンディ**
       -
-        [原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")のカヴァー。
+        [原田真二](../Page/原田真二.md "wikilink")のカヴァー。
 6.  **[MISS BRAND-NEW DAY](../Page/ミス・ブランニュー・デイ.md "wikilink")**
       -
         [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のカヴァー。

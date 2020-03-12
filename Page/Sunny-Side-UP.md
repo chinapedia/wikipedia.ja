@@ -1,7 +1,7 @@
 > この記事は[Sunny-Side-UP](https://ja.wikipedia.org/wiki/Sunny-Side-UP)から翻訳されています。
 
 
-『**Sunny-Side-UP**』（サニーサイドアップ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[KBS京都ほかで毎週水曜](../Page/京都放送.md "wikilink")23:30〜24:00に放送されていた[ハイビジョン放送](https://ja.wikipedia.org/wiki/ハイビジョン放送 "wikilink")対応の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。シリーズ第二弾。全12話。[脚本](../Page/脚本.md "wikilink")、[監督](../Page/監督.md "wikilink")は[林正明](https://ja.wikipedia.org/wiki/林正明 "wikilink")。家族愛を描いたホームドラマ。
+『**Sunny-Side-UP**』（サニーサイドアップ）は、[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[KBS京都ほかで毎週水曜](../Page/京都放送.md "wikilink")23:30〜24:00に放送されていた[ハイビジョン放送](https://ja.wikipedia.org/wiki/ハイビジョン放送 "wikilink")対応の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。シリーズ第二弾。全12話。[脚本](../Page/脚本.md "wikilink")、[監督](../Page/監督.md "wikilink")は[林正明](https://ja.wikipedia.org/wiki/林正明 "wikilink")。家族愛を描いたホームドラマ。
 
 ## あらすじ
 
@@ -11,17 +11,17 @@
 
   - 水谷礼子：[生稲晃子](../Page/生稲晃子.md "wikilink")
   - 水谷達也：[モロ師岡](../Page/モロ師岡.md "wikilink")
-  - 水谷春香：[徳澤直子](https://ja.wikipedia.org/wiki/徳澤直子 "wikilink")
-  - 水谷夏樹：[清水園美](https://ja.wikipedia.org/wiki/清水園美 "wikilink")
-  - 水谷秋哉：[遠藤雄弥](https://ja.wikipedia.org/wiki/遠藤雄弥 "wikilink")
+  - 水谷春香：[徳澤直子](../Page/徳澤直子.md "wikilink")
+  - 水谷夏樹：[清水園美](../Page/清水園美.md "wikilink")
+  - 水谷秋哉：[遠藤雄弥](../Page/遠藤雄弥.md "wikilink")
   - 二宮一平、二宮三平：[赤間皇至](https://ja.wikipedia.org/wiki/赤間皇至 "wikilink")
   - 篠原広海：[木地谷厚子](https://ja.wikipedia.org/wiki/木地谷厚子 "wikilink")
-  - 風間歩美：[中村知世](https://ja.wikipedia.org/wiki/中村知世 "wikilink")
-  - 刈谷美樹：[岡田茜](https://ja.wikipedia.org/wiki/岡田茜 "wikilink")
+  - 風間歩美：[中村知世](../Page/中村知世.md "wikilink")
+  - 刈谷美樹：[岡田茜](../Page/岡田茜.md "wikilink")
   - 田中奈美：[山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")
   - 新井茂雄：[神野知紀](https://ja.wikipedia.org/wiki/神野知紀 "wikilink")
   - 猪瀬隆太：[菊田健吾](https://ja.wikipedia.org/wiki/菊田健吾 "wikilink")
-  - [浜田翔子](https://ja.wikipedia.org/wiki/浜田翔子_\(タレント\) "wikilink")
+  - [浜田翔子](../Page/浜田翔子_\(タレント\).md "wikilink")
   - 特別出演：[大場久美子](../Page/大場久美子.md "wikilink")
 
 ## 音楽

@@ -5,21 +5,21 @@
 
 </div class="pathnavbox">
 
-『**マジンガーZ対暗黒大将軍**』（マジンガーゼットたいあんこくだいしょうぐん 英文：*Mazinger VS. Dark General*\[1\]）は、[1974年](../Page/1974年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に「[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")」にて上映された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。
+『**マジンガーZ対暗黒大将軍**』（マジンガーゼットたいあんこくだいしょうぐん 英文：*Mazinger VS. Dark General*\[1\]）は、[1974年](../Page/1974年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に「[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")」にて上映された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。
 
 [キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**テレビでは見られないグレートマジンガー**」「**七つの軍団を率いて暗黒大将軍の総攻撃が始まった**」「**ゆけ\! マジンガーZ 戦え\! グレートマジンガー**」
 
 ## 概要
 
-[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』の映画オリジナル作品第2弾。本作では、次作『[グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")』より主人公・剣鉄也とグレートマジンガーをはじめとするキャラクターたちが登場しており、『マジンガーZ』のテレビ版最終回を先取りした展開となっている。
+[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』の映画オリジナル作品第2弾。本作では、次作『[グレートマジンガー](../Page/グレートマジンガー.md "wikilink")』より主人公・剣鉄也とグレートマジンガーをはじめとするキャラクターたちが登場しており、『マジンガーZ』のテレビ版最終回を先取りした展開となっている。
 
-公開当時人気絶頂であったアイドルグループの[フィンガー5](https://ja.wikipedia.org/wiki/フィンガー5 "wikilink")にあやかり、この夏のまんがまつり興行は「**フィンガー5と遊ぼう！東映まんがまつり**」と銘打たれ、フィンガー5の出演映画『[フィンガー5の大冒険](https://ja.wikipedia.org/wiki/フィンガー5の大冒険 "wikilink")』がメインに据えられる形で本作が組み込まれている。
+公開当時人気絶頂であったアイドルグループの[フィンガー5](../Page/フィンガー5.md "wikilink")にあやかり、この夏のまんがまつり興行は「**フィンガー5と遊ぼう！東映まんがまつり**」と銘打たれ、フィンガー5の出演映画『[フィンガー5の大冒険](https://ja.wikipedia.org/wiki/フィンガー5の大冒険 "wikilink")』がメインに据えられる形で本作が組み込まれている。
 
-グレートマジンガーの頭部の形状は[講談社](../Page/講談社.md "wikilink")の「[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")」誌上で（「マジンガーズクラブ」会員証のデザインとして）いち早く紹介されていたものの名称までは明らかにされておらず、当時の児童はクライマックスに颯爽と現れたグレートの姿に衝撃を受けることとなった。これは、[メディアミックス](../Page/メディアミックス.md "wikilink")の走りともいうべき前代未聞の交代劇である。
+グレートマジンガーの頭部の形状は[講談社](../Page/講談社.md "wikilink")の「[テレビマガジン](../Page/テレビマガジン.md "wikilink")」誌上で（「マジンガーズクラブ」会員証のデザインとして）いち早く紹介されていたものの名称までは明らかにされておらず、当時の児童はクライマックスに颯爽と現れたグレートの姿に衝撃を受けることとなった。これは、[メディアミックス](../Page/メディアミックス.md "wikilink")の走りともいうべき前代未聞の交代劇である。
 
 なお、タイトルと裏腹にマジンガーZと暗黒大将軍が直接対決する場面は無い。また、予告編ではZと戦闘獣軍団が中心になり、グレートマジンガーはシルエットのみ登場する。
 
-マジンガーZ側の支援ロボットは、前作『[マジンガーZ](../Page/マジンガーZ.md "wikilink")対ドクターヘル』（テレビブロウアップ版）に引き続きボスボロットが登場するほか、劇場版で初めてダイアナンAが登場する。この後、ボスボロットは次作『[グレートマジンガー対ゲッターロボ](https://ja.wikipedia.org/wiki/グレートマジンガー対ゲッターロボ "wikilink")』にも登場するが、ダイアナンAは2年後の[1976年](../Page/1976年.md "wikilink")夏興行作品『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』まで登場しない。
+マジンガーZ側の支援ロボットは、前作『[マジンガーZ](../Page/マジンガーZ.md "wikilink")対ドクターヘル』（テレビブロウアップ版）に引き続きボスボロットが登場するほか、劇場版で初めてダイアナンAが登場する。この後、ボスボロットは次作『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』にも登場するが、ダイアナンAは2年後の[1976年](../Page/1976年.md "wikilink")夏興行作品『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』まで登場しない。
 
 ## ストーリー
 
@@ -33,24 +33,24 @@
 
 ### 光子力研究所
 
-  - 兜甲児：[石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")
+  - 兜甲児：[石丸博也](../Page/石丸博也.md "wikilink")
   - 弓教授：[八奈見乗児](../Page/八奈見乗児.md "wikilink")
   - 弓さやか：[江川菜子](../Page/太地琴恵.md "wikilink")
-  - 兜シロー：[沢田和子](https://ja.wikipedia.org/wiki/沢田和猫 "wikilink")
+  - 兜シロー：[沢田和子](../Page/沢田和猫.md "wikilink")
   - ボス：[大竹宏](../Page/大竹宏.md "wikilink")
   - ヌケ：[富田耕生](../Page/富田耕生.md "wikilink")\[2\]
   - ムチャ：[田の中勇](../Page/田の中勇.md "wikilink")\[3\]
 
 ### 科学要塞研究所
 
-  - 剣鉄也：[田中亮一](https://ja.wikipedia.org/wiki/田中亮一 "wikilink")\[4\]
+  - 剣鉄也：[田中亮一](../Page/田中亮一.md "wikilink")\[4\]
   - 兜剣造（謎の予言者）：[大塚周夫](../Page/大塚周夫.md "wikilink")\[5\]
 
 ### ミケーネ帝国
 
-  - 暗黒大将軍：[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")\[6\]
-      - 『[グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")』本編と異なり、ミケーネ帝国の支配者として扱われている。
-  - ゴーゴン大公：[加藤修](https://ja.wikipedia.org/wiki/加藤治 "wikilink")
+  - 暗黒大将軍：[小林清志](../Page/小林清志.md "wikilink")\[6\]
+      - 『[グレートマジンガー](../Page/グレートマジンガー.md "wikilink")』本編と異なり、ミケーネ帝国の支配者として扱われている。
+  - ゴーゴン大公：[加藤修](../Page/加藤治.md "wikilink")
       - 『グレートマジンガー』本編と異なり、諜報軍が登場しないため、暗黒大将軍に忠誠心を見せる。マジンガーZに関する報告を怠っていたらしく、東京攻撃部隊が壊滅するまで暗黒大将軍はマジンガーZの存在を知らなかった。
   - 獣魔将軍：[内海賢二](../Page/内海賢二.md "wikilink")
       - 暗黒大将軍の片腕にして副官。七つの軍団の要素を持ち合わせた姿をしている。戦闘力はマジンガーZを軽くあしらうほど高く、「おもちゃのようなロボット」と酷評する。武器は手に持ったトマホークランサーや口から吐く大火炎のほか、体中に存在する七つの軍団の要素を持つパーツは、アイアンカッターをも容易に噛み砕く。
@@ -64,12 +64,12 @@
 
 <!-- end list -->
 
-  - 魚類型・スラバ（[沢田和子](https://ja.wikipedia.org/wiki/沢田和猫 "wikilink")）
+  - 魚類型・スラバ（[沢田和子](../Page/沢田和猫.md "wikilink")）
   - 爬虫類型・ジャラガ（沢田和子）
   - 鳥類型・バーディアン（[富田耕生](../Page/富田耕生.md "wikilink")）
-  - 昆虫型・ライゴーン（[加藤修](https://ja.wikipedia.org/wiki/加藤治 "wikilink")）
+  - 昆虫型・ライゴーン（[加藤修](../Page/加藤治.md "wikilink")）
   - 猛獣型・マモスドン（加藤修）
-  - 人間型\[7\]・アルソス（[野田圭一](https://ja.wikipedia.org/wiki/野田圭一 "wikilink")）
+  - 人間型\[7\]・アルソス（[野田圭一](../Page/野田圭一.md "wikilink")）
 
 <!-- end list -->
 
@@ -127,7 +127,7 @@
 ### 主題歌
 
   - 「空飛ぶマジンガーZ」
-    作詞：[高久進](../Page/高久進.md "wikilink")／作曲・編曲：[渡辺宙明](../Page/渡辺宙明.md "wikilink")／歌：[水木一郎](../Page/水木一郎.md "wikilink")、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+    作詞：[高久進](../Page/高久進.md "wikilink")／作曲・編曲：[渡辺宙明](../Page/渡辺宙明.md "wikilink")／歌：[水木一郎](../Page/水木一郎.md "wikilink")、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
     イントロ部は「東映マーク」（荒磯に波）の途中から入る。スタッフクレジット部では、『マジンガーZ』ファンから投稿されたイラストが掲載されている。
     挿入歌としても使用。
 
@@ -155,7 +155,7 @@
   - 2003年5月21日に同じく東映ビデオから『マジンガーZ対デビルマン』とのセットで収録されたDVD『**マジンガー the MOVIE 1**』が発売された。
   - 2011年10月21日発売の『**復刻\!東映まんがまつり1973夏**』に収録される。
   - 2012年10月21日発売のブルーレイ『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』に収録。(新たに疑似5.1ch化した音声を併録。)
-  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.1**』に『[マジンガーZ対デビルマン](../Page/マジンガーZ対デビルマン.md "wikilink")』『[グレートマジンガー対ゲッターロボ](https://ja.wikipedia.org/wiki/グレートマジンガー対ゲッターロボ "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC1を単巻でプライスダウン発売したもの\[12\]。)
+  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.1**』に『[マジンガーZ対デビルマン](../Page/マジンガーZ対デビルマン.md "wikilink")』『[グレートマジンガー対ゲッターロボ](../Page/グレートマジンガー対ゲッターロボ.md "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC1を単巻でプライスダウン発売したもの\[12\]。)
 
 ## 併映作品
 
@@ -172,33 +172,33 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/五人ライダー対キングダーク" title="wikilink">五人ライダー対キングダーク</a></p></td>
 <td><p><a href="../Page/石ノ森章太郎.md" title="wikilink">石森章太郎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/速水亮" title="wikilink">速水亮</a>、<a href="../Page/小林昭二.md" title="wikilink">小林昭二</a>、<a href="../Page/和田文夫.md" title="wikilink">和田文夫</a></p></td>
+<td><p><a href="../Page/速水亮.md" title="wikilink">速水亮</a>、<a href="../Page/小林昭二.md" title="wikilink">小林昭二</a>、<a href="../Page/和田文夫.md" title="wikilink">和田文夫</a></p></td>
 <td><p>劇場用新作</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フィンガー5の大冒険" title="wikilink">フィンガー5の大冒険</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィンガー5" title="wikilink">フィンガー5</a>、石森章太郎一家</p></td>
+<td><p><a href="../Page/フィンガー5.md" title="wikilink">フィンガー5</a>、石森章太郎一家</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/イナズマンF" title="wikilink">イナズマンF</a></p></td>
+<td><p><a href="../Page/イナズマンF.md" title="wikilink">イナズマンF</a></p></td>
 <td><p>石森章太郎</p></td>
-<td><p><a href="../Page/伴大介.md" title="wikilink">伴直弥</a>、<a href="https://ja.wikipedia.org/wiki/上野山功一" title="wikilink">上野山功一</a>、<a href="../Page/安藤三男.md" title="wikilink">安藤三男</a></p></td>
+<td><p><a href="../Page/伴大介.md" title="wikilink">伴直弥</a>、<a href="../Page/上野山功一.md" title="wikilink">上野山功一</a>、<a href="../Page/安藤三男.md" title="wikilink">安藤三男</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ゲッターロボ.md" title="wikilink">ゲッターロボ</a></p></td>
 <td><p>永井豪<br />
-<a href="https://ja.wikipedia.org/wiki/石川賢_(漫画家)" title="wikilink">石川賢</a></p></td>
-<td><p><a href="../Page/神谷明.md" title="wikilink">神谷明</a>、<a href="https://ja.wikipedia.org/wiki/キートン山田" title="wikilink">山田俊司</a>、<a href="https://ja.wikipedia.org/wiki/西尾徳" title="wikilink">西尾徳</a>、<a href="../Page/富田耕生.md" title="wikilink">富田耕生</a></p></td>
+<a href="../Page/石川賢_(漫画家).md" title="wikilink">石川賢</a></p></td>
+<td><p><a href="../Page/神谷明.md" title="wikilink">神谷明</a>、<a href="../Page/キートン山田.md" title="wikilink">山田俊司</a>、<a href="../Page/西尾徳.md" title="wikilink">西尾徳</a>、<a href="../Page/富田耕生.md" title="wikilink">富田耕生</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/魔女っ子メグちゃん" title="wikilink">魔女っ子メグちゃん</a></p></td>
+<td><p><a href="../Page/魔女っ子メグちゃん.md" title="wikilink">魔女っ子メグちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/成田マキホ" title="wikilink">成田マキホ</a><br />
 ひろみプロ</p></td>
-<td><p><a href="../Page/吉田理保子.md" title="wikilink">吉田理保子</a>、<a href="https://ja.wikipedia.org/wiki/つかせのりこ" title="wikilink">つかせのりこ</a>、<a href="https://ja.wikipedia.org/wiki/はせさん治" title="wikilink">はせさん治</a>、<a href="../Page/山口奈々.md" title="wikilink">山口奈々</a>、<a href="../Page/大竹宏.md" title="wikilink">大竹宏</a></p></td>
+<td><p><a href="../Page/吉田理保子.md" title="wikilink">吉田理保子</a>、<a href="../Page/つかせのりこ.md" title="wikilink">つかせのりこ</a>、<a href="../Page/はせさん治.md" title="wikilink">はせさん治</a>、<a href="../Page/山口奈々.md" title="wikilink">山口奈々</a>、<a href="../Page/大竹宏.md" title="wikilink">大竹宏</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -215,7 +215,7 @@
 ## 関連項目
 
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
   - [マジンカイザー 死闘\!暗黒大将軍](../Page/マジンカイザー.md "wikilink") - 本作のリメイク的なOVA作品。
   - [ロボットガールズZ](https://ja.wikipedia.org/wiki/ロボットガールズZ "wikilink") - 第8・9話に暗黒大将軍をイメージした「暗黒大将軍子」が登場。また第7 - 9話ではゴーゴン大公と獣魔将軍も少女キャラクターになって登場。
   - [飛び出す立体映画イナズマン](https://ja.wikipedia.org/wiki/イナズマン#劇場版 "wikilink") - 同年春の『まんがまつり』で公開。本作同様TVシリーズに先駆けて、新たな敵の登場と、それに伴うヒーロー側のパワーアップが行われている。
@@ -223,10 +223,10 @@
 [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:1974年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1974年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink")
 
 1.
-2.  TV版『グレートマジンガー』では、ヌケは加藤修、ムチャは[緒方賢一](../Page/緒方賢一.md "wikilink")がそれぞれ担当。この後『[UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")』第14・31話でボスと共に再登場した際、ヌケとムチャの担当はそれぞれ富田と田の中に戻るが、映画ではムチャは『決戦\! 大海獣』まで緒方が担当、ヌケは『グレート対ゲッター』まで加藤が担当後、『決戦\! 大海獣』では[鈴木泰明](../Page/鈴木泰明.md "wikilink")が担当する。
+2.  TV版『グレートマジンガー』では、ヌケは加藤修、ムチャは[緒方賢一](../Page/緒方賢一.md "wikilink")がそれぞれ担当。この後『[UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")』第14・31話でボスと共に再登場した際、ヌケとムチャの担当はそれぞれ富田と田の中に戻るが、映画ではムチャは『決戦\! 大海獣』まで緒方が担当、ヌケは『グレート対ゲッター』まで加藤が担当後、『決戦\! 大海獣』では[鈴木泰明](../Page/鈴木泰明.md "wikilink")が担当する。
 3.
 4.  TV版『グレートマジンガー』では野田圭一が担当。
-5.  TV版『グレートマジンガー』では[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")が担当。
+5.  TV版『グレートマジンガー』では[柴田秀勝](../Page/柴田秀勝.md "wikilink")が担当。
 6.  TV版『マジンガーZ』（最終回のみ）では富田耕生、TV版『グレートマジンガー』では緒方賢一がそれぞれ担当。
 7.  TV版『グレートマジンガー』では「**超人型**」。
 8.

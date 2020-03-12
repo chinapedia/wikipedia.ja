@@ -5,11 +5,11 @@
 
 ## 概要
 
-表題曲「陽のあたる坂道」は[フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[初体験](https://ja.wikipedia.org/wiki/初体験_\(テレビドラマ\) "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。後に[TOSHIBA携帯電話](../Page/東芝.md "wikilink")「[V302T](https://ja.wikipedia.org/wiki/V302T "wikilink")」のCMソングにもなった。
+表題曲「陽のあたる坂道」は[フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[初体験](../Page/初体験_\(テレビドラマ\).md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。後に[TOSHIBA携帯電話](../Page/東芝.md "wikilink")「[V302T](https://ja.wikipedia.org/wiki/V302T "wikilink")」のCMソングにもなった。
 
 Do The Bestのバンドスコアに掲載されているインタビューによると、元々この楽曲はスタッフの結婚式の為に制作された曲で、リリースの際に歌詞を書き直したという。また、作詞をしたのは[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")である事も語られている。
 
-発売直後にリリースされた自身初となる[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Do The Best](../Page/Do_The_Best.md "wikilink")』に収録された為、オリジナル・アルバムには収録されていない。
+発売直後にリリースされた自身初となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Do The Best](../Page/Do_The_Best.md "wikilink")』に収録された為、オリジナル・アルバムには収録されていない。
 
 ## 収録曲
 
@@ -45,7 +45,7 @@ Do The Bestのバンドスコアに掲載されているインタビューによ
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第16弾であり、最後となるシングル。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第16弾であり、最後となるシングル。
 
 ### 収録曲
 
@@ -53,7 +53,7 @@ Do The Bestのバンドスコアに掲載されているインタビューによ
 
 ## カバー
 
-  - [沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")、[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")、[浅倉杏美](https://ja.wikipedia.org/wiki/浅倉杏美 "wikilink") - 2012年発売のアルバム『[THE IDOLM@STER STATION\!\!\! Nouvelle Vague](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!!#CD "wikilink")』に収録。
+  - [沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")、[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")、[浅倉杏美](../Page/浅倉杏美.md "wikilink") - 2012年発売のアルバム『[THE IDOLM@STER STATION\!\!\! Nouvelle Vague](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!!#CD "wikilink")』に収録。
 
 ## 外部リンク
 

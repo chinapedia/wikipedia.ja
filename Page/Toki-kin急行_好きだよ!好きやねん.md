@@ -3,7 +3,7 @@
 
 『**Toki-Kin急行 好きだよ\!好きやねん**』（トキキンきゅうこう すきだよ すきやねん）は、[1996年](../Page/1996年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[水曜](../Page/水曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
-[TOKIO](../Page/TOKIO.md "wikilink")と[KinKi Kidsをメインに据えていた番組で](../Page/KinKi_Kids.md "wikilink")、彼らが街頭の一般人と体力ゲームで擬似的に戦う[ストリートファイト](https://ja.wikipedia.org/wiki/ストリートファイト "wikilink")のコーナーや、かつて同系列局で放送されていた歌番組『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』のパロディコーナー、そして[ふかわりょう](../Page/ふかわりょう.md "wikilink")の指導の下で「小心者克服講座」に挑戦するコーナーなどがあった。
+[TOKIO](../Page/TOKIO.md "wikilink")と[KinKi Kidsをメインに据えていた番組で](../Page/KinKi_Kids.md "wikilink")、彼らが街頭の一般人と体力ゲームで擬似的に戦う[ストリートファイト](../Page/ストリートファイト.md "wikilink")のコーナーや、かつて同系列局で放送されていた歌番組『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』のパロディコーナー、そして[ふかわりょう](../Page/ふかわりょう.md "wikilink")の指導の下で「小心者克服講座」に挑戦するコーナーなどがあった。
 
 ## 主なコーナー
 
@@ -24,8 +24,8 @@
 
 ## スタッフ
 
-  - 構成：[大岩賞介](https://ja.wikipedia.org/wiki/大岩賞介 "wikilink")、[そーたに](https://ja.wikipedia.org/wiki/そーたに "wikilink")、[おちまさと](https://ja.wikipedia.org/wiki/おちまさと "wikilink")、[益子強](https://ja.wikipedia.org/wiki/益子強 "wikilink")、[福原太](../Page/福原フトシ.md "wikilink")、ひろせあきら、[門司肇](https://ja.wikipedia.org/wiki/門司肇 "wikilink")・[高橋秀樹](https://ja.wikipedia.org/wiki/高橋秀樹_\(放送作家\) "wikilink")
-  - ナレーション：[木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")
+  - 構成：[大岩賞介](../Page/大岩賞介.md "wikilink")、[そーたに](../Page/そーたに.md "wikilink")、[おちまさと](../Page/おちまさと.md "wikilink")、[益子強](https://ja.wikipedia.org/wiki/益子強 "wikilink")、[福原太](../Page/福原フトシ.md "wikilink")、ひろせあきら、[門司肇](https://ja.wikipedia.org/wiki/門司肇 "wikilink")・[高橋秀樹](https://ja.wikipedia.org/wiki/高橋秀樹_\(放送作家\) "wikilink")
+  - ナレーション：[木村匡也](../Page/木村匡也.md "wikilink")
   - 技術：秋本浩志
   - カメラ：佐藤正幸
   - VE：長谷川晃司、高松央
@@ -58,7 +58,7 @@
 
 ## 関連番組
 
-  - [バリキン7 賢者の戦略](../Page/バリキン7_賢者の戦略.md "wikilink") - 同時期にスタートしたKinKi Kids出演の[ゲーム番組](https://ja.wikipedia.org/wiki/ゲーム番組 "wikilink")。
-  - [TOKIO HEADZ\!](https://ja.wikipedia.org/wiki/TOKIO_HEADZ! "wikilink") - この番組の終了後にスタートしたTOKIO出演のバラエティ番組。放送曜日は同じく水曜だが、こちらは深夜に放送されていた。
+  - [バリキン7 賢者の戦略](../Page/バリキン7_賢者の戦略.md "wikilink") - 同時期にスタートしたKinKi Kids出演の[ゲーム番組](../Page/ゲーム番組.md "wikilink")。
+  - [TOKIO HEADZ\!](../Page/TOKIO_HEADZ!.md "wikilink") - この番組の終了後にスタートしたTOKIO出演のバラエティ番組。放送曜日は同じく水曜だが、こちらは深夜に放送されていた。
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:TOKIO](https://ja.wikipedia.org/wiki/Category:TOKIO "wikilink") [Category:KinKi_Kids](https://ja.wikipedia.org/wiki/Category:KinKi_Kids "wikilink")

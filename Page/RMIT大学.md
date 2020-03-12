@@ -1,9 +1,9 @@
 > この記事は[RMIT](https://ja.wikipedia.org/wiki/RMIT)から翻訳されています。
 
 
-**ロイヤルメルボルン工科大学**（）は、[オーストラリア](../Page/オーストラリア.md "wikilink")[ビクトリア州](../Page/ビクトリア州.md "wikilink")[メルボルン](https://ja.wikipedia.org/wiki/メルボルン "wikilink")に本部をおく[公立大学](../Page/公立大学.md "wikilink")。**RMIT大学** (RMIT University) と公称しており、[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")にもなっている。\[1\] 主要なキャンパスは [シティ](https://ja.wikipedia.org/wiki/中心業務地区 "wikilink")(CBD) および近郊の[en:バンドゥーラ](https://ja.wikipedia.org/wiki/:en:Bundoora,_Victoria "wikilink")、[en:ブランズウィックに位置し](https://ja.wikipedia.org/wiki/:en:Brunswick,_Victoria "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の[ハノイ](https://ja.wikipedia.org/wiki/ハノイ "wikilink")と[ホーチミンにもキャンパスを有する](../Page/ホーチミン市.md "wikilink")。オーストラリア国外にある教育機関と提携したコースもある。\[2\] 職業専門学校([TAFE](https://ja.wikipedia.org/wiki/TAFE "wikilink"))も併設する。大学連合 [:en:Australian Technology Network](https://ja.wikipedia.org/wiki/:en:Australian_Technology_Network "wikilink") および [:en:GU8](https://ja.wikipedia.org/wiki/:en:GU8 "wikilink") (Global University Consortium) に加盟している。 [120年](https://ja.wikipedia.org/wiki/120年 "wikilink")以上の伝統を誇り[メルボルン大学](../Page/メルボルン大学.md "wikilink")や、[モナシュ大学](https://ja.wikipedia.org/wiki/モナシュ大学 "wikilink")、[シドニー大学](https://ja.wikipedia.org/wiki/シドニー大学 "wikilink")と共にオーストラリアを代表する大学である。
+**ロイヤルメルボルン工科大学**（）は、[オーストラリア](../Page/オーストラリア.md "wikilink")[ビクトリア州](../Page/ビクトリア州.md "wikilink")[メルボルン](../Page/メルボルン.md "wikilink")に本部をおく[公立大学](../Page/公立大学.md "wikilink")。**RMIT大学** (RMIT University) と公称しており、[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")にもなっている。\[1\] 主要なキャンパスは [シティ](../Page/中心業務地区.md "wikilink")(CBD) および近郊の[en:バンドゥーラ](https://ja.wikipedia.org/wiki/:en:Bundoora,_Victoria "wikilink")、[en:ブランズウィックに位置し](https://ja.wikipedia.org/wiki/:en:Brunswick,_Victoria "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の[ハノイ](../Page/ハノイ.md "wikilink")と[ホーチミンにもキャンパスを有する](../Page/ホーチミン市.md "wikilink")。オーストラリア国外にある教育機関と提携したコースもある。\[2\] 職業専門学校([TAFE](https://ja.wikipedia.org/wiki/TAFE "wikilink"))も併設する。大学連合 [:en:Australian Technology Network](https://ja.wikipedia.org/wiki/:en:Australian_Technology_Network "wikilink") および [:en:GU8](https://ja.wikipedia.org/wiki/:en:GU8 "wikilink") (Global University Consortium) に加盟している。 [120年](https://ja.wikipedia.org/wiki/120年 "wikilink")以上の伝統を誇り[メルボルン大学](../Page/メルボルン大学.md "wikilink")や、[モナシュ大学](../Page/モナシュ大学.md "wikilink")、[シドニー大学](../Page/シドニー大学.md "wikilink")と共にオーストラリアを代表する大学である。
 
-[2004年](../Page/2004年.md "wikilink")から[タイムズ](../Page/タイムズ.md "wikilink")が発行する世界大学ランキング（[The Times Higher Education Supplement](https://ja.wikipedia.org/wiki/The_Times_Higher_Education_Supplement "wikilink")）の「The world top 200 universities」に[2004年](../Page/2004年.md "wikilink")は55位とされた。その後[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は82位、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に146位となり、[2007年](../Page/2007年.md "wikilink")には200位。 \[3\]
+[2004年](../Page/2004年.md "wikilink")から[タイムズ](../Page/タイムズ.md "wikilink")が発行する世界大学ランキング（[The Times Higher Education Supplement](https://ja.wikipedia.org/wiki/The_Times_Higher_Education_Supplement "wikilink")）の「The world top 200 universities」に[2004年](../Page/2004年.md "wikilink")は55位とされた。その後[2005年](../Page/2005年.md "wikilink")は82位、[2006年](../Page/2006年.md "wikilink")に146位となり、[2007年](../Page/2007年.md "wikilink")には200位。 \[3\]
 
 ## 略歴
 
@@ -140,7 +140,7 @@
 
 ## 著名な卒業生
 
-  - Jacques Nasser ([自動車](../Page/自動車.md "wikilink")会社[フォードの前](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink"))
+  - Jacques Nasser ([自動車](../Page/自動車.md "wikilink")会社[フォードの前](../Page/フォード・モーター.md "wikilink")[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink"))
   - Justin Madden ([ビクトリア州](../Page/ビクトリア州.md "wikilink")の[政治家](../Page/政治家.md "wikilink"))
   - [ポール・ストッダート](../Page/ポール・ストッダート.md "wikilink") (以前にあった [F1](../Page/フォーミュラ1.md "wikilink") レーシングチーム [ミナルディ](https://ja.wikipedia.org/wiki/ミナルディ "wikilink") のオーナー)
   - Jason Wood (政治家)
@@ -157,13 +157,13 @@
   - [リー・ワネル](../Page/リー・ワネル.md "wikilink") ([俳優](../Page/俳優.md "wikilink")・[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink"))
   - [ジェームズ・ワン](https://ja.wikipedia.org/wiki/ジェームズ・ワン "wikilink") (映画プロデューサー・映画監督・脚本家)
   - Megan Spencer (Journalist & Triple J Announcer)
-  - [ジリアン・チョン](https://ja.wikipedia.org/wiki/ジリアン・チョン "wikilink") ([香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のポップアイドルデュオ・[ツインズ](https://ja.wikipedia.org/wiki/ツインズ_\(香港のアイドルユニット\) "wikilink"))
+  - [ジリアン・チョン](https://ja.wikipedia.org/wiki/ジリアン・チョン "wikilink") ([香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のポップアイドルデュオ・[ツインズ](../Page/ツインズ_\(香港のアイドルユニット\).md "wikilink"))
   - [呉尊](../Page/呉尊.md "wikilink") ([台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")のアイドルグループ・[飛輪海](https://ja.wikipedia.org/wiki/飛輪海 "wikilink"))
   - [ブラッド(オーストラリア人のステチル)](https://ja.wikipedia.org/wiki/オーストラリア人のステチル "wikilink") (YouTuber)
 
 ## 関連項目
 
-  - [オーストラリアの大学一覧](https://ja.wikipedia.org/wiki/オーストラリアの大学一覧 "wikilink")
+  - [オーストラリアの大学一覧](../Page/オーストラリアの大学一覧.md "wikilink")
   - [東京カレッジ・オブ・カイロプラクティック](https://ja.wikipedia.org/wiki/東京カレッジ・オブ・カイロプラクティック "wikilink")
 
 ## 脚注

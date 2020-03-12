@@ -1,7 +1,7 @@
 > この記事は[TOONAMI](https://ja.wikipedia.org/wiki/TOONAMI)から翻訳されています。
 
 
-[Toonami2018logoclean.png](https://ja.wikipedia.org/wiki/File:Toonami2018logoclean.png "fig:Toonami2018logoclean.png") **TOONAMI**（トゥナミ）は、[カートゥーン ネットワークのアニメの放送枠の名称](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")。[Car**toon**](https://ja.wikipedia.org/wiki/カートゥーン "wikilink") [Tsu**nami**の造語である](https://ja.wikipedia.org/wiki/津波 "wikilink")\[1\]。
+[Toonami2018logoclean.png](https://ja.wikipedia.org/wiki/File:Toonami2018logoclean.png "fig:Toonami2018logoclean.png") **TOONAMI**（トゥナミ）は、[カートゥーン ネットワークのアニメの放送枠の名称](../Page/カートゥーン_ネットワーク.md "wikilink")。[Car**toon**](../Page/カートゥーン.md "wikilink") [Tsu**nami**の造語である](https://ja.wikipedia.org/wiki/津波 "wikilink")\[1\]。
 
 当Wikiでは、日本版TOONAMIと米国版Toonamiが入り交じっている
 
@@ -9,7 +9,7 @@
 
 **TOONAMI**はアクション要素が強い海外アニメ（カートゥーン）および日本アニメを中心に取り扱っている放送枠である。
 
-[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")や[スーパーマン](../Page/スーパーマン.md "wikilink")、[スパイダーマン](../Page/スパイダーマン.md "wikilink")などの[アメリカン・コミックス](https://ja.wikipedia.org/wiki/アメリカン・コミックス "wikilink")作品の放送が主体で、日本のアニメでも[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ "wikilink")シリーズなどのアクション要素が強いアニメはこの枠で放送される。
+[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")や[スーパーマン](../Page/スーパーマン.md "wikilink")、[スパイダーマン](../Page/スパイダーマン.md "wikilink")などの[アメリカン・コミックス](../Page/アメリカン・コミックス.md "wikilink")作品の放送が主体で、日本のアニメでも[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ "wikilink")シリーズなどのアクション要素が強いアニメはこの枠で放送される。
 
 ## 放送形態の変化
 
@@ -38,18 +38,18 @@
   - [サムライジャック](../Page/サムライジャック.md "wikilink") (※1)
   - [ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ_\(アニメ\) "wikilink")
   - [シャドウレイダース](../Page/シャドウレイダース.md "wikilink")
-  - [スーパーマン](https://ja.wikipedia.org/wiki/スーパーマン_\(アニメ\) "wikilink")
+  - [スーパーマン](../Page/スーパーマン_\(アニメ\).md "wikilink")
   - [スター・ウォーズ クローン大戦](https://ja.wikipedia.org/wiki/クローン大戦#アニメ作品 "wikilink")
-  - [スパイダーマン](https://ja.wikipedia.org/wiki/スパイダーマン_\(アニメ\) "wikilink")
+  - [スパイダーマン](../Page/スパイダーマン_\(アニメ\).md "wikilink")
   - [戦え\!超ロボット生命体トランスフォーマー](../Page/戦え!超ロボット生命体トランスフォーマー.md "wikilink")
       - [戦え\!超ロボット生命体トランスフォーマー2010](../Page/戦え!超ロボット生命体トランスフォーマー2010.md "wikilink")
-  - [ティーン・タイタンズ](https://ja.wikipedia.org/wiki/ティーン・タイタンズ_\(アニメ\) "wikilink") (※2)
-  - [バットマン](https://ja.wikipedia.org/wiki/バットマン_\(アニメ\) "wikilink")
-      - [バットマン・ザ・フューチャー](https://ja.wikipedia.org/wiki/バットマン・ザ・フューチャー "wikilink")
-      - [ザ・バットマン](https://ja.wikipedia.org/wiki/ザ・バットマン "wikilink")
+  - [ティーン・タイタンズ](../Page/ティーン・タイタンズ_\(アニメ\).md "wikilink") (※2)
+  - [バットマン](../Page/バットマン_\(アニメ\).md "wikilink")
+      - [バットマン・ザ・フューチャー](../Page/バットマン・ザ・フューチャー.md "wikilink")
+      - [ザ・バットマン](../Page/ザ・バットマン.md "wikilink")
   - [ビーストウォーズ 超生命体トランスフォーマー](../Page/ビーストウォーズ_超生命体トランスフォーマー.md "wikilink")
       - [ビーストウォーズメタルス 超生命体トランスフォーマー](../Page/ビーストウォーズメタルス_超生命体トランスフォーマー.md "wikilink")
-      - [超生命体トランスフォーマー ビーストウォーズリターンズ](https://ja.wikipedia.org/wiki/超生命体トランスフォーマー_ビーストウォーズリターンズ "wikilink")
+      - [超生命体トランスフォーマー ビーストウォーズリターンズ](../Page/超生命体トランスフォーマー_ビーストウォーズリターンズ.md "wikilink")
 
 (※1) サムライジャックは2006年の新作エピソード放映後、CARTOON CARTOONS作品として取り扱われており、TOONAMI枠では放送されなくなった。
 
@@ -59,12 +59,12 @@
 
 ### 日本製アニメ（シンジケート放送含む）
 
-  - [アイシールド21](https://ja.wikipedia.org/wiki/アイシールド21 "wikilink")
+  - [アイシールド21](../Page/アイシールド21.md "wikilink")
   - [うずまき](https://ja.wikipedia.org/wiki/うずまき_\(漫画\) "wikilink")([Production I.G.と共同制作](https://ja.wikipedia.org/wiki/Production_I.G. "wikilink"))
   - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")(Toonamiでも放送)
       - [機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")(Toonamiでも放送)
       - [機動戦士ガンダム0083 スターダストメモリー](https://ja.wikipedia.org/wiki/機動戦士ガンダム0083_スターダストメモリー "wikilink")(最終回のみTV-PG指定)
-      - [機動戦士ガンダム THE ORIGIN](https://ja.wikipedia.org/wiki/機動戦士ガンダム_THE_ORIGIN "wikilink")
+      - [機動戦士ガンダム THE ORIGIN](../Page/機動戦士ガンダム_THE_ORIGIN.md "wikilink")
   - [クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")
   - [機動警察パトレイバー](../Page/機動警察パトレイバー.md "wikilink")
   - [天元突破グレンラガン](../Page/天元突破グレンラガン.md "wikilink")
@@ -75,7 +75,7 @@
   - [ジョジョの奇妙な冒険：ダイヤモンドは砕けない](../Page/ダイヤモンドは砕けない.md "wikilink")
   - [僕のヒーローアカデミア](https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_\(アニメ\) "wikilink")
   - [ポプテピピック](https://ja.wikipedia.org/wiki/ポプテピピック "wikilink")(TV-14指定)
-  - [ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")
+  - [ルパン三世](../Page/ルパン三世.md "wikilink")
   - [新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")
   - [星方武侠アウトロースター](../Page/星方武侠アウトロースター.md "wikilink")（無修正版）
   - [ワンパンマン](https://ja.wikipedia.org/wiki/ワンパンマン "wikilink")
@@ -85,21 +85,21 @@
   - [ロードス島戦記](../Page/ロードス島戦記.md "wikilink")
   - [天地無用\!](../Page/天地無用!.md "wikilink")（無修正版）
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人_\(アニメ\) "wikilink")
-  - [寄生獣](https://ja.wikipedia.org/wiki/寄生獣 "wikilink")（テレビアニメ版）
+  - [寄生獣](../Page/寄生獣.md "wikilink")（テレビアニメ版）
   - [ドラゴンボール シリーズ](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")
       - [ドラゴンボール改](https://ja.wikipedia.org/wiki/ドラゴンボール改 "wikilink")
       - [ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")(TV-PG指定)
   - [Dimension W](https://ja.wikipedia.org/wiki/Dimension_W "wikilink")
   - [Dr.STONE](https://ja.wikipedia.org/wiki/Dr.STONE "wikilink")
   - [妄想代理人](../Page/妄想代理人.md "wikilink")
-  - [女神候補生](https://ja.wikipedia.org/wiki/女神候補生 "wikilink")（無修正版）
+  - [女神候補生](../Page/女神候補生.md "wikilink")（無修正版）
   - [スペース☆ダンディ](https://ja.wikipedia.org/wiki/スペース☆ダンディ "wikilink")
   - [食戟のソーマ](https://ja.wikipedia.org/wiki/食戟のソーマ "wikilink")
   - [HUNTER×HUNTER](../Page/HUNTER×HUNTER.md "wikilink")（日本テレビ版）
   - [BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")
-  - [THE ビッグオー](https://ja.wikipedia.org/wiki/THE_ビッグオー "wikilink")
+  - [THE ビッグオー](../Page/THE_ビッグオー.md "wikilink")
   - [コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")、[R2](../Page/コードギアス_反逆のルルーシュ.md "wikilink")
-  - [BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+ "wikilink")
+  - [BLOOD+](../Page/BLOOD+.md "wikilink")
   - [カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")(アダルトスイムとしての初作品)
   - [DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE_\(アニメ\) "wikilink")
   - [フリクリ](../Page/フリクリ.md "wikilink")
@@ -107,7 +107,7 @@
       - [TV版フリクリ オルタナ](../Page/フリクリ.md "wikilink") (劇場版を再編成)
   - [炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊 "wikilink")
   - [鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")
-  - [攻殻機動隊 STAND ALONE COMPLEX](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX "wikilink"),[攻殻機動隊 S.A.C. 2nd GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")
+  - [攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink"),[攻殻機動隊 S.A.C. 2nd GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")
   - [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")
   - [交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")
   - [トライガン](../Page/トライガン.md "wikilink")
@@ -127,9 +127,9 @@
 
 ## TOONAMIショートコーナー
 
-2004年頃までTOONAMI独自のショートコーナーとしてヒーローのプロフィールを紹介するコーナーがあったが、2006年頃に一切放送されなくなり事実上廃止となった。紹介されていたのはジャック（[サムライジャック](../Page/サムライジャック.md "wikilink")）、スーパーマン（[スーパーマン](https://ja.wikipedia.org/wiki/スーパーマン_\(アニメ\) "wikilink")）、バットマン（[バットマン](https://ja.wikipedia.org/wiki/バットマン_\(アニメ\) "wikilink")）、新バットマン([バットマン・ザ・フューチャー](https://ja.wikipedia.org/wiki/バットマン・ザ・フューチャー "wikilink")）、ジョン･ジョーンズ（[ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ_\(アニメ\) "wikilink")）、[コンボイ](../Page/コンボイ_\(トランスフォーマー\).md "wikilink")（[ビーストウォーズ 超生命体トランスフォーマー](../Page/ビーストウォーズ_超生命体トランスフォーマー.md "wikilink")）で、各キャラクターの特徴や弱点などを紹介していた。
+2004年頃までTOONAMI独自のショートコーナーとしてヒーローのプロフィールを紹介するコーナーがあったが、2006年頃に一切放送されなくなり事実上廃止となった。紹介されていたのはジャック（[サムライジャック](../Page/サムライジャック.md "wikilink")）、スーパーマン（[スーパーマン](../Page/スーパーマン_\(アニメ\).md "wikilink")）、バットマン（[バットマン](../Page/バットマン_\(アニメ\).md "wikilink")）、新バットマン([バットマン・ザ・フューチャー](../Page/バットマン・ザ・フューチャー.md "wikilink")）、ジョン･ジョーンズ（[ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ_\(アニメ\) "wikilink")）、[コンボイ](../Page/コンボイ_\(トランスフォーマー\).md "wikilink")（[ビーストウォーズ 超生命体トランスフォーマー](../Page/ビーストウォーズ_超生命体トランスフォーマー.md "wikilink")）で、各キャラクターの特徴や弱点などを紹介していた。
 
-同じく2004年頃までアイキャッチや次の番組を紹介する案内役としてTOM（声 - [草尾毅](../Page/草尾毅.md "wikilink")/英 - [スティーヴン・ブルーム](../Page/スティーヴン・ブルーム.md "wikilink")）というロボットキャラクターがいたが、2005年のリニューアルに伴い一切登場しなくなり、実質解雇となった。TOMの共催はサラ（声 - [野沢雅子](../Page/野沢雅子.md "wikilink")/英 - サリー・ティムズ）あった。あいつらの敵はスワイザック（声 - [喜田あゆ美](https://ja.wikipedia.org/wiki/喜田あゆ美 "wikilink")/英 - [カリー・ペイトン](https://ja.wikipedia.org/wiki/カリー・ペイトン "wikilink")）というコンピュータウイルスキャラクターあった。
+同じく2004年頃までアイキャッチや次の番組を紹介する案内役としてTOM（声 - [草尾毅](../Page/草尾毅.md "wikilink")/英 - [スティーヴン・ブルーム](../Page/スティーヴン・ブルーム.md "wikilink")）というロボットキャラクターがいたが、2005年のリニューアルに伴い一切登場しなくなり、実質解雇となった。TOMの共催はサラ（声 - [野沢雅子](../Page/野沢雅子.md "wikilink")/英 - サリー・ティムズ）あった。あいつらの敵はスワイザック（声 - [喜田あゆ美](../Page/喜田あゆ美.md "wikilink")/英 - [カリー・ペイトン](https://ja.wikipedia.org/wiki/カリー・ペイトン "wikilink")）というコンピュータウイルスキャラクターあった。
 
 サムライジャックの新エピソード放送時にgrooviesというミュージッククリップを想定したコーナーで新エピソード放送直後（もしくは直前）に[寺田創一](https://ja.wikipedia.org/wiki/寺田創一 "wikilink")作曲の「SAMURAI JACK」という新曲が放送されていた。この「SAMURAI JACK」は新エピソード放送期間終了後、CARTOON TUNES(旧・groovies)で放送されている。
 

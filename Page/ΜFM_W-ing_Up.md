@@ -5,14 +5,14 @@
 
 ## 概要
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に、エフエム鹿児島として初となる朝のワイド番組として開始し、2009年3月31日に終了した。
+[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に、エフエム鹿児島として初となる朝のワイド番組として開始し、2009年3月31日に終了した。
 
-当番組開始のために10時以降に放送されていた2番組（[Move On\!〜aiRhythm〜](https://ja.wikipedia.org/wiki/Move_On!〜aiRhythm〜 "wikilink")・[FRIDAY AIR SHUFFLE HAPPY☆TRACKS](https://ja.wikipedia.org/wiki/FRIDAY_AIR_SHUFFLE "wikilink")）を終了させ、2番組のパーソナリティを起用した。前述2番組の放送時間は12時55分までであり、11時30分からの番組は『[Switch\!](https://ja.wikipedia.org/wiki/Switch! "wikilink")』となった。後番組は『μ\`s Cafe』で前番組の『Move On\!〜aiRhythm〜』同様、放送時間が10時-12時55分に戻される。
+当番組開始のために10時以降に放送されていた2番組（[Move On\!〜aiRhythm〜](https://ja.wikipedia.org/wiki/Move_On!〜aiRhythm〜 "wikilink")・[FRIDAY AIR SHUFFLE HAPPY☆TRACKS](../Page/FRIDAY_AIR_SHUFFLE.md "wikilink")）を終了させ、2番組のパーソナリティを起用した。前述2番組の放送時間は12時55分までであり、11時30分からの番組は『[Switch\!](../Page/Switch!.md "wikilink")』となった。後番組は『μ\`s Cafe』で前番組の『Move On\!〜aiRhythm〜』同様、放送時間が10時-12時55分に戻される。
 
 ## 関連項目
 
   - [エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink")
-  - [Open Sesame\!](https://ja.wikipedia.org/wiki/Open_Sesame! "wikilink") - 9時50分までの前番組
+  - [Open Sesame\!](../Page/Open_Sesame!.md "wikilink") - 9時50分までの前番組
 
 ## 外部リンク
 

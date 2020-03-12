@@ -7,12 +7,12 @@
 
 ## ディスコグラフィー
 
-  - Words from the Genius ([1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")/Cold Chillin'/Reprise/Warner Bros. Records)
+  - Words from the Genius ([1991年](../Page/1991年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")/Cold Chillin'/Reprise/Warner Bros. Records)
   - Liquid Swords ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")/Geffen/MCA Records)
   - Beneath the Surface ([1999年](../Page/1999年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")/MCA Records)
-  - Legend of the Liquid Sword ([2002年](../Page/2002年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")/MCA Records)
-  - GrandMasters (DJ Muggs Vs GZA The Genius)（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")/Angeles Records)
-  - GrandMasters Remix Album (DJ Muggs Vs GZA The Genius)（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")//Angeles Records)
+  - Legend of the Liquid Sword ([2002年](../Page/2002年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")/MCA Records)
+  - GrandMasters (DJ Muggs Vs GZA The Genius)（[2005年](../Page/2005年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")/Angeles Records)
+  - GrandMasters Remix Album (DJ Muggs Vs GZA The Genius)（[2007年](../Page/2007年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")//Angeles Records)
   - Pro Tools ([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")/Think Differently Music/Babygrande Records)
 
 [Category:ウータン・クランのメンバー](https://ja.wikipedia.org/wiki/Category:ウータン・クランのメンバー "wikilink") [Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:ブルックリン出身の人物](https://ja.wikipedia.org/wiki/Category:ブルックリン出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:菜食主義者](https://ja.wikipedia.org/wiki/Category:菜食主義者 "wikilink")

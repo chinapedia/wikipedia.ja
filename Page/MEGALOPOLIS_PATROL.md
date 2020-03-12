@@ -1,7 +1,7 @@
 > この記事は[MEGALOPOLIS PATROL](https://ja.wikipedia.org/wiki/MEGALOPOLIS_PATROL)から翻訳されています。
 
 
-「**MEGALOPOLIS PATROL**」（メガロポリス パトロール）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[SMEレコーズより発売](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+「**MEGALOPOLIS PATROL**」（メガロポリス パトロール）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[SMEレコーズより発売](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 概要
 
@@ -22,8 +22,8 @@
 ## タイアップ
 
   - MEGALOPOLIS PATROL
-    [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")系[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ブーンドックス](https://ja.wikipedia.org/wiki/ブーンドックス_\(テレビアニメ\) "wikilink")』日本版テーマソング
-    [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[サッカーアース](https://ja.wikipedia.org/wiki/サッカーアース "wikilink")」テーマソング
+    [アニマックス](../Page/アニマックス.md "wikilink")系[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ブーンドックス](../Page/ブーンドックス_\(テレビアニメ\).md "wikilink")』日本版テーマソング
+    [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[サッカーアース](../Page/サッカーアース.md "wikilink")」テーマソング
 
 ## 収録アルバム
 

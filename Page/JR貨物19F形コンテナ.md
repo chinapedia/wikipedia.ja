@@ -20,7 +20,7 @@
 
 2007年（平成19年）以降はエコレールマークのシールを順次貼り付けた。
 
-[19G形と並んで](https://ja.wikipedia.org/wiki/JR貨物19G形コンテナ "wikilink")、片妻面・片側面開き12ftコンテナの標準型として使用していたが、[2013年](../Page/2013年.md "wikilink")度（[平成](../Page/平成.md "wikilink")25年度）以降、[19D形や](../Page/JR貨物19D形コンテナ.md "wikilink")[19G形への置き換えにより](https://ja.wikipedia.org/wiki/JR貨物19G形コンテナ "wikilink")[廃棄](https://ja.wikipedia.org/wiki/廃棄 "wikilink")や、[死重](https://ja.wikipedia.org/wiki/死重 "wikilink")用途の[ZD19F形への改造が進み](https://ja.wikipedia.org/wiki/JR貨物ZD19F形コンテナ "wikilink")、[2018年](../Page/2018年.md "wikilink")（平成30年）12月に全廃した。
+[19G形と並んで](../Page/JR貨物19G形コンテナ.md "wikilink")、片妻面・片側面開き12ftコンテナの標準型として使用していたが、[2013年](../Page/2013年.md "wikilink")度（[平成](../Page/平成.md "wikilink")25年度）以降、[19D形や](../Page/JR貨物19D形コンテナ.md "wikilink")[19G形への置き換えにより](../Page/JR貨物19G形コンテナ.md "wikilink")[廃棄](https://ja.wikipedia.org/wiki/廃棄 "wikilink")や、[死重](https://ja.wikipedia.org/wiki/死重 "wikilink")用途の[ZD19F形への改造が進み](https://ja.wikipedia.org/wiki/JR貨物ZD19F形コンテナ "wikilink")、[2018年](../Page/2018年.md "wikilink")（平成30年）12月に全廃した。
 
 ## 参考文献
 

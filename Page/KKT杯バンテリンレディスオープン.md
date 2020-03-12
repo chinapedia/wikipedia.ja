@@ -1,19 +1,19 @@
 > この記事は[KKT](https://ja.wikipedia.org/wiki/KKT)から翻訳されています。
 
 
-**KKT杯バンテリンレディスオープン**（ケーケーティーはいバンテリンレディスオープン）は、毎年4月第2週から第3週にかけて[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")で開催されている[くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")（KKT）の主催、[興和](https://ja.wikipedia.org/wiki/興和 "wikilink")の特別協賛、[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")（LPGA）公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億円、優勝賞金1800万円\[1\]。
+**KKT杯バンテリンレディスオープン**（ケーケーティーはいバンテリンレディスオープン）は、毎年4月第2週から第3週にかけて[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")で開催されている[くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")（KKT）の主催、[興和](../Page/興和.md "wikilink")の特別協賛、[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")（LPGA）公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億円、優勝賞金1800万円\[1\]。
 
 ## 大会の歴史
 
 [1988年](../Page/1988年.md "wikilink")、KKTと不動産会社のマルコーの主催により「マルコー中央レディスゴルフトーナメント」（翌[1989年](../Page/1989年.md "wikilink")から「マルコーレディス」に改題）として開催。開始当初は熊本中央カントリークラブで行われたが、[1991年](../Page/1991年.md "wikilink")より、[玉名市](../Page/玉名市.md "wikilink")の玉名カントリークラブに会場を移す。
 
-[1992年](../Page/1992年.md "wikilink")、新たな主催社に[再春館製薬所](https://ja.wikipedia.org/wiki/再春館製薬所 "wikilink")を迎え「再春館レディース」として開催\[2\]。[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")までは[益城町](https://ja.wikipedia.org/wiki/益城町 "wikilink")の[高遊原カントリークラブ](https://ja.wikipedia.org/wiki/高遊原カントリークラブ "wikilink")で、[1996年](../Page/1996年.md "wikilink")以降は[菊陽町](https://ja.wikipedia.org/wiki/菊陽町 "wikilink")の[熊本空港カントリークラブ](https://ja.wikipedia.org/wiki/熊本空港カントリークラブ "wikilink")に会場を移して現在まで開催されている。
+[1992年](../Page/1992年.md "wikilink")、新たな主催社に[再春館製薬所](https://ja.wikipedia.org/wiki/再春館製薬所 "wikilink")を迎え「再春館レディース」として開催\[2\]。[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")までは[益城町](../Page/益城町.md "wikilink")の[高遊原カントリークラブ](https://ja.wikipedia.org/wiki/高遊原カントリークラブ "wikilink")で、[1996年](../Page/1996年.md "wikilink")以降は[菊陽町](../Page/菊陽町.md "wikilink")の[熊本空港カントリークラブ](https://ja.wikipedia.org/wiki/熊本空港カントリークラブ "wikilink")に会場を移して現在まで開催されている。
 
-[2000年](../Page/2000年.md "wikilink")から「再春館レディース・火の国オープン」に改称され行われてきたが、2004年大会をもって再春館製薬所が[冠スポンサーから撤退](https://ja.wikipedia.org/wiki/スポンサー "wikilink")（ただし撤退後もサブスポンサーとして協賛は継続）。翌[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[ライフに変更され](https://ja.wikipedia.org/wiki/ライフ_\(信販\) "wikilink")、同時に大会名を「ライフカードレディスゴルフトーナメント」に改称されたが、2009年大会をもって撤退。2010年大会から[西陣に変更し](../Page/西陣_\(企業\).md "wikilink")、同時に大会名を「西陣レディスクラシック」に改称した。
+[2000年](../Page/2000年.md "wikilink")から「再春館レディース・火の国オープン」に改称され行われてきたが、2004年大会をもって再春館製薬所が[冠スポンサーから撤退](../Page/スポンサー.md "wikilink")（ただし撤退後もサブスポンサーとして協賛は継続）。翌[2005年](../Page/2005年.md "wikilink")から[ライフに変更され](https://ja.wikipedia.org/wiki/ライフ_\(信販\) "wikilink")、同時に大会名を「ライフカードレディスゴルフトーナメント」に改称されたが、2009年大会をもって撤退。2010年大会から[西陣に変更し](../Page/西陣_\(企業\).md "wikilink")、同時に大会名を「西陣レディスクラシック」に改称した。
 
 [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")午後に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響によって[PRGRレディス杯以降の](https://ja.wikipedia.org/wiki/ヨコハマタイヤゴルフトーナメント_PRGRレディスカップ "wikilink")2011年度JLPGAツアーが中止されていたが、この大会よりツアーを再開する事になった。大会名を「心をひとつに 西陣レディスクラシック〜東北地方太平洋沖地震　復興支援チャリティ〜」に変更\[3\]し、被災地の復興支援を趣旨\[4\]\[5\]として開催された。
 
-[2012年](../Page/2012年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にLPGAより発表された[2013年](../Page/2013年.md "wikilink")度の大会名称は当初「KKTレディス熊本」となっていたが、[2013年](../Page/2013年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")、新たな特別協賛社として[興和](https://ja.wikipedia.org/wiki/興和 "wikilink")を迎え、大会名を「KKT杯[バンテリンレディスオープン](https://ja.wikipedia.org/wiki/興和##外用鎮痛消炎薬 "wikilink")」に変更することが決定した\[6\]。
+[2012年](../Page/2012年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にLPGAより発表された[2013年](../Page/2013年.md "wikilink")度の大会名称は当初「KKTレディス熊本」となっていたが、[2013年](../Page/2013年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")、新たな特別協賛社として[興和](../Page/興和.md "wikilink")を迎え、大会名を「KKT杯[バンテリンレディスオープン](https://ja.wikipedia.org/wiki/興和##外用鎮痛消炎薬 "wikilink")」に変更することが決定した\[6\]。
 
 [2016年](../Page/2016年.md "wikilink")は[4月14日](../Page/4月14日.md "wikilink")に発生した[熊本地震の影響で](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、初日の競技が中止された\[7\]。翌15日午前、主催のくまもと県民テレビ、特別協賛の興和、日本女子プロゴルフ協会が大会の開催について協議し、ギャラリーバスの運行ができずボランティアや観客の輸送ができないこと、余震が続くことが予想されること、選手の心情等を考慮し、大会の中止を決定した\[8\]。
 
@@ -95,7 +95,7 @@
 2.  冠大会に不況の風 スポンサーの降板目立つ 代役が見つからない例も 朝日新聞1992年11月16日 夕刊3ページ
 3.  [女子ゴルフ、15日の西陣レディスから再開](http://www.daily.co.jp/newsflash/2011/04/01/0003913909.shtml) - [デイリースポーツ](../Page/デイリースポーツ.md "wikilink") 2011年4月1日閲覧
 4.  [女子ゴルフ西陣レディースで再開 中止続いた国内大会](http://www.47news.jp/CN/201104/CN2011040101001113.html) - 共同通信 2011年4月1日閲覧
-5.  ただし、冠スポンサーである西陣は[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")を出しながら[コマーシャル放映は自粛していた](../Page/コマーシャルメッセージ.md "wikilink")。これは開催当時、[遊技機業界全体で企業活動の自粛期間として充てられていたことに因るものである](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
+5.  ただし、冠スポンサーである西陣は[提供クレジット](../Page/提供クレジット.md "wikilink")を出しながら[コマーシャル放映は自粛していた](../Page/コマーシャルメッセージ.md "wikilink")。これは開催当時、[遊技機業界全体で企業活動の自粛期間として充てられていたことに因るものである](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
 6.  [LPGAツアー『KKTレディス熊本』 大会名称変更のお知らせ](http://www.lpga.or.jp/news/c6d9ebfc-7b86-4d86-93df-cb6efb24552e) - 日本女子プロゴルフ協会（2013年1月22日）
 7.
 8.

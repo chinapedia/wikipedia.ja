@@ -15,7 +15,7 @@
 ## 元メンバー
 
   - **北條 真規**（ほうじょう まさき、[1974年](../Page/1974年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink") - ）大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")出身。ボーカル・ギター担当。2009年7月脱退。
-  - **藤井 寿光**（ふじい としみつ、[1975年](../Page/1975年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - ）大阪府[大阪市](../Page/大阪市.md "wikilink")[東成区](../Page/東成区.md "wikilink")出身。[ドラム担当](../Page/ドラムセット.md "wikilink")。2012年7月脱退。
+  - **藤井 寿光**（ふじい としみつ、[1975年](../Page/1975年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ）大阪府[大阪市](../Page/大阪市.md "wikilink")[東成区](../Page/東成区.md "wikilink")出身。[ドラム担当](../Page/ドラムセット.md "wikilink")。2012年7月脱退。
 
 ## ディスコグラフィー
 
@@ -72,11 +72,11 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月23日.md" title="wikilink">8月23日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月23日.md" title="wikilink">8月23日</a></p></td>
 <td><p><strong>シンデレラ</strong></p></td>
 <td><p>VICB-35004</p></td>
 <td><ol>
-<li>シンデレラ(<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>」2006年8月度エンディングテーマ曲)</li>
+<li>シンデレラ(<a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>」2006年8月度エンディングテーマ曲)</li>
 <li>かくれんぼう</li>
 <li>はさまれてピクルス</li>
 <li><a href="../Page/オキシライド乾電池.md" title="wikilink">オキシライド乾電池</a>の歌</li>
@@ -133,7 +133,7 @@
 
 #### 配信限定
 
-1.  **オオカミ少女**　（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")配信）
+1.  **オオカミ少女**　（[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")配信）
 
 ### アルバム
 
@@ -151,7 +151,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
 <td><p><strong>sweet montage A</strong></p></td>
 <td><p>VICB-60001</p></td>
 <td><ol>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
 <td><p><strong>Gradation '12</strong></p></td>
 <td><p>VICB-60007</p></td>
 <td><ol>
@@ -190,7 +190,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
 <td><p><strong>Message Pie</strong></p></td>
 <td><p>VICB-60019</p></td>
 <td><ol>
@@ -293,7 +293,7 @@
 <li>ユリイカ / <a href="https://ja.wikipedia.org/wiki/People_In_The_Box" title="wikilink">People In The Box</a></li>
 <li><strong>イメージはとっても大事 / ANATAKIKOU</strong></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エスエムイーレコーズ" title="wikilink">SME Records</a></p></td>
+<td><p><a href="../Page/エスエムイーレコーズ.md" title="wikilink">SME Records</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年<a href="../Page/11月17日.md" title="wikilink">11月17日</a></p></td>
@@ -319,16 +319,16 @@
 
 ### 参加作品
 
-| 発売日                                                                                                            | タイトル                                                                             | 規格品番       | 収録曲                                     | 備考                            |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- | --------------------------------------- | ----------------------------- |
-| [2003年](../Page/2003年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")                                       | STYLUS\#6 「ハートフルソング」編                                                            | CCJ-0007   | M-1. **リリー**                            | STYLUS                        |
-| [2003年](../Page/2003年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                                       | The Many Moods of Smiley Smile                                                   | MUCT-1004  | M-7. **甘い種の不思議**                        | Teenage Symphony              |
-| 2004年06月05日                                                                                                    | music for PARDISCO                                                               | CLA-60015  | M-10. **Message from ANATAKIKOU**       | colla disc / SUPER NOVA MUSIC |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")                      | [エレクトリックギュインズ](https://ja.wikipedia.org/wiki/エレクトリックギュインズ "wikilink") / 恋するギュインズ | PCD-26014  | M-8. **恋するギュインズ** (藤井がドラムで参加)           | P-VINE                        |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")                  | [倉橋ヨエコ](../Page/倉橋ヨエコ.md "wikilink") / ただいま                                      | VICB-60010 | M-3. '''線を書く '''　M-10. **ピエロ**（アレンジで参加） | ビクターエンタテインメント                 |
-| 2007年01月17日                                                                                                    | NO COLLECTORS NO LIFE                                                            | YOUTH-011  | M-5. '''愛ある世界 '''                       | タワーレコード限定                     |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") | 僕らのアニソン！～ロックでトリビュート～                                                             | WKCL-3035  | M-3. **CAT'S EYE**                      | アニメソング系トリビュートアルバム             |
-|                                                                                                                |                                                                                  |            |                                         |                               |
+| 発売日                                                                                                            | タイトル                                                          | 規格品番       | 収録曲                                     | 備考                            |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | --------------------------------------- | ----------------------------- |
+| [2003年](../Page/2003年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")                                       | STYLUS\#6 「ハートフルソング」編                                         | CCJ-0007   | M-1. **リリー**                            | STYLUS                        |
+| [2003年](../Page/2003年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                                       | The Many Moods of Smiley Smile                                | MUCT-1004  | M-7. **甘い種の不思議**                        | Teenage Symphony              |
+| 2004年06月05日                                                                                                    | music for PARDISCO                                            | CLA-60015  | M-10. **Message from ANATAKIKOU**       | colla disc / SUPER NOVA MUSIC |
+| [2005年](../Page/2005年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")                                         | [エレクトリックギュインズ](../Page/エレクトリックギュインズ.md "wikilink") / 恋するギュインズ | PCD-26014  | M-8. **恋するギュインズ** (藤井がドラムで参加)           | P-VINE                        |
+| [2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")                                     | [倉橋ヨエコ](../Page/倉橋ヨエコ.md "wikilink") / ただいま                   | VICB-60010 | M-3. '''線を書く '''　M-10. **ピエロ**（アレンジで参加） | ビクターエンタテインメント                 |
+| 2007年01月17日                                                                                                    | NO COLLECTORS NO LIFE                                         | YOUTH-011  | M-5. '''愛ある世界 '''                       | タワーレコード限定                     |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") | 僕らのアニソン！～ロックでトリビュート～                                          | WKCL-3035  | M-3. **CAT'S EYE**                      | アニメソング系トリビュートアルバム             |
+|                                                                                                                |                                                               |            |                                         |                               |
 
 ### 楽曲提供
 

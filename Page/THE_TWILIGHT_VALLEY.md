@@ -1,13 +1,13 @@
 > この記事は[THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY)から翻訳されています。
 
 
-『**THE TWILIGHT VALLEY**』（ザ トワイライト バレー）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")5枚目のオリジナルアルバム。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売。
+『**THE TWILIGHT VALLEY**』（ザ トワイライト バレー）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")5枚目のオリジナルアルバム。[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売。
 
 ## 解説
 
 ベストアルバム『[Best](../Page/Best_\(GARNET_CROWのアルバム\).md "wikilink")』から約1年、オリジナルアルバムとしては『[I'm waiting 4 you](../Page/I'm_waiting_4_you.md "wikilink")』から約2年振りのリリースである。[7月5日](../Page/7月5日.md "wikilink")発売のシングル「[夢・花火](../Page/夢・花火.md "wikilink")」からの4ヶ月連続CDリリースの第4弾となる。
 
-GARNET CROW初のドラマタイアップとなった「[まぼろし](../Page/まぼろし_\(GARNET_CROWの曲\).md "wikilink")」はMiguel Sá Pessoaによるリアレンジバージョンで収録されている。さらに、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のプレミアムライブで披露された未発表曲「春待つ花のように」も収録されており、バリエーションに富んだ作品内容となっている。
+GARNET CROW初のドラマタイアップとなった「[まぼろし](../Page/まぼろし_\(GARNET_CROWの曲\).md "wikilink")」はMiguel Sá Pessoaによるリアレンジバージョンで収録されている。さらに、[2005年](../Page/2005年.md "wikilink")のプレミアムライブで披露された未発表曲「春待つ花のように」も収録されており、バリエーションに富んだ作品内容となっている。
 
 初回限定盤には、2005年に行われたプレミアムライブのダイジェストが収録されたDVDが付属している。初回盤仕様としてはこれまでに曲順違いや収録曲違いやジャケット違いなどがあったが、CDとDVDの2枚組の発売はGARNET CROWでは初めての試みである。
 

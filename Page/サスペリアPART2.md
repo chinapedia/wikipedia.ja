@@ -9,9 +9,9 @@
 
 ## ストーリー
 
-ある[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")の夜、[レコード](../Page/レコード.md "wikilink")から子供の歌が流れるなか殺人が行われた。子供の叫び声、地面に落ちた血の付いた[包丁](../Page/包丁.md "wikilink")、その包丁に近づく子供の足。
+ある[クリスマス](../Page/クリスマス.md "wikilink")の夜、[レコード](../Page/レコード.md "wikilink")から子供の歌が流れるなか殺人が行われた。子供の叫び声、地面に落ちた血の付いた[包丁](../Page/包丁.md "wikilink")、その包丁に近づく子供の足。
 
-それから数十年の時が流れた。ある欧州超心霊学会で[テレパシー](https://ja.wikipedia.org/wiki/テレパシー "wikilink")の持ち主であるヘルガ・ウルマンの講演が行われていた。彼女は聴衆の一人がポケットに鍵を持っていることや、名前を言い当てるなどして聴衆を驚かせた。しかし突然彼女は苦しみだし、悲鳴を上げた。聴衆の中にかつて人を殺した邪悪な者を感じたのだと。そしてその者は再び人を殺すと言うのである。彼女が叫ぶ中、聴衆の中の一人がその場を立ち去る。
+それから数十年の時が流れた。ある欧州超心霊学会で[テレパシー](../Page/テレパシー.md "wikilink")の持ち主であるヘルガ・ウルマンの講演が行われていた。彼女は聴衆の一人がポケットに鍵を持っていることや、名前を言い当てるなどして聴衆を驚かせた。しかし突然彼女は苦しみだし、悲鳴を上げた。聴衆の中にかつて人を殺した邪悪な者を感じたのだと。そしてその者は再び人を殺すと言うのである。彼女が叫ぶ中、聴衆の中の一人がその場を立ち去る。
 
 その晩ヘルガは[アパート](../Page/アパート.md "wikilink")に戻り[電話](../Page/電話.md "wikilink")をしていたが、どこからともなく子供の歌が聞こえてきた。そしてドアの呼び鈴が鳴る。彼女はドアの前で異様な殺気を感じるが、その瞬間ドアが開き、大きな包丁が彼女に振り下ろされた。
 
@@ -46,17 +46,17 @@
 <tr class="even">
 <td><p>マーカス・デリー（マーク）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デヴィッド・ヘミングス" title="wikilink">デヴィッド・ヘミングス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金尾哲夫" title="wikilink">金尾哲夫</a></p></td>
+<td><p><a href="../Page/金尾哲夫.md" title="wikilink">金尾哲夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ジャンナ・ブレッチィ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダリア・ニコロディ" title="wikilink">ダリア・ニコロディ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮寺智子" title="wikilink">宮寺智子</a></p></td>
+<td><p><a href="../Page/宮寺智子.md" title="wikilink">宮寺智子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>カルロ</p></td>
 <td><p>ガブリエレ・ラヴィア</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古澤徹" title="wikilink">古澤徹</a></p></td>
+<td><p><a href="../Page/古澤徹.md" title="wikilink">古澤徹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ヘルガ・ウルマン</p></td>
@@ -66,7 +66,7 @@
 <tr class="even">
 <td><p>カルロの母親（マーサ）</p></td>
 <td><p>クララ・カラマイ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紗ゆり" title="wikilink">紗ゆり</a></p></td>
+<td><p><a href="../Page/紗ゆり.md" title="wikilink">紗ゆり</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>オルガ</p></td>
@@ -81,7 +81,7 @@
 <tr class="odd">
 <td><p>ジョルダーニ</p></td>
 <td><p>グラウコ・マウリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石井隆夫" title="wikilink">石井隆夫</a></p></td>
+<td><p><a href="../Page/石井隆夫.md" title="wikilink">石井隆夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ヴァルゴイ</p></td>
@@ -126,7 +126,7 @@
 <tr class="even">
 <td><p>その他</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/樫井笙人" title="wikilink">樫井笙人</a><br />
+<td><p><a href="../Page/樫井笙人.md" title="wikilink">樫井笙人</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉田孝_(声優)" title="wikilink">吉田孝</a></p></td>
 </tr>
 <tr class="odd">
@@ -185,7 +185,7 @@
 
 監督の代表作である『サスペリアPART2』と『サスペリア』。日本では本作が『サスペリア』の前に作られたにもかかわらず、2作目という題がつけられた(海本作の外公開は1975年だが日本公開は1978年)。また内容にも全く関連性がないばかりか、本作はあくまでも生身の人間の犯罪者による猟奇殺人を描いたサイコホラー作品であるため、『サスペリア』に盛り込まれたようなオカルト的要素は終始皆無である。理由としては本作が『サスペリア』より後に輸入されたことと、配給会社が『サスペリア』のヒットを受け、『サスペリア』の続編として公開したほうが売れると考えたためである。これについては監督本人も驚いたとの事。
 
-なお、実際の『サスペリア』について、れっきとした続編である『[インフェルノ](https://ja.wikipedia.org/wiki/インフェルノ_\(1980年の映画\) "wikilink")』『[サスペリア・テルザ 最後の魔女](https://ja.wikipedia.org/wiki/サスペリア・テルザ_最後の魔女 "wikilink")』2作品が後に制作・公開されており、（作品世界も繋がっている）各々の作品での悪玉総元締め（魔女）が血縁関係にある三姉妹であることにちなみ、3作品合わせて公式に『魔女三部作シリーズ』と呼称されている。
+なお、実際の『サスペリア』について、れっきとした続編である『[インフェルノ](../Page/インフェルノ_\(1980年の映画\).md "wikilink")』『[サスペリア・テルザ 最後の魔女](https://ja.wikipedia.org/wiki/サスペリア・テルザ_最後の魔女 "wikilink")』2作品が後に制作・公開されており、（作品世界も繋がっている）各々の作品での悪玉総元締め（魔女）が血縁関係にある三姉妹であることにちなみ、3作品合わせて公式に『魔女三部作シリーズ』と呼称されている。
 
 本作公開時のキャッチフレーズは「**約束です！決してひとりでは見ないでください**」であった。
 

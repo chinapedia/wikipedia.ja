@@ -1,7 +1,7 @@
 > この記事は[IPAQ](https://ja.wikipedia.org/wiki/IPAQ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:IPAQ-112.jpg "wikilink") **iPAQ**（アイパック）とは、現在の[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")および、同社と合併前の[コンパック](../Page/コンパック.md "wikilink")が開発、販売している[Windows Mobileを搭載した](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")[PDAのシリーズ名である](../Page/携帯情報端末.md "wikilink")。このシリーズはPocket PCの初期から参入しており、長い間製造、販売が続けられていた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、全シリーズの販売を終了。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")第1四半期の世界Windows OS搭載PDA出荷台数と市場シェアにおいて、世界シェアNo.1である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:IPAQ-112.jpg "wikilink") **iPAQ**（アイパック）とは、現在の[ヒューレットパッカード](https://ja.wikipedia.org/wiki/ヒューレットパッカード "wikilink")および、同社と合併前の[コンパック](../Page/コンパック.md "wikilink")が開発、販売している[Windows Mobileを搭載した](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")[PDAのシリーズ名である](../Page/携帯情報端末.md "wikilink")。このシリーズはPocket PCの初期から参入しており、長い間製造、販売が続けられていた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、全シリーズの販売を終了。[2006年](../Page/2006年.md "wikilink")第1四半期の世界Windows OS搭載PDA出荷台数と市場シェアにおいて、世界シェアNo.1である。
 
 コンパックとヒューレットパッカードの合併前後でシリーズ名と型番が少し異なる。なお、合併前のヒューレットパッカードには[jornada](https://ja.wikipedia.org/wiki/jornada "wikilink")というPDAのシリーズが存在したが、合併後にiPAQブランドを存続させる方針となり、シリーズを打ち切られている。
 
@@ -232,17 +232,17 @@
 ### H3630 / H3660
 
   -
-    Pocket PCを搭載した初代iPAQ。CPUは[StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink") (206MHz) 。RAM容量がH3630では32MB、H3660では64MBである。本体にはカードスロットはないが、付属の拡張パックによって[コンパクトフラッシュ](../Page/コンパクトフラッシュ.md "wikilink")を扱えるようになっていた。
+    Pocket PCを搭載した初代iPAQ。CPUは[StrongARM](../Page/StrongARM.md "wikilink") (206MHz) 。RAM容量がH3630では32MB、H3660では64MBである。本体にはカードスロットはないが、付属の拡張パックによって[コンパクトフラッシュ](../Page/コンパクトフラッシュ.md "wikilink")を扱えるようになっていた。
 
 ### H3850 / H3870
 
   -
-    Pocket PC 2002を搭載し、[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロットを本体に装備したモデル。（拡張パックにも対応）RAM容量は双方とも64MB。H3870には[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")機能がある。
+    Pocket PC 2002を搭載し、[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロットを本体に装備したモデル。（拡張パックにも対応）RAM容量は双方とも64MB。H3870には[Bluetooth](../Page/Bluetooth.md "wikilink")機能がある。
 
 ### H3950 / H3970
 
   -
-    CPUに[PXA250](https://ja.wikipedia.org/wiki/XScale "wikilink") (400MHz) を採用したモデル。H3950はROM容量が32MB、H3970は48MBである上にBluetooth搭載。
+    CPUに[PXA250](../Page/XScale.md "wikilink") (400MHz) を採用したモデル。H3950はROM容量が32MB、H3970は48MBである上にBluetooth搭載。
 
 ## 関連項目
 

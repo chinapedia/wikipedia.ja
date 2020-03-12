@@ -3,7 +3,7 @@
 
 **JR貨物19C形[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")**（JRかもつ19Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）に400個配備した12[ft形](../Page/フィート.md "wikilink")[ドライ・コンテナ](https://ja.wikipedia.org/wiki/ドライ・コンテナ "wikilink")である。
 
-[19B形に荷崩れ防止のための機構をつけた形式で](../Page/JR貨物19B形コンテナ.md "wikilink")、内部には仕切用の[ポリプロピレン](https://ja.wikipedia.org/wiki/ポリプロピレン "wikilink")製パネルが吊されている。
+[19B形に荷崩れ防止のための機構をつけた形式で](../Page/JR貨物19B形コンテナ.md "wikilink")、内部には仕切用の[ポリプロピレン](../Page/ポリプロピレン.md "wikilink")製パネルが吊されている。
 
 ## 構造
 

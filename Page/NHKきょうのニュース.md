@@ -1,13 +1,13 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHKきょうのニュース**（エヌエイチケイきょうのニュース）は[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")・[FMラジオ](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")・[NHKワールド・ラジオ日本](https://ja.wikipedia.org/wiki/NHKワールド・ラジオ日本 "wikilink")で放送されているニュース番組である。この番組名は[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")でも用いられていたが、1993年4月より「[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")」として放送される。
+**NHKきょうのニュース**（エヌエイチケイきょうのニュース）は[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・[FMラジオ](../Page/NHK-FM放送.md "wikilink")・[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")で放送されているニュース番組である。この番組名は[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")でも用いられていたが、1993年4月より「[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")」として放送される。
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から毎日19時台の総合ニュースのタイトルとして使用されている。[NHKジャーナル](https://ja.wikipedia.org/wiki/NHKジャーナル "wikilink")とともに取材した音源も積極的に放送している（大相撲中継等のラジオ中継音源も積極的に放送している）。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から毎日19時台の総合ニュースのタイトルとして使用されている。[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")とともに取材した音源も積極的に放送している（大相撲中継等のラジオ中継音源も積極的に放送している）。
 
-ラジオ第1放送、FM放送、NHKワールド・ラジオ日本（国際放送）で同時放送されているが、FM放送では[コンサート中継等で放送されないことがある](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。2011年3月までは地上デジタルラジオ実用化試験放送（[東京](https://ja.wikipedia.org/wiki/NHK放送センター "wikilink")・[大阪](https://ja.wikipedia.org/wiki/NHK大阪放送局 "wikilink")）でも同時放送されていた（正午のニュースも放送）。重大事件などが発生し時間枠を拡大した場合、FM放送ではFM独自にニュースを放送し、時間通りに終了する（主に土日祝日）。
+ラジオ第1放送、FM放送、NHKワールド・ラジオ日本（国際放送）で同時放送されているが、FM放送では[コンサート中継等で放送されないことがある](../Page/演奏会.md "wikilink")。2011年3月までは地上デジタルラジオ実用化試験放送（[東京](../Page/NHK放送センター.md "wikilink")・[大阪](../Page/NHK大阪放送局.md "wikilink")）でも同時放送されていた（正午のニュースも放送）。重大事件などが発生し時間枠を拡大した場合、FM放送ではFM独自にニュースを放送し、時間通りに終了する（主に土日祝日）。
 
 ### タイトルコール遍歴
 
@@ -15,15 +15,15 @@
 
 [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生以降は被災地住民に考慮して「7時になりました。今夜も聞いて下さっていますか? 24時間安心ラジオ『NHKきょうのニュース』です」のフレーズに変わった\[2\]。これは平日正午のラジオニュースでもほぼ同様のフレーズが入っている）。
 
-[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[出山知樹](https://ja.wikipedia.org/wiki/出山知樹 "wikilink")が司会に就任してから、2007年度までの挨拶のスタイルに戻した。
+[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[出山知樹](../Page/出山知樹.md "wikilink")が司会に就任してから、2007年度までの挨拶のスタイルに戻した。
 
 [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは**「こんばんは。7時になりました。『NHKきょうのニュース』出山知樹です。→こんばんは。○○（女性キャスター名）です。」**に変更された。
 
-[2015年](../Page/2015年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")（男性パーソナリティーが出山から[野村正育](https://ja.wikipedia.org/wiki/野村正育 "wikilink")に交代した日）から[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは、オープニングテーマ音楽をバックにして、2-3項目のヘッドライン（重要ニュースがあればこの限りではない）を述べて、テーマ音楽が終わったところで、**「こんばんは、7時になりました。『NHKきょうのニュース』野村正育です。→○○（女性キャスター名）です」**とつなぐ方式であった。
+[2015年](../Page/2015年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")（男性パーソナリティーが出山から[野村正育](../Page/野村正育.md "wikilink")に交代した日）から[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは、オープニングテーマ音楽をバックにして、2-3項目のヘッドライン（重要ニュースがあればこの限りではない）を述べて、テーマ音楽が終わったところで、**「こんばんは、7時になりました。『NHKきょうのニュース』野村正育です。→○○（女性キャスター名）です」**とつなぐ方式であった。
 
-[2017年](../Page/2017年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")（テーマ音楽が変わった日）からは、オープニングテーマ音楽をバックにして、上記とは逆の方式に変更された。さらに[2018年](../Page/2018年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")からは、担当者の氏名はエンディングでのみアナウンスする方式になっている。
+[2017年](../Page/2017年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")（テーマ音楽が変わった日）からは、オープニングテーマ音楽をバックにして、上記とは逆の方式に変更された。さらに[2018年](../Page/2018年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")からは、担当者の氏名はエンディングでのみアナウンスする方式になっている。
 
-土曜・日曜・祝日・年末年始はアナウンサーが**「こんばんは。7時になりました。『NHKきょうのニュース』です」**と挨拶するにとどめ、平日と同様、担当者の氏名は全国ニュースの終わりのところでのみアナウンスする\[3\]。ただ、稀にアナウンサーが冒頭で『7時の[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")』と言うことがあるが、すべてはアナウンサー次第となっている。
+土曜・日曜・祝日・年末年始はアナウンサーが**「こんばんは。7時になりました。『NHKきょうのニュース』です」**と挨拶するにとどめ、平日と同様、担当者の氏名は全国ニュースの終わりのところでのみアナウンスする\[3\]。ただ、稀にアナウンサーが冒頭で『7時の[NHKニュース](../Page/NHKニュース.md "wikilink")』と言うことがあるが、すべてはアナウンサー次第となっている。
 
 ## 放送時間
 
@@ -51,14 +51,14 @@
 
 <!-- end list -->
 
-  - 2018年4月2日から、「[Nらじ](https://ja.wikipedia.org/wiki/Nらじ "wikilink")」の[フロート番組](https://ja.wikipedia.org/wiki/フロート番組 "wikilink")として内包(平日のみ。[NHKプロ野球](https://ja.wikipedia.org/wiki/NHKプロ野球 "wikilink")中継放送日を除く)
-  - 2017年度まではプロ野球中継が放送される年度上半期の[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")・[金曜日](../Page/金曜日.md "wikilink")は19:30までだった。なお2005年8月16 - 17日の放送も特別番組編成のため19:30までで終了した。その場合、テーマ曲はなく司会者の挨拶の後「まもなく時刻は7時半になります」のアナウンスで終了していた。
+  - 2018年4月2日から、「[Nらじ](https://ja.wikipedia.org/wiki/Nらじ "wikilink")」の[フロート番組](../Page/フロート番組.md "wikilink")として内包(平日のみ。[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")中継放送日を除く)
+  - 2017年度まではプロ野球中継が放送される年度上半期の[木曜日](../Page/木曜日.md "wikilink")・[金曜日](../Page/金曜日.md "wikilink")は19:30までだった。なお2005年8月16 - 17日の放送も特別番組編成のため19:30までで終了した。その場合、テーマ曲はなく司会者の挨拶の後「まもなく時刻は7時半になります」のアナウンスで終了していた。
   - 2018年4月2日から、番組の終わりに、フロート内包先の「Nらじ 特集・一本勝負」の簡単な予告を述べている。
   - 国際放送のラジオ日本は関東甲信越のローカルニュースも放送する。高校野球中継に差し替える場合や、関東地方のローカルニュース枠で[政見放送](../Page/政見放送.md "wikilink")がある場合、FM放送やデジタルラジオ実用化試験放送の音楽番組に差し替える。
   - 2012年3月までは関東ローカルニュース枠のエンディングの際（交通情報が終わった19:59ごろ）に短いエンディングテーマソングのBGMが流れ、末田による締めくくりのコメント「（今日一日の）内外のニュースと列島各地の動き、気象情報、交通情報などをお伝えしました。（全司会者の挨拶を挟み）それではまた明日の夜7時にお会いしましょう。（金曜・または祝日前日のみ「それでは今日はこれで失礼します」）」が入っていた。\[5\]
-  - 全国ニュースの後のローカルニュースは本番組とは分かれて別番組となっているが、新聞[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")では明確な区別がなく、[事実上「コンプレックス」となっている](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")。
-  - [2017年](../Page/2017年.md "wikilink")度は、『[きこえタマゴ\!](https://ja.wikipedia.org/wiki/きこえタマゴ! "wikilink")』（平日19:40 - 19:59生放送。4月 - 9月の木・金曜は『[NHKプロ野球](https://ja.wikipedia.org/wiki/NHKプロ野球 "wikilink")』を従来通り放送）が放送された関係で、以前放送されていた列島リレーニュースは廃止された\[6\]。このため、全国のニュースは19:30まで、そのあとのローカルニュース・天気・交通情報は19:30 - 19:40に繰り上げられた\[7\]。
-  - [IPサイマルラジオサービス](../Page/インターネットラジオ.md "wikilink")2者（「[NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」、及び、民放ラジオポータルサイト「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")（2017年10月2日～2018年3月30日まで、[第1次実験配信（一部地域限定）](https://ja.wikipedia.org/wiki/radiko#NHKラジオの実験配信 "wikilink")\[8\]\[9\]）」では、ローカルニュース枠で[政見放送](../Page/政見放送.md "wikilink")がある場合、独自のフィラー音楽と断りアナウンスにそれぞれ差し替えられる（政見放送のネット配信は、[公職選挙法](https://ja.wikipedia.org/wiki/公職選挙法 "wikilink")第150条の規定により、事実上禁止されているためである。これにより、らじる★らじる・radiko共に同様の措置が取られる）\[10\]。
+  - 全国ニュースの後のローカルニュースは本番組とは分かれて別番組となっているが、新聞[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")では明確な区別がなく、[事実上「コンプレックス」となっている](../Page/コンプレックス_\(番組形式\).md "wikilink")。
+  - [2017年](../Page/2017年.md "wikilink")度は、『[きこえタマゴ\!](https://ja.wikipedia.org/wiki/きこえタマゴ! "wikilink")』（平日19:40 - 19:59生放送。4月 - 9月の木・金曜は『[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")』を従来通り放送）が放送された関係で、以前放送されていた列島リレーニュースは廃止された\[6\]。このため、全国のニュースは19:30まで、そのあとのローカルニュース・天気・交通情報は19:30 - 19:40に繰り上げられた\[7\]。
+  - [IPサイマルラジオサービス](../Page/インターネットラジオ.md "wikilink")2者（「[NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」、及び、民放ラジオポータルサイト「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")（2017年10月2日～2018年3月30日まで、[第1次実験配信（一部地域限定）](https://ja.wikipedia.org/wiki/radiko#NHKラジオの実験配信 "wikilink")\[8\]\[9\]）」では、ローカルニュース枠で[政見放送](../Page/政見放送.md "wikilink")がある場合、独自のフィラー音楽と断りアナウンスにそれぞれ差し替えられる（政見放送のネット配信は、[公職選挙法](../Page/公職選挙法.md "wikilink")第150条の規定により、事実上禁止されているためである。これにより、らじる★らじる・radiko共に同様の措置が取られる）\[10\]。
   - 2013年度までは19:45までだったが、2014年度から「[安心ラジオ](https://ja.wikipedia.org/wiki/安心ラジオ "wikilink")」を放送するため、1分短縮になった。2016年度までは19:44までだった。
 
 <!-- end list -->
@@ -115,7 +115,7 @@
 
 ### メインキャスター　
 
-  - [野村正育](https://ja.wikipedia.org/wiki/野村正育 "wikilink")（2015.3.30～）
+  - [野村正育](../Page/野村正育.md "wikilink")（2015.3.30～）
 
 <!-- end list -->
 
@@ -135,15 +135,15 @@
 
 ### お天気キャスター
 
-  - [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")（18:50からの関東ローカル枠・[NHKジャーナル](https://ja.wikipedia.org/wiki/NHKジャーナル "wikilink")の気象コーナーも担当。2019.4.1～）
+  - [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")（18:50からの関東ローカル枠・[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")の気象コーナーも担当。2019.4.1～）
 
 ### 代理
 
-  - [石垣真帆](https://ja.wikipedia.org/wiki/石垣真帆 "wikilink") (2019.9.24～10.4)
+  - [石垣真帆](../Page/石垣真帆.md "wikilink") (2019.9.24～10.4)
 
 ## 土曜日・日曜日・祝日・年末年始の出演者（担当キャスター）
 
-  - [伊林毅暁](https://ja.wikipedia.org/wiki/伊林毅暁 "wikilink")（2018.4.1〜）
+  - [伊林毅暁](../Page/伊林毅暁.md "wikilink")（2018.4.1〜）
 
 <!-- end list -->
 
@@ -159,11 +159,11 @@
 
 <!-- end list -->
 
-  - 2004.5.17〜6.11　[梅津正樹](https://ja.wikipedia.org/wiki/梅津正樹 "wikilink")
-  - 2004.6.14〜2006.3　[二見和男](https://ja.wikipedia.org/wiki/二見和男 "wikilink")（現[金沢放送局シニアスタッフ](https://ja.wikipedia.org/wiki/NHK金沢放送局 "wikilink")）
-  - 2006.4〜2008.3.29　[伊藤博英](https://ja.wikipedia.org/wiki/伊藤博英 "wikilink")（2010年10月30日のFM・デジタルラジオ実用化試験放送向けの放送も臨時に担当したほか、2012年1月21日・土曜日放送分も担当）
-  - 2008.4〜2012.3　[末田正雄](https://ja.wikipedia.org/wiki/末田正雄 "wikilink")（それ以降も代理のメインキャスターとして出演することがある。）
-  - 2012.4～2015.3　[出山知樹](https://ja.wikipedia.org/wiki/出山知樹 "wikilink")（現[大阪放送局](https://ja.wikipedia.org/wiki/NHK大阪放送局 "wikilink")）
+  - 2004.5.17〜6.11　[梅津正樹](../Page/梅津正樹.md "wikilink")
+  - 2004.6.14〜2006.3　[二見和男](https://ja.wikipedia.org/wiki/二見和男 "wikilink")（現[金沢放送局シニアスタッフ](../Page/NHK金沢放送局.md "wikilink")）
+  - 2006.4〜2008.3.29　[伊藤博英](../Page/伊藤博英.md "wikilink")（2010年10月30日のFM・デジタルラジオ実用化試験放送向けの放送も臨時に担当したほか、2012年1月21日・土曜日放送分も担当）
+  - 2008.4〜2012.3　[末田正雄](../Page/末田正雄.md "wikilink")（それ以降も代理のメインキャスターとして出演することがある。）
+  - 2012.4～2015.3　[出山知樹](../Page/出山知樹.md "wikilink")（現[大阪放送局](../Page/NHK大阪放送局.md "wikilink")）
 
 <!-- end list -->
 
@@ -171,25 +171,25 @@
 
 <!-- end list -->
 
-  - 2007.4～2012.3　[黒沢保裕](https://ja.wikipedia.org/wiki/黒沢保裕 "wikilink")（現[日本語センター](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター "wikilink")）
-  - 2012.4～2014.6.7　[福井茂](https://ja.wikipedia.org/wiki/福井茂 "wikilink")（現[秋田放送局](https://ja.wikipedia.org/wiki/NHK秋田放送局 "wikilink")）
-  - 2014.6.14～2015.6.6　[中尾晃一郎](https://ja.wikipedia.org/wiki/中尾晃一郎 "wikilink")（現[放送文化研究所](https://ja.wikipedia.org/wiki/NHK放送文化研究所 "wikilink")）
-  - 2015.6.13〜2017.7.9　[昼間敬仁](https://ja.wikipedia.org/wiki/昼間敬仁 "wikilink")
-  - 2017.9.9～2018.3.31　[内藤啓史](https://ja.wikipedia.org/wiki/内藤啓史 "wikilink")
+  - 2007.4～2012.3　[黒沢保裕](../Page/黒沢保裕.md "wikilink")（現[日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")）
+  - 2012.4～2014.6.7　[福井茂](../Page/福井茂.md "wikilink")（現[秋田放送局](../Page/NHK秋田放送局.md "wikilink")）
+  - 2014.6.14～2015.6.6　[中尾晃一郎](../Page/中尾晃一郎.md "wikilink")（現[放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")）
+  - 2015.6.13〜2017.7.9　[昼間敬仁](../Page/昼間敬仁.md "wikilink")
+  - 2017.9.9～2018.3.31　[内藤啓史](../Page/内藤啓史.md "wikilink")
 
 <!-- end list -->
 
   -
-    ※過去には、平日は[石戸谷健一](https://ja.wikipedia.org/wiki/石戸谷健一 "wikilink")、[加藤昌男](https://ja.wikipedia.org/wiki/加藤昌男 "wikilink")、[伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")が、土日には[長谷川勝彦](https://ja.wikipedia.org/wiki/長谷川勝彦 "wikilink")などが担当していた。伊藤、末田、野村は過去に[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")の週末キャスターを歴任している。
+    ※過去には、平日は[石戸谷健一](../Page/石戸谷健一.md "wikilink")、[加藤昌男](https://ja.wikipedia.org/wiki/加藤昌男 "wikilink")、[伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")が、土日には[長谷川勝彦](https://ja.wikipedia.org/wiki/長谷川勝彦 "wikilink")などが担当していた。伊藤、末田、野村は過去に[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")の週末キャスターを歴任している。
     ※2013年度途中までは祝日は土日担当とは別のアナウンサーが日替わりで担当した。
-    ※2017年7月15日から9月3日までは土日祝日は[小見誠広](https://ja.wikipedia.org/wiki/小見誠広 "wikilink")、内藤啓史、野村正育、[山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")などが日替わりで担当。
+    ※2017年7月15日から9月3日までは土日祝日は[小見誠広](../Page/小見誠広.md "wikilink")、内藤啓史、野村正育、[山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")などが日替わりで担当。
 
 ### サブキャスター
 
   - [川手飛鳥](https://ja.wikipedia.org/wiki/川手飛鳥 "wikilink")
   - [向坂真弓](https://ja.wikipedia.org/wiki/向坂真弓 "wikilink")
   - [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")
-  - [島ひとみ](https://ja.wikipedia.org/wiki/島ひとみ "wikilink")（2013年4月〜2015年3月27日）
+  - [島ひとみ](../Page/島ひとみ.md "wikilink")（2013年4月〜2015年3月27日）
   - [丸井汐里](https://ja.wikipedia.org/wiki/丸井汐里 "wikilink")（2015年4月6日〜2017年3月17日）
   - [秋山千鶴](https://ja.wikipedia.org/wiki/秋山千鶴 "wikilink")（2012.4月〜2018年3月23日）
 
@@ -201,14 +201,14 @@
 
   - 2006年4月〜2010年3月26日 [横山容子](https://ja.wikipedia.org/wiki/横山容子 "wikilink")
   - 2010年3月29日〜2017年3月31日 福田寛之\[14\]\[15\] 前述の通り現在も担当している。
-  - 2017年4月3日～2019年3月29日 [伊藤みゆき](https://ja.wikipedia.org/wiki/伊藤みゆき "wikilink")（18:50からの関東ローカル枠・[NHKジャーナル](https://ja.wikipedia.org/wiki/NHKジャーナル "wikilink")の気象コーナーも担当）\[16\]
+  - 2017年4月3日～2019年3月29日 [伊藤みゆき](https://ja.wikipedia.org/wiki/伊藤みゆき "wikilink")（18:50からの関東ローカル枠・[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")の気象コーナーも担当）\[16\]
 
 ## テーマ曲
 
   - 1997.4頃〜2004.3　詳細不明（「[NHKニュース (午後7時)](https://ja.wikipedia.org/wiki/NHKニュース7#前身番組としての『NHKニュース』 "wikilink")」末期テーマに酷似）
       - 現在のオープニングのテーマ音楽に変わる前は、土日祝日もオープニングのみ音楽が流れた。
   - 2004.4〜2008.3　「Hot Topics」（[Nash Music Library](https://ja.wikipedia.org/wiki/Nash_Music_Library "wikilink")）
-  - 2008.4〜2012.3　詳細不明（過去に[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")の「[BSNニュースワイド](https://ja.wikipedia.org/wiki/BSNニュースワイド "wikilink")」でも使用されていた。ここまでモノラル音声）
+  - 2008.4〜2012.3　詳細不明（過去に[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")の「[BSNニュースワイド](../Page/BSNニュースワイド.md "wikilink")」でも使用されていた。ここまでモノラル音声）
   - 2012.4〜2017.3　詳細不明（新キャスター担当に伴いテーマ曲を変更。ここからステレオ音声）
   - 2017.4～ 詳細不明（同上）
 
@@ -216,16 +216,16 @@
 
   - 19:45からのローカルニュース枠は2015年度よりこれまで関東地方ローカルだったものが、首都圏（関東地方＋山梨県）枠になった。
   - 関東ローカルで番組最後に流れる音楽は、2005年度までは、野球中継で19:30までの放送になる場合に全国向けに放送されていた。
-  - 2008年度からは19:30までの放送になる場合、この後のラジオ第1「[NHKプロ野球](https://ja.wikipedia.org/wiki/NHKプロ野球 "wikilink")」・FM「[ベストオブクラシック](https://ja.wikipedia.org/wiki/ベストオブクラシック "wikilink")」が始まる旨の案内を行い、「まもなく7時半です」で放送が終了する。
+  - 2008年度からは19:30までの放送になる場合、この後のラジオ第1「[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")」・FM「[ベストオブクラシック](../Page/ベストオブクラシック.md "wikilink")」が始まる旨の案内を行い、「まもなく7時半です」で放送が終了する。
   - プロ野球中継の場合、基本的に中継カードも紹介するが、一部地域で差し替え中継がある場合は「プロ野球中継」のコメントのみにとどめている。
-  - FM「[ベストオブクラシック](https://ja.wikipedia.org/wiki/ベストオブクラシック "wikilink")」の場合、NHK交響楽団の定期演奏会生中継で本番組を放送していない場合はコメントしない（まれにFM放送で本番組が放送されていない場合でもコメントする場合がある）。
+  - FM「[ベストオブクラシック](../Page/ベストオブクラシック.md "wikilink")」の場合、NHK交響楽団の定期演奏会生中継で本番組を放送していない場合はコメントしない（まれにFM放送で本番組が放送されていない場合でもコメントする場合がある）。
   - 以前は土日祝日はオープニングのテーマ音楽を流していなかったが、2013年10月から再び流れている（ただし平日とは別バージョン）。
 
 ## 関連項目
 
-  - [NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")
+  - [NHKニュース](../Page/NHKニュース.md "wikilink")
   - [NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")
-  - [NHKジャーナル](https://ja.wikipedia.org/wiki/NHKジャーナル "wikilink")
+  - [NHKジャーナル](../Page/NHKジャーナル.md "wikilink")
 
 ## 脚注
 
@@ -245,7 +245,7 @@
 6.  [平成29年春の新番組一挙紹介（ラジオ第1放送の項を参照）](http://www6.nhk.or.jp/nhkpr/post/original.html?i=09182&f=bnrpc170215)
 7.  [平成29年度NHK放送番組時刻表](http://www.nhk.or.jp/pr/keiei/syubetsu/pdf/H29-001.pdf)
 8.  [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](http://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
-9.  対象は、[関東広域圏（渋谷放送センター）と](https://ja.wikipedia.org/wiki/NHK放送センター#NHK本部（東京ローカル） "wikilink")、[仙台](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink")・[広島](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink")・[松山](https://ja.wikipedia.org/wiki/NHK松山放送局 "wikilink")・[福岡の各放送局](https://ja.wikipedia.org/wiki/NHK福岡放送局 "wikilink")。
+9.  対象は、[関東広域圏（渋谷放送センター）と](https://ja.wikipedia.org/wiki/NHK放送センター#NHK本部（東京ローカル） "wikilink")、[仙台](../Page/NHK仙台放送局.md "wikilink")・[広島](../Page/NHK広島放送局.md "wikilink")・[松山](../Page/NHK松山放送局.md "wikilink")・[福岡の各放送局](../Page/NHK福岡放送局.md "wikilink")。
 10. 「radiko」の第1次実験配信では、[2017年](../Page/2017年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")の[第48回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第48回衆議院議員総選挙 "wikilink")が、これに該当する。
 11. 12:15 - 12:20の関東ローカルは日勤のアナウンサーが担当する。
 12. これに伴い、正職員の女性アナウンサーが日曜から木曜にかけて夜勤に入ることは少なくなった（NHKでは「A」のポジション）。

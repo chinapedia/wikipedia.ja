@@ -1,49 +1,49 @@
 > この記事は[AZ-1](https://ja.wikipedia.org/wiki/AZ-1)から翻訳されています。
 
 
-**マツダ・オートザムAZ-1**（エーゼットワン）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")5チャンネル化によって誕生した[オートザム](https://ja.wikipedia.org/wiki/オートザム "wikilink")で販売されていた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の2座席[スポーツクーペである](https://ja.wikipedia.org/wiki/クーペ "wikilink")。[スズキにも](https://ja.wikipedia.org/wiki/スズキ_\(企業\) "wikilink")[OEM](../Page/OEM.md "wikilink")供給され、[1993年](../Page/1993年.md "wikilink")より「**[CARA](https://ja.wikipedia.org/wiki/スズキ・キャラ "wikilink")**」（キャラ）の車名で販売された。
+**マツダ・オートザムAZ-1**（エーゼットワン）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")5チャンネル化によって誕生した[オートザム](../Page/オートザム.md "wikilink")で販売されていた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の2座席[スポーツクーペである](../Page/クーペ.md "wikilink")。[スズキにも](../Page/スズキ_\(企業\).md "wikilink")[OEM](../Page/OEM.md "wikilink")供給され、[1993年](../Page/1993年.md "wikilink")より「**[CARA](../Page/スズキ・キャラ.md "wikilink")**」（キャラ）の車名で販売された。
 
 ## 概要
 
-[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）の第28回[東京モーターショー](https://ja.wikipedia.org/wiki/東京モーターショー "wikilink")で参考出品された「AZ550 Sports」（後述）の市販版ともいえるAZ-1は[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）[9月24日](../Page/9月24日.md "wikilink")に発表され、同年[10月5日](../Page/10月5日.md "wikilink")に発売。型式はE-PG6SA。エンジンが[スズキ製で](https://ja.wikipedia.org/wiki/スズキ_\(企業\) "wikilink")、スズキでもOEMモデルが発売されていたことで誤解されやすいが、開発にスズキは一切関わっていない。
+[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）の第28回[東京モーターショー](../Page/東京モーターショー.md "wikilink")で参考出品された「AZ550 Sports」（後述）の市販版ともいえるAZ-1は[1992年](../Page/1992年.md "wikilink")（平成4年）[9月24日](../Page/9月24日.md "wikilink")に発表され、同年[10月5日](../Page/10月5日.md "wikilink")に発売。型式はE-PG6SA。エンジンが[スズキ製で](../Page/スズキ_\(企業\).md "wikilink")、スズキでもOEMモデルが発売されていたことで誤解されやすいが、開発にスズキは一切関わっていない。
 
-超小型ながら[スポーツカー](../Page/スポーツカー.md "wikilink")らしさを演出している特徴的な外観は、軽自動車唯一の[ガルウイングドア](https://ja.wikipedia.org/wiki/ガルウイングドア "wikilink")と、外装に[FRP](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")（シートモールディングコンパウンド）を多用した軽量ボディで構成されている。[トヨタ・セラ](../Page/トヨタ・セラ.md "wikilink")と同様グラス[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")デザインを採用し、ルーフ部のガラスに光の透過率を30%に抑えたセラミック処理を施し、快適性に配慮した。ボディは外装を簡単に取り外せる[スケルトン](https://ja.wikipedia.org/wiki/スケルトン "wikilink")[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")という特殊なフレーム（メイン部材は[ペリメーター型](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#ペリメーター型 "wikilink")）を採用して[剛性](../Page/剛性.md "wikilink")を高め、外装がない状態でも走行が可能である（外装なしでの公道走行は不可）。車重は720 kg。
+超小型ながら[スポーツカー](../Page/スポーツカー.md "wikilink")らしさを演出している特徴的な外観は、軽自動車唯一の[ガルウイングドア](https://ja.wikipedia.org/wiki/ガルウイングドア "wikilink")と、外装に[FRP](../Page/繊維強化プラスチック.md "wikilink")（シートモールディングコンパウンド）を多用した軽量ボディで構成されている。[トヨタ・セラ](../Page/トヨタ・セラ.md "wikilink")と同様グラス[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")デザインを採用し、ルーフ部のガラスに光の透過率を30%に抑えたセラミック処理を施し、快適性に配慮した。ボディは外装を簡単に取り外せる[スケルトン](https://ja.wikipedia.org/wiki/スケルトン "wikilink")[モノコック](../Page/モノコック.md "wikilink")という特殊なフレーム（メイン部材は[ペリメーター型](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#ペリメーター型 "wikilink")）を採用して[剛性](../Page/剛性.md "wikilink")を高め、外装がない状態でも走行が可能である（外装なしでの公道走行は不可）。車重は720 kg。
 
-開発当初、スペアタイヤはフロントに収納する予定だったが、[衝突試験](https://ja.wikipedia.org/wiki/衝突試験 "wikilink")を行なった際にスペアタイヤが[ステアリング](../Page/ステアリング.md "wikilink")シャフトを押し、ステアリングホイールがドライバーに向かって突き出ることが分かり、急遽運転席後ろの荷物置きスペースへ変更された。ガルウイングドアの構造上、横転した場合は開けられなくなるため、横転後の脱出の際はドアガラスを割る必要がある。そのため型式認証時にも横転時の脱出不可ではとの指摘があったが、実際に横転させた状態から脱出可能であることを実証した資料を作製し、認証を得ている。
+開発当初、スペアタイヤはフロントに収納する予定だったが、[衝突試験](../Page/衝突試験.md "wikilink")を行なった際にスペアタイヤが[ステアリング](../Page/ステアリング.md "wikilink")シャフトを押し、ステアリングホイールがドライバーに向かって突き出ることが分かり、急遽運転席後ろの荷物置きスペースへ変更された。ガルウイングドアの構造上、横転した場合は開けられなくなるため、横転後の脱出の際はドアガラスを割る必要がある。そのため型式認証時にも横転時の脱出不可ではとの指摘があったが、実際に横転させた状態から脱出可能であることを実証した資料を作製し、認証を得ている。
 
 当時のマツダは多品種少量生産を志向していたが、それでもなお利幅の少ない軽自動車のスポーツカーをマツダ本社工場で生産するのはコスト上困難で、生産ラインは、ボディ外板生産の協力会社である「クラタ」（現：[キーレックス](https://ja.wikipedia.org/wiki/キーレックス "wikilink")）に設置された。
 
-外観だけではなく走行性能は本格的スポーツカーそのものである。パワートレインは[アルトワークスと共通で](https://ja.wikipedia.org/wiki/スズキ・アルト "wikilink")、[F6A型](https://ja.wikipedia.org/wiki/スズキ・F型エンジン "wikilink")[3気筒](https://ja.wikipedia.org/wiki/直列3気筒 "wikilink")[DOHC](https://ja.wikipedia.org/wiki/DOHC "wikilink")[ターボエンジンをキャビン後部に](../Page/ターボチャージャー.md "wikilink")（[ミッドシップ](https://ja.wikipedia.org/wiki/ミッドシップ "wikilink")）搭載し、ステアリングのロックトゥロックが2.2回転という機敏な操作性と軽量ボディとの組み合わせにより「究極のハンドリングマシーン」と銘打たれていた。
+外観だけではなく走行性能は本格的スポーツカーそのものである。パワートレインは[アルトワークスと共通で](../Page/スズキ・アルト.md "wikilink")、[F6A型](https://ja.wikipedia.org/wiki/スズキ・F型エンジン "wikilink")[3気筒](../Page/直列3気筒.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[ターボエンジンをキャビン後部に](../Page/ターボチャージャー.md "wikilink")（[ミッドシップ](../Page/ミッドシップ.md "wikilink")）搭載し、ステアリングのロックトゥロックが2.2回転という機敏な操作性と軽量ボディとの組み合わせにより「究極のハンドリングマシーン」と銘打たれていた。
 
 しかし、足回り（特にリアサスペンション）の設計上コーナリング時のジオメトリー変化が極めて大きく、重心位置と相まってスピンや横転事故が多発した。また、極度のリア荷重のためフロントタイヤの接地面積が足りず、直進安定性の低さを指摘する評価もあった。ガルウィングドアに関しては、サイドシルがシートの座面よりも高いため、ミニスカートの女性を乗せるにはコツが必要だった。
 
-高価であったこと、実用性が低かったこと、[ATの設定がなかったこと](https://ja.wikipedia.org/wiki/オートマチックトランスミッション "wikilink")、発売された時期が[バブル崩壊の最中といったこともあり販売台数は低迷](../Page/バブル経済.md "wikilink")、[1994年](../Page/1994年.md "wikilink")（平成6年）10月\[1\]に生産終了、[翌年9月までに販売終了となった](https://ja.wikipedia.org/wiki/ラストオーダー "wikilink")。総生産台数は4,409台\[2\]。OEMモデルの[キャラは](https://ja.wikipedia.org/wiki/スズキ・キャラ "wikilink")12月まで販売された。
+高価であったこと、実用性が低かったこと、[ATの設定がなかったこと](../Page/オートマチックトランスミッション.md "wikilink")、発売された時期が[バブル崩壊の最中といったこともあり販売台数は低迷](../Page/バブル経済.md "wikilink")、[1994年](../Page/1994年.md "wikilink")（平成6年）10月\[1\]に生産終了、[翌年9月までに販売終了となった](../Page/ラストオーダー.md "wikilink")。総生産台数は4,409台\[2\]。OEMモデルの[キャラは](../Page/スズキ・キャラ.md "wikilink")12月まで販売された。
 
 [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")においては、[ジムカーナA](../Page/ジムカーナ_\(モータースポーツ\).md "wikilink")1クラスで定番の[ホンダ・シティ（GA2型）に対抗可能な数少ないマシンの一つだったが](https://ja.wikipedia.org/wiki/ホンダ・シティ#2代目_GA1/2型（1986-1993年） "wikilink")\[3\]、前述のように横転した際の安全性に問題があり、火災などが発生した場合に消火と並行して救助する術がないため、出場に際してはクラッシュ時の救助の保証がないことに同意する誓約書が必要な場合もあった。
 
-生産（販売）台数の少なさと軽自動車のピュアスポーツカーというマニアックな性格から、生産（販売）終了後の中古車市場ではプレミア価格が付き、特に[マツダスピード](https://ja.wikipedia.org/wiki/マツダスピード "wikilink")バージョンは更に高値が付いている。
+生産（販売）台数の少なさと軽自動車のピュアスポーツカーというマニアックな性格から、生産（販売）終了後の中古車市場ではプレミア価格が付き、特に[マツダスピード](../Page/マツダスピード.md "wikilink")バージョンは更に高値が付いている。
 
 AZ-1は、平成初期の同期時に販売されていた[ホンダ・ビート](https://ja.wikipedia.org/wiki/ホンダ・ビート_\(自動車\) "wikilink")、[スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink")の頭文字から「平成ABCトリオ」と称されていた。
 
 ## AZ550 Sports
 
-1989年（平成元年）の第28回[東京モーターショー](https://ja.wikipedia.org/wiki/東京モーターショー "wikilink")で参考出品されたコンセプトモデル。AZ-1とは異なり、旧規格の軽自動車がベースなので排気量は550 ccとなっている。
+1989年（平成元年）の第28回[東京モーターショー](../Page/東京モーターショー.md "wikilink")で参考出品されたコンセプトモデル。AZ-1とは異なり、旧規格の軽自動車がベースなので排気量は550 ccとなっている。
 
-ウェッジシェイプでガルウィングドアと[リトラクタブルヘッドライト](https://ja.wikipedia.org/wiki/リトラクタブルヘッドライト "wikilink")を持つType A、ヒンジドアでキャビンが短いノッチバック[クーペ](https://ja.wikipedia.org/wiki/クーペ "wikilink")のType B、そして、[バタフライドアを持ち](https://ja.wikipedia.org/wiki/ガルウイングドア#バタフライドア "wikilink")、当時の[グループC](https://ja.wikipedia.org/wiki/グループC "wikilink")カーを髣髴とさせるType Cの3タイプが出展された。AZ-1はこの内のType Aに近いスタイリングで市販化された。
+ウェッジシェイプでガルウィングドアと[リトラクタブルヘッドライト](https://ja.wikipedia.org/wiki/リトラクタブルヘッドライト "wikilink")を持つType A、ヒンジドアでキャビンが短いノッチバック[クーペ](../Page/クーペ.md "wikilink")のType B、そして、[バタフライドアを持ち](https://ja.wikipedia.org/wiki/ガルウイングドア#バタフライドア "wikilink")、当時の[グループC](../Page/グループC.md "wikilink")カーを髣髴とさせるType Cの3タイプが出展された。AZ-1はこの内のType Aに近いスタイリングで市販化された。
 
 ## 特別仕様車
 
   - TYPE L
     オプションのスーパーウーハーなどを標準装備した特別仕様車。外観に変化はない。
-  - [マツダスピード](https://ja.wikipedia.org/wiki/マツダスピード "wikilink")バージョン
+  - [マツダスピード](../Page/マツダスピード.md "wikilink")バージョン
     マツダスピードのエアロパーツを装備する特別仕様車。
-  - [M2](https://ja.wikipedia.org/wiki/M2_\(マツダ\) "wikilink") 1015
-    M2が企画した[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")装備の特別仕様車。リアウイング形状はマツダスピードバージョンと異なる。ボディカラーは白、黒、銀の三色で、フロントフード先端に[フォグランプ](https://ja.wikipedia.org/wiki/フォグランプ "wikilink")を追加。
+  - [M2](../Page/M2_\(マツダ\).md "wikilink") 1015
+    M2が企画した[エアロパーツ](../Page/エアロパーツ.md "wikilink")装備の特別仕様車。リアウイング形状はマツダスピードバージョンと異なる。ボディカラーは白、黒、銀の三色で、フロントフード先端に[フォグランプ](../Page/フォグランプ.md "wikilink")を追加。
 
 マツダ以外からもボディキットが発売されている。
 
   - スコルピオーネ
-    サブロー・ジャパンが発売したワイドボディーキット。スコルピオーネは通称で、正式名称はない。[イタリア](../Page/イタリア.md "wikilink")の名匠[ピニンファリーナ](https://ja.wikipedia.org/wiki/ピニンファリーナ "wikilink")がデザインしており、フィアット-アバルト1000ビアルベーロ・ザガート（[英語版](https://ja.wikipedia.org/wiki/:en:Fiat-Abarth_750#1000_Zagato "wikilink")）を思わせるスタイルとなっている。ワイドボディーになるため小型車登録（白ナンバー）となる。5台販売されたとされる。
+    サブロー・ジャパンが発売したワイドボディーキット。スコルピオーネは通称で、正式名称はない。[イタリア](../Page/イタリア.md "wikilink")の名匠[ピニンファリーナ](../Page/ピニンファリーナ.md "wikilink")がデザインしており、フィアット-アバルト1000ビアルベーロ・ザガート（[英語版](https://ja.wikipedia.org/wiki/:en:Fiat-Abarth_750#1000_Zagato "wikilink")）を思わせるスタイルとなっている。ワイドボディーになるため小型車登録（白ナンバー）となる。5台販売されたとされる。
 
 ## 脚注
 
@@ -52,7 +52,7 @@ AZ-1は、平成初期の同期時に販売されていた[ホンダ・ビート
 ## 関連項目
 
   - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
-  - [スズキ・キャラ](https://ja.wikipedia.org/wiki/スズキ・キャラ "wikilink") - [姉妹車](../Page/OEM.md "wikilink")
+  - [スズキ・キャラ](../Page/スズキ・キャラ.md "wikilink") - [姉妹車](../Page/OEM.md "wikilink")
 
 ## 外部リンク
 

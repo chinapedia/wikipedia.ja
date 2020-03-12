@@ -1,13 +1,13 @@
 > この記事は[JAPAN WEEKEND](https://ja.wikipedia.org/wiki/JAPAN_WEEKEND)から翻訳されています。
 
 
-『**ニュースJAPAN WEEKEND**』（ニュース・ジャパン ウィークエンド）は、『**[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")**』の週末版として、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")（[5日深夜](../Page/4月5日.md "wikilink")）から[2003年](../Page/2003年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")（[29日深夜](../Page/3月29日.md "wikilink")）にかけて[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）にて放送された最終版の[ニュース番組である](https://ja.wikipedia.org/wiki/報道番組 "wikilink")。
+『**ニュースJAPAN WEEKEND**』（ニュース・ジャパン ウィークエンド）は、『**[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")**』の週末版として、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")（[5日深夜](../Page/4月5日.md "wikilink")）から[2003年](../Page/2003年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")（[29日深夜](../Page/3月29日.md "wikilink")）にかけて[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）にて放送された最終版の[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
 『[FNNニュースレポート23:30](../Page/FNNニュースレポート23:30.md "wikilink")』以来の[ストレートニュース](https://ja.wikipedia.org/wiki/ストレートニュース "wikilink")形式のフォーマットを引き継いだ番組であり、平日版『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』との内容的な関連性はない。フジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が担当していた『[FNNニュース最終版](../Page/FNNニュース最終版.md "wikilink")』のメインキャスターに『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』終了後の[松山香織](../Page/松山香織.md "wikilink")（元[CBCアナウンサー](../Page/中部日本放送.md "wikilink")）を迎えるにあたって、タイトルのみ変更したという意味合いが強い。
 
-2003年4月、最終版ニュースが『[すぽると\!](../Page/すぽると!.md "wikilink")』に内包されるのに伴い終了した。また、日曜日の放送は[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、『[EZ\!TV](https://ja.wikipedia.org/wiki/情報ライブ_EZ!TV "wikilink")』の放送開始に伴い、ひと足早く終了している。
+2003年4月、最終版ニュースが『[すぽると\!](../Page/すぽると!.md "wikilink")』に内包されるのに伴い終了した。また、日曜日の放送は[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、『[EZ\!TV](../Page/情報ライブ_EZ!TV.md "wikilink")』の放送開始に伴い、ひと足早く終了している。
 
 2016年3月まで、同枠ではフジテレビアナウンサーが担当する『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』が放送されていたが、2016年4月改編で、スポーツニュースに内包され、現在は『[S-PARK](https://ja.wikipedia.org/wiki/S-PARK "wikilink")』が放送されている。
 
@@ -53,7 +53,7 @@
 <td><p><small></p>
 <ul>
 <li><sup>1</sup> 『<a href="https://ja.wikipedia.org/wiki/FNNレインボー発" title="wikilink">FNNレインボー発</a>・あすの天気』を兼務。</li>
-<li><sup>2</sup> 『<a href="https://ja.wikipedia.org/wiki/情報ライブ_EZ!TV" title="wikilink">EZ!TV</a>』内「FNN EZ!TV NEWS」を兼務。</li>
+<li><sup>2</sup> 『<a href="../Page/情報ライブ_EZ!TV.md" title="wikilink">EZ!TV</a>』内「FNN EZ!TV NEWS」を兼務。</li>
 </ul>
 <p></small></p></td>
 <td></td>

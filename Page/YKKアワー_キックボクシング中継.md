@@ -1,22 +1,22 @@
 > この記事は[YKK ](https://ja.wikipedia.org/wiki/YKK_)から翻訳されています。
 
 
-『**YKKアワー キックボクシング中継**』（ワイケイケイアワー キックボクシングちゅうけい）は、1968年9月30日から1979年3月26日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBS製作の](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[スポーツ中継](https://ja.wikipedia.org/wiki/スポーツ中継 "wikilink")番組である。番組表上では単に「**キックボクシング**」とだけ表記されていた。放送時間は毎週月曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**YKKアワー キックボクシング中継**』（ワイケイケイアワー キックボクシングちゅうけい）は、1968年9月30日から1979年3月26日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[スポーツ中継](../Page/スポーツ中継.md "wikilink")番組である。番組表上では単に「**キックボクシング**」とだけ表記されていた。放送時間は毎週月曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
 [日本キックボクシング協会](https://ja.wikipedia.org/wiki/日本キックボクシング協会 "wikilink")の試合を中心に放送。
 
-前期は複数社提供で放送されていたが、1973年10月からは吉田工業（現:[YKK](https://ja.wikipedia.org/wiki/YKK "wikilink")）および吉田商事（現:[YKK AP](https://ja.wikipedia.org/wiki/YKK_AP "wikilink")）のYKKグループ[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")へ移行した。
+前期は複数社提供で放送されていたが、1973年10月からは吉田工業（現:[YKK](../Page/YKK.md "wikilink")）および吉田商事（現:[YKK AP](../Page/YKK_AP.md "wikilink")）のYKKグループ[一社提供](../Page/一社提供.md "wikilink")へ移行した。
 
 ## 出演者
 
-  - 解説：[寺内大吉](https://ja.wikipedia.org/wiki/寺内大吉 "wikilink")、[松岡憲治](https://ja.wikipedia.org/wiki/松岡憲治 "wikilink")（当時TBSスポーツ局員）
-  - 実況：[石川顕](https://ja.wikipedia.org/wiki/石川顯 "wikilink")（当時TBSアナウンサー） - [沢村忠](https://ja.wikipedia.org/wiki/沢村忠 "wikilink")の真空飛び[膝蹴り](https://ja.wikipedia.org/wiki/膝蹴り "wikilink")の名付け親。　[松下賢次](https://ja.wikipedia.org/wiki/松下賢次 "wikilink")（当時TBSアナウンサー）
+  - 解説：[寺内大吉](../Page/寺内大吉.md "wikilink")、[松岡憲治](../Page/松岡憲治.md "wikilink")（当時TBSスポーツ局員）
+  - 実況：[石川顕](../Page/石川顯.md "wikilink")（当時TBSアナウンサー） - [沢村忠](../Page/沢村忠.md "wikilink")の真空飛び[膝蹴り](../Page/膝蹴り.md "wikilink")の名付け親。　[松下賢次](../Page/松下賢次.md "wikilink")（当時TBSアナウンサー）
 
 ## 放送局
 
-  - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")（**製作局**）：月曜 19:00 - 19:30
+  - [TBS](../Page/TBSテレビ.md "wikilink")（**製作局**）：月曜 19:00 - 19:30
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森テレビ](../Page/青森テレビ.md "wikilink")：月曜 19:00 - 19:30\[1\]
   - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")：月曜 19:00 - 19:30\[2\]
@@ -27,17 +27,17 @@
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：木曜 19:00 - 19:30（1968年10月 - 1969年3月） → 月曜 19:00 - 19:30（1969年4月から）\[8\]
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（1968年の時点で火曜 17:30 - 18:00にて遅れネット\[9\]。その後1973年10月1日同時ネット開始。それまでの同時ネット時間帯は日本テレビ系列の『[流星人間ゾーン](https://ja.wikipedia.org/wiki/流星人間ゾーン "wikilink")』を同時ネットしていた\[10\]）
+  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（1968年の時点で火曜 17:30 - 18:00にて遅れネット\[9\]。その後1973年10月1日同時ネット開始。それまでの同時ネット時間帯は日本テレビ系列の『[流星人間ゾーン](../Page/流星人間ゾーン.md "wikilink")』を同時ネットしていた\[10\]）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")：金曜 18:00 - 18:30\[11\]
   - [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")
-  - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")\[12\]
+  - [朝日放送](../Page/朝日放送テレビ.md "wikilink")\[12\]
       - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
-  - [テレビ山口](https://ja.wikipedia.org/wiki/テレビ山口 "wikilink")
+  - [テレビ山口](../Page/テレビ山口.md "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
@@ -47,7 +47,7 @@
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")
+  - [琉球放送](../Page/琉球放送.md "wikilink")
 
 ## 脚注
 
@@ -64,4 +64,4 @@
 9.  『北國新聞』1968年10月15日付朝刊テレビ欄より。
 10. 『北日本新聞』1973年9月24日、10月1日付各朝刊テレビ欄より。
 11. 『北國新聞』1974年6月7日付朝刊テレビ欄より。
-12. この番組では、テーマ曲を自局で使用していた「[ウィーンはいつもウィーン](https://ja.wikipedia.org/wiki/ウィーンはいつもウィーン "wikilink")」に差し替えず、「[コバルトの空](https://ja.wikipedia.org/wiki/コバルトの空 "wikilink")」をそのまま使用していた。
+12. この番組では、テーマ曲を自局で使用していた「[ウィーンはいつもウィーン](https://ja.wikipedia.org/wiki/ウィーンはいつもウィーン "wikilink")」に差し替えず、「[コバルトの空](../Page/コバルトの空.md "wikilink")」をそのまま使用していた。

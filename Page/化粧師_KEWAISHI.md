@@ -1,7 +1,7 @@
 > この記事は[ KEWAISHI](https://ja.wikipedia.org/wiki/_KEWAISHI)から翻訳されています。
 
 
-『**化粧師 KEWAISHI**』（けわいし）は、[2002年公開の](https://ja.wikipedia.org/wiki/2002年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")の漫画『[八百八町表裏 化粧師](https://ja.wikipedia.org/wiki/八百八町表裏_化粧師 "wikilink")』を原作としているが、舞台は[大正](../Page/大正.md "wikilink")時代に変更されている。
+『**化粧師 KEWAISHI**』（けわいし）は、[2002年公開の](https://ja.wikipedia.org/wiki/2002年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の漫画『[八百八町表裏 化粧師](../Page/八百八町表裏_化粧師.md "wikilink")』を原作としているが、舞台は[大正](../Page/大正.md "wikilink")時代に変更されている。
 
 大正時代の東京の下町が舞台であり、新しい時代の変革や、女性が自由に発言できる時代の空気を感じさせつつ、[化粧](../Page/化粧.md "wikilink")を通して当時の時代背景や女性達の強く生きる様を描き、「本当の美しさは何か」に視点を置いた内容になっている。また、当時のメイクアップアーティストである化粧師（けわいし）の立場の弱さや、[大正デモクラシー](../Page/大正デモクラシー.md "wikilink")が盛んに叫ばれる中、[奉公](https://ja.wikipedia.org/wiki/奉公 "wikilink")や[下人](../Page/下人.md "wikilink")などが残る微妙な時代背景も描かれている。
 
@@ -15,35 +15,35 @@
 
 ## キャスト
 
-  - 小三馬：[椎名桔平](https://ja.wikipedia.org/wiki/椎名桔平 "wikilink")
+  - 小三馬：[椎名桔平](../Page/椎名桔平.md "wikilink")
   - 青野純江：[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")
   - 沼田時子：[池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")
 
 <!-- end list -->
 
-  - 北沢宏介：[佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
+  - 北沢宏介：[佐野史郎](../Page/佐野史郎.md "wikilink")
   - 青野うめ：[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")
   - 中津小夜：[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")
   - 森山五郎：[大杉漣](../Page/大杉漣.md "wikilink")
 
 <!-- end list -->
 
-  - 三枝しのぶ：[酒井若菜](https://ja.wikipedia.org/wiki/酒井若菜 "wikilink")
+  - 三枝しのぶ：[酒井若菜](../Page/酒井若菜.md "wikilink")
   - 脇本光夫：[秋山拓也](https://ja.wikipedia.org/wiki/秋山拓也 "wikilink")
   - 脇本藤子：[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink")
   - 脇本健太：[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")
   - 大島朝吉：[仁科貴](https://ja.wikipedia.org/wiki/仁科貴 "wikilink")
   - 北見春子：[内田チエ](https://ja.wikipedia.org/wiki/内田チエ "wikilink")
-  - 鮫島刑事：[井上博一](https://ja.wikipedia.org/wiki/井上博一 "wikilink")
-  - 剛刑事：[谷口高史](https://ja.wikipedia.org/wiki/谷口高史 "wikilink")
+  - 鮫島刑事：[井上博一](../Page/井上博一.md "wikilink")
+  - 剛刑事：[谷口高史](../Page/谷口高史.md "wikilink")
   - 飛行機：[小林幸子](../Page/小林幸子.md "wikilink")
-  - 影山：[平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
-  - トメ：[菅井きん](https://ja.wikipedia.org/wiki/菅井きん "wikilink")
-  - ふさ：[あき竹城](https://ja.wikipedia.org/wiki/あき竹城 "wikilink")
+  - 影山：[平泉成](../Page/平泉成.md "wikilink")
+  - トメ：[菅井きん](../Page/菅井きん.md "wikilink")
+  - ふさ：[あき竹城](../Page/あき竹城.md "wikilink")
   - 染太：[池田真紀](../Page/池田真紀_\(女優\).md "wikilink")
   - 弘子：[山本奈々](https://ja.wikipedia.org/wiki/山本奈々 "wikilink")
   - 正次：[梅林亮太](https://ja.wikipedia.org/wiki/梅林亮太 "wikilink")
-  - 小吉：[森田直幸](https://ja.wikipedia.org/wiki/森田直幸 "wikilink")
+  - 小吉：[森田直幸](../Page/森田直幸.md "wikilink")
   - 小吉の母：[奥貫薫](https://ja.wikipedia.org/wiki/奥貫薫 "wikilink")
 
 <!-- end list -->
@@ -72,12 +72,12 @@
   - 監督：[田中光敏](https://ja.wikipedia.org/wiki/田中光敏 "wikilink")
   - 助監督：猪腰弘之
   - 脚本：[横田与志](https://ja.wikipedia.org/wiki/横田与志 "wikilink")
-  - 原作：[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")（化粧師『[小学館](../Page/小学館.md "wikilink")・[ビッグコミック](../Page/ビッグコミック.md "wikilink")刊』）
-  - 撮影：[浜田毅](https://ja.wikipedia.org/wiki/浜田毅 "wikilink")
-  - 音楽：[大谷幸](https://ja.wikipedia.org/wiki/大谷幸 "wikilink")
+  - 原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")（化粧師『[小学館](../Page/小学館.md "wikilink")・[ビッグコミック](../Page/ビッグコミック.md "wikilink")刊』）
+  - 撮影：[浜田毅](../Page/浜田毅.md "wikilink")
+  - 音楽：[大谷幸](../Page/大谷幸.md "wikilink")
   - 音楽プロデューサー：石川光
   - 音楽録音：[伊藤圭一](https://ja.wikipedia.org/wiki/伊藤圭一 "wikilink")
-  - 美術：[西岡善信](https://ja.wikipedia.org/wiki/西岡善信 "wikilink")
+  - 美術：[西岡善信](../Page/西岡善信.md "wikilink")
   - 録音：武進
   - 音響効果：柴崎憲治、北田雅也、伊藤瑞樹
   - 照明：渡邊孝一

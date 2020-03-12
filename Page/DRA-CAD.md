@@ -3,7 +3,7 @@
 
 **DRA-CAD**（''' ドラ・キャド '''）は、株式会社[建築ピボット](https://ja.wikipedia.org/wiki/建築ピボット "wikilink")による日本国産[CAD](../Page/CAD.md "wikilink")ソフトウェア。建築分野などで利用されている。LE版は2次元図面作成に特化したものである。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月13日に発売20周年を迎えた。
+[2007年](../Page/2007年.md "wikilink")2月13日に発売20周年を迎えた。
 
 ## リリース履歴
 

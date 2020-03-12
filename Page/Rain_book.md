@@ -12,8 +12,8 @@
 <!-- end list -->
 
   -
-    [新潟県](../Page/新潟県.md "wikilink")[小千谷市](../Page/小千谷市.md "wikilink")で生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")で育つ。[O型の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[みずがめ座](../Page/みずがめ座.md "wikilink")。小学校の頃から[クラウン少女合唱団](https://ja.wikipedia.org/wiki/クラウン少女合唱団 "wikilink")に所属していた。
-    アンディという名前の[雄](https://ja.wikipedia.org/wiki/雄 "wikilink")の[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")を飼っている。
+    [新潟県](../Page/新潟県.md "wikilink")[小千谷市](../Page/小千谷市.md "wikilink")で生まれ、[東京都](../Page/東京都.md "wikilink")で育つ。[O型の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[みずがめ座](../Page/みずがめ座.md "wikilink")。小学校の頃から[クラウン少女合唱団](https://ja.wikipedia.org/wiki/クラウン少女合唱団 "wikilink")に所属していた。
+    アンディという名前の[雄](../Page/雄.md "wikilink")の[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")を飼っている。
 
 ## 元メンバー
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   -
-    [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")に生まれ、東京都で育つ。[B型の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[おとめ座](../Page/おとめ座.md "wikilink")。コナミに勤めていた経験があり、[ツインビー](../Page/ツインビー.md "wikilink")、[悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ "wikilink")などの制作に携わる。
+    [大阪府](../Page/大阪府.md "wikilink")に生まれ、東京都で育つ。[B型の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[おとめ座](../Page/おとめ座.md "wikilink")。コナミに勤めていた経験があり、[ツインビー](../Page/ツインビー.md "wikilink")、[悪魔城ドラキュラ](../Page/悪魔城ドラキュラ.md "wikilink")などの制作に携わる。
     りるという名前の[雌](https://ja.wikipedia.org/wiki/雌 "wikilink")の[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")を飼っている。
 
 ## 来歴
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    [NHK新潟放送局](https://ja.wikipedia.org/wiki/NHK新潟放送局 "wikilink")「[ゆうどきネットワーク新潟](https://ja.wikipedia.org/wiki/ゆうどきネットワーク新潟 "wikilink")」オープニングテーマ
+    [NHK新潟放送局](../Page/NHK新潟放送局.md "wikilink")「[ゆうどきネットワーク新潟](https://ja.wikipedia.org/wiki/ゆうどきネットワーク新潟 "wikilink")」オープニングテーマ
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
   -
-    [FM新潟](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")3月パワープレイ曲。
+    [FM新潟](../Page/エフエムラジオ新潟.md "wikilink")3月パワープレイ曲。
     地元の小千谷の[山本山に千本の](https://ja.wikipedia.org/wiki/山本山_\(小千谷市\) "wikilink")[桜を植えようとする植樹の会を知り](../Page/サクラ.md "wikilink")、作った曲。
     [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系](https://ja.wikipedia.org/wiki/TXN "wikilink")「[いい旅・夢気分](https://ja.wikipedia.org/wiki/いい旅・夢気分 "wikilink")」エンディングテーマ
 
@@ -107,7 +107,7 @@
 ## 関連項目
 
   - [笹川美和](https://ja.wikipedia.org/wiki/笹川美和 "wikilink")
-  - [鹿野優以](https://ja.wikipedia.org/wiki/鹿野優以 "wikilink") - rain bookのファン。
+  - [鹿野優以](../Page/鹿野優以.md "wikilink") - rain bookのファン。
 
 ## 外部リンク
 

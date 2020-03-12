@@ -1,7 +1,7 @@
 > この記事は[RADWIMPS 3](https://ja.wikipedia.org/wiki/RADWIMPS_3)から翻訳されています。
 
 
-『**RADWIMPS 3〜無人島に持っていき忘れた一枚〜**』（ラッドウィンプス・スリー 〜むじんとうにもっていきわすれたいちまい〜）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")のメジャー1枚目、通算3枚目の[アルバム](../Page/アルバム.md "wikilink")である。
+『**RADWIMPS 3〜無人島に持っていき忘れた一枚〜**』（ラッドウィンプス・スリー 〜むじんとうにもっていきわすれたいちまい〜）は、[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")のメジャー1枚目、通算3枚目の[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[JAPAN1000](https://ja.wikipedia.org/wiki/JAPAN1000)から翻訳されています。
 
 
-**日経JAPAN1000**（にっけいジャパンせん）は、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から公表している[株価指数](../Page/株価指数.md "wikilink")の一種。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内に上場している全銘柄の内、浮動株を調整した時価総額が上位1000銘柄を定期的に選定し、それらを算出した株価指数である。
+**日経JAPAN1000**（にっけいジャパンせん）は、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から公表している[株価指数](../Page/株価指数.md "wikilink")の一種。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内に上場している全銘柄の内、浮動株を調整した時価総額が上位1000銘柄を定期的に選定し、それらを算出した株価指数である。
 
 ## 特徴
 

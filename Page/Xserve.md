@@ -1,17 +1,17 @@
 > この記事は[Xserve](https://ja.wikipedia.org/wiki/Xserve)から翻訳されています。
 
 
-**Xserve**（エックスサーブ）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売していた、[1Uラックマウントサイズの](https://ja.wikipedia.org/wiki/19インチラック "wikilink")[サーバ](../Page/サーバ.md "wikilink")製品の名称、またはその派生および後継製品の総称である。最終モデルは、CPUにIntel [Xeon 5500を搭載し](https://ja.wikipedia.org/wiki/Xeon#ネハレム（ネハレン）_EP\(Nehalem-EP\) "wikilink")、[lights-out management](https://ja.wikipedia.org/wiki/w:Out-of-band_management "wikilink") (LOM) \[1\]に対応している。
+**Xserve**（エックスサーブ）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売していた、[1Uラックマウントサイズの](../Page/19インチラック.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")製品の名称、またはその派生および後継製品の総称である。最終モデルは、CPUにIntel [Xeon 5500を搭載し](https://ja.wikipedia.org/wiki/Xeon#ネハレム（ネハレン）_EP\(Nehalem-EP\) "wikilink")、[lights-out management](https://ja.wikipedia.org/wiki/w:Out-of-band_management "wikilink") (LOM) \[1\]に対応している。
 
 [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")として[Mac OS Xをベースにサーバ利用に特化した](https://ja.wikipedia.org/wiki/macOS "wikilink")[Mac OS X Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink") Unlimitedライセンスをバンドルし、リモート管理ソフト**サーバモニタ**と、[シリアルポート](../Page/シリアルポート.md "wikilink")が搭載されている。ラックマウントサーバという性格上、Xserve G5までは[ビデオカード](../Page/ビデオカード.md "wikilink")はオプションであったが、ユーザからの要望によりXeon搭載モデルからはメザニンボードとして標準搭載されている。
 
 ## 歴史
 
-  - [2002年](../Page/2002年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink"):[Motorola](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink") [PowerPC 7455](https://ja.wikipedia.org/wiki/PowerPC_G4#PowerPC_7445/7455_"Apollo_6" "wikilink") 1.0GHzプロセッサを搭載した**Xserve**を2002年6月下旬より発売と発表\[2\]。
+  - [2002年](../Page/2002年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink"):[Motorola](../Page/フリースケール・セミコンダクタ.md "wikilink") [PowerPC 7455](https://ja.wikipedia.org/wiki/PowerPC_G4#PowerPC_7445/7455_"Apollo_6" "wikilink") 1.0GHzプロセッサを搭載した**Xserve**を2002年6月下旬より発売と発表\[2\]。
   - [2003年](../Page/2003年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink"): Motorola PowerPC 7455 1.33GHzプロセッサ, FireWire 800を搭載した**Xserve** (slot-loding)を発表\[3\]。
   - [2004年](../Page/2004年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink"):[IBM](../Page/IBM.md "wikilink") [PowerPC 970FX](https://ja.wikipedia.org/wiki/PowerPC_970#PowerPC_970FX "wikilink") 2.0GHzプロセッサ搭載の**Xserve G5**を3月下旬より発売予定と発表\[4\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月5日](../Page/1月5日.md "wikilink"):IBM PowerPC 970FX 2.3GHzプロセッサ搭載の**Xserve G5**を1月下旬より発売予定と発表\[5\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月7日](../Page/8月7日.md "wikilink"): [Intel](https://ja.wikipedia.org/wiki/インテル "wikilink") [Xeon 5100](https://ja.wikipedia.org/wiki/Xeon#ウッドクレスト_\(Woodcrest\) "wikilink") プロセッサ搭載の**Xserve**を10月より発売予定と発表\[6\]。実際には11月20日になるまで出荷されなかった。
+  - [2005年](../Page/2005年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink"):IBM PowerPC 970FX 2.3GHzプロセッサ搭載の**Xserve G5**を1月下旬より発売予定と発表\[5\]。
+  - [2006年](../Page/2006年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink"): [Intel](https://ja.wikipedia.org/wiki/インテル "wikilink") [Xeon 5100](https://ja.wikipedia.org/wiki/Xeon#ウッドクレスト_\(Woodcrest\) "wikilink") プロセッサ搭載の**Xserve**を10月より発売予定と発表\[6\]。実際には11月20日になるまで出荷されなかった。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月8日](../Page/1月8日.md "wikilink"): Intel [Xeon 5400](https://ja.wikipedia.org/wiki/Xeon#ハーパータウン\(Harpertown\) "wikilink") プロセッサ搭載の**Xserve**を発表、発売開始\[7\]。
   - [2009年](../Page/2009年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink"): Intel [Xeon 5500](https://ja.wikipedia.org/wiki/Xeon#ネハレム（ネハレン）_EP\(Nehalem-EP\) "wikilink") プロセッサ搭載の**Xserve**を発表、発売開始\[8\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月4日](../Page/11月4日.md "wikilink"): Xserve、2011年1月31日で販売終了と発表\[9\]。後継機種がない為、[Mac Pro Serverと](https://ja.wikipedia.org/wiki/Mac_Pro_Server "wikilink")[Mac mini Serverを利用するように移行ガイドが公開された](https://ja.wikipedia.org/wiki/Mac_mini_Server "wikilink")\[10\]。
@@ -28,7 +28,7 @@
   - **光学式ドライブ**：2層記録型対応 8x SuperDrive(DVD±R/RW)
   - **内蔵ビデオ回路**: [Nvidia](https://ja.wikipedia.org/wiki/Nvidia "wikilink") [GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink") GT 120 PCI Express（256MBのGDDR3 SDRAM、Mini-DisplayPort）
   - **入出力ポート**:オンボード搭載のギガビットEthernetインターフェイス（10/100/1000BASE-T）2基：バックパネルに[FireWire](../Page/IEEE_1394.md "wikilink") 800ポート2基、USB 2.0ポート2基、DB-9シリアルポート1基。フロントパネルにUSB 2.0ポート1基。
-  - **[PCI Expressスロット](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")**： ハーフレングス（6.6インチ）16レーン PCI Express 2.0 スロット1基、9.25インチ 16レーンPCI Express 2.0 スロット1基。
+  - **[PCI Expressスロット](../Page/PCI_Express.md "wikilink")**： ハーフレングス（6.6インチ）16レーン PCI Express 2.0 スロット1基、9.25インチ 16レーンPCI Express 2.0 スロット1基。
   - **PCI拡張オプション**：以下のオプションが選択できる。
       - PCI Express Dual-cahnnel 4Gb Fibre Channel card
       - PCI Express Quad-channel 4Gb Fibre Channel card
@@ -45,9 +45,9 @@
   - **メモリー**：最大32GB (800MHz DDR2 FB-DIMM 8スロット)
   - **ハードディスク**：80 GB [シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")、最大3TBまで拡張可能、[SAS対応](../Page/Serial_Attached_SCSI.md "wikilink")、ホットプラグ対応
   - **光学式ドライブ**：2層記録型対応 8x SuperDrive(DVD±R/RW)
-  - **内蔵ビデオ回路**: [ATI](https://ja.wikipedia.org/wiki/ATI_Technologies "wikilink") [Radeon](https://ja.wikipedia.org/wiki/Radeon "wikilink") X1300 PCI Express（64MBのGDDR3 SDRAM、Mini-DVI-VGAアダプタ）BTOで外すことも可能
+  - **内蔵ビデオ回路**: [ATI](../Page/ATI_Technologies.md "wikilink") [Radeon](https://ja.wikipedia.org/wiki/Radeon "wikilink") X1300 PCI Express（64MBのGDDR3 SDRAM、Mini-DVI-VGAアダプタ）BTOで外すことも可能
   - **入出力ポート**:オンボード搭載のギガビットEthernetインターフェイス（10/100/1000BASE-T）2基：バックパネルに[FireWire](../Page/IEEE_1394.md "wikilink") 800ポート2基、USB 2.0ポート2基、DB-9シリアルポート1基。フロントパネルにUSB 2.0ポート1基。
-  - **[PCI Expressスロット](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")**： ハーフレングス（6.6インチ）8レーン PCI Express 2.0 スロット1基(オプションのアダプタにより133MHz PCI-Xを装着可能)、9.25インチ 16レーンPCI Express 2.0 スロット1基。
+  - **[PCI Expressスロット](../Page/PCI_Express.md "wikilink")**： ハーフレングス（6.6インチ）8レーン PCI Express 2.0 スロット1基(オプションのアダプタにより133MHz PCI-Xを装着可能)、9.25インチ 16レーンPCI Express 2.0 スロット1基。
   - **PCI拡張オプション**：以下のオプションが選択できる。
       - PCI Express Dual-cahnnel 4Gb Fibre Channel card
       - PCI Express Quad-channel 4Gb Fibre Channel card
@@ -103,7 +103,7 @@
 
   - [Macintosh](../Page/Macintosh.md "wikilink")
   - [macOS Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink")
-  - [Xsan](https://ja.wikipedia.org/wiki/Xsan "wikilink")
+  - [Xsan](../Page/Xsan.md "wikilink")
   - [Apple Workgroup Server](https://ja.wikipedia.org/wiki/Apple_Workgroup_Server "wikilink")
 
 ## 外部リンク

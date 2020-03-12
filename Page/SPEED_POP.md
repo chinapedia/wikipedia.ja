@@ -5,21 +5,21 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")よりリリースされた。
 
-[2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")より、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIより再リリースされている](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+[2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")より、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIより再リリースされている](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
-本作品は当初[1994年](../Page/1994年.md "wikilink")秋のリリースを予定していたが、諸事情により半年以上も延期してのリリースとなった。インディーズ時代から演奏されてきた「LOVE SLAVE」、「JUNK ART」や「[ずっと2人で…](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")」、「[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\) "wikilink")」など、GLAYが[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を拠点に活動していた頃の曲まで収録されている。今作のメジャー初のアルバムについて、[TAKURO](../Page/TAKURO.md "wikilink")は当時の[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")で、「バンドでできることというのがインディーズ時代だとしたら、今度は5人以外の力も使える。ピアノで始まるのが理想な曲なら、メンバーにいないピアノも抵抗なく入れようと。もともとポップなものが好きだし、突き詰めるといい音楽というものができればそれでいい。それがロックかどうかなんて、俺たちには意味のないことなんです。」と語っている\[1\]。
+本作品は当初[1994年](../Page/1994年.md "wikilink")秋のリリースを予定していたが、諸事情により半年以上も延期してのリリースとなった。インディーズ時代から演奏されてきた「LOVE SLAVE」、「JUNK ART」や「[ずっと2人で…](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")」、「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」など、GLAYが[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を拠点に活動していた頃の曲まで収録されている。今作のメジャー初のアルバムについて、[TAKURO](../Page/TAKURO.md "wikilink")は当時の[インタビュー](../Page/インタビュー.md "wikilink")で、「バンドでできることというのがインディーズ時代だとしたら、今度は5人以外の力も使える。ピアノで始まるのが理想な曲なら、メンバーにいないピアノも抵抗なく入れようと。もともとポップなものが好きだし、突き詰めるといい音楽というものができればそれでいい。それがロックかどうかなんて、俺たちには意味のないことなんです。」と語っている\[1\]。
 
 アルバムタイトルは、[1993年](../Page/1993年.md "wikilink")に発売されたデモテープ「[SPEED POP](https://ja.wikipedia.org/wiki/SPEED_POP_\(デモテープ\) "wikilink")」と同じタイトルが付けられた。このタイトルを付けたことについて、TAKUROは当時のインタビューで、「そのテープも、[バラード](../Page/バラード.md "wikilink")も[アバンギャルド](../Page/アバンギャルド.md "wikilink")なものも全部同じ次元で入っていたんですね。もう、GLAYだからという理由でしかくくれないというか。で、今回このアルバムが出来上がって言葉をいろいろイメージしたときに“SPEED POP”というのも浮かんできたんですよ。例えば、『LOVE SLAVE』と『ずっと2人で』を一緒に収録しても変じゃないという理由を考えた時に、ほんとGLAYだからということしかないんですよ。」と語っている\[2\]。
 
-当時のドラマーだったNOBUMASA在籍時の唯一のアルバムでもあるが、NOBUMASAが加入したのは、本作のレコーディング終了後だったため、本作のレコーディングには携わっていない。なお、「[真夏の扉](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")」、「[Life 〜遠い空の下で〜](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")」のドラムスは、元メンバーのAKIRAが担当している。
+当時のドラマーだったNOBUMASA在籍時の唯一のアルバムでもあるが、NOBUMASAが加入したのは、本作のレコーディング終了後だったため、本作のレコーディングには携わっていない。なお、「[真夏の扉](../Page/真夏の扉.md "wikilink")」、「[Life 〜遠い空の下で〜](../Page/真夏の扉.md "wikilink")」のドラムスは、元メンバーのAKIRAが担当している。
 
-ブックレットには、[音楽ライター](https://ja.wikipedia.org/wiki/音楽ライター "wikilink")の市川清師による[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")が掲載されている。これは市川にライナーノーツ執筆の依頼が来た際、TAKUROが「（市川が解説を書いた）[UP-BEAT](https://ja.wikipedia.org/wiki/UP-BEAT "wikilink")の3rdアルバム『[HERMIT COMPLEX](https://ja.wikipedia.org/wiki/HERMIT_COMPLEX "wikilink")』のライナーノーツを読んで、メジャーデビューしたら、この人（市川）に解説を書いてもらいたかった」と語っていたことを、市川が明らかにしている\[3\]。なお、文中に名前こそ挙げられていないが、ライナーノーツの最後に書かれている「ルックスのみ話題が先行し、アイドル的なとらえ方をされていたあるバンド」はUP-BEATを、また「顔をつぶしてもいいとまで言い切ったボーカリスト」はUP-BEATのボーカルだった[広石武彦](../Page/広石武彦.md "wikilink")のことを指している。
+ブックレットには、[音楽ライター](https://ja.wikipedia.org/wiki/音楽ライター "wikilink")の市川清師による[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")が掲載されている。これは市川にライナーノーツ執筆の依頼が来た際、TAKUROが「（市川が解説を書いた）[UP-BEAT](../Page/UP-BEAT.md "wikilink")の3rdアルバム『[HERMIT COMPLEX](https://ja.wikipedia.org/wiki/HERMIT_COMPLEX "wikilink")』のライナーノーツを読んで、メジャーデビューしたら、この人（市川）に解説を書いてもらいたかった」と語っていたことを、市川が明らかにしている\[3\]。なお、文中に名前こそ挙げられていないが、ライナーノーツの最後に書かれている「ルックスのみ話題が先行し、アイドル的なとらえ方をされていたあるバンド」はUP-BEATを、また「顔をつぶしてもいいとまで言い切ったボーカリスト」はUP-BEATのボーカルだった[広石武彦](../Page/広石武彦.md "wikilink")のことを指している。
 
 発売3日後の1995年[3月4日](../Page/3月4日.md "wikilink")に、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")'95」に出演。この時、出演していた[永井真理子](../Page/永井真理子.md "wikilink")のバックバンドに[永井利光](../Page/永井利光.md "wikilink")がいたため、GLAYと永井はこのテレビで同じステージを踏んでいたことになる\[4\]。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では、初登場8位を記録\[5\]。当時はまだシングル曲もトップ10入りを果たしていなかったため、シングル・アルバムを通じて、初のトップ10入りを果たした。その後も新作がリリースされるたびに売り上げを伸ばし、最終的に32万枚を売り上げた。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では、初登場8位を記録\[5\]。当時はまだシングル曲もトップ10入りを果たしていなかったため、シングル・アルバムを通じて、初のトップ10入りを果たした。その後も新作がリリースされるたびに売り上げを伸ばし、最終的に32万枚を売り上げた。
 
 余談だが、初回プレス盤には、バックインレイの曲目にて「Life 〜**違**い空の下で〜」と、表記ミスされているものがある。
 
@@ -32,7 +32,7 @@ CDジャーナルは、「驚くほどキャッチーで、生き生きしたメ
 ## 収録曲
 
 1.  **SPEED POP(Introduction)**
-      - 作曲・編曲：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作曲・編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
         佐久間正英による[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")。[TERU](../Page/TERU.md "wikilink")は、「アルバムのオープニングにふさわしい曲。いままでGLAYが知らなかった世界。」と語っている\[9\]。
@@ -42,7 +42,7 @@ CDジャーナルは、「驚くほどキャッチーで、生き生きしたメ
       -
         GLAYのファンクラブの名前にもなっている曲。1999年、幕張での20万人ライブの一曲目であり、TAKUROはラジオで「久しぶりに演奏するため楽器屋でスコアを買った」と告白（真偽は不明）。
         TERUは本曲について、「リズムとしては速くはないんだけど、言葉のいい回しでリズムが速く聞こえるという言葉のトリックが面白い。」と語っている\[10\]。
-3.  **[彼女の“Modern…”](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
+3.  **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
@@ -58,27 +58,27 @@ CDジャーナルは、「驚くほどキャッチーで、生き生きしたメ
       -
         1991年に発売されたデモテープ「[Angelus Bell](https://ja.wikipedia.org/wiki/Angelus_Bell "wikilink")」にて初音源化され、1993年に発売されたデモテープ「[SPEED POP](https://ja.wikipedia.org/wiki/SPEED_POP_\(デモテープ\) "wikilink")」にも再録され収録されていた曲。
         [アレンジに詰まって取っておいた曲で](../Page/編曲.md "wikilink")、今作の収録に当たって、リズムから何からすべて変えて見事に蘇ったとTERUが述べている\[11\]。
-6.  **[REGRET](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
+6.  **[REGRET](../Page/Freeze_My_Love.md "wikilink")**
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
         4thシングル「Freeze My Love」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。　
-7.  **[INNOCENCE](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
+7.  **[INNOCENCE](../Page/彼女の“Modern…”.md "wikilink")**
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
         3rdシングル「彼女の“Modern…”」のカップリング曲。　
-8.  **[Freeze My Love](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
+8.  **[Freeze My Love](../Page/Freeze_My_Love.md "wikilink")**
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        4thシングル。テレビ朝日『[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")』オープニングテーマ。　
-9.  **[真夏の扉](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")**
+        4thシングル。テレビ朝日『[リングの魂](../Page/リングの魂.md "wikilink")』オープニングテーマ。　
+9.  **[真夏の扉](../Page/真夏の扉.md "wikilink")**
       - 作詞・作曲：TAKURO / 編曲：GLAY、[土屋昌巳](../Page/土屋昌巳.md "wikilink")
     <!-- end list -->
       -
-        2ndシングル。アニメ『[ヤマトタケル](https://ja.wikipedia.org/wiki/ヤマトタケル_\(アニメ\) "wikilink")』オープニングテーマ。
-10. **[Life 〜遠い空の下で〜](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")**
+        2ndシングル。アニメ『[ヤマトタケル](../Page/ヤマトタケル_\(アニメ\).md "wikilink")』オープニングテーマ。
+10. **[Life 〜遠い空の下で〜](../Page/真夏の扉.md "wikilink")**
       - 作詞・作曲：TAKURO / 編曲：GLAY、土屋昌巳
     <!-- end list -->
       -
@@ -88,11 +88,11 @@ CDジャーナルは、「驚くほどキャッチーで、生き生きしたメ
     <!-- end list -->
       -
         1992年発売のデモテープ「[DANCE VISION](https://ja.wikipedia.org/wiki/DANCE_VISION "wikilink")」に収録されていた曲。TERUは本曲に関して、「インディーズで頑張っていた頃のトゲトゲした部分がすごく表れてる。」と語っている\[12\]。
-12. **[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\) "wikilink")**
+12. **[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")**
       - 作詞：[YOSHIKI](../Page/YOSHIKI.md "wikilink") / 作曲：YOSHIKI、TAKURO / 編曲:YOSHIKI
     <!-- end list -->
       -
-        デビューシングル。シングル版に入っていた出だしの雨の音がカットされているアルバムバージョンで収録。映画『[ヤマトタケル](https://ja.wikipedia.org/wiki/ヤマトタケル_\(映画\) "wikilink")』主題歌。
+        デビューシングル。シングル版に入っていた出だしの雨の音がカットされているアルバムバージョンで収録。映画『[ヤマトタケル](../Page/ヤマトタケル_\(映画\).md "wikilink")』主題歌。
 
 ## SPEED POP Anthology
 
@@ -110,20 +110,20 @@ SPEED POP Remix & Remastering 2015
 
 1.  **SPEED POP (Introduction)**
 2.  **HAPPY SWING**
-3.  **[彼女の“Modern…”](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
+3.  **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
 4.  **[ずっと2人で…](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
       -
         シングルバージョンと同じく、アウトロがフェードアウトではなく完奏している。
 5.  **LOVE SLAVE**
-6.  **[REGRET](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
-7.  **[INNOCENCE](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
-8.  **[Freeze My Love](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
-9.  **[真夏の扉](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")**
-10. **[Life 〜遠い空の下で〜](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")**
+6.  **[REGRET](../Page/Freeze_My_Love.md "wikilink")**
+7.  **[INNOCENCE](../Page/彼女の“Modern…”.md "wikilink")**
+8.  **[Freeze My Love](../Page/Freeze_My_Love.md "wikilink")**
+9.  **[真夏の扉](../Page/真夏の扉.md "wikilink")**
+10. **[Life 〜遠い空の下で〜](../Page/真夏の扉.md "wikilink")**
 11. **JUNK ART**
       -
         アウトロがフェードアウトではなく完奏となっている。また、次曲とサウンド上で繋がるように編集されている。
-12. **[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\) "wikilink")**
+12. **[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")**
       -
         シングルバージョンと同じく出だしの雨の音が入っている。また、ラストがフェードアウトではなく完奏されている。
 13. **[GONE WITH THE WIND](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
@@ -189,24 +189,24 @@ SPEED POP Anthology Demo & Bootleg
   - 上島明（AKIRA） - [ドラムス](../Page/ドラムセット.md "wikilink")（\#9,10）
   - [湊雅史](https://ja.wikipedia.org/wiki/MINATO "wikilink") - ドラムス（\#3,7）
   - [そうる透](../Page/そうる透.md "wikilink") - ドラムス（\#2,4,5,6,8,11）
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink") - [マンドリン](../Page/マンドリン.md "wikilink")、[サックス](../Page/サクソフォーン.md "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[リコーダー](../Page/リコーダー.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、[アコースティックピアノ](../Page/ピアノ.md "wikilink")、シンセサイザー、アディショナル・エレクトリック&[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")（\#2～8,11）、ストリングス・アレンジ（\#1～11）、コンピュータ・プログラミング（\#1～11）
+  - [佐久間正英](../Page/佐久間正英.md "wikilink") - [マンドリン](../Page/マンドリン.md "wikilink")、[サックス](../Page/サクソフォーン.md "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[リコーダー](../Page/リコーダー.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、[アコースティックピアノ](../Page/ピアノ.md "wikilink")、シンセサイザー、アディショナル・エレクトリック&[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")（\#2～8,11）、ストリングス・アレンジ（\#1～11）、コンピュータ・プログラミング（\#1～11）
   - [マイク・ベアード](https://ja.wikipedia.org/wiki/マイク・ベアード "wikilink") - ドラムス（\#12）
 
 ## スタッフ
 
   - [ディレクター](../Page/ディレクター.md "wikilink")
     Hiro Inoguchi / [Platinum Records](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")
-  - [ミキシング](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - [ミキシング](../Page/レコーディング・エンジニア.md "wikilink")
     Michael Zimmerling（\#1～11）
-  - [レコーディング](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - [レコーディング](../Page/レコーディング・エンジニア.md "wikilink")
     Michael Zimmerling（\#1～11）
     Toshihiro Kiso（\#1～11）
     Hideki Ataka（\#1～11）
     Yasuaki Shindo（\#1～11）
     Daisuke Sugamura（\#1～11）
-  - [エンジニア & ミキシング](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - [エンジニア & ミキシング](../Page/レコーディング・エンジニア.md "wikilink")
     [Rich Breen](https://ja.wikipedia.org/wiki/リッチ・ブリーン "wikilink")（\#12）
-  - [マスタリング](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+  - [マスタリング](../Page/マスタリング・エンジニア.md "wikilink")
     Tim Young
   - アシスタント・エンジニア
     Daisuke Sugamura（\#1～11）
@@ -222,8 +222,8 @@ SPEED POP Anthology Demo & Bootleg
 
 ## 関連項目
 
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")
-  - [UP-BEAT](https://ja.wikipedia.org/wiki/UP-BEAT "wikilink")
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
+  - [UP-BEAT](../Page/UP-BEAT.md "wikilink")
       - [HERMIT COMPLEX](https://ja.wikipedia.org/wiki/HERMIT_COMPLEX "wikilink")
 
 ## 脚注

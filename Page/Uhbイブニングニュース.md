@@ -1,13 +1,13 @@
 > この記事は[Uhb](https://ja.wikipedia.org/wiki/Uhb)から翻訳されています。
 
 
-『**uhbイブニングニュース**』（ユーエイチビーイブニングニュース）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（土曜版は[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）まで[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送された夕方の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")向け[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（協力：[北海道新聞](../Page/北海道新聞.md "wikilink")）。『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の北海道での改題タイトルである。
+『**uhbイブニングニュース**』（ユーエイチビーイブニングニュース）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（土曜版は[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）まで[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送された夕方の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（協力：[北海道新聞](../Page/北海道新聞.md "wikilink")）。『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の北海道での改題タイトルである。
 
 ## 概要
 
-記事の便宜上、『**UHBイブニングニュース**』としたが、正式タイトルは『**イブニングニュース**』で、タイトルロゴ内にUHBのロゴは何処にも付いていなかった。[JNNの](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[イブニングニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』とは無関係である。なお、タイトルロゴの下には「協力 北海道新聞」が付されていた。
+記事の便宜上、『**UHBイブニングニュース**』としたが、正式タイトルは『**イブニングニュース**』で、タイトルロゴ内にUHBのロゴは何処にも付いていなかった。[JNNの](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[イブニングニュース](../Page/JNNイブニング・ニュース.md "wikilink")』とは無関係である。なお、タイトルロゴの下には「協力 北海道新聞」が付されていた。
 
-キャスターは、この番組の前身である『[テレビ道新6:30](https://ja.wikipedia.org/wiki/テレビ道新6:30 "wikilink")』から引き続き錦織俊一（にしごおり しゅんいち、北海道新聞編集委員）が務めた。
+キャスターは、この番組の前身である『[テレビ道新6:30](../Page/テレビ道新6:30.md "wikilink")』から引き続き錦織俊一（にしごおり しゅんいち、北海道新聞編集委員）が務めた。
 
 番組は、タイトルロゴ → 提供クレジット（ナショナルセールス分）の表示後にUHBのスタジオからの映像で始まっていた。キャスターの錦織によるコメントの後には、[フジテレビのスタジオからの映像に切り替わり](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、『スーパータイム』のヘッドラインが流されていた。
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [イブニングニュース](https://ja.wikipedia.org/wiki/イブニングニュース "wikilink")
+  - [イブニングニュース](../Page/イブニングニュース.md "wikilink")
   - テレビ道新6:30（前番組）
   - [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")
   - [uhbスーパータイム](https://ja.wikipedia.org/wiki/uhbスーパータイム "wikilink")（後番組）

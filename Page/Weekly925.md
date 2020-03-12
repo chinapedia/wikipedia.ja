@@ -5,7 +5,7 @@
 
 ## 概要
 
-番組は、[キャスターの背後に](../Page/ニュースキャスター.md "wikilink")[お天気カメラ](https://ja.wikipedia.org/wiki/お天気カメラ "wikilink")からの京都の映像（[三条京阪](../Page/三条京阪.md "wikilink")と[京都タワー](https://ja.wikipedia.org/wiki/京都タワー "wikilink")の夜景）を映しつつ、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")内で起こった1週間の出来事を振り返っていた。主なコーナーは特集、週末の予定、府内企業のトップを招いての対談などで、後に話題の人物を招いて対談する「今週のキーパーソン」のコーナーも設けた。
+番組は、[キャスターの背後に](../Page/ニュースキャスター.md "wikilink")[お天気カメラ](../Page/お天気カメラ.md "wikilink")からの京都の映像（[三条京阪](../Page/三条京阪.md "wikilink")と[京都タワー](../Page/京都タワー.md "wikilink")の夜景）を映しつつ、[京都府](../Page/京都府.md "wikilink")内で起こった1週間の出来事を振り返っていた。主なコーナーは特集、週末の予定、府内企業のトップを招いての対談などで、後に話題の人物を招いて対談する「今週のキーパーソン」のコーナーも設けた。
 
 2008年春の改編で経済ニュース専門の『[京biz](../Page/京biz.md "wikilink")』と統合され、『[京bizW](https://ja.wikipedia.org/wiki/京bizW "wikilink")』と題してリニューアルした。
 
@@ -18,13 +18,13 @@
 
   - 9:25 オープニング（今週一週間のニュース）
   - 9:28 今週のキーパーソン（ゲストとの対談）
-  - 9:43 [今日のニュース](https://ja.wikipedia.org/wiki/京都新聞ニュース "wikilink")、週末の[天気予報](../Page/天気予報.md "wikilink")、[修学旅行だより](https://ja.wikipedia.org/wiki/修学旅行#マスメディアなどによる安否情報の放送 "wikilink")
+  - 9:43 [今日のニュース](../Page/京都新聞ニュース.md "wikilink")、週末の[天気予報](../Page/天気予報.md "wikilink")、[修学旅行だより](https://ja.wikipedia.org/wiki/修学旅行#マスメディアなどによる安否情報の放送 "wikilink")
   - 9:47 エンディング（京都府内のニュースと話題の映像、テロップに週末の予定を表示）
 
 ## キャスター
 
-  - [堀川節子](https://ja.wikipedia.org/wiki/堀川節子 "wikilink") - 放送期間中に降板。
-  - [竹内弘一](https://ja.wikipedia.org/wiki/竹内弘一 "wikilink")
+  - [堀川節子](../Page/堀川節子.md "wikilink") - 放送期間中に降板。
+  - [竹内弘一](../Page/竹内弘一.md "wikilink")
   - ほか、代役のKBS京都のアナウンサーや記者が出演することもあった。
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:KBS京都のテレビ番組](https://ja.wikipedia.org/wiki/Category:KBS京都のテレビ番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink")

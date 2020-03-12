@@ -1,11 +1,11 @@
 > この記事は[WWWA](https://ja.wikipedia.org/wiki/WWWA)から翻訳されています。
 
 
-**WWWA世界タッグ王座**（World Women's Wrestling Association World Tag Championship）は、[全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")が管理していた[タッグマッチ](../Page/タッグマッチ.md "wikilink")の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")の名称。
+**WWWA世界タッグ王座**（World Women's Wrestling Association World Tag Championship）は、[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")が管理していた[タッグマッチ](../Page/タッグマッチ.md "wikilink")の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")の名称。
 
 ## 解説
 
-この王座の前身はAGWAインターナショナル・タッグ王座で[全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")の管理下となった[WWWA](../Page/WWWA.md "wikilink")が1971年にAGWAを吸収すると共に最後の同王者であった[京愛子](https://ja.wikipedia.org/wiki/京愛子 "wikilink")&[ジャンボ宮本](https://ja.wikipedia.org/wiki/ジャンボ宮本 "wikilink")組を初代王座に認定。6月30日に全日本女子の放映権を持っていた日本教育テレビ（NET、現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）が深夜番組「[23時ショー](https://ja.wikipedia.org/wiki/23時ショー "wikilink")」にて京&宮本組対パティ・オハラ&テキサス・レッド組戦を放送して王座認定を同局のスタジオで行われたが、その試合に対する不満を理由に同日に王座を返上して7月1日の再戦でオハラ&レッド組が奪取。
+この王座の前身はAGWAインターナショナル・タッグ王座で[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")の管理下となった[WWWA](../Page/WWWA.md "wikilink")が1971年にAGWAを吸収すると共に最後の同王者であった[京愛子](https://ja.wikipedia.org/wiki/京愛子 "wikilink")&[ジャンボ宮本](https://ja.wikipedia.org/wiki/ジャンボ宮本 "wikilink")組を初代王座に認定。6月30日に全日本女子の放映権を持っていた日本教育テレビ（NET、現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）が深夜番組「[23時ショー](../Page/23時ショー.md "wikilink")」にて京&宮本組対パティ・オハラ&テキサス・レッド組戦を放送して王座認定を同局のスタジオで行われたが、その試合に対する不満を理由に同日に王座を返上して7月1日の再戦でオハラ&レッド組が奪取。
 
 王座創設当初は毎興行のようにタイトルマッチが行われる「お飾り」の要素が強いものだったが後に価値の向上が図られて[ビューティ・ペア](../Page/ビューティ・ペア.md "wikilink")が登場以降の女子プロレスブーム時には最高峰のタッグ王座と呼ばれた。
 
@@ -207,7 +207,7 @@
 <td><p>第2代</p></td>
 <td><p>パティ・オハラ &amp; テキサス・レッド</p></td>
 <td><p>1971年7月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大田区体育館" title="wikilink">大田区体育館</a><br />
+<td><p><a href="../Page/大田区体育館.md" title="wikilink">大田区体育館</a><br />
 京愛子 &amp; ジャンボ宮本</p></td>
 </tr>
 <tr class="odd">
@@ -226,7 +226,7 @@
 <td><p>第5代</p></td>
 <td><p>京愛子 &amp; ジャンボ宮本</p></td>
 <td><p>1971年10月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県総合スポーツセンター" title="wikilink">千葉県体育館</a></p></td>
+<td><p><a href="../Page/千葉県総合スポーツセンター.md" title="wikilink">千葉県体育館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第6代</p></td>
@@ -244,7 +244,7 @@
 <td><p>第8代</p></td>
 <td><p>シャロン・リー &amp; <a href="https://ja.wikipedia.org/wiki/大西弘子" title="wikilink">マスクド・リー</a></p></td>
 <td><p>1972年3月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛知県体育館" title="wikilink">愛知県体育館</a></p></td>
+<td><p><a href="../Page/愛知県体育館.md" title="wikilink">愛知県体育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第9代</p></td>
@@ -256,13 +256,13 @@
 <td><p>第10代</p></td>
 <td><p>フラワー・パワー &amp; マスクド・リー</p></td>
 <td><p>1972年4月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/広島県立総合体育館" title="wikilink">広島県立体育館</a></p></td>
+<td><p><a href="../Page/広島県立総合体育館.md" title="wikilink">広島県立体育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第11代</p></td>
 <td><p>ジャンボ宮本 &amp; 星野美代子</p></td>
 <td><p>1972年4月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a></p></td>
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第12代</p></td>
@@ -340,7 +340,7 @@
 <td><p>第24代</p></td>
 <td><p>サンディ・パーカー &amp; マスクド・リー</p></td>
 <td><p>1973年7月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜文化体育館" title="wikilink">横浜文化体育館</a></p></td>
+<td><p><a href="../Page/横浜文化体育館.md" title="wikilink">横浜文化体育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第25代</p></td>
@@ -576,7 +576,7 @@
 </tr>
 <tr class="odd">
 <td><p>第63代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャッキー佐藤" title="wikilink">ジャッキー佐藤</a> &amp; <a href="https://ja.wikipedia.org/wiki/マキ上田" title="wikilink">マキ上田</a><br />
+<td><p><a href="../Page/ジャッキー佐藤.md" title="wikilink">ジャッキー佐藤</a> &amp; <a href="../Page/マキ上田.md" title="wikilink">マキ上田</a><br />
 （<a href="../Page/ビューティ・ペア.md" title="wikilink">ビューティ・ペア</a>）</p></td>
 <td><p>1976年2月24日</p></td>
 <td><p>後楽園ホール</p></td>
@@ -593,7 +593,7 @@
 <td><p>ジャッキー佐藤 &amp; マキ上田<br />
 （ビューティ・ペア）</p></td>
 <td><p>1976年7月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田園コロシアム" title="wikilink">田園コロシアム</a></p></td>
+<td><p><a href="../Page/田園コロシアム.md" title="wikilink">田園コロシアム</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第66代</p></td>
@@ -618,7 +618,7 @@
 </tr>
 <tr class="odd">
 <td><p>第69代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トミー青山" title="wikilink">トミー青山</a> &amp; <a href="https://ja.wikipedia.org/wiki/ルーシー加山" title="wikilink">ルーシー加山</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/トミー青山" title="wikilink">トミー青山</a> &amp; <a href="../Page/ルーシー加山.md" title="wikilink">ルーシー加山</a><br />
 （クイーン・エンジェルス）</p></td>
 <td><p>1978年8月9日</p></td>
 <td><p>日本武道館</p></td>
@@ -638,7 +638,7 @@
 </tr>
 <tr class="even">
 <td><p>第72代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャガー横田" title="wikilink">横田利美</a> &amp; <a href="https://ja.wikipedia.org/wiki/ジャンボ堀" title="wikilink">堀あゆみ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャガー横田" title="wikilink">横田利美</a> &amp; <a href="../Page/ジャンボ堀.md" title="wikilink">堀あゆみ</a></p></td>
 <td><p>1980年12月17日</p></td>
 <td><p>愛知県体育館<br />
 返上</p></td>
@@ -657,7 +657,7 @@
 </tr>
 <tr class="odd">
 <td><p>第75代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビル雅美" title="wikilink">デビル雅美</a> &amp; <a href="https://ja.wikipedia.org/wiki/タランチェラ" title="wikilink">タランチェラ</a></p></td>
+<td><p><a href="../Page/デビル雅美.md" title="wikilink">デビル雅美</a> &amp; <a href="https://ja.wikipedia.org/wiki/タランチェラ" title="wikilink">タランチェラ</a></p></td>
 <td><p>1982年8月10日</p></td>
 <td><p>福山市体育館<br />
 返上</p></td>
@@ -671,14 +671,14 @@
 </tr>
 <tr class="odd">
 <td><p>第77代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライオネス飛鳥" title="wikilink">ライオネス飛鳥</a> &amp; <a href="https://ja.wikipedia.org/wiki/長与千種" title="wikilink">長与千種</a><br />
+<td><p><a href="../Page/ライオネス飛鳥.md" title="wikilink">ライオネス飛鳥</a> &amp; <a href="../Page/長与千種.md" title="wikilink">長与千種</a><br />
 （<a href="https://ja.wikipedia.org/wiki/クラッシュ・ギャルズ" title="wikilink">クラッシュ・ギャルズ</a>）</p></td>
 <td><p>1984年8月25日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
 <tr class="even">
 <td><p>第78代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダンプ松本" title="wikilink">ダンプ松本</a> &amp; <a href="../Page/クレーン・ユウ.md" title="wikilink">クレーン・ユウ</a></p></td>
+<td><p><a href="../Page/ダンプ松本.md" title="wikilink">ダンプ松本</a> &amp; <a href="../Page/クレーン・ユウ.md" title="wikilink">クレーン・ユウ</a></p></td>
 <td><p>1985年2月25日</p></td>
 <td><p>大田区体育館</p></td>
 </tr>
@@ -691,7 +691,7 @@
 </tr>
 <tr class="even">
 <td><p>第80代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山崎五紀" title="wikilink">山崎五紀</a> &amp; <a href="../Page/立野記代.md" title="wikilink">立野記代</a><br />
+<td><p><a href="../Page/山崎五紀.md" title="wikilink">山崎五紀</a> &amp; <a href="../Page/立野記代.md" title="wikilink">立野記代</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ジャンピング・ボム・エンジェルス" title="wikilink">ジャンピング・ボム・エンジェルス</a>）</p></td>
 <td><p>1986年1月5日</p></td>
 <td><p>後楽園ホール</p></td>
@@ -705,7 +705,7 @@
 </tr>
 <tr class="even">
 <td><p>第82代</p></td>
-<td><p>ダンプ松本 &amp; <a href="https://ja.wikipedia.org/wiki/ブル中野" title="wikilink">ブル中野</a></p></td>
+<td><p>ダンプ松本 &amp; <a href="../Page/ブル中野.md" title="wikilink">ブル中野</a></p></td>
 <td><p>1986年8月23日</p></td>
 <td><p>川崎市体育館</p></td>
 </tr>
@@ -717,7 +717,7 @@
 </tr>
 <tr class="even">
 <td><p>第84代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小倉由美" title="wikilink">小倉由美</a> &amp; <a href="https://ja.wikipedia.org/wiki/永堀一恵" title="wikilink">永堀一恵</a><br />
+<td><p><a href="../Page/小倉由美.md" title="wikilink">小倉由美</a> &amp; <a href="https://ja.wikipedia.org/wiki/永堀一恵" title="wikilink">永堀一恵</a><br />
 （レッド・タイフーンズ）</p></td>
 <td><p>1987年4月27日</p></td>
 <td><p>大阪府立体育会館</p></td>
@@ -730,13 +730,13 @@
 </tr>
 <tr class="even">
 <td><p>第86代</p></td>
-<td><p>ブル中野 &amp; <a href="https://ja.wikipedia.org/wiki/グリズリー岩本" title="wikilink">岩本久美子</a></p></td>
+<td><p>ブル中野 &amp; <a href="../Page/グリズリー岩本.md" title="wikilink">岩本久美子</a></p></td>
 <td><p>1988年2月25日</p></td>
 <td><p>川崎市体育館</p></td>
 </tr>
 <tr class="odd">
 <td><p>第87代</p></td>
-<td><p>堀田祐美子 &amp; <a href="https://ja.wikipedia.org/wiki/西脇充子" title="wikilink">西脇充子</a><br />
+<td><p>堀田祐美子 &amp; <a href="../Page/西脇充子.md" title="wikilink">西脇充子</a><br />
 （ファイヤー・ジェッツ）</p></td>
 <td><p>1988年7月19日</p></td>
 <td><p>大田区体育館</p></td>
@@ -758,7 +758,7 @@
 </tr>
 <tr class="even">
 <td><p>第90代</p></td>
-<td><p>北斗晶 &amp; <a href="https://ja.wikipedia.org/wiki/みなみ鈴香" title="wikilink">みなみ鈴香</a><br />
+<td><p>北斗晶 &amp; <a href="../Page/みなみ鈴香.md" title="wikilink">みなみ鈴香</a><br />
 （マリン・ウルフ）</p></td>
 <td><p>1989年6月18日</p></td>
 <td><p>後楽園ホール</p></td>
@@ -772,7 +772,7 @@
 </tr>
 <tr class="even">
 <td><p>第92代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アジャ・コング" title="wikilink">アジャ・コング</a> &amp; グリズリー岩本</p></td>
+<td><p><a href="../Page/アジャ・コング.md" title="wikilink">アジャ・コング</a> &amp; グリズリー岩本</p></td>
 <td><p>1989年12月9日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
@@ -785,7 +785,7 @@
 </tr>
 <tr class="even">
 <td><p>第94代</p></td>
-<td><p>アジャ・コング &amp; <a href="https://ja.wikipedia.org/wiki/バイソン木村" title="wikilink">バイソン木村</a><br />
+<td><p>アジャ・コング &amp; <a href="../Page/バイソン木村.md" title="wikilink">バイソン木村</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ジャングル・ジャック" title="wikilink">ジャングル・ジャック</a>）</p></td>
 <td><p>1990年12月9日</p></td>
 <td><p>後楽園ホール<br />
@@ -800,13 +800,13 @@
 </tr>
 <tr class="even">
 <td><p>第96代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田敏代" title="wikilink">山田敏代</a> &amp; <a href="https://ja.wikipedia.org/wiki/豊田真奈美" title="wikilink">豊田真奈美</a></p></td>
+<td><p><a href="../Page/山田敏代.md" title="wikilink">山田敏代</a> &amp; <a href="../Page/豊田真奈美.md" title="wikilink">豊田真奈美</a></p></td>
 <td><p>1992年3月20日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
 <tr class="odd">
 <td><p>第97代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイナマイト・関西" title="wikilink">ダイナマイト関西</a> &amp; <a href="../Page/尾崎魔弓.md" title="wikilink">尾崎魔弓</a></p></td>
+<td><p><a href="../Page/ダイナマイト・関西.md" title="wikilink">ダイナマイト関西</a> &amp; <a href="../Page/尾崎魔弓.md" title="wikilink">尾崎魔弓</a></p></td>
 <td><p>1993年4月11日</p></td>
 <td><p>大阪府立体育会館</p></td>
 </tr>
@@ -854,7 +854,7 @@
 </tr>
 <tr class="even">
 <td><p>第104代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺智子" title="wikilink">渡辺智子</a> &amp; <a href="https://ja.wikipedia.org/wiki/前川久美子" title="wikilink">前川久美子</a></p></td>
+<td><p><a href="../Page/渡辺智子.md" title="wikilink">渡辺智子</a> &amp; <a href="../Page/前川久美子.md" title="wikilink">前川久美子</a></p></td>
 <td><p>1997年1月20日</p></td>
 <td><p>大田区体育館</p></td>
 </tr>
@@ -867,7 +867,7 @@
 </tr>
 <tr class="even">
 <td><p>第106代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤薫_(プロレスラー)" title="wikilink">ZAP-I</a> &amp; <a href="https://ja.wikipedia.org/wiki/渡辺智子" title="wikilink">ZAP-T</a><br />
+<td><p><a href="../Page/伊藤薫_(プロレスラー).md" title="wikilink">ZAP-I</a> &amp; <a href="../Page/渡辺智子.md" title="wikilink">ZAP-T</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ZAP_(プロレス)" title="wikilink">ZAP</a>）</p></td>
 <td><p>1998年4月12日</p></td>
 <td><p>後楽園ホール<br />
@@ -884,12 +884,12 @@
 <td><p>第108代</p></td>
 <td><p>渡辺智子 &amp; 前川久美子</p></td>
 <td><p>1999年12月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立代々木競技場" title="wikilink">代々木第2体育館</a><br />
+<td><p><a href="../Page/国立代々木競技場.md" title="wikilink">代々木第2体育館</a><br />
 返上</p></td>
 </tr>
 <tr class="odd">
 <td><p>第109代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中西百重" title="wikilink">中西百重</a> &amp; <a href="https://ja.wikipedia.org/wiki/高橋奈苗" title="wikilink">高橋奈苗</a><br />
+<td><p><a href="../Page/中西百重.md" title="wikilink">中西百重</a> &amp; <a href="https://ja.wikipedia.org/wiki/高橋奈苗" title="wikilink">高橋奈苗</a><br />
 （ナナモモ）</p></td>
 <td><p>2000年7月16日</p></td>
 <td><p>フジテレビ屋上庭園</p></td>
@@ -899,7 +899,7 @@
 <td><p>三田英津子 &amp; 下田美馬<br />
 （ラス・カチョーラス・オリエンタレス）</p></td>
 <td><p>2001年1月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第111代</p></td>
@@ -944,7 +944,7 @@
 <td><p>第117代</p></td>
 <td><p>渡辺智子 &amp; 前川久美子</p></td>
 <td><p>2003年6月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サッポロテイセンボウル" title="wikilink">札幌テイセンホール</a></p></td>
+<td><p><a href="../Page/サッポロテイセンボウル.md" title="wikilink">札幌テイセンホール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第118代</p></td>
@@ -955,7 +955,7 @@
 </tr>
 <tr class="odd">
 <td><p>第119代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜田文子" title="wikilink">浜田文子</a> &amp; 高橋奈苗</p></td>
+<td><p><a href="../Page/浜田文子.md" title="wikilink">浜田文子</a> &amp; 高橋奈苗</p></td>
 <td><p>2004年1月3日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>

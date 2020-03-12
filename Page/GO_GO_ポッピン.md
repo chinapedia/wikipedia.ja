@@ -1,7 +1,7 @@
 > この記事は[GO GO ](https://ja.wikipedia.org/wiki/GO_GO_)から翻訳されています。
 
 
-『**GO GO ポッピン**』（ゴーゴー ポッピン）は、[2004年](../Page/2004年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[子供向けの](https://ja.wikipedia.org/wiki/子供番組 "wikilink")[教育番組](https://ja.wikipedia.org/wiki/教育番組 "wikilink")。
+『**GO GO ポッピン**』（ゴーゴー ポッピン）は、[2004年](../Page/2004年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[子供向けの](../Page/子供番組.md "wikilink")[教育番組](../Page/教育番組.md "wikilink")。
 
 この項目では、同時期に同局で放送されていた姉妹番組『**[GO GO ポッピンMTV](https://ja.wikipedia.org/wiki/#GO_GO_ポッピンMTV "wikilink")**』、ならびに本番組の終了後にスタートした後継番組『**[GO GO ポッピンフレンズ](https://ja.wikipedia.org/wiki/#GO_GO_ポッピンフレンズ "wikilink")**』と『**[まちかどポッピン](https://ja.wikipedia.org/wiki/#まちかどポッピン "wikilink")**』についても触れる。
 
@@ -25,7 +25,7 @@
 ティンパ、フルーミン、シンバルバの3人はリズム星に住んでいるという設定。
 
   - ティンパ
-    メインキャラクター。語源は楽器の[ティンパニ](../Page/ティンパニ.md "wikilink")。年齢は6歳。主食は音楽で、頭頂部のアンテナでキャッチする。好物は[すぐき](https://ja.wikipedia.org/wiki/すぐき "wikilink")（[京漬物](https://ja.wikipedia.org/wiki/京漬物 "wikilink")）。苦手なものは[カエル](../Page/カエル.md "wikilink")と[スキップ](https://ja.wikipedia.org/wiki/スキップ "wikilink")。たすきがけにしているカバンに入っているのは「みんなの夢」。
+    メインキャラクター。語源は楽器の[ティンパニ](../Page/ティンパニ.md "wikilink")。年齢は6歳。主食は音楽で、頭頂部のアンテナでキャッチする。好物は[すぐき](../Page/すぐき.md "wikilink")（[京漬物](https://ja.wikipedia.org/wiki/京漬物 "wikilink")）。苦手なものは[カエル](../Page/カエル.md "wikilink")と[スキップ](../Page/スキップ.md "wikilink")。たすきがけにしているカバンに入っているのは「みんなの夢」。
   - フルーミン
     演：[和多谷沙耶](https://ja.wikipedia.org/wiki/和多谷沙耶 "wikilink")
     うたとダンスのおねえさん（初代）。語源は楽器の[フルート](../Page/フルート.md "wikilink")。2007年3月30日放送分まで出演。
@@ -46,7 +46,7 @@
 
 歌のコーナーで放送されていた「コトコトきょうとストリート」の歌は、[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")『[秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")』が2008年3月20日放送分で「京都府民は通りの名前を歌う\!?」を取り上げた際に紹介された。
 
-メインキャラクターのティンパは、[JA全農京都の京都米の](https://ja.wikipedia.org/wiki/全国農業協同組合連合会 "wikilink")[コマーシャルに使われていた](../Page/コマーシャルメッセージ.md "wikilink")。
+メインキャラクターのティンパは、[JA全農京都の京都米の](../Page/全国農業協同組合連合会.md "wikilink")[コマーシャルに使われていた](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## GO GO ポッピンMTV
 

@@ -1,7 +1,7 @@
 > この記事は[Developers  Before One Year War](https://ja.wikipedia.org/wiki/Developers__Before_One_Year_War)から翻訳されています。
 
 
-『**Developers 機動戦士ガンダム Before One Year War**』（デベロッパーズ きどうせんしガンダム ビフォア ワン イヤーウォー）は、[山崎峰水](https://ja.wikipedia.org/wiki/山崎峰水 "wikilink")の漫画。原作は[矢立肇](../Page/矢立肇.md "wikilink")・[富野由悠季](../Page/富野由悠季.md "wikilink")。[角川書店](../Page/角川書店.md "wikilink")の漫画雑誌『[ガンダムエース](https://ja.wikipedia.org/wiki/ガンダムエース "wikilink")』にて2001年12月号から2003年10月号まで連載された。
+『**Developers 機動戦士ガンダム Before One Year War**』（デベロッパーズ きどうせんしガンダム ビフォア ワン イヤーウォー）は、[山崎峰水](../Page/山崎峰水.md "wikilink")の漫画。原作は[矢立肇](../Page/矢立肇.md "wikilink")・[富野由悠季](../Page/富野由悠季.md "wikilink")。[角川書店](../Page/角川書店.md "wikilink")の漫画雑誌『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』にて2001年12月号から2003年10月号まで連載された。
 
 ## 概要
 
@@ -28,7 +28,7 @@
   - [エリオット・レム](https://ja.wikipedia.org/wiki/モビルスーツバリエーションの登場人物#エリオット・レム "wikilink")
     ジオニック社のモビルスーツ開発主任・及びテストパイロットで[サイド1出身](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド1（ザーン） "wikilink")。テオの上司。計り知れない能力の持ち主として描かれている。しかし、モビルスーツのコンペで、[AMBAC](../Page/AMBAC.md "wikilink")を見事に使いこなすミオンに破れる。モビルスーツの基礎設計を行った人物として[宇宙世紀](../Page/宇宙世紀.md "wikilink")の歴史にその名を残す。
   - [ギレン・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ギレン・ザビ "wikilink")
-    [ザビ家](https://ja.wikipedia.org/wiki/ザビ家 "wikilink")の長男。後半のいたるところで登場。ミオンの操縦技術に感嘆している。ミオンが使ったシミュレーターに自ら搭乗して、モビルスーツの操縦を体験したらしく、ジョークで設定された使用者のランキングに「G.ZABI」と書き込まれている。
+    [ザビ家](../Page/ザビ家.md "wikilink")の長男。後半のいたるところで登場。ミオンの操縦技術に感嘆している。ミオンが使ったシミュレーターに自ら搭乗して、モビルスーツの操縦を体験したらしく、ジョークで設定された使用者のランキングに「G.ZABI」と書き込まれている。
 
 ## その他
 

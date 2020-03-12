@@ -1,7 +1,7 @@
 > この記事は[Rare collectives vol.1](https://ja.wikipedia.org/wiki/Rare_collectives_vol.1)から翻訳されています。
 
 
-『**rare collectives vol.1**』（レア・コレクティブス・ボリューム・ワン）は、日本のロックバンド、[GLAY](../Page/GLAY.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")にリリースした[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")である。
+『**rare collectives vol.1**』（レア・コレクティブス・ボリューム・ワン）は、日本のロックバンド、[GLAY](../Page/GLAY.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")にリリースした[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。
 
 主にベストアルバムはシングルなどのメイン曲の寄せ集めなどで構成されているが、このアルバムはそれと逆に、シングルのカップリング曲だけで寄せ集めた構成になっている。発売時のキャッチコピーは“ベスト盤を越えたマスト盤”。公式では、「**CONCEPT ALBUM**」と言う呼称となっている\[1\]。
 
@@ -15,13 +15,13 @@
 
 ### Disc-1
 
-1.  **[Life ～遠い空の下で～](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")**
+1.  **[Life ～遠い空の下で～](../Page/真夏の扉.md "wikilink")**
       -
         2ndシングル「真夏の扉」のカップリング曲。
-2.  **[INNOCENCE](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
+2.  **[INNOCENCE](../Page/彼女の“Modern…”.md "wikilink")**
       -
         3rdシングル「彼女の“Modern…”」のカップリング曲。
-3.  **[REGRET](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
+3.  **[REGRET](../Page/Freeze_My_Love.md "wikilink")**
       -
         4thシングル「Freeze My Love」のカップリング曲。
 4.  **[GONE WITH THE WIND](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
@@ -30,28 +30,28 @@
 5.  **[ACID HEAD](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
       -
         5thシングル「ずっと2人で…／GONE WITH THE WIND」のカップリング曲。アルバム初収録。
-6.  **[Believe in fate](https://ja.wikipedia.org/wiki/グロリアス_\(GLAYの曲\) "wikilink")**
+6.  **[Believe in fate](../Page/グロリアス_\(GLAYの曲\).md "wikilink")**
       -
         8thシングル「グロリアス」のカップリング曲。アルバム初収録。
-7.  **[Together (new version with orchestra)](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYの曲\) "wikilink")**
+7.  **[Together (new version with orchestra)](../Page/BELOVED_\(GLAYの曲\).md "wikilink")**
       -
         9thシングル「BELOVED」のカップリング曲。2ndアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』収録曲のリアレンジバージョン。このバージョンはアルバム初収録。
-8.  **[春を愛する人](https://ja.wikipedia.org/wiki/春を愛する人 "wikilink")**
+8.  **[春を愛する人](../Page/春を愛する人.md "wikilink")**
       -
-        11thシングル「[口唇](https://ja.wikipedia.org/wiki/口唇_\(GLAYの曲\) "wikilink")」のカップリング曲。
+        11thシングル「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」のカップリング曲。
 9.  **[I'm yours](../Page/HOWEVER.md "wikilink")**
       -
         12thシングル「HOWEVER」のカップリング曲。アルバム初収録。
-10. **[Little Lovebirds](https://ja.wikipedia.org/wiki/誘惑_\(GLAYの曲\) "wikilink")**
+10. **[Little Lovebirds](../Page/誘惑_\(GLAYの曲\).md "wikilink")**
       -
         13thシングル「誘惑」のカップリング曲。アルバム初収録。
-11. **[毒ロック](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\) "wikilink")**
+11. **[毒ロック](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")**
       -
         15thシングル「BE WITH YOU」のカップリング曲。アルバム初収録。
-12. **[ストロベリーシェイク](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\) "wikilink")**
+12. **[ストロベリーシェイク](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")**
       -
         15thシングル「BE WITH YOU」のカップリング曲。アルバム初収録。前曲とサウンド上では繋がっている。
-13. **[It's dying It's not dying](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\) "wikilink")**
+13. **[It's dying It's not dying](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")**
       -
         15thシングル「BE WITH YOU」のカップリング曲。アルバム初収録。前曲とサウンド上では繋がっている。
 14. '''幸せになる、その時に。 '''
@@ -60,25 +60,25 @@
 
 ### Disc-2
 
-1.  **[INNOCENCE (LIVE VERSION '95.6.12 in SHIBUYA KOKAIDO)](https://ja.wikipedia.org/wiki/Yes,_Summerdays "wikilink")**
+1.  **[INNOCENCE (LIVE VERSION '95.6.12 in SHIBUYA KOKAIDO)](../Page/Yes,_Summerdays.md "wikilink")**
       -
         6thシングル「Yes, Summerdays」のカップリング曲。
 2.  **見つめていたい (from GLAY TOUR '98 pure soul PAMPHLET CD)**
       -
         GLAY TOUR '98 pure soul パンフレット収録曲。[Romi](../Page/Romi.md "wikilink")に提供し、テレビ朝日系「長野オリンピック中継」のテーマソングだった「[見つめていたい](../Page/見つめていたい_\(Romiの曲\).md "wikilink")」のセルフカバー。
-3.  **[サバイバル (LIVE VERSION '99.3.10 IN TOKYO DOME)](https://ja.wikipedia.org/wiki/サバイバル_\(GLAYの曲\) "wikilink")**
+3.  **[サバイバル (LIVE VERSION '99.3.10 IN TOKYO DOME)](../Page/サバイバル_\(GLAYの曲\).md "wikilink")**
       -
         ビデオシングル「サバイバル」のカップリング曲。
 4.  **[MISERY (from The Album「hide TRIBUTE SPIRITS」)](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink")**
       -
-        オムニバス[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")『hide TRIBUTE SPIRITS』収録曲。[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の「[MISERY](../Page/MISERY.md "wikilink")」のカバー。
-5.  **[MISERY (GLAY EXPO'99 SURVIVAL LIVE VERSION)](https://ja.wikipedia.org/wiki/HAPPINESS_-WINTER_MIX- "wikilink")**
+        オムニバス[トリビュートアルバム](../Page/トリビュート・アルバム.md "wikilink")『hide TRIBUTE SPIRITS』収録曲。[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の「[MISERY](../Page/MISERY.md "wikilink")」のカバー。
+5.  **[MISERY (GLAY EXPO'99 SURVIVAL LIVE VERSION)](../Page/HAPPINESS_-WINTER_MIX-.md "wikilink")**
       -
         18thシングル「HAPPINESS -WINTER MIX-」のカップリング曲。
-6.  **[ここではない、どこかへ (GLAY EXPO'99 SURVIVAL LIVE VERSION)](https://ja.wikipedia.org/wiki/HAPPINESS_-WINTER_MIX- "wikilink")**
+6.  **[ここではない、どこかへ (GLAY EXPO'99 SURVIVAL LIVE VERSION)](../Page/HAPPINESS_-WINTER_MIX-.md "wikilink")**
       -
         18thシングル「HAPPINESS -WINTER MIX-」のカップリング曲。
-7.  **[ひとひらの自由 (GLAY EXPO 2001 “GLOBAL COMMUNICATION” IN KYUSHU VERSION)](https://ja.wikipedia.org/wiki/ひとひらの自由 "wikilink")**
+7.  **[ひとひらの自由 (GLAY EXPO 2001 “GLOBAL COMMUNICATION” IN KYUSHU VERSION)](../Page/ひとひらの自由.md "wikilink")**
       -
         24thシングル「ひとひらの自由」のカップリング曲。
 

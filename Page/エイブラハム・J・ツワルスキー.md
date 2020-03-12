@@ -1,15 +1,15 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**エイブラハム・J・ツワルスキー**あるいは**エイブラハム・J・トワースキ**（Rabbi Dr. **Ab(v)raham J. Twerski**, [1930年](../Page/1930年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - ）は[ハシディズム](../Page/ハシディズム.md "wikilink")のチェルノビル派（[Chernobyl](https://ja.wikipedia.org/wiki/:en:Chernobyl_\(Hasidic_dynasty\) "wikilink")）の[ラビ](https://ja.wikipedia.org/wiki/ラビ "wikilink")にして[精神科医](https://ja.wikipedia.org/wiki/精神科医 "wikilink")。 [薬物乱用](../Page/薬物乱用.md "wikilink")（[substance abuse](https://ja.wikipedia.org/wiki/:en:substance_abuse "wikilink")）とその心理に関する専門家。
+**エイブラハム・J・ツワルスキー**あるいは**エイブラハム・J・トワースキ**（Rabbi Dr. **Ab(v)raham J. Twerski**, [1930年](../Page/1930年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - ）は[ハシディズム](../Page/ハシディズム.md "wikilink")のチェルノビル派（[Chernobyl](https://ja.wikipedia.org/wiki/:en:Chernobyl_\(Hasidic_dynasty\) "wikilink")）の[ラビ](../Page/ラビ.md "wikilink")にして[精神科医](../Page/精神科医.md "wikilink")。 [薬物乱用](../Page/薬物乱用.md "wikilink")（[substance abuse](https://ja.wikipedia.org/wiki/:en:substance_abuse "wikilink")）とその心理に関する専門家。
 
 ## 経歴
 
-[ウィスコンシン州](../Page/ウィスコンシン州.md "wikilink")の[ミルウォーキー](https://ja.wikipedia.org/wiki/ミルウォーキー "wikilink")に生まれる。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")にラビの資格を取得。
+[ウィスコンシン州](../Page/ウィスコンシン州.md "wikilink")の[ミルウォーキー](../Page/ミルウォーキー.md "wikilink")に生まれる。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")にラビの資格を取得。
 
 [ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")にゲートウェイ・リハビリテーション・センターを創設。
 
-[セルフヘルプ](https://ja.wikipedia.org/wiki/セルフヘルプ "wikilink")（[self-help](https://ja.wikipedia.org/wiki/:en:self-help "wikilink"); [自立生活運動](../Page/自立生活運動.md "wikilink")）や[ユダヤ教](../Page/ユダヤ教.md "wikilink")に関する本を書いている。特に[チャールズ・M・シュルツ](../Page/チャールズ・M・シュルツ.md "wikilink")とともに[スヌーピー](../Page/スヌーピー.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を使った[心理](https://ja.wikipedia.org/wiki/心理 "wikilink")分析関係の本を書く。
+[セルフヘルプ](../Page/セルフヘルプ.md "wikilink")（[self-help](https://ja.wikipedia.org/wiki/:en:self-help "wikilink"); [自立生活運動](../Page/自立生活運動.md "wikilink")）や[ユダヤ教](../Page/ユダヤ教.md "wikilink")に関する本を書いている。特に[チャールズ・M・シュルツ](../Page/チャールズ・M・シュルツ.md "wikilink")とともに[スヌーピー](../Page/スヌーピー.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を使った[心理](https://ja.wikipedia.org/wiki/心理 "wikilink")分析関係の本を書く。
 
 ## 著書
 

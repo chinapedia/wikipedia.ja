@@ -1,25 +1,25 @@
 > この記事は[UFC Fight Night: Thomas vs. Florian](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Thomas_vs._Florian)から翻訳されています。
 
 
-**UFC Fight Night: Thomas vs. Florian**（ユーエフシー・ファイトナイト：トーマス・バーサス・フロリアン、別名**UFC Fight Night 11**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・パールで開催された](https://ja.wikipedia.org/wiki/パームス "wikilink")。
+**UFC Fight Night: Thomas vs. Florian**（ユーエフシー・ファイトナイト：トーマス・バーサス・フロリアン、別名**UFC Fight Night 11**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・パールで開催された](../Page/パームス.md "wikilink")。
 
 大会は、Spikeを通じて全米・カナダに無料放送された。
 
 ## 大会概要
 
-メインイベントでは[ディン・トーマス](https://ja.wikipedia.org/wiki/ディン・トーマス "wikilink")と[ケニー・フロリアン](https://ja.wikipedia.org/wiki/ケニー・フロリアン "wikilink")が対戦し、フロリアンがトーマスに一本勝ちを収めた。
+メインイベントでは[ディン・トーマス](../Page/ディン・トーマス.md "wikilink")と[ケニー・フロリアン](../Page/ケニー・フロリアン.md "wikilink")が対戦し、フロリアンがトーマスに一本勝ちを収めた。
 
-[マイク・スウィック](../Page/マイク・スウィック.md "wikilink")がウェルター級転向後の復帰戦を行う予定であったが、肋骨の負傷により欠場。代わりに[ダスティン・ヘイズレット](https://ja.wikipedia.org/wiki/ダスティン・ヘイズレット "wikilink")が[ジョナサン・グレ](https://ja.wikipedia.org/wiki/ジョナサン・グレ "wikilink")と対戦し、[腕ひしぎ十字固めにより一本勝ちを収めた](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")。
+[マイク・スウィック](../Page/マイク・スウィック.md "wikilink")がウェルター級転向後の復帰戦を行う予定であったが、肋骨の負傷により欠場。代わりに[ダスティン・ヘイズレット](https://ja.wikipedia.org/wiki/ダスティン・ヘイズレット "wikilink")が[ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink")と対戦し、[腕ひしぎ十字固めにより一本勝ちを収めた](../Page/腕挫十字固.md "wikilink")。
 
 ## 試合結果
 
 ### プレリミナリィカード
 
   - 第1試合 ウェルター級 5分3R
-    ○  [ダスティン・ヘイズレット](https://ja.wikipedia.org/wiki/ダスティン・ヘイズレット "wikilink") vs.  [ジョナサン・グレ](https://ja.wikipedia.org/wiki/ジョナサン・グレ "wikilink") ×
-    1R 1:14 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [ダスティン・ヘイズレット](https://ja.wikipedia.org/wiki/ダスティン・ヘイズレット "wikilink") vs.  [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink") ×
+    1R 1:14 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第2試合 ウェルター級 5分3R
-    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  [弘中邦佳](https://ja.wikipedia.org/wiki/弘中邦佳 "wikilink") ×
+    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  [弘中邦佳](../Page/弘中邦佳.md "wikilink") ×
     2R 4:04 TKO（レフェリーストップ：膝蹴り）
   - 第3試合 ライト級 5分3R
     ○  [グレイ・メイナード](https://ja.wikipedia.org/wiki/グレイ・メイナード "wikilink") vs.  ジョー・ヴェレス ×
@@ -29,7 +29,7 @@
     3R終了 判定3-0（29-28、29-28、30-27）
   - 第5試合 ウェルター級 5分3R
     ○  ルーク・クモ vs.  エジベルト・クロコタ ×
-    1R 1:45 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 1:45 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
 
 ### メインカード
 
@@ -38,13 +38,13 @@
     3R 0:44 KO（右ストレート）
   - 第7試合 ライト級 5分3R
     ○  [ネイサン・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink") vs.  ジュニオール・アスンソン ×
-    1R 4:10 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 4:10 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第8試合 ミドル級 5分3R
-    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [テリー・マーティン](https://ja.wikipedia.org/wiki/テリー・マーティン "wikilink") ×
+    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
     3R 3:56 KO（左フック）
   - 第9試合 ライト級 5分3R
-    ○  [ケニー・フロリアン](https://ja.wikipedia.org/wiki/ケニー・フロリアン "wikilink") vs.  [ディン・トーマス](https://ja.wikipedia.org/wiki/ディン・トーマス "wikilink") ×
-    1R 4:31 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [ケニー・フロリアン](../Page/ケニー・フロリアン.md "wikilink") vs.  [ディン・トーマス](../Page/ディン・トーマス.md "wikilink") ×
+    1R 4:31 [チョークスリーパー](../Page/裸絞.md "wikilink")
 
 ### 各賞
 

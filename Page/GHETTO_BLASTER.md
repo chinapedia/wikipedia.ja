@@ -23,7 +23,7 @@
 
 ## 関連項目
 
-  - [X-TRAIL](https://ja.wikipedia.org/wiki/日産・エクストレイル "wikilink")
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [X-TRAIL](../Page/日産・エクストレイル.md "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
 [Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")

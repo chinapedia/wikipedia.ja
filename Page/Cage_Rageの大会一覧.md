@@ -28,7 +28,7 @@
 <tr class="even">
 <td><p>Cage Rage 27: Step Up</p></td>
 <td><p>2007年7月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェンブリー・アリーナ" title="wikilink">ウェンブリー・アリーナ</a></p></td>
+<td><p><a href="../Page/ウェンブリー・アリーナ.md" title="wikilink">ウェンブリー・アリーナ</a></p></td>
 <td><p><a href="../Page/ロンドン.md" title="wikilink">ロンドン</a></p></td>
 </tr>
 <tr class="odd">
@@ -236,7 +236,7 @@
 <td><p>Cage Rage Contenders: Wales</p></td>
 <td><p>2007年11月18日</p></td>
 <td><p>Swansea</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スウォンジー" title="wikilink">スウォンジー</a></p></td>
+<td><p><a href="../Page/スウォンジー.md" title="wikilink">スウォンジー</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Cage Rage Contenders 7</p></td>

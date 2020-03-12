@@ -8,21 +8,21 @@
 ### 過去のTV出演番組
 
   - [みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）ニュースのナレーション
-  - [NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）ニュースのナレーション
+  - [NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）ニュースのナレーション
   - インターネットラジオで番組を担当
   - [スポーツ大MAX](https://ja.wikipedia.org/wiki/スポーツ大MAX "wikilink")([日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink"))　ナレーション
-  - [イブニング5](https://ja.wikipedia.org/wiki/イブニング5 "wikilink")（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）ニュースのナレーション
+  - [イブニング5](https://ja.wikipedia.org/wiki/イブニング5 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）ニュースのナレーション
 
 ### 過去のラジオ出演番組
 
   - チャンス・トゥ・チェンジ　毎週日曜日12：55～16：00([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))　09年10月～10年3月（ナイターオフ番組）
-  - [ALL JAPAN SUPER COUNT DOWN](https://ja.wikipedia.org/wiki/ALL_JAPAN_SUPER_COUNT_DOWN "wikilink") 03年4月～05年3月まで担当([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))
+  - [ALL JAPAN SUPER COUNT DOWN](../Page/ALL_JAPAN_SUPER_COUNT_DOWN.md "wikilink") 03年4月～05年3月まで担当([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))
   - [ALL JAPAN TOP100](https://ja.wikipedia.org/wiki/ALL_JAPAN_TOP100 "wikilink")　93年12月～98年9月まで担当([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))　※ユキ・ラインハートとコンビを組み人気番組に。
   - [ザ・ブリンク](https://ja.wikipedia.org/wiki/ザ・ブリンク "wikilink")　97年4月～98年3月まで担当([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))
   - [ザ・ヒット・オペレーション](https://ja.wikipedia.org/wiki/ザ・ヒット・オペレーション "wikilink")　95年10月～97年3月まで担当([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))
   - [ザ・サンシャイン・コースト](https://ja.wikipedia.org/wiki/ザ・サンシャイン・コースト "wikilink")　01年4月～03年3月まで担当([NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))
-  - [デビュー期待度ランキング](https://ja.wikipedia.org/wiki/デビュー期待度ランキング "wikilink")([ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")）
-  - [J-POP SOUND MAP](https://ja.wikipedia.org/wiki/J-POP_SOUND_MAP "wikilink")([ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink"))
+  - [デビュー期待度ランキング](https://ja.wikipedia.org/wiki/デビュー期待度ランキング "wikilink")([ミュージックバード](../Page/ミュージックバード.md "wikilink")）
+  - [J-POP SOUND MAP](https://ja.wikipedia.org/wiki/J-POP_SOUND_MAP "wikilink")([ミュージックバード](../Page/ミュージックバード.md "wikilink"))
   - [Misty Moon](https://ja.wikipedia.org/wiki/Misty_Moon "wikilink")([FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink"))
   - タチカラ　毎週木曜日15:00\~17:00([FMたちかわ](https://ja.wikipedia.org/wiki/FMたちかわ "wikilink"))
   - [モーニング・ステップス・フライデー](https://ja.wikipedia.org/wiki/モーニング・ステップス・フライデー "wikilink")([FMヨコハマ](https://ja.wikipedia.org/wiki/FMヨコハマ "wikilink")) ピンチヒッターDJ

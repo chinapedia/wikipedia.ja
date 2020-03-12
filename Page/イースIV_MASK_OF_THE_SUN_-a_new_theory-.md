@@ -1,9 +1,9 @@
 > この記事は[IV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/IV_MASK_OF_THE_SUN_-a_new_theory-)から翻訳されています。
 
 
-『**イースIV MASK OF THE SUN -a new theory-**』（イースフォー マスクオブザサン アニユーセオリー）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）にオリジナル2作品が発売された『イースIV』の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")作品で、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）5月26日に[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された。
+『**イースIV MASK OF THE SUN -a new theory-**』（イースフォー マスクオブザサン アニユーセオリー）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）にオリジナル2作品が発売された『イースIV』の[リメイク](../Page/リメイク.md "wikilink")作品で、[2005年](../Page/2005年.md "wikilink")（平成17年）5月26日に[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された。
 
-本稿ではゲーム作品『イースIV MASK OF THE SUN -a new theory-』に関する記述を中心とし、シリーズや『イースIV』の全体像については原則として扱わない。これらの詳細については「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」および「[イースIV](../Page/イースIV.md "wikilink")」を参照。また本作と同じ副題を持つオリジナル作品については「[イースIV MASK OF THE SUN](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN "wikilink")」を参照。
+本稿ではゲーム作品『イースIV MASK OF THE SUN -a new theory-』に関する記述を中心とし、シリーズや『イースIV』の全体像については原則として扱わない。これらの詳細については「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」および「[イースIV](../Page/イースIV.md "wikilink")」を参照。また本作と同じ副題を持つオリジナル作品については「[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")」を参照。
 
 ## 概要
 
@@ -96,7 +96,7 @@
 ### 主人公
 
   - アドル・クリスティン
-    声 - [織田優成](https://ja.wikipedia.org/wiki/織田優成 "wikilink")
+    声 - [織田優成](../Page/織田優成.md "wikilink")
     シリーズ通しての主人公。燃えるような赤毛を持つ冒険者。17～18歳。新たな冒険を求め、フレアと共にセルセタを訪れる。
 
 ### セルセタの人物
@@ -129,7 +129,7 @@
         声 - [山根剛](https://ja.wikipedia.org/wiki/山根剛 "wikilink")
         3人組のリーダー。空間転移能力を持つ。
       - バミー
-        声 - [田中涼子](https://ja.wikipedia.org/wiki/田中涼子_\(声優\) "wikilink")
+        声 - [田中涼子](../Page/田中涼子_\(声優\).md "wikilink")
         3人組の紅一点。様々な物質を魔物に変える力を持つ。
       - ガディス
         声 - [山川敦也](https://ja.wikipedia.org/wiki/山川敦也 "wikilink")

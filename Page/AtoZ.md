@@ -5,11 +5,11 @@
 
 ## 歴史
 
-[2003年](../Page/2003年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、フリーの[堀田祐美子](https://ja.wikipedia.org/wiki/堀田祐美子 "wikilink")が率いるユニット「[Z-SPIRITS](https://ja.wikipedia.org/wiki/Z-SPIRITS "wikilink")」が[アルシオン](https://ja.wikipedia.org/wiki/アルシオン "wikilink")を吸収合併して設立。[7月25日](../Page/7月25日.md "wikilink")、[川崎市体育館](../Page/川崎市体育館.md "wikilink")で旗揚げ戦を開催。
+[2003年](../Page/2003年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、フリーの[堀田祐美子](../Page/堀田祐美子.md "wikilink")が率いるユニット「[Z-SPIRITS](https://ja.wikipedia.org/wiki/Z-SPIRITS "wikilink")」が[アルシオン](../Page/アルシオン.md "wikilink")を吸収合併して設立。[7月25日](../Page/7月25日.md "wikilink")、[川崎市体育館](../Page/川崎市体育館.md "wikilink")で旗揚げ戦を開催。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月、事業停止になり元オーナーの[小宮明夫](https://ja.wikipedia.org/wiki/小宮明夫 "wikilink")とエージェントの[小川宏](https://ja.wikipedia.org/wiki/ロッシー小川 "wikilink")（現：ロッシー小川）はKOプロダクションを設立。所属選手と[全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")最終所属選手による自主興行「[ドリームキャッチャー](../Page/CHICK_FIGHTS_SUN.md "wikilink")」のスケジュール管理を行う傍ら[JDスター女子プロレス](https://ja.wikipedia.org/wiki/JDスター女子プロレス "wikilink")と業務提携を結んだことを発表。その後、AtoZの別ブランド「[ONLY ONE](https://ja.wikipedia.org/wiki/ONLY_ONE_\(プロレス\) "wikilink")」を開催。
+[2005年](../Page/2005年.md "wikilink")9月、事業停止になり元オーナーの[小宮明夫](https://ja.wikipedia.org/wiki/小宮明夫 "wikilink")とエージェントの[小川宏](https://ja.wikipedia.org/wiki/ロッシー小川 "wikilink")（現：ロッシー小川）はKOプロダクションを設立。所属選手と[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")最終所属選手による自主興行「[ドリームキャッチャー](../Page/CHICK_FIGHTS_SUN.md "wikilink")」のスケジュール管理を行う傍ら[JDスター女子プロレス](../Page/JDスター女子プロレス.md "wikilink")と業務提携を結んだことを発表。その後、AtoZの別ブランド「[ONLY ONE](https://ja.wikipedia.org/wiki/ONLY_ONE_\(プロレス\) "wikilink")」を開催。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月、JDスターとの業務提携を解消して小川はJDスターの外部スタッフになった。[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")、[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")大会を最後に解散。
+[2006年](../Page/2006年.md "wikilink")1月、JDスターとの業務提携を解消して小川はJDスターの外部スタッフになった。[5月3日](../Page/5月3日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会を最後に解散。
 
 ## タイトル
 
@@ -25,10 +25,10 @@
 
 <!-- end list -->
 
-  - [堀田祐美子](https://ja.wikipedia.org/wiki/堀田祐美子 "wikilink")（[Z-SPIRITS](https://ja.wikipedia.org/wiki/Z-SPIRITS "wikilink")）
-  - [阿部幸江](https://ja.wikipedia.org/wiki/阿部幸江 "wikilink")（Z-SPIRITS）
-  - [中島安里紗](https://ja.wikipedia.org/wiki/中島安里紗 "wikilink")
-  - [水沼美加](https://ja.wikipedia.org/wiki/帝嘩怒 "wikilink")（現：帝嘩怒）
+  - [堀田祐美子](../Page/堀田祐美子.md "wikilink")（[Z-SPIRITS](https://ja.wikipedia.org/wiki/Z-SPIRITS "wikilink")）
+  - [阿部幸江](../Page/阿部幸江.md "wikilink")（Z-SPIRITS）
+  - [中島安里紗](../Page/中島安里紗.md "wikilink")
+  - [水沼美加](../Page/帝嘩怒.md "wikilink")（現：帝嘩怒）
 
 <!-- end list -->
 
@@ -36,26 +36,26 @@
 
 <!-- end list -->
 
-  - [高橋奈苗](https://ja.wikipedia.org/wiki/高橋奈七永 "wikilink")（現：高橋奈七永）
-  - [Hikaru](https://ja.wikipedia.org/wiki/Hikaru_\(プロレスラー\) "wikilink")
-  - [前村早紀](https://ja.wikipedia.org/wiki/前村早紀 "wikilink")
+  - [高橋奈苗](../Page/高橋奈七永.md "wikilink")（現：高橋奈七永）
+  - [Hikaru](../Page/Hikaru_\(プロレスラー\).md "wikilink")
+  - [前村早紀](../Page/前村早紀.md "wikilink")
 
 ## 過去の所属選手
 
-  - [AKINO](https://ja.wikipedia.org/wiki/AKINO_\(プロレスラー\) "wikilink")
-  - [吉田万里子](https://ja.wikipedia.org/wiki/吉田万里子_\(プロレスラー\) "wikilink")
-  - [藤田愛](https://ja.wikipedia.org/wiki/藤田愛 "wikilink")
-  - [Baby-M](https://ja.wikipedia.org/wiki/Baby-M "wikilink")
-  - [GAMI](https://ja.wikipedia.org/wiki/GAMI "wikilink")
-  - [北尾ゆかり](https://ja.wikipedia.org/wiki/北尾ゆかり "wikilink")
-  - [玉田凛映](https://ja.wikipedia.org/wiki/玉田凛映 "wikilink")
-  - [闘牛・空](https://ja.wikipedia.org/wiki/江本敦子 "wikilink")（現：江本敦子）
-  - [玲央奈](https://ja.wikipedia.org/wiki/Leon_\(プロレスラー\) "wikilink")（現：Leon）
-  - [未来](https://ja.wikipedia.org/wiki/未来_\(プロレスラー\) "wikilink")（[Z-SPIRITS](https://ja.wikipedia.org/wiki/Z-SPIRITS "wikilink")）
+  - [AKINO](../Page/AKINO_\(プロレスラー\).md "wikilink")
+  - [吉田万里子](../Page/吉田万里子_\(プロレスラー\).md "wikilink")
+  - [藤田愛](../Page/藤田愛.md "wikilink")
+  - [Baby-M](../Page/Baby-M.md "wikilink")
+  - [GAMI](../Page/GAMI.md "wikilink")
+  - [北尾ゆかり](../Page/北尾ゆかり.md "wikilink")
+  - [玉田凛映](../Page/玉田凛映.md "wikilink")
+  - [闘牛・空](../Page/江本敦子.md "wikilink")（現：江本敦子）
+  - [玲央奈](../Page/Leon_\(プロレスラー\).md "wikilink")（現：Leon）
+  - [未来](../Page/未来_\(プロレスラー\).md "wikilink")（[Z-SPIRITS](https://ja.wikipedia.org/wiki/Z-SPIRITS "wikilink")）
   - [西尾美香](../Page/西尾美香.md "wikilink")（Z-SPIRITS）
   - [下田美馬](../Page/下田美馬.md "wikilink")（Z-SPIRITS）
-  - [華名](https://ja.wikipedia.org/wiki/華名 "wikilink")
-  - [栗原亜弓](https://ja.wikipedia.org/wiki/栗原あゆみ "wikilink")（現：栗原あゆみ）（練習生）
+  - [華名](../Page/華名.md "wikilink")
+  - [栗原亜弓](../Page/栗原あゆみ.md "wikilink")（現：栗原あゆみ）（練習生）
 
 ## 過去のスタッフ
 

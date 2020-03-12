@@ -1,7 +1,7 @@
 > この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Z-buffer_no_text.jpg "wikilink") **Zバッファ** (Z-buffer, Z-buffering) とは、[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")において、深度（奥行き）情報を用いて物体の描画処理を省略し高速化するための技術、およびその深度情報を格納する[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")領域のことを指す。**深度バッファ** (depth buffer) とも呼ばれる。コンピュータグラフィックスの分野では比較的古くから存在する技術（[ローテク](https://ja.wikipedia.org/wiki/ローテク "wikilink")）ではあるが、計算資源の制約が多いリアルタイムグラフィックス用途では特に効果的な技術であり、2015年現在では流通するほぼあらゆるハードウェア（[グラフィックスカード](https://ja.wikipedia.org/wiki/グラフィックスカード "wikilink")／グラフィックスチップ）で使用することができる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Z-buffer_no_text.jpg "wikilink") **Zバッファ** (Z-buffer, Z-buffering) とは、[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")において、深度（奥行き）情報を用いて物体の描画処理を省略し高速化するための技術、およびその深度情報を格納する[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")領域のことを指す。**深度バッファ** (depth buffer) とも呼ばれる。コンピュータグラフィックスの分野では比較的古くから存在する技術（[ローテク](../Page/ローテク.md "wikilink")）ではあるが、計算資源の制約が多いリアルタイムグラフィックス用途では特に効果的な技術であり、2015年現在では流通するほぼあらゆるハードウェア（[グラフィックスカード](https://ja.wikipedia.org/wiki/グラフィックスカード "wikilink")／グラフィックスチップ）で使用することができる。
 
 同種として、より描画精度を向上させられる**Wバッファ**という技術もある\[1\]\[2\]が、Zバッファほどの広範なハードウェアサポートはない。
 
@@ -21,7 +21,7 @@ Zバッファという名前は、Z-coordinate（3次元空間の次元軸を表
 
 ## ゲームコンソールとZバッファ
 
-[初代PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink") (PS1) \[5\]や[3DO](../Page/3DO.md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")にはZバッファが搭載されていなかった。そのため、ポリゴン単位で前後関係を判定する[Zソート法](https://ja.wikipedia.org/wiki/Zソート法 "wikilink")が使用されていた。この方法はZバッファよりも省メモリであるというメリットがあるが、一方で交差するポリゴンを正しく描画できない、ソートのための処理時間を必要とする、などのデメリットもある。
+[初代PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink") (PS1) \[5\]や[3DO](../Page/3DO.md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")にはZバッファが搭載されていなかった。そのため、ポリゴン単位で前後関係を判定する[Zソート法](https://ja.wikipedia.org/wiki/Zソート法 "wikilink")が使用されていた。この方法はZバッファよりも省メモリであるというメリットがあるが、一方で交差するポリゴンを正しく描画できない、ソートのための処理時間を必要とする、などのデメリットもある。
 
 なお、[NINTENDO64](../Page/NINTENDO64.md "wikilink")にはZバッファが搭載されていた。以降、[PlayStation 2や](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")などの後継機種では、Zバッファが搭載されることが標準的になっていった。
 
@@ -32,7 +32,7 @@ Zバッファという名前は、Z-coordinate（3次元空間の次元軸を表
   - [Zオーダー](https://ja.wikipedia.org/wiki/Zオーダー "wikilink")
   - [遅延シェーディング](https://ja.wikipedia.org/wiki/遅延シェーディング "wikilink")
   - [3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")
-  - [Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")
+  - [Direct3D](../Page/Direct3D.md "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
 
 [Category:3DCG](https://ja.wikipedia.org/wiki/Category:3DCG "wikilink")

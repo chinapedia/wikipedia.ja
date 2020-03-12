@@ -1,9 +1,9 @@
 > この記事は[SYM](https://ja.wikipedia.org/wiki/SYM)から翻訳されています。
 
 
-**SYM**（**サンヤン**・三陽機車）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の三陽工業（*Sanyang Motor Co., Ltd.* ）が製造する[オートバイ](../Page/オートバイ.md "wikilink")のブランド。 1962年より[本田技研工業](../Page/本田技研工業.md "wikilink")の技術協力によってオートバイの生産を開始。1977年には初代[シビック](https://ja.wikipedia.org/wiki/シビック "wikilink")がホンダ初の四輪海外生産としてスタートするなど、ホンダの二輪車や四輪車の[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")を行っていた。
+**SYM**（**サンヤン**・三陽機車）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の三陽工業（*Sanyang Motor Co., Ltd.* ）が製造する[オートバイ](../Page/オートバイ.md "wikilink")のブランド。 1962年より[本田技研工業](../Page/本田技研工業.md "wikilink")の技術協力によってオートバイの生産を開始。1977年には初代[シビック](https://ja.wikipedia.org/wiki/シビック "wikilink")がホンダ初の四輪海外生産としてスタートするなど、ホンダの二輪車や四輪車の[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行っていた。
 
-提携を解消してからは韓国の[現代自動車](../Page/現代自動車.md "wikilink")と技術提携し、台湾でヒュンダイ・ブランドの四輪車をライセンス生産している。尚、SYMで生産しているのは[エラントラ](https://ja.wikipedia.org/wiki/ヒュンダイ・エラントラ "wikilink")、[ix35の](https://ja.wikipedia.org/wiki/ヒュンダイ・ツーソン "wikilink")2台のみで、[ソナタや](https://ja.wikipedia.org/wiki/ヒュンダイ・ソナタ "wikilink")[i10などは輸入](../Page/ヒュンダイ・i10.md "wikilink")。
+提携を解消してからは韓国の[現代自動車](../Page/現代自動車.md "wikilink")と技術提携し、台湾でヒュンダイ・ブランドの四輪車をライセンス生産している。尚、SYMで生産しているのは[エラントラ](../Page/ヒュンダイ・エラントラ.md "wikilink")、[ix35の](../Page/ヒュンダイ・ツーソン.md "wikilink")2台のみで、[ソナタや](../Page/ヒュンダイ・ソナタ.md "wikilink")[i10などは輸入](../Page/ヒュンダイ・i10.md "wikilink")。
 
 2010年代から海外へのバイク輸出事業を拡大し続け、国際での知名度を上げている。
 

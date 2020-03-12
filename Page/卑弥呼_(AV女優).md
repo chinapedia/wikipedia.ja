@@ -1,13 +1,13 @@
 > この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
 
 
-**卑弥呼**（ひみこ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。[村西とおる](https://ja.wikipedia.org/wiki/村西とおる "wikilink")が率いた[ダイヤモンド映像](https://ja.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")を代表するAV女優の一人。
+**卑弥呼**（ひみこ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。[村西とおる](../Page/村西とおる.md "wikilink")が率いた[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")を代表するAV女優の一人。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")出身。 ボディサイズはT166/B90/W60/H87（デビュー時）→T166/B90/W60/H89（復帰時）。血液型AB型。[1990年代](../Page/1990年代.md "wikilink")前半に活動した。
+[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[池袋](../Page/池袋.md "wikilink")出身。 ボディサイズはT166/B90/W60/H87（デビュー時）→T166/B90/W60/H89（復帰時）。血液型AB型。[1990年代](../Page/1990年代.md "wikilink")前半に活動した。
 
 ## 経歴
 
-1990年度の「[ミス日本](https://ja.wikipedia.org/wiki/ミス日本 "wikilink")」の東京代表（グランプリではない）\[1\]に選ばれる。受賞の翌月、1本500万円の出演料\[2\]で『大和撫子タマの腰』で[AVデビュー](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。日本版[トレイシー・ローズ](https://ja.wikipedia.org/wiki/トレイシー・ローズ "wikilink")と呼ばれたボディスタイルと美貌、持ち前の明るいスケベっぷりで、ダイヤモンド映像専属女優の中でもトップクラスの人気を誇った。芸名は村西とおるの発案による。
+1990年度の「[ミス日本](../Page/ミス日本.md "wikilink")」の東京代表（グランプリではない）\[1\]に選ばれる。受賞の翌月、1本500万円の出演料\[2\]で『大和撫子タマの腰』で[AVデビュー](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。日本版[トレイシー・ローズ](../Page/トレイシー・ローズ.md "wikilink")と呼ばれたボディスタイルと美貌、持ち前の明るいスケベっぷりで、ダイヤモンド映像専属女優の中でもトップクラスの人気を誇った。芸名は村西とおるの発案による。
 
 ダイヤモンド映像と関連会社では20本余りの作品に出演したが、活動期間がダイヤモンド映像が経営破綻していく時期と重なり、支払われたギャラのうち3,000万円を村西に貸したまま踏み倒されたと告白。[ワイドショー](../Page/ワイドショー.md "wikilink")や[週刊誌](../Page/週刊誌.md "wikilink")などが大きく取り上げるスキャンダルになった。\[3\]
 
@@ -15,23 +15,23 @@
 
 なおトレイシー沙貴という別名でビデオが発売されたという情報が散見されるが、[裏ビデオ](../Page/裏ビデオ.md "wikilink")でしか使われておらず、公式リリースは全て卑弥呼名義である。
 
-デビュー時のプロフィールは「[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ、[長崎県](../Page/長崎県.md "wikilink")出身、血液型A型」 \[6\]で、他にも複数のプロフィールがあったが、その後本項冒頭の形となった。
+デビュー時のプロフィールは「[1970年](../Page/1970年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ、[長崎県](../Page/長崎県.md "wikilink")出身、血液型A型」 \[6\]で、他にも複数のプロフィールがあったが、その後本項冒頭の形となった。
 
 ## 作品
 
 ### アダルトビデオ
 
   - [えびすさんがみてる](../Page/蛭子能収.md "wikilink")　（1990年頃、[裏ビデオ](../Page/裏ビデオ.md "wikilink")）※デビュー作
-  - 大和撫子タマの腰　（1990年7月11日、[ダイヤモンド映像](https://ja.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
+  - 大和撫子タマの腰　（1990年7月11日、[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")）
   - やってなさそでそんなんじゃない娘　（1990年8月11日、ダイヤモンド映像）
-  - 鮮度120% ハマッ娘デビュー （1990年8月15日、[ビックマン](https://ja.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
+  - 鮮度120% ハマッ娘デビュー （1990年8月15日、[ビックマン](../Page/ダイヤモンド映像.md "wikilink")）
   - 女に生まれてよかった宣言　（1990年9月11日、ダイヤモンド映像）
   - 黒くてぶっといのが大好き　（1990年10月15日、ダイヤモンド映像）
   - とにもかくにもいっぱいにください、極楽棒を\!\!　（1990年11月21日、ダイヤモンド映像）
   - 女の生き方教えます　（1990年12月21日、ダイヤモンド映像）
   - 極上ボディーの女 只今参上 この娘が日本で一番です　（1991年1月21日、ダイヤモンド映像）
   - 若奥様 卑弥呼　（1991年2月21日、ダイヤモンド映像）
-  - 豊田薫の口全ワイセツ 2　（1991年3月7日、[ヴィーナス](https://ja.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
+  - 豊田薫の口全ワイセツ 2　（1991年3月7日、[ヴィーナス](../Page/ダイヤモンド映像.md "wikilink")）
   - 若奥様、もう一度　（1991年3月21日、ダイヤモンド映像）
   - この体に男のロマンあり　（1991年4月25日、ダイヤモンド映像）
   - インストラクター卑弥呼　（1991年5月25日、ダイヤモンド映像）
@@ -43,7 +43,7 @@
   - 愛と腰使いの果てに　（1991年11月25日、ダイヤモンド映像）
   - ハイレグスター3 女\[悶狂\]獣　（1992年1月21日、ビックマン）
   - 突きっぱなし 卑弥呼　（1992年2月15日、ビックマン）
-  - Stuff　（1992年3月21日、[裸の王様](https://ja.wikipedia.org/wiki/ダイヤモンド映像 "wikilink")）
+  - Stuff　（1992年3月21日、[裸の王様](../Page/ダイヤモンド映像.md "wikilink")）
   - 卑弥呼伝説　（1993年8月19日、[メシア](../Page/クリスタル映像.md "wikilink")）
   - スキャンダルに天誅を　（1993年10月14日、メシア）
   - 官能BODYランゲージ　（1993年12月14日、メシア）
@@ -53,15 +53,15 @@
 
 ### オリジナルビデオ
 
-  - 桃尻こねクション　（1993年9月1日、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")）　共演：杉浦友美、前薗小百合
+  - 桃尻こねクション　（1993年9月1日、[バップ](../Page/バップ.md "wikilink")）　共演：杉浦友美、前薗小百合
 
 ## 書籍
 
 ### 写真集
 
-  - あい・らぶ・愛―HIMIKO in AUSTRARIA(BIC MAN SERIES)（1990年11月20日、[ビックマン](https://ja.wikipedia.org/wiki/ビックマン "wikilink")、撮影：[村西とおる](https://ja.wikipedia.org/wiki/村西とおる "wikilink")）ISBN 978-4894050549
+  - あい・らぶ・愛―HIMIKO in AUSTRARIA(BIC MAN SERIES)（1990年11月20日、[ビックマン](https://ja.wikipedia.org/wiki/ビックマン "wikilink")、撮影：[村西とおる](../Page/村西とおる.md "wikilink")）ISBN 978-4894050549
   - 卑弥呼写真集(BIC MAN SERIES)（1991年10月20日、ビックマン、撮影：[稲村幸夫](https://ja.wikipedia.org/wiki/稲村幸夫 "wikilink")、[中川秀樹](https://ja.wikipedia.org/wiki/中川秀樹 "wikilink")、[大隅孝之](https://ja.wikipedia.org/wiki/大隅孝之 "wikilink")）ISBN 978-4894050877
-  - 素肌のままで（1992年10月15日、[ドリームワークス出版](https://ja.wikipedia.org/wiki/ドリームワークス出版 "wikilink")、撮影：[山岸伸](https://ja.wikipedia.org/wiki/山岸伸 "wikilink")）ISBN 978-4886180551
+  - 素肌のままで（1992年10月15日、[ドリームワークス出版](https://ja.wikipedia.org/wiki/ドリームワークス出版 "wikilink")、撮影：[山岸伸](../Page/山岸伸.md "wikilink")）ISBN 978-4886180551
 
 ## 脚注
 
@@ -75,7 +75,7 @@
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ミス日本出場者](https://ja.wikipedia.org/wiki/Category:ミス日本出場者 "wikilink")
 
-1.  [本橋信宏](../Page/本橋信宏.md "wikilink")「村西とおるを奪い合ったAV女優たち」『[新潮45](https://ja.wikipedia.org/wiki/新潮45 "wikilink")』2006年6月号
+1.  [本橋信宏](../Page/本橋信宏.md "wikilink")「村西とおるを奪い合ったAV女優たち」『[新潮45](../Page/新潮45.md "wikilink")』2006年6月号
 2.  『新潮45』2006年6月号
 3.  「ビデオ・ザ・ワールド」　1992年11月号　[白夜書房](../Page/白夜書房.md "wikilink")　pp.56-58。
 4.  「ビデオ・ザ・ワールド」　1993年9月号　白夜書房　pp.54-55。

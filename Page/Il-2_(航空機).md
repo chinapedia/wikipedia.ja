@@ -1,7 +1,7 @@
 > この記事は[Il-2 \(\)](https://ja.wikipedia.org/wiki/Il-2_\(\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称= Il-2 | 画像=<File:Il2> sturmovik.jpg | キャプション=飛行するIl-2M3 | 用途= [攻撃機](../Page/攻撃機.md "wikilink")（[シュトゥルモヴィーク](../Page/シュトゥルモヴィーク.md "wikilink")） | 分類= | 設計者= [セルゲーイ・ウラジーミロヴィチ・イリユーシン](https://ja.wikipedia.org/wiki/セルゲイ・イリューシン "wikilink") | 製造者= [イリユーシン設計局](https://ja.wikipedia.org/wiki/S・V・イリユーシン記念航空複合体 "wikilink") | 運用者= ソビエト連邦など | 初飛行年月日= [1939年](../Page/1939年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") | 生産数= 36,183機 | 生産開始年月日= [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink") | 運用開始年月日= 1941年 | 退役年月日= [1954年](../Page/1954年.md "wikilink")（ユーゴスラビア、ブルガリア） | 運用状況=退役 | ユニットコスト= }} **Il-2**（[露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>イール・ドヴァー</small>、*Ilyushin Il-2* ）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[イリユーシン設計局が開発し](https://ja.wikipedia.org/wiki/S・V・イリユーシン記念航空複合体 "wikilink")、[ソ連空軍などで運用された](../Page/赤色空軍.md "wikilink")[攻撃機](../Page/攻撃機.md "wikilink")（[襲撃機](https://ja.wikipedia.org/wiki/襲撃機 "wikilink")）。
+{{ Infobox 航空機 | 名称= Il-2 | 画像=<File:Il2> sturmovik.jpg | キャプション=飛行するIl-2M3 | 用途= [攻撃機](../Page/攻撃機.md "wikilink")（[シュトゥルモヴィーク](../Page/シュトゥルモヴィーク.md "wikilink")） | 分類= | 設計者= [セルゲーイ・ウラジーミロヴィチ・イリユーシン](https://ja.wikipedia.org/wiki/セルゲイ・イリューシン "wikilink") | 製造者= [イリユーシン設計局](../Page/S・V・イリユーシン記念航空複合体.md "wikilink") | 運用者= ソビエト連邦など | 初飛行年月日= [1939年](../Page/1939年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") | 生産数= 36,183機 | 生産開始年月日= [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink") | 運用開始年月日= 1941年 | 退役年月日= [1954年](../Page/1954年.md "wikilink")（ユーゴスラビア、ブルガリア） | 運用状況=退役 | ユニットコスト= }} **Il-2**（[露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>イール・ドヴァー</small>、*Ilyushin Il-2* ）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[イリユーシン設計局が開発し](../Page/S・V・イリユーシン記念航空複合体.md "wikilink")、[ソ連空軍などで運用された](../Page/赤色空軍.md "wikilink")[攻撃機](../Page/攻撃機.md "wikilink")（[襲撃機](https://ja.wikipedia.org/wiki/襲撃機 "wikilink")）。
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")において、[ソ連軍の主力対地攻撃機として使用された](../Page/赤軍.md "wikilink")。各形式を合わせての総生産機数は36,163機で、これは軍用機史上最多である。乗組員の中では大変人気があり、あるパイロットはこの航空機に捧げる歌を作曲した。\[1\]
 
@@ -13,25 +13,25 @@
 
 ## 設計
 
-装甲軍用機自体は第一次大戦中にすでに追求されている。ただしエンジン出力が貧弱、[装甲](https://ja.wikipedia.org/wiki/装甲 "wikilink")に重量を取られ、完成した機体は鈍重で運動性能が非常に低かった。このため、[実用](https://ja.wikipedia.org/wiki/実用 "wikilink")レベルに達したものはごくわずかであった。
+装甲軍用機自体は第一次大戦中にすでに追求されている。ただしエンジン出力が貧弱、[装甲](../Page/装甲.md "wikilink")に重量を取られ、完成した機体は鈍重で運動性能が非常に低かった。このため、[実用](https://ja.wikipedia.org/wiki/実用 "wikilink")レベルに達したものはごくわずかであった。
 
 ソ連において、装甲された攻撃機の開発は[1920年代](../Page/1920年代.md "wikilink")半ばから開始された。[ポリカールポフ R-5を改修したTsKB](https://ja.wikipedia.org/wiki/R-5_\(航空機・ソビエト連邦\) "wikilink")-6、改良型のTSh-2、[1933年](../Page/1933年.md "wikilink")には低翼単葉固定脚のTSh-3が作られた。[1938年](../Page/1938年.md "wikilink")2月、セルゲイ・イリューシンは装甲を備えた新しい攻撃機の設計案を提示した。彼のアイデアは認められ、原形機3機の製作が指示された。
 
-Il-2は複座型として開発が開始された。イリューシンは、Il-2の胴体のほぼ前半分を[鋼](../Page/鋼.md "wikilink")板で作った。機体の外板そのものが[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")兼装甲であり、骨格構造、外板、防漏ゴム、装甲板を省略できた。これにより軽量化を図っている。このような装甲板が作れたのは、[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")が可能な[高張力鋼](../Page/高張力鋼.md "wikilink")が開発されたからである。設計が進むにつれ、重量増と[航続力の不足から仕様を単座に変更した](https://ja.wikipedia.org/wiki/航続距離 "wikilink")。装甲厚はエンジン前部が6 mm、エンジン側面が4 mm、[コックピット](https://ja.wikipedia.org/wiki/コックピット "wikilink")側面が6 mm（後に8 mmに増強）、[操縦席](../Page/操縦席.md "wikilink")背面が12 mmであり、これらの装甲の重量は700 kgを超えた。イリューシンはこの装甲部分にエンジン、[冷却器](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")、燃料タンク、配線、補機類、[パイロットを配置した](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。操縦席の背中と座席下と計器盤の前に燃料タンクが配置されており、パイロットは燃料に包囲されて飛んでいる状態であった。
+Il-2は複座型として開発が開始された。イリューシンは、Il-2の胴体のほぼ前半分を[鋼](../Page/鋼.md "wikilink")板で作った。機体の外板そのものが[モノコック](../Page/モノコック.md "wikilink")兼装甲であり、骨格構造、外板、防漏ゴム、装甲板を省略できた。これにより軽量化を図っている。このような装甲板が作れたのは、[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")が可能な[高張力鋼](../Page/高張力鋼.md "wikilink")が開発されたからである。設計が進むにつれ、重量増と[航続力の不足から仕様を単座に変更した](../Page/航続距離.md "wikilink")。装甲厚はエンジン前部が6 mm、エンジン側面が4 mm、[コックピット](https://ja.wikipedia.org/wiki/コックピット "wikilink")側面が6 mm（後に8 mmに増強）、[操縦席](../Page/操縦席.md "wikilink")背面が12 mmであり、これらの装甲の重量は700 kgを超えた。イリューシンはこの装甲部分にエンジン、[冷却器](../Page/ラジエーター.md "wikilink")、燃料タンク、配線、補機類、[パイロットを配置した](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。操縦席の背中と座席下と計器盤の前に燃料タンクが配置されており、パイロットは燃料に包囲されて飛んでいる状態であった。
 
-冷却機構は特徴的で、冷却用空気は被弾確率の低いエンジン上面の[吸気口から導入され](../Page/エアインテーク.md "wikilink")、ダクトを通じて胴体内の冷却器を通り、胴体下方へ排出される。ただし冷却能力は不足気味であり、[滑油冷却器](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")（[オイルクーラー](https://ja.wikipedia.org/wiki/オイルクーラー "wikilink")）は胴体に設置できず、装甲したうえで胴体下面に設置された。
+冷却機構は特徴的で、冷却用空気は被弾確率の低いエンジン上面の[吸気口から導入され](../Page/エアインテーク.md "wikilink")、ダクトを通じて胴体内の冷却器を通り、胴体下方へ排出される。ただし冷却能力は不足気味であり、[滑油冷却器](../Page/エンジンオイル.md "wikilink")（[オイルクーラー](https://ja.wikipedia.org/wiki/オイルクーラー "wikilink")）は胴体に設置できず、装甲したうえで胴体下面に設置された。
 
-Il-2の胴体後半と垂直尾翼は[ジュラルミン](../Page/ジュラルミン.md "wikilink")不足のため[木材](../Page/木材.md "wikilink")や[デルタ合板](https://ja.wikipedia.org/wiki/デルタ合板 "wikilink")を使用した。なお大戦後期には、供給量の増加したジュラルミンでおきかえ、約100 kgの重量軽減に成功した胴体部品も作られたが、[生産ラインの関係から大戦中これを採用した機体は作られず](../Page/ライン生産方式.md "wikilink")、戦後にデルタ合板製胴体から換装するパーツとして使われている。
+Il-2の胴体後半と垂直尾翼は[ジュラルミン](../Page/ジュラルミン.md "wikilink")不足のため[木材](../Page/木材.md "wikilink")や[デルタ合板](../Page/デルタ合板.md "wikilink")を使用した。なお大戦後期には、供給量の増加したジュラルミンでおきかえ、約100 kgの重量軽減に成功した胴体部品も作られたが、[生産ラインの関係から大戦中これを採用した機体は作られず](../Page/ライン生産方式.md "wikilink")、戦後にデルタ合板製胴体から換装するパーツとして使われている。
 
-主翼は38.5平方メートルと、[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")並みに巨大な翼面積を持つ。これは大重量の機体を飛ばすためである。改修により、[重心](../Page/重心.md "wikilink")位置を後退させてバランスをとる必要が生じたため、イリューシンは外翼に後退角を持たせた。大きな主翼と重量のため、本機の[ローリング](https://ja.wikipedia.org/wiki/ローリング "wikilink")性能や高速性能は決して良くなかった。[爆弾槽](https://ja.wikipedia.org/wiki/爆弾槽 "wikilink")はこの翼内部に設けられた。100 kg爆弾を専用に用い、最大搭載量は600 kgである。さらに翼内に[ShVAK 20mm機関砲](https://ja.wikipedia.org/wiki/ShVAK_\(機関砲\) "wikilink")2門、[ShKAS 7.62mm機銃](https://ja.wikipedia.org/wiki/ShKAS_\(機関銃\) "wikilink")2丁を備えた。後に機関砲が武装強化され、[VYa-23 23 mm機関砲に換装された](https://ja.wikipedia.org/wiki/VYa-23_\(機関砲\) "wikilink")。[主脚は後方引き込み式であり](https://ja.wikipedia.org/wiki/降着装置 "wikilink")、格納後もタイヤの一部がフェアリングの外にはみ出していた。これは不時着時に機体の損傷を抑えるためである。主脚の作動には[空気圧](https://ja.wikipedia.org/wiki/空気圧 "wikilink")・または手動を用いた。なお後退角のついた外翼部は[試作型では全ジュラルミン製](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")、量産型では木製桁に合板張り、後に金属桁にデルタ合板張り、材料の供給が安定した後期には全ジュラルミン製に戻っている。
+主翼は38.5平方メートルと、[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")並みに巨大な翼面積を持つ。これは大重量の機体を飛ばすためである。改修により、[重心](../Page/重心.md "wikilink")位置を後退させてバランスをとる必要が生じたため、イリューシンは外翼に後退角を持たせた。大きな主翼と重量のため、本機の[ローリング](https://ja.wikipedia.org/wiki/ローリング "wikilink")性能や高速性能は決して良くなかった。[爆弾槽](https://ja.wikipedia.org/wiki/爆弾槽 "wikilink")はこの翼内部に設けられた。100 kg爆弾を専用に用い、最大搭載量は600 kgである。さらに翼内に[ShVAK 20mm機関砲](https://ja.wikipedia.org/wiki/ShVAK_\(機関砲\) "wikilink")2門、[ShKAS 7.62mm機銃](https://ja.wikipedia.org/wiki/ShKAS_\(機関銃\) "wikilink")2丁を備えた。後に機関砲が武装強化され、[VYa-23 23 mm機関砲に換装された](https://ja.wikipedia.org/wiki/VYa-23_\(機関砲\) "wikilink")。[主脚は後方引き込み式であり](../Page/降着装置.md "wikilink")、格納後もタイヤの一部がフェアリングの外にはみ出していた。これは不時着時に機体の損傷を抑えるためである。主脚の作動には[空気圧](https://ja.wikipedia.org/wiki/空気圧 "wikilink")・または手動を用いた。なお後退角のついた外翼部は[試作型では全ジュラルミン製](../Page/プロトタイプ.md "wikilink")、量産型では木製桁に合板張り、後に金属桁にデルタ合板張り、材料の供給が安定した後期には全ジュラルミン製に戻っている。
 
-エンジンには[AM-34FRN](https://ja.wikipedia.org/wiki/ミクーリン_AM-34 "wikilink")、後に[AM-35が用いられた](https://ja.wikipedia.org/wiki/ミクーリン_AM-35 "wikilink")。これは離昇出力1,350馬力の[液冷エンジン](https://ja.wikipedia.org/wiki/液冷エンジン "wikilink")であり、[1939年](../Page/1939年.md "wikilink")10月2日に初飛行した。さらに[1940年](../Page/1940年.md "wikilink")10月には低空での出力を増強した[AM-38](https://ja.wikipedia.org/wiki/ミクーリン_AM-38 "wikilink")（離昇出力1,600馬力）が装備され、初飛行した。全備重量6トンの屈強な襲撃機の完成であった。
+エンジンには[AM-34FRN](https://ja.wikipedia.org/wiki/ミクーリン_AM-34 "wikilink")、後に[AM-35が用いられた](https://ja.wikipedia.org/wiki/ミクーリン_AM-35 "wikilink")。これは離昇出力1,350馬力の[液冷エンジン](../Page/液冷エンジン.md "wikilink")であり、[1939年](../Page/1939年.md "wikilink")10月2日に初飛行した。さらに[1940年](../Page/1940年.md "wikilink")10月には低空での出力を増強した[AM-38](https://ja.wikipedia.org/wiki/ミクーリン_AM-38 "wikilink")（離昇出力1,600馬力）が装備され、初飛行した。全備重量6トンの屈強な襲撃機の完成であった。
 
 ## 運用と改良
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:World_operators_of_the_Il-2.png "wikilink") 量産初期のIl-2は軽量化のため、試作型TsKB-55にはあった銃手席を廃した単座機であったが、後方機銃がないことから敵戦闘機に反撃できず損失が激しかった。このため前線部隊では後方に向けた固定機銃を装着したり、時限信管付きの迫撃砲を撃てるようにした機体もあった。そこで改良が行われ、装甲を強化、複座化し、12.7mm後方機銃を装備した**Il-2M**（****）が生産された。生産ラインの変更、重量増、重心位置の移動の改設計などの手間から、全周防御が施され特に背面は12mmの装甲で守られた操縦席に対し、銃手席は後方からの銃撃から胸から下を守る6mm厚の限定的な装甲しか施されなかった。このため銃手の死傷率はパイロットの数倍に達した。完全な装甲防御の施されたタイプは戦争も末期になってからでなければ登場しなかった。
 
-その後、主翼に途中から後退角がつけられた**Il-2M3**（****）、37mm[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")や45mm機関砲を翼下ポッドに搭載した重対[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")シュトゥルモヴィーク型、[魚雷](../Page/魚雷.md "wikilink")を搭載する[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")型、エンジンを変更した機体など、多くの派生型が開発・生産された。なお、Il-2MやIl-2M3等の名称は正式なものではなく、型を区別しやすくする為に後世に付けられたものである。
+その後、主翼に途中から後退角がつけられた**Il-2M3**（****）、37mm[機関砲](../Page/機関砲.md "wikilink")や45mm機関砲を翼下ポッドに搭載した重対[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")シュトゥルモヴィーク型、[魚雷](../Page/魚雷.md "wikilink")を搭載する[雷撃機](../Page/雷撃機.md "wikilink")型、エンジンを変更した機体など、多くの派生型が開発・生産された。なお、Il-2MやIl-2M3等の名称は正式なものではなく、型を区別しやすくする為に後世に付けられたものである。
 
 戦後は[ポーランド](../Page/ポーランド.md "wikilink")、[ユーゴスラヴィア](../Page/ユーゴスラビア.md "wikilink")、[チェコスロヴァキア](https://ja.wikipedia.org/wiki/チェコスロヴァキア "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")などいくつかの国で使用されたが、多くの国では後継型の[Il-10で代替され](../Page/Il-10_\(航空機\).md "wikilink")[1950年代](../Page/1950年代.md "wikilink")には退役した。また、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")でも[中華人民共和国](../Page/中華人民共和国.md "wikilink")義勇軍機や[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")軍機として使用された。
 
@@ -272,7 +272,7 @@ Il-2と後継機のIl-10は、合わせて10759機が戦闘で失われたもの
 <td><p>1072932</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Ilyushin_Il-2_in_Samara_2018.jpg" title="fig:Ilyushin_Il-2_in_Samara_2018.jpg">Ilyushin_Il-2_in_Samara_2018.jpg</a></p></td>
 <td><p>ロシア サマーラ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サマーラ" title="wikilink">サマーラ</a>市の<a href="https://ja.wikipedia.org/wiki/:ru:Памятник_штурмовику_Ил-2_(Самара)" title="wikilink">Il-2記念碑</a></p></td>
+<td><p><a href="../Page/サマーラ.md" title="wikilink">サマーラ</a>市の<a href="https://ja.wikipedia.org/wiki/:ru:Памятник_штурмовику_Ил-2_(Самара)" title="wikilink">Il-2記念碑</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>旧塗装<a href="https://ja.wikipedia.org/wiki/File:IL-2_samara.jpg" title="fig:IL-2_samara.jpg">IL-2_samara.jpg</a>1943年にカレリア上空で撃破され、重傷を負ったパイロットのK.コトリャロヴスキーの操縦でオリヤルビ湖の近くに墜落した機体。</p></td>
@@ -324,7 +324,7 @@ Il-2と後継機のIl-10は、合わせて10759機が戦闘で失われたもの
 <td></td>
 <td><p><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQpZAhtnm218Wx7yRXYi_oxIeFZslG_jNV6y4411wjGpbwRzUj">写真</a></p></td>
 <td><p>アメリカ メリーランド州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立航空宇宙博物館" title="wikilink">国立航空宇宙博物館</a>ポール・E・ガーバー施設</p></td>
+<td><p><a href="../Page/国立航空宇宙博物館.md" title="wikilink">国立航空宇宙博物館</a>ポール・E・ガーバー施設</p></td>
 <td><p>非公開</p></td>
 <td><p>修復中</p></td>
 <td></td>
@@ -354,7 +354,7 @@ Il-2と後継機のIl-10は、合わせて10759機が戦闘で失われたもの
 <td></td>
 <td><p><a href="https://club.foto.ru/gallery/images/photo/2011/11/11/1877253.jpg">写真</a></p></td>
 <td><p>ロシア ヴァローニェジ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴォロネジ" title="wikilink">ヴァローニェジ市</a></p></td>
+<td><p><a href="../Page/ヴォロネジ.md" title="wikilink">ヴァローニェジ市</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -409,7 +409,7 @@ Il-2と後継機のIl-10は、合わせて10759機が戦闘で失われたもの
   - [Su-2](https://ja.wikipedia.org/wiki/Su-2_\(航空機\) "wikilink")
   - [Su-6](../Page/Su-6_\(航空機\).md "wikilink")
   - [Il-10](../Page/Il-10_\(航空機\).md "wikilink")
-  - [IL-2 Sturmovik](https://ja.wikipedia.org/wiki/IL-2_Sturmovik "wikilink") - コンバット[フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")ゲーム。IL-2以外の機体も選択できる。
+  - [IL-2 Sturmovik](../Page/IL-2_Sturmovik.md "wikilink") - コンバット[フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")ゲーム。IL-2以外の機体も選択できる。
 
 ## 外部リンク
 

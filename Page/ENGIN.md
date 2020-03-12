@@ -1,13 +1,13 @@
 > この記事は[ENGIN](https://ja.wikipedia.org/wiki/ENGIN)から翻訳されています。
 
 
-**GM ENGIN\#9**（**ジーエム・エンジン・ナンバー・ナイン**、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月25日](../Page/4月25日.md "wikilink") - 本名：藤田尚弘(ふじたたかひろ / Takahiro Fujita)）は、プロ[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")・[俳優](../Page/俳優.md "wikilink")・[フォトグラファー](../Page/写真家.md "wikilink")・[デザイナー](../Page/ファッションデザイナー.md "wikilink")・[Webデザイナー](https://ja.wikipedia.org/wiki/Webデザイナー "wikilink")。[Street Level New Yorkのオーナーデザイナー](https://ja.wikipedia.org/wiki/Street_Level_New_York "wikilink")。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[舞鶴市](../Page/舞鶴市.md "wikilink")出身。2014年より本格的に俳優業を再開。
+**GM ENGIN\#9**（**ジーエム・エンジン・ナンバー・ナイン**、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月25日](../Page/4月25日.md "wikilink") - 本名：藤田尚弘(ふじたたかひろ / Takahiro Fujita)）は、プロ[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")・[俳優](../Page/俳優.md "wikilink")・[フォトグラファー](../Page/写真家.md "wikilink")・[デザイナー](../Page/ファッションデザイナー.md "wikilink")・[Webデザイナー](https://ja.wikipedia.org/wiki/Webデザイナー "wikilink")。[Street Level New Yorkのオーナーデザイナー](https://ja.wikipedia.org/wiki/Street_Level_New_York "wikilink")。[京都府](../Page/京都府.md "wikilink")[舞鶴市](../Page/舞鶴市.md "wikilink")出身。2014年より本格的に俳優業を再開。
 
 ## 略歴
 
-1993年単身[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")へ渡米。中心地、[タイムズスクエア](https://ja.wikipedia.org/wiki/タイムズスクエア "wikilink")を中心に活動する、[ストリートダンス](https://ja.wikipedia.org/wiki/ストリートダンス "wikilink")チーム"Bronx Breeze Team"のメンバーとして、本物の[ストリートパフォーマーとして活動を開始](../Page/大道芸.md "wikilink")。 国内唯一の[B-boy](https://ja.wikipedia.org/wiki/B-boy "wikilink")世界大会「[Dance Dynamite World Grand Prix](https://ja.wikipedia.org/wiki/Dance_Dynamite_World_Grand_Prix "wikilink")」の立ち上げから参加し、[チーフディレクターとして大会運営に深く関わる](../Page/ディレクター.md "wikilink")。
+1993年単身[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ渡米。中心地、[タイムズスクエア](../Page/タイムズスクエア.md "wikilink")を中心に活動する、[ストリートダンス](../Page/ストリートダンス.md "wikilink")チーム"Bronx Breeze Team"のメンバーとして、本物の[ストリートパフォーマーとして活動を開始](../Page/大道芸.md "wikilink")。 国内唯一の[B-boy](https://ja.wikipedia.org/wiki/B-boy "wikilink")世界大会「[Dance Dynamite World Grand Prix](https://ja.wikipedia.org/wiki/Dance_Dynamite_World_Grand_Prix "wikilink")」の立ち上げから参加し、[チーフディレクターとして大会運営に深く関わる](../Page/ディレクター.md "wikilink")。
 
-アメリカの[3大ネットワークTV](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\) "wikilink")、「[ABC TV](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")」の番組にも取り上げられる。その後、[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")チーム「Full Circle」の立ち上げメンバーとして参加。パートナーであるLockin' ダンサー Bam Bamと共に1996年に、Lockin'\&Popin'スタイルのダンスチーム「Soul Majestic」を結成。1997年、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")でThe Breaksで有名な[Kurtis Blow](https://ja.wikipedia.org/wiki/:en:Wikipedia:Kurtis_Blow "wikilink")、[New York City Breakersと共にバックダンサーとしてパフォーマンス](https://ja.wikipedia.org/wiki/:en:Wikipedia:New_York_City_Breakers "wikilink")。1998年、New York City Breakersに日本人初の正式メンバーとしてメンバー入り。その他に数々のパフォーマンス、TV等に出演。HIP-HOPカルチャーを作り上げてきたGrandmaster Kaz([DJ](../Page/ディスクジョッキー.md "wikilink"))やLee（グラフィティーライター）等などのオリジネイター達から「You are HIP-HOP」と呼ばれ「HIP-HOP」の称号を受ける。
+アメリカの[3大ネットワークTV](../Page/ネットワーク_\(放送\).md "wikilink")、「[ABC TV](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")」の番組にも取り上げられる。その後、[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")チーム「Full Circle」の立ち上げメンバーとして参加。パートナーであるLockin' ダンサー Bam Bamと共に1996年に、Lockin'\&Popin'スタイルのダンスチーム「Soul Majestic」を結成。1997年、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")でThe Breaksで有名な[Kurtis Blow](https://ja.wikipedia.org/wiki/:en:Wikipedia:Kurtis_Blow "wikilink")、[New York City Breakersと共にバックダンサーとしてパフォーマンス](https://ja.wikipedia.org/wiki/:en:Wikipedia:New_York_City_Breakers "wikilink")。1998年、New York City Breakersに日本人初の正式メンバーとしてメンバー入り。その他に数々のパフォーマンス、TV等に出演。HIP-HOPカルチャーを作り上げてきたGrandmaster Kaz([DJ](../Page/ディスクジョッキー.md "wikilink"))やLee（グラフィティーライター）等などのオリジネイター達から「You are HIP-HOP」と呼ばれ「HIP-HOP」の称号を受ける。
 
 ダンサーのみならず、役者として1995年にアメリカインディペンデント映画祭サンダンスに正式出品された作品「Sleepy Heads」に出演。\[1\]その後Off Off Broadwayミュージカル「February」や東京ローカル番組「NY語」などに出演。
 
@@ -19,7 +19,7 @@
 
 2007年、本拠地を[名古屋へ移し](../Page/名古屋市.md "wikilink")、ダンス活動も本格化。 名古屋の若手ダンサー達とコラボレーションを行い、クリエイティブダンスユニット「[N.E.C.](https://ja.wikipedia.org/wiki/N.E.C. "wikilink")([Nagoya Electric Complex](https://ja.wikipedia.org/wiki/Nagoya_Electric_Complex "wikilink"))」を結成し「[DMC Japan](https://ja.wikipedia.org/wiki/DMC_Japan "wikilink") 2007東海地区大会」にて、パフォーマンスを行う。 ENGIN\#9自身初となるMIX CD「Take Steps Towards Street Level」を発売。 B-boyの世界大会「Dance Dynamite World Grand Prix」のチーフディレクターとして大会の立ち上げに参加。
 
-2008年 4月 [Zepp Nagoyaにて行われたイベント](https://ja.wikipedia.org/wiki/Zepp "wikilink")「Big Wave」にて「N.E.C.」としてダンスパフォーマンスを行う。5月「N.E.C.」にて、昨年に引き続き「DMC Japan 2008東海地区大会」にて、パフォーマンスを行う。6月　ストリートブランド「[Street Level New York](https://ja.wikipedia.org/wiki/Street_Level_New_York "wikilink")」を本格的に再リリースをスタート。 10月 「Dance Dynamite World Grand Prix」のチーフディレクターとして参加。
+2008年 4月 [Zepp Nagoyaにて行われたイベント](../Page/Zepp.md "wikilink")「Big Wave」にて「N.E.C.」としてダンスパフォーマンスを行う。5月「N.E.C.」にて、昨年に引き続き「DMC Japan 2008東海地区大会」にて、パフォーマンスを行う。6月　ストリートブランド「[Street Level New York](https://ja.wikipedia.org/wiki/Street_Level_New_York "wikilink")」を本格的に再リリースをスタート。 10月 「Dance Dynamite World Grand Prix」のチーフディレクターとして参加。
 
 2009年 10月 「Dance Dynamite World Grand Prix」のチーフディレクターとして参加。
 
@@ -27,7 +27,7 @@
 
 2011年 1月「[Phat Field Creaters](https://ja.wikipedia.org/wiki/Phat_Field_Creaters "wikilink")」を立ち上げて独立し、デザイナー・ダンサーとしてその活動範囲を広げる。
 
-2012年4月より、[瀬戸市](../Page/瀬戸市.md "wikilink")に所在地を置く[コミュニティFM](../Page/コミュニティ放送.md "wikilink")「[RADIO SANQ](https://ja.wikipedia.org/wiki/尾張東部放送 "wikilink")」において「[O.G. RADIO PROGRAM TRIPLE9](https://ja.wikipedia.org/wiki/O.G._RADIO_PROGRAM_TRIPLE9 "wikilink")」のパーソナリティとして、1時間の生番組を担当。
+2012年4月より、[瀬戸市](../Page/瀬戸市.md "wikilink")に所在地を置く[コミュニティFM](../Page/コミュニティ放送.md "wikilink")「[RADIO SANQ](../Page/尾張東部放送.md "wikilink")」において「[O.G. RADIO PROGRAM TRIPLE9](https://ja.wikipedia.org/wiki/O.G._RADIO_PROGRAM_TRIPLE9 "wikilink")」のパーソナリティとして、1時間の生番組を担当。
 
 2012年4月より、[尾張旭市](../Page/尾張旭市.md "wikilink")に所在地を置く、ダンススタジオ「[Brave Courage](https://ja.wikipedia.org/wiki/Brave_Courage "wikilink") ブレイブカレッジ」において、ダンスレッスン「ADVANCED BASIC for STREET DANCE」を開講。
 

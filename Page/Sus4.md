@@ -1,7 +1,7 @@
 > この記事は[Sus4](https://ja.wikipedia.org/wiki/Sus4)から翻訳されています。
 
 
-**sus4**（サスフォー）は、[東京少年少女合唱隊](https://ja.wikipedia.org/wiki/東京少年少女合唱隊 "wikilink")や[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")で活躍していた[根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink")と[太田美帆](https://ja.wikipedia.org/wiki/太田美帆 "wikilink")の2人による女性[デュオ](https://ja.wikipedia.org/wiki/二人組 "wikilink")。
+**sus4**（サスフォー）は、[東京少年少女合唱隊](https://ja.wikipedia.org/wiki/東京少年少女合唱隊 "wikilink")や[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")で活躍していた[根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink")と[太田美帆](https://ja.wikipedia.org/wiki/太田美帆 "wikilink")の2人による女性[デュオ](../Page/二人組.md "wikilink")。
 
 美しいハーモニーを持つsus4は聖歌をベースにしつつ自らのオリジナルナンバーも作っていた。一方で、テレビアニメの主題歌やCMの歌などで活躍していた。[2000年](../Page/2000年.md "wikilink")に解散。
 
@@ -29,13 +29,13 @@ sus"**4**"というグループ名なのは、最初期メンバーは4人であ
 
 ### シングル
 
-  - Good Fine Everyday / 星の声（1997年、1998年） - アニメ『[フォーチュン・クエストL](https://ja.wikipedia.org/wiki/フォーチュン・クエストL "wikilink")』主題歌、エンディング。Mioによる作詞・作曲。フォーチュン・クエストLのサントラ盤にも収録されている。
+  - Good Fine Everyday / 星の声（1997年、1998年） - アニメ『[フォーチュン・クエストL](../Page/フォーチュン・クエストL.md "wikilink")』主題歌、エンディング。Mioによる作詞・作曲。フォーチュン・クエストLのサントラ盤にも収録されている。
   - 詠人/プリン賛歌（1998年） - アニメ『[おじゃる丸](../Page/おじゃる丸.md "wikilink")』オープニング（[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")による）、エンディング
-  - 銀色のエトワール（2000年） - アニメ『[ファーブル先生は名探偵](https://ja.wikipedia.org/wiki/ファーブル先生は名探偵 "wikilink")』エンディング
+  - 銀色のエトワール（2000年） - アニメ『[ファーブル先生は名探偵](../Page/ファーブル先生は名探偵.md "wikilink")』エンディング
 
 ### CM
 
-  - [キリンレモン](https://ja.wikipedia.org/wiki/キリンレモン "wikilink")
+  - [キリンレモン](../Page/キリンレモン.md "wikilink")
   - [サッポロ一番](../Page/サンヨー食品.md "wikilink")
 
 ### その他

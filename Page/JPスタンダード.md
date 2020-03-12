@@ -3,7 +3,7 @@
 
 **JPスタンダード**（ジェイピースタンダード）は、[HFM(広島エフエム)で放送されている音楽情報](../Page/広島エフエム放送.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。2003年10月スタート。**JP**は[J-POP](../Page/J-POP.md "wikilink")を意味していて、毎回一人（組）のJ-POPアーティストを特集する。基本的には、そのアーティストの音楽を流し、アーティストへのインタビューという構成となっている。
 
-これまで、数多くのアーティストが取り上げられた。[坂本龍一](../Page/坂本龍一.md "wikilink")へのインタビューも放送されたことがある。2005年3月までの日曜日放送の頃は、HFMで当時放送されていた[MUSIC MANIA](https://ja.wikipedia.org/wiki/ミュージック・マニア "wikilink")（後番組「[キムラミチタのVibe ON\! MUSIC](https://ja.wikipedia.org/wiki/キムラミチタのVibe_ON!_MUSIC "wikilink")」）にその週ゲスト出演したアーティストへのインタビューが殆どだった。初代ナビゲーターの[清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "wikilink")は、この番組開始前の2003年9月30日まで「MUSIC MANIA」の月・火曜日を担当していた。
+これまで、数多くのアーティストが取り上げられた。[坂本龍一](../Page/坂本龍一.md "wikilink")へのインタビューも放送されたことがある。2005年3月までの日曜日放送の頃は、HFMで当時放送されていた[MUSIC MANIA](../Page/ミュージック・マニア.md "wikilink")（後番組「[キムラミチタのVibe ON\! MUSIC](../Page/キムラミチタのVibe_ON!_MUSIC.md "wikilink")」）にその週ゲスト出演したアーティストへのインタビューが殆どだった。初代ナビゲーターの[清野茂樹](../Page/清野茂樹.md "wikilink")は、この番組開始前の2003年9月30日まで「MUSIC MANIA」の月・火曜日を担当していた。
 
 ## 放送時間
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    この番組以外では「[GOOD MORNING](https://ja.wikipedia.org/wiki/GOOD_MORNING_\(広島エフエム放送\) "wikilink")」を担当していたが、2005年9月29日に終了。2005年12月末をもって退職した。
+    この番組以外では「[GOOD MORNING](../Page/GOOD_MORNING_\(広島エフエム放送\).md "wikilink")」を担当していたが、2005年9月29日に終了。2005年12月末をもって退職した。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    この番組以外では「[サンフレッチェ・ラジオ・サポーターズクラブ “GOA〜L”](https://ja.wikipedia.org/wiki/サンフレッチェ・ラジオ・サポーターズクラブ_“GOA〜L” "wikilink")」を担当していた（2009年3月まで）。
+    この番組以外では「[サンフレッチェ・ラジオ・サポーターズクラブ “GOA〜L”](../Page/サンフレッチェ・ラジオ・サポーターズクラブ_“GOA〜L”.md "wikilink")」を担当していた（2009年3月まで）。
 
 <!-- end list -->
 

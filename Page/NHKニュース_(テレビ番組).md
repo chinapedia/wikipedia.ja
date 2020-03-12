@@ -1,7 +1,7 @@
 > この記事は[NHK \(\)](https://ja.wikipedia.org/wiki/NHK_\(\))から翻訳されています。
 
 
-『**NHKニュース**』および『**NHK NEWS**』（読みはいずれも、エヌエイチケイニュース）は[NHKのテレビ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[総合テレビを中心に放送](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。
+『**NHKニュース**』および『**NHK NEWS**』（読みはいずれも、エヌエイチケイニュース）は[NHKのテレビ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[総合テレビを中心に放送](../Page/NHK総合テレビジョン.md "wikilink")。
 
 ## 放送時間
 
@@ -43,7 +43,7 @@
 <tr class="odd">
 <td><p>9:00 - 9:05</p></td>
 <td><p>平日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国会中継" title="wikilink">国会中継</a>などで、8:55 - 9:00に繰り上げられることがある。</p></td>
+<td><p><a href="../Page/国会中継.md" title="wikilink">国会中継</a>などで、8:55 - 9:00に繰り上げられることがある。</p></td>
 </tr>
 <tr class="even">
 <td><p>10:00 - 10:05</p></td>
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p>土・日・祝</p></td>
-<td><p>日曜日の場合、『<a href="https://ja.wikipedia.org/wiki/日曜討論" title="wikilink">日曜討論</a>』が放送時間を拡大する際、時間変更・休止となる場合がある。</p></td>
+<td><p>日曜日の場合、『<a href="../Page/日曜討論.md" title="wikilink">日曜討論</a>』が放送時間を拡大する際、時間変更・休止となる場合がある。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -107,8 +107,8 @@
 </tr>
 <tr class="even">
 <td><p>20:45 - 20:55</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュース845" title="wikilink">土・日</a>・<br />
-月 - 金の祝日かつ『<a href="https://ja.wikipedia.org/wiki/ニュースウオッチ9" title="wikilink">ニュースウオッチ9</a>』休止日</p></td>
+<td><p><a href="../Page/ニュース845.md" title="wikilink">土・日</a>・<br />
+月 - 金の祝日かつ『<a href="../Page/ニュースウオッチ9.md" title="wikilink">ニュースウオッチ9</a>』休止日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -299,7 +299,7 @@
 <tr class="odd">
 <td><p>1984.04.02</p></td>
 <td><p>1985.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明石勇" title="wikilink">明石勇</a></p></td>
+<td><p><a href="../Page/明石勇.md" title="wikilink">明石勇</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985.04.01</p></td>
@@ -309,7 +309,7 @@
 <tr class="odd">
 <td><p>1985.07.01</p></td>
 <td><p>1989.04.02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/斎藤季夫" title="wikilink">斎藤季夫</a></p></td>
+<td><p><a href="../Page/斎藤季夫.md" title="wikilink">斎藤季夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1989.04.03</p></td>
@@ -334,7 +334,7 @@
 <tr class="even">
 <td><p>1993.04.05</p></td>
 <td><p>1994.04.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/末田正雄" title="wikilink">末田正雄</a></p></td>
+<td><p><a href="../Page/末田正雄.md" title="wikilink">末田正雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994.04.04</p></td>
@@ -344,7 +344,7 @@
 <tr class="even">
 <td><p>1995.04.03</p></td>
 <td><p>1996.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤淳_(NHKアナウンサー)" title="wikilink">佐藤淳</a></p></td>
+<td><p><a href="../Page/佐藤淳_(NHKアナウンサー).md" title="wikilink">佐藤淳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996.04.01</p></td>
@@ -354,12 +354,12 @@
 <tr class="even">
 <td><p>1998.03.30</p></td>
 <td><p>1999.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/畠山智之" title="wikilink">畠山智之</a></p></td>
+<td><p><a href="../Page/畠山智之.md" title="wikilink">畠山智之</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999.03.29</p></td>
 <td><p>2000.03.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田真一" title="wikilink">武田真一</a></p></td>
+<td><p><a href="../Page/武田真一.md" title="wikilink">武田真一</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000.03.27</p></td>
@@ -379,12 +379,12 @@
 <tr class="odd">
 <td><p>2004.03.29</p></td>
 <td><p>2005.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤井克典" title="wikilink">藤井克典</a></p></td>
+<td><p><a href="../Page/藤井克典.md" title="wikilink">藤井克典</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005.03.28</p></td>
 <td><p>2006.04.02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/登坂淳一" title="wikilink">登坂淳一</a></p></td>
+<td><p><a href="../Page/登坂淳一.md" title="wikilink">登坂淳一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006.04.03</p></td>
@@ -394,12 +394,12 @@
 <tr class="even">
 <td><p>2007.04.02</p></td>
 <td><p>2008.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷地健吾" title="wikilink">谷地健吾</a></p></td>
+<td><p><a href="../Page/谷地健吾.md" title="wikilink">谷地健吾</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.03.31</p></td>
 <td><p>2010.03.28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横尾泰輔" title="wikilink">横尾泰輔</a></p></td>
+<td><p><a href="../Page/横尾泰輔.md" title="wikilink">横尾泰輔</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010.03.29</p></td>
@@ -472,7 +472,7 @@
 
 2018年3月まで平日13時台は13:00 - 13:05に『NHKニュース』を放送し、その後から『[ごごナマ](https://ja.wikipedia.org/wiki/ごごナマ "wikilink")』を開始する体制を取っていた。しかし、同年4月から『ごごナマ』が13:00開始に変更\[19\]。これに伴い、平日13時枠の『NHKニュース』は13:01 - 13:06に繰り下げとなる\[20\]。
 
-  - [NHK放送文化研究所](https://ja.wikipedia.org/wiki/NHK放送文化研究所 "wikilink")主任研究員兼解説委員の[鈴木祐司](https://ja.wikipedia.org/wiki/鈴木祐司 "wikilink")は、『ごごナマ』の開始前に、「高視聴率を獲得するには、（視聴率にして）5%以上に相当する数の視聴者がいる朝ドラ再放送から直結させるべく、開始時刻を13:05ではなく13:00に設定した方が良い。13:00から『NHKニュース』を放送していては、視聴者を逃してしまう」と提言\[21\]。ただし、「NHK報道局の抵抗が大きいため、13:00スタートを実現させるのは簡単ではない」とも述べていた\[22\]。[美保純](https://ja.wikipedia.org/wiki/美保純 "wikilink")も、月 - 木曜日のMCを始めた際に、自身の[twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")公式アカウントに寄せられた「『ごごナマ』を13:05ではなく13:00開始にできないのか?」との質問・要望に対して、「ニュースがあるので、どうしてもそこが」と回答していた\[23\]。実際には、2018年度から13時台の『NHKニュース』を13:01から始めることによって、編成上朝ドラ再放送からの直結が実現した。
+  - [NHK放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")主任研究員兼解説委員の[鈴木祐司](https://ja.wikipedia.org/wiki/鈴木祐司 "wikilink")は、『ごごナマ』の開始前に、「高視聴率を獲得するには、（視聴率にして）5%以上に相当する数の視聴者がいる朝ドラ再放送から直結させるべく、開始時刻を13:05ではなく13:00に設定した方が良い。13:00から『NHKニュース』を放送していては、視聴者を逃してしまう」と提言\[21\]。ただし、「NHK報道局の抵抗が大きいため、13:00スタートを実現させるのは簡単ではない」とも述べていた\[22\]。[美保純](https://ja.wikipedia.org/wiki/美保純 "wikilink")も、月 - 木曜日のMCを始めた際に、自身の[twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")公式アカウントに寄せられた「『ごごナマ』を13:05ではなく13:00開始にできないのか?」との質問・要望に対して、「ニュースがあるので、どうしてもそこが」と回答していた\[23\]。実際には、2018年度から13時台の『NHKニュース』を13:01から始めることによって、編成上朝ドラ再放送からの直結が実現した。
   - 13時開始化後の『ごごナマ』において、第1部冒頭1分の終盤にMCの1人から「この後はニュースです」との振りがあり、さらにMCやゲストが担当アナウンサーに声を掛けることもある\[24\]。
 
 平日10時枠について、視聴者から『[くらし☆解説](https://ja.wikipedia.org/wiki/くらし☆解説 "wikilink")』に10時枠の『NHKニュース』を内包・統合し、『くらし☆解説』を10時開始にしたらどうかとの声も上がっている\[25\]。
@@ -495,7 +495,7 @@
 5.
 6.  『[選抜高校野球](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")』決勝戦が平日に行われる場合は『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』再放送が12:15 - 12:30に繰り上がるため、土曜・日曜・祝日に準じて12:10 - 12:15に繰り上げ放送。
 7.  例・茨城県を除く関東地方は[首都圏ニュース845](../Page/首都圏ニュース845.md "wikilink")。
-8.  2017年4月9日から同年7月9日までと同年10月1日から日曜は近畿ブロックのみ、不定期で[2か国語放送](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")を実施。
+8.  2017年4月9日から同年7月9日までと同年10月1日から日曜は近畿ブロックのみ、不定期で[2か国語放送](../Page/2か国語放送.md "wikilink")を実施。
 9.  首都圏センター、日本語センター所属アナウンサーは特例がない限り原則出演しない。
 10.
 11. [「朝ドラあけのアナウンサーの表情」のナゾ](https://www.excite.co.jp/News/bit/00091196698448.html),exciteコネタ,2007年12月6日

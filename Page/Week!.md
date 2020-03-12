@@ -5,9 +5,9 @@
 
 ## 内容
 
-  - 前作「[遠くまで](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink")」、「Week\!」、次回作「[深い森](https://ja.wikipedia.org/wiki/深い森 "wikilink")」と続く3ヶ月連続でのシングルリリースの第2弾。
+  - 前作「[遠くまで](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink")」、「Week\!」、次回作「[深い森](../Page/深い森.md "wikilink")」と続く3ヶ月連続でのシングルリリースの第2弾。
   - 表題曲は[TBS系列の](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[嫁はミツボシ。](../Page/嫁はミツボシ。.md "wikilink")』の主題歌。
-  - カップリング曲は[ギター](../Page/ギター.md "wikilink")の[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")が作詞・作曲・メインボーカルを務めた唯一の曲である。オリジナルアルバムに収録はされず、ベストアルバム『[Do The B-side](../Page/Do_The_B-side.md "wikilink")』にのみ収録された。
+  - カップリング曲は[ギター](../Page/ギター.md "wikilink")の[大渡亮](../Page/大渡亮.md "wikilink")が作詞・作曲・メインボーカルを務めた唯一の曲である。オリジナルアルバムに収録はされず、ベストアルバム『[Do The B-side](../Page/Do_The_B-side.md "wikilink")』にのみ収録された。
 
 ## 収録曲
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - 『[DEEP FOREST](https://ja.wikipedia.org/wiki/DEEP_FOREST "wikilink")』
+  - 『[DEEP FOREST](../Page/DEEP_FOREST.md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
@@ -47,7 +47,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第5弾。
+過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第5弾。
 
 ### 収録曲
 

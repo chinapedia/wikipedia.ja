@@ -1,7 +1,7 @@
 > この記事は[Classics One WHITE Christmas time](https://ja.wikipedia.org/wiki/Classics_One_WHITE_Christmas_time)から翻訳されています。
 
 
-「**Classics One WHITE Christmas time**」（クラシックス・ワン・ホワイト・クリスマス・タイム）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")のコンセプチュアル・[マキシシングル](../Page/シングル.md "wikilink")。
+「**Classics One WHITE Christmas time**」（クラシックス・ワン・ホワイト・クリスマス・タイム）は、[DEEN](../Page/DEEN.md "wikilink")のコンセプチュアル・[マキシシングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -16,10 +16,10 @@
 
 1.  **CHRISTMAS TIME 〜morning light〜**
       -
-        作曲：[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink") 編曲：池田大介
+        作曲：[山根公路](../Page/山根公路.md "wikilink") 編曲：池田大介
 2.  **Christmas time**
       -
-        作詞：[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink") 作曲：山根公路 編曲：池田大介/DEEN
+        作詞：[池森秀一](../Page/池森秀一.md "wikilink") 作曲：山根公路 編曲：池田大介/DEEN
 3.  **The Room**
       -
         作詞：池森秀一 作曲：[宇津本直紀](../Page/宇津本直紀.md "wikilink") 編曲：DEEN
@@ -28,10 +28,10 @@
         作曲：山根公路 編曲：池田大介
 5.  **[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink") 〜Acoustic Version〜**
       -
-        作詞：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink") 作曲：[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲：DEEN
+        作詞：[上杉昇](../Page/上杉昇.md "wikilink") 作曲：[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲：DEEN
 6.  **[永遠をあずけてくれ](../Page/永遠をあずけてくれ.md "wikilink") 〜Millennium a capella Version〜**
       -
-        作詞：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") 作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") 編曲：時乗浩一郎/DEEN
+        作詞：[川島だりあ](../Page/川島だりあ.md "wikilink") 作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink") 編曲：時乗浩一郎/DEEN
 7.  **CHRISTMAS TIME 〜evening snow〜**
       -
         作曲：山根公路 編曲：池田大介
@@ -50,12 +50,12 @@
 ## 参加ミュージシャン
 
   - DEEN
-      - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")：Vocals,Chorus
-      - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：Keyboards,Chorus
+      - [池森秀一](../Page/池森秀一.md "wikilink")：Vocals,Chorus
+      - [山根公路](../Page/山根公路.md "wikilink")：Keyboards,Chorus
       - [宇津本直紀](../Page/宇津本直紀.md "wikilink")：Drums,Chorus
-      - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")：Guitar,Chorus
+      - [田川伸治](../Page/田川伸治.md "wikilink")：Guitar,Chorus
   - サポート
-      - 小野塚晃(from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink"))：Keyboards 他...
+      - 小野塚晃(from [DIMENSION](../Page/DIMENSION.md "wikilink"))：Keyboards 他...
 
 ## 脚注
 

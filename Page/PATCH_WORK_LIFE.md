@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[2001年](../Page/2001年.md "wikilink")に結成。しばらくは[下北沢](../Page/下北沢.md "wikilink")を中心としてライブ活動を行っていたが、[2004年](../Page/2004年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に「P」でCDデビュー。同年夏には日本47都道府県を回る全国ツアーを行う。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にメンバーの入れ替えがあった後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に活動休止。
+[2001年](../Page/2001年.md "wikilink")に結成。しばらくは[下北沢](../Page/下北沢.md "wikilink")を中心としてライブ活動を行っていたが、[2004年](../Page/2004年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に「P」でCDデビュー。同年夏には日本47都道府県を回る全国ツアーを行う。[2005年](../Page/2005年.md "wikilink")にメンバーの入れ替えがあった後、[2006年](../Page/2006年.md "wikilink")に活動休止。
 
 その後、ヨモギダは新バンド「Darlin'onStage」を結成。（2010年に解散）
 
@@ -13,16 +13,16 @@
 
 ### 活動休止前メンバー
 
-  - **[ヨモギダ](https://ja.wikipedia.org/wiki/蓬田修士 "wikilink")**（本名:蓬田 修士、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")生まれ。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")水海道市（現・[常総市](../Page/常総市.md "wikilink")）出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")）
+  - **[ヨモギダ](https://ja.wikipedia.org/wiki/蓬田修士 "wikilink")**（本名:蓬田 修士、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")水海道市（現・[常総市](../Page/常総市.md "wikilink")）出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")）
       -
-        [茨城県立水海道第一高等学校](https://ja.wikipedia.org/wiki/茨城県立水海道第一高等学校 "wikilink")、[中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")[文学部](../Page/文学部.md "wikilink")卒業。
-        [フジテレビ系のバラエティ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めちゃ×2モテたいッ\!](https://ja.wikipedia.org/wiki/めちゃ×2モテたいッ! "wikilink")」「[めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")」のコーナー「ヨモギダ少年愚連隊」シリーズの中心人物。
-  - **A.K.R**（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
-  - **U-KICHI**（[ドラム](../Page/ドラムセット.md "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")加入）
+        [茨城県立水海道第一高等学校](../Page/茨城県立水海道第一高等学校.md "wikilink")、[中央大学](../Page/中央大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")卒業。
+        [フジテレビ系のバラエティ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めちゃ×2モテたいッ\!](../Page/めちゃ×2モテたいッ!.md "wikilink")」「[めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")」のコーナー「ヨモギダ少年愚連隊」シリーズの中心人物。
+  - **A.K.R**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
+  - **U-KICHI**（[ドラム](../Page/ドラムセット.md "wikilink") [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")加入）
 
 ### 元メンバー
 
-  - **K-TA**（ドラム [2004年](../Page/2004年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")加入、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月脱退）
+  - **K-TA**（ドラム [2004年](../Page/2004年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")加入、[2005年](../Page/2005年.md "wikilink")1月脱退）
 
 ## ディスコグラフィー
 
@@ -34,7 +34,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>Melanesia</strong></p></td>
 <td><p>MTCH-1132</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -117,7 +117,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -143,7 +143,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p><strong>PATCH WORK LIFE</strong></p></td>
 <td><p>ZNCA-1012</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -192,7 +192,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>at CH-w SUMMER TOUR ～Heavy go round</strong></p></td>
 <td><p>MTBH-1007</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -269,14 +269,14 @@
 <tr class="header">
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong>RULE SOUND#1</strong></p></td>
 <td><p>ZNCA-1003</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -310,7 +310,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>TRUST YOUR SOULS Vol.4</strong></p></td>
 <td><p>TMR-004</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -347,7 +347,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_CLUTCH" title="wikilink">THE CLUTCH</a> x PATCH WORK LIFE『MELODIC』</strong></p></td>
 <td><p>TNA-001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -368,7 +368,7 @@
 <td><p>スプリットアルバム</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
 <td><p><strong>&amp;</strong></p></td>
 <td><p>ZNCA-1002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -389,7 +389,7 @@
 <td><p>スプリットアルバム</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月11日.md" title="wikilink">11月11日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月11日.md" title="wikilink">11月11日</a></p></td>
 <td><p><strong>GROOOOVE！！</strong></p></td>
 <td><p>FRC-0011</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

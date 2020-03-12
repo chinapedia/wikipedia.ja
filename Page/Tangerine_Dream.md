@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - 『[BREAK OF DAWN](https://ja.wikipedia.org/wiki/BREAK_OF_DAWN "wikilink")』
+  - 『[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』（ライブレコーディング「GREAT TOUR BAND version」として収録）
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 『[NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\) "wikilink")』（アレンジされた「Wings 510」として収録）
+  - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』（アレンジされた「Wings 510」として収録）
   - 『[Do The B-side](../Page/Do_The_B-side.md "wikilink")』（原曲と若干ミックスが異なる「Strong Mix」として収録）
 
 <!-- end list -->

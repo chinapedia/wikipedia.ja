@@ -1,15 +1,15 @@
 > この記事は[-HiME \(\)](https://ja.wikipedia.org/wiki/-HiME_\(\))から翻訳されています。
 
 
-『**舞-乙HiME**』（マイオトメ）は、[サンライズが中心となって展開している](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")、[舞-HiMEプロジェクト](https://ja.wikipedia.org/wiki/舞-HiMEプロジェクト "wikilink")によって制作された『**舞-乙HiME**』の[コミック作品である](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
+『**舞-乙HiME**』（マイオトメ）は、[サンライズが中心となって展開している](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")、[舞-HiMEプロジェクト](../Page/舞-HiMEプロジェクト.md "wikilink")によって制作された『**舞-乙HiME**』の[コミック作品である](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 概要
 
-本編は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月](../Page/6月.md "wikilink")まで、「[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")」において連載（[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、樋口達人・作画：[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）。コミックスは全5巻。2006年秋から漫画版の続編『**舞-乙HiME嵐**』を連載すると予告されていたが、実際にはかなり遅れて2007年18号（3月29日発売）より短期連載となった。
+本編は[2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")まで、「[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")」において連載（[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、樋口達人・作画：[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）。コミックスは全5巻。2006年秋から漫画版の続編『**舞-乙HiME嵐**』を連載すると予告されていたが、実際にはかなり遅れて2007年18号（3月29日発売）より短期連載となった。
 
-冒頭で本物の真白姫が殺され、影武者としてガルデローベに呼ばれた少年「マシロくん」が主人公となるという、前作以上にアニメ版とかけ離れた設定（この点は前作『[舞-HiME](https://ja.wikipedia.org/wiki/舞-HiME "wikilink")』の[谷口悟朗](https://ja.wikipedia.org/wiki/谷口悟朗 "wikilink")クリエイティブプロデューサーの意向を受け継いでいる）で物語が始まる。アニメ版に多くあった悲劇的な要素がほぼ払拭されているのも特徴で（例えばアリカとニナは同じ男性（マシロくん）を好きになるが、特に深刻な確執は起こらない。
+冒頭で本物の真白姫が殺され、影武者としてガルデローベに呼ばれた少年「マシロくん」が主人公となるという、前作以上にアニメ版とかけ離れた設定（この点は前作『[舞-HiME](../Page/舞-HiME.md "wikilink")』の[谷口悟朗](../Page/谷口悟朗.md "wikilink")クリエイティブプロデューサーの意向を受け継いでいる）で物語が始まる。アニメ版に多くあった悲劇的な要素がほぼ払拭されているのも特徴で（例えばアリカとニナは同じ男性（マシロくん）を好きになるが、特に深刻な確執は起こらない。
 
-「[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED "wikilink")」2006年3月号には外伝作である読み切り『**舞-乙HiME super H**』が掲載され、2006年8月号の小冊子付録には入浴シーンなどを増補した「完全版」が収録された。また「[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")」VOL.1の別冊付録「**[舞-乙HiME Zweiコミックブック](https://ja.wikipedia.org/wiki/舞-乙HiME_Zwei "wikilink")**」に『**舞-乙HiME super H**』の続編『**舞-乙HiME super H2**』が掲載されたが、『super H』、『super H2』にストーリー的な繋がりはない。両作品とも、『**舞-乙HiME嵐**』単行本に収録されている。
+「[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")」2006年3月号には外伝作である読み切り『**舞-乙HiME super H**』が掲載され、2006年8月号の小冊子付録には入浴シーンなどを増補した「完全版」が収録された。また「[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")」VOL.1の別冊付録「**[舞-乙HiME Zweiコミックブック](https://ja.wikipedia.org/wiki/舞-乙HiME_Zwei "wikilink")**」に『**舞-乙HiME super H**』の続編『**舞-乙HiME super H2**』が掲載されたが、『super H』、『super H2』にストーリー的な繋がりはない。両作品とも、『**舞-乙HiME嵐**』単行本に収録されている。
 
 ## あらすじ
 
@@ -291,7 +291,7 @@
 </tr>
 <tr class="odd">
 <td><p>マリア・グレイスバート</p></td>
-<td><p>久遠の<a href="https://ja.wikipedia.org/wiki/碧玉" title="wikilink">碧玉</a></p></td>
+<td><p>久遠の<a href="../Page/碧玉.md" title="wikilink">碧玉</a></p></td>
 <td><p>教鞭</p></td>
 <td><p>ご真祖様（教諭）→<br />
 新祖レナ（教諭）</p></td>
@@ -355,7 +355,7 @@
 </tr>
 <tr class="odd">
 <td><p>ユリコ・A・メミヤ（※2）</p></td>
-<td><p>七架の<a href="https://ja.wikipedia.org/wiki/燐灰石" title="wikilink">燐灰石</a></p></td>
+<td><p>七架の<a href="../Page/燐灰石.md" title="wikilink">燐灰石</a></p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
 <td><p>究極傷心掌破（アルティメット・ハートブレイク）</p></td>
@@ -479,8 +479,8 @@
 
 ## 関連項目
 
-  - [舞-HiMEプロジェクト](https://ja.wikipedia.org/wiki/舞-HiMEプロジェクト "wikilink")
-  - [舞-HiME](https://ja.wikipedia.org/wiki/舞-HiME "wikilink")
+  - [舞-HiMEプロジェクト](../Page/舞-HiMEプロジェクト.md "wikilink")
+  - [舞-HiME](../Page/舞-HiME.md "wikilink")
   - [舞-乙HiME](https://ja.wikipedia.org/wiki/舞-乙HiME "wikilink")
 
 [Category:舞-HiMEプロジェクト](https://ja.wikipedia.org/wiki/Category:舞-HiMEプロジェクト "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink") [Category:アニメを原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:アニメを原作とする漫画作品 "wikilink") [Category:王女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:王女を主人公とした漫画作品 "wikilink") [Category:人物の入れ代わりを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした漫画作品 "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:架空の養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:架空の養成学校を舞台とした作品 "wikilink")

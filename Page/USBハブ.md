@@ -1,11 +1,11 @@
 > この記事は[USB](https://ja.wikipedia.org/wiki/USB)から翻訳されています。
 
 
-[Sanwa_supply_USB-HUB217BK.png](https://ja.wikipedia.org/wiki/File:Sanwa_supply_USB-HUB217BK.png "fig:Sanwa_supply_USB-HUB217BK.png")製）\]\] **USBハブ**（ユーエスビー ハブ）とは、[USB機器を複数接続するための](../Page/ユニバーサル・シリアル・バス.md "wikilink")[ハブである](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")。
+[Sanwa_supply_USB-HUB217BK.png](https://ja.wikipedia.org/wiki/File:Sanwa_supply_USB-HUB217BK.png "fig:Sanwa_supply_USB-HUB217BK.png")製）\]\] **USBハブ**（ユーエスビー ハブ）とは、[USB機器を複数接続するための](../Page/ユニバーサル・シリアル・バス.md "wikilink")[ハブである](../Page/ハブ_\(ネットワーク機器\).md "wikilink")。
 
 ## 概説
 
-一般に、パソコン本体にあるUSB[ポートは](https://ja.wikipedia.org/wiki/入出力ポート#外部接続コネクタ "wikilink")2 - 4個程度だが、今日では[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")・[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")に始まり、[外付けHDDや](https://ja.wikipedia.org/wiki/ハードディスクドライブ#外付けタイプ "wikilink")[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")から[Webカメラ](https://ja.wikipedia.org/wiki/Webカメラ "wikilink")・[卓上扇風機まで](https://ja.wikipedia.org/wiki/USB扇風機 "wikilink")、USB対応機器は大幅に増えた。USBハブはこれらの周辺機器を同時に接続するために用いられる。
+一般に、パソコン本体にあるUSB[ポートは](https://ja.wikipedia.org/wiki/入出力ポート#外部接続コネクタ "wikilink")2 - 4個程度だが、今日では[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")・[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")に始まり、[外付けHDDや](https://ja.wikipedia.org/wiki/ハードディスクドライブ#外付けタイプ "wikilink")[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")から[Webカメラ](../Page/Webカメラ.md "wikilink")・[卓上扇風機まで](https://ja.wikipedia.org/wiki/USB扇風機 "wikilink")、USB対応機器は大幅に増えた。USBハブはこれらの周辺機器を同時に接続するために用いられる。
 
 USBハブとして一般的に知られているものは4ポートの単体製品（写真を参照）であるが、他の周辺機器に内蔵されているものもある。例えば[液晶](../Page/液晶.md "wikilink")[ディスプレイの側面に](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")3個口程のポートが付いていたり、USB接続のキーボードにUSBハブの機能が搭載されている等である。
 

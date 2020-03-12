@@ -5,17 +5,17 @@
 
 ## 略歴
 
-[ポーランド](../Page/ポーランド.md "wikilink")・[アイルランド](../Page/アイルランド.md "wikilink")系米国人の父と[ベトナム人](https://ja.wikipedia.org/wiki/ベトナム人 "wikilink")の母の間にハワイで生まれる\[1\]。高校卒業後、モデルを志し17歳で東京に移る。\[2\]その後[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")に移動するがモデルとして上手くいかず、知人に勧められて18歳で香港でチャンスを掴もうとする。\[3\]\[4\]\[5\]中国系ではないため、中国語を学びながら活動していたが、ある日[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")に誘われて彼の事務所に所属。その後、[アジアンビューティー](https://ja.wikipedia.org/wiki/アジアンビューティー "wikilink")を体現する美貌で瞬く間に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など、アジア各国で[スーパーモデル](https://ja.wikipedia.org/wiki/スーパーモデル "wikilink")として活躍するようになり、[ハーパーズ・バザー](https://ja.wikipedia.org/wiki/ハーパーズ・バザー "wikilink")、[コスモポリタン](https://ja.wikipedia.org/wiki/コスモポリタン "wikilink")、[マダム・フィガロ](https://ja.wikipedia.org/wiki/マダム・フィガロ "wikilink")など100冊以上の雑誌の表紙を飾った。日本でも[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など数本のCMに出演。
+[ポーランド](../Page/ポーランド.md "wikilink")・[アイルランド](../Page/アイルランド.md "wikilink")系米国人の父と[ベトナム人](../Page/ベトナム人.md "wikilink")の母の間にハワイで生まれる\[1\]。高校卒業後、モデルを志し17歳で東京に移る。\[2\]その後[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")に移動するがモデルとして上手くいかず、知人に勧められて18歳で香港でチャンスを掴もうとする。\[3\]\[4\]\[5\]中国系ではないため、中国語を学びながら活動していたが、ある日[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")に誘われて彼の事務所に所属。その後、[アジアンビューティー](https://ja.wikipedia.org/wiki/アジアンビューティー "wikilink")を体現する美貌で瞬く間に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など、アジア各国で[スーパーモデル](../Page/スーパーモデル.md "wikilink")として活躍するようになり、[ハーパーズ・バザー](https://ja.wikipedia.org/wiki/ハーパーズ・バザー "wikilink")、[コスモポリタン](https://ja.wikipedia.org/wiki/コスモポリタン "wikilink")、[マダム・フィガロ](https://ja.wikipedia.org/wiki/マダム・フィガロ "wikilink")など100冊以上の雑誌の表紙を飾った。日本でも[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など数本のCMに出演。
 
 1999年、台湾のTVドラマ、『[ハウス・オブ・ドラゴン](https://ja.wikipedia.org/wiki/ハウス・オブ・ドラゴン "wikilink")』で女優業をスタート。同番組をきっかけに長編映画に進出し、同年の香港映画*Model From Hell*にてスクリーン・デビュー。
 
 翌年には、香港新世代スターの共演と派手な[VFX](../Page/VFX.md "wikilink")で話題となり大ヒットを記録したポリス・アクションの続編、ジャッキー・チェン製作の『ジェネックスコップ2』に出演。
 
-2001年、凸凹刑事コンビが大活躍する人気アクション・コメディの続編、[ブレット・ラトナー](https://ja.wikipedia.org/wiki/ブレット・ラトナー "wikilink")監督の『ラッシュアワー2』で端役ながらハリウッド・デビュー。その後、数本のヨーロッパ映画にも出演。
+2001年、凸凹刑事コンビが大活躍する人気アクション・コメディの続編、[ブレット・ラトナー](../Page/ブレット・ラトナー.md "wikilink")監督の『ラッシュアワー2』で端役ながらハリウッド・デビュー。その後、数本のヨーロッパ映画にも出演。
 
 2002年には、孤島での訓練を経て殺人マシーンとなった女性たちが繰り広げるセクシー・アクション映画、[チン・シウトン](https://ja.wikipedia.org/wiki/チン・シウトン "wikilink")監督の『[レディ・ウェポン](../Page/レディ・ウェポン.md "wikilink")』に主人公のシャーリーン役で本格的な格闘技やヌードを披露、モデル出身の若手女優[アンヤ・ウー](https://ja.wikipedia.org/wiki/アンヤ・ウー "wikilink")と共演。
 
-そして2006年、『ミッション：インポッシブル』シリーズの第3弾、[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")監督のスパイアクション大作『[M:I:Ⅲ](../Page/ミッション:インポッシブル3.md "wikilink")』では、イーサン・ハント率いるIMFチームの紅一点、“美しき武器のエキスパート”ゼーン役に抜擢され、本格的なハリウッド進出を果たした。同作は大ヒットし、主演の[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")や[ケリー・ラッセル](https://ja.wikipedia.org/wiki/ケリー・ラッセル "wikilink")らと共演して一躍ブレイクし、以降はアクション女優として地位を確立した。本作では露出度の高い大胆なドレス姿を披露したが、撮影中に紐が外れてしまうハプニングが何度も起きた。また、作中でゼーンがドレスの[裾](https://ja.wikipedia.org/wiki/裾 "wikilink")をまくり上げた際、彼女の履いていた[ショーツが露出してしまったが](https://ja.wikipedia.org/wiki/パンティー "wikilink")、これは撮影用の[アンダースコート](../Page/アンダースコート.md "wikilink")である。
+そして2006年、『ミッション：インポッシブル』シリーズの第3弾、[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")監督のスパイアクション大作『[M:I:Ⅲ](../Page/ミッション:インポッシブル3.md "wikilink")』では、イーサン・ハント率いるIMFチームの紅一点、“美しき武器のエキスパート”ゼーン役に抜擢され、本格的なハリウッド進出を果たした。同作は大ヒットし、主演の[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")や[ケリー・ラッセル](../Page/ケリー・ラッセル.md "wikilink")らと共演して一躍ブレイクし、以降はアクション女優として地位を確立した。本作では露出度の高い大胆なドレス姿を披露したが、撮影中に紐が外れてしまうハプニングが何度も起きた。また、作中でゼーンがドレスの[裾](https://ja.wikipedia.org/wiki/裾 "wikilink")をまくり上げた際、彼女の履いていた[ショーツが露出してしまったが](../Page/パンティー.md "wikilink")、これは撮影用の[アンダースコート](../Page/アンダースコート.md "wikilink")である。
 
 2007年には、[ブルース・ウィリス](../Page/ブルース・ウィリス.md "wikilink")主演の大人気アクションシリーズ第4弾、[レン・ワイズマン](../Page/レン・ワイズマン.md "wikilink")監督の『[ダイ・ハード4.0](../Page/ダイ・ハード4.0.md "wikilink")』で[ジョン・マクレーンの敵役の一人として激しいアクションを演じた](https://ja.wikipedia.org/wiki/ジョン・マクレーン_\(架空の人物\) "wikilink")。同年、負ければ死を宣告される卓球大会に挑む元天才卓球少年の死闘を、最新[CG](https://ja.wikipedia.org/wiki/CG "wikilink")やカンフー・アクションを駆使して描く、[ロバート・ベン・ガラント](https://ja.wikipedia.org/wiki/ロバート・ベン・ガラント "wikilink")監督・脚本のパロディー満載のコメディ映画『[燃えよ\!ピンポン](../Page/燃えよ!ピンポン.md "wikilink")』にも出演。
 
@@ -29,7 +29,7 @@
 
 香港の俳優[ダニエル・ウー](https://ja.wikipedia.org/wiki/ダニエル・ウー "wikilink")と交際していたことがある。\[10\]
 
-2015年1月20日、テレビドラマ『STALKER : ストーカー犯罪特捜班』で共演した[ディラン・マクダーモット](https://ja.wikipedia.org/wiki/ディラン・マクダーモット "wikilink")と婚約したとNew York Postが報じた。
+2015年1月20日、テレビドラマ『STALKER : ストーカー犯罪特捜班』で共演した[ディラン・マクダーモット](../Page/ディラン・マクダーモット.md "wikilink")と婚約したとNew York Postが報じた。
 
 ## 主な出演作品
 
@@ -82,7 +82,7 @@
 <td><p>香港映画</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/80デイズ" title="wikilink">80デイズ</a><br />
+<td><p><a href="../Page/80デイズ.md" title="wikilink">80デイズ</a><br />
 <em>Around the World in 80 Days</em></p></td>
 <td><p>女将軍の手下</p></td>
 <td></td>
@@ -148,7 +148,7 @@
 <td><p>2010</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/極秘指令_ドッグ×ドッグ" title="wikilink">極秘指令 ドッグ×ドッグ</a><br />
 <em>Rogues Gallery</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/女教皇" title="wikilink">女教皇</a></p></td>
+<td><p><a href="../Page/女教皇.md" title="wikilink">女教皇</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -257,7 +257,7 @@
 
 ## テレビゲーム
 
-  - [ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink") （2008年、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")）
+  - [ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink") （2008年、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PSP](../Page/PlayStation_Portable.md "wikilink")）
 
 ## 出典
 

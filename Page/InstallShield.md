@@ -3,19 +3,19 @@
 
 **InstallShield**（インストールシールド）は、
 
-1.  Viresh Bhatiaとリック・ハロルドが設立した企業。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に[マクロビジョン](https://ja.wikipedia.org/wiki/マクロビジョン "wikilink")に買収された。
+1.  Viresh Bhatiaとリック・ハロルドが設立した企業。[2004年](../Page/2004年.md "wikilink")に[マクロビジョン](https://ja.wikipedia.org/wiki/マクロビジョン "wikilink")に買収された。
 2.  上記の企業が開発した、[インストーラまたは](../Page/インストール.md "wikilink")[ソフトウェアパッケージを生成する](../Page/パッケージソフトウェア.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。
 
 ここでは後者について説明する。
 
 ## 概要
 
-当初の名称はInstallShield。開発元がマクロビジョンに買収された[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、同社のソフトウェアブランドである"FLEXnet"を冠して、FLEXnet InstallShieldとして提供された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に同社のソフトウェア部門が（現）として独立し、名称もInstallShieldに戻して開発が行われている。
+当初の名称はInstallShield。開発元がマクロビジョンに買収された[2004年](../Page/2004年.md "wikilink")、同社のソフトウェアブランドである"FLEXnet"を冠して、FLEXnet InstallShieldとして提供された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に同社のソフトウェア部門が（現）として独立し、名称もInstallShieldに戻して開発が行われている。
 
 [Windows版のInstallShieldは主に](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、
 
 1.  [MSIと独自の](../Page/Microsoft_Windows_Installer.md "wikilink")[スクリプト言語](../Page/スクリプト言語.md "wikilink")であるInstallScriptの、いずれかを用いた[Windows Installer](../Page/Microsoft_Windows_Installer.md "wikilink") (MSI) 形式のインストーラ
-2.  InstallScriptを用いて[イベントベースの](../Page/イベント_\(プログラミング\).md "wikilink")[スクリプト](../Page/スクリプト.md "wikilink")またはsetup.exeの実行可能な[ファイルを生成する独自のインストーラ](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")
+2.  InstallScriptを用いて[イベントベースの](../Page/イベント_\(プログラミング\).md "wikilink")[スクリプト](../Page/スクリプト.md "wikilink")またはsetup.exeの実行可能な[ファイルを生成する独自のインストーラ](../Page/ファイル_\(コンピュータ\).md "wikilink")
 
 の2種類のインストーラを作成できる。
 
@@ -36,7 +36,7 @@
 
 Windows10では、WindowsXPの頃に各社のパッケージソフトウェア製品のインストーラとして採用されていた（一部に16bitコードが含まれる）InstallShield 3やInstallShield 5でパッケージされたインストーラからのインストールが（セキュリティ上の安全を確保するなどの目的もあって、当該の各社パッケージソフトウェア製品の正規ライセンス保持者であっても）できないように仕様変更された。
 
-このため、例えばWindows95,98,ME,2000,XP,Vistaなどでは正常にインストールできていたゲームなどの製品でも、Windows10ではインストーラが起動しない（動かないのはインストーラであって、インストールに成功すれば当該ソフトウェア製品そのものは動く）という事態が発生することがある。このためのバイパス用インストーラとして、Windows互換のオープンソースOSとして開発されている[ReactOS](https://ja.wikipedia.org/wiki/ReactOS "wikilink")用に32bitコードに書き換えた汎用インストーラ（Windows上でも動作する）がNathan Linebackによって開発され、オンラインで無償配布されている\[2\]。
+このため、例えばWindows95,98,ME,2000,XP,Vistaなどでは正常にインストールできていたゲームなどの製品でも、Windows10ではインストーラが起動しない（動かないのはインストーラであって、インストールに成功すれば当該ソフトウェア製品そのものは動く）という事態が発生することがある。このためのバイパス用インストーラとして、Windows互換のオープンソースOSとして開発されている[ReactOS](../Page/ReactOS.md "wikilink")用に32bitコードに書き換えた汎用インストーラ（Windows上でも動作する）がNathan Linebackによって開発され、オンラインで無償配布されている\[2\]。
 
   - **InstallSheild Engine 3.0** … InstallShield 3でパッケージ化されたアプリケーション向け。
   - **InstallShield Launcher 5** … InstallShield 5でパッケージ化されたアプリケーション向け。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-2001年[大阪](../Page/大阪.md "wikilink")にて結成。2006年[コロムビアミュージックエンタテインメントよりデビュー](../Page/日本コロムビア.md "wikilink")。[沖縄や](../Page/沖縄県.md "wikilink")[アイルランド](../Page/アイルランド.md "wikilink")などの[島国](../Page/島国.md "wikilink")独特のサウンドを融合させた唯一無二の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")バンドである。
+2001年[大阪](../Page/大阪.md "wikilink")にて結成。2006年[コロムビアミュージックエンタテインメントよりデビュー](../Page/日本コロムビア.md "wikilink")。[沖縄や](../Page/沖縄県.md "wikilink")[アイルランド](../Page/アイルランド.md "wikilink")などの[島国](../Page/島国.md "wikilink")独特のサウンドを融合させた唯一無二の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")バンドである。
 
 ## メンバー
 

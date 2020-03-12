@@ -1,7 +1,7 @@
 > この記事は[JOAF!!](https://ja.wikipedia.org/wiki/JOAF!!)から翻訳されています。
 
 
-**JOAF\!らくさぶろうのモーニングおん\!**とは、2002年開始の[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")のAMラジオ番組。パーソナリティは[らくさぶろう](https://ja.wikipedia.org/wiki/らくさぶろう "wikilink")。番組開始当初は後述の通り週2日の放送だったが、のちに[真さんのいよ\!AM-igo](https://ja.wikipedia.org/wiki/真さんのいよ!AM-igo "wikilink")（現在はモーニングおん\!フライデー）が放送されている金曜日を除く週4日に拡大した。2011年10月改編により月曜と火曜の放送が終了。再び開始当初の水曜と木曜のみの放送となった。さらに、2012年春改編で番組史上初の金曜日の放送に移動。週1での放送となった。
+**JOAF\!らくさぶろうのモーニングおん\!**とは、2002年開始の[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")のAMラジオ番組。パーソナリティは[らくさぶろう](../Page/らくさぶろう.md "wikilink")。番組開始当初は後述の通り週2日の放送だったが、のちに[真さんのいよ\!AM-igo](https://ja.wikipedia.org/wiki/真さんのいよ!AM-igo "wikilink")（現在はモーニングおん\!フライデー）が放送されている金曜日を除く週4日に拡大した。2011年10月改編により月曜と火曜の放送が終了。再び開始当初の水曜と木曜のみの放送となった。さらに、2012年春改編で番組史上初の金曜日の放送に移動。週1での放送となった。
 
 　2013年春改編で、月曜日から金曜日までのワイド番組が「エブリモーニング」に再編・統一されることに伴い、番組としては終了した。（らくさぶろうは、引き続き同番組の金曜プレゼンターを担当）
 
@@ -30,15 +30,15 @@
   - 07:30 [愛媛新聞ニュース](https://ja.wikipedia.org/wiki/愛媛新聞ニュース "wikilink")
   - 07:34 [日産ラジオナビ](https://ja.wikipedia.org/wiki/日産ラジオナビ "wikilink")
   - 07:49 レースガイド
-  - 07:51 [交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")
+  - 07:51 [交通情報](../Page/交通情報.md "wikilink")
   - 07:55 愛媛新聞ニュース
-  - 08:00 [日本全国8時です](https://ja.wikipedia.org/wiki/話題のアンテナ_日本全国8時です "wikilink")（TBS）
+  - 08:00 [日本全国8時です](../Page/話題のアンテナ_日本全国8時です.md "wikilink")（TBS）
   - 08:15 交通情報＋1
   - 08:20 [ネッツトヨタ瀬戸内](https://ja.wikipedia.org/wiki/ネッツトヨタ瀬戸内 "wikilink") ミュージックモーニング
   - 08:25 JOAF\!芸能バイキング
   - 08:30 愛媛新聞ニュース
-  - 08:35 [武田鉄矢・今朝の三枚おろし](https://ja.wikipedia.org/wiki/武田鉄矢・今朝の三枚おろし "wikilink")（QR）
-  - 08:45 [SUZUKIハッピーモーニング 鈴木杏樹のいってらっしゃい](https://ja.wikipedia.org/wiki/SUZUKIハッピーモーニング・いってらっしゃいシリーズ "wikilink")（LF）
+  - 08:35 [武田鉄矢・今朝の三枚おろし](../Page/武田鉄矢・今朝の三枚おろし.md "wikilink")（QR）
+  - 08:45 [SUZUKIハッピーモーニング 鈴木杏樹のいってらっしゃい](../Page/SUZUKIハッピーモーニング・いってらっしゃいシリーズ.md "wikilink")（LF）
   - 08:50 朝のアミーゴ情報
   - 08:55 愛媛新聞ニュース
   - 09:00 朝のパブパブ
@@ -52,7 +52,7 @@
   - 09:20 グッドモーニング\!キャピイ
   - 09:25 RNBこども音楽コンクール
   - 09:30 キャピイ情報
-  - 09:35 [TOYOTA DRIVING TALK](https://ja.wikipedia.org/wiki/TOYOTA_DRIVING_TALK "wikilink")（LF）
+  - 09:35 [TOYOTA DRIVING TALK](../Page/TOYOTA_DRIVING_TALK.md "wikilink")（LF）
   - 09:40 どっこいネットワーク21世紀応援団
       - きこえる天使のハーモニー（月5分間）
   - 09:50 [テレマートラジオショッピング](https://ja.wikipedia.org/wiki/テレマートラジオショッピング "wikilink")
@@ -80,12 +80,12 @@
 
   - パーソナリティであるらくさぶろうが1人だけで進行するという、AMラジオの朝のワイド番組では珍しい形式を取っている。
   - [祝日](../Page/祝日.md "wikilink")（特に、[ハッピーマンデー](https://ja.wikipedia.org/wiki/ハッピーマンデー "wikilink")の[月曜日](../Page/月曜日.md "wikilink")）には、らくさぶろうが休みになることが多く、代わりに南海放送の[局アナ](https://ja.wikipedia.org/wiki/局アナ "wikilink")が担当する。らくさぶろうが病気等で休んでいる日も同じ。
-  - 番組開始当初は、らくさぶろうは週２日の担当であり、他の曜日は南海放送の局アナ（[合田みゆき](https://ja.wikipedia.org/wiki/合田みゆき "wikilink")アナ（「JOAF\!みゆきのモーニングおん\!」→[寺尾英子](https://ja.wikipedia.org/wiki/寺尾英子 "wikilink")アナ「JOAF\!えいこのモーニングおん\!」）が担当していた。
+  - 番組開始当初は、らくさぶろうは週２日の担当であり、他の曜日は南海放送の局アナ（[合田みゆき](../Page/合田みゆき.md "wikilink")アナ（「JOAF\!みゆきのモーニングおん\!」→[寺尾英子](../Page/寺尾英子.md "wikilink")アナ「JOAF\!えいこのモーニングおん\!」）が担当していた。
 
 ## 関連項目
 
   - [真さんのいよ\!AM-igo](https://ja.wikipedia.org/wiki/真さんのいよ!AM-igo "wikilink")（金曜同時間に放送）
-  - [木藤たかおのラヂオ本町\!一丁目一番地\!](https://ja.wikipedia.org/wiki/木藤たかおのラヂオ本町!一丁目一番地! "wikilink")（土曜同時間に放送）
+  - [木藤たかおのラヂオ本町\!一丁目一番地\!](../Page/木藤たかおのラヂオ本町!一丁目一番地!.md "wikilink")（土曜同時間に放送）
 
 ## 外部リンク
 

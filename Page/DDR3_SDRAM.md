@@ -13,19 +13,19 @@ __TOC__
 
 ## 規格の概要
 
-DDR3 SDRAMの規格として以下が定義されている。 DDR3 SDRAMのメモリにはチップ規格とモジュール規格の2つの規格が存在している。チップ規格はメモリチップの最大動作周波数を、モジュール規格はメモリモジュールの最大転送速度を示す\[1\]。 8ビットずつの[プリフェッチ](https://ja.wikipedia.org/wiki/プリフェッチ "wikilink")（prefetch, CPUがデータを必要とする前に、メモリから先読みして取り出す）機能をそなえ、データ転送最大速度は理論上[DDR2 SDRAMの](../Page/DDR2_SDRAM.md "wikilink")2倍である。
+DDR3 SDRAMの規格として以下が定義されている。 DDR3 SDRAMのメモリにはチップ規格とモジュール規格の2つの規格が存在している。チップ規格はメモリチップの最大動作周波数を、モジュール規格はメモリモジュールの最大転送速度を示す\[1\]。 8ビットずつの[プリフェッチ](../Page/プリフェッチ.md "wikilink")（prefetch, CPUがデータを必要とする前に、メモリから先読みして取り出す）機能をそなえ、データ転送最大速度は理論上[DDR2 SDRAMの](../Page/DDR2_SDRAM.md "wikilink")2倍である。
 
-また、動作電源電圧は、[DDR SDRAMの](https://ja.wikipedia.org/wiki/DDR_SDRAM "wikilink")2.5V/2.6V、DDR2 SDRAMの1.8Vに対し、DDR3 SDRAMは1.5V、DDR3L SDRAMは1.35V動作となっており、より一層の消費電力の低減、低発熱が実現されている。
+また、動作電源電圧は、[DDR SDRAMの](../Page/DDR_SDRAM.md "wikilink")2.5V/2.6V、DDR2 SDRAMの1.8Vに対し、DDR3 SDRAMは1.5V、DDR3L SDRAMは1.35V動作となっており、より一層の消費電力の低減、低発熱が実現されている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に、主に[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[サーバ](../Page/サーバ.md "wikilink")のメインメモリ用の規格として策定され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")から市場に出回り始めた\[2\]。DDR3 SDRAMに最初に対応したチップセットは、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")では2007年中頃にリリースされた[3 Series](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_3_Series "wikilink")[チップセット](../Page/チップセット.md "wikilink")、[AMDでは](https://ja.wikipedia.org/wiki/Advanced_Micro_Devices "wikilink")[2009年](../Page/2009年.md "wikilink")第1[四半期](https://ja.wikipedia.org/wiki/四半期 "wikilink")にリリースされた[Socket AM3である](https://ja.wikipedia.org/wiki/Socket_AM3 "wikilink")。インテルの場合、主に [Core i](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") シリーズのCPU世代から主流になったメモリ規格である。DDR3-1333×2 (21GB/s）や DDR3-1066×3 (25.6GB/s) という組み合わせから始まった。
+[2005年](../Page/2005年.md "wikilink")に、主に[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[サーバ](../Page/サーバ.md "wikilink")のメインメモリ用の規格として策定され、[2007年](../Page/2007年.md "wikilink")から市場に出回り始めた\[2\]。DDR3 SDRAMに最初に対応したチップセットは、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")では2007年中頃にリリースされた[3 Series](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_3_Series "wikilink")[チップセット](../Page/チップセット.md "wikilink")、[AMDでは](https://ja.wikipedia.org/wiki/Advanced_Micro_Devices "wikilink")[2009年](../Page/2009年.md "wikilink")第1[四半期](https://ja.wikipedia.org/wiki/四半期 "wikilink")にリリースされた[Socket AM3である](https://ja.wikipedia.org/wiki/Socket_AM3 "wikilink")。インテルの場合、主に [Core i](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") シリーズのCPU世代から主流になったメモリ規格である。DDR3-1333×2 (21GB/s）や DDR3-1066×3 (25.6GB/s) という組み合わせから始まった。
 
 発売当時はDDR2 SDRAMの値ごなれが進んでおり、それとの価格差が大きかったため\[3\]、当初DDR3専用だったインテル[プラットフォーム用チップセットも](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")、結局DDR2 SDRAMにも対応した。2010年には[Intel Core i7の登場](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink")（内蔵のメモリーコントローラがDDR3専用）や、AMDのSocket AM3の登場もあり、DDR3とDDR2の価格差は小さくなった。\[4\]
 
-[2012年](../Page/2012年.md "wikilink")には低電圧・低消費電力仕様のLPDDR3が発表され、[2013年](../Page/2013年.md "wikilink")頃からLPDDR3を内蔵した[SoCを搭載した](https://ja.wikipedia.org/wiki/System-on-a-chip "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")が市場に出回りはじめている。
+[2012年](../Page/2012年.md "wikilink")には低電圧・低消費電力仕様のLPDDR3が発表され、[2013年](../Page/2013年.md "wikilink")頃からLPDDR3を内蔵した[SoCを搭載した](../Page/System-on-a-chip.md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")が市場に出回りはじめている。
 
 後継として、[DDR4 SDRAMが予定されており](https://ja.wikipedia.org/wiki/DDR4_SDRAM "wikilink")、[2015年](../Page/2015年.md "wikilink")ごろから市場に出回ると予想され\[5\]、2017年にはDDR4が市場シェア50%を越え世代交代が進んでいった。
 
-なお、[VRAM](../Page/VRAM.md "wikilink")用の[GDDR3](https://ja.wikipedia.org/wiki/GDDR3 "wikilink")と混同されやすいが別の規格であり、互換性はない。
+なお、[VRAM](../Page/VRAM.md "wikilink")用の[GDDR3](../Page/GDDR3.md "wikilink")と混同されやすいが別の規格であり、互換性はない。
 
 ### レイテンシ
 
@@ -43,7 +43,7 @@ DDR3のレイテンシの数値はDDR2より大きい。それはI/Oバスのク
 
 ## 拡張機能
 
-インテルは拡張メモリプロファイル(eXtreme Memory Profile) ([XMP](https://ja.wikipedia.org/wiki/Serial_Presence_Detect#Extreme_Memory_Profile_\(XMP\) "wikilink")) の仕様を[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")に公式に発表した。これはDDR3 SDRAMにおける伝統的なJEDEC [SPD仕様に対して](https://ja.wikipedia.org/wiki/Serial_Presence_Detect "wikilink")、オーバークロック動作のためのプロファイルを追加する規格である。\[7\]
+インテルは拡張メモリプロファイル(eXtreme Memory Profile) ([XMP](https://ja.wikipedia.org/wiki/Serial_Presence_Detect#Extreme_Memory_Profile_\(XMP\) "wikilink")) の仕様を[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に公式に発表した。これはDDR3 SDRAMにおける伝統的なJEDEC [SPD仕様に対して](https://ja.wikipedia.org/wiki/Serial_Presence_Detect "wikilink")、オーバークロック動作のためのプロファイルを追加する規格である。\[7\]
 
 ## メモリモジュール
 
@@ -163,7 +163,7 @@ DDR3にも、DDR2と同様に、帯域幅や容量に加えて、次のような
 
 1.  [ECCの実装](https://ja.wikipedia.org/wiki/Dynamic_random_access_memory#Errors_and_error_correction "wikilink")。信頼性の向上のため、余分なデータバイトレーンを持つ。小規模なエラーは訂正され、大規模なエラーは検出される。ECC付きモジュールは、型式名に**ECC**もしくは**E**が付く。例えば『PC3-6400 ECC』または『PC3-8500E』である。\[10\]
 2.  ["registered"により信号を安定させる](https://ja.wikipedia.org/wiki/Registered_memory "wikilink")。その結果、クロックレートおよびスロットあたりの容量も向上することがある。これは[registerチップに信号をバッファリングすることによる](https://ja.wikipedia.org/wiki/hardware_register "wikilink")。バッファリングされる分、余分なクロックを必要とし、レイテンシが増える。これらのモジュールの型式名は**R**が付く。対してノン・レジスタード（別名[unbuffered](https://ja.wikipedia.org/wiki/Unbuffered_memory "wikilink")) RAMを区別する必要があるときは、**U**を付ける。PC3-6400RはレジスタードなPC3-6400モジュールであり、PC3-6400R ECCはさらにECCが加えられている。
-3.  [fully buffered](https://ja.wikipedia.org/wiki/Fully_Buffered_DIMM "wikilink")。これは形式名に**F**もしくは**FB**が加わる。他の種類とは[ノッチ](https://ja.wikipedia.org/wiki/ノッチ "wikilink")の位置が異なる。これは、完全バッファ化モジュール (Fully buffered modules) はレジスタードモジュール用に作られた[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")では使用できないため、モジュールの挿入を防ぐためである。
+3.  [fully buffered](https://ja.wikipedia.org/wiki/Fully_Buffered_DIMM "wikilink")。これは形式名に**F**もしくは**FB**が加わる。他の種類とは[ノッチ](../Page/ノッチ.md "wikilink")の位置が異なる。これは、完全バッファ化モジュール (Fully buffered modules) はレジスタードモジュール用に作られた[マザーボード](../Page/マザーボード.md "wikilink")では使用できないため、モジュールの挿入を防ぐためである。
 
 ## 低電圧版
 

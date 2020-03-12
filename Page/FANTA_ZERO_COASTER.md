@@ -11,7 +11,7 @@
   - **石岡塁**（いしおかるい、[1981年](../Page/1981年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - ）ベース・コーラス。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身
       -
         活動休止後、NIAというバンドで活動。その後、Puff Soulというバンドで活動。現在は様々なアーティストのバックバンドで活動中。
-  - **渡辺光彦**（わたなべみつひこ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink") - ）ドラム・パーカッション・コーラス。東京都出身
+  - **渡辺光彦**（わたなべみつひこ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月3日](../Page/5月3日.md "wikilink") - ）ドラム・パーカッション・コーラス。東京都出身
       -
         活動休止後、[UNNATURAL](https://ja.wikipedia.org/wiki/UNNATURAL "wikilink")というユニットで活動
 
@@ -21,10 +21,10 @@
 
   - **ラッシュアワー**（2000年9月27日）
   - **休日**（2000年11月22日）
-  - **今のままがいい**（2001年1月31日）「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2001年2月度オープニングテーマ
+  - **今のままがいい**（2001年1月31日）「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2001年2月度オープニングテーマ
   - **Hey Girl**（2001年4月18日）
   - **JOKER**（2001年8月22日）
-  - **ワンダフルLife**（2002年7月24日）アニメ「[ふぉうちゅんドッグす](https://ja.wikipedia.org/wiki/ふぉうちゅんドッグす "wikilink")」オープニングテーマ
+  - **ワンダフルLife**（2002年7月24日）アニメ「[ふぉうちゅんドッグす](../Page/ふぉうちゅんドッグす.md "wikilink")」オープニングテーマ
   - **BE STRONGER**（2003年2月26日）
   - **LUCKY BEAT**（2003年5月21日）
 
@@ -44,8 +44,8 @@
 
 ## 関連項目
 
-  - [Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music "wikilink")
-  - [胸さわぎの土曜日](https://ja.wikipedia.org/wiki/胸さわぎの土曜日 "wikilink")
+  - [Monthly A Music](../Page/Monthly_A_Music.md "wikilink")
+  - [胸さわぎの土曜日](../Page/胸さわぎの土曜日.md "wikilink")
   - [MOZAIKU NIGHT～No.1 Music Factory～](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT～No.1_Music_Factory～ "wikilink")
 
 ## 外部リンク

@@ -1,16 +1,16 @@
 > この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
 
 
-**FIBAヨーロッパ**（FIBA Europe）は、[国際バスケットボール連盟](https://ja.wikipedia.org/wiki/国際バスケットボール連盟 "wikilink")（FIBA）の傘下にある大陸連盟で、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")における[バスケットボール](../Page/バスケットボール.md "wikilink")の運営・管理・普及活動を行う。
+**FIBAヨーロッパ**（FIBA Europe）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）の傘下にある大陸連盟で、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")における[バスケットボール](../Page/バスケットボール.md "wikilink")の運営・管理・普及活動を行う。
 
 ## FIBAヨーロッパの主催する主な大会
 
-  - [バスケットボール欧州選手権](https://ja.wikipedia.org/wiki/バスケットボール欧州選手権 "wikilink")
+  - [バスケットボール欧州選手権](../Page/バスケットボール欧州選手権.md "wikilink")
   - [バスケットボール・チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バスケットボール・チャンピオンズリーグ "wikilink")
   - [FIBAヨーロッパカップ](https://ja.wikipedia.org/wiki/FIBAヨーロッパカップ "wikilink")
-  - [女子ユーロリーグ](https://ja.wikipedia.org/wiki/女子ユーロリーグ "wikilink")
+  - [女子ユーロリーグ](../Page/女子ユーロリーグ.md "wikilink")
       -
-        ただし[男子大会はFIBAヨーロッパでなく](https://ja.wikipedia.org/wiki/ユーロリーグ "wikilink")[ULEBが運営している](https://ja.wikipedia.org/wiki/欧州バスケットボールリーグ連合 "wikilink")。
+        ただし[男子大会はFIBAヨーロッパでなく](../Page/ユーロリーグ.md "wikilink")[ULEBが運営している](../Page/欧州バスケットボールリーグ連合.md "wikilink")。
   - [ユーロチャレンジ](https://ja.wikipedia.org/wiki/ユーロチャレンジ "wikilink")
   - [ユーロカップ・チャレンジ](https://ja.wikipedia.org/wiki/ユーロカップ・チャレンジ "wikilink")
 

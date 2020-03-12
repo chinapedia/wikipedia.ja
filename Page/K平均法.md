@@ -32,7 +32,7 @@ k-平均法は、一般には以下のような流れで実装される\[5\]\[6\
 
 ## 関連項目
 
-  - [ベクトル量子化](https://ja.wikipedia.org/wiki/ベクトル量子化 "wikilink")
+  - [ベクトル量子化](../Page/ベクトル量子化.md "wikilink")
   - [自己組織化写像](../Page/自己組織化写像.md "wikilink")
   - [データ・クラスタリング](https://ja.wikipedia.org/wiki/データ・クラスタリング "wikilink")
   - [k-means++法](https://ja.wikipedia.org/wiki/k-means++法 "wikilink")

@@ -10,20 +10,20 @@
   - [アラビア語](../Page/アラビア語.md "wikilink")
   - [イタリア語](../Page/イタリア語.md "wikilink")
   - [英語](../Page/英語.md "wikilink")
-  - [エストニア語](https://ja.wikipedia.org/wiki/エストニア語 "wikilink")
+  - [エストニア語](../Page/エストニア語.md "wikilink")
   - [オランダ語](../Page/オランダ語.md "wikilink")
   - [広東語](../Page/広東語.md "wikilink")
   - [ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")
   - [スウェーデン語](../Page/スウェーデン語.md "wikilink")
-  - [スコットランド語](https://ja.wikipedia.org/wiki/スコットランド語 "wikilink")
+  - [スコットランド語](../Page/スコットランド語.md "wikilink")
   - [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")
   - [セルボ・クロアチア語](https://ja.wikipedia.org/wiki/セルボ・クロアチア語 "wikilink")
   - [タイ語](../Page/タイ語.md "wikilink")
   - [チェコ語](../Page/チェコ語.md "wikilink")
-  - [デンマーク語](https://ja.wikipedia.org/wiki/デンマーク語 "wikilink")
+  - [デンマーク語](../Page/デンマーク語.md "wikilink")
   - [ドイツ語](../Page/ドイツ語.md "wikilink")
   - [トルコ語](../Page/トルコ語.md "wikilink")
-  - [ノルウェー語](https://ja.wikipedia.org/wiki/ノルウェー語 "wikilink")
+  - [ノルウェー語](../Page/ノルウェー語.md "wikilink")
   - [ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")
   - [ブルガリア語](../Page/ブルガリア語.md "wikilink")
@@ -37,13 +37,13 @@
 
 ## SAMPA の問題点
 
-SAMPA の表が確実に機能するのは、すでに規定された対象の言語についてのみである。言語の表は各言語間に矛盾があり、整合がとれていない。この問題の解決法は、SAMPA を、一般的な IPA の ASCII 文字での表現として使わないことである。この問題を解決するために [X-SAMPA](https://ja.wikipedia.org/wiki/X-SAMPA "wikilink") が作られた。これは言語特有の相違点を持たない**ただ一つの表**を提供する。
+SAMPA の表が確実に機能するのは、すでに規定された対象の言語についてのみである。言語の表は各言語間に矛盾があり、整合がとれていない。この問題の解決法は、SAMPA を、一般的な IPA の ASCII 文字での表現として使わないことである。この問題を解決するために [X-SAMPA](../Page/X-SAMPA.md "wikilink") が作られた。これは言語特有の相違点を持たない**ただ一つの表**を提供する。
 
 ## 関連項目
 
   - A concise version of [SAMPA chart for English](https://ja.wikipedia.org/wiki/w:SAMPA_chart_for_English "wikilink") sounds.
   - A more complete [SAMPA chart](https://ja.wikipedia.org/wiki/w:SAMPA_chart "wikilink") of the sounds found in most of the European languages.
-  - [キルシェンバウム](https://ja.wikipedia.org/wiki/キルシェンバウム "wikilink")
+  - [キルシェンバウム](../Page/キルシェンバウム.md "wikilink")
 
 ## 外部リンク
 

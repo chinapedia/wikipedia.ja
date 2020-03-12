@@ -3,11 +3,11 @@
 
 ウェブサイトにおける**リダイレクト**（）とは、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の閲覧において、指定した[ウェブページ](../Page/ウェブページ.md "wikilink")から自動的に他のウェブページに転送されること。**URLリダイレクト**（URL redirection）とも言われる。
 
-通常はウェブページの[URL](https://ja.wikipedia.org/wiki/URL "wikilink")が変わったときに、元のURLから新しいURLへ誘導するときに用いられる。[フィッシング詐欺サイトへの誘導などで用いられている場合もある](https://ja.wikipedia.org/wiki/フィッシング_\(詐欺\) "wikilink")。
+通常はウェブページの[URL](https://ja.wikipedia.org/wiki/URL "wikilink")が変わったときに、元のURLから新しいURLへ誘導するときに用いられる。[フィッシング詐欺サイトへの誘導などで用いられている場合もある](../Page/フィッシング_\(詐欺\).md "wikilink")。
 
 ## HTTPリダイレクト
 
-HTTPヘッダにある[HTTPステータスコード](https://ja.wikipedia.org/wiki/HTTPステータスコード "wikilink")にてリダイレクトの種類を伝え、Location:ヘッダで移動先を伝える。種類には301 Moved Permanently（恒久的な移転）や302 Found（発見）などがある。[Webサーバ](../Page/Webサーバ.md "wikilink")の設定ファイル（[Apacheの場合](../Page/Apache_HTTP_Server.md "wikilink")、httpd.confファイルや[.htaccess](https://ja.wikipedia.org/wiki/.htaccess "wikilink")ファイル）や、[CGI](../Page/Common_Gateway_Interface.md "wikilink")（[non-parsed headerスクリプト](https://ja.wikipedia.org/wiki/non-parsed_header "wikilink")）などで指定できる。
+HTTPヘッダにある[HTTPステータスコード](../Page/HTTPステータスコード.md "wikilink")にてリダイレクトの種類を伝え、Location:ヘッダで移動先を伝える。種類には301 Moved Permanently（恒久的な移転）や302 Found（発見）などがある。[Webサーバ](../Page/Webサーバ.md "wikilink")の設定ファイル（[Apacheの場合](../Page/Apache_HTTP_Server.md "wikilink")、httpd.confファイルや[.htaccess](../Page/.htaccess.md "wikilink")ファイル）や、[CGI](../Page/Common_Gateway_Interface.md "wikilink")（[non-parsed headerスクリプト](https://ja.wikipedia.org/wiki/non-parsed_header "wikilink")）などで指定できる。
 
 ## metaタグによるリダイレクト
 
@@ -24,7 +24,7 @@ HTML文書の head要素内に meta要素の http-equiv属性の値に "refresh"
     content="3"の3の部分が転送までの時間を意味する。
 
   - クローラーの解釈
-    各種検索サイトのクローラーの解釈は，それぞれ異なるので注意が必要である。0秒の場合、[Yahoo\! JAPANの場合は](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")301リダイレクト（永久的なリダイレクト）と扱われる\[1\] 。[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")の場合はサーバサイドで301リダイレクトの使用を奨めている\[2\]。
+    各種検索サイトのクローラーの解釈は，それぞれ異なるので注意が必要である。0秒の場合、[Yahoo\! JAPANの場合は](../Page/Yahoo!_JAPAN.md "wikilink")301リダイレクト（永久的なリダイレクト）と扱われる\[1\] 。[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")の場合はサーバサイドで301リダイレクトの使用を奨めている\[2\]。
 
 ## クライアントスクリプトによるリダイレクト
 

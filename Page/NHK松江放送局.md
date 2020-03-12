@@ -1,25 +1,25 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK松江放送局**（エヌエイチケイまつえほうそうきょく）は、[島根県](../Page/島根県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で[県域放送](../Page/県域放送.md "wikilink")を行っており、島根県のみを放送対象地域とする唯一の放送局であるが、実際のエリアは本拠地である[松江市](../Page/松江市.md "wikilink")周辺の[電波事情の関係上](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")、本来は[鳥取放送局の範疇である](../Page/NHK鳥取放送局.md "wikilink")[鳥取県](../Page/鳥取県.md "wikilink")西部にまで及ぶ。
+**NHK松江放送局**（エヌエイチケイまつえほうそうきょく）は、[島根県](../Page/島根県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で[県域放送](../Page/県域放送.md "wikilink")を行っており、島根県のみを放送対象地域とする唯一の放送局であるが、実際のエリアは本拠地である[松江市](../Page/松江市.md "wikilink")周辺の[電波事情の関係上](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")、本来は[鳥取放送局の範疇である](../Page/NHK鳥取放送局.md "wikilink")[鳥取県](../Page/鳥取県.md "wikilink")西部にまで及ぶ。
 
 ## 沿革
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHKmatsue1940.jpg "wikilink")
 
   - [1931年](../Page/1931年.md "wikilink")（昭和6年）[12月21日](../Page/12月21日.md "wikilink") - 松江放送局に本免許交付（呼出符号:JOTK 周波数:625kc 出力:500W）。
-  - [1932年](../Page/1932年.md "wikilink")（昭和7年）[3月7日](../Page/3月7日.md "wikilink") - **[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")日本放送協会松江放送局**開局。
+  - [1932年](../Page/1932年.md "wikilink")（昭和7年）[3月7日](../Page/3月7日.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会松江放送局**開局。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - 総合テレビ放送開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月1日](../Page/10月1日.md "wikilink") - 地上デジタル放送開始。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年） - 開局75周年記念ドラマ『[先生の秘密](https://ja.wikipedia.org/wiki/先生の秘密 "wikilink")』を制作。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月1日](../Page/10月1日.md "wikilink") - 地上デジタル放送開始。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年） - 開局75周年記念ドラマ『[先生の秘密](https://ja.wikipedia.org/wiki/先生の秘密 "wikilink")』を制作。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
 
 ## チャンネル・周波数
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHKID.png "wikilink")
 
-  - [日本海テレビのチャンネル番号が鳥取市内で](../Page/日本海テレビジョン放送.md "wikilink")1chとなっていたため、総合テレビの[リモコンキーID](../Page/リモコンキーID.md "wikilink")は[NHK鳥取の親局](../Page/NHK鳥取放送局.md "wikilink")（アナログ3ch）と同じ「**3**」となっている（自局は6chであったが、鳥取県側に合わせた。また「6」は[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")に合わせる[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")に譲った）。
+  - [日本海テレビのチャンネル番号が鳥取市内で](../Page/日本海テレビジョン放送.md "wikilink")1chとなっていたため、総合テレビの[リモコンキーID](../Page/リモコンキーID.md "wikilink")は[NHK鳥取の親局](../Page/NHK鳥取放送局.md "wikilink")（アナログ3ch）と同じ「**3**」となっている（自局は6chであったが、鳥取県側に合わせた。また「6」は[TBSテレビ](../Page/TBSテレビ.md "wikilink")に合わせる[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")に譲った）。
   - このため、[鳥取県](../Page/鳥取県.md "wikilink")・[広島県](../Page/広島県.md "wikilink")・[山口県](../Page/山口県.md "wikilink")で本局を受信する場合は031・032の後に枝番が付く（鳥取県ではNHK鳥取総合に、広島県では[中国放送](../Page/中国放送.md "wikilink")に、山口県では[テレビ山口](../Page/テレビ山口.md "wikilink")にそれぞれ「3」が割り当てられているため）。
 
 ### 総合テレビ
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [松江](https://ja.wikipedia.org/wiki/松江・米子_テレビ・FM放送所 "wikilink") 21ch 出力：1kW（澄水山）
+  - [松江](../Page/松江・米子_テレビ・FM放送所.md "wikilink") 21ch 出力：1kW（澄水山）
   - 浜田 35ch 出力：100W（[大麻山](https://ja.wikipedia.org/wiki/大麻山_\(島根県\) "wikilink")）
   - [大田](https://ja.wikipedia.org/wiki/大田中継局 "wikilink") 24ch 出力：10W
   - 仁摩 24ch 出力：10W
@@ -142,7 +142,7 @@
 
 <!-- end list -->
 
-  - [おはよう島根](https://ja.wikipedia.org/wiki/おはよう島根 "wikilink")（祝日を除く月曜〜金曜 7:45～8:00、7:51からは[広島から](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink")**中国地方向け放送**）
+  - [おはよう島根](https://ja.wikipedia.org/wiki/おはよう島根 "wikilink")（祝日を除く月曜〜金曜 7:45～8:00、7:51からは[広島から](../Page/NHK広島放送局.md "wikilink")**中国地方向け放送**）
   - ニュース（平日 12:15 - 12:20）
   - [しまねっとNEWS610](https://ja.wikipedia.org/wiki/しまねっとNEWS610 "wikilink")（祝日を除く月曜〜金曜 18:10～19:00）
   - [しまねっと845](https://ja.wikipedia.org/wiki/しまねっと845 "wikilink")（祝日を除く月曜〜金曜 20:45～21:00）
@@ -182,25 +182,25 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福田光男" title="wikilink">福田光男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK広島放送局" title="wikilink">広島</a></p></td>
+<td><p><a href="../Page/福田光男.md" title="wikilink">福田光男</a></p></td>
+<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
 <td><p>放送部副部長<br />
 島根県のニュース</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/澤田拓海" title="wikilink">澤田拓海</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK長野放送局" title="wikilink">長野</a></p></td>
+<td><p><a href="../Page/NHK長野放送局.md" title="wikilink">長野</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/しまねっとNEWS610" title="wikilink">しまねっとNEWS610</a><br />
 （キャスター）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/喜多賢治" title="wikilink">喜多賢治</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKラジオセンター" title="wikilink">ラジオセンター</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>島根県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/斎康敬" title="wikilink">斎康敬</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山形放送局" title="wikilink">山形</a></p></td>
+<td><p><a href="../Page/斎康敬.md" title="wikilink">斎康敬</a></p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -248,7 +248,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/本田久子" title="wikilink">本田久子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK松山放送局" title="wikilink">松山</a></p></td>
+<td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
 <td><p>ラジオニュースなど</p></td>
 </tr>
 <tr class="odd">

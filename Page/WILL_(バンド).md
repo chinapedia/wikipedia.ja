@@ -1,22 +1,22 @@
 > この記事は[WILL \(\)](https://ja.wikipedia.org/wiki/WILL_\(\))から翻訳されています。
 
 
-**WILL**（ウィル）は男性2人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。マネジメントはメンバーの[山田わたる](https://ja.wikipedia.org/wiki/山田亘 "wikilink")（[FENCE OF DEFENSEのメンバーでもある](../Page/FENCE_OF_DEFENSE.md "wikilink")）が役員を務める[チーム・アクティブ](https://ja.wikipedia.org/wiki/チーム・アクティブ "wikilink")が担当している。
+**WILL**（ウィル）は男性2人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。マネジメントはメンバーの[山田わたる](../Page/山田亘.md "wikilink")（[FENCE OF DEFENSEのメンバーでもある](../Page/FENCE_OF_DEFENSE.md "wikilink")）が役員を務める[チーム・アクティブ](https://ja.wikipedia.org/wiki/チーム・アクティブ "wikilink")が担当している。
 
 ## 概要・来歴
 
-メンバーは[DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO "wikilink")（[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")のメンバー）と山田の2人。サポートメンバーとして、元[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")のメンバーである[後藤康二](https://ja.wikipedia.org/wiki/後藤康二 "wikilink")が参加している。
+メンバーは[DJ KOO](../Page/DJ_KOO.md "wikilink")（[TRF](../Page/TRF.md "wikilink")のメンバー）と山田の2人。サポートメンバーとして、元[ZYYG](../Page/ZYYG.md "wikilink")のメンバーである[後藤康二](../Page/後藤康二.md "wikilink")が参加している。
 
 [2004年](../Page/2004年.md "wikilink")から楽曲配信サイト[MUMIX](https://ja.wikipedia.org/wiki/MUMIX "wikilink")での音源発表を開始。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にゲストヴォーカリストに[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")を迎え新譜をリリース。
 
 ## メンバー
 
-  - [DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO "wikilink")
-  - [山田わたる](https://ja.wikipedia.org/wiki/山田亘 "wikilink")
+  - [DJ KOO](../Page/DJ_KOO.md "wikilink")
+  - [山田わたる](../Page/山田亘.md "wikilink")
 
 ### サポートメンバー
 
-  - [後藤康二](https://ja.wikipedia.org/wiki/後藤康二 "wikilink")
+  - [後藤康二](../Page/後藤康二.md "wikilink")
 
 ### ゲストヴォーカリスト
 
@@ -42,7 +42,7 @@
 ### 提供作品
 
   - Signal Theta
-      - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")のアルバム『[Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink")』（2006年2月）に楽曲提供（Disc1の8曲目）
+      - [TRF](../Page/TRF.md "wikilink")のアルバム『[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")』（2006年2月）に楽曲提供（Disc1の8曲目）
 
 ## 外部リンク
 

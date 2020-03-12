@@ -19,17 +19,17 @@
   - [6月9日](../Page/6月9日.md "wikilink")、デモCD『デモ1』発売。
   - [9月15日](../Page/9月15日.md "wikilink")、デモCD『デモ2』発売。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - [3月1日](../Page/3月1日.md "wikilink")、ミニアルバム『小娘うたかた』発売。
-  - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、インターネットTV [ひかり荘](https://ja.wikipedia.org/wiki/ひかり荘 "wikilink")「ひかりナイトバラエティ千原靖史のせいじBar」にゲスト出演。「話が面白いから自分の番組持ってみたら」と[千原靖史](https://ja.wikipedia.org/wiki/千原靖史 "wikilink")に言われ、後に自身もひかり荘で番組配信開始。
+  - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、インターネットTV [ひかり荘](../Page/ひかり荘.md "wikilink")「ひかりナイトバラエティ千原靖史のせいじBar」にゲスト出演。「話が面白いから自分の番組持ってみたら」と[千原靖史](https://ja.wikipedia.org/wiki/千原靖史 "wikilink")に言われ、後に自身もひかり荘で番組配信開始。
 
-**[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")**
+**[2006年](../Page/2006年.md "wikilink")**
 
   - [6月11日](../Page/6月11日.md "wikilink")、ワンマンライブ「小娘うたかたタリラン」を下北沢LOFTにて開催。
   - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、ワンマンライブ「明日こいこい かかってこい」をZher the Zoo YOYOGIにて開催。同日、6月のワンマンライブを収めたDVDを発売。
 
-**[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")**
+**[2007年](../Page/2007年.md "wikilink")**
 
   - [3月1日](../Page/3月1日.md "wikilink")、ワンマンライブ「うわの空、花わらう」を原宿アストロホールにて開催。
 
@@ -42,7 +42,7 @@
 **[2009年](../Page/2009年.md "wikilink")**
 
   - [7月15日](../Page/7月15日.md "wikilink")、「芙咲由美恵」から「fuwala」へ改名することを発表\[1\]。
-  - [9月12日](../Page/9月12日.md "wikilink")、岩手県紫波町の自宅（ガソリンスタンド）にて、「ただいまライブ」を開催。14日付の[岩手日報](https://ja.wikipedia.org/wiki/岩手日報 "wikilink")において記事として取り上げられる\[2\]。
+  - [9月12日](../Page/9月12日.md "wikilink")、岩手県紫波町の自宅（ガソリンスタンド）にて、「ただいまライブ」を開催。14日付の[岩手日報](../Page/岩手日報.md "wikilink")において記事として取り上げられる\[2\]。
   - [9月12日](../Page/9月12日.md "wikilink")、いしがきミュージックフェスティバルに出演。（2011年まで連続出演）
   - [9月19日](../Page/9月19日.md "wikilink")、シングル『声』を発売。
 
@@ -70,7 +70,7 @@
   - 岩手県内を中心に多くのライブイベントに出演。
   - 7月より放送された[岩手コンポスト株式会社](https://ja.wikipedia.org/wiki/岩手コンポスト株式会社 "wikilink")のCMソングの制作に携わる。（作曲家・[小林道夫](https://ja.wikipedia.org/wiki/小林道夫 "wikilink")との共同制作）
   - 8月より、[ホテル森の風　鴬宿のCMにてナレーションを担当](https://ja.wikipedia.org/wiki/ホテル森の風_鴬宿 "wikilink")。
-  - 10月より、[トヨタカローラ岩手](https://ja.wikipedia.org/wiki/トヨタカローラ岩手 "wikilink")のCMに出演。CMソングを歌唱。
+  - 10月より、[トヨタカローラ岩手](../Page/トヨタカローラ岩手.md "wikilink")のCMに出演。CMソングを歌唱。
   - 11月より、[ハウスM21](https://ja.wikipedia.org/wiki/ハウスM21 "wikilink")のCMに出演。
   - 11月より放送された[JA全農いわて](https://ja.wikipedia.org/wiki/JA全農いわて "wikilink")のCMにて、テーマ曲「恋するおコメ」を歌唱。
 
@@ -80,7 +80,7 @@
 
 ## 人物
 
-[岩手県](../Page/岩手県.md "wikilink")[紫波郡](../Page/紫波郡.md "wikilink")[紫波町](https://ja.wikipedia.org/wiki/紫波町 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。17歳で高校を中退し、単身上京。「芙咲由美恵」として活動を行う。2009年夏より「fuwala」に改名。「ふじわらゆみえ」として作詞活動も行っている。
+[岩手県](../Page/岩手県.md "wikilink")[紫波郡](../Page/紫波郡.md "wikilink")[紫波町](../Page/紫波町.md "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。17歳で高校を中退し、単身上京。「芙咲由美恵」として活動を行う。2009年夏より「fuwala」に改名。「ふじわらゆみえ」として作詞活動も行っている。
 
 ## 作品
 
@@ -217,8 +217,8 @@
 
 ## タイアップ一覧
 
-  - 「リンゴ」 - [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「ごきげん\!ふるさと参るin北海道」テーマソング
-  - 「風ふくとき」 - [NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「[中学生日記](https://ja.wikipedia.org/wiki/中学生日記 "wikilink")〜僕はここにいる〜」テーマソング
+  - 「リンゴ」 - [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")「ごきげん\!ふるさと参るin北海道」テーマソング
+  - 「風ふくとき」 - [NHK教育](../Page/NHK教育テレビジョン.md "wikilink")「[中学生日記](https://ja.wikipedia.org/wiki/中学生日記 "wikilink")〜僕はここにいる〜」テーマソング
 
 ## ワンマンライブ
 

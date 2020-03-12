@@ -1,7 +1,7 @@
 > この記事は[GW](https://ja.wikipedia.org/wiki/GW)から翻訳されています。
 
 
-『**まるまるGWクイズ検定**』（まるまるゴールデンウィークくいずけんてい）とは[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")から[5月6日](../Page/5月6日.md "wikilink")の5日間に亘って放送された[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")の名称。
+『**まるまるGWクイズ検定**』（まるまるゴールデンウィークくいずけんてい）とは[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")から[5月6日](../Page/5月6日.md "wikilink")の5日間に亘って放送された[特別番組](../Page/特別番組.md "wikilink")の名称。
 
 ## 番組内容
 
@@ -19,7 +19,7 @@
 
 ### 第2夜
 
-  - [5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink") 19:00～20:54（JST）
+  - [5月3日](../Page/5月3日.md "wikilink") 19:00～20:54（JST）
       - [クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")スペシャル
           - 1000万円に挑戦した親子は?（4択）C:[伊東四朗](../Page/伊東四朗.md "wikilink")・[伊東貴明](https://ja.wikipedia.org/wiki/伊東貴明 "wikilink")親子
 
@@ -39,7 +39,7 @@
 
   - 5月6日 19:00～20:54（JST）
       - [平成教育委員会](../Page/平成教育委員会.md "wikilink")スペシャル
-          - ビートたけし先生から『二度と来るな』と言われたのは?「C:[島田洋七](https://ja.wikipedia.org/wiki/島田洋七 "wikilink")」(島田は以前にも言われたことがある)
+          - ビートたけし先生から『二度と来るな』と言われたのは?「C:[島田洋七](../Page/島田洋七.md "wikilink")」(島田は以前にも言われたことがある)
 
 ## 備考
 
@@ -50,8 +50,8 @@
 ## 関連項目
 
   - [ホリデースペシャル](https://ja.wikipedia.org/wiki/ホリデースペシャル_\(フジテレビジョン\) "wikilink")
-  - [Wぅ杯 番組交流戦スペシャル](https://ja.wikipedia.org/wiki/Wぅ杯_番組交流戦スペシャル "wikilink")
-  - [世界バラエティ選手権](https://ja.wikipedia.org/wiki/世界バラエティ選手権 "wikilink")
+  - [Wぅ杯 番組交流戦スペシャル](../Page/Wぅ杯_番組交流戦スペシャル.md "wikilink")
+  - [世界バラエティ選手権](../Page/世界バラエティ選手権.md "wikilink")
   - [GWスーパークイズウィーク](https://ja.wikipedia.org/wiki/GWスーパークイズウィーク "wikilink")
 
 [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink")

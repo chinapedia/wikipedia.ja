@@ -5,11 +5,11 @@
 
 ## 概要
 
-[ニューカッスル・アポン・タイン](https://ja.wikipedia.org/wiki/ニューカッスル・アポン・タイン "wikilink")で生まれ、[ウォーリック大学](https://ja.wikipedia.org/wiki/ウォーリック大学 "wikilink")で映画製作と文学を学んだ。
+[ニューカッスル・アポン・タイン](../Page/ニューカッスル・アポン・タイン.md "wikilink")で生まれ、[ウォーリック大学](https://ja.wikipedia.org/wiki/ウォーリック大学 "wikilink")で映画製作と文学を学んだ。
 
 1989年に製作会社を設立し、1993年に『ショッピング』で映画監督デビューを果たす。その後、[ハリウッド](../Page/ハリウッド.md "wikilink")に招かれて製作した『[モータル・コンバット](https://ja.wikipedia.org/wiki/モータル・コンバット_\(映画\) "wikilink")』が全米でヒットする。2001年からは『バイオハザード』シリーズの監督や製作を務めている。
 
-『バイオハザード』シリーズの主演女優[ミラ・ジョヴォヴィッチ](https://ja.wikipedia.org/wiki/ミラ・ジョヴォヴィッチ "wikilink")と婚約\[1\]、2007年11月3日に長女が誕生し\[2\]、2009年8月22日にロサンゼルスの自宅で式を挙げた\[3\]。
+『バイオハザード』シリーズの主演女優[ミラ・ジョヴォヴィッチ](../Page/ミラ・ジョヴォヴィッチ.md "wikilink")と婚約\[1\]、2007年11月3日に長女が誕生し\[2\]、2009年8月22日にロサンゼルスの自宅で式を挙げた\[3\]。
 
 ## フィルモグラフィ
 
@@ -73,7 +73,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バイオハザードII_アポカリプス" title="wikilink">バイオハザードII アポカリプス</a><br />
+<td><p><a href="../Page/バイオハザードII_アポカリプス.md" title="wikilink">バイオハザードII アポカリプス</a><br />
 <em>Resident Evil: Apocalypse</em></p></td>
 <td><p>脚本・製作</p></td>
 <td></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイオハザードIII" title="wikilink">バイオハザードIII</a><br />
+<td><p><a href="../Page/バイオハザードIII.md" title="wikilink">バイオハザードIII</a><br />
 <em>Resident Evil: Extinction</em></p></td>
 <td><p>脚本・製作</p></td>
 <td></td>

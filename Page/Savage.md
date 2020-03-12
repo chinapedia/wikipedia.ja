@@ -1,9 +1,9 @@
 > この記事は[Savage](https://ja.wikipedia.org/wiki/Savage)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:S3_savage2000_86c410.jpg "wikilink") **Savage**（サベージ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[グラフィックチップ設計製造メーカー](../Page/Graphics_Processing_Unit.md "wikilink")[S3社が販売していたグラフィックチップの製品およびそのシリーズである](https://ja.wikipedia.org/wiki/S3_Graphics "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:S3_savage2000_86c410.jpg "wikilink") **Savage**（サベージ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[グラフィックチップ設計製造メーカー](../Page/Graphics_Processing_Unit.md "wikilink")[S3社が販売していたグラフィックチップの製品およびそのシリーズである](../Page/S3_Graphics.md "wikilink")。
 
-最初の製品であるSavage3Dは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表され、その後Savageシリーズは[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")向け・[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")向け・統合グラフィックなど多様な用途で提供された。Savageシリーズは2008年現在すでに製造が終了しており、後継製品は[Chromeシリーズである](https://ja.wikipedia.org/wiki/S3_Chrome "wikilink")。
+最初の製品であるSavage3Dは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表され、その後Savageシリーズは[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")向け・[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")向け・統合グラフィックなど多様な用途で提供された。Savageシリーズは2008年現在すでに製造が終了しており、後継製品は[Chromeシリーズである](../Page/S3_Chrome.md "wikilink")。
 
 "[Savage](https://ja.wikipedia.org/wiki/:en:wikt:savage "wikilink")"という名称は「[蛮勇](https://ja.wikipedia.org/wiki/勇気#様々な勇気 "wikilink")」「獰猛」を意味する英単語。
 
@@ -21,15 +21,15 @@ Savage 3Dは成功を収めることは出来なかったが、後続の**Savage
 
 VIAに売却されたS3のグラフィック部門を母体とするS3 Graphicsはチップセット統合型の**ProSavage**の開発を続け、2002年の[Computex Taipeiでは新製品である](https://ja.wikipedia.org/wiki/Computex_Taipei "wikilink")**SavageXP**の展示も行われたが発売されることはなかった。
 
-その後、S3 Graphicsは製品ブランドを[Chromeシリーズに改め](https://ja.wikipedia.org/wiki/S3_Chrome "wikilink")、ProSavageの後継製品も**UniChrome**と命名し、Savageシリーズは完全に終了した。
+その後、S3 Graphicsは製品ブランドを[Chromeシリーズに改め](../Page/S3_Chrome.md "wikilink")、ProSavageの後継製品も**UniChrome**と命名し、Savageシリーズは完全に終了した。
 
 ## デスクトップ向け
 
 ### Savage3D
 
-**Savage3D**は、Savageシリーズのネーミングモデルとして1998年に発表されたグラフィックチップ\[1\]。 [ViRGE GX3をベースとしており](https://ja.wikipedia.org/wiki/S3_ViRGE "wikilink")[Trio 3Dとピン互換性がある](https://ja.wikipedia.org/wiki/S3_Trio "wikilink")。128bitグラフィックコアと64bitのメモリバスを持ち、メモリはSDRAMを8MBまでサポートする。インターフェースは[AGP](../Page/Accelerated_Graphics_Port.md "wikilink") 2xまたは[PCI](../Page/Peripheral_Component_Interconnect.md "wikilink")。
+**Savage3D**は、Savageシリーズのネーミングモデルとして1998年に発表されたグラフィックチップ\[1\]。 [ViRGE GX3をベースとしており](https://ja.wikipedia.org/wiki/S3_ViRGE "wikilink")[Trio 3Dとピン互換性がある](../Page/S3_Trio.md "wikilink")。128bitグラフィックコアと64bitのメモリバスを持ち、メモリはSDRAMを8MBまでサポートする。インターフェースは[AGP](../Page/Accelerated_Graphics_Port.md "wikilink") 2xまたは[PCI](../Page/Peripheral_Component_Interconnect.md "wikilink")。
 
-機能的な特徴としては、**S3TC**と称する[テクスチャ](https://ja.wikipedia.org/wiki/テクスチャ "wikilink")[圧縮](https://ja.wikipedia.org/wiki/圧縮 "wikilink")技術を採用したことであり、これにより小容量のメモリ、狭い帯域のメモリバスでも高[解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink")のテクスチャを扱うことが可能になる。このテクスチャ圧縮技術は[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")にも**DXTn** ([DXTC](https://ja.wikipedia.org/wiki/DXTC "wikilink")) として採用された。その他、S3社の独自[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")**MeTaL**に対応し、[MCによる動画再生支援機能を搭載している](https://ja.wikipedia.org/wiki/フレーム間予測#動き補償 "wikilink")。
+機能的な特徴としては、**S3TC**と称する[テクスチャ](https://ja.wikipedia.org/wiki/テクスチャ "wikilink")[圧縮](https://ja.wikipedia.org/wiki/圧縮 "wikilink")技術を採用したことであり、これにより小容量のメモリ、狭い帯域のメモリバスでも高[解像度](../Page/解像度.md "wikilink")のテクスチャを扱うことが可能になる。このテクスチャ圧縮技術は[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")にも**DXTn** ([DXTC](../Page/DXTC.md "wikilink")) として採用された。その他、S3社の独自[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")**MeTaL**に対応し、[MCによる動画再生支援機能を搭載している](https://ja.wikipedia.org/wiki/フレーム間予測#動き補償 "wikilink")。
 
 #### 主な仕様
 
@@ -112,7 +112,7 @@ GeForce256の搭載したハードウェアT\&Lは、従来はソフトウェア
 
 Savage4をベースとしているが、0.18μmプロセスルールで製造される。VRAMとして64bitメモリバスで接続される4・8・16MBのメモリをサポートし、Savage IXではこれをパッケージ内に統合していることが特徴である。インターフェースはAGP 2xまたはPCI。**DuoView**と称される[マルチディスプレイ](https://ja.wikipedia.org/wiki/マルチディスプレイ "wikilink")に対応する。
 
-アイドル時0.75w、フル3D処理時でも1.5w以下という省電力なモバイル製品でありながら[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")に対応している為、各社の[ノートパソコン](../Page/ノートパソコン.md "wikilink")に採用された。また、2002年にはメモリ8MBモデルのSavage IXを搭載したAGP 2xおよびPCIのビデオカードが登場した。
+アイドル時0.75w、フル3D処理時でも1.5w以下という省電力なモバイル製品でありながら[Direct3D](../Page/Direct3D.md "wikilink")に対応している為、各社の[ノートパソコン](../Page/ノートパソコン.md "wikilink")に採用された。また、2002年にはメモリ8MBモデルのSavage IXを搭載したAGP 2xおよびPCIのビデオカードが登場した。
 
 #### 主な仕様
 
@@ -136,7 +136,7 @@ Savage4をベースとしているが、0.18μmプロセスルールで製造さ
 
 **Super Savage**はMobile Savageの後継製品として[2001年](../Page/2001年.md "wikilink")に発表されたモバイル向けグラフィックチップのシリーズ。 Mobile Savage同様にメモリをパッケージ内に統合した**SuperSavage IX**と、外付メモリを利用する**SuperSavage MX**が存在する。
 
-コアとメモリのクロックが引き上げられている他、AGP 4xに対応し、画面出力も[UXGA](https://ja.wikipedia.org/wiki/UXGA "wikilink")までの対応となっている。メモリインターフェースが大幅に強化され、128bit接続のSDRAMまたは64bit接続の[DDR SDRAMに対応する](https://ja.wikipedia.org/wiki/DDR_SDRAM "wikilink")。
+コアとメモリのクロックが引き上げられている他、AGP 4xに対応し、画面出力も[UXGA](https://ja.wikipedia.org/wiki/UXGA "wikilink")までの対応となっている。メモリインターフェースが大幅に強化され、128bit接続のSDRAMまたは64bit接続の[DDR SDRAMに対応する](../Page/DDR_SDRAM.md "wikilink")。
 
 #### 主な仕様
 
@@ -161,7 +161,7 @@ Savage4をベースとしているが、0.18μmプロセスルールで製造さ
 
 ### ProSavage
 
-**ProSavage**はSavage2000の2Dエンジン、Savage4の3Dエンジンをベースとして開発された統合[チップセット](../Page/チップセット.md "wikilink")向グラフィックコア。 [VIA TechnologiesのKM](../Page/VIA_Technologies.md "wikilink")133、KL133などに搭載された。PM133に搭載されている**Twister**も基本的に同じものであり、デスクトップPC市場以外でも[VIA C3プロセッサと組み合わせて組込用途で広く使用された](https://ja.wikipedia.org/wiki/VIA_C3 "wikilink")。
+**ProSavage**はSavage2000の2Dエンジン、Savage4の3Dエンジンをベースとして開発された統合[チップセット](../Page/チップセット.md "wikilink")向グラフィックコア。 [VIA TechnologiesのKM](../Page/VIA_Technologies.md "wikilink")133、KL133などに搭載された。PM133に搭載されている**Twister**も基本的に同じものであり、デスクトップPC市場以外でも[VIA C3プロセッサと組み合わせて組込用途で広く使用された](../Page/VIA_C3.md "wikilink")。
 
 ### ProSavage-DDR
 
@@ -172,9 +172,9 @@ Savage4をベースとしているが、0.18μmプロセスルールで製造さ
 ## 関連項目
 
   - [S3 ViRGE](https://ja.wikipedia.org/wiki/S3_ViRGE "wikilink")
-  - [S3 Trio](https://ja.wikipedia.org/wiki/S3_Trio "wikilink")
-  - [S3 Chrome](https://ja.wikipedia.org/wiki/S3_Chrome "wikilink")
-  - [S3 Graphics](https://ja.wikipedia.org/wiki/S3_Graphics "wikilink")
+  - [S3 Trio](../Page/S3_Trio.md "wikilink")
+  - [S3 Chrome](../Page/S3_Chrome.md "wikilink")
+  - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
   - [VIA Technologies](../Page/VIA_Technologies.md "wikilink")
 
 [Category:グラフィックカード](https://ja.wikipedia.org/wiki/Category:グラフィックカード "wikilink")

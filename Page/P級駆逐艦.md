@@ -13,16 +13,16 @@
 
 上記の経緯より、設計はO級の小改正型、すなわちJ級の派生型であり、単煙突・船首楼型という船型も同様である\[6\]。機関も同様で、[アドミラルティ式](../Page/海軍本部_\(イギリス\).md "wikilink")3胴型[水管ボイラー](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")（圧力、温度326.7℃）、[パーソンズ式オール](https://ja.wikipedia.org/wiki/パーソンズ・マリン・スチーム・タービン "wikilink")・[ギヤード・タービンによる](https://ja.wikipedia.org/wiki/ギアード・タービン方式 "wikilink")2軸推進、出力40,000[馬力](../Page/馬力.md "wikilink")である\[7\]。ただし本級では、配管系の配置に改良が加えられた\[8\]。
 
-一方、上記の経緯から[艦砲](https://ja.wikipedia.org/wiki/艦砲 "wikilink")は45口径10.2cm単装高角砲（[QF 4インチ砲Mk.V](https://ja.wikipedia.org/wiki/:en:QF_4_inch_Mk_V_naval_gun "wikilink")）5基に変更された。このため、O級で搭載されていた後部[魚雷発射管](https://ja.wikipedia.org/wiki/魚雷発射管 "wikilink")は省かれて、[対艦兵器](https://ja.wikipedia.org/wiki/対艦兵器 "wikilink")は21インチ4連装[魚雷発射管](https://ja.wikipedia.org/wiki/魚雷発射管 "wikilink")1基のみとなった\[9\]。ただしピタード、パスファインダーでは10.2cm単装高角砲4基として、4連装魚雷発射管2基を搭載するように変更されて竣工した。また1945年初頭、ピタードでは10.2cm単装高角砲を全て撤去するかわりに45口径10.2cm連装高角砲（[QF 4インチ砲Mk.XVI](https://ja.wikipedia.org/wiki/:en:QF_4_inch_Mk_XVI_naval_gun "wikilink")）2基を搭載した。[射撃指揮装置はO級と同様で](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")、285型レーダーを備えたMk.V<sup>\*\*</sup>方位盤と、対空用のFKC（）射撃盤と対水上用のFCB（Fire Control Box）射撃盤の組み合わせとされた\[10\]。
+一方、上記の経緯から[艦砲](../Page/艦砲.md "wikilink")は45口径10.2cm単装高角砲（[QF 4インチ砲Mk.V](https://ja.wikipedia.org/wiki/:en:QF_4_inch_Mk_V_naval_gun "wikilink")）5基に変更された。このため、O級で搭載されていた後部[魚雷発射管](../Page/魚雷発射管.md "wikilink")は省かれて、[対艦兵器](https://ja.wikipedia.org/wiki/対艦兵器 "wikilink")は21インチ4連装[魚雷発射管](../Page/魚雷発射管.md "wikilink")1基のみとなった\[9\]。ただしピタード、パスファインダーでは10.2cm単装高角砲4基として、4連装魚雷発射管2基を搭載するように変更されて竣工した。また1945年初頭、ピタードでは10.2cm単装高角砲を全て撤去するかわりに45口径10.2cm連装高角砲（[QF 4インチ砲Mk.XVI](https://ja.wikipedia.org/wiki/:en:QF_4_inch_Mk_XVI_naval_gun "wikilink")）2基を搭載した。[射撃指揮装置はO級と同様で](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")、285型レーダーを備えたMk.V<sup>\*\*</sup>方位盤と、対空用のFKC（）射撃盤と対水上用のFCB（Fire Control Box）射撃盤の組み合わせとされた\[10\]。
 
-近距離用の[対空兵器](https://ja.wikipedia.org/wiki/対空兵器 "wikilink")としては、当初はJ級と同様に[39口径40mm4連装機銃](../Page/ヴィッカース_QF_2ポンド砲.md "wikilink")（QF 2ポンド・[ポンポン砲](https://ja.wikipedia.org/wiki/ポンポン砲 "wikilink")）1基と[62口径12.7mm4連装機銃](https://ja.wikipedia.org/wiki/.50"/62ヴィッカース機関銃 "wikilink")2基を搭載する予定であった。しかしいずれも[防空](../Page/防空.md "wikilink")力としては不十分だったため大戦中に撤去され、1944年1月の時点では、[70口径20mm機銃の連装](https://ja.wikipedia.org/wiki/エリコンFF_20_mm_機関砲 "wikilink")・単装銃架2基ずつが標準的な装備となっていた。またピタード、ポークパインでは70口径20mm機銃の搭載までの間、[高速魚雷艇](../Page/高速魚雷艇.md "wikilink")と同型の62口径12.7mm連装機銃が搭載された\[11\]。
+近距離用の[対空兵器](../Page/対空兵器.md "wikilink")としては、当初はJ級と同様に[39口径40mm4連装機銃](../Page/ヴィッカース_QF_2ポンド砲.md "wikilink")（QF 2ポンド・[ポンポン砲](https://ja.wikipedia.org/wiki/ポンポン砲 "wikilink")）1基と[62口径12.7mm4連装機銃](https://ja.wikipedia.org/wiki/.50"/62ヴィッカース機関銃 "wikilink")2基を搭載する予定であった。しかしいずれも[防空](../Page/防空.md "wikilink")力としては不十分だったため大戦中に撤去され、1944年1月の時点では、[70口径20mm機銃の連装](../Page/エリコンFF_20_mm_機関砲.md "wikilink")・単装銃架2基ずつが標準的な装備となっていた。またピタード、ポークパインでは70口径20mm機銃の搭載までの間、[高速魚雷艇](../Page/高速魚雷艇.md "wikilink")と同型の62口径12.7mm連装機銃が搭載された\[11\]。
 
 ## 同型艦
 
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/ペナント・ナンバー" title="wikilink">#</a></p></th>
+<th><p><a href="../Page/ペナント・ナンバー.md" title="wikilink">#</a></p></th>
 <th><p>艦名</p></th>
 <th><p>造船所</p></th>
 <th><p>就役</p></th>
@@ -38,7 +38,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ホーソン・レスリー" title="wikilink">ホーソン・レスリー</a></p></td>
 <td><p>1942年<br />
 2月4日</p></td>
-<td><p>1943年4月16日、<a href="https://ja.wikipedia.org/wiki/チーニョ船団の戦い" title="wikilink">チーニョ船団の戦い</a>においてイタリア海軍の<a href="../Page/水雷艇.md" title="wikilink">水雷艇</a><a href="https://ja.wikipedia.org/wiki/チーニョ_(水雷艇)" title="wikilink">チーニョ</a>、<a href="https://ja.wikipedia.org/wiki/カシオペア_(水雷艇)" title="wikilink">カシオペアと交戦後処分</a>。</p></td>
+<td><p>1943年4月16日、<a href="../Page/チーニョ船団の戦い.md" title="wikilink">チーニョ船団の戦い</a>においてイタリア海軍の<a href="../Page/水雷艇.md" title="wikilink">水雷艇</a><a href="https://ja.wikipedia.org/wiki/チーニョ_(水雷艇)" title="wikilink">チーニョ</a>、<a href="https://ja.wikipedia.org/wiki/カシオペア_(水雷艇)" title="wikilink">カシオペアと交戦後処分</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>G69<br />
@@ -53,7 +53,7 @@ F169[12]</p></td>
 </tr>
 <tr class="odd">
 <td><p>G41</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パンサー_(駆逐艦)" title="wikilink">パンサー</a><br />
+<td><p><a href="../Page/パンサー_(駆逐艦).md" title="wikilink">パンサー</a><br />
 <a href="https://ja.wikipedia.org/wiki/:en:HMS_Panther_(G41)" title="wikilink">HMS <em>Panther</em></a></p></td>
 <td></td>
 <td><p>1941年<br />
@@ -66,7 +66,7 @@ F169[12]</p></td>
 <a href="https://ja.wikipedia.org/wiki/:it:HMS_Partridge_(G30)" title="wikilink">HMS <em>Partridge</em></a></p></td>
 <td><p>1942年<br />
 2月22日</p></td>
-<td><p>1942年12月18日、地中海の<a href="../Page/オラン.md" title="wikilink">オラン</a>西方沖において<a href="https://ja.wikipedia.org/wiki/ドイツ海軍_(国防軍)" title="wikilink">ドイツ海軍の</a><a href="https://ja.wikipedia.org/wiki/UボートVII型" title="wikilink">VIIC型Uボート</a><a href="https://ja.wikipedia.org/wiki/:en:German_submarine_U-565" title="wikilink">U-565の雷撃により撃沈</a>。</p></td>
+<td><p>1942年12月18日、地中海の<a href="../Page/オラン.md" title="wikilink">オラン</a>西方沖において<a href="https://ja.wikipedia.org/wiki/ドイツ海軍_(国防軍)" title="wikilink">ドイツ海軍の</a><a href="../Page/UボートVII型.md" title="wikilink">VIIC型Uボート</a><a href="https://ja.wikipedia.org/wiki/:en:German_submarine_U-565" title="wikilink">U-565の雷撃により撃沈</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -76,7 +76,7 @@ F169[12]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホーソン・レスリー" title="wikilink">ホーソン・レスリー</a></p></td>
 <td><p>1942年<br />
 8月13日</p></td>
-<td><p>1945年2月11日、<a href="https://ja.wikipedia.org/wiki/ラムリー島の戦い" title="wikilink">ラムリー島の戦い</a>において<a href="../Page/大日本帝国陸軍.md" title="wikilink">日本陸軍</a><a href="https://ja.wikipedia.org/wiki/陸軍飛行戦隊" title="wikilink">航空部隊</a><a href="https://ja.wikipedia.org/wiki/加藤隼戦闘隊" title="wikilink">飛行第64戦隊の</a><a href="../Page/一式戦闘機.md" title="wikilink">一式戦「隼」</a>2機の<a href="../Page/急降下爆撃.md" title="wikilink">急降下爆撃</a>により大破。<br />
+<td><p>1945年2月11日、<a href="https://ja.wikipedia.org/wiki/ラムリー島の戦い" title="wikilink">ラムリー島の戦い</a>において<a href="../Page/大日本帝国陸軍.md" title="wikilink">日本陸軍</a><a href="../Page/陸軍飛行戦隊.md" title="wikilink">航空部隊</a><a href="https://ja.wikipedia.org/wiki/加藤隼戦闘隊" title="wikilink">飛行第64戦隊の</a><a href="../Page/一式戦闘機.md" title="wikilink">一式戦「隼」</a>2機の<a href="../Page/急降下爆撃.md" title="wikilink">急降下爆撃</a>により大破。<br />
 本国帰還後予備役編入、1948年に解体。</p></td>
 </tr>
 <tr class="even">

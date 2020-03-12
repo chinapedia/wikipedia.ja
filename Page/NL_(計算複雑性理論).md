@@ -1,13 +1,13 @@
 > この記事は[NL \(\)](https://ja.wikipedia.org/wiki/NL_\(\))から翻訳されています。
 
 
-**NL**（えぬえる、）は、[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")の一つである。[非決定性チューリングマシン](https://ja.wikipedia.org/wiki/非決定性チューリングマシン "wikilink")で[対数](../Page/対数.md "wikilink")規模の記憶領域を使って解ける問題がこのクラスに属する。
+**NL**（えぬえる、）は、[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")の一つである。[非決定性チューリングマシン](../Page/非決定性チューリングマシン.md "wikilink")で[対数](../Page/対数.md "wikilink")規模の記憶領域を使って解ける問題がこのクラスに属する。
 
 **NL** は **[L](https://ja.wikipedia.org/wiki/L_\(計算複雑性理論\) "wikilink")**を一般化したものである。**L** は[決定性チューリングマシンでの対数領域問題のクラスである](../Page/チューリングマシン.md "wikilink")。決定性チューリングマシンは非決定性チューリングマシンに含まれるため、**L** も **NL** に含まれる。
 
 **NL**は[非決定性領域](https://ja.wikipedia.org/wiki/NSPACE "wikilink")(NSPACE)の計算資源記法で形式的に定義でき、**NL** = **NSPACE**(log *n*) となる。
 
-計算複雑性理論の研究により、このクラスと他の複雑性クラスの関係が明らかとなり、必要な[計算資源](https://ja.wikipedia.org/wiki/計算資源 "wikilink")も明らかとなってきた。一方、[アルゴリズム](../Page/アルゴリズム.md "wikilink")の研究によって、対数領域で解ける問題も明らかとなってきつつある。しかし、計算複雑性理論の他の分野と同様、**NL**についての重要な部分は未解決である。
+計算複雑性理論の研究により、このクラスと他の複雑性クラスの関係が明らかとなり、必要な[計算資源](../Page/計算資源.md "wikilink")も明らかとなってきた。一方、[アルゴリズム](../Page/アルゴリズム.md "wikilink")の研究によって、対数領域で解ける問題も明らかとなってきつつある。しかし、計算複雑性理論の他の分野と同様、**NL**についての重要な部分は未解決である。
 
 **NL**の[確率的定義](https://ja.wikipedia.org/wiki/#確率的定義 "wikilink")（後述）を指して **RL** と呼ぶこともある。しかし、**RL**という名称は**RLP**という複雑性クラスの別名として使われることが多い（**RLP**とは、[確率的チューリングマシン](https://ja.wikipedia.org/wiki/確率的チューリングマシン "wikilink")で対数領域と多項式時間で解ける問題のクラス）。
 
@@ -15,16 +15,16 @@
 
 ある複雑性クラスに属する最も難しい問題を指して完全問題という。直観的には、完全問題を効率的に解く方法が判っていれば、それを使ってそのクラスのあらゆる問題を解くことが出来る。すなわち、完全問題はその複雑性クラスの能力の程度を示すものである。
 
-**NL完全**であることが判っている問題はいくつかある。STCON問題（[有向グラフの](../Page/グラフ理論.md "wikilink")2点間の経路の有無を問う問題）と2元[充足可能性問題](https://ja.wikipedia.org/wiki/充足可能性問題 "wikilink")は**NL完全**である。2元充足可能性問題とは、[連言標準形](../Page/連言標準形.md "wikilink")の[論理式](https://ja.wikipedia.org/wiki/論理式 "wikilink")の各節（論理和で表される部分）が2つの変数で構成されているとき、その論理式を真とする変数値の組み合わせが存在するかどうかを問う問題である。以下にそのような論理式の例を示す。なお、\~（チルダ）は「否定」を意味する。
+**NL完全**であることが判っている問題はいくつかある。STCON問題（[有向グラフの](../Page/グラフ理論.md "wikilink")2点間の経路の有無を問う問題）と2元[充足可能性問題](../Page/充足可能性問題.md "wikilink")は**NL完全**である。2元充足可能性問題とは、[連言標準形](../Page/連言標準形.md "wikilink")の[論理式](https://ja.wikipedia.org/wiki/論理式 "wikilink")の各節（論理和で表される部分）が2つの変数で構成されているとき、その論理式を真とする変数値の組み合わせが存在するかどうかを問う問題である。以下にそのような論理式の例を示す。なお、\~（チルダ）は「否定」を意味する。
 
   -
     (*x*<sub>1</sub> or \~*x*<sub>3</sub>) and (\~*x*<sub>2</sub> or *x*<sub>3</sub>) and (\~*x*<sub>1</sub> or \~*x*<sub>2</sub>)
 
 ## 包含関係
 
-**NL** は **[P](https://ja.wikipedia.org/wiki/P_\(計算複雑性理論\) "wikilink")**に含まれる。これは、2元充足可能性問題に多項式時間のアルゴリズムが存在していることから明らかである。しかし、**NL** = **P** かどうか、あるいは **L** = **NL** かどうかは未だわかっていない。非決定性領域は補集合演算について閉じているため、**NL** = **co-NL** であることが判っている。これは、Neil Immerman と Róbert Szelepcsényi が 1987年にそれぞれ独自に証明した。彼らはこの業績によって1995年の[ゲーデル賞](https://ja.wikipedia.org/wiki/ゲーデル賞 "wikilink")を受賞している（[PSPACE](https://ja.wikipedia.org/wiki/PSPACE "wikilink")のようなより大きいクラスでは、[サヴィッチの定理](https://ja.wikipedia.org/wiki/サヴィッチの定理 "wikilink")（1970年）により**PSPACE** = **NPSPACE**、**NPSPACE** = **co-NPSPACE**であることが既に知られていた）。
+**NL** は **[P](../Page/P_\(計算複雑性理論\).md "wikilink")**に含まれる。これは、2元充足可能性問題に多項式時間のアルゴリズムが存在していることから明らかである。しかし、**NL** = **P** かどうか、あるいは **L** = **NL** かどうかは未だわかっていない。非決定性領域は補集合演算について閉じているため、**NL** = **co-NL** であることが判っている。これは、Neil Immerman と Róbert Szelepcsényi が 1987年にそれぞれ独自に証明した。彼らはこの業績によって1995年の[ゲーデル賞](../Page/ゲーデル賞.md "wikilink")を受賞している（[PSPACE](https://ja.wikipedia.org/wiki/PSPACE "wikilink")のようなより大きいクラスでは、[サヴィッチの定理](https://ja.wikipedia.org/wiki/サヴィッチの定理 "wikilink")（1970年）により**PSPACE** = **NPSPACE**、**NPSPACE** = **co-NPSPACE**であることが既に知られていた）。
 
-[回路計算量](https://ja.wikipedia.org/wiki/回路計算量 "wikilink")理論では、**NL** は**[NC](https://ja.wikipedia.org/wiki/NC_\(計算複雑性理論\) "wikilink")**の階層に置くことができる。Papadimitriou 1994, Theorem 16.1 によれば、次のようになる。
+[回路計算量](https://ja.wikipedia.org/wiki/回路計算量 "wikilink")理論では、**NL** は**[NC](../Page/NC_\(計算複雑性理論\).md "wikilink")**の階層に置くことができる。Papadimitriou 1994, Theorem 16.1 によれば、次のようになる。
 
 \[\mathsf{NC_1 \subseteq L \subseteq NL \subseteq NC_2}\]
 
@@ -51,7 +51,7 @@
 
 ## 記述計算量
 
-**NL**の簡単な論理的定義として、[推移閉包](https://ja.wikipedia.org/wiki/推移閉包 "wikilink")演算子を付与した[一階述語論理](https://ja.wikipedia.org/wiki/一階述語論理 "wikilink")で表される言語が**NL**に含まれる。
+**NL**の簡単な論理的定義として、[推移閉包](https://ja.wikipedia.org/wiki/推移閉包 "wikilink")演算子を付与した[一階述語論理](../Page/一階述語論理.md "wikilink")で表される言語が**NL**に含まれる。
 
 ## 参考文献
 

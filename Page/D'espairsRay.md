@@ -5,11 +5,11 @@
 
 ## 概要
 
-バンドのテーマは「**ダークと破壊**」で、ヘヴィなサウンドに[シンセサイザー](../Page/シンセサイザー.md "wikilink")を混ぜた重厚で[インダストリアル](https://ja.wikipedia.org/wiki/インダストリアル "wikilink")なサウンドを特徴としている。
+バンドのテーマは「**ダークと破壊**」で、ヘヴィなサウンドに[シンセサイザー](../Page/シンセサイザー.md "wikilink")を混ぜた重厚で[インダストリアル](../Page/インダストリアル.md "wikilink")なサウンドを特徴としている。
 
 日本産[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")の雄と称されている\[3\]。結成当初から、独特な洋楽アプローチを感じさせるクオリティの高い楽曲と、観る者を圧倒するカリスマ性の強い激しいライヴパフォーマンスを行ってきた\[4\]。
 
-作詞は基本的にHIZUMIが担当し、作曲は主に[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")、TSUKASAが担当する。また、メジャーデビュー以降最初のシングルの「FINAL CALL」からは[abingdon boys schoolの](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")[岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink")がプロデュースを担当している。
+作詞は基本的にHIZUMIが担当し、作曲は主に[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")、TSUKASAが担当する。また、メジャーデビュー以降最初のシングルの「FINAL CALL」からは[abingdon boys schoolの](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")[岸利至](../Page/岸利至.md "wikilink")がプロデュースを担当している。
 
 ファンのことは**マニア**と呼ばれ、リリースされる作品には「**マニア向け**」と記載されている。
 
@@ -17,21 +17,21 @@
 
 ## メンバー
 
-  - **HIZUMI** ：**[Leadvocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")**（[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")、B型）
+  - **HIZUMI** ：**[Leadvocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")**（[1976年](../Page/1976年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")、B型）
       -
-        [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[山形市](../Page/山形市.md "wikilink")出身。主に作詞担当。攻撃的なシャウトと、伸びやかなクリーンボイスを使い分ける。
+        [山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")出身。主に作詞担当。攻撃的なシャウトと、伸びやかなクリーンボイスを使い分ける。
         解散後、創作プロジェクトUMBRELLAを始動。
-  - **[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")** ：**[Guitar](../Page/ギター.md "wikilink")** ,**[Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")** ,**[Backing vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")**（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")、O型）
+  - **[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")** ：**[Guitar](../Page/ギター.md "wikilink")** ,**[Programming](../Page/ミュージックシーケンサー.md "wikilink")** ,**[Backing vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")**（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")、O型）
       -
-        [山口県](../Page/山口県.md "wikilink")[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")出身。バンドのメインコンポーザーであり、全楽曲の8割程度を作曲している。影響を受けたギタリストは[瀧川一郎](https://ja.wikipedia.org/wiki/瀧川一郎 "wikilink")。
-        解散後[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")に加入。
-  - **ZERO** ：**[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")** ,**[Backing vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")**（[1977年](../Page/1977年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")、O型）
+        [山口県](../Page/山口県.md "wikilink")[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")出身。バンドのメインコンポーザーであり、全楽曲の8割程度を作曲している。影響を受けたギタリストは[瀧川一郎](../Page/瀧川一郎.md "wikilink")。
+        解散後[Angelo](../Page/Angelo.md "wikilink")に加入。
+  - **ZERO** ：**[Bass](../Page/ベース_\(弦楽器\).md "wikilink")** ,**[Backing vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")**（[1977年](../Page/1977年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")、O型）
       -
-        [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")出身。
+        [埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")出身。
         解散後、[THE MICRO HEAD 4N'Sを結成](https://ja.wikipedia.org/wiki/THE_MICRO_HEAD_4N'S "wikilink")。
-  - **TSUKASA** ：**[Drums](../Page/ドラムセット.md "wikilink")** ,**[Percussion](../Page/パーカッション.md "wikilink")** ,**[Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")**（[1977年](../Page/1977年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、B型）
+  - **TSUKASA** ：**[Drums](../Page/ドラムセット.md "wikilink")** ,**[Percussion](../Page/パーカッション.md "wikilink")** ,**[Programming](../Page/ミュージックシーケンサー.md "wikilink")**（[1977年](../Page/1977年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、B型）
       -
-        [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[河北町](../Page/河北町.md "wikilink")出身。リーダー。[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")とともに作曲担当（Reddish -DIVA version-、朧ノ月、MAZE、灰と雨、Cocoon 、KAMIKAZE、琥珀 等を作曲している）
+        [山形県](../Page/山形県.md "wikilink")[河北町](../Page/河北町.md "wikilink")出身。リーダー。[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")とともに作曲担当（Reddish -DIVA version-、朧ノ月、MAZE、灰と雨、Cocoon 、KAMIKAZE、琥珀 等を作曲している）
         解散後、[THE MICRO HEAD 4N'Sを結成](https://ja.wikipedia.org/wiki/THE_MICRO_HEAD_4N'S "wikilink")。2015年に**[最上川司](https://ja.wikipedia.org/wiki/最上川司 "wikilink")**名義で[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[演歌歌手](../Page/演歌歌手.md "wikilink")としてデビュー\[5\]。
 
 ## 来歴
@@ -47,28 +47,28 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 1月に1stアルバム『Coll:set』をヨーロッパでリリース。
       - 欧米9か国のライブで総動員数1万5千人を記録し、海外での支持を獲得した\[7\]。
-      - 8月には[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で7万人を集めたヨーロッパ最大のメタルフェスティバル「[Wacken Open Air](https://ja.wikipedia.org/wiki/ヴァッケン・オープン・エア "wikilink")」に唯一の日本人バンドとして参加\[8\]。
+      - 8月には[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で7万人を集めたヨーロッパ最大のメタルフェスティバル「[Wacken Open Air](../Page/ヴァッケン・オープン・エア.md "wikilink")」に唯一の日本人バンドとして参加\[8\]。
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - 6月に2ndアルバム『MIRROR』をヨーロッパでリリース。
-      - [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")での2万人規模の2つのフェス「TUSKA OPEN AIR」、「RUISROCK」に出演\[9\]。
+      - [フィンランド](../Page/フィンランド.md "wikilink")での2万人規模の2つのフェス「TUSKA OPEN AIR」、「RUISROCK」に出演\[9\]。
 
 <!-- end list -->
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 3月に2ndアルバム『MIRROR』をアメリカでリリース。
-      - [アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")34都市で開催されたツアー「Taste of Chaos 2008」に参加した\[10\]。[ブレット・フォー・マイ・ヴァレンタイン](https://ja.wikipedia.org/wiki/ブレット・フォー・マイ・ヴァレンタイン "wikilink")、[アヴェンジド・セヴンフォールド](https://ja.wikipedia.org/wiki/アヴェンジド・セヴンフォールド "wikilink")、[アトレイユ](https://ja.wikipedia.org/wiki/アトレイユ "wikilink")、[ムックと共に参加し](https://ja.wikipedia.org/wiki/MUCC "wikilink")、メインステージに出場した。
+      - [アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")34都市で開催されたツアー「Taste of Chaos 2008」に参加した\[10\]。[ブレット・フォー・マイ・ヴァレンタイン](../Page/ブレット・フォー・マイ・ヴァレンタイン.md "wikilink")、[アヴェンジド・セヴンフォールド](../Page/アヴェンジド・セヴンフォールド.md "wikilink")、[アトレイユ](https://ja.wikipedia.org/wiki/アトレイユ "wikilink")、[ムックと共に参加し](../Page/MUCC.md "wikilink")、メインステージに出場した。
 
 <!-- end list -->
 
   - [2009年](../Page/2009年.md "wikilink")
       - [3月11日](../Page/3月11日.md "wikilink")、アルバム『REDEEMER』のリリースを以てメジャーデビュー、新レーベルのデリシャス・デリ・レコーズに移籍した。ユニバーサル・インターナショナルより発売された\[11\]。
-      - [9月9日](../Page/9月9日.md "wikilink")、10th Anniversary Singleの発売を予定し、[10月1日](../Page/10月1日.md "wikilink")には初のホールワンマンとなる[渋谷C.C.Lemonホールでのライブを行なう](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")\[12\]。
+      - [9月9日](../Page/9月9日.md "wikilink")、10th Anniversary Singleの発売を予定し、[10月1日](../Page/10月1日.md "wikilink")には初のホールワンマンとなる[渋谷C.C.Lemonホールでのライブを行なう](../Page/渋谷公会堂.md "wikilink")\[12\]。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
 <!-- end list -->
 
   - [2014年](../Page/2014年.md "wikilink")
-      - [5月5日](../Page/5月5日.md "wikilink")、[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")主催のイベント「THE INTERSECTION OF DOGMA」（[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") DiverCity Tokyo）に出演する事を発表。
+      - [5月5日](../Page/5月5日.md "wikilink")、[Angelo](../Page/Angelo.md "wikilink")主催のイベント「THE INTERSECTION OF DOGMA」（[Zepp](../Page/Zepp.md "wikilink") DiverCity Tokyo）に出演する事を発表。
       - [7月29日](../Page/7月29日.md "wikilink")、「THE INTERSECTION OF DOGMA」に出演。約3年半ぶりのライブを成功させた\[13\]\[14\]。
 
 ## 日本国外でのライブ活動
@@ -98,7 +98,7 @@
 <!-- end list -->
 
   - 5月、西海岸・11月に東海岸で現地のバンドと共同でのアメリカツアー
-  - 10月、[蜉蝣と共同でのツアーでドイツミュンヘン](https://ja.wikipedia.org/wiki/蜉蝣_\(バンド\) "wikilink")、フランスパリでの公演
+  - 10月、[蜉蝣と共同でのツアーでドイツミュンヘン](../Page/蜉蝣_\(バンド\).md "wikilink")、フランスパリでの公演
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
 
 <!-- end list -->
 
-  - 8月、ヨーロッパ大型メタルフェスティバル「[Wacken Open Air](https://ja.wikipedia.org/wiki/ヴァッケン・オープン・エア "wikilink")」への出演
+  - 8月、ヨーロッパ大型メタルフェスティバル「[Wacken Open Air](../Page/ヴァッケン・オープン・エア.md "wikilink")」への出演
   - 11月、ヨーロッパ8ヶ国（14公演）でのワンマンツアー
 
 <!-- end list -->

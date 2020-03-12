@@ -16,22 +16,22 @@
   -
     券種は紙版、WEB SUNQパス共に同様。ここでは現在発売されている券種のみ紹介する。()は券面の色を示す。
   - 全九州+下関版（青色・緑色）
-    九州7県（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[長崎県](../Page/長崎県.md "wikilink")・[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[鹿児島県](../Page/鹿児島県.md "wikilink")）と、[山口県](../Page/山口県.md "wikilink")[下関エリアの](../Page/下関市.md "wikilink")「SUNQパス運営委員会」参加事業者の路線バス（約2,400路線、ただし例外あり・下記参照）及び4船舶事業者の航路を利用できる。
+    九州7県（[福岡県](../Page/福岡県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[長崎県](../Page/長崎県.md "wikilink")・[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[鹿児島県](../Page/鹿児島県.md "wikilink")）と、[山口県](../Page/山口県.md "wikilink")[下関エリアの](../Page/下関市.md "wikilink")「SUNQパス運営委員会」参加事業者の路線バス（約2,400路線、ただし例外あり・下記参照）及び4船舶事業者の航路を利用できる。
     3日間用（青色）と4日間用（緑色）があり、価格が異なる。それぞれ、連続する3日間（または4日間）に限り有効。
   - 北部九州+下関版（柿色）
     [北部九州](../Page/北部九州.md "wikilink")エリア5県（福岡県・佐賀県・長崎県・熊本県・大分県）と下関エリアのバス（約1,500路線）及び3船舶事業者の航路を利用できる。
     3日間用のみ用意されている。
   - 南部九州版（黄色）
-    [南部九州エリア](https://ja.wikipedia.org/wiki/南九州 "wikilink")3県（熊本県・宮崎県・鹿児島県）と1船舶事業者の航路を利用できる。
+    [南部九州エリア](../Page/南九州.md "wikilink")3県（熊本県・宮崎県・鹿児島県）と1船舶事業者の航路を利用できる。
     3日間用のみ用意されている。
 
 ## 使い方
 
 ### 発売方法
 
-SUNQパスは、SUNQパス運営委員会に参加している各バス事業者の窓口（バスターミナルや営業所など）、[西鉄天神大牟田線](https://ja.wikipedia.org/wiki/西鉄天神大牟田線 "wikilink")の一部駅、九州内の[空港](../Page/空港.md "wikilink")（一部除く）で販売しているほか、九州を結ぶ高速バスの主要ターミナル（[東京シティエアターミナル](https://ja.wikipedia.org/wiki/東京シティエアターミナル "wikilink")、[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")（[東京空港交通](https://ja.wikipedia.org/wiki/東京空港交通 "wikilink")新宿駅西口案内所と[バスタ新宿](https://ja.wikipedia.org/wiki/バスタ新宿 "wikilink")）、[南海高速バスセンター](../Page/なんば高速バスターミナル.md "wikilink")、[近鉄高速バスセンター](https://ja.wikipedia.org/wiki/大阪上本町駅 "wikilink")、[阪急三番街](../Page/阪急三番街高速バスターミナル.md "wikilink")、[大阪南港フェリーターミナル](https://ja.wikipedia.org/wiki/大阪港#南港 "wikilink")、[六甲アイランドフェリーターミナル](https://ja.wikipedia.org/wiki/六甲アイランドフェリーターミナル "wikilink")、[高松駅前バスターミナル](../Page/高松駅前バスターミナル.md "wikilink")、[高松中央インターバスターミナル](https://ja.wikipedia.org/wiki/高松中央インターバスターミナル "wikilink")、[ゆめタウン高松](https://ja.wikipedia.org/wiki/ゆめタウン高松 "wikilink")バス乗り場、[善通寺バスターミナル](https://ja.wikipedia.org/wiki/善通寺インターチェンジ "wikilink")、[四国高速バス](https://ja.wikipedia.org/wiki/四国高速バス "wikilink")[丸亀駅](https://ja.wikipedia.org/wiki/丸亀駅 "wikilink")前案内所、[いよてつチケットセンター](https://ja.wikipedia.org/wiki/松山市駅 "wikilink")（いずれも九州とのバス路線や航空便や船舶航路がある））で発売する。
+SUNQパスは、SUNQパス運営委員会に参加している各バス事業者の窓口（バスターミナルや営業所など）、[西鉄天神大牟田線](https://ja.wikipedia.org/wiki/西鉄天神大牟田線 "wikilink")の一部駅、九州内の[空港](../Page/空港.md "wikilink")（一部除く）で販売しているほか、九州を結ぶ高速バスの主要ターミナル（[東京シティエアターミナル](../Page/東京シティエアターミナル.md "wikilink")、[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")（[東京空港交通](../Page/東京空港交通.md "wikilink")新宿駅西口案内所と[バスタ新宿](https://ja.wikipedia.org/wiki/バスタ新宿 "wikilink")）、[南海高速バスセンター](../Page/なんば高速バスターミナル.md "wikilink")、[近鉄高速バスセンター](https://ja.wikipedia.org/wiki/大阪上本町駅 "wikilink")、[阪急三番街](../Page/阪急三番街高速バスターミナル.md "wikilink")、[大阪南港フェリーターミナル](https://ja.wikipedia.org/wiki/大阪港#南港 "wikilink")、[六甲アイランドフェリーターミナル](../Page/六甲アイランドフェリーターミナル.md "wikilink")、[高松駅前バスターミナル](../Page/高松駅前バスターミナル.md "wikilink")、[高松中央インターバスターミナル](https://ja.wikipedia.org/wiki/高松中央インターバスターミナル "wikilink")、[ゆめタウン高松](../Page/ゆめタウン高松.md "wikilink")バス乗り場、[善通寺バスターミナル](../Page/善通寺インターチェンジ.md "wikilink")、[四国高速バス](../Page/四国高速バス.md "wikilink")[丸亀駅](https://ja.wikipedia.org/wiki/丸亀駅 "wikilink")前案内所、[いよてつチケットセンター](https://ja.wikipedia.org/wiki/松山市駅 "wikilink")（いずれも九州とのバス路線や航空便や船舶航路がある））で発売する。
 
-指定[旅行代理店](../Page/旅行代理店.md "wikilink")（[西鉄旅行](https://ja.wikipedia.org/wiki/西鉄旅行 "wikilink")・[HIS](https://ja.wikipedia.org/wiki/エイチ・アイ・エス "wikilink")・[JTB](../Page/JTB.md "wikilink")・[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")・[日本旅行](../Page/日本旅行.md "wikilink")・[名鉄観光サービス](https://ja.wikipedia.org/wiki/名鉄観光サービス "wikilink")・[東武トップツアーズ](../Page/東武トップツアーズ.md "wikilink")・[阪急交通社](../Page/阪急交通社.md "wikilink")・[京王観光](../Page/京王観光.md "wikilink")・[名鉄観光バス](../Page/名鉄観光バス.md "wikilink")・京急観光）の店頭並びに主要[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")（[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")・[ローソン](../Page/ローソン.md "wikilink")・[ファミリーマート](../Page/ファミリーマート.md "wikilink")）では、引換券を発行し、引換券を九州内のバスターミナルや空港などの窓口で原券と引き換える形を取る。引換券そのものではバスに乗車できないうえ、購入後一ヶ月以内に引き替えない場合は引換券が無効となる。
+指定[旅行代理店](../Page/旅行代理店.md "wikilink")（[西鉄旅行](../Page/西鉄旅行.md "wikilink")・[HIS](../Page/エイチ・アイ・エス.md "wikilink")・[JTB](../Page/JTB.md "wikilink")・[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")・[日本旅行](../Page/日本旅行.md "wikilink")・[名鉄観光サービス](../Page/名鉄観光サービス.md "wikilink")・[東武トップツアーズ](../Page/東武トップツアーズ.md "wikilink")・[阪急交通社](../Page/阪急交通社.md "wikilink")・[京王観光](../Page/京王観光.md "wikilink")・[名鉄観光バス](../Page/名鉄観光バス.md "wikilink")・京急観光）の店頭並びに主要[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")（[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")・[ローソン](../Page/ローソン.md "wikilink")・[ファミリーマート](../Page/ファミリーマート.md "wikilink")）では、引換券を発行し、引換券を九州内のバスターミナルや空港などの窓口で原券と引き換える形を取る。引換券そのものではバスに乗車できないうえ、購入後一ヶ月以内に引き替えない場合は引換券が無効となる。
 
 インターネット販売も実施している（株式会社イーティックスが受託）。インターネット販売での決済方法はクレジットカード（[JCB](../Page/ジェーシービー.md "wikilink")、[Visa](../Page/Visa.md "wikilink")、[Master](../Page/マスターカード.md "wikilink")、[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")）限定で、送料が別途必要となる。
 
@@ -63,10 +63,10 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
     SUNQパス運営委員会に加盟していない事業者のバス路線（離島部に本社を置くバス事業者をはじめとする一部の中小事業者、高速[ツアーバス](../Page/ツアーバス.md "wikilink")から移行した路線など）は利用できない。
     また、SUNQパス運営委員会に加盟する事業者の路線バス・航路でも、以下の路線は利用できない。
       - 本州・四国内を走行する高速バス（福岡 - 下関線、下関 - 山口宇部空港線は利用可）
-      - [九州横断バス](../Page/九州横断バス.md "wikilink")を除く[定期観光バス](https://ja.wikipedia.org/wiki/定期観光バス "wikilink")
+      - [九州横断バス](../Page/九州横断バス.md "wikilink")を除く[定期観光バス](../Page/定期観光バス.md "wikilink")
       - [コミュニティバス](../Page/コミュニティバス.md "wikilink")の一部（西鉄バス二日市・産交バスが受託する一部路線は利用可）
       - 桜島フェリーの「納涼観光船」「よりみちクルーズ船」（ただしガイドブックに割引クーポンが添付されている）
-      - 福岡市営渡船の[玄界島](https://ja.wikipedia.org/wiki/玄界島 "wikilink")・[小呂島](../Page/小呂島.md "wikilink")航路
+      - 福岡市営渡船の[玄界島](../Page/玄界島.md "wikilink")・[小呂島](../Page/小呂島.md "wikilink")航路
   - 北部九州+下関版・南部九州版が使用不可の路線
     北部九州エリア内とエリア外にまたがって運行するバス路線は、北部九州エリア内のみを乗車する場合でも北部九州版は利用できない。南部九州エリア内とエリア外にまたがって運行するバス路線は、南部九州エリア内のみを乗車する場合でも南部九州版は利用できない。[島鉄フェリー](https://ja.wikipedia.org/wiki/島原鉄道#島鉄フェリー "wikilink")（長崎県口之津 - 熊本県鬼池）および熊本フェリーも南部九州版では利用できない。
 
@@ -74,7 +74,7 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 
   - SUNQパスが使用できる路線の車両は車両前面と入口脇にステッカーが張られている（一部、ステッカーが貼られていない車両もある）。
   - SUNQパス運営委員会に加盟している事業者が運営していても、鉄道・路面電車での利用はできない（西鉄電車・[島原鉄道の鉄道線](https://ja.wikipedia.org/wiki/島原鉄道線 "wikilink")・熊本電鉄の電車・鹿児島市電など）。
-  - [鴨池・垂水フェリー](https://ja.wikipedia.org/wiki/鴨池・垂水フェリー "wikilink")には直接利用できないが、同フェリーにバスごと乗船する[鹿児島中央駅-鹿屋間直行バス](https://ja.wikipedia.org/wiki/鹿屋市コミュニティバス#鹿児島中央駅-鹿屋間直行バス "wikilink")（運行主体：[鹿児島交通](https://ja.wikipedia.org/wiki/鹿児島交通 "wikilink")）は利用できるので、同バスに乗車することにより同フェリーにも乗船できる。ただし鴨池港では同バスに乗降できない。垂水港ではフェリーターミナル前のバス停（4番乗り場）で乗降することになる。
+  - [鴨池・垂水フェリー](https://ja.wikipedia.org/wiki/鴨池・垂水フェリー "wikilink")には直接利用できないが、同フェリーにバスごと乗船する[鹿児島中央駅-鹿屋間直行バス](https://ja.wikipedia.org/wiki/鹿屋市コミュニティバス#鹿児島中央駅-鹿屋間直行バス "wikilink")（運行主体：[鹿児島交通](../Page/鹿児島交通.md "wikilink")）は利用できるので、同バスに乗車することにより同フェリーにも乗船できる。ただし鴨池港では同バスに乗降できない。垂水港ではフェリーターミナル前のバス停（4番乗り場）で乗降することになる。
   - 紛失しても再発行は行わない。
   - パスの提示がない場合は、いかなる場合も通常運賃となる。
   - 払い戻しは券面記載日の前日までで、それ以降は利用期間短縮等の事情があっても払い戻しはできない。
@@ -89,15 +89,15 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 
 ### 発売当初の内容
 
-当初は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に九州内の11事業者で構成された「九州高速バス予約システム運営委員会」が発行主体となり、福岡県・佐賀県・長崎県・熊本県・大分県の5県内の高速バス乗り放題パスとして発売された。このときは、乗り放題の対象は上記5県内の高速バス31路線のみに限られ、一般路線バスでは以下の注記に示す路線を除き使用することができなかった。
+当初は[2005年](../Page/2005年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に九州内の11事業者で構成された「九州高速バス予約システム運営委員会」が発行主体となり、福岡県・佐賀県・長崎県・熊本県・大分県の5県内の高速バス乗り放題パスとして発売された。このときは、乗り放題の対象は上記5県内の高速バス31路線のみに限られ、一般路線バスでは以下の注記に示す路線を除き使用することができなかった。
 
 ※なお、本項の以下の箇条書きは実施当初のものであり現行のものではない。
 
-  - [西九州自動車道](../Page/西九州自動車道.md "wikilink")経由の路線のうち福岡 - 唐津間[「からつ」「よぶこ」及び福岡](https://ja.wikipedia.org/wiki/からつ号 "wikilink") - 伊万里間「[いまり号](https://ja.wikipedia.org/wiki/いまり号 "wikilink")」は利用可、福岡 - 前原・志摩間「[いと・しま号](https://ja.wikipedia.org/wiki/いと・しま号 "wikilink")」は利用不可。
-  - 福岡 - 日田・高塚・杖立間「[ひた号](https://ja.wikipedia.org/wiki/ひた号 "wikilink")」は日田バスセンター - 高塚・杖立間は利用不可（福岡 - 日田バスセンター間は日田バス便でも利用可）。
-  - 熊本 - 大分間「[やまびこ号](https://ja.wikipedia.org/wiki/やまびこ号_\(特急バス\) "wikilink")」は利用可。
+  - [西九州自動車道](../Page/西九州自動車道.md "wikilink")経由の路線のうち福岡 - 唐津間[「からつ」「よぶこ」及び福岡](../Page/からつ号.md "wikilink") - 伊万里間「[いまり号](../Page/いまり号.md "wikilink")」は利用可、福岡 - 前原・志摩間「[いと・しま号](../Page/いと・しま号.md "wikilink")」は利用不可。
+  - 福岡 - 日田・高塚・杖立間「[ひた号](../Page/ひた号.md "wikilink")」は日田バスセンター - 高塚・杖立間は利用不可（福岡 - 日田バスセンター間は日田バス便でも利用可）。
+  - 熊本 - 大分間「[やまびこ号](../Page/やまびこ号_\(特急バス\).md "wikilink")」は利用可。
   - [九州横断バス](../Page/九州横断バス.md "wikilink")は「くじゅう号」のみ利用可。
-  - [ブルーロマン号](https://ja.wikipedia.org/wiki/ブルーロマン号 "wikilink")（長崎 - 宮崎間）は利用不可。
+  - [ブルーロマン号](../Page/ブルーロマン号.md "wikilink")（長崎 - 宮崎間）は利用不可。
   - 以下の一般路線バスは利用可。
       - 長崎 - [ハウステンボス](https://ja.wikipedia.org/wiki/ハウステンボス "wikilink")間
       - 佐世保 - ハウステンボス間
@@ -108,17 +108,17 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 
 ### 「全九州版」発売開始
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に制度改正を行い、従来発売していたものは「北部九州版」に名称変更し、乗り放題対象を一般路線バスにも拡大し、上記の利用不可の路線も利用可能とするとともに、新たに九州7県の高速バス・一般路線バスに乗車できる「全九州版」が発売開始された。このとき、高速バスを運行していない事業者も加わりSUNQパス運営委員会が発足し、同委員会が発行主体となった。
+[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に制度改正を行い、従来発売していたものは「北部九州版」に名称変更し、乗り放題対象を一般路線バスにも拡大し、上記の利用不可の路線も利用可能とするとともに、新たに九州7県の高速バス・一般路線バスに乗車できる「全九州版」が発売開始された。このとき、高速バスを運行していない事業者も加わりSUNQパス運営委員会が発足し、同委員会が発行主体となった。
 
 こちらも2006年9月30日までの試行発売としていたが、同年10月1日から本格実施された。新たに3事業者が加わり、乗車可能路線数も全九州版は従来の2,077路線から118路線増えて2,195路線に、北部九州版も従来の1,275路線から79路線増えて1,354路線になった。
 
-ただし、[ブルーロマン号](https://ja.wikipedia.org/wiki/ブルーロマン号 "wikilink")（長崎 - 宮崎間）では全九州版でも使用できなかったほか、販売開始後に運行を開始した[ランタン号](https://ja.wikipedia.org/wiki/ランタン号 "wikilink")（長崎 - 鹿児島間）でも全九州版が使用不可であった。また、同様に販売開始後に運行を開始した[福岡 - 延岡・宮崎線（夜行）は夜行差額券を別途購入する必要があった](https://ja.wikipedia.org/wiki/福岡_-_宮崎線 "wikilink")。
+ただし、[ブルーロマン号](../Page/ブルーロマン号.md "wikilink")（長崎 - 宮崎間）では全九州版でも使用できなかったほか、販売開始後に運行を開始した[ランタン号](https://ja.wikipedia.org/wiki/ランタン号 "wikilink")（長崎 - 鹿児島間）でも全九州版が使用不可であった。また、同様に販売開始後に運行を開始した[福岡 - 延岡・宮崎線（夜行）は夜行差額券を別途購入する必要があった](../Page/福岡_-_宮崎線.md "wikilink")。
 
 ### 下関地区・航路への利用範囲拡大
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")より全券種で下関市を中心とした[サンデン交通](../Page/サンデン交通.md "wikilink")バスが利用可能\[9\]となり、利用範囲が九州島外に拡大された。これにより全九州版は「全九州+下関」、北部九州版は「北部九州+下関」と名称変更された。
 
-またバス路線以外に、下関唐戸 - 門司港（[関門汽船](../Page/関門汽船.md "wikilink")）・口之津港 - [鬼池港](https://ja.wikipedia.org/wiki/鬼池港 "wikilink")（[島鉄フェリー](https://ja.wikipedia.org/wiki/島原鉄道 "wikilink")）・熊本港 - 島原外港（[熊本フェリー](../Page/熊本フェリー.md "wikilink")）・鹿児島本港 - 桜島（[桜島フェリー](https://ja.wikipedia.org/wiki/桜島フェリー "wikilink")、全九州+下関のみ）の4航路が利用可能となった。これにより、利用可能路線数は「北部九州+下関」で約1,500路線+3航路、「全九州+下関」では約2,400路線+4航路となった。
+またバス路線以外に、下関唐戸 - 門司港（[関門汽船](../Page/関門汽船.md "wikilink")）・口之津港 - [鬼池港](https://ja.wikipedia.org/wiki/鬼池港 "wikilink")（[島鉄フェリー](https://ja.wikipedia.org/wiki/島原鉄道 "wikilink")）・熊本港 - 島原外港（[熊本フェリー](../Page/熊本フェリー.md "wikilink")）・鹿児島本港 - 桜島（[桜島フェリー](../Page/桜島フェリー.md "wikilink")、全九州+下関のみ）の4航路が利用可能となった。これにより、利用可能路線数は「北部九州+下関」で約1,500路線+3航路、「全九州+下関」では約2,400路線+4航路となった。
 
 同時にこれまでの3日間有効のもののほか、全九州・下関版に4日間有効の券種が追加された。
 
@@ -136,7 +136,7 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 
 2018年4月1日より、南九州3県で使える「南部九州版」を発売開始\[13\]。従来の北部九州版を使えない宮崎・鹿児島両県に、熊本県を加えた3県内発着の高速バス・一般路線バスに限って3日間乗り放題である\[14\]。これにより、熊本県内は「北部九州＋下関3日間」および「南部九州3日間」どちらも、「全九州＋下関」を含めればすべての券種が利用できるようになった\[15\]。発売は南部九州版通用エリア内のみの販売（北部九州+下関版を踏襲）で、券面の色は黄色\[16\]。
 
-さらに同日、全九州版でもサービス内容が一部変更され、これまで利用不可だった[ブルーロマン号](https://ja.wikipedia.org/wiki/ブルーロマン号 "wikilink")（長崎 - 宮崎間）・[ランタン号](https://ja.wikipedia.org/wiki/ランタン号 "wikilink")（長崎 - 鹿児島間）が利用可能となったほか、金・土・祝前日などに運行している福岡 - 延岡・宮崎間の夜行高速バス（2016年4月22日運行開始）は夜行差額券を別途購入せずに利用可能となった\[17\]。
+さらに同日、全九州版でもサービス内容が一部変更され、これまで利用不可だった[ブルーロマン号](../Page/ブルーロマン号.md "wikilink")（長崎 - 宮崎間）・[ランタン号](https://ja.wikipedia.org/wiki/ランタン号 "wikilink")（長崎 - 鹿児島間）が利用可能となったほか、金・土・祝前日などに運行している福岡 - 延岡・宮崎間の夜行高速バス（2016年4月22日運行開始）は夜行差額券を別途購入せずに利用可能となった\[17\]。
 
 また同日より「北部九州+下関」の国内向け価格および「全九州＋下関3日間」の国内向け価格が改定され、それぞれ1000円ずつ値上げとなった\[18\]。「北部九州+下関」のインバウンド向け価格も同年7月1日に同じく1000円値上げとなった。
 
@@ -160,28 +160,28 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")◎
-  - [西鉄バス北九州](https://ja.wikipedia.org/wiki/西鉄バス北九州 "wikilink")
-  - [西鉄バス佐賀](https://ja.wikipedia.org/wiki/西鉄バス佐賀 "wikilink")
-  - [西鉄バス久留米](https://ja.wikipedia.org/wiki/西鉄バス久留米 "wikilink")
-  - [西鉄バス大牟田](https://ja.wikipedia.org/wiki/西鉄バス大牟田 "wikilink")
+  - [西鉄バス北九州](../Page/西鉄バス北九州.md "wikilink")
+  - [西鉄バス佐賀](../Page/西鉄バス佐賀.md "wikilink")
+  - [西鉄バス久留米](../Page/西鉄バス久留米.md "wikilink")
+  - [西鉄バス大牟田](../Page/西鉄バス大牟田.md "wikilink")
   - [西鉄バス筑豊](https://ja.wikipedia.org/wiki/西鉄バス筑豊 "wikilink")
-  - [西鉄バス宗像](https://ja.wikipedia.org/wiki/西鉄バス宗像 "wikilink")
-  - [西鉄バス二日市](https://ja.wikipedia.org/wiki/西鉄バス二日市 "wikilink")
-  - [九州急行バス](https://ja.wikipedia.org/wiki/九州急行バス "wikilink")◎
-  - [北九州市交通局](https://ja.wikipedia.org/wiki/北九州市交通局 "wikilink")\[21\]
+  - [西鉄バス宗像](../Page/西鉄バス宗像.md "wikilink")
+  - [西鉄バス二日市](../Page/西鉄バス二日市.md "wikilink")
+  - [九州急行バス](../Page/九州急行バス.md "wikilink")◎
+  - [北九州市交通局](../Page/北九州市交通局.md "wikilink")\[21\]
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [堀川バス](https://ja.wikipedia.org/wiki/堀川バス "wikilink")
-  - [JR九州バス](https://ja.wikipedia.org/wiki/JR九州バス "wikilink")
-  - [昭和自動車](https://ja.wikipedia.org/wiki/昭和自動車 "wikilink")◎
-  - [佐賀市交通局](https://ja.wikipedia.org/wiki/佐賀市交通局 "wikilink")
-  - [祐徳自動車](https://ja.wikipedia.org/wiki/祐徳自動車 "wikilink")
-  - [長崎自動車](https://ja.wikipedia.org/wiki/長崎自動車 "wikilink")
-  - [さいかい交通](https://ja.wikipedia.org/wiki/さいかい交通 "wikilink")
-  - [長崎県交通局](https://ja.wikipedia.org/wiki/長崎県交通局 "wikilink")◎
+  - [堀川バス](../Page/堀川バス.md "wikilink")
+  - [JR九州バス](../Page/JR九州バス.md "wikilink")
+  - [昭和自動車](../Page/昭和自動車.md "wikilink")◎
+  - [佐賀市交通局](../Page/佐賀市交通局.md "wikilink")
+  - [祐徳自動車](../Page/祐徳自動車.md "wikilink")
+  - [長崎自動車](../Page/長崎自動車.md "wikilink")
+  - [さいかい交通](../Page/さいかい交通.md "wikilink")
+  - [長崎県交通局](../Page/長崎県交通局.md "wikilink")◎
   - [長崎県央バス](https://ja.wikipedia.org/wiki/長崎県央バス "wikilink")◆
   - [島原鉄道](https://ja.wikipedia.org/wiki/島原鉄道 "wikilink")
 
@@ -189,31 +189,31 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [西肥自動車](https://ja.wikipedia.org/wiki/西肥自動車 "wikilink")◎
+  - [西肥自動車](../Page/西肥自動車.md "wikilink")◎
   - [させぼバス](https://ja.wikipedia.org/wiki/させぼバス "wikilink")◇
-  - [九州産交バス](https://ja.wikipedia.org/wiki/九州産交バス "wikilink")◎\[22\]
+  - [九州産交バス](../Page/九州産交バス.md "wikilink")◎\[22\]
   - [産交バス](https://ja.wikipedia.org/wiki/九州産交バス#産交バス "wikilink")
-  - [熊本バス](https://ja.wikipedia.org/wiki/熊本バス "wikilink")
+  - [熊本バス](../Page/熊本バス.md "wikilink")
   - [熊本電気鉄道](../Page/熊本電気鉄道.md "wikilink")
   - [熊本都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")◆
-  - [大分バス](https://ja.wikipedia.org/wiki/大分バス "wikilink")◎
-  - [大野竹田バス](https://ja.wikipedia.org/wiki/大野竹田バス "wikilink")\[23\]
-  - [臼津交通](https://ja.wikipedia.org/wiki/臼津交通 "wikilink")
+  - [大分バス](../Page/大分バス.md "wikilink")◎
+  - [大野竹田バス](../Page/大野竹田バス.md "wikilink")\[23\]
+  - [臼津交通](../Page/臼津交通.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [大分交通](https://ja.wikipedia.org/wiki/大分交通 "wikilink")◎
-  - [国東観光バス](https://ja.wikipedia.org/wiki/国東観光バス "wikilink")
-  - [玖珠観光バス](https://ja.wikipedia.org/wiki/玖珠観光バス "wikilink")
+  - [大分交通](../Page/大分交通.md "wikilink")◎
+  - [国東観光バス](../Page/国東観光バス.md "wikilink")
+  - [玖珠観光バス](../Page/玖珠観光バス.md "wikilink")
   - [大交北部バス](../Page/大交北部バス.md "wikilink")
-  - [日田バス](https://ja.wikipedia.org/wiki/日田バス "wikilink")
-  - [亀の井バス](https://ja.wikipedia.org/wiki/亀の井バス "wikilink")◎
-  - [宮崎交通](https://ja.wikipedia.org/wiki/宮崎交通 "wikilink")◎\[24\]
-  - [鹿児島交通](https://ja.wikipedia.org/wiki/鹿児島交通 "wikilink")
-  - [鹿児島交通観光バス](https://ja.wikipedia.org/wiki/鹿児島交通観光バス "wikilink")
-  - [南国交通](https://ja.wikipedia.org/wiki/南国交通 "wikilink")
+  - [日田バス](../Page/日田バス.md "wikilink")
+  - [亀の井バス](../Page/亀の井バス.md "wikilink")◎
+  - [宮崎交通](../Page/宮崎交通.md "wikilink")◎\[24\]
+  - [鹿児島交通](../Page/鹿児島交通.md "wikilink")
+  - [鹿児島交通観光バス](../Page/鹿児島交通観光バス.md "wikilink")
+  - [南国交通](../Page/南国交通.md "wikilink")
 
 </div>
 
@@ -223,7 +223,7 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
   - [サンデン交通](../Page/サンデン交通.md "wikilink")★
   - [関門汽船](../Page/関門汽船.md "wikilink")★
   - [熊本フェリー](../Page/熊本フェリー.md "wikilink")★
-  - 鹿児島市船舶局（[桜島フェリー](https://ja.wikipedia.org/wiki/桜島フェリー "wikilink")）★\[25\]
+  - 鹿児島市船舶局（[桜島フェリー](../Page/桜島フェリー.md "wikilink")）★\[25\]
   - [ブルーライン交通](../Page/ブルーライン交通.md "wikilink")■\[26\]
   - [福岡市営渡船](../Page/福岡市営渡船.md "wikilink")□\[27\]
 
@@ -231,15 +231,15 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 
 ### 過去の加盟事業者
 
-  - [南九州バスネットワーク](https://ja.wikipedia.org/wiki/南九州バスネットワーク "wikilink")（2006年8月31日会社清算）
-  - [西鉄バス両筑](https://ja.wikipedia.org/wiki/西鉄バス両筑 "wikilink")（2007年7月1日吸収合併により会社解散）
-  - [西鉄観光バス](https://ja.wikipedia.org/wiki/西鉄観光バス "wikilink")（2010年運行路線を西鉄高速バスへ移管、路線バス事業撤退）
+  - [南九州バスネットワーク](../Page/南九州バスネットワーク.md "wikilink")（2006年8月31日会社清算）
+  - [西鉄バス両筑](../Page/西鉄バス両筑.md "wikilink")（2007年7月1日吸収合併により会社解散）
+  - [西鉄観光バス](../Page/西鉄観光バス.md "wikilink")（2010年運行路線を西鉄高速バスへ移管、路線バス事業撤退）
   - [大隅交通ネットワーク](../Page/大隅交通ネットワーク.md "wikilink")（2011年12月1日三州自動車へ吸収合併により会社解散）
   - [熊本市交通局](../Page/熊本市交通局.md "wikilink")☆（2015年4月1日バス事業廃止）
-  - [いわさきバスネットワーク](https://ja.wikipedia.org/wiki/いわさきバスネットワーク "wikilink")（2016年3月30日鹿児島交通へ移管、会社解散）\[28\]
-  - [三州自動車](https://ja.wikipedia.org/wiki/三州自動車 "wikilink")（2018年3月31日鹿児島交通へ移管、会社解散）
+  - [いわさきバスネットワーク](../Page/いわさきバスネットワーク.md "wikilink")（2016年3月30日鹿児島交通へ移管、会社解散）\[28\]
+  - [三州自動車](../Page/三州自動車.md "wikilink")（2018年3月31日鹿児島交通へ移管、会社解散）
   - [佐世保市交通局](../Page/佐世保市交通局.md "wikilink")☆（2019年3月31日事業精算・閉局）
-  - [西鉄高速バス](https://ja.wikipedia.org/wiki/西鉄高速バス "wikilink")◎（2019年3月31日解散）
+  - [西鉄高速バス](../Page/西鉄高速バス.md "wikilink")◎（2019年3月31日解散）
 
 ## 脚注
 
@@ -268,7 +268,7 @@ WEB SUNQパスは、専用のスマートフォンサイトでの購入のみで
 6.
 7.
 8.  [4/14の熊本地震に伴うSUNQパス払戻しについて](http://www.sunqpass.jp/news/cgi/index.cgi?mode=view&no=147) - SUNQパス公式サイト 2016年4月15日閲覧
-9.  一般路線は全線が対象で、[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")・[山陽小野田市](https://ja.wikipedia.org/wiki/山陽小野田市 "wikilink")・[美祢市](../Page/美祢市.md "wikilink")・[長門市](../Page/長門市.md "wikilink")のそれぞれ一部を含む。高速バスは、福岡 - 下関間「[ふくふく天神号](https://ja.wikipedia.org/wiki/ふくふく天神号 "wikilink")」のみ利用可能。販売開始時は下関・門司港 - 北九州空港間の「[北九州空港エアポートバス](https://ja.wikipedia.org/wiki/北九州空港エアポートバス "wikilink")」も利用可能だった。
+9.  一般路線は全線が対象で、[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")・[山陽小野田市](../Page/山陽小野田市.md "wikilink")・[美祢市](../Page/美祢市.md "wikilink")・[長門市](../Page/長門市.md "wikilink")のそれぞれ一部を含む。高速バスは、福岡 - 下関間「[ふくふく天神号](https://ja.wikipedia.org/wiki/ふくふく天神号 "wikilink")」のみ利用可能。販売開始時は下関・門司港 - 北九州空港間の「[北九州空港エアポートバス](../Page/北九州空港エアポートバス.md "wikilink")」も利用可能だった。
 10.  - SUNQパス運営委員会 2015年3月3日
 11. [九州+下関のバス･船舶乗り放題乗車券「SUNQパス」 4月より新サービスをスタートします\!](http://www.nishitetsu.co.jp/release/2015/15_179.pdf) - 西日本鉄道 2016年03月31日
 12. [九州+下関のバス･船舶乗り放題乗車券「SUNQパス」 年間発売枚数10万枚突破で過去最高を更新！4月1日より航空会社Jetstarの機内で販売\!](http://www.nishitetsu.co.jp/release/2016/16_171.pdf) - 西日本鉄道 2017年03月31日

@@ -1,7 +1,7 @@
 > この記事は[Celestia](https://ja.wikipedia.org/wiki/Celestia)から翻訳されています。
 
 
-**セレスティア** () は、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開されている[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")の[3D](https://ja.wikipedia.org/wiki/3D "wikilink")[天体](../Page/天体.md "wikilink")[シミュレーターである](../Page/シミュレーション.md "wikilink")。
+**セレスティア** () は、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開されている[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")の[3D](../Page/3D.md "wikilink")[天体](../Page/天体.md "wikilink")[シミュレーターである](../Page/シミュレーション.md "wikilink")。
 
 ## プラットフォーム
 

@@ -53,7 +53,7 @@
       - [ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")（テレビ）の山梨の天気予報（5:58頃、6:28頃、6:58頃）
       - 8:48頃、9:52頃、10:52頃のYBSラジオニュース
       - 11:40 - 11:45の[YBSニュース](../Page/YBSニュース.md "wikilink")と天気予報（担当しない場合あり）
-          - 2006年5月10日は[石河アナは歌の無い歌謡曲までを担当して以降は](../Page/石河茉美.md "wikilink")[横内アナが担当した](https://ja.wikipedia.org/wiki/横内洋樹 "wikilink")。このように例外も存在する。
+          - 2006年5月10日は[石河アナは歌の無い歌謡曲までを担当して以降は](../Page/石河茉美.md "wikilink")[横内アナが担当した](../Page/横内洋樹.md "wikilink")。このように例外も存在する。
   - タイトルコールは主に「YBSラジオニュースと天気予報。（提供アリの場合、CM有り）○○（スポンサー）の提供でお送りします（しました）。 / （提供無しの場合、CM無し）報道デスクからお伝えします（しました）。」というものが使用される。提供が一社の場合はその企業のキャッチコピーも流す場合がある。
   - 土曜の6:50 - 6:59を担当するアナウンサーはその日の以下の番組・コーナーも担当する。
       - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")（テレビ）の山梨の天気予報（6:05頃、6:50頃）
@@ -61,7 +61,7 @@
 
 #### 主な担当者
 
-  - 独立した番組として放送される場合は（[YBSワイドニュース](https://ja.wikipedia.org/wiki/YBSワイドニュース "wikilink")担当者を除く）YBSアナウンサーが持ちまわしで担当する。近年は[河野裕也](https://ja.wikipedia.org/wiki/河野裕也 "wikilink")（[NNSアナウンサー](../Page/日本ネットワークサービス_\(ケーブルテレビ局\).md "wikilink")）もシフトに加わっている。
+  - 独立した番組として放送される場合は（[YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")担当者を除く）YBSアナウンサーが持ちまわしで担当する。近年は[河野裕也](https://ja.wikipedia.org/wiki/河野裕也 "wikilink")（[NNSアナウンサー](../Page/日本ネットワークサービス_\(ケーブルテレビ局\).md "wikilink")）もシフトに加わっている。
   - 他の番組に内包される場合の担当者は各番組に内包される場合を参照。
 
 ### 他の番組に内包される場合
@@ -74,9 +74,9 @@
 
 #### 765morning、ラヂウス（放送回による）、Preciousに内包
 
-  - [765morning](https://ja.wikipedia.org/wiki/765morning "wikilink")でのニュースの進行自体は上記と同様。ニュースを読み上げた後に765morningのパーソナリティと短いトークを行うことがある。
-  - [ラヂウス](https://ja.wikipedia.org/wiki/ラヂウス "wikilink")では番組パーソナリティの浅川アナと酒井アナが交互にニュースを読み上げる。ただし放送回によっては上記のパターンとなる。
-  - このふたつのパターンでは共通のBGMが再生される。BGMは2006年3月までYBSテレビの[山日YBSワイドニュース](https://ja.wikipedia.org/wiki/YBSワイドニュース "wikilink")（現在のYBSワイドニュース）で特集後のフラッシュニュースで使用されていた曲が使用されている。
+  - [765morning](../Page/765morning.md "wikilink")でのニュースの進行自体は上記と同様。ニュースを読み上げた後に765morningのパーソナリティと短いトークを行うことがある。
+  - [ラヂウス](../Page/ラヂウス.md "wikilink")では番組パーソナリティの浅川アナと酒井アナが交互にニュースを読み上げる。ただし放送回によっては上記のパターンとなる。
+  - このふたつのパターンでは共通のBGMが再生される。BGMは2006年3月までYBSテレビの[山日YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")（現在のYBSワイドニュース）で特集後のフラッシュニュースで使用されていた曲が使用されている。
   - Preciousの場合、ニュースの進行自体は上記と一緒だが、BGMが流れている(FREE STYLEの時と同じBGM)。
 
 #### FREE STYLEに内包
@@ -85,15 +85,15 @@
   - ニュース担当のキャスターは報道デスクではなくアルックススタジオに登場してニュースを伝える。
   - ニュースヘッドライン→ヘッドラインからひとつ選んで詳しく解説→天気予報→話題の順に放送される。なお重大ニュースが発生した場合は「ヘッドラインからひとつ選んで詳しく解説」の部分は重大ニュースに固定される。
   - 担当者はしばらくスタジオに残り[FREE STYLEに引き続き出演する](../Page/FREE_STYLE.md "wikilink")。
-  - 担当者は[吉岡秀樹](https://ja.wikipedia.org/wiki/吉岡秀樹 "wikilink")アナ、もしくは[横内洋樹](https://ja.wikipedia.org/wiki/横内洋樹 "wikilink")アナ担当することが多かったが、その後は[中込真理子](https://ja.wikipedia.org/wiki/中込真理子 "wikilink")アナが担当した。
+  - 担当者は[吉岡秀樹](../Page/吉岡秀樹.md "wikilink")アナ、もしくは[横内洋樹](../Page/横内洋樹.md "wikilink")アナ担当することが多かったが、その後は[中込真理子](https://ja.wikipedia.org/wiki/中込真理子 "wikilink")アナが担当した。
 
 ## 関連項目
 
   - [YBSニュース](../Page/YBSニュース.md "wikilink")
-  - [YBSワイドニュース](https://ja.wikipedia.org/wiki/YBSワイドニュース "wikilink")
+  - [YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")
   - [YBSニュース深夜便](../Page/YBSニュース深夜便.md "wikilink")
   - [YBSニュースハーフタイム](https://ja.wikipedia.org/wiki/YBSニュースハーフタイム "wikilink")
-  - [YBSニュース・アップ\!](https://ja.wikipedia.org/wiki/YBSニュース・アップ! "wikilink")
+  - [YBSニュース・アップ\!](../Page/YBSニュース・アップ!.md "wikilink")
   - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
 
 ## 脚注

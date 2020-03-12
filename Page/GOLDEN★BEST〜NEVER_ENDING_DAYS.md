@@ -1,7 +1,7 @@
 > この記事は[GOLDENBESTNEVER ENDING DAYS](https://ja.wikipedia.org/wiki/GOLDENBESTNEVER_ENDING_DAYS)から翻訳されています。
 
 
-『**GOLDEN★BEST〜NEVER ENDING DAYS**』（ゴールデン・ベスト ネバー・エンディング・デイズ）は[BLIZARDの](../Page/ブリザード_\(バンド\).md "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**GOLDEN★BEST〜NEVER ENDING DAYS**』（ゴールデン・ベスト ネバー・エンディング・デイズ）は[BLIZARDの](../Page/ブリザード_\(バンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -11,7 +11,7 @@
 
 1.  **OVER HEAT**
       -
-        作詞:星野今日子 作曲:[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+        作詞:星野今日子 作曲:[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
 2.  **Fire Of Desire**
       -
         作詞・作曲:[松川敏也](../Page/松川敏也.md "wikilink")

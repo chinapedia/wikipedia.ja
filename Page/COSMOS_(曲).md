@@ -1,7 +1,7 @@
 > この記事は[COSMOS \(\)](https://ja.wikipedia.org/wiki/COSMOS_\(\))から翻訳されています。
 
 
-**COSMOS**（コスモス）は、音楽ユニットである[アクアマリンに所属するミマスによって](https://ja.wikipedia.org/wiki/アクアマリン_\(音楽ユニット\) "wikilink")[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")された曲である。[2000年](../Page/2000年.md "wikilink")に[富澤裕](https://ja.wikipedia.org/wiki/富澤裕 "wikilink")により混声三部合唱曲として編曲されたため、合唱曲としても知られている。
+**COSMOS**（コスモス）は、音楽ユニットである[アクアマリンに所属するミマスによって](../Page/アクアマリン_\(音楽ユニット\).md "wikilink")[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")された曲である。[2000年](../Page/2000年.md "wikilink")に[富澤裕](../Page/富澤裕.md "wikilink")により混声三部合唱曲として編曲されたため、合唱曲としても知られている。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## 合唱曲としてのCOSMOS
 
-[2000年](../Page/2000年.md "wikilink")に[富澤裕](https://ja.wikipedia.org/wiki/富澤裕 "wikilink")により混声三部合唱曲として編曲された。オリジナルは[ハ長調](https://ja.wikipedia.org/wiki/ハ長調 "wikilink")であるが、合唱版は3度キーが高い[変ホ長調](https://ja.wikipedia.org/wiki/変ホ長調 "wikilink")で編曲されている。[音楽之友社](../Page/音楽之友社.md "wikilink")より出版された\[1\]。たまたまアクアマリンのライブでデモテープを購入した、小学校教諭の尽力により実現した\[2\]。
+[2000年](../Page/2000年.md "wikilink")に[富澤裕](../Page/富澤裕.md "wikilink")により混声三部合唱曲として編曲された。オリジナルは[ハ長調](../Page/ハ長調.md "wikilink")であるが、合唱版は3度キーが高い[変ホ長調](../Page/変ホ長調.md "wikilink")で編曲されている。[音楽之友社](../Page/音楽之友社.md "wikilink")より出版された\[1\]。たまたまアクアマリンのライブでデモテープを購入した、小学校教諭の尽力により実現した\[2\]。
 
 ## CD収録曲
 

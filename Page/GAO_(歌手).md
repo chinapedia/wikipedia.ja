@@ -1,13 +1,13 @@
 > この記事は[GAO \(\)](https://ja.wikipedia.org/wiki/GAO_\(\))から翻訳されています。
 
 
-**GAO**（ガオ、[9月14日](../Page/9月14日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[徳山市](https://ja.wikipedia.org/wiki/徳山市 "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。生年非公開。一見少年の様に見える[ユニセックス](https://ja.wikipedia.org/wiki/ユニセックス "wikilink")的なルックスと[ハスキーボイス](https://ja.wikipedia.org/wiki/ハスキーボイス "wikilink")が特徴。「GAO」とは発声練習中に声をつぶし、その声からつけられたあだ名。四人姉妹の末っ子。身長165cm。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**GAO**（ガオ、[9月14日](../Page/9月14日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[徳山市](../Page/徳山市.md "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。生年非公開。一見少年の様に見える[ユニセックス](../Page/ユニセックス.md "wikilink")的なルックスと[ハスキーボイス](../Page/ハスキーボイス.md "wikilink")が特徴。「GAO」とは発声練習中に声をつぶし、その声からつけられたあだ名。四人姉妹の末っ子。身長165cm。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 来歴
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、NHK「全日本勝ち抜きロック選手権 BSヤングバトル」にバンド・GAOとして出場し優勝（そのときはヴォーカル「**GAO藤乃**」名義）。演奏曲である『Mappila Baby\!』はデビューシングルのカップリングに収録された。
 
-優勝後はバンドを解散し、[1991年](../Page/1991年.md "wikilink")にソロシンガー・**GAO**としてプロデビュー。[1992年](../Page/1992年.md "wikilink")に『[サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(GAOの曲\) "wikilink")』がドラマ「[素敵にダマして\!](https://ja.wikipedia.org/wiki/素敵にダマして! "wikilink")」の主題歌として起用され大ヒットする。翌[1993年](../Page/1993年.md "wikilink")にも『「月｣に吠える朝』がドラマ「[引っ越せますか](https://ja.wikipedia.org/wiki/引っ越せますか "wikilink")」の主題歌としてそれぞれ起用される。その後、[1996年](../Page/1996年.md "wikilink")3月まで活動を続けていたがメジャーに終止符を打ち、ニューヨークに渡りプロデュースワークを勉強する。
+優勝後はバンドを解散し、[1991年](../Page/1991年.md "wikilink")にソロシンガー・**GAO**としてプロデビュー。[1992年](../Page/1992年.md "wikilink")に『[サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(GAOの曲\) "wikilink")』がドラマ「[素敵にダマして\!](../Page/素敵にダマして!.md "wikilink")」の主題歌として起用され大ヒットする。翌[1993年](../Page/1993年.md "wikilink")にも『「月｣に吠える朝』がドラマ「[引っ越せますか](../Page/引っ越せますか.md "wikilink")」の主題歌としてそれぞれ起用される。その後、[1996年](../Page/1996年.md "wikilink")3月まで活動を続けていたがメジャーに終止符を打ち、ニューヨークに渡りプロデュースワークを勉強する。
 
 その後[ヒップホップ](../Page/ヒップホップ.md "wikilink")の世界に移り、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にはHIPHOP、R\&Bユニット「W.A.H」の活動を開始。[1999年](../Page/1999年.md "wikilink")にCD「She's still living」「GIRL'S LIFE」を発売。[2000年](../Page/2000年.md "wikilink")よりギャングスタ[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・**REAL"G"**と名前を変えて活動。GOD"T"と共にGOD"T"LABEL,GOD"T"STREETを設立。[2002年](../Page/2002年.md "wikilink")自主レーベルG.S.E（G-STAR ENTERTAINMENT）を設立。[MARIA (ラッパー)や](https://ja.wikipedia.org/wiki/MARIA_\(ラッパー\) "wikilink")213 HIGH ROLLAZをプロデュース。
 
@@ -28,7 +28,7 @@
   - 2011年[8月15日](../Page/8月15日.md "wikilink") テレビ朝日「[もしものシミュレーションバラエティー お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")」に出演。『人気カラオケ全国ランキング 1位から10位を全て埋めるまでおわれま10』企画で「サヨナラ」を歌唱。
   - 2011年[12月7日](../Page/12月7日.md "wikilink") [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")」に出演。コーナー『世代が分かるンデス\!』で「サヨナラ」を歌唱。
   - 2011年[12月26日](../Page/12月26日.md "wikilink") フジテレビ「史上最大の大忘年会 さんまの全日本宴会芸コンテスト」に出演。GAO本人が「サヨナラ」を披露し、途中から[渡辺直美](../Page/渡辺直美.md "wikilink")、[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")、[真栄田賢がGAOのものまねをして一緒に歌った](../Page/スリムクラブ.md "wikilink")。
-  - [2012年](../Page/2012年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink") フジテレビ「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演。『今聴きたい\!名曲HEY\!HEY\!HEY\!』特集で「サヨナラ」を歌唱。
+  - [2012年](../Page/2012年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") フジテレビ「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演。『今聴きたい\!名曲HEY\!HEY\!HEY\!』特集で「サヨナラ」を歌唱。
   - 2012年[4月6日](../Page/4月6日.md "wikilink") NHK『大集合\!J-POP青春の'80』に出演。トークと「サヨナラ」を披露。
   - 2012年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") フジテレビ「サタネプ☆ベストテン ホントに会えたら泣いてしまう\!スター登場20連発SP\!」に出演。『ナマ歌を披露\!\!』で「サヨナラ」を歌唱。
   - 2015年9月26日 日本テレビ「[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink") 歌わない音楽祭2時間スペシャル」に出演。愛用のジーンズを洗わないことを告白した。
@@ -37,10 +37,10 @@
 
 ### NHK紅白歌合戦出場歴
 
-| 年度/放送回                                                                                                   | 回 | 曲目   | 出演順   | 対戦相手                                                       |
-| -------------------------------------------------------------------------------------------------------- | - | ---- | ----- | ---------------------------------------------------------- |
-| [1992年](../Page/1992年.md "wikilink")（平成4年）/[第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink") | 初 | サヨナラ | 15/28 | [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")      |
-| [1993年](../Page/1993年.md "wikilink")（平成5年）/[第44回](https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦 "wikilink") | 2 | LOVE | 05/26 | [J-WALK](https://ja.wikipedia.org/wiki/JAYWALK "wikilink") |
+| 年度/放送回                                                                                | 回 | 曲目   | 出演順   | 対戦相手                                                       |
+| ------------------------------------------------------------------------------------- | - | ---- | ----- | ---------------------------------------------------------- |
+| [1992年](../Page/1992年.md "wikilink")（平成4年）/[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink") | 初 | サヨナラ | 15/28 | [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")      |
+| [1993年](../Page/1993年.md "wikilink")（平成5年）/[第44回](../Page/第44回NHK紅白歌合戦.md "wikilink") | 2 | LOVE | 05/26 | [J-WALK](https://ja.wikipedia.org/wiki/JAYWALK "wikilink") |
 
   - 注意点
 
@@ -56,7 +56,7 @@
   - [サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(GAOの曲\) "wikilink") C/W For Every Good Friends(J.C.Version)(1992年4月21日･VPDC-20449)
   - 君にゆられて C/W 空の話〜for my father〜(1992年10月21日･VPDC-20461)※[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ曲
   - 夢のひと C/W 11月14日.(MONO MIX)(1993年2月1日･VPDC-20481)
-  - ｢月｣に吠える朝 C/W 壊れかけた時計(1993年7月21日･VPDC-20499)※ドラマ「[引っ越せますか](https://ja.wikipedia.org/wiki/引っ越せますか "wikilink")」主題歌
+  - ｢月｣に吠える朝 C/W 壊れかけた時計(1993年7月21日･VPDC-20499)※ドラマ「[引っ越せますか](../Page/引っ越せますか.md "wikilink")」主題歌
   - クリスマスの贈り物〜LOVE(1993年12月1日･VPCC-81041)
   - LOVE C/W 生まれたての明日(1994年2月9日･VPDC-20534)
   - 突然 君と出会いたい C/W For Every Good Friends(LIVE)(1994年5月20日･VPDC-20537)

@@ -1,7 +1,7 @@
 > この記事は[ III](https://ja.wikipedia.org/wiki/_III)から翻訳されています。
 
 
-『**ゼノサーガ エピソードIII［ツァラトゥストラはかく語りき］**』（ゼノサーガ エピソード スリー ツァラトゥストラはかくかたりき）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作し、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲームである](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](https://ja.wikipedia.org/wiki/ゼノサーガシリーズ "wikilink")の第3作目にして完結編となる。
+『**ゼノサーガ エピソードIII［ツァラトゥストラはかく語りき］**』（ゼノサーガ エピソード スリー ツァラトゥストラはかくかたりき）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作し、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が[2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲームである](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](../Page/ゼノサーガシリーズ.md "wikilink")の第3作目にして完結編となる。
 
 最終的にシオンが自立して旅立つまでの過程を描いている。人物の個々の物語の決着を見せることを主軸においた作品であるため、場や組織間の思惑、構想、対立などはほとんど説明されていない。エピソードIIの話の結末からエピソードIIIが始まるわけではなく、間にエピソードIIとエピソードIIIの橋渡し作品『[ゼノサーガ エピソードII to III a missing year](https://ja.wikipedia.org/wiki/ゼノサーガ_エピソードII_to_III_a_missing_year "wikilink")』が存在しており、エピソードIII内でも断片的にではあるが語られている。
 
@@ -28,8 +28,8 @@
 
 ## 関連項目
 
-  - [KOS-MOS](https://ja.wikipedia.org/wiki/KOS-MOS "wikilink")
-  - [エルデカイザー](https://ja.wikipedia.org/wiki/エルデカイザー "wikilink")
+  - [KOS-MOS](../Page/KOS-MOS.md "wikilink")
+  - [エルデカイザー](../Page/エルデカイザー.md "wikilink")
   - [ツァラトゥストラはかく語りき](../Page/ツァラトゥストラはこう語った.md "wikilink")
 
 ## 外部リンク

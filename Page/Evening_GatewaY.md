@@ -7,7 +7,7 @@
 
 ### パーソナリティー
 
-  - [相越久枝](https://ja.wikipedia.org/wiki/相越久枝 "wikilink")（月・火）、[かなぶんや](https://ja.wikipedia.org/wiki/かなぶんや "wikilink")（水・木）
+  - [相越久枝](../Page/相越久枝.md "wikilink")（月・火）、[かなぶんや](../Page/かなぶんや.md "wikilink")（水・木）
 
 ### その他
 
@@ -28,13 +28,13 @@
   - 17:00 時報
   - 17:22 FMK TRAFFIC INFORMATION
   - 17:30 FMK Evening Journal
-  - 17:45 [ON THE WAY COMEDY 道草](https://ja.wikipedia.org/wiki/ON_THE_WAY_COMEDY_道草 "wikilink")（TFM製作）
+  - 17:45 [ON THE WAY COMEDY 道草](../Page/ON_THE_WAY_COMEDY_道草.md "wikilink")（TFM製作）
   - 17:55 FMK NEWS
   - 18:00 時報・いい旅熊本探検隊
   - 18:15 FMK WEATHER INFORMATION
   - 18:25 FMK TRAFFIC INFORMATION
   - 19:00 時報
-  - 19:20 [鶴屋New](https://ja.wikipedia.org/wiki/鶴屋百貨店 "wikilink")-s News（月）、鶴屋フロアリポート（火～木）　
+  - 19:20 [鶴屋New](../Page/鶴屋百貨店.md "wikilink")-s News（月）、鶴屋フロアリポート（火～木）　
   - 19:55 番組終了
 
 ## 外部リンク

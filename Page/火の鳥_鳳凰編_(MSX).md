@@ -3,9 +3,9 @@
 
 『**火の鳥 鳳凰編**』（ひのとり ほうおうへん）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
-同時期に公開された[同名の角川映画との](https://ja.wikipedia.org/wiki/火の鳥_\(漫画\)#火の鳥_鳳凰編 "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")作品である。タイトル画面およびエンディングでは、同映画のテーマ曲である「火の鳥」（作詞：[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink") / 作曲：[宮下富実夫](https://ja.wikipedia.org/wiki/宮下富実夫 "wikilink") / 編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")）が用いられている。
+同時期に公開された[同名の角川映画との](https://ja.wikipedia.org/wiki/火の鳥_\(漫画\)#火の鳥_鳳凰編 "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")作品である。タイトル画面およびエンディングでは、同映画のテーマ曲である「火の鳥」（作詞：[阿久悠](../Page/阿久悠.md "wikilink") / 作曲：[宮下富実夫](https://ja.wikipedia.org/wiki/宮下富実夫 "wikilink") / 編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")）が用いられている。
 
-[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")で発売された『[火の鳥 鳳凰編 我王の冒険](https://ja.wikipedia.org/wiki/火の鳥_鳳凰編_我王の冒険 "wikilink")』とは、ゲームデザインが全く異なる。
+[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")で発売された『[火の鳥 鳳凰編 我王の冒険](../Page/火の鳥_鳳凰編_我王の冒険.md "wikilink")』とは、ゲームデザインが全く異なる。
 
 ## 概要
 

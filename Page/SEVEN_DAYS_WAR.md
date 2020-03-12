@@ -5,7 +5,7 @@
 
 ## 内容
 
-[1988年](../Page/1988年.md "wikilink")公開の[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")主演の実写[映画](../Page/映画.md "wikilink")『[ぼくらの七日間戦争](https://ja.wikipedia.org/wiki/ぼくらの七日間戦争 "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。映画CMではサビ部分が使用された。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「GIRLFRIEND」も実写映画『ぼくらの七日間戦争』の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")である。この曲で[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")出演も果たしている。同名の[サウンドトラックアルバムと平行してつくられたため](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR_MUSIC_FROM_THE_ORIGINAL_MOTION_PICTURE_SOUNDTRACK "wikilink")、小室は「[ミュージカル](../Page/ミュージカル.md "wikilink")的要素、ミュージカルを感じるシングル」とコメントしている。\[1\]
+[1988年](../Page/1988年.md "wikilink")公開の[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")主演の実写[映画](../Page/映画.md "wikilink")『[ぼくらの七日間戦争](../Page/ぼくらの七日間戦争.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。映画CMではサビ部分が使用された。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「GIRLFRIEND」も実写映画『ぼくらの七日間戦争』の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")である。この曲で[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")出演も果たしている。同名の[サウンドトラックアルバムと平行してつくられたため](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR_MUSIC_FROM_THE_ORIGINAL_MOTION_PICTURE_SOUNDTRACK "wikilink")、小室は「[ミュージカル](../Page/ミュージカル.md "wikilink")的要素、ミュージカルを感じるシングル」とコメントしている。\[1\]
 
 小室の作品として、初めてレコーディング作業の全工程を海外で行った作品である\[2\]。
 
@@ -13,11 +13,11 @@ TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も
 
 [コーラスに中学生](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")20人が入っており、マルチトラックレコーダーを用いて3回重ねて60声としている。この20人の中学生の中には、後に日本の大学へ進学し、エイベックスの洋楽レーベルから[OBLIVION DUSTのボーカリストとしてデビューする](https://ja.wikipedia.org/wiki/OBLIVION_DUST "wikilink")[ケン・ロイド](https://ja.wikipedia.org/wiki/ケン・ロイド "wikilink")がいた。
 
-また、[12弦ギター](../Page/12弦ギター.md "wikilink")を使用し全体的に厚みのある[アレンジとなっている](../Page/編曲.md "wikilink")。アルバム『[CAROL](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』収録版では、コーラスや、ストリングスが排除されたアレンジとなっていて、[リミックス](../Page/リミックス.md "wikilink")アルバム『[TMN CLASSIX 2](https://ja.wikipedia.org/wiki/TMN_CLASSIX "wikilink")』では、その『CAROL』収録版にさらに[シーケンス](https://ja.wikipedia.org/wiki/シーケンス "wikilink")[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")を重ねたアレンジとなっている。
+また、[12弦ギター](../Page/12弦ギター.md "wikilink")を使用し全体的に厚みのある[アレンジとなっている](../Page/編曲.md "wikilink")。アルバム『[CAROL](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』収録版では、コーラスや、ストリングスが排除されたアレンジとなっていて、[リミックス](../Page/リミックス.md "wikilink")アルバム『[TMN CLASSIX 2](../Page/TMN_CLASSIX.md "wikilink")』では、その『CAROL』収録版にさらに[シーケンス](https://ja.wikipedia.org/wiki/シーケンス "wikilink")[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")を重ねたアレンジとなっている。
 
 [2019年](../Page/2019年.md "wikilink")公開のアニメ版にも使われている。宇都宮は「素敵なシーンで使っていただき大変光栄」とコメントしている。\[4\]
 
-カップリングの「GIRLFRIEND」のピアノはファーストアルバム「[RAINBOW RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_RAINBOW "wikilink")」以来、木根が演奏している。木根は作曲の時間の制約に苦労したという。ピアノの前に10時間座りっぱなしで1日で作曲したという。「GIRLFRIEND」はヒューマンな感じがする曲だが、ドラムは打ち込みで演奏しているとのこと。宇都宮は「GIRLFRIEND」について、かなりテンポの遅いバラードだったので、雰囲気を出すのが難しくて歌いづらかったと述べている。\[5\]宮沢りえが木根のラジオ番組に出演し、この曲が好きと言ってくれたとアニメ版の公開について、木根はコメントしている。\[6\]
+カップリングの「GIRLFRIEND」のピアノはファーストアルバム「[RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink")」以来、木根が演奏している。木根は作曲の時間の制約に苦労したという。ピアノの前に10時間座りっぱなしで1日で作曲したという。「GIRLFRIEND」はヒューマンな感じがする曲だが、ドラムは打ち込みで演奏しているとのこと。宇都宮は「GIRLFRIEND」について、かなりテンポの遅いバラードだったので、雰囲気を出すのが難しくて歌いづらかったと述べている。\[5\]宮沢りえが木根のラジオ番組に出演し、この曲が好きと言ってくれたとアニメ版の公開について、木根はコメントしている。\[6\]
 
 2019年12月8日、クリアブルーヴァイナル仕様での完全生産限定盤7インチアナログレコードで再リリースされた\[7\]。
 
@@ -34,9 +34,9 @@ TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も
 
   - [SEVEN DAYS WAR MUSIC FROM THE ORIGINAL MOTION PICTURE SOUNDTRACK](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR_MUSIC_FROM_THE_ORIGINAL_MOTION_PICTURE_SOUNDTRACK "wikilink")
   - [CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink") (Four Pieces Band Mix)
-  - [TMN CLASSIX 2](https://ja.wikipedia.org/wiki/TMN_CLASSIX "wikilink") (album overdub mix)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink") (Four Pieces Band Mix）
+  - [TMN CLASSIX 2](../Page/TMN_CLASSIX.md "wikilink") (album overdub mix)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink") (Four Pieces Band Mix）
   - [THE GREATEST HITS - 小室哲哉作品集 - s](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_-_小室哲哉作品集_-_s "wikilink")
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")
   - [TM NETWORK BEST OF BEST](../Page/TM_NETWORK_BEST_OF_BEST.md "wikilink")
@@ -45,17 +45,17 @@ TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [CAROL DELUXE EDITION](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink") (Disc2に"Four Pieces Band Mix"、Disc3に"Four Pieces Band Mix"基調のオリカラ版が収録)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 **GIRLFRIEND**
 
   - [SEVEN DAYS WAR MUSIC FROM THE ORIGINAL MOTION PICTURE SOUNDTRACK](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR_MUSIC_FROM_THE_ORIGINAL_MOTION_PICTURE_SOUNDTRACK "wikilink") (オリジナルバージョンとインストゥルメンタルバージョンを収録)
   - [TMN CLASSIX 2](https://ja.wikipedia.org/wiki/CLASSIX "wikilink") (motion picture version)
-  - [NAOTO KINE PRESENTS TMN BLUE](https://ja.wikipedia.org/wiki/NAOTO_KINE_PRESENTS_TMN_BLUE "wikilink")
-  - [STAR BOX TM NETWORK](https://ja.wikipedia.org/wiki/STAR_BOX_TM_NETWORK "wikilink")
+  - [NAOTO KINE PRESENTS TMN BLUE](../Page/NAOTO_KINE_PRESENTS_TMN_BLUE.md "wikilink")
+  - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 ## カバー・バージョン
 

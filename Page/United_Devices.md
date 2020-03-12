@@ -1,7 +1,7 @@
 > この記事は[United Devices](https://ja.wikipedia.org/wiki/United_Devices)から翻訳されています。
 
 
-**United Devices**（ユナイテッド・デバイセズ）は、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")分野において、[コンピュータクラスタと](../Page/コンピュータ・クラスター.md "wikilink")[グリッドによる](../Page/グリッド・コンピューティング.md "wikilink")[ハイパフォーマンスコンピューティング](https://ja.wikipedia.org/wiki/ハイパフォーマンスコンピューティング "wikilink")のインフラ構築に注力している株式非公開企業であった。1999年から活動を開始し、正式な創立は2000年である。[distributed.net](https://ja.wikipedia.org/wiki/distributed.net "wikilink")や[SETI@home](https://ja.wikipedia.org/wiki/SETI@home "wikilink")といったプロジェクトの分散コンピューティングの技術が基盤となっているが、そのときのプロジェクトのスタッフはほとんど残っていない。テキサス州オースティンに本社を置き、フランスのパリとインドのピューンにオフィスを構えている。2005年8月にパリにある[GridXpert](https://ja.wikipedia.org/wiki/GridXpert "wikilink")社を買収し、*Synergy*を製品ラインナップに加えた。2007年9月にUniva社（[英語版](https://ja.wikipedia.org/wiki/w:Univa "wikilink")）に併合され、企業としての活動を終えた。
+**United Devices**（ユナイテッド・デバイセズ）は、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")分野において、[コンピュータクラスタと](../Page/コンピュータ・クラスター.md "wikilink")[グリッドによる](../Page/グリッド・コンピューティング.md "wikilink")[ハイパフォーマンスコンピューティング](https://ja.wikipedia.org/wiki/ハイパフォーマンスコンピューティング "wikilink")のインフラ構築に注力している株式非公開企業であった。1999年から活動を開始し、正式な創立は2000年である。[distributed.net](https://ja.wikipedia.org/wiki/distributed.net "wikilink")や[SETI@home](../Page/SETI@home.md "wikilink")といったプロジェクトの分散コンピューティングの技術が基盤となっているが、そのときのプロジェクトのスタッフはほとんど残っていない。テキサス州オースティンに本社を置き、フランスのパリとインドのピューンにオフィスを構えている。2005年8月にパリにある[GridXpert](https://ja.wikipedia.org/wiki/GridXpert "wikilink")社を買収し、*Synergy*を製品ラインナップに加えた。2007年9月にUniva社（[英語版](https://ja.wikipedia.org/wiki/w:Univa "wikilink")）に併合され、企業としての活動を終えた。
 
 ## 当時の製品ラインナップ
 
@@ -25,18 +25,18 @@ Grid MPを使っている著名な団体のリストが[ユナイテッド　デ
 また、それには以下のようないくつかの大きく有名な団体が含まれている。
 
   - [:en:American Diabetes Association](https://ja.wikipedia.org/wiki/:en:American_Diabetes_Association "wikilink")
-  - [グラクソ・スミスクライン](https://ja.wikipedia.org/wiki/グラクソ・スミスクライン "wikilink")
+  - [グラクソ・スミスクライン](../Page/グラクソ・スミスクライン.md "wikilink")
   - [Hewlett-Packard](https://ja.wikipedia.org/wiki/Hewlett-Packard "wikilink")
   - [IBM](../Page/IBM.md "wikilink")
   - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")
   - [ジョンソン・エンド・ジョンソン](../Page/ジョンソン・エンド・ジョンソン.md "wikilink")
   - [イギリス国立物理学研究所](https://ja.wikipedia.org/wiki/イギリス国立物理学研究所 "wikilink")
-  - [NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")
+  - [NTTデータ](../Page/NTTデータ.md "wikilink")
   - [ノバルティス](../Page/ノバルティス.md "wikilink")
-  - [パデュー大学](https://ja.wikipedia.org/wiki/パデュー大学 "wikilink")
+  - [パデュー大学](../Page/パデュー大学.md "wikilink")
   - [テキサスA\&M大学](../Page/テキサスA&M大学.md "wikilink")
   - [United Devices Cancer Research Project](../Page/United_Devices_Cancer_Research_Project.md "wikilink")
-  - [フロリダ大学](https://ja.wikipedia.org/wiki/フロリダ大学 "wikilink")
+  - [フロリダ大学](../Page/フロリダ大学.md "wikilink")
   - [オックスフォード大学](../Page/オックスフォード大学.md "wikilink")
   - [テキサス大学オースティン校](https://ja.wikipedia.org/wiki/テキサス大学オースティン校 "wikilink")
   - [:en:World Community Grid](https://ja.wikipedia.org/wiki/:en:World_Community_Grid "wikilink")
@@ -45,6 +45,6 @@ Grid MPを使っている著名な団体のリストが[ユナイテッド　デ
 
   - [分散コンピューティング](../Page/分散コンピューティング.md "wikilink")
   - [グリッドコンピューティング](https://ja.wikipedia.org/wiki/グリッドコンピューティング "wikilink")
-  - [ジョブ管理システム](https://ja.wikipedia.org/wiki/ジョブ管理システム "wikilink")
+  - [ジョブ管理システム](../Page/ジョブ管理システム.md "wikilink")
 
 [Category:かつて存在したアメリカ合衆国のコンピュータ企業](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国のコンピュータ企業 "wikilink") [Category:オースティンの企業](https://ja.wikipedia.org/wiki/Category:オースティンの企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[Feel Good Inc.](https://ja.wikipedia.org/wiki/Feel_Good_Inc.)から翻訳されています。
 
 
-「**Feel Good Inc.**」（フィール・グッド・インク）は、[ゴリラズ](../Page/ゴリラズ.md "wikilink")の楽曲で、アルバム『[ディーモン・デイズ](https://ja.wikipedia.org/wiki/ディーモン・デイズ "wikilink")』に収録されていた。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")として発売された。その後、各国でリリースされた。3種類のカバーが存在する。英国シングル・チャートで2位、[オーストラリア](../Page/オーストラリア.md "wikilink")では3位を記録した。 [iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のCMソングとして使われたことでも知られている。
+「**Feel Good Inc.**」（フィール・グッド・インク）は、[ゴリラズ](../Page/ゴリラズ.md "wikilink")の楽曲で、アルバム『[ディーモン・デイズ](https://ja.wikipedia.org/wiki/ディーモン・デイズ "wikilink")』に収録されていた。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](../Page/2005年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")として発売された。その後、各国でリリースされた。3種類のカバーが存在する。英国シングル・チャートで2位、[オーストラリア](../Page/オーストラリア.md "wikilink")では3位を記録した。 [iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のCMソングとして使われたことでも知られている。
 
 ## 収録曲
 
 ### 日本版
 
-2005年4月27日に当時の[東芝EMIより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、シングルが発売された。
+2005年4月27日に当時の[東芝EMIより](../Page/EMIミュージック・ジャパン.md "wikilink")、シングルが発売された。
 
   - CD規格番号： <span style="font-size: smaller;">TOCP 61100</span>
 

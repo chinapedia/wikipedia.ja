@@ -1,7 +1,7 @@
 > この記事は[NAMIKIBASHI](https://ja.wikipedia.org/wiki/NAMIKIBASHI)から翻訳されています。
 
 
-**NAMIKIBASHI**（ナミキバシ）は、[小林賢太郎](../Page/小林賢太郎.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")）と[小島淳二](https://ja.wikipedia.org/wiki/小島淳二 "wikilink")（[teevee graphics](https://ja.wikipedia.org/wiki/teevee_graphics "wikilink")）による映像製作ユニット。
+**NAMIKIBASHI**（ナミキバシ）は、[小林賢太郎](../Page/小林賢太郎.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")）と[小島淳二](../Page/小島淳二.md "wikilink")（[teevee graphics](https://ja.wikipedia.org/wiki/teevee_graphics "wikilink")）による映像製作ユニット。
 
 国内外におけるショートフィルムフェスティバルの受賞多数。
 第57回[ベルリン国際映画祭](../Page/ベルリン国際映画祭.md "wikilink")の短編コンペティション部門に「THE JAPANESE TRADITION ～謝罪～」が出品された。同部門への日本作品の出品は31年ぶりとなる。
@@ -34,12 +34,12 @@
 
 ### PV
 
-  - [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink") 「Tell Me」（出演：森谷ふみ、小林賢太郎）
-  - 「[東京五輪音頭](https://ja.wikipedia.org/wiki/東京五輪音頭 "wikilink")-2020-」（演出）
+  - [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink") 「Tell Me」（出演：森谷ふみ、小林賢太郎）
+  - 「[東京五輪音頭](../Page/東京五輪音頭.md "wikilink")-2020-」（演出）
 
 ## 協力
 
-  - [POTSUNEN](https://ja.wikipedia.org/wiki/POTSUNEN "wikilink")（出演：小林賢太郎）
+  - [POTSUNEN](../Page/POTSUNEN.md "wikilink")（出演：小林賢太郎）
       - 映像協力
 
 ## 出品歴及び受賞歴

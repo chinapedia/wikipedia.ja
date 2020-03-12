@@ -1,11 +1,11 @@
 > この記事は[Overnight Sensation ](https://ja.wikipedia.org/wiki/Overnight_Sensation_)から翻訳されています。
 
 
-「**Overnight Sensation 〜時代はあなたに委ねてる〜**」（オーバーナイト・センセーション じだいはあなたにゆだねてる）は、[trfの](../Page/TRF.md "wikilink")10枚目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に廉価版12cmシングルとして再発売。）発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Overnight Sensation 〜時代はあなたに委ねてる〜**」（オーバーナイト・センセーション じだいはあなたにゆだねてる）は、[trfの](../Page/TRF.md "wikilink")10枚目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。（[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に廉価版12cmシングルとして再発売。）発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前月に発売された「[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")」に続き3か月連続リリース第3弾の曲で、[ホンダ](../Page/本田技研工業.md "wikilink")[ライブDioの](https://ja.wikipedia.org/wiki/ホンダ・ディオ "wikilink")[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")付きで本人たちが同[CMにも出演している](../Page/コマーシャルメッセージ.md "wikilink")。
+前月に発売された「[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")」に続き3か月連続リリース第3弾の曲で、[ホンダ](../Page/本田技研工業.md "wikilink")[ライブDioの](../Page/ホンダ・ディオ.md "wikilink")[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")の[タイアップ](../Page/タイアップ.md "wikilink")付きで本人たちが同[CMにも出演している](../Page/コマーシャルメッセージ.md "wikilink")。
 
 歌詞のコンセプトは「[OL](../Page/OL.md "wikilink")のお話し」「身近に感じられる[応援歌](../Page/応援歌.md "wikilink")」である\[1\]。
 
@@ -13,11 +13,11 @@
 
 『[TRFコーク・イントゥ・ザ・グルーヴ](../Page/TRFコーク・イントゥ・ザ・グルーヴ.md "wikilink")』の人気曲投票で4位となった。。同番組に[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")が出演した際も同様の事を語っており、実際にこの曲を歌っている。\[3\]
 
-trfのシングルは「[survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜 "wikilink")」から本作まで[オリコンの集計で](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。これは、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")、[B'z](../Page/B'z.md "wikilink")に続いて史上3組目の達成（後に、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、[GLAY](../Page/GLAY.md "wikilink")、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")も達成）。[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")として発売された『[TK MILLION WORKS](https://ja.wikipedia.org/wiki/TK_MILLION_WORKS "wikilink")』にも収録された。
+trfのシングルは「[survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜 "wikilink")」から本作まで[オリコンの集計で](../Page/オリコンチャート.md "wikilink")5作連続[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。これは、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")、[B'z](../Page/B'z.md "wikilink")に続いて史上3組目の達成（後に、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、[GLAY](../Page/GLAY.md "wikilink")、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")も達成）。[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")として発売された『[TK MILLION WORKS](https://ja.wikipedia.org/wiki/TK_MILLION_WORKS "wikilink")』にも収録された。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")公開の[東映](../Page/東映.md "wikilink")・[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")共同製作による[ぼくたちの映画シリーズ](../Page/ぼくたちの映画シリーズ.md "wikilink")第1弾『[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")』では挿入歌（エンディングテーマ）に起用され、劇中にtrfが出演、歌唱している。また[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")の『[第37回日本レコード大賞](https://ja.wikipedia.org/wiki/第37回日本レコード大賞 "wikilink")』では、この曲で大賞を受賞し、[エイベックス初の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[レコード大賞](https://ja.wikipedia.org/wiki/レコード大賞 "wikilink")受賞に輝いている。それを記念して専用のケース付き[テレホンカード](../Page/テレホンカード.md "wikilink")が作られた。
 
-後に[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")の[岸谷五朗](https://ja.wikipedia.org/wiki/岸谷五朗 "wikilink")と[寺脇康文](https://ja.wikipedia.org/wiki/寺脇康文 "wikilink")がYU-KIとの合唱の形でカバーし、「Overnight Sensation 〜時代はあなたに委ねてる〜 -meets Goro Kishitani & Yasufumi Terawaki-」のタイトルでTRFのアルバム『[Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink")』に収録された。
+後に[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")の[岸谷五朗](../Page/岸谷五朗.md "wikilink")と[寺脇康文](../Page/寺脇康文.md "wikilink")がYU-KIとの合唱の形でカバーし、「Overnight Sensation 〜時代はあなたに委ねてる〜 -meets Goro Kishitani & Yasufumi Terawaki-」のタイトルでTRFのアルバム『[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")』に収録された。
 
 ## バリエーション
 

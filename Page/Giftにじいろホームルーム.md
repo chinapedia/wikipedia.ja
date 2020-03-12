@@ -3,14 +3,14 @@
 
 **Giftにじいろホームルーム**（ギフトにじいろホールルーム）は、テレビアニメ『[Gift 〜eternal rainbow〜](https://ja.wikipedia.org/wiki/Gift_〜eternal_rainbow〜 "wikilink")』に関する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
 
-[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、木之坂霧乃役の[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")と外薗綸花役の[河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")。「宮崎羽衣の絶え間ないボケ倒しと「誰か助けて〜！」と叫ぶ河原木志穂の掛け合いが持ち味だった」というくだりが15回目放送時に紹介され、河原木は「そんなことない」、宮崎は「恒例になっている」と答えていた。
+[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、木之坂霧乃役の[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")と外薗綸花役の[河原木志穂](../Page/河原木志穂.md "wikilink")。「宮崎羽衣の絶え間ないボケ倒しと「誰か助けて〜！」と叫ぶ河原木志穂の掛け合いが持ち味だった」というくだりが15回目放送時に紹介され、河原木は「そんなことない」、宮崎は「恒例になっている」と答えていた。
 
 ## 配信概要
 
   - 配信期間：ランティス：2006年7月14日 - 12月29日（全25回）・音泉：2006年10月20日 - ・メディファクラジオ：2006年10月27日 -
-  - 配信サイト：[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")・ランティスウェブラジオ[FOMA](../Page/FOMA.md "wikilink")向け（第25回のみ）・[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")（第14回から）・[メディファクラジオ](../Page/メディファクラジオ.md "wikilink")（第10回から）
+  - 配信サイト：[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")・ランティスウェブラジオ[FOMA](../Page/FOMA.md "wikilink")向け（第25回のみ）・[音泉](../Page/音泉.md "wikilink")（第14回から）・[メディファクラジオ](../Page/メディファクラジオ.md "wikilink")（第10回から）
   - 配信曜日：毎週金曜日（音泉は一週間遅れ）
-  - スポンサー：[MOONSTONE](https://ja.wikipedia.org/wiki/MOONSTONE "wikilink")・[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")・[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")イメージワークス・[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - スポンサー：[MOONSTONE](../Page/MOONSTONE.md "wikilink")・[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")・[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")イメージワークス・[ランティス](../Page/ランティス.md "wikilink")
 
 ## コーナー
 
@@ -42,13 +42,13 @@
   - おたよりのコーナーでは、第6回は「心理[テスト](https://ja.wikipedia.org/wiki/試験 "wikilink")」、第8回は「[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[女性](../Page/女性.md "wikilink")」についてのために1通のみ、また第4回では「[帽子](../Page/帽子.md "wikilink")」、第6回は「ドライ[マンゴー](../Page/マンゴー.md "wikilink")」のために1通も読めなかった。そのほか毎回のように「今日もこれだけしか読めなかった」と嘆いているが、改善された例しはなかった。
   - リスナーからのメールを、P.N.（[ペンネーム](../Page/ペンネーム.md "wikilink")）を読み上げたものの内容を読む時間が無いという事態が2週連続で起こった。
   - 番組パーソナリティが2人とも（特に宮崎が）、番組主題歌の題名、どちらがオープニングでどちらがエンディングなのかも分かっていなかった事が、主題歌歌手2名が揃ってゲスト出演した第16回（初の公開録音）で発覚。しかも、[藤弥美里](../Page/藤弥美里.md "wikilink")の名前を、ごく自然な感じで「ふじみやさと」と言い間違えたり（キャラクターである「藤宮千紗」と混ざった？）、当番組の前番組「[GiftにじいろStation](https://ja.wikipedia.org/wiki/GiftにじいろStation "wikilink")」のパーソナリティだったことを知らなかったりと、散々な回となった。
-  - 第18回のおたよりのコーナーで「晴彦・莉子・霧乃の様な三角関係になったら」という話から脱線して、「[ライオン・キング](https://ja.wikipedia.org/wiki/ライオン・キング "wikilink")」の話になってしまった。宮崎がこの回を弟に聞かせたところ（全く関係ない番組の紹介であるため）「自由だなぁ」と言われた。また第21回では「[キャッツ](../Page/キャッツ_\(ミュージカル\).md "wikilink")」の話に流れそうになったのを河原木が制して終了させた。
+  - 第18回のおたよりのコーナーで「晴彦・莉子・霧乃の様な三角関係になったら」という話から脱線して、「[ライオン・キング](../Page/ライオン・キング.md "wikilink")」の話になってしまった。宮崎がこの回を弟に聞かせたところ（全く関係ない番組の紹介であるため）「自由だなぁ」と言われた。また第21回では「[キャッツ](../Page/キャッツ_\(ミュージカル\).md "wikilink")」の話に流れそうになったのを河原木が制して終了させた。
 
 ## ゲスト
 
   - [橋本みゆき](../Page/橋本みゆき.md "wikilink")（第15 -16回）
   - [藤弥美里](../Page/藤弥美里.md "wikilink")（第16回）
-  - [泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")（第21回）
+  - [泰勇気](../Page/泰勇気.md "wikilink")（第21回）
   - [新谷良子](../Page/新谷良子.md "wikilink")（第24回）
 
 ## 外部リンク

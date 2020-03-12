@@ -43,9 +43,9 @@
 **JUST ONE VICTORY（たったひとつの勝利）-Remix Version-**
 
   - [CAROL ～A DAY IN A GIRL'S LIFE 1991～](https://ja.wikipedia.org/wiki/CAROL_～A_DAY_IN_A_GIRL'S_LIFE_1991～ "wikilink") (オリジナルバージョン)
-  - [TMN COLOSSEUM II](https://ja.wikipedia.org/wiki/TMN_COLOSSEUM "wikilink") (ライブバージョン)
-  - [TMN CLASSIX 2](https://ja.wikipedia.org/wiki/TMN_CLASSIX "wikilink") (single 7' version)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [TMN COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink") (ライブバージョン)
+  - [TMN CLASSIX 2](../Page/TMN_CLASSIX.md "wikilink") (single 7' version)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [TM NETWORK BEST OF BEST](../Page/TM_NETWORK_BEST_OF_BEST.md "wikilink")
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink") (Disc 1にシングル版、初回限定盤のみ付属のDisc 2に -LONG No Breakdown- が収録)
@@ -53,19 +53,19 @@
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (シングル版基調のオリジナル・カラオケ)
   - [DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink") (Just One Victory 2014)
   - [CAROL DELUXE EDITION](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink") (Disc1にオリジナル版、Disc3にオリジナル版基調のインストが収録)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink") (オリジナルバージョン)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink") (オリジナルバージョン)
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 **[STILL LOVE HER (失われた風景)](https://ja.wikipedia.org/wiki/STILL_LOVE_HER_\(失われた風景\) "wikilink")**
 
   - [CAROL ～A DAY IN A GIRL'S LIFE 1991～](https://ja.wikipedia.org/wiki/CAROL_～A_DAY_IN_A_GIRL'S_LIFE_1991～ "wikilink")
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink")
   - [TAKASHI UTSUNOMIYA THE BEST FILES](https://ja.wikipedia.org/wiki/TAKASHI_UTSUNOMIYA_THE_BEST_FILES "wikilink")
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [CAROL DELUXE EDITION](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink") (Disc2にオリジナル、Disc3にインスト版が収録)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink")
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")
 
 ## 出典
 

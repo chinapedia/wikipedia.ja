@@ -12,23 +12,23 @@
 ### 日本向け製品
 
   - GENIO e550
-    [2001年](../Page/2001年.md "wikilink")8月発売の初代GENIO e。Pocket PC搭載。CPUは[StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink")(206MHz)。日本初の2スロットPocket PC。
+    [2001年](../Page/2001年.md "wikilink")8月発売の初代GENIO e。Pocket PC搭載。CPUは[StrongARM](../Page/StrongARM.md "wikilink")(206MHz)。日本初の2スロットPocket PC。
   - GENIO e550X
     [2001年](../Page/2001年.md "wikilink")12月発売。Pocket PC 2002を搭載し、内蔵メモリを増設。外見は初代とほぼ同様である。初代をe550X相当にするサービスも実施された。
   - GENIO e550G
-    [2002年](../Page/2002年.md "wikilink")6月発売。CPUが[PXA250](https://ja.wikipedia.org/wiki/XScale "wikilink")(400MHz)になったほか、デザインも見直された。これ以降の型番に "550" と付く機種は、全てこのデザインを踏襲している。
+    [2002年](../Page/2002年.md "wikilink")6月発売。CPUが[PXA250](../Page/XScale.md "wikilink")(400MHz)になったほか、デザインも見直された。これ以降の型番に "550" と付く機種は、全てこのデザインを踏襲している。
   - GENIO e550GX / GENIO e550GS
     [2002年](../Page/2002年.md "wikilink")11月発売。GXはRAM容量が128MB、GSはリモコン付きイヤホンが付属。
   - GENIO e550C / GENIO e550GD
-    [2003年](../Page/2003年.md "wikilink")3月（GENIO e550Cは4月）発売。CPUが[PXA255](https://ja.wikipedia.org/wiki/XScale "wikilink")(400MHz)に変更。Cには31万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CCDカメラを搭載](../Page/CCDイメージセンサ.md "wikilink")、GDには[広辞苑](../Page/広辞苑.md "wikilink")およびジーニアス英和・和英辞書を搭載している。
+    [2003年](../Page/2003年.md "wikilink")3月（GENIO e550Cは4月）発売。CPUが[PXA255](../Page/XScale.md "wikilink")(400MHz)に変更。Cには31万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CCDカメラを搭載](../Page/CCDイメージセンサ.md "wikilink")、GDには[広辞苑](../Page/広辞苑.md "wikilink")およびジーニアス英和・和英辞書を搭載している。
   - GENIO e350
-    [2003年](../Page/2003年.md "wikilink")8月発売。Pocket PC 2003を搭載し、CPUは[PXA255](https://ja.wikipedia.org/wiki/XScale "wikilink")(300MHz)を採用。これまでのモデルとは一線を画し、カードスロットが[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロットのみの薄型・軽量モデルである。
+    [2003年](../Page/2003年.md "wikilink")8月発売。Pocket PC 2003を搭載し、CPUは[PXA255](../Page/XScale.md "wikilink")(300MHz)を採用。これまでのモデルとは一線を画し、カードスロットが[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロットのみの薄型・軽量モデルである。
   - GENIO e550CT / GENIO e550DT / GENIO e550GT
-    [2003年](../Page/2003年.md "wikilink")10月発売。CPUが[PXA255](https://ja.wikipedia.org/wiki/XScale "wikilink")(400MHz)。CTは31万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CCDカメラを搭載](../Page/CCDイメージセンサ.md "wikilink")、DTは[広辞苑](../Page/広辞苑.md "wikilink")およびジーニアス英和・和英辞書を搭載。
+    [2003年](../Page/2003年.md "wikilink")10月発売。CPUが[PXA255](../Page/XScale.md "wikilink")(400MHz)。CTは31万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")[CCDカメラを搭載](../Page/CCDイメージセンサ.md "wikilink")、DTは[広辞苑](../Page/広辞苑.md "wikilink")およびジーニアス英和・和英辞書を搭載。
   - GENIO e400
-    [2003年](../Page/2003年.md "wikilink")12月発売。CPUは[PXA263](https://ja.wikipedia.org/wiki/XScale "wikilink")(300MHz)。350同様、カードスロットが[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロットのみの薄型・軽量モデルである。
+    [2003年](../Page/2003年.md "wikilink")12月発売。CPUは[PXA263](../Page/XScale.md "wikilink")(300MHz)。350同様、カードスロットが[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロットのみの薄型・軽量モデルである。
   - GENIO e830W / GENIO e830
-    [2004年](../Page/2004年.md "wikilink")9月発売。Pocket PC 2003 Second Editionを搭載し、CPUは[PXA272](https://ja.wikipedia.org/wiki/XScale "wikilink")(520MHz)を採用。GENIO e初の[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")搭載モデルである。e830Wは[無線LAN](../Page/無線LAN.md "wikilink")、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")にも対応。2010年10月現在、これ以降の新機種の発表はない。
+    [2004年](../Page/2004年.md "wikilink")9月発売。Pocket PC 2003 Second Editionを搭載し、CPUは[PXA272](../Page/XScale.md "wikilink")(520MHz)を採用。GENIO e初の[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")搭載モデルである。e830Wは[無線LAN](../Page/無線LAN.md "wikilink")、[Bluetooth](../Page/Bluetooth.md "wikilink")にも対応。2010年10月現在、これ以降の新機種の発表はない。
 
 ### 欧米向け製品
 

@@ -3,13 +3,13 @@
 
 『**超ドラゴンボールZ**』（スーパードラゴンボールゼット、**超DRAGON BALL Z**）は、[鳥山明](../Page/鳥山明.md "wikilink")原作のアニメ『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』を原作とした[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
 
-[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")より[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として2005年9月ごろよりロケテストやイベントでの発表があり、2006年1月ごろより正式稼動開始。2006年6月29日には[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")・バンダイレーベルより追加要素・改良を加えた移植版が[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+[バンプレスト](../Page/バンプレスト.md "wikilink")より[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として2005年9月ごろよりロケテストやイベントでの発表があり、2006年1月ごろより正式稼動開始。2006年6月29日には[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")・バンダイレーベルより追加要素・改良を加えた移植版が[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 ## 概要
 
-対戦を重ねて[経験値](../Page/経験値.md "wikilink")を蓄積し、一定値以上になると新たなスキルを覚え、技の追加や攻撃力アップといったカスタマイズができるのが特徴。また、対戦で勝つごとに[ドラゴンボールを入手でき](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")、これを7つ集めることでもカスタマイズできる。アーケード版ではデータを保存するキャラクターカードを購入して記録するが『[バーチャファイター4](../Page/バーチャファイター4.md "wikilink")』『[鉄拳5](https://ja.wikipedia.org/wiki/鉄拳5 "wikilink")』が勝敗数・称号・コスチュームを記録するだけだったのに対し、本作ではキャラクターの性能そのものが変化するのが特徴。なお、PS2版では1枚のメモリーカードに30キャラクター分のデータを記録できる。
+対戦を重ねて[経験値](../Page/経験値.md "wikilink")を蓄積し、一定値以上になると新たなスキルを覚え、技の追加や攻撃力アップといったカスタマイズができるのが特徴。また、対戦で勝つごとに[ドラゴンボールを入手でき](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")、これを7つ集めることでもカスタマイズできる。アーケード版ではデータを保存するキャラクターカードを購入して記録するが『[バーチャファイター4](../Page/バーチャファイター4.md "wikilink")』『[鉄拳5](../Page/鉄拳5.md "wikilink")』が勝敗数・称号・コスチュームを記録するだけだったのに対し、本作ではキャラクターの性能そのものが変化するのが特徴。なお、PS2版では1枚のメモリーカードに30キャラクター分のデータを記録できる。
 
-[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")で『[ストリートファイターシリーズ](https://ja.wikipedia.org/wiki/ストリートファイター_\(ゲーム\) "wikilink")』を開発していた[船水紀孝](https://ja.wikipedia.org/wiki/船水紀孝 "wikilink")・[西谷亮](https://ja.wikipedia.org/wiki/西谷亮 "wikilink")をスタッフに迎えたため『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』の操作感で『[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")』に近い3Dフィールドでの格闘アクションができるという触れ込みだが、実際の操作感覚はその二つのどちらとも大きく異なる。操作方法は『ストリートファイターII』などに準ずるが、ガードやジャンプをボタンで行うなど本作独自の基本操作もある。登場するキャラクター数はアーケード版が12人、PS2版が18人。
+[カプコン](../Page/カプコン.md "wikilink")で『[ストリートファイターシリーズ](../Page/ストリートファイター_\(ゲーム\).md "wikilink")』を開発していた[船水紀孝](../Page/船水紀孝.md "wikilink")・[西谷亮](https://ja.wikipedia.org/wiki/西谷亮 "wikilink")をスタッフに迎えたため『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』の操作感で『[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")』に近い3Dフィールドでの格闘アクションができるという触れ込みだが、実際の操作感覚はその二つのどちらとも大きく異なる。操作方法は『ストリートファイターII』などに準ずるが、ガードやジャンプをボタンで行うなど本作独自の基本操作もある。登場するキャラクター数はアーケード版が12人、PS2版が18人。
 
 ## ゲーム内容
 
@@ -59,23 +59,23 @@
 
 （カッコ内に全パターン）
 
-  - [孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")
+  - [孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")
 
 スタンダードで使いやすいキャラクター。通常は山吹色の道着だが、特殊コスチュームでヤードラット星の服もある。
 
-  - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")
+  - [ベジータ](../Page/ベジータ.md "wikilink")
 
 気弾の連射が得意なキャラクター。通常は人造人間編で着ていた戦闘服だが、特殊コスチュームでサイヤ人編の戦闘服もある。
 
-  - [クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")
+  - [クリリン](../Page/クリリン.md "wikilink")
 
-気を操る技に長けた技巧派のキャラクター。通常は亀仙流の道着だが、特殊コスチュームで[ナメック星](https://ja.wikipedia.org/wiki/ナメック星 "wikilink")に行く時の私服もある。
+気を操る技に長けた技巧派のキャラクター。通常は亀仙流の道着だが、特殊コスチュームで[ナメック星](../Page/ナメック星.md "wikilink")に行く時の私服もある。
 
   - [ピッコロ](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ（マジュニア） "wikilink")
 
 腕が伸びるため通常攻撃のリーチが長い。
 
-  - [孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")
+  - [孫悟飯](../Page/孫悟飯.md "wikilink")
 
 超必殺技で超サイヤ人（スパークは無いが超サイヤ人2のグラフィック）に変身することもできる。
 
@@ -91,7 +91,7 @@
 
 <!-- end list -->
 
-  - [人造人間17号](https://ja.wikipedia.org/wiki/人造人間17号 "wikilink")※
+  - [人造人間17号](../Page/人造人間17号.md "wikilink")※
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 
   - [チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")※
 
-牛魔王の娘。芭蕉扇や[如意棒を使う](https://ja.wikipedia.org/wiki/如意金箍棒 "wikilink")。舞空術の代わりに[筋斗雲](https://ja.wikipedia.org/wiki/筋斗雲 "wikilink")に乗る。外見は[天下一武道会](../Page/天下一武道会.md "wikilink")出場時の姿で、服装も通常はその武道家時代に着ていた[チャイナ](../Page/チャイナ.md "wikilink")風の道着だが、特殊コスチュームで幼少期に着ていたビキニ風の戦闘服もある。
+牛魔王の娘。芭蕉扇や[如意棒を使う](../Page/如意金箍棒.md "wikilink")。舞空術の代わりに[筋斗雲](../Page/筋斗雲.md "wikilink")に乗る。外見は[天下一武道会](../Page/天下一武道会.md "wikilink")出場時の姿で、服装も通常はその武道家時代に着ていた[チャイナ](../Page/チャイナ.md "wikilink")風の道着だが、特殊コスチュームで幼少期に着ていたビキニ風の戦闘服もある。
 
 ※人造人間17号とチチはアーケードではタイムリリースにより使用可能。
 
@@ -147,7 +147,7 @@
 
 ## 主題歌
 
-「[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")（2005 ver.）」（作詞:[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、作曲:[清岡千穂](../Page/清岡千穂.md "wikilink")、編曲:[山本健司](https://ja.wikipedia.org/wiki/山本健司 "wikilink")、歌：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")）
+「[CHA-LA HEAD-CHA-LA](../Page/CHA-LA_HEAD-CHA-LA.md "wikilink")（2005 ver.）」（作詞:[森雪之丞](../Page/森雪之丞.md "wikilink")、作曲:[清岡千穂](../Page/清岡千穂.md "wikilink")、編曲:[山本健司](../Page/山本健司.md "wikilink")、歌：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")）
 
 ## 予約特典
 

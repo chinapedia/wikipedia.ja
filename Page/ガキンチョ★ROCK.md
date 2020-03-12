@@ -10,7 +10,7 @@
 
 ## キャスト
 
-  - **コウメイ** - [西野亮廣](https://ja.wikipedia.org/wiki/西野亮廣 "wikilink")（[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")）
+  - **コウメイ** - [西野亮廣](../Page/西野亮廣.md "wikilink")（[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")）
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 
 <!-- end list -->
 
-  - 比呂美 - [清水ゆみ](https://ja.wikipedia.org/wiki/清水ゆみ "wikilink")
+  - 比呂美 - [清水ゆみ](../Page/清水ゆみ.md "wikilink")
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@
 
 <!-- end list -->
 
-  - 桑島刑事部長 - [田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
+  - 桑島刑事部長 - [田中要次](../Page/田中要次.md "wikilink")
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 
 <!-- end list -->
 
-  - ライブハウスの店長 - [後藤ひろひと](https://ja.wikipedia.org/wiki/後藤ひろひと "wikilink")
+  - ライブハウスの店長 - [後藤ひろひと](../Page/後藤ひろひと.md "wikilink")
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 
 <!-- end list -->
 
-  - 井尻ディレクター - [森下能幸](https://ja.wikipedia.org/wiki/森下能幸 "wikilink")
+  - 井尻ディレクター - [森下能幸](../Page/森下能幸.md "wikilink")
 
 <!-- end list -->
 
@@ -145,7 +145,7 @@
 
 <!-- end list -->
 
-  - 広域728号 - [岩尾望](https://ja.wikipedia.org/wiki/岩尾望 "wikilink")（[フットボールアワー](../Page/フットボールアワー.md "wikilink")）
+  - 広域728号 - [岩尾望](../Page/岩尾望.md "wikilink")（[フットボールアワー](../Page/フットボールアワー.md "wikilink")）
 
 <!-- end list -->
 
@@ -154,7 +154,7 @@
 
 <!-- end list -->
 
-  - 鑑識 - [後藤輝基](https://ja.wikipedia.org/wiki/後藤輝基 "wikilink")（フットボールアワー）
+  - 鑑識 - [後藤輝基](../Page/後藤輝基.md "wikilink")（フットボールアワー）
 
 <!-- end list -->
 
@@ -172,8 +172,8 @@
 
 <!-- end list -->
 
-  - よね子 - [国崎恵美](https://ja.wikipedia.org/wiki/国崎恵美 "wikilink")
-  - みね子 - [隅田美保](https://ja.wikipedia.org/wiki/隅田美保 "wikilink")（[アジアン](https://ja.wikipedia.org/wiki/アジアン "wikilink")）
+  - よね子 - [国崎恵美](../Page/国崎恵美.md "wikilink")
+  - みね子 - [隅田美保](https://ja.wikipedia.org/wiki/隅田美保 "wikilink")（[アジアン](../Page/アジアン.md "wikilink")）
   - さね子 - [馬場園梓](https://ja.wikipedia.org/wiki/馬場園梓 "wikilink")（アジアン）
 
 <!-- end list -->
@@ -210,7 +210,7 @@
 
 ## スタッフ
 
-  - 監督:[前田哲](https://ja.wikipedia.org/wiki/前田哲 "wikilink")
+  - 監督:[前田哲](../Page/前田哲.md "wikilink")
   - 助監督:[李相國](https://ja.wikipedia.org/wiki/李相國 "wikilink")
   - 脚本:[長谷川隆](https://ja.wikipedia.org/wiki/長谷川隆 "wikilink")
   - 音楽:[松下誠](../Page/松下誠.md "wikilink")
@@ -229,7 +229,7 @@
   - 玉手ゴロー（チュートリアル徳井）が、ガキンチョ★ROCKのMDを持って逃げる時に向いの家の[ベランダ](../Page/ベランダ.md "wikilink")で、筋肉モリモリの人が運動してるシーンがあるが、その役は最初[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")がやる予定だった（DVDのロザンの副音声より）。
   - コウメイ役の西野は、撮影期間中に髪を切ってしまった。シーンにはところどころ、髪が短いところがある（普段はキャップをかぶっているのでわからない）。
   - [マンスリーよしもと](../Page/マンスリーよしもと.md "wikilink")2003年11月号で表紙をかざっている。
-  - この映画の各シーンの前説に[NON STYLEが使われていた](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")（理由は、ロザン、キングコングの事をよく知っているから\[1\]）。
+  - この映画の各シーンの前説に[NON STYLEが使われていた](../Page/NON_STYLE.md "wikilink")（理由は、ロザン、キングコングの事をよく知っているから\[1\]）。
   - NON STYLE石田曰く、この映画でガキンチョ★ROCKが道路を走るシーンにNON STYLE石田が自転車に乗っている所が半分映ったらしい\[2\]。
   - キッチンゴリラの(当時の)ドラム・u-coが西野の実の従姉だということをメイキングDVDで話している。
   - 特典映像の中で「2（ツー）でまたお会いしましょう」とメンバーが言っているが2は作られていない。

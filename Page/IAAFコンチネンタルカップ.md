@@ -7,7 +7,7 @@
 
 大会は当初、夏季オリンピックの翌年に行われていたが、[世界陸上競技選手権大会](../Page/世界陸上競技選手権大会.md "wikilink")の誕生後は大会中間年に行われ、[1994年](../Page/1994年.md "wikilink")以降は夏季五輪の中間年に行われている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の大会までは「**IAAF陸上ワールドカップ**」という名称だった。各大陸の陸上競技連盟（アジア・欧州・アフリカ・オセアニア・アメリカス）とアメリカ陸上競技連盟、開催国、前年[欧州チーム選手権](https://ja.wikipedia.org/wiki/欧州チーム選手権 "wikilink")の優勝国が参加し、競技は男女別に行われていた。
+[2006年](../Page/2006年.md "wikilink")の大会までは「**IAAF陸上ワールドカップ**」という名称だった。各大陸の陸上競技連盟（アジア・欧州・アフリカ・オセアニア・アメリカス）とアメリカ陸上競技連盟、開催国、前年[欧州チーム選手権](https://ja.wikipedia.org/wiki/欧州チーム選手権 "wikilink")の優勝国が参加し、競技は男女別に行われていた。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の大会から4大陸（アメリカ・ヨーロッパ・アフリカ・アジア/太平洋）の対抗戦となり、男女の合計ポイントで争う形式に変更された。各種目1位8点～8位1点（リレーは1位15点・2位11点・3位7点・4位3点）が加算される。
 
@@ -71,7 +71,7 @@
 <td><p>6</p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハバナ" title="wikilink">ハバナ</a></p></td>
+<td><p><a href="../Page/ハバナ.md" title="wikilink">ハバナ</a></p></td>
 <td><p><a href="../Page/アフリカ.md" title="wikilink">アフリカ</a></p></td>
 <td><p><a href="../Page/独立国家共同体.md" title="wikilink">CIS</a></p></td>
 </tr>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><a href="../Page/アテネ.md" title="wikilink">アテネ</a></p></td>
 <td><p>ヨーロッパ</p></td>
@@ -130,7 +130,7 @@
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スプリト" title="wikilink">スプリト</a></p></td>
+<td><p><a href="../Page/スプリト.md" title="wikilink">スプリト</a></p></td>
 <td><p>アメリカ</p></td>
 <td><p>ヨーロッパ</p></td>
 <td><p>アフリカ</p></td>
@@ -140,7 +140,7 @@
 <td><p>2</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マラケシュ" title="wikilink">マラケシュ</a></p></td>
+<td><p><a href="../Page/マラケシュ.md" title="wikilink">マラケシュ</a></p></td>
 <td><p>ヨーロッパ</p></td>
 <td><p>アメリカ</p></td>
 <td><p>アフリカ</p></td>
@@ -197,7 +197,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/400メートル競走" title="wikilink">400 m</a></p></td>
 <td><p>44.22</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェレミー・ウォリナー" title="wikilink">ジェレミー・ウォリナー</a></p></td>
+<td><p><a href="../Page/ジェレミー・ウォリナー.md" title="wikilink">ジェレミー・ウォリナー</a></p></td>
 <td></td>
 <td><p>4 September 2010</p></td>
 <td><p>2010 Split</p></td>
@@ -323,7 +323,7 @@
 <tr class="odd">
 <td><p><a href="../Page/砲丸投.md" title="wikilink">砲丸投</a></p></td>
 <td><p>22.00 m</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウルフ・ティンマーマン" title="wikilink">ウルフ・ティンマーマン</a></p></td>
+<td><p><a href="../Page/ウルフ・ティンマーマン.md" title="wikilink">ウルフ・ティンマーマン</a></p></td>
 <td></td>
 <td><p>5 October 1985</p></td>
 <td><p>1985 Canberra</p></td>
@@ -350,7 +350,7 @@
 <tr class="even">
 <td><p><a href="../Page/やり投.md" title="wikilink">やり投</a></p></td>
 <td><p>89.26 m</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンドレアス・トルキルドセン" title="wikilink">アンドレアス・トルキルドセン</a></p></td>
+<td><p><a href="../Page/アンドレアス・トルキルドセン.md" title="wikilink">アンドレアス・トルキルドセン</a></p></td>
 <td></td>
 <td><p>5 September 2010</p></td>
 <td><p>2010 Split</p></td>
@@ -361,7 +361,7 @@
 <td><p>37.59</p></td>
 <td><p><br />
 <a href="../Page/ウォーレス・スピアモン.md" title="wikilink">ウォーレス・スピアモン</a><br />
-<a href="https://ja.wikipedia.org/wiki/タイソン・ゲイ" title="wikilink">タイソン・ゲイ</a><br />
+<a href="../Page/タイソン・ゲイ.md" title="wikilink">タイソン・ゲイ</a><br />
 </p></td>
 <td></td>
 <td><p>16 September 2006</p></td>
@@ -401,7 +401,7 @@
 <tr class="odd">
 <td><p><a href="../Page/100メートル競走.md" title="wikilink">100 m</a></p></td>
 <td><p>10.65 (+1.1 m/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオン・ジョーンズ" title="wikilink">マリオン・ジョーンズ</a></p></td>
+<td><p><a href="../Page/マリオン・ジョーンズ.md" title="wikilink">マリオン・ジョーンズ</a></p></td>
 <td></td>
 <td><p>12 September 1998</p></td>
 <td><p>1998 Johannesburg</p></td>
@@ -410,7 +410,7 @@
 <tr class="even">
 <td><p><a href="../Page/200メートル競走.md" title="wikilink">200 m</a></p></td>
 <td><p>21.62 (-0.6 m/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオン・ジョーンズ" title="wikilink">マリオン・ジョーンズ</a></p></td>
+<td><p><a href="../Page/マリオン・ジョーンズ.md" title="wikilink">マリオン・ジョーンズ</a></p></td>
 <td></td>
 <td><p>11 September 1998</p></td>
 <td></td>
@@ -455,7 +455,7 @@
 <tr class="odd">
 <td><p><a href="../Page/5000メートル競走.md" title="wikilink">5000 m</a></p></td>
 <td><p>14:39.11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メセレト・デファー" title="wikilink">メセレト・デファー</a></p></td>
+<td><p><a href="../Page/メセレト・デファー.md" title="wikilink">メセレト・デファー</a></p></td>
 <td></td>
 <td><p>17 September 2006</p></td>
 <td><p>2006 Athens</p></td>
@@ -536,7 +536,7 @@
 <tr class="even">
 <td><p><a href="../Page/走幅跳.md" title="wikilink">走幅跳</a></p></td>
 <td><p>7.27 m (+0.7 m/s)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイケ・ドレクスラー" title="wikilink">ハイケ・ドレクスラー</a></p></td>
+<td><p><a href="../Page/ハイケ・ドレクスラー.md" title="wikilink">ハイケ・ドレクスラー</a></p></td>
 <td></td>
 <td><p>6 October 1985</p></td>
 <td><p>1985 Canberra</p></td>
@@ -593,7 +593,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジルケ・グラディッシュ＝メラー" title="wikilink">ジルケ・グラディッシュ＝メラー</a><br />
 <br />
 <a href="../Page/イングリット・アウアースバルト.md" title="wikilink">イングリット・アウアースバルト</a><br />
-<a href="https://ja.wikipedia.org/wiki/マルリース・ゲール" title="wikilink">マルリース・ゲール</a></p></td>
+<a href="../Page/マルリース・ゲール.md" title="wikilink">マルリース・ゲール</a></p></td>
 <td></td>
 <td><p>6 October 1985</p></td>
 <td><p>1985 Canberra</p></td>

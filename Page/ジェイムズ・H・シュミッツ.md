@@ -183,7 +183,7 @@
 
   - 『[悪鬼の種族](https://ja.wikipedia.org/wiki/:en:The_Demon_Breed "wikilink")』　冬川亘訳　[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")SF、1980年（絶版）
   - 『ライオンルース』　鎌田三平・田中克己・米村秀雄・[大野万紀](https://ja.wikipedia.org/wiki/大野万紀 "wikilink")訳、[青心社](https://ja.wikipedia.org/wiki/青心社 "wikilink")、1986年、短編集（絶版）
-  - 『[惑星カレスの魔女](https://ja.wikipedia.org/wiki/:en:The_Witches_of_Karres "wikilink")』　鎌田三平訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1987年、 [創元SF文庫](../Page/創元SF文庫.md "wikilink")　1996年、カバーイラスト[宮崎駿](https://ja.wikipedia.org/wiki/宮崎駿 "wikilink")
+  - 『[惑星カレスの魔女](https://ja.wikipedia.org/wiki/:en:The_Witches_of_Karres "wikilink")』　鎌田三平訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1987年、 [創元SF文庫](../Page/創元SF文庫.md "wikilink")　1996年、カバーイラスト[宮崎駿](../Page/宮崎駿.md "wikilink")
   - 『[テルジーの冒険](https://ja.wikipedia.org/wiki/:en:Telzey_Amberdon "wikilink")』　鎌田三平訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1988年、元版は青心社、1984年　続編（絶版）
 
 ## 外部リンク

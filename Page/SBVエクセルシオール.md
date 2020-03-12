@@ -1,7 +1,7 @@
 > この記事は[SBV](https://ja.wikipedia.org/wiki/SBV)から翻訳されています。
 
 
-**SBVエクセルシオール** () 、通称**エクセルシオール** (Excelsior) は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南西部、[南ホラント州](https://ja.wikipedia.org/wiki/南ホラント州 "wikilink")の都市[ロッテルダム](../Page/ロッテルダム.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")（2部相当）に所属している。
+**SBVエクセルシオール** () 、通称**エクセルシオール** (Excelsior) は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南西部、[南ホラント州](../Page/南ホラント州.md "wikilink")の都市[ロッテルダム](../Page/ロッテルダム.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")（2部相当）に所属している。
 
 ## 概要
 
@@ -148,7 +148,7 @@ PlotData=
 
   - John Lammers 2011-2013
 
-  - [ヨン・ダール・トマソン](https://ja.wikipedia.org/wiki/ヨン・ダール・トマソン "wikilink") 2013
+  - [ヨン・ダール・トマソン](../Page/ヨン・ダール・トマソン.md "wikilink") 2013
 
 ## 歴代所属選手
 
@@ -162,7 +162,7 @@ PlotData=
 
 ### MF
 
-  - [ア・デモス](https://ja.wikipedia.org/wiki/ア・デモス "wikilink") 1970-1973
+  - [ア・デモス](../Page/ア・デモス.md "wikilink") 1970-1973
 
   - [ウィンストン・ボハルデ](../Page/ウィンストン・ボハルデ.md "wikilink") 1989-1990
 
@@ -180,13 +180,13 @@ PlotData=
 
   - [ヨルン・ブーレ](../Page/ヨルン・ブーレ.md "wikilink") 1985-1987
 
-  - [小倉隆史](https://ja.wikipedia.org/wiki/小倉隆史 "wikilink") 1993-1994 ([名古屋から](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")「留学」という名目で派遣。現在の[レンタル移籍とほぼ同等](../Page/期限付き移籍.md "wikilink"))
+  - [小倉隆史](../Page/小倉隆史.md "wikilink") 1993-1994 ([名古屋から](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")「留学」という名目で派遣。現在の[レンタル移籍とほぼ同等](../Page/期限付き移籍.md "wikilink"))
 
-  - [デヴィッド・コノリー](https://ja.wikipedia.org/wiki/デヴィッド・コノリー "wikilink") 1999-2000
+  - [デヴィッド・コノリー](../Page/デヴィッド・コノリー.md "wikilink") 1999-2000
 
   - [ムニル・エル・ハムダウィ](https://ja.wikipedia.org/wiki/ムニル・エル・ハムダウィ "wikilink") 2001-2004
 
-  - [サロモン・カルー](https://ja.wikipedia.org/wiki/サロモン・カルー "wikilink") 2003
+  - [サロモン・カルー](../Page/サロモン・カルー.md "wikilink") 2003
 
   - [アンドウェレ・スロリー](https://ja.wikipedia.org/wiki/アンドウェレ・スロリー "wikilink") 2005-2007
 

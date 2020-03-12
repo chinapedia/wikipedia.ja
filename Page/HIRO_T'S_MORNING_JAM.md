@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1989年](../Page/1989年.md "wikilink")[6月](../Page/6月.md "wikilink")の開局から平日の午前中に長らく放送していた『[AMUSIC MORNING](../Page/AMUSIC_MORNING.md "wikilink")』（月 - 木曜日6:00 - 10:00、DJ・[ジーン長尾](https://ja.wikipedia.org/wiki/ジーン長尾 "wikilink")）と『[FRIDAY AMUSIC ISLANDS](https://ja.wikipedia.org/wiki/FRIDAY_AMUSIC_ISLANDS "wikilink")』（金曜6:00 - 19:00、DJ・寺平）が[1999年](../Page/1999年.md "wikilink")9月で終了し、その後継番組として『FRIDAY AMUSIC ISLANDS』のDJであった寺平が登板して始まった。
+[1989年](../Page/1989年.md "wikilink")[6月](../Page/6月.md "wikilink")の開局から平日の午前中に長らく放送していた『[AMUSIC MORNING](../Page/AMUSIC_MORNING.md "wikilink")』（月 - 木曜日6:00 - 10:00、DJ・[ジーン長尾](https://ja.wikipedia.org/wiki/ジーン長尾 "wikilink")）と『[FRIDAY AMUSIC ISLANDS](../Page/FRIDAY_AMUSIC_ISLANDS.md "wikilink")』（金曜6:00 - 19:00、DJ・寺平）が[1999年](../Page/1999年.md "wikilink")9月で終了し、その後継番組として『FRIDAY AMUSIC ISLANDS』のDJであった寺平が登板して始まった。
 
 前番組同様、DJの寺平はディレクターを兼ね、スタジオではなくサブフロアから出演。出演・構成・選曲を1人でこなす**アメリカンスタイル**で生放送を実施した。
 
@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p>6:20 - 6:25</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サラヤ" title="wikilink">サラヤ</a> <a href="https://ja.wikipedia.org/wiki/#FEEL_WATER_みず曜日" title="wikilink">FEEL WATER みず曜日</a>（1）</p></td>
+<td><p><a href="../Page/サラヤ.md" title="wikilink">サラヤ</a> <a href="https://ja.wikipedia.org/wiki/#FEEL_WATER_みず曜日" title="wikilink">FEEL WATER みず曜日</a>（1）</p></td>
 </tr>
 <tr class="even">
 <td><p>6:35</p></td>
@@ -114,7 +114,7 @@
 <tr class="odd">
 <td><p>7:20 -</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンスター" title="wikilink">SUNSTAR</a> <a href="https://ja.wikipedia.org/wiki/#WEEKEND_FUN" title="wikilink">WEEKEND FUN</a></p></td>
+<td><p><a href="../Page/サンスター.md" title="wikilink">SUNSTAR</a> <a href="https://ja.wikipedia.org/wiki/#WEEKEND_FUN" title="wikilink">WEEKEND FUN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7:30 - 7:35</p></td>
@@ -244,7 +244,7 @@
 ### 通し企画
 
   - チョラッキーくん
-    平日午前8時の時報はない。2003年に寺平が[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")ファンになり、8時2分(0**8**:**02**)に虎の雄叫び（チョラッキーくん）を流して、阪神の話題を取り上げるようになった。8時2分00秒に合わせるため、[ニュース・ウェザー担当のアナウンサーの声にかぶせながら](https://ja.wikipedia.org/wiki/FM802_INFORMATION#担当者 "wikilink")802ジングルが流れることもある。しかし、2010年夏頃からWeather Informationにスポンサー(CM)が付いているため、かぶせジングルを聴くことはできない\[3\]。
+    平日午前8時の時報はない。2003年に寺平が[阪神タイガース](../Page/阪神タイガース.md "wikilink")ファンになり、8時2分(0**8**:**02**)に虎の雄叫び（チョラッキーくん）を流して、阪神の話題を取り上げるようになった。8時2分00秒に合わせるため、[ニュース・ウェザー担当のアナウンサーの声にかぶせながら](https://ja.wikipedia.org/wiki/FM802_INFORMATION#担当者 "wikilink")802ジングルが流れることもある。しかし、2010年夏頃からWeather Informationにスポンサー(CM)が付いているため、かぶせジングルを聴くことはできない\[3\]。
   - <span id="お誕生日のコーナー">お誕生日のコーナー</span>
     誕生日を迎えたアーティストを紹介し、ゆかりの1曲を放送（該当するアーティストがいない場合や「GOLD」で放送する場合、リクエストが採用される）。そのあと、「今日お誕生日を迎えたみんなに大声で行きましょう、HAPPY BIRTHDAY TO YOU\!\!（2006年5月頃までは「TO YOU ALL\!\!」）というコールの後、過去のゲストなどによるおめでとうメッセージを放送する。2010年9月まで当日誕生日を迎えた人のホロスコープ（占い）が紹介されていた。締めくくりのジングルは、FRIDAY AMUSIC ISLANDS12時台コーナー『[NIPPONHAM](../Page/日本ハム.md "wikilink") POWER BEAT LUNCH』の最後に流れていたものを使用していた。
     AMUSIC MORNING時代の同時間帯では、ジーン長尾がバースデーリスナーの名前を1人ずつ言っていた。MORNING JAM開始当時もそのスタイルを引き継いだが、「[ゆずのものまねでお願いします](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")」「[新庄選手でお願いします](https://ja.wikipedia.org/wiki/新庄剛志 "wikilink")」「[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")でお願いします」などリスナーのものまね要求が日増しにエスカレートしたため、2002年3月をもってこのスタイルは終了。
@@ -266,7 +266,7 @@
   - <span id="大人ゾーン">大人ゾーン</span>
     2008年10月の改編で月-木が1時間拡大されたことで、この時間帯（10時台）の選曲は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")をメインにほぼノンストップでオンエアしている。また、随時ゲストコーナーにもあてている。
   - <span id="Lipo-D Sound Factory">Lipo-D Sound Factory</span>
-    [大正製薬](https://ja.wikipedia.org/wiki/大正製薬 "wikilink")提供のコーナー　ワンポイント英会話のミニコーナーもあった。
+    [大正製薬](../Page/大正製薬.md "wikilink")提供のコーナー　ワンポイント英会話のミニコーナーもあった。
   - <span id="TOYOTA MUSIC JOURNEY">TOYOTA MUSIC JOURNEY</span>
     [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")提供のコーナー　毎週テーマに沿ったリクエストとメッセージを紹介するコーナー。毎週木曜日に大賞を1名決定し、受賞者には、ヒロ寺平の声が入った目覚まし時計がプレゼントされる。大賞発表後に、ヒロ本人が目覚まし時計にメッセージを吹き込んでいた。
 
@@ -281,12 +281,12 @@
   - <span id="WEEKEND FUN">WEEKEND FUN</span>
     週末のイベント、お出かけ情報を中心に放送。
   - <span id="CROSSPOINT OSAKA">CROSSPOINT OSAKA</span>
-    週末に開催されるコンサート、チケット発売情報を中心に放送。定期的に[神戸メリケンパークオリエンタルホテル](https://ja.wikipedia.org/wiki/神戸メリケンパークオリエンタルホテル "wikilink")がスポンサーとなる。
+    週末に開催されるコンサート、チケット発売情報を中心に放送。定期的に[神戸メリケンパークオリエンタルホテル](../Page/神戸メリケンパークオリエンタルホテル.md "wikilink")がスポンサーとなる。
   - <span id="T's OnePoint English">T's OnePoint English</span>
     ワンポイント・イングリッシュ（英会話）コーナー。なお、ベルリッツ提供の同様のコーナーを放送していた過去を持つ。2006年10月からGOLDのコーナーとあわせて放送。開始当初は毎日放送されていたが、2008年10月からは金曜日のみに縮小。
   - <span id="YESTER...MEMORIES">YESTER...MEMORIES</span>
     あるアーティストを特集し、寺平がセレクトした曲をノンストップでオンエア。コーナーエンドではそのアーティストのアルバムが抽選で当たるプレゼントの告知あり。
-    [2009年](../Page/2009年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")の放送では、[RIP SLYMEを特集する予定だったが](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")、当日に[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")が急死したことにより急遽マイケル･ジャクソン特集に変わった。
+    [2009年](../Page/2009年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")の放送では、[RIP SLYMEを特集する予定だったが](../Page/RIP_SLYME.md "wikilink")、当日に[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")が急死したことにより急遽マイケル･ジャクソン特集に変わった。
 
 ## 過去のコーナー
 
@@ -303,7 +303,7 @@
 ## ゲスト
 
   - アーティストを中心に、多種多様な著名人が出演している。9時台後半、もしくは水・木曜日の10時台後半に出演することが多かった。ゲストによる生演奏もある。[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、[森山直太朗](../Page/森山直太朗.md "wikilink")など、エンディングまで出演する人や、月詣りと称し定期的に登場する人もいた。
-      - [押尾コータロー](../Page/押尾コータロー.md "wikilink")は、メジャーデビュー直後に当番組で寺平がオリジナル曲を積極的に放送したことが縁で、アルバム発売など記念の日に出演。[mawariは](../Page/竹仲絵里.md "wikilink")、毎月特定の日を『mawariの日』として登場していた。[A-Show](https://ja.wikipedia.org/wiki/A-Show "wikilink")は1年間毎週1回スタジオライブのためだけに出演。『FRIDAY-』を放送していた時期には、[ゆずや](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")[Fried Prideが全曜日に登場していた](https://ja.wikipedia.org/wiki/Fried_Pride "wikilink")。
+      - [押尾コータロー](../Page/押尾コータロー.md "wikilink")は、メジャーデビュー直後に当番組で寺平がオリジナル曲を積極的に放送したことが縁で、アルバム発売など記念の日に出演。[mawariは](../Page/竹仲絵里.md "wikilink")、毎月特定の日を『mawariの日』として登場していた。[A-Show](https://ja.wikipedia.org/wiki/A-Show "wikilink")は1年間毎週1回スタジオライブのためだけに出演。『FRIDAY-』を放送していた時期には、[ゆずや](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")[Fried Prideが全曜日に登場していた](../Page/Fried_Pride.md "wikilink")。
       - 森山は、「直太朗」の名義で活動した時期に、月に1回のペースで18ヶ月続けて登場していた。現在では、[わたなべゆう](https://ja.wikipedia.org/wiki/わたなべゆう "wikilink")が、同様のパターンで毎月出演している。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")には、当時『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』の月・火曜総合司会を務めていた[角淳一](../Page/角淳一.md "wikilink")が、ゲストとしてFM802の番組へ初めて出演した。「[すごくおいしいうた](https://ja.wikipedia.org/wiki/すごくおいしいうた "wikilink")」（『ぷいぷい』初プロデュースのCDアルバム）のPRを兼ねた出演で、当日の『ぷいぷい』でも802のスタジオ風景が放送された。
 
@@ -311,7 +311,7 @@
 
   - 時々スタジオを飛び出して、外から生放送を行うことがある。過去に行った場所は以下の通り。
       - [スキージャム勝山](../Page/スキージャム勝山.md "wikilink") - 毎年1月10日前後の金曜日に行っていた。
-      - [京阪](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")[京橋駅](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink") - ゲストに森山直太朗が出演。
+      - [京阪](../Page/京阪電気鉄道.md "wikilink")[京橋駅](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink") - ゲストに森山直太朗が出演。
       - JR[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")
       - [須磨海水浴場](../Page/須磨海水浴場.md "wikilink")
       - [東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")

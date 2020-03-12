@@ -6,10 +6,10 @@
 ## 来歴
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、生まれる。
-  - [東京](../Page/東京.md "wikilink")・[川崎](https://ja.wikipedia.org/wiki/川崎 "wikilink")で育ち、高校時代、友人の影響でラップを始める。学校で隣のクラスだったYOSHI（後のラッパー・[般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")）と親交を深め、そして高校在学時の1996年に[DJ BAKU](https://ja.wikipedia.org/wiki/DJ_BAKU "wikilink")、YOSHIと共にヒップホップユニット「般若」を結成する。般若結成2年後、家庭の事情などにより脱退。ラップを辞め、バンドを組み活動していた。
+  - [東京](../Page/東京.md "wikilink")・[川崎](https://ja.wikipedia.org/wiki/川崎 "wikilink")で育ち、高校時代、友人の影響でラップを始める。学校で隣のクラスだったYOSHI（後のラッパー・[般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")）と親交を深め、そして高校在学時の1996年に[DJ BAKU](../Page/DJ_BAKU.md "wikilink")、YOSHIと共にヒップホップユニット「般若」を結成する。般若結成2年後、家庭の事情などにより脱退。ラップを辞め、バンドを組み活動していた。
   - 『Hell Me Tight』に参加していたトラックメイカーのasaの誘いでラップ活動を再開。その頃評価を上げ始めていた[MSC](../Page/MSC_\(音楽グループ\).md "wikilink")、[降神](https://ja.wikipedia.org/wiki/降神 "wikilink")に共振し、新たなスタイルを完成させる。現在でもMSCとの結びつきは強い。
   - [2004年](../Page/2004年.md "wikilink")、自身のレーベル「Sanagi Recordings」を立ち上げ、アルバム『HELL ME TIGHT』をリリース、ソロデビュー。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、シングル『極楽都市/好物』を発売。
+  - [2005年](../Page/2005年.md "wikilink")、シングル『極楽都市/好物』を発売。
   - [2007年](../Page/2007年.md "wikilink")、2ndアルバム『HELL ME WHY??』を発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、DJ BAKUと結婚。同年11月9日に結婚式を上げた。
   - [2009年](../Page/2009年.md "wikilink")、3rdアルバム『HELL ME NATION』を発売。
@@ -96,7 +96,7 @@
 
   - V.A「HOME BREWERS vol.2」（2003年12月25日）
       - 巨大なわな
-  - [DJ BAKU](https://ja.wikipedia.org/wiki/DJ_BAKU "wikilink") feat.PRIMAL・RUMI「畜殺」
+  - [DJ BAKU](../Page/DJ_BAKU.md "wikilink") feat.PRIMAL・RUMI「畜殺」
   - KAN（[MSC](../Page/MSC_\(音楽グループ\).md "wikilink")）「導～みちしるべ～」（2005年1月26日）
       - 破壊と再生
   - DJ[刃頭](../Page/刃頭.md "wikilink")MIX CD（2005年8月5日）

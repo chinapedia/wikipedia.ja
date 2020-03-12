@@ -1,13 +1,13 @@
 > この記事は[PURE](https://ja.wikipedia.org/wiki/PURE)から翻訳されています。
 
 
-『**PUREまりおねーしょん**』（ピュアまりおねーしょん）は、[髙木信孝](https://ja.wikipedia.org/wiki/髙木信孝 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")刊行『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』にて、[2003年](../Page/2003年.md "wikilink")1月号から[2004年](../Page/2004年.md "wikilink")7月号まで連載された。単行本は全2巻。
+『**PUREまりおねーしょん**』（ピュアまりおねーしょん）は、[髙木信孝](https://ja.wikipedia.org/wiki/髙木信孝 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[メディアワークス](../Page/メディアワークス.md "wikilink")刊行『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』にて、[2003年](../Page/2003年.md "wikilink")1月号から[2004年](../Page/2004年.md "wikilink")7月号まで連載された。単行本は全2巻。
 
 ## 作品概要
 
 マリオネットと呼ばれる[アンドロイド](https://ja.wikipedia.org/wiki/アンドロイド "wikilink")の主人公・あのんの、クラスメイトの人間の女の子との心の触れ合いと友情、そして恋を描いた作品。
 
-単行本2巻では、『[ココロ図書館](https://ja.wikipedia.org/wiki/ココロ図書館 "wikilink")』主人公のこころが成長した姿でゲストキャラクターとして登場する。
+単行本2巻では、『[ココロ図書館](../Page/ココロ図書館.md "wikilink")』主人公のこころが成長した姿でゲストキャラクターとして登場する。
 
 ## 主な登場人物
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [ココロ図書館](https://ja.wikipedia.org/wiki/ココロ図書館 "wikilink")
+  - [ココロ図書館](../Page/ココロ図書館.md "wikilink")
 
 ## 外部リンク
 

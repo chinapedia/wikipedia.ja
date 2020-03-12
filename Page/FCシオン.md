@@ -1,11 +1,11 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**フットボール・クラブ・シオン** (**Football Club Sion**) は、[スイス](../Page/スイス.md "wikilink")南部、[ヴァレー州](https://ja.wikipedia.org/wiki/ヴァレー州 "wikilink")の州都[シオンを本拠地とする](https://ja.wikipedia.org/wiki/シオン_\(スイス\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**フットボール・クラブ・シオン** (**Football Club Sion**) は、[スイス](../Page/スイス.md "wikilink")南部、[ヴァレー州](../Page/ヴァレー州.md "wikilink")の州都[シオンを本拠地とする](https://ja.wikipedia.org/wiki/シオン_\(スイス\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 ## 歴史
 
-2008年には[アル・アハリ](../Page/アル・アハリ.md "wikilink")から[エッサム・アルハダリ](https://ja.wikipedia.org/wiki/エッサム・アルハダリ "wikilink")を獲得した際にトラブルを起こし、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")(FIFA)より2度の移籍市場における選手の獲得禁止を言い渡された\[1\]。しかし、禁止期間中の2011年夏、FCシオンは獲得禁止期間が既に終了していると解釈して6選手を獲得し、リーグ戦や[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")の試合で起用した。2011-12シーズンのUEFAヨーロッパリーグ本選出場プレーオフではスコットランドの[セルティックFC](https://ja.wikipedia.org/wiki/セルティックFC "wikilink")と対戦し、2試合合計3-1で勝利してグループリーグ進出を決めた\[2\]。グループリーグの組み合わせ抽選ではスペインの[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")、イタリアの[ウディネーゼ・カルチョ](https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ "wikilink")、フランスの[スタッド・レンヌ](https://ja.wikipedia.org/wiki/スタッド・レンヌ "wikilink")と同組となったが\[3\]、本選出場プレーオフで出場資格のない選手を起用していたことをセルティックFCに指摘され、9月2日、UEFA規律委員会によって2試合ともFCシオンの0-3の敗北となる決定を下された\[4\]\[5\]。FIFAはスイスサッカー連盟に対してFCシオンへの処分を行うよう通告し\[6\]、同年7月には処分への抗議の意味を込めてリーグ戦の1試合をボイコットする可能性もあった\[7\]。セルティックFCのグループリーグ参戦を認めたうえでFCシオンもグループリーグに復帰するという可能性も探られたが\[8\]\[9\]、12月15日にスポーツ仲裁裁判所(CAS)によって示された裁定によってFCシオンのグループリーグ復帰の可能性はなくなり\[10\]、2012年2月10日にはスイスのボー州民事裁判所でもUEFAの主張を認める裁定が下された\[11\]。2011年12月30日、出場資格を有さない選手を出場させた試合数（12試合）分に相当する勝ち点36がスイスサッカー協会によって剥奪され、一時的に勝ち点がマイナス5まで落ち込んだ\[12\]。なお、本来であれば、勝ち点53の3位でシーズンを終える予定であったが、勝ち点が剥奪された影響で、最終的に勝ち点が17に落ち込み、最下位\[13\]でシーズンを終えたため、昇格・降格プレーオフに回ることになった（最終的には残留）。
+2008年には[アル・アハリ](../Page/アル・アハリ.md "wikilink")から[エッサム・アルハダリ](https://ja.wikipedia.org/wiki/エッサム・アルハダリ "wikilink")を獲得した際にトラブルを起こし、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")(FIFA)より2度の移籍市場における選手の獲得禁止を言い渡された\[1\]。しかし、禁止期間中の2011年夏、FCシオンは獲得禁止期間が既に終了していると解釈して6選手を獲得し、リーグ戦や[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")の試合で起用した。2011-12シーズンのUEFAヨーロッパリーグ本選出場プレーオフではスコットランドの[セルティックFC](../Page/セルティックFC.md "wikilink")と対戦し、2試合合計3-1で勝利してグループリーグ進出を決めた\[2\]。グループリーグの組み合わせ抽選ではスペインの[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")、イタリアの[ウディネーゼ・カルチョ](../Page/ウディネーゼ・カルチョ.md "wikilink")、フランスの[スタッド・レンヌ](../Page/スタッド・レンヌ.md "wikilink")と同組となったが\[3\]、本選出場プレーオフで出場資格のない選手を起用していたことをセルティックFCに指摘され、9月2日、UEFA規律委員会によって2試合ともFCシオンの0-3の敗北となる決定を下された\[4\]\[5\]。FIFAはスイスサッカー連盟に対してFCシオンへの処分を行うよう通告し\[6\]、同年7月には処分への抗議の意味を込めてリーグ戦の1試合をボイコットする可能性もあった\[7\]。セルティックFCのグループリーグ参戦を認めたうえでFCシオンもグループリーグに復帰するという可能性も探られたが\[8\]\[9\]、12月15日にスポーツ仲裁裁判所(CAS)によって示された裁定によってFCシオンのグループリーグ復帰の可能性はなくなり\[10\]、2012年2月10日にはスイスのボー州民事裁判所でもUEFAの主張を認める裁定が下された\[11\]。2011年12月30日、出場資格を有さない選手を出場させた試合数（12試合）分に相当する勝ち点36がスイスサッカー協会によって剥奪され、一時的に勝ち点がマイナス5まで落ち込んだ\[12\]。なお、本来であれば、勝ち点53の3位でシーズンを終える予定であったが、勝ち点が剥奪された影響で、最終的に勝ち点が17に落ち込み、最下位\[13\]でシーズンを終えたため、昇格・降格プレーオフに回ることになった（最終的には残留）。
 
 ## タイトル
 
@@ -253,7 +253,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケムニッツFC" title="wikilink">ケムニッツ</a></p></td>
+<td><p><a href="../Page/ケムニッツFC.md" title="wikilink">ケムニッツ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''3–5</p></td>
@@ -294,7 +294,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–4</p></td>
 <td><p>'''2–6</p></td>
@@ -315,17 +315,17 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・マルセイユ" title="wikilink">マルセイユ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>1–3</p></td>
-<td><p>'''3–3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3–3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCナント" title="wikilink">ナント</a></p></td>
+<td><p><a href="../Page/FCナント.md" title="wikilink">ナント</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–4</p></td>
 <td><p>'''2–6</p></td>
@@ -425,7 +425,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイエル・レバークーゼン" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–3</p></td>
 <td><p>'''1–3</p></td>
@@ -457,7 +457,7 @@
 <td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2–4</p></td>
@@ -467,7 +467,7 @@
 <td><p>2011-12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>0–3</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–6</p></td>
@@ -494,7 +494,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">ジロンダン・ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">ジロンダン・ボルドー</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -558,7 +558,7 @@
 
   - [ビクトル・ムニョス](../Page/ビクトル・ムニョス.md "wikilink") 2012.12-2013.2
 
-  - [ジェンナーロ・ガットゥーゾ](https://ja.wikipedia.org/wiki/ジェンナーロ・ガットゥーゾ "wikilink")（選手兼任） 2013.2-2013.5
+  - [ジェンナーロ・ガットゥーゾ](../Page/ジェンナーロ・ガットゥーゾ.md "wikilink")（選手兼任） 2013.2-2013.5
 
   - [ミシェル・デカステル](https://ja.wikipedia.org/wiki/ミシェル・デカステル "wikilink") 2013.5-2013.10
 
@@ -592,7 +592,7 @@
 
   - [ゲオルゲ・オガラル](../Page/ゲオルゲ・オガラル.md "wikilink") 2010-2012
 
-  - [レト・ツィークラー](https://ja.wikipedia.org/wiki/レト・ツィークラー "wikilink") 2015-
+  - [レト・ツィークラー](../Page/レト・ツィークラー.md "wikilink") 2015-
 
 **[MF](../Page/ミッドフィールダー.md "wikilink")**
 
@@ -622,7 +622,7 @@
 
   - [パスカル・ファンドゥーノ](https://ja.wikipedia.org/wiki/パスカル・ファンドゥーノ "wikilink") 2011
 
-  - [ジェンナーロ・ガットゥーゾ](https://ja.wikipedia.org/wiki/ジェンナーロ・ガットゥーゾ "wikilink") 2012-2013
+  - [ジェンナーロ・ガットゥーゾ](../Page/ジェンナーロ・ガットゥーゾ.md "wikilink") 2012-2013
 
   - [ウサマ・ダラギ](https://ja.wikipedia.org/wiki/ウサマ・ダラギ "wikilink") 2012-2013
 
@@ -632,7 +632,7 @@
 
   - [エジミウソン・フェルナンデス](https://ja.wikipedia.org/wiki/エジミウソン・フェルナンデス "wikilink") 2013-2016
 
-**[FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")**
+**[FW](../Page/フォワード_\(サッカー\).md "wikilink")**
 
   - [トゥーリオ・マラヴィーリャ](https://ja.wikipedia.org/wiki/トゥーリオ・マラヴィーリャ "wikilink") 1992-1993
 
@@ -672,5 +672,5 @@
 10.
 11.
 12.
-13. FCシオンの最終順位は9位。厳密には[ヌーシャテル・ザマックス](https://ja.wikipedia.org/wiki/ヌーシャテル・ザマックス "wikilink")が財政保証の書類に虚偽の疑いがあったため、リーグ登録ライセンス剥奪のため、ヌーシャテル・ザマックスが強制的に最下位ならびに4部リーグ降格。
+13. FCシオンの最終順位は9位。厳密には[ヌーシャテル・ザマックス](../Page/ヌーシャテル・ザマックス.md "wikilink")が財政保証の書類に虚偽の疑いがあったため、リーグ登録ライセンス剥奪のため、ヌーシャテル・ザマックスが強制的に最下位ならびに4部リーグ降格。
 14. <http://www.fc-sion.ch/fr/Equipe/Joueurs/>

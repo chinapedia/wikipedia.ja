@@ -7,7 +7,7 @@
 
   - [吉本女子プロレスJd'](../Page/JDスター女子プロレス.md "wikilink")（1997年 - 2004年）
   - フリーランス（2004年 - 2005年）
-  - [JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")（2005年 - 2017年）
+  - [JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")（2005年 - 2017年）
   - [PURE-J](https://ja.wikipedia.org/wiki/PURE-J "wikilink")女子プロレス（2017年 - ）
 
 ## 経歴・戦歴
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - 3月4日、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")大会で[JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")へ入団。
+  - 3月4日、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")大会で[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")へ入団。
   - 12月28日、東京・[新木場1stRING](../Page/新木場1stRING.md "wikilink")「Tommy20周年記念イベント」において、[阿部幸江](../Page/阿部幸江.md "wikilink")とのタッグ「[WANTED\!?](https://ja.wikipedia.org/wiki/ザ☆WANTED!? "wikilink")」で、[ザ・ブラディー](../Page/ザ・ブラディー.md "wikilink")、[ファング鈴木](../Page/ファング鈴木.md "wikilink")組と対戦。WANTED\!?が勝利。
 
 <!-- end list -->
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 8月6日、東京・[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")「L-FIGHT4」において、[立野記代](../Page/立野記代.md "wikilink")と対戦。[デスバレーボム](../Page/デスバレーボム.md "wikilink")で敗れる。
+  - 8月6日、東京・[後楽園ホール](../Page/後楽園ホール.md "wikilink")「L-FIGHT4」において、[立野記代](../Page/立野記代.md "wikilink")と対戦。[デスバレーボム](../Page/デスバレーボム.md "wikilink")で敗れる。
 
 ## 人物
 

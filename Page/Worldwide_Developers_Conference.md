@@ -11,7 +11,7 @@
 
 参加には[Apple Developer Connectionのメンバー登録が必要](../Page/Apple_Developer_Connection.md "wikilink")（無料のApple Developerで良い）、また参加登録の際に[NDA](../Page/守秘義務.md "wikilink")（非開示契約）を結ぶ必要がある。初日午前中に行われる基調講演と[Apple Design Awardsの発表以外は全てNDAの元で非公開に行われていたが](https://ja.wikipedia.org/wiki/Apple_Design_Awards "wikilink")、2014年からは技術セッションの内容も即日一般公開されるようになった\[8\]。基調講演はアップルのCEOと幹部、及びゲスト出演者による。
 
-主に[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") ([macOS Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink")) および[iOSの](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発者向けのイベントで有料である（学生は無料）。参加者の多くは[プログラマ](../Page/プログラマ.md "wikilink")や[システムエンジニア](https://ja.wikipedia.org/wiki/システムエンジニア "wikilink")、[システムアドミニストレータ](https://ja.wikipedia.org/wiki/システムアドミニストレータ "wikilink")。
+主に[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") ([macOS Server](https://ja.wikipedia.org/wiki/macOS_Server "wikilink")) および[iOSの](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発者向けのイベントで有料である（学生は無料）。参加者の多くは[プログラマ](../Page/プログラマ.md "wikilink")や[システムエンジニア](../Page/システムエンジニア.md "wikilink")、[システムアドミニストレータ](../Page/システムアドミニストレータ.md "wikilink")。
 
 1997年までは、東京でJapan Developers Conferenceも開催されていた\[9\]\[10\]。
 

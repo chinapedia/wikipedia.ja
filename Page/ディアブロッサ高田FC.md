@@ -1,11 +1,11 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ディアブロッサ高田FC**（ディアブロッサたかだエフシー、）は、[奈良県](../Page/奈良県.md "wikilink")[大和高田市](https://ja.wikipedia.org/wiki/大和高田市 "wikilink")を本拠地とする社会人の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
+**ディアブロッサ高田FC**（ディアブロッサたかだエフシー、）は、[奈良県](../Page/奈良県.md "wikilink")[大和高田市](../Page/大和高田市.md "wikilink")を本拠地とする社会人の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
 
 ## 歴史
 
-[1975年](../Page/1975年.md "wikilink")に[武田正二郎](https://ja.wikipedia.org/wiki/武田正二郎 "wikilink")が中学時代の同級生などと共に**高田FC**を結成。[1996年](../Page/1996年.md "wikilink")に[関西サッカーリーグ](https://ja.wikipedia.org/wiki/関西サッカーリーグ "wikilink")に初めて昇格。[1999年](../Page/1999年.md "wikilink")に関西リーグに再昇格。[2003年](../Page/2003年.md "wikilink")、関西リーグで準優勝。[全国地域サッカーリーグ決勝大会に出場したが](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")1次リーグで敗退。
+[1975年](../Page/1975年.md "wikilink")に[武田正二郎](https://ja.wikipedia.org/wiki/武田正二郎 "wikilink")が中学時代の同級生などと共に**高田FC**を結成。[1996年](../Page/1996年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")に初めて昇格。[1999年](../Page/1999年.md "wikilink")に関西リーグに再昇格。[2003年](../Page/2003年.md "wikilink")、関西リーグで準優勝。[全国地域サッカーリーグ決勝大会に出場したが](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")1次リーグで敗退。
 
 [2007年](../Page/2007年.md "wikilink")、武田がGMに、コーチの[中塚康博](https://ja.wikipedia.org/wiki/中塚康博 "wikilink")が監督に就任。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、チーム名を**ディアブロッサ高田FC**に改称（「ディアブロッサ」は、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「悪魔」を意味する「diablo」と[イタリア語](../Page/イタリア語.md "wikilink")で「赤い」を意味する「rossa」を合わせた[造語](../Page/造語.md "wikilink")。また「ディア」という読みは[英語](../Page/英語.md "wikilink")で「[鹿](https://ja.wikipedia.org/wiki/鹿 "wikilink")」の意味）。武田が監督に就任。
 
@@ -50,13 +50,13 @@
 
   - 出場3回
 
-|                                                                    |                                                                                              |     |                                                                 |                                                                |                                         |       |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------- | ----- |
-| 回                                                                  | 年月日                                                                                          | 時期  | 会場                                                              | 得点                                                             | 対戦相手                                    | 観客    |
-| [82](../Page/第82回天皇杯全日本サッカー選手権大会.md "wikilink")                    | |[2002年](../Page/2002年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")                    | 1回戦 | [奈良橿原](../Page/奈良県立橿原公苑陸上競技場.md "wikilink")                     | 0-3                                                            | [横浜FC](../Page/横浜FC.md "wikilink") (J2) | 1,625 |
-| [85](../Page/第85回天皇杯全日本サッカー選手権大会.md "wikilink")                    | |[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月17日](../Page/9月17日.md "wikilink") | 1回戦 | 2-0                                                             | [高松FC](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink") (香川) | 566                                     |       |
-| 2005年[9月19日](../Page/9月19日.md "wikilink")                          | 2回戦                                                                                          | 1-6 | [福岡大学](https://ja.wikipedia.org/wiki/福岡大学サッカー部 "wikilink") (福岡) | 591                                                            |                                         |       |
-| [86](https://ja.wikipedia.org/wiki/第86回天皇杯全日本サッカー選手権大会 "wikilink") | |[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月17日                                | 1回戦 | 0-2                                                             | [アルテ高崎](https://ja.wikipedia.org/wiki/アルテ高崎 "wikilink") (群馬)   | 740                                     |       |
+|                                                 |                                                                           |     |                                                                 |                                             |                                         |       |
+| ----------------------------------------------- | ------------------------------------------------------------------------- | --- | --------------------------------------------------------------- | ------------------------------------------- | --------------------------------------- | ----- |
+| 回                                               | 年月日                                                                       | 時期  | 会場                                                              | 得点                                          | 対戦相手                                    | 観客    |
+| [82](../Page/第82回天皇杯全日本サッカー選手権大会.md "wikilink") | |[2002年](../Page/2002年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") | 1回戦 | [奈良橿原](../Page/奈良県立橿原公苑陸上競技場.md "wikilink")                     | 0-3                                         | [横浜FC](../Page/横浜FC.md "wikilink") (J2) | 1,625 |
+| [85](../Page/第85回天皇杯全日本サッカー選手権大会.md "wikilink") | |[2005年](../Page/2005年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") | 1回戦 | 2-0                                                             | [高松FC](../Page/カマタマーレ讃岐.md "wikilink") (香川) | 566                                     |       |
+| 2005年[9月19日](../Page/9月19日.md "wikilink")       | 2回戦                                                                       | 1-6 | [福岡大学](https://ja.wikipedia.org/wiki/福岡大学サッカー部 "wikilink") (福岡) | 591                                         |                                         |       |
+| [86](../Page/第86回天皇杯全日本サッカー選手権大会.md "wikilink") | |[2006年](../Page/2006年.md "wikilink")9月17日                                | 1回戦 | 0-2                                                             | [アルテ高崎](../Page/アルテ高崎.md "wikilink") (群馬)   | 740                                     |       |
 
 ## ユニフォーム
 
@@ -88,11 +88,11 @@
       - 2008年創設。高円宮杯U-18 NFAサッカーリーグ1部所属。
   - 【U-15】
       - 1992年創設。
-      - [高円宮杯](https://ja.wikipedia.org/wiki/高円宮杯_JFA_全日本U-15サッカー選手権大会 "wikilink")　6回出場（[1996](https://ja.wikipedia.org/wiki/高円宮杯第8回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[1999](https://ja.wikipedia.org/wiki/高円宮杯第11回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2001](https://ja.wikipedia.org/wiki/高円宮杯第13回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2003](https://ja.wikipedia.org/wiki/高円宮杯第15回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2004](https://ja.wikipedia.org/wiki/高円宮杯第16回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2005](https://ja.wikipedia.org/wiki/高円宮杯第17回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")）。1999年に準優勝（決勝で[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")ジュニアユースに1-3で敗戦）、1996年に3位（準決勝で[読売日本SCジュニアユースに](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")1-3で敗戦）。
-      - [日本クラブユースサッカー](https://ja.wikipedia.org/wiki/日本クラブユースサッカー選手権\(U-15\)大会 "wikilink")　9回出場（1994、2001、2002、2003、2006、2007、2016、2018、2019）
+      - [高円宮杯](../Page/高円宮杯_JFA_全日本U-15サッカー選手権大会.md "wikilink")　6回出場（[1996](https://ja.wikipedia.org/wiki/高円宮杯第8回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[1999](https://ja.wikipedia.org/wiki/高円宮杯第11回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2001](https://ja.wikipedia.org/wiki/高円宮杯第13回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2003](https://ja.wikipedia.org/wiki/高円宮杯第15回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2004](https://ja.wikipedia.org/wiki/高円宮杯第16回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")、[2005](https://ja.wikipedia.org/wiki/高円宮杯第17回全日本ユース\(U-15\)サッカー選手権大会 "wikilink")）。1999年に準優勝（決勝で[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")ジュニアユースに1-3で敗戦）、1996年に3位（準決勝で[読売日本SCジュニアユースに](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")1-3で敗戦）。
+      - [日本クラブユースサッカー](../Page/日本クラブユースサッカー選手権\(U-15\)大会.md "wikilink")　9回出場（1994、2001、2002、2003、2006、2007、2016、2018、2019）
   - 【U-12】
       - 1981年創設。
-      - [全日本U-12サッカー大会](https://ja.wikipedia.org/wiki/JFA_全日本U-12サッカー選手権大会 "wikilink")　11回出場（1989、1991、1995、1998、2000、2002、2004、2005、2007、2009、2010）。2010年は準優勝。
+      - [全日本U-12サッカー大会](../Page/JFA_全日本U-12サッカー選手権大会.md "wikilink")　11回出場（1989、1991、1995、1998、2000、2002、2004、2005、2007、2009、2010）。2010年は準優勝。
       - [全日本U-12フットサル大会](../Page/JFA_全日本U-12フットサル選手権大会.md "wikilink")　10回出場（1995、1996、1997、1998、2000、2002、2003、2004、2005、2009）。2004年は準優勝。
       - [8人制サッカー大会](https://ja.wikipedia.org/wiki/チビリンピック "wikilink")　4回出場（2005、2007、2008、2009）。2005年は優勝、2007年は3位。
   - 【女子】
@@ -102,8 +102,8 @@
 
 ## 歴代所属選手
 
-  - [池松秀明](https://ja.wikipedia.org/wiki/池松秀明 "wikilink")
-  - [中尾幸太郎](https://ja.wikipedia.org/wiki/中尾幸太郎 "wikilink")
+  - [池松秀明](../Page/池松秀明.md "wikilink")
+  - [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")
   - [中塚康博](https://ja.wikipedia.org/wiki/中塚康博 "wikilink")
   - [広野耕一](../Page/広野耕一.md "wikilink")
   - [深瀬庸介](https://ja.wikipedia.org/wiki/深瀬庸介 "wikilink")
@@ -113,12 +113,12 @@
 ## 下部組織出身者
 
   - [片山奨典](../Page/片山奨典.md "wikilink")
-  - [金正訓](https://ja.wikipedia.org/wiki/金正訓 "wikilink")
+  - [金正訓](../Page/金正訓.md "wikilink")
   - [阪本一仁](https://ja.wikipedia.org/wiki/阪本一仁 "wikilink")
   - [西原幹人](../Page/西原幹人.md "wikilink")
   - [馬場悠](https://ja.wikipedia.org/wiki/馬場悠 "wikilink")
   - [古田泰士](../Page/古田泰士.md "wikilink")
-  - [前田俊介](https://ja.wikipedia.org/wiki/前田俊介 "wikilink")
+  - [前田俊介](../Page/前田俊介.md "wikilink")
   - [森本勇一](https://ja.wikipedia.org/wiki/森本勇一 "wikilink")
   - [阿部浩之](https://ja.wikipedia.org/wiki/阿部浩之 "wikilink")
 

@@ -1,11 +1,11 @@
 > この記事は[Trap-TV](https://ja.wikipedia.org/wiki/Trap-TV)から翻訳されています。
 
 
-**Trap-TV**（とらっぷ・てれび）は、[1993年](../Page/1993年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から1993年[9月23日](../Page/9月23日.md "wikilink")まで[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")系で全23話が深夜に放送された[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[フジテレビ739で再放送されている](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")。
+**Trap-TV**（とらっぷ・てれび）は、[1993年](../Page/1993年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から1993年[9月23日](../Page/9月23日.md "wikilink")まで[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")系で全23話が深夜に放送された[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[フジテレビ739で再放送されている](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")。
 
 ## 概要
 
-毎回、[吹越満](https://ja.wikipedia.org/wiki/吹越満 "wikilink")と[吉田朝](https://ja.wikipedia.org/wiki/吉田朝 "wikilink")がオープンカフェのテラスに集まり、吹越が吉田にミステリーを語って聞かせ、吉田がその謎を推理するという進行になっている。謎といっても話の中の主人公達が犯罪を隠すために行うトリックを見破るのではなく、語っている吹越、つまり脚本家と監督が仕掛けているお話全体のトラップを見破る事が謎となっていた。
+毎回、[吹越満](../Page/吹越満.md "wikilink")と[吉田朝](https://ja.wikipedia.org/wiki/吉田朝 "wikilink")がオープンカフェのテラスに集まり、吹越が吉田にミステリーを語って聞かせ、吉田がその謎を推理するという進行になっている。謎といっても話の中の主人公達が犯罪を隠すために行うトリックを見破るのではなく、語っている吹越、つまり脚本家と監督が仕掛けているお話全体のトラップを見破る事が謎となっていた。
 
 演出方法としてミステリードラマ部分の殆どが写真で制作されており、それを利用したトラップも多数張り巡らされていた。また、映像・セリフだけでなく、効果音やBGM、さらにはサブタイトルやオープニング映像、エンディングにもトラップを解明するヒントが隠されていることもあった。
 
@@ -13,10 +13,10 @@
 
 ## スペシャルクイズ
 
-毎回動機や死因などひとつだけ真相が伏せられたポイントが残ったまま物語が終わる。それを解明するためには、使われている写真の中にあるパズル（[ニコリ](https://ja.wikipedia.org/wiki/ニコリ "wikilink")提供）を解かなければならなかった。これらはプレゼントクイズとして出題され、正解者の中から抽選でオリジナルメンバーズカードが贈られていた。解答するのは
+毎回動機や死因などひとつだけ真相が伏せられたポイントが残ったまま物語が終わる。それを解明するためには、使われている写真の中にあるパズル（[ニコリ](../Page/ニコリ.md "wikilink")提供）を解かなければならなかった。これらはプレゼントクイズとして出題され、正解者の中から抽選でオリジナルメンバーズカードが贈られていた。解答するのは
 
 1.  下記の「物語の中から『蝶』を探す初級問題」。
-2.  [魔方陣](../Page/魔方陣.md "wikilink")、[スケルトンなどの定型パズルを解く中級問題](https://ja.wikipedia.org/wiki/スケルトン_\(パズル\) "wikilink")。
+2.  [魔方陣](../Page/魔方陣.md "wikilink")、[スケルトンなどの定型パズルを解く中級問題](../Page/スケルトン_\(パズル\).md "wikilink")。
 3.  番組内に隠されたパズルらしき物を解読するメインパズル。
 4.  以上の解答から導き出される、物語に隠された真実。
 
@@ -76,7 +76,7 @@
 <td><p>殺意の日記<br />
 <small>～Diary of Murderous Intent～</small></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/川原和久" title="wikilink">川原和久</a></li>
+<li><a href="../Page/川原和久.md" title="wikilink">川原和久</a></li>
 <li>渡辺航</li>
 <li>雅子</li>
 </ul></td>
@@ -203,7 +203,7 @@
 <td><p>容疑者<br />
 <small>～Suspicion～</small></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/大河内浩" title="wikilink">大河内浩</a></li>
+<li><a href="../Page/大河内浩.md" title="wikilink">大河内浩</a></li>
 <li>山崎健二</li>
 </ul></td>
 <td><p>大村アツシ</p></td>
@@ -241,8 +241,8 @@
 <td><p>中小路家の惨劇 1<br />
 <small>～After the dark～</small></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/仲谷昇" title="wikilink">仲谷昇</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/酒井敏也" title="wikilink">酒井敏也</a></li>
+<li><a href="../Page/仲谷昇.md" title="wikilink">仲谷昇</a></li>
+<li><a href="../Page/酒井敏也.md" title="wikilink">酒井敏也</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/京晋佑" title="wikilink">京晋佑</a></li>
 <li>加一氷</li>
 <li>浅田みき</li>
@@ -279,7 +279,7 @@
 <td><p>虚像の殺人<br />
 <small>～Five little Indians～</small></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/朝倉圭矢" title="wikilink">朝倉圭矢</a></li>
+<li><a href="../Page/朝倉圭矢.md" title="wikilink">朝倉圭矢</a></li>
 <li>富峯弘行</li>
 <li>塚本秀</li>
 <li>山崎亜弥子</li>
@@ -296,9 +296,9 @@
 <small>～Paranoia～</small></p></td>
 <td><ul>
 <li><a href="../Page/西牟田恵.md" title="wikilink">西牟田恵</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/趙方豪" title="wikilink">趙方豪</a></li>
+<li><a href="../Page/趙方豪.md" title="wikilink">趙方豪</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/皆川衆" title="wikilink">皆川衆</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/松重豊" title="wikilink">松重豊</a></li>
+<li><a href="../Page/松重豊.md" title="wikilink">松重豊</a></li>
 <li><a href="../Page/貴本亜莉紗.md" title="wikilink">貴本亜莉紗</a></li>
 <li>澤田誠志</li>
 </ul></td>
@@ -344,7 +344,7 @@
 <li>小浜正寛</li>
 <li>池田史比古</li>
 <li><a href="https://ja.wikipedia.org/wiki/山崎りょう" title="wikilink">山崎りょう</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/松永博史" title="wikilink">松永博史</a></li>
+<li><a href="../Page/松永博史.md" title="wikilink">松永博史</a></li>
 <li>佐藤訓子</li>
 <li>近藤恭子</li>
 </ul></td>
@@ -383,7 +383,7 @@
 <small>～The Third Man～</small></p></td>
 <td><ul>
 <li>小須田康人</li>
-<li><a href="https://ja.wikipedia.org/wiki/山下容莉枝" title="wikilink">山下容莉枝</a></li>
+<li><a href="../Page/山下容莉枝.md" title="wikilink">山下容莉枝</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/坂田祥一朗" title="wikilink">坂田祥一朗</a></li>
 <li>橋本由香</li>
 </ul>
@@ -401,7 +401,7 @@
 
 ## エンディングテーマ
 
-  - P-U - [馬渡松子](https://ja.wikipedia.org/wiki/馬渡松子 "wikilink")（\#1～\#11）
+  - P-U - [馬渡松子](../Page/馬渡松子.md "wikilink")（\#1～\#11）
   - 私はあなたを終われない - [山崎亜弥子](../Page/山崎亜弥子.md "wikilink") （\#12～\#23）
 
 <!-- end list -->
@@ -411,14 +411,14 @@
 
 ## スタッフ
 
-  - 企画：[鈴木吉弘](https://ja.wikipedia.org/wiki/鈴木吉弘 "wikilink")
-  - プロデューサー：[船津浩一](https://ja.wikipedia.org/wiki/船津浩一 "wikilink")、[今野貴之](https://ja.wikipedia.org/wiki/今野貴之 "wikilink")
+  - 企画：[鈴木吉弘](../Page/鈴木吉弘.md "wikilink")
+  - プロデューサー：[船津浩一](../Page/船津浩一.md "wikilink")、[今野貴之](https://ja.wikipedia.org/wiki/今野貴之 "wikilink")
   - 監修：[平岡秀章](https://ja.wikipedia.org/wiki/平岡秀章 "wikilink")
   - 音楽：[野口健一](https://ja.wikipedia.org/wiki/野口健一 "wikilink")（元「[GALBO](https://ja.wikipedia.org/wiki/GALBO "wikilink")」ベーシスト。現「[Hills](https://ja.wikipedia.org/wiki/Hills "wikilink")」ベーシスト）
-  - パズル：[ニコリ](https://ja.wikipedia.org/wiki/ニコリ "wikilink")
+  - パズル：[ニコリ](../Page/ニコリ.md "wikilink")
   - ナレーター：[大森章督](../Page/大森章督.md "wikilink")
   - 演出：[杉本達](https://ja.wikipedia.org/wiki/杉本達 "wikilink")
-  - 技術協力：[バスク](https://ja.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")
+  - 技術協力：[バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
   - 制作協力：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - 制作著作：フジテレビ

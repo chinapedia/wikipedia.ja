@@ -11,7 +11,7 @@
 
 ## Colorful PUREGIRL
 
-休刊後、『Puregirl』と同じく1998年にアダルトゲーム雑誌『**カラフルAPEX**』（カラフルエイペックス）を発刊していた[ビブロスが](https://ja.wikipedia.org/wiki/ビブロス_\(出版社\) "wikilink")『Puregirl』のスタッフと商標を引き取り、この2誌を合併する形で[1999年](../Page/1999年.md "wikilink")4月に『**Colorful PUREGIRL**』を創刊した。
+休刊後、『Puregirl』と同じく1998年にアダルトゲーム雑誌『**カラフルAPEX**』（カラフルエイペックス）を発刊していた[ビブロスが](../Page/ビブロス_\(出版社\).md "wikilink")『Puregirl』のスタッフと商標を引き取り、この2誌を合併する形で[1999年](../Page/1999年.md "wikilink")4月に『**Colorful PUREGIRL**』を創刊した。
 
 ジャパン・ミックス倒産に伴う原稿料未払い問題は、全員ではないが、ビブロス側が肩代わりすることで概ね解決されている。しかし、心情的に新雑誌への参加を拒否した執筆者も多く、表紙デザイナーは[古賀学](https://ja.wikipedia.org/wiki/古賀学 "wikilink")に交代した。
 
@@ -23,9 +23,9 @@
 
 ## 連載漫画・小説・コラム
 
-  - 魔法少女町内に現る（[小池定路](https://ja.wikipedia.org/wiki/小池定路 "wikilink")） - [2003年](../Page/2003年.md "wikilink")1月号 - 10月号。後に「[魔法少女チキチキ](https://ja.wikipedia.org/wiki/魔法少女チキチキ "wikilink")」へ改題し、[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")『[月刊コミックラッシュ](https://ja.wikipedia.org/wiki/月刊コミックラッシュ "wikilink")』で連載された。
+  - 魔法少女町内に現る（[小池定路](https://ja.wikipedia.org/wiki/小池定路 "wikilink")） - [2003年](../Page/2003年.md "wikilink")1月号 - 10月号。後に「[魔法少女チキチキ](https://ja.wikipedia.org/wiki/魔法少女チキチキ "wikilink")」へ改題し、[ジャイブ](../Page/ジャイブ.md "wikilink")『[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")』で連載された。
   - ロングロングウェイホーム（[かかし朝浩](https://ja.wikipedia.org/wiki/かかし朝浩 "wikilink")）- 『Puregirl』時代の「ロングウェイホーム」を改題し、『Colorful PUREGIRL』でも連載。[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")から単行本化。
-  - [東方香霖堂](https://ja.wikipedia.org/wiki/東方香霖堂_〜_Curiosities_of_Lotus_Asia. "wikilink")（[ZUN](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")）- 2004年1月号 - 2004年10月号。挿絵は[唖采弦二が担当](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。休刊に伴い、『magazine elfics』『[電撃萌王](https://ja.wikipedia.org/wiki/電撃萌王 "wikilink")』などへ移籍。2007年に完結し、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")から単行本化。
+  - [東方香霖堂](../Page/東方香霖堂_〜_Curiosities_of_Lotus_Asia..md "wikilink")（[ZUN](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")）- 2004年1月号 - 2004年10月号。挿絵は[唖采弦二が担当](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。休刊に伴い、『magazine elfics』『[電撃萌王](../Page/電撃萌王.md "wikilink")』などへ移籍。2007年に完結し、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")から単行本化。
 
 ## 外部リンク
 

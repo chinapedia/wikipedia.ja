@@ -5,7 +5,7 @@
 
 [1906年](../Page/1906年.md "wikilink")[ストラスブール](../Page/ストラスブール.md "wikilink")の隣町、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のノイドルフで創立。FCノイドルフ（FC Neudorf）と名乗っていたが、第一次世界大戦後にフランス領になったのを受けて、現在の名前に改名した。
 
-[1933年](../Page/1933年.md "wikilink")、ディヴィジョン・アン（現在の[リーグ・アン](../Page/リーグ・アン.md "wikilink")）に初昇格。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")には[フランスカップで優勝し](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")、初タイトルを手にしている。1978-79シーズンにリーグ初優勝。翌シーズンには[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")でベスト4に進出し、最盛期を迎えた。
+[1933年](../Page/1933年.md "wikilink")、ディヴィジョン・アン（現在の[リーグ・アン](../Page/リーグ・アン.md "wikilink")）に初昇格。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")には[フランスカップで優勝し](../Page/クープ・ドゥ・フランス.md "wikilink")、初タイトルを手にしている。1978-79シーズンにリーグ初優勝。翌シーズンには[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")でベスト4に進出し、最盛期を迎えた。
 
 2005-06シーズンは[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")でベスト16まで勝ち残るなど健闘するが国内リーグで不振にあえぎ、[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")降格の憂き目を見た。翌シーズンは昇格するものの、19位に終わり再び降格。2009-2010シーズンはリーグ・ドゥで19位に沈み、[フランス全国選手権](../Page/フランス全国選手権.md "wikilink")（3部）に降格した。
 
@@ -19,7 +19,7 @@
       - 1978-1979
   - **[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")（ディヴィジョン・ドゥ）：3回**
       - 1976-1977, 1987-1988, 2016-2017
-  - **[カップ](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")：3回**
+  - **[カップ](../Page/クープ・ドゥ・フランス.md "wikilink")：3回**
       - 1950-1951, 1965-1966, 2000-2001
   - **[リーグカップ](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")：4回**
       - 1963–1964, 1996–1997, 2004–2005, 2018–2019
@@ -129,7 +129,7 @@
 <td><p>1966-67</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1966-67" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–1</p></td>
@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイバーニアンFC" title="wikilink">ハイバーニアン</a></p></td>
+<td><p><a href="../Page/ハイバーニアンFC.md" title="wikilink">ハイバーニアン</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''2–1</p></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MSVデュースブルク" title="wikilink">デュースブルク</a></p></td>
+<td><p><a href="../Page/MSVデュースブルク.md" title="wikilink">デュースブルク</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''0–4</p></td>
@@ -198,7 +198,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''0–4</p></td>
@@ -258,7 +258,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCメス" title="wikilink">メス</a></p></td>
+<td><p><a href="../Page/FCメス.md" title="wikilink">メス</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-0</p></td>
 <td><p>'''2-0</p></td>
@@ -327,7 +327,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAソフィア" title="wikilink">CSKAソフィア</a></p></td>
+<td><p><a href="../Page/PFC_CSKAソフィア.md" title="wikilink">CSKAソフィア</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-0</p></td>
 <td></td>
@@ -340,7 +340,7 @@
 <td><p>1997-98</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1997-98" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>2–1</p></td>
 <td><p>'''4–2</p></td>
@@ -370,7 +370,7 @@
 <td><p>2001-02</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンダール・リエージュ" title="wikilink">スタンダール・リエージュ</a></p></td>
+<td><p><a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2–4</p></td>
@@ -388,7 +388,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバーゼル" title="wikilink">バーゼル</a></p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-0</p></td>
 <td><p>'''1位</p></td>
@@ -417,7 +417,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -438,7 +438,7 @@
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバーゼル" title="wikilink">バーゼル</a></p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2–4</p></td>
@@ -468,7 +468,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-3</p></td>
 <td><p>'''1-3</p></td>
@@ -505,7 +505,7 @@
 
   - [イヴォン・プリカン](https://ja.wikipedia.org/wiki/イヴォン・プリカン "wikilink")　2000-2001
 
-  - [イワン・ハシェック](https://ja.wikipedia.org/wiki/イワン・ハシェック "wikilink")　2001-2003
+  - [イワン・ハシェック](../Page/イワン・ハシェック.md "wikilink")　2001-2003
 
   - [アントワン・コンブール](https://ja.wikipedia.org/wiki/アントワン・コンブール "wikilink")　2003-2004
 
@@ -541,7 +541,7 @@
 
   - [ホセ・ルイス・チラベルト](../Page/ホセ・ルイス・チラベルト.md "wikilink") 2000-2002
 
-  - [リシャール・ドゥトルエル](https://ja.wikipedia.org/wiki/リシャール・ドゥトルエル "wikilink") 2003-2005
+  - [リシャール・ドゥトルエル](../Page/リシャール・ドゥトルエル.md "wikilink") 2003-2005
 
 </div>
 
@@ -549,7 +549,7 @@
 
   - [アレクサンドル・ウキジャ](https://ja.wikipedia.org/wiki/アレクサンドル・ウキジャ "wikilink") 2014-2018
 
-  - [川島永嗣](https://ja.wikipedia.org/wiki/川島永嗣 "wikilink") 2018-
+  - [川島永嗣](../Page/川島永嗣.md "wikilink") 2018-
 
 </div>
 
@@ -559,7 +559,7 @@
 
   - [ジャッキー・ドゥゲペルー](https://ja.wikipedia.org/wiki/ジャッキー・ドゥゲペルー "wikilink") 1973-1979
 
-  - [レイモン・ドメネク](https://ja.wikipedia.org/wiki/レイモン・ドメネク "wikilink") 1977-1981
+  - [レイモン・ドメネク](../Page/レイモン・ドメネク.md "wikilink") 1977-1981
 
   - [フランク・ルブーフ](../Page/フランク・ルブーフ.md "wikilink") 1991-1996
 
@@ -567,7 +567,7 @@
 
   - [セドリック・カンテ](https://ja.wikipedia.org/wiki/セドリック・カンテ "wikilink") 1999-2001, 2003-2006
 
-  - [ピエール・ヌジャンカ](https://ja.wikipedia.org/wiki/ピエール・ヌジャンカ "wikilink") 1999-2003
+  - [ピエール・ヌジャンカ](../Page/ピエール・ヌジャンカ.md "wikilink") 1999-2003
 
 </div>
 
@@ -575,13 +575,13 @@
 
   - [アルトゥール・ボカ](https://ja.wikipedia.org/wiki/アルトゥール・ボカ "wikilink") 2004-2006
 
-  - [カリム・ハグイ](https://ja.wikipedia.org/wiki/カリム・ハグイ "wikilink") 2004-2006
+  - [カリム・ハグイ](../Page/カリム・ハグイ.md "wikilink") 2004-2006
 
   - [アビブ・ベライド](https://ja.wikipedia.org/wiki/アビブ・ベライド "wikilink") 2005-2008,2009
 
   - [ジェフ・シュトラッサー](../Page/ジェフ・シュトラッサー.md "wikilink") 2006-2007
 
-  - [マヌエル・ドス・サントス](https://ja.wikipedia.org/wiki/マヌエル・ドス・サントス "wikilink") 2007-2008
+  - [マヌエル・ドス・サントス](../Page/マヌエル・ドス・サントス.md "wikilink") 2007-2008
 
 </div>
 
@@ -593,7 +593,7 @@
 
   - [アーセン・ベンゲル](../Page/アーセン・ベンゲル.md "wikilink") 1978-1981
 
-  - [イワン・ハシェック](https://ja.wikipedia.org/wiki/イワン・ハシェック "wikilink") 1990-1993
+  - [イワン・ハシェック](../Page/イワン・ハシェック.md "wikilink") 1990-1993
 
   - [オリビエ・ダクール](https://ja.wikipedia.org/wiki/オリビエ・ダクール "wikilink") 1992-1998
 
@@ -605,7 +605,7 @@
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [徐正源](https://ja.wikipedia.org/wiki/徐正源 "wikilink") 1998
+  - [徐正源](../Page/徐正源.md "wikilink") 1998
 
   - [ファブリス・エレ](https://ja.wikipedia.org/wiki/ファブリス・エレ "wikilink") 1998-2004
 
@@ -623,23 +623,23 @@
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [リュシアン・ローラン](https://ja.wikipedia.org/wiki/リュシアン・ローラン "wikilink") 1937-1939
+  - [リュシアン・ローラン](../Page/リュシアン・ローラン.md "wikilink") 1937-1939
 
-  - [カルロス・ビアンチ](https://ja.wikipedia.org/wiki/カルロス・ビアンチ "wikilink") 1979-1980
+  - [カルロス・ビアンチ](../Page/カルロス・ビアンチ.md "wikilink") 1979-1980
 
   - [ディディエ・シクス](https://ja.wikipedia.org/wiki/ディディエ・シクス "wikilink") 1981,1986
 
-  - [ユーリ・ジョルカエフ](https://ja.wikipedia.org/wiki/ユーリ・ジョルカエフ "wikilink") 1990-1991
+  - [ユーリ・ジョルカエフ](../Page/ユーリ・ジョルカエフ.md "wikilink") 1990-1991
 
   - [フランク・ファリーナ](https://ja.wikipedia.org/wiki/フランク・ファリーナ "wikilink") 1992-1994
 
-  - [トーマス・フランコフスキー](https://ja.wikipedia.org/wiki/トーマス・フランコフスキー "wikilink") 1993-1996
+  - [トーマス・フランコフスキー](../Page/トーマス・フランコフスキー.md "wikilink") 1993-1996
 
 </div>
 
 <div style="float: left; vertical-align: top: white-space: nowrap; margin-right: 1em;">
 
-  - [ペギー・リュインドゥラ](https://ja.wikipedia.org/wiki/ペギー・リュインドゥラ "wikilink") 1998-2002
+  - [ペギー・リュインドゥラ](../Page/ペギー・リュインドゥラ.md "wikilink") 1998-2002
 
   - [マリオ・ハース](../Page/マリオ・ハース.md "wikilink") 1999-2001
 

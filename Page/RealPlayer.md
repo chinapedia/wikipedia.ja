@@ -1,17 +1,17 @@
 > この記事は[RealPlayer](https://ja.wikipedia.org/wiki/RealPlayer)から翻訳されています。
 
 
-**RealPlayer**（**リアルプレーヤー**）は、[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リアルネットワークス](https://ja.wikipedia.org/wiki/リアルネットワークス "wikilink")が開発した[メディアプレーヤー](https://ja.wikipedia.org/wiki/メディアプレーヤー "wikilink")である。[RealMedia](https://ja.wikipedia.org/wiki/RealMedia "wikilink")ファイル ([RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink")、[RealAudio](https://ja.wikipedia.org/wiki/RealAudio "wikilink")) の他に[MP3](../Page/MP3.md "wikilink")や[QuickTime](../Page/QuickTime.md "wikilink")、[WindowsMedia](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink") など、50種類以上のメディアファイルに対応している。
+**RealPlayer**（**リアルプレーヤー**）は、[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リアルネットワークス](../Page/リアルネットワークス.md "wikilink")が開発した[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")である。[RealMedia](../Page/RealMedia.md "wikilink")ファイル ([RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink")、[RealAudio](../Page/RealAudio.md "wikilink")) の他に[MP3](../Page/MP3.md "wikilink")や[QuickTime](../Page/QuickTime.md "wikilink")、[WindowsMedia](../Page/Windows_Media_Player.md "wikilink") など、50種類以上のメディアファイルに対応している。
 
 ## 歴史
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に、[ストリーミング](../Page/ストリーミング.md "wikilink")を再生できる[メディアプレーヤー](https://ja.wikipedia.org/wiki/メディアプレーヤー "wikilink")として、RealAudio Playerとしてデビュー。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に、[ストリーミング](../Page/ストリーミング.md "wikilink")を再生できる[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")として、RealAudio Playerとしてデビュー。
   - [バージョン](https://ja.wikipedia.org/wiki/バージョン "wikilink")6 では[名称が](../Page/名前.md "wikilink")「RealPlayer G2」となっている。
   - [2000年](../Page/2000年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に、バージョン8（日本語版）を公開。名称は「RealPlayer 8」。
-  - バージョン9 では、これまでの RealPlayerシリーズの欠点だった動作の鈍重さと安定性が劇的に向上し、[UIも大きく変わった](../Page/ユーザインタフェース.md "wikilink")。同時にRealJukebox（パソコンを[ジュークボックス](../Page/ジュークボックス.md "wikilink")のように利用するためのソフトウェア。[音楽CDの](../Page/CD-DA.md "wikilink")[リッピング](https://ja.wikipedia.org/wiki/リッピング "wikilink")なども付属していた。）を統合した。名称は「RealOne Player」となった。
+  - バージョン9 では、これまでの RealPlayerシリーズの欠点だった動作の鈍重さと安定性が劇的に向上し、[UIも大きく変わった](../Page/ユーザインタフェース.md "wikilink")。同時にRealJukebox（パソコンを[ジュークボックス](../Page/ジュークボックス.md "wikilink")のように利用するためのソフトウェア。[音楽CDの](../Page/CD-DA.md "wikilink")[リッピング](../Page/リッピング.md "wikilink")なども付属していた。）を統合した。名称は「RealOne Player」となった。
   - [2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")（日本語版の日付）に、バージョン10 を公開。主な変更点は、[CDの書き込み速度を](../Page/コンパクトディスク.md "wikilink")30%向上、RealVideo 10やRealAudio 10の品質改善など。名称は旧来の形式に戻った (RealPlayer 10)。バージョン10.5 には、ファイル名に特定の[2バイトコード](https://ja.wikipedia.org/wiki/2バイトコード "wikilink")が存在すると再生できないという不具合がある。
-  - [2007年](../Page/2007年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に、新機能を多く搭載し、UIを刷新したバージョン11 の日本語版を公開。[Flash Video](https://ja.wikipedia.org/wiki/Flash_Video "wikilink") のサポートとビデオの[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")、[DVD](../Page/DVD.md "wikilink")書き込み機能を搭載した。[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")や[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の動画をダウンロードすることができるようになった\[1\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")に、消費者団体  が「RealPlayer 10.5」と「RealPlayer 11」を[バッドウェア](../Page/バッドウェア.md "wikilink")であると認定した。しかし、同年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に、同団体はこれらのバッドウェア認定を解除した。
+  - [2007年](../Page/2007年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に、新機能を多く搭載し、UIを刷新したバージョン11 の日本語版を公開。[Flash Video](../Page/Flash_Video.md "wikilink") のサポートとビデオの[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")、[DVD](../Page/DVD.md "wikilink")書き込み機能を搭載した。[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")や[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の動画をダウンロードすることができるようになった\[1\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")に、消費者団体  が「RealPlayer 10.5」と「RealPlayer 11」を[バッドウェア](../Page/バッドウェア.md "wikilink")であると認定した。しかし、同年[4月3日](../Page/4月3日.md "wikilink")に、同団体はこれらのバッドウェア認定を解除した。
 
 <!-- end list -->
 
@@ -22,8 +22,8 @@
 
 ## サポート規格
 
-  - [RealMedia](https://ja.wikipedia.org/wiki/RealMedia "wikilink")
-      - [RealAudio](https://ja.wikipedia.org/wiki/RealAudio "wikilink") (.ra, .rm)
+  - [RealMedia](../Page/RealMedia.md "wikilink")
+      - [RealAudio](../Page/RealAudio.md "wikilink") (.ra, .rm)
       - [RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink") (.rm, .rv, .rmvb)
       - [RealPix](https://ja.wikipedia.org/wiki/RealPix "wikilink") (.rp)
       - [RealMedia Shortcut](https://ja.wikipedia.org/wiki/RealMedia_Shortcut "wikilink") (.ram, .rmm)
@@ -37,21 +37,21 @@
   - オーディオ
       - [MP3](../Page/MP3.md "wikilink") (.mp3, .mp2)
       - [音楽CD](../Page/CD-DA.md "wikilink") (.cda)
-      - [WAV](https://ja.wikipedia.org/wiki/WAV "wikilink") (.wav)
+      - [WAV](../Page/WAV.md "wikilink") (.wav)
       - [WMA](https://ja.wikipedia.org/wiki/WMA "wikilink") (.wma)
-      - [AAC](../Page/AAC.md "wikilink")/[aacPlus](https://ja.wikipedia.org/wiki/HE-AAC "wikilink") (.aac, .m4a, .m4b, .mp4, .acp, .m4p)
-      - [Apple Lossless](https://ja.wikipedia.org/wiki/Apple_Lossless "wikilink") (.m4a, .mov)
-      - [AIFF](https://ja.wikipedia.org/wiki/AIFF "wikilink") (.aif, .aiff)
-      - [AU](https://ja.wikipedia.org/wiki/Audio_Units "wikilink") (.au)
+      - [AAC](../Page/AAC.md "wikilink")/[aacPlus](../Page/HE-AAC.md "wikilink") (.aac, .m4a, .m4b, .mp4, .acp, .m4p)
+      - [Apple Lossless](../Page/Apple_Lossless.md "wikilink") (.m4a, .mov)
+      - [AIFF](../Page/AIFF.md "wikilink") (.aif, .aiff)
+      - [AU](../Page/Audio_Units.md "wikilink") (.au)
       - [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") AAC (.acp)
   - ビデオ
       - [DVD-Video](../Page/DVD-Video.md "wikilink") (.vob)
       - [MPEG](../Page/Moving_Picture_Experts_Group.md "wikilink") (.mpeg, .mpe, .mpg 等)
-      - [AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink") (.avi, .divx)
-      - [Windows Media Video](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink") (.wmv)
+      - [AVI](../Page/Audio_Video_Interleave.md "wikilink") (.avi, .divx)
+      - [Windows Media Video](../Page/Windows_Media_Video.md "wikilink") (.wmv)
       - [QuickTime](../Page/QuickTime.md "wikilink") (.mov, .qt)
       - [Adobe Flash](../Page/Adobe_Flash.md "wikilink") (.swf)
-      - [Flash Video](https://ja.wikipedia.org/wiki/Flash_Video "wikilink") (.flv) バージョン11から対応
+      - [Flash Video](../Page/Flash_Video.md "wikilink") (.flv) バージョン11から対応
           - AVI/Windows Media/QuickTime/Adobe Flash/[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink") は、それぞれ個別にインストールしてコーデックを入手する必要がある。
   - プレイリスト (.m3u, .pls, .rpl, .xpl)
   - グラフィック
@@ -64,7 +64,7 @@
 
 ### RealPlayer (RealTimes)
 
-  - for [Windows](https://ja.wikipedia.org/wiki/Windows_NT系 "wikilink") 7, 8, 10 : 基本/Basicプラン（無料）とPremiumプラン（月額課金）がある。
+  - for [Windows](../Page/Windows_NT系.md "wikilink") 7, 8, 10 : 基本/Basicプラン（無料）とPremiumプラン（月額課金）がある。
   - RealTimes for [Mac](../Page/Macintosh.md "wikilink") : 無料（配布終了[2](https://jp.real.com/mac/)）、有料（[Mac App Store](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")）。[OS X v10.9以降対応](https://ja.wikipedia.org/wiki/OS_X_Mavericks "wikilink")。
   - RealTimes for [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink"), [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") : 無料。[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 8.0 以降対応。
   - RealTimes for Android : [Android](../Page/Android.md "wikilink") 4.4 以上対応。
@@ -85,11 +85,11 @@
 
 ## 関連項目
 
-  - [RealMedia](https://ja.wikipedia.org/wiki/RealMedia "wikilink") - メディアフォーマット
+  - [RealMedia](../Page/RealMedia.md "wikilink") - メディアフォーマット
 
   - [RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink") - 動画フォーマット
 
-  - [RealAudio](https://ja.wikipedia.org/wiki/RealAudio "wikilink") - 音声フォーマット
+  - [RealAudio](../Page/RealAudio.md "wikilink") - 音声フォーマット
 
   - [ffdshow](https://ja.wikipedia.org/wiki/ffdshow "wikilink")
 

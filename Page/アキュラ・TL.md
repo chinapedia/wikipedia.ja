@@ -1,15 +1,15 @@
 > この記事は[TL](https://ja.wikipedia.org/wiki/TL)から翻訳されています。
 
 
-**TL**（ティーエル）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産し、[アキュラ](https://ja.wikipedia.org/wiki/アキュラ "wikilink")ブランドで販売していた[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。[アキュラ・ビガーの後継モデルとして](https://ja.wikipedia.org/wiki/ホンダ・ビガー "wikilink")1995年から2014年まで発売されたアキュラの最量販モデルである。2015年モデルより[TSXと統合されて](https://ja.wikipedia.org/wiki/アキュラ・TSX "wikilink")[TLXとなった](https://ja.wikipedia.org/wiki/アキュラ・TLX "wikilink")。
+**TL**（ティーエル）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランドで販売していた[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。[アキュラ・ビガーの後継モデルとして](../Page/ホンダ・ビガー.md "wikilink")1995年から2014年まで発売されたアキュラの最量販モデルである。2015年モデルより[TSXと統合されて](https://ja.wikipedia.org/wiki/アキュラ・TSX "wikilink")[TLXとなった](https://ja.wikipedia.org/wiki/アキュラ・TLX "wikilink")。
 
 ## 初代 UA2/3型（1995-1998年）
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にビガーに代わって初代TLが発売された。
 
-ワイド＆ローのシルエットは踏襲されたものの、マーケットからの居住性（主に後席）アップに応えるべく一回りサイズアップされた。日本国内では2代目[ホンダ・インスパイア](../Page/ホンダ・インスパイア.md "wikilink")/初代[ホンダ・セイバー](https://ja.wikipedia.org/wiki/ホンダ・セイバー "wikilink")として販売された。
+ワイド＆ローのシルエットは踏襲されたものの、マーケットからの居住性（主に後席）アップに応えるべく一回りサイズアップされた。日本国内では2代目[ホンダ・インスパイア](../Page/ホンダ・インスパイア.md "wikilink")/初代[ホンダ・セイバー](../Page/ホンダ・セイバー.md "wikilink")として販売された。
 
-エンジンは、ビガーから引き継がれた[G25A型](../Page/ホンダ・G型エンジン.md "wikilink") 2.5L [直列5気筒](../Page/直列5気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink")（178ps）と、2代目[ホンダ・レジェンド](../Page/ホンダ・レジェンド.md "wikilink")に搭載されていたバンク角90度の[C32A型](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン "wikilink") 3.2L [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink") SOHC（203ps）の2種類が[フロントミッドシップに搭載された](../Page/FFミッドシップ.md "wikilink")。
+エンジンは、ビガーから引き継がれた[G25A型](../Page/ホンダ・G型エンジン.md "wikilink") 2.5L [直列5気筒](../Page/直列5気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink")（178ps）と、2代目[ホンダ・レジェンド](../Page/ホンダ・レジェンド.md "wikilink")に搭載されていたバンク角90度の[C32A型](../Page/ホンダ・C型エンジン.md "wikilink") 3.2L [V型6気筒](../Page/V型6気筒.md "wikilink") SOHC（203ps）の2種類が[フロントミッドシップに搭載された](../Page/FFミッドシップ.md "wikilink")。
 
 ## 2代目 UA5型（1998-2003年）
 
@@ -17,7 +17,7 @@
 
 このモデルより生産はアメリカのオハイオ州にあるメアリズビル工場で行われ、日本へも3代目インスパイア/2代目セイバーとして輸入・販売された。
 
-先代で採用されていたFFミッドシップレイアウトは直列5気筒エンジンと共に廃止され、新たに開発されたバンク角60度の[J32A型](https://ja.wikipedia.org/wiki/ホンダ・J型エンジン "wikilink") 3.2L V型6気筒 SOHC VTECエンジンのみとなる。228ps仕様のエンジンに4速[ATが組み合わされた](../Page/オートマチックトランスミッション.md "wikilink")。
+先代で採用されていたFFミッドシップレイアウトは直列5気筒エンジンと共に廃止され、新たに開発されたバンク角60度の[J32A型](../Page/ホンダ・J型エンジン.md "wikilink") 3.2L V型6気筒 SOHC VTECエンジンのみとなる。228ps仕様のエンジンに4速[ATが組み合わされた](../Page/オートマチックトランスミッション.md "wikilink")。
 
 [2002年](../Page/2002年.md "wikilink")に、228ps仕様のエンジンに5速[ATが組み合わされた標準仕様に加え](../Page/オートマチックトランスミッション.md "wikilink")、264ps仕様のエンジンに5速ATを組み合わせた「[Type-S](https://ja.wikipedia.org/wiki/タイプS "wikilink")」が追加設定された。
 
@@ -29,7 +29,7 @@
 
 このモデルよりアキュラブランド専用モデルとなり\[1\]、エンジンは先代同様J32A型1種類のみであるが、トランスミッションは5速ATと6速MTから選択可能となった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に、「Type-S」が追加され、エンジンは[アキュラ・RL](../Page/アキュラ・RL.md "wikilink")に搭載されていた286hpの[J35A型エンジンである](https://ja.wikipedia.org/wiki/ホンダ・J型エンジン "wikilink")。トランスミッションは5速ATと6速MTが組み合させた。また258hp仕様の標準仕様は5速ATのみの設定となった。
+[2006年](../Page/2006年.md "wikilink")に、「Type-S」が追加され、エンジンは[アキュラ・RL](../Page/アキュラ・RL.md "wikilink")に搭載されていた286hpの[J35A型エンジンである](../Page/ホンダ・J型エンジン.md "wikilink")。トランスミッションは5速ATと6速MTが組み合させた。また258hp仕様の標準仕様は5速ATのみの設定となった。
 
 ボディ・デザインは、社内デザイナーである[ジョン・イケダ](https://ja.wikipedia.org/wiki/ジョン・イケダ "wikilink")。製造は、[オハイオ州](../Page/オハイオ州.md "wikilink")・メアリズビル工場（[Marysville Auto Plant](https://ja.wikipedia.org/wiki/w:Marysville_Auto_Plant "wikilink")）で行われる。
 
@@ -45,7 +45,7 @@
 
 サスペンションにはデュアルステージダンパーや、液封式コンプライアンスブッシュが採用され乗り心地を向上させた。[パワーステアリング](../Page/パワーステアリング.md "wikilink")は電動式となり、トランスミッションはパドルシフト付き5速ATで、5速ATとしてはクラス最大のワイドレシオを持つとしている。
 
-「TL」と「TL SH-AWD」の2モデルがラインナップされ、搭載されるエンジンは「TL」が3.5L V6（280hp）、「TL SH-AWD」が[アキュラ・RL](../Page/アキュラ・RL.md "wikilink")にも搭載されるアキュラの現ラインナップで最もパワフルな、吸排気共にVTECが装着された3.7L V6（305hp）である。さらに、「TL SH-AWD」には、高性能[四輪駆動](../Page/四輪駆動.md "wikilink")システム[SH-AWD](https://ja.wikipedia.org/wiki/SH-AWD "wikilink")が採用されている。
+「TL」と「TL SH-AWD」の2モデルがラインナップされ、搭載されるエンジンは「TL」が3.5L V6（280hp）、「TL SH-AWD」が[アキュラ・RL](../Page/アキュラ・RL.md "wikilink")にも搭載されるアキュラの現ラインナップで最もパワフルな、吸排気共にVTECが装着された3.7L V6（305hp）である。さらに、「TL SH-AWD」には、高性能[四輪駆動](../Page/四輪駆動.md "wikilink")システム[SH-AWD](../Page/SH-AWD.md "wikilink")が採用されている。
 
 「TL SH-AWD」は、サスペンションやEPSのセッティングが「TL」と異なり、内装もアップグレードされている。外観ではリアにSH-AWDロゴが付き、テールパイプは2本から4本出しとなり、フロントのエアダクトが拡大されている。タイヤは「TL」の245/50R17から245/45R18となり、オプションで245/40ZR19のパフォーマンスタイヤが用意される。
 
@@ -72,10 +72,10 @@
 ## 関連項目
 
   - [本田技研工業](../Page/本田技研工業.md "wikilink")
-  - [アキュラ](https://ja.wikipedia.org/wiki/アキュラ "wikilink")
-  - [アキュラ・ビガー](https://ja.wikipedia.org/wiki/ホンダ・ビガー "wikilink") - 先代車
-  - [ホンダ・インスパイア](../Page/ホンダ・インスパイア.md "wikilink")／[ホンダ・セイバー](https://ja.wikipedia.org/wiki/ホンダ・セイバー "wikilink") - 初代・2代目の姉妹車
-  - [SH-AWD](https://ja.wikipedia.org/wiki/SH-AWD "wikilink")
+  - [アキュラ](../Page/アキュラ.md "wikilink")
+  - [アキュラ・ビガー](../Page/ホンダ・ビガー.md "wikilink") - 先代車
+  - [ホンダ・インスパイア](../Page/ホンダ・インスパイア.md "wikilink")／[ホンダ・セイバー](../Page/ホンダ・セイバー.md "wikilink") - 初代・2代目の姉妹車
+  - [SH-AWD](../Page/SH-AWD.md "wikilink")
 
 ## 外部リンク
 

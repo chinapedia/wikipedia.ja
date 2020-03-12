@@ -1,11 +1,11 @@
 > この記事は[Vodafone 702NK II](https://ja.wikipedia.org/wiki/Vodafone_702NK_II)から翻訳されています。
 
 
-**Vodafone 702NK II**（ボーダフォン 702NK II）は、[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")が開発した、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の[Vodafone 3G](https://ja.wikipedia.org/wiki/Vodafone_3G "wikilink")（[W-CDMA](../Page/W-CDMA.md "wikilink")方式）及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式、[GPRS](https://ja.wikipedia.org/wiki/GPRS "wikilink")、[EDGE](https://ja.wikipedia.org/wiki/EDGE "wikilink")の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。海外で[Nokia 6680として発売されているものを日本語化し](https://ja.wikipedia.org/wiki/Nokia_6680 "wikilink")、ボーダフォン向けのカスタマイズを行っている。
+**Vodafone 702NK II**（ボーダフォン 702NK II）は、[ノキア](../Page/ノキア.md "wikilink")が開発した、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の[Vodafone 3G](https://ja.wikipedia.org/wiki/Vodafone_3G "wikilink")（[W-CDMA](../Page/W-CDMA.md "wikilink")方式）及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式、[GPRS](https://ja.wikipedia.org/wiki/GPRS "wikilink")、[EDGE](https://ja.wikipedia.org/wiki/EDGE "wikilink")の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。海外で[Nokia 6680として発売されているものを日本語化し](https://ja.wikipedia.org/wiki/Nokia_6680 "wikilink")、ボーダフォン向けのカスタマイズを行っている。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月15日にボーダフォンよりプレスリリース、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月17日より発売開始した。[JATE通過は](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")2005年3月16日（Nokia 6680）。
+[2005年](../Page/2005年.md "wikilink")12月15日にボーダフォンよりプレスリリース、[2005年](../Page/2005年.md "wikilink")12月17日より発売開始した。[JATE通過は](../Page/電気通信端末機器審査協会.md "wikilink")2005年3月16日（Nokia 6680）。
 
 2007年8月にこの製品が使用する型式の電池パックの欠陥（BL-5C。ボーダフォン型番では「NMBF01」に相当）が発表され、回収・交換が行われている。
 
@@ -15,7 +15,7 @@
 | --------------------------------------------------------------- |
 | ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~ |
 | ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~    |
-| [S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")  |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                     |
 | [着うた](../Page/着うた.md "wikilink")                                |
 | [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")         |
 
@@ -23,7 +23,7 @@
 
 ## 特徴
 
-[Vodafone 702NK](https://ja.wikipedia.org/wiki/Vodafone_702NK "wikilink") ([Nokia 6630](https://ja.wikipedia.org/wiki/Nokia_6630 "wikilink")) の後継機。直線的な形状となり、自分撮り用カメラを備え[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")が可能となった。
+[Vodafone 702NK](../Page/Vodafone_702NK.md "wikilink") ([Nokia 6630](../Page/Nokia_6630.md "wikilink")) の後継機。直線的な形状となり、自分撮り用カメラを備え[テレビ電話](../Page/テレビ電話.md "wikilink")が可能となった。
 
 また、背面のカメラにLEDフラッシュとスライド式の保護カバーがついている。
 
@@ -46,7 +46,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [着せ替え携帯](https://ja.wikipedia.org/wiki/着せ替え携帯 "wikilink")
+  - [着せ替え携帯](../Page/着せ替え携帯.md "wikilink")
 
 ## 脚注
 

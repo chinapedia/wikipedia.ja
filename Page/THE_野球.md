@@ -1,9 +1,9 @@
 > この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
 
 
-**THE 野球**（ざ やきゅう）は、[2000年代](../Page/2000年代.md "wikilink")前半に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より廉価版[ゲームソフト](../Page/ゲームソフト.md "wikilink")シリーズ『[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")』の作品として発売された[野球](../Page/野球.md "wikilink")[ゲームシリーズである](https://ja.wikipedia.org/wiki/スポーツゲーム "wikilink")。
+**THE 野球**（ざ やきゅう）は、[2000年代](../Page/2000年代.md "wikilink")前半に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より廉価版[ゲームソフト](../Page/ゲームソフト.md "wikilink")シリーズ『[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")』の作品として発売された[野球](../Page/野球.md "wikilink")[ゲームシリーズである](../Page/スポーツゲーム.md "wikilink")。
 
-[PlayStationにおいて](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『SIMPLE1500シリーズ』として上記タイトルで、[PlayStation 2において](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SIMPLE2000シリーズ』として『**THE プロ野球**（ざ プロやきゅう）』のタイトルで発売された。
+[PlayStationにおいて](../Page/PlayStation_\(ゲーム機\).md "wikilink")『SIMPLE1500シリーズ』として上記タイトルで、[PlayStation 2において](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SIMPLE2000シリーズ』として『**THE プロ野球**（ざ プロやきゅう）』のタイトルで発売された。
 
 ## 作品概要
 
@@ -11,9 +11,9 @@
 
   - SIMPLE1500シリーズ Vol.21 THE 野球
 
-[2000年](../Page/2000年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売。開発は、E'sが担当。選手を操作する[アクションゲーム](../Page/アクションゲーム.md "wikilink")の多い野球ゲームとしては珍しく、プレイヤーが監督となって選手を采配する[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")となった（同様のソフトとしては、当時[アスキーより発売されていた](../Page/アスキー_\(企業\).md "wikilink")『[ベストプレープロ野球](https://ja.wikipedia.org/wiki/ベストプレープロ野球 "wikilink")』シリーズ等の前例が存在する）。
+[2000年](../Page/2000年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売。開発は、E'sが担当。選手を操作する[アクションゲーム](../Page/アクションゲーム.md "wikilink")の多い野球ゲームとしては珍しく、プレイヤーが監督となって選手を采配する[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")となった（同様のソフトとしては、当時[アスキーより発売されていた](../Page/アスキー_\(企業\).md "wikilink")『[ベストプレープロ野球](../Page/ベストプレープロ野球.md "wikilink")』シリーズ等の前例が存在する）。
 
-登場する選手・球団・球場・リーグ名はすべて非実名（変名）となっている。当時は既に[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")等の許諾を受けて実名を使うゲームがほとんどであり、[家庭用ゲーム機の作品としては](../Page/コンシューマーゲーム.md "wikilink")、1994年7月発売の[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『[スーパーウルトラベースボール2](https://ja.wikipedia.org/wiki/超人ウルトラベースボール "wikilink")』（[カルチャーブレーン](https://ja.wikipedia.org/wiki/カルチャーブレーン "wikilink")）以来である。
+登場する選手・球団・球場・リーグ名はすべて非実名（変名）となっている。当時は既に[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")等の許諾を受けて実名を使うゲームがほとんどであり、[家庭用ゲーム機の作品としては](../Page/コンシューマーゲーム.md "wikilink")、1994年7月発売の[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『[スーパーウルトラベースボール2](../Page/超人ウルトラベースボール.md "wikilink")』（[カルチャーブレーン](https://ja.wikipedia.org/wiki/カルチャーブレーン "wikilink")）以来である。
 
 選手の名前・能力値をエディットすることもできるが、ベストプレープロ野球のようにチーム名や[本拠地球場を変更することはできない](https://ja.wikipedia.org/wiki/専用球場 "wikilink")。
 

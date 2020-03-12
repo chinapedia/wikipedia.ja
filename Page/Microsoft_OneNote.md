@@ -11,7 +11,7 @@
 
 ## 用途
 
-企業の会議、学校・大学の講義でのメモ取り、ウェブ情報の[スクラップブック](https://ja.wikipedia.org/wiki/スクラップブック "wikilink")などに使われる。また、[マインドマップ](../Page/マインドマップ.md "wikilink")に似た使い方により、執筆のアイデアの整理、[ブレインストーミング](https://ja.wikipedia.org/wiki/ブレインストーミング "wikilink")などに使われる。OneNoteでは、情報整理の初期の段階、すなわち記録と整理を容易にすることに重点がある。OneNoteで大まかに整理し、アイデアを練ったのち、ワープロやプレゼンテーションのソフトで、広く他者に分かりやすく提示するために書式やレイアウトなど整える使用法もある。ネットワークでのコラボレーション・同期機能があるため、OneNote形式のままでも共有できる。
+企業の会議、学校・大学の講義でのメモ取り、ウェブ情報の[スクラップブック](https://ja.wikipedia.org/wiki/スクラップブック "wikilink")などに使われる。また、[マインドマップ](../Page/マインドマップ.md "wikilink")に似た使い方により、執筆のアイデアの整理、[ブレインストーミング](../Page/ブレインストーミング.md "wikilink")などに使われる。OneNoteでは、情報整理の初期の段階、すなわち記録と整理を容易にすることに重点がある。OneNoteで大まかに整理し、アイデアを練ったのち、ワープロやプレゼンテーションのソフトで、広く他者に分かりやすく提示するために書式やレイアウトなど整える使用法もある。ネットワークでのコラボレーション・同期機能があるため、OneNote形式のままでも共有できる。
 
 ## バージョンの変遷
 
@@ -86,7 +86,7 @@
 
 ## 対応プラットフォーム
 
-Windowsのデスクトップ版とmacOS版には無料版の「Microsoft OneNote」と有料版の「[Microsoft Office](../Page/Microsoft_Office.md "wikilink") OneNote」があり、無料版には[SharePointサポートや](../Page/Microsoft_SharePoint.md "wikilink")[Outlookの統合](../Page/Microsoft_Outlook.md "wikilink")、バージョン履歴などの機能が省かれていた\[6\]が、2015年2月13日から機能制限はほぼ撤廃され、制限は商用利用とローカル保存の可否のみとなる\[7\]。それ以外は最初から標準搭載されている簡易版のWindows 10を除き、各アプリストアから全て無料でダウンロードできる。簡易版および無料版の利用にはいずれも[Microsoft アカウントが必要で](https://ja.wikipedia.org/wiki/Microsoft_アカウント "wikilink")、データは[OneDrive上に保管されるのが基本](../Page/Microsoft_OneDrive.md "wikilink")。
+Windowsのデスクトップ版とmacOS版には無料版の「Microsoft OneNote」と有料版の「[Microsoft Office](../Page/Microsoft_Office.md "wikilink") OneNote」があり、無料版には[SharePointサポートや](../Page/Microsoft_SharePoint.md "wikilink")[Outlookの統合](../Page/Microsoft_Outlook.md "wikilink")、バージョン履歴などの機能が省かれていた\[6\]が、2015年2月13日から機能制限はほぼ撤廃され、制限は商用利用とローカル保存の可否のみとなる\[7\]。それ以外は最初から標準搭載されている簡易版のWindows 10を除き、各アプリストアから全て無料でダウンロードできる。簡易版および無料版の利用にはいずれも[Microsoft アカウントが必要で](../Page/Microsoft_アカウント.md "wikilink")、データは[OneDrive上に保管されるのが基本](../Page/Microsoft_OneDrive.md "wikilink")。
 
   - [Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") - 標準搭載
   - [Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")

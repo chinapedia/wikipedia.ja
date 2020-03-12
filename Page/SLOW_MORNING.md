@@ -23,7 +23,7 @@
 
 ## ナビゲーター
 
-  - [玉川美沙](https://ja.wikipedia.org/wiki/玉川美沙 "wikilink")
+  - [玉川美沙](../Page/玉川美沙.md "wikilink")
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 ## 主なコーナー
 
-  - [KEY COFFEE METROPOLITAN CAFE](https://ja.wikipedia.org/wiki/KEY_COFFEE_METROPOLITAN_CAFE "wikilink")　(8:20-9:00)
+  - [KEY COFFEE METROPOLITAN CAFE](../Page/KEY_COFFEE_METROPOLITAN_CAFE.md "wikilink")　(8:20-9:00)
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   -
-    メジャーリーグ情報コーナー。2003年シーズンは別番組扱い。2004年シーズンは内包番組化。4月-10月放送。シーズン閉幕後は休止。番組終了後の2005年シーズンは[MODAISTA](https://ja.wikipedia.org/wiki/MODAISTA "wikilink")内で放送。
+    メジャーリーグ情報コーナー。2003年シーズンは別番組扱い。2004年シーズンは内包番組化。4月-10月放送。シーズン閉幕後は休止。番組終了後の2005年シーズンは[MODAISTA](../Page/MODAISTA.md "wikilink")内で放送。
 
 ## 外部リンク
 

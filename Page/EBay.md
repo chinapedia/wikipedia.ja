@@ -1,7 +1,7 @@
 > この記事は[EBay](https://ja.wikipedia.org/wiki/EBay)から翻訳されています。
 
 
-**eBay Inc.** （イーベイ) は、アメリカ合衆国カリフォルニア州サンノゼに本社を置くアメリカ合衆国のグローバルEC企業で、世界中で1.6億人、Sellerは2,500万人（個人・法人含む）とインターネットオークションでは世界最多の利用者を持つ。事業内容は自社ウェブサイト上でC2CおよびB2Bなど個々間での取引を可能にするグローバルマーケットプレイスの運営である。eBayは、[ピエール・オミダイア](https://ja.wikipedia.org/wiki/ピエール・オミダイア "wikilink")が1995年に設立し、dot-com bubble（インターネットバブル期）に成功した企業の一つで、世界約30ヶ国で数十億ドルのEC事業を行っている\[1\]。 同社は、個人・企業を問わず様々なモノを世界中で売買できるオンラインオークションとショッピングのeBay.comを運営している。eBay.comでは、バイヤー（買い手）は自由に利用できるが、セラー（売り手）は一定数以上の商品掲載やそれらが売り切れた後に商品の再掲載をする際に一定額の課金が必要となる\[2\]。
+**eBay Inc.** （イーベイ) は、アメリカ合衆国カリフォルニア州サンノゼに本社を置くアメリカ合衆国のグローバルEC企業で、世界中で1.6億人、Sellerは2,500万人（個人・法人含む）とインターネットオークションでは世界最多の利用者を持つ。事業内容は自社ウェブサイト上でC2CおよびB2Bなど個々間での取引を可能にするグローバルマーケットプレイスの運営である。eBayは、[ピエール・オミダイア](../Page/ピエール・オミダイア.md "wikilink")が1995年に設立し、dot-com bubble（インターネットバブル期）に成功した企業の一つで、世界約30ヶ国で数十億ドルのEC事業を行っている\[1\]。 同社は、個人・企業を問わず様々なモノを世界中で売買できるオンラインオークションとショッピングのeBay.comを運営している。eBay.comでは、バイヤー（買い手）は自由に利用できるが、セラー（売り手）は一定数以上の商品掲載やそれらが売り切れた後に商品の再掲載をする際に一定額の課金が必要となる\[2\]。
 
 殊更にオークション領域では、 eBay.comが「今すぐ買う」オンラインショッピングを発展・拡張して以来、UPC（Universal Product Code）や ISBN（国際標準図書番号）または、SKU（Stock Keeping Unit）の様な形で何らかの番号(Half.comを介す)での価格最適化、オンラインクラシファイド広告 (Kijiji 又は eBay Classifiedsを介す)、 オンラインチケットトレーディング (StubHubを介す)、その他多数のeBay系列のサービスを構築している。以前は、オンライン送金も自社で提供していた（2002年から2015年までeBayの子会社だったPayPalを介し行われていた\[3\]）。
 
@@ -13,7 +13,7 @@
 
 ### 創業初期
 
-eBayの前身となったオークションウェブ（AuctionWeb）は、1995年9月3日カリフォルニア州で、当時、コンピュータープログラマーだったイラン系アメリカ人（出生フランス）の[ピエール・オミダイア](https://ja.wikipedia.org/wiki/ピエール・オミダイア "wikilink")によって趣味の一環の一つのウェブサイトとして構築された。\[4\]オークションウェブで最初に売れたものは、「壊れたレーザーポインター」で、落札価格は14.83ドルであった。驚いたオミダイアは、落札者に何故「壊れたと分かっているレーザーポインター」を購入したのか理由を聞くためにコンタクトを取った。そこで、オミダイアがメールの返信で受け取った返答は、「私は、壊れたレーザーポインターをコレクションしているんだ。」という回答だった\[5\]。
+eBayの前身となったオークションウェブ（AuctionWeb）は、1995年9月3日カリフォルニア州で、当時、コンピュータープログラマーだったイラン系アメリカ人（出生フランス）の[ピエール・オミダイア](../Page/ピエール・オミダイア.md "wikilink")によって趣味の一環の一つのウェブサイトとして構築された。\[4\]オークションウェブで最初に売れたものは、「壊れたレーザーポインター」で、落札価格は14.83ドルであった。驚いたオミダイアは、落札者に何故「壊れたと分かっているレーザーポインター」を購入したのか理由を聞くためにコンタクトを取った。そこで、オミダイアがメールの返信で受け取った返答は、「私は、壊れたレーザーポインターをコレクションしているんだ。」という回答だった\[5\]。
 
 繰り返すが、eBayは、あくまでもオミダイアの個人的趣味としてのウェブサイトだった。しかし、インターネットのサービスプロバイダーがオミダイアに、大量のトラフィックがあるため、アカウントをビジネスアカウントへアップグレードを要求する通知を送ってきた。その結果、月額30ドルから250ドルの管理費が請求され、eBayのユーザーに対して利用料を課さざるを得ない状況になった。このオミダイアの意思に反し利用料を課す事態に直面したが幸いにクレーム等には当たらなかった\[6\]。そして、創業初の社員（Chris Agarpao）を雇用した\[7\]\[8\]。 [Pomidyarji.jpg](https://ja.wikipedia.org/wiki/File:Pomidyarji.jpg "fig:Pomidyarji.jpg")
 
@@ -87,7 +87,7 @@ eBay generates revenue by a complex system of fees for services, listing product
 
 Under US law, a state cannot require sellers located outside the state to collect a [sales tax](https://ja.wikipedia.org/wiki/sales_tax "wikilink"), making purchases more attractive to buyers. Although some state laws require resident purchasers to pay [use tax](https://ja.wikipedia.org/wiki/use_tax "wikilink") on out-of-state purchases, it is not a common practice. However, sellers that operate as a business do follow state tax regulations on eBay transactions\[41\]\[42\]. However [Value Added Tax](https://ja.wikipedia.org/wiki/Value_Added_Tax "wikilink") (VAT), the EU countries' sales tax, is different. eBay requires sellers to include the VAT element in their listing price and not as an add-on and thus profits by collecting fees based not only on the sale price "ex VAT" but also on the VAT.\[43\] In a similar manner eBay also charges its Final Value Fees on all shipping charges.
 
-The company's business strategy includes increasing international trade\[44\]\[45\]. eBay has already expanded to over [two dozen countries](https://ja.wikipedia.org/wiki/#International "wikilink"), including China and India. Strategic international expansion has failed in Taiwan and Japan, where [Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink") had a head start, and New Zealand, where [Trade Me](https://ja.wikipedia.org/wiki/Trade_Me "wikilink") is the dominant online auction website. eBay also notably failed in China due to competition from local rival [Taobao](https://ja.wikipedia.org/wiki/Taobao "wikilink").\[46\] eBay entered the Chinese market in 2002 and shut down its Chinese site in 2007\[47\]. In India too, eBay's operations came to a halt\[48\] after it sold off its [India](https://ja.wikipedia.org/wiki/India "wikilink") operations\[49\] to country's largest ecommerce company [Flipkart](https://ja.wikipedia.org/wiki/Flipkart "wikilink"), in the latter's $1.4Bn fundraise\[50\], where eBay was a participant too.
+The company's business strategy includes increasing international trade\[44\]\[45\]. eBay has already expanded to over [two dozen countries](https://ja.wikipedia.org/wiki/#International "wikilink"), including China and India. Strategic international expansion has failed in Taiwan and Japan, where [Yahoo\!](../Page/Yahoo!.md "wikilink") had a head start, and New Zealand, where [Trade Me](https://ja.wikipedia.org/wiki/Trade_Me "wikilink") is the dominant online auction website. eBay also notably failed in China due to competition from local rival [Taobao](https://ja.wikipedia.org/wiki/Taobao "wikilink").\[46\] eBay entered the Chinese market in 2002 and shut down its Chinese site in 2007\[47\]. In India too, eBay's operations came to a halt\[48\] after it sold off its [India](https://ja.wikipedia.org/wiki/India "wikilink") operations\[49\] to country's largest ecommerce company [Flipkart](https://ja.wikipedia.org/wiki/Flipkart "wikilink"), in the latter's $1.4Bn fundraise\[50\], where eBay was a participant too.
 
 In its Q1 2008 results, total payment volume via PayPal increased 17%, but off the eBay auction site it was up 61%.\[51\]
 
@@ -252,7 +252,7 @@ In March 2005, eBay launched the classifieds service [Kijiji](https://ja.wikiped
 
 #### Skype
 
-In October 2005, eBay Inc. acquired [Skype Technologies](https://ja.wikipedia.org/wiki/Skype_Technologies "wikilink")\[86\], developer of the [Skype](https://ja.wikipedia.org/wiki/Skype "wikilink") [VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink") and [Instant messaging](https://ja.wikipedia.org/wiki/Instant_messaging "wikilink") service, significantly expanding its customer base to more than 480 million registered users worldwide. eBay later sold a majority stake in Skype in November 2009, while retaining a minority investment in the company\[87\]. This eventually led to the sale of the entire Skype business to [Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink") for $8.5 billion in May 2011\[88\].
+In October 2005, eBay Inc. acquired [Skype Technologies](https://ja.wikipedia.org/wiki/Skype_Technologies "wikilink")\[86\], developer of the [Skype](../Page/Skype.md "wikilink") [VoIP](../Page/VoIP.md "wikilink") and [Instant messaging](https://ja.wikipedia.org/wiki/Instant_messaging "wikilink") service, significantly expanding its customer base to more than 480 million registered users worldwide. eBay later sold a majority stake in Skype in November 2009, while retaining a minority investment in the company\[87\]. This eventually led to the sale of the entire Skype business to [Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink") for $8.5 billion in May 2011\[88\].
 
 #### StubHub
 
@@ -369,7 +369,7 @@ On May 21, 2014 the company revealed that the consumer database of usernames, pa
 ## 関連項目
 
   - [Qoo10](https://ja.wikipedia.org/wiki/Qoo10 "wikilink").jp
-  - [Magento](https://ja.wikipedia.org/wiki/Magento "wikilink")
+  - [Magento](../Page/Magento.md "wikilink")
 
 ## 外部リンク
 

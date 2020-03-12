@@ -15,9 +15,9 @@
 
 [2004年](../Page/2004年.md "wikilink")1月、3枚のシングルの表題曲を含むセカンド・アルバム『ナナイロスマイル』を発売。9月、自身初となるセルフプロデュース作品、ミニアルバム『明日の風』を発売。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月、これまでを振りかえる意味と、あらたな展開に向けての2004年までの活動の集大成としてベストアルバム『BEST 1999-2004』とクリップ集 DVD『CLIPS 1999-2004』を発売した。
+[2005年](../Page/2005年.md "wikilink")6月、これまでを振りかえる意味と、あらたな展開に向けての2004年までの活動の集大成としてベストアルバム『BEST 1999-2004』とクリップ集 DVD『CLIPS 1999-2004』を発売した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月、ライブツアー後に活動休止することを発表。12月、ミニアルバム『EUPHORIA』、ライブアルバム『HORIZON』をレインボーエンタテインメントよりリリース。その後、各メンバーそれぞれソロ活動を開始する。
+[2006年](../Page/2006年.md "wikilink")8月、ライブツアー後に活動休止することを発表。12月、ミニアルバム『EUPHORIA』、ライブアルバム『HORIZON』をレインボーエンタテインメントよりリリース。その後、各メンバーそれぞれソロ活動を開始する。
 
 [2007年](../Page/2007年.md "wikilink")1月、[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")より、シングルのC/W曲を集めたアルバム「B-side collection」をリリース。
 
@@ -30,10 +30,10 @@
 ## 現メンバー
 
   - **生熊耕治**（いくまこうじ） リーダー ヴォーカル（小林在籍時は[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）＆[ギター](../Page/ギター.md "wikilink") 1974年10月16日・A型
-      - cune活動休止後から主に[JOVO](https://ja.wikipedia.org/wiki/JOVO "wikilink")と言うプロジェクトのメンバー、杉本善徳、[中島卓偉](https://ja.wikipedia.org/wiki/中島卓偉 "wikilink")、[ヒューマンロスト](https://ja.wikipedia.org/wiki/ヒューマンロスト "wikilink")らのサポートギタリストとしてcune活動再開後も並行して活動中。また、2012年にソロ活動を開始、アルバム2作等をリリース。
-  - **中村泰造**（なかむらたいぞう）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")＆[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") 1978年6月21日･O型
+      - cune活動休止後から主に[JOVO](https://ja.wikipedia.org/wiki/JOVO "wikilink")と言うプロジェクトのメンバー、杉本善徳、[中島卓偉](../Page/中島卓偉.md "wikilink")、[ヒューマンロスト](https://ja.wikipedia.org/wiki/ヒューマンロスト "wikilink")らのサポートギタリストとしてcune活動再開後も並行して活動中。また、2012年にソロ活動を開始、アルバム2作等をリリース。
+  - **中村泰造**（なかむらたいぞう）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")＆[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") 1978年6月21日･O型
       - cune活動休止後から、杉本善徳らのサポートベーシストとして活動しながら、元[Hysteric Blueのたくや達と共にバンド](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")「CATAMARAN」を結成。2010年解散。
-      - cuneのプロデュースを担当していた[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")は「日本で好きなベーシストの5本の指に入る」と、彼の実力を認めている。\[1\]
+      - cuneのプロデュースを担当していた[佐久間正英](../Page/佐久間正英.md "wikilink")は「日本で好きなベーシストの5本の指に入る」と、彼の実力を認めている。\[1\]
       - 現在は株式会社グロールに所属。
       - 倖田來未、細川たかし、ラムジ、渡り廊下走り隊、News等のレコーディングに参加。
       - 新藤晴一（ポルノグラフィティ）とSHOCK EYE（湘南乃風）、サウンドクリエーター篤志の3人からなる音楽プロジェクトTHE野党、上田竜也（KAT-TUN）、OLDCODEX、バロック、等のライブサポートも務める。
@@ -44,8 +44,8 @@
 
   - **小林亮三**（こばやしりょうぞう）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ギター](../Page/ギター.md "wikilink") 1978年5月30日生・B型
       - cuneの楽曲の大部分において作詞・作曲を担当していた。
-      - cune活動休止後ソロ活動として、元[Sound Scheduleの大石昌良と共に](https://ja.wikipedia.org/wiki/Sound_Schedule "wikilink")「OKコンビ」としても活動。
-      - cune結成以前は、「Ray」という[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドで活動していた。メンバーには中村泰造、元[Waive](https://ja.wikipedia.org/wiki/Waive "wikilink")の[杉本善徳](../Page/杉本善徳.md "wikilink")、元[Wyseの牧田拓磨らが名を連ねていた](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink")。
+      - cune活動休止後ソロ活動として、元[Sound Scheduleの大石昌良と共に](../Page/Sound_Schedule.md "wikilink")「OKコンビ」としても活動。
+      - cune結成以前は、「Ray」という[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドで活動していた。メンバーには中村泰造、元[Waive](../Page/Waive.md "wikilink")の[杉本善徳](../Page/杉本善徳.md "wikilink")、元[Wyseの牧田拓磨らが名を連ねていた](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink")。
       - 自身のブログやツイッターにてcuneの活動再開の意思がないことや、結婚し2児の父である事、その家族と別居中で写真作家の女性と不倫状態になり、後に妻と離婚した事を告白するなど自身をさらけ出すような記事を度々掲載したが、記事や自身への反感コメントがあると、反発してすぐにブログやツイッターを閉鎖、再開を繰り返す事が度々ある。
       - 2012年7月23日、音楽性と人生観の違いを理由にcuneを脱退し、「波音（なみおと）」と言う名でソロ活動する事を発表した。
 
@@ -54,7 +54,7 @@
   - SAMURAI DRIVE
     [2001年](../Page/2001年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")インディーズより発売されたデビューシングル『星をみてれば』のM-2に収録された曲。後に[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")がカバーしヒット。
   - クローバー
-    [TBS系ドラマ](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")・[おとうさん](https://ja.wikipedia.org/wiki/おとうさん_\(テレビドラマ\) "wikilink")」主題歌
+    [TBS系ドラマ](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")・[おとうさん](../Page/おとうさん_\(テレビドラマ\).md "wikilink")」主題歌
 
 ## ディスコグラフィー
 

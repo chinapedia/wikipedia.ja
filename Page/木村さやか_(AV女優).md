@@ -3,7 +3,7 @@
 
 **木村 さやか**（きむら さやか、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[9月10日](../Page/9月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
-[新潟県](../Page/新潟県.md "wikilink")出身（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身とする[プロフィール](https://ja.wikipedia.org/wiki/プロフィール "wikilink")もある）。血液型:B型。身長:154cm。スリーサイズ:[B](https://ja.wikipedia.org/wiki/バスト "wikilink")79・[W](../Page/腰.md "wikilink")54・[H](https://ja.wikipedia.org/wiki/尻 "wikilink")83。
+[新潟県](../Page/新潟県.md "wikilink")出身（[東京都](../Page/東京都.md "wikilink")出身とする[プロフィール](https://ja.wikipedia.org/wiki/プロフィール "wikilink")もある）。血液型:B型。身長:154cm。スリーサイズ:[B](../Page/バスト.md "wikilink")79・[W](../Page/腰.md "wikilink")54・[H](../Page/尻.md "wikilink")83。
 
 ## 略歴・人物
 
@@ -33,7 +33,7 @@
 
 ### 成人映画
 
-  - [ロリータ・バイブ責め](https://ja.wikipedia.org/wiki/ロリータ・バイブ責め "wikilink") （1987年9月19日、配給:[にっかつ](https://ja.wikipedia.org/wiki/にっかつ "wikilink")）…主演:[梁川りお](../Page/梁川りお.md "wikilink")
+  - [ロリータ・バイブ責め](../Page/ロリータ・バイブ責め.md "wikilink") （1987年9月19日、配給:[にっかつ](https://ja.wikipedia.org/wiki/にっかつ "wikilink")）…主演:[梁川りお](../Page/梁川りお.md "wikilink")
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - 地下鉄連続レイプ 愛人狩り （1988年5月7日、配給:[にっかつ](https://ja.wikipedia.org/wiki/にっかつ "wikilink")）…主演:[岸加奈子](https://ja.wikipedia.org/wiki/岸加奈子 "wikilink")
+  - 地下鉄連続レイプ 愛人狩り （1988年5月7日、配給:[にっかつ](https://ja.wikipedia.org/wiki/にっかつ "wikilink")）…主演:[岸加奈子](../Page/岸加奈子.md "wikilink")
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 ### 写真集
 
-  - 少女人形 （1988年5月12日発行、[大陸書房](../Page/大陸書房.md "wikilink")） - 撮影:[高橋生建](https://ja.wikipedia.org/wiki/高橋生建 "wikilink")
+  - 少女人形 （1988年5月12日発行、[大陸書房](../Page/大陸書房.md "wikilink")） - 撮影:[高橋生建](../Page/高橋生建.md "wikilink")
   - スキャンドール （1988年8月6日発行、[ピラミッド社](../Page/大陸書房.md "wikilink")） - 撮影:高橋生建
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:クリスタル映像女優](https://ja.wikipedia.org/wiki/Category:クリスタル映像女優 "wikilink") [Category:新潟県出身の人物](https://ja.wikipedia.org/wiki/Category:新潟県出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

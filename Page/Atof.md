@@ -1,15 +1,15 @@
 > この記事は[Atof](https://ja.wikipedia.org/wiki/Atof)から翻訳されています。
 
 
-**atof** (ASCII to Floating Point Number) は、文字列を[倍精度浮動小数点数](https://ja.wikipedia.org/wiki/倍精度浮動小数点数 "wikilink")に変換する[C言語](../Page/C言語.md "wikilink")の[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")の[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。標準ヘッダーファイル `<stdlib.h>` で宣言されている。読み方は規格では特に定められていない。
+**atof** (ASCII to Floating Point Number) は、文字列を[倍精度浮動小数点数](../Page/倍精度浮動小数点数.md "wikilink")に変換する[C言語](../Page/C言語.md "wikilink")の[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")の[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。標準ヘッダーファイル `<stdlib.h>` で宣言されている。読み方は規格では特に定められていない。
 
 ## 概要
 
-引数で与えられた文字列を解析し、文字列先頭の連続する数値部分を`double`型の[浮動小数点数](../Page/浮動小数点数.md "wikilink")に変換する。例えば、引数に`"0.123abc"`を与えると、`0.123`を返す。`"INF"`や`"NAN"`といった表現は、それぞれ無限大、非数 ([NaN](https://ja.wikipedia.org/wiki/NaN "wikilink")) として変換する（大文字・小文字を区別しない）。また、変換に失敗しても`errno`を書き換えない。
+引数で与えられた文字列を解析し、文字列先頭の連続する数値部分を`double`型の[浮動小数点数](../Page/浮動小数点数.md "wikilink")に変換する。例えば、引数に`"0.123abc"`を与えると、`0.123`を返す。`"INF"`や`"NAN"`といった表現は、それぞれ無限大、非数 ([NaN](../Page/NaN.md "wikilink")) として変換する（大文字・小文字を区別しない）。また、変換に失敗しても`errno`を書き換えない。
 
 正常に変換可能な文字列の場合は `strtod(nptr, NULL)` と同じ結果を返すが、不正な値の場合は atof はエラーを返さない。
 
-名称は atof であるが戻り値は[単精度浮動小数点数](https://ja.wikipedia.org/wiki/単精度浮動小数点数 "wikilink")型 (`float`) ではなく、[倍精度浮動小数点数](https://ja.wikipedia.org/wiki/倍精度浮動小数点数 "wikilink")型 (`double`) であることに注意が必要。
+名称は atof であるが戻り値は[単精度浮動小数点数](../Page/単精度浮動小数点数.md "wikilink")型 (`float`) ではなく、[倍精度浮動小数点数](../Page/倍精度浮動小数点数.md "wikilink")型 (`double`) であることに注意が必要。
 
 [ANSI C標準ではない](https://ja.wikipedia.org/wiki/ANSI_C "wikilink") atoff 関数をサポートする処理系もある\[1\]。
 

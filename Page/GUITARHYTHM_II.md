@@ -5,17 +5,17 @@
 
 ## 背景
 
-[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")の活動休止後のソロ復帰アルバム。
+[COMPLEX](../Page/COMPLEX.md "wikilink")の活動休止後のソロ復帰アルバム。
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")の音楽性とは大きく異なり、重厚なサウンドで構築されている。『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』が海外進出を意識した作品だったのに対し、本作は日本のロック・ファンの為のアルバムとして制作されており、歌詞もカヴァー曲を除き日本語である。
+[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[COMPLEX](../Page/COMPLEX.md "wikilink")の音楽性とは大きく異なり、重厚なサウンドで構築されている。『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』が海外進出を意識した作品だったのに対し、本作は日本のロック・ファンの為のアルバムとして制作されており、歌詞もカヴァー曲を除き日本語である。
 
 本作の楽曲制作及びレコーディングをするに当たり、単身渡英。[ロンドン](../Page/ロンドン.md "wikilink")で生活を始め、全楽曲を1ヶ月で完成させた。COMPLEXのラストライブ翌日には飛行機に乗っていたという。リリース後には、ソロキャリアでは初となる全国ツアーも行われた。
 
 [コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は『**時空を超えた魂の旅**』で、「**[BEAT EMOTIONによって解き放たれた魂が時空を自由に飛びまわり](https://ja.wikipedia.org/wiki/BEAT_EMOTION_\(布袋寅泰の曲\) "wikilink")、綺麗なもの、哀しいものなどを見たりしながら傷つきながら彷徨い、最後に火星からきたスターマンに拾い上げられ天に昇っていく**」といった[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")となっている。"[天使](../Page/天使.md "wikilink")と[悪魔](../Page/悪魔.md "wikilink")"もキーワードとなっており、歌詞に幾度も登場する\[1\]。また本作のレコーディング中に[湾岸戦争](../Page/湾岸戦争.md "wikilink")が勃発（[国際連合](../Page/国際連合.md "wikilink")が[イギリス軍](../Page/イギリス軍.md "wikilink")を含めた[多国籍軍](../Page/多国籍軍.md "wikilink")を[イラク](../Page/イラク.md "wikilink")へと派遣）しており、このことが一部の楽曲に影響を及ぼしている。\[2\]
 
-本作の「SLOW MOTION」より[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")が初めて布袋に詞を提供しており、これを機に森は以後布袋作品の作詞を数多く手掛けることになる。
+本作の「SLOW MOTION」より[森雪之丞](../Page/森雪之丞.md "wikilink")が初めて布袋に詞を提供しており、これを機に森は以後布袋作品の作詞を数多く手掛けることになる。
 
-後年テレビ番組上で[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")と対談した際には、『[I](../Page/GUITARHYTHM.md "wikilink")』『II』『[III](https://ja.wikipedia.org/wiki/GUITARHYTHM_III "wikilink")』を聴き比べたボウイに「IとIIの違いは大きい。スタイル的にかなり大きく変わった。Iはずっと原始的だったけど、IIは使っている[コードも違うし](../Page/和音.md "wikilink")、曲の作りがものすごく変わった」と評されている。これに対し布袋は「一番大きな理由はバンドを組んだこと（ライブのサポートメンバーを固定した）。Iは僕がギターとコンピューターだけで作ったものだけど、このアルバムでは色んなミュージシャンに参加してもらったから」と語っている。\[3\]
+後年テレビ番組上で[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")と対談した際には、『[I](../Page/GUITARHYTHM.md "wikilink")』『II』『[III](../Page/GUITARHYTHM_III.md "wikilink")』を聴き比べたボウイに「IとIIの違いは大きい。スタイル的にかなり大きく変わった。Iはずっと原始的だったけど、IIは使っている[コードも違うし](../Page/和音.md "wikilink")、曲の作りがものすごく変わった」と評されている。これに対し布袋は「一番大きな理由はバンドを組んだこと（ライブのサポートメンバーを固定した）。Iは僕がギターとコンピューターだけで作ったものだけど、このアルバムでは色んなミュージシャンに参加してもらったから」と語っている。\[3\]
 
 またインタビューでは「このアルバムを完成させたことで、今後自分だけでやっていくことに対して自信がついた。ギター弾きだからいつも誰かとセッションできるスタンスでいたかったけど、もう人とやっていくつもりはないかな」とソロ活動への自信と意欲を語っている。
 
@@ -23,17 +23,17 @@
 
 ## 録音
 
-[発電所](../Page/発電所.md "wikilink")を改築したという[ロンドン](../Page/ロンドン.md "wikilink")の[メトロポリス・スタジオにてレコーディングされた](https://ja.wikipedia.org/wiki/w:Metropolis_Group "wikilink")。このスタジオは後の作品でも度々レコーディングに使用されている。余談だが、本作の[レコーディングスタジオの候補として](https://ja.wikipedia.org/wiki/録音スタジオ "wikilink")[デイヴ・スチュワートが所有するチャーチ](https://ja.wikipedia.org/wiki/デイヴ・スチュワート_\(ギタリスト\) "wikilink")・スタジオも挙がっていた\[7\]
+[発電所](../Page/発電所.md "wikilink")を改築したという[ロンドン](../Page/ロンドン.md "wikilink")の[メトロポリス・スタジオにてレコーディングされた](https://ja.wikipedia.org/wiki/w:Metropolis_Group "wikilink")。このスタジオは後の作品でも度々レコーディングに使用されている。余談だが、本作の[レコーディングスタジオの候補として](../Page/録音スタジオ.md "wikilink")[デイヴ・スチュワートが所有するチャーチ](../Page/デイヴ・スチュワート_\(ギタリスト\).md "wikilink")・スタジオも挙がっていた\[7\]
 
 [湾岸戦争](../Page/湾岸戦争.md "wikilink")の影響により一時帰国した関係で、一部の作業は都内のスタジオで行われた。
 
-主な機材は[ソルダーノ](../Page/ソルダーノ.md "wikilink")の[プリアンプ](https://ja.wikipedia.org/wiki/アンプ_\(楽器用\)#エレクトリックギター用 "wikilink")「X-88R」、[VHT](https://ja.wikipedia.org/wiki/VHT "wikilink")の「2150[パワーアンプ](https://ja.wikipedia.org/wiki/アンプ_\(楽器用\)#エレクトリックギター用 "wikilink")」、[マーシャル](https://ja.wikipedia.org/wiki/マーシャル "wikilink")の[スピーカー・キャビネットといったラインナップである](https://ja.wikipedia.org/wiki/アンプ_\(楽器用\)#キャビネット "wikilink")。\[8\]
+主な機材は[ソルダーノ](../Page/ソルダーノ.md "wikilink")の[プリアンプ](https://ja.wikipedia.org/wiki/アンプ_\(楽器用\)#エレクトリックギター用 "wikilink")「X-88R」、[VHT](https://ja.wikipedia.org/wiki/VHT "wikilink")の「2150[パワーアンプ](https://ja.wikipedia.org/wiki/アンプ_\(楽器用\)#エレクトリックギター用 "wikilink")」、[マーシャル](../Page/マーシャル.md "wikilink")の[スピーカー・キャビネットといったラインナップである](https://ja.wikipedia.org/wiki/アンプ_\(楽器用\)#キャビネット "wikilink")。\[8\]
 
 ## リリース
 
 1991年8月30日に5000枚限定で4枚組[LPレコード盤が](../Page/レコード.md "wikilink")[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")より一ヶ月先行リリースされている。
 
-その後、[1991年](../Page/1991年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[東芝EMIのイーストワールドレーベルよりコンパクトディスク](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")2枚組、カセットテープ2本組の2形態でリリースされた。
+その後、[1991年](../Page/1991年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[東芝EMIのイーストワールドレーベルよりコンパクトディスク](../Page/EMIミュージック・ジャパン.md "wikilink")2枚組、カセットテープ2本組の2形態でリリースされた。
 
 初回版はベルベットボックス仕様、ピクチャーCDとなっている。また、購入時にくじ引きによってロゴマーク入りのメモ用紙やファイルケースなどが配布されていた。
 
@@ -47,9 +47,9 @@
 
 本作の発売前、1991年[8月6日](../Page/8月6日.md "wikilink")に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")のムーンサルト・スクランブル前において、『**GUITARHYTHM REPRISE**』と題された野外ライブを開催。あいにくの雨に見舞われたが、『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』収録曲や[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代の曲、ゲストボーカルに妻（当時）の[山下久美子](../Page/山下久美子.md "wikilink")を迎えての曲のほか、本作からも数曲が先行して演奏された。
 
-本作を受けてのツアーは、『**GUITARHYTHM ACTIVE FLY INTO YOUR DREAM**』と題し、1991年[9月30日](../Page/9月30日.md "wikilink")の[群馬県民会館](../Page/群馬県民会館.md "wikilink")を皮切りに、23都市全33公演が行われている。[12月2日](../Page/12月2日.md "wikilink")には海外公演として[ロンドン](../Page/ロンドン.md "wikilink")にある[TOWN\&COUNTRY CLUBでの公演も行っており](https://ja.wikipedia.org/wiki/w:The_Forum,_London "wikilink")\[9\]、ツアーファイナルには[日本武道館](../Page/日本武道館.md "wikilink")公演4DAYSを実現。後にこのツアーの模様がライブ・アルバム『[GUITARHYTHM active tour '91-'92](https://ja.wikipedia.org/wiki/GUITARHYTHM_active_tour_'91-'92 "wikilink")』（1992年）と、ライブ・ビデオ『GUITARHYTHM active tour '91-'92』（1992年）としてリリースされている。
+本作を受けてのツアーは、『**GUITARHYTHM ACTIVE FLY INTO YOUR DREAM**』と題し、1991年[9月30日](../Page/9月30日.md "wikilink")の[群馬県民会館](../Page/群馬県民会館.md "wikilink")を皮切りに、23都市全33公演が行われている。[12月2日](../Page/12月2日.md "wikilink")には海外公演として[ロンドン](../Page/ロンドン.md "wikilink")にある[TOWN\&COUNTRY CLUBでの公演も行っており](https://ja.wikipedia.org/wiki/w:The_Forum,_London "wikilink")\[9\]、ツアーファイナルには[日本武道館](../Page/日本武道館.md "wikilink")公演4DAYSを実現。後にこのツアーの模様がライブ・アルバム『[GUITARHYTHM active tour '91-'92](../Page/GUITARHYTHM_active_tour_'91-'92.md "wikilink")』（1992年）と、ライブ・ビデオ『GUITARHYTHM active tour '91-'92』（1992年）としてリリースされている。
 
-布袋の実妹である狩野環がボーカルを務める[ガラパゴスが](https://ja.wikipedia.org/wiki/ガラパゴス_\(バンド\) "wikilink")[オープニングアクトとしてツアーに帯同した](https://ja.wikipedia.org/wiki/前座 "wikilink")。なお、前述の『GUITARHYTHM REPRISE』において、狩野はコーラスで参加している。
+布袋の実妹である狩野環がボーカルを務める[ガラパゴスが](../Page/ガラパゴス_\(バンド\).md "wikilink")[オープニングアクトとしてツアーに帯同した](https://ja.wikipedia.org/wiki/前座 "wikilink")。なお、前述の『GUITARHYTHM REPRISE』において、狩野はコーラスで参加している。
 
 『GUITARHYTHM REPRISE』でサポートを務めた[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")、[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")は以後バンドメンバーとして固定され、[1994年](../Page/1994年.md "wikilink")の『GUITARHYTHM SERIOUS\! CLIMAX ARENA TOUR』まで同行していくことになる\[10\]。 余談だが、成田は布袋がBOØWY時代後期に使用したオリジナルギター「MV-95HT」の[アーム搭載モデルをツアーで使用した](../Page/アーミング.md "wikilink")。
 
@@ -83,12 +83,12 @@
       -
         イントロが「BEAT EMOTION」のアウトロと繋がっている。レコーディングでも2曲通しで[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")録りされた。同時に布袋曰く「気持ちの中では前の曲とつながっている」。\[15\]
         後に自身のアイテムとして定着する[サスティナー搭載ギターを](https://ja.wikipedia.org/wiki/サスティン#エレクトリック・ギター "wikilink")、この楽曲で初めて使用している。
-        当初、間奏の[ドラムループの](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")[フィルイン](https://ja.wikipedia.org/wiki/フィルイン "wikilink")についてプログラマーの[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")は「もっといいパターンあるけどなぁ」と懐疑的だったが、布袋はサスティナーを活かす[ユニゾン](https://ja.wikipedia.org/wiki/ユニゾン "wikilink")にする為にこのフィルを選んでおり、ギターソロが乗った結果、藤井も大いに納得したという。\[16\]
+        当初、間奏の[ドラムループの](../Page/ミュージックシーケンサー.md "wikilink")[フィルイン](https://ja.wikipedia.org/wiki/フィルイン "wikilink")についてプログラマーの[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")は「もっといいパターンあるけどなぁ」と懐疑的だったが、布袋はサスティナーを活かす[ユニゾン](https://ja.wikipedia.org/wiki/ユニゾン "wikilink")にする為にこのフィルを選んでおり、ギターソロが乗った結果、藤井も大いに納得したという。\[16\]
 4.  **SLOW MOTION**
       -
         [幽体離脱](https://ja.wikipedia.org/wiki/幽体離脱 "wikilink")をテーマにした楽曲。布袋曰く「現実からストーリーが始まって、この曲から夢の世界に入る」。\[17\]
         [ロキシー・ミュージック](../Page/ロキシー・ミュージック.md "wikilink")の[アンディ・マッケイ](https://ja.wikipedia.org/wiki/アンディ・マッケイ "wikilink")が[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")で参加。
-        [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")のアルバム『天使のいた惑星』に別バージョンが収録されている。
+        [森雪之丞](../Page/森雪之丞.md "wikilink")のアルバム『天使のいた惑星』に別バージョンが収録されている。
 5.  **SPHINX**
       -
         「スフィンクスが歩いている夢を見た」というエピソードから作られた楽曲。\[18\]
@@ -109,10 +109,10 @@
       -
         前曲「DEVIL'S SUGAR」で「悪魔が自分の中に入ってきちゃって、脳と一緒になってすごくクレイジーな自分になっちゃう」というストーリーとなっている。\[23\]
         「とにかく脈絡のない歌詞にしたかった。全部裏腹にしようって森さんと話し合った。特に曲がすごくシンプルなロックンロールなんで、逆にシンプルな詞をのっけたくないなと思ってた」とのこと。\[24\]
-        ソロは自身初の[ボトルネックによるものであり](https://ja.wikipedia.org/wiki/スライドギター "wikilink")、レコーディングでは何十回も録ったと語っている。\[25\]
+        ソロは自身初の[ボトルネックによるものであり](../Page/スライドギター.md "wikilink")、レコーディングでは何十回も録ったと語っている。\[25\]
 10. **ANGEL WALTZ**
       -
-        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代に作られた楽曲だが、バンドのイメージに合わないことから長年お蔵入りしていた。\[26\] BOØWYのアルバム『[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOOWYのアルバム\) "wikilink")』用だった。
+        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代に作られた楽曲だが、バンドのイメージに合わないことから長年お蔵入りしていた。\[26\] BOØWYのアルバム『[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")』用だった。
         作曲された当時は「マコトの[ワルツ](../Page/ワルツ.md "wikilink")」という仮タイトルで、[アヴァンギャルドなテイストだった](https://ja.wikipedia.org/wiki/前衛音楽 "wikilink")。\[27\]
 11. **[YOU](https://ja.wikipedia.org/wiki/YOU_\(布袋寅泰の曲\) "wikilink")**
       -
@@ -120,7 +120,7 @@
         「森さんのロマンティシズムと俺のロマンティシズムをバンっと並べてみたくて、意識的に「ANGEL WALTZ」の次に入れた」とのこと。\[28\]
 12. **GUITAR LOVES YOU**
       -
-        布袋の[父親](https://ja.wikipedia.org/wiki/父親 "wikilink")が生前最も愛したとされる楽曲\[29\]。
+        布袋の[父親](../Page/父親.md "wikilink")が生前最も愛したとされる楽曲\[29\]。
         真夜中のスタジオにて一人きりで作曲した為、当初「午前2時のなんとか」というタイトルにしようと考えたが、「これを弾かせてくれたのはギターだな」と思いこのタイトルとなった。\[30\]
         デジタルリマスタリング盤からは曲終わりの無音時間が4秒ほど長くなっている。
 
@@ -138,10 +138,10 @@
         コーラス部分を除くと歌詞が短く、ブックレットには一行で記載されている。
 3.  **LIBIDO**
       -
-        デモテープの段階ではもっと洗練された[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")だったとのことだが、ドラムの[山木秀夫](../Page/山木秀夫.md "wikilink")がレコーディングで燃えた結果、完成形はまったく違うものとなった。\[34\]
+        デモテープの段階ではもっと洗練された[ファンク](../Page/ファンク.md "wikilink")だったとのことだが、ドラムの[山木秀夫](../Page/山木秀夫.md "wikilink")がレコーディングで燃えた結果、完成形はまったく違うものとなった。\[34\]
 4.  **FLY INTO YOUR DREAM**
       -
-        「真夜中に目の前で猫が車に轢かれて、海へ[水葬](https://ja.wikipedia.org/wiki/水葬 "wikilink")しに行った」というエピソードが[詞](https://ja.wikipedia.org/wiki/詞 "wikilink")の[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")になっている。
+        「真夜中に目の前で猫が車に轢かれて、海へ[水葬](../Page/水葬.md "wikilink")しに行った」というエピソードが[詞](../Page/詞.md "wikilink")の[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")になっている。
         4thシングルにはカップリング曲としてライブ音源が収録されている。
 5.  **WONDERLAND**
       -
@@ -154,7 +154,7 @@
 7.  **MERRY-GO-ROUND**
       -
         前曲から間を置かずに始まる。「(前曲まで)旅をしてた魂が、現実の遊園地に戻ってくる。人生はメリーゴーラウンド」というストーリー。\[37\]
-        [イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")に入っている「[幸せの黄色いリボン](../Page/幸せの黄色いリボン.md "wikilink")」は、休日に藤井丈司が[DAT](../Page/DAT.md "wikilink")を持って[コヴェント・ガーデン](https://ja.wikipedia.org/wiki/コヴェント・ガーデン "wikilink")に行き、そこの人形館で録ってきたもの。「スタジオだけの密室的なものにならないようにと思って」とのこと。\[38\]なお、後に発売されたベストアルバム「[GUITARHYTHM FOREVER Vol.1](../Page/GUITARHYTHM_FOREVER_Vol.1.md "wikilink")」にはこの部分がカットされたアレンジで収録されている。
+        [イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")に入っている「[幸せの黄色いリボン](../Page/幸せの黄色いリボン.md "wikilink")」は、休日に藤井丈司が[DAT](../Page/DAT.md "wikilink")を持って[コヴェント・ガーデン](../Page/コヴェント・ガーデン.md "wikilink")に行き、そこの人形館で録ってきたもの。「スタジオだけの密室的なものにならないようにと思って」とのこと。\[38\]なお、後に発売されたベストアルバム「[GUITARHYTHM FOREVER Vol.1](../Page/GUITARHYTHM_FOREVER_Vol.1.md "wikilink")」にはこの部分がカットされたアレンジで収録されている。
 8.  **TELEPHONE CALL**
       -
         ギターソロの半分は[サンプリング](../Page/サンプリング.md "wikilink")で構築されている。また藤井丈司のアイディアで、注意深く聴くと数種類の[スネアドラム](../Page/スネアドラム.md "wikilink")がサンプリングされている。\[39\]
@@ -197,7 +197,7 @@
 
   - 布袋寅泰 - [GUITAR](../Page/エレクトリック・ギター.md "wikilink"), [VOCAL](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), CHORUS
   - [浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink") - [BASS](../Page/エレクトリックベース.md "wikilink")
-  - [藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink") - [PROGRAMMING](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - [藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink") - [PROGRAMMING](../Page/ミュージックシーケンサー.md "wikilink")
 
 **PRISONER**
 
@@ -226,7 +226,7 @@
 
   - 布袋寅泰 - [ACOUSTIC GUITAR](../Page/アコースティック・ギター.md "wikilink"), [SITAR GUITAR](../Page/シタール.md "wikilink"), [SYNTH MARINBA](../Page/シンセサイザー.md "wikilink"), VOCAL, CHORUS
   - 山木秀夫 - DRUMS
-  - 浅田孟 - [FRETLESS BASS](https://ja.wikipedia.org/wiki/フレットレスベース "wikilink")
+  - 浅田孟 - [FRETLESS BASS](../Page/フレットレスベース.md "wikilink")
   - 藤井丈司 - PROGRAMMING
 
 **DEVIL'S SUGAR**
@@ -247,7 +247,7 @@
   - 布袋寅泰 - VOCAL
   - 山木秀夫 - DRUMS
   - 藤井丈司 - PROGRAMMING
-  - [門倉聡](https://ja.wikipedia.org/wiki/門倉聡 "wikilink") - [UPRIGHT PIANO](../Page/ピアノ.md "wikilink"), [SYNTH WOOD BASS](../Page/シンセサイザー.md "wikilink")
+  - [門倉聡](../Page/門倉聡.md "wikilink") - [UPRIGHT PIANO](../Page/ピアノ.md "wikilink"), [SYNTH WOOD BASS](../Page/シンセサイザー.md "wikilink")
 
 **YOU**
 
@@ -294,11 +294,11 @@
 
   - GUITARHYTHM II PHILHARMONIC - [ORCHESTRA](../Page/オーケストラ.md "wikilink")
       - NIELS WALEM - [CONDUCTED](../Page/指揮者.md "wikilink")
-      - GAVYN WRIGHT - [LEADER](https://ja.wikipedia.org/wiki/コンサートマスター "wikilink")
+      - GAVYN WRIGHT - [LEADER](../Page/コンサートマスター.md "wikilink")
 
 **METROPOLIS**
 
-  - 布袋寅泰 - GUITAR, [ELECTRIC GUT GUITAR](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")
+  - 布袋寅泰 - GUITAR, [ELECTRIC GUT GUITAR](../Page/クラシック・ギター.md "wikilink")
   - 藤井丈司 - PROGRAMMING
 
 **MERRY-GO-ROUND**
@@ -341,16 +341,16 @@
 
   - **布袋寅泰** - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
   - **藤井丈司** - コ・プロデューサー
-  - **マイケル・ツィマリング** - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")（「WONDERLAND」以外）、ミキシング・エンジニア（「GUITAR LOVES YOU」以外）
+  - **マイケル・ツィマリング** - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")（「WONDERLAND」以外）、ミキシング・エンジニア（「GUITAR LOVES YOU」以外）
   - **MIKE ROSS-TREVOR** - レコーディング・エンジニア（「WONDERLAND」のみ） 、ミキシング・エンジニア（「WONDERLAND」のみ）
   - **HEIDI CANNAVO** - ミキシング・エンジニア（「GUITAR LOVES YOU」のみ）、アシスタント・エンジニア
   - **伊藤康宏** - アシスタント・エンジニア
-  - **DENIS BLACKHAM** - [マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+  - **DENIS BLACKHAM** - [マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")
   - **関口みつのぶ (TOY BOX PUBLISHERS)** - A\&Rディレクター
   - **広瀬哲（東芝EMI）** - A\&Rディレクター
   - **[糟谷銑司](https://ja.wikipedia.org/wiki/糟谷銑司 "wikilink") (TOY BOX PUBLISHER)** - エグゼクティブ・プロデューサー
   - **[石坂敬一](../Page/石坂敬一.md "wikilink")（東芝EMI）** - エグゼクティブ・プロデューサー
-  - **[下河辺晴三](https://ja.wikipedia.org/wiki/下河辺晴三 "wikilink")（東芝EMI）** - エグゼクティブ・プロデューサー
+  - **[下河辺晴三](../Page/下河辺晴三.md "wikilink")（東芝EMI）** - エグゼクティブ・プロデューサー
   - **永石勝** - アート・ディレクション、デザイン 、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")
   - **園木和彦** - 写真撮影
   - **TOSHIAKI UESUGI** - デザイン
@@ -360,8 +360,8 @@
   - **HIROYUKI HAYASHI** - コンピュータグラフィックス
   - **ERIKO HIGUCHI** - スタイリスト　
   - **SHOKO KAWANO** - ヘアー、メイク
-  - **[前田真宏](https://ja.wikipedia.org/wiki/前田真宏_\(アニメ監督\) "wikilink")** - イラストレーション
-  - **[草彅琢仁](https://ja.wikipedia.org/wiki/草なぎ琢仁 "wikilink")** - イラストレーション
+  - **[前田真宏](../Page/前田真宏_\(アニメ監督\).md "wikilink")** - イラストレーション
+  - **[草彅琢仁](../Page/草なぎ琢仁.md "wikilink")** - イラストレーション
   - **菊地正典** - イラストレーション
   - **[武重洋二](https://ja.wikipedia.org/wiki/武重洋二 "wikilink")** - イラストレーション
 
@@ -374,7 +374,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -383,7 +383,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a></p></td>
 <td><p>TOJT-6280〜3</p></td>
 <td><p>80位</p></td>
@@ -407,7 +407,7 @@ TOTT-6280〜1</p></td>
 <td><p>CD</p></td>
 <td><p>AJCH-30002〜3</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスタリング盤</a></p></td>
+<td><p><a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスタリング盤</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -416,7 +416,7 @@ TOTT-6280〜1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
 <td><p>TOCT-95002〜3</p></td>
 <td><p>52位</p></td>
-<td><p>2000年<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスタリング盤</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a>、『<a href="https://ja.wikipedia.org/wiki/GUITARHYTHM_BOX" title="wikilink">GUITARHYTHM BOX</a>』でのリリース</p></td>
+<td><p>2000年<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスタリング盤</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a>、『<a href="https://ja.wikipedia.org/wiki/GUITARHYTHM_BOX" title="wikilink">GUITARHYTHM BOX</a>』でのリリース</p></td>
 </tr>
 </tbody>
 </table>

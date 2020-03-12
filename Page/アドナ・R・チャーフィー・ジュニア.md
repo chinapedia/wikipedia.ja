@@ -1,11 +1,11 @@
 > この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
 
 
-**アドナ・ロマンザ・チャーフィー・ジュニア**(**Adna Romanza Chaffee, Jr.**, [1884年](../Page/1884年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[8月22日](../Page/8月22日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の軍人。[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")における機甲戦力の発展に尽力し、「機甲部隊の父」と呼ばれた。
+**アドナ・ロマンザ・チャーフィー・ジュニア**(**Adna Romanza Chaffee, Jr.**, [1884年](../Page/1884年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[8月22日](../Page/8月22日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の軍人。[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")における機甲戦力の発展に尽力し、「機甲部隊の父」と呼ばれた。
 
 ## 経歴
 
-アドナ・チャーフィー・ジュニアはアドナ・ロマンザ・チャーフィー・シニア中将の息子として[カンザス州](../Page/カンザス州.md "wikilink")ジャンクション・シティで1884年9月23日に生まれた。彼は1906年に[騎兵](https://ja.wikipedia.org/wiki/騎兵 "wikilink")[中尉](../Page/中尉.md "wikilink")に任官し、「陸軍で最も優秀な騎手」としての名声を得た。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")が勃発すると彼は[歩兵](../Page/歩兵.md "wikilink")[少佐](https://ja.wikipedia.org/wiki/少佐 "wikilink")として第IV軍団に所属し、[サン・ミヘルの戦い](https://ja.wikipedia.org/wiki/サン・ミヘルの戦い "wikilink")に参加した。その後[大佐](../Page/大佐.md "wikilink")に昇進し、第III軍団に所属し[ムーズ＝アルゴンヌの戦い](https://ja.wikipedia.org/wiki/ムーズ＝アルゴンヌの戦い "wikilink")に参加した。
+アドナ・チャーフィー・ジュニアはアドナ・ロマンザ・チャーフィー・シニア中将の息子として[カンザス州](../Page/カンザス州.md "wikilink")ジャンクション・シティで1884年9月23日に生まれた。彼は1906年に[騎兵](../Page/騎兵.md "wikilink")[中尉](../Page/中尉.md "wikilink")に任官し、「陸軍で最も優秀な騎手」としての名声を得た。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")が勃発すると彼は[歩兵](../Page/歩兵.md "wikilink")[少佐](../Page/少佐.md "wikilink")として第IV軍団に所属し、[サン・ミヘルの戦い](https://ja.wikipedia.org/wiki/サン・ミヘルの戦い "wikilink")に参加した。その後[大佐](../Page/大佐.md "wikilink")に昇進し、第III軍団に所属し[ムーズ＝アルゴンヌの戦い](https://ja.wikipedia.org/wiki/ムーズ＝アルゴンヌの戦い "wikilink")に参加した。
 
 戦後彼は平時軍の騎兵[大尉](../Page/大尉.md "wikilink")に戻り、フォート・レヴェンワースの参謀学校および陸軍学校の教官となる。1920年代に彼は将来の機甲戦力構想の開発を支援した。彼は1927年に機械化された軍隊が次の戦争を支配すると予言し、アメリカ陸軍における最初の機甲部隊の開発プログラムを支援した。1931年には第1騎兵師団に配属され、機甲部隊の開発と実験を継続した。そのことにより彼はアメリカ軍における機甲戦の主要な提唱者となった。
 
@@ -15,7 +15,7 @@
 
 ## 関連項目
 
-  - [M24軽戦車](https://ja.wikipedia.org/wiki/M24軽戦車 "wikilink") - 愛称の「チャーフィー」は彼にちなんでつけられた。
+  - [M24軽戦車](../Page/M24軽戦車.md "wikilink") - 愛称の「チャーフィー」は彼にちなんでつけられた。
 
 <!-- end list -->
 
@@ -23,11 +23,11 @@
 
 <!-- end list -->
 
-  - [ジョージ・パットン](https://ja.wikipedia.org/wiki/ジョージ・パットン "wikilink")
+  - [ジョージ・パットン](../Page/ジョージ・パットン.md "wikilink")
   - [ハインツ・グデーリアン](../Page/ハインツ・グデーリアン.md "wikilink")
   - [ジョン・フレデリック・チャールズ・フラー](../Page/ジョン・フレデリック・チャールズ・フラー.md "wikilink")
-  - [ベイジル・リデル＝ハート](https://ja.wikipedia.org/wiki/ベイジル・リデル＝ハート "wikilink")
-  - [シャルル・ド・ゴール](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール "wikilink")
+  - [ベイジル・リデル＝ハート](../Page/ベイジル・リデル＝ハート.md "wikilink")
+  - [シャルル・ド・ゴール](../Page/シャルル・ド・ゴール.md "wikilink")
 
 ## 外部リンク
 

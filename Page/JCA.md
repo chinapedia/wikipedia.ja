@@ -10,12 +10,12 @@
   - [全日本合唱連盟](https://ja.wikipedia.org/wiki/全日本合唱連盟 "wikilink")（Japan Choral Association）\[5\]
   - 財団法人[日本消費者協会](https://ja.wikipedia.org/wiki/日本消費者協会 "wikilink")（Japan Consumers' Association）\[6\]
   - 社団法人[日本缶詰協会](https://ja.wikipedia.org/wiki/日本缶詰協会 "wikilink")（Japan Canners Association）\[7\]
-  - [日本チェス協会](https://ja.wikipedia.org/wiki/日本チェス協会 "wikilink")（Japan Chess Association）\[8\]
+  - [日本チェス協会](../Page/日本チェス協会.md "wikilink")（Japan Chess Association）\[8\]
   - 社団法人[日本食鳥協会](https://ja.wikipedia.org/wiki/日本食鳥協会 "wikilink")（Japan Chicken Association）\[9\]
   - 特定非営利活動法人[日本冠疾患学会](https://ja.wikipedia.org/wiki/日本冠疾患学会 "wikilink")（Japan Coronary Association）\[10\]
   - 特定非営利活動法人[日本愛犬協議会](https://ja.wikipedia.org/wiki/日本愛犬協議会 "wikilink")（Japan Canine Association）\[11\]
   - 社団法人[セメント協会](https://ja.wikipedia.org/wiki/セメント協会 "wikilink")（Japan Cement Association）\[12\]
-  - 社団法人[日本カーリング協会](https://ja.wikipedia.org/wiki/日本カーリング協会 "wikilink")（Japan Carling Association）
+  - 社団法人[日本カーリング協会](../Page/日本カーリング協会.md "wikilink")（Japan Carling Association）
   - [日本チェーンストア協会](https://ja.wikipedia.org/wiki/日本チェーンストア協会 "wikilink")（Japan Chain Stores Association）\[13\]
       - [JCA手順](https://ja.wikipedia.org/wiki/JCA手順 "wikilink") - 日本チェーンストア協会が開発し、1980年に制定したチェーンストアの本部と取引先との通信制御手順。
   - 特定非営利活動法人[日本コーチ協会](https://ja.wikipedia.org/wiki/日本コーチ協会 "wikilink")（Japan Coach Association）\[14\]

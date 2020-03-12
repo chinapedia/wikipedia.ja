@@ -1,11 +1,11 @@
 > この記事は[IZAM](https://ja.wikipedia.org/wiki/IZAM)から翻訳されています。
 
 
-**IZAM**（イザム、[1972年](../Page/1972年.md "wikilink")（[1976年](../Page/1976年.md "wikilink")\[1\]）[4月23日](../Page/4月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。本名は**日根 良和**（ひね よしかず）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[府中市出身](../Page/府中市_\(東京都\).md "wikilink")。血液型はO型。[東京都立松が谷高等学校](https://ja.wikipedia.org/wiki/東京都立松が谷高等学校 "wikilink")卒業。[ベニバラ兎団](https://ja.wikipedia.org/wiki/ベニバラ兎団 "wikilink")主宰。[日本芸術専門学校](https://ja.wikipedia.org/wiki/日本芸術専門学校 "wikilink")特別講師。妻は[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[吉岡美穂](../Page/吉岡美穂.md "wikilink")。父は元[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[日根紘三](../Page/日根紘三.md "wikilink")。
+**IZAM**（イザム、[1972年](../Page/1972年.md "wikilink")（[1976年](../Page/1976年.md "wikilink")\[1\]）[4月23日](../Page/4月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。本名は**日根 良和**（ひね よしかず）。[東京都](../Page/東京都.md "wikilink")[府中市出身](../Page/府中市_\(東京都\).md "wikilink")。血液型はO型。[東京都立松が谷高等学校](../Page/東京都立松が谷高等学校.md "wikilink")卒業。[ベニバラ兎団](https://ja.wikipedia.org/wiki/ベニバラ兎団 "wikilink")主宰。[日本芸術専門学校](https://ja.wikipedia.org/wiki/日本芸術専門学校 "wikilink")特別講師。妻は[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[吉岡美穂](../Page/吉岡美穂.md "wikilink")。父は元[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[日根紘三](../Page/日根紘三.md "wikilink")。
 
 ## 経歴
 
-父は元[国鉄スワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[投手](../Page/投手.md "wikilink")の[日根紘三](../Page/日根紘三.md "wikilink")（ひね こうぞう）。[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")』の[MC時期には](https://ja.wikipedia.org/wiki/司会 "wikilink")、[紡木たく](../Page/紡木たく.md "wikilink")の漫画『[ホットロード](https://ja.wikipedia.org/wiki/ホットロード "wikilink")』の影響でバイクに乗ったり、[ガンプラ](https://ja.wikipedia.org/wiki/ガンプラ "wikilink")の中で特に[GMを](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")16体も作った少年時代を語っている。
+父は元[国鉄スワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[投手](../Page/投手.md "wikilink")の[日根紘三](../Page/日根紘三.md "wikilink")（ひね こうぞう）。[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")』の[MC時期には](../Page/司会.md "wikilink")、[紡木たく](../Page/紡木たく.md "wikilink")の漫画『[ホットロード](https://ja.wikipedia.org/wiki/ホットロード "wikilink")』の影響でバイクに乗ったり、[ガンプラ](../Page/ガンプラ.md "wikilink")の中で特に[GMを](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")16体も作った少年時代を語っている。
 
 中学・[高校時代は](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[バレーボール](../Page/バレーボール.md "wikilink")部に所属し、中学時代はキャプテンを務めた。
 
@@ -31,29 +31,29 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 
 [1999年](../Page/1999年.md "wikilink")2月、[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")と結婚するが、同年9月に離婚。
 
-[1999年](../Page/1999年.md "wikilink")4月に『[saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")』のMCに就任。その際に予算がない旨を言い渡され、せめて人形と司会をさせてくれと懇願したことから「フトモモ」が誕生し、後の[増田ジゴロウ](https://ja.wikipedia.org/wiki/増田ジゴロウ "wikilink")や[白井ヴィンセント](https://ja.wikipedia.org/wiki/白井ヴィンセント "wikilink")誕生の布石となる。また同番組は1週間分を一度に収録したが、曜日ごとに衣装を替えたのは歴代MCで彼だけである。
+[1999年](../Page/1999年.md "wikilink")4月に『[saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")』のMCに就任。その際に予算がない旨を言い渡され、せめて人形と司会をさせてくれと懇願したことから「フトモモ」が誕生し、後の[増田ジゴロウ](../Page/増田ジゴロウ.md "wikilink")や[白井ヴィンセント](https://ja.wikipedia.org/wiki/白井ヴィンセント "wikilink")誕生の布石となる。また同番組は1週間分を一度に収録したが、曜日ごとに衣装を替えたのは歴代MCで彼だけである。
 
-[2000年](../Page/2000年.md "wikilink")10月にバンド活動を休止してからはソロ・アーティストとして活動する一方、[堤幸彦](../Page/堤幸彦.md "wikilink")監督の[映画](../Page/映画.md "wikilink")『[チャイニーズ・ディナー](https://ja.wikipedia.org/wiki/チャイニーズ・ディナー "wikilink")』（2001年）『溺れる魚』（2001年）に[俳優](../Page/俳優.md "wikilink")として出演、[2002年](../Page/2002年.md "wikilink")には初の執筆[小説](../Page/小説.md "wikilink")『[ミラー・ボーイ](https://ja.wikipedia.org/wiki/ミラー・ボーイ "wikilink")』を出版するなど、他分野にも活動を広げる。[2001年](../Page/2001年.md "wikilink")に[日本映画批評家大賞](../Page/日本映画批評家大賞.md "wikilink")新人賞を受賞した。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[(秘)ひらめ筋](https://ja.wikipedia.org/wiki/\(秘\)ひらめ筋 "wikilink")』で[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")出場を目指して[スケルトンに一から挑戦し](https://ja.wikipedia.org/wiki/スケルトン_\(スポーツ\) "wikilink")、[競輪学校で特訓を受けるなどした](https://ja.wikipedia.org/wiki/日本競輪学校 "wikilink")。
+[2000年](../Page/2000年.md "wikilink")10月にバンド活動を休止してからはソロ・アーティストとして活動する一方、[堤幸彦](../Page/堤幸彦.md "wikilink")監督の[映画](../Page/映画.md "wikilink")『[チャイニーズ・ディナー](https://ja.wikipedia.org/wiki/チャイニーズ・ディナー "wikilink")』（2001年）『溺れる魚』（2001年）に[俳優](../Page/俳優.md "wikilink")として出演、[2002年](../Page/2002年.md "wikilink")には初の執筆[小説](../Page/小説.md "wikilink")『[ミラー・ボーイ](https://ja.wikipedia.org/wiki/ミラー・ボーイ "wikilink")』を出版するなど、他分野にも活動を広げる。[2001年](../Page/2001年.md "wikilink")に[日本映画批評家大賞](../Page/日本映画批評家大賞.md "wikilink")新人賞を受賞した。[2005年](../Page/2005年.md "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[(秘)ひらめ筋](../Page/\(秘\)ひらめ筋.md "wikilink")』で[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")出場を目指して[スケルトンに一から挑戦し](../Page/スケルトン_\(スポーツ\).md "wikilink")、[競輪学校で特訓を受けるなどした](https://ja.wikipedia.org/wiki/日本競輪学校 "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月、SHAZNAがメジャーデビュー10周年を翌年に控え6年ぶりの活動再開を発表。同年9月5日の[DUO MUSIC EXCHANGEで復活ライブを行う](https://ja.wikipedia.org/wiki/Shibuya_O-EAST#DUO_MUSIC_EXCHANGE "wikilink")。[2007年](../Page/2007年.md "wikilink")4月にはニュー・シングル『心』が発売される。IZAMはそのトレードマークであった[女装](../Page/女装.md "wikilink")の封印を決断した。
+[2006年](../Page/2006年.md "wikilink")6月、SHAZNAがメジャーデビュー10周年を翌年に控え6年ぶりの活動再開を発表。同年9月5日の[DUO MUSIC EXCHANGEで復活ライブを行う](https://ja.wikipedia.org/wiki/Shibuya_O-EAST#DUO_MUSIC_EXCHANGE "wikilink")。[2007年](../Page/2007年.md "wikilink")4月にはニュー・シングル『心』が発売される。IZAMはそのトレードマークであった[女装](../Page/女装.md "wikilink")の封印を決断した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月9日、タレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")と再婚。この時、吉岡は妊娠3か月だった。
+[2006年](../Page/2006年.md "wikilink")11月9日、タレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")と再婚。この時、吉岡は妊娠3か月だった。
 
 [2007年](../Page/2007年.md "wikilink")4月17日、第一子となる男児「桜深（おうみ）」が誕生。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月5日、自身の[ブログ](../Page/ブログ.md "wikilink")でサンミュージックプロダクションへの移籍を発表。
 
-2008年9月14日、『[ウラネタ芸能ワイド 週刊えみぃSHOW](https://ja.wikipedia.org/wiki/ウラネタ芸能ワイド_週刊えみぃSHOW "wikilink")』出演中、吉岡の妊娠（第二子）を公表した。
+2008年9月14日、『[ウラネタ芸能ワイド 週刊えみぃSHOW](../Page/ウラネタ芸能ワイド_週刊えみぃSHOW.md "wikilink")』出演中、吉岡の妊娠（第二子）を公表した。
 
-2008年11月3日、インディーズ時代の貧困を綴った初エッセイ『ホームレスヴィジュアル系』（[ゴマブックス](https://ja.wikipedia.org/wiki/ゴマブックス "wikilink") ISBN 978-4777111206）の発売記念イベントにおいてSHAZNA解散を電撃発表。[2009年](../Page/2009年.md "wikilink")3月22日に[Shibuya O-EASTで解散ライブを行った](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")。
+2008年11月3日、インディーズ時代の貧困を綴った初エッセイ『ホームレスヴィジュアル系』（[ゴマブックス](../Page/ゴマブックス.md "wikilink") ISBN 978-4777111206）の発売記念イベントにおいてSHAZNA解散を電撃発表。[2009年](../Page/2009年.md "wikilink")3月22日に[Shibuya O-EASTで解散ライブを行った](../Page/Shibuya_O-EAST.md "wikilink")。
 
 2008年11月7日、第二子となる女児「王詞（きこと）」が誕生。
 
-[2009年](../Page/2009年.md "wikilink")5月31日、『[愛の修羅バラ\!](https://ja.wikipedia.org/wiki/愛の修羅バラ! "wikilink")』で妻の吉岡美穂と初共演。夫婦生活を赤裸々に話す姿が受け、以降吉岡と夫婦でバラエティ番組に出演する機会が増えている。また、バラエティ番組では[恐妻家](https://ja.wikipedia.org/wiki/恐妻家 "wikilink")キャラを確立して自虐ネタを披露。
+[2009年](../Page/2009年.md "wikilink")5月31日、『[愛の修羅バラ\!](https://ja.wikipedia.org/wiki/愛の修羅バラ! "wikilink")』で妻の吉岡美穂と初共演。夫婦生活を赤裸々に話す姿が受け、以降吉岡と夫婦でバラエティ番組に出演する機会が増えている。また、バラエティ番組では[恐妻家](../Page/恐妻家.md "wikilink")キャラを確立して自虐ネタを披露。
 
   - 「世間では癒やし系と言うがそんな人は見た事がない」と強調する。
   - 川柳で「癒し系 家の中では 脅し系」と読み上げる。
-  - 2010年12月19日放送の『[さんまのSUPERからくりTV](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV "wikilink")』の[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")では郷ひろみの[2億4千万の瞳](../Page/2億4千万の瞳.md "wikilink")を替え歌にし「ご飯が手抜き」「小遣いが少ない」「足ふきマットで体を洗っている」等家でのぞんざいな扱われぶりを暴露。最後に脅し系を総称し「[ジャイアン](../Page/剛田武.md "wikilink")」と揶揄した。
+  - 2010年12月19日放送の『[さんまのSUPERからくりTV](../Page/さんまのSUPERからくりTV.md "wikilink")』の[替え歌](../Page/替え歌.md "wikilink")では郷ひろみの[2億4千万の瞳](../Page/2億4千万の瞳.md "wikilink")を替え歌にし「ご飯が手抜き」「小遣いが少ない」「足ふきマットで体を洗っている」等家でのぞんざいな扱われぶりを暴露。最後に脅し系を総称し「[ジャイアン](../Page/剛田武.md "wikilink")」と揶揄した。
 
 だがIZAM自身が「王子様」と自称する等自信過剰ぶりのひどいキャラクターであるため、[島田紳助](../Page/島田紳助.md "wikilink")からは「恐妻家でなく単にお前が変なだけやろ」と突っ込まれ、変人扱いされていた。吉岡も自信過剰ぶりに呆れており、その事について文句を言われるのが定番になっている。しかし妻への愛情は強く、[ホンネの殿堂](https://ja.wikipedia.org/wiki/ホンネの殿堂 "wikilink")では目隠しした状態で手を握っただけで吉岡を見事に判別した。
 
@@ -66,11 +66,11 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 ### シングル
 
 1.  [素直なままで](https://ja.wikipedia.org/wiki/素直なままで "wikilink")（1998年5月27日、PHDL-11001、IZAM with ASTRAL LOVEとして）オリコン20位
-      - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ショムニ](https://ja.wikipedia.org/wiki/ショムニ_\(テレビドラマ\) "wikilink")』主題歌
+      - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ショムニ](../Page/ショムニ_\(テレビドラマ\).md "wikilink")』主題歌
 2.  瞳閉じて（1998年11月26日、TODT-5230）オリコン19位
     1.  瞳閉じて\[5:04\]
           -
-            作詞・作曲：[ЯK](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")／編曲：山口一久
+            作詞・作曲：[ЯK](../Page/河村隆一.md "wikilink")／編曲：山口一久
             [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[金曜時代劇](https://ja.wikipedia.org/wiki/木曜時代劇_\(NHK\) "wikilink")『[新・腕におぼえあり〜よろずや平四郎活人剣〜](https://ja.wikipedia.org/wiki/よろずや平四郎活人剣 "wikilink")』主題歌
     2.  羽根と作り物の花\[6:14\]
           -
@@ -134,7 +134,7 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 
   - チャイニーズ・ディナー（2000年）
   - 溺れる魚（2001年）
-  - [g@me.](https://ja.wikipedia.org/wiki/ゲームの名は誘拐 "wikilink")（2003年）
+  - [g@me.](../Page/ゲームの名は誘拐.md "wikilink")（2003年）
   - [エコエコアザラク R-page](../Page/エコエコアザラク.md "wikilink")（2006年）
   - エコエコアザラク B-page（2006年）
   - LOVEDEATH（2006年）
@@ -152,18 +152,18 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 
   - [saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
   - [所的蛇足講座](../Page/所的蛇足講座.md "wikilink")（[FBS福岡放送](../Page/福岡放送.md "wikilink")）レギュラー
-  - [幸せって何だっけ 〜カズカズの宝話〜](https://ja.wikipedia.org/wiki/幸せって何だっけ_〜カズカズの宝話〜 "wikilink")（フジテレビ）2007年5月 - 6月8日、[要潤](../Page/要潤.md "wikilink")のピンチヒッターとして出演。
+  - [幸せって何だっけ 〜カズカズの宝話〜](../Page/幸せって何だっけ_〜カズカズの宝話〜.md "wikilink")（フジテレビ）2007年5月 - 6月8日、[要潤](../Page/要潤.md "wikilink")のピンチヒッターとして出演。
   - [日本史サスペンス劇場](../Page/日本史サスペンス劇場.md "wikilink")（日本テレビ）[上杉謙信](../Page/上杉謙信.md "wikilink") 役
   - [私の何がイケないの?](https://ja.wikipedia.org/wiki/私の何がイケないの? "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")） - 準レギュラー
 
 ### テレビドラマ
 
-  - [三姉妹探偵団](https://ja.wikipedia.org/wiki/三姉妹探偵団 "wikilink") 第3話「ライブ殺人\!愛と復讐の連続爆弾魔\!\!」（1998年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 本人 役
+  - [三姉妹探偵団](../Page/三姉妹探偵団.md "wikilink") 第3話「ライブ殺人\!愛と復讐の連続爆弾魔\!\!」（1998年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 本人 役
   - [ご近所探偵TOMOE](../Page/ご近所探偵TOMOE.md "wikilink")2003年3月29日（[WOWOW](../Page/WOWOW.md "wikilink")） - シューマッハ 役
   - [TRICK](../Page/トリック_\(テレビドラマ\).md "wikilink") エピソード4 死を呼ぶ駄洒落歌（[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - 亀山哲也 役
   - [山村美紗](../Page/山村美紗.md "wikilink")十三回忌特別企画「新・祇園芸妓シリーズ（3）京都花嫁衣裳殺人事件」（2008年2月8日、フジテレビ） - 吉本雄一郎 役
-  - [月曜ゴールデン](https://ja.wikipedia.org/wiki/月曜ゴールデン "wikilink")「[警視庁南平班〜七人の刑事〜](https://ja.wikipedia.org/wiki/警視庁南平班〜七人の刑事〜 "wikilink")（2）」（2010年8月23日、TBS） - 稲葉真治 役
-  - [水曜ミステリー9](https://ja.wikipedia.org/wiki/水曜ミステリー9 "wikilink")「[街占師 〜北白川晶子の事件占い〜](https://ja.wikipedia.org/wiki/街占師_〜北白川晶子の事件占い〜 "wikilink")（2）」（2012年1月11日、テレビ東京） - 高原鶴男 役
+  - [月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")「[警視庁南平班〜七人の刑事〜](https://ja.wikipedia.org/wiki/警視庁南平班〜七人の刑事〜 "wikilink")（2）」（2010年8月23日、TBS） - 稲葉真治 役
+  - [水曜ミステリー9](../Page/水曜ミステリー9.md "wikilink")「[街占師 〜北白川晶子の事件占い〜](https://ja.wikipedia.org/wiki/街占師_〜北白川晶子の事件占い〜 "wikilink")（2）」（2012年1月11日、テレビ東京） - 高原鶴男 役
   - 月曜ゴールデン「[世直し公務員ザ・公証人](https://ja.wikipedia.org/wiki/世直し公務員ザ・公証人 "wikilink")（10）」（2012年2月27日、TBS） - 藤野竹生 役
   - [仮面ライダーウィザード](https://ja.wikipedia.org/wiki/仮面ライダーウィザード "wikilink")（2013年1月27日・2月3日、テレビ朝日） - 指揮者 / ベルゼバブ（声） 役
   - 月曜ゴールデン「[釣り刑事](https://ja.wikipedia.org/wiki/釣り刑事 "wikilink")（5）」（2014年10月27日、TBS） - 沢村雄吾 役
@@ -173,13 +173,13 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 
 ### オリジナルビデオ
 
-  - [美少女戦士セーラームーン（実写版）](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビドラマ\) "wikilink") 『Act.ZERO／セーラーV誕生！』（2005年3月25日発売） - マジック怪盗《キューティ・ケンコー》 役
+  - [美少女戦士セーラームーン（実写版）](../Page/美少女戦士セーラームーン_\(テレビドラマ\).md "wikilink") 『Act.ZERO／セーラーV誕生！』（2005年3月25日発売） - マジック怪盗《キューティ・ケンコー》 役
   - 野獣（クーガ）の城〜女子刑務所〜2（2017年5月、監督：奥渉）- 対策課管理官・安藤 役
   - CONFLICT 最大の抗争 第三章 - 第八章（2018年 - 2019年）
 
 ### CM
 
-  - [大日本除虫菊](https://ja.wikipedia.org/wiki/大日本除虫菊 "wikilink")「タンスにゴン」
+  - [大日本除虫菊](../Page/大日本除虫菊.md "wikilink")「タンスにゴン」
   - [JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「泡立つカフェオレ・泡立つカフェチョコ」
   - [ブルボン](../Page/ブルボン.md "wikilink")「チュロフル」「ワッフルバー」
 
@@ -205,7 +205,7 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 
 ### アニメ映画
 
-  - [クレヨンしんちゃん 電撃\!ブタのヒヅメ大作戦](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_電撃!ブタのヒヅメ大作戦 "wikilink")（1998年）IZAM 役 ※初の声優出演
+  - [クレヨンしんちゃん 電撃\!ブタのヒヅメ大作戦](../Page/クレヨンしんちゃん_電撃!ブタのヒヅメ大作戦.md "wikilink")（1998年）IZAM 役 ※初の声優出演
 
 ## 趣味・嗜好
 
@@ -234,4 +234,4 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
 3.  [IZAM、吉岡美穂夫妻に第3子誕生](http://www.nikkansports.com/entertainment/news/f-et-tp0-20101125-706479.html) -nikkansports.com 2010年11月25日
 4.
 5.
-6.  2010年2月14日の[おしゃれイズム](https://ja.wikipedia.org/wiki/おしゃれイズム "wikilink")より
+6.  2010年2月14日の[おしゃれイズム](../Page/おしゃれイズム.md "wikilink")より

@@ -1,15 +1,15 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-**デジモンワールドX**は[バンダイ](../Page/バンダイ.md "wikilink")の携帯ゲーム[デジタルモンスター](https://ja.wikipedia.org/wiki/デジタルモンスター "wikilink")シリーズの[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Xboxの](../Page/Xbox_\(ゲーム機\).md "wikilink")3機種で同時発売され、Xbox版はバンダイ最後のXbox用ソフトであった。
+**デジモンワールドX**は[バンダイ](../Page/バンダイ.md "wikilink")の携帯ゲーム[デジタルモンスター](../Page/デジタルモンスター.md "wikilink")シリーズの[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")。 [2005年](../Page/2005年.md "wikilink")に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Xboxの](../Page/Xbox_\(ゲーム機\).md "wikilink")3機種で同時発売され、Xbox版はバンダイ最後のXbox用ソフトであった。
 
-前作『[デジモンワールド3 新たなる冒険の扉](../Page/デジモンワールド3_新たなる冒険の扉.md "wikilink")』が[2002年](../Page/2002年.md "wikilink")に発売されたのを最後に滞っていた[デジモンワールド](https://ja.wikipedia.org/wiki/デジモンワールド "wikilink")シリーズだが、約2年半の沈黙を破って、初の[PlayStation以上の機種で発売されるというリリースだった](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。
+前作『[デジモンワールド3 新たなる冒険の扉](../Page/デジモンワールド3_新たなる冒険の扉.md "wikilink")』が[2002年](../Page/2002年.md "wikilink")に発売されたのを最後に滞っていた[デジモンワールド](../Page/デジモンワールド.md "wikilink")シリーズだが、約2年半の沈黙を破って、初の[PlayStation以上の機種で発売されるというリリースだった](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
 
 略称は「デジワーX」。2005年1月6日発売。バンダイ公表の公式ジャンルは[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。日本国外でのタイトルは***Digimon World 4***。
 
 ## ストーリー・設定
 
-これまでの[デジモンワールド](https://ja.wikipedia.org/wiki/デジモンワールド "wikilink")シリーズでは人間が主人公となって物語を進めていったのに対し、今作では人間は一切登場しない。
+これまでの[デジモンワールド](../Page/デジモンワールド.md "wikilink")シリーズでは人間が主人公となって物語を進めていったのに対し、今作では人間は一切登場しない。
 
 舞台は[デジタルワールド](../Page/デジタルワールド.md "wikilink")のデジモン世界。ここではデジモン達が平和に暮らしていた。その平和を管理、維持するのがホストコンピューター「イグドラシル」である。ところが近頃デジモン達の住むエリアの周辺に謎の新エリアが複数出現する。デジモン達は調査に向かったがそれらのデジモンとは、やがて連絡がつかなくなってしまう。そこでプレイヤーは主人公デジモンを操り、デジタルワールドの平和を守る「デジタル･セキュリティ･ガード」（D.S.G.）の一員となってこれらの謎と、その先に立ちはだかる危機を解決してゆく。
 
@@ -29,19 +29,19 @@
 
 ### プレイヤーキャラ
 
-  - [ドルモン](https://ja.wikipedia.org/wiki/ドルモン "wikilink")
+  - [ドルモン](../Page/ドルモン.md "wikilink")
     [アグモン](../Page/アグモン.md "wikilink")
-    [ブイモン](https://ja.wikipedia.org/wiki/ブイモン "wikilink")
-    [ギルモン](https://ja.wikipedia.org/wiki/ギルモン "wikilink")
+    [ブイモン](../Page/ブイモン.md "wikilink")
+    [ギルモン](../Page/ギルモン.md "wikilink")
 
 ### 進化できるキャラ
 
-  - [アルファモン](https://ja.wikipedia.org/wiki/アルファモン "wikilink")
+  - [アルファモン](../Page/アルファモン.md "wikilink")
     [ウォーグレイモン](../Page/ウォーグレイモン.md "wikilink")X
     [メタルガルルモン](../Page/メタルガルルモン.md "wikilink")X
-    [インペリアルドラモン ファイターモード](https://ja.wikipedia.org/wiki/インペリアルドラモン "wikilink")
-    [インペリアルドラモン パラディンモード](https://ja.wikipedia.org/wiki/インペリアルドラモン "wikilink")
-    [デュークモン クリムゾンモード](https://ja.wikipedia.org/wiki/デュークモン "wikilink")
+    [インペリアルドラモン ファイターモード](../Page/インペリアルドラモン.md "wikilink")
+    [インペリアルドラモン パラディンモード](../Page/インペリアルドラモン.md "wikilink")
+    [デュークモン クリムゾンモード](../Page/デュークモン.md "wikilink")
     [スサノオモン](https://ja.wikipedia.org/wiki/スサノオモン "wikilink")
     [ワーガルルモン](../Page/ワーガルルモン.md "wikilink")X
     [ブラックウォーグレイモンX](../Page/ウォーグレイモン.md "wikilink")
@@ -72,11 +72,11 @@
     [トノサマゲコモン](https://ja.wikipedia.org/wiki/トノサマゲコモン "wikilink")
     [ディアボロモン](../Page/ディアボロモン.md "wikilink")
     [ルーチェモン サタンモード](https://ja.wikipedia.org/wiki/ルーチェモン_サタンモード "wikilink")
-    [メガドラモン](https://ja.wikipedia.org/wiki/メガドラモン "wikilink")
+    [メガドラモン](../Page/メガドラモン.md "wikilink")
     [インフェルモン](https://ja.wikipedia.org/wiki/インフェルモン "wikilink")
     [レアモン](https://ja.wikipedia.org/wiki/レアモン "wikilink")
-    [ロードナイトモン](https://ja.wikipedia.org/wiki/ロードナイトモン "wikilink")
-    [インペリアルドラモン](https://ja.wikipedia.org/wiki/インペリアルドラモン "wikilink")
+    [ロードナイトモン](../Page/ロードナイトモン.md "wikilink")
+    [インペリアルドラモン](../Page/インペリアルドラモン.md "wikilink")
 
 以下は、今作オリジナルの、**「Xウィルス」**
 
@@ -123,11 +123,11 @@
 
 ## 関連項目
 
-  - [デジタルモンスター](https://ja.wikipedia.org/wiki/デジタルモンスター "wikilink")
+  - [デジタルモンスター](../Page/デジタルモンスター.md "wikilink")
   - [デジモン一覧](https://ja.wikipedia.org/wiki/デジモン一覧 "wikilink")
-  - [DIGITAL MONSTER X-evolution](https://ja.wikipedia.org/wiki/DIGITAL_MONSTER_X-evolution "wikilink")
+  - [DIGITAL MONSTER X-evolution](../Page/DIGITAL_MONSTER_X-evolution.md "wikilink")
   - [デジモンクロニクル](../Page/デジモンクロニクル.md "wikilink")
-  - [デジモンワールド](https://ja.wikipedia.org/wiki/デジモンワールド "wikilink")
+  - [デジモンワールド](../Page/デジモンワールド.md "wikilink")
   - [デジモンワールド2](../Page/デジモンワールド2.md "wikilink")
   - [デジモンワールド3 新たなる冒険の扉](../Page/デジモンワールド3_新たなる冒険の扉.md "wikilink")
   - [バンダイ](../Page/バンダイ.md "wikilink")

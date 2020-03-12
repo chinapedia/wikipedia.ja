@@ -1,27 +1,27 @@
 > この記事は[Suara](https://ja.wikipedia.org/wiki/Suara)から翻訳されています。
 
 
-**Suara**（すあら、[1979年](../Page/1979年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")出身。[フィックスレコード](../Page/フィックスレコード.md "wikilink")所属。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。作詞、作曲などの[クレジットには](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")、出生名の**巽 明子**（たつみ あきこ）の名義を使用している。
+**Suara**（すあら、[1979年](../Page/1979年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")出身。[フィックスレコード](../Page/フィックスレコード.md "wikilink")所属。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。作詞、作曲などの[クレジットには](../Page/クレジットタイトル.md "wikilink")、出生名の**巽 明子**（たつみ あきこ）の名義を使用している。
 
 ## 概要
 
-[大阪府立豊中高等学校](https://ja.wikipedia.org/wiki/大阪府立豊中高等学校 "wikilink")を経て[大阪外国語大学](../Page/大阪外国語大学.md "wikilink")で[インドネシア語](../Page/インドネシア語.md "wikilink")を専攻中にバンド・ユニットを組んで音楽活動を始めた。普段はお笑い番組が大好きなこともあってよく喋るほうだが、東京の仕事で標準語の喋りをする時は、畏まってそれほど喋らない場合が多い。
+[大阪府立豊中高等学校](../Page/大阪府立豊中高等学校.md "wikilink")を経て[大阪外国語大学](../Page/大阪外国語大学.md "wikilink")で[インドネシア語](../Page/インドネシア語.md "wikilink")を専攻中にバンド・ユニットを組んで音楽活動を始めた。普段はお笑い番組が大好きなこともあってよく喋るほうだが、東京の仕事で標準語の喋りをする時は、畏まってそれほど喋らない場合が多い。
 
 芸名は「声」という意味のインドネシア語で、「たくさんの人に歌を聞いて欲しい」という想いが込められている。しかしながら、本人はインドネシアに行ったことがない。
 
-母親は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[基隆出身](https://ja.wikipedia.org/wiki/基隆市 "wikilink")(祖籍は[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")[広東省](../Page/広東省.md "wikilink"))だが、5歳以降台湾を離れている\[2\]。
+母親は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[基隆出身](../Page/基隆市.md "wikilink")(祖籍は[中国](../Page/中国.md "wikilink")[広東省](../Page/広東省.md "wikilink"))だが、5歳以降台湾を離れている\[2\]。
 
 以前に「piece」というユニットを組んで音楽活動していた時期があり、「トモシビ」と「傘」は、この頃に作られた曲である。学生時代からデビューの少し前までは、英語塾で講師のアルバイトをしていた。
 
-2005年9月、PCゲーム「[鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_-クサリ- "wikilink")」オープニングテーマ「睡蓮-あまねく花-」で歌手デビュー。メジャーデビューは翌年4月に発売されたテレビアニメ「[うたわれるもの](../Page/うたわれるもの.md "wikilink")」オープニングテーマ「[夢想歌](https://ja.wikipedia.org/wiki/夢想歌 "wikilink")」である。
+2005年9月、PCゲーム「[鎖 -クサリ-](../Page/鎖_-クサリ-.md "wikilink")」オープニングテーマ「睡蓮-あまねく花-」で歌手デビュー。メジャーデビューは翌年4月に発売されたテレビアニメ「[うたわれるもの](../Page/うたわれるもの.md "wikilink")」オープニングテーマ「[夢想歌](https://ja.wikipedia.org/wiki/夢想歌 "wikilink")」である。
 
 「[Animelo Summer Live 2007](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")」のパフォーマンスで、一緒に出演していた[奥井雅美](../Page/奥井雅美.md "wikilink")に歌を大絶賛された。
 
-『[みどりのマキバオー](https://ja.wikipedia.org/wiki/みどりのマキバオー "wikilink")』の大ファンであり、幾度となくアニメ版マキバオーのものまねを披露している。2009年には[是空とおる](https://ja.wikipedia.org/wiki/是空とおる "wikilink")を通して『マキバオー』作者の[つの丸](../Page/つの丸.md "wikilink")からサインを貰った喜びをブログに書いている。
+『[みどりのマキバオー](../Page/みどりのマキバオー.md "wikilink")』の大ファンであり、幾度となくアニメ版マキバオーのものまねを披露している。2009年には[是空とおる](../Page/是空とおる.md "wikilink")を通して『マキバオー』作者の[つの丸](../Page/つの丸.md "wikilink")からサインを貰った喜びをブログに書いている。
 
-Suaraのイントネーションは[ドアラ](https://ja.wikipedia.org/wiki/ドアラ "wikilink")と同じ\[3\]。
+Suaraのイントネーションは[ドアラ](../Page/ドアラ.md "wikilink")と同じ\[3\]。
 
-[2009年](../Page/2009年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、[Elements Gardenの](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")[藤田淳平](../Page/藤田淳平.md "wikilink")と[結婚](../Page/結婚.md "wikilink")したことをブログで報告した。
+[2009年](../Page/2009年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、[Elements Gardenの](../Page/Elements_Garden.md "wikilink")[藤田淳平](../Page/藤田淳平.md "wikilink")と[結婚](../Page/結婚.md "wikilink")したことをブログで報告した。
 
 2013年11月、男児を出産した。
 
@@ -271,7 +271,7 @@ KIGA-29（通常盤）◎</p></td>
 <tr class="even">
 <td><p>2006年12月6日</p></td>
 <td><p><strong>木漏れ日ダイアリー からだ編</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ランティス" title="wikilink">ランティス</a></strong></p></td>
+<td><p><strong><a href="../Page/ランティス.md" title="wikilink">ランティス</a></strong></p></td>
 <td><p>LACA-5578</p></td>
 </tr>
 <tr class="odd">
@@ -302,7 +302,7 @@ KICA-1450（CD盤）</p></td>
 <tr class="odd">
 <td><p>2007年11月28日</p></td>
 <td><p><strong>Animelo Summer Live 2007 Generation-A</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ランティス" title="wikilink">ランティス</a></strong></p></td>
+<td><p><strong><a href="../Page/ランティス.md" title="wikilink">ランティス</a></strong></p></td>
 <td><p>LABM-7015〜17</p></td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ KIBM-1055〜1057（DVD盤）</p></td>
 <tr class="even">
 <td><p>2019年8月23日</p></td>
 <td><p><strong>片恋いコントラスト ―way of parting―　主題歌＆サウンドトラック</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/フロンティアワークス" title="wikilink">フロンティアワークス</a></strong></p></td>
+<td><p><strong><a href="../Page/フロンティアワークス.md" title="wikilink">フロンティアワークス</a></strong></p></td>
 <td><p>FFCP-0039（初恋盤）<br />
 FFCP-0040（傷恋盤）<br />
 FFCP-0038（通常盤）</p></td>
@@ -465,7 +465,7 @@ FFCP-0038（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月23日</p></td>
-<td><p><strong>Card of the Future (TV Size)</strong> <small>（<a href="https://ja.wikipedia.org/wiki/サイキックラバー" title="wikilink">サイキックラバー</a>＆Suara）</small></p></td>
+<td><p><strong>Card of the Future (TV Size)</strong> <small>（<a href="../Page/サイキックラバー.md" title="wikilink">サイキックラバー</a>＆Suara）</small></p></td>
 <td><p>（未収録）</p></td>
 <td><p>TVアニメ『フューチャーカード バディファイト』オープニングテーマ</p></td>
 </tr>
@@ -579,7 +579,7 @@ FFCP-0038（通常盤）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>睡蓮 -あまねく花-</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/鎖_-クサリ-" title="wikilink">鎖 -クサリ-</a>』オープニングテーマ</p></td>
+<td><p>PCゲーム『<a href="../Page/鎖_-クサリ-.md" title="wikilink">鎖 -クサリ-</a>』オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>星座</p></td>
@@ -604,7 +604,7 @@ TVアニメ『うたわれるもの』最終話エンディングテーマ</p></
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/光の季節" title="wikilink">光の季節</a></p></td>
-<td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/あさっての方向。" title="wikilink">あさっての方向。</a>』オープニングテーマ</p></td>
+<td><p>TVアニメ『<a href="../Page/あさっての方向。.md" title="wikilink">あさっての方向。</a>』オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/光の季節" title="wikilink">傘</a></p></td>
@@ -944,7 +944,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 <td><p>16</p></td>
 <td><p>2009年2月1日</p></td>
 <td><p><strong>ブシロードカードゲームライブ2009</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本青年館" title="wikilink">日本青年館</a>大ホール</strong></p></td>
+<td><p><strong><a href="../Page/日本青年館.md" title="wikilink">日本青年館</a>大ホール</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -960,7 +960,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 <td><p>2009年2月14日<br />
 2009年2月15日</p></td>
 <td><p><strong>舞い落ちる雪のように 発売記念イベント＠関西</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/上新電機" title="wikilink">上新電機</a> ディスクピア 日本橋店</strong><br />
+<td><p><strong><a href="../Page/上新電機.md" title="wikilink">上新電機</a> ディスクピア 日本橋店</strong><br />
 <strong><a href="https://ja.wikipedia.org/wiki/イオンモール伊丹テラス" title="wikilink">イオンモール伊丹テラス</a>　1F　エンターテイメントコート</strong></p></td>
 <td></td>
 </tr>
@@ -999,7 +999,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 2009年7月4日<br />
 2009年7月12日</p></td>
 <td><p><strong>adamant faith 発売記念イベント</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/上新電機" title="wikilink">上新電機</a> ディスクピア 日本橋店</strong><br />
+<td><p><strong><a href="../Page/上新電機.md" title="wikilink">上新電機</a> ディスクピア 日本橋店</strong><br />
 <strong><a href="../Page/コミックとらのあな.md" title="wikilink">コミックとらのあな</a>秋葉原1号店 7F</strong><br />
 <strong>アソビットゲームシティ</strong><br />
 <strong>塚口さんさんタウン2階 スカイコム特設ステージ</strong></p></td>
@@ -1044,7 +1044,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 <td><p>29</p></td>
 <td><p>2010年2月6日</p></td>
 <td><p><strong>ブシロードカードゲームライブ2010</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></strong></p></td>
+<td><p><strong><a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1072,7 +1072,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 <td><p>33</p></td>
 <td><p>2010年10月31日</p></td>
 <td><p><strong>アニサマ Girls Night</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zeep Osaka</a></strong></p></td>
+<td><p><strong><a href="../Page/Zepp.md" title="wikilink">Zeep Osaka</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1172,7 +1172,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 2012年4月7日<br />
 2012年4月8日</p></td>
 <td><p><strong>OVA『ToHeart2ダンジョントラベラーズ』主題歌CD発売記念インストアライブイベント</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アニメイト" title="wikilink">アニメイト</a>横浜店</strong><br />
+<td><p><strong><a href="../Page/アニメイト.md" title="wikilink">アニメイト</a>横浜店</strong><br />
 <strong>AKIHABARA<a href="../Page/ゲーマーズ.md" title="wikilink">ゲーマーズ</a>本店 8F</strong><br />
 <strong><a href="../Page/ゲーマーズ.md" title="wikilink">ゲーマーズ</a>なんば店</strong></p></td>
 <td></td>
@@ -1188,7 +1188,7 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 <td><p>48</p></td>
 <td><p>2012年4月29日</p></td>
 <td><p><strong>中国国際アニメフェア2012 日本動漫音楽祭</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/中国" title="wikilink">中国</a>・<a href="https://ja.wikipedia.org/wiki/杭州" title="wikilink">杭州</a></strong></p></td>
+<td><p><strong><a href="../Page/中国.md" title="wikilink">中国</a>・<a href="../Page/杭州.md" title="wikilink">杭州</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1248,8 +1248,8 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
   - Suara LIVE 2008 〜太陽と月の調べ〜
       - 2008年9月6日開催 / [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")
   - Suara LIVE 2010 〜歌始め〜
-      - 2010年1月2日開催 / [Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
-      - 2010年1月3日開催 / [Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
+      - 2010年1月2日開催 / [Shibuya O-EAST](../Page/Shibuya_O-EAST.md "wikilink")
+      - 2010年1月3日開催 / [Shibuya O-EAST](../Page/Shibuya_O-EAST.md "wikilink")
   - Suara HONG KONG LIVE 2010 〜夢想歌宴〜
       - 2010年2月28日開催 / 九龍湾国際展貿中心3階演講廳
   - Suara KOREA LIVE 2010 〜夢想歌宴〜
@@ -1291,6 +1291,6 @@ TVアニメ『うたわれるもの 偽りの仮面』挿入歌</p></td>
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:フィックスレコード](https://ja.wikipedia.org/wiki/Category:フィックスレコード "wikilink") [Category:台湾系日本人](https://ja.wikipedia.org/wiki/Category:台湾系日本人 "wikilink") [Category:大阪外国語大学出身の人物](https://ja.wikipedia.org/wiki/Category:大阪外国語大学出身の人物 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:大阪大学出身の人物](https://ja.wikipedia.org/wiki/Category:大阪大学出身の人物 "wikilink")
 
-1.  『スター名鑑　BEAUTIES 2012　声優＆アニソンアーティスト編』、125頁、[東京ニュース通信社](https://ja.wikipedia.org/wiki/東京ニュース通信社 "wikilink")、2012年、ISBN 978-4863362086
+1.  『スター名鑑　BEAUTIES 2012　声優＆アニソンアーティスト編』、125頁、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")、2012年、ISBN 978-4863362086
 2.  台湾公演時インタビュー
 3.  『[ささら・まーりゃんの生徒会会長ラジオ for ToHeart2](../Page/ささら・まーりゃんの生徒会会長ラジオ_for_ToHeart2.md "wikilink")』第82回「スアラとドアラの意外な関係」より。

@@ -1,11 +1,11 @@
 > この記事は[CROSS \(\)](https://ja.wikipedia.org/wiki/CROSS_\(\))から翻訳されています。
 
 
-**CROSS**（クロス）は、日本の[アダルトビデオメーカー](https://ja.wikipedia.org/wiki/アダルトビデオメーカー "wikilink")。
+**CROSS**（クロス）は、日本の[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")。
 
 [北都](../Page/CA_\(アダルトビデオ\).md "wikilink")（アウトビジョン）の外部メーカーの一つ。
 
-[V\&Rプランニング](https://ja.wikipedia.org/wiki/V&Rプランニング "wikilink")出身の[インジャン古河](https://ja.wikipedia.org/wiki/インジャン古河 "wikilink")・元クロスワールドの[松嶋クロス](https://ja.wikipedia.org/wiki/松嶋クロス "wikilink")両監督を軸とする若手監督集団が立ち上げた[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")制作会社・有限会社古松映像のメーカー部門。
+[V\&Rプランニング](../Page/V&Rプランニング.md "wikilink")出身の[インジャン古河](https://ja.wikipedia.org/wiki/インジャン古河 "wikilink")・元クロスワールドの[松嶋クロス](../Page/松嶋クロス.md "wikilink")両監督を軸とする若手監督集団が立ち上げた[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")制作会社・有限会社古松映像のメーカー部門。
 
 2005年11月にセル商品のリリースを開始、2006年2月からはレンタル商品もリリースしている。
 
@@ -16,7 +16,7 @@
 ## 古松映像所属のAV監督
 
   - 元クロスワールド
-      - [松嶋クロス](https://ja.wikipedia.org/wiki/松嶋クロス "wikilink")※
+      - [松嶋クロス](../Page/松嶋クロス.md "wikilink")※
 
       -
       -

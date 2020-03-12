@@ -17,10 +17,10 @@
   - [1994年](../Page/1994年.md "wikilink") - TVゲーム専門店『COMG\!』を、新潟県内に2店舗同時オープン。
   - [1996年](../Page/1996年.md "wikilink") - 本社ビルを現住所に移転。[携帯電話](../Page/携帯電話.md "wikilink")、[PHS](../Page/PHS.md "wikilink")の取り扱い開始。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 3月、古町本店を閉店。玩具店のCOMG\!へのリニューアル完了。櫻井正夫（前社長）が会長に、櫻井道子（前常務）が社長に就任。
-  - [2000年](../Page/2000年.md "wikilink") - [フレームリレー](https://ja.wikipedia.org/wiki/フレームリレー "wikilink")を用いた新情報システム導入。
+  - [2000年](../Page/2000年.md "wikilink") - [フレームリレー](../Page/フレームリレー.md "wikilink")を用いた新情報システム導入。
   - [2001年](../Page/2001年.md "wikilink") - [中古ソフト](https://ja.wikipedia.org/wiki/中古ソフト "wikilink")売買システム導入。[DVD](../Page/DVD.md "wikilink")取扱開始。
   - [2002年](../Page/2002年.md "wikilink") - キャラクタートイ取り扱い開始（[小針](https://ja.wikipedia.org/wiki/小針 "wikilink")店・[吉田](https://ja.wikipedia.org/wiki/吉田 "wikilink")店・[新発田](https://ja.wikipedia.org/wiki/新発田 "wikilink")店）。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 株式会社コングシステムズと合併。
+  - [2005年](../Page/2005年.md "wikilink") - 株式会社コングシステムズと合併。
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**フィーバークィーンII**は、[1993年](../Page/1993年.md "wikilink")6月に[SANKYOが開発](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")、発売した[トランプ](../Page/トランプ.md "wikilink")をモチーフとしたドラム型[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。保留玉[連荘](https://ja.wikipedia.org/wiki/連荘 "wikilink")機。『[フィーバーキングII](https://ja.wikipedia.org/wiki/フィーバーキングII "wikilink")』の後継機。当時、販促用ポスターに書かれていたキャッチコピーは「麗しきトランプジャック世界(ワールド)へ、ようこそ、クィーンな情熱舞い上がれ」であった。
+**フィーバークィーンII**は、[1993年](../Page/1993年.md "wikilink")6月に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売した[トランプ](../Page/トランプ.md "wikilink")をモチーフとしたドラム型[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。保留玉[連荘](../Page/連荘.md "wikilink")機。『[フィーバーキングII](../Page/フィーバーキングII.md "wikilink")』の後継機。当時、販促用ポスターに書かれていたキャッチコピーは「麗しきトランプジャック世界(ワールド)へ、ようこそ、クィーンな情熱舞い上がれ」であった。
 
 ## 特徴
 
@@ -29,20 +29,20 @@
 
 ## シリーズ機
 
-  - 『フィーバーキングII』発売（本機種の前身機）（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")10月）
+  - 『フィーバーキングII』発売（本機種の前身機）（[1992年](../Page/1992年.md "wikilink")10月）
   - 『フィーバークイーンDI』（発売はダイドー（現ビスティ）、メーカー発表確率は微妙に異なるものの（この当時はメーカー発表の確率は曖昧であった。）解析上、内部抽選プログラムは同じ。音声ROMが異なる以外は中身はクィーンIIとまったく同じ。本機種と同時発売）
   - 『CRフィーバークィーンJX』、『フィーバークィーンJX』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月）
   - 『フィーバーメガクィーンEX』、『CRフィーバーメガクィーンGP』（1997年11月）
-  - 『フィーバーネオクィーンDX』、『CRフィーバーネオクィーンJX』、『CRフィーバーネオクィーンMX』、『CRフィーバークィーンII』（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月）
-  - 『CRフィーバークィーンZERO ST4』、『CRフィーバークィーンZERO ST7』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月）
+  - 『フィーバーネオクィーンDX』、『CRフィーバーネオクィーンJX』、『CRフィーバーネオクィーンMX』、『CRフィーバークィーンII』（[2004年](../Page/2004年.md "wikilink")4月）
+  - 『CRフィーバークィーンZERO ST4』、『CRフィーバークィーンZERO ST7』（[2006年](../Page/2006年.md "wikilink")10月）
   - 『CRフィーバークィーン』（[2014年](../Page/2014年.md "wikilink")11月）
-  - 『[フィーバークィーンI](https://ja.wikipedia.org/wiki/フィーバークィーンI "wikilink")』（[2001年](../Page/2001年.md "wikilink")、[パチスロ](../Page/パチスロ.md "wikilink")機、[ビスティ](https://ja.wikipedia.org/wiki/ビスティ "wikilink")）
+  - 『[フィーバークィーンI](https://ja.wikipedia.org/wiki/フィーバークィーンI "wikilink")』（[2001年](../Page/2001年.md "wikilink")、[パチスロ](../Page/パチスロ.md "wikilink")機、[ビスティ](../Page/ビスティ.md "wikilink")）
 
 ## 関連商品
 
   - ゲーム機
       - 『Victory ZONE2』（[1996年](../Page/1996年.md "wikilink")9月、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")、プレイステーション用ゲームソフト）
-      - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてフィーバークィーンIIがプレイ可能である。
+      - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてフィーバークィーンIIがプレイ可能である。
   - 音楽CD
       - 『パチンコ・ミュージック・フロムSANKYO～FEVER WARS～』（[キングレコード](../Page/キングレコード.md "wikilink")、[1994年](../Page/1994年.md "wikilink")11月23日、KICA-1154）
       - 『SANKYO FEVER SOUNDS～ザ・パチンコ・ミュージック・フロム SANKYO 6～』（キングレコード、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月21日、KICA-1214）

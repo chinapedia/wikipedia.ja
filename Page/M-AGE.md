@@ -7,33 +7,33 @@
 
 [1984年](../Page/1984年.md "wikilink")春、**KOICHIRO**が幼馴染の**OKAZAKI**を誘い、M-AGEの前身バンド「モラル」を結成。地元茨城でイベント出演を中心にライブ活動を行なう。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")春、KOICHIROの高校卒業と同時に東京へと進出、それを機にバンド名を「M-AGE」へと改名する。一方、同じ頃にパンクバンド「THE SHITBABIES」を脱退した**MIYO-KEN**は、知り合いの紹介で**KAJIWARA**らとバンド「リッツ」を結成する。THE SHITBABIES時代はベースを担当していたMIYO-KENだが、新バンドではギターパートを希望。そのため、自身のベースとKAJIWARAのギターを交換し、KAJIWARAにベースを担当するよう命じる。
 
-[1989年](../Page/1989年.md "wikilink")、M-AGEはその前年に知り合った所属事務所「TAFF PROJECT」社長の紹介で映画「[YAWARA\!](../Page/YAWARA!.md "wikilink")」(原作：[浦沢直樹](../Page/浦沢直樹.md "wikilink")、主演：[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink"))に出演する。KOICHIROは主人公・猪熊柔が憧れる高校の先輩・錦森広之役で、OKAZAKIら残りのメンバーはバンド役で出演する。また、同年[3月4日](../Page/3月4日.md "wikilink")には「[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")」に出演し、完奏こそならなかったが『ANGEL FANTASY』(アルバム『KISS』に収録)を披露する。しかし、「イカ天」後にM-AGEからギターの香田知宏、ベースの北見聡一朗がそれぞれ諸事情で脱退。後任としてリッツを脱退したMIYO-KENとKAJIWARAが加入することとなる。
+[1989年](../Page/1989年.md "wikilink")、M-AGEはその前年に知り合った所属事務所「TAFF PROJECT」社長の紹介で映画「[YAWARA\!](../Page/YAWARA!.md "wikilink")」(原作：[浦沢直樹](../Page/浦沢直樹.md "wikilink")、主演：[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink"))に出演する。KOICHIROは主人公・猪熊柔が憧れる高校の先輩・錦森広之役で、OKAZAKIら残りのメンバーはバンド役で出演する。また、同年[3月4日](../Page/3月4日.md "wikilink")には「[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")」に出演し、完奏こそならなかったが『ANGEL FANTASY』(アルバム『KISS』に収録)を披露する。しかし、「イカ天」後にM-AGEからギターの香田知宏、ベースの北見聡一朗がそれぞれ諸事情で脱退。後任としてリッツを脱退したMIYO-KENとKAJIWARAが加入することとなる。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、MIYO-KENが上京し、バンド活動が本格化。四谷[FOURVALLEY](https://ja.wikipedia.org/wiki/FOURVALLEY "wikilink")などでライブ活動を続け、翌[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")にミニアルバム『KISS』を発売する。しかし、宣伝の規模に反してアルバムがほとんど売れなかったことに加え、アルバムそのものの出来、また化粧を施した耽美なアーティストイメージなどに疑問を感じ、話し合いの末バンドは方向転換を決意。当時メンバーが好んで聴いていたこと、また[ジーザス・ジョーンズ](https://ja.wikipedia.org/wiki/ジーザス・ジョーンズ "wikilink")が流行っていたこともあり、バンドサウンドとマンチェスター・サウンドの融合を試すこととなる。一方、同じ時期に雑誌のインタビューでメンバーがジーザス・ジョーンズに言及していたことに目を留めた[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")のディレクター・田中淳一が所属事務所を通してM-AGEにコンタクトを取り、バンドサウンドにハウスを導入することを提案する。田中の提案がバンドの新しい方向性と合致していたこともあり、ミーティングを重ねるうちに両者は意気投合。バンドが新しい方向性を形にするべくデモテープを作成すると、音源を聴いた田中はコンピレーションアルバム『[DANCE 2 NOISE](https://ja.wikipedia.org/wiki/DANCE_2_NOISE "wikilink")』への参加を打診する。バンドは早速『[DANCE 2 NOISE](https://ja.wikipedia.org/wiki/DANCE_2_NOISE "wikilink")』用に『CALL ME』のレコーディングを開始。その際にスクラッチを盛り込むことを思い付き、事務所社長の伝手で新宿「ミロス・ガレージ」でDJをしていた**DJ PEAH**にゲストプレイヤーとして参加を依頼する。このレコーディングで好感触を得たバンドは、レコーディング終了後DJ PEAHにバンドへの参加を正式に要請。スクラッチプレイヤーとしての活動を模索していたDJ PEAHもこれを快諾し、こうしてM-AGEの全メンバーが揃うこととなる。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、MIYO-KENが上京し、バンド活動が本格化。四谷[FOURVALLEY](https://ja.wikipedia.org/wiki/FOURVALLEY "wikilink")などでライブ活動を続け、翌[1991年](../Page/1991年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")にミニアルバム『KISS』を発売する。しかし、宣伝の規模に反してアルバムがほとんど売れなかったことに加え、アルバムそのものの出来、また化粧を施した耽美なアーティストイメージなどに疑問を感じ、話し合いの末バンドは方向転換を決意。当時メンバーが好んで聴いていたこと、また[ジーザス・ジョーンズ](../Page/ジーザス・ジョーンズ.md "wikilink")が流行っていたこともあり、バンドサウンドとマンチェスター・サウンドの融合を試すこととなる。一方、同じ時期に雑誌のインタビューでメンバーがジーザス・ジョーンズに言及していたことに目を留めた[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")のディレクター・田中淳一が所属事務所を通してM-AGEにコンタクトを取り、バンドサウンドにハウスを導入することを提案する。田中の提案がバンドの新しい方向性と合致していたこともあり、ミーティングを重ねるうちに両者は意気投合。バンドが新しい方向性を形にするべくデモテープを作成すると、音源を聴いた田中はコンピレーションアルバム『[DANCE 2 NOISE](https://ja.wikipedia.org/wiki/DANCE_2_NOISE "wikilink")』への参加を打診する。バンドは早速『[DANCE 2 NOISE](https://ja.wikipedia.org/wiki/DANCE_2_NOISE "wikilink")』用に『CALL ME』のレコーディングを開始。その際にスクラッチを盛り込むことを思い付き、事務所社長の伝手で新宿「ミロス・ガレージ」でDJをしていた**DJ PEAH**にゲストプレイヤーとして参加を依頼する。このレコーディングで好感触を得たバンドは、レコーディング終了後DJ PEAHにバンドへの参加を正式に要請。スクラッチプレイヤーとしての活動を模索していたDJ PEAHもこれを快諾し、こうしてM-AGEの全メンバーが揃うこととなる。
 
-バンドとして新たなスタートを切ったM-AGEは、そのまま1stアルバムのレコーディングを開始。レコーディング終了後の[12月16日](../Page/12月16日.md "wikilink")に西麻布Space Lab YELLOWで行われた「DANCE 2 NOISE 001」発売記念のライブイベントに初めて五人で出演し、ライブを披露する。翌[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")、1stシングル『[WALK ON THE MOON](https://ja.wikipedia.org/wiki/WALK_ON_THE_MOON "wikilink")』、1stマキシシングル『[3 RE-MIX + 1](https://ja.wikipedia.org/wiki/3_RE-MIX_+_1 "wikilink")』で[ビクターインビテーションよりメジャーデビュー](https://ja.wikipedia.org/wiki/Invitation_\(レーベル\) "wikilink")。同年[2月21日](../Page/2月21日.md "wikilink")には1stフルアルバム『[MUSTARD](https://ja.wikipedia.org/wiki/MUSTARD "wikilink")』をリリースし、「V-CUBE」と題した全国7箇所を廻るプロモーションツアーを実施する。同年[4月6日](../Page/4月6日.md "wikilink")、[日清パワーステーション](https://ja.wikipedia.org/wiki/日清パワーステーション "wikilink")にて初のワンマンライブを実施。同年7月には全国4箇所を廻る「AFTER MEAT MUSTARD 」ツアーを実施する。ツアー中の同年[7月22日](../Page/7月22日.md "wikilink")にシングル『[someday close your eyes](https://ja.wikipedia.org/wiki/someday_close_your_eyes "wikilink")』、マキシシングル『[someday ep](https://ja.wikipedia.org/wiki/someday_ep "wikilink")』を発表。そして、「AFTER MEAT MUSTARD 」ツアー終了後にロンドンへと渡りレコーディングを実施すると、同年[11月21日](../Page/11月21日.md "wikilink")に2ndアルバム『[vibES](https://ja.wikipedia.org/wiki/vibES "wikilink")』を発表する。
+バンドとして新たなスタートを切ったM-AGEは、そのまま1stアルバムのレコーディングを開始。レコーディング終了後の[12月16日](../Page/12月16日.md "wikilink")に西麻布Space Lab YELLOWで行われた「DANCE 2 NOISE 001」発売記念のライブイベントに初めて五人で出演し、ライブを披露する。翌[1992年](../Page/1992年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、1stシングル『[WALK ON THE MOON](https://ja.wikipedia.org/wiki/WALK_ON_THE_MOON "wikilink")』、1stマキシシングル『[3 RE-MIX + 1](https://ja.wikipedia.org/wiki/3_RE-MIX_+_1 "wikilink")』で[ビクターインビテーションよりメジャーデビュー](../Page/Invitation_\(レーベル\).md "wikilink")。同年[2月21日](../Page/2月21日.md "wikilink")には1stフルアルバム『[MUSTARD](https://ja.wikipedia.org/wiki/MUSTARD "wikilink")』をリリースし、「V-CUBE」と題した全国7箇所を廻るプロモーションツアーを実施する。同年[4月6日](../Page/4月6日.md "wikilink")、[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")にて初のワンマンライブを実施。同年7月には全国4箇所を廻る「AFTER MEAT MUSTARD 」ツアーを実施する。ツアー中の同年[7月22日](../Page/7月22日.md "wikilink")にシングル『[someday close your eyes](https://ja.wikipedia.org/wiki/someday_close_your_eyes "wikilink")』、マキシシングル『[someday ep](https://ja.wikipedia.org/wiki/someday_ep "wikilink")』を発表。そして、「AFTER MEAT MUSTARD 」ツアー終了後にロンドンへと渡りレコーディングを実施すると、同年[11月21日](../Page/11月21日.md "wikilink")に2ndアルバム『[vibES](https://ja.wikipedia.org/wiki/vibES "wikilink")』を発表する。
 
-リリース後の翌[1993年](../Page/1993年.md "wikilink")1月に「CHAIN ME RUN」Tourを実施するなどバンドの活動は順調に見えたが、[1993年](../Page/1993年.md "wikilink")5月、当時[ジュリアナ東京](https://ja.wikipedia.org/wiki/ジュリアナ東京 "wikilink")のDJだった[ジョン・ロビンソンによるリミックス](https://ja.wikipedia.org/wiki/ジョン・ロビンソン_\(DJ\) "wikilink")3曲収録を収録した『[NEXUS 7](https://ja.wikipedia.org/wiki/NEXUS_7 "wikilink")』の発表後、ベースのKAJIWARAが脱退。バンドはそのまま四人体制で活動を続け、同年[12月16日](../Page/12月16日.md "wikilink")3rdアルバム『[INTERFACE](https://ja.wikipedia.org/wiki/INTERFACE "wikilink")』を発表するも翌[1994年](../Page/1994年.md "wikilink")に解散となる。
+リリース後の翌[1993年](../Page/1993年.md "wikilink")1月に「CHAIN ME RUN」Tourを実施するなどバンドの活動は順調に見えたが、[1993年](../Page/1993年.md "wikilink")5月、当時[ジュリアナ東京](../Page/ジュリアナ東京.md "wikilink")のDJだった[ジョン・ロビンソンによるリミックス](https://ja.wikipedia.org/wiki/ジョン・ロビンソン_\(DJ\) "wikilink")3曲収録を収録した『[NEXUS 7](https://ja.wikipedia.org/wiki/NEXUS_7 "wikilink")』の発表後、ベースのKAJIWARAが脱退。バンドはそのまま四人体制で活動を続け、同年[12月16日](../Page/12月16日.md "wikilink")3rdアルバム『[INTERFACE](https://ja.wikipedia.org/wiki/INTERFACE "wikilink")』を発表するも翌[1994年](../Page/1994年.md "wikilink")に解散となる。
 
-[2020年](../Page/2020年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、長年の沈黙を破り、オフィシャルサイトと公式[Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")アカウントが開設される。サイト内には『M-AGE 20210121』とだけ記載されており、開設時点では詳細は不明となっている。
+[2020年](../Page/2020年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、長年の沈黙を破り、オフィシャルサイトと公式[Twitter](../Page/Twitter.md "wikilink")アカウントが開設される。サイト内には『M-AGE 20210121』とだけ記載されており、開設時点では詳細は不明となっている。
 
 ## メンバー
 
 ### 解散時のメンバー
 
   - **KOICHIRO**（こういちろう）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名：永沼幸一郎(ながぬま こういちろう)。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")生まれ。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")出身。中学生の頃に従兄弟の影響で[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[ジューシィ・フルーツ](https://ja.wikipedia.org/wiki/ジューシィ・フルーツ "wikilink")、[立花ハジメ](https://ja.wikipedia.org/wiki/立花ハジメ "wikilink")などを聴くようになり、中学三年生の時に初めてバンドを組む。高校一年生の終わりに幼馴染のOKAZAKIを誘って、M-AGEの前身となるバンド「モラル」を結成。M-AGEの母体を作った、オリジナル・メンバーの一人である。M-AGE解散後は、1995年に岩崎究と共にUndoを結成。1997年にオムニバスアルバム『CYNICAL SYNDROME』に『Joy』『RAISING CAIN』を提供し、ライブ活動やレコーディングを行なうも1998年に活動停止。その後、イベント「NEW WAVE JUNKIES」に参加するなど単発での活動はあったものの、現在は音楽業界から引退している。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名：永沼幸一郎(ながぬま こういちろう)。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。中学生の頃に従兄弟の影響で[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[ジューシィ・フルーツ](../Page/ジューシィ・フルーツ.md "wikilink")、[立花ハジメ](../Page/立花ハジメ.md "wikilink")などを聴くようになり、中学三年生の時に初めてバンドを組む。高校一年生の終わりに幼馴染のOKAZAKIを誘って、M-AGEの前身となるバンド「モラル」を結成。M-AGEの母体を作った、オリジナル・メンバーの一人である。M-AGE解散後は、1995年に岩崎究と共にUndoを結成。1997年にオムニバスアルバム『CYNICAL SYNDROME』に『Joy』『RAISING CAIN』を提供し、ライブ活動やレコーディングを行なうも1998年に活動停止。その後、イベント「NEW WAVE JUNKIES」に参加するなど単発での活動はあったものの、現在は音楽業界から引退している。
   - **MIYO-KEN**（みよけん）
-    [ギター](../Page/ギター.md "wikilink")担当。本名：三代堅(みよ けん)。[1966年](../Page/1966年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")生まれ。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[高萩市](https://ja.wikipedia.org/wiki/高萩市 "wikilink")出身。小学校六年生の終わり頃からギターを弾き始め、高校生の時にパンクバンド「MERRY GO ROUND」(後に「THE SHITBABIESに改名)を結成。「THE SHITBABIES」脱退後にKAJIWARAと共に「リッツ」を結成。[1989年](../Page/1989年.md "wikilink")にM-AGEに加入。M-AGE解散後は、M-AGE時代のディレクター・田中淳一が関わる数々のレコーディングに参加。[GUNIW TOOLSのサポートや](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のベーシスト[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")のシングル『wonderful world /TIGHTROPE』にギターおよび編曲で参加するほか、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")が中心となって結成したロックバンド「THE MORTAL」にベーシストとして参加している。現在は[清春](https://ja.wikipedia.org/wiki/清春 "wikilink")のソロ・ライブでのバンドマスターを務めるかたわら、自身のポストロックインストバンド「青天の霹靂」やエレクトリックユニット「u crack irigaru」としても活動している。
+    [ギター](../Page/ギター.md "wikilink")担当。本名：三代堅(みよ けん)。[1966年](../Page/1966年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")[高萩市](../Page/高萩市.md "wikilink")出身。小学校六年生の終わり頃からギターを弾き始め、高校生の時にパンクバンド「MERRY GO ROUND」(後に「THE SHITBABIESに改名)を結成。「THE SHITBABIES」脱退後にKAJIWARAと共に「リッツ」を結成。[1989年](../Page/1989年.md "wikilink")にM-AGEに加入。M-AGE解散後は、M-AGE時代のディレクター・田中淳一が関わる数々のレコーディングに参加。[GUNIW TOOLSのサポートや](../Page/GUNIW_TOOLS.md "wikilink")[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のベーシスト[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")のシングル『wonderful world /TIGHTROPE』にギターおよび編曲で参加するほか、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[櫻井敦司](../Page/櫻井敦司.md "wikilink")が中心となって結成したロックバンド「THE MORTAL」にベーシストとして参加している。現在は[清春](../Page/清春.md "wikilink")のソロ・ライブでのバンドマスターを務めるかたわら、自身のポストロックインストバンド「青天の霹靂」やエレクトリックユニット「u crack irigaru」としても活動している。
   - **OKAZAKI**（おかざき）
-    [ドラム担当](../Page/ドラムセット.md "wikilink")。本名・岡崎達成(おかざき かつしげ)。[1967年](../Page/1967年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")生まれ。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")出身。中学三年生の文化祭でクラスメイトと組んだ[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")のコピーバンドがきっかけでドラムを始める。高校生入学後、ブラスバンド部でドラムを担当するかたわら、「アップルズ」という名のビートルズのコピーバンドを結成。コピーバンド解散後、高校二年生の終わりに幼馴染のKOICHIROとM-AGEの母体となるバンド「モラル」を結成する。M-AGEのオリジナル・メンバーの一人。M-AGE解散後は[GUNIW TOOLSにサポートメンバーとして参加するかたわら](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")、[2002年](../Page/2002年.md "wikilink")からそのGUNIW TOOLSのギター[ASAKI](https://ja.wikipedia.org/wiki/ASAKI "wikilink")とともに[AGE of PUNKとしても活動](https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK "wikilink")。また、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")からは[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のギタリスト[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")や[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")・[hide with Spread Beaverなどの活動で知られるギタリストの](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")[KIYOSHI](https://ja.wikipedia.org/wiki/KIYOSHI "wikilink")とともに[Lucy](https://ja.wikipedia.org/wiki/Lucy "wikilink")を結成、2枚のオリジナルアルバムを発表している。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは[Minimum Rocketsにてツインドラムの片翼を担うほか](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、元M-AGEの三代堅が率いるエレクトリックユニット「u crack irigaru」のサポートドラムとしても活動している。
+    [ドラム担当](../Page/ドラムセット.md "wikilink")。本名・岡崎達成(おかざき かつしげ)。[1967年](../Page/1967年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。中学三年生の文化祭でクラスメイトと組んだ[ビートルズ](../Page/ビートルズ.md "wikilink")のコピーバンドがきっかけでドラムを始める。高校生入学後、ブラスバンド部でドラムを担当するかたわら、「アップルズ」という名のビートルズのコピーバンドを結成。コピーバンド解散後、高校二年生の終わりに幼馴染のKOICHIROとM-AGEの母体となるバンド「モラル」を結成する。M-AGEのオリジナル・メンバーの一人。M-AGE解散後は[GUNIW TOOLSにサポートメンバーとして参加するかたわら](../Page/GUNIW_TOOLS.md "wikilink")、[2002年](../Page/2002年.md "wikilink")からそのGUNIW TOOLSのギター[ASAKI](../Page/ASAKI.md "wikilink")とともに[AGE of PUNKとしても活動](https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK "wikilink")。また、[2004年](../Page/2004年.md "wikilink")からは[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のギタリスト[今井寿](../Page/今井寿.md "wikilink")や[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")・[hide with Spread Beaverなどの活動で知られるギタリストの](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")[KIYOSHI](../Page/KIYOSHI.md "wikilink")とともに[Lucy](../Page/Lucy.md "wikilink")を結成、2枚のオリジナルアルバムを発表している。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは[Minimum Rocketsにてツインドラムの片翼を担うほか](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、元M-AGEの三代堅が率いるエレクトリックユニット「u crack irigaru」のサポートドラムとしても活動している。
   - **DJ PEAH**（でぃーじぇい・ぺー）
-    [DJ担当](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。本名・林信也(はやし のぶや)。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")生まれ。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[足利市](https://ja.wikipedia.org/wiki/足利市 "wikilink")出身。小学校六年生で初段を取るほどの柔道少年であったが、姉に連れて行ってもらった地元のクラブ「Jive Turkey」で音楽の洗礼を受け、DJを目指すようになる。中学卒業後に上京し、新宿「ミロス・ガレージ」で火曜日レギュラーとしてDJを担当していた[須永辰緒](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink")に師事する。須永のレコード持ちとしてミロス・ガレージや西麻布「トロス・クラブ」などで開催されるイベントに同行しDJとして修行するかたわら、ラップ・チーム「MC PYU & DJ PEAH」としてイベントやコンテストに参加するようになる。チーム解散後、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にM-AGEに参加。M-AGE解散後はソロアルバム『DJ PEAH』を発表する他、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")と[SOFT BALLETの](../Page/SOFT_BALLET.md "wikilink")[藤井麻輝](https://ja.wikipedia.org/wiki/藤井麻輝 "wikilink")によるインダストリアルユニット[SCHAFT](../Page/SCHAFT.md "wikilink")のアルバム『Switchblade』へのスクラッチ提供や、[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")のシングル『CANDY GIRL』発表時のライブにサポートとして参加するなど、様々な分野で活動。現在はDJとして活動する他、元M-AGEの三代堅によるユニット「u crack irigaru」のサポートDJやテクノポップバンド「Love The Candy's」の一員として活動している。なおDJネーム「PEAH」は須永辰緒に命名されたものであり、アルコールに酔って嘔吐を繰り返していたことに由来している。
+    [DJ担当](../Page/ディスクジョッキー.md "wikilink")。本名・林信也(はやし のぶや)。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")生まれ。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[足利市](../Page/足利市.md "wikilink")出身。小学校六年生で初段を取るほどの柔道少年であったが、姉に連れて行ってもらった地元のクラブ「Jive Turkey」で音楽の洗礼を受け、DJを目指すようになる。中学卒業後に上京し、新宿「ミロス・ガレージ」で火曜日レギュラーとしてDJを担当していた[須永辰緒](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink")に師事する。須永のレコード持ちとしてミロス・ガレージや西麻布「トロス・クラブ」などで開催されるイベントに同行しDJとして修行するかたわら、ラップ・チーム「MC PYU & DJ PEAH」としてイベントやコンテストに参加するようになる。チーム解散後、[1991年](../Page/1991年.md "wikilink")にM-AGEに参加。M-AGE解散後はソロアルバム『DJ PEAH』を発表する他、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[今井寿](../Page/今井寿.md "wikilink")と[SOFT BALLETの](../Page/SOFT_BALLET.md "wikilink")[藤井麻輝](../Page/藤井麻輝.md "wikilink")によるインダストリアルユニット[SCHAFT](../Page/SCHAFT.md "wikilink")のアルバム『Switchblade』へのスクラッチ提供や、[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")のシングル『CANDY GIRL』発表時のライブにサポートとして参加するなど、様々な分野で活動。現在はDJとして活動する他、元M-AGEの三代堅によるユニット「u crack irigaru」のサポートDJやテクノポップバンド「Love The Candy's」の一員として活動している。なおDJネーム「PEAH」は須永辰緒に命名されたものであり、アルコールに酔って嘔吐を繰り返していたことに由来している。
 
 ### 脱退したメンバー
 
   - **KAJIWARA**（かじわら）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。本名・梶原祐司(かじわら ゆうじ)。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")生まれ。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](https://ja.wikipedia.org/wiki/日立市 "wikilink")出身。中学生の頃に音楽に興味を持ち始め、高校一年生の時に[フェンダー](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")・スクワイアの[ストラトキャスターを購入する](../Page/フェンダー・ストラトキャスター.md "wikilink")。高校三年生の時に地元の先輩に誘われ、バンド「リッツ」を結成。ベースを担当するよう言われ、メンバーの一人だったMIYO-KENに自身のギターを渡し、自分はMIYO-KENのベースを使うことになる。[1989年](../Page/1989年.md "wikilink")、M-AGEに加入。[1993年](../Page/1993年.md "wikilink")に脱退し、元[Cutemen](https://ja.wikipedia.org/wiki/Cutemen "wikilink")の[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")とともに[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")[CONFUSION](https://ja.wikipedia.org/wiki/CONFUSION "wikilink")を結成する。2枚のフルアルバムを発表するも「[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")になる」と言い残し、CONFUSIONを脱退。そのまま音楽業界から引退している。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。本名・梶原祐司(かじわら ゆうじ)。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。中学生の頃に音楽に興味を持ち始め、高校一年生の時に[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・スクワイアの[ストラトキャスターを購入する](../Page/フェンダー・ストラトキャスター.md "wikilink")。高校三年生の時に地元の先輩に誘われ、バンド「リッツ」を結成。ベースを担当するよう言われ、メンバーの一人だったMIYO-KENに自身のギターを渡し、自分はMIYO-KENのベースを使うことになる。[1989年](../Page/1989年.md "wikilink")、M-AGEに加入。[1993年](../Page/1993年.md "wikilink")に脱退し、元[Cutemen](https://ja.wikipedia.org/wiki/Cutemen "wikilink")の[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")とともに[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")[CONFUSION](https://ja.wikipedia.org/wiki/CONFUSION "wikilink")を結成する。2枚のフルアルバムを発表するも「[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")になる」と言い残し、CONFUSIONを脱退。そのまま音楽業界から引退している。
 
 ## ディスコグラフィー
 
@@ -51,7 +51,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
 <td><p>KISS</p></td>
 <td><p>FBI-003</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -69,7 +69,7 @@
 <td><p>E.R.C.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MUSTARD" title="wikilink">MUSTARD</a></p></td>
 <td><p>VICL-268</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -87,10 +87,10 @@
 10. <strong>ENOUGH OF THIS</strong> (作詞: KOICHIRO / 作曲: OKAZAKI KATSUSHIGE)</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/vibES" title="wikilink">vibES</a></p></td>
 <td><p>VICL-354</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -161,7 +161,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WALK_ON_THE_MOON" title="wikilink">WALK ON THE MOON</a></p></td>
 <td><p>VIDL-82</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -171,10 +171,10 @@
 02. <strong>VISITOR</strong> (作詞: KOICHIRO / 作曲: KAJIWARA YUJI)</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/someday_close_your_eyes" title="wikilink">someday close your eyes</a></p></td>
 <td><p>VIDL-108</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -184,7 +184,7 @@
 02. <strong>tears</strong> (作詞: KOICHIRO / 作曲: MIYO-KEN)</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
@@ -237,7 +237,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/3_RE-MIX_+_1" title="wikilink">3 RE-MIX + 1</a></p></td>
 <td><p>VICL-15007</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -249,10 +249,10 @@
 04. <strong>BACK TO BACK</strong> (作詞: KOICHIRO / 作曲: MIYO-KEN)</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/someday_ep" title="wikilink">someday ep</a></p></td>
 <td><p>VICL-15010</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -264,7 +264,7 @@
 04. <strong>last temptation</strong> (作詞: KOICHIRO / 作曲: MIYO-KEN)</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
@@ -384,14 +384,14 @@ RSN LP29</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="https://ja.wikipedia.org/wiki/3月21日" title="wikilink">3月21日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td><p>WALK ON THE MOON</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
 <td><p>someday close your eyes</p></td>
 <td><p>VIVL-82</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -399,7 +399,7 @@ RSN LP29</p></td>
 </div>
 <p>&lt;div class="NavContent" style="text-align:left;”&gt; 01. <strong>someday close your eyes</strong><br />
 02. <strong>tears</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -425,7 +425,7 @@ RSN LP29</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DANCE_2_NOISE_001" title="wikilink">DANCE 2 NOISE 001</a></p></td>
 <td><p>VICL-229</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -450,7 +450,7 @@ RSN LP29</p></td>
 </div></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p>FUTURAMA OF ROCK XEO special Re-Mix sampler(非売品)</p></td>
 <td><p>CDES-67</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
@@ -485,7 +485,7 @@ RSN LP29</p></td>
 12. REVIVE / SUGIZO</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
@@ -507,7 +507,7 @@ RSN LP29</p></td>
 11. タンゴ / 町田町蔵+北澤組</p>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -562,14 +562,14 @@ RSN LP29</p></td>
 
 ## 関連項目
 
-  - [櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")
-    [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のボーカリスト。三代堅と共にバンド「THE MORTAL」を組んでいる。
-  - [清春](https://ja.wikipedia.org/wiki/清春 "wikilink")
+  - [櫻井敦司](../Page/櫻井敦司.md "wikilink")
+    [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のボーカリスト。三代堅と共にバンド「THE MORTAL」を組んでいる。
+  - [清春](../Page/清春.md "wikilink")
     [黒夢](../Page/黒夢.md "wikilink")のボーカリスト。ソロ・ライブで三代堅がバンドマスターを務めている。
-  - [ASAKI](https://ja.wikipedia.org/wiki/ASAKI "wikilink")
-    [GUNIW TOOLSのギタリスト](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")。岡崎達成と共にバンド「AGE of PUNK」を組んでいる。
-  - [Lucy](https://ja.wikipedia.org/wiki/Lucy "wikilink")
-    岡崎達成がBUCK-TICK[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")、元[media youthの](https://ja.wikipedia.org/wiki/media_youth "wikilink")[KIYOSHI](https://ja.wikipedia.org/wiki/KIYOSHI "wikilink")と共に組んでいるバンド。
+  - [ASAKI](../Page/ASAKI.md "wikilink")
+    [GUNIW TOOLSのギタリスト](../Page/GUNIW_TOOLS.md "wikilink")。岡崎達成と共にバンド「AGE of PUNK」を組んでいる。
+  - [Lucy](../Page/Lucy.md "wikilink")
+    岡崎達成がBUCK-TICK[今井寿](../Page/今井寿.md "wikilink")、元[media youthの](https://ja.wikipedia.org/wiki/media_youth "wikilink")[KIYOSHI](../Page/KIYOSHI.md "wikilink")と共に組んでいるバンド。
   - [Minimum Rockets](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")
     岡崎達成が参加しているバンド。
   - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink")

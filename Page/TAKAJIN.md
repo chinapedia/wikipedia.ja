@@ -1,7 +1,7 @@
 > この記事は[TAKAJIN](https://ja.wikipedia.org/wiki/TAKAJIN)から翻訳されています。
 
 
-**TAKAJIN**（タカジン）は[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")の1枚目のアルバム。
+**TAKAJIN**（タカジン）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の1枚目のアルバム。
 
 ## 内容
 
@@ -24,6 +24,6 @@
 <!-- end list -->
 
   -
-    作詞:荒木十章 作曲:家鋪隆仁　編曲:[クニ河内](https://ja.wikipedia.org/wiki/クニ河内 "wikilink")(1〜9)
+    作詞:荒木十章 作曲:家鋪隆仁　編曲:[クニ河内](../Page/クニ河内.md "wikilink")(1〜9)
 
 [Category:やしきたかじんのアルバム](https://ja.wikipedia.org/wiki/Category:やしきたかじんのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:1976年のアルバム](https://ja.wikipedia.org/wiki/Category:1976年のアルバム "wikilink") [Category:ベルウッドのアルバム](https://ja.wikipedia.org/wiki/Category:ベルウッドのアルバム "wikilink")

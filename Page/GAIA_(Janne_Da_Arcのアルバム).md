@@ -1,7 +1,7 @@
 > この記事は[GAIA \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/GAIA_\(Janne_Da_Arc\))から翻訳されています。
 
 
-『**GAIA**』（ガイア）は、[Janne Da Arcの](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")から発売された。
+『**GAIA**』（ガイア）は、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")から発売された。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 9thシングル「seed」から11thシングル「feel the wind」までの3曲と、他9曲が収録されている。また、これら3つのシングルはどれもアルバムバージョンとして収録されているが、タイトルの表記に変更点はなし。
 
-シングル、アルバム通じて初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")TOP10入りを果たした。このアルバムが発売された後に発売されたシングルとアルバムは、[リカットシングル](https://ja.wikipedia.org/wiki/リカットシングル "wikilink")である「[Rainy 〜愛の調べ〜](https://ja.wikipedia.org/wiki/Rainy_〜愛の調べ〜 "wikilink")」以外は全てTOP10に入っている。
+シングル、アルバム通じて初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")TOP10入りを果たした。このアルバムが発売された後に発売されたシングルとアルバムは、[リカットシングル](https://ja.wikipedia.org/wiki/リカットシングル "wikilink")である「[Rainy 〜愛の調べ〜](https://ja.wikipedia.org/wiki/Rainy_〜愛の調べ〜 "wikilink")」以外は全てTOP10に入っている。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
       - 作詞：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink") / 作曲：[you](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink"), yasu
     <!-- end list -->
       -
-        このアルバムの表題曲。前奏が長く、ワンコーラス分という構成の曲。最初は[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")1本から始まり、だんだん楽器数が増えていく。[アウトロ](https://ja.wikipedia.org/wiki/アウトロ "wikilink")が次曲へと繋がっている。
+        このアルバムの表題曲。前奏が長く、ワンコーラス分という構成の曲。最初は[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")1本から始まり、だんだん楽器数が増えていく。[アウトロ](../Page/アウトロ.md "wikilink")が次曲へと繋がっている。
 2.  **セル** (4:43)
       - 作詞：yasu, [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink") / 作曲：kiyo
     <!-- end list -->
@@ -32,19 +32,19 @@
       - 作詞 / 作曲：yasu
     <!-- end list -->
       -
-        11thシングル。表記はないが[アルバム](../Page/アルバム.md "wikilink")バージョンで、シングルでは[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")だったアウトロを完奏にしている。ちなみに、この曲の[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、こちらのバージョンが使用された。
+        11thシングル。表記はないが[アルバム](../Page/アルバム.md "wikilink")バージョンで、シングルでは[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")だったアウトロを完奏にしている。ちなみに、この曲の[PVは](../Page/ミュージック・ビデオ.md "wikilink")、こちらのバージョンが使用された。
 5.  **curse** (3:51)
       - 作詞：yasu / 作曲：kiyo
 6.  **GUILTY PAIN** (4:31)
       - 作詞：yasu / 作曲：[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")
     <!-- end list -->
       -
-        [少年兵](https://ja.wikipedia.org/wiki/少年兵 "wikilink")について歌われている。
+        [少年兵](../Page/少年兵.md "wikilink")について歌われている。
 7.  **ZERO** (2:03)
       - 作曲：you
     <!-- end list -->
       -
-        アコースティックギターのみで[録音](../Page/録音.md "wikilink")された[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+        アコースティックギターのみで[録音](../Page/録音.md "wikilink")された[インストゥルメンタル](../Page/器楽曲.md "wikilink")。
 8.  **still** (5:03)
       - 作詞 / 作曲：yasu
     <!-- end list -->

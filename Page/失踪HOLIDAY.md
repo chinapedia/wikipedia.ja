@@ -20,7 +20,7 @@
 ### 登場人物
 
   - 菅原 ナオ（すがわら なお）
-    主人公の少女。中学2年生。物心ついたころには既に父はおらず、母と2人暮らしであったが、母が國光と再婚し家族となった。しかし再婚してわずか2年で実母が他界してしまう。その後、國光が再婚しキョウコが母となる。國光、キョウコとは血のつながりはない。キョウコとの喧嘩は絶えない。好物は[カントリーマアム](https://ja.wikipedia.org/wiki/カントリーマアム "wikilink")。
+    主人公の少女。中学2年生。物心ついたころには既に父はおらず、母と2人暮らしであったが、母が國光と再婚し家族となった。しかし再婚してわずか2年で実母が他界してしまう。その後、國光が再婚しキョウコが母となる。國光、キョウコとは血のつながりはない。キョウコとの喧嘩は絶えない。好物は[カントリーマアム](../Page/カントリーマアム.md "wikilink")。
   - 楠木 クニコ（くすのき くにこ）
     菅原家の使用人。菅原家に住み込みで働いている。20代半ば。気が弱く、人一倍鈍感。スケッチすることが趣味らしく絵を描くのが上手い。
   - 菅原 國光（すがわら くにみつ）
@@ -40,35 +40,35 @@
 
 ### テレビドラマ
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月10日](../Page/2月10日.md "wikilink")から、テレビ朝日[土曜ミッドナイトドラマ](https://ja.wikipedia.org/wiki/土曜ミッドナイトドラマ "wikilink")枠でスタート。全4回。
+[2007年](../Page/2007年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から、テレビ朝日[土曜ミッドナイトドラマ](../Page/土曜ミッドナイトドラマ.md "wikilink")枠でスタート。全4回。
 
 #### キャスト
 
   - 菅原ナオ - [石橋杏奈](https://ja.wikipedia.org/wiki/石橋杏奈 "wikilink")
   - 楠木クニコ - [戸田菜穂](../Page/戸田菜穂.md "wikilink")
   - 菅原キョウコ - [小沢真珠](../Page/小沢真珠.md "wikilink")
-  - 菅原國光 - [尾美としのり](https://ja.wikipedia.org/wiki/尾美としのり "wikilink")
-  - 大塚 - [木下ほうか](https://ja.wikipedia.org/wiki/木下ほうか "wikilink")
-  - エリ - [井上佳子](https://ja.wikipedia.org/wiki/井上佳子_\(女優\) "wikilink")
-  - マリア - [森下悠里](https://ja.wikipedia.org/wiki/森下悠里 "wikilink")
-  - 吉永 - [森下能幸](https://ja.wikipedia.org/wiki/森下能幸 "wikilink")
+  - 菅原國光 - [尾美としのり](../Page/尾美としのり.md "wikilink")
+  - 大塚 - [木下ほうか](../Page/木下ほうか.md "wikilink")
+  - エリ - [井上佳子](../Page/井上佳子_\(女優\).md "wikilink")
+  - マリア - [森下悠里](../Page/森下悠里.md "wikilink")
+  - 吉永 - [森下能幸](../Page/森下能幸.md "wikilink")
   - 久保田 - [松嶋亮太](https://ja.wikipedia.org/wiki/松嶋亮太 "wikilink")
-  - ナオの実母 - [清水ゆみ](https://ja.wikipedia.org/wiki/清水ゆみ "wikilink")
+  - ナオの実母 - [清水ゆみ](../Page/清水ゆみ.md "wikilink")
 
 #### スタッフ
 
-  - 脚本：[酒井直行](https://ja.wikipedia.org/wiki/酒井直行 "wikilink")
-  - 演出：[前田哲](https://ja.wikipedia.org/wiki/前田哲 "wikilink")，[宮下健作](https://ja.wikipedia.org/wiki/宮下健作 "wikilink")
+  - 脚本：[酒井直行](../Page/酒井直行.md "wikilink")
+  - 演出：[前田哲](../Page/前田哲.md "wikilink")，[宮下健作](https://ja.wikipedia.org/wiki/宮下健作 "wikilink")
   - チーフプロデューサー：[桑田潔](https://ja.wikipedia.org/wiki/桑田潔 "wikilink")
   - プロデューサー：[樽井勝弘](https://ja.wikipedia.org/wiki/樽井勝弘 "wikilink")、[槙哲也](https://ja.wikipedia.org/wiki/槙哲也 "wikilink")
 
 #### 主題歌
 
-  - [ストロボ](https://ja.wikipedia.org/wiki/ストロボ_\(バンド\) "wikilink")「ラブレター」
+  - [ストロボ](../Page/ストロボ_\(バンド\).md "wikilink")「ラブレター」
 
 #### 放送局
 
-  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")
   - [山形テレビ](../Page/山形テレビ.md "wikilink")
   - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink") - 2007年6月19、25日
   - [KBS京都](../Page/京都放送.md "wikilink") - 2007年9月9日～9月30日
@@ -82,7 +82,7 @@
 
 ## しあわせは子猫のかたち 〜HAPPINESS IS A WARM KITTY〜
 
-  - 初出：『[ザ・スニーカー](https://ja.wikipedia.org/wiki/ザ・スニーカー "wikilink")』
+  - 初出：『[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")』
 
 ### ストーリー
 

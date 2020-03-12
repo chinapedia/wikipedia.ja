@@ -1,25 +1,25 @@
 > この記事は[MB](https://ja.wikipedia.org/wiki/MB)から翻訳されています。
 
 
-**MB**（エムビー） は、[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ[商標](../Page/商標.md "wikilink")である。
+**MB**（エムビー） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ[商標](../Page/商標.md "wikilink")である。
 
 ## 概要
 
 若年層や免許初心者を主な客層として開発されたエントリーモデル。既存の[CB50と併売されるも](https://ja.wikipedia.org/wiki/ホンダ・CB50 "wikilink")[原動機付自転車](../Page/原動機付自転車.md "wikilink")クラスではフルサイズロードスポーツモデルとされた。
 
-当初は[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")49㏄のMB50のみとされたが、後に派生モデルが追加された。
+当初は[排気量](../Page/排気量.md "wikilink")49㏄のMB50のみとされたが、後に派生モデルが追加された。
 
 ## 車両解説
 
 型式名AC01\[1\]の**MB50**は、本田技研工業としては初となる[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[2ストロークピストンリードバルブ](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載した量産ロードスポーツモデルであり、AC01E型エンジンには同社が当時誇る技術を多数盛り込んだ。
 
   - 内径x行程：39.0x41.4（mm）・[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")7.9から最高出力7.0ps/9,000rpm・最大トルク0.56kg-m/8,000rpmのスペックを発揮\[2\]。燃焼室を中心に冷却風を導入するフィン形状とし、一軸バランサーを内蔵する\[3\]。
-  - マス集中化を意図して採用されたX型バックボーン[フレームとシート下まで伸ばした形状とした容量](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\) "wikilink")9Lの燃料タンクを搭載\[4\]。
+  - マス集中化を意図して採用されたX型バックボーン[フレームとシート下まで伸ばした形状とした容量](../Page/フレーム_\(オートバイ\).md "wikilink")9Lの燃料タンクを搭載\[4\]。
   - プレス鋼板とリム部で構成され、軽量3本スポークの前後18インチ・コムスターホイールを装着\[5\]。
   - セパレートハンドル風のトップブリッジ一体型ハンドルを採用\[6\]。
   - オプションで純正のビキニカウル\[7\]・サイドボックス・リヤキャリアが用意された。
 
-本モデル以降、各社が[スズキRG](../Page/スズキ_\(企業\).md "wikilink")50E・[カワサキ](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")[AR50](https://ja.wikipedia.org/wiki/カワサキ・AR "wikilink")・[ヤマハ](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")[RZ50と次々に最高出力](https://ja.wikipedia.org/wiki/ヤマハ・RZ "wikilink")7.2psのフルサイズロードスポーツモデルをラインナップし、最高速度90km/hに迫る領域を競い合う状態となった。
+本モデル以降、各社が[スズキRG](../Page/スズキ_\(企業\).md "wikilink")50E・[カワサキ](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")[AR50](../Page/カワサキ・AR.md "wikilink")・[ヤマハ](../Page/ヤマハ発動機.md "wikilink")[RZ50と次々に最高出力](../Page/ヤマハ・RZ.md "wikilink")7.2psのフルサイズロードスポーツモデルをラインナップし、最高速度90km/hに迫る領域を競い合う状態となった。
 
 また一方で当時の最新技術を導入した車種であるが、以下の問題点も抱えていた。
 
@@ -50,13 +50,13 @@
 同年6月2日より以下の仕様変更を行ったバリエーションモデル**MB5**を追加発売。
 
   - 専用トップブリッジにアップハンドルの組み合わせへ変更
-  - フロントウインカー取付位置を[ヘッドライト横へ移設](https://ja.wikipedia.org/wiki/前照灯 "wikilink")
+  - フロントウインカー取付位置を[ヘッドライト横へ移設](../Page/前照灯.md "wikilink")
 
 型式名はMB50と同じAC01とした上で標準現金価格を142,000円とした。販売目標は日本国内のみで8,000台/年とした\[15\]。
 
   - [1982年](../Page/1982年.md "wikilink")3月
 
-後継の[水冷化した](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")2ストローク単気筒エンジンを搭載する[MBXシリーズへフル](https://ja.wikipedia.org/wiki/ホンダ・MBX "wikilink")[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")され生産終了。
+後継の[水冷化した](../Page/水冷エンジン.md "wikilink")2ストローク単気筒エンジンを搭載する[MBXシリーズへフル](../Page/ホンダ・MBX.md "wikilink")[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")され生産終了。
 
 ### 諸元
 
@@ -119,8 +119,8 @@
 
 ## 関連項目
 
-  - [ホンダ・MBX](https://ja.wikipedia.org/wiki/ホンダ・MBX "wikilink")
-  - [ホンダ・MVX250F](https://ja.wikipedia.org/wiki/ホンダ・MVX250F "wikilink")
+  - [ホンダ・MBX](../Page/ホンダ・MBX.md "wikilink")
+  - [ホンダ・MVX250F](../Page/ホンダ・MVX250F.md "wikilink")
 
 ## 外部リンク
 
@@ -134,7 +134,7 @@
 4.
 5.
 6.
-7.  [運輸省](../Page/運輸省.md "wikilink")（現・[国土交通省](https://ja.wikipedia.org/wiki/国土交通省 "wikilink")）は当時カウル類を認可しておらず風除けを意味する**フェアリング**で認可を得た。
+7.  [運輸省](../Page/運輸省.md "wikilink")（現・[国土交通省](../Page/国土交通省.md "wikilink")）は当時カウル類を認可しておらず風除けを意味する**フェアリング**で認可を得た。
 8.  一軸バランサーのマスの影響とも言われる。
 9.  後にMB80のイニシャル調整付きサスペンションを流用が可能になった。
 10. [1979年4月17日プレスリリース](http://www.honda.co.jp/news/1979/2790417.html)

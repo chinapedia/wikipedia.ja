@@ -1,13 +1,13 @@
 > この記事は[SWEET PAIN](https://ja.wikipedia.org/wiki/SWEET_PAIN)から翻訳されています。
 
 
-「**SWEET PAIN**」（スウィート・ペイン）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲。3枚目の[シングル](../Page/シングル.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[8cmCDで発売された](https://ja.wikipedia.org/wiki/8センチCD "wikilink")。楽曲の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")はメンバーの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。
+「**SWEET PAIN**」（スウィート・ペイン）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲。3枚目の[シングル](../Page/シングル.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[8cmCDで発売された](https://ja.wikipedia.org/wiki/8センチCD "wikilink")。楽曲の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")はメンバーの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。
 
 ## 解説
 
 歌詞は「バリバリ働く明るい男性が現在進行形の恋愛をしながら、必然的に味わう苦しみ・切なさに気付いていく」ことをテーマにしている\[1\]。
 
-本作の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は存在しない。
+本作の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は存在しない。
 
 大元となるメロディーはテレビ番組で小室を密着取材していた際にわずか10分で作りあげられた\[2\]。
 
@@ -16,8 +16,8 @@
 1.  **SWEET PAIN (ORIGINAL MIX)**
     （作詞・作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / MIX：[Dave Ford](https://ja.wikipedia.org/wiki/Dave_Ford "wikilink")）
       -
-        [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")「NEW DJ」CMソング。
-        また[マーク・パンサー](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")の[ラップ](../Page/ラップ.md "wikilink")部分に[日本語](../Page/日本語.md "wikilink")が初めて使用された。
+        [TDK](../Page/TDK.md "wikilink")「NEW DJ」CMソング。
+        また[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")の[ラップ](../Page/ラップ.md "wikilink")部分に[日本語](../Page/日本語.md "wikilink")が初めて使用された。
 2.  **SWEET PAIN (EXTENDED MIX)**
 3.  **SWEET PAIN (SPACE GROOVE MIX)**
 
@@ -26,7 +26,7 @@
 **SWEET PAIN**
 
   - [globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")（アルバムバージョン）
-  - [CRUISE RECORD 1995-2000](https://ja.wikipedia.org/wiki/CRUISE_RECORD_1995-2000 "wikilink")（シングルバージョンだがアウトロがフェードアウトしない）
+  - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")（シングルバージョンだがアウトロがフェードアウトしない）
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
   - [\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")（COVER+BEST盤のみ収録）

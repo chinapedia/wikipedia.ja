@@ -1,7 +1,7 @@
 > この記事は[Secret base ](https://ja.wikipedia.org/wiki/Secret_base_)から翻訳されています。
 
 
-「**secret base 〜君がくれたもの〜**」（シークレット ベース 〜きみがくれたもの〜）は、[ZONEの楽曲](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")。[町田紀彦](https://ja.wikipedia.org/wiki/町田紀彦 "wikilink")が作詞・作曲を手掛けた。ZONEの3枚目の[シングル](../Page/シングル.md "wikilink")として[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")から発売された。発売から長い時期が過ぎてから記録的な回数にわたってカバーされている曲でもある。
+「**secret base 〜君がくれたもの〜**」（シークレット ベース 〜きみがくれたもの〜）は、[ZONEの楽曲](../Page/ZONE_\(バンド\).md "wikilink")。[町田紀彦](../Page/町田紀彦.md "wikilink")が作詞・作曲を手掛けた。ZONEの3枚目の[シングル](../Page/シングル.md "wikilink")として[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")から発売された。発売から長い時期が過ぎてから記録的な回数にわたってカバーされている曲でもある。
 
 ## 概要
 
@@ -9,23 +9,23 @@
 
 [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは[2002年](../Page/2002年.md "wikilink")度の年間8位\[2\]を獲得した。
 
-[2001年](../Page/2001年.md "wikilink")及び[2003年](../Page/2003年.md "wikilink")の『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")』で披露された。また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")の[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")での解散コンサートのラストを飾った曲でもある。シングルヴァージョンでは演奏が途中でカットされているが、アルバム『[Z](https://ja.wikipedia.org/wiki/Z_\(ZONEのアルバム\) "wikilink")』では演奏が最後まで収録されている。
+[2001年](../Page/2001年.md "wikilink")及び[2003年](../Page/2003年.md "wikilink")の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』で披露された。また、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")での解散コンサートのラストを飾った曲でもある。シングルヴァージョンでは演奏が途中でカットされているが、アルバム『[Z](../Page/Z_\(ZONEのアルバム\).md "wikilink")』では演奏が最後まで収録されている。
 
-ZONEは[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")公演を最後に解散したがこの曲の歌詞中にある「10年後の8月」の言葉通り、この曲の発売から10年後の[2011年](../Page/2011年.md "wikilink")8月に1か月間限定で再結成し、同年8月14日と15日に[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")・[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")で復活ライブを行った（ただし、このライブにおいて年内いっぱいチャリティー・イベントを中心に活動を続けることが発表された。\[3\]）。 また、アニメ『[あの日見た花の名前を僕達はまだ知らない。](https://ja.wikipedia.org/wiki/あの日見た花の名前を僕達はまだ知らない。 "wikilink")』のエンディングでカバーされたこと（[詳細後述](https://ja.wikipedia.org/wiki/#本間芽衣子、安城鳴子、鶴見知利子のシングル "wikilink")）が縁で、同作品の舞台となった[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")の[秩父市](../Page/秩父市.md "wikilink")の[秩父ミューズパーク](https://ja.wikipedia.org/wiki/秩父ミューズパーク "wikilink")野外ステージにおいて同年8月27日に開催された『東日本大震災復興チャリティコンサート IN 秩父 ZONE 〜10年後の8月に最高の思い出を〜』（秩父商工会議所主催）に出演した。
+ZONEは[日本武道館](../Page/日本武道館.md "wikilink")公演を最後に解散したがこの曲の歌詞中にある「10年後の8月」の言葉通り、この曲の発売から10年後の[2011年](../Page/2011年.md "wikilink")8月に1か月間限定で再結成し、同年8月14日と15日に[東京](../Page/東京.md "wikilink")・[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で復活ライブを行った（ただし、このライブにおいて年内いっぱいチャリティー・イベントを中心に活動を続けることが発表された。\[3\]）。 また、アニメ『[あの日見た花の名前を僕達はまだ知らない。](https://ja.wikipedia.org/wiki/あの日見た花の名前を僕達はまだ知らない。 "wikilink")』のエンディングでカバーされたこと（[詳細後述](https://ja.wikipedia.org/wiki/#本間芽衣子、安城鳴子、鶴見知利子のシングル "wikilink")）が縁で、同作品の舞台となった[埼玉県](../Page/埼玉県.md "wikilink")の[秩父市](../Page/秩父市.md "wikilink")の[秩父ミューズパーク](../Page/秩父ミューズパーク.md "wikilink")野外ステージにおいて同年8月27日に開催された『東日本大震災復興チャリティコンサート IN 秩父 ZONE 〜10年後の8月に最高の思い出を〜』（秩父商工会議所主催）に出演した。
 
 ### 基本的な楽器構成
 
   - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-      - [MIYU](https://ja.wikipedia.org/wiki/長瀬実夕 "wikilink")
-      - [TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")
-      - [MAIKO](https://ja.wikipedia.org/wiki/MAIKO_\(ソロシンガー\) "wikilink")（一部）
-      - [MIZUHO](https://ja.wikipedia.org/wiki/MIZUHO "wikilink")（一部）
+      - [MIYU](../Page/長瀬実夕.md "wikilink")
+      - [TAKAYO](../Page/TAKAYO.md "wikilink")
+      - [MAIKO](../Page/MAIKO_\(ソロシンガー\).md "wikilink")（一部）
+      - [MIZUHO](../Page/MIZUHO.md "wikilink")（一部）
   - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
       - MIYU（[フェンダー・テレキャスター](../Page/フェンダー・テレキャスター.md "wikilink")・シンライン 1972）
   - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
-      - TAKAYO（[ギルド](https://ja.wikipedia.org/wiki/ギルド・ギター・カンパニー "wikilink")・S4CE?）/TOMOKA（ギルド）
+      - TAKAYO（[ギルド](../Page/ギルド・ギター・カンパニー.md "wikilink")・S4CE?）/TOMOKA（ギルド）
   - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
-      - MAIKO（[フェンダー・プレシジョンベース](https://ja.wikipedia.org/wiki/フェンダー・プレシジョンベース "wikilink")?）
+      - MAIKO（[フェンダー・プレシジョンベース](../Page/フェンダー・プレシジョンベース.md "wikilink")?）
   - [シンセサイザー](../Page/シンセサイザー.md "wikilink")
       - MIZUHO
   - [ドラムス](../Page/ドラムセット.md "wikilink")
@@ -33,7 +33,7 @@ ZONEは[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink
 
 ### プロモーション・ビデオ
 
-ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https://ja.wikipedia.org/wiki/スタジオ・ランタイム "wikilink")出身で、後に[BON'Z](https://ja.wikipedia.org/wiki/BON'Z "wikilink")に加入したJINとSYUNYAの6名が出演している。内容自体は曲の歌詞に合わせ、親友が突然転校することになり、親友の乗ったバスを見送る…という内容である\[4\]。撮影は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[千歳市](../Page/千歳市.md "wikilink")内で行われ、親友の乗ったバスは[千歳相互バス](https://ja.wikipedia.org/wiki/千歳相互観光バス "wikilink")([神奈川中央交通](https://ja.wikipedia.org/wiki/神奈川中央交通 "wikilink")からの譲受車)が使用された。
+ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https://ja.wikipedia.org/wiki/スタジオ・ランタイム "wikilink")出身で、後に[BON'Z](../Page/BON'Z.md "wikilink")に加入したJINとSYUNYAの6名が出演している。内容自体は曲の歌詞に合わせ、親友が突然転校することになり、親友の乗ったバスを見送る…という内容である\[4\]。撮影は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[千歳市](../Page/千歳市.md "wikilink")内で行われ、親友の乗ったバスは[千歳相互バス](../Page/千歳相互観光バス.md "wikilink")([神奈川中央交通](https://ja.wikipedia.org/wiki/神奈川中央交通 "wikilink")からの譲受車)が使用された。
 
 ## シングル解説
 
@@ -45,17 +45,17 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 
 1.  **secret base 〜君がくれたもの〜** \[4:55\]
       -
-        作詞・作曲：[町田紀彦](https://ja.wikipedia.org/wiki/町田紀彦 "wikilink")
+        作詞・作曲：[町田紀彦](../Page/町田紀彦.md "wikilink")
 2.  **新・僕はマグマ** \[3:24\]
       -
-        作詞：[ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")、作曲：森香
+        作詞：[ZONE](../Page/ZONE_\(バンド\).md "wikilink")、作曲：森香
 3.  secret base 〜君がくれたもの〜 （[Backing Tracks](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 4.  新・僕はマグマ （Backing Tracks）
 
 ## 収録アルバム
 
-  - [Z](https://ja.wikipedia.org/wiki/Z_\(ZONEのアルバム\) "wikilink") (\#1、ロングバージョン)
-  - [N](https://ja.wikipedia.org/wiki/N_\(ZONEのアルバム\) "wikilink") (\#1、ライブバージョン)
+  - [Z](../Page/Z_\(ZONEのアルバム\).md "wikilink") (\#1、ロングバージョン)
+  - [N](../Page/N_\(ZONEのアルバム\).md "wikilink") (\#1、ライブバージョン)
   - [E 〜Complete A side Singles〜](../Page/E_〜Complete_A_side_Singles〜.md "wikilink") (\#3)
 
 ## 同曲をカバーしたアーティスト
@@ -71,14 +71,14 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カレン・モク" title="wikilink">莫文蔚</a></p></td>
+<td><p><a href="../Page/カレン・モク.md" title="wikilink">莫文蔚</a></p></td>
 <td><p>アルバム『[i]』</p></td>
 <td><p>2002年4月19日</p></td>
 <td><p>「Alive（我的自由式）」として収録</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/たかはし智秋" title="wikilink">たかはし智秋</a>・<a href="https://ja.wikipedia.org/wiki/今井麻美" title="wikilink">今井麻美</a></p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/THE_IDOLM@STER_RADIO" title="wikilink">THE IDOLM@STER RADIO TOP×TOP!</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/たかはし智秋" title="wikilink">たかはし智秋</a>・<a href="../Page/今井麻美.md" title="wikilink">今井麻美</a></p></td>
+<td><p>アルバム『<a href="../Page/THE_IDOLM@STER_RADIO.md" title="wikilink">THE IDOLM@STER RADIO TOP×TOP!</a>』</p></td>
 <td><p>2007年5月30日</p></td>
 <td></td>
 </tr>
@@ -108,8 +108,8 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 </tr>
 <tr class="odd">
 <td><p>本間芽衣子（<a href="https://ja.wikipedia.org/wiki/茅野愛衣" title="wikilink">茅野愛衣</a>）<br />
-安城鳴子（<a href="https://ja.wikipedia.org/wiki/戸松遥" title="wikilink">戸松遥</a>[5]）<br />
-鶴見知利子（<a href="https://ja.wikipedia.org/wiki/早見沙織" title="wikilink">早見沙織</a>）</p></td>
+安城鳴子（<a href="../Page/戸松遥.md" title="wikilink">戸松遥</a>[5]）<br />
+鶴見知利子（<a href="../Page/早見沙織.md" title="wikilink">早見沙織</a>）</p></td>
 <td><p>シングル『secret base 〜君がくれたもの〜』</p></td>
 <td><p>2011年4月27日</p></td>
 <td><p>詳細は下記参照</p></td>
@@ -133,7 +133,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/吉川友" title="wikilink">吉川友</a></p></td>
+<td><p><a href="../Page/吉川友.md" title="wikilink">吉川友</a></p></td>
 <td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/ボカリスト？" title="wikilink">ボカリスト？</a>』</p></td>
 <td><p>2012年11月7日</p></td>
 <td></td>
@@ -157,7 +157,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福原香織" title="wikilink">福原香織</a>と<a href="https://ja.wikipedia.org/wiki/リアルアキバボーイズ" title="wikilink">RAB</a></p></td>
+<td><p><a href="../Page/福原香織.md" title="wikilink">福原香織</a>と<a href="https://ja.wikipedia.org/wiki/リアルアキバボーイズ" title="wikilink">RAB</a></p></td>
 <td><p>アルバム『売れたい！』</p></td>
 <td><p>2014年2月19日</p></td>
 <td></td>
@@ -203,7 +203,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/和島あみ" title="wikilink">和島あみ</a></p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/じわソン_〜声優の卵が選んだ“泣けるアニソン”を、和島あみが歌ってみた〜" title="wikilink">じわソン 〜声優の卵が選んだ“泣けるアニソン”を、和島あみが歌ってみた〜</a>』</p></td>
+<td><p>アルバム『<a href="../Page/じわソン_〜声優の卵が選んだ“泣けるアニソン”を、和島あみが歌ってみた〜.md" title="wikilink">じわソン 〜声優の卵が選んだ“泣けるアニソン”を、和島あみが歌ってみた〜</a>』</p></td>
 <td><p>2020年1月17日</p></td>
 <td></td>
 </tr>
@@ -212,9 +212,9 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 
 ### 本間芽衣子、安城鳴子、鶴見知利子のシングル
 
-[2011年](../Page/2011年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に[アニプレックス](../Page/アニプレックス.md "wikilink")から発売された[キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")で、[VOCALOID](https://ja.wikipedia.org/wiki/VOCALOID "wikilink")等を手掛ける音楽集団「estlabo」によりアレンジされている。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[あの日見た花の名前を僕達はまだ知らない。](https://ja.wikipedia.org/wiki/あの日見た花の名前を僕達はまだ知らない。 "wikilink")』の[エンディングテーマになっており](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、同アニメでヒロイン3人を演じる茅野愛衣、戸松遥、早見沙織の3人が歌っている。初回限定盤には2種類のノンクレジットエンディングとトレーラー、[SPOTを収録したDVDが同梱されている](https://ja.wikipedia.org/wiki/スポットCM "wikilink")。また、通常盤の[ジャケットでは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、原曲でZONEのメンバーの夕日を眺めている様子が本間芽衣子、安城鳴子、鶴見知利子の[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")により再現されている。
+[2011年](../Page/2011年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に[アニプレックス](../Page/アニプレックス.md "wikilink")から発売された[キャラクターソング](../Page/キャラクターソング.md "wikilink")で、[VOCALOID](../Page/VOCALOID.md "wikilink")等を手掛ける音楽集団「estlabo」によりアレンジされている。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[あの日見た花の名前を僕達はまだ知らない。](https://ja.wikipedia.org/wiki/あの日見た花の名前を僕達はまだ知らない。 "wikilink")』の[エンディングテーマになっており](../Page/主題歌.md "wikilink")、同アニメでヒロイン3人を演じる茅野愛衣、戸松遥、早見沙織の3人が歌っている。初回限定盤には2種類のノンクレジットエンディングとトレーラー、[SPOTを収録したDVDが同梱されている](../Page/スポットCM.md "wikilink")。また、通常盤の[ジャケットでは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、原曲でZONEのメンバーの夕日を眺めている様子が本間芽衣子、安城鳴子、鶴見知利子の[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")により再現されている。
 
-2011年5月9日付の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で10位を獲得。キャラクターソングによるカバーシングルとしては異例となるオリコントップ10入りを果たした\[8\]。 その後も、2018年6月付で有料音楽配信売上25万ダウンロード以上（プラチナ）に到達した\[9\]。
+2011年5月9日付の[オリコンチャート](../Page/オリコンチャート.md "wikilink")で10位を獲得。キャラクターソングによるカバーシングルとしては異例となるオリコントップ10入りを果たした\[8\]。 その後も、2018年6月付で有料音楽配信売上25万ダウンロード以上（プラチナ）に到達した\[9\]。
 
 2019年3月1日には、[ソニー・ミュージックエンタテインメントのアニメソング人気投票キャンペーン](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")「[平成アニソン大賞](https://ja.wikipedia.org/wiki/平成アニソン大賞 "wikilink")」において企画賞（2010年 - 2019年）に選出された\[10\]。
 
@@ -255,7 +255,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 1.  [TAKAYOは大みそか紅白でZONEを「卒業」](http://web.archive.org/web/20040213001925/http://www.sanspo.com/geino/top/gt200312/gt2003121102.html)、SANSPO.COM、2003年12月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  [2003年 国内作品分配額ベスト10(金・銀・銅賞関連)](http://www.jasrac.or.jp/profile/prize/2003_country.html)、日本音楽著作権協会、2003年。
 3.
-4.  これは、作詞作曲者の[町田紀彦](https://ja.wikipedia.org/wiki/町田紀彦 "wikilink")自身の少年時代の実体験に基づく。
+4.  これは、作詞作曲者の[町田紀彦](../Page/町田紀彦.md "wikilink")自身の少年時代の実体験に基づく。
 5.  戸松遥は、2009年8月30日に行われた、自身が所属する声優ユニット[スフィアのイベント](https://ja.wikipedia.org/wiki/スフィア_\(声優ユニット\) "wikilink")『Shake X Sphere 〜夏の夜の夢〜』内にて、同ユニットとしてもこの曲をカバーしている。
 6.
 7.

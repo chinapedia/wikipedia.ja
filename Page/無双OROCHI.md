@@ -1,13 +1,13 @@
 > この記事は[OROCHI](https://ja.wikipedia.org/wiki/OROCHI)から翻訳されています。
 
 
-『**無双OROCHI**』（むそうオロチ）は、[コーエー](../Page/コーエー.md "wikilink")より発売の[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[PlayStation 2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2007年3月21日、[Xbox 360版は](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")2007年9月13日、[PlayStation Portable版は](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")2008年2月21日、Windows版が2008年3月20日に発売。海外でのタイトルは、『[Warriors Orochi](https://ja.wikipedia.org/wiki/:en:Warriors_Orochi "wikilink")』。
+『**無双OROCHI**』（むそうオロチ）は、[コーエー](../Page/コーエー.md "wikilink")より発売の[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[PlayStation 2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2007年3月21日、[Xbox 360版は](../Page/Xbox_360.md "wikilink")2007年9月13日、[PlayStation Portable版は](../Page/PlayStation_Portable.md "wikilink")2008年2月21日、Windows版が2008年3月20日に発売。海外でのタイトルは、『[Warriors Orochi](https://ja.wikipedia.org/wiki/:en:Warriors_Orochi "wikilink")』。
 
 キャッチコピーは「**その敵は、本当の敵なのか。**」。
 
 ## 概要
 
-[無双シリーズ](https://ja.wikipedia.org/wiki/無双シリーズ "wikilink")の10周年記念作。[魔王](https://ja.wikipedia.org/wiki/魔王 "wikilink")・遠呂智（おろち）の力で融合した、『[真・三國無双シリーズ](https://ja.wikipedia.org/wiki/真・三國無双シリーズ "wikilink")』の世界と『[戦国無双シリーズ](https://ja.wikipedia.org/wiki/戦国無双シリーズ "wikilink")』の世界を舞台に『三國』と『戦国』の英雄たちの共闘や対立が描かれる[無双OROCHIシリーズ](https://ja.wikipedia.org/wiki/無双OROCHIシリーズ "wikilink")の1作目。以降『[無双OROCHI 魔王再臨](https://ja.wikipedia.org/wiki/無双OROCHI_魔王再臨 "wikilink")』（2008年4月3日発売）、『[無双OROCHI 2](https://ja.wikipedia.org/wiki/無双OROCHI_2 "wikilink")』（2011年12月22日発売）とシリーズが続いてゆく。また、『[無双OROCHI Z](https://ja.wikipedia.org/wiki/無双OROCHI_Z "wikilink")』（2009年3月12日発売）には本作のストーリーが全話収録されている。
+[無双シリーズ](../Page/無双シリーズ.md "wikilink")の10周年記念作。[魔王](../Page/魔王.md "wikilink")・遠呂智（おろち）の力で融合した、『[真・三國無双シリーズ](https://ja.wikipedia.org/wiki/真・三國無双シリーズ "wikilink")』の世界と『[戦国無双シリーズ](https://ja.wikipedia.org/wiki/戦国無双シリーズ "wikilink")』の世界を舞台に『三國』と『戦国』の英雄たちの共闘や対立が描かれる[無双OROCHIシリーズ](https://ja.wikipedia.org/wiki/無双OROCHIシリーズ "wikilink")の1作目。以降『[無双OROCHI 魔王再臨](https://ja.wikipedia.org/wiki/無双OROCHI_魔王再臨 "wikilink")』（2008年4月3日発売）、『[無双OROCHI 2](https://ja.wikipedia.org/wiki/無双OROCHI_2 "wikilink")』（2011年12月22日発売）とシリーズが続いてゆく。また、『[無双OROCHI Z](https://ja.wikipedia.org/wiki/無双OROCHI_Z "wikilink")』（2009年3月12日発売）には本作のストーリーが全話収録されている。
 
 シリーズ1作目であるが、3人1組で行う戦闘や武器属性といったシリーズの基本要素はすでに登場している。一方、本作のみのシステムとしてR1ボタンで発動するタイプアクションの性能を上げ、キャラクター毎にギャラリーのイラストを解放するキャラクター専用アイテムが挙げられる。
 
@@ -17,9 +17,9 @@
 
 ## 登場キャラクター
 
-『[真・三國無双シリーズ](https://ja.wikipedia.org/wiki/真・三國無双シリーズ "wikilink")』のプレイアブルキャラクターは『[真・三國無双4](https://ja.wikipedia.org/wiki/真・三國無双4 "wikilink")』に登場した**48人**がそのまま登場。『[真・三國無双2](https://ja.wikipedia.org/wiki/真・三國無双2 "wikilink")』に登場した[伏犠と](https://ja.wikipedia.org/wiki/伏羲 "wikilink")[女媧は登場しない](https://ja.wikipedia.org/wiki/女カ "wikilink")。一般武将は同作と『真・三國無双4 猛将伝』から登場。[張魯](https://ja.wikipedia.org/wiki/張魯 "wikilink")の口調は、『真・三國無双4 猛将伝』のようなオカマ口調から修正されている。
+『[真・三國無双シリーズ](https://ja.wikipedia.org/wiki/真・三國無双シリーズ "wikilink")』のプレイアブルキャラクターは『[真・三國無双4](https://ja.wikipedia.org/wiki/真・三國無双4 "wikilink")』に登場した**48人**がそのまま登場。『[真・三國無双2](https://ja.wikipedia.org/wiki/真・三國無双2 "wikilink")』に登場した[伏犠と](../Page/伏羲.md "wikilink")[女媧は登場しない](../Page/女カ.md "wikilink")。一般武将は同作と『真・三國無双4 猛将伝』から登場。[張魯](../Page/張魯.md "wikilink")の口調は、『真・三國無双4 猛将伝』のようなオカマ口調から修正されている。
 
-『[戦国無双シリーズ](https://ja.wikipedia.org/wiki/戦国無双シリーズ "wikilink")』のプレイアブルキャラクターは『[戦国無双2](https://ja.wikipedia.org/wiki/戦国無双2 "wikilink")』に登場した26名に、同作に登場しなかった「[石川五右衛門](../Page/石川五右衛門.md "wikilink")」、「[くのいち](../Page/くノ一.md "wikilink")」、「[今川義元](../Page/今川義元.md "wikilink")」を加えた計**29人**が登場。PS2版発売当時は『戦国無双2 猛将伝』が未発売だったため、まだプレイヤーキャラ化していない[柴田勝家](../Page/柴田勝家.md "wikilink")と[佐々木小次郎](https://ja.wikipedia.org/wiki/佐々木小次郎 "wikilink")は登場せず、[前田利家](../Page/前田利家.md "wikilink")は一般武将扱いとなっており、設定さえも存在していなかった[ガラシャも登場しない](https://ja.wikipedia.org/wiki/細川ガラシャ "wikilink")。人物設定の一部は『[戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")』（第1作）のもの（蘭丸と光秀の関係や孫市と慶次の関係など）が復活している。
+『[戦国無双シリーズ](https://ja.wikipedia.org/wiki/戦国無双シリーズ "wikilink")』のプレイアブルキャラクターは『[戦国無双2](https://ja.wikipedia.org/wiki/戦国無双2 "wikilink")』に登場した26名に、同作に登場しなかった「[石川五右衛門](../Page/石川五右衛門.md "wikilink")」、「[くのいち](../Page/くノ一.md "wikilink")」、「[今川義元](../Page/今川義元.md "wikilink")」を加えた計**29人**が登場。PS2版発売当時は『戦国無双2 猛将伝』が未発売だったため、まだプレイヤーキャラ化していない[柴田勝家](../Page/柴田勝家.md "wikilink")と[佐々木小次郎](../Page/佐々木小次郎.md "wikilink")は登場せず、[前田利家](../Page/前田利家.md "wikilink")は一般武将扱いとなっており、設定さえも存在していなかった[ガラシャも登場しない](../Page/細川ガラシャ.md "wikilink")。人物設定の一部は『[戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")』（第1作）のもの（蘭丸と光秀の関係や孫市と慶次の関係など）が復活している。
 
 これに加えて、本シリーズオリジナルのプレイアブルキャラクターとして「[遠呂智](../Page/ヤマタノオロチ.md "wikilink")」と「[妲己](../Page/妲己.md "wikilink")」が登場し、プレイアブルキャラは**総勢79人**となる。以下はシナリオ開始段階での(生死・行方不明は実際の)武将の所属。
 
@@ -28,49 +28,49 @@
   - 趙雲軍
     遠呂智軍に囚われていたが左慈と星彩に助け出され軍を起こす。上田城水門に囚われていた[張苞](https://ja.wikipedia.org/wiki/張苞 "wikilink")をも加えて脱獄し、長谷堂を運ばれていた月英をも救って以降、劉備の影を追う。
   - 夏侯惇・夏侯淵軍
-    夏侯惇、夏侯淵が率いる[夏侯氏](https://ja.wikipedia.org/wiki/夏侯氏 "wikilink")たち。[劉曄](https://ja.wikipedia.org/wiki/劉曄 "wikilink")、[李典](https://ja.wikipedia.org/wiki/李典 "wikilink")、龐統が身を寄せるが、[夏侯恩](https://ja.wikipedia.org/wiki/夏侯恩 "wikilink")だけは遠呂智軍に所属。遠呂智に与するのを良しとせず、曹操の生還を信じ杭瀬川や本能寺を転戦。最終的には信長の勧めに従い曹丕・石田軍に合流した。三方ヶ原にも現れる。
+    夏侯惇、夏侯淵が率いる[夏侯氏](../Page/夏侯氏.md "wikilink")たち。[劉曄](../Page/劉曄.md "wikilink")、[李典](../Page/李典.md "wikilink")、龐統が身を寄せるが、[夏侯恩](https://ja.wikipedia.org/wiki/夏侯恩 "wikilink")だけは遠呂智軍に所属。遠呂智に与するのを良しとせず、曹操の生還を信じ杭瀬川や本能寺を転戦。最終的には信長の勧めに従い曹丕・石田軍に合流した。三方ヶ原にも現れる。
   - 陸遜軍
-    陸遜が率いる、凌統、甘寧ら孫呉の残党軍。織田信長や豊臣秀吉や徳川家康とはぐれた[中川清秀](https://ja.wikipedia.org/wiki/中川清秀 "wikilink")や[鍋島直茂](../Page/鍋島直茂.md "wikilink")も、姜維とはぐれた[加賀一向宗も](../Page/加賀一向一揆.md "wikilink")、黄蓋とはぐれた[長宗我部氏](../Page/長宗我部氏.md "wikilink")も所属。遠呂智に与するのを良しとしなかったが、孫策・森軍に敗れ、趙雲・島津軍に合流するも再び孫策・森軍と戦闘して離散し、甘寧以外は織田軍に、甘寧は浅井軍に合流した。[朱然](https://ja.wikipedia.org/wiki/朱然 "wikilink")は孫策軍との間を行き来し、陸遜と共に赤壁にも現れる。
+    陸遜が率いる、凌統、甘寧ら孫呉の残党軍。織田信長や豊臣秀吉や徳川家康とはぐれた[中川清秀](../Page/中川清秀.md "wikilink")や[鍋島直茂](../Page/鍋島直茂.md "wikilink")も、姜維とはぐれた[加賀一向宗も](../Page/加賀一向一揆.md "wikilink")、黄蓋とはぐれた[長宗我部氏](../Page/長宗我部氏.md "wikilink")も所属。遠呂智に与するのを良しとしなかったが、孫策・森軍に敗れ、趙雲・島津軍に合流するも再び孫策・森軍と戦闘して離散し、甘寧以外は織田軍に、甘寧は浅井軍に合流した。[朱然](../Page/朱然.md "wikilink")は孫策軍との間を行き来し、陸遜と共に赤壁にも現れる。
   - 織田軍
-    織田信長が率いる、豊臣秀吉・明智光秀・前田利家・[森長可](../Page/森長可.md "wikilink")・[黒田官兵衛などの尾張](../Page/黒田孝高.md "wikilink")・美濃出身者たち。なぜか[孟達](https://ja.wikipedia.org/wiki/孟達 "wikilink")の姿も見られ、遠呂智軍に[山内一豊](../Page/山内一豊.md "wikilink")や[並河易家](https://ja.wikipedia.org/wiki/並河易家 "wikilink")や[中村氏](https://ja.wikipedia.org/wiki/中村氏 "wikilink")がいる。初期から反遠呂智勢力の筆頭として各地で奮戦する。[豊臣秀頼](../Page/豊臣秀頼.md "wikilink")は突然ねね軍に参加するもそちらにいた[高山重友を連れて戻って来た](../Page/高山右近.md "wikilink")。[蜂須賀小六は金ヶ崎では遠呂智軍に降るも白帝城では復帰](../Page/蜂須賀正勝.md "wikilink")。[田中吉政](../Page/田中吉政.md "wikilink")と[黒田長政](../Page/黒田長政.md "wikilink")は突然剣豪衆に参入するも稲姫軍に吸収される。自軍の拡張と同時に他の反遠呂智勢力への援助や遠呂智からの裏切り者を誘発する[調略](https://ja.wikipedia.org/wiki/調略 "wikilink")を行っており、反遠呂智包囲網の形成を目論む。
+    織田信長が率いる、豊臣秀吉・明智光秀・前田利家・[森長可](../Page/森長可.md "wikilink")・[黒田官兵衛などの尾張](../Page/黒田孝高.md "wikilink")・美濃出身者たち。なぜか[孟達](../Page/孟達.md "wikilink")の姿も見られ、遠呂智軍に[山内一豊](../Page/山内一豊.md "wikilink")や[並河易家](https://ja.wikipedia.org/wiki/並河易家 "wikilink")や[中村氏](../Page/中村氏.md "wikilink")がいる。初期から反遠呂智勢力の筆頭として各地で奮戦する。[豊臣秀頼](../Page/豊臣秀頼.md "wikilink")は突然ねね軍に参加するもそちらにいた[高山重友を連れて戻って来た](../Page/高山右近.md "wikilink")。[蜂須賀小六は金ヶ崎では遠呂智軍に降るも白帝城では復帰](../Page/蜂須賀正勝.md "wikilink")。[田中吉政](../Page/田中吉政.md "wikilink")と[黒田長政](../Page/黒田長政.md "wikilink")は突然剣豪衆に参入するも稲姫軍に吸収される。自軍の拡張と同時に他の反遠呂智勢力への援助や遠呂智からの裏切り者を誘発する[調略](https://ja.wikipedia.org/wiki/調略 "wikilink")を行っており、反遠呂智包囲網の形成を目論む。
   - 島津軍
     島津義弘が率いる薩摩出身者たち。星彩と行動を共にして趙雲軍に合流し、上田城の砦に投獄されていた立花誾千代を解放する。
   - 黄蓋軍
-    黄蓋が率い、[斎藤利三](../Page/斎藤利三.md "wikilink")、[塙団右衛門](https://ja.wikipedia.org/wiki/塙団右衛門 "wikilink")、[下間氏](https://ja.wikipedia.org/wiki/下間氏 "wikilink")、長宗我部氏、許褚が参加。杭瀬川で妲己・曹丕・石田軍に倒され、許褚は吸収され、長宗我部氏は陸遜軍に合流する。残る者も曹魏・石田軍に3回命を救われたため合流する。
+    黄蓋が率い、[斎藤利三](../Page/斎藤利三.md "wikilink")、[塙団右衛門](https://ja.wikipedia.org/wiki/塙団右衛門 "wikilink")、[下間氏](../Page/下間氏.md "wikilink")、長宗我部氏、許褚が参加。杭瀬川で妲己・曹丕・石田軍に倒され、許褚は吸収され、長宗我部氏は陸遜軍に合流する。残る者も曹魏・石田軍に3回命を救われたため合流する。
   - 馬超軍
-    馬超が率いる、姜維や[皇甫嵩](https://ja.wikipedia.org/wiki/皇甫嵩 "wikilink")ら涼州出身者たち。劉備や諸葛亮や張飛とはぐれた月英や張苞や[劉封](https://ja.wikipedia.org/wiki/劉封 "wikilink")が蜀残党と共に、織田信長や森長可とはぐれた森蘭丸が親兄弟や[徳山秀現](https://ja.wikipedia.org/wiki/徳山秀現 "wikilink")と共に参加しかし、[張魯](https://ja.wikipedia.org/wiki/張魯 "wikilink")軍は遠呂智軍に所属。孫呉・徳川・徐晃軍に敗れ、森軍は孫呉軍に吸収され、劉封以外の蜀残党と姜維は趙雲・島津軍に、姜維以外の涼州出身者と劉封は織田軍に合流。織田軍に合流した者は赤壁にも現れる。
+    馬超が率いる、姜維や[皇甫嵩](../Page/皇甫嵩.md "wikilink")ら涼州出身者たち。劉備や諸葛亮や張飛とはぐれた月英や張苞や[劉封](../Page/劉封.md "wikilink")が蜀残党と共に、織田信長や森長可とはぐれた森蘭丸が親兄弟や[徳山秀現](https://ja.wikipedia.org/wiki/徳山秀現 "wikilink")と共に参加しかし、[張魯](../Page/張魯.md "wikilink")軍は遠呂智軍に所属。孫呉・徳川・徐晃軍に敗れ、森軍は孫呉軍に吸収され、劉封以外の蜀残党と姜維は趙雲・島津軍に、姜維以外の涼州出身者と劉封は織田軍に合流。織田軍に合流した者は赤壁にも現れる。
   - 黄忠軍
-    黄忠が率いる益州出身者たち。曹魏・石田軍に包囲されるも織田軍に救われ合流する。[公孫越](https://ja.wikipedia.org/wiki/公孫越 "wikilink")と[簡雍](https://ja.wikipedia.org/wiki/簡雍 "wikilink")と関平の姿が見られるが、[公孫瓚は遠呂智軍に](https://ja.wikipedia.org/wiki/公孫サン "wikilink")、[劉璝](https://ja.wikipedia.org/wiki/劉璝 "wikilink")は独立後の孫呉軍にいる。
+    黄忠が率いる益州出身者たち。曹魏・石田軍に包囲されるも織田軍に救われ合流する。[公孫越](../Page/公孫越.md "wikilink")と[簡雍](../Page/簡雍.md "wikilink")と関平の姿が見られるが、[公孫瓚は遠呂智軍に](../Page/公孫サン.md "wikilink")、[劉璝](https://ja.wikipedia.org/wiki/劉璝 "wikilink")は独立後の孫呉軍にいる。
   - 雑賀衆
-    雑賀孫市が率いる[石山](https://ja.wikipedia.org/wiki/石山合戦 "wikilink")・[紀州の](https://ja.wikipedia.org/wiki/紀州征伐 "wikilink")[雑賀党鈴木氏](https://ja.wikipedia.org/wiki/雑賀党鈴木氏 "wikilink")たち。趙雲脱獄まで遠呂智領にいたが、趙雲軍と共に月英軍を救援し合流、成都城や新帝城の偵察を担う。
+    雑賀孫市が率いる[石山](../Page/石山合戦.md "wikilink")・[紀州の](../Page/紀州征伐.md "wikilink")[雑賀党鈴木氏](https://ja.wikipedia.org/wiki/雑賀党鈴木氏 "wikilink")たち。趙雲脱獄まで遠呂智領にいたが、趙雲軍と共に月英軍を救援し合流、成都城や新帝城の偵察を担う。
   - 上杉軍
-    上杉謙信が率いる、直江兼続などの越後出身者たち。九州の戦で織田軍と、長篠の戦で武田軍と共に戦う。後に織田軍と合流。[色部光長](https://ja.wikipedia.org/wiki/色部光長 "wikilink")や[本庄繁長](../Page/本庄繁長.md "wikilink")、[水原親憲](https://ja.wikipedia.org/wiki/水原親憲 "wikilink")は遠呂智軍に所属。
+    上杉謙信が率いる、直江兼続などの越後出身者たち。九州の戦で織田軍と、長篠の戦で武田軍と共に戦う。後に織田軍と合流。[色部光長](https://ja.wikipedia.org/wiki/色部光長 "wikilink")や[本庄繁長](../Page/本庄繁長.md "wikilink")、[水原親憲](../Page/水原親憲.md "wikilink")は遠呂智軍に所属。
   - 魏延軍
     魏延が率いる蜀漢の小規模な残党軍。劉備がいると聞いて駆けつけた成都で袁紹軍に挑まれ、趙雲・島津・雑賀衆軍に救われ合流した。
   - 武田軍
     武田信玄が率いる甲斐出身者たち。本能寺の戦で織田・夏侯惇軍と、長篠の戦で上杉軍と共に戦う。後に織田軍と合流。[小山田信茂](../Page/小山田信茂.md "wikilink")は遠呂智軍に所属。
   - 浅井・[朝倉軍](https://ja.wikipedia.org/wiki/朝倉氏 "wikilink")
-    浅井長政が率いる北近江出身者たちと、[朝倉義景](../Page/朝倉義景.md "wikilink")が率いる越前出身者たちの共同戦線。浅井軍には織田信長とはぐれたお市も、陸遜や凌統とはぐれた甘寧も参加。[京極高次](https://ja.wikipedia.org/wiki/京極高次 "wikilink")や[六角義賢](../Page/六角義賢.md "wikilink")、[前波吉継](../Page/前波吉継.md "wikilink")、[赤座直保](https://ja.wikipedia.org/wiki/赤座直保 "wikilink")、[小川祐忠](../Page/小川祐忠.md "wikilink")が所属する石田軍が曹魏と組んで遠呂智軍から独立した際の戦いに敗れ、曹魏・石田軍に吸収される。
+    浅井長政が率いる北近江出身者たちと、[朝倉義景](../Page/朝倉義景.md "wikilink")が率いる越前出身者たちの共同戦線。浅井軍には織田信長とはぐれたお市も、陸遜や凌統とはぐれた甘寧も参加。[京極高次](../Page/京極高次.md "wikilink")や[六角義賢](../Page/六角義賢.md "wikilink")、[前波吉継](../Page/前波吉継.md "wikilink")、[赤座直保](../Page/赤座直保.md "wikilink")、[小川祐忠](../Page/小川祐忠.md "wikilink")が所属する石田軍が曹魏と組んで遠呂智軍から独立した際の戦いに敗れ、曹魏・石田軍に吸収される。
   - 袁紹軍
-    袁紹が率いる。武田軍や豊臣軍とはぐれた真田軍も、黄巾党とはぐれた[劉辟](https://ja.wikipedia.org/wiki/劉辟 "wikilink")も従えているが、[郭図](https://ja.wikipedia.org/wiki/郭図 "wikilink")や[逢紀](https://ja.wikipedia.org/wiki/逢紀 "wikilink")や[辛評](https://ja.wikipedia.org/wiki/辛評 "wikilink")兄弟や[呂翔](https://ja.wikipedia.org/wiki/呂翔 "wikilink")兄弟や[朱霊](https://ja.wikipedia.org/wiki/朱霊 "wikilink")は遠呂智軍に所属。妲己に騙されて蜀漢軍に挑むも敗れ、真田軍と劉辟はその時点で吸収され、[高幹](https://ja.wikipedia.org/wiki/高幹 "wikilink")や[淳于瓊](https://ja.wikipedia.org/wiki/淳于瓊 "wikilink")は独立後の孫呉軍に合流し、袁紹は遠呂智軍の捕虜となって劉備と偽られて蜀漢軍に救われ残る者と共に合流した。
+    袁紹が率いる。武田軍や豊臣軍とはぐれた真田軍も、黄巾党とはぐれた[劉辟](../Page/劉辟.md "wikilink")も従えているが、[郭図](../Page/郭図.md "wikilink")や[逢紀](../Page/逢紀.md "wikilink")や[辛評](../Page/辛評.md "wikilink")兄弟や[呂翔](../Page/呂翔.md "wikilink")兄弟や[朱霊](../Page/朱霊.md "wikilink")は遠呂智軍に所属。妲己に騙されて蜀漢軍に挑むも敗れ、真田軍と劉辟はその時点で吸収され、[高幹](../Page/高幹.md "wikilink")や[淳于瓊](../Page/淳于瓊.md "wikilink")は独立後の孫呉軍に合流し、袁紹は遠呂智軍の捕虜となって劉備と偽られて蜀漢軍に救われ残る者と共に合流した。
   - 黄巾党・小喬軍
-    張角が率いる黄巾党たちと、小喬が率いる荊州出身者たちの共同戦線。島左近や[筒井順慶](../Page/筒井順慶.md "wikilink")、[穴山信君](../Page/穴山信君.md "wikilink")、[片桐且元](../Page/片桐且元.md "wikilink")、阿国、[于吉](https://ja.wikipedia.org/wiki/于吉 "wikilink")の姿があるも、[張燕](https://ja.wikipedia.org/wiki/張燕 "wikilink")と[筒井定次](../Page/筒井定次.md "wikilink")と[文聘](https://ja.wikipedia.org/wiki/文聘 "wikilink")と[蔡瑁](https://ja.wikipedia.org/wiki/蔡瑁 "wikilink")は遠呂智軍にいる。杭瀬川で黄蓋・夏侯淵軍に加勢はしていたが、多くある反乱軍の中でも特に統率が取れておらず、参謀たる島左近を活かしきれなかった。左近以外は織田軍に吸収され、左近は織田軍に護送されて陸遜軍を経て孫策軍に合流し、大阪城の天守閣に投獄されていた[可児才蔵を脱獄させる](../Page/可児吉長.md "wikilink")。阿国は華容道にも現れる。
+    張角が率いる黄巾党たちと、小喬が率いる荊州出身者たちの共同戦線。島左近や[筒井順慶](../Page/筒井順慶.md "wikilink")、[穴山信君](../Page/穴山信君.md "wikilink")、[片桐且元](../Page/片桐且元.md "wikilink")、阿国、[于吉](../Page/于吉.md "wikilink")の姿があるも、[張燕](../Page/張燕.md "wikilink")と[筒井定次](../Page/筒井定次.md "wikilink")と[文聘](../Page/文聘.md "wikilink")と[蔡瑁](../Page/蔡瑁.md "wikilink")は遠呂智軍にいる。杭瀬川で黄蓋・夏侯淵軍に加勢はしていたが、多くある反乱軍の中でも特に統率が取れておらず、参謀たる島左近を活かしきれなかった。左近以外は織田軍に吸収され、左近は織田軍に護送されて陸遜軍を経て孫策軍に合流し、大阪城の天守閣に投獄されていた[可児才蔵を脱獄させる](../Page/可児吉長.md "wikilink")。阿国は華容道にも現れる。
   - 南蛮軍
     孟獲が率いる、祝融ら南中出身者たち。散発的に奇襲を繰り返すことで遠呂智からの独立を保っていたが、曹魏軍に南中まで攻め込まれて窮地に陥った。通りすがった趙雲・島津・雑賀衆軍と共にこれを撃退すると合流した。
   - 曹操軍
     曹操が率いる、典韋、[曹叡](../Page/曹叡.md "wikilink")ら曹魏の小規模な残党軍。戦死したと伝えられていたが、実際には潜伏していた。後に曹丕が曹魏を復活させた際に旗を揚げ、山崎の戦いでは董卓の罠にかかる曹丕を救い合流した。白帝城にも現れる。
   - [北条軍](https://ja.wikipedia.org/wiki/後北条氏 "wikilink")
-    [北条氏政](../Page/北条氏政.md "wikilink")が率いる相模出身者たち。風魔衆は所属不明になっていて、[笠原政尭](https://ja.wikipedia.org/wiki/笠原政尭 "wikilink")や[松田直秀](https://ja.wikipedia.org/wiki/松田直秀 "wikilink")、[松田康郷](https://ja.wikipedia.org/wiki/松田康郷 "wikilink")、[千葉直重](https://ja.wikipedia.org/wiki/千葉直重 "wikilink")は遠呂智軍に所属。最上軍の急襲を受け曹魏・佐竹・三好・六角軍に吸収される、もしくは蜀漢・真田軍に救われ合流する。
+    [北条氏政](../Page/北条氏政.md "wikilink")が率いる相模出身者たち。風魔衆は所属不明になっていて、[笠原政尭](https://ja.wikipedia.org/wiki/笠原政尭 "wikilink")や[松田直秀](https://ja.wikipedia.org/wiki/松田直秀 "wikilink")、[松田康郷](https://ja.wikipedia.org/wiki/松田康郷 "wikilink")、[千葉直重](../Page/千葉直重.md "wikilink")は遠呂智軍に所属。最上軍の急襲を受け曹魏・佐竹・三好・六角軍に吸収される、もしくは蜀漢・真田軍に救われ合流する。
   - ねね軍
     ねねが率いる、尾張中村出身者及び豊臣股肱の武将たち。神出鬼没の活躍で遠呂智軍を翻弄していたが、董卓・張遼軍に敗れる。ねね自身などは条件を満たすことで曹魏軍に吸収できるが、[小西行長](../Page/小西行長.md "wikilink")は孫呉・島軍に合流する。
   - 濃姫軍
-    遠呂智軍に囚われていたが、島左近を送って孫堅の居場所を教えてくれた織田信長への恩返しに呂蒙と太史慈に助け出され軍を起こす。甄姫軍として遠呂智から離反した[細川忠興](../Page/細川忠興.md "wikilink")や、皇甫嵩との再会を狙う[朱儁](https://ja.wikipedia.org/wiki/朱儁 "wikilink")を従えて、白帝城を織田軍と共に挟撃する。条件によっては孫呉軍に合流する。[斎藤龍興](../Page/斎藤龍興.md "wikilink")と[陶謙](https://ja.wikipedia.org/wiki/陶謙 "wikilink")は遠呂智軍に所属。
+    遠呂智軍に囚われていたが、島左近を送って孫堅の居場所を教えてくれた織田信長への恩返しに呂蒙と太史慈に助け出され軍を起こす。甄姫軍として遠呂智から離反した[細川忠興](../Page/細川忠興.md "wikilink")や、皇甫嵩との再会を狙う[朱儁](../Page/朱儁.md "wikilink")を従えて、白帝城を織田軍と共に挟撃する。条件によっては孫呉軍に合流する。[斎藤龍興](../Page/斎藤龍興.md "wikilink")と[陶謙](../Page/陶謙.md "wikilink")は遠呂智軍に所属。
   - 剣豪衆
-    宮本武蔵が率いる日本の剣豪たち。山賊に騙されて蜀漢軍と戦うが、真相が分かると共闘する。後に曹魏・最上・呂布軍の攻撃を受ける。武蔵自身は条件を満たすことで共に撃退した蜀漢・南蛮軍に合流するが、[柳生宗矩](https://ja.wikipedia.org/wiki/柳生宗矩 "wikilink")と[薄田兼相](https://ja.wikipedia.org/wiki/薄田兼相 "wikilink")は本多軍に合流する。
+    宮本武蔵が率いる日本の剣豪たち。山賊に騙されて蜀漢軍と戦うが、真相が分かると共闘する。後に曹魏・最上・呂布軍の攻撃を受ける。武蔵自身は条件を満たすことで共に撃退した蜀漢・南蛮軍に合流するが、[柳生宗矩](../Page/柳生宗矩.md "wikilink")と[薄田兼相](../Page/薄田兼相.md "wikilink")は本多軍に合流する。
   - 今川軍
     今川義元が率いる駿河出身者たち。曹魏軍に襲われて民や侍女や村長とともに宛城から脱出したかと思えば、雑賀で曹魏軍を挟み討つ謙信・信玄来々の黒幕として登場したり、前田軍の挑戦状では孫呉・徳川軍が何をしているのかも知らないまま援軍に現われたりと、風魔衆のように行動が読めない反乱軍。条件によっては曹魏軍に吸収される。
   - 本多軍
-    本多忠勝が率いる、その息子と日本の剣豪の混成軍。民などに加勢し、呂布に勝利するなど圧倒的武力で遠呂智軍から恐れられ、曹丕・浅井・朝倉軍が条件を満たしてからは[陳蘭](https://ja.wikipedia.org/wiki/陳蘭 "wikilink")も[飛頭蛮](../Page/飛頭蛮.md "wikilink")もこの軍に参加することにするほど。孫策・島軍とは董卓に騙されて戦うが、誤解と分かると共闘する。全ストーリーの七章外伝で力を認めてもらうと使用可能。
+    本多忠勝が率いる、その息子と日本の剣豪の混成軍。民などに加勢し、呂布に勝利するなど圧倒的武力で遠呂智軍から恐れられ、曹丕・浅井・朝倉軍が条件を満たしてからは[陳蘭](../Page/陳蘭.md "wikilink")も[飛頭蛮](../Page/飛頭蛮.md "wikilink")もこの軍に参加することにするほど。孫策・島軍とは董卓に騙されて戦うが、誤解と分かると共闘する。全ストーリーの七章外伝で力を認めてもらうと使用可能。
   - くのいち
     武田軍とも豊臣軍とも真田軍ともはぐれている。伊賀衆と共にねね軍や今川軍に参加して、弱きを助け強きを挫くと自称し、最後は孫呉・徳川軍に合流する。
   - 左慈
@@ -79,30 +79,30 @@
 ### 遠呂智軍
 
   - 遠呂智軍本軍
-    妲己が指揮を取る本隊。伊達政宗や董卓などの知略や統率力に富んだ将や、前田慶次や呂布といった強力な武を持つ将がいる。その他には[三好三人衆](../Page/三好三人衆.md "wikilink")や[厳白虎兄弟](https://ja.wikipedia.org/wiki/厳虎 "wikilink")、[張英](https://ja.wikipedia.org/wiki/張英_\(後漢\) "wikilink")、[王朗](https://ja.wikipedia.org/wiki/王朗 "wikilink")軍がいる。
+    妲己が指揮を取る本隊。伊達政宗や董卓などの知略や統率力に富んだ将や、前田慶次や呂布といった強力な武を持つ将がいる。その他には[三好三人衆](../Page/三好三人衆.md "wikilink")や[厳白虎兄弟](../Page/厳虎.md "wikilink")、[張英](../Page/張英_\(後漢\).md "wikilink")、[王朗](https://ja.wikipedia.org/wiki/王朗 "wikilink")軍がいる。
   - 呂布軍
-    遠呂智軍最強の武将呂布や、[魏続](https://ja.wikipedia.org/wiki/魏続 "wikilink")、[陳宮](../Page/陳宮.md "wikilink")、[臧覇](https://ja.wikipedia.org/wiki/臧覇 "wikilink")、[袁術](../Page/袁術.md "wikilink")軍などの軍。遠呂智を強者と認めて、その武を超えるため従っている。呂布自身は全ストーリーの最終章外伝で捻じ伏せることで、貂蝉は呂布の目を覚まさせるために抜け出したところを曹魏・石田軍として助けることで使用可能。
+    遠呂智軍最強の武将呂布や、[魏続](../Page/魏続.md "wikilink")、[陳宮](../Page/陳宮.md "wikilink")、[臧覇](../Page/臧覇.md "wikilink")、[袁術](../Page/袁術.md "wikilink")軍などの軍。遠呂智を強者と認めて、その武を超えるため従っている。呂布自身は全ストーリーの最終章外伝で捻じ伏せることで、貂蝉は呂布の目を覚まさせるために抜け出したところを曹魏・石田軍として助けることで使用可能。
   - 伊達軍
     奥州の戦国大名伊達政宗や、[最上軍](../Page/最上義光.md "wikilink")、[佐竹軍](../Page/佐竹氏.md "wikilink")、[岡吉正](https://ja.wikipedia.org/wiki/岡吉正 "wikilink")、[土橋守重](https://ja.wikipedia.org/wiki/土橋守重 "wikilink")などの軍。遠呂智の器こそが天下を制すべきものと考え、友軍として各地を転戦している。蜀の章では一定の条件を満たすことで旧友の雑賀衆に説得され蜀漢・南蛮軍に参加することになる。
   - 前田軍
-    天下御免の傾奇者前田慶次や、[山路将監](https://ja.wikipedia.org/wiki/山路正国 "wikilink")、[朽木元綱](../Page/朽木元綱.md "wikilink")、[荒木村重](../Page/荒木村重.md "wikilink")、[村上水軍](https://ja.wikipedia.org/wiki/村上水軍 "wikilink")などの軍。遠呂智の強さと孤独に共感を覚え、善悪を問わない考えで「遠呂智の友」を自称し自ら進んで付き従い戦う。前田慶次自身は挑戦状を受け取り一定の条件を満たすことで、[前田利常](https://ja.wikipedia.org/wiki/前田利常 "wikilink")も[甘粕景継もこれを境に孫呉](https://ja.wikipedia.org/wiki/甘糟景継 "wikilink")・徳川軍に参加する。本人の強さは呂布に匹敵する。
+    天下御免の傾奇者前田慶次や、[山路将監](https://ja.wikipedia.org/wiki/山路正国 "wikilink")、[朽木元綱](../Page/朽木元綱.md "wikilink")、[荒木村重](../Page/荒木村重.md "wikilink")、[村上水軍](../Page/村上水軍.md "wikilink")などの軍。遠呂智の強さと孤独に共感を覚え、善悪を問わない考えで「遠呂智の友」を自称し自ら進んで付き従い戦う。前田慶次自身は挑戦状を受け取り一定の条件を満たすことで、[前田利常](../Page/前田利常.md "wikilink")も[甘粕景継もこれを境に孫呉](../Page/甘糟景継.md "wikilink")・徳川軍に参加する。本人の強さは呂布に匹敵する。
   - 董卓軍
-    西涼出身の暴君董卓や、[張繍](https://ja.wikipedia.org/wiki/張繍 "wikilink")軍などの軍。遠呂智から与えられる財宝が目的で従っている。遠呂智の前では「様」付けするが、忠誠は全く誓っておらず、当の遠呂智からも小物扱いを受けている。戦国の章では豊臣・黄巾党軍としてバレずに財宝を盗むことで、遠呂智がケチをしていると早とちり。「金の切れ目が縁の切れ目」と言って織田軍に参加する。
+    西涼出身の暴君董卓や、[張繍](../Page/張繍.md "wikilink")軍などの軍。遠呂智から与えられる財宝が目的で従っている。遠呂智の前では「様」付けするが、忠誠は全く誓っておらず、当の遠呂智からも小物扱いを受けている。戦国の章では豊臣・黄巾党軍としてバレずに財宝を盗むことで、遠呂智がケチをしていると早とちり。「金の切れ目が縁の切れ目」と言って織田軍に参加する。
   - 魏軍
-    曹操行方不明の後を曹丕が継ぎ、張遼、徐晃、[郝昭](https://ja.wikipedia.org/wiki/カク昭 "wikilink")、[楽進](https://ja.wikipedia.org/wiki/楽進 "wikilink")らと共に遠呂智と同盟を結ぶ。表向きは従っており、これに不満を持っていた[孫礼](https://ja.wikipedia.org/wiki/孫礼 "wikilink")が黄巾党・小喬軍に、[賈詡と龐徳が蜀漢](https://ja.wikipedia.org/wiki/賈ク "wikilink")・真田軍に、[卞喜](https://ja.wikipedia.org/wiki/卞喜 "wikilink")を伴った[楊脩](https://ja.wikipedia.org/wiki/楊脩 "wikilink")と、条件を満たせば曹仁も織田・黄忠軍に参加した。実際の所は内側から遠呂智の力を殺いでいる。織田信長に裏から手伝われて力を蓄え終わると遠呂智軍から離反し、[韓浩](https://ja.wikipedia.org/wiki/韓浩 "wikilink")を曹操軍に送り出しつつ、妲己を捕縛して従わせた。条件を満たせば、[張郃や](https://ja.wikipedia.org/wiki/張コウ_\(曹魏\) "wikilink")[郭嘉](../Page/郭嘉.md "wikilink")や[邢道栄などは魏軍に](https://ja.wikipedia.org/wiki/ケイ道栄 "wikilink")、司馬懿や[鄧艾や](https://ja.wikipedia.org/wiki/トウ艾 "wikilink")[王双](https://ja.wikipedia.org/wiki/王双 "wikilink")などは織田軍に付いて遠呂智軍を離れる。曹魏の再興に合わせて甄姫も離反・合流。妲己には山崎で逃げられる。
+    曹操行方不明の後を曹丕が継ぎ、張遼、徐晃、[郝昭](../Page/カク昭.md "wikilink")、[楽進](../Page/楽進.md "wikilink")らと共に遠呂智と同盟を結ぶ。表向きは従っており、これに不満を持っていた[孫礼](../Page/孫礼.md "wikilink")が黄巾党・小喬軍に、[賈詡と龐徳が蜀漢](../Page/賈ク.md "wikilink")・真田軍に、[卞喜](https://ja.wikipedia.org/wiki/卞喜 "wikilink")を伴った[楊脩](https://ja.wikipedia.org/wiki/楊脩 "wikilink")と、条件を満たせば曹仁も織田・黄忠軍に参加した。実際の所は内側から遠呂智の力を殺いでいる。織田信長に裏から手伝われて力を蓄え終わると遠呂智軍から離反し、[韓浩](../Page/韓浩.md "wikilink")を曹操軍に送り出しつつ、妲己を捕縛して従わせた。条件を満たせば、[張郃や](../Page/張コウ_\(曹魏\).md "wikilink")[郭嘉](../Page/郭嘉.md "wikilink")や[邢道栄などは魏軍に](https://ja.wikipedia.org/wiki/ケイ道栄 "wikilink")、司馬懿や[鄧艾や](../Page/トウ艾.md "wikilink")[王双](../Page/王双.md "wikilink")などは織田軍に付いて遠呂智軍を離れる。曹魏の再興に合わせて甄姫も離反・合流。妲己には山崎で逃げられる。
   - 石田軍
-    豊臣秀吉の股肱石田三成や、[大谷吉継](../Page/大谷吉継.md "wikilink")、[毛利軍などの軍](../Page/毛利氏.md "wikilink")。[児玉就英](https://ja.wikipedia.org/wiki/児玉就英 "wikilink")や[乃美宗勝](https://ja.wikipedia.org/wiki/乃美宗勝 "wikilink")や[因島亮康は山賊として](https://ja.wikipedia.org/wiki/村上亮康 "wikilink")、[井上春忠](https://ja.wikipedia.org/wiki/井上春忠 "wikilink")は姜維軍として、[毛利勝永](https://ja.wikipedia.org/wiki/毛利勝永 "wikilink")や[小早川秀秋](../Page/小早川秀秋.md "wikilink")はねね軍として別行動をとり、いずれも趙雲・島津・真田軍に合流する。遠呂智軍に従い各地を転戦しながらも、内部で遠呂智に対抗するための力を蓄え、襄陽では主君である豊臣秀吉と接触するが、前述の策を完遂するためか秀吉のもとに戻らない。同じ事を企てる魏の監視を妲己に任されて以来行動を共にし後に離反する。
+    豊臣秀吉の股肱石田三成や、[大谷吉継](../Page/大谷吉継.md "wikilink")、[毛利軍などの軍](../Page/毛利氏.md "wikilink")。[児玉就英](https://ja.wikipedia.org/wiki/児玉就英 "wikilink")や[乃美宗勝](../Page/乃美宗勝.md "wikilink")や[因島亮康は山賊として](../Page/村上亮康.md "wikilink")、[井上春忠](../Page/井上春忠.md "wikilink")は姜維軍として、[毛利勝永](../Page/毛利勝永.md "wikilink")や[小早川秀秋](../Page/小早川秀秋.md "wikilink")はねね軍として別行動をとり、いずれも趙雲・島津・真田軍に合流する。遠呂智軍に従い各地を転戦しながらも、内部で遠呂智に対抗するための力を蓄え、襄陽では主君である豊臣秀吉と接触するが、前述の策を完遂するためか秀吉のもとに戻らない。同じ事を企てる魏の監視を妲己に任されて以来行動を共にし後に離反する。
   - 呉軍
-    主君の孫堅や配下の[朱治](../Page/朱治.md "wikilink")や[蒋欽](https://ja.wikipedia.org/wiki/蒋欽 "wikilink")や周瑜や太史慈や呂蒙を人質にとられ、やむを得ず降伏。孫策が率いて属国として従うことで、[程普](../Page/程普.md "wikilink")や[魯粛](../Page/魯粛.md "wikilink")らと共に人質を救おうとしている。孫策が織田信長の策で島左近に孫堅は大阪城の天守閣に確保されていると教えられ離反し、近くの砦に確保されていた蒋欽をも解放する。孫権や周泰、孫尚香、大喬、[蘇飛](https://ja.wikipedia.org/wiki/蘇飛 "wikilink")、[丁奉](https://ja.wikipedia.org/wiki/丁奉 "wikilink")らが遠呂智軍に残るが、孫尚香らは孫策軍と戦って吸収され、周泰らはそれに続く戦いで孫策・伊賀軍に倒された孫権を庇いながら孫策軍に合流し、大喬は孫権を託されていた事が董卓・曹魏軍にばれて敵視され孫策・徳川軍に救われ、蘇飛らも大喬に合わせて合流し、孫権は孫堅共々処刑されそうになったところから孫尚香と服部半蔵に逃がされ追っ手から孫策軍に助けられ、丁奉らも孫権に合わせて合流する。その後、[韓当](https://ja.wikipedia.org/wiki/韓当 "wikilink")だけ曹魏・浅井・朝倉軍に参入。
+    主君の孫堅や配下の[朱治](../Page/朱治.md "wikilink")や[蒋欽](../Page/蒋欽.md "wikilink")や周瑜や太史慈や呂蒙を人質にとられ、やむを得ず降伏。孫策が率いて属国として従うことで、[程普](../Page/程普.md "wikilink")や[魯粛](../Page/魯粛.md "wikilink")らと共に人質を救おうとしている。孫策が織田信長の策で島左近に孫堅は大阪城の天守閣に確保されていると教えられ離反し、近くの砦に確保されていた蒋欽をも解放する。孫権や周泰、孫尚香、大喬、[蘇飛](https://ja.wikipedia.org/wiki/蘇飛 "wikilink")、[丁奉](../Page/丁奉.md "wikilink")らが遠呂智軍に残るが、孫尚香らは孫策軍と戦って吸収され、周泰らはそれに続く戦いで孫策・伊賀軍に倒された孫権を庇いながら孫策軍に合流し、大喬は孫権を託されていた事が董卓・曹魏軍にばれて敵視され孫策・徳川軍に救われ、蘇飛らも大喬に合わせて合流し、孫権は孫堅共々処刑されそうになったところから孫尚香と服部半蔵に逃がされ追っ手から孫策軍に助けられ、丁奉らも孫権に合わせて合流する。その後、[韓当](../Page/韓当.md "wikilink")だけ曹魏・浅井・朝倉軍に参入。
   - 徳川軍
     三河の戦国大名徳川家康など三河武士団や、上忍服部半蔵など伊賀衆の軍。配下の[本多正信](../Page/本多正信.md "wikilink")や[井伊直政](../Page/井伊直政.md "wikilink")などを人質にとられ、やむを得ず降伏。遠呂智の属国同士の呉と行動を共にして人質を救おうとし、後に共に離反する。孫尚香や孫権と友情を育んでいる稲姫や[結城秀康](../Page/結城秀康.md "wikilink")、[藤堂高虎](../Page/藤堂高虎.md "wikilink")だけは遠呂智軍に残るが孫策軍に吸収される。
   - 蜀軍
-    主君の劉備を人質にとられ、やむを得ず降伏。諸葛亮・関羽・張飛が率い、[法正](../Page/法正.md "wikilink")や[楊懐](https://ja.wikipedia.org/wiki/楊懐 "wikilink")、[関索](https://ja.wikipedia.org/wiki/関索 "wikilink")、[糜芳](https://ja.wikipedia.org/wiki/糜芳 "wikilink")、[傅士仁](https://ja.wikipedia.org/wiki/傅士仁 "wikilink")などと共に妲己の隙を伺いつつ遠呂智軍に従っている。劉備は、蜀残党には戦死したと認識されていたが、左慈によりその生存が伝えられ、心の拠り所として大きな影響力を持った。妲己捕縛後は全軍が[関興](https://ja.wikipedia.org/wiki/関興 "wikilink")を伴って趙雲軍に合流して諸葛亮が指揮権を委譲され、最後は諸葛亮軍が遠呂智を倒したため劉備も解放されて蜀の武将たちと再会した。関羽や張飛は、呂布や前田慶次に勝るとも劣らない強さの持ち主。劉備は、プレイヤーがチームに入れない限り、味方としてはおろか、友軍、敵軍としても戦場に現れるステージは無い。
+    主君の劉備を人質にとられ、やむを得ず降伏。諸葛亮・関羽・張飛が率い、[法正](../Page/法正.md "wikilink")や[楊懐](../Page/楊懐.md "wikilink")、[関索](../Page/関索.md "wikilink")、[糜芳](../Page/糜芳.md "wikilink")、[傅士仁](https://ja.wikipedia.org/wiki/傅士仁 "wikilink")などと共に妲己の隙を伺いつつ遠呂智軍に従っている。劉備は、蜀残党には戦死したと認識されていたが、左慈によりその生存が伝えられ、心の拠り所として大きな影響力を持った。妲己捕縛後は全軍が[関興](../Page/関興.md "wikilink")を伴って趙雲軍に合流して諸葛亮が指揮権を委譲され、最後は諸葛亮軍が遠呂智を倒したため劉備も解放されて蜀の武将たちと再会した。関羽や張飛は、呂布や前田慶次に勝るとも劣らない強さの持ち主。劉備は、プレイヤーがチームに入れない限り、味方としてはおろか、友軍、敵軍としても戦場に現れるステージは無い。
 
 ### 所属不明
 
   - 山賊
-    石川五右衛門が率いる、[堀内氏善](https://ja.wikipedia.org/wiki/堀内氏善 "wikilink")などの日本の水軍たち。相変わらず盗みを働いている。魏延の宝を盗んだことで蜀漢・阿国軍に追われ、[十河存保](../Page/十河存保.md "wikilink")は織田軍に吸収され、[九鬼嘉隆](https://ja.wikipedia.org/wiki/九鬼嘉隆 "wikilink")は黄蓋軍に合流する。五右衛門自身などは後にねねに仕置きを食らい董卓・張遼軍に利用されるが、「年貢の納め時」と言って蜀漢軍の一員として行動することもある。
+    石川五右衛門が率いる、[堀内氏善](../Page/堀内氏善.md "wikilink")などの日本の水軍たち。相変わらず盗みを働いている。魏延の宝を盗んだことで蜀漢・阿国軍に追われ、[十河存保](../Page/十河存保.md "wikilink")は織田軍に吸収され、[九鬼嘉隆](../Page/九鬼嘉隆.md "wikilink")は黄蓋軍に合流する。五右衛門自身などは後にねねに仕置きを食らい董卓・張遼軍に利用されるが、「年貢の納め時」と言って蜀漢軍の一員として行動することもある。
   - 風魔衆
     風魔小太郎が率いる下野出身者たち。神出鬼没で、混沌を求めて遠呂智軍、反乱軍問わずにちょっかいを出している。兵糧がきっかけで孫策・伊賀軍と行動を共にすることもある。
 
@@ -294,7 +294,7 @@
 
 CMで起用された音楽。
 
-  - 『[ゼロの答](https://ja.wikipedia.org/wiki/BUGRIGHT "wikilink")』 歌：[UVERworld](../Page/UVERworld.md "wikilink")
+  - 『[ゼロの答](../Page/BUGRIGHT.md "wikilink")』 歌：[UVERworld](../Page/UVERworld.md "wikilink")
 
 ## 外部リンク
 

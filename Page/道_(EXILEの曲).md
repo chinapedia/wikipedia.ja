@@ -1,14 +1,14 @@
 > この記事は[ \(EXILE\)](https://ja.wikipedia.org/wiki/_\(EXILE\))から翻訳されています。
 
 
-「**道**」（みち）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+「**道**」（みち）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-  - 5thアルバム『[EXILE EVOLUTION](https://ja.wikipedia.org/wiki/EXILE_EVOLUTION "wikilink")』の先行シングル。
+  - 5thアルバム『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』の先行シングル。
   - 「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」「CDのみ」の2形態。2形態共に完全限定生産シングルとして発売。
-  - オリコン週間シングルランキングでは20thシングル「[YES\!](https://ja.wikipedia.org/wiki/YES!_\(EXILEの曲\) "wikilink")」以来通算4作目の首位獲得となった。また、[黒沢明とロス・プリモス](https://ja.wikipedia.org/wiki/黒沢明とロス・プリモス "wikilink")のシングル「[ラブユー東京](https://ja.wikipedia.org/wiki/ラブユー東京 "wikilink")」から数えてオリコン史上**1000曲目**の首位獲得曲となった\[1\]。同年2月27日には、オリコン本社で贈呈式が行われた\[2\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")から、メンバーの[HIROの母校である](https://ja.wikipedia.org/wiki/五十嵐広行 "wikilink")[横浜市立金沢高等学校](https://ja.wikipedia.org/wiki/横浜市立金沢高等学校 "wikilink")の最寄り駅の[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[金沢八景駅](../Page/金沢八景駅.md "wikilink")において、[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている。編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた。
+  - オリコン週間シングルランキングでは20thシングル「[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")」以来通算4作目の首位獲得となった。また、[黒沢明とロス・プリモス](https://ja.wikipedia.org/wiki/黒沢明とロス・プリモス "wikilink")のシングル「[ラブユー東京](../Page/ラブユー東京.md "wikilink")」から数えてオリコン史上**1000曲目**の首位獲得曲となった\[1\]。同年2月27日には、オリコン本社で贈呈式が行われた\[2\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")から、メンバーの[HIROの母校である](../Page/五十嵐広行.md "wikilink")[横浜市立金沢高等学校](https://ja.wikipedia.org/wiki/横浜市立金沢高等学校 "wikilink")の最寄り駅の[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[金沢八景駅](../Page/金沢八景駅.md "wikilink")において、[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている。編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた。
   - 2010年3月2日放送[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")4夜連続放送オムニバスドラマ『[卒うた](https://ja.wikipedia.org/wiki/卒うた "wikilink")』の「第2夜 道」は同曲がテーマとなっていた。
 
 ## 収録曲
@@ -20,34 +20,34 @@
         作詞：Shogo Kashida / 作曲：miwa furuse / 編曲：華原大輔 / ストリングスアレンジ：前嶋康明
     <!-- end list -->
       - [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") CMソング\[3\]
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2007年2月度オープニングテーマ\[4\]
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2007年2月度オープニングテーマ\[4\]
       - 全国カラオケ事業者協会 卒業シーズン推薦ソング
 2.  **道** -Piano Version-
       -
-        編曲：[中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")
+        編曲：[中野雄太](../Page/中野雄太.md "wikilink")
 3.  道 (Instrumental)
 4.  道 -Piano Version- (Instrumental)
 5.  合唱 **道**
       -
-        編曲：[若松歓](https://ja.wikipedia.org/wiki/若松歓 "wikilink") / 混声三部合唱：[NHK東京児童合唱団](https://ja.wikipedia.org/wiki/NHK東京児童合唱団 "wikilink")ザ・ユースクラス/栗友会ユースクワイア
+        編曲：[若松歓](../Page/若松歓.md "wikilink") / 混声三部合唱：[NHK東京児童合唱団](../Page/NHK東京児童合唱団.md "wikilink")ザ・ユースクラス/栗友会ユースクワイア
 6.  合唱 道 (Instrumental)
 
 ### DVD
 
 1.  **道** (Video Clip)
 2.  EXILE関連のインフォメーション
-      - ナレーション：[ケイ・グラント](https://ja.wikipedia.org/wiki/ケイ・グラント "wikilink")
+      - ナレーション：[ケイ・グラント](../Page/ケイ・グラント.md "wikilink")
 
 ## 収録アルバム
 
-  - [EXILE EVOLUTION](https://ja.wikipedia.org/wiki/EXILE_EVOLUTION "wikilink")（\#1）
-  - [EXILE BALLAD BEST](https://ja.wikipedia.org/wiki/EXILE_BALLAD_BEST "wikilink")（\#1）
+  - [EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")（\#1）
+  - [EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")（\#1）
   - [LOVE SIDE](https://ja.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE-#LOVE_SIDE "wikilink")（\#1）
   - [EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink") (\#1)
 
 ## カバー
 
-  - [音羽ゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")（2009年発売の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』に収録）
+  - [音羽ゆりかご会](../Page/音羽ゆりかご会.md "wikilink")（2009年発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』に収録）
 
 ## 脚注
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - メンバー編成は現メンバーである[黒沢薫](https://ja.wikipedia.org/wiki/黒沢薫 "wikilink")と[村上てつや](https://ja.wikipedia.org/wiki/村上てつや "wikilink")の他、2人の別メンバーがジャケットに写っている。
+  - メンバー編成は現メンバーである[黒沢薫](../Page/黒沢薫.md "wikilink")と[村上てつや](../Page/村上てつや.md "wikilink")の他、2人の別メンバーがジャケットに写っている。
   - ただし、このアルバムのリメイク盤の[DOWN TO STREET REMAKEでは](https://ja.wikipedia.org/wiki/DOWN_TO_STREET_REMAKE "wikilink")、メンバー表記は**5人**。（もう一人、現在のメンバーとは別のメンバーが入っている。）
   - 歌詞カードは特徴的で、メンバーの口元から歌詞が飛び出しているような表記になっている。
 

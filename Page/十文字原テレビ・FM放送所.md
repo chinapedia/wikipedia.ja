@@ -5,9 +5,9 @@
 
 ## 概要
 
-テレビの[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、アナログ放送、FM[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の送信を行っており、[大分市](../Page/大分市.md "wikilink")と別府市の中心部を中心とした[別府湾](https://ja.wikipedia.org/wiki/別府湾 "wikilink")沿岸地域をカバーする。ただし、大分市の東部はここから離れていることもあり、アナログ放送とデジタル放送の中継局が設けられている。
+テレビの[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、アナログ放送、FM[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の送信を行っており、[大分市](../Page/大分市.md "wikilink")と別府市の中心部を中心とした[別府湾](../Page/別府湾.md "wikilink")沿岸地域をカバーする。ただし、大分市の東部はここから離れていることもあり、アナログ放送とデジタル放送の中継局が設けられている。
 
-送信所の順番は北から[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") (OBS) アナログ局舎、[NHK大分局舎](../Page/NHK大分放送局.md "wikilink")（この局舎にはOBSデジタルと[エフエム大分](../Page/エフエム大分.md "wikilink")が間借りしているが、エフエム大分は2017年7月30日をもって終了し、横江山に移転\[1\]。）、[テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink") (TOS) 局舎、[大分朝日放送](../Page/大分朝日放送.md "wikilink") (OAB) 局舎の順。
+送信所の順番は北から[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") (OBS) アナログ局舎、[NHK大分局舎](../Page/NHK大分放送局.md "wikilink")（この局舎にはOBSデジタルと[エフエム大分](../Page/エフエム大分.md "wikilink")が間借りしているが、エフエム大分は2017年7月30日をもって終了し、横江山に移転\[1\]。）、[テレビ大分](../Page/テレビ大分.md "wikilink") (TOS) 局舎、[大分朝日放送](../Page/大分朝日放送.md "wikilink") (OAB) 局舎の順。
 
 ちなみに、ここから望む別府湾は絶景ポイントで、大分自動車道の別府湾サービスエリアができるまでは恋人たちのドライブコースにもなっていた。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Beppu_Bay.jpg "wikilink") {{-}}
 
@@ -24,11 +24,11 @@
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 キーID</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コールサイン</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">物理<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理<br />
 チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/放送対象地域.md" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送区域" title="wikilink">放送区域</a><br />
@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK大分放送局.md" title="wikilink">大分</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK大分放送局.md" title="wikilink">大分</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>JOIP-DTV</p></td>
 <td><p>15</p></td>
 <td><p>1kW</p></td>
@@ -50,7 +50,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-大分<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">Eテレ</a></p></td>
+大分<a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレ</a></p></td>
 <td><p>JOID-DTV</p></td>
 <td><p>14</p></td>
 <td><p>8.3kW</p></td>
@@ -72,7 +72,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>TOS<br />
-<a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
 <td><p>JOOI-DTV</p></td>
 <td><p>34</p></td>
 <td><p>8.7kW</p></td>
@@ -92,7 +92,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><small>※全局<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a>放送開始</small></p></td>
+<td><p><small>※全局<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a>放送開始</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - 地上デジタルの試験電波は2006年[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に全放送局発射した、[7月18日](../Page/7月18日.md "wikilink")にはOBSが、8月にはTOSが、9月にはNHK大分が、最後に10月下旬にOABが試験映像を流し始め、[11月1日](../Page/11月1日.md "wikilink")からは[SI信号](../Page/MPEG-2システム.md "wikilink")（放送局ID）を付加した試験放送（サービス放送）が始まった。
+  - 地上デジタルの試験電波は2006年[7月3日](../Page/7月3日.md "wikilink")に全放送局発射した、[7月18日](../Page/7月18日.md "wikilink")にはOBSが、8月にはTOSが、9月にはNHK大分が、最後に10月下旬にOABが試験映像を流し始め、[11月1日](../Page/11月1日.md "wikilink")からは[SI信号](../Page/MPEG-2システム.md "wikilink")（放送局ID）を付加した試験放送（サービス放送）が始まった。
 
 ## アナログテレビ放送送信設備
 
@@ -197,7 +197,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p>コールサイン</p></th>
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a>(<a href="https://ja.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>空中線電力</p></th>
@@ -208,7 +208,7 @@
 <tbody>
 <tr class="odd">
 <td><p>NHK<br />
-大分<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+大分<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>JOIP-FM</p></td>
 <td><p>88.9</p></td>
 <td><p>1kW[2]</p></td>
@@ -231,7 +231,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p>コールサイン</p></th>
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a>(<a href="https://ja.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>空中線電力</p></th>

@@ -1,7 +1,7 @@
 > この記事は[Lunascape \(\)](https://ja.wikipedia.org/wiki/Lunascape_\(\))から翻訳されています。
 
 
-**Lunascape**は1990年代の半ばキョーコ・バートソーン（Kyoko Baertsoen）とウォルター・ヒルホースト（Walter Hilhorst）によって結成された [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の トリップ・ホップバンド。結成当初はCalyxと名乗っていたが、同名の[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")グループが既にロンドンにいたので混乱を避けるために変えた。
+**Lunascape**は1990年代の半ばキョーコ・バートソーン（Kyoko Baertsoen）とウォルター・ヒルホースト（Walter Hilhorst）によって結成された [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の トリップ・ホップバンド。結成当初はCalyxと名乗っていたが、同名の[ドラムンベース](../Page/ドラムンベース.md "wikilink")グループが既にロンドンにいたので混乱を避けるために変えた。
 
 ## バイオグラフィー
 

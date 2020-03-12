@@ -1,7 +1,7 @@
 > この記事は[Project N](https://ja.wikipedia.org/wiki/Project_N)から翻訳されています。
 
 
-**Project N**(プロジェクト エヌ)は財団法人[東京オペラシティ](https://ja.wikipedia.org/wiki/東京オペラシティ "wikilink")文化財団が運営管理する美術館 [東京オペラシティアートギャラリー](https://ja.wikipedia.org/wiki/東京オペラシティアートギャラリー "wikilink")が1999年にスタートした若手絵画の作家を紹介する企画の展覧会。 年に数人選ばれて展示されている。 [寺田小太郎](https://ja.wikipedia.org/wiki/寺田小太郎 "wikilink")コレクションに関わる作家である[難波田龍起](https://ja.wikipedia.org/wiki/難波田龍起 "wikilink")の遺志により、若手作家を紹介する展覧会シリーズで、難波田の文化功労者年金をもとに開催されている。
+**Project N**(プロジェクト エヌ)は財団法人[東京オペラシティ](../Page/東京オペラシティ.md "wikilink")文化財団が運営管理する美術館 [東京オペラシティアートギャラリー](../Page/東京オペラシティアートギャラリー.md "wikilink")が1999年にスタートした若手絵画の作家を紹介する企画の展覧会。 年に数人選ばれて展示されている。 [寺田小太郎](https://ja.wikipedia.org/wiki/寺田小太郎 "wikilink")コレクションに関わる作家である[難波田龍起](https://ja.wikipedia.org/wiki/難波田龍起 "wikilink")の遺志により、若手作家を紹介する展覧会シリーズで、難波田の文化功労者年金をもとに開催されている。
 
 ## 開催された展覧会
 
@@ -27,11 +27,11 @@
   - project N 20 [馬場恵](https://ja.wikipedia.org/wiki/馬場恵 "wikilink") (2005年 1月15日 - 3月21日)
   - project N 21 [中岡真珠美](https://ja.wikipedia.org/wiki/中岡真珠美 "wikilink") (2005年 4月8日 - 6月26日)
   - project N 22 [高木紗恵子](https://ja.wikipedia.org/wiki/高木紗恵子 "wikilink") (2005年 7月15日 - 9月25日)
-  - project N 23 [森本太郎](https://ja.wikipedia.org/wiki/森本太郎 "wikilink") (2005年 10月15日 - 12月25日)
-  - project N 24 [小林浩](https://ja.wikipedia.org/wiki/小林浩 "wikilink") (2006年 1月14日 - 3月26日)
+  - project N 23 [森本太郎](../Page/森本太郎.md "wikilink") (2005年 10月15日 - 12月25日)
+  - project N 24 [小林浩](../Page/小林浩.md "wikilink") (2006年 1月14日 - 3月26日)
   - project N 25 [ヒラタシノ](https://ja.wikipedia.org/wiki/ヒラタシノ "wikilink") (2006年 4月9日 - 6月18日)
   - project N 26 [山川勝彦](https://ja.wikipedia.org/wiki/山川勝彦 "wikilink") (2006年 7月8日 - 9月18日)
-  - project N 27 [山内崇嗣](https://ja.wikipedia.org/wiki/山内崇嗣 "wikilink") (2006年 10月7日 - 12月24日)
+  - project N 27 [山内崇嗣](../Page/山内崇嗣.md "wikilink") (2006年 10月7日 - 12月24日)
   - project N 28 [冨倉崇嗣](https://ja.wikipedia.org/wiki/冨倉崇嗣 "wikilink") (2007年 1月14日 - 3月25日)
   - project N 29 [須藤由希子](https://ja.wikipedia.org/wiki/須藤由希子 "wikilink") (2007年 4月14日 - 7月1日)
   - project N 30 [田尾創樹](https://ja.wikipedia.org/wiki/田尾創樹 "wikilink") (2007年 7月21日 - 10月14日)
@@ -40,8 +40,8 @@
 
 ## 関連項目
 
-  - [東京オペラシティ](https://ja.wikipedia.org/wiki/東京オペラシティ "wikilink")
-  - [東京オペラシティアートギャラリー](https://ja.wikipedia.org/wiki/東京オペラシティアートギャラリー "wikilink")
+  - [東京オペラシティ](../Page/東京オペラシティ.md "wikilink")
+  - [東京オペラシティアートギャラリー](../Page/東京オペラシティアートギャラリー.md "wikilink")
 
 ## 外部リンク
 

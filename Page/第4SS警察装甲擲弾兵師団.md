@@ -1,7 +1,7 @@
 > この記事は[4SS](https://ja.wikipedia.org/wiki/4SS)から翻訳されています。
 
 
-**第4SS警察装甲擲弾兵師団**（だい4SSけいさつそうこうてきだんへいしだん、*4. SS-Polizei-Panzergrenaidier-Division*）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[武装SSの](../Page/武装親衛隊.md "wikilink")38個[師団](../Page/師団.md "wikilink")のうちの1つである。師団は、[1939年](../Page/1939年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")[アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")の[秩序警察](https://ja.wikipedia.org/wiki/秩序警察 "wikilink")より師団を編成する命令により、[10月1日](../Page/10月1日.md "wikilink")に編成された部隊である。
+**第4SS警察装甲擲弾兵師団**（だい4SSけいさつそうこうてきだんへいしだん、*4. SS-Polizei-Panzergrenaidier-Division*）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[武装SSの](../Page/武装親衛隊.md "wikilink")38個[師団](../Page/師団.md "wikilink")のうちの1つである。師団は、[1939年](../Page/1939年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")[アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")の[秩序警察](../Page/秩序警察.md "wikilink")より師団を編成する命令により、[10月1日](../Page/10月1日.md "wikilink")に編成された部隊である。
 
 このときは秩序警察はSSの管轄下にあったため、書類上は武装SSではなかったものの、組織のトップは同じ[ヒムラー長官であり](../Page/ハインリヒ・ヒムラー.md "wikilink")、実質上、武装SSと同等であった。この様に警官より部隊を形成した背景には、国防軍に配慮し人的資源を大量に確保できないSSが、将来の武装SSの拡大のため、警官の人的資源を利用したことにある。フランス戦、独ソ戦に参加し、[1942年](../Page/1942年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に正式に武装SSの配下となった。[1943年](../Page/1943年.md "wikilink")に装甲擲弾兵師団となり、終戦時はアメリカ軍に降伏した。
 
@@ -9,9 +9,9 @@
 
 ## 編成とフランス戦
 
-師団は、[1939年](../Page/1939年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")[ヒトラーの](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")[秩序警察](https://ja.wikipedia.org/wiki/秩序警察 "wikilink")より師団を編成する命令により、[10月1日](../Page/10月1日.md "wikilink")に編成された部隊である。元から、警官の人的資源を利用した補充部隊が[1934年](../Page/1934年.md "wikilink")頃より存在し、それらを利用して、3個連隊と1個偵察大隊、通信大隊より構成される部隊が編成された。
+師団は、[1939年](../Page/1939年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")[ヒトラーの](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")[秩序警察](../Page/秩序警察.md "wikilink")より師団を編成する命令により、[10月1日](../Page/10月1日.md "wikilink")に編成された部隊である。元から、警官の人的資源を利用した補充部隊が[1934年](../Page/1934年.md "wikilink")頃より存在し、それらを利用して、3個連隊と1個偵察大隊、通信大隊より構成される部隊が編成された。
 
-前述のように[警察官](https://ja.wikipedia.org/wiki/警察官 "wikilink")を主体で構成された部隊で、通常の一線部隊として活躍するには装備経験とも不足していた。[ポーランド戦には間に合わず](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")、[フランス戦も](https://ja.wikipedia.org/wiki/ナチスドイツのフランス侵攻 "wikilink")、[1940年](../Page/1940年.md "wikilink")1月から5月までは、ドイツフランス国境の[フライブルク近傍付近で](https://ja.wikipedia.org/wiki/フライブルク・イム・ブライスガウ "wikilink")、第7軍の配下となり、国境警備と平行して訓練を行なった。この時、フランス軍との小規模な戦闘で11人の犠牲者を出している。フランス戦初期のフランス北方への侵攻(Fall Gelb)時には、戦略予備として北方の[テュービンゲン](../Page/テュービンゲン.md "wikilink")近傍へ移動した。フランス北部での勝利が確定した後、フランス本土侵攻(Fall Rot)の発動に伴い、第12軍に配備され、[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")を通過し[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")への進軍を行なった。[マース川](../Page/マース川.md "wikilink")に沿って進軍し、途中でフランス軍といくつか戦闘を行なったが、既に敗北が決定していたフランス軍は士気も高くなく、大きな損害を出すことなかった。
+前述のように[警察官](../Page/警察官.md "wikilink")を主体で構成された部隊で、通常の一線部隊として活躍するには装備経験とも不足していた。[ポーランド戦には間に合わず](../Page/ポーランド侵攻.md "wikilink")、[フランス戦も](https://ja.wikipedia.org/wiki/ナチスドイツのフランス侵攻 "wikilink")、[1940年](../Page/1940年.md "wikilink")1月から5月までは、ドイツフランス国境の[フライブルク近傍付近で](../Page/フライブルク・イム・ブライスガウ.md "wikilink")、第7軍の配下となり、国境警備と平行して訓練を行なった。この時、フランス軍との小規模な戦闘で11人の犠牲者を出している。フランス戦初期のフランス北方への侵攻(Fall Gelb)時には、戦略予備として北方の[テュービンゲン](../Page/テュービンゲン.md "wikilink")近傍へ移動した。フランス北部での勝利が確定した後、フランス本土侵攻(Fall Rot)の発動に伴い、第12軍に配備され、[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")を通過し[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")への進軍を行なった。[マース川](../Page/マース川.md "wikilink")に沿って進軍し、途中でフランス軍といくつか戦闘を行なったが、既に敗北が決定していたフランス軍は士気も高くなく、大きな損害を出すことなかった。
 
 フランス降伏後は、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")6月頃まで、パリを含むフランス北方の占領部隊としてセント・ディジエールに駐留した。この間、訓練、改編が行われたが、部隊としては二線級の部隊のままであった。独ソ戦が始まると部隊は東部戦線へ送られた。
 
@@ -38,7 +38,7 @@
 
 ## 部隊編成と指揮官
 
-[騎士鉄十字章](https://ja.wikipedia.org/wiki/騎士鉄十字章 "wikilink")受章者数：25人 構成人種：ドイツ人
+[騎士鉄十字章](../Page/騎士鉄十字章.md "wikilink")受章者数：25人 構成人種：ドイツ人
 
 ### 部隊名の変遷
 
@@ -47,18 +47,18 @@ stub
 ### 指揮官
 
   - 1940/09/01 - 1940/09/08 警察[中将](../Page/中将.md "wikilink") [コンラッド・ヒットシュラー](https://ja.wikipedia.org/wiki/コンラッド・ヒットシュラー "wikilink") ([:en:Konrad Hitschler](https://ja.wikipedia.org/wiki/:en:Konrad_Hitschler "wikilink"))
-  - 1940/09/08 - 1940/11/10 [SS大将](https://ja.wikipedia.org/wiki/親衛隊大将 "wikilink")
-  - 1940/11/10 - 1941/08/08 [SS中将](https://ja.wikipedia.org/wiki/親衛隊中将 "wikilink")
+  - 1940/09/08 - 1940/11/10 [SS大将](../Page/親衛隊大将.md "wikilink")
+  - 1940/11/10 - 1941/08/08 [SS中将](../Page/親衛隊中将.md "wikilink")
   - 1941/08/08 - 1941/12/15 SS大将 [ヴァルター・クリューガー](https://ja.wikipedia.org/wiki/ヴァルター・クリューガー "wikilink") (Walter Krüger)
   - 1941/12/15 - 1943/04/17 警察中将 [アルフレート・ヴェンネンベルク](https://ja.wikipedia.org/wiki/アルフレート・ヴェンネンベルク "wikilink") (Alfred Wünnenberg)
-  - 1943/04/17 - 1943/06/01 [SS少将](https://ja.wikipedia.org/wiki/親衛隊少将 "wikilink") [フリッツ・フライターク](https://ja.wikipedia.org/wiki/フリッツ・フライターク "wikilink") ([:en:Fritz Freitag](https://ja.wikipedia.org/wiki/:en:Fritz_Freitag "wikilink"))
+  - 1943/04/17 - 1943/06/01 [SS少将](../Page/親衛隊少将.md "wikilink") [フリッツ・フライターク](https://ja.wikipedia.org/wiki/フリッツ・フライターク "wikilink") ([:en:Fritz Freitag](https://ja.wikipedia.org/wiki/:en:Fritz_Freitag "wikilink"))
   - 1943/06/01 - 1943/08/18 SS少将 [フリッツ・シュメデス](https://ja.wikipedia.org/wiki/フリッツ・シュメデス "wikilink") ([:en:Fritz Schmedes](https://ja.wikipedia.org/wiki/:en:Fritz_Schmedes "wikilink"))
   - 1943/08/18 - 1943/10/20 SS少将 [フリッツ・フライターク](https://ja.wikipedia.org/wiki/フリッツ・フライターク "wikilink") ([:en:Fritz Freitag](https://ja.wikipedia.org/wiki/:en:Fritz_Freitag "wikilink"))
   - 1943/10/20 - 1944/04/19 SS上級大佐 [フリードリヒ・ヴィルヘルム・ボック](https://ja.wikipedia.org/wiki/フリードリヒ・ヴィルヘルム・ボック "wikilink") ([:en:Friedrich-Wilhelm Bock](https://ja.wikipedia.org/wiki/:en:Friedrich-Wilhelm_Bock "wikilink"))
   - 1944/04/19 - 1944/05/?? SS少将 [ユルゲン・ヴァーグナー](https://ja.wikipedia.org/wiki/ユルゲン・ヴァーグナー "wikilink") ([:en:Jürgen Wagner](https://ja.wikipedia.org/wiki/:en:Jürgen_Wagner "wikilink"))
   - 1944/05/?? - 1944/05/07 [SS上級大佐](https://ja.wikipedia.org/wiki/親衛隊上級大佐 "wikilink") [フリードリヒ・ヴィルヘルム・ボック](https://ja.wikipedia.org/wiki/フリードリヒ・ヴィルヘルム・ボック "wikilink") ([:en:Friedrich-Wilhelm Bock](https://ja.wikipedia.org/wiki/:en:Friedrich-Wilhelm_Bock "wikilink"))
   - 1944/05/07 - 1944/07/22 SS少将 [ヘルベルト・エルンスト・ヴァール](https://ja.wikipedia.org/wiki/ヘルベルト・エルンスト・ヴァール "wikilink") ([:en:Herbert-Ernst Vahl](https://ja.wikipedia.org/wiki/:en:Herbert-Ernst_Vahl "wikilink"))
-  - 1944/07/22 - 1944/08/16 [SS大佐](https://ja.wikipedia.org/wiki/親衛隊大佐 "wikilink") [カール・シュメーズ](https://ja.wikipedia.org/wiki/カール・シュメーズ "wikilink") ([:en:Karl Schümers](https://ja.wikipedia.org/wiki/:en:Karl_Schümers "wikilink"))
+  - 1944/07/22 - 1944/08/16 [SS大佐](../Page/親衛隊大佐.md "wikilink") [カール・シュメーズ](https://ja.wikipedia.org/wiki/カール・シュメーズ "wikilink") ([:en:Karl Schümers](https://ja.wikipedia.org/wiki/:en:Karl_Schümers "wikilink"))
   - 1944/08/16 - 1944/08/22 SS上級大佐 [ヘルムート・デルナー](https://ja.wikipedia.org/wiki/ヘルムート・デルナー "wikilink") ([:en:Helmuth Dörnder](https://ja.wikipedia.org/wiki/:en:Helmuth_Dörnder "wikilink"))
   - 1944/08/22 - 1944/11/27 SS少将 [フリッツ・シュメデス](https://ja.wikipedia.org/wiki/フリッツ・シュメデス "wikilink") ([:en:Fritz Schmedes](https://ja.wikipedia.org/wiki/:en:Fritz_Schmedes "wikilink"))
   - 1944/11/27 - 1945/03/01 SS大佐 [ヴァルター・ハルツァー](https://ja.wikipedia.org/wiki/ヴァルター・ハルツァー "wikilink") ([:en:Walter Harzer](https://ja.wikipedia.org/wiki/:en:Walter_Harzer "wikilink"))
@@ -115,7 +115,7 @@ stub
 
 ## 関連項目
 
-  - [秩序警察](https://ja.wikipedia.org/wiki/秩序警察 "wikilink")
+  - [秩序警察](../Page/秩序警察.md "wikilink")
   - [武装親衛隊](../Page/武装親衛隊.md "wikilink")
   - [第35SS警察擲弾兵師団](https://ja.wikipedia.org/wiki/第35SS警察擲弾兵師団 "wikilink")
 

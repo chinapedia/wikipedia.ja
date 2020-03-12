@@ -1,7 +1,7 @@
 > この記事は[The Vocal](https://ja.wikipedia.org/wiki/The_Vocal)から翻訳されています。
 
 
-『**The Vocal**』（ザ・ヴォーカル）は[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")の8枚目のアルバム。
+『**The Vocal**』（ザ・ヴォーカル）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の8枚目のアルバム。
 
 ## 内容
 
@@ -13,14 +13,14 @@
 
 1.  **雨の吐息**
       -
-        作詞･作曲:鹿紋太郎 編曲:[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作詞･作曲:鹿紋太郎 編曲:[若草恵](../Page/若草恵.md "wikilink")
 2.  **順子**
       -
         作詞･作曲:鹿紋太郎 編曲:川村栄二
         「愛することを学ぶのに」のB面曲。
 3.  **さよならを追い越して**
       -
-        作詞:[来生えつこ](https://ja.wikipedia.org/wiki/来生えつこ "wikilink") 作曲:都志見隆 編曲:若草恵
+        作詞:[来生えつこ](../Page/来生えつこ.md "wikilink") 作曲:都志見隆 編曲:若草恵
 4.  **女豹**
       -
         作詞･作曲:鹿紋太郎 編曲:若草恵

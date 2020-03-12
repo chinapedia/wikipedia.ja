@@ -1,7 +1,7 @@
 > この記事は[ReBirth](https://ja.wikipedia.org/wiki/ReBirth)から翻訳されています。
 
 
-『**ReBirth**』（リバース）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の9th[アルバム](../Page/アルバム.md "wikilink")。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+『**ReBirth**』（リバース）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の9th[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 概要
 
@@ -12,13 +12,13 @@
 
 1.  **INTRODUCTION** \[4:39\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：奥井雅美、[作曲](../Page/作曲.md "wikilink")：[Ikuo](https://ja.wikipedia.org/wiki/Ikuo "wikilink")、[編曲](../Page/編曲.md "wikilink")：[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：奥井雅美、[作曲](../Page/作曲.md "wikilink")：[Ikuo](../Page/Ikuo.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")
 2.  **POISON** \[4:32\]
       -
         作詞：奥井雅美、作曲・編曲：[MACARONI☆](https://ja.wikipedia.org/wiki/MACARONI☆ "wikilink")
 3.  **[SECOND IMPACT](https://ja.wikipedia.org/wiki/SECOND_IMPACT "wikilink")** \[3:56\]
       -
-        作詞・作曲：奥井雅美、編曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+        作詞・作曲：奥井雅美、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 4.  **I LOST** \[4:19\]
       -
         作詞・作曲：奥井雅美、編曲：鈴木Daichi秀行
@@ -49,8 +49,8 @@
 
 ## タイアップ
 
-| 曲名            | タイアップ                                                                                                                                                                         | 備考                                                            |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| SECOND IMPACT | [dwango](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")「[アニメロミックス](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") | 29th[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。 |
+| 曲名            | タイアップ                                                                                                                | 備考                                                            |
+| ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| SECOND IMPACT | [dwango](../Page/ドワンゴ.md "wikilink")「[アニメロミックス](../Page/ドワンゴ.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink") | 29th[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。 |
 
 [Category:奥井雅美のアルバム](https://ja.wikipedia.org/wiki/Category:奥井雅美のアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink")

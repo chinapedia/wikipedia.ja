@@ -5,26 +5,26 @@
 
 ## 概要
 
-  - 今作は[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")が近かったので「冬」をテーマにした楽曲を集めている。
+  - 今作は[クリスマス](../Page/クリスマス.md "wikilink")が近かったので「冬」をテーマにした楽曲を集めている。
   - 「ANGEL'S VOICE」は林田健司がアルバム『Re-Works』にてセルフカバーしている。
 
 ## 収録曲
 
 1.  **introduction 〜マリア〜** \[1:33\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：奥井雅美
+        [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：奥井雅美
 2.  '''White season ''' \[5:17\]
       -
         作詞・作曲：奥井雅美、編曲：[上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")
 3.  '''サンクチュアリ ''' \[5:59\]
       -
-        作詞：奥井雅美、作曲・編曲：[崎谷健次郎](https://ja.wikipedia.org/wiki/崎谷健次郎 "wikilink")
+        作詞：奥井雅美、作曲・編曲：[崎谷健次郎](../Page/崎谷健次郎.md "wikilink")
 4.  '''ANGEL'S VOICE ''' \[4:40\]
       -
-        作詞：奥井雅美、作曲：[林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")、編曲：上杉洋史
+        作詞：奥井雅美、作曲：[林田健司](../Page/林田健司.md "wikilink")、編曲：上杉洋史
 5.  '''旅人 ''' \[5:21\]
       -
-        作詞・作曲：奥井雅美、編曲：[吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")
+        作詞・作曲：奥井雅美、編曲：[吉俣良](../Page/吉俣良.md "wikilink")
 6.  '''2years ''' \[5:02\]
       -
         作詞：奥井雅美、作曲・編曲：[YAMACHI](https://ja.wikipedia.org/wiki/YAMACHI "wikilink")

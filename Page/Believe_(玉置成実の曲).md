@@ -18,10 +18,10 @@
         作詞：[西尾佐栄子](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink") / 作曲：[あおい吉勇](https://ja.wikipedia.org/wiki/あおい吉勇 "wikilink") / 編曲：[斎藤真也](https://ja.wikipedia.org/wiki/斎藤真也 "wikilink")
 2.  **Complete**
       -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink") / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲：[原一博](../Page/原一博.md "wikilink") / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
 3.  **Can you feel my love**
       -
-        作詞：[松本有加](https://ja.wikipedia.org/wiki/松本有加 "wikilink") / 作曲・編曲：[浅田祐介](https://ja.wikipedia.org/wiki/浅田祐介 "wikilink")
+        作詞：[松本有加](https://ja.wikipedia.org/wiki/松本有加 "wikilink") / 作曲・編曲：[浅田祐介](../Page/浅田祐介.md "wikilink")
 4.  **Believe (instrumental)**
 
 ## GUNDAM SEED EDITION
@@ -46,7 +46,7 @@
 
 1.  **Believe -Evidence01 Mix-**　(5:03)
       -
-        作詞：[Saeko Nishio](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink") / 作曲：[Yoshiki Aoi](https://ja.wikipedia.org/wiki/あおい吉勇 "wikilink") / リプロダクション：[HΛL](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")
+        作詞：[Saeko Nishio](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink") / 作曲：[Yoshiki Aoi](https://ja.wikipedia.org/wiki/あおい吉勇 "wikilink") / リプロダクション：[HΛL](../Page/中野雄太.md "wikilink")
 2.  **Believe -FREEDOM G CONTROL MIX-**　(4:11)
       -
         作詞：Saeko Nishio / 作曲：Yoshiki Aoi / リプロダクション：[Seiki Sato](https://ja.wikipedia.org/wiki/Seiki_Sato "wikilink")
@@ -61,7 +61,7 @@
 
 **Believe**
 
-  - [長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink") - 2008年8月3日放送の[ラジオ大阪のラジオ番組](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")『[THE IDOLM@STER RADIO](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_RADIO "wikilink")』のコーナーの1つ「歌姫楽園」でカバー。2009年3月25日発売のアルバム「THE IDOLM@STER RADIO 歌道場」に収録された。
+  - [長谷川明子](../Page/長谷川明子.md "wikilink") - 2008年8月3日放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")『[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")』のコーナーの1つ「歌姫楽園」でカバー。2009年3月25日発売のアルバム「THE IDOLM@STER RADIO 歌道場」に収録された。
   - [ももいろクローバー](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink") - 2010年12月24日発売のシングル「[きみゆき](https://ja.wikipedia.org/wiki/きみゆき "wikilink")」に収録。後にアルバム「[入口のない出口](https://ja.wikipedia.org/wiki/入口のない出口 "wikilink")」に齋藤真也によるリミックス版が収録された。
   - 玉置成実 - [2013年](../Page/2013年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")リリースのシングル「[REAL](https://ja.wikipedia.org/wiki/REAL_\(玉置成実の曲\) "wikilink")」の通常版にて、「Believe -2013-」として玉置自身が[セルフカバーしたバージョンが収録](https://ja.wikipedia.org/wiki/リメイク#音楽のリメイク作品 "wikilink")。その他、[2014年](../Page/2014年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")リリースのアルバム「NT GUNDAM COVER」にて、「Believe -NT GUNDAM COVER ver.-」としてさらにリアレンジされたバージョンが収録されている。
   - [綾野ましろ](https://ja.wikipedia.org/wiki/綾野ましろ "wikilink") - 2016年3月8日に配信限定シングルとしてリリース\[1\]

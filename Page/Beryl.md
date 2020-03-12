@@ -1,9 +1,9 @@
 > この記事は[Beryl](https://ja.wikipedia.org/wiki/Beryl)から翻訳されています。
 
 
-**Beryl**（べりる）は[X Window Systemおよび](../Page/X_Window_System.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")上で動作する[ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")である。
+**Beryl**（べりる）は[X Window Systemおよび](../Page/X_Window_System.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")上で動作する[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")である。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")、QuinnStormと開発チームが[compiz-quinnstormより分離しプロジェクトを発足した](https://ja.wikipedia.org/wiki/Compiz "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、複数の機能を実現したBerylはCompizと再び統合し、[Compiz Fusionとして](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")、その開発は引き継がれている。
+[2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、QuinnStormと開発チームが[compiz-quinnstormより分離しプロジェクトを発足した](../Page/Compiz.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、複数の機能を実現したBerylはCompizと再び統合し、[Compiz Fusionとして](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")、その開発は引き継がれている。
 
 ## Compizとの違い
 
@@ -22,15 +22,15 @@
   - マイクロプロセッサ：1.2GHz
   - メモリ：256MB
   - グラフィックスボード：GeForce 3/i855/Radeon 7500
-  - Xorg 7.1 と [Mesa](https://ja.wikipedia.org/wiki/Mesa_3D "wikilink") の最新バージョン（推奨）[1](http://www.beryl-project.org/faq.php#gq5)
+  - Xorg 7.1 と [Mesa](../Page/Mesa_3D.md "wikilink") の最新バージョン（推奨）[1](http://www.beryl-project.org/faq.php#gq5)
 
 ## 関連項目
 
   - [X Window System](../Page/X_Window_System.md "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
   - [XGL](https://ja.wikipedia.org/wiki/XGL "wikilink")
-  - [AIGLX](https://ja.wikipedia.org/wiki/AIGLX "wikilink")
-  - [Compiz](https://ja.wikipedia.org/wiki/Compiz "wikilink")
+  - [AIGLX](../Page/AIGLX.md "wikilink")
+  - [Compiz](../Page/Compiz.md "wikilink")
 
 ## 外部リンク
 

@@ -82,12 +82,12 @@
   -
     [これまでの特選項目も参照](https://ja.wikipedia.org/wiki/Portal:鳥類/Selected_article "wikilink")
 
-| 項目名                                                               | 推薦者                                                                | コメント   | 状態  |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ | --- |
-| [ダーウィンフィンチ類](https://ja.wikipedia.org/wiki/ダーウィンフィンチ類 "wikilink") | [Bdy](https://ja.wikipedia.org/wiki/利用者:Bdy "wikilink") 2007年3月17日 | 進化論の実証 | 掲載済 |
-| [ドードー](../Page/ドードー.md "wikilink")                                | Bdy 2007年12月23日                                                    | 絶滅種    | 掲載中 |
-|                                                                   |                                                                    |        |     |
-|                                                                   |                                                                    |        |     |
+| 項目名                                            | 推薦者                                                                | コメント   | 状態  |
+| ---------------------------------------------- | ------------------------------------------------------------------ | ------ | --- |
+| [ダーウィンフィンチ類](../Page/ダーウィンフィンチ類.md "wikilink") | [Bdy](https://ja.wikipedia.org/wiki/利用者:Bdy "wikilink") 2007年3月17日 | 進化論の実証 | 掲載済 |
+| [ドードー](../Page/ドードー.md "wikilink")             | Bdy 2007年12月23日                                                    | 絶滅種    | 掲載中 |
+|                                                |                                                                    |        |     |
+|                                                |                                                                    |        |     |
 
 ## 鳥ピックアップ候補リスト
 
@@ -130,13 +130,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/コンドル" title="wikilink">コンドル</a></p></td>
+<td><p><a href="../Page/コンドル.md" title="wikilink">コンドル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/利用者:Bdy" title="wikilink">Bdy</a> 2007年3月30日 (金) 23:53 (UTC)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ツメバケイ" title="wikilink">ツメバケイ</a></p></td>
+<td><p><a href="../Page/ツメバケイ.md" title="wikilink">ツメバケイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/利用者:Bdy" title="wikilink">Bdy</a> 2007年4月8日 (日) 16:19 (UTC)</p></td>
 <td><p>特異な形態</p></td>
 <td></td>
@@ -210,7 +210,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Strix-varia-005.jpg" title="fig:Strix-varia-005.jpg">Strix-varia-005.jpg</a></p></td>
 <td><p>Mdf</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/利用者:Bdy" title="wikilink">Bdy</a> 2007年3月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカフクロウ" title="wikilink">アメリカフクロウ</a> <a href="https://ja.wikipedia.org/wiki/w:Barred_Owl" title="wikilink">Barred Owl</a></p></td>
+<td><p><a href="../Page/アメリカフクロウ.md" title="wikilink">アメリカフクロウ</a> <a href="https://ja.wikipedia.org/wiki/w:Barred_Owl" title="wikilink">Barred Owl</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -225,7 +225,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Bubo_bubo_portrait.jpg" title="fig:Bubo_bubo_portrait.jpg">Bubo_bubo_portrait.jpg</a></p></td>
 <td><p>Flickr user indygnome</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/利用者:Bdy" title="wikilink">Bdy</a> 2007年4月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシミミズク" title="wikilink">ワシミミズク</a>&lt;br \&gt;featured picture</p></td>
+<td><p><a href="../Page/ワシミミズク.md" title="wikilink">ワシミミズク</a>&lt;br \&gt;featured picture</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -7,29 +7,29 @@
 
 [KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")の1つで、それまで日曜10:55枠で放送されていた『[それ行けKinKi大冒険](https://ja.wikipedia.org/wiki/それ行けKinKi大冒険 "wikilink")』のリニューアル版である。前期にはスタジオ内での企画が中心で、当時日本テレビのアナウンサーだった[魚住りえ](https://ja.wikipedia.org/wiki/魚住りえ "wikilink")やデビューして間もない頃の[山田まりや](https://ja.wikipedia.org/wiki/山田まりや "wikilink")も出演していたが、後期には『KinKi大冒険』時代同様[ロケVTR中心の構成となっていた](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。
 
-この番組以降、日本テレビの日曜12時台では[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")所属タレントがメイン司会あるいはレギュラーで出演する番組が放送され続けている。
+この番組以降、日本テレビの日曜12時台では[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属タレントがメイン司会あるいはレギュラーで出演する番組が放送され続けている。
 
 ## スタッフ
 
-  - 構成：[町山広美](https://ja.wikipedia.org/wiki/町山広美 "wikilink")、海老克哉、下等ひろき（加藤裕己）
+  - 構成：[町山広美](../Page/町山広美.md "wikilink")、海老克哉、下等ひろき（加藤裕己）
   - TP：佐藤公則
   - ロケ技術：林洋介・山根寿彦・角井彬・岩倉康宏・清田忠秀・金内博伸（[日本テレビビデオ](../Page/日テレアックスオン.md "wikilink")）
   - 美術：羽谷重信
   - デザイン：中野嘉一郎
   - メイク：馬田恵美
   - スタイリスト：鈴木玲子
-  - ナレーター：[中村秀利](https://ja.wikipedia.org/wiki/中村秀利 "wikilink")、[木藤聡子](https://ja.wikipedia.org/wiki/木藤聡子 "wikilink")
+  - ナレーター：[中村秀利](../Page/中村秀利.md "wikilink")、[木藤聡子](../Page/木藤聡子.md "wikilink")
   - 広報：河村良子
   - 編集：遠藤和人・畠山和枝（ギヴアンドテイク）
   - MA：森司朗（ギヴアンドテイク）
   - TK：福岡由紀
   - 音効：佐藤裕二
-  - 協力：[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
+  - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作進行：村上早苗
-  - ディレクター：南波昌人、浪岡厚生、佐々木俊勝、当麻康夫、[福士睦](https://ja.wikipedia.org/wiki/福士睦 "wikilink")
-  - 演出→プロデューサー：[三枝孝臣](https://ja.wikipedia.org/wiki/三枝孝臣 "wikilink")
-  - プロデューサー：[土屋泰則](https://ja.wikipedia.org/wiki/土屋泰則 "wikilink")
-  - チーフプロデューサー：[吉岡正敏](../Page/吉岡正敏.md "wikilink")、[渡辺弘](https://ja.wikipedia.org/wiki/渡辺弘_\(プロデューサー\) "wikilink")、[増田一穂](https://ja.wikipedia.org/wiki/増田一穂 "wikilink")
+  - ディレクター：南波昌人、浪岡厚生、佐々木俊勝、当麻康夫、[福士睦](../Page/福士睦.md "wikilink")
+  - 演出→プロデューサー：[三枝孝臣](../Page/三枝孝臣.md "wikilink")
+  - プロデューサー：[土屋泰則](../Page/土屋泰則.md "wikilink")
+  - チーフプロデューサー：[吉岡正敏](../Page/吉岡正敏.md "wikilink")、[渡辺弘](../Page/渡辺弘_\(プロデューサー\).md "wikilink")、[増田一穂](https://ja.wikipedia.org/wiki/増田一穂 "wikilink")
   - 製作著作：日本テレビ
 
 ## エンディングテーマ

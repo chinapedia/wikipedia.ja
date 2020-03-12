@@ -1,7 +1,7 @@
 > この記事は[F \(\)](https://ja.wikipedia.org/wiki/F_\(\))から翻訳されています。
 
 
-『**f**』（エフ）は、[後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。2005年8月24日、[KONAMIより発売](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。
+『**f**』（エフ）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。2005年8月24日、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。
 
 ## 解説
 
@@ -10,12 +10,12 @@
 ## 収録曲
 
 1.  **君のカケラ**
-      - PSPゲーム『[Twelve〜戦国封神伝〜](https://ja.wikipedia.org/wiki/Twelve〜戦国封神伝〜 "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
-      - 作詞：[芦原みき](https://ja.wikipedia.org/wiki/芦原みき "wikilink")、作曲・編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+      - PSPゲーム『[Twelve〜戦国封神伝〜](../Page/Twelve〜戦国封神伝〜.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
+      - 作詞：[芦原みき](https://ja.wikipedia.org/wiki/芦原みき "wikilink")、作曲・編曲：[HΛL](../Page/HΛL.md "wikilink")
 2.  **キミといる今**
       - 作詞：後藤沙緒里、作曲・編曲：HΛL
 3.  **ヒロイン見習い中**
-      - 作詞：[さくら](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")、作曲・編曲：[高木洋](../Page/高木洋.md "wikilink")
+      - 作詞：[さくら](../Page/丹下桜.md "wikilink")、作曲・編曲：[高木洋](../Page/高木洋.md "wikilink")
 4.  **faith in you**
       - 作詞：さくら、作曲：MAXTONE（山崎）、編曲：[吉田潔](https://ja.wikipedia.org/wiki/吉田潔 "wikilink")
 5.  **1st degree**
@@ -29,7 +29,7 @@
 9.  **陽だまり**
       - 作詞・作曲：MAXTONE（薄葉）、編曲：MAXTONE（山崎）
 10. **f**
-      - 作詞：さくら、作曲：前澤ヒデノリ、編曲：[酒井ミキオ](https://ja.wikipedia.org/wiki/酒井ミキオ "wikilink")
+      - 作詞：さくら、作曲：前澤ヒデノリ、編曲：[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
 11. **dejavu**
       - PSPゲーム『Twelve〜戦国封神伝〜』エンディングテーマ
       - 作詞：さくら、作曲・編曲：[浅井裕子](https://ja.wikipedia.org/wiki/浅井裕子 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Windows Metafile](https://ja.wikipedia.org/wiki/Windows_Metafile)から翻訳されています。
 
 
-**Windows Metafile**（**WMF**、ウィンドウズ メタファイル）は[Microsoft Windows上の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[画像ファイルフォーマット](https://ja.wikipedia.org/wiki/画像ファイルフォーマット "wikilink")の1つであり、1990年代初期に設計された。[ベクトル画像](https://ja.wikipedia.org/wiki/ベクトル画像 "wikilink")フォーマットであり、[ビットマップ画像](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")を内部に含むことも可能となっている。基本的にWMFファイルはWindowsのグラフィックス[API層である](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink")[GDIが実行すべき関数呼び出しのリストであって](https://ja.wikipedia.org/wiki/Graphics_Device_Interface "wikilink")、それによって[画像](../Page/画像.md "wikilink")が再生される。GDI関数の中には[例外処理](../Page/例外処理.md "wikilink")のために[コールバック関数の](https://ja.wikipedia.org/wiki/コールバック_\(情報工学\) "wikilink")[ポインタを引数にとるものがあるため](../Page/ポインタ_\(プログラミング\).md "wikilink")、WMFファイルには実行可能コードが含まれることがある。その設計手法は[UNIX](../Page/UNIX.md "wikilink")における[PostScript](../Page/PostScript.md "wikilink")に似ている。
+**Windows Metafile**（**WMF**、ウィンドウズ メタファイル）は[Microsoft Windows上の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[画像ファイルフォーマット](https://ja.wikipedia.org/wiki/画像ファイルフォーマット "wikilink")の1つであり、1990年代初期に設計された。[ベクトル画像](https://ja.wikipedia.org/wiki/ベクトル画像 "wikilink")フォーマットであり、[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")を内部に含むことも可能となっている。基本的にWMFファイルはWindowsのグラフィックス[API層である](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink")[GDIが実行すべき関数呼び出しのリストであって](../Page/Graphics_Device_Interface.md "wikilink")、それによって[画像](../Page/画像.md "wikilink")が再生される。GDI関数の中には[例外処理](../Page/例外処理.md "wikilink")のために[コールバック関数の](../Page/コールバック_\(情報工学\).md "wikilink")[ポインタを引数にとるものがあるため](../Page/ポインタ_\(プログラミング\).md "wikilink")、WMFファイルには実行可能コードが含まれることがある。その設計手法は[UNIX](../Page/UNIX.md "wikilink")における[PostScript](../Page/PostScript.md "wikilink")に似ている。
 
 Windows 3.0で最初に導入されたWMFは16ビット形式であった。後に追加された32ビット版ではコマンドが追加されており、**Enhanced Metafile** (**EMF**) と呼ばれる。EMFは[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")[ドライバーのグラフィックス言語としても使われている](https://ja.wikipedia.org/wiki/デバイスドライバー "wikilink")。
 
@@ -25,17 +25,17 @@ EMZはEMFファイル形式をgzip圧縮したものである。
 
 ## SetAbortProcの脆弱性問題
 
-2005年11月、"SetAbortProc" GDI関数に[脆弱性](https://ja.wikipedia.org/wiki/脆弱性 "wikilink")が発見された。この関数は印刷の[スプーリング](https://ja.wikipedia.org/wiki/スプーリング "wikilink")をキャンセルしたときのエラー処理ハンドラを登録するもので、ユーザーの許可なしで実行できる任意のコードをWMFファイルに追加可能にしている。
+2005年11月、"SetAbortProc" GDI関数に[脆弱性](../Page/脆弱性.md "wikilink")が発見された。この関数は印刷の[スプーリング](../Page/スプーリング.md "wikilink")をキャンセルしたときのエラー処理ハンドラを登録するもので、ユーザーの許可なしで実行できる任意のコードをWMFファイルに追加可能にしている。
 
 マイクロソフトは公式のパッチ (MS06-001) を2006年1月5日にリリースし、詳細は "マイクロソフト セキュリティ アドバイザリ 912840 Graphics Rendering Engine の脆弱性によりコードが実行される可能性がある" (912919)\[6\]で見ることができる。 古いバージョンのWindowsについてはパッチを提供していない。
 
-セキュリティ専門家のは、この脆弱性がマイクロソフトが故意にWMFに仕込んだ[バックドア](https://ja.wikipedia.org/wiki/バックドア "wikilink")であると主張した。しかし、他のセキュリティ専門家はこれに異を唱えており、バックドアと呼ぶにはマイクロソフトが実際にこの脆弱性を利用して秘密裏にコンピュータにアクセスしたことを実証しなければならないとしている\[7\]。マイクロソフトの従業員である[Mark Russinovichは](https://ja.wikipedia.org/wiki/Mark_Russinovich "wikilink")、Gibsonの分析はいくつかの誤解に基づいていると説明している。
+セキュリティ専門家のは、この脆弱性がマイクロソフトが故意にWMFに仕込んだ[バックドア](../Page/バックドア.md "wikilink")であると主張した。しかし、他のセキュリティ専門家はこれに異を唱えており、バックドアと呼ぶにはマイクロソフトが実際にこの脆弱性を利用して秘密裏にコンピュータにアクセスしたことを実証しなければならないとしている\[7\]。マイクロソフトの従業員である[Mark Russinovichは](https://ja.wikipedia.org/wiki/Mark_Russinovich "wikilink")、Gibsonの分析はいくつかの誤解に基づいていると説明している。
 
 ## 代替実装
 
-WMFフォーマットはWindowsの[GDIで実行されることで](https://ja.wikipedia.org/wiki/Graphics_Device_Interface "wikilink")[画像](../Page/画像.md "wikilink")を再生する。しかし、WMF形式のファイルにはその画像を構成するGDIのグラフィックプリミティブの定義も含まれているので、他のライブラリを使ってWMFのバイナリファイルを描画させたり、他の画像フォーマットに変換できる。
+WMFフォーマットはWindowsの[GDIで実行されることで](../Page/Graphics_Device_Interface.md "wikilink")[画像](../Page/画像.md "wikilink")を再生する。しかし、WMF形式のファイルにはその画像を構成するGDIのグラフィックプリミティブの定義も含まれているので、他のライブラリを使ってWMFのバイナリファイルを描画させたり、他の画像フォーマットに変換できる。
 
-一例として、[Batik](https://ja.wikipedia.org/wiki/Batik "wikilink")ライブラリはWMFファイルを描画したり、[SVGに変換したりできる](../Page/Scalable_Vector_Graphics.md "wikilink")。[FreeHEP](https://ja.wikipedia.org/wiki/FreeHEP "wikilink") [Java](https://ja.wikipedia.org/wiki/Java "wikilink")ライブラリのVector Graphicsパッケージでは、[Java 2Dで描画されたものをEMFファイルとして保存できる](https://ja.wikipedia.org/wiki/Java_2D "wikilink")。[Inkscape](https://ja.wikipedia.org/wiki/Inkscape "wikilink")と[XnView](https://ja.wikipedia.org/wiki/XnView "wikilink")もWMFとEMF形式でのエクスポートができる。
+一例として、[Batik](https://ja.wikipedia.org/wiki/Batik "wikilink")ライブラリはWMFファイルを描画したり、[SVGに変換したりできる](../Page/Scalable_Vector_Graphics.md "wikilink")。[FreeHEP](https://ja.wikipedia.org/wiki/FreeHEP "wikilink") [Java](https://ja.wikipedia.org/wiki/Java "wikilink")ライブラリのVector Graphicsパッケージでは、[Java 2Dで描画されたものをEMFファイルとして保存できる](../Page/Java_2D.md "wikilink")。[Inkscape](../Page/Inkscape.md "wikilink")と[XnView](https://ja.wikipedia.org/wiki/XnView "wikilink")もWMFとEMF形式でのエクスポートができる。
 
 ## 脚注
 
@@ -45,7 +45,7 @@ WMFフォーマットはWindowsの[GDIで実行されることで](https://ja.wi
 
   - [Scalable Vector Graphics](../Page/Scalable_Vector_Graphics.md "wikilink") (SVG)
   - [PostScript](../Page/PostScript.md "wikilink")
-  - [メタファイル](https://ja.wikipedia.org/wiki/メタファイル "wikilink")
+  - [メタファイル](../Page/メタファイル.md "wikilink")
 
 ## 外部リンク
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 当地には[NHK福島放送局](https://ja.wikipedia.org/wiki/NHK福島放送局 "wikilink")の[総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")・[教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")・[FM放送と福島県内](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[民放](../Page/民間放送.md "wikilink")[テレビ局](../Page/テレビジョン放送局.md "wikilink")、及び[ふくしまFMの中継局と](../Page/エフエム福島.md "wikilink")[rfcラジオ福島のFM補完中継局が置かれ](../Page/ラジオ福島.md "wikilink")、[会津盆地](https://ja.wikipedia.org/wiki/会津盆地 "wikilink")の大半とその周辺地域へ電波を発射している。
+  - 当地には[NHK福島放送局](../Page/NHK福島放送局.md "wikilink")の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")・[FM放送と福島県内](../Page/NHK-FM放送.md "wikilink")[民放](../Page/民間放送.md "wikilink")[テレビ局](../Page/テレビジョン放送局.md "wikilink")、及び[ふくしまFMの中継局と](../Page/エフエム福島.md "wikilink")[rfcラジオ福島のFM補完中継局が置かれ](../Page/ラジオ福島.md "wikilink")、[会津盆地](../Page/会津盆地.md "wikilink")の大半とその周辺地域へ電波を発射している。
   - 尚、背炙山についての詳細は、[該当項を参照の事](../Page/背炙山.md "wikilink")。
 
 ## 中継局送信施設概要
@@ -18,9 +18,9 @@
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 番号</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -33,7 +33,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK福島放送局" title="wikilink">福島</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK福島放送局.md" title="wikilink">福島</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>16</p></td>
 <td><p>500W<ref name="touhoku">{{Cite web|url=<a href="http://www.soumu.go.jp/soutsu/tohoku/digital/fukushimalicense.html%7Ctitle=福島県（2013年12月19日現在）免許情報">http://www.soumu.go.jp/soutsu/tohoku/digital/fukushimalicense.html|title=福島県（2013年12月19日現在）免許情報</a></p></td>
 <td><p>accessdate=2017-09-21}}</ref></p></td>
@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-福島<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+福島<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>14</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -168,7 +168,7 @@
 音声1.25kW</p></td>
 <td><p>映像26kW/<br />
 音声6.6kW</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a><br />
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a><br />
 <a href="../Page/4月1日.md" title="wikilink">4月1日</a>[3]</p></td>
 <td><p>なし</p></td>
 <td></td>
@@ -233,7 +233,7 @@
 <tr class="even">
 <td><p>85.9</p></td>
 <td><p>NHK<br />
-福島<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+福島<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a>[10]<br />
 （<a href="../Page/1965年.md" title="wikilink">1965年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a>[11]）[12]</p></td>
 <td></td>
@@ -258,7 +258,7 @@
 ## その他
 
   - 当中継局は出力が大きいものの、周囲が山がちという会津地方特有の地理的環境から電波が広範囲に届きにくく、会津盆地とその周辺の地域にしか電波が届いていない。新潟市でも一部受信できる。また弥彦山と当中継局を両方受信できる地域があるため周波数は互い違いになっているのが特徴。
-  - NHK総合・NHK教育のアナログ放送はともに[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")（[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")）と同じチャンネルであり、FTV（6チャンネル）は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")以前のキー局だった[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")と同じ周波数であった。
+  - NHK総合・NHK教育のアナログ放送はともに[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")（[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")）と同じチャンネルであり、FTV（6チャンネル）は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")以前のキー局だった[TBSテレビ](../Page/TBSテレビ.md "wikilink")と同じ周波数であった。
 
 ## 脚注
 
@@ -269,7 +269,7 @@
 ## 関連項目
 
   - [背炙山](../Page/背炙山.md "wikilink")
-  - [会津若松ラジオ中継局](https://ja.wikipedia.org/wiki/会津若松ラジオ中継局 "wikilink")
+  - [会津若松ラジオ中継局](../Page/会津若松ラジオ中継局.md "wikilink")
 
 [Category:福島県の放送送信所](https://ja.wikipedia.org/wiki/Category:福島県の放送送信所 "wikilink") [Category:会津若松市の建築物](https://ja.wikipedia.org/wiki/Category:会津若松市の建築物 "wikilink")
 

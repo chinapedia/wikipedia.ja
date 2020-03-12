@@ -9,6 +9,6 @@
 
 ## 用途
 
-[カップリング反応](https://ja.wikipedia.org/wiki/カップリング反応 "wikilink")などの有機合成反応の有用な触媒、[テトラキス(トリフェニルホスフィン)パラジウム(0)](../Page/テトラキス\(トリフェニルホスフィン\)パラジウム\(0\).md "wikilink") (Pd(PPh<sub>3</sub>)<sub>4</sub>) や PdCl<sub>2</sub>(PPh<sub>3</sub>)<sub>2</sub>、Pd<sub>2</sub>(dba)<sub>3</sub> など、さまざまなパラジウム錯体を合成するための出発物質として用いられる。塩化パラジウム(II)自身も、[ワッカー酸化](https://ja.wikipedia.org/wiki/ワッカー酸化 "wikilink")などの反応触媒として用いられる。
+[カップリング反応](../Page/カップリング反応.md "wikilink")などの有機合成反応の有用な触媒、[テトラキス(トリフェニルホスフィン)パラジウム(0)](../Page/テトラキス\(トリフェニルホスフィン\)パラジウム\(0\).md "wikilink") (Pd(PPh<sub>3</sub>)<sub>4</sub>) や PdCl<sub>2</sub>(PPh<sub>3</sub>)<sub>2</sub>、Pd<sub>2</sub>(dba)<sub>3</sub> など、さまざまなパラジウム錯体を合成するための出発物質として用いられる。塩化パラジウム(II)自身も、[ワッカー酸化](../Page/ワッカー酸化.md "wikilink")などの反応触媒として用いられる。
 
 [Category:パラジウムの化合物](https://ja.wikipedia.org/wiki/Category:パラジウムの化合物 "wikilink") [Category:塩化物](https://ja.wikipedia.org/wiki/Category:塩化物 "wikilink") [Category:触媒](https://ja.wikipedia.org/wiki/Category:触媒 "wikilink")

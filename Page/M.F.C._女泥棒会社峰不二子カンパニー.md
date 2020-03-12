@@ -1,15 +1,15 @@
 > この記事は[M.F.C. ](https://ja.wikipedia.org/wiki/M.F.C._)から翻訳されています。
 
 
-『**M.F.C. 女泥棒会社峰不二子カンパニー**』（エムエフシー おんなどろぼうがいしゃみねふじこカンパニー）は、雑誌「[ルパン三世officialマガジン](../Page/ルパン三世officialマガジン.md "wikilink")」で連載された『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』を原作とした[鈴木イゾ](https://ja.wikipedia.org/wiki/鈴木イゾ "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。副題は「女泥棒会社峰不二子カンパニー」。2009年9月28日、単行本が上下巻に分けられて発売された。
+『**M.F.C. 女泥棒会社峰不二子カンパニー**』（エムエフシー おんなどろぼうがいしゃみねふじこカンパニー）は、雑誌「[ルパン三世officialマガジン](../Page/ルパン三世officialマガジン.md "wikilink")」で連載された『[ルパン三世](../Page/ルパン三世.md "wikilink")』を原作とした[鈴木イゾ](https://ja.wikipedia.org/wiki/鈴木イゾ "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。副題は「女泥棒会社峰不二子カンパニー」。2009年9月28日、単行本が上下巻に分けられて発売された。
 
 ## 概要
 
-作品内での**M.F.C.**とは、主人公が勤務する会社「[峰不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink")カンパニー」（Mine Fujiko Company）の略称。不二子が自らの目的を達成するため結成した「泥棒会社」ともいえる組織である。
+作品内での**M.F.C.**とは、主人公が勤務する会社「[峰不二子](../Page/峰不二子.md "wikilink")カンパニー」（Mine Fujiko Company）の略称。不二子が自らの目的を達成するため結成した「泥棒会社」ともいえる組織である。
 
 ## 登場人物
 
-  - 社長（[峰不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink")）
+  - 社長（[峰不二子](../Page/峰不二子.md "wikilink")）
     年齢不詳。M.F.C.社長。
     なお、本作中におけるルパンファミリーとの関連は不明。
     最終回では山田たちの成長ぶりを見て満足し、会社の経営のほとんどを渡辺にまかせ、自身は盗みの旅へと立って行った。
@@ -22,7 +22,7 @@
     社長の不二子からは「恵理子」と呼ばれている。
   - 小林広子
     26歳。庶務3課課員。
-    コスプレイヤーで2次元[ショタ](https://ja.wikipedia.org/wiki/ショタ "wikilink")という、どうしようもないお色気天然キャラクター。しかし、その天然さと美貌を生かした[ハニートラップ](https://ja.wikipedia.org/wiki/ハニートラップ "wikilink")は成功率9割を超える（「獲物を逃がさない」というより「獲物が逃げない」）。
+    コスプレイヤーで2次元[ショタ](https://ja.wikipedia.org/wiki/ショタ "wikilink")という、どうしようもないお色気天然キャラクター。しかし、その天然さと美貌を生かした[ハニートラップ](../Page/ハニートラップ.md "wikilink")は成功率9割を超える（「獲物を逃がさない」というより「獲物が逃げない」）。
   - 鈴木純子
     22歳。庶務3課課員。
     勇猛な格闘家というより、凶暴な喧嘩師。いかなる警備陣も拳一つで強行突破する。黙っておとなしくしていれば美女なのだが、めったに黙らず、絶対おとなしくしない。
@@ -44,8 +44,8 @@
 
 ## 関連項目
 
-  - [ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")
-  - [峰不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink")
+  - [ルパン三世](../Page/ルパン三世.md "wikilink")
+  - [峰不二子](../Page/峰不二子.md "wikilink")
 
 ## 脚注
 

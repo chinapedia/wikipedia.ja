@@ -1,29 +1,29 @@
 > この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
 
 
-『**FNNスピーク**』（エフエヌエヌ スピーク、英称：*FNN SPEAK*）は、[フジテレビをはじめ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN（フジニュースネットワーク）系列各テレビ局にて](../Page/フジニュースネットワーク.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[10月1日](../Page/10月1日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）[3月30日](../Page/3月30日.md "wikilink")まで（[土曜日](../Page/土曜日.md "wikilink")は[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで）[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた昼の[ニュース番組である](https://ja.wikipedia.org/wiki/報道番組 "wikilink")。
+『**FNNスピーク**』（エフエヌエヌ スピーク、英称：*FNN SPEAK*）は、[フジテレビをはじめ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN（フジニュースネットワーク）系列各テレビ局にて](../Page/フジニュースネットワーク.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[10月1日](../Page/10月1日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）[3月30日](../Page/3月30日.md "wikilink")まで（[土曜日](../Page/土曜日.md "wikilink")は[1992年](../Page/1992年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで）[生放送](../Page/生放送.md "wikilink")されていた昼の[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
 ### 平日版
 
-放送開始当時、『[FNNスーパータイム](https://ja.wikipedia.org/wiki/FNNスーパータイム "wikilink")』など報道番組のタイトルに『**ニュース**』を入れないという流れに沿ってこの短いタイトルになった 。
+放送開始当時、『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』など報道番組のタイトルに『**ニュース**』を入れないという流れに沿ってこの短いタイトルになった 。
 
-番組開始から30年半に渡って続いた[長寿報道番組であり](https://ja.wikipedia.org/wiki/長寿番組の一覧 "wikilink")、放送されていた民放の昼のニュース番組の中で最も放送年数の長い番組である\[1\]。さらに、国内の民放ネットワークによるニュース番組で且つ同一タイトルのニュース番組としては最長記録を誇っており、[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")を含めても『[JNNフラッシュニュース](https://ja.wikipedia.org/wiki/JNNフラッシュニュース "wikilink")』（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）に次ぐ長さになる\[2\]。
+番組開始から30年半に渡って続いた[長寿報道番組であり](../Page/長寿番組の一覧.md "wikilink")、放送されていた民放の昼のニュース番組の中で最も放送年数の長い番組である\[1\]。さらに、国内の民放ネットワークによるニュース番組で且つ同一タイトルのニュース番組としては最長記録を誇っており、[スポットニュース](../Page/スポットニュース.md "wikilink")を含めても『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）に次ぐ長さになる\[2\]。
 
-平日の地上波の放送時間は前番組の『[FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/FNNニュースレポート11:30 "wikilink")』を含めて32年間一度も変更されなかったが、2014年4月1日から『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』の後番組『[バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")』の開始に伴い5分短縮された。
+平日の地上波の放送時間は前番組の『[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")』を含めて32年間一度も変更されなかったが、2014年4月1日から『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』の後番組『[バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")』の開始に伴い5分短縮された。
 
 フジテレビでは前々番組『[サンケイテレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』と前番組『FNNニュースレポート11:30』に引き続き[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")協力で、フジテレビでは「**協力：産經**」（開始から[1988年](../Page/1988年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")までは「協力：サンケイ」）とクレジットされる（2008年までは右下に表示され、その後は右上に表示されている）。系列局によっては協力の地方新聞社の名称が表示されたり、表示されなかったりしている地域もある。
 
-[CS放送の](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")でも時差放送を行っていたが、2012年3月23日を以って打ち切りとなった（オープニング・エンディングはCS放送独自の物に差し替えていた）。また2012年4月2日から2014年3月28日まではスマートフォン向け放送局「[NOTTV](https://ja.wikipedia.org/wiki/NOTTV "wikilink")」のNOTTV1にて平日のみ時差放送された。
+[CS放送の](../Page/衛星放送.md "wikilink")[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")でも時差放送を行っていたが、2012年3月23日を以って打ち切りとなった（オープニング・エンディングはCS放送独自の物に差し替えていた）。また2012年4月2日から2014年3月28日まではスマートフォン向け放送局「[NOTTV](https://ja.wikipedia.org/wiki/NOTTV "wikilink")」のNOTTV1にて平日のみ時差放送された。
 
-2005年1月から[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送、2005年10月3日から[リアルタイム字幕放送](https://ja.wikipedia.org/wiki/リアルタイム字幕放送 "wikilink")（当初は平日版のみ、[2009年](../Page/2009年.md "wikilink")4月4日から土曜版も実施）。2011年10月31日からフジテレビの全ての報道・情報番組が[ステレオ放送](../Page/ステレオ放送.md "wikilink")に切り替わった為、放送開始以来変わる事がなかった音声モードが[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")からステレオに変更された。平日昼の報道番組では『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）に次いで2例目、土曜日も『[田勢康弘の週刊ニュース新書](https://ja.wikipedia.org/wiki/田勢康弘の週刊ニュース新書 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）に次いで2例目となる。
+2005年1月から[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送、2005年10月3日から[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")（当初は平日版のみ、[2009年](../Page/2009年.md "wikilink")4月4日から土曜版も実施）。2011年10月31日からフジテレビの全ての報道・情報番組が[ステレオ放送](../Page/ステレオ放送.md "wikilink")に切り替わった為、放送開始以来変わる事がなかった音声モードが[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")からステレオに変更された。平日昼の報道番組では『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）に次いで2例目、土曜日も『[田勢康弘の週刊ニュース新書](https://ja.wikipedia.org/wiki/田勢康弘の週刊ニュース新書 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）に次いで2例目となる。
 
-2018年4月改編でフジテレビ・[BSフジ](../Page/BSフジ.md "wikilink")の報道ニュース番組の統一ブランド『[プライムニュース](https://ja.wikipedia.org/wiki/プライムニュース "wikilink")』として、タイトルロゴに『<strong>FNN</strong>』の冠が取れ、『**[FNNプライムニュース デイズ](https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ "wikilink")**』を開始することとなり、当番組は同年3月30日をもって終了。この日のエンディングで[奥寺健](https://ja.wikipedia.org/wiki/奥寺健 "wikilink")アナが「さて『FNNスピーク』、今日で最後となりました。来週からは『FNNプライムニュース デイズ』に生まれ変わってお伝えしてまいります」と話したのに続き、[斉藤舞子](https://ja.wikipedia.org/wiki/斉藤舞子 "wikilink")アナが「これまでご覧いただき本当にありがとうございました」と挨拶（ここで二人同時にお辞儀する）し、放送開始から30年半（31年間）の歴史に幕を下ろした\[3\]\[4\]。なお、奥寺は『 - プライムニュース デイズ』にも続投となったが、斉藤は本番組を以って降板した。
+2018年4月改編でフジテレビ・[BSフジ](../Page/BSフジ.md "wikilink")の報道ニュース番組の統一ブランド『[プライムニュース](https://ja.wikipedia.org/wiki/プライムニュース "wikilink")』として、タイトルロゴに『<strong>FNN</strong>』の冠が取れ、『**[FNNプライムニュース デイズ](https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ "wikilink")**』を開始することとなり、当番組は同年3月30日をもって終了。この日のエンディングで[奥寺健](../Page/奥寺健.md "wikilink")アナが「さて『FNNスピーク』、今日で最後となりました。来週からは『FNNプライムニュース デイズ』に生まれ変わってお伝えしてまいります」と話したのに続き、[斉藤舞子](https://ja.wikipedia.org/wiki/斉藤舞子 "wikilink")アナが「これまでご覧いただき本当にありがとうございました」と挨拶（ここで二人同時にお辞儀する）し、放送開始から30年半（31年間）の歴史に幕を下ろした\[3\]\[4\]。なお、奥寺は『 - プライムニュース デイズ』にも続投となったが、斉藤は本番組を以って降板した。
 
 ### 土曜版
 
-1992年4月、それまで週末に編成されていた『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』を土曜日のみ改題する形で開始。当初は平日と同じ時間で30分番組で放送し、[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは『[風まかせ 新・諸国漫遊記](https://ja.wikipedia.org/wiki/風まかせ_新・諸国漫遊記 "wikilink")』の15分拡大により、時間枠が縮小。また、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")までの間は、[土曜昼前の情報番組](https://ja.wikipedia.org/wiki/フジテレビ系列土曜昼前の情報番組枠 "wikilink")（『[ウォッ\!チャ スーパーウォッ\!チャ](https://ja.wikipedia.org/wiki/ウォッ!チャ "wikilink")→お台場2★4★8』『[情報プロジェクトS](https://ja.wikipedia.org/wiki/情報プロジェクトS "wikilink")』『[土曜LIVE](https://ja.wikipedia.org/wiki/土曜LIVE "wikilink")』）にそれぞれ内包されていた。これらの番組をネットしていない地域では独立番組として放送されていた。
+1992年4月、それまで週末に編成されていた『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』を土曜日のみ改題する形で開始。当初は平日と同じ時間で30分番組で放送し、[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは『[風まかせ 新・諸国漫遊記](../Page/風まかせ_新・諸国漫遊記.md "wikilink")』の15分拡大により、時間枠が縮小。また、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")までの間は、[土曜昼前の情報番組](https://ja.wikipedia.org/wiki/フジテレビ系列土曜昼前の情報番組枠 "wikilink")（『[ウォッ\!チャ スーパーウォッ\!チャ](../Page/ウォッ!チャ.md "wikilink")→お台場2★4★8』『[情報プロジェクトS](../Page/情報プロジェクトS.md "wikilink")』『[土曜LIVE](https://ja.wikipedia.org/wiki/土曜LIVE "wikilink")』）にそれぞれ内包されていた。これらの番組をネットしていない地域では独立番組として放送されていた。
 
 [2016年](../Page/2016年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に放送終了。
 
@@ -49,7 +49,7 @@
 
 「FNNスピーク」放送時間の変遷
 
-  - 年末年始は放送が休止となり、代替として11:50 - 12:00に10分間の『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』が放送される\[5\]。また、2008年まで1月第3月曜日(曜日配列によっては第2月曜日)は「[ソニーオープン・イン・ハワイ](https://ja.wikipedia.org/wiki/ソニーオープン・イン・ハワイ "wikilink")」放送のため放送が休止となっていた（後述する『笑っていいとも\!』のジャンクションも休止されていた）。
+  - 年末年始は放送が休止となり、代替として11:50 - 12:00に10分間の『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』が放送される\[5\]。また、2008年まで1月第3月曜日(曜日配列によっては第2月曜日)は「[ソニーオープン・イン・ハワイ](../Page/ソニーオープン・イン・ハワイ.md "wikilink")」放送のため放送が休止となっていた（後述する『笑っていいとも\!』のジャンクションも休止されていた）。
 
 ### CS
 
@@ -106,7 +106,7 @@
 <tr class="even">
 <td><p>1989.03.20</p></td>
 <td><p>1991.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永麻理" title="wikilink">永麻理</a></p></td>
+<td><p><a href="../Page/永麻理.md" title="wikilink">永麻理</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1991.04.01</p></td>
@@ -116,7 +116,7 @@
 <tr class="even">
 <td><p>1992.04.01</p></td>
 <td><p>1992.08.22</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堺正幸" title="wikilink">堺正幸</a><sup>4</sup></p></td>
+<td><p><a href="../Page/堺正幸.md" title="wikilink">堺正幸</a><sup>4</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>1992.08.24</p></td>
@@ -126,7 +126,7 @@
 <tr class="even">
 <td><p>1993.04.01</p></td>
 <td><p>1994.03.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/向坂樹興" title="wikilink">向坂樹興</a><sup>4</sup></p></td>
+<td><p><a href="../Page/向坂樹興.md" title="wikilink">向坂樹興</a><sup>4</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994.04.01</p></td>
@@ -136,12 +136,12 @@
 <tr class="even">
 <td><p>1995.04.03</p></td>
 <td><p>1996.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牧原俊幸" title="wikilink">牧原俊幸</a></p></td>
+<td><p><a href="../Page/牧原俊幸.md" title="wikilink">牧原俊幸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996.04.01</p></td>
 <td><p>1997.03.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川端健嗣" title="wikilink">川端健嗣</a><sup>6</sup></p></td>
+<td><p><a href="../Page/川端健嗣.md" title="wikilink">川端健嗣</a><sup>6</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>1997.03.31</p></td>
@@ -181,17 +181,17 @@
 <tr class="odd">
 <td><p>2005.06.27</p></td>
 <td><p>2006.09.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田伸男" title="wikilink">吉田伸男</a><sup>3</sup></p></td>
+<td><p><a href="../Page/吉田伸男.md" title="wikilink">吉田伸男</a><sup>3</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2006.10.02</p></td>
 <td><p>2008.09.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奥寺健" title="wikilink">奥寺健</a><sup>2</sup></p></td>
+<td><p><a href="../Page/奥寺健.md" title="wikilink">奥寺健</a><sup>2</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.09.29</p></td>
 <td><p>2009.09.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野島卓" title="wikilink">野島卓</a><sup>3</sup></p></td>
+<td><p><a href="../Page/野島卓.md" title="wikilink">野島卓</a><sup>3</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2009.09.28</p></td>
@@ -241,8 +241,8 @@
 <li><sup>3</sup>　日曜昼の『<a href="https://ja.wikipedia.org/wiki/産経テレニュースFNN" title="wikilink">産経テレニュースFNN</a>』を兼務。</li>
 <li><sup>4</sup>　同日<a href="https://ja.wikipedia.org/wiki/フジテレビ系列午後のスポットニュース枠" title="wikilink">午後のスポットニュースを兼務</a>。</li>
 <li><sup>5</sup>　土曜昼の『産経テレニュースFNN』から続投。</li>
-<li><sup>6</sup>　同日<a href="https://ja.wikipedia.org/wiki/フジテレビ系列夕方ニュース枠" title="wikilink">夕方のニュースを兼務</a>（川端は1997年4月から）。</li>
-<li><sup>7</sup>　『<a href="https://ja.wikipedia.org/wiki/モーニングLIVE" title="wikilink">モーニングLIVE</a>』および『<a href="https://ja.wikipedia.org/wiki/FNN_World_Uplink" title="wikilink">FNN World Uplink</a>』を兼務。</li>
+<li><sup>6</sup>　同日<a href="../Page/フジテレビ系列夕方ニュース枠.md" title="wikilink">夕方のニュースを兼務</a>（川端は1997年4月から）。</li>
+<li><sup>7</sup>　『<a href="../Page/モーニングLIVE.md" title="wikilink">モーニングLIVE</a>』および『<a href="../Page/FNN_World_Uplink.md" title="wikilink">FNN World Uplink</a>』を兼務。</li>
 <li><sup>8</sup>　同日<a href="https://ja.wikipedia.org/wiki/フジテレビ系列朝ニュース枠" title="wikilink">朝のニュースを兼務</a>。</li>
 <li><sup>9</sup>　『<a href="https://ja.wikipedia.org/wiki/FNNスピークWeekend" title="wikilink">FNNスピークWeekend</a>』も続投。</li>
 <li><sup>10</sup> 『<a href="https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ" title="wikilink">FNNプライムニュース デイズ</a>』も続役（金曜日→月・火曜担当として）。</li>
@@ -259,11 +259,11 @@
 
 <!-- end list -->
 
-  - [前番組同様](https://ja.wikipedia.org/wiki/FNNニュースレポート11:30 "wikilink")、スピーク担当のキャスターは報道フロアからフジテレビの[平日10時台の情報番組にニュースコーナーがある場合は](https://ja.wikipedia.org/wiki/フジテレビ系列平日昼前の情報番組枠 "wikilink")、その担当を兼務する。『[ザ・ビッグチャンス\!](https://ja.wikipedia.org/wiki/ザ・ビッグチャンス! "wikilink")』の終了後、一旦ニュースコーナーは廃止されたが、『[ハピふる\!](https://ja.wikipedia.org/wiki/ハピふる! "wikilink")』では「**スピーク一番出し**」として復活。同番組終了後に再び中断を経て『[知りたがり\!](https://ja.wikipedia.org/wiki/知りたがり! "wikilink")』で再復活したが、次番組の『[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")』で再び廃止された。
+  - [前番組同様](../Page/FNNニュースレポート11:30.md "wikilink")、スピーク担当のキャスターは報道フロアからフジテレビの[平日10時台の情報番組にニュースコーナーがある場合は](https://ja.wikipedia.org/wiki/フジテレビ系列平日昼前の情報番組枠 "wikilink")、その担当を兼務する。『[ザ・ビッグチャンス\!](https://ja.wikipedia.org/wiki/ザ・ビッグチャンス! "wikilink")』の終了後、一旦ニュースコーナーは廃止されたが、『[ハピふる\!](../Page/ハピふる!.md "wikilink")』では「**スピーク一番出し**」として復活。同番組終了後に再び中断を経て『[知りたがり\!](https://ja.wikipedia.org/wiki/知りたがり! "wikilink")』で再復活したが、次番組の『[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")』で再び廃止された。
 
 ### 外信キャスター
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")4月 - [1993年](../Page/1993年.md "wikilink")3月：[横井克裕](https://ja.wikipedia.org/wiki/横井克裕 "wikilink")（月 - 水）、[陣内誠](https://ja.wikipedia.org/wiki/陣内誠 "wikilink")（木・金）
+  - [1992年](../Page/1992年.md "wikilink")4月 - [1993年](../Page/1993年.md "wikilink")3月：[横井克裕](../Page/横井克裕.md "wikilink")（月 - 水）、[陣内誠](../Page/陣内誠.md "wikilink")（木・金）
 
 <!-- end list -->
 
@@ -272,17 +272,17 @@
 
 ### 天気予報キャスター
 
-原則女性メインキャスターが兼務していたが、キャスター以外のアナウンサーが担当することがあった。当番組前後の帯番組を担当する[天達武史](https://ja.wikipedia.org/wiki/天達武史 "wikilink")、[寺川奈津美](https://ja.wikipedia.org/wiki/寺川奈津美 "wikilink")など外部の気象予報士は起用されない（「バイキング」についても同様）。
+原則女性メインキャスターが兼務していたが、キャスター以外のアナウンサーが担当することがあった。当番組前後の帯番組を担当する[天達武史](../Page/天達武史.md "wikilink")、[寺川奈津美](https://ja.wikipedia.org/wiki/寺川奈津美 "wikilink")など外部の気象予報士は起用されない（「バイキング」についても同様）。
 
   - [永尾亜子](https://ja.wikipedia.org/wiki/永尾亜子 "wikilink") - 2016年の[お台場夢大陸](https://ja.wikipedia.org/wiki/お台場夢大陸 "wikilink")の中継紹介も兼ねた。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1999年](../Page/1999年.md "wikilink")までは以下のアナウンサー（いずれも当時）がシフト勤務で担当した。
 
-  - [筒井櫻子](https://ja.wikipedia.org/wiki/筒井櫻子 "wikilink")
+  - [筒井櫻子](../Page/筒井櫻子.md "wikilink")
   - 松尾紀子（[気象予報士](../Page/気象予報士.md "wikilink")の資格を取得後）
   - 阿部知代
-  - [藤村さおり](https://ja.wikipedia.org/wiki/藤村さおり "wikilink")
-  - [宇田麻衣子](https://ja.wikipedia.org/wiki/宇田麻衣子 "wikilink")
+  - [藤村さおり](../Page/藤村さおり.md "wikilink")
+  - [宇田麻衣子](../Page/宇田麻衣子.md "wikilink")
 
 ### 代役について
 
@@ -302,8 +302,8 @@
 
 <!-- end list -->
 
-  - [秋元優里](https://ja.wikipedia.org/wiki/秋元優里 "wikilink")
-  - [荒瀬詩織](https://ja.wikipedia.org/wiki/荒瀬詩織 "wikilink") - 田代（平日第2期）、木幡（平日第3期）の休暇時。平日版『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』との兼務。現在は退社。
+  - [秋元優里](../Page/秋元優里.md "wikilink")
+  - [荒瀬詩織](../Page/荒瀬詩織.md "wikilink") - 田代（平日第2期）、木幡（平日第3期）の休暇時。平日版『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』との兼務。現在は退社。
   - 石本沙織 - 土曜担当に就任前。降板後の藤村の代役。
   - [伊藤利尋](../Page/伊藤利尋.md "wikilink")
   - [上中勇樹](https://ja.wikipedia.org/wiki/上中勇樹 "wikilink") - 2017年11月15日
@@ -319,19 +319,19 @@
   - [木村拓也](https://ja.wikipedia.org/wiki/木村拓也_\(アナウンサー\) "wikilink") - 2017年12月26日 - 29日。奥寺の代打、但し、みんなのニュース(現在は平日版Live News it\!)と兼務。
   - 木幡美子 - かつて断続的に担当していた事から、子育て等の事情を考慮して土曜版の代行を務める事がある。
   - 境鶴丸 - 平日担当に就任前。1992年頃の年末年始には堺の代行を担当したほか、川端が2004年12月に盲腸で入院した時にも代行を担当。吉田がスポーツ実況との兼ね合いで休む事が度々あった事から土曜版の代行も経験がある\[6\]（『FNNスーパーニュースWEEKEND』を担当している為）。また、2012年9月のレギュラー降板後も野島が不在の時に代行する場合がある。現在はアナウンス職から離れている。
-  - [福原直英](https://ja.wikipedia.org/wiki/福原直英 "wikilink")
-  - [武田祐子](https://ja.wikipedia.org/wiki/武田祐子 "wikilink") - 土曜版中心。
-  - [田中大貴](https://ja.wikipedia.org/wiki/田中大貴 "wikilink") - 2005年夏休暇の川端（平日）の代行。現在は退社。
-  - [田淵裕章](https://ja.wikipedia.org/wiki/田淵裕章 "wikilink")
+  - [福原直英](../Page/福原直英.md "wikilink")
+  - [武田祐子](../Page/武田祐子.md "wikilink") - 土曜版中心。
+  - [田中大貴](../Page/田中大貴.md "wikilink") - 2005年夏休暇の川端（平日）の代行。現在は退社。
+  - [田淵裕章](../Page/田淵裕章.md "wikilink")
   - [椿原慶子](https://ja.wikipedia.org/wiki/椿原慶子 "wikilink")
   - [中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink") - 2014年1月11日の戸部（土曜）の代行。
   - [永尾亜子](https://ja.wikipedia.org/wiki/永尾亜子 "wikilink") - 2017年8月の斉藤の代行
-  - [野島卓](https://ja.wikipedia.org/wiki/野島卓 "wikilink") - 土曜担当降板後の2012年2月8日に境の代行。
+  - [野島卓](../Page/野島卓.md "wikilink") - 土曜担当降板後の2012年2月8日に境の代行。
   - [福井慶仁](https://ja.wikipedia.org/wiki/福井慶仁 "wikilink")
-  - [藤村さおり](https://ja.wikipedia.org/wiki/藤村さおり "wikilink") - 土曜担当に就任前。
+  - [藤村さおり](../Page/藤村さおり.md "wikilink") - 土曜担当に就任前。
   - [政井マヤ](https://ja.wikipedia.org/wiki/政井マヤ "wikilink") - 現在は退社。
-  - [森下知哉](https://ja.wikipedia.org/wiki/森下知哉 "wikilink") - 2004年、2006年夏休暇の川端（平日）の代行。現在はアナウンス職から離れている。
-  - [吉沢孝明](https://ja.wikipedia.org/wiki/吉沢孝明 "wikilink") - 堺の休暇時。現在はアナウンス職から離れている。
+  - [森下知哉](../Page/森下知哉.md "wikilink") - 2004年、2006年夏休暇の川端（平日）の代行。現在はアナウンス職から離れている。
+  - [吉沢孝明](../Page/吉沢孝明.md "wikilink") - 堺の休暇時。現在はアナウンス職から離れている。
   - [松村未央](https://ja.wikipedia.org/wiki/松村未央 "wikilink") - 「[THE NEWS α](https://ja.wikipedia.org/wiki/THE_NEWS_α "wikilink")」→「[FNNプライムニュース α](https://ja.wikipedia.org/wiki/FNNプライムニュース_α "wikilink")」も出演していた。
   - [山中章子](https://ja.wikipedia.org/wiki/山中章子 "wikilink")
 
@@ -341,25 +341,25 @@
 
 ★は所属局の昼ニュース、☆は所属局の夕方ニュースを担当している。
 
-  - [千葉絢子](https://ja.wikipedia.org/wiki/千葉絢子 "wikilink")（[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")☆）：[2003年](../Page/2003年.md "wikilink") - 不明
-  - [深津麻弓](https://ja.wikipedia.org/wiki/深津麻弓 "wikilink")（[富山テレビ](../Page/富山テレビ放送.md "wikilink")・当時）：[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") - [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")
-  - [石井百恵](https://ja.wikipedia.org/wiki/石井百恵 "wikilink")（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")☆）：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月15日](../Page/8月15日.md "wikilink") - [8月19日](../Page/8月19日.md "wikilink")（代行中の[8月16日](../Page/8月16日.md "wikilink")、[宮城県沖地震が発生し](https://ja.wikipedia.org/wiki/宮城県沖地震#2005年宮城県沖地震（宮城県南部地震） "wikilink")、急遽[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")も務めた）
-  - [今井由実子](https://ja.wikipedia.org/wiki/今井由実子 "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")・当時）：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月21日](../Page/8月21日.md "wikilink") - [8月25日](../Page/8月25日.md "wikilink")
-  - [岡安譲](https://ja.wikipedia.org/wiki/岡安譲 "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")☆）：[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")8月20日 - [8月24日](../Page/8月24日.md "wikilink")（代行中の[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、[那覇空港](https://ja.wikipedia.org/wiki/那覇空港 "wikilink")で[チャイナエアライン](https://ja.wikipedia.org/wiki/チャイナエアライン "wikilink")機が[爆発・炎上する事故が発生し](https://ja.wikipedia.org/wiki/チャイナエアライン120便炎上事故 "wikilink")、急遽報道特別番組も務めた）
-  - [関口由香里](https://ja.wikipedia.org/wiki/関口由香里 "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")☆）：2007年[8月27日](../Page/8月27日.md "wikilink") - [8月31日](../Page/8月31日.md "wikilink")
-  - [安田真理](https://ja.wikipedia.org/wiki/安田真理 "wikilink")（[石川テレビ](../Page/石川テレビ放送.md "wikilink")☆・当時）：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") - [8月1日](../Page/8月1日.md "wikilink")（担当初日である7月28日の放送のニュースの第1項目は石川テレビの地元[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")の豪雨のニュースだった。
-  - [金田祐幸](https://ja.wikipedia.org/wiki/金田祐幸 "wikilink")（テレビ新広島☆）：2008年8月25日 - [8月29日](../Page/8月29日.md "wikilink")
-  - [魚住咲恵](https://ja.wikipedia.org/wiki/魚住咲恵 "wikilink")（[岡山放送](../Page/岡山放送.md "wikilink")★・当時）：[2009年](../Page/2009年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - [7月24日](../Page/7月24日.md "wikilink")
-  - [郡司琢哉](https://ja.wikipedia.org/wiki/郡司琢哉 "wikilink")（[テレビ熊本](../Page/テレビ熊本.md "wikilink")）：2009年[8月17日](../Page/8月17日.md "wikilink") - 8月21日（[気象予報士](../Page/気象予報士.md "wikilink")の資格を持っているため、独自の天気予報コーナーも放送された）
-  - [沖田総平](https://ja.wikipedia.org/wiki/沖田総平 "wikilink")（[高知さんさんテレビ](https://ja.wikipedia.org/wiki/高知さんさんテレビ "wikilink")☆）：[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")
-  - [片桐千晶](https://ja.wikipedia.org/wiki/片桐千晶 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")★）：[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") ‐ [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")
-  - [千田淳一](https://ja.wikipedia.org/wiki/千田淳一 "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")☆）：[2011年](../Page/2011年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink") - [8月12日](../Page/8月12日.md "wikilink")
-  - [三好ジェームス](https://ja.wikipedia.org/wiki/三好ジェームス "wikilink")（[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")☆・当時）：[2012年](../Page/2012年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - [8月17日](../Page/8月17日.md "wikilink")
-  - [加藤夏海](https://ja.wikipedia.org/wiki/加藤夏海 "wikilink")（[テレビ愛媛](https://ja.wikipedia.org/wiki/テレビ愛媛 "wikilink")☆）：2012年[9月10日](../Page/9月10日.md "wikilink") - [9月14日](../Page/9月14日.md "wikilink")
+  - [千葉絢子](../Page/千葉絢子.md "wikilink")（[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")☆）：[2003年](../Page/2003年.md "wikilink") - 不明
+  - [深津麻弓](../Page/深津麻弓.md "wikilink")（[富山テレビ](../Page/富山テレビ放送.md "wikilink")・当時）：[2004年](../Page/2004年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink") - [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")
+  - [石井百恵](../Page/石井百恵.md "wikilink")（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")☆）：[2005年](../Page/2005年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink") - [8月19日](../Page/8月19日.md "wikilink")（代行中の[8月16日](../Page/8月16日.md "wikilink")、[宮城県沖地震が発生し](https://ja.wikipedia.org/wiki/宮城県沖地震#2005年宮城県沖地震（宮城県南部地震） "wikilink")、急遽[報道特別番組](../Page/報道特別番組.md "wikilink")も務めた）
+  - [今井由実子](https://ja.wikipedia.org/wiki/今井由実子 "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")・当時）：[2006年](../Page/2006年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - [8月25日](../Page/8月25日.md "wikilink")
+  - [岡安譲](../Page/岡安譲.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")☆）：[2007年](../Page/2007年.md "wikilink")8月20日 - [8月24日](../Page/8月24日.md "wikilink")（代行中の[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、[那覇空港](../Page/那覇空港.md "wikilink")で[チャイナエアライン](../Page/チャイナエアライン.md "wikilink")機が[爆発・炎上する事故が発生し](../Page/チャイナエアライン120便炎上事故.md "wikilink")、急遽報道特別番組も務めた）
+  - [関口由香里](../Page/関口由香里.md "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")☆）：2007年[8月27日](../Page/8月27日.md "wikilink") - [8月31日](../Page/8月31日.md "wikilink")
+  - [安田真理](../Page/安田真理.md "wikilink")（[石川テレビ](../Page/石川テレビ放送.md "wikilink")☆・当時）：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") - [8月1日](../Page/8月1日.md "wikilink")（担当初日である7月28日の放送のニュースの第1項目は石川テレビの地元[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")の豪雨のニュースだった。
+  - [金田祐幸](../Page/金田祐幸.md "wikilink")（テレビ新広島☆）：2008年8月25日 - [8月29日](../Page/8月29日.md "wikilink")
+  - [魚住咲恵](../Page/魚住咲恵.md "wikilink")（[岡山放送](../Page/岡山放送.md "wikilink")★・当時）：[2009年](../Page/2009年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - [7月24日](../Page/7月24日.md "wikilink")
+  - [郡司琢哉](../Page/郡司琢哉.md "wikilink")（[テレビ熊本](../Page/テレビ熊本.md "wikilink")）：2009年[8月17日](../Page/8月17日.md "wikilink") - 8月21日（[気象予報士](../Page/気象予報士.md "wikilink")の資格を持っているため、独自の天気予報コーナーも放送された）
+  - [沖田総平](../Page/沖田総平.md "wikilink")（[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")☆）：[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - [7月23日](../Page/7月23日.md "wikilink")
+  - [片桐千晶](../Page/片桐千晶.md "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")★）：[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") ‐ [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")
+  - [千田淳一](../Page/千田淳一.md "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")☆）：[2011年](../Page/2011年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink") - [8月12日](../Page/8月12日.md "wikilink")
+  - [三好ジェームス](../Page/三好ジェームス.md "wikilink")（[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")☆・当時）：[2012年](../Page/2012年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - [8月17日](../Page/8月17日.md "wikilink")
+  - [加藤夏海](https://ja.wikipedia.org/wiki/加藤夏海 "wikilink")（[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")☆）：2012年[9月10日](../Page/9月10日.md "wikilink") - [9月14日](../Page/9月14日.md "wikilink")
   - [若林理紗](https://ja.wikipedia.org/wiki/若林理紗 "wikilink")（[山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")★☆・当時）：[2013年](../Page/2013年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") - [9月20日](../Page/9月20日.md "wikilink")
   - [後藤祐太](https://ja.wikipedia.org/wiki/後藤祐太 "wikilink")（テレビ熊本★）：2013年[9月23日](../Page/9月23日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")
   - [中島めぐみ](https://ja.wikipedia.org/wiki/中島めぐみ_\(アナウンサー\) "wikilink")（関西テレビ☆）：[2014年](../Page/2014年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink") - [8月1日](../Page/8月1日.md "wikilink")
-  - [蓮見直樹](https://ja.wikipedia.org/wiki/蓮見直樹 "wikilink")（[テレビ静岡](https://ja.wikipedia.org/wiki/テレビ静岡 "wikilink")☆）：2014年[9月22日](../Page/9月22日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")
+  - [蓮見直樹](https://ja.wikipedia.org/wiki/蓮見直樹 "wikilink")（[テレビ静岡](../Page/テレビ静岡.md "wikilink")☆）：2014年[9月22日](../Page/9月22日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")
   - [四位知加子](https://ja.wikipedia.org/wiki/四位知加子 "wikilink")（[テレビ西日本](../Page/テレビ西日本.md "wikilink")★☆）：[2015年](../Page/2015年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - [9月11日](../Page/9月11日.md "wikilink")
   - [杉山真一](https://ja.wikipedia.org/wiki/杉山真一 "wikilink")（東海テレビ★☆）：2015年9月14日 - [9月18日](../Page/9月18日.md "wikilink")
   - [伊藤健太](https://ja.wikipedia.org/wiki/伊藤健太_\(アナウンサー\) "wikilink")（岩手めんこいテレビ）：[2016年](../Page/2016年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [7月22日](../Page/7月22日.md "wikilink")
@@ -376,7 +376,7 @@
 11時30分から11時45分20秒までが全国向けニュース。最新ニュースや海外トピックス・スピーク特集を放送。
 
   - オープニング
-    初期はキャスターは冒頭の挨拶の際に自分の名前をフルネームで言っていたが、[堺正幸](https://ja.wikipedia.org/wiki/堺正幸 "wikilink")・[木幡美子](https://ja.wikipedia.org/wiki/木幡美子 "wikilink")コンビ（第1期）となった1996年4月からは挨拶と日付・曜日のみとなっている。
+    初期はキャスターは冒頭の挨拶の際に自分の名前をフルネームで言っていたが、[堺正幸](../Page/堺正幸.md "wikilink")・[木幡美子](../Page/木幡美子.md "wikilink")コンビ（第1期）となった1996年4月からは挨拶と日付・曜日のみとなっている。
 
 <!-- end list -->
 
@@ -474,7 +474,7 @@
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p><a href="../Page/岩手めんこいテレビ.md" title="wikilink">岩手めんこいテレビ</a> (mit)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a>開局から</p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a>開局から</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -496,7 +496,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a> (SAY)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a>4月1日開局から[7]</p></td>
 <td></td>
@@ -513,7 +513,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NST新潟総合テレビ" title="wikilink">新潟総合テレビ</a> (NST)</p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a> (NST)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野放送" title="wikilink">長野放送</a> (NBS)</p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a> (NBS)</p></td>
 <td><p>▲</p></td>
 <td></td>
 <td></td>
@@ -529,7 +529,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ静岡" title="wikilink">テレビ静岡</a> (SUT)</p></td>
+<td><p><a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a> (SUT)</p></td>
 <td><p>×</p></td>
 <td></td>
 <td></td>
@@ -584,7 +584,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a> (OHK)</p></td>
 <td></td>
 <td></td>
@@ -601,7 +601,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ愛媛" title="wikilink">テレビ愛媛</a>[8] (EBC)</p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>[8] (EBC)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -609,14 +609,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高知さんさんテレビ" title="wikilink">高知さんさんテレビ</a> (KSS)</p></td>
+<td><p><a href="../Page/高知さんさんテレビ.md" title="wikilink">高知さんさんテレビ</a> (KSS)</p></td>
 <td><p>×</p></td>
 <td><p>1997年4月1日開局から[9]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a> (TNC)</p></td>
 <td><p>○</p></td>
 <td></td>
@@ -649,14 +649,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a> (TOS)</p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a> (TOS)</p></td>
 <td><p><a href="../Page/日本ニュースネットワーク.md" title="wikilink">NNN</a>/FNN系列</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a>10月1日ネット開始</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a> (KTS)</p></td>
 <td><p>FNN系列</p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>4月1日ネット開始</p></td>
@@ -674,7 +674,7 @@
 </tbody>
 </table>
 
-  - テレビ朝日等とのクロスネット局である宮崎県の[テレビ宮崎](https://ja.wikipedia.org/wiki/テレビ宮崎 "wikilink")(UMK)では、テレビ朝日の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を、同時ネットしている為、全編に渡って放送されていない。
+  - テレビ朝日等とのクロスネット局である宮崎県の[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")(UMK)では、テレビ朝日の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を、同時ネットしている為、全編に渡って放送されていない。
 
 ### 過去のネット局
 
@@ -703,7 +703,7 @@
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国放送</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビTWO" title="wikilink">フジテレビTWO</a> (CS放送)</p></td>
 <td><p>FNN</p></td>
-<td><p>CSチャンネル「<a href="https://ja.wikipedia.org/wiki/フジテレビワンツーネクスト" title="wikilink">ワンツーネクスト</a>」の編成再編による。</p></td>
+<td><p>CSチャンネル「<a href="../Page/フジテレビワンツーネクスト.md" title="wikilink">ワンツーネクスト</a>」の編成再編による。</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
 <td><p>12:00 - 12:30(月-金)<br />
 12:00 - 12:15(土)<br />
@@ -718,21 +718,21 @@
 
   - 新潟総合テレビ - FNN NSTスピーク
   - 長野放送 - FNNスピーク NBS→FNNスピーク
-  - 東海テレビ - [FNN東海テレビスピーク](https://ja.wikipedia.org/wiki/FNN東海テレビスピーク "wikilink") / お天気レーダー→FNNスピーク / お天気レーダー
-  - 関西テレビ - [KTVワイドニュース](https://ja.wikipedia.org/wiki/KTVワイドニュース "wikilink")→KTVワイドニュース（平日） / [KTVニュース](https://ja.wikipedia.org/wiki/KTVニュース "wikilink")（土曜日）→FNNスピーク（平日） / KTVニュース（土曜日）→FNNスピーク
+  - 東海テレビ - [FNN東海テレビスピーク](../Page/FNN東海テレビスピーク.md "wikilink") / お天気レーダー→FNNスピーク / お天気レーダー
+  - 関西テレビ - [KTVワイドニュース](../Page/KTVワイドニュース.md "wikilink")→KTVワイドニュース（平日） / [KTVニュース](../Page/KTVニュース.md "wikilink")（土曜日）→FNNスピーク（平日） / KTVニュース（土曜日）→FNNスピーク
   - テレビ新広島 - tssスピーク FNN
-  - テレビ西日本 - [FNNニューススピーク TNC→FNNスピーク TNC](https://ja.wikipedia.org/wiki/TNCスピーク "wikilink")→FNNスピーク
+  - テレビ西日本 - [FNNニューススピーク TNC→FNNスピーク TNC](../Page/TNCスピーク.md "wikilink")→FNNスピーク
   - サガテレビ - FNN stsスピーク→FNN SAGA TVスピーク
   - テレビ長崎 - KTN FNNスピーク→KTNスピーク
   - テレビ熊本 - FNNスピーク TKU→FNNスピーク
-  - テレビ大分 - [FNN TOSスピーク](https://ja.wikipedia.org/wiki/TOSスピーク "wikilink")
+  - テレビ大分 - [FNN TOSスピーク](../Page/TOSスピーク.md "wikilink")
 
 ### ローカル枠の切り替え
 
-  - 11時45分20秒\[10\]（平日）のローカル枠切り替え時前のジングルは、フジテレビ\[11\]と福井テレビを除く大半のネット局では[お天気カメラ](https://ja.wikipedia.org/wiki/お天気カメラ "wikilink")の映像と**「この後は××から（県内ニュースを）お伝えします」**や**「このあとはローカルニュース」**などの字幕が流れCMに入る。（長野放送:「××の例→このあとは長野から…」）
+  - 11時45分20秒\[10\]（平日）のローカル枠切り替え時前のジングルは、フジテレビ\[11\]と福井テレビを除く大半のネット局では[お天気カメラ](../Page/お天気カメラ.md "wikilink")の映像と**「この後は××から（県内ニュースを）お伝えします」**や**「このあとはローカルニュース」**などの字幕が流れCMに入る。（長野放送:「××の例→このあとは長野から…」）
       - **東海テレビ**では、ニュース映像に差し替える場合があり、テロップはニュース項目が表示される。
-  - 2008年3月31日から、一部の系列局では[CMなしでローカルニュースに入る](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
-      - **福井テレビ**では、ローカルニュースを『[福井新聞ニュース](https://ja.wikipedia.org/wiki/福井新聞ニュース "wikilink")』として別番組で放送するため、平日は11時47分\[12\]で、土曜日は11時54分でそれぞれ飛び降りのかたちで終了する。
+  - 2008年3月31日から、一部の系列局では[CMなしでローカルニュースに入る](../Page/コマーシャルメッセージ.md "wikilink")。
+      - **福井テレビ**では、ローカルニュースを『[福井新聞ニュース](../Page/福井新聞ニュース.md "wikilink")』として別番組で放送するため、平日は11時47分\[12\]で、土曜日は11時54分でそれぞれ飛び降りのかたちで終了する。
 
 ## スタッフ
 
@@ -771,12 +771,12 @@
   -
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink")
 
-1.  参考として、NHK総合テレビの昼枠ニュースである「正午の[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")」も含めれば、放送歴2位に入る。
-2.  2015年3月までは[TBSの](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』（27年半）が最長記録を誇っていたが、本番組が同年4月以降も放送継続となったため記録を更新した。なお、[日本テレビで](../Page/日本テレビ放送網.md "wikilink")52年間放送された『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』は一時期タイトルを変えて放送されていた。
+1.  参考として、NHK総合テレビの昼枠ニュースである「正午の[NHKニュース](../Page/NHKニュース.md "wikilink")」も含めれば、放送歴2位に入る。
+2.  2015年3月までは[TBSの](../Page/TBSテレビ.md "wikilink")『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』（27年半）が最長記録を誇っていたが、本番組が同年4月以降も放送継続となったため記録を更新した。なお、[日本テレビで](../Page/日本テレビ放送網.md "wikilink")52年間放送された『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』は一時期タイトルを変えて放送されていた。
 3.
 4.
 5.  2015年12月26日は特別編成のため休止。
-6.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")・[18日](../Page/2月18日.md "wikilink")・[25日は](../Page/2月25日.md "wikilink")、[ジャパンコンソーシアム](https://ja.wikipedia.org/wiki/ジャパンコンソーシアム "wikilink")の一員として[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")実況を担当した為代行した。
+6.  [2006年](../Page/2006年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")・[18日](../Page/2月18日.md "wikilink")・[25日は](../Page/2月25日.md "wikilink")、[ジャパンコンソーシアム](../Page/ジャパンコンソーシアム.md "wikilink")の一員として[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")実況を担当した為代行した。
 7.  厳密には[3月15日](../Page/3月15日.md "wikilink")の試験放送開始時点から。
 8.  2004年9月までの社名は愛媛放送。
 9.  厳密には[3月20日](../Page/3月20日.md "wikilink")の試験放送開始時点から。

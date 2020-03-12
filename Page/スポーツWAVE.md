@@ -1,7 +1,7 @@
 > この記事は[WAVE](https://ja.wikipedia.org/wiki/WAVE)から翻訳されています。
 
 
-『**スポーツWAVE**』（スポーツ・ウェーブ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1994年](../Page/1994年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")（2日深夜）から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までにかけて放送されたニュースとスポーツの[コンプレックス番組](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")。正確には、放送年によって『**LIVE'94 スポーツWAVE**』『**LIVE'95 スポーツWAVE**』という。
+『**スポーツWAVE**』（スポーツ・ウェーブ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1994年](../Page/1994年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")（2日深夜）から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までにかけて放送されたニュースとスポーツの[コンプレックス番組](../Page/コンプレックス_\(番組形式\).md "wikilink")。正確には、放送年によって『**LIVE'94 スポーツWAVE**』『**LIVE'95 スポーツWAVE**』という。
 
 ## 概要
 
@@ -19,9 +19,9 @@
 
 <!-- end list -->
 
-  - [高田延彦](https://ja.wikipedia.org/wiki/高田延彦 "wikilink")
+  - [高田延彦](../Page/高田延彦.md "wikilink")
   - [陣内貴美子](https://ja.wikipedia.org/wiki/陣内貴美子 "wikilink")
-  - [川端健嗣](https://ja.wikipedia.org/wiki/川端健嗣 "wikilink")（フジテレビアナウンサー）
+  - [川端健嗣](../Page/川端健嗣.md "wikilink")（フジテレビアナウンサー）
 
 <!-- end list -->
 
@@ -29,9 +29,9 @@
 
 <!-- end list -->
 
-  - [湯原信光](https://ja.wikipedia.org/wiki/湯原信光 "wikilink")
-  - [田尾安志](https://ja.wikipedia.org/wiki/田尾安志 "wikilink")
-  - [木幡美子](https://ja.wikipedia.org/wiki/木幡美子 "wikilink")（フジテレビアナウンサー）
+  - [湯原信光](../Page/湯原信光.md "wikilink")
+  - [田尾安志](../Page/田尾安志.md "wikilink")
+  - [木幡美子](../Page/木幡美子.md "wikilink")（フジテレビアナウンサー）
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 ### 『ニュースJAPAN』キャスター
 
   - [長谷部真理子](https://ja.wikipedia.org/wiki/長谷部真理子 "wikilink")（前番組『[FNN NEWSCOM](../Page/FNN_NEWSCOM.md "wikilink")』平日版から異動。出産のため1994年冬に降板）
-  - [智田裕一](https://ja.wikipedia.org/wiki/智田裕一 "wikilink")（フジテレビアナウンサー、ニューヨーク赴任から帰国して担当）
+  - [智田裕一](../Page/智田裕一.md "wikilink")（フジテレビアナウンサー、ニューヨーク赴任から帰国して担当）
   - [佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")（フジテレビアナウンサー、長谷部の後任）
       - 智田・佐藤は、本番組終了後も、長年にわたって断続的に週末最終版ニュースを担当している。
 
@@ -62,10 +62,10 @@
 
 <!-- end list -->
 
-  - 1994年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - 1995年3月26日 23:30 - 翌1:00（JST）
+  - 1994年[4月3日](../Page/4月3日.md "wikilink") - 1995年3月26日 23:30 - 翌1:00（JST）
 
 ## 備考
 
-  - 番組のテーマ曲は[坂本龍一](../Page/坂本龍一.md "wikilink")が手掛けた。当初は「N.Y.C.」というタイトルだったが後にボーカルを加えたバージョンがCD化され、「Love and Hate」というタイトルでアルバム『[スウィート・リヴェンジ](https://ja.wikipedia.org/wiki/スウィート・リヴェンジ "wikilink")』に収録されている。
+  - 番組のテーマ曲は[坂本龍一](../Page/坂本龍一.md "wikilink")が手掛けた。当初は「N.Y.C.」というタイトルだったが後にボーカルを加えたバージョンがCD化され、「Love and Hate」というタイトルでアルバム『[スウィート・リヴェンジ](../Page/スウィート・リヴェンジ.md "wikilink")』に収録されている。
 
 [Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink")

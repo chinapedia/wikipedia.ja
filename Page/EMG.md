@@ -1,9 +1,9 @@
 > この記事は[EMG](https://ja.wikipedia.org/wiki/EMG)から翻訳されています。
 
 
-**EMG**は、アメリカの楽器用[ピックアップメーカーである](https://ja.wikipedia.org/wiki/ピックアップ_\(楽器\) "wikilink")。"Electro-Magnetic Generator"の頭文字が由来。会社の正式名称は **EMG, Inc.**。
+**EMG**は、アメリカの楽器用[ピックアップメーカーである](../Page/ピックアップ_\(楽器\).md "wikilink")。"Electro-Magnetic Generator"の頭文字が由来。会社の正式名称は **EMG, Inc.**。
 
-[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")に、「Dirtywork Studios」として[ギター](../Page/ギター.md "wikilink")用のピックアップの製造を開始。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に、ブランド名を「Overlend」に変更。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に、再びブランド名を変更して「EMG」とした。
+[1976年](../Page/1976年.md "wikilink")に、「Dirtywork Studios」として[ギター](../Page/ギター.md "wikilink")用のピックアップの製造を開始。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に、ブランド名を「Overlend」に変更。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に、再びブランド名を変更して「EMG」とした。
 
 ## 製品の特徴
 
@@ -21,11 +21,11 @@ EMGは、プリアンプを封入しないピックアップ（HZシリーズ）
 
 ### 7弦ギター用
 
-EMGは、7弦ギター用のアクティブピックアップ「EMG707」も製造している。この製品は、[フィア・ファクトリー](https://ja.wikipedia.org/wiki/フィア・ファクトリー "wikilink")の[ディーノ・カザレス](https://ja.wikipedia.org/wiki/ディーノ・カザレス "wikilink")との共同開発によるもので、同製品の売り上げの数%はディーノに支払われている。
+EMGは、7弦ギター用のアクティブピックアップ「EMG707」も製造している。この製品は、[フィア・ファクトリー](../Page/フィア・ファクトリー.md "wikilink")の[ディーノ・カザレス](https://ja.wikipedia.org/wiki/ディーノ・カザレス "wikilink")との共同開発によるもので、同製品の売り上げの数%はディーノに支払われている。
 
 ## 著名なユーザー
 
-エンドース契約を結んでいる主なアーティストは、[トム・モレロ](https://ja.wikipedia.org/wiki/トム・モレロ "wikilink")や[デヴィッド・ギルモア](https://ja.wikipedia.org/wiki/デヴィッド・ギルモア "wikilink")、[スティーヴ・ルカサー](https://ja.wikipedia.org/wiki/スティーヴ・ルカサー "wikilink")、[プリンス](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")、[ディーノ・カザレス](https://ja.wikipedia.org/wiki/ディーノ・カザレス "wikilink")、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")、[スレイヤー](../Page/スレイヤー.md "wikilink")、[フィア・ファクトリー](https://ja.wikipedia.org/wiki/フィア・ファクトリー "wikilink")、[スリップノット](https://ja.wikipedia.org/wiki/スリップノット "wikilink")、[レス・クレイプール](https://ja.wikipedia.org/wiki/レス・クレイプール "wikilink")、[アレキシ・ライホ](https://ja.wikipedia.org/wiki/アレキシ・ライホ "wikilink")、[ザック・ワイルド](https://ja.wikipedia.org/wiki/ザック・ワイルド "wikilink")などである。
+エンドース契約を結んでいる主なアーティストは、[トム・モレロ](https://ja.wikipedia.org/wiki/トム・モレロ "wikilink")や[デヴィッド・ギルモア](../Page/デヴィッド・ギルモア.md "wikilink")、[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")、[プリンス](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")、[ディーノ・カザレス](https://ja.wikipedia.org/wiki/ディーノ・カザレス "wikilink")、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")、[スレイヤー](../Page/スレイヤー.md "wikilink")、[フィア・ファクトリー](../Page/フィア・ファクトリー.md "wikilink")、[スリップノット](https://ja.wikipedia.org/wiki/スリップノット "wikilink")、[レス・クレイプール](https://ja.wikipedia.org/wiki/レス・クレイプール "wikilink")、[アレキシ・ライホ](../Page/アレキシ・ライホ.md "wikilink")、[ザック・ワイルド](../Page/ザック・ワイルド.md "wikilink")などである。
 
 ## 外部リンク
 

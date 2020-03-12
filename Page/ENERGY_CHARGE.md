@@ -1,9 +1,9 @@
 > この記事は[ENERGY CHARGE](https://ja.wikipedia.org/wiki/ENERGY_CHARGE)から翻訳されています。
 
 
-『**ENERGY CHARGE**』（エナジーチャージ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送されたEnergia＝[中国電力](../Page/中国電力.md "wikilink")提供の[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作で、[アナログ放送では](../Page/NTSC.md "wikilink")[レターボックス形式で放送](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")。
+『**ENERGY CHARGE**』（エナジーチャージ）は、[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送されたEnergia＝[中国電力](../Page/中国電力.md "wikilink")提供の[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作で、[アナログ放送では](../Page/NTSC.md "wikilink")[レターボックス形式で放送](../Page/レターボックス_\(映像技術\).md "wikilink")。
 
-番組は毎回様々なゲストを迎え、彼らが日々の活力源にしているものを紹介してもらっていた。11年間にわたって放送されたミニドラマ『[親子笑劇場電太郎一家](https://ja.wikipedia.org/wiki/親子笑劇場電太郎一家 "wikilink")』（1995年4月12日 - 2006年3月19日）の後番組であるが、内容はまったく異なる。
+番組は毎回様々なゲストを迎え、彼らが日々の活力源にしているものを紹介してもらっていた。11年間にわたって放送されたミニドラマ『[親子笑劇場電太郎一家](../Page/親子笑劇場電太郎一家.md "wikilink")』（1995年4月12日 - 2006年3月19日）の後番組であるが、内容はまったく異なる。
 
 番組の終了後、中国電力は同時間帯の番組提供から撤退した。
 

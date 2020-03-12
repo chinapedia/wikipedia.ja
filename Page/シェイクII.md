@@ -1,12 +1,12 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**シェイクII**（シェイクツー）は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[大都技研](https://ja.wikipedia.org/wiki/大都技研 "wikilink")が販売した[5号機の](https://ja.wikipedia.org/wiki/5号機_\(パチスロ\) "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。4号機の『[シェイク](../Page/シェイク_\(パチスロ\).md "wikilink")』の後継機で、大都技研初の5号機。『[吉宗](https://ja.wikipedia.org/wiki/吉宗_\(パチスロ\) "wikilink")』、『[押忍\!番長](https://ja.wikipedia.org/wiki/押忍!番長 "wikilink")』、『[秘宝伝](https://ja.wikipedia.org/wiki/秘宝伝 "wikilink")』でおなじみのシャッター付き[液晶](../Page/液晶.md "wikilink")機。新筐体の液晶演出には「スゴビ」（凄い+ビジョンを掛け合わせた[造語](../Page/造語.md "wikilink")）と呼ばれるものがあり、チャンスステージ及びそこから発展したボーナス時に液晶画面に奥行きが生じる。[保通協における形式名は](../Page/保安通信協会.md "wikilink")「シェイクII2」。
+**シェイクII**（シェイクツー）は[2007年](../Page/2007年.md "wikilink")に[大都技研](https://ja.wikipedia.org/wiki/大都技研 "wikilink")が販売した[5号機の](../Page/5号機_\(パチスロ\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。4号機の『[シェイク](../Page/シェイク_\(パチスロ\).md "wikilink")』の後継機で、大都技研初の5号機。『[吉宗](../Page/吉宗_\(パチスロ\).md "wikilink")』、『[押忍\!番長](../Page/押忍!番長.md "wikilink")』、『[秘宝伝](../Page/秘宝伝.md "wikilink")』でおなじみのシャッター付き[液晶](../Page/液晶.md "wikilink")機。新筐体の液晶演出には「スゴビ」（凄い+ビジョンを掛け合わせた[造語](../Page/造語.md "wikilink")）と呼ばれるものがあり、チャンスステージ及びそこから発展したボーナス時に液晶画面に奥行きが生じる。[保通協における形式名は](../Page/保安通信協会.md "wikilink")「シェイクII2」。
 
 ## 概要
 
-  - [アシストタイム](https://ja.wikipedia.org/wiki/アシストタイム "wikilink") (AT) や[リプレイタイム](https://ja.wikipedia.org/wiki/リプレイタイム "wikilink") (RT) を（演出用を除いて）搭載しない、ボーナスによってコインを獲得するタイプとなる。
-  - ボーナスは青7とナディアの2種類の[ビッグボーナス](https://ja.wikipedia.org/wiki/ボーナスゲーム "wikilink")（2枚がけで466枚以上の払い出しで終了）と[レギュラーボーナス](https://ja.wikipedia.org/wiki/ボーナスゲーム "wikilink")（12回のゲームまたは4回の入賞で終了）の3種類が搭載されている。
+  - [アシストタイム](https://ja.wikipedia.org/wiki/アシストタイム "wikilink") (AT) や[リプレイタイム](../Page/リプレイタイム.md "wikilink") (RT) を（演出用を除いて）搭載しない、ボーナスによってコインを獲得するタイプとなる。
+  - ボーナスは青7とナディアの2種類の[ビッグボーナス](../Page/ボーナスゲーム.md "wikilink")（2枚がけで466枚以上の払い出しで終了）と[レギュラーボーナス](../Page/ボーナスゲーム.md "wikilink")（12回のゲームまたは4回の入賞で終了）の3種類が搭載されている。
   - ボーナスはほとんどが小役との重複で当選し、重複の可能性はベルを除いた全ての小役にある。しかし、メインは「サボハニ」揃いの「チャンス（15枚役）」で、その際にチャンスステージ（SHAKE、VJ、LIVEの3ステージから選択）に進んだ場合は信頼度がアップする。また、チャンスが揃った場合は5ゲーム間、ボーナス成立後はボーナス入賞までリプレイ確率が上がるRTに入るため、重複の可能性がある小役が揃った後にリプレイが連続して演出も連続した場合、ボーナス入賞の期待度が上昇する。特にステップアップ演出が「スリー！」から始まった場合には信頼度が上がる。
   - スゴビ以外の液晶画面は全て通常時の演出となり、さまざまな演出が繰り広げられる。
   - チャンスステージ経由のビッグボーナスでは前作や『吉宗』、『押忍\!番長』同様、ボーナス時のBGM（キャラクター）を選択できる。キャラクターはBOY、FK、NADJAの3種類。それぞれに経由したチャンスステージ別のバージョンがある。チャンスステージを経由しないBGMが1種類あるため、都合10種類のBGMが用意されている。
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - BOY（ボゥイ）…[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")（魔界のプリンス）
+  - BOY（ボゥイ）…[DJ](../Page/ディスクジョッキー.md "wikilink")（魔界のプリンス）
   - F.K（エフ・ケー）…[ロボット](../Page/ロボット.md "wikilink")（[フランケンシュタイン](../Page/フランケンシュタイン.md "wikilink")がモチーフ）
   - Nadja（ナディア）…歌手（[ドラキュラ](../Page/ドラキュラ.md "wikilink")の末裔）
   - [サボハニ](https://ja.wikipedia.org/wiki/サボハニ "wikilink")…謎の生物2人組。本機以外の機種の演出にも登場する、大都のマスコット的存在ともいえる。
@@ -32,7 +32,7 @@
   - BB（ブラック・ボゥイ）…BOYのライバル
   - メドゥーサ…Nadjaのライバル歌手
   - コリン…Nadjaのライバル歌手
-  - スケルトン…人気司会者（[ガイコツ](https://ja.wikipedia.org/wiki/骸骨 "wikilink")）
+  - スケルトン…人気司会者（[ガイコツ](../Page/骸骨.md "wikilink")）
   - カリス…ダンサー（[ミイラ](../Page/ミイラ.md "wikilink")）
 
 ## 演出(通常時)
@@ -79,7 +79,7 @@
 <!-- end list -->
 
   - コミック演出
-    F.Kのコミック（[アメコミなどのパロディ](https://ja.wikipedia.org/wiki/アメリカン・コミックス "wikilink")）が紹介される。ほとんどはスゴビ系演出か爆弾解体演出へ発展する。
+    F.Kのコミック（[アメコミなどのパロディ](../Page/アメリカン・コミックス.md "wikilink")）が紹介される。ほとんどはスゴビ系演出か爆弾解体演出へ発展する。
     ボーナス確定絵柄もいくつか存在する。
 
 <!-- end list -->
@@ -125,8 +125,8 @@
 
 ## ゲーム
 
-  - 大都技研公式パチスロシミュレータ シェイクII（[パオン](../Page/パオン・ディーピー.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")7月）
-  - パチスロ SHAKE II（ディーピー、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")/[Android](https://ja.wikipedia.org/wiki/Android "wikilink")アプリ、[2014年](../Page/2014年.md "wikilink")5月）
+  - 大都技研公式パチスロシミュレータ シェイクII（[パオン](../Page/パオン・ディーピー.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](../Page/2007年.md "wikilink")7月）
+  - パチスロ SHAKE II（ディーピー、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")/[Android](../Page/Android.md "wikilink")アプリ、[2014年](../Page/2014年.md "wikilink")5月）
 
 ## 関連商品
 

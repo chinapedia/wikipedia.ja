@@ -30,7 +30,7 @@
 
 **オープニング**
 
-  - 「Deep Wild -confidential mix-」 [Iceman](https://ja.wikipedia.org/wiki/Iceman "wikilink")
+  - 「Deep Wild -confidential mix-」 [Iceman](../Page/Iceman.md "wikilink")
 
 **エンディング**
 
@@ -38,7 +38,7 @@
 
 ## その他
 
-  - 浅倉大介とNACK5との縁は長く、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")4月8日スタートの「[UPTOWN SQUARE](https://ja.wikipedia.org/wiki/UPTOWN_SQUARE "wikilink")」が浅倉がNACK5で持つレギュラー番組の始まりである。開始当初は[麗美](https://ja.wikipedia.org/wiki/麗美 "wikilink")と共にパーソナリティーを務めていたが、[1993年](../Page/1993年.md "wikilink")4月7日以降は浅倉が単独で番組を担当。[1994年](../Page/1994年.md "wikilink")6月22日より[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")をレギュラーゲストに招きaccessの2人で番組を担当していたが、access活動休止後は再び浅倉単独での出演となった。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月31日の「UPTOWN SQUARE」終了後は、同年4月2日から[1999年](../Page/1999年.md "wikilink")3月25日まで[BAY-FMにて](../Page/ベイエフエム.md "wikilink")、レギュラー番組「[Digiryzm Sensation](https://ja.wikipedia.org/wiki/Digiryzm_Sensation "wikilink")」を担当。番組終了後は再びNACK5へ戻り、現在のNEO AGE CIRCUITを開始した。また、各種イベントへの出演、キャンペーンソングの提供も行っている。
+  - 浅倉大介とNACK5との縁は長く、[1992年](../Page/1992年.md "wikilink")4月8日スタートの「[UPTOWN SQUARE](https://ja.wikipedia.org/wiki/UPTOWN_SQUARE "wikilink")」が浅倉がNACK5で持つレギュラー番組の始まりである。開始当初は[麗美](https://ja.wikipedia.org/wiki/麗美 "wikilink")と共にパーソナリティーを務めていたが、[1993年](../Page/1993年.md "wikilink")4月7日以降は浅倉が単独で番組を担当。[1994年](../Page/1994年.md "wikilink")6月22日より[貴水博之](../Page/貴水博之.md "wikilink")をレギュラーゲストに招きaccessの2人で番組を担当していたが、access活動休止後は再び浅倉単独での出演となった。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月31日の「UPTOWN SQUARE」終了後は、同年4月2日から[1999年](../Page/1999年.md "wikilink")3月25日まで[BAY-FMにて](../Page/ベイエフエム.md "wikilink")、レギュラー番組「[Digiryzm Sensation](https://ja.wikipedia.org/wiki/Digiryzm_Sensation "wikilink")」を担当。番組終了後は再びNACK5へ戻り、現在のNEO AGE CIRCUITを開始した。また、各種イベントへの出演、キャンペーンソングの提供も行っている。
   - その週の番組内容に関する浅倉大介からの直筆メッセージを、NACK5の運営するウェブサイトhithit.comより[PDF形式でダウンロードすることができる](../Page/Portable_Document_Format.md "wikilink")。これも「UPTOWN SQUARE」時代より続けられていたサービスで、以前は[クロネコFAX](https://ja.wikipedia.org/wiki/クロネコFAX "wikilink")で受け取る方式だったが、改められた。
 
 [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:浅倉大介](https://ja.wikipedia.org/wiki/Category:浅倉大介 "wikilink")

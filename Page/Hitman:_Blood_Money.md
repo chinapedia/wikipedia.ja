@@ -1,7 +1,7 @@
 > この記事は[Hitman: Blood Money](https://ja.wikipedia.org/wiki/Hitman:_Blood_Money)から翻訳されています。
 
 
-『**Hitman: Blood Money**』（ヒットマン：ブラッドマネー）は、[HITMANシリーズの第](https://ja.wikipedia.org/wiki/ヒットマン_\(ゲーム\) "wikilink")4作目として[アイドス](https://ja.wikipedia.org/wiki/アイドス "wikilink")より発売された[ステルス性重視の](../Page/ステルスゲーム.md "wikilink")[サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/サードパーソン・シューティングゲーム "wikilink")である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[スパイクからコンシューマ版](../Page/スパイク_\(ゲーム会社\).md "wikilink")（[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")）が、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")にズーよりパソコン版がそれぞれ日本語版で発売された。海外では[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox版も発売されているが](../Page/Xbox_\(ゲーム機\).md "wikilink")、日本国内では未発売。
+『**Hitman: Blood Money**』（ヒットマン：ブラッドマネー）は、[HITMANシリーズの第](https://ja.wikipedia.org/wiki/ヒットマン_\(ゲーム\) "wikilink")4作目として[アイドス](../Page/アイドス.md "wikilink")より発売された[ステルス性重視の](../Page/ステルスゲーム.md "wikilink")[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[スパイクからコンシューマ版](../Page/スパイク_\(ゲーム会社\).md "wikilink")（[Xbox 360](../Page/Xbox_360.md "wikilink")）が、[2007年](../Page/2007年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")にズーよりパソコン版がそれぞれ日本語版で発売された。海外では[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox版も発売されているが](../Page/Xbox_\(ゲーム機\).md "wikilink")、日本国内では未発売。
 
 ## プロット
 
@@ -103,7 +103,7 @@
   - フランチャイズ（the Franchise）
     アルファ・ゼロックスの下部組織。クローン暗殺者集団「ザ・クロウズ」を有し、世界中で暗殺事件を起こす。本作では「組織」こと「ザ・エージェンシー」と抗争を広げ、最終的には「組織」を壊滅させることに成功する。
   - ザ・クロウズ
-    フランチャイズに所属するクローン暗殺者集団の総称。表舞台ではクラス2・クローンの特徴から「[アルビノ](https://ja.wikipedia.org/wiki/アルビノ "wikilink")」もしくは「アルビノ暗殺団」と呼ばれる。クローンらしく非常に高い能力を有すが、皆クラス2ゆえに短命である。
+    フランチャイズに所属するクローン暗殺者集団の総称。表舞台ではクラス2・クローンの特徴から「[アルビノ](../Page/アルビノ.md "wikilink")」もしくは「アルビノ暗殺団」と呼ばれる。クローンらしく非常に高い能力を有すが、皆クラス2ゆえに短命である。
   - クラス
     クローンの種類。より正確には成人までに加速成長させたヒト・クローンの種類である。クラス1と2がある。
       - クラス1

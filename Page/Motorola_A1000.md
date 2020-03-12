@@ -1,7 +1,7 @@
 > この記事は[Motorola A1000](https://ja.wikipedia.org/wiki/Motorola_A1000)から翻訳されています。
 
 
-**Motorola A1000**は、[モトローラ](../Page/モトローラ.md "wikilink")によって開発された、[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")（[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")）である。[Symbian OS搭載で](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")、[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink") (UI) には[UIQ](https://ja.wikipedia.org/wiki/UIQ "wikilink")を採用。[A-GPS](https://ja.wikipedia.org/wiki/A-GPS "wikilink")を搭載している。A1000は**A925**と**A920**の後継機種に当たる。また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に、この機種をベースに、さらに[無線LAN](../Page/無線LAN.md "wikilink")に対応した、[M1000](../Page/M1000.md "wikilink")が[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")から発売された。
+**Motorola A1000**は、[モトローラ](../Page/モトローラ.md "wikilink")によって開発された、[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")（[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")）である。[Symbian OS搭載で](../Page/Symbian_OS.md "wikilink")、[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink") (UI) には[UIQ](../Page/UIQ.md "wikilink")を採用。[A-GPS](https://ja.wikipedia.org/wiki/A-GPS "wikilink")を搭載している。A1000は**A925**と**A920**の後継機種に当たる。また[2005年](../Page/2005年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に、この機種をベースに、さらに[無線LAN](../Page/無線LAN.md "wikilink")に対応した、[M1000](../Page/M1000.md "wikilink")が[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")から発売された。
 
 ## 概要
 
@@ -20,16 +20,16 @@
 ## スペック（スペック表以外）
 
   - 入力インタフェース : タッチパネル（手書き認識搭載）
-  - メッセージング : [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink") / [MMS](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink") / e-mail（[POP3](../Page/Post_Office_Protocol.md "wikilink")/[IMAP4](../Page/Internet_Message_Access_Protocol.md "wikilink")/[SMTP](../Page/Simple_Mail_Transfer_Protocol.md "wikilink")）クライアント
+  - メッセージング : [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink") / [MMS](../Page/マルチメディアメッセージングサービス.md "wikilink") / e-mail（[POP3](../Page/Post_Office_Protocol.md "wikilink")/[IMAP4](../Page/Internet_Message_Access_Protocol.md "wikilink")/[SMTP](../Page/Simple_Mail_Transfer_Protocol.md "wikilink")）クライアント
   - 内蔵ブラウザ : [WAP](../Page/Wireless_Application_Protocol.md "wikilink") 2.0 / [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") 7.5（フルブラウザ）
-  - 外部インタフェース : [USBケーブル接続](../Page/ユニバーサル・シリアル・バス.md "wikilink") / [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - 外部インタフェース : [USBケーブル接続](../Page/ユニバーサル・シリアル・バス.md "wikilink") / [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [Java](https://ja.wikipedia.org/wiki/Java "wikilink") : [Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink") / MIDP 2.0 / CLDC 1.1
 
 ### その他の特徴
 
   - [A-GPS搭載](https://ja.wikipedia.org/wiki/Assisted_GPS "wikilink")
   - Word, Excel, PowerPoint, PDFファイルを閲覧可能
-  - [個人情報管理](https://ja.wikipedia.org/wiki/Personal_Information_Manager "wikilink") (PIM) ソフトウェア搭載
+  - [個人情報管理](../Page/Personal_Information_Manager.md "wikilink") (PIM) ソフトウェア搭載
   - ソフトウェア開発キット
 
 ## 外部リンク

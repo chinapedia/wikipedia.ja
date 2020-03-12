@@ -1,13 +1,13 @@
 > この記事は[Mozo](https://ja.wikipedia.org/wiki/Mozo)から翻訳されています。
 
 
-**mozoワンダーシティ**（モゾ ワンダーシティ、英:*mozo wonder city*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区](https://ja.wikipedia.org/wiki/西区_\(名古屋市\) "wikilink")[二方町](https://ja.wikipedia.org/wiki/二方町 "wikilink")に所在する[イオンモール](https://ja.wikipedia.org/wiki/イオンモール "wikilink")運営のモール型[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
+**mozoワンダーシティ**（モゾ ワンダーシティ、英:*mozo wonder city*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区](../Page/西区_\(名古屋市\).md "wikilink")[二方町](https://ja.wikipedia.org/wiki/二方町 "wikilink")に所在する[イオンモール](../Page/イオンモール.md "wikilink")運営のモール型[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
 
 以下、当記事中では「**mozo**」と表記する。
 
 ## 概要
 
-1994年（平成6年）開業の**ワンダーシティ**（後の**[イオンモール名古屋ワンダーシティ](https://ja.wikipedia.org/wiki/イオンモール名古屋ワンダーシティ "wikilink")**、以下「イオン名古屋WC」と表記）の建て替え・改装店舗として、2009年にオープン\[1\]。イオン名古屋WCと同じく[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")グループとイオンモール（[イオングループ](../Page/イオングループ.md "wikilink")）の共同で建て替えが行われた。
+1994年（平成6年）開業の**ワンダーシティ**（後の**[イオンモール名古屋ワンダーシティ](https://ja.wikipedia.org/wiki/イオンモール名古屋ワンダーシティ "wikilink")**、以下「イオン名古屋WC」と表記）の建て替え・改装店舗として、2009年にオープン\[1\]。イオン名古屋WCと同じく[三菱商事](../Page/三菱商事.md "wikilink")グループとイオンモール（[イオングループ](../Page/イオングループ.md "wikilink")）の共同で建て替えが行われた。
 
 10万[平方メートル](../Page/平方メートル.md "wikilink")を超す敷地に、[イオンと約](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")230の専門店からなる**本棟**（**店舗棟**）、[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")などからなる**シネマ棟**、[グンゼスポーツクラブ](https://ja.wikipedia.org/wiki/グンゼスポーツクラブ "wikilink")などからなる**スポーツ棟**で構成され、愛知県内の郊外型SCとして最大級の規模を誇る。2013年（平成25年）2月現在の総賃貸面積は101,000mであり、2013年（平成25年）末時点でイオンモールの中ではレイクタウン、幕張新都心に次ぐ3番目と、最大クラスのグループに入る\[2\]。
 
@@ -15,9 +15,9 @@
 
 ### 周辺環境
 
-[名古屋環状2号線](https://ja.wikipedia.org/wiki/名古屋環状2号線 "wikilink")（[名古屋第二環状自動車道](https://ja.wikipedia.org/wiki/名古屋第二環状自動車道 "wikilink")および[国道302号](../Page/国道302号.md "wikilink")）に隣接しているほか、[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")・[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink") [上小田井駅](../Page/上小田井駅.md "wikilink")から徒歩5分、[東海交通事業](../Page/東海交通事業.md "wikilink")[城北線](https://ja.wikipedia.org/wiki/東海交通事業城北線 "wikilink") [小田井駅](https://ja.wikipedia.org/wiki/小田井駅 "wikilink")より徒歩7分の場所にある。
+[名古屋環状2号線](../Page/名古屋環状2号線.md "wikilink")（[名古屋第二環状自動車道](https://ja.wikipedia.org/wiki/名古屋第二環状自動車道 "wikilink")および[国道302号](../Page/国道302号.md "wikilink")）に隣接しているほか、[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")・[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink") [上小田井駅](../Page/上小田井駅.md "wikilink")から徒歩5分、[東海交通事業](../Page/東海交通事業.md "wikilink")[城北線](https://ja.wikipedia.org/wiki/東海交通事業城北線 "wikilink") [小田井駅](../Page/小田井駅.md "wikilink")より徒歩7分の場所にある。
 
-周辺にはマンションや住宅地が多く、元来は工業地域であるため、[山崎製パン](https://ja.wikipedia.org/wiki/山崎製パン "wikilink")の名古屋工場などとも隣接・近接している。
+周辺にはマンションや住宅地が多く、元来は工業地域であるため、[山崎製パン](../Page/山崎製パン.md "wikilink")の名古屋工場などとも隣接・近接している。
 
 ### 施設の位置づけと管理会社
 
@@ -25,7 +25,7 @@
 
 ## 開店までの経緯
 
-旧本館の閉鎖後に[スクラップアンドビルド](https://ja.wikipedia.org/wiki/スクラップアンドビルド "wikilink")で新本棟を建築。別棟として既設されている建物のうち、スポーツ棟は旧本館の閉店時に移転継続営業先として開設されていたものである。また、シネマ棟は旧本館の営業期間中に完成したが、新本棟への移転までは1階部分へジャスコワンダーシティ食品館が仮入居していたほか、完成後は2階層が[ペデストリアンデッキ](https://ja.wikipedia.org/wiki/ペデストリアンデッキ "wikilink")で接続された。
+旧本館の閉鎖後に[スクラップアンドビルド](../Page/スクラップアンドビルド.md "wikilink")で新本棟を建築。別棟として既設されている建物のうち、スポーツ棟は旧本館の閉店時に移転継続営業先として開設されていたものである。また、シネマ棟は旧本館の営業期間中に完成したが、新本棟への移転までは1階部分へジャスコワンダーシティ食品館が仮入居していたほか、完成後は2階層が[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")で接続された。
 
 ## 歴史
 
@@ -102,9 +102,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_06.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_05.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_04.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AEON_Wonder_City_Shopping_Center_03.JPG "wikilink") [Mozo_Wondercity-Westentrance.jpg](https://ja.wikipedia.org/wiki/File:Mozo_Wondercity-Westentrance.jpg "fig:Mozo_Wondercity-Westentrance.jpg")
 
-本棟はイオンスタイルワンダーシティ店を核店舗として、準核店舗に[東急ハンズ](../Page/東急ハンズ.md "wikilink") 、[OPA](https://ja.wikipedia.org/wiki/OPA "wikilink")（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink")・[島村楽器](https://ja.wikipedia.org/wiki/島村楽器 "wikilink")・[新星堂](https://ja.wikipedia.org/wiki/新星堂 "wikilink")などが入居）、[ACTUS](https://ja.wikipedia.org/wiki/アクタス_\(家具・インテリア\) "wikilink")、[ZARA](../Page/ザラ_\(ファッションブランド\).md "wikilink")、[PETEMO](https://ja.wikipedia.org/wiki/イオンペット "wikilink") 、[セガ](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ユニクロ](../Page/ユニクロ.md "wikilink")、[niko and...](https://ja.wikipedia.org/wiki/niko_and... "wikilink")、[無印良品](https://ja.wikipedia.org/wiki/良品計画 "wikilink")、[Francfranc](https://ja.wikipedia.org/wiki/Francfranc "wikilink")、[スポーツデポ](https://ja.wikipedia.org/wiki/スポーツDEPO "wikilink")、[ザ・ダイソーなどが入居している](https://ja.wikipedia.org/wiki/大創産業 "wikilink")。専門店街は各階層ごとに業種や取扱い品目が分けられ、1階が衣料品・食品、2階は衣料品、3階は子供・家族関連、4階はスポーツや文化関連となっている。
+本棟はイオンスタイルワンダーシティ店を核店舗として、準核店舗に[東急ハンズ](../Page/東急ハンズ.md "wikilink") 、[OPA](../Page/OPA.md "wikilink")（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink")・[島村楽器](../Page/島村楽器.md "wikilink")・[新星堂](../Page/新星堂.md "wikilink")などが入居）、[ACTUS](https://ja.wikipedia.org/wiki/アクタス_\(家具・インテリア\) "wikilink")、[ZARA](../Page/ザラ_\(ファッションブランド\).md "wikilink")、[PETEMO](https://ja.wikipedia.org/wiki/イオンペット "wikilink") 、[セガ](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ユニクロ](../Page/ユニクロ.md "wikilink")、[niko and...](https://ja.wikipedia.org/wiki/niko_and... "wikilink")、[無印良品](https://ja.wikipedia.org/wiki/良品計画 "wikilink")、[Francfranc](../Page/Francfranc.md "wikilink")、[スポーツデポ](https://ja.wikipedia.org/wiki/スポーツDEPO "wikilink")、[ザ・ダイソーなどが入居している](https://ja.wikipedia.org/wiki/大創産業 "wikilink")。専門店街は各階層ごとに業種や取扱い品目が分けられ、1階が衣料品・食品、2階は衣料品、3階は子供・家族関連、4階はスポーツや文化関連となっている。
 
-2階の連絡橋で本棟2階と連絡されているシネマ棟には、[イオンシネマ](https://ja.wikipedia.org/wiki/イオンエンターテイメント "wikilink")・ワンダー（10スクリーンの[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")）や[エディオン](https://ja.wikipedia.org/wiki/エディオン "wikilink")が入居している。地上通路で本棟と連絡しているスポーツ棟にはスポーツクラブなどが入居している。
+2階の連絡橋で本棟2階と連絡されているシネマ棟には、[イオンシネマ](https://ja.wikipedia.org/wiki/イオンエンターテイメント "wikilink")・ワンダー（10スクリーンの[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")）や[エディオン](../Page/エディオン.md "wikilink")が入居している。地上通路で本棟と連絡しているスポーツ棟にはスポーツクラブなどが入居している。
 
 また、イオン寄りに「イーストコート」、ZARA レディス・ジェラートピケ寄りに「ウエストコート」と呼称する催事場があり、コンサートや季節特売などの催事に活用されている。
 
@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - [小田井駅](https://ja.wikipedia.org/wiki/小田井駅 "wikilink") - 北に徒歩約10分
+  - [小田井駅](../Page/小田井駅.md "wikilink") - 北に徒歩約10分
 
 <!-- end list -->
 
@@ -142,8 +142,8 @@
 
 <!-- end list -->
 
-  - 西からは[平田インターチェンジ](https://ja.wikipedia.org/wiki/平田インターチェンジ_\(愛知県\) "wikilink") - 約5分
-  - 東からは[山田東インターチェンジ](https://ja.wikipedia.org/wiki/山田東インターチェンジ "wikilink") - 約5分
+  - 西からは[平田インターチェンジ](../Page/平田インターチェンジ_\(愛知県\).md "wikilink") - 約5分
+  - 東からは[山田東インターチェンジ](../Page/山田東インターチェンジ.md "wikilink") - 約5分
 
 ## 脚注
 
@@ -159,9 +159,9 @@
 
 ## 関連項目
 
-  - [イオンモール](https://ja.wikipedia.org/wiki/イオンモール "wikilink")
-  - [ダイヤモンドシティ](https://ja.wikipedia.org/wiki/ダイヤモンドシティ "wikilink")
-  - [大規模小売店舗立地法](https://ja.wikipedia.org/wiki/大規模小売店舗立地法 "wikilink")
+  - [イオンモール](../Page/イオンモール.md "wikilink")
+  - [ダイヤモンドシティ](../Page/ダイヤモンドシティ.md "wikilink")
+  - [大規模小売店舗立地法](../Page/大規模小売店舗立地法.md "wikilink")
   - [日本のショッピングセンター一覧](https://ja.wikipedia.org/wiki/日本のショッピングセンター一覧 "wikilink")
 
 ## 外部リンク
@@ -201,7 +201,7 @@
 7.  [今春グランドオープン予定 『mozo wondercity （モゾ ワンダーシティ）』 ショッピングセンターの名称決定のお知らせ](http://www.aeonmall.com/news/pdf/200901/20090119_2.pdf)
 8.  [新たに生まれ変わる都市型コンプレックスショッピングセンター「mozo wondercity （モゾ ワンダーシティ）」 4月21日（火） AM9:00 グランドオープン](http://www.aeon.info/news/2009_1/pdf/090305_4R.pdf)
 9.
-10. “イオンリテール、新生イオン船出へ「心機一転」宣言 名古屋ワンダーシティで入社式”. [日本食糧新聞](https://ja.wikipedia.org/wiki/日本食糧新聞 "wikilink") (日本食糧新聞社). (2011年3月11日)
+10. “イオンリテール、新生イオン船出へ「心機一転」宣言 名古屋ワンダーシティで入社式”. [日本食糧新聞](../Page/日本食糧新聞.md "wikilink") (日本食糧新聞社). (2011年3月11日)
 11. [譲渡に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1110031715311640.pdf)[譲渡完了に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1110031715311640.pdf)旧イオンモール名古屋ワンダーシティ時代もJRFへ信託譲渡していたが、建て直しの際に三菱商事（特定目的会社「上小田井SC2合同会社」）が再取得していた。開店後から3年が経過したため、予定通り再譲渡したものである。ただし、旧イオンモール名古屋ワンダーシティ時代のように、イオンモールへ運営主体・広報主体を移管していない。引き続き、三菱商事がイオンモールにプロパティマネジメントを委託する契約による運営である。
 12. [譲渡に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1209111632311680.pdf)[譲渡完了に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1210021550311688.pdf) [日本リテールファンド](../Page/日本リテールファンド.md "wikilink")投資法人[日本リテールファンド投資法人\>不動産ポートフォリオ\>ポートフォリオマップ\>mozo ワンダーシティ](http://www.jrf-reit.com/portfolio/detail.php?article_id=90) - 2014年10月11日閲覧
 13. [譲渡に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1409041526311774.pdf)[譲渡完了に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1410011600311785.pdf)[日本リテールファンド](../Page/日本リテールファンド.md "wikilink")投資法人[日本リテールファンド投資法人\>不動産ポートフォリオ\>ポートフォリオマップ\>mozo ワンダーシティ](http://www.jrf-reit.com/portfolio/detail.php?article_id=90) - 2014年10月11日閲覧

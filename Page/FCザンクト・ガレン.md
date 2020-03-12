@@ -1,9 +1,9 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**フースバルクラブ・ザンクト・ガレン1879**（**Fussballclub St. Gallen 1879**）は、[スイス](../Page/スイス.md "wikilink")北東部、[ザンクト・ガレン州](https://ja.wikipedia.org/wiki/ザンクト・ガレン州 "wikilink")の州都[ザンクト・ガレン](https://ja.wikipedia.org/wiki/ザンクト・ガレン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**フースバルクラブ・ザンクト・ガレン1879**（**Fussballclub St. Gallen 1879**）は、[スイス](../Page/スイス.md "wikilink")北東部、[ザンクト・ガレン州](../Page/ザンクト・ガレン州.md "wikilink")の州都[ザンクト・ガレン](../Page/ザンクト・ガレン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
-クラブの創設は[1879年](../Page/1879年.md "wikilink")。スイス国内でも歴史のあるクラブの一つに数えられる。初タイトルは[1904年](../Page/1904年.md "wikilink")のスイストップリーグ制覇。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")には[スイス・カップ](https://ja.wikipedia.org/wiki/スイス・カップ "wikilink")も制している。[2000年](../Page/2000年.md "wikilink")のトップリーグ制覇以来タイトルからは遠ざかっている。2007-08シーズンは最終順位を9位で終え、リーグ入れ替え戦へ。入れ替え戦では2部2位の[ACベッリンツォーナ](https://ja.wikipedia.org/wiki/ACベッリンツォーナ "wikilink")に2試合合計2-5で敗れ、2008-09シーズンの2部降格が決まった。
+クラブの創設は[1879年](../Page/1879年.md "wikilink")。スイス国内でも歴史のあるクラブの一つに数えられる。初タイトルは[1904年](../Page/1904年.md "wikilink")のスイストップリーグ制覇。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")には[スイス・カップ](../Page/スイス・カップ.md "wikilink")も制している。[2000年](../Page/2000年.md "wikilink")のトップリーグ制覇以来タイトルからは遠ざかっている。2007-08シーズンは最終順位を9位で終え、リーグ入れ替え戦へ。入れ替え戦では2部2位の[ACベッリンツォーナ](https://ja.wikipedia.org/wiki/ACベッリンツォーナ "wikilink")に2試合合計2-5で敗れ、2008-09シーズンの2部降格が決まった。
 
 2011-12シーズンは2部において優勝し1部への復帰を決める。翌2012-13シーズンは3位となり[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")プレーオフへの出場権を獲得した。
 
@@ -11,7 +11,7 @@
 
 ### 国内タイトル
 
-  - **[スイス・スーパーリーグ](https://ja.wikipedia.org/wiki/スーパーリーグ_\(スイス\) "wikilink"):2回**
+  - **[スイス・スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink"):2回**
       - 1903-04、1999-00
 
 <!-- end list -->
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - **[スイス・カップ](https://ja.wikipedia.org/wiki/スイス・カップ "wikilink"):1回**
+  - **[スイス・カップ](../Page/スイス・カップ.md "wikilink"):1回**
       - 1968-69
 
 <!-- end list -->
@@ -38,7 +38,7 @@
 | シーズン    | ディビジョン                                                                    |
 | ------- | ------------------------------------------------------------------------- |
 | リーグ     | 試                                                                         |
-| 2003-04 | [スイス・スーパーリーグ](https://ja.wikipedia.org/wiki/スーパーリーグ_\(スイス\) "wikilink")   |
+| 2003-04 | [スイス・スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink")                      |
 | 2004-05 | スイス・スーパーリーグ                                                               |
 | 2005-06 | スイス・スーパーリーグ                                                               |
 | 2006-07 | スイス・スーパーリーグ                                                               |
@@ -79,12 +79,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/BKフレム" title="wikilink">フレム</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–2</p></td>
-<td><p>'''2–2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2–2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''0–4</p></td>
@@ -116,7 +116,7 @@
 <td><p>1998</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1998" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィリャンディJKトゥレヴィク" title="wikilink">ヴィリャンディ・トゥレヴィク</a></p></td>
+<td><p><a href="../Page/ヴィリャンディJKトゥレヴィク.md" title="wikilink">ヴィリャンディ・トゥレヴィク</a></p></td>
 <td><p>3–2</p></td>
 <td><p>6–1</p></td>
 <td><p>'''9–3</p></td>
@@ -124,7 +124,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドブル・ザルツブルク" title="wikilink">レッドブル・ザルツブルク</a></p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">レッドブル・ザルツブルク</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2–3</p></td>
@@ -154,7 +154,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–3</p></td>
@@ -174,7 +174,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3–2</p></td>
@@ -184,7 +184,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SCフライブルク" title="wikilink">フライブルク</a></p></td>
+<td><p><a href="../Page/SCフライブルク.md" title="wikilink">フライブルク</a></p></td>
 <td><p>1–4</p></td>
 <td><p>1–0</p></td>
 <td><p>'''2–4</p></td>
@@ -204,7 +204,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィレムII" title="wikilink">ヴィレムII</a></p></td>
+<td><p><a href="../Page/ヴィレムII.md" title="wikilink">ヴィレムII</a></p></td>
 <td><p>1–1<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
 <td><p>0–1</p></td>
@@ -229,7 +229,7 @@
 <td><p>2013-14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ" title="wikilink">スパルタク・モスクワ</a></p></td>
+<td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>4–2</p></td>
 <td><p>'''5–3</p></td>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>2–3</p></td>
 <td><p>1–5</p></td>
 <td><p>'''4位</p></td>
@@ -246,7 +246,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/スウォンジー・シティAFC" title="wikilink">スウォンジー・シティ</a></p></td>
+<td><p><a href="../Page/スウォンジー・シティAFC.md" title="wikilink">スウォンジー・シティ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -256,7 +256,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCクバン・クラスノダール" title="wikilink">クバン・クラスノダール</a></p></td>
+<td><p><a href="../Page/FCクバン・クラスノダール.md" title="wikilink">クバン・クラスノダール</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–4</p></td>
 <td></td>
@@ -294,7 +294,7 @@
 
 ## 歴代監督
 
-  - [クルト・ヤーラ](https://ja.wikipedia.org/wiki/クルト・ヤーラ "wikilink") 1988-1991
+  - [クルト・ヤーラ](../Page/クルト・ヤーラ.md "wikilink") 1988-1991
 
   - [クラシミール・バラコフ](../Page/クラシミール・バラコフ.md "wikilink") 2007-2008
 
@@ -310,31 +310,31 @@
 
   - [フランキー・ヘイダック](https://ja.wikipedia.org/wiki/フランキー・ヘイダック "wikilink") 2002-2003
 
-  - [カリム・ハグイ](https://ja.wikipedia.org/wiki/カリム・ハグイ "wikilink") 2016-
+  - [カリム・ハグイ](../Page/カリム・ハグイ.md "wikilink") 2016-
 
 ### MF
 
   - [アルミン・フェー](https://ja.wikipedia.org/wiki/アルミン・フェー "wikilink") 1983-1984
 
-  - [マルコ・タルデッリ](https://ja.wikipedia.org/wiki/マルコ・タルデッリ "wikilink") 1987-1988
+  - [マルコ・タルデッリ](../Page/マルコ・タルデッリ.md "wikilink") 1987-1988
 
-  - [ハカン・ヤキン](https://ja.wikipedia.org/wiki/ハカン・ヤキン "wikilink") 1998
+  - [ハカン・ヤキン](../Page/ハカン・ヤキン.md "wikilink") 1998
 
   - [ジャンルカ・ガウディーノ](https://ja.wikipedia.org/wiki/ジャンルカ・ガウディーノ "wikilink") 2016-
 
   - [セヤド・サリホヴィッチ](https://ja.wikipedia.org/wiki/セヤド・サリホヴィッチ "wikilink") 2017
 
-  - [トランクイロ・バルネッタ](https://ja.wikipedia.org/wiki/トランクイロ・バルネッタ "wikilink") 2017-
+  - [トランクイロ・バルネッタ](../Page/トランクイロ・バルネッタ.md "wikilink") 2017-
 
 ### FW
 
-  - [イバン・サモラーノ](https://ja.wikipedia.org/wiki/イバン・サモラーノ "wikilink") 1988-1990
+  - [イバン・サモラーノ](../Page/イバン・サモラーノ.md "wikilink") 1988-1990
 
   - [ホセ・カルドーソ](https://ja.wikipedia.org/wiki/ホセ・カルドーソ "wikilink") 1990-1992
 
   - [マリオ・フリック](https://ja.wikipedia.org/wiki/マリオ・フリック "wikilink") 1994-1996, 2009-2011
 
-  - [トランクイロ・バルネッタ](https://ja.wikipedia.org/wiki/トランクイロ・バルネッタ "wikilink") 2002-2004
+  - [トランクイロ・バルネッタ](../Page/トランクイロ・バルネッタ.md "wikilink") 2002-2004
 
   - [アレックス・テキエ＝メンサー](https://ja.wikipedia.org/wiki/アレックス・テキエ＝メンサー "wikilink") 2002-2009
 

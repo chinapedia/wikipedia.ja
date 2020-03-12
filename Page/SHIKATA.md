@@ -3,17 +3,17 @@
 
 **SHIKATA**（しかた、本名：**志方大輔**、[1981年](../Page/1981年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。2006年にアーティスト名を本名から改名した。
 
-2012年11月7日に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャー1stシングル「言葉だけじゃたりないけど」をリリース。また、シンガーとして活動する一方、[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")をはじめ、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")、[JYJ](https://ja.wikipedia.org/wiki/JYJ "wikilink")、[三代目J Soul Brothers](https://ja.wikipedia.org/wiki/三代目J_Soul_Brothers "wikilink")、[GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")、[Fairies](https://ja.wikipedia.org/wiki/フェアリーズ "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[SHINee](https://ja.wikipedia.org/wiki/SHINee "wikilink")、[JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")、[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") 等、様々なアーティストの作詞、作曲、プロデュースなどを手掛ける。2012年には日本レコード大賞にて、作曲を手掛けた[Fairiesの](https://ja.wikipedia.org/wiki/フェアリーズ "wikilink")「[White Angel](https://ja.wikipedia.org/wiki/White_Angel "wikilink")」にてレコード大賞「優秀作品賞」を受賞。
+2012年11月7日に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャー1stシングル「言葉だけじゃたりないけど」をリリース。また、シンガーとして活動する一方、[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")をはじめ、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")、[JYJ](https://ja.wikipedia.org/wiki/JYJ "wikilink")、[三代目J Soul Brothers](https://ja.wikipedia.org/wiki/三代目J_Soul_Brothers "wikilink")、[GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")、[Fairies](https://ja.wikipedia.org/wiki/フェアリーズ "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[SHINee](../Page/SHINee.md "wikilink")、[JAY'ED](../Page/JAY'ED.md "wikilink")、[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") 等、様々なアーティストの作詞、作曲、プロデュースなどを手掛ける。2012年には日本レコード大賞にて、作曲を手掛けた[Fairiesの](https://ja.wikipedia.org/wiki/フェアリーズ "wikilink")「[White Angel](https://ja.wikipedia.org/wiki/White_Angel "wikilink")」にてレコード大賞「優秀作品賞」を受賞。
 
 ## 略歴
 
   - 長崎で生まれ、横浜に移り住む。
   - [2002年](../Page/2002年.md "wikilink") 自ら歌詞・作曲を手掛け活動を開始。
   - [2003年](../Page/2003年.md "wikilink")には全国歌謡祭にて審査員特別賞を獲得。以降、クラブ・ライブハウスでレギュラーイベント、主催イベントを行う。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")/[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")/[KGと結成したユニット名](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")・[NATURAL8](https://ja.wikipedia.org/wiki/NATURAL8 "wikilink")でリーダーを務め「GOLDEN SHUFFLE」をリリース。
+  - [2007年](../Page/2007年.md "wikilink")に[MAY'S](../Page/MAY'S.md "wikilink")/[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")/[KGと結成したユニット名](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")・[NATURAL8](../Page/NATURAL8.md "wikilink")でリーダーを務め「GOLDEN SHUFFLE」をリリース。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")ではソロとして1stアルバム「SHIKATA」を日韓同時リリース。
   - MONKとSTEVEと共にプロデュース集団及び音楽ユニット「MASTERTEMPO」を結成。
-  - 2008年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には、[杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")のニューシングル「もう悲しくはない」（フジTV系「ハピフル」テーマソング）にフューチャー＆プロデュース参加。杏里ZEPPツアーにも客演参加を果たしている。
+  - 2008年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には、[杏里](../Page/杏里.md "wikilink")のニューシングル「もう悲しくはない」（フジTV系「ハピフル」テーマソング）にフューチャー＆プロデュース参加。杏里ZEPPツアーにも客演参加を果たしている。
   - [2009年](../Page/2009年.md "wikilink")1月21日 ミニアルバム「ANSWER」をリリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月配信シングル「U〜サクラの頃〜」をリリース。
   - 2010年5月配信シングル「FAVOR〜確かなこと〜」をリリース。
@@ -144,7 +144,7 @@
       - 「[Stranger](https://ja.wikipedia.org/wiki/_genic "wikilink")」 - 作詞・作曲（ともに共作）
   - [+α/あるふぁきゅん。](https://ja.wikipedia.org/wiki/+α/あるふぁきゅん。 "wikilink")
       - 「ハートブレイカー」 - 作詞・作曲
-  - [杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")
+  - [杏里](../Page/杏里.md "wikilink")
       - 「[Be with U duet with SHIKATA](https://ja.wikipedia.org/wiki/Smooth_&_Groove "wikilink")」 - 作詞・作曲
   - [INFINITE](https://ja.wikipedia.org/wiki/INFINITE "wikilink")
       - 「TOKI」- 作詞
@@ -156,7 +156,7 @@
       - 「[HIGHER GROUND feat. Dimitri Vegas & Like Mike](https://ja.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")」 - 作曲
   - [THE SECOND from EXILE](https://ja.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")
       - 「[Beginning Of The Second Age](https://ja.wikipedia.org/wiki/THE_II_AGE "wikilink")」 - 作曲
-  - [片桐舞子](https://ja.wikipedia.org/wiki/片桐舞子 "wikilink") ([MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink"))
+  - [片桐舞子](https://ja.wikipedia.org/wiki/片桐舞子 "wikilink") ([MAY'S](../Page/MAY'S.md "wikilink"))
       - 「Deeper and Deeper」 - 作曲
       - 「V.I.P」 - 作曲
       - 「Beautiful」 - 作曲
@@ -172,7 +172,7 @@
       - 「[パノラマ](https://ja.wikipedia.org/wiki/パノラマ_\(関ジャニ∞の曲\) "wikilink")」 - 作詞・作曲
       - 「[Steal your love](https://ja.wikipedia.org/wiki/パノラマ_\(関ジャニ∞の曲\) "wikilink")」 - 作詞・作曲
       - 「[Street Blues](https://ja.wikipedia.org/wiki/応答セヨ "wikilink")」 - 作詞・作曲
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
       - 「[ずっと〜You are my Everything〜](https://ja.wikipedia.org/wiki/光のシグナル "wikilink")」 - 作曲
       - 「[Halley](https://ja.wikipedia.org/wiki/KIS-MY-WORLD "wikilink")」 - 作詞・作曲
       - 「[70億分の2](https://ja.wikipedia.org/wiki/Sha_la_la☆Summer_Time "wikilink")」 - 作詞・作曲
@@ -204,7 +204,7 @@
   - [三代目J Soul Brothers](https://ja.wikipedia.org/wiki/三代目J_Soul_Brothers "wikilink")
       - 「[Powder Snow 〜永遠に終わらない冬〜](https://ja.wikipedia.org/wiki/Powder_Snow_〜永遠に終わらない冬〜 "wikilink")」 - 作曲
       - 「[STORM RIDERS feat.SLASH](https://ja.wikipedia.org/wiki/STORM_RIDERS_feat.SLASH "wikilink")」 - 作曲
-  - [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")
+  - [JAY'ED](../Page/JAY'ED.md "wikilink")
       - 「Shine」 - 作詞・作曲
   - [JYJ](https://ja.wikipedia.org/wiki/JYJ "wikilink")
       - 「いつだって君に」 - 作曲
@@ -227,7 +227,7 @@
   - [塩ノ谷早耶香](https://ja.wikipedia.org/wiki/塩ノ谷早耶香 "wikilink")
       - 「[True Love](https://ja.wikipedia.org/wiki/Luna_\(塩ノ谷早耶香のアルバム\) "wikilink")」 - 作曲
       - 「[be Me](https://ja.wikipedia.org/wiki/Luna_\(塩ノ谷早耶香のアルバム\) "wikilink")」 - 作曲
-  - [SHINee](https://ja.wikipedia.org/wiki/SHINee "wikilink")
+  - [SHINee](../Page/SHINee.md "wikilink")
       - 「[Keeping love again](https://ja.wikipedia.org/wiki/Sherlock_\(SHINeeの曲\) "wikilink")」 - 作曲
       - 「[Fire](https://ja.wikipedia.org/wiki/Fire_\(SHINeeの曲\) "wikilink")」 - 作曲
   - [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")
@@ -235,7 +235,7 @@
       - 「[Unlimited](https://ja.wikipedia.org/wiki/なうぇすと "wikilink")」 - 作詞・作曲
       - 「[You're My Treasure](https://ja.wikipedia.org/wiki/なうぇすと "wikilink")」 - 作曲
       - 「[Believer](https://ja.wikipedia.org/wiki/なうぇすと "wikilink")」 - 作曲
-  - JUON（[FUZZY CONTROL](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")）
+  - JUON（[FUZZY CONTROL](../Page/FUZZY_CONTROL.md "wikilink")）
       - 「CHANGE THE GAME」 - 作詞・作曲（YAYASHI名義）・プロデュース
       - 「READY TO GO」 - 作詞・作曲（YAYASHI名義）・プロデュース
       - 「COLORFUL EMOTIONS」 - 作詞・作曲（YAYASHI名義）・プロデュース
@@ -264,7 +264,7 @@
       - 「Promise You」 - 作曲
   - [Super Junior-KYUHYUN](https://ja.wikipedia.org/wiki/Super_Junior-K.R.Y. "wikilink")
       - 「[Celebration〜君に架ける橋〜](https://ja.wikipedia.org/wiki/Celebration〜君に架ける橋〜 "wikilink")」 - 作詞・作曲
-  - [SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")
+  - [SE7EN](../Page/SE7EN.md "wikilink")
       - 「Eternity love」 - 作曲
   - [全日本パリピ協會](https://ja.wikipedia.org/wiki/全日本パリピ協會 "wikilink")
       - 「Ready For The Party」 - 作詞・作曲
@@ -279,14 +279,14 @@
   - [刀剣男士](https://ja.wikipedia.org/wiki/刀剣乱舞 "wikilink")
       - 「Beautiful life\!\!」 - 作曲
       - 「僕がいる場所」 - 作曲
-  - [DOBERMAN INFINITY](https://ja.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")
+  - [DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink")
       - 「[Tomorrow never dies 〜やってこない明日はない〜](https://ja.wikipedia.org/wiki/THE_LINE "wikilink")」 - 作詞・作曲
       - 「[LOVE U DOWN](https://ja.wikipedia.org/wiki/THE_LINE "wikilink")」 - 作曲
   - [T2U（from:Block B）](https://ja.wikipedia.org/wiki/Block_B "wikilink")
       - 「Ocean」 - 作曲
   - [トラフィックライト。](https://ja.wikipedia.org/wiki/トラフィックライト。 "wikilink")
       - 「Traffic Jam」 - 作曲
-  - [Dream Ami](https://ja.wikipedia.org/wiki/Dream_Ami "wikilink")
+  - [Dream Ami](../Page/Dream_Ami.md "wikilink")
       - 「[Change my life](https://ja.wikipedia.org/wiki/Re:_Dream "wikilink")」 - 作曲
       - 「[Re: Dream](https://ja.wikipedia.org/wiki/Re:_Dream "wikilink")」 - 作曲
   - [ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")
@@ -301,7 +301,7 @@
       - 「[together](https://ja.wikipedia.org/wiki/together_\(ナオト・インティライミの曲\) "wikilink")」 - 作詞・アレンジ・プロデュース
   - [中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")
       - 「まだ、そばにいたい」 - 作詞・作曲・アレンジ・プロデュース
-  - [中山優馬](https://ja.wikipedia.org/wiki/中山優馬 "wikilink")
+  - [中山優馬](../Page/中山優馬.md "wikilink")
       - 「[Best Friend](https://ja.wikipedia.org/wiki/Get_Up! "wikilink")」 - 作曲
       - 「[交差点](https://ja.wikipedia.org/wiki/Chapter_1_\(アルバム\) "wikilink")」 - 作曲
       - 「[葉桜](https://ja.wikipedia.org/wiki/YOLO_moment "wikilink")」 - 作曲
@@ -397,9 +397,9 @@
       - 「Light up」 - 作詞
       - 「Take It Easy\!」 - 作詞
       - 「YOUR Life」 - 作曲
-  - [LUV](https://ja.wikipedia.org/wiki/LUVandSOUL "wikilink")
+  - [LUV](../Page/LUVandSOUL.md "wikilink")
       - 「いつか また…」 - 作詞・作曲
-  - [LUVandSOUL](https://ja.wikipedia.org/wiki/LUVandSOUL "wikilink")
+  - [LUVandSOUL](../Page/LUVandSOUL.md "wikilink")
       - 「Feelin'」 - 作詞・作曲・アレンジ
   - [ROWSHI](https://ja.wikipedia.org/wiki/ROWSHI "wikilink")
       - 「Cry Over feat. 軍鶏SHA・MO」 - 作曲
@@ -408,7 +408,7 @@
 
 ## 関連項目
 
-  - [NATURAL8](https://ja.wikipedia.org/wiki/NATURAL8 "wikilink")
+  - [NATURAL8](../Page/NATURAL8.md "wikilink")
 
 ## 外部リンク
 

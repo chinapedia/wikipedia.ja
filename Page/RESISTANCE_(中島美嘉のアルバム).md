@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - 1枚目のフルアルバム『[TRUE](https://ja.wikipedia.org/wiki/TRUE_\(中島美嘉のアルバム\) "wikilink")』からわずか3ヶ月後に発売された。
-  - 新曲が3曲と少ないことや、表題曲「RESISTANCE」のインストゥルメンタルが収録されていることなど、内容的には[マキシシングルに近い](../Page/シングル.md "wikilink")。これらの新曲3曲は全て2枚目のフルアルバム『[LØVE](https://ja.wikipedia.org/wiki/LOVE_\(中島美嘉のアルバム\) "wikilink")』に収録された。
+  - 1枚目のフルアルバム『[TRUE](../Page/TRUE_\(中島美嘉のアルバム\).md "wikilink")』からわずか3ヶ月後に発売された。
+  - 新曲が3曲と少ないことや、表題曲「RESISTANCE」のインストゥルメンタルが収録されていることなど、内容的には[マキシシングルに近い](../Page/シングル.md "wikilink")。これらの新曲3曲は全て2枚目のフルアルバム『[LØVE](../Page/LOVE_\(中島美嘉のアルバム\).md "wikilink")』に収録された。
   - 表題曲にある「白い天使の羽が…」というフレーズにちなんで、CDには白い羽が封入されていた。
-  - 「RESISTANCE」は2002年末の各[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")で歌うことが多かった。また[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BEST](https://ja.wikipedia.org/wiki/BEST_\(中島美嘉のアルバム\) "wikilink")』にも収録されている。
-  - 「RESISTANCE」は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[翼の折れた天使たち](https://ja.wikipedia.org/wiki/翼の折れた天使たち "wikilink")』の主題歌に起用され、[着うた](../Page/着うた.md "wikilink")チャートで上位に入るなどリバイバルヒットした。
-  - 「RESISTANSE」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")には本人と、モデルの[ジュニアが出演している](https://ja.wikipedia.org/wiki/ジュニア_\(ファッションモデル\) "wikilink")。
+  - 「RESISTANCE」は2002年末の各[音楽番組](../Page/音楽番組.md "wikilink")で歌うことが多かった。また[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST](../Page/BEST_\(中島美嘉のアルバム\).md "wikilink")』にも収録されている。
+  - 「RESISTANCE」は[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")に[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[翼の折れた天使たち](../Page/翼の折れた天使たち.md "wikilink")』の主題歌に起用され、[着うた](../Page/着うた.md "wikilink")チャートで上位に入るなどリバイバルヒットした。
+  - 「RESISTANSE」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には本人と、モデルの[ジュニアが出演している](https://ja.wikipedia.org/wiki/ジュニア_\(ファッションモデル\) "wikilink")。
   - 「LAST WALTZ」はアルバム『LØVE』や全国ツアー「MIKA NAKASHIMA concert tour 2004 "LØVE"」で最後を飾っている。
 
 ## 収録曲
@@ -24,7 +24,7 @@
 3.  **aroma**
     :\*作詞：中島美嘉／作曲：五島良子／編曲：渡辺貴浩
 4.  **LAST WALTZ**
-    :\*作詞：中島美嘉／作曲：岡野泰也／編曲：[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+    :\*作詞：中島美嘉／作曲：岡野泰也／編曲：[清水信之](../Page/清水信之.md "wikilink")
 5.  **STARS (Live Unplugged)**
     :\*2002年3月10日 SHIBUYA-AX ライブ
 6.  **RESISTANCE (Instrumental)**

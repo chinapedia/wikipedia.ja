@@ -3,7 +3,7 @@
 
 [SWOT_en.svg](https://ja.wikipedia.org/wiki/File:SWOT_en.svg "fig:SWOT_en.svg")
 
-**SWOT分析**（-ぶんせき、SWOT analysis）とは、目標を達成するために意思決定を必要としている組織や個人の[プロジェクト](../Page/プロジェクト.md "wikilink")や[ベンチャービジネス](https://ja.wikipedia.org/wiki/ベンチャービジネス "wikilink")などにおいて、外部環境や内部環境を強み (**S**trengths)、弱み (**W**eaknesses)、機会 (**O**pportunities)、脅威 (**T**hreats) の4つのカテゴリーで要因分析し、事業環境変化に対応した経営資源の最適活用を図る[経営戦略](https://ja.wikipedia.org/wiki/経営戦略 "wikilink")策定方法の一つである\[1\]。組織や個人の内外の市場環境を監視、分析している。 [フォーチュン500](https://ja.wikipedia.org/wiki/フォーチュン500 "wikilink")のデータを用いて1960年代から70年代に[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で研究プロジェクトを導いた、により構築された。
+**SWOT分析**（-ぶんせき、SWOT analysis）とは、目標を達成するために意思決定を必要としている組織や個人の[プロジェクト](../Page/プロジェクト.md "wikilink")や[ベンチャービジネス](https://ja.wikipedia.org/wiki/ベンチャービジネス "wikilink")などにおいて、外部環境や内部環境を強み (**S**trengths)、弱み (**W**eaknesses)、機会 (**O**pportunities)、脅威 (**T**hreats) の4つのカテゴリーで要因分析し、事業環境変化に対応した経営資源の最適活用を図る[経営戦略](../Page/経営戦略.md "wikilink")策定方法の一つである\[1\]。組織や個人の内外の市場環境を監視、分析している。 [フォーチュン500](../Page/フォーチュン500.md "wikilink")のデータを用いて1960年代から70年代に[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で研究プロジェクトを導いた、により構築された。
 
 ## SWOT分析の戦略的・創造的使用方法
 

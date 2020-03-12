@@ -1,11 +1,11 @@
 > この記事は[TCF](https://ja.wikipedia.org/wiki/TCF)から翻訳されています。
 
 
-**ノリタケTCF株式会社**は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](https://ja.wikipedia.org/wiki/刈谷市 "wikilink")に本社を置く工業炉メーカー。
+**ノリタケTCF株式会社**は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")に本社を置く工業炉メーカー。
 
 ## 概要
 
-[ノリタケカンパニーリミテド](https://ja.wikipedia.org/wiki/ノリタケカンパニーリミテド "wikilink")の子会社。かつては[コバレントマテリアル](https://ja.wikipedia.org/wiki/コバレントマテリアル "wikilink")（旧・東芝セラミックス）も出資していたが[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にノリタケカンパニーリミテドの100%出資となった。
+[ノリタケカンパニーリミテド](../Page/ノリタケカンパニーリミテド.md "wikilink")の子会社。かつては[コバレントマテリアル](https://ja.wikipedia.org/wiki/コバレントマテリアル "wikilink")（旧・東芝セラミックス）も出資していたが[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にノリタケカンパニーリミテドの100%出資となった。
 
 ノリタケカンパニーリミテドは[2001年](../Page/2001年.md "wikilink")（平成13年）[9月](../Page/9月.md "wikilink")に東芝セラミックスから[半導体](../Page/半導体.md "wikilink")製造時の廃液処理に用いる「[液体](../Page/液体.md "wikilink")[濾過](https://ja.wikipedia.org/wiki/濾過 "wikilink")用[セラミックス](../Page/セラミックス.md "wikilink")[フィルター](../Page/フィルター.md "wikilink")」の事業を買収し、これを機に[焼成](https://ja.wikipedia.org/wiki/焼成 "wikilink")炉の分野でも提携を進めた。その結果、[2002年](../Page/2002年.md "wikilink")（平成14年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には東芝セラミックスの子会社である**東芝セラミックスファーネス株式会社（TCF）**および**東セラエンジニアリング株式会社**をノリタケカンパニーリミテドの焼成炉部門と統合することで合意した。
 
@@ -14,9 +14,9 @@
 ## 事業所
 
   - 本社（愛知県刈谷市）
-  - 東金事業所（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[東金市](https://ja.wikipedia.org/wiki/東金市 "wikilink")）
-  - 九州営業所（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）
-  - 明智工場 （[岐阜県](../Page/岐阜県.md "wikilink")[恵那市](https://ja.wikipedia.org/wiki/恵那市 "wikilink")）
+  - 東金事業所（[千葉県](../Page/千葉県.md "wikilink")[東金市](https://ja.wikipedia.org/wiki/東金市 "wikilink")）
+  - 九州営業所（[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）
+  - 明智工場 （[岐阜県](../Page/岐阜県.md "wikilink")[恵那市](../Page/恵那市.md "wikilink")）
 
 ## 脚注
 

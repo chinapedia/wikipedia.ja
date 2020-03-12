@@ -1,18 +1,18 @@
 > この記事は[Woming](https://ja.wikipedia.org/wiki/Woming)から翻訳されています。
 
 
-『**Woming**』（ウーミン）は、[1993年](../Page/1993年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")である。
+『**Woming**』（ウーミン）は、[1993年](../Page/1993年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")である。
 
 ## 概要
 
-土曜夕方の「定番」として長らく続いた前番組『[JanJanサタデー](https://ja.wikipedia.org/wiki/JanJanサタデー "wikilink")』の後を受け、想定視聴者層を中高生から変更し「静岡初、女性のための[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")」というふれこみでスタート。『Janサタ』初期のようにメインMCやゲストだけでなく、番組構成者や一部スタッフまでも東京から招き、かなり力を入れてスタートさせた意欲作であった。
+土曜夕方の「定番」として長らく続いた前番組『[JanJanサタデー](../Page/JanJanサタデー.md "wikilink")』の後を受け、想定視聴者層を中高生から変更し「静岡初、女性のための[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")」というふれこみでスタート。『Janサタ』初期のようにメインMCやゲストだけでなく、番組構成者や一部スタッフまでも東京から招き、かなり力を入れてスタートさせた意欲作であった。
 
-しかし、開始当初こそ事前の怒濤の番宣攻勢が奏功して高視聴率を獲得するも、その後は低空飛行が続き、結局は開始から1年の節目を区切りとして番組は終了。その翌週に『[Woming2・ケケッテバッタ大作戦](https://ja.wikipedia.org/wiki/Woming2・ケケッテバッタ大作戦 "wikilink")』へとリニューアルした。
+しかし、開始当初こそ事前の怒濤の番宣攻勢が奏功して高視聴率を獲得するも、その後は低空飛行が続き、結局は開始から1年の節目を区切りとして番組は終了。その翌週に『[Woming2・ケケッテバッタ大作戦](../Page/Woming2・ケケッテバッタ大作戦.md "wikilink")』へとリニューアルした。
 
 ## 出演者
 
-  - [デビット伊東](https://ja.wikipedia.org/wiki/デビット伊東 "wikilink")（[B21スペシャル](https://ja.wikipedia.org/wiki/B21スペシャル "wikilink")） - メインMC
-  - [加藤美樹](https://ja.wikipedia.org/wiki/加藤美樹_\(ディスクジョッキー\) "wikilink")（DJ） - メインMC
+  - [デビット伊東](../Page/デビット伊東.md "wikilink")（[B21スペシャル](../Page/B21スペシャル.md "wikilink")） - メインMC
+  - [加藤美樹](../Page/加藤美樹_\(ディスクジョッキー\).md "wikilink")（DJ） - メインMC
   - [滝本淳助](https://ja.wikipedia.org/wiki/滝本淳助 "wikilink")（カメラマン） - レギュラーコメンテーター
   - [麻生果菜](https://ja.wikipedia.org/wiki/麻生果菜 "wikilink")（タレント） - セミレギュラー
   - [栗原晨](https://ja.wikipedia.org/wiki/栗原晨 "wikilink")（当時静岡第一テレビアナウンサー） - 後期レギュラー

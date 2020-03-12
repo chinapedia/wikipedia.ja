@@ -1,7 +1,7 @@
 > この記事は[LOVE IN CITY](https://ja.wikipedia.org/wiki/LOVE_IN_CITY)から翻訳されています。
 
 
-『**LOVE IN CITY**』（ラブ・イン・シティ）は、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[愛奴](https://ja.wikipedia.org/wiki/愛奴 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。
+『**LOVE IN CITY**』（ラブ・イン・シティ）は、[1976年](../Page/1976年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[愛奴](../Page/愛奴.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -29,7 +29,7 @@
 2.  **LOVE TIME**
 3.  **約束**
       -
-        作詞は[センチメンタル・シティ・ロマンス](../Page/センチメンタル・シティ・ロマンス.md "wikilink")の[中野督夫](https://ja.wikipedia.org/wiki/中野督夫 "wikilink")が手かげている。
+        作詞は[センチメンタル・シティ・ロマンス](../Page/センチメンタル・シティ・ロマンス.md "wikilink")の[中野督夫](../Page/中野督夫.md "wikilink")が手かげている。
 4.  **コバルト蜃気楼**
 5.  **一人都会で**
 6.  **人想い**

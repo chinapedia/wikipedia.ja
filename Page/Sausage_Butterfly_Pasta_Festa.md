@@ -3,13 +3,13 @@
 
 **Sausage Butterfly Pasta Festa**(そーせーじばたふらいぱすたふぇすた)は、吉本芸人を含む4人による青春[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンド。愛称は、「**SBPF**」。
 
-2007年、[2丁拳銃](https://ja.wikipedia.org/wiki/2丁拳銃 "wikilink")主催の音楽ライブ「[曲者(まがいもの)](https://ja.wikipedia.org/wiki/曲者\(まがいもの\) "wikilink")」で解散し、2010年3月活動再開した。
+2007年、[2丁拳銃](../Page/2丁拳銃.md "wikilink")主催の音楽ライブ「[曲者(まがいもの)](https://ja.wikipedia.org/wiki/曲者\(まがいもの\) "wikilink")」で解散し、2010年3月活動再開した。
 
 ## メンバー
 
-  - [大村朋宏](https://ja.wikipedia.org/wiki/大村朋宏 "wikilink")([トータルテンボス](https://ja.wikipedia.org/wiki/トータルテンボス "wikilink")) - [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")
-  - [樅野太紀](https://ja.wikipedia.org/wiki/樅野太紀 "wikilink")(元[チャイルドマシーン](https://ja.wikipedia.org/wiki/チャイルドマシーン "wikilink")) - [ギター](../Page/ギター.md "wikilink")
-  - [藤田憲右](https://ja.wikipedia.org/wiki/藤田憲右 "wikilink")(トータルテンボス) - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [大村朋宏](../Page/大村朋宏.md "wikilink")([トータルテンボス](../Page/トータルテンボス.md "wikilink")) - [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")
+  - [樅野太紀](../Page/樅野太紀.md "wikilink")(元[チャイルドマシーン](../Page/チャイルドマシーン.md "wikilink")) - [ギター](../Page/ギター.md "wikilink")
+  - [藤田憲右](../Page/藤田憲右.md "wikilink")(トータルテンボス) - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [宗田義久](https://ja.wikipedia.org/wiki/宗田義久 "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
 
 ## ディスコグラフィー
@@ -17,14 +17,14 @@
 **アルバム**
 
   - SBPF（[2003年](../Page/2003年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")発売）
-  - あすなろ（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売）
-  - 句読点（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")発売）
+  - あすなろ（[2004年](../Page/2004年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売）
+  - 句読点（[2005年](../Page/2005年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")発売）
 
 **シングル**
 
-  - 落書き（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")発売）
-  - 少年バタフライ（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")発売）
-  - とっかえっこ（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売）
+  - 落書き（[2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")発売）
+  - 少年バタフライ（[2005年](../Page/2005年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")発売）
+  - とっかえっこ（[2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売）
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
 > この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
 
 
-**W国立公園**（ドゥブルヴェこくりつこうえん / ダブリューこくりつこうえん）は、西アフリカにある[国立公園](../Page/国立公園.md "wikilink")。その名前は、公園内の[ニジェール川](../Page/ニジェール川.md "wikilink")の流れが"W"を描くように曲がりくねっていることに因む。国立公園自体は、[ニジェール](../Page/ニジェール.md "wikilink")、[ブルキナファソ](../Page/ブルキナファソ.md "wikilink")、[ベナン](https://ja.wikipedia.org/wiki/ベナン "wikilink")にまたがる10,000km<sup>2</sup>を範囲とするもので、これら3か国が[フランス領西アフリカ](https://ja.wikipedia.org/wiki/フランス領西アフリカ "wikilink")の一部だった1954年に成立したものである\[1\]。国立公園のうち、ニジェール国内の2,200 km<sup>2</sup>が[ユネスコの](../Page/国際連合教育科学文化機関.md "wikilink")[世界遺産](../Page/世界遺産.md "wikilink")に登録された\[2\]。世界遺産の範囲は2017年にベナンの[パンジャリ国立公園](https://ja.wikipedia.org/wiki/パンジャリ国立公園 "wikilink") 、ブルキナファソの[アルリ国立公園](https://ja.wikipedia.org/wiki/アルリ国立公園 "wikilink")などにも拡大された\[3\]（拡大された世界遺産の名称は「[W・アルリ・パンジャリ自然公園群](https://ja.wikipedia.org/wiki/W・アルリ・パンジャリ自然公園群 "wikilink")」で\[4\]、W国立公園はこの構成資産でもある\[5\]）。またW国立公園の内、ニジェール領内が1987年4月\[6\]、ブルキナファソ領内が1990年6月\[7\]、ベナン領内が2007年2月\[8\]、それぞれ[ラムサール条約](../Page/ラムサール条約.md "wikilink")登録地となった。
+**W国立公園**（ドゥブルヴェこくりつこうえん / ダブリューこくりつこうえん）は、西アフリカにある[国立公園](../Page/国立公園.md "wikilink")。その名前は、公園内の[ニジェール川](../Page/ニジェール川.md "wikilink")の流れが"W"を描くように曲がりくねっていることに因む。国立公園自体は、[ニジェール](../Page/ニジェール.md "wikilink")、[ブルキナファソ](../Page/ブルキナファソ.md "wikilink")、[ベナン](https://ja.wikipedia.org/wiki/ベナン "wikilink")にまたがる10,000km<sup>2</sup>を範囲とするもので、これら3か国が[フランス領西アフリカ](../Page/フランス領西アフリカ.md "wikilink")の一部だった1954年に成立したものである\[1\]。国立公園のうち、ニジェール国内の2,200 km<sup>2</sup>が[ユネスコの](../Page/国際連合教育科学文化機関.md "wikilink")[世界遺産](../Page/世界遺産.md "wikilink")に登録された\[2\]。世界遺産の範囲は2017年にベナンの[パンジャリ国立公園](https://ja.wikipedia.org/wiki/パンジャリ国立公園 "wikilink") 、ブルキナファソの[アルリ国立公園](https://ja.wikipedia.org/wiki/アルリ国立公園 "wikilink")などにも拡大された\[3\]（拡大された世界遺産の名称は「[W・アルリ・パンジャリ自然公園群](https://ja.wikipedia.org/wiki/W・アルリ・パンジャリ自然公園群 "wikilink")」で\[4\]、W国立公園はこの構成資産でもある\[5\]）。またW国立公園の内、ニジェール領内が1987年4月\[6\]、ブルキナファソ領内が1990年6月\[7\]、ベナン領内が2007年2月\[8\]、それぞれ[ラムサール条約](../Page/ラムサール条約.md "wikilink")登録地となった。
 
-2200平方キロメートルの面積を持つ公園では、450種類以上の植物、70種類以上のほ乳類、350種類以上の鳥類が生息し、[ツチブタ](../Page/ツチブタ.md "wikilink")、[ヒヒ](https://ja.wikipedia.org/wiki/ヒヒ "wikilink")、[カラカル](https://ja.wikipedia.org/wiki/カラカル "wikilink")、[チーター](../Page/チーター.md "wikilink")、[ゾウ](../Page/ゾウ.md "wikilink")、[カバ](../Page/カバ.md "wikilink")、[ライオン](../Page/ライオン.md "wikilink")、[サーバル](https://ja.wikipedia.org/wiki/サーバル "wikilink")、[イボイノシシ](../Page/イボイノシシ.md "wikilink")などの大型[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")が多く生息することで知られている。また、2 - 5月には[渡り鳥](../Page/渡り鳥.md "wikilink")が飛来する。
+2200平方キロメートルの面積を持つ公園では、450種類以上の植物、70種類以上のほ乳類、350種類以上の鳥類が生息し、[ツチブタ](../Page/ツチブタ.md "wikilink")、[ヒヒ](../Page/ヒヒ.md "wikilink")、[カラカル](../Page/カラカル.md "wikilink")、[チーター](../Page/チーター.md "wikilink")、[ゾウ](../Page/ゾウ.md "wikilink")、[カバ](../Page/カバ.md "wikilink")、[ライオン](../Page/ライオン.md "wikilink")、[サーバル](../Page/サーバル.md "wikilink")、[イボイノシシ](../Page/イボイノシシ.md "wikilink")などの大型[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")が多く生息することで知られている。また、2 - 5月には[渡り鳥](../Page/渡り鳥.md "wikilink")が飛来する。
 
 ## 登録基準
 
 ## 治安
 
-[2019年](../Page/2019年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")、[フランス軍](https://ja.wikipedia.org/wiki/フランス軍 "wikilink")はブルキナファソ国内で、武装勢力に拉致されていたフランス人2名を救出する作戦を実施。救出過程で、ベナンのパンジャリ国立公園で行方不明になっていた韓国人女性の救出も行われている。人質救出作戦に投入されたフランスの最精鋭特殊部隊「ユベル」の隊員2人が作戦中に命を落とした\[9\]。
+[2019年](../Page/2019年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")、[フランス軍](../Page/フランス軍.md "wikilink")はブルキナファソ国内で、武装勢力に拉致されていたフランス人2名を救出する作戦を実施。救出過程で、ベナンのパンジャリ国立公園で行方不明になっていた韓国人女性の救出も行われている。人質救出作戦に投入されたフランスの最精鋭特殊部隊「ユベル」の隊員2人が作戦中に命を落とした\[9\]。
 
 ## 脚注
 

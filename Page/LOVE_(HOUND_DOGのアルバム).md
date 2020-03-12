@@ -13,14 +13,14 @@ LPとCDで、ジャケットの配色が違う(LPが青色でCDが緑色)。
 
 1.  **DIAMOND EYES**　(5:01)
       -
-        作詞：[松尾由紀夫](../Page/松尾由紀夫.md "wikilink")／作曲・編曲：[蓑輪単志](https://ja.wikipedia.org/wiki/蓑輪単志 "wikilink")
+        作詞：[松尾由紀夫](../Page/松尾由紀夫.md "wikilink")／作曲・編曲：[蓑輪単志](../Page/蓑輪単志.md "wikilink")
         [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に行われた、所謂「雨の[西武球場](https://ja.wikipedia.org/wiki/西武球場 "wikilink")」ライヴの事を歌った曲。
 2.  **OUTSIDER**　(3:43)
       -
-        作詞：[大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")／作曲・編曲：蓑輪単志
+        作詞：[大友康平](../Page/大友康平.md "wikilink")／作曲・編曲：蓑輪単志
 3.  **CHRISTY**　(4:49)
       -
-        作詞：大友康平／作曲：[八島順一](https://ja.wikipedia.org/wiki/八島順一 "wikilink")／編曲：蓑輪単志
+        作詞：大友康平／作曲：[八島順一](../Page/八島順一.md "wikilink")／編曲：蓑輪単志
         「DIAMOND EYES」のB面曲。
 4.  **MISS YOU**　(4:07)
       -

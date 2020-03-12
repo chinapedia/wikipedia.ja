@@ -1,17 +1,17 @@
 > この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
 
 
-**JALラビッツ**（ジャル・ラビッツ [アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記：JAL Rabbits）は、Wリーグ（[バスケットボール女子日本リーグ](https://ja.wikipedia.org/wiki/バスケットボール女子日本リーグ "wikilink")）に所属していた女子[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。現在、Wリーグに所属する[新潟アルビレックスBBラビッツ](https://ja.wikipedia.org/wiki/新潟アルビレックスBBラビッツ "wikilink")の前身となったチームである。
+**JALラビッツ**（ジャル・ラビッツ [アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記：JAL Rabbits）は、Wリーグ（[バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")）に所属していた女子[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。現在、Wリーグに所属する[新潟アルビレックスBBラビッツ](https://ja.wikipedia.org/wiki/新潟アルビレックスBBラビッツ "wikilink")の前身となったチームである。
 
 ## 概要
 
-チーム所在地は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")。母体企業は[日本航空](../Page/日本航空.md "wikilink")。[客室乗務員](../Page/客室乗務員.md "wikilink")などの同社社員が、選手及び[コーチ](../Page/コーチ.md "wikilink")として所属している。
+チーム所在地は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")。母体企業は[日本航空](../Page/日本航空.md "wikilink")。[客室乗務員](../Page/客室乗務員.md "wikilink")などの同社社員が、選手及び[コーチ](../Page/コーチ.md "wikilink")として所属している。
 
 日本航空の[会社更生法](../Page/会社更生法.md "wikilink")適用に伴い、バスケットボール部の今後についても注目されたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")、2010-2011年シーズンを以てチームを廃部することを発表した\[1\]。また、同年には羽田空港近隣の体育館も閉鎖され、ラストシーズンの練習拠点は成田第3ハンガー体育館に移転した。移転に伴い一部選手は練習拠点が近い[エバラヴィッキーズに移籍した](https://ja.wikipedia.org/wiki/羽田ヴィッキーズ "wikilink")。
 
 2011年2月20日対アイシン戦に100-69で勝利し44年の歴史に幕を閉じた。
 
-廃部発表後、日航及びWJBL関係者がチーム譲渡へ向け20社以上交渉し、10月1日に[新潟アルビレックスBB](https://ja.wikipedia.org/wiki/新潟アルビレックスBB "wikilink")（[bjリーグ](https://ja.wikipedia.org/wiki/bjリーグ "wikilink")所属）のスポンサーでもある[NSGグループ](../Page/NSGグループ.md "wikilink")がJALラビッツを譲り受けることで基本合意に達した\[2\]。なお、2011-12シーズンから新チームが引き継いでWリーグに参加する\[3\]。2011年4月1日に、NSGグループに譲渡される。[荒順一](https://ja.wikipedia.org/wiki/荒順一 "wikilink")ヘッドコーチと選手5名は新チームに移籍し\[4\]、残る選手7名とトレーナー・マネージャーは会社に残留するなどして引退となる\[5\]。
+廃部発表後、日航及びWJBL関係者がチーム譲渡へ向け20社以上交渉し、10月1日に[新潟アルビレックスBB](../Page/新潟アルビレックスBB.md "wikilink")（[bjリーグ](https://ja.wikipedia.org/wiki/bjリーグ "wikilink")所属）のスポンサーでもある[NSGグループ](../Page/NSGグループ.md "wikilink")がJALラビッツを譲り受けることで基本合意に達した\[2\]。なお、2011-12シーズンから新チームが引き継いでWリーグに参加する\[3\]。2011年4月1日に、NSGグループに譲渡される。[荒順一](https://ja.wikipedia.org/wiki/荒順一 "wikilink")ヘッドコーチと選手5名は新チームに移籍し\[4\]、残る選手7名とトレーナー・マネージャーは会社に残留するなどして引退となる\[5\]。
 
 2011年5月17日、新チーム名は「ラビッツ」を継承し、「**[新潟アルビレックスBBラビッツ](https://ja.wikipedia.org/wiki/新潟アルビレックスBBラビッツ "wikilink")**」とすることが発表される\[6\]。元日航の5人に加えて大卒新人3人が加わる。選手はNSGグループ職員として勤務に就く。
 
@@ -30,7 +30,7 @@
   - [2000年](../Page/2000年.md "wikilink") Wリーグ復帰
   - [2002年](../Page/2002年.md "wikilink")度 Wリーグ準優勝
   - [2004年](../Page/2004年.md "wikilink")度 [全日本総合バスケットボール選手権大会](https://ja.wikipedia.org/wiki/全日本総合バスケットボール選手権大会 "wikilink")初優勝・Wリーグ準優勝
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度 Wリーグ準優勝
+  - [2005年](../Page/2005年.md "wikilink")度 Wリーグ準優勝
   - [2011年](../Page/2011年.md "wikilink") NSGグループへ譲渡。チーム名を「**新潟アルビレックスBBラビッツ**」に改称。
 
 ## 監督陣と選手
@@ -48,15 +48,15 @@
 | --- | ------------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----- | --------------------------------------------------- | ----------------------------------------------------------------- |
 | 0   | [春日流い](https://ja.wikipedia.org/wiki/春日流い "wikilink")              | CF                                                           | 1985 | 175cm | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [拓殖大学](../Page/拓殖大学.md "wikilink")                                |
 | 1   | [高橋礼華](https://ja.wikipedia.org/wiki/高橋礼華_\(バスケットボール\) "wikilink") | GF                                                           | 1988 | 177cm | [福島県](../Page/福島県.md "wikilink")                    | [福島西高校](https://ja.wikipedia.org/wiki/福島県立福島西高等学校 "wikilink")     |
-| 3   | [君山舞夕奈](https://ja.wikipedia.org/wiki/君山舞夕奈 "wikilink")            | F                                                            | 1990 | 177cm | [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink") | [土浦日大高校](https://ja.wikipedia.org/wiki/土浦日本大学高等学校 "wikilink")     |
-| 5   | [山田未来](https://ja.wikipedia.org/wiki/山田未来 "wikilink")              | G                                                            | 1984 | 161cm | [静岡県](../Page/静岡県.md "wikilink")                    | [三菱電機コアラーズ](https://ja.wikipedia.org/wiki/三菱電機コアラーズ "wikilink")   |
-| 6   | [井上早希](https://ja.wikipedia.org/wiki/井上早希 "wikilink")              | G                                                            | 1985 | 168cm | [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | 拓殖大学                                                              |
+| 3   | [君山舞夕奈](https://ja.wikipedia.org/wiki/君山舞夕奈 "wikilink")            | F                                                            | 1990 | 177cm | [茨城県](../Page/茨城県.md "wikilink")                    | [土浦日大高校](../Page/土浦日本大学高等学校.md "wikilink")                        |
+| 5   | [山田未来](../Page/山田未来.md "wikilink")                                 | G                                                            | 1984 | 161cm | [静岡県](../Page/静岡県.md "wikilink")                    | [三菱電機コアラーズ](../Page/三菱電機コアラーズ.md "wikilink")                      |
+| 6   | [井上早希](https://ja.wikipedia.org/wiki/井上早希 "wikilink")              | G                                                            | 1985 | 168cm | [福岡県](../Page/福岡県.md "wikilink")                    | 拓殖大学                                                              |
 | 7   | [星希望](https://ja.wikipedia.org/wiki/星希望 "wikilink")                | G                                                            | 1987 | 164cm | 福島県                                                 | 拓殖大学                                                              |
 | 8   | [岩村裕美](../Page/岩村裕美.md "wikilink")                                 | SG                                                           | 1981 | 168cm | [大阪府](../Page/大阪府.md "wikilink")                    | [薫英女子短大](../Page/大阪薫英女子短期大学.md "wikilink")                        |
 | 9   | [大和谷智子](https://ja.wikipedia.org/wiki/大和谷智子 "wikilink")            | F                                                            | 1983 | 175cm | [秋田県](../Page/秋田県.md "wikilink")                    | [樟蔭東女短大](https://ja.wikipedia.org/wiki/樟蔭東女子短期大学 "wikilink")      |
-| 10  | [長南真由美](https://ja.wikipedia.org/wiki/長南真由美 "wikilink")            | C                                                            | 1983 | 175cm | [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink") | [JOMOサンフラワーズ](https://ja.wikipedia.org/wiki/JXサンフラワーズ "wikilink") |
+| 10  | [長南真由美](https://ja.wikipedia.org/wiki/長南真由美 "wikilink")            | C                                                            | 1983 | 175cm | [山形県](../Page/山形県.md "wikilink")                    | [JOMOサンフラワーズ](https://ja.wikipedia.org/wiki/JXサンフラワーズ "wikilink") |
 | 11  | [矢代直美](../Page/矢代直美.md "wikilink")                                 | C                                                            | 1977 | 182cm | 茨城県                                                 | [日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")         |
-| 13  | [玉井里英](https://ja.wikipedia.org/wiki/玉井里英 "wikilink")              | GF                                                           | 1987 | 168cm | 大阪府                                                 | [大阪人間科学大学](https://ja.wikipedia.org/wiki/大阪人間科学大学 "wikilink")     |
+| 13  | [玉井里英](https://ja.wikipedia.org/wiki/玉井里英 "wikilink")              | GF                                                           | 1987 | 168cm | 大阪府                                                 | [大阪人間科学大学](../Page/大阪人間科学大学.md "wikilink")                        |
 | 34  | [出岐奏](https://ja.wikipedia.org/wiki/出岐奏 "wikilink")                | GF                                                           | 1986 | 169cm | [長崎県](../Page/長崎県.md "wikilink")                    | 鹿屋体育大学                                                            |
 
 星、玉井は嘱託社員としてラビッツのカラーに惹かれラビッツ最後の新入部員として参加。
@@ -67,7 +67,7 @@
 
   - [二見由美子](https://ja.wikipedia.org/wiki/二見由美子 "wikilink")
   - [堀部涼子](../Page/堀部涼子.md "wikilink")
-  - [薮内夏美](https://ja.wikipedia.org/wiki/薮内夏美 "wikilink")
+  - [薮内夏美](../Page/薮内夏美.md "wikilink")
   - [薮内敏美](https://ja.wikipedia.org/wiki/薮内敏美 "wikilink")
   - [柳本聡子](https://ja.wikipedia.org/wiki/柳本聡子 "wikilink")
   - [伊佐樹里](https://ja.wikipedia.org/wiki/伊佐樹里 "wikilink")
@@ -100,7 +100,7 @@
 
 ## 関連項目
 
-  - [バスケットボール女子日本リーグ](https://ja.wikipedia.org/wiki/バスケットボール女子日本リーグ "wikilink")
+  - [バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")
   - [翔べ\!ラビッツ](https://ja.wikipedia.org/wiki/翔べ!ラビッツ "wikilink")
   - [フライング☆ラビッツ](../Page/フライング☆ラビッツ.md "wikilink")
   - [大和証券ホットブリザーズ](https://ja.wikipedia.org/wiki/大和証券ホットブリザーズ "wikilink")

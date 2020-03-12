@@ -7,13 +7,13 @@
 
 2011年に主催フェス「FOUR SEASONS FESTIVAL」を開催する。2013年以降は毎年開催している。
 
-2018年、結成20周年となるこの年、フルアルバムを[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")や[SABANNAMAN](https://ja.wikipedia.org/wiki/SABANNAMAN "wikilink")らが所属するレーベル・[IKKI NOT DEADからリリースすることを発表](https://ja.wikipedia.org/wiki/IKKI_NOT_DEAD "wikilink")。\[1\]
+2018年、結成20周年となるこの年、フルアルバムを[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")や[SABANNAMAN](https://ja.wikipedia.org/wiki/SABANNAMAN "wikilink")らが所属するレーベル・[IKKI NOT DEADからリリースすることを発表](https://ja.wikipedia.org/wiki/IKKI_NOT_DEAD "wikilink")。\[1\]
 
 2020年3月22日 Beyond the epilogue tour finalシリーズをもってTatsuyaが脱退
 
 ## メンバー
 
-  - **木下正行**（きのした まさゆき） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **木下正行**（きのした まさゆき） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **森勇介**（もり ゆうすけ） - [ギター](../Page/ギター.md "wikilink")・ボーカル　
   - **木野達也**（きの たつや） - [ドラム](../Page/ドラムセット.md "wikilink")・コーラス
 
@@ -27,7 +27,7 @@
 <th><p>枚数</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>レーベル</p></th>
 <th><p>順位</p></th>
 </tr>
@@ -169,7 +169,7 @@
 <th><p>枚数</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>レーベル</p></th>
 <th><p>順位</p></th>
 </tr>
@@ -251,7 +251,7 @@
 <th><p>枚数</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>レーベル</p></th>
 <th><p>順位</p></th>
 </tr>
@@ -484,7 +484,7 @@
 <th><p>枚数</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>レーベル</p></th>
 <th><p>順位</p></th>
 </tr>
@@ -660,7 +660,7 @@ XQEJ-1006（通常盤）</p></td>
 <ol>
 <li>Always / <a href="https://ja.wikipedia.org/wiki/Metallic_Brothers" title="wikilink">Metallic Brothers</a></li>
 <li>Never Ending Story / <a href="https://ja.wikipedia.org/wiki/REAL_REACH" title="wikilink">REAL REACH</a></li>
-<li>I say good-bye / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>I say good-bye / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 <li><strong>put feeling into the shadow / locofrank</strong></li>
 <li>CAKE / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
 <li>オレンジ / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
@@ -674,7 +674,7 @@ XQEJ-1006（通常盤）</p></td>
 <td><p>|SQUEEZE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>ROCK MOTOWN</strong></p></td>
 <td><p>AVCW-12422</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -691,7 +691,7 @@ XQEJ-1006（通常盤）</p></td>
 <li>DON'T YOU WORRY 'BOUT? A THING / <a href="https://ja.wikipedia.org/wiki/SUEMITSU_&amp;_THE_SUEMITH" title="wikilink">SUEMITSU &amp; THE SUEMITH</a></li>
 <li>IT'S A SHAME / <a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a> loves <a href="https://ja.wikipedia.org/wiki/the_guitar_plus_me" title="wikilink">the guitar plus me</a></li>
 <li>THIS OLD HEART OF MINE (IS WEAK FOR YOU) / <a href="https://ja.wikipedia.org/wiki/creamstock" title="wikilink">creamstock</a></li>
-<li>YOU CAN'T HURRY LOVE / <a href="https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD" title="wikilink">YOUR SONG IS GOOD</a></li>
+<li>YOU CAN'T HURRY LOVE / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
 <li>IT'S A SHAME / <a href="https://ja.wikipedia.org/wiki/Riddim_Saunter" title="wikilink">Riddim Saunter</a></li>
 <li>WHEN THE LOVELIGHT STARTS SHINING THROUGH HIS EYES / <a href="https://ja.wikipedia.org/wiki/House_Plan!" title="wikilink">House Plan!</a></li>
 <li>ONE LOVE IN MY LIFETIME / <a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE" title="wikilink">CUBISMO GRAFICO FIVE</a></li>
@@ -703,7 +703,7 @@ XQEJ-1006（通常盤）</p></td>
 オリコン初登場74位、登場回数4回</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
 <td><p><strong>STYLE OF Limited VITALIZE〜BEST SELLECTION〜</strong></p></td>
 <td><p>LTDC-088</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -722,13 +722,13 @@ XQEJ-1006（通常盤）</p></td>
 <li>Tequila / <a href="https://ja.wikipedia.org/wiki/コーガニズムオーケストラ" title="wikilink">コーガニズムオーケストラ</a></li>
 <li>クランチ / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
 <li>アオイソラ / <a href="https://ja.wikipedia.org/wiki/NAPSAX" title="wikilink">NAPSAX</a></li>
-<li>Kiss My Baby / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></li>
+<li>Kiss My Baby / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 </ol>
 <p># ユメノセカイ / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
 <td><p><strong>4WAY</strong></p></td>
 <td><p>YXCA-1002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -769,14 +769,14 @@ XQEJ-1006（通常盤）</p></td>
 <li>Another man / <a href="https://ja.wikipedia.org/wiki/雷矢" title="wikilink">雷矢</a></li>
 <li>CRAZY SUMMER / <a href="https://ja.wikipedia.org/wiki/KENZI_&amp;_THE_TRIPS" title="wikilink">KENZI &amp; THE TRIPS</a></li>
 <li>ノット・サティスファイド / <a href="https://ja.wikipedia.org/wiki/仲野茂" title="wikilink">仲野茂</a>(FROM <a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a>)</li>
-<li>JAIL BIRD / <a href="https://ja.wikipedia.org/wiki/Mic_Jack_Production" title="wikilink">Mic Jack Production</a></li>
+<li>JAIL BIRD / <a href="../Page/Mic_Jack_Production.md" title="wikilink">Mic Jack Production</a></li>
 <li>213 to tha 052 / <a href="https://ja.wikipedia.org/wiki/PHOBIA_OF_THUG" title="wikilink">PHOBIA OF THUG</a></li>
-<li>物憂げ世情 / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
+<li>物憂げ世情 / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
 <li>魂を売りとばせ! / <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
 <li>A Couple Days / <a href="../Page/NAHT.md" title="wikilink">NAHT</a></li>
 <li>オデッセイ2005 SEX / <a href="https://ja.wikipedia.org/wiki/M.J.Q" title="wikilink">M.J.Q</a></li>
 <li>JUST RYDE OUT / <a href="https://ja.wikipedia.org/wiki/THE_RYDERS" title="wikilink">THE RYDERS</a></li>
-<li>CIRCLE BACK / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>CIRCLE BACK / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>FUCKING THING / <a href="https://ja.wikipedia.org/wiki/UPPER" title="wikilink">UPPER</a></li>
 <li>C-3PO / <a href="https://ja.wikipedia.org/wiki/SUPERSNAZZ" title="wikilink">SUPERSNAZZ</a></li>
 <li>Sunlit Skinny / <a href="../Page/TROPICAL_GORILLA.md" title="wikilink">TROPICAL GORILLA</a></li>
@@ -829,7 +829,7 @@ XQEJ-1006（通常盤）</p></td>
 <li>THE LETTER TO THE PRESIDENT / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
 <li>ALL BEGAN TO HURRY / <a href="https://ja.wikipedia.org/wiki/GLEAM_GARDEN" title="wikilink">GLEAM GARDEN</a></li>
 <li>ARE YOU STRAIGHT EDGE? / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
-<li>Fire / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li>Fire / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li>remains / <a href="../Page/HOLSTEIN.md" title="wikilink">HOLSTEIN</a></li>
 <li>AREA47 / <a href="https://ja.wikipedia.org/wiki/IDOL_PUNCH" title="wikilink">IDOL PUNCH</a></li>
 <li>Situation / <a href="https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS" title="wikilink">ISCREAM 7 SHOWERS</a></li>
@@ -839,7 +839,7 @@ XQEJ-1006（通常盤）</p></td>
 <li>HORSE WITH A KAPPA FACE / <a href="https://ja.wikipedia.org/wiki/LIVE_CLEAN_STAY_YOUNG" title="wikilink">LIVE CLEAN STAY YOUNG</a></li>
 <li>あらしの夜に… / <a href="../Page/THE_LOCAL_ART.md" title="wikilink">THE LOCAL ART</a></li>
 <li><strong>cycled promises / locofrank</strong></li>
-<li>足跡 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>足跡 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>INSTANT FOOD CHAIN / <a href="https://ja.wikipedia.org/wiki/MEATBUNS" title="wikilink">MEATBUNS</a></li>
 <li>JUSTICE / <a href="https://ja.wikipedia.org/wiki/M.G.T" title="wikilink">M.G.T</a></li>
 <li>Here Comes May Again / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>
@@ -884,7 +884,7 @@ XQEJ-1006（通常盤）</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>I WANNA BE A DREAMMAKER / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>I WANNA BE A DREAMMAKER / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>TREKKIN' CREW / <a href="https://ja.wikipedia.org/wiki/SpecialThanks" title="wikilink">SpecialThanks</a></li>
 <li><strong>Get up / locofrank</strong></li>
 <li>MOKUKARA PARTY TONIGHT / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
@@ -935,7 +935,7 @@ XQEJ-1006（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a></p></td>
-<td><p><strong>locofrank/<a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a>/<a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a>『THE ANTHEMS』</strong></p></td>
+<td><p><strong>locofrank/<a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a>/<a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a>『THE ANTHEMS』</strong></p></td>
 <td><p>XQDB-1007</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -975,13 +975,13 @@ XQEJ-1006（通常盤）</p></td>
 <li><strong>YOU UP AROUND / locofrank</strong></li>
 <li>NEVER SEEM TO LAST / <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li>IN ORDER TO FIND THE NEW SENSE / <a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a></li>
-<li>BLACK SKY ABOVE / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>BLACK SKY ABOVE / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>TURN ON THE LIGHT / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01と</a><a href="../Page/會田茂一.md" title="wikilink">會田茂一</a></li>
-<li>FLIP OUT / <a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">FIRE BALL</a></li>
-<li>THAT'S THE WAY WE UNITE / <a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></li>
+<li>FLIP OUT / <a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">FIRE BALL</a></li>
+<li>THAT'S THE WAY WE UNITE / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li>MASTADABESTAH / <a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a></li>
 <li>REMIND ME / <a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
-<li>FLOW (IT’S LIKE THAT) / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a>
+<li>FLOW (IT’S LIKE THAT) / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a>
 </div>
 </div></li>
 </ol></td>
@@ -1024,13 +1024,13 @@ XQEJ-1006（通常盤）</p></td>
   - 2010年 - locofrank STANDARD TOUR 2010
   - 2012年 - locofrank TOUR 2012 "SINCE 1998"
       -
-        w/[LOW IQ & ANOTHER BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")/[SLANG](https://ja.wikipedia.org/wiki/SLANG "wikilink")/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")/[MONGOL800](../Page/MONGOL800.md "wikilink")
+        w/[LOW IQ & ANOTHER BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")/[SLANG](https://ja.wikipedia.org/wiki/SLANG "wikilink")/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")/[MONGOL800](../Page/MONGOL800.md "wikilink")
   - 2012年11月01日-2013年02月08日（30公演） - locofrank TOUR 2012-2013 "ONE"
       -
-        w/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[TFB](https://ja.wikipedia.org/wiki/TFB "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")/[NO HITTER](https://ja.wikipedia.org/wiki/NO_HITTER "wikilink")/[壬生狼](https://ja.wikipedia.org/wiki/壬生狼 "wikilink")/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+        w/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[TFB](https://ja.wikipedia.org/wiki/TFB "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")/[NO HITTER](https://ja.wikipedia.org/wiki/NO_HITTER "wikilink")/[壬生狼](https://ja.wikipedia.org/wiki/壬生狼 "wikilink")/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[サンボマスター](../Page/サンボマスター.md "wikilink")
   - 2013年10月11日-12月23日（22公演） - locofrank "Signs TOUR 2013"
       -
-        w/BUZZ THE BEARS/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[The FRIDAY](https://ja.wikipedia.org/wiki/The_FRIDAY "wikilink")/FOUR GET ME A NOTS/[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/HAWAIIAN6/ASPARAGUS/[彼女 in the display](https://ja.wikipedia.org/wiki/彼女_in_the_display "wikilink")/OVER ARM THROW/dustbox
+        w/BUZZ THE BEARS/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[The FRIDAY](https://ja.wikipedia.org/wiki/The_FRIDAY "wikilink")/FOUR GET ME A NOTS/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/HAWAIIAN6/ASPARAGUS/[彼女 in the display](https://ja.wikipedia.org/wiki/彼女_in_the_display "wikilink")/OVER ARM THROW/dustbox
   - 2014年01月12日-30日（3公演） - locofrank "Signs TOUR 2014 -FINAL SERIES-"
 
 ### 出演イベント
@@ -1062,7 +1062,7 @@ XQEJ-1006（通常盤）</p></td>
   - 2011年08月05日 - ROCK IN JAPAN FESTIVAL 2011
   - 2011年08月07日 - 八食サマーフリーライブ 2011
   - 2011年10月02日 - [MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink") 2011
-  - 2011年11月09日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 2011 TOUR「霹靂」
+  - 2011年11月09日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 2011 TOUR「霹靂」
   - 2012年02月26日 - DEVILOCK NIGHT THE FINAL
   - 2012年04月01日 - スペシャ列伝 × モンスターロック スペースシャワー列伝 〜第八十八巻 モンスターロックの宴スペシャル〜
   - 2012年04月05日 - 773Four RECORDS PRESENTS "FOUR SEASONS"
@@ -1089,7 +1089,7 @@ XQEJ-1006（通常盤）</p></td>
   - 2013年04月29日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")13
   - 2013年05月11日 - 風雲\!大阪城音泉
   - 2013年06月09日 - POWER STOCK 2013 in MIYAKO
-  - 2013年06月17日～07月04日（5公演） - locofrank [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") ZEPP TOUR 2013
+  - 2013年06月17日～07月04日（5公演） - locofrank [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") ZEPP TOUR 2013
   - 2013年07月13日 - SUMMER CAMP 2013
   - 2013年08月11日 - dustbox Care Package TOUR 2013
   - 2013年08月17日 - [RISING SUN ROCK FESTIVAL 2013 in EZO](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")

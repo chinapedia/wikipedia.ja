@@ -11,13 +11,13 @@
 
 手作業で版が作成されていた時代の浄書のルールを忠実に再現することによって質の高い楽譜を作ることが、LilyPondの目標のひとつである。近年の商用の楽譜作成ソフトウェアの品質の向上は著しいが、ときにLilyPondはそれらよりも質の高い楽譜を作ることができるといわれることもある。
 
-[ミュートピアプロジェクト](https://ja.wikipedia.org/wiki/ミュートピアプロジェクト "wikilink")では、フリーの楽譜を配布することを目的としており、そのためにLilyPondを使用している。これは、コラボレーションによる音楽百科事典「」も同様である。Wikiの記事上のLilyPondに関する記事を直接編集するには、[MediaWiki](https://ja.wikipedia.org/wiki/MediaWiki "wikilink")インタフェースのひとつであるを使うことができる。
+[ミュートピアプロジェクト](https://ja.wikipedia.org/wiki/ミュートピアプロジェクト "wikilink")では、フリーの楽譜を配布することを目的としており、そのためにLilyPondを使用している。これは、コラボレーションによる音楽百科事典「」も同様である。Wikiの記事上のLilyPondに関する記事を直接編集するには、[MediaWiki](../Page/MediaWiki.md "wikilink")インタフェースのひとつであるを使うことができる。
 
 ## LilyPond のソースファイルの例
 
 パーセント記号 (%) が書かれると、その行は以後コメントと見なされる。ここでは[可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")の向上のために `%%` と書かれている。
 
-LilyPondにおいては、[音名](https://ja.wikipedia.org/wiki/音名 "wikilink")、[オクターヴ](../Page/オクターヴ.md "wikilink")、[音価](https://ja.wikipedia.org/wiki/音価 "wikilink")の順に記述される。オクターブを指定するためには、[引用符](https://ja.wikipedia.org/wiki/引用符 "wikilink") (') と[コンマ](https://ja.wikipedia.org/wiki/コンマ "wikilink") (,) を使用し、それぞれが基準音から1オクターヴ上、1オクターヴ下を意味する。なお、デフォルトでは基準音は[中央ハ](https://ja.wikipedia.org/wiki/中央ハ "wikilink")の1オクターヴ下のハ音である。たとえば、 `a'4` と記述すればそれは440Hz付近のA音（イタリア音名：ラ）の四分音符を意味する。
+LilyPondにおいては、[音名](https://ja.wikipedia.org/wiki/音名 "wikilink")、[オクターヴ](../Page/オクターヴ.md "wikilink")、[音価](https://ja.wikipedia.org/wiki/音価 "wikilink")の順に記述される。オクターブを指定するためには、[引用符](../Page/引用符.md "wikilink") (') と[コンマ](../Page/コンマ.md "wikilink") (,) を使用し、それぞれが基準音から1オクターヴ上、1オクターヴ下を意味する。なお、デフォルトでは基準音は[中央ハ](https://ja.wikipedia.org/wiki/中央ハ "wikilink")の1オクターヴ下のハ音である。たとえば、 `a'4` と記述すればそれは440Hz付近のA音（イタリア音名：ラ）の四分音符を意味する。
 
 LilyPondの特殊な文法の一つとして、括弧類の扱いがある。直感的には、`[d8 c]`と記述したくなるような場合、`d8[ c]`と記述するのが正しい。すなわち、これらの命令は常に音の命令の後に指定し、それぞれの音の属性として処理される。なお、この括弧 `[, ]` は、八分音符を桁で繋げる命令である。
 
@@ -123,7 +123,7 @@ Accompaniment = {
 
   - \- [楽譜作成ソフトウェア](../Page/楽譜作成ソフトウェア.md "wikilink")
 
-  - [Muse](https://ja.wikipedia.org/wiki/Muse "wikilink") - MIDI の作成・再生フリーソフト
+  - [Muse](../Page/Muse.md "wikilink") - MIDI の作成・再生フリーソフト
 
 ## 外部リンク
 

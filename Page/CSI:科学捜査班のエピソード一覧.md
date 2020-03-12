@@ -1,7 +1,7 @@
 > この記事は[CSI:](https://ja.wikipedia.org/wiki/CSI:)から翻訳されています。
 
 
-**CSI:科学捜査班のエピソード一覧**は、[CBS](../Page/CBS.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である[CSI:科学捜査班](https://ja.wikipedia.org/wiki/CSI:科学捜査班 "wikilink")のエピソードを一覧にしたものである。
+**CSI:科学捜査班のエピソード一覧**は、[CBS](../Page/CBS.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である[CSI:科学捜査班](../Page/CSI:科学捜査班.md "wikilink")のエピソードを一覧にしたものである。
 
 ## シリーズ一覧
 

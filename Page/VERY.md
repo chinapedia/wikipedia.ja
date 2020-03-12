@@ -5,7 +5,7 @@
 
 ## 概要
 
-主要なターゲットは同社刊「[JJ](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")」、「[CLASSY.](https://ja.wikipedia.org/wiki/CLASSY. "wikilink")」に親しんだ30代後半～40歳前後の既婚女性。また、同社では姉妹誌として、同じ40歳前後の既婚女性を対象とする「[STORY](https://ja.wikipedia.org/wiki/STORY_\(雑誌\) "wikilink")」を発売しており、主に「STORY」が働く女性向け、「VERY」が主婦向けとされる。掲載コーディネートは、「VERY」の方が生活感を前面に押し出したカジュアルなスタイル中心で、授業参観スーツ、マタニティ服などの特集も定期的に組まれている。
+主要なターゲットは同社刊「[JJ](../Page/JJ_\(雑誌\).md "wikilink")」、「[CLASSY.](../Page/CLASSY..md "wikilink")」に親しんだ30代後半～40歳前後の既婚女性。また、同社では姉妹誌として、同じ40歳前後の既婚女性を対象とする「[STORY](https://ja.wikipedia.org/wiki/STORY_\(雑誌\) "wikilink")」を発売しており、主に「STORY」が働く女性向け、「VERY」が主婦向けとされる。掲載コーディネートは、「VERY」の方が生活感を前面に押し出したカジュアルなスタイル中心で、授業参観スーツ、マタニティ服などの特集も定期的に組まれている。
 
 記事の内容はコーディネート、メイク、レシピ、連載小説などが中心で、ファッション誌としては一般的であるが、子育てのトラブル、生活グッズ、家族旅行スポットなどに関する記事も多くみられる。
 
@@ -22,11 +22,11 @@
   - 表紙
       - [井川遥](https://ja.wikipedia.org/wiki/井川遥 "wikilink")
   - 連載など
-      - [田波涼子](https://ja.wikipedia.org/wiki/田波涼子 "wikilink")
+      - [田波涼子](../Page/田波涼子.md "wikilink")
       - [堂珍敦子](https://ja.wikipedia.org/wiki/堂珍敦子 "wikilink")
       - [畑野ひろ子](https://ja.wikipedia.org/wiki/畑野ひろ子 "wikilink")
       - [滝沢眞規子](https://ja.wikipedia.org/wiki/滝沢眞規子 "wikilink")
-      - [野沢和香](https://ja.wikipedia.org/wiki/野沢和香 "wikilink")
+      - [野沢和香](../Page/野沢和香.md "wikilink")
       - [原田夏希](../Page/原田夏希.md "wikilink")
       - [ビビアーニ大野](https://ja.wikipedia.org/wiki/ビビアーニ大野 "wikilink")
       - [佐藤弥生](../Page/佐藤弥生.md "wikilink")
@@ -38,15 +38,15 @@
       - [榊ゆりこ](https://ja.wikipedia.org/wiki/榊ゆりこ "wikilink")
       - [富岡佳子](https://ja.wikipedia.org/wiki/富岡佳子 "wikilink")
       - [仁香](../Page/仁香.md "wikilink")
-      - [黒田（樫本）知永子](https://ja.wikipedia.org/wiki/黒田知永子 "wikilink")
+      - [黒田（樫本）知永子](../Page/黒田知永子.md "wikilink")
       - [三浦りさ子](https://ja.wikipedia.org/wiki/三浦りさ子 "wikilink")
-      - [秋本祐希](https://ja.wikipedia.org/wiki/秋本祐希 "wikilink")
+      - [秋本祐希](../Page/秋本祐希.md "wikilink")
   - その他
-      - [板倉香](https://ja.wikipedia.org/wiki/板倉香 "wikilink")
+      - [板倉香](../Page/板倉香.md "wikilink")
       - [佐藤弥生](../Page/佐藤弥生.md "wikilink")
-      - [角田ともみ](https://ja.wikipedia.org/wiki/角田ともみ "wikilink")
+      - [角田ともみ](../Page/角田ともみ.md "wikilink")
       - [中林美和](https://ja.wikipedia.org/wiki/中林美和 "wikilink")
-      - [平子理沙](https://ja.wikipedia.org/wiki/平子理沙 "wikilink")
+      - [平子理沙](../Page/平子理沙.md "wikilink")
       - [真木明子](https://ja.wikipedia.org/wiki/真木明子 "wikilink")
       - [山本佳代子](https://ja.wikipedia.org/wiki/山本佳代子 "wikilink")
       - [宇都美慶子](../Page/宇都美慶子.md "wikilink")
@@ -62,8 +62,8 @@
 
 ## 姉妹誌
 
-  - [JJ](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")
-  - [CLASSY.](https://ja.wikipedia.org/wiki/CLASSY. "wikilink")
+  - [JJ](../Page/JJ_\(雑誌\).md "wikilink")
+  - [CLASSY.](../Page/CLASSY..md "wikilink")
   - [STORY](https://ja.wikipedia.org/wiki/STORY_\(雑誌\) "wikilink")
 
 ## 脚注

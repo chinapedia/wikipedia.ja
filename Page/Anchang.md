@@ -1,34 +1,34 @@
 > この記事は[Anchang](https://ja.wikipedia.org/wiki/Anchang)から翻訳されています。
 
 
-**ANCHANG**（あんちゃん、本名：**安藤 弘司** - あんどう こうじ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）は、[愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")は174cm（BIG BITES公式サイトより）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[第一工業大学](https://ja.wikipedia.org/wiki/第一工業大学 "wikilink")[工学部](../Page/工学部.md "wikilink")卒業。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、**[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")**のリーダー。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[ギターを担当し](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、ほとんどの[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")を手掛ける。
+**ANCHANG**（あんちゃん、本名：**安藤 弘司** - あんどう こうじ、[1970年](../Page/1970年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）は、[愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[身長](../Page/身長.md "wikilink")は174cm（BIG BITES公式サイトより）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[第一工業大学](../Page/第一工業大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")卒業。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、**[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")**のリーダー。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[ギターを担当し](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、ほとんどの[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を手掛ける。
 
 ## 人物
 
   - 非常にコミカルでユーモラスな[歌詞](../Page/歌詞.md "wikilink")を書くことで知られ、例えば故郷愛媛県の名産物、[みかんをテーマにした](https://ja.wikipedia.org/wiki/ミカン "wikilink")『[みかんのうた](https://ja.wikipedia.org/wiki/みかんのうた "wikilink")』などがある。ただし面白さを狙って作詞しているわけではなく、日常の中に転がってるものや自分が経験したものを題材に作っているという。\[1\]
   - 独特のユーモアセンスは楽曲面でも色濃く、様々なサブジャンルのメタルバンドの先逹へ向けたパロディでも知られる。
   - 愛用の[変形ギター](https://ja.wikipedia.org/wiki/変形ギター "wikilink")である「髑髏よしえ」はANCHANG自らのデザイン。[ESPの](../Page/イーエスピー.md "wikilink")「ランダムスター」をベースに、骸骨のオブジェで装飾された非常に個性的なギターで、元々は紙粘土を用いて作った自作品であった。他にも、ランダムスター形のシグネチュアモデル「ANCHANG STAR」や本人仕様の[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")を愛用している。
-  - ギターを始めるキッカケは[ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ボン・ジョヴィ "wikilink")の『[7800°ファーレンハイト](../Page/7800°ファーレンハイト.md "wikilink")』。その後、[ナイト・レンジャー](../Page/ナイト・レンジャー.md "wikilink")などにハマり、[ドッケン](../Page/ドッケン.md "wikilink")や[モトリー・クルー](https://ja.wikipedia.org/wiki/モトリー・クルー "wikilink")といったバンドをはじめとする[LAメタル](../Page/LAメタル.md "wikilink")をルーツに持つ。
-  - 最も影響を受けたギタリストに[ジョージ・リンチ](../Page/ジョージ・リンチ.md "wikilink")を挙げており、上記の「髑髏よしえ」のデザインやギターの[ピックアップ](https://ja.wikipedia.org/wiki/ピックアップ "wikilink")（ジョージと同じ、[セイモア・ダンカン](https://ja.wikipedia.org/wiki/セイモア・ダンカン "wikilink")社の「Screamin' Demon」をリアピックアップとして使用）などに彼からの影響がうかがえる。
+  - ギターを始めるキッカケは[ボン・ジョヴィ](../Page/ボン・ジョヴィ.md "wikilink")の『[7800°ファーレンハイト](../Page/7800°ファーレンハイト.md "wikilink")』。その後、[ナイト・レンジャー](../Page/ナイト・レンジャー.md "wikilink")などにハマり、[ドッケン](../Page/ドッケン.md "wikilink")や[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")といったバンドをはじめとする[LAメタル](../Page/LAメタル.md "wikilink")をルーツに持つ。
+  - 最も影響を受けたギタリストに[ジョージ・リンチ](../Page/ジョージ・リンチ.md "wikilink")を挙げており、上記の「髑髏よしえ」のデザインやギターの[ピックアップ](https://ja.wikipedia.org/wiki/ピックアップ "wikilink")（ジョージと同じ、[セイモア・ダンカン](../Page/セイモア・ダンカン.md "wikilink")社の「Screamin' Demon」をリアピックアップとして使用）などに彼からの影響がうかがえる。
   - 「1週間のメシが全部カレーでもいい」と言うほど、大の[カレー](../Page/カレー.md "wikilink")好き。逆に、[納豆](../Page/納豆.md "wikilink")は大の苦手。ちなみに「ONIGUNSOW」の歌詞に出てくるキュウリは特に嫌いではない。
-  - [釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")好きで、一時期は雑誌に釣りのコラムを連載していた時期もあったほど。ブログでも釣りに関する写真を数多く公開している。
+  - [釣り](../Page/釣り.md "wikilink")好きで、一時期は雑誌に釣りのコラムを連載していた時期もあったほど。ブログでも釣りに関する写真を数多く公開している。
   - 音楽に対しては「みんなで作る」を信念としている。SEX MACHINEGUNSの第5期以降はメンバー全員がアイデアを出し合って作った曲が多く、作詞作曲もSEX MACHINEGUNS名義となっている曲が多い。
   - [高見沢俊彦](../Page/高見沢俊彦.md "wikilink")の「王子連合」の一員で、レコーディングやソロツアーの一部にも帯同する。
-  - 大の[プロレス](../Page/プロレス.md "wikilink")ファンであることから、『[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）に度々出演したが、同番組には本名の安藤弘司名義で登場していた。他にも『世直しGOOD VIBRATION』では[MVに](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")[天山広吉](https://ja.wikipedia.org/wiki/天山広吉 "wikilink")（[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")）が出演し、『みかんのうた』は同郷の女子プロレスラー[藤田あかね](https://ja.wikipedia.org/wiki/藤田あかね "wikilink")（[アイスリボン](../Page/アイスリボン.md "wikilink")）が入場曲として採用している。
+  - 大の[プロレス](../Page/プロレス.md "wikilink")ファンであることから、『[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）に度々出演したが、同番組には本名の安藤弘司名義で登場していた。他にも『世直しGOOD VIBRATION』では[MVに](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")[天山広吉](../Page/天山広吉.md "wikilink")（[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")）が出演し、『みかんのうた』は同郷の女子プロレスラー[藤田あかね](https://ja.wikipedia.org/wiki/藤田あかね "wikilink")（[アイスリボン](../Page/アイスリボン.md "wikilink")）が入場曲として採用している。
   - 生演奏へのこだわりから、ライブでは同期を使用していない。\[2\]\[3\]
   - 「ザ☆メンテナンス」は元々は第3期SEX MACHINEGUNS解散後のソロプロジェクトの楽曲をライブ演奏するために結成された。レコードとライブは別物という考えからバンドとしてライブが行われたという。\[4\]
 
 ## 略歴
 
-  - [1989年](../Page/1989年.md "wikilink") [鹿児島県](../Page/鹿児島県.md "wikilink")の[第一工業大学](https://ja.wikipedia.org/wiki/第一工業大学 "wikilink")に在学中、SEX MACHINEGUNSの母体となる同名の学園祭バンドを結成。九州地方を中心に活動を続ける。
+  - [1989年](../Page/1989年.md "wikilink") [鹿児島県](../Page/鹿児島県.md "wikilink")の[第一工業大学](../Page/第一工業大学.md "wikilink")に在学中、SEX MACHINEGUNSの母体となる同名の学園祭バンドを結成。九州地方を中心に活動を続ける。
   - [1993年](../Page/1993年.md "wikilink") 就職のための上京を機にバンドを解散。サラリーマンになった後、すぐに同名のバンドを再結成する。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") SEX MACHINEGUNSがシングル「HANABI-la大回転」でメジャーデビュー。
   - [2003年](../Page/2003年.md "wikilink") 第3期SEX MACHINEGUNS解散。**SEX MACHINEGUN**名義でシングル「語れ\! 涙\!」をリリースし、ソロデビュー。
   - [2004年](../Page/2004年.md "wikilink") 第4期SEX MACHINEGUNS再結成。2006年6月まで活動。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") 第4期SEX MACHINEGUNS活動休止。[桜塚やっくん](https://ja.wikipedia.org/wiki/桜塚やっくん "wikilink")のデビューシングル「ゲキマジムカツク」のプロデュースを手掛ける。 同年9月に渡米し、[メンフィスでソロアルバムのレコーディングを行う](https://ja.wikipedia.org/wiki/メンフィス_\(テネシー州\) "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink") 第4期SEX MACHINEGUNS活動休止。[桜塚やっくん](../Page/桜塚やっくん.md "wikilink")のデビューシングル「ゲキマジムカツク」のプロデュースを手掛ける。 同年9月に渡米し、[メンフィスでソロアルバムのレコーディングを行う](../Page/メンフィス_\(テネシー州\).md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink") **ANCHANG**名義でシングル「コブラツイスト」をリリース。その後アルバム「Memphis」をリリース。
   - [2007年](../Page/2007年.md "wikilink") 第5期SEX MACHINEGUNS再結成。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") [ANNIE](../Page/菊地英二.md "wikilink")（ex.[THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")）、[NATCHIN](../Page/NATCHIN.md "wikilink")（ex.[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")）らと共にバンド「BIG BITES」を結成。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") [ANNIE](../Page/菊地英二.md "wikilink")（ex.[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）、[NATCHIN](../Page/NATCHIN.md "wikilink")（ex.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")）らと共にバンド「BIG BITES」を結成。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") 40歳の誕生日を迎え、同日に所属事務所（株）マーサからの独立と入籍を発表。バンド運営会社(有)SMGの社長を自ら務める。
   - [2012年](../Page/2012年.md "wikilink") 第5期SEX MACHINEGUNS活動休止。
   - [2012年](../Page/2012年.md "wikilink") 第3期解散後にソロ名義で活動していた「[ザ☆メンテナンス](https://ja.wikipedia.org/wiki/ザ☆メンテナンス "wikilink")」を[SHINGO☆](https://ja.wikipedia.org/wiki/SHINGO☆ "wikilink")他メンバーで活動再開。
@@ -90,7 +90,7 @@
   - [2003年](../Page/2003年.md "wikilink") [布袋寅泰](../Page/布袋寅泰.md "wikilink") 『[DOBERMAN](../Page/DOBERMAN_\(アルバム\).md "wikilink")』（[コーラス参加](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
   - [2003年](../Page/2003年.md "wikilink") [デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") 『WHEN THE FUTURE LOVES THE PAST 〜未来が過去を愛するとき〜』（歌詞提供）
   - [2004年](../Page/2004年.md "wikilink") [TOKIO](../Page/TOKIO.md "wikilink") 『[TOK10](../Page/TOK10.md "wikilink")』（ギター参加）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") [桜塚やっくん](https://ja.wikipedia.org/wiki/桜塚やっくん "wikilink") 『ゲキマジムカツク』（プロデュース他）
+  - [2006年](../Page/2006年.md "wikilink") [桜塚やっくん](../Page/桜塚やっくん.md "wikilink") 『ゲキマジムカツク』（プロデュース他）
   - [2007年](../Page/2007年.md "wikilink") [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") アルバム『Cartoon KAT-TUN II You』収録　[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")ソロ曲　『サムライ☆ラブ☆アタック』
   - [2007年](../Page/2007年.md "wikilink") [CANTA](../Page/CANTA.md "wikilink") 『流星と春の嵐』（ギター参加）
   - [2007年](../Page/2007年.md "wikilink") [高見沢俊彦](../Page/高見沢俊彦.md "wikilink") 『[Kaleidoscope](../Page/Kaleidoscope_\(高見沢俊彦のアルバム\).md "wikilink")』（ギター参加）

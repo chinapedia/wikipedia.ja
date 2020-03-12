@@ -1,7 +1,7 @@
 > この記事は[ \(ASIAN KUNG-FU GENERATION\)](https://ja.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION\))から翻訳されています。
 
 
-「**リライト**」は、[ASIAN KUNG-FU GENERATIONの楽曲](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")。同グループ5枚目の[シングル](../Page/シングル.md "wikilink")として[2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[Ki/oon Recordsから発売された](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**リライト**」は、[ASIAN KUNG-FU GENERATIONの楽曲](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")。同グループ5枚目の[シングル](../Page/シングル.md "wikilink")として[2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[Ki/oon Recordsから発売された](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -26,12 +26,12 @@
       - 後藤のコピーコントロールCDに対する皮肉が歌になった曲であり、本来後藤はこの曲をシングルにするつもりはなかったが、スタッフがアニメのタイアップの話を持ってきて、シングルリリースされることになった。アニメのOPとして起用されることに対しては、メンバー間でも意見が割れたが、山田の「絶対にこの話を受けるべきだ」という一言により、タイアップが決まった。結果としてバンド最大のヒット曲となったことから、山田はこの後「リライト職人」と呼ばれるようになる。またこのことから後藤は「俺には商才がない」と自虐するようになる。また2013年のヨーロッパツアーに際して、「俺たちを世界へ連れてってくれた曲」と述べている。
 2.  **夕暮れの紅**
       -
-        ある日突然[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")（山田・伊地知）が「[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")っぽい[ビートをやりたい](https://ja.wikipedia.org/wiki/ビート_\(音楽\) "wikilink")」と言ったことがきっかけで[アレンジが大幅に変わった楽曲である](../Page/編曲.md "wikilink")。
+        ある日突然[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")（山田・伊地知）が「[ファンク](../Page/ファンク.md "wikilink")っぽい[ビートをやりたい](../Page/ビート_\(音楽\).md "wikilink")」と言ったことがきっかけで[アレンジが大幅に変わった楽曲である](../Page/編曲.md "wikilink")。
 
 ## 収録アルバム
 
   - 『[ソルファ](../Page/ソルファ.md "wikilink")』（\#1）
-  - 『[フィードバックファイル](https://ja.wikipedia.org/wiki/フィードバックファイル "wikilink")』（\#2）
+  - 『[フィードバックファイル](../Page/フィードバックファイル.md "wikilink")』（\#2）
   - 『[BEST HIT AKG](https://ja.wikipedia.org/wiki/BEST_HIT_AKG "wikilink")』（\#1）
   - 『[鋼の錬金術師 COMPLETE BEST](https://ja.wikipedia.org/wiki/鋼の錬金術師_COMPLETE_BEST "wikilink")』（\#1）
   - 『鋼の錬金術師 THE BEST』（\#1）

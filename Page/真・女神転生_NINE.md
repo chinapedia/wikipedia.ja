@@ -7,7 +7,7 @@
 
 「NINE」とは9番目という意味ではなく、キャラクターの持つ「LAW（秩序）- NEUTRAL（中庸）- CHAOS（混沌）」と「LIGHT（開放的・公正）- NEUTRAL - DARK（破壊的・邪悪）」という二種類の属性によって表現される3×3のマトリックス（[行列](https://ja.wikipedia.org/wiki/行列 "wikilink")）の数を表している。
 
-『[真・女神転生シリーズ](../Page/女神転生.md "wikilink")』の外伝的な位置付けであるが、時系列は『[真・女神転生](https://ja.wikipedia.org/wiki/真・女神転生 "wikilink")』と『[真・女神転生II](https://ja.wikipedia.org/wiki/真・女神転生II "wikilink")』の間となっている。なお、操作画面は今までの擬似3Dダンジョンからフル[ポリゴン](../Page/ポリゴン.md "wikilink")に変更されている。
+『[真・女神転生シリーズ](../Page/女神転生.md "wikilink")』の外伝的な位置付けであるが、時系列は『[真・女神転生](../Page/真・女神転生.md "wikilink")』と『[真・女神転生II](../Page/真・女神転生II.md "wikilink")』の間となっている。なお、操作画面は今までの擬似3Dダンジョンからフル[ポリゴン](../Page/ポリゴン.md "wikilink")に変更されている。
 
 [2003年](../Page/2003年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")にはプラチナコレクションとして発売された。
 
@@ -38,11 +38,11 @@
 
 ## 真・女神転生 NINE オンライン対応版
 
-当初はネットワーク対応と発表されていたが、2002年7月の発表で[スタンドアローン](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink")版と[オンライン](../Page/オンライン.md "wikilink")対応版の2種類を発売する計画に改められた。
+当初はネットワーク対応と発表されていたが、2002年7月の発表で[スタンドアローン](../Page/スタンドアローン.md "wikilink")版と[オンライン](../Page/オンライン.md "wikilink")対応版の2種類を発売する計画に改められた。
 
 そして、2002年12月にスタンドアローン版が販売されたものの、2003年8月にXboxからのオンライン対応版の発売を中止になり、今後はPCでの展開が正式に発表された。
 
-なお、オンライン対応版を引き継ぐ形で完全新作のオンラインゲーム『[真・女神転生IMAGINE](https://ja.wikipedia.org/wiki/真・女神転生IMAGINE "wikilink")』が[Windows XP用の](../Page/Microsoft_Windows_XP.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")として開発された。
+なお、オンライン対応版を引き継ぐ形で完全新作のオンラインゲーム『[真・女神転生IMAGINE](../Page/真・女神転生IMAGINE.md "wikilink")』が[Windows XP用の](../Page/Microsoft_Windows_XP.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")として開発された。
 
 ## 登場人物
 
@@ -118,8 +118,8 @@
   - メインシナリオライター - 清水信宜
   - ライター - [小峰徳司](https://ja.wikipedia.org/wiki/小峰徳司 "wikilink")、石川雅之
   - デビルトークライター - くりはらゆみこ、外山豊
-  - キャラクターデザイン - [梅津泰臣](https://ja.wikipedia.org/wiki/梅津泰臣 "wikilink")
-  - デジタルデビルデザイン - [金子一馬](https://ja.wikipedia.org/wiki/金子一馬 "wikilink")
+  - キャラクターデザイン - [梅津泰臣](../Page/梅津泰臣.md "wikilink")
+  - デジタルデビルデザイン - [金子一馬](../Page/金子一馬.md "wikilink")
   - メインプランナー - ふなこしやすし
   - メインプログラマー - よしだあきひろ
   - アートディレクター - 伊藤芳樹

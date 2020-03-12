@@ -1,7 +1,7 @@
 > この記事は[Rainbow-Motion-Graphics](https://ja.wikipedia.org/wiki/Rainbow-Motion-Graphics)から翻訳されています。
 
 
-**Rainbow-Motion-Graphics**（レインボーモーショングラフィックス）は、主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")や[コンシューマー](https://ja.wikipedia.org/wiki/コンシューマー "wikilink")の[ムービー](https://ja.wikipedia.org/wiki/ムービー "wikilink")（オープニングやプロモーションなど）を作成している、[コンテンツイノベーション](https://ja.wikipedia.org/wiki/コンテンツイノベーション "wikilink")株式会社傘下のムービー制作ブランド。通称「RMG」。
+**Rainbow-Motion-Graphics**（レインボーモーショングラフィックス）は、主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")や[コンシューマー](https://ja.wikipedia.org/wiki/コンシューマー "wikilink")の[ムービー](../Page/ムービー.md "wikilink")（オープニングやプロモーションなど）を作成している、[コンテンツイノベーション](https://ja.wikipedia.org/wiki/コンテンツイノベーション "wikilink")株式会社傘下のムービー制作ブランド。通称「RMG」。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## TVCM作品一覧
 
-  - [芳文社](https://ja.wikipedia.org/wiki/芳文社 "wikilink") [まんがタイムきらら](https://ja.wikipedia.org/wiki/まんがタイムきらら "wikilink")「KRコミックスシリーズ」 TVCM
+  - [芳文社](../Page/芳文社.md "wikilink") [まんがタイムきらら](../Page/まんがタイムきらら.md "wikilink")「KRコミックスシリーズ」 TVCM
   - 芳文社 まんがタイムきららKRコミックス「[けいおん\!](https://ja.wikipedia.org/wiki/けいおん! "wikilink")」 TVCM
   - 芳文社 まんがタイムきららKRコミックス「[魔法少女かずみ☆マギカ](https://ja.wikipedia.org/wiki/魔法少女かずみ☆マギカ "wikilink")」 TVCM
   - 芳文社 まんがタイムきららKRコミックス「[夢喰いメリー](https://ja.wikipedia.org/wiki/夢喰いメリー "wikilink")」 TVCM
@@ -20,24 +20,24 @@
   - [プライベートナース-まりあ-](https://ja.wikipedia.org/wiki/プライベートナース-まりあ- "wikilink")
   - [風ノ唄](https://ja.wikipedia.org/wiki/風ノ唄 "wikilink")
   - [Lien 〜終わらない君の唄〜](https://ja.wikipedia.org/wiki/Lien_〜終わらない君の唄〜 "wikilink")
-  - [学園ヘヴン BOY'S LOVE SCRAMBLE\!](https://ja.wikipedia.org/wiki/学園ヘヴン_BOY'S_LOVE_SCRAMBLE! "wikilink")
+  - [学園ヘヴン BOY'S LOVE SCRAMBLE\!](../Page/学園ヘヴン_BOY'S_LOVE_SCRAMBLE!.md "wikilink")
   - 学園ヘヴン おかわりっ\! BOY'S LOVE ATTACK\!
   - [ダブルリアクション](https://ja.wikipedia.org/wiki/ダブルリアクション "wikilink")
   - [Douible Reaction\! PLUS](https://ja.wikipedia.org/wiki/Douible_Reaction!_PLUS "wikilink")
   - [Apocripha/0](https://ja.wikipedia.org/wiki/Apocripha/0 "wikilink")
-  - [帝国千戦記](https://ja.wikipedia.org/wiki/帝国千戦記 "wikilink")
+  - [帝国千戦記](../Page/帝国千戦記.md "wikilink")
   - [おジャ魔女あどべんちゃ〜ないしょのまほう](../Page/おジャ魔女あどべんちゃ〜ないしょのまほう.md "wikilink")
   - [バルドフォースエグゼ](https://ja.wikipedia.org/wiki/バルドフォースエグゼ "wikilink")
-  - [ブルーフロウ](https://ja.wikipedia.org/wiki/ブルーフロウ "wikilink")
-  - [蒼い空のネオスフィア](https://ja.wikipedia.org/wiki/蒼い空のネオスフィア "wikilink")
-  - [蒼い海のトリスティア](https://ja.wikipedia.org/wiki/蒼い海のトリスティア "wikilink")〜ナノカ・フランカ発明工房記〜
+  - [ブルーフロウ](../Page/ブルーフロウ.md "wikilink")
+  - [蒼い空のネオスフィア](../Page/蒼い空のネオスフィア.md "wikilink")
+  - [蒼い海のトリスティア](../Page/蒼い海のトリスティア.md "wikilink")〜ナノカ・フランカ発明工房記〜
   - [ショコラ 〜maid cafe "curio"〜](../Page/ショコラ_〜maid_cafe_"curio"〜.md "wikilink")
   - [デュエルセイヴァーディスティニー](https://ja.wikipedia.org/wiki/デュエルセイヴァーディスティニー "wikilink")
-  - [乙女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")
+  - [乙女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")
   - [エミル・クロニクル・オンライン](https://ja.wikipedia.org/wiki/エミル・クロニクル・オンライン "wikilink")（ECO）
   - [true tears](https://ja.wikipedia.org/wiki/true_tears "wikilink")
   - [ひぐらしのなく頃に祭](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に祭 "wikilink")
-  - [Memories Off \#5 encore](https://ja.wikipedia.org/wiki/Memories_Off_5_encore "wikilink")
+  - [Memories Off \#5 encore](../Page/Memories_Off_5_encore.md "wikilink")
 
 ## アダルトゲーム作品一覧
 
@@ -47,7 +47,7 @@
   - [BP5800シリーズ 黒百合の館](https://ja.wikipedia.org/wiki/BP5800シリーズ_黒百合の館 "wikilink")
   - [スク×スク](https://ja.wikipedia.org/wiki/スク×スク "wikilink")
   - [MISS EACH OTHER](https://ja.wikipedia.org/wiki/MISS_EACH_OTHER "wikilink")
-  - [帝国千戦記](https://ja.wikipedia.org/wiki/帝国千戦記 "wikilink")
+  - [帝国千戦記](../Page/帝国千戦記.md "wikilink")
   - [ダブルリアクション](https://ja.wikipedia.org/wiki/ダブルリアクション "wikilink")
   - [ナイトウイザード魔法大戦](https://ja.wikipedia.org/wiki/ナイトウイザード魔法大戦 "wikilink")
   - [もふ×もきゅ 〜ご主人様のお世話します〜](https://ja.wikipedia.org/wiki/もふ×もきゅ_〜ご主人様のお世話します〜 "wikilink")
@@ -74,7 +74,7 @@
   - [WAGA魔々 かぷりちお](https://ja.wikipedia.org/wiki/WAGA魔々_かぷりちお "wikilink")
   - [揺れるバスガイド](https://ja.wikipedia.org/wiki/揺れるバスガイド "wikilink")
   - [SEVEN-BRIDGE](https://ja.wikipedia.org/wiki/SEVEN-BRIDGE "wikilink")
-  - [ゆのはな](https://ja.wikipedia.org/wiki/ゆのはな "wikilink")
+  - [ゆのはな](../Page/ゆのはな.md "wikilink")
   - [魔王と踊れ\!](https://ja.wikipedia.org/wiki/魔王と踊れ! "wikilink")
   - [姦獄](https://ja.wikipedia.org/wiki/姦獄 "wikilink")
   - [ガジェット](https://ja.wikipedia.org/wiki/ガジェット "wikilink")
@@ -96,7 +96,7 @@
   - [Triptych](../Page/Triptych_\(ゲーム\).md "wikilink")
   - [きると](../Page/きると.md "wikilink")
   - [ボーイミーツガール](https://ja.wikipedia.org/wiki/ボーイミーツガール "wikilink")
-  - [Scarlett](https://ja.wikipedia.org/wiki/Scarlett_\(ゲーム\) "wikilink")
+  - [Scarlett](../Page/Scarlett_\(ゲーム\).md "wikilink")
   - [キミの声がきこえる](https://ja.wikipedia.org/wiki/キミの声がきこえる "wikilink")
   - [Hello,good-bye](https://ja.wikipedia.org/wiki/Hello,good-bye "wikilink")
   - [学☆王 -THE ROYAL SEVEN STARS-](https://ja.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS- "wikilink")

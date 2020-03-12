@@ -1,7 +1,7 @@
 > この記事は[B.O.D.Y.](https://ja.wikipedia.org/wiki/B.O.D.Y.)から翻訳されています。
 
 
-『**B.O.D.Y.**』（ボディ）は、[美森青](../Page/美森青.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本全15巻。また、[ドラマCDも発売されている](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")。
+『**B.O.D.Y.**』（ボディ）は、[美森青](../Page/美森青.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本全15巻。また、[ドラマCDも発売されている](../Page/ラジオドラマ.md "wikilink")。
 
 ## あらすじ
 
@@ -9,7 +9,7 @@
 
 ## 書誌情報
 
-  - [美森青](../Page/美森青.md "wikilink") 『B.O.D.Y.』 [集英社](../Page/集英社.md "wikilink") 〈[マーガレットコミックス](https://ja.wikipedia.org/wiki/マーガレットコミックス "wikilink")〉 全15巻
+  - [美森青](../Page/美森青.md "wikilink") 『B.O.D.Y.』 [集英社](../Page/集英社.md "wikilink") 〈[マーガレットコミックス](../Page/マーガレットコミックス.md "wikilink")〉 全15巻
     1.  2004年4月発行、ISBN 4-08-847736-7
     2.  2004年9月発行、ISBN 4-08-847783-9
           - さぁ今日も学校だ
@@ -29,7 +29,7 @@
 
 ## ドラマCD
 
-  - 2006年9月29日発売、原作:[美森青](../Page/美森青.md "wikilink")、出演:[川上とも子](../Page/川上とも子.md "wikilink")、[諏訪部順一](../Page/諏訪部順一.md "wikilink")、[保志総一朗](../Page/保志総一朗.md "wikilink")、[鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")、[高山みなみ](../Page/高山みなみ.md "wikilink")他、[集英社](../Page/集英社.md "wikilink") ISBN 4-08-901147-7
+  - 2006年9月29日発売、原作:[美森青](../Page/美森青.md "wikilink")、出演:[川上とも子](../Page/川上とも子.md "wikilink")、[諏訪部順一](../Page/諏訪部順一.md "wikilink")、[保志総一朗](../Page/保志総一朗.md "wikilink")、[鈴木達央](../Page/鈴木達央.md "wikilink")、[高山みなみ](../Page/高山みなみ.md "wikilink")他、[集英社](../Page/集英社.md "wikilink") ISBN 4-08-901147-7
 
 ### 登場人物
 

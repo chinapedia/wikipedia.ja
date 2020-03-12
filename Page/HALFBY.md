@@ -325,7 +325,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004年9月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>「<a href="https://ja.wikipedia.org/wiki/ASTROMANTIC_CHARM_SCHOOL" title="wikilink">ASTROMANTIC CHARM SCHOOL</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>「<a href="../Page/ASTROMANTIC_CHARM_SCHOOL.md" title="wikilink">ASTROMANTIC CHARM SCHOOL</a>」</p></td>
 <td><p>RZCD-45139</p></td>
 <td><p>18曲目「Cosmic Night Run -HALF &amp; HALFBY MIX-」</p></td>
 </tr>
@@ -346,7 +346,7 @@
 <td><p><a href="../Page/松原静香.md" title="wikilink">松原静香</a>「恋はアメリカン～邦題・恋はいつもアメリカン～」</p></td>
 <td><p>VICL-36408<br />
 VIZL-408</p></td>
-<td><p><a href="../Page/小宮山雄飛.md" title="wikilink">小宮山雄飛</a>（<a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a>）との共同プロデュース</p></td>
+<td><p><a href="../Page/小宮山雄飛.md" title="wikilink">小宮山雄飛</a>（<a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a>）との共同プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年12月15日</p></td>
@@ -368,7 +368,7 @@ VIZL-408</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年6月21日</p></td>
-<td><p>松原静香「<a href="https://ja.wikipedia.org/wiki/リンク_(松原静香の曲)" title="wikilink">リンク</a>」</p></td>
+<td><p>松原静香「<a href="../Page/リンク_(松原静香の曲).md" title="wikilink">リンク</a>」</p></td>
 <td><p>VICL-35978<br />
 VIZL-175</p></td>
 <td><p>2曲目「愛の…でもI don't know」(編曲)</p></td>
@@ -480,7 +480,7 @@ VIZL-175</p></td>
 
 ### テレビ
 
-  - MTV Apt.（[MTV](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")／2007年1月～）
+  - MTV Apt.（[MTV](../Page/MTVジャパン.md "wikilink")／2007年1月～）
 
 ## ミュージックビデオ
 
@@ -504,16 +504,16 @@ VIZL-175</p></td>
 <tbody>
 <tr class="odd">
 <td><p>SCREW THE PLAN</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">NHK-FM</a>「<a href="../Page/ミュージックスクエア_(NHK-FM).md" title="wikilink">ミュージック・スクエア</a>」6、7月度オープニングテーマ</p></td>
+<td><p><a href="../Page/NHK-FM放送.md" title="wikilink">NHK-FM</a>「<a href="../Page/ミュージックスクエア_(NHK-FM).md" title="wikilink">ミュージック・スクエア</a>」6、7月度オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>HALFBEAT</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>」10月度オープニングテーマ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>」10月度オープニングテーマ<br />
 <a href="../Page/エフエム長崎.md" title="wikilink">FM長崎</a>「Smileキャンペーン」タイアップソング（2006年12月4日～10日）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Slip ON</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHK教育テレビ</a>「<a href="../Page/新感覚☆わかる使える英文法.md" title="wikilink">新感覚☆わかる使える英文法</a>」テーマソング<br />
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK教育テレビ</a>「<a href="../Page/新感覚☆わかる使える英文法.md" title="wikilink">新感覚☆わかる使える英文法</a>」テーマソング<br />
 <a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">CX</a>・<a href="https://ja.wikipedia.org/wiki/HEYHEYHEY" title="wikilink">HEYHEYHEY</a>のラインアップソング(08.4～)</p></td>
 </tr>
 </tbody>

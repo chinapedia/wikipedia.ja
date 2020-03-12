@@ -1,23 +1,23 @@
 > この記事は[W32SA](https://ja.wikipedia.org/wiki/W32SA)から翻訳されています。
 
 
-**W32SA**（だぶりゅーさんにーえすえー）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、後の[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）によって開発された、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")（後のau 3G）の[携帯電話](../Page/携帯電話.md "wikilink")[端末](../Page/端末.md "wikilink")である。
+**W32SA**（だぶりゅーさんにーえすえー）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、後の[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）によって開発された、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")（後のau 3G）の[携帯電話](../Page/携帯電話.md "wikilink")[端末](../Page/端末.md "wikilink")である。
 
 ## 特徴
 
-[CDMA 1X WINの端末として](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")、初めて[アナログ](../Page/アナログ.md "wikilink")[地上波](../Page/地上波.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")機能を備え、携帯電話では初となる[FMトランスミッター](../Page/FMトランスミッター.md "wikilink")が採用された機種でもある。 前機種の[W31SA](https://ja.wikipedia.org/wiki/W31SA "wikilink")とは異なり、FMラジオ用アンテナはアナログテレビ用アンテナと兼用となり、内蔵アンテナから伸縮式に変更されている。
+[CDMA 1X WINの端末として](../Page/CDMA_1X_WIN.md "wikilink")、初めて[アナログ](../Page/アナログ.md "wikilink")[地上波](../Page/地上波.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")機能を備え、携帯電話では初となる[FMトランスミッター](../Page/FMトランスミッター.md "wikilink")が採用された機種でもある。 前機種の[W31SA](../Page/W31SA.md "wikilink")とは異なり、FMラジオ用アンテナはアナログテレビ用アンテナと兼用となり、内蔵アンテナから伸縮式に変更されている。
 
-また、テレビを視聴しながら番組情報や曲名検索などができる[EZテレビ](../Page/EZテレビ.md "wikilink")や、[W31T](https://ja.wikipedia.org/wiki/W31T "wikilink")とともに、初の[KCP](../Page/KCP.md "wikilink")[プラットフォームおよび](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")[BREW](https://ja.wikipedia.org/wiki/BREW "wikilink") 3.1を搭載し、ケータイアップデート（無線ネットワークよるソフトウェア更新機能）に対応した。
+また、テレビを視聴しながら番組情報や曲名検索などができる[EZテレビ](../Page/EZテレビ.md "wikilink")や、[W31T](../Page/W31T.md "wikilink")とともに、初の[KCP](../Page/KCP.md "wikilink")[プラットフォームおよび](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")[BREW](../Page/BREW.md "wikilink") 3.1を搭載し、ケータイアップデート（無線ネットワークよるソフトウェア更新機能）に対応した。
 
-image:Au WIN W32SA Dual Brown antenna.jpg|アナログテレビ兼FMラジオ用[アンテナ](../Page/アンテナ.md "wikilink")は、伸縮が可能。縮めたときは、本体から突出しないように収納が可能。 image:Au WIN W32SA Dual Brown sub display.jpg|[有機ELサブ](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")[ディスプレイは](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、鮮明で見やすい。[カメラ](../Page/カメラ.md "wikilink")は、1.3[メガ](../Page/メガ.md "wikilink")[ピクセル](../Page/ピクセル.md "wikilink")[CCDイメージセンサ](../Page/CCDイメージセンサ.md "wikilink")を採用。
+image:Au WIN W32SA Dual Brown antenna.jpg|アナログテレビ兼FMラジオ用[アンテナ](../Page/アンテナ.md "wikilink")は、伸縮が可能。縮めたときは、本体から突出しないように収納が可能。 image:Au WIN W32SA Dual Brown sub display.jpg|[有機ELサブ](../Page/有機エレクトロルミネッセンス.md "wikilink")[ディスプレイは](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、鮮明で見やすい。[カメラ](../Page/カメラ.md "wikilink")は、1.3[メガ](../Page/メガ.md "wikilink")[ピクセル](../Page/ピクセル.md "wikilink")[CCDイメージセンサ](../Page/CCDイメージセンサ.md "wikilink")を採用。
 
 ## 対応サービス
 
-  - EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」
+  - EZ「[着うたフル](../Page/着うたフル.md "wikilink")」
   - [EZ・FM](../Page/EZ・FM.md "wikilink")
   - [SD-Audio](../Page/SD-Audio.md "wikilink") ([AAC](../Page/AAC.md "wikilink"))
-  - [EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")
-  - [EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")
+  - [EZナビウォーク](../Page/EZナビウォーク.md "wikilink")
+  - [EZチャンネル](../Page/EZチャンネル.md "wikilink")
   - 安心ナビ
   - 赤外線通信
   - ミュージックプレーヤー
@@ -37,10 +37,10 @@ image:Au WIN W32SA Dual Brown antenna.jpg|アナログテレビ兼FMラジオ用
   - [au（携帯電話）](../Page/Au_\(携帯電話\).md "wikilink")
   - [三洋電機](../Page/三洋電機.md "wikilink")
   - [京セラ](../Page/京セラ.md "wikilink")
-  - [CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
-  - [W33SA II](https://ja.wikipedia.org/wiki/W33SA "wikilink")/SA
+  - [CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")
+  - [W33SA II](../Page/W33SA.md "wikilink")/SA
   - [A5511T](../Page/A5511T.md "wikilink")
-  - [W42K](https://ja.wikipedia.org/wiki/W42K "wikilink")
+  - [W42K](../Page/W42K.md "wikilink")
 
 ## 脚注
 

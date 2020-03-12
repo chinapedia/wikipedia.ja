@@ -11,11 +11,11 @@
 
   - **Gt.** [篠崎祐希](https://ja.wikipedia.org/wiki/篠崎祐希 "wikilink") (しのざき ゆうき) ([1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") B型)
 
-[高知県](../Page/高知県.md "wikilink")[四万十市](https://ja.wikipedia.org/wiki/四万十市 "wikilink")出身。
+[高知県](../Page/高知県.md "wikilink")[四万十市](../Page/四万十市.md "wikilink")出身。
 
   - **Ba.** [柿田正嗣](https://ja.wikipedia.org/wiki/柿田正嗣 "wikilink") (かきた まさつぐ) ([1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") A型)
 
-[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[美作市](https://ja.wikipedia.org/wiki/美作市 "wikilink")出身。[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")育ち。
+[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[美作市](../Page/美作市.md "wikilink")出身。[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")育ち。
 
   - **Dr.** [高田政良](https://ja.wikipedia.org/wiki/高田政良 "wikilink") (たかだ まさよし) ([1977年](../Page/1977年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") A型)
 
@@ -48,7 +48,7 @@
   - [2000年](../Page/2000年.md "wikilink") インディーズデビュー。
   - [2002年](../Page/2002年.md "wikilink") [エイベックス契約](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
   - [2003年](../Page/2003年.md "wikilink") メジャーデビュー。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") [12月25日](../Page/12月25日.md "wikilink")[Shibuya O-Crestにて解散](https://ja.wikipedia.org/wiki/Shibuya_O-Crest "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink") [12月25日](../Page/12月25日.md "wikilink")[Shibuya O-Crestにて解散](https://ja.wikipedia.org/wiki/Shibuya_O-Crest "wikilink")。
   - アルバムのジャケットや「優」のプロモーションビデオは[リリー・フランキー](../Page/リリー・フランキー.md "wikilink")が描いていた。
 
 ## ディスコグラフィ
@@ -118,10 +118,10 @@
   - Raod (TX系スポーツ情報番組「[ホームタウンの奇跡](https://ja.wikipedia.org/wiki/ホームタウンの奇跡 "wikilink")」エンディング･テーマ曲)
   - 桜 （NTV系「[ニュースプラス1](https://ja.wikipedia.org/wiki/ニュースプラス1 "wikilink")」のコーナー「スポーツプラス1」テーマ曲)
   - 風に吹かれて (ブルボン「[プチシリーズ](https://ja.wikipedia.org/wiki/プチシリーズ "wikilink")」CMソング)
-  - keep contact (TX系アニメ「[ふぉうちゅんドッグす](https://ja.wikipedia.org/wiki/ふぉうちゅんドッグす "wikilink")」エンディング･テーマ/クラレ「クラリーノ」CMソング)
-  - Good Bye\! High School Days (NTV系「『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』MUSIC BANK」テーマ･ソング)
+  - keep contact (TX系アニメ「[ふぉうちゅんドッグす](../Page/ふぉうちゅんドッグす.md "wikilink")」エンディング･テーマ/クラレ「クラリーノ」CMソング)
+  - Good Bye\! High School Days (NTV系「『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』MUSIC BANK」テーマ･ソング)
   - キミノアシタ (「[赤い羽根共同募金](https://ja.wikipedia.org/wiki/赤い羽根共同募金 "wikilink")」CMソング)
-  - さよなら (TX系アニメ「[高橋留美子劇場](https://ja.wikipedia.org/wiki/高橋留美子劇場 "wikilink")」エンディング･テーマ)
+  - さよなら (TX系アニメ「[高橋留美子劇場](../Page/高橋留美子劇場.md "wikilink")」エンディング･テーマ)
   - 真夏の夜 (TX系「ホームタウンの奇跡」テーマ･ソング)
   - Master Key (トヨタ自動車「[GAZOO.COM](https://ja.wikipedia.org/wiki/GAZOO.COM "wikilink")」CMソング(本人達も出演))
 
@@ -131,7 +131,7 @@
 
 ## 関連項目
 
-  - [奥田美和子](https://ja.wikipedia.org/wiki/奥田美和子 "wikilink")
+  - [奥田美和子](../Page/奥田美和子.md "wikilink")
 
 ## 外部リンク
 

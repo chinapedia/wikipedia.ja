@@ -1,15 +1,15 @@
 > この記事は[Si \(\)](https://ja.wikipedia.org/wiki/Si_\(\))から翻訳されています。
 
 
-**\[síː\]**（スィー）は、[堂本剛](../Page/堂本剛.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+**\[síː\]**（スィー）は、[堂本剛](../Page/堂本剛.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
-[2002年](../Page/2002年.md "wikilink")には[KinKi Kidsとしての活動も行いながら](../Page/KinKi_Kids.md "wikilink")[シングル](../Page/シングル.md "wikilink")『[街／溺愛ロジック](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")』、[アルバム](../Page/アルバム.md "wikilink")『[ROSSO E AZZURRO](https://ja.wikipedia.org/wiki/ROSSO_E_AZZURRO "wikilink")』をそれぞれリリースし、どちらも[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で1位を獲得している。初ソロから2年の間を置き、再開されたソロ活動の集大成とも言えるアルバムになっている。本作も先行シングルの『[WAVER](https://ja.wikipedia.org/wiki/WAVER "wikilink")』とともに、オリコンチャートで1位を獲得している。
+[2002年](../Page/2002年.md "wikilink")には[KinKi Kidsとしての活動も行いながら](../Page/KinKi_Kids.md "wikilink")[シングル](../Page/シングル.md "wikilink")『[街／溺愛ロジック](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")』、[アルバム](../Page/アルバム.md "wikilink")『[ROSSO E AZZURRO](../Page/ROSSO_E_AZZURRO.md "wikilink")』をそれぞれリリースし、どちらも[オリコンチャート](../Page/オリコンチャート.md "wikilink")で1位を獲得している。初ソロから2年の間を置き、再開されたソロ活動の集大成とも言えるアルバムになっている。本作も先行シングルの『[WAVER](../Page/WAVER.md "wikilink")』とともに、オリコンチャートで1位を獲得している。
 
 タイトルの\[síː\](スィー、シー)は、「考える」の「See」、「[海](../Page/海.md "wikilink")」や「[潮](../Page/海流.md "wikilink")」・[波](../Page/波.md "wikilink")を意味する「Sea」、[彼女](https://ja.wikipedia.org/wiki/彼女 "wikilink")・[男性](../Page/男性.md "wikilink")から見た[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")（彼女）を意味する「She」のそれぞれを表現した発音記号から採られたもの。ただし、「She」の実際の発音は**\[síː\]ではなく、\[ʃíː\]である。**この3つのキーワードが本作のコンセプトにもなっている。
 
-初回盤は全56ページにも及ぶブックレット、シングル『ORIGINAL COLOR』の[PVや撮影](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")・製作のメイキング映像を収録した[DVD付属](../Page/DVD-Video.md "wikilink")。通常盤にはジャケット違い及びボーナストラックを追加収録し、ブックレットは計14ページのジャバラブックレットを封入している。このボーナストラック『DEVIL』は7分にも及ぶ楽曲で、この違いで通常盤と初回盤の収録時間に大きな差が出ている。全編に渡りで剛自ら[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")を演奏し、インスト曲でも当然参加している。ジャケットは[新江ノ島水族館](https://ja.wikipedia.org/wiki/新江ノ島水族館 "wikilink")の[水槽](../Page/水槽.md "wikilink")をバックに撮影されたものであり、コンセプトの1つである海や、剛自身が好む[熱帯魚](https://ja.wikipedia.org/wiki/熱帯魚 "wikilink")とも関連のある写真である。
+初回盤は全56ページにも及ぶブックレット、シングル『ORIGINAL COLOR』の[PVや撮影](../Page/ミュージック・ビデオ.md "wikilink")・製作のメイキング映像を収録した[DVD付属](../Page/DVD-Video.md "wikilink")。通常盤にはジャケット違い及びボーナストラックを追加収録し、ブックレットは計14ページのジャバラブックレットを封入している。このボーナストラック『DEVIL』は7分にも及ぶ楽曲で、この違いで通常盤と初回盤の収録時間に大きな差が出ている。全編に渡りで剛自ら[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")を演奏し、インスト曲でも当然参加している。ジャケットは[新江ノ島水族館](../Page/新江ノ島水族館.md "wikilink")の[水槽](../Page/水槽.md "wikilink")をバックに撮影されたものであり、コンセプトの1つである海や、剛自身が好む[熱帯魚](https://ja.wikipedia.org/wiki/熱帯魚 "wikilink")とも関連のある写真である。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
       -
         シングル「WAVER」収録曲。
 3.  **誰かさん**
-    (作詞:[佐藤アツヒロ](https://ja.wikipedia.org/wiki/佐藤アツヒロ "wikilink")・堂本剛、作曲:堂本剛、編曲：[西川進](../Page/西川進.md "wikilink"))
+    (作詞:[佐藤アツヒロ](../Page/佐藤アツヒロ.md "wikilink")・堂本剛、作曲:堂本剛、編曲：[西川進](../Page/西川進.md "wikilink"))
       -
         [エレキギターを主にした楽曲](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
 4.  **リュウグウノツカイ**
@@ -30,9 +30,9 @@
       -
         “龍宮の使い”をテーマにした楽曲。
 5.  **海を渡って**
-    (作詞・作曲:堂本剛、編曲：[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink"))
+    (作詞・作曲:堂本剛、編曲：[吉田建](../Page/吉田建.md "wikilink"))
 6.  **[ココロノブラインド](https://ja.wikipedia.org/wiki/WAVER#収録曲 "wikilink")**
-    (作詞・作曲:堂本剛、編曲：[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink"))
+    (作詞・作曲:堂本剛、編曲：[亀田誠治](../Page/亀田誠治.md "wikilink"))
       -
         「WAVER」収録曲。
 7.  **ナイト ドライブ**
@@ -78,9 +78,9 @@
 
   - 堂本剛 - Whisper Voice
   - [西川進](../Page/西川進.md "wikilink") - [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink")
-  - [上田ケンジ](../Page/上田ケンジ.md "wikilink") - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [上田ケンジ](../Page/上田ケンジ.md "wikilink") - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - Shoko - [Drums](https://ja.wikipedia.org/wiki/Drums "wikilink")
-  - [十川知司](../Page/十川ともじ.md "wikilink") - [Piano](https://ja.wikipedia.org/wiki/Piano "wikilink"), [Vibraphone](https://ja.wikipedia.org/wiki/ヴィブラフォン "wikilink"), [Pianica](https://ja.wikipedia.org/wiki/鍵盤ハーモニカ "wikilink"), [Keyboards](https://ja.wikipedia.org/wiki/Keyboards "wikilink")
+  - [十川知司](../Page/十川ともじ.md "wikilink") - [Piano](https://ja.wikipedia.org/wiki/Piano "wikilink"), [Vibraphone](../Page/ヴィブラフォン.md "wikilink"), [Pianica](../Page/鍵盤ハーモニカ.md "wikilink"), [Keyboards](https://ja.wikipedia.org/wiki/Keyboards "wikilink")
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 
 <!-- end list -->
 
-  - 十川知司 - [Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink"), Piano, Keyboards
+  - 十川知司 - [Programming](../Page/ミュージックシーケンサー.md "wikilink"), Piano, Keyboards
   - 西川進 - Guitar
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") - Bass
   - [松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink") - Drums
@@ -120,10 +120,10 @@
 
 <!-- end list -->
 
-  - [吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink") - Bass
+  - [吉田建](../Page/吉田建.md "wikilink") - Bass
   - [松尾和博](https://ja.wikipedia.org/wiki/松尾和博 "wikilink") - Guitar
   - [村石雅行](../Page/村石雅行.md "wikilink") - Drums
-  - [国吉良一](https://ja.wikipedia.org/wiki/国吉良一 "wikilink") - Keyboards
+  - [国吉良一](../Page/国吉良一.md "wikilink") - Keyboards
   - 富樫春生 - Keyboards
   - 溝口和彦 - Programming
   - 利根川典子 - [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
@@ -137,7 +137,7 @@
 
 <!-- end list -->
 
-  - [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink") - Bass
+  - [亀田誠治](../Page/亀田誠治.md "wikilink") - Bass
   - 西川進 - Guitar
   - 村石雅行 - Drums
   - [斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink") - Piano

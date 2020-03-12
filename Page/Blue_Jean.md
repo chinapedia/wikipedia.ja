@@ -11,10 +11,10 @@
 ## 収録曲
 
 1.  **Blue Jean**
-      - 作詞・作曲:[TAKURO](../Page/TAKURO.md "wikilink") / 編曲：GLAY & [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲:[TAKURO](../Page/TAKURO.md "wikilink") / 編曲：GLAY & [佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
-        バラード[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[-Ballad Best Singles- WHITE ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")』に収録され、ベストアルバム『[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にはミックスが違うバージョンが収録された。
+        バラード[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[-Ballad Best Singles- WHITE ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")』に収録され、ベストアルバム『[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にはミックスが違うバージョンが収録された。
 2.  **南東風 〜PEACEFUL SESSION〜**
       - 作詞・作曲:TAKURO / 編曲：GLAY & 佐久間正英
     <!-- end list -->

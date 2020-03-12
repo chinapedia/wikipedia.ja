@@ -1,15 +1,15 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-『**スーパーJチャンネルおおいた**』（スーパージェイチャンネルおおいた）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で平日 18:25 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
+『**スーパーJチャンネルおおいた**』（スーパージェイチャンネルおおいた）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で平日 18:25 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
 
 ## 概要
 
-1993年のOAB開局時から2007年3月30日まで放送されていた『[OABプライムニュース](https://ja.wikipedia.org/wiki/OABプライムニュース "wikilink")』の後継番組。キャッチフレーズは「**ニュースな時代（とき）に**」。
+1993年のOAB開局時から2007年3月30日まで放送されていた『[OABプライムニュース](../Page/OABプライムニュース.md "wikilink")』の後継番組。キャッチフレーズは「**ニュースな時代（とき）に**」。
 
 2007年4月2日から2009年3月27日までは18:28（実際は18:28.30）開始だったが、2009年3月30日からは『OABプライムニュース』時代と同じく18:30開始になった。
 
-2010年3月29日からは『[スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")』終了後（18:28.30 - 18:28.45）に予告を挿むようになった。
+2010年3月29日からは『[スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")』終了後（18:28.30 - 18:28.45）に予告を挿むようになった。
 
 2013年1月7日、『スーパーJチャンネル九州・沖縄』の枠移動に伴い、18:27開始となる。2015年4月1日からは18:25開始となり、放送時間が2分拡大した。
 
@@ -25,7 +25,7 @@
 
 ### トリニータコーナー
 
-  - [増田忠俊](https://ja.wikipedia.org/wiki/増田忠俊 "wikilink") - [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")のJ2リーグ戦の試合があった翌月曜日（もしくは木曜日）にのみVTR出演。増田's EYEで試合の分析を行っている。2010年からは出演しない日もある。
+  - [増田忠俊](../Page/増田忠俊.md "wikilink") - [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")のJ2リーグ戦の試合があった翌月曜日（もしくは木曜日）にのみVTR出演。増田's EYEで試合の分析を行っている。2010年からは出演しない日もある。
 
 ### お天気コーナー
 
@@ -38,12 +38,12 @@
   - [長田次郎](https://ja.wikipedia.org/wiki/長田次郎 "wikilink") - 『OABプライムニュース』時代から2012年まで19年間キャスターを務めていた。
   - [児玉泰一郎](https://ja.wikipedia.org/wiki/児玉泰一郎 "wikilink")
   - [村島里佳](https://ja.wikipedia.org/wiki/村島里佳 "wikilink")
-  - [楠元正孝](https://ja.wikipedia.org/wiki/楠元正孝 "wikilink")
+  - [楠元正孝](../Page/楠元正孝.md "wikilink")
   - [高嶋和代](https://ja.wikipedia.org/wiki/高嶋和代 "wikilink")
 
 #### コメンテーター
 
-  - 辻野功（[別府大学](https://ja.wikipedia.org/wiki/別府大学 "wikilink")[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")）
+  - 辻野功（[別府大学](../Page/別府大学.md "wikilink")[教授](../Page/教授.md "wikilink")）
   - 古庄玄知（[弁護士](../Page/弁護士.md "wikilink")）
   - [松田健太郎](https://ja.wikipedia.org/wiki/松田健太郎 "wikilink")（弁護士）
 
@@ -53,7 +53,7 @@
 
 ### レポーター
 
-  - [きどゆういち](https://ja.wikipedia.org/wiki/きどゆういち "wikilink")
+  - [きどゆういち](../Page/きどゆういち.md "wikilink")
 
 ## タイトルロゴ
 
@@ -89,7 +89,7 @@
 
   - 週末には短時間ではあるが、県内ニュースを伝えている。
 
-  - 一部新聞等のテレビ番組欄では『スーパーJチャンネル九州・沖縄』と一括で『スーパーJチャンネル』に内包扱いされている（事実上[コンプレックス状態](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")）。
+  - 一部新聞等のテレビ番組欄では『スーパーJチャンネル九州・沖縄』と一括で『スーパーJチャンネル』に内包扱いされている（事実上[コンプレックス状態](../Page/コンプレックス_\(番組形式\).md "wikilink")）。
 
 ## イベント
 
@@ -98,10 +98,10 @@
 ## 関連項目
 
   - [OABニュース](https://ja.wikipedia.org/wiki/OABニュース "wikilink")
-  - [OABプライムニュース](https://ja.wikipedia.org/wiki/OABプライムニュース "wikilink") - 前番組。
+  - [OABプライムニュース](../Page/OABプライムニュース.md "wikilink") - 前番組。
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
-  - [スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")
-  - [ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧 "wikilink")
+  - [スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")
+  - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク
 

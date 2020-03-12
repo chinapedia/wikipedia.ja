@@ -1,11 +1,11 @@
 > この記事は[CB400SS](https://ja.wikipedia.org/wiki/CB400SS)から翻訳されています。
 
 
-**CB400SS**（シービーよんひゃくエスエス）は[本田技研工業](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。
+**CB400SS**（シービーよんひゃくエスエス）は[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。
 
 ## 概要
 
-型式名BC-NC41。[2001年](../Page/2001年.md "wikilink")10月10日発表、同月11日発売された[CBシリーズ](https://ja.wikipedia.org/wiki/ホンダ・CB "wikilink")[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")400ccクラス（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）の[ネイキッドモデル](https://ja.wikipedia.org/wiki/ネイキッド_\(オートバイ\) "wikilink")\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発売のNC38型[CL400をベースに開発された](https://ja.wikipedia.org/wiki/ホンダ・CL400 "wikilink")。このためセミダブルクレードル型[フレーム](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\) "wikilink")・[前輪テレスコピックならびに](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")[後輪スイングアームの](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")[サスペンション](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")・NC38E型[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")4バルブ[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")など基本構成部品の多くが共通する[姉妹車](https://ja.wikipedia.org/wiki/姉妹車 "wikilink")である。
+型式名BC-NC41。[2001年](../Page/2001年.md "wikilink")10月10日発表、同月11日発売された[CBシリーズ](https://ja.wikipedia.org/wiki/ホンダ・CB "wikilink")[排気量](../Page/排気量.md "wikilink")400ccクラス（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）の[ネイキッドモデル](../Page/ネイキッド_\(オートバイ\).md "wikilink")\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発売のNC38型[CL400をベースに開発された](https://ja.wikipedia.org/wiki/ホンダ・CL400 "wikilink")。このためセミダブルクレードル型[フレーム](../Page/フレーム_\(オートバイ\).md "wikilink")・[前輪テレスコピックならびに](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")[後輪スイングアームの](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")[サスペンション](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")・NC38E型[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")4バルブ[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")など基本構成部品の多くが共通する[姉妹車](../Page/姉妹車.md "wikilink")である。
 
 [自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")強化に対応せず[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月に生産終了。
 
@@ -15,7 +15,7 @@
 
 車名の**SS**は、当初シングル（単気筒）のスタンダード機種を目指す**S**tandard **S**ingleの略という意味を持たせたが、2003年以降は**S**ingle **S**portsの略という意味合いに変更された。
 
-搭載されるMC38E型エンジンはCL400からのキャリーオーバーであるが、元々は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[エンデューロレース](https://ja.wikipedia.org/wiki/エンデューロレース "wikilink")専用の輸出モデルと製造されていた[XR400R用ND](https://ja.wikipedia.org/wiki/ホンダ・XR "wikilink")03E型に以下の設計変更を実施したものである。
+搭載されるMC38E型エンジンはCL400からのキャリーオーバーであるが、元々は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[エンデューロレース](../Page/エンデューロレース.md "wikilink")専用の輸出モデルと製造されていた[XR400R用ND](https://ja.wikipedia.org/wiki/ホンダ・XR "wikilink")03E型に以下の設計変更を実施したものである。
 
   - 圧縮比：9.3→8.8
   - [キャブレター](../Page/キャブレター.md "wikilink")：PD36型強制開閉→VE型負圧
@@ -26,9 +26,9 @@
 
 このため基本的にXR400Rのエンジン部品流用によるチューニングが可能とされる。さらにND03E型も基本設計は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")製造のXR350Rに搭載されていた排気量339ccSOHC単気筒エンジンから継承されたものであり、後部マウント・カムチェーンテンショナー・スタッドボルトの一部は変更されるが、RFVC\[2\]もそのまま搭載される。
 
-また潤滑方式は[ドライサンプ](https://ja.wikipedia.org/wiki/ドライサンプ "wikilink")を採用したことも含め車体デザインや広告戦略などから[ヤマハ](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")[SR400が対抗車種とされたが](https://ja.wikipedia.org/wiki/ヤマハ・SR "wikilink")、相違点として[クランク内にバランサーを搭載するため振動面](https://ja.wikipedia.org/wiki/クランク_\(機械要素\) "wikilink")・騒音面では有利である。また振動減少の二次効果としてフレームに過度の補強が不要となるため軽量化できるメリットがあり、発売当初はクラス最軽量モデルとなった。
+また潤滑方式は[ドライサンプ](../Page/ドライサンプ.md "wikilink")を採用したことも含め車体デザインや広告戦略などから[ヤマハ](../Page/ヤマハ発動機.md "wikilink")[SR400が対抗車種とされたが](../Page/ヤマハ・SR.md "wikilink")、相違点として[クランク内にバランサーを搭載するため振動面](https://ja.wikipedia.org/wiki/クランク_\(機械要素\) "wikilink")・騒音面では有利である。また振動減少の二次効果としてフレームに過度の補強が不要となるため軽量化できるメリットがあり、発売当初はクラス最軽量モデルとなった。
 
-始動は、オートデコンプ装備[キックスターター](https://ja.wikipedia.org/wiki/キックスターター "wikilink")のみとされたが、[2003年](../Page/2003年.md "wikilink")のマイナーチェンジで[セルフスターターが搭載された](https://ja.wikipedia.org/wiki/セルモーター "wikilink")。
+始動は、オートデコンプ装備[キックスターター](../Page/キックスターター.md "wikilink")のみとされたが、[2003年](../Page/2003年.md "wikilink")のマイナーチェンジで[セルフスターターが搭載された](../Page/セルモーター.md "wikilink")。
 
 ### 遍歴
 
@@ -73,7 +73,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月29日発表、同月30日発売\[7\]
+  - [2005年](../Page/2005年.md "wikilink")9月29日発表、同月30日発売\[7\]
     以下の車体色へ変更するマイナーチェンジ
       - グラファイトブラック
       - クラシカルホワイト（スタンダード）
@@ -82,7 +82,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月20日発表、同月24日発売\[8\]
+  - [2006年](../Page/2006年.md "wikilink")11月20日発表、同月24日発売\[8\]
     以下の車体色へ変更するマイナーチェンジ
       - グラファイトブラック（スタンダード）
       - パールコーラルリーフブルーxクラシカルホワイト（ツートーン）
@@ -90,7 +90,7 @@
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月19日発表\[9\]
+  - [2007年](../Page/2007年.md "wikilink")10月19日発表\[9\]
     同月25日発売で以下の車体色へ変更するマイナーチェンジ
       - パールサンビームホワイト（スタンダード）
       - キャンディールビジウムレッドxクラシカルホワイト

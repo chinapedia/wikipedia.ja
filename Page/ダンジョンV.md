@@ -9,27 +9,27 @@
 
   - カズ：[瀬尾和寿](https://ja.wikipedia.org/wiki/カズ&アイ "wikilink")
   - タク：斉藤工
-  - ユカ：[河野由佳](https://ja.wikipedia.org/wiki/河野由佳 "wikilink")
-  - どどのおねーたま：[百々麻子](https://ja.wikipedia.org/wiki/百々麻子 "wikilink")
-  - 愛の戦士・下北沢6000：山口桂 - 『[美少女仮面ポワトリン](https://ja.wikipedia.org/wiki/美少女仮面ポワトリン "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のポワトリンのような格好をしていた。
+  - ユカ：[河野由佳](../Page/河野由佳.md "wikilink")
+  - どどのおねーたま：[百々麻子](../Page/百々麻子.md "wikilink")
+  - 愛の戦士・下北沢6000：山口桂 - 『[美少女仮面ポワトリン](../Page/美少女仮面ポワトリン.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のポワトリンのような格好をしていた。
   - 愛の戦士・下北沢6000 MkII：本間志保 - 下北沢6000の妹分。負けそうになると「おかーさーん」と言って逃げていた。
   - 謎の戦士・岡山8000／新潟8000：山口桂／本間志保（声：百々麻子） - OL風のレディーススーツに赤いゴム長靴を着用。
-  - [ガダルカナル・タカ](https://ja.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")
+  - [ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")
   - 暗黒硬派軍団 - 昭和の番長風の学ラン姿で登場。
   - 暗黒兄貴：飛矢馬剣
   - 暗黒桃太郎：吉川桃太郎
 
 ## 声の出演
 
-  - 暗黒大魔王マシリト：[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+  - 暗黒大魔王マシリト：[千葉繁](../Page/千葉繁.md "wikilink")
       - CGやアニメのほかに実写でも登場。実写での登場時には女物の真っ赤な長靴を履き、金髪の外国人女性に変装して編集部やゲーム会社に潜入したりしていた。
   - ブイブイ：[田中真弓](../Page/田中真弓.md "wikilink")
       - CGやアニメでの登場が大半。自分は[妖精](../Page/妖精.md "wikilink")だと主張し、[ハエ](../Page/ハエ.md "wikilink")呼ばわりされると怒る。
-  - ナレーター：[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+  - ナレーター：[立木文彦](../Page/立木文彦.md "wikilink")
 
 ## スタッフ
 
-  - プロデューサー：[岩田圭介](https://ja.wikipedia.org/wiki/岩田圭介 "wikilink")（テレビ東京）、位下博一（[読売広告社](https://ja.wikipedia.org/wiki/読売広告社 "wikilink")）、寺沢賢（FOX21）
+  - プロデューサー：[岩田圭介](https://ja.wikipedia.org/wiki/岩田圭介 "wikilink")（テレビ東京）、位下博一（[読売広告社](../Page/読売広告社.md "wikilink")）、寺沢賢（FOX21）
   - 演出：佐藤弘幸、宇杉公一
 
 ## 主題歌
@@ -43,11 +43,11 @@
 
 ## 取り上げていたゲームソフト
 
-  - [聖剣伝説2](https://ja.wikipedia.org/wiki/聖剣伝説2 "wikilink")
-  - [ロマンシング サ・ガ2](https://ja.wikipedia.org/wiki/ロマンシング_サ・ガ2 "wikilink")
+  - [聖剣伝説2](../Page/聖剣伝説2.md "wikilink")
+  - [ロマンシング サ・ガ2](../Page/ロマンシング_サ・ガ2.md "wikilink")
   - [ファイナルファンタジーVI](../Page/ファイナルファンタジーVI.md "wikilink")
-  - [ガイア幻想紀](https://ja.wikipedia.org/wiki/ガイア幻想紀 "wikilink")
-  - [ドラゴンボールZ 超武闘伝2](https://ja.wikipedia.org/wiki/ドラゴンボールZ_超武闘伝2 "wikilink")
+  - [ガイア幻想紀](../Page/ガイア幻想紀.md "wikilink")
+  - [ドラゴンボールZ 超武闘伝2](../Page/ドラゴンボールZ_超武闘伝2.md "wikilink")
 
 ## 関連項目
 
@@ -57,9 +57,9 @@
 
 以下は、同時期にテレビ東京で放送されていたゲーム情報番組。
 
-  - [Theゲームパワー](https://ja.wikipedia.org/wiki/Theゲームパワー "wikilink")
+  - [Theゲームパワー](../Page/Theゲームパワー.md "wikilink")
   - [そのまんま東のバーチャル情報局](../Page/そのまんま東のバーチャル情報局.md "wikilink") - 「Vジャンプ放送局」のコーナーがあった。
-  - [そのまんま東のバーチャルZ](https://ja.wikipedia.org/wiki/そのまんま東のバーチャルZ "wikilink")
+  - [そのまんま東のバーチャルZ](../Page/そのまんま東のバーチャルZ.md "wikilink")
   - [スーパーマリオクラブ](../Page/スーパーマリオクラブ_\(テレビ番組\).md "wikilink")
   - [スーパーマリオスタジアム](../Page/スーパーマリオスタジアム_\(テレビ番組\).md "wikilink")
 

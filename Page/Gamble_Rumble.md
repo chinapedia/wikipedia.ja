@@ -5,9 +5,9 @@
 
 ## 概要
 
-曲調は[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")。152bpmを誇り、m.o.v.e.の楽曲の中でもかなり高速の部類に入る。
+曲調は[ユーロビート](../Page/ユーロビート.md "wikilink")。152bpmを誇り、m.o.v.e.の楽曲の中でもかなり高速の部類に入る。
 
-[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")が売上をバックアップし、m.o.v.e.最大のヒット曲となった。また唯一の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")TOP10ランクイン作品（シングル）でもある。
+[タイアップ](../Page/タイアップ.md "wikilink")が売上をバックアップし、m.o.v.e.最大のヒット曲となった。また唯一の[オリコンチャート](../Page/オリコンチャート.md "wikilink")TOP10ランクイン作品（シングル）でもある。
 
 歴代のベストアルバム全てに収録されている（「[move super tune -BEST SELECTIONS-](https://ja.wikipedia.org/wiki/move_super_tune_-BEST_SELECTIONS- "wikilink")」では、ヴォーカル・ラップを再収録している）。
 
@@ -28,7 +28,7 @@
           - ゲーム「頭文字D ARCADE STAGE Zero」レース中BGM
 2.  **strike on**
       - 作詞：motsu、作曲・編曲：t-kimura
-      - 映画「頭文字D Third Stage」劇中[挿入歌](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")
+      - 映画「頭文字D Third Stage」劇中[挿入歌](../Page/サウンドトラック.md "wikilink")
 3.  **destiny**
       - 作詞：motsu、作曲・編曲：t-kimura
 4.  **Gamble Rumble(yin to deep mix:motsu)**
@@ -42,7 +42,7 @@
 ## 関連項目
 
   - [頭文字D](../Page/頭文字D.md "wikilink")
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
   - [Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")
 
 [Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

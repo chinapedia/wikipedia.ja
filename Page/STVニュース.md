@@ -5,11 +5,11 @@
 
 ## 概要
 
-朝から夕方にかけ、毎時55分頃に放送される。ほとんどが[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")に内包されるが、平日は一部放送局で放送されない時間帯がある。
+朝から夕方にかけ、毎時55分頃に放送される。ほとんどが[ワイド番組](../Page/ワイド番組.md "wikilink")に内包されるが、平日は一部放送局で放送されない時間帯がある。
 
-[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")が協力する。北海道外のニュースは[共同通信社](../Page/共同通信社.md "wikilink")から配信されたものが多い。かつては[北海タイムス](../Page/北海タイムス.md "wikilink")協力の元、「タイムスニュース」として放送された。
+[読売新聞](../Page/読売新聞.md "wikilink")が協力する。北海道外のニュースは[共同通信社](../Page/共同通信社.md "wikilink")から配信されたものが多い。かつては[北海タイムス](../Page/北海タイムス.md "wikilink")協力の元、「タイムスニュース」として放送された。
 
-また、[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")（STVラジオ親会社）でもかつて5分間[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")で同じ題名の番組が放送された。
+また、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STVラジオ親会社）でもかつて5分間[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")で同じ題名の番組が放送された。
 
 ## コーナーとして内包される番組
 
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   - [オハヨー\!ほっかいどう](https://ja.wikipedia.org/wiki/オハヨー!ほっかいどう "wikilink")
-  - [工藤じゅんきの十人十色](https://ja.wikipedia.org/wiki/工藤じゅんきの十人十色 "wikilink")（一部地域を除く）
+  - [工藤じゅんきの十人十色](../Page/工藤じゅんきの十人十色.md "wikilink")（一部地域を除く）
   - [まるごと\!エンタメ〜ション](https://ja.wikipedia.org/wiki/まるごと!エンタメ〜ション "wikilink")（一部地域を除く）
       - 単独番組として放送される時間帯もあり。
 
@@ -49,11 +49,11 @@
 
 『STV NEWS』として放送される。
 
-〇『[どさんこワイド](https://ja.wikipedia.org/wiki/どさんこワイド "wikilink")』の18時台で、道内のニュースを伝える。　 放送時間：18:15～19:00
+〇『[どさんこワイド](../Page/どさんこワイド.md "wikilink")』の18時台で、道内のニュースを伝える。　 放送時間：18:15～19:00
 
 ### 出演者
 
-  - [宮永真幸](https://ja.wikipedia.org/wiki/宮永真幸 "wikilink")（STVアナウンサー）
+  - [宮永真幸](../Page/宮永真幸.md "wikilink")（STVアナウンサー）
   - [村雨美紀](https://ja.wikipedia.org/wiki/村雨美紀 "wikilink")（STVアナウンサー）
   - [福永俊介](../Page/福永俊介.md "wikilink")（STVアナウンサー）
 
@@ -67,22 +67,22 @@
 
 ### 外部へのニュース配信
 
-[2018年](../Page/2018年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")から、札幌テレビ放送は[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")）へのニュース配信を開始した\[2\]。配信名は**STVニュース北海道**\[3\]とし、原則として[動画](../Page/動画.md "wikilink")とともに配信される。Yahoo\!ニュースへの配信開始後は、同じ配信名で[スマートニュース](https://ja.wikipedia.org/wiki/スマートニュース "wikilink")や[グノシー](https://ja.wikipedia.org/wiki/グノシー "wikilink")などへの配信も開始されることになっている\[4\]。
+[2018年](../Page/2018年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")から、札幌テレビ放送は[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）へのニュース配信を開始した\[2\]。配信名は**STVニュース北海道**\[3\]とし、原則として[動画](../Page/動画.md "wikilink")とともに配信される。Yahoo\!ニュースへの配信開始後は、同じ配信名で[スマートニュース](https://ja.wikipedia.org/wiki/スマートニュース "wikilink")や[グノシー](https://ja.wikipedia.org/wiki/グノシー "wikilink")などへの配信も開始されることになっている\[4\]。
 
 ### タイトル
 
-  - 1970年代 から1985年までは、ブルーバックに「STV」のロゴがいくつも並び、波をうねるように移動するパターン（1976年～1982年3月の『[NNN昼のニュース](https://ja.wikipedia.org/wiki/NNN昼のニュース "wikilink")』OPに類似）が用いられた。またテーマ曲は[オーケストラ](../Page/オーケストラ.md "wikilink")による壮大なものだった。
+  - 1970年代 から1985年までは、ブルーバックに「STV」のロゴがいくつも並び、波をうねるように移動するパターン（1976年～1982年3月の『[NNN昼のニュース](../Page/NNN昼のニュース.md "wikilink")』OPに類似）が用いられた。またテーマ曲は[オーケストラ](../Page/オーケストラ.md "wikilink")による壮大なものだった。
   - 1986年からの2年間は、最初に風車を横向きにしたような[CG](https://ja.wikipedia.org/wiki/CG "wikilink")が段々とズームアップされて“STVニュース”の文字が出現するエフェクトで、テーマ曲もシンセサイザー系に変更された。
 
 ## 脚注
 
 ## 関連項目
 
-  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
   - STVテレビのローカルニュース番組
-      - [朝6生ワイド](https://ja.wikipedia.org/wiki/朝6生ワイド "wikilink")
-      - [どさんこワイド](https://ja.wikipedia.org/wiki/どさんこワイド "wikilink")179 - 18:15のローカルニュース枠開始の冒頭には、「STV NEWS」（「NEWS」の**S**が、同局のリモコンキーID**[5](https://ja.wikipedia.org/wiki/5 "wikilink")**になっている。）のタイトルが出される。
-      - [STVニューススポット](https://ja.wikipedia.org/wiki/STVニューススポット "wikilink")
+      - [朝6生ワイド](../Page/朝6生ワイド.md "wikilink")
+      - [どさんこワイド](../Page/どさんこワイド.md "wikilink")179 - 18:15のローカルニュース枠開始の冒頭には、「STV NEWS」（「NEWS」の**S**が、同局のリモコンキーID**[5](https://ja.wikipedia.org/wiki/5 "wikilink")**になっている。）のタイトルが出される。
+      - [STVニューススポット](../Page/STVニューススポット.md "wikilink")
 
 ## 外部リンク
 
@@ -92,7 +92,7 @@
 
 [Category:STVラジオの番組](https://ja.wikipedia.org/wiki/Category:STVラジオの番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:札幌テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:札幌テレビ放送の番組 "wikilink") [Category:北海道のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのニュース・報道番組 "wikilink") [Category:読売新聞のニュース番組](https://ja.wikipedia.org/wiki/Category:読売新聞のニュース番組 "wikilink") [Category:NNN昼のニュース](https://ja.wikipedia.org/wiki/Category:NNN昼のニュース "wikilink") [Category:NNN日曜夕刊](https://ja.wikipedia.org/wiki/Category:NNN日曜夕刊 "wikilink") [Category:NNNニュースダッシュ](https://ja.wikipedia.org/wiki/Category:NNNニュースダッシュ "wikilink") [Category:NNNストレイトニュース](https://ja.wikipedia.org/wiki/Category:NNNストレイトニュース "wikilink")
 
-1.  東京側の男性メインキャスターが「[杉江さん](https://ja.wikipedia.org/wiki/杉江勇次 "wikilink")、明日の全国の天気はどうでしょうか?」と尋ねたところから番組終了までそのまま放送。後続の[アニメ枠の](https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ "wikilink")[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")もネット受けしている。
+1.  東京側の男性メインキャスターが「[杉江さん](../Page/杉江勇次.md "wikilink")、明日の全国の天気はどうでしょうか?」と尋ねたところから番組終了までそのまま放送。後続の[アニメ枠の](https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ "wikilink")[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")もネット受けしている。
 2.
 3.
 4.

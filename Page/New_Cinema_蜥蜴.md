@@ -5,30 +5,30 @@
 
 ## 概要・来歴
 
-メンバーは、舩木基有、[岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink")、[車谷啓介](https://ja.wikipedia.org/wiki/車谷啓介 "wikilink")、脇田啓行、および脱退した川越英樹からなる。
+メンバーは、舩木基有、[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")、[車谷啓介](../Page/車谷啓介.md "wikilink")、脇田啓行、および脱退した川越英樹からなる。
 
   - 1997年、大阪で舩木と岩井により活動開始、翌年に川越と車谷が加入。
   - 1998年10月20日にインディーズEP『360°』でインディーズデビュー。1999年1月27日にインディーズ1stミニアルバム『Smashing the bad\!』を発売。尚、ここに収録されている「Smashing the good\! smashing the bad\!」は、English Versionである。
   - 2月10日にシングル『Smashing the good\! smashing the bad\!』（8cmCD・12cmCD同時リリース）で[GIZA studioよりメジャーデビュー](../Page/GIZA_studio.md "wikilink")。その後10月6日にメジャー1stアルバム『Rail』発売。それに伴い11月28日には初めてとなるワンマンライブ『Rail〜線路は続くよどこまでも〜』敢行。
   - 2000年4月、川越が音楽性の相違により正式脱退。
   - 4月24日、初の全国ツアー（全14ヶ所）開始。
-  - 6月、新たなベーシストとして元[GRASS ARC.の脇田が加入](https://ja.wikipedia.org/wiki/GRASS_ARC. "wikilink")。
+  - 6月、新たなベーシストとして元[GRASS ARC.の脇田が加入](../Page/GRASS_ARC..md "wikilink")。
   - 2002年8月、解散。
-  - 解散後、舩木はビーイング離脱後、東京でソロユニット「誇空」として、岩井と車谷は、[三枝夕夏 IN dbのメンバーとして活動していたが](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")、現在は両バンド共に活動を終了している。車谷はさらにその後[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")で活動しているが、岩井と舩木は音楽活動自体も継続中かは不明であり、岩井はビーイングを離脱したようである。脇田は、ロックバンド[ELFのベーシストとして活動後](https://ja.wikipedia.org/wiki/ELF_\(バンド\) "wikilink")、バックミュージシャンとして音楽活動を継続。既に脱退していた川越は音楽ライターとして活動。2013年現在は車谷を除き全員、活動しているかは不明である。
+  - 解散後、舩木はビーイング離脱後、東京でソロユニット「誇空」として、岩井と車谷は、[三枝夕夏 IN dbのメンバーとして活動していたが](../Page/三枝夕夏_IN_db.md "wikilink")、現在は両バンド共に活動を終了している。車谷はさらにその後[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")で活動しているが、岩井と舩木は音楽活動自体も継続中かは不明であり、岩井はビーイングを離脱したようである。脇田は、ロックバンド[ELFのベーシストとして活動後](https://ja.wikipedia.org/wiki/ELF_\(バンド\) "wikilink")、バックミュージシャンとして音楽活動を継続。既に脱退していた川越は音楽ライターとして活動。2013年現在は車谷を除き全員、活動しているかは不明である。
 
 ## メンバー
 
-| 名前                                                      | 読み         | 担当                                                                                                      | 備考  |
-| ------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------- | --- |
-| 舩木基有                                                    | ふなき　もとあり   | [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") |     |
-| [岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink") | いわい　ゆういちろう | [作曲](../Page/作曲.md "wikilink")・[ギター](../Page/ギター.md "wikilink")                                         |     |
-| [車谷啓介](https://ja.wikipedia.org/wiki/車谷啓介 "wikilink")   | くるまたに　けいすけ | 作詞・[ドラム](../Page/ドラムセット.md "wikilink")                                                                  |     |
-| 川越英樹                                                    | かわごえ　ひでき   | 作曲・[ベース](../Page/エレクトリックベース.md "wikilink")                                                              | 初代  |
-| 脇田啓行                                                    | わきた　ひろゆき   | 作曲・ベース                                                                                                  | 2代目 |
+| 名前                                   | 読み         | 担当                                                                                   | 備考  |
+| ------------------------------------ | ---------- | ------------------------------------------------------------------------------------ | --- |
+| 舩木基有                                 | ふなき　もとあり   | [作詞](../Page/作詞.md "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") |     |
+| [岩井勇一郎](../Page/岩井勇一郎.md "wikilink") | いわい　ゆういちろう | [作曲](../Page/作曲.md "wikilink")・[ギター](../Page/ギター.md "wikilink")                      |     |
+| [車谷啓介](../Page/車谷啓介.md "wikilink")   | くるまたに　けいすけ | 作詞・[ドラム](../Page/ドラムセット.md "wikilink")                                               |     |
+| 川越英樹                                 | かわごえ　ひでき   | 作曲・[ベース](../Page/エレクトリックベース.md "wikilink")                                           | 初代  |
+| 脇田啓行                                 | わきた　ひろゆき   | 作曲・ベース                                                                               | 2代目 |
 
 ## グループ名
 
-名前の由来は、バンド名を決めるときに岩井がたまたまテレビで見た映画『[ニュー・シネマ・パラダイス](https://ja.wikipedia.org/wiki/ニュー・シネマ・パラダイス "wikilink")』と舩木の好きな蜥蜴を組み合わせたもの。略称は「シネトカ」であり、公式にも使用されたようである。
+名前の由来は、バンド名を決めるときに岩井がたまたまテレビで見た映画『[ニュー・シネマ・パラダイス](../Page/ニュー・シネマ・パラダイス.md "wikilink")』と舩木の好きな蜥蜴を組み合わせたもの。略称は「シネトカ」であり、公式にも使用されたようである。
 
 表記については、作品によって「New Cinema 蜥蜴」「NEW CINEMA 蜥蜴」の両方の表記がある。英字の時も同じで、「New Cinema Tokage」、「NEW CINEMA TOKAGE」と二つある。但し、[GIZA studio Masterpiece BLEND 2001には](https://ja.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2001 "wikilink")「New Cinema 蜥蜴」と表記されている。なお、『蜥蜴』は一部メディアで『トカゲ』と表記されたことがある。
 
@@ -168,20 +168,20 @@ GZDA-1001</p></td>
 
 ## タイアップ
 
-| 曲名                                                                                                                                                                       | タイアップ                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Smashing the good\! Smashing the bad\!                                                                                                                                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「\[\[スキヤキ                                                                                                                                                      |
-| [テクモ](../Page/テクモ.md "wikilink")[プレイステーション用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")「[モンスターファーム2](../Page/モンスターファーム2.md "wikilink")」イメージソング |                                                                                                                                                                                                                        |
-| CaNDY LiFe                                                                                                                                                               | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「J-ROCK ARTIST TOP30」オープニングテーマ                                                                                                                                                 |
-| Believe myself                                                                                                                                                           | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")「[金田一少年の事件簿](https://ja.wikipedia.org/wiki/金田一少年の事件簿_\(アニメ\) "wikilink")」エンディングテーマ                                                   |
-| Ghost Mind                                                                                                                                                               | [TBS系](../Page/TBSテレビ.md "wikilink")「[新ウンナンの気分は上々。](https://ja.wikipedia.org/wiki/新ウンナンの気分は上々。 "wikilink")」エンディングテーマ                                                                                                   |
-| eighteen                                                                                                                                                                 | [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")[プレイステーション用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")「[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")」エンディングテーマ |
-| Messenger                                                                                                                                                                | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")」エンディングテーマ                                                                                                                |
-| mystery world                                                                                                                                                            | [学研](../Page/学研ホールディングス.md "wikilink")「CD HITS\!」TVCMソング                                                                                                                                                               |
-| Lovely Generation〜goes\&fights〜                                                                                                                                          | TBS系「ぜったい\!キャイ〜ン」エンディングテーマ                                                                                                                                                                                             |
-| Free Bird                                                                                                                                                                | テレビ東京系「[PROJECT ARMS](../Page/ARMS.md "wikilink")」オープニングテーマ                                                                                                                                                            |
-| Breathe on me                                                                                                                                                            | テレビ東京系「PROJECT ARMS」オープニングテーマ                                                                                                                                                                                          |
-| Run                                                                                                                                                                      | TBS系「[JNN SPORTS and NEWS](https://ja.wikipedia.org/wiki/JNNスポーツ&ニュース "wikilink")」テーマソング                                                                                                                               |
+| 曲名                                                                                                                                                    | タイアップ                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Smashing the good\! Smashing the bad\!                                                                                                                | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「\[\[スキヤキ                                                                                                                                   |
+| [テクモ](../Page/テクモ.md "wikilink")[プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")「[モンスターファーム2](../Page/モンスターファーム2.md "wikilink")」イメージソング |                                                                                                                                                                                                     |
+| CaNDY LiFe                                                                                                                                            | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「J-ROCK ARTIST TOP30」オープニングテーマ                                                                                                                              |
+| Believe myself                                                                                                                                        | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")「[金田一少年の事件簿](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")」エンディングテーマ                                                   |
+| Ghost Mind                                                                                                                                            | [TBS系](../Page/TBSテレビ.md "wikilink")「[新ウンナンの気分は上々。](https://ja.wikipedia.org/wiki/新ウンナンの気分は上々。 "wikilink")」エンディングテーマ                                                                                |
+| eighteen                                                                                                                                              | [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")[プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")「[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")」エンディングテーマ |
+| Messenger                                                                                                                                             | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[リングの魂](../Page/リングの魂.md "wikilink")」エンディングテーマ                                                                                                                |
+| mystery world                                                                                                                                         | [学研](../Page/学研ホールディングス.md "wikilink")「CD HITS\!」TVCMソング                                                                                                                                            |
+| Lovely Generation〜goes\&fights〜                                                                                                                       | TBS系「ぜったい\!キャイ〜ン」エンディングテーマ                                                                                                                                                                          |
+| Free Bird                                                                                                                                             | テレビ東京系「[PROJECT ARMS](../Page/ARMS.md "wikilink")」オープニングテーマ                                                                                                                                         |
+| Breathe on me                                                                                                                                         | テレビ東京系「PROJECT ARMS」オープニングテーマ                                                                                                                                                                       |
+| Run                                                                                                                                                   | TBS系「[JNN SPORTS and NEWS](../Page/JNNスポーツ&ニュース.md "wikilink")」テーマソング                                                                                                                               |
 
 ## 脚注
 

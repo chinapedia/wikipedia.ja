@@ -13,9 +13,9 @@
 
 ## 番組の構成
 
-早朝、昼、夕方、夜間、深夜の1日5ブロックに分けて、ワイド画面（[レターボックス16:9](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")・[ワイドクリアビジョン](../Page/ワイドクリアビジョン.md "wikilink")対応）で放送されていた（後述のスクエア1200のみ4:3画面）。オープニングも、18:00、22:00（とその再放送であるAM2:00）はフルCGで制作され、その他の時間帯のものも2種類存在した\[1\]。
+早朝、昼、夕方、夜間、深夜の1日5ブロックに分けて、ワイド画面（[レターボックス16:9](../Page/レターボックス_\(映像技術\).md "wikilink")・[ワイドクリアビジョン](../Page/ワイドクリアビジョン.md "wikilink")対応）で放送されていた（後述のスクエア1200のみ4:3画面）。オープニングも、18:00、22:00（とその再放送であるAM2:00）はフルCGで制作され、その他の時間帯のものも2種類存在した\[1\]。
 
-番組は、最新の全国および東京都のローカルニュースを中心にして、[23区](https://ja.wikipedia.org/wiki/特別区 "wikilink")、[多摩](https://ja.wikipedia.org/wiki/多摩 "wikilink")、[伊豆諸島](../Page/伊豆諸島.md "wikilink")の地域ブロック、更に[警視庁](../Page/警視庁.md "wikilink")、[都庁](../Page/東京都庁.md "wikilink")、[テレコムセンター](https://ja.wikipedia.org/wiki/テレコムセンター "wikilink")（開局当初から2006年夏までの本社所在地）等、都内各所にくまなく取材ネットワークを配置し、東京ローカルのニュースを大小を問わず積極的に伝えた。
+番組は、最新の全国および東京都のローカルニュースを中心にして、[23区](https://ja.wikipedia.org/wiki/特別区 "wikilink")、[多摩](../Page/多摩.md "wikilink")、[伊豆諸島](../Page/伊豆諸島.md "wikilink")の地域ブロック、更に[警視庁](../Page/警視庁.md "wikilink")、[都庁](../Page/東京都庁.md "wikilink")、[テレコムセンター](../Page/テレコムセンター.md "wikilink")（開局当初から2006年夏までの本社所在地）等、都内各所にくまなく取材ネットワークを配置し、東京ローカルのニュースを大小を問わず積極的に伝えた。
 
 取材は「映像記者（[ビデオ・ジャーナリスト](https://ja.wikipedia.org/wiki/ビデオジャーナリスト "wikilink")）」によって行われた（当初23人）。通例、テレビニュースの現地取材は[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")や[カメラマン](../Page/カメラマン.md "wikilink")、現地[ディレクター](../Page/ディレクター.md "wikilink")などの複数のスタッフが関わって行われるが、MXテレビの映像記者は、原則としてこれらをひとりでこなし、さらに最終的に放送される内容の編集まで関わるという仕組みであり、日本の地上波放送局としては、MXテレビが初めてこの方式を本格的に導入した。
 
@@ -31,30 +31,30 @@
 
 1997年4月にテーマ音楽やコーナー構成などを大幅に見直している。この改編から朝の時間帯はフォーマット放送となった。朝の時間帯のコーナーオープニング音楽では、かつて[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた「[情報カレンダー](https://ja.wikipedia.org/wiki/情報カレンダー "wikilink")」のオープニングやエンディングが使われていた（ただしテレビ東京バージョンより長い）。
 
-1999年4月改編で報道枠を大幅に縮小し、早朝の『[白沢みきのモーニングTOKYO](../Page/白沢みきのモーニングTOKYO.md "wikilink")』（→『[TOKYOモーニングサプリ](../Page/TOKYOモーニングサプリ.md "wikilink")』）を中心として、日中の定時スポットニュース（→『[TOKYOアフタヌーンサプリ](https://ja.wikipedia.org/wiki/TOKYOアフタヌーンサプリ "wikilink")』）、夕方の『イブニングTOKYO』、夜間の『[東京NEWS21時](https://ja.wikipedia.org/wiki/東京NEWS21時 "wikilink")』（アンカーマンは[鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")、後の『[TOKYO MXニュース](https://ja.wikipedia.org/wiki/TOKYO_MX_NEWS "wikilink")』）等に再編されている。「東京NEWS」を名乗る番組が21時台の1時間のみとなり、特定時間帯の固有名詞となったことで、この時点で東京NEWSは終了したとみてよい。
+1999年4月改編で報道枠を大幅に縮小し、早朝の『[白沢みきのモーニングTOKYO](../Page/白沢みきのモーニングTOKYO.md "wikilink")』（→『[TOKYOモーニングサプリ](../Page/TOKYOモーニングサプリ.md "wikilink")』）を中心として、日中の定時スポットニュース（→『[TOKYOアフタヌーンサプリ](../Page/TOKYOアフタヌーンサプリ.md "wikilink")』）、夕方の『イブニングTOKYO』、夜間の『[東京NEWS21時](https://ja.wikipedia.org/wiki/東京NEWS21時 "wikilink")』（アンカーマンは[鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")、後の『[TOKYO MXニュース](../Page/TOKYO_MX_NEWS.md "wikilink")』）等に再編されている。「東京NEWS」を名乗る番組が21時台の1時間のみとなり、特定時間帯の固有名詞となったことで、この時点で東京NEWSは終了したとみてよい。
 
 ## アンカーパーソン
 
-  - [天野ひかり](https://ja.wikipedia.org/wiki/天野ひかり "wikilink")（平日22時の初代アンカー・土曜特集担当）
-  - [高瀬有紀子](https://ja.wikipedia.org/wiki/高瀬有紀子 "wikilink")
+  - [天野ひかり](../Page/天野ひかり.md "wikilink")（平日22時の初代アンカー・土曜特集担当）
+  - [高瀬有紀子](../Page/高瀬有紀子.md "wikilink")
   - [白沢みき](../Page/白沢みき.md "wikilink")
-  - [沼田靖子](https://ja.wikipedia.org/wiki/沼田靖子 "wikilink")
+  - [沼田靖子](../Page/沼田靖子.md "wikilink")
   - [川口佐枝子](../Page/川口佐枝子.md "wikilink")
-  - [古賀久美子](https://ja.wikipedia.org/wiki/古賀久美子 "wikilink")
-  - [坂本知子](https://ja.wikipedia.org/wiki/坂本知子 "wikilink")
+  - [古賀久美子](../Page/古賀久美子.md "wikilink")
+  - [坂本知子](../Page/坂本知子.md "wikilink")
   - [宮崎綾子](https://ja.wikipedia.org/wiki/宮崎綾子 "wikilink")
   - [谷岡理香](https://ja.wikipedia.org/wiki/谷岡理香 "wikilink")
   - [播磨谷美貴子](https://ja.wikipedia.org/wiki/播磨谷美貴子 "wikilink")
   - [地引美紀子](https://ja.wikipedia.org/wiki/地引美紀子 "wikilink")
   - [石川智徳](https://ja.wikipedia.org/wiki/石川智徳 "wikilink")
-  - [渡邊哲夫](https://ja.wikipedia.org/wiki/渡邊哲夫 "wikilink")
+  - [渡邊哲夫](../Page/渡邊哲夫.md "wikilink")
   - [薬師寺広](https://ja.wikipedia.org/wiki/薬師寺広 "wikilink")
   - [田中秀佳](https://ja.wikipedia.org/wiki/田中秀佳 "wikilink")
   - [塚本美也子](https://ja.wikipedia.org/wiki/塚本美也子 "wikilink")
   - [荒川(大輪)香菊](https://ja.wikipedia.org/wiki/荒川香菊 "wikilink")
   - [池戸美香](https://ja.wikipedia.org/wiki/池戸美香 "wikilink")
   - [奥野国英](https://ja.wikipedia.org/wiki/奥野国英 "wikilink")
-  - [原ゆう子](https://ja.wikipedia.org/wiki/原ゆう子 "wikilink")
+  - [原ゆう子](../Page/原ゆう子.md "wikilink")
   - [有馬孝榮](https://ja.wikipedia.org/wiki/有馬孝榮 "wikilink")
   - [宗宮修一](https://ja.wikipedia.org/wiki/宗宮修一 "wikilink")
 
@@ -87,11 +87,11 @@
 
 **開局 - 1996年3月**
 
-  - [DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")「[Run Around](https://ja.wikipedia.org/wiki/Teenage_Dream "wikilink")」(カラオケVer）（当初本編オープニング&随時、後に本編オープニングのみ）
+  - [DEEN](../Page/DEEN.md "wikilink")「[Run Around](https://ja.wikipedia.org/wiki/Teenage_Dream "wikilink")」(カラオケVer）（当初本編オープニング&随時、後に本編オープニングのみ）
 
 **1996年4月 - 10月**
 
-  - [鈴木雄大](https://ja.wikipedia.org/wiki/鈴木雄大 "wikilink")「僕の力をあげたい」（エンディング）
+  - [鈴木雄大](../Page/鈴木雄大.md "wikilink")「僕の力をあげたい」（エンディング）
 
 **1996年11月 - 1997年3月**
 
@@ -99,7 +99,7 @@
 
 **1997年4月 - 10月**
 
-  - [宇井かおり](https://ja.wikipedia.org/wiki/宇井かおり "wikilink")「悲しみに負けないで」（エンディング）
+  - [宇井かおり](../Page/宇井かおり.md "wikilink")「悲しみに負けないで」（エンディング）
 
 **1997年11月 - 1998年3月**
 
@@ -109,7 +109,7 @@
 
 この時間帯のみ東京都提供で、「東京NEWS」各パート毎に10分ずつ（たいていはそのパートの最後に）放送されていた。各パートとも、メイン企画と最後数分の「[TOKYOインフォメーション](https://ja.wikipedia.org/wiki/TOKYOインフォメーション "wikilink")」とから成る。1997年4月改編までは共通のオープニングタイトル・音楽があったが、この改編以後は各パート毎に独自映像・音楽のオープニングとなった。なおこのコーナー開始により、広域局の東京都提供番組の大半が95年10月改編で終了している。
 
-  - 「あなたの街から生中継」(7:50):1997年度オープニングは [アレサ・フランクリン](https://ja.wikipedia.org/wiki/アレサ・フランクリン "wikilink")「ステイ・オブ・フルーズ」
+  - 「あなたの街から生中継」(7:50):1997年度オープニングは [アレサ・フランクリン](../Page/アレサ・フランクリン.md "wikilink")「ステイ・オブ・フルーズ」
   - 「生活ガイドとうきょう」(12:50): 1997年度オープニングはCHERRY （シェリー、ジャパンイラストミュージック発売のCD）
   - 「都政出前講座」(20:45→18:15)
   - 「鼎談」(23:50)

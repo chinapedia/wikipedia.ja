@@ -10,7 +10,7 @@
   - [Aphex Twin](https://ja.wikipedia.org/wiki/エイフェックス・ツイン "wikilink")
   - [Biosphere](../Page/バイオスフィア_\(ミュージシャン\).md "wikilink")
   - [Ken Ishii](../Page/ケン・イシイ.md "wikilink")
-  - [C.J.Bolland](https://ja.wikipedia.org/wiki/CJボーランド "wikilink")
+  - [C.J.Bolland](../Page/CJボーランド.md "wikilink")
   - [Jaydee](https://ja.wikipedia.org/wiki/:en:Jaydee "wikilink")
   - [Model500/Juan Atkins](../Page/ホアン・アトキンス.md "wikilink")
   - [Sun Electric](https://ja.wikipedia.org/wiki/:en:Sun_Electric "wikilink")

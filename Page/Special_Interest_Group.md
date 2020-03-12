@@ -1,13 +1,13 @@
 > この記事は[Special Interest Group](https://ja.wikipedia.org/wiki/Special_Interest_Group)から翻訳されています。
 
 
-**Special Interest Group**とは、「特定の興味ある事柄について、その道の[専門家](https://ja.wikipedia.org/wiki/専門家 "wikilink")の考えを聞いたり、メンバー同士が互いに知識や情報を交換する場」のことである。略して**SIG**（シグ）とも呼ばれた。
+**Special Interest Group**とは、「特定の興味ある事柄について、その道の[専門家](../Page/専門家.md "wikilink")の考えを聞いたり、メンバー同士が互いに知識や情報を交換する場」のことである。略して**SIG**（シグ）とも呼ばれた。
 
 「Special Interest Group」という言葉そのものは一般的な名称だが、日本国内ではパソコン通信の[電子掲示板](../Page/電子掲示板.md "wikilink")を中心とする同好の士の集う場の意味として使われた。中でも[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")の運営する大手商用パソコン通信サービス[PC-VAN](../Page/PC-VAN.md "wikilink")がテーマ別のコミュニティシステムの名称として使ったことから、特に「PC-VAN内のコミュニティシステム」のことを意味する場合が多い（同様に、一般的な言葉が特定のサービスの名称として使われたものに、[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")におけるフォーラムがある）。PC-VANのSIGには、PC-VANの会員なら誰でもが参加できた。
 
 SIG の管理者を SIGOP （シグオペ、 SIG Operator ）という\[1\]。
 
-SIGという名称は[アスキーの運営する](../Page/アスキー_\(企業\).md "wikilink")[アスキーネット](https://ja.wikipedia.org/wiki/アスキーネット "wikilink")や[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")でも使われていたが、ここでは、PC-VANのSIGを例にとって解説する。
+SIGという名称は[アスキーの運営する](../Page/アスキー_\(企業\).md "wikilink")[アスキーネット](../Page/アスキーネット.md "wikilink")や[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")でも使われていたが、ここでは、PC-VANのSIGを例にとって解説する。
 
 ## 構成
 
@@ -58,7 +58,7 @@ SIG主宰者専用IDには、以下の機能が組み込まれていた。
 
 ### チアリSIGに関する用語の混乱
 
-PC-VANではSIGの責任者を「SIGOP」、アシスタントを「SUBOP」とすることが通例であり説明書にもその通り表記していたが、唯一の例外が著名ギタリストである[クロード・チアリ](https://ja.wikipedia.org/wiki/クロード・チアリ "wikilink")を中心としたチアリSIGであり、責任者を「SYSOP」、アシスタントを「SIGOP」という独自の呼称を用いていた。
+PC-VANではSIGの責任者を「SIGOP」、アシスタントを「SUBOP」とすることが通例であり説明書にもその通り表記していたが、唯一の例外が著名ギタリストである[クロード・チアリ](../Page/クロード・チアリ.md "wikilink")を中心としたチアリSIGであり、責任者を「SYSOP」、アシスタントを「SIGOP」という独自の呼称を用いていた。
 
 このためSIGOP（責任者）の書き込みの解釈をめぐって混乱が起きるなどの影響が出た。さらにSUBOP（アシスタント）の中にもSIGOP/SUBOPという他のSIGと同様の呼称を用いる者があり、この点も混乱に拍車をかけた。
 

@@ -1,7 +1,7 @@
 > この記事は[FITATM](https://ja.wikipedia.org/wiki/FITATM)から翻訳されています。
 
 
-**FITネットATM**（フィットネットエーティーエム）は、北陸地方の[福井銀行](../Page/福井銀行.md "wikilink")・[北國銀行](../Page/北國銀行.md "wikilink")と、[第二地方銀行](../Page/第二地方銀行.md "wikilink")の[富山第一銀行](../Page/富山第一銀行.md "wikilink")の合わせて3行が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")に業務提携締結の調印をした「[FITネット](https://ja.wikipedia.org/wiki/FITネット "wikilink")」による業務提携での一環として、3行との間の[ATM･CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。
+**FITネットATM**（フィットネットエーティーエム）は、北陸地方の[福井銀行](../Page/福井銀行.md "wikilink")・[北國銀行](../Page/北國銀行.md "wikilink")と、[第二地方銀行](../Page/第二地方銀行.md "wikilink")の[富山第一銀行](../Page/富山第一銀行.md "wikilink")の合わせて3行が[2005年](../Page/2005年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に業務提携締結の調印をした「[FITネット](https://ja.wikipedia.org/wiki/FITネット "wikilink")」による業務提携での一環として、3行との間の[ATM･CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。
 
 ## 概要
 
@@ -38,7 +38,7 @@
 
   - [コンビニATM](../Page/コンビニATM.md "wikilink")
       - 「[イーネット](../Page/イーネット.md "wikilink")」
-      - 「[ローソンATM](https://ja.wikipedia.org/wiki/ローソン銀行 "wikilink")」
+      - 「[ローソンATM](../Page/ローソン銀行.md "wikilink")」
 
 ## 備考
 
@@ -54,8 +54,8 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink") 「FITネットATM」のサービスが開始（当初は出金のみ）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")　相互入金の取り扱いを開始
+  - [2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") 「FITネットATM」のサービスが開始（当初は出金のみ）
+  - [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")　相互入金の取り扱いを開始
   - [2007年](../Page/2007年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink") 時間外手数料の無料化により、ATM出金が完全無料化
 
 ## 関連項目

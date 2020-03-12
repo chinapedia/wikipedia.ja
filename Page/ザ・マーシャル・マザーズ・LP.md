@@ -7,7 +7,7 @@
 
 ## 解説
 
-収録曲「[スタン(Stan)](https://ja.wikipedia.org/wiki/スタン_\(曲\) "wikilink")」は、[グウィネス・パルトロー](https://ja.wikipedia.org/wiki/グウィネス・パルトロー "wikilink")主演映画『スライディング・ドア』の主題歌にもなった、[ダイド](https://ja.wikipedia.org/wiki/ダイド "wikilink")の「Thank You」を大胆に[サンプリング](../Page/サンプリング.md "wikilink")し、狂気に満ちた[ファン](../Page/ファン.md "wikilink")の心情を歌詞に綴った。[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")ではダイドとの共演も果たした、最も有名な曲といえる。
+収録曲「[スタン(Stan)](https://ja.wikipedia.org/wiki/スタン_\(曲\) "wikilink")」は、[グウィネス・パルトロー](../Page/グウィネス・パルトロー.md "wikilink")主演映画『スライディング・ドア』の主題歌にもなった、[ダイド](https://ja.wikipedia.org/wiki/ダイド "wikilink")の「Thank You」を大胆に[サンプリング](../Page/サンプリング.md "wikilink")し、狂気に満ちた[ファン](../Page/ファン.md "wikilink")の心情を歌詞に綴った。[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")ではダイドとの共演も果たした、最も有名な曲といえる。
 
 「キム(Kim)」についてエミネムは、インタビューなどで元妻キンバリー・マザーズ（Kimberly Mathers）へのラブソングと発言しているが、イントロの娘（Hailey）への愛のささやきを除いて全編において怒りや侮辱の歌詞になっている。またキムは[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")（PV）が存在するがTVはもちろん[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の規制対象になっており一部過激な表現\[2\]に無音やモザイク加工されている。2018年にYouTubeで公開されたオフィシャル2019バージョンも過激な表現が出ないようにされている。
 
@@ -44,4 +44,4 @@
 [Category:エミネムのアルバム](https://ja.wikipedia.org/wiki/Category:エミネムのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")
 
 1.  [500 Greatest Albums of All Time: Eminem, 'The Marshall Mathers LP' | Rolling Stone](http://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/eminem-the-marshall-mathers-lp-19691231)
-2.  絞殺するシーンやトラックに向けて[ファックサイン](https://ja.wikipedia.org/wiki/ファックサイン "wikilink")をする等。
+2.  絞殺するシーンやトラックに向けて[ファックサイン](../Page/ファックサイン.md "wikilink")をする等。

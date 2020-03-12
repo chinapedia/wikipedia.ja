@@ -1,13 +1,13 @@
 > この記事は[L A piece of memories](https://ja.wikipedia.org/wiki/L_A_piece_of_memories)から翻訳されています。
 
 
-『**Lの季節 〜A piece of memories〜**』（エルのきせつ・ア ピース オブ メモリーズ）は、[トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")から[1999年](../Page/1999年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売された[プレイステーション用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にはベストプライス版（廉価版）が発売された。
+『**Lの季節 〜A piece of memories〜**』（エルのきせつ・ア ピース オブ メモリーズ）は、[トンキンハウス](../Page/トンキンハウス.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にはベストプライス版（廉価版）が発売された。
 
 ## 概要
 
 「現実界」「幻想界」と呼ばれる、それぞれ異なる主人公とヒロインが存在する二つの世界からなり、物語の冒頭でいずれかの主人公を選択する事でそれぞれの世界の物語が展開する。本作には作中の各所に設定されたポイントにおいて任意で使う事によりその後の選択肢の内容が変化し、物語の結末に影響を与える「**IPS**（口出しシステム）」を搭載。
 
-なお、[2001年](../Page/2001年.md "wikilink")には本作のキャラクターや世界観を踏襲した『[Missing Blue](https://ja.wikipedia.org/wiki/Missing_Blue "wikilink")』、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")から続編『[Lの季節2 invisible memories](https://ja.wikipedia.org/wiki/Lの季節2 "wikilink")』がそれぞれ発売され、[2009年](../Page/2009年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")には『Lの季節』及び『Lの季節2』の両作品をカップリング収録した[PSP用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『Lの季節　ダブルポケット』が発売された\[1\]。
+なお、[2001年](../Page/2001年.md "wikilink")には本作のキャラクターや世界観を踏襲した『[Missing Blue](../Page/Missing_Blue.md "wikilink")』、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月3日](../Page/7月3日.md "wikilink")に[5pb.](../Page/5pb..md "wikilink")から続編『[Lの季節2 invisible memories](https://ja.wikipedia.org/wiki/Lの季節2 "wikilink")』がそれぞれ発売され、[2009年](../Page/2009年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")には『Lの季節』及び『Lの季節2』の両作品をカップリング収録した[PSP用ソフト](../Page/PlayStation_Portable.md "wikilink")『Lの季節　ダブルポケット』が発売された\[1\]。
 
 ## あらすじ
 
@@ -28,20 +28,20 @@
     高等部2年生。上岡進のクラスメイトで、写真部だった彼を自らも所属する新聞部に誘い入れた。基本的にクールで自分の考えを毅然と主張し、相手によって態度が両極端になりがちな事から周囲の人々からは近寄りがたい印象を持たれているが、ごく親しい人々に対しては明るく優しい面を見せる。理数系を得意とし、虫の観察とカメラが趣味。
     『Missing Blue』『Lの季節2 invisible memories』にも登場。
   - 星原 百合（ほしはら ゆり）
-    声：[柳原みわ](https://ja.wikipedia.org/wiki/星河舞 "wikilink")
+    声：[柳原みわ](../Page/星河舞.md "wikilink")
     高等部2年生。かつては快活な性格だったが、一年前に学園内で起きた事件を境に心を閉ざしたように寡黙になり、他人と距離を置くようになった。一人で本を読んでいるか屋上にいる事が多く、そんな姿を訝しむ人々を中心に彼女が連続意識喪失事件に関わっているのではないかと噂されている。
     『Missing Blue』『Lの季節2 invisible memories』にも登場。
   - 弓倉 亜希子（ゆみくら あきこ）
-    声：[中川亜紀子](https://ja.wikipedia.org/wiki/中川亜紀子 "wikilink")
+    声：[中川亜紀子](../Page/中川亜紀子.md "wikilink")
     高等部2年生。上岡進のクラスメイトで東由利鼓の親友。気の弱い面はあるが家庭的でおっとりしていて友達思い、癖のあるロングヘアと優れた記憶力の持ち主。両親は海外で働いており、中等部に在籍する妹のさやかと二人暮らし。そんな家庭環境と妹の将来の事で悩んでいる。
   - 東由利 鼓（ひがしゆり つづみ）
-    声：[柊美冬](https://ja.wikipedia.org/wiki/石村知子 "wikilink")
+    声：[柊美冬](../Page/石村知子.md "wikilink")
     高等部2年生。上岡進のクラスメイトで弓倉亜希子の親友。快活で喜怒哀楽がはっきりしている反面、思いこみが激しく一人で突っ走っては周囲の人々を振り回す事もしばしば。陸上部に所属し、趣味は読書と噂話。新聞のネタを探す進への協力と自身の問題の解決を兼ねて進、亜希子と共に学園の七不思議を追う事になる。
   - 弓倉 さやか（ゆみくら さやか）
     声：[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")
     中等部2年生で、弓倉亜希子の妹。性格は姉とは全く違い快活で人懐っこく自信家だが、気分屋でわがまま、甘えん坊な面もある。成績は学内トップクラスで、吹奏楽部に所属（トロンボーン担当）。趣味は小物集め。
   - 草壁 湊（くさかべ みなと）
-    声：[紗ゆり](https://ja.wikipedia.org/wiki/紗ゆり "wikilink")
+    声：[紗ゆり](../Page/紗ゆり.md "wikilink")
     高等部の教諭で物理を担当。いつもマイペース、ぶっきらぼうで気だるげな振る舞いから、学内では変わり者と見られているが、生徒思いで一部の女子生徒の間ではカルト的人気を得ている。聖遼学園のOGであり、「自立と自由」を教育方針としている。
   - 鵜野杜 椎奈（うのもり しいな）
     声：[桑島法子](../Page/桑島法子.md "wikilink")
@@ -77,17 +77,17 @@
     中等部2年生。小さな体に不釣合いな程の大鎌を携え、守護精霊のツチノコ「ぽち」を連れた死神族の女の子。自身の気の弱さと、優秀な兄である聖邪に対するコンプレックスに悩んでいる。美術部に所属しており、絵の腕前はコンクールで賞を取ったほど。
     『Missing Blue』『Lの季節2 invisible memories』にも登場。
   - 湖潤リリス（こうるい リリス）
-    声：[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+    声：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
     高等部1年生で、音楽室のピアノを依代とする音楽の妖精。力のある音楽を聴くことによって人間の姿へと成長することができるが、未だそこまでには至っておらず性格も無邪気で子供っぽい。桐生真の音楽に目をつけ、彼の音楽から力を得ようと付きまとう。
   - 氷狩 吹雪（ひかり ふぶき）
-    声：[生駒治美](https://ja.wikipedia.org/wiki/生駒治美 "wikilink")
+    声：[生駒治美](../Page/生駒治美.md "wikilink")
     高等部2年生で空手部の主将。褐色の肌と赤い瞳、鎖でまとめた銀色の髪を持つ雪妖族（いわゆる雪女）。その鋭い眼差しや凛とした佇まいに惹かれる女子生徒は多く、取り巻きがいるほど。2年前のとある事件に関わった舞波聖邪を嫌っており、桐生真とも折り合いが悪い。
   - 霧城 七衣（きりしろ なない）
     声：[鈴木真仁](../Page/鈴木真仁.md "wikilink")
     高等部1年生で図書委員。かつて魔水晶に魅入られた霧城昂によって生み出された、二次元と三次元を行き来出来るという極めて特異な魔法生命体『絵の中の少女』。性格はマイペースでおっとりしており、基本的に絵の世界の住人であるためか三次元（絵の外）の世界への関心は薄く、漫画ばかりを読みふけっている。
     『Lの季節2 invisible memories』にも登場。
   - エリザ・ノインテーター
-    声-[山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+    声-[山口由里子](../Page/山口由里子.md "wikilink")
     聖遼学園を運営するヴァンパイア族の名門ノインテーター家の息女で、病床に伏す父に代わり理事長代理を務めている。容姿端麗で気さくな為か男子生徒達の人気は高い。かつて問題を起こした桐生真を庇った事もあり、彼にとって頭の上がらない人物の一人。
   - リ・サ
     声：[山本麻里安](../Page/山本麻里安.md "wikilink")
@@ -126,23 +126,23 @@
 
 ## スタッフ
 
-  - キャラクターデザイン：[渡辺明夫](https://ja.wikipedia.org/wiki/渡辺明夫 "wikilink")
+  - キャラクターデザイン：[渡辺明夫](../Page/渡辺明夫.md "wikilink")
   - プロデューサー：盛政樹
   - シナリオ：石川克世
   - 企画：小山芳之
 
 ### 主題歌
 
-  - オープニングテーマ「手ごたえのない愛」（[Amemura O-town Record](https://ja.wikipedia.org/wiki/Amemura_O-town_Record "wikilink")）
+  - オープニングテーマ「手ごたえのない愛」（[Amemura O-town Record](../Page/Amemura_O-town_Record.md "wikilink")）
     作詞/作曲/歌：[小松未歩](../Page/小松未歩.md "wikilink")・編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
-    1998年、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")に提供した曲のセルフカバー。アルバム「[小松未歩 2nd 〜未来〜](https://ja.wikipedia.org/wiki/小松未歩_2nd_〜未来〜 "wikilink")」に収録。
+    1998年、[DEEN](../Page/DEEN.md "wikilink")に提供した曲のセルフカバー。アルバム「[小松未歩 2nd 〜未来〜](../Page/小松未歩_2nd_〜未来〜.md "wikilink")」に収録。
 
 ## 関連商品
 
 ### 書籍
 
   - 公式攻略ガイド（攻略本：[1999年](../Page/1999年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売）
-    発行：[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")
+    発行：[メディアワークス](../Page/メディアワークス.md "wikilink")
   - パーフェクトリファレンス（攻略本：[1999年](../Page/1999年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")発売）
     発行：[ソフトバンクパブリッシング](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")
   - ビジュアルファンブック（[2000年](../Page/2000年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")発売）
@@ -222,7 +222,7 @@
     幻想界2本（1話、4話）、現実界2本（2話、3話）、複合編1本（5話）、座談会（6話）の6編からなり、オリジナルキャラクターも登場する。
   - 出演
     舞波優希、星原百合、天羽碧、東由利鼓、弓倉亜希子、弓倉さやか、湖潤リリス、霧城七衣、舞波聖邪、鵜野杜椎奈、川鍋宗治、
-    静子（[小田木美恵](https://ja.wikipedia.org/wiki/小田木美恵 "wikilink")）、博史/月守（[出口佳代](https://ja.wikipedia.org/wiki/出口佳代 "wikilink")）、弦田/ルーズ（[松田佑貴](https://ja.wikipedia.org/wiki/松田佑貴 "wikilink")）、才輝（[山口隆行](https://ja.wikipedia.org/wiki/山口隆行 "wikilink")）、博士/指揮者（[宗矢樹頼](https://ja.wikipedia.org/wiki/宗矢樹頼 "wikilink")）、音楽教師（[川島得愛](https://ja.wikipedia.org/wiki/川島得愛 "wikilink")）
+    静子（[小田木美恵](https://ja.wikipedia.org/wiki/小田木美恵 "wikilink")）、博史/月守（[出口佳代](https://ja.wikipedia.org/wiki/出口佳代 "wikilink")）、弦田/ルーズ（[松田佑貴](../Page/松田佑貴.md "wikilink")）、才輝（[山口隆行](../Page/山口隆行.md "wikilink")）、博士/指揮者（[宗矢樹頼](../Page/宗矢樹頼.md "wikilink")）、音楽教師（[川島得愛](https://ja.wikipedia.org/wiki/川島得愛 "wikilink")）
     ※ （）内はオリジナルキャラクターの声優
     {| style="width:50%"
 
@@ -257,4 +257,4 @@
 
 [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:トンキンハウスのゲームソフト](https://ja.wikipedia.org/wiki/Category:トンキンハウスのゲームソフト "wikilink")
 
-1.  [トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")のゲーム事業からの撤退にともない、一部の元スタッフが所属する[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")がトンキンハウスとのライセンス契約により開発。
+1.  [トンキンハウス](../Page/トンキンハウス.md "wikilink")のゲーム事業からの撤退にともない、一部の元スタッフが所属する[5pb.](../Page/5pb..md "wikilink")がトンキンハウスとのライセンス契約により開発。

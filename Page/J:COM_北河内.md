@@ -28,7 +28,7 @@
       - 「●」は視聴可能。
       - 「×」は視聴不可。
       - 「?」は不明。
-  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")現在。
+  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](../Page/1月1日.md "wikilink")現在。
 
 <table>
 <thead>
@@ -40,7 +40,7 @@
 キ<br />
 </a></p></th>
 <th><p>三桁<br />
-<a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
+<a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
 <th><p>放送局</p></th>
 <th><p>伝送方式</p></th>
 <th><p>備考</p></th>
@@ -58,7 +58,7 @@
 <td><p>1</p></td>
 <td><p>011<br />
 012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a>・<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a>・<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
 <td><p>●</p></td>
 <td><p>?</p></td>
 </tr>
@@ -67,7 +67,7 @@
 <td><p>021<br />
 022<br />
 023</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHKEテレ大阪</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHKEテレ大阪</a></p></td>
 <td><p>●</p></td>
 <td><p>?</p></td>
 </tr>
@@ -150,18 +150,18 @@
 
 ### FMラジオ
 
-  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")現在。
+  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[1月1日](../Page/1月1日.md "wikilink")現在。
 
-| MHz  | 放送局                                                                                                                                                | 備考 |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| 77.1 | [Kiss FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")                                                                                  |    |
-| 79.6 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大阪](../Page/NHK大阪放送局.md "wikilink")-[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |    |
-| 80.9 | [FM HANAKO](https://ja.wikipedia.org/wiki/エフエムもりぐち "wikilink")                                                                                     |    |
-| 82.5 | [FM OSAKA](../Page/エフエム大阪.md "wikilink")                                                                                                           |    |
-| 83.3 | [FM COCOLO](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")                                                                                   |    |
-| 84.5 | [FM802](../Page/FM802.md "wikilink")                                                                                                               |    |
-| 85.9 | [α-station](../Page/エフエム京都.md "wikilink")                                                                                                          |    |
-|      |                                                                                                                                                    |    |
+| MHz  | 放送局                                                                                                                             | 備考 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 77.1 | [Kiss FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")                                                               |    |
+| 79.6 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大阪](../Page/NHK大阪放送局.md "wikilink")-[FM](../Page/NHK-FM放送.md "wikilink") |    |
+| 80.9 | [FM HANAKO](../Page/エフエムもりぐち.md "wikilink")                                                                                     |    |
+| 82.5 | [FM OSAKA](../Page/エフエム大阪.md "wikilink")                                                                                        |    |
+| 83.3 | [FM COCOLO](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")                                                                |    |
+| 84.5 | [FM802](../Page/FM802.md "wikilink")                                                                                            |    |
+| 85.9 | [α-station](../Page/エフエム京都.md "wikilink")                                                                                       |    |
+|      |                                                                                                                                 |    |
 
 ### BSデジタル放送・専門チャンネル
 
@@ -190,7 +190,7 @@
               - [J:COM 南大阪](https://ja.wikipedia.org/wiki/J:COM_南大阪 "wikilink")
               - [J:COM 大阪セントラル](https://ja.wikipedia.org/wiki/J:COM_大阪セントラル "wikilink")
               - [J:COM 北摂](../Page/J:COM_北摂.md "wikilink")
-              - [J:COM 京都みやびじょん](https://ja.wikipedia.org/wiki/J:COM_京都みやびじょん "wikilink")
+              - [J:COM 京都みやびじょん](../Page/J:COM_京都みやびじょん.md "wikilink")
               - [J:COM 神戸・芦屋](https://ja.wikipedia.org/wiki/J:COM_神戸・芦屋 "wikilink")
               - [J:COM 神戸・三木](../Page/J:COM_神戸・三木.md "wikilink")
               - [J:COM 吹田](https://ja.wikipedia.org/wiki/J:COM_吹田 "wikilink")
@@ -202,7 +202,7 @@
   - [一般社団法人日本ケーブルテレビ連盟](../Page/日本ケーブルテレビ連盟.md "wikilink")
   - [一般社団法人日本CATV技術協会](../Page/日本CATV技術協会.md "wikilink")
   - [一般社団法人日本ケーブルラボ](../Page/日本ケーブルラボ.md "wikilink")
-  - [エフエムもりぐち](https://ja.wikipedia.org/wiki/エフエムもりぐち "wikilink")
+  - [エフエムもりぐち](../Page/エフエムもりぐち.md "wikilink")
 
 ## 外部リンク
 

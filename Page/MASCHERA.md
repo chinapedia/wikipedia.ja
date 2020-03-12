@@ -7,11 +7,11 @@
 
 バンド名は、[イタリア語](../Page/イタリア語.md "wikilink")で『[仮面](https://ja.wikipedia.org/wiki/仮面#仮装用マスク（仮面・覆面等） "wikilink")』（[:it:Maschera](https://ja.wikipedia.org/wiki/:it:Maschera "wikilink")）という意味を持つ。
 
-[1992年](../Page/1992年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に結成。インディーズ時代は、出身地である[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")を主な活動拠点としていた。
+[1992年](../Page/1992年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に結成。インディーズ時代は、出身地である[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")を主な活動拠点としていた。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")、シングル「ゆらり」で[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")に所属しデビューしたヴィジュアル系バンドとしては二組目である。(一組目はNA-ZE?)　また、[1999年](../Page/1999年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から翌年9月まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[@llnightnippon.com](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink") MASCHERA 人力鉄道』の[パーソナリティに選出される](../Page/ラジオパーソナリティ.md "wikilink")。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")、シングル「ゆらり」で[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[ホリプロ](../Page/ホリプロ.md "wikilink")に所属しデビューしたヴィジュアル系バンドとしては二組目である。(一組目はNA-ZE?)　また、[1999年](../Page/1999年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から翌年9月まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink") MASCHERA 人力鉄道』の[パーソナリティに選出される](../Page/ラジオパーソナリティ.md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")での公演をもって解散。
+[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")での公演をもって解散。
 
 [2012年](../Page/2012年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")、[O-WEST](https://ja.wikipedia.org/wiki/O-WEST "wikilink")にて一夜限りの復活ライブを行った\[1\]。
 
@@ -24,7 +24,7 @@
 <!-- end list -->
 
   -
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。現[S.Q.F](https://ja.wikipedia.org/wiki/S.Q.F "wikilink")のメンバー。2018年に元[ALvino](https://ja.wikipedia.org/wiki/ALvino "wikilink")のKOJIと共にALICE IN MENSWEAR を結成。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。現[S.Q.F](https://ja.wikipedia.org/wiki/S.Q.F "wikilink")のメンバー。2018年に元[ALvino](../Page/ALvino.md "wikilink")のKOJIと共にALICE IN MENSWEAR を結成。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。解散後、2000年にT.O.S.Sを結成。2003年に体当たり戦士ボディーアタックに加入、2006年に解散し、TAOを結成。現在は引退。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。解散後、2000年にT.O.S.Sを結成。2003年に体当たり戦士ボディーアタックに加入、2006年に解散し、TAOを結成。現在は引退。
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@
 <li>NO RETURN</li>
 <li>[ékou](Back Track Version)</li>
 </ol></td>
-<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/ドンウォリー!" title="wikilink">ドンウォリー!</a>』主題歌<br />
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系ドラマ</a>『<a href="../Page/ドンウォリー!.md" title="wikilink">ドンウォリー!</a>』主題歌<br />
 オリコン最高34位</p></td>
 </tr>
 <tr class="even">

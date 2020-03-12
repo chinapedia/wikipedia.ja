@@ -1,23 +1,23 @@
 > この記事は[Rino](https://ja.wikipedia.org/wiki/Rino)から翻訳されています。
 
 
-**rino**（りの、[9月19日](../Page/9月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")出身。[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")「**[CooRie](https://ja.wikipedia.org/wiki/CooRie "wikilink")**」の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[乙女座](../Page/処女宮.md "wikilink")。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[Lantis](https://ja.wikipedia.org/wiki/ランティス "wikilink")・Peak A Soul+所属。
+**rino**（りの、[9月19日](../Page/9月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")出身。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[CooRie](../Page/CooRie.md "wikilink")**」の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[乙女座](../Page/処女宮.md "wikilink")。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[Lantis](../Page/ランティス.md "wikilink")・Peak A Soul+所属。
 
 ## 概要・人物
 
-**rino**名義と、自身の所属しているユニット**[CooRie](https://ja.wikipedia.org/wiki/CooRie "wikilink")**名義（[長田直之](https://ja.wikipedia.org/wiki/長田直之 "wikilink")脱退後、ソロプロジェクトとして活動）を併用していたが、2007年以降に発表された曲はほとんどCooRie名義である。但し、楽曲提供の際にはrino名義を多用している。他にもMEGUMI名義で「君が望む永遠」（後にCooRieのカバーアルバム『[木漏れ日カレンダー](../Page/木漏れ日カレンダー.md "wikilink")』に収録）という曲も作られている。プリンスという猫を飼っている。[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")や[栗林みな実](../Page/栗林みな実.md "wikilink")と仲が良い。
+**rino**名義と、自身の所属しているユニット**[CooRie](../Page/CooRie.md "wikilink")**名義（[長田直之](https://ja.wikipedia.org/wiki/長田直之 "wikilink")脱退後、ソロプロジェクトとして活動）を併用していたが、2007年以降に発表された曲はほとんどCooRie名義である。但し、楽曲提供の際にはrino名義を多用している。他にもMEGUMI名義で「君が望む永遠」（後にCooRieのカバーアルバム『[木漏れ日カレンダー](../Page/木漏れ日カレンダー.md "wikilink")』に収録）という曲も作られている。プリンスという猫を飼っている。[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")や[栗林みな実](../Page/栗林みな実.md "wikilink")と仲が良い。
 
 ## シングル
 
-|     | 発売日                                                                                       | 作品名                                                                                 |
-| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1st | [2003年](../Page/2003年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")                | **僕はここにいる**                                                                         |
-| 2nd | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月7日](../Page/6月7日.md "wikilink") | [ダ・カーポII 〜あさきゆめみし君と〜](https://ja.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜 "wikilink") |
+|     | 発売日                                                                        | 作品名                                                              |
+| --- | -------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 1st | [2003年](../Page/2003年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink") | **僕はここにいる**                                                      |
+| 2nd | [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")     | [ダ・カーポII 〜あさきゆめみし君と〜](../Page/ダ・カーポII_〜あさきゆめみし君と〜.md "wikilink") |
 
 ## コンピレーション参加作品
 
   -
-    ここではrino名義の曲を掲載する。[CooRie](https://ja.wikipedia.org/wiki/CooRie "wikilink")名義についてはそちらのページを参照。
+    ここではrino名義の曲を掲載する。[CooRie](../Page/CooRie.md "wikilink")名義についてはそちらのページを参照。
 
 | 発売日                                                                                           | 作品名                                                                                         | 収録曲                          |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -34,7 +34,7 @@
 | 夢色のため息                                                                                        |                                                                                             |                              |
 | 2004年[4月7日](../Page/4月7日.md "wikilink")                                                       | D.C.P.S.C.S.1                                                                               | Eternal love 〜眩しい季節〜         |
 | 2004年[4月10日](../Page/4月10日.md "wikilink")                                                     | そこに海があって オリジナルサウンドトラック                                                                      | For You                      |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")   | [crystal2](https://ja.wikipedia.org/wiki/crystal2_〜サーカス_ヴォーカルコレクション〜_Vol.2 "wikilink")      | 明日の風                         |
+| [2005年](../Page/2005年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")                      | [crystal2](https://ja.wikipedia.org/wiki/crystal2_〜サーカス_ヴォーカルコレクション〜_Vol.2 "wikilink")      | 明日の風                         |
 | Aries                                                                                         |                                                                                             |                              |
 | 2005年[4月28日](../Page/4月28日.md "wikilink")                                                     | [School Days VOCAL ALBUM](https://ja.wikipedia.org/wiki/School_Days_VOCAL_ALBUM "wikilink") | 二人のクリスマス                     |
 | 2005年7月21日                                                                                    | Gift ボーカルミニアルバム                                                                             | 七色パレット                       |
@@ -57,37 +57,37 @@
 
 ### タイアップ
 
-| 曲名                                                                                                                | タイアップ                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dream 〜The ally of〜                                                                                               | [パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜 "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")            |
-| [PlayStation 2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション』エンディングテーマ |                                                                                                                                                                                     |
-| パソコンゲーム『D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション』エンディングテーマ                                                                   |                                                                                                                                                                                     |
-| DVDプレイヤーズゲーム『D.C. 〜ダ・カーポ〜 DVD Players Game』エンディングテーマ                                                              |                                                                                                                                                                                     |
-| PlayStation 2ゲーム『D.C. 〜ダ・カーポ〜 the Origin』エンディングテーマ                                                                |                                                                                                                                                                                     |
-| PSPゲーム『D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル』エンディングテーマ                                                  |                                                                                                                                                                                     |
-| こころの笑顔                                                                                                            | パソコンゲーム『D.C. 〜ダ・カーポ〜』イメージソング                                                                                                                                                        |
-| Small Cherry 〜promised bell〜                                                                                      | パソコンゲーム『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")                                      |
-| White Season                                                                                                      | パソコンゲーム『[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](https://ja.wikipedia.org/wiki/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜 "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
-| Fragment 〜Thought to wish to the starlit sky〜                                                                     | パソコンゲーム『[水夏](../Page/水夏.md "wikilink")』サブエンディングテーマ                                                                                                                                  |
-| The first scenery                                                                                                 | パソコンゲーム『[Infantaria](https://ja.wikipedia.org/wiki/Infantaria "wikilink")XP』オープニングテーマ                                                                                               |
-| My Wish                                                                                                           | パソコンゲーム『アイコン 〜Icon〜』エンディングテーマ                                                                                                                                                       |
-| 雨のち晴れ                                                                                                             | テレビアニメ『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")』挿入歌                                                                                            |
-| 木漏れ日のウインク                                                                                                         |                                                                                                                                                                                     |
-| 特別な予感                                                                                                             |                                                                                                                                                                                     |
-| 夢色のため息                                                                                                            |                                                                                                                                                                                     |
-| 僕はここにいる                                                                                                           | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『\[\[金色のガッシュ                                                                                                               |
-| 約束の星                                                                                                              |                                                                                                                                                                                     |
-| Eternal love 〜眩しい季節〜                                                                                              | パソコンゲーム『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』挿入歌                                                                                      |
-| 明日の風                                                                                                              | パソコンゲーム『[D.C. Summer Vacation 〜ダ・カーポ サマーバケーション〜](https://ja.wikipedia.org/wiki/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜 "wikilink")』挿入歌                                               |
-| Aries                                                                                                             | パソコンゲーム『[Aries LoveDream/Aries PureDream](https://ja.wikipedia.org/wiki/Aries#Aries_Puredream/LoveDream "wikilink")』オープニングテーマ                                                       |
-| 二人のクリスマス                                                                                                          | パソコンゲーム『[School Days](https://ja.wikipedia.org/wiki/School_Days "wikilink")』[クリスマス・イヴ](https://ja.wikipedia.org/wiki/クリスマス・イヴ "wikilink")ルート・グランドエンディングテーマ                          |
-| 七色パレット                                                                                                            | パソコンゲーム『[Gift 〜ギフト〜](https://ja.wikipedia.org/wiki/Gift_〜ギフト〜 "wikilink")』エンディングテーマ                                                                                                 |
-| 夕顔とオレンジ雲                                                                                                          | テレビアニメ『[D.C.S.S. 〜ダ・カーポ セカンドシーズン〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\)#D.C.S.S._〜ダ・カーポ_セカンドシーズン〜 "wikilink")』挿入歌                                                     |
-| 闇に揺れる陽だまり                                                                                                         |                                                                                                                                                                                     |
-| アンダンテ                                                                                                             |                                                                                                                                                                                     |
-| 胸に散る時の葉                                                                                                           |                                                                                                                                                                                     |
-| Spring has come                                                                                                   | パソコンゲーム『[D.C.II 〜ダ・カーポII〜](https://ja.wikipedia.org/wiki/D.C.II_〜ダ・カーポII〜 "wikilink")』エンディングテーマ                                                                                     |
-| ラブソングを君に                                                                                                          | PlayStation 2『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")』エンディングテーマ                                             |
+| 曲名                                                                                                                | タイアップ                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dream 〜The ally of〜                                                                                               | [パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")             |
+| [PlayStation 2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション』エンディングテーマ |                                                                                                                                                |
+| パソコンゲーム『D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション』エンディングテーマ                                                                   |                                                                                                                                                |
+| DVDプレイヤーズゲーム『D.C. 〜ダ・カーポ〜 DVD Players Game』エンディングテーマ                                                              |                                                                                                                                                |
+| PlayStation 2ゲーム『D.C. 〜ダ・カーポ〜 the Origin』エンディングテーマ                                                                |                                                                                                                                                |
+| PSPゲーム『D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル』エンディングテーマ                                                  |                                                                                                                                                |
+| こころの笑顔                                                                                                            | パソコンゲーム『D.C. 〜ダ・カーポ〜』イメージソング                                                                                                                   |
+| Small Cherry 〜promised bell〜                                                                                      | パソコンゲーム『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink") |
+| White Season                                                                                                      | パソコンゲーム『[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](../Page/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")  |
+| Fragment 〜Thought to wish to the starlit sky〜                                                                     | パソコンゲーム『[水夏](../Page/水夏.md "wikilink")』サブエンディングテーマ                                                                                             |
+| The first scenery                                                                                                 | パソコンゲーム『[Infantaria](../Page/Infantaria.md "wikilink")XP』オープニングテーマ                                                                             |
+| My Wish                                                                                                           | パソコンゲーム『アイコン 〜Icon〜』エンディングテーマ                                                                                                                  |
+| 雨のち晴れ                                                                                                             | テレビアニメ『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")』挿入歌                                                       |
+| 木漏れ日のウインク                                                                                                         |                                                                                                                                                |
+| 特別な予感                                                                                                             |                                                                                                                                                |
+| 夢色のため息                                                                                                            |                                                                                                                                                |
+| 僕はここにいる                                                                                                           | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『\[\[金色のガッシュ                                                                          |
+| 約束の星                                                                                                              |                                                                                                                                                |
+| Eternal love 〜眩しい季節〜                                                                                              | パソコンゲーム『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』挿入歌                                                 |
+| 明日の風                                                                                                              | パソコンゲーム『[D.C. Summer Vacation 〜ダ・カーポ サマーバケーション〜](../Page/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜.md "wikilink")』挿入歌                             |
+| Aries                                                                                                             | パソコンゲーム『[Aries LoveDream/Aries PureDream](https://ja.wikipedia.org/wiki/Aries#Aries_Puredream/LoveDream "wikilink")』オープニングテーマ                  |
+| 二人のクリスマス                                                                                                          | パソコンゲーム『[School Days](../Page/School_Days.md "wikilink")』[クリスマス・イヴ](https://ja.wikipedia.org/wiki/クリスマス・イヴ "wikilink")ルート・グランドエンディングテーマ        |
+| 七色パレット                                                                                                            | パソコンゲーム『[Gift 〜ギフト〜](../Page/Gift_〜ギフト〜.md "wikilink")』エンディングテーマ                                                                               |
+| 夕顔とオレンジ雲                                                                                                          | テレビアニメ『[D.C.S.S. 〜ダ・カーポ セカンドシーズン〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\)#D.C.S.S._〜ダ・カーポ_セカンドシーズン〜 "wikilink")』挿入歌                |
+| 闇に揺れる陽だまり                                                                                                         |                                                                                                                                                |
+| アンダンテ                                                                                                             |                                                                                                                                                |
+| 胸に散る時の葉                                                                                                           |                                                                                                                                                |
+| Spring has come                                                                                                   | パソコンゲーム『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』エンディングテーマ                                                                   |
+| ラブソングを君に                                                                                                          | PlayStation 2『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")』エンディングテーマ        |
 
 ## 楽曲提供
 
@@ -133,7 +133,7 @@
       - [ふたりぼっち](https://ja.wikipedia.org/wiki/ふたりぼっち/モノクローム "wikilink")
       - モノクローム
       - [エチュード](../Page/エチュード_\(中原麻衣の曲\).md "wikilink")
-  - [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+  - [野川さくら](../Page/野川さくら.md "wikilink")
       - [マーブル恋譜](../Page/風色恋譜.md "wikilink")
       - 君と私と想いの先へ（作詞）
       - 未来Walker（作曲）
@@ -146,7 +146,7 @@
       - 夢見るままに恋をして（作詞）
   - [飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")
       - 君といた日々（作曲）
-  - [南條愛乃](https://ja.wikipedia.org/wiki/南條愛乃 "wikilink")
+  - [南條愛乃](../Page/南條愛乃.md "wikilink")
       - [Precious time](https://ja.wikipedia.org/wiki/君が笑む夕暮れ "wikilink")（作曲）
   - [yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")
       - Precious time（作詞）※上記のものとは同名異曲
@@ -159,7 +159,7 @@
 
   - [アイドルマスター XENOGLOSSIA](../Page/アイドルマスター_XENOGLOSSIA.md "wikilink")
       - 夏空のブローチ
-  - [あそびにいくヨ\!](https://ja.wikipedia.org/wiki/あそびにいくヨ! "wikilink")
+  - [あそびにいくヨ\!](../Page/あそびにいくヨ!.md "wikilink")
       - 心の窓辺にて
       - 想い出がジャマをする
       - Happy Sunshine
@@ -172,7 +172,7 @@
       - Another Letter
       - 君にサプライズ
       - サヨナラのために
-  - [ケータイ少女](https://ja.wikipedia.org/wiki/ケータイ少女 "wikilink")
+  - [ケータイ少女](../Page/ケータイ少女.md "wikilink")
       - 恋速ジェット（作詞）
   - [咲-Saki-](../Page/咲-Saki-.md "wikilink")
       - [残酷な願いの中で](https://ja.wikipedia.org/wiki/熱烈歓迎わんだーらんど "wikilink")（作曲）
@@ -181,7 +181,7 @@
       - 優しさの雫
       - だって、家族だもん！
       - Delicious Smile
-  - [宙のまにまに](https://ja.wikipedia.org/wiki/宙のまにまに "wikilink")
+  - [宙のまにまに](../Page/宙のまにまに.md "wikilink")
       - [Super Noisy Nova](https://ja.wikipedia.org/wiki/Super_Noisy_Nova "wikilink")（作曲）
   - [大正野球娘。](https://ja.wikipedia.org/wiki/大正野球娘。 "wikilink")
       - [浪漫ちっくストライク。](https://ja.wikipedia.org/wiki/浪漫ちっくストライク。 "wikilink")（作詞）
@@ -212,10 +212,10 @@
   - [ひだまりスケッチ](https://ja.wikipedia.org/wiki/ひだまりスケッチ_\(アニメ\) "wikilink")
       - [妄想クロッキー](https://ja.wikipedia.org/wiki/ひだまりスケッチのディスコグラフィ "wikilink")（作詞）
       - 美味ロック（作詞）
-  - [Φなる・あぷろーち](https://ja.wikipedia.org/wiki/Φなる・あぷろーち "wikilink")
+  - [Φなる・あぷろーち](../Page/Φなる・あぷろーち.md "wikilink")
       - [君色パレット](../Page/君色パレット.md "wikilink")（作詞）
       - 涙のティアラ（作詞）
-  - [マビノ×スタイル](https://ja.wikipedia.org/wiki/マビノ×スタイル "wikilink")
+  - [マビノ×スタイル](../Page/マビノ×スタイル.md "wikilink")
       - 風のブランコ
   - [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")
       - Bitter Bitter Sweet（作詞）
@@ -235,7 +235,7 @@
 
 ### ゲーム
 
-  - [D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](https://ja.wikipedia.org/wiki/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ "wikilink")
+  - [D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](../Page/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ.md "wikilink")
       - 永遠の願い
   - [D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション](../Page/D.C.II_Spring_Celebration_〜ダ・カーポII〜_スプリング_セレブレイション.md "wikilink")
       - with 〜輝きのフィルム〜

@@ -5,13 +5,13 @@
 
 ## 概要
 
-  - [1996年](../Page/1996年.md "wikilink")11月に[藤田幸也](https://ja.wikipedia.org/wiki/藤田幸也 "wikilink")が、[D≒SIRE](https://ja.wikipedia.org/wiki/D≒SIRE "wikilink")、BLÜEの所属レーベルとして設立した\[1\]。後に狂舞\[2\]、Rayなど、主に[大阪出身のソフトヴィジュアル系バンドが所属する](../Page/大阪府.md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月12日には、レーベル設立10周年記念GIG「Kreis／Tokyo」を[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")で開催した\[3\]。
+  - [1996年](../Page/1996年.md "wikilink")11月に[藤田幸也](https://ja.wikipedia.org/wiki/藤田幸也 "wikilink")が、[D≒SIRE](../Page/D≒SIRE.md "wikilink")、BLÜEの所属レーベルとして設立した\[1\]。後に狂舞\[2\]、Rayなど、主に[大阪出身のソフトヴィジュアル系バンドが所属する](../Page/大阪府.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")11月12日には、レーベル設立10周年記念GIG「Kreis／Tokyo」を[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で開催した\[3\]。
   - [2007年](../Page/2007年.md "wikilink")、JILS解散に伴いKreisの活動を事実上停止することをYUKIYAが発表。現在YUKIYAは[TMF RECORDS内に新レーベルKranzeを設立している](https://ja.wikipedia.org/wiki/TMF_RECORDS "wikilink")\[4\]。
 
 ## 所属バンド
 
-  - [JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")（解散）
+  - [JILS](../Page/JILS.md "wikilink")（解散）
   - ROOM\#NUMBER
 
 <!-- end list -->
@@ -51,8 +51,8 @@
 #### 解散したバンド
 
   - [Davidノ使徒:aL](https://ja.wikipedia.org/wiki/Davidノ使徒:aL "wikilink")
-  - [D≒SIRE](https://ja.wikipedia.org/wiki/D≒SIRE "wikilink")\[6\]
-  - [Ize](https://ja.wikipedia.org/wiki/Ize "wikilink")（狂舞、Kyo-Maiから[改名](https://ja.wikipedia.org/wiki/改名 "wikilink")）
+  - [D≒SIRE](../Page/D≒SIRE.md "wikilink")\[6\]
+  - [Ize](https://ja.wikipedia.org/wiki/Ize "wikilink")（狂舞、Kyo-Maiから[改名](../Page/改名.md "wikilink")）
   - [pleur](https://ja.wikipedia.org/wiki/pleur "wikilink")
   - [Ray](https://ja.wikipedia.org/wiki/Ray_\(バンド\) "wikilink")
 
@@ -72,11 +72,11 @@
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に独立。
+    [2006年](../Page/2006年.md "wikilink")に独立。
 
 ### 関係の深いアーティスト
 
-  - [Dir en grey](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")
+  - [Dir en grey](../Page/DIR_EN_GREY.md "wikilink")
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - [Waive](https://ja.wikipedia.org/wiki/Waive "wikilink")
+  - [Waive](../Page/Waive.md "wikilink")
 
 <!-- end list -->
 

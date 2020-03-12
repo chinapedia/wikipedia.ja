@@ -5,7 +5,7 @@
 
 ## 概要
 
-飯塚の1枚目のミニアルバムで、アルバムとしては『[ミントと口笛](../Page/ミントと口笛.md "wikilink")』から10か月ぶりとなる。発売日が[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")2週間前で、6曲目「X'mas time Hold me tight」は、クリスマスをテーマとしている。 本作や5曲目「Ladybird」とは[テントウムシ](../Page/テントウムシ.md "wikilink")のことで、ブックレットなどに描かれている。
+飯塚の1枚目のミニアルバムで、アルバムとしては『[ミントと口笛](../Page/ミントと口笛.md "wikilink")』から10か月ぶりとなる。発売日が[クリスマス](../Page/クリスマス.md "wikilink")2週間前で、6曲目「X'mas time Hold me tight」は、クリスマスをテーマとしている。 本作や5曲目「Ladybird」とは[テントウムシ](../Page/テントウムシ.md "wikilink")のことで、ブックレットなどに描かれている。
 
 初回特典は特殊パッケージ仕様で、メッセージ入りのポストカードが封入。
 
@@ -25,13 +25,13 @@ CDジャーナルは、「かつてスピッツとかを手がけていた長谷
 
 **もしも…**
 
-  - [Guitars](../Page/ギター.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - [Guitars](../Page/ギター.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
   - [Synthesizer](../Page/シンセサイザー.md "wikilink") Manipulate：[橋本由香利](../Page/橋本由香利.md "wikilink")
   - Chorus：飯塚雅弓
 
 **風のKiss**
 
-  - Guitars & Keyboards[Glocken](https://ja.wikipedia.org/wiki/グロッケンシュピール "wikilink")：長谷川智樹
+  - Guitars & Keyboards[Glocken](../Page/グロッケンシュピール.md "wikilink")：長谷川智樹
   - Chorus：飯塚雅弓
 
 **グッピー**
@@ -43,7 +43,7 @@ CDジャーナルは、「かつてスピッツとかを手がけていた長谷
 **X'mas time Hold me tight**
 
   - Guitars & Electric Sitar & Keyboards：長谷川智樹
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")
   - [Drums](../Page/ドラムセット.md "wikilink")：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
   - Chorus：[杉並児童合唱団](../Page/杉並児童合唱団.md "wikilink")、飯塚雅弓
 

@@ -1,7 +1,7 @@
 > この記事は[URGE](https://ja.wikipedia.org/wiki/URGE)から翻訳されています。
 
 
-**URGE**（アージュ）は、[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")が用意した音楽コンテンツを[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Media Player 11](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink") (WMP11) を通じてダウンロードできる音楽サービス。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")に提供が開始されたが、2007年8月にMTVがマイクロソフトとの提携を打ち切って[リアルネットワークス](https://ja.wikipedia.org/wiki/リアルネットワークス "wikilink")のRhapsody音楽サービスとの統合を決めたため、2007年10月26日にWMP11を利用したサービスは終了された。サービス終了時点でダウンロード可能なタイトルは約240万曲であった。
+**URGE**（アージュ）は、[MTV](../Page/MTV.md "wikilink")が用意した音楽コンテンツを[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Media Player 11](../Page/Windows_Media_Player.md "wikilink") (WMP11) を通じてダウンロードできる音楽サービス。[2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に提供が開始されたが、2007年8月にMTVがマイクロソフトとの提携を打ち切って[リアルネットワークス](../Page/リアルネットワークス.md "wikilink")のRhapsody音楽サービスとの統合を決めたため、2007年10月26日にWMP11を利用したサービスは終了された。サービス終了時点でダウンロード可能なタイトルは約240万曲であった。
 
 WMP11を利用したサービスとは別に、米国ではいくつかのケーブル事業者を通じて URGE Radio チャンネルが提供されている。
 
@@ -19,7 +19,7 @@ WMP11 で URGE を設定するだけで楽しめる36の無料チャンネルと
 
 ## 動画チャンネル
 
-楽曲ダウンロードの他、[MTV Networksの](https://ja.wikipedia.org/wiki/MTV_Networks "wikilink")[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")、[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")、[CMTなどの音楽チャンネルを視聴できた](../Page/カントリー・ミュージック・テレビジョン.md "wikilink")。
+楽曲ダウンロードの他、[MTV Networksの](https://ja.wikipedia.org/wiki/MTV_Networks "wikilink")[MTV](../Page/MTV.md "wikilink")、[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")、[CMTなどの音楽チャンネルを視聴できた](../Page/カントリー・ミュージック・テレビジョン.md "wikilink")。
 
 ## 参考サイト
 

@@ -1,7 +1,7 @@
 > この記事は[Pepz](https://ja.wikipedia.org/wiki/Pepz)から翻訳されています。
 
 
-**pepz**（ペップズ）は、[ソニー](../Page/ソニー.md "wikilink")の[マイクロコンポのブランド名である](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")。末期はカタログ上においてブランド名が出されなくなっていた。2014年現在、全て生産終了となっている。
+**pepz**（ペップズ）は、[ソニー](../Page/ソニー.md "wikilink")の[マイクロコンポのブランド名である](../Page/ミニコンポ.md "wikilink")。末期はカタログ上においてブランド名が出されなくなっていた。2014年現在、全て生産終了となっている。
 
 ## 主な機種
 
@@ -10,8 +10,8 @@
       - [ウォークマン](../Page/ウォークマン.md "wikilink")（フラッシュメモリ型）を対象とした「ATRAC Audio Device」専用の[USB端子を装備し](../Page/ユニバーサル・シリアル・バス.md "wikilink")、ウォークマンの再生・充電・リモコン操作、デッキからウォークマンへの録音が可能。ATRAC Audio Device以外の機器（他社製[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")類）をUSB接続すると機能しない。
       - [2013年](../Page/2013年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に生産、出荷完了が発表され、同年3月をもって出荷を終了した（生産は同年1月で終了。）。
   - **CMT-M3**
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")秋発売。
-      - [CD](../Page/コンパクトディスク.md "wikilink")・[MD](../Page/ミニディスク.md "wikilink")（MDLP対応）・[カセット](https://ja.wikipedia.org/wiki/カセット "wikilink")・[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")のオールインワンタイプである。
+      - [2005年](../Page/2005年.md "wikilink")秋発売。
+      - [CD](../Page/コンパクトディスク.md "wikilink")・[MD](../Page/ミニディスク.md "wikilink")（MDLP対応）・[カセット](../Page/カセット.md "wikilink")・[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")のオールインワンタイプである。
       - [デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")の接続を想定してステレオ[ミニジャックによるラインアウト](../Page/フォーンプラグ.md "wikilink")・ラインイン端子がコンポの前面に装備されている、
       - 液晶も大型表示に対応し、バックライトも511色から選ぶことができる。
       - その反面、カセットデッキのオートリバース・CD→TAPEシンクロ録音・パソコン接続・光デジタル入力などが省略されている。CD→MDシンクロ録音機能および、4倍速録音機能を搭載。
@@ -55,7 +55,7 @@
 ## 関連項目
 
   - [ソニー](../Page/ソニー.md "wikilink")
-  - [ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")
+  - [ミニコンポ](../Page/ミニコンポ.md "wikilink")
   - [NETJUKE](../Page/NETJUKE.md "wikilink")
   - [Net MD](https://ja.wikipedia.org/wiki/Net_MD "wikilink")
   - [SoundGate](https://ja.wikipedia.org/wiki/SoundGate "wikilink")

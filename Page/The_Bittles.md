@@ -1,7 +1,7 @@
 > この記事は[The Bittles](https://ja.wikipedia.org/wiki/The_Bittles)から翻訳されています。
 
 
-**The Bittles**（ビットルズ）は、[NHK](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")』のB-Labelプロジェクトから結成された平均年齢13歳（当時）の5人組バンドグループ。[岡田徹](../Page/岡田徹.md "wikilink")（ビットール・オカダ）がプロデュース。名前の由来は「**[The Beatles（ビートルズ）](../Page/ビートルズ.md "wikilink")**」。
+**The Bittles**（ビットルズ）は、[NHK](../Page/NHK教育テレビジョン.md "wikilink")『[天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")』のB-Labelプロジェクトから結成された平均年齢13歳（当時）の5人組バンドグループ。[岡田徹](../Page/岡田徹.md "wikilink")（ビットール・オカダ）がプロデュース。名前の由来は「**[The Beatles（ビートルズ）](../Page/ビートルズ.md "wikilink")**」。
 
 ## メンバー
 

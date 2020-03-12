@@ -21,7 +21,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イルクーツク州" title="wikilink">イルクーツク州</a>など</p></td>
+<td><p><a href="../Page/イルクーツク州.md" title="wikilink">イルクーツク州</a>など</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イルクーツク時間" title="wikilink">イルクーツク時間</a></p></td>
 <td><p>IRKT</p></td>
 </tr>
@@ -34,7 +34,7 @@
 <tr class="odd">
 <td></td>
 <td><p>全域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中国標準時" title="wikilink">中国標準時</a></p></td>
+<td><p><a href="../Page/中国標準時.md" title="wikilink">中国標準時</a></p></td>
 <td><p>CST</p></td>
 </tr>
 <tr class="even">
@@ -81,13 +81,13 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スラウェシ島" title="wikilink">スラウェシ島</a>など</p></td>
+<td><p><a href="../Page/スラウェシ島.md" title="wikilink">スラウェシ島</a>など</p></td>
 <td></td>
 <td><p>WITA</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西オーストラリア州" title="wikilink">西オーストラリア州</a></p></td>
+<td><p><a href="../Page/西オーストラリア州.md" title="wikilink">西オーストラリア州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オーストラリア西部標準時" title="wikilink">オーストラリア西部標準時</a></p></td>
 <td><p>AWST</p></td>
 </tr>
@@ -152,11 +152,11 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラスノヤルスク地方" title="wikilink">クラスノヤルスク地方</a>など</p></td>
+<td><p><a href="../Page/クラスノヤルスク地方.md" title="wikilink">クラスノヤルスク地方</a>など</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラスノヤルスク時間" title="wikilink">クラスノヤルスク時間</a></p></td>
 <td><p>2011</p></td>
 <td><p>2014</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>に変更</p></td>
+<td><p><a href="../Page/UTC+7.md" title="wikilink">UTC+7</a>に変更</p></td>
 </tr>
 <tr class="odd">
 <td><p>クラスノヤルスク夏時間</p></td>
@@ -185,7 +185,7 @@
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1896年](../Page/1896年.md "wikilink")（[明治](../Page/明治.md "wikilink")29年）[1月1日](../Page/1月1日.md "wikilink")から[1937年](../Page/1937年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")12年）[9月30日](../Page/9月30日.md "wikilink")まで、「[西部標準時](https://ja.wikipedia.org/wiki/日本標準時#歴史 "wikilink")」として、[八重山列島](../Page/八重山列島.md "wikilink")・[宮古列島](../Page/宮古列島.md "wikilink")と[日本統治下の](https://ja.wikipedia.org/wiki/日本統治時代の台湾 "wikilink")[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[澎湖列島](https://ja.wikipedia.org/wiki/澎湖列島 "wikilink")で +8 を使用した。その後は全国が +9 に統一された。
 
-中国では、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")が成立すると [グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")に対して +5:30、+6、+7、+8、+8:30 となる五つの時間帯が設けられた。+8 の時間帯は「中原標準時」と呼ばれる。台湾では上述の通り、日本統治下の1896年から1937年9月30日まで、そして中華民国が台湾を接収した1945年以後 、+8 を使用している。前者は日本の西部標準時である。その間の1937年10月から1945年までは日本の中央標準時（+9）を使用した。1949年に[中華人民共和国](../Page/中華人民共和国.md "wikilink")が成立すると、全土単一の時間帯（+8）を確立する一方、中華民国も +8 を維持した。20世紀末まで[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")と[マカオ](../Page/マカオ.md "wikilink")は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[ポルトガル](../Page/ポルトガル.md "wikilink")の統治を受けたが、その地理的な位置のため、両地域もまた +8 を用いた。中華民国が1945年から1979年まで、香港・マカオが1946年から1979年まで（いずれも実施しない年があった。香港は1941年にも実施）、中華人民共和国が1986年から1991年まで、[夏時間](../Page/夏時間.md "wikilink")を行った。そのためこの間 UTC+8 だったのは冬期のみである。香港は[日本占領下では](https://ja.wikipedia.org/wiki/日本占領時期の香港 "wikilink")、名目上夏時間を通年実施し、日本標準時と同じ +9 であった 。
+中国では、[中華民国](../Page/中華民国.md "wikilink")が成立すると [グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")に対して +5:30、+6、+7、+8、+8:30 となる五つの時間帯が設けられた。+8 の時間帯は「中原標準時」と呼ばれる。台湾では上述の通り、日本統治下の1896年から1937年9月30日まで、そして中華民国が台湾を接収した1945年以後 、+8 を使用している。前者は日本の西部標準時である。その間の1937年10月から1945年までは日本の中央標準時（+9）を使用した。1949年に[中華人民共和国](../Page/中華人民共和国.md "wikilink")が成立すると、全土単一の時間帯（+8）を確立する一方、中華民国も +8 を維持した。20世紀末まで[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")と[マカオ](../Page/マカオ.md "wikilink")は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[ポルトガル](../Page/ポルトガル.md "wikilink")の統治を受けたが、その地理的な位置のため、両地域もまた +8 を用いた。中華民国が1945年から1979年まで、香港・マカオが1946年から1979年まで（いずれも実施しない年があった。香港は1941年にも実施）、中華人民共和国が1986年から1991年まで、[夏時間](../Page/夏時間.md "wikilink")を行った。そのためこの間 UTC+8 だったのは冬期のみである。香港は[日本占領下では](https://ja.wikipedia.org/wiki/日本占領時期の香港 "wikilink")、名目上夏時間を通年実施し、日本標準時と同じ +9 であった 。
 
 [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の東部（[東マレーシア](https://ja.wikipedia.org/wiki/東マレーシア "wikilink")、[ボルネオ島](../Page/ボルネオ島.md "wikilink")）では、1963年のマレーシア成立から現在まで、+8 を使用している。同マレー半島部と[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")では1982年にそれまでの [UTC+7:30](https://ja.wikipedia.org/wiki/UTC+7:30 "wikilink") から UTC+8 に移行した（詳細は[マレーシア標準時](https://ja.wikipedia.org/wiki/マレーシア標準時 "wikilink")、[:en:Singapore Standard Time参照](https://ja.wikipedia.org/wiki/:en:Singapore_Standard_Time "wikilink")）。
 
@@ -195,11 +195,11 @@
 
 ## 関連項目
 
-  - [中国標準時](https://ja.wikipedia.org/wiki/中国標準時 "wikilink")
+  - [中国標準時](../Page/中国標準時.md "wikilink")
   - [インドネシア時間](https://ja.wikipedia.org/wiki/インドネシア時間 "wikilink")
-  - [オーストラリア時間](https://ja.wikipedia.org/wiki/オーストラリア時間 "wikilink")
+  - [オーストラリア時間](../Page/オーストラリア時間.md "wikilink")
   - [モンゴル時間](https://ja.wikipedia.org/wiki/モンゴル時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
 
 ## 外部リンク
 

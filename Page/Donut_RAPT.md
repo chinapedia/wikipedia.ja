@@ -17,7 +17,7 @@ donut Rが開発停止したため、当時、[ヘルプ](https://ja.wikipedia.o
 ## 関連項目
 
   - [Donut](../Page/Donut.md "wikilink")
-  - [タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")
+  - [タブブラウザ](../Page/タブブラウザ.md "wikilink")
   - [IEコンポーネントブラウザ](../Page/IEコンポーネントブラウザ.md "wikilink")
   - [フェンリル](../Page/フェンリル_\(企業\).md "wikilink")
   - [Sleipnir](../Page/Sleipnir.md "wikilink")

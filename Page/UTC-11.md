@@ -3,22 +3,22 @@
 
 [Timezones2008_UTC-11_gray.png](https://ja.wikipedia.org/wiki/File:Timezones2008_UTC-11_gray.png "fig:Timezones2008_UTC-11_gray.png") **UTC-11**とは、[協定世界時](../Page/協定世界時.md "wikilink")を11時間遅らせた[標準時](../Page/標準時.md "wikilink")である。住民のいる地域としては世界で最も遅く1日が始まる。
 
-[UTC+13](https://ja.wikipedia.org/wiki/UTC+13 "wikilink")と同じ時刻だが、日付が1日遅れる。
+[UTC+13](../Page/UTC+13.md "wikilink")と同じ時刻だが、日付が1日遅れる。
 
 ## 該当地域
 
-  -   - [ミッドウェー島](https://ja.wikipedia.org/wiki/ミッドウェー島 "wikilink")（駐在のみ）
+  -   - [ミッドウェー島](../Page/ミッドウェー島.md "wikilink")（駐在のみ）
 
   -   - [サモア標準時](https://ja.wikipedia.org/wiki/サモア標準時 "wikilink")
 
   -
 ## 歴史
 
-米国領であるミッドウェー環礁、[ジャーヴィス島](https://ja.wikipedia.org/wiki/ジャーヴィス島 "wikilink")、[パルミラ環礁](https://ja.wikipedia.org/wiki/パルミラ環礁 "wikilink")ではこの時間帯を用いる。しかし現在住民はおらず、ミッドウェー島に自然保護のための担当員が滞在するのみである。
+米国領であるミッドウェー環礁、[ジャーヴィス島](../Page/ジャーヴィス島.md "wikilink")、[パルミラ環礁](../Page/パルミラ環礁.md "wikilink")ではこの時間帯を用いる。しかし現在住民はおらず、ミッドウェー島に自然保護のための担当員が滞在するのみである。
 
-[キリバス](../Page/キリバス.md "wikilink")の[フェニックス諸島](https://ja.wikipedia.org/wiki/フェニックス諸島 "wikilink")では1994年暮れまで UTC-11 を用いていたが、1994年12月31日を1日飛び越えて [UTC+13](https://ja.wikipedia.org/wiki/UTC+13 "wikilink") になった。
+[キリバス](../Page/キリバス.md "wikilink")の[フェニックス諸島](https://ja.wikipedia.org/wiki/フェニックス諸島 "wikilink")では1994年暮れまで UTC-11 を用いていたが、1994年12月31日を1日飛び越えて [UTC+13](../Page/UTC+13.md "wikilink") になった。
 
-[サモア](../Page/サモア.md "wikilink")は2010年9月から[夏時間](../Page/夏時間.md "wikilink")を開始し\[1\]、冬期のみ UTC-11 であったが、2011年12月29日末に標準時を [UTC+13](https://ja.wikipedia.org/wiki/UTC+13 "wikilink") に変更した\[2\]。
+[サモア](../Page/サモア.md "wikilink")は2010年9月から[夏時間](../Page/夏時間.md "wikilink")を開始し\[1\]、冬期のみ UTC-11 であったが、2011年12月29日末に標準時を [UTC+13](../Page/UTC+13.md "wikilink") に変更した\[2\]。
 
 ## 脚注
 

@@ -5,14 +5,14 @@
 
 ## 概要
 
-  - [FMWや](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")[大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")などの団体の選手を中心に争奪され[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からは[KAIENTAI DOJOの選手が所持している](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")。
+  - [FMWや](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")[大日本プロレス](../Page/大日本プロレス.md "wikilink")などの団体の選手を中心に争奪され[2005年](../Page/2005年.md "wikilink")からは[KAIENTAI DOJOの選手が所持している](../Page/KAIENTAI_DOJO.md "wikilink")。
   - FMW管理の王座であったが倒産にて管理者を失い、2002年から2005年までは大日本プロレス、2006年からはKAIENTAI DOJO管理となった。
   - 2011年から2012年にかけて[プロレスリングFREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")に流出していたがマンモス佐々木の負傷により返上したため、王座決定戦が行われてKAIENTAI DOJOに帰ってきた。
   - 過去に複数の男女混合タッグが王座獲得したことはあったが2014年にバンビ&真琴組が女子タッグとして初めて王座奪取に成功。その後、[WNCでも防衛戦が行われている](https://ja.wikipedia.org/wiki/Wrestling_New_Classic "wikilink")。
 
 ## ルール
 
-  - [凶器の使用が認められている](https://ja.wikipedia.org/wiki/凶器_\(プロレス\) "wikilink")。
+  - [凶器の使用が認められている](../Page/凶器_\(プロレス\).md "wikilink")。
   - エニウェアフォール（どこでもフォール可能）、トルネード方式（タッチなしで4人同時にリングイン可能）を適用。
 
 ## 歴代王者
@@ -30,18 +30,18 @@
 <tbody>
 <tr class="odd">
 <td><p>初代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/保坂秀樹" title="wikilink">保坂秀樹</a>&amp;<a href="../Page/マンモス佐々木.md" title="wikilink">佐々木嘉則</a></p></td>
+<td><p><a href="../Page/保坂秀樹.md" title="wikilink">保坂秀樹</a>&amp;<a href="../Page/マンモス佐々木.md" title="wikilink">佐々木嘉則</a></p></td>
 <td><p>2</p></td>
 <td><p>2000年4月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">渋谷ON AIR EAST</a><br />
-<a href="https://ja.wikipedia.org/wiki/金村キンタロー" title="wikilink">金村キンタロー</a>&amp;<a href="../Page/BADBOY非道.md" title="wikilink">ウィリー高山</a></p></td>
+<td><p><a href="../Page/Shibuya_O-EAST.md" title="wikilink">渋谷ON AIR EAST</a><br />
+<a href="../Page/金村キンタロー.md" title="wikilink">金村キンタロー</a>&amp;<a href="../Page/BADBOY非道.md" title="wikilink">ウィリー高山</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エディ・ファトゥ" title="wikilink">エディ・ファトゥ</a>&amp;<a href="https://ja.wikipedia.org/wiki/マット・アノアイ" title="wikilink">マッティ・サムゥ</a></p></td>
+<td><p><a href="../Page/エディ・ファトゥ.md" title="wikilink">エディ・ファトゥ</a>&amp;<a href="../Page/マット・アノアイ.md" title="wikilink">マッティ・サムゥ</a></p></td>
 <td><p>2</p></td>
 <td><p>2000年6月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第3代</p></td>
@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p>第4代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/邪道_(プロレスラー)" title="wikilink">邪道</a>&amp;<a href="https://ja.wikipedia.org/wiki/外道_(プロレスラー)" title="wikilink">外道</a></p></td>
+<td><p><a href="../Page/邪道_(プロレスラー).md" title="wikilink">邪道</a>&amp;<a href="../Page/外道_(プロレスラー).md" title="wikilink">外道</a></p></td>
 <td><p>0</p></td>
 <td><p>2000年9月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/月寒グリーンドーム" title="wikilink">月寒グリーンドーム</a></p></td>
@@ -62,7 +62,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/スプリーム" title="wikilink">スプリーム</a>&amp;<a href="https://ja.wikipedia.org/wiki/ホームレス・ジミー" title="wikilink">ホームレス・ジミー</a></p></td>
 <td><p>0</p></td>
 <td><p>2000年10月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/博多スターレーン" title="wikilink">博多スターレーン</a></p></td>
+<td><p><a href="../Page/博多スターレーン.md" title="wikilink">博多スターレーン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第6代</p></td>
@@ -73,28 +73,28 @@
 </tr>
 <tr class="odd">
 <td><p>第7代</p></td>
-<td><p><a href="../Page/GOEMON_(プロレスラー).md" title="wikilink">GOEMON</a>&amp;<a href="https://ja.wikipedia.org/wiki/怨霊_(プロレスラー)" title="wikilink">怨霊</a></p></td>
+<td><p><a href="../Page/GOEMON_(プロレスラー).md" title="wikilink">GOEMON</a>&amp;<a href="../Page/怨霊_(プロレスラー).md" title="wikilink">怨霊</a></p></td>
 <td><p>?</p></td>
 <td><p>2001年1月7日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
 <tr class="even">
 <td><p>第8代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金村キンタロー" title="wikilink">金村キンタロー</a>&amp;<a href="../Page/山川竜司.md" title="wikilink">山川竜司</a></p></td>
+<td><p><a href="../Page/金村キンタロー.md" title="wikilink">金村キンタロー</a>&amp;<a href="../Page/山川竜司.md" title="wikilink">山川竜司</a></p></td>
 <td><p>1</p></td>
 <td><p>2001年2月23日</p></td>
 <td><p>後楽園ホール</p></td>
 </tr>
 <tr class="odd">
 <td><p>第9代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MEN&#39;Sテイオー" title="wikilink">MEN'Sテイオー</a>&amp;<a href="../Page/関本大介.md" title="wikilink">関本大介</a></p></td>
+<td><p><a href="../Page/MEN&#39;Sテイオー.md" title="wikilink">MEN'Sテイオー</a>&amp;<a href="../Page/関本大介.md" title="wikilink">関本大介</a></p></td>
 <td><p>1</p></td>
 <td><p>2001年12月2日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第10代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/葛西純" title="wikilink">葛西純</a>&amp;<a href="https://ja.wikipedia.org/wiki/ジ・ウィンガー" title="wikilink">ジ・ウィンガー</a></p></td>
+<td><p><a href="../Page/葛西純.md" title="wikilink">葛西純</a>&amp;<a href="https://ja.wikipedia.org/wiki/ジ・ウィンガー" title="wikilink">ジ・ウィンガー</a></p></td>
 <td><p>?</p></td>
 <td><p>2002年3月21日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/名古屋市体育館" title="wikilink">名古屋市体育館</a><br />
@@ -110,7 +110,7 @@
 </tr>
 <tr class="even">
 <td><p>第12代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊東竜二" title="wikilink">伊東竜二</a>&amp;<a href="https://ja.wikipedia.org/wiki/下田大作" title="wikilink">下田大作</a></p></td>
+<td><p><a href="../Page/伊東竜二.md" title="wikilink">伊東竜二</a>&amp;<a href="https://ja.wikipedia.org/wiki/下田大作" title="wikilink">下田大作</a></p></td>
 <td><p>?</p></td>
 <td><p>2003年3月30日</p></td>
 <td><p>横浜文化体育館</p></td>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td><p>第17代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TAKAみちのく" title="wikilink">TAKAみちのく</a>&amp;<a href="../Page/中川ともか.md" title="wikilink">TOMOみちのく</a></p></td>
+<td><p><a href="../Page/TAKAみちのく.md" title="wikilink">TAKAみちのく</a>&amp;<a href="../Page/中川ともか.md" title="wikilink">TOMOみちのく</a></p></td>
 <td><p>0</p></td>
 <td><p>2006年6月4日</p></td>
 <td><p>後楽園ホール</p></td>
@@ -156,7 +156,7 @@
 <td><p>アップルみゆき&amp;YOSHIYA</p></td>
 <td><p>1</p></td>
 <td><p>2006年7月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松下IMPビル" title="wikilink">IMPホール</a></p></td>
+<td><p><a href="../Page/松下IMPビル.md" title="wikilink">IMPホール</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第19代</p></td>
@@ -182,7 +182,7 @@
 </tr>
 <tr class="even">
 <td><p>第22代</p></td>
-<td><p><a href="../Page/稲松三郎.md" title="wikilink">稲松三郎</a>&amp;<a href="https://ja.wikipedia.org/wiki/PSYCHO_(プロレスラー)" title="wikilink">PSYCHO</a></p></td>
+<td><p><a href="../Page/稲松三郎.md" title="wikilink">稲松三郎</a>&amp;<a href="../Page/PSYCHO_(プロレスラー).md" title="wikilink">PSYCHO</a></p></td>
 <td><p>0</p></td>
 <td><p>2008年10月4日</p></td>
 <td><p>千葉Blue Field<br />
@@ -190,7 +190,7 @@ PSYCHO負傷のため王座返上</p></td>
 </tr>
 <tr class="odd">
 <td><p>第23代</p></td>
-<td><p>YOSHIYA&amp;<a href="https://ja.wikipedia.org/wiki/Hard_core_kid_狐次郎" title="wikilink">Hard core kid 狐次郎</a></p></td>
+<td><p>YOSHIYA&amp;<a href="../Page/Hard_core_kid_狐次郎.md" title="wikilink">Hard core kid 狐次郎</a></p></td>
 <td><p>1</p></td>
 <td><p>2008年12月6日</p></td>
 <td><p>千葉Blue Field<br />
@@ -233,7 +233,7 @@ PSYCHO負傷のため王座返上</p></td>
 </tr>
 <tr class="odd">
 <td><p>第29代</p></td>
-<td><p>マンモス佐々木&amp;<a href="https://ja.wikipedia.org/wiki/椹木健二" title="wikilink">神威</a></p></td>
+<td><p>マンモス佐々木&amp;<a href="../Page/椹木健二.md" title="wikilink">神威</a></p></td>
 <td><p>1</p></td>
 <td><p>2011年10月27日</p></td>
 <td><p>新木場1stRING</p></td>
@@ -291,7 +291,7 @@ YOSHIYA引退のため王座空位</p></td>
 <td><p>2</p></td>
 <td><p>2015年11月1日</p></td>
 <td><p>後楽園ホール<br />
-柏大五郎&amp;<a href="../Page/アレクサンダー大塚.md" title="wikilink">アレクサンダー大塚</a>、<a href="https://ja.wikipedia.org/wiki/本田アユム" title="wikilink">本田アユム</a>&amp;<a href="https://ja.wikipedia.org/wiki/ティーラン獅沙" title="wikilink">ティーラン獅沙</a>、雄馬&amp;DOUKI、<a href="../Page/矢郷良明.md" title="wikilink">矢郷良明</a>&amp;<a href="https://ja.wikipedia.org/wiki/洞口義浩" title="wikilink">洞口義浩</a>、リッキー・フジ&amp;<a href="https://ja.wikipedia.org/wiki/MEN&#39;Sテイオー" title="wikilink">MEN'Sテイオー</a>、<a href="https://ja.wikipedia.org/wiki/Hi69" title="wikilink">Hi69</a>&amp;<a href="https://ja.wikipedia.org/wiki/杉浦透" title="wikilink">杉浦透</a>とのハードコアランブルマッチ</p></td>
+柏大五郎&amp;<a href="../Page/アレクサンダー大塚.md" title="wikilink">アレクサンダー大塚</a>、<a href="https://ja.wikipedia.org/wiki/本田アユム" title="wikilink">本田アユム</a>&amp;<a href="https://ja.wikipedia.org/wiki/ティーラン獅沙" title="wikilink">ティーラン獅沙</a>、雄馬&amp;DOUKI、<a href="../Page/矢郷良明.md" title="wikilink">矢郷良明</a>&amp;<a href="https://ja.wikipedia.org/wiki/洞口義浩" title="wikilink">洞口義浩</a>、リッキー・フジ&amp;<a href="../Page/MEN&#39;Sテイオー.md" title="wikilink">MEN'Sテイオー</a>、<a href="../Page/Hi69.md" title="wikilink">Hi69</a>&amp;<a href="https://ja.wikipedia.org/wiki/杉浦透" title="wikilink">杉浦透</a>とのハードコアランブルマッチ</p></td>
 </tr>
 <tr class="odd">
 <td><p>第37代</p></td>

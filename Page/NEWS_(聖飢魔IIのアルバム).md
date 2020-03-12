@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-1.  **DEPARTURE TIME**（作詞:[デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、作曲:[ルーク篁](../Page/ルーク篁.md "wikilink")、編曲: [松崎雄一](https://ja.wikipedia.org/wiki/松崎雄一 "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")）
+1.  **DEPARTURE TIME**（作詞:[デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、作曲:[ルーク篁](../Page/ルーク篁.md "wikilink")、編曲: [松崎雄一](../Page/松崎雄一.md "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")）
 2.  **[真昼の月 〜MOON AT MID DAY〜](https://ja.wikipedia.org/wiki/真昼の月〜MOON_AT_MID_DAY〜 "wikilink")**（作詞:デーモン小暮、ルーク篁、作曲:ルーク篁、松崎雄一、編曲: 松崎雄一、聖飢魔II）
       - 表記は無いが大教典VER.
 3.  **デジタリアン・ラプソディ**（作詞:ルーク篁、デーモン小暮、作曲:ルーク篁、編曲: 松崎雄一、聖飢魔II）
@@ -24,7 +24,7 @@
 6.  **NO GOOD NEWS TODAY**（作詞:デーモン小暮、ルーク篁、作曲:ルーク篁、松崎雄一、編曲: 松崎雄一、聖飢魔II）
 7.  **CRIMSON RED**（作詞:デーモン小暮、ルーク篁、作曲:[エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink") 、ルーク篁、編曲: 松崎雄一、聖飢魔II）
 8.  **[虚空の迷宮 〜type β〜](https://ja.wikipedia.org/wiki/Brand_New_Song "wikilink")**（作詞:デーモン小暮、作曲:エース清水、編曲: 松崎雄一、聖飢魔II）
-9.  **DANGEROUS VOYAGE 〜失楽園への旅〜** （作詞:デーモン小暮、作曲:[ライデン湯沢](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink")、編曲: 松崎雄一、聖飢魔II）
+9.  **DANGEROUS VOYAGE 〜失楽園への旅〜** （作詞:デーモン小暮、作曲:[ライデン湯沢](../Page/雷電湯澤.md "wikilink")、編曲: 松崎雄一、聖飢魔II）
 10. **SAVE YOUR SOUL 〜美しきクリシェに背をむけて〜**（作詞・作曲:ルーク篁、編曲: 松崎雄一、聖飢魔II）
 
 ## 関連小教典（シングル）
@@ -37,8 +37,8 @@
   - [DEMON KOGURE](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [VOCALS](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [ACE SHIMIZU](../Page/ACE_\(ミュージシャン\).md "wikilink") - [GUITARS](../Page/ギター.md "wikilink"), [CHORUS](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [SGT. LUKE TAKAMURA III](../Page/ルーク篁.md "wikilink") - GUITARS, CHORUS
-  - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [BASS](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), CHORUS
-  - [RAIDEN YUZAWA](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink") - [DRUMS](../Page/ドラムセット.md "wikilink"), CHORUS
-  - [YUICHI MATSUZAKI](https://ja.wikipedia.org/wiki/松崎雄一 "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink"), [SYNTHESIZER](../Page/シンセサイザー.md "wikilink") [PROGRAMMING](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink"), SOUND PRODUCE
+  - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [BASS](../Page/ベース_\(弦楽器\).md "wikilink"), CHORUS
+  - [RAIDEN YUZAWA](../Page/雷電湯澤.md "wikilink") - [DRUMS](../Page/ドラムセット.md "wikilink"), CHORUS
+  - [YUICHI MATSUZAKI](../Page/松崎雄一.md "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink"), [SYNTHESIZER](../Page/シンセサイザー.md "wikilink") [PROGRAMMING](../Page/ミュージックシーケンサー.md "wikilink"), SOUND PRODUCE
 
 [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:聖飢魔IIのアルバム](https://ja.wikipedia.org/wiki/Category:聖飢魔IIのアルバム "wikilink") [Category:BMG_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:BMG_JAPANのアルバム "wikilink")

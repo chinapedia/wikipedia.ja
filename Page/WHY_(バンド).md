@@ -13,7 +13,7 @@
 
 1978年、スピニッヂ・パワーのボーカリストとして活動した織田哲郎、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")の実弟である長戸秀介、北島健二の3人で結成。ポップなメロディとハードロックの融合をコンセプトとしシングル2枚とアルバム1枚を発表したがブレイクに至らないまま解散。
 
-その後、織田と北島は[松井常松](https://ja.wikipedia.org/wiki/松井常松 "wikilink")、[古村敏比古](../Page/古村敏比古.md "wikilink")らと[織田哲郎&9th IMAGEを結成](https://ja.wikipedia.org/wiki/織田哲郎&9th_IMAGE "wikilink")、長戸は作詞家としての活動を開始した。
+その後、織田と北島は[松井常松](../Page/松井常松.md "wikilink")、[古村敏比古](../Page/古村敏比古.md "wikilink")らと[織田哲郎&9th IMAGEを結成](../Page/織田哲郎&9th_IMAGE.md "wikilink")、長戸は作詞家としての活動を開始した。
 
 ## ディスコグラフィー
 

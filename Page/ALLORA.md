@@ -1,7 +1,7 @@
 > この記事は[ALLORA](https://ja.wikipedia.org/wiki/ALLORA)から翻訳されています。
 
 
-**ALLORA（アローラ）**は、かつて[ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が販売していた、[ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")のブランド名である。主にセパレートタイプを展開しており、1990年代の主力でもあった。
+**ALLORA（アローラ）**は、かつて[ケンウッド](../Page/ケンウッド.md "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が販売していた、[ミニコンポ](../Page/ミニコンポ.md "wikilink")のブランド名である。主にセパレートタイプを展開しており、1990年代の主力でもあった。
 
 特に、7番シリーズは世界初の機能を搭載し、ファンからも支持を得ている。
 
@@ -15,7 +15,7 @@ XA7が発売された頃は[バブル期と重なっており](../Page/バブル
 
 ここでは、主なモデルのパターンについて記載する。左から1番目はX、左から2番目はファミリー（例：A，Eなど）、左から3番目は数字（ハイフンが入った場合はその直後に数字）が入る。この数字は機種の階級を表し、1番は1BOX構成モデル、3番はセパレートタイプエントリーモデル、5番はミドルクラスのモデル、7番はトップモデル、9番はXA・XEシリーズのみだがフラッグシップモデルにあたる。XF以降は、7番シリーズがフラッグシップモデルの役割も担っていた。但し、一部例外あり。
 
-なお、最後の英文字は、Vが[ビデオCD](../Page/ビデオCD.md "wikilink")対応モデル、MDは[ミニディスク](../Page/ミニディスク.md "wikilink")デッキ搭載モデル、Mは[CDチェンジャー搭載モデルにあたる](https://ja.wikipedia.org/wiki/チェンジャーデッキ "wikilink")。
+なお、最後の英文字は、Vが[ビデオCD](../Page/ビデオCD.md "wikilink")対応モデル、MDは[ミニディスク](../Page/ミニディスク.md "wikilink")デッキ搭載モデル、Mは[CDチェンジャー搭載モデルにあたる](../Page/チェンジャーデッキ.md "wikilink")。
 
 ## 歴史
 
@@ -288,10 +288,10 @@ ALLORA機種別主要機能比較表
 
 ## 関連項目
 
-  - [音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")
+  - [音響機器](../Page/音響機器.md "wikilink")
   - [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")
-      - [ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")
-  - [ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")
+      - [ケンウッド](../Page/ケンウッド.md "wikilink")
+  - [ミニコンポ](../Page/ミニコンポ.md "wikilink")
   - [ピーナッツ (漫画)](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink") - カタログや広告に起用された。
 
 [Category:音響機器](https://ja.wikipedia.org/wiki/Category:音響機器 "wikilink") [Category:JVCケンウッドの歴史](https://ja.wikipedia.org/wiki/Category:JVCケンウッドの歴史 "wikilink")

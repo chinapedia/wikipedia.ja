@@ -15,22 +15,22 @@
 
 ジャケットで使用されている写真は、英国の衛兵が実際に貧血で倒れている場面だそうだが、同じ写真（ただしそちらはカラー）が[Sex Pistolsのベスト盤](../Page/セックス・ピストルズ.md "wikilink")『Jubilee』のジャケットにも使用されている。
 
-デーモン閣下のスキャンダルの影響により、ソニーからのオリジナル作品のリリースは今作が最後となり、次の大教典『[メフィストフェレスの肖像](https://ja.wikipedia.org/wiki/メフィストフェレスの肖像 "wikilink")』（[1996年](../Page/1996年.md "wikilink")）はBMGからリリースされることとなる。
+デーモン閣下のスキャンダルの影響により、ソニーからのオリジナル作品のリリースは今作が最後となり、次の大教典『[メフィストフェレスの肖像](../Page/メフィストフェレスの肖像.md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）はBMGからリリースされることとなる。
 
 このアルバムは90年代後半以降長らくの間多くのソニー期のアルバムと同じく廃盤であったが、2013年7月17日にリマスターで復刻された。
 
 ## 収録曲
 
-1.  **千年香妃花**（作詞・作曲:[DEMON小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、編曲: [聖飢魔II](../Page/聖飢魔II.md "wikilink")、[WRECTOR. H](https://ja.wikipedia.org/wiki/石黒彰 "wikilink")）
+1.  **千年香妃花**（作詞・作曲:[DEMON小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、編曲: [聖飢魔II](../Page/聖飢魔II.md "wikilink")、[WRECTOR. H](../Page/石黒彰.md "wikilink")）
 2.  **GUNS'N'BUTTER**（作詞:DEMON小暮、作曲:[LUKE篁](../Page/ルーク篁.md "wikilink")、編曲: 聖飢魔II）
 3.  **[闘う日本人](https://ja.wikipedia.org/wiki/闘う日本人 "wikilink")**（作詞:DEMON小暮、作曲:[XENON石川](../Page/石川俊介.md "wikilink")、編曲: 聖飢魔II、WRECTOR. H）
       - 表記は無いが大教典VER.
-4.  **[ロマンス](https://ja.wikipedia.org/wiki/ロマンス "wikilink")**（作詞・作曲: LUKE篁、編曲: 聖飢魔II、WRECTOR. H）
+4.  **[ロマンス](../Page/ロマンス.md "wikilink")**（作詞・作曲: LUKE篁、編曲: 聖飢魔II、WRECTOR. H）
 5.  **[TEENAGE DREAM](https://ja.wikipedia.org/wiki/TEENAGE_DREAM "wikilink")**（作詞:DEMON小暮、作曲: LUKE篁、編曲: 聖飢魔II、WRECTOR. H）
 6.  **A STICK AND HONEY**（作詞:LUKE篁、作曲:DEMON小暮、編曲: 聖飢魔II、WRECTOR. H）
 7.  **THE REQUIEM**（作詞・作曲:DEMON小暮、編曲: 聖飢魔II、WRECTOR. H）
 8.  **KING OF THE STREAK**（作詞・作曲:DEMON小暮、編曲: 聖飢魔II、WRECTOR. H）
-9.  **やさしさが人を殺める**（作詞:DEMON小暮、作曲:[RAIDEN湯沢](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink")、編曲: 聖飢魔II、WRECTOR. H）
+9.  **やさしさが人を殺める**（作詞:DEMON小暮、作曲:[RAIDEN湯沢](../Page/雷電湯澤.md "wikilink")、編曲: 聖飢魔II、WRECTOR. H）
 10. **モーニングティーを二人で** （作詞:DEMON小暮、作曲:LUKE篁、編曲: 聖飢魔II、WRECTOR. H）
 11. **ふたりのWHITE NITES**（作詞:DEMON小暮、作曲:[ACE清水](../Page/ACE_\(ミュージシャン\).md "wikilink")、編曲: 聖飢魔II、WRECTOR. H）
 12. **JUST LET ME GO**（作詞・作曲: LUKE篁、編曲: 聖飢魔II、WRECTOR. H）
@@ -48,14 +48,14 @@
 
 ## 演奏者（ブックレット上の表記に準ずる）
 
-  - [DEMON小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [VOCALS](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [WHISTLE](https://ja.wikipedia.org/wiki/口笛 "wikilink"), BACKING VOCALS
-  - [RAIDEN湯沢](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink") - [DRUMS](../Page/ドラムセット.md "wikilink"), [PERCUSSION](../Page/パーカッション.md "wikilink"), BACKING VOCALS & [ROAST BEAF](../Page/ローストビーフ.md "wikilink") 1 [POUND](https://ja.wikipedia.org/wiki/パウンド "wikilink")/DAY
-  - [XENON石川](../Page/石川俊介.md "wikilink") - [FENDER](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") [BASS](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), [FRETLESS BASS](https://ja.wikipedia.org/wiki/フレットレスベース "wikilink"), BACKING VOCALS, [COOK](https://ja.wikipedia.org/wiki/調理師 "wikilink")
+  - [DEMON小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - [VOCALS](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [WHISTLE](../Page/口笛.md "wikilink"), BACKING VOCALS
+  - [RAIDEN湯沢](../Page/雷電湯澤.md "wikilink") - [DRUMS](../Page/ドラムセット.md "wikilink"), [PERCUSSION](../Page/パーカッション.md "wikilink"), BACKING VOCALS & [ROAST BEAF](../Page/ローストビーフ.md "wikilink") 1 [POUND](https://ja.wikipedia.org/wiki/パウンド "wikilink")/DAY
+  - [XENON石川](../Page/石川俊介.md "wikilink") - [FENDER](../Page/フェンダー_\(楽器メーカー\).md "wikilink") [BASS](../Page/ベース_\(弦楽器\).md "wikilink"), [FRETLESS BASS](../Page/フレットレスベース.md "wikilink"), BACKING VOCALS, [COOK](../Page/調理師.md "wikilink")
   - [ACE清水](../Page/ACE_\(ミュージシャン\).md "wikilink") - [GUITARS](../Page/ギター.md "wikilink"), BACKING VOCALS
   - [Sgt. LUKE篁 III](../Page/ルーク篁.md "wikilink") - GUITARS, ELECTRIC [SITAR](../Page/シタール.md "wikilink"), BACKING VOCALS
 
 <!-- end list -->
 
-  - [WRECTOR. H](https://ja.wikipedia.org/wiki/石黒彰 "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink"), [PIANO](../Page/ピアノ.md "wikilink"), [HAMMOND ORGANS](../Page/ハモンドオルガン.md "wikilink"), MINI [MOOG](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー "wikilink")
+  - [WRECTOR. H](../Page/石黒彰.md "wikilink") - [KEYBOARDS](../Page/キーボード_\(楽器\).md "wikilink"), [PIANO](../Page/ピアノ.md "wikilink"), [HAMMOND ORGANS](../Page/ハモンドオルガン.md "wikilink"), MINI [MOOG](../Page/モーグ・シンセサイザー.md "wikilink")
 
 [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:聖飢魔IIのアルバム](https://ja.wikipedia.org/wiki/Category:聖飢魔IIのアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink")

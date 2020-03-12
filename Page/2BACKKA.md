@@ -19,11 +19,11 @@
 
   - [1999年](../Page/1999年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の結成以後しばらくは各種ライブイベントや外部アーティストのライブにゲストとして参加を続ける。
   - [2004年](../Page/2004年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")、ファースト[アルバム](../Page/アルバム.md "wikilink")『Turn』をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")、ミニアルバム『blooming sound』をリリース。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")、アルバム『Sign』で[エイベックスより](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
-  - [2007年](../Page/2007年.md "wikilink")、[中部日本放送のドラゴンズ中継](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[ザ・プロ野球 燃えよドラゴンズ\!](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』のオープニングテーマとして[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")とのコラボ作品「Rising Dragon」が起用された。
-  - 2007年[9月26日](../Page/9月26日.md "wikilink")、ファーストシングル「NEXT STATION」をリリース。今作ではコラボレーション企画第1弾として[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")に[渡辺俊美](https://ja.wikipedia.org/wiki/渡辺俊美 "wikilink")（[TOKYO No.1 SOUL SET](https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET "wikilink")、[THE ZOOT16](https://ja.wikipedia.org/wiki/THE_ZOOT16 "wikilink")）を迎えている。
-  - 2007年[10月24日](../Page/10月24日.md "wikilink")、セカンドシングル「HOME」をリリース。コラボレーション企画第2弾は[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")に[BENNIE Kを迎えている](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、ミニアルバム『blooming sound』をリリース。
+  - [2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、アルバム『Sign』で[エイベックスより](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")、[中部日本放送のドラゴンズ中継](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[ザ・プロ野球 燃えよドラゴンズ\!](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』のオープニングテーマとして[SEAMO](../Page/SEAMO.md "wikilink")とのコラボ作品「Rising Dragon」が起用された。
+  - 2007年[9月26日](../Page/9月26日.md "wikilink")、ファーストシングル「NEXT STATION」をリリース。今作ではコラボレーション企画第1弾として[フィーチャリング](../Page/フィーチャリング.md "wikilink")に[渡辺俊美](https://ja.wikipedia.org/wiki/渡辺俊美 "wikilink")（[TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")、[THE ZOOT16](https://ja.wikipedia.org/wiki/THE_ZOOT16 "wikilink")）を迎えている。
+  - 2007年[10月24日](../Page/10月24日.md "wikilink")、セカンドシングル「HOME」をリリース。コラボレーション企画第2弾は[フィーチャリング](../Page/フィーチャリング.md "wikilink")に[BENNIE Kを迎えている](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")。
   - 2007年[11月28日](../Page/11月28日.md "wikilink")、セカンドアルバム『touch』をリリース。3か月連続リリースが成立する。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")、サードシングル「ナミダ」をリリース。個人単独名義では初のシングルとなる。
   - [2009年](../Page/2009年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、4枚目のシングル「ハレバレ」をリリース。
@@ -297,7 +297,7 @@ AVCD-23402:CD</p></td>
 
 <!-- end list -->
 
-  - **BENNIE K 『[Joy Trip](https://ja.wikipedia.org/wiki/Joy_Trip "wikilink")』** （2006年11月8日）
+  - **BENNIE K 『[Joy Trip](../Page/Joy_Trip.md "wikilink")』** （2006年11月8日）
 
 <!-- end list -->
 
@@ -306,7 +306,7 @@ AVCD-23402:CD</p></td>
 
 <!-- end list -->
 
-  - **[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink") 『[Fly Away](../Page/Fly_Away_\(SEAMOの曲\).md "wikilink")』** （2007年7月25日）
+  - **[SEAMO](../Page/SEAMO.md "wikilink") 『[Fly Away](../Page/Fly_Away_\(SEAMOの曲\).md "wikilink")』** （2007年7月25日）
 
 <!-- end list -->
 
@@ -333,16 +333,16 @@ AVCD-23402:CD</p></td>
 
 ## ミュージックビデオ
 
-|                                                                           |                                                                 |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **監督**                                                                    | **曲名**                                                          |
-| [KOHTAROH OGAWA](https://ja.wikipedia.org/wiki/KOHTAROH_OGAWA "wikilink") | 「MAWASE」                                                        |
-| [川嶋大輔](https://ja.wikipedia.org/wiki/川嶋大輔 "wikilink")                     | 「Dream Catcha feat.Diggy-MO'(SOUL'd OUT)」                       |
-| [佐藤竜憲](https://ja.wikipedia.org/wiki/佐藤竜憲 "wikilink")                     | 「ナミダ」(出演:[近野成美](https://ja.wikipedia.org/wiki/近野成美 "wikilink")) |
-| [清水康彦](../Page/清水康彦.md "wikilink")                                        | 「HOME」                                                          |
-| [谷正徳](https://ja.wikipedia.org/wiki/谷正徳 "wikilink")(tani masanori)        | 「Down Down feat.MILI from FU-TEN」「SKY〜もう一度あの時のように〜」             |
-| [nodea](https://ja.wikipedia.org/wiki/nodea "wikilink")(Tatsuki\&Natori)  | 「NEXT STATION」                                                  |
-| 不明                                                                        | 「ハレバレ」(出演:[中村蒼](../Page/中村蒼.md "wikilink"))                     |
+|                                                                           |                                                     |
+| ------------------------------------------------------------------------- | --------------------------------------------------- |
+| **監督**                                                                    | **曲名**                                              |
+| [KOHTAROH OGAWA](https://ja.wikipedia.org/wiki/KOHTAROH_OGAWA "wikilink") | 「MAWASE」                                            |
+| [川嶋大輔](https://ja.wikipedia.org/wiki/川嶋大輔 "wikilink")                     | 「Dream Catcha feat.Diggy-MO'(SOUL'd OUT)」           |
+| [佐藤竜憲](https://ja.wikipedia.org/wiki/佐藤竜憲 "wikilink")                     | 「ナミダ」(出演:[近野成美](../Page/近野成美.md "wikilink"))        |
+| [清水康彦](../Page/清水康彦.md "wikilink")                                        | 「HOME」                                              |
+| [谷正徳](https://ja.wikipedia.org/wiki/谷正徳 "wikilink")(tani masanori)        | 「Down Down feat.MILI from FU-TEN」「SKY〜もう一度あの時のように〜」 |
+| [nodea](https://ja.wikipedia.org/wiki/nodea "wikilink")(Tatsuki\&Natori)  | 「NEXT STATION」                                      |
+| 不明                                                                        | 「ハレバレ」(出演:[中村蒼](../Page/中村蒼.md "wikilink"))         |
 
 ## 主なライブ
 
@@ -350,7 +350,7 @@ AVCD-23402:CD</p></td>
   - 2006年08月26日 - [a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") 2006
   - 2006年10月07日 - MINAMI WHEEL 2006
   - 2007年10月28日 - MINAMI WHEEL 2007
-  - 2008年01月20日 - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink") Round About Tour～2007年シーモ半期 珍プレー好プレー大賞
+  - 2008年01月20日 - [SEAMO](../Page/SEAMO.md "wikilink") Round About Tour～2007年シーモ半期 珍プレー好プレー大賞
   - 2008年3月07日 - FILTER88 新年一発目スペシャル\!\!
   - 2008年08月24日 - a-nation 2008
   - 2013年12月29日 - FAMILY ～未来へつなぐ一歩～

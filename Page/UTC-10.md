@@ -10,13 +10,13 @@
 ### 標準時（通年）
 
   -   - [ハワイ・アリューシャン標準時](../Page/ハワイ・アリューシャン標準時.md "wikilink") - HAST
-          - [ジョンストン島](https://ja.wikipedia.org/wiki/ジョンストン島 "wikilink")
+          - [ジョンストン島](../Page/ジョンストン島.md "wikilink")
           - [ハワイ州](../Page/ハワイ州.md "wikilink")
 
   -
-  -   - [ソシエテ諸島](https://ja.wikipedia.org/wiki/ソシエテ諸島 "wikilink")
-      - [トゥアモトゥ諸島](https://ja.wikipedia.org/wiki/トゥアモトゥ諸島 "wikilink")
-      - [オーストラル諸島](https://ja.wikipedia.org/wiki/オーストラル諸島 "wikilink")
+  -   - [ソシエテ諸島](../Page/ソシエテ諸島.md "wikilink")
+      - [トゥアモトゥ諸島](../Page/トゥアモトゥ諸島.md "wikilink")
+      - [オーストラル諸島](../Page/オーストラル諸島.md "wikilink")
 
 ### 標準時（北半球冬）
 
@@ -27,7 +27,7 @@
 
 アメリカ合衆国の[ハワイ・アリューシャン標準時](../Page/ハワイ・アリューシャン標準時.md "wikilink")のうち[アリューシャン列島](../Page/アリューシャン列島.md "wikilink")西経169度30分以西と[セントローレンス島](https://ja.wikipedia.org/wiki/セントローレンス島 "wikilink")では夏時間（[UTC-9](https://ja.wikipedia.org/wiki/UTC-9 "wikilink")）を実施している。このため、UTC-10 なのは冬期のみである。一方ハワイでは夏時間は行われていない。 [ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")は1900年から1947年まで、-10:30 が標準時だった\[1\]。
 
-[キリバス](../Page/キリバス.md "wikilink")の[ライン諸島](https://ja.wikipedia.org/wiki/ライン諸島 "wikilink")では1994年暮れまで UTC-10 を用いていたが、1994年12月31日を1日飛び越えて [UTC+14](../Page/UTC+14.md "wikilink") になった。
+[キリバス](../Page/キリバス.md "wikilink")の[ライン諸島](../Page/ライン諸島.md "wikilink")では1994年暮れまで UTC-10 を用いていたが、1994年12月31日を1日飛び越えて [UTC+14](../Page/UTC+14.md "wikilink") になった。
 
 [サモア](../Page/サモア.md "wikilink")では2010年9月から[夏時間](../Page/夏時間.md "wikilink")を UTC-10 としていたが\[2\]、2011年12月に UTC+14 へと変更。トケラウの標準時も同様に変更された。
 

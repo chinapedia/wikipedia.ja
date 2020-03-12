@@ -1,9 +1,9 @@
 > この記事は[Archie](https://ja.wikipedia.org/wiki/Archie)から翻訳されています。
 
 
-**archie**（アーキー、アーチー）は、[FTPサーバ](https://ja.wikipedia.org/wiki/FTPサーバ "wikilink")のアーカイブの索引を作り、特定のファイルを検索できるようにした、[クライアント・サーバ](https://ja.wikipedia.org/wiki/クライアント・サーバ "wikilink")型システム。史上初のインターネット[検索エンジン](../Page/検索エンジン.md "wikilink")と呼べるものである。 なお、archieが検索するのはファイル名であり、ファイルの内容ではない。
+**archie**（アーキー、アーチー）は、[FTPサーバ](../Page/FTPサーバ.md "wikilink")のアーカイブの索引を作り、特定のファイルを検索できるようにした、[クライアント・サーバ](https://ja.wikipedia.org/wiki/クライアント・サーバ "wikilink")型システム。史上初のインターネット[検索エンジン](../Page/検索エンジン.md "wikilink")と呼べるものである。 なお、archieが検索するのはファイル名であり、ファイルの内容ではない。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[モントリオール](../Page/モントリオール.md "wikilink")の[マギル大学](https://ja.wikipedia.org/wiki/マギル大学 "wikilink")の学生が最初の実装を開発した。 初期のarchieは単純にFTPサーバに接続してファイルの一覧を取得し（サーバに負荷をかけないよう、月に一度程度）、[UNIX](../Page/UNIX.md "wikilink")の[grep](https://ja.wikipedia.org/wiki/grep "wikilink")コマンドで検索していた。 後に、より効率のよい[フロントエンド](../Page/フロントエンド.md "wikilink")・バックエンドが開発され、archieは単なるローカルのツールにとどまらず、インターネット上のいくつものサイトで提供される人気の高いサービスとなった。 そのようなarchieサーバは、専用クライアント（archieやxarchieなど）、[Telnet](../Page/Telnet.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")、[WWWなどさまざまな方法でアクセスできるようになっていた](../Page/World_Wide_Web.md "wikilink")。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[モントリオール](../Page/モントリオール.md "wikilink")の[マギル大学](../Page/マギル大学.md "wikilink")の学生が最初の実装を開発した。 初期のarchieは単純にFTPサーバに接続してファイルの一覧を取得し（サーバに負荷をかけないよう、月に一度程度）、[UNIX](../Page/UNIX.md "wikilink")の[grep](https://ja.wikipedia.org/wiki/grep "wikilink")コマンドで検索していた。 後に、より効率のよい[フロントエンド](../Page/フロントエンド.md "wikilink")・バックエンドが開発され、archieは単なるローカルのツールにとどまらず、インターネット上のいくつものサイトで提供される人気の高いサービスとなった。 そのようなarchieサーバは、専用クライアント（archieやxarchieなど）、[Telnet](../Page/Telnet.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")、[WWWなどさまざまな方法でアクセスできるようになっていた](../Page/World_Wide_Web.md "wikilink")。
 
 archieという名前はarchiveに由来しているが、[Archieという名前の漫画も連想させる](https://ja.wikipedia.org/wiki/アーチー・コミック "wikilink")。 これはもともと意図したものではないが、これに影響されて、この漫画の登場人物のJugheadとVeronicaが[Gopher](https://ja.wikipedia.org/wiki/Gopher "wikilink")の検索システムの名前に使われた。
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-この曲は、[1999年](../Page/1999年.md "wikilink")の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボールワールドカップ](https://ja.wikipedia.org/wiki/バレーボールワールドカップ "wikilink")』イメージソングとなっており、PVの監督は[川村ケンスケ](../Page/川村ケンスケ.md "wikilink")が担当した。
+この曲は、[1999年](../Page/1999年.md "wikilink")の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボールワールドカップ](../Page/バレーボールワールドカップ.md "wikilink")』イメージソングとなっており、PVの監督は[川村ケンスケ](../Page/川村ケンスケ.md "wikilink")が担当した。
 
 [ジャケットの嵐の文字は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")が書いたものである。[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")と[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（[ラップ](../Page/ラップ.md "wikilink")）にソロパートが与えられている。
 
@@ -13,25 +13,25 @@
 
 なお、この曲の作詞を手掛けたJ\&Tは[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の後輩である[Sexy Zoneの](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")の父の[菊池常利](https://ja.wikipedia.org/wiki/菊池常利 "wikilink")である\[1\]。息子の風磨が後にジャニーズ事務所入りした際にはそのことを明かしていなかったためにジャニー喜多川社長が風磨を叱責したというエピソードもある\[2\]。
 
-カップリングの「明日に向かって」は元々[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の曲であり、嵐結成前の歌番組や[VHS](../Page/VHS.md "wikilink")の『素顔2』などではメインを[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（当時[タッキー&翼](../Page/タッキー&翼.md "wikilink")）、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）が歌っていた。そのバージョンはドラマ『[七人のサムライ J家の反乱](https://ja.wikipedia.org/wiki/七人のサムライ_J家の反乱 "wikilink")』で主題歌になっている。また収録されたものも、嵐以外の当時のJr.の声を聴くことが出来る。もともとは「REACH OUT FOR MY DREAM」という曲があったが、お蔵入りした。
+カップリングの「明日に向かって」は元々[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の曲であり、嵐結成前の歌番組や[VHS](../Page/VHS.md "wikilink")の『素顔2』などではメインを[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（当時[タッキー&翼](../Page/タッキー&翼.md "wikilink")）、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）が歌っていた。そのバージョンはドラマ『[七人のサムライ J家の反乱](../Page/七人のサムライ_J家の反乱.md "wikilink")』で主題歌になっている。また収録されたものも、嵐以外の当時のJr.の声を聴くことが出来る。もともとは「REACH OUT FOR MY DREAM」という曲があったが、お蔵入りした。
 
 [2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")には、嵐のシングル曲をリプロダクションする“Reborn”企画の第1弾として、表題曲をリプロダクションした楽曲「[A-RA-SHI : Reborn](https://ja.wikipedia.org/wiki/#A-RA-SHI_:_Reborn "wikilink")」が配信された。
 
 ## チャート成績
 
-[オリコン週間シングルチャートにおいては](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、1999年11月第3週のチャートで1位を獲得した\[3\]。
+[オリコン週間シングルチャートにおいては](../Page/オリコンチャート.md "wikilink")、1999年11月第3週のチャートで1位を獲得した\[3\]。
 
 初動売上は557430枚。2010年発売の「[果てない空](https://ja.wikipedia.org/wiki/果てない空 "wikilink")」が約57.2万枚を記録するまでは嵐のシングルで最高の初動売上を記録していた\[4\]\[5\]。ただし、累計売上（97万枚）は嵐のすべてのシングルの中で現在でも一番高い。
 
 ## 収録曲
 
-（全作曲・編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")）
+（全作曲・編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")）
 
 1.  **A・RA・SHI** \[4:26\]
     （作詞：[J\&T](https://ja.wikipedia.org/wiki/菊池常利 "wikilink")）
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[バレーボールワールドカップ1999](https://ja.wikipedia.org/wiki/1999年ワールドカップバレーボール "wikilink")』イメージソング
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[バレーボールワールドカップ1999](../Page/1999年ワールドカップバレーボール.md "wikilink")』イメージソング
 2.  **明日に向かって** \[4:32\]
-    （作詞：[大塚雄三](https://ja.wikipedia.org/wiki/大塚雄三 "wikilink")）
+    （作詞：[大塚雄三](../Page/大塚雄三.md "wikilink")）
       - 嵐主演 フジテレビ系ドラマ『[Vの嵐](../Page/Vの嵐.md "wikilink")』挿入歌
 3.  A・RA・SHI （[Original Karaoke](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 4.  明日に向かって （Original Karaoke）
@@ -51,13 +51,13 @@
 
 デビュー21年目に突入したタイミングで始動した、過去の嵐のシングル曲をリプロダクションする"Reborn"企画の第一弾。デビューシングル「A・RA・SHI」をリプロダクションした楽曲となっている。原曲とは異なり、櫻井が新たに書き下ろしたラップ詞が入っている他、ほぼ全編英語詞となっている\[8\]。
 
-ミュージックビデオは、嵐と同じく2019年に20周年を迎えたアニメ「[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")」とのコラボ作品となり、2020年1月4日に公開された\[9\]。
+ミュージックビデオは、嵐と同じく2019年に20周年を迎えたアニメ「[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")」とのコラボ作品となり、2020年1月4日に公開された\[9\]。
 
 ### 楽曲
 
 1.  **A-RA-SHI : Reborn** \[3:25\]
       -
-        作詞: [J\&T](https://ja.wikipedia.org/wiki/J&T "wikilink"), [Koji Makaino](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink"), Andreas Carlsson, [Erik Lidbom](https://ja.wikipedia.org/wiki/Erik_Lidbom "wikilink"), Geek Boy Al Swettenham
+        作詞: [J\&T](https://ja.wikipedia.org/wiki/J&T "wikilink"), [Koji Makaino](../Page/馬飼野康二.md "wikilink"), Andreas Carlsson, [Erik Lidbom](https://ja.wikipedia.org/wiki/Erik_Lidbom "wikilink"), Geek Boy Al Swettenham
         Rap詞:[Sho Sakurai](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、
         作曲:Erik Lidbom, Geek Boy Al Swettenham (Additional)
     <!-- end list -->

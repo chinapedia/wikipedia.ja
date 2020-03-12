@@ -1,13 +1,13 @@
 > この記事は[QP-CRAZY](https://ja.wikipedia.org/wiki/QP-CRAZY)から翻訳されています。
 
 
-**QP-CRAZY**（キューピークレイジー）は、日本のデジタルパンクまたは[ハードコアパンク](https://ja.wikipedia.org/wiki/ハードコアパンク "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属レーベルは[殺害塩化ビニール](https://ja.wikipedia.org/wiki/殺害塩化ビニール "wikilink")。
+**QP-CRAZY**（キューピークレイジー）は、日本のデジタルパンクまたは[ハードコアパンク](https://ja.wikipedia.org/wiki/ハードコアパンク "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属レーベルは[殺害塩化ビニール](../Page/殺害塩化ビニール.md "wikilink")。
 
-1994年から活動開始。 2004年にプロレタ（sampler）脱退。海外でも9作目である『タンク山の動物園』を発売している。意外な事に高い評価を受けていて、自分達のCDをミニストリー、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[ソニック・ユース](https://ja.wikipedia.org/wiki/ソニック・ユース "wikilink")などが崇拝していると言われる海外の[インダストリアル](https://ja.wikipedia.org/wiki/インダストリアル "wikilink")界の父・ジム・フィータスに無理やり送りつけたところ絶賛のファックスが送られ、そして本人が来日した時のインタビューでお気に入りの日本のバンドは？と聞かれたとき「[ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")とキューピークレイジー」と答えた。2011年4月29日に新作『串刺し祭2011-LIVE AT 尖閣諸島-』を発売。
+1994年から活動開始。 2004年にプロレタ（sampler）脱退。海外でも9作目である『タンク山の動物園』を発売している。意外な事に高い評価を受けていて、自分達のCDをミニストリー、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")などが崇拝していると言われる海外の[インダストリアル](../Page/インダストリアル.md "wikilink")界の父・ジム・フィータスに無理やり送りつけたところ絶賛のファックスが送られ、そして本人が来日した時のインタビューでお気に入りの日本のバンドは？と聞かれたとき「[ボアダムス](../Page/ボアダムス.md "wikilink")とキューピークレイジー」と答えた。2011年4月29日に新作『串刺し祭2011-LIVE AT 尖閣諸島-』を発売。
 
 ## メンバー
 
-  - [THE CRAZY SKB](https://ja.wikipedia.org/wiki/THE_CRAZY_SKB "wikilink") - ボーカル
+  - [THE CRAZY SKB](../Page/THE_CRAZY_SKB.md "wikilink") - ボーカル
   - KURA - ギター
   - MOTTY - ギター
   - [ツージーQ](https://ja.wikipedia.org/wiki/ツージーQ "wikilink") - ベース
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - **タンク山の動物園**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")）米国でも発売
+  - **タンク山の動物園**（[2005年](../Page/2005年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")）米国でも発売
 
 <!-- end list -->
 
@@ -189,6 +189,6 @@
 10. 第1戦 QP-CRAZY vs [ゲンドウミサイル](https://ja.wikipedia.org/wiki/ゲンドウミサイル "wikilink")
 11. 第2戦 QP-CRAZY vs 髑髏首
 12. 第3戦 QP-CRAZY vs 死ね死ね団
-13. 第4戦 QP-CRAZY vs [RAPES](https://ja.wikipedia.org/wiki/RAPES "wikilink")
+13. 第4戦 QP-CRAZY vs [RAPES](../Page/RAPES.md "wikilink")
 
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ハードコア・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ハードコア・パンク・バンド "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink")

@@ -27,22 +27,22 @@
 ### レギュラー
 
   - [中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
-  - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")（SMAP）
+  - [木村拓哉](../Page/木村拓哉.md "wikilink")（SMAP）
   - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（SMAP）
   - [森且行](../Page/森且行.md "wikilink")（SMAP）
   - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（SMAP）
   - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（SMAP）
-  - [島崎俊郎](https://ja.wikipedia.org/wiki/島崎俊郎 "wikilink")
+  - [島崎俊郎](../Page/島崎俊郎.md "wikilink")
   - [SHU](https://ja.wikipedia.org/wiki/SHU "wikilink") (本名・斎藤修一)
 
 ### メイン司会
 
   - 初代：[夏木ゆたか](../Page/夏木ゆたか.md "wikilink")
-  - 2代目：[水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")
+  - 2代目：[水島裕](../Page/水島裕_\(声優\).md "wikilink")
 
 ## スタッフ
 
-  - ナレーター：水島裕（初代）、[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")（2代目）
+  - ナレーター：水島裕（初代）、[堀内賢雄](../Page/堀内賢雄.md "wikilink")（2代目）
   - 構成：[青島利幸](https://ja.wikipedia.org/wiki/青島利幸 "wikilink")、内田英一
   - プロデューサー：渡辺つとむ、川幡浩
   - ディレクター：只野研治、[松澤潤](https://ja.wikipedia.org/wiki/松澤潤 "wikilink")、越山進 ほか
@@ -58,7 +58,7 @@
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")                        | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink")                                           |                   |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink")                          |                                                                                                 |                   |
 | [秋田県](../Page/秋田県.md "wikilink")                                  | [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")       | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")                                                 | 途中、打ち切り           |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")               | [山形テレビ](../Page/山形テレビ.md "wikilink")                        | [フジテレビ系列](../Page/フジネットワーク.md "wikilink") → [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") |                   |
+| [山形県](../Page/山形県.md "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")                        | [フジテレビ系列](../Page/フジネットワーク.md "wikilink") → [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") |                   |
 | [福島県](../Page/福島県.md "wikilink")                                  | [福島テレビ](../Page/福島テレビ.md "wikilink")                        | フジテレビ系列                                                                                         |                   |
 | [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink") |                                                                                                 |                   |
 | [岐阜県](../Page/岐阜県.md "wikilink")                                  | [岐阜放送](../Page/岐阜放送.md "wikilink")                          | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                                       |                   |
@@ -69,9 +69,9 @@
 | [奈良県](../Page/奈良県.md "wikilink")                                  | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")   | 独立UHF局                                                                                          |                   |
 | [和歌山県](../Page/和歌山県.md "wikilink")                                | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")   |                                                                                                 |                   |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")                 | 日本テレビ系列                                                                                         |                   |
-| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink")    | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                    | テレビ東京系列                                                                                         |                   |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                    | テレビ東京系列                                                                                         |                   |
 | [広島県](../Page/広島県.md "wikilink")                                  | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")   | フジテレビ系列                                                                                         | 1995年10月から半年間のみ放送 |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")               | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                    | テレビ東京系列                                                                                         |                   |
+| [福岡県](../Page/福岡県.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                    | テレビ東京系列                                                                                         |                   |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")       | TBS系列                                                                                           |                   |
 | [沖縄県](../Page/沖縄県.md "wikilink")（一部）                              | [宮古テレビ](../Page/宮古テレビ.md "wikilink")                        | [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局                                                       |                   |
 
@@ -87,4 +87,4 @@
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:ロッテ一社提供番組](https://ja.wikipedia.org/wiki/Category:ロッテ一社提供番組 "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink")
 
-1.  ただし、フジテレビにおける『SMAP×SMAP』の前身番組は『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』と『[SMAPのがんばりましょう](https://ja.wikipedia.org/wiki/SMAPのがんばりましょう "wikilink")』（何れも1995年秋に終了）である。
+1.  ただし、フジテレビにおける『SMAP×SMAP』の前身番組は『[夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")』と『[SMAPのがんばりましょう](../Page/SMAPのがんばりましょう.md "wikilink")』（何れも1995年秋に終了）である。

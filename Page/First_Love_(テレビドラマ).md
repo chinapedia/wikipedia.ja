@@ -7,28 +7,28 @@
 
   - 藤堂直：[渡部篤郎](../Page/渡部篤郎.md "wikilink")　
   - 江沢夏澄：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")　
-  - 木葉清一：[池内博之](https://ja.wikipedia.org/wiki/池内博之 "wikilink")　
-  - 五味妙子：[久我陽子](https://ja.wikipedia.org/wiki/久我陽子 "wikilink")　
+  - 木葉清一：[池内博之](../Page/池内博之.md "wikilink")　
+  - 五味妙子：[久我陽子](../Page/久我陽子.md "wikilink")　
   - 浜田万里子：[一戸奈未](https://ja.wikipedia.org/wiki/一戸奈未 "wikilink")　
-  - 青木千春：[内藤陽子](https://ja.wikipedia.org/wiki/内藤陽子 "wikilink")　
+  - 青木千春：[内藤陽子](../Page/内藤陽子.md "wikilink")　
   - 小峰幸彦：[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")　
-  - 二岡孝作：[天野浩成](https://ja.wikipedia.org/wiki/天野浩成 "wikilink")
+  - 二岡孝作：[天野浩成](../Page/天野浩成.md "wikilink")
   - 真鍋周子 : [上原美佐](https://ja.wikipedia.org/wiki/上原美佐_\(1983年生\) "wikilink")　
-  - 松原亜矢 : [眞野裕子](https://ja.wikipedia.org/wiki/眞野裕子 "wikilink")
+  - 松原亜矢 : [眞野裕子](../Page/眞野裕子.md "wikilink")
   - 横倉仁 : [芹沢名人](https://ja.wikipedia.org/wiki/芹沢名人 "wikilink")
-  - 有賀裕子 : [西山繭子](https://ja.wikipedia.org/wiki/西山繭子 "wikilink")
-  - 堀井仙太郎 : [近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")
+  - 有賀裕子 : [西山繭子](../Page/西山繭子.md "wikilink")
+  - 堀井仙太郎 : [近藤芳正](../Page/近藤芳正.md "wikilink")
   - 前園もみじ : [三田篤子](../Page/三田篤子.md "wikilink")
-  - 妹尾弘文 : [佐藤二朗](https://ja.wikipedia.org/wiki/佐藤二朗 "wikilink")
+  - 妹尾弘文 : [佐藤二朗](../Page/佐藤二朗.md "wikilink")
   - 江沢あかり：[大森暁美](../Page/大森暁美.md "wikilink")　
-  - 江沢守：[小野武彦](https://ja.wikipedia.org/wiki/小野武彦 "wikilink")　
-  - 江沢朋子：[和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")
+  - 江沢守：[小野武彦](../Page/小野武彦.md "wikilink")　
+  - 江沢朋子：[和久井映見](../Page/和久井映見.md "wikilink")
 
 ## スタッフ
 
-  - 脚本：[大石静](https://ja.wikipedia.org/wiki/大石静 "wikilink")
+  - 脚本：[大石静](../Page/大石静.md "wikilink")
   - プロデュース：[植田博樹](../Page/植田博樹.md "wikilink")　
-  - 演出：[生野慈朗](https://ja.wikipedia.org/wiki/生野慈朗 "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")、[松原浩](https://ja.wikipedia.org/wiki/松原浩 "wikilink")
+  - 演出：[生野慈朗](../Page/生野慈朗.md "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")、[松原浩](https://ja.wikipedia.org/wiki/松原浩 "wikilink")
   - 主題歌：「[SAKURAドロップス](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")」[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")
 
 ## 受賞歴
@@ -115,7 +115,7 @@
 <td><p>10.4%</p></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 10.2%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 10.2%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>

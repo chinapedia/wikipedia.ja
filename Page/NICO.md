@@ -16,7 +16,7 @@
 
 **ニコ**
 
-1.  [微笑み](https://ja.wikipedia.org/wiki/微笑み "wikilink")、[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")。
+1.  [微笑み](../Page/微笑み.md "wikilink")、[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")。
 2.  動画サイト「[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")」の略。
 3.  [ニコ (芸能プロダクション)](https://ja.wikipedia.org/wiki/ニコ_\(芸能プロダクション\) "wikilink")(nico inc.)　：日本の企業。株式会社ニコ。
 4.  [タカハシマコ](https://ja.wikipedia.org/wiki/タカハシマコ "wikilink")の漫画『[(ニコ)](https://ja.wikipedia.org/wiki/\(ニコ\) "wikilink")』、並びに同作品の登場人物の名前。
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-1.  [ニコ](https://ja.wikipedia.org/wiki/ニコ "wikilink")(Nico) - ドイツの歌手、モデル、女優。[アンディ・ウォーホール](https://ja.wikipedia.org/wiki/アンディ・ウォーホール "wikilink")ファクトリーの一員。
+1.  [ニコ](../Page/ニコ.md "wikilink")(Nico) - ドイツの歌手、モデル、女優。[アンディ・ウォーホール](https://ja.wikipedia.org/wiki/アンディ・ウォーホール "wikilink")ファクトリーの一員。
 2.  [ニコ・ロズベルグ](../Page/ニコ・ロズベルグ.md "wikilink")(Nico Rosberg) - ドイツの[F1ドライバー](../Page/フォーミュラ1.md "wikilink")。
 3.  [ニコ・ヒュルケンベルグ](../Page/ニコ・ヒュルケンベルグ.md "wikilink")(Nico Hülkenberg) - ドイツの[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")。
 4.  [谷川ニコ](https://ja.wikipedia.org/wiki/谷川ニコ "wikilink") - 日本の漫画家。
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-1.  フランスのサッカー選手、[ニコラ・アネルカ](https://ja.wikipedia.org/wiki/ニコラ・アネルカ "wikilink")(Nicolas Anelka)の愛称。
+1.  フランスのサッカー選手、[ニコラ・アネルカ](../Page/ニコラ・アネルカ.md "wikilink")(Nicolas Anelka)の愛称。
 
 ## 関連項目
 

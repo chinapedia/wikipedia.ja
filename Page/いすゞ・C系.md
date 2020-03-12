@@ -11,7 +11,7 @@
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:k-cjm520-1983.jpg "wikilink")\]\] この年は一時的に、屋根断面と前面方向幕がLV系と同様のデザインに変更された試作車体が[札幌市営バス向けのK](../Page/札幌市交通局.md "wikilink")-CJM520に架装されている（1996年まで運用）。 また中・後引戸扉を採用する事業者の車両においては、中・後引戸扉の窓が大型化している。
 
-[1984年](../Page/1984年.md "wikilink")、標準架装の[川重車体工業](https://ja.wikipedia.org/wiki/川重車体工業 "wikilink")製は運転席窓を拡大。 同年、後継車の[LV系へのモデルチェンジに伴い製造を終了した](https://ja.wikipedia.org/wiki/いすゞ・キュービック "wikilink")。
+[1984年](../Page/1984年.md "wikilink")、標準架装の[川重車体工業](https://ja.wikipedia.org/wiki/川重車体工業 "wikilink")製は運転席窓を拡大。 同年、後継車の[LV系へのモデルチェンジに伴い製造を終了した](../Page/いすゞ・キュービック.md "wikilink")。
 
 ## 特徴
 
@@ -23,7 +23,7 @@
 
 また低床車（架装車体会社によっては刻印表記）は、運転席が若干外板寄りである。標準架装の[川重車体工業](https://ja.wikipedia.org/wiki/川重車体工業 "wikilink")製における外観上の違いは、前扉のガラスが上向き位置は標準床、窓ガラス位置均衡が低床（一部例外あり）である。また、[BU系と同じく](../Page/いすゞ・BU.md "wikilink")[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")、[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")を架装した場合は、前輪のタイヤハウスの枠を大きく採るため、外観上の差異が判別できる。
 
-標準車体以外の架装例では、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")、[西日本車体工業](../Page/西日本車体工業.md "wikilink")、[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")、[日野車体工業](https://ja.wikipedia.org/wiki/日野車体工業 "wikilink")（[国鉄バス](https://ja.wikipedia.org/wiki/国鉄バス "wikilink")向け、特装車両として[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")向け献血車のみ）が存在した。富士重工製を架装したものは1982年までが3Eで、それ以降は5Eとなる。西日本車体工業製を架装したものは主に53MCだが、わずかながら58MCに架装した車両もある。日野車体工業製を架装した国鉄バス向けの車両は[日野・REと同様の車体だが](https://ja.wikipedia.org/wiki/日野・ブルーリボン#RE/RC系 "wikilink")、ライトベゼルは川重車体工業製車体と同一の物を使用していた。
+標準車体以外の架装例では、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")、[西日本車体工業](../Page/西日本車体工業.md "wikilink")、[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")、[日野車体工業](../Page/日野車体工業.md "wikilink")（[国鉄バス](../Page/国鉄バス.md "wikilink")向け、特装車両として[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")向け献血車のみ）が存在した。富士重工製を架装したものは1982年までが3Eで、それ以降は5Eとなる。西日本車体工業製を架装したものは主に53MCだが、わずかながら58MCに架装した車両もある。日野車体工業製を架装した国鉄バス向けの車両は[日野・REと同様の車体だが](https://ja.wikipedia.org/wiki/日野・ブルーリボン#RE/RC系 "wikilink")、ライトベゼルは川重車体工業製車体と同一の物を使用していた。
 
 ## 車両内部
 
@@ -49,13 +49,13 @@
 
 <!-- end list -->
 
-  - [川重車体工業](https://ja.wikipedia.org/wiki/いすゞバス製造 "wikilink")
+  - [川重車体工業](../Page/いすゞバス製造.md "wikilink")
 
-ファイル:K-CJM500-Nagasaki-Bus-2107.jpg|K-CJM500 [長崎バス](https://ja.wikipedia.org/wiki/長崎自動車 "wikilink") ファイル:Iwatekenkotsu isuzu K-CLA500 kawasaki.jpg|K-CLA500 [岩手県交通](../Page/岩手県交通.md "wikilink") ファイル:Towadakanko ISUZU K-CLA500.jpg|K-CLA500 [十和田観光電鉄](../Page/十和田観光電鉄.md "wikilink") ファイル:Iwatekenkotsu isuzu K-CJM500 kawasaki.jpg|K-CJM500 岩手県交通 ファイル:NanbuBus K-CJM550 No,533.jpg|K-CJM550（中扉大型窓） [南部バス](https://ja.wikipedia.org/wiki/南部バス "wikilink")（[京浜急行電鉄からの譲受車](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")） ファイル:K-CJM550-Tozan-B757.jpg|K-CJM550 箱根登山バス
+ファイル:K-CJM500-Nagasaki-Bus-2107.jpg|K-CJM500 [長崎バス](../Page/長崎自動車.md "wikilink") ファイル:Iwatekenkotsu isuzu K-CLA500 kawasaki.jpg|K-CLA500 [岩手県交通](../Page/岩手県交通.md "wikilink") ファイル:Towadakanko ISUZU K-CLA500.jpg|K-CLA500 [十和田観光電鉄](../Page/十和田観光電鉄.md "wikilink") ファイル:Iwatekenkotsu isuzu K-CJM500 kawasaki.jpg|K-CJM500 岩手県交通 ファイル:NanbuBus K-CJM550 No,533.jpg|K-CJM550（中扉大型窓） [南部バス](../Page/南部バス.md "wikilink")（[京浜急行電鉄からの譲受車](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")） ファイル:K-CJM550-Tozan-B757.jpg|K-CJM550 箱根登山バス
 
   - 純正以外のボディ
 
-ファイル:K-CJM500 TokaiBus 22-2023.jpg|K-CJM500 [東海自動車](https://ja.wikipedia.org/wiki/東海自動車 "wikilink")（[富士3E](https://ja.wikipedia.org/wiki/スバルカスタマイズ工房 "wikilink")） ファイル:Tobu-bus-6732.jpg|K-CJM500 [東武鉄道](../Page/東武鉄道.md "wikilink")（富士5E） ファイル:JRsikoku K-CLM470 hino.jpg|K-CLM470 [JR四国](https://ja.wikipedia.org/wiki/ジェイアール四国バス "wikilink")（[日野車体](https://ja.wikipedia.org/wiki/日野車体工業 "wikilink")） ファイル:JRhokkaidobus isuzu K-CJM550 hino.jpg|K-CJM550 [JR北海道](https://ja.wikipedia.org/wiki/ジェイ・アール北海道バス "wikilink")（日野車体） ファイル:Nishitetsu bus05.jpg|K-CJA520 [西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")（[西工58MC](../Page/西日本車体工業.md "wikilink")） ファイル:JobanKotsu-Isuzu-KitamuraBody.JPG|K-CJM500 [常磐交通自動車](../Page/常磐交通自動車.md "wikilink")（[北村](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")） ファイル:Iwatekenkotsu isuzu K-CJM500 kitamura.jpg|K-CJM500 岩手県交通（北村）
+ファイル:K-CJM500 TokaiBus 22-2023.jpg|K-CJM500 [東海自動車](../Page/東海自動車.md "wikilink")（[富士3E](../Page/スバルカスタマイズ工房.md "wikilink")） ファイル:Tobu-bus-6732.jpg|K-CJM500 [東武鉄道](../Page/東武鉄道.md "wikilink")（富士5E） ファイル:JRsikoku K-CLM470 hino.jpg|K-CLM470 [JR四国](../Page/ジェイアール四国バス.md "wikilink")（[日野車体](../Page/日野車体工業.md "wikilink")） ファイル:JRhokkaidobus isuzu K-CJM550 hino.jpg|K-CJM550 [JR北海道](../Page/ジェイ・アール北海道バス.md "wikilink")（日野車体） ファイル:Nishitetsu bus05.jpg|K-CJA520 [西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")（[西工58MC](../Page/西日本車体工業.md "wikilink")） ファイル:JobanKotsu-Isuzu-KitamuraBody.JPG|K-CJM500 [常磐交通自動車](../Page/常磐交通自動車.md "wikilink")（[北村](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")） ファイル:Iwatekenkotsu isuzu K-CJM500 kitamura.jpg|K-CJM500 岩手県交通（北村）
 
   - 輸出シャーシ/現地架装
 
@@ -66,14 +66,14 @@
 ## 補足
 
   - [小学館](../Page/小学館.md "wikilink")が月2回発行している[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")で連載された「ヒューマンスクランブル・人間交差点」（作：矢島正雄、画：引兼憲史）第8巻に収録されている「回送車」は、定年を控えた運転者と少年の関係を触れた作品で、その中に**いすゞ・C系**が描かれており時代背景が伺える。
-  - [味の素ゼネラルフーヅ](https://ja.wikipedia.org/wiki/味の素ゼネラルフーヅ "wikilink")のCM（出演俳優：[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")）に、雪の舞う並木道にひっそりと**いすゞ・C系**が出演している。
+  - [味の素ゼネラルフーヅ](https://ja.wikipedia.org/wiki/味の素ゼネラルフーヅ "wikilink")のCM（出演俳優：[堺正章](../Page/堺正章.md "wikilink")）に、雪の舞う並木道にひっそりと**いすゞ・C系**が出演している。
 
 ## 関連項目
 
-  - [いすゞバス製造](https://ja.wikipedia.org/wiki/いすゞバス製造 "wikilink")
+  - [いすゞバス製造](../Page/いすゞバス製造.md "wikilink")
   - [いすゞ・BU](../Page/いすゞ・BU.md "wikilink")
   - [いすゞ・スーパークルーザー](../Page/いすゞ・スーパークルーザー.md "wikilink")
-  - [いすゞ・キュービック](https://ja.wikipedia.org/wiki/いすゞ・キュービック "wikilink")
-  - [いすゞ・エルガLT](https://ja.wikipedia.org/wiki/いすゞ・エルガLT "wikilink")
+  - [いすゞ・キュービック](../Page/いすゞ・キュービック.md "wikilink")
+  - [いすゞ・エルガLT](../Page/いすゞ・エルガLT.md "wikilink")
 
 [Category:いすゞの車種](https://ja.wikipedia.org/wiki/Category:いすゞの車種 "wikilink") [Category:バス車両](https://ja.wikipedia.org/wiki/Category:バス車両 "wikilink")

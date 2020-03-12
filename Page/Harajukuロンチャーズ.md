@@ -5,13 +5,13 @@
 
 ## 概要
 
-開始当初は月曜日から金曜日までの夕方5時から2時間の生放送で、BS朝日内の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")『ガレリア』から放送。出演していたのは[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")に所属する新人の女の子たち（前身は**ANGEL EYES**\[1\]）だった。コンセプトは[リンカーンの名言をもじった](https://ja.wikipedia.org/wiki/エイブラハム・リンカーン "wikilink")「**女の子の女の子による女の子のための番組。**」。主に原宿での最新ファッションや、[10代の女の子たちの気になることをアンケート形式で紹介するなど](https://ja.wikipedia.org/wiki/ティーンエイジャー "wikilink")、盛り沢山の内容だった。また、サブコーナーとして出演者たちによるダンスバトルや、CDデビュー企画、スタジオ・[ミュージカル](../Page/ミュージカル.md "wikilink")なども放送された。
+開始当初は月曜日から金曜日までの夕方5時から2時間の生放送で、BS朝日内の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")『ガレリア』から放送。出演していたのは[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")に所属する新人の女の子たち（前身は**ANGEL EYES**\[1\]）だった。コンセプトは[リンカーンの名言をもじった](https://ja.wikipedia.org/wiki/エイブラハム・リンカーン "wikilink")「**女の子の女の子による女の子のための番組。**」。主に原宿での最新ファッションや、[10代の女の子たちの気になることをアンケート形式で紹介するなど](../Page/ティーンエイジャー.md "wikilink")、盛り沢山の内容だった。また、サブコーナーとして出演者たちによるダンスバトルや、CDデビュー企画、スタジオ・[ミュージカル](../Page/ミュージカル.md "wikilink")なども放送された。
 
 2002年4月から1年間は月曜から金曜までの夕方6時からの1時間に短縮され、前期はガレリアからの生放送、後期から最終回まではBS朝日のスタジオでの収録だった。2003年4月から、日曜日の昼3時30分から2時間半の生放送となったが、同年9月に終了した。
 
-当時は家庭にデジタル放送機器がそれほど普及していなかったため、視聴者は数少なかった（[BSフジ](../Page/BSフジ.md "wikilink")での「[アイドルダウンロードショー](../Page/鈴木あみのアイドルダウンロードショー.md "wikilink")」も同様）が、後に女優、タレントとしてメジャーになったメンバーも出演。[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")、[マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")（当時の芸名は、赤川こはる）、[佐藤めぐみ](https://ja.wikipedia.org/wiki/佐藤めぐみ "wikilink")、[枡田絵理奈](https://ja.wikipedia.org/wiki/枡田絵理奈 "wikilink")（元[TBSアナウンサー](../Page/TBSテレビ.md "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")・[堂林翔太](https://ja.wikipedia.org/wiki/堂林翔太 "wikilink")夫人）、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")（元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）、[海保エミリ](../Page/海保エミリ.md "wikilink")のTV初出演番組である。番組末期には、のちに声優として人気を得る[中島愛も出演していた](../Page/中島愛_\(声優\).md "wikilink")。
+当時は家庭にデジタル放送機器がそれほど普及していなかったため、視聴者は数少なかった（[BSフジ](../Page/BSフジ.md "wikilink")での「[アイドルダウンロードショー](../Page/鈴木あみのアイドルダウンロードショー.md "wikilink")」も同様）が、後に女優、タレントとしてメジャーになったメンバーも出演。[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")、[マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")（当時の芸名は、赤川こはる）、[佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")、[枡田絵理奈](https://ja.wikipedia.org/wiki/枡田絵理奈 "wikilink")（元[TBSアナウンサー](../Page/TBSテレビ.md "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")・[堂林翔太](https://ja.wikipedia.org/wiki/堂林翔太 "wikilink")夫人）、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")（元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）、[海保エミリ](../Page/海保エミリ.md "wikilink")のTV初出演番組である。番組末期には、のちに声優として人気を得る[中島愛も出演していた](../Page/中島愛_\(声優\).md "wikilink")。
 
-[大塚製薬](../Page/大塚製薬.md "wikilink")の単枠提供で出演者の飲み物も[ポカリスエット](https://ja.wikipedia.org/wiki/ポカリスエット "wikilink")で統一されていた。その他、最初の半年間の提供スポンサーは、[ロッテ](../Page/ロッテ.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")（NEC）、[富士フイルム](../Page/富士フイルム.md "wikilink")だった（ロッテ以外のスポンサーは、半年で提供終了）。
+[大塚製薬](../Page/大塚製薬.md "wikilink")の単枠提供で出演者の飲み物も[ポカリスエット](../Page/ポカリスエット.md "wikilink")で統一されていた。その他、最初の半年間の提供スポンサーは、[ロッテ](../Page/ロッテ.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")（NEC）、[富士フイルム](../Page/富士フイルム.md "wikilink")だった（ロッテ以外のスポンサーは、半年で提供終了）。
 
 ちなみに番組名のロンチャーズ(Launchers)とは発射台のことである。
 
@@ -19,7 +19,7 @@
 
   - [中島愛](../Page/中島愛_\(声優\).md "wikilink")\[2\]
   - [今井ちひろ](../Page/今井ちひろ.md "wikilink")
-  - [いとうあいこ](https://ja.wikipedia.org/wiki/いとうあいこ "wikilink")
+  - [いとうあいこ](../Page/いとうあいこ.md "wikilink")
   - 浦絵理香（現：[浦えりか](../Page/浦えりか.md "wikilink")）
   - 乙黒英里（現：[乙黒えり](../Page/乙黒えり.md "wikilink")）
   - 小貫華子
@@ -61,9 +61,9 @@
   - 伊達陽子
   - 角田瞳
   - [宮崎瑠依](../Page/宮崎瑠依.md "wikilink")
-  - [岡あゆみ](https://ja.wikipedia.org/wiki/岡あゆみ "wikilink")\[3\]
-  - [佐藤めぐみ](https://ja.wikipedia.org/wiki/佐藤めぐみ "wikilink")\[4\]
-  - [井端珠里](https://ja.wikipedia.org/wiki/井端珠里 "wikilink")
+  - [岡あゆみ](../Page/岡あゆみ.md "wikilink")\[3\]
+  - [佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")\[4\]
+  - [井端珠里](../Page/井端珠里.md "wikilink")
   - [朝比奈えり](../Page/朝比奈えり.md "wikilink")
   - [小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")\[5\]
   - 向一美
@@ -77,9 +77,9 @@
   - [沖樹莉亜](../Page/沖樹莉亜.md "wikilink")
   - [小泉絵美子](../Page/小泉絵美子.md "wikilink")
   - [神庭彩](https://ja.wikipedia.org/wiki/神庭彩 "wikilink")
-  - [上原奈美](https://ja.wikipedia.org/wiki/上原奈美 "wikilink")
+  - [上原奈美](../Page/上原奈美.md "wikilink")
   - 蓮沼茜
-  - 成田知香（現：[市川春樹](https://ja.wikipedia.org/wiki/市川春樹 "wikilink")）
+  - 成田知香（現：[市川春樹](../Page/市川春樹.md "wikilink")）
   - [神原麻由](https://ja.wikipedia.org/wiki/神原麻由 "wikilink")
   - 福本奈々
   - [天川美穂](../Page/天川美穂.md "wikilink")
@@ -129,13 +129,13 @@
   - [ロッテ](../Page/ロッテ.md "wikilink")
   - [富士フイルム](../Page/富士フイルム.md "wikilink")
   - [NEC](../Page/日本電気.md "wikilink")
-  - [大塚製薬](../Page/大塚製薬.md "wikilink")（[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")は[ポカリスエット](https://ja.wikipedia.org/wiki/ポカリスエット "wikilink")）
+  - [大塚製薬](../Page/大塚製薬.md "wikilink")（[提供クレジット](../Page/提供クレジット.md "wikilink")は[ポカリスエット](../Page/ポカリスエット.md "wikilink")）
 
 ## 楽曲
 
   - Launchers「Hello...goodbye/気分はSuper Girl\!」（2001年7月28日、ColumBS、CLM-001）
       - 「[Hello...good bye](https://ja.wikipedia.org/wiki/Hello...good_bye "wikilink")」は[RAMJET PULLEYの楽曲のカバーである](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")。但し、作詞はRAMJET PULLEY版と同じ[麻越さとみ](https://ja.wikipedia.org/wiki/麻越さとみ "wikilink")だが、RAMJET PULLEY版とは**歌詞が全く異なる**。
-      - 「気分はSuper Girl\!」は[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")から楽曲提供を受けている。
+      - 「気分はSuper Girl\!」は[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")から楽曲提供を受けている。
       - 後輩にあたる[ももいろクローバーと](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")[マジェスティックセブン](https://ja.wikipedia.org/wiki/マジェスティックセブン "wikilink")（MJ7）が、それぞれ両楽曲ともにカバーしている。（「Hello...good bye」はLaunchers版の歌詞をカバー。）
 
 ## イベント
@@ -145,7 +145,7 @@
 
 ## 関連項目
 
-  - [原宿AbemaNews](https://ja.wikipedia.org/wiki/原宿AbemaNews "wikilink") - テレビ朝日系[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")局[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")のAbemaNewsチャンネルで配信されている若者向け情報番組。平日夕方に原宿からの生放送、10-20代女性によるMC、流行情報をメインとした番組構成等が本番組と類似している。
+  - [原宿AbemaNews](https://ja.wikipedia.org/wiki/原宿AbemaNews "wikilink") - テレビ朝日系[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")局[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")のAbemaNewsチャンネルで配信されている若者向け情報番組。平日夕方に原宿からの生放送、10-20代女性によるMC、流行情報をメインとした番組構成等が本番組と類似している。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[Kiyo](https://ja.wikipedia.org/wiki/Kiyo)から翻訳されています。
 
 
-**kiyo**（キヨ、[1974年](../Page/1974年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[キーボディスト](https://ja.wikipedia.org/wiki/キーボディスト "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[Janne Da Arcの元メンバー](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身。[大阪府立枚方西高等学校](https://ja.wikipedia.org/wiki/大阪府立枚方西高等学校 "wikilink")卒業。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長159cm。
+**kiyo**（キヨ、[1974年](../Page/1974年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[キーボディスト](https://ja.wikipedia.org/wiki/キーボディスト "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[Janne Da Arcの元メンバー](../Page/Janne_Da_Arc.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身。[大阪府立枚方西高等学校](https://ja.wikipedia.org/wiki/大阪府立枚方西高等学校 "wikilink")卒業。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長159cm。
 
 ## 概要
 
@@ -19,13 +19,13 @@
 
 ## 影響
 
-影響を受けたアーティストとして[キース・エマーソン](https://ja.wikipedia.org/wiki/キース・エマーソン "wikilink")をあげている\[1\]。好きな音楽ジャンルは[ジャズ](../Page/ジャズ.md "wikilink")と[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")\[2\]で、ゲーム関連のタイアップ曲を作曲することが多い。（「[NEO VENUS](https://ja.wikipedia.org/wiki/NEO_VENUS "wikilink")」「[Destination](https://ja.wikipedia.org/wiki/振り向けば…/Destination "wikilink")」「[WILD FANG](https://ja.wikipedia.org/wiki/JOKER_\(Janne_Da_Arcのアルバム\)#収録曲 "wikilink")」等）。
+影響を受けたアーティストとして[キース・エマーソン](../Page/キース・エマーソン.md "wikilink")をあげている\[1\]。好きな音楽ジャンルは[ジャズ](../Page/ジャズ.md "wikilink")と[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")\[2\]で、ゲーム関連のタイアップ曲を作曲することが多い。（「[NEO VENUS](https://ja.wikipedia.org/wiki/NEO_VENUS "wikilink")」「[Destination](https://ja.wikipedia.org/wiki/振り向けば…/Destination "wikilink")」「[WILD FANG](https://ja.wikipedia.org/wiki/JOKER_\(Janne_Da_Arcのアルバム\)#収録曲 "wikilink")」等）。
 
 ## ディスコグラフィー
 
 ### アルバム
 
-  - [ARTISAN OF PLEASURE](https://ja.wikipedia.org/wiki/ARTISAN_OF_PLEASURE "wikilink")（2008年6月25日）
+  - [ARTISAN OF PLEASURE](../Page/ARTISAN_OF_PLEASURE.md "wikilink")（2008年6月25日）
 
 ### 映像作品
 
@@ -34,11 +34,11 @@
 
 ### 書籍
 
-  - kiyo風呂（2006年10月13日、[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")）
+  - kiyo風呂（2006年10月13日、[幻冬舎](../Page/幻冬舎.md "wikilink")）
 
 ### IA × Guitar magazine によるコンピレーション・アルバム
 
-[IA PROJECTと](https://ja.wikipedia.org/wiki/VOCALOID#1st_PLACE "wikilink")[ギター・マガジンのコラボによる](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")の製作に[youと共同で参加](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink")。収録曲「キライ」を作曲した\[3\]。
+[IA PROJECTと](https://ja.wikipedia.org/wiki/VOCALOID#1st_PLACE "wikilink")[ギター・マガジンのコラボによる](../Page/リットーミュージック.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")の製作に[youと共同で参加](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink")。収録曲「キライ」を作曲した\[3\]。
 
   - [Guitar magazine presents SUPER GUITARISTS meets IA](https://ja.wikipedia.org/wiki/Guitar_magazine_presents_SUPER_GUITARISTS_meets_IA "wikilink")（[2015年](../Page/2015年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")）
 
@@ -46,7 +46,7 @@
 
 1.  [DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")（2013年9月4日）
       -
-        Sacrifice Of The Visionにキーボードで参加。Vo：[aki](https://ja.wikipedia.org/wiki/Aki_\(男性歌手\) "wikilink")、Gt：[千聖](https://ja.wikipedia.org/wiki/千聖 "wikilink")、Ba：[IKUO](https://ja.wikipedia.org/wiki/IKUO "wikilink")、Dr：[LEVIN](https://ja.wikipedia.org/wiki/LEVIN "wikilink")。
+        Sacrifice Of The Visionにキーボードで参加。Vo：[aki](../Page/Aki_\(男性歌手\).md "wikilink")、Gt：[千聖](../Page/千聖.md "wikilink")、Ba：[IKUO](https://ja.wikipedia.org/wiki/IKUO "wikilink")、Dr：[LEVIN](https://ja.wikipedia.org/wiki/LEVIN "wikilink")。
 2.  [Clef Leaf](https://ja.wikipedia.org/wiki/Label_The_Garden "wikilink")「眠れる姫にくちづけを」（2018年3月21日）- 作曲
 3.  [Shine Fine Movement](https://ja.wikipedia.org/wiki/Label_The_Garden#Shine_Fine_Movement "wikilink")「Love Magic」（2018年6月27日）- 作曲
 4.  Shine Fine Movement「雪桜」（2018年12月19日）- 作曲

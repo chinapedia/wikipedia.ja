@@ -1,7 +1,7 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-**アラン・エドワード・ナース**（Alan Edward Nourse, [1928年](../Page/1928年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")。[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")生まれ。表記は、ファーストネームを略して**A・E・ナース**とも。古い資料では姓をナーズ、ノースと表記するものもある。
+**アラン・エドワード・ナース**（Alan Edward Nourse, [1928年](../Page/1928年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")-[1992年](../Page/1992年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")生まれ。表記は、ファーストネームを略して**A・E・ナース**とも。古い資料では姓をナーズ、ノースと表記するものもある。
 
 主に1950年代のアメリカでSFを執筆した。本来は医学畑の人で、医学をテーマにした作品も少なくない。ノンフィクションの著作もある。[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")の会長を務めたことがある。
 
@@ -34,7 +34,7 @@
   - Brightside Crossing(1956) 「焦熱面横断」
       - [山本弘編](../Page/山本弘_\(作家\).md "wikilink")『火星ノンステップ - ヴィンテージSFセレクション』（2005年）に所収
   - The Coffin Cure(1957) 「コフィン療法」
-      - [浅倉久志](https://ja.wikipedia.org/wiki/浅倉久志 "wikilink")編『世界ユーモアSF傑作選1』に所収
+      - [浅倉久志](../Page/浅倉久志.md "wikilink")編『世界ユーモアSF傑作選1』に所収
   - A Miracle Too Many(1964) 「一つ多すぎた奇跡」（フィリッブ・H・スミスと共作）
       - [ジュディス・メリル](https://ja.wikipedia.org/wiki/ジュディス・メリル "wikilink")編『年刊SF傑作選5』（1973年）に所収
   - The Compleat Consummators(1964) 「完全なる結婚」

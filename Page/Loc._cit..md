@@ -1,7 +1,7 @@
 > この記事は[Loc. cit.](https://ja.wikipedia.org/wiki/Loc._cit.)から翻訳されています。
 
 
-**loc. cit.** はラテン語の *loco citato* の省略形で、「示した場所にある」の意味を持つ。この語は、[脚注](https://ja.wikipedia.org/wiki/脚注 "wikilink")や[尾注](https://ja.wikipedia.org/wiki/尾注 "wikilink")や[引用](../Page/引用.md "wikilink")や[参考文献](../Page/参考文献.md "wikilink")において、直前に示した文献と同じ文献で同じページの場合に使用される。
+**loc. cit.** はラテン語の *loco citato* の省略形で、「示した場所にある」の意味を持つ。この語は、[脚注](../Page/脚注.md "wikilink")や[尾注](https://ja.wikipedia.org/wiki/尾注 "wikilink")や[引用](../Page/引用.md "wikilink")や[参考文献](../Page/参考文献.md "wikilink")において、直前に示した文献と同じ文献で同じページの場合に使用される。
 
 [Ibid.](../Page/Ibid..md "wikilink") と同じ様に使用され、参照先の文献だけでなく、そのページも同一である場合に使用する。また、ページが同一か異なるかに関わらず同様の使い方をする語に [op. cit.](https://ja.wikipedia.org/wiki/op._cit. "wikilink") がある。今日では、loc. cit. は稀にしか使用されない。
 
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [書誌学](https://ja.wikipedia.org/wiki/書誌学 "wikilink")
+  - [書誌学](../Page/書誌学.md "wikilink")
   - [Ibid.](../Page/Ibid..md "wikilink")
   - [Op. cit.](../Page/Op._cit..md "wikilink")
 

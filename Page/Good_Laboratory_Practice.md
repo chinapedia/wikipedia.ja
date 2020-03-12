@@ -1,13 +1,13 @@
 > この記事は[Good Laboratory Practice](https://ja.wikipedia.org/wiki/Good_Laboratory_Practice)から翻訳されています。
 
 
-**Good Laboratory Practice**（**GLP**、グッド・ラボラトリー・プラクティス）は、医薬品の[非臨床試験](https://ja.wikipedia.org/wiki/非臨床試験 "wikilink")の安全性に関する信頼性を確保するための基準である。日本語では**優良試験所規範**や**優良試験所基準**などと訳される。
+**Good Laboratory Practice**（**GLP**、グッド・ラボラトリー・プラクティス）は、医薬品の[非臨床試験](../Page/非臨床試験.md "wikilink")の安全性に関する信頼性を確保するための基準である。日本語では**優良試験所規範**や**優良試験所基準**などと訳される。
 
-1978年、アメリカでGLPが制定され、背景には[サリドマイド](https://ja.wikipedia.org/wiki/サリドマイド "wikilink")薬害があり、その非臨床試験の安全性の試験に虚偽や捏造があったためである。日本ではアメリカを例にとり、1982年より薬発第313号が公布されることではじまり、1983年の「医薬品の臨床試験の実施に関する基準（案）」 (GCP) を公表し、1989年に正式に通知された。1980年代初頭には、日本では治験の形式を満たすだけの試験によって、第三者の監査が適切に得られないとか、偏ったデータの解析など、形骸化した臨床試験が増えていた。 1981年には[経済協力開発機構](https://ja.wikipedia.org/wiki/経済協力開発機構 "wikilink")（OECD）がGLP基準を策定し、これを元にしたGLPの導入を各国に求めた。これを契機として各国において各種のGLPが制定された。
+1978年、アメリカでGLPが制定され、背景には[サリドマイド](../Page/サリドマイド.md "wikilink")薬害があり、その非臨床試験の安全性の試験に虚偽や捏造があったためである。日本ではアメリカを例にとり、1982年より薬発第313号が公布されることではじまり、1983年の「医薬品の臨床試験の実施に関する基準（案）」 (GCP) を公表し、1989年に正式に通知された。1980年代初頭には、日本では治験の形式を満たすだけの試験によって、第三者の監査が適切に得られないとか、偏ったデータの解析など、形骸化した臨床試験が増えていた。 1981年には[経済協力開発機構](../Page/経済協力開発機構.md "wikilink")（OECD）がGLP基準を策定し、これを元にしたGLPの導入を各国に求めた。これを契機として各国において各種のGLPが制定された。
 
 ## 日本
 
-日本では[薬事法](https://ja.wikipedia.org/wiki/薬事法 "wikilink")による医薬品等の開発のために行われる[非臨床試験](https://ja.wikipedia.org/wiki/非臨床試験 "wikilink")（動物試験等、特に安全性試験）のデータの信頼性を確保するための実施基準としてはじめて導入された。以後[食品衛生法](https://ja.wikipedia.org/wiki/食品衛生法 "wikilink")などの[公定法](https://ja.wikipedia.org/wiki/公定法 "wikilink")による検査等においても適用された。
+日本では[薬事法](https://ja.wikipedia.org/wiki/薬事法 "wikilink")による医薬品等の開発のために行われる[非臨床試験](../Page/非臨床試験.md "wikilink")（動物試験等、特に安全性試験）のデータの信頼性を確保するための実施基準としてはじめて導入された。以後[食品衛生法](../Page/食品衛生法.md "wikilink")などの[公定法](https://ja.wikipedia.org/wiki/公定法 "wikilink")による検査等においても適用された。
 
   - 「医薬品の安全性に関する非臨床試験の実施の基準に関する省令」（平成9年3月26日厚生省令第21号）\[1\]
   - 「農薬の毒性に関する試験の適正実施に係る基準」（平成11年10月1日付11農産第6283号農林水産省農産園芸局長通知）\[2\]
@@ -24,7 +24,7 @@
   -
 ## 関連項目
 
-  - [非臨床試験](https://ja.wikipedia.org/wiki/非臨床試験 "wikilink")
+  - [非臨床試験](../Page/非臨床試験.md "wikilink")
 
 [Category:薬学](https://ja.wikipedia.org/wiki/Category:薬学 "wikilink") [Category:食品衛生](https://ja.wikipedia.org/wiki/Category:食品衛生 "wikilink") [Category:毒性学](https://ja.wikipedia.org/wiki/Category:毒性学 "wikilink") [Category:経済協力開発機構](https://ja.wikipedia.org/wiki/Category:経済協力開発機構 "wikilink") [Category:GxP](https://ja.wikipedia.org/wiki/Category:GxP "wikilink")
 

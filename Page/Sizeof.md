@@ -1,11 +1,11 @@
 > この記事は[Sizeof](https://ja.wikipedia.org/wiki/Sizeof)から翻訳されています。
 
 
-主に[Cと](../Page/C言語.md "wikilink")[C++](../Page/C++.md "wikilink")において、**`sizeof`**は、[データ型](https://ja.wikipedia.org/wiki/データ型 "wikilink")の大きさを求める[単項の](https://ja.wikipedia.org/wiki/単項演算 "wikilink")[演算子](../Page/演算子.md "wikilink")である。`sizeof`は原則として[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")時計算される演算子で、[式もしくは括弧でくくった型指定子を与えるとその大きさを](https://ja.wikipedia.org/wiki/式_\(プログラミング\) "wikilink")[バイト単位で返す](../Page/バイト_\(情報\).md "wikilink")。これは組込の数値型（[整数型](https://ja.wikipedia.org/wiki/整数型 "wikilink")や[浮動小数点数](../Page/浮動小数点数.md "wikilink")型）、[列挙型](../Page/列挙型.md "wikilink")、[ポインタ型](../Page/ポインタ_\(プログラミング\).md "wikilink")、利用者定義の複合データ型（[構造体](../Page/構造体.md "wikilink")、[共用体](https://ja.wikipedia.org/wiki/共用体 "wikilink")、C++の[クラス](../Page/クラス_\(コンピュータ\).md "wikilink")）まで全てのデータ型に対して使用できる。
+主に[Cと](../Page/C言語.md "wikilink")[C++](../Page/C++.md "wikilink")において、**`sizeof`**は、[データ型](../Page/データ型.md "wikilink")の大きさを求める[単項の](https://ja.wikipedia.org/wiki/単項演算 "wikilink")[演算子](../Page/演算子.md "wikilink")である。`sizeof`は原則として[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")時計算される演算子で、[式もしくは括弧でくくった型指定子を与えるとその大きさを](../Page/式_\(プログラミング\).md "wikilink")[バイト単位で返す](../Page/バイト_\(情報\).md "wikilink")。これは組込の数値型（[整数型](../Page/整数型.md "wikilink")や[浮動小数点数](../Page/浮動小数点数.md "wikilink")型）、[列挙型](../Page/列挙型.md "wikilink")、[ポインタ型](../Page/ポインタ_\(プログラミング\).md "wikilink")、利用者定義の複合データ型（[構造体](../Page/構造体.md "wikilink")、[共用体](https://ja.wikipedia.org/wiki/共用体 "wikilink")、C++の[クラス](../Page/クラス_\(コンピュータ\).md "wikilink")）まで全てのデータ型に対して使用できる。
 
 ## 必要性
 
-多くのプログラムで、データ型の大きさがわかると便利な状況がある。最もよくある例としては[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")の[`malloc`](https://ja.wikipedia.org/wiki/malloc "wikilink")などによる[動的メモリ確保](https://ja.wikipedia.org/wiki/動的メモリ確保 "wikilink")が挙げられる。組込型の大きさは処理系定義となっており、厳密な大きさは`sizeof (char)`が`1`であることを除いて標準に定められていない。次の例では10個の要素を持つ`int`型の[配列](../Page/配列.md "wikilink")を格納するのに十分なメモリを確保しようとしている。（処理系に依存したコードを書くつもりでなければ）`int`型の正確な大きさはわからないので`sizeof`が必要となる。
+多くのプログラムで、データ型の大きさがわかると便利な状況がある。最もよくある例としては[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")の[`malloc`](https://ja.wikipedia.org/wiki/malloc "wikilink")などによる[動的メモリ確保](../Page/動的メモリ確保.md "wikilink")が挙げられる。組込型の大きさは処理系定義となっており、厳密な大きさは`sizeof (char)`が`1`であることを除いて標準に定められていない。次の例では10個の要素を持つ`int`型の[配列](../Page/配列.md "wikilink")を格納するのに十分なメモリを確保しようとしている。（処理系に依存したコードを書くつもりでなければ）`int`型の正確な大きさはわからないので`sizeof`が必要となる。
 
 ``` c
 int *pointer; /*intへのポインタ型、メモリ確保したデータを参照する*/
@@ -20,7 +20,7 @@ pointer = malloc(sizeof (int) * 10);
 
 ### 使用方法
 
-`sizeof`演算子は、メモリ上に領域を占めるものであれば、ほとんどどどんなものに対しても使用できる。`sizeof`を使うには、キーワード`sizeof`の後に変数や[式あるいは括弧でくくった上で型名を書く](https://ja.wikipedia.org/wiki/式_\(プログラミング\) "wikilink")。変数や式の場合は、括弧でくくるかどうかは自由である。次の例では`int`型が`char`型の4倍のサイズを持つ実装の場合、`1, 4`と出力される（なお、`char`型に`sizeof`演算子を適用した結果は全ての実装において1でなければならない）。
+`sizeof`演算子は、メモリ上に領域を占めるものであれば、ほとんどどどんなものに対しても使用できる。`sizeof`を使うには、キーワード`sizeof`の後に変数や[式あるいは括弧でくくった上で型名を書く](../Page/式_\(プログラミング\).md "wikilink")。変数や式の場合は、括弧でくくるかどうかは自由である。次の例では`int`型が`char`型の4倍のサイズを持つ実装の場合、`1, 4`と出力される（なお、`char`型に`sizeof`演算子を適用した結果は全ての実装において1でなければならない）。
 
 ``` c
 // C99
@@ -44,7 +44,7 @@ printf("%lu, %lu", (unsigned long) sizeof c, (unsigned long) sizeof (int));
 
 `sizeof`を関数型、[ビットフィールド](https://ja.wikipedia.org/wiki/ビットフィールド "wikilink")、不完全型（[後述](https://ja.wikipedia.org/wiki/#sizeofと不完全型 "wikilink")）に対して使用することはできない。
 
-なお、[`printf`](https://ja.wikipedia.org/wiki/printf "wikilink")などで`size_t`型を書式出力する場合、[C99](../Page/C99.md "wikilink")で追加された長さ修飾子`z`を用いる。 C99に対応していない処理系では、引数をキャストするか、処理系依存の修飾子（たとえば[Microsoft Visual C++ならば修飾子](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink")`I`）を用いる。
+なお、[`printf`](https://ja.wikipedia.org/wiki/printf "wikilink")などで`size_t`型を書式出力する場合、[C99](../Page/C99.md "wikilink")で追加された長さ修飾子`z`を用いる。 C99に対応していない処理系では、引数をキャストするか、処理系依存の修飾子（たとえば[Microsoft Visual C++ならば修飾子](../Page/Microsoft_Visual_C++.md "wikilink")`I`）を用いる。
 
 もし`%u`を使用すると、`size_t`型と`unsigned int`型のサイズが異なる環境において未定義動作となる。
 
@@ -73,7 +73,7 @@ int main(void)
 }
 ```
 
-[C99](../Page/C99.md "wikilink")で[可変長配列](https://ja.wikipedia.org/wiki/可変長配列 "wikilink")に対して `sizeof`を適用する場合、配列の大きさは実行時に動的に計算され、コンパイル時定数にはならない。
+[C99](../Page/C99.md "wikilink")で[可変長配列](../Page/可変長配列.md "wikilink")に対して `sizeof`を適用する場合、配列の大きさは実行時に動的に計算され、コンパイル時定数にはならない。
 
 #### `sizeof`と不完全型
 
@@ -141,7 +141,7 @@ void main()
 
 ## ActiveBasic
 
-[ActiveBasic](https://ja.wikipedia.org/wiki/ActiveBasic "wikilink")では、Visual Basicと同様の`Len`組込関数を持っているほか、`SizeOf`組込関数を持っている。`Len`は型名を指定することができないが、`SizeOf`は型名を指定できる。逆に`SizeOf`に変数や式を指定することはできない。
+[ActiveBasic](../Page/ActiveBasic.md "wikilink")では、Visual Basicと同様の`Len`組込関数を持っているほか、`SizeOf`組込関数を持っている。`Len`は型名を指定することができないが、`SizeOf`は型名を指定できる。逆に`SizeOf`に変数や式を指定することはできない。
 
 ## 脚注
 

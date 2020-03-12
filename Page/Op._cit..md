@@ -1,7 +1,7 @@
 > この記事は[Op. cit.](https://ja.wikipedia.org/wiki/Op._cit.)から翻訳されています。
 
 
-**op. cit.** はラテン語の *opus citatum* もしくは *opere citato* の省略形で、「提示した作品」もしくは、「提示した作品より」の意味を持つ。この語は、[脚注](https://ja.wikipedia.org/wiki/脚注 "wikilink")や[尾注](https://ja.wikipedia.org/wiki/尾注 "wikilink")や[引用](../Page/引用.md "wikilink")や[参考文献](../Page/参考文献.md "wikilink")において、既出の文献と同じ出典から参照する際に使用する。[Ibid.](../Page/Ibid..md "wikilink") や [Idem](https://ja.wikipedia.org/wiki/Idem "wikilink") が直前に示した文献と同じ文献を示すのに対し、op. cit. は、参考文献中の同じ著者の文献で直前に出たものを示す。また、[loc. cit.](https://ja.wikipedia.org/wiki/loc._cit. "wikilink") は今日では稀にしか使用されない。
+**op. cit.** はラテン語の *opus citatum* もしくは *opere citato* の省略形で、「提示した作品」もしくは、「提示した作品より」の意味を持つ。この語は、[脚注](../Page/脚注.md "wikilink")や[尾注](https://ja.wikipedia.org/wiki/尾注 "wikilink")や[引用](../Page/引用.md "wikilink")や[参考文献](../Page/参考文献.md "wikilink")において、既出の文献と同じ出典から参照する際に使用する。[Ibid.](../Page/Ibid..md "wikilink") や [Idem](https://ja.wikipedia.org/wiki/Idem "wikilink") が直前に示した文献と同じ文献を示すのに対し、op. cit. は、参考文献中の同じ著者の文献で直前に出たものを示す。また、[loc. cit.](https://ja.wikipedia.org/wiki/loc._cit. "wikilink") は今日では稀にしか使用されない。
 
 ## 例
 
@@ -13,9 +13,9 @@
 
 ## 関連項目
 
-  - [書誌学](https://ja.wikipedia.org/wiki/書誌学 "wikilink")
+  - [書誌学](../Page/書誌学.md "wikilink")
   - [Ibid.](../Page/Ibid..md "wikilink")
-  - [Loc. cit.](https://ja.wikipedia.org/wiki/Loc._cit. "wikilink")
+  - [Loc. cit.](../Page/Loc._cit..md "wikilink")
 
 ## 外部リンク・参考文献
 

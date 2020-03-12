@@ -1,7 +1,7 @@
 > この記事は[DENGEKI ](https://ja.wikipedia.org/wiki/DENGEKI_)から翻訳されています。
 
 
-『**DENGEKI 電撃**』（***Exit Wounds***）は[2001年の](https://ja.wikipedia.org/wiki/2001年の映画 "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。
+『**DENGEKI 電撃**』（***Exit Wounds***）は[2001年の](../Page/2001年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。
 
 ## ストーリー
 
@@ -39,37 +39,37 @@
 <tr class="odd">
 <td><p>ラトレル・ウォーカー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DMX_(ラッパー)" title="wikilink">DMX</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大川透" title="wikilink">大川透</a></p></td>
+<td><p><a href="../Page/大川透.md" title="wikilink">大川透</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジョージ・クラーク</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イザイア・ワシントン" title="wikilink">イザイア・ワシントン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤健太郎_(声優)" title="wikilink">伊藤健太郎</a></p></td>
+<td><p><a href="../Page/伊藤健太郎_(声優).md" title="wikilink">伊藤健太郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>T.K</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンソニー・アンダーソン" title="wikilink">アンソニー・アンダーソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井敏治" title="wikilink">桜井敏治</a></p></td>
+<td><p><a href="../Page/桜井敏治.md" title="wikilink">桜井敏治</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ストラット</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ジェイ・ホワイト" title="wikilink">マイケル・ジェイ・ホワイト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中田譲治" title="wikilink">中田譲治</a></p></td>
+<td><p><a href="../Page/中田譲治.md" title="wikilink">中田譲治</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>マルケイヒー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジル・ヘネシー" title="wikilink">ジル・ヘネシー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/弘中くみ子" title="wikilink">弘中くみ子</a></p></td>
+<td><p><a href="../Page/弘中くみ子.md" title="wikilink">弘中くみ子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ヘンリー・ウェイン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トム・アーノルド" title="wikilink">トム・アーノルド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村知道" title="wikilink">西村知道</a></p></td>
+<td><p><a href="../Page/西村知道.md" title="wikilink">西村知道</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>フランク・ダニエルズ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルース・マッギル" title="wikilink">ブルース・マッギル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡部猛" title="wikilink">渡部猛</a></p></td>
+<td><p><a href="../Page/渡部猛.md" title="wikilink">渡部猛</a></p></td>
 </tr>
 <tr class="even">
 <td><p>モンティーニ</p></td>
@@ -78,40 +78,40 @@
 </tr>
 <tr class="odd">
 <td><p>トリシュ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エヴァ・メンデス" title="wikilink">エヴァ・メンデス</a></p></td>
+<td><p><a href="../Page/エヴァ・メンデス.md" title="wikilink">エヴァ・メンデス</a></p></td>
 <td><p><a href="../Page/朴ロ美.md" title="wikilink">朴ロ美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ユーセルディンガー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マシュー・G・テイラー" title="wikilink">マシュー・G・テイラー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天田益男" title="wikilink">天田益男</a></p></td>
+<td><p><a href="../Page/天田益男.md" title="wikilink">天田益男</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>セラピストのリンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェニファー・アーウィン" title="wikilink">ジェニファー・アーウィン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤美紀_(声優)" title="wikilink">伊藤美紀</a></p></td>
+<td><p><a href="../Page/伊藤美紀_(声優).md" title="wikilink">伊藤美紀</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ヒンジス本部長</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビル・デューク" title="wikilink">ビル・デューク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/斎藤志郎" title="wikilink">斎藤志郎</a></p></td>
+<td><p><a href="../Page/斎藤志郎.md" title="wikilink">斎藤志郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/アメリカ合衆国副大統領.md" title="wikilink">副大統領</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・ケネディー・ローフォード" title="wikilink">クリストファー・ケネディー・ローフォード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本大_(声優)" title="wikilink">松本大</a></p></td>
+<td><p><a href="../Page/松本大_(声優).md" title="wikilink">松本大</a></p></td>
 </tr>
 <tr class="even">
 <td><p>その他</p></td>
 <td></td>
 <td><p><a href="../Page/一条和矢.md" title="wikilink">一条和矢</a><br />
-<a href="https://ja.wikipedia.org/wiki/後藤哲夫" title="wikilink">後藤哲夫</a><br />
-<a href="https://ja.wikipedia.org/wiki/斉藤次郎" title="wikilink">斉藤次郎</a><br />
-<a href="https://ja.wikipedia.org/wiki/河野智之" title="wikilink">河野智之</a><br />
+<a href="../Page/後藤哲夫.md" title="wikilink">後藤哲夫</a><br />
+<a href="../Page/斉藤次郎.md" title="wikilink">斉藤次郎</a><br />
+<a href="../Page/河野智之.md" title="wikilink">河野智之</a><br />
 <a href="../Page/重松朋.md" title="wikilink">重松朋</a><br />
-<a href="https://ja.wikipedia.org/wiki/櫻井孝宏" title="wikilink">櫻井孝宏</a><br />
-<a href="https://ja.wikipedia.org/wiki/田中完" title="wikilink">田中完</a><br />
-<a href="https://ja.wikipedia.org/wiki/中村大樹" title="wikilink">中村大樹</a></p></td>
+<a href="../Page/櫻井孝宏.md" title="wikilink">櫻井孝宏</a><br />
+<a href="../Page/田中完.md" title="wikilink">田中完</a><br />
+<a href="../Page/中村大樹.md" title="wikilink">中村大樹</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

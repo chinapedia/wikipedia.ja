@@ -1,22 +1,22 @@
 > この記事は[CRASH \(FIELD OF VIEW\)](https://ja.wikipedia.org/wiki/CRASH_\(FIELD_OF_VIEW\))から翻訳されています。
 
 
-『**CRASH**』（クラッシュ）は[FIELD OF VIEWの](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")11thシングル。
+『**CRASH**』（クラッシュ）は[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")11thシングル。
 
 ## 解説
 
   - [AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")（元[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）の、作詞家としてのデビュー作である。
   - 初のノンタイアップ曲。
-  - [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")2番の歌詞が省略されたバージョンである。
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")2番の歌詞が省略されたバージョンである。
 
 ## 収録曲
 
 1.  **CRASH**
       -
-        作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")　作曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")　編曲：[池田大介](https://ja.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")
+        作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")　作曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")　編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 2.  **Dreaming always**
       -
-        作詞：[浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink")　作曲：浅岡雄也・[小田孝](https://ja.wikipedia.org/wiki/小田孝 "wikilink")　編曲：[FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")・池田大介
+        作詞：[浅岡雄也](../Page/浅岡雄也.md "wikilink")　作曲：浅岡雄也・[小田孝](https://ja.wikipedia.org/wiki/小田孝 "wikilink")　編曲：[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")・池田大介
 3.  **CRASH（オリジナルカラオケ）**
 
 ## 収録アルバム

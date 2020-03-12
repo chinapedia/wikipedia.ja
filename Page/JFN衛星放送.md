@@ -5,9 +5,9 @@
 
 ## 概要
 
-[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、BSデジタル放送の放送開始日に放送開始。論理チャンネル枠番号\[1\]は「**2**」（ラジオ：BS32\*ch、データ：BS62\*ch）、[リモコンキーID](../Page/リモコンキーID.md "wikilink")（非公式）は「**ラジオ3**」。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")に放送を終了した。
+[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、BSデジタル放送の放送開始日に放送開始。論理チャンネル枠番号\[1\]は「**2**」（ラジオ：BS32\*ch、データ：BS62\*ch）、[リモコンキーID](../Page/リモコンキーID.md "wikilink")（非公式）は「**ラジオ3**」。[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に放送を終了した。
 
-BS320 - 323chで音楽番組を編成している。全チャンネルともに放送時間は毎日10:00～22:00。「委託放送事業者」の位置付けであるため、[JFNCが](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[JFN系列局向けに制作する番組は一切放送されていない](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")。
+BS320 - 323chで音楽番組を編成している。全チャンネルともに放送時間は毎日10:00～22:00。「委託放送事業者」の位置付けであるため、[JFNCが](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[JFN系列局向けに制作する番組は一切放送されていない](../Page/全国FM放送協議会.md "wikilink")。
 
 ## 資本構成
 

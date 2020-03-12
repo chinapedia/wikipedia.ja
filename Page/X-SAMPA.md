@@ -8,8 +8,8 @@
 特徴:
 
   - 国際音声記号（IPA）において小文字ラテン文字で表される音価は、X-SAMPAにおいても同じ文字で表す。
-  - X-SAMPAは、新しいシンボルを作成するために[エスケープ文字](https://ja.wikipedia.org/wiki/エスケープ文字 "wikilink")としてシンボルに続くバックスラッシュを使用する。例えば、`O` は `O\` とは区別される別個の音である。
-  - 補助記号はシンボルの後に置く。このときシンボルとの間にアンダースコア"`_`"を置く。ただし"`~`"([鼻音化](https://ja.wikipedia.org/wiki/鼻音化 "wikilink")) 、"`=`"(成節用)、"\`"([そり舌音](https://ja.wikipedia.org/wiki/そり舌音 "wikilink")と[R音性母音](https://ja.wikipedia.org/wiki/R音性母音 "wikilink"))の場合"_"を必要としない。
+  - X-SAMPAは、新しいシンボルを作成するために[エスケープ文字](../Page/エスケープ文字.md "wikilink")としてシンボルに続くバックスラッシュを使用する。例えば、`O` は `O\` とは区別される別個の音である。
+  - 補助記号はシンボルの後に置く。このときシンボルとの間にアンダースコア"`_`"を置く。ただし"`~`"([鼻音化](../Page/鼻音化.md "wikilink")) 、"`=`"(成節用)、"\`"([そり舌音](../Page/そり舌音.md "wikilink")と[R音性母音](../Page/R音性母音.md "wikilink"))の場合"_"を必要としない。
   - アンダースコア"_"はまた、IPAにおける連結線を表す。
   - 数 `_1` から `_6` は、言語に特有の[声調](../Page/声調.md "wikilink")番号用表記としての発音区別符号である。
 
@@ -65,7 +65,7 @@
 <td><p>d`</p></td>
 <td><p>ɖ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-d_002.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有声そり舌破裂音" title="wikilink">有声そり舌破裂音</a></p></td>
+<td><p><a href="../Page/有声そり舌破裂音.md" title="wikilink">有声そり舌破裂音</a></p></td>
 <td><p><a href="../Page/スウェーデン語.md" title="wikilink">スウェーデン語</a>: <span lang="sv">bo<strong>rd</strong></span> [<code>b}:d`</code>]</p></td>
 </tr>
 <tr class="odd">
@@ -93,7 +93,7 @@
 <td><p>g</p></td>
 <td><p>g</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-g.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有声軟口蓋破裂音" title="wikilink">有声軟口蓋破裂音</a></p></td>
+<td><p><a href="../Page/有声軟口蓋破裂音.md" title="wikilink">有声軟口蓋破裂音</a></p></td>
 <td><p>英語: <span lang="en"><strong>g</strong>o</span> [<code>g@U</code>]、フランス語: <span lang="fr">lon<strong>gu</strong>e</span> [<code>lo~g</code>]</p></td>
 </tr>
 <tr class="odd">
@@ -114,7 +114,7 @@
 <td><p>h\</p></td>
 <td><p>ɦ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-hslash.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有声声門摩擦音" title="wikilink">有声声門摩擦音</a></p></td>
+<td><p><a href="../Page/有声声門摩擦音.md" title="wikilink">有声声門摩擦音</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -142,7 +142,7 @@
 <td><p>k</p></td>
 <td><p>k</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-k.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声軟口蓋破裂音" title="wikilink">無声軟口蓋破裂音</a></p></td>
+<td><p><a href="../Page/無声軟口蓋破裂音.md" title="wikilink">無声軟口蓋破裂音</a></p></td>
 <td><p>英語: <span lang="en"><strong>c</strong>at</span> [<code>k{t</code>]、スペイン語: <span lang="es"><strong>c</strong>arro</span></p></td>
 </tr>
 <tr class="even">
@@ -156,7 +156,7 @@
 <td><p>l`</p></td>
 <td><p>ɭ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-l_002.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/そり舌側面接近音" title="wikilink">そり舌側面接近音</a></p></td>
+<td><p><a href="../Page/そり舌側面接近音.md" title="wikilink">そり舌側面接近音</a></p></td>
 <td><p>スウェーデン語: <span lang="sv">pa<strong>rl</strong>a</span> [<code>p{:l`a</code>]</p></td>
 </tr>
 <tr class="even">
@@ -198,14 +198,14 @@
 <td><p>p</p></td>
 <td><p>p</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-p.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声両唇破裂音" title="wikilink">無声両唇破裂音</a></p></td>
+<td><p><a href="../Page/無声両唇破裂音.md" title="wikilink">無声両唇破裂音</a></p></td>
 <td><p>英語: <span lang="en">ho<strong>p</strong></span> [<code>hQp</code>]、フランス語: <span lang="fr"><strong>p</strong>ose</span> [<code>po:z</code>]、スペイン語: <span lang="es"><strong>p</strong>erro</span></p></td>
 </tr>
 <tr class="even">
 <td><p>p\</p></td>
 <td><p>ɸ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-pslash.png" title="wikilink">ファイル:Xsampa-pslash.png</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声両唇摩擦音" title="wikilink">無声両唇摩擦音</a></p></td>
+<td><p><a href="../Page/無声両唇摩擦音.md" title="wikilink">無声両唇摩擦音</a></p></td>
 <td><p><a href="../Page/日本語.md" title="wikilink">日本語</a>: <strong>ふ</strong>く [<code>p\M_0kM</code>]</p></td>
 </tr>
 <tr class="odd">
@@ -219,7 +219,7 @@
 <td><p>r</p></td>
 <td><p>r</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-r.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/歯茎ふるえ音" title="wikilink">歯茎ふるえ音</a></p></td>
+<td><p><a href="../Page/歯茎ふるえ音.md" title="wikilink">歯茎ふるえ音</a></p></td>
 <td><p>スペイン語: <span lang="es">pe<strong>rr</strong>o</span></p></td>
 </tr>
 <tr class="odd">
@@ -261,14 +261,14 @@
 <td><p>s\</p></td>
 <td><p>ɕ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-sslash.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声歯茎硬口蓋摩擦音" title="wikilink">無声歯茎硬口蓋摩擦音</a></p></td>
+<td><p><a href="../Page/無声歯茎硬口蓋摩擦音.md" title="wikilink">無声歯茎硬口蓋摩擦音</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>t</p></td>
 <td><p>t</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-t.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声歯茎破裂音" title="wikilink">無声歯茎破裂音</a></p></td>
+<td><p><a href="../Page/無声歯茎破裂音.md" title="wikilink">無声歯茎破裂音</a></p></td>
 <td><p>英語: <span lang="en"><strong>t</strong>oo</span> [<code>t_hu</code>]、フランス語: <span lang="fr">ra<strong>t</strong>e</span> [<code>Rate</code>]、スペイン語: <span lang="es"><strong>t</strong>uyo</span></p></td>
 </tr>
 <tr class="even">
@@ -310,8 +310,8 @@
 <td><p>x</p></td>
 <td><p>x</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-x.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声軟口蓋摩擦音" title="wikilink">無声軟口蓋摩擦音</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコットランド・ゲール語" title="wikilink">スコットランド・ゲール語</a>: <span lang="gd">lo<strong>ch</strong></span> [<code>lQx</code>]、<a href="../Page/ドイツ語.md" title="wikilink">ドイツ語</a>: <span lang="de">na<strong>ch</strong>t</span> [<code>naxt</code>]</p></td>
+<td><p><a href="../Page/無声軟口蓋摩擦音.md" title="wikilink">無声軟口蓋摩擦音</a></p></td>
+<td><p><a href="../Page/スコットランド・ゲール語.md" title="wikilink">スコットランド・ゲール語</a>: <span lang="gd">lo<strong>ch</strong></span> [<code>lQx</code>]、<a href="../Page/ドイツ語.md" title="wikilink">ドイツ語</a>: <span lang="de">na<strong>ch</strong>t</span> [<code>naxt</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p>x\</p></td>
@@ -339,7 +339,7 @@
 <td><p>ʐ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-z&#39;.png" title="wikilink">20x20px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有声そり舌摩擦音" title="wikilink">有声そり舌摩擦音</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中国語" title="wikilink">中国語</a><a href="https://ja.wikipedia.org/wiki/普通話" title="wikilink">普通話</a>: <strong>日</strong>(Ri) [<code>z`i`</code>]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中国語" title="wikilink">中国語</a><a href="../Page/普通話.md" title="wikilink">普通話</a>: <strong>日</strong>(Ri) [<code>z`i`</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p>z\</p></td>
@@ -382,7 +382,7 @@
 <td><p>B\</p></td>
 <td><p>ʙ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-Bslash.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/両唇ふるえ音" title="wikilink">両唇ふるえ音</a></p></td>
+<td><p><a href="../Page/両唇ふるえ音.md" title="wikilink">両唇ふるえ音</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -466,7 +466,7 @@
 <td><p>J</p></td>
 <td><p>ɲ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-J.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/硬口蓋鼻音" title="wikilink">硬口蓋鼻音</a></p></td>
+<td><p><a href="../Page/硬口蓋鼻音.md" title="wikilink">硬口蓋鼻音</a></p></td>
 <td><p>スペイン語: <span lang="es">a<strong>ñ</strong>o</span> [<code>"aJo</code>]</p></td>
 </tr>
 <tr class="even">
@@ -487,7 +487,7 @@
 <td><p>K</p></td>
 <td><p>ɬ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-K2.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声歯茎側面摩擦音" title="wikilink">無声歯茎側面摩擦音</a></p></td>
+<td><p><a href="../Page/無声歯茎側面摩擦音.md" title="wikilink">無声歯茎側面摩擦音</a></p></td>
 <td><p><a href="../Page/ウェールズ語.md" title="wikilink">ウェールズ語</a>: <span lang="cy"><strong>ll</strong>aw</span></p></td>
 </tr>
 <tr class="odd">
@@ -550,7 +550,7 @@
 <td><p>O\</p></td>
 <td><p>ʘ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-Oslash.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/両唇吸着音" title="wikilink">両唇吸着音</a></p></td>
+<td><p><a href="../Page/両唇吸着音.md" title="wikilink">両唇吸着音</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -592,7 +592,7 @@
 <td><p>T</p></td>
 <td><p>θ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-T2.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声歯摩擦音" title="wikilink">無声歯摩擦音</a></p></td>
+<td><p><a href="../Page/無声歯摩擦音.md" title="wikilink">無声歯摩擦音</a></p></td>
 <td><p>英語: <span lang="en"><strong>th</strong>in</span> [<code>TIn</code>]</p></td>
 </tr>
 <tr class="even">
@@ -613,14 +613,14 @@
 <td><p>V</p></td>
 <td><p>ʌ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-V.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/非円唇後舌半広母音" title="wikilink">非円唇後舌半広母音</a></p></td>
+<td><p><a href="../Page/非円唇後舌半広母音.md" title="wikilink">非円唇後舌半広母音</a></p></td>
 <td><p>英語: <span lang="en">str<strong>u</strong>t</span> [<code>strVt</code>]、朝鮮語: <span lang="ko"><strong>어</strong></span></p></td>
 </tr>
 <tr class="odd">
 <td><p>W</p></td>
 <td><p>ʍ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-X.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無声両唇軟口蓋摩擦音" title="wikilink">無声両唇軟口蓋摩擦音</a>(接近音)</p></td>
+<td><p><a href="../Page/無声両唇軟口蓋摩擦音.md" title="wikilink">無声両唇軟口蓋摩擦音</a>(接近音)</p></td>
 <td><p>スコットランド・ゲール語: <span lang="gd"><strong>wh</strong>en</span></p></td>
 </tr>
 <tr class="even">
@@ -693,7 +693,7 @@
 <td><p>ɶ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-amper.png" title="wikilink">20x20px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/円唇前舌広母音" title="wikilink">円唇前舌広母音</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デンマーク語" title="wikilink">デンマーク語</a>: <span lang="da">dr<strong>o</strong>mme</span></p></td>
+<td><p><a href="../Page/デンマーク語.md" title="wikilink">デンマーク語</a>: <span lang="da">dr<strong>o</strong>mme</span></p></td>
 </tr>
 <tr class="odd">
 <td><p>' (或 _j)</p></td>
@@ -741,7 +741,7 @@
 <td><p>1</p></td>
 <td><p>ɨ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-1.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/非円唇中舌狭母音" title="wikilink">非円唇中舌狭母音</a></p></td>
+<td><p><a href="../Page/非円唇中舌狭母音.md" title="wikilink">非円唇中舌狭母音</a></p></td>
 <td><p>ウェールズ語: <span lang="cy">t<strong>u</strong></span></p></td>
 </tr>
 <tr class="even">
@@ -755,7 +755,7 @@
 <td><p>3</p></td>
 <td><p>ɜ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-3.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/非円唇中舌半広母音" title="wikilink">非円唇中舌半広母音</a></p></td>
+<td><p><a href="../Page/非円唇中舌半広母音.md" title="wikilink">非円唇中舌半広母音</a></p></td>
 <td><p>[<code>n3:rs</code>]</p></td>
 </tr>
 <tr class="even">
@@ -811,7 +811,7 @@
 <td><p>:</p></td>
 <td><p>ː</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-colon.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長母音" title="wikilink">長母音</a></p></td>
+<td><p><a href="../Page/長母音.md" title="wikilink">長母音</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -853,14 +853,14 @@
 <td><p>?</p></td>
 <td><p>ʔ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-questionmark.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/声門破裂音" title="wikilink">声門破裂音</a></p></td>
+<td><p><a href="../Page/声門破裂音.md" title="wikilink">声門破裂音</a></p></td>
 <td><p>ドイツ語の“<span lang="de">Verein</span>”、デンマーク語の“<span lang="da">stod</span>”</p></td>
 </tr>
 <tr class="even">
 <td><p>?\</p></td>
 <td><p>ʕ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-qmarkslash.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有声咽頭摩擦音" title="wikilink">有声咽頭摩擦音</a>(接近音)</p></td>
+<td><p><a href="../Page/有声咽頭摩擦音.md" title="wikilink">有声咽頭摩擦音</a>(接近音)</p></td>
 <td><p>アラビア語: <span lang="ar">عين</span> (<strong>‘</strong>ayn) [<code>?\ajn</code>]</p></td>
 </tr>
 <tr class="odd">
@@ -945,109 +945,109 @@
 
 ### 補助記号
 
-| X-SAMPA     | IPA  | IPA(画像)                                                                             | 名称                                                                                                                                       |
-| ----------- | ---- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| _"         | ¨    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_doublequotes.png "wikilink")   | 中舌寄り                                                                                                                                     |
-| _+         | ˖    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_plus.png "wikilink")           | 前寄り                                                                                                                                      |
-| _-         | ˗    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_minus.png "wikilink")          | 後寄り                                                                                                                                      |
-| _/         | ˇ    |                                                                                     | rising                                                                                                                                   |
-| _0         | ̥    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_0.png "wikilink")              | [無声音](https://ja.wikipedia.org/wiki/無声音 "wikilink")                                                                                      |
-| _\<        |      |                                                                                     | [入破音](https://ja.wikipedia.org/wiki/入破音 "wikilink")                                                                                      |
-| \= (或 _=)  | ̩    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-equalsor_equals.png "wikilink") | 音節主音                                                                                                                                     |
-| _\>        | ʼ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_greaterthan.png "wikilink")    | [放出音](https://ja.wikipedia.org/wiki/放出音 "wikilink")                                                                                      |
-| _?\\       | ˤ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_questionslash.png "wikilink")  | [咽頭化](https://ja.wikipedia.org/wiki/咽頭化 "wikilink")音                                                                                     |
-| _\\        | ̂    |                                                                                     | falling tone                                                                                                                             |
-| _^         | ̯    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_hat.png "wikilink")            | 音節副音                                                                                                                                     |
-| _}         | ̚    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_rightcurly.png "wikilink")     | [内破音](https://ja.wikipedia.org/wiki/内破音 "wikilink")                                                                                      |
-| \`          | ˞    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-'rhino.png "wikilink")          | [R音性母音](https://ja.wikipedia.org/wiki/R音性母音 "wikilink")(母音)、[そり舌音](https://ja.wikipedia.org/wiki/そり舌音 "wikilink")(子音)（IPAでは子音には個別の文字がある） |
-| \~ (或 _\~) | ̃    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-tildor_tild.png "wikilink")     | [鼻音化](https://ja.wikipedia.org/wiki/鼻音化 "wikilink")音                                                                                     |
-| _A         | ̘    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_A.png "wikilink")              | [舌根前進](https://ja.wikipedia.org/wiki/舌根前進 "wikilink")                                                                                    |
-| _a         | ̺    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_a2.png "wikilink")             | [舌尖音](https://ja.wikipedia.org/wiki/舌尖音 "wikilink")                                                                                      |
-| _B         | ̏    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_B.png "wikilink")              | 超低平板                                                                                                                                     |
-| _B_L      |      | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_B_L.png "wikilink")            | 低上昇曲線                                                                                                                                    |
-| _c         | ̜    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_c.png "wikilink")              | 円唇性弱                                                                                                                                     |
-| _d         | ̪    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_d.png "wikilink")              | [歯音](https://ja.wikipedia.org/wiki/歯音 "wikilink")                                                                                        |
-| _e         | ̴    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_e.png "wikilink")              | 軟口蓋化音或は咽頭化音 ; `5`も見よ                                                                                                                     |
-| <F>         | ↘    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-ltFgt.png "wikilink")           | 全体的下降                                                                                                                                    |
-| _F         | ̂    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_F.png "wikilink")              | 下降曲線                                                                                                                                     |
-| _G         | ˠ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_G.png "wikilink")              | [軟口蓋化音](https://ja.wikipedia.org/wiki/口蓋化 "wikilink")                                                                                    |
-| _H         | ˊ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_H.png "wikilink")              | 高平板                                                                                                                                      |
-| _H_T      |      | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_H_T.png "wikilink")            | 高上昇曲線                                                                                                                                    |
-| _h         | ʰ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_h.png "wikilink")              | [帯気音](../Page/有気音.md "wikilink")                                                                                                         |
-| _j (或 ')   | ʲ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-or_j.png "wikilink")            | [硬口蓋化音](https://ja.wikipedia.org/wiki/口蓋化 "wikilink")                                                                                    |
-| _k         | ̰    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_k.png "wikilink")              | [きしみ声](https://ja.wikipedia.org/wiki/きしみ声 "wikilink")                                                                                    |
-| _L         | ̀    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_L.png "wikilink")              | 低平板                                                                                                                                      |
-| _l         | ˡ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_l.png "wikilink")              | 側面開放                                                                                                                                     |
-| _M         | ̄    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_M.png "wikilink")              | 中平板                                                                                                                                      |
-| _m         | ̻    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_m.png "wikilink")              | [舌端音](https://ja.wikipedia.org/wiki/舌端音 "wikilink")                                                                                      |
-| _N         | ̼    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_N.png "wikilink")              | [舌唇音](https://ja.wikipedia.org/wiki/舌唇音 "wikilink")                                                                                      |
-| _n         | ⁿ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_n2.png "wikilink")             | [鼻腔開放](https://ja.wikipedia.org/wiki/鼻腔開放 "wikilink")                                                                                    |
-| _O         | ̹    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa_O.png "wikilink")               | 円唇性強                                                                                                                                     |
-| _o         | ̞(˕) | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_o.png "wikilink")              | 下寄り                                                                                                                                      |
-| _q         | ̙    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_q.png "wikilink")              | [舌根後退](https://ja.wikipedia.org/wiki/舌根後退 "wikilink")                                                                                    |
-| <R>         | ↗    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-ltRgt.png "wikilink")           | 全体的上昇                                                                                                                                    |
-| _R         | ˇ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_R.png "wikilink")              | 上昇曲線                                                                                                                                     |
-| _R_F      |      | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_R_F.png "wikilink")            | 上昇下降曲線                                                                                                                                   |
-| _r         | ̝(˔) | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_r.png "wikilink")              | 上寄り                                                                                                                                      |
-| _T         | ˝    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_T.png "wikilink")              | 超高平板                                                                                                                                     |
-| _t         | ̤    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_t.png "wikilink")              | [息もれ声](https://ja.wikipedia.org/wiki/息もれ声 "wikilink")                                                                                    |
-| _v         | ˬ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_v.png "wikilink")              | [有声音](https://ja.wikipedia.org/wiki/有声音 "wikilink")                                                                                      |
-| _w         | ʷ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_w.png "wikilink")              | 円唇化音                                                                                                                                     |
-| _X         | ˘    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_X.png "wikilink")              | 超短音                                                                                                                                      |
-| _x         | ˟    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_x.png "wikilink")              | 中段中舌寄り                                                                                                                                   |
+| X-SAMPA     | IPA  | IPA(画像)                                                                             | 名称                                                                                                 |
+| ----------- | ---- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| _"         | ¨    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_doublequotes.png "wikilink")   | 中舌寄り                                                                                               |
+| _+         | ˖    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_plus.png "wikilink")           | 前寄り                                                                                                |
+| _-         | ˗    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_minus.png "wikilink")          | 後寄り                                                                                                |
+| _/         | ˇ    |                                                                                     | rising                                                                                             |
+| _0         | ̥    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_0.png "wikilink")              | [無声音](../Page/無声音.md "wikilink")                                                                   |
+| _\<        |      |                                                                                     | [入破音](../Page/入破音.md "wikilink")                                                                   |
+| \= (或 _=)  | ̩    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-equalsor_equals.png "wikilink") | 音節主音                                                                                               |
+| _\>        | ʼ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_greaterthan.png "wikilink")    | [放出音](../Page/放出音.md "wikilink")                                                                   |
+| _?\\       | ˤ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_questionslash.png "wikilink")  | [咽頭化](https://ja.wikipedia.org/wiki/咽頭化 "wikilink")音                                               |
+| _\\        | ̂    |                                                                                     | falling tone                                                                                       |
+| _^         | ̯    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_hat.png "wikilink")            | 音節副音                                                                                               |
+| _}         | ̚    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_rightcurly.png "wikilink")     | [内破音](../Page/内破音.md "wikilink")                                                                   |
+| \`          | ˞    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-'rhino.png "wikilink")          | [R音性母音](../Page/R音性母音.md "wikilink")(母音)、[そり舌音](../Page/そり舌音.md "wikilink")(子音)（IPAでは子音には個別の文字がある） |
+| \~ (或 _\~) | ̃    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-tildor_tild.png "wikilink")     | [鼻音化](../Page/鼻音化.md "wikilink")音                                                                  |
+| _A         | ̘    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_A.png "wikilink")              | [舌根前進](https://ja.wikipedia.org/wiki/舌根前進 "wikilink")                                              |
+| _a         | ̺    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_a2.png "wikilink")             | [舌尖音](https://ja.wikipedia.org/wiki/舌尖音 "wikilink")                                                |
+| _B         | ̏    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_B.png "wikilink")              | 超低平板                                                                                               |
+| _B_L      |      | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_B_L.png "wikilink")            | 低上昇曲線                                                                                              |
+| _c         | ̜    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_c.png "wikilink")              | 円唇性弱                                                                                               |
+| _d         | ̪    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_d.png "wikilink")              | [歯音](../Page/歯音.md "wikilink")                                                                     |
+| _e         | ̴    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_e.png "wikilink")              | 軟口蓋化音或は咽頭化音 ; `5`も見よ                                                                               |
+| <F>         | ↘    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-ltFgt.png "wikilink")           | 全体的下降                                                                                              |
+| _F         | ̂    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_F.png "wikilink")              | 下降曲線                                                                                               |
+| _G         | ˠ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_G.png "wikilink")              | [軟口蓋化音](../Page/口蓋化.md "wikilink")                                                                 |
+| _H         | ˊ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_H.png "wikilink")              | 高平板                                                                                                |
+| _H_T      |      | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_H_T.png "wikilink")            | 高上昇曲線                                                                                              |
+| _h         | ʰ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_h.png "wikilink")              | [帯気音](../Page/有気音.md "wikilink")                                                                   |
+| _j (或 ')   | ʲ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-or_j.png "wikilink")            | [硬口蓋化音](../Page/口蓋化.md "wikilink")                                                                 |
+| _k         | ̰    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_k.png "wikilink")              | [きしみ声](../Page/きしみ声.md "wikilink")                                                                 |
+| _L         | ̀    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_L.png "wikilink")              | 低平板                                                                                                |
+| _l         | ˡ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_l.png "wikilink")              | 側面開放                                                                                               |
+| _M         | ̄    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_M.png "wikilink")              | 中平板                                                                                                |
+| _m         | ̻    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_m.png "wikilink")              | [舌端音](https://ja.wikipedia.org/wiki/舌端音 "wikilink")                                                |
+| _N         | ̼    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_N.png "wikilink")              | [舌唇音](../Page/舌唇音.md "wikilink")                                                                   |
+| _n         | ⁿ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_n2.png "wikilink")             | [鼻腔開放](https://ja.wikipedia.org/wiki/鼻腔開放 "wikilink")                                              |
+| _O         | ̹    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa_O.png "wikilink")               | 円唇性強                                                                                               |
+| _o         | ̞(˕) | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_o.png "wikilink")              | 下寄り                                                                                                |
+| _q         | ̙    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_q.png "wikilink")              | [舌根後退](https://ja.wikipedia.org/wiki/舌根後退 "wikilink")                                              |
+| <R>         | ↗    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-ltRgt.png "wikilink")           | 全体的上昇                                                                                              |
+| _R         | ˇ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_R.png "wikilink")              | 上昇曲線                                                                                               |
+| _R_F      |      | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_R_F.png "wikilink")            | 上昇下降曲線                                                                                             |
+| _r         | ̝(˔) | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_r.png "wikilink")              | 上寄り                                                                                                |
+| _T         | ˝    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_T.png "wikilink")              | 超高平板                                                                                               |
+| _t         | ̤    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_t.png "wikilink")              | [息もれ声](../Page/息もれ声.md "wikilink")                                                                 |
+| _v         | ˬ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_v.png "wikilink")              | [有声音](https://ja.wikipedia.org/wiki/有声音 "wikilink")                                                |
+| _w         | ʷ    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_w.png "wikilink")              | 円唇化音                                                                                               |
+| _X         | ˘    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_X.png "wikilink")              | 超短音                                                                                                |
+| _x         | ˟    | [20x20px](https://ja.wikipedia.org/wiki/ファイル:Xsampa-_x.png "wikilink")              | 中段中舌寄り                                                                                             |
 
 ## 図表
 
 ### 子音
 
-| [調音部位](https://ja.wikipedia.org/wiki/調音部位 "wikilink") → | [唇音](https://ja.wikipedia.org/wiki/唇音 "wikilink")                                                                | [舌頂音](https://ja.wikipedia.org/wiki/舌頂音 "wikilink")                                                                  | [舌背音](https://ja.wikipedia.org/wiki/舌背音 "wikilink")                                                             | [咽喉音](https://ja.wikipedia.org/wiki/咽喉音 "wikilink")                                                                         |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [調音方法](https://ja.wikipedia.org/wiki/調音方法 "wikilink") ↓ | [両唇](https://ja.wikipedia.org/wiki/両唇音 "wikilink")                                                               | [唇歯](https://ja.wikipedia.org/wiki/唇歯音 "wikilink")                                                                   | [歯](https://ja.wikipedia.org/wiki/歯音 "wikilink")                                                                | [歯茎](https://ja.wikipedia.org/wiki/歯茎音 "wikilink")                                                                          |
-| [鼻](https://ja.wikipedia.org/wiki/鼻音 "wikilink")        | [`m`](https://ja.wikipedia.org/wiki/両唇鼻音 "wikilink")                                                             | [`F`](https://ja.wikipedia.org/wiki/唇歯鼻音 "wikilink")                                                                 | [`n`](https://ja.wikipedia.org/wiki/歯茎鼻音 "wikilink")                                                            | [`` n` ``](https://ja.wikipedia.org/wiki/そり舌鼻音 "wikilink")                                                                  |
-| [破裂](https://ja.wikipedia.org/wiki/破裂音 "wikilink")      | [`p`](https://ja.wikipedia.org/wiki/無声両唇破裂音 "wikilink") [`b`](https://ja.wikipedia.org/wiki/有声両唇破裂音 "wikilink")  | [`p_d`](https://ja.wikipedia.org/wiki/無声唇歯破裂音 "wikilink") [`b_d`](https://ja.wikipedia.org/wiki/有声唇歯破裂音 "wikilink")  | [`t`](https://ja.wikipedia.org/wiki/無声歯茎破裂音 "wikilink") [`d`](https://ja.wikipedia.org/wiki/有声歯茎破裂音 "wikilink") | [`` t` ``](https://ja.wikipedia.org/wiki/無声そり舌破裂音 "wikilink") [`` d` ``](https://ja.wikipedia.org/wiki/有声そり舌破裂音 "wikilink") |
-| [摩擦](https://ja.wikipedia.org/wiki/摩擦音 "wikilink")      | [`p\`](https://ja.wikipedia.org/wiki/無声両唇摩擦音 "wikilink") [`B`](https://ja.wikipedia.org/wiki/有声両唇摩擦音 "wikilink") | [`f`](https://ja.wikipedia.org/wiki/無声唇歯摩擦音 "wikilink") [`v`](https://ja.wikipedia.org/wiki/有声唇歯摩擦音 "wikilink")      | [`T`](https://ja.wikipedia.org/wiki/無声歯摩擦音 "wikilink") [`D`](https://ja.wikipedia.org/wiki/有声歯摩擦音 "wikilink")   | [`s`](https://ja.wikipedia.org/wiki/無声歯茎摩擦音 "wikilink") [`z`](https://ja.wikipedia.org/wiki/有声歯茎摩擦音 "wikilink")             |
-| [接近](https://ja.wikipedia.org/wiki/接近音 "wikilink")      | [`B_o`](https://ja.wikipedia.org/wiki/有声両唇接近音 "wikilink")                                                        | [`v\`](https://ja.wikipedia.org/wiki/唇歯接近音 "wikilink")                                                               | [`r\`](https://ja.wikipedia.org/wiki/歯茎接近音 "wikilink")                                                          | [`` r\` ``](https://ja.wikipedia.org/wiki/そり舌接近音 "wikilink")                                                                |
-| [ふるえ](https://ja.wikipedia.org/wiki/ふるえ音 "wikilink")    | [`B\`](https://ja.wikipedia.org/wiki/両唇ふるえ音 "wikilink")                                                          |                                                                                                                      | [`r`](https://ja.wikipedia.org/wiki/歯茎ふるえ音 "wikilink")                                                          |                                                                                                                             |
-| [はじき](https://ja.wikipedia.org/wiki/はじき音 "wikilink")    | |                                                                                                                |                                                                                                                      | [`4`](https://ja.wikipedia.org/wiki/歯茎はじき音 "wikilink")                                                          | [`` r` ``](https://ja.wikipedia.org/wiki/そり舌はじき音 "wikilink")                                                                |
-| [側面​摩擦](https://ja.wikipedia.org/wiki/側面音 "wikilink")   |                                                                                                                  | [`K`](https://ja.wikipedia.org/wiki/無声歯茎側面摩擦音 "wikilink") [`K\`](https://ja.wikipedia.org/wiki/有声歯茎側面摩擦音 "wikilink") |                                                                                                                 |                                                                                                                             |
-| [側面​接近](https://ja.wikipedia.org/wiki/側面音 "wikilink")   |                                                                                                                  | [`l`](https://ja.wikipedia.org/wiki/歯茎側面接近音 "wikilink")                                                              | [`` l` ``](https://ja.wikipedia.org/wiki/そり舌側面接近音 "wikilink")                                                   | [`L`](https://ja.wikipedia.org/wiki/硬口蓋側面接近音 "wikilink")                                                                    |
-| [側面​はじき](https://ja.wikipedia.org/wiki/側面音 "wikilink")  |                                                                                                                  | [`l\`](https://ja.wikipedia.org/wiki/歯茎側面はじき音 "wikilink")                                                            |                                                                                                                 |                                                                                                                             |
+| [調音部位](https://ja.wikipedia.org/wiki/調音部位 "wikilink") → | [唇音](https://ja.wikipedia.org/wiki/唇音 "wikilink")                                             | [舌頂音](../Page/舌頂音.md "wikilink")                                                                                    | [舌背音](https://ja.wikipedia.org/wiki/舌背音 "wikilink")                                          | [咽喉音](https://ja.wikipedia.org/wiki/咽喉音 "wikilink")                                                             |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [調音方法](../Page/調音方法.md "wikilink") ↓                    | [両唇](../Page/両唇音.md "wikilink")                                                               | [唇歯](https://ja.wikipedia.org/wiki/唇歯音 "wikilink")                                                                  | [歯](../Page/歯音.md "wikilink")                                                                | [歯茎](https://ja.wikipedia.org/wiki/歯茎音 "wikilink")                                                              |
+| [鼻](../Page/鼻音.md "wikilink")                           | [`m`](https://ja.wikipedia.org/wiki/両唇鼻音 "wikilink")                                          | [`F`](https://ja.wikipedia.org/wiki/唇歯鼻音 "wikilink")                                                                | [`n`](https://ja.wikipedia.org/wiki/歯茎鼻音 "wikilink")                                         | [`` n` ``](https://ja.wikipedia.org/wiki/そり舌鼻音 "wikilink")                                                      |
+| [破裂](../Page/破裂音.md "wikilink")                         | [`p`](../Page/無声両唇破裂音.md "wikilink") [`b`](https://ja.wikipedia.org/wiki/有声両唇破裂音 "wikilink")  | [`p_d`](https://ja.wikipedia.org/wiki/無声唇歯破裂音 "wikilink") [`b_d`](https://ja.wikipedia.org/wiki/有声唇歯破裂音 "wikilink") | [`t`](../Page/無声歯茎破裂音.md "wikilink") [`d`](https://ja.wikipedia.org/wiki/有声歯茎破裂音 "wikilink") | [`` t` ``](https://ja.wikipedia.org/wiki/無声そり舌破裂音 "wikilink") [`` d` ``](../Page/有声そり舌破裂音.md "wikilink")        |
+| [摩擦](../Page/摩擦音.md "wikilink")                         | [`p\`](../Page/無声両唇摩擦音.md "wikilink") [`B`](https://ja.wikipedia.org/wiki/有声両唇摩擦音 "wikilink") | [`f`](https://ja.wikipedia.org/wiki/無声唇歯摩擦音 "wikilink") [`v`](https://ja.wikipedia.org/wiki/有声唇歯摩擦音 "wikilink")     | [`T`](../Page/無声歯摩擦音.md "wikilink") [`D`](https://ja.wikipedia.org/wiki/有声歯摩擦音 "wikilink")   | [`s`](https://ja.wikipedia.org/wiki/無声歯茎摩擦音 "wikilink") [`z`](https://ja.wikipedia.org/wiki/有声歯茎摩擦音 "wikilink") |
+| [接近](../Page/接近音.md "wikilink")                         | [`B_o`](https://ja.wikipedia.org/wiki/有声両唇接近音 "wikilink")                                     | [`v\`](https://ja.wikipedia.org/wiki/唇歯接近音 "wikilink")                                                              | [`r\`](https://ja.wikipedia.org/wiki/歯茎接近音 "wikilink")                                       | [`` r\` ``](https://ja.wikipedia.org/wiki/そり舌接近音 "wikilink")                                                    |
+| [ふるえ](https://ja.wikipedia.org/wiki/ふるえ音 "wikilink")    | [`B\`](../Page/両唇ふるえ音.md "wikilink")                                                          |                                                                                                                     | [`r`](../Page/歯茎ふるえ音.md "wikilink")                                                          |                                                                                                                 |
+| [はじき](https://ja.wikipedia.org/wiki/はじき音 "wikilink")    | |                                                                                             |                                                                                                                     | [`4`](https://ja.wikipedia.org/wiki/歯茎はじき音 "wikilink")                                       | [`` r` ``](https://ja.wikipedia.org/wiki/そり舌はじき音 "wikilink")                                                    |
+| [側面​摩擦](../Page/側面音.md "wikilink")                      |                                                                                               | [`K`](../Page/無声歯茎側面摩擦音.md "wikilink") [`K\`](https://ja.wikipedia.org/wiki/有声歯茎側面摩擦音 "wikilink")                   |                                                                                              |                                                                                                                 |
+| [側面​接近](../Page/側面音.md "wikilink")                      |                                                                                               | [`l`](https://ja.wikipedia.org/wiki/歯茎側面接近音 "wikilink")                                                             | [`` l` ``](../Page/そり舌側面接近音.md "wikilink")                                                   | [`L`](https://ja.wikipedia.org/wiki/硬口蓋側面接近音 "wikilink")                                                        |
+| [側面​はじき](../Page/側面音.md "wikilink")                     |                                                                                               | [`l\`](https://ja.wikipedia.org/wiki/歯茎側面はじき音 "wikilink")                                                           |                                                                                              |                                                                                                                 |
 
 子音 ([肺臓気流機構](https://ja.wikipedia.org/wiki/肺臓気流機構 "wikilink"))
 
 |                                                              |                 |
 | ------------------------------------------------------------ | --------------- |
-| [`W`](https://ja.wikipedia.org/wiki/無声両唇軟口蓋摩擦音 "wikilink")   | 無声両唇軟口蓋摩擦音(接近音) |
+| [`W`](../Page/無声両唇軟口蓋摩擦音.md "wikilink")                      | 無声両唇軟口蓋摩擦音(接近音) |
 | [`w`](https://ja.wikipedia.org/wiki/有声両唇軟口蓋接近音 "wikilink")   | 有声両唇軟口蓋接近音      |
 | [`H`](https://ja.wikipedia.org/wiki/有声両唇硬口蓋接近音 "wikilink")   | 有声両唇硬口蓋接近音      |
-| [`s\`](https://ja.wikipedia.org/wiki/無声歯茎硬口蓋摩擦音 "wikilink")  | 無声歯茎硬口蓋摩擦音      |
+| [`s\`](../Page/無声歯茎硬口蓋摩擦音.md "wikilink")                     | 無声歯茎硬口蓋摩擦音      |
 | [`z\`](https://ja.wikipedia.org/wiki/有声歯茎硬口蓋摩擦音 "wikilink")  | 有声歯茎硬口蓋摩擦音      |
 | [`x\`](https://ja.wikipedia.org/wiki/スウェーデン語のsj音 "wikilink") | 無声後部歯茎軟口蓋摩擦音    |
 
-[同時調音](https://ja.wikipedia.org/wiki/調音 "wikilink")
+[同時調音](../Page/調音.md "wikilink")
 
-|                                                              |            |
-| ------------------------------------------------------------ | ---------- |
-| [`ts`](https://ja.wikipedia.org/wiki/無声歯茎破擦音 "wikilink")     | 無声歯茎破擦音    |
-| [`dz`](https://ja.wikipedia.org/wiki/有声歯茎破擦音 "wikilink")     | 有声歯茎破擦音    |
-| [`tS`](https://ja.wikipedia.org/wiki/無声後部歯茎破擦音 "wikilink")   | 無声後部歯茎破擦音  |
-| [`dZ`](https://ja.wikipedia.org/wiki/有声後部歯茎破擦音 "wikilink")   | 有声後部歯茎破擦音  |
-| [`ts\`](https://ja.wikipedia.org/wiki/無声歯茎硬口蓋破擦音 "wikilink") | 無声歯茎硬口蓋破擦音 |
-| [`dz\`](https://ja.wikipedia.org/wiki/有声歯茎硬口蓋破擦音 "wikilink") | 有声歯茎硬口蓋破擦音 |
-| [`tK`](https://ja.wikipedia.org/wiki/無声歯茎側面破擦音 "wikilink")   | 無声歯茎側面破擦音  |
-| [`kp`](https://ja.wikipedia.org/wiki/無声両唇軟口蓋破裂音 "wikilink")  | 無声両唇軟口蓋破裂音 |
-| [`gb`](https://ja.wikipedia.org/wiki/有声両唇軟口蓋破裂音 "wikilink")  | 有声両唇軟口蓋破裂音 |
-| [`Nm`](https://ja.wikipedia.org/wiki/両唇軟口蓋鼻音 "wikilink")     | 両唇軟口蓋鼻音    |
+|                                                             |            |
+| ----------------------------------------------------------- | ---------- |
+| [`ts`](../Page/無声歯茎破擦音.md "wikilink")                       | 無声歯茎破擦音    |
+| [`dz`](../Page/有声歯茎破擦音.md "wikilink")                       | 有声歯茎破擦音    |
+| [`tS`](https://ja.wikipedia.org/wiki/無声後部歯茎破擦音 "wikilink")  | 無声後部歯茎破擦音  |
+| [`dZ`](https://ja.wikipedia.org/wiki/有声後部歯茎破擦音 "wikilink")  | 有声後部歯茎破擦音  |
+| [`ts\`](../Page/無声歯茎硬口蓋破擦音.md "wikilink")                   | 無声歯茎硬口蓋破擦音 |
+| [`dz\`](../Page/有声歯茎硬口蓋破擦音.md "wikilink")                   | 有声歯茎硬口蓋破擦音 |
+| [`tK`](https://ja.wikipedia.org/wiki/無声歯茎側面破擦音 "wikilink")  | 無声歯茎側面破擦音  |
+| [`kp`](https://ja.wikipedia.org/wiki/無声両唇軟口蓋破裂音 "wikilink") | 無声両唇軟口蓋破裂音 |
+| [`gb`](https://ja.wikipedia.org/wiki/有声両唇軟口蓋破裂音 "wikilink") | 有声両唇軟口蓋破裂音 |
+| [`Nm`](https://ja.wikipedia.org/wiki/両唇軟口蓋鼻音 "wikilink")    | 両唇軟口蓋鼻音    |
 
-[破擦音](https://ja.wikipedia.org/wiki/破擦音 "wikilink")と二重調音
+[破擦音](../Page/破擦音.md "wikilink")と二重調音
 
-| [吸着音](https://ja.wikipedia.org/wiki/吸着音 "wikilink")        | [入破音](https://ja.wikipedia.org/wiki/入破音 "wikilink") | [放出音](https://ja.wikipedia.org/wiki/放出音 "wikilink")       |
-| ---------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- |
-| [`O\`](https://ja.wikipedia.org/wiki/両唇吸着音 "wikilink")     | 両唇                                                  | [`b_<`](https://ja.wikipedia.org/wiki/両唇入破音 "wikilink")   |
-| [<code>](https://ja.wikipedia.org/wiki/歯吸着音 "wikilink")    | 歯                                                   | [`d_<`](https://ja.wikipedia.org/wiki/歯茎入破音 "wikilink")   |
-| [`!\`](https://ja.wikipedia.org/wiki/歯茎吸着音 "wikilink")     | (後部)歯茎                                              | [`J_<`](https://ja.wikipedia.org/wiki/硬口蓋入破音 "wikilink") |
-| [`=\`](https://ja.wikipedia.org/wiki/硬口蓋歯茎吸着音 "wikilink")  | 硬口蓋歯茎                                               | [`g_<`](https://ja.wikipedia.org/wiki/軟口蓋入破音 "wikilink")  |
-| [<code>](https://ja.wikipedia.org/wiki/歯茎側面吸着音 "wikilink") | 歯茎側面                                                | [`G_<`](https://ja.wikipedia.org/wiki/口蓋垂入破音 "wikilink") |
+| [吸着音](../Page/吸着音.md "wikilink")                           | [入破音](../Page/入破音.md "wikilink") | [放出音](../Page/放出音.md "wikilink")                          |
+| ---------------------------------------------------------- | -------------------------------- | --------------------------------------------------------- |
+| [`O\`](../Page/両唇吸着音.md "wikilink")                        | 両唇                               | [`b_<`](https://ja.wikipedia.org/wiki/両唇入破音 "wikilink")   |
+| [<code>](https://ja.wikipedia.org/wiki/歯吸着音 "wikilink")    | 歯                                | [`d_<`](https://ja.wikipedia.org/wiki/歯茎入破音 "wikilink")   |
+| [`!\`](https://ja.wikipedia.org/wiki/歯茎吸着音 "wikilink")     | (後部)歯茎                           | [`J_<`](https://ja.wikipedia.org/wiki/硬口蓋入破音 "wikilink") |
+| [`=\`](https://ja.wikipedia.org/wiki/硬口蓋歯茎吸着音 "wikilink")  | 硬口蓋歯茎                            | [`g_<`](https://ja.wikipedia.org/wiki/軟口蓋入破音 "wikilink")  |
+| [<code>](https://ja.wikipedia.org/wiki/歯茎側面吸着音 "wikilink") | 歯茎側面                             | [`G_<`](https://ja.wikipedia.org/wiki/口蓋垂入破音 "wikilink") |
 
 子音 ([非肺臓気流機構](https://ja.wikipedia.org/wiki/非肺臓気流機構 "wikilink"))
 
@@ -1075,7 +1075,7 @@
 <p><a href="https://ja.wikipedia.org/wiki/非円唇前舌狭母音" title="wikilink"><code>i</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇前舌狭母音" title="wikilink"><code>y</code></a></p>
 </div>
 <div style="position:absolute; left:45%; width:2.33em; top:2%; height:1.33em; background:white">
-<p><a href="https://ja.wikipedia.org/wiki/非円唇中舌狭母音" title="wikilink"><code>1</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇中舌狭母音" title="wikilink"><code>}</code></a></p>
+<p><a href="../Page/非円唇中舌狭母音.md" title="wikilink"><code>1</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇中舌狭母音" title="wikilink"><code>}</code></a></p>
 </div>
 <div style="position:absolute; left:83%; width:3em; top:2%; height:1.33em; background:white">
 <p><a href="https://ja.wikipedia.org/wiki/非円唇後舌狭母音" title="wikilink"><code>M</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇後舌狭母音" title="wikilink"><code>u</code></a></p>
@@ -1099,16 +1099,16 @@
 <p><a href="https://ja.wikipedia.org/wiki/非円唇後舌半狭母音" title="wikilink"><code>7</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇後舌半狭母音" title="wikilink"><code>o</code></a></p>
 </div>
 <div style="position:absolute; left:57%; width:1em; top:44%; height:1.33em; background:white">
-<p><a href="https://ja.wikipedia.org/wiki/シュワー" title="wikilink"><code>@</code></a></p>
+<p><a href="../Page/シュワー.md" title="wikilink"><code>@</code></a></p>
 </div>
 <div style="position:absolute; left:31%; width:2.66em; top:58%; height:1.33em; background:white">
 <p><a href="https://ja.wikipedia.org/wiki/非円唇前舌半広母音" title="wikilink"><code>E</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇前舌半広母音" title="wikilink"><code>9</code></a></p>
 </div>
 <div style="position:absolute; left:57%; width:2.33em; top:58%; height:1.33em; background:white">
-<p><a href="https://ja.wikipedia.org/wiki/非円唇中舌半広母音" title="wikilink"><code>3</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇中舌半広母音" title="wikilink"><code>3\</code></a></p>
+<p><a href="../Page/非円唇中舌半広母音.md" title="wikilink"><code>3</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇中舌半広母音" title="wikilink"><code>3\</code></a></p>
 </div>
 <div style="position:absolute; left:84%; width:2.33em; top:58%; height:1.33em; background:white">
-<p><a href="https://ja.wikipedia.org/wiki/非円唇後舌半広母音" title="wikilink"><code>V</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇後舌半広母音" title="wikilink"><code>O</code></a></p>
+<p><a href="../Page/非円唇後舌半広母音.md" title="wikilink"><code>V</code></a> • <a href="https://ja.wikipedia.org/wiki/円唇後舌半広母音" title="wikilink"><code>O</code></a></p>
 </div>
 <div style="position:absolute; left:39%; width:2em; top:73%; height:1.33em; background:white">
 <p><a href="https://ja.wikipedia.org/wiki/非円唇前舌狭めの広母音" title="wikilink"><code>{</code></a> • </p>
@@ -1185,10 +1185,10 @@
 
 ## 関連項目
 
-  - [発音記号](https://ja.wikipedia.org/wiki/発音記号 "wikilink")
+  - [発音記号](../Page/発音記号.md "wikilink")
   - [SAMPA](../Page/SAMPA.md "wikilink")
-  - [キルシェンバウム](https://ja.wikipedia.org/wiki/キルシェンバウム "wikilink")
-  - [TIPA](https://ja.wikipedia.org/wiki/TIPA "wikilink")
+  - [キルシェンバウム](../Page/キルシェンバウム.md "wikilink")
+  - [TIPA](../Page/TIPA.md "wikilink")
   - [ARPABET](https://ja.wikipedia.org/wiki/ARPABET "wikilink")
 
 ## 外部リンク

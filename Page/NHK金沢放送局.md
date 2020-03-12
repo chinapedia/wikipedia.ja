@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK金沢放送局**（エヌエイチケイかなざわほうそうきょく）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK金沢放送局**（エヌエイチケイかなざわほうそうきょく）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 概要
 
-[NHK_Kanazawa_Broadcasting_Station,_JOJK,_Sep_2012.jpg](https://ja.wikipedia.org/wiki/File:NHK_Kanazawa_Broadcasting_Station,_JOJK,_Sep_2012.jpg "fig:NHK_Kanazawa_Broadcasting_Station,_JOJK,_Sep_2012.jpg") 開局は[福岡局よりも先で](https://ja.wikipedia.org/wiki/NHK福岡放送局 "wikilink")、昭和時代九州の管理を担った[熊本局を含めた拠点局以外では初めてであった](https://ja.wikipedia.org/wiki/NHK熊本放送局 "wikilink")。その歴史は古く、中部管内（東海北陸7県）の序列としては[名古屋局の次となる](../Page/NHK名古屋放送局.md "wikilink")。
+[NHK_Kanazawa_Broadcasting_Station,_JOJK,_Sep_2012.jpg](https://ja.wikipedia.org/wiki/File:NHK_Kanazawa_Broadcasting_Station,_JOJK,_Sep_2012.jpg "fig:NHK_Kanazawa_Broadcasting_Station,_JOJK,_Sep_2012.jpg") 開局は[福岡局よりも先で](../Page/NHK福岡放送局.md "wikilink")、昭和時代九州の管理を担った[熊本局を含めた拠点局以外では初めてであった](../Page/NHK熊本放送局.md "wikilink")。その歴史は古く、中部管内（東海北陸7県）の序列としては[名古屋局の次となる](../Page/NHK名古屋放送局.md "wikilink")。
 
 その後、放送局舎は築半世紀に達し、老朽化が目立っていた。しかし、耐震化策による延命が図られ、これまで移転・建替えの計画はなかったが\[1\]、[2013年](../Page/2013年.md "wikilink")に入って駅西方面への移転計画が持ち上がり、移転が決定。新放送会館は[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に竣工し、同年[10月9日](../Page/10月9日.md "wikilink")に移転した\[2\]。
 
@@ -15,22 +15,22 @@
 
   - [1930年](../Page/1930年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")5年）[4月15日](../Page/4月15日.md "wikilink") - **社団法人日本放送協会**金沢放送局開局。
       - 当初は一般的な北陸3県を管轄としていた。その後段階的に県ごとに分離、なお福井県は当初[大阪管轄だった](../Page/NHK大阪放送局.md "wikilink")。
-  - [1947年](../Page/1947年.md "wikilink")（昭和22年）[8月21日](../Page/8月21日.md "wikilink") - [ラジオ第2放送開局](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")。
+  - [1947年](../Page/1947年.md "wikilink")（昭和22年）[8月21日](../Page/8月21日.md "wikilink") - [ラジオ第2放送開局](../Page/NHKラジオ第2放送.md "wikilink")。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い、社団法人日本放送協会解散。同時に[特殊法人](../Page/特殊法人.md "wikilink")としての[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が設立され、一切の権利義務を継承。
-  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[12月23日](../Page/12月23日.md "wikilink") - 本州の日本海側初となる[総合テレビの放送開始](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）[2月28日](https://ja.wikipedia.org/wiki/2月28日 "wikilink") - 金沢放送会館（旧局舎）完成。
+  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[12月23日](../Page/12月23日.md "wikilink") - 本州の日本海側初となる[総合テレビの放送開始](../Page/NHK総合テレビジョン.md "wikilink")。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）[2月28日](../Page/2月28日.md "wikilink") - 金沢放送会館（旧局舎）完成。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）
-      - [4月1日](../Page/4月1日.md "wikilink") - [教育テレビ放送開始](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")。
+      - [4月1日](../Page/4月1日.md "wikilink") - [教育テレビ放送開始](../Page/NHK教育テレビジョン.md "wikilink")。
       - [7月22日](../Page/7月22日.md "wikilink") - 総合テレビカラー化。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）4月1日 - 教育テレビカラー化。
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - [FM放送開始](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - [FM放送開始](../Page/NHK-FM放送.md "wikilink")。
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[2月1日](../Page/2月1日.md "wikilink") - テレビ放送のカラー化完了。
-  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[11月23日](../Page/11月23日.md "wikilink") - [ラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")・ラジオ第2の[周波数](../Page/周波数.md "wikilink")変更。
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[11月23日](../Page/11月23日.md "wikilink") - [ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・ラジオ第2の[周波数](../Page/周波数.md "wikilink")変更。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[3月1日](../Page/3月1日.md "wikilink") - 総合テレビ、音声多重放送を開始\[4\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）[7月1日](../Page/7月1日.md "wikilink") - [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")開始。
-  - [2009年](../Page/2009年.md "wikilink")（平成21年）[7月24日](../Page/7月24日.md "wikilink") - [地上アナログテレビ放送終了](../Page/NTSC.md "wikilink")2年前に併せて、[珠洲中継局](https://ja.wikipedia.org/wiki/珠洲中継局 "wikilink")で県内のNHK・民放5社・団体6チャンネル共通で10:00から11:00までの1時間、試験的にアナログ放送休止（デジタル放送は通常放送）。
+  - [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[7月1日](../Page/7月1日.md "wikilink") - [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")開始。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[7月24日](../Page/7月24日.md "wikilink") - [地上アナログテレビ放送終了](../Page/NTSC.md "wikilink")2年前に併せて、[珠洲中継局](../Page/珠洲中継局.md "wikilink")で県内のNHK・民放5社・団体6チャンネル共通で10:00から11:00までの1時間、試験的にアナログ放送休止（デジタル放送は通常放送）。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）
-      - [1月22日](../Page/1月22日.md "wikilink")12時から[1月24日](../Page/1月24日.md "wikilink")12時 - 地上アナログテレビ放送終了1年半前に併せて珠洲中継局で県内5社・団体6チャンネル共通で2日間・48時間に渡りアナログ放送を休止。NHKは[災害対策基本法](https://ja.wikipedia.org/wiki/災害対策基本法 "wikilink")や有事対策義務により、休止時間中も電波停止はせずブルーバックの字幕「ただいまアナログ放送を休止しています。地上デジタル放送をご覧ください」のテロップを表示した。
+      - [1月22日](../Page/1月22日.md "wikilink")12時から[1月24日](../Page/1月24日.md "wikilink")12時 - 地上アナログテレビ放送終了1年半前に併せて珠洲中継局で県内5社・団体6チャンネル共通で2日間・48時間に渡りアナログ放送を休止。NHKは[災害対策基本法](../Page/災害対策基本法.md "wikilink")や有事対策義務により、休止時間中も電波停止はせずブルーバックの字幕「ただいまアナログ放送を休止しています。地上デジタル放送をご覧ください」のテロップを表示した。
       - 7月24日 - 珠洲アナログテレビ中継局と珠洲市内のアナログテレビ中継局が全国より1年早く、この日の12時をもって地上アナログテレビ放送を全面終了。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）7月24日 - 正午でアナログ放送を終了。翌25日の午前0時完全停波。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）[10月9日](../Page/10月9日.md "wikilink") - 金沢市広岡三丁目の新放送会館に移転\[5\]\[6\]。先行して放送業務は[10月8日](../Page/10月8日.md "wikilink")から開始。
@@ -321,10 +321,10 @@
   - NHK金沢放送局屋上
   - [金沢駅](https://ja.wikipedia.org/wiki/金沢駅 "wikilink")屋上
   - [石川県庁屋上](https://ja.wikipedia.org/wiki/石川県庁舎 "wikilink")
-  - [香林坊](https://ja.wikipedia.org/wiki/香林坊 "wikilink")交差点
+  - [香林坊](../Page/香林坊.md "wikilink")交差点
   - [兼六園](../Page/兼六園.md "wikilink")園内 - [テレビ金沢](../Page/テレビ金沢.md "wikilink")と共同設置
-  - [獅子吼高原](https://ja.wikipedia.org/wiki/獅子吼高原 "wikilink")
-  - [小松空港ビル屋上](https://ja.wikipedia.org/wiki/小松飛行場 "wikilink")
+  - [獅子吼高原](../Page/獅子吼高原.md "wikilink")
+  - [小松空港ビル屋上](../Page/小松飛行場.md "wikilink")
   - [能登空港](../Page/能登空港.md "wikilink")ターミナルビル屋上
   - [輪島](https://ja.wikipedia.org/wiki/輪島市 "wikilink")（NTT局舎鉄塔）
 
@@ -340,7 +340,7 @@
 
 **「ことじろう」**は、金沢局が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）に開局80周年を記念し制定したマスコットキャラクター。
 
-[兼六園](../Page/兼六園.md "wikilink")の名物、徽軫[灯籠](https://ja.wikipedia.org/wiki/灯籠 "wikilink")（**ことじ**とう**ろう**）をモチーフに金沢局がデザインを、[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")からの公募で名前を、それぞれ決定した。夕方のニュースなど金沢局制作の番組に登場するほか、局の[広報](https://ja.wikipedia.org/wiki/広報 "wikilink")紙のタイトルにもなっていて、石川県内では認知度が上昇している。
+[兼六園](../Page/兼六園.md "wikilink")の名物、徽軫[灯籠](../Page/灯籠.md "wikilink")（**ことじ**とう**ろう**）をモチーフに金沢局がデザインを、[視聴者](../Page/視聴者.md "wikilink")からの公募で名前を、それぞれ決定した。夕方のニュースなど金沢局制作の番組に登場するほか、局の[広報](../Page/広報.md "wikilink")紙のタイトルにもなっていて、石川県内では認知度が上昇している。
 
 ## 主な金沢局制作番組
 
@@ -350,7 +350,7 @@
 
 <!-- end list -->
 
-  - [おはよう石川](https://ja.wikipedia.org/wiki/おはよう石川 "wikilink")（平日 6:55 - 7:00、7:45 - 8:00）
+  - [おはよう石川](../Page/おはよう石川.md "wikilink")（平日 6:55 - 7:00、7:45 - 8:00）
       - 前者は2018年4月より「[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")」の内包扱い。\[7\]
   - [かがのとイブニング](https://ja.wikipedia.org/wiki/かがのとイブニング "wikilink")（平日 18:10 - 18:59）
   - [ニュースいしかわ845](https://ja.wikipedia.org/wiki/ニュースいしかわ845 "wikilink")（平日 20:45 - 21:00）
@@ -403,7 +403,7 @@
   - [今・おも・ラジオ〜石川のラジオは今も面白い〜](https://ja.wikipedia.org/wiki/今・おも・ラジオ〜石川のラジオは今も面白い〜 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[エフエム石川](../Page/エフエム石川.md "wikilink")との共同制作番組）
   - 石川アーカイブス（開局80周年記念番組。2010年から2012年2月まで放送）
   - [FMジュークボックス](https://ja.wikipedia.org/wiki/FMジュークボックス "wikilink")
-  - いよっ\![弁慶](https://ja.wikipedia.org/wiki/弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[9\]\[10\]
+  - いよっ\![弁慶](https://ja.wikipedia.org/wiki/弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[9\]\[10\]
 
 ## アナウンサー・キャスター
 
@@ -424,26 +424,26 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中尾晃一郎" title="wikilink">中尾晃一郎</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK放送文化研究所" title="wikilink">放送文化研究所</a></p></td>
+<td><p><a href="../Page/中尾晃一郎.md" title="wikilink">中尾晃一郎</a>*</p></td>
+<td><p><a href="../Page/NHK放送文化研究所.md" title="wikilink">放送文化研究所</a></p></td>
 <td><p>放送部副部長<br />
 石川県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/船岡久嗣" title="wikilink">船岡久嗣</a></p></td>
+<td><p><a href="../Page/船岡久嗣.md" title="wikilink">船岡久嗣</a></p></td>
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td><p>各種スポーツ中継<br />
 石川県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/宮崎浩輔" title="wikilink">宮崎浩輔</a>*</p></td>
+<td><p><a href="../Page/宮崎浩輔.md" title="wikilink">宮崎浩輔</a>*</p></td>
 <td><p>|<a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a></p></td>
 <td><p>石川県のニュース<br />
 じわもんラジオ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/水谷彰宏" title="wikilink">水谷彰宏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター" title="wikilink">日本語センター</a>（出向）</p></td>
+<td><p><a href="../Page/水谷彰宏.md" title="wikilink">水谷彰宏</a></p></td>
+<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター</a>（出向）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -519,7 +519,7 @@
 
 ## その他
 
-  - [衆議院議員総選挙](https://ja.wikipedia.org/wiki/衆議院議員総選挙 "wikilink")の[比例北陸信越ブロック](https://ja.wikipedia.org/wiki/比例北陸信越ブロック "wikilink")の報道は金沢局が統括担当になる\[12\]。なお、比例北陸信越ブロックを構成する5県はNHKの地域ブロックにおいて、東京の本部直轄となる長野・新潟と、名古屋放送局管轄となる富山・石川・福井に分かれネットワーク回線も別々のため、これら5県のブロック放送を行うため[通信衛星](../Page/通信衛星.md "wikilink")を利用した放送が行われ、金沢局が送信元となる\[13\]。
+  - [衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")の[比例北陸信越ブロック](https://ja.wikipedia.org/wiki/比例北陸信越ブロック "wikilink")の報道は金沢局が統括担当になる\[12\]。なお、比例北陸信越ブロックを構成する5県はNHKの地域ブロックにおいて、東京の本部直轄となる長野・新潟と、名古屋放送局管轄となる富山・石川・福井に分かれネットワーク回線も別々のため、これら5県のブロック放送を行うため[通信衛星](../Page/通信衛星.md "wikilink")を利用した放送が行われ、金沢局が送信元となる\[13\]。
   - 石川県の放送局では唯一、岐阜県の天気予報を伝えている（ただし、飛騨地方のみで、注意報・警報のアナウンスは行われない）。
 
 ## 脚注
@@ -530,7 +530,7 @@
 
 [Category:NHK金沢](https://ja.wikipedia.org/wiki/Category:NHK金沢 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
 
-1.  一時期、旧[石川県警察](https://ja.wikipedia.org/wiki/石川県警察 "wikilink")本部跡や旧石川県庁(現:[石川県政記念しいのき迎賓館](https://ja.wikipedia.org/wiki/石川県政記念しいのき迎賓館 "wikilink"))への移転も検討されたが、景観などの問題から白紙に戻された経緯がある。
+1.  一時期、旧[石川県警察](../Page/石川県警察.md "wikilink")本部跡や旧石川県庁(現:[石川県政記念しいのき迎賓館](https://ja.wikipedia.org/wiki/石川県政記念しいのき迎賓館 "wikilink"))への移転も検討されたが、景観などの問題から白紙に戻された経緯がある。
 2.  [NHK金沢放送局 新放送会館オープン記念特設ページ 新会館情報](http://www.nhk.or.jp/kanazawa/special/station/)
 3.  富山新聞 2018年10月10日付4面『新放送会館オープン NHK金沢』より。
 4.

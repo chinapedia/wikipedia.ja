@@ -1,7 +1,7 @@
 > この記事は[Jambalaya - Bossa Americana-](https://ja.wikipedia.org/wiki/Jambalaya_-_Bossa_Americana-)から翻訳されています。
 
 
-『**Jambalaya - Bossa Americana-**』（ジャンバラヤ ボッサ・アメリカーナ）は、[小野リサ](../Page/小野リサ.md "wikilink")のアルバム。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された。アメリカン・スタンダードをカヴァーしたアルバムで、[英語](../Page/英語.md "wikilink")詞が中心である。
+『**Jambalaya - Bossa Americana-**』（ジャンバラヤ ボッサ・アメリカーナ）は、[小野リサ](../Page/小野リサ.md "wikilink")のアルバム。[2006年](../Page/2006年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された。アメリカン・スタンダードをカヴァーしたアルバムで、[英語](../Page/英語.md "wikilink")詞が中心である。
 
 ## 収録曲
 
@@ -23,7 +23,7 @@
         ジョン・ハートフォード、[グレン・キャンベル](https://ja.wikipedia.org/wiki/グレン・キャンベル "wikilink")の楽曲のカヴァー
 7.  Crazy - クレイジー
       -
-        [ウィリー・ネルソン](https://ja.wikipedia.org/wiki/ウィリー・ネルソン "wikilink")のカヴァー
+        [ウィリー・ネルソン](../Page/ウィリー・ネルソン.md "wikilink")のカヴァー
 8.  [I've Just Seen a Face](https://ja.wikipedia.org/wiki/:en:I've_Just_Seen_a_Face "wikilink") - [夢の人](../Page/夢の人.md "wikilink")
       -
         [ビートルズ](../Page/ビートルズ.md "wikilink")のアルバム『[4人はアイドル](../Page/4人はアイドル.md "wikilink")』からのナンバーのカヴァー

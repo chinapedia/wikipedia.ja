@@ -14,7 +14,7 @@
 
 2002年にミニアルバム『我流』でインディーズデビュー。2004年に[cutting edgeよりミニアルバム](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")『JUST NOW』でメジャーデビュー。
 
-2006年、「Day by Day」が[横浜ゴム](https://ja.wikipedia.org/wiki/横浜ゴム "wikilink")「ECOタイヤDNA」のCMに起用され話題になって、後にミニアルバム『[Day by Day](https://ja.wikipedia.org/wiki/Day_by_Day_\(MEGARYUのアルバム\) "wikilink")』はオリコンチャート6位、アルバム『[我流旋風](../Page/我流旋風.md "wikilink")』は1位を獲得した。
+2006年、「Day by Day」が[横浜ゴム](../Page/横浜ゴム.md "wikilink")「ECOタイヤDNA」のCMに起用され話題になって、後にミニアルバム『[Day by Day](https://ja.wikipedia.org/wiki/Day_by_Day_\(MEGARYUのアルバム\) "wikilink")』はオリコンチャート6位、アルバム『[我流旋風](../Page/我流旋風.md "wikilink")』は1位を獲得した。
 
 2010年で結成10年で、初のベストアルバム『メガ・ベスト～我流全集～』発売し、[飛騨・美濃観光大使にも就任](https://ja.wikipedia.org/wiki/飛騨・美濃じまんプロジェクト#飛騨・美濃観光大使 "wikilink")。
 
@@ -32,7 +32,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/4月20日" title="wikilink">4月20日</a></p></td>
-<td><p><strong>言えなかった「ありがとう」／アンコール feat. <a href="https://ja.wikipedia.org/wiki/ET-KING" title="wikilink">ET-KING</a></strong></p></td>
+<td><p><strong>言えなかった「ありがとう」／アンコール feat. <a href="../Page/ET-KING.md" title="wikilink">ET-KING</a></strong></p></td>
 <td><p>CTCR-40331</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -119,7 +119,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -127,7 +127,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/上昇気流_(アルバム)" title="wikilink">上昇気流</a></strong></p></td>
 <td><p>CTCR-14433</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -158,7 +158,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
 <td><p><strong><a href="../Page/我流旋風.md" title="wikilink">我流旋風</a></strong></p></td>
 <td><p>CTCR-14487</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -468,7 +468,7 @@ CTCR-14798(CD)</p></td>
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -524,7 +524,7 @@ CTCR-14798(CD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>JUST NOW</strong></p></td>
 <td><p>CTCR-14373</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -546,7 +546,7 @@ CTCR-14798(CD)</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>モットトヲク</strong></p></td>
 <td><p>CTCR-14405</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -567,7 +567,7 @@ CTCR-14798(CD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Day_by_Day_(MEGARYUのアルバム)" title="wikilink">Day by Day</a></strong></p></td>
 <td><p>CTCR-14460</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -667,7 +667,7 @@ CTCR-14794(CD)</p></td>
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -784,7 +784,7 @@ CTCR-14672～3(CD)</p></td>
 
 1.  [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")「[Chase](../Page/Chase_\(倖田來未の曲\).md "wikilink")」（2004年7月28日）
       - 2\. Heat feat.MEGARYU
-2.  [PANG](https://ja.wikipedia.org/wiki/PANG "wikilink")「stage by stage」（2005年2月23日）
+2.  [PANG](../Page/PANG.md "wikilink")「stage by stage」（2005年2月23日）
       - 5\. stage by stage(feat.MEGARYU&[lecca](https://ja.wikipedia.org/wiki/lecca "wikilink"))
 3.  「NATURAL WOMAN」（2005年4月2日）
       - 6\. FEEL ALLRIHGT
@@ -825,7 +825,7 @@ CTCR-14672～3(CD)</p></td>
       - 1\. もう一度あなたに会えたなら
 22. 「LUIRE presents THE PARTY」（2009年01月14日）
       - 11\. 本気っスカ\!
-23. [DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")「DJ MASTERKEY」（2009年1月28日）
+23. [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")「DJ MASTERKEY」（2009年1月28日）
       - 16\. SUNSHINE
 24. 「愛レゲエ2」（2009年2月4日）
       - 8\. I miss you
@@ -887,13 +887,13 @@ CTCR-14672～3(CD)</p></td>
 |                                                                                                |                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 曲名                                                                                             | タイアップ                                                                                                                                           |
-| アゲアゲハリケーン                                                                                      | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」エンディングテーマ                        |
-| Day by day                                                                                     | [横浜ゴム](https://ja.wikipedia.org/wiki/横浜ゴム "wikilink")「ECOタイヤDNA」CMソング                                                                           |
+| アゲアゲハリケーン                                                                                      | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[流派-R](../Page/流派-R.md "wikilink")」エンディングテーマ                                           |
+| Day by day                                                                                     | [横浜ゴム](../Page/横浜ゴム.md "wikilink")「ECOタイヤDNA」CMソング                                                                                              |
 | 懐メロ                                                                                            | [エイベックス・マーケティング](https://ja.wikipedia.org/wiki/エイベックス・マーケティング "wikilink")「[ミュゥモ](../Page/ミュゥモ.md "wikilink")」CMソング                              |
 | ROOTS                                                                                          | [エムティーアイ](../Page/エムティーアイ.md "wikilink")「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」CMソング                                    |
 | 電光石火のごとく                                                                                       | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「GOOD LOOKIN' CLUB」エンディングテーマ                                                                            |
 | もっと自由に                                                                                         | [TBS系](../Page/TBSテレビ.md "wikilink")「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」エンディングテーマ                                      |
-| 歌にして贈る言葉                                                                                       | TBS系「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」オープニングテーマ                                                                          |
+| 歌にして贈る言葉                                                                                       | TBS系「[ランク王国](../Page/ランク王国.md "wikilink")」オープニングテーマ                                                                                             |
 | 朝顔のように                                                                                         | [名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")「[アクセる★ビリー\!](https://ja.wikipedia.org/wiki/アクセる★ビリー! "wikilink")」エンディングテーマ                           |
 | ハナコトバ                                                                                          | [関西テレビ](../Page/関西テレビ放送.md "wikilink")「[アップ\&UP\!](https://ja.wikipedia.org/wiki/あっぷ&UP! "wikilink")」エンディングテーマ                                  |
 | Re：BIRTH                                                                                       | TBS系「王様のブランチ」エンディングテーマ                                                                                                                          |
@@ -901,7 +901,7 @@ CTCR-14672～3(CD)</p></td>
 | LOVE A LOVE feat. SEAMO                                                                        | テレビ東京系「流派-R」エンディングテーマ                                                                                                                           |
 | 日本テレビ系「[GALACTICA シーズン2](https://ja.wikipedia.org/wiki/GALACTICA/ギャラクティカ "wikilink")」エンディングテーマ |                                                                                                                                                 |
 | MY SWEET HOME ～帰れる場所～                                                                          | [JA全農ぐんまCMソング](../Page/全国農業協同組合連合会.md "wikilink")                                                                                               |
-| 言えなかった「ありがとう」                                                                                  | TBS系「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」4月度オープニングテーマ                                                       |
+| 言えなかった「ありがとう」                                                                                  | TBS系「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」4月度オープニングテーマ                                                                          |
 
 ## ミュージックビデオ
 

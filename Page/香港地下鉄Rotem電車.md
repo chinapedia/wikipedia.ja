@@ -1,7 +1,7 @@
 > この記事は[Rotem](https://ja.wikipedia.org/wiki/Rotem)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:SNC14929.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:MTR_Hong_Kong_K-Stock_train.JPG "wikilink") **Rotem電車** (ローテムでんしゃ)は、[香港鉄路](https://ja.wikipedia.org/wiki/香港鉄路有限公司 "wikilink") ([港鉄](https://ja.wikipedia.org/wiki/香港MTR "wikilink"))の[直流](../Page/直流電化.md "wikilink")[通勤形電車](../Page/通勤形車両_\(鉄道\).md "wikilink")。正式には[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")用が**C651型電車** (-がたでんしゃ)、[東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")用が**C6522-04E型電車** (-がたでんしゃ)である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SNC14929.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:MTR_Hong_Kong_K-Stock_train.JPG "wikilink") **Rotem電車** (ローテムでんしゃ)は、[香港鉄路](https://ja.wikipedia.org/wiki/香港鉄路有限公司 "wikilink") ([港鉄](../Page/香港MTR.md "wikilink"))の[直流](../Page/直流電化.md "wikilink")[通勤形電車](../Page/通勤形車両_\(鉄道\).md "wikilink")。正式には[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")用が**C651型電車** (-がたでんしゃ)、[東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")用が**C6522-04E型電車** (-がたでんしゃ)である。
 
 ## 概要
 
@@ -64,6 +64,6 @@
 
 ## 関連項目
 
-  - [港鉄メトロキャメル電車](https://ja.wikipedia.org/wiki/香港地下鉄メトロキャメル電車_\(直流\) "wikilink")
+  - [港鉄メトロキャメル電車](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink")
 
 [Category:香港の鉄道車両](https://ja.wikipedia.org/wiki/Category:香港の鉄道車両 "wikilink") [Category:香港MTR](https://ja.wikipedia.org/wiki/Category:香港MTR "wikilink") [Category:現代ロテム製の鉄道車両](https://ja.wikipedia.org/wiki/Category:現代ロテム製の鉄道車両 "wikilink")

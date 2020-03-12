@@ -5,7 +5,7 @@
 
 ## 経歴
 
-  - [2003年](../Page/2003年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[KAIENTAI DOJO](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")[ディファ有明](../Page/ディファ有明.md "wikilink")大会で[旭志織](../Page/旭志織.md "wikilink")、[DJニラ](../Page/DJニラ.md "wikilink")、[アップルみゆきとタッグを組んで対](../Page/ハイビスカスみぃ.md "wikilink")[つぼ原人](../Page/小坪弘良.md "wikilink")&[PSYCHO](https://ja.wikipedia.org/wiki/PSYCHO_\(プロレスラー\) "wikilink")&[X No.5](../Page/X_No.5.md "wikilink")&[お船](https://ja.wikipedia.org/wiki/お船 "wikilink")戦でデビュー。
+  - [2003年](../Page/2003年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")[ディファ有明](../Page/ディファ有明.md "wikilink")大会で[旭志織](../Page/旭志織.md "wikilink")、[DJニラ](../Page/DJニラ.md "wikilink")、[アップルみゆきとタッグを組んで対](../Page/ハイビスカスみぃ.md "wikilink")[つぼ原人](../Page/小坪弘良.md "wikilink")&[PSYCHO](../Page/PSYCHO_\(プロレスラー\).md "wikilink")&[X No.5](../Page/X_No.5.md "wikilink")&[お船](https://ja.wikipedia.org/wiki/お船 "wikilink")戦でデビュー。
   - [2015年](../Page/2015年.md "wikilink")、K-DOJO公式サイトの選手名鑑に記載されていないことから退団したと思われる。
 
 ## 得意技

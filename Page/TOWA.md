@@ -1,7 +1,7 @@
 > この記事は[TOWA](https://ja.wikipedia.org/wiki/TOWA)から翻訳されています。
 
 
-**TOWA株式会社**（トーワ）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[南区に本社を置く精密金型](../Page/南区_\(京都市\).md "wikilink")、半導体製造装置メーカー。
+**TOWA株式会社**（トーワ）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[南区に本社を置く精密金型](../Page/南区_\(京都市\).md "wikilink")、半導体製造装置メーカー。
 
 ## 沿革
 
@@ -14,7 +14,7 @@
 ## 所在地
 
   - 本社・工場 - 京都府京都市南区
-  - 京都東事業所 - 京都府[綴喜郡](../Page/綴喜郡.md "wikilink")[宇治田原町](https://ja.wikipedia.org/wiki/宇治田原町 "wikilink")
+  - 京都東事業所 - 京都府[綴喜郡](../Page/綴喜郡.md "wikilink")[宇治田原町](../Page/宇治田原町.md "wikilink")
   - 坂東記念研究所 槙島分室 - 京都府[宇治市](../Page/宇治市.md "wikilink")
   - 九州事業所 - [佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")
 

@@ -3,9 +3,9 @@
 
 「**TitaniumSeries Transformers**」は2006年より海外で展開されている[トランスフォーマー](../Page/トランスフォーマー.md "wikilink")の玩具シリーズである。
 
-**Titanium**は[ハズブロ](../Page/ハズブロ.md "wikilink")社のダイキャスト製フィギュアの玩具シリーズ名であり、同時に『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』・『[宇宙空母ギャラクティカ](../Page/宇宙空母ギャラクティカ.md "wikilink")』・「[マーベル・コミック](https://ja.wikipedia.org/wiki/マーベル・コミック "wikilink")」もラインナップされている。一般のトランスフォーマー玩具は[タカラトミー](../Page/タカラトミー.md "wikilink")が製作しているが、本シリーズは、企画、制作まで海外の販売会社[ハズブロ](../Page/ハズブロ.md "wikilink")社により行われている。日本では2007年8月末に一部商品が「トランスフォーマータイタニウム」の商品名で発売された。
+**Titanium**は[ハズブロ](../Page/ハズブロ.md "wikilink")社のダイキャスト製フィギュアの玩具シリーズ名であり、同時に『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』・『[宇宙空母ギャラクティカ](../Page/宇宙空母ギャラクティカ.md "wikilink")』・「[マーベル・コミック](../Page/マーベル・コミック.md "wikilink")」もラインナップされている。一般のトランスフォーマー玩具は[タカラトミー](../Page/タカラトミー.md "wikilink")が製作しているが、本シリーズは、企画、制作まで海外の販売会社[ハズブロ](../Page/ハズブロ.md "wikilink")社により行われている。日本では2007年8月末に一部商品が「トランスフォーマータイタニウム」の商品名で発売された。
 
-変形しない「3インチ」フィギュアシリーズと変形可能な「6インチ」フィギュアシリーズからなる。キャラクターは、現在も人気の「G-1」キャラクターのみならず、Alternators（[バイナルテック](https://ja.wikipedia.org/wiki/バイナルテック "wikilink")）、Beast Wars（[ビーストウォーズ](https://ja.wikipedia.org/wiki/ビーストウォーズ "wikilink")）、Cybertron（[ギャラクシーフォース](https://ja.wikipedia.org/wiki/トランスフォーマー_ギャラクシーフォース "wikilink")）、*The War Within*（[ドリームウェーヴ・プロダクションズ](https://ja.wikipedia.org/wiki/ドリームウェーヴ・プロダクションズ "wikilink")社のパラレルコミックシリーズ）など、様々なシリーズから選ばれている。
+変形しない「3インチ」フィギュアシリーズと変形可能な「6インチ」フィギュアシリーズからなる。キャラクターは、現在も人気の「G-1」キャラクターのみならず、Alternators（[バイナルテック](https://ja.wikipedia.org/wiki/バイナルテック "wikilink")）、Beast Wars（[ビーストウォーズ](https://ja.wikipedia.org/wiki/ビーストウォーズ "wikilink")）、Cybertron（[ギャラクシーフォース](../Page/トランスフォーマー_ギャラクシーフォース.md "wikilink")）、*The War Within*（[ドリームウェーヴ・プロダクションズ](https://ja.wikipedia.org/wiki/ドリームウェーヴ・プロダクションズ "wikilink")社のパラレルコミックシリーズ）など、様々なシリーズから選ばれている。
 
 ## 6インチシリーズ（6" Metal Cybertron Heroes）
 
@@ -30,7 +30,7 @@
   - Starscream/[スタースクリーム](../Page/スタースクリーム.md "wikilink")
     *The War Within*登場。サンダークラッカーの塗装変更品。
   - Optimus Prime/ファイヤーコンボイ
-    『[カーロボット](https://ja.wikipedia.org/wiki/トランスフォーマー_カーロボット "wikilink")』の総司令官。消防車に変形。
+    『[カーロボット](../Page/トランスフォーマー_カーロボット.md "wikilink")』の総司令官。消防車に変形。
   - Fallen/フォールン
     *The War Within*に登場。最初に生み出された13人のトランスフォーマーの1人である。
   - Cheetor/チータス
@@ -58,8 +58,8 @@
     『初代』の人気キャラクター。
   - Starscream/スタースクリーム
     『初代』の人気キャラクター。足裏よりジェット噴射して浮いているポーズ。
-  - Unicron/[ユニクロン](https://ja.wikipedia.org/wiki/ユニクロン "wikilink")
-    *[THE MOVIE](https://ja.wikipedia.org/wiki/トランスフォーマー_ザ・ムービー "wikilink")*より。セイバートロン星を掴んでいる。
+  - Unicron/[ユニクロン](../Page/ユニクロン.md "wikilink")
+    *[THE MOVIE](../Page/トランスフォーマー_ザ・ムービー.md "wikilink")*より。セイバートロン星を掴んでいる。
   - Beast Wars Optimus Primal/（ビースト）コンボイ
     『ビーストウォーズ』の若きサイバトロン司令官。ブレードを構えている。
   - Beast Wars Megatron/（ビースト）メガトロン
@@ -79,7 +79,7 @@
   - Predaking/プレダキング
     『2010』に登場したデストロン巨獣合体兵士。
   - Scorponok/スコルポノック
-    『[スーパーリンク](https://ja.wikipedia.org/wiki/トランスフォーマー_スーパーリンク "wikilink")』に登場した。
+    『[スーパーリンク](../Page/トランスフォーマー_スーパーリンク.md "wikilink")』に登場した。
   - Cliffjumper/クリフ
     『初代』に登場した。バンブルを赤く塗り替えたもの。
   - Galvatron/ガルバトロン

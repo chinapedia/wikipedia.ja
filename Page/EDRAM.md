@@ -1,7 +1,7 @@
 > この記事は[EDRAM](https://ja.wikipedia.org/wiki/EDRAM)から翻訳されています。
 
 
-__NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../Page/ASIC.md "wikilink")や[プロセッサと同じ](../Page/CPU.md "wikilink")[ダイ](https://ja.wikipedia.org/wiki/ダイ "wikilink")または[パッケージに統合された](../Page/パッケージ_\(電子部品\).md "wikilink")、[キャパシタベースの](../Page/コンデンサ.md "wikilink")[DRAMである](../Page/Dynamic_Random_Access_Memory.md "wikilink")。
+__NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../Page/ASIC.md "wikilink")や[プロセッサと同じ](../Page/CPU.md "wikilink")[ダイ](../Page/ダイ.md "wikilink")または[パッケージに統合された](../Page/パッケージ_\(電子部品\).md "wikilink")、[キャパシタベースの](../Page/コンデンサ.md "wikilink")[DRAMである](../Page/Dynamic_Random_Access_Memory.md "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@ __NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../
 
 <!-- end list -->
 
-  - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+  - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
   - [任天堂](../Page/任天堂.md "wikilink") - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")
   - [マイクロソフト](../Page/マイクロソフト.md "wikilink") - [Xbox 360](../Page/Xbox_360.md "wikilink")
 

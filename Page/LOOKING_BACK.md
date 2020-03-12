@@ -13,16 +13,16 @@
 
 :\* 作詞・作曲・編曲：小田和正
 
-1.  **[君との思い出](https://ja.wikipedia.org/wiki/君との思い出 "wikilink")** - <span style="font-size:90%;">(5:09)</span>\[1\]<small>（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売シングル(CD-S:FHDL-1012)）</small>
+1.  **[君との思い出](../Page/君との思い出.md "wikilink")** - <span style="font-size:90%;">(5:09)</span>\[1\]<small>（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売シングル(CD-S:FHDL-1012)）</small>
       -
         先行シングルとしてリリースされた、このアルバム唯一の新曲。ループものをやってみたいということでできたが、思ったより大袈裟な曲になったという。
 2.  **昨日 見た夢** - <span style="font-size:90%;">(4:21)</span>\[2\]<small>（1995年[1月25日](../Page/1月25日.md "wikilink")発売シングル「[so long my love](https://ja.wikipedia.org/wiki/so_long_my_love "wikilink")」(CD-S:FHDL-1011)カップリング曲）</small>
       -
         オリジナルはアルバム『[Still a long way to go](https://ja.wikipedia.org/wiki/Still_a_long_way_to_go "wikilink")』\[3\]収録曲。ここでは途中での歌詞が一部省略されている。
-3.  **[もっと近くに](https://ja.wikipedia.org/wiki/もっと近くに "wikilink")** - <span style="font-size:90%;">(4:47)</span>\[4\]
+3.  **[もっと近くに](../Page/もっと近くに.md "wikilink")** - <span style="font-size:90%;">(4:47)</span>\[4\]
       -
         オリジナルはアルバム『[as close as possible](https://ja.wikipedia.org/wiki/as_close_as_possible "wikilink")』\[5\]収録曲でその後、シングル\[6\]としてもリリースされた。ここでは[Randy Goodrumによる英語詞が](https://ja.wikipedia.org/wiki/:en:Randy_Goodrum "wikilink")、小田自身の日本語詞に書き換えられている。
-4.  **[緑の日々](https://ja.wikipedia.org/wiki/緑の日々 "wikilink")** - <span style="font-size:90%;">(5:19)</span>\[7\]<small>（[1993年](../Page/1993年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売シングル(CD-S:FHDL-1008)）</small>
+4.  **[緑の日々](../Page/緑の日々.md "wikilink")** - <span style="font-size:90%;">(5:19)</span>\[7\]<small>（[1993年](../Page/1993年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売シングル(CD-S:FHDL-1008)）</small>
       -
         オリジナルはアルバム『[The Best Year of My Life](https://ja.wikipedia.org/wiki/The_Best_Year_of_My_Life "wikilink")』\[8\]収録曲でその後、シングル\[9\]としてもリリースされた。ここではエンディングで歌詞が追加されている。
 5.  **[Yes-No](https://ja.wikipedia.org/wiki/Yes-No "wikilink")** - <span style="font-size:90%;">(4:29)</span>\[10\]<small>（1993年[9月22日](../Page/9月22日.md "wikilink")発売シングル「[風の坂道](../Page/風の坂道.md "wikilink")」(CD-S:FHDL-1009)カップリング曲）</small>
@@ -37,13 +37,13 @@
 8.  **夏の終り** - <span style="font-size:90%;">(4:02)</span>\[21\]<small>（1994年[7月16日](../Page/7月16日.md "wikilink")発売シングル「[真夏の恋](../Page/真夏の恋_\(小田和正の曲\).md "wikilink")」(CD-S:FHDL-1010)カップリング曲）</small>
       -
         オリジナルはアルバム『[FAIRWAY](https://ja.wikipedia.org/wiki/FAIRWAY "wikilink")』\[22\]収録曲でその後、ベストアルバム『SELECTION 1978-81』\[23\]にも収録された。ここではオリジナルにあった歌い出しのサビが省略されている。
-9.  **[やさしさにさようなら](https://ja.wikipedia.org/wiki/やさしさにさようなら "wikilink")** - <span style="font-size:90%;">(3:59)</span>\[24\]<small>（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売シングル「[君との思い出](https://ja.wikipedia.org/wiki/君との思い出 "wikilink")」カップリング曲）</small>
+9.  **[やさしさにさようなら](../Page/やさしさにさようなら.md "wikilink")** - <span style="font-size:90%;">(3:59)</span>\[24\]<small>（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売シングル「[君との思い出](../Page/君との思い出.md "wikilink")」カップリング曲）</small>
       -
         オリジナルはシングル\[25\]でリリースされ、その後ベストアルバム『[SELECTION 1973-78](https://ja.wikipedia.org/wiki/SELECTION_1973-78 "wikilink")』\[26\]にも収録された。ここでは歌詞が一部書き変えられているほか、エンディングでのサビのリフレインが1回多い。
-10. **[秋の気配](https://ja.wikipedia.org/wiki/秋の気配 "wikilink")** - <span style="font-size:90%;">(5:04)</span>\[27\]
+10. **[秋の気配](../Page/秋の気配.md "wikilink")** - <span style="font-size:90%;">(5:04)</span>\[27\]
       -
         オリジナルはシングル\[28\]でリリースされ、その後アルバム『[JUNKTION](https://ja.wikipedia.org/wiki/JUNKTION "wikilink")』\[29\]に収録されたほか、ベストアルバム『SELECTION 1973-78』\[30\]にも収録された。ここではエンディングでのサビのリフレインが1回多い。
-11. **[僕の贈りもの](https://ja.wikipedia.org/wiki/僕の贈りもの_\(曲\) "wikilink")** - <span style="font-size:90%;">(4:22)</span>\[31\]
+11. **[僕の贈りもの](../Page/僕の贈りもの_\(曲\).md "wikilink")** - <span style="font-size:90%;">(4:22)</span>\[31\]
       -
         オリジナルはシングル\[32\]でリリースされ、その後アルバム『[オフ・コース1 / 僕の贈りもの](https://ja.wikipedia.org/wiki/僕の贈りもの_\(アルバム\) "wikilink")』\[33\]に収録された他、ベストアルバム『SELECTION 1973-78』\[34\]にも収録された。この曲は以前、2枚目のソロアルバム『[BETWEEN THE WORD & THE HEART](../Page/BETWEEN_THE_WORD_&_THE_HEART.md "wikilink")』\[35\]で一度セルフカヴァーされているので、これが2度目となる。
 
@@ -52,9 +52,9 @@
 ### 君との思い出
 
   - [MANSAKU KIMURA](../Page/木村万作.md "wikilink") - [Cym.](../Page/シンバル.md "wikilink")
-  - [NATHAN EAST](../Page/ネイザン・イースト.md "wikilink") - [Ba.](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [NATHAN EAST](../Page/ネイザン・イースト.md "wikilink") - [Ba.](../Page/ベース_\(弦楽器\).md "wikilink")
   - [YOSHIYUKI SAHASHI](../Page/佐橋佳幸.md "wikilink") - [Gt.](../Page/ギター.md "wikilink")
-  - [CHIKUZEN SATOH](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink") - B.G.V.
+  - [CHIKUZEN SATOH](../Page/佐藤竹善.md "wikilink") - B.G.V.
   - [HIDEKI MOCHIZUKI](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink") - Syn. & Dr. Prog.
 
 ### 昨日 見た夢
@@ -86,7 +86,7 @@
   - YOSHIYUKI SAHASHI - Gt.
   - [LUIS CONTE](https://ja.wikipedia.org/wiki/:en:Luis_Conte "wikilink") - [Perc.](../Page/パーカッション.md "wikilink")
   - CHIKUZEN SATOH - B.G.V.
-  - [MASAYUKI SUZUKI](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink") - B.G.V.
+  - [MASAYUKI SUZUKI](../Page/鈴木雅之_\(歌手\).md "wikilink") - B.G.V.
   - HIDEKI MOCHIZUKI - Syn. & Dr. Prog.
 
 ### 風に吹かれて

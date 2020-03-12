@@ -1,18 +1,18 @@
 > この記事は[Case of HIMURO](https://ja.wikipedia.org/wiki/Case_of_HIMURO)から翻訳されています。
 
 
-『**Case of HIMURO**』（ケース・オブ・ヒムロ）は[氷室京介](../Page/氷室京介.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**Case of HIMURO**』（ケース・オブ・ヒムロ）は[氷室京介](../Page/氷室京介.md "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 内容
 
-  - 2001年1月1日にリリースした20thシングル「Girls Be Glamorous」から、2年2ヶ月の沈黙を経て、古巣の[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、氷室自身が[ユニバーサルミュージック在籍時](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")（1994年～2002年）の作品を含む、往年の作品を選曲し、新たに、自身が所属していたバンド[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")を3曲（通常版は2曲）とソロデビューシングル「ANGEL」のリテイクバージョンを収録した。BOØWY解散後、ライブで度々BOØWYの楽曲を演奏する事はあったものの、正式にレコーディングされたのは初めての事であり、当時は話題になったものの、このベストアルバム関連での[テレビ出演は一切しなかった](../Page/テレビ番組.md "wikilink")。
+  - 2001年1月1日にリリースした20thシングル「Girls Be Glamorous」から、2年2ヶ月の沈黙を経て、古巣の[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")、氷室自身が[ユニバーサルミュージック在籍時](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（1994年～2002年）の作品を含む、往年の作品を選曲し、新たに、自身が所属していたバンド[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[セルフカバー](../Page/セルフカバー.md "wikilink")を3曲（通常版は2曲）とソロデビューシングル「ANGEL」のリテイクバージョンを収録した。BOØWY解散後、ライブで度々BOØWYの楽曲を演奏する事はあったものの、正式にレコーディングされたのは初めての事であり、当時は話題になったものの、このベストアルバム関連での[テレビ出演は一切しなかった](../Page/テレビ番組.md "wikilink")。
 
 ## 収録曲
 
 ### DISC 1
 
 1.  **[ANGEL](https://ja.wikipedia.org/wiki/ANGEL_\(氷室京介の曲\) "wikilink")**
-      - 作詞・作曲：[氷室京介](../Page/氷室京介.md "wikilink") / 編曲：氷室京介、[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")
+      - 作詞・作曲：[氷室京介](../Page/氷室京介.md "wikilink") / 編曲：氷室京介、[吉田建](../Page/吉田建.md "wikilink")
     <!-- end list -->
       -
         1stシングル
@@ -37,7 +37,7 @@
       -
         1stアルバム『FLOWERS for ALGERNON』収録曲。
 6.  **[SUMMER GAME](https://ja.wikipedia.org/wiki/SUMMER_GAME "wikilink")**
-      - 作詞・作曲：氷室京介 / 編曲：氷室京介、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲：氷室京介 / 編曲：氷室京介、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
         3rdシングル
@@ -150,7 +150,7 @@
       -
         16thシングル。シングルバージョンの2〜3番のBメロ部分のコーラスパートが1番のBメロでも被さっているバージョン。
 11. **[SILENT BLUE](../Page/ダイヤモンド・ダスト.md "wikilink")**
-      - 作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲：氷室京介 / 編曲：K. Bullard
+      - 作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲：氷室京介 / 編曲：K. Bullard
     <!-- end list -->
       -
         18thシングル「ダイヤモンド・ダスト」のカップリング曲。8thアルバム『MELLOW』に収録されているバージョン。
@@ -168,7 +168,7 @@
       - 作詞：松井五郎、氷室京介 / 作曲：氷室京介
     <!-- end list -->
       -
-        BOØWYの「[ハイウェイに乗る前に](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink")」のセルフカバー。
+        BOØWYの「[ハイウェイに乗る前に](../Page/BOOWY_\(アルバム\).md "wikilink")」のセルフカバー。
 15. **ANGEL2003**
       - 作詞・作曲：氷室京介
     <!-- end list -->

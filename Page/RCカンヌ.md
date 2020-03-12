@@ -7,13 +7,13 @@
 
 ## 歴史
 
-[1922年](../Page/1922年.md "wikilink")創立。[欧州チャンピオンズリーグを](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")2度制したことのある名門であり、フランス国内リーグでは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降、連続優勝している強豪クラブである。
+[1922年](../Page/1922年.md "wikilink")創立。[欧州チャンピオンズリーグを](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")2度制したことのある名門であり、フランス国内リーグでは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降、連続優勝している強豪クラブである。
 
 日本では2004-2006年シーズンまで[佐野優子](https://ja.wikipedia.org/wiki/佐野優子 "wikilink")が所属し、2007-2009年シーズンまで[井野亜季子](../Page/井野亜季子.md "wikilink")が所属していたことでも知られる。
 
 ## 主な成績
 
-  -  [フランスリーグ](https://ja.wikipedia.org/wiki/フランス・バレーボールリーグ "wikilink")
+  -  [フランスリーグ](../Page/フランス・バレーボールリーグ.md "wikilink")
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")
+  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")
 
 <!-- end list -->
 

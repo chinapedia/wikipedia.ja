@@ -1,7 +1,7 @@
 > この記事は[Chihiro](https://ja.wikipedia.org/wiki/Chihiro)から翻訳されています。
 
 
-**Chihiro**（**チヒロ**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）と[マイクロソフト](../Page/マイクロソフト.md "wikilink")が共同開発した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用[システム基板である](../Page/アーケードゲーム基板.md "wikilink")。名称の由来は公式には明らかにされていない。[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")から取ったとも[宮崎駿](https://ja.wikipedia.org/wiki/宮崎駿 "wikilink")作品の『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』から取ったとも言われている。
+**Chihiro**（**チヒロ**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）と[マイクロソフト](../Page/マイクロソフト.md "wikilink")が共同開発した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用[システム基板である](../Page/アーケードゲーム基板.md "wikilink")。名称の由来は公式には明らかにされていない。[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")から取ったとも[宮崎駿](../Page/宮崎駿.md "wikilink")作品の『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』から取ったとも言われている。
 
 [XboxがベースのためXboxへの移植が容易であり](../Page/Xbox_\(ゲーム機\).md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")）との親和性が高く開発がしやすいという特徴も受け継いでいる。ソフトウェアは[GD-ROM](../Page/GD-ROM.md "wikilink")で供給されている。
 
@@ -15,23 +15,23 @@
 
   - [ザ・ハウス・オブ・ザ・デッド](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド "wikilink")III （セガ／開発：[ワウ・エンターテイメント](https://ja.wikipedia.org/wiki/ワウ・エンターテイメント "wikilink")／[2002年](../Page/2002年.md "wikilink")）
   - [バーチャコップ](../Page/バーチャコップ.md "wikilink")3（セガ／開発：[SEGA-AM2](https://ja.wikipedia.org/wiki/SEGA-AM2 "wikilink")／[2003年](../Page/2003年.md "wikilink")）
-  - [クレイジータクシー ハイローラー](https://ja.wikipedia.org/wiki/クレイジータクシー "wikilink") （セガ／開発：[ヒットメーカー](https://ja.wikipedia.org/wiki/ヒットメーカー_\(セガ\) "wikilink")／[2003年](../Page/2003年.md "wikilink")）
+  - [クレイジータクシー ハイローラー](../Page/クレイジータクシー.md "wikilink") （セガ／開発：[ヒットメーカー](https://ja.wikipedia.org/wiki/ヒットメーカー_\(セガ\) "wikilink")／[2003年](../Page/2003年.md "wikilink")）
   - [アウトラン2](../Page/アウトラン2.md "wikilink") （セガ／開発：SEGA-AM2／[2003年](../Page/2003年.md "wikilink")）
   - [Ollie King](https://ja.wikipedia.org/wiki/Ollie_King "wikilink") （セガ／開発：[アミューズメントヴィジョン](https://ja.wikipedia.org/wiki/アミューズメントヴィジョン "wikilink")／[2004年](../Page/2004年.md "wikilink")）
-  - [セガネットワーク対戦麻雀MJ2](https://ja.wikipedia.org/wiki/セガネットワーク対戦麻雀MJ2 "wikilink") （セガ／開発：SEGA-AM2／[2004年](../Page/2004年.md "wikilink")）
-  - [セガネットワーク対戦麻雀MJ3](../Page/セガネットワーク対戦麻雀MJ3.md "wikilink") （セガ／[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）
+  - [セガネットワーク対戦麻雀MJ2](../Page/セガネットワーク対戦麻雀MJ2.md "wikilink") （セガ／開発：SEGA-AM2／[2004年](../Page/2004年.md "wikilink")）
+  - [セガネットワーク対戦麻雀MJ3](../Page/セガネットワーク対戦麻雀MJ3.md "wikilink") （セガ／[2006年](../Page/2006年.md "wikilink")）
   - [セガゴルフクラブ ネットワークプロツアー](https://ja.wikipedia.org/wiki/セガゴルフクラブ_ネットワークプロツアー "wikilink") （セガ／[2004年](../Page/2004年.md "wikilink")）
-  - セガゴルフクラブ ネットワークプロツアー Version 2005 （セガ／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
-  - セガゴルフクラブ Version 2006 ネクストツアーズ （セガ／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
-  - [ゴーストスカッド](https://ja.wikipedia.org/wiki/ゴーストスカッド "wikilink") （セガ／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
-  - [Quest of D](https://ja.wikipedia.org/wiki/Quest_of_D "wikilink") （セガ／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
-  - [三国志大戦](https://ja.wikipedia.org/wiki/三国志大戦 "wikilink") （セガ／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")） - 初代
-  - 三国志大戦2 （セガ／[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")） - 初代、Ver.2.1より[LINDBERGH](../Page/LINDBERGH.md "wikilink")
-  - [機動戦士ガンダム バトルオペレーティングシミュレーター](https://ja.wikipedia.org/wiki/機動戦士ガンダム_バトルオペレーティングシミュレーター "wikilink") （[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
-  - [機動戦士ガンダム0079カードビルダー](../Page/機動戦士ガンダム0079カードビルダー.md "wikilink") （バンプレスト／開発：セガ／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - セガゴルフクラブ ネットワークプロツアー Version 2005 （セガ／[2005年](../Page/2005年.md "wikilink")）
+  - セガゴルフクラブ Version 2006 ネクストツアーズ （セガ／[2005年](../Page/2005年.md "wikilink")）
+  - [ゴーストスカッド](https://ja.wikipedia.org/wiki/ゴーストスカッド "wikilink") （セガ／[2005年](../Page/2005年.md "wikilink")）
+  - [Quest of D](../Page/Quest_of_D.md "wikilink") （セガ／[2005年](../Page/2005年.md "wikilink")）
+  - [三国志大戦](https://ja.wikipedia.org/wiki/三国志大戦 "wikilink") （セガ／[2005年](../Page/2005年.md "wikilink")） - 初代
+  - 三国志大戦2 （セガ／[2006年](../Page/2006年.md "wikilink")） - 初代、Ver.2.1より[LINDBERGH](../Page/LINDBERGH.md "wikilink")
+  - [機動戦士ガンダム バトルオペレーティングシミュレーター](https://ja.wikipedia.org/wiki/機動戦士ガンダム_バトルオペレーティングシミュレーター "wikilink") （[バンプレスト](../Page/バンプレスト.md "wikilink")／[2005年](../Page/2005年.md "wikilink")）
+  - [機動戦士ガンダム0079カードビルダー](../Page/機動戦士ガンダム0079カードビルダー.md "wikilink") （バンプレスト／開発：セガ／[2005年](../Page/2005年.md "wikilink")）
   - [機動戦士ガンダム0083カードビルダー](../Page/機動戦士ガンダム0079カードビルダー.md "wikilink") （バンプレスト／開発：セガ／[2007年](../Page/2007年.md "wikilink")）
   - [湾岸ミッドナイト MAXIMUM TUNE](https://ja.wikipedia.org/wiki/湾岸ミッドナイト_MAXIMUM_TUNE "wikilink") （[ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")／開発：[ポリゴンマジック](https://ja.wikipedia.org/wiki/ポリゴンマジック "wikilink")／[2004年](../Page/2004年.md "wikilink")）
-  - 湾岸ミッドナイト MAXIMUM TUNE 2 （ナムコ／開発：ポリゴンマジック／[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - 湾岸ミッドナイト MAXIMUM TUNE 2 （ナムコ／開発：ポリゴンマジック／[2005年](../Page/2005年.md "wikilink")）
 
 ## 脚注
 

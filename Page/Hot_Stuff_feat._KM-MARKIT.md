@@ -7,7 +7,7 @@
 
 4thアルバム｢[secret](https://ja.wikipedia.org/wiki/secret_\(倖田來未のアルバム\) "wikilink")｣からのリカット[シングル](../Page/シングル.md "wikilink")で、「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」のみの3万枚完全限定生産盤。同日に、「secret」の大ヒットを記念した限定盤「[secret special edition](https://ja.wikipedia.org/wiki/secret_\(倖田來未のアルバム\) "wikilink")」が発売された。
 
-カップリングには、4thアルバム｢[secret](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")｣収録曲の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を収録。
+カップリングには、4thアルバム｢[secret](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")｣収録曲の[リミックス](../Page/リミックス.md "wikilink")を収録。
 
 DVDには、タイトル曲の[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")や、｢[secret](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")｣収録曲の別クリップや、ライブクリップを収録。
 
@@ -18,9 +18,9 @@ DVDには、タイトル曲の[ビデオクリップ](https://ja.wikipedia.org/w
 1.  **Hot Stuff feat.KM-MARKIT**
       -
         作詞:倖田來未/KM-MARKIT 作曲･編曲:今井大介
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[流派-R](https://ja.wikipedia.org/wiki/流派-R "wikilink")」エンディングテーマ。
-        [ヒップホップ](../Page/ヒップホップ.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")・[KM-MARKIT](https://ja.wikipedia.org/wiki/KM-MARKIT "wikilink")と[コラボレート](https://ja.wikipedia.org/wiki/コラボレート "wikilink")。
-2.  **Hot Stuff〜確変無想転生remix [feat](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")．[UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink")\&KM-MARKIT〜**
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[流派-R](../Page/流派-R.md "wikilink")」エンディングテーマ。
+        [ヒップホップ](../Page/ヒップホップ.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")・[KM-MARKIT](../Page/KM-MARKIT.md "wikilink")と[コラボレート](https://ja.wikipedia.org/wiki/コラボレート "wikilink")。
+2.  **Hot Stuff〜確変無想転生remix [feat](../Page/フィーチャリング.md "wikilink")．[UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink")\&KM-MARKIT〜**
       -
         UZIをフィーチャーしたリミックス。
 3.  **[Trust you](https://ja.wikipedia.org/wiki/secret_\(倖田來未のアルバム\) "wikilink")(Dub's Trust me Remix)**
@@ -46,7 +46,7 @@ DVDには、タイトル曲の[ビデオクリップ](https://ja.wikipedia.org/w
 <!-- end list -->
 
   - 『[secret](https://ja.wikipedia.org/wiki/secret_\(倖田來未のアルバム\) "wikilink")』
-  - 『[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜 "wikilink")』
+  - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
   - 『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』※DVDにPVとして収録
 
 <!-- end list -->

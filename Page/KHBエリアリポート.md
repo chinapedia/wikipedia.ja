@@ -1,11 +1,11 @@
 > この記事は[KHB](https://ja.wikipedia.org/wiki/KHB)から翻訳されています。
 
 
-『**KHBエリアリポート**』（ケイエイチビーエリアリポート）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で平日夕方に放送されていた[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向けの[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
+『**KHBエリアリポート**』（ケイエイチビーエリアリポート）は、[1992年](../Page/1992年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で平日夕方に放送されていた[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-『[KHB 600ステーション](../Page/KHB_600ステーション.md "wikilink")』の後番組としてスタート。[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")発の全国ニュース『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』の直後の時間帯に放送されていた。オープニングテーマは[堀井勝美](https://ja.wikipedia.org/wiki/堀井勝美 "wikilink")PROJECTの「Act713」。
+『[KHB 600ステーション](../Page/KHB_600ステーション.md "wikilink")』の後番組としてスタート。[テレビ朝日](../Page/テレビ朝日.md "wikilink")発の全国ニュース『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』の直後の時間帯に放送されていた。オープニングテーマは[堀井勝美](../Page/堀井勝美.md "wikilink")PROJECTの「Act713」。
 
 番組は1994年秋の改編を機に終了。替わって、それまで週末のみに放送されていた『[KHBステーションEYE](../Page/KHBステーションEYE.md "wikilink")』が平日にも放送されるようになった。
 
@@ -28,12 +28,12 @@
 
 ### 気象情報担当
 
-  - [井上秀雄](https://ja.wikipedia.org/wiki/井上秀雄_\(気象予報士\) "wikilink")（[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")）
+  - [井上秀雄](https://ja.wikipedia.org/wiki/井上秀雄_\(気象予報士\) "wikilink")（[日本気象協会](../Page/日本気象協会.md "wikilink")）
   - [石川亜紀子](https://ja.wikipedia.org/wiki/石川亜紀子 "wikilink")
 
 ## 関連項目
 
-  - [KHBニュース](https://ja.wikipedia.org/wiki/KHBニュース "wikilink")
+  - [KHBニュース](../Page/KHBニュース.md "wikilink")
   - [KHB 600ステーション](../Page/KHB_600ステーション.md "wikilink") - 前番組。
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [KHBステーションEYE](../Page/KHBステーションEYE.md "wikilink") - 後番組。

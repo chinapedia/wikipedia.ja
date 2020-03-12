@@ -1,7 +1,7 @@
 > この記事は[SHF](https://ja.wikipedia.org/wiki/SHF)から翻訳されています。
 
 
-**垂水区内SHFテレビ中継局**（たるみくないSHFテレビちゅうけいきょく）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[垂水区](../Page/垂水区.md "wikilink")に置かれていた[SHF](https://ja.wikipedia.org/wiki/センチメートル波 "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
+**垂水区内SHFテレビ中継局**（たるみくないSHFテレビちゅうけいきょく）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[垂水区](../Page/垂水区.md "wikilink")に置かれていた[SHF](../Page/センチメートル波.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
@@ -16,8 +16,8 @@
 <thead>
 <tr class="header">
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/放送対象地域.md" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送区域" title="wikilink">放送区域</a>内世帯数</p></th>
@@ -33,7 +33,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>63</p></td>
 <td><p>映像12W/<br />
 音声1.2W</p></td>
@@ -43,7 +43,7 @@
 <td><p>※</p></td>
 </tr>
 <tr class="odd">
-<td><p>NHK<a href="../Page/NHK神戸放送局.md" title="wikilink">神戸</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p>NHK<a href="../Page/NHK神戸放送局.md" title="wikilink">神戸</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>65</p></td>
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
 <td></td>
@@ -167,9 +167,9 @@
   - [受信障害対策中継放送](https://ja.wikipedia.org/wiki/受信障害対策中継放送 "wikilink")
   - [神戸市](../Page/神戸市.md "wikilink")
   - [垂水区](../Page/垂水区.md "wikilink")
-  - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[総合テレビの中継局置局](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
+  - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[総合テレビの中継局置局](../Page/NHK総合テレビジョン.md "wikilink")）
   - [サンテレビジョン](../Page/サンテレビジョン.md "wikilink")
-  - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")（[教育テレビの中継局置局](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")（[教育テレビの中継局置局](../Page/NHK教育テレビジョン.md "wikilink")）
   - [毎日放送](../Page/毎日放送.md "wikilink")
   - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")
   - [関西テレビ放送](../Page/関西テレビ放送.md "wikilink")

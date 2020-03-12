@@ -1,14 +1,14 @@
 > この記事は[MABU](https://ja.wikipedia.org/wiki/MABU)から翻訳されています。
 
 
-株式会社**MABU**（マブ）は、[テレビ番組](../Page/テレビ番組.md "wikilink")・[コマーシャル](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")・ビデオパッケージの[撮影](https://ja.wikipedia.org/wiki/撮影 "wikilink")を行う映像制作会社である。
+株式会社**MABU**（マブ）は、[テレビ番組](../Page/テレビ番組.md "wikilink")・[コマーシャル](../Page/コマーシャルメッセージ.md "wikilink")・ビデオパッケージの[撮影](../Page/撮影.md "wikilink")を行う映像制作会社である。
 
 ## 会社概要
 
 ### 所在地
 
-  - **本社／東京オフィス** - 〒153-0064 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[目黒区下目黒](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")2-14-8 大久保ビル
-  - **大阪オフィス** - 〒530-0055 [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区西天満](../Page/北区_\(大阪市\).md "wikilink")3-4-5 西天満ワークビル101号室
+  - **本社／東京オフィス** - 〒153-0064 [東京都](../Page/東京都.md "wikilink")[目黒区下目黒](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")2-14-8 大久保ビル
+  - **大阪オフィス** - 〒530-0055 [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区西天満](../Page/北区_\(大阪市\).md "wikilink")3-4-5 西天満ワークビル101号室
 
 ### 役員
 

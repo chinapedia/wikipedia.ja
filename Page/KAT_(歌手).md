@@ -5,7 +5,7 @@
 
 ## 来歴
 
-父親がニュージーランド人で母親が日本人のハーフ。 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")生まれ。父の国である[ニュージーランド](../Page/ニュージーランド.md "wikilink")に5歳のときに移住。7歳のときに[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")である母親がファンだった[イルカのテープを聴き](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")、ヴォーカリストへの夢を抱くようになった。 8歳のときに、作詞作曲を開始した。
+父親がニュージーランド人で母親が日本人のハーフ。 [東京都](../Page/東京都.md "wikilink")生まれ。父の国である[ニュージーランド](../Page/ニュージーランド.md "wikilink")に5歳のときに移住。7歳のときに[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")である母親がファンだった[イルカのテープを聴き](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")、ヴォーカリストへの夢を抱くようになった。 8歳のときに、作詞作曲を開始した。
 
 [ニュージーランド](../Page/ニュージーランド.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")での音楽活動の後、2005年9月帰国。 都内のライブハウスで活動を始めた。 3か月の滞在予定が、あと2週間に迫ったときに、[sony](https://ja.wikipedia.org/wiki/sony "wikilink")の関係者にスカウトされ、日本に留まることになる。
 
@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p><small>アナログ盤<br />
 <a href="../Page/インディーズ.md" title="wikilink">インディーズ</a></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p>ナゴリユキ / Butterfly</p></td>
 <td><p><small>12inch record</small></p></td>
 <td><p><small>完全限定版。CISCOチャートにて、R&amp;B部門1位、総合2位。<br />
@@ -43,7 +43,7 @@ RR12-88492 <a href="../Page/Rhythm_REPUBLIC.md" title="wikilink">Rhythm REPUBLIC
 </tr>
 <tr class="even">
 <td><p><small>プレ</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月1日.md" title="wikilink">9月1日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月1日.md" title="wikilink">9月1日</a></p></td>
 <td><p>Today / ナゴリユキ</p></td>
 <td><p><small>CD</small></p></td>
 <td><p><small>HMV完全限定生産盤 ／ 2008年1月1日マツモトキヨシ主要店限定追加販売<br />
@@ -51,7 +51,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 </tr>
 <tr class="odd">
 <td><p><small>E.P.</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月12日.md" title="wikilink">9月12日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月12日.md" title="wikilink">9月12日</a></p></td>
 <td><p>Rock'n roll boys club -e.p.-</p></td>
 <td><p><small>CD+CD-EXTRA</small></p></td>
 <td><p><small>AVCD-31283 binyl records</small></p></td>
@@ -59,7 +59,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 <tr class="even">
 <td><p><small>配信限定<br />
 シングル</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p>Thank you -English Ver.-</p></td>
 <td><p><small>配信限定<br />
 (<a href="https://ja.wikipedia.org/wiki/iTunes_Store" title="wikilink">iTunes Store</a>)</small></p></td>
@@ -99,7 +99,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 <tr class="odd">
 <td><p><small>ミニ</small><br />
 <small><a href="../Page/インディーズ.md" title="wikilink">Indies</a></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/5月9日" title="wikilink">5月9日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/5月9日.md" title="wikilink">5月9日</a></p></td>
 <td><p>Kat</p></td>
 <td><p><small>CD</small></p></td>
 <td><p><small>RRCD-85350 Rhythm REPUBLIC</small></p></td>
@@ -152,7 +152,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 
 #### 参加楽曲
 
-  - MELODIES MELODIES *-[DAISHI DANCE](https://ja.wikipedia.org/wiki/DAISHI_DANCE "wikilink")-* （2007年10月3日）NWR-2025 NEW WORLD RECORDS
+  - MELODIES MELODIES *-[DAISHI DANCE](../Page/DAISHI_DANCE.md "wikilink")-* （2007年10月3日）NWR-2025 NEW WORLD RECORDS
       - 5\. I BELIEVE (DAISHI DANCE feat. Kat McDowel)
   - WINTER NIGHT MELODIES / I BELIEVE *-DAISHI DANCE-* （2007年11月2日、アナログ版）NWR-3136 NEW WORLD RECORDS
       - side B 1. I BELIEVE feat. Kat McDowell -12inch Mix-
@@ -164,7 +164,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
       - disk2-8. I BELIEVE (UNRELEASED PIANO Remix)
   - Spectacle. *-DAISHI DANCE-* （2009年10月7日）XNAE-10022 URBAN SOUND PROJECT
       - 12\. There is a light feat. KAT
-  - [at Rie sessions](https://ja.wikipedia.org/wiki/at_Rie_sessions "wikilink") *-[Rie fu](https://ja.wikipedia.org/wiki/Rie_fu "wikilink")-* (2010年3月31日) SRCL-7247 gr8\! records
+  - [at Rie sessions](https://ja.wikipedia.org/wiki/at_Rie_sessions "wikilink") *-[Rie fu](../Page/Rie_fu.md "wikilink")-* (2010年3月31日) SRCL-7247 gr8\! records
       - 4\. Don't Worry
   - PARTY LINE *-DAISHI DANCE & MITOMI TOKOTO project. Limited Express-* （2011年6月1日） XNAE-10039 URBAN SOUND PROJECT
       - 10\. I BELIEVE2011 feat.KAT
@@ -201,7 +201,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
   - 2007/05/22 @ [SHIBUYA O-NEST](https://ja.wikipedia.org/wiki/SHIBUYA_O-NEST "wikilink")
   - 2007/06/08 CHELSEA HOTEL PRESENTS @ 渋谷 CHELSEA HOTEL
   - 2007/07/20 @ 渋谷CHELSEA HOTEL
-  - 2007/08/07 @ [青山](https://ja.wikipedia.org/wiki/青山_\(東京都港区\) "wikilink") 月見ル君思フ
+  - 2007/08/07 @ [青山](../Page/青山_\(東京都港区\).md "wikilink") 月見ル君思フ
   - 2007/08/23　FAB STYLE ～breezin'～ @ [表参道](../Page/表参道_\(原宿\).md "wikilink") FAB
   - 2007/09/23　@ [梅田](../Page/梅田.md "wikilink") shangrila
   - 2007/10/10　@ 青山 月見ル君思フ
@@ -230,8 +230,8 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 <div align=left>
 
   - 2007/09/30 [PARCO](https://ja.wikipedia.org/wiki/PARCO "wikilink") music style+～夏の終わりの音日和（ねびより）～@ 渋谷 [パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")
-  - 2007/11/26 [RAUL MIDON](../Page/ラウル・ミドン.md "wikilink"), A WORLD WITHIN A WORLD @ [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")
-  - 2007/11/28 RAUL MIDON, A WORLD WITHIN A WORLD @ [恵比寿](https://ja.wikipedia.org/wiki/恵比寿_\(渋谷区\) "wikilink") ガーデンホール
+  - 2007/11/26 [RAUL MIDON](../Page/ラウル・ミドン.md "wikilink"), A WORLD WITHIN A WORLD @ [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
+  - 2007/11/28 RAUL MIDON, A WORLD WITHIN A WORLD @ [恵比寿](../Page/恵比寿_\(渋谷区\).md "wikilink") ガーデンホール
   - 2007/11/30 RAUL MIDON, A WORLD WITHIN A WORLD @ [Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#Zepp_Nagoya "wikilink")
   - 2007/12/02 RAUL MIDON, A WORLD WITHIN A WORLD @ [Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp#Zepp_Osaka "wikilink")
 
@@ -256,13 +256,13 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 <div align=left>
 
   - 2007/10/27　M-onTV『Make on the Holliday』カフェライブ @ [渋谷](../Page/渋谷.md "wikilink") Future Cafe
-  - 2007/10/27　ミナホスペシャル @ 長堀橋スナック[マーキー](https://ja.wikipedia.org/wiki/マーキー_\(ディスクジョッキー\) "wikilink")
+  - 2007/10/27　ミナホスペシャル @ 長堀橋スナック[マーキー](../Page/マーキー_\(ディスクジョッキー\).md "wikilink")
   - 2007/11/24 [NEW ZEALAND](../Page/ニュージーランド.md "wikilink") PARADISE WEEK 2007 @ NEW ZEALAND TRAVEL CAFE [六本木](../Page/六本木.md "wikilink")店
-  - 2008/06/21 KAT Presents『Candle Light Music Vol.1 with [PHATE](https://ja.wikipedia.org/wiki/PHATE "wikilink")』 @ [自由が丘](https://ja.wikipedia.org/wiki/自由が丘 "wikilink") Palms Cafe
+  - 2008/06/21 KAT Presents『Candle Light Music Vol.1 with [PHATE](https://ja.wikipedia.org/wiki/PHATE "wikilink")』 @ [自由が丘](../Page/自由が丘.md "wikilink") Palms Cafe
   - 2008/07/21 Good morning Garage\!\!　タリーズカフェパーティー！ @ [タリーズ](https://ja.wikipedia.org/wiki/タリーズ "wikilink")[神谷町](https://ja.wikipedia.org/wiki/神谷町 "wikilink")FIT店
   - 2008/08/19 KAT presents『Candle Light Music Vol.2 with [OCEANLANE](https://ja.wikipedia.org/wiki/OCEANLANE "wikilink")』 @ 渋谷 CoZmo's Cafe
   - 2008/09/10 KAT×NEW ZEALAND TRAVEL CAFE, Special LIVE @ NEW ZEALAND TRAVEL CAFE 六本木店
-  - 2008/09/17 KAT with Braddigan @ [三軒茶屋](https://ja.wikipedia.org/wiki/三軒茶屋 "wikilink") from Earth Cafe OHANA
+  - 2008/09/17 KAT with Braddigan @ [三軒茶屋](../Page/三軒茶屋.md "wikilink") from Earth Cafe OHANA
   - 2008/09/25 INTERSTYLE AFTERPARTY "FOCUS ALL"(with [Braddigan](https://ja.wikipedia.org/wiki/Braddigan "wikilink")) @ [代官山](https://ja.wikipedia.org/wiki/代官山 "wikilink") STYLE'S CAFE
   - 2008/10/28 Live\! At Rolling Stone CAFE supported by [FIAT](https://ja.wikipedia.org/wiki/FIAT "wikilink") @ [六本木](../Page/六本木.md "wikilink") Rolling Stone CAFE
   - 2008/10/29 KAT presents『Candle Light Music vol.3 with [Sayulee](https://ja.wikipedia.org/wiki/Sayulee "wikilink")』 @ [渋谷](../Page/渋谷.md "wikilink") CoZmo's Cafe
@@ -299,14 +299,14 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 
   - 2006/08/ [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2006東京
   - 2006/08/18 [流山おおたかの森](https://ja.wikipedia.org/wiki/流山おおたかの森 "wikilink")・駅コンスペシャル　サマー・ファンタジア2006@[流山おおたかの森駅](https://ja.wikipedia.org/wiki/流山おおたかの森駅 "wikilink")前広場特設Open Cafe
-  - 2007/02/23 [J-WAVE](../Page/J-WAVE.md "wikilink") [TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink") AWARD @ 恵比寿 ガーデンホール
+  - 2007/02/23 [J-WAVE](../Page/J-WAVE.md "wikilink") [TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink") AWARD @ 恵比寿 ガーデンホール
   - 2007/06/16 Peace Quest 2007 spring-summer @ 原宿 QUEST HALL
   - 2007/06/20 [McDonald](../Page/マクドナルド.md "wikilink")'s TOKYO REAL-EYES presents LIVE SUPERNOVA Vol.24 @ [SHIBUYA O-NEST](https://ja.wikipedia.org/wiki/SHIBUYA_O-NEST "wikilink")
   - 2007/07/22 [SETSTOCK](../Page/SETSTOCK.md "wikilink")'07 @ 国営備北丘陵公園　神楽殿
   - 2007/07/29 [FM802](../Page/FM802.md "wikilink") SPECIAL LIVE CITYPLAZA OSAKA presents Pure & Sweet @ シティプラザ大阪 旬の間
   - 2007/08/11 [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 07 @ 幕張新都心ヘリポート付近（River Side Garden）
   - 2007/08/23　若若男女サマーツアー'07 @ [新木場STUDIO COAST](https://ja.wikipedia.org/wiki/新木場STUDIO_COAST "wikilink")
-  - 2007/09/15　POINT GREEN\! TOKYO ECO PARK ～FEEL THE WIND～ [Hit\&Run](https://ja.wikipedia.org/wiki/Hit&Run "wikilink")ちゃん祭り2007～ワカすバンド天国！～ @ 新木場 [若洲公園](https://ja.wikipedia.org/wiki/若洲公園 "wikilink") 風力発電用風車下（WIND STAGE）
+  - 2007/09/15　POINT GREEN\! TOKYO ECO PARK ～FEEL THE WIND～ [Hit\&Run](../Page/Hit&Run.md "wikilink")ちゃん祭り2007～ワカすバンド天国！～ @ 新木場 [若洲公園](../Page/若洲公園.md "wikilink") 風力発電用風車下（WIND STAGE）
   - 2007/09/22　おかやま国際音楽祭@ 岡山[桃太郎スタジアム](https://ja.wikipedia.org/wiki/桃太郎スタジアム "wikilink")
   - 2007/10/28　MINAMI WHEEL @ 四ツ橋hillsパン工場
   - 2007/11/18 [NEW ZEALAND](../Page/ニュージーランド.md "wikilink") PARADISE WEEK 2007 @ [六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")　アリーナ特設ステージ
@@ -314,11 +314,11 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
   - 2007/12/31 MELODIES MELODIES Release Party in TOKYO @ SPACE LAB YELLOW
   - 2008/02/19 interstyle 08 @ [パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")
   - 2008/02/20 interstyle 08 @ パシフィコ横浜
-  - 2008/02/22 GREEN POWER CAMPAIGN(GREEN plugged LIVE) @ [東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")地下展示ホール
-  - 2008/02/29 NEXT HEROS @ [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")
-  - 2008/03/18 [ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")デビューレビュー VOL.133 @ [SHIBUYA O-WEST](https://ja.wikipedia.org/wiki/SHIBUYA_O-WEST "wikilink")
+  - 2008/02/22 GREEN POWER CAMPAIGN(GREEN plugged LIVE) @ [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")地下展示ホール
+  - 2008/02/29 NEXT HEROS @ [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
+  - 2008/03/18 [ぴあ](../Page/ぴあ.md "wikilink")デビューレビュー VOL.133 @ [SHIBUYA O-WEST](https://ja.wikipedia.org/wiki/SHIBUYA_O-WEST "wikilink")
   - 2008/03/22 SHIBUYA109バースデイイベントSpring Fair 2008 @ [SHIBUYA109店頭特設ステージ](https://ja.wikipedia.org/wiki/渋谷109 "wikilink")
-  - 2008/04/06 [marusan人にやさしいコンサート](https://ja.wikipedia.org/wiki/マルサンアイ "wikilink") @ [Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp#Zepp_Tokyo "wikilink")
+  - 2008/04/06 [marusan人にやさしいコンサート](../Page/マルサンアイ.md "wikilink") @ [Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp#Zepp_Tokyo "wikilink")
   - 2008/04/13 marusan人にやさしいコンサート @ [Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#Zepp_Nagoya "wikilink")
   - 2008/06/01 Osaka Green Room Festival @ 名村造船所跡地 MEETS STAGE
   - 2008/07/03 実は、仲間なんですin東京　@ 渋谷 club ASIA
@@ -365,16 +365,16 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 
 <div align=left>
 
-  - 2007/03/14 [リーバイス](https://ja.wikipedia.org/wiki/リーバイス "wikilink")ストア ホワイトデースペシャルインストアライブ @ [Levi's](https://ja.wikipedia.org/wiki/Levi's "wikilink") Store[新宿](../Page/新宿.md "wikilink")店
+  - 2007/03/14 [リーバイス](../Page/リーバイス.md "wikilink")ストア ホワイトデースペシャルインストアライブ @ [Levi's](https://ja.wikipedia.org/wiki/Levi's "wikilink") Store[新宿](../Page/新宿.md "wikilink")店
   - 2007/03/16 リーバイスストア ホワイトデースペシャルインストアライブ @ Levi's Store[名古屋](../Page/名古屋.md "wikilink")店
-  - 2007/03/17 リーバイスストア ホワイトデースペシャルインストアライブ @ Levi's Store[南船場](https://ja.wikipedia.org/wiki/南船場 "wikilink")店
+  - 2007/03/17 リーバイスストア ホワイトデースペシャルインストアライブ @ Levi's Store[南船場](../Page/南船場.md "wikilink")店
   - 2007/05/09 [Levi's](https://ja.wikipedia.org/wiki/Levi's "wikilink") Lady Style Showcase @ [Levi's](https://ja.wikipedia.org/wiki/Levi's "wikilink") Store[渋谷](../Page/渋谷.md "wikilink")店（CDリリース記念イベント）
   - 2007/05/13 [HMV](../Page/HMV.md "wikilink")新宿SOUTH店
-  - 2007/05/19 HMV[札幌ステラプレイス](https://ja.wikipedia.org/wiki/札幌ステラプレイス "wikilink")店
+  - 2007/05/19 HMV[札幌ステラプレイス](../Page/札幌ステラプレイス.md "wikilink")店
   - 2007/05/20 HMV[仙台一番町](https://ja.wikipedia.org/wiki/仙台一番町 "wikilink")店
-  - 2007/05/26 [タワーレコード](../Page/タワーレコード.md "wikilink")[梅田](../Page/梅田.md "wikilink")[NU茶屋町](https://ja.wikipedia.org/wiki/NU茶屋町 "wikilink")店
+  - 2007/05/26 [タワーレコード](../Page/タワーレコード.md "wikilink")[梅田](../Page/梅田.md "wikilink")[NU茶屋町](../Page/NU茶屋町.md "wikilink")店
   - 2007/09/24 タワーレコード梅田NU茶屋町店
-  - 2007/09/24 [Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink")[心斎橋](https://ja.wikipedia.org/wiki/心斎橋 "wikilink")店
+  - 2007/09/24 [Apple Store](../Page/Apple_Store.md "wikilink")[心斎橋](../Page/心斎橋.md "wikilink")店
   - 2007/10/14 HMV仙台一番町店
   - 2007/10/14 apple store 仙台一番町店
   - 2008/05/17 タワーレコード新宿店
@@ -399,12 +399,12 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 
 <div align=left>
 
-  - 2007/04/30 [代々木公園](../Page/代々木公園.md "wikilink") [NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")前
+  - 2007/04/30 [代々木公園](../Page/代々木公園.md "wikilink") [NHKホール](../Page/NHKホール.md "wikilink")前
   - 2007/05/04 代々木公園 NHKホール前
   - 2007/05/05 [六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink") [J-WAVE](../Page/J-WAVE.md "wikilink")フリマイベント会場
   - 2007/06/02 [駒沢公園](https://ja.wikipedia.org/wiki/駒沢公園 "wikilink") 中央広場駒沢通り側
-  - 2007/06/09 [渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink") [モヤイ像](https://ja.wikipedia.org/wiki/モヤイ像 "wikilink")付近
-  - 2007/06/16 [原宿駅](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")前 [神宮橋](https://ja.wikipedia.org/wiki/神宮橋 "wikilink")西詰
+  - 2007/06/09 [渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink") [モヤイ像](../Page/モヤイ像.md "wikilink")付近
+  - 2007/06/16 [原宿駅](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")前 [神宮橋](../Page/神宮橋.md "wikilink")西詰
   - 2007/06/25 [吉祥寺駅](https://ja.wikipedia.org/wiki/吉祥寺駅 "wikilink")北口 駅名標下
   - 2007/07/06 吉祥寺駅北口 駅名標横
   - 2007/07/16 [秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")中央口 TX前ロータリー
@@ -416,13 +416,13 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
   - 2007/08/18 渋谷駅 モヤイ像付近
   - 2007/08/21 渋谷駅 モヤイ像付近
   - 2007/08/25 [国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") 北側
-  - 2007/08/28 [渋谷マークシティ](https://ja.wikipedia.org/wiki/渋谷マークシティ "wikilink")東側入口（[銀座線引上線高架下](https://ja.wikipedia.org/wiki/東京メトロ銀座線 "wikilink")）
+  - 2007/08/28 [渋谷マークシティ](../Page/渋谷マークシティ.md "wikilink")東側入口（[銀座線引上線高架下](https://ja.wikipedia.org/wiki/東京メトロ銀座線 "wikilink")）
   - 2007/08/31 渋谷マークシティ東側入口（銀座線引上線高架下）
   - 2007/09/02 代々木公園 [渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷C.C.Lemonホール "wikilink")側入口付近（渋谷マッスルシアター裏）
   - 2007/09/04 渋谷マークシティ東側入口（銀座線引上線高架下）
   - 2007/09/08 代々木公園 渋谷C.C.Lemonホール側入口付近（渋谷マッスルシアター裏）
-  - 2007/09/12 渋谷[パルコ](https://ja.wikipedia.org/wiki/パルコ "wikilink")　パート1　エントランス前
-  - 2007/09/17 [新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")東口 [ALTA前](https://ja.wikipedia.org/wiki/新宿アルタ "wikilink") イベント広場
+  - 2007/09/12 渋谷[パルコ](../Page/パルコ.md "wikilink")　パート1　エントランス前
+  - 2007/09/17 [新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")東口 [ALTA前](../Page/新宿アルタ.md "wikilink") イベント広場
 
 </div>
 
@@ -436,25 +436,25 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 
 ## サポートメンバー
 
-  - [屋敷豪太](https://ja.wikipedia.org/wiki/屋敷豪太 "wikilink") - [スネアドラム](../Page/スネアドラム.md "wikilink")＋[シンバル](../Page/シンバル.md "wikilink")のみ（2007/2/23のみ）
+  - [屋敷豪太](../Page/屋敷豪太.md "wikilink") - [スネアドラム](../Page/スネアドラム.md "wikilink")＋[シンバル](../Page/シンバル.md "wikilink")のみ（2007/2/23のみ）
   - 不明（男性）- [ドラムス](../Page/ドラムセット.md "wikilink")（ナゴリユキ / Butterfly PV出演）
-  - Alastair Rogers（Sunset Drive） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（ナゴリユキ / Butterfly / Rock'n Roll Boys Club PV出演）（2008/5/9 音楽戦士出演）
+  - Alastair Rogers（Sunset Drive） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（ナゴリユキ / Butterfly / Rock'n Roll Boys Club PV出演）（2008/5/9 音楽戦士出演）
   - Yoshimitsu（[NEON GRAVITY](https://ja.wikipedia.org/wiki/NEON_GRAVITY "wikilink")） - [ギター](../Page/ギター.md "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（Rock'n Roll Boys Club PV出演）
-  - Yuji - ドラムス、[カホン](https://ja.wikipedia.org/wiki/カホン "wikilink")（Rock'n Roll Boys Club PV出演）
-  - Mariko - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")（2007/10/28,2008/03/18 - ）
-  - [藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink") - アコースティック・ギター（2007/10/27渋谷,11/18-24のライブのみ）
-  - [古市コータロー](https://ja.wikipedia.org/wiki/古市コータロー "wikilink")（[THE COLLECTORS](https://ja.wikipedia.org/wiki/ザ・コレクターズ "wikilink")） - ギター（2008/5/9 音楽戦士出演）
+  - Yuji - ドラムス、[カホン](../Page/カホン.md "wikilink")（Rock'n Roll Boys Club PV出演）
+  - Mariko - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")（2007/10/28,2008/03/18 - ）
+  - [藤井謙二](../Page/藤井謙二.md "wikilink") - アコースティック・ギター（2007/10/27渋谷,11/18-24のライブのみ）
+  - [古市コータロー](https://ja.wikipedia.org/wiki/古市コータロー "wikilink")（[THE COLLECTORS](../Page/ザ・コレクターズ.md "wikilink")） - ギター（2008/5/9 音楽戦士出演）
   - Armin（PHATE） - ドラムス（2008/5/9 音楽戦士出演）
   - Taka - キーボード（2008/5/9　音楽戦士出演）
-  - 林宗應 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（2008/07/09）
+  - 林宗應 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（2008/07/09）
   - NAOMI - キーボード（2008/10/28～）
   - 須田昌宏 - アコースティック・ギター（2008/12/02～）
   - 吉田佳史（[トライセラトップス](https://ja.wikipedia.org/wiki/トライセラトップス "wikilink")） - ドラムス（2009/02/13）
   - 2007/09/17 新宿駅東口 ALTA前 イベント広場 2000人フリーライブ スペシャルバンド
-      - [屋敷豪太](https://ja.wikipedia.org/wiki/屋敷豪太 "wikilink") - ドラムス
+      - [屋敷豪太](../Page/屋敷豪太.md "wikilink") - ドラムス
       - [土屋昌巳](../Page/土屋昌巳.md "wikilink") - ギター
       - [根岸孝旨](../Page/根岸孝旨.md "wikilink") - ベース
-      - [朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink") - キーボード
+      - [朝本浩文](../Page/朝本浩文.md "wikilink") - キーボード
 
 ## CMソング
 
@@ -485,12 +485,12 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
   - 2008/02/01 フジテレビ系列「ハピふる！」9:55～11:24「エンタ“キテます”！」コーナー
   - 2008/02/27 日本テレビ系列「汐留イベント部」25:59～26:14「2/29 NEXT HEROSのCM」
   - 2008/04/02 日本テレビ系列「汐留イベント部」25:59～26:14「2/29 NEXT HEROSのライヴ映像」
-  - 2008/04/02 日本テレビ系列「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」24:55～26:50「新入戦士」コーナー　
+  - 2008/04/02 日本テレビ系列「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」24:55～26:50「新入戦士」コーナー　
 
 ## ラジオ
 
-  - [BREAK IT DOWN](https://ja.wikipedia.org/wiki/BREAK_IT_DOWN "wikilink")（[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")、22:30～22:55、2008年4月6日～2009年3月29日）
-  - [NHK高校講座](../Page/NHK高校講座.md "wikilink") 英語2([NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")、20:10～20:30 2011年4月4日～)
+  - [BREAK IT DOWN](https://ja.wikipedia.org/wiki/BREAK_IT_DOWN "wikilink")（[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")、22:30～22:55、2008年4月6日～2009年3月29日）
+  - [NHK高校講座](../Page/NHK高校講座.md "wikilink") 英語2([NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")、20:10～20:30 2011年4月4日～)
 
 ## 映画
 

@@ -1,7 +1,7 @@
 > この記事は[SIC](https://ja.wikipedia.org/wiki/SIC)から翻訳されています。
 
 
-**株式会社SICシステム**（英文名称*SIC System Co.,Ltd.*）は、[システムコンサルティング](https://ja.wikipedia.org/wiki/システムコンサルティング "wikilink")や[ソフトウェア](../Page/ソフトウェア.md "wikilink")の開発を行う企業。本社は[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")と[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。
+**株式会社SICシステム**（英文名称*SIC System Co.,Ltd.*）は、[システムコンサルティング](https://ja.wikipedia.org/wiki/システムコンサルティング "wikilink")や[ソフトウェア](../Page/ソフトウェア.md "wikilink")の開発を行う企業。本社は[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")と[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。
 
 ## 沿革
 
@@ -10,8 +10,8 @@
   - [1996年](../Page/1996年.md "wikilink")（平成8年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - ソフト工房がセリタソフトグループに参画
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - セリタソフトグループ本社屋を長野市南県町に建設。日本ソフト開発(株)本社をセリタソフトグループ本社屋に移転
   - [1999年](../Page/1999年.md "wikilink")（平成11年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 長野ソフト開発がセリタソフトグループに参画
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）2月 - 日本ソフト開発(株)本社を長野市[上千歳町の現在地に移転](https://ja.wikipedia.org/wiki/鶴賀_\(長野市\)#上千歳町 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 日本ソフト開発(株)が長野ソフト開発を合併。また、セリタシステム企画がソフト工房を合併し、株式会社パーセルに商号変更
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）2月 - 日本ソフト開発(株)本社を長野市[上千歳町の現在地に移転](https://ja.wikipedia.org/wiki/鶴賀_\(長野市\)#上千歳町 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 日本ソフト開発(株)が長野ソフト開発を合併。また、セリタシステム企画がソフト工房を合併し、株式会社パーセルに商号変更
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[11月1日](../Page/11月1日.md "wikilink") - 日本ソフト開発(株)が(株)パーセルを合併し、**株式会社ニッセルワン**に商号変更
   - [2018年](../Page/2018年.md "wikilink")（平成30年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 株式会社ニッセルワンと株式会社エムエーシステムが合併し、**株式会社SICシステム**へと商号変更
 

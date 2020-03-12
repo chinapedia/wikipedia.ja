@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - 「Be the one」は、日本における3rdアルバム『[LOVE & HONESTY](https://ja.wikipedia.org/wiki/LOVE_&_HONESTY "wikilink")』からのシングルカット。
+  - 「Be the one」は、日本における3rdアルバム『[LOVE & HONESTY](../Page/LOVE_&_HONESTY.md "wikilink")』からのシングルカット。
   - [コーエー](../Page/コーエー.md "wikilink")から発売されたゲームソフト『[戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")』の主題歌として使用された。
 
 ## 収録曲
 
 1.  **Be the one**
-      - 作詞・作曲：Stephen A.Kipner・David Frank・Nate Butler／日本語詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink")／編曲：[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
+      - 作詞・作曲：Stephen A.Kipner・David Frank・Nate Butler／日本語詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink")／編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")
       - ゲームソフト「[戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")」主題歌
 2.  **Be the one（K-Muto Groovediggerz Remix）**
 3.  Be the one（Instrumental）

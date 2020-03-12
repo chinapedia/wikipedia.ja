@@ -11,19 +11,19 @@
 ## 収録曲
 
 1.  **Fade Out**
-      - 作詞・作曲・編曲:[近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")
+      - 作詞・作曲・編曲:[近田春夫](../Page/近田春夫.md "wikilink")
 2.  **集中できない**
       - 作詞・作曲・編曲:近田春夫
 
 ## 収録アルバム
 
   - 14thアルバム 『[KOIZUMI IN THE HOUSE](https://ja.wikipedia.org/wiki/KOIZUMI_IN_THE_HOUSE "wikilink")』
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink") 『[Kyon30〜なんてったって30年\!〜](https://ja.wikipedia.org/wiki/Kyon30〜なんてったって30年!〜 "wikilink")』\[2\]
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink") 『[Kyon30〜なんてったって30年\!〜](https://ja.wikipedia.org/wiki/Kyon30〜なんてったって30年!〜 "wikilink")』\[2\]
   - ベスト・アルバム 『[コイズミクロニクル〜コンプリートシングルベスト 1982-2017〜](https://ja.wikipedia.org/wiki/コイズミクロニクル〜コンプリートシングルベスト_1982-2017〜 "wikilink")』\[3\]
 
 ## 関連項目
 
-  - [1989年の音楽](https://ja.wikipedia.org/wiki/1989年の音楽 "wikilink")
+  - [1989年の音楽](../Page/1989年の音楽.md "wikilink")
 
 ## 脚注
 

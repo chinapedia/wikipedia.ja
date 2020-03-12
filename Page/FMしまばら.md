@@ -1,17 +1,17 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-[本社・スタジオ（2010年5月）](https://ja.wikipedia.org/wiki/ファイル:Cable-television&FM_Shimabara.jpg "wikilink") **株式会社FMしまばら**（エフエムしまばら）は、[長崎県](../Page/長崎県.md "wikilink")[島原市](../Page/島原市.md "wikilink")および[南島原市](https://ja.wikipedia.org/wiki/南島原市 "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **FMしまばら**そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
+[本社・スタジオ（2010年5月）](https://ja.wikipedia.org/wiki/ファイル:Cable-television&FM_Shimabara.jpg "wikilink") **株式会社FMしまばら**（エフエムしまばら）は、[長崎県](../Page/長崎県.md "wikilink")[島原市](../Page/島原市.md "wikilink")および[南島原市](../Page/南島原市.md "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **FMしまばら**そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
 
 ## 概要
 
-2007年（平成19年）開局。 [ケーブルテレビジョン島原](../Page/ケーブルテレビジョン島原.md "wikilink")（カボチャテレビ）が、株式の過半数を出資しており[マスメディア集中排除原則](https://ja.wikipedia.org/wiki/マスメディア集中排除原則 "wikilink")にいう**支配関係**にある\[1\]。 本社・スタジオはカボチャテレビの局舎のある島原市白土町（しらちまち）のNTT島原ビルにある。 放送局のテーマは「もっぱら、しまばら」。マスコットは「もっぱら君」。
+2007年（平成19年）開局。 [ケーブルテレビジョン島原](../Page/ケーブルテレビジョン島原.md "wikilink")（カボチャテレビ）が、株式の過半数を出資しており[マスメディア集中排除原則](../Page/マスメディア集中排除原則.md "wikilink")にいう**支配関係**にある\[1\]。 本社・スタジオはカボチャテレビの局舎のある島原市白土町（しらちまち）のNTT島原ビルにある。 放送局のテーマは「もっぱら、しまばら」。マスコットは「もっぱら君」。
 
 島原市のコミュニティFM放送局等設置整備事業の支援をうけており、島原市の行政情報を随時放送するほか、災害発生時及び災害発生が予想されるときは、防災情報が優先的に放送される \[2\]。
 
-島原市内のケーブルテレビ網に接続された約50ヶ所の[無線LAN](../Page/無線LAN.md "wikilink")アクセスポイントを介した現地リポート放送、東京で開催された高校同窓会会場から[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を用いた[生中継](https://ja.wikipedia.org/wiki/生中継 "wikilink")も行われている。
+島原市内のケーブルテレビ網に接続された約50ヶ所の[無線LAN](../Page/無線LAN.md "wikilink")アクセスポイントを介した現地リポート放送、東京で開催された高校同窓会会場から[インターネット](../Page/インターネット.md "wikilink")を用いた[生中継](https://ja.wikipedia.org/wiki/生中継 "wikilink")も行われている。
 
-インターネット配信は、FMしまばら独自のライブ配信と[SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")による。 また、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")「[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")」も運用している。 FM++では、長崎県島原振興局より[島原半島](https://ja.wikipedia.org/wiki/島原半島 "wikilink")の[国道251号](https://ja.wikipedia.org/wiki/国道251号 "wikilink")、[389号や県道など県管理の道路の交通規制情報を配信する](https://ja.wikipedia.org/wiki/国道389号 "wikilink")。
+インターネット配信は、FMしまばら独自のライブ配信と[SimulRadio](../Page/SimulRadio.md "wikilink")による。 また、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")「[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")」も運用している。 FM++では、長崎県島原振興局より[島原半島](../Page/島原半島.md "wikilink")の[国道251号](../Page/国道251号.md "wikilink")、[389号や県道など県管理の道路の交通規制情報を配信する](../Page/国道389号.md "wikilink")。
 
   - 送信所
 
@@ -25,7 +25,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/親局" title="wikilink">親局</a></p></td>
+<td><p><a href="../Page/親局.md" title="wikilink">親局</a></p></td>
 <td><p>20W</p></td>
 <td><p>島原市</p></td>
 </tr>
@@ -65,19 +65,19 @@
 2007年（平成19年）
 
   - 10月16日　株式会社FMしまばら設立
-  - 10月29日　放送局（現[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得\[4\]
+  - 10月29日　放送局（現[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[予備免許](../Page/予備免許.md "wikilink")取得\[4\]
   - 11月8日　放送局の免許取得\[5\]
   - 11月11日　10時に開局
 
 2008年（平成20年）
 
-  - 1月17日　[日本コミュニティ放送協会](https://ja.wikipedia.org/wiki/日本コミュニティ放送協会 "wikilink")に加盟\[6\]
+  - 1月17日　[日本コミュニティ放送協会](../Page/日本コミュニティ放送協会.md "wikilink")に加盟\[6\]
   - 10月1日　ライブ配信を開始\[7\]
 
 2010年（平成22年）
 
   - 4月1日　有明中継局（空中線電力1W）開局
-      - 島原市北端の[有明町湯江地区の難聴取地域解消のため](https://ja.wikipedia.org/wiki/有明町_\(長崎県\) "wikilink")、島原市役所有明支所に設置
+      - 島原市北端の[有明町湯江地区の難聴取地域解消のため](../Page/有明町_\(長崎県\).md "wikilink")、島原市役所有明支所に設置
 
 2011年（平成23年）
 
@@ -94,7 +94,7 @@
 
 2016年（平成28年）
 
-  - 4月　[熊本地震で被災した](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")[益城町](https://ja.wikipedia.org/wiki/益城町 "wikilink")で[臨時災害放送局](https://ja.wikipedia.org/wiki/臨時災害放送局 "wikilink")「ましきさいがいエフエム」（コールサイン:JOYZ0R-FM）の開設を支援\[11\]
+  - 4月　[熊本地震で被災した](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")[益城町](../Page/益城町.md "wikilink")で[臨時災害放送局](../Page/臨時災害放送局.md "wikilink")「ましきさいがいエフエム」（コールサイン:JOYZ0R-FM）の開設を支援\[11\]
   - 6月21日　布津中継局の予備免許取得\[12\]
   - 12月1日　布津中継局の免許取得\[13\]
 
@@ -105,7 +105,7 @@
 
 ## 番組
 
-放送開始から2014年6月までは、毎日7時から22時までの放送。すべてが自社制作で、そのほとんどを生放送していた。番組の合間に放送されるCMも自社制作しており、各パーソナリティのほか、[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")を含め社員も[声優](../Page/声優.md "wikilink")として出演していた。 2014年7月からは自社制作番組（77時間/週）以外の時間帯において、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")のコミュニティチャンネルの再放送（89時間/週）を開始し、全日24時間放送（月曜日の 3:00 - 5:00 を除く）となった。
+放送開始から2014年6月までは、毎日7時から22時までの放送。すべてが自社制作で、そのほとんどを生放送していた。番組の合間に放送されるCMも自社制作しており、各パーソナリティのほか、[社長](../Page/社長.md "wikilink")を含め社員も[声優](../Page/声優.md "wikilink")として出演していた。 2014年7月からは自社制作番組（77時間/週）以外の時間帯において、[ミュージックバード](../Page/ミュージックバード.md "wikilink")のコミュニティチャンネルの再放送（89時間/週）を開始し、全日24時間放送（月曜日の 3:00 - 5:00 を除く）となった。
 
   - 月曜 - 金曜
 
@@ -196,7 +196,7 @@
 
 ## 防災ラジオ
 
-島原市は、2015年4月に[防災行政無線をデジタル化したが](https://ja.wikipedia.org/wiki/市町村防災行政無線 "wikilink")、これにより1991年（平成3年）の[雲仙普賢岳](https://ja.wikipedia.org/wiki/雲仙普賢岳 "wikilink")災害を機に全世帯に配布した[受信機](../Page/受信機.md "wikilink")が使用できなくなった。 代替として防災ラジオ（[緊急告知FMラジオ](https://ja.wikipedia.org/wiki/緊急告知FMラジオ "wikilink")）を全世帯と全事業所に無償貸与している \[16\]。
+島原市は、2015年4月に[防災行政無線をデジタル化したが](../Page/市町村防災行政無線.md "wikilink")、これにより1991年（平成3年）の[雲仙普賢岳](https://ja.wikipedia.org/wiki/雲仙普賢岳 "wikilink")災害を機に全世帯に配布した[受信機](../Page/受信機.md "wikilink")が使用できなくなった。 代替として防災ラジオ（[緊急告知FMラジオ](https://ja.wikipedia.org/wiki/緊急告知FMラジオ "wikilink")）を全世帯と全事業所に無償貸与している \[16\]。
 
 南島原市も2017年4月から防災ラジオの無償貸与を開始した \[17\]。
 

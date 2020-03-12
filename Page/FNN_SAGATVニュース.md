@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - サガテレビが[サービス放送](https://ja.wikipedia.org/wiki/サービス放送 "wikilink")を開始した[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に『**FNN stsニュース**』（エフエヌエヌエスティーエスニュース）・『**stsニュース**』（エスティーエスニュース）としてスタート。
-  - [2015年](../Page/2015年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")から新ロゴマークの制定に伴い、タイトルを『**FNN SAGATVニュース**』に変更。
+  - サガテレビが[サービス放送](../Page/サービス放送.md "wikilink")を開始した[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に『**FNN stsニュース**』（エフエヌエヌエスティーエスニュース）・『**stsニュース**』（エスティーエスニュース）としてスタート。
+  - [2015年](../Page/2015年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")から新ロゴマークの制定に伴い、タイトルを『**FNN SAGATVニュース**』に変更。
   - 2018年3月をもって定時放送を終了した。
 
 ## 過去の放送時間

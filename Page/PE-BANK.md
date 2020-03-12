@@ -1,7 +1,7 @@
 > この記事は[PE-BANK](https://ja.wikipedia.org/wiki/PE-BANK)から翻訳されています。
 
 
-**株式会社PE-BANK**（ピーイーバンク）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[システム開発](https://ja.wikipedia.org/wiki/システム開発 "wikilink")に伴う受注斡旋やプロエンジニアと呼ばれる[個人事業主](https://ja.wikipedia.org/wiki/個人事業主 "wikilink")の事務代行を行う企業。
+**株式会社PE-BANK**（ピーイーバンク）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[システム開発](https://ja.wikipedia.org/wiki/システム開発 "wikilink")に伴う受注斡旋やプロエンジニアと呼ばれる[個人事業主](../Page/個人事業主.md "wikilink")の事務代行を行う企業。
 
 本項では[持株会社](../Page/持株会社.md "wikilink")である**株式会社MCEAホールディングス**（エムセアホールディングス）についても記述する。
 
@@ -61,18 +61,18 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ" title="wikilink">カルチュア・コンビニエンス・クラブ</a>株式会社</li>
 <li>株式会社ダイレクトマーケティングエージェンシー</li>
-<li>株式会社<a href="https://ja.wikipedia.org/wiki/協和エクシオ" title="wikilink">協和エクシオ</a></li>
+<li>株式会社<a href="../Page/協和エクシオ.md" title="wikilink">協和エクシオ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/JBCCホールディングス" title="wikilink">JBCC株式会社</a></li>
 <li><a href="../Page/野村ホールディングス.md" title="wikilink">野村ホールディングス</a>株式会社</li>
 <li><a href="https://ja.wikipedia.org/wiki/楽天" title="wikilink">楽天</a>株式会社</li>
 <li>弥生株式会社</li>
 <li>株式会社NTTデータ・スマートソーシング</li>
-<li><a href="https://ja.wikipedia.org/wiki/三菱オートリース" title="wikilink">三菱オートリース</a>株式会社</li>
+<li><a href="../Page/三菱オートリース.md" title="wikilink">三菱オートリース</a>株式会社</li>
 <li><a href="https://ja.wikipedia.org/wiki/理化学研究所" title="wikilink">理化学研究所</a></li>
 <li><a href="../Page/東芝テック.md" title="wikilink">東芝テック</a>株式会社</li>
 <li>株式会社<a href="../Page/オークローンマーケティング.md" title="wikilink">オークローンマーケティング</a></li>
 <li>トヨタ情報システム愛知株式会社</li>
-<li>株式会社<a href="https://ja.wikipedia.org/wiki/インテック" title="wikilink">インテック</a></li>
+<li>株式会社<a href="../Page/インテック.md" title="wikilink">インテック</a></li>
 <li>株式会社<a href="https://ja.wikipedia.org/wiki/HBA_(企業)" title="wikilink">HBA</a></li>
 </ul></td>
 <td><ul>
@@ -80,8 +80,8 @@
 <li>株式会社<a href="https://ja.wikipedia.org/wiki/日立ソリューションズ" title="wikilink">日立ソリューションズ</a></li>
 <li>株式会社<a href="../Page/野村総合研究所.md" title="wikilink">野村総合研究所</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/株式会社リクルート" title="wikilink">株式会社リクルート</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SCSK" title="wikilink">SCSK</a>株式会社</li>
-<li>生活協同組合連合会<a href="https://ja.wikipedia.org/wiki/コープネット事業連合" title="wikilink">コープネット事業連合</a></li>
+<li><a href="../Page/SCSK.md" title="wikilink">SCSK</a>株式会社</li>
+<li>生活協同組合連合会<a href="../Page/コープネット事業連合.md" title="wikilink">コープネット事業連合</a></li>
 <li>株式会社<a href="https://ja.wikipedia.org/wiki/富士通ソーシアルサイエンスラボラトリ" title="wikilink">富士通ソーシアルサイエンスラボラトリ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ヤマトシステム開発" title="wikilink">ヤマトシステム開発</a>株式会社</li>
 <li>株式会社<a href="../Page/りそな銀行.md" title="wikilink">りそな銀行</a></li>

@@ -5,7 +5,7 @@
 
 ## 概要
 
-鳥取IX協議会は、[鳥取県](../Page/鳥取県.md "wikilink")内の商用[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）3事業者が、相互接続の問題を研究するためのプロジェクトとして[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発足し、その実用化実験の接続点として構築された。
+鳥取IX協議会は、[鳥取県](../Page/鳥取県.md "wikilink")内の商用[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）3事業者が、相互接続の問題を研究するためのプロジェクトとして[2006年](../Page/2006年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発足し、その実用化実験の接続点として構築された。
 
 [2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に鳥取県による県営の地域IXである[鳥取情報ハイウェイ](../Page/鳥取情報ハイウェイ.md "wikilink")との相互接続を開始した。
 
@@ -13,9 +13,9 @@
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月16日](../Page/2月16日.md "wikilink") [コンピュータ・サービス](https://ja.wikipedia.org/wiki/コンピュータ・サービス "wikilink")（ペアーズ）を中心に試験運用を開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月4日](../Page/4月4日.md "wikilink") 正式運用を開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月2日](../Page/10月2日.md "wikilink") [サンメディアが参加](https://ja.wikipedia.org/wiki/サンメディア_\(鳥取県\) "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") [コンピュータ・サービス](https://ja.wikipedia.org/wiki/コンピュータ・サービス "wikilink")（ペアーズ）を中心に試験運用を開始。
+  - [2006年](../Page/2006年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") 正式運用を開始。
+  - [2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") [サンメディアが参加](https://ja.wikipedia.org/wiki/サンメディア_\(鳥取県\) "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") [鳥取情報ハイウェイ](../Page/鳥取情報ハイウェイ.md "wikilink")との相互接続を開始。
 
 ## 参加インターネットサービスプロバイダ

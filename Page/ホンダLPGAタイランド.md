@@ -1,7 +1,7 @@
 > この記事は[LPGA](https://ja.wikipedia.org/wiki/LPGA)から翻訳されています。
 
 
-**ホンダLPGAタイランド**（Honda LPGA Thailand）は毎年2月に[タイで開催される](../Page/タイ王国.md "wikilink")[全米女子プロゴルフ協会](https://ja.wikipedia.org/wiki/全米女子プロゴルフ協会 "wikilink")の公式戦。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から実施している。主催は[ホンダ](../Page/本田技研工業.md "wikilink")・タイとタイのテレビ局[チャンネル7と](https://ja.wikipedia.org/wiki/:en:BBTV_Channel_7 "wikilink")[IMG](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")。2007年までは10月に開催されていた。
+**ホンダLPGAタイランド**（Honda LPGA Thailand）は毎年2月に[タイで開催される](../Page/タイ王国.md "wikilink")[全米女子プロゴルフ協会](../Page/全米女子プロゴルフ協会.md "wikilink")の公式戦。[2006年](../Page/2006年.md "wikilink")から実施している。主催は[ホンダ](../Page/本田技研工業.md "wikilink")・タイとタイのテレビ局[チャンネル7と](https://ja.wikipedia.org/wiki/:en:BBTV_Channel_7 "wikilink")[IMG](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")。2007年までは10月に開催されていた。
 
 ## 歴代優勝者
 
@@ -177,7 +177,7 @@
 <tr class="odd">
 <td><p>2009</p></td>
 <td><p>Feb 26 – Mar 1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロレーナ・オチョア" title="wikilink">ロレーナ・オチョア</a></p></td>
+<td><p><a href="../Page/ロレーナ・オチョア.md" title="wikilink">ロレーナ・オチョア</a></p></td>
 <td></td>
 <td><p>274 (−14)</p></td>
 <td><p>3打差</p></td>

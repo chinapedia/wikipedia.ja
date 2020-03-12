@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **La La La…**
-      - 作詞：小泉今日子／作曲・編曲：[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")、[屋敷豪太](https://ja.wikipedia.org/wiki/屋敷豪太 "wikilink")
+      - 作詞：小泉今日子／作曲・編曲：[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")、[屋敷豪太](../Page/屋敷豪太.md "wikilink")
 2.  **La La La…（Dub Mix）**
 3.  **La La La…（Back Tracks）**
 4.  **ドライブ（Short Version）**

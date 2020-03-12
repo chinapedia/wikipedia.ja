@@ -5,7 +5,7 @@
 
 ## 人物
 
-  - 3か国語（[熊本弁](https://ja.wikipedia.org/wiki/熊本弁 "wikilink")、[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")）を使い分け、トークを繰り広げる。
+  - 3か国語（[熊本弁](../Page/熊本弁.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")）を使い分け、トークを繰り広げる。
   - 過去にCDもリリースしている。
   - [2009年](../Page/2009年.md "wikilink")にMAIKAIというバンドを結成しボーカリストとして熊本市内のライブハウスを中心に活動している。
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - [TKUスーパーニュースぴゅあピュア](https://ja.wikipedia.org/wiki/TKUスーパーニュースぴゅあピュア "wikilink")
+  - [TKUスーパーニュースぴゅあピュア](../Page/TKUスーパーニュースぴゅあピュア.md "wikilink")
   - [あみゅパラ](https://ja.wikipedia.org/wiki/あみゅパラ "wikilink")
 
 <!-- end list -->
@@ -72,7 +72,7 @@
 
 ## 備考
 
-  - 過去にエフエム熊本で担当していた番組に「テレビタミン」メインキャスターの[村上美香](https://ja.wikipedia.org/wiki/村上美香 "wikilink")がゲスト出演したことがある。
+  - 過去にエフエム熊本で担当していた番組に「テレビタミン」メインキャスターの[村上美香](../Page/村上美香.md "wikilink")がゲスト出演したことがある。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[Invitation \(\)](https://ja.wikipedia.org/wiki/Invitation_\(\))から翻訳されています。
 
 
-'''Invitation '''（インビテーション） は[オム・ジョンファ](https://ja.wikipedia.org/wiki/オム・ジョンファ "wikilink") の4枚目のオリジナルアルバム。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[PolyGram](https://ja.wikipedia.org/wiki/PolyGram "wikilink")よりリリースされた。
+'''Invitation '''（インビテーション） は[オム・ジョンファ](../Page/オム・ジョンファ.md "wikilink") の4枚目のオリジナルアルバム。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[PolyGram](https://ja.wikipedia.org/wiki/PolyGram "wikilink")よりリリースされた。
 
 ## 解説
 

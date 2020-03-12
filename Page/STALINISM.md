@@ -1,7 +1,7 @@
 > この記事は[STALINISM](https://ja.wikipedia.org/wiki/STALINISM)から翻訳されています。
 
 
-**STALINISM**（スターリニズム）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[ザ・スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")のベストアルバム。
+**STALINISM**（スターリニズム）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")のベストアルバム。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")にINDEPENDENT RECORDSよりリリースされた。
 
@@ -18,7 +18,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -44,7 +44,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
 <td><p>SS RECORDINGS</p></td>
 <td><p>CD</p></td>
 <td><p>SS-504</p></td>
@@ -72,7 +72,7 @@
 
 ## 参加ミュージシャン
 
-  - **[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")(\#1,2)
+  - **[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")(\#1,2)
   - **金子アツシ** - [ギター](../Page/ギター.md "wikilink") (\#1,2,6～10)
   - **小野昌之** - ギター (\#3,4)
   - **タム** - ギター (\#5)

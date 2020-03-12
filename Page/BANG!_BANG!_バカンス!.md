@@ -1,11 +1,11 @@
 > この記事は[BANG! BANG! !](https://ja.wikipedia.org/wiki/BANG!_BANG!_!)から翻訳されています。
 
 
-「**BANG\! BANG\! バカンス\!**」（バン\! バン\! バカンス\!）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の37枚目の[シングル](../Page/シングル.md "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[ビクターエンタテインメントから](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**BANG\! BANG\! バカンス\!**」（バン\! バン\! バカンス\!）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の37枚目の[シングル](../Page/シングル.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 
-本作は、アルバム『[SAMPLE BANG\!](https://ja.wikipedia.org/wiki/SAMPLE_BANG! "wikilink")』と同時発売であった。同アルバムには収録されず、[2016年](../Page/2016年.md "wikilink")のベストアルバム『[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")』でアルバム初収録となった。
+本作は、アルバム『[SAMPLE BANG\!](../Page/SAMPLE_BANG!.md "wikilink")』と同時発売であった。同アルバムには収録されず、[2016年](../Page/2016年.md "wikilink")のベストアルバム『[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")』でアルバム初収録となった。
 
 また、表題曲「BANG\! BANG\! バカンス\!」は、発売時期に行われた「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組部門26位にランクインした（同年の[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")では次作「Triangle」が歌唱された）が本曲は歌唱していない。
 
@@ -13,7 +13,7 @@
 
 ## チャート成績
 
-  - [オリコン週間シングルチャートで首位を獲得した](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。SMAPにとって同チャートでの1位獲得は「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」から4作連続・通算15作目となった。TOP10入りはデビュー以来37作連続となった。初動売上は約23.5万枚であった\[1\]。
+  - [オリコン週間シングルチャートで首位を獲得した](../Page/オリコンチャート.md "wikilink")。SMAPにとって同チャートでの1位獲得は「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」から4作連続・通算15作目となった。TOP10入りはデビュー以来37作連続となった。初動売上は約23.5万枚であった\[1\]。
   - 累計売上は40.3万枚（[オリコン](../Page/オリコン.md "wikilink")調べ）。
 
 ## 収録曲
@@ -50,7 +50,7 @@
   - 『[2005 FNS歌謡祭](https://ja.wikipedia.org/wiki/2005_FNS歌謡祭 "wikilink")』（2005年12月7日、フジテレビ）
       -
         番組のトップバッターで披露。
-  - 『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](https://ja.wikipedia.org/wiki/さんま&SMAP!美女と野獣のクリスマススペシャル "wikilink")』（2005年12月24日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - 『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](../Page/さんま&SMAP!美女と野獣のクリスマススペシャル.md "wikilink")』（2005年12月24日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - 『ミュージックステーション』（2009年8月28日、テレビ朝日）
       -
         「そっと きゅっと」とのメドレーで披露。

@@ -1,7 +1,7 @@
 > この記事は[Three tight b](https://ja.wikipedia.org/wiki/Three_tight_b)から翻訳されています。
 
 
-**three tight b**（スリータイトビー）は[九州](../Page/九州.md "wikilink")出身の3人からなる日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成、[2004年](../Page/2004年.md "wikilink")メジャーデビュー。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**three tight b**（スリータイトビー）は[九州](../Page/九州.md "wikilink")出身の3人からなる日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成、[2004年](../Page/2004年.md "wikilink")メジャーデビュー。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 メンバーそれぞれ20代、30代、40代という「**エイジレス・ユニット**」である。 2009年4月解散した。
 
@@ -39,8 +39,8 @@
 ### シングル
 
   - かわらぬ愛を（2004年[5月26日](../Page/5月26日.md "wikilink")）メジャーデビューシングル
-  - baby talk ～未来に…～（2004年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")）
-  - 存在（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")）
+  - baby talk ～未来に…～（2004年[9月8日](../Page/9月8日.md "wikilink")）
+  - 存在（[2005年](../Page/2005年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")）
 
 <!-- end list -->
 
@@ -54,11 +54,11 @@
 <!-- end list -->
 
   -
-    山田廣作プロデュースによる、「[犬の十戒](../Page/犬の十戒.md "wikilink")」をモチーフにした楽曲。多くのヒット曲を生み出した[作詞家](../Page/作詞家.md "wikilink")・[中山大三郎](https://ja.wikipedia.org/wiki/中山大三郎 "wikilink")の遺作。
+    山田廣作プロデュースによる、「[犬の十戒](../Page/犬の十戒.md "wikilink")」をモチーフにした楽曲。多くのヒット曲を生み出した[作詞家](../Page/作詞家.md "wikilink")・[中山大三郎](../Page/中山大三郎.md "wikilink")の遺作。
 
 ## テレビ出演
 
-  - [歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [歌スタ\!\!](../Page/歌スタ!!.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
 
 <!-- end list -->
 

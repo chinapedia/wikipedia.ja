@@ -1,7 +1,7 @@
 > この記事は[ULTRA BRAiN](https://ja.wikipedia.org/wiki/ULTRA_BRAiN)から翻訳されています。
 
 
-**ULTRA BRAiN**（ウルトラブレイン）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に結成された、[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")の[難波章浩](https://ja.wikipedia.org/wiki/難波章浩 "wikilink")(TYUNK BRAiN)の[パンク](../Page/パンク・ロック.md "wikilink")・[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")、V2 Records Japan。手足のある脳みそにヘッドフォンをつけたMr.ブレイン(ブレイン君)というマスコットキャラクターがいる。パンクにデジタルサウンドを融合したサウンドが特徴で本人は「ネオ・パンク」と位置付けている。そのバンドの可能性は[EYEなど様々なアーティストから評価されている](https://ja.wikipedia.org/wiki/山塚アイ "wikilink")。
+**ULTRA BRAiN**（ウルトラブレイン）は、[2006年](../Page/2006年.md "wikilink")に結成された、[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")の[難波章浩](../Page/難波章浩.md "wikilink")(TYUNK BRAiN)の[パンク](../Page/パンク・ロック.md "wikilink")・[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")、V2 Records Japan。手足のある脳みそにヘッドフォンをつけたMr.ブレイン(ブレイン君)というマスコットキャラクターがいる。パンクにデジタルサウンドを融合したサウンドが特徴で本人は「ネオ・パンク」と位置付けている。そのバンドの可能性は[EYEなど様々なアーティストから評価されている](https://ja.wikipedia.org/wiki/山塚アイ "wikilink")。
 
 ## メンバー
 

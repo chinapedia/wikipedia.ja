@@ -1,7 +1,7 @@
 > この記事は[VERITAS File System](https://ja.wikipedia.org/wiki/VERITAS_File_System)から翻訳されています。
 
 
-**VERITAS File System**（**VxFS**）は、ベースの[ファイルシステム](../Page/ファイルシステム.md "wikilink")。[VERITAS](../Page/VERITAS.md "wikilink")ソフトウェアが開発した\[1\]。[OEM](../Page/OEM.md "wikilink")契約により、VxFSは[HP-UX](../Page/HP-UX.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の主要ファイルシステムとして使われている（ただし、HP-UXでは **JFS** と呼ばれている）。また、ライセンスに基づきオンラインの[デフラグメンテーション](../Page/デフラグメンテーション.md "wikilink")とリサイズをサポートしたものは **Online JFS** と呼ばれている\[2\]。他にも[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[UnixWare](https://ja.wikipedia.org/wiki/UnixWare "wikilink")、[OpenServer](https://ja.wikipedia.org/wiki/OpenServer "wikilink") などでサポートされている。VxFSは、本来[AT\&T](../Page/AT&T.md "wikilink")の [UNIX Systems Laboratories](https://ja.wikipedia.org/wiki/UNIX_Systems_Laboratories "wikilink") のために開発された。VxFSは [Veritas Storage Foundation](https://ja.wikipedia.org/wiki/:en:Veritas_Storage_Foundation "wikilink")（他に [Veritas Volume Manager](https://ja.wikipedia.org/wiki/:en:Veritas_Volume_Manager "wikilink") を含む）の一部としてパッケージ化されている。
+**VERITAS File System**（**VxFS**）は、ベースの[ファイルシステム](../Page/ファイルシステム.md "wikilink")。[VERITAS](../Page/VERITAS.md "wikilink")ソフトウェアが開発した\[1\]。[OEM](../Page/OEM.md "wikilink")契約により、VxFSは[HP-UX](../Page/HP-UX.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の主要ファイルシステムとして使われている（ただし、HP-UXでは **JFS** と呼ばれている）。また、ライセンスに基づきオンラインの[デフラグメンテーション](../Page/デフラグメンテーション.md "wikilink")とリサイズをサポートしたものは **Online JFS** と呼ばれている\[2\]。他にも[AIX](../Page/AIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[UnixWare](../Page/UnixWare.md "wikilink")、[OpenServer](https://ja.wikipedia.org/wiki/OpenServer "wikilink") などでサポートされている。VxFSは、本来[AT\&T](../Page/AT&T.md "wikilink")の [UNIX Systems Laboratories](https://ja.wikipedia.org/wiki/UNIX_Systems_Laboratories "wikilink") のために開発された。VxFSは [Veritas Storage Foundation](https://ja.wikipedia.org/wiki/:en:Veritas_Storage_Foundation "wikilink")（他に [Veritas Volume Manager](https://ja.wikipedia.org/wiki/:en:Veritas_Volume_Manager "wikilink") を含む）の一部としてパッケージ化されている。
 
 ## 歴史
 
@@ -17,7 +17,7 @@ VxFS のディスク上のレイアウトにはバージョンがあり、ファ
 
   - バージョン2 - ファイルセット、動的[inode](https://ja.wikipedia.org/wiki/inode "wikilink")割り当て、[ACLを追加サポート](../Page/アクセス制御リスト.md "wikilink")。VxFS 4.0 では、バージョン1から3までが既にサポートされていない。
   - バージョン4 - ストレージ・チェックポイントを追加サポートし、[Veritas Cluster File System](https://ja.wikipedia.org/wiki/:en:Veritas_Cluster_File_System "wikilink") をサポート。VxFS 3.2.1 で導入された。VxFS 5.1 ではバージョン4のレイアウトは既にサポートされていない\[8\]。
-  - バージョン5 - 最大32[TB](https://ja.wikipedia.org/wiki/テラバイト "wikilink") () までのファイルシステムをサポート。個々のファイルは最大 2TB までである。VxFS 3.5 で導入されたが、VxFS 5.1 ではバージョン5のレイアウトは既にサポートされていない\[9\]。
+  - バージョン5 - 最大32[TB](../Page/テラバイト.md "wikilink") () までのファイルシステムをサポート。個々のファイルは最大 2TB までである。VxFS 3.5 で導入されたが、VxFS 5.1 ではバージョン5のレイアウトは既にサポートされていない\[9\]。
   - バージョン6 - ファイルシステムもファイルも最大 8[EB](https://ja.wikipedia.org/wiki/エクサバイト "wikilink") () までサポートしている。バージョン6 では、複数ボリュームでの[名前付きストリーム/リソースフォーク](https://ja.wikipedia.org/wiki/フォーク_\(ファイルシステム\) "wikilink")、ファイル変更ログもサポートしている。バージョン6 は VxFS 4.0 で導入された。
   - バージョン7 - ダイナミックストレージティアリング機能をサポート。異なるボリューム間でファイルを移動でき、ファイル生成時にポリシーに基づいて異なるボリューム群にアロケートでき、ボリュームを個別に復旧してもファイルシステムの名前空間を変化させない。バージョン7は VxFS 5.0 で導入された。
 

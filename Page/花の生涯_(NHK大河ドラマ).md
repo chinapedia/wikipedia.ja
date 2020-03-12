@@ -11,9 +11,9 @@
 
 いわゆる大河ドラマの構想は、当時NHKとRAI（[イタリア放送協会](../Page/イタリア放送協会.md "wikilink")）が合作で制作した『二つの橋』に参加した演出の合川明、井上博、脚本の[北条誠](https://ja.wikipedia.org/wiki/北条誠 "wikilink")が帰国してから具体化し、脚本の北条誠は『花の生涯』の舞台脚本を書いたことがあったため起用された。
 
-当初から大スターを集めてのキャスティングが図られ、映画各社、[歌舞伎座](../Page/歌舞伎座.md "wikilink")などを交渉した結果、松竹演劇部が「[歌舞伎](../Page/歌舞伎.md "wikilink")を一切休まない」ことを条件に、[尾上松緑の出演を認めた](../Page/尾上松緑_\(2代目\).md "wikilink")。一方、原作者の舟橋聖一は、ヒロインの[村山たか](https://ja.wikipedia.org/wiki/村山たか "wikilink")役に、[松竹で映画化された際に同役を演じた](../Page/花の生涯_彦根篇_江戸篇.md "wikilink")[淡島千景](https://ja.wikipedia.org/wiki/淡島千景 "wikilink")を熱望した。さらにNHKは、[長野主膳](https://ja.wikipedia.org/wiki/長野主膳 "wikilink")の役に同じ松竹の佐田啓二の起用を考えた。
+当初から大スターを集めてのキャスティングが図られ、映画各社、[歌舞伎座](../Page/歌舞伎座.md "wikilink")などを交渉した結果、松竹演劇部が「[歌舞伎](../Page/歌舞伎.md "wikilink")を一切休まない」ことを条件に、[尾上松緑の出演を認めた](../Page/尾上松緑_\(2代目\).md "wikilink")。一方、原作者の舟橋聖一は、ヒロインの[村山たか](https://ja.wikipedia.org/wiki/村山たか "wikilink")役に、[松竹で映画化された際に同役を演じた](../Page/花の生涯_彦根篇_江戸篇.md "wikilink")[淡島千景](../Page/淡島千景.md "wikilink")を熱望した。さらにNHKは、[長野主膳](../Page/長野主膳.md "wikilink")の役に同じ松竹の佐田啓二の起用を考えた。
 
-映画俳優では当時、いわゆる「[五社協定](https://ja.wikipedia.org/wiki/五社協定 "wikilink")」があったため、映画各社の専属俳優はテレビには出演できず、NHKはプロデューサーの合川明が長沢芸能局長命令によって佐田啓二本人と出演交渉することとなった。合川は後にインタビューなどで当時の模様を語っている。資料により多少違いがあるが、佐田が出演を決めれば、淡島千景も出演するだろうというのがNHKのねらいだったという。何が何でも佐田を出演させろの指示の下、合川は佐田の自宅を尋ねたが佐田は難色を示した。とにかく原作本と企画書を預けて、それからは佐田家への日参が続いた。娘の[中井貴恵](https://ja.wikipedia.org/wiki/中井貴恵 "wikilink")や息子の[中井貴一](https://ja.wikipedia.org/wiki/中井貴一 "wikilink")とは仲良くなり、宿題を教えたり、トランプをしたりしたという。佐田の相伴で高級バーに連れてってもらい、日頃は飲めない高級酒も飲ませてもらった。だがいくら通っても佐田は色よい返事をしない。ついにやけになった合川が、「出ていただけないなら原作と企画書は持って帰ります」と告げたところ、佐田は「ちょっと待って、合川ちゃん。もう少し詳しい話を聞かせて」と答えたという。佐田は当初、「出演なんかできないよ」と言っていたが、一方で[小津安二郎](../Page/小津安二郎.md "wikilink")や淡島千景に相談したり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")在住の友人にも話を聞き、当時の進んだ[アメリカのテレビジョン放送の実情を知らされたという](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。こうして佐田は[1962年](../Page/1962年.md "wikilink")夏に出演を決めた。佐田の出演によって「五社協定」が崩れ、淡島千景をはじめ映画俳優の出演が次々と決まることになった。
+映画俳優では当時、いわゆる「[五社協定](../Page/五社協定.md "wikilink")」があったため、映画各社の専属俳優はテレビには出演できず、NHKはプロデューサーの合川明が長沢芸能局長命令によって佐田啓二本人と出演交渉することとなった。合川は後にインタビューなどで当時の模様を語っている。資料により多少違いがあるが、佐田が出演を決めれば、淡島千景も出演するだろうというのがNHKのねらいだったという。何が何でも佐田を出演させろの指示の下、合川は佐田の自宅を尋ねたが佐田は難色を示した。とにかく原作本と企画書を預けて、それからは佐田家への日参が続いた。娘の[中井貴恵](https://ja.wikipedia.org/wiki/中井貴恵 "wikilink")や息子の[中井貴一](../Page/中井貴一.md "wikilink")とは仲良くなり、宿題を教えたり、トランプをしたりしたという。佐田の相伴で高級バーに連れてってもらい、日頃は飲めない高級酒も飲ませてもらった。だがいくら通っても佐田は色よい返事をしない。ついにやけになった合川が、「出ていただけないなら原作と企画書は持って帰ります」と告げたところ、佐田は「ちょっと待って、合川ちゃん。もう少し詳しい話を聞かせて」と答えたという。佐田は当初、「出演なんかできないよ」と言っていたが、一方で[小津安二郎](../Page/小津安二郎.md "wikilink")や淡島千景に相談したり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")在住の友人にも話を聞き、当時の進んだ[アメリカのテレビジョン放送の実情を知らされたという](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。こうして佐田は[1962年](../Page/1962年.md "wikilink")夏に出演を決めた。佐田の出演によって「五社協定」が崩れ、淡島千景をはじめ映画俳優の出演が次々と決まることになった。
 
 「[桜田門外の変](https://ja.wikipedia.org/wiki/桜田門外の変 "wikilink")」のシーンは[東映城](https://ja.wikipedia.org/wiki/東映城 "wikilink")（[東映京都撮影所](../Page/東映京都撮影所.md "wikilink")のオープンセット、現在の[東映太秦映画村大手門](https://ja.wikipedia.org/wiki/東映太秦映画村大手門 "wikilink")）を借りて行われたが、このときの交渉は、後に大河演出のエースとなる[大原誠](https://ja.wikipedia.org/wiki/大原誠 "wikilink")が受け持った。東映城の屋根を白ペンキで塗って、事件当日の雪模様を再現したという。地面の雪は、トラック4台で運んだ白布を広げ、白砂を撒き、発泡スチロールを飛ばしたと言う。当初、東映との交渉は難航したが、いったん承諾すると東映側は、撮影に非常に協力的になったという。
 
@@ -28,17 +28,17 @@
 ### 井伊家
 
   - [井伊直弼](../Page/井伊直弼.md "wikilink")：**[尾上松緑](../Page/尾上松緑_\(2代目\).md "wikilink")**
-  - [昌子の方](https://ja.wikipedia.org/wiki/貞鏡院 "wikilink")（直弼正室）：[八千草薫](https://ja.wikipedia.org/wiki/八千草薫 "wikilink")
-  - [秋山志津](https://ja.wikipedia.org/wiki/千田静江 "wikilink")（直弼側室）：**[香川京子](https://ja.wikipedia.org/wiki/香川京子 "wikilink")**
+  - [昌子の方](https://ja.wikipedia.org/wiki/貞鏡院 "wikilink")（直弼正室）：[八千草薫](../Page/八千草薫.md "wikilink")
+  - [秋山志津](https://ja.wikipedia.org/wiki/千田静江 "wikilink")（直弼側室）：**[香川京子](../Page/香川京子.md "wikilink")**
   - [西村佐登→里和](https://ja.wikipedia.org/wiki/西村里和 "wikilink")（直弼側室）：[河村有紀](https://ja.wikipedia.org/wiki/河村有紀 "wikilink")
   - [とめ](https://ja.wikipedia.org/wiki/粲 "wikilink")：[賀原夏子](../Page/賀原夏子.md "wikilink")
-  - [井伊直亮](https://ja.wikipedia.org/wiki/井伊直亮 "wikilink")：[清水将夫](../Page/清水将夫.md "wikilink")
-  - [井伊愛麿](https://ja.wikipedia.org/wiki/井伊直憲 "wikilink")：[太田博之](../Page/太田博之.md "wikilink")
+  - [井伊直亮](../Page/井伊直亮.md "wikilink")：[清水将夫](../Page/清水将夫.md "wikilink")
+  - [井伊愛麿](../Page/井伊直憲.md "wikilink")：[太田博之](../Page/太田博之.md "wikilink")
 
 ### 井伊家臣
 
-  - [村山たか](https://ja.wikipedia.org/wiki/村山たか "wikilink")：**[淡島千景](https://ja.wikipedia.org/wiki/淡島千景 "wikilink")**
-  - [長野主馬→長野主膳](https://ja.wikipedia.org/wiki/長野主膳 "wikilink")：**[佐田啓二](../Page/佐田啓二.md "wikilink")**
+  - [村山たか](https://ja.wikipedia.org/wiki/村山たか "wikilink")：**[淡島千景](../Page/淡島千景.md "wikilink")**
+  - [長野主馬→長野主膳](../Page/長野主膳.md "wikilink")：**[佐田啓二](../Page/佐田啓二.md "wikilink")**
   - [長野多起](https://ja.wikipedia.org/wiki/長野多起 "wikilink")：[東恵美子](../Page/東恵美子.md "wikilink")
   - [犬塚外記](https://ja.wikipedia.org/wiki/犬塚正陽 "wikilink")：**[中村芝鶴](https://ja.wikipedia.org/wiki/中村芝鶴_\(2代目\) "wikilink")**
   - [宇津木六之丞](https://ja.wikipedia.org/wiki/宇津木景福 "wikilink")：[北村和夫](../Page/北村和夫.md "wikilink")
@@ -49,21 +49,21 @@
   - [秋山勘七](https://ja.wikipedia.org/wiki/秋山勘七 "wikilink")：[小栗一也](../Page/小栗一也.md "wikilink")
   - [小河原秀之丞](https://ja.wikipedia.org/wiki/小河原宗親 "wikilink")：[戸田皓久](https://ja.wikipedia.org/wiki/戸田皓久 "wikilink")
   - [川西忠左衛門](https://ja.wikipedia.org/wiki/川西忠左衛門 "wikilink")：[金井修](https://ja.wikipedia.org/wiki/金井修 "wikilink")
-  - [三浦北庵](https://ja.wikipedia.org/wiki/三浦北庵 "wikilink")：**[下條正巳](https://ja.wikipedia.org/wiki/下條正巳 "wikilink")**
-  - [中村長平](https://ja.wikipedia.org/wiki/中村長平 "wikilink")：[穂積隆信](https://ja.wikipedia.org/wiki/穂積隆信 "wikilink")
+  - [三浦北庵](https://ja.wikipedia.org/wiki/三浦北庵 "wikilink")：**[下條正巳](../Page/下條正巳.md "wikilink")**
+  - [中村長平](https://ja.wikipedia.org/wiki/中村長平 "wikilink")：[穂積隆信](../Page/穂積隆信.md "wikilink")
 
 ### 大名・幕臣
 
-  - [水戸斉昭](https://ja.wikipedia.org/wiki/徳川斉昭 "wikilink")：[嵐寛寿郎](../Page/嵐寛寿郎.md "wikilink")
-  - [井上信濃守](https://ja.wikipedia.org/wiki/井上清直 "wikilink")：[井上孝雄](https://ja.wikipedia.org/wiki/井上孝雄 "wikilink")
+  - [水戸斉昭](../Page/徳川斉昭.md "wikilink")：[嵐寛寿郎](../Page/嵐寛寿郎.md "wikilink")
+  - [井上信濃守](../Page/井上清直.md "wikilink")：[井上孝雄](../Page/井上孝雄.md "wikilink")
   - [松平肥後守](../Page/松平容保.md "wikilink")：[花柳武始](https://ja.wikipedia.org/wiki/花柳武始 "wikilink")
-  - [松平加州](https://ja.wikipedia.org/wiki/松平忠固 "wikilink")：[河村憲一郎](https://ja.wikipedia.org/wiki/河村憲一郎 "wikilink")
-  - [太田備中守](https://ja.wikipedia.org/wiki/太田資始 "wikilink")：[西山辰夫](../Page/西山辰夫.md "wikilink")
-  - [間部下総守](https://ja.wikipedia.org/wiki/間部詮勝 "wikilink")：[内田朝雄](../Page/内田朝雄.md "wikilink")
-  - [阿部伊勢守](https://ja.wikipedia.org/wiki/阿部正弘 "wikilink")：[高松政雄](https://ja.wikipedia.org/wiki/高松政雄 "wikilink")
-  - [堀田備中守](https://ja.wikipedia.org/wiki/堀田正睦 "wikilink")：[松下達夫](https://ja.wikipedia.org/wiki/松下達夫 "wikilink")
+  - [松平加州](../Page/松平忠固.md "wikilink")：[河村憲一郎](https://ja.wikipedia.org/wiki/河村憲一郎 "wikilink")
+  - [太田備中守](../Page/太田資始.md "wikilink")：[西山辰夫](../Page/西山辰夫.md "wikilink")
+  - [間部下総守](../Page/間部詮勝.md "wikilink")：[内田朝雄](../Page/内田朝雄.md "wikilink")
+  - [阿部伊勢守](../Page/阿部正弘.md "wikilink")：[高松政雄](https://ja.wikipedia.org/wiki/高松政雄 "wikilink")
+  - [堀田備中守](../Page/堀田正睦.md "wikilink")：[松下達夫](https://ja.wikipedia.org/wiki/松下達夫 "wikilink")
   - [松平越前守](https://ja.wikipedia.org/wiki/松平慶永 "wikilink")：[山口幸生](https://ja.wikipedia.org/wiki/山口幸生 "wikilink")
-  - [久世山城守](https://ja.wikipedia.org/wiki/久世広周 "wikilink")：[楠義孝](https://ja.wikipedia.org/wiki/楠義孝 "wikilink")
+  - [久世山城守](../Page/久世広周.md "wikilink")：[楠義孝](https://ja.wikipedia.org/wiki/楠義孝 "wikilink")
   - [薬師寺筑前守](https://ja.wikipedia.org/wiki/薬師寺元真 "wikilink")：[三津田健](../Page/三津田健.md "wikilink")
   - [伊佐新次郎](https://ja.wikipedia.org/wiki/伊佐新次郎 "wikilink")：[仲谷昇](../Page/仲谷昇.md "wikilink")
 
@@ -74,33 +74,33 @@
   - [佐久間象山](https://ja.wikipedia.org/wiki/佐久間象山 "wikilink")：[広瀬康治](https://ja.wikipedia.org/wiki/広瀬康治 "wikilink")
   - [渡辺崋山](../Page/渡辺崋山.md "wikilink")：**[野口元夫](https://ja.wikipedia.org/wiki/野口元夫 "wikilink")**
   - [高野長英](../Page/高野長英.md "wikilink")：**[須永宏](https://ja.wikipedia.org/wiki/須永宏 "wikilink")**
-  - [お吉](https://ja.wikipedia.org/wiki/斎藤きち "wikilink")：[朝丘雪路](../Page/朝丘雪路.md "wikilink")
+  - [お吉](../Page/斎藤きち.md "wikilink")：[朝丘雪路](../Page/朝丘雪路.md "wikilink")
   - [鶴松→河井又五郎](https://ja.wikipedia.org/wiki/河井又五郎 "wikilink")：[長門裕之](../Page/長門裕之.md "wikilink")
-  - [有村次左衛門](../Page/有村次左衛門.md "wikilink")：[山形勲](https://ja.wikipedia.org/wiki/山形勲 "wikilink")
+  - [有村次左衛門](../Page/有村次左衛門.md "wikilink")：[山形勲](../Page/山形勲.md "wikilink")
   - [関鉄之介](../Page/関鉄之介.md "wikilink")：[江見俊太郎](../Page/江見俊太郎.md "wikilink")
   - [金子孫二郎](../Page/金子孫二郎.md "wikilink")：[加藤武](../Page/加藤武.md "wikilink")
   - [大関和七郎](https://ja.wikipedia.org/wiki/大関和七郎 "wikilink")：[森塚敏](../Page/森塚敏.md "wikilink")
   - [佐野竹之助](https://ja.wikipedia.org/wiki/佐野竹之助 "wikilink")：[沼田曜一](../Page/沼田曜一.md "wikilink")
   - [斎藤堅物](https://ja.wikipedia.org/wiki/斎藤堅物 "wikilink")：[服部哲治](https://ja.wikipedia.org/wiki/服部哲治 "wikilink")
-  - [黒沢忠三郎](https://ja.wikipedia.org/wiki/黒沢忠三郎 "wikilink")：[内田稔](https://ja.wikipedia.org/wiki/内田稔 "wikilink")
-  - 峰岸龍之介：[小池朝雄](https://ja.wikipedia.org/wiki/小池朝雄 "wikilink")
-  - [鶴江→黒沢トキ子](https://ja.wikipedia.org/wiki/黒沢とき子 "wikilink")：[山岡久乃](https://ja.wikipedia.org/wiki/山岡久乃 "wikilink")
-  - 雪野太夫：**[岩崎加根子](https://ja.wikipedia.org/wiki/岩崎加根子 "wikilink")**
-  - おせい：[奈良岡朋子](https://ja.wikipedia.org/wiki/奈良岡朋子 "wikilink")
+  - [黒沢忠三郎](https://ja.wikipedia.org/wiki/黒沢忠三郎 "wikilink")：[内田稔](../Page/内田稔.md "wikilink")
+  - 峰岸龍之介：[小池朝雄](../Page/小池朝雄.md "wikilink")
+  - [鶴江→黒沢トキ子](https://ja.wikipedia.org/wiki/黒沢とき子 "wikilink")：[山岡久乃](../Page/山岡久乃.md "wikilink")
+  - 雪野太夫：**[岩崎加根子](../Page/岩崎加根子.md "wikilink")**
+  - おせい：[奈良岡朋子](../Page/奈良岡朋子.md "wikilink")
   - [お福](https://ja.wikipedia.org/wiki/お福_\(ヒュースケン\) "wikilink")：[島田多恵子](https://ja.wikipedia.org/wiki/島田多江 "wikilink")（現・島田多江）
   - 老女とめ：[賀原夏子](../Page/賀原夏子.md "wikilink")
   - 久の市：[桑山正一](../Page/桑山正一.md "wikilink")
   - 玉の市：[渥美國泰](https://ja.wikipedia.org/wiki/渥美國泰 "wikilink")
-  - 尾上幸太郎：[多々良純](https://ja.wikipedia.org/wiki/多々良純 "wikilink")
+  - 尾上幸太郎：[多々良純](../Page/多々良純.md "wikilink")
   - 甚六：[長門勇](../Page/長門勇.md "wikilink")
-  - 秋山くら：[初井言榮](https://ja.wikipedia.org/wiki/初井言榮 "wikilink")
+  - 秋山くら：[初井言榮](../Page/初井言榮.md "wikilink")
   - 水戸家家人・剣持：[高木新平](https://ja.wikipedia.org/wiki/高木新平 "wikilink")
   - 山番八蔵：[里木三朗](https://ja.wikipedia.org/wiki/里木佐甫良 "wikilink")
-  - 寺川幸助：[辻村真人](https://ja.wikipedia.org/wiki/辻村真人 "wikilink")
+  - 寺川幸助：[辻村真人](../Page/辻村真人.md "wikilink")
   - 六造：[大塚周夫](../Page/大塚周夫.md "wikilink")
-  - 小僧吉松：[小宮山清](https://ja.wikipedia.org/wiki/小宮山清 "wikilink")
+  - 小僧吉松：[小宮山清](../Page/小宮山清.md "wikilink")
   - 幾：[桜緋紗子](../Page/桜緋紗子.md "wikilink")
-  - [タウンゼント・ハリス](https://ja.wikipedia.org/wiki/タウンゼント・ハリス "wikilink")：[久米明](../Page/久米明.md "wikilink")
+  - [タウンゼント・ハリス](../Page/タウンゼント・ハリス.md "wikilink")：[久米明](../Page/久米明.md "wikilink")
   - [ヘンリー・ヒュースケン](../Page/ヘンリー・ヒュースケン.md "wikilink")：[岡田眞澄](../Page/岡田眞澄.md "wikilink")
   - その他：[石坂浩二](../Page/石坂浩二.md "wikilink")、[萬代峰子](https://ja.wikipedia.org/wiki/萬代峰子 "wikilink")、[大町文夫](https://ja.wikipedia.org/wiki/大町文夫 "wikilink")
 
@@ -110,7 +110,7 @@
   - 脚本：[北条誠](https://ja.wikipedia.org/wiki/北條誠 "wikilink")
   - 音楽：[冨田勲](../Page/冨田勲.md "wikilink")
   - 演奏：フールサンズセレナーダス
-  - 語り：[小沢栄太郎](https://ja.wikipedia.org/wiki/小沢栄太郎 "wikilink")
+  - 語り：[小沢栄太郎](../Page/小沢栄太郎.md "wikilink")
   - 美術考証：[鳥居清忠](https://ja.wikipedia.org/wiki/鳥居清忠 "wikilink")
   - 制作：[合川明](https://ja.wikipedia.org/wiki/合川明 "wikilink")
   - 装置：[富樫直人](https://ja.wikipedia.org/wiki/富樫直人 "wikilink")
@@ -121,7 +121,7 @@
 
 ### 通常放送時間
 
-  - [NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")：毎週日曜 20時45分 - 21時30分
+  - [NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")：毎週日曜 20時45分 - 21時30分
 
 ### 放送日程
 
@@ -334,16 +334,16 @@
 <td><p>たか女後日</p></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 20.2%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ[3]）</p></td>
+<td><p>平均視聴率 20.2%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ[3]）</p></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-現在のように大河ドラマが通年放送になるのは、第2作『[赤穂浪士](https://ja.wikipedia.org/wiki/赤穂浪士_\(NHK大河ドラマ\) "wikilink")』からであり、本作は9ヶ月間の放送であった。
+現在のように大河ドラマが通年放送になるのは、第2作『[赤穂浪士](../Page/赤穂浪士_\(NHK大河ドラマ\).md "wikilink")』からであり、本作は9ヶ月間の放送であった。
 
-大河ドラマで総集編がつくられるようになったのは第3作『[太閤記](https://ja.wikipedia.org/wiki/太閤記_\(NHK大河ドラマ\) "wikilink")』以降であり、本作の総集編は制作されていない。
+大河ドラマで総集編がつくられるようになったのは第3作『[太閤記](../Page/太閤記_\(NHK大河ドラマ\).md "wikilink")』以降であり、本作の総集編は制作されていない。
 
 ## 映像の現存状況
 
@@ -353,7 +353,7 @@
 
 ## 補足
 
-本作の[10年前に公開された映画](https://ja.wikipedia.org/wiki/1953年 "wikilink")、『[花の生涯 彦根篇 江戸篇](../Page/花の生涯_彦根篇_江戸篇.md "wikilink")』では松緑の実兄である[松本幸四郎が主演の井伊直弼を演じていた](https://ja.wikipedia.org/wiki/松本白鸚_\(初代\) "wikilink")。また、松緑から演技指導を受けた[高橋英樹は](https://ja.wikipedia.org/wiki/高橋英樹_\(俳優\) "wikilink")[2015年](../Page/2015年.md "wikilink")の『[花燃ゆ](https://ja.wikipedia.org/wiki/花燃ゆ "wikilink")』で主人公の敵という設定ながら井伊直弼を演じており、それについて「演じてみたかった」とコメントしている([参照](http://www.nhk.or.jp/hanamoyu/special/interview/index31.html))。
+本作の[10年前に公開された映画](https://ja.wikipedia.org/wiki/1953年 "wikilink")、『[花の生涯 彦根篇 江戸篇](../Page/花の生涯_彦根篇_江戸篇.md "wikilink")』では松緑の実兄である[松本幸四郎が主演の井伊直弼を演じていた](../Page/松本白鸚_\(初代\).md "wikilink")。また、松緑から演技指導を受けた[高橋英樹は](../Page/高橋英樹_\(俳優\).md "wikilink")[2015年](../Page/2015年.md "wikilink")の『[花燃ゆ](https://ja.wikipedia.org/wiki/花燃ゆ "wikilink")』で主人公の敵という設定ながら井伊直弼を演じており、それについて「演じてみたかった」とコメントしている([参照](http://www.nhk.or.jp/hanamoyu/special/interview/index31.html))。
 
 ## 脚注
 

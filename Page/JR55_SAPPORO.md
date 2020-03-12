@@ -3,7 +3,7 @@
 
 **JR55 SAPPORO**（ジェイアール ゴーゴー さっぽろ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の[JR](../Page/北海道旅客鉄道.md "wikilink")[札幌駅](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")西口にある複合ビルである。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")に開業した。1階から5階は駐車場、6階から8階は飲食店が入居している。また、3階にて隣接する「sapporo55ビル」（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink")札幌本店が核テナント）の2階と連結している。
+[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")に開業した。1階から5階は駐車場、6階から8階は飲食店が入居している。また、3階にて隣接する「sapporo55ビル」（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink")札幌本店が核テナント）の2階と連結している。
 
 ## 入居テナント
 
@@ -33,7 +33,7 @@
   - [サツエキ Bridge](https://ja.wikipedia.org/wiki/サツエキ_Bridge "wikilink")
   - [WEST6](https://ja.wikipedia.org/wiki/サツエキ_Bridge#WEST6 "wikilink")
   - [大丸](../Page/大丸.md "wikilink")札幌店
-  - [パセオ](https://ja.wikipedia.org/wiki/パセオ_\(札幌市\) "wikilink")
+  - [パセオ](../Page/パセオ_\(札幌市\).md "wikilink")
   - [センチュリーロイヤルホテル](https://ja.wikipedia.org/wiki/センチュリーロイヤルホテル "wikilink")
   - [JRイン札幌](https://ja.wikipedia.org/wiki/JRイン札幌 "wikilink")
 

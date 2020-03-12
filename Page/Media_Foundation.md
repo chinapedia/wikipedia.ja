@@ -1,7 +1,7 @@
 > この記事は[Media Foundation](https://ja.wikipedia.org/wiki/Media_Foundation)から翻訳されています。
 
 
-**Media Foundation** は、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") でマルチメディアを扱うための[マイクロソフト](../Page/マイクロソフト.md "wikilink")による [COM](../Page/Component_Object_Model.md "wikilink") ベースの [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") セットである。コンテンツの保護、再生品質の向上、高精細コンテンツ（[HDTV](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink") など）の再生、[デジタル著作権管理](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink") (DRM) へのアクセスなどに重点が置かれている。
+**Media Foundation** は、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") でマルチメディアを扱うための[マイクロソフト](../Page/マイクロソフト.md "wikilink")による [COM](../Page/Component_Object_Model.md "wikilink") ベースの [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") セットである。コンテンツの保護、再生品質の向上、高精細コンテンツ（[HDTV](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink") など）の再生、[デジタル著作権管理](../Page/デジタル著作権管理.md "wikilink") (DRM) へのアクセスなどに重点が置かれている。
 
 ## 概要
 
@@ -11,7 +11,7 @@ Media Foundation は [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Win
 
   - (PMP) - 完全に Media Foundation に依存している。
 
-  - [Windows Media Player](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink") - 保護されたコンテンツの再生に Media Foundation を利用しているが、[DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink") や Windows Media Format SDK も利用できる。
+  - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink") - 保護されたコンテンツの再生に Media Foundation を利用しているが、[DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink") や Windows Media Format SDK も利用できる。
 
   - [DirectX Video Acceleration](https://ja.wikipedia.org/wiki/DirectX_Video_Acceleration "wikilink") (DXVA) 2.0。
 
@@ -26,7 +26,7 @@ DirectShow は Media Foundation によって徐々に置き換えられる予定
 
 ## 関連項目
 
-  - [Windows API](https://ja.wikipedia.org/wiki/Windows_API "wikilink")
+  - [Windows API](../Page/Windows_API.md "wikilink")
 
 ## 外部リンク
 

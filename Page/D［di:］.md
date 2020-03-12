@@ -7,11 +7,11 @@
 
 [多摩美術大学](../Page/多摩美術大学.md "wikilink")造形学部油絵学科中退。[小説](../Page/小説.md "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")、[絵画](../Page/絵画.md "wikilink")、[音楽](../Page/音楽.md "wikilink")など多分野で作品を発表している。以前は女性向けファッション誌などでモデルとしても活躍していた。
 
-美大在学中、漫画とも絵本ともいえる作品『ファンタスティック・サイレント』で2000年に雑誌『[ダ・ヴィンチ](https://ja.wikipedia.org/wiki/ダ・ヴィンチ "wikilink")』にてデビュー。その他の著作に、「ノベルコミック」である『キぐるみ』、映画のノベライズ作品『[ドニー・ダーコ](https://ja.wikipedia.org/wiki/ドニー・ダーコ "wikilink")』など。漫画はペンを用いず[木炭](../Page/木炭.md "wikilink")や[鉛筆](../Page/鉛筆.md "wikilink")を使用している。
+美大在学中、漫画とも絵本ともいえる作品『ファンタスティック・サイレント』で2000年に雑誌『[ダ・ヴィンチ](../Page/ダ・ヴィンチ.md "wikilink")』にてデビュー。その他の著作に、「ノベルコミック」である『キぐるみ』、映画のノベライズ作品『[ドニー・ダーコ](../Page/ドニー・ダーコ.md "wikilink")』など。漫画はペンを用いず[木炭](../Page/木炭.md "wikilink")や[鉛筆](../Page/鉛筆.md "wikilink")を使用している。
 
-2004年10月に気鋭の作家として雑誌『[AERA](https://ja.wikipedia.org/wiki/AERA "wikilink")』の表紙を飾る。
+2004年10月に気鋭の作家として雑誌『[AERA](../Page/AERA.md "wikilink")』の表紙を飾る。
 
-子どもの頃からの[宮崎駿](https://ja.wikipedia.org/wiki/宮崎駿 "wikilink")ファンで、デビュー作の帯には宮崎から推薦文が寄せられた。2006年刊行の小説「ファイアースターマン日記」には、映画監督の[堤幸彦](../Page/堤幸彦.md "wikilink")が推薦文を寄せている。
+子どもの頃からの[宮崎駿](../Page/宮崎駿.md "wikilink")ファンで、デビュー作の帯には宮崎から推薦文が寄せられた。2006年刊行の小説「ファイアースターマン日記」には、映画監督の[堤幸彦](../Page/堤幸彦.md "wikilink")が推薦文を寄せている。
 
 ## 作品リスト
 
@@ -34,13 +34,13 @@
 
 ### CDアルバム
 
-  - 駄利亜（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")・アルバム）
+  - 駄利亜（[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")・アルバム）
   - 白いかけら（東芝EMI・マキシシングル）
   - Fire Star Man（東芝EMI・アルバム）
 
 ### 映画
 
-  - 2003年公開　[ジョゼと虎と魚たち](https://ja.wikipedia.org/wiki/ジョゼと虎と魚たち "wikilink")　タイトルバック・劇中イラスト挿画
+  - 2003年公開　[ジョゼと虎と魚たち](../Page/ジョゼと虎と魚たち.md "wikilink")　タイトルバック・劇中イラスト挿画
   - 2008年公開　[GOTH リストカット事件](../Page/GOTH_リストカット事件.md "wikilink")　タイトルバック挿画
 
 2010年公開　『スプライス』Splice　セット美術に一部挿画

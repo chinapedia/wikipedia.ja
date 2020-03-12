@@ -1,7 +1,7 @@
 > この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
 
 
-**ご当地検定DS**（ごとうちけんてい-）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。名前の元ネタになったと思われる[ご当地検定](https://ja.wikipedia.org/wiki/ご当地検定 "wikilink")とは関係はない。
+**ご当地検定DS**（ごとうちけんてい-）は、[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。名前の元ネタになったと思われる[ご当地検定](../Page/ご当地検定.md "wikilink")とは関係はない。
 
 ## 構成
 
@@ -46,7 +46,7 @@
 
 ## 解答・解説の誤り
 
-このゲームに収録された一部の[問題](https://ja.wikipedia.org/wiki/問題 "wikilink")の解答・解説に誤りがある。この事に関しては[スパイク社も認めており](../Page/スパイク_\(ゲーム会社\).md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")にご当地検定DSの公式サイトに謝罪文を掲載している。詳しくは[内容に関するお知らせとお詫び](http://www.spike.co.jp/gotouchi/owabi.html)を参照。
+このゲームに収録された一部の[問題](https://ja.wikipedia.org/wiki/問題 "wikilink")の解答・解説に誤りがある。この事に関しては[スパイク社も認めており](../Page/スパイク_\(ゲーム会社\).md "wikilink")、[2006年](../Page/2006年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")にご当地検定DSの公式サイトに謝罪文を掲載している。詳しくは[内容に関するお知らせとお詫び](http://www.spike.co.jp/gotouchi/owabi.html)を参照。
 
 ## 外部リンク
 

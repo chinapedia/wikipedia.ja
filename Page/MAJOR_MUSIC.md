@@ -1,11 +1,11 @@
 > この記事は[MAJOR MUSIC](https://ja.wikipedia.org/wiki/MAJOR_MUSIC)から翻訳されています。
 
 
-**MAJOR MUSIC** (メジャー・ミュージック)は、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")在住の[HirOshima](https://ja.wikipedia.org/wiki/HirOshima "wikilink")とDwayne Bastianyからなる[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")ユニット。
+**MAJOR MUSIC** (メジャー・ミュージック)は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")在住の[HirOshima](../Page/HirOshima.md "wikilink")とDwayne Bastianyからなる[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")ユニット。
 
 ## メンバー
 
-  - [HirOshima](https://ja.wikipedia.org/wiki/HirOshima "wikilink") (ヒロシマ)。本名、ヒロ・オオシマ。[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")。
+  - [HirOshima](../Page/HirOshima.md "wikilink") (ヒロシマ)。本名、ヒロ・オオシマ。[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")。
   - Dwayne Bastiany (バスティアニー)。
 
 ## ディスコグラフィー
@@ -40,8 +40,8 @@
           - 07.Nothin' Change (Produced by HirOshima)
               - Sample Credit <small>[David Axelrod](https://ja.wikipedia.org/wiki/:en:David_Axelrod "wikilink") - Wandering Star</small>
           - 11.Dancin' Queenz (Produced by HirOshima)
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") - RG A.I.R.4TH
-          - 06.ヤバスギルスキル pt.6 feat. [ILL-BOSSTINO](https://ja.wikipedia.org/wiki/ザ_ブルーハーブ "wikilink") (Produced by HirOshima)
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") - RG A.I.R.4TH
+          - 06.ヤバスギルスキル pt.6 feat. [ILL-BOSSTINO](../Page/ザ_ブルーハーブ.md "wikilink") (Produced by HirOshima)
           - 13.Hardcore featuring [般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink"), DJ TURBO (Produced by HirOshima)
       - [Bravehearts](https://ja.wikipedia.org/wiki/:en:Bravehearts "wikilink") - [Bravehearted](https://ja.wikipedia.org/wiki/:en:Bravehearted "wikilink")
           - 09.Situations feat. [Nas](https://ja.wikipedia.org/wiki/:en:Nas "wikilink") & [Jully Black](https://ja.wikipedia.org/wiki/:en:Jully_Black "wikilink") (Produced by Dwayne Bastiany)
@@ -73,9 +73,9 @@
   - 2006
       - [Stacie Orrico](https://ja.wikipedia.org/wiki/:en:Stacie_Orrico "wikilink") - [Beautiful Awakening](https://ja.wikipedia.org/wiki/:en:Beautiful_Awakening "wikilink")
           - 01\.[So Simple](https://ja.wikipedia.org/wiki/:en:So_Simple "wikilink") (Produced by Dwayne Bastiany)
-      - [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink") - [Be as one](https://ja.wikipedia.org/wiki/Be_as_one_\(melody.のアルバム\) "wikilink")
+      - [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink") - [Be as one](../Page/Be_as_one_\(melody.のアルバム\).md "wikilink")
           - 06.Promises (Produced by The Ratt Pakk)
-      - [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink") - Still Only One
+      - [YA-KYIM](../Page/YA-KYIM.md "wikilink") - Still Only One
           - 04.Dance with me (Produced by The Ratt Pakk)
           - 06.baby boo, my boy (Produced by The Ratt Pakk)
       - Various Artists - Smooth Sax Tribute to Jamie Foxx
@@ -85,8 +85,8 @@
           - 08.Feels Good To Be Alive
           - 16.U Don’t Know
   - 2007
-      - [ARIA](https://ja.wikipedia.org/wiki/ARIA_\(歌手\) "wikilink") - NEXT DOOR feat.[CHOZEN LEE from FIRE BALL](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink")
-          - 03\. NOT OVER feat.[HOKT](https://ja.wikipedia.org/wiki/HOKT "wikilink") &[BIG RON](https://ja.wikipedia.org/wiki/BIG_RON "wikilink")-NYC Remix- (Produced by The Ratt Pakk)
+      - [ARIA](../Page/ARIA_\(歌手\).md "wikilink") - NEXT DOOR feat.[CHOZEN LEE from FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")
+          - 03\. NOT OVER feat.[HOKT](https://ja.wikipedia.org/wiki/HOKT "wikilink") &[BIG RON](../Page/BIG_RON.md "wikilink")-NYC Remix- (Produced by The Ratt Pakk)
           - 06\. NOT OVER feat.HOKT & BIG RON -NYC Remix- (instrumental) (Produced by The Ratt Pakk)
       - Rodney Wilkerson - Serious
           - 04\. Find Out (Produced by Dwayne Bastiany)
@@ -94,7 +94,7 @@
       - [DJ Drama](https://ja.wikipedia.org/wiki/:en:DJ_Drama "wikilink") - Suite903
           - 03\. Hold On (Remix) (Produced by Dwayne Bastiany)
       - ARIA - THE JUKEBOX
-          - 11.JKP feat. [SHINGO☆西成](https://ja.wikipedia.org/wiki/SHINGO☆西成 "wikilink")
+          - 11.JKP feat. [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")
   - 2008
       - Carteaire Custom - Turn My Buzz Up (Home Away From Home)
           - 17.Put Ya Hands Up (Produced by The Ratt Pakk)
@@ -123,18 +123,18 @@
           - 05.SAKURA
       - LUCK-END - ZERO
           - 06.2011 (Produced by HirOshima)
-      - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink") - [GO](https://ja.wikipedia.org/wiki/GO_\(KREVAのアルバム\) "wikilink")
+      - [KREVA](../Page/KREVA.md "wikilink") - [GO](https://ja.wikipedia.org/wiki/GO_\(KREVAのアルバム\) "wikilink")
           - 03.KILA KILA
-          - 04.蜃気楼 feat.[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")
+          - 04.蜃気楼 feat.[三浦大知](../Page/三浦大知.md "wikilink")
           - 09.パーティーはIZUKO?
       - [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink") - 瞬間 -IN THE MOMENT-
           - 全楽曲プロデュース
       - Fred The Godson - City Of God
           - 17.How You Don't Know Me? feat. [Maino](https://ja.wikipedia.org/wiki/:en:Maino "wikilink") (Produced by HirOshima)
   - 2012
-      - [DJ WATARAI](https://ja.wikipedia.org/wiki/DJ_WATARAI "wikilink")\&VIKN - Bionic Boyz
+      - [DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")\&VIKN - Bionic Boyz
           - 14.Fly away with me (Produced by HirOshima)
-      - [OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink") - OZBUM 〜A:UN〜
+      - [OZROSAURUS](../Page/OZROSAURUS.md "wikilink") - OZBUM 〜A:UN〜
           - 01.Intro
       - LUCK-END - HIGH GRADE CONTENTS VOL.3
           - 01.HATE\&WAR (Produced by HirOshima)
@@ -145,13 +145,13 @@
           - 09.DON'T YOU EVER (Produced by HirOshima)　
       - ISH-ONE - NEXT
           - 06\. Burn
-      - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink") - [REVOLUTION](https://ja.wikipedia.org/wiki/REVOLUTION_\(SEAMOのアルバム\) "wikilink")
+      - [SEAMO](../Page/SEAMO.md "wikilink") - [REVOLUTION](https://ja.wikipedia.org/wiki/REVOLUTION_\(SEAMOのアルバム\) "wikilink")
           - 04.Let's try again
       - Jaem - Ride For The Game
           - 13.Rock N Roll (Produced by HirOshima)　
   - 2013
       - VIKN - CAPITAL
-          - 04.STARTING 5 Ft. [BES](https://ja.wikipedia.org/wiki/BES_\(ヒップホップ・ミュージシャン\) "wikilink"),GUINNESS,A-THUG&[NIPPS](https://ja.wikipedia.org/wiki/NIPPS "wikilink") (Produced by HIROSHIMA\&B-MONEY)
+          - 04.STARTING 5 Ft. [BES](https://ja.wikipedia.org/wiki/BES_\(ヒップホップ・ミュージシャン\) "wikilink"),GUINNESS,A-THUG&[NIPPS](../Page/NIPPS.md "wikilink") (Produced by HIROSHIMA\&B-MONEY)
           - 05\. Fly away with me (Produced by HirOshima)　
           - 07\. Top to bottom Feat [LUNA](https://ja.wikipedia.org/wiki/LUNA_\(1980年生の歌手\) "wikilink")
       - Jaheim - Appreciation Day
@@ -196,9 +196,9 @@
 ## シングル・プロデュース
 
   - 2011
-      - 空のむこう(SORA NO MUKOU) - YING YANG (ISH-ONE,SAGGA), SQUASH SQUAD(LOOTA,VITO), acharu,[Takacha](https://ja.wikipedia.org/wiki/タカチャ "wikilink"),[SALU](https://ja.wikipedia.org/wiki/SALU "wikilink"), SMITH-CN, VIKN, [マイクアキラ](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink"), 道,[Sperb](https://ja.wikipedia.org/wiki/Sperb "wikilink")& NIPPS
-      - KILA KILA/Tan-Kyu-Shin - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")
-      - [H♥PE](https://ja.wikipedia.org/wiki/HOPE_\(MAJOR_MUSICの曲\) "wikilink") - KREVA、後藤正文([ASIAN KUNG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink"))、[Mummy-D](https://ja.wikipedia.org/wiki/Mummy-D "wikilink")& [宇多丸](https://ja.wikipedia.org/wiki/宇多丸 "wikilink")([RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink"))、[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")、SEEDA、[EMI MARIA](https://ja.wikipedia.org/wiki/EMI_MARIA "wikilink")、KOJOE、[lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")、TENZAN、Che'Nell、Karibel
+      - 空のむこう(SORA NO MUKOU) - YING YANG (ISH-ONE,SAGGA), SQUASH SQUAD(LOOTA,VITO), acharu,[Takacha](../Page/タカチャ.md "wikilink"),[SALU](https://ja.wikipedia.org/wiki/SALU "wikilink"), SMITH-CN, VIKN, [マイクアキラ](../Page/四街道ネイチャー.md "wikilink"), 道,[Sperb](https://ja.wikipedia.org/wiki/Sperb "wikilink")& NIPPS
+      - KILA KILA/Tan-Kyu-Shin - [KREVA](../Page/KREVA.md "wikilink")
+      - [H♥PE](https://ja.wikipedia.org/wiki/HOPE_\(MAJOR_MUSICの曲\) "wikilink") - KREVA、後藤正文([ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink"))、[Mummy-D](../Page/Mummy-D.md "wikilink")& [宇多丸](../Page/宇多丸.md "wikilink")([RHYMESTER](../Page/RHYMESTER.md "wikilink"))、[三浦大知](../Page/三浦大知.md "wikilink")、SEEDA、[EMI MARIA](https://ja.wikipedia.org/wiki/EMI_MARIA "wikilink")、KOJOE、[lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")、TENZAN、Che'Nell、Karibel
 
 ## インストゥルメンタルアルバム
 

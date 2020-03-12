@@ -7,11 +7,11 @@
 
 台湾で生まれ育ち、8歳の時に家族と共に[アメリカに移住](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[数学](../Page/数学.md "wikilink")と[科学](../Page/科学.md "wikilink")を愛好し、高校では John Hersey High School に加え[イリノイ数理科学アカデミー](https://ja.wikipedia.org/wiki/イリノイ数理科学アカデミー "wikilink")に通い大学レベルの教育を受ける\[1\]。
 
-[イリノイ大学アーバナ・シャンペーン校](https://ja.wikipedia.org/wiki/イリノイ大学アーバナ・シャンペーン校 "wikilink")で[コンピュータサイエンスを専攻](../Page/計算機科学.md "wikilink")。在学時、同級生であった[マックス・レヴチン](https://ja.wikipedia.org/wiki/マックス・レヴチン "wikilink")の誘いで初期の[PayPal](https://ja.wikipedia.org/wiki/PayPal "wikilink")に入社\[2\]。さまざまなプロジェクトでエンジニアリングマネージャーを務め、会社の[中国進出に従事する](../Page/中華人民共和国.md "wikilink")。
+[イリノイ大学アーバナ・シャンペーン校](../Page/イリノイ大学アーバナ・シャンペーン校.md "wikilink")で[コンピュータサイエンスを専攻](../Page/計算機科学.md "wikilink")。在学時、同級生であった[マックス・レヴチン](https://ja.wikipedia.org/wiki/マックス・レヴチン "wikilink")の誘いで初期の[PayPal](../Page/PayPal.md "wikilink")に入社\[2\]。さまざまなプロジェクトでエンジニアリングマネージャーを務め、会社の[中国進出に従事する](../Page/中華人民共和国.md "wikilink")。
 
 2004年、[フェイスブック](https://ja.wikipedia.org/wiki/フェイスブック "wikilink")の顧問をしていた、[マット・コーラー](https://ja.wikipedia.org/wiki/マット・コーラー "wikilink")により、最初に採用されたエンジニアとして働く。PayPal時代の友達とビデオサイトを作ると言って辞めようとするが、コーラーに「一生、後悔するぞ。[フェイスブック](https://ja.wikipedia.org/wiki/フェイスブック "wikilink")はすぐに大きい会社になるんだ。ビデオサイトなんて掃いて捨てる程あるじゃないか」と説得されるも聞かず、ビデオサイトを作り、ビデオ・サービスを始める。
 
-2005年2月、PayPal で知り合った[チャド・ハーリー](../Page/チャド・ハーリー.md "wikilink")、[ジョード・カリム](https://ja.wikipedia.org/wiki/ジョード・カリム "wikilink")と共にYouTubeを設立。2006年10月、YouTubeを[Google](../Page/Google.md "wikilink")社に対して16億5000万ドルで売却した。
+2005年2月、PayPal で知り合った[チャド・ハーリー](../Page/チャド・ハーリー.md "wikilink")、[ジョード・カリム](../Page/ジョード・カリム.md "wikilink")と共にYouTubeを設立。2006年10月、YouTubeを[Google](../Page/Google.md "wikilink")社に対して16億5000万ドルで売却した。
 
 2006年6月、月刊誌「[Business 2.0](https://ja.wikipedia.org/wiki/Business_2.0 "wikilink")」に今重要な50人の内の一人に選ばれる。2007年5月、[Webby賞](https://ja.wikipedia.org/wiki/Webby賞 "wikilink") Webby Person of the Yearを受賞。
 

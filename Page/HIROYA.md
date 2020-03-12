@@ -1,7 +1,7 @@
 > この記事は[HIROYA](https://ja.wikipedia.org/wiki/HIROYA)から翻訳されています。
 
 
-**HIROYA**（ひろや、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[キックボクサー](https://ja.wikipedia.org/wiki/キックボクサー "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[愛甲郡](../Page/愛甲郡.md "wikilink")[愛川町](https://ja.wikipedia.org/wiki/愛川町 "wikilink")出身。元[krush](https://ja.wikipedia.org/wiki/krush "wikilink") -65kg級王者。WMFアマチュア[ムエタイ](../Page/ムエタイ.md "wikilink")世界選手権ジュニア部門ピン級金メダリスト。弟は同じくキックボクサーの[大雅](https://ja.wikipedia.org/wiki/大雅 "wikilink")。
+**HIROYA**（ひろや、[1992年](../Page/1992年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[キックボクサー](https://ja.wikipedia.org/wiki/キックボクサー "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[愛甲郡](../Page/愛甲郡.md "wikilink")[愛川町](../Page/愛川町.md "wikilink")出身。元[krush](https://ja.wikipedia.org/wiki/krush "wikilink") -65kg級王者。WMFアマチュア[ムエタイ](../Page/ムエタイ.md "wikilink")世界選手権ジュニア部門ピン級金メダリスト。弟は同じくキックボクサーの[大雅](https://ja.wikipedia.org/wiki/大雅 "wikilink")。
 
 ## 来歴
 
@@ -9,35 +9,35 @@
 
 3歳から[空手を始め](https://ja.wikipedia.org/wiki/空手道 "wikilink")、小学4年生から[キックボクシング](../Page/キックボクシング.md "wikilink")を始めた\[1\]。
 
-[2003年](../Page/2003年.md "wikilink")、11歳で「K-1ちびっこファイト」に出場、[魔裟斗](https://ja.wikipedia.org/wiki/魔裟斗 "wikilink")に対面を果たした。
+[2003年](../Page/2003年.md "wikilink")、11歳で「K-1ちびっこファイト」に出場、[魔裟斗](../Page/魔裟斗.md "wikilink")に対面を果たした。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月19日 - 26日、[タイの](../Page/タイ王国.md "wikilink")[タンマサート大学](https://ja.wikipedia.org/wiki/タンマサート大学 "wikilink")で行われた「2005 W.M.F. WORLD CHAMPIONSHIP」に参加。男子ジュニア部門のピン級で優勝した。
+[2005年](../Page/2005年.md "wikilink")3月19日 - 26日、[タイの](../Page/タイ王国.md "wikilink")[タンマサート大学](../Page/タンマサート大学.md "wikilink")で行われた「2005 W.M.F. WORLD CHAMPIONSHIP」に参加。男子ジュニア部門のピン級で優勝した。
 
 2006年2月23日 - 3月1日、[インド](../Page/インド.md "wikilink")の[バンガロール市](https://ja.wikipedia.org/wiki/バンガロール市 "wikilink")内にあるインドア・スタジアムで行われた「2nd OPEN ASIAN KICK BOXING CHAMPIONSHIP 2006」に参加。男子ジュニア・ローキック部門54kg級で優勝し、男子フルコンタクト部門48kg級王者との対決を制した。2006年3月に再びWMF主催の世界選手権に参加。男子ジュニア部門バンタム級で準優勝を果たした。
 
 ### K-1参戦
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月、魔裟斗が所属するシルバーウルフジムを単身で訪れ、自分の技術を見せた（当初、魔裟斗は彼のことを自分のファンだと思い込んでいた）。すると、その技術に驚いた魔裟斗が[谷川貞治](https://ja.wikipedia.org/wiki/谷川貞治 "wikilink")K-1プロデューサーにそのことを報告、同プロデューサーがそのことをHIROYA本人に伝え、K-1参戦が決定した。
+[2006年](../Page/2006年.md "wikilink")9月、魔裟斗が所属するシルバーウルフジムを単身で訪れ、自分の技術を見せた（当初、魔裟斗は彼のことを自分のファンだと思い込んでいた）。すると、その技術に驚いた魔裟斗が[谷川貞治](../Page/谷川貞治.md "wikilink")K-1プロデューサーにそのことを報告、同プロデューサーがそのことをHIROYA本人に伝え、K-1参戦が決定した。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月5日、アマチュアルールでK-1 WORLD MAX 2007 〜日本代表決定トーナメント〜のワンマッチに15歳で参戦。20歳の高橋明宏を3Rにローキックでタオル投入によるTKOで下しK-1初勝利を飾った。
+[2007年](../Page/2007年.md "wikilink")2月5日、アマチュアルールでK-1 WORLD MAX 2007 〜日本代表決定トーナメント〜のワンマッチに15歳で参戦。20歳の高橋明宏を3Rにローキックでタオル投入によるTKOで下しK-1初勝利を飾った。
 
 2007年4月4日、K-1 WORLD MAX 2007 〜世界最終選抜〜において、西村憲孝と対戦。1Rに3度のダウンを奪い、1RKO勝ち。
 
 #### タイ留学・ムエタイ修行
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月の中学卒業後、タイ・バンコクのセントジョーンズ・インターナショナルハイスクールへ留学し、学業をこなすと同時に[ムエタイ](../Page/ムエタイ.md "wikilink")の修行を行う。
+[2007年](../Page/2007年.md "wikilink")3月の中学卒業後、タイ・バンコクのセントジョーンズ・インターナショナルハイスクールへ留学し、学業をこなすと同時に[ムエタイ](../Page/ムエタイ.md "wikilink")の修行を行う。
 
 2007年9月1日、[タイでサクダー](../Page/タイ王国.md "wikilink")・ルークロムクラーオと対戦し、2RKO勝ち。
 
 2007年10月3日、K-1 WORLD MAX 2007 〜世界一決定トーナメント決勝戦〜において、高校3年生の韓国人選手クォン・オルチャンと対戦。お互いに最後までKOを狙う攻防となったが、勝負は判定での勝利となった。
 
-2007年12月31日、[K-1 PREMIUM 2007 Dynamite\!\!で開催された](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2007_Dynamite!! "wikilink")「K-1甲子園 U-18日本一決定トーナメント」に出場。1回戦で[才賀紀左衛門](https://ja.wikipedia.org/wiki/才賀紀左衛門 "wikilink")と対戦し判定勝ちを収めたが、決勝で[雄大](https://ja.wikipedia.org/wiki/雄大 "wikilink")と再戦し、打ち合った結果、延長ラウンドで判定負けでリベンジ失敗。
+2007年12月31日、[K-1 PREMIUM 2007 Dynamite\!\!で開催された](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2007_Dynamite!! "wikilink")「K-1甲子園 U-18日本一決定トーナメント」に出場。1回戦で[才賀紀左衛門](../Page/才賀紀左衛門.md "wikilink")と対戦し判定勝ちを収めたが、決勝で[雄大](../Page/雄大.md "wikilink")と再戦し、打ち合った結果、延長ラウンドで判定負けでリベンジ失敗。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月3日、「K-1甲子園」で優勝できなかったケジメとして、頭を丸刈りにした\[2\]。
 
 2008年2月2日、[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜で行われたオランダとの](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜 "wikilink")3対3対抗戦・大将戦でロビー・ハヘマンと対戦し、2RKO勝ち。
 
-2008年4月9日、[K-1 WORLD MAX 2008 World Championship Tournament FINAL16で大晦日に対戦が流れた](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_World_Championship_Tournament_FINAL16 "wikilink")[藤鬥嘩裟](https://ja.wikipedia.org/wiki/藤鬥嘩裟 "wikilink")と改めて対戦し、判定勝ち。試合前から舌戦を繰り広げた。
+2008年4月9日、[K-1 WORLD MAX 2008 World Championship Tournament FINAL16で大晦日に対戦が流れた](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_World_Championship_Tournament_FINAL16 "wikilink")[藤鬥嘩裟](../Page/藤鬥嘩裟.md "wikilink")と改めて対戦し、判定勝ち。試合前から舌戦を繰り広げた。
 
 2008年8月29日、[K-1甲子園 KING OF UNDER 18 〜FINAL16〜のK](https://ja.wikipedia.org/wiki/K-1甲子園_KING_OF_UNDER_18_〜FINAL16〜 "wikilink")-1甲子園2008 1回戦で園田顕悟と対戦。2Rに右フック、3Rに左ストレートでそれぞれダウンを奪うなどして判定勝ち。
 
@@ -45,9 +45,9 @@
 
 2008年12月31日、[Dynamite\!\! 〜勇気のチカラ2008〜のK](https://ja.wikipedia.org/wiki/Dynamite!!_〜勇気のチカラ2008〜 "wikilink")-1甲子園2008準決勝で[嶋田翔太](https://ja.wikipedia.org/wiki/嶋田翔太 "wikilink")に3-0の判定勝ち、続く決勝では[卜部功也](https://ja.wikipedia.org/wiki/卜部功也 "wikilink")に3-0の判定勝ちで優勝を果たした。
 
-[2009年](../Page/2009年.md "wikilink")2月23日、[K-1 WORLD MAX 2009 〜日本代表決定トーナメント〜で](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_〜日本代表決定トーナメント〜 "wikilink")[才賀紀左衛門](https://ja.wikipedia.org/wiki/才賀紀左衛門 "wikilink")と再戦し、2-0の判定勝ちを収めた。
+[2009年](../Page/2009年.md "wikilink")2月23日、[K-1 WORLD MAX 2009 〜日本代表決定トーナメント〜で](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_〜日本代表決定トーナメント〜 "wikilink")[才賀紀左衛門](../Page/才賀紀左衛門.md "wikilink")と再戦し、2-0の判定勝ちを収めた。
 
-2009年4月21日、[K-1 WORLD MAX 2009 World Championship Tournament FINAL16で](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_World_Championship_Tournament_FINAL16 "wikilink")[魔裟斗](https://ja.wikipedia.org/wiki/魔裟斗 "wikilink")とエキシビションマッチで対戦した。
+2009年4月21日、[K-1 WORLD MAX 2009 World Championship Tournament FINAL16で](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_World_Championship_Tournament_FINAL16 "wikilink")[魔裟斗](../Page/魔裟斗.md "wikilink")とエキシビションマッチで対戦した。
 
 2009年7月13日、[K-1 WORLD MAX 2009 World Championship Tournament FINAL8で](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_World_Championship_Tournament_FINAL8 "wikilink")、総合格闘家[キコ・ロペス](https://ja.wikipedia.org/wiki/キコ・ロペス "wikilink")と対戦。HIROYAは前日計量では1.7kgも体重超過した。2Rに右膝蹴りでダウンを奪うなどして3-0の判定勝ちを収めた\[3\]。
 
@@ -59,7 +59,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月、セントジョーンズインターナショナルハイスクールを卒業し、帰国\[5\]。同年8月、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")（[古淵駅](https://ja.wikipedia.org/wiki/古淵駅 "wikilink")）に自ら代表を務めるキックボクシングジム「Try Hard Gym」をオープンした\[6\]。
 
-2010年11月8日、[K-1 WORLD MAX 2010 -70kg World Championship Tournament FINALで](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2010_-70kg_World_Championship_Tournament_FINAL "wikilink")[久保優太](https://ja.wikipedia.org/wiki/久保優太 "wikilink")と対戦し、0-3の判定負けを喫した\[7\]。
+2010年11月8日、[K-1 WORLD MAX 2010 -70kg World Championship Tournament FINALで](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2010_-70kg_World_Championship_Tournament_FINAL "wikilink")[久保優太](../Page/久保優太.md "wikilink")と対戦し、0-3の判定負けを喫した\[7\]。
 
 2011年5月15日、谷山ジム主催「ビッグバン・統一への道 其の五」で、J-NETWORKライト級王者[黒田アキヒロ](https://ja.wikipedia.org/wiki/黒田アキヒロ "wikilink")と対戦し、3-0の判定勝ちを収めた。
 
@@ -83,7 +83,7 @@
 
 2014年11月3日、K-1 WORLD GP -65kg級初代王座決定トーナメント1回戦でマイケル・"トマホーク"・トンプソンと対戦し、2-0の判定勝利を収めるが、準決勝で[左右田泰臣](https://ja.wikipedia.org/wiki/左右田泰臣 "wikilink")に0-2の判定負けを喫した。
 
-2015年12月29日、[RIZIN FIGHTING WORLD GRAND-PRIX 2015 さいたま3DAYSで総合格闘家の](https://ja.wikipedia.org/wiki/RIZIN_FIGHTING_WORLD_GRAND-PRIX_2015_さいたま3DAYS "wikilink")[西浦"ウィッキー"聡生と対戦し](https://ja.wikipedia.org/wiki/西浦聡生 "wikilink")、KO勝ち。
+2015年12月29日、[RIZIN FIGHTING WORLD GRAND-PRIX 2015 さいたま3DAYSで総合格闘家の](https://ja.wikipedia.org/wiki/RIZIN_FIGHTING_WORLD_GRAND-PRIX_2015_さいたま3DAYS "wikilink")[西浦"ウィッキー"聡生と対戦し](../Page/西浦聡生.md "wikilink")、KO勝ち。
 
 2016年3月4日、K-1 WORLD GP 2016 -65kg級日本代表決定トーナメント1回戦で寺崎直樹と再戦しKO勝ち。準決勝で[野杁正明](https://ja.wikipedia.org/wiki/野杁正明 "wikilink")と対戦し、判定負け。
 
@@ -112,8 +112,8 @@
 
 ## 関連項目
 
-  - [男子キックボクサー一覧](https://ja.wikipedia.org/wiki/男子キックボクサー一覧 "wikilink")
-  - [K-1選手一覧](https://ja.wikipedia.org/wiki/K-1選手一覧 "wikilink")
+  - [男子キックボクサー一覧](../Page/男子キックボクサー一覧.md "wikilink")
+  - [K-1選手一覧](../Page/K-1選手一覧.md "wikilink")
 
 ## 外部リンク
 

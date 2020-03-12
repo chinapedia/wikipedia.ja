@@ -1,12 +1,12 @@
 > この記事は[Janne Da Arc 10th Anniversary INDIES COMPLETE BOX](https://ja.wikipedia.org/wiki/Janne_Da_Arc_10th_Anniversary_INDIES_COMPLETE_BOX)から翻訳されています。
 
 
-『**Janne Da Arc 10th Anniversary INDIES COMPLETE BOX**』（ジャンヌダルクテンスアニバーサリーインディーズコンプリートボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[Janne Da Arcの](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")[ボックス・セット](https://ja.wikipedia.org/wiki/ボックス・セット "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")（[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")）。
+『**Janne Da Arc 10th Anniversary INDIES COMPLETE BOX**』（ジャンヌダルクテンスアニバーサリーインディーズコンプリートボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ボックス・セット](../Page/ボックス・セット.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")（[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")）。
 
 ## 内容
 
   - Janne Da Arc結成10周年を記念して、5万セット限定で発売された。[インディーズ](../Page/インディーズ.md "wikilink")時代にリリースされたアルバム『[Dearly](../Page/Dearly_\(アルバム\).md "wikilink")』『[Resist](../Page/Resist.md "wikilink")』『[CHAOS MODE](../Page/CHAOS_MODE.md "wikilink")』と[DVD](../Page/DVD.md "wikilink")の3CD+DVDのボックス・セットである。
-  - 『CHAOS MODE』は[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")・[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")を施し、更に未発表曲「MISTAKE」「Jesus Christ」を加え、『CHAOS MODE -10th Anniversary Version-』として本作に収録された。なお、追加された2曲については、歌詞は掲載されていない。
+  - 『CHAOS MODE』は[リミックス](../Page/リミックス.md "wikilink")・[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")を施し、更に未発表曲「MISTAKE」「Jesus Christ」を加え、『CHAOS MODE -10th Anniversary Version-』として本作に収録された。なお、追加された2曲については、歌詞は掲載されていない。
 
 ## 収録曲
 

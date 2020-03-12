@@ -1,7 +1,7 @@
 > この記事は[With!!](https://ja.wikipedia.org/wiki/With!!)から翻訳されています。
 
 
-『**with\!\!**（ウィズ\!\!）』は、[斎藤けん](https://ja.wikipedia.org/wiki/斎藤けん "wikilink")による[少女漫画](../Page/少女漫画.md "wikilink")。『[LaLa](../Page/LaLa.md "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月号から[2007年](../Page/2007年.md "wikilink")1月号まで連載の後、掲載誌を移し、『[LaLa DX](../Page/LaLa_DX.md "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月号から[2009年](../Page/2009年.md "wikilink")7月号まで連載した。単行本は全4巻。
+『**with\!\!**（ウィズ\!\!）』は、[斎藤けん](../Page/斎藤けん.md "wikilink")による[少女漫画](../Page/少女漫画.md "wikilink")。『[LaLa](../Page/LaLa.md "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）[2006年](../Page/2006年.md "wikilink")2月号から[2007年](../Page/2007年.md "wikilink")1月号まで連載の後、掲載誌を移し、『[LaLa DX](../Page/LaLa_DX.md "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月号から[2009年](../Page/2009年.md "wikilink")7月号まで連載した。単行本は全4巻。
 
 ## あらすじ
 
@@ -49,7 +49,7 @@
 
 ## 書誌情報
 
-  - [斎藤けん](https://ja.wikipedia.org/wiki/斎藤けん "wikilink") 『with\!\!』 [白泉社](../Page/白泉社.md "wikilink")〈[花とゆめコミックス](../Page/花とゆめコミックス.md "wikilink")〉、全4巻
+  - [斎藤けん](../Page/斎藤けん.md "wikilink") 『with\!\!』 [白泉社](../Page/白泉社.md "wikilink")〈[花とゆめコミックス](../Page/花とゆめコミックス.md "wikilink")〉、全4巻
     1.  2006年7月5日発売、ISBN 4-592-18206-5
           - 「桐島亭の魔法」（『LaLa』2005年7月号掲載）を併録
     2.  2007年3月5日発売、ISBN 978-4-592-18207-8

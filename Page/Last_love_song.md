@@ -23,8 +23,8 @@
 
 ## 収録アルバム
 
-  - [SPARKLE 〜筋書き通りのスカイブルー〜](https://ja.wikipedia.org/wiki/SPARKLE_〜筋書き通りのスカイブルー〜 "wikilink")（\#1）
-  - [Best](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROWのアルバム\) "wikilink")（\#1）
+  - [SPARKLE 〜筋書き通りのスカイブルー〜](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")（\#1）
+  - [Best](../Page/Best_\(GARNET_CROWのアルバム\).md "wikilink")（\#1）
   - [THE BEST History of GARNET CROW at the crest...](https://ja.wikipedia.org/wiki/THE_BEST_History_of_GARNET_CROW_at_the_crest... "wikilink")(通常盤)（\#1）
   - THE BEST History of GARNET CROW at the crest...(初回限定盤)（\#1,2）
   - [GOODBYE LONELY 〜Bside collection〜](https://ja.wikipedia.org/wiki/GOODBYE_LONELY_〜Bside_collection〜 "wikilink") (\#2)

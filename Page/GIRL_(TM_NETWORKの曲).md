@@ -5,7 +5,7 @@
 
 ## 解説
 
-アルバム『[GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")』からのリカット・シングル。[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")の強いプッシュでリカットになったという。ドラマの主題歌にふさわしいとの理由だったが、タイアップはつかなかった。
+アルバム『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』からのリカット・シングル。[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")の強いプッシュでリカットになったという。ドラマの主題歌にふさわしいとの理由だったが、タイアップはつかなかった。
 
 この曲のドラムスはリズムマシーンによるもの。無機的なリズム、切ないボーカルの歌い方、その中間で絡み合う様々なシンセ音を併存させ、曲が空中分解するくらいの雰囲気を狙ったとされている。 あるフレーズが別のフレーズを追いかける対位法っぽいところがあって、アンサンブルが高度であるとのことである。 リズムマシーンとベース、ギター、ピアノがあれば、この曲の雰囲気は再現可能とのことである。 この曲のキーはG\#マイナーである。キーボードの黒鍵が多く使う程、哀愁のある響きになると小室はインタビューに答えている。 \[1\]
 
@@ -22,22 +22,22 @@
 
 **GIRL**
 
-  - [GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")
-  - [NAOTO KINE PRESENTS TMN BLUE](https://ja.wikipedia.org/wiki/NAOTO_KINE_PRESENTS_TMN_BLUE "wikilink")
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")
+  - [NAOTO KINE PRESENTS TMN BLUE](../Page/NAOTO_KINE_PRESENTS_TMN_BLUE.md "wikilink")
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink")
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")
 
 **雨に誓って〜SAINT RAIN〜**
 
-  - [GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")
-  - [THE LEGEND TM NETWORK](https://ja.wikipedia.org/wiki/THE_LEGEND_\(TM_NETWORKのアルバム\) "wikilink")
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink")
+  - [GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")
+  - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:変イ短調](https://ja.wikipedia.org/wiki/Category:変イ短調 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 

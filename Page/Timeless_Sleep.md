@@ -5,7 +5,7 @@
 
 ## 解説
 
-この曲からフルサイズの[プロモーションビデオが作られるようになった](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。プロモーションビデオは[浜寺公園駅](https://ja.wikipedia.org/wiki/浜寺公園駅 "wikilink")でロケが行われている。
+この曲からフルサイズの[プロモーションビデオが作られるようになった](../Page/ミュージック・ビデオ.md "wikilink")。プロモーションビデオは[浜寺公園駅](https://ja.wikipedia.org/wiki/浜寺公園駅 "wikilink")でロケが行われている。
 
 ## 収録曲
 
@@ -27,8 +27,8 @@
 
 **Timeless Sleep**
 
-  - [SPARKLE 〜筋書き通りのスカイブルー〜](https://ja.wikipedia.org/wiki/SPARKLE_〜筋書き通りのスカイブルー〜 "wikilink")
-  - [Best](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROWのアルバム\) "wikilink")
+  - [SPARKLE 〜筋書き通りのスカイブルー〜](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")
+  - [Best](../Page/Best_\(GARNET_CROWのアルバム\).md "wikilink")
 
 <!-- end list -->
 

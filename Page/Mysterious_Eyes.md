@@ -5,7 +5,7 @@
 
 ## 概要
 
-2ndシングル「[君の家に着くまでずっと走ってゆく](https://ja.wikipedia.org/wiki/君の家に着くまでずっと走ってゆく "wikilink")」との同時発売でのメジャーデビューということで各方面から話題を集めた。「君の家に着くまでずっと走ってゆく」や、3rdシングルとなった「[二人のロケット](https://ja.wikipedia.org/wiki/二人のロケット "wikilink")」は、インディーズアルバム『[first kaleidscope 〜君の家に着くまでずっと走ってゆく〜](https://ja.wikipedia.org/wiki/first_kaleidscope_〜君の家に着くまでずっと走ってゆく〜 "wikilink")』にも収録されていた（「君の家に着くまでずっと走ってゆく」はアレンジが異なる）が、「Mysterious Eyes」は完全オリジナルの楽曲である。
+2ndシングル「[君の家に着くまでずっと走ってゆく](../Page/君の家に着くまでずっと走ってゆく.md "wikilink")」との同時発売でのメジャーデビューということで各方面から話題を集めた。「君の家に着くまでずっと走ってゆく」や、3rdシングルとなった「[二人のロケット](../Page/二人のロケット.md "wikilink")」は、インディーズアルバム『[first kaleidscope 〜君の家に着くまでずっと走ってゆく〜](https://ja.wikipedia.org/wiki/first_kaleidscope_〜君の家に着くまでずっと走ってゆく〜 "wikilink")』にも収録されていた（「君の家に着くまでずっと走ってゆく」はアレンジが異なる）が、「Mysterious Eyes」は完全オリジナルの楽曲である。
 
 メジャーデビュー前から、アニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』にタイアップがつくなど話題になり、オリコンチャート内に10週以上もチャートインするロングヒットとなった。シングルの売上では、10thシングル『[夢みたあとで](../Page/夢みたあとで.md "wikilink")』に次いで2位となっている。
 
@@ -27,9 +27,9 @@
 
 **Mysterious Eyes**
 
-  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")
+  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")
   - [first soundscope 〜水のない晴れた海へ〜](https://ja.wikipedia.org/wiki/first_soundscope_〜水のない晴れた海へ〜 "wikilink")
-  - [Best](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROWのアルバム\) "wikilink")
+  - [Best](../Page/Best_\(GARNET_CROWのアルバム\).md "wikilink")
   - [THE BEST History of GARNET CROW at the crest...](https://ja.wikipedia.org/wiki/THE_BEST_History_of_GARNET_CROW_at_the_crest... "wikilink")
   - [GIZA studio presents -Girls-](https://ja.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")
   - [THE ONE 〜ALL SINGLES BEST〜](https://ja.wikipedia.org/wiki/THE_ONE_〜ALL_SINGLES_BEST〜 "wikilink")
@@ -38,7 +38,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">オープニングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
 <a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/11月15日.md" title="wikilink">11月15日</a> - <a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 </tr>
 <tr class="even">

@@ -17,7 +17,7 @@
 
   - voice 狂華(キョウカ) 誕生日8月17日 血液型O 広島県出身 兵庫県育ち
 
-華美な衣装を纏った外見とは裏腹に、悲鳴に限りなく近いシャウトを頻発する。精神世界を吐露した猟奇的な世界を描いた歌詞が特長。その後は[La'Mule](https://ja.wikipedia.org/wiki/La'Mule "wikilink")とYOU-YAと[DAS:VASSER](https://ja.wikipedia.org/wiki/DAS:VASSER "wikilink")と秀暁達とPink-Tribalというバンドを結成した。現在はInsanity Injectionというバンドで活動している。
+華美な衣装を纏った外見とは裏腹に、悲鳴に限りなく近いシャウトを頻発する。精神世界を吐露した猟奇的な世界を描いた歌詞が特長。その後は[La'Mule](../Page/La'Mule.md "wikilink")とYOU-YAと[DAS:VASSER](../Page/DAS:VASSER.md "wikilink")と秀暁達とPink-Tribalというバンドを結成した。現在はInsanity Injectionというバンドで活動している。
 
   - Guitars MAST(マスト) 誕生日11月8日 血液型A 出身地 兵庫県
 
@@ -33,11 +33,11 @@
 
 ### 1998年
 
-1998年3月、関西のローカルバンド**autism**を前身として結成された。同年5月よりシークレットのライブ活動を始め、6月27日に[新宿LOFTでファーストライブを行う](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。8月には初の音源『傀儡人形』を発売。その後も、東京近郊のライブイベントに継続的な出演をし、翌年1999年1月、[池袋CYBER](https://ja.wikipedia.org/wiki/池袋CYBER "wikilink")にて「古の愛物語（ストーリー）」と題したワンマン公演を3ヶ月続けて行う。
+1998年3月、関西のローカルバンド**autism**を前身として結成された。同年5月よりシークレットのライブ活動を始め、6月27日に[新宿LOFTでファーストライブを行う](../Page/ロフト_\(ライブハウス\).md "wikilink")。8月には初の音源『傀儡人形』を発売。その後も、東京近郊のライブイベントに継続的な出演をし、翌年1999年1月、[池袋CYBER](https://ja.wikipedia.org/wiki/池袋CYBER "wikilink")にて「古の愛物語（ストーリー）」と題したワンマン公演を3ヶ月続けて行う。
 
 ### 1999年
 
-その頃、狂華とRayの音楽的な対立から、両者共に非常に険悪な状態になっており、当初1月に発売予定のアルバムも、製作を前年10月に開始しながら未だ完成を見ていなかった。だが、ワンマン公演の間に発売された所属事務所のオムニバスアルバムに、パイロット版として収録した「*SUICIDE*」で手応えを掴んだバンドは、音楽性をより激しく、よりダークネスな方向へと絞り、*[SHOXX](https://ja.wikipedia.org/wiki/SHOXX "wikilink")*主催イベント「SHOCK WAVE 春の陣」の出演の後、5月にファーストアルバム『*Les Soirée* 夜の舞踏会/洗礼の章～生誕篇』を発表した。同月30日、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で行われたKEY PARTY主催のイベント「HOLD YOUR KEY ～鍵を握れ！」に出演し、時計盤を摸したアルバムの視覚的なインパクトも手伝って、全国的にその名が知れ渡る事となる。
+その頃、狂華とRayの音楽的な対立から、両者共に非常に険悪な状態になっており、当初1月に発売予定のアルバムも、製作を前年10月に開始しながら未だ完成を見ていなかった。だが、ワンマン公演の間に発売された所属事務所のオムニバスアルバムに、パイロット版として収録した「*SUICIDE*」で手応えを掴んだバンドは、音楽性をより激しく、よりダークネスな方向へと絞り、*[SHOXX](../Page/SHOXX.md "wikilink")*主催イベント「SHOCK WAVE 春の陣」の出演の後、5月にファーストアルバム『*Les Soirée* 夜の舞踏会/洗礼の章～生誕篇』を発表した。同月30日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われたKEY PARTY主催のイベント「HOLD YOUR KEY ～鍵を握れ！」に出演し、時計盤を摸したアルバムの視覚的なインパクトも手伝って、全国的にその名が知れ渡る事となる。
 
 続くアルバム『*Les Soirée* 夜の舞踏会/断罪の章～神罰篇』の発売に併せ、7月から全国でインストアイベントを実施。同時に「HOLD YOUR KEY TOUR '99」の東名阪公演、「SHOCK WAVE 夏の陣」にも出演するなど精力的に活動を続け、10月22日、[渋谷ON AIR WESTにてワンマン](https://ja.wikipedia.org/wiki/渋谷ON_AIR_WEST "wikilink")「夜の舞踏会～*Les Soirée*」を敢行する。そして12月には、写真集『*Les Soirée*～完結篇』を発売し、同月26日に開催された[渋谷ON AIR EASTでのワンマン](https://ja.wikipedia.org/wiki/渋谷ON_AIR_EAST "wikilink")「夜の舞踏会～*Les Soirée*（異形の晩餐）」を以て、「*Les Soirée*」を冠した「第一部」を完結させた。
 
@@ -66,7 +66,7 @@
   - 狂華は、[Chaos systemを結成](https://ja.wikipedia.org/wiki/Chaos_system "wikilink")。2006年からは、元KEY PARTY所属のミュージシャンによって結成されたDeflina Ma’riage（2007年に解散）での活動も並行して始める。
   - MASTは、2005年11月に[MILを解散後](https://ja.wikipedia.org/wiki/MIL_\(バンド\) "wikilink")、セッションバンドの活動が中心になりつつも新バンドの準備中。
   - Rayは、[vinett](https://ja.wikipedia.org/wiki/vinett "wikilink")を経て[ネガを結成](https://ja.wikipedia.org/wiki/ネガ_\(バンド\) "wikilink")。途中、MILのサポートも務めた。
-  - [2011年](../Page/2011年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")、[凛のベーシスト](https://ja.wikipedia.org/wiki/凛_\(バンド\) "wikilink")[KISAKI](https://ja.wikipedia.org/wiki/KISAKI "wikilink")が代表を務める[UNDER CODE PRODUCTIONプロデュースの下](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて一日限りの復活ライブを行う予定。
+  - [2011年](../Page/2011年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")、[凛のベーシスト](https://ja.wikipedia.org/wiki/凛_\(バンド\) "wikilink")[KISAKI](../Page/KISAKI.md "wikilink")が代表を務める[UNDER CODE PRODUCTIONプロデュースの下](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて一日限りの復活ライブを行う予定。
 
 ## ディスコグラフィ
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - **『Les Soirée 夜の舞踏会/洗礼の章～生誕篇』**（[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）
+  - **『Les Soirée 夜の舞踏会/洗礼の章～生誕篇』**（[日本クラウン](../Page/日本クラウン.md "wikilink")）
 
 <!-- end list -->
 
@@ -264,7 +264,7 @@
 
 2000年10月27日からの渋谷ON AIR WEST 2DAYS公演「*La Matinée*～高貴なる血族祭」より、オフィシャルファンクラブ**「La Matinée」**発足。入会特典として、書き下ろし曲を収録したCDのプレゼントがアナウンスされていたが、キーパーティー本社及びレコーディングスタジオの移転・拡張工事の影響を受け、大幅に製作が遅れる事になる。その他、会報の隔月発行やトークイベントの開催等、会員限定のサービスが充実していたが、バンド解散に伴い一年と保たずに消滅した。
 
-2冊だけ発行された会報は共に短冊形12頁の形態をしており、使用楽器の紹介、過去に発売された音源のレコーディングエピソード等が掲載された。その他にも、「○○の部屋」というタイトルを冠された、メンバーが自由に内容を決めて執筆した頁がそれぞれ1～2頁ずつあり、「狂華の部屋」では2号に亘り自らの飼っているペットを紹介し、「MASTの部屋」は1号で「マストの、ギターキッズのための名盤紹介」としてハードロックアルバム（[ミスター・ビッグ](https://ja.wikipedia.org/wiki/ミスター・ビッグ "wikilink")、[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")）を紹介、2号では「SUICIDE」や「Vargin Mary」のギターTAB（一部）を掲載、「Rayの部屋」は仲の良いプロレスラーの試合を観戦したときのコラムや行きつけのCDショップを紹介した。
+2冊だけ発行された会報は共に短冊形12頁の形態をしており、使用楽器の紹介、過去に発売された音源のレコーディングエピソード等が掲載された。その他にも、「○○の部屋」というタイトルを冠された、メンバーが自由に内容を決めて執筆した頁がそれぞれ1～2頁ずつあり、「狂華の部屋」では2号に亘り自らの飼っているペットを紹介し、「MASTの部屋」は1号で「マストの、ギターキッズのための名盤紹介」としてハードロックアルバム（[ミスター・ビッグ](https://ja.wikipedia.org/wiki/ミスター・ビッグ "wikilink")、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")）を紹介、2号では「SUICIDE」や「Vargin Mary」のギターTAB（一部）を掲載、「Rayの部屋」は仲の良いプロレスラーの試合を観戦したときのコラムや行きつけのCDショップを紹介した。
 
 ### FC限定販売品
 

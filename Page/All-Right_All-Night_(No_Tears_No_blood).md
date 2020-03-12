@@ -9,15 +9,15 @@
 
 [読売ランド・EASTで行われた野外ライブ](../Page/よみうりランド.md "wikilink")「FANKS "FANTASY" DYNA-MIX」用に作られた曲。前作『GORILLA』の流れを汲むホーンセクション、カッティングギターを前面を押し出した曲。
 
-シングルリリース前に[ライブで初披露](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。そのときのものとリリースされたものは[歌詞](../Page/歌詞.md "wikilink")が異なる。またこのときの仮歌詞は、ライブの前日に完成した。
+シングルリリース前に[ライブで初披露](../Page/演奏会.md "wikilink")。そのときのものとリリースされたものは[歌詞](../Page/歌詞.md "wikilink")が異なる。またこのときの仮歌詞は、ライブの前日に完成した。
 
-シングルとしてリリースしたのは前作『[GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")』で提示したFANKSをさらに推し進める為。
+シングルとしてリリースしたのは前作『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』で提示したFANKSをさらに推し進める為。
 
-作風は1stアルバム「[RAINBOW RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_RAINBOW "wikilink")」の雰囲気の延長線上であることを意識し、「[イパネマ'84](https://ja.wikipedia.org/wiki/RAINBOW_RAINBOW "wikilink")」みたいに[反戦歌](https://ja.wikipedia.org/wiki/反戦歌 "wikilink")をイメージして制作した\[1\]。
+作風は1stアルバム「[RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink")」の雰囲気の延長線上であることを意識し、「[イパネマ'84](../Page/RAINBOW_RAINBOW.md "wikilink")」みたいに[反戦歌](../Page/反戦歌.md "wikilink")をイメージして制作した\[1\]。
 
 宇都宮は「こんな難しいメロディ・速さ・歌詞を歌いながら動かなければいけないから、きつかった。逆にこれまでの余計なクセが取れ、歌詞がちゃんと発音できて、ハッキリとノリがわかるようになり、楽しんでいる自分がいる」と評し、小室は「特にAメロでは無理な注文をしてしまった。だけどウツの新たな個性・特技・特徴が生まれた」と語っている\[2\]。
 
-また、シングルの[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")が[インストゥルメンタルになっているのは](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、今回が初めてのケースである（「[Your Song](https://ja.wikipedia.org/wiki/YOUR_SONG_\("D"Mix\) "wikilink")」のカップリング曲もインストゥルメンタルだが、[リミックス](../Page/リミックス.md "wikilink")・エディットが加わっている）。こうした理由は他にシングル候補曲が3曲あり、カップリング曲にまわすにはもったいなかったから、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")ではシングルでもインストゥルメンタルが多いから、と小室がコメントしている。
+また、シングルの[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")が[インストゥルメンタルになっているのは](../Page/器楽曲.md "wikilink")、今回が初めてのケースである（「[Your Song](../Page/YOUR_SONG_\("D"Mix\).md "wikilink")」のカップリング曲もインストゥルメンタルだが、[リミックス](../Page/リミックス.md "wikilink")・エディットが加わっている）。こうした理由は他にシングル候補曲が3曲あり、カップリング曲にまわすにはもったいなかったから、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")ではシングルでもインストゥルメンタルが多いから、と小室がコメントしている。
 
 A面曲とB面曲では、1サビ目からの間奏が、B面曲は1フレーズ長い。
 
@@ -34,13 +34,13 @@ A面曲とB面曲では、1サビ目からの間奏が、B面曲は1フレーズ
 
   - [Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink") (アルバムバージョン)
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [BEST TRACKS ～A message to the next generation～](https://ja.wikipedia.org/wiki/BEST_TRACKS_～A_message_to_the_next_generation～ "wikilink")
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 ## 脚注
 
@@ -52,5 +52,5 @@ A面曲とB面曲では、1サビ目からの間奏が、B面曲は1フレーズ
 
 [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:ハ長調](https://ja.wikipedia.org/wiki/Category:ハ長調 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
-1.  [自由国民社](https://ja.wikipedia.org/wiki/自由国民社 "wikilink")刊「[シンプジャーナル](https://ja.wikipedia.org/wiki/シンプジャーナル "wikilink")」1987年1月号73P-74Pより。
+1.  [自由国民社](../Page/自由国民社.md "wikilink")刊「[シンプジャーナル](https://ja.wikipedia.org/wiki/シンプジャーナル "wikilink")」1987年1月号73P-74Pより。
 2.

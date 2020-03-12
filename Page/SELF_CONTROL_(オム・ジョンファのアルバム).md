@@ -1,7 +1,7 @@
 > この記事は[SELF CONTROL \(\)](https://ja.wikipedia.org/wiki/SELF_CONTROL_\(\))から翻訳されています。
 
 
-'''SELF CONTROL '''（セルフ コントロール）は[オム・ジョンファ](https://ja.wikipedia.org/wiki/オム・ジョンファ "wikilink") の8枚目のオリジナルアルバム。[2004年](../Page/2004年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[Sony Musicよりリリースされた](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+'''SELF CONTROL '''（セルフ コントロール）は[オム・ジョンファ](../Page/オム・ジョンファ.md "wikilink") の8枚目のオリジナルアルバム。[2004年](../Page/2004年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[Sony Musicよりリリースされた](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
   - 彼女の作品では初めて2枚組としてリリース。それぞれ「SELF SIDE」「CONTROL SIDE」と名付けられている。
   - 当時本人の音楽志向が強く反映された「SELF SIDE」はエレクトロニカが中心。「CONTROL SIDE」はチュ・ヨンフンらによる王道韓国歌謡が収められている。
   - 日本からはAnisが参加、「IN THIS RAIN」でデュエットをしている。また「ETERNITY（ELECTRONIC BOSSA MIX)」を[URU](https://ja.wikipedia.org/wiki/URU "wikilink")が担当している。
-  - 「SELF SIDE」のエレクトロニカという音楽性から、「クラブで遊ぶ人に楽しんでもらいたい」というコンセプトで、CDリリース直前に[狎鴎亭](https://ja.wikipedia.org/wiki/狎鴎亭 "wikilink")にあるクラブでショーケースが行われ楽曲が披露された。
+  - 「SELF SIDE」のエレクトロニカという音楽性から、「クラブで遊ぶ人に楽しんでもらいたい」というコンセプトで、CDリリース直前に[狎鴎亭](../Page/狎鴎亭.md "wikilink")にあるクラブでショーケースが行われ楽曲が披露された。
 
 ## 収録曲
 

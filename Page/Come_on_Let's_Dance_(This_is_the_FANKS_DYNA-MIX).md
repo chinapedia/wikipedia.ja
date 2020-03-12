@@ -5,7 +5,7 @@
 
 ## 内容
 
-アルバム「**[GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")**」の先行シングル。ただし、シングル版とアルバム版はアレンジが若干異なっており、アルバム版はシングル版のサブタイトルは付かず、イントロ・間奏・リフレイン・アウトロが短縮されており演奏時間も3分台に短縮されている。また、アルバム版のイントロは前曲「**I WANT TV**」のアウトロと繋がっており、CDの頭出しにおいて「I WANT TV」のアウトロが入り込んで聞こえる。
+アルバム「**[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")**」の先行シングル。ただし、シングル版とアルバム版はアレンジが若干異なっており、アルバム版はシングル版のサブタイトルは付かず、イントロ・間奏・リフレイン・アウトロが短縮されており演奏時間も3分台に短縮されている。また、アルバム版のイントロは前曲「**I WANT TV**」のアウトロと繋がっており、CDの頭出しにおいて「I WANT TV」のアウトロが入り込んで聞こえる。
 
 「**[FANKS](../Page/FANKS.md "wikilink")**」というコンセプトを打ち出し、これまでのファンタジー、近未来的路線を一蹴し、生[ドラム](../Page/ドラムセット.md "wikilink")、[サックス](../Page/サクソフォーン.md "wikilink")、[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[コーラスを取り入れたファンキーな曲](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。3枚目の12インチシングルとしてリリース。
 
@@ -17,7 +17,7 @@
 
 [宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")は「自分なりの16ビートのタイム感がつかめた大きなきっかけとなった1曲」と語っている\[1\]。
 
-[1989年](../Page/1989年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にタレントの[彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink")が所属していたパフォーマンスグループ「**[幕末塾](../Page/幕末塾.md "wikilink")**」によって[カバーされている](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。
+[1989年](../Page/1989年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にタレントの[彦摩呂](../Page/彦摩呂.md "wikilink")が所属していたパフォーマンスグループ「**[幕末塾](../Page/幕末塾.md "wikilink")**」によって[カバーされている](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。
 
 ## 収録曲
 
@@ -32,28 +32,28 @@
 
 **Come on Let's Dance**
 
-  - [GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink") (アルバムバージョン)
-  - [Gift for Fanks](https://ja.wikipedia.org/wiki/Gift_for_Fanks "wikilink")
+  - [GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink") (アルバムバージョン)
+  - [Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (ライブバージョン)
-  - [TAKASHI UTSUNOMIYA PRESENTS TMN RED](https://ja.wikipedia.org/wiki/TAKASHI_UTSUNOMIYA_PRESENTS_TMN_RED "wikilink") (The SAINT MIX)
-  - [TMN final live LAST GROOVE 5.18](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
-  - [STAR BOX TM NETWORK](https://ja.wikipedia.org/wiki/STAR_BOX_TM_NETWORK "wikilink") (アルバムバージョン)
-  - [THE LEGEND TM NETWORK](https://ja.wikipedia.org/wiki/THE_LEGEND_\(TM_NETWORKのアルバム\) "wikilink")
+  - [TAKASHI UTSUNOMIYA PRESENTS TMN RED](../Page/TAKASHI_UTSUNOMIYA_PRESENTS_TMN_RED.md "wikilink") (The SAINT MIX)
+  - [TMN final live LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink") (ライブバージョン)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
+  - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink") (アルバムバージョン)
+  - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にThe SAINT MIXが収録)
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink") (Come on Let's Dance 2014)
-  - [Gift from Fanks T](https://ja.wikipedia.org/wiki/Gift_from_Fanks_T "wikilink")
+  - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")
 
 **You can Dance**
 
-  - [GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")
-  - [Gift for Fanks](https://ja.wikipedia.org/wiki/Gift_for_Fanks "wikilink")
+  - [GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")
+  - [Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (ライブバージョン)
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 ## 出典
 

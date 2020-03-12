@@ -1,7 +1,7 @@
 > この記事は[LUNCH TIME SPEAX](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX)から翻訳されています。
 
 
-**LUNCH TIME SPEAX**（ランチ・タイム・スピークス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。
+**LUNCH TIME SPEAX**（ランチ・タイム・スピークス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。
 
 ## メンバー
 
@@ -12,7 +12,7 @@
 ## 略歴
 
   - 1993年、結成。
-  - 1998年、[BUDDHA BRANDの](https://ja.wikipedia.org/wiki/BUDDHA_BRAND "wikilink")[DEV LARGEにその才を見出され](../Page/DEV_LARGE.md "wikilink")、EL DORADO RECORDSからデビュー。
+  - 1998年、[BUDDHA BRANDの](../Page/BUDDHA_BRAND.md "wikilink")[DEV LARGEにその才を見出され](../Page/DEV_LARGE.md "wikilink")、EL DORADO RECORDSからデビュー。
   - 2001年、[ソニー・ミュージックエンタテインメントよりメジャーデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
   - 2003年、自身のレーベル「PARANOEAR SOUND」を立ち上げる。また、GOCCIはFLICKのGO、K.O.D.P.のGORIKIとともにユニット**GO FORCEMEN**としても活動。
   - 2006年、GOCCI、TAD'S A.C.の2MCに水戸の若手ラッパー[T-ACE](https://ja.wikipedia.org/wiki/T-Ace "wikilink")、WOODSMANを加えた4名からなるユニット**SLASH SPIT SQUADRON**を結成。同時に新レーベル「SLUG TUNE ENTERTAINMENT」を旗揚げする。
@@ -95,7 +95,7 @@
 
 ## 関連項目
 
-  - [BUDDHA BRAND](https://ja.wikipedia.org/wiki/BUDDHA_BRAND "wikilink")
+  - [BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink")
   - [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
   - [TEAM 44 BLOX](../Page/TEAM_44_BLOX.md "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 解説
 
-所属レコード会社であった[EPIC SONYの企画盤](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。EPIC SONY25周年を記念し、1980年代当時所属していたアーティストのベストアルバムのシリーズの1つとしてリリースされている。収録曲は1987年リリースのアルバム『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』までとなっており、1988年リリースの『[CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』収録曲は入っていない。
+所属レコード会社であった[EPIC SONYの企画盤](../Page/エピックレコードジャパン.md "wikilink")。EPIC SONY25周年を記念し、1980年代当時所属していたアーティストのベストアルバムのシリーズの1つとしてリリースされている。収録曲は1987年リリースのアルバム『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』までとなっており、1988年リリースの『[CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』収録曲は入っていない。
 
 ## 収録曲
 
@@ -21,8 +21,8 @@
         5thシングル。
 3.  **NERVOUS**
       -
-        3rdアルバム『[GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")』収録曲。
-4.  **[Be Together](https://ja.wikipedia.org/wiki/BE_TOGETHER "wikilink")**
+        3rdアルバム『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』収録曲。
+4.  **[Be Together](../Page/BE_TOGETHER.md "wikilink")**
       - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")　作曲・編曲：小室哲哉
     <!-- end list -->
       -
@@ -52,7 +52,7 @@
     <!-- end list -->
       -
         10thシングル。
-10. **[金曜日のライオン (Take it to the Lucky)](https://ja.wikipedia.org/wiki/金曜日のライオン_\(Take_it_to_the_Lucky\) "wikilink")**
+10. **[金曜日のライオン (Take it to the Lucky)](../Page/金曜日のライオン_\(Take_it_to_the_Lucky\).md "wikilink")**
       - 作詞・作曲・編曲：小室哲哉
     <!-- end list -->
       -
@@ -61,12 +61,12 @@
       - 作詞：[三浦徳子](../Page/三浦徳子.md "wikilink")　作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        2ndアルバム『[CHILDHOOD'S END](https://ja.wikipedia.org/wiki/CHILDHOOD'S_END "wikilink")』収録曲。
+        2ndアルバム『[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")』収録曲。
 12. **[FANTASTIC VISION](https://ja.wikipedia.org/wiki/FANTASTIC_VISION "wikilink")**
       - 作詞・作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        3rdシングル『[アクシデント](https://ja.wikipedia.org/wiki/アクシデント_\(曲\) "wikilink")』のカップリング曲。
+        3rdシングル『[アクシデント](../Page/アクシデント_\(曲\).md "wikilink")』のカップリング曲。
 13. **雨に誓って 〜SAINT RAIN〜**
       - 作詞：[西門加里](https://ja.wikipedia.org/wiki/西門加里 "wikilink")　作曲：小室哲哉、木根尚登　編曲：小室哲哉
     <!-- end list -->
@@ -76,6 +76,6 @@
       - 作詞：小室哲哉　作曲：小室哲哉、木根尚登　編曲：小室哲哉
     <!-- end list -->
       -
-        ミニアルバム『[TWINKLE NIGHT](https://ja.wikipedia.org/wiki/TWINKLE_NIGHT "wikilink")』収録曲。
+        ミニアルバム『[TWINKLE NIGHT](../Page/TWINKLE_NIGHT.md "wikilink")』収録曲。
 
 [Category:TM_NETWORKのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのベスト・アルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:THE_LEGEND](https://ja.wikipedia.org/wiki/Category:THE_LEGEND "wikilink") [Category:2003年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のベスト・アルバム "wikilink")

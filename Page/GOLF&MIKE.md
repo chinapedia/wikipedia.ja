@@ -1,9 +1,9 @@
 > この記事は[GOLF\&MIKE](https://ja.wikipedia.org/wiki/GOLF\&MIKE)から翻訳されています。
 
 
-**GOLF\&MIKE**（Golf-Mike、ゴルフ&マイク、タイ語表記กอล์ฟ-ไมค์）は、[タイ王国](../Page/タイ王国.md "wikilink")の兄弟アイドルデュオ。同国最大規模の芸能プロダクションGMM GRAMMY（GMMグラミー、通称グランミー）に所属しており[G-Junior](https://ja.wikipedia.org/wiki/G-Junior "wikilink")の1期生。タイでの呼称（発音）はゴッフマイ（「&」は発音しない）、日本での略称はゴルマイである。 公式ファンクラブは[GOLF-MIKE.NET](http://www.golf-mike.net)。
+**GOLF\&MIKE**（Golf-Mike、ゴルフ&マイク、タイ語表記กอล์ฟ-ไมค์）は、[タイ王国](../Page/タイ王国.md "wikilink")の兄弟アイドルデュオ。同国最大規模の芸能プロダクションGMM GRAMMY（GMMグラミー、通称グランミー）に所属しており[G-Junior](../Page/G-Junior.md "wikilink")の1期生。タイでの呼称（発音）はゴッフマイ（「&」は発音しない）、日本での略称はゴルマイである。 公式ファンクラブは[GOLF-MIKE.NET](http://www.golf-mike.net)。
 
-日本での活動時にはグランミーと提携関係にある[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink") がマネジメントを行う。その際「（タイ版）[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")」（タイJr.）と呼ばれることがあるが、あくまで本所属はGMM GRAMMYでありタイ国内ではこれらの呼称は用いられていない（**GOLF\&MIKE**と[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の関連については[G-Junior](https://ja.wikipedia.org/wiki/G-Junior "wikilink")の「ジャニーズ事務所との関係」の項参照）。
+日本での活動時にはグランミーと提携関係にある[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink") がマネジメントを行う。その際「（タイ版）[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")」（タイJr.）と呼ばれることがあるが、あくまで本所属はGMM GRAMMYでありタイ国内ではこれらの呼称は用いられていない（**GOLF\&MIKE**と[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の関連については[G-Junior](../Page/G-Junior.md "wikilink")の「ジャニーズ事務所との関係」の項参照）。
 
 ## メンバー
 
@@ -12,14 +12,14 @@
 
 ## 経歴
 
-  - 2003年 グランミーによる新人育成プロジェクト[G-Junior](https://ja.wikipedia.org/wiki/G-Junior "wikilink")のメンバーとなり、レッスンを開始する。
+  - 2003年 グランミーによる新人育成プロジェクト[G-Junior](../Page/G-Junior.md "wikilink")のメンバーとなり、レッスンを開始する。
   - 2005年11月15日 1stアルバム『Golf-Mike』でデビュー（VCDも同時発売）。
   - 2006年3月18日 [バンコク](../Page/バンコク.md "wikilink")のサンダードームにて初の単独コンサート『LET'S BOUNCE CONCERT』を行う。
   - 2006年4月10日 ライブVCD『LET'S BOUNCE CONCERT』を発売。
   - 2006年夏 日本で[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の選抜メンバーと期間限定ユニット・[Kitty G<span style="font-size: 120%">Y</span>Mを結成](../Page/Kitty_GYM.md "wikilink")、[フジテレビ系放映](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『女子バレーボール ワールドグランプリ2006』のスペシャルサポーターとなる。[G<span style="font-size: 120%">Y</span>Mとして音楽活動も行う](../Page/Kitty_GYM.md "wikilink")。
-  - 2006年8月 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")2006』内のイベント『ジャニーズJr.の大冒険\!』にも出演。
-  - 2006年8月22日 [G-Junior](https://ja.wikipedia.org/wiki/G-Junior "wikilink")からの選抜ユニット[G-JR](https://ja.wikipedia.org/wiki/G-JR "wikilink")（[GOLF](../Page/GOLF_\(歌手\).md "wikilink")、[MIKE](https://ja.wikipedia.org/wiki/MIKE "wikilink")を含む10人で構成）のアルバム『10CLUB』を発売。
-  - 2006年8月30日 [G<span style="font-size: 120%">Y</span>M](../Page/Kitty_GYM.md "wikilink")『[フィーバーとフューチャー](../Page/フィーバーとフューチャー.md "wikilink")』を発売（9月11日付[オリコンシングルチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得）。
+  - 2006年8月 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[お台場冒険王](../Page/お台場冒険王.md "wikilink")2006』内のイベント『ジャニーズJr.の大冒険\!』にも出演。
+  - 2006年8月22日 [G-Junior](../Page/G-Junior.md "wikilink")からの選抜ユニット[G-JR](https://ja.wikipedia.org/wiki/G-JR "wikilink")（[GOLF](../Page/GOLF_\(歌手\).md "wikilink")、[MIKE](https://ja.wikipedia.org/wiki/MIKE "wikilink")を含む10人で構成）のアルバム『10CLUB』を発売。
+  - 2006年8月30日 [G<span style="font-size: 120%">Y</span>M](../Page/Kitty_GYM.md "wikilink")『[フィーバーとフューチャー](../Page/フィーバーとフューチャー.md "wikilink")』を発売（9月11日付[オリコンシングルチャートで](../Page/オリコンチャート.md "wikilink")1位を獲得）。
   - 2006年9月5日 VCD『10CLUB』を発売。
   - 2006年10月7日 [バンコク](../Page/バンコク.md "wikilink")郊外のインパクトアリーナでの日タイ修好120周年を記念したライブイベント『THAI J-POP CONCERT』で[嵐と共演の予定が](../Page/嵐_\(グループ\).md "wikilink")、9月に起きたタイの[クーデター](../Page/クーデター.md "wikilink")の影響で無期延期、急遽『The Show Must Go On Concert by Golf-Mike\&Friends』に変更になりメインアクトを勤めた（共演Buddha Bless、Aof Pongsak、Ice Sarunyu、G-JR他）。
   - 2006年11月14日 ライブVCD『The Show Must Go On Concert Golf-Mike\&Friends』発売。
@@ -35,11 +35,11 @@
   - グランミー一押しの新人アーティストである。グランミーは今までアイドル市場ではライバルのRSプロモーション社に水をあけられていた感があった。その為既にタイで流行していた「日本のアイドル風」な売り方（曲中に日本語を使用する、日本の学生服をイメージした衣装等）を取り入れつつ「日本のマンガから抜け出したようなルックス」である**GOLF\&MIKE**の育成に乗り出す。今までのタイのアーティストには無かったヘアスタイルや中性的なルックス、王子様的な雰囲気、デビュー曲「Bounce」のちょっとワルっぽい歌詞、同ミュージックビデオの学ラン姿などが受けてティーンエイジャーを中心にブレイクした。この「日本風」なイメージは一部批判的な意見もあったが総合的には彼らのオリジナルであるとタイのファンは評価している。またアルバムの制作陣に有名作家を使っていること、ミュージックビデオは毎回VCDとTV放映用とで異なるバージョンを制作していること、事務所制作の音楽番組での露出の多さなどからもグランミーがかなり力を入れてプロモーションしているのがわかる。
   - 1stアルバムはタイポップス（いわゆるバラードが主）と得意のダンスが活かせる[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")系の曲が中心。デビュー当初は[タッキー&翼](../Page/タッキー&翼.md "wikilink")の曲をカバーするなど[ジャニーズ](../Page/ジャニーズ.md "wikilink")の影響もみられた。
   - CDデビュー以前にも、雑誌のモデルをしたり、グランミーの先輩アーティストのバックダンサーを勤めたり（[バード・トンチャイ](https://ja.wikipedia.org/wiki/バード・トンチャイ "wikilink")など）、イベントに参加したりと露出は多かった。
-  - 2004年7月24日、[バンコク](../Page/バンコク.md "wikilink")のインパクトアリーナで行われた「THAI J-POP Concert」に[G-Junior](https://ja.wikipedia.org/wiki/G-Junior "wikilink")として参加。バックを勤める（[タッキー&翼](../Page/タッキー&翼.md "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、[パーミー](../Page/パーミー.md "wikilink")、[BODYSLAM](https://ja.wikipedia.org/wiki/BODYSLAM "wikilink")が出演）。
+  - 2004年7月24日、[バンコク](../Page/バンコク.md "wikilink")のインパクトアリーナで行われた「THAI J-POP Concert」に[G-Junior](../Page/G-Junior.md "wikilink")として参加。バックを勤める（[タッキー&翼](../Page/タッキー&翼.md "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、[パーミー](../Page/パーミー.md "wikilink")、[BODYSLAM](https://ja.wikipedia.org/wiki/BODYSLAM "wikilink")が出演）。
   - 2004年12月来日した際、[NEWSのコンサートにゲスト出演したことがある](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")。
   - 2005年 So-netチャンネル749（現・[アジアドラマチックTV★So-net](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")）の「タイポップSTATION」にVJとして登場
   - 2006年タイのティーンエージャー向け制汗剤の「12Plus Cutie」のCMに出演、キャンペーンイベントを行う（「12Plus Cutie」はデビューコンサートのスポンサーでもある）。
-  - 2006年4月来日した際、[新橋演舞場](https://ja.wikipedia.org/wiki/新橋演舞場 "wikilink")で行われた[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")主演の舞台「[滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城 "wikilink")」を観劇（タイではミュージカルなどの演劇があまり盛んでないため非常に楽しんだ）
+  - 2006年4月来日した際、[新橋演舞場](../Page/新橋演舞場.md "wikilink")で行われた[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")主演の舞台「[滝沢演舞城](../Page/滝沢演舞城.md "wikilink")」を観劇（タイではミュージカルなどの演劇があまり盛んでないため非常に楽しんだ）
   - 2006年、大手スポンサーである[YAMAHA](https://ja.wikipedia.org/wiki/YAMAHA "wikilink")のスクーター「FINO」のイメージキャラクターを勤め、CM出演やキャンペーンイベントを行う
   - イベント出演の多いタイのアーティストの中でもダントツでミニコンサートやキャンペーン、チャリティ等のイベントに参加している。
   - 自らの意思でスタイリストを付けておらず殆どの衣装は自前。
@@ -407,9 +407,9 @@
 
 <!-- end list -->
 
-  - [フィーバーとフューチャー](../Page/フィーバーとフューチャー.md "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")）
+  - [フィーバーとフューチャー](../Page/フィーバーとフューチャー.md "wikilink")（[2006年](../Page/2006年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")）
 
-※日本でのCDリリースは全て[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink") より （タイでの[G<span style="font-size: 120%">Y</span>M名義のリリースはGMM](https://ja.wikipedia.org/wiki/GYM "wikilink") GRAMMYからである）
+※日本でのCDリリースは全て[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink") より （タイでの[G<span style="font-size: 120%">Y</span>M名義のリリースはGMM](https://ja.wikipedia.org/wiki/GYM "wikilink") GRAMMYからである）
 
 ## CDアルバム（日本）
 
@@ -472,7 +472,7 @@
   - [i-mobile 625 The Best Camera Phone](https://ja.wikipedia.org/wiki/i-mobile_625_The_Best_Camera_Phone "wikilink")（タイ）
   - [Yamaha Fino with Super Junior](https://ja.wikipedia.org/wiki/Yamaha_Fino_with_Super_Junior "wikilink")（タイ）
   - [Puriku White Tea](https://ja.wikipedia.org/wiki/Puriku_White_Tea "wikilink")（タイ）
-  - [Citra](https://ja.wikipedia.org/wiki/Citra "wikilink")（タイ）
+  - [Citra](../Page/Citra.md "wikilink")（タイ）
 
 ## 映画
 
@@ -489,7 +489,7 @@
 
 ## 関連項目
 
-  - [G-Junior](https://ja.wikipedia.org/wiki/G-Junior "wikilink")
+  - [G-Junior](../Page/G-Junior.md "wikilink")
   - [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
   - [Kitty GYM](../Page/Kitty_GYM.md "wikilink")

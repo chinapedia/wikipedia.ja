@@ -24,9 +24,9 @@
 
 ## 収録アルバム
 
-  - [SPARKLE 〜筋書き通りのスカイブルー〜](https://ja.wikipedia.org/wiki/SPARKLE_〜筋書き通りのスカイブルー〜 "wikilink")（\#1）
+  - [SPARKLE 〜筋書き通りのスカイブルー〜](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")（\#1）
   - [GIZA studio Masterpiece BLEND 2001](https://ja.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2001 "wikilink")（\#1）
-  - [Best](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROWのアルバム\) "wikilink")（\#1）
+  - [Best](../Page/Best_\(GARNET_CROWのアルバム\).md "wikilink")（\#1）
   - [THE BEST History of GARNET CROW at the crest...](https://ja.wikipedia.org/wiki/THE_BEST_History_of_GARNET_CROW_at_the_crest... "wikilink")（\#1）
   - [GIZA studio presents -Girls-](https://ja.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")（\#1）
   - [GOODBYE LONELY 〜Bside collection〜](https://ja.wikipedia.org/wiki/GOODBYE_LONELY_〜Bside_collection〜 "wikilink") (\#2)

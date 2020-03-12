@@ -1,7 +1,7 @@
 > この記事は[STAR BOX TM NETWORK](https://ja.wikipedia.org/wiki/STAR_BOX_TM_NETWORK)から翻訳されています。
 
 
-『**STAR BOX TM NETWORK**』（スターボックス ティーエム ネットワーク）は[1999年](../Page/1999年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")にリリースされた[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**STAR BOX TM NETWORK**』（スターボックス ティーエム ネットワーク）は[1999年](../Page/1999年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")にリリースされた[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
       - 作詞：[神沢礼江](../Page/神沢礼江.md "wikilink")　作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        6thシングル。本作に収録されているのは、3rdアルバム『[GORILLA](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\) "wikilink")』に収録されているバージョン。
+        6thシングル。本作に収録されているのは、3rdアルバム『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』に収録されているバージョン。
 2.  **NERVOUS**
       - 作詞：川村真澄　作曲・編曲：小室哲哉
     <!-- end list -->
@@ -54,7 +54,7 @@
     <!-- end list -->
       -
         5thアルバム『humansystem』収録曲。
-10. **[Be Together](https://ja.wikipedia.org/wiki/BE_TOGETHER "wikilink")**
+10. **[Be Together](../Page/BE_TOGETHER.md "wikilink")**
       - 作詞：小室みつ子　作曲：木根尚登　編曲：小室哲哉
     <!-- end list -->
       -
@@ -64,12 +64,12 @@
     <!-- end list -->
       -
         14thシングル『[SEVEN DAYS WAR](../Page/SEVEN_DAYS_WAR.md "wikilink")』のカップリング曲。
-12. **[GET WILD '89](https://ja.wikipedia.org/wiki/GET_WILD_'89 "wikilink")**
+12. **[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")**
       - 作詞：小室みつ子　作曲：小室哲哉　編曲：[ピート・ハモンド](https://ja.wikipedia.org/wiki/ピート・ハモンド "wikilink")
     <!-- end list -->
       -
         19thシングル。
-13. **[DIVE INTO YOUR BODY](https://ja.wikipedia.org/wiki/DIVE_INTO_YOUR_BODY "wikilink")**
+13. **[DIVE INTO YOUR BODY](../Page/DIVE_INTO_YOUR_BODY.md "wikilink")**
       - 作詞：小室みつ子　作曲・編曲：小室哲哉
     <!-- end list -->
       -
@@ -78,6 +78,6 @@
       - 作詞：小室哲哉　作曲：小室哲哉、木根尚登　編曲：小室哲哉
     <!-- end list -->
       -
-        ミニアルバム『[TWINKLE NIGHT](https://ja.wikipedia.org/wiki/TWINKLE_NIGHT "wikilink")』収録曲。
+        ミニアルバム『[TWINKLE NIGHT](../Page/TWINKLE_NIGHT.md "wikilink")』収録曲。
 
 [Category:TM_NETWORKのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのベスト・アルバム "wikilink") [Category:STAR_BOX](https://ja.wikipedia.org/wiki/Category:STAR_BOX "wikilink") [Category:1999年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のベスト・アルバム "wikilink")

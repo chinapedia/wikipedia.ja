@@ -1,15 +1,15 @@
 > この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
 
 
-**SD戦国伝 天下統一編**（エスディーせんごくでん てんかとういつへん）は、[武者ガンダム](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")シリーズの第3作である。
+**SD戦国伝 天下統一編**（エスディーせんごくでん てんかとういつへん）は、[武者ガンダム](../Page/武者ガンダム.md "wikilink")シリーズの第3作である。
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| **[武者ガンダム](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")シリーズ** |
-| **通番**                                                            |
-| **第2作**                                                           |
-| **第3作**                                                           |
-| **第4作**                                                           |
+|                                                |
+| ---------------------------------------------- |
+| **[武者ガンダム](../Page/武者ガンダム.md "wikilink")シリーズ** |
+| **通番**                                         |
+| **第2作**                                        |
+| **第3作**                                        |
+| **第4作**                                        |
 
 ## 概要
 
@@ -232,7 +232,7 @@
     龍鳴寺の住職。仁宇の父。訪れた初代大将軍に「神秘の槍」を授け、犀の河原へ向かうよう告げた。
     **BB戦士 No.83「龍頑駄無」**/神秘の槍、龍王剣、怒嵐銃<ドランガン>を装備。鎧を外し、軽装タイプと紅龍に分離する。龍王の陣に変形。怒嵐銃から弾丸を発射。肩鎧にある疾風の宝玉はガラス玉を使用している。ガラス玉はその後も何度か使用されている。
     **元祖SD No.87「龍頑駄無」**/神秘の槍、龍王剣、怒嵐銃を装備。背面のパーツを上下させると龍の下顎が開閉。BB戦士と異なる白の多い配色。
-  - 犀頑駄無<サイガンダム>（[サイコガンダム](https://ja.wikipedia.org/wiki/サイコガンダム "wikilink")\[9\]）
+  - 犀頑駄無<サイガンダム>（[サイコガンダム](../Page/サイコガンダム.md "wikilink")\[9\]）
     {| class="wikitable"
 
 |- \! 守護獣 | 紫犀 \! 楯 | 豪力の楯 |- \! 戦闘形態 | 犀王の陣 \! 刀 | 犀王剣 |- \! 角 | 巨山の光角 \! 必殺技 | 玉砕撃 |- \! 名の由来 |colspan="3"| 巨山の力を宿した犀の化身すなわち“犀頑駄無” |}
@@ -264,7 +264,7 @@
   - 技連\<[ギレン](https://ja.wikipedia.org/wiki/ザビ家#ギレン・ザビ "wikilink")\>（[黒い三連星専用高機動型ザクII](https://ja.wikipedia.org/wiki/高機動型ザクII#高機動型ザクII（R-1A型） "wikilink")）
     怒鋭\<[ドズル](https://ja.wikipedia.org/wiki/ザビ家#ドズル・ザビ "wikilink")\>（[ドズル専用ザクII](https://ja.wikipedia.org/wiki/ザクII#量産型ザクII（ザクII_F型） "wikilink")\[11\]）
     駆舞\<[ガルマ](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")\>（[ガルマ専用ザクII](https://ja.wikipedia.org/wiki/ザクII#ザクII_FS型 "wikilink")\[12\]）
-    殺駆に仕える**初代殺駆三兄弟**。名前の由来は[ザビ家](https://ja.wikipedia.org/wiki/ザビ家 "wikilink")のギレン・ザビ、ドズル・ザビ、ガルマ・ザビから\[13\]。
+    殺駆に仕える**初代殺駆三兄弟**。名前の由来は[ザビ家](../Page/ザビ家.md "wikilink")のギレン・ザビ、ドズル・ザビ、ガルマ・ザビから\[13\]。
     なお、この三人の誰かが[武者七人衆編の殺駆三兄弟の父親となっているのだが](../Page/SD戦国伝_武者七人衆編.md "wikilink")、一部書籍では「『武者七人衆編』の殺駆三兄弟の若りし日の姿」と紹介されている。
 
 #### 構成員
@@ -304,7 +304,7 @@
   - 黒魔神<クロマジン>
     黒魔神は過去の暗黒軍団の首領で、後の闇皇帝。
     本来の歴史では初代大将軍を倒し、闇皇帝となったが、荒烈駆主の出現により歴史が改変され、初代大将軍に倒される。しかし、歴史の改変に気付いた未来の自分自身である闇皇帝の手により復活し、さらに両者が合体して黒魔神闇皇帝となった。これが光の巻に記された「闇の再来」である。初代大将軍を殺害し荒烈駆主による歴史改変を阻止しようとするが、4人の大将軍たちの光の力の前に敗れ去る。
-    後に『[ムシャ戦記 光の変幻編](https://ja.wikipedia.org/wiki/ムシャ戦記_光の変幻編 "wikilink")』において、天魔大帝の分身の一つであることが判明する。
+    後に『[ムシャ戦記 光の変幻編](../Page/ムシャ戦記_光の変幻編.md "wikilink")』において、天魔大帝の分身の一つであることが判明する。
       - [闇皇帝](https://ja.wikipedia.org/wiki/SD戦国伝_武者七人衆編#闇軍団 "wikilink")
         初代大将軍に敗れた黒魔神の前に現れた、未来の同一存在。黒魔神を復活させ、更に自分との合体を促す。
       - 黒魔神闇皇帝<クロマジンヤミコウテイ>
@@ -344,7 +344,7 @@
   - 刃威悪乱<バイアラン>（[バイアラン](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#バイアラン "wikilink")\[23\]）
     雷撃部隊副隊長。武人の鑑ともいえる生真面目な性格で、上下関係を重んじる。龍将飛将の非情な攻撃の前に壮絶な最期を遂げた。
 
-  - 虐風乱<ギャプラン>（[ギャプラン](https://ja.wikipedia.org/wiki/ギャプラン "wikilink")\[24\]）
+  - 虐風乱<ギャプラン>（[ギャプラン](../Page/ギャプラン.md "wikilink")\[24\]）
     飛忍。両腕の楯の先端部から針状の散弾を発射する。冷酷非情で、勝利のためには手段を選ばない。
 
   - 滅殺荒<メッサーラ>（[メッサーラ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#メッサーラ "wikilink")\[25\]）
@@ -353,7 +353,7 @@
   - 我憎霧<ガゾウム>（[ガ・ゾウム](https://ja.wikipedia.org/wiki/ガザC#ガ・ゾウム "wikilink")\[26\]）
     機動爆撃部隊員。機動力と重武装が特徴。
 
-  - 我坐士伊<ガザシイ>（[ガザC](https://ja.wikipedia.org/wiki/ガザC "wikilink")\[27\]）
+  - 我坐士伊<ガザシイ>（[ガザC](../Page/ガザC.md "wikilink")\[27\]）
     機動爆撃部隊員。砲座に変形し、背中の大砲で後方支援攻撃を行う。
 
   - 狩刃電威有破<ガルバルディアルファ>（[ガルバルディα](https://ja.wikipedia.org/wiki/ガルバルディ#ガルバルディα "wikilink")\[28\]）
@@ -368,7 +368,7 @@
 ## SD戦国伝 天下泰平編（アニメ版）
 
   -
-    機動戦士SDガンダムまつりの一編として1993年3月13日に公開された劇場版アニメ。四代目大将軍をメインとした本編の後日談となっている。[地上最強編につながる場面もあるが](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編 "wikilink")、各大将軍の実年齢が一致しないため、正規ではなく映画用パラレル作品となっている。
+    機動戦士SDガンダムまつりの一編として1993年3月13日に公開された劇場版アニメ。四代目大将軍をメインとした本編の後日談となっている。[地上最強編につながる場面もあるが](../Page/新SD戦国伝_地上最強編.md "wikilink")、各大将軍の実年齢が一致しないため、正規ではなく映画用パラレル作品となっている。
     **主な理由**
     1.  映画パンフレットでは、二代目頑駄無大将軍は「まだ若い為玩具遊びが好き」とあるが、武者七人衆編は天下統一編の30年後である為既に若くは無く、ほぼ同世代の従兄弟である武者が三代目大将軍へと出世したのはそれから15年後の風林火山編であり、従兄弟が三代目となっている時点で年齢が大体45歳である（もっとも本編では、初代、三代目共々老人のような声・口調ではある）。
     2.  四代目こと荒烈駆主の義父である農丸は彼の実叔父、初代大将軍の時代から数えて約45歳であるのだが、若い頃の隠密頑駄無の姿で登場。その父親・雷こと初代将頑駄無が「ご隠居頑駄無」として兄・鳳凰こと初代大将軍より老けている。
@@ -397,24 +397,24 @@
 
   - 監督・絵コンテ:[今西隆志](../Page/今西隆志.md "wikilink")
   - 脚本:[大熊朝秀](../Page/今西隆志.md "wikilink")
-  - キャラデザイン・作画監督:[村瀬修功](https://ja.wikipedia.org/wiki/村瀬修功 "wikilink")
-  - キャラ原案:[横井孝二](https://ja.wikipedia.org/wiki/横井孝二 "wikilink")、[今石進](https://ja.wikipedia.org/wiki/今石進 "wikilink")、[寺島慎](https://ja.wikipedia.org/wiki/寺島慎 "wikilink")
+  - キャラデザイン・作画監督:[村瀬修功](../Page/村瀬修功.md "wikilink")
+  - キャラ原案:[横井孝二](../Page/横井孝二.md "wikilink")、[今石進](https://ja.wikipedia.org/wiki/今石進 "wikilink")、[寺島慎](https://ja.wikipedia.org/wiki/寺島慎 "wikilink")
 
 ### キャスト
 
-  - 四代目大将軍:[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
-  - 初代大将軍:[藤本譲](https://ja.wikipedia.org/wiki/藤本譲 "wikilink")
-  - 二代目大将軍:[巻島直樹](https://ja.wikipedia.org/wiki/巻島直樹 "wikilink")
-  - 三代目大将軍/鬼将軍:[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
-  - 武者風雷主:[松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")
-  - 武者江須:[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
-  - 武者砕虎摩亜屈:[山崎たくみ](https://ja.wikipedia.org/wiki/山崎たくみ "wikilink")
-  - 殺駆頭:[戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
-  - 古殺駆家老:[江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
-  - 玖辺麗:[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+  - 四代目大将軍:[飛田展男](../Page/飛田展男.md "wikilink")
+  - 初代大将軍:[藤本譲](../Page/藤本譲.md "wikilink")
+  - 二代目大将軍:[巻島直樹](../Page/巻島直樹.md "wikilink")
+  - 三代目大将軍/鬼将軍:[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
+  - 武者風雷主:[松本保典](../Page/松本保典.md "wikilink")
+  - 武者江須:[梁田清之](../Page/梁田清之.md "wikilink")
+  - 武者砕虎摩亜屈:[山崎たくみ](../Page/山崎たくみ.md "wikilink")
+  - 殺駆頭:[戸谷公次](../Page/戸谷公次.md "wikilink")
+  - 古殺駆家老:[江原正士](../Page/江原正士.md "wikilink")
+  - 玖辺麗:[夏樹リオ](../Page/夏樹リオ.md "wikilink")
   - ガベ子:[白鳥由里](../Page/白鳥由里.md "wikilink")
-  - 御隠居頑駄無:[千葉耕市](https://ja.wikipedia.org/wiki/千葉耕市 "wikilink")
-  - 結晶鳳凰:[梅津秀行](https://ja.wikipedia.org/wiki/梅津秀行 "wikilink")
+  - 御隠居頑駄無:[千葉耕市](../Page/千葉耕市.md "wikilink")
+  - 結晶鳳凰:[梅津秀行](../Page/梅津秀行.md "wikilink")
 
 ## ゲーム版
 
@@ -428,7 +428,7 @@
 ## 関連項目
 
   - [SDガンダム](../Page/SDガンダム.md "wikilink")
-  - [武者ガンダム](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")
+  - [武者ガンダム](../Page/武者ガンダム.md "wikilink")
 
 [Category:武者ガンダム](https://ja.wikipedia.org/wiki/Category:武者ガンダム "wikilink") [Category:ガンダムシリーズのアニメ映画](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメ映画 "wikilink") [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:1993年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1993年のアニメ映画 "wikilink")
 

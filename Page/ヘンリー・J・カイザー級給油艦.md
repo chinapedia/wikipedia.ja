@@ -5,9 +5,9 @@
 
 ## 概要
 
-基本的な艦体形状は先代の[シマロン級のそれを受け継いでおり](https://ja.wikipedia.org/wiki/シマロン級給油艦_\(2代\) "wikilink")、[艦橋](https://ja.wikipedia.org/wiki/艦橋 "wikilink")は艦の後部に配置され、艦尾は[ヘリコプター甲板となっているが](https://ja.wikipedia.org/wiki/飛行甲板#ヘリコプター甲板 "wikilink")、[格納庫](https://ja.wikipedia.org/wiki/格納庫 "wikilink")は設置されていない。
+基本的な艦体形状は先代の[シマロン級のそれを受け継いでおり](https://ja.wikipedia.org/wiki/シマロン級給油艦_\(2代\) "wikilink")、[艦橋](https://ja.wikipedia.org/wiki/艦橋 "wikilink")は艦の後部に配置され、艦尾は[ヘリコプター甲板となっているが](https://ja.wikipedia.org/wiki/飛行甲板#ヘリコプター甲板 "wikilink")、[格納庫](../Page/格納庫.md "wikilink")は設置されていない。
 
-[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[補給艦](../Page/補給艦.md "wikilink")としては初めて、[主機関に](../Page/エンジン.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を採用したのも大きな特徴である。本級よりやや早い[1981年](../Page/1981年.md "wikilink")に就役した[シリウス級戦闘給糧艦](https://ja.wikipedia.org/wiki/シリウス級戦闘給糧艦 "wikilink")もディーゼルエンジンを主機関としているが、こちらは元々[1960年代](../Page/1960年代.md "wikilink")に[イギリス海軍補助艦隊](https://ja.wikipedia.org/wiki/イギリス海軍補助艦隊 "wikilink")向けに建造された艦をアメリカ海軍が[リース](../Page/リース.md "wikilink")（後に購入）したものである。
+[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[補給艦](../Page/補給艦.md "wikilink")としては初めて、[主機関に](../Page/エンジン.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を採用したのも大きな特徴である。本級よりやや早い[1981年](../Page/1981年.md "wikilink")に就役した[シリウス級戦闘給糧艦](../Page/シリウス級戦闘給糧艦.md "wikilink")もディーゼルエンジンを主機関としているが、こちらは元々[1960年代](../Page/1960年代.md "wikilink")に[イギリス海軍補助艦隊](https://ja.wikipedia.org/wiki/イギリス海軍補助艦隊 "wikilink")向けに建造された艦をアメリカ海軍が[リース](../Page/リース.md "wikilink")（後に購入）したものである。
 
   - 洋上移送
 
@@ -107,7 +107,7 @@
 <td><p>1988年<br />
 8月15日</p></td>
 <td><p>1993年8月15日、完成率95.3%で建造中止。<br />
-国防予備船隊にて保管。2011年7月、<a href="https://ja.wikipedia.org/wiki/スクラップ" title="wikilink">スクラップ</a>として解体開始。</p></td>
+国防予備船隊にて保管。2011年7月、<a href="../Page/スクラップ.md" title="wikilink">スクラップ</a>として解体開始。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -281,7 +281,7 @@
 
   - / [エトナ級補給艦](../Page/エトナ級補給艦.md "wikilink")
 
-  - [とわだ型補給艦](https://ja.wikipedia.org/wiki/とわだ型補給艦 "wikilink")
+  - [とわだ型補給艦](../Page/とわだ型補給艦.md "wikilink")
 
   - [武夷 (補給艦)](https://ja.wikipedia.org/wiki/武夷_\(補給艦\) "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[SD2 ](https://ja.wikipedia.org/wiki/SD2_)から翻訳されています。
 
 
-『**SDガンダム外伝2 円卓の騎士**』（エスディーガンダムがいでんツー えんたくのきし）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[ユタカから発売された](https://ja.wikipedia.org/wiki/ポピー_\(玩具メーカー\) "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。[SDガンダム外伝 円卓の騎士編が題材となっている](https://ja.wikipedia.org/wiki/SDガンダム外伝_円卓の騎士編 "wikilink")。
+『**SDガンダム外伝2 円卓の騎士**』（エスディーガンダムがいでんツー えんたくのきし）は、[1992年](../Page/1992年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[ユタカから発売された](../Page/ポピー_\(玩具メーカー\).md "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。[SDガンダム外伝 円卓の騎士編が題材となっている](../Page/SDガンダム外伝_円卓の騎士編.md "wikilink")。
 
 ## システム
 

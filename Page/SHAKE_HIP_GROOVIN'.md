@@ -1,7 +1,7 @@
 > この記事は[SHAKE HIP GROOVIN\'](https://ja.wikipedia.org/wiki/SHAKE_HIP_GROOVIN\')から翻訳されています。
 
 
-**SHAKE HIP GROOVIN**'（シェイク・ヒップ・グルーヴィン）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。1997年4月～1999年3月までの毎週[月曜日](../Page/月曜日.md "wikilink")から[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")のお昼、今は無き[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")GIGAスタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。メイン[ナビゲーターは鶴屋華丸](../Page/ディスクジョッキー.md "wikilink")（現・[博多華丸](https://ja.wikipedia.org/wiki/博多華丸 "wikilink")）が務めた。
+**SHAKE HIP GROOVIN**'（シェイク・ヒップ・グルーヴィン）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。1997年4月～1999年3月までの毎週[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")のお昼、今は無き[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")GIGAスタジオから[生放送](../Page/生放送.md "wikilink")された。メイン[ナビゲーターは鶴屋華丸](../Page/ディスクジョッキー.md "wikilink")（現・[博多華丸](../Page/博多華丸.md "wikilink")）が務めた。
 
 ## 概要
 
@@ -12,12 +12,12 @@
 
 ## ナビゲーター
 
-  - 鶴屋華丸（現・[博多華丸](https://ja.wikipedia.org/wiki/博多華丸 "wikilink")）
+  - 鶴屋華丸（現・[博多華丸](../Page/博多華丸.md "wikilink")）
 
 <!-- end list -->
 
   -
-    以前には「鶴屋華丸・亀屋大吉」（現・[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")）のコンビで[RKBラジオ](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")でもレギュラー番組を担当していたが、この番組では華丸1人だけでナビゲーターを担当、番組開始1年後からは以下の女性ナビゲーターと2人でナビゲーターを担当した。この番組終了後、同局でナビゲーターを務めたことはない。
+    以前には「鶴屋華丸・亀屋大吉」（現・[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")）のコンビで[RKBラジオ](../Page/RKBラジオ.md "wikilink")でもレギュラー番組を担当していたが、この番組では華丸1人だけでナビゲーターを担当、番組開始1年後からは以下の女性ナビゲーターと2人でナビゲーターを担当した。この番組終了後、同局でナビゲーターを務めたことはない。
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [古賀真里子](https://ja.wikipedia.org/wiki/真璃子 "wikilink")（1998年4月-1998年9月、[水](../Page/水曜日.md "wikilink")・木）
+  - [古賀真里子](../Page/真璃子.md "wikilink")（1998年4月-1998年9月、[水](../Page/水曜日.md "wikilink")・木）
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   -
-    同局の[ラジオカー](https://ja.wikipedia.org/wiki/ラジオカー "wikilink")であるクロスカーに乗ったリポーターが街中へ出かけて、様々なイベントなどを紹介した。後述の「CROSS CAR ATTACK」が始まってからは、16:30頃にクロスカーが到着する場所を発表し、リスナーの参加を呼びかけた。
+    同局の[ラジオカー](../Page/ラジオカー.md "wikilink")であるクロスカーに乗ったリポーターが街中へ出かけて、様々なイベントなどを紹介した。後述の「CROSS CAR ATTACK」が始まってからは、16:30頃にクロスカーが到着する場所を発表し、リスナーの参加を呼びかけた。
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@
 ## 番組に関するエピソード
 
   - 番組のテーマ曲には[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のヒット曲「[SHAKE](../Page/SHAKE_\(SMAPの曲\).md "wikilink")」のインストゥルメンタルが使用された。
-  - 華丸は放送当時[吉本興業福岡事務所の所属であったため](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー福岡事務所 "wikilink")、同じ所属で同時期に同局のナビゲーターを務めていた[おタコ・プーや](https://ja.wikipedia.org/wiki/プー&ムー "wikilink")、相方の亀屋大吉（現・[博多大吉](https://ja.wikipedia.org/wiki/博多大吉 "wikilink")）なども不定期に番組に出演することがあった。
+  - 華丸は放送当時[吉本興業福岡事務所の所属であったため](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー福岡事務所 "wikilink")、同じ所属で同時期に同局のナビゲーターを務めていた[おタコ・プーや](../Page/プー&ムー.md "wikilink")、相方の亀屋大吉（現・[博多大吉](../Page/博多大吉.md "wikilink")）なども不定期に番組に出演することがあった。
   - 1998年4月からのCROSS FMのキャッチコピーは「**ピースでいこう**」であったため、華丸は必ず番組のオープニングトークの終わりを「オープニング・コール、ピース！」で締め、エンディングで「ラスト・コール、ピース！」と言って締めていた。「ピース」の部分はナビゲーター2人で声を合わせていた。この「ラスト・コール」という言葉も、いわば前述の番組での児玉清のセリフからとったものである。
   - 1999年2月下旬から3月上旬にかけて、突然鶴屋華丸が番組に出演せず、武田直子1人で番組を進行する日々が続いた。番組中、家電を紹介するコーナーで華丸が「どーでもいーや」といった投げやりなセリフを吐いた翌日からだった為、CROSSFMのサイト内掲示板に、リスナーから質問の書き込みが多くなされたが、結局番組や局からは一切の説明はなく、実質番組終了2週間前となる月曜日にこれまた突然復帰し、番組が終了することを発表した。
 

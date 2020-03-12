@@ -20,13 +20,13 @@
 ### DISC 1
 
 1.  **10セントの小宇宙(ゆめ)**
-    （作詞:[西脇淳子](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲:[平川達也](https://ja.wikipedia.org/wiki/平川達也 "wikilink")、編曲:LINDBERG / [佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")）
+    （作詞:[西脇淳子](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲:[平川達也](../Page/平川達也.md "wikilink")、編曲:LINDBERG / [佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")）
     『LINDBERG II』より
 2.  **JUMP**
     （作詞:西脇淳子、作曲・編曲:佐藤宣彦）
     『LINDBERG II』より
 3.  **LITTLE WING**
-    （作詞:渡瀬マキ、作曲:[川添智久](https://ja.wikipedia.org/wiki/川添智久 "wikilink")、編曲:LINDBERG / [須貝幸生](https://ja.wikipedia.org/wiki/須貝幸生 "wikilink") / [神長弘一](https://ja.wikipedia.org/wiki/神長弘一 "wikilink")）
+    （作詞:渡瀬マキ、作曲:[川添智久](../Page/川添智久.md "wikilink")、編曲:LINDBERG / [須貝幸生](https://ja.wikipedia.org/wiki/須貝幸生 "wikilink") / [神長弘一](https://ja.wikipedia.org/wiki/神長弘一 "wikilink")）
     『LINDBERG III』より
 4.  **[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")**
     （作詞:[朝野深雪](https://ja.wikipedia.org/wiki/朝野深雪 "wikilink")、作曲:平川達也、編曲:LINDBERG / [井上龍仁](https://ja.wikipedia.org/wiki/井上龍仁 "wikilink")）

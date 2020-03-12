@@ -1,7 +1,7 @@
 > この記事は[AMA](https://ja.wikipedia.org/wiki/AMA)から翻訳されています。
 
 
-**有限会社モデリングオフィスAMA**（モデリングオフィス アマ、*MODELING OFFICE AMA CO., LTD.*）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[モデルエージェンシー](https://ja.wikipedia.org/wiki/モデルエージェンシー "wikilink")。
+**有限会社モデリングオフィスAMA**（モデリングオフィス アマ、*MODELING OFFICE AMA CO., LTD.*）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[モデルエージェンシー](https://ja.wikipedia.org/wiki/モデルエージェンシー "wikilink")。
 
 ## 概要
 

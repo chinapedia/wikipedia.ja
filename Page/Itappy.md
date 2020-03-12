@@ -1,7 +1,7 @@
 > この記事は[Itappy](https://ja.wikipedia.org/wiki/Itappy)から翻訳されています。
 
 
-**itappy**（イタッピー）とは、[伊丹市交通局](https://ja.wikipedia.org/wiki/伊丹市交通局 "wikilink")（伊丹市営バス）が発行する非接触型[ICカード](../Page/ICカード.md "wikilink")方式による[乗車カード](../Page/乗車カード.md "wikilink")の名称である。
+**itappy**（イタッピー）とは、[伊丹市交通局](../Page/伊丹市交通局.md "wikilink")（伊丹市営バス）が発行する非接触型[ICカード](../Page/ICカード.md "wikilink")方式による[乗車カード](../Page/乗車カード.md "wikilink")の名称である。
 
 ## 概要
 
@@ -21,7 +21,7 @@
 
 ## 利用方法
 
-[JR西日本の](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[ICOCA](../Page/ICOCA.md "wikilink")、スルッとKANSAI協議会の[PiTaPa](../Page/PiTaPa.md "wikilink")など他社のICカード乗車券のように乗車の際にitappyをICカード読み取り機に軽くタッチするだけで事前チャージ（入金）から自動的に乗車料金が精算される。正常にICカードを接触し認証された場合「ピッ」と音が鳴る。伊丹市交通局は均一運賃の前払いであるため、降車時のタッチは不要である。
+[JR西日本の](../Page/西日本旅客鉄道.md "wikilink")[ICOCA](../Page/ICOCA.md "wikilink")、スルッとKANSAI協議会の[PiTaPa](../Page/PiTaPa.md "wikilink")など他社のICカード乗車券のように乗車の際にitappyをICカード読み取り機に軽くタッチするだけで事前チャージ（入金）から自動的に乗車料金が精算される。正常にICカードを接触し認証された場合「ピッ」と音が鳴る。伊丹市交通局は均一運賃の前払いであるため、降車時のタッチは不要である。
 
 またおとな用と子ども用があるが精算額が子ども運賃となる以外のチャージ額や利用方法などは変わらない。
 

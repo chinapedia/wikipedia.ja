@@ -1,7 +1,7 @@
 > この記事は[SATURDAY AIR DRIVE](https://ja.wikipedia.org/wiki/SATURDAY_AIR_DRIVE)から翻訳されています。
 
 
-**SATURDAY AIR DRIVE**（サタデー・エア・ドライヴ）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月～[2001年](../Page/2001年.md "wikilink")3月の毎週土曜日の夜、北九州本社第1スタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された。
+**SATURDAY AIR DRIVE**（サタデー・エア・ドライヴ）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月～[2001年](../Page/2001年.md "wikilink")3月の毎週土曜日の夜、北九州本社第1スタジオから[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   -
-    22:00-23:00に[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の豊田和貴がナビゲーターを務める「[キャメルクラッチ](https://ja.wikipedia.org/wiki/キャメルクラッチ "wikilink")」（2000年3月で終了）がスタートしたため時間短縮。
+    22:00-23:00に[SOPHIA](../Page/SOPHIA.md "wikilink")の豊田和貴がナビゲーターを務める「[キャメルクラッチ](../Page/キャメルクラッチ.md "wikilink")」（2000年3月で終了）がスタートしたため時間短縮。
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 <!-- end list -->
 
   -
-    18:00-19:00に放送されていた[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")がナビゲーターを務める「[SOUND DISCOVERY](https://ja.wikipedia.org/wiki/SOUND_DISCOVERY "wikilink")」が1時間繰り上げとなったため時間拡大。
+    18:00-19:00に放送されていた[佐藤竹善](../Page/佐藤竹善.md "wikilink")がナビゲーターを務める「[SOUND DISCOVERY](https://ja.wikipedia.org/wiki/SOUND_DISCOVERY "wikilink")」が1時間繰り上げとなったため時間拡大。
 
 <!-- end list -->
 
@@ -53,16 +53,16 @@
 
 <!-- end list -->
 
-  - [YUYA](https://ja.wikipedia.org/wiki/YUYA "wikilink")（1998年4月-2001年3月）
+  - [YUYA](../Page/YUYA.md "wikilink")（1998年4月-2001年3月）
 
 <!-- end list -->
 
   -
-    同局では「[BUZZ DRIVE](https://ja.wikipedia.org/wiki/BUZZ_DRIVE "wikilink")」からの担当。同時期には「[NIPPON STEEL GLOBAL EDITION](https://ja.wikipedia.org/wiki/POWER_STATION#放送されていたコーナー番組 "wikilink")」「[HITS CUTS NOW](https://ja.wikipedia.org/wiki/HITS_CUTS_NOW "wikilink")」のナビゲーターを務めるほか、同時期の同局の番組でもピンチヒッターを務めた。
+    同局では「[BUZZ DRIVE](https://ja.wikipedia.org/wiki/BUZZ_DRIVE "wikilink")」からの担当。同時期には「[NIPPON STEEL GLOBAL EDITION](https://ja.wikipedia.org/wiki/POWER_STATION#放送されていたコーナー番組 "wikilink")」「[HITS CUTS NOW](../Page/HITS_CUTS_NOW.md "wikilink")」のナビゲーターを務めるほか、同時期の同局の番組でもピンチヒッターを務めた。
 
 <!-- end list -->
 
-  - [相越久枝](https://ja.wikipedia.org/wiki/相越久枝 "wikilink")
+  - [相越久枝](../Page/相越久枝.md "wikilink")
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
 <!-- end list -->
 
   -
-    [アビスパ福岡](../Page/アビスパ福岡.md "wikilink")や[Jリーグなどの情報を](../Page/日本プロサッカーリーグ.md "wikilink")[J-POP](../Page/J-POP.md "wikilink")ヒットを織り交ぜて紹介した。スポンサーは[コカ・コーラウエストジャパン](https://ja.wikipedia.org/wiki/コカ・コーラウエストジャパン "wikilink")。
+    [アビスパ福岡](../Page/アビスパ福岡.md "wikilink")や[Jリーグなどの情報を](../Page/日本プロサッカーリーグ.md "wikilink")[J-POP](../Page/J-POP.md "wikilink")ヒットを織り交ぜて紹介した。スポンサーは[コカ・コーラウエストジャパン](../Page/コカ・コーラウエストジャパン.md "wikilink")。
     番組終了後は「[RADIO GONG SHOW](../Page/RADIO_GONG_SHOW.md "wikilink")」に引き継がれた。
 
 [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink")

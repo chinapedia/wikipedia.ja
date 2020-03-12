@@ -9,19 +9,19 @@
 
 ## 大学と組織
 
-ParisTechのメンバーは名声ある公的な学術機関または研究機関であり、それらの多くは18世紀に設立された機関である。幾つかの機関は科学における多方面にわたる研究を行っている。例えば、有名な[エコール・ポリテクニーク](https://ja.wikipedia.org/wiki/エコール・ポリテクニーク "wikilink")、[パリ国立高等鉱業学校](https://ja.wikipedia.org/wiki/パリ国立高等鉱業学校 "wikilink")、[国立土木学校](https://ja.wikipedia.org/wiki/国立土木学校 "wikilink")などは、さらに専門化した研究分野を提供している。 これまでに、それらの分野においてParisTechは工学と科学の発展の最前線に立ち続けてきており、またフランス工業において成果を上げる技術者を養成し続けてきた。ParisTechは2006年から2013年までヨーロッパで最高の工学大学の提携である[IDEAリーグ](https://ja.wikipedia.org/wiki/IDEAリーグ "wikilink")の一員で、[ATHENS programmeと](https://ja.wikipedia.org/wiki/ATHENS_programme "wikilink")[UNITECH International Societyのメンバーでもある](https://ja.wikipedia.org/wiki/UNITECH_International_Society "wikilink")。
+ParisTechのメンバーは名声ある公的な学術機関または研究機関であり、それらの多くは18世紀に設立された機関である。幾つかの機関は科学における多方面にわたる研究を行っている。例えば、有名な[エコール・ポリテクニーク](../Page/エコール・ポリテクニーク.md "wikilink")、[パリ国立高等鉱業学校](../Page/パリ国立高等鉱業学校.md "wikilink")、[国立土木学校](../Page/国立土木学校.md "wikilink")などは、さらに専門化した研究分野を提供している。 これまでに、それらの分野においてParisTechは工学と科学の発展の最前線に立ち続けてきており、またフランス工業において成果を上げる技術者を養成し続けてきた。ParisTechは2006年から2013年までヨーロッパで最高の工学大学の提携である[IDEAリーグ](https://ja.wikipedia.org/wiki/IDEAリーグ "wikilink")の一員で、[ATHENS programmeと](https://ja.wikipedia.org/wiki/ATHENS_programme "wikilink")[UNITECH International Societyのメンバーでもある](https://ja.wikipedia.org/wiki/UNITECH_International_Society "wikilink")。
 
 ParisTechのメンバーの大学と組織は以下の通りである。
 
-  - [国立土木学校](https://ja.wikipedia.org/wiki/国立土木学校 "wikilink")（École nationale des ponts et chaussées）, 1747年設立
+  - [国立土木学校](../Page/国立土木学校.md "wikilink")（École nationale des ponts et chaussées）, 1747年設立
   - AgroParisTech (Paris Institute of Technology for life, food and environmental sciences), 2007年設立。傘下に[ENEFなどの農業学校を持つ](https://ja.wikipedia.org/wiki/フランス国立農村工学・河川・森林学校 "wikilink")
   - École nationale de la statistique et de l'administration économique（ENSAE）, 1942年設立
   - École nationale supérieure d'arts et métiers, 1780年設立
   - École nationale supérieure de chimie de Paris（ENSCP）, 1896年設立
-  - [パリ国立高等鉱業学校](https://ja.wikipedia.org/wiki/パリ国立高等鉱業学校 "wikilink")（ENSMP）, 1783年設立
+  - [パリ国立高等鉱業学校](../Page/パリ国立高等鉱業学校.md "wikilink")（ENSMP）, 1783年設立
   - École nationale supérieure des télécommunications, 1878年設立
   - [国立先端技術学校](https://ja.wikipedia.org/wiki/国立先端技術学校 "wikilink") (École nationale supérieure de techniques avancées, ENSTA), 1970年設立
-  - [エコール・ポリテクニーク](https://ja.wikipedia.org/wiki/エコール・ポリテクニーク "wikilink"), 1794年設立
+  - [エコール・ポリテクニーク](../Page/エコール・ポリテクニーク.md "wikilink"), 1794年設立
   - École supérieure de physique et de chimie industrielles de la ville de Paris, 1882年設立
   - 光学研究所大学院、Institut d'Optique Graduate School, 1917年設立
   - [HEC経営大学院](https://ja.wikipedia.org/wiki/HEC経営大学院 "wikilink")（École des hautes études commerciales de Paris）1881年設立

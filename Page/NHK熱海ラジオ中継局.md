@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK熱海ラジオ中継局**（エヌエイチケイあたみラジオちゅうけいきょく）は、[静岡県](../Page/静岡県.md "wikilink")[熱海市](https://ja.wikipedia.org/wiki/熱海市 "wikilink")に置かれている[NHK静岡放送局](https://ja.wikipedia.org/wiki/NHK静岡放送局 "wikilink")[ラジオ第1放送の](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")[中継局](../Page/中継局.md "wikilink")。
+**NHK熱海ラジオ中継局**（エヌエイチケイあたみラジオちゅうけいきょく）は、[静岡県](../Page/静岡県.md "wikilink")[熱海市](https://ja.wikipedia.org/wiki/熱海市 "wikilink")に置かれている[NHK静岡放送局](../Page/NHK静岡放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")。
 
 尚、同地に設置されている**NHK熱海錦ヶ浦テレビ中継局**についても併せて記載する。
 
@@ -19,7 +19,7 @@
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a><br />
 （<a href="https://ja.wikipedia.org/wiki/キロヘルツ" title="wikilink">kHz</a>）</p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -30,8 +30,8 @@
 <tbody>
 <tr class="odd">
 <td><p>1161</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK静岡放送局" title="wikilink">NHK静岡</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHKラジオ第1放送" title="wikilink">第1</a></p></td>
+<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">NHK静岡</a><br />
+<a href="../Page/NHKラジオ第1放送.md" title="wikilink">第1</a></p></td>
 <td><p>100W</p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p>約-世帯</p></td>
@@ -54,7 +54,7 @@
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 番号</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
 <th><p>空中線<br />
 電力</p></th>
@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>NHK静岡<br />
-<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>40</p></td>
 <td><p>50mW</p></td>
 <td><p>250mW</p></td>
@@ -82,7 +82,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK静岡<br />
-<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -101,8 +101,8 @@
 #### 歴史
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
-      - [10月21日](../Page/10月21日.md "wikilink") - [予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付\[8\]
-      - [10月25日](../Page/10月25日.md "wikilink") - [試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始
+      - [10月21日](../Page/10月21日.md "wikilink") - [予備免許](../Page/予備免許.md "wikilink")交付\[8\]
+      - [10月25日](../Page/10月25日.md "wikilink") - [試験放送](../Page/試験放送.md "wikilink")開始
       - [11月25日](../Page/11月25日.md "wikilink") - 本免許交付\[9\]
       - [12月2日](../Page/12月2日.md "wikilink") - 本放送開始\[10\]
 

@@ -7,7 +7,7 @@
 
 [2002年](../Page/2002年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")、いくつかの変更を施されて、[PlayStation 2専用ソフトとしてセガより発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（日本版のみ）。
 
-[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")の[喰始](https://ja.wikipedia.org/wiki/喰始 "wikilink")が企画で参加。アニメーション作家は木下蓮三。声優は主人公スラップ君を白石冬美、それ以外を[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")の[久本雅美](../Page/久本雅美.md "wikilink")、[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")他が担当。PS2移植版ではスラップ君の声を[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")が担当している。
+[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")の[喰始](../Page/喰始.md "wikilink")が企画で参加。アニメーション作家は木下蓮三。声優は主人公スラップ君を白石冬美、それ以外を[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")の[久本雅美](../Page/久本雅美.md "wikilink")、[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")他が担当。PS2移植版ではスラップ君の声を[谷啓](../Page/谷啓.md "wikilink")が担当している。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ### 北米版での変更点
 
-  - [谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")のギャグも意味のある英語に置き換えられているところがある。
+  - [谷啓](../Page/谷啓.md "wikilink")のギャグも意味のある英語に置き換えられているところがある。
   - それに伴ってスラップ君のセリフも英語で吹き替えられているところがある。
 
 ## ストーリー
@@ -45,14 +45,14 @@
   - [白石冬美](../Page/白石冬美.md "wikilink")
       -
         スラップ君を担当。
-  - [谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")
+  - [谷啓](../Page/谷啓.md "wikilink")
       -
         「ガチョーン」などのギャグ音声、PS2版ではスラップ君を担当。
   - [久本雅美](../Page/久本雅美.md "wikilink")
   - [柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")
-  - [梅垣義明](https://ja.wikipedia.org/wiki/梅垣義明 "wikilink")
-  - [吹越満](https://ja.wikipedia.org/wiki/吹越満 "wikilink")
-  - [佐藤正宏](https://ja.wikipedia.org/wiki/佐藤正宏 "wikilink")
+  - [梅垣義明](../Page/梅垣義明.md "wikilink")
+  - [吹越満](../Page/吹越満.md "wikilink")
+  - [佐藤正宏](../Page/佐藤正宏.md "wikilink")
   - [ケント・フリック](https://ja.wikipedia.org/wiki/ケント・フリック "wikilink")
       -
         人間効果音を担当。
@@ -75,13 +75,13 @@
   - スラップ君の声を谷啓が担当している。
   - [アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")が起きたため、誤ったスイッチを押すと世界各地のモニュメントが「破壊される」という演出が「ウンコまみれになる」に変更された。その影響で2002年春の予定だった発売が夏に延期された。
   - 取扱説明書に[メガCD](../Page/メガCD.md "wikilink")版の説明書が縮刷されているが、当時の出演者欄にはボカシが入れられている。
-  - [喰始](https://ja.wikipedia.org/wiki/喰始 "wikilink")、[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")がデザインを担当したキャラがゲーム中の隠しキャラ及びエンディングで登場する\[1\]。
+  - [喰始](../Page/喰始.md "wikilink")、[谷啓](../Page/谷啓.md "wikilink")がデザインを担当したキャラがゲーム中の隠しキャラ及びエンディングで登場する\[1\]。
 
 ## スタッフ
 
-  - 企画／構成／演出：[喰始](https://ja.wikipedia.org/wiki/喰始 "wikilink")
+  - 企画／構成／演出：[喰始](../Page/喰始.md "wikilink")
   - 絵コンテ：木下蓮三
-  - 音楽：[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")
+  - 音楽：[谷啓](../Page/谷啓.md "wikilink")
   - 人間効果音：[ケント・フリック](https://ja.wikipedia.org/wiki/ケント・フリック "wikilink")
   - 総合プロデュース：有限会社オフィスアイ
   - 音楽総合プロデュース：マイルストーン音楽出版株式会社
@@ -95,7 +95,7 @@
   - グラフィックデザイン：吉田千恵、石渡爾奈、吉森克文、横川聡、嶋沢清美、林雅美、馬立敬一、坂啓典
   - グラフィックデザイン助っ人：長谷川雅幸、長谷川久美、佐々木浩一、雲野雅広、吉田謙太郎、西山彰則、山本友浩、星野一幸、杵村史朗
   - サウンド：久保田浩、瀬津丸勝、佐々木朋子、川平真二
-  - サウンド助っ人：荒木将器（株式会社[アグレックス](https://ja.wikipedia.org/wiki/アグレックス "wikilink")）
+  - サウンド助っ人：荒木将器（株式会社[アグレックス](../Page/アグレックス.md "wikilink")）
   - ゲームチェック：藤井睦弘、大里三史、志賀常雄、高島圭、橘砂登士
   - スーパーバイザー：押谷真、浅井敏典、佐藤幸夫、川口博之、上保徳彦
   - プログラム協力：株式会社アグレックス
@@ -113,13 +113,13 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[メガドライブFAN](https://ja.wikipedia.org/wiki/ドリームキャストFAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.7点（満30点）となっている\[3\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.7点（満30点）となっている\[3\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
 | 得点 | 4.4   | 3.9 | 3.4  | 3.9 | 3.4 | 4.7     | 23.7 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）では、「スイッチがあれば押したくなるだろ\!そんな欲望に忠実すぎて、狂気あふれまくっちゃった、恐るべきゲーム」、「こんなゲームを作るなんて、日本の[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")、ワハハ本舗のリーダー喰始はタダ者じゃない。ほとんどの効果音を声帯模写芸人ケント・フリックが演じてるってのも、泣かせるじゃないか」と評している\[4\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「スイッチがあれば押したくなるだろ\!そんな欲望に忠実すぎて、狂気あふれまくっちゃった、恐るべきゲーム」、「こんなゲームを作るなんて、日本の[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")、ワハハ本舗のリーダー喰始はタダ者じゃない。ほとんどの効果音を声帯模写芸人ケント・フリックが演じてるってのも、泣かせるじゃないか」と評している\[4\]。
 
 ## 関連書籍
 
@@ -128,7 +128,7 @@
 
 ## 関連項目
 
-  - 『フォーバブルボウズ（谷啓&[ポカスカジャン](https://ja.wikipedia.org/wiki/ポカスカジャン "wikilink")）COLLECTION』- 2002年9月19日に[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")から発売されたアルバム。『SWITCH』で使用された楽曲が収録されている。
+  - 『フォーバブルボウズ（谷啓&[ポカスカジャン](../Page/ポカスカジャン.md "wikilink")）COLLECTION』- 2002年9月19日に[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")から発売されたアルバム。『SWITCH』で使用された楽曲が収録されている。
 
 ## 脚注
 

@@ -1,19 +1,19 @@
 > この記事は[FM-8](https://ja.wikipedia.org/wiki/FM-8)から翻訳されています。
 
 
-**FM-8**（エフ・エム・エイト）は、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")に[富士通](../Page/富士通.md "wikilink")が初めて発売した8[ビット](../Page/ビット.md "wikilink")[パソコンである](../Page/パーソナルコンピュータ.md "wikilink")。正式名はFUJITSU MICRO 8\[1\]。
+**FM-8**（エフ・エム・エイト）は、[1981年](../Page/1981年.md "wikilink")に[富士通](../Page/富士通.md "wikilink")が初めて発売した8[ビット](../Page/ビット.md "wikilink")[パソコンである](../Page/パーソナルコンピュータ.md "wikilink")。正式名はFUJITSU MICRO 8\[1\]。
 
 ## 概要
 
-[モトローラ](../Page/モトローラ.md "wikilink")社の[CPU](../Page/CPU.md "wikilink") [MC6809](../Page/MC6809.md "wikilink")をメインCPUとグラフィックを独立制御するディスプレイサブシステムへそれぞれ搭載する2CPUのアーキテクチャを採用。メインCPUとサブシステムは、ホストCPUとグラフィック端末の関係にあたり、サブプロセッサが、グラフィックス処理など、当時のハードウェアにとって大きな処理を肩代わりすることで、メインCPUの処理を軽減し、全体としてのパフォーマンス向上を目指した。このアーキテクチャは後の[FM-7](../Page/FM-7.md "wikilink")シリーズ、[FM-11](https://ja.wikipedia.org/wiki/FM-11 "wikilink")シリーズ、[FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")シリーズまで引き継がれてゆく。
+[モトローラ](../Page/モトローラ.md "wikilink")社の[CPU](../Page/CPU.md "wikilink") [MC6809](../Page/MC6809.md "wikilink")をメインCPUとグラフィックを独立制御するディスプレイサブシステムへそれぞれ搭載する2CPUのアーキテクチャを採用。メインCPUとサブシステムは、ホストCPUとグラフィック端末の関係にあたり、サブプロセッサが、グラフィックス処理など、当時のハードウェアにとって大きな処理を肩代わりすることで、メインCPUの処理を軽減し、全体としてのパフォーマンス向上を目指した。このアーキテクチャは後の[FM-7](../Page/FM-7.md "wikilink")シリーズ、[FM-11](../Page/FM-11.md "wikilink")シリーズ、[FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")シリーズまで引き継がれてゆく。
 
-富士通の発表\[2\]によれば世界で初めてパソコンに当時の[大型機並みの](https://ja.wikipedia.org/wiki/汎用コンピュータ "wikilink")64Kビット[DRAMを採用し](../Page/Dynamic_Random_Access_Memory.md "wikilink")\[3\]、640×200ドット8色の表示機能、アナログ入力や[RS-232](../Page/RS-232.md "wikilink")Cの標準装備など当時としては画期的な機能を搭載し、218,000円という戦略的価格で発売した。オプションには[漢字](../Page/漢字.md "wikilink")ROMや[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブ（5インチ、8インチ）、[バブルカセット](https://ja.wikipedia.org/wiki/磁気バブル#磁気バブルメモリ "wikilink")（32KB、128KB）などの補助記憶装置のほか、[GP-IB](https://ja.wikipedia.org/wiki/GP-IB "wikilink")（[IEEE 488](https://ja.wikipedia.org/wiki/IEEE_488 "wikilink")）ボード、I/O制御ボードなど計測機器との接続や外部機器制御を目的とした拡張ボードや、FM-8を大型コンピュータのオンライン端末やオフラインのデータ入力端末として利用するソフトも提供され、パーソナルユースに加え富士通の得意とするビジネスユースを強く意識した商品でもあった。また[Z80](../Page/Z80.md "wikilink")カードを搭載することで[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")の動作も可能で、海外製の各種言語や開発ソフト、データベースを提供した事もコンピュータソフト開発関係者の需要を見込んだものである。後に[8088カードと](../Page/Intel_8088.md "wikilink")128KBの増設メモリーも発売された。Z80カードコネクタにはメインCPUのバスが接続されており、ここに接続するPSG音源カードがサードパーティから発表されている\[4\]。
+富士通の発表\[2\]によれば世界で初めてパソコンに当時の[大型機並みの](https://ja.wikipedia.org/wiki/汎用コンピュータ "wikilink")64Kビット[DRAMを採用し](../Page/Dynamic_Random_Access_Memory.md "wikilink")\[3\]、640×200ドット8色の表示機能、アナログ入力や[RS-232](../Page/RS-232.md "wikilink")Cの標準装備など当時としては画期的な機能を搭載し、218,000円という戦略的価格で発売した。オプションには[漢字](../Page/漢字.md "wikilink")ROMや[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブ（5インチ、8インチ）、[バブルカセット](https://ja.wikipedia.org/wiki/磁気バブル#磁気バブルメモリ "wikilink")（32KB、128KB）などの補助記憶装置のほか、[GP-IB](https://ja.wikipedia.org/wiki/GP-IB "wikilink")（[IEEE 488](../Page/IEEE_488.md "wikilink")）ボード、I/O制御ボードなど計測機器との接続や外部機器制御を目的とした拡張ボードや、FM-8を大型コンピュータのオンライン端末やオフラインのデータ入力端末として利用するソフトも提供され、パーソナルユースに加え富士通の得意とするビジネスユースを強く意識した商品でもあった。また[Z80](../Page/Z80.md "wikilink")カードを搭載することで[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")の動作も可能で、海外製の各種言語や開発ソフト、データベースを提供した事もコンピュータソフト開発関係者の需要を見込んだものである。後に[8088カードと](../Page/Intel_8088.md "wikilink")128KBの増設メモリーも発売された。Z80カードコネクタにはメインCPUのバスが接続されており、ここに接続するPSG音源カードがサードパーティから発表されている\[4\]。
 
 内蔵する電源からの発熱が大きく、筐体の電源上部にあたる部分にスリットが設けられた事から、発表資料と製品カタログでは外観が異なる。また、製品が潤沢に供給されるようになったのは1981年末頃からであった。
 
-後に、姉妹機種として一部機能を割愛、高速化した廉価版である[FM-7](../Page/FM-7.md "wikilink")と、上位機種である[FM-11](https://ja.wikipedia.org/wiki/FM-11 "wikilink")シリーズが発売された。FM-7発表後は、メインCPU・サブCPUの高速化やカードスロットの外付けなど、FM-7との互換性を確保する改造がホビーユーザを中心に流行した。
+後に、姉妹機種として一部機能を割愛、高速化した廉価版である[FM-7](../Page/FM-7.md "wikilink")と、上位機種である[FM-11](../Page/FM-11.md "wikilink")シリーズが発売された。FM-7発表後は、メインCPU・サブCPUの高速化やカードスロットの外付けなど、FM-7との互換性を確保する改造がホビーユーザを中心に流行した。
 
-[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")は[伊藤麻衣子](https://ja.wikipedia.org/wiki/いとうまい子 "wikilink")。女性アイドル起用の先駆けでもあった。
+[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")は[伊藤麻衣子](../Page/いとうまい子.md "wikilink")。女性アイドル起用の先駆けでもあった。
 
 ## オプション
 
@@ -50,7 +50,7 @@
       - SM07217-M042 OS-9/6809 Level 1（8"版）
       - SM07217-M021 FLEX（5.25"版）
       - SM07217-M022 FLEX（8"版）
-      - SM07217-M033 [UCSD Pascal](https://ja.wikipedia.org/wiki/UCSD_Pascal "wikilink")（5.25"版）
+      - SM07217-M033 [UCSD Pascal](../Page/UCSD_Pascal.md "wikilink")（5.25"版）
       - SM07217-M034 UCSD Pascal（8"版）
       - SM07217-M011 [CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")-80（5.25"版 Z80カード装着時）
       - SM07217-M012 CP/M-80（8"版 Z80カード装着時）
@@ -93,7 +93,7 @@
 ## 関連項目
 
   - [FM-7](../Page/FM-7.md "wikilink")シリーズ - FM-8の廉価版後継機種
-  - [FM-11](https://ja.wikipedia.org/wiki/FM-11 "wikilink")シリーズ - FM-8の大幅機能強化版機種
+  - [FM-11](../Page/FM-11.md "wikilink")シリーズ - FM-8の大幅機能強化版機種
   - [FM-X](../Page/FM-X.md "wikilink")
   - [FM-77シリーズ](https://ja.wikipedia.org/wiki/FM-7#FM-77 "wikilink")
   - [FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")シリーズ
@@ -101,8 +101,8 @@
   - [FM77AVシリーズ](https://ja.wikipedia.org/wiki/FM-7#FM77AV "wikilink")
   - [FMRシリーズ](../Page/FMRシリーズ.md "wikilink")
   - [FM TOWNSシリーズ](../Page/FM_TOWNS.md "wikilink")
-  - [FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")シリーズ
-  - [伊藤麻衣子](https://ja.wikipedia.org/wiki/いとうまい子 "wikilink") - 初代イメージキャラクター
+  - [FMV](../Page/FMV.md "wikilink")シリーズ
+  - [伊藤麻衣子](../Page/いとうまい子.md "wikilink") - 初代イメージキャラクター
 
 ## 外部リンク
 
@@ -117,4 +117,4 @@
 4.  姉妹機の位置づけで発売された[FM-7](../Page/FM-7.md "wikilink")にも物理形状は異なるもののほぼ同様の回路が実装されたため、FM-7用で音源を使用するソフトがFM-8でもそのまま動作した。
 5.  株式会社システムズフォーミュレート『パーソナルコンピュータBUBCOM80カタログ』
 6.  毎日新聞社経済部編『これがベンチャーだ すご～い会社 もうかるビジネス』毎日新聞社、1983年、pp.53-54
-7.  [関口和一](https://ja.wikipedia.org/wiki/関口和一 "wikilink")『パソコン革命の旗手たち』日本経済新聞社、2000年、p.262
+7.  [関口和一](../Page/関口和一.md "wikilink")『パソコン革命の旗手たち』日本経済新聞社、2000年、p.262

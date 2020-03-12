@@ -1,11 +1,11 @@
 > この記事は[Lisa \(\)](https://ja.wikipedia.org/wiki/Lisa_\(\))から翻訳されています。
 
 
-**Lisa**（リサ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[アップルコンピュータが製造](../Page/アップル_\(企業\).md "wikilink")・販売した[オフィス](../Page/オフィス.md "wikilink")向け[16ビット](https://ja.wikipedia.org/wiki/16ビット "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")である。当時としては先進的な[GUI機能と操作性を持っていたが](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、動作の遅さや価格の高さなどの理由で商業的には失敗した。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_Lisa.jpg "wikilink")
+**Lisa**（リサ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[アップルコンピュータが製造](../Page/アップル_\(企業\).md "wikilink")・販売した[オフィス](../Page/オフィス.md "wikilink")向け[16ビット](../Page/16ビット.md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")である。当時としては先進的な[GUI機能と操作性を持っていたが](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、動作の遅さや価格の高さなどの理由で商業的には失敗した。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_Lisa.jpg "wikilink")
 
 ## 名称の由来
 
-このコンピュータの名称は、アップルの正式発表では"Local Integrated System Architecture"の頭文字をとったものとされている。しかし、名称の由来はLisaのプロジェクトリーダーであるジョン・カウチの娘だとされていた。後にカウチの証言により[スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/スティーブ・ジョブズ "wikilink")の娘からとられたことが明かされている\[1\]。
+このコンピュータの名称は、アップルの正式発表では"Local Integrated System Architecture"の頭文字をとったものとされている。しかし、名称の由来はLisaのプロジェクトリーダーであるジョン・カウチの娘だとされていた。後にカウチの証言により[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")の娘からとられたことが明かされている\[1\]。
 
 また、スティーブ・ジョブズの伝記を執筆した[ウォルター・アイザックソン](https://ja.wikipedia.org/wiki/ウォルター・アイザックソン "wikilink")によれば、1978年当時、 命名者のジョブズにはクリスアン・ブレナンとの間に[婚外子](https://ja.wikipedia.org/wiki/婚外子 "wikilink")のが誕生しており、父子鑑定テストの結果、94.41%の確率で親子であると確認されているにもかかわらず、ジョブズが認知を拒否しているという事情が存在したため、リサ・プロジェクトの広報を担当していた[レジス・マッケンナ](https://ja.wikipedia.org/wiki/レジス・マッケンナ "wikilink")社が、先述の語源を作ったのだという。
 
@@ -13,11 +13,11 @@
 
 スティーブ・ジョブズは娘リサに、Apple Lisaは自分の名前に因むのかと尋ねられた際、度々「違う」と回答していた。だが2005年、[U2](../Page/U2.md "wikilink")のボノの別荘にリサと宿泊した際、ボノが「Lisaはこの子の名前から取ったのか」と訊いた際、ジョブズは娘の前で「そうだ」と認めた\[4\]。
 
-なお、カウチによれば[Apple IIIの次にあたるマシンのため](https://ja.wikipedia.org/wiki/Apple_III "wikilink")「Apple 400」という名称が候補に上がり、折衷案として「Lisa 400」も根強かったが、結局「Lisa」に落ち着いたとのことである\[5\]。
+なお、カウチによれば[Apple IIIの次にあたるマシンのため](../Page/Apple_III.md "wikilink")「Apple 400」という名称が候補に上がり、折衷案として「Lisa 400」も根強かったが、結局「Lisa」に落ち着いたとのことである\[5\]。
 
 ## ハードウェア
 
-本体・[ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")・[外部記憶装置一体型で](../Page/補助記憶装置.md "wikilink")、当時としては広大な内蔵[RAM領域を持っていた](../Page/Random_Access_Memory.md "wikilink")。[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の[ProFile](https://ja.wikipedia.org/wiki/ProFile "wikilink")を本体の上に載せて使用される事が多い。セパレート型の[キーボードには](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、リファレンスカードが底面から引き出して使えるようになっている。また、専用の工具なしに本体を開ける事ができ、[マイクロスイッチ](https://ja.wikipedia.org/wiki/マイクロスイッチ "wikilink")を用いた[センサ](../Page/センサ.md "wikilink")でパネルを開いた状態では起動ができないようになっていた。[マウスは箱状のワンボタンマウス](../Page/マウス_\(コンピュータ\).md "wikilink")。
+本体・[ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")・[外部記憶装置一体型で](../Page/補助記憶装置.md "wikilink")、当時としては広大な内蔵[RAM領域を持っていた](../Page/Random_Access_Memory.md "wikilink")。[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の[ProFile](https://ja.wikipedia.org/wiki/ProFile "wikilink")を本体の上に載せて使用される事が多い。セパレート型の[キーボードには](../Page/キーボード_\(コンピュータ\).md "wikilink")、リファレンスカードが底面から引き出して使えるようになっている。また、専用の工具なしに本体を開ける事ができ、[マイクロスイッチ](https://ja.wikipedia.org/wiki/マイクロスイッチ "wikilink")を用いた[センサ](../Page/センサ.md "wikilink")でパネルを開いた状態では起動ができないようになっていた。[マウスは箱状のワンボタンマウス](../Page/マウス_\(コンピュータ\).md "wikilink")。
 
 Lisaでは、記録密度を上げるためにアクセスウィンドウが2つある5.25インチの[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")「ツイギー」を搭載していたが、Lisa2では[Macintosh 128Kで使用した](https://ja.wikipedia.org/wiki/Macintosh_128K "wikilink")[ソニー](../Page/ソニー.md "wikilink")製の3.5インチドライブに変更された。
 
@@ -29,15 +29,15 @@ Lisaの為にデザインされたApple Mouseは、[IDEO](https://ja.wikipedia.o
 
 Lisaに搭載されていたLisa Office System・通称Lisa OSは、パーソナルコンピュータ初の[GUI環境の](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) だった。[協調型マルチタスク機能と](https://ja.wikipedia.org/wiki/マルチタスク#ノンプリエンプティブ・マルチタスク "wikilink")[メモリ保護機能](https://ja.wikipedia.org/wiki/メモリ保護機能 "wikilink")を備えているのも特徴である。
 
-[デスクトップは](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")、後の[Macintosh](../Page/Macintosh.md "wikilink")の[Finder](https://ja.wikipedia.org/wiki/Finder "wikilink")上のレイアウトのように画面右縦に[アイコン](../Page/アイコン.md "wikilink")が並ぶのではなく、画面下に「Preferences」「Clock」「Calculator」「Clipboard」 「ProFile」などが横に並ぶレイアウトだった。さらに[ごみ箱は](https://ja.wikipedia.org/wiki/ごみ箱_\(GUI\) "wikilink")、「Wastebasket」である。
+[デスクトップは](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")、後の[Macintosh](../Page/Macintosh.md "wikilink")の[Finder](../Page/Finder.md "wikilink")上のレイアウトのように画面右縦に[アイコン](../Page/アイコン.md "wikilink")が並ぶのではなく、画面下に「Preferences」「Clock」「Calculator」「Clipboard」 「ProFile」などが横に並ぶレイアウトだった。さらに[ごみ箱は](../Page/ごみ箱_\(GUI\).md "wikilink")、「Wastebasket」である。
 
-1983年の Lisa Office System Release 1.0では、ビジネスで必要とされるソフトウエア群"Lisa Office"としてLisa Write（[ワープロ](../Page/ワードプロセッサ.md "wikilink")）、LisaDraw（[図表作成](https://ja.wikipedia.org/wiki/ドローソフト "wikilink")）、LisaCalc（[表計算](https://ja.wikipedia.org/wiki/表計算ソフト "wikilink")）、LisaProject（プロジェクト管理）、LisaList（リスト式[データベース](../Page/データベース.md "wikilink")）が、[1984年](../Page/1984年.md "wikilink")のLisa7/7 Office System Release 3.1では、 上記6ソフトに加えLisaTerminalがバンドルされていた。
+1983年の Lisa Office System Release 1.0では、ビジネスで必要とされるソフトウエア群"Lisa Office"としてLisa Write（[ワープロ](../Page/ワードプロセッサ.md "wikilink")）、LisaDraw（[図表作成](../Page/ドローソフト.md "wikilink")）、LisaCalc（[表計算](../Page/表計算ソフト.md "wikilink")）、LisaProject（プロジェクト管理）、LisaList（リスト式[データベース](../Page/データベース.md "wikilink")）が、[1984年](../Page/1984年.md "wikilink")のLisa7/7 Office System Release 3.1では、 上記6ソフトに加えLisaTerminalがバンドルされていた。
 
 ### Lisa Workshop
 
 Lisa WorkshopはLisa 上の[統合開発環境](../Page/統合開発環境.md "wikilink")である。Lisa OSと異なり、ほぼ完全にテキストベースだった。開発言語は[Pascal](../Page/Pascal.md "wikilink")および[Object Pascalだった](../Page/Object_Pascal.md "wikilink")。
 
-Macintoshのソフトウェアも、当初はLisa Workshop上で[クロス開発されていた](https://ja.wikipedia.org/wiki/クロスコンパイラ "wikilink")。この環境をMacintosh上に引き継いだものがAPDA MPW (Apple Programmers and Developpers Association Macintosh Programmer's Workshop) である。開発言語はLisa Pascalを継承したMPW Pascalに加え、当時最も優れた[C言語](../Page/C言語.md "wikilink")環境だったLight Speed C\[8\]に代わる純正のC言語の期待に応えてMPW Cが登場、その後ほとんどのプログラムはCで記述されることになった。
+Macintoshのソフトウェアも、当初はLisa Workshop上で[クロス開発されていた](../Page/クロスコンパイラ.md "wikilink")。この環境をMacintosh上に引き継いだものがAPDA MPW (Apple Programmers and Developpers Association Macintosh Programmer's Workshop) である。開発言語はLisa Pascalを継承したMPW Pascalに加え、当時最も優れた[C言語](../Page/C言語.md "wikilink")環境だったLight Speed C\[8\]に代わる純正のC言語の期待に応えてMPW Cが登場、その後ほとんどのプログラムはCで記述されることになった。
 
 ## Macintosh XL
 
@@ -74,7 +74,7 @@ Appleの16ビットマシンの主力が[Macintosh](../Page/Macintosh.md "wikili
 [Category:アップルのパソコン](https://ja.wikipedia.org/wiki/Category:アップルのパソコン "wikilink")
 
 1.  斉藤由多加『マッキントッシュ伝説』
-2.  リサ─新造の下らない頭字語という意、[再帰的頭字語](https://ja.wikipedia.org/wiki/再帰的頭字語 "wikilink")になっている。
+2.  リサ─新造の下らない頭字語という意、[再帰的頭字語](../Page/再帰的頭字語.md "wikilink")になっている。
 3.
 4.
 5.  前掲『マッキントッシュ伝説』

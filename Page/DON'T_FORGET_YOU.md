@@ -5,13 +5,13 @@
 
 ## 内容
 
-メルダック移籍第一弾シングル。アルバム「[OH SHINY DAYS](https://ja.wikipedia.org/wiki/OH_SHINY_DAYS_\(アルバム\) "wikilink")」の収録予定であったが、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ「[さすらい刑事旅情編](https://ja.wikipedia.org/wiki/さすらい刑事旅情編 "wikilink")VI」の主題歌であったため、シングル化した楽曲である。このシングルリリース後、[松川敏也](../Page/松川敏也.md "wikilink")（ギター）が加入し、アルバム『[Feel All Right](../Page/Feel_All_Right.md "wikilink")』にて、表題曲に松川のギターパートを追加する事になる。
+メルダック移籍第一弾シングル。アルバム「[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(アルバム\).md "wikilink")」の収録予定であったが、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ「[さすらい刑事旅情編](../Page/さすらい刑事旅情編.md "wikilink")VI」の主題歌であったため、シングル化した楽曲である。このシングルリリース後、[松川敏也](../Page/松川敏也.md "wikilink")（ギター）が加入し、アルバム『[Feel All Right](../Page/Feel_All_Right.md "wikilink")』にて、表題曲に松川のギターパートを追加する事になる。
 
 ## 収録曲
 
 1.  **DON'T FORGET YOU**
       -
-        作詞:[向井玲子](../Page/向井玲子.md "wikilink") 作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") 編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
+        作詞:[向井玲子](../Page/向井玲子.md "wikilink") 作曲:[川島だりあ](../Page/川島だりあ.md "wikilink") 編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
 2.  **君を抱いて眠りたい**
       -
         作詞:森山翔 作曲:望月斉 編曲:葉山たけし
@@ -19,7 +19,7 @@
 
 ## 参加ミュージシャン
 
-  - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink") - ボーカル
+  - [生沢佑一](../Page/生沢佑一.md "wikilink") - ボーカル
       - 葉山たけし - ギター、シンセサイザー
       - 高原裕枝 - コーラス
 
@@ -27,7 +27,7 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [TWINZER](../Page/TWINZER.md "wikilink")
-      - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")
+      - [生沢佑一](../Page/生沢佑一.md "wikilink")
       - [松川敏也](../Page/松川敏也.md "wikilink")
   - [葉山たけし](../Page/葉山たけし.md "wikilink")
 

@@ -15,10 +15,10 @@
 
 ## 歴史
 
-  - [2002年](../Page/2002年.md "wikilink") - [12月12日](../Page/12月12日.md "wikilink")に[国立霞ヶ丘陸上競技場](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")で合同トライアウトを初実施。次いで翌[2003年](../Page/2003年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")に2回目の合同トライアウトを同競技場で実施。参加選手は初回約80名、2回目は約60名だった\[6\]。
-  - 2003年 - [12月9日](../Page/12月9日.md "wikilink")に[アミノバイタルフィールドで](https://ja.wikipedia.org/wiki/東京スタジアム補助グラウンド "wikilink")、次いで翌[2004年](../Page/2004年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")に同じくアミノバイタルフィールドで実施された。
-  - 2004年 - [12月16日](../Page/12月16日.md "wikilink")に[日立柏サッカー場](../Page/日立柏サッカー場.md "wikilink")で、次いで翌[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")にアミノバイタル・フィールドで実施された。
-  - 2005年 - 初めて、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")と[関東](../Page/関東.md "wikilink")で分割して開催。1回目として[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[長居陸上競技場](../Page/長居陸上競技場.md "wikilink")で、次いで2回目として翌[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")に[フクダ電子アリーナ](https://ja.wikipedia.org/wiki/フクダ電子アリーナ "wikilink")で実施。
+  - [2002年](../Page/2002年.md "wikilink") - [12月12日](../Page/12月12日.md "wikilink")に[国立霞ヶ丘陸上競技場](../Page/国立霞ヶ丘陸上競技場.md "wikilink")で合同トライアウトを初実施。次いで翌[2003年](../Page/2003年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")に2回目の合同トライアウトを同競技場で実施。参加選手は初回約80名、2回目は約60名だった\[6\]。
+  - 2003年 - [12月9日](../Page/12月9日.md "wikilink")に[アミノバイタルフィールドで](../Page/東京スタジアム補助グラウンド.md "wikilink")、次いで翌[2004年](../Page/2004年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")に同じくアミノバイタルフィールドで実施された。
+  - 2004年 - [12月16日](../Page/12月16日.md "wikilink")に[日立柏サッカー場](../Page/日立柏サッカー場.md "wikilink")で、次いで翌[2005年](../Page/2005年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")にアミノバイタル・フィールドで実施された。
+  - 2005年 - 初めて、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")と[関東](../Page/関東.md "wikilink")で分割して開催。1回目として[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[長居陸上競技場](../Page/長居陸上競技場.md "wikilink")で、次いで2回目として翌[2006年](../Page/2006年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に[フクダ電子アリーナ](../Page/フクダ電子アリーナ.md "wikilink")で実施。
   - [2011年](../Page/2011年.md "wikilink")シーズンからは経費削減などの一環でこれまでの「2回実施」を「1回実施」に切り替え、この年はフクダ電子アリーナ・[フクダ電子スクエアで行った](https://ja.wikipedia.org/wiki/千葉市蘇我スポーツ公園 "wikilink")。
   - [2014年](../Page/2014年.md "wikilink") - J2・J3がJ1よりも早く日程が終了することから\[7\]、[12月3日](../Page/12月3日.md "wikilink")にJ2・J3所属選手を中心として\[8\]、また12月16日にJ1所属選手を中心として2回実施された\[9\]。
   - [2015年](../Page/2015年.md "wikilink") - [12月8日](../Page/12月8日.md "wikilink")・9日の2日間、合わせて90名の選手が参加し、フクダ電子アリーナで実施\[10\]。

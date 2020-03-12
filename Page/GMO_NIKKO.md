@@ -1,7 +1,7 @@
 > この記事は[GMO NIKKO](https://ja.wikipedia.org/wiki/GMO_NIKKO)から翻訳されています。
 
 
-**GMO NIKKO株式会社**（ジーエムオーニッコウ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く、インタラクティブマーケティングを強みとする広告会社\[1\]。旧社名日広／NIKKO\[2\]。
+**GMO NIKKO株式会社**（ジーエムオーニッコウ）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く、インタラクティブマーケティングを強みとする広告会社\[1\]。旧社名日広／NIKKO\[2\]。
 
 ## 概要
 

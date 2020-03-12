@@ -9,7 +9,7 @@
 
 ## 概要
 
-商用[UNIX](../Page/UNIX.md "wikilink")への基幹機能提供をビジネスとするVERITAS社において、当初、商用[UNIX](../Page/UNIX.md "wikilink")でシェアトップであり、クラスターパッケージの無かった[SUNの](../Page/サン・マイクロシステムズ.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")向けに出荷されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在は[HP-UX](../Page/HP-UX.md "wikilink")、[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[VMware](https://ja.wikipedia.org/wiki/VMware "wikilink")に向けても製品出荷が行われている。
+商用[UNIX](../Page/UNIX.md "wikilink")への基幹機能提供をビジネスとするVERITAS社において、当初、商用[UNIX](../Page/UNIX.md "wikilink")でシェアトップであり、クラスターパッケージの無かった[SUNの](../Page/サン・マイクロシステムズ.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")向けに出荷されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在は[HP-UX](../Page/HP-UX.md "wikilink")、[AIX](../Page/AIX.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[VMware](../Page/VMware.md "wikilink")に向けても製品出荷が行われている。
 
 高可用クラスターとして、アプリケーションのサービスへの仮想IPの付与やNIC(ネットワークインターフェースカード：LANカードの略)の[OSに寄らない切り替え手段の実装など](../Page/オペレーティングシステム.md "wikilink")、普遍的な機能をいち早く実装しており、多くのユーザにて使用されている。
 
@@ -25,7 +25,7 @@
 ## 関連項目
 
   - [コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")
-  - [密結合クラスター](https://ja.wikipedia.org/wiki/密結合クラスター "wikilink")
+  - [密結合クラスター](../Page/密結合クラスター.md "wikilink")
 
 ## 外部リンク
 

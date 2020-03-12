@@ -9,7 +9,7 @@
 
 TWAIN は主に、[画像処理ソフトウェア](https://ja.wikipedia.org/wiki/画像処理ソフトウェア "wikilink")（[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")）と、スキャナやデジタルカメラとの間の[インタフェース](https://ja.wikipedia.org/wiki/インタフェース "wikilink")として使われている。
 
-TWAIN 標準仕様の初版は[1992年](../Page/1992年.md "wikilink")に発行された。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")にバージョン 2.0 が承認され、TWAIN ワーキンググループによって管理されている。
+TWAIN 標準仕様の初版は[1992年](../Page/1992年.md "wikilink")に発行された。 [2005年](../Page/2005年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")にバージョン 2.0 が承認され、TWAIN ワーキンググループによって管理されている。
 
 ## 欠点
 
@@ -27,7 +27,7 @@ TWAIN制御を行う場合は、TWAINドライバ([DLL](https://ja.wikipedia.org
 
 TWAIN という名前は、公式には略語ではないにもかかわらず、"**T**echnology（Toolkit）**W**ithout **A**n（Any）**I**nteresting（Important）**N**ame"の略語として広く知られている。
 
-TWAIN という語は、[キップリングの詩](https://ja.wikipedia.org/wiki/ラドヤード・キップリング "wikilink") "The Ballad of East and West" （東と西の歌）に由来する英語の成句 "...and never the **twain** shall meet..." （この**両者**は決して出会うことはない）から取られ、当時のスキャナとパーソナルコンピュータを接続する困難さを暗示した。 ワーキンググループ黎明期の活動の中で "Technology Without An Interesting Name" というフレーズが生まれたが、これは TWAIN に略される元の名前として採用されるには至らなかった\[1\]。
+TWAIN という語は、[キップリングの詩](../Page/ラドヤード・キップリング.md "wikilink") "The Ballad of East and West" （東と西の歌）に由来する英語の成句 "...and never the **twain** shall meet..." （この**両者**は決して出会うことはない）から取られ、当時のスキャナとパーソナルコンピュータを接続する困難さを暗示した。 ワーキンググループ黎明期の活動の中で "Technology Without An Interesting Name" というフレーズが生まれたが、これは TWAIN に略される元の名前として採用されるには至らなかった\[1\]。
 
 ## 関連項目
 

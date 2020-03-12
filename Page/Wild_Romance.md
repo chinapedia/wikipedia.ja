@@ -5,16 +5,16 @@
 
 ## 内容
 
-  - 1年2ヶ月ぶりのシングル。カップリングの「Shadow of your smile」と共に、作詞は[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")が手がけた。
+  - 1年2ヶ月ぶりのシングル。カップリングの「Shadow of your smile」と共に、作詞は[森雪之丞](../Page/森雪之丞.md "wikilink")が手がけた。
   - [コピーコントロールCD仕様である](https://ja.wikipedia.org/wiki/CCCD "wikilink")。
 
 ## 収録曲
 
 1.  **Wild Romance**
-      - 作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲・編曲：氷室京介
+      - 作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲・編曲：氷室京介
     <!-- end list -->
       -
-        [ギャガ](https://ja.wikipedia.org/wiki/ギャガ "wikilink")配給映画『[ヴァン・ヘルシング](https://ja.wikipedia.org/wiki/ヴァン・ヘルシング_\(映画\) "wikilink")』日本語吹き替え版テーマソング
+        [ギャガ](../Page/ギャガ.md "wikilink")配給映画『[ヴァン・ヘルシング](../Page/ヴァン・ヘルシング_\(映画\).md "wikilink")』日本語吹き替え版テーマソング
         本作品では、シングルバージョンを収録している。この曲のアウトロと、次曲「Shadow of your smile」のイントロが若干被さっている。
 2.  **Shadow of your smile**
       - 作詞：森雪之丞 / 作曲・編曲：氷室京介
@@ -73,8 +73,8 @@
 
 ## 関連項目
 
-  - [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
+  - [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")
   - [氷室京介](../Page/氷室京介.md "wikilink")
-  - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")
+  - [森雪之丞](../Page/森雪之丞.md "wikilink")
 
 [Category:氷室京介の楽曲](https://ja.wikipedia.org/wiki/Category:氷室京介の楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:氷室京介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:氷室京介が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")

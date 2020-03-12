@@ -32,25 +32,25 @@
 
 ## 概要
 
-Yak-42は、[Yak-40を大型化した短距離用](../Page/Yak-40_\(航空機\).md "wikilink")3発機である。機体はYak-40同様、[Tu-154や](https://ja.wikipedia.org/wiki/Tu-154_\(航空機\) "wikilink")[ボーイング727](https://ja.wikipedia.org/wiki/ボーイング727 "wikilink")のような機体後部にエンジンを設置した[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")レイアウトである。しかしながら、乗客数が120席と同じ小型の地域路線用のYak-40の30席クラスよりも4倍も増加しており、まったくの新造機と言ってもよい機体である。 また、Yak-40同様、機体後部に引き込み式タラップ（[エアステア](https://ja.wikipedia.org/wiki/エアステア "wikilink")）を備えていて、 [ボーディング・ブリッジ](https://ja.wikipedia.org/wiki/ボーディング・ブリッジ "wikilink")や[外付けタラップが無くても乗り降りが出来るようになっている](https://ja.wikipedia.org/wiki/タラップ "wikilink")\[1\]。
+Yak-42は、[Yak-40を大型化した短距離用](../Page/Yak-40_\(航空機\).md "wikilink")3発機である。機体はYak-40同様、[Tu-154や](../Page/Tu-154_\(航空機\).md "wikilink")[ボーイング727](../Page/ボーイング727.md "wikilink")のような機体後部にエンジンを設置した[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")レイアウトである。しかしながら、乗客数が120席と同じ小型の地域路線用のYak-40の30席クラスよりも4倍も増加しており、まったくの新造機と言ってもよい機体である。 また、Yak-40同様、機体後部に引き込み式タラップ（[エアステア](https://ja.wikipedia.org/wiki/エアステア "wikilink")）を備えていて、 [ボーディング・ブリッジ](../Page/ボーディング・ブリッジ.md "wikilink")や[外付けタラップが無くても乗り降りが出来るようになっている](../Page/タラップ.md "wikilink")\[1\]。
 
-[1973年](../Page/1973年.md "wikilink")に計画が公表され、[1975年](../Page/1975年.md "wikilink")に試作機が初飛行、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[アエロフロート・ソ連航空で就航している](https://ja.wikipedia.org/wiki/アエロフロート・ロシア航空 "wikilink")。しかし[1982年](../Page/1982年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に製造ミスによる水平安定板の機構不具合により墜落して乗員乗客全員が死亡する事故([アエロフロート8641便墜落事故](https://ja.wikipedia.org/wiki/アエロフロート8641便墜落事故 "wikilink"))が発生した。そのため、設計の修正が完了した[1984年](../Page/1984年.md "wikilink")まで全てのYak-42が飛行停止処分に置かれた。
+[1973年](../Page/1973年.md "wikilink")に計画が公表され、[1975年](../Page/1975年.md "wikilink")に試作機が初飛行、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[アエロフロート・ソ連航空で就航している](../Page/アエロフロート・ロシア航空.md "wikilink")。しかし[1982年](../Page/1982年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に製造ミスによる水平安定板の機構不具合により墜落して乗員乗客全員が死亡する事故([アエロフロート8641便墜落事故](https://ja.wikipedia.org/wiki/アエロフロート8641便墜落事故 "wikilink"))が発生した。そのため、設計の修正が完了した[1984年](../Page/1984年.md "wikilink")まで全てのYak-42が飛行停止処分に置かれた。
 
 現在では不具合も解決され、性能も優れているため今でも多くの派生型が生産中の模様である。主な派生型としては**Yak-42D**(****<small>ヤーク・ソーラク・ドヴァー・デー</small>)がある。*(Yak-42Dはかつての西側諸国での騒音規制もクリアしている。\[2\])*
 
-Yak-42は、[ロシア](../Page/ロシア.md "wikilink")や[ウクライナ](../Page/ウクライナ.md "wikilink")を中心に徐々に従来の[ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")製旅客機を代替するなどしてその運用の幅を広げている。旧ソ連諸国の[航空会社](../Page/航空会社.md "wikilink")では[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")後は西側製の機体を導入することが流行となったが、本機はその中にあって堅調な販売実績をあげているといえる。
+Yak-42は、[ロシア](../Page/ロシア.md "wikilink")や[ウクライナ](../Page/ウクライナ.md "wikilink")を中心に徐々に従来の[ツポレフ](../Page/ツポレフ.md "wikilink")製旅客機を代替するなどしてその運用の幅を広げている。旧ソ連諸国の[航空会社](../Page/航空会社.md "wikilink")では[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")後は西側製の機体を導入することが流行となったが、本機はその中にあって堅調な販売実績をあげているといえる。
 
 ### 運航している航空会社
 
   - [ウクライナ](../Page/ウクライナ.md "wikilink")
 
-      - [ウクライナ航空](https://ja.wikipedia.org/wiki/ウクライナ航空 "wikilink")
+      - [ウクライナ航空](../Page/ウクライナ航空.md "wikilink")
       - [ドンバスアエロ](https://ja.wikipedia.org/wiki/ドンバスアエロ "wikilink")
       - [リヴィウ航空](https://ja.wikipedia.org/wiki/リヴィウ航空 "wikilink")
 
   - [ウズベキスタン](../Page/ウズベキスタン.md "wikilink")
 
-      - [ウズベキスタン航空](https://ja.wikipedia.org/wiki/ウズベキスタン航空 "wikilink")
+      - [ウズベキスタン航空](../Page/ウズベキスタン航空.md "wikilink")
 
   - [キューバ](../Page/キューバ.md "wikilink")
 
@@ -79,7 +79,7 @@ Yak-42は、[ロシア](../Page/ロシア.md "wikilink")や[ウクライナ](../
 
   - [ロシア](../Page/ロシア.md "wikilink")
 
-      - [アエロフロート・ロシア航空](https://ja.wikipedia.org/wiki/アエロフロート・ロシア航空 "wikilink")
+      - [アエロフロート・ロシア航空](../Page/アエロフロート・ロシア航空.md "wikilink")
 
 ## 脚注
 
@@ -87,7 +87,7 @@ Yak-42は、[ロシア](../Page/ロシア.md "wikilink")や[ウクライナ](../
 
 ## 事故
 
-  - [1982年](../Page/1982年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")、[白ロシア・ソビエト社会主義共和国](https://ja.wikipedia.org/wiki/白ロシア・ソビエト社会主義共和国 "wikilink")（現[ベラルーシ](../Page/ベラルーシ.md "wikilink")）[マズィル](https://ja.wikipedia.org/wiki/マズィル "wikilink")上空を飛行していた[アエロフロート](https://ja.wikipedia.org/wiki/アエロフロート "wikilink")8641便が急降下し空中分解した。乗員乗客132人全員が死亡した。原因として、Yak-42の設計上の欠陥があげられ、改修工事を受けるまで全機が運航停止となった。
+  - [1982年](../Page/1982年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")、[白ロシア・ソビエト社会主義共和国](../Page/白ロシア・ソビエト社会主義共和国.md "wikilink")（現[ベラルーシ](../Page/ベラルーシ.md "wikilink")）[マズィル](https://ja.wikipedia.org/wiki/マズィル "wikilink")上空を飛行していた[アエロフロート](https://ja.wikipedia.org/wiki/アエロフロート "wikilink")8641便が急降下し空中分解した。乗員乗客132人全員が死亡した。原因として、Yak-42の設計上の欠陥があげられ、改修工事を受けるまで全機が運航停止となった。
 
 <!-- end list -->
 
@@ -96,9 +96,9 @@ Yak-42は、[ロシア](../Page/ロシア.md "wikilink")や[ウクライナ](../
 ## 関連項目
 
   - [Yak-40](../Page/Yak-40_\(航空機\).md "wikilink")
-  - [MS-21](https://ja.wikipedia.org/wiki/イルクート_MS-21 "wikilink")([ヤコヴレフと](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[イリューシンの共同開発](https://ja.wikipedia.org/wiki/S・V・イリユーシン記念航空複合体 "wikilink"))
+  - [MS-21](https://ja.wikipedia.org/wiki/イルクート_MS-21 "wikilink")([ヤコヴレフと](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[イリューシンの共同開発](../Page/S・V・イリユーシン記念航空複合体.md "wikilink"))
   - [Tu-134](../Page/Tu-134_\(航空機\).md "wikilink")
-  - [Tu-154](https://ja.wikipedia.org/wiki/Tu-154_\(航空機\) "wikilink")
+  - [Tu-154](../Page/Tu-154_\(航空機\).md "wikilink")
   - [Tu-204](../Page/Tu-204_\(航空機\).md "wikilink")
   - [Tu-334](../Page/Tu-334_\(航空機\).md "wikilink")
   - [An-38](../Page/An-38_\(航空機\).md "wikilink")

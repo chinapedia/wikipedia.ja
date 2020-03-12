@@ -1,13 +1,13 @@
 > この記事は[BLUE \(\)](https://ja.wikipedia.org/wiki/BLUE_\(\))から翻訳されています。
 
 
-『**BLUE**』（ブルー）は、[山本直樹](../Page/山本直樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の短編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および同作を収録した単行本のタイトル。作中の性描写が問題となり、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")により[不健全図書の指定を受け](https://ja.wikipedia.org/wiki/有害図書 "wikilink")、版元回収となったことで話題になった。
+『**BLUE**』（ブルー）は、[山本直樹](../Page/山本直樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の短編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および同作を収録した単行本のタイトル。作中の性描写が問題となり、[東京都](../Page/東京都.md "wikilink")により[不健全図書の指定を受け](../Page/有害図書.md "wikilink")、版元回収となったことで話題になった。
 
 ## 概要
 
 [1991年](../Page/1991年.md "wikilink")、[小学館](../Page/小学館.md "wikilink")の『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")1991年新春増刊号』\[1\]\[2\]に掲載され、同年[光文社](../Page/光文社.md "wikilink")が山本直樹の他の短編作品とともに単行本化したが、作中の性描写が問題となり、[1992年](../Page/1992年.md "wikilink")3月に東京都の[青少年保護育成条例](https://ja.wikipedia.org/wiki/青少年保護育成条例 "wikilink")により不健全図書の指定を受け\[3\]、版元回収になる。
 
-[1992年](../Page/1992年.md "wikilink")10月、[弓立社](https://ja.wikipedia.org/wiki/弓立社 "wikilink")により、成人向けコミックとして出版された。弓立社版は、光文社版では隠されている局部の描写もそのままになっている\[4\]。[2001年](../Page/2001年.md "wikilink")には[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")より、同内容の単行本が出版された。
+[1992年](../Page/1992年.md "wikilink")10月、[弓立社](../Page/弓立社.md "wikilink")により、成人向けコミックとして出版された。弓立社版は、光文社版では隠されている局部の描写もそのままになっている\[4\]。[2001年](../Page/2001年.md "wikilink")には[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")、[2006年](../Page/2006年.md "wikilink")には[太田出版](../Page/太田出版.md "wikilink")より、同内容の単行本が出版された。
 
 ## ストーリー
 
@@ -98,7 +98,7 @@
 <!-- end list -->
 
   - キャスト
-      - [紅月ルナ](https://ja.wikipedia.org/wiki/紅月ルナ "wikilink")
+      - [紅月ルナ](../Page/紅月ルナ.md "wikilink")
       - [柳之内たくま](https://ja.wikipedia.org/wiki/柳之内たくま "wikilink")
       - [須賀尾由二](https://ja.wikipedia.org/wiki/須賀尾由二 "wikilink")
       - [三宅梢子](https://ja.wikipedia.org/wiki/三宅梢子 "wikilink")
@@ -113,7 +113,7 @@
 <!-- end list -->
 
   - キャスト
-      - [黒沢英里奈](https://ja.wikipedia.org/wiki/黒沢英里奈 "wikilink")
+      - [黒沢英里奈](../Page/黒沢英里奈.md "wikilink")
       - [津田篤](https://ja.wikipedia.org/wiki/津田篤 "wikilink")
       - [小滝正大](https://ja.wikipedia.org/wiki/小滝正大 "wikilink")
       - [富永多映](https://ja.wikipedia.org/wiki/富永多映 "wikilink")
@@ -129,7 +129,7 @@
 
   - キャスト
       - [亜紗美](../Page/亜紗美.md "wikilink")
-      - [いとうたかお](https://ja.wikipedia.org/wiki/いとうたかお "wikilink")
+      - [いとうたかお](../Page/いとうたかお.md "wikilink")
       - [森川凛子](https://ja.wikipedia.org/wiki/森川凛子 "wikilink")
       - [みずと良](../Page/みずと良.md "wikilink")
   - スタッフ

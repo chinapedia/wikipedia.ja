@@ -1,13 +1,13 @@
 > この記事は[Java Platform, Micro Edition](https://ja.wikipedia.org/wiki/Java_Platform,_Micro_Edition)から翻訳されています。
 
 
-**Java Platform, Micro Edition** (**Java ME**) は[携帯電話](../Page/携帯電話.md "wikilink")、[PDA](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")、[テレビのようなリソースが制限されたデバイスにおける](../Page/テレビ受像機.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の小型セット。JSR 68 で規定されている。当初は、**Java 2 Platform, Micro Edition** (**J2ME**) という名称だった。
+**Java Platform, Micro Edition** (**Java ME**) は[携帯電話](../Page/携帯電話.md "wikilink")、[PDA](../Page/携帯情報端末.md "wikilink")、[テレビのようなリソースが制限されたデバイスにおける](../Page/テレビ受像機.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の小型セット。JSR 68 で規定されている。当初は、**Java 2 Platform, Micro Edition** (**J2ME**) という名称だった。
 
 ## コンフィギュレーションとプロファイル
 
 様々なデバイスに対応するため、コンフィギュレーションと[プロファイルと呼ばれるものでAPIを定義している](https://ja.wikipedia.org/wiki/プロファイル_\(工学\) "wikilink")。コンフィギュレーションには次の2つがある。
 
-  - [Connected Limited Device Configuration](https://ja.wikipedia.org/wiki/Connected_Limited_Device_Configuration "wikilink") (CLDC)
+  - [Connected Limited Device Configuration](../Page/Connected_Limited_Device_Configuration.md "wikilink") (CLDC)
   - [Connected Device Configuration](https://ja.wikipedia.org/wiki/Connected_Device_Configuration "wikilink") (CDC)
 
 ## Connected Limited Device Configuration (CLDC)
@@ -26,15 +26,15 @@ MIDP上で動く、高レベルなUIライブラリとして、[Lightweight User
 
 ### Information Module Profile
 
-[Information Module Profile](https://ja.wikipedia.org/wiki/Information_Module_Profile "wikilink") (IMP) は、自動販売機や組み込み向け産業機器、セキュリティシステム、シンプルでディスプレイを持たず、ネットワークへの接続が限定されているような組み込みデバイスのためのプロファイルである。もともとは、[Siemens Mobileと](https://ja.wikipedia.org/wiki/Siemens_AG "wikilink")[Nokia](https://ja.wikipedia.org/wiki/Nokia "wikilink")によって、[JSR](https://ja.wikipedia.org/wiki/JSR "wikilink")-195として導入され、IMP 1.0は、[MIDP](https://ja.wikipedia.org/wiki/MIDP "wikilink") 1.0からユーザインターフェースAPIを除いたサブセットである。
+[Information Module Profile](https://ja.wikipedia.org/wiki/Information_Module_Profile "wikilink") (IMP) は、自動販売機や組み込み向け産業機器、セキュリティシステム、シンプルでディスプレイを持たず、ネットワークへの接続が限定されているような組み込みデバイスのためのプロファイルである。もともとは、[Siemens Mobileと](https://ja.wikipedia.org/wiki/Siemens_AG "wikilink")[Nokia](https://ja.wikipedia.org/wiki/Nokia "wikilink")によって、[JSR](../Page/JSR.md "wikilink")-195として導入され、IMP 1.0は、[MIDP](https://ja.wikipedia.org/wiki/MIDP "wikilink") 1.0からユーザインターフェースAPIを除いたサブセットである。
 
 ## Connected Device Configuration (CDC)
 
-[Connected Device Configurationは](https://ja.wikipedia.org/wiki/Connected_Device_Configuration "wikilink")、[Java SEのサブセットで](https://ja.wikipedia.org/wiki/Java_SE "wikilink")、その中には、GUI関係を除く、ほとんど全てのライブラリが入っている。CLDCよりもリッチな仕様である。 カーナビや[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")などの中程度の能力をもったCPUを対象にする。
+[Connected Device Configurationは](https://ja.wikipedia.org/wiki/Connected_Device_Configuration "wikilink")、[Java SEのサブセットで](https://ja.wikipedia.org/wiki/Java_SE "wikilink")、その中には、GUI関係を除く、ほとんど全てのライブラリが入っている。CLDCよりもリッチな仕様である。 カーナビや[セットトップボックス](../Page/セットトップボックス.md "wikilink")などの中程度の能力をもったCPUを対象にする。
 
 ### Foundation Profile
 
-Foundation Profileは、Java ME Connected Device Configuration (CDC) プロファイルのひとつである。 このプロファイルは、Java Platform, Standard Edition API全てが実行できるJava仮想マシンを必要とするデバイスで使用することを目的としている。 典型的な実装では、追加のプロファイルのサポートに応じて、そのAPIのサブセットを使用する。 この仕様は、[Java Community Processのもので開発されている](https://ja.wikipedia.org/wiki/Java_Community_Process "wikilink")。
+Foundation Profileは、Java ME Connected Device Configuration (CDC) プロファイルのひとつである。 このプロファイルは、Java Platform, Standard Edition API全てが実行できるJava仮想マシンを必要とするデバイスで使用することを目的としている。 典型的な実装では、追加のプロファイルのサポートに応じて、そのAPIのサブセットを使用する。 この仕様は、[Java Community Processのもので開発されている](../Page/Java_Community_Process.md "wikilink")。
 
 ### Personal Basis Profile
 
@@ -46,7 +46,7 @@ Personal Profileは、Personal Basis Profileをさらに拡張したもので、
 
 ## 携帯電話でのアプリの互換性
 
-日本の携帯電話では[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](https://ja.wikipedia.org/wiki/沖縄セルラー電話 "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")）の[EZアプリ (Java)](https://ja.wikipedia.org/wiki/EZアプリ_\(Java\) "wikilink")、[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")([ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink"))の[S\!アプリ](https://ja.wikipedia.org/wiki/S!アプリ "wikilink")、[WILLCOM](https://ja.wikipedia.org/wiki/WILLCOM "wikilink")のJavaアプリが[MIDP](https://ja.wikipedia.org/wiki/MIDP "wikilink")を採用しており、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は同社が独自に作成した[DoJaプロファイル](https://ja.wikipedia.org/wiki/DoJaプロファイル "wikilink")やStarプロファイルを使っている。各社の機能が少しずつ違うため、現状では互換性は少ない。
+日本の携帯電話では[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")）の[EZアプリ (Java)](../Page/EZアプリ_\(Java\).md "wikilink")、[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")([ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink"))の[S\!アプリ](../Page/S!アプリ.md "wikilink")、[WILLCOM](https://ja.wikipedia.org/wiki/WILLCOM "wikilink")のJavaアプリが[MIDP](https://ja.wikipedia.org/wiki/MIDP "wikilink")を採用しており、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は同社が独自に作成した[DoJaプロファイル](../Page/DoJaプロファイル.md "wikilink")やStarプロファイルを使っている。各社の機能が少しずつ違うため、現状では互換性は少ない。
 
 ## 開発方法
 
@@ -61,11 +61,11 @@ Personal Profileは、Personal Basis Profileをさらに拡張したもので、
 <!-- end list -->
 
   -
-    Java MEアプリケーションのサイズを[実行形式](https://ja.wikipedia.org/wiki/実行ファイル "wikilink") ([JAR形式](https://ja.wikipedia.org/wiki/JAR_\(ファイルフォーマット\) "wikilink")) のまま軽量化するJavaアプリ圧縮ツール。
+    Java MEアプリケーションのサイズを[実行形式](../Page/実行ファイル.md "wikilink") ([JAR形式](../Page/JAR_\(ファイルフォーマット\).md "wikilink")) のまま軽量化するJavaアプリ圧縮ツール。
 
 <!-- end list -->
 
-  - [NetBeans](https://ja.wikipedia.org/wiki/NetBeans "wikilink") IDE開発環境　60MBぐらいの本体を入れた後にnetbeans_mobilityをインストールするだけで開発環境が整う
+  - [NetBeans](../Page/NetBeans.md "wikilink") IDE開発環境　60MBぐらいの本体を入れた後にnetbeans_mobilityをインストールするだけで開発環境が整う
 
 ## JSR (Java Specification Requests)
 
@@ -144,7 +144,7 @@ Personal Profileは、Personal Basis Profileをさらに拡張したもので、
 </tr>
 <tr class="odd">
 <td><p><a href="http://www.jcp.org/en/jsr/detail?id=184">184</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobile_3D_Graphics_API" title="wikilink">Mobile 3D Graphics API</a></p></td>
+<td><p><a href="../Page/Mobile_3D_Graphics_API.md" title="wikilink">Mobile 3D Graphics API</a></p></td>
 <td><p>高レベル3Dグラフィックス</p></td>
 <td></td>
 </tr>

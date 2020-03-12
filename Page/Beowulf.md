@@ -1,7 +1,7 @@
 > この記事は[Beowulf](https://ja.wikipedia.org/wiki/Beowulf)から翻訳されています。
 
 
-**Beowulf**は、[コンピュータ・クラスター](https://ja.wikipedia.org/wiki/コンピュータ・クラスター "wikilink")を構成する方式の名前で、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")や[BSD系OS](https://ja.wikipedia.org/wiki/BSD系OS "wikilink")などのフリーな[PC-UNIX](https://ja.wikipedia.org/wiki/PC-UNIX "wikilink")を載せた[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の[クラスターによる](https://ja.wikipedia.org/wiki/コンピュータ・クラスター "wikilink")[高性能計算](https://ja.wikipedia.org/wiki/高性能計算 "wikilink")の実現法である。
+**Beowulf**は、[コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")を構成する方式の名前で、[Linux](../Page/Linux.md "wikilink")や[BSD系OS](https://ja.wikipedia.org/wiki/BSD系OS "wikilink")などのフリーな[PC-UNIX](https://ja.wikipedia.org/wiki/PC-UNIX "wikilink")を載せた[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の[クラスターによる](../Page/コンピュータ・クラスター.md "wikilink")[高性能計算](../Page/高性能計算.md "wikilink")の実現法である。
 
 "Beowulf"とはあくまで方式に付けられた名称である。Beowulfを構成するに当たってそれぞれ使うソフトウェアは異なり特に必要な要素となるソフトウエアの部品はない。
 
@@ -21,14 +21,14 @@
     <!-- end list -->
       -
         プログラマが計算の単位(タスク)を、分割してネットワーク上のコンピュータに送り、計算の結果を収集する。
-          - [MPI](https://ja.wikipedia.org/wiki/Message_Passing_Interface "wikilink") (Message Passing Interface)
+          - [MPI](../Page/Message_Passing_Interface.md "wikilink") (Message Passing Interface)
           - [PVM](https://ja.wikipedia.org/wiki/PVM "wikilink") (Parallel Virtual Machine)
     <!-- end list -->
       - その他
 
 ## 参照
 
-  - [コンピュータ・クラスター](https://ja.wikipedia.org/wiki/コンピュータ・クラスター "wikilink")、[並列コンピュータ](https://ja.wikipedia.org/wiki/並列コンピュータ "wikilink")、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")、[コンピュータ・グリッド](https://ja.wikipedia.org/wiki/コンピュータ・グリッド "wikilink")
+  - [コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")、[並列コンピュータ](https://ja.wikipedia.org/wiki/並列コンピュータ "wikilink")、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")、[コンピュータ・グリッド](https://ja.wikipedia.org/wiki/コンピュータ・グリッド "wikilink")
 
 他のクラスターコンピュータ：[MOSIX](https://ja.wikipedia.org/wiki/MOSIX "wikilink")。
 

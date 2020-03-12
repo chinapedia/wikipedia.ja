@@ -3,7 +3,7 @@
 
 **RICEの法則**（ライスのほうそく）とは身体が傷害を負った際に早急に執るべき[応急処置](../Page/応急処置.md "wikilink")における法則の事である。
 
-**R**は「Rest」（安静）、**I**は「Icing」（[冷却](https://ja.wikipedia.org/wiki/アイシング_\(治療\) "wikilink")）、**C**は「Compression」（圧迫）、**E**は「Elevation」（挙上―持ち上げておく）の頭文字をとったものである。これらは医学的な根拠から傷害を負った際に出来る限り患部の[炎症](https://ja.wikipedia.org/wiki/炎症 "wikilink")や[出血](https://ja.wikipedia.org/wiki/出血 "wikilink")を抑えるための方法である。[病院](../Page/病院.md "wikilink")などの医療機関での診断を受けるまでは出来る限りRICEに則った措置を執る事が推奨されている。
+**R**は「Rest」（安静）、**I**は「Icing」（[冷却](https://ja.wikipedia.org/wiki/アイシング_\(治療\) "wikilink")）、**C**は「Compression」（圧迫）、**E**は「Elevation」（挙上―持ち上げておく）の頭文字をとったものである。これらは医学的な根拠から傷害を負った際に出来る限り患部の[炎症](../Page/炎症.md "wikilink")や[出血](../Page/出血.md "wikilink")を抑えるための方法である。[病院](../Page/病院.md "wikilink")などの医療機関での診断を受けるまでは出来る限りRICEに則った措置を執る事が推奨されている。
 
 ## 根拠
 

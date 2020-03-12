@@ -6,7 +6,7 @@
 ## 解説
 
   - J-FRIENDSが発売した唯一のアルバム作品。
-  - 全5曲入りのミニアルバムとなっているため、形式上はほとんど[シングル](../Page/シングル.md "wikilink")であるものの、[オリコンでもアルバム扱いとなっている](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
+  - 全5曲入りのミニアルバムとなっているため、形式上はほとんど[シングル](../Page/シングル.md "wikilink")であるものの、[オリコンでもアルバム扱いとなっている](../Page/オリコンチャート.md "wikilink")。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
 3.  **一秒のOthello〜君に選ばれたい〜（KinKi Kids STAR VERSION）**
       - 作詞：秋元康、作曲：筒美京平、編曲：[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")
 4.  **一秒のOthello〜君に選ばれたい〜（V6 SUNSHINE VERSION）**
-      - 作詞：秋元康、作曲：筒美京平、編曲：[上野圭市](https://ja.wikipedia.org/wiki/上野圭市 "wikilink")
+      - 作詞：秋元康、作曲：筒美京平、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
 5.  **People Of The World（INSTRUMENTAL）**
 
 [Category:ジャニーズ関連アルバム](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連アルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:マイケル・ジャクソンの楽曲](https://ja.wikipedia.org/wiki/Category:マイケル・ジャクソンの楽曲 "wikilink")

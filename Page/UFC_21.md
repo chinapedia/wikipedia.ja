@@ -5,7 +5,7 @@
 
 ## 大会概要
 
-セミファイナルで行われたライト級タイトルマッチでは、王者[パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink")が挑戦者[アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink")を破り、2度目の王座防衛に成功した。
+セミファイナルで行われたライト級タイトルマッチでは、王者[パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink")が挑戦者[アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink")を破り、2度目の王座防衛に成功した。
 
 ### ルール改正
 
@@ -23,26 +23,26 @@
     ○  [ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") vs.  ロイス・アルジャー ×
     2R 1:19 KO（左フック）
   - 第4試合 ヘビー級 5分3R
-    ○  [高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink") vs.  ティム・レイシック ×
+    ○  [高阪剛](../Page/高阪剛.md "wikilink") vs.  ティム・レイシック ×
     2R終了時 TKO（タオル投入）
   - 第5試合 ミドル級 5分3R
     ○  ポール・ジョーンズ vs.  フラービオ・モウラ ×
-    1R 4:20 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 4:20 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第6試合 ミドル級 5分3R
-    ○  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") vs.  [高瀬大樹](https://ja.wikipedia.org/wiki/高瀬大樹 "wikilink") ×
-    1R 4:41 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") vs.  [高瀬大樹](../Page/高瀬大樹.md "wikilink") ×
+    1R 4:41 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 UFC世界ライト級タイトルマッチ 5分5R
-    ○  [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink") vs.  [アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink") ×
+    ○  [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink") vs.  [アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink") ×
     1R 2:20 TKO（ドクターストップ：カット）
     ※ミレティッチが王座の2度目の防衛に成功。
   - 第8試合 ヘビー級 5分3R
-    ○  [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink") vs.  [マルコ・ファス](https://ja.wikipedia.org/wiki/マルコ・ファス "wikilink") ×
+    ○  [モーリス・スミス](../Page/モーリス・スミス.md "wikilink") vs.  [マルコ・ファス](../Page/マルコ・ファス.md "wikilink") ×
     1R終了時 TKO（タオル投入）
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [常盤ゆう](https://ja.wikipedia.org/wiki/常盤ゆう "wikilink") (vocal)
+  - [常盤ゆう](../Page/常盤ゆう.md "wikilink") (vocal)
   - 森野誠一 (guitar)
   - tsugai (guitar)
   - あつ (Percussion)
@@ -18,11 +18,11 @@
 
 ## 概要
 
-1995年12月に[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")の音楽サークルにて常盤ゆう、森野誠一、飯嶋竜太、杉山哲也、金子理佐の5人で結成。1997年頃より年に数回のペースでライブ活動を開始する。1998年、7inchアナログ「rain/wander」でTiNSTAR RECORDSよりデビュー。2001年に1stアルバム「your own sweet way」をリリース。2004年6月にメンバーの再編成が行われ現在は常盤、森野、tsugai、あつの4人で活動を行っている。2008年4月に約5年ぶりとなるアルバム「risette」をリリース。
+1995年12月に[早稲田大学](../Page/早稲田大学.md "wikilink")の音楽サークルにて常盤ゆう、森野誠一、飯嶋竜太、杉山哲也、金子理佐の5人で結成。1997年頃より年に数回のペースでライブ活動を開始する。1998年、7inchアナログ「rain/wander」でTiNSTAR RECORDSよりデビュー。2001年に1stアルバム「your own sweet way」をリリース。2004年6月にメンバーの再編成が行われ現在は常盤、森野、tsugai、あつの4人で活動を行っている。2008年4月に約5年ぶりとなるアルバム「risette」をリリース。
 
-[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")で数多くの楽曲を手がけている[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")所属の[ゲームクリエイター](https://ja.wikipedia.org/wiki/ゲームクリエイター "wikilink")[脇田潤](https://ja.wikipedia.org/wiki/脇田潤 "wikilink")は、大学時代のサークルの先輩である。その関係もあり、ボーカルの常盤が脇田作曲の楽曲に多数参加している他、risetteとしても『pop'n music 8』に楽曲「tangeline」を提供した。
+[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")で数多くの楽曲を手がけている[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")所属の[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")[脇田潤](../Page/脇田潤.md "wikilink")は、大学時代のサークルの先輩である。その関係もあり、ボーカルの常盤が脇田作曲の楽曲に多数参加している他、risetteとしても『pop'n music 8』に楽曲「tangeline」を提供した。
 
-また、森野は[マキタスポーツ](https://ja.wikipedia.org/wiki/マキタスポーツ "wikilink")率いるロックバンド、マキタ学級にスーパーモリノとしてベース&コーラスで参加している。
+また、森野は[マキタスポーツ](../Page/マキタスポーツ.md "wikilink")率いるロックバンド、マキタ学級にスーパーモリノとしてベース&コーラスで参加している。
 
 ## ディスコグラフィー
 
@@ -206,7 +206,7 @@
       - 01 apple(think different)（7曲目）
   - 新宿ミーティング04（[2004年](../Page/2004年.md "wikilink")）
       - probably lovely deadlock（2曲目）
-  - rsb東名阪ツアー SPECIAL DEMO（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - rsb東名阪ツアー SPECIAL DEMO（[2005年](../Page/2005年.md "wikilink")）
       - 水玉のエチュード（1曲目）
 
 ### 音楽ゲーム
@@ -260,8 +260,8 @@
   - [pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")
   - [beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")
   - [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")
-  - [脇田潤](https://ja.wikipedia.org/wiki/脇田潤 "wikilink")
-  - [マキタスポーツ](https://ja.wikipedia.org/wiki/マキタスポーツ "wikilink")-マキタスポーツのバンド、マキタ学級に森野が参加。
+  - [脇田潤](../Page/脇田潤.md "wikilink")
+  - [マキタスポーツ](../Page/マキタスポーツ.md "wikilink")-マキタスポーツのバンド、マキタ学級に森野が参加。
   - [jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")
 
 ## 外部リンク

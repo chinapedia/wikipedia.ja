@@ -3,23 +3,23 @@
 
 『**unsteady**』（アンステディー）は、[2000年](../Page/2000年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。
 
-発売元[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-204）。
+発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-204）。
 
 ## 概要
 
-  - 両曲共に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[無敵王トライゼノン](https://ja.wikipedia.org/wiki/無敵王トライゼノン "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")だが、テレビアニメのスタートが10月の2週目と若干遅かったため、スタート後すぐリリースされた形となった。
-  - 過去作品のリアレンジ楽曲を除き、この楽曲の後、[佐藤英敏](https://ja.wikipedia.org/wiki/佐藤英敏 "wikilink")が手掛ける楽曲は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にリリースされた『[Plenty of grit](https://ja.wikipedia.org/wiki/Plenty_of_grit "wikilink")』までない。
+  - 両曲共に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[無敵王トライゼノン](../Page/無敵王トライゼノン.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")だが、テレビアニメのスタートが10月の2週目と若干遅かったため、スタート後すぐリリースされた形となった。
+  - 過去作品のリアレンジ楽曲を除き、この楽曲の後、[佐藤英敏](../Page/佐藤英敏.md "wikilink")が手掛ける楽曲は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にリリースされた『[Plenty of grit](../Page/Plenty_of_grit.md "wikilink")』までない。
   - ジャケットはマキシシングル（12cm）仕様だが、CD自体は[8cmである](https://ja.wikipedia.org/wiki/8センチCD "wikilink")。
 
 ## 内容
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](https://ja.wikipedia.org/wiki/佐藤英敏 "wikilink")
+  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")
 
 <!-- end list -->
 
 1.  **unsteady** \[4:31\]
       - 編曲：五島翔
-      - TBS系アニメーション『[無敵王トライゼノン](https://ja.wikipedia.org/wiki/無敵王トライゼノン "wikilink")』オープニングテーマ
+      - TBS系アニメーション『[無敵王トライゼノン](../Page/無敵王トライゼノン.md "wikilink")』オープニングテーマ
 2.  **lost in you** \[4:22\]
       - 編曲：堀隆
       - TBS系アニメーション『無敵王トライゼノン』エンディングテーマ

@@ -1,11 +1,11 @@
 > この記事は[Next 100 Years](https://ja.wikipedia.org/wiki/Next_100_Years)から翻訳されています。
 
 
-「**Next 100 Years**」（ネクスト・ワンハンドレッド・イヤーズ）は、[J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**Next 100 Years**」（ネクスト・ワンハンドレッド・イヤーズ）は、[J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
-表題曲「Next 100 Years」は、[ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ボン・ジョヴィ "wikilink")の[ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")と[リッチー・サンボラ](https://ja.wikipedia.org/wiki/リッチー・サンボラ "wikilink")による提供曲\[1\]。
+表題曲「Next 100 Years」は、[ボン・ジョヴィ](../Page/ボン・ジョヴィ.md "wikilink")の[ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")と[リッチー・サンボラ](../Page/リッチー・サンボラ.md "wikilink")による提供曲\[1\]。
 
 元々はボン・ジョヴィのオリジナルアルバムのために書き下ろされた楽曲だが、J-FRIENDS側の要望に応える形で楽曲提供された\[2\]。ボン・ジョヴィが日本のアーティストに未発表曲を提供するのはこれが初となる\[3\]。後にボン・ジョヴィのアルバム『[クラッシュ](../Page/クラッシュ_\(アルバム\).md "wikilink")』にセルフカバーの形で収録された。
 
@@ -19,7 +19,7 @@
       - 作詞・作曲：ジョン・ボン・ジョヴィ,リッチー・サンボラ（日本語詞：稲葉浩志）　編曲：[重実徹](../Page/重実徹.md "wikilink")
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『走れ\!21世紀へワールドカウントダウン』キャンペーンソング
 2.  **届くといいね just wishing**
-      - 作詞：[伊達歩](../Page/伊集院静.md "wikilink")　作曲：[加藤和彦](../Page/加藤和彦.md "wikilink")　編曲：[有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
+      - 作詞：[伊達歩](../Page/伊集院静.md "wikilink")　作曲：[加藤和彦](../Page/加藤和彦.md "wikilink")　編曲：[有賀啓雄](../Page/有賀啓雄.md "wikilink")
 3.  Next 100 Years（[オリジナル・カラオケ](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 4.  届くといいね just wishing（オリジナル・カラオケ）
 

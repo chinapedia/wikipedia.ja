@@ -1,9 +1,9 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ハリクインズ・フットボールクラブ**（**Harlequins Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")の[ギャラガー・プレミアシップに所属する](https://ja.wikipedia.org/wiki/プレミアシップ_\(ラグビー\) "wikilink")[ラグビー](../Page/ラグビー.md "wikilink")クラブである。かつては[NECがスポンサーだったが現在は](../Page/日本電気.md "wikilink")[DHL](https://ja.wikipedia.org/wiki/DHL "wikilink")がメインスポンサーである\[1\]。
+**ハリクインズ・フットボールクラブ**（**Harlequins Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")の[ギャラガー・プレミアシップに所属する](https://ja.wikipedia.org/wiki/プレミアシップ_\(ラグビー\) "wikilink")[ラグビー](../Page/ラグビー.md "wikilink")クラブである。かつては[NECがスポンサーだったが現在は](../Page/日本電気.md "wikilink")[DHL](../Page/DHL.md "wikilink")がメインスポンサーである\[1\]。
 
-2005年7月、[ラグビーリーグ](https://ja.wikipedia.org/wiki/ラグビーリーグ "wikilink")クラブの[ロンドン・ブロンコズ](https://ja.wikipedia.org/wiki/ロンドン・ブロンコズ "wikilink")との提携関係を結び、2006[スーパーリーグシーズンから](https://ja.wikipedia.org/wiki/スーパーリーグ_\(ラグビーリーグ\) "wikilink")2つのクラブは[トゥイッケナム・ストゥープ](https://ja.wikipedia.org/wiki/トゥイッケナム・ストゥープ "wikilink")の共用を開始した。取り引きの一部として、ブロンコズは[ハリクインズ・ラグビーリーグ](https://ja.wikipedia.org/wiki/ハリクインズ・ラグビーリーグ "wikilink")に名称を変更した（2011年まで。その後、ロンドン・ブロンコズに名称を戻した）。
+2005年7月、[ラグビーリーグ](../Page/ラグビーリーグ.md "wikilink")クラブの[ロンドン・ブロンコズ](https://ja.wikipedia.org/wiki/ロンドン・ブロンコズ "wikilink")との提携関係を結び、2006[スーパーリーグシーズンから](https://ja.wikipedia.org/wiki/スーパーリーグ_\(ラグビーリーグ\) "wikilink")2つのクラブは[トゥイッケナム・ストゥープ](https://ja.wikipedia.org/wiki/トゥイッケナム・ストゥープ "wikilink")の共用を開始した。取り引きの一部として、ブロンコズは[ハリクインズ・ラグビーリーグ](https://ja.wikipedia.org/wiki/ハリクインズ・ラグビーリーグ "wikilink")に名称を変更した（2011年まで。その後、ロンドン・ブロンコズに名称を戻した）。
 
 ## 歴史
 
@@ -15,8 +15,8 @@
 
 ## 主なタイトル
 
-  - [アングロ・ウェルシュカップ](https://ja.wikipedia.org/wiki/アングロ・ウェルシュカップ "wikilink") 1988 1991
-  - [欧州チャレンジカップ](https://ja.wikipedia.org/wiki/欧州チャレンジカップ "wikilink") 2001 2004
+  - [アングロ・ウェルシュカップ](../Page/アングロ・ウェルシュカップ.md "wikilink") 1988 1991
+  - [欧州チャレンジカップ](../Page/欧州チャレンジカップ.md "wikilink") 2001 2004
   - [ナショナル・ディビジョン1](https://ja.wikipedia.org/wiki/ナショナル・ディビジョン1 "wikilink") 2006
   - [パワージェン・ナショナル・トロフィー](https://ja.wikipedia.org/wiki/パワージェン・ナショナル・トロフィー "wikilink") 2006
 

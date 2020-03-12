@@ -7,7 +7,7 @@
 
 初回限定盤と通常盤の2パターンで販売。初回限定盤は[ベロア](https://ja.wikipedia.org/wiki/ベロア "wikilink")素材特殊パッケージ仕様 / CD＋DVD2枚組で、通常盤はCDのみ。今作品以降、ロゴが変更され、「大日本異端芸者」がなくなり、バンド名の表記も「the GazettE」と英語表記になっている。売り上げは、初動だけでそれまでの最高売り上げのおよそ2倍を売り上げ、最終的にはその3倍近くまで売り上げを伸ばした。
 
-アルバム収録曲から「SILLY GOD DISCO」と「体温」は後に新たに[PVが制作された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。本作発表後、当時のバンドとして最長に渡るスタンディングライブツアー「Nameless Liberty,Six Guns...」が行なわれた。またファイナル公演はバンドとして初の[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")で実施され、その模様はDVD「**Nameless Liberty Six Guns...FINAL-BUDOKAN-**」として市販された。
+アルバム収録曲から「SILLY GOD DISCO」と「体温」は後に新たに[PVが制作された](../Page/ミュージック・ビデオ.md "wikilink")。本作発表後、当時のバンドとして最長に渡るスタンディングライブツアー「Nameless Liberty,Six Guns...」が行なわれた。またファイナル公演はバンドとして初の[日本武道館](../Page/日本武道館.md "wikilink")で実施され、その模様はDVD「**Nameless Liberty Six Guns...FINAL-BUDOKAN-**」として市販された。
 
 ## 収録曲
 
@@ -18,7 +18,7 @@
 
 1.  **THE END**
       -
-        ルキ原曲。[SE](https://ja.wikipedia.org/wiki/効果音 "wikilink")。曲の中でメンバーが一人一言ずつ言葉を連呼させている。
+        ルキ原曲。[SE](../Page/効果音.md "wikilink")。曲の中でメンバーが一人一言ずつ言葉を連呼させている。
 2.  **Nausea & Shudder**
     （作詞：流鬼. 作曲：the GazettE）
       -
@@ -47,14 +47,14 @@
     （作詞：流鬼. 作曲：the GazettE）
       -
         麗原曲。バラード調から一気にテンポアップしていくナンバー。中盤には[ドラム](../Page/ドラムセット.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/エレクトリック・ベース "wikilink")、[ギター](../Page/ギター.md "wikilink")、ツインギターと全楽器の[ソロ](../Page/ソロ_\(音楽\).md "wikilink")・[パートが存在する](https://ja.wikipedia.org/wiki/声部 "wikilink")。
-9.  **[Cassis](https://ja.wikipedia.org/wiki/Cassis_\(曲\) "wikilink")**
+9.  **[Cassis](../Page/Cassis_\(曲\).md "wikilink")**
     （作詞：流鬼. 作曲：大日本異端芸者の皆様）
       -
-        ルキ原曲。シングル曲。シングルとは[ミックスを変えて収録されている](https://ja.wikipedia.org/wiki/ミキシング "wikilink")。
+        ルキ原曲。シングル曲。シングルとは[ミックスを変えて収録されている](../Page/ミキシング.md "wikilink")。
 10. **SILLY GOD DISCO**
     （作詞：流鬼. 作曲：the GazettE）
       -
-        ルキ原曲。タイトル通り[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")の要素が取り入れられたナンバー。
+        ルキ原曲。タイトル通り[ディスコ](../Page/ディスコ.md "wikilink")の要素が取り入れられたナンバー。
 11. **DISCHARGE**
     （作詞：流鬼. 作曲：the GazettE）
       -

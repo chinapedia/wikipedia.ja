@@ -9,13 +9,13 @@
 
 初回リリース分のみ[ダイレクトカッティング](../Page/ダイレクトカッティング.md "wikilink")ということでも話題になった。前作と同じメンバーで録音。ダイレクトカッティングで録音されたということもあり片面15分、両面30分と収録時間の短いアルバムである。CD化されたものはもちろんダイレクトカッティングではないが、片面一発録りの統一感は高い。
 
-※[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")は『Lucky Summer Lady』と対を成すこのアルバムではプロフィールは省略され、クレジットに（特別参加）と表記されている（『Lucky Summer Lady』のクレジットでは8人の演奏メンバーの1人として併記され、プロフィールでサポートキーボーディストやアレンジャーとしての関係が紹介されている）。
+※[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")は『Lucky Summer Lady』と対を成すこのアルバムではプロフィールは省略され、クレジットに（特別参加）と表記されている（『Lucky Summer Lady』のクレジットでは8人の演奏メンバーの1人として併記され、プロフィールでサポートキーボーディストやアレンジャーとしての関係が紹介されている）。
 
-後にTHE SQUAREのメンバーとなる[和泉宏隆](https://ja.wikipedia.org/wiki/和泉宏隆 "wikilink")は「Midnight Lover」を発売時に聴いており、良いアルバムだと思ったことをTRUTHツアーのパンフレットで語っている。
+後にTHE SQUAREのメンバーとなる[和泉宏隆](../Page/和泉宏隆.md "wikilink")は「Midnight Lover」を発売時に聴いており、良いアルバムだと思ったことをTRUTHツアーのパンフレットで語っている。
 
 ## 収録曲
 
-1.  **LICKIN' IT** - [安藤正容](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")作曲
+1.  **LICKIN' IT** - [安藤正容](../Page/安藤正容.md "wikilink")作曲
 2.  **WRAPPED AROUND YOUR SOUL** - 安藤正容作曲
 3.  **SHOW DANCE** - 安藤正容作曲
 4.  **TAKE THE LONG ROAD** - [宮城純子](https://ja.wikipedia.org/wiki/宮城純子 "wikilink")作曲

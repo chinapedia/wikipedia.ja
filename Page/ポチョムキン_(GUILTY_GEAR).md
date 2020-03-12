@@ -1,17 +1,17 @@
 > この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
 
 
-**ポチョムキン** (POTEMKIN) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")」に登場する架空の人物。Ⅹ以降の担当声優は[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")。
+**ポチョムキン** (POTEMKIN) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。Ⅹ以降の担当声優は[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")。
 
 ## 概要
 
-  - 軍事国家「ツェップ」出身の[兵士](../Page/兵士.md "wikilink")。[虹彩](https://ja.wikipedia.org/wiki/虹彩 "wikilink")、[瞳孔](https://ja.wikipedia.org/wiki/瞳孔 "wikilink")が存在しない白目と一般的な成人男性の身長を一回り上回る筋肉質な体型の持ち主。威圧的な印象を受けるが、心は優しく義を重んじる武人であり、芸術を趣味にしている。
+  - 軍事国家「ツェップ」出身の[兵士](../Page/兵士.md "wikilink")。[虹彩](../Page/虹彩.md "wikilink")、[瞳孔](../Page/瞳孔.md "wikilink")が存在しない白目と一般的な成人男性の身長を一回り上回る筋肉質な体型の持ち主。威圧的な印象を受けるが、心は優しく義を重んじる武人であり、芸術を趣味にしている。
   - 最初は[奴隷](../Page/奴隷.md "wikilink")兵士としての扱いを受けていたが、ガブリエルの命により国家に対して[クーデター](../Page/クーデター.md "wikilink")を決行。その後平和的自治を手に入れ、彼は自由の身となるが、自らの意思で国家の治安維持に貢献する。当初は威圧的で軍国主義の塊に見えたガブリエルを嫌悪していたが、全てはクーデターの為のガブリエルの演技であった事を知ると、彼の器量の大きさに感服し尊敬するようになる。『GGXrd』では特務外交官になっている。
   - 首に付けているアーマーは、元は奴隷の逃走を阻止する爆殺首輪である。クーデター後は制御装置に改造されている。
   - 必殺技の一部には元ネタが存在する。『[キン肉マン](../Page/キン肉マン.md "wikilink")』（キン肉バスター→ポチョムキンバスター、新キン肉バスター→ヘブンリーポチョムキンバスター）、『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』（（爆熱ゴッドフィンガー）ヒートエンド→ヒートエクステンド）、『[勇者王ガオガイガー](../Page/勇者王ガオガイガー.md "wikilink")』（ヘルアンドヘヴン→ガイガンティックブリッド）、『[バスタード\!\!](https://ja.wikipedia.org/wiki/バスタード!! "wikilink")』（マキシマム・ストラト＝ヴァリウス→マグナムオペラ）など。
   - クーデター後はガブリエルの弟子として訓練をしているが、ガブリエル自身が異常なほど強過ぎる為、師匠を超える日はまだまだ遠いと言われる。
   - ガブリエル大統領から過去のスレイヤーの強さを聞いており、実際に対戦するのを楽しみにしているが、当のスレイヤーからは「師匠を超えてからにしてもらおう」と相手にされていない。
-  - 『GGXrd』において、頭に鉄仮面を装着し、全身を緑色の士官服に包んでいる。なお[ファウストの覚醒必殺技および一撃必殺技を受けた際は](https://ja.wikipedia.org/wiki/ファウスト_\(GUILTY_GEAR\) "wikilink")、なぜか眼球が黒になる（[虹彩](https://ja.wikipedia.org/wiki/虹彩 "wikilink")、[瞳孔](https://ja.wikipedia.org/wiki/瞳孔 "wikilink")は白）。
+  - 『GGXrd』において、頭に鉄仮面を装着し、全身を緑色の士官服に包んでいる。なお[ファウストの覚醒必殺技および一撃必殺技を受けた際は](../Page/ファウスト_\(GUILTY_GEAR\).md "wikilink")、なぜか眼球が黒になる（[虹彩](../Page/虹彩.md "wikilink")、[瞳孔](../Page/瞳孔.md "wikilink")は白）。
 
 ## ストーリー
 
@@ -50,7 +50,7 @@ GOLDモードではステップ式のダッシュが追加されている。
   - F.D.B. \[XX\~／EX\]
     構え、指を弾いて見えない衝撃波を自分の少し前に発生させる技。衝撃波には飛び道具を跳ね返す効果がある。
   - ハンマーフォール \[GGX\~／EX\] (→ハンマーフォールブレーキ／FRC)
-    両手を広げつつ突進し、拳で相手を挟む突進技。移動中は相手の位置をある程度をサーチし、相手の打撃技に一回だけ耐える効果がある。名前はスウェーデンのヘヴィメタルバンド、[ハンマーフォール](https://ja.wikipedia.org/wiki/ハンマーフォール "wikilink")から。
+    両手を広げつつ突進し、拳で相手を挟む突進技。移動中は相手の位置をある程度をサーチし、相手の打撃技に一回だけ耐える効果がある。名前はスウェーデンのヘヴィメタルバンド、[ハンマーフォール](../Page/ハンマーフォール.md "wikilink")から。
       - ハンマーフォールブレーキ \[XX\~／EX\]
         ハンマーフォールの移動部分のみで終了する技。主に移動手段として使われる。
   - ポチョムキンバスター \[GGX\~／EX\] (FRC)
@@ -121,7 +121,7 @@ GOLDモードではステップ式のダッシュが追加されている。
 ## その他
 
   - 初期設定では斧術の名門である[ロシア](../Page/ロシア.md "wikilink")のハンセン家に生まれ、ドレッドノートという名の斧を使いこなす為ひたすら体を鍛えたがまともに戦える相手が身近にいなくなり、大会に出場することを決意するというものだった。
-  - 家庭用のSPカラーには必ず[ハルクのようなカラーが用意されている](https://ja.wikipedia.org/wiki/ハルク_\(マーベル・コミック\) "wikilink")。
+  - 家庭用のSPカラーには必ず[ハルクのようなカラーが用意されている](../Page/ハルク_\(マーベル・コミック\).md "wikilink")。
 
 ## 参考資料
 
@@ -130,8 +130,8 @@ GOLDモードではステップ式のダッシュが追加されている。
 
 ## 関連項目
 
-  - [GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 [en:List of Guilty Gear characters\#Potemkin](https://ja.wikipedia.org/wiki/en:List_of_Guilty_Gear_characters#Potemkin "wikilink")
 

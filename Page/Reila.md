@@ -1,7 +1,7 @@
 > この記事は[Reila](https://ja.wikipedia.org/wiki/Reila)から翻訳されています。
 
 
-「**reila**」（レイラ）は、[ガゼットの楽曲](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")。[流鬼が作詞](https://ja.wikipedia.org/wiki/ルキ "wikilink")、大日本異端芸者の皆様が作曲を手掛けた。ガゼットの7枚目の[シングル](../Page/シングル.md "wikilink")として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[PS COMPANYから発売された](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")。
+「**reila**」（レイラ）は、[ガゼットの楽曲](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")。[流鬼が作詞](../Page/ルキ.md "wikilink")、大日本異端芸者の皆様が作曲を手掛けた。ガゼットの7枚目の[シングル](../Page/シングル.md "wikilink")として[2005年](../Page/2005年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[PS COMPANYから発売された](../Page/PS_COMPANY.md "wikilink")。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
 
 
-**アバ** (A.B.A) は、[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")の2D対戦型格闘ゲーム『[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")』に登場する架空の人物。担当声優は滝本みか。
+**アバ** (A.B.A) は、[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")の2D対戦型格闘ゲーム『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』に登場する架空の人物。担当声優は滝本みか。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 「[フラスコ](https://ja.wikipedia.org/wiki/フラスコ "wikilink")」と呼ばれる研究所で生まれた[ホムンクルス](../Page/ホムンクルス.md "wikilink")の女性。鍵型のネジを貫通させた頭部に赤毛のショートカットと、体全体に白い包帯を巻いているという特徴的な容姿を持っている。
+  - 「[フラスコ](../Page/フラスコ.md "wikilink")」と呼ばれる研究所で生まれた[ホムンクルス](../Page/ホムンクルス.md "wikilink")の女性。鍵型のネジを貫通させた頭部に赤毛のショートカットと、体全体に白い包帯を巻いているという特徴的な容姿を持っている。
   - 10年間フラスコで過ごした後、外の世界に出た時に鍵状の斧に出会い「パラケルス」と名付け、共に旅に出る決心をした。新たな世界を切り開く象徴として鍵を収集する事を好んでおり、愛玩するパラケルスの見た目も鍵に似ている。
   - 基本的に暗く言葉も態度もおどおどしたものだが、「自分は人間より優れている」というプライドを持っており、度々ことわざを披露して他人の性格や印象を表現する（しかしそのことわざの言葉は間違っている）。プライドの高さもあって人に対する口のきき方は非常に悪いが、最低限の思いやり等は備わっている。
   - [ヤンデレ](https://ja.wikipedia.org/wiki/ヤンデレ "wikilink")気質の持ち主で、パラケルスには並々ならぬ愛情を抱いており、「夫」として扱っている。パラケルスがほかの戦士に評価したり自分を使わせようとすると、「浮気」と怒り嫉妬し、その相手に戦いを挑むが、アバ自身の戦闘力は皆無に等しい。
@@ -17,11 +17,11 @@
 <!-- end list -->
 
   - 名前の由来
-    スウェーデンのポップスグループの[ABBA](https://ja.wikipedia.org/wiki/ABBA "wikilink")から。
+    スウェーデンのポップスグループの[ABBA](../Page/ABBA.md "wikilink")から。
 
 ## パラケルス
 
-声優：森利道（ゲーム）、[龍谷修武](https://ja.wikipedia.org/wiki/龍谷修武 "wikilink")（ドラマCD）
+声優：森利道（ゲーム）、[龍谷修武](../Page/龍谷修武.md "wikilink")（ドラマCD）
 
 アバの武器として使われている文語調で喋る生物闘斧で、先の聖戦の遺物（神器ではない）。敵味方見境なく血を求めることから「葡萄酒の太刀風」とも呼ばれた。本名は**フラメントナーゲル**であるが、形状が鍵に酷似していたことからアバに気に入られてしまい、「パラケルス」と名付けられてしまう（「パラケルス」はアバの生みの親の名前である）。アバとの奇妙な生活を送りつつ、再び戦いの中に身を置くことを望み、アバの元から一刻も早く逃げ出したいと思っている。
 
@@ -29,11 +29,11 @@
 
 名前の由来は[錬金術](../Page/錬金術.md "wikilink")の賢人の一人・[パラケルスス](../Page/パラケルスス.md "wikilink")から。
 
-ゲームの声優である森利道は『GUILTY GEARシリーズ』のディレクターである。同じくアークシステムワークスが製作している『[BLAZBLUE](https://ja.wikipedia.org/wiki/BLAZBLUE "wikilink")』の公式[ウェブラジオ](https://ja.wikipedia.org/wiki/ウェブラジオ "wikilink")の[ぶるらじ](https://ja.wikipedia.org/wiki/ぶるらじ "wikilink")（[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")）にて、『BLAZBLUE』のプロデューサーが森利道＆ボイスも演じているというつながりで森利道がゲストに出てくるときの動画のキャラクターが[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")を付けたパラケルスになっている。
+ゲームの声優である森利道は『GUILTY GEARシリーズ』のディレクターである。同じくアークシステムワークスが製作している『[BLAZBLUE](../Page/BLAZBLUE.md "wikilink")』の公式[ウェブラジオ](https://ja.wikipedia.org/wiki/ウェブラジオ "wikilink")の[ぶるらじ](https://ja.wikipedia.org/wiki/ぶるらじ "wikilink")（[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）にて、『BLAZBLUE』のプロデューサーが森利道＆ボイスも演じているというつながりで森利道がゲストに出てくるときの動画のキャラクターが[サングラス](../Page/サングラス.md "wikilink")を付けたパラケルスになっている。
 
 ## ストーリー
 
-  - [GUILTY GEAR XX SLASH](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX "wikilink")
+  - [GUILTY GEAR XX SLASH](../Page/GUILTY_GEAR_XX.md "wikilink")
     10年間「フラスコ」の中で一人過ごしてきたアバは、趣味である鍵収集を止め一念発起し外界に出る事を決めた。その時衝撃的に出会った鍵状の生物闘斧フラメントナーゲルに[一目惚れ](https://ja.wikipedia.org/wiki/一目惚れ "wikilink")をし、生物闘斧に新たに「パラケルス」と名づけ夫として迎え入れる。パラケルスに自分と同じ人造の体を与える為にアバの旅が始まった。
 
 ## ゲーム中の性能
@@ -45,7 +45,7 @@
 
     『GUILTY GEAR XX SLASH』（以下『SLASH』と表記）ではダウン時に一定のタイミングで覚醒必殺技等で入る暗転演出を合わせられると、強制的に諸刃ゲージがゼロになってしまうバグがある。
 
-    家庭用『[GUILTY GEAR ISUKA](https://ja.wikipedia.org/wiki/GUILTY_GEAR_ISUKA "wikilink")』（以下『ISUKA』と表記）が初出だが、『SLASH』ではモーションやシステムが大幅に一新されたため、ほぼ新規キャラクターのような扱いである。
+    家庭用『[GUILTY GEAR ISUKA](../Page/GUILTY_GEAR_ISUKA.md "wikilink")』（以下『ISUKA』と表記）が初出だが、『SLASH』ではモーションやシステムが大幅に一新されたため、ほぼ新規キャラクターのような扱いである。
 
     ゴールドモードは通常・EXタイプ両方共に常時「獄諸刃」モードになっている。ただし輸血パックシステムは無くなっているため、モードチェンジする時は「結合」を発動させなければならない。
 
@@ -90,13 +90,13 @@
   - 消却【通常】\[SLASH - /EX\]
     パラケルスを支えにして中段の飛び蹴りを繰り出す、カウンターヒット時にはよろけを誘発。
   - 抹消 （⇒覆滅）【通常・諸刃】 \[SLASH - /EX\]
-    腕の[包帯](https://ja.wikipedia.org/wiki/包帯 "wikilink")で敵を叩きダメージを与える。諸刃モード時はリーチが若干伸びる。
+    腕の[包帯](../Page/包帯.md "wikilink")で敵を叩きダメージを与える。諸刃モード時はリーチが若干伸びる。
       - 覆滅 （⇒断獄）【通常・諸刃】\[SLASH - /EX\]
         腕を水平に繰り出し殴る技でヒット時にはよろけを誘発する。EX版は鎖で敵の足元を殴るモーションに変更。
           - 断獄 【通常・諸刃】 \[SLASH - /EX\] (FRC)
             パラケルスの頭部を振り下ろし、敵を叩き切る。EX版は足を使ってパラケルスの刃で切り裂くモーションに変更。
   - 忌避【通常・諸刃】 \[SLASH - \]
-    アバがパラケルスの刃を使い[リストカット](https://ja.wikipedia.org/wiki/リストカット "wikilink")し、傷口から自身の血液を球状に放つ技。
+    アバがパラケルスの刃を使い[リストカット](../Page/リストカット.md "wikilink")し、傷口から自身の血液を球状に放つ技。
   - 焼成【通常】 \[SLASH - \] （輸血パック1つ消費）
     パラケルスに血液を与え諸刃モードにチェンジする。
   - 結合 【通常・諸刃】 \[SLASH - /EX\] （空中可／FRC）
@@ -153,8 +153,8 @@
 
 ## 関連項目
 
-  - [GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 [en:List of Guilty Gear characters\#A.B.A](https://ja.wikipedia.org/wiki/en:List_of_Guilty_Gear_characters#A.B.A "wikilink") [ru:Список персонажей Guilty Gear\#А.Б.А (A.B.A)](https://ja.wikipedia.org/wiki/ru:Список_персонажей_Guilty_Gear#А.Б.А_\(A.B.A\) "wikilink")
 

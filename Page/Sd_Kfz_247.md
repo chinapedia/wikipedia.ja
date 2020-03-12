@@ -1,7 +1,7 @@
 > この記事は[Sd Kfz 247](https://ja.wikipedia.org/wiki/Sd_Kfz_247)から翻訳されています。
 
 
-**Sd.Kfz. 247**とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ドイツ国防軍](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")が使用した[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")である。大戦前、6輪型の車輌（Ausf. A）が10両製造された。生産は戦中に続き、58両の4輪型（Ausf. B）となった。正式な名称は「schwerer geländegängiger gepanzerter Personenkraftwagen」（路外機動型重装甲兵員輸送車）である。本車は捜索[大隊](../Page/大隊.md "wikilink")の指揮車両として使用され、名称のように兵員輸送には使用されなかった。
+**Sd.Kfz. 247**とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ドイツ国防軍](../Page/ドイツ国防軍.md "wikilink")が使用した[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")である。大戦前、6輪型の車輌（Ausf. A）が10両製造された。生産は戦中に続き、58両の4輪型（Ausf. B）となった。正式な名称は「schwerer geländegängiger gepanzerter Personenkraftwagen」（路外機動型重装甲兵員輸送車）である。本車は捜索[大隊](../Page/大隊.md "wikilink")の指揮車両として使用され、名称のように兵員輸送には使用されなかった。
 
 ## 説明
 
@@ -11,7 +11,7 @@
 
 ### Ausf. A
 
-1937年、[クルップ](https://ja.wikipedia.org/wiki/クルップ "wikilink")では「Ausf. A」10両を製造した。シャシーは「L 2 H 143」、[クルップ・プロッツェ](https://ja.wikipedia.org/wiki/クルップ・プロッツェ "wikilink")と呼ばれていた製品で、6輪4軸駆動のトラックだった。この車輌は4気筒[空冷](https://ja.wikipedia.org/wiki/空冷 "wikilink")フラット配置のガソリンエンジンを搭載し、排気量は3.5リットルだった。クルップM305と呼ばれるこのエンジンは65馬力を発揮し、車輌を最高70km/hで走らせ、航続距離は350kmだった\[3\]。このシャシーを用いた他の全ての車輌と同様、「Ausf. A」は非常に限定的な不整地走行能力しか持っておらず、操縦手は路上や踏み固められた轍から出ないように助言された。車輌の自重は5.2tである。全長は5.2m、全幅は1.96m、全高は1.7mだった\[4\]。
+1937年、[クルップ](../Page/クルップ.md "wikilink")では「Ausf. A」10両を製造した。シャシーは「L 2 H 143」、[クルップ・プロッツェ](https://ja.wikipedia.org/wiki/クルップ・プロッツェ "wikilink")と呼ばれていた製品で、6輪4軸駆動のトラックだった。この車輌は4気筒[空冷](https://ja.wikipedia.org/wiki/空冷 "wikilink")フラット配置のガソリンエンジンを搭載し、排気量は3.5リットルだった。クルップM305と呼ばれるこのエンジンは65馬力を発揮し、車輌を最高70km/hで走らせ、航続距離は350kmだった\[3\]。このシャシーを用いた他の全ての車輌と同様、「Ausf. A」は非常に限定的な不整地走行能力しか持っておらず、操縦手は路上や踏み固められた轍から出ないように助言された。車輌の自重は5.2tである。全長は5.2m、全幅は1.96m、全高は1.7mだった\[4\]。
 
 ### Ausf. B
 
@@ -27,8 +27,8 @@
 ## 関連項目
 
   - [装甲車](../Page/装甲車.md "wikilink")
-  - [装甲兵員輸送車](https://ja.wikipedia.org/wiki/装甲兵員輸送車 "wikilink")
-  - [偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")
+  - [装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")
+  - [偵察](../Page/偵察.md "wikilink")
 
 ## 脚注
 

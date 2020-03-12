@@ -1,7 +1,7 @@
 > この記事は[Love parade](https://ja.wikipedia.org/wiki/Love_parade)から翻訳されています。
 
 
-「**Loveparade**」（ラブ・パレード）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")。2002年4月24日、[KONAMIより発売](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
+「**Loveparade**」（ラブ・パレード）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")。2002年4月24日、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
 
 ## 解説
 

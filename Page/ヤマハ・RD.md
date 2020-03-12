@@ -1,18 +1,18 @@
 > この記事は[RD](https://ja.wikipedia.org/wiki/RD)から翻訳されています。
 
 
-**ヤマハ・RD**（アールディー）は、[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種。50ccクラスから400ccクラスまで[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")別に生産された。
+**ヤマハ・RD**（アールディー）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種。50ccクラスから400ccクラスまで[排気量](../Page/排気量.md "wikilink")別に生産された。
 
 ## 概要
 
-同社のAX125、DX250、RX350の後継機種として、また[スズキ](../Page/スズキ_\(企業\).md "wikilink")・[GTおよび](https://ja.wikipedia.org/wiki/スズキ・GT "wikilink")[RGシリーズや](https://ja.wikipedia.org/wiki/スズキ・RG "wikilink")[カワサキ](../Page/川崎重工業.md "wikilink")・[SS（マッハ）および](https://ja.wikipedia.org/wiki/カワサキ・マッハ "wikilink")[KHシリーズの対抗車種として開発が行われた](https://ja.wikipedia.org/wiki/カワサキ・KH "wikilink")、[2ストロークエンジンを搭載する車種である](../Page/2ストローク機関.md "wikilink")。同シリーズの生産は、[1973年](../Page/1973年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで製造されたが、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")以前は国内・輸出仕様車の名称として、1980年以降は後継車であるRZシリーズの輸出仕様車の名称となっていた（仕向地によっては車種名称をRZとする場合がある）。1980年代以降のRD250LC、RD350LC、RD350・RZ350（[YPVS](https://ja.wikipedia.org/wiki/YPVS "wikilink")を搭載したRZ350R、RZ350RRの輸出仕様）については[ヤマハ・RZ](https://ja.wikipedia.org/wiki/ヤマハ・RZ "wikilink")の項を参照。 RDの名の由来は、ヤマハ内の排気量別コード名から。Rはレーサーまたは350cc、Dは250ccを意味する。
+同社のAX125、DX250、RX350の後継機種として、また[スズキ](../Page/スズキ_\(企業\).md "wikilink")・[GTおよび](https://ja.wikipedia.org/wiki/スズキ・GT "wikilink")[RGシリーズや](https://ja.wikipedia.org/wiki/スズキ・RG "wikilink")[カワサキ](../Page/川崎重工業.md "wikilink")・[SS（マッハ）および](https://ja.wikipedia.org/wiki/カワサキ・マッハ "wikilink")[KHシリーズの対抗車種として開発が行われた](https://ja.wikipedia.org/wiki/カワサキ・KH "wikilink")、[2ストロークエンジンを搭載する車種である](../Page/2ストローク機関.md "wikilink")。同シリーズの生産は、[1973年](../Page/1973年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで製造されたが、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")以前は国内・輸出仕様車の名称として、1980年以降は後継車であるRZシリーズの輸出仕様車の名称となっていた（仕向地によっては車種名称をRZとする場合がある）。1980年代以降のRD250LC、RD350LC、RD350・RZ350（[YPVS](../Page/YPVS.md "wikilink")を搭載したRZ350R、RZ350RRの輸出仕様）については[ヤマハ・RZ](../Page/ヤマハ・RZ.md "wikilink")の項を参照。 RDの名の由来は、ヤマハ内の排気量別コード名から。Rはレーサーまたは350cc、Dは250ccを意味する。
 
 ## 年代別ラインナップ一覧
 
   - 1973年:[RD50](https://ja.wikipedia.org/wiki/ヤマハ・RD50 "wikilink"),[RD60](https://ja.wikipedia.org/wiki/ヤマハ・RD60 "wikilink"),RD250,RD250,RD350
   - [1974年](../Page/1974年.md "wikilink"):RD50,RD60A,[RD90](https://ja.wikipedia.org/wiki/ヤマハ・RD90 "wikilink"),RD125,RD200A,RD250A,RD350A
   - [1975年](../Page/1975年.md "wikilink"):RD50,RD60B,[RD125B](https://ja.wikipedia.org/wiki/ヤマハ・RD125 "wikilink"),RD200B,RD250,RD250B,RD350,RD350B
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink"):RD50,RD125C,RD125II,RD200C,RD250,RD400,RD400C
+  - [1976年](../Page/1976年.md "wikilink"):RD50,RD125C,RD125II,RD200C,RD250,RD400,RD400C
   - [1977年](../Page/1977年.md "wikilink"):RD50,RD125,RD250,RD400D,RD400-II
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink"):RD50,RD50SP,RD90,RD125,RD250DX,RD400E
   - [1979年](../Page/1979年.md "wikilink"):RD50,RD50sp,RD90,RD125,RD250,RD400,RD400F DaytonaSpecial

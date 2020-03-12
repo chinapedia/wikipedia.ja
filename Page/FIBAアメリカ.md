@@ -1,7 +1,7 @@
 > この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
 
 
-**FIBAアメリカ**（**FIBA Americas**）は、[国際バスケットボール連盟](https://ja.wikipedia.org/wiki/国際バスケットボール連盟 "wikilink")（FIBA）の傘下にある大陸連盟で、[南北アメリカ大陸における](../Page/アメリカ大陸.md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")の運営・管理・普及活動を行う。
+**FIBAアメリカ**（**FIBA Americas**）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）の傘下にある大陸連盟で、[南北アメリカ大陸における](../Page/アメリカ大陸.md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")の運営・管理・普及活動を行う。
 
 ## 加盟国・地域
 
@@ -160,7 +160,7 @@
 
 ### ナショナルチーム
 
-  - [バスケットボールアメリカ選手権](https://ja.wikipedia.org/wiki/バスケットボールアメリカ選手権 "wikilink")（アメリカップ）
+  - [バスケットボールアメリカ選手権](../Page/バスケットボールアメリカ選手権.md "wikilink")（アメリカップ）
   - [女子バスケットボールアメリカ選手権](https://ja.wikipedia.org/wiki/女子バスケットボールアメリカ選手権 "wikilink")（女子アメリカップ）
   - [バスケットボールアメリカU-20選手権](https://ja.wikipedia.org/wiki/バスケットボールアメリカU-20選手権 "wikilink")
   - [女子バスケットボールアメリカU-20選手権](https://ja.wikipedia.org/wiki/女子バスケットボールアメリカU-20選手権 "wikilink")

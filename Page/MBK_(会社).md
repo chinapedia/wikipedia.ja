@@ -5,13 +5,13 @@
 
 ## 概要
 
-[1984年](../Page/1984年.md "wikilink")に[モトベカン](https://ja.wikipedia.org/wiki/モトベカン "wikilink")から社名を変更し[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")傘下のフランス現地関連会社となり、特に[スクーター](https://ja.wikipedia.org/wiki/スクーター "wikilink")に関しては、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各地域へ製造車両を供給している。
+[1984年](../Page/1984年.md "wikilink")に[モトベカン](https://ja.wikipedia.org/wiki/モトベカン "wikilink")から社名を変更し[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")傘下のフランス現地関連会社となり、特に[スクーター](../Page/スクーター.md "wikilink")に関しては、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各地域へ製造車両を供給している。
 
 なおモトベカンから[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")部門も引き継いで自社による製造を行っていたが、[2015年](../Page/2015年.md "wikilink")現在は親会社のヤマハ発動機がMBKおよびモトベカンの[商標](../Page/商標.md "wikilink")を管理\[1\]\[2\]する形で資本関係に関わらず世界各地において生産が行われている\[3\]。
 
 ## オートバイの主な製品
 
-  - [MBK・Booster](https://ja.wikipedia.org/wiki/MBK・Booster "wikilink")（スクーター）
+  - [MBK・Booster](../Page/MBK・Booster.md "wikilink")（スクーター）
   - [MBK・Thunder](https://ja.wikipedia.org/wiki/MBK・Thunder "wikilink")（スクーター）
   - [MBK・Doodo](https://ja.wikipedia.org/wiki/MBK・Doodo "wikilink")（スクーター）
   - [MBK・Skyliner](https://ja.wikipedia.org/wiki/MBK・Skyliner "wikilink")（スクーター）

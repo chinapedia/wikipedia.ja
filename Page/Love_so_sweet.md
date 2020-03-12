@@ -1,21 +1,21 @@
 > この記事は[Love so sweet](https://ja.wikipedia.org/wiki/Love_so_sweet)から翻訳されています。
 
 
-「**Love so sweet**」（ラヴ・ソー・スウィート）は、[嵐の](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に発売。発売元は[J Storm](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+「**Love so sweet**」（ラヴ・ソー・スウィート）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に発売。発売元は[J Storm](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 解説
 
-前作「[アオゾラペダル](https://ja.wikipedia.org/wiki/アオゾラペダル "wikilink")」から約6か月ぶりのリリース。
+前作「[アオゾラペダル](../Page/アオゾラペダル.md "wikilink")」から約6か月ぶりのリリース。
 
-本作は通常盤と初回限定盤の2種類がある。表題曲「Love so sweet」はメンバーの[松本潤](../Page/松本潤.md "wikilink")が出演した[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#第2シリーズ "wikilink")』の主題歌として使用されて「[WISH](https://ja.wikipedia.org/wiki/WISH_\(嵐の曲\) "wikilink")」に続くものであり、ドラマ主題歌も同作以来となった。また、発売から8年が経った[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から放送の[キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](https://ja.wikipedia.org/wiki/午後の紅茶 "wikilink")」のCMソングとしても使用された\[1\]\[2\]。PVの監督は、「[君のために僕がいる](https://ja.wikipedia.org/wiki/君のために僕がいる "wikilink")」も手がけた[山口保幸](https://ja.wikipedia.org/wiki/山口保幸 "wikilink")。
+本作は通常盤と初回限定盤の2種類がある。表題曲「Love so sweet」はメンバーの[松本潤](../Page/松本潤.md "wikilink")が出演した[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#第2シリーズ "wikilink")』の主題歌として使用されて「[WISH](../Page/WISH_\(嵐の曲\).md "wikilink")」に続くものであり、ドラマ主題歌も同作以来となった。また、発売から8年が経った[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から放送の[キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」のCMソングとしても使用された\[1\]\[2\]。PVの監督は、「[君のために僕がいる](../Page/君のために僕がいる.md "wikilink")」も手がけた[山口保幸](../Page/山口保幸.md "wikilink")。
 
 「Love so sweet」のビデオ・クリップはこのシングルには収録されておらず、DVD『[5×10 All the BEST\! CLIPS 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_CLIPS_1999-2009 "wikilink")』に収録された。
 
-初回限定盤のみ収録の「ファイトソング」は、メンバー出演の[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[Gの嵐\!](https://ja.wikipedia.org/wiki/Gの嵐! "wikilink")』公式応援歌として、前年から放送されていた楽曲。作詞はメンバー5人が担当し、作曲は[二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")が担当した。通常盤の初回プレス版にプチファイルが封入された。
+初回限定盤のみ収録の「ファイトソング」は、メンバー出演の[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[Gの嵐\!](../Page/Gの嵐!.md "wikilink")』公式応援歌として、前年から放送されていた楽曲。作詞はメンバー5人が担当し、作曲は[二宮和也](../Page/二宮和也.md "wikilink")が担当した。通常盤の初回プレス版にプチファイルが封入された。
 
 ## チャート成績
 
-2007年3月5日付の[オリコン週間シングルチャートで初登場首位を獲得](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。嵐のシングルとしては「[PIKA★★NCHI DOUBLE](https://ja.wikipedia.org/wiki/PIKA★★NCHI_DOUBLE "wikilink")」から7作連続、通算14作目の首位獲得となった。初動売上は約20.4万枚となり、[2002年](../Page/2002年.md "wikilink")発売の「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」以来となる20万枚超を記録した\[3\]。同チャートにおける登場回数は85回\[4\]。
+2007年3月5日付の[オリコン週間シングルチャートで初登場首位を獲得](../Page/オリコンチャート.md "wikilink")。嵐のシングルとしては「[PIKA★★NCHI DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")」から7作連続、通算14作目の首位獲得となった。初動売上は約20.4万枚となり、[2002年](../Page/2002年.md "wikilink")発売の「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」以来となる20万枚超を記録した\[3\]。同チャートにおける登場回数は85回\[4\]。
 
 2007年度のオリコン上半期シングルチャートでは売上約42.1万枚で3位\[5\]、同年度の年間シングルチャートでは約43.0万枚で4位にランクインした\[6\]。
 
@@ -32,11 +32,11 @@
       -
         作詞：SPIN / 作曲：youth case / 編曲：Mugen
     <!-- end list -->
-      - [松本潤](../Page/松本潤.md "wikilink")出演 [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
-      - [キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](https://ja.wikipedia.org/wiki/午後の紅茶 "wikilink")」CMソング
+      - [松本潤](../Page/松本潤.md "wikilink")出演 [TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
+      - [キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」CMソング
     <!-- end list -->
       -
-        この曲が嵐の[大ブレイクを決定づけ](https://ja.wikipedia.org/wiki/流行 "wikilink")、嵐のメジャー化の原点となった\[8\]。また、発売から時間が経っても人気曲の一つである\[9\]
+        この曲が嵐の[大ブレイクを決定づけ](../Page/流行.md "wikilink")、嵐のメジャー化の原点となった\[8\]。また、発売から時間が経っても人気曲の一つである\[9\]
         [GLAY](../Page/GLAY.md "wikilink")の[TERU](../Page/TERU.md "wikilink")が、嵐の楽曲の中で最も気に入っており、TERUと松本がカラオケバーで初めて会った際、この楽曲を一緒に歌った。2011年、GLAYのファンクラブ会員限定ライブ「[We Love Happy Swing](https://ja.wikipedia.org/wiki/HAPPY_SWING_15th_Anniversary_SPECIAL_LIVE_〜We_Love_Happy_Swing〜_in_MAKUHARI "wikilink")」で披露されたカヴァーは、その時に松本からの承諾を得ている。
 2.  **いつまでも**
       -
@@ -45,13 +45,13 @@
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[まごまご嵐](https://ja.wikipedia.org/wiki/まごまご嵐 "wikilink")」エンディング・テーマ
 3.  **ファイトソング**
       -
-        作詞：嵐 / 作曲：[二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink") / 編曲：北川吟
+        作詞：嵐 / 作曲：[二宮和也](../Page/二宮和也.md "wikilink") / 編曲：北川吟
     <!-- end list -->
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[Gの嵐\!](https://ja.wikipedia.org/wiki/Gの嵐! "wikilink")』公式応援歌
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[Gの嵐\!](../Page/Gの嵐!.md "wikilink")』公式応援歌
     <!-- end list -->
       -
-        原曲は二宮のソロ曲「楽園」\[10\]であり、自身のラジオ「[BAY STORM](https://ja.wikipedia.org/wiki/BAY_STORM "wikilink")」で披露したこともある。
-        [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売されたDVD「C×D×G no ARASHI\! Vol.2」の特典映像にPVのような映像が収録されている。
+        原曲は二宮のソロ曲「楽園」\[10\]であり、自身のラジオ「[BAY STORM](../Page/BAY_STORM.md "wikilink")」で披露したこともある。
+        [2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売されたDVD「C×D×G no ARASHI\! Vol.2」の特典映像にPVのような映像が収録されている。
 
 ### 通常盤
 
@@ -64,7 +64,7 @@
 
 ## 収録アルバム
 
-  - [Time](https://ja.wikipedia.org/wiki/Time_\(嵐のアルバム\) "wikilink")（\#1）
+  - [Time](../Page/Time_\(嵐のアルバム\).md "wikilink")（\#1）
   - [5×10 All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_1999-2009 "wikilink")（\#1）
   - [ウラ嵐マニア](https://ja.wikipedia.org/wiki/ウラ嵐マニア "wikilink")（\#2, 初回限定盤\#3）
   - [5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")（\#1）
@@ -73,9 +73,9 @@
 
 ## 外部リンク
 
-  - [Johnny's netによる紹介ページ](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")
+  - [Johnny's netによる紹介ページ](../Page/ジャニーズ事務所.md "wikilink")
       - [Love so sweet](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=138)
-  - [J Stormによる紹介ページ](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")
+  - [J Stormによる紹介ページ](../Page/ジェイ・ストーム.md "wikilink")
       - [Love so sweet](https://www.j-storm.co.jp/arashi/discography/love-so-sweet)
 
 [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:花より男子](https://ja.wikipedia.org/wiki/Category:花より男子 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
@@ -87,6 +87,6 @@
 5.
 6.
 7.  [第22回日本ゴールドディスク大賞](http://www.golddisc.jp/award/22/Prize_1.html#gd22_06) 日本ゴールドディスク大賞 2017年3月18日閲覧
-8.  『[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")』7月号、[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")、2015年、67頁3段目。
+8.  『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』7月号、[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")、2015年、67頁3段目。
 9.  [嵐の人気曲ランキング](https://www.joysound.com/web/search/artist/6944/ranking) ジョイサウンド 2018年3月23日閲覧
 10. 11thアルバム『[Popcorn](https://ja.wikipedia.org/wiki/Popcorn "wikilink")』収録の[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")のソロ曲とは無関係である。

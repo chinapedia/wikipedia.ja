@@ -5,10 +5,10 @@
 
 ## 歴史
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[大分AMWプロレス](https://ja.wikipedia.org/wiki/大分AMWプロレス "wikilink")を退団した[スカルリーパーA-ji](https://ja.wikipedia.org/wiki/スカルリーパーA-ji "wikilink")、xXXx、バトルシャーク、小松VINNI（現：2代目上田馬之助）が設立。
+  - [2004年](../Page/2004年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[大分AMWプロレス](../Page/大分AMWプロレス.md "wikilink")を退団した[スカルリーパーA-ji](../Page/スカルリーパーA-ji.md "wikilink")、xXXx、バトルシャーク、小松VINNI（現：2代目上田馬之助）が設立。
   - [11月23日](../Page/11月23日.md "wikilink")、[大分イベントホール](https://ja.wikipedia.org/wiki/大分イベントホール "wikilink")で旗揚げ戦を開催。
   - [2013年](../Page/2013年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[日本列島プロレス連盟](https://ja.wikipedia.org/wiki/日本列島プロレス連盟 "wikilink")の発足に参加\[1\]。
-  - [2019年](../Page/2019年.md "wikilink")[1月12日](https://ja.wikipedia.org/wiki/1月12日 "wikilink")、[イオンモール宇城](https://ja.wikipedia.org/wiki/イオンモール宇城 "wikilink")で開催された[プロレスフェス](https://ja.wikipedia.org/wiki/プロレスフェス "wikilink")に参加。
+  - [2019年](../Page/2019年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")、[イオンモール宇城](../Page/イオンモール宇城.md "wikilink")で開催された[プロレスフェス](https://ja.wikipedia.org/wiki/プロレスフェス "wikilink")に参加。
 
 ## タイトル
 
@@ -26,7 +26,7 @@
 
 ## 所属選手
 
-  - [スカルリーパーA-ji](https://ja.wikipedia.org/wiki/スカルリーパーA-ji "wikilink")
+  - [スカルリーパーA-ji](../Page/スカルリーパーA-ji.md "wikilink")
   - xXXx
   - バトルシャーク
   - 上田馬之助

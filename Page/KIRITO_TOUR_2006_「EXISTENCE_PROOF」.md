@@ -1,7 +1,7 @@
 > この記事は[KIRITO TOUR 2006 EXISTENCE PROOF](https://ja.wikipedia.org/wiki/KIRITO_TOUR_2006_EXISTENCE_PROOF)から翻訳されています。
 
 
-**KIRITO TOUR 2006 EXISTENCE PROOF**は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")から[8月14日](../Page/8月14日.md "wikilink")まで開催された[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")の2回目のライヴ・ツアーである。
+**KIRITO TOUR 2006 EXISTENCE PROOF**は、[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")から[8月14日](../Page/8月14日.md "wikilink")まで開催された[キリト](../Page/キリト.md "wikilink")の2回目のライヴ・ツアーである。
 
 ## 概要
 
@@ -14,10 +14,10 @@
 
   - 7月20日 浦安市文化会館
   - 7月22日 メルパルクホールFUKUOKA
-  - 7月24日 [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")ホール
+  - 7月24日 [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")ホール
   - 7月25日 中野サンプラザホール
   - 7月27日 宮城県民会館
-  - 7月31日 [札幌市教育文化会館](https://ja.wikipedia.org/wiki/札幌市教育文化会館 "wikilink")大ホール
+  - 7月31日 [札幌市教育文化会館](../Page/札幌市教育文化会館.md "wikilink")大ホール
   - 8月03日 大宮ソニックシティ 大ホール
   - 8月04日 大宮ソニックシティ 大ホール
   - 8月07日 愛知県勤労会館　大ホール
@@ -36,11 +36,11 @@
 
   - アルバム『[Hameln](../Page/Hameln_\(アルバム\).md "wikilink")』収録曲や、シングル『[TEAR](https://ja.wikipedia.org/wiki/TEAR_\(キリトの曲\) "wikilink")』『[DECIDE](https://ja.wikipedia.org/wiki/DECIDE_\(キリトの曲\) "wikilink")』収録曲など、発表済みの20曲を全て歌っている。
   - ダブルアンコールではPIERROTのセルフカヴァーとして、各ホールで「BIRTHDAY」「CHILD」「ANSWER」「ラストレター」を弾き語りで演奏した。なお、「ラストレター」はキリトがギターのコードを覚えていなかったため、[ア・カペラ](../Page/ア・カペラ.md "wikilink")での演奏となった。
-  - 追加公演最終日には[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")の結成を発表し、「REBORN」を初披露した。
+  - 追加公演最終日には[Angelo](../Page/Angelo.md "wikilink")の結成を発表し、「REBORN」を初披露した。
 
 ## DVD内容
 
-**『KIRITO TOUR 2006 EXISTENCE PROOF』**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")）
+**『KIRITO TOUR 2006 EXISTENCE PROOF』**（[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")）
 
 1.  GARDEN
 2.  PAST

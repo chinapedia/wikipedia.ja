@@ -9,7 +9,7 @@
 
 [コンパイラ](../Page/コンパイラ.md "wikilink")には最新の [NAG Fortran Compiler](https://ja.wikipedia.org/wiki/NAG_Fortran_Compiler "wikilink") が使われており、その特徴として、コンパイル時と実行時における[プログラムチェックの厳しさが挙げられる](../Page/プログラム_\(コンピュータ\).md "wikilink")。 これにより、実行結果の信頼性が高く、[移植性](../Page/移植性.md "wikilink")に優れた Fortran [ソースコード](../Page/ソースコード.md "wikilink")の作成が可能となっている。
 
-[数値計算](https://ja.wikipedia.org/wiki/数値計算 "wikilink")と[可視化](https://ja.wikipedia.org/wiki/可視化 "wikilink")の[ライブラリ](../Page/ライブラリ.md "wikilink")も搭載されている（[LAPACK](https://ja.wikipedia.org/wiki/LAPACK "wikilink") 等）。 また、[NAG 数値計算ライブラリが](https://ja.wikipedia.org/wiki/NAG数値計算ライブラリ "wikilink")[インストール](../Page/インストール.md "wikilink")されていれば、それをシームレスにリンクすることができる。
+[数値計算](https://ja.wikipedia.org/wiki/数値計算 "wikilink")と[可視化](../Page/可視化.md "wikilink")の[ライブラリ](../Page/ライブラリ.md "wikilink")も搭載されている（[LAPACK](../Page/LAPACK.md "wikilink") 等）。 また、[NAG 数値計算ライブラリが](../Page/NAG数値計算ライブラリ.md "wikilink")[インストール](../Page/インストール.md "wikilink")されていれば、それをシームレスにリンクすることができる。
 
 ## 外部リンク
 

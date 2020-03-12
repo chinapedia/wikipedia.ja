@@ -1,17 +1,17 @@
 > この記事は[2 SOS!](https://ja.wikipedia.org/wiki/2_SOS!)から翻訳されています。
 
 
-『**ドラえもん2 SOS\!おとぎの国**』（ドラえもん2 エスオーエスおとぎのくに）は、[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink")が発売したアクションゲーム。
+『**ドラえもん2 SOS\!おとぎの国**』（ドラえもん2 エスオーエスおとぎのくに）は、[エポック社](../Page/エポック社.md "wikilink")が発売したアクションゲーム。
 
 ## 概要
 
-[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")を題材としたプレイステーション用ソフトの第2作。[前作と同じ](https://ja.wikipedia.org/wiki/ドラえもん_のび太と復活の星 "wikilink")[横スクロールアクションであるが](../Page/アクションゲーム.md "wikilink")、難易度がかなりの高さを誇る。
+[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")を題材としたプレイステーション用ソフトの第2作。[前作と同じ](../Page/ドラえもん_のび太と復活の星.md "wikilink")[横スクロールアクションであるが](../Page/アクションゲーム.md "wikilink")、難易度がかなりの高さを誇る。
 
 ## 物語
 
-ある日、[ドラえもんが](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")[四次元ポケット](../Page/四次元ポケット.md "wikilink")から取り出したのは、未来の「[超巨大立体テレビ](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(ち\)#超巨大立体テレビ "wikilink")」だった。[のび太がおとぎ話の番組にチャンネルを合わせると](../Page/野比のび太.md "wikilink")、「[桃太郎](../Page/桃太郎.md "wikilink")」の番組が始まるが桃太郎が鬼に捕まっていた。さらに他のおとぎ話の主人公たちも悪者に捕らえられていた。
+ある日、[ドラえもんが](../Page/ドラえもん_\(キャラクター\).md "wikilink")[四次元ポケット](../Page/四次元ポケット.md "wikilink")から取り出したのは、未来の「[超巨大立体テレビ](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(ち\)#超巨大立体テレビ "wikilink")」だった。[のび太がおとぎ話の番組にチャンネルを合わせると](../Page/野比のび太.md "wikilink")、「[桃太郎](../Page/桃太郎.md "wikilink")」の番組が始まるが桃太郎が鬼に捕まっていた。さらに他のおとぎ話の主人公たちも悪者に捕らえられていた。
 
-それを見たドラえもんとのび太は仲間たちを呼ぶ。ドラえもんはひみつ道具「[着せかえカメラ](https://ja.wikipedia.org/wiki/着せかえカメラ "wikilink")」を取り出しのび太は「桃太郎」、[しずかは](../Page/源静香.md "wikilink")「[赤ずきん](../Page/赤ずきん.md "wikilink")」、[ジャイアンは](../Page/剛田武.md "wikilink")「[一寸法師](https://ja.wikipedia.org/wiki/一寸法師 "wikilink")」、[スネ夫は](../Page/骨川スネ夫.md "wikilink")「[ジャック](https://ja.wikipedia.org/wiki/ジャックと豆の木 "wikilink")」、ドラえもんは「[浦島太郎](../Page/浦島太郎.md "wikilink")」の衣装を着る。ドラえもんたちは異変の原因をさぐるため、おとぎの国へ出発する。
+それを見たドラえもんとのび太は仲間たちを呼ぶ。ドラえもんはひみつ道具「[着せかえカメラ](https://ja.wikipedia.org/wiki/着せかえカメラ "wikilink")」を取り出しのび太は「桃太郎」、[しずかは](../Page/源静香.md "wikilink")「[赤ずきん](../Page/赤ずきん.md "wikilink")」、[ジャイアンは](../Page/剛田武.md "wikilink")「[一寸法師](https://ja.wikipedia.org/wiki/一寸法師 "wikilink")」、[スネ夫は](../Page/骨川スネ夫.md "wikilink")「[ジャック](../Page/ジャックと豆の木.md "wikilink")」、ドラえもんは「[浦島太郎](../Page/浦島太郎.md "wikilink")」の衣装を着る。ドラえもんたちは異変の原因をさぐるため、おとぎの国へ出発する。
 
 ## 登場キャラクター
 
@@ -20,7 +20,7 @@
   - しずか（声：[野村道子](../Page/野村道子.md "wikilink")）：今回は「赤ずきん」として活躍する。
   - ジャイアン（声：[たてかべ和也](../Page/たてかべ和也.md "wikilink")）：今回は「一寸法師」として活躍する。
   - スネ夫（声：[肝付兼太](../Page/肝付兼太.md "wikilink")）：今回は「ジャック」として活躍する。
-  - 魔女（声：[北川智繪](https://ja.wikipedia.org/wiki/北川智繪 "wikilink")）：おとぎの国をメチャクチャにした張本人。子供たちの夢を嫌っている。ワールド6の最後のステージで戦うが、このゲームの最高の難易度をほこる強さである。
+  - 魔女（声：[北川智繪](../Page/北川智繪.md "wikilink")）：おとぎの国をメチャクチャにした張本人。子供たちの夢を嫌っている。ワールド6の最後のステージで戦うが、このゲームの最高の難易度をほこる強さである。
 
 ## ゲームシステム
 
@@ -32,7 +32,7 @@
   - ワールド2：[桃太郎](../Page/桃太郎.md "wikilink")。全ステージ5。使用キャラはのび太。
   - ワールド3：[赤ずきん](../Page/赤ずきん.md "wikilink")ちゃん。全ステージ5。使用キャラはしずか。
   - ワールド4：[一寸法師](https://ja.wikipedia.org/wiki/一寸法師 "wikilink")。全ステージ5。使用キャラはジャイアン。
-  - ワールド5：[ジャックと豆の木](https://ja.wikipedia.org/wiki/ジャックと豆の木 "wikilink")。全ステージ5。使用キャラはスネ夫。
+  - ワールド5：[ジャックと豆の木](../Page/ジャックと豆の木.md "wikilink")。全ステージ5。使用キャラはスネ夫。
   - ワールド6：オリジナルステージ。ワールド1〜5をすべてクリアすると出現する。使用キャラは5人の中から自由に選べる。
 
 ### ボス
@@ -85,7 +85,7 @@
   - [雲固めガス](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(くな-くん\)#雲かためガス "wikilink")
       - 一時的に雲を固め足場にしてくれる。
   - [どこでも大砲](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(とあ-とこ\)#どこでも大ほう "wikilink")
-  - [通りぬけフープ](https://ja.wikipedia.org/wiki/通りぬけフープ "wikilink")
+  - [通りぬけフープ](../Page/通りぬけフープ.md "wikilink")
   - [ドロン巻き物](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(とさ-とん\)#ドロン巻き物 "wikilink")
       - 体がしばらく透明になり、敵の攻撃を受けない。
   - [ウルトラストップウォッチ](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(うな-うん\)#ウルトラストップウォッチ "wikilink")

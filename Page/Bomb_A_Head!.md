@@ -5,7 +5,7 @@
 
 ## 概要
 
-もともとは、[東映Vシネマ](https://ja.wikipedia.org/wiki/東映Vシネマ "wikilink")のオールキャスト･ミュージシャンによるダンスアクション映画『ハートブレイカー ～弾丸より愛を込めて』（1992年）の音楽監督を[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が担当することに端を発し、オープニングを含めテーマソングとして制作された\[1\]。
+もともとは、[東映Vシネマ](../Page/東映Vシネマ.md "wikilink")のオールキャスト･ミュージシャンによるダンスアクション映画『ハートブレイカー ～弾丸より愛を込めて』（1992年）の音楽監督を[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が担当することに端を発し、オープニングを含めテーマソングとして制作された\[1\]。
 
 当時、ダンスフィルム･メイカーの第一人者として注目を受けていた[小松壮一郎](https://ja.wikipedia.org/wiki/小松壮一郎 "wikilink")から、「本当に踊れる、新しい日本のダンスミュージックを」というオファーを受け、その際イメージとして、同じファンカヒップスで活動していた先輩・[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")の曲を聴かされた事に、富樫が反骨奮起して生まれた（尚、同時期にm.c.A・Tは、バックバンド「DAI-NINKI」とともに密かに小さなライブハウスなどで活動を始めていた）。
 
@@ -19,7 +19,7 @@
 
 PVは通常のバージョンとストリート編の2種類存在している。通常バージョンは倉庫らしき建物の中で、ストリート編は渋谷の街中でダンサーと踊っている内容である。 ストリート編は現在までDVD化されていない（「A･T da PACK」〈VHS〉ではスタッフロールの後にボーナストラックとして収録されている）。
 
-[2003年](../Page/2003年.md "wikilink")に「Bomb A Head\! Returns\!」、[2004年](../Page/2004年.md "wikilink")に「Bomb A Head\! V」と[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。後者はTVアニメ『[天上天下](https://ja.wikipedia.org/wiki/天上天下 "wikilink")』のテーマソング。アルバム『Returns\!』では[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")として収録されている。また[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")・[Dreamがカバーしている](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")。
+[2003年](../Page/2003年.md "wikilink")に「Bomb A Head\! Returns\!」、[2004年](../Page/2004年.md "wikilink")に「Bomb A Head\! V」と[セルフカバー](../Page/セルフカバー.md "wikilink")している。後者はTVアニメ『[天上天下](../Page/天上天下.md "wikilink")』のテーマソング。アルバム『Returns\!』では[隠しトラック](../Page/隠しトラック.md "wikilink")として収録されている。また[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")・[Dreamがカバーしている](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")。
 
 [2013年](../Page/2013年.md "wikilink")には、「Bomb A Head\! 生誕20周年記念盤（ミニアルバム）」を発表。いろいろなリミックスや、m.c.A・Tによる「アカペラ・ヴァージョン」をCD初収録している。
 

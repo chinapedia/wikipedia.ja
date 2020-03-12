@@ -1,11 +1,11 @@
 > この記事は[Xenepic Online](https://ja.wikipedia.org/wiki/Xenepic_Online)から翻訳されています。
 
 
-**Xenepic Online**（ゼネピックオンライン、**XO**）は、韓国の[DNC EnterTainmentが開発した](https://ja.wikipedia.org/wiki/DNC_EnterTainment "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")（多人数参加型オンラインロールプレイングゲーム）である。日本では[キューエンタテインメント](https://ja.wikipedia.org/wiki/キューエンタテインメント "wikilink")株式会社が運営している。 外国版はSecret of the Solstice。
+**Xenepic Online**（ゼネピックオンライン、**XO**）は、韓国の[DNC EnterTainmentが開発した](https://ja.wikipedia.org/wiki/DNC_EnterTainment "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")（多人数参加型オンラインロールプレイングゲーム）である。日本では[キューエンタテインメント](../Page/キューエンタテインメント.md "wikilink")株式会社が運営している。 外国版はSecret of the Solstice。
 
 ## 概要
 
-  - 基本プレイ無料、[アイテム課金](https://ja.wikipedia.org/wiki/アイテム課金 "wikilink")である。
+  - 基本プレイ無料、[アイテム課金](../Page/アイテム課金.md "wikilink")である。
   - ゲーム内容は、魔神が封印された世界を舞台としている。操作するキャラクターは、二次元でかわいらしい格好が魅力となっている。
   - 2014年1月22日をもって、サービス終了した。
 
@@ -30,7 +30,7 @@
 
 ## 個人情報の流出
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月](../Page/6月.md "wikilink")に29万件の個人情報の流失が確認された。ゲームで使用可能な500XenepicPointを配布すると発表した。\[1\]
+[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")に29万件の個人情報の流失が確認された。ゲームで使用可能な500XenepicPointを配布すると発表した。\[1\]
 
 ## 脚注
 

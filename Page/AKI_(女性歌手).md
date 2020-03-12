@@ -9,9 +9,9 @@
 
 この他、地元北海道のローカルバラエティ番組『[いばらのもり](https://ja.wikipedia.org/wiki/いばらのもり "wikilink")』でナレーションを務めた（一部コーナーでは顔出し出演）。
 
-[2001年](../Page/2001年.md "wikilink")、体調不良のためにI'veを脱退した（I'veからの正式な発表はなかった）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、『Visual Style』5月号の[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")のインタビューにおいて、体調不良によって入院していたことが明かされた。
+[2001年](../Page/2001年.md "wikilink")、体調不良のためにI'veを脱退した（I'veからの正式な発表はなかった）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、『Visual Style』5月号の[高瀬一矢](../Page/高瀬一矢.md "wikilink")のインタビューにおいて、体調不良によって入院していたことが明かされた。
 
-[2003年](../Page/2003年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に発売された[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")『[ALMA〜ずっとそばに…〜](https://ja.wikipedia.org/wiki/ALMA〜ずっとそばに…〜 "wikilink")』付属の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")CDに収録された「新しい恋のかたち」で一時復帰するも、以後の活動状況は不明である（この楽曲自体の製作時期も不明である）。
+[2003年](../Page/2003年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に発売された[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")『[ALMA〜ずっとそばに…〜](../Page/ALMA〜ずっとそばに…〜.md "wikilink")』付属の[サウンドトラック](../Page/サウンドトラック.md "wikilink")CDに収録された「新しい恋のかたち」で一時復帰するも、以後の活動状況は不明である（この楽曲自体の製作時期も不明である）。
 
 ## 曲目リスト
 
@@ -21,7 +21,7 @@
 
   - そよ風の行方
     [1999年](../Page/1999年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")　収録作品：[regret](https://ja.wikipedia.org/wiki/regret_\(アルバム\) "wikilink")
-    作詞・作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+    作詞・作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
   - Sweet 〜恋しくて〜
     1999年[9月10日](../Page/9月10日.md "wikilink")　収録作品：regret
     作詞・作曲・編曲：高瀬一矢
@@ -53,18 +53,18 @@
     2000年[11月24日](../Page/11月24日.md "wikilink")　収録作品：EMU Original Sound track Vol.1
     作詞：[門司](https://ja.wikipedia.org/wiki/門司 "wikilink")／作曲・編曲：高瀬一矢
   - 新しい恋のかたち（新録）
-    2003年[5月2日](../Page/5月2日.md "wikilink")　収録作品：[ALMAサウンドトラック〜ずっと聴いて♪〜](https://ja.wikipedia.org/wiki/ALMA〜ずっとそばに…〜 "wikilink")
+    2003年[5月2日](../Page/5月2日.md "wikilink")　収録作品：[ALMAサウンドトラック〜ずっと聴いて♪〜](../Page/ALMA〜ずっとそばに…〜.md "wikilink")
     作詞:魁／作曲：F-ACE／編曲：高瀬一矢
 
 ### KOTOKO TO AKI
 
   - prime
-    2000年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")　収録作品：Dear Feeling
-    作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+    2000年[12月29日](../Page/12月29日.md "wikilink")　収録作品：Dear Feeling
+    作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
   - 空より近い夢 Second track
     2000年12月29日　収録作品：Dear Feeling
     作詞・作曲・編曲:高瀬一矢
-  - [恋愛CHU！](https://ja.wikipedia.org/wiki/恋愛CHU!_\(テーマソング\) "wikilink")
+  - [恋愛CHU！](../Page/恋愛CHU!_\(テーマソング\).md "wikilink")
     [2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")　収録作品：なし
     作詞：KOTOKO／作曲・編曲：[中沢伴行](../Page/中沢伴行.md "wikilink")
   - SAVE YOUR HEART
@@ -83,7 +83,7 @@
 ### TWINKLE
 
   - You're my treasure
-    2001年[6月22日](../Page/6月22日.md "wikilink")　収録作品：[SHORT CIRCUIT](https://ja.wikipedia.org/wiki/SHORT_CIRCUIT_\(アルバム\) "wikilink")
+    2001年[6月22日](../Page/6月22日.md "wikilink")　収録作品：[SHORT CIRCUIT](../Page/SHORT_CIRCUIT_\(アルバム\).md "wikilink")
     作詞：KOTOKO／作曲・編曲：高瀬一矢
 
 #### AKI・KOTOKO・MELL・ならく・よっこQ

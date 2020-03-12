@@ -1,7 +1,7 @@
 > この記事は[Innocent Grey](https://ja.wikipedia.org/wiki/Innocent_Grey)から翻訳されています。
 
 
-**Innocent Grey**（イノセントグレイ）は有限会社グングニルの[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")ブランド\[1\]。サブブランドに「**Noesis**」（ノエシス）がある。2004年に株式会社ミスリルから分社化の形で設立された。
+**Innocent Grey**（イノセントグレイ）は有限会社グングニルの[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")ブランド\[1\]。サブブランドに「**Noesis**」（ノエシス）がある。2004年に株式会社ミスリルから分社化の形で設立された。
 
 本ブランドは、[九頭龍に所属していた杉菜水姫が独立する形で設立された](https://ja.wikipedia.org/wiki/九頭龍_\(企業\) "wikilink")\[2\]。
 
@@ -9,7 +9,7 @@
 
 ## 特徴
 
-Innocent Greyの作品のうち『FLOWERS』以外の多くの作品は、昭和を舞台としたミステリ作品であるこのことについて杉菜は、「子どもの時から横溝正史などのミステリ小説を読んでいるうちに魅了されてきたことと、他のブランドでミステリを扱うとことは少なかったためである」としており\[4\]、萌え要素は不要であるともしている\[5\]。 また、デビュー作『[カルタグラ 〜ツキ狂イノ病〜](https://ja.wikipedia.org/wiki/カルタグラ_〜ツキ狂イノ病〜 "wikilink")』、『[殻ノ少女](https://ja.wikipedia.org/wiki/殻ノ少女 "wikilink")』シリーズや『[FLOWERS](https://ja.wikipedia.org/wiki/FLOWERS_\(ゲーム\) "wikilink")』など、[百合要素を含んだ作品も存在する](https://ja.wikipedia.org/wiki/百合_\(ジャンル\) "wikilink")\[6\]。
+Innocent Greyの作品のうち『FLOWERS』以外の多くの作品は、昭和を舞台としたミステリ作品であるこのことについて杉菜は、「子どもの時から横溝正史などのミステリ小説を読んでいるうちに魅了されてきたことと、他のブランドでミステリを扱うとことは少なかったためである」としており\[4\]、萌え要素は不要であるともしている\[5\]。 また、デビュー作『[カルタグラ 〜ツキ狂イノ病〜](https://ja.wikipedia.org/wiki/カルタグラ_〜ツキ狂イノ病〜 "wikilink")』、『[殻ノ少女](../Page/殻ノ少女.md "wikilink")』シリーズや『[FLOWERS](https://ja.wikipedia.org/wiki/FLOWERS_\(ゲーム\) "wikilink")』など、[百合要素を含んだ作品も存在する](../Page/百合_\(ジャンル\).md "wikilink")\[6\]。
 
 ## 作品一覧
 
@@ -19,7 +19,7 @@ Innocent Greyの作品のうち『FLOWERS』以外の多くの作品は、昭和
   - 2006年8月25日 - MEMORIE（『カルタグラ 〜ツキ狂イノ病〜』とゲームブランド「[九頭龍](https://ja.wikipedia.org/wiki/九頭龍_\(企業\) "wikilink")」から発売された『英才狂育』のセット）
   - 2006年9月29日 - [PP-ピアニッシモ-〈操リ人形ノ輪舞〉](https://ja.wikipedia.org/wiki/PP-ピアニッシモ-〈操リ人形ノ輪舞〉 "wikilink")
   - 2007年4月6日 - [和み匣 Innocent Greyファンディスク](https://ja.wikipedia.org/wiki/和み匣_Innocent_Greyファンディスク "wikilink")（『カルタグラ 〜ツキ狂イノ病〜』および『PP-ピアニッシモ-〈操リ人形ノ輪舞〉』のファンディスク）
-  - 2008年7月4日 - [殻ノ少女](https://ja.wikipedia.org/wiki/殻ノ少女 "wikilink")
+  - 2008年7月4日 - [殻ノ少女](../Page/殻ノ少女.md "wikilink")
       - 2013年2月8日 - [虚ノ少女](https://ja.wikipedia.org/wiki/虚ノ少女 "wikilink")
   - 2009年12月11日 - [クロウカシス 七憑キノ贄](https://ja.wikipedia.org/wiki/クロウカシス_七憑キノ贄 "wikilink")
   - 2010年12月3日 - パラノイア Innocent Grey premium box（『カルタグラ 〜ツキ狂イノ病〜』から『殻ノ少女』までの4作品を収録した5周年記念ボックス\[7\]）

@@ -1,7 +1,7 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**JR四国ホテルグループ**（ジェイアールしこくホテルグループ）は、[四国旅客鉄道](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")（JR四国）が展開する[ホテル](../Page/ホテル.md "wikilink")グループ。主に**JRホテルクレメント**ブランドを展開している。
+**JR四国ホテルグループ**（ジェイアールしこくホテルグループ）は、[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）が展開する[ホテル](../Page/ホテル.md "wikilink")グループ。主に**JRホテルクレメント**ブランドを展開している。
 
 ## ホテル一覧
 
@@ -13,7 +13,7 @@
 
   - JRホテルクレメント
 
-下記のうち、JRホテルクレメント高松とJRホテルクレメント徳島は[阪急阪神第一ホテルグループにも加盟している](https://ja.wikipedia.org/wiki/阪急阪神ホテルズ "wikilink")。
+下記のうち、JRホテルクレメント高松とJRホテルクレメント徳島は[阪急阪神第一ホテルグループにも加盟している](../Page/阪急阪神ホテルズ.md "wikilink")。
 
   -
 
@@ -113,7 +113,7 @@
 ## 関連項目
 
   - [JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")
-  - [阪急阪神ホテルズ](https://ja.wikipedia.org/wiki/阪急阪神ホテルズ "wikilink")
+  - [阪急阪神ホテルズ](../Page/阪急阪神ホテルズ.md "wikilink")
 
 ## 脚注
 

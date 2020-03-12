@@ -1,15 +1,15 @@
 > この記事は[ORACION --](https://ja.wikipedia.org/wiki/ORACION_--)から翻訳されています。
 
 
-「**ORACIÓN －祈り－**」（オラシオン －いのり－）は、は、[来生えつこ](https://ja.wikipedia.org/wiki/来生えつこ "wikilink")の作詞、[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")の作曲による楽曲。[1988年](../Page/1988年.md "wikilink")6月に[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")と[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")の歌唱により、[1988年](../Page/1988年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
+「**ORACIÓN －祈り－**」（オラシオン －いのり－）は、は、[来生えつこ](../Page/来生えつこ.md "wikilink")の作詞、[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")の作曲による楽曲。[1988年](../Page/1988年.md "wikilink")6月に[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")と[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")の歌唱により、[1988年](../Page/1988年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
 
-来生自身による[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")シングルが、[1988年](../Page/1988年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された。
+来生自身による[セルフカバー](../Page/セルフカバー.md "wikilink")シングルが、[1988年](../Page/1988年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された。
 
 ## 斉藤由貴、来生たかおのシングル
 
 ### 解説
 
-斉藤由貴と来生たかおとの[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")曲である。斉藤由貴が主演した[フジテレビ開局](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")30周年記念の[東宝](../Page/東宝.md "wikilink")映画『[優駿 ORACIÓN](https://ja.wikipedia.org/wiki/優駿_ORACION "wikilink")』のイメージソングとなった。映画本編で使われることはなかった。
+斉藤由貴と来生たかおとの[デュエット](../Page/デュエット.md "wikilink")曲である。斉藤由貴が主演した[フジテレビ開局](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")30周年記念の[東宝](../Page/東宝.md "wikilink")映画『[優駿 ORACIÓN](https://ja.wikipedia.org/wiki/優駿_ORACION "wikilink")』のイメージソングとなった。映画本編で使われることはなかった。
 
 その後、来生たかおは、[ソロヴァージョンの](../Page/ソロ_\(音楽\).md "wikilink")『ORACION〜祈り〜／イントロダクションを待っても』をリリースした。　
 
@@ -18,7 +18,7 @@
 ### 収録曲
 
 1.  **ORACIÓN －祈り－**
-      - 作詞:来生えつこ／作曲:来生たかお／編曲:[武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")
+      - 作詞:来生えつこ／作曲:来生たかお／編曲:[武部聡志](../Page/武部聡志.md "wikilink")
 2.  **花嵐**
       - 作詞:来生えつこ／作曲:来生たかお／編曲:武部聡志
 
@@ -31,7 +31,7 @@
 1.  **ORACIÓN －祈り－**
 2.  **イントロダクションを待っても**
       -
-        共に作詞：[来生えつこ](https://ja.wikipedia.org/wiki/来生えつこ "wikilink")、作曲：[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")、編曲：[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+        共に作詞：[来生えつこ](../Page/来生えつこ.md "wikilink")、作曲：[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")、編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")
 
 ### シングル各曲の収録ディスク
 

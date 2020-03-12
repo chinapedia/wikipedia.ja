@@ -1,11 +1,11 @@
 > この記事は[Clair](https://ja.wikipedia.org/wiki/Clair)から翻訳されています。
 
 
-**Clair**（クレア、生年非公開、[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。女性。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。趣味は映画鑑賞と音楽鑑賞、特技はテニス。大手[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機器メーカー「[西陣](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")」との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")によりデビュー。
+**Clair**（クレア、生年非公開、[10月18日](../Page/10月18日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。女性。[大阪府](../Page/大阪府.md "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。趣味は映画鑑賞と音楽鑑賞、特技はテニス。大手[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機器メーカー「[西陣](../Page/西陣_\(企業\).md "wikilink")」との[タイアップ](../Page/タイアップ.md "wikilink")によりデビュー。
 
 ## 略歴
 
-[2004年](../Page/2004年.md "wikilink")、藤本コウジと弟の元[BY-SEXUAL](https://ja.wikipedia.org/wiki/BY-SEXUAL "wikilink")のNAO（藤本直幸）が共同プロデュースし、「SHOOTING STAR」で歌手デビュー。インディーズながら累計1万8千枚以上のセールスを上げ話題となる。その年の「Oriconの今年ブレイクが予想されるアーティスト20名」にも選ばれる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")発売のファースト・アルバム「Beautiful Days」は1万枚を突破する。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、再びプロデューサーに藤本コウジを迎え日本と香港でのレコーディングにて[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")とのデュエットによる「PEACE OF THE WORLD」を実現し、[メガデスの](../Page/メガデス_\(バンド\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")だった[マーティー・フリードマン](https://ja.wikipedia.org/wiki/マーティー・フリードマン "wikilink")をプロデューサーに迎え「あしあと」を制作、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[アニメ](../Page/アニメ.md "wikilink")とタイアップ、藤本コウジをプロデューサーに迎え「結晶」を制作し「あしあと/結晶」では自らが一部作詞を手がけた。「結晶」はCMでの反響も大きく、HMV週間邦楽チャート及び邦楽R\&Bチャートで1位を獲得。オリコンチャートでも最高18位をマーク[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、元HOUND DOGの蓑輪単志をプロデューサーに、作詞・作曲に藤本コウジを迎え「FATE」「Obrigado-悦びの花-」「Shooting Star-2008 ver-」を制作。「Obrigado-悦びの花-」は、CMに起用され再び大きな反響を得るが、以降活動をしていない模様。尚、パチンコ機での使用楽曲全ての作詞・作曲は、藤本コウジが担当。共同作詞でClairは「結晶」「Obrigado-悦びの花-」に参加。
+[2004年](../Page/2004年.md "wikilink")、藤本コウジと弟の元[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")のNAO（藤本直幸）が共同プロデュースし、「SHOOTING STAR」で歌手デビュー。インディーズながら累計1万8千枚以上のセールスを上げ話題となる。その年の「Oriconの今年ブレイクが予想されるアーティスト20名」にも選ばれる。[2005年](../Page/2005年.md "wikilink")発売のファースト・アルバム「Beautiful Days」は1万枚を突破する。[2006年](../Page/2006年.md "wikilink")には、再びプロデューサーに藤本コウジを迎え日本と香港でのレコーディングにて[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")とのデュエットによる「PEACE OF THE WORLD」を実現し、[メガデスの](../Page/メガデス_\(バンド\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")だった[マーティー・フリードマン](https://ja.wikipedia.org/wiki/マーティー・フリードマン "wikilink")をプロデューサーに迎え「あしあと」を制作、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[アニメ](../Page/アニメ.md "wikilink")とタイアップ、藤本コウジをプロデューサーに迎え「結晶」を制作し「あしあと/結晶」では自らが一部作詞を手がけた。「結晶」はCMでの反響も大きく、HMV週間邦楽チャート及び邦楽R\&Bチャートで1位を獲得。オリコンチャートでも最高18位をマーク[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、元HOUND DOGの蓑輪単志をプロデューサーに、作詞・作曲に藤本コウジを迎え「FATE」「Obrigado-悦びの花-」「Shooting Star-2008 ver-」を制作。「Obrigado-悦びの花-」は、CMに起用され再び大きな反響を得るが、以降活動をしていない模様。尚、パチンコ機での使用楽曲全ての作詞・作曲は、藤本コウジが担当。共同作詞でClairは「結晶」「Obrigado-悦びの花-」に参加。
 
 ## ディスコグラフィー
 
@@ -15,7 +15,7 @@
     1.SHOOTING STAR
     作詞・作曲：Koji Fujimoto
       -
-        [西陣パチンコ機](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")「[花満開極](../Page/CR花満開.md "wikilink")」[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")
+        [西陣パチンコ機](../Page/西陣_\(企業\).md "wikilink")「[花満開極](../Page/CR花満開.md "wikilink")」[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")
     2.SHOOTING STAR -LOVERS ROCK MIX
     作詞・作曲：Koji Fujimoto
     3.TWO FOR THE ROAD
@@ -36,7 +36,7 @@
   - 2\. [あしあと/結晶](https://ja.wikipedia.org/wiki/あしあと/結晶 "wikilink") (2006.2.1) - エイベックス・マーケティング・コミュニケーションズ株式会社
     1.あしあと
       -
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[ロックマンエグゼBEAST](https://ja.wikipedia.org/wiki/ロックマンエグゼBEAST "wikilink")」エンディングテーマ
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[ロックマンエグゼBEAST](../Page/ロックマンエグゼBEAST.md "wikilink")」エンディングテーマ
     2.結晶
     作詞：Koji Fujimoto/Clair　作曲：Koji Fujimoto
       -
@@ -49,7 +49,7 @@
   - 3\. 飛び立つ勇気 (2006.7.12) - エイベックス・マーケティング・コミュニケーションズ株式会社
     1.飛び立つ勇気
       -
-        [Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")動画インターネット・オリジナルドラマ「Aチャン」主題歌
+        [Yahoo\!](../Page/Yahoo!.md "wikilink")動画インターネット・オリジナルドラマ「Aチャン」主題歌
     2.PEACE OF THE WORLD〜Clair Solo Version〜
     作詞・作曲：Koji Fujimoto
     3.飛び立つ勇気 (instrumental)
@@ -64,7 +64,7 @@
   - 4\. So long〜戦いのANTHEM〜 (2006.10.25) - エイベックス・マーケティング・コミュニケーションズ株式会社
     1.So long〜戦いのANTHEM〜
       -
-        バウンティバトルオンラインRPG「[A3](https://ja.wikipedia.org/wiki/A3_\(ゲーム\) "wikilink")」テーマソング
+        バウンティバトルオンラインRPG「[A3](../Page/A3_\(ゲーム\).md "wikilink")」テーマソング
     2.Feel you in my heart
       -
         Yahoo\!動画インターネット・オリジナルドラマ「Aチャン」オープニングテーマ
@@ -81,7 +81,7 @@
   - 5\. 明日へ（2007.12.5） - 株式会社ハッツ アンリミテッド
     1.明日へ
       -
-        [TBS系全国](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")28局ネット「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」エンディングテーマ
+        [TBS系全国](../Page/TBSテレビ.md "wikilink")28局ネット「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」エンディングテーマ
     2.ETERNAL～クリスマス・ヴァージョン
 
 <!-- end list -->
@@ -112,7 +112,7 @@
     3.Glorious Road
     作詞・作曲：如月コウ（藤本コウジ）
       -
-        [プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[スペクトラルフォース ラジカルエレメンツ](https://ja.wikipedia.org/wiki/スペクトラルフォース "wikilink")」（[アイディアファクトリー](https://ja.wikipedia.org/wiki/アイディアファクトリー "wikilink")）主題歌
+        [プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[スペクトラルフォース ラジカルエレメンツ](../Page/スペクトラルフォース.md "wikilink")」（[アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")）主題歌
     4.虹の彼方へ
     作詞・作曲：如月コウ（藤本コウジ）
       -

@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1994年](../Page/1994年.md "wikilink")10月21日シングル「BABY BODY BEAT」でデビュー。[エリアコードドラマ](https://ja.wikipedia.org/wiki/エリアコードドラマ "wikilink")のエンディングテーマに起用され、約3万枚を売り上げた。
+[1994年](../Page/1994年.md "wikilink")10月21日シングル「BABY BODY BEAT」でデビュー。[エリアコードドラマ](../Page/エリアコードドラマ.md "wikilink")のエンディングテーマに起用され、約3万枚を売り上げた。
 
-サウンドプロデュースは[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")や[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")などを手がけている松原 憲が担当\[1\]。当時、ストリートダンスをするグループは珍しく、ラップの入った楽曲も特徴であった。この系統のグループは、後の[DA PUMPなどに繋がる](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")。TV、新聞、ラジオ、フロムAのCM、[COUNT DOWN TV等に出演](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")。日本国内よりもアジア圏での人気が高かった。
+サウンドプロデュースは[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")や[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")などを手がけている松原 憲が担当\[1\]。当時、ストリートダンスをするグループは珍しく、ラップの入った楽曲も特徴であった。この系統のグループは、後の[DA PUMPなどに繋がる](../Page/DA_PUMP.md "wikilink")。TV、新聞、ラジオ、フロムAのCM、[COUNT DOWN TV等に出演](../Page/COUNT_DOWN_TV.md "wikilink")。日本国内よりもアジア圏での人気が高かった。
 
-1枚目のアルバム「KOOL STUFF」に収録されている「**BABY BODY BEAT(RED MONSTER MIX)**」は、日本人による「[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")・ミックス」で大きな成功を収めた。この楽曲は、国内ダンス・チャートで1位を記録。当時、猛威をふるっていたMETAL MINDED MANIACSや[ジョン・ロビンソン](../Page/ジョン・ロビンソン.md "wikilink")などのテクノ勢を抑えての快挙であった。
+1枚目のアルバム「KOOL STUFF」に収録されている「**BABY BODY BEAT(RED MONSTER MIX)**」は、日本人による「[ユーロビート](../Page/ユーロビート.md "wikilink")・ミックス」で大きな成功を収めた。この楽曲は、国内ダンス・チャートで1位を記録。当時、猛威をふるっていたMETAL MINDED MANIACSや[ジョン・ロビンソン](../Page/ジョン・ロビンソン.md "wikilink")などのテクノ勢を抑えての快挙であった。
 
 [1994年](../Page/1994年.md "wikilink")12月、2ndシングル「ナンでもカンでも抱いちゃいたい」を発売。当初のタイトルは、「ナンでもイイから抱いちゃいたい」であったがプロデューサーの希望により、このタイトルになったという。
 
@@ -169,7 +169,7 @@
 
 ## 出演
 
-  - [COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（1995年1月14日）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（1995年1月14日）
   - [FromA](https://ja.wikipedia.org/wiki/FromA "wikilink")([CM](https://ja.wikipedia.org/wiki/CM "wikilink"))
   - [イグアナの娘](https://ja.wikipedia.org/wiki/イグアナの娘#テレビドラマ "wikilink")（[山口耕史が出演](https://ja.wikipedia.org/wiki/B☆KOOL#メンバー "wikilink")）
   - [はなきんデータランド](../Page/はなきんデータランド.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink"))）
@@ -183,15 +183,15 @@
 ## 解散後
 
   - リーダーだった橋爪 修はファンクポップスバンド「CLOCKWORK」を結成し、2006年まで音楽活動をしていた。「CLOCKWORK」脱退後は、ソロボーカル＆ダンサーとしても活動している。
-  - 渡来敦敏は、1999年に**KRUD**というダンスユニットに参加し、[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")などに出演して活動した後、[EXPG](https://ja.wikipedia.org/wiki/EXPG "wikilink")の立ち上げに参加し、[三代目J SOUL BROTHERSの教育担当者](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")・講師を務めるなど現在は[LDH](https://ja.wikipedia.org/wiki/LDH "wikilink")の新人開発に大きく携わっている。
-  - 菊地大作は、1998年にダンスチーム「HIPHOP JUNKEEZ」、「HI-BRID」で活動し、1999年に敦敏と共にダンスユニット「KRUD」に参加して[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")にレギュラー出演。現在は、ダンスチームやMCなどの活動、フリーでアーティストのバックダンサーや振り付けも行っている。
+  - 渡来敦敏は、1999年に**KRUD**というダンスユニットに参加し、[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")などに出演して活動した後、[EXPG](https://ja.wikipedia.org/wiki/EXPG "wikilink")の立ち上げに参加し、[三代目J SOUL BROTHERSの教育担当者](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")・講師を務めるなど現在は[LDH](https://ja.wikipedia.org/wiki/LDH "wikilink")の新人開発に大きく携わっている。
+  - 菊地大作は、1998年にダンスチーム「HIPHOP JUNKEEZ」、「HI-BRID」で活動し、1999年に敦敏と共にダンスユニット「KRUD」に参加して[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")にレギュラー出演。現在は、ダンスチームやMCなどの活動、フリーでアーティストのバックダンサーや振り付けも行っている。
   - 山口耕史は現在、自身の本名を略した**YAMAKOU**としてソロ活動をしている。
   - 相川裕之は現在、結婚しており、東京で整体院を経営している。\[2\]
 
 ## エピソード
 
-  - 韓国でもデビューしており、それは同じ1994年にアンティノスレコードレーベルから日本デビューした韓国の男性アイドルグループ「[ソテジワアイドゥル](https://ja.wikipedia.org/wiki/ソテジワアイドゥル "wikilink")」との交換条件に実現されたものだった\[3\]
-  - デビュー前の[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")(KEN＆YUKINARI)が沖縄時代に「BOOM\!BOOM\!BOOM\!」をカバーしていた事がある。
+  - 韓国でもデビューしており、それは同じ1994年にアンティノスレコードレーベルから日本デビューした韓国の男性アイドルグループ「[ソテジワアイドゥル](../Page/ソテジワアイドゥル.md "wikilink")」との交換条件に実現されたものだった\[3\]
+  - デビュー前の[DA PUMP](../Page/DA_PUMP.md "wikilink")(KEN＆YUKINARI)が沖縄時代に「BOOM\!BOOM\!BOOM\!」をカバーしていた事がある。
 
 ## 脚注
 
@@ -199,7 +199,7 @@
 
 ## 関連項目
 
-  - [ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink") - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
+  - [ユーロビート](../Page/ユーロビート.md "wikilink") - [DA PUMP](../Page/DA_PUMP.md "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
   - [EXPG](https://ja.wikipedia.org/wiki/EXPG "wikilink")
 
 ## 外部リンク

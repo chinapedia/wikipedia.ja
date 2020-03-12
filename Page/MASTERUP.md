@@ -1,7 +1,7 @@
 > この記事は[MASTERUP](https://ja.wikipedia.org/wiki/MASTERUP)から翻訳されています。
 
 
-株式会社**MASTERUP**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")販売会社である。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")。
+株式会社**MASTERUP**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")販売会社である。本社は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 ### HINA SOFT
 
   - 黒雛
-    ※[インモラルな](https://ja.wikipedia.org/wiki/変態性欲 "wikilink")[エロティシズム](../Page/エロティシズム.md "wikilink")を追求したレーベル\[2\]。
+    ※[インモラルな](../Page/変態性欲.md "wikilink")[エロティシズム](../Page/エロティシズム.md "wikilink")を追求したレーベル\[2\]。
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   - 桃雛
-    ※[フェティシズム](https://ja.wikipedia.org/wiki/フェティシズム "wikilink")を追求したレーベル\[6\]。
+    ※[フェティシズム](../Page/フェティシズム.md "wikilink")を追求したレーベル\[6\]。
 
 <!-- end list -->
 
@@ -269,8 +269,8 @@
 以下ブランド名。
 
   - カウパー ※開発はSilver Bullet
-  - Nail Sharp ※開発は[Nail](https://ja.wikipedia.org/wiki/Nail "wikilink")
-  - Noesis ※開発は有限会社[グングニル](https://ja.wikipedia.org/wiki/Innocent_Grey "wikilink")
+  - Nail Sharp ※開発は[Nail](../Page/Nail.md "wikilink")
+  - Noesis ※開発は有限会社[グングニル](../Page/Innocent_Grey.md "wikilink")
   - グレーゾーン ※有限会社アイピックス
   - RED-ZONE ※開発は尻娘魂道場、制作は[シャルラクプラス](../Page/シャルラクプラス.md "wikilink")
   - Angel SOFT ※有限会社アイピックス
@@ -280,14 +280,14 @@
   - Blue Topaz ※株式会社STEP・IN
   - Red Label ※[デジアニメ・コーポレイション](https://ja.wikipedia.org/wiki/デジアニメ・コーポレイション "wikilink")
   - Hammerheads ※有限会社フルール
-  - エレクトリップ ※[ソフパル](https://ja.wikipedia.org/wiki/ソフパル "wikilink")
+  - エレクトリップ ※[ソフパル](../Page/ソフパル.md "wikilink")
   - カニスキー ※[アーカムプロダクツ](../Page/アーカムプロダクツ.md "wikilink")
   - ぴたふぇち！
   - AHAAN ※有限会社コネクト・ウィザード
   - HighRunning ※合資会社ファーストリーム
   - team flap ※合資会社ファーストリーム
-  - [CYCLET](https://ja.wikipedia.org/wiki/Cyc_\(ブランド\) "wikilink") ※株式会社ランバ・アミューズ
-  - [microgroove](https://ja.wikipedia.org/wiki/Cyc_\(ブランド\) "wikilink") ※有限会社ビーアイコミュニケーションズ
+  - [CYCLET](../Page/Cyc_\(ブランド\).md "wikilink") ※株式会社ランバ・アミューズ
+  - [microgroove](../Page/Cyc_\(ブランド\).md "wikilink") ※有限会社ビーアイコミュニケーションズ
   - 10mile ※合同会社ロングショット
   - NEGALION ※株式会社まるいち
   - イノヘッドスタジオ ※株式会社ムーン

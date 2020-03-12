@@ -7,23 +7,23 @@
 
 ## 歴史
 
-1985年に格闘技の指導員であったスコット・コーカーが[ESPN](https://ja.wikipedia.org/wiki/ESPN "wikilink")の番組用に[キックボクシング](../Page/キックボクシング.md "wikilink")団体[PKAの大会を開催した](../Page/プロ空手協会.md "wikilink")\[1\]。コーカーは1993年にPKAの放映が終了して以降もキックボクシングの大会運営に携わり、[サンノゼ](../Page/サンノゼ.md "wikilink")の大会場[HPパビリオン](https://ja.wikipedia.org/wiki/HPパビリオン "wikilink")でハビアー・メンデス（現[AKA会長](https://ja.wikipedia.org/wiki/アメリカン・キックボクシング・アカデミー "wikilink")）や[カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")をメインに据えた大会を組んで人気を博していたほか\[2\]、2000年から2007年までは[K-1](../Page/K-1.md "wikilink")のアメリカ大会のプロモートも手掛けていた\[3\]。
+1985年に格闘技の指導員であったスコット・コーカーが[ESPN](../Page/ESPN.md "wikilink")の番組用に[キックボクシング](../Page/キックボクシング.md "wikilink")団体[PKAの大会を開催した](../Page/プロ空手協会.md "wikilink")\[1\]。コーカーは1993年にPKAの放映が終了して以降もキックボクシングの大会運営に携わり、[サンノゼ](../Page/サンノゼ.md "wikilink")の大会場[HPパビリオン](https://ja.wikipedia.org/wiki/HPパビリオン "wikilink")でハビアー・メンデス（現[AKA会長](../Page/アメリカン・キックボクシング・アカデミー.md "wikilink")）や[カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")をメインに据えた大会を組んで人気を博していたほか\[2\]、2000年から2007年までは[K-1](../Page/K-1.md "wikilink")のアメリカ大会のプロモートも手掛けていた\[3\]。
 
 ### 総合格闘技への進出
 
-2006年に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")で[総合格闘技](../Page/総合格闘技.md "wikilink")が認可・合法化されたことを契機としてHPパビリオンからの提案を受け総合格闘技に進出\[4\]。3月10日に開催された3年ぶりの復帰となった[フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")と地元カリフォルニアにアカデミーを持つ[シーザー・グレイシー](https://ja.wikipedia.org/wiki/シーザー・グレイシー "wikilink")の対戦をメインイベントとする第1回大会「[Shamrock vs. Gracie](https://ja.wikipedia.org/wiki/:en:Strikeforce:_Shamrock_vs._Gracie "wikilink")」はカリフォルニア州で認可された初のMMA大会であり、入場者数18,265人は[UFC 57を凌ぎアメリカ合衆国における新記録となった](../Page/UFC_57.md "wikilink")\[5\]。この記録は2007年3月の[UFC 68で破られたものの](../Page/UFC_68.md "wikilink")、有料入場者（チケットを購入した入場者）数17,465人は現在に至るまで破られていない\[6\]。
+2006年に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")で[総合格闘技](../Page/総合格闘技.md "wikilink")が認可・合法化されたことを契機としてHPパビリオンからの提案を受け総合格闘技に進出\[4\]。3月10日に開催された3年ぶりの復帰となった[フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")と地元カリフォルニアにアカデミーを持つ[シーザー・グレイシー](https://ja.wikipedia.org/wiki/シーザー・グレイシー "wikilink")の対戦をメインイベントとする第1回大会「[Shamrock vs. Gracie](https://ja.wikipedia.org/wiki/:en:Strikeforce:_Shamrock_vs._Gracie "wikilink")」はカリフォルニア州で認可された初のMMA大会であり、入場者数18,265人は[UFC 57を凌ぎアメリカ合衆国における新記録となった](../Page/UFC_57.md "wikilink")\[5\]。この記録は2007年3月の[UFC 68で破られたものの](../Page/UFC_68.md "wikilink")、有料入場者（チケットを購入した入場者）数17,465人は現在に至るまで破られていない\[6\]。
 
-2007年には提携した[EliteXCと大会を共同開催したほか](https://ja.wikipedia.org/wiki/Elite_Xtreme_Combat "wikilink")\[7\]、『[PLAYBOY](https://ja.wikipedia.org/wiki/PLAYBOY "wikilink")』誌の創刊者[ヒュー・ヘフナー](../Page/ヒュー・ヘフナー.md "wikilink")の私邸「[プレイボーイマンション](https://ja.wikipedia.org/wiki/:en:Playboy_Mansion "wikilink")」で大会を開催した\[8\]。
+2007年には提携した[EliteXCと大会を共同開催したほか](../Page/Elite_Xtreme_Combat.md "wikilink")\[7\]、『[PLAYBOY](../Page/PLAYBOY.md "wikilink")』誌の創刊者[ヒュー・ヘフナー](../Page/ヒュー・ヘフナー.md "wikilink")の私邸「[プレイボーイマンション](https://ja.wikipedia.org/wiki/:en:Playboy_Mansion "wikilink")」で大会を開催した\[8\]。
 
-2008年4月12日より1年間、[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")の深夜時間帯で過去の大会のハイライト放送と選手紹介を行なう番組「*Strikeforce on NBC*」を放映した\[9\]。
+2008年4月12日より1年間、[NBC](../Page/NBC.md "wikilink")の深夜時間帯で過去の大会のハイライト放送と選手紹介を行なう番組「*Strikeforce on NBC*」を放映した\[9\]。
 
 ### 全米第二のプロモーションへ
 
 2009年2月、Strikeforceは活動停止したEliteXCのオーナーであるProElite社よりビデオライブラリーや数選手の契約保有権を含んだ資産を買収したことを発表した\[10\]。また数日後にはアメリカ3大ネットワークテレビ局のひとつ[CBS](../Page/CBS.md "wikilink")とCBSの傘下の[SHOWTIMEと](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")3年間の契約を結んだことが発表された。5月からは人材育成を目的とした新シリーズ[ShoMMA: Strikeforce Challengersが開催された](https://ja.wikipedia.org/wiki/ShoMMA:_Strikeforce_Challengers "wikilink")\[11\]。
 
-2009年8月5日、日本の総合格闘技団体[DREAMとの提携が発表され](https://ja.wikipedia.org/wiki/DREAM_\(格闘技イベント\) "wikilink")、以降は互いの団体に選手を派遣し合い、対抗戦を行っている。同月には[M-1 Globalと提携を結び](https://ja.wikipedia.org/wiki/M-1_Global "wikilink")、また総合格闘技のヘビー級世界最強と評価されている[エメリヤーエンコ・ヒョードル](https://ja.wikipedia.org/wiki/エメリヤーエンコ・ヒョードル "wikilink")との契約を果たした\[12\]。
+2009年8月5日、日本の総合格闘技団体[DREAMとの提携が発表され](../Page/DREAM_\(格闘技イベント\).md "wikilink")、以降は互いの団体に選手を派遣し合い、対抗戦を行っている。同月には[M-1 Globalと提携を結び](https://ja.wikipedia.org/wiki/M-1_Global "wikilink")、また総合格闘技のヘビー級世界最強と評価されている[エメリヤーエンコ・ヒョードル](../Page/エメリヤーエンコ・ヒョードル.md "wikilink")との契約を果たした\[12\]。
 
-2009年8月15日にはメジャーMMAプロモーションとして初めて、女子戦（[ジーナ・カラーノ](https://ja.wikipedia.org/wiki/ジーナ・カラーノ "wikilink") vs. [クリスチャン・サイボーグ](https://ja.wikipedia.org/wiki/クリスチャン・サイボーグ "wikilink")）をメインイベントに据えた「[Carano vs. Cyborg](https://ja.wikipedia.org/wiki/Strikeforce:_Carano_vs._Cyborg "wikilink")」大会を開催した\[13\]。
+2009年8月15日にはメジャーMMAプロモーションとして初めて、女子戦（[ジーナ・カラーノ](../Page/ジーナ・カラーノ.md "wikilink") vs. [クリスチャン・サイボーグ](https://ja.wikipedia.org/wiki/クリスチャン・サイボーグ "wikilink")）をメインイベントに据えた「[Carano vs. Cyborg](https://ja.wikipedia.org/wiki/Strikeforce:_Carano_vs._Cyborg "wikilink")」大会を開催した\[13\]。
 
 2011年2月12日、StrikeforceとM-1 Global共催による「ワールドグランプリ ヘビー級トーナメント」を開催した。
 
@@ -33,9 +33,9 @@
 
 2011年5月、CEOであったスコット・コーカーは買収により取締役副社長兼GMに降格。マッチメイクもコーカーの手を離れ元WECマッチメイカーのショーン・シェルビーが就任。なお、コーカー以外の社員は全員解雇された。運営は元WEC副社長のピーター・ドロピックが行なっている。
 
-2011年7月、ヘビー級王者であった[アリスター・オーフレイム](https://ja.wikipedia.org/wiki/アリスター・オーフレイム "wikilink")を、残り1試合の契約を残しながらリリースした。ウェルター級王者[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")の[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")ウェルター級王者[ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")挑戦に伴う王座返上と重なり、ヘビー級、ウェルター級ともに空位となった。
+2011年7月、ヘビー級王者であった[アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")を、残り1試合の契約を残しながらリリースした。ウェルター級王者[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")の[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")ウェルター級王者[ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")挑戦に伴う王座返上と重なり、ヘビー級、ウェルター級ともに空位となった。
 
-2011年9月19日、UFC参戦のため、[ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink")がライトヘビー級王座を返上。ヘビー級、ウェルター級に続きライトヘビー級も空位となった。
+2011年9月19日、UFC参戦のため、[ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink")がライトヘビー級王座を返上。ヘビー級、ウェルター級に続きライトヘビー級も空位となった。
 
 2011年12月16日、UFC代表の[ダナ・ホワイト](../Page/ダナ・ホワイト.md "wikilink")より2012年1月の大会を持ってStrikeforceのヘビー級とChallengersシリーズの廃止が発表された。2012年は年最高8大会開かれることと、ダナ・ホワイトを中心とした運営に切り替わることも併せて発表された\[14\]。
 
@@ -68,25 +68,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライトヘビー級" title="wikilink">ライトヘビー級</a></p></td>
+<td><p><a href="../Page/ライトヘビー級.md" title="wikilink">ライトヘビー級</a></p></td>
 <td><p>-205lbs: -93.0kg</p></td>
 <td><p>空位</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミドル級" title="wikilink">ミドル級</a></p></td>
+<td><p><a href="../Page/ミドル級.md" title="wikilink">ミドル級</a></p></td>
 <td><p>-185lbs: -83.9kg</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルーク・ロックホールド" title="wikilink">ルーク・ロックホールド</a></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェルター級" title="wikilink">ウェルター級</a></p></td>
+<td><p><a href="../Page/ウェルター級.md" title="wikilink">ウェルター級</a></p></td>
 <td><p>-170lbs: -77.1kg</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タレック・サフィジーヌ" title="wikilink">タレック・サフィジーヌ</a></p></td>
 <td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライト級" title="wikilink">ライト級</a></p></td>
+<td><p><a href="../Page/ライト級.md" title="wikilink">ライト級</a></p></td>
 <td><p>-155lbs: -70.3kg</p></td>
 <td><p><a href="../Page/ギルバート・メレンデス.md" title="wikilink">ギルバート・メレンデス</a></p></td>
 <td><p>4</p></td>
@@ -110,11 +110,11 @@
 
   - **Strikeforce Challengers 2**（2009年6月19日）
       -
-        ○ [ジョーイ・ヴィラセニョール](../Page/ジョーイ・ヴィラセニョール.md "wikilink")（判定2-1）[エヴァンゲリスタ・サイボーグ](https://ja.wikipedia.org/wiki/エヴァンゲリスタ・サイボーグ "wikilink") ×
-        ○ [ティム・ケネディ](https://ja.wikipedia.org/wiki/ティム・ケネディ "wikilink")（2R 2:37 TKO）[ニック・トンプソン](https://ja.wikipedia.org/wiki/ニック・トンプソン "wikilink") ×
-        ○ [ジョルジ・グージェウ](https://ja.wikipedia.org/wiki/ジョルジ・グージェウ "wikilink")（判定3-0）コーナー・ヒューン ×
+        ○ [ジョーイ・ヴィラセニョール](../Page/ジョーイ・ヴィラセニョール.md "wikilink")（判定2-1）[エヴァンゲリスタ・サイボーグ](../Page/エヴァンゲリスタ・サイボーグ.md "wikilink") ×
+        ○ [ティム・ケネディ](https://ja.wikipedia.org/wiki/ティム・ケネディ "wikilink")（2R 2:37 TKO）[ニック・トンプソン](../Page/ニック・トンプソン.md "wikilink") ×
+        ○ [ジョルジ・グージェウ](../Page/ジョルジ・グージェウ.md "wikilink")（判定3-0）コーナー・ヒューン ×
         ○ [サラ・カフマン](https://ja.wikipedia.org/wiki/サラ・カフマン "wikilink")（判定3-0）[シェイナ・ベイズラー](https://ja.wikipedia.org/wiki/シェイナ・ベイズラー "wikilink") ×
-        ○ [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink")（1R 0:20 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")）ジャスティン・デイヴィス ×
+        ○ [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink")（1R 0:20 [チョークスリーパー](../Page/裸絞.md "wikilink")）ジャスティン・デイヴィス ×
         ○ [ライル・ビアボーム](https://ja.wikipedia.org/wiki/ライル・ビアボーム "wikilink")（1R 4:27 [ブルドッグチョーク](https://ja.wikipedia.org/wiki/ブルドッグチョーク "wikilink")）[ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink") ×
   - **Strikeforce Challengers 1**（2009年5月15日）
       -
@@ -125,9 +125,9 @@
 
   - **Strikeforce: Destruction**（2008年11月21日）
       -
-        ○ [レナート・ババル](../Page/レナート・ババル.md "wikilink")（1R終了時 ドクターストップ）[ボビー・サウスワース](https://ja.wikipedia.org/wiki/ボビー・サウスワース "wikilink") × **【世界ライトヘビー級タイトルマッチ】**
+        ○ [レナート・ババル](../Page/レナート・ババル.md "wikilink")（1R終了時 ドクターストップ）[ボビー・サウスワース](../Page/ボビー・サウスワース.md "wikilink") × **【世界ライトヘビー級タイトルマッチ】**
         ○ [ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink")（判定3-0）[イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") ×
-        ○ [スコット・スミス](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink")（1R 0:24 KO）[テリー・マーティン](https://ja.wikipedia.org/wiki/テリー・マーティン "wikilink") ×
+        ○ [スコット・スミス](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink")（1R 0:24 KO）[テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
         ○ [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")（2R 2:05 KO）ルーク・スチュワート ×
 
 <!-- end list -->
@@ -136,15 +136,15 @@
       -
         ○ [ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink")（1R 2:01 ギブアップ）サム・モーガン ×
         ○ [フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")（判定3-0）ファラニコ・ヴァイタレ ×
-        ○ [ミシェル・ウォーターソン](https://ja.wikipedia.org/wiki/ミシェル・ウォーターソン "wikilink")（1R 1:20 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")）タイラ・パーカー ×
+        ○ [ミシェル・ウォーターソン](https://ja.wikipedia.org/wiki/ミシェル・ウォーターソン "wikilink")（1R 1:20 [チョークスリーパー](../Page/裸絞.md "wikilink")）タイラ・パーカー ×
 
 <!-- end list -->
 
   - **Strikeforce: At The Mansion II**（2008年9月20日）
       -
-        ○ [三崎和雄](https://ja.wikipedia.org/wiki/三崎和雄 "wikilink")（2R 2:29 TKO）[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+        ○ [三崎和雄](../Page/三崎和雄.md "wikilink")（2R 2:29 TKO）[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（1R 1:14 TKO）アッシュ・ボウマン ×
-        ○ [石田光洋](https://ja.wikipedia.org/wiki/石田光洋 "wikilink")（1R 1:21 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")）ジャスティン・ウィルコックス ×
+        ○ [石田光洋](../Page/石田光洋.md "wikilink")（1R 1:21 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）ジャスティン・ウィルコックス ×
 
 <!-- end list -->
 
@@ -152,30 +152,30 @@
       -
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（判定3-0）[ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink") × **【世界ライト級タイトルマッチ】**
         ○ ビリー・エヴァンゲリスタ（判定2-1）[ナム・ファン](https://ja.wikipedia.org/wiki/ナム・ファン "wikilink") ×
-        ○ [ボビー・サウスワース](https://ja.wikipedia.org/wiki/ボビー・サウスワース "wikilink")（判定3-0）アンソニー・ルイス × **【世界ライトヘビー級タイトルマッチ】**
+        ○ [ボビー・サウスワース](../Page/ボビー・サウスワース.md "wikilink")（判定3-0）アンソニー・ルイス × **【世界ライトヘビー級タイトルマッチ】**
 
 <!-- end list -->
 
   - **Strikeforce: Shamrock vs. Le**（2008年3月29日）
       -
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R終了時 ドクターストップ）[フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink") × **【世界ミドル級タイトルマッチ】**
+        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R終了時 ドクターストップ）[フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink") × **【世界ミドル級タイトルマッチ】**
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（2R 2:18 TKO）ゲイブ・レムリー × **【世界ライト級タイトルマッチ】**
 
 <!-- end list -->
 
   - **Strikeforce: At The Dome**（2008年2月23日）
       -
-        ○ [ヤン・"ザ・ジャイアント"・ノルキヤ](https://ja.wikipedia.org/wiki/ヤン・ノルキヤ "wikilink")（1R 0:55 TKO）[ボブ・サップ](../Page/ボブ・サップ.md "wikilink") ×
-        ○ [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink")（1R 1:53 [チキンウィングアームロック](https://ja.wikipedia.org/wiki/ダブルリストロック "wikilink")）[リック・ルーファス](https://ja.wikipedia.org/wiki/リック・ルーファス "wikilink") ×
-        ○ [ホルヘ・マスヴィダル](https://ja.wikipedia.org/wiki/ホルヘ・マスヴィダル "wikilink")（1R 1:22 ギブアップ）ライアン・ヒーリー ×
+        ○ [ヤン・"ザ・ジャイアント"・ノルキヤ](../Page/ヤン・ノルキヤ.md "wikilink")（1R 0:55 TKO）[ボブ・サップ](../Page/ボブ・サップ.md "wikilink") ×
+        ○ [モーリス・スミス](../Page/モーリス・スミス.md "wikilink")（1R 1:53 [チキンウィングアームロック](../Page/ダブルリストロック.md "wikilink")）[リック・ルーファス](../Page/リック・ルーファス.md "wikilink") ×
+        ○ [ホルヘ・マスヴィダル](../Page/ホルヘ・マスヴィダル.md "wikilink")（1R 1:22 ギブアップ）ライアン・ヒーリー ×
 
 ### 2007年
 
   - **Strikeforce: Four Men Enter, One Man Survives**（2007年11月16日）
       -
-        ○ [ジョルジ・サンチアゴ](https://ja.wikipedia.org/wiki/ジョルジ・サンチアゴ "wikilink")（1R 2:31 TKO）[トレヴァー・プラングリー](https://ja.wikipedia.org/wiki/トレヴァー・プラングリー "wikilink") × **【ミドル級トーナメント 決勝】**
+        ○ [ジョルジ・サンチアゴ](../Page/ジョルジ・サンチアゴ.md "wikilink")（1R 2:31 TKO）[トレヴァー・プラングリー](../Page/トレヴァー・プラングリー.md "wikilink") × **【ミドル級トーナメント 決勝】**
         ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R 1:58 TKO）サム・モーガン ×
-        ○ [アリスター・オーフレイム](https://ja.wikipedia.org/wiki/アリスター・オーフレイム "wikilink")（2R 3:42 TKO）[ポール・ブエンテロ](../Page/ポール・ブエンテロ.md "wikilink") × **【世界ヘビー級王座決定戦】**
+        ○ [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")（2R 3:42 TKO）[ポール・ブエンテロ](../Page/ポール・ブエンテロ.md "wikilink") × **【世界ヘビー級王座決定戦】**
 
 <!-- end list -->
 
@@ -189,9 +189,9 @@
 
   - **Strikeforce & EliteXC: Shamrock vs. Baroni**（2007年6月22日）
       -
-        ○ [フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")（2R 4:00 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")）[フィル・バローニ](https://ja.wikipedia.org/wiki/フィル・バローニ "wikilink") × **【世界ミドル級王座決定戦】**
+        ○ [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")（2R 4:00 [チョークスリーパー](../Page/裸絞.md "wikilink")）[フィル・バローニ](../Page/フィル・バローニ.md "wikilink") × **【世界ミドル級王座決定戦】**
         ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R 0:25 TKO）トニー・フリックランド ×
-        ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（1R 1:42 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")）ニック・ゴンザレス ×
+        ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（1R 1:42 [チョークスリーパー](../Page/裸絞.md "wikilink")）ニック・ゴンザレス ×
         ○ [ムリーロ・ニンジャ](https://ja.wikipedia.org/wiki/ムリーロ・ニンジャ "wikilink")（2R 1:05 TKO）[ジョーイ・ヴィラセニョール](../Page/ジョーイ・ヴィラセニョール.md "wikilink") × **【EliteXCミドル級王座決定戦】**
 
 ### 2006年
@@ -200,21 +200,21 @@
       -
         ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（1R 0:43 TKO）ジェイソン・フォン・フルー ×
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（判定3-0）[ナム・ファン](https://ja.wikipedia.org/wiki/ナム・ファン "wikilink") ×
-        ○ [ジーナ・カラーノ](https://ja.wikipedia.org/wiki/ジーナ・カラーノ "wikilink")（判定3-0）エレーナ・マックスウェル ×
-        ○ [ボビー・サウスワース](https://ja.wikipedia.org/wiki/ボビー・サウスワース "wikilink")（判定3-0）[ヴァーノン・"タイガー"・ホワイト](../Page/ヴァーノン・ホワイト.md "wikilink") × **【世界ライトヘビー級王座決定戦】**
+        ○ [ジーナ・カラーノ](../Page/ジーナ・カラーノ.md "wikilink")（判定3-0）エレーナ・マックスウェル ×
+        ○ [ボビー・サウスワース](../Page/ボビー・サウスワース.md "wikilink")（判定3-0）[ヴァーノン・"タイガー"・ホワイト](../Page/ヴァーノン・ホワイト.md "wikilink") × **【世界ライトヘビー級王座決定戦】**
 
 <!-- end list -->
 
   - **Strikeforce: Tank vs. Buentello**（2006年10月7日）
       -
         ○ [ポール・ブエンテロ](../Page/ポール・ブエンテロ.md "wikilink")（1R 0:43 TKO）[タンク・アボット](../Page/タンク・アボット.md "wikilink") ×
-        ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（2R 4:36 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")）[ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink") ×
+        ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（2R 4:36 [フロントチョーク](../Page/フロントチョーク.md "wikilink")）[ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink") ×
 
 <!-- end list -->
 
   - **Strikeforce: Revenge**（2006年6月9日）
       -
-        ○ [アリスター・オーフレイム](https://ja.wikipedia.org/wiki/アリスター・オーフレイム "wikilink")（判定3-0）[ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink") ×
+        ○ [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")（判定3-0）[ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink") ×
         ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（1R 4:19 TKO）ブライアン・ウォーレン ×
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（判定2-1）[クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink") × **【世界ライト級タイトルマッチ】**
 
@@ -222,7 +222,7 @@
 
   - **Strikeforce: Shamrock vs. Gracie**（2006年3月10日）
       -
-        ○ [フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")（1R 0:21 KO）[シーザー・グレイシー](https://ja.wikipedia.org/wiki/シーザー・グレイシー "wikilink") ×
+        ○ [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")（1R 0:21 KO）[シーザー・グレイシー](https://ja.wikipedia.org/wiki/シーザー・グレイシー "wikilink") ×
         ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（1R 3:51 KO）マイク・アルトマン ×
         ○ [クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink")（判定3-0）[ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink") × **【世界ライト級王座決定戦】**
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（2R 0:44 ギブアップ）ハリス・サリエント ×
@@ -230,8 +230,8 @@
 ## スタッフ
 
   - [マウロ・ラナーロ](https://ja.wikipedia.org/wiki/マウロ・ラナーロ "wikilink")（実況）
-  - [フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")（解説）
-  - [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink")（解説）
+  - [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")（解説）
+  - [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink")（解説）
   - [ジミー・レノン・ジュニア](https://ja.wikipedia.org/wiki/ジミー・レノン・ジュニア "wikilink")（リングアナウンサー）
 
 ## 脚注
@@ -247,7 +247,7 @@
 
 1.  「スコット・コーカー ストライクフォース代表」『[Kamipro](../Page/Kamipro.md "wikilink")』No.110、2007年5月7日、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")、pp.140-143
 2.
-3.  「好敵手:スコット・コーカー」『ゴング格闘技』No.207、2009年9月号、[イースト・プレス](https://ja.wikipedia.org/wiki/イースト・プレス "wikilink")、pp.128-131
+3.  「好敵手:スコット・コーカー」『ゴング格闘技』No.207、2009年9月号、[イースト・プレス](../Page/イースト・プレス.md "wikilink")、pp.128-131
 4.
 5.
 6.  [UFC 68 Breaks North American Attendance Record](http://web.archive.org/20070528213139/www.mmaweekly.com/absolutenm/templates/dailynews.asp?articleid=3602) MMA Weekly 2007年3月15日

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")からリリースされ、同年3月17日にリリースされたアルバム『[Tommy airline](../Page/Tommy_airline.md "wikilink")』からの先行シングルとなった。『MaGic in youR Eyes』は、[TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[奥さまは魔女](https://ja.wikipedia.org/wiki/奥さまは魔女_\(テレビドラマ\)#日本版「奥さまは魔女」 "wikilink")』の主題歌。[サンリオ](../Page/サンリオ.md "wikilink")のキャラクター、[リトルツインスターズ](https://ja.wikipedia.org/wiki/リトルツインスターズ "wikilink")（キキララ）とのコラボシングル第三弾でもあり、PVにも登場している。
+[2004年](../Page/2004年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")からリリースされ、同年3月17日にリリースされたアルバム『[Tommy airline](../Page/Tommy_airline.md "wikilink")』からの先行シングルとなった。『MaGic in youR Eyes』は、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[奥さまは魔女](https://ja.wikipedia.org/wiki/奥さまは魔女_\(テレビドラマ\)#日本版「奥さまは魔女」 "wikilink")』の主題歌。[サンリオ](../Page/サンリオ.md "wikilink")のキャラクター、[リトルツインスターズ](../Page/リトルツインスターズ.md "wikilink")（キキララ）とのコラボシングル第三弾でもあり、PVにも登場している。
 
 カップリングの『I still love you boy』は、[ハドソン](../Page/ハドソン.md "wikilink")「取り放題￥100」CMソング。PVで踊っているのはTommy☆Angelsの（あすか）と（まいか）。
 

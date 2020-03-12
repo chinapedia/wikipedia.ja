@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[8月2日](../Page/8月2日.md "wikilink")に1万枚限定生産でリリースされた後、[2007年](../Page/2007年.md "wikilink")（平成19年）[2月14日](../Page/2月14日.md "wikilink")に通常盤として発売された。シングル「[ポリリズム](../Page/ポリリズム_\(Perfumeの曲\).md "wikilink")」や「[Baby cruising Love/マカロニ](https://ja.wikipedia.org/wiki/Baby_cruising_Love/マカロニ "wikilink")」、アルバム「[GAME](https://ja.wikipedia.org/wiki/GAME_\(Perfumeのアルバム\) "wikilink")」のヒットに連動して息長くセールスを積み重ねた。初回盤の発売から約1年後の2007年7月11日付で[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink") のCD売上ランキング1位を獲得し、約1年半後の2008年4月28日付でオリコンチャート最高順位を更新。初回限定生産盤と通常盤をあわせた累計出荷は10万枚に達した。その後もさらに息長くセールスを積み重ね（2013年時点における累積売上は17万枚超）、ついには2015年4月度付で[プラチナディスク](https://ja.wikipedia.org/wiki/プラチナディスク "wikilink")に認定された\[1\]。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[8月2日](../Page/8月2日.md "wikilink")に1万枚限定生産でリリースされた後、[2007年](../Page/2007年.md "wikilink")（平成19年）[2月14日](../Page/2月14日.md "wikilink")に通常盤として発売された。シングル「[ポリリズム](../Page/ポリリズム_\(Perfumeの曲\).md "wikilink")」や「[Baby cruising Love/マカロニ](https://ja.wikipedia.org/wiki/Baby_cruising_Love/マカロニ "wikilink")」、アルバム「[GAME](../Page/GAME_\(Perfumeのアルバム\).md "wikilink")」のヒットに連動して息長くセールスを積み重ねた。初回盤の発売から約1年後の2007年7月11日付で[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink") のCD売上ランキング1位を獲得し、約1年半後の2008年4月28日付でオリコンチャート最高順位を更新。初回限定生産盤と通常盤をあわせた累計出荷は10万枚に達した。その後もさらに息長くセールスを積み重ね（2013年時点における累積売上は17万枚超）、ついには2015年4月度付で[プラチナディスク](https://ja.wikipedia.org/wiki/プラチナディスク "wikilink")に認定された\[1\]。
 
   - 初回限定生産盤と通常盤の体裁の違いは以下の通り。
 

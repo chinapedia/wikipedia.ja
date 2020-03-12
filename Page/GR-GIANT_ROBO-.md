@@ -1,9 +1,9 @@
 > この記事は[GR-GIANT ROBO-](https://ja.wikipedia.org/wiki/GR-GIANT_ROBO-)から翻訳されています。
 
 
-『**GR-GIANT ROBO-**』（ジーアール　ジャイアントロボ）は、[横山光輝](../Page/横山光輝.md "wikilink")原作の漫画『[ジャイアントロボ](../Page/ジャイアントロボ.md "wikilink")』を原作とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアニメ作品。映像コンテンツ配信サイトSg-TVにて[2007年](../Page/2007年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")から同年[7月6日](../Page/7月6日.md "wikilink")まで配信。[スカイパーフェクTV\!の](../Page/スカパー!プレミアムサービス.md "wikilink")[パーフェクト・チョイス](https://ja.wikipedia.org/wiki/パーフェクト・チョイス "wikilink")でも2007年[2月9日](../Page/2月9日.md "wikilink")から同年[7月13日](../Page/7月13日.md "wikilink")まで放映された。2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")より、[TOKYO MXにて放映された](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[地上波](../Page/地上波.md "wikilink")初）。
+『**GR-GIANT ROBO-**』（ジーアール　ジャイアントロボ）は、[横山光輝](../Page/横山光輝.md "wikilink")原作の漫画『[ジャイアントロボ](../Page/ジャイアントロボ.md "wikilink")』を原作とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアニメ作品。映像コンテンツ配信サイトSg-TVにて[2007年](../Page/2007年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")から同年[7月6日](../Page/7月6日.md "wikilink")まで配信。[スカイパーフェクTV\!の](../Page/スカパー!プレミアムサービス.md "wikilink")[パーフェクト・チョイス](../Page/パーフェクト・チョイス.md "wikilink")でも2007年[2月9日](../Page/2月9日.md "wikilink")から同年[7月13日](../Page/7月13日.md "wikilink")まで放映された。2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")より、[TOKYO MXにて放映された](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[地上波](../Page/地上波.md "wikilink")初）。
 
-また、稜町しろーによる漫画版が[コミックガム](https://ja.wikipedia.org/wiki/コミックガム "wikilink")に連載され、2007年9月10日に単行本化されている。
+また、稜町しろーによる漫画版が[コミックガム](../Page/コミックガム.md "wikilink")に連載され、2007年9月10日に単行本化されている。
 
 ## 作品概要
 
@@ -20,8 +20,8 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
 ## 登場人物
 
   - 草間大作（くさま だいさく）
-    [声](../Page/声優.md "wikilink") - [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")
-    [主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。18歳の青年。GR-1と“契約”し、マスターマインドとなった。専任操縦者となる。
+    [声](../Page/声優.md "wikilink") - [浪川大輔](../Page/浪川大輔.md "wikilink")
+    [主人公](../Page/主人公.md "wikilink")。18歳の青年。GR-1と“契約”し、マスターマインドとなった。専任操縦者となる。
     “契約”の際に遺伝子が書き換えられ不死となっており、終盤には宇宙服無しで宇宙空間に出ても無事だった。
     漫画版では契約のショックで記憶に障害が残り、契約以前の記憶が曖昧になっていた。テキサスとの最終決戦で一度だけ、GR-1を「ジャイアントロボ」と呼んでいる（アニメ版では終始GR-1としか呼んでいない）。
   - アレックス・マッケンジー
@@ -34,31 +34,31 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
     ディーはUNISOM基地内に隠された「ヴィーの劣化コピー体」で封印を解かれると同時に死亡した。
     漫画版では、最初のGRが発掘された際に一緒に発見された「エメラルド・タブレット」の中で、唯一解析できた、DNA配列表を基に作り出された存在で「インタプリター」と呼ばれる。エピローグの数百年後では大作と同じ位の年齢に成長していた。なお、大作をGR-1の下に導くなどの役割はディーが行い、ヴィーはテレパシーでディーや大作に語りかける役だった。
   - マックス・チャンプリン
-    声 - [家弓家正](https://ja.wikipedia.org/wiki/家弓家正 "wikilink")
+    声 - [家弓家正](../Page/家弓家正.md "wikilink")
     56歳の男性。放送局BFNのキャスターで、この作品のナレーター役でもある。実はCGで作られた映像で、BFN幹部によって操られており、人物としては実在しない。
     漫画版ではGROの実体が不透明なまま終わる為、登場しない。
   - 嵐克己
     声 - [千葉一伸](../Page/千葉一伸.md "wikilink")
     28歳の男性。UNISOMの隊員で、自衛官の一尉。
   - 山辺清雄
-    声 - [鳥海勝美](https://ja.wikipedia.org/wiki/鳥海勝美 "wikilink")
+    声 - [鳥海勝美](../Page/鳥海勝美.md "wikilink")
     30歳の男性。UNISOMの調査員で、考古物理学者。
   - セレスティーヌ・ブニュエル
-    声 - [百々麻子](https://ja.wikipedia.org/wiki/百々麻子 "wikilink")
+    声 - [百々麻子](../Page/百々麻子.md "wikilink")
     29歳の女性。GROに所属し、ヴィーの侍女だがその正体はヴィーの卵子提供者、つまり母親である。
     漫画版では登場しない。
   - マイク・ホッジス少佐
-    声 - [小室正幸](https://ja.wikipedia.org/wiki/小室正幸 "wikilink")
+    声 - [小室正幸](../Page/小室正幸.md "wikilink")
     58歳の男性。GRO実行部隊の指揮官で、元グリーン・ベレー。
     漫画版では階級が中佐になっている他、GR-1が生き残った事で先進各国がGRの技術を利用したロボット兵器を開発する大義名分が出来たと語っている。
   - イザベラ・レイド中尉
     声 - [大原さやか](../Page/大原さやか.md "wikilink")
     31歳の女性。GRO実行部隊の副官。
   - マリア・ヴォイニッチ
-    声 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    声 - [千葉紗子](../Page/千葉紗子.md "wikilink")
     25歳の女性。BFNのレポーターで、突撃取材が得意。
   - 比嘉義彦
-    声 - [中村秀利](https://ja.wikipedia.org/wiki/中村秀利 "wikilink")
+    声 - [中村秀利](../Page/中村秀利.md "wikilink")
     45歳の男性。大作のアルバイト先のダイビング店の店長。
 
 ## GR
@@ -112,11 +112,11 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
     9体目のGR。滅亡へ向う超古代の人類が世界再生後の人類の為に残した8体のGRを、己の欲のためにGR同士を戦わせて全てを破壊した際に、人類達に裁きを下すために起動し、地球を滅ぼすため自爆するようにプログラムされている超大型の非人型GR。全てのGRが破壊された時（その時点ではGR-1は健在していたものの、GR-1のアバターはGR-4に移植後、GR-5と相打ちして失われている。また13話でヴィーの口から「アバターの無いGRはGRではない」と語っている）その姿を現す。ヴィーをアバターとして取り込んでいる。武装はビーム砲で、口から出撃する**ヘッズ**と呼ばれる無数の子機もビーム砲で一斉に敵を攻撃する。第三形態まで変形する。
     原点は、マーズのガイアーの頭部。
   - GR軍団
-    漫画版で登場する。GRを巡る戦いの終わった後に各国に渡ったGRのデーターを元に開発されたGR。数百年の間に様々なGRが開発された模様。数百年先の荒廃した未来で大作とヴィーとディーに付き従い、宇宙に上がり月から目覚めた強大な敵に最終戦争を挑む。中にはGR風にリファインされた、[鉄人28号](../Page/鉄人28号.md "wikilink")の[ブラックオックス](https://ja.wikipedia.org/wiki/ブラックオックス "wikilink")やモンスター号の姿も有った。
+    漫画版で登場する。GRを巡る戦いの終わった後に各国に渡ったGRのデーターを元に開発されたGR。数百年の間に様々なGRが開発された模様。数百年先の荒廃した未来で大作とヴィーとディーに付き従い、宇宙に上がり月から目覚めた強大な敵に最終戦争を挑む。中にはGR風にリファインされた、[鉄人28号](../Page/鉄人28号.md "wikilink")の[ブラックオックス](../Page/ブラックオックス.md "wikilink")やモンスター号の姿も有った。
 
 ## 古き神々
 
-宇宙からの侵略軍。5万年前の超古代戦争で、GRと戦った敵については、蛇のような姿をし触手の様なもので攻撃していた事以外、詳細や名称は明かされない。ヴィーによると超古代の地球を支配していた存在で「[古き神](https://ja.wikipedia.org/wiki/旧支配者 "wikilink")」と呼称されている。現代の兵器を圧倒する強大な力を有すGRにより、どうにか時空の彼方へ追放することができたが、その古き神との戦いで超古代文明は滅亡してしまった。全宇宙に害を与える存在と言われ、人類が犯す愚かな行為を力の糧とするらしい。それを防ぐために、愚行の限りを尽くす人類だった際に最後の手段としてGR-0が存在する。
+宇宙からの侵略軍。5万年前の超古代戦争で、GRと戦った敵については、蛇のような姿をし触手の様なもので攻撃していた事以外、詳細や名称は明かされない。ヴィーによると超古代の地球を支配していた存在で「[古き神](../Page/旧支配者.md "wikilink")」と呼称されている。現代の兵器を圧倒する強大な力を有すGRにより、どうにか時空の彼方へ追放することができたが、その古き神との戦いで超古代文明は滅亡してしまった。全宇宙に害を与える存在と言われ、人類が犯す愚かな行為を力の糧とするらしい。それを防ぐために、愚行の限りを尽くす人類だった際に最後の手段としてGR-0が存在する。
 
 ## スタッフ
 
@@ -133,9 +133,9 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
   - 設定デザイン・3DCG監修 - 川原智弘
   - 美術設定 - 小林徳光
   - 美術監督 - 谷村心一
-  - 音響監督 - [中嶋聡彦](https://ja.wikipedia.org/wiki/中嶋聡彦 "wikilink")、[三間雅文](https://ja.wikipedia.org/wiki/三間雅文 "wikilink")
-  - 音楽 - [きむしん](https://ja.wikipedia.org/wiki/木村真也 "wikilink")
-  - 音楽制作 - [ユーズミュージック](https://ja.wikipedia.org/wiki/ユーズミュージック "wikilink")
+  - 音響監督 - [中嶋聡彦](../Page/中嶋聡彦.md "wikilink")、[三間雅文](../Page/三間雅文.md "wikilink")
+  - 音楽 - [きむしん](../Page/木村真也.md "wikilink")
+  - 音楽制作 - [ユーズミュージック](../Page/ユーズミュージック.md "wikilink")
   - ゼネラル・プロデューサー - 尾川匠
   - エグゼクティブ・プロデューサー - 高野秀夫、伊藤靖浩
   - チーフ・プロデューサー - 早川均
@@ -143,14 +143,14 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
   - アシスタント・プロデューサー - 吉田昌夫
   - ライン・プロデューサー - 福田佳与
   - アニメーション製作 - [A.C.G.T.](https://ja.wikipedia.org/wiki/A.C.G.T. "wikilink")
-  - 制作 - [オービー企画](https://ja.wikipedia.org/wiki/オービー企画 "wikilink")
+  - 制作 - [オービー企画](../Page/オービー企画.md "wikilink")
   - 制作協力 - Sg-me、PP.NET
   - 製作 - Softgarage
 
 ## 主題歌
 
   - オープニングテーマ「Answer」
-    作詞 - 黒田学 / 作曲 - 穴倉聖悟 / 編曲 - 穴倉聖悟、きむしん / 歌 - [rockwell](https://ja.wikipedia.org/wiki/rockwell "wikilink")（[DREAMUSIC](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink") Inc.）
+    作詞 - 黒田学 / 作曲 - 穴倉聖悟 / 編曲 - 穴倉聖悟、きむしん / 歌 - [rockwell](https://ja.wikipedia.org/wiki/rockwell "wikilink")（[DREAMUSIC](../Page/ドリーミュージック.md "wikilink") Inc.）
   - エンディングテーマ「it was yesterday」
     作詞 - kenko-p、洋奈、CHASE ANDY、DURAND DOMINIQUE、SCHLESINGER ADAM
     作曲 - Jin Nakamura、CHASE ANDY、DURAND DOMINIQUE、SCHLESINGER ADAM
@@ -173,7 +173,7 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
 <tr class="odd">
 <td><p>Qubit：01</p></td>
 <td><p>契約</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横手美智子" title="wikilink">横手美智子</a><br />
+<td><p><a href="../Page/横手美智子.md" title="wikilink">横手美智子</a><br />
 <a href="../Page/小中千昭.md" title="wikilink">小中千昭</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/むらた雅彦" title="wikilink">むらた雅彦</a></p></td>
 <td><p>須賀重行</p></td>
@@ -206,15 +206,15 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
 <tr class="odd">
 <td><p>Qubit：05</p></td>
 <td><p>諜知</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/冨永恒雄" title="wikilink">冨永恒雄</a></p></td>
+<td><p><a href="../Page/冨永恒雄.md" title="wikilink">冨永恒雄</a></p></td>
 <td><p>久原謙一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安藤正浩" title="wikilink">安藤正浩</a></p></td>
+<td><p><a href="../Page/安藤正浩.md" title="wikilink">安藤正浩</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Qubit：06</p></td>
 <td><p>雷撃</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡部高志" title="wikilink">渡部高志</a></p></td>
+<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
 <td><p>むらた雅彦</p></td>
 <td><p>山田起生<br />
 福世孝明</p></td>
@@ -285,7 +285,7 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
 | ---------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -- |
 | [日本全域](../Page/全国放送.md "wikilink")                   | Sg-TV                                                                          | [2007年](../Page/2007年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - [7月6日](../Page/7月6日.md "wikilink") | 金曜                                                               | [ネット配信](../Page/ネット配信.md "wikilink")      |    |
 | [スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink") | 2007年[2月9日](../Page/2月9日.md "wikilink") - [7月13日](../Page/7月13日.md "wikilink") | 金曜                                                                                                            | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") |                                           |    |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")  | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                              | 2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [12月27日](../Page/12月27日.md "wikilink")         | 木曜 23:00 - 23:30                                                 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |    |
+| [東京都](../Page/東京都.md "wikilink")                     | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                              | 2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [12月27日](../Page/12月27日.md "wikilink")         | 木曜 23:00 - 23:30                                                 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |    |
 
 ## パイロットフィルム
 
@@ -308,7 +308,7 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
 <!-- end list -->
 
   - 原作 - 横山光輝
-  - 演出 - [本郷みつる](https://ja.wikipedia.org/wiki/本郷みつる "wikilink")
+  - 演出 - [本郷みつる](../Page/本郷みつる.md "wikilink")
   - 絵コンテ - [西村博之](https://ja.wikipedia.org/wiki/西村博之 "wikilink")、佐々木正勝、[高倉佳彦](https://ja.wikipedia.org/wiki/高倉佳彦 "wikilink")、本郷みつる
   - キャラクターデザイン・作画監督・原画 - 高倉佳彦
   - メカデザイン・作画監督・原画 - 西村博之
@@ -318,7 +318,7 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
   - 音楽 - 和田薫
   - ナレーション - [河口宏](https://ja.wikipedia.org/wiki/河口宏 "wikilink")
   - 協力 - [めがてんスタジオ](https://ja.wikipedia.org/wiki/めがてんスタジオ "wikilink")
-  - 制作 - [OLM](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")
+  - 制作 - [OLM](../Page/オー・エル・エム.md "wikilink")
   - 製作 - SOFT GARAGE
 
 ## 関連項目
@@ -328,7 +328,7 @@ GROの目的は? そして、巨大ロボット同士の戦いの結末は?
 
 <!-- end list -->
 
-  - [UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧 "wikilink")
+  - [UHFアニメ一覧](../Page/UHFアニメ一覧.md "wikilink")
   - [ジャイアントロボ](../Page/ジャイアントロボ.md "wikilink")
   - [ジャイアントロボ THE ANIMATION -地球が静止する日](../Page/ジャイアントロボ_THE_ANIMATION_-地球が静止する日.md "wikilink")
   - [クトゥルー神話](https://ja.wikipedia.org/wiki/クトゥルー神話 "wikilink") - 度々作中で設定を用いている。

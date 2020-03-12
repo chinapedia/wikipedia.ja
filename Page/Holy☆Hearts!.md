@@ -3,7 +3,7 @@
 
 『**Holy☆Hearts\!**』（ホーリー・ハーツ\!）は、[神代明](https://ja.wikipedia.org/wiki/神代明 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")作品。[集英社](../Page/集英社.md "wikilink")・[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")刊、全8巻。イラストは[緋賀ゆかり](https://ja.wikipedia.org/wiki/緋賀ゆかり "wikilink")。
 
-『[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")』（[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")）連載の緋賀ゆかりによる[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品もある。
+『[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")』（[ジャイブ](../Page/ジャイブ.md "wikilink")）連載の緋賀ゆかりによる[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品もある。
 
 ## 登場人物
 
@@ -107,13 +107,13 @@
     6.  「やさしさ運ぶ、そよかぜです。」2005年4月初版、ISBN 4-08-630234-9
     7.  「想いを伝える、まなざしです。」2005年7月初版、ISBN 4-08-630246-2
     8.  「夜明けをつげる、ほほえみです。」2005年11月初版、ISBN 4-08-630269-1
-  - 神代明・[緋賀ゆかり](https://ja.wikipedia.org/wiki/緋賀ゆかり "wikilink")『Holy Hearts\!』[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")〈[CR COMICS](https://ja.wikipedia.org/wiki/CR_COMICS "wikilink")〉（漫画）
+  - 神代明・[緋賀ゆかり](https://ja.wikipedia.org/wiki/緋賀ゆかり "wikilink")『Holy Hearts\!』[ジャイブ](../Page/ジャイブ.md "wikilink")〈[CR COMICS](https://ja.wikipedia.org/wiki/CR_COMICS "wikilink")〉（漫画）
     1.  2006年4月初版、ISBN 4-86176-291-X
     2.  2006年11月初版、ISBN 4-86176-345-2
 
 ## 関連項目
 
-  - [世界征服物語](https://ja.wikipedia.org/wiki/世界征服物語 "wikilink")
+  - [世界征服物語](../Page/世界征服物語.md "wikilink")
   - [プリズム☆ハーツ\!\!](https://ja.wikipedia.org/wiki/プリズム☆ハーツ!! "wikilink")（[集英社みらい文庫](https://ja.wikipedia.org/wiki/集英社みらい文庫 "wikilink")から刊行されている、本作と世界観を共有する作品）
 
 ## 外部リンク

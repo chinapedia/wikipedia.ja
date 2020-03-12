@@ -1,7 +1,7 @@
 > この記事は[AREA51](https://ja.wikipedia.org/wiki/AREA51)から翻訳されています。
 
 
-**AREA51**（エリアフィフティーワン）は、日本の[ネオクラシカルメタル](https://ja.wikipedia.org/wiki/ネオクラシカルメタル "wikilink")/[メロディックスピードメタル](https://ja.wikipedia.org/wiki/メロディックスピードメタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。2005年8月にファーストアルバム Ankh でデビュー。2008年3月にセカンドアルバム Daemonicus をリリースした。このアルバムには[インペリテリ](../Page/インペリテリ.md "wikilink")の[ヴォーカルである](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[ロブ・ロック](../Page/ロブ・ロック.md "wikilink")が1曲ゲスト参加している。
+**AREA51**（エリアフィフティーワン）は、日本の[ネオクラシカルメタル](../Page/ネオクラシカルメタル.md "wikilink")/[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。2005年8月にファーストアルバム Ankh でデビュー。2008年3月にセカンドアルバム Daemonicus をリリースした。このアルバムには[インペリテリ](../Page/インペリテリ.md "wikilink")の[ヴォーカルである](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[ロブ・ロック](../Page/ロブ・ロック.md "wikilink")が1曲ゲスト参加している。
 
 ## メンバー
 
@@ -14,9 +14,9 @@
 **旧メンバー**
 
   - 阿智健 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - 川井仁 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 川井仁 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 大塚潤一 - キーボード
-  - 吉田好宏 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 吉田好宏 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 河野太郎 - [ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井乾介 - [ドラムス](../Page/ドラムセット.md "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[SLAM \(\)](https://ja.wikipedia.org/wiki/SLAM_\(\))から翻訳されています。
 
 
-[Defense.gov_News_Photo_980220-N-0507F-001.jpg](https://ja.wikipedia.org/wiki/File:Defense.gov_News_Photo_980220-N-0507F-001.jpg "fig:Defense.gov_News_Photo_980220-N-0507F-001.jpg") **SLAM**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用している[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")。[ハープーン](../Page/ハープーン_\(ミサイル\).md "wikilink")[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")を母体に大幅改造されたものである。SLAMとは"Standoff Land Attack Missile"（スタンドオフ型対地攻撃ミサイル）の頭文字を取った略称であるが、英単語で「強打する」「圧勝する」などという意味もある。
+[Defense.gov_News_Photo_980220-N-0507F-001.jpg](https://ja.wikipedia.org/wiki/File:Defense.gov_News_Photo_980220-N-0507F-001.jpg "fig:Defense.gov_News_Photo_980220-N-0507F-001.jpg") **SLAM**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用している[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")。[ハープーン](../Page/ハープーン_\(ミサイル\).md "wikilink")[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")を母体に大幅改造されたものである。SLAMとは"Standoff Land Attack Missile"（スタンドオフ型対地攻撃ミサイル）の頭文字を取った略称であるが、英単語で「強打する」「圧勝する」などという意味もある。
 
 ## 概要
 
@@ -34,7 +34,7 @@
 ## 外部リンク
 
   - [Boeing (McDonnell-Douglas) AGM/RGM/UGM-84 Harpoon](http://www.designation-systems.net/dusrm/m-84.html), Designation Systems
-  - [spec sheet](http://www.time.com/time/daily/iraq/weapons/missiles/harpoon.html), [タイム (雑誌)](https://ja.wikipedia.org/wiki/タイム_\(雑誌\) "wikilink")
+  - [spec sheet](http://www.time.com/time/daily/iraq/weapons/missiles/harpoon.html), [タイム (雑誌)](../Page/タイム_\(雑誌\).md "wikilink")
   - [SLAM-ER](http://www.boeing.com/defense-space/missiles/slam/index.htm), [ボーイング](../Page/ボーイング.md "wikilink")社
 
 [Category:アメリカ合衆国の空対地ミサイル](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の空対地ミサイル "wikilink") [Category:ボーイング](https://ja.wikipedia.org/wiki/Category:ボーイング "wikilink")

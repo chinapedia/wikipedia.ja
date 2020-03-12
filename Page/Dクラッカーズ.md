@@ -1,7 +1,7 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-**Dクラッカーズ**は、[あざの耕平](../Page/あざの耕平.md "wikilink")による[ライトノベル](../Page/ライトノベル.md "wikilink")。口絵・挿絵は[村崎久都](https://ja.wikipedia.org/wiki/村崎久都 "wikilink")が担当。[富士見ミステリー文庫](https://ja.wikipedia.org/wiki/富士見ミステリー文庫 "wikilink")刊\[1\]。
+**Dクラッカーズ**は、[あざの耕平](../Page/あざの耕平.md "wikilink")による[ライトノベル](../Page/ライトノベル.md "wikilink")。口絵・挿絵は[村崎久都](https://ja.wikipedia.org/wiki/村崎久都 "wikilink")が担当。[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")刊\[1\]。
 
 [月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")での新人競作企画「龍皇杯」で発表された短編「Dクラッカーズ」を大幅にリメイクしたものがシリーズの第1巻となっている\[2\]。[2007年](../Page/2007年.md "wikilink")に新装版が[富士見ファンタジア文庫](../Page/富士見ファンタジア文庫.md "wikilink")より刊行された。
 
@@ -73,11 +73,11 @@
 
 #### 第三世代細胞（サードセル）
 
-  - [ディアブロ](https://ja.wikipedia.org/wiki/ディアブロ "wikilink") (Diablo)/風間俊（かざま しゅん）
+  - [ディアブロ](../Page/ディアブロ.md "wikilink") (Diablo)/風間俊（かざま しゅん）
     18歳。キメリエスの細胞に属していた。
   - [ディリエル](https://ja.wikipedia.org/wiki/ディリエル "wikilink") (Diriel)
     キメリエスの細胞に所属。ⅨCへの昇格のためカークと手を組む。ウィザードに敗北。
-  - [ディンゴ](https://ja.wikipedia.org/wiki/ディンゴ "wikilink") (Dingo)
+  - [ディンゴ](../Page/ディンゴ.md "wikilink") (Dingo)
     ウィザードと相対するほどの戦闘力を持つ使い手。その正体はDDのボス・甲斐氷太。なお、甲斐本人の口から本物のディンゴが別にいたことが示唆されている。
   - [デルタ](../Page/デルタ.md "wikilink") (Delta)/皆見茜（みなみ あかね）
     カイムの細胞に属していたが、カイムの敗北後はディンゴ=甲斐の元に身を寄せ、景らと共に戦う。
@@ -90,7 +90,7 @@
     ディアブロの細胞に属する。
   - [エッグ](https://ja.wikipedia.org/wiki/エッグ "wikilink") (Egg)
     ディアブロの細胞に属する。イーチャーの補充として細胞に加わるが、早々に倒された。
-  - [エッジ](https://ja.wikipedia.org/wiki/エッジ "wikilink") (Edge)
+  - [エッジ](../Page/エッジ.md "wikilink") (Edge)
     ディアブロの細胞に属する。
   - [エリゴル](https://ja.wikipedia.org/wiki/エリゴル "wikilink") (Eligor)
     巨大だが動きが鈍いゴーレム型の悪魔を操る。
@@ -99,7 +99,7 @@
 
   - ファルコン (Falcon)/松崎祐子（まつざき ゆうこ）
     梓のクラスメート。バールらの策略の捨て駒にされる。
-  - [フィッシャー](https://ja.wikipedia.org/wiki/フィッシャー "wikilink") (Fisher)/溝内淳也（みぞうち じゅんや）
+  - [フィッシャー](../Page/フィッシャー.md "wikilink") (Fisher)/溝内淳也（みぞうち じゅんや）
     エリゴルの細胞に属する。広域に拡散する網型の悪魔を操り、遊撃手を務める。
   - フェスタ (Festa)
     エリゴルの細胞に属する。悪魔召喚こそできないが卓越した情報収集能力を持ち、参謀員を務める。

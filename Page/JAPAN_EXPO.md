@@ -7,7 +7,7 @@
 
   - 博覧会：[ジャパンエキスポ富山](../Page/ジャパンエキスポ富山.md "wikilink")
   - 開催時：[1992年](../Page/1992年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")
-  - 開催地：[太閤山ランド](https://ja.wikipedia.org/wiki/太閤山ランド "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[小杉町](https://ja.wikipedia.org/wiki/小杉町 "wikilink")）
+  - 開催地：[太閤山ランド](../Page/太閤山ランド.md "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[小杉町](../Page/小杉町.md "wikilink")）
   - 入場者：合計237万人
 
 ## 第2回
@@ -21,7 +21,7 @@
 
   - 博覧会：[信州博覧会](https://ja.wikipedia.org/wiki/信州博覧会 "wikilink")
   - 開催時：[1993年](../Page/1993年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")
-  - 開催地：[松本平広域公園](https://ja.wikipedia.org/wiki/松本平広域公園 "wikilink")（[長野県](../Page/長野県.md "wikilink")[松本市](https://ja.wikipedia.org/wiki/松本市 "wikilink")）
+  - 開催地：[松本平広域公園](https://ja.wikipedia.org/wiki/松本平広域公園 "wikilink")（[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")）
   - 入場者：合計240万人
 
 ## 第4回
@@ -41,13 +41,13 @@
 ## 第6回
 
   - 博覧会：[世界・焱の博覧会](https://ja.wikipedia.org/wiki/世界・炎の博覧会 "wikilink")
-  - 開催時：[1996年](../Page/1996年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - [10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")
+  - 開催時：[1996年](../Page/1996年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - [10月13日](../Page/10月13日.md "wikilink")
   - 開催地： [佐賀県](../Page/佐賀県.md "wikilink")[有田町](../Page/有田町.md "wikilink")
   - 入場者：合計255万人
 
 ## 第7回
 
-  - 博覧会：[山陰・夢みなと博覧会](https://ja.wikipedia.org/wiki/山陰・夢みなと博覧会 "wikilink")
+  - 博覧会：[山陰・夢みなと博覧会](../Page/山陰・夢みなと博覧会.md "wikilink")
   - 開催時：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月12日](../Page/7月12日.md "wikilink") - [9月28日](../Page/9月28日.md "wikilink")
   - 開催地：[夢みなとタワー公園](https://ja.wikipedia.org/wiki/夢みなとタワー公園 "wikilink")（[鳥取県](../Page/鳥取県.md "wikilink")[境港市](../Page/境港市.md "wikilink")）
   - 入場者：合計193万人
@@ -56,7 +56,7 @@
 
   - 博覧会：[国際ゆめ交流博覧会](https://ja.wikipedia.org/wiki/国際ゆめ交流博覧会 "wikilink")
   - 開催時：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - [9月29日](../Page/9月29日.md "wikilink")
-  - 開催地： [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")
+  - 開催地： [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")
   - 入場者：合計106万人
 
 ## 第9回
@@ -68,23 +68,23 @@
 
 ## 第10回
 
-  - 博覧会：[北九州博覧祭2001](https://ja.wikipedia.org/wiki/北九州博覧祭2001 "wikilink")
+  - 博覧会：[北九州博覧祭2001](../Page/北九州博覧祭2001.md "wikilink")
   - 開催時：[2001年](../Page/2001年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") - [11月4日](../Page/11月4日.md "wikilink")
-  - 開催地：[スペースワールド駅](https://ja.wikipedia.org/wiki/スペースワールド駅 "wikilink")前（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")）
+  - 開催地：[スペースワールド駅](https://ja.wikipedia.org/wiki/スペースワールド駅 "wikilink")前（[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")）
   - 入場者：合計216万人
 
 ## 第11回
 
-  - 博覧会：[うつくしま未来博](https://ja.wikipedia.org/wiki/うつくしま未来博 "wikilink")
+  - 博覧会：[うつくしま未来博](../Page/うつくしま未来博.md "wikilink")
   - 開催時：2001年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [9月30日](../Page/9月30日.md "wikilink")
-  - 開催地：[須賀川テクニカルリサーチガーデン](https://ja.wikipedia.org/wiki/須賀川テクニカルリサーチガーデン "wikilink")（[福島県](../Page/福島県.md "wikilink")[須賀川市](https://ja.wikipedia.org/wiki/須賀川市 "wikilink")）
+  - 開催地：[須賀川テクニカルリサーチガーデン](https://ja.wikipedia.org/wiki/須賀川テクニカルリサーチガーデン "wikilink")（[福島県](../Page/福島県.md "wikilink")[須賀川市](../Page/須賀川市.md "wikilink")）
   - 入場者：合計166万人
 
 ## 第12回
 
-  - 博覧会：[21世紀未来博覧会](https://ja.wikipedia.org/wiki/山口きらら博 "wikilink")
+  - 博覧会：[21世紀未来博覧会](../Page/山口きらら博.md "wikilink")
   - 開催時：2001年[7月14日](../Page/7月14日.md "wikilink") - 9月30日
-  - 開催地：[きらら浜](https://ja.wikipedia.org/wiki/きらら浜 "wikilink")（[山口県](../Page/山口県.md "wikilink")[阿知須町](https://ja.wikipedia.org/wiki/阿知須町 "wikilink")）
+  - 開催地：[きらら浜](../Page/きらら浜.md "wikilink")（[山口県](../Page/山口県.md "wikilink")[阿知須町](../Page/阿知須町.md "wikilink")）
   - 入場者：合計251万人
 
 ## 関連項目

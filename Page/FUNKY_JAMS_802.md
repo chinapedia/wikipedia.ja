@@ -1,7 +1,7 @@
 > この記事は[FUNKY JAMS 802](https://ja.wikipedia.org/wiki/FUNKY_JAMS_802)から翻訳されています。
 
 
-**FUNKY JAMS 802**（ファンキージャムズエイトオーツー）は[FM802](../Page/FM802.md "wikilink")が毎週月曜から木曜の深夜（日付上は火曜から金曜の早朝）に放送する[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。1992年放送開始。2010年4月1日終了。
+**FUNKY JAMS 802**（ファンキージャムズエイトオーツー）は[FM802](../Page/FM802.md "wikilink")が毎週月曜から木曜の深夜（日付上は火曜から金曜の早朝）に放送する[生放送](../Page/生放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。1992年放送開始。2010年4月1日終了。
 
 ## 概要
 
@@ -44,7 +44,7 @@
 
   - [浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")(1993年10月-1996年9月)
   - [西田新](https://ja.wikipedia.org/wiki/西田新 "wikilink")
-  - [仁井聡子](https://ja.wikipedia.org/wiki/仁井聡子 "wikilink")
+  - [仁井聡子](../Page/仁井聡子.md "wikilink")
   - [大抜卓人](../Page/大抜卓人.md "wikilink")
   - [吉村昌広](../Page/吉村昌広.md "wikilink")
   - [中島ヒロト](../Page/中島ヒロト.md "wikilink")
@@ -65,10 +65,10 @@
   - [鈴木理恵](https://ja.wikipedia.org/wiki/鈴木理恵_\(ディスクジョッキー\) "wikilink")(-2009年10月)
   - [タケモトコウジ](../Page/タケモトコウジ.md "wikilink")(-2009年10月)
   - [尾上さとこ](https://ja.wikipedia.org/wiki/尾上さとこ "wikilink")
-  - [大和良子](https://ja.wikipedia.org/wiki/大和良子 "wikilink")
-  - [浜平恭子](https://ja.wikipedia.org/wiki/浜平恭子 "wikilink")
-  - [岡本祐佳](https://ja.wikipedia.org/wiki/岡本祐佳 "wikilink")
-  - [秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+  - [大和良子](../Page/大和良子.md "wikilink")
+  - [浜平恭子](../Page/浜平恭子.md "wikilink")
+  - [岡本祐佳](../Page/岡本祐佳.md "wikilink")
+  - [秀島史香](../Page/秀島史香.md "wikilink")
   - [武村貴世子](https://ja.wikipedia.org/wiki/武村貴世子 "wikilink")
 
 ほか

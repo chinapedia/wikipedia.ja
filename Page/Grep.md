@@ -1,7 +1,7 @@
 > この記事は[Grep](https://ja.wikipedia.org/wiki/Grep)から翻訳されています。
 
 
-**`grep`**（グレップ、グレプ）は、および[{{lang](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")におけるコマンド。[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")中から、[正規表現](../Page/正規表現.md "wikilink")に一致する行を検索して出力する。
+**`grep`**（グレップ、グレプ）は、および[{{lang](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")におけるコマンド。[テキストファイル](../Page/テキストファイル.md "wikilink")中から、[正規表現](../Page/正規表現.md "wikilink")に一致する行を検索して出力する。
 
 ## 概要
 

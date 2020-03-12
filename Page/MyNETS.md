@@ -1,11 +1,11 @@
 > この記事は[MyNETS](https://ja.wikipedia.org/wiki/MyNETS)から翻訳されています。
 
 
-**MyNETS**（マイネッツ）は、[データベース](../Page/データベース.md "wikilink")に[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")を利用し、[PHPで書かれた](../Page/PHP_\(プログラミング言語\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[SNS運営用サーバサイドプログラムである](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")。[PHPライセンスの下で配布されている](https://ja.wikipedia.org/wiki/PHP_License "wikilink")。
+**MyNETS**（マイネッツ）は、[データベース](../Page/データベース.md "wikilink")に[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")を利用し、[PHPで書かれた](../Page/PHP_\(プログラミング言語\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[SNS運営用サーバサイドプログラムである](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。[PHPライセンスの下で配布されている](https://ja.wikipedia.org/wiki/PHP_License "wikilink")。
 
 ## 歴史
 
-SNSエンジンである[OpenPNE](https://ja.wikipedia.org/wiki/OpenPNE "wikilink")2.4系からの派生プロジェクトとしてスタート。
+SNSエンジンである[OpenPNE](../Page/OpenPNE.md "wikilink")2.4系からの派生プロジェクトとしてスタート。
 
 Usagi Project が作成、開発を続けている。
 
@@ -25,7 +25,7 @@ Usagi Project が作成、開発を続けている。
 
 テンプレートエンジンは、[Smarty](https://ja.wikipedia.org/wiki/Smarty "wikilink")を採用。
 
-[OpenPNE](https://ja.wikipedia.org/wiki/OpenPNE "wikilink")2.4系から派生後、インストーラを標準で実装し、データベース接続ライブラリの高速化や細かなSQLのチューニングが施され、各種動作の高速化が図られている。
+[OpenPNE](../Page/OpenPNE.md "wikilink")2.4系から派生後、インストーラを標準で実装し、データベース接続ライブラリの高速化や細かなSQLのチューニングが施され、各種動作の高速化が図られている。
 
 また次期バージョンのMyNETS 2.0ではMapleフレームワークの採用が決定していたが、Maple4フレームワークが現状形になっていないので、MyNETS2のコアフレームワークは[CodeIgniter](https://ja.wikipedia.org/wiki/CodeIgniter "wikilink")を利用することとなった。
 

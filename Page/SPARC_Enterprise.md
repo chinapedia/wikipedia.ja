@@ -23,7 +23,7 @@ SPARC64 VI/VIIを搭載したサーバ。
 
 ### Tシリーズ
 
-サンの[UltraSPARC T1](https://ja.wikipedia.org/wiki/UltraSPARC_T1 "wikilink")/T2/T2 Plusを搭載したサーバ。
+サンの[UltraSPARC T1](../Page/UltraSPARC_T1.md "wikilink")/T2/T2 Plusを搭載したサーバ。
 
   - T5440 - 4CPU/32コア, ラックマウント(4U)
   - T5240 - 2CPU/16コア, ラックマウント(2U)

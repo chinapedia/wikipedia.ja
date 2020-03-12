@@ -1,7 +1,7 @@
 > この記事は[PASCII](https://ja.wikipedia.org/wiki/PASCII)から翻訳されています。
 
 
-**PASCII** () は、[文字コード](../Page/文字コード.md "wikilink")に関する[インド](../Page/インド.md "wikilink")の国家規格のひとつで、[ウルドゥー語](../Page/ウルドゥー語.md "wikilink")、[シンド語](https://ja.wikipedia.org/wiki/シンド語 "wikilink")、[カシミール語](https://ja.wikipedia.org/wiki/カシミール語 "wikilink")のための[アラビア文字](../Page/アラビア文字.md "wikilink")による[書記系](https://ja.wikipedia.org/wiki/書記系 "wikilink")の符号化を定めている。
+**PASCII** () は、[文字コード](../Page/文字コード.md "wikilink")に関する[インド](../Page/インド.md "wikilink")の国家規格のひとつで、[ウルドゥー語](../Page/ウルドゥー語.md "wikilink")、[シンド語](../Page/シンド語.md "wikilink")、[カシミール語](../Page/カシミール語.md "wikilink")のための[アラビア文字](../Page/アラビア文字.md "wikilink")による[書記系](https://ja.wikipedia.org/wiki/書記系 "wikilink")の符号化を定めている。
 
 ## 概説
 

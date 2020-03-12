@@ -1,9 +1,9 @@
 > この記事は[ \(Hits Village New York\)](https://ja.wikipedia.org/wiki/_\(Hits_Village_New_York\))から翻訳されています。
 
 
-**アカデミー・オブ・ミュージック Hits Village New York**（アカデミー・オブ・ミュージック ヒッツ ビレッジ ニューヨーク）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[道玄坂](../Page/道玄坂.md "wikilink")にある音楽学校。
+**アカデミー・オブ・ミュージック Hits Village New York**（アカデミー・オブ・ミュージック ヒッツ ビレッジ ニューヨーク）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[道玄坂](../Page/道玄坂.md "wikilink")にある音楽学校。
 
-[Boyz II Menの](https://ja.wikipedia.org/wiki/ボーイズIIメン "wikilink")[ネイザン・モリス](https://ja.wikipedia.org/wiki/ネイザン・モリス "wikilink")が名誉校長を務める、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")、[Pro Tools等の分野におけるプロ養成校](https://ja.wikipedia.org/wiki/Pro_Tools "wikilink")。ボイストレーニングに関しては、Boyz II MenやWhitney HoustonのボイストレーナーをつとめるGary Catona氏のVoice Building メソッドを国内において独占契約。
+[Boyz II Menの](../Page/ボーイズIIメン.md "wikilink")[ネイザン・モリス](https://ja.wikipedia.org/wiki/ネイザン・モリス "wikilink")が名誉校長を務める、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")、[Pro Tools等の分野におけるプロ養成校](../Page/Pro_Tools.md "wikilink")。ボイストレーニングに関しては、Boyz II MenやWhitney HoustonのボイストレーナーをつとめるGary Catona氏のVoice Building メソッドを国内において独占契約。
 
 [学校法人](../Page/学校法人.md "wikilink")ではない為、2年制修了時に[専門士](../Page/専門士.md "wikilink")の資格は取得出来ない。
 
@@ -14,7 +14,7 @@
 ## 沿革
 
   - [2003年](../Page/2003年.md "wikilink") アカデミー・オブ・ミュージック　Hits Village New York設立
-  - [2007年](../Page/2007年.md "wikilink") [Boyz II Menの](https://ja.wikipedia.org/wiki/ボーイズIIメン "wikilink")[ネイザン・モリス](https://ja.wikipedia.org/wiki/ネイザン・モリス "wikilink")が[名誉校長](../Page/名誉校長.md "wikilink")に就任
+  - [2007年](../Page/2007年.md "wikilink") [Boyz II Menの](../Page/ボーイズIIメン.md "wikilink")[ネイザン・モリス](https://ja.wikipedia.org/wiki/ネイザン・モリス "wikilink")が[名誉校長](../Page/名誉校長.md "wikilink")に就任
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") [absorb](https://ja.wikipedia.org/wiki/absorb "wikilink")が日本クラウンからメジャーデビュー
 
 ## 音楽学科

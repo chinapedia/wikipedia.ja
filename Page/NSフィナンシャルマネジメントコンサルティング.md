@@ -1,11 +1,11 @@
 > この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
 
 
-**NSフィナンシャルマネジメントコンサルティング株式会社**（エヌエス フィナンシャルマネジメントコンサルティング、[英語社名](https://ja.wikipedia.org/wiki/英文 "wikilink") *NSFMC Corporation*）は、日鉄ソリューションズグループの[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")会社。
+**NSフィナンシャルマネジメントコンサルティング株式会社**（エヌエス フィナンシャルマネジメントコンサルティング、[英語社名](https://ja.wikipedia.org/wiki/英文 "wikilink") *NSFMC Corporation*）は、日鉄ソリューションズグループの[コンサルティング](../Page/コンサルティング.md "wikilink")会社。
 
 ## 概要
 
-日鉄ソリューションズの100％子会社で、[金融機関](../Page/金融機関.md "wikilink")向けに[経営管理](https://ja.wikipedia.org/wiki/経営管理 "wikilink")、[内部統制](../Page/内部統制.md "wikilink")、[内部監査](../Page/内部監査.md "wikilink")などに関する[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")を行う。
+日鉄ソリューションズの100％子会社で、[金融機関](../Page/金融機関.md "wikilink")向けに[経営管理](https://ja.wikipedia.org/wiki/経営管理 "wikilink")、[内部統制](../Page/内部統制.md "wikilink")、[内部監査](../Page/内部監査.md "wikilink")などに関する[コンサルティング](../Page/コンサルティング.md "wikilink")を行う。
 
 ## 沿革
 
@@ -14,7 +14,7 @@
 
 ## 関連項目
 
-  - [日鉄ソリューションズ](https://ja.wikipedia.org/wiki/日鉄ソリューションズ "wikilink")
+  - [日鉄ソリューションズ](../Page/日鉄ソリューションズ.md "wikilink")
 
 ## 脚注
 

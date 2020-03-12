@@ -1,17 +1,17 @@
 > この記事は[ ANGEL EYES](https://ja.wikipedia.org/wiki/_ANGEL_EYES)から翻訳されています。
 
 
-**闘姫伝承 ANGEL EYES**（とうきでんしょう エンジェル アイズ）は、[テクモ](../Page/テクモ.md "wikilink")が発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。後に[プレイステーションに移植された](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。
+**闘姫伝承 ANGEL EYES**（とうきでんしょう エンジェル アイズ）は、[テクモ](../Page/テクモ.md "wikilink")が発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。後に[プレイステーションに移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
 
 ## 概要
 
 1996年に、[テクモ](../Page/テクモ.md "wikilink")が[アーケード向けに発売した](../Page/アーケードゲーム.md "wikilink")2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。発売された当時はまさに2D対戦格闘全盛期だったのだが、『[ストリートファイターZERO2](https://ja.wikipedia.org/wiki/ストリートファイターZERO2 "wikilink")』や『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』等の人気作が席巻していたこともあり、[基板があまり出回らず](../Page/アーケードゲーム基板.md "wikilink")、対戦人口も少なかった。
 
-[プレイヤーキャラクターは全員女性](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink")（アーケード向けとしては、この構成は初の試みとなっている）であり、2Dの[ドット絵](../Page/ドット絵.md "wikilink")で描かれたアニメ調のキャラクターと3DCGでモデリングされた[レンダリングキャラクターが入り乱れて闘う](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")。
+[プレイヤーキャラクターは全員女性](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink")（アーケード向けとしては、この構成は初の試みとなっている）であり、2Dの[ドット絵](../Page/ドット絵.md "wikilink")で描かれたアニメ調のキャラクターと3DCGでモデリングされた[レンダリングキャラクターが入り乱れて闘う](../Page/レンダリング_\(コンピュータ\).md "wikilink")。
 
-強力な連続攻撃とハイスピードなゲーム性が特徴で、ほぼ全てのキャラクターに即死連続技がある。ファンによる署名がきっかけとなり、1997年12月11日には[PlayStation版が発売され](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、隠しキャラクターやレンダリングを2Dで描き直したキャラクターが使えるといった要素が加えられた。
+強力な連続攻撃とハイスピードなゲーム性が特徴で、ほぼ全てのキャラクターに即死連続技がある。ファンによる署名がきっかけとなり、1997年12月11日には[PlayStation版が発売され](../Page/PlayStation_\(ゲーム機\).md "wikilink")、隠しキャラクターやレンダリングを2Dで描き直したキャラクターが使えるといった要素が加えられた。
 
-1997年1月には[ブロッコリーより](../Page/ブロッコリー_\(企業\).md "wikilink")[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")が発売されている。
+1997年1月には[ブロッコリーより](../Page/ブロッコリー_\(企業\).md "wikilink")[ドラマCD](../Page/ドラマCD.md "wikilink")が発売されている。
 
 本作品は、同時期に作られた『[デッド オア アライブ](https://ja.wikipedia.org/wiki/デッド_オア_アライブ "wikilink")』に会社が力を注いだため、様々な点でフォローが得られなかった。PlayStationへの移植企画が実現した事は奇跡に近く、移植スタッフの能力が高かった事は更なる幸運であった。その辺りの出来事は、後に開発スタッフによって作られた同人誌「ANGEL EYES (period.)」に詳しい。
 
@@ -45,9 +45,9 @@
     本名：**矢追 知美**（やおい ともみ）。アルバイトに精を出す清貧少女。強力なダッシュと当たり判定の小さい体を武器に戦う。父親とケーキが好き。
   - MYSTERIOUS POWER（ミステリアスパワー）
     声 - 七瀬里緒
-    本名：**谷 フジ子**（たに ふじこ）。地味な[カジノ](../Page/カジノ.md "wikilink")の[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")だが、グラマラスな謎の女に変身する。[光線銃](https://ja.wikipedia.org/wiki/光線銃 "wikilink")を武器とし、トリッキーな必殺技が多い。外国人だが日本語も得意。
+    本名：**谷 フジ子**（たに ふじこ）。地味な[カジノ](../Page/カジノ.md "wikilink")の[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")だが、グラマラスな謎の女に変身する。[光線銃](../Page/光線銃.md "wikilink")を武器とし、トリッキーな必殺技が多い。外国人だが日本語も得意。
   - KIRIKO（キリコ）
-    声 - [藤咲かおり](https://ja.wikipedia.org/wiki/藤咲かおり "wikilink")
+    声 - [藤咲かおり](../Page/藤咲かおり.md "wikilink")
     本名：**霞 霧湖**（かすみ きりこ）。抜け[忍](https://ja.wikipedia.org/wiki/忍 "wikilink")で、富豪の家に匿われ[メイド](../Page/メイド.md "wikilink")として働いている。スピードが早く、二本の[クナイを使った強力な攻撃が持ち味](https://ja.wikipedia.org/wiki/くない "wikilink")。3D3Dキャラクターの一人。動物とも話せる心を持っている。
   - **HIGHWAY STAR**（ハイウェイスター）
     声 - [柏平佳代](https://ja.wikipedia.org/wiki/柏平佳代 "wikilink")
@@ -171,7 +171,7 @@
       - ナレーター - [山崎優](https://ja.wikipedia.org/wiki/山崎優 "wikilink")
       - ライヤ＆チビ子 - [静木亜美](../Page/静木亜美.md "wikilink")
       - レイカ＆ミステリアスパワー - [七瀬里緒](https://ja.wikipedia.org/wiki/七瀬里緒 "wikilink")
-      - マリー＆キング＆キリコ - [藤咲かおり](https://ja.wikipedia.org/wiki/藤咲かおり "wikilink")
+      - マリー＆キング＆キリコ - [藤咲かおり](../Page/藤咲かおり.md "wikilink")
       - ハイウェイスター＆リナ - [柏平佳代](https://ja.wikipedia.org/wiki/柏平佳代 "wikilink")
       - 悪魔モロッコ - [滝浪倫邦](https://ja.wikipedia.org/wiki/滝浪倫邦 "wikilink")
       - 部下A - 蓮透

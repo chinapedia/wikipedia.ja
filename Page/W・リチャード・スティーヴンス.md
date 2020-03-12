@@ -5,14 +5,14 @@
 
 ## 生涯
 
-リチャード・スティーヴンスは1951年、[北ローデシア](../Page/北ローデシア.md "wikilink")（現[ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")）の[ルアンシャ](https://ja.wikipedia.org/wiki/ルアンシャ "wikilink")出身。父親は銅産業に従事していた。一家が[ユタ州](../Page/ユタ州.md "wikilink")[ソルトレイクシティ](../Page/ソルトレイクシティ.md "wikilink")、[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")を転々としたあと、スティーヴンスは[ヴァージニア州](../Page/バージニア州.md "wikilink")のに入学する。1973年に[ミシガン大学](https://ja.wikipedia.org/wiki/ミシガン大学 "wikilink")で[航空宇宙工学](https://ja.wikipedia.org/wiki/航空宇宙工学 "wikilink")の理学学士号を取得。1975年に[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[ツーソン](https://ja.wikipedia.org/wiki/ツーソン "wikilink")に移住し、[キットピーク国立天文台](../Page/キットピーク国立天文台.md "wikilink")のプログラマーとして働きながら、[アリゾナ大学](../Page/アリゾナ大学.md "wikilink")から1978年に修士号、1982年にはシステム工学の博士号を取得する。1982年から1990年には[ニューヘイブンのHealth](https://ja.wikipedia.org/wiki/ニューヘイブン_\(コネチカット州\) "wikilink") Systems International社コンピューティングサービスの副社長の地位にあった。1990年にツーソンに戻り、そこでライターとコンサルタントとしてのキャリアを重ねた。彼はまた熱心なパイロットでもあり、1970年代にはパートタイムの飛行インストラクターも勤めた。
+リチャード・スティーヴンスは1951年、[北ローデシア](../Page/北ローデシア.md "wikilink")（現[ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")）の[ルアンシャ](https://ja.wikipedia.org/wiki/ルアンシャ "wikilink")出身。父親は銅産業に従事していた。一家が[ユタ州](../Page/ユタ州.md "wikilink")[ソルトレイクシティ](../Page/ソルトレイクシティ.md "wikilink")、[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")を転々としたあと、スティーヴンスは[ヴァージニア州](../Page/バージニア州.md "wikilink")のに入学する。1973年に[ミシガン大学](../Page/ミシガン大学.md "wikilink")で[航空宇宙工学](../Page/航空宇宙工学.md "wikilink")の理学学士号を取得。1975年に[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[ツーソン](../Page/ツーソン.md "wikilink")に移住し、[キットピーク国立天文台](../Page/キットピーク国立天文台.md "wikilink")のプログラマーとして働きながら、[アリゾナ大学](../Page/アリゾナ大学.md "wikilink")から1978年に修士号、1982年にはシステム工学の博士号を取得する。1982年から1990年には[ニューヘイブンのHealth](../Page/ニューヘイブン_\(コネチカット州\).md "wikilink") Systems International社コンピューティングサービスの副社長の地位にあった。1990年にツーソンに戻り、そこでライターとコンサルタントとしてのキャリアを重ねた。彼はまた熱心なパイロットでもあり、1970年代にはパートタイムの飛行インストラクターも勤めた。
 
-スティーヴンスは1999年に死去。48歳であった。2000年には[USENIX](https://ja.wikipedia.org/wiki/USENIX "wikilink")からUSENIX貢献賞が授与されている。
+スティーヴンスは1999年に死去。48歳であった。2000年には[USENIX](../Page/USENIX.md "wikilink")からUSENIX貢献賞が授与されている。
 
 ## 書籍リスト
 
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - *UNIX Network Programming* - ISBN 0-13-949876-1
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") - *Advanced Programming in the UNIX Environment* - ISBN 0-201-56317-7
+  - [1992年](../Page/1992年.md "wikilink") - *Advanced Programming in the UNIX Environment* - ISBN 0-201-56317-7
   - [1994年](../Page/1994年.md "wikilink") - *TCP/IP Illustrated, Volume 1: The Protocols* - ISBN 0-201-63346-9
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - *TCP/IP Illustrated, Volume 2: The Implementation* (Gary R. Wrightと共著) - ISBN 0-201-63354-X
   - [1996年](../Page/1996年.md "wikilink") - *TCP/IP Illustrated, Volume 3: TCP for Transactions, [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink"), [NNTP](../Page/Network_News_Transfer_Protocol.md "wikilink"), and the [UNIX Domain](https://ja.wikipedia.org/wiki/UNIXドメインソケット "wikilink") Protocols* - ISBN 0-201-63495-3

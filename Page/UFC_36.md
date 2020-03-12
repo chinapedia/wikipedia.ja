@@ -5,9 +5,9 @@
 
 ## 大会概要
 
-メインイベントの世界ヘビー級タイトルマッチでは、挑戦者[ジョシュ・バーネット](../Page/ジョシュ・バーネット.md "wikilink")が王者[ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")にTKO勝ちし、全階級を通じて史上最年少となる24歳でのUFC王座戴冠を果たしたが、試合後の薬物検査で陽性反応となり、王座は剥奪された。
+メインイベントの世界ヘビー級タイトルマッチでは、挑戦者[ジョシュ・バーネット](../Page/ジョシュ・バーネット.md "wikilink")が王者[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")にTKO勝ちし、全階級を通じて史上最年少となる24歳でのUFC王座戴冠を果たしたが、試合後の薬物検査で陽性反応となり、王座は剥奪された。
 
-第6試合の世界ウェルター級タイトルマッチでは、王者[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")が前[修斗](https://ja.wikipedia.org/wiki/修斗 "wikilink")ミドル級（-76kg）王者[桜井"マッハ"速人からTKO勝ちを収め王座の初防衛に成功した](https://ja.wikipedia.org/wiki/桜井速人 "wikilink")。
+第6試合の世界ウェルター級タイトルマッチでは、王者[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")が前[修斗](../Page/修斗.md "wikilink")ミドル級（-76kg）王者[桜井"マッハ"速人からTKO勝ちを収め王座の初防衛に成功した](../Page/桜井速人.md "wikilink")。
 
 ## 試合結果
 
@@ -16,26 +16,26 @@
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第2試合 ライト級 5分3R
     ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  ケリー・デュランティ ×
-    1R 2:58 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    1R 2:58 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第3試合 ヘビー級 5分3R
     ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") ×
-    1R 0:46 [新型キムラアームバー](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 0:46 [新型キムラアームバー](../Page/腕挫十字固.md "wikilink")
   - 第4試合 ライトヘビー級 5分3R
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  [エルヴィス・シノシック](../Page/エルヴィス・シノシック.md "wikilink") ×
     1R 2:06 TKO（ドクターストップ：カット）
   - 第5試合 ミドル級 5分3R
-    ○  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") vs.  [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink") ×
-    1R 3:09 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") vs.  [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink") ×
+    1R 3:09 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第6試合 UFC世界ウェルター級タイトルマッチ 5分5R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [桜井"マッハ"速人](https://ja.wikipedia.org/wiki/桜井速人 "wikilink") ×
-    4R 3:01 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [桜井"マッハ"速人](../Page/桜井速人.md "wikilink") ×
+    4R 3:01 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※ヒューズが王座の初防衛に成功。
   - 第7試合 ヘビー級 5分3R
-    ○  [ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink") vs.  [アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink") ×
+    ○  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") vs.  [アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink") ×
     3R 1:45 KO（スタンドパンチ連打）
   - 第8試合 UFC世界ヘビー級タイトルマッチ 5分5R
-    ○  [ジョシュ・バーネット](../Page/ジョシュ・バーネット.md "wikilink") vs.  [ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink") ×
-    2R 4:35 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ジョシュ・バーネット](../Page/ジョシュ・バーネット.md "wikilink") vs.  [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink") ×
+    2R 4:35 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※バーネットが王座獲得に成功。
 
 ## 脚注
@@ -43,7 +43,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

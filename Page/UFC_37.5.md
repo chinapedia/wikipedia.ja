@@ -1,11 +1,11 @@
 > この記事は[UFC 37.5](https://ja.wikipedia.org/wiki/UFC_37.5)から翻訳されています。
 
 
-**UFC 37.5: As Real As It Gets**（ユーエフシー・サーティーセブン・ポイント・ファイブ：アズ・リアル・アズ・イット・ゲッツ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2002年](../Page/2002年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ベラージオで開催された](https://ja.wikipedia.org/wiki/ベラージオ_\(ホテル\) "wikilink")。
+**UFC 37.5: As Real As It Gets**（ユーエフシー・サーティーセブン・ポイント・ファイブ：アズ・リアル・アズ・イット・ゲッツ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2002年](../Page/2002年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ベラージオで開催された](../Page/ベラージオ_\(ホテル\).md "wikilink")。
 
 すでに本大会の3週間後に[UFC 38の開催が決定し](../Page/UFC_38.md "wikilink")、プロモーション活動も開始していたため、その後に企画された本大会では大会名に「37.5」という数字が用いられた。大会は一部のカードを除いてUFCの大会として初めて無料放送され、後日PPVによる放送が実施された。
 
-大会メインイベントでは[チャック・リデル](../Page/チャック・リデル.md "wikilink")と[ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink")によるライトヘビー級戦が行われた。
+大会メインイベントでは[チャック・リデル](../Page/チャック・リデル.md "wikilink")と[ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink")によるライトヘビー級戦が行われた。
 
 ## 大会概要
 
@@ -20,18 +20,18 @@
     1R 1:19 TKO（ドクターストップ：腕の負傷）
   - 第2試合 ミドル級 5分3R
     ○  トニー・フリックランド vs.  ホドリゴ・ファス ×
-    2R 3:34 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 3:34 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 ウェルター級 5分3R
     ○  [ロビー・ローラー](../Page/ロビー・ローラー.md "wikilink") vs.  スティーブ・バーガー ×
-    2R 0:27 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    2R 0:27 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 ウェルター級 5分3R
     ○  ピート・スプラット vs.  ザック・ライト ×
-    1R 2:25 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 2:25 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第5試合 ウェルター級 5分3R
     ○  [ベンジー・ラダック](https://ja.wikipedia.org/wiki/ベンジー・ラダック "wikilink") vs.  ニック・セラ ×
     3R終了 判定3-0（29-28、30-27、30-27）
   - 第6試合 ライトヘビー級 5分3R
-    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink") ×
+    ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、29-28）
 
 ## 関連項目

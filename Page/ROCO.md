@@ -5,7 +5,7 @@
 
 ## 来歴
 
-幼少時に歌うことの楽しさを知り、高校時代にギターと曲作りを始め、専門学校時代にロックを始める。バンド活動を経てソロになり、2001年に1stミニアルバム『HIMALAYA』を発表。その後、1stアルバム『コミカルライフ』が[ヴィレッジヴァンガードを通じて口コミで好セールスを記録した](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード_\(書籍・雑貨店\) "wikilink")。そして、2006年にリリースした3枚目のアルバム『カラフルファンファーレ』は発売後3か月で2万枚のセールスを記録。また、3rdアルバム収録曲の「カラフルファンファーレ」が、[カートゥーン ネットワークのアニメ](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")『[ペッパ ピッグ](https://ja.wikipedia.org/wiki/ペッパピッグ "wikilink")』のテーマソングに採用された。その他、楽曲提供やテレビ番組のナビゲーターなど幅広い活動をしている。[ジャズ](../Page/ジャズ.md "wikilink")を広く受け入れられるようにポップ調にアレンジした“玩具ジャズ”という独自のジャンルを突き進んでいる。2010年、童謡にジャズのテイストを加え、ポップ調にアレンジしたカバーアルバム『こどもじゃず』を発売。カバーアルバムとしては異例の大ヒットを収め、続編も好調な売れ行きを見せ、こどもじゃずシリーズ全体で10万枚以上を売り上げている。
+幼少時に歌うことの楽しさを知り、高校時代にギターと曲作りを始め、専門学校時代にロックを始める。バンド活動を経てソロになり、2001年に1stミニアルバム『HIMALAYA』を発表。その後、1stアルバム『コミカルライフ』が[ヴィレッジヴァンガードを通じて口コミで好セールスを記録した](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")。そして、2006年にリリースした3枚目のアルバム『カラフルファンファーレ』は発売後3か月で2万枚のセールスを記録。また、3rdアルバム収録曲の「カラフルファンファーレ」が、[カートゥーン ネットワークのアニメ](../Page/カートゥーン_ネットワーク.md "wikilink")『[ペッパ ピッグ](https://ja.wikipedia.org/wiki/ペッパピッグ "wikilink")』のテーマソングに採用された。その他、楽曲提供やテレビ番組のナビゲーターなど幅広い活動をしている。[ジャズ](../Page/ジャズ.md "wikilink")を広く受け入れられるようにポップ調にアレンジした“玩具ジャズ”という独自のジャンルを突き進んでいる。2010年、童謡にジャズのテイストを加え、ポップ調にアレンジしたカバーアルバム『こどもじゃず』を発売。カバーアルバムとしては異例の大ヒットを収め、続編も好調な売れ行きを見せ、こどもじゃずシリーズ全体で10万枚以上を売り上げている。
 
 ## ディスコグラフィ
 
@@ -71,7 +71,7 @@
 <td><p>APPR-2201</p></td>
 <td><ol>
 <li>スペシャルメニュー</li>
-<li>カラフルファンファーレ （<a href="https://ja.wikipedia.org/wiki/カートゥーンネットワーク" title="wikilink">カートゥーンネットワーク</a>『ペッパ ピッグ』テーマソング、<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>『<a href="https://ja.wikipedia.org/wiki/ブログの女王" title="wikilink">ブログの女王</a>』エンディングテーマ）</li>
+<li>カラフルファンファーレ （<a href="https://ja.wikipedia.org/wiki/カートゥーンネットワーク" title="wikilink">カートゥーンネットワーク</a>『ペッパ ピッグ』テーマソング、<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>『<a href="../Page/ブログの女王.md" title="wikilink">ブログの女王</a>』エンディングテーマ）</li>
 <li>ジンジン</li>
 <li>メロディーアーチ</li>
 <li>スモールタウンショップ</li>
@@ -120,7 +120,7 @@ apart.RECORDS</p></td>
 <li>ナミダラプソディ</li>
 <li>さよならダーリン</li>
 <li>ドラマティックジャーニー</li>
-<li>ハミングクローバー（<a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>『<a href="https://ja.wikipedia.org/wiki/ナマ・イキVOICE" title="wikilink">ナマ・イキVOICE</a>』2009年5月度エンディングテーマ）</li>
+<li>ハミングクローバー（<a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>『<a href="../Page/ナマ・イキVOICE.md" title="wikilink">ナマ・イキVOICE</a>』2009年5月度エンディングテーマ）</li>
 </ol></td>
 <td><p>apart.RECORDS</p></td>
 </tr>
@@ -284,7 +284,7 @@ apart.RECORDS</p></td>
 <li>アイスクリームの唄</li>
 <li><a href="https://ja.wikipedia.org/wiki/アルプス一万尺" title="wikilink">アルプス一万尺</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/おお牧場はみどり" title="wikilink">おお牧場はみどり</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/線路は続くよどこまでも" title="wikilink">線路は続くよどこまでも</a></li>
+<li><a href="../Page/線路は続くよどこまでも.md" title="wikilink">線路は続くよどこまでも</a></li>
 <li>およげ!たいやきくん</li>
 <li>マーチングマーチ</li>
 <li><a href="https://ja.wikipedia.org/wiki/おんまはみんな" title="wikilink">おんまはみんな</a></li>
@@ -510,7 +510,7 @@ apart.RECORDS</p></td>
 
 ## テレビ
 
-  - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")「music SCR（ミュージックスクロール）」ナビゲーター
+  - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")「music SCR（ミュージックスクロール）」ナビゲーター
 
 ## ラジオ
 

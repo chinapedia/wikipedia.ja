@@ -13,7 +13,7 @@
 
 ## ゲーム内容
 
-章を選択するとアニメーションデモのあとにバトルへと移る。ゲームは[孫悟空もしくは](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")を操作して半オートで戦う「オートバトル画面を中心に展開し、そこでパワーバランスを振り切ると、必殺技で相手にダメージを与えることができる「チェーンヒット画面」へと切り替わる。
+章を選択するとアニメーションデモのあとにバトルへと移る。ゲームは[孫悟空もしくは](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")[孫悟飯](../Page/孫悟飯.md "wikilink")を操作して半オートで戦う「オートバトル画面を中心に展開し、そこでパワーバランスを振り切ると、必殺技で相手にダメージを与えることができる「チェーンヒット画面」へと切り替わる。
 
 ### オートバトル画面
 
@@ -46,7 +46,7 @@
 攻撃側は時間内に必殺技を選ぶ。必殺技は「行動タイプ」「技タイプ」「気ゲージの量」の組み合わせによって変わってくる。
 
   -
-    例）「静止」+「シュート」+「気ゲージ70%以上」=[かめはめ波](https://ja.wikipedia.org/wiki/かめはめ波 "wikilink")
+    例）「静止」+「シュート」+「気ゲージ70%以上」=[かめはめ波](../Page/かめはめ波.md "wikilink")
 
 悟空が出せる必殺技は選択した章によって変わってくる。また特定のステージで特殊な条件を満たすと、原作を再現した特殊な技を出すことができる。
 
@@ -66,9 +66,9 @@
 
 ## ストーリー
 
-悟空があの世から帰ってくる[天下一武道会](https://ja.wikipedia.org/wiki/天下一武道会 "wikilink")を翌日に控え、父親を知らない悟天のために悟飯が、過去の主な戦いを題材に父親がどういう人物だったのかを回想するというもので、回想中の戦闘シーンをプレイヤーが操作することになる。全7章からなり、各章ごとに当時の状況を解説してくれる人物が現れる。
+悟空があの世から帰ってくる[天下一武道会](../Page/天下一武道会.md "wikilink")を翌日に控え、父親を知らない悟天のために悟飯が、過去の主な戦いを題材に父親がどういう人物だったのかを回想するというもので、回想中の戦闘シーンをプレイヤーが操作することになる。全7章からなり、各章ごとに当時の状況を解説してくれる人物が現れる。
 
-  - 第1章 [レッドリボン軍](https://ja.wikipedia.org/wiki/レッドリボン軍 "wikilink")との戦い
+  - 第1章 [レッドリボン軍](../Page/レッドリボン軍.md "wikilink")との戦い
       -
         対戦相手：桃白白
         解説：ブルマ
@@ -88,7 +88,7 @@
       -
         対戦相手：ベジータ
         解説：ピッコロ
-  - 第6章 [ナメック星](https://ja.wikipedia.org/wiki/ナメック星 "wikilink")の激闘
+  - 第6章 [ナメック星](../Page/ナメック星.md "wikilink")の激闘
       -
         対戦相手：フリーザ
         解説：ベジータ （※聞き役として幼年期のトランクスも登場）
@@ -103,54 +103,54 @@
 
 ### プレイヤーキャラクター
 
-  - [孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")
+  - [孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")
     [声](../Page/声優.md "wikilink") - [野沢雅子](../Page/野沢雅子.md "wikilink")
     第1章から第3章までは少年、第4章から第6章の途中までは青年、第6章の途中から第7章までは青年（超サイヤ人）の姿。
-  - [孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")
+  - [孫悟飯](../Page/孫悟飯.md "wikilink")
     声 - 野沢雅子
     第7章のみ操作可能。少年（超サイヤ人）の姿。
 
 ### 敵キャラクター
 
   - [桃白白](../Page/桃白白.md "wikilink")
-    声 - [岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")
-  - [天津飯](https://ja.wikipedia.org/wiki/天津飯_\(ドラゴンボール\) "wikilink")
+    声 - [岸野幸正](../Page/岸野幸正.md "wikilink")
+  - [天津飯](../Page/天津飯_\(ドラゴンボール\).md "wikilink")
     声 - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
   - [ピッコロ大魔王](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ大魔王 "wikilink")
     声 - [青野武](../Page/青野武.md "wikilink")
   - [ピッコロ](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ（マジュニア） "wikilink")
     声 - [古川登志夫](../Page/古川登志夫.md "wikilink")
-  - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")
+  - [ベジータ](../Page/ベジータ.md "wikilink")
     声 - [堀川亮](../Page/堀川りょう.md "wikilink")
   - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")
     声 - [中尾隆聖](../Page/中尾隆聖.md "wikilink")
-  - [セル](https://ja.wikipedia.org/wiki/セル_\(ドラゴンボール\) "wikilink")
+  - [セル](../Page/セル_\(ドラゴンボール\).md "wikilink")
     声 - [若本規夫](../Page/若本規夫.md "wikilink")
 
 ### その他のキャラクター
 
-  - [孫悟天](https://ja.wikipedia.org/wiki/孫悟天 "wikilink")
+  - [孫悟天](../Page/孫悟天.md "wikilink")
     声 - 野沢雅子
 
-  - [クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")
+  - [クリリン](../Page/クリリン.md "wikilink")
     声 - [田中真弓](../Page/田中真弓.md "wikilink")
 
-  - [ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")
+  - [ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")
     声 - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
 
   - [ヤムチャ](../Page/ヤムチャ.md "wikilink")
     声 - [古谷徹](../Page/古谷徹.md "wikilink")
 
-  - [チチ](https://ja.wikipedia.org/wiki/チチ_\(ドラゴンボール\) "wikilink")
-    声 - [渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")
+  - [チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")
+    声 - [渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
 
-  - [ミスター・サタン](https://ja.wikipedia.org/wiki/ミスター・サタン "wikilink")
-    声 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - [ミスター・サタン](../Page/ミスター・サタン.md "wikilink")
+    声 - [郷里大輔](../Page/郷里大輔.md "wikilink")
 
-  - [亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")
-    声 - [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")
+  - [亀仙人](../Page/亀仙人.md "wikilink")
+    声 - [宮内幸平](../Page/宮内幸平.md "wikilink")
 
-  - [トランクス](https://ja.wikipedia.org/wiki/トランクス_\(ドラゴンボール\) "wikilink")
+  - [トランクス](../Page/トランクス_\(ドラゴンボール\).md "wikilink")
     声 - [草尾毅](../Page/草尾毅.md "wikilink")
 
   - [ビーデル](../Page/ビーデル.md "wikilink")
@@ -180,14 +180,14 @@
   -
     第4章のみ登場。
 
-  - [ヤジロベー](https://ja.wikipedia.org/wiki/ヤジロベー "wikilink")
+  - [ヤジロベー](../Page/ヤジロベー.md "wikilink")
 
 <!-- end list -->
 
   -
     第4章のみ登場。
 
-  - [ラディッツ](https://ja.wikipedia.org/wiki/ラディッツ "wikilink")
+  - [ラディッツ](../Page/ラディッツ.md "wikilink")
 
 <!-- end list -->
 
@@ -209,12 +209,12 @@
 
   - オープニングテーマ
 
-:; 「[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")」
+:; 「[CHA-LA HEAD-CHA-LA](../Page/CHA-LA_HEAD-CHA-LA.md "wikilink")」
 
-  - 歌：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")（[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
-  - 作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")
+  - 歌：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")（[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
+  - 作詞：[森雪之丞](../Page/森雪之丞.md "wikilink")
   - 作曲：[清岡千穂](../Page/清岡千穂.md "wikilink")
-  - 編曲：[山本健司](https://ja.wikipedia.org/wiki/山本健司 "wikilink")
+  - 編曲：[山本健司](../Page/山本健司.md "wikilink")
   - 音楽：Zsound project
   - パブリシティデザイン協力：クリエイティブNOAH
 
@@ -229,9 +229,9 @@
   - ビジュアルグラフィック：荒木貴志、佐々木浩司、佐原美奈子、一色直郎、相原高幸、宇野道夫、玉根優子、墳崎一也、芹沢俊和、江崎稔
   - PSG制作：島村孝一
   - アニメーション制作
-      - 脚本：[小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")
+      - 脚本：[小山高生](../Page/小山高生.md "wikilink")
       - 演出：上田芳裕
-      - 録音監督：[西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")
+      - 録音監督：[西尾大介](../Page/西尾大介.md "wikilink")
       - 作画監督：[志田直俊](https://ja.wikipedia.org/wiki/志田直俊 "wikilink")
       - 美術設定：吉田智子
       - 原画：志田直俊、井出武生、稲葉仁
@@ -245,14 +245,14 @@
       - 制作担当：末永雄一
       - 動画：谷藤朋子、白神弘美、石渡清美、江夏由結、倉田綾子、尾島浩子、小窪久利、井上邦彦、山下恵、古川真也、大宮ルミ子、西脇宮子、片岡英之、橘美穂、千葉護、松田千織、楠知津子、上杉千佳子、赤間てる子、足立聡美、長野まりえ、荻森啓子
   - スペシャル・サンクス：
-      - [週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")編集部：[堀江信彦](https://ja.wikipedia.org/wiki/堀江信彦 "wikilink")、武田冬門、町田宗治
-      - [月刊Vジャンプ編集部](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")：[鳥嶋和彦](https://ja.wikipedia.org/wiki/鳥嶋和彦 "wikilink")、[高橋俊昌](https://ja.wikipedia.org/wiki/高橋俊昌 "wikilink")、岡本堅史、松本常男、赤松直人、清野義孝
-  - 林広幸、宮川恭夫、渡辺浩孝、田中庸介、ドラゴン鈴木、[森下孝三](https://ja.wikipedia.org/wiki/森下孝三 "wikilink")、武田寛、蛭田成一
+      - [週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")編集部：[堀江信彦](../Page/堀江信彦.md "wikilink")、武田冬門、町田宗治
+      - [月刊Vジャンプ編集部](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")：[鳥嶋和彦](../Page/鳥嶋和彦.md "wikilink")、[高橋俊昌](../Page/高橋俊昌.md "wikilink")、岡本堅史、松本常男、赤松直人、清野義孝
+  - 林広幸、宮川恭夫、渡辺浩孝、田中庸介、ドラゴン鈴木、[森下孝三](../Page/森下孝三.md "wikilink")、武田寛、蛭田成一
   - 制作：[株式会社バンダイ](../Page/バンダイナムコエンターテインメント.md "wikilink")
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では6・7・7・6の合計26点（満40点）\[1\]、『[電撃PCエンジン](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』では85・85・90・85の平均86.25点（満100点）、『[PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.1点（満30点）となっている\[2\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では6・7・7・6の合計26点（満40点）\[1\]、『[電撃PCエンジン](../Page/電撃G's_magazine.md "wikilink")』では85・85・90・85の平均86.25点（満100点）、『[PC Engine FAN](../Page/PC_Engine_FAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.1点（満30点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
@@ -260,7 +260,7 @@
 
 ## 関連項目
 
-  - [ドラゴンボールZ 偉大なるドラゴンボール伝説](https://ja.wikipedia.org/wiki/ドラゴンボールZ_偉大なるドラゴンボール伝説 "wikilink") - 本作の流れを汲んだゲームソフト
+  - [ドラゴンボールZ 偉大なるドラゴンボール伝説](../Page/ドラゴンボールZ_偉大なるドラゴンボール伝説.md "wikilink") - 本作の流れを汲んだゲームソフト
 
 ## 脚注
 

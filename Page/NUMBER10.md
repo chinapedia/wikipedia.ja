@@ -1,7 +1,7 @@
 > この記事は[NUMBER10](https://ja.wikipedia.org/wiki/NUMBER10)から翻訳されています。
 
 
-『**NUMBER10**』（ナンバーテン）は、[2002年](../Page/2002年.md "wikilink")25号から34号まで[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。作者は[キユ](https://ja.wikipedia.org/wiki/松井勝法 "wikilink")。
+『**NUMBER10**』（ナンバーテン）は、[2002年](../Page/2002年.md "wikilink")25号から34号まで[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。作者は[キユ](../Page/松井勝法.md "wikilink")。
 
 [サッカー漫画](../Page/サッカー漫画.md "wikilink")。キユの2作目の連載作品。前作『[ロケットでつきぬけろ\!](../Page/ロケットでつきぬけろ!.md "wikilink")』同様10週打ち切りとなる。
 

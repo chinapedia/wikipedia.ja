@@ -5,13 +5,13 @@
 
 ## 大会概要
 
-メインイベントの世界ミドル級タイトルマッチでは、1Rに王者[ムリーロ・ブスタマンチ](https://ja.wikipedia.org/wiki/ムリーロ・ブスタマンチ "wikilink")がキャリア7戦全勝の挑戦者[マット・リンドランド](../Page/マット・リンドランド.md "wikilink")を[腕ひしぎ十字固めに捕らえ](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")、リンドランドがタップしたように見えたためブスタマンチが腕ひしぎ十字固めを解いてしまったが、レフェリーが見逃したため試合は続行され、3Rに改めてフロントチョークによる決着となった。
+メインイベントの世界ミドル級タイトルマッチでは、1Rに王者[ムリーロ・ブスタマンチ](../Page/ムリーロ・ブスタマンチ.md "wikilink")がキャリア7戦全勝の挑戦者[マット・リンドランド](../Page/マット・リンドランド.md "wikilink")を[腕ひしぎ十字固めに捕らえ](../Page/腕挫十字固.md "wikilink")、リンドランドがタップしたように見えたためブスタマンチが腕ひしぎ十字固めを解いてしまったが、レフェリーが見逃したため試合は続行され、3Rに改めてフロントチョークによる決着となった。
 
 なお、出場予定であったジョン・ピエリーニが欠場のため、替わってスティーブ・バーガーが出場した\[1\]。
 
-また、出場が予定されていた[ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink")は伝染病の投薬治療の副作用のため体調が悪化し、欠場となった。
+また、出場が予定されていた[ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink")は伝染病の投薬治療の副作用のため体調が悪化し、欠場となった。
 
-[HOOKnSHOOT](https://ja.wikipedia.org/wiki/HOOKnSHOOT "wikilink")世界ミドル級王者[アイヴァン・サラベリー](https://ja.wikipedia.org/wiki/アイヴァン・サラベリー "wikilink")、キャリア10戦全勝の[ベンジー・ラダック](https://ja.wikipedia.org/wiki/ベンジー・ラダック "wikilink")がUFCデビュー。
+[HOOKnSHOOT](https://ja.wikipedia.org/wiki/HOOKnSHOOT "wikilink")世界ミドル級王者[アイヴァン・サラベリー](../Page/アイヴァン・サラベリー.md "wikilink")、キャリア10戦全勝の[ベンジー・ラダック](https://ja.wikipedia.org/wiki/ベンジー・ラダック "wikilink")がUFCデビュー。
 
 ## 試合結果
 
@@ -23,28 +23,28 @@
   - 第2試合 ウェルター級 5分3R
     \-  [ベンジー・ラダック](https://ja.wikipedia.org/wiki/ベンジー・ラダック "wikilink") vs.  スティーブ・バーガー －
     1R 0:27 無効試合（反則）
-    ※当初はラダックの[パウンドによるTKO勝ちとされたが](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")、反則のパンチを使用していたとして、同年6月13日にルイジアナ州アスレチック・コミッションの裁定により無効試合となった。
+    ※当初はラダックの[パウンドによるTKO勝ちとされたが](../Page/グラウンドパンチ.md "wikilink")、反則のパンチを使用していたとして、同年6月13日にルイジアナ州アスレチック・コミッションの裁定により無効試合となった。
   - 第3試合 ミドル級 5分3R
-    ○  [アイヴァン・サラベリー](https://ja.wikipedia.org/wiki/アイヴァン・サラベリー "wikilink") vs.  [アンドレイ・シモノフ](../Page/アンドレイ・シモノフ.md "wikilink") ×
-    3R 2:27 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [アイヴァン・サラベリー](../Page/アイヴァン・サラベリー.md "wikilink") vs.  [アンドレイ・シモノフ](../Page/アンドレイ・シモノフ.md "wikilink") ×
+    3R 2:27 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
 
 ### メインカード
 
   - 第4試合 ライト級 5分3R
-    ○  [宇野薫](https://ja.wikipedia.org/wiki/宇野薫 "wikilink") vs.  [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") ×
+    ○  [宇野薫](../Page/宇野薫.md "wikilink") vs.  [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") ×
     3R終了 判定3-0（29-28、30-29、29-28）
   - 第5試合 ミドル級 5分3R
-    ○  [フィル・バローニ](https://ja.wikipedia.org/wiki/フィル・バローニ "wikilink") vs.  [アマール・スロエフ](https://ja.wikipedia.org/wiki/アマール・スロエフ "wikilink") ×
-    1R 2:55 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [フィル・バローニ](../Page/フィル・バローニ.md "wikilink") vs.  [アマール・スロエフ](../Page/アマール・スロエフ.md "wikilink") ×
+    1R 2:55 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第6試合 ライト級 5分3R
-    ○  [BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink") vs.  ポール・クレイトン ×
-    2R 3:23 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [BJ・ペン](../Page/BJ・ペン.md "wikilink") vs.  ポール・クレイトン ×
+    2R 3:23 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ヘビー級 5分3R
-    ○  [リコ・ロドリゲス](../Page/リコ・ロドリゲス_\(格闘家\).md "wikilink") vs.  [高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink") ×
-    2R 3:25 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [リコ・ロドリゲス](../Page/リコ・ロドリゲス_\(格闘家\).md "wikilink") vs.  [高阪剛](../Page/高阪剛.md "wikilink") ×
+    2R 3:25 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 UFC世界ミドル級タイトルマッチ 5分5R
-    ○  [ムリーロ・ブスタマンチ](https://ja.wikipedia.org/wiki/ムリーロ・ブスタマンチ "wikilink") vs.  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") ×
-    3R 1:33 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    ○  [ムリーロ・ブスタマンチ](../Page/ムリーロ・ブスタマンチ.md "wikilink") vs.  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") ×
+    3R 1:33 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
     ※ブスタマンチが王座の初防衛に成功。
 
 ## 脚注
@@ -52,7 +52,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 「fiesta\! fiesta\!」は、本人出演、[花王](../Page/花王.md "wikilink")「レイシャス」CMソング。楽曲プロデュースは[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")が担当。この曲のプロモーションビデオの振り付けを担当したのは[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")の[SAMで](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")、PVにも出演している。
+  - 「fiesta\! fiesta\!」は、本人出演、[花王](../Page/花王.md "wikilink")「レイシャス」CMソング。楽曲プロデュースは[久保田利伸](../Page/久保田利伸.md "wikilink")が担当。この曲のプロモーションビデオの振り付けを担当したのは[TRF](../Page/TRF.md "wikilink")の[SAMで](../Page/SAM_\(ダンサー\).md "wikilink")、PVにも出演している。
   - CDのみのバージョンと、CD+DVD付き初回限定盤の2形態で発売。CDの収録内容は同一で、ジャケットの相違がある。
 
 ## 収録曲
@@ -13,7 +13,7 @@
 ### CD
 
 1.  **fiesta\! fiesta\!**
-    （作詞・作曲：[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")／編曲：久保田利伸、[森大輔](https://ja.wikipedia.org/wiki/森大輔_\(シンガーソングライター\) "wikilink")）
+    （作詞・作曲：[久保田利伸](../Page/久保田利伸.md "wikilink")／編曲：久保田利伸、[森大輔](../Page/森大輔_\(シンガーソングライター\).md "wikilink")）
 2.  **Palm**
     （作詞：H.U.B.／作曲・編曲：[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")）
 3.  **fiesta\! fiesta\!（instureumental）**

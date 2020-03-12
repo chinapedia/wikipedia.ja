@@ -6,7 +6,7 @@
 ## 概要
 
   - [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりのソロデビューシングル。
-  - 「REAL YOU」は、彼女も出演した映画「[アキハバラ@DEEP](https://ja.wikipedia.org/wiki/アキハバラ@DEEP "wikilink")」挿入歌で、原作者の[石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")が作詞を担当。ハウス・ビートのダンスチューンで、主要音楽番組に登場、艶の歌声やダンスパフォーマンスを披露。
+  - 「REAL YOU」は、彼女も出演した映画「[アキハバラ@DEEP](../Page/アキハバラ@DEEP.md "wikilink")」挿入歌で、原作者の[石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")が作詞を担当。ハウス・ビートのダンスチューンで、主要音楽番組に登場、艶の歌声やダンスパフォーマンスを披露。
   - CDのみのバージョンと、CD+DVD付き初回限定盤の2形態で発売。CDの収録内容は同一で、ジャケットの相違がある。
 
 ## 収録曲
@@ -28,7 +28,7 @@
 
 ## タイアップ
 
-  - [東映](../Page/東映.md "wikilink")配給映画「[アキハバラ@DEEP](https://ja.wikipedia.org/wiki/アキハバラ@DEEP "wikilink")」挿入歌（M-1）
+  - [東映](../Page/東映.md "wikilink")配給映画「[アキハバラ@DEEP](../Page/アキハバラ@DEEP.md "wikilink")」挿入歌（M-1）
   - [dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")「いろメロミックスDX」CMソング（M-1）
 
 ## 外部リンク

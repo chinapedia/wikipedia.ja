@@ -1,9 +1,9 @@
 > この記事は[Windows Driver Kit](https://ja.wikipedia.org/wiki/Windows_Driver_Kit)から翻訳されています。
 
 
-[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink"){{-}}[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{-}}[Windows 7](../Page/Microsoft_Windows_7.md "wikilink"){{-}}[Windows Server 2016](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2016 "wikilink") TP{{-}}[Windows Server 2008 R2](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008_R2 "wikilink") | 種別 = [ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink") | ライセンス = | 公式サイト = [Windows Hardware Dev Center - Windows 10 Hardware Dev Center](https://msdn.microsoft.com/en-us/windows/hardware/) }}
+[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink"){{-}}[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{-}}[Windows 7](../Page/Microsoft_Windows_7.md "wikilink"){{-}}[Windows Server 2016](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2016 "wikilink") TP{{-}}[Windows Server 2008 R2](https://ja.wikipedia.org/wiki/Microsoft_Windows_Server_2008_R2 "wikilink") | 種別 = [ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") | ライセンス = | 公式サイト = [Windows Hardware Dev Center - Windows 10 Hardware Dev Center](https://msdn.microsoft.com/en-us/windows/hardware/) }}
 
-**Windows Driver Kit** (WDK) は[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") OS用[デバイスドライバー](https://ja.wikipedia.org/wiki/デバイスドライバー "wikilink")を作成するための[ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink")である。
+**Windows Driver Kit** (WDK) は[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") OS用[デバイスドライバー](https://ja.wikipedia.org/wiki/デバイスドライバー "wikilink")を作成するための[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")である。
 
 バージョン7.1までのWDKはドキュメント、サンプル、ビルド環境、ツールなどを含んでいた。
 
@@ -25,9 +25,9 @@ WDKは[Windows Vistaよりも前までは](https://ja.wikipedia.org/wiki/Windows
 
 ## 関連項目
 
-  - [Windows Driver Model](https://ja.wikipedia.org/wiki/Windows_Driver_Model "wikilink")
+  - [Windows Driver Model](../Page/Windows_Driver_Model.md "wikilink")
   - [Windows Display Driver Model](https://ja.wikipedia.org/wiki/Windows_Display_Driver_Model "wikilink")
-  - [Windows Driver Foundation](https://ja.wikipedia.org/wiki/Windows_Driver_Foundation "wikilink")
+  - [Windows Driver Foundation](../Page/Windows_Driver_Foundation.md "wikilink")
   - [Windows Kernel-Mode Driver Framework](https://ja.wikipedia.org/wiki/Windows_Kernel-Mode_Driver_Framework "wikilink")
   - [Windows User-Mode Driver Framework](https://ja.wikipedia.org/wiki/Windows_User-Mode_Driver_Framework "wikilink")
 

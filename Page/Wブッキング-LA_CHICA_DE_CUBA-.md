@@ -6,7 +6,7 @@
 ## 解説
 
   - [セニョーラ・ラティーナ](https://ja.wikipedia.org/wiki/セニョーラ・ラティーナ "wikilink")『La Chica de Cuba』 のカバー曲であった。
-  - 同曲で郷ひろみは1985年の「[第36回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")」以来、1990年末の「[第41回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦 "wikilink")」へ5年ぶりに紅白カムバック出演した。
+  - 同曲で郷ひろみは1985年の「[第36回NHK紅白歌合戦](../Page/第36回NHK紅白歌合戦.md "wikilink")」以来、1990年末の「[第41回NHK紅白歌合戦](../Page/第41回NHK紅白歌合戦.md "wikilink")」へ5年ぶりに紅白カムバック出演した。
 
 ## 収録曲
 
@@ -17,6 +17,6 @@
 
 ## 関連項目
 
-  - [1990年の音楽](https://ja.wikipedia.org/wiki/1990年の音楽 "wikilink")
+  - [1990年の音楽](../Page/1990年の音楽.md "wikilink")
 
 [Category:郷ひろみの楽曲](https://ja.wikipedia.org/wiki/Category:郷ひろみの楽曲 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

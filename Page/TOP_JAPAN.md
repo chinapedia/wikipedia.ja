@@ -1,19 +1,19 @@
 > この記事は[TOP JAPAN](https://ja.wikipedia.org/wiki/TOP_JAPAN)から翻訳されています。
 
 
-**TOP JAPAN**とは、東京都墨田区にある有限会社ヨシトモの[エアソフトガン](https://ja.wikipedia.org/wiki/エアソフトガン "wikilink")ブランドである。
+**TOP JAPAN**とは、東京都墨田区にある有限会社ヨシトモの[エアソフトガン](../Page/エアソフトガン.md "wikilink")ブランドである。
 
 ## 製品の特徴
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:TOP_Type_64_Airsoft_Gun_1.JPG "wikilink")「[64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")」\]\] TOP製の[電動ガン](https://ja.wikipedia.org/wiki/電動ガン "wikilink")は、「[バルグヘッド式](https://ja.wikipedia.org/wiki/バルグヘッド式 "wikilink")」と呼ばれるメカニズムを持つ。これは他社製品におけるピストンとシリンダーの代わりに蛇腹を用いた[ふいご](https://ja.wikipedia.org/wiki/ふいご "wikilink")が入っているもので、ピストン・シリンダー式で問題となる圧縮漏れを生じない利点を持つが、ふいごに亀裂が入ることがある。ユーザーの中には、メーカーが8.4～9.6vバッテリーを推奨するところ、敢えてパワーの落ちる7.2vバッテリーを使用したり、過度の連射を避けるなどの自衛策を採る人もいる。また、バルグヘッド式を捨て、ピストン・シリンダー式に改めるためのパーツを販売するカスタムパーツメーカーや、機関部を[東京マルイ](https://ja.wikipedia.org/wiki/東京マルイ "wikilink")製メカボックスに換装してしまうカスタムショップもある。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TOP_Type_64_Airsoft_Gun_1.JPG "wikilink")「[64式7.62mm小銃](../Page/64式7.62mm小銃.md "wikilink")」\]\] TOP製の[電動ガン](../Page/電動ガン.md "wikilink")は、「[バルグヘッド式](https://ja.wikipedia.org/wiki/バルグヘッド式 "wikilink")」と呼ばれるメカニズムを持つ。これは他社製品におけるピストンとシリンダーの代わりに蛇腹を用いた[ふいご](https://ja.wikipedia.org/wiki/ふいご "wikilink")が入っているもので、ピストン・シリンダー式で問題となる圧縮漏れを生じない利点を持つが、ふいごに亀裂が入ることがある。ユーザーの中には、メーカーが8.4～9.6vバッテリーを推奨するところ、敢えてパワーの落ちる7.2vバッテリーを使用したり、過度の連射を避けるなどの自衛策を採る人もいる。また、バルグヘッド式を捨て、ピストン・シリンダー式に改めるためのパーツを販売するカスタムパーツメーカーや、機関部を[東京マルイ](../Page/東京マルイ.md "wikilink")製メカボックスに換装してしまうカスタムショップもある。
 
-同社製品は、[64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")や[MP40](https://ja.wikipedia.org/wiki/MP40 "wikilink")、[分隊支援火器](https://ja.wikipedia.org/wiki/分隊支援火器 "wikilink")といった、いずれも他社のモデルアップしないものが主力製品である。特に自衛隊装備で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")をする者にとって、東京マルイが[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")を発売するまでは、同社製64式とMINIMI自衛隊モデルが数少ない主装備の選択肢であった（このほか、[キャロット社が89式を販売していたが](https://ja.wikipedia.org/wiki/89式5.56mm小銃#遊戯銃 "wikilink")、「89R“BUDDY”」は（製造ロットによって異なるものの）キットが約10万円、完成品は約14万円という価格帯であった）\[1\]。
+同社製品は、[64式7.62mm小銃](../Page/64式7.62mm小銃.md "wikilink")や[MP40](../Page/MP40.md "wikilink")、[分隊支援火器](../Page/分隊支援火器.md "wikilink")といった、いずれも他社のモデルアップしないものが主力製品である。特に自衛隊装備で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")をする者にとって、東京マルイが[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")を発売するまでは、同社製64式とMINIMI自衛隊モデルが数少ない主装備の選択肢であった（このほか、[キャロット社が89式を販売していたが](https://ja.wikipedia.org/wiki/89式5.56mm小銃#遊戯銃 "wikilink")、「89R“BUDDY”」は（製造ロットによって異なるものの）キットが約10万円、完成品は約14万円という価格帯であった）\[1\]。
 
 ## 電動ガン市場からの撤退とガスブローバック市場への参入
 
 2008年7月に、ヨシトモは電動式エアソフトガンの生産終了を表明し、今後は平成20年12月末日までサポートを受け付けると発表した。
 事実上のエアソフトガン市場からの撤退と思われたが、それと同時にM60、MINIMIの「トップブローバックガンシリーズ」を発表した。
-[エスコート](https://ja.wikipedia.org/wiki/エスコート "wikilink")社の[ASCSメカ](https://ja.wikipedia.org/wiki/ASCSメカ "wikilink")を搭載したM60を限定発売(これは自社製の外装ではなくINOKATSU製のものである)し、さらに、[東京マルイ](https://ja.wikipedia.org/wiki/東京マルイ "wikilink")製電動ガンの[89式小銃](https://ja.wikipedia.org/wiki/89式小銃 "wikilink")をASCSメカのガスブローバックに変換するメカボックス、そして自社製の外装を使用したMINIMIのブローバックガンを発表した。
+[エスコート](https://ja.wikipedia.org/wiki/エスコート "wikilink")社の[ASCSメカ](https://ja.wikipedia.org/wiki/ASCSメカ "wikilink")を搭載したM60を限定発売(これは自社製の外装ではなくINOKATSU製のものである)し、さらに、[東京マルイ](../Page/東京マルイ.md "wikilink")製電動ガンの[89式小銃](https://ja.wikipedia.org/wiki/89式小銃 "wikilink")をASCSメカのガスブローバックに変換するメカボックス、そして自社製の外装を使用したMINIMIのブローバックガンを発表した。
 MINIMIのブローバックガンに関しては、エスコートよりも安価なブローバックエンジンを販売する[DAYTONAGUN](https://ja.wikipedia.org/wiki/DAYTONAGUN "wikilink")社と提携したが、その後に延期が相次いで最終的な発売のめどが立たず、一時期「無期限延期」の知らせがホームページに掲載された。
 が、その直後[G.COMPANY](https://ja.wikipedia.org/wiki/G.COMPANY "wikilink")製のブローバックユニットを搭載する事を決定し、STD、MkII、PARAの3モデルをそれぞれ10丁ずつの受注生産(2010年7月10日より予約開始)で限定販売する事となった。
 BOXマガジンの他、マガジンにガスを注入するタイプの30連マガジンも使用出来る仕様となっている。

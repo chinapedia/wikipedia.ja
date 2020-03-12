@@ -1,7 +1,7 @@
 > この記事は[TM](https://ja.wikipedia.org/wiki/TM)から翻訳されています。
 
 
-**TMライナー**（ティーエムライナー）は、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[土浦市](../Page/土浦市.md "wikilink")・[つくば市](../Page/つくば市.md "wikilink")と[水戸市](../Page/水戸市.md "wikilink")を結ぶ[高速バス](../Page/高速バス.md "wikilink")路線である。
+**TMライナー**（ティーエムライナー）は、[茨城県](../Page/茨城県.md "wikilink")[土浦市](../Page/土浦市.md "wikilink")・[つくば市](../Page/つくば市.md "wikilink")と[水戸市](../Page/水戸市.md "wikilink")を結ぶ[高速バス](../Page/高速バス.md "wikilink")路線である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 開設以来、運行会社・経路・便数の変更を繰り返した。2010年4月に[つくばセンター](../Page/つくばセンター.md "wikilink")（[つくば駅](https://ja.wikipedia.org/wiki/つくば駅 "wikilink")）と[茨城県庁](https://ja.wikipedia.org/wiki/茨城県庁舎 "wikilink")・水戸市街の間を最短で結ぶ経路に変更され、所要時間はつくばセンター - 水戸駅南口が80分、全線（土浦駅東口～偕楽園）では120分である。途中でつくばセンターと土浦の経路が逆になったものの、つくばセンターよりも遠方の土浦の方が運賃が安い状態が続いている。
 
-なお[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")による社会実験として、2019年10月1日より増便された（平日8往復・土休日4往復）\[1\]。これにより平日は水戸から乗り換え無しで筑波大学まで乗り入れる他、土休日は水戸からつくばサイエンスツアーバスへ乗り継ぎ、また、つくばから水戸へスポーツ観戦等に適したダイヤとなった。
+なお[茨城県](../Page/茨城県.md "wikilink")による社会実験として、2019年10月1日より増便された（平日8往復・土休日4往復）\[1\]。これにより平日は水戸から乗り換え無しで筑波大学まで乗り入れる他、土休日は水戸からつくばサイエンスツアーバスへ乗り継ぎ、また、つくばから水戸へスポーツ観戦等に適したダイヤとなった。
 
 ## 運行経路
 
@@ -19,7 +19,7 @@
 
   - 土浦駅 - 水戸駅 - 偕楽園（平日）
 
-[土浦駅](../Page/土浦駅.md "wikilink")東口 - 川口町 - 桜町四丁目 - 田中町 - [花室](https://ja.wikipedia.org/wiki/花室 "wikilink")交差点 - [吾妻](https://ja.wikipedia.org/wiki/吾妻_\(つくば市\) "wikilink") - [つくばセンター](../Page/つくばセンター.md "wikilink") - [竹園二丁目](https://ja.wikipedia.org/wiki/竹園_\(つくば市\) "wikilink") - [千現](https://ja.wikipedia.org/wiki/千現 "wikilink")一丁目 - [並木一丁目](https://ja.wikipedia.org/wiki/並木_\(つくば市\) "wikilink") - 並木二丁目 - 並木大橋 - 下広岡 - ★（[桜土浦IC](https://ja.wikipedia.org/wiki/桜土浦インターチェンジ "wikilink")、[常磐自動車道](../Page/常磐自動車道.md "wikilink")） - [石岡](https://ja.wikipedia.org/wiki/石岡バスストップ "wikilink") - ★（[友部JCT](https://ja.wikipedia.org/wiki/友部ジャンクション "wikilink")、[北関東自動車道](../Page/北関東自動車道.md "wikilink")、[茨城町東IC](https://ja.wikipedia.org/wiki/茨城町東インターチェンジ "wikilink")） - 県自動車学校 - 米沢中央 - 県庁バスターミナル - 昭和自動車学校 - みなみ団地入口 - 千波中学校入口 - [水戸駅](../Page/水戸駅.md "wikilink")南口 - 水戸駅北口 - 銀杏坂 - [南町二丁目](https://ja.wikipedia.org/wiki/南町_\(水戸市\) "wikilink") - 南町三丁目 - 泉町一丁目 - 泉町三丁目 - 大工町 - [常磐神社](https://ja.wikipedia.org/wiki/常磐神社 "wikilink")入口 - [偕楽園](../Page/偕楽園.md "wikilink")
+[土浦駅](../Page/土浦駅.md "wikilink")東口 - 川口町 - 桜町四丁目 - 田中町 - [花室](https://ja.wikipedia.org/wiki/花室 "wikilink")交差点 - [吾妻](https://ja.wikipedia.org/wiki/吾妻_\(つくば市\) "wikilink") - [つくばセンター](../Page/つくばセンター.md "wikilink") - [竹園二丁目](https://ja.wikipedia.org/wiki/竹園_\(つくば市\) "wikilink") - [千現](https://ja.wikipedia.org/wiki/千現 "wikilink")一丁目 - [並木一丁目](https://ja.wikipedia.org/wiki/並木_\(つくば市\) "wikilink") - 並木二丁目 - 並木大橋 - 下広岡 - ★（[桜土浦IC](../Page/桜土浦インターチェンジ.md "wikilink")、[常磐自動車道](../Page/常磐自動車道.md "wikilink")） - [石岡](../Page/石岡バスストップ.md "wikilink") - ★（[友部JCT](../Page/友部ジャンクション.md "wikilink")、[北関東自動車道](../Page/北関東自動車道.md "wikilink")、[茨城町東IC](../Page/茨城町東インターチェンジ.md "wikilink")） - 県自動車学校 - 米沢中央 - 県庁バスターミナル - 昭和自動車学校 - みなみ団地入口 - 千波中学校入口 - [水戸駅](../Page/水戸駅.md "wikilink")南口 - 水戸駅北口 - 銀杏坂 - [南町二丁目](https://ja.wikipedia.org/wiki/南町_\(水戸市\) "wikilink") - 南町三丁目 - 泉町一丁目 - 泉町三丁目 - 大工町 - [常磐神社](../Page/常磐神社.md "wikilink")入口 - [偕楽園](../Page/偕楽園.md "wikilink")
 
   - 筑波大学 - 水戸駅 - 偕楽園（平日）
 
@@ -40,7 +40,7 @@
       - つくばセンター - 土浦駅東口 - つくば国際大学 - 県自動車学校 - 水戸駅北口
   - 2003年3月16日：2往復に減便
   - 2004年10月1日：石岡バスストップ使用開始に合わせ停留所新設。
-  - 2005年8月24日：[つくばエクスプレス開業に合わせ](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")9往復に増便。関東鉄道・[関鉄グリーンバス](https://ja.wikipedia.org/wiki/関鉄グリーンバス "wikilink")の共同運行
+  - 2005年8月24日：[つくばエクスプレス開業に合わせ](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")9往復に増便。関東鉄道・[関鉄グリーンバス](../Page/関鉄グリーンバス.md "wikilink")の共同運行
   - 2006年10月1日：4往復に減便。関東鉄道の単独運行に戻る
   - 2007年11月1日：2往復に減便
   - 2010年4月26日：関東鉄道が路線を廃止。関鉄観光バスが運行開始（平日3.5往復・土休日2往復）
@@ -58,7 +58,7 @@
 
   - [急行わかば号](https://ja.wikipedia.org/wiki/わかば号 "wikilink")
   - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink") - 競合する交通機関
-  - [土浦ニューウェイ](https://ja.wikipedia.org/wiki/土浦ニューウェイ "wikilink")
+  - [土浦ニューウェイ](../Page/土浦ニューウェイ.md "wikilink")
   - [つくば花室トンネル](https://ja.wikipedia.org/wiki/つくば花室トンネル "wikilink")
 
 ## 脚注
@@ -74,7 +74,7 @@
 1.
 2.  [茨城ロボッツ](https://ja.wikipedia.org/wiki/茨城ロボッツ "wikilink")主催試合が行われる[アダストリアみとアリーナ](https://ja.wikipedia.org/wiki/アダストリアみとアリーナ "wikilink")へは当停留所が最寄りとなる。
 3.  [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")主催試合が行われる[ケーズデンキスタジアム水戸へは](../Page/水戸市立競技場.md "wikilink")、当停留所から[茨城交通](../Page/茨城交通.md "wikilink")\[38\]系統へ乗換となる。
-4.  ただし、当路線は「茨城県庁前」バス停では客扱いは行わず、「県庁バスターミナル」バス停で客扱いを行う。また、「[茨城町西IC](https://ja.wikipedia.org/wiki/茨城町西インターチェンジ "wikilink")」、「[内原バスストップ](https://ja.wikipedia.org/wiki/内原バスストップ "wikilink")」にも当便は停車しない。
+4.  ただし、当路線は「茨城県庁前」バス停では客扱いは行わず、「県庁バスターミナル」バス停で客扱いを行う。また、「[茨城町西IC](../Page/茨城町西インターチェンジ.md "wikilink")」、「[内原バスストップ](https://ja.wikipedia.org/wiki/内原バスストップ "wikilink")」にも当便は停車しない。
 5.
 6.
 7.

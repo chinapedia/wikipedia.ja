@@ -1,31 +1,31 @@
 > この記事は[TERIYAKI BOYZ](https://ja.wikipedia.org/wiki/TERIYAKI_BOYZ)から翻訳されています。
 
 
-**TERIYAKI BOYZ®**（テリヤキ・ボーイズ）は、[MCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")、[DJの](../Page/ディスクジョッキー.md "wikilink")[NIGO](../Page/NIGO.md "wikilink")の、4MC+1DJで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。所属[レーベルはSTAR](../Page/レコードレーベル.md "wikilink") TRAK/(B)APE SOUNDS®。
+**TERIYAKI BOYZ®**（テリヤキ・ボーイズ）は、[MCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[WISE](../Page/WISE.md "wikilink")、[DJの](../Page/ディスクジョッキー.md "wikilink")[NIGO](../Page/NIGO.md "wikilink")の、4MC+1DJで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。所属[レーベルはSTAR](../Page/レコードレーベル.md "wikilink") TRAK/(B)APE SOUNDS®。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[酉](../Page/酉.md "wikilink")年）限定で活動予定と発表されていたが、その後も新曲を発表するなど活動を続けている。
+[2005年](../Page/2005年.md "wikilink")（[酉](../Page/酉.md "wikilink")年）限定で活動予定と発表されていたが、その後も新曲を発表するなど活動を続けている。
 
 ## 略歴
 
   - [2004年](../Page/2004年.md "wikilink")、アルバム『(B)APE SOUNDS』に収録された楽曲「KAMIKAZE 108」で結成。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、国内外のアーティストを[プロデューサーに迎え](../Page/音楽プロデューサー.md "wikilink")、アルバム『[BEEF or CHICKEN](../Page/BEEF_or_CHICKEN.md "wikilink")』をリリースした。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、アルバム『BEEF or CHICKEN』が日本国外でリリースされ、[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")アジア・アウォーズに日本代表として出演。
+  - [2005年](../Page/2005年.md "wikilink")、国内外のアーティストを[プロデューサーに迎え](../Page/音楽プロデューサー.md "wikilink")、アルバム『[BEEF or CHICKEN](../Page/BEEF_or_CHICKEN.md "wikilink")』をリリースした。
+  - [2006年](../Page/2006年.md "wikilink")、アルバム『BEEF or CHICKEN』が日本国外でリリースされ、[MTV](../Page/MTV.md "wikilink")アジア・アウォーズに日本代表として出演。
   - [2007年](../Page/2007年.md "wikilink")1月、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")プロデュースによる1stシングル「I still love H.E.R. feat.KANYE WEST」をリリースし、テレビ朝日「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」にてカニエ・ウェストとともに出演。
   - [2007年](../Page/2007年.md "wikilink")7月、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")FORMOZ FESTIVAL2007に出演。
-  - [2007年](../Page/2007年.md "wikilink")8月、[SUMMER SONIC'07に出演](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")8月、[SUMMER SONIC'07に出演](../Page/サマーソニック.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")9月、NEW YORK-TOKYO MUSICフェスティバルに出演し、日本人HIP HOPアーティストとして初めてセントラルパークにてライブを行った。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月、[ザ・ネプチューンズ](../Page/ザ・ネプチューンズ.md "wikilink")プロデュースによる2ndシングル「[ZOCK ON\! featuring Pharrell & Busta Rhymes](https://ja.wikipedia.org/wiki/ZOCK_ON!_featuring_Pharrell_&_Busta_Rhymes "wikilink")」をリリース。
   - [2009年](../Page/2009年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")、先行シングル「WORK THAT feat. PHARRELL & [CHRIS BROWN](../Page/クリス・ブラウン_\(歌手\).md "wikilink")」をリリース。
-  - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")、[ファレル・ウィリアムス](https://ja.wikipedia.org/wiki/ファレル・ウィリアムス "wikilink")が運営するSTAR TRAKレーベルから2ndアルバム『[SERIOUS JAPANESE](https://ja.wikipedia.org/wiki/SERIOUS_JAPANESE "wikilink")』をリリース。
+  - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")、[ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")が運営するSTAR TRAKレーベルから2ndアルバム『[SERIOUS JAPANESE](https://ja.wikipedia.org/wiki/SERIOUS_JAPANESE "wikilink")』をリリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")、MTV ZUSHI FESに出演。
   - [2012年](../Page/2012年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")プロデュースのイベント「ATO_MATSURI」に出演。
 
 ## メンバー
 
-  - [ILMARI](../Page/ILMARI.md "wikilink")（イルマリ） - MC。リーダー。[RIP SLYMEのメンバー](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")。
+  - [ILMARI](../Page/ILMARI.md "wikilink")（イルマリ） - MC。リーダー。[RIP SLYMEのメンバー](../Page/RIP_SLYME.md "wikilink")。
   - [RYO-Z](../Page/RYO-Z.md "wikilink")（リョージ） - MC。RIP SLYMEのメンバー。
   - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（バーバル） - MC。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバー。
-  - [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")（ワイズ） - MC。(B)APE SOUNDS所属。
+  - [WISE](../Page/WISE.md "wikilink")（ワイズ） - MC。(B)APE SOUNDS所属。
   - [NIGO](../Page/NIGO.md "wikilink")®（ニゴー） - DJ。[ユニクロ](../Page/ユニクロ.md "wikilink")(UT)のクリエイティブディレクター。
 
 ## ディスコグラフィ
@@ -44,7 +44,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
 <td><p><strong><a href="../Page/BEEF_or_CHICKEN.md" title="wikilink">BEEF or CHICKEN</a></strong></p></td>
 <td><p>UMCK-9129:初回限定盤<br />
 UMCK-1198:通常盤</p></td>
@@ -87,12 +87,12 @@ UMCK-1290:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月13日.md" title="wikilink">11月13日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月13日.md" title="wikilink">11月13日</a></p></td>
 <td><p><strong>Heartbreaker</strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イギリス" title="wikilink">UK盤のみ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ダフト・パンク" title="wikilink">ダフト・パンク</a>プロデュース。</p></td>
+<a href="../Page/ダフト・パンク.md" title="wikilink">ダフト・パンク</a>プロデュース。</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -105,7 +105,7 @@ UMCK-1290:通常盤</p></td>
 <li>I still love H.E.R. feat.Kanye West(Inst.)</li>
 </ol></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カニエ・ウェスト" title="wikilink">カニエ・ウェスト</a>プロデュース。<br />
-<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN" title="wikilink">JAPAN COUNTDOWN</a>」2007年1月期OPテーマ。<br />
+<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>」2007年1月期OPテーマ。<br />
 オリコン最高12位、登場回数6回</p></td>
 </tr>
 <tr class="odd">
@@ -150,31 +150,31 @@ UMCK-5227:通常盤</p></td>
 
   - KAMIKAZE 108 - NIGOのアルバム『(B)APE SOUNDS』・m-floのアルバム『[m-flo inside -WORKS BEST II-](https://ja.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_II- "wikilink")』に収録。
   - パラダイスベイベー
-      - ラジオおよびライブでのみ披露。RIP SLYMEの「[楽園ベイベー](../Page/楽園ベイベー.md "wikilink") (Album version)」（『[TOKYO CLASSIC](https://ja.wikipedia.org/wiki/TOKYO_CLASSIC "wikilink")』収録）のトラックに[日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")のボーカルと、[ラップ](../Page/ラップ.md "wikilink")をのせた楽曲。
+      - ラジオおよびライブでのみ披露。RIP SLYMEの「[楽園ベイベー](../Page/楽園ベイベー.md "wikilink") (Album version)」（『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』収録）のトラックに[日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")のボーカルと、[ラップ](../Page/ラップ.md "wikilink")をのせた楽曲。
 
 ### DVD
 
 |     | 発売日                                                                                         | タイトル                         | 規格品番      | 備考               |
 | --- | ------------------------------------------------------------------------------------------- | ---------------------------- | --------- | ---------------- |
-| 1st | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月29日](../Page/3月29日.md "wikilink") | **THE OFFICIALデリバリイッチョウDVD** | UMBK-1096 | オリコン最高26位、登場回数4回 |
+| 1st | [2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")                    | **THE OFFICIALデリバリイッチョウDVD** | UMBK-1096 | オリコン最高26位、登場回数4回 |
 | 2nd | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink") | **ワールドツアー**                  | UMBK-1126 | オリコン最高55位、登場回数3回 |
 |     |                                                                                             |                              |           |                  |
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                          | 規格品番       | 収録曲                                    |
-| ----------- | --------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- |
-| 2006年07月19日 | ワイルド・スピードX3 TOKYO DRIFT オリジナル・サウンドトラック                                                        | UMCK-1211  | トウキョウ・ドリフト (ファスト&フュリアス)                |
-| 2007年06月13日 | [DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")『FROM THE STREETS VOL.2』 | LECD-10008 | KAMIKAZE 108(酉年 mix)                   |
-| 2009年08月26日 | LOUD -15th Anniversary Compilation-                                                           | UPCH-1738  | AFTER 5 (A.M.) feat.MADEMOISELLE YULIA |
-|             |                                                                                               |            |                                        |
+| 発売日         | タイトル                                                                       | 規格品番       | 収録曲                                    |
+| ----------- | -------------------------------------------------------------------------- | ---------- | -------------------------------------- |
+| 2006年07月19日 | ワイルド・スピードX3 TOKYO DRIFT オリジナル・サウンドトラック                                     | UMCK-1211  | トウキョウ・ドリフト (ファスト&フュリアス)                |
+| 2007年06月13日 | [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")『FROM THE STREETS VOL.2』 | LECD-10008 | KAMIKAZE 108(酉年 mix)                   |
+| 2009年08月26日 | LOUD -15th Anniversary Compilation-                                        | UPCH-1738  | AFTER 5 (A.M.) feat.MADEMOISELLE YULIA |
+|             |                                                                            |            |                                        |
 
 ## ミュージックビデオ
 
 |                                                               |                                                                                                                                                                                 |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                        | **曲名**                                                                                                                                                                          |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")         | 「[HeartBreaker](https://www.youtube.com/watch?v=lexn1bcn68U)」                                                                                                                   |
+| [須永秀明](../Page/須永秀明.md "wikilink")                            | 「[HeartBreaker](https://www.youtube.com/watch?v=lexn1bcn68U)」                                                                                                                   |
 | [タケイグッドマン](https://ja.wikipedia.org/wiki/タケイグッドマン "wikilink") | 「Celebrity Death Match from DVD「THE OFFICIALデリバリイッチョウDVD」」「[I still love H.E.R. feat.KANYE WEST](https://www.youtube.com/watch?v=yVRbBpvdRRg)」                                  |
 | NIGO                                                          | 「[WORK THAT feat.PHARRELL & CHRIS BROWN](https://www.youtube.com/watch?v=lpHWnktNbys)」「[ZOCK ON\! feat.Pharrell and Busta Rhymes](https://www.youtube.com/watch?v=9cLb9f20BqM)」 |
 | 不明                                                            | 「[いつも IT'S MORE](https://www.youtube.com/watch?v=kU_PlUFQ_hg)」                                                                                                                  |
@@ -182,7 +182,7 @@ UMCK-5227:通常盤</p></td>
 
 ## 主なライブ
 
-  - 2005年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 05/06
+  - 2005年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 05/06
   - 2007年08月11日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2007
   - 2007年10月12日 - BAPE STORE SHIBUYA opening party
   - 2008年04月05日 - SPRINGROOVE 2008
@@ -194,7 +194,7 @@ UMCK-5227:通常盤</p></td>
 
   - [A BATHING APE](../Page/A_BATHING_APE.md "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
 
 ## 外部リンク
 

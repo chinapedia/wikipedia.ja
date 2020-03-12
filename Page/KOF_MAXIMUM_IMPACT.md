@@ -15,21 +15,21 @@
 
 ### KOF MAXIMUM IMPACT MANIAX
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。第1作の調整版で、対戦バランス調整のほか、スクリーンショット撮影や、[Xbox Liveによるネット対戦機能を搭載している](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。第1作の調整版で、対戦バランス調整のほか、スクリーンショット撮影や、[Xbox Liveによるネット対戦機能を搭載している](../Page/Xbox_Live.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")にはほぼ同内容でPlayStation 2でも発売され、こちらは次作『2』の特典映像が収録されている。オンライン対戦には非対応。[2015年](../Page/2015年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")からは[PS2アーカイブスで配信開始](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にはほぼ同内容でPlayStation 2でも発売され、こちらは次作『2』の特典映像が収録されている。オンライン対戦には非対応。[2015年](../Page/2015年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")からは[PS2アーカイブスで配信開始](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。
 
 ### KOF MAXIMUM IMPACT 2
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")にPlayStation 2で発売。制作はSNKネオジオ。前作をベースに大幅にボリュームアップがなされた。[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")によるオンライン対戦にも対応（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")をもってサービス終了）。FALCOONがプロデューサーに就任し、さらにストーリー担当に『KOF』ノベライズ版を手がけていた[嬉野秋彦](../Page/嬉野秋彦.md "wikilink")が参加している。2015年[4月15日](../Page/4月15日.md "wikilink")からはPS2アーカイブスで配信開始。
+[2006年](../Page/2006年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")にPlayStation 2で発売。制作はSNKネオジオ。前作をベースに大幅にボリュームアップがなされた。[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")によるオンライン対戦にも対応（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")をもってサービス終了）。FALCOONがプロデューサーに就任し、さらにストーリー担当に『KOF』ノベライズ版を手がけていた[嬉野秋彦](../Page/嬉野秋彦.md "wikilink")が参加している。2015年[4月15日](../Page/4月15日.md "wikilink")からはPS2アーカイブスで配信開始。
 
 なお、本作は北米発売版のみタイトルが『**THE KING OF FIGHTERS 2006**』となっている。
 
 ### KOF MAXIMUM IMPACT REGULATION "A"
 
-シリーズ初の業務用（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")）作品。[2007年](../Page/2007年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")稼動。基板は「[Taito Type X2](https://ja.wikipedia.org/wiki/Taito_Type_X "wikilink")」を使用。
+シリーズ初の業務用（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")）作品。[2007年](../Page/2007年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")稼動。基板は「[Taito Type X2](../Page/Taito_Type_X.md "wikilink")」を使用。
 
-『KOF MAXIMUM IMPACT 2』に業務用のアレンジを施したオリジナル作品（廉価版）で、対戦形式を『KOF』シリーズと同じ3on3のチームバトルへ変更や、対戦バランス調整・技の追加などが施されている。また新キャラクターとして、『KOF2003』以降の「アッシュ編」主人公である[アッシュ・クリムゾン](https://ja.wikipedia.org/wiki/アッシュ・クリムゾン "wikilink")や、[データイースト](../Page/データイースト.md "wikilink")が開発したゲームのライセンスを取得した[ジー・モード](https://ja.wikipedia.org/wiki/ジー・モード "wikilink")との[クロスライセンス](https://ja.wikipedia.org/wiki/クロスライセンス "wikilink")契約により[『ファイターズヒストリー』シリーズに登場する](https://ja.wikipedia.org/wiki/ファイターズヒストリー "wikilink")[溝口誠](../Page/溝口誠.md "wikilink")などが登場する。『MI2』の登場キャラクターは隠しを含めて全員登場するが、アーマーラルフだけは削除されている。
+『KOF MAXIMUM IMPACT 2』に業務用のアレンジを施したオリジナル作品（廉価版）で、対戦形式を『KOF』シリーズと同じ3on3のチームバトルへ変更や、対戦バランス調整・技の追加などが施されている。また新キャラクターとして、『KOF2003』以降の「アッシュ編」主人公である[アッシュ・クリムゾン](../Page/アッシュ・クリムゾン.md "wikilink")や、[データイースト](../Page/データイースト.md "wikilink")が開発したゲームのライセンスを取得した[ジー・モード](../Page/ジー・モード.md "wikilink")との[クロスライセンス](https://ja.wikipedia.org/wiki/クロスライセンス "wikilink")契約により[『ファイターズヒストリー』シリーズに登場する](../Page/ファイターズヒストリー.md "wikilink")[溝口誠](../Page/溝口誠.md "wikilink")などが登場する。『MI2』の登場キャラクターは隠しを含めて全員登場するが、アーマーラルフだけは削除されている。
 
 タイトルの"A"には、「アッシュ（**A**sh）、アーケード（**A**rcade）、アレンジ（**A**rrange）」の意味がある。
 
@@ -39,7 +39,7 @@
 
 ### 発売中止になった作品
 
-以下の3作品は[TGS2007でタイトルのみ発表されたが](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")、2009年に発売中止が発表された。その理由は諸説あるが不明である。
+以下の3作品は[TGS2007でタイトルのみ発表されたが](../Page/東京ゲームショウ.md "wikilink")、2009年に発売中止が発表された。その理由は諸説あるが不明である。
 
   - KOF MAXIMUM IMPACT REGULATION"A"2
     アーケードゲーム（Taito Type X2）とPlayStation 2で発売が予定されていた。タイトルロゴのみ公開され、TGS2007では片手で数え切れない数の新キャラクターを追加する予定だと語られていた。
@@ -58,9 +58,9 @@
 
 ## ゲームストーリー
 
-[サウスタウン](https://ja.wikipedia.org/wiki/サウスタウン "wikilink")を舞台に、[ストリートギャング](https://ja.wikipedia.org/wiki/ストリートギャング "wikilink")の抗争のなかで「ザ・キング・オブ・ファイターズ」が開催される、というのがストーリーの骨子である。『1』ではギャングの最有力者が殺されたことで一躍名を上げた「メフィストフェレス」が、『2』ではその上位組織である「アデス」がKOFを開催している。2Dシリーズと同じく、3部でストーリーは完結すると宣言されていたが、ゲーム自体の人気が芳しくなかった事と、上記3作品の発売中止により、未完のまま2部で打ち切りとなった。
+[サウスタウン](../Page/サウスタウン.md "wikilink")を舞台に、[ストリートギャング](../Page/ストリートギャング.md "wikilink")の抗争のなかで「ザ・キング・オブ・ファイターズ」が開催される、というのがストーリーの骨子である。『1』ではギャングの最有力者が殺されたことで一躍名を上げた「メフィストフェレス」が、『2』ではその上位組織である「アデス」がKOFを開催している。2Dシリーズと同じく、3部でストーリーは完結すると宣言されていたが、ゲーム自体の人気が芳しくなかった事と、上記3作品の発売中止により、未完のまま2部で打ち切りとなった。
 
-主人公はストリートギャングの有力者であるメイラ兄弟（[アルバ](../Page/アルバ・メイラ.md "wikilink")&[ソワレ](../Page/ソワレ・メイラ.md "wikilink")）で、2Dシリーズの主人公である[草薙京](https://ja.wikipedia.org/wiki/草薙京 "wikilink")や[八神庵](https://ja.wikipedia.org/wiki/八神庵 "wikilink")、[K'](https://ja.wikipedia.org/wiki/K' "wikilink")などはストーリーに深く関わらない存在、あくまで端役になっているのが2Dシリーズとの大きな違いとなっている
+主人公はストリートギャングの有力者であるメイラ兄弟（[アルバ](../Page/アルバ・メイラ.md "wikilink")&[ソワレ](../Page/ソワレ・メイラ.md "wikilink")）で、2Dシリーズの主人公である[草薙京](../Page/草薙京.md "wikilink")や[八神庵](../Page/八神庵.md "wikilink")、[K'](https://ja.wikipedia.org/wiki/K' "wikilink")などはストーリーに深く関わらない存在、あくまで端役になっているのが2Dシリーズとの大きな違いとなっている
 
 ## 登場人物
 
@@ -72,23 +72,23 @@
 
   - [アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink")
   - [ソワレ・メイラ](../Page/ソワレ・メイラ.md "wikilink")
-  - [草薙京](https://ja.wikipedia.org/wiki/草薙京 "wikilink")
-  - [八神庵](https://ja.wikipedia.org/wiki/八神庵 "wikilink")
-  - [不知火舞](https://ja.wikipedia.org/wiki/不知火舞 "wikilink")
+  - [草薙京](../Page/草薙京.md "wikilink")
+  - [八神庵](../Page/八神庵.md "wikilink")
+  - [不知火舞](../Page/不知火舞.md "wikilink")
   - [リアン・ネヴィル](../Page/リアン・ネヴィル.md "wikilink")
   - [麻宮アテナ](../Page/麻宮アテナ.md "wikilink")
   - [ミニョン・ベアール](../Page/ミニョン・ベアール.md "wikilink")
   - [テリー・ボガード](../Page/テリー・ボガード.md "wikilink")
   - [チェ・リム](https://ja.wikipedia.org/wiki/チェ・リム "wikilink")
-  - [リョウ・サカザキ](https://ja.wikipedia.org/wiki/リョウ・サカザキ "wikilink")
-  - [ユリ・サカザキ](https://ja.wikipedia.org/wiki/ユリ・サカザキ "wikilink")
-  - [レオナ](https://ja.wikipedia.org/wiki/レオナ・ハイデルン "wikilink")
-  - [ラルフ・ジョーンズ](https://ja.wikipedia.org/wiki/ラルフ・ジョーンズ "wikilink")
-  - [クラーク・スティル](https://ja.wikipedia.org/wiki/クラーク・スティル "wikilink")
+  - [リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")
+  - [ユリ・サカザキ](../Page/ユリ・サカザキ.md "wikilink")
+  - [レオナ](../Page/レオナ・ハイデルン.md "wikilink")
+  - [ラルフ・ジョーンズ](../Page/ラルフ・ジョーンズ.md "wikilink")
+  - [クラーク・スティル](../Page/クラーク・スティル.md "wikilink")
   - [セス](https://ja.wikipedia.org/wiki/セス_\(KOF\) "wikilink")
   - [K'](https://ja.wikipedia.org/wiki/K' "wikilink")
-  - [マキシマ](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\) "wikilink")
-  - [ロック・ハワード](https://ja.wikipedia.org/wiki/ロック・ハワード "wikilink")
+  - [マキシマ](../Page/マキシマ_\(KOF\).md "wikilink")
+  - [ロック・ハワード](../Page/ロック・ハワード.md "wikilink")
 
 #### ボスキャラクター
 
@@ -100,20 +100,20 @@
 
   - [ルイーゼ・マイリンク](../Page/ルイーゼ・マイリンク.md "wikilink")
   - [ナガセ](../Page/ナガセ_\(KOF\).md "wikilink")
-  - [ビリー・カーン](https://ja.wikipedia.org/wiki/ビリー・カーン "wikilink")
+  - [ビリー・カーン](../Page/ビリー・カーン.md "wikilink")
   - [クーラ・ダイアモンド](../Page/クーラ・ダイアモンド.md "wikilink")
 
 #### 隠しキャラクター
 
   - [B.ジェニー](../Page/B.ジェニー.md "wikilink")
-  - [キム](https://ja.wikipedia.org/wiki/キム・カッファン "wikilink")
+  - [キム](../Page/キム・カッファン.md "wikilink")
   - [ニノン・ベアール](../Page/ニノン・ベアール.md "wikilink")
-  - [ナイトメア・ギース](https://ja.wikipedia.org/wiki/ギース・ハワード "wikilink")
+  - [ナイトメア・ギース](../Page/ギース・ハワード.md "wikilink")
   - [リチャード・マイヤ](https://ja.wikipedia.org/wiki/リチャード・マイヤ "wikilink")
   - [ハイエナ](../Page/ハイエナ_\(KOF\).md "wikilink")
   - [リリィ・カーン](https://ja.wikipedia.org/wiki/リリィ・カーン "wikilink")
   - [服部半蔵](../Page/服部半蔵_\(サムライスピリッツ\).md "wikilink")（[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")）
-  - [フィオ](https://ja.wikipedia.org/wiki/フィオ・ジェルミ "wikilink")（[メタルスラッグ](https://ja.wikipedia.org/wiki/メタルスラッグ "wikilink")）
+  - [フィオ](https://ja.wikipedia.org/wiki/フィオ・ジェルミ "wikilink")（[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")）
   - [ワイルドウルフ](../Page/テリー・ボガード.md "wikilink")
   - [二代目Mr.カラテ](https://ja.wikipedia.org/wiki/リョウ・サカザキ#『龍虎の拳』『KOF』シリーズ以外での設定 "wikilink")
   - 草薙京CLASSIC
@@ -129,22 +129,22 @@
 
 #### 追加キャラクター
 
-  - [アッシュ・クリムゾン](https://ja.wikipedia.org/wiki/アッシュ・クリムゾン "wikilink")
-  - [ブルー・マリー](https://ja.wikipedia.org/wiki/ブルー・マリー "wikilink")
+  - [アッシュ・クリムゾン](../Page/アッシュ・クリムゾン.md "wikilink")
+  - [ブルー・マリー](../Page/ブルー・マリー.md "wikilink")
   - [笑龍](../Page/シャオロン_\(KOF\).md "wikilink")
 
 #### ボスキャラクター
 
-  - [溝口誠](../Page/溝口誠.md "wikilink")（[ファイターズヒストリー](https://ja.wikipedia.org/wiki/ファイターズヒストリー "wikilink")） - 隠しボス。最初から使用可能。
+  - [溝口誠](../Page/溝口誠.md "wikilink")（[ファイターズヒストリー](../Page/ファイターズヒストリー.md "wikilink")） - 隠しボス。最初から使用可能。
 
 通常の最終ボスはデューク、ギース、ジヴァートマがチームを組んで登場し、12分以内にクリアすると溝口が現れる。
 
 ## 関連項目
 
-  - [マーク・大喜多](https://ja.wikipedia.org/wiki/マーク・大喜多 "wikilink") - シリーズ通してのアナウンス担当。
+  - [マーク・大喜多](../Page/マーク・大喜多.md "wikilink") - シリーズ通してのアナウンス担当。
   - [田中敬一](../Page/田中敬一.md "wikilink") - シリーズを通して作曲を担当。
   - [THE KING OF FIGHTERS XIV](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズ#THE_KING_OF_FIGHTERS_XIV "wikilink") - 2016年発売の『KOF』シリーズ本編14作目。本項のシリーズと同様に3Dグラフィックを採用している。
-  - [SNKの対戦型格闘ゲーム一覧](https://ja.wikipedia.org/wiki/SNKの対戦型格闘ゲーム一覧 "wikilink")
+  - [SNKの対戦型格闘ゲーム一覧](../Page/SNKの対戦型格闘ゲーム一覧.md "wikilink")
 
 ## 外部リンク
 

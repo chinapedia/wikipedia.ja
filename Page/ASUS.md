@@ -5,7 +5,7 @@
 
 ## 社名と由来
 
-ブランド名として「**ASUS**」を使用しているが、これは[Pegasusに由来して付けられたものであり](https://ja.wikipedia.org/wiki/ペガサス "wikilink")\[1\]、同社は「市場に問うすべての製品に高レベルの品質と独創性を吹き込むことにより、機知に富むペガサスが象徴する強さ、創造性、純粋さを具体的に実現する」という意味を込めたと説明している。
+ブランド名として「**ASUS**」を使用しているが、これは[Pegasusに由来して付けられたものであり](../Page/ペガサス.md "wikilink")\[1\]、同社は「市場に問うすべての製品に高レベルの品質と独創性を吹き込むことにより、機知に富むペガサスが象徴する強さ、創造性、純粋さを具体的に実現する」という意味を込めたと説明している。
 
 ### 「ASUS」の発音
 
@@ -17,15 +17,15 @@
 
 ## 概要
 
-[1989年](../Page/1989年.md "wikilink")にTH Tung（童子賢、廖敏雄、徐世昌、謝偉崎）らによって設立された。当時は日本で[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")（いわゆる「[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")マシン」）の市場が本格的に形成されはじめた時期であり、設立直後から日本に[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")を輸出していた。
+[1989年](../Page/1989年.md "wikilink")にTH Tung（童子賢、廖敏雄、徐世昌、謝偉崎）らによって設立された。当時は日本で[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")（いわゆる「[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")マシン」）の市場が本格的に形成されはじめた時期であり、設立直後から日本に[マザーボード](../Page/マザーボード.md "wikilink")を輸出していた。
 
 新製品投入サイクルの短さと高品質とをモットーとしていたが、製品によっては[BIOSの完成度が十分ではなくアップデート頻度が高いものもあった](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。
 
-現在の製品分野は、業界最大手の1つに数えられるマザーボードのほか、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[ビデオカード](../Page/ビデオカード.md "wikilink")、[DVD](../Page/DVD.md "wikilink")ドライブなど多岐に渡る。[OEM](../Page/OEM.md "wikilink")では、かつて[ソニー](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")シリーズへ供給していた他、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）や[アップル](../Page/アップル_\(企業\).md "wikilink")（[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iPod shuffle](https://ja.wikipedia.org/wiki/iPod_shuffle "wikilink")、[MacBook](https://ja.wikipedia.org/wiki/MacBook "wikilink")）、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[エプソンダイレクト](https://ja.wikipedia.org/wiki/エプソンダイレクト "wikilink")などへ部品の供給を行っている。消費者向け市場では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春頃から自社ブランドで[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")「[Eee PC](https://ja.wikipedia.org/wiki/Eee_PC "wikilink")」を本格的に販売している。
+現在の製品分野は、業界最大手の1つに数えられるマザーボードのほか、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[ビデオカード](../Page/ビデオカード.md "wikilink")、[DVD](../Page/DVD.md "wikilink")ドライブなど多岐に渡る。[OEM](../Page/OEM.md "wikilink")では、かつて[ソニー](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")シリーズへ供給していた他、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）や[アップル](../Page/アップル_\(企業\).md "wikilink")（[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iPod shuffle](https://ja.wikipedia.org/wiki/iPod_shuffle "wikilink")、[MacBook](../Page/MacBook.md "wikilink")）、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[エプソンダイレクト](../Page/エプソンダイレクト.md "wikilink")などへ部品の供給を行っている。消費者向け市場では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春頃から自社ブランドで[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")「[Eee PC](https://ja.wikipedia.org/wiki/Eee_PC "wikilink")」を本格的に販売している。
 
-[ASRock](../Page/ASRock.md "wikilink")はASUSの技術者による独立起業が出自であり、現在もASUSの製造部門が分離独立した[Pegatron](https://ja.wikipedia.org/wiki/Pegatron "wikilink")の傘下ではあることから、 現在もASUSの子会社という誤解が生じがちであるが、 信頼性重視のASUSブランドとは異なる個性的なマザーボードの製造は独立起業当初からなされていた。例えばi865[チップセット](../Page/チップセット.md "wikilink")で対応不可であるはずの[Intel Core 2が動作する](https://ja.wikipedia.org/wiki/Intel_Core_2 "wikilink")「ConRoe865PE」では、[メモリは](../Page/記憶装置.md "wikilink")[DDR400](https://ja.wikipedia.org/wiki/DDR_SDRAM "wikilink")（これもチップセットメーカーの仕様では非対応）に独自に対応させ、更にDDR533に[オーバークロック](../Page/オーバークロック.md "wikilink")して動作させているという。また、[コンデンサ](../Page/コンデンサ.md "wikilink")等部品面でも差別化が図られていた。
+[ASRock](../Page/ASRock.md "wikilink")はASUSの技術者による独立起業が出自であり、現在もASUSの製造部門が分離独立した[Pegatron](https://ja.wikipedia.org/wiki/Pegatron "wikilink")の傘下ではあることから、 現在もASUSの子会社という誤解が生じがちであるが、 信頼性重視のASUSブランドとは異なる個性的なマザーボードの製造は独立起業当初からなされていた。例えばi865[チップセット](../Page/チップセット.md "wikilink")で対応不可であるはずの[Intel Core 2が動作する](../Page/Intel_Core_2.md "wikilink")「ConRoe865PE」では、[メモリは](../Page/記憶装置.md "wikilink")[DDR400](../Page/DDR_SDRAM.md "wikilink")（これもチップセットメーカーの仕様では非対応）に独自に対応させ、更にDDR533に[オーバークロック](../Page/オーバークロック.md "wikilink")して動作させているという。また、[コンデンサ](../Page/コンデンサ.md "wikilink")等部品面でも差別化が図られていた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[GIGABYTE TECHNOLOGYと合弁会社を設立する計画を発表した](https://ja.wikipedia.org/wiki/GIGABYTE "wikilink")\[7\]\[8\]が、一部の地域での独占禁止法に抵触する恐れなどから、[2007年](../Page/2007年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に事実上撤回した\[9\]。
+[2006年](../Page/2006年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[GIGABYTE TECHNOLOGYと合弁会社を設立する計画を発表した](../Page/GIGABYTE.md "wikilink")\[7\]\[8\]が、一部の地域での独占禁止法に抵触する恐れなどから、[2007年](../Page/2007年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に事実上撤回した\[9\]。
 
 ## 世界展開
 
@@ -101,7 +101,7 @@
 
 ### タブレット端末
 
-[Android](../Page/Android.md "wikilink")搭載モデルの[タブレットは](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")、ビジネスシーンでも活用できるキーボード付のモデルを販売しているのが特徴である。タブレットPCのみや[Windows搭載モデルもある](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+[Android](../Page/Android.md "wikilink")搭載モデルの[タブレットは](../Page/タブレット_\(コンピュータ\).md "wikilink")、ビジネスシーンでも活用できるキーボード付のモデルを販売しているのが特徴である。タブレットPCのみや[Windows搭載モデルもある](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
   -   - [Eee Pad Transformer](https://ja.wikipedia.org/wiki/Asus_Eee_Pad_Transformer "wikilink") シリーズ - キーボードドック付のタブレットPC。キーボードドックの取り外しができる。
       - [Eee Pad Slider](https://ja.wikipedia.org/wiki/Eee_Pad_Slider "wikilink") シリーズ - キーボード一体型タブレットPC。
@@ -135,13 +135,13 @@
 
 ### その他
 
-  - [マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")
+  - [マザーボード](../Page/マザーボード.md "wikilink")
       - コンシューマー向け
       - サーバ向け
   - [グラフィックカード](../Page/ビデオカード.md "wikilink")
-  - [サウンドカード](https://ja.wikipedia.org/wiki/サウンドカード "wikilink")
+  - [サウンドカード](../Page/サウンドカード.md "wikilink")
       - Xonarシリーズ
-  - [ベアボーンキット](https://ja.wikipedia.org/wiki/ベアボーンキット "wikilink")
+  - [ベアボーンキット](../Page/ベアボーンキット.md "wikilink")
   - [液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")
       - ROGシリーズ
       - ProArtシリーズ
@@ -159,9 +159,9 @@
   - ストレージデバイス DVDドライブ
   - ワイヤレスネットワーク機器
   - PCケース
-  - [CPUクーラー](https://ja.wikipedia.org/wiki/CPUの冷却装置 "wikilink")
-  - [ドライブレコーダー](https://ja.wikipedia.org/wiki/ドライブレコーダー "wikilink")
-  - [スマートスピーカー](https://ja.wikipedia.org/wiki/スマートスピーカー "wikilink")『神隊友小布（シャオブー）』：台湾国内向けに[批踢踢(PTT)創設者の](https://ja.wikipedia.org/wiki/PTT_\(台湾\) "wikilink")[杜奕瑾](https://ja.wikipedia.org/wiki/杜奕瑾 "wikilink")が率いる台湾AIラボが開発したAIアシスタント「雅婷一号」を搭載。中国語圏でも[普通話](https://ja.wikipedia.org/wiki/普通話 "wikilink")とは異なる[台湾中国語の独特の言い回しにも対応している](https://ja.wikipedia.org/wiki/台湾華語 "wikilink")\[13\]\[14\]。
+  - [CPUクーラー](../Page/CPUの冷却装置.md "wikilink")
+  - [ドライブレコーダー](../Page/ドライブレコーダー.md "wikilink")
+  - [スマートスピーカー](https://ja.wikipedia.org/wiki/スマートスピーカー "wikilink")『神隊友小布（シャオブー）』：台湾国内向けに[批踢踢(PTT)創設者の](https://ja.wikipedia.org/wiki/PTT_\(台湾\) "wikilink")[杜奕瑾](https://ja.wikipedia.org/wiki/杜奕瑾 "wikilink")が率いる台湾AIラボが開発したAIアシスタント「雅婷一号」を搭載。中国語圏でも[普通話](../Page/普通話.md "wikilink")とは異なる[台湾中国語の独特の言い回しにも対応している](https://ja.wikipedia.org/wiki/台湾華語 "wikilink")\[13\]\[14\]。
 
 ## 脚注
 

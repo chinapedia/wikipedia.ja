@@ -1,7 +1,7 @@
 > この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
 
 
-**ジョン・ローレンス・サリバン**（**John Lawrence Sullivan**、[1858年](../Page/1858年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1918年](../Page/1918年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")出身の[男性](../Page/男性.md "wikilink")[プロボクサー](../Page/プロボクサー.md "wikilink")。[ベアナックル・ボクシング](https://ja.wikipedia.org/wiki/ベアナックル・ボクシング "wikilink")の「ロンドン・プライズリング・ルールズ」時代の、[ヘビー級](https://ja.wikipedia.org/wiki/ヘビー級 "wikilink")最後のチャンピオンであり、引き続きグローブ方式の[クインズベリー・ルール](https://ja.wikipedia.org/wiki/クインズベリー・ルール "wikilink")での最初の認定チャンピオン。体重96kg。
+**ジョン・ローレンス・サリバン**（**John Lawrence Sullivan**、[1858年](../Page/1858年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1918年](../Page/1918年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")出身の[男性](../Page/男性.md "wikilink")[プロボクサー](../Page/プロボクサー.md "wikilink")。[ベアナックル・ボクシング](https://ja.wikipedia.org/wiki/ベアナックル・ボクシング "wikilink")の「ロンドン・プライズリング・ルールズ」時代の、[ヘビー級](../Page/ヘビー級.md "wikilink")最後のチャンピオンであり、引き続きグローブ方式の[クインズベリー・ルール](https://ja.wikipedia.org/wiki/クインズベリー・ルール "wikilink")での最初の認定チャンピオン。体重96kg。
 
 しかし当時は世界チャンピオンという概念やタイトルも曖昧で、後世になってから後付された部分が多い。そのため現代では1882年2月7日のパディー・ライアンとの試合では無く、1888年3月10日のチャーリー・ミッチェルとの試合か1889年9月7日のジェーク・キルレインとの試合を初の世界タイトルマッチとする意見も多い。
 
@@ -17,7 +17,7 @@
 
 1883年から1884年に238日間かけてのアメリカ大陸横断ツアー中に、136の都市と町で195試合を行う。そのツアー中に250ドルの賞金マッチで相手を募り、11人を倒した。
 
-1887年、マサチューセッツ州グルースターで[プロレスラー](../Page/プロレスラー.md "wikilink")の[ウィリアム・マルドゥーン](https://ja.wikipedia.org/wiki/ウィリアム・マルドゥーン "wikilink")と[異種格闘技戦](https://ja.wikipedia.org/wiki/異種格闘技戦 "wikilink")。試合後、観客が暴動を起こしたという。マルドゥーンは引退しサリバンのマネージャーとなる。このため八百長疑惑もあった。
+1887年、マサチューセッツ州グルースターで[プロレスラー](../Page/プロレスラー.md "wikilink")の[ウィリアム・マルドゥーン](../Page/ウィリアム・マルドゥーン.md "wikilink")と[異種格闘技戦](https://ja.wikipedia.org/wiki/異種格闘技戦 "wikilink")。試合後、観客が暴動を起こしたという。マルドゥーンは引退しサリバンのマネージャーとなる。このため八百長疑惑もあった。
 
 1889年、31歳で[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")リッチバーグでヘビー級王座戦（対ジェーク・キルレイン、ロンドン・プライズリング・ルールズ）に出場し、75ラウンド（2時間16分）勝利。プロレスラーのウィリアム・マルドゥーンをコーチにしたという。また、この試合は写真が残っている唯一のベアナックル試合とされる。
 

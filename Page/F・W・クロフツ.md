@@ -5,11 +5,11 @@
 
 ## 経歴
 
-1879年に[アイルランド](../Page/アイルランド.md "wikilink")の[ダブリン](../Page/ダブリン.md "wikilink")に生まれる。[英国陸軍](https://ja.wikipedia.org/wiki/英国陸軍 "wikilink")の軍医だった父親の死後、母親の再婚相手が[ダウン州](https://ja.wikipedia.org/wiki/ダウン州 "wikilink")の教会の[大執事だったため](https://ja.wikipedia.org/wiki/執事_\(キリスト教\) "wikilink")、[アルスター](https://ja.wikipedia.org/wiki/アルスター "wikilink")地方で育つ。その後、当地で鉄道技師となり、33歳で結婚したが、40歳の時に病で入院する。その療養後に手慰みに書いた処女作『[樽](https://ja.wikipedia.org/wiki/樽_\(推理小説\) "wikilink")』（[1920年](../Page/1920年.md "wikilink")発表）で名声を博し、推理作家への仲間入りを果たした。毎年1作ずつ新作を発表し、50歳まで本業の技師を続けるが、体調悪化により退職する。その後は[ロンドン](../Page/ロンドン.md "wikilink")近郊に転居して作家専業になり、[英国芸術学士院の会員になった](https://ja.wikipedia.org/wiki/ロイヤル・ソサエティ・オブ・アーツ "wikilink")\[1\]。
+1879年に[アイルランド](../Page/アイルランド.md "wikilink")の[ダブリン](../Page/ダブリン.md "wikilink")に生まれる。[英国陸軍](https://ja.wikipedia.org/wiki/英国陸軍 "wikilink")の軍医だった父親の死後、母親の再婚相手が[ダウン州](../Page/ダウン州.md "wikilink")の教会の[大執事だったため](https://ja.wikipedia.org/wiki/執事_\(キリスト教\) "wikilink")、[アルスター](../Page/アルスター.md "wikilink")地方で育つ。その後、当地で鉄道技師となり、33歳で結婚したが、40歳の時に病で入院する。その療養後に手慰みに書いた処女作『[樽](../Page/樽_\(推理小説\).md "wikilink")』（[1920年](../Page/1920年.md "wikilink")発表）で名声を博し、推理作家への仲間入りを果たした。毎年1作ずつ新作を発表し、50歳まで本業の技師を続けるが、体調悪化により退職する。その後は[ロンドン](../Page/ロンドン.md "wikilink")近郊に転居して作家専業になり、[英国芸術学士院の会員になった](https://ja.wikipedia.org/wiki/ロイヤル・ソサエティ・オブ・アーツ "wikilink")\[1\]。
 
 ## 作風
 
-推理小説の犯罪解明法を「[アリバイ](../Page/アリバイ.md "wikilink")くずし」に軸をおいた点で注目されることが多いが、[密室殺人](https://ja.wikipedia.org/wiki/密室殺人 "wikilink")を扱ったものや冒険小説的色彩が強いものなどもある。共通して言えることは、探偵が決して天才的ではなく、地道に捜査を続けていく「足の探偵」ということである。それゆえ、クロフツの小説は「リアリズム推理小説」と呼ばれることがある。テンポが遅いためしばしば退屈と評されることがあるが、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては戦前から[S・S・ヴァン・ダイン](https://ja.wikipedia.org/wiki/S・S・ヴァン・ダイン "wikilink")らとともに人気を集めていた。
+推理小説の犯罪解明法を「[アリバイ](../Page/アリバイ.md "wikilink")くずし」に軸をおいた点で注目されることが多いが、[密室殺人](../Page/密室殺人.md "wikilink")を扱ったものや冒険小説的色彩が強いものなどもある。共通して言えることは、探偵が決して天才的ではなく、地道に捜査を続けていく「足の探偵」ということである。それゆえ、クロフツの小説は「リアリズム推理小説」と呼ばれることがある。テンポが遅いためしばしば退屈と評されることがあるが、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては戦前から[S・S・ヴァン・ダイン](../Page/S・S・ヴァン・ダイン.md "wikilink")らとともに人気を集めていた。
 
 『樽』は処女作にして最上の作品として評価されるほか、[倒叙推理小説も発表し](https://ja.wikipedia.org/wiki/推理小説#倒叙（とうじょ） "wikilink")、特に長編『クロイドン発12時30分』は倒叙の三大傑作のひとつとして名高い。5作目の長編『フレンチ警部最大の事件』からは探偵[ジョジフ・フレンチ](https://ja.wikipedia.org/wiki/ジョジフ・フレンチ "wikilink")警部（後に首席警部→警視→主任警視に昇進）が登場し、以後、シリーズ探偵として有名になった。推理小説以外では[新約聖書](../Page/新約聖書.md "wikilink")の四[福音書](../Page/福音書.md "wikilink")を伝記風にまとめた作品がある。
 
@@ -19,7 +19,7 @@
 
 ### 長編
 
-  - [1920年](../Page/1920年.md "wikilink") 『[樽](https://ja.wikipedia.org/wiki/樽_\(推理小説\) "wikilink")』（*The Cask*）
+  - [1920年](../Page/1920年.md "wikilink") 『[樽](../Page/樽_\(推理小説\).md "wikilink")』（*The Cask*）
   - [1921年](../Page/1921年.md "wikilink") 『ポンスン事件』（*The Ponson Case*）
   - [1922年](../Page/1922年.md "wikilink") 『製材所の秘密』（*The Pit-Prop Syndicate*）
   - [1923年](../Page/1923年.md "wikilink") 『フローテ公園の殺人』（*The Groote Park Murder*）

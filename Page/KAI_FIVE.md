@@ -1,13 +1,13 @@
 > この記事は[KAI FIVE](https://ja.wikipedia.org/wiki/KAI_FIVE)から翻訳されています。
 
 
-**KAI FIVE**（カイ ファイブ）は、[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")が中心となって結成した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。 [1991年](../Page/1991年.md "wikilink")デビュー。[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[並木家の人々](https://ja.wikipedia.org/wiki/並木家の人々 "wikilink")』の主題歌「[風の中の火のように](https://ja.wikipedia.org/wiki/風の中の火のように_\(KAI_FIVEの曲\) "wikilink")」がヒット。[1994年](../Page/1994年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")活動休止。ユニット名は、"FIVE"のうちの3番目までをメンバー3人、4番目が参加ベーシスト、そして5番目はオーディエンスを表している。
+**KAI FIVE**（カイ ファイブ）は、[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")が中心となって結成した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。 [1991年](../Page/1991年.md "wikilink")デビュー。[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[並木家の人々](../Page/並木家の人々.md "wikilink")』の主題歌「[風の中の火のように](https://ja.wikipedia.org/wiki/風の中の火のように_\(KAI_FIVEの曲\) "wikilink")」がヒット。[1994年](../Page/1994年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")活動休止。ユニット名は、"FIVE"のうちの3番目までをメンバー3人、4番目が参加ベーシスト、そして5番目はオーディエンスを表している。
 
 ## メンバー
 
   - 甲斐よしひろ：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [田中裕千](https://ja.wikipedia.org/wiki/田中裕千 "wikilink")：[ギター](../Page/ギター.md "wikilink")
-  - [今川ツトム](https://ja.wikipedia.org/wiki/今川勉 "wikilink")([ECHOES](https://ja.wikipedia.org/wiki/ECHOES "wikilink"))：[ドラムス](../Page/ドラムセット.md "wikilink")
+  - [今川ツトム](https://ja.wikipedia.org/wiki/今川勉 "wikilink")([ECHOES](../Page/ECHOES.md "wikilink"))：[ドラムス](../Page/ドラムセット.md "wikilink")
 
 ## ディスコグラフィ
 
@@ -38,9 +38,9 @@
 
 ### タイアップ曲
 
-| 楽曲        | タイアップ                                                                                                                                                               |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 風の中の火のように | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系ドラマ](../Page/フジネットワーク.md "wikilink")『[並木家の人々](https://ja.wikipedia.org/wiki/並木家の人々 "wikilink")』主題歌\[1\] |
+| 楽曲        | タイアップ                                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 風の中の火のように | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系ドラマ](../Page/フジネットワーク.md "wikilink")『[並木家の人々](../Page/並木家の人々.md "wikilink")』主題歌\[1\] |
 
 ## 脚注
 

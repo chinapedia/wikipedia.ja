@@ -1,7 +1,7 @@
 > この記事は[K3b](https://ja.wikipedia.org/wiki/K3b)から翻訳されています。
 
 
-**K3b** は、[フリーな](../Page/フリーソフトウェア.md "wikilink")[CD及び](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")の[オーサリング](https://ja.wikipedia.org/wiki/オーサリング "wikilink")[アプリケーションの一つである](../Page/アプリケーションソフトウェア.md "wikilink")。[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")など[Unix系](../Page/Unix系.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上の[KDE](../Page/KDE.md "wikilink")環境で動作する。Sebastian Trüg と Christian Kvasny が開発した。
+**K3b** は、[フリーな](../Page/フリーソフトウェア.md "wikilink")[CD及び](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")の[オーサリング](https://ja.wikipedia.org/wiki/オーサリング "wikilink")[アプリケーションの一つである](../Page/アプリケーションソフトウェア.md "wikilink")。[Linux](../Page/Linux.md "wikilink")など[Unix系](../Page/Unix系.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上の[KDE](../Page/KDE.md "wikilink")環境で動作する。Sebastian Trüg と Christian Kvasny が開発した。
 
 ファイルの集合から、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を用いてデータや音楽CDを作成することができる。また、ディスクをまるごと複製することもできる。プログラムには多くのパラメータがあり、上級者にはカスタマイズの楽しみがある。実際のCD書き込み動作には[コマンドライン](https://ja.wikipedia.org/wiki/コマンドライン "wikilink")[ユーティリティ](https://ja.wikipedia.org/wiki/ユーティリティ "wikilink")であるや、 及びgrowisofs([dvd+rw-tools](https://ja.wikipedia.org/wiki/dvd+rw-tools "wikilink")のユーティリティ)もしくはそれとの互換性がある、[cdrkit](https://ja.wikipedia.org/wiki/cdrkit "wikilink")を利用している。
 

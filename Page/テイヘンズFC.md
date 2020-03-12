@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1977年の地域リーグ_(サッカー)" title="wikilink">1977</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北信越フットボールリーグ" title="wikilink">北信越</a></p></td>
+<td><p><a href="../Page/北信越フットボールリーグ.md" title="wikilink">北信越</a></p></td>
 <td><p>5位</p></td>
 <td><p>8</p></td>
 <td><p>9</p></td>
@@ -498,7 +498,7 @@
 <td><p>10</p></td>
 <td><p>64</p></td>
 <td><p>-54</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第86回天皇杯全日本サッカー選手権大会" title="wikilink">第86回</a>・1回戦</p></td>
+<td><p><a href="../Page/第86回天皇杯全日本サッカー選手権大会.md" title="wikilink">第86回</a>・1回戦</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -517,7 +517,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石川県フットボールリーグ" title="wikilink">石川県</a>1部</p></td>
+<td><p><a href="../Page/石川県フットボールリーグ.md" title="wikilink">石川県</a>1部</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p>24</p></td>
 <td><p>8</p></td>
@@ -703,7 +703,7 @@
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大矢直史" title="wikilink">大矢直史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルネス学園甲賀サッカークラブ" title="wikilink">ルネス甲賀SC</a> 選手</p></td>
+<td><p><a href="../Page/ルネス学園甲賀サッカークラブ.md" title="wikilink">ルネス甲賀SC</a> 選手</p></td>
 <td><p>選手兼監督</p></td>
 </tr>
 <tr class="odd">
@@ -775,14 +775,14 @@
 <tr class="even">
 <td><p><strong>3</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横山光" title="wikilink">横山光</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢星稜大学" title="wikilink">金沢星稜大学</a></p></td>
+<td><p><a href="../Page/金沢星稜大学.md" title="wikilink">金沢星稜大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/町恭輔" title="wikilink">町恭輔</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遊学館高等学校" title="wikilink">遊学館高校</a></p></td>
+<td><p><a href="../Page/遊学館高等学校.md" title="wikilink">遊学館高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -796,7 +796,7 @@
 <tr class="odd">
 <td><p><strong>8</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高田創一" title="wikilink">高田創一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢学院大学" title="wikilink">金沢学院大学</a></p></td>
+<td><p><a href="../Page/金沢学院大学.md" title="wikilink">金沢学院大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -817,14 +817,14 @@
 <tr class="even">
 <td><p><strong>17</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大矢直史" title="wikilink">大矢直史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルネス学園甲賀サッカークラブ" title="wikilink">ルネス甲賀SC</a></p></td>
+<td><p><a href="../Page/ルネス学園甲賀サッカークラブ.md" title="wikilink">ルネス甲賀SC</a></p></td>
 <td><p>選手兼監督</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/八幡桂智" title="wikilink">八幡桂智</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢学院大学" title="wikilink">金沢学院大学</a></p></td>
+<td><p><a href="../Page/金沢学院大学.md" title="wikilink">金沢学院大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -852,13 +852,13 @@
 <tr class="odd">
 <td><p><strong>13</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小竹裕介" title="wikilink">小竹裕介</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/同志社大学" title="wikilink">同志社大学</a></p></td>
+<td><p><a href="../Page/同志社大学.md" title="wikilink">同志社大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>16</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白井達也_(サッカー選手)" title="wikilink">白井達也</a></p></td>
+<td><p><a href="../Page/白井達也_(サッカー選手).md" title="wikilink">白井達也</a></p></td>
 <td><p><a href="../Page/金沢大学.md" title="wikilink">金沢大学</a></p></td>
 <td></td>
 <td></td>
@@ -880,14 +880,14 @@
 <tr class="odd">
 <td><p><strong>21</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新保充" title="wikilink">新保充</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢学院高等学校" title="wikilink">金沢東高校</a></p></td>
+<td><p><a href="../Page/金沢学院高等学校.md" title="wikilink">金沢東高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/能村拓海" title="wikilink">能村拓海</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢高等学校" title="wikilink">金沢高校</a></p></td>
+<td><p><a href="../Page/金沢高等学校.md" title="wikilink">金沢高校</a></p></td>
 <td></td>
 <td></td>
 </tr>

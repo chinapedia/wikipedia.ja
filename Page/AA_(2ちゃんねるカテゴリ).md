@@ -1,16 +1,16 @@
 > この記事は[AA \(2\)](https://ja.wikipedia.org/wiki/AA_\(2\))から翻訳されています。
 
 
-**AAカテゴリ**（[アスキーアート](https://ja.wikipedia.org/wiki/アスキーアート "wikilink")カテゴリ）は、[匿名掲示板](https://ja.wikipedia.org/wiki/匿名掲示板 "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")のカテゴリの1つである。AAを扱う掲示板からなる。
+**AAカテゴリ**（[アスキーアート](../Page/アスキーアート.md "wikilink")カテゴリ）は、[匿名掲示板](../Page/匿名掲示板.md "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")のカテゴリの1つである。AAを扱う掲示板からなる。
 
 ## 歴史
 
-  - [1999年](../Page/1999年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") [馴れ合いカテゴリに](https://ja.wikipedia.org/wiki/馴れ合い_\(2ちゃんねるカテゴリ\) "wikilink")**顔文字板**新設
+  - [1999年](../Page/1999年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") [馴れ合いカテゴリに](../Page/馴れ合い_\(2ちゃんねるカテゴリ\).md "wikilink")**顔文字板**新設
   - [2000年](../Page/2000年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") 馴れ合いカテゴリに**モナー板**新設
   - [2002年](../Page/2002年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") 馴れ合いカテゴリに**AA長編板**新設
   - 2002年[10月14日](../Page/10月14日.md "wikilink") AAカテゴリ新設、それに伴い馴れ合いカテゴリから顔文字板・モナー板・AA長編板の移動
   - 2002年[12月22日](../Page/12月22日.md "wikilink") **AAサロン板**新設
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月19日](../Page/3月19日.md "wikilink") **ニダー板**新設
+  - [2005年](../Page/2005年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") **ニダー板**新設
 
 ## 掲示板
 

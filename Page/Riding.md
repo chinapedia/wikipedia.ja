@@ -11,7 +11,7 @@
 
 ## 略歴
 
-1994年に結成。[TUBE](../Page/TUBE.md "wikilink")の[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")が作曲を手がけたり、[前田亘輝](../Page/前田亘輝.md "wikilink")にプロデュースされることもあった。また、[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[坂崎幸之助](../Page/坂崎幸之助.md "wikilink")を迎えてレコーディングを行ったこともある。
+1994年に結成。[TUBE](../Page/TUBE.md "wikilink")の[春畑道哉](../Page/春畑道哉.md "wikilink")が作曲を手がけたり、[前田亘輝](../Page/前田亘輝.md "wikilink")にプロデュースされることもあった。また、[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[坂崎幸之助](../Page/坂崎幸之助.md "wikilink")を迎えてレコーディングを行ったこともある。
 
 活動休止を経て、[伊藤一義](../Page/伊藤一義.md "wikilink")が自身の公式サイトで解散を発表。
 
@@ -66,7 +66,7 @@
 <li>こんな僕でも</li>
 </ol></td>
 <td><p>前田亘輝プロデュース<br />
-ラジオ番組「<a href="https://ja.wikipedia.org/wiki/前田亘輝のOnly_Good_Times" title="wikilink">前田亘輝のOnly Good Times</a>」で伊藤一義が「<a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン初登場</a>40位以内に入らなければバンド解散」と発言。<br />
+ラジオ番組「<a href="https://ja.wikipedia.org/wiki/前田亘輝のOnly_Good_Times" title="wikilink">前田亘輝のOnly Good Times</a>」で伊藤一義が「<a href="../Page/オリコンチャート.md" title="wikilink">オリコン初登場</a>40位以内に入らなければバンド解散」と発言。<br />
 結果、オリコンシングルチャートで初登場39位にランクインした。</p></td>
 </tr>
 <tr class="even">
@@ -142,6 +142,6 @@
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [TUBE](../Page/TUBE.md "wikilink")
       - [前田亘輝](../Page/前田亘輝.md "wikilink")
-      - [春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")
+      - [春畑道哉](../Page/春畑道哉.md "wikilink")
 
 [Category:TUBE](https://ja.wikipedia.org/wiki/Category:TUBE "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink")

@@ -7,7 +7,7 @@
 
 ### 標準時（通年）
 
-  - [中央ヨーロッパ時間](https://ja.wikipedia.org/wiki/中央ヨーロッパ時間 "wikilink") - CET
+  - [中央ヨーロッパ時間](../Page/中央ヨーロッパ時間.md "wikilink") - CET
       -
       -
       -
@@ -17,7 +17,7 @@
       -
       -
       -
-      -   - [キンシャサ](https://ja.wikipedia.org/wiki/キンシャサ "wikilink")を含む西部
+      -   - [キンシャサ](../Page/キンシャサ.md "wikilink")を含む西部
 
       -
       -
@@ -27,7 +27,7 @@
       -
 ### 標準時（北半球冬）
 
-  - [中央ヨーロッパ時間](https://ja.wikipedia.org/wiki/中央ヨーロッパ時間 "wikilink") - CET
+  - [中央ヨーロッパ時間](../Page/中央ヨーロッパ時間.md "wikilink") - CET
       -
       -
       -
@@ -51,7 +51,7 @@
       - （[グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")、フェロー諸島を除く）
 
       -
-      - （[ブーベ島](https://ja.wikipedia.org/wiki/ブーベ島 "wikilink")を除く）
+      - （[ブーベ島](../Page/ブーベ島.md "wikilink")を除く）
 
           - [スヴァールバル諸島およびヤンマイエン島](https://ja.wikipedia.org/wiki/スヴァールバル諸島およびヤンマイエン島 "wikilink")を含む
 
@@ -69,7 +69,7 @@
       -
 ### 夏時間（北半球）
 
-  - [西ヨーロッパ夏時間](https://ja.wikipedia.org/wiki/西ヨーロッパ夏時間 "wikilink") - WEST
+  - [西ヨーロッパ夏時間](../Page/西ヨーロッパ夏時間.md "wikilink") - WEST
       -
       - （[海外領土を除く](../Page/イギリスの海外領土.md "wikilink")）
 
@@ -89,7 +89,7 @@
   - [アルジェリア時間](https://ja.wikipedia.org/wiki/アルジェリア時間 "wikilink")
   - [アンゴラ時間](https://ja.wikipedia.org/wiki/アンゴラ時間 "wikilink")
   - [イタリア時間](https://ja.wikipedia.org/wiki/イタリア時間 "wikilink")
-  - [英国夏時間](https://ja.wikipedia.org/wiki/英国夏時間 "wikilink")
+  - [英国夏時間](../Page/英国夏時間.md "wikilink")
   - [コンゴ時間](https://ja.wikipedia.org/wiki/コンゴ時間 "wikilink")
   - [ジブラルタル時間](https://ja.wikipedia.org/wiki/ジブラルタル時間 "wikilink")
   - [スイス時間](https://ja.wikipedia.org/wiki/スイス時間 "wikilink")

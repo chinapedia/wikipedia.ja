@@ -23,7 +23,7 @@
       - 初代 J Soul Brothersの3rdシングルのカバー
 3.  **Heat Beats** (3:40)
       -
-        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
 4.  **fallin**' (5:41)
       -
         作詞：Kenn Kato / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
@@ -37,7 +37,7 @@
         作詞・作曲：SASA / 編曲：原田憲
     <!-- end list -->
       - 初代 J Soul Brothersの2ndシングルのカバー
-      - [DJ MAKIDAIによるスクラッチが](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")[フィーチャーされている](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")。
+      - [DJ MAKIDAIによるスクラッチが](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")[フィーチャーされている](../Page/フィーチャリング.md "wikilink")。
 7.  **それが僕だから** (4:33)
       -
         作詞：SHUN / 作曲・編曲：Face 2 fAKE
@@ -69,7 +69,7 @@
 13. **VIOLATION** (4:53)
       -
         作詞：Kenn Kato / 作曲・編曲：原田憲
-14. **[Your Eyes Only](https://ja.wikipedia.org/wiki/Your_eyes_only_〜曖昧なぼくの輪郭〜 "wikilink")** (3:48)
+14. **[Your Eyes Only](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")** (3:48)
       -
         作詞：Kenn Kato / 作曲・編曲：Face 2 fAKE
     <!-- end list -->

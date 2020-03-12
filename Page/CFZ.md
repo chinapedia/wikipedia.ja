@@ -25,29 +25,29 @@
 
 ### CFZ・ド・リオ
 
-  - [アルシンド](https://ja.wikipedia.org/wiki/アルシンド・サルトーリ "wikilink") 2000
+  - [アルシンド](../Page/アルシンド・サルトーリ.md "wikilink") 2000
 
-  - [リカルド](https://ja.wikipedia.org/wiki/リカルド・カヴァルカンテ・リベイロ "wikilink") -1998
+  - [リカルド](../Page/リカルド・カヴァルカンテ・リベイロ.md "wikilink") -1998
 
-  - [ビスマルク](https://ja.wikipedia.org/wiki/ビスマルク・バレット・ファリア "wikilink") 2002
+  - [ビスマルク](../Page/ビスマルク・バレット・ファリア.md "wikilink") 2002
 
-  - [アルトゥール・アントゥネス・コインブラ・ジュニオール](https://ja.wikipedia.org/wiki/アルトゥール・アントゥネス・コインブラ・ジュニオール "wikilink") 1998、2000-2001、2003
+  - [アルトゥール・アントゥネス・コインブラ・ジュニオール](../Page/アルトゥール・アントゥネス・コインブラ・ジュニオール.md "wikilink") 1998、2000-2001、2003
 
   - [ブルーノ・カブレリーゾ](https://ja.wikipedia.org/wiki/ブルーノ・カブレリーゾ "wikilink") -2003
 
-  - [ロドリゴ](https://ja.wikipedia.org/wiki/ロドリゴ・ヌネス・デ・オリベイラ "wikilink")
+  - [ロドリゴ](../Page/ロドリゴ・ヌネス・デ・オリベイラ.md "wikilink")
 
   - [ドグラス](https://ja.wikipedia.org/wiki/ドグラス・ピレス・デ・ソウザ "wikilink")
 
   - [イゴール](https://ja.wikipedia.org/wiki/イゴール・トーレス・サルトーリ "wikilink")
 
-  - [ジェフェルソン](https://ja.wikipedia.org/wiki/ジェフェルソン・ヴィエイラ・ダ・クルス "wikilink") 2008-
+  - [ジェフェルソン](../Page/ジェフェルソン・ヴィエイラ・ダ・クルス.md "wikilink") 2008-
 
-  - [鈴木隆行](https://ja.wikipedia.org/wiki/鈴木隆行 "wikilink") 1997 Mar～Sep、1999 Feb～Sep
+  - [鈴木隆行](../Page/鈴木隆行.md "wikilink") 1997 Mar～Sep、1999 Feb～Sep
 
-  - [阿部敏之](https://ja.wikipedia.org/wiki/阿部敏之 "wikilink") 1997
+  - [阿部敏之](../Page/阿部敏之.md "wikilink") 1997
 
-  - [池内友彦](https://ja.wikipedia.org/wiki/池内友彦 "wikilink") 1998
+  - [池内友彦](../Page/池内友彦.md "wikilink") 1998
 
   - [野沢拓也](../Page/野沢拓也.md "wikilink") 1999
 
@@ -55,7 +55,7 @@
 
 ### CFZ・ド・ブラジリア
 
-  - [シュウェンク](https://ja.wikipedia.org/wiki/クレーベル・シュウェンク・ティエネ "wikilink") 2002
+  - [シュウェンク](../Page/クレーベル・シュウェンク・ティエネ.md "wikilink") 2002
 
 ## 関連項目
 

@@ -1,18 +1,18 @@
 > この記事は[TNA](https://ja.wikipedia.org/wiki/TNA)から翻訳されています。
 
 
-**ターニング・ポイント**（*Turning Point*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[TNAが主催する](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレス](../Page/プロレス.md "wikilink")の興行、およびそれを取り扱った[PPVの名称](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")。
+**ターニング・ポイント**（*Turning Point*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[TNAが主催する](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレス](../Page/プロレス.md "wikilink")の興行、およびそれを取り扱った[PPVの名称](../Page/ペイ・パー・ビュー.md "wikilink")。
 
 開催時期は12月。第一回大会は[2004年](../Page/2004年.md "wikilink")に開催された。元々TNAは週一回のPPV形態を取っていたが、後の[TNA iMPACT\!](https://ja.wikipedia.org/wiki/TNA・インパクトレスリング "wikilink")、[Xplosion](https://ja.wikipedia.org/wiki/TNA・エクスプロージョン "wikilink")、月一の3時間PPV体制になってから2回目に開催されたPPVである。
 
-開催場所については、TNAのほかの興行同様[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")の[ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")に固定されている。
+開催場所については、TNAのほかの興行同様[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")の[ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")に固定されている。
 
 ## 試合結果
 
 ### 第1回大会（2004年）
 
   - 開催日 : [12月5日](../Page/12月5日.md "wikilink")
-  - 開催場所 : [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")のユニバーサル・スタジオ・フロリダ
+  - 開催場所 : [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")のユニバーサル・スタジオ・フロリダ
 
 <!-- end list -->
 
@@ -26,8 +26,8 @@
 
 <!-- end list -->
 
-  - [画鋲](https://ja.wikipedia.org/wiki/画鋲 "wikilink")マッチ
-    ○[モンティ・ブラウン](https://ja.wikipedia.org/wiki/モンティ・ブラウン "wikilink") vs [アビス](../Page/クリス・パークス.md "wikilink")●
+  - [画鋲](../Page/画鋲.md "wikilink")マッチ
+    ○[モンティ・ブラウン](../Page/モンティ・ブラウン.md "wikilink") vs [アビス](../Page/クリス・パークス.md "wikilink")●
 
 <!-- end list -->
 
@@ -59,20 +59,20 @@
 ### 第3回大会（2006年）TNA Turning Point 2006
 
   - 開催日 : [12月10日](../Page/12月10日.md "wikilink")
-  - 開催場所 : [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")のユニバーサル・スタジオ・フロリダ
+  - 開催場所 : [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")のユニバーサル・スタジオ・フロリダ
 
 <!-- end list -->
 
-  - **[トリプルスレット形式](https://ja.wikipedia.org/wiki/トリプルスレットマッチ "wikilink")[NWA世界ヘビー級王座](../Page/NWA世界ヘビー級王座.md "wikilink")戦 -Triple Threat Match for the NWA World Heavyweight Championship-**
+  - **[トリプルスレット形式](../Page/トリプルスレットマッチ.md "wikilink")[NWA世界ヘビー級王座](../Page/NWA世界ヘビー級王座.md "wikilink")戦 -Triple Threat Match for the NWA World Heavyweight Championship-**
 
 <!-- end list -->
 
   -
-    [アビス](../Page/クリス・パークス.md "wikilink")（王者） vs [スティング](https://ja.wikipedia.org/wiki/スティング_\(プロレスラー\) "wikilink") vs [クリスチャン・ケイジ](https://ja.wikipedia.org/wiki/ジェイソン・リソ "wikilink")
+    [アビス](../Page/クリス・パークス.md "wikilink")（王者） vs [スティング](../Page/スティング_\(プロレスラー\).md "wikilink") vs [クリスチャン・ケイジ](../Page/ジェイソン・リソ.md "wikilink")
 
 <!-- end list -->
 
-  - [カート・アングル](https://ja.wikipedia.org/wiki/カート・アングル "wikilink") vs [サモア・ジョー](../Page/サモア・ジョー.md "wikilink")
+  - [カート・アングル](../Page/カート・アングル.md "wikilink") vs [サモア・ジョー](../Page/サモア・ジョー.md "wikilink")
 
 ### 第4回大会（2007年）
 

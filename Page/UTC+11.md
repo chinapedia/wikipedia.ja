@@ -15,33 +15,33 @@
   -
   -   - [ブーゲンビル自治州](../Page/ブーゲンビル州.md "wikilink")
 
-  -   - [コスラエ州](https://ja.wikipedia.org/wiki/コスラエ州 "wikilink")
+  -   - [コスラエ州](../Page/コスラエ州.md "wikilink")
       - [ポンペイ州](../Page/ポンペイ島.md "wikilink")
 
-  -   - [マガダン時間](https://ja.wikipedia.org/wiki/マガダン時間 "wikilink") - MAGT
+  -   - [マガダン時間](../Page/マガダン時間.md "wikilink") - MAGT
 
   -   -
 ### 夏時間（南半球）
 
   -   - [東部夏時間](https://ja.wikipedia.org/wiki/オーストラリア東部夏時間 "wikilink") - AEDT
-          - [オーストラリア首都特別地域](https://ja.wikipedia.org/wiki/オーストラリア首都特別地域 "wikilink")
-          - [タスマニア州](https://ja.wikipedia.org/wiki/タスマニア州 "wikilink")
-          - [ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")（[ブロークンヒル](https://ja.wikipedia.org/wiki/ブロークンヒル "wikilink")を除く）
+          - [オーストラリア首都特別地域](../Page/オーストラリア首都特別地域.md "wikilink")
+          - [タスマニア州](../Page/タスマニア州.md "wikilink")
+          - [ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")（[ブロークンヒル](../Page/ブロークンヒル.md "wikilink")を除く）
           - [ビクトリア州](../Page/ビクトリア州.md "wikilink")
-      - [ロード・ハウ島](https://ja.wikipedia.org/wiki/ロード・ハウ島 "wikilink")（冬は+10:30）
+      - [ロード・ハウ島](../Page/ロード・ハウ島.md "wikilink")（冬は+10:30）
 
 ## 歴史
 
-[オーストラリア](../Page/オーストラリア.md "wikilink")の[クイーンズランド州](../Page/クイーンズランド州.md "wikilink")では、1971年に[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")・[ビクトリア州](../Page/ビクトリア州.md "wikilink")・[オーストラリア首都特別地域](https://ja.wikipedia.org/wiki/オーストラリア首都特別地域 "wikilink")とともに夏時間として UTC+11 を採用した。しかしクイーンズランド州は1972年から中止し、通年 [UTC+10](https://ja.wikipedia.org/wiki/UTC+10 "wikilink") となった。ノーフォーク島ではかつては [UTC+11:30](https://ja.wikipedia.org/wiki/UTC+11:30 "wikilink") を採用していたが、2015年10月8日より UTC+11 となった。また、同島は2019年10月6日に夏時間を導入したため UTC+11 であるのは冬期のみとなった\[1\]。
+[オーストラリア](../Page/オーストラリア.md "wikilink")の[クイーンズランド州](../Page/クイーンズランド州.md "wikilink")では、1971年に[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")・[ビクトリア州](../Page/ビクトリア州.md "wikilink")・[オーストラリア首都特別地域](../Page/オーストラリア首都特別地域.md "wikilink")とともに夏時間として UTC+11 を採用した。しかしクイーンズランド州は1972年から中止し、通年 [UTC+10](../Page/UTC+10.md "wikilink") となった。ノーフォーク島ではかつては [UTC+11:30](https://ja.wikipedia.org/wiki/UTC+11:30 "wikilink") を採用していたが、2015年10月8日より UTC+11 となった。また、同島は2019年10月6日に夏時間を導入したため UTC+11 であるのは冬期のみとなった\[1\]。
 
-[ロシア](../Page/ロシア.md "wikilink")ではかつてウラジオストク夏時間と[マガダン時間](https://ja.wikipedia.org/wiki/マガダン時間 "wikilink")（冬期）において+11 を使用していたが、2010年3月28日よりマガダン時間帯は[カムチャツカ時間](https://ja.wikipedia.org/wiki/カムチャツカ時間 "wikilink")帯と統合して新しいマガダン時間帯となり、2011年3月27日よりウラジオストク時間は通年 UTC+11 に、マガダン時間は通年 [UTC+12](../Page/UTC+12.md "wikilink") となった。しかし[2014年](../Page/2014年.md "wikilink")10月26日より再び国内の標準時が1時間戻されたためウラジオストク時間は通年UTC+10となり、この標準時を採用しているのは旧マガダン時間エリアの北部に新たに設けられた[スレドネコリムスク時間](https://ja.wikipedia.org/wiki/スレドネコリムスク時間 "wikilink")となった。2016年4月24日に[マガダン州](https://ja.wikipedia.org/wiki/マガダン州 "wikilink")がUTC+10から当時間帯に移行したためそれまで廃止されていたマガダン時間が復活し、スレドネコリムスク時間は廃止された。
+[ロシア](../Page/ロシア.md "wikilink")ではかつてウラジオストク夏時間と[マガダン時間](../Page/マガダン時間.md "wikilink")（冬期）において+11 を使用していたが、2010年3月28日よりマガダン時間帯は[カムチャツカ時間](../Page/カムチャツカ時間.md "wikilink")帯と統合して新しいマガダン時間帯となり、2011年3月27日よりウラジオストク時間は通年 UTC+11 に、マガダン時間は通年 [UTC+12](../Page/UTC+12.md "wikilink") となった。しかし[2014年](../Page/2014年.md "wikilink")10月26日より再び国内の標準時が1時間戻されたためウラジオストク時間は通年UTC+10となり、この標準時を採用しているのは旧マガダン時間エリアの北部に新たに設けられた[スレドネコリムスク時間](https://ja.wikipedia.org/wiki/スレドネコリムスク時間 "wikilink")となった。2016年4月24日に[マガダン州](../Page/マガダン州.md "wikilink")がUTC+10から当時間帯に移行したためそれまで廃止されていたマガダン時間が復活し、スレドネコリムスク時間は廃止された。
 
 ## 関連項目
 
-  - [オーストラリア時間](https://ja.wikipedia.org/wiki/オーストラリア時間 "wikilink")
+  - [オーストラリア時間](../Page/オーストラリア時間.md "wikilink")
   - [パプアニューギニア時間](https://ja.wikipedia.org/wiki/パプアニューギニア時間 "wikilink")
   - [フランス時間](https://ja.wikipedia.org/wiki/フランス時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
   - [南極大陸の標準時](https://ja.wikipedia.org/wiki/南極大陸の標準時 "wikilink")
 
 ## 脚注

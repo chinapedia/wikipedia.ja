@@ -8,7 +8,7 @@
 ### 標準時（通年）
 
   - [中部標準時](../Page/中部標準時.md "wikilink") - CST
-      -   - [ガラパゴス諸島](https://ja.wikipedia.org/wiki/ガラパゴス諸島 "wikilink")
+      -   - [ガラパゴス諸島](../Page/ガラパゴス諸島.md "wikilink")
 
       -
       -   - [サスカチュワン州](../Page/サスカチュワン州.md "wikilink")（周辺を除く。またでは非公式に夏時間が行われ、冬期のみ\[1\]）
@@ -27,11 +27,11 @@
           - [ヌナブト準州](../Page/ヌナブト準州.md "wikilink")のうち、[西経85度線](https://ja.wikipedia.org/wiki/西経85度線 "wikilink")から[西経102度線](https://ja.wikipedia.org/wiki/西経102度線 "wikilink")の間の地域（[キティクメオト地域](https://ja.wikipedia.org/wiki/キティクメオト地域 "wikilink")を除く）
           - [マニトバ州](../Page/マニトバ州.md "wikilink")
 
-      -   - ほとんどの地域（[キンタナ・ロー州](https://ja.wikipedia.org/wiki/キンタナ・ロー州 "wikilink")、[シナロア州](../Page/シナロア州.md "wikilink")、[ソノラ州](https://ja.wikipedia.org/wiki/ソノラ州 "wikilink")、[チワワ州](https://ja.wikipedia.org/wiki/チワワ州 "wikilink")、[ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")の大部分、[バハ・カリフォルニア州](https://ja.wikipedia.org/wiki/バハ・カリフォルニア州 "wikilink")、[バハ・カリフォルニア・スル州](https://ja.wikipedia.org/wiki/バハ・カリフォルニア・スル州 "wikilink")および[レビジャヒヘド諸島](../Page/レビジャヒヘド諸島.md "wikilink")を除く）
+      -   - ほとんどの地域（[キンタナ・ロー州](../Page/キンタナ・ロー州.md "wikilink")、[シナロア州](../Page/シナロア州.md "wikilink")、[ソノラ州](../Page/ソノラ州.md "wikilink")、[チワワ州](../Page/チワワ州.md "wikilink")、[ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")の大部分、[バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")、[バハ・カリフォルニア・スル州](../Page/バハ・カリフォルニア・スル州.md "wikilink")および[レビジャヒヘド諸島](../Page/レビジャヒヘド諸島.md "wikilink")を除く）
 
 ### 標準時（南半球冬）
 
-  -   - [イースター島](https://ja.wikipedia.org/wiki/イースター島 "wikilink")
+  -   - [イースター島](../Page/イースター島.md "wikilink")
       - [サラ・イ・ゴメス島](../Page/サラ・イ・ゴメス島.md "wikilink")
 
 ### 夏時間（北半球）
@@ -52,7 +52,7 @@
 
 ## 歴史
 
-[メキシコ](../Page/メキシコ.md "wikilink")の[チワワ州](https://ja.wikipedia.org/wiki/チワワ州 "wikilink")で1997年までは冬期に用いられた。 1998年から時間帯を変更し、夏期に用いられるようになった\[2\]。
+[メキシコ](../Page/メキシコ.md "wikilink")の[チワワ州](../Page/チワワ州.md "wikilink")で1997年までは冬期に用いられた。 1998年から時間帯を変更し、夏期に用いられるようになった\[2\]。
 
 ## 関連項目
 

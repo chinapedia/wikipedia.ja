@@ -1,13 +1,13 @@
 > この記事は[-X](https://ja.wikipedia.org/wiki/-X)から翻訳されています。
 
 
-**スタティック-X** (**Static-X**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニュー・メタル](https://ja.wikipedia.org/wiki/ニュー・メタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1994年にカリフォルニア州ロサンゼルスにて結成。自分達の音楽を「**イビル・ディスコ(悪のディスコ)**」と呼称しており楽曲はヘヴィメタルやハードコアの持つ激しいリフとテクノの持つミニマリズムかつ機械的な音と重音性をベースにした曲が多い。激しい[オーバードライブの歪曲音](../Page/エフェクター.md "wikilink")、[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")を彷彿とさせるキーボード、バスリフとテンポの速いあたかも怒っているかのようなボーカルスタイルを特徴としている。[ミニストリー](https://ja.wikipedia.org/wiki/ミニストリー_\(バンド\) "wikilink")、そして[タイプ・オー・ネガティヴ](../Page/タイプ・オー・ネガティヴ.md "wikilink")の影響を受けており、それらに加えてファンや批評家は[ホワイト・ゾンビ](https://ja.wikipedia.org/wiki/ホワイト・ゾンビ_\(バンド\) "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[フィア・ファクトリー](https://ja.wikipedia.org/wiki/フィア・ファクトリー "wikilink")、[ダンジグ](https://ja.wikipedia.org/wiki/ダンジグ "wikilink")、[コール・チェンバー](https://ja.wikipedia.org/wiki/コール・チェンバー "wikilink")などに似ていると評している。
+**スタティック-X** (**Static-X**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニュー・メタル](../Page/ニュー・メタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1994年にカリフォルニア州ロサンゼルスにて結成。自分達の音楽を「**イビル・ディスコ(悪のディスコ)**」と呼称しており楽曲はヘヴィメタルやハードコアの持つ激しいリフとテクノの持つミニマリズムかつ機械的な音と重音性をベースにした曲が多い。激しい[オーバードライブの歪曲音](../Page/エフェクター.md "wikilink")、[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")を彷彿とさせるキーボード、バスリフとテンポの速いあたかも怒っているかのようなボーカルスタイルを特徴としている。[ミニストリー](https://ja.wikipedia.org/wiki/ミニストリー_\(バンド\) "wikilink")、そして[タイプ・オー・ネガティヴ](../Page/タイプ・オー・ネガティヴ.md "wikilink")の影響を受けており、それらに加えてファンや批評家は[ホワイト・ゾンビ](https://ja.wikipedia.org/wiki/ホワイト・ゾンビ_\(バンド\) "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[フィア・ファクトリー](../Page/フィア・ファクトリー.md "wikilink")、[ダンジグ](https://ja.wikipedia.org/wiki/ダンジグ "wikilink")、[コール・チェンバー](https://ja.wikipedia.org/wiki/コール・チェンバー "wikilink")などに似ていると評している。
 
 ## メンバー
 
-  - [ウェイン・スタティック](https://ja.wikipedia.org/wiki/ウェイン・スタティック "wikilink")([リードボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[リズムギター](../Page/リズムギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")) / **Wayne Static** (1994–2010, 2012–2013)
+  - [ウェイン・スタティック](https://ja.wikipedia.org/wiki/ウェイン・スタティック "wikilink")([リードボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[リズムギター](../Page/リズムギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")) / **Wayne Static** (1994–2010, 2012–2013)
     アッシュズ([リードギター](../Page/リードギター.md "wikilink")) / **Ashes** (2012–2013)
-    アンディ・コール([ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")) / **Andy Cole** (2012–2013)
+    アンディ・コール([ベース](../Page/ベース_\(弦楽器\).md "wikilink")) / **Andy Cole** (2012–2013)
     ショーン・デヴィットソン([ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")) / **Sean Davidson** (2012–2013)
     ケン・ジェイ([ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")) / **Ken Jay** (1994–2002)
     [イリノイ州](../Page/イリノイ州.md "wikilink")[ジャマイカ](../Page/ジャマイカ.md "wikilink")生まれ。音楽の方向性の違いから脱退。
@@ -16,9 +16,9 @@
 
 <!-- end list -->
 
-  - トニー・カンポス([ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[バッキングボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")) / **Tony Campos** (1994–2010)
-    コーイチ・フクダ([リードギター](../Page/リードギター.md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")) / **福田耕一/Koichi Fukuda** (1994–2000, 2005–2010)
-    生粋の日本人で大阪の河内長野市で生まれ育つ。ギターを弾き始めた頃は、[ジューダス・プリースト](https://ja.wikipedia.org/wiki/ジューダス・プリースト "wikilink")のような正統派[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")に影響を受けていた。ヘヴィメタルにこだわらず、並行してサンプリングもやってきた。日本で自分のやりたいスタイルの音楽をやるのは難しいと判断し、19歳で渡米。高校卒業後にアメリカに渡り奨学金制度がある[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")の[バークリー音楽院に通い](https://ja.wikipedia.org/wiki/バークリー音楽大学 "wikilink")、基本的な音楽理論やクラシック音楽のオーケストレーションを学んできたが二年で中退。中退した理由としてバークリー音楽院に通う生徒の大半がジャズ・ミュージシャンばかりで、ロックを軽視する生徒が多かったからと挙げている。1990年にロサンゼルスに移動、1996年にバンドに加入。2枚目のアルバム"Machine"の収録を終えた後、他の音楽をするためバンドを脱退。2005年の2月にトリップ・アイゼンが未成年者との性的問題で逮捕され、Static-Xをクビになったためアイゼンの代わりにコーイチがStatic-Xに復帰した。
+  - トニー・カンポス([ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[バッキングボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")) / **Tony Campos** (1994–2010)
+    コーイチ・フクダ([リードギター](../Page/リードギター.md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")) / **福田耕一/Koichi Fukuda** (1994–2000, 2005–2010)
+    生粋の日本人で大阪の河内長野市で生まれ育つ。ギターを弾き始めた頃は、[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")のような正統派[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")に影響を受けていた。ヘヴィメタルにこだわらず、並行してサンプリングもやってきた。日本で自分のやりたいスタイルの音楽をやるのは難しいと判断し、19歳で渡米。高校卒業後にアメリカに渡り奨学金制度がある[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")の[バークリー音楽院に通い](../Page/バークリー音楽大学.md "wikilink")、基本的な音楽理論やクラシック音楽のオーケストレーションを学んできたが二年で中退。中退した理由としてバークリー音楽院に通う生徒の大半がジャズ・ミュージシャンばかりで、ロックを軽視する生徒が多かったからと挙げている。1990年にロサンゼルスに移動、1996年にバンドに加入。2枚目のアルバム"Machine"の収録を終えた後、他の音楽をするためバンドを脱退。2005年の2月にトリップ・アイゼンが未成年者との性的問題で逮捕され、Static-Xをクビになったためアイゼンの代わりにコーイチがStatic-Xに復帰した。
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@ Rock</a><br />
 <td><p><em>Wisconsin Death Trip</em></p></td>
 <td><ul>
 <li>発売日: 1999年3月23日 <span style="font-size:85%;">(US)</span>[4]</li>
-<li>レーベル: <a href="https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード" title="wikilink">Warner Bros.</a></li>
+<li>レーベル: <a href="../Page/ワーナー・ブラザース・レコード.md" title="wikilink">Warner Bros.</a></li>
 <li>フォーマット: <a href="https://ja.wikipedia.org/wiki/Compact_Disc" title="wikilink">CD</a>, <a href="https://ja.wikipedia.org/wiki/Compact_Cassette" title="wikilink">cassette</a>, <a href="../Page/音楽配信.md" title="wikilink">digital download</a></li>
 </ul></td>
 <td><p>107</p></td>

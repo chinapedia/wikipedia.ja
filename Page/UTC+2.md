@@ -9,7 +9,7 @@
 
   - [中央アフリカ時間](https://ja.wikipedia.org/wiki/中央アフリカ時間 "wikilink") - CAT
 
-      -   - [ルブンバシ](https://ja.wikipedia.org/wiki/ルブンバシ "wikilink")を含む東部
+      -   - [ルブンバシ](../Page/ルブンバシ.md "wikilink")を含む東部
 
       -
       -
@@ -20,7 +20,7 @@
       -
       -
       -
-  - [東ヨーロッパ時間](https://ja.wikipedia.org/wiki/東ヨーロッパ時間 "wikilink") - EET
+  - [東ヨーロッパ時間](../Page/東ヨーロッパ時間.md "wikilink") - EET
 
       -
       -
@@ -34,7 +34,7 @@
 ### 標準時（北半球冬）
 
   -
-  - [東ヨーロッパ時間](https://ja.wikipedia.org/wiki/東ヨーロッパ時間 "wikilink") - EET
+  - [東ヨーロッパ時間](../Page/東ヨーロッパ時間.md "wikilink") - EET
 
       - [アクロティリおよびデケリア](../Page/アクロティリおよびデケリア.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")領）
 
@@ -83,7 +83,7 @@
       - （[グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")、[フェロー諸島](../Page/フェロー諸島.md "wikilink")を除く）
 
       -
-      - （[ブーベ島](https://ja.wikipedia.org/wiki/ブーベ島 "wikilink")を除く）
+      - （[ブーベ島](../Page/ブーベ島.md "wikilink")を除く）
 
           - [スヴァールバル諸島およびヤンマイエン島](https://ja.wikipedia.org/wiki/スヴァールバル諸島およびヤンマイエン島 "wikilink")を含む
 
@@ -125,7 +125,7 @@
   - [マルタ時間](https://ja.wikipedia.org/wiki/マルタ時間 "wikilink")
   - [ヨルダン時間](https://ja.wikipedia.org/wiki/ヨルダン時間 "wikilink")
   - [レバノン時間](https://ja.wikipedia.org/wiki/レバノン時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
   - [南極大陸の標準時](https://ja.wikipedia.org/wiki/南極大陸の標準時 "wikilink")
 
 ## 外部リンク

@@ -3,9 +3,9 @@
 
 **みお**（[1982年](../Page/1982年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
-[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。身長152cm、スリーサイズB80W57H86、血液型A型。（プロフィールは、「早坂みく」でのもの）
+[千葉県](../Page/千葉県.md "wikilink")出身。身長152cm、スリーサイズB80W57H86、血液型A型。（プロフィールは、「早坂みく」でのもの）
 
-[宇宙企画](https://ja.wikipedia.org/wiki/宇宙企画 "wikilink")より**早坂 みく**（はやさか みく）の名でデビュー後、セル出演解禁時にオーロラプロジェクト初の専属契約モデル・**Mio**（みお）として『放課後美少女H みお18才』シリーズに出演、8本のオリジナル作品を残して引退。
+[宇宙企画](../Page/宇宙企画.md "wikilink")より**早坂 みく**（はやさか みく）の名でデビュー後、セル出演解禁時にオーロラプロジェクト初の専属契約モデル・**Mio**（みお）として『放課後美少女H みお18才』シリーズに出演、8本のオリジナル作品を残して引退。
 
 ## 略歴
 
@@ -19,7 +19,7 @@
 
 #### 早坂みく 名義
 
-  - アイドル×アイドル（2001年7月31日 VHS 、[宇宙企画](https://ja.wikipedia.org/wiki/宇宙企画 "wikilink")） - デビュー作品。
+  - アイドル×アイドル（2001年7月31日 VHS 、[宇宙企画](../Page/宇宙企画.md "wikilink")） - デビュー作品。
   - 境界線（2001年8月31日 VHS 、宇宙企画）
   - ノーカット プラス ドキュメント（2002年4月27日 DVD 、宇宙企画） - 『アイドル×アイドル』&『境界線』の2タイトルをノーカットで収録。
   - 宇宙企画2002DX（2002年6月30日 DVD 、宇宙企画） - オムニバス。
@@ -36,7 +36,7 @@
   - 放課後美少女H みお18才 Part.6（2003年1月1日 DVD 、オーロラ・プロジェクト）
   - 放課後美少女H みお18才 Part.7（2003年3月1日 DVD 、オーロラ・プロジェクト）
   - 放課後美少女H みお18才 Part.8 FINAL（2003年3月1日 DVD 、オーロラ・プロジェクト） - 引退作。
-  - オーロラプロジェクト未収録映像集 スクラップブック Vol-01（2003年8月7日 DVD 、オーロラ・プロジェクト） - ラブホテルのバスルームでの収録。他に、[小澤春香](https://ja.wikipedia.org/wiki/小澤春香 "wikilink")、[水原たま](https://ja.wikipedia.org/wiki/水原たま "wikilink")、[田中瞳](https://ja.wikipedia.org/wiki/田中瞳 "wikilink")、[河原鮎子](https://ja.wikipedia.org/wiki/河原鮎子 "wikilink")。
+  - オーロラプロジェクト未収録映像集 スクラップブック Vol-01（2003年8月7日 DVD 、オーロラ・プロジェクト） - ラブホテルのバスルームでの収録。他に、[小澤春香](https://ja.wikipedia.org/wiki/小澤春香 "wikilink")、[水原たま](../Page/水原たま.md "wikilink")、[田中瞳](https://ja.wikipedia.org/wiki/田中瞳 "wikilink")、[河原鮎子](https://ja.wikipedia.org/wiki/河原鮎子 "wikilink")。
   - 放課後美少女H みお18才 Part.1&2（2006年3月23日 DVD 、オーロラ・プロジェクト） - 廉価版発売。
 
 ## 外部リンク

@@ -15,7 +15,7 @@
               - [ピースリバー地域](https://ja.wikipedia.org/wiki/ピースリバー地域 "wikilink")
 
               -
-      -   - [ソノラ州](https://ja.wikipedia.org/wiki/ソノラ州 "wikilink")
+      -   - [ソノラ州](../Page/ソノラ州.md "wikilink")
           - [レビジャヒヘド諸島](../Page/レビジャヒヘド諸島.md "wikilink")（を除く）
 
 ### 標準時（北半球冬）
@@ -30,9 +30,9 @@
           - ブリティッシュコロンビア州のうち南東のごく一部
 
       -   - [シナロア州](../Page/シナロア州.md "wikilink")
-          - [チワワ州](https://ja.wikipedia.org/wiki/チワワ州 "wikilink")
+          - [チワワ州](../Page/チワワ州.md "wikilink")
           - [ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")（を除く）
-          - [バハ・カリフォルニア・スル州](https://ja.wikipedia.org/wiki/バハ・カリフォルニア・スル州 "wikilink")
+          - [バハ・カリフォルニア・スル州](../Page/バハ・カリフォルニア・スル州.md "wikilink")
 
 ### 夏時間（北半球）
 
@@ -42,11 +42,11 @@
       -   - ブリティッシュコロンビア州の大部分
           - [ユーコン準州](../Page/ユーコン準州.md "wikilink")
 
-      -   - [バハ・カリフォルニア州](https://ja.wikipedia.org/wiki/バハ・カリフォルニア州 "wikilink")
+      -   - [バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")
 
 ## 歴史
 
-[メキシコ](../Page/メキシコ.md "wikilink")の[チワワ州](https://ja.wikipedia.org/wiki/チワワ州 "wikilink")は1998年より [UTC-6](https://ja.wikipedia.org/wiki/UTC-6 "wikilink")（冬期）から UTC-7（冬期）に変更した。
+[メキシコ](../Page/メキシコ.md "wikilink")の[チワワ州](../Page/チワワ州.md "wikilink")は1998年より [UTC-6](../Page/UTC-6.md "wikilink")（冬期）から UTC-7（冬期）に変更した。
 
 ## 関連項目
 

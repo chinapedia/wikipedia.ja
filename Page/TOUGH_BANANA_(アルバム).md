@@ -5,7 +5,7 @@
 
 ## 内容
 
-ビーイングに戻ったばかりだった[織田哲郎](../Page/織田哲郎.md "wikilink")のバンドによる唯一のアルバム。このアルバムしか出していないため、事実上の企画バンド扱いであった。全編英語詞であるが、ほとんどの作詞を手がけた[舛添要一](https://ja.wikipedia.org/wiki/舛添要一 "wikilink")が、[関西テレビ系](../Page/関西テレビ放送.md "wikilink")「[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")」にゲスト出演した際、[明石家さんま](../Page/明石家さんま.md "wikilink")にプレゼントしたことがあり、舛添は「売れてなかった」と語っていた。更に、冒頭の「Wild Heart」をプレミアム・トラックとして収録した「[complete of 織田哲郎 at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_織田哲郎_at_the_BEING_studio "wikilink")」のライナーノーツでは、過小評価だったと語っており、あまり浸透していなかった。なお、ジャケットは織田本人がデザインをしたものであり、「Tetsu」と書いてある。
+ビーイングに戻ったばかりだった[織田哲郎](../Page/織田哲郎.md "wikilink")のバンドによる唯一のアルバム。このアルバムしか出していないため、事実上の企画バンド扱いであった。全編英語詞であるが、ほとんどの作詞を手がけた[舛添要一](../Page/舛添要一.md "wikilink")が、[関西テレビ系](../Page/関西テレビ放送.md "wikilink")「[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")」にゲスト出演した際、[明石家さんま](../Page/明石家さんま.md "wikilink")にプレゼントしたことがあり、舛添は「売れてなかった」と語っていた。更に、冒頭の「Wild Heart」をプレミアム・トラックとして収録した「[complete of 織田哲郎 at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_織田哲郎_at_the_BEING_studio "wikilink")」のライナーノーツでは、過小評価だったと語っており、あまり浸透していなかった。なお、ジャケットは織田本人がデザインをしたものであり、「Tetsu」と書いてある。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
         作詞:舛添要一 作曲:織田哲郎
 4.  Social consuction of reality
       -
-        作詞:小西克哉 作曲:織田哲郎・[江川ほーじん](https://ja.wikipedia.org/wiki/江川ほーじん "wikilink")
+        作詞:小西克哉 作曲:織田哲郎・[江川ほーじん](../Page/江川ほーじん.md "wikilink")
 5.  Crasin' over you
       -
         作詞:舛添要一 作曲:織田哲郎

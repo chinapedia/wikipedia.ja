@@ -12,7 +12,7 @@
 
       - （[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")領）
 
-      -   - [ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")[コート・ノール地域](https://ja.wikipedia.org/wiki/コート・ノール地域 "wikilink")のうち、[西経63度線](https://ja.wikipedia.org/wiki/西経63度線 "wikilink")以東
+      -   - [ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")[コート・ノール地域](../Page/コート・ノール地域.md "wikilink")のうち、[西経63度線](https://ja.wikipedia.org/wiki/西経63度線 "wikilink")以東
 
       -
       - （[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")領）
@@ -45,9 +45,9 @@
 
       - （イギリス領）
 
-  -   - [アマゾナス州](https://ja.wikipedia.org/wiki/アマゾナス州 "wikilink")（南西部を除く）
-      - [ロライマ州](https://ja.wikipedia.org/wiki/ロライマ州 "wikilink")
-      - [ロンドニア州](https://ja.wikipedia.org/wiki/ロンドニア州 "wikilink")
+  -   - [アマゾナス州](../Page/アマゾナス州.md "wikilink")（南西部を除く）
+      - [ロライマ州](../Page/ロライマ州.md "wikilink")
+      - [ロンドニア州](../Page/ロンドニア州.md "wikilink")
 
   -
   -
@@ -55,9 +55,9 @@
 
   - [大西洋標準時](../Page/大西洋標準時.md "wikilink") - AST
       -
-      - [ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")のうち、[マドレーヌ諸島](https://ja.wikipedia.org/wiki/マドレーヌ諸島_\(カナダ\) "wikilink")
+      - [ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")のうち、[マドレーヌ諸島](../Page/マドレーヌ諸島_\(カナダ\).md "wikilink")
 
-          - [ニューファンドランド・ラブラドール州](https://ja.wikipedia.org/wiki/ニューファンドランド・ラブラドール州 "wikilink")
+          - [ニューファンドランド・ラブラドール州](../Page/ニューファンドランド・ラブラドール州.md "wikilink")
               - [ラブラドール地方](../Page/ラブラドール地方.md "wikilink")（南東部を除く）
           - [ニューブランズウィック州](../Page/ニューブランズウィック州.md "wikilink")
           - [ノバスコシア州](../Page/ノバスコシア州.md "wikilink")
@@ -73,7 +73,7 @@
 
   -
   -   - [マトグロッソ州](https://ja.wikipedia.org/wiki/マトグロッソ州 "wikilink")
-      - [マットグロッソ・ド・スル州](https://ja.wikipedia.org/wiki/マットグロッソ・ド・スル州 "wikilink")
+      - [マットグロッソ・ド・スル州](../Page/マットグロッソ・ド・スル州.md "wikilink")
 
   -   -
 ### 夏時間（北半球）
@@ -92,7 +92,7 @@
       -
 ## 歴史
 
-[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[パラ州](https://ja.wikipedia.org/wiki/パラ州 "wikilink")はかつて西部で UTC-4、東部で[UTC-3](https://ja.wikipedia.org/wiki/UTC-3 "wikilink") を用いていたが、2008年より全州で UTC-3 となった\[1\]。 また[アマゾナス州](https://ja.wikipedia.org/wiki/アマゾナス州 "wikilink")南西部と[アクレ州](../Page/アクレ州.md "wikilink")では2008年まで [UTC-5](../Page/UTC-5.md "wikilink") が用いられていたが、2008年6月24日、1時間進めた結果、UTC-4 の時間帯の一部となった\[2\]。しかし、2013年11月10日にUTC-5の時間帯に戻された。
+[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[パラ州](https://ja.wikipedia.org/wiki/パラ州 "wikilink")はかつて西部で UTC-4、東部で[UTC-3](../Page/UTC-3.md "wikilink") を用いていたが、2008年より全州で UTC-3 となった\[1\]。 また[アマゾナス州](../Page/アマゾナス州.md "wikilink")南西部と[アクレ州](../Page/アクレ州.md "wikilink")では2008年まで [UTC-5](../Page/UTC-5.md "wikilink") が用いられていたが、2008年6月24日、1時間進めた結果、UTC-4 の時間帯の一部となった\[2\]。しかし、2013年11月10日にUTC-5の時間帯に戻された。
 
 [ベネズエラ](../Page/ベネズエラ.md "wikilink")では2007年に本時間帯から30分遅らせた[UTC-4:30](https://ja.wikipedia.org/wiki/UTC-4:30 "wikilink")を採用したが、2016年5月1日にUTC-4へ戻された\[3\]。
 
@@ -102,7 +102,7 @@
   - [カナダ時間](https://ja.wikipedia.org/wiki/カナダ時間 "wikilink")
       - [ヌナブト時間](https://ja.wikipedia.org/wiki/ヌナブト時間 "wikilink")
   - [デンマーク時間](https://ja.wikipedia.org/wiki/デンマーク時間 "wikilink")
-  - [ブラジル時間](https://ja.wikipedia.org/wiki/ブラジル時間 "wikilink")
+  - [ブラジル時間](../Page/ブラジル時間.md "wikilink")
   - [フランス時間](https://ja.wikipedia.org/wiki/フランス時間 "wikilink")
   - [南極大陸の標準時](https://ja.wikipedia.org/wiki/南極大陸の標準時 "wikilink")
 

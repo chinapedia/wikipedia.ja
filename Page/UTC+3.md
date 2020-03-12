@@ -31,7 +31,7 @@
 
       -
   -
-  -   - [モスクワ時間](https://ja.wikipedia.org/wiki/モスクワ時間 "wikilink") - MSK
+  -   - [モスクワ時間](../Page/モスクワ時間.md "wikilink") - MSK
           - [南オセチア](https://ja.wikipedia.org/wiki/南オセチア "wikilink")
 
           - [クリミア自治共和国](../Page/クリミア自治共和国.md "wikilink")、 [セヴァストポリ](../Page/セヴァストポリ.md "wikilink") - [ウクライナ](../Page/ウクライナ.md "wikilink")としては夏季UTC+3・冬季UTC+2である一方、[ロシア](../Page/ロシア.md "wikilink")としては通年UTC+3としている
@@ -80,7 +80,7 @@
   - [フランス時間](https://ja.wikipedia.org/wiki/フランス時間 "wikilink")
   - [ヨルダン時間](https://ja.wikipedia.org/wiki/ヨルダン時間 "wikilink")
   - [レバノン時間](https://ja.wikipedia.org/wiki/レバノン時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
   - [南極大陸の標準時](https://ja.wikipedia.org/wiki/南極大陸の標準時 "wikilink")
 
 ## 外部リンク

@@ -24,20 +24,20 @@
   - 1971年 [ブライアン・オールディス](../Page/ブライアン・オールディス.md "wikilink") *The Moment of Eclipse*
   - 1972年 受賞作なし
   - 1973年 [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")『[宇宙のランデヴー](https://ja.wikipedia.org/wiki/宇宙のランデヴー "wikilink")』*Rendezvous with Rama*
-  - 1974年 [クリストファー・プリースト](https://ja.wikipedia.org/wiki/クリストファー・プリースト "wikilink")『逆転世界』*Inverted World*
+  - 1974年 [クリストファー・プリースト](../Page/クリストファー・プリースト.md "wikilink")『逆転世界』*Inverted World*
   - 1975年 [ボブ・ショウ](https://ja.wikipedia.org/wiki/ボブ・ショウ "wikilink") *Orbitsville*
   - 1976年 [マイクル・コニイ](../Page/マイクル・コニイ.md "wikilink")『ブロントメク！』*Brontomek\!*
   - 1977年 [イアン・ワトスン](../Page/イアン・ワトスン.md "wikilink")『ヨナ・キット』*The Jonah Kit*
   - 1978年 [フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")『暗闇のスキャナー』（別題『スキャナー・ダークリー』） *A Scanner Darkly*
   - 1979年 [J・G・バラード](../Page/J・G・バラード.md "wikilink")『夢幻会社』*The Unlimited Dream Company*
   - 1980年 [グレゴリー・ベンフォード](../Page/グレゴリー・ベンフォード.md "wikilink")『タイムスケープ』*Timescape*
-  - 1981年 [ジーン・ウルフ](https://ja.wikipedia.org/wiki/ジーン・ウルフ "wikilink")『[拷問者の影](https://ja.wikipedia.org/wiki/新しい太陽の書 "wikilink")』*The Shadow of the Torturer*
+  - 1981年 [ジーン・ウルフ](../Page/ジーン・ウルフ.md "wikilink")『[拷問者の影](https://ja.wikipedia.org/wiki/新しい太陽の書 "wikilink")』*The Shadow of the Torturer*
   - 1982年 ブライアン・オールディス *Helliconia Spring*
   - 1983年 [ジョン・スラデック](https://ja.wikipedia.org/wiki/ジョン・スラデック "wikilink") *Tik-Tok*
   - 1984年 [ロバート・ホールドストック](https://ja.wikipedia.org/wiki/ロバート・ホールドストック "wikilink")『ミサゴの森』*Mythago Wood*
   - 1985年 ブライアン・オールディス *Helliconia Winter*
   - 1986年 ボブ・ショウ *The Ragged Astronauts*
-  - 1987年 [キース・ロバーツ](https://ja.wikipedia.org/wiki/キース・ロバーツ "wikilink") *Grainne*
+  - 1987年 [キース・ロバーツ](../Page/キース・ロバーツ.md "wikilink") *Grainne*
   - 1988年 ロバート・ホールドストック *Lavondyss*
   - 1989年 [テリー・プラチェット](../Page/テリー・プラチェット.md "wikilink")『ピラミッド』*Pyramids*
   - 1990年 [コリン・グリーンランド](https://ja.wikipedia.org/wiki/コリン・グリーンランド "wikilink") *Take Back Plenty*
@@ -83,25 +83,25 @@
   - 1987年 ジェフ・ライマン "Love Sickness"（→*The Child Garden*第一部）
   - 1988年 ボブ・ショウ "Dark Night in Toyland"
   - 1989年 [リサ・タトル](https://ja.wikipedia.org/wiki/リサ・タトル "wikilink") "In Translation"
-  - 1990年 [キム・ニューマン](https://ja.wikipedia.org/wiki/キム・ニューマン "wikilink") "The Original Dr. Shade"
+  - 1990年 [キム・ニューマン](../Page/キム・ニューマン.md "wikilink") "The Original Dr. Shade"
   - 1991年 [モリイ・ブラウン](https://ja.wikipedia.org/wiki/モリイ・ブラウン "wikilink")「愛は時を超えて」"Bad Timing"
   - 1992年 イアン・マクドナルド「イノセント」"Innocent"
   - 1993年 ロバート・ホールドストック&[ギャリイ・キルワース](https://ja.wikipedia.org/wiki/ギャリイ・キルワース "wikilink") "The Ragthorn"
   - 1994年 [ポール・ディ・フィリポ](https://ja.wikipedia.org/wiki/ポール・ディ・フィリポ "wikilink") "The Double Helix"
   - 1995年 [ブライアン・ステイブルフォード](https://ja.wikipedia.org/wiki/ブライアン・ステイブルフォード "wikilink") "The Hunger and Ecstasy of Vampires"
-  - 1996年 [バリントン・J・ベイリー](https://ja.wikipedia.org/wiki/バリントン・J・ベイリー "wikilink")「蟹は試してみなきゃいけない」"A Crab Must Try"
+  - 1996年 [バリントン・J・ベイリー](../Page/バリントン・J・ベイリー.md "wikilink")「蟹は試してみなきゃいけない」"A Crab Must Try"
   - 1997年 スティーヴン・バクスター「軍用機」"War Birds"
   - 1998年 [グウィネス・ジョーンズ](https://ja.wikipedia.org/wiki/ギネス・ジョーンズ_\(作家\) "wikilink")（[アン・ハラム](https://ja.wikipedia.org/wiki/アン・ハラム "wikilink")の別名義） "La Cenerentola"
   - 1999年 [エリック・ブラウン](https://ja.wikipedia.org/wiki/エリック・ブラウン_\(作家\) "wikilink") "Hunting the Slarque"
   - 2000年 [ピーター・F・ハミルトン](https://ja.wikipedia.org/wiki/ピーター・F・ハミルトン "wikilink") "The Suspect Genome"
   - 2001年 エリック・ブラウン "Children of Winter"
-  - 2002年 [ニール・ゲイマン](https://ja.wikipedia.org/wiki/ニール・ゲイマン "wikilink")「[コララインとボタンの魔女](https://ja.wikipedia.org/wiki/コララインとボタンの魔女 "wikilink")」"Coraline"
+  - 2002年 [ニール・ゲイマン](../Page/ニール・ゲイマン.md "wikilink")「[コララインとボタンの魔女](https://ja.wikipedia.org/wiki/コララインとボタンの魔女 "wikilink")」"Coraline"
   - 2003年 ニール・ゲイマン "The Wolves in the Walls"
   - 2004年 スティーヴン・バクスター "Mayflower II"
   - 2005年 [ケリー・リンク](https://ja.wikipedia.org/wiki/ケリー・リンク "wikilink")「マジック・フォー・ビギナーズ」"Magic for Beginners"
   - 2006年 [イアン・マクドナルド](https://ja.wikipedia.org/wiki/イアン・マクドナルド_\(作家\) "wikilink") 「ジンの花嫁」"The Djinn's Wife"
   - 2007年 ケン・マクラウド "Lighting Out"
-  - 2008年 [テッド・チャン](https://ja.wikipedia.org/wiki/テッド・チャン "wikilink")「息吹」"Exhalation"
+  - 2008年 [テッド・チャン](../Page/テッド・チャン.md "wikilink")「息吹」"Exhalation"
   - 2009年 イアン・ワトスン＆[ロベルト・クアリア](https://ja.wikipedia.org/wiki/ロベルト・クアリア "wikilink")「彼らの生涯の最愛の時」"The Beloved Time of Their Lives"
   - 2010年  「船を造る者たち」"The Ship Maker"
   - 2011年  "The Copenhagen Interpretation"

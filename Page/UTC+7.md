@@ -17,7 +17,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラスノヤルスク地方" title="wikilink">クラスノヤルスク地方</a>など</p></td>
+<td><p><a href="../Page/クラスノヤルスク地方.md" title="wikilink">クラスノヤルスク地方</a>など</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラスノヤルスク時間" title="wikilink">クラスノヤルスク時間</a></p></td>
 <td><p>KRAT</p></td>
 </tr>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスマス島_(オーストラリア)" title="wikilink">クリスマス島</a></p></td>
+<td><p><a href="../Page/クリスマス島_(オーストラリア).md" title="wikilink">クリスマス島</a></p></td>
 <td><p>クリスマス島時間</p></td>
 <td><p>CXT</p></td>
 </tr>
@@ -85,13 +85,13 @@
 ## 関連項目
 
   - [インドネシア時間](https://ja.wikipedia.org/wiki/インドネシア時間 "wikilink")
-  - [オーストラリア時間](https://ja.wikipedia.org/wiki/オーストラリア時間 "wikilink")
+  - [オーストラリア時間](../Page/オーストラリア時間.md "wikilink")
   - [カンボジア時間](https://ja.wikipedia.org/wiki/カンボジア時間 "wikilink")
   - [タイ時間](https://ja.wikipedia.org/wiki/タイ時間 "wikilink")
   - [ベトナム時間](https://ja.wikipedia.org/wiki/ベトナム時間 "wikilink")
   - [モンゴル時間](https://ja.wikipedia.org/wiki/モンゴル時間 "wikilink")
   - [ラオス時間](https://ja.wikipedia.org/wiki/ラオス時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
   - [南極大陸の標準時](https://ja.wikipedia.org/wiki/南極大陸の標準時 "wikilink")
 
 ## 脚注

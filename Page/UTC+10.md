@@ -24,16 +24,16 @@
           -
           -
   -   - 東部標準時 - AEST
-          - [オーストラリア首都特別地域](https://ja.wikipedia.org/wiki/オーストラリア首都特別地域 "wikilink")
-          - [タスマニア州](https://ja.wikipedia.org/wiki/タスマニア州 "wikilink")
-          - [ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")（[ブロークンヒル](https://ja.wikipedia.org/wiki/ブロークンヒル "wikilink")を除く）
+          - [オーストラリア首都特別地域](../Page/オーストラリア首都特別地域.md "wikilink")
+          - [タスマニア州](../Page/タスマニア州.md "wikilink")
+          - [ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")（[ブロークンヒル](../Page/ブロークンヒル.md "wikilink")を除く）
           - [ビクトリア州](../Page/ビクトリア州.md "wikilink")
 
 ## 歴史
 
-[オーストラリア](../Page/オーストラリア.md "wikilink")では1895年2月より[クイーンズランド州](../Page/クイーンズランド州.md "wikilink")・[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")・[ビクトリア州](../Page/ビクトリア州.md "wikilink")・[タスマニア州](https://ja.wikipedia.org/wiki/タスマニア州 "wikilink")において東部標準時として[グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")+10の時間が採用された。第1次世界大戦と第2次世界大戦の間には全州・地方で[夏時間](../Page/夏時間.md "wikilink")が実施されたが、その後1968年に初めてタスマニア州で夏時間（+11）が実施され、1971年にニューサウスウェールズ州・ビクトリア州・クイーンズランド州・[オーストラリア首都特別地域](https://ja.wikipedia.org/wiki/オーストラリア首都特別地域 "wikilink")（以上+11）・[南オーストラリア州](https://ja.wikipedia.org/wiki/南オーストラリア州 "wikilink")（+10.5）もこれに続いた。しかし1972年、クイーンズランド州は夏時間を中止した。従ってこれ以降、基本的に通年UTC+10なのはクイーンズランド州のみであり、東部標準時をとる他のタ州・ニュ州・ビ州と首都特別地域は（南半球の）冬期のみUTC+10である。
+[オーストラリア](../Page/オーストラリア.md "wikilink")では1895年2月より[クイーンズランド州](../Page/クイーンズランド州.md "wikilink")・[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")・[ビクトリア州](../Page/ビクトリア州.md "wikilink")・[タスマニア州](../Page/タスマニア州.md "wikilink")において東部標準時として[グリニッジ標準時](../Page/グリニッジ標準時.md "wikilink")+10の時間が採用された。第1次世界大戦と第2次世界大戦の間には全州・地方で[夏時間](../Page/夏時間.md "wikilink")が実施されたが、その後1968年に初めてタスマニア州で夏時間（+11）が実施され、1971年にニューサウスウェールズ州・ビクトリア州・クイーンズランド州・[オーストラリア首都特別地域](../Page/オーストラリア首都特別地域.md "wikilink")（以上+11）・[南オーストラリア州](../Page/南オーストラリア州.md "wikilink")（+10.5）もこれに続いた。しかし1972年、クイーンズランド州は夏時間を中止した。従ってこれ以降、基本的に通年UTC+10なのはクイーンズランド州のみであり、東部標準時をとる他のタ州・ニュ州・ビ州と首都特別地域は（南半球の）冬期のみUTC+10である。
 
-なおニューサウスウェールズ州のうち[ブロークンヒル](https://ja.wikipedia.org/wiki/ブロークンヒル "wikilink")は、南オーストラリア州と同じ中部標準時（冬期に[UTC+9:30](../Page/UTC+9:30.md "wikilink")）および中部夏時間（[UTC+10:30](https://ja.wikipedia.org/wiki/UTC+10:30 "wikilink")）を採用している。
+なおニューサウスウェールズ州のうち[ブロークンヒル](../Page/ブロークンヒル.md "wikilink")は、南オーストラリア州と同じ中部標準時（冬期に[UTC+9:30](../Page/UTC+9:30.md "wikilink")）および中部夏時間（[UTC+10:30](https://ja.wikipedia.org/wiki/UTC+10:30 "wikilink")）を採用している。
 
 [ロシア](../Page/ロシア.md "wikilink")ではかつて[ウラジオストク時間](https://ja.wikipedia.org/wiki/ウラジオストク時間 "wikilink")（冬期）とヤクーツク夏時間においてUTC+10が用いられていたが、2011年3月27日よりウラジオストク時間は通年[UTC+11](../Page/UTC+11.md "wikilink")に、ヤクーツク時間は通年UTC+10となった。しかし[2014年](../Page/2014年.md "wikilink")10月26日に国内の標準時が再び変更されたため、ウラジオストク時間は通年UTC+10となった。
 
@@ -43,9 +43,9 @@
 
 ## 関連項目
 
-  - [オーストラリア時間](https://ja.wikipedia.org/wiki/オーストラリア時間 "wikilink")
+  - [オーストラリア時間](../Page/オーストラリア時間.md "wikilink")
   - [パプアニューギニア時間](https://ja.wikipedia.org/wiki/パプアニューギニア時間 "wikilink")
-  - [ロシア時間](https://ja.wikipedia.org/wiki/ロシア時間 "wikilink")
+  - [ロシア時間](../Page/ロシア時間.md "wikilink")
   - [南極大陸の標準時](https://ja.wikipedia.org/wiki/南極大陸の標準時 "wikilink")
 
 ## 外部リンク

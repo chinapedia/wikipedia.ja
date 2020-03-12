@@ -137,7 +137,7 @@
   - [THE BUG](https://ja.wikipedia.org/wiki/THE_BUG "wikilink")
   - [BORIS](../Page/BORIS.md "wikilink")
   - [YELLOW MACHINEGUN](../Page/YELLOW_MACHINEGUN.md "wikilink")
-  - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")
+  - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")
   - [GMF](https://ja.wikipedia.org/wiki/GMF "wikilink")
   - [USUGROW](https://ja.wikipedia.org/wiki/USUGROW "wikilink")
   - [VOLCOM Entertainment](https://ja.wikipedia.org/wiki/VOLCOM_Entertainment "wikilink")

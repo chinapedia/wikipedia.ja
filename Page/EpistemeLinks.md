@@ -7,7 +7,7 @@
 
 ## 関連項目
 
-  - [PhilPapers](https://ja.wikipedia.org/wiki/PhilPapers "wikilink")
+  - [PhilPapers](../Page/PhilPapers.md "wikilink")
 
 ## 脚注
 

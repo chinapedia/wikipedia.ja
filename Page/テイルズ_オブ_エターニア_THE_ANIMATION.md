@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")の1月から3月にかけて[WOWOW](../Page/WOWOW.md "wikilink")で放送された。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月から12月には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月から10月には[BS11デジタルでも放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（後者については、CM枠でミニコーナー『[ビバ☆テイルズ オブ](../Page/ビバ☆テイルズ_オブ.md "wikilink")』も放送）。[2014年](../Page/2014年.md "wikilink")の2月2日にはWOWOWで一挙放送された。
+[2001年](../Page/2001年.md "wikilink")の1月から3月にかけて[WOWOW](../Page/WOWOW.md "wikilink")で放送された。[2006年](../Page/2006年.md "wikilink")10月から12月には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月から10月には[BS11デジタルでも放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（後者については、CM枠でミニコーナー『[ビバ☆テイルズ オブ](../Page/ビバ☆テイルズ_オブ.md "wikilink")』も放送）。[2014年](../Page/2014年.md "wikilink")の2月2日にはWOWOWで一挙放送された。
 
 [『テイルズ オブ』 シリーズ初のテレビアニメ作品である](../Page/テイルズ_オブ_シリーズ.md "wikilink")。ストーリーはアニメオリジナルで、アニメオリジナルのキャラクターも登場する。オープニングおよびエンディングテーマはゲーム版とは異なる。
 
@@ -40,12 +40,12 @@
     「水」の大晶霊。落ち着いた女性の姿をしている。穏やかな物腰で、大晶霊達をまとめるリーダー的存在。メルディのクレーメルケイジより登場。
     三つ又の槍・トライデントを愛用する。
     出現時の前口上：「我が水の癒しにて、汝を護らん」。
-  - [イフリート](https://ja.wikipedia.org/wiki/イフリート "wikilink")
-    声 - [稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+  - [イフリート](../Page/イフリート.md "wikilink")
+    声 - [稲田徹](../Page/稲田徹.md "wikilink")
     「炎」の大晶霊。筋骨隆々な上半身だけの男性の姿を形成。豪快で荒っぽい性格をしている。キールのクレーメルケイジより登場。
     出現時の前口上：「我が灼熱の魔手にて、灰燼と化せ」。
   - [シルフ](https://ja.wikipedia.org/wiki/シルフ "wikilink")
-    声 - [町井美紀](https://ja.wikipedia.org/wiki/町井美紀 "wikilink")
+    声 - [町井美紀](../Page/町井美紀.md "wikilink")
     「風」の大晶霊。背に羽を持った、幼い少年の姿。中身も非常に子供っぽい性格。キールのクレーメルケイジより登場。
     出現時の前口上：「天空の風よ、降り来たりて、竜とならん」。
 
@@ -53,7 +53,7 @@
 
   - コリーナ・ソルジェンテ
     声 - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
-    [吟遊詩人](https://ja.wikipedia.org/wiki/吟遊詩人 "wikilink")の少女。ドジでおっちょこちょいのトラブルメーカーで、メルディとは仲が良い。エクスシアは育ての親だが、あまり会っていない。
+    [吟遊詩人](../Page/吟遊詩人.md "wikilink")の少女。ドジでおっちょこちょいのトラブルメーカーで、メルディとは仲が良い。エクスシアは育ての親だが、あまり会っていない。
     原作ゲームでは「リュートを掻き鳴らしながらおかしな言葉で詩を詠む少女がいる、この世界では会えない」とコリーナを示唆するセリフがある。
   - マローネ・ブルカーノ
     声 - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
@@ -63,7 +63,7 @@
     声 - [三石琴乃](../Page/三石琴乃.md "wikilink")
     海上都市ベルカーニュの領主。妖艶な雰囲気が漂う女性。
   - プラティア
-    声 - [笠原留美](https://ja.wikipedia.org/wiki/笠原留美 "wikilink")
+    声 - [笠原留美](../Page/笠原留美.md "wikilink")
     高級宿屋「ウラヌス」の女主人で、「隣のお姉さん」という感じの存在。
   - ミニマ
     声 - [半場友恵](../Page/半場友恵.md "wikilink")
@@ -73,9 +73,9 @@
 
   - 原作 - [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")
   - スーパーバイザー - 豊田淳、名取佐和子
-  - 製作総指揮 - [大月俊倫](https://ja.wikipedia.org/wiki/大月俊倫 "wikilink")
-  - 監督 - [うえだしげる](https://ja.wikipedia.org/wiki/うえだしげる "wikilink")
-  - シリーズ構成 - [川崎ヒロユキ](https://ja.wikipedia.org/wiki/川崎ヒロユキ "wikilink")
+  - 製作総指揮 - [大月俊倫](../Page/大月俊倫.md "wikilink")
+  - 監督 - [うえだしげる](../Page/うえだしげる.md "wikilink")
+  - シリーズ構成 - [川崎ヒロユキ](../Page/川崎ヒロユキ.md "wikilink")
   - キャラクター原案 - [いのまたむつみ](../Page/いのまたむつみ.md "wikilink")
   - キャラクターデザイン - [前田明寿](https://ja.wikipedia.org/wiki/前田明寿 "wikilink")
   - モンスターデザイン - 久我嘉輝
@@ -84,18 +84,18 @@
   - 色彩設定 - 関本美津子
   - 撮影監督 - 広瀬勝利
   - 編集 - 大竹弥生
-  - 音楽 - [有澤孝紀](https://ja.wikipedia.org/wiki/有澤孝紀 "wikilink")
-  - 音響監督 - [三間雅文](https://ja.wikipedia.org/wiki/三間雅文 "wikilink")、[柏倉つとむ](https://ja.wikipedia.org/wiki/カシワクラツトム "wikilink")
+  - 音楽 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
+  - 音響監督 - [三間雅文](../Page/三間雅文.md "wikilink")、[柏倉つとむ](../Page/カシワクラツトム.md "wikilink")
   - プロデューサー - 渡辺和哉、千野孝敏
-  - アニメーション制作 - [XEBEC](https://ja.wikipedia.org/wiki/ジーベック_\(アニメ制作会社\) "wikilink")
+  - アニメーション制作 - [XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")
   - アニメーション制作協力 - [Production I.G](../Page/プロダクション・アイジー.md "wikilink")
-  - 制作 - [読売広告社](https://ja.wikipedia.org/wiki/読売広告社 "wikilink")
+  - 制作 - [読売広告社](../Page/読売広告社.md "wikilink")
   - 製作 - [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ「[空にかける橋](https://ja.wikipedia.org/wiki/空にかける橋 "wikilink")」
-    作詞・作曲・歌 - [奥井雅美](../Page/奥井雅美.md "wikilink") / 編曲 - [矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+    作詞・作曲・歌 - [奥井雅美](../Page/奥井雅美.md "wikilink") / 編曲 - [矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 
   - エンディングテーマ「[I'd love you to touch me](https://ja.wikipedia.org/wiki/空にかける橋 "wikilink")」
     作詞・作曲・歌 - 奥井雅美 / 編曲 - [SYSTEM-B](https://ja.wikipedia.org/wiki/SYSTEM-B "wikilink")
@@ -133,8 +133,8 @@
 <td><p><strong>2001年</strong><br />
 1月8日</p></td>
 <td><p>対面世界のアドベンチャー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川崎ヒロユキ" title="wikilink">川崎ヒロユキ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/川崎ヒロユキ.md" title="wikilink">川崎ヒロユキ</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/前田明寿" title="wikilink">前田明寿</a></p></td>
 <td></td>
 </tr>
@@ -160,7 +160,7 @@
 <td><p>4</p></td>
 <td><p>1月29日</p></td>
 <td><p>女たちの大決戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西園悟" title="wikilink">西園悟</a></p></td>
+<td><p><a href="../Page/西園悟.md" title="wikilink">西園悟</a></p></td>
 <td><p><a href="../Page/木村真一郎.md" title="wikilink">木村真一郎</a></p></td>
 <td><p>佐藤修</p></td>
 <td><p>丸山隆</p></td>
@@ -187,7 +187,7 @@
 <td><p>7</p></td>
 <td><p>2月19日</p></td>
 <td><p>漆黒の翼すぺしゃる</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水島精二" title="wikilink">水島精二</a></p></td>
+<td><p><a href="../Page/水島精二.md" title="wikilink">水島精二</a></p></td>
 <td><p>長澤剛</p></td>
 <td><p>谷津美弥子</p></td>
 <td></td>
@@ -254,12 +254,12 @@
 
 ## 放送局
 
-| 放送地域                                                | 放送局                                                                    | 放送期間                                                                                                                                 | 放送日時                    | 放送区分                                                          |
-| --------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------- |
-| [日本全域](../Page/全国放送.md "wikilink")                  | [WOWOW](../Page/WOWOW.md "wikilink")                                   | [2001年](../Page/2001年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")     | 月曜 18時30分 - 19時00分\[1\] | [BS放送](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")         |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                      | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink") | 木曜 18時30分 - 19時00分      | [UHF系](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |
-| 日本全域                                                | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [10月24日](../Page/10月24日.md "wikilink")   | 土曜 23時00分 - 23時30分      | BS放送                                                          |
-| WOWOW                                               | [2014年](../Page/2014年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") |                                                                                                                                      |                         |                                                               |
+| 放送地域                               | 放送局                                                                    | 放送期間                                                                                                                               | 放送日時                    | 放送区分                                                          |
+| ---------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------- |
+| [日本全域](../Page/全国放送.md "wikilink") | [WOWOW](../Page/WOWOW.md "wikilink")                                   | [2001年](../Page/2001年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")   | 月曜 18時30分 - 19時00分\[1\] | [BS放送](../Page/衛星放送.md "wikilink")                            |
+| [東京都](../Page/東京都.md "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                      | [2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                  | 木曜 18時30分 - 19時00分      | [UHF系](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |
+| 日本全域                               | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [10月24日](../Page/10月24日.md "wikilink") | 土曜 23時00分 - 23時30分      | BS放送                                                          |
+| WOWOW                              | [2014年](../Page/2014年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") |                                                                                                                                    |                         |                                                               |
 
 ## 関連商品
 
@@ -286,8 +286,8 @@
 
 ## 関連項目
 
-  - [WOWOWアニメ](https://ja.wikipedia.org/wiki/WOWOWアニメ "wikilink")
-  - [UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧 "wikilink")
+  - [WOWOWアニメ](../Page/WOWOWアニメ.md "wikilink")
+  - [UHFアニメ一覧](../Page/UHFアニメ一覧.md "wikilink")
 
 ## 外部リンク
 

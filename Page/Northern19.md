@@ -10,7 +10,7 @@
   - **笠原 健太郎**（かさはら けんたろう）
       - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[Guitar](../Page/ギター.md "wikilink")。新潟県出身。
   - **敦賀 壮大**（つるが そうだい）
-      - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")\&Vocal。
+      - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")\&Vocal。
       - 2019年 5月1日よりBass\&vocalとして加入。
   - **馬場 豊心**（ばば あつし）
       - [Drums](../Page/ドラムセット.md "wikilink")\&Chorus。青森県十和田市出身。
@@ -18,7 +18,7 @@
 ## 旧メンバー
 
   - **井村 知治**（いむら ともはる）
-      - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")\&Vocal。新潟県出身。
+      - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")\&Vocal。新潟県出身。
       - 2019年 3月25日のライブを最後に脱退。
 
 ## ディスコグラフィー
@@ -39,7 +39,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/EVERLASTING_(Northern19のアルバム)" title="wikilink">EVERLASTING</a></p></td>
 <td><p>CKCA-1016</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -426,7 +426,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p>PUNK ROCK SAMPLER YOUTH MOVEMENT 05</p></td>
 <td><p>IWGP-004</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -463,7 +463,7 @@
 </ol></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p>CATCH ALL YOUR STUFF! ! 3</p></td>
 <td><p>DDD-CKCA-1013</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -474,7 +474,7 @@
 <ol>
 <li><strong>CRAVE YOU / Northern19</strong></li>
 <li>The place which need me / <a href="https://ja.wikipedia.org/wiki/stack44" title="wikilink">stack44</a></li>
-<li>EVIL GARAGE / <a href="https://ja.wikipedia.org/wiki/TNX" title="wikilink">TNX</a></li>
+<li>EVIL GARAGE / <a href="../Page/TNX.md" title="wikilink">TNX</a></li>
 <li>If I. . . / <a href="https://ja.wikipedia.org/wiki/UNDER_LIFE" title="wikilink">UNDER LIFE</a></li>
 <li>NOTHING CHANGES / <a href="https://ja.wikipedia.org/wiki/NAKED_3_MINDS" title="wikilink">NAKED 3 MINDS</a></li>
 <li>RESET / <a href="https://ja.wikipedia.org/wiki/RUNNERS-Hi" title="wikilink">RUNNERS-Hi</a></li>
@@ -509,7 +509,7 @@
 <li>BETTER MYSELF / <a href="https://ja.wikipedia.org/wiki/SUPER_COLA" title="wikilink">SUPER COLA</a></li>
 <li>angel / <a href="https://ja.wikipedia.org/wiki/stack44" title="wikilink">stack44</a></li>
 <li>Beautiful Black Flowers / <a href="https://ja.wikipedia.org/wiki/UNDER_LIFE" title="wikilink">UNDER LIFE</a></li>
-<li>さりげない唄 / <a href="https://ja.wikipedia.org/wiki/DDT" title="wikilink">DDT</a></li>
+<li>さりげない唄 / <a href="../Page/DDT.md" title="wikilink">DDT</a></li>
 <li><strong>TRYOUT / Northern19</strong></li>
 <li>REPEATEDLY / <a href="https://ja.wikipedia.org/wiki/TOO_CLOSE_TO_SEE" title="wikilink">TOO CLOSE TO SEE</a></li>
 <li>Sky blue / <a href="https://ja.wikipedia.org/wiki/SCREW★WALKER" title="wikilink">SCREW★WALKER</a></li>
@@ -521,7 +521,7 @@
 <td><p>CATCH ALL RECORDS</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p>CATCH ALL SHOW 2008</p></td>
 <td><p>MT-CA-DVD03</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -530,9 +530,9 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>THE FRIENDSHIP / <a href="https://ja.wikipedia.org/wiki/TNX" title="wikilink">TNX</a></li>
+<li>THE FRIENDSHIP / <a href="../Page/TNX.md" title="wikilink">TNX</a></li>
 <li>Obedient / <a href="https://ja.wikipedia.org/wiki/SCREW★WALKER" title="wikilink">SCREW★WALKER</a></li>
-<li>もう何も・・・ / <a href="https://ja.wikipedia.org/wiki/DDT" title="wikilink">DDT</a></li>
+<li>もう何も・・・ / <a href="../Page/DDT.md" title="wikilink">DDT</a></li>
 <li>Clumsy Cinderella / <a href="https://ja.wikipedia.org/wiki/RUNNERS-Hi" title="wikilink">RUNNERS-Hi</a></li>
 <li>Shirley / <a href="https://ja.wikipedia.org/wiki/UNDER_LIFE" title="wikilink">UNDER LIFE</a></li>
 <li>Balance / <a href="https://ja.wikipedia.org/wiki/TOTALFAT" title="wikilink">TOTALFAT</a></li>
@@ -547,7 +547,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
-<td><p>DJ<a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a>「<a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX</a> 2」</p></td>
+<td><p>DJ<a href="../Page/松本素生.md" title="wikilink">松本素生</a>「<a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX</a> 2」</p></td>
 <td><p>VICL-63399</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -555,33 +555,33 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>最後まで楽しもう / <a href="https://ja.wikipedia.org/wiki/吾妻光良_&amp;_The_Swinging_Boppers" title="wikilink">吾妻光良 &amp; The Swinging Boppers</a></li>
+<li>最後まで楽しもう / <a href="../Page/吾妻光良_&amp;_The_Swinging_Boppers.md" title="wikilink">吾妻光良 &amp; The Swinging Boppers</a></li>
 <li>FRIDAY NIGHT エビフライ / <a href="https://ja.wikipedia.org/wiki/バンバンバザール" title="wikilink">バンバンバザール</a></li>
-<li>穴を掘る / <a href="https://ja.wikipedia.org/wiki/SAKEROCK" title="wikilink">SAKEROCK</a></li>
-<li>関白宣言 / <a href="https://ja.wikipedia.org/wiki/二階堂和美" title="wikilink">二階堂和美</a></li>
+<li>穴を掘る / <a href="../Page/SAKEROCK.md" title="wikilink">SAKEROCK</a></li>
+<li>関白宣言 / <a href="../Page/二階堂和美.md" title="wikilink">二階堂和美</a></li>
 <li>POMP AND CIRCUMSTANCE feat. <a href="../Page/リコ・ロドリゲス_(音楽家).md" title="wikilink">RICO RODRIGUEZ</a> / <a href="https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE" title="wikilink">CUBISMO GRAFICO FIVE</a></li>
-<li>リックサック / <a href="https://ja.wikipedia.org/wiki/レピッシュ" title="wikilink">レピッシュ</a></li>
+<li>リックサック / <a href="../Page/レピッシュ.md" title="wikilink">レピッシュ</a></li>
 <li>美しく燃える森 / <a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
-<li>恋のメキシカン・ロック / <a href="https://ja.wikipedia.org/wiki/スカポンタス" title="wikilink">スカポンタス</a> feat. <a href="https://ja.wikipedia.org/wiki/橋幸夫" title="wikilink">橋幸夫</a></li>
-<li>Go Action / <a href="https://ja.wikipedia.org/wiki/EGO-WRAPPIN&#39;" title="wikilink">EGO-WRAPPIN'</a></li>
-<li>TIGER / <a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li>恋のメキシカン・ロック / <a href="../Page/スカポンタス.md" title="wikilink">スカポンタス</a> feat. <a href="../Page/橋幸夫.md" title="wikilink">橋幸夫</a></li>
+<li>Go Action / <a href="../Page/EGO-WRAPPIN&#39;.md" title="wikilink">EGO-WRAPPIN'</a></li>
+<li>TIGER / <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li>DESTRUCTION BABY / <a href="https://ja.wikipedia.org/wiki/NUMBER_GIRL" title="wikilink">NUMBER GIRL</a></li>
 <li>つるみの塔 / <a href="https://ja.wikipedia.org/wiki/キミドリ" title="wikilink">キミドリ</a></li>
-<li>STAR / <a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS" title="wikilink">SPECIAL OTHERS</a></li>
-<li>hana hou / <a href="https://ja.wikipedia.org/wiki/THE_BEACHES" title="wikilink">THE BEACHES</a></li>
+<li>STAR / <a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></li>
+<li>hana hou / <a href="../Page/THE_BEACHES.md" title="wikilink">THE BEACHES</a></li>
 <li>Let’s make it happy! / <a href="../Page/BLACK_BOTTOM_BRASS_BAND.md" title="wikilink">BLACK BOTTOM BRASS BAND</a></li>
-<li>TIGHTEN UP / <a href="https://ja.wikipedia.org/wiki/Scoobie_Do" title="wikilink">Scoobie Do</a></li>
-<li>ダンシング・マッシュルーム / <a href="https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET" title="wikilink">TOKYO No.1 SOUL SET</a></li>
+<li>TIGHTEN UP / <a href="../Page/Scoobie_Do.md" title="wikilink">Scoobie Do</a></li>
+<li>ダンシング・マッシュルーム / <a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></li>
 <li>NOBODY KNOWS MY SORROW / <a href="https://ja.wikipedia.org/wiki/THE_BAWDIES" title="wikilink">THE BAWDIES</a></li>
 <li>デイドリームネイション / <a href="https://ja.wikipedia.org/wiki/monobright" title="wikilink">monobright</a></li>
 <li>New Music Machine / <a href="https://ja.wikipedia.org/wiki/小山田圭吾" title="wikilink">cornelius</a></li>
-<li>BE MY WIFE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>BE MY WIFE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>human / <a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
 <li><strong>THE WORLD IS MINE / Northern19</strong></li>
 <li>インスタント ミュージック/ <a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a></li>
 <li>すごい速さ / <a href="https://ja.wikipedia.org/wiki/andymori" title="wikilink">andymori</a></li>
 <li>Stay Cool! Stay Hip! Stay Youg! / <a href="https://ja.wikipedia.org/wiki/THE_COLLECTORS" title="wikilink">THE COLLECTORS</a></li>
-<li>悲しい気持ち(JUST A MAN IN LOVE) / <a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a>&amp;<a href="https://ja.wikipedia.org/wiki/THE_COLLECTORS" title="wikilink">THE COLLECTORS</a></li>
+<li>悲しい気持ち(JUST A MAN IN LOVE) / <a href="../Page/松本素生.md" title="wikilink">松本素生</a>&amp;<a href="https://ja.wikipedia.org/wiki/THE_COLLECTORS" title="wikilink">THE COLLECTORS</a></li>
 <li>サングラスマン / <a href="../Page/THE_PEPPERMINT_JAM.md" title="wikilink">THE PEPPERMINT JAM</a></li>
 <li>ばらの花 / <a href="../Page/くるり.md" title="wikilink">くるり</a>
 </div>
@@ -603,10 +603,10 @@
 <li>I Want to Be Wrong / <a href="https://ja.wikipedia.org/wiki/HOTSQUALL" title="wikilink">HOTSQUALL</a></li>
 <li>Not Your Savior / <a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a></li>
 <li>Dumb Reminders / <a href="https://ja.wikipedia.org/wiki/OVER_ARM_THROW" title="wikilink">OVER ARM THROW</a></li>
-<li>Why Doesn't Anybody Like Me? / <a href="https://ja.wikipedia.org/wiki/TNX" title="wikilink">TNX</a></li>
+<li>Why Doesn't Anybody Like Me? / <a href="../Page/TNX.md" title="wikilink">TNX</a></li>
 <li>Soulmate / <a href="https://ja.wikipedia.org/wiki/SpecialThanks" title="wikilink">SpecialThanks</a></li>
-<li>The Answer Is Still No / <a href="https://ja.wikipedia.org/wiki/LAST_ALLIANCE" title="wikilink">LAST ALLIANCE</a></li>
-<li>The Trumpet Player / <a href="https://ja.wikipedia.org/wiki/GOOD4NOTHING" title="wikilink">GOOD4NOTHING</a></li>
+<li>The Answer Is Still No / <a href="../Page/LAST_ALLIANCE.md" title="wikilink">LAST ALLIANCE</a></li>
+<li>The Trumpet Player / <a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a></li>
 <li>Black Box / <a href="https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS" title="wikilink">FOUR GET ME A NOTS</a></li>
 <li>Friends of the Enemy / <a href="https://ja.wikipedia.org/wiki/RIDDLE" title="wikilink">RIDDLE</a></li>
 <li><strong>On the Outside / Northern19</strong></li>
@@ -636,7 +636,7 @@
 <li>TRUST / <a href="https://ja.wikipedia.org/wiki/SUPER_COLA" title="wikilink">SUPER COLA</a></li>
 <li>TO MY GUITAR / <a href="https://ja.wikipedia.org/wiki/TOO_CLOSE_TO_SEE" title="wikilink">TOO CLOSE TO SEE</a></li>
 <li>In the end of summer / <a href="https://ja.wikipedia.org/wiki/RUNNERS-Hi" title="wikilink">RUNNERS-Hi</a></li>
-<li>MY LIFE / <a href="https://ja.wikipedia.org/wiki/TNX" title="wikilink">TNX</a></li>
+<li>MY LIFE / <a href="../Page/TNX.md" title="wikilink">TNX</a></li>
 <li>No Title / <a href="https://ja.wikipedia.org/wiki/UNDER_LIFE" title="wikilink">UNDER LIFE</a></li>
 <li>after / <a href="https://ja.wikipedia.org/wiki/JACKED_UP" title="wikilink">JACKED UP</a></li>
 <li>tonight / <a href="https://ja.wikipedia.org/wiki/kidd" title="wikilink">kidd</a></li>
@@ -689,35 +689,35 @@
   - 2008年 - Northern19レコ発"FROM HERE TO EVERYWHERE tour"
   - 2009年 - Northern19『HAVE A NICE DAY\!\!\!』
       -
-        w/[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")/[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")
+        w/[10-FEET](../Page/10-FEET.md "wikilink")/[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
   - 2010年 - 『SMILE』ツアー
   - 2010年 - Northern19『HAVE A NICE DAY\!\!\!2』
       -
-        w/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")
+        w/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[B-DASH](../Page/B-DASH.md "wikilink")
   - 2010年 - Northern19 『19』TOUR 2010
   - 2011年 - Northern19『HAVE A NICE DAY\!\!\!3』
   - 2011年11月06日-26日（6公演） - Northern19 FINE AUTUMN TOUR
       -
-        w/[LAST ALLIANCE](https://ja.wikipedia.org/wiki/LAST_ALLIANCE "wikilink")/[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")/[MEANING](https://ja.wikipedia.org/wiki/MEANING "wikilink")/[EGNISH](https://ja.wikipedia.org/wiki/EGNISH "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[MISSPRAY](https://ja.wikipedia.org/wiki/MISSPRAY "wikilink")/[Revolt](https://ja.wikipedia.org/wiki/Revolt "wikilink")/[WESTN NUMBER](https://ja.wikipedia.org/wiki/WESTN_NUMBER "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[another sunnyday](https://ja.wikipedia.org/wiki/another_sunnyday "wikilink")
+        w/[LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink")/[B-DASH](../Page/B-DASH.md "wikilink")/[MEANING](https://ja.wikipedia.org/wiki/MEANING "wikilink")/[EGNISH](https://ja.wikipedia.org/wiki/EGNISH "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[MISSPRAY](https://ja.wikipedia.org/wiki/MISSPRAY "wikilink")/[Revolt](https://ja.wikipedia.org/wiki/Revolt "wikilink")/[WESTN NUMBER](https://ja.wikipedia.org/wiki/WESTN_NUMBER "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[another sunnyday](https://ja.wikipedia.org/wiki/another_sunnyday "wikilink")
   - 2012年04月30日 - Northern19『HAVE A NICE DAY\!\!\!4』
   - 2012年06月07日〜11月10日（30公演） - EMOTIONS tour
       -
-        w/[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")/[ONE BUCK TUNER](https://ja.wikipedia.org/wiki/ONE_BUCK_TUNER "wikilink")/[But by Fall](https://ja.wikipedia.org/wiki/But_by_Fall "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[LAST ALLIANCE](https://ja.wikipedia.org/wiki/LAST_ALLIANCE "wikilink")/[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")/[SHIT HAPPENING](https://ja.wikipedia.org/wiki/SHIT_HAPPENING "wikilink")/[TNX](https://ja.wikipedia.org/wiki/TNX "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[CLEAVE](https://ja.wikipedia.org/wiki/CLEAVE "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[HEAVY CLAFT](https://ja.wikipedia.org/wiki/HEAVY_CLAFT "wikilink")/[JACK POT BELL](https://ja.wikipedia.org/wiki/JACK_POT_BELL "wikilink")/[LOVESTRUCK](https://ja.wikipedia.org/wiki/LOVESTRUCK "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[MINOR LEAGUE](https://ja.wikipedia.org/wiki/MINOR_LEAGUE "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")
+        w/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[ONE BUCK TUNER](https://ja.wikipedia.org/wiki/ONE_BUCK_TUNER "wikilink")/[But by Fall](https://ja.wikipedia.org/wiki/But_by_Fall "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink")/[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")/[SHIT HAPPENING](https://ja.wikipedia.org/wiki/SHIT_HAPPENING "wikilink")/[TNX](../Page/TNX.md "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[CLEAVE](https://ja.wikipedia.org/wiki/CLEAVE "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[HEAVY CLAFT](https://ja.wikipedia.org/wiki/HEAVY_CLAFT "wikilink")/[JACK POT BELL](https://ja.wikipedia.org/wiki/JACK_POT_BELL "wikilink")/[LOVESTRUCK](https://ja.wikipedia.org/wiki/LOVESTRUCK "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[MINOR LEAGUE](https://ja.wikipedia.org/wiki/MINOR_LEAGUE "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")
   - 2012年12月23日 - 「WINTER,WINTER」購入者アウトストアライブ
   - 2013年01月11日〜02月02日（7公演） - Northern19「LAST WINTER,FIRST STEP tour」
       -
-        w/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[Mr.JiNGLES](https://ja.wikipedia.org/wiki/Mr.JiNGLES "wikilink")/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink")/[SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink")
+        w/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[Mr.JiNGLES](https://ja.wikipedia.org/wiki/Mr.JiNGLES "wikilink")/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink")
   - 2013年02月10日 - LAST WINTER,FIRST STEP tour FINAL-HAVE A NICE DAY\!\!\!5-
   - 2013年05月26日 - BACK TO IKEBUKURO 2003～Northern19 10th Anniversary&池袋MANHOLE 13th Anniversary special～
   - 2013年10月03日〜12月06日（18公演） - Northern19「FOR EVERYONE tour」
       -
-        w/[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")/[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink")/[NOA](https://ja.wikipedia.org/wiki/NOA "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[FREE KICK](https://ja.wikipedia.org/wiki/FREE_KICK "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[Re:Turn](https://ja.wikipedia.org/wiki/Re:Turn "wikilink")/[LOVESTRUCK](https://ja.wikipedia.org/wiki/LOVESTRUCK "wikilink")/[STOMPIN' BIRD](https://ja.wikipedia.org/wiki/STOMPIN'_BIRD "wikilink")/[UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink")/[SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink")/[SHIMA](https://ja.wikipedia.org/wiki/SHIMA "wikilink")/[My Hair is Bad](https://ja.wikipedia.org/wiki/My_Hair_is_Bad "wikilink")/[BACK LIFT](https://ja.wikipedia.org/wiki/BACK_LIFT "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")
+        w/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink")/[NOA](https://ja.wikipedia.org/wiki/NOA "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[FREE KICK](https://ja.wikipedia.org/wiki/FREE_KICK "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[Re:Turn](https://ja.wikipedia.org/wiki/Re:Turn "wikilink")/[LOVESTRUCK](https://ja.wikipedia.org/wiki/LOVESTRUCK "wikilink")/[STOMPIN' BIRD](https://ja.wikipedia.org/wiki/STOMPIN'_BIRD "wikilink")/[UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink")/[SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink")/[SHIMA](https://ja.wikipedia.org/wiki/SHIMA "wikilink")/[My Hair is Bad](https://ja.wikipedia.org/wiki/My_Hair_is_Bad "wikilink")/[BACK LIFT](https://ja.wikipedia.org/wiki/BACK_LIFT "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")
   - 2013年12月06日 - Northern19 FOR EVERYONE tour FINAL\!\!\!
       -
-        w/[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")
+        w/[10-FEET](../Page/10-FEET.md "wikilink")
   - 2014年04月19日 - Northern19 presents"TOKI ROCK NIIGATA 2014"
       -
-        w/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")
+        w/[FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink")/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")
   - 2014年07月16日〜10月17日（20公演） - Northern19「DISCOVERY tour」
       -
         w/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[FEEL FLIP](https://ja.wikipedia.org/wiki/FEEL_FLIP "wikilink")
@@ -742,10 +742,10 @@
 ### 出演イベント
 
   - 2007年08月05日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2007
-  - 2007年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 07/08
+  - 2007年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
   - 2008年02月08日・09日 - [BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")「Love and Leave」 release tour
   - 2008年04月26日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")08
-  - 2008年05月24日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink")★10
+  - 2008年05月24日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink")★10
   - 2008年08月03日 - ROCK IN JAPAN FESTIVAL 2008
   - 2008年08月09日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
   - 2008年08月30日 - RUSH BALL 2008
@@ -758,11 +758,11 @@
   - 2009年08月06日 - TREASURE05X 2009 ～imagination from nothing 1st day～
   - 2009年08月30日 - RUSH BALL 2009
   - 2009年11月02日 - [No Use For A Name](https://ja.wikipedia.org/wiki/ノー・ユース・フォー・ア・ネイム "wikilink") JAPAN Tour 2009
-  - 2009年11月12日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") Life is sweet tour 2009-2010
+  - 2009年11月12日 - [10-FEET](../Page/10-FEET.md "wikilink") Life is sweet tour 2009-2010
   - 2009年11月14日 - MADOllie2009 PUNK/ROCK DAY
   - 2009年12月28日 - COUNTDOWN JAPAN 09/10
   - 2010年02月05日 - [GLORY HILL](https://ja.wikipedia.org/wiki/GLORY_HILL "wikilink") Signs TOUR
-  - 2010年02月16日・18日 - [9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink") 命ノゼンマイ大巡業
+  - 2010年02月16日・18日 - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") 命ノゼンマイ大巡業
   - 2010年05月16日 - BEA presents F-X 2010
   - 2010年08月07日 - SUMMER SONIC 2010
   - 2010年09月11日 - [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink") Nothing lasts forever Tour 2010
@@ -783,8 +783,8 @@
   - 2011年12月30日 - COUNTDOWN JAPAN 11/12
   - 2012年02月18日 - [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink") pre'Wake me up when night falls again tour'
   - 2012年02月21日 - MORTAR RECORD presents 11th Anniversary
-  - 2012年02月25日・26日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") TOUR 2011-2012「GOLD」
-  - 2012年03月19日 - Northern19 VS [B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")
+  - 2012年02月25日・26日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") TOUR 2011-2012「GOLD」
+  - 2012年03月19日 - Northern19 VS [B-DASH](../Page/B-DASH.md "wikilink")
   - 2012年03月20日 - MbS×I ♥ RADIO 786「SANUKI ROCK COLOSSEUM ～BUSTA CUP 3rd round～」
   - 2012年03月18日 - ユウベル presents MUSIC CUBE 12
   - 2012年05月04日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2012
@@ -806,7 +806,7 @@
   - 2012年12月31日 - LIVE [DI:GA](https://ja.wikipedia.org/wiki/DI:GA "wikilink") JUDGEMENT 2012
   - 2013年03月22日〜04月09日 - 10-FEET "thread" TOUR 2012-2013
   - 2013年04月19日 - HEEFEST 2013 ～HALF CENTURY CELEBRATION～(笠原健太郎のみ)
-  - 2013年05月06日 - [LAST ALLIANCE](https://ja.wikipedia.org/wiki/LAST_ALLIANCE "wikilink") Seventh Sense TOUR 2013
+  - 2013年05月06日 - [LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink") Seventh Sense TOUR 2013
   - 2013年05月10日 - SiM「EViLS TOUR 2013」
   - 2013年05月18日 - SSMC 2013
   - 2013年05月21日 - [Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink") Fuel Rods Tour
@@ -821,7 +821,7 @@
   - 2013年09月04日〜8日（4公演） - [グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")「未来へのスパイラルツアー2013」
   - 2013年09月13日 - [PASSPO☆](https://ja.wikipedia.org/wiki/PASSPO☆ "wikilink") presents JEJEJET\!
   - 2013年09月20日・22日・23日 - [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") Care Package TOUR 2013
-  - 2013年09月28日・29日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") "Walk" TOUR 2013-2014
+  - 2013年09月28日・29日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") "Walk" TOUR 2013-2014
   - 2013年10月10日 - [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink") SEVEN fuels for your LIVES" tour 2013
   - 2013年10月12日 - REDLINE TOUR 2013 10DAYS
   - 2013年11月04日・15日・12月18日 - [NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink") "Human hymns"TOUR 2013-2014
@@ -840,7 +840,7 @@
   - 2014年03月25日・26日・05月22日 - [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")「Baitfish Attitude Tour 2014」
   - 2014年03月28日 - [at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")「CHANGE THE WORLD TOUR 2013-2014 FINAL SERIES」
   - 2014年04月26日 - pre-GrindHouse jamboree Vol.3
-  - 2014年05月01日・02日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")「Four voices tour 2014」
+  - 2014年05月01日・02日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")「Four voices tour 2014」
   - 2014年05月03日 - VIVA LA ROCK 2014
   - 2014年05月10日 - RUSH BALL☆R
   - 2014年05月11日 - TOTALFAT ベスコレ Tour 2014
@@ -852,7 +852,7 @@
   - 2014年06月07日 - SATANIC CARNIVAL'14
   - 2014年06月13日 - [AIR SWELL](https://ja.wikipedia.org/wiki/AIR_SWELL "wikilink")「The Beautiful TOUR 2014」
   - 2014年06月14日・15日 - [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") "アメジストTOUR 2014"
-  - 2014年06月19日・20日・22日 - [PAN](https://ja.wikipedia.org/wiki/PAN_\(バンド\) "wikilink")「ヒズム ハズム リズム」RELEASE"ヒズムハズムリズムツアー"
+  - 2014年06月19日・20日・22日 - [PAN](../Page/PAN_\(バンド\).md "wikilink")「ヒズム ハズム リズム」RELEASE"ヒズムハズムリズムツアー"
   - 2014年06月27日 - I ROCKS 2014 stand by LACCO TOWER【盟友編】
   - 2014年06月28日・29日 - [DRADNATS](https://ja.wikipedia.org/wiki/DRADNATS "wikilink")「MY MIND IS MADE UP TOUR」
   - 2014年07月06日 - 京都大作戦2014 ～束になってかかってきな祭！～
@@ -862,7 +862,7 @@
   - 2014年07月26日 - MEANING presents Pack This Air x Red Bull Live on the Road TRUCK STAGE
   - 2014年08月03日 - PUNKAFOOLIC\! BAYSIDE CRASH 2014
   - 2014年08月10日 - ROCK IN JAPAN FESTIVAL 2014
-  - 2014年08月21日 - [SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink") 傑作集を選んだ1億3千万人に挨拶TOUR
+  - 2014年08月21日 - [SABOTEN](../Page/SABOTEN.md "wikilink") 傑作集を選んだ1億3千万人に挨拶TOUR
   - 2014年08月23日 - [八食サマーフリーライブ](https://ja.wikipedia.org/wiki/八食サマーフリーライブ "wikilink") 2014
   - 2014年08月28日 - Red Bull Live on the Road 2014 Final Stage
   - 2014年08月29日 - PIRATE SHIP 2014 "SKOAL"
@@ -873,10 +873,10 @@
   - 2014年10月19日 - seedleSs & range party 2014
   - 2014年10月29日 - REDLINE ZEPP TOUR 2014
   - 2014年11月15日 - FOUR GET ME A NOTS 10th Anniversary GRATEFUL FOR ALL TOUR
-  - 2014年11月21日 - [四星球](https://ja.wikipedia.org/wiki/四星球 "wikilink") 4thフルアルバム「もはやCDではない」レコ発ツアー 『もはや…』
+  - 2014年11月21日 - [四星球](../Page/四星球.md "wikilink") 4thフルアルバム「もはやCDではない」レコ発ツアー 『もはや…』
   - 2014年11月26日〜30日 - [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink") 虚言NEUROSE TOUR
-  - 2014年11月23日・24日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") Where The Light Remains release TOUR
-  - 2014年12月06日・07日 - [G-FREAK FACTORY](https://ja.wikipedia.org/wiki/G-FREAK_FACTORY "wikilink") "fact" TOUR 2014
+  - 2014年11月23日・24日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") Where The Light Remains release TOUR
+  - 2014年12月06日・07日 - [G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink") "fact" TOUR 2014
   - 2014年12月10日 - [The Starbems](https://ja.wikipedia.org/wiki/The_Starbems "wikilink") VANISHING CITY TOUR 2014
   - 2014年12月14日 - BACK LIFT "Ten Years Later"TOUR2014-2015
   - 2014年12月21日 - XING 2014
@@ -896,7 +896,7 @@
   - 2015年03月16日 - FACE IT\!\!
   - 2015年03月21日 - Zephyren presents A.V.E.S.T. project vol8
   - 2015年03月22日 - SANUKI ROCK COLOSSEUM 2015
-  - 2015年04月03日・04日 - [THE CHERRY COKE$](https://ja.wikipedia.org/wiki/THE_CHERRY_COKE$ "wikilink")「SUNRISE CRUISE tour」
+  - 2015年04月03日・04日 - [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink")「SUNRISE CRUISE tour」
   - 2015年04月10日 - KYOTO MUSE 25th ANNIVERSARY "25SOULS"
   - 2015年04月12日 - EGG BRAIN LIVE "THANXXX"
   - 2015年04月13日 - 兄貴祭り 本祭
@@ -919,7 +919,7 @@
   - 2015年06月30日 - HAWAIIAN6 presents NO TITLE TOUR
   - 2015年07月04日 - FOUR SEASONS FESTIVAL'15
   - 2015年07月19日 - そうだ\! 佐渡へ行こう\!\!
-  - 2015年07月20日 - [PAN結成](https://ja.wikipedia.org/wiki/PAN_\(バンド\) "wikilink")20周年記念イベント 20祭やDAY\!
+  - 2015年07月20日 - [PAN結成](../Page/PAN_\(バンド\).md "wikilink")20周年記念イベント 20祭やDAY\!
   - 2015年07月25日 - PUNKAFOOLIC\! BAYSIDE CRASH 2015
   - 2015年08月05日 - HOMIES × \[NOiD\] 2015
   - 2015年08月08日 - SHIMA ADDICTION- RELEASE TOUR
@@ -935,7 +935,7 @@
   - 2015年09月25日・27日 - HEY-SMITH "お披露目TOUR"
   - 2015年10月12日 - MINAMI WHEEL 2015
   - 2015年10月22日 - MAMA2 15th Anniversary～WIRED ReCORDS共同 企画～
-  - 2015年10月23日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")「KIDS AT PLAY TOUR 2015-2016」
+  - 2015年10月23日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")「KIDS AT PLAY TOUR 2015-2016」
   - 2015年11月02日 - [SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink") ALOHA TOUR 2015～2016
   - 2015年11月03日 - GOOD4NOTHING pre. MELODIC COASTER 2015
   - 2015年11月06日・08日 - Fear, and Loathing in Las Vegas "Feeling of Unity" Release Tour

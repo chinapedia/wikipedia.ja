@@ -5,7 +5,7 @@
 
 ## 内容
 
-再結成期にリリースした[NOBODYプロデュースのオリジナルアルバム](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")。DISC1のトラック12の「Hyper Dragon Mission System」は唯一トークで、タイトル曲の「DRAGON TWIST」はDISC2に収録されており、ディスコかつロカビリーに仕上がっている。
+再結成期にリリースした[NOBODYプロデュースのオリジナルアルバム](../Page/NOBODY_\(ロックバンド\).md "wikilink")。DISC1のトラック12の「Hyper Dragon Mission System」は唯一トークで、タイトル曲の「DRAGON TWIST」はDISC2に収録されており、ディスコかつロカビリーに仕上がっている。
 
 ## 収録曲
 
@@ -16,7 +16,7 @@
         作詞:船橋孝樹 作曲・編曲:NOBODY
 2.  SCAT CAT
       -
-        作詞:[高田誠一](https://ja.wikipedia.org/wiki/高田誠一 "wikilink") 作曲・編曲:NOBODY
+        作詞:[高田誠一](../Page/高田誠一.md "wikilink") 作曲・編曲:NOBODY
 3.  Red Shoes
       -
         作詞・作曲・編曲:NOBODY
@@ -55,6 +55,6 @@
 ## 関連項目
 
   - [BLACK CATS](https://ja.wikipedia.org/wiki/BLACK_CATS "wikilink")
-  - [NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")
+  - [NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")
 
 [Category:BLACK_CATSのアルバム](https://ja.wikipedia.org/wiki/Category:BLACK_CATSのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink")

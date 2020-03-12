@@ -14,22 +14,22 @@
   - 構成：[高河ゆん](../Page/高河ゆん.md "wikilink")
   - キャラクター原案：高河ゆん
   - 音楽：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-  - 監督：[出崎哲](https://ja.wikipedia.org/wiki/出崎哲 "wikilink")
-  - 絵コンテ：[冨永恒雄](https://ja.wikipedia.org/wiki/冨永恒雄 "wikilink")
+  - 監督：[出崎哲](../Page/出崎哲.md "wikilink")
+  - 絵コンテ：[冨永恒雄](../Page/冨永恒雄.md "wikilink")
   - 演出：冨永恒雄
   - 脚本：宮下知也
   - キャラクターデザイン：小林ゆかり
-  - 美術監督：[石垣努](https://ja.wikipedia.org/wiki/石垣プロダクション "wikilink")
+  - 美術監督：[石垣努](../Page/石垣プロダクション.md "wikilink")
   - 音響監督：[松浦典良](https://ja.wikipedia.org/wiki/松浦典良 "wikilink")
   - サウンド･コラボレーション：[日向大介](https://ja.wikipedia.org/wiki/日向大介 "wikilink")
   - 撮影監督：高橋明彦
-  - 制作：[アニメイトフィルム](https://ja.wikipedia.org/wiki/アニメイトフィルム "wikilink")、[マジックバス](https://ja.wikipedia.org/wiki/マジックバス "wikilink")
-  - 制作協力：[GAINAX](https://ja.wikipedia.org/wiki/ガイナックス "wikilink")（ノンクレジット）
+  - 制作：[アニメイトフィルム](https://ja.wikipedia.org/wiki/アニメイトフィルム "wikilink")、[マジックバス](../Page/マジックバス.md "wikilink")
+  - 制作協力：[GAINAX](../Page/ガイナックス.md "wikilink")（ノンクレジット）
   - 製作･著作：[ムービック](../Page/ムービック.md "wikilink")、アズミックス、[SMEビジュアルワークス](https://ja.wikipedia.org/wiki/SMEビジュアルワークス "wikilink")
 
 ### 主題歌
 
-  - 『[JUST ONE VICTORY](https://ja.wikipedia.org/wiki/JUST_ONE_VICTORY_\(たったひとつの勝利\) "wikilink")（RemixVersion）』 [TM NETWORK](../Page/TM_NETWORK.md "wikilink")
+  - 『[JUST ONE VICTORY](../Page/JUST_ONE_VICTORY_\(たったひとつの勝利\).md "wikilink")（RemixVersion）』 [TM NETWORK](../Page/TM_NETWORK.md "wikilink")
     作詞･作曲：小室哲哉
 
 ## 登場キャラクター・声の出演
@@ -54,12 +54,12 @@
 
 <!-- end list -->
 
-  - **ティコ・ブラーニ**：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+  - **ティコ・ブラーニ**：[飛田展男](../Page/飛田展男.md "wikilink")
 
 <!-- end list -->
 
   -
-    異世界ラ・パス・ル・パスのギタリスト。[ダークエルフ](https://ja.wikipedia.org/wiki/ダークエルフ "wikilink")を思わせる風貌でサングラスが特徴。フラッシュと違い気立てが良く、初めからキャロルに優しい。
+    異世界ラ・パス・ル・パスのギタリスト。[ダークエルフ](../Page/ダークエルフ.md "wikilink")を思わせる風貌でサングラスが特徴。フラッシュと違い気立てが良く、初めからキャロルに優しい。
 
 <!-- end list -->
 
@@ -91,8 +91,8 @@
 
 <!-- end list -->
 
-  - **タイオス**：[池田勝](https://ja.wikipedia.org/wiki/池田勝 "wikilink")
-  - **リート**：[土井美加](https://ja.wikipedia.org/wiki/土井美加 "wikilink")
+  - **タイオス**：[池田勝](../Page/池田勝.md "wikilink")
+  - **リート**：[土井美加](../Page/土井美加.md "wikilink")
   - **ライマン・ミュー・ダグラス**：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
 
 <!-- end list -->
@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - **テレーズ先生**：[伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")
+  - **テレーズ先生**：[伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
 
 ## CAROL-K
 
@@ -161,7 +161,7 @@
 
 ## 関連項目
 
-  - [CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](https://ja.wikipedia.org/wiki/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜 "wikilink")
+  - [CAROL 〜A DAY IN A GIRL'S LIFE 1991〜](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")
 
 ## 脚注
 

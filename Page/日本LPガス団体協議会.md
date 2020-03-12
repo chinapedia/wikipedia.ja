@@ -7,7 +7,7 @@
 
 ### 所在地
 
-〒105-0001 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区虎ノ門](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")1-14-1　琴平ビル　4F
+〒105-0001 [東京都](../Page/東京都.md "wikilink")[港区虎ノ門](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")1-14-1　琴平ビル　4F
 
 ### 沿革
 
@@ -18,8 +18,8 @@
 
 ### LPガス流通
 
-  - [日本LPガス協会](https://ja.wikipedia.org/wiki/日本LPガス協会 "wikilink") - LPガスの[輸入](https://ja.wikipedia.org/wiki/輸入 "wikilink")[元売](https://ja.wikipedia.org/wiki/元売 "wikilink")業者の団体。
-  - 一般社団法人[全国LPガス協会](https://ja.wikipedia.org/wiki/全国LPガス協会 "wikilink") - LPガスの[卸売](../Page/卸売.md "wikilink")業者、[販売](../Page/販売.md "wikilink")業者、LPガス[スタンド](https://ja.wikipedia.org/wiki/スタンド "wikilink")事業者の団体。
+  - [日本LPガス協会](https://ja.wikipedia.org/wiki/日本LPガス協会 "wikilink") - LPガスの[輸入](../Page/輸入.md "wikilink")[元売](https://ja.wikipedia.org/wiki/元売 "wikilink")業者の団体。
+  - 一般社団法人[全国LPガス協会](https://ja.wikipedia.org/wiki/全国LPガス協会 "wikilink") - LPガスの[卸売](../Page/卸売.md "wikilink")業者、[販売](../Page/販売.md "wikilink")業者、LPガス[スタンド](../Page/スタンド.md "wikilink")事業者の団体。
 
 ### LPガス機器・設備
 
@@ -37,7 +37,7 @@
 
 ### 過去
 
-  - 『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』（[新興産業と共にナショナルスポンサーとして](https://ja.wikipedia.org/wiki/新興産業_\(建材\) "wikilink")[朝日ソーラー](https://ja.wikipedia.org/wiki/朝日ソーラー "wikilink")、[日本生命と隔日で](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")、1994年10月～1995年3月。[周富徳](https://ja.wikipedia.org/wiki/周富徳 "wikilink")出演の「周さんのLPガスな夜」「周さんのLPガスな朝」というCMが放送されていた）
+  - 『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』（[新興産業と共にナショナルスポンサーとして](../Page/新興産業_\(建材\).md "wikilink")[朝日ソーラー](../Page/朝日ソーラー.md "wikilink")、[日本生命と隔日で](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")、1994年10月～1995年3月。[周富徳](../Page/周富徳.md "wikilink")出演の「周さんのLPガスな夜」「周さんのLPガスな朝」というCMが放送されていた）
   - 『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』（隔日、同上・提供時期不明）
 
 ## 外部リンク

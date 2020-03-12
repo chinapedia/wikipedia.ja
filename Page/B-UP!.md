@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - 10:10　[FMラジオショッピング](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink")
+  - 10:10　[FMラジオショッピング](../Page/FM_Radio_Shopping.md "wikilink")
     … TEL：0120-80-1000
   - 10:14　
       - **(月)**Car Life Up To You
@@ -90,7 +90,7 @@
 
   - 月・火…[佐藤望](https://ja.wikipedia.org/wiki/佐藤望_\(アナウンサー\) "wikilink")
   - 水・木…[山本慶一](https://ja.wikipedia.org/wiki/山本慶一 "wikilink")
-  - 金…[二瓶由美](https://ja.wikipedia.org/wiki/二瓶由美 "wikilink")
+  - 金…[二瓶由美](../Page/二瓶由美.md "wikilink")
 
 ### 2004年4月〜2005年3月
 
@@ -137,7 +137,7 @@
 ### 2010年4月〜2014年3月
 
   - 月・火…鹿島田千帆
-  - 水・木…[須賀由美子](https://ja.wikipedia.org/wiki/須賀由美子 "wikilink")
+  - 水・木…[須賀由美子](../Page/須賀由美子.md "wikilink")
   - 金…DJ Kei
 
 ### 2014年4月〜2015年3月

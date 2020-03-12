@@ -15,9 +15,9 @@
 
 1.  **Selfish**
       -
-        作詞･作曲･編曲:[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")
-        第20回[東日本女子駅伝](https://ja.wikipedia.org/wiki/東日本女子駅伝 "wikilink")テーマソング。
-        [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")発売のバラードベスト『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』の付属DVDにはダンスシーンを中心に再編集されたバージョンが収録されている。
+        作詞･作曲･編曲:[渡辺未来](../Page/渡辺未来.md "wikilink")
+        第20回[東日本女子駅伝](../Page/東日本女子駅伝.md "wikilink")テーマソング。
+        [2007年](../Page/2007年.md "wikilink")発売のバラードベスト『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』の付属DVDにはダンスシーンを中心に再編集されたバージョンが収録されている。
 2.  **SHAKE IT**
       -
         作詞:倖田來未　作曲･編曲:今井大介
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   - 『[secret](https://ja.wikipedia.org/wiki/secret_\(倖田來未のアルバム\) "wikilink")』
-  - 『[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜 "wikilink")』
+  - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
   - 『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』※DVDにPVとして収録
 
 <!-- end list -->

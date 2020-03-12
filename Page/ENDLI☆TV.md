@@ -1,11 +1,11 @@
 > この記事は[ENDLITV](https://ja.wikipedia.org/wiki/ENDLITV)から翻訳されています。
 
 
-**ENDLI☆TV**（エンドリティービー）は、フジテレビ系列で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に放送された特番。[ENDLICHERI☆ENDLICHERI](https://ja.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")の内面、思想を追うドキュメント形式の音楽番組。LIVE映像、[小林武史](../Page/小林武史.md "wikilink")との対談、アーティストからのコメントなどから構成されるが、CGやイメージ映像を多用するなど独特の世界観を持つ。
+**ENDLI☆TV**（エンドリティービー）は、フジテレビ系列で[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に放送された特番。[ENDLICHERI☆ENDLICHERI](https://ja.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")の内面、思想を追うドキュメント形式の音楽番組。LIVE映像、[小林武史](../Page/小林武史.md "wikilink")との対談、アーティストからのコメントなどから構成されるが、CGやイメージ映像を多用するなど独特の世界観を持つ。
 
 ## 概要
 
-ENDLICHERI☆ENDLICHERI Presents Neo Africa Rainbow Ax Funky Party 2007から「Blue Berry」「傷の上には赤いBLOOD」「Rainbow Wing」の３曲が、 2007年3月18日に新木場[STUDIO COASTで行なわれた](https://ja.wikipedia.org/wiki/STUDIO_COAST "wikilink")[AP BANG\!に飛び入り参加した際に唄った](https://ja.wikipedia.org/wiki/AP_BANG! "wikilink")「ソメイヨシノ」の４曲がLIVE映像として使用された。 また、小林武史との対談の他、大森はじめ（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）、[土屋公平](https://ja.wikipedia.org/wiki/土屋公平 "wikilink")、[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")、[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")、[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")、[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")、[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")といった著名なアーティストたちからENDLICHERI☆ENDLICHERIの音楽やLIVEについてのコメントが寄せられた。
+ENDLICHERI☆ENDLICHERI Presents Neo Africa Rainbow Ax Funky Party 2007から「Blue Berry」「傷の上には赤いBLOOD」「Rainbow Wing」の３曲が、 2007年3月18日に新木場[STUDIO COASTで行なわれた](../Page/STUDIO_COAST.md "wikilink")[AP BANG\!に飛び入り参加した際に唄った](https://ja.wikipedia.org/wiki/AP_BANG! "wikilink")「ソメイヨシノ」の４曲がLIVE映像として使用された。 また、小林武史との対談の他、大森はじめ（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）、[土屋公平](../Page/土屋公平.md "wikilink")、[堂島孝平](../Page/堂島孝平.md "wikilink")、[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")、[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")、[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")、[吉田建](../Page/吉田建.md "wikilink")といった著名なアーティストたちからENDLICHERI☆ENDLICHERIの音楽やLIVEについてのコメントが寄せられた。
 番組全編を通して[龍](https://ja.wikipedia.org/wiki/龍 "wikilink")や[幾何学](../Page/幾何学.md "wikilink")模様、文字などのCGが多用され、独特の世界観を出している。
 番組中盤にはこれまでENDLICHERI☆ENDLICHERIがリリースした数曲の歌詞を切り貼りした、新たな１つのメッセージが流された。
 対談では主に「愛」「奈良」「縁」など非常に抽象的なテーマについて語られ、ENDLICHERI☆ENDLICHERIの内面を深くあぶり出す一方で難解な印象もある。
@@ -15,16 +15,16 @@ ENDLICHERI☆ENDLICHERI Presents Neo Africa Rainbow Ax Funky Party 2007から「
 ★ENDLICHERI☆ENDLICHERI
 
 ナレーション
-★[鳥越俊太郎](https://ja.wikipedia.org/wiki/鳥越俊太郎 "wikilink")
+★[鳥越俊太郎](../Page/鳥越俊太郎.md "wikilink")
 
 コメント
 ★[大森はじめ](https://ja.wikipedia.org/wiki/大森はじめ "wikilink")（東京スカパラダイスオーケストラ）
-★[土屋公平](https://ja.wikipedia.org/wiki/土屋公平 "wikilink")
-★[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")
+★[土屋公平](../Page/土屋公平.md "wikilink")
+★[堂島孝平](../Page/堂島孝平.md "wikilink")
 ★[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")
 ★[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")
 ★[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")
-★[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")
+★[吉田建](../Page/吉田建.md "wikilink")
 
 ## ネット局
 
@@ -53,7 +53,7 @@ ENDLICHERI☆ENDLICHERI Presents Neo Africa Rainbow Ax Funky Party 2007から「
 
 ## スタッフ
 
-★プロデューサー：[きくち伸](https://ja.wikipedia.org/wiki/きくち伸 "wikilink")
+★プロデューサー：[きくち伸](../Page/きくち伸.md "wikilink")
 ★アシスタントプロデューサー：宇賀神裕子、加藤万貴
 ★構成／演出：[浜崎綾](https://ja.wikipedia.org/wiki/浜崎綾 "wikilink")
 

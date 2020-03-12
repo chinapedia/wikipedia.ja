@@ -1,7 +1,7 @@
 > この記事は[ \(EU\)](https://ja.wikipedia.org/wiki/_\(EU\))から翻訳されています。
 
 
-**第一審裁判所**（だいいっしんさいばんしょ）は、[1989年](../Page/1989年.md "wikilink")に設立された[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")の[裁判所](../Page/裁判所.md "wikilink")。[欧州司法裁判所](https://ja.wikipedia.org/wiki/欧州司法裁判所 "wikilink")に併設されており、特定の分野に関する紛争の第1審を行い、[控訴](https://ja.wikipedia.org/wiki/控訴 "wikilink")された場合は案件を欧州司法裁判所に送る。
+**第一審裁判所**（だいいっしんさいばんしょ）は、[1989年](../Page/1989年.md "wikilink")に設立された[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")の[裁判所](../Page/裁判所.md "wikilink")。[欧州司法裁判所](../Page/欧州司法裁判所.md "wikilink")に併設されており、特定の分野に関する紛争の第1審を行い、[控訴](../Page/控訴.md "wikilink")された場合は案件を欧州司法裁判所に送る。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 [2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[ニース条約](../Page/ニース条約.md "wikilink")が発効したが、この条約では、直前の5年間で欧州司法裁判所に持ち込まれる案件が増加したことを受けて、その負担軽減を目的に、特定分野の案件を取り扱う司法小委員会の設置を認めている。
 
-[2004年](../Page/2004年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")、[欧州連合理事会](https://ja.wikipedia.org/wiki/欧州連合理事会 "wikilink")は[欧州連合公務員裁判所](https://ja.wikipedia.org/wiki/欧州連合公務員裁判所 "wikilink")の設立決議を採択した。この新たな裁判所は8人の判事で構成され、欧州連合の諸機関に勤務する職員の労働問題に関する紛争を第一審で取り扱うこととされている。公務員裁判所の決定については法律の解釈のみを争点として、第一審裁判所に控訴することができ、さらにこの分野においては第一審裁判所の決定について、例外的に欧州司法裁判所が再審議することができる。欧州連合公務員裁判所は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")に正式に発足した。
+[2004年](../Page/2004年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")、[欧州連合理事会](../Page/欧州連合理事会.md "wikilink")は[欧州連合公務員裁判所](https://ja.wikipedia.org/wiki/欧州連合公務員裁判所 "wikilink")の設立決議を採択した。この新たな裁判所は8人の判事で構成され、欧州連合の諸機関に勤務する職員の労働問題に関する紛争を第一審で取り扱うこととされている。公務員裁判所の決定については法律の解釈のみを争点として、第一審裁判所に控訴することができ、さらにこの分野においては第一審裁判所の決定について、例外的に欧州司法裁判所が再審議することができる。欧州連合公務員裁判所は[2005年](../Page/2005年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に正式に発足した。
 
 なお現在、[欧州連合特許裁判所](https://ja.wikipedia.org/wiki/欧州連合特許裁判所 "wikilink")の設置が議論されている。
 
@@ -83,11 +83,11 @@
 ## 関連項目
 
   - [欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")
-  - [欧州司法裁判所](https://ja.wikipedia.org/wiki/欧州司法裁判所 "wikilink")
+  - [欧州司法裁判所](../Page/欧州司法裁判所.md "wikilink")
   - [欧州連合公務員裁判所](https://ja.wikipedia.org/wiki/欧州連合公務員裁判所 "wikilink")
   - [3つの柱 (EU)](../Page/3つの柱_\(EU\).md "wikilink")
   - [単一欧州議定書](https://ja.wikipedia.org/wiki/単一欧州議定書 "wikilink")
-  - [欧州憲法](https://ja.wikipedia.org/wiki/欧州憲法 "wikilink")
+  - [欧州憲法](../Page/欧州憲法.md "wikilink")
   - [EU法](https://ja.wikipedia.org/wiki/EU法 "wikilink")
 
 ## 外部リンク

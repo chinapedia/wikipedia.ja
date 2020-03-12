@@ -1,34 +1,34 @@
 > この記事は[LUVandSOUL](https://ja.wikipedia.org/wiki/LUVandSOUL)から翻訳されています。
 
 
-**LUVandSOUL**（ラヴ・アンド・ソウル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コーラス・グループ](https://ja.wikipedia.org/wiki/コーラス・グループ "wikilink")である。1998年[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")よりデビュー。2000年[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")に移籍。2004年から活動休止したが、2011年4月に新メンバーで再結成され、2011年10月19日にミニアルバム「**SOULandLUV**」で活動再開。なお2013年からは改名して「**LUV**」として活動していたが、2014年9月に無期限活動停止となる。2016年よりオリジナルメンバーで活動再開。
+**LUVandSOUL**（ラヴ・アンド・ソウル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コーラス・グループ](../Page/コーラス・グループ.md "wikilink")である。1998年[ポリスター](../Page/ポリスター.md "wikilink")よりデビュー。2000年[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")に移籍。2004年から活動休止したが、2011年4月に新メンバーで再結成され、2011年10月19日にミニアルバム「**SOULandLUV**」で活動再開。なお2013年からは改名して「**LUV**」として活動していたが、2014年9月に無期限活動停止となる。2016年よりオリジナルメンバーで活動再開。
 
 ## メンバー
 
 ### オリジナルメンバー
 
-  - **TAKAYUKI**（本名：鈴木貴之）[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[10月8日](../Page/10月8日.md "wikilink") [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身 A型 - main
+  - **TAKAYUKI**（本名：鈴木貴之）[1976年](../Page/1976年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink") [東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身 A型 - main
   - **RYOTA**（本名：会田良太）[1979年](../Page/1979年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink") 埼玉県越谷市出身 B型 - middle
-  - **ATSUSHI**（本名：増田敦）[1979年](../Page/1979年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") 埼玉県越谷市出身 AB型 - bass
-  - **KENTA**（本名：会田健太）[1975年](../Page/1975年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身 B型 - high、リーダー。
+  - **ATSUSHI**（本名：増田敦）[1979年](../Page/1979年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") 埼玉県越谷市出身 AB型 - bass
+  - **KENTA**（本名：会田健太）[1975年](../Page/1975年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") [埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身 B型 - high、リーダー。
 
 ### メンバーチェンジ後
 
   - **DAISUKE**（本名：田辺大輔）[福井県](../Page/福井県.md "wikilink")出身 - main
   - **ATSU**（本名：小池敦）埼玉県出身 - middle
-  - **SATORU**（本名：中村悟）[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身 - lead
+  - **SATORU**（本名：中村悟）[福岡県](../Page/福岡県.md "wikilink")出身 - lead
   - **KIKURI**（本名：菊地勇人）埼玉県出身 - law & lead
   - **KENTA**（本名：会田健太） 埼玉県出身 - high、リーダー。
 
 ## 経歴
 
-1997年にKENTA、TAKAYUKI、ATSUSHI、RYOTAによって 結成された男性[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink") 系ヴォーカル・グループ。 KENTA(兄)とRYOTA(弟)は5歳違いの兄弟。 ATSUSHIとRYOTAは同級生で、幼い頃に[少年野球](https://ja.wikipedia.org/wiki/少年野球 "wikilink")の[バッテリー](../Page/バッテリー.md "wikilink")を組んでいた親友。 TAKAYUKIはKENTAの後輩。 4人は[BOYZⅡMENに憧れを持ち](https://ja.wikipedia.org/wiki/ボーイズ・II・メン "wikilink")、集まっては歌の練習を始めた。 その頃、[プロデューサー](../Page/プロデューサー.md "wikilink")宮地大輔と出会い後に[CDデビューの念願が叶う](../Page/コンパクトディスク.md "wikilink")。
+1997年にKENTA、TAKAYUKI、ATSUSHI、RYOTAによって 結成された男性[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink") 系ヴォーカル・グループ。 KENTA(兄)とRYOTA(弟)は5歳違いの兄弟。 ATSUSHIとRYOTAは同級生で、幼い頃に[少年野球](../Page/少年野球.md "wikilink")の[バッテリー](../Page/バッテリー.md "wikilink")を組んでいた親友。 TAKAYUKIはKENTAの後輩。 4人は[BOYZⅡMENに憧れを持ち](https://ja.wikipedia.org/wiki/ボーイズ・II・メン "wikilink")、集まっては歌の練習を始めた。 その頃、[プロデューサー](../Page/プロデューサー.md "wikilink")宮地大輔と出会い後に[CDデビューの念願が叶う](../Page/コンパクトディスク.md "wikilink")。
 
 全国各地でのストリート・ライブ、インストア・ライブを続け、ライヴハウスでは月イチで歌うようになる。 路上で歌うにはファンが増えすぎてしまったため、場所をライブ・ハウス、クラブに代えて歌うようになる。しかし、ファンと身近に接することができるストリートの場を大事にしていたため、急遽ストリートライヴを行うこともあった。 ライヴハウスでの月イチライヴをしていた頃、KENTA・TAKAYUKIのアダルトチーム、RYOTA・ATSUSHIのヤングチームに分かれ、歌の対決なども行われた。
 
 1998年7 月にシングル「星空を見上げて」でデビュー。2000年[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")に移籍。 2001年9月にファーストアルバム「4 you」を発表。2004年に活動休止。
 
-2011年4月にオリジナルメンバーのKENTAと、オーディションから選出された 田辺大輔、中村悟、小池敦の3人に加え、[COLORの元メンバーであるKIKURIの参加が決定し活動再開](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")。
+2011年4月にオリジナルメンバーのKENTAと、オーディションから選出された 田辺大輔、中村悟、小池敦の3人に加え、[COLORの元メンバーであるKIKURIの参加が決定し活動再開](../Page/DEEP_\(歌手グループ\).md "wikilink")。
 
 2012年末に唯一のオリジナルメンバーであるKENTAが卒業し、LUVandSOULオーディションのファイナリストで結成されたコーラスグループ 「4you」として活動しているMASATAKAがサポートメンバーとして加入。それと同時期にアーティスト名を「**LUV**」に改名した。
 
@@ -82,7 +82,7 @@
 <li>君の好きなメロディー</li>
 <li>涙が落ちないように(inst)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>にCOLOR(現<a href="https://ja.wikipedia.org/wiki/DEEP_(歌手グループ)" title="wikilink">DEEP</a>)がカヴァー。</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>にCOLOR(現<a href="../Page/DEEP_(歌手グループ).md" title="wikilink">DEEP</a>)がカヴァー。</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
@@ -109,7 +109,7 @@
 <li>愛を想い出に (インストゥルメンタル)</li>
 <li>Love Letter (インストゥルメンタル)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a>のカヴァー。</p></td>
+<td><p><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>のカヴァー。</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
@@ -179,7 +179,7 @@
 <li>Dream(Instrumental)</li>
 <li>NEGAI～The Angel“I say Yes”～(Instrumental)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>｢<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>｣2001年8月度エンディングテーマ</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>｢<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>｣2001年8月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
@@ -535,8 +535,8 @@
 |                                                               |                                                                                                                                        |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                        | **曲名**                                                                                                                                 |
-| [末田健](https://ja.wikipedia.org/wiki/末田健 "wikilink")           | 「24/7」「Love Letter」「Love is so beautiful」「Luv-graduation」「With you〜Luv merry X'mas〜」「You are...」                                       |
-| [須永秀明](https://ja.wikipedia.org/wiki/須永秀明 "wikilink")         | 「snow」                                                                                                                                 |
+| [末田健](../Page/末田健.md "wikilink")                              | 「24/7」「Love Letter」「Love is so beautiful」「Luv-graduation」「With you〜Luv merry X'mas〜」「You are...」                                       |
+| [須永秀明](../Page/須永秀明.md "wikilink")                            | 「snow」                                                                                                                                 |
 | [土川俊司](https://ja.wikipedia.org/wiki/土川俊司 "wikilink")         | 「Dream」                                                                                                                                |
 | [東京NO.1](https://ja.wikipedia.org/wiki/東京NO.1 "wikilink")     | 「[道 〜Don't Look Back In Anger〜](https://www.youtube.com/watch?v=AO9HKr5ZWbM)」                                                          |
 | [TOM SATO](https://ja.wikipedia.org/wiki/TOM_SATO "wikilink") | 「[Feelin'](https://www.youtube.com/watch?v=280Vry9XJ74)」                                                                               |
@@ -562,25 +562,25 @@
 
 ## 関連項目
 
-  - [川村ゆみ](https://ja.wikipedia.org/wiki/川村ゆみ "wikilink")
+  - [川村ゆみ](../Page/川村ゆみ.md "wikilink")
   - [Shungo.](https://ja.wikipedia.org/wiki/Shungo. "wikilink")
   - [eyes](https://ja.wikipedia.org/wiki/eyes_\(ユニット\) "wikilink")
   - [本山清治](../Page/本山清治.md "wikilink")
   - [井内竜次](../Page/井内竜次.md "wikilink")
-  - [MAGICAL STREAM](https://ja.wikipedia.org/wiki/MAGICAL_STREAM "wikilink")
-  - [PARKSIDE JAM](https://ja.wikipedia.org/wiki/PARKSIDE_JAM "wikilink")
+  - [MAGICAL STREAM](../Page/MAGICAL_STREAM.md "wikilink")
+  - [PARKSIDE JAM](../Page/PARKSIDE_JAM.md "wikilink")
   - [A-IMAGE ARTIST PROGRAM](https://ja.wikipedia.org/wiki/A-IMAGE_ARTIST_PROGRAM "wikilink")
   - [HB](https://ja.wikipedia.org/wiki/HB_\(アーティスト\) "wikilink")
   - [宮地大輔](https://ja.wikipedia.org/wiki/宮地大輔 "wikilink")
   - [大野裕一](https://ja.wikipedia.org/wiki/大野裕一 "wikilink")
   - [capsulenote](https://ja.wikipedia.org/wiki/capsulenote "wikilink")
-  - [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")
-  - COLOR（現[DEEP](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")）
-  - [米倉利紀](https://ja.wikipedia.org/wiki/米倉利紀 "wikilink")
+  - [HI-D](../Page/HI-D.md "wikilink")
+  - COLOR（現[DEEP](../Page/DEEP_\(歌手グループ\).md "wikilink")）
+  - [米倉利紀](../Page/米倉利紀.md "wikilink")
   - [TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")
   - [4you](https://ja.wikipedia.org/wiki/4you "wikilink")
   - [田原俊彦](../Page/田原俊彦.md "wikilink")/[フォーミュラレコーディングス](https://ja.wikipedia.org/wiki/フォーミュラエンタテインメント "wikilink")
-  - [岡田俊哉](https://ja.wikipedia.org/wiki/岡田俊哉 "wikilink") - [中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の投手。「10年先の僕へ」のミュージックビデオに出演。
+  - [岡田俊哉](https://ja.wikipedia.org/wiki/岡田俊哉 "wikilink") - [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の投手。「10年先の僕へ」のミュージックビデオに出演。
   - LUV
 
 ## 脚注

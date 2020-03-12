@@ -1,7 +1,7 @@
 > この記事は[YELLOW MACHINEGUN](https://ja.wikipedia.org/wiki/YELLOW_MACHINEGUN)から翻訳されています。
 
 
-**YELLOW MACHINEGUN**（イエロー・マシンガン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")である。1993年結成。1996年[バンダイ・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink")よりデビュー。2006年6月より活動休止中であったが、2010年12月のライブで再始動する。
+**YELLOW MACHINEGUN**（イエロー・マシンガン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")である。1993年結成。1996年[バンダイ・ミュージックエンタテインメント](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")よりデビュー。2006年6月より活動休止中であったが、2010年12月のライブで再始動する。
 
 ## メンバー
 
@@ -25,12 +25,12 @@
 
 ### その他
 
-  - **Split**（2000年2月23日）[ABNORMALS](https://ja.wikipedia.org/wiki/ABNORMALS "wikilink")とのスプリット
+  - **Split**（2000年2月23日）[ABNORMALS](../Page/ABNORMALS.md "wikilink")とのスプリット
 
 ## 関連項目
 
-  - [少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")
-  - [BEAST FEAST](https://ja.wikipedia.org/wiki/BEAST_FEAST "wikilink")
+  - [少年ナイフ](../Page/少年ナイフ.md "wikilink")
+  - [BEAST FEAST](../Page/BEAST_FEAST.md "wikilink")
 
 ## 外部リンク
 

@@ -15,7 +15,7 @@ Arialはブラック、ボールド、エクストラボールド、コンデン
 
 ## 関連項目
 
-  - [コアフォント](https://ja.wikipedia.org/wiki/コアフォント "wikilink")
+  - [コアフォント](../Page/コアフォント.md "wikilink")
   - [ヘルベチカ](https://ja.wikipedia.org/wiki/ヘルベチカ "wikilink")
 
 ## 外部リンク

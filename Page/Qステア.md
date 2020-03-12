@@ -1,15 +1,15 @@
 > この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
 
 
-**Qステア**（キューステア）は、[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月を皮切りに順次発売されている[赤外線](../Page/赤外線.md "wikilink")[リモートコントロールの](https://ja.wikipedia.org/wiki/遠隔操作 "wikilink")[自動車](../Page/自動車.md "wikilink")[模型](../Page/模型.md "wikilink")。**[チョロQ](../Page/チョロQ.md "wikilink")**をモチーフとし、大きさ的にもチョロQとほぼ同サイズを実現している。
+**Qステア**（キューステア）は、[タカラトミー](../Page/タカラトミー.md "wikilink")より[2006年](../Page/2006年.md "wikilink")9月を皮切りに順次発売されている[赤外線](../Page/赤外線.md "wikilink")[リモートコントロールの](../Page/遠隔操作.md "wikilink")[自動車](../Page/自動車.md "wikilink")[模型](../Page/模型.md "wikilink")。**[チョロQ](../Page/チョロQ.md "wikilink")**をモチーフとし、大きさ的にもチョロQとほぼ同サイズを実現している。
 
 ## 概要
 
-超小型・超高性能の**S-techシャーシ**が最大の特徴で、基本的に全車種共通の動力性能となっているが、モーターとギアにはハイスピード版も用意されている。車種によっては[ドリフト走行](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")や「ノコノコ走行」（車体が上下に動く）するための特別な後輪パーツが同梱されているものもあり、これを既存車種に取り付けて遊ぶことも可能である。
+超小型・超高性能の**S-techシャーシ**が最大の特徴で、基本的に全車種共通の動力性能となっているが、モーターとギアにはハイスピード版も用意されている。車種によっては[ドリフト走行](../Page/ドリフト走行.md "wikilink")や「ノコノコ走行」（車体が上下に動く）するための特別な後輪パーツが同梱されているものもあり、これを既存車種に取り付けて遊ぶことも可能である。
 
 チョロQと同じ3～4cm四方のシャーシに、ステアリング機構・サスペンション・モーター・コントロール基盤などを内蔵している。バンドはA～Dの4種類あり、最大で4台での同時走行が楽しめる。ただし車種側で選択できるバンドは1車種につき2バンド（A/BもしくはC/Dの切り替え）にしか対応していないため、同じバンド選択グループの車種の場合は同時に2台しか走らせることができない。4台同時に走らせるためにはそれぞれ2台ずつ別のバンドグループに属する車種を選択する必要がある。
 
-Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.org/wiki/ボタン型電池 "wikilink")を利用するため、部品誤飲事故防止の観点から対象年齢は8歳以上とされており、同梱の取扱説明書には「3歳未満のお子様には絶対に与えないで下さい」と明記されている。それでも外れやすい構造（メンテナンスとチューンアップのため）の後輪パーツには「のみこみ防止コーティング」が施され、舐めると苦味を感じるようになっている。
+Qステアは小型玩具であり、[ボタン型電池](../Page/ボタン型電池.md "wikilink")を利用するため、部品誤飲事故防止の観点から対象年齢は8歳以上とされており、同梱の取扱説明書には「3歳未満のお子様には絶対に与えないで下さい」と明記されている。それでも外れやすい構造（メンテナンスとチューンアップのため）の後輪パーツには「のみこみ防止コーティング」が施され、舐めると苦味を感じるようになっている。
 
 このシリーズの技術は後に[チョロQハイブリッド\!](https://ja.wikipedia.org/wiki/チョロQハイブリッド! "wikilink")でも大幅に改良されて採用し、ゼンマイタイプとは別のリモコンタイプとして使われるようになった。
 
@@ -17,7 +17,7 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
 
 コントローラも手の中に収まるほど小さく、俗にいう「[マッチ](https://ja.wikipedia.org/wiki/マッチ "wikilink")箱の大きさ」で、上部に赤外線発光ダイオードが埋め込まれている。左側に前進・後退、右側にステアリングを切るためのボタンがついている。右上部にはダッシュボタンがあり、スピードを変えることができる。電池は裏側にネジ止めされている蓋を外すと交換できるが、このネジは[精密ドライバーないし](https://ja.wikipedia.org/wiki/ドライバー_\(工具\)#機能面による分類 "wikilink")「眼鏡用ドライバー」を使わないと回せない小さなものである。側面にはストラップ取り付け用の穴が開いている。
 
-また、下部にはQステア本体のバンドを切り替えたり、電池交換の際に必要なアジャスタースティックが内蔵されている。なお、コントローラの方は本体と違いA～Dの全てのバンドに対応している。コントローラはスターターセット及びレーシングセットにのみ付属で、車両単品には付属しない。コントローラは専用のコントロールアプリをダウンロードすれば携帯電話でも代用可能で、現在は[DoCoMoと](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[auの機種でダウンロードが可能である](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")。しかしながら操作性はお世辞にも良いとは言えず、スターターセットのコントローラを素直に使ったほうが無難である。
+また、下部にはQステア本体のバンドを切り替えたり、電池交換の際に必要なアジャスタースティックが内蔵されている。なお、コントローラの方は本体と違いA～Dの全てのバンドに対応している。コントローラはスターターセット及びレーシングセットにのみ付属で、車両単品には付属しない。コントローラは専用のコントロールアプリをダウンロードすれば携帯電話でも代用可能で、現在は[DoCoMoと](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[auの機種でダウンロードが可能である](../Page/Au_\(携帯電話\).md "wikilink")。しかしながら操作性はお世辞にも良いとは言えず、スターターセットのコントローラを素直に使ったほうが無難である。
 
 電池は車両、コントローラ共にLR44を2個ずつを使用する（一部はその限りではない）。
 
@@ -46,16 +46,16 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
 
 [Q-steer_HUMMER-H2Y.jpg](https://ja.wikipedia.org/wiki/File:Q-steer_HUMMER-H2Y.jpg "fig:Q-steer_HUMMER-H2Y.jpg")
 
-  - QSS01 [スカイラインGT-R](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")（R34）（A/B）
+  - QSS01 [スカイラインGT-R](../Page/日産・スカイライン.md "wikilink")（R34）（A/B）
   - QSS02 [ハマーH2](https://ja.wikipedia.org/wiki/ハマー_\(自動車\)#H2 "wikilink") （A/B）
   - QSS03 [インプレッサWRX](../Page/スバル・インプレッサ.md "wikilink") （A/B）
   - QSS04 [フィアット500](../Page/フィアット・500.md "wikilink") （C/D）
   - QSS05 [RX-8](../Page/マツダ・RX-8.md "wikilink") （C/D）
-  - QSS06 [フェアレディZ](https://ja.wikipedia.org/wiki/日産・フェアレディZ "wikilink")（432Z） （C/D）
+  - QSS06 [フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")（432Z） （C/D）
   - QSS07 スカイラインGT-R（R32） （A/B）
   - QSS08 [ランサーエボリューションVIII](../Page/三菱・ランサーエボリューション.md "wikilink") （A/B）
-  - QSS09 [コペン](https://ja.wikipedia.org/wiki/ダイハツ・コペン "wikilink") （A/B）
-  - QSS10 [ボンネットバス](https://ja.wikipedia.org/wiki/ボンネットバス "wikilink") (C/D)
+  - QSS09 [コペン](../Page/ダイハツ・コペン.md "wikilink") （A/B）
+  - QSS10 [ボンネットバス](../Page/ボンネットバス.md "wikilink") (C/D)
   - QSS11 フェアレディZ（Z33） （C/D）
   - QSS12 [スプリンタートレノ](../Page/トヨタ・スプリンタートレノ.md "wikilink")（AE86） （C/D）
   - QSS13 スカイラインGT-R（R34）パトカー （A/B）
@@ -80,7 +80,7 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
   - MO7-7　スズキ ワゴンR RR
   - MO7-8　トヨタ スプリンタートレノ(AE86)
 
-上記のQステアは2007年[東京モーターショー](../Page/東京モーターショー.md "wikilink")『[トミカ](https://ja.wikipedia.org/wiki/トミカ "wikilink")・チョロQコーナー』で発売された限定車種。 「コペン」以外は現存（または以前現存）したQステアのカラーリングを変更し、フロントウインドウに「東京モーターショー」のロゴをプリントした。（東京モーターショーロゴはコペンにもプリントされている）
+上記のQステアは2007年[東京モーターショー](../Page/東京モーターショー.md "wikilink")『[トミカ](../Page/トミカ.md "wikilink")・チョロQコーナー』で発売された限定車種。 「コペン」以外は現存（または以前現存）したQステアのカラーリングを変更し、フロントウインドウに「東京モーターショー」のロゴをプリントした。（東京モーターショーロゴはコペンにもプリントされている）
 
 #### 発売予定
 
@@ -129,7 +129,7 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
 
 スターターセットに加え、性能アップパーツが付属している。なお、性能アップパーツはすべての車種に装着可能。
 
-  - QSH01 [コルベットC3](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink") （C/D）- ハイスピードギアユニット付属
+  - QSH01 [コルベットC3](../Page/シボレー・コルベット.md "wikilink") （C/D）- ハイスピードギアユニット付属
   - QSH02 スカイラインGT-R（KPGC10）レーシング仕様 （A/B） スピンタイヤユニット付属
   - QSH03 リーボックスカイライン（R32)　(C/D) ハイスピードモーター付属
   - QSH04 RX-7パトロールカー（千葉県警） （A/B） ハイスピードギア付属　
@@ -145,9 +145,9 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
 
 ### タミヤとのコラボレーション
 
-[タミヤ](../Page/タミヤ.md "wikilink")のRCカーとQステアが合体。第1弾は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")11月に発売。なお、品番は**QS**ではなく**TS**である。
+[タミヤ](../Page/タミヤ.md "wikilink")のRCカーとQステアが合体。第1弾は[2007年](../Page/2007年.md "wikilink")11月に発売。なお、品番は**QS**ではなく**TS**である。
 
-車体の電源は従来のボタン電池式から、コントローラー側の[乾電池](../Page/乾電池.md "wikilink")を使って充電する[ニッケル・カドミウム蓄電池](https://ja.wikipedia.org/wiki/ニッケル・カドミウム蓄電池 "wikilink")に変更された。50秒で充電し、約2分の走行が可能となっている。
+車体の電源は従来のボタン電池式から、コントローラー側の[乾電池](../Page/乾電池.md "wikilink")を使って充電する[ニッケル・カドミウム蓄電池](../Page/ニッケル・カドミウム蓄電池.md "wikilink")に変更された。50秒で充電し、約2分の走行が可能となっている。
 
 シャーシの最大の特徴はこの電源の変更のほか、前輪と後輪にそれぞれサスペンション構造があり、またタイヤも「タミヤRCオフロードカー」の特徴的な大きな凹凸のあるものに変更されている。ただし精密機械なのでオフロードでの走行は避けたほうが無難で、卓上や床の上に様々な物を置いて障害とするような遊び方に向く。
 
@@ -155,16 +155,16 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
 
 通常のQステアが、A/BバンドまたはC/Dバンドに切り替えが可能なのに対し、タミヤRCバギーシリーズはバンドが固定である。
 
-  - TS01 [マイティフロッグ](https://ja.wikipedia.org/wiki/マイティフロッグ "wikilink")　Aバンド
-  - TS02 [グラスホッパー](https://ja.wikipedia.org/wiki/グラスホッパー_\(タミヤ\) "wikilink")　Bバンド
+  - TS01 [マイティフロッグ](../Page/マイティフロッグ.md "wikilink")　Aバンド
+  - TS02 [グラスホッパー](../Page/グラスホッパー_\(タミヤ\).md "wikilink")　Bバンド
   - TS03 [ホーネット](../Page/ホーネット.md "wikilink")　Cバンド
-  - TS04 [ホットショット](https://ja.wikipedia.org/wiki/ホットショット "wikilink")　Dバンド
+  - TS04 [ホットショット](../Page/ホットショット.md "wikilink")　Dバンド
   - TS05 [アバンテ](https://ja.wikipedia.org/wiki/アバンテ "wikilink")　Aバンド
   - TS06 [ブーメラン](../Page/ブーメラン.md "wikilink")　Bバンド
 
 ### カーズとのコラボレーション
 
-[ディズニーと](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")[ピクサー製作の車映画](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")・[カーズとコラボ](https://ja.wikipedia.org/wiki/カーズ_\(映画\) "wikilink")。品番に**P**が付く。
+[ディズニーと](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")[ピクサー製作の車映画](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")・[カーズとコラボ](../Page/カーズ_\(映画\).md "wikilink")。品番に**P**が付く。
 
   - QSP01 ライトニング・マックイーン
   - QSP02 ライトニング・マックイーン（ダイナコバージョン）
@@ -181,7 +181,7 @@ Qステアは小型玩具であり、[ボタン型電池](https://ja.wikipedia.o
 ## 関連項目
 
   - [チョロQハイブリッド\!](https://ja.wikipedia.org/wiki/チョロQハイブリッド! "wikilink") - [2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")下旬よりスタンダードチョロQを受け継いだ新シリーズを展開し、新しく追加されたリモコンタイプがこのシリーズを改良されて採用されている。
-  - [ハウスウェルネスフーズ](https://ja.wikipedia.org/wiki/ハウスウェルネスフーズ "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月\~8月に「[C1000レモンウォーター](https://ja.wikipedia.org/wiki/C1000_\(飲料\) "wikilink")」の[ペットボトル](../Page/ペットボトル.md "wikilink")容器に貼付された[シリアルナンバー](https://ja.wikipedia.org/wiki/シリアルナンバー "wikilink")で応募する「Qステア」9車種が総計10,000名に当たるプレゼントキャンペーンが実施された。
+  - [ハウスウェルネスフーズ](../Page/ハウスウェルネスフーズ.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月\~8月に「[C1000レモンウォーター](../Page/C1000_\(飲料\).md "wikilink")」の[ペットボトル](../Page/ペットボトル.md "wikilink")容器に貼付された[シリアルナンバー](https://ja.wikipedia.org/wiki/シリアルナンバー "wikilink")で応募する「Qステア」9車種が総計10,000名に当たるプレゼントキャンペーンが実施された。
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") - [avexが配信する](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[Bee TV内](https://ja.wikipedia.org/wiki/Bee_TV "wikilink")「東方神起のMOOLOG」第12回において、ミニラジコン対決と題してタミヤとのコラボレーションモデル三台を使用していた。
 
 [Category:自動車模型](https://ja.wikipedia.org/wiki/Category:自動車模型 "wikilink") [Category:チョロQ](https://ja.wikipedia.org/wiki/Category:チョロQ "wikilink") [Category:2000年代の玩具](https://ja.wikipedia.org/wiki/Category:2000年代の玩具 "wikilink")

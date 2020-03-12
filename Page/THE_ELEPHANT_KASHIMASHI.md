@@ -11,7 +11,7 @@
 
 1.  **ファイティングマン** (3:41)
       -
-        作詞・作曲：[宮本浩次](https://ja.wikipedia.org/wiki/宮本浩次_\(エレファントカシマシ\) "wikilink")
+        作詞・作曲：[宮本浩次](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")
 2.  **[デーデ](https://ja.wikipedia.org/wiki/デーデ "wikilink")** (2:29)
       -
         作詞・作曲：宮本浩次
@@ -34,7 +34,7 @@
 8.  **ゴクロウサン** (2:45)
       -
         作詞・作曲：宮本浩次
-9.  **[夢の中で](https://ja.wikipedia.org/wiki/ふわふわ_\(エレファントカシマシの曲\) "wikilink")** (4:15)
+9.  **[夢の中で](../Page/ふわふわ_\(エレファントカシマシの曲\).md "wikilink")** (4:15)
       -
         作詞：宮本浩次・石森敏行　作曲：石森敏行
         後に2ndシングルのカップリング曲としてシングルカット。
@@ -53,7 +53,7 @@
 
 デビュー25周年記念の『THE ELEPHANT KASHIMASHI IS A BAND\! 25 years history of the fighting men』の企画で2枚組としてリリース。
 1枚目は、[Stephen Marcussenがリマスタリングした全収録曲と](https://ja.wikipedia.org/wiki/スティーブン・マーカソン "wikilink")、ニューミックスされた音源4曲がボーナストラック収録。
-2枚目は、[1988年](../Page/1988年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に行われた初の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")ライブをノーカット収録。
+2枚目は、[1988年](../Page/1988年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に行われた初の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")ライブをノーカット収録。
 全て『Blu-spec CD 2』仕様。
 
 ### 収録曲

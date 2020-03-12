@@ -6,14 +6,14 @@
 ## 概要
 
   - 前作よりわずか8ヶ月でリリースされた。
-  - 収録シングルは「[おはよう こんにちは](https://ja.wikipedia.org/wiki/おはよう_こんにちは "wikilink")」のみ。「[ふわふわ](https://ja.wikipedia.org/wiki/ふわふわ_\(エレファントカシマシの曲\) "wikilink")」は未収録となった。
-  - ジャケット写真の撮影は[ハービー山口](https://ja.wikipedia.org/wiki/ハービー山口 "wikilink")。撮影地は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木神園町](https://ja.wikipedia.org/wiki/代々木神園町 "wikilink")（[代々木公園](../Page/代々木公園.md "wikilink")）。
+  - 収録シングルは「[おはよう こんにちは](https://ja.wikipedia.org/wiki/おはよう_こんにちは "wikilink")」のみ。「[ふわふわ](../Page/ふわふわ_\(エレファントカシマシの曲\).md "wikilink")」は未収録となった。
+  - ジャケット写真の撮影は[ハービー山口](https://ja.wikipedia.org/wiki/ハービー山口 "wikilink")。撮影地は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木神園町](../Page/代々木神園町.md "wikilink")（[代々木公園](../Page/代々木公園.md "wikilink")）。
 
 ## 収録曲
 
 1.  **優しい川** (4:41)
       -
-        作詞・作曲：[宮本浩次](https://ja.wikipedia.org/wiki/宮本浩次_\(エレファントカシマシ\) "wikilink")
+        作詞・作曲：[宮本浩次](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")
 2.  **[おはよう こんにちは](https://ja.wikipedia.org/wiki/おはよう_こんにちは "wikilink")** (4:33)
       -
         作詞・作曲：宮本浩次

@@ -1,9 +1,9 @@
 > この記事は[! LOVE\&PEACE](https://ja.wikipedia.org/wiki/!_LOVE\&PEACE)から翻訳されています。
 
 
-『**パッチギ\! LOVE\&PEACE**』（ ラブアンドピース）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。
+『**パッチギ\! LOVE\&PEACE**』（ ラブアンドピース）は、[2007年](../Page/2007年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。
 
-監督は[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")、エグゼクティブプロデューサーは[李鳳宇](../Page/李鳳宇.md "wikilink")。2004年に公開されてヒットした『[パッチギ\!](https://ja.wikipedia.org/wiki/パッチギ! "wikilink")』のキャストを一新して迎えた、続編的位置にあたる作品。
+監督は[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")、エグゼクティブプロデューサーは[李鳳宇](../Page/李鳳宇.md "wikilink")。2004年に公開されてヒットした『[パッチギ\!](../Page/パッチギ!.md "wikilink")』のキャストを一新して迎えた、続編的位置にあたる作品。
 
 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』の映画担当記者がその年度最低の映画や監督を選出する[蛇いちご賞](https://ja.wikipedia.org/wiki/蛇いちご賞 "wikilink")にて、本作の井筒監督が2007年度の監督賞に選出されている。
 
@@ -11,35 +11,35 @@
 
 前作の[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の京都から5年。70年代の東京を舞台に、その後のアンソンの一家を中心とした[在日コリアン](https://ja.wikipedia.org/wiki/在日コリアン "wikilink")の人々の生活と、前作では描かれなかった父親世代の姿を描いた物語である。前作のエンターテインメント的な物語展開は抑えられている。キャッチフレーズは「**生き抜くんだ、どんなことがあっても。**」
 
-[1974年](../Page/1974年.md "wikilink")当時の世相、ファッション、流行等が垣間見える。また、在日コリアンが直面していた差別の場面が数多く登場する。また、アンソンの父の回想シーンでは、オールドカマーと言われる在日1世が若かりし頃に故郷である[済州島](../Page/済州島.md "wikilink")から「強制連行」されたとし\[1\]、日本軍の南方戦線である[ヤップ島](https://ja.wikipedia.org/wiki/ヤップ島 "wikilink")へ送られていく中で懸命に生き抜いてゆく朝鮮人という設定となっている。
+[1974年](../Page/1974年.md "wikilink")当時の世相、ファッション、流行等が垣間見える。また、在日コリアンが直面していた差別の場面が数多く登場する。また、アンソンの父の回想シーンでは、オールドカマーと言われる在日1世が若かりし頃に故郷である[済州島](../Page/済州島.md "wikilink")から「強制連行」されたとし\[1\]、日本軍の南方戦線である[ヤップ島](../Page/ヤップ島.md "wikilink")へ送られていく中で懸命に生き抜いてゆく朝鮮人という設定となっている。
 
-「[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")」「[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")」を率いた[加藤和彦](../Page/加藤和彦.md "wikilink")が前作に引き続き音楽を担当し、『[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")』を印象的に使われている。またエンディングの『[あの素晴しい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴しい愛をもう一度 "wikilink")』では、[藤井隆](../Page/藤井隆.md "wikilink")とチャンスを演じた[今井悠貴](https://ja.wikipedia.org/wiki/今井悠貴 "wikilink")も参加している。
+「[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")」「[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")」を率いた[加藤和彦](../Page/加藤和彦.md "wikilink")が前作に引き続き音楽を担当し、『[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")』を印象的に使われている。またエンディングの『[あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink")』では、[藤井隆](../Page/藤井隆.md "wikilink")とチャンスを演じた[今井悠貴](../Page/今井悠貴.md "wikilink")も参加している。
 
-当初、キョンジャ役には前作と同じく[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")を予定していたが、出演を固辞されたため、新たにオーディションで選ばれた[中村ゆり](../Page/中村ゆり.md "wikilink")が演じた。また同じくアンソン役も前作の[高岡蒼甫](https://ja.wikipedia.org/wiki/高岡蒼甫 "wikilink")から、新たにオーディションで選ばれた[井坂俊哉](https://ja.wikipedia.org/wiki/井坂俊哉 "wikilink")が演じた。井坂は監督の激しい叱咤にさらされながら、慣れない[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")と[朝鮮語](../Page/朝鮮語.md "wikilink")にも果敢に挑戦し、息子の命を救おうと突っ走る若い父親の焦燥感を体当たりで表現した。なお、中村は本作公開中に自身が在日コリアンであることを明かした\[2\]。冒頭の駅での乱闘シーンは、前作の[鴨川の乱闘シーンを超える](../Page/鴨川_\(淀川水系\).md "wikilink")300人の出演者やエキストラが参加した。
+当初、キョンジャ役には前作と同じく[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")を予定していたが、出演を固辞されたため、新たにオーディションで選ばれた[中村ゆり](../Page/中村ゆり.md "wikilink")が演じた。また同じくアンソン役も前作の[高岡蒼甫](https://ja.wikipedia.org/wiki/高岡蒼甫 "wikilink")から、新たにオーディションで選ばれた[井坂俊哉](../Page/井坂俊哉.md "wikilink")が演じた。井坂は監督の激しい叱咤にさらされながら、慣れない[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")と[朝鮮語](../Page/朝鮮語.md "wikilink")にも果敢に挑戦し、息子の命を救おうと突っ走る若い父親の焦燥感を体当たりで表現した。なお、中村は本作公開中に自身が在日コリアンであることを明かした\[2\]。冒頭の駅での乱闘シーンは、前作の[鴨川の乱闘シーンを超える](../Page/鴨川_\(淀川水系\).md "wikilink")300人の出演者やエキストラが参加した。
 
 ## あらすじ
 
-[1974年](../Page/1974年.md "wikilink")の[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[枝川](https://ja.wikipedia.org/wiki/枝川_\(江東区\) "wikilink")。アンソン（[井坂俊哉](https://ja.wikipedia.org/wiki/井坂俊哉 "wikilink")）とその一家は、病にかかった息子チャンス（[今井悠貴](https://ja.wikipedia.org/wiki/今井悠貴 "wikilink")）の治療のために、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")からこの街に引っ越してきた。アンソンはある日、駅のホームで京都時代からの宿敵近藤（[桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")）と遭遇し、彼が率いる大学応援団と[朝鮮高校](https://ja.wikipedia.org/wiki/朝鮮高校 "wikilink")生との大乱闘に巻き込まれるが、気のいい[国鉄職員の佐藤](../Page/日本国有鉄道.md "wikilink")（[藤井隆](../Page/藤井隆.md "wikilink")）に助けられる。佐藤はその争いが原因で国鉄をクビになってしまうが、アンソンの家族とも親しくなり妹キョンジャ（[中村ゆり](../Page/中村ゆり.md "wikilink")）にほのかな思いを抱く。キョンジャは、ある日ホルモン屋の手伝いをしていた所に偶然に客として居合わせていた芸能プロダクションの関係者からスカウトを受けたことをきっかけに芸能界入りを決意する。しかし芸能界への一歩を踏み出すものの、なかなか芸能界独特のしがらみになじめない。そんなキョンジャに対して声を掛けてくれたのは、自然体で業界に染まらずにいる先輩俳優の野村（[西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")）だった。やがてキョンジャはそんな野村に迷いながらも惹かれ始めていく。一方チャンスの病状は次第に悪化し、医師より日本では助かる術がないと宣告される。アンソンはアメリカでの治療にかかる莫大な費用のために無謀な計画を立て、佐藤を巻き込みたった2人で愛する者の命を救うために危険な仕事へと突っ走っていく。
+[1974年](../Page/1974年.md "wikilink")の[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[枝川](../Page/枝川_\(江東区\).md "wikilink")。アンソン（[井坂俊哉](../Page/井坂俊哉.md "wikilink")）とその一家は、病にかかった息子チャンス（[今井悠貴](../Page/今井悠貴.md "wikilink")）の治療のために、[京都府](../Page/京都府.md "wikilink")からこの街に引っ越してきた。アンソンはある日、駅のホームで京都時代からの宿敵近藤（[桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")）と遭遇し、彼が率いる大学応援団と[朝鮮高校](https://ja.wikipedia.org/wiki/朝鮮高校 "wikilink")生との大乱闘に巻き込まれるが、気のいい[国鉄職員の佐藤](../Page/日本国有鉄道.md "wikilink")（[藤井隆](../Page/藤井隆.md "wikilink")）に助けられる。佐藤はその争いが原因で国鉄をクビになってしまうが、アンソンの家族とも親しくなり妹キョンジャ（[中村ゆり](../Page/中村ゆり.md "wikilink")）にほのかな思いを抱く。キョンジャは、ある日ホルモン屋の手伝いをしていた所に偶然に客として居合わせていた芸能プロダクションの関係者からスカウトを受けたことをきっかけに芸能界入りを決意する。しかし芸能界への一歩を踏み出すものの、なかなか芸能界独特のしがらみになじめない。そんなキョンジャに対して声を掛けてくれたのは、自然体で業界に染まらずにいる先輩俳優の野村（[西島秀俊](../Page/西島秀俊.md "wikilink")）だった。やがてキョンジャはそんな野村に迷いながらも惹かれ始めていく。一方チャンスの病状は次第に悪化し、医師より日本では助かる術がないと宣告される。アンソンはアメリカでの治療にかかる莫大な費用のために無謀な計画を立て、佐藤を巻き込みたった2人で愛する者の命を救うために危険な仕事へと突っ走っていく。
 
 ## キャスト
 
-  - 李安成（リ・アンソン、리안성）：[井坂俊哉](https://ja.wikipedia.org/wiki/井坂俊哉 "wikilink")
-  - 李燦秀（リ・チャンス、리찬수）：[今井悠貴](https://ja.wikipedia.org/wiki/今井悠貴 "wikilink")
+  - 李安成（リ・アンソン、리안성）：[井坂俊哉](../Page/井坂俊哉.md "wikilink")
+  - 李燦秀（リ・チャンス、리찬수）：[今井悠貴](../Page/今井悠貴.md "wikilink")
   - 李慶子（リ・キョンジャ、리경자）：[中村ゆり](../Page/中村ゆり.md "wikilink")
   - 佐藤：[藤井隆](../Page/藤井隆.md "wikilink")
-  - 野村：[西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")
-  - オモニ：[キムラ緑子](https://ja.wikipedia.org/wiki/キムラ緑子 "wikilink")
-  - ピョンチャン：[風間杜夫](https://ja.wikipedia.org/wiki/風間杜夫 "wikilink")
+  - 野村：[西島秀俊](../Page/西島秀俊.md "wikilink")
+  - オモニ：[キムラ緑子](../Page/キムラ緑子.md "wikilink")
+  - ピョンチャン：[風間杜夫](../Page/風間杜夫.md "wikilink")
   - キョンスン：[手塚理美](https://ja.wikipedia.org/wiki/手塚理美 "wikilink")
   - 高泰玉（ゴ・テオク、고태옥、デオさん）：[キム・ウンス](https://ja.wikipedia.org/wiki/キム・ウンス "wikilink")
   - 枝川の長老：[米倉斉加年](../Page/米倉斉加年.md "wikilink")
-  - ホルモン屋のおばさん：[馬渕晴子](https://ja.wikipedia.org/wiki/馬渕晴子 "wikilink")
+  - ホルモン屋のおばさん：[馬渕晴子](../Page/馬渕晴子.md "wikilink")
   - 三浦プロデューサー：[ラサール石井](../Page/ラサール石井.md "wikilink")
   - 根本監督：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")
-  - ライトエージェンシー社長：[でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
+  - ライトエージェンシー社長：[でんでん](../Page/でんでん.md "wikilink")
   - イカ釣り船の船長：[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
   - お志摩：[国生さゆり](../Page/国生さゆり.md "wikilink")
-  - 南プロデューサー：[田口浩正](https://ja.wikipedia.org/wiki/田口浩正 "wikilink")
+  - 南プロデューサー：[田口浩正](../Page/田口浩正.md "wikilink")
   - ギャグ好きのおじさん：[松尾貴史](../Page/松尾貴史.md "wikilink")
   - 国土館大学応援団団長の近藤：[桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")
   - スナックのママ：[愛染恭子](../Page/愛染恭子.md "wikilink")
@@ -66,12 +66,12 @@
   - CGIプロデューサー：[坂美佐子](https://ja.wikipedia.org/wiki/坂美佐子 "wikilink")
   - CGIディレクター：[太田垣 香織](https://ja.wikipedia.org/wiki/太田垣_香織 "wikilink")
   - 字幕：[根本理恵](https://ja.wikipedia.org/wiki/根本理恵 "wikilink")
-  - 製作委員会：「パッチギ\! LOVE\&PEACE」パートナーズ（シネカノン、[ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")、[ショーボックス](https://ja.wikipedia.org/wiki/ショーボックス "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[メモリーテック](https://ja.wikipedia.org/wiki/メモリーテック "wikilink")、[エイベックス・エンタテインメント](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")）
-  - 配給：[シネカノン](https://ja.wikipedia.org/wiki/シネカノン "wikilink")
+  - 製作委員会：「パッチギ\! LOVE\&PEACE」パートナーズ（シネカノン、[ハピネット](../Page/ハピネット.md "wikilink")、[ショーボックス](https://ja.wikipedia.org/wiki/ショーボックス "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")、[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")）
+  - 配給：[シネカノン](../Page/シネカノン.md "wikilink")
 
 ## 撮影協力
 
-この映画の撮影のために、[関東鉄道](../Page/関東鉄道.md "wikilink")の[キハ350形気動車](https://ja.wikipedia.org/wiki/関東鉄道キハ300形気動車 "wikilink")4両が[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")をイメージした[スカイブルーに塗り替えられた](https://ja.wikipedia.org/wiki/空色 "wikilink")。（なお[取手駅](https://ja.wikipedia.org/wiki/取手駅 "wikilink")で撮影された為、国鉄時代には存在しない[E231系が映り込んでいる](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")。）
+この映画の撮影のために、[関東鉄道](../Page/関東鉄道.md "wikilink")の[キハ350形気動車](../Page/関東鉄道キハ300形気動車.md "wikilink")4両が[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")をイメージした[スカイブルーに塗り替えられた](../Page/空色.md "wikilink")。（なお[取手駅](https://ja.wikipedia.org/wiki/取手駅 "wikilink")で撮影された為、国鉄時代には存在しない[E231系が映り込んでいる](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")。）
 
 ## 政治的論評
 
@@ -83,8 +83,8 @@
 
 ## 関連項目
 
-  - [枝川](https://ja.wikipedia.org/wiki/枝川_\(江東区\) "wikilink")
-  - [東京朝鮮第二初級学校](https://ja.wikipedia.org/wiki/東京朝鮮第二初級学校 "wikilink")
+  - [枝川](../Page/枝川_\(江東区\).md "wikilink")
+  - [東京朝鮮第二初級学校](../Page/東京朝鮮第二初級学校.md "wikilink")
 
 ## 外部リンク
 

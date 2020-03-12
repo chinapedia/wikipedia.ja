@@ -1,7 +1,7 @@
 > この記事は[A.K.A](https://ja.wikipedia.org/wiki/A.K.A)から翻訳されています。
 
 
-**A.K.A**（エーケーエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロ[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[MCUのメジャー](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+**A.K.A**（エーケーエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロ[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[MCUのメジャー](../Page/MCU_\(ラッパー\).md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 概要
 
@@ -12,10 +12,10 @@
 
 ### Disc1
 
-1.  [シーサイド・ばいばい](https://ja.wikipedia.org/wiki/シーサイド・ばいばい "wikilink")MCU ver
+1.  [シーサイド・ばいばい](../Page/シーサイド・ばいばい.md "wikilink")MCU ver
       -
         Words:MCU / [宮藤官九郎](../Page/宮藤官九郎.md "wikilink"),Music:MCU / [CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink"),Sound Produced by CMJK
-2.  BURN feat. [TAS](https://ja.wikipedia.org/wiki/TAS_\(ラッパー\) "wikilink") from [MADHAND](https://ja.wikipedia.org/wiki/MADHAND "wikilink"),[TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink"),[KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink"),[童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")
+2.  BURN feat. [TAS](https://ja.wikipedia.org/wiki/TAS_\(ラッパー\) "wikilink") from [MADHAND](https://ja.wikipedia.org/wiki/MADHAND "wikilink"),[TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink"),[KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"),[童子-T](../Page/童子-T.md "wikilink")
       -
         Words:MCU / TAS / TSUBOI / KOHEI JAPAN / 童子-T,Music:[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink"),Track Produced by DJ TATSUTA
 3.  SUGAMO-B 弐 feat.[Q](https://ja.wikipedia.org/wiki/Q_\(ラッパー\) "wikilink")
@@ -26,7 +26,7 @@
         Words & Music:MCU,Rap:MCU,Track Produced by [MPCU](https://ja.wikipedia.org/wiki/MPCU "wikilink")
 5.  SUMMER CARNAVAL
       -
-        Words:MCU,Music:MCU / [KITAURA MASATAKA](https://ja.wikipedia.org/wiki/北浦正尚 "wikilink"),Scratch:[DJ SHUHO](https://ja.wikipedia.org/wiki/DJ_SHUHO "wikilink"),Sound Produced by KITAURA MASATAKA
+        Words:MCU,Music:MCU / [KITAURA MASATAKA](../Page/北浦正尚.md "wikilink"),Scratch:[DJ SHUHO](../Page/DJ_SHUHO.md "wikilink"),Sound Produced by KITAURA MASATAKA
 6.  [omoide](https://ja.wikipedia.org/wiki/omoide "wikilink")
       -
         Words:MCU,Music:MCU / KITAURA MASATAKA,Sound Produced by KITAURA MASATAKA
@@ -38,8 +38,8 @@
         Words:MCU,Music:MCU / KITAURA MASATAKA,Sound Produced by KITAURA MASATAKA
 9.  1973 feat.1973年生まれの友人一同
       -
-        Words:MCU,Music:MCU / KITAURA MASATAKA,Additional Rap:MIFUNE SEIICHIRO～[TAICHI MASTER](https://ja.wikipedia.org/wiki/TAICHI_MASTER "wikilink")～TAKEMURA TSUYOSHI～ABUKAWA SHINYA～Kasaya-no-Sugichan～YAMAMOTO:MASA:MASAYUKI～KIKU～DJ TATSUTA,Sound Produced by KITAURA MASATAKA
-10. The beginning feat.[鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink")
+        Words:MCU,Music:MCU / KITAURA MASATAKA,Additional Rap:MIFUNE SEIICHIRO～[TAICHI MASTER](../Page/TAICHI_MASTER.md "wikilink")～TAKEMURA TSUYOSHI～ABUKAWA SHINYA～Kasaya-no-Sugichan～YAMAMOTO:MASA:MASAYUKI～KIKU～DJ TATSUTA,Sound Produced by KITAURA MASATAKA
+10. The beginning feat.[鮎貝健](../Page/鮎貝健.md "wikilink")
       -
         Words:MCU,Music:MCU / KITAURA MASATAKA,Narrated & Translated by AYUGAI KEN,Sound Produced by KITAURA MASATAKA
 11. Hey Johnny
@@ -60,8 +60,8 @@
 1.  omoide
 2.  nukumori
 3.  サヨナラ
-4.  サーフライダー feat.[浜崎貴司](https://ja.wikipedia.org/wiki/浜崎貴司 "wikilink")
-5.  ありがとう feat.[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")
+4.  サーフライダー feat.[浜崎貴司](../Page/浜崎貴司.md "wikilink")
+5.  ありがとう feat.[宮沢和史](../Page/宮沢和史.md "wikilink")
 6.  いいわけ feat.[Ryoji](../Page/Ryoji.md "wikilink")
 7.  B.A.M.O.R.A. feat.[175R](../Page/175R.md "wikilink")
 8.  トワイライトタイム

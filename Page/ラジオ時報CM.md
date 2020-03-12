@@ -1,46 +1,46 @@
 > この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
 
 
-**ラジオ時報CM**（ラジオじほうシーエム）とは、民放ラジオ局で正時の[時報](../Page/時報.md "wikilink")と絡めて流される[CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+**ラジオ時報CM**（ラジオじほうシーエム）とは、民放ラジオ局で正時の[時報](../Page/時報.md "wikilink")と絡めて流される[CM](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## 概要
 
-殆どの場合、時報音の直前に「○○が×時をお知らせします」等の文言を用いた[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")のCMが挿入され、後の時報音と関連した構成を採る。
+殆どの場合、時報音の直前に「○○が×時をお知らせします」等の文言を用いた[スポンサー](../Page/スポンサー.md "wikilink")のCMが挿入され、後の時報音と関連した構成を採る。
 
-[クォーツ時計](https://ja.wikipedia.org/wiki/クォーツ時計 "wikilink")の普及前には最も聴取率が高く、レートもステータスも高いCM枠の一つだったが、 [ステブレレス](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")（シームレス）編成が多用される現在では、番組編成上の邪魔扱いされることもある。
+[クォーツ時計](../Page/クォーツ時計.md "wikilink")の普及前には最も聴取率が高く、レートもステータスも高いCM枠の一つだったが、 [ステブレレス](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")（シームレス）編成が多用される現在では、番組編成上の邪魔扱いされることもある。
 
 ## 主な使用例
 
-[県域放送](../Page/県域放送.md "wikilink")で流れる、地元一流企業の伝統あるものが多くを占める一方、[スジャータや](https://ja.wikipedia.org/wiki/めいらくグループ "wikilink")[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")、[ヨドバシカメラ](https://ja.wikipedia.org/wiki/ヨドバシカメラ "wikilink")、[ユニーグループ・ホールディングス](https://ja.wikipedia.org/wiki/ユニーグループ・ホールディングス "wikilink")（現・[ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）のように全国展開し、各局で同一のものが聞かれる場合もある。JFN系列は各局で同一企業のものを放送する。
+[県域放送](../Page/県域放送.md "wikilink")で流れる、地元一流企業の伝統あるものが多くを占める一方、[スジャータや](https://ja.wikipedia.org/wiki/めいらくグループ "wikilink")[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")、[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")、[ユニーグループ・ホールディングス](https://ja.wikipedia.org/wiki/ユニーグループ・ホールディングス "wikilink")（現・[ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）のように全国展開し、各局で同一のものが聞かれる場合もある。JFN系列は各局で同一企業のものを放送する。
 
 また、特定の時刻のみに限定したものもあり、
 
-  - 「小さな[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")で大きな夢を、宝くじが9時の時報をお知らせします」（平日9時、提供：[全国自治宝くじ事務協議会](https://ja.wikipedia.org/wiki/全国自治宝くじ事務協議会 "wikilink")、制作：[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")、ナレーション：[大橋照子](https://ja.wikipedia.org/wiki/大橋照子 "wikilink")）\[1\]
-  - [百貨店](../Page/百貨店.md "wikilink")の開店時刻のアナウンス「間もなく10時、○○デパート開店のお時間です」等(主に、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")の東武百貨店平日10時、[mrtラジオの](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")[ボンベルタ橘平日](https://ja.wikipedia.org/wiki/橘百貨店 "wikilink")10時や、かつて流れたケースでは[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")の[黒崎そごう](https://ja.wikipedia.org/wiki/黒崎そごう "wikilink")（後に閉店、現在は黒崎[井筒屋](../Page/井筒屋.md "wikilink")）など多数）
+  - 「小さな[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")で大きな夢を、宝くじが9時の時報をお知らせします」（平日9時、提供：[全国自治宝くじ事務協議会](https://ja.wikipedia.org/wiki/全国自治宝くじ事務協議会 "wikilink")、制作：[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")、ナレーション：[大橋照子](../Page/大橋照子.md "wikilink")）\[1\]
+  - [百貨店](../Page/百貨店.md "wikilink")の開店時刻のアナウンス「間もなく10時、○○デパート開店のお時間です」等(主に、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")の東武百貨店平日10時、[mrtラジオの](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")[ボンベルタ橘平日](../Page/橘百貨店.md "wikilink")10時や、かつて流れたケースでは[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")の[黒崎そごう](https://ja.wikipedia.org/wiki/黒崎そごう "wikilink")（後に閉店、現在は黒崎[井筒屋](../Page/井筒屋.md "wikilink")）など多数）
   - [小田急電鉄](../Page/小田急電鉄.md "wikilink")（平日10時、[TOKYO FM](../Page/エフエム東京.md "wikilink")。時報CMのひとつ前に放送。季節ごとに「あなたのx（春・夏・秋・冬）は、yですか」と内容が変わるが、「もうすぐ10時。[小田急ロマンスカー](https://ja.wikipedia.org/wiki/小田急ロマンスカー "wikilink")、発車の時刻\[2\]です。新宿から箱根まで、どうぞごゆっくり」、「今日、ロマンスカーで」のナレーションは固定　曲は『[ロマンスをもう一度](https://ja.wikipedia.org/wiki/ロマンスをもう一度 "wikilink")』）
-  - [餃子の王将](https://ja.wikipedia.org/wiki/餃子の王将 "wikilink")（正午、[KBS京都ラジオで土](../Page/京都放送.md "wikilink")・日曜を除いて放送。[王将フードサービス](https://ja.wikipedia.org/wiki/王将フードサービス "wikilink") 通常の「ポーン」に代わり、[餃子](../Page/餃子.md "wikilink")を焼く際の「ジュー」の音になる）
-  - [山崎製パン](https://ja.wikipedia.org/wiki/山崎製パン "wikilink")（平日14時、[ニッポン放送](../Page/ニッポン放送.md "wikilink")。社員や首都圏にある製造工場の従業員がお勧め商品の紹介と「ヤマザキパンが2時をお知らせします」と告げる\[3\]。90年代頃には、JFN系で同社の時報が流れていた。）
-  - [大須ういろ](https://ja.wikipedia.org/wiki/大須ういろ "wikilink")（15時、[CBCラジオ](../Page/CBCラジオ.md "wikilink")と[東海ラジオが同時に流す](../Page/東海ラジオ放送.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")まで[FM AICHIも参加していた](../Page/エフエム愛知.md "wikilink")。時報音→「わーい、3時だ。大須ういろの時間だ」のメッセージの後にCM）
+  - [餃子の王将](../Page/餃子の王将.md "wikilink")（正午、[KBS京都ラジオで土](../Page/京都放送.md "wikilink")・日曜を除いて放送。[王将フードサービス](https://ja.wikipedia.org/wiki/王将フードサービス "wikilink") 通常の「ポーン」に代わり、[餃子](../Page/餃子.md "wikilink")を焼く際の「ジュー」の音になる）
+  - [山崎製パン](../Page/山崎製パン.md "wikilink")（平日14時、[ニッポン放送](../Page/ニッポン放送.md "wikilink")。社員や首都圏にある製造工場の従業員がお勧め商品の紹介と「ヤマザキパンが2時をお知らせします」と告げる\[3\]。90年代頃には、JFN系で同社の時報が流れていた。）
+  - [大須ういろ](../Page/大須ういろ.md "wikilink")（15時、[CBCラジオ](../Page/CBCラジオ.md "wikilink")と[東海ラジオが同時に流す](../Page/東海ラジオ放送.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")まで[FM AICHIも参加していた](../Page/エフエム愛知.md "wikilink")。時報音→「わーい、3時だ。大須ういろの時間だ」のメッセージの後にCM）
   - [アートコーポレーション](https://ja.wikipedia.org/wiki/アートコーポレーション "wikilink")（日曜15時、[ラジオ関西](../Page/ラジオ関西.md "wikilink")。通常の「ポーン」に代わり、女性の声で「ゼロ、イチ、ニ、サーン」と流れる）
-  - [十六茶](https://ja.wikipedia.org/wiki/十六茶 "wikilink")（16時、[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")。拡販キャンペーン時には大量出稿され、16時に限らず出現する。各種バージョンあり）
-  - [沖縄美ら海水族館](https://ja.wikipedia.org/wiki/沖縄美ら海水族館 "wikilink")（祝休日以外の平日16時、[RBCiラジオと](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")で同時に流れる。内容は親子が午後4時の入館を待ちわびている会話があり、最後に「沖縄美ら海水族館は、この後午後4時から入館料が一律三割引」とナレーションで伝える。違いはその後で、RBCiラジオではすぐに時報音に入るが、ラジオ沖縄では「沖縄美ら海水族館が4時をお知らせします」と告げて時報音に入る。）
+  - [十六茶](../Page/十六茶.md "wikilink")（16時、[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")。拡販キャンペーン時には大量出稿され、16時に限らず出現する。各種バージョンあり）
+  - [沖縄美ら海水族館](../Page/沖縄美ら海水族館.md "wikilink")（祝休日以外の平日16時、[RBCiラジオと](../Page/琉球放送.md "wikilink")[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")で同時に流れる。内容は親子が午後4時の入館を待ちわびている会話があり、最後に「沖縄美ら海水族館は、この後午後4時から入館料が一律三割引」とナレーションで伝える。違いはその後で、RBCiラジオではすぐに時報音に入るが、ラジオ沖縄では「沖縄美ら海水族館が4時をお知らせします」と告げて時報音に入る。）
 
 <!-- end list -->
 
-  - [日本航空](../Page/日本航空.md "wikilink") [ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")所属のアイドルグループ・[嵐のメンバー](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")5人が日替わりで時刻を知らせるもの、各地のラジオ局に置いて平日に放送される。
+  - [日本航空](../Page/日本航空.md "wikilink") [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ・[嵐のメンバー](../Page/嵐_\(グループ\).md "wikilink")5人が日替わりで時刻を知らせるもの、各地のラジオ局に置いて平日に放送される。
   - [北海道神宮](../Page/北海道神宮.md "wikilink") STVラジオでは、平日6時に北海道神宮の神門大太鼓の音色を放送。その後、女性アナウンサーのナレーションで農業・漁業の従事者に対する感謝の旨のナレーションが流される（ただし、冬季を除く）。
   - [ヤマエ食品工業](https://ja.wikipedia.org/wiki/ヤマエ食品工業 "wikilink") mrtラジオで、平日11時放送。商品のCM後、女性アナウンサーが「味噌と醤油のヤマエ食品が、11時をお知らせします」と言うナレーションが流れる。
-  - [ピックルスコーポレーション](https://ja.wikipedia.org/wiki/ピックルスコーポレーション "wikilink") （[東海ラジオ](https://ja.wikipedia.org/wiki/東海ラジオ "wikilink")で漬物「ご飯がススム」を土曜日1時に放送）
-  - [龍角散](https://ja.wikipedia.org/wiki/龍角散 "wikilink") TBSラジオで、毎週午前11時に放送される。商品のCM後、男性アナウンサーが「ゴホンと言えば龍角散から11時です」と言うナレーションが流れる。
+  - [ピックルスコーポレーション](../Page/ピックルスコーポレーション.md "wikilink") （[東海ラジオ](https://ja.wikipedia.org/wiki/東海ラジオ "wikilink")で漬物「ご飯がススム」を土曜日1時に放送）
+  - [龍角散](../Page/龍角散.md "wikilink") TBSラジオで、毎週午前11時に放送される。商品のCM後、男性アナウンサーが「ゴホンと言えば龍角散から11時です」と言うナレーションが流れる。
 
 また、変わった所では、
 
-  - 越年番組『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送AMラジオ\) "wikilink")』中に流されていた、[銀座和光時計台の](https://ja.wikipedia.org/wiki/和光_\(商業施設\) "wikilink")[チャイム](https://ja.wikipedia.org/wiki/ウェストミンスターの鐘 "wikilink")（元日0時、1年に1回のみ、[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）
-  - [2009年](../Page/2009年.md "wikilink")8月の[衆議院総選挙運動期間中は](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")、「[民主党](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")」の時報CMがFM局から流れた。当時党首だった[鳩山由紀夫](https://ja.wikipedia.org/wiki/鳩山由紀夫 "wikilink")が「民主党の鳩山が○○時をお知らせします」と告げていた。
+  - 越年番組『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送AMラジオ\) "wikilink")』中に流されていた、[銀座和光時計台の](https://ja.wikipedia.org/wiki/和光_\(商業施設\) "wikilink")[チャイム](../Page/ウェストミンスターの鐘.md "wikilink")（元日0時、1年に1回のみ、[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）
+  - [2009年](../Page/2009年.md "wikilink")8月の[衆議院総選挙運動期間中は](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")、「[民主党](../Page/民主党_\(日本_1998-2016\).md "wikilink")」の時報CMがFM局から流れた。当時党首だった[鳩山由紀夫](https://ja.wikipedia.org/wiki/鳩山由紀夫 "wikilink")が「民主党の鳩山が○○時をお知らせします」と告げていた。
 
 等が挙げられる。
 
-さらに、正時ではないが、[東海漬物](https://ja.wikipedia.org/wiki/東海漬物 "wikilink")の「[きゅうりのキューちゃん](https://ja.wikipedia.org/wiki/きゅうりのキューちゃん "wikilink")」が9時9分を知らせる時報CMを東海ラジオで不定期に流している。正時ではないので時報音はないが、時間が来るとパーソナリティーのトークの途中でもCMの放送が始まる。またJFN系の平日21時には、正時の時報CMを流している。
+さらに、正時ではないが、[東海漬物](../Page/東海漬物.md "wikilink")の「[きゅうりのキューちゃん](../Page/きゅうりのキューちゃん.md "wikilink")」が9時9分を知らせる時報CMを東海ラジオで不定期に流している。正時ではないので時報音はないが、時間が来るとパーソナリティーのトークの途中でもCMの放送が始まる。またJFN系の平日21時には、正時の時報CMを流している。
 
 ## JFN時報の変遷
 
@@ -50,11 +50,11 @@
 
   - [オートバックス](https://ja.wikipedia.org/wiki/オートバックス "wikilink") 朝5時〜9時
   - [ティーバイティーガレージ](https://ja.wikipedia.org/wiki/ティーバイティーガレージ "wikilink") 10時〜12時。CMソングに合わせて、「0120、999の999、ティーバイティーガレージが、○時をお知らせします」とCMソングの後に「○時です」のどちらかで締める。
-  - [ローソン銀行](https://ja.wikipedia.org/wiki/ローソン銀行 "wikilink") 13時〜14時。以前は同銀行のイメージキャラクターの[サンドウィッチマンが担当していたが](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")、現在は別の男声によるナレーションになっている。
-  - [ニトリ](https://ja.wikipedia.org/wiki/ニトリ "wikilink") 15時〜16時。最後に「トータルコーディネートのニトリが〇時をお知らせします」で締める。
-  - [イエローハット](https://ja.wikipedia.org/wiki/イエローハット "wikilink") 17時～19時。
-  - [ヨドバシカメラ](https://ja.wikipedia.org/wiki/ヨドバシカメラ "wikilink") 20時、22時、翌午前0時、2時。同社のオンラインショップ、ヨドバシ.com名義で配送料無料や発売日に配達といったサービスをヨドバシカメラのCMソング『ヨドバシカメラの歌』のインストゥルメンタルバージョンのBGMに乗せて紹介した後「ヨドバシ.comが〇時をお知らせします」で締める。
-  - [きゅうりのキューちゃん](https://ja.wikipedia.org/wiki/きゅうりのキューちゃん "wikilink")(東海漬物) 21時
+  - [ローソン銀行](../Page/ローソン銀行.md "wikilink") 13時〜14時。以前は同銀行のイメージキャラクターの[サンドウィッチマンが担当していたが](../Page/サンドウィッチマン_\(お笑いコンビ\).md "wikilink")、現在は別の男声によるナレーションになっている。
+  - [ニトリ](../Page/ニトリ.md "wikilink") 15時〜16時。最後に「トータルコーディネートのニトリが〇時をお知らせします」で締める。
+  - [イエローハット](../Page/イエローハット.md "wikilink") 17時～19時。
+  - [ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink") 20時、22時、翌午前0時、2時。同社のオンラインショップ、ヨドバシ.com名義で配送料無料や発売日に配達といったサービスをヨドバシカメラのCMソング『ヨドバシカメラの歌』のインストゥルメンタルバージョンのBGMに乗せて紹介した後「ヨドバシ.comが〇時をお知らせします」で締める。
+  - [きゅうりのキューちゃん](../Page/きゅうりのキューちゃん.md "wikilink")(東海漬物) 21時
   - [不二家カントリーマアム](../Page/カントリーマアム.md "wikilink") 23時
 
 また平日の深夜1時、3時、4時は、時報スポンサーが付いていない時間はアースコンシャス関連の時報アナウンスが流れる。
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [ミサワホーム](https://ja.wikipedia.org/wiki/ミサワホーム "wikilink") 土曜日に流す場合は5時〜翌4時まで、日曜日に流す場合は4時〜放送休止まで。
+  - [ミサワホーム](../Page/ミサワホーム.md "wikilink") 土曜日に流す場合は5時〜翌4時まで、日曜日に流す場合は4時〜放送休止まで。
   - [出光昭和シェル石油](https://ja.wikipedia.org/wiki/出光興産 "wikilink") 土曜日もしくは日曜日の5時〜13時に放送される。
   - [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink") 土曜日もしくは日曜日の14時～翌午前4時（日曜日の場合は14時～放送休止まで）に放送される。
       - なお、土曜、日曜は、ミサワホーム、ダイハツと出光昭和シェル石油が週ごとに入れ替わりで担当している。
@@ -76,7 +76,7 @@
 | ------------ | ---------------------------------------------------------------------------------------------------- |
 | 5:00～9:00    | [マクドナルド](../Page/マクドナルド.md "wikilink")                                                               |
 | 10:00～16:00  | [ファミリーマート](../Page/ファミリーマート.md "wikilink")                                                           |
-| 17:00～19:00  | [イエローハット](https://ja.wikipedia.org/wiki/イエローハット "wikilink")                                          |
+| 17:00～19:00  | [イエローハット](../Page/イエローハット.md "wikilink")                                                             |
 | 20:00～翌日4:00 | [京セラ](../Page/京セラ.md "wikilink")・[vodafone](https://ja.wikipedia.org/wiki/vodafone "wikilink")(一日交替) |
 
 平日
@@ -84,7 +84,7 @@
 | 放送時間         | 時報スポンサー                                                 |
 | ------------ | ------------------------------------------------------- |
 | 5:00～13:00   | [ヤマト車検](https://ja.wikipedia.org/wiki/ヤマト車検 "wikilink") |
-| 14:00～翌日4:00 | [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink") |
+| 14:00～翌日4:00 | [日産自動車](../Page/日産自動車.md "wikilink")                    |
 
 週末
 
@@ -96,6 +96,6 @@
 
 [Category:放送](https://ja.wikipedia.org/wiki/Category:放送 "wikilink") [Category:ラジオ用語](https://ja.wikipedia.org/wiki/Category:ラジオ用語 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
 
-1.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")や[KBS京都も流していた](../Page/京都放送.md "wikilink")。[ニッポン放送](../Page/ニッポン放送.md "wikilink")（ナレーション：[増田みのり](../Page/増田みのり.md "wikilink")、[BGM入り](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")）、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（ナレーション：[菅谷由美子](https://ja.wikipedia.org/wiki/菅谷由美子 "wikilink")）のローカル版も併存する。
+1.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")や[KBS京都も流していた](../Page/京都放送.md "wikilink")。[ニッポン放送](../Page/ニッポン放送.md "wikilink")（ナレーション：[増田みのり](../Page/増田みのり.md "wikilink")、[BGM入り](../Page/バックグラウンドミュージック.md "wikilink")）、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（ナレーション：[菅谷由美子](https://ja.wikipedia.org/wiki/菅谷由美子 "wikilink")）のローカル版も併存する。
 2.  現行ダイヤでは「[スーパーはこね](https://ja.wikipedia.org/wiki/はこね_\(列車\) "wikilink")13号」の[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")発車時刻を指す。
 3.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")では、土曜日の正午に流れる。

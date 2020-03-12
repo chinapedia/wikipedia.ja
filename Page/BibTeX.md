@@ -7,7 +7,7 @@
 
 ## 概要
 
-は[オーレン・パタシュニク](https://ja.wikipedia.org/wiki/オーレン・パタシュニク "wikilink") (Oren Patashnik) と[レスリー・ランポート](https://ja.wikipedia.org/wiki/レスリー・ランポート "wikilink") (Leslie Lamport) が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開発した。 では文献書誌情報とその情報の表記方法とを分離して記述できるため、文献の参照形式を一貫した形式で書くことが可能である。コンテンツと表記・スタイルの[分離という同様の方式は](../Page/関心の分離.md "wikilink")、[](../Page/LaTeX.md "wikilink") や [XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink")、[HTML](../Page/HyperText_Markup_Language.md "wikilink") と [CSS](../Page/Cascading_Style_Sheets.md "wikilink") といった[マークアップ言語](../Page/マークアップ言語.md "wikilink")にも見てとることができる。
+は[オーレン・パタシュニク](../Page/オーレン・パタシュニク.md "wikilink") (Oren Patashnik) と[レスリー・ランポート](../Page/レスリー・ランポート.md "wikilink") (Leslie Lamport) が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開発した。 では文献書誌情報とその情報の表記方法とを分離して記述できるため、文献の参照形式を一貫した形式で書くことが可能である。コンテンツと表記・スタイルの[分離という同様の方式は](../Page/関心の分離.md "wikilink")、[](../Page/LaTeX.md "wikilink") や [XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink")、[HTML](../Page/HyperText_Markup_Language.md "wikilink") と [CSS](../Page/Cascading_Style_Sheets.md "wikilink") といった[マークアップ言語](../Page/マークアップ言語.md "wikilink")にも見てとることができる。
 
 なお、 を基にして日本語処理に対応させたものが **** である。そのため、日本語文字を含む `.bib` ファイルを処理する場合には、 ではなく  を使用する必要がある。
 
@@ -76,7 +76,7 @@
     `manual`: マニュアル。技術文書。
     必須項目：`title`
     オプション項目：`author`, `organization`, `address`, `edition`, `month`, `year`, `note`, `key`
-    `mastersthesis`: [修士](https://ja.wikipedia.org/wiki/修士 "wikilink")学位論文。
+    `mastersthesis`: [修士](../Page/修士.md "wikilink")学位論文。
     必須項目：`author`, `title`, `school`, `year`
     オプション項目：`address`, `month`, `note`, `key`
     `misc`: その他該当種別が無いもの。
@@ -137,7 +137,7 @@
 
 ### 著者名の整形
 
-「von」、「van」、「der」のような姓に付与される[接頭辞](https://ja.wikipedia.org/wiki/接頭辞 "wikilink")は自動的に処理され、ミドルネームと区別するために小文字で整形される。複数語からなる姓を名・ミドルネームと区別する場合には、姓を先に書き、カンマを間に加えてから、名・ミドルネームを書く。「Jr.」、「Sr.」や 「III」などの、名に付与される[接尾辞](https://ja.wikipedia.org/wiki/接尾辞 "wikilink")は通常2つのカンマを間に加えることで自動的に処理できる。
+「von」、「van」、「der」のような姓に付与される[接頭辞](../Page/接頭辞.md "wikilink")は自動的に処理され、ミドルネームと区別するために小文字で整形される。複数語からなる姓を名・ミドルネームと区別する場合には、姓を先に書き、カンマを間に加えてから、名・ミドルネームを書く。「Jr.」、「Sr.」や 「III」などの、名に付与される[接尾辞](../Page/接尾辞.md "wikilink")は通常2つのカンマを間に加えることで自動的に処理できる。
 
 ``` bibtex
  @Book{hicks2001,
@@ -181,7 +181,7 @@
 
 ### フリーソフトウェア
 
-大半の[参考文献管理ソフトウェアが](https://ja.wikipedia.org/wiki/引用管理ソフトウェア "wikilink")  形式の入出力に対応している。以下のパッケージは を内部形式として用いている。
+大半の[参考文献管理ソフトウェアが](../Page/引用管理ソフトウェア.md "wikilink")  形式の入出力に対応している。以下のパッケージは を内部形式として用いている。
 
 <table>
 <thead>
@@ -205,7 +205,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BibTex2Word2007" title="wikilink">BibTex2Word2007</a> <a href="http://sdudah.googlepages.com/bibtex2word2007bibliographyconverter">3</a></p></td>
-<td><p>形式を <a href="https://ja.wikipedia.org/wiki/Office_Open_XML" title="wikilink">Office Open XML</a> Document 形式に変換する簡易 <a href="../Page/AWK.md" title="wikilink">AWK</a> スクリプト。(GPL)</p></td>
+<td><p>形式を <a href="../Page/Office_Open_XML.md" title="wikilink">Office Open XML</a> Document 形式に変換する簡易 <a href="../Page/AWK.md" title="wikilink">AWK</a> スクリプト。(GPL)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bibtex4Word <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/bibtex4word.doc">4</a></p></td>
@@ -221,7 +221,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Jabref" title="wikilink">Jabref</a></p></td>
-<td><p>形式による書誌情報の管理用フロントエンドの Java 実装。<a href="https://ja.wikipedia.org/wiki/PubMed" title="wikilink">PubMed</a> や <a href="https://ja.wikipedia.org/wiki/CiteSeer" title="wikilink">CiteSeer</a> への検索機能もある。(GPL)</p></td>
+<td><p>形式による書誌情報の管理用フロントエンドの Java 実装。<a href="../Page/PubMed.md" title="wikilink">PubMed</a> や <a href="https://ja.wikipedia.org/wiki/CiteSeer" title="wikilink">CiteSeer</a> への検索機能もある。(GPL)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KBibTeX" title="wikilink">KBibTeX</a> <a href="http://www.unix-ag.uni-kl.de/~fischer/kbibtex/index.html">7</a></p></td>
@@ -241,7 +241,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Rtfbtx" title="wikilink">Rtfbtx</a> <a href="http://www.spinellis.gr/sw/ports/rtfbtx/">9</a></p></td>
-<td><p>スタイルファイルから（ 出力ではなく、）<a href="https://ja.wikipedia.org/wiki/Rich_Text_Format" title="wikilink">RTF</a> 出力を行う。(Pre-<a href="https://ja.wikipedia.org/wiki/LaTeX_Project_Public_License" title="wikilink">{{lang</a>)</p></td>
+<td><p>スタイルファイルから（ 出力ではなく、）<a href="../Page/Rich_Text_Format.md" title="wikilink">RTF</a> 出力を行う。(Pre-<a href="https://ja.wikipedia.org/wiki/LaTeX_Project_Public_License" title="wikilink">{{lang</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -277,12 +277,12 @@
 <td><p>コミュニティベースの論文情報データベース。入出力に  形式を使用。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Google_Scholar" title="wikilink">Google Scholar</a></p></td>
+<td><p><a href="../Page/Google_Scholar.md" title="wikilink">Google Scholar</a></p></td>
 <td><p><a href="../Page/Google.md" title="wikilink">Google</a> の学術論文検索システム。「Scholar Preferences」 のオプションを有効にすると、 形式での参考文献情報が入手できる。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/HubMed" title="wikilink">HubMed</a> <a href="http://www.hubmed.org/">13</a></p></td>
-<td><p>カスタマイズ可能な <a href="https://ja.wikipedia.org/wiki/PubMed" title="wikilink">PubMed</a> インタフェース。 出力機能附き。</p></td>
+<td><p>カスタマイズ可能な <a href="../Page/PubMed.md" title="wikilink">PubMed</a> インタフェース。 出力機能附き。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Lead2Amazon" title="wikilink">Lead2Amazon</a> <a href="http://lead.to/amazon/jp/">14</a></p></td>
@@ -294,7 +294,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/TeXMed" title="wikilink">TeXMed</a> <a href="http://www.sbg.bio.ic.ac.uk/~mueller/TeXMed/">15</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PubMed" title="wikilink">PubMed</a> 用の  インタフェース。</p></td>
+<td><p><a href="../Page/PubMed.md" title="wikilink">PubMed</a> 用の  インタフェース。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/The_Collection_of_Computer_Science_Bibliographies" title="wikilink">The Collection of Computer Science Bibliographies</a></p></td>

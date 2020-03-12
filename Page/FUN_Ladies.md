@@ -1,13 +1,13 @@
 > この記事は[FUN Ladies](https://ja.wikipedia.org/wiki/FUN_Ladies)から翻訳されています。
 
 
-**FUNフットサルクラブLadies com VEEX**（**ファンフットサルクラブレディースコムヴィークス**）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")の女子[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[クラブチーム](https://ja.wikipedia.org/wiki/クラブチーム "wikilink")である。
+**FUNフットサルクラブLadies com VEEX**（**ファンフットサルクラブレディースコムヴィークス**）は、[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")の女子[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[クラブチーム](../Page/クラブチーム.md "wikilink")である。
 
 ## 概要
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")にあるフットサルコート「FUN FUTSAL CLUB」によって運営されていた女子フットサルクラブチーム。
+[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")にあるフットサルコート「FUN FUTSAL CLUB」によって運営されていた女子フットサルクラブチーム。
 
-FUN FUTSAL CLUBの呼びかけで、[眞境名オスカー](https://ja.wikipedia.org/wiki/眞境名オスカー "wikilink")らの協力の元[2000年](../Page/2000年.md "wikilink")発足。主な全国タイトルは、計11回である。
+FUN FUTSAL CLUBの呼びかけで、[眞境名オスカー](../Page/眞境名オスカー.md "wikilink")らの協力の元[2000年](../Page/2000年.md "wikilink")発足。主な全国タイトルは、計11回である。
 
 当初所属していた東京都女子リーグでは5連覇。
 
@@ -25,7 +25,7 @@ FUN FUTSAL CLUBの呼びかけで、[眞境名オスカー](https://ja.wikipedia
 
 <!-- end list -->
 
-  - [監督](../Page/監督.md "wikilink") [眞境名オスカー](https://ja.wikipedia.org/wiki/眞境名オスカー "wikilink")
+  - [監督](../Page/監督.md "wikilink") [眞境名オスカー](../Page/眞境名オスカー.md "wikilink")
   - 1 森知美(GK)
   - 2 新海萌葉(GK)
   - 3 村上裕子(FP)
@@ -70,7 +70,7 @@ FUN FUTSAL CLUBの呼びかけで、[眞境名オスカー](https://ja.wikipedia
 
   - 八王子のFUNフットサルクラブ直営のクラブチーム。
 
-監督は、過去に[FIRE FOX](https://ja.wikipedia.org/wiki/FIRE_FOX "wikilink")、[名古屋オーシャンズ](https://ja.wikipedia.org/wiki/名古屋オーシャンズ "wikilink")等を指揮し全日本での優勝経験も豊富。同クラブのジュニアのクリニックでの指導もしている。
+監督は、過去に[FIRE FOX](../Page/FIRE_FOX.md "wikilink")、[名古屋オーシャンズ](../Page/名古屋オーシャンズ.md "wikilink")等を指揮し全日本での優勝経験も豊富。同クラブのジュニアのクリニックでの指導もしている。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[FolksSoul --](https://ja.wikipedia.org/wiki/FolksSoul_--)から翻訳されています。
 
 
-『**FolksSoul -失われた伝承-**』（フォークスソウル うしなわれたでんしょう、北米版タイトル "***Folklore***" ）は、[ファンタジー](../Page/ファンタジー.md "wikilink")[アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/アクションアドベンチャーゲーム "wikilink")。当初はダークファンタジーと銘打っていたが、分かりづらかったため変更となった。
+『**FolksSoul -失われた伝承-**』（フォークスソウル うしなわれたでんしょう、北米版タイトル "***Folklore***" ）は、[ファンタジー](../Page/ファンタジー.md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。当初はダークファンタジーと銘打っていたが、分かりづらかったため変更となった。
 
 ## ストーリー
 
@@ -13,22 +13,22 @@
 
 「ダンジョントライアル」モードでは、本編で入手したフォークスを使い自分でダンジョンを作り、ネットワークにアップロードし他のプレイヤーにプレイさせたり、他のプレイヤーがアップロードしたダンジョンを楽しむことが可能。
 
-[PlayStation 3のゲームで初めて](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（当時としては）[PlayStation Portableと連動する機能を備えているが](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、PlayStation Portable用ソフト『[Coded Soul -受け継がれしイデア-](https://ja.wikipedia.org/wiki/Coded_Soul_-受け継がれしイデア- "wikilink")』（2008年2月7日 発売）が必要である。開発初期のタイトル名は『MONSTER KINGDOM UNKNOWN REALMS（仮）』（モンスター・キングダム・アンノウン・レルム（仮））であった。PlayStation Portableで発売された『[モンスターキングダム・ジュエルサモナー](https://ja.wikipedia.org/wiki/モンスターキングダム・ジュエルサモナー "wikilink")』との関連は不明。
+[PlayStation 3のゲームで初めて](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（当時としては）[PlayStation Portableと連動する機能を備えているが](../Page/PlayStation_Portable.md "wikilink")、PlayStation Portable用ソフト『[Coded Soul -受け継がれしイデア-](https://ja.wikipedia.org/wiki/Coded_Soul_-受け継がれしイデア- "wikilink")』（2008年2月7日 発売）が必要である。開発初期のタイトル名は『MONSTER KINGDOM UNKNOWN REALMS（仮）』（モンスター・キングダム・アンノウン・レルム（仮））であった。PlayStation Portableで発売された『[モンスターキングダム・ジュエルサモナー](../Page/モンスターキングダム・ジュエルサモナー.md "wikilink")』との関連は不明。
 
-メインテーマは[死後](https://ja.wikipedia.org/wiki/死後 "wikilink")や生死への探求であり、『自分もいずれは死ぬ（消滅する）という事を普段から意識していては、[人](../Page/人.md "wikilink")は[恐怖](https://ja.wikipedia.org/wiki/恐怖 "wikilink")や[ストレスでおかしくなりかねず](https://ja.wikipedia.org/wiki/ストレス_\(生体\) "wikilink")、生きていけなくなる。そのため普段はそれらを忘れることで、生きていける』などといった、死生観にまつわる思想的な話が強い。
+メインテーマは[死後](https://ja.wikipedia.org/wiki/死後 "wikilink")や生死への探求であり、『自分もいずれは死ぬ（消滅する）という事を普段から意識していては、[人](../Page/人.md "wikilink")は[恐怖](../Page/恐怖.md "wikilink")や[ストレスでおかしくなりかねず](../Page/ストレス_\(生体\).md "wikilink")、生きていけなくなる。そのため普段はそれらを忘れることで、生きていける』などといった、死生観にまつわる思想的な話が強い。
 
 日本国内での初日売上7000本、初週売上16000本。2007年10月現在40348本。
 
 ## 世界観
 
-物語の舞台は[アイルランド](../Page/アイルランド.md "wikilink")の架空の村。死者の声を聞ける[万霊節](https://ja.wikipedia.org/wiki/万霊節 "wikilink")の[11月2日](../Page/11月2日.md "wikilink")とは現在では[ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")とも関連する[カトリックにおける](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")[死者の日](https://ja.wikipedia.org/wiki/死者の日 "wikilink")のことである（アイルランドは土着の[ドルイド](https://ja.wikipedia.org/wiki/ドルイド "wikilink")教と[キリスト教](../Page/キリスト教.md "wikilink")を融合したものを信仰している）。妖精に誘われて環状列石（アイルランドで言う[ドルメン](https://ja.wikipedia.org/wiki/ドルメン "wikilink")）から生きたままに異界を訪れることも[ケルト](https://ja.wikipedia.org/wiki/ケルト "wikilink")の伝承と一致する。また、作中には死を予告する妖精[バンシー](../Page/バンシー.md "wikilink")、勇者[クー・フーリン](../Page/クー・フーリン.md "wikilink")など様々なアイルランド伝承からの引用が見られる。異界にもケルトの世界観が用いられ、妖精が住まい永遠の命を生きられる異界「妖精界」（作中ではアイルランド語で妖精を意味する『シー』の呼び名も当てられる）は、ケルトが求めた歓楽の国そのものである。 他にも、ストーリーのなかで[マヤ](https://ja.wikipedia.org/wiki/マヤ_\(インド神話\) "wikilink")（サンスクリット～仏教の王）、[ブラフマー](../Page/ブラフマー.md "wikilink")（ヒンドゥー教の創造神）などストーリーのなかで様々な宗教的と生死感が登場する。
+物語の舞台は[アイルランド](../Page/アイルランド.md "wikilink")の架空の村。死者の声を聞ける[万霊節](https://ja.wikipedia.org/wiki/万霊節 "wikilink")の[11月2日](../Page/11月2日.md "wikilink")とは現在では[ハロウィン](../Page/ハロウィン.md "wikilink")とも関連する[カトリックにおける](../Page/カトリック教会.md "wikilink")[死者の日](../Page/死者の日.md "wikilink")のことである（アイルランドは土着の[ドルイド](../Page/ドルイド.md "wikilink")教と[キリスト教](../Page/キリスト教.md "wikilink")を融合したものを信仰している）。妖精に誘われて環状列石（アイルランドで言う[ドルメン](https://ja.wikipedia.org/wiki/ドルメン "wikilink")）から生きたままに異界を訪れることも[ケルト](https://ja.wikipedia.org/wiki/ケルト "wikilink")の伝承と一致する。また、作中には死を予告する妖精[バンシー](../Page/バンシー.md "wikilink")、勇者[クー・フーリン](../Page/クー・フーリン.md "wikilink")など様々なアイルランド伝承からの引用が見られる。異界にもケルトの世界観が用いられ、妖精が住まい永遠の命を生きられる異界「妖精界」（作中ではアイルランド語で妖精を意味する『シー』の呼び名も当てられる）は、ケルトが求めた歓楽の国そのものである。 他にも、ストーリーのなかで[マヤ](../Page/マヤ_\(インド神話\).md "wikilink")（サンスクリット～仏教の王）、[ブラフマー](../Page/ブラフマー.md "wikilink")（ヒンドゥー教の創造神）などストーリーのなかで様々な宗教的と生死感が登場する。
 
 ## 関連情報
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")、プロモーションビデオが[PLAYSTATION Storeにて配信された](https://ja.wikipedia.org/wiki/PlayStation_Store "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")、「FolksSoul -失われた伝承- 体験版」がPLAYSTATION Storeにて配信された。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")、「FolksSoul発売記念 期間限定フォークス」がPLAYSTATION Storeにて配信された。配信期限は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")、[週刊ファミ通オリジナルフォークス](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")「バカタール加藤」がPLAYSTATION Storeにて配信。配信期限は6ヶ月。今後も各ゲーム誌別のオリジナルフォークスを配信予定。
+  - [2007年](../Page/2007年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")、プロモーションビデオが[PLAYSTATION Storeにて配信された](../Page/PlayStation_Store.md "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、「FolksSoul -失われた伝承- 体験版」がPLAYSTATION Storeにて配信された。
+  - [2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")、「FolksSoul発売記念 期間限定フォークス」がPLAYSTATION Storeにて配信された。配信期限は[2007年](../Page/2007年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")、[週刊ファミ通オリジナルフォークス](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")「バカタール加藤」がPLAYSTATION Storeにて配信。配信期限は6ヶ月。今後も各ゲーム誌別のオリジナルフォークスを配信予定。
 
 ## 登場人物
 
@@ -102,19 +102,19 @@
 
 ## 主題歌
 
-  - ｢[Nephilim](https://ja.wikipedia.org/wiki/Nephilim "wikilink")｣
+  - ｢[Nephilim](../Page/Nephilim.md "wikilink")｣
 
 <!-- end list -->
 
   - 歌／演奏：[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")
-  - レーベル：[Epic Records Japan](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
-  - 作詞:[西川貴教](../Page/西川貴教.md "wikilink") / 作曲:[岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink")
+  - レーベル：[Epic Records Japan](../Page/エピックレコードジャパン.md "wikilink")
+  - 作詞:[西川貴教](../Page/西川貴教.md "wikilink") / 作曲:[岸利至](../Page/岸利至.md "wikilink")
 
 ## 関連項目
 
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
-  - [ゲームリパブリック](https://ja.wikipedia.org/wiki/ゲームリパブリック "wikilink")
-  - [白組](https://ja.wikipedia.org/wiki/白組 "wikilink")
+  - [ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")
+  - [白組](../Page/白組.md "wikilink")
   - [プレミアムエージェンシー](https://ja.wikipedia.org/wiki/プレミアムエージェンシー "wikilink")
 
 ## 外部リンク

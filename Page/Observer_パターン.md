@@ -53,13 +53,13 @@ Observerの実装クラス。
   - あるオブジェクトの属性値の変化を待つ。なお、複数の属性値の変化でコールバック関数を呼び出すようにしているとイベントの連鎖的発生を引き起こす。
   - メーリングリストで、何らかのイベント（新製品情報など）があったとき、購読者リストに登録している人にメッセージを送る。
 
-Observer パターンは [Model View Controller](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink") (MVC) パラダイムの実装に使われることも多い。MVC では、モデルとビューの連携に Observer パターンが使われる。通常、コントローラーがモデルの変化を検出し、ビュー（オブザーバ）に通知する。
+Observer パターンは [Model View Controller](../Page/Model_View_Controller.md "wikilink") (MVC) パラダイムの実装に使われることも多い。MVC では、モデルとビューの連携に Observer パターンが使われる。通常、コントローラーがモデルの変化を検出し、ビュー（オブザーバ）に通知する。
 
 ## 擬似コード
 
 ### Python
 
-以下の[擬似コード](https://ja.wikipedia.org/wiki/擬似コード "wikilink")は [Python](../Page/Python.md "wikilink") 風文法で Observer パターンを記述したものである。
+以下の[擬似コード](../Page/擬似コード.md "wikilink")は [Python](../Page/Python.md "wikilink") 風文法で Observer パターンを記述したものである。
 
 ``` python
  class Listener:
@@ -130,10 +130,10 @@ Observer パターンは各種[ライブラリ](../Page/ライブラリ.md "wiki
   - [libsigc++](http://libsigc.sourceforge.net) - C++ [シグナルプログラミング](https://ja.wikipedia.org/wiki/シグナルプログラミング "wikilink")・テンプレートライブラリ
   - [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot ライブラリ
   - [XLObject](http://xlobject.sourceforge.net/) - テンプレートベースの C++ signal/slot モデル
-  - [GLib](https://ja.wikipedia.org/wiki/GLib "wikilink") - [C言語](../Page/C言語.md "wikilink")でのオブジェクトと [signals](https://ja.wikipedia.org/wiki/シグナルプログラミング "wikilink")/[callbacks](https://ja.wikipedia.org/wiki/コールバック_\(情報工学\) "wikilink") の実装（他のプログラミング言語用の実装もある）
+  - [GLib](../Page/GLib.md "wikilink") - [C言語](../Page/C言語.md "wikilink")でのオブジェクトと [signals](https://ja.wikipedia.org/wiki/シグナルプログラミング "wikilink")/[callbacks](../Page/コールバック_\(情報工学\).md "wikilink") の実装（他のプログラミング言語用の実装もある）
   - [Exploring the Observer Design Pattern](http://msdn2.microsoft.com/en-us/library/ms954621.aspx) - [C\#](../Page/C_Sharp.md "wikilink") と [Visual Basic .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink") による実装。[delegates](https://ja.wikipedia.org/wiki/Delegate_\(.NET\) "wikilink") を利用。
   - [Using the Observer Pattern](http://ramblings.aaronballman.com/?p=288) - [REALbasic](https://ja.wikipedia.org/wiki/REALbasic "wikilink") による実装
-  - [flash.events](http://livedocs.macromedia.com/flex/2/langref/flash/events/package-detail.html) - [ActionScript](https://ja.wikipedia.org/wiki/ActionScript "wikilink") 3.0 でのパッケージ（ActionScript 2.0 の mx.events パッケージの後継）
+  - [flash.events](http://livedocs.macromedia.com/flex/2/langref/flash/events/package-detail.html) - [ActionScript](../Page/ActionScript.md "wikilink") 3.0 でのパッケージ（ActionScript 2.0 の mx.events パッケージの後継）
   - [YUI Event utility](http://developer.yahoo.com/yui/event/) - カスタムイベントを Observer パターンで実装
   - [Py-notify](http://home.gna.org/py-notify/) - [Python](../Page/Python.md "wikilink") 実装
 

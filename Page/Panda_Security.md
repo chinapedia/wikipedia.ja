@@ -1,9 +1,9 @@
 > この記事は[Panda Security](https://ja.wikipedia.org/wiki/Panda_Security)から翻訳されています。
 
 
-**Panda Security** （パンダ セキュリティ）は1990年に[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[ビルバオ](https://ja.wikipedia.org/wiki/ビルバオ "wikilink")で設立された[アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")などの[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")製品を開発・販売している企業。1996年にはスペイン以外でも製品の販売を開始し、日本では2003年1月より販売活動を行っている。当初のブランド名及び企業名は**Panda Software**。
+**Panda Security** （パンダ セキュリティ）は1990年に[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[ビルバオ](../Page/ビルバオ.md "wikilink")で設立された[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")などの[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")製品を開発・販売している企業。1996年にはスペイン以外でも製品の販売を開始し、日本では2003年1月より販売活動を行っている。当初のブランド名及び企業名は**Panda Software**。
 
-本拠をビルバオと[マドリード](../Page/マドリード.md "wikilink")に置き、米国、ドイツ、ベネルクス、フランス、オーストリア、英国、スウェーデン、中国、日本に[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")がある。日本法人の名称はPS Japan株式会社で、国内総代理店（当時）のITXイー・グローバレッジのPanda Security製品の業務を移管する形で、2007年10月に設立された\[1\]。
+本拠をビルバオと[マドリード](../Page/マドリード.md "wikilink")に置き、米国、ドイツ、ベネルクス、フランス、オーストリア、英国、スウェーデン、中国、日本に[子会社](../Page/子会社.md "wikilink")がある。日本法人の名称はPS Japan株式会社で、国内総代理店（当時）のITXイー・グローバレッジのPanda Security製品の業務を移管する形で、2007年10月に設立された\[1\]。
 
 ## 製品
 
@@ -12,7 +12,7 @@
 <!-- end list -->
 
   -
-    [アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")と[アンチスパイソフトウェア](https://ja.wikipedia.org/wiki/アンチスパイソフトウェア "wikilink")の機能があわさったソフトウェア。
+    [アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")と[アンチスパイソフトウェア](https://ja.wikipedia.org/wiki/アンチスパイソフトウェア "wikilink")の機能があわさったソフトウェア。
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   -
-    アンチウイルス、アンチスパイウェア、アンチ[rootkit](https://ja.wikipedia.org/wiki/rootkit "wikilink")等の機能を[クラウド上で実行するソフトウェア](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")（[SaaS](https://ja.wikipedia.org/wiki/SaaS "wikilink")）。
+    アンチウイルス、アンチスパイウェア、アンチ[rootkit](https://ja.wikipedia.org/wiki/rootkit "wikilink")等の機能を[クラウド上で実行するソフトウェア](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")（[SaaS](../Page/SaaS.md "wikilink")）。
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    アンチウイルスソフトウェア、アンチスパイソフトウェア、ファイアーウォール、[フィッシング対策などの機能があわさったソフトウェア](https://ja.wikipedia.org/wiki/フィッシング_\(詐欺\) "wikilink")。[インターネットセキュリティスイート](https://ja.wikipedia.org/wiki/インターネットセキュリティスイート "wikilink")の一つ。
+    アンチウイルスソフトウェア、アンチスパイソフトウェア、ファイアーウォール、[フィッシング対策などの機能があわさったソフトウェア](../Page/フィッシング_\(詐欺\).md "wikilink")。[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")の一つ。
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [アンチウイルスソフトウェア](https://ja.wikipedia.org/wiki/アンチウイルスソフトウェア "wikilink")
+  - [アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")
   - [HRT F1](https://ja.wikipedia.org/wiki/HRT_F1 "wikilink") - 2011年よりスポンサー活動を行うスペインの[F1チーム](../Page/フォーミュラ1.md "wikilink")。
 
 ## 出典

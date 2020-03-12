@@ -1,13 +1,13 @@
 > この記事は[FUTURO](https://ja.wikipedia.org/wiki/FUTURO)から翻訳されています。
 
 
-**FUTURO**（**フトゥーロ**）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[府中市を本拠地とする](../Page/府中市_\(東京都\).md "wikilink")[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")チームである。
+**FUTURO**（**フトゥーロ**）は、[東京都](../Page/東京都.md "wikilink")[府中市を本拠地とする](../Page/府中市_\(東京都\).md "wikilink")[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")チームである。
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")2月に[上村信之介](https://ja.wikipedia.org/wiki/上村信之介 "wikilink")、[小野大輔 (フットサル選手)が中心となって結成](https://ja.wikipedia.org/wiki/小野大輔_\(フットサル選手\) "wikilink")。チーム名は[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で「[未来](../Page/未来.md "wikilink")」を意味する「**FUTURO**」（**フトゥーロ**）。「フットサルの未来のために頑張っていこう」と言う思いで、付けられた。
+[2001年](../Page/2001年.md "wikilink")2月に[上村信之介](https://ja.wikipedia.org/wiki/上村信之介 "wikilink")、[小野大輔 (フットサル選手)が中心となって結成](../Page/小野大輔_\(フットサル選手\).md "wikilink")。チーム名は[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で「[未来](../Page/未来.md "wikilink")」を意味する「**FUTURO**」（**フトゥーロ**）。「フットサルの未来のために頑張っていこう」と言う思いで、付けられた。
 
-現在[関東リーグで戦っている](https://ja.wikipedia.org/wiki/地域リーグ_\(フットサル\) "wikilink")。
+現在[関東リーグで戦っている](../Page/地域リーグ_\(フットサル\).md "wikilink")。
 
 ## 成績(当年度含む)
 
@@ -57,7 +57,7 @@
 
   - 1 大平優紀（、ゴレイロ）
   - 1 伊藤喜彰（、ゴレイロ）
-  - 2 [小野大輔 (フットサル選手)](https://ja.wikipedia.org/wiki/小野大輔_\(フットサル選手\) "wikilink")（、ピヴォ）
+  - 2 [小野大輔 (フットサル選手)](../Page/小野大輔_\(フットサル選手\).md "wikilink")（、ピヴォ）
   - 3 景山純一（、アラ）
   - 6 難波田治（、フィクソ）
   - 7 中村克史（、ピヴォ）

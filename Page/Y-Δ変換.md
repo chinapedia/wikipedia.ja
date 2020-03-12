@@ -7,7 +7,7 @@
 
 ## Y-Δ変換の基本
 
-変換は図に示す3端子の回路で行なわれる。それぞれの回路の端子は同一の端子である必要がある。この変換式は、[実数](../Page/実数.md "wikilink")([抵抗](https://ja.wikipedia.org/wiki/抵抗 "wikilink")素子)の場合だけでなく、[複素数](../Page/複素数.md "wikilink")([容量](https://ja.wikipedia.org/wiki/容量 "wikilink")素子、[誘導素子](https://ja.wikipedia.org/wiki/インダクタ "wikilink"))の場合でも成立する。
+変換は図に示す3端子の回路で行なわれる。それぞれの回路の端子は同一の端子である必要がある。この変換式は、[実数](../Page/実数.md "wikilink")([抵抗](https://ja.wikipedia.org/wiki/抵抗 "wikilink")素子)の場合だけでなく、[複素数](../Page/複素数.md "wikilink")([容量](https://ja.wikipedia.org/wiki/容量 "wikilink")素子、[誘導素子](../Page/インダクタ.md "wikilink"))の場合でも成立する。
 
 ### Δ回路からY回路への変換
 

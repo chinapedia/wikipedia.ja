@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[Jチャン+](../Page/Jチャン+.md "wikilink")』、『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（毎日昼）以外のニュース番組は基本的にこのタイトルを使用する。また、1982年10月1日の鹿児島放送の開局から1991年10月4日までは、[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")[夕](../Page/夕.md "wikilink")方のローカルワイドニュースもこのタイトルを使用していた。ただし、1986年9月29日から1年間は『[KKBニュース6:00](https://ja.wikipedia.org/wiki/KKBニュース6:00 "wikilink")』として独立したワイドニュースを放送していた。
+『[Jチャン+](../Page/Jチャン+.md "wikilink")』、『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（毎日昼）以外のニュース番組は基本的にこのタイトルを使用する。また、1982年10月1日の鹿児島放送の開局から1991年10月4日までは、[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方のローカルワイドニュースもこのタイトルを使用していた。ただし、1986年9月29日から1年間は『[KKBニュース6:00](https://ja.wikipedia.org/wiki/KKBニュース6:00 "wikilink")』として独立したワイドニュースを放送していた。
 
 2006年12月1日からはタイトルが「**KKB NEWS**」に変更された。
 

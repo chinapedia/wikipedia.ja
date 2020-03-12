@@ -1,7 +1,7 @@
 > この記事は[i](https://ja.wikipedia.org/wiki/i)から翻訳されています。
 
 
-**シャキッとi**（シャキッとアイ）は、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBCiラジオ）で平日 7:00 - 9:00に放送している、朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+**シャキッとi**（シャキッとアイ）は、[琉球放送](../Page/琉球放送.md "wikilink")（RBCiラジオ）で平日 7:00 - 9:00に放送している、朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ## パーソナリティ
 
@@ -28,7 +28,7 @@
   - 7:50 - 日本道路交通情報センターから交通情報
   - 7:54 - ラジオカーレポート
   - 7:57 - 頭シャキッと 日替わりクイズコーナー
-  - 8:00 - [話題のアンテナ 日本全国8時です](https://ja.wikipedia.org/wiki/話題のアンテナ_日本全国8時です "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
+  - 8:00 - [話題のアンテナ 日本全国8時です](../Page/話題のアンテナ_日本全国8時です.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
   - 8:14 - 頭シャキッと クイズの回答・天気予報
   - 8:20 - 日本道路交通情報センターから交通情報
   - 8:24 - ニュース
@@ -44,15 +44,15 @@
 ## 以前担当していたパーソナリティ
 
   - [柳卓](../Page/柳卓.md "wikilink")(月・火・水）（～2008年9月）
-  - [小山康昭](https://ja.wikipedia.org/wiki/小山康昭 "wikilink")（月・火・水）（2008年10月～2012年3月。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月～[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月までは木・金も担当していた。）
+  - [小山康昭](../Page/小山康昭.md "wikilink")（月・火・水）（2008年10月～2012年3月。[2006年](../Page/2006年.md "wikilink")10月～[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月までは木・金も担当していた。）
   - [島袋千恵美](https://ja.wikipedia.org/wiki/島袋千恵美 "wikilink")（月・火・水）（～2012年3月,、下記の休暇中を除く）
   - [箕田和男](../Page/箕田和男.md "wikilink")（木・金）　（～2006年9月、2008年10月～2012年3月）
-  - [狩俣倫太郎](https://ja.wikipedia.org/wiki/狩俣倫太郎 "wikilink")（木・金）（2006年10月〜2008年3月）
+  - [狩俣倫太郎](../Page/狩俣倫太郎.md "wikilink")（木・金）（2006年10月〜2008年3月）
   - [金城真知子](https://ja.wikipedia.org/wiki/金城真知子 "wikilink")（月・火・水）　島袋千恵美が出産・育児休暇中の[2007年](../Page/2007年.md "wikilink")2月下旬〜2007年9月26日まで担当
   - [大城蘭](https://ja.wikipedia.org/wiki/大城蘭 "wikilink")（月・火）　島袋千恵美が出産・育児休暇中の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")11月29日〜[2011年](../Page/2011年.md "wikilink")9月27日まで担当。この期間の水曜は木・金担当の菊池が担当した。
   - [倉持恵美](https://ja.wikipedia.org/wiki/倉持恵美 "wikilink")（月～木）
   - [あったゆういち](https://ja.wikipedia.org/wiki/あったゆういち "wikilink")（金） （2012年4月〜2014年3月）
-  - [土方浄](https://ja.wikipedia.org/wiki/土方浄 "wikilink")（月～木、2016年3月まで）
+  - [土方浄](../Page/土方浄.md "wikilink")（月～木、2016年3月まで）
   - [富原志乃](../Page/富原志乃.md "wikilink")（月～木、2016年3月まで）
   - [菊地志乃](https://ja.wikipedia.org/wiki/菊地志乃 "wikilink")（金は2016年3月まで。2012年3月までは木曜日も担当していた）
   - [仲田紀久子](https://ja.wikipedia.org/wiki/仲田紀久子 "wikilink")（2018年3月まで。歌のない歌謡曲のみ担当）

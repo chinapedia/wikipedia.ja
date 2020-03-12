@@ -3,7 +3,7 @@
 
 **HOME MADE 家族のRADIOCATION**（ホームメードかぞくのレディオ・ケイション）は、[HOME MADE 家族のMICROとKURO](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、U-ICHIのレギュラー番組である。全国の[JFN系列](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")28局で放送されている。HOME MADE 家族の本拠地といえる[名古屋付近の](../Page/名古屋市.md "wikilink")[FM AICHIではネットされてはいないが](../Page/エフエム愛知.md "wikilink")2010年1月よりネットが開始された。また、[Radio80で聞くことができる](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")。\[1\]
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月放送開始。この番組は放送当初からネット局は多いものの、同時期にブレイクし、現在のJFNでのレギュラー番組を持っている[D-51](../Page/D-51.md "wikilink")より半年放送開始が遅い。放送基準日は、金曜日。
+[2006年](../Page/2006年.md "wikilink")4月放送開始。この番組は放送当初からネット局は多いものの、同時期にブレイクし、現在のJFNでのレギュラー番組を持っている[D-51](../Page/D-51.md "wikilink")より半年放送開始が遅い。放送基準日は、金曜日。
 
 ## コーナー
 
@@ -31,11 +31,11 @@
   - [Boy-FM](../Page/エフエム山形.md "wikilink") 土曜21:25
   - [FMぐんま](../Page/エフエム群馬.md "wikilink") 火曜21:00
   - [RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")　金曜20：30 短縮バージョン（2006年11月24日～）
-  - [FM-NIIGATA](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink") 木曜19：30 短縮バージョン
-  - [FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink") 日曜22:00
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink") 水曜21:00
+  - [FM-NIIGATA](../Page/エフエムラジオ新潟.md "wikilink") 木曜19：30 短縮バージョン
+  - [FM長野](../Page/長野エフエム放送.md "wikilink") 日曜22:00
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink") 水曜21:00
   - [HELLO FIVE](../Page/エフエム石川.md "wikilink") 火曜20:00
-  - [FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink") 月曜21:00
+  - [FM福井](../Page/福井エフエム放送.md "wikilink") 月曜21:00
   - [FM AICHI](../Page/エフエム愛知.md "wikilink") 日曜24：00 （2010年1月～）
   - [Radio80](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink") 日曜18:30 短縮バージョン （自社特別番組で休止になることがある）
   - [e-radio](../Page/エフエム滋賀.md "wikilink") 月曜20:30 短縮バージョン

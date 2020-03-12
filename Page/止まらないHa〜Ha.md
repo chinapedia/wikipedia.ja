@@ -5,19 +5,19 @@
 
 ## 解説
 
-作詞は[ちあき哲也](https://ja.wikipedia.org/wiki/ちあき哲也 "wikilink")、作曲は矢沢永吉。
+作詞は[ちあき哲也](../Page/ちあき哲也.md "wikilink")、作曲は矢沢永吉。
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月25日発売の[アルバム](../Page/アルバム.md "wikilink")『[東京ナイト](https://ja.wikipedia.org/wiki/東京ナイト_\(矢沢永吉のアルバム\) "wikilink")』に収録。同年のコンサートツアーのタイトル「Feelin' come HA〜HA」は、この曲の歌詞から取られている。
 
 また、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")5月18日に全米発売されたアルバム『[FLASH IN JAPAN](https://ja.wikipedia.org/wiki/FLASH_IN_JAPAN "wikilink")』（[1999年](../Page/1999年.md "wikilink")12月24日、日本発売）に、英詞版「HURRICANE」が収録されている。
 
-矢沢がテレビやラジオ出演した時、矢沢に関する事を紹介する時、あるいはそっくりさんが登場する時に[BGMとして使用される事が多く](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、矢沢永吉をイメージさせる曲として定着している。
+矢沢がテレビやラジオ出演した時、矢沢に関する事を紹介する時、あるいはそっくりさんが登場する時に[BGMとして使用される事が多く](../Page/バックグラウンドミュージック.md "wikilink")、矢沢永吉をイメージさせる曲として定着している。
 
-[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[川崎宗則](https://ja.wikipedia.org/wiki/川崎宗則 "wikilink")、[三浦大輔](../Page/三浦大輔.md "wikilink")、[菊池雄星](https://ja.wikipedia.org/wiki/菊池雄星 "wikilink")（[2013年](../Page/2013年.md "wikilink")から）、[茂木栄五郎](https://ja.wikipedia.org/wiki/茂木栄五郎 "wikilink")が登場曲として使用している。かつては元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[村田真一](https://ja.wikipedia.org/wiki/村田真一 "wikilink")も使用していた。プロボクサーの[金子大樹](https://ja.wikipedia.org/wiki/金子大樹 "wikilink")やキックボクサー・総合格闘家の[那須川天心](https://ja.wikipedia.org/wiki/那須川天心 "wikilink")も入場曲に使用している。
+[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[川崎宗則](../Page/川崎宗則.md "wikilink")、[三浦大輔](../Page/三浦大輔.md "wikilink")、[菊池雄星](https://ja.wikipedia.org/wiki/菊池雄星 "wikilink")（[2013年](../Page/2013年.md "wikilink")から）、[茂木栄五郎](https://ja.wikipedia.org/wiki/茂木栄五郎 "wikilink")が登場曲として使用している。かつては元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[村田真一](../Page/村田真一.md "wikilink")も使用していた。プロボクサーの[金子大樹](https://ja.wikipedia.org/wiki/金子大樹 "wikilink")やキックボクサー・総合格闘家の[那須川天心](https://ja.wikipedia.org/wiki/那須川天心 "wikilink")も入場曲に使用している。
 
-[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[大喜利](https://ja.wikipedia.org/wiki/大喜利 "wikilink")王座決定戦『[IPPON グランプリ](https://ja.wikipedia.org/wiki/IPPON_グランプリ "wikilink")』で番組テーマ曲に採用された。
+[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[大喜利](../Page/大喜利.md "wikilink")王座決定戦『[IPPON グランプリ](https://ja.wikipedia.org/wiki/IPPON_グランプリ "wikilink")』で番組テーマ曲に採用された。
 
-トリビュートアルバムでは[少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")がカバーをしている。
+トリビュートアルバムでは[少年ナイフ](../Page/少年ナイフ.md "wikilink")がカバーをしている。
 
 ## コンサート
 

@@ -20,7 +20,7 @@
 ### 主な登場人物
 
   - 紫藤 龍彦（しどう たつひこ）
-    [声](../Page/声優.md "wikilink") - [山崎たくみ](https://ja.wikipedia.org/wiki/山崎たくみ "wikilink")
+    [声](../Page/声優.md "wikilink") - [山崎たくみ](../Page/山崎たくみ.md "wikilink")
     表向きは横浜にて「紫藤探偵事務所」を営む私立探偵。裏では自分の血を使った特殊能力を駆使し、ブリードを狩るヴァンパイア（吸血鬼）。吸血鬼になってから数百年を生きているが、自身の過去についての記憶があやふやで、出身も本名も生年も不明。日中も活動できるが、強い陽光は苦手。女好きだが、特定の恋人はいない様子。
   - 松永 弥生（まつなが やよい）
     声 - [篠原恵美](../Page/篠原恵美.md "wikilink")
@@ -37,8 +37,8 @@
 
 ### スタッフ
 
-  - 原作 - 樹彩那、[AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
-  - キャラクター原案 - [牧野竜一](https://ja.wikipedia.org/wiki/牧野竜一 "wikilink")
+  - 原作 - 樹彩那、[AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
+  - キャラクター原案 - [牧野竜一](../Page/牧野竜一.md "wikilink")
   - 監督 - 香川豊（第1話 - 第4話）、沙々野紀世利（第5話以降）
   - シリーズ構成 - [山口亮太](../Page/山口亮太.md "wikilink")
   - キャラクターデザイン - 磯野智、[下笠美穂](https://ja.wikipedia.org/wiki/下笠美穂 "wikilink")（第5話以降）
@@ -52,13 +52,13 @@
   - アニメーションプロデューサー - 佐藤郁夫
   - 制作協力 - スタジオガゼル
   - 制作 - AIC
-  - 製作 - ビースタック、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")、[メモリーテック](https://ja.wikipedia.org/wiki/メモリーテック "wikilink")
+  - 製作 - ビースタック、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[三菱商事](../Page/三菱商事.md "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")
 
 ### 主題歌
 
   - オープニングテーマ「月世界」
-    作詞 - 櫻井敦司 / 作曲 - 今井寿 / 編曲 - BUCK-TICK / 歌 - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")
-    [タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")曲ではなく、既存の曲を使用している。
+    作詞 - 櫻井敦司 / 作曲 - 今井寿 / 編曲 - BUCK-TICK / 歌 - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
+    [タイアップ](../Page/タイアップ.md "wikilink")曲ではなく、既存の曲を使用している。
   - エンディングテーマ「[未来航路](https://ja.wikipedia.org/wiki/未来航路 "wikilink")」
     作詞 - TAKA / 作曲 - KOJI / 編曲 - La'cryma Christi、岡野ハジメ / 歌 - [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")
 
@@ -89,7 +89,7 @@
 <tr class="even">
 <td><p>2nd night</p></td>
 <td><p>女優の条件</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田成" title="wikilink">池田成</a></p></td>
+<td><p><a href="../Page/池田成.md" title="wikilink">池田成</a></p></td>
 <td><p>1998年<a href="../Page/7月15日.md" title="wikilink">7月15日</a></p></td>
 <td></td>
 <td></td>
@@ -98,7 +98,7 @@
 <tr class="odd">
 <td><p>3rd night</p></td>
 <td><p>逃げる男</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉島邦久" title="wikilink">杉島邦久</a></p></td>
+<td><p><a href="../Page/杉島邦久.md" title="wikilink">杉島邦久</a></p></td>
 <td><p>1998年<a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
 <td></td>
 <td></td>
@@ -134,10 +134,10 @@
 <tr class="odd">
 <td><p>7th night</p></td>
 <td><p>母と息子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉村元希" title="wikilink">吉村元希</a></p></td>
+<td><p><a href="../Page/吉村元希.md" title="wikilink">吉村元希</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近藤信宏" title="wikilink">近藤信宏</a></p></td>
 <td><p>小林孝志</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a></p></td>
+<td><p><a href="../Page/本橋秀之.md" title="wikilink">本橋秀之</a></p></td>
 <td><p>1998年<a href="../Page/8月19日.md" title="wikilink">8月19日</a></p></td>
 </tr>
 <tr class="even">
@@ -153,7 +153,7 @@
 <td><p>9th night</p></td>
 <td><p>他人の顔</p></td>
 <td><p>山口亮太</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河本昇悟" title="wikilink">河本昇悟</a></p></td>
+<td><p><a href="../Page/河本昇悟.md" title="wikilink">河本昇悟</a></p></td>
 <td><p>松ただお</p></td>
 <td><p>高橋和徳</p></td>
 <td><p>1998年<a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
@@ -193,9 +193,9 @@
 
 ### 概要
 
-[1993年](../Page/1993年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にトムボーイより[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")用（[FD](../Page/フロッピーディスク.md "wikilink")5枚組）として発売後、[2001年](../Page/2001年.md "wikilink")にARIEROOFにより[Windows 95以降向けに](../Page/Microsoft_Windows_95.md "wikilink")[移植された](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")。ジャンルとしては推理ものの[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")にあたる。
+[1993年](../Page/1993年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にトムボーイより[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")用（[FD](../Page/フロッピーディスク.md "wikilink")5枚組）として発売後、[2001年](../Page/2001年.md "wikilink")にARIEROOFにより[Windows 95以降向けに](../Page/Microsoft_Windows_95.md "wikilink")[移植された](../Page/移植_\(ソフトウェア\).md "wikilink")。ジャンルとしては推理ものの[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")にあたる。
 
-原画は[牧野竜一](https://ja.wikipedia.org/wiki/牧野竜一 "wikilink")が担当。
+原画は[牧野竜一](../Page/牧野竜一.md "wikilink")が担当。
 
 ハーフヴァンパイアであり、魔族が関わる怪奇事件を専門的に請け負う「紫藤探偵事務所」の所長・紫藤龍彦と、魔族「ナイトブリード」との対決を軸に、猟奇殺人事件の真相に迫る物語が描かれる。ベースとなる世界設定やキャラクターの多くは、前述のテレビアニメ版など後に展開されたメディアミックス作品にも受け継がれて行くが、それぞれの媒体によって設定やキャラクターの意匠が異なり、基本的に同一世界の話ではない。
 
@@ -229,11 +229,11 @@
 
 ### ラジオドラマ版
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に『ナイト・ウォーカー 真夜中の探偵』のタイトルで、[KBS京都にて放送された](../Page/京都放送.md "wikilink")。[1996年](../Page/1996年.md "wikilink")には[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")としての発売が決定されたものの、結局メジャーレーベルからリリースされる事は無く、後に同人サークルによりごく少数が頒布された。原作：樹彩那、構成・監修：[黒田洋介](../Page/黒田洋介.md "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に『ナイト・ウォーカー 真夜中の探偵』のタイトルで、[KBS京都にて放送された](../Page/京都放送.md "wikilink")。[1996年](../Page/1996年.md "wikilink")には[ドラマCD](../Page/ドラマCD.md "wikilink")としての発売が決定されたものの、結局メジャーレーベルからリリースされる事は無く、後に同人サークルによりごく少数が頒布された。原作：樹彩那、構成・監修：[黒田洋介](../Page/黒田洋介.md "wikilink")。
 
 ### コミック版
 
-漫画作品が『[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")』[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月号増刊、1998年12月号、[1999年](../Page/1999年.md "wikilink")2月号増刊にて掲載された。ラジオドラマ版がベースとなっており、紫藤の容姿や性格、設定など、先行のPCゲーム版、アニメ版と異なる点が多い。原作：樹彩那、作画：[ユナイト双児](https://ja.wikipedia.org/wiki/ユナイト双児 "wikilink")。未単行本化。
+漫画作品が『[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")』[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月号増刊、1998年12月号、[1999年](../Page/1999年.md "wikilink")2月号増刊にて掲載された。ラジオドラマ版がベースとなっており、紫藤の容姿や性格、設定など、先行のPCゲーム版、アニメ版と異なる点が多い。原作：樹彩那、作画：[ユナイト双児](https://ja.wikipedia.org/wiki/ユナイト双児 "wikilink")。未単行本化。
 
 ## 注釈
 

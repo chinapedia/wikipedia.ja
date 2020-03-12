@@ -19,28 +19,28 @@
 
 ## キャスト
 
-  - 全野公（ぜんの ひろし）/エクスパーゼノン：[松野太紀](https://ja.wikipedia.org/wiki/松野太紀 "wikilink")
+  - 全野公（ぜんの ひろし）/エクスパーゼノン：[松野太紀](../Page/松野太紀.md "wikilink")
   - プリンセス アトーバー ：[高田由美](../Page/高田由美.md "wikilink")
   - エクスパー・ケイン：[速水奨](../Page/速水奨.md "wikilink")
-  - エクスパー・ジフ：[佐々木優子](https://ja.wikipedia.org/wiki/佐々木優子 "wikilink")
-  - エクスパー・ベノム：[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
-  - エクスパー・ダイオン：[中村秀利](https://ja.wikipedia.org/wiki/中村秀利 "wikilink")
-  - ゲームマスター：[加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")
+  - エクスパー・ジフ：[佐々木優子](../Page/佐々木優子.md "wikilink")
+  - エクスパー・ベノム：[梁田清之](../Page/梁田清之.md "wikilink")
+  - エクスパー・ダイオン：[中村秀利](../Page/中村秀利.md "wikilink")
+  - ゲームマスター：[加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
 
 ## スタッフ
 
   - 原作 - [長谷川裕一](../Page/長谷川裕一.md "wikilink")
-  - 監督・キャラクターデザイン・作画監督・絵コンテ - [もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")
+  - 監督・キャラクターデザイン・作画監督・絵コンテ - [もりやまゆうじ](../Page/森山雄治.md "wikilink")
   - 脚本 - [平野靖士](../Page/平野靖士.md "wikilink")、[山本茂](https://ja.wikipedia.org/wiki/山本茂 "wikilink")、もりやまゆうじ
   - メカ作監 - [橋本敬史](../Page/橋本敬史.md "wikilink")
   - 演出 - 早瀬廣章
-  - 演出補 - [水島精二](https://ja.wikipedia.org/wiki/水島精二 "wikilink")
+  - 演出補 - [水島精二](../Page/水島精二.md "wikilink")
   - 美術監督 - 中座洋次、須江信人
   - 撮影監督 - 藤田正明
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
   - 音響監督 - [山田悦司](https://ja.wikipedia.org/wiki/山田悦司 "wikilink")
   - プロデューサー - 小松茂明、榎本歩光
-  - アニメーション制作 - [スタジオファンタジア](https://ja.wikipedia.org/wiki/スタジオ・ファンタジア "wikilink")
+  - アニメーション制作 - [スタジオファンタジア](../Page/スタジオ・ファンタジア.md "wikilink")
   - 製作 - [日本ビクター](../Page/日本ビクター.md "wikilink")
 
 ## 主題歌
@@ -50,7 +50,7 @@
 
 ## 漫画
 
-『[月刊アニメV](https://ja.wikipedia.org/wiki/月刊アニメV "wikilink")』で1990年6月号から1991年5月号 まで連載。原作：[長谷川裕一](../Page/長谷川裕一.md "wikilink")、漫画：[もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")。未単行本化である。
+『[月刊アニメV](https://ja.wikipedia.org/wiki/月刊アニメV "wikilink")』で1990年6月号から1991年5月号 まで連載。原作：[長谷川裕一](../Page/長谷川裕一.md "wikilink")、漫画：[もりやまゆうじ](../Page/森山雄治.md "wikilink")。未単行本化である。
 
 ## 原作版エクスパーズについて
 

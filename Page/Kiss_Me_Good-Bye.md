@@ -5,13 +5,13 @@
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された3枚目のシングル。同年[5月16日](../Page/5月16日.md "wikilink")には[アメリカでも](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")によるダウンロード配信でリリースされた。
+[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された3枚目のシングル。同年[5月16日](../Page/5月16日.md "wikilink")には[アメリカでも](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")によるダウンロード配信でリリースされた。
 
 楽曲のキャッチコピーは『あなたが愛した人は、誰ですか?』。
 
 [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")制作[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ファイナルファンタジーXII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")』挿入歌として起用された。
 
-なお、アンジェラ作品としては唯一[UMDでプロモーションビデオが発売された作品であり](https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク "wikilink")、自身最初の映像メディアとなった作品でもある。
+なお、アンジェラ作品としては唯一[UMDでプロモーションビデオが発売された作品であり](../Page/ユニバーサル・メディア・ディスク.md "wikilink")、自身最初の映像メディアとなった作品でもある。
 
 ## 収録曲
 
@@ -28,7 +28,7 @@
 3.  **[青い影](https://ja.wikipedia.org/wiki/青い影 "wikilink")**
       -
         （作詞：キース・リード　作曲：[ゲイリー・ブルッカー](../Page/ゲイリー・ブルッカー.md "wikilink")／[マシュー・フィッシャー](../Page/マシュー・フィッシャー.md "wikilink")　編曲：アンジェラ・アキ／松岡モトキ）
-        [プロコル・ハルム](https://ja.wikipedia.org/wiki/プロコル・ハルム "wikilink")が[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に発表したデビュー曲のカヴァー。原題は「Whiter Shade Of Pale」となるが、アンジェラはこの邦題を高く評価しており、本作では敢えて邦題を使用している。ここに収められているアンジェラヴァージョンは弾き語りで収録され、キー、演奏、訳詞に至るまで全く独自のものになっている。
+        [プロコル・ハルム](../Page/プロコル・ハルム.md "wikilink")が[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に発表したデビュー曲のカヴァー。原題は「Whiter Shade Of Pale」となるが、アンジェラはこの邦題を高く評価しており、本作では敢えて邦題を使用している。ここに収められているアンジェラヴァージョンは弾き語りで収録され、キー、演奏、訳詞に至るまで全く独自のものになっている。
 4.  **Kiss Me Good-Bye -featured in FINAL FANTASY XII-**
       -
         （作詞：アンジェラ・アキ　作曲：植松伸夫　編曲：[福井健一郎](../Page/福井健一郎.md "wikilink")）
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   -
-    ゲーム『[THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")』[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[THE iDOLM@STER MASTER ARTIST 07 三浦あずさ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST "wikilink")』に収録。
+    ゲーム『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[THE iDOLM@STER MASTER ARTIST 07 三浦あずさ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST "wikilink")』に収録。
 
 ## 参考資料
 

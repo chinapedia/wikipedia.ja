@@ -9,7 +9,7 @@
 
 ### テレビ
 
-[JNNニュース](../Page/JNNニュース.md "wikilink")に内包されている[ローカル](https://ja.wikipedia.org/wiki/ローカル "wikilink")ニュースは、本番組として扱われていないため、この項目から除外。
+[JNNニュース](../Page/JNNニュース.md "wikilink")に内包されている[ローカル](../Page/ローカル.md "wikilink")ニュースは、本番組として扱われていないため、この項目から除外。
 
 #### 2017年4月現在
 

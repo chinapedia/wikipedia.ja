@@ -1,7 +1,7 @@
 > この記事は[MagicalMiracle](https://ja.wikipedia.org/wiki/MagicalMiracle)から翻訳されています。
 
 
-『**Migical×Miracle**』（マジカル×ミラクル）は[水谷悠珠](../Page/水谷悠珠.md "wikilink")の漫画。2002年5月号から2006年3月号まで『[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM "wikilink")』で連載されていた。全6巻。
+『**Migical×Miracle**』（マジカル×ミラクル）は[水谷悠珠](../Page/水谷悠珠.md "wikilink")の漫画。2002年5月号から2006年3月号まで『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』で連載されていた。全6巻。
 
 ## あらすじ
 

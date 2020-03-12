@@ -1,7 +1,7 @@
 > この記事は[HAL \(\)](https://ja.wikipedia.org/wiki/HAL_\(\))から翻訳されています。
 
 
-**HAL**（はる、英略：HAL）は、[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")・[名古屋市](../Page/名古屋市.md "wikilink")・大阪市に所在し、[学校法人日本教育財団](https://ja.wikipedia.org/wiki/学校法人日本教育財団 "wikilink")が運営する私立専門学校である。
+**HAL**（はる、英略：HAL）は、[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")・[名古屋市](../Page/名古屋市.md "wikilink")・大阪市に所在し、[学校法人日本教育財団](../Page/学校法人日本教育財団.md "wikilink")が運営する私立専門学校である。
 
 ## 概要
 
@@ -46,15 +46,15 @@
 
   - HAL大阪 - [大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[梅田](../Page/梅田.md "wikilink")3-3-1
   - HAL名古屋 - [名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")[名駅](../Page/名駅.md "wikilink")4-27-1
-  - HAL東京 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")1-7-2
+  - HAL東京 - [東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")1-7-2
 
 3校ともモード学園が同じビルに入居している（名古屋・東京はそれぞれ名古屋医専・首都医校も入居している）。
 
 ### 新ビル
 
-名古屋駅前の旧三井ビル跡に完成した[モード学園スパイラルタワーズ](https://ja.wikipedia.org/wiki/モード学園スパイラルタワーズ "wikilink")（地上36階、地下3階、2008年3月竣工、2008年4月開校）には、[名古屋モード学園](https://ja.wikipedia.org/wiki/名古屋モード学園 "wikilink")、HAL名古屋、[名古屋医専](../Page/名古屋医専.md "wikilink")が入る。 設備は、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360を備えたゲーム開発ルームや](../Page/Xbox_360.md "wikilink")、[モーションキャプチャー](https://ja.wikipedia.org/wiki/モーションキャプチャー "wikilink")ルームや、レコーディングスタジオ（フルデジタルサラウンド）など最新のものが備えられている。尚、これまで使用していたHAL名古屋の旧校舎は改装され、過去に名古屋医専の南校舎として利用されていたが、現在は[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に譲渡され[駿台予備校](https://ja.wikipedia.org/wiki/駿台予備校 "wikilink")が名古屋校校舎として使用している。
+名古屋駅前の旧三井ビル跡に完成した[モード学園スパイラルタワーズ](../Page/モード学園スパイラルタワーズ.md "wikilink")（地上36階、地下3階、2008年3月竣工、2008年4月開校）には、[名古屋モード学園](../Page/名古屋モード学園.md "wikilink")、HAL名古屋、[名古屋医専](../Page/名古屋医専.md "wikilink")が入る。 設備は、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360を備えたゲーム開発ルームや](../Page/Xbox_360.md "wikilink")、[モーションキャプチャー](https://ja.wikipedia.org/wiki/モーションキャプチャー "wikilink")ルームや、レコーディングスタジオ（フルデジタルサラウンド）など最新のものが備えられている。尚、これまで使用していたHAL名古屋の旧校舎は改装され、過去に名古屋医専の南校舎として利用されていたが、現在は[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に譲渡され[駿台予備校](https://ja.wikipedia.org/wiki/駿台予備校 "wikilink")が名古屋校校舎として使用している。
 
-新宿駅西口の旧朝日生命本社跡に完成した[モード学園コクーンタワー](../Page/モード学園コクーンタワー.md "wikilink")（地上50階、地下4階、2008年10月末日竣工、2009年4月開校）には、[東京モード学園](https://ja.wikipedia.org/wiki/東京モード学園 "wikilink")、HAL東京、[首都医校](https://ja.wikipedia.org/wiki/首都医校 "wikilink")\[1\]が入る。学校法人としては日本一高い超高層ビルである\[2\]。
+新宿駅西口の旧朝日生命本社跡に完成した[モード学園コクーンタワー](../Page/モード学園コクーンタワー.md "wikilink")（地上50階、地下4階、2008年10月末日竣工、2009年4月開校）には、[東京モード学園](../Page/東京モード学園.md "wikilink")、HAL東京、[首都医校](https://ja.wikipedia.org/wiki/首都医校 "wikilink")\[1\]が入る。学校法人としては日本一高い超高層ビルである\[2\]。
 
 ## グループ校
 
@@ -64,13 +64,13 @@
 
 ## 関連人物
 
-  - [岡本吉起](https://ja.wikipedia.org/wiki/岡本吉起 "wikilink") 講師として在籍
+  - [岡本吉起](../Page/岡本吉起.md "wikilink") 講師として在籍
   - [内藤時浩](../Page/内藤時浩.md "wikilink") 講師として過去に在籍
   - [福井健一郎](../Page/福井健一郎.md "wikilink") 教員として在籍
 
 ## 出身者
 
-  - [岩木勇一郎](https://ja.wikipedia.org/wiki/岩木勇一郎 "wikilink")：[株式会社白組プロデューサー](https://ja.wikipedia.org/wiki/白組 "wikilink")。映画監督。
+  - [岩木勇一郎](https://ja.wikipedia.org/wiki/岩木勇一郎 "wikilink")：[株式会社白組プロデューサー](../Page/白組.md "wikilink")。映画監督。
   - [和田大（わだ まさる）](http://web.archive.org/web/20111116041517/http://hp.rhp.jp/wadaxinc/kaisyagaiyou.html)\[3\]：株式会社[ワダックス(現・GMOクラウドWEST)創業者](https://ja.wikipedia.org/wiki/GMOクラウドWEST "wikilink")、前代表取締役社長、現取締役
   - 天谷大輔\[4\]：『[洞窟物語](../Page/洞窟物語.md "wikilink")』作者
   - [太田垣香織](https://ja.wikipedia.org/wiki/太田垣香織 "wikilink")：[VFX](../Page/VFX.md "wikilink")ディレクター
@@ -80,7 +80,7 @@
   - 山際眞晃\[7\]：『[Bloodborne](https://ja.wikipedia.org/wiki/Bloodborne "wikilink")』プロデューサー
   - 浜口直樹\[8\]：『[LIGHTNING RETURNS: FINAL FANTASY XIII](https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII "wikilink")』メインプログラマー、『[MOBIUS FINAL FANTASY](https://ja.wikipedia.org/wiki/メビウス_ファイナルファンタジー "wikilink")』プロジェクトリーダー、『[FINAL FANTASY VII REMAKE](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク "wikilink")』制作総指揮
   - [伊東ライフ](https://ja.wikipedia.org/wiki/伊東ライフ "wikilink")\[9\]\[10\]：イラストレーター
-  - [加藤利彦](https://ja.wikipedia.org/wiki/加藤利彦 "wikilink") - [日本の実業家](https://ja.wikipedia.org/wiki/日本の実業家 "wikilink")、IT参謀
+  - [加藤利彦](../Page/加藤利彦.md "wikilink") - [日本の実業家](https://ja.wikipedia.org/wiki/日本の実業家 "wikilink")、IT参謀
   - [箕崎准](../Page/箕崎准.md "wikilink")：作家、シナリオライター
 
 ## 備考
@@ -102,7 +102,7 @@
 
 [Category:新宿区の専修学校](https://ja.wikipedia.org/wiki/Category:新宿区の専修学校 "wikilink") [Category:東京都の私立学校](https://ja.wikipedia.org/wiki/Category:東京都の私立学校 "wikilink") [Category:名古屋市の専修学校](https://ja.wikipedia.org/wiki/Category:名古屋市の専修学校 "wikilink") [Category:愛知県の私立学校](https://ja.wikipedia.org/wiki/Category:愛知県の私立学校 "wikilink") [Category:中村区の学校](https://ja.wikipedia.org/wiki/Category:中村区の学校 "wikilink") [Category:大阪市北区の専修学校](https://ja.wikipedia.org/wiki/Category:大阪市北区の専修学校 "wikilink") [Category:大阪府の私立学校](https://ja.wikipedia.org/wiki/Category:大阪府の私立学校 "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")
 
-1.  仮称として使っていた「東京医専」の名前は[学校法人東京医科大学](https://ja.wikipedia.org/wiki/学校法人東京医科大学 "wikilink")が商標登録している関係で、正式名称は「首都医校」に変更された。
+1.  仮称として使っていた「東京医専」の名前は[学校法人東京医科大学](../Page/学校法人東京医科大学.md "wikilink")が商標登録している関係で、正式名称は「首都医校」に変更された。
 2.  <http://skyscraperpage.com/diagrams/?countryID=85>
 3.  <http://systemincome.com/main/kakugen/tag/%E5%92%8C%E7%94%B0%E5%A4%A7>
 4.  <http://www.hal.ac.jp/cross/crosspoint/detail.html?id=7962>

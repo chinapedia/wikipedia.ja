@@ -1,17 +1,17 @@
 > この記事は[ATOMISWAVE](https://ja.wikipedia.org/wiki/ATOMISWAVE)から翻訳されています。
 
 
-**ATOMISWAVE**（アトミスウェイブ）は、2003年に[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")が開発した業務用のシステム基板。[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")の描画チップと構造を基にしている。ソフトはROMカセットで供給する方式。
+**ATOMISWAVE**（アトミスウェイブ）は、2003年に[サミー](../Page/サミー.md "wikilink")が開発した業務用のシステム基板。[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")の描画チップと構造を基にしている。ソフトはROMカセットで供給する方式。
 
 ## 概要
 
-多くの機能は[NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")に類似しているが、ネットワークは標準対応になっている。また[VRAM](../Page/VRAM.md "wikilink")容量に対して[RAM容量がNAOMIより少なくなっており](../Page/Random_Access_Memory.md "wikilink")2D表示機能はNAOMIより若干劣る。
+多くの機能は[NAOMI](../Page/NAOMI.md "wikilink")に類似しているが、ネットワークは標準対応になっている。また[VRAM](../Page/VRAM.md "wikilink")容量に対して[RAM容量がNAOMIより少なくなっており](../Page/Random_Access_Memory.md "wikilink")2D表示機能はNAOMIより若干劣る。
 
-当初NAOMIに取って代わり、加えて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")時代の[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（旧社）が発売した多くのシリーズ作品を受け継いだことから[MVSの後継基板となることが予想され期待されていたが](https://ja.wikipedia.org/wiki/Multi_Video_System "wikilink")、前述の2D機能の弱さもあってヒット作に恵まれず、[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")とセガ（後の[セガホールディングス](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")）との経営統合後は一部を除きアーケードゲーム事業をセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）に一本化した関係上、本基板での開発は縮小傾向になり[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の『[メタルスラッグ](https://ja.wikipedia.org/wiki/メタルスラッグ "wikilink")6』の発売をもって開発終了となった（他に、元々NAOMI/Dreamcastの余剰部品をセガより譲り受けて作られたという経緯上、既に生産終了したチップを用いて製造していたことから、部品の在庫が尽きた時点で生産継続が出来なくなったという要因もある）。
+当初NAOMIに取って代わり、加えて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")時代の[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（旧社）が発売した多くのシリーズ作品を受け継いだことから[MVSの後継基板となることが予想され期待されていたが](../Page/Multi_Video_System.md "wikilink")、前述の2D機能の弱さもあってヒット作に恵まれず、[サミー](../Page/サミー.md "wikilink")とセガ（後の[セガホールディングス](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")）との経営統合後は一部を除きアーケードゲーム事業をセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）に一本化した関係上、本基板での開発は縮小傾向になり[2006年](../Page/2006年.md "wikilink")の『[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")6』の発売をもって開発終了となった（他に、元々NAOMI/Dreamcastの余剰部品をセガより譲り受けて作られたという経緯上、既に生産終了したチップを用いて製造していたことから、部品の在庫が尽きた時点で生産継続が出来なくなったという要因もある）。
 
-またAW-NETによるネットワークサービス展開も成功したとは言い難く、更にセガのタイトルを標的とした競合ソフトが多かった（ネットセレクトシリーズなど）関係もあり、同サービスに対応したゲームは2005年の『[ネオジオバトルコロシアム](https://ja.wikipedia.org/wiki/ネオジオバトルコロシアム "wikilink")』を最後にAW-NET自体も2006年[11月30日](../Page/11月30日.md "wikilink")で終了、現在AW-NET対応ソフトはすべてオフライン稼動となっている。
+またAW-NETによるネットワークサービス展開も成功したとは言い難く、更にセガのタイトルを標的とした競合ソフトが多かった（ネットセレクトシリーズなど）関係もあり、同サービスに対応したゲームは2005年の『[ネオジオバトルコロシアム](../Page/ネオジオバトルコロシアム.md "wikilink")』を最後にAW-NET自体も2006年[11月30日](../Page/11月30日.md "wikilink")で終了、現在AW-NET対応ソフトはすべてオフライン稼動となっている。
 
-なお、サミーはアトミスウエイブ用の汎用筐体にタイトーの「イーグレットIII」を採用しており、アトミスウエイブ用ソフトの開発終了後は[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")を[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の「[Taito Type X」に移行させている](https://ja.wikipedia.org/wiki/Taito_Type_X "wikilink")、その際セガとサミーのゲーム事業統合の際にセガがイーグレット筐体の在庫を大量に抱える原因となった。
+なお、サミーはアトミスウエイブ用の汎用筐体にタイトーの「イーグレットIII」を採用しており、アトミスウエイブ用ソフトの開発終了後は[サードパーティー](../Page/サードパーティー.md "wikilink")を[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の「[Taito Type X」に移行させている](../Page/Taito_Type_X.md "wikilink")、その際セガとサミーのゲーム事業統合の際にセガがイーグレット筐体の在庫を大量に抱える原因となった。
 
 2017年3月31日を以って修理サポートが終了\[1\]。
 
@@ -31,7 +31,7 @@
 
   - [CPU](../Page/CPU.md "wikilink") : [SH-4](../Page/SuperH.md "wikilink")（**200MHz**/360MIPS）
       - [浮動小数点演算能力](https://ja.wikipedia.org/wiki/浮動小数点演算能力 "wikilink") : 1.4GFLOPS
-  - [RAM](../Page/Random_Access_Memory.md "wikilink") : 16MB（[NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")は32MB、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")は16MB）
+  - [RAM](../Page/Random_Access_Memory.md "wikilink") : 16MB（[NAOMI](../Page/NAOMI.md "wikilink")は32MB、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")は16MB）
   - [VRAM](../Page/VRAM.md "wikilink") :16MB（NAOMIは16MB、ドリームキャストは8MB）
       - グラフィックスエンジン : Power VR2
       - ポリゴン描画能力 : 300万 - 500万/秒
@@ -45,7 +45,7 @@
 ## サードパーティー
 
   - [SNKプレイモア](../Page/SNK_\(2001年設立の企業\).md "wikilink")
-  - [アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")
+  - [アークシステムワークス](../Page/アークシステムワークス.md "wikilink")
   - [ディンプス](../Page/ディンプス.md "wikilink")
   - [IGS](https://ja.wikipedia.org/wiki/IGS_\(台湾企業\) "wikilink")
   - [ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")
@@ -60,21 +60,21 @@
   - デモリッシュ・フィスト（ディンプス/サミー）2003年
   - [三国戦紀 七星転生](https://ja.wikipedia.org/wiki/三国戦紀 "wikilink")（[IGS](https://ja.wikipedia.org/wiki/IGS_\(台湾企業\) "wikilink")/サミー）2003年
   - [GUILTY GEAR ISUKA](../Page/GUILTY_GEAR_ISUKA.md "wikilink")（アークシステムワークス/サミー）2003年 ※
-  - ネットセレクト [サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎 "wikilink")（サミー）2004年 ※
-  - [ザ・ランブルフィッシュ](https://ja.wikipedia.org/wiki/ザ・ランブルフィッシュ "wikilink")（ディンプス/サミー）2004年
+  - ネットセレクト [サラリーマン金太郎](../Page/サラリーマン金太郎.md "wikilink")（サミー）2004年 ※
+  - [ザ・ランブルフィッシュ](../Page/ザ・ランブルフィッシュ.md "wikilink")（ディンプス/サミー）2004年
   - [ザ・キング・オブ・ファイターズ WAVE](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")NEO（SNKプレイモア（実開発はノイズファクトリー）/サミー）2004年 ※
   - [ネットセレクト競馬 ビクトリーハロン](https://ja.wikipedia.org/wiki/ネットセレクト競馬_ビクトリーハロン "wikilink")（サミー）2005年 ※
   - ザ・ランブルフィッシュ2（ディンプス/サミー）2005年
-  - [ネオジオバトルコロシアム](https://ja.wikipedia.org/wiki/ネオジオバトルコロシアム "wikilink")（SNKプレイモア/セガ）2005年 ※
+  - [ネオジオバトルコロシアム](../Page/ネオジオバトルコロシアム.md "wikilink")（SNKプレイモア/セガ）2005年 ※
   - [サムライスピリッツ 天下一剣客伝](../Page/サムライスピリッツ.md "wikilink")（SNKプレイモア（実開発は[悠紀エンタープライズ](../Page/悠紀エンタープライズ.md "wikilink")）/セガ）2005年
   - [ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")XI（SNKプレイモア/セガ）2005年
   - [北斗の拳](../Page/北斗の拳_\(対戦型格闘ゲーム\).md "wikilink")（アークシステムワークス/セガ）2005年
-  - [メタルスラッグ](https://ja.wikipedia.org/wiki/メタルスラッグ "wikilink")6（SNKプレイモア/セガ）2006年
+  - [メタルスラッグ](../Page/メタルスラッグ.md "wikilink")6（SNKプレイモア/セガ）2006年
 
 <!-- end list -->
 
   -
-    サミーのセガ側への使用基板の迎合に加え、最大のサードパーティーであったSNKプレイモアの実質上撤退（同社の各シリーズタイトルは[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[Taito Type Xへ移行](https://ja.wikipedia.org/wiki/Taito_Type_X "wikilink")）により同作が日本における本基板の最終開発ソフトとなった。
+    サミーのセガ側への使用基板の迎合に加え、最大のサードパーティーであったSNKプレイモアの実質上撤退（同社の各シリーズタイトルは[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[Taito Type Xへ移行](../Page/Taito_Type_X.md "wikilink")）により同作が日本における本基板の最終開発ソフトとなった。
 
 ### 日本国外でのみ発売されたタイトル
 
@@ -94,7 +94,7 @@
   - プレミアイレブン（ディンプス/サミー）
   - とれとれ\!寿司（サミー）
   - FORCE FIVE（サミー）
-      - 2006年に[NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")プラットフォームでリリースされた『[仁義ストーム The Arcade](https://ja.wikipedia.org/wiki/仁義ストーム_The_Arcade "wikilink")』は同作品のソースコードを流用したものとされている。
+      - 2006年に[NAOMI](../Page/NAOMI.md "wikilink")プラットフォームでリリースされた『[仁義ストーム The Arcade](../Page/仁義ストーム_The_Arcade.md "wikilink")』は同作品のソースコードを流用したものとされている。
   - 拳獣 〜KENJU〜（ドリームファクトリー/サミー）
   - CHACE 1929（サミー）
 

@@ -1,9 +1,9 @@
 > この記事は[Junior Sweet](https://ja.wikipedia.org/wiki/Junior_Sweet)から翻訳されています。
 
 
-**Junior Sweet**（ジュニア・スウィート）は、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")の5枚目（[YEN TOWN BANDの](https://ja.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")「MONTAGE」を含めると6枚目）の音楽アルバム。
+**Junior Sweet**（ジュニア・スウィート）は、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")の5枚目（[YEN TOWN BANDの](../Page/YEN_TOWN_BAND.md "wikilink")「MONTAGE」を含めると6枚目）の音楽アルバム。
 
-アルバムとしては、自己最高の売り上げを誇りミリオンセラーを記録した。同アルバム収録曲『やさしい気持ち』は、[1997年のヒットソングとなりCHARAのシングルで最高位のオリコン](https://ja.wikipedia.org/wiki/1997年の音楽 "wikilink")7位を獲得。発売から約20年経った今も彼女の代表作としてみなされている。
+アルバムとしては、自己最高の売り上げを誇りミリオンセラーを記録した。同アルバム収録曲『やさしい気持ち』は、[1997年のヒットソングとなりCHARAのシングルで最高位のオリコン](../Page/1997年の音楽.md "wikilink")7位を獲得。発売から約20年経った今も彼女の代表作としてみなされている。
 
 ## 概要
 
@@ -38,7 +38,7 @@
 6.  **勝手にきた**
       - 作詞・作曲・編曲: Chara
 7.  **どこに行ったんだろう? あのバカは**
-      - 作詞: Chara/[土屋公平](https://ja.wikipedia.org/wiki/土屋公平 "wikilink")　作曲・編曲: 土屋公平
+      - 作詞: Chara/[土屋公平](../Page/土屋公平.md "wikilink")　作曲・編曲: 土屋公平
 8.  **私はかわいい人といわれたい** (オリジナル・ヴァージョン)
       - 作詞: Chara　作曲: Chara/[大沢伸一](../Page/大沢伸一.md "wikilink")　編曲: 大沢伸一
 9.  **Junior Sweet**
@@ -49,7 +49,7 @@
       - 作詞・作曲: Chara　編曲: Ashley Ingram
 12. **せつないもの**
       - 作詞・作曲・編曲: Chara
-      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ドラマ10](https://ja.wikipedia.org/wiki/ドラマ10 "wikilink")『[透明なゆりかご](https://ja.wikipedia.org/wiki/透明なゆりかご_産婦人科医院_看護師見習い日記#テレビドラマ "wikilink")』主題歌
+      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ドラマ10](../Page/ドラマ10.md "wikilink")『[透明なゆりかご](https://ja.wikipedia.org/wiki/透明なゆりかご_産婦人科医院_看護師見習い日記#テレビドラマ "wikilink")』主題歌
 
 ## 25th Anniversary Edition
 

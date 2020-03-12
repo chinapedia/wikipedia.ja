@@ -1,7 +1,7 @@
 > この記事は[Wyolica](https://ja.wikipedia.org/wiki/Wyolica)から翻訳されています。
 
 
-**wyolica**（ワイヨリカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")\[1\]\[2\]。1999年に[エピックレコードよりメジャーデビュー](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。[2013年](../Page/2013年.md "wikilink")に解散\[3\]\[4\]。
+**wyolica**（ワイヨリカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")\[1\]\[2\]。1999年に[エピックレコードよりメジャーデビュー](../Page/エピックレコードジャパン.md "wikilink")。[2013年](../Page/2013年.md "wikilink")に解散\[3\]\[4\]。
 
 デビュー20周年記念日の2019年5月21日に再結成を発表した。
 
@@ -15,7 +15,7 @@
 
 ## メンバー
 
-  - [azumi](https://ja.wikipedia.org/wiki/azumi "wikilink")（あづみ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当\[12\]
+  - [azumi](https://ja.wikipedia.org/wiki/azumi "wikilink")（あづみ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](../Page/作詞.md "wikilink")担当\[12\]
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - so-to（そーと） - [ギター](../Page/ギター.md "wikilink")・[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")・作詞・[作曲](../Page/作曲.md "wikilink")担当\[14\]
+  - so-to（そーと） - [ギター](../Page/ギター.md "wikilink")・[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")・作詞・[作曲](../Page/作曲.md "wikilink")担当\[14\]
 
 <!-- end list -->
 
@@ -39,15 +39,15 @@
 
 [2000年](../Page/2000年.md "wikilink")2月2日、大沢伸一プロデュースによる1st[アルバム](../Page/アルバム.md "wikilink")『who said "La La..."?』をリリース。5月、初のライヴ・ツアー、「who said "La La..."? tour 2000」を開催。
 
-[2001年](../Page/2001年.md "wikilink")11月、[Steady\&Co.](https://ja.wikipedia.org/wiki/Steady&Co. "wikilink")のアルバム『CHAMBERS』収録曲「Only Holy Story」に[azumi](https://ja.wikipedia.org/wiki/azumi "wikilink")が客演し、プロモーションビデオにも出演。12月5日、大沢伸一・[Ashley Ingram](https://ja.wikipedia.org/wiki/Ashley_Ingram "wikilink")・[藤本和則](../Page/藤本和則.md "wikilink")・[田中義人](../Page/田中義人.md "wikilink")・[福富幸宏](../Page/福富幸宏.md "wikilink")らのプロデューサー陣を迎えた2ndアルバム『almost blues』をリリース。
+[2001年](../Page/2001年.md "wikilink")11月、[Steady\&Co.](../Page/Steady&Co..md "wikilink")のアルバム『CHAMBERS』収録曲「Only Holy Story」に[azumi](https://ja.wikipedia.org/wiki/azumi "wikilink")が客演し、プロモーションビデオにも出演。12月5日、大沢伸一・[Ashley Ingram](https://ja.wikipedia.org/wiki/Ashley_Ingram "wikilink")・[藤本和則](../Page/藤本和則.md "wikilink")・[田中義人](../Page/田中義人.md "wikilink")・[福富幸宏](../Page/福富幸宏.md "wikilink")らのプロデューサー陣を迎えた2ndアルバム『almost blues』をリリース。
 
 2003年11月6日、セルフプロデュース楽曲を基軸に4枚のシングルを収録する他、[渡辺善太郎](https://ja.wikipedia.org/wiki/渡辺善太郎 "wikilink")、坂田学、エマーソン北村、[河野伸](../Page/河野伸.md "wikilink")らが参加した3rdアルバム『fruits & roots』をリリース。
 
 [2004年](../Page/2004年.md "wikilink")5月26日、デビュー5周年を記念してベストアルバム『wyolica Best Collection 1999-2004 〜ALL THE THINGS YOU ARE〜』を発売\[20\] 。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、wyolicaのネクスト・ステージへと向かうべく、活動を休止してヴォーカルazumiのソロデビュー、ギターso-toの作家活動とそれぞれのソロ活動を開始\[21\]。
+[2005年](../Page/2005年.md "wikilink")、wyolicaのネクスト・ステージへと向かうべく、活動を休止してヴォーカルazumiのソロデビュー、ギターso-toの作家活動とそれぞれのソロ活動を開始\[21\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月26日・8月27日、『[THE 夢人島 Fes.2006](https://ja.wikipedia.org/wiki/THE_夢人島_Fes. "wikilink")』に参加。
+[2006年](../Page/2006年.md "wikilink")8月26日・8月27日、『[THE 夢人島 Fes.2006](../Page/THE_夢人島_Fes..md "wikilink")』に参加。
 
 [2007年](../Page/2007年.md "wikilink")6月、約3年ぶりのシングル「星」を配信限定でリリース\[22\]。
 
@@ -97,7 +97,7 @@
 </ol>
 </div>
 </div></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エピックレコードジャパン" title="wikilink">EPIC Records Japan</a></p></td>
+<td><p><a href="../Page/エピックレコードジャパン.md" title="wikilink">EPIC Records Japan</a></p></td>
 <td><p>オリコン92位</p></td>
 </tr>
 <tr class="even">
@@ -112,7 +112,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>風をあつめて（作詞：so-to・<a href="https://ja.wikipedia.org/wiki/降谷建志" title="wikilink">降谷建志</a>、作曲：大沢伸一・so-to・降谷建志、編曲：大沢伸一）</li>
+<li>風をあつめて（作詞：so-to・<a href="../Page/降谷建志.md" title="wikilink">降谷建志</a>、作曲：大沢伸一・so-to・降谷建志、編曲：大沢伸一）</li>
 <li>speak like a child（作詞：azumi、作曲：so-to、編曲：大沢伸一）</li>
 <li>風をあつめて (Carlos Murphy Mix)</li>
 </ol>
@@ -260,7 +260,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>one wish（作詞・作曲：so-to、編曲：<a href="https://ja.wikipedia.org/wiki/SHAKKAZOMBIE" title="wikilink">TSUTCHIE</a>）</li>
+<li>one wish（作詞・作曲：so-to、編曲：<a href="../Page/SHAKKAZOMBIE.md" title="wikilink">TSUTCHIE</a>）</li>
 <li>mean to me（作詞：azumi、作曲：so-to、編曲：wyolica）</li>
 <li>ありがとう (walk me outside mix)</li>
 <li>one wish (<a href="https://ja.wikipedia.org/wiki/studio_Apartment" title="wikilink">studio Apartment</a> Remix Quatro Numero V)</li>
@@ -840,19 +840,19 @@
 ## 主なタイアップ
 
   - 『**さあいこう**』 - 映画『東京ゴミ女』エンディング、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[アナザヘブン](https://ja.wikipedia.org/wiki/アナザヘブン "wikilink")』挿入歌
-  - 『**Mercy Me〜いつか光を抱けるように〜**』 - テレビ朝日系 [金曜ナイトドラマ](https://ja.wikipedia.org/wiki/金曜ナイトドラマ "wikilink")『[スカイハイ](../Page/スカイハイ_\(漫画\).md "wikilink")』EDテーマ
+  - 『**Mercy Me〜いつか光を抱けるように〜**』 - テレビ朝日系 [金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")『[スカイハイ](../Page/スカイハイ_\(漫画\).md "wikilink")』EDテーマ
   - 『**恋文**』（CD未収録） - 映画『[恋文日和](../Page/恋文日和.md "wikilink")』エンディング
   - 『**ありがとう**』 - [集英社](../Page/集英社.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」CMソング、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[AX](../Page/AX.md "wikilink")」のテーマソング
   - 『**愛をうたえ**』 - 雑誌「イマージュ」CMソング
   - 『**空と風**』 - [NTTドコモ関西CMソング](../Page/エヌ・ティ・ティ・ドコモ関西.md "wikilink")
-  - 『**スパークル**』 - [京王グループ](https://ja.wikipedia.org/wiki/京王グループ "wikilink")企業CMソング
+  - 『**スパークル**』 - [京王グループ](../Page/京王グループ.md "wikilink")企業CMソング
   - 『**Sirius**』 - [ウェザーニュース](https://ja.wikipedia.org/wiki/ウェザーニュース "wikilink")内のお天気番組「SOLiVE24」の公式サポートソング（ソラウタ）冬バージョン
 
 ## 客演・楽曲提供
 
 azumi
 
-  - [Steady\&Co.](https://ja.wikipedia.org/wiki/Steady&Co. "wikilink") CHAMBERS (2001年11月28日)
+  - [Steady\&Co.](../Page/Steady&Co..md "wikilink") CHAMBERS (2001年11月28日)
       - [Only Holy Storyに作詞とヴォーカルで参加](https://ja.wikipedia.org/wiki/Only_Holy_Story "wikilink")。
 
 <!-- end list -->
@@ -867,12 +867,12 @@ azumi
 
 <!-- end list -->
 
-  - [Tama](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）Great Pleasure（2005年12月21日）
+  - [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）Great Pleasure（2005年12月21日）
       - 「Fuzz Butterfly」に作詞とヴォーカルでゲスト参加。
 
 <!-- end list -->
 
-  - [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink") NEW STANDARD（2008/02/27）,Love Story（2007/11/14）
+  - [SOFFet](../Page/SOFFet.md "wikilink") NEW STANDARD（2008/02/27）,Love Story（2007/11/14）
       - 『Love Story』にゲストボーカルとして参加
 
 <!-- end list -->
@@ -903,7 +903,7 @@ so-to
 
 <!-- end list -->
 
-  - [中孝介](https://ja.wikipedia.org/wiki/中孝介 "wikilink")　[ユライ花](../Page/ユライ花.md "wikilink") (2007年7月11日)
+  - [中孝介](../Page/中孝介.md "wikilink")　[ユライ花](../Page/ユライ花.md "wikilink") (2007年7月11日)
       - 「恋の栞」に作曲で参加
 
 <!-- end list -->

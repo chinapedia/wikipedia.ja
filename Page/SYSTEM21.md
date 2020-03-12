@@ -5,7 +5,7 @@
 
 ## 概要
 
-従来はグラフィックス表示に[PCGや](https://ja.wikipedia.org/wiki/プログラマブル・キャラクタ・ジェネレータ "wikilink")[スプライトを使用した](../Page/スプライト_\(映像技術\).md "wikilink")[ビットマップグラフィックスが主流であったのに対し](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")、本基板はビットマップ表示に加え、[ポリゴン](../Page/ポリゴン.md "wikilink")を使用した3Dグラフィックス表示を特徴とし、『[ウイニングラン](https://ja.wikipedia.org/wiki/ウィニングラン_\(コンピューターゲーム\) "wikilink")』ほかアーケードゲーム機がよりリアルな3D表示に移行するに至った存在である。なお、3Dポリゴン表示に特化して設計されたアーケードゲーム基板は本基板が初めてではなく、先行する基板として、米国[ATARI社の](../Page/アタリ_\(企業\).md "wikilink")1984年の作品である[I, Robotに用いられた専用基板がある](https://ja.wikipedia.org/wiki/:en:I,_Robot_\(arcade_game\) "wikilink")。
+従来はグラフィックス表示に[PCGや](https://ja.wikipedia.org/wiki/プログラマブル・キャラクタ・ジェネレータ "wikilink")[スプライトを使用した](../Page/スプライト_\(映像技術\).md "wikilink")[ビットマップグラフィックスが主流であったのに対し](../Page/ビットマップ画像.md "wikilink")、本基板はビットマップ表示に加え、[ポリゴン](../Page/ポリゴン.md "wikilink")を使用した3Dグラフィックス表示を特徴とし、『[ウイニングラン](https://ja.wikipedia.org/wiki/ウィニングラン_\(コンピューターゲーム\) "wikilink")』ほかアーケードゲーム機がよりリアルな3D表示に移行するに至った存在である。なお、3Dポリゴン表示に特化して設計されたアーケードゲーム基板は本基板が初めてではなく、先行する基板として、米国[ATARI社の](../Page/アタリ_\(企業\).md "wikilink")1984年の作品である[I, Robotに用いられた専用基板がある](https://ja.wikipedia.org/wiki/:en:I,_Robot_\(arcade_game\) "wikilink")。
 
 基板構成はメインプログラムやサブプログラム、通信制御、サウンドなどを担当する基板1枚と、画像用ワークRAM等が実装されている基板1枚、ビットマップグラフィックス表示を担当する基板1枚、ポリゴン表示計算などを行う基板1枚で、合計4枚となっている。音源周りやメインCPU、サブCPU周辺は[SYSTEM IIを踏襲した構成となっている](../Page/SYSTEM_II.md "wikilink")。
 
@@ -30,7 +30,7 @@
 
   - メインプログラムMPU：68HC000-12
   - サブプログラムMPU ：68HC000-12
-  - ポリゴン座標計算用[DSP](https://ja.wikipedia.org/wiki/デジタルシグナルプロセッサ "wikilink")：TMS320C25
+  - ポリゴン座標計算用[DSP](../Page/デジタルシグナルプロセッサ.md "wikilink")：TMS320C25
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 [thumbのものである](https://ja.wikipedia.org/wiki/ファイル:C140_3.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamaha_YM2151.PNG "wikilink")
 
   - サウンド制御：68B09E
-  - [FM音源](../Page/FM音源.md "wikilink")：[YM2151](https://ja.wikipedia.org/wiki/YM2151 "wikilink")(OPM)
+  - [FM音源](../Page/FM音源.md "wikilink")：[YM2151](../Page/YM2151.md "wikilink")(OPM)
   - FM音源用D/Aコンバータ：YM3012(ステレオ出力)
   - [PCM音源](../Page/PCM音源.md "wikilink")：C140(カスタムチップ)
   - PCM音源用D/Aコンバータ：LC7880
@@ -94,13 +94,13 @@
 
 ## 使用ゲーム
 
-  - [ウイニングラン](https://ja.wikipedia.org/wiki/ウイニングラン_\(コンピューターゲーム\) "wikilink") (1989年)
+  - [ウイニングラン](../Page/ウイニングラン_\(コンピューターゲーム\).md "wikilink") (1989年)
       - ウイニングラン 鈴鹿グランプリ (1989年)
       - ウイニングラン'91 ([1991年](../Page/1991年.md "wikilink"))
   - ドライバーズアイ (1991年?)
   - [ソルバルウ](../Page/ソルバルウ.md "wikilink") (1991年)
-  - [スターブレード](https://ja.wikipedia.org/wiki/スターブレード "wikilink") (1991年)
-  - [ギャラクシアン<sup>3</sup> プロジェクトドラグーン（シアター6筐体版）](https://ja.wikipedia.org/wiki/ギャラクシアン3 "wikilink") (1993年) -ゲーム部分のみに使用\[1\]。
+  - [スターブレード](../Page/スターブレード.md "wikilink") (1991年)
+  - [ギャラクシアン<sup>3</sup> プロジェクトドラグーン（シアター6筐体版）](../Page/ギャラクシアン3.md "wikilink") (1993年) -ゲーム部分のみに使用\[1\]。
       - ギャラクシアン<sup>3</sup> アタック オブ ザ ゾルギア ([1994年](../Page/1994年.md "wikilink")) -同上。
   - [エアーコンバット](https://ja.wikipedia.org/wiki/エアーコンバット "wikilink") ([1993年](../Page/1993年.md "wikilink"))
   - [サイバースレッド](https://ja.wikipedia.org/wiki/サイバースレッド "wikilink") (1993年)

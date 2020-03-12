@@ -5,19 +5,19 @@
 
 ## パーソナリティ
 
-[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")所属の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")や[歌手](../Page/歌手.md "wikilink")が、各曜日交代で出演。
+[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")所属の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")や[歌手](../Page/歌手.md "wikilink")が、各曜日交代で出演。
 
-  - 月曜：[中島卓偉](https://ja.wikipedia.org/wiki/中島卓偉 "wikilink")（2011年1月 - 終了、開始から2010年3月まで木曜担当）
+  - 月曜：[中島卓偉](../Page/中島卓偉.md "wikilink")（2011年1月 - 終了、開始から2010年3月まで木曜担当）
   - 火曜：[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（2009年10月 - 終了）
 
 <!-- end list -->
 
   -
-    メインパーソナリティは[中島早貴](https://ja.wikipedia.org/wiki/中島早貴 "wikilink")。他の4名のメンバーは2週ごとに交代で出演。
+    メインパーソナリティは[中島早貴](../Page/中島早貴.md "wikilink")。他の4名のメンバーは2週ごとに交代で出演。
 
 <!-- end list -->
 
-  - 水曜：[前田憂佳](https://ja.wikipedia.org/wiki/前田憂佳 "wikilink")・[福田花音](https://ja.wikipedia.org/wiki/福田花音 "wikilink")（[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）（2010年3月 - 終了）
+  - 水曜：[前田憂佳](../Page/前田憂佳.md "wikilink")・[福田花音](../Page/福田花音.md "wikilink")（[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）（2010年3月 - 終了）
   - 木曜：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")（2011年1月 - 終了）
 
 <!-- end list -->
@@ -48,7 +48,7 @@
 
   - [松浦亜弥](../Page/松浦亜弥.md "wikilink")（2007年10月 - 2009年9月、火曜担当）
   - [田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")（モーニング娘。）（2007年10月 - 2010年2月、水曜担当)
-  - [Emyli](https://ja.wikipedia.org/wiki/Emyli "wikilink")（2007年10月 - 2008年6月、金曜担当）
+  - [Emyli](../Page/Emyli.md "wikilink")（2007年10月 - 2008年6月、金曜担当）
 
 ## コーナー
 

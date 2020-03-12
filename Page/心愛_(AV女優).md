@@ -3,23 +3,23 @@
 
 **心愛**（ここあ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月30日](../Page/8月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
-[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型:O型。身長:155cm。スリーサイズ:[B](https://ja.wikipedia.org/wiki/バスト "wikilink")80(C)・[W](https://ja.wikipedia.org/wiki/腰 "wikilink")58・[H](https://ja.wikipedia.org/wiki/尻 "wikilink")83。
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型:O型。身長:155cm。スリーサイズ:[B](../Page/バスト.md "wikilink")80(C)・[W](../Page/腰.md "wikilink")58・[H](../Page/尻.md "wikilink")83。
 
 ## 略歴・人物
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に『新人×ギリギリモザイク』でAVデビュー。
+[2005年](../Page/2005年.md "wikilink")に『新人×ギリギリモザイク』でAVデビュー。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")頃に引退。
+[2006年](../Page/2006年.md "wikilink")頃に引退。
 
 ## 出演作品
 
 ### アダルトビデオ
 
-  - 新人×ギリモザ 新人ギリギリモザイク （2005年4月11日、[エスワン](https://ja.wikipedia.org/wiki/エスワン "wikilink")）
+  - 新人×ギリモザ 新人ギリギリモザイク （2005年4月11日、[エスワン](../Page/エスワン.md "wikilink")）
   - ギリモザ かわいい心愛の大胆セックス （2005年5月7日、エスワン）
   - ギリギリモザイク 僕だけの心愛 （2005年7月19日、エスワン）
   - ギリギリモザイク 妄想的特殊浴場 本指名 心愛 （2005年8月7日、エスワン）
-  - 私立セックス学園 おまんこ科 （2005年10月13日、[MOODYZ](https://ja.wikipedia.org/wiki/MOODYZ "wikilink")）
+  - 私立セックス学園 おまんこ科 （2005年10月13日、[MOODYZ](../Page/MOODYZ.md "wikilink")）
   - ドリームウーマンVol.53 （2005年11月13日、MOODYZ）
   - 心愛×ギリギリモザイク 心愛 COLLECTION 1 （2005年12月7日、エスワン） ※総集編
   - 失禁エロス （2005年12月13日、MOODYZ）

@@ -1,11 +1,11 @@
 > この記事は[I-Space](https://ja.wikipedia.org/wiki/I-Space)から翻訳されています。
 
 
-**i-Space**（アイ・スペース）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA)（現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA)）が提唱していた、[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")を利用した宇宙[インフラ構想である](https://ja.wikipedia.org/wiki/インフラストラクチャー "wikilink")。
+**i-Space**（アイ・スペース）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA)（現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA)）が提唱していた、[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")を利用した宇宙[インフラ構想である](../Page/インフラストラクチャー.md "wikilink")。
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")に政府が策定した[e-Japan](https://ja.wikipedia.org/wiki/e-Japan "wikilink")戦略およびe-Japan重点計画において、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")までに高速インターネット衛星を打ち上げ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")を目処に実用化することが掲げられた。 これを受けて、当時のNASDAは既存の人工衛星計画を再整理して、将来の宇宙インフラ構想**i-Space**としてまとめ上げた。
+[2001年](../Page/2001年.md "wikilink")に政府が策定した[e-Japan](https://ja.wikipedia.org/wiki/e-Japan "wikilink")戦略およびe-Japan重点計画において、[2005年](../Page/2005年.md "wikilink")までに高速インターネット衛星を打ち上げ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")を目処に実用化することが掲げられた。 これを受けて、当時のNASDAは既存の人工衛星計画を再整理して、将来の宇宙インフラ構想**i-Space**としてまとめ上げた。
 
 i-Spaceでは、以下の3種類の衛星を用いて、実用化に向けての実験が行われる。
 
@@ -23,11 +23,11 @@ i-Spaceでは、以下の3種類の衛星を用いて、実用化に向けての
 
 ### きく8号
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月に打ち上げられたが、受信側アンテナの増幅器電源の不具合により、小型携帯端末のみでの通信ができず、外部大型アンテナが必要な状態となっている。
+[2006年](../Page/2006年.md "wikilink")12月に打ち上げられたが、受信側アンテナの増幅器電源の不具合により、小型携帯端末のみでの通信ができず、外部大型アンテナが必要な状態となっている。
 
 ### きずな
 
-きずなは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月23日に打ち上げられた。既に日本国内の大半の地域では[ADSL](../Page/ADSL.md "wikilink")や[光ファイバー](https://ja.wikipedia.org/wiki/光ファイバー "wikilink")を用いた高速通信が一般家庭で実現されており、主に災害時におけるバックアップや、アジア・太平洋地域における利用が想定されていた。
+きずなは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月23日に打ち上げられた。既に日本国内の大半の地域では[ADSL](../Page/ADSL.md "wikilink")や[光ファイバー](../Page/光ファイバー.md "wikilink")を用いた高速通信が一般家庭で実現されており、主に災害時におけるバックアップや、アジア・太平洋地域における利用が想定されていた。
 
 2011年の東日本大震災の際、JAXAは3月20日から4月24日までの間、災害対策支援として岩手県庁の災害対策本部と、[釜石市](../Page/釜石市.md "wikilink")及び[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")の現地対策本部との間に「きずな」を用いたブロードバンド環境を構築し、ハイビジョンTV会議や無線LANなどが利用できる環境を提供し、その実用性を示した\[1\]。
 

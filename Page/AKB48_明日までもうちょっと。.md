@@ -1,13 +1,13 @@
 > この記事は[AKB48 ](https://ja.wikipedia.org/wiki/AKB48_)から翻訳されています。
 
 
-**AKB48 明日までもうちょっと。**（エーケービーフォーティエイト あすまでもうちょっと）は、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（出演メンバーは週替わり）と[K太郎が](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[レコメン\!](../Page/レコメン!.md "wikilink")』内の[フロート番組](https://ja.wikipedia.org/wiki/フロート番組 "wikilink")で、毎週[月曜日](../Page/月曜日.md "wikilink")23:35 - 23:50[JST](../Page/日本標準時.md "wikilink")。他6局で放送。[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始、[2012年](../Page/2012年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")終了。略称「あすもちょ」。
+**AKB48 明日までもうちょっと。**（エーケービーフォーティエイト あすまでもうちょっと）は、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（出演メンバーは週替わり）と[K太郎が](../Page/砂山圭大郎.md "wikilink")[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[レコメン\!](../Page/レコメン!.md "wikilink")』内の[フロート番組](../Page/フロート番組.md "wikilink")で、毎週[月曜日](../Page/月曜日.md "wikilink")23:35 - 23:50[JST](../Page/日本標準時.md "wikilink")。他6局で放送。[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始、[2012年](../Page/2012年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")終了。略称「あすもちょ」。
 
 ## 概要
 
-[地上デジタル音声放送](https://ja.wikipedia.org/wiki/地上デジタル音声放送 "wikilink")実用化試験局及びインターネットストリーミングの「[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")」でも、同年10月から多くの地方で放送されている30分に再編集したバージョンを放送中（地上デジタル音声放送分は2011年3月の全試験局廃局により終了）。
+[地上デジタル音声放送](../Page/地上デジタル音声放送.md "wikilink")実用化試験局及びインターネットストリーミングの「[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")」でも、同年10月から多くの地方で放送されている30分に再編集したバージョンを放送中（地上デジタル音声放送分は2011年3月の全試験局廃局により終了）。
 
-  - 2007年10月3日 - 2009年4月1日は毎週[水曜日](../Page/水曜日.md "wikilink")21:00 - 21:30、毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")11:00 - 11:30リピート放送。
+  - 2007年10月3日 - 2009年4月1日は毎週[水曜日](../Page/水曜日.md "wikilink")21:00 - 21:30、毎週[木曜日](../Page/木曜日.md "wikilink")11:00 - 11:30リピート放送。
   - 2009年4月10日 - 2010年10月1日は毎週[金曜日](../Page/金曜日.md "wikilink")深夜0:30 - 1:00、翌週の月曜日12:30 - 13:00リピート放送。
   - 2010年10月6日 - 2011年3月30日は本放送が水曜日24:00-24:30、リピートは毎週木曜日12:00-12:30。
   - 2011年4月10日 - は毎週日曜日24:00-24:30に移動、初めてリピート放送が無くなった。
@@ -55,16 +55,16 @@
 <tr class="odd">
 <td><p>2007年10月</p></td>
 <td><p>1日・<a href="https://ja.wikipedia.org/wiki/前田敦子" title="wikilink">前田敦子</a></p></td>
-<td><p>8日・<a href="https://ja.wikipedia.org/wiki/大島麻衣" title="wikilink">大島麻衣</a></p></td>
+<td><p>8日・<a href="../Page/大島麻衣.md" title="wikilink">大島麻衣</a></p></td>
 <td><p>15日・<a href="https://ja.wikipedia.org/wiki/篠田麻里子" title="wikilink">篠田麻里子</a></p></td>
-<td><p>22日・<a href="https://ja.wikipedia.org/wiki/戸島花" title="wikilink">戸島花</a></p></td>
+<td><p>22日・<a href="../Page/戸島花.md" title="wikilink">戸島花</a></p></td>
 <td><p>29日・<a href="https://ja.wikipedia.org/wiki/大島優子" title="wikilink">大島優子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年11月</p></td>
 <td><p>5日・<a href="https://ja.wikipedia.org/wiki/小嶋陽菜" title="wikilink">小嶋陽菜</a></p></td>
 <td><p>12日・<a href="https://ja.wikipedia.org/wiki/峯岸みなみ" title="wikilink">峯岸みなみ</a></p></td>
-<td><p>19日・<a href="https://ja.wikipedia.org/wiki/川崎希" title="wikilink">川崎希</a></p></td>
+<td><p>19日・<a href="../Page/川崎希.md" title="wikilink">川崎希</a></p></td>
 <td><p>26日・大島麻衣</p></td>
 <td><center>
 <p>-</p>
@@ -159,7 +159,7 @@
 <td><p>1日・篠田麻里子</p></td>
 <td><p>8日・戸島花</p></td>
 <td><p>15日・秋元才加</p></td>
-<td><p>22日・<a href="https://ja.wikipedia.org/wiki/大堀恵" title="wikilink">大堀恵</a></p></td>
+<td><p>22日・<a href="../Page/大堀恵.md" title="wikilink">大堀恵</a></p></td>
 <td><p>29日・前田敦子</p></td>
 </tr>
 <tr class="odd">
@@ -230,7 +230,7 @@
 </tr>
 <tr class="even">
 <td><p>2009年5月</p></td>
-<td><p>4日・<a href="https://ja.wikipedia.org/wiki/宮澤佐江" title="wikilink">宮澤佐江</a></p></td>
+<td><p>4日・<a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a></p></td>
 <td><p>11日・<a href="../Page/倉持明日香.md" title="wikilink">倉持明日香</a></p></td>
 <td><p>18日・前田敦子</p></td>
 <td><p>25日・高橋みなみ</p></td>
@@ -243,7 +243,7 @@
 <td><p>1日・前田敦子</p></td>
 <td><p>8日・大島優子</p></td>
 <td><p>15日・秋元才加</p></td>
-<td><p>22日・<a href="https://ja.wikipedia.org/wiki/北原里英" title="wikilink">北原里英</a></p></td>
+<td><p>22日・<a href="../Page/北原里英.md" title="wikilink">北原里英</a></p></td>
 <td><p>29日・秋元才加</p></td>
 </tr>
 <tr class="even">
@@ -402,11 +402,11 @@
 <td><p>8日・宮澤佐江</p></td>
 <td><p>15日・高橋みなみ</p></td>
 <td><p>22日・渡辺麻友</p></td>
-<td><p>29日・<a href="https://ja.wikipedia.org/wiki/石田晴香" title="wikilink">石田晴香</a></p></td>
+<td><p>29日・<a href="../Page/石田晴香.md" title="wikilink">石田晴香</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年12月</p></td>
-<td><p>6日・<a href="https://ja.wikipedia.org/wiki/内田眞由美" title="wikilink">内田眞由美</a></p></td>
+<td><p>6日・<a href="../Page/内田眞由美.md" title="wikilink">内田眞由美</a></p></td>
 <td><p>13日・大家志津香</p></td>
 <td><p>20日・指原莉乃</p></td>
 <td><p>27日・指原莉乃</p></td>
@@ -476,14 +476,14 @@
 大島優子<br />
 秋元才加<br />
 野呂佳代<br />
-<a href="https://ja.wikipedia.org/wiki/佐藤夏希" title="wikilink">佐藤夏希</a></p></td>
+<a href="../Page/佐藤夏希.md" title="wikilink">佐藤夏希</a></p></td>
 <td><p>8日<br />
 大島優子<br />
-<a href="https://ja.wikipedia.org/wiki/河西智美" title="wikilink">河西智美</a><br />
+<a href="../Page/河西智美.md" title="wikilink">河西智美</a><br />
 宮澤佐江<br />
 <a href="https://ja.wikipedia.org/wiki/小野恵令奈" title="wikilink">小野恵令奈</a></p></td>
 <td><p>15日<br />
-<a href="https://ja.wikipedia.org/wiki/佐藤由加理" title="wikilink">佐藤由加理</a><br />
+<a href="../Page/佐藤由加理.md" title="wikilink">佐藤由加理</a><br />
 板野友美<br />
 河西智美<br />
 大堀恵</p></td>
@@ -494,14 +494,14 @@
 小野恵令奈</p></td>
 <td><p>29日<br />
 前田敦子<br />
-<a href="https://ja.wikipedia.org/wiki/成田梨紗" title="wikilink">成田梨紗</a><br />
+<a href="../Page/成田梨紗.md" title="wikilink">成田梨紗</a><br />
 高橋みなみ<br />
 峯岸みなみ</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年11月</p></td>
 <td><p>5日<br />
-<a href="https://ja.wikipedia.org/wiki/駒谷仁美" title="wikilink">駒谷仁美</a><br />
+<a href="../Page/駒谷仁美.md" title="wikilink">駒谷仁美</a><br />
 前田敦子<br />
 <a href="https://ja.wikipedia.org/wiki/増田有華" title="wikilink">増田有華</a></p></td>
 <td><p>12日<br />
@@ -510,9 +510,9 @@
 河西智美<br />
 <a href="https://ja.wikipedia.org/wiki/松原夏海" title="wikilink">松原夏海</a></p></td>
 <td><p>19日<br />
-<a href="https://ja.wikipedia.org/wiki/浦野一美" title="wikilink">浦野一美</a><br />
+<a href="../Page/浦野一美.md" title="wikilink">浦野一美</a><br />
 宮澤佐江<br />
-<a href="https://ja.wikipedia.org/wiki/小林香菜" title="wikilink">小林香菜</a><br />
+<a href="../Page/小林香菜.md" title="wikilink">小林香菜</a><br />
 秋元才加</p></td>
 <td><p>26日<br />
 小嶋陽菜<br />
@@ -579,7 +579,7 @@
 宮澤佐江<br />
 大島優子<br />
 <a href="https://ja.wikipedia.org/wiki/早乃香織" title="wikilink">早野薫</a><br />
-<a href="https://ja.wikipedia.org/wiki/奥真奈美" title="wikilink">奥真奈美</a></p></td>
+<a href="../Page/奥真奈美.md" title="wikilink">奥真奈美</a></p></td>
 <td><p>11日<br />
 篠田麻里子<br />
 戸島花<br />
@@ -622,7 +622,7 @@
 川崎希<br />
 大堀恵</p></td>
 <td><p>31日<br />
-<a href="https://ja.wikipedia.org/wiki/梅田彩佳" title="wikilink">梅田彩佳</a><br />
+<a href="../Page/梅田彩佳.md" title="wikilink">梅田彩佳</a><br />
 戸島花<br />
 篠田麻里子<br />
 小林香菜</p></td>
@@ -648,7 +648,7 @@
 菊地あやか<br />
 柏木由紀<br />
 <a href="https://ja.wikipedia.org/wiki/平嶋夏海" title="wikilink">平嶋夏海</a><br />
-<a href="https://ja.wikipedia.org/wiki/佐伯美香_(AKB48)" title="wikilink">佐伯美香</a></p></td>
+<a href="../Page/佐伯美香_(AKB48).md" title="wikilink">佐伯美香</a></p></td>
 <td><center>
 <p>-</p>
 </center></td>
@@ -664,7 +664,7 @@
 高橋みなみ<br />
 峯岸みなみ<br />
 板野友美<br />
-<a href="https://ja.wikipedia.org/wiki/中西里菜" title="wikilink">中西里菜</a></p></td>
+<a href="../Page/中西里菜.md" title="wikilink">中西里菜</a></p></td>
 <td><p>19日<br />
 小嶋陽菜<br />
 篠田麻里子<br />
@@ -767,7 +767,7 @@
 <td><p>8日<br />
 篠田麻里子<br />
 駒谷仁美<br />
-<a href="https://ja.wikipedia.org/wiki/小原春香" title="wikilink">小原春香</a><br />
+<a href="../Page/小原春香.md" title="wikilink">小原春香</a><br />
 指原莉乃</p></td>
 <td><p>15日<br />
 梅田彩佳<br />
@@ -801,7 +801,7 @@
 河西智美<br />
 奥真奈美<br />
 北原里英<br />
-<a href="https://ja.wikipedia.org/wiki/仁藤萌乃" title="wikilink">仁藤萌乃</a></p></td>
+<a href="../Page/仁藤萌乃.md" title="wikilink">仁藤萌乃</a></p></td>
 <td><p>27日<br />
 渡辺麻友<br />
 柏木由紀<br />
@@ -1108,7 +1108,7 @@
 倉持明日香<br />
 多田愛佳<br />
 松原夏海<br />
-<a href="https://ja.wikipedia.org/wiki/中塚智実" title="wikilink">中塚智実</a></p></td>
+<a href="../Page/中塚智実.md" title="wikilink">中塚智実</a></p></td>
 <td><p>12日<br />
 渡辺麻友<br />
 仲川遥香<br />
@@ -1309,7 +1309,7 @@
 前田敦子<br />
 指原莉乃<br />
 仲谷明香<br />
-<a href="https://ja.wikipedia.org/wiki/大家志津香" title="wikilink">大家志津香</a><br />
+<a href="../Page/大家志津香.md" title="wikilink">大家志津香</a><br />
 </p></td>
 <td><p>31日<br />
 秋元才加<br />
@@ -1506,7 +1506,7 @@
 松原夏海<br />
 増田有華<br />
 仁藤萌乃<br />
-<a href="https://ja.wikipedia.org/wiki/野中美郷" title="wikilink">野中美郷</a></p></td>
+<a href="../Page/野中美郷.md" title="wikilink">野中美郷</a></p></td>
 <td><center>
 <p>-</p>
 </center></td>
@@ -1604,7 +1604,7 @@
 
 ### 教官
 
-  - [K太郎](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")
+  - [K太郎](../Page/砂山圭大郎.md "wikilink")
 
 ### 動画コーナー『AKB48 明日までもういっちょ』
 
@@ -2045,7 +2045,7 @@
 ### 2010年10月から放送のラジオ局
 
   - [山形放送](../Page/山形放送.md "wikilink")（YBC）：日曜日21:00 - 21:30 ※2007年10月 - 2008年3月までは、日曜日23:00 - 23:30、2008年10月 - 2009年3月までは、水曜日21:00 - 21:30に放送。
-  - [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink")（IBS）：月曜日21:30 - 22:00 ※2008年10月 - 2009年3月までは、日曜日16:20 - 16:50に放送。2009年度ナイターオフはネットせず。
+  - [茨城放送](../Page/茨城放送.md "wikilink")（IBS）：月曜日21:30 - 22:00 ※2008年10月 - 2009年3月までは、日曜日16:20 - 16:50に放送。2009年度ナイターオフはネットせず。
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（SF）：日曜日21:30 - 22:00\[6\]
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）：土曜日20:00 - 20:30
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（RSK）：日曜日21:30 - 22:00
@@ -2058,7 +2058,7 @@
 ### 過去にネットされていたラジオ局
 
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")（rfc）：土曜日22:30 - 23:00（2010年10月 - 2011年3月）
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")（OBC）：月曜日23:30 - 24:00
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC）：月曜日23:30 - 24:00
   - [西日本放送](../Page/西日本放送.md "wikilink")（RNC）：日曜日21:30 - 22:00（2007年10月 - 2008年3月）
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）：土曜日22:30 - 23:00
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB）：日曜日22:30 - 23:00（2010年10月 - 2011年3月）

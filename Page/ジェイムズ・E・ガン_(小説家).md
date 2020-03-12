@@ -1,17 +1,17 @@
 > この記事は[E \(\)](https://ja.wikipedia.org/wiki/E_\(\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:James_Gunn_writer.jpg "wikilink") **ジェイムズ・エドウィン・ガン**（James Edwin Gunn、[1923年](../Page/1923年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")、編集者 、文学研究家 である。[ミズーリ州](../Page/ミズーリ州.md "wikilink")[カンザス・シティ出身](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")。彼の作品では、[1960年代](../Page/1960年代.md "wikilink")と[1970年代](../Page/1970年代.md "wikilink")のものが代表作と見なされている。また彼の編纂した選集"Road to Science Fiction"は、学術面での代表作だと見なされている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:James_Gunn_writer.jpg "wikilink") **ジェイムズ・エドウィン・ガン**（James Edwin Gunn、[1923年](../Page/1923年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、編集者 、文学研究家 である。[ミズーリ州](../Page/ミズーリ州.md "wikilink")[カンザス・シティ出身](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")。彼の作品では、[1960年代](../Page/1960年代.md "wikilink")と[1970年代](../Page/1970年代.md "wikilink")のものが代表作と見なされている。また彼の編纂した選集"Road to Science Fiction"は、学術面での代表作だと見なされている。
 
 ガンは、[アイザック・アシモフ](../Page/アイザック・アシモフ.md "wikilink")に関する研究書"The Foundations of Science Fiction"で1983年度[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")ノンフィクション書籍部門を受賞した。2007年、[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink") (SFWA) は[デーモン・ナイト記念グランド・マスター賞](https://ja.wikipedia.org/wiki/デーモン・ナイト記念グランド・マスター賞 "wikilink")を授与した。
 
-1990年6月には日本・台湾・シンガポール旅行で訪日し、夫人の所望した「豆腐料理の本」を入手したが、夫人が後から所望した「[博多人形](https://ja.wikipedia.org/wiki/博多人形 "wikilink")」は1997年の北京国際科幻大会で日本[ファンダム](https://ja.wikipedia.org/wiki/ファンダム "wikilink")からという形で贈られている（創作同人誌「[宇宙塵](https://ja.wikipedia.org/wiki/宇宙塵_\(同人誌\) "wikilink")」190号以後の記録による）。
+1990年6月には日本・台湾・シンガポール旅行で訪日し、夫人の所望した「豆腐料理の本」を入手したが、夫人が後から所望した「[博多人形](../Page/博多人形.md "wikilink")」は1997年の北京国際科幻大会で日本[ファンダム](../Page/ファンダム.md "wikilink")からという形で贈られている（創作同人誌「[宇宙塵](../Page/宇宙塵_\(同人誌\).md "wikilink")」190号以後の記録による）。
 
 日本語表記はジェイムズ・E・ガン（[東京創元社](../Page/東京創元社.md "wikilink")）のほかにジェームズ・E・ガン（[早川書房](../Page/早川書房.md "wikilink")、[講談社](../Page/講談社.md "wikilink")）など。ミドルネームは通常、"E"と略される。日本では長編『不老不死の血』"The Immortals" 、短編「女嫌い」"The Misogynist"(1952) が有名。
 
 ## 経歴
 
-ガンは[カンザス大学](https://ja.wikipedia.org/wiki/カンザス大学 "wikilink")に通って1947年に報道科学 (Science in Journalism) で学士号を、1951年に英語美術 (Arts in English) で修士号を取得した。その後、第二次世界大戦の間はアメリカ海軍で軍務に就いた。ガンは、次にはカンザス大学の学部教員 になり、広報活動の代表者およびSFと小説作法を専門とする英語の教授として働いた。彼は現在[名誉教授](../Page/名誉教授.md "wikilink")であり、サイエンス・フィクション研究センター (Center for the Study of Science Fiction。[ジョン・W・キャンベル記念賞](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル記念賞 "wikilink")を決定し、[シオドア・スタージョン記念賞](../Page/シオドア・スタージョン記念賞.md "wikilink")を毎年6月にカンザス州ローレンスでのキャンベル会談 (Campbell Conference) にて授賞する機関）の長である。
+ガンは[カンザス大学](../Page/カンザス大学.md "wikilink")に通って1947年に報道科学 (Science in Journalism) で学士号を、1951年に英語美術 (Arts in English) で修士号を取得した。その後、第二次世界大戦の間はアメリカ海軍で軍務に就いた。ガンは、次にはカンザス大学の学部教員 になり、広報活動の代表者およびSFと小説作法を専門とする英語の教授として働いた。彼は現在[名誉教授](../Page/名誉教授.md "wikilink")であり、サイエンス・フィクション研究センター (Center for the Study of Science Fiction。[ジョン・W・キャンベル記念賞](../Page/ジョン・W・キャンベル記念賞.md "wikilink")を決定し、[シオドア・スタージョン記念賞](../Page/シオドア・スタージョン記念賞.md "wikilink")を毎年6月にカンザス州ローレンスでのキャンベル会談 (Campbell Conference) にて授賞する機関）の長である。
 
 彼は1971年から72年にかけてSFWAの会長を、80年から82年にかけてはSF研究協会 (Science Fiction Research Association) の会長を務めた。SFWAはガンに2007年度SFグランド・マスターの栄誉を与えた。
 

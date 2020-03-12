@@ -42,7 +42,7 @@
     DJ：[松任谷由実](../Page/松任谷由実.md "wikilink")
       -
         [2004年](../Page/2004年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")〜[9月26日](../Page/9月26日.md "wikilink")
-        番組は「[松任谷由実 Sweet Discovery](https://ja.wikipedia.org/wiki/松任谷由実_Sweet_Discovery "wikilink")」として、時間を移して継続中。17時台は2006年4月から[NISSAN あ、安部礼司〜BEYOND THE AVERAGEが放送中](https://ja.wikipedia.org/wiki/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE "wikilink")。
+        番組は「[松任谷由実 Sweet Discovery](../Page/松任谷由実_Sweet_Discovery.md "wikilink")」として、時間を移して継続中。17時台は2006年4月から[NISSAN あ、安部礼司〜BEYOND THE AVERAGEが放送中](../Page/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE.md "wikilink")。
 
 ### 18時台に放送されていた番組
 

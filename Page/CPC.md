@@ -9,15 +9,15 @@
 
   - [カナダ共産党](https://ja.wikipedia.org/wiki/カナダ共産党 "wikilink") ([:en:Communist Party of Canada](https://ja.wikipedia.org/wiki/:en:Communist_Party_of_Canada "wikilink"))
   - [カナダ共産党 (マルクスレーニン主義)](https://ja.wikipedia.org/wiki/カナダ共産党_\(マルクスレーニン主義\) "wikilink") ([Communist Party of Canada (Marxist-Leninist)](https://ja.wikipedia.org/wiki/:en:Communist_Party_of_Canada_\(Marxist-Leninist\) "wikilink"))
-  - [カナダ保守党](https://ja.wikipedia.org/wiki/カナダ保守党 "wikilink") (Conservative Party of Canada)
+  - [カナダ保守党](../Page/カナダ保守党.md "wikilink") (Conservative Party of Canada)
   - [中国共産党](../Page/中国共産党.md "wikilink") (Communist Party of China)
-  - [チェコスロバキア共産党](https://ja.wikipedia.org/wiki/チェコスロバキア共産党 "wikilink") ([Communist Party of Czechoslovakia](https://ja.wikipedia.org/wiki/:en:Communist_Party_of_Czechoslovakia "wikilink"))
+  - [チェコスロバキア共産党](../Page/チェコスロバキア共産党.md "wikilink") ([Communist Party of Czechoslovakia](https://ja.wikipedia.org/wiki/:en:Communist_Party_of_Czechoslovakia "wikilink"))
 
 ### 会社
 
   - [国際民間航空機関](../Page/国際民間航空機関.md "wikilink")による[カナダ太平洋航空](https://ja.wikipedia.org/wiki/カナダ太平洋航空 "wikilink")の[航空会社コード](../Page/航空会社コード.md "wikilink")
-  - [シーピーシー](https://ja.wikipedia.org/wiki/シーピーシー "wikilink") - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[音楽出版](https://ja.wikipedia.org/wiki/音楽出版 "wikilink")社、[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")、[テレビ番組](../Page/テレビ番組.md "wikilink")[製作会社](../Page/制作プロダクション.md "wikilink")、[映画](../Page/映画.md "wikilink")製作会社。
-  - [台湾中油](https://ja.wikipedia.org/wiki/台湾中油 "wikilink") (CPC Corporation, Taiwan) - 台湾の石油公社
+  - [シーピーシー](https://ja.wikipedia.org/wiki/シーピーシー "wikilink") - [東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[音楽出版](../Page/音楽出版.md "wikilink")社、[レコード会社](../Page/レコード会社.md "wikilink")、[テレビ番組](../Page/テレビ番組.md "wikilink")[製作会社](../Page/制作プロダクション.md "wikilink")、[映画](../Page/映画.md "wikilink")製作会社。
+  - [台湾中油](../Page/台湾中油.md "wikilink") (CPC Corporation, Taiwan) - 台湾の石油公社
   - [カナダ郵政公社](https://ja.wikipedia.org/wiki/カナダ郵政公社 "wikilink") (Canada Post Corporation)
   - [アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[クノール社](../Page/クノール_\(食品ブランド\).md "wikilink")
 

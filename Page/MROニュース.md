@@ -1,9 +1,9 @@
 > この記事は[MRO](https://ja.wikipedia.org/wiki/MRO)から翻訳されています。
 
 
-『**MROニュース**』（エムアールオーニュース）は、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")の[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で放送されている[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**MROニュース**』（エムアールオーニュース）は、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")の[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で放送されている[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
-かつて北陸放送が[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")と関係があった頃には、テレビは『**北國新聞・MROニュース**』（ほっこくしんぶん・エムアールオーニュース）、ラジオは『[北國新聞ニュース](https://ja.wikipedia.org/wiki/北國新聞ニュース "wikilink")』というタイトルで放送されていた。
+かつて北陸放送が[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")と関係があった頃には、テレビは『**北國新聞・MROニュース**』（ほっこくしんぶん・エムアールオーニュース）、ラジオは『[北國新聞ニュース](../Page/北國新聞ニュース.md "wikilink")』というタイトルで放送されていた。
 
 ## 基本放送時間
 
@@ -40,7 +40,7 @@
 
 テレビにおいては、2013年3月までは『みのもんたの朝ズバッ\!』（後の『[朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")』）の中で7:12頃にローカルニュースが放送されていたが、平日16時前のローカルニュース復活に伴って廃止され、以後は石川県内の天気などが放送されている。\[3\]
 
-土曜および日曜の21時台にも『MROニュース』が設定されている理由は、2008年4月に『報道特集NEXT』（現：『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』）が開始されたためである\[4\]。以前は土曜に『[MROテレポート6](https://ja.wikipedia.org/wiki/MROテレポート6 "wikilink")』や『[ホウトク\!](https://ja.wikipedia.org/wiki/ホウトク! "wikilink")』などの30分間のニュースがあったが、前述の理由でローカルニュース枠を確保するために時間設定された。土曜夕方放送の『報道特集』では当初はローカルニュースが内包されていたが、2009年10月の改編で廃枠となり、現在は[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")のニュースをそのまま放送する形に切り替えられている。
+土曜および日曜の21時台にも『MROニュース』が設定されている理由は、2008年4月に『報道特集NEXT』（現：『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』）が開始されたためである\[4\]。以前は土曜に『[MROテレポート6](../Page/MROテレポート6.md "wikilink")』や『[ホウトク\!](https://ja.wikipedia.org/wiki/ホウトク! "wikilink")』などの30分間のニュースがあったが、前述の理由でローカルニュース枠を確保するために時間設定された。土曜夕方放送の『報道特集』では当初はローカルニュースが内包されていたが、2009年10月の改編で廃枠となり、現在は[関東ローカル](../Page/関東ローカル.md "wikilink")のニュースをそのまま放送する形に切り替えられている。
 
 平日にも一時期『[NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』終了直後に放送されていた時期があるが、2014年春の改編に伴うローカル枠再開に伴い、枠吸収された\[5\]。また、土曜および日曜の早朝の『[JNNニュース](../Page/JNNニュース.md "wikilink")』と深夜の『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』本編終了後のJNNニュースでもローカル枠は設定されておらず、関東ローカルのニュースをそのまま放送している（前者はエリアの天気のみ差し替え）。
 
@@ -63,9 +63,9 @@
 ### 過去
 
   - ワイド15:00
-  - [MROテレポート6](https://ja.wikipedia.org/wiki/MROテレポート6 "wikilink")
-  - [MRO NEWS ON 6](https://ja.wikipedia.org/wiki/MRO_NEWS_ON_6 "wikilink")
-  - [MROイブニングニュース](https://ja.wikipedia.org/wiki/MROイブニングニュース "wikilink")
+  - [MROテレポート6](../Page/MROテレポート6.md "wikilink")
+  - [MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink")
+  - [MROイブニングニュース](../Page/MROイブニングニュース.md "wikilink")
   - [MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink")
   - [総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")
   - [ホウトク\!](https://ja.wikipedia.org/wiki/ホウトク! "wikilink")
@@ -74,9 +74,9 @@
 
   - [JNNニュース](../Page/JNNニュース.md "wikilink")
   - [Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")
-  - [北國新聞ニュース](https://ja.wikipedia.org/wiki/北國新聞ニュース "wikilink")
-  - [毎日新聞ニュース](https://ja.wikipedia.org/wiki/毎日新聞ニュース "wikilink")（終了）
-  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [北國新聞ニュース](../Page/北國新聞ニュース.md "wikilink")
+  - [毎日新聞ニュース](../Page/毎日新聞ニュース.md "wikilink")（終了）
+  - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
 
 ## 脚注
 
@@ -91,7 +91,7 @@
 
 1.
 2.  2018年4月の番組改編に伴い、『MROニュース全集』から改名。
-3.  平日の『[マスターズ・トーナメント](https://ja.wikipedia.org/wiki/マスターズ・トーナメント "wikilink")』終了後に放送される『JNNニュース』のローカル枠では、関東ローカルのニュースをそのまま流している。
+3.  平日の『[マスターズ・トーナメント](../Page/マスターズ・トーナメント.md "wikilink")』終了後に放送される『JNNニュース』のローカル枠では、関東ローカルのニュースをそのまま流している。
 4.  それ以前にも設定されていた時期はあったが、前述の番組が始まるまでは天気予報を放送していた。
 5.  ただし、金曜日の放送に関してはMROではローカル枠を設定していない。
 6.  Yahoo\!ニュースにおいて、MROと同様の方式を採用している放送局は、[秋田ケーブルテレビ](../Page/秋田ケーブルテレビ.md "wikilink")、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")、[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")（2019年3月時点）。[2018年](../Page/2018年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")から[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")もMROと同様に同サイトでの動画配信を実施している。

@@ -1,16 +1,16 @@
 > この記事は[NATSUME](https://ja.wikipedia.org/wiki/NATSUME)から翻訳されています。
 
 
-**NATSUME**（なつめ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[女優](../Page/俳優.md "wikilink")、元[タレント](../Page/タレント.md "wikilink")、元[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")である。 旧芸名：**佐野 夏芽**（さの なつめ）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+**NATSUME**（なつめ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[女優](../Page/俳優.md "wikilink")、元[タレント](../Page/タレント.md "wikilink")、元[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")である。 旧芸名：**佐野 夏芽**（さの なつめ）。[東京都](../Page/東京都.md "wikilink")出身。
 
 ## 人物・概歴
 
-  - グラビアアイドルとして活躍していた時期は[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")と『なつゆず』、[石井めぐる](https://ja.wikipedia.org/wiki/石井めぐる "wikilink")と『なつめぐ』というグラビアユニットを雑誌企画で組んでいたことがある。ちなみに愛川と石井の『ゆずめぐ』も存在する（[中部日本放送のバラエティ番組](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[なつめぐ堂](../Page/なつめぐ堂.md "wikilink")』とは無関係）。この2人とは『アイドル芸能社』（[BS-i](../Page/BS-TBS.md "wikilink")）でも共演していて、ブログにたびたび登場するほど仲が良かった。
-  - 2009年夏には[華彩なな](../Page/華彩なな.md "wikilink")と期間限定グラビアアイドルユニット『ナツメ★ナナ 2009』を結成した（[夏目ナナ](https://ja.wikipedia.org/wiki/夏目ナナ "wikilink")とは無関係）。
+  - グラビアアイドルとして活躍していた時期は[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")と『なつゆず』、[石井めぐる](../Page/石井めぐる.md "wikilink")と『なつめぐ』というグラビアユニットを雑誌企画で組んでいたことがある。ちなみに愛川と石井の『ゆずめぐ』も存在する（[中部日本放送のバラエティ番組](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[なつめぐ堂](../Page/なつめぐ堂.md "wikilink")』とは無関係）。この2人とは『アイドル芸能社』（[BS-i](../Page/BS-TBS.md "wikilink")）でも共演していて、ブログにたびたび登場するほど仲が良かった。
+  - 2009年夏には[華彩なな](../Page/華彩なな.md "wikilink")と期間限定グラビアアイドルユニット『ナツメ★ナナ 2009』を結成した（[夏目ナナ](../Page/夏目ナナ.md "wikilink")とは無関係）。
   - 2009年10月18日にイベントとブログにて12月のDVD発売を最後にグラビア活動を引退、女優に転身することを発表した\[1\]。2010年以降は芝居（舞台女優）を中心に芸能活動を続けていた。
   - 2010年3月、芸名を『NATSUME』に変更し、事務所もドレスコードに移籍。
   - 2013年6月30日をもってドレスコードを退社し、芸能界を引退。[ツイッター](https://ja.wikipedia.org/wiki/ツイッター "wikilink")にて本名が「ももえ」であることを明かした。
-  - [週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")[2018年](../Page/2018年.md "wikilink")3月12日号より旧芸名「佐野夏芽」名義で最後のグラビアを披露。
+  - [週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")[2018年](../Page/2018年.md "wikilink")3月12日号より旧芸名「佐野夏芽」名義で最後のグラビアを披露。
 
 ## 出演
 
@@ -20,29 +20,29 @@
   - [NANDA\!?](https://ja.wikipedia.org/wiki/NANDA!? "wikilink")
   - 着信(生)（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [し～たく](https://ja.wikipedia.org/wiki/し～たく "wikilink")（テレビ東京）
-  - [三竹占い](https://ja.wikipedia.org/wiki/三竹占い "wikilink")
-  - [アドレな\!ガレッジ](https://ja.wikipedia.org/wiki/アドレな!ガレッジ "wikilink")
-  - [ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")SP
-  - [あきと由佳のIdol Park](https://ja.wikipedia.org/wiki/あきと由佳のIdol_Park "wikilink") 2時間SP
-  - [パオパオ アソビ★クリエイターズ](https://ja.wikipedia.org/wiki/パオパオ_アソビ★クリエイターズ "wikilink")
-  - [ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")「[恋のエプロン 新人タレント料理下克上バトル](https://ja.wikipedia.org/wiki/愛のエプロン#恋のエプロン "wikilink")」（2005年8月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [白黒アンジャッシュ](https://ja.wikipedia.org/wiki/白黒アンジャッシュ "wikilink")
-  - [グッピー\!\!](https://ja.wikipedia.org/wiki/グッピー!! "wikilink")（「[木曜日の丼](https://ja.wikipedia.org/wiki/木曜日の丼 "wikilink")」後半）
+  - [三竹占い](../Page/三竹占い.md "wikilink")
+  - [アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")
+  - [ランク王国](../Page/ランク王国.md "wikilink")SP
+  - [あきと由佳のIdol Park](../Page/あきと由佳のIdol_Park.md "wikilink") 2時間SP
+  - [パオパオ アソビ★クリエイターズ](../Page/パオパオ_アソビ★クリエイターズ.md "wikilink")
+  - [ドスペ2](../Page/ドスペ2.md "wikilink")「[恋のエプロン 新人タレント料理下克上バトル](https://ja.wikipedia.org/wiki/愛のエプロン#恋のエプロン "wikilink")」（2005年8月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [白黒アンジャッシュ](../Page/白黒アンジャッシュ.md "wikilink")
+  - [グッピー\!\!](../Page/グッピー!!.md "wikilink")（「[木曜日の丼](../Page/木曜日の丼.md "wikilink")」後半）
   - 第四月曜日
-  - [ぷちミーヤ\!](https://ja.wikipedia.org/wiki/ぷれミーヤ! "wikilink")
-  - [やぐちひとり](https://ja.wikipedia.org/wiki/やぐちひとり "wikilink")(C)
+  - [ぷちミーヤ\!](../Page/ぷれミーヤ!.md "wikilink")
+  - [やぐちひとり](../Page/やぐちひとり.md "wikilink")(C)
   - TOKYO BOY
   - [ありえへん∞世界](../Page/ありえへん∞世界.md "wikilink")（2008年7月・8月、テレビ東京）
   - Let's Sports Shooting
-  - [堂本剛の正直しんどい](https://ja.wikipedia.org/wiki/堂本剛の正直しんどい "wikilink")
+  - [堂本剛の正直しんどい](../Page/堂本剛の正直しんどい.md "wikilink")
   - [うぇぶたまww](../Page/うぇぶたまww.md "wikilink")
-  - [キンコンヒルズ](https://ja.wikipedia.org/wiki/キンコンヒルズ "wikilink")
+  - [キンコンヒルズ](../Page/キンコンヒルズ.md "wikilink")
   - [劇場版 BLEACH 法廷\!日番谷冬獅郎事件に迫る\!](https://ja.wikipedia.org/wiki/BLEACH "wikilink")
-  - [TVチャンピオン2](https://ja.wikipedia.org/wiki/TVチャンピオン2 "wikilink")（2008年9月5日、テレビ東京）
-  - [ゴッドタン](https://ja.wikipedia.org/wiki/ゴッドタン "wikilink")～The God Tongue 神の舌～（2008年9月・2009年8月19日、テレビ東京）
+  - [TVチャンピオン2](../Page/TVチャンピオン2.md "wikilink")（2008年9月5日、テレビ東京）
+  - [ゴッドタン](../Page/ゴッドタン.md "wikilink")～The God Tongue 神の舌～（2008年9月・2009年8月19日、テレビ東京）
   - [チュートリアルのチューして\!](https://ja.wikipedia.org/wiki/チュートリアルのチューして! "wikilink")（2008年9月29日、関西テレビ）
-  - [南パラZ\!](https://ja.wikipedia.org/wiki/南パラZ! "wikilink")（2008年10月10日、関西テレビ）
-  - [草野☆キッド](https://ja.wikipedia.org/wiki/草野☆キッド "wikilink")（2008年11月25日・2009年2月17日他、テレビ朝日）
+  - [南パラZ\!](../Page/南パラZ!.md "wikilink")（2008年10月10日、関西テレビ）
+  - [草野☆キッド](../Page/草野☆キッド.md "wikilink")（2008年11月25日・2009年2月17日他、テレビ朝日）
   - [夜明けのマルシェ](../Page/夜明けのマルシェ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - 極楽満喫\!グラドル温泉（[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")）
   - [アグレッシブですけど、何か?](../Page/アグレッシブですけど、何か?.md "wikilink")（2009年8月3日・10日、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")）
@@ -51,11 +51,11 @@
 
 #### テレビドラマ
 
-  - [ホーリーランド](https://ja.wikipedia.org/wiki/ホーリーランド "wikilink")（2005年、テレビ東京）
-  - [ドラマ24](https://ja.wikipedia.org/wiki/ドラマ24 "wikilink")「[Xenos](https://ja.wikipedia.org/wiki/Xenos "wikilink")」（2007年、テレビ東京） - 小倉綾子 役
-  - [さくら署の女たち](https://ja.wikipedia.org/wiki/さくら署の女たち "wikilink") 第3話（2007年7月25日、テレビ朝日） - 新田里美 役
+  - [ホーリーランド](../Page/ホーリーランド.md "wikilink")（2005年、テレビ東京）
+  - [ドラマ24](../Page/ドラマ24.md "wikilink")「[Xenos](../Page/Xenos.md "wikilink")」（2007年、テレビ東京） - 小倉綾子 役
+  - [さくら署の女たち](../Page/さくら署の女たち.md "wikilink") 第3話（2007年7月25日、テレビ朝日） - 新田里美 役
   - [金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink") 新・祇園シリーズ第3弾 祇園芸妓VS京都女優 京都花嫁衣裳殺人事件（2008年、フジテレビ）
-  - [金曜ナイトドラマ](https://ja.wikipedia.org/wiki/金曜ナイトドラマ "wikilink")「[打撃天使ルリ](../Page/打撃天使ルリ.md "wikilink")」 最終話（2008年9月、テレビ朝日）
+  - [金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")「[打撃天使ルリ](../Page/打撃天使ルリ.md "wikilink")」 最終話（2008年9月、テレビ朝日）
   - [毒姫とわたし](https://ja.wikipedia.org/wiki/毒姫とわたし "wikilink")（2011年9月 - 10月、東海テレビ） - 葛城朋香 役
   - [ドラマチック・サンデー](https://ja.wikipedia.org/wiki/ドラマチック・サンデー "wikilink")「[僕とスターの99日](https://ja.wikipedia.org/wiki/僕とスターの99日 "wikilink")」（2011年10月 - 12月、フジテレビ）
 
@@ -64,7 +64,7 @@
   - [平成ノブシコブシの破天荒ダメだし\!](https://ja.wikipedia.org/wiki/平成ノブシコブシの破天荒ダメだし! "wikilink")（2008年4月28日・2009年8月10日、[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")）ゲスト出演
   - [告っちゃ\!](https://ja.wikipedia.org/wiki/告っちゃ! "wikilink")（2009年5月29日、GyaOジョッキー）ゲスト出演
   - Yahoo\!バラエティ「よしログ」土曜アシスタント（2011年1月22日～）
-  - [3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")・[バイオハザード ザ・マーセナリーズ 3D](https://ja.wikipedia.org/wiki/バイオハザード_ザ・マーセナリーズ_3D "wikilink") 鈴木史朗塾長熱血！マーセ塾（2011年5月～6月配信、[CAPCOM](https://ja.wikipedia.org/wiki/カプコン "wikilink")）
+  - [3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")・[バイオハザード ザ・マーセナリーズ 3D](https://ja.wikipedia.org/wiki/バイオハザード_ザ・マーセナリーズ_3D "wikilink") 鈴木史朗塾長熱血！マーセ塾（2011年5月～6月配信、[CAPCOM](../Page/カプコン.md "wikilink")）
   - [ゲッチャ](http://www.ga-cha.jp/)（2011年5月27日）ゲスト出演
 
 ### 携帯サイト
@@ -73,15 +73,15 @@
 
 ### ラジオ
 
-  - nemu RING RING（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")、[J-WAVE](../Page/J-WAVE.md "wikilink")）
+  - nemu RING RING（[2005年](../Page/2005年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")、[J-WAVE](../Page/J-WAVE.md "wikilink")）
   - [銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")（ラジオ日本、2009年）ゲスト出演
 
 ### 映画
 
   - [すくらんぶる・ハーツ](https://ja.wikipedia.org/wiki/すくらんぶる・ハーツ "wikilink")（2004年） - 鈴木まり 役
   - 殺人蜂 キラー・ビー（2005年） - 由香 役
-  - [まいっちんぐマチコ\!ビギンズ](https://ja.wikipedia.org/wiki/まいっちんぐマチコ先生 "wikilink")（2005年） - 雷子 役
-  - [陰日向に咲く](https://ja.wikipedia.org/wiki/陰日向に咲く "wikilink")（2008年） - サラ子 役
+  - [まいっちんぐマチコ\!ビギンズ](../Page/まいっちんぐマチコ先生.md "wikilink")（2005年） - 雷子 役
+  - [陰日向に咲く](../Page/陰日向に咲く.md "wikilink")（2008年） - サラ子 役
   - [URAHARA](https://ja.wikipedia.org/wiki/URAHARA "wikilink")（2008年） - 看護師 役（[友情出演](https://ja.wikipedia.org/wiki/友情出演 "wikilink")）
   - [ポストマン](../Page/ポストマン_\(2008年の映画\).md "wikilink")（2008年） - 中川美紀 役
   - 御茶漬海苔の惨劇館『日記』 （2009年） - 菊代 役
@@ -98,8 +98,8 @@
 
 ### CM
 
-  - [デジタルメディアマート](https://ja.wikipedia.org/wiki/デジタルメディアマート "wikilink")「[DMM.com](https://ja.wikipedia.org/wiki/DMM.com "wikilink")」
-  - [インデックス](https://ja.wikipedia.org/wiki/インデックス "wikilink")「[GEO@BB](https://ja.wikipedia.org/wiki/ゲオ "wikilink")」「GEO@チャンネル」
+  - [デジタルメディアマート](https://ja.wikipedia.org/wiki/デジタルメディアマート "wikilink")「[DMM.com](../Page/DMM.com.md "wikilink")」
+  - [インデックス](https://ja.wikipedia.org/wiki/インデックス "wikilink")「[GEO@BB](../Page/ゲオ.md "wikilink")」「GEO@チャンネル」
   - [バンダイ](../Page/バンダイ.md "wikilink")「[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink") チョコビ」
 
 ## 作品
@@ -108,7 +108,7 @@
 
 1.  ナツメカン（2005年4月、[学習研究社](https://ja.wikipedia.org/wiki/学習研究社 "wikilink")、撮影：[小池伸一郎](https://ja.wikipedia.org/wiki/小池伸一郎 "wikilink")）ISBN 978-4054027060
 2.  なつメロン（2005年10月、[講談社](../Page/講談社.md "wikilink")、撮影：小池伸一郎）ISBN 978-4063646535
-3.  オトナツメ（2006年5月1日、[イースト・プレス](https://ja.wikipedia.org/wiki/イースト・プレス "wikilink")、撮影：[河野英喜](../Page/河野英喜.md "wikilink")）ISBN 978-4872576771
+3.  オトナツメ（2006年5月1日、[イースト・プレス](../Page/イースト・プレス.md "wikilink")、撮影：[河野英喜](../Page/河野英喜.md "wikilink")）ISBN 978-4872576771
 4.  なつめ～る（2008年1月26日、[ワニブックス](../Page/ワニブックス.md "wikilink")、撮影：[栗山秀作](https://ja.wikipedia.org/wiki/栗山秀作 "wikilink")）ISBN 978-4847040665
 
 ### デジタル写真集
@@ -148,10 +148,10 @@
 ### その他
 
   - [Something ELseシングル](../Page/Something_ELse.md "wikilink")「1M」ジャケット写真（2003年）
-  - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")・「レッド・デッド・リボルバー」イメージガール（2005年、[CAPCOM](https://ja.wikipedia.org/wiki/カプコン "wikilink")）
-  - [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")・「メタルギアアシッド2」（2005年、[KONAMI](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
+  - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")・「レッド・デッド・リボルバー」イメージガール（2005年、[CAPCOM](../Page/カプコン.md "wikilink")）
+  - [PSP](../Page/PlayStation_Portable.md "wikilink")・「メタルギアアシッド2」（2005年、[KONAMI](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
   - [HOT☆FANTASY ODAIBA](https://ja.wikipedia.org/wiki/HOT☆FANTASY_ODAIBA "wikilink")2005イメージキャラクター・「電車ガールズ」（2005年）
-  - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")＆[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")「[VARDIA](https://ja.wikipedia.org/wiki/VARDIA "wikilink")」総合カタログ（2007年）
+  - [東芝](../Page/東芝.md "wikilink")[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")＆[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")「[VARDIA](../Page/VARDIA.md "wikilink")」総合カタログ（2007年）
   - 『[グラドル女学院](https://ja.wikipedia.org/wiki/グラドル女学院 "wikilink")』未公開お宝映像集6～佐野夏芽＆立花彩野SP～ DVD＆トレカBOX（2007年）
 
 ## 脚注

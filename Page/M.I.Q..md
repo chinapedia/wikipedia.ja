@@ -1,11 +1,11 @@
 > この記事は[M.I.Q.](https://ja.wikipedia.org/wiki/M.I.Q.)から翻訳されています。
 
 
-『**M.I.Q.**』（エム・アイ・キュー）は、原作：[マスヤマコム](https://ja.wikipedia.org/wiki/マスヤマコム "wikilink")（[クロパンダ](https://ja.wikipedia.org/wiki/クロパンダ "wikilink")）、漫画：[浅井信吾](https://ja.wikipedia.org/wiki/阿佐維シン "wikilink")、構成協力：[富田かおり](https://ja.wikipedia.org/wiki/富田かおり "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[2004年](../Page/2004年.md "wikilink")32号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9号まで連載された。単行本は全3巻。[デイトレード](../Page/デイトレード.md "wikilink")中心のマネー教育[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
+『**M.I.Q.**』（エム・アイ・キュー）は、原作：[マスヤマコム](https://ja.wikipedia.org/wiki/マスヤマコム "wikilink")（[クロパンダ](https://ja.wikipedia.org/wiki/クロパンダ "wikilink")）、漫画：[浅井信吾](https://ja.wikipedia.org/wiki/阿佐維シン "wikilink")、構成協力：[富田かおり](https://ja.wikipedia.org/wiki/富田かおり "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[2004年](../Page/2004年.md "wikilink")32号から[2005年](../Page/2005年.md "wikilink")9号まで連載された。単行本は全3巻。[デイトレード](../Page/デイトレード.md "wikilink")中心のマネー教育[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 概要
 
-本作は、[デイトレード](../Page/デイトレード.md "wikilink")を教える2004年32号 - 48号が「第一部」、ビジネスの[起業](https://ja.wikipedia.org/wiki/起業 "wikilink")を教える51号 - 2005年9号が「第二部」という扱いになっている。
+本作は、[デイトレード](../Page/デイトレード.md "wikilink")を教える2004年32号 - 48号が「第一部」、ビジネスの[起業](../Page/起業.md "wikilink")を教える51号 - 2005年9号が「第二部」という扱いになっている。
 
 第一部では、これからの日本人の生活が危機的な状況になりつつある事、その上でそこから抜け出すための方法…などを伝えている。また、[ローソク足](https://ja.wikipedia.org/wiki/ローソク足 "wikilink")・[移動平均線](https://ja.wikipedia.org/wiki/移動平均線 "wikilink")など、[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")についての基本を教えてくれる。
 
@@ -27,7 +27,7 @@
 ## 関連項目
 
   - [デイトレード](../Page/デイトレード.md "wikilink")
-  - [マーケットスピード](https://ja.wikipedia.org/wiki/マーケットスピード "wikilink")…楽天証券のトレードツール。作中の取引は基本的にこれで行われ、実際の画面も登場した。
+  - [マーケットスピード](../Page/マーケットスピード.md "wikilink")…楽天証券のトレードツール。作中の取引は基本的にこれで行われ、実際の画面も登場した。
 
 ## 外部リンク
 

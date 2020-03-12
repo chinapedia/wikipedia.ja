@@ -1,17 +1,17 @@
 > この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
 
 
-『**キングダム ハーツII**』（キングダム ハーツ ツー、*KINGDOM HEARTS II*、略称: **KH2**、**KHII**）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。名前は『II』だが、[キングダム ハーツ シリーズの第](../Page/キングダム_ハーツ_シリーズ.md "wikilink")3作目にあたる。
+『**キングダム ハーツII**』（キングダム ハーツ ツー、*KINGDOM HEARTS II*、略称: **KH2**、**KHII**）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。名前は『II』だが、[キングダム ハーツ シリーズの第](../Page/キングダム_ハーツ_シリーズ.md "wikilink")3作目にあたる。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")の[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2003で前作『[キングダム ハーツ チェイン オブ メモリーズ](https://ja.wikipedia.org/wiki/キングダム_ハーツ_チェイン_オブ_メモリーズ "wikilink")』（以下COM）と同時発表された。これまでのシリーズと同様、[ディズニーとスクウェア](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")・エニックスのコラボレーションとして、ディズニーと[ファイナルファンタジーシリーズ](https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ "wikilink")から多数のキャラが登場。[野村哲也](../Page/野村哲也.md "wikilink")がディレクターを務め、主題歌は再び[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")が『[Passion](https://ja.wikipedia.org/wiki/Passion_\(宇多田ヒカルの曲\) "wikilink")』（英語版は『Sanctuary』）で担当した。ディズニーからは[トロンや](../Page/トロン_\(映画\).md "wikilink")[イェン・シッド](../Page/イェン・シッド.md "wikilink")といったマイナーな作品や人物が登場し、FFからは『[FFIX](../Page/ファイナルファンタジーIX.md "wikilink")』のような野村がキャラクターデザインをしていない作品も出るようになった。
+[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")の[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")2003で前作『[キングダム ハーツ チェイン オブ メモリーズ](../Page/キングダム_ハーツ_チェイン_オブ_メモリーズ.md "wikilink")』（以下COM）と同時発表された。これまでのシリーズと同様、[ディズニーとスクウェア](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")・エニックスのコラボレーションとして、ディズニーと[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")から多数のキャラが登場。[野村哲也](../Page/野村哲也.md "wikilink")がディレクターを務め、主題歌は再び[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")が『[Passion](../Page/Passion_\(宇多田ヒカルの曲\).md "wikilink")』（英語版は『Sanctuary』）で担当した。ディズニーからは[トロンや](../Page/トロン_\(映画\).md "wikilink")[イェン・シッド](../Page/イェン・シッド.md "wikilink")といったマイナーな作品や人物が登場し、FFからは『[FFIX](../Page/ファイナルファンタジーIX.md "wikilink")』のような野村がキャラクターデザインをしていない作品も出るようになった。
 
-『KH』シリーズのナンバリングタイトルとしては第2作目であり、第1作目の『[キングダム ハーツ](https://ja.wikipedia.org/wiki/キングダム_ハーツ "wikilink")』の続編であるが、シナリオは『KH』→『COM』→『KH2』と連続しているため『COM』との関連性も強く、また『COM』で起こった出来事の詳細は『KH2』上においては省略されている（敵組織である[XIII機関](https://ja.wikipedia.org/wiki/XIII機関 "wikilink")の一部が『COM』で倒されているため欠員がある、「ナミネにお礼を言う」というジミニーメモなど）。製作側は「『COM』を知らなくてもプレイに支障はない」と発言しているが、[GBAで発売された](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")『COM』はハードの違いからプレイしていないユーザーも多かったため、本作の英語音声版『ファイナル ミックス』にPS2版リメイク『Re:チェイン オブ メモリーズ』が付属することとなった（詳しくは[後述](https://ja.wikipedia.org/wiki/#キングダム_ハーツII_ファイナル_ミックス+ "wikilink")）。
+『KH』シリーズのナンバリングタイトルとしては第2作目であり、第1作目の『[キングダム ハーツ](../Page/キングダム_ハーツ.md "wikilink")』の続編であるが、シナリオは『KH』→『COM』→『KH2』と連続しているため『COM』との関連性も強く、また『COM』で起こった出来事の詳細は『KH2』上においては省略されている（敵組織である[XIII機関](../Page/XIII機関.md "wikilink")の一部が『COM』で倒されているため欠員がある、「ナミネにお礼を言う」というジミニーメモなど）。製作側は「『COM』を知らなくてもプレイに支障はない」と発言しているが、[GBAで発売された](../Page/ゲームボーイアドバンス.md "wikilink")『COM』はハードの違いからプレイしていないユーザーも多かったため、本作の英語音声版『ファイナル ミックス』にPS2版リメイク『Re:チェイン オブ メモリーズ』が付属することとなった（詳しくは[後述](https://ja.wikipedia.org/wiki/#キングダム_ハーツII_ファイナル_ミックス+ "wikilink")）。
 
 限定版として、『キングダム ハーツ トリニティマスターピース』も発売された。『KH』『COM』『KH2』の3作がまとめられたセットである。
 
-発売後3日で出荷枚数100万本突破という記録を残し、シリーズの人気を印象づけさせる結果となった。また、北米でも発売後1週間で100万本の売り上げを達成しており、更に欧州での発売によって2006年末には全世界でのシリーズ累計出荷本数が1000万本を突破した。発売前のゲームに送られる「[The 9th CESA GAME AWARDS](https://ja.wikipedia.org/wiki/日本ゲーム大賞 "wikilink") FUTURE」にて優秀賞を受賞。「ファミ通アワード2005」では大賞を受賞し、野村も最優秀クリエイター賞を受賞している。さらには[日本ゲーム大賞](https://ja.wikipedia.org/wiki/日本ゲーム大賞 "wikilink")2006 優秀賞を受賞した。
+発売後3日で出荷枚数100万本突破という記録を残し、シリーズの人気を印象づけさせる結果となった。また、北米でも発売後1週間で100万本の売り上げを達成しており、更に欧州での発売によって2006年末には全世界でのシリーズ累計出荷本数が1000万本を突破した。発売前のゲームに送られる「[The 9th CESA GAME AWARDS](../Page/日本ゲーム大賞.md "wikilink") FUTURE」にて優秀賞を受賞。「ファミ通アワード2005」では大賞を受賞し、野村も最優秀クリエイター賞を受賞している。さらには[日本ゲーム大賞](../Page/日本ゲーム大賞.md "wikilink")2006 優秀賞を受賞した。
 
 [2014年](../Page/2014年.md "wikilink")には、『[キングダム ハーツ HD 2.5 リミックス](https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_2.5_リミックス "wikilink")』の収録作の一つとして[PlayStation 3向けにHDリマスターされた](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。リマスター版は『ファイナル ミックス』を基に音声が日本語に変更されている。詳細については当該記事を参照のこと。
 
@@ -25,7 +25,7 @@
 
 ## ゲームとしての特徴
 
-基本的なシステムは第1作『[キングダム ハーツ](https://ja.wikipedia.org/wiki/キングダム_ハーツ "wikilink")』を基に、カメラワークの変更や新システムの導入など全体的にブラッシュアップされている。これにより第1作とは趣の変わった戦闘が出来るようになり、戦略の幅が広がった。戦闘以外にも、第1作ではセーブポイントでしか変えられなかったパーティメンバーをどこでも変更出来るようになったり、ダンジョンが単純化（それに伴いジャンプアクションも減少）、ワールド間の移動「グミシップ」がよりシューティングゲームらしくなっているなど、様々な変更点がある。
+基本的なシステムは第1作『[キングダム ハーツ](../Page/キングダム_ハーツ.md "wikilink")』を基に、カメラワークの変更や新システムの導入など全体的にブラッシュアップされている。これにより第1作とは趣の変わった戦闘が出来るようになり、戦略の幅が広がった。戦闘以外にも、第1作ではセーブポイントでしか変えられなかったパーティメンバーをどこでも変更出来るようになったり、ダンジョンが単純化（それに伴いジャンプアクションも減少）、ワールド間の移動「グミシップ」がよりシューティングゲームらしくなっているなど、様々な変更点がある。
 
 前作で「たたかう/まほう/アイテム/?（状況に応じて変化する）」だったコマンド欄は「たたかう/まほう/アイテム/ドライヴ」になり、「たたかう/しょうかん/チェンジ/れんけい」のコマンド欄に切り替えられるようにもなった。それらの新システムの中から、特筆すべきものを以下に記述する。
 
@@ -42,7 +42,7 @@
   - <Span Style="color:#FFCC00">■</Span>マスターフォーム
     キーブレード・魔法攻撃の両方が強化される黄色いフォーム。「ブレイヴフォーム」と「ウィズダムフォーム」両者の性能を持ち合わせている。キーブレードが2本になり、左手のキーブレードは掌から離れて宙に浮く。攻撃力や魔法力が二本分になり、アビリティも二本分なのは「ブレイヴフォーム」と同じだが、こちらは魔法と物理攻撃のどちらも行うことが出来る。地上で行う攻撃が全て敵を空中に上げるもののため、地上コンボが存在せず、2段ジャンプを使った空中戦を得意としている。ただし、移動スピードはチェンジできるフォームの中では一番遅く、消費するドライヴゲージも前述の2フォームより多くなっている。グロウアビリティは「エアドッジ」。仲間2人の力を借りて変身し、ゲージを4消費する。
   - <Span Style="color:#000080">■</Span>アンチフォーム
-    フォームチェンジを使う毎に溜まっていく「アンチカウント」（画面上では確認出来ない）が増えると変身することがあるフォーム。他のフォームを選ぶ際に割り込む形で変身し、自分で選ぶことは不可能。『[KH](https://ja.wikipedia.org/wiki/キングダム_ハーツ "wikilink")』に登場したハートレス「アンチソラ」に酷似した姿を持つ。獣が走るような四足歩行にキーブレードを使わず素手で戦う野生的な戦闘スタイルで、全フォーム中最速という驚異的なスピードと連続攻撃による爆発的なパワーを持ち合わせる。ただし移動・攻撃・ジャンプ以外の操作を行う事は出来ず、ドライヴゲージを全て消費する、メニューが開けなくなる、受けるダメージが増加するなどのデメリットの方が目立つ。魔法も使えず回復プライズも拾えないので、僅かなダメージを受けても致命傷となりやすい。どのフォームを選んだとしても、このフォームに変身してしまうと仲間2人がいなくなる。マップを切り替える、ゲージがなくなる、敵がいない状態でコマンド「リターン」を選ぶと戻る。また、『ファイナル ミックス』で追加されたキーブレード「めぐりあう二人」を装備すると、ウェポンアビリティ「ライト&ダーク」の効果により100%アンチフォームに変身するよりになり、疑似的に自分で選ぶことが可能となった。小説版でも僅かながら登場している。ゼムナスとの決戦の最中、突如ドライヴした姿で決定打を加えた。アンチフォームはハートレスに似た姿だが、**ノーバディのような姿**と称された。
+    フォームチェンジを使う毎に溜まっていく「アンチカウント」（画面上では確認出来ない）が増えると変身することがあるフォーム。他のフォームを選ぶ際に割り込む形で変身し、自分で選ぶことは不可能。『[KH](../Page/キングダム_ハーツ.md "wikilink")』に登場したハートレス「アンチソラ」に酷似した姿を持つ。獣が走るような四足歩行にキーブレードを使わず素手で戦う野生的な戦闘スタイルで、全フォーム中最速という驚異的なスピードと連続攻撃による爆発的なパワーを持ち合わせる。ただし移動・攻撃・ジャンプ以外の操作を行う事は出来ず、ドライヴゲージを全て消費する、メニューが開けなくなる、受けるダメージが増加するなどのデメリットの方が目立つ。魔法も使えず回復プライズも拾えないので、僅かなダメージを受けても致命傷となりやすい。どのフォームを選んだとしても、このフォームに変身してしまうと仲間2人がいなくなる。マップを切り替える、ゲージがなくなる、敵がいない状態でコマンド「リターン」を選ぶと戻る。また、『ファイナル ミックス』で追加されたキーブレード「めぐりあう二人」を装備すると、ウェポンアビリティ「ライト&ダーク」の効果により100%アンチフォームに変身するよりになり、疑似的に自分で選ぶことが可能となった。小説版でも僅かながら登場している。ゼムナスとの決戦の最中、突如ドライヴした姿で決定打を加えた。アンチフォームはハートレスに似た姿だが、**ノーバディのような姿**と称された。
   - <Span Style="color:#C0C0C0">■</Span>ファイナルフォーム
     キーブレードの真の力を解放した銀色のフォーム。2本のキーブレードがソラの後方で交差して宙に浮いており、意思を持つかの様に攻撃する。更に魔法攻撃も強化され、移動しながらの攻撃も出来るという、あらゆる能力に長けた遠近どの距離でも戦える最強のフォーム。絶えず地表から浮いていて滑空も出来る様になり、移動スピードもかなり速くなる。消費するドライヴゲージがマスターフォームよりも多く、フォームレベルを上げにくいという欠点はあるが、実用性はどのフォームよりも断トツといえる。更に、このフォームを選ぶ際は絶対にアンチフォームが割り込むことは無く、「アンチカウント」も激減するというメリットも持つ。固有アビリティの「オートアサルト」によってキーブレードがソラをサポートする様に動く。グロウアビリティは「グライド」。仲間2人の力を借りて変身し、ゲージを5消費する。
   - <Span Style="color:#FF3300">■</Span>リミットフォーム
@@ -84,7 +84,7 @@
 
 ## キングダム ハーツII ファイナル ミックス+
 
-『**キングダム ハーツII ファイナル ミックス+**』（キングダム ハーツツー ファイナル ミックスプラス、*KINGDOM HEARTS II FINAL MIX+*）は、北米版をベースに追加要素を盛りこんだ英語音声版『**キングダム ハーツII ファイナル ミックス**』と、[GBAで発売された](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")『[COM](https://ja.wikipedia.org/wiki/キングダム_ハーツ_チェイン_オブ_メモリーズ "wikilink")』の3Dリメイク『**キングダム ハーツ Re:チェイン オブ メモリーズ**』の2枚組で発売された。
+『**キングダム ハーツII ファイナル ミックス+**』（キングダム ハーツツー ファイナル ミックスプラス、*KINGDOM HEARTS II FINAL MIX+*）は、北米版をベースに追加要素を盛りこんだ英語音声版『**キングダム ハーツII ファイナル ミックス**』と、[GBAで発売された](../Page/ゲームボーイアドバンス.md "wikilink")『[COM](../Page/キングダム_ハーツ_チェイン_オブ_メモリーズ.md "wikilink")』の3Dリメイク『**キングダム ハーツ Re:チェイン オブ メモリーズ**』の2枚組で発売された。
 
 この英語音声版とリメイク作の2枚組により、特別版以上であるということを意味して『ファイナル ミックス+』とされた。野村は後にこの2枚組について「あんな大盤振る舞いは二度とやれない」と語っている\[1\]。本作の英語音声版については、「日本語版を『ファイナル ミックス』のつもりで作ったので、どうしようか迷っている」\[2\]、「今回は『ファイナル ミックス』の制作予定はない」\[3\]といった発言が開発側から出されていたが、2006年9月に制作中であることが明らかにされた。
 
@@ -144,11 +144,11 @@
 
 その後ソラ、ドナルド、グーフィーが記憶の眠りから目を覚ますと、そこは(前作で眠りについた)忘却の城ではなく、トワイライトタウンだった。 訳も分からず街を探索する内に王様と出会うが、列車に乗るよう告げるとどこかへ消えてしまう。
 
-3人の乗った列車は不思議な塔に辿り着き、そこで王様の師匠であるイェン・シッドから、世界に再び異変が起きていることを知らされる。ノーバディと呼ばれる怪物を率いる[XIII機関](https://ja.wikipedia.org/wiki/XIII機関 "wikilink")が暗躍しているというのだ。ソラは3人の妖精に服を変えてもらい、装いも新たに、再び世界を駆け巡る冒険に出発する。
+3人の乗った列車は不思議な塔に辿り着き、そこで王様の師匠であるイェン・シッドから、世界に再び異変が起きていることを知らされる。ノーバディと呼ばれる怪物を率いる[XIII機関](../Page/XIII機関.md "wikilink")が暗躍しているというのだ。ソラは3人の妖精に服を変えてもらい、装いも新たに、再び世界を駆け巡る冒険に出発する。
 
 ## 登場キャラクター
 
-  - [ソラ](https://ja.wikipedia.org/wiki/ソラ_\(キングダム_ハーツ\) "wikilink") (Sora)
+  - [ソラ](../Page/ソラ_\(キングダム_ハーツ\).md "wikilink") (Sora)
     本作の主人公。
 
     1年前ハートレスから世界を救った、キーブレードに選ばれた勇者。闇の世界に残ったリクと王様を探し出し、故郷であるデスティニーアイランドに帰る為に旅を続けている。
@@ -164,12 +164,12 @@
 
     ソラと同じようにキーブレードを扱うことができる。
 
-  - [ドナルドダック](https://ja.wikipedia.org/wiki/ドナルドダック "wikilink") (Donald Duck)
+  - [ドナルドダック](../Page/ドナルドダック.md "wikilink") (Donald Duck)
     1年前ソラと共に世界を救った、ディズニーキャッスルの王宮魔導士。
 
     ソラとはよく口論になるがとても仲が良い。今回もソラを得意の魔法でサポートする。
 
-  - [グーフィー](https://ja.wikipedia.org/wiki/グーフィー "wikilink") (Goofy)
+  - [グーフィー](../Page/グーフィー.md "wikilink") (Goofy)
     1年前ソラと共に世界を救った、ディズニーキャッスルの王宮騎士隊長。人を傷つける武器を嫌う為、殺傷能力の少ない盾を装備している。
 
     のんびり屋だが冷静で勘が鋭く、すぐに暴走するソラとドナルドのストッパーでもある。
@@ -184,7 +184,7 @@
   - [リク](../Page/リク_\(キングダム_ハーツ\).md "wikilink") (Riku)
     ソラの親友。かつては闇に囚われソラと対峙した。闇をも自分の力とし自分を取り戻したが、アンセム（ゼアノートのハートレス）を心の中に抱えている罪悪感から王様の下を離れ、行方知れずとなっている。
 
-  - [カイリ](https://ja.wikipedia.org/wiki/カイリ_\(キングダム_ハーツ\) "wikilink") (Kairi)
+  - [カイリ](../Page/カイリ_\(キングダム_ハーツ\).md "wikilink") (Kairi)
     ソラの幼馴染である少女で、光の世界を支える「セブンプリンセス」の一人。生まれはレイディアントガーデンだが、訳あってソラとリクの住むデスティニーアイランドに流れ着いた少女。リクとソラの帰りを待っていたが、ナミネがソラの記憶の鎖をほどいたためソラのことを思い出せないでいた。
 
   - ナミネ (Naminé)
@@ -214,13 +214,13 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ソラ](https://ja.wikipedia.org/wiki/ソラ_\(キングダム_ハーツ\) "wikilink") - [入野自由](https://ja.wikipedia.org/wiki/入野自由 "wikilink") / [ハーレイ・ジョエル・オスメント](https://ja.wikipedia.org/wiki/ハーレイ・ジョエル・オスメント "wikilink")
-  - [ロクサス](https://ja.wikipedia.org/wiki/XIII機関#No._XIII_ロクサス "wikilink") - [内山昂輝](https://ja.wikipedia.org/wiki/内山昂輝 "wikilink") / [ジェシー・マッカートニー](https://ja.wikipedia.org/wiki/ジェシー・マッカートニー "wikilink")
-  - [ドナルドダック](https://ja.wikipedia.org/wiki/ドナルドダック "wikilink") - [山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink") / [トニー・アンセルモ](https://ja.wikipedia.org/wiki/トニー・アンセルモ "wikilink")
-  - [グーフィー](https://ja.wikipedia.org/wiki/グーフィー "wikilink") - [島香裕](https://ja.wikipedia.org/wiki/島香裕 "wikilink") / ビル・ファーマー
-  - [王様](../Page/ミッキーマウス.md "wikilink") - [青柳隆志](https://ja.wikipedia.org/wiki/青柳隆志 "wikilink") / [ウェイン・オルウィン](https://ja.wikipedia.org/wiki/ウェイン・オルウィン "wikilink")
-  - [リク](../Page/リク_\(キングダム_ハーツ\).md "wikilink") - [宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink") / デビッド・ギャラガー
-  - [カイリ](https://ja.wikipedia.org/wiki/カイリ_\(キングダム_ハーツ\) "wikilink") - [内田莉紗](https://ja.wikipedia.org/wiki/内田莉紗 "wikilink") / [ヘイデン・パネッティーア](../Page/ヘイデン・パネッティーア.md "wikilink")
+  - [ソラ](../Page/ソラ_\(キングダム_ハーツ\).md "wikilink") - [入野自由](../Page/入野自由.md "wikilink") / [ハーレイ・ジョエル・オスメント](../Page/ハーレイ・ジョエル・オスメント.md "wikilink")
+  - [ロクサス](https://ja.wikipedia.org/wiki/XIII機関#No._XIII_ロクサス "wikilink") - [内山昂輝](../Page/内山昂輝.md "wikilink") / [ジェシー・マッカートニー](https://ja.wikipedia.org/wiki/ジェシー・マッカートニー "wikilink")
+  - [ドナルドダック](../Page/ドナルドダック.md "wikilink") - [山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink") / [トニー・アンセルモ](https://ja.wikipedia.org/wiki/トニー・アンセルモ "wikilink")
+  - [グーフィー](../Page/グーフィー.md "wikilink") - [島香裕](../Page/島香裕.md "wikilink") / ビル・ファーマー
+  - [王様](../Page/ミッキーマウス.md "wikilink") - [青柳隆志](../Page/青柳隆志.md "wikilink") / [ウェイン・オルウィン](https://ja.wikipedia.org/wiki/ウェイン・オルウィン "wikilink")
+  - [リク](../Page/リク_\(キングダム_ハーツ\).md "wikilink") - [宮野真守](../Page/宮野真守.md "wikilink") / デビッド・ギャラガー
+  - [カイリ](../Page/カイリ_\(キングダム_ハーツ\).md "wikilink") - [内田莉紗](../Page/内田莉紗.md "wikilink") / [ヘイデン・パネッティーア](../Page/ヘイデン・パネッティーア.md "wikilink")
   - ナミネ - [中原郁](https://ja.wikipedia.org/wiki/中原郁 "wikilink") / [ブリタニー・スノウ](https://ja.wikipedia.org/wiki/ブリタニー・スノウ "wikilink")
   - [ピート](https://ja.wikipedia.org/wiki/ピート_\(ディズニーキャラクター\) "wikilink") - [大平透](../Page/大平透.md "wikilink") / [ジム・カミングス](../Page/ジム・カミングス.md "wikilink")
   - マレフィセント - [沢田敏子](../Page/沢田敏子.md "wikilink") / スーザン・ブレイクスリー
@@ -228,19 +228,19 @@
   - ディズ - [若山弦蔵](../Page/若山弦蔵.md "wikilink") / [クリストファー・リー](../Page/クリストファー・リー.md "wikilink")
   - [ゼムナス](https://ja.wikipedia.org/wiki/XIII機関#No._I_ゼムナス "wikilink") - [若本規夫](../Page/若本規夫.md "wikilink") / [ポール・セント・ピーター](https://ja.wikipedia.org/wiki/ポール・セント・ピーター "wikilink")
   - [アクセル](https://ja.wikipedia.org/wiki/XIII機関#No._VIII_アクセル "wikilink") - [藤原啓治](../Page/藤原啓治.md "wikilink") / クイントン・フリン
-  - [サイクス](https://ja.wikipedia.org/wiki/XIII機関#No._VII_サイクス "wikilink") - [佐藤銀平](https://ja.wikipedia.org/wiki/佐藤銀平 "wikilink") / [カーク・ソーントン](../Page/カーク・ソーントン.md "wikilink")
-  - [シグバール](https://ja.wikipedia.org/wiki/XIII機関#No._II_シグバール "wikilink") - [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink") / ジェームズ・パトリック・スチュアート
+  - [サイクス](https://ja.wikipedia.org/wiki/XIII機関#No._VII_サイクス "wikilink") - [佐藤銀平](../Page/佐藤銀平.md "wikilink") / [カーク・ソーントン](../Page/カーク・ソーントン.md "wikilink")
+  - [シグバール](https://ja.wikipedia.org/wiki/XIII機関#No._II_シグバール "wikilink") - [大塚芳忠](../Page/大塚芳忠.md "wikilink") / ジェームズ・パトリック・スチュアート
   - [ザルディン](https://ja.wikipedia.org/wiki/XIII機関#No._III_ザルディン "wikilink") - [秋元羊介](../Page/秋元羊介.md "wikilink") / デビッド・ダイアン・フィッシャー
   - [デミックス](https://ja.wikipedia.org/wiki/XIII機関#No._IX_デミックス "wikilink") - [鈴村健一](../Page/鈴村健一.md "wikilink") / ライアン・オドノヒュー
-  - [ルクソード](https://ja.wikipedia.org/wiki/XIII機関#No._X_ルクソード "wikilink") - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink") / ロビン・アットキン・ダウンズ
-  - ハイネ - [佐々木和徳](https://ja.wikipedia.org/wiki/佐々木和徳 "wikilink") / ジャスティン・カウデン
+  - [ルクソード](https://ja.wikipedia.org/wiki/XIII機関#No._X_ルクソード "wikilink") - [中田譲治](../Page/中田譲治.md "wikilink") / ロビン・アットキン・ダウンズ
+  - ハイネ - [佐々木和徳](../Page/佐々木和徳.md "wikilink") / ジャスティン・カウデン
   - ピンツ - [田谷隼](https://ja.wikipedia.org/wiki/田谷隼 "wikilink") / ショーン・マーケット
   - オレット - [平澤優花](https://ja.wikipedia.org/wiki/平澤優花 "wikilink") / ジェシカ・ディ・シッコ
   - トーナメントアナウンサー - [諏訪部順一](../Page/諏訪部順一.md "wikilink") / アダム・ポール
   - [マールーシャ](https://ja.wikipedia.org/wiki/XIII機関#No._XI_マールーシャ "wikilink") - [池田秀一](../Page/池田秀一.md "wikilink")\[4\]
-  - [ラクシーヌ](https://ja.wikipedia.org/wiki/XIII機関#No._XII_ラクシーヌ "wikilink") - [宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")\[5\]
+  - [ラクシーヌ](https://ja.wikipedia.org/wiki/XIII機関#No._XII_ラクシーヌ "wikilink") - [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")\[5\]
   - [ヴィクセン](https://ja.wikipedia.org/wiki/XIII機関#No._IV_ヴィクセン "wikilink") - [野沢那智](../Page/野沢那智.md "wikilink")\[6\]
-  - [レクセウス](https://ja.wikipedia.org/wiki/XIII機関#No._V_レクセウス "wikilink") - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")\[7\]
+  - [レクセウス](https://ja.wikipedia.org/wiki/XIII機関#No._V_レクセウス "wikilink") - [立木文彦](../Page/立木文彦.md "wikilink")\[7\]
   - [ゼクシオン](https://ja.wikipedia.org/wiki/XIII機関#No._VI_ゼクシオン "wikilink") - [石田彰](../Page/石田彰.md "wikilink")\[8\]
 
 </div>
@@ -249,49 +249,49 @@
 
   - セッツァー - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink") / [クリスピン・フリーマン](https://ja.wikipedia.org/wiki/クリスピン・フリーマン "wikilink")
   - [クラウド](../Page/クラウド・ストライフ.md "wikilink") - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink") / スティーブ・バートン
-  - エアリス - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") / [ミーナ・スヴァーリ](https://ja.wikipedia.org/wiki/ミーナ・スヴァーリ "wikilink")
-  - ティファ - [伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink") / [レイチェル・リー・クック](https://ja.wikipedia.org/wiki/レイチェル・リー・クック "wikilink")
-  - ユフィ - [かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink") / [メイ・ホイットマン](https://ja.wikipedia.org/wiki/メイ・ホイットマン "wikilink")
-  - [シド](https://ja.wikipedia.org/wiki/シド_\(ファイナルファンタジー\) "wikilink") - [山路和弘](https://ja.wikipedia.org/wiki/山路和弘 "wikilink") / クリス・エジャリー
-  - [セフィロス](https://ja.wikipedia.org/wiki/セフィロス "wikilink") - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink") / ジョージ・ニューバーン
+  - エアリス - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") / [ミーナ・スヴァーリ](../Page/ミーナ・スヴァーリ.md "wikilink")
+  - ティファ - [伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink") / [レイチェル・リー・クック](../Page/レイチェル・リー・クック.md "wikilink")
+  - ユフィ - [かかずゆみ](../Page/かかずゆみ.md "wikilink") / [メイ・ホイットマン](https://ja.wikipedia.org/wiki/メイ・ホイットマン "wikilink")
+  - [シド](https://ja.wikipedia.org/wiki/シド_\(ファイナルファンタジー\) "wikilink") - [山路和弘](../Page/山路和弘.md "wikilink") / クリス・エジャリー
+  - [セフィロス](../Page/セフィロス.md "wikilink") - [森川智之](../Page/森川智之.md "wikilink") / ジョージ・ニューバーン
   - レオン（スコール） - [石川英郎](../Page/石川英郎.md "wikilink") / ダグ・アーホルツ
   - セルフィ - [青木麻由子](https://ja.wikipedia.org/wiki/青木麻由子 "wikilink") / モリー・ケック
   - サイファー - [子安武人](../Page/子安武人.md "wikilink") / ウィル・フリードル
-  - ライ（雷神） - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink") / ブランドン・アダムス
-  - フウ（風神） - [夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink") / ジリアン・ボーエン
+  - ライ（雷神） - [中井和哉](../Page/中井和哉.md "wikilink") / ブランドン・アダムス
+  - フウ（風神） - [夏樹リオ](../Page/夏樹リオ.md "wikilink") / ジリアン・ボーエン
   - ビビ - [大谷育江](../Page/大谷育江.md "wikilink") / メリッサ・ディズニー
   - アーロン - 石川英郎 / マット・マッケンジー
-  - [ユウナ](https://ja.wikipedia.org/wiki/ユウナ_\(ファイナルファンタジー\) "wikilink") - 青木麻由子 / ヘディ・ビューレイ
-  - [リュック](https://ja.wikipedia.org/wiki/リュック_\(ファイナルファンタジー\) "wikilink") - [松本まりか](https://ja.wikipedia.org/wiki/松本まりか "wikilink") / [タラ・ストロング](../Page/タラ・ストロング.md "wikilink")
+  - [ユウナ](../Page/ユウナ_\(ファイナルファンタジー\).md "wikilink") - 青木麻由子 / ヘディ・ビューレイ
+  - [リュック](../Page/リュック_\(ファイナルファンタジー\).md "wikilink") - [松本まりか](../Page/松本まりか.md "wikilink") / [タラ・ストロング](../Page/タラ・ストロング.md "wikilink")
   - パイン - [豊口めぐみ](../Page/豊口めぐみ.md "wikilink") / グウェンドリン・イェオ
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ミニー王妃](../Page/ミニーマウス.md "wikilink") - [水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink") / [ルシー・テイラー](https://ja.wikipedia.org/wiki/ルシー・テイラー "wikilink")
-  - [デイジー](https://ja.wikipedia.org/wiki/デイジーダック "wikilink") - [土井美加](https://ja.wikipedia.org/wiki/土井美加 "wikilink") / [トレス・マクニール](https://ja.wikipedia.org/wiki/トレス・マクニール "wikilink")
-  - [プルート](https://ja.wikipedia.org/wiki/プルート_\(ディズニーキャラクター\) "wikilink") - ビル・ファーマー\[9\]
-  - [チップ](https://ja.wikipedia.org/wiki/チップとデール "wikilink") - [滝沢ロコ](https://ja.wikipedia.org/wiki/滝沢ロコ "wikilink") / トレス・マクニール
-  - [デール](https://ja.wikipedia.org/wiki/チップとデール "wikilink") - [稲葉実](https://ja.wikipedia.org/wiki/稲葉実 "wikilink") / [コーリー・バートン](../Page/コーリー・バートン.md "wikilink")
-  - [ジミニー・クリケット](https://ja.wikipedia.org/wiki/ジミニー・クリケット "wikilink") - [肝付兼太](../Page/肝付兼太.md "wikilink") / エディ・キャロル
+  - [ミニー王妃](../Page/ミニーマウス.md "wikilink") - [水谷優子](../Page/水谷優子.md "wikilink") / [ルシー・テイラー](https://ja.wikipedia.org/wiki/ルシー・テイラー "wikilink")
+  - [デイジー](../Page/デイジーダック.md "wikilink") - [土井美加](../Page/土井美加.md "wikilink") / [トレス・マクニール](https://ja.wikipedia.org/wiki/トレス・マクニール "wikilink")
+  - [プルート](../Page/プルート_\(ディズニーキャラクター\).md "wikilink") - ビル・ファーマー\[9\]
+  - [チップ](../Page/チップとデール.md "wikilink") - [滝沢ロコ](../Page/滝沢ロコ.md "wikilink") / トレス・マクニール
+  - [デール](../Page/チップとデール.md "wikilink") - [稲葉実](../Page/稲葉実.md "wikilink") / [コーリー・バートン](../Page/コーリー・バートン.md "wikilink")
+  - [ジミニー・クリケット](../Page/ジミニー・クリケット.md "wikilink") - [肝付兼太](../Page/肝付兼太.md "wikilink") / エディ・キャロル
   - [イェン・シッド](../Page/イェン・シッド.md "wikilink") - [稲垣隆史](../Page/稲垣隆史.md "wikilink") / コーリー・バートン
   - フローラ - [麻生美代子](../Page/麻生美代子.md "wikilink") / スーザン・ブレイクスリー
-  - フォーナ - [京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink") / [ルシー・テイラー](https://ja.wikipedia.org/wiki/ルシー・テイラー "wikilink")
+  - フォーナ - [京田尚子](../Page/京田尚子.md "wikilink") / [ルシー・テイラー](https://ja.wikipedia.org/wiki/ルシー・テイラー "wikilink")
   - メリーウェザー - [野沢雅子](../Page/野沢雅子.md "wikilink") / トレス・マクニール
-  - [マーリン](https://ja.wikipedia.org/wiki/マーリン "wikilink") - [内田稔](https://ja.wikipedia.org/wiki/内田稔 "wikilink") / [ジェフ・ベネット](../Page/ジェフ・ベネット.md "wikilink")
+  - [マーリン](../Page/マーリン.md "wikilink") - [内田稔](../Page/内田稔.md "wikilink") / [ジェフ・ベネット](../Page/ジェフ・ベネット.md "wikilink")
   - プー - [亀山助清](../Page/亀山助清.md "wikilink") / [ジム・カミングス](../Page/ジム・カミングス.md "wikilink")
-  - [ピグレット](https://ja.wikipedia.org/wiki/ピグレット "wikilink") - [小形満](https://ja.wikipedia.org/wiki/小形満 "wikilink") 、[小宮山清](https://ja.wikipedia.org/wiki/小宮山清 "wikilink")（回想） / トラヴィス・オーツ
+  - [ピグレット](https://ja.wikipedia.org/wiki/ピグレット "wikilink") - [小形満](../Page/小形満.md "wikilink") 、[小宮山清](../Page/小宮山清.md "wikilink")（回想） / トラヴィス・オーツ
   - [ティガー](https://ja.wikipedia.org/wiki/ティガー "wikilink") - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink") / ジム・カミングス
   - ラビット - [龍田直樹](../Page/龍田直樹.md "wikilink") / ケン・サンソン
-  - オウル - [上田敏也](https://ja.wikipedia.org/wiki/上田敏也 "wikilink") / アンドレ・ストージカ
-  - イーヨー - [石田太郎](https://ja.wikipedia.org/wiki/石田太郎 "wikilink") / [グレッグ・バーガー](https://ja.wikipedia.org/wiki/グレッグ・バーガー "wikilink")
-  - カンガ - [片岡富枝](https://ja.wikipedia.org/wiki/片岡富枝 "wikilink") / トレス・マクニール
+  - オウル - [上田敏也](../Page/上田敏也.md "wikilink") / アンドレ・ストージカ
+  - イーヨー - [石田太郎](../Page/石田太郎.md "wikilink") / [グレッグ・バーガー](https://ja.wikipedia.org/wiki/グレッグ・バーガー "wikilink")
+  - カンガ - [片岡富枝](../Page/片岡富枝.md "wikilink") / トレス・マクニール
   - ルー - 杉本征也 / [ジミー・ベネット](../Page/ジミー・ベネット.md "wikilink")
-  - ゴーファー - [辻村真人](https://ja.wikipedia.org/wiki/辻村真人 "wikilink") / [マイケル・ガフ](https://ja.wikipedia.org/wiki/マイケル・ガフ_\(声優\) "wikilink")
-  - トロン - [土田大](https://ja.wikipedia.org/wiki/土田大 "wikilink") / [ブルース・ボックスライトナー](https://ja.wikipedia.org/wiki/ブルース・ボックスライトナー "wikilink")
-  - サーク司令官 - [金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink") / コーリー・バートン
-  - MCP - [沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink") / コーリー・バートン
+  - ゴーファー - [辻村真人](../Page/辻村真人.md "wikilink") / [マイケル・ガフ](https://ja.wikipedia.org/wiki/マイケル・ガフ_\(声優\) "wikilink")
+  - トロン - [土田大](../Page/土田大.md "wikilink") / [ブルース・ボックスライトナー](https://ja.wikipedia.org/wiki/ブルース・ボックスライトナー "wikilink")
+  - サーク司令官 - [金尾哲夫](../Page/金尾哲夫.md "wikilink") / コーリー・バートン
+  - MCP - [沢木郁也](../Page/沢木郁也.md "wikilink") / コーリー・バートン
   - アリエル - [すずきまゆみ](../Page/すずきまゆみ.md "wikilink") / [ジョディ・ベンソン](https://ja.wikipedia.org/wiki/ジョディ・ベンソン "wikilink")
   - エリック - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink") / クリストファー・ダニエル・バーンズ
   - トリトン - 石田太郎 / ケネス・マース
@@ -300,12 +300,12 @@
   - アースラ - [くじら](../Page/くじら_\(声優\).md "wikilink") / パット・キャロル
   - [ビースト](../Page/野獣_\(美女と野獣\).md "wikilink") - 山寺宏一 / [ロビー・ベンソン](../Page/ロビー・ベンソン.md "wikilink")
   - [ベル](../Page/ベル_\(美女と野獣\).md "wikilink") - [伊東恵里](../Page/伊東恵里.md "wikilink") / [ペイジ・オハラ](https://ja.wikipedia.org/wiki/ペイジ・オハラ "wikilink")
-  - [ルミエール](https://ja.wikipedia.org/wiki/ルミエール_\(美女と野獣\) "wikilink") - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink") / ジェフ・ベネット
-  - [コグスワース](https://ja.wikipedia.org/wiki/コグスワース "wikilink") - [熊倉一雄](https://ja.wikipedia.org/wiki/熊倉一雄 "wikilink") / [デヴィッド・オグデン・スティアーズ](https://ja.wikipedia.org/wiki/デヴィッド・オグデン・スティアーズ "wikilink")
-  - [ポット夫人](https://ja.wikipedia.org/wiki/ポット夫人 "wikilink") - [福田公子](../Page/福田公子.md "wikilink") / [アンジェラ・ランズベリー](https://ja.wikipedia.org/wiki/アンジェラ・ランズベリー "wikilink")
+  - [ルミエール](https://ja.wikipedia.org/wiki/ルミエール_\(美女と野獣\) "wikilink") - [江原正士](../Page/江原正士.md "wikilink") / ジェフ・ベネット
+  - [コグスワース](https://ja.wikipedia.org/wiki/コグスワース "wikilink") - [熊倉一雄](../Page/熊倉一雄.md "wikilink") / [デヴィッド・オグデン・スティアーズ](https://ja.wikipedia.org/wiki/デヴィッド・オグデン・スティアーズ "wikilink")
+  - [ポット夫人](https://ja.wikipedia.org/wiki/ポット夫人 "wikilink") - [福田公子](../Page/福田公子.md "wikilink") / [アンジェラ・ランズベリー](../Page/アンジェラ・ランズベリー.md "wikilink")
   - [ワードローブ](https://ja.wikipedia.org/wiki/美女と野獣_\(1991年の映画\)#キャラクター "wikilink") - [近藤高子](../Page/近藤高子.md "wikilink") / ジョー・アン・ウォーリー
   - ジャック - [市村正親](https://ja.wikipedia.org/wiki/市村正親 "wikilink") / [クリス・サランドン](../Page/クリス・サランドン.md "wikilink")
-  - サリー - [土居裕子](https://ja.wikipedia.org/wiki/土居裕子 "wikilink") / [キャス・スーシー](https://ja.wikipedia.org/wiki/キャス・スーシー "wikilink")
+  - サリー - [土居裕子](../Page/土居裕子.md "wikilink") / [キャス・スーシー](https://ja.wikipedia.org/wiki/キャス・スーシー "wikilink")
   - フィンケルスタイン - [三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink") / [ジェス・ハーネル](https://ja.wikipedia.org/wiki/ジェス・ハーネル "wikilink")
   - メイヤー（町長） - 大平透 / [グレン・シャディックス](https://ja.wikipedia.org/wiki/グレン・シャディックス "wikilink")
 
@@ -313,50 +313,50 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - ブギー - [畠中洋](https://ja.wikipedia.org/wiki/畠中洋 "wikilink") / ケン・ペイジ
-  - ロック - [園岡新太郎](https://ja.wikipedia.org/wiki/園岡新太郎 "wikilink") / ジェス・ハーネル
+  - ブギー - [畠中洋](../Page/畠中洋.md "wikilink") / ケン・ペイジ
+  - ロック - [園岡新太郎](../Page/園岡新太郎.md "wikilink") / ジェス・ハーネル
   - ショック - 土居裕子 / キャス・スーシー
   - バレル - [松澤重雄](https://ja.wikipedia.org/wiki/松澤重雄 "wikilink") / ジェフ・ベネット
   - サンタクロース - [永江智明](../Page/永江智明.md "wikilink") / コーリー・バートン
   - アラジン - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink") / スコット・ウェインガー
-  - ジャスミン - [麻生かほ里](https://ja.wikipedia.org/wiki/麻生かほ里 "wikilink") / リンダ・ラーキン
+  - ジャスミン - [麻生かほ里](../Page/麻生かほ里.md "wikilink") / リンダ・ラーキン
   - [ジーニー](../Page/ジーニー_\(ディズニーキャラクター\).md "wikilink") - 山寺宏一 / [ダン・カステラネタ](../Page/ダン・カステラネタ.md "wikilink")
   - ジャファー - [宝田明](https://ja.wikipedia.org/wiki/宝田明 "wikilink") / ジョナサン・フリーマン
-  - イアーゴ - [大川透](https://ja.wikipedia.org/wiki/大川透 "wikilink") / [ギルバート・ゴットフリード](https://ja.wikipedia.org/wiki/ギルバート・ゴットフリード "wikilink")
+  - イアーゴ - [大川透](../Page/大川透.md "wikilink") / [ギルバート・ゴットフリード](https://ja.wikipedia.org/wiki/ギルバート・ゴットフリード "wikilink")
   - 商人 - [松尾貴史](../Page/松尾貴史.md "wikilink") / コーリー・バートン
-  - [シンバ](https://ja.wikipedia.org/wiki/シンバ "wikilink") - [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink") / [カム・クラーク](https://ja.wikipedia.org/wiki/カム・クラーク "wikilink")
+  - [シンバ](https://ja.wikipedia.org/wiki/シンバ "wikilink") - [宮本充](../Page/宮本充.md "wikilink") / [カム・クラーク](https://ja.wikipedia.org/wiki/カム・クラーク "wikilink")
   - [ナラ](https://ja.wikipedia.org/wiki/ナラ_\(ライオン・キング\) "wikilink") - [華村りこ](https://ja.wikipedia.org/wiki/華村りこ "wikilink") / [ヴァネッサ・マーシャル](https://ja.wikipedia.org/wiki/ヴァネッサ・マーシャル "wikilink")
   - [ティモン](https://ja.wikipedia.org/wiki/ティモンとプンバァ "wikilink") - 三ツ矢雄二 / ブルース・ラノイル
   - [プンバァ](https://ja.wikipedia.org/wiki/ティモンとプンバァ "wikilink") - 畠中洋 / アーニー・サベラ
-  - [ムファサ](https://ja.wikipedia.org/wiki/ムファサ "wikilink") - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink") / [ジェームズ・アール・ジョーンズ](https://ja.wikipedia.org/wiki/ジェームズ・アール・ジョーンズ "wikilink")
-  - ラフィキ - [槐柳二](https://ja.wikipedia.org/wiki/槐柳二 "wikilink") / ロバート・ギローム
-  - [スカー](https://ja.wikipedia.org/wiki/スカー "wikilink") - [壤晴彦](https://ja.wikipedia.org/wiki/壤晴彦 "wikilink") / ジェームズ・ホラン
-  - [シェンジ](https://ja.wikipedia.org/wiki/シェンジ・バンザイ・エド "wikilink") - [片岡富枝](https://ja.wikipedia.org/wiki/片岡富枝 "wikilink") / トレス・マクニール
-  - [バンザイ](https://ja.wikipedia.org/wiki/シェンジ・バンザイ・エド "wikilink") - [樋浦勉](https://ja.wikipedia.org/wiki/樋浦勉 "wikilink") / [チーチ・マリン](https://ja.wikipedia.org/wiki/チーチ・マリン "wikilink")
+  - [ムファサ](https://ja.wikipedia.org/wiki/ムファサ "wikilink") - [大和田伸也](../Page/大和田伸也.md "wikilink") / [ジェームズ・アール・ジョーンズ](../Page/ジェームズ・アール・ジョーンズ.md "wikilink")
+  - ラフィキ - [槐柳二](../Page/槐柳二.md "wikilink") / ロバート・ギローム
+  - [スカー](https://ja.wikipedia.org/wiki/スカー "wikilink") - [壤晴彦](../Page/壤晴彦.md "wikilink") / ジェームズ・ホラン
+  - [シェンジ](https://ja.wikipedia.org/wiki/シェンジ・バンザイ・エド "wikilink") - [片岡富枝](../Page/片岡富枝.md "wikilink") / トレス・マクニール
+  - [バンザイ](https://ja.wikipedia.org/wiki/シェンジ・バンザイ・エド "wikilink") - [樋浦勉](../Page/樋浦勉.md "wikilink") / [チーチ・マリン](../Page/チーチ・マリン.md "wikilink")
   - [エド](https://ja.wikipedia.org/wiki/シェンジ・バンザイ・エド "wikilink") - ジム・カミングス\[10\]
-  - ヘラクレス - [松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink") / [テイト・ドノヴァン](../Page/テイト・ドノヴァン.md "wikilink")
+  - ヘラクレス - [松本保典](../Page/松本保典.md "wikilink") / [テイト・ドノヴァン](../Page/テイト・ドノヴァン.md "wikilink")
   - メガラ（メグ） - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink") / スーザン・イーガン
   - フィル - [永井一郎](../Page/永井一郎.md "wikilink") / ロバート・コスタンゾ
-  - ハデス - [嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink") / [ジェームズ・ウッズ](https://ja.wikipedia.org/wiki/ジェームズ・ウッズ "wikilink")
+  - ハデス - [嶋田久作](../Page/嶋田久作.md "wikilink") / [ジェームズ・ウッズ](../Page/ジェームズ・ウッズ.md "wikilink")
   - ムーラン - すずきまゆみ / [ミン・ナ](https://ja.wikipedia.org/wiki/ミン・ナ "wikilink")
   - ムーシュー - 山寺宏一 / マーク・モーズリー
-  - シャン - [園岡新太郎](https://ja.wikipedia.org/wiki/園岡新太郎 "wikilink") / [B・D・ウォン](https://ja.wikipedia.org/wiki/B・D・ウォン "wikilink")
-  - 皇帝 - [小林修](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink") / [パット・モリタ](../Page/パット・モリタ.md "wikilink")
+  - シャン - [園岡新太郎](../Page/園岡新太郎.md "wikilink") / [B・D・ウォン](../Page/B・D・ウォン.md "wikilink")
+  - 皇帝 - [小林修](../Page/小林修_\(声優\).md "wikilink") / [パット・モリタ](../Page/パット・モリタ.md "wikilink")
   - ヤオ - [小田豊](https://ja.wikipedia.org/wiki/小田豊 "wikilink") / ハーヴェイ・フィアスティン
   - リン - [中尾隆聖](../Page/中尾隆聖.md "wikilink") / ジェデ・ワタナベ
-  - チェン・ポー - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink") / ジェリー・トンド
+  - チェン・ポー - [塩屋浩三](../Page/塩屋浩三.md "wikilink") / ジェリー・トンド
   - シャン・ユー - [藤岡弘、](../Page/藤岡弘、.md "wikilink") / コーリー・バートン
-  - [ジャック・スパロウ](https://ja.wikipedia.org/wiki/ジャック・スパロウ "wikilink") - [平田広明](../Page/平田広明.md "wikilink") / [ジェームズ・アーノルド・テイラー](https://ja.wikipedia.org/wiki/ジェームズ・アーノルド・テイラー "wikilink")
-  - [ウィル・ターナー](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアンの登場人物#ウィル・ターナー "wikilink") - [平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink") / [クリスピン・フリーマン](https://ja.wikipedia.org/wiki/クリスピン・フリーマン "wikilink")
-  - [エリザベス・スワン](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアンの登場人物#エリザベス・スワン "wikilink") - [弓場沙織](https://ja.wikipedia.org/wiki/弓場沙織 "wikilink") / エリザ・シュナイダー
+  - [ジャック・スパロウ](../Page/ジャック・スパロウ.md "wikilink") - [平田広明](../Page/平田広明.md "wikilink") / [ジェームズ・アーノルド・テイラー](https://ja.wikipedia.org/wiki/ジェームズ・アーノルド・テイラー "wikilink")
+  - [ウィル・ターナー](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアンの登場人物#ウィル・ターナー "wikilink") - [平川大輔](../Page/平川大輔.md "wikilink") / [クリスピン・フリーマン](https://ja.wikipedia.org/wiki/クリスピン・フリーマン "wikilink")
+  - [エリザベス・スワン](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアンの登場人物#エリザベス・スワン "wikilink") - [弓場沙織](../Page/弓場沙織.md "wikilink") / エリザ・シュナイダー
   - [バルボッサ](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアンの登場人物#ヘクター・バルボッサ "wikilink") - 壤晴彦 / ブライアン・ジョージ
   - [ピーター・パン](https://ja.wikipedia.org/wiki/ピーター・パン_\(キャラクター\) "wikilink") - [林勇](../Page/林勇_\(声優\).md "wikilink") / クリストファー・スティール
-  - [スティッチ](https://ja.wikipedia.org/wiki/リロ・アンド・スティッチ "wikilink") - 山寺宏一 / [クリス・サンダース](https://ja.wikipedia.org/wiki/クリス・サンダース "wikilink")
-  - [チキン・リトル](https://ja.wikipedia.org/wiki/チキン・リトル "wikilink") - [山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink") / [ザック・ブラフ](../Page/ザック・ブラフ.md "wikilink")
+  - [スティッチ](../Page/リロ・アンド・スティッチ.md "wikilink") - 山寺宏一 / [クリス・サンダース](https://ja.wikipedia.org/wiki/クリス・サンダース "wikilink")
+  - [チキン・リトル](../Page/チキン・リトル.md "wikilink") - [山本圭子](../Page/山本圭子.md "wikilink") / [ザック・ブラフ](../Page/ザック・ブラフ.md "wikilink")
 
 </div>
 
-  - その他 - 浜野和子、[船木真人](https://ja.wikipedia.org/wiki/船木真人 "wikilink")、[細野雅世](https://ja.wikipedia.org/wiki/細野雅世 "wikilink")、[渡辺英雄](../Page/渡辺英雄.md "wikilink")、[吉野貴宏](https://ja.wikipedia.org/wiki/吉野貴宏 "wikilink")、[宇乃音亜季](../Page/宇乃音亜季.md "wikilink")、[小泉一郎太](https://ja.wikipedia.org/wiki/粟津貴嗣 "wikilink")、[大須賀純](../Page/大須賀純.md "wikilink")、[小川一樹](../Page/小川一樹.md "wikilink")、[園部好徳](https://ja.wikipedia.org/wiki/園部好徳 "wikilink")、[松浦チエ](https://ja.wikipedia.org/wiki/松浦チエ "wikilink")、[山内勉](../Page/山内勉.md "wikilink")、[髙階俊嗣](https://ja.wikipedia.org/wiki/高階俊嗣 "wikilink")、前田比呂美、日野しおん
+  - その他 - 浜野和子、[船木真人](https://ja.wikipedia.org/wiki/船木真人 "wikilink")、[細野雅世](../Page/細野雅世.md "wikilink")、[渡辺英雄](../Page/渡辺英雄.md "wikilink")、[吉野貴宏](../Page/吉野貴宏.md "wikilink")、[宇乃音亜季](../Page/宇乃音亜季.md "wikilink")、[小泉一郎太](../Page/粟津貴嗣.md "wikilink")、[大須賀純](../Page/大須賀純.md "wikilink")、[小川一樹](../Page/小川一樹.md "wikilink")、[園部好徳](../Page/園部好徳.md "wikilink")、[松浦チエ](../Page/松浦チエ.md "wikilink")、[山内勉](../Page/山内勉.md "wikilink")、[髙階俊嗣](../Page/高階俊嗣.md "wikilink")、前田比呂美、日野しおん
 
 ## 登場ワールド
 
@@ -371,11 +371,11 @@
   - ホロウバスティオン (Hollow Bastion)
     ソラたちが降り立ったのは、1年前の冒険で魔女マレフィセントの根城となっていたホロウバスティオンだった。世界の変わり具合に驚いているところでレオンたちと再会したソラたちは、「ホロウバスティオン再建委員会特別会員」に任命される。協力を約束するソラだったが、そこへXIII機関のメンバー6人が現れた。
     前作ではマレフィセントが本拠地にしていた「虚ろなる城」のみだったが、今作では市街地や城の周辺も探索する事ができる。
-  - ザ・ランド・オブ・ドラゴン（The Land of Dragons、作品：[ムーラン](https://ja.wikipedia.org/wiki/ムーラン_\(1998年の映画\) "wikilink")）
+  - ザ・ランド・オブ・ドラゴン（The Land of Dragons、作品：[ムーラン](../Page/ムーラン_\(1998年の映画\).md "wikilink")）
     古代の中国大陸。ソラたちは竹やぶで、1年前の冒険で力を貸してくれたムーシューと再会する。ムーシューが守り神を務めるファ家の娘ムーランが、家の名誉のため男装してピンと名乗り、フン族討伐隊に入隊するので、力を貸してほしいというのだ。ソラたちも一緒に討伐隊に参加し、国の平和をおびやかすシャン・ユーと戦うことに。
   - ビーストキャッスル（Beast's Castle、作品：[美女と野獣](https://ja.wikipedia.org/wiki/美女と野獣_\(アニメ映画\) "wikilink")）
     森の奥にそびえる古城。1年ぶりにビーストと出会うがその態度はそっけなく、バラを大事そうに抱えて自分の部屋にこもってしまう。ベルが言うには最近彼は様子がおかしく、召使いたちを城の地下に閉じ込めてしまったらしい。ソラたちは詳しい事情を聞くため、地下の幽閉された召使いたちに会いに行く。
-  - オリンポスコロシアム（Olympus Coliseum、作品：[ヘラクレス](https://ja.wikipedia.org/wiki/ヘラクレス_\(1997年の映画\) "wikilink")）
+  - オリンポスコロシアム（Olympus Coliseum、作品：[ヘラクレス](../Page/ヘラクレス_\(1997年の映画\).md "wikilink")）
     オリンポスから少し外れた冥界に降り立ったソラたちは、ヘラクレスのガールフレンドのメガラ（メグ）と出会う。ハデスの送る刺客との戦いに疲れ気味なヘラクレスを見かねて、ハデスに交渉しに行くのだというメガラ。彼女一人では危険だからとソラたちがそれを請け負うが、その頃ハデスは冥界の牢獄から罪人アーロンを呼び出し、ヘラクレスに差し向けようとしていた。
     前作ではコロシアムのみでダンジョンも存在しなかったが、今作は冥界が主な探索場所となる。
   - ディズニーキャッスル (Disney Castle)
@@ -390,13 +390,13 @@
     前作と異なり、今作では戦闘は無くリズムゲームをクリアする形で進行する特殊なワールドとなっている。
   - ポートロイヤル（Port Royal、作品：[パイレーツ・オブ・カリビアン/呪われた海賊たち](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/呪われた海賊たち "wikilink")）
     カリブ海の港町。ウィルという青年に出会ったソラたちは、バルボッサ率いる海賊が町を襲撃しているところに出くわす。ソラたちが足止めされている間に、海賊の船ブラックパール号は提督の娘エリザベスを拉致させ出航してしまう。エリザベスに思いを寄せるウィルは、一匹狼の海賊ジャック・スパロウと手を組み、海軍の船インターセプター号でブラックパール号を追跡する。
-  - アグラバー（Agrabah、作品：[アラジン](https://ja.wikipedia.org/wiki/アラジン_\(1992年の映画\) "wikilink")\[11\]）
+  - アグラバー（Agrabah、作品：[アラジン](../Page/アラジン_\(1992年の映画\).md "wikilink")\[11\]）
     ソラたちは、かつてジャファーの手下だったオウムのイアーゴに出会う。改心したのでアラジンたちとの仲をとりもってほしいという。早速ソラたちは、アラジンと相棒の猿アブーが商人から怒られているのを見つける。アブーが盗んだランプを商人に返すアラジンだったが、そのランプは1年前の戦いでジャファーを封じ込めたものだった。
     アグラバーの市街地と魔法の洞窟という行動範囲は変わっていないが、どちらも構造が大きく変化している。
-  - ハロウィンタウン（Halloween Town、作品：[ナイトメアー・ビフォア・クリスマス](https://ja.wikipedia.org/wiki/ナイトメアー・ビフォア・クリスマス "wikilink")）
+  - ハロウィンタウン（Halloween Town、作品：[ナイトメアー・ビフォア・クリスマス](../Page/ナイトメアー・ビフォア・クリスマス.md "wikilink")）
     いつもハロウィン一色の街のはずが、明るい飾りつけになっているのに戸惑うソラたち。そこへハロウィン風のソリに乗ったジャックが颯爽と現れる。ジャックは偶然見つけたクリスマスに夢中になり、自分の手でハロウィン風クリスマスを作ろうとしていたのだった。クリスマスタウンのサンタクロースに会いに行くというジャックに、サンタに憧れるソラも同行する。
     前作よりもハロウィンタウン内の行動範囲は狭まったが、今回はクリスマスタウンに行く事ができる。
-  - プライド・ランド（Pride Lands、作品：[ライオン・キング](https://ja.wikipedia.org/wiki/ライオン・キング "wikilink")）
+  - プライド・ランド（Pride Lands、作品：[ライオン・キング](../Page/ライオン・キング.md "wikilink")）
     広大なサバンナの大地。降り立ってすぐハイエナの群れに囲まれてしまうソラたち。なんとか切り抜けたところでメスライオンのナラと出会い、スカーというライオンが王になってから国が荒れ果ててしまったと聞く。自分たちがなんとかできないかと考えるソラたちだったが、国を救えるのは王の資格を持つ者だけらしい。それは1年前の冒険で力を貸してくれたシンバだという。
   - スペース・パラノイド（Space Paranoids、作品：[トロン](../Page/トロン_\(映画\).md "wikilink")）
     ホロウバスティオンでアンセムが使っていたコンピュータの中の世界。コンピュータに乱暴な操作をしたソラたちは、メインシステムであるMCPによってコンピュータの中へ閉じ込められてしまう。牢獄の中にはセキュリティプログラムのトロンがいた。MCPに対抗するための力をDTDというデータエリアから得ようとしているトロン。リクたちの情報を得ようと思っていたソラたちは、トロンと共にDTDを目指す。
@@ -424,8 +424,8 @@
 ## 主なスタッフ
 
   - ディレクター、コンセプトデザイン、ベースストーリー、2Dキャラクターメインアート：[野村哲也](../Page/野村哲也.md "wikilink")
-  - シナリオ：[野島一成](https://ja.wikipedia.org/wiki/野島一成 "wikilink")
-  - 音楽：[下村陽子](https://ja.wikipedia.org/wiki/下村陽子 "wikilink")
+  - シナリオ：[野島一成](../Page/野島一成.md "wikilink")
+  - 音楽：[下村陽子](../Page/下村陽子.md "wikilink")
   - メインプログラマー：原田弘、安井健太郎
   - バトルプランニングディレクター：兼森雄一
   - マッププランニングディレクター：遠藤剛
@@ -442,25 +442,25 @@
   - スーパーバイジングダイアログエディター：須賀麻子
   - サウンドエディター：稲倉遼
   - ムービーディレクター：野末武志
-  - プロデューサー：[橋本真司](https://ja.wikipedia.org/wiki/橋本真司 "wikilink")
-  - Co.プロデューサー：[北瀬佳範](https://ja.wikipedia.org/wiki/北瀬佳範 "wikilink")
-  - エグゼクティブプロデューサー：[和田洋一](https://ja.wikipedia.org/wiki/和田洋一_\(スクウェア・エニックス\) "wikilink")
-  - 主題歌：[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")『[Passion](https://ja.wikipedia.org/wiki/Passion_\(宇多田ヒカルの曲\) "wikilink")』（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）
+  - プロデューサー：[橋本真司](../Page/橋本真司.md "wikilink")
+  - Co.プロデューサー：[北瀬佳範](../Page/北瀬佳範.md "wikilink")
+  - エグゼクティブプロデューサー：[和田洋一](../Page/和田洋一_\(スクウェア・エニックス\).md "wikilink")
+  - 主題歌：[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")『[Passion](../Page/Passion_\(宇多田ヒカルの曲\).md "wikilink")』（[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")）
 
 ## 関連作品
 
-  - 『キングダム ハーツ シリーズ [アルティマニア](https://ja.wikipedia.org/wiki/アルティマニア "wikilink")α 〜イントロダクション オブ キングダム ハーツII〜』 2005年12月9日、ISBN 4-7575-1597-9
+  - 『キングダム ハーツ シリーズ [アルティマニア](../Page/アルティマニア.md "wikilink")α 〜イントロダクション オブ キングダム ハーツII〜』 2005年12月9日、ISBN 4-7575-1597-9
   - 『キングダム ハーツII ポストカードブック』2005年12月28日、ISBN 4-7575-1599-5
   - 『キングダム ハーツII アルティマニア』 2006年2月23日、ISBN 4-7575-1621-5
   - 『キングダム ハーツII ファイナル ミックス+ アルティマニア』 2007年5月2日、ISBN 4-7575-2013-1
-  - 小説『キングダム ハーツII』（著：[金巻ともこ](../Page/金巻ともこ.md "wikilink")、画：[天野シロ](https://ja.wikipedia.org/wiki/天野シロ "wikilink")、原案：野村哲也・野島一成）
+  - 小説『キングダム ハーツII』（著：[金巻ともこ](../Page/金巻ともこ.md "wikilink")、画：[天野シロ](../Page/天野シロ.md "wikilink")、原案：野村哲也・野島一成）
       - Vol.1 Roxas -Seven days- 2006年4月22日、ISBN 4-7575-1679-7
       - Vol.2 The Destruction of Hollow Bastion 2006年7月14日、ISBN 4-7575-1715-7
       - Vol.3 Tears of Nobody 2006年9月29日、ISBN 4-7575-1792-0
       - Vol.4 Anthem―Meet Again/Axel Last Stand 2007年2月22日、ISBN 4-7575-1964-8
       - Short Stories Vol.1 OTHER DIAMONDS 2007年11月20日、ISBN 4-7575-2152-9
       - Short Stories Vol.2 Axel Seven Days 2008年5月30日、ISBN 4-7575-2255-X
-  - 漫画『キングダム ハーツII』（天野シロ、[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")連載）（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月号 - [2009年](../Page/2009年.md "wikilink")8月号、[2012年](../Page/2012年.md "wikilink")11月号 - [2015年](../Page/2015年.md "wikilink")6月号）
+  - 漫画『キングダム ハーツII』（天野シロ、[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")連載）（[2006年](../Page/2006年.md "wikilink")6月号 - [2009年](../Page/2009年.md "wikilink")8月号、[2012年](../Page/2012年.md "wikilink")11月号 - [2015年](../Page/2015年.md "wikilink")6月号）
       - 1巻 2006年12月22日、ISBN 4-7575-1832-3
       - 2巻 2007年8月22日、ISBN 4-7575-2084-0
       - 3巻 2008年4月22日、ISBN 4-7575-2262-2
@@ -498,4 +498,4 @@
 8.
 9.  日本語、英語で共通。
 10.
-11. シナリオは『[アラジン ジャファーの逆襲](https://ja.wikipedia.org/wiki/アラジン_ジャファーの逆襲 "wikilink")』をモチーフとしている。
+11. シナリオは『[アラジン ジャファーの逆襲](../Page/アラジン_ジャファーの逆襲.md "wikilink")』をモチーフとしている。

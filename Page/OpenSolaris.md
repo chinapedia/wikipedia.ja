@@ -5,7 +5,7 @@
 
 ` | name = OpenSolaris`
 ` | logo = `[`80px`](https://ja.wikipedia.org/wiki/ファイル:OpenSolaris_Logo.svg "wikilink")
-` | family = `[`Unix系`](../Page/Unix系.md "wikilink")`, `[`System``   ``V`](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink")`,`[`Solaris`](../Page/Solaris.md "wikilink")
+` | family = `[`Unix系`](../Page/Unix系.md "wikilink")`, `[`System``   ``V`](../Page/UNIX_System_V.md "wikilink")`,`[`Solaris`](../Page/Solaris.md "wikilink")
 ` | screenshot = `[`OpenSolaris-screenshot-2009-06.png`](https://ja.wikipedia.org/wiki/File:OpenSolaris-screenshot-2009-06.png "fig:OpenSolaris-screenshot-2009-06.png")
 ` | caption = OpenSolaris 2009.06 x86 LiveCD `[`GNOME`](../Page/GNOME.md "wikilink")のスクリーンショット
 ` | latest_release_version = 2009.06`
@@ -15,34 +15,34 @@
 ` | kernel_type = `[`モノリシックカーネル`](../Page/モノリシックカーネル.md "wikilink")
 ` | ui = `[`Java``   ``Desktop``   ``System`](https://ja.wikipedia.org/wiki/Java_Desktop_System "wikilink")
 ` | license =  `[`CDDL`](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")
-` | supported_platforms = `[`SPARC`](../Page/SPARC.md "wikilink")`, `[`x86`](https://ja.wikipedia.org/wiki/x86 "wikilink")`（`[`x64`](https://ja.wikipedia.org/wiki/x64 "wikilink")を含む`）, `[`PowerPC`](../Page/PowerPC.md "wikilink")`, `[`ARM`](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
+` | supported_platforms = `[`SPARC`](../Page/SPARC.md "wikilink")`, `[`x86`](https://ja.wikipedia.org/wiki/x86 "wikilink")`（`[`x64`](https://ja.wikipedia.org/wiki/x64 "wikilink")を含む`）, `[`PowerPC`](../Page/PowerPC.md "wikilink")`, `[`ARM`](../Page/ARMアーキテクチャ.md "wikilink")
 ` | website = `<http://www.opensolaris.org/>
 
 }} **OpenSolaris**（オープンソラリス）は[Solaris Operating Environmentテクノロジーを基本とした](../Page/Solaris.md "wikilink")、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")が始めた[オープンソース](../Page/オープンソース.md "wikilink")プロジェクト、およびプロジェクトからリリースされる[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の呼称である。以後区別のため、前者を「OpenSolarisプロジェクト」、後者を「OpenSolaris」と呼称する。
 
 ## 経緯
 
-OpenSolarisプロジェクトは「[Solaris](../Page/Solaris.md "wikilink")」の[オープンソース](../Page/オープンソース.md "wikilink")開発を目的とし、主にSolaris([SunOS](https://ja.wikipedia.org/wiki/SunOS "wikilink"))のユーザや開発者を対象として、ユーザグループ、ユーザコミュニティが世界各地で活動している。
+OpenSolarisプロジェクトは「[Solaris](../Page/Solaris.md "wikilink")」の[オープンソース](../Page/オープンソース.md "wikilink")開発を目的とし、主にSolaris([SunOS](../Page/SunOS.md "wikilink"))のユーザや開発者を対象として、ユーザグループ、ユーザコミュニティが世界各地で活動している。
 
 しかしながら、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月13日](../Page/8月13日.md "wikilink")に、「OpenSolaris is officially now dead.」との表現がある、オラクル内部で回覧された文書を元にした情報が出まわり、混乱が生じた。後にオラクルはオープンソース化自体は維持するものの、いわゆるナイトリーコードの公開を取りやめることを明らかにしている。
 
 2010年[9月14日](../Page/9月14日.md "wikilink")にOpenSolarisの[フォークとして](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")[OpenIndiana](https://ja.wikipedia.org/wiki/OpenIndiana "wikilink")プロジェクトの設立が発表された。OpenIndianaの目的はOpenSolarisの後継となり、Solaris互換のフリーなOSを開発することである\[1\]。またほぼ同時期にSolaris（厳密にはSunOSカーネルと関連ユーティリティティ、すなわちOS/Net）の完全オープンソース化を目指した[Illumos](https://ja.wikipedia.org/wiki/Illumos "wikilink")プロジェクトが始動している。OpenIndianaは将来的にこの成果物を使用する。
 
-OpenIndianaは[オラクルの支援は得ていない](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")。これは[Red Hat Enterprise Linuxと](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink")[CentOS](https://ja.wikipedia.org/wiki/CentOS "wikilink")の関係と相似する（OpenIndiana自身のFAQでもそう述べている）。同プロジェクトいわく、"Fork"ではなく"Spork"（[先割れスプーン](../Page/先割れスプーン.md "wikilink")）とのことである。
+OpenIndianaは[オラクルの支援は得ていない](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")。これは[Red Hat Enterprise Linuxと](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[CentOS](../Page/CentOS.md "wikilink")の関係と相似する（OpenIndiana自身のFAQでもそう述べている）。同プロジェクトいわく、"Fork"ではなく"Spork"（[先割れスプーン](../Page/先割れスプーン.md "wikilink")）とのことである。
 
 なお、紛らわしいのであるが、「Indiana」はOpenSolarisの開発名でもある。これが2010年後半の混乱に拍車をかける結果にもつながっている。
 
 ### 年表
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月25日、OpenSolarisプロジェクト設立。サン・マイクロシステムズは自社が持つ1670件の特許をオープンソース化することを発表。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月、サン・マイクロシステムズが[DTrace](../Page/DTrace.md "wikilink")のソースコードを公開。
+  - [2005年](../Page/2005年.md "wikilink")1月25日、OpenSolarisプロジェクト設立。サン・マイクロシステムズは自社が持つ1670件の特許をオープンソース化することを発表。
+  - [2005年](../Page/2005年.md "wikilink")2月、サン・マイクロシステムズが[DTrace](../Page/DTrace.md "wikilink")のソースコードを公開。
   - 2005年6月14日、サン・マイクロシステムズがSolaris10のソースコードを公開。
-  - 2005年11月16日、ファイルシステム「[ZFS](https://ja.wikipedia.org/wiki/ZFS "wikilink")」のソースコードを公開\[2\]。
+  - 2005年11月16日、ファイルシステム「[ZFS](../Page/ZFS.md "wikilink")」のソースコードを公開\[2\]。
   - 2005年12月13日、サン・マイクロシステムズが[BrandZ](https://ja.wikipedia.org/wiki/BrandZ "wikilink")([Project Janus](https://ja.wikipedia.org/wiki/Project_Janus "wikilink"))を公開。
   - 2008年5月5日、初のオープンソース版[Solaris](../Page/Solaris.md "wikilink")「OpenSolaris 2008.05」をリリース\[3\]。
   - 2008年12月11日、OpenSolaris 2008.11 リリース。
-  - 2009年6月1日、OpenSolaris 2009.06リリース。SPARCプラットフォームに対応し、ZFSが[SSDに対応したほか](https://ja.wikipedia.org/wiki/ソリッドステートドライブ "wikilink")、新機能としてはProject Crossbowなどが追加された。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")、[オラクルより](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、CD配布プログラムが廃止され、以降はダウンロードのみになる\[4\]。
+  - 2009年6月1日、OpenSolaris 2009.06リリース。SPARCプラットフォームに対応し、ZFSが[SSDに対応したほか](../Page/ソリッドステートドライブ.md "wikilink")、新機能としてはProject Crossbowなどが追加された。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月16日](../Page/4月16日.md "wikilink")、[オラクルより](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、CD配布プログラムが廃止され、以降はダウンロードのみになる\[4\]。
   - 2010年4月現在、最新ビルドが開発中であるが、オラクルからのアナウンスは無く、OpenSolaris理事会と連絡が取れない状態である\[5\]。
   - 2010年8月13日、OpenSolaris公式サイトのディスカッションエリアにて、「OpenSolaris cancelled, to be replaced with Solaris 11 Express」と題された投稿がされる。オラクル内部で回覧された文書を元にした情報とされており、「OpenSolaris is officially now dead.」とも表現されている。
   - 2010年8月23日、OpenSolaris運営委員会の議事録にて、「will return control of the community to Oracle」と、コミュニティの運営をオラクルへ返上するしかなかろうといったことが話し合われていると表現されている\[6\]\[7\]。
@@ -60,7 +60,7 @@ OpenIndianaは[オラクルの支援は得ていない](https://ja.wikipedia.org
 
   - [SchilliX](http://schillix.berlios.de/) (OpenSolarisをLiveCD化したディストリビューション)
   - [Belenix](http://www.genunix.org/distributions/belenix_site/belenix_home.html) (OpenSolarisをLiveCD化したディストリビューション)
-  - [Nexenta OS](../Page/Nexenta_OS.md "wikilink") ([GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")のソフトウェアと[Solaris](../Page/Solaris.md "wikilink")、[SunOS](https://ja.wikipedia.org/wiki/SunOS "wikilink")カーネルを融合し、[Debian](../Page/Debian.md "wikilink")をベースとしたディストリビューション)
+  - [Nexenta OS](../Page/Nexenta_OS.md "wikilink") ([GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")のソフトウェアと[Solaris](../Page/Solaris.md "wikilink")、[SunOS](../Page/SunOS.md "wikilink")カーネルを融合し、[Debian](../Page/Debian.md "wikilink")をベースとしたディストリビューション)
   - [Jaris](http://jaris.jp/) (OpenSolarisをベースにした日本発信の主にクライアントを目的とするディストリビューション)
 
 ## 外部リンク

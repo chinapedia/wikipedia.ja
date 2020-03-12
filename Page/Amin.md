@@ -9,7 +9,7 @@
 
 「amin」は[漢字](../Page/漢字.md "wikilink")にすると「阿敏」で、本名の「慧敏」の幼少期の呼ばれ方に由来する\[1\]。
 
-東京と上海を拠点にして活動し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2003年](../Page/2003年.md "wikilink")に[サントリー](../Page/サントリー.md "wikilink")[ウーロン茶のCMソングを歌って有名となった](https://ja.wikipedia.org/wiki/烏龍茶 "wikilink")。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[愛・地球博を機に](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")[松任谷由実](../Page/松任谷由実.md "wikilink")が結成した[YUMING](../Page/松任谷由実.md "wikilink") with [Friends Of Love The Earthに](https://ja.wikipedia.org/wiki/Friends_Of_Love_The_Earth "wikilink")[ディック・リー](../Page/ディック・リー.md "wikilink")らと参加し、2005年の[NHK紅白歌合戦に中国本土出身の歌手として初出場したほか](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")、[2007年](../Page/2007年.md "wikilink")には中国[人民大会堂](https://ja.wikipedia.org/wiki/人民大会堂 "wikilink")で行われた「日中国交正常化35周年 ファイナルコンサート」に参加。2010年には[上海国際博覧会](https://ja.wikipedia.org/wiki/上海国際博覧会 "wikilink")で行われた開幕式コンサートに、中国を代表する歌手として出演した。
+東京と上海を拠点にして活動し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2003年](../Page/2003年.md "wikilink")に[サントリー](../Page/サントリー.md "wikilink")[ウーロン茶のCMソングを歌って有名となった](../Page/烏龍茶.md "wikilink")。 [2005年](../Page/2005年.md "wikilink")の[愛・地球博を機に](../Page/2005年日本国際博覧会.md "wikilink")[松任谷由実](../Page/松任谷由実.md "wikilink")が結成した[YUMING](../Page/松任谷由実.md "wikilink") with [Friends Of Love The Earthに](../Page/Friends_Of_Love_The_Earth.md "wikilink")[ディック・リー](../Page/ディック・リー.md "wikilink")らと参加し、2005年の[NHK紅白歌合戦に中国本土出身の歌手として初出場したほか](../Page/第56回NHK紅白歌合戦.md "wikilink")、[2007年](../Page/2007年.md "wikilink")には中国[人民大会堂](../Page/人民大会堂.md "wikilink")で行われた「日中国交正常化35周年 ファイナルコンサート」に参加。2010年には[上海国際博覧会](https://ja.wikipedia.org/wiki/上海国際博覧会 "wikilink")で行われた開幕式コンサートに、中国を代表する歌手として出演した。
 
 現在、東京と[福岡で](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")のグループレッスン教室「amin Chinese Lounge」の講師も務めている。
 
@@ -22,20 +22,20 @@
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 中国[上海電視台](https://ja.wikipedia.org/wiki/上海電視台 "wikilink")の一般視聴者参加型歌番組『[カシオ](https://ja.wikipedia.org/wiki/カシオ "wikilink")杯家庭演唱大獎賽』に家族4人で出演、第1回の優勝者となり一躍有名となる。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 中国の歌謡コンテストで[ギター](../Page/ギター.md "wikilink")弾き語りをして入賞。これをきっかけに『童年的過錯』など、3作の個人アルバム（[カセット](../Page/コンパクトカセット.md "wikilink")）を発売。
   - [1992年](../Page/1992年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")来日。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 映画『香港大夜総会 タッチ&マギー』の主題歌を歌う。[FM COCOLOのパーソナリティーを](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")[ファンキー末吉](https://ja.wikipedia.org/wiki/ファンキー末吉 "wikilink")と共につとめる。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 映画『香港大夜総会 タッチ&マギー』の主題歌を歌う。[FM COCOLOのパーソナリティーを](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")[ファンキー末吉](../Page/ファンキー末吉.md "wikilink")と共につとめる。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - ファンキー末吉プロデュースの「夜総会BAND」にボーカルとして参加。
   - 1998年 - 映画『[ショムニ](../Page/ショムニ.md "wikilink")』の主題歌「TENJIKUへ行こう 〜Trust yourself」および挿入歌を歌う。同作には端役のラテンバンドのメンバーとしても出演している。
   - [NHK衛星放送の](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組『[地球ウォーカー](https://ja.wikipedia.org/wiki/地球ウォーカー "wikilink")』上海編および『上海WALKERS』でナビゲートを担当。『上海〜』ではテーマ曲「Naked sun」、挿入歌「Changing HEART」も歌う。
 
 ### ソロ活動へ（2003年〜）
 
-  - [2003年](../Page/2003年.md "wikilink") - [サントリー](../Page/サントリー.md "wikilink")[ウーロン茶のCMソング](https://ja.wikipedia.org/wiki/烏龍茶 "wikilink")「大きな河と小さな恋」を歌い、その歌声が広く知られるところとなる\[2\]。20万枚を越えるセールスを獲得。
-  - [2004年](../Page/2004年.md "wikilink") - 初のフルアルバム『おなじ空の下』を[東芝EMIからリリース](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
-  - 2004年 - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』の「この愛を 〜お姉さんへ〜」の作詞と歌を担当。作曲および[二胡](../Page/二胡.md "wikilink")演奏は姉のウェイウェイ・ウー。
+  - [2003年](../Page/2003年.md "wikilink") - [サントリー](../Page/サントリー.md "wikilink")[ウーロン茶のCMソング](../Page/烏龍茶.md "wikilink")「大きな河と小さな恋」を歌い、その歌声が広く知られるところとなる\[2\]。20万枚を越えるセールスを獲得。
+  - [2004年](../Page/2004年.md "wikilink") - 初のフルアルバム『おなじ空の下』を[東芝EMIからリリース](../Page/EMIミュージック・ジャパン.md "wikilink")。
+  - 2004年 - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』の「この愛を 〜お姉さんへ〜」の作詞と歌を担当。作曲および[二胡](../Page/二胡.md "wikilink")演奏は姉のウェイウェイ・ウー。
 
 ### 日本と中国の架け橋として（2005年〜）
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月 - [NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[中国語会話](../Page/中国語会話.md "wikilink")』のオープンニング曲、エンディング曲を歌い、月1回の中国古典を弾き語る歌のコーナーを担当し、準レギュラー出演。
+  - [2005年](../Page/2005年.md "wikilink")4月 - [NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")『[中国語会話](../Page/中国語会話.md "wikilink")』のオープンニング曲、エンディング曲を歌い、月1回の中国古典を弾き語る歌のコーナーを担当し、準レギュラー出演。
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - アルバム『ACROSS』を中国でもリリース。
+  - [2006年](../Page/2006年.md "wikilink") - アルバム『ACROSS』を中国でもリリース。
   - [2007年](../Page/2007年.md "wikilink") - 映画『[西遊記](../Page/西遊記_\(2007年の映画\).md "wikilink")』のオープニング挿入歌「西風的記憶〜西風の記憶」を作詞（中国語）し、自ら歌う。
 
 <!-- end list -->
@@ -64,41 +64,41 @@
       - 5月 - 上海万博日本館で行われた日中を歌で結ぶ「こころとこころを結ぶ〜心連心〜愛・地球博継承コンサート」に[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")、上海少年少女合唱団らとともに出演。このコンサートの模様は[CCTV（中国中央テレビ）](https://ja.wikipedia.org/wiki/中国中央テレビ "wikilink")、上海電視台でも取り上げられた。
       - 6月 - 上海万博日本館（[経済産業省](../Page/経済産業省.md "wikilink")・[JETRO](https://ja.wikipedia.org/wiki/JETRO "wikilink")）主催の「ジャパンデーコンサート 〜つながろう！ 調和のとれた未来のために〜」に[谷村新司](../Page/谷村新司.md "wikilink")、[w-inds](https://ja.wikipedia.org/wiki/w-inds "wikilink")、[alan](https://ja.wikipedia.org/wiki/alan "wikilink")と共に出演。
       - 12月 - amin Chinese Lounge 第3期開講。受講生として[レイチェル・チャン](../Page/レイチェル・チャン.md "wikilink")も参加した。
-  - [2011年](../Page/2011年.md "wikilink") - 3月 [国際交流基金](https://ja.wikipedia.org/wiki/国際交流基金 "wikilink")主催による「ふれあいの場『心連心』コンサート」ツアーを、[河口恭吾](../Page/河口恭吾.md "wikilink")、[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")と共に南京・重慶・長春・青島・北京の5カ所で開催を計画。最初の日程3月13日の南京大学は予定通り開催されたが、3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響を考慮し、日本国外務省および国際交流基金による「当該の対外文化交流を自粛する」との判断に基づいて、以降の4カ所は中止となった。なお、ツアーに先立ち城南海の「アイツムギ」の中国語版「織愛」を作詞した。[NHKがドキュメント番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『心をつなぐ歌〜歌手amin 中国への旅』を放送。
-      - 5月 - 岩手県[野田村](https://ja.wikipedia.org/wiki/野田村 "wikilink")の野田小学校で開催された「野田村さくらまつり」にてチャリティーライブを行う。
+  - [2011年](../Page/2011年.md "wikilink") - 3月 [国際交流基金](../Page/国際交流基金.md "wikilink")主催による「ふれあいの場『心連心』コンサート」ツアーを、[河口恭吾](../Page/河口恭吾.md "wikilink")、[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")と共に南京・重慶・長春・青島・北京の5カ所で開催を計画。最初の日程3月13日の南京大学は予定通り開催されたが、3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響を考慮し、日本国外務省および国際交流基金による「当該の対外文化交流を自粛する」との判断に基づいて、以降の4カ所は中止となった。なお、ツアーに先立ち城南海の「アイツムギ」の中国語版「織愛」を作詞した。[NHKがドキュメント番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『心をつなぐ歌〜歌手amin 中国への旅』を放送。
+      - 5月 - 岩手県[野田村](../Page/野田村.md "wikilink")の野田小学校で開催された「野田村さくらまつり」にてチャリティーライブを行う。
       - 7月 - amin Chinese Lounge 第4期開講
       - 10月 - 東日本大震災のために中止を余儀なくされた「心連心」コンサートツアーの続きを、[河口恭吾](../Page/河口恭吾.md "wikilink")と共に北京、青島、成都、西寧で開催\[3\]。
       - 12月 - [ニッポン放送](../Page/ニッポン放送.md "wikilink")制作の『BUZZ SHANGHAI』と[上海東方ラジオ](https://ja.wikipedia.org/wiki/上海東方ラジオ "wikilink")「動感101」制作の『BOOM BOOM TOKIO』による、日中共同制作のラジオ史上初“プログラム・エクスチェンジ方式”の放送で、中国側ではパーソナリティー、日本側ではナビゲーターとしてレギュラー出演する。
-  - [2012年](../Page/2012年.md "wikilink")4月 - [東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")で開催された音楽イベント「Global Peace with Music 2012 Earth Day Special 〜for [Wangari Muta Maathai](https://ja.wikipedia.org/wiki/ワンガリ・マータイ "wikilink")〜」に[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")とともに出演。
+  - [2012年](../Page/2012年.md "wikilink")4月 - [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")で開催された音楽イベント「Global Peace with Music 2012 Earth Day Special 〜for [Wangari Muta Maathai](../Page/ワンガリ・マータイ.md "wikilink")〜」に[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")とともに出演。
       - 5月 - amin Chinese Lounge 第5期（レギュラークラス）開講
       - 6月 - ソロコンサート「『回家的路（家に帰る道）』巫慧敏（amin）2012 上海コンサート」を[上海音楽庁](https://ja.wikipedia.org/wiki/上海音楽庁 "wikilink")で開催。[上海電視台](https://ja.wikipedia.org/wiki/上海電視台 "wikilink")芸術人文チャンネルで放送。
       - 10月 - 来日20周年
   - [2013年](../Page/2013年.md "wikilink")1月 - [ブルームーンカルテット](https://ja.wikipedia.org/wiki/ブルームーンカルテット "wikilink")とともに前年に結成した、オールド上海ジャズバンド（老上海爵士楽団）としての活動をスタート。
   - [2014年](../Page/2014年.md "wikilink")4月 - 結婚。amin Chinese Lounge 福岡校を開講。
       - [松田聖子](../Page/松田聖子.md "wikilink")＆[クリス・ハート](https://ja.wikipedia.org/wiki/クリス・ハート "wikilink")「夢がさめて」の中国語バージョン、「Last Forever -Chinese Version-」の中国語作詞とクリス・ハートの中国語歌唱指導を担当。
-      - 5月 - 当時の[国立競技場の施設として最後のスポーツ大会となった](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")、ラグビーワールドカップ2015アジア地区最終予選を兼ねた「アジア五カ国対抗（A5N）2014 日本代表対香港代表戦」にて、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")が「[君が代](../Page/君が代.md "wikilink")」を、aminが中国[国歌](../Page/国歌.md "wikilink")「[義勇軍進行曲](https://ja.wikipedia.org/wiki/義勇軍進行曲 "wikilink")」を斉唱した。
+      - 5月 - 当時の[国立競技場の施設として最後のスポーツ大会となった](../Page/国立霞ヶ丘陸上競技場.md "wikilink")、ラグビーワールドカップ2015アジア地区最終予選を兼ねた「アジア五カ国対抗（A5N）2014 日本代表対香港代表戦」にて、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")が「[君が代](../Page/君が代.md "wikilink")」を、aminが中国[国歌](../Page/国歌.md "wikilink")「[義勇軍進行曲](../Page/義勇軍進行曲.md "wikilink")」を斉唱した。
       - 10月 - 東京[渋谷にて](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")「aminが歌う中国古典歌曲選」ライブを開始。四季にちなんだ中国のヒット曲をカバーしたアコースティックライブとして継続予定。
   - [2015年](../Page/2015年.md "wikilink")7月 - アジア・コンサートツアーの初回として、上海でソロコンサート「夏夢」を開催。
   - [2016年](../Page/2016年.md "wikilink")4月 - 「君につづく空」がNHK Eテレ『テレビで中国語』のテーマ曲となる。
-      - 9月 - 福岡市で開催の「アクロス･ランチタイムコンサートvol.52 The OLD 上海 JAZZ with Strings」に[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")らと出演、ボーカルを務める。
+      - 9月 - 福岡市で開催の「アクロス･ランチタイムコンサートvol.52 The OLD 上海 JAZZ with Strings」に[安部潤](../Page/安部潤.md "wikilink")らと出演、ボーカルを務める。
 
 ## ディスコグラフィー
 
 ### アルバム
 
   - Circle Games（2003年2月26日、[ダイキサウンド](https://ja.wikipedia.org/wiki/ダイキサウンド "wikilink")） ※ブランド「ロイスクレヨン」とのコラボ盤
-  - おなじ空の下（2004年7月22日、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）
+  - おなじ空の下（2004年7月22日、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）
   - ACROSS —楼蘭の少女—（2005年9月19日、EMIミュージック・ジャパン）
   - My Life, My Songs（2008年11月19日、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
 
 ### ミニアルバム
 
-  - 百合の花（2003年6月25日、[ドリーミュージック](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")）
+  - 百合の花（2003年6月25日、[ドリーミュージック](../Page/ドリーミュージック.md "wikilink")）
 
 ### シングル
 
-  - 曖昧・ロマンティック（1994年11月16日、[トーラスレコード](../Page/トーラスレコード.md "wikilink")） ※[田辺智沙](../Page/田辺智沙.md "wikilink")作詞、[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")作曲の日本デビューシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「深夜してよ\!」オープニング・テーマ曲
-  - Naked sun／Changing HEART（2000年8月23日、[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")）
+  - 曖昧・ロマンティック（1994年11月16日、[トーラスレコード](../Page/トーラスレコード.md "wikilink")） ※[田辺智沙](../Page/田辺智沙.md "wikilink")作詞、[林哲司](../Page/林哲司.md "wikilink")作曲の日本デビューシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「深夜してよ\!」オープニング・テーマ曲
+  - Naked sun／Changing HEART（2000年8月23日、[日本クラウン](../Page/日本クラウン.md "wikilink")）
   - 大きな河と小さな恋（2003年2月26日、ドリーミュージック）
   - christmas eve（2003年11月26日、ドリーミュージック）
   - Rydeen 雷電（2005年8月3日、EMIミュージック・ジャパン）
@@ -109,11 +109,11 @@
 
 ### 参加作品
 
-  - この愛を 〜お姉さんへ〜（2004年7月7日、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")） ※ウェイウェイ・ウー featuring アミン名義
-  - [安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")『The Sensimillia Family Tree』（\#3「Especially You」ボーカル、2004年12月15日、ローヴィング・スピリッツ）
-  - Smile again（2005年9月14日モバイル配信、同28日PC配信による発売。後に松任谷由実のシングルとして2006年2月15日にCD化） ※[Friends Of Love The Earth名義](https://ja.wikipedia.org/wiki/Friends_Of_Love_The_Earth "wikilink")
+  - この愛を 〜お姉さんへ〜（2004年7月7日、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")） ※ウェイウェイ・ウー featuring アミン名義
+  - [安部潤](../Page/安部潤.md "wikilink")『The Sensimillia Family Tree』（\#3「Especially You」ボーカル、2004年12月15日、ローヴィング・スピリッツ）
+  - Smile again（2005年9月14日モバイル配信、同28日PC配信による発売。後に松任谷由実のシングルとして2006年2月15日にCD化） ※[Friends Of Love The Earth名義](../Page/Friends_Of_Love_The_Earth.md "wikilink")
   - 映画『[西遊記](../Page/西遊記_\(2007年の映画\).md "wikilink")』ORIGINAL SOUNDTRACK（\#2「西風的記憶 〜西風の記憶」作詞・ボーカル、2007年8月1日、[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）
-  - 『素顔のままで』（\#5「[眠れぬ夜](https://ja.wikipedia.org/wiki/眠れぬ夜 "wikilink")」・\#7「[少年時代](../Page/少年時代_\(井上陽水の曲\).md "wikilink")」・\#9「[渡良瀬橋](https://ja.wikipedia.org/wiki/渡良瀬橋_\(曲\) "wikilink")」、2009年3月4日、[ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")） ※カバー・コンピレーション・アルバム
+  - 『素顔のままで』（\#5「[眠れぬ夜](../Page/眠れぬ夜.md "wikilink")」・\#7「[少年時代](../Page/少年時代_\(井上陽水の曲\).md "wikilink")」・\#9「[渡良瀬橋](https://ja.wikipedia.org/wiki/渡良瀬橋_\(曲\) "wikilink")」、2009年3月4日、[ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")） ※カバー・コンピレーション・アルバム
 
 #### 夜総会BAND
 
@@ -152,9 +152,9 @@
 ## Friends Of Love The Earth
 
   -
-    <small>*詳細は [Friends Of Love The Earth](https://ja.wikipedia.org/wiki/Friends_Of_Love_The_Earth "wikilink") を参照。*</small>
+    <small>*詳細は [Friends Of Love The Earth](../Page/Friends_Of_Love_The_Earth.md "wikilink") を参照。*</small>
 
-[松任谷由実](../Page/松任谷由実.md "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")に[愛・地球博長久手会場内EXPOドームで](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")、愛・地球博の閉幕コンサートとして開催した「YUMING Love The Earth Final」で共演した[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")各国の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")4人により結成。その中のメンバーとして参加した。
+[松任谷由実](../Page/松任谷由実.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に[愛・地球博長久手会場内EXPOドームで](../Page/2005年日本国際博覧会.md "wikilink")、愛・地球博の閉幕コンサートとして開催した「YUMING Love The Earth Final」で共演した[アジア](../Page/アジア.md "wikilink")各国の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")4人により結成。その中のメンバーとして参加した。
 
   - このコンサートで、5人のコラボレーションである**YUMING Love The Earth Final**のテーマソング「Smile again」（松任谷由実書き下ろし曲）が発表され、同曲は9月14日にモバイル先行配信、9月28日にPC配信で発売された。
 
@@ -166,7 +166,7 @@
 
 <!-- end list -->
 
-  - [第56回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")に[上海のホテル](../Page/上海市.md "wikilink")「ウェスティン外灘センター上海」屋上から生出演。
+  - [第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")に[上海のホテル](../Page/上海市.md "wikilink")「ウェスティン外灘センター上海」屋上から生出演。
 
 <!-- end list -->
 
@@ -188,9 +188,9 @@
 
 ## 関連項目
 
-  - [サントリーフーズ](https://ja.wikipedia.org/wiki/サントリーフーズ "wikilink")
+  - [サントリーフーズ](../Page/サントリーフーズ.md "wikilink")
   - [ゴンザレス鈴木](https://ja.wikipedia.org/wiki/ゴンザレス鈴木 "wikilink") - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
-  - [安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink") - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
+  - [安部潤](../Page/安部潤.md "wikilink") - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
   - [笹子重治](https://ja.wikipedia.org/wiki/笹子重治 "wikilink") - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
 
 ## 外部リンク

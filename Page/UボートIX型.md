@@ -1,13 +1,13 @@
 > この記事は[UIX](https://ja.wikipedia.org/wiki/UIX)から翻訳されています。
 
 
-**UボートIX型** (U-Boot-Klasse IX) は[ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。
+**UボートIX型** (U-Boot-Klasse IX) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。
 
 IXA、IXB、IXC、IXC/40、IXD/1、IXD/2、IXD/42の8つのサブタイプに区分される。
 
 ## 概要
 
-基本的な設計は[IA型を改良したものである](https://ja.wikipedia.org/wiki/UボートI型 "wikilink")。本型の建造に際し、より小型の[VII型を主力としようとしたドイツ海軍上層部ではかなりの議論が交わされたようだが](https://ja.wikipedia.org/wiki/UボートVII型 "wikilink")、実際に建造してみると、航続距離が長く、[大西洋](../Page/大西洋.md "wikilink")を駆け巡って[通商破壊](../Page/通商破壊.md "wikilink")を行うにはうってつけの艦となった。
+基本的な設計は[IA型を改良したものである](https://ja.wikipedia.org/wiki/UボートI型 "wikilink")。本型の建造に際し、より小型の[VII型を主力としようとしたドイツ海軍上層部ではかなりの議論が交わされたようだが](../Page/UボートVII型.md "wikilink")、実際に建造してみると、航続距離が長く、[大西洋](../Page/大西洋.md "wikilink")を駆け巡って[通商破壊](../Page/通商破壊.md "wikilink")を行うにはうってつけの艦となった。
 
 また、複殻式の船体構造で水中速度が比較的速く可潜深度は深い優秀艦であった。ただし、建造にかかる日数もそれなりに必要としたため、大量生産には向いていなかった。
 
@@ -15,11 +15,11 @@ IXA、IXB、IXC、IXC/40、IXD/1、IXD/2、IXD/42の8つのサブタイプに区
 
 ### IXA型
 
-[ブレーメン](https://ja.wikipedia.org/wiki/ブレーメン "wikilink")の[ヴェーザー河畔に位置する造船所](https://ja.wikipedia.org/wiki/ヴェーザー川 "wikilink") AG ヴェーザー社で8隻が建造され、[1938年](../Page/1938年.md "wikilink")から翌年にかけて就役した。終戦までに6隻が戦没、残りの2隻は終戦時に自沈している。
+[ブレーメン](../Page/ブレーメン.md "wikilink")の[ヴェーザー河畔に位置する造船所](../Page/ヴェーザー川.md "wikilink") AG ヴェーザー社で8隻が建造され、[1938年](../Page/1938年.md "wikilink")から翌年にかけて就役した。終戦までに6隻が戦没、残りの2隻は終戦時に自沈している。
 
 ### IXB型
 
-14隻が建造され、IXA型同様、全艦がAG ヴェーザー社で建造された。[1939年](../Page/1939年.md "wikilink")末から翌年にかけて就役した。14隻のうち12隻が戦没し、残りの2隻は自沈したが、そのうちの1隻、U-123は1945年に[フランス海軍](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")によって[浮揚され](https://ja.wikipedia.org/wiki/サルベージ "wikilink")、[1947年](../Page/1947年.md "wikilink")に[ブレゾン](https://ja.wikipedia.org/wiki/ブレゾン_\(潜水艦\) "wikilink")（Q-165 Blaison）として再就役し、[1959年](../Page/1959年.md "wikilink")まで運用されている。
+14隻が建造され、IXA型同様、全艦がAG ヴェーザー社で建造された。[1939年](../Page/1939年.md "wikilink")末から翌年にかけて就役した。14隻のうち12隻が戦没し、残りの2隻は自沈したが、そのうちの1隻、U-123は1945年に[フランス海軍](../Page/フランス海軍.md "wikilink")によって[浮揚され](https://ja.wikipedia.org/wiki/サルベージ "wikilink")、[1947年](../Page/1947年.md "wikilink")に[ブレゾン](https://ja.wikipedia.org/wiki/ブレゾン_\(潜水艦\) "wikilink")（Q-165 Blaison）として再就役し、[1959年](../Page/1959年.md "wikilink")まで運用されている。
 
 この型はIXA型に比べると燃料搭載量が11t増やされており、航続距離も1,500海里伸びて12,000海里となっている。その反面、水中速力と水中航続力は低下している。
 
@@ -41,7 +41,7 @@ A～C型とは全く異なる船体を持ち、高速航行用および蓄電池
 
 #### IXD/1型
 
-[魚雷艇](https://ja.wikipedia.org/wiki/魚雷艇 "wikilink")用のエンジンを6基搭載した高速巡洋潜水艦として建造されたが、エンジンの信頼性が低く、実際の運用に関して不良が続発したため、2隻で建造中止となった。また、完成した2隻も後にエンジンを換装し、252トンの貨物を搭載し、31,500海里の航続距離を持つ補給潜水艦となっている。
+[魚雷艇](../Page/魚雷艇.md "wikilink")用のエンジンを6基搭載した高速巡洋潜水艦として建造されたが、エンジンの信頼性が低く、実際の運用に関して不良が続発したため、2隻で建造中止となった。また、完成した2隻も後にエンジンを換装し、252トンの貨物を搭載し、31,500海里の航続距離を持つ補給潜水艦となっている。
 
 #### IXD/2型
 
@@ -64,7 +64,7 @@ A～C型とは全く異なる船体を持ち、高速航行用および蓄電池
   - 水中航続距離：4ktで63[海里](../Page/海里.md "wikilink")
   - 水上航続距離：10ktで13,450海里
   - 乗組員:44名（うち4名は士官）
-  - 兵装：53cm魚雷発射管×6（艦首4、艦尾2　搭載[魚雷](../Page/魚雷.md "wikilink")22本）、105mm単装砲×1、37mm[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")×1、20mm単装機銃×1、他に[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")([TMA](https://ja.wikipedia.org/wiki/TMA_\(機雷\) "wikilink")、[TMB](https://ja.wikipedia.org/wiki/TMB_\(機雷\) "wikilink"))も搭載可能
+  - 兵装：53cm魚雷発射管×6（艦首4、艦尾2　搭載[魚雷](../Page/魚雷.md "wikilink")22本）、105mm単装砲×1、37mm[機関砲](../Page/機関砲.md "wikilink")×1、20mm単装機銃×1、他に[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")([TMA](https://ja.wikipedia.org/wiki/TMA_\(機雷\) "wikilink")、[TMB](https://ja.wikipedia.org/wiki/TMB_\(機雷\) "wikilink"))も搭載可能
 
 ## 同型艦一覧
 
@@ -175,9 +175,9 @@ A～C型とは全く異なる船体を持ち、高速航行用および蓄電池
   -
 ## 関連項目
 
-  - [ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")
+  - [ドイツ海軍](../Page/ドイツ海軍.md "wikilink")
   - [潜水艦](../Page/潜水艦.md "wikilink")
   - [Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")
-  - [戊型潜水艦](https://ja.wikipedia.org/wiki/戊型潜水艦 "wikilink")
+  - [戊型潜水艦](../Page/戊型潜水艦.md "wikilink")
 
 [Category:ドイツの潜水艦](https://ja.wikipedia.org/wiki/Category:ドイツの潜水艦 "wikilink") [Category:ドイツ第三帝国の兵器](https://ja.wikipedia.org/wiki/Category:ドイツ第三帝国の兵器 "wikilink") [Category:第二次世界大戦のドイツの潜水艦](https://ja.wikipedia.org/wiki/Category:第二次世界大戦のドイツの潜水艦 "wikilink")

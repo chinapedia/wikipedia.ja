@@ -7,7 +7,7 @@
 
 チューニング・開発・配布は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の[蒼弓](https://aynote.wordpress.com/)が行っている。[2019年](../Page/2019年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")現在、バージョンはBeta6.03 (2018)。
 
-Vorbisは規格自体がオープンソースかつ[パテントフリーであるため](https://ja.wikipedia.org/wiki/ソフトウェア特許 "wikilink")、数多くのエンコーダが開発されているが、その中でもaoTuVはもっとも高い音質のVorbisを作成できるとされている。
+Vorbisは規格自体がオープンソースかつ[パテントフリーであるため](../Page/ソフトウェア特許.md "wikilink")、数多くのエンコーダが開発されているが、その中でもaoTuVはもっとも高い音質のVorbisを作成できるとされている。
 また、Vorbisをq-2(32kbps)でエンコードできるのも、aoTuVの特徴である。
 Hydrogenaudio主催による数々の公開リスニングテストで、aoTuVは高い評価を受けている。
 
@@ -125,7 +125,7 @@ libvorbis 1.3.6を統合(2018)。
 ## 関連項目
 
   - [MP3](../Page/MP3.md "wikilink")
-  - [LAME](https://ja.wikipedia.org/wiki/LAME "wikilink")
+  - [LAME](../Page/LAME.md "wikilink")
 
 ## 外部リンク
 

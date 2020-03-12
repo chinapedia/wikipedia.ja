@@ -9,7 +9,7 @@
 
 内容は、タイトルの直訳「追伸、僕は君を愛してる」の通り、彼女と（事情によりだと思われる）離れてしまった男が、恋人に「また戻ってくるよ」という気持ちを伝えた手紙をテーマにしたラヴソングである。曲は[1962年](../Page/1962年.md "wikilink")春に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハンブルグ](https://ja.wikipedia.org/wiki/ハンブルグ "wikilink")に滞在していた時に書かれた\[2\]。
 
-この曲が[レコーディングされた当初](../Page/録音.md "wikilink")、[プロデューサーの](../Page/音楽プロデューサー.md "wikilink")[ジョージ・マーティン](../Page/ジョージ・マーティン.md "wikilink")は、[ピート・ベスト](https://ja.wikipedia.org/wiki/ピート・ベスト "wikilink")からメンバーチェンジした[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")のドラミングにも満足せず、プロのセッション・[ドラマー](../Page/ドラマー.md "wikilink")である[アンディ・ホワイト](https://ja.wikipedia.org/wiki/アンディ・ホワイト "wikilink")の起用をすでに決めていたため\[3\]、ホワイトがドラムを叩き、リンゴは[マラカス](https://ja.wikipedia.org/wiki/マラカス "wikilink")を担当している。
+この曲が[レコーディングされた当初](../Page/録音.md "wikilink")、[プロデューサーの](../Page/音楽プロデューサー.md "wikilink")[ジョージ・マーティン](../Page/ジョージ・マーティン.md "wikilink")は、[ピート・ベスト](../Page/ピート・ベスト.md "wikilink")からメンバーチェンジした[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")のドラミングにも満足せず、プロのセッション・[ドラマー](../Page/ドラマー.md "wikilink")である[アンディ・ホワイト](https://ja.wikipedia.org/wiki/アンディ・ホワイト "wikilink")の起用をすでに決めていたため\[3\]、ホワイトがドラムを叩き、リンゴは[マラカス](../Page/マラカス.md "wikilink")を担当している。
 
 また、一旦はシングルのA面にすることも考慮されたが同名の曲が1934年に作曲され、複数のアーティストによってシングルとして出されていたためB面へと収まった。アメリカの「ビルボード」誌が発表した[Billboard Hot 100では](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")、B面ながら最高位第10位を獲得している\[4\]。「キャッシュボックス」誌でも、最高位第10位を獲得している。
 
@@ -28,9 +28,9 @@
   - [ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](../Page/エレクトリックベース.md "wikilink")
   - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink") - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（[リズムギター](../Page/リズムギター.md "wikilink")）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink") - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、コーラス
-  - [リンゴ・スター](../Page/リンゴ・スター.md "wikilink") - [マラカス](https://ja.wikipedia.org/wiki/マラカス "wikilink")\[9\]
+  - [リンゴ・スター](../Page/リンゴ・スター.md "wikilink") - [マラカス](../Page/マラカス.md "wikilink")\[9\]
   - [アンディ・ホワイト](https://ja.wikipedia.org/wiki/アンディ・ホワイト "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")\[10\]
-  - [ノーマン・スミス](https://ja.wikipedia.org/wiki/ノーマン・スミス "wikilink") - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - [ノーマン・スミス](https://ja.wikipedia.org/wiki/ノーマン・スミス "wikilink") - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")
 
 ## 収録盤
 

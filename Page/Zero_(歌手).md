@@ -1,26 +1,26 @@
 > この記事は[Zero \(\)](https://ja.wikipedia.org/wiki/Zero_\(\))から翻訳されています。
 
 
-**ZERO**（ゼロ）は、[大韓民国](../Page/大韓民国.md "wikilink")の男性歌手。本名パク・ソンチョル（朴 成喆／Park Sung Chul）[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。[1994年](../Page/1994年.md "wikilink")にバンド「ISSUE」のボーカルとしてデビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から韓国初の[サイバー](https://ja.wikipedia.org/wiki/サイバー "wikilink")歌手「ADAM」として活動を開始。[2001年](../Page/2001年.md "wikilink")、韓国ドラマ『[美しき日々](https://ja.wikipedia.org/wiki/美しき日々 "wikilink")』の劇中で[リュ・シウォン](https://ja.wikipedia.org/wiki/リュ・シウォン "wikilink")演じるサイバー歌手「ZERO」の歌が流れる場面で、実際に同曲を歌いアーティスト名を「ZERO」に変更。同ドラマが日本で放送されたことがきっかけで来日。 日本で活動をする韓流歌手のパイオニア的存在。
+**ZERO**（ゼロ）は、[大韓民国](../Page/大韓民国.md "wikilink")の男性歌手。本名パク・ソンチョル（朴 成喆／Park Sung Chul）[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。[1994年](../Page/1994年.md "wikilink")にバンド「ISSUE」のボーカルとしてデビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から韓国初の[サイバー](https://ja.wikipedia.org/wiki/サイバー "wikilink")歌手「ADAM」として活動を開始。[2001年](../Page/2001年.md "wikilink")、韓国ドラマ『[美しき日々](../Page/美しき日々.md "wikilink")』の劇中で[リュ・シウォン](../Page/リュ・シウォン.md "wikilink")演じるサイバー歌手「ZERO」の歌が流れる場面で、実際に同曲を歌いアーティスト名を「ZERO」に変更。同ドラマが日本で放送されたことがきっかけで来日。 日本で活動をする韓流歌手のパイオニア的存在。
 
 ## 日本での活動
 
-  - 2001年 - [SBSドラマ](https://ja.wikipedia.org/wiki/SBS_\(韓国\) "wikilink")「美しき日々」（主演：[イ・ビョンホン](https://ja.wikipedia.org/wiki/イ・ビョンホン "wikilink")／[チェ・ジウ](../Page/チェ・ジウ.md "wikilink")／リュ・シウォン）OSTを発表。劇中、リュ・シウォンが演じた覆面歌手「ZERO」をそのまま名乗りながらも公に顔を出さず活動。
+  - 2001年 - [SBSドラマ](../Page/SBS_\(韓国\).md "wikilink")「美しき日々」（主演：[イ・ビョンホン](../Page/イ・ビョンホン.md "wikilink")／[チェ・ジウ](../Page/チェ・ジウ.md "wikilink")／リュ・シウォン）OSTを発表。劇中、リュ・シウォンが演じた覆面歌手「ZERO」をそのまま名乗りながらも公に顔を出さず活動。
   - 2003年 - NHK-BS「美しき日々」が放映開始。同年「美しき日々」のサウンドトラックが日本で発売。
-  - 2004年 - 「美しき日々」NHK地上波放送が開始され、主題歌を歌うZeroへの問い合わせが殺到！日本デビューを果たす。これまで神秘に包んでいたベールを脱ぎ、[オーチャードホール](https://ja.wikipedia.org/wiki/オーチャードホール "wikilink")で行われた「[冬のソナタ](../Page/冬のソナタ.md "wikilink")」クラシックコンサートにチェ・ジウと出演。初めて日本のファンの前に姿を現し話題を呼ぶ。
-  - 2005年 - 同ドラマの挿入歌「その日までさようなら」、[中西保志](https://ja.wikipedia.org/wiki/中西保志 "wikilink")の「[最後の雨](../Page/最後の雨.md "wikilink")」のカバーシングルを発売。「美しき日々ドラマコンサート」ではメインアーティストとして全国8ヶ所、15公演、約6万人を動員する。
-  - 2007年 - [秋元康](../Page/秋元康.md "wikilink")作詞、[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")作曲「[ドライフラワー](https://ja.wikipedia.org/wiki/ドライフラワー "wikilink")」を発表する。
+  - 2004年 - 「美しき日々」NHK地上波放送が開始され、主題歌を歌うZeroへの問い合わせが殺到！日本デビューを果たす。これまで神秘に包んでいたベールを脱ぎ、[オーチャードホール](../Page/オーチャードホール.md "wikilink")で行われた「[冬のソナタ](../Page/冬のソナタ.md "wikilink")」クラシックコンサートにチェ・ジウと出演。初めて日本のファンの前に姿を現し話題を呼ぶ。
+  - 2005年 - 同ドラマの挿入歌「その日までさようなら」、[中西保志](../Page/中西保志.md "wikilink")の「[最後の雨](../Page/最後の雨.md "wikilink")」のカバーシングルを発売。「美しき日々ドラマコンサート」ではメインアーティストとして全国8ヶ所、15公演、約6万人を動員する。
+  - 2007年 - [秋元康](../Page/秋元康.md "wikilink")作詞、[徳永英明](../Page/徳永英明.md "wikilink")作曲「[ドライフラワー](../Page/ドライフラワー.md "wikilink")」を発表する。
   - 2008年 - NHKハングル講座の歌のコーナーに1年間レギュラー出演する。自ら作詞作曲したアルバム「いのち」に収録した楽曲を中心に、全国13ヶ所のソロコンサートを開催、各会場とも満席になるほど幅広い年齢層のファンから支持を受ける。
   - 2009年 - トップ韓流スターであり友人でもあるリュ・シウォンのレーシングダイアリー「My Way」のタイトル曲「My Way」を作曲。コーラスとレコーディングディレクターとして参加。またその「My Way」をセルフカヴァーして収録したアルバム「うたいびと」を発表する。
-  - 2010年 - 東京[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")において「日本デビュー5周年記念コンサート」を実施する。また、全国14ヶ所15公演のソロコンサートツアー「うたいびと2010」を敢行する他、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")・大阪[ザ・シンフォニーホール](https://ja.wikipedia.org/wiki/ザ・シンフォニーホール "wikilink")で開催された「韓流ドラマコンサート」にホストシンガーとして参加するなど、ファンと直接触れ合えるライブを中心とした活動を展開する。
-  - 2011年 - 6月22日、[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")作詞、[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")作曲「もう好きになってはいけない」で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")からメジャーデビュー\[1\]。
+  - 2010年 - 東京[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")において「日本デビュー5周年記念コンサート」を実施する。また、全国14ヶ所15公演のソロコンサートツアー「うたいびと2010」を敢行する他、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")・大阪[ザ・シンフォニーホール](../Page/ザ・シンフォニーホール.md "wikilink")で開催された「韓流ドラマコンサート」にホストシンガーとして参加するなど、ファンと直接触れ合えるライブを中心とした活動を展開する。
+  - 2011年 - 6月22日、[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")作詞、[都志見隆](../Page/都志見隆.md "wikilink")作曲「もう好きになってはいけない」で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")からメジャーデビュー\[1\]。
   - 2012年 - 7月、[KBSworld](http://www.kbsworld.ne.jp/)の音楽番組「輪！K-POP」のMCに抜擢され、毎週水・木（17：40～18：35）レギュラー出演中。
   - 2013年 - 日本デビュー10年目にあたり全国コンサートツアー「うたいびと2013」を開催。
 
 ## 参加した主なOST
 
-  - 『[美しき日々](https://ja.wikipedia.org/wiki/美しき日々 "wikilink")』2001年/SBS
-  - 『[妻](https://ja.wikipedia.org/wiki/妻_\(テレビドラマ\) "wikilink")』2003年/KBS
+  - 『[美しき日々](../Page/美しき日々.md "wikilink")』2001年/SBS
+  - 『[妻](../Page/妻_\(テレビドラマ\).md "wikilink")』2003年/KBS
   - 『愛情の条件』2004年/KBS
   - 『[グリーンローズ](https://ja.wikipedia.org/wiki/グリーンローズ "wikilink")』2005年/SBS
 
@@ -30,7 +30,7 @@
   - 2005年 [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")（CX）／美しき日々コンサート（NHK BS2）
   - 2006年 なるとも（YTV）
   - 2007年 NHKテレビでハングル講座（NHK総合）レギュラー
-  - 2008年 [情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")（YTV）
+  - 2008年 [情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")（YTV）
   - 2009年 サタテン（NHK名古屋）
   - 2010年 [おはよう朝日です](../Page/おはよう朝日です.md "wikilink")（ABC）／とってもワクドキ！（MTV）
   - 2011年 ぐるっと関西お昼まえ（NHK大阪）

@@ -13,7 +13,7 @@
 
 1.  **[來吧、春天](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")** 〈春よ、来い〉
       -
-        アルバム『[THE DANCING SUN](https://ja.wikipedia.org/wiki/THE_DANCING_SUN "wikilink")』より。
+        アルバム『[THE DANCING SUN](../Page/THE_DANCING_SUN.md "wikilink")』より。
 2.  **[被温柔包圍著](../Page/やさしさに包まれたなら.md "wikilink")**（album version） 〈やさしさに包まれたなら〉
       -
         アルバム『[MISSLIM](../Page/MISSLIM.md "wikilink")』より。
@@ -28,34 +28,34 @@
         アルバム『[YUMING BRAND](../Page/YUMING_BRAND.md "wikilink")』より。
 6.  **[想保護你](../Page/守ってあげたい.md "wikilink")** 〈守ってあげたい〉
       -
-        アルバム『[昨晩お会いしましょう](https://ja.wikipedia.org/wiki/昨晩お会いしましょう "wikilink")』より。
+        アルバム『[昨晩お会いしましょう](../Page/昨晩お会いしましょう.md "wikilink")』より。
 7.  **[7個真相 7個謊言](../Page/7_TRUTHS_7_LIES〜ヴァージンロードの彼方で.md "wikilink")** 〈7 TRUTHS 7 LIES〜ヴァージンロードの彼方で〉
       -
         アルバム『[acacia(アケイシャ)](https://ja.wikipedia.org/wiki/acacia_\(松任谷由実のアルバム\) "wikilink")』より。
 8.  **[仲夏夜之夢](../Page/真夏の夜の夢_\(松任谷由実の曲\).md "wikilink")** 〈真夏の夜の夢〉
       -
-        アルバム『[U-miz](https://ja.wikipedia.org/wiki/U-miz "wikilink")』より。
+        アルバム『[U-miz](../Page/U-miz.md "wikilink")』より。
 9.  **夕涼** 〈夕涼み〉
       -
-        アルバム『[PEARL PIERCE](https://ja.wikipedia.org/wiki/PEARL_PIERCE "wikilink")』より。
+        アルバム『[PEARL PIERCE](../Page/PEARL_PIERCE.md "wikilink")』より。
 10. **[遲開的蒲公英](../Page/ダンデライオン〜遅咲きのたんぽぽ.md "wikilink")** 〈ダンデライオン〜遅咲きのたんぽぽ〉
       -
-        アルバム『[VOYAGER](https://ja.wikipedia.org/wiki/VOYAGER_\(松任谷由実のアルバム\) "wikilink")』より。
+        アルバム『[VOYAGER](../Page/VOYAGER_\(松任谷由実のアルバム\).md "wikilink")』より。
 11. **美人蕉8號線** 〈カンナ8号線〉
       -
-        アルバム『[昨晩お会いしましょう](https://ja.wikipedia.org/wiki/昨晩お会いしましょう "wikilink")』より。
+        アルバム『[昨晩お会いしましょう](../Page/昨晩お会いしましょう.md "wikilink")』より。
 12. **拯救我們** 〈SAVE OUR SHIP〉
       -
-        アルバム『[天国のドア](https://ja.wikipedia.org/wiki/天国のドア "wikilink")』より。
+        アルバム『[天国のドア](../Page/天国のドア.md "wikilink")』より。
 13. **在藍色船上** 〈青い船で〉
       -
-        アルバム『[VOYAGER](https://ja.wikipedia.org/wiki/VOYAGER_\(松任谷由実のアルバム\) "wikilink")』より。
+        アルバム『[VOYAGER](../Page/VOYAGER_\(松任谷由実のアルバム\).md "wikilink")』より。
 14. **畢業相片** 〈卒業写真〉
       -
         アルバム『[COBALT HOUR](../Page/COBALT_HOUR.md "wikilink")』より。
 15. **[紀念日](../Page/ANNIVERSARY〜無限にCALLING_YOU.md "wikilink")** 〈ANNIVERSARY〉
       -
-        アルバム『[LOVE WARS](https://ja.wikipedia.org/wiki/LOVE_WARS "wikilink")』より。
+        アルバム『[LOVE WARS](../Page/LOVE_WARS.md "wikilink")』より。
 16. **命運** 〈DESTINY〉
       -
         アルバム『[悲しいほどお天気](../Page/悲しいほどお天気.md "wikilink")』より。

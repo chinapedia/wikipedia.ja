@@ -21,7 +21,7 @@
 
 ## 主な出演番組
 
-  - [サラリーマンNEO](../Page/サラリーマンNEO.md "wikilink")シリーズ（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
+  - [サラリーマンNEO](../Page/サラリーマンNEO.md "wikilink")シリーズ（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）
 
 ## 主な公演
 

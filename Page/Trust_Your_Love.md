@@ -5,7 +5,7 @@
 
 ## 概要
 
-今作品も前作に引き続き[アメリカでも発売され](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、「[ビルボード](../Page/ビルボード.md "wikilink")」総合 シングルセールスチャート（Hot 100 SINGLES SALES\[1\]）で最高位19位を獲得\[2\]​し、日本人7人目のランクインの快挙となった。日本においても、[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")18位と、スマッシュヒットを記録した。
+今作品も前作に引き続き[アメリカでも発売され](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、「[ビルボード](../Page/ビルボード.md "wikilink")」総合 シングルセールスチャート（Hot 100 SINGLES SALES\[1\]）で最高位19位を獲得\[2\]​し、日本人7人目のランクインの快挙となった。日本においても、[オリコン初登場](../Page/オリコンチャート.md "wikilink")18位と、スマッシュヒットを記録した。
 
 ## 収録曲
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - 『[affection](https://ja.wikipedia.org/wiki/affection "wikilink")』
-  - 『[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜 "wikilink")』
+  - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
 
 ## 注釈
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-アメリカで「KODA」名義で先行発売され、「[ビルボード](../Page/ビルボード.md "wikilink")」誌のダンス部門ランキングで初登場20位を見事獲得するが、日本では[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高59位とヒットには至らなかった。
+アメリカで「KODA」名義で先行発売され、「[ビルボード](../Page/ビルボード.md "wikilink")」誌のダンス部門ランキングで初登場20位を見事獲得するが、日本では[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高59位とヒットには至らなかった。
 
 当時はまだ高校に在学していたため、現在のトレードマーク的になっている金髪ではなく、黒髪だった。
 
@@ -16,7 +16,7 @@
 1.  **TAKE BACK （Original mix）**
       -
         作詞: 倖田來未 / 作曲: [菊池一仁](../Page/菊池一仁.md "wikilink")
-        [カネボウ](https://ja.wikipedia.org/wiki/クラシエホームプロダクツ "wikilink")「肌美精」CMソング
+        [カネボウ](../Page/クラシエホームプロダクツ.md "wikilink")「肌美精」CMソング
 2.  **Your Song （Original mix）**
       -
         作詞: 倖田來未 / 作曲: KAIDO
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   - 『[affection](https://ja.wikipedia.org/wiki/affection "wikilink")』
-  - 『[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜 "wikilink")』
+  - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[MONDAY](https://ja.wikipedia.org/wiki/MONDAY)から翻訳されています。
 
 
-『**MONDAY**』（まんでー）は、[2000年製作の](https://ja.wikipedia.org/wiki/2000年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[SABU監督の代表作品](../Page/SABU_\(映画監督\).md "wikilink")。
+『**MONDAY**』（まんでー）は、[2000年製作の](../Page/2000年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[SABU監督の代表作品](../Page/SABU_\(映画監督\).md "wikilink")。
 真面目で平凡なサラリーマンが、酔った勢いで事件を起こし、ヤクザや警察から追われる姿をコミカルに描く。
 
 第50回[ベルリン国際映画祭](../Page/ベルリン国際映画祭.md "wikilink")国際批評家連盟賞・カリガリ特別賞・ドンキホーテ特別賞受賞。
@@ -28,18 +28,18 @@
   - 町田由紀 - [西田尚美](https://ja.wikipedia.org/wiki/西田尚美 "wikilink")
   - 近藤光男 - [安藤政信](../Page/安藤政信.md "wikilink") (友情出演)
   - 村井良夫 - [大杉漣](../Page/大杉漣.md "wikilink")
-  - アキコ - [小島聖](https://ja.wikipedia.org/wiki/小島聖 "wikilink")
+  - アキコ - [小島聖](../Page/小島聖.md "wikilink")
   - 浮浪者＆悪魔 - [麿赤兒](../Page/麿赤兒.md "wikilink")
-  - 大島大介 - [塩見三省](https://ja.wikipedia.org/wiki/塩見三省 "wikilink")
+  - 大島大介 - [塩見三省](../Page/塩見三省.md "wikilink")
   - 神山伸吾 - [野田秀樹](../Page/野田秀樹.md "wikilink")
   - 花井喜一郎 - [山本亨](https://ja.wikipedia.org/wiki/山本亨_\(俳優\) "wikilink")
   - 島光彦 - [田口トモロヲ](../Page/田口トモロヲ.md "wikilink")
   - 中野三郎 - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
-  - 久保正樹 - [松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")
-  - 近藤美代子 - [根岸季衣](https://ja.wikipedia.org/wiki/根岸季衣 "wikilink")
-  - ケンジ - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
+  - 久保正樹 - [松重豊](../Page/松重豊.md "wikilink")
+  - 近藤美代子 - [根岸季衣](../Page/根岸季衣.md "wikilink")
+  - ケンジ - [津田寛治](../Page/津田寛治.md "wikilink")
   - ベルボーイ - [堀部圭亮](../Page/堀部圭亮.md "wikilink")
-  - [深沢邦之](https://ja.wikipedia.org/wiki/深沢邦之 "wikilink")
+  - [深沢邦之](../Page/深沢邦之.md "wikilink")
   - [三原康可](../Page/三原康可.md "wikilink")
 
 ## 主題歌・劇中歌

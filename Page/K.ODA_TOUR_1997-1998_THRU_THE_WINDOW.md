@@ -5,7 +5,7 @@
 
 ## 解説
 
-1997年9月2日から1998年2月3日にかけて、全国50ヶ所、65公演の規模で行なわれたコンサート・ツアーの中から、最終公演となった[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")・ホールAでのライブ\[1\]を収録。映像特典として、ツアー先の名所などを小田が訪れたVTRをまとめた「ご当地紀行」のダイジェスト版が収められている。
+1997年9月2日から1998年2月3日にかけて、全国50ヶ所、65公演の規模で行なわれたコンサート・ツアーの中から、最終公演となった[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")・ホールAでのライブ\[1\]を収録。映像特典として、ツアー先の名所などを小田が訪れたVTRをまとめた「ご当地紀行」のダイジェスト版が収められている。
 
 [2003年](../Page/2003年.md "wikilink")にDVD化。さらに[2016年](../Page/2016年.md "wikilink")には[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")・小田和正4タイトルの同時[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink")化にて、Blu-rayディスクにてそれぞれ再発された。
 
@@ -15,7 +15,7 @@
 
   - 小田和正 - [ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [木村万作](../Page/木村万作.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - [山内薫](https://ja.wikipedia.org/wiki/山内薫_\(ミュージシャン\) "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [山内薫](https://ja.wikipedia.org/wiki/山内薫_\(ミュージシャン\) "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [稲葉政裕](https://ja.wikipedia.org/wiki/稲葉政裕 "wikilink") - ギター
   - [栗尾直樹](https://ja.wikipedia.org/wiki/栗尾直樹 "wikilink") - キーボード
   - [園山光博](https://ja.wikipedia.org/wiki/園山光博 "wikilink") - [サックス](../Page/サクソフォーン.md "wikilink")

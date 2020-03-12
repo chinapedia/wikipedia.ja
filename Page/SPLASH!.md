@@ -1,13 +1,13 @@
 > この記事は[SPLASH!](https://ja.wikipedia.org/wiki/SPLASH!)から翻訳されています。
 
 
-「**SPLASH\!**」（スプラッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")の42作目の[シングル](../Page/シングル.md "wikilink")。
+「**SPLASH\!**」（スプラッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の42作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
-15枚目のアルバム『[MONSTER](https://ja.wikipedia.org/wiki/MONSTER_\(アルバム\) "wikilink")』からの先行シングルで、2006年3枚目のシングル。B'zが年に3枚以上シングルを出すのは2000年以来6年ぶり。
+15枚目のアルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』からの先行シングルで、2006年3枚目のシングル。B'zが年に3枚以上シングルを出すのは2000年以来6年ぶり。
 
-本作は初回特典としてB'zとしては初のDVD付きシングル発売という形態を採用し、通常盤含む計4種で発売された。付属DVDには、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のライブツアー『[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/LIVE-GYM "wikilink")』からそれぞれ「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」「[パルス](../Page/THE_CIRCLE.md "wikilink")」「[Fever](../Page/愛のバクダン.md "wikilink")」のライブ映像が収録されている。それに伴い、ジャケットの色も4色用意された。通常盤はマキシシングルサイズのプラスチックケースで、DVD付きはトールケースのデジパック仕様となっている。
+本作は初回特典としてB'zとしては初のDVD付きシングル発売という形態を採用し、通常盤含む計4種で発売された。付属DVDには、[2005年](../Page/2005年.md "wikilink")のライブツアー『[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](../Page/LIVE-GYM.md "wikilink")』からそれぞれ「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」「[パルス](../Page/THE_CIRCLE.md "wikilink")」「[Fever](../Page/愛のバクダン.md "wikilink")」のライブ映像が収録されている。それに伴い、ジャケットの色も4色用意された。通常盤はマキシシングルサイズのプラスチックケースで、DVD付きはトールケースのデジパック仕様となっている。
 
   - レッド - 通常版
   - グリーン - 「愛のバクダン」
@@ -19,14 +19,14 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・編曲
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、全曲編曲
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・編曲
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、全曲編曲
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")：[ストリングスアレンジ](https://ja.wikipedia.org/wiki/編曲#ストリングス "wikilink")（\#2）
   - [シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
   - 永田真希＆TAMA MUSIC Strings：[ストリングス](../Page/弦楽器.md "wikilink")（\#2）
   - 上石統：[トランペット](../Page/トランペット.md "wikilink")（\#2）
   - 東條あずさ：[トロンボーン](../Page/トロンボーン.md "wikilink")（\#2）
-  - [宮崎隆睦](https://ja.wikipedia.org/wiki/宮崎隆睦 "wikilink")：[アルトサックス](https://ja.wikipedia.org/wiki/アルトサックス "wikilink")（\#2）
+  - [宮崎隆睦](../Page/宮崎隆睦.md "wikilink")：[アルトサックス](https://ja.wikipedia.org/wiki/アルトサックス "wikilink")（\#2）
   - 武田和大：[バリトンサックス](https://ja.wikipedia.org/wiki/バリトンサックス "wikilink")（\#2）
   - 鎌田真吾：[ブラスアレンジ](https://ja.wikipedia.org/wiki/編曲#ブラス "wikilink")（\#2）
 
@@ -34,7 +34,7 @@
 
   - 松本孝弘：ギター
   - 稲葉浩志：ボーカル
-  - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [増田隆宣](../Page/増田隆宣.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - シェーン・ガラース：ドラム
   - 徳永暁人(from [doa](https://ja.wikipedia.org/wiki/doa "wikilink")）：ベース
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（from doa）：ギター・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
@@ -48,17 +48,17 @@
         本楽曲の英詞バージョンが製作されており、このバージョンの楽曲タイトルは「**Splash**」となる。2011年に行われたB'zの北米ライブツアー「B'z LIVE-GYM 2011 -long time no see-」にて演奏されたのがこの曲の初出しで、以降のライブでたびたび演奏された。その後、映像作品『[B'z LIVE-GYM 2011 -C'mon-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2011_-C'mon- "wikilink")』に、同名のライブでの演奏が収録された後、2012年リリースの配信限定アルバム『[B'z](https://ja.wikipedia.org/wiki/B'z_\(2012年のアルバム\) "wikilink")』に収録。現在では、オリジナルより英語バージョンのほうが演奏機会が多い。前述の北米ツアーでは他にも英語バージョンが披露されたが、このバージョンが「SPLASH\!」の英語バージョンというよりは別の曲のような印象を受けたという指摘に対して、稲葉は「そう、別物という感じになっているよね。」とコメントしている\[2\]。
 2.  **MVP** （3:56）
       -
-        [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")や[ホーン](../Page/管楽器.md "wikilink")、街中の[SE](https://ja.wikipedia.org/wiki/効果音 "wikilink")、打ち込み音などがふんだんに使われている。「SPLASH\!」同様、こちらも松本のギターソロパートはない。メンバーによると、[ディスコティックを意識した曲らしい](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")。最初の[イントロの雑踏は](../Page/導入部.md "wikilink")、稲葉が曲の雰囲気に合うということで、自ら街の雑踏の音を録音したもの。また、この曲には、「[恋心 (KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")」や「[Wonderful Oppotunity](../Page/IN_THE_LIFE.md "wikilink")」のように、振り付けがある。
+        [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")や[ホーン](../Page/管楽器.md "wikilink")、街中の[SE](../Page/効果音.md "wikilink")、打ち込み音などがふんだんに使われている。「SPLASH\!」同様、こちらも松本のギターソロパートはない。メンバーによると、[ディスコティックを意識した曲らしい](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")。最初の[イントロの雑踏は](../Page/導入部.md "wikilink")、稲葉が曲の雰囲気に合うということで、自ら街の雑踏の音を録音したもの。また、この曲には、「[恋心 (KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")」や「[Wonderful Oppotunity](../Page/IN_THE_LIFE.md "wikilink")」のように、振り付けがある。
 
 ## タイアップ
 
-  - [ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")「[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")（\#1）
+  - [ドワンゴ](../Page/ドワンゴ.md "wikilink")「[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")（\#1）
 
 ## 収録アルバム
 
 **SPLASH\!**
 
-  - [MONSTER](https://ja.wikipedia.org/wiki/MONSTER_\(アルバム\) "wikilink")
+  - [MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
 

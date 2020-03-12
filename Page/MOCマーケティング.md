@@ -1,13 +1,13 @@
 > この記事は[MOC](https://ja.wikipedia.org/wiki/MOC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsui_Oil_R6Soma_SS.jpg "wikilink") [S_P7050018.JPG](https://ja.wikipedia.org/wiki/File:S_P7050018.JPG "fig:S_P7050018.JPG") **MOCマーケティング合同会社**（えむおーしーまーけてぃんぐ）は、かつて存在した[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")卸売会社。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")であった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsui_Oil_R6Soma_SS.jpg "wikilink") [S_P7050018.JPG](https://ja.wikipedia.org/wiki/File:S_P7050018.JPG "fig:S_P7050018.JPG") **MOCマーケティング合同会社**（えむおーしーまーけてぃんぐ）は、かつて存在した[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")卸売会社。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）の[子会社](../Page/子会社.md "wikilink")であった。
 
 三井物産の子会社**三井石油株式会社**（みついせきゆ）として運営されていたが、2014年に同社保有の株式を東燃ゼネラル石油に売却し、現社名に変更した。
 
 ## 概説
 
-[石油元売](../Page/石油元売.md "wikilink")であるとともに、MITSUIのブランド名で[東日本](https://ja.wikipedia.org/wiki/東日本 "wikilink")を中心に[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")を展開していた。しかし[九州地方](https://ja.wikipedia.org/wiki/九州地方 "wikilink")（[福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink")、[佐賀](../Page/佐賀県.md "wikilink")、[長崎](../Page/長崎県.md "wikilink")、[熊本](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分](../Page/大分県.md "wikilink")、[宮崎](../Page/宮崎県.md "wikilink")、[鹿児島](../Page/鹿児島県.md "wikilink")、[沖縄の各県](../Page/沖縄県.md "wikilink")）には、MITSUIブランドの店舗は存在しなかった。また、[高速道路への展開もなかった](../Page/日本の高速道路.md "wikilink")。
+[石油元売](../Page/石油元売.md "wikilink")であるとともに、MITSUIのブランド名で[東日本](../Page/東日本.md "wikilink")を中心に[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")を展開していた。しかし[九州地方](https://ja.wikipedia.org/wiki/九州地方 "wikilink")（[福岡](../Page/福岡県.md "wikilink")、[佐賀](../Page/佐賀県.md "wikilink")、[長崎](../Page/長崎県.md "wikilink")、[熊本](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分](../Page/大分県.md "wikilink")、[宮崎](../Page/宮崎県.md "wikilink")、[鹿児島](../Page/鹿児島県.md "wikilink")、[沖縄の各県](../Page/沖縄県.md "wikilink")）には、MITSUIブランドの店舗は存在しなかった。また、[高速道路への展開もなかった](../Page/日本の高速道路.md "wikilink")。
 
 2014年7月1日より石油販売事業は[EMGマーケティング合同会社へ統合](https://ja.wikipedia.org/wiki/エクソンモービル#日本での事業 "wikilink")、一部のSSは[丸紅エネルギー](../Page/丸紅エネルギー.md "wikilink")に営業譲渡された。MOCマーケティングの完全子会社で直営のガソリンスタンドを展開していた東洋石油販売は、全店舗がエッソにブランド変更され、後に東洋石油販売は東燃ゼネラル石油のグループ会社である中央石油販売と合併した。
 

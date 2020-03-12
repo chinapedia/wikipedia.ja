@@ -1,7 +1,7 @@
 > この記事は[Live Dwango Reader](https://ja.wikipedia.org/wiki/Live_Dwango_Reader)から翻訳されています。
 
 
-**Live Dwango Reader**（ライブドワンゴリーダー）は、株式会社[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")が提供するブラウザ型の[フィードリーダー](../Page/フィードリーダー.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")（現・[LINE](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）が**livedoor Reader** β版として公開した。ライブドアIDが必要。[OPML](https://ja.wikipedia.org/wiki/OPML "wikilink")対応。
+**Live Dwango Reader**（ライブドワンゴリーダー）は、株式会社[ドワンゴ](../Page/ドワンゴ.md "wikilink")が提供するブラウザ型の[フィードリーダー](../Page/フィードリーダー.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[ライブドア](../Page/ライブドア.md "wikilink")（現・[LINE](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）が**livedoor Reader** β版として公開した。ライブドアIDが必要。[OPML](https://ja.wikipedia.org/wiki/OPML "wikilink")対応。
 
 [2014年](../Page/2014年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")にサービス終了を発表したが、撤回した後に、同年12月1日にドワンゴに運営譲渡されてサービスが継続していた\[1\]。
 
@@ -13,7 +13,7 @@
 
 ### フォルダ機能
 
-新規追加や移動といった基本操作を画面遷移なしで行え、増え続ける[フィード](https://ja.wikipedia.org/wiki/フィード "wikilink")をスムーズに管理できる。
+新規追加や移動といった基本操作を画面遷移なしで行え、増え続ける[フィード](../Page/フィード.md "wikilink")をスムーズに管理できる。
 
 ### レート機能
 

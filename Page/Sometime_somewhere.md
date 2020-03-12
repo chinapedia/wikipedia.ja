@@ -1,11 +1,11 @@
 > この記事は[Sometime somewhere](https://ja.wikipedia.org/wiki/Sometime_somewhere)から翻訳されています。
 
 
-『**sometime somewhere**』（サムタイム・サムホエア）は、[1992年](../Page/1992年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")にリリースされた、[小田和正](../Page/小田和正.md "wikilink")のソロとして4作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+『**sometime somewhere**』（サムタイム・サムホエア）は、[1992年](../Page/1992年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")にリリースされた、[小田和正](../Page/小田和正.md "wikilink")のソロとして4作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 解説
 
-小田和正監督による、同年製作の映画『[いつか どこかで](https://ja.wikipedia.org/wiki/いつか_どこかで_\(映画\) "wikilink")』のサウンド・トラックを兼ねたアルバム。ミキサーは[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")、シンセサイザーは[望月英樹](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink")。ミュージシャンは[ネーザン・イースト](https://ja.wikipedia.org/wiki/ネーザン・イースト "wikilink")、[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")など多彩な顔ぶれである。[Sing Like Talkingの](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")がコーラスで参加している。
+小田和正監督による、同年製作の映画『[いつか どこかで](../Page/いつか_どこかで_\(映画\).md "wikilink")』のサウンド・トラックを兼ねたアルバム。ミキサーは[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")、シンセサイザーは[望月英樹](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink")。ミュージシャンは[ネーザン・イースト](https://ja.wikipedia.org/wiki/ネーザン・イースト "wikilink")、[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")など多彩な顔ぶれである。[Sing Like Talkingの](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")[佐藤竹善](../Page/佐藤竹善.md "wikilink")がコーラスで参加している。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 7.  **二人の夏** - <span style="font-size:90%;">(3:05)</span>\[7\]
 8.  **[風と君を待つだけ](https://ja.wikipedia.org/wiki/いつか_どこかで "wikilink")** - <span style="font-size:90%;">(5:01)</span>\[8\]
       -
-        [三菱・ミラージュ](https://ja.wikipedia.org/wiki/三菱・ミラージュ "wikilink")CMソング。シングル「いつか どこかで」のカップリング曲。
+        [三菱・ミラージュ](../Page/三菱・ミラージュ.md "wikilink")CMソング。シングル「いつか どこかで」のカップリング曲。
 9.  **[いつか どこかで](https://ja.wikipedia.org/wiki/いつか_どこかで "wikilink")** - <span style="font-size:90%;">(4:56)</span>\[9\]
 10. **時に抱かれて/正木のテーマ** - <span style="font-size:90%;">(3:25)</span>\[10\]
 

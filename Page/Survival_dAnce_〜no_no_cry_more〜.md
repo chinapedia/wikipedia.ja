@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - TRFが初めてシングル初登場1位・シングルのミリオンヒットを達成した曲である。この曲から「[Overnight Sensation 〜時代はあなたに委ねてる〜](https://ja.wikipedia.org/wiki/Overnight_Sensation_〜時代はあなたに委ねてる〜 "wikilink")」まで5作連続ミリオンを達成した。
+  - TRFが初めてシングル初登場1位・シングルのミリオンヒットを達成した曲である。この曲から「[Overnight Sensation 〜時代はあなたに委ねてる〜](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink")」まで5作連続ミリオンを達成した。
   - [1994年](../Page/1994年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
-  - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[17才-at seventeen-](https://ja.wikipedia.org/wiki/17才-at_seventeen- "wikilink")」主題歌。フジテレビ系バラエティ番組「[グラビアトークオーディション](../Page/グラビアトークオーディション.md "wikilink")」エンディングテーマ(2007年1月〜)。
-  - 後に[BoA](../Page/BoA.md "wikilink")がカバーし、「survival dAnce 〜no no cry more〜 -meets BoA-」のタイトルでTRFのアルバム『[Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink")』に収録された。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に廉価版12cmシングルとして再リリース。
+  - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[17才-at seventeen-](../Page/17才-at_seventeen-.md "wikilink")」主題歌。フジテレビ系バラエティ番組「[グラビアトークオーディション](../Page/グラビアトークオーディション.md "wikilink")」エンディングテーマ(2007年1月〜)。
+  - 後に[BoA](../Page/BoA.md "wikilink")がカバーし、「survival dAnce 〜no no cry more〜 -meets BoA-」のタイトルでTRFのアルバム『[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")』に収録された。
+  - [2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に廉価版12cmシングルとして再リリース。
 
 ## 収録曲
 

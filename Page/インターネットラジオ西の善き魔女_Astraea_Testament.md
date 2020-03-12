@@ -1,7 +1,7 @@
 > この記事は[ Astraea Testament](https://ja.wikipedia.org/wiki/_Astraea_Testament)から翻訳されています。
 
 
-**インターネットラジオ西の善き魔女 Astraea Testament**（インターネットラジオにしのよきまじょ アストレイア テスタメント）は[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで配信していた『**[西の善き魔女 Astraea Testament](../Page/西の善き魔女.md "wikilink")**』の連動番組。[パーソナリティはフィリエル役の](../Page/ラジオパーソナリティ.md "wikilink")[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")とルーン役の[平田宏美](https://ja.wikipedia.org/wiki/平田宏美 "wikilink")が担当。番組の略称は「**西魔女**」、「**西魔女ラジオ**」。
+**インターネットラジオ西の善き魔女 Astraea Testament**（インターネットラジオにしのよきまじょ アストレイア テスタメント）は[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで配信していた『**[西の善き魔女 Astraea Testament](../Page/西の善き魔女.md "wikilink")**』の連動番組。[パーソナリティはフィリエル役の](../Page/ラジオパーソナリティ.md "wikilink")[折笠富美子](../Page/折笠富美子.md "wikilink")とルーン役の[平田宏美](../Page/平田宏美.md "wikilink")が担当。番組の略称は「**西魔女**」、「**西魔女ラジオ**」。
 
 ## 概要
 
@@ -15,15 +15,15 @@
 
 ### パーソナリティ
 
-  - **[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")**（フィリエル・ディー役）
-  - **[平田宏美](https://ja.wikipedia.org/wiki/平田宏美 "wikilink")**（ルーン(ルー・ルツキン)役）
+  - **[折笠富美子](../Page/折笠富美子.md "wikilink")**（フィリエル・ディー役）
+  - **[平田宏美](../Page/平田宏美.md "wikilink")**（ルーン(ルー・ルツキン)役）
 
 ### 配信曜日など
 
   - 配信曜日：毎週[金曜日](../Page/金曜日.md "wikilink")
-  - 配信サイト：[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")、[BEWE](../Page/BEWE.md "wikilink")
-  - 放送：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")〜[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")
-  - スポンサー：[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")、[イマジカ](https://ja.wikipedia.org/wiki/イマジカ "wikilink")イメージワークス、[ジェネオン](https://ja.wikipedia.org/wiki/ジェネオン "wikilink")エンタテインメント、[オンザラン](https://ja.wikipedia.org/wiki/ランティス#オンザラン "wikilink")
+  - 配信サイト：[音泉](../Page/音泉.md "wikilink")、[BEWE](../Page/BEWE.md "wikilink")
+  - 放送：[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")〜[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")
+  - スポンサー：[マッグガーデン](../Page/マッグガーデン.md "wikilink")、[イマジカ](https://ja.wikipedia.org/wiki/イマジカ "wikilink")イメージワークス、[ジェネオン](https://ja.wikipedia.org/wiki/ジェネオン "wikilink")エンタテインメント、[オンザラン](https://ja.wikipedia.org/wiki/ランティス#オンザラン "wikilink")
 
 ## 主なコーナー
 
@@ -112,7 +112,7 @@
 
 :\*＃3 （[4月21日](../Page/4月21日.md "wikilink")配信分） [斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")〔アデイル・ロウランド 役〕
 
-:\*＃4 （[4月28日](../Page/4月28日.md "wikilink")配信分） [kukui](https://ja.wikipedia.org/wiki/kukui "wikilink")（[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")・[myu](https://ja.wikipedia.org/wiki/Myu_\(作曲家\) "wikilink")）〔オープニングテーマ「Starry Waltz」（スターリーワルツ）を担当〕
+:\*＃4 （[4月28日](../Page/4月28日.md "wikilink")配信分） [kukui](https://ja.wikipedia.org/wiki/kukui "wikilink")（[霜月はるか](../Page/霜月はるか.md "wikilink")・[myu](https://ja.wikipedia.org/wiki/Myu_\(作曲家\) "wikilink")）〔オープニングテーマ「Starry Waltz」（スターリーワルツ）を担当〕
 
 :\*＃16（[7月21日](../Page/7月21日.md "wikilink")配信分） [斎賀みつき](../Page/斎賀みつき.md "wikilink")〔イグレイン 役（公開録音）〕
 

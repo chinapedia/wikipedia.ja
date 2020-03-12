@@ -7,7 +7,7 @@
 
 『[KSB 600ステーション](https://ja.wikipedia.org/wiki/KSB_600ステーション "wikilink")』の後番組としてスタート。当初は月曜 - 金曜までの放送だったが、『[KSB 530ステーション](https://ja.wikipedia.org/wiki/KSB_600ステーション "wikilink")』の終了によって1993年4月3日からは土曜と日曜にも放送されるようになった。
 
-番組は、17:55から18:00まで当日のヘッドラインを伝えた後、『ステーションEYE』または『スーパーJチャンネル』の全国ニュースとスポーツコーナーを放送。そしてCMを挿み、KSBのニュース[スタジオから](https://ja.wikipedia.org/wiki/スタジオ_\(映像撮影\) "wikilink")[香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")のローカルニュースと[天気予報](../Page/天気予報.md "wikilink")を伝えた。には、「KSB地球ステーション」という特集コーナーも設けていた。
+番組は、17:55から18:00まで当日のヘッドラインを伝えた後、『ステーションEYE』または『スーパーJチャンネル』の全国ニュースとスポーツコーナーを放送。そしてCMを挿み、KSBのニュース[スタジオから](../Page/スタジオ_\(映像撮影\).md "wikilink")[香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")のローカルニュースと[天気予報](../Page/天気予報.md "wikilink")を伝えた。には、「KSB地球ステーション」という特集コーナーも設けていた。
 
 テレビ朝日の『ステーションEYE』平日版は1997年3月28日に終了したが、この『KSBステーションEYE』は同年3月31日以降もこのタイトルのままで放送され続けた。また番組は、『ステーションEYE』とは別の音楽を使用していた。
 
@@ -37,8 +37,8 @@
   - 山西俊行 - 金曜日担当。
   - [浮田圭見](https://ja.wikipedia.org/wiki/前田圭見 "wikilink") - コンビを組んでいた名越の退職後は1人で担当していたが、1999年10月1日放送分をもって降板し、その後は退職・結婚・出産。
   - 緒方希美子 - 1999年10月4日以降、すなわち最後期の月曜 - 金曜のメインキャスターを担当。
-  - [牧野克彦](https://ja.wikipedia.org/wiki/牧野克彦 "wikilink") - 緒方とともに1999年10月4日以降の月曜 - 木曜のメインキャスターを担当。
-  - [田尾和俊](https://ja.wikipedia.org/wiki/田尾和俊 "wikilink") - 1999年10月8日以降の『金曜てれびマガジン』の司会者。2009年3月27日まで『KSBスーパーJチャンネル』金曜版に出演していた。
+  - [牧野克彦](../Page/牧野克彦.md "wikilink") - 緒方とともに1999年10月4日以降の月曜 - 木曜のメインキャスターを担当。
+  - [田尾和俊](../Page/田尾和俊.md "wikilink") - 1999年10月8日以降の『金曜てれびマガジン』の司会者。2009年3月27日まで『KSBスーパーJチャンネル』金曜版に出演していた。
   - 山下明史 - 記者。
   - 芦田直子 - 記者リポート。
   - 船越亮治 - 記者。
@@ -48,13 +48,13 @@
 
 週末版の出演者は[シフト勤務](../Page/シフト勤務.md "wikilink")で出演。
 
-  - [多賀公人](https://ja.wikipedia.org/wiki/多賀公人 "wikilink")
+  - [多賀公人](../Page/多賀公人.md "wikilink")
   - [森田恵子](../Page/森田恵子.md "wikilink")
   - 若槻智子
   - 矢田三奈子
   - 森本光
   - 竹内将子
-  - [児玉良香](https://ja.wikipedia.org/wiki/児玉良香 "wikilink")
+  - [児玉良香](../Page/児玉良香.md "wikilink")
   - 山下明史
   - 黒部京子
   - 山下由起子
@@ -73,7 +73,7 @@
   -
 ## 関連項目
 
-  - [KSBニュース](https://ja.wikipedia.org/wiki/KSBニュース "wikilink")
+  - [KSBニュース](../Page/KSBニュース.md "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
   - [KSB 600ステーション](https://ja.wikipedia.org/wiki/KSB_600ステーション "wikilink") - 平日版の前番組。

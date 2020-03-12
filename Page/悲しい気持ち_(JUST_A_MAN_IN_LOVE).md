@@ -1,13 +1,13 @@
 > この記事は[ \(JUST A MAN IN LOVE\)](https://ja.wikipedia.org/wiki/_\(JUST_A_MAN_IN_LOVE\))から翻訳されています。
 
 
-「**悲しい気持ち (JUST A MAN IN LOVE)**」（かなしいきもち ジャスト・ア・メン・イン・ラヴ）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")発売。発売元は[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")。
+「**悲しい気持ち (JUST A MAN IN LOVE)**」（かなしいきもち ジャスト・ア・メン・イン・ラヴ）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")は8cmCDとして、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")は12cmCDとして再発をしている。
 
 ## 背景・リリース
 
-本作は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[KAMAKURA](https://ja.wikipedia.org/wiki/KAMAKURA "wikilink")』の発売を最後に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としての活動を休止し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")では、[KUWATA BANDで](https://ja.wikipedia.org/wiki/KUWATA_BAND "wikilink")1年限りの活動を終えた桑田がリリースした、ソロ名義では初めてとなる作品である。
+本作は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[KAMAKURA](../Page/KAMAKURA.md "wikilink")』の発売を最後に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としての活動を休止し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")では、[KUWATA BANDで](../Page/KUWATA_BAND.md "wikilink")1年限りの活動を終えた桑田がリリースした、ソロ名義では初めてとなる作品である。
 
 [1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")には[CDシングルとして再発](../Page/コンパクトディスク.md "wikilink")。サザンのデビュー23周年となる[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")にはリマスタリングが施され、「[祭りのあと](../Page/祭りのあと_\(桑田佳祐の曲\).md "wikilink")」までのシングルと同時にマキシシングルで再発された
 
@@ -17,7 +17,7 @@
 
 ## チャート成績
 
-[オリコン週間ランキングで最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録し、累計35万枚（オリコン調べ）を売り上げた\[2\]。
+[オリコン週間ランキングで最高](../Page/オリコンチャート.md "wikilink")2位を記録し、累計35万枚（オリコン調べ）を売り上げた\[2\]。
 
 なお、本作から[2016年](../Page/2016年.md "wikilink")に発売されたシングル「[君への手紙](https://ja.wikipedia.org/wiki/君への手紙 "wikilink")」まで、全シングル17作が週間TOP10入りしている\[3\]。
 
@@ -30,8 +30,8 @@
 1.  **悲しい気持ち (JUST A MAN IN LOVE)** (3:56)
     （作詞・作曲:桑田佳祐　編曲:桑田佳祐、[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")、[小林武史](../Page/小林武史.md "wikilink")）
       -
-        [南流石](https://ja.wikipedia.org/wiki/南流石 "wikilink")が振り付けを担当したグループ「**湘南隊**」（[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")をもじったもの）がバックダンサーとして当時の歌番組で披露された。なお、バックダンサーには桑田と同じ[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")所属の俳優の[寺脇康文](https://ja.wikipedia.org/wiki/寺脇康文 "wikilink")が参加していた\[4\]。
-        2018年1月発売の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")集『[MVP](https://ja.wikipedia.org/wiki/MVP_\(桑田佳祐の映像作品\) "wikilink")』には、新たに制作されたMVが収録おり\[5\]、サザンのライブ『真夏の夜の夢 - 1988大復活祭』でのソロ初ライブ、4枚目シングル曲「[月](https://ja.wikipedia.org/wiki/月_\(桑田佳祐の曲\) "wikilink")」のジャケット撮影時のメイキング、アルバム『[孤独の太陽](https://ja.wikipedia.org/wiki/孤独の太陽_\(アルバム\) "wikilink")』のアーティスト写真撮影時のメイキングなど収録しており、さらに2017年7月に行われたソロのBillboard Live Tokyoライブや、同年8月に出演した『[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2017』及び全国アリーナ&5大ドームツアー『桑田佳祐 LIVE TOUR 2017「がらくた」』での歌唱シーンも盛り込まれている\[6\]。
+        [南流石](../Page/南流石.md "wikilink")が振り付けを担当したグループ「**湘南隊**」（[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の[少年隊](../Page/少年隊.md "wikilink")をもじったもの）がバックダンサーとして当時の歌番組で披露された。なお、バックダンサーには桑田と同じ[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")所属の俳優の[寺脇康文](../Page/寺脇康文.md "wikilink")が参加していた\[4\]。
+        2018年1月発売の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")集『[MVP](https://ja.wikipedia.org/wiki/MVP_\(桑田佳祐の映像作品\) "wikilink")』には、新たに制作されたMVが収録おり\[5\]、サザンのライブ『真夏の夜の夢 - 1988大復活祭』でのソロ初ライブ、4枚目シングル曲「[月](../Page/月_\(桑田佳祐の曲\).md "wikilink")」のジャケット撮影時のメイキング、アルバム『[孤独の太陽](../Page/孤独の太陽_\(アルバム\).md "wikilink")』のアーティスト写真撮影時のメイキングなど収録しており、さらに2017年7月に行われたソロのBillboard Live Tokyoライブや、同年8月に出演した『[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2017』及び全国アリーナ&5大ドームツアー『桑田佳祐 LIVE TOUR 2017「がらくた」』での歌唱シーンも盛り込まれている\[6\]。
 2.  **LADY LUCK** (5:51)
     （作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink")　作曲:桑田佳祐　編曲:桑田佳祐 & Jimmy Bralower & Jeff Bova）
       -
@@ -43,20 +43,20 @@
       - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink"):[Vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - [小林武史](../Page/小林武史.md "wikilink"):[Keyboard](../Page/キーボード_\(楽器\).md "wikilink"), [Synthesizer](../Page/シンセサイザー.md "wikilink")
       - 原田末秋:[Guitar](../Page/ギター.md "wikilink")
-      - [琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink"):[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-      - 藤井丈司:[Computer Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
-      - [杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink"):[Backing Vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (Courtesy of [CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") Inc.)
+      - [琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink"):[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+      - 藤井丈司:[Computer Programming](../Page/ミュージックシーケンサー.md "wikilink")
+      - [杉真理](../Page/杉真理.md "wikilink"):[Backing Vocals](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (Courtesy of [CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") Inc.)
   - LADY LUCK
       - 桑田佳祐:Vocals
       - Jeff Bova:Keyboard, Synthesizer
       - Jimmy Bralower:Computer Programming
-      - [河内淳一](https://ja.wikipedia.org/wiki/河内淳一 "wikilink"):[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")
+      - [河内淳一](../Page/河内淳一.md "wikilink"):[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")
 
 ## 収録アルバム
 
-  - [Keisuke Kuwata](https://ja.wikipedia.org/wiki/Keisuke_Kuwata "wikilink") (\#1)
+  - [Keisuke Kuwata](../Page/Keisuke_Kuwata.md "wikilink") (\#1)
   - [フロム イエスタデイ](../Page/フロム_イエスタデイ.md "wikilink") (\#1,2)
-  - [TOP OF THE POPS](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\) "wikilink") (\#1)
+  - [TOP OF THE POPS](../Page/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\).md "wikilink") (\#1)
   - [I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink") (\#1)
 
 ## ミュージック・ビデオ収録作品
@@ -81,7 +81,7 @@
 
 [Category:桑田佳祐の楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐の楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:失恋を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:失恋を題材とした楽曲 "wikilink") [Category:1987年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1987年のデビュー・シングル "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 
-1.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")出版 p167
+1.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p167
 2.  [桑田佳祐](http://contents.oricon.co.jp/music/special/2010/kuwatakeisuke0825/index.html) オリコンスタイル 2015年11月25日閲覧
 3.  [【今週のオリコン】RADWIMPSが2作連続で首位獲得！シングルはモーニング娘。’16が通算18作目の1位](http://www.m-on-music.jp/0000172508/) m-on music 2016年11月29日閲覧
 4.  [CDjournal 2016年10月6日](http://www.cdjournal.com/main/calendar/20161006) 2016年10月6日閲覧

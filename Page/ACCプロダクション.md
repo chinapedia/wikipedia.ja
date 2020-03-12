@@ -5,49 +5,49 @@
 
 ## 概要・沿革
 
-兄の[菅谷正昭](https://ja.wikipedia.org/wiki/菅谷正昭 "wikilink")が設立したアニメーション撮影会社[スタジオ珊瑚礁](https://ja.wikipedia.org/wiki/スタジオ珊瑚礁 "wikilink")の出身で、その後東映動画（現：[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）の撮影などを手がけた菅谷信行が、1979年に設立したアニメーションの撮影制作会社である。主に[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")作品の撮影を中心に活動をおこなっている一方、『[MUSASHI -GUN道-](https://ja.wikipedia.org/wiki/MUSASHI_-GUN道- "wikilink")』等の元請制作も中心に活動を行っていた。多くの作品の場合は、「**ACCプロダクション**」、「**ACC谷原スタジオ**」の名義でクレジットされていた。2007年11月、東京地方裁判所に[破産手続廃止の決定が下る](../Page/破産廃止.md "wikilink")。
+兄の[菅谷正昭](https://ja.wikipedia.org/wiki/菅谷正昭 "wikilink")が設立したアニメーション撮影会社[スタジオ珊瑚礁](https://ja.wikipedia.org/wiki/スタジオ珊瑚礁 "wikilink")の出身で、その後東映動画（現：[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）の撮影などを手がけた菅谷信行が、1979年に設立したアニメーションの撮影制作会社である。主に[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")作品の撮影を中心に活動をおこなっている一方、『[MUSASHI -GUN道-](../Page/MUSASHI_-GUN道-.md "wikilink")』等の元請制作も中心に活動を行っていた。多くの作品の場合は、「**ACCプロダクション**」、「**ACC谷原スタジオ**」の名義でクレジットされていた。2007年11月、東京地方裁判所に[破産手続廃止の決定が下る](../Page/破産廃止.md "wikilink")。
 
-『[RGBアドベンチャー](https://ja.wikipedia.org/wiki/RGBアドベンチャー "wikilink")』のキャラクターに関する[著作権](../Page/著作権.md "wikilink")を巡って、中国籍のデザイナー (原告) とACCプロダクション (被告) 間で訴訟に発展した。当事案の2003年最高裁判決は、[職務著作](https://ja.wikipedia.org/wiki/職務著作 "wikilink")の判断要件に関するリーディング・ケースとして知られている\[1\]。
+『[RGBアドベンチャー](../Page/RGBアドベンチャー.md "wikilink")』のキャラクターに関する[著作権](../Page/著作権.md "wikilink")を巡って、中国籍のデザイナー (原告) とACCプロダクション (被告) 間で訴訟に発展した。当事案の2003年最高裁判決は、[職務著作](https://ja.wikipedia.org/wiki/職務著作 "wikilink")の判断要件に関するリーディング・ケースとして知られている\[1\]。
 
 ## 主な作品
 
 ### 制作作品
 
   - [スクーパーズ](https://ja.wikipedia.org/wiki/スクーパーズ "wikilink")（1987年）
-  - [おまかせスクラッパーズ](https://ja.wikipedia.org/wiki/おまかせスクラッパーズ "wikilink") （1994年-1995年）
+  - [おまかせスクラッパーズ](../Page/おまかせスクラッパーズ.md "wikilink") （1994年-1995年）
   - [ギルステイン](https://ja.wikipedia.org/wiki/ギルステイン "wikilink")（2002年）
-  - [MUSASHI -GUN道-](https://ja.wikipedia.org/wiki/MUSASHI_-GUN道- "wikilink") （2006年）
-  - [RGBアドベンチャー](https://ja.wikipedia.org/wiki/RGBアドベンチャー "wikilink") （2006年）
+  - [MUSASHI -GUN道-](../Page/MUSASHI_-GUN道-.md "wikilink") （2006年）
+  - [RGBアドベンチャー](../Page/RGBアドベンチャー.md "wikilink") （2006年）
 
 ### 撮影担当作品
 
 #### テレビアニメ
 
-  - [ゼンダマン](https://ja.wikipedia.org/wiki/ゼンダマン "wikilink") （1979年-1980年）
-  - [亜空大作戦スラングル](https://ja.wikipedia.org/wiki/亜空大作戦スラングル "wikilink")（1983年 - 1984年）
-  - [ななこSOS](https://ja.wikipedia.org/wiki/ななこSOS "wikilink") （1983年）
-  - [忍者戦士飛影](https://ja.wikipedia.org/wiki/忍者戦士飛影 "wikilink") （1985年-1986年）
-  - [シティーハンター](https://ja.wikipedia.org/wiki/シティーハンター_\(アニメ\) "wikilink") （1987年-1988年）
-  - [魔神英雄伝ワタル](https://ja.wikipedia.org/wiki/魔神英雄伝ワタル "wikilink") （1988年-1989年）
+  - [ゼンダマン](../Page/ゼンダマン.md "wikilink") （1979年-1980年）
+  - [亜空大作戦スラングル](../Page/亜空大作戦スラングル.md "wikilink")（1983年 - 1984年）
+  - [ななこSOS](../Page/ななこSOS.md "wikilink") （1983年）
+  - [忍者戦士飛影](../Page/忍者戦士飛影.md "wikilink") （1985年-1986年）
+  - [シティーハンター](../Page/シティーハンター_\(アニメ\).md "wikilink") （1987年-1988年）
+  - [魔神英雄伝ワタル](../Page/魔神英雄伝ワタル.md "wikilink") （1988年-1989年）
   - [らんま1/2](https://ja.wikipedia.org/wiki/らんま1/2 "wikilink") （1989年-1991年）
-  - [機甲警察メタルジャック](https://ja.wikipedia.org/wiki/機甲警察メタルジャック "wikilink") （1991年）
-  - [蒼き伝説シュート\!](https://ja.wikipedia.org/wiki/シュート! "wikilink") （1993年-1994年）
-  - [空想科学世界ガリバーボーイ](https://ja.wikipedia.org/wiki/空想科学世界ガリバーボーイ "wikilink") （1995年）
-  - [グランダー武蔵RV](https://ja.wikipedia.org/wiki/スーパーフィッシング_グランダー武蔵 "wikilink") （1998年）
+  - [機甲警察メタルジャック](../Page/機甲警察メタルジャック.md "wikilink") （1991年）
+  - [蒼き伝説シュート\!](../Page/シュート!.md "wikilink") （1993年-1994年）
+  - [空想科学世界ガリバーボーイ](../Page/空想科学世界ガリバーボーイ.md "wikilink") （1995年）
+  - [グランダー武蔵RV](../Page/スーパーフィッシング_グランダー武蔵.md "wikilink") （1998年）
   - [まもって守護月天\!](../Page/まもって守護月天!.md "wikilink") （1998年-1999年）
-  - [ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink") （1999年-）
-  - [Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink") （2002年）
+  - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink") （1999年-）
+  - [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink") （2002年）
   - [エアマスター](../Page/エアマスター.md "wikilink") （2003年）
   - [明日のナージャ](https://ja.wikipedia.org/wiki/明日のナージャ "wikilink") （2003年-2004年）
   - [ボボボーボ・ボーボボ](../Page/ボボボーボ・ボーボボ.md "wikilink") （2003年-2005年）
   - [リングにかけろ](https://ja.wikipedia.org/wiki/リングにかけろ "wikilink") （2004年）
-  - [祝\!(ハピ☆ラキ)ビックリマン](https://ja.wikipedia.org/wiki/祝!\(ハピ☆ラキ\)ビックリマン "wikilink") （2006年-2007年）
+  - [祝\!(ハピ☆ラキ)ビックリマン](../Page/祝!\(ハピ☆ラキ\)ビックリマン.md "wikilink") （2006年-2007年）
 
 #### 劇場アニメ
 
-  - [はだしのゲン](https://ja.wikipedia.org/wiki/はだしのゲン "wikilink")2 （1986年）
-  - [ガンドレス](https://ja.wikipedia.org/wiki/ガンドレス "wikilink") （1999年）
-  - [デジモンアドベンチャー](https://ja.wikipedia.org/wiki/デジモンアドベンチャー "wikilink") （1999年）
+  - [はだしのゲン](../Page/はだしのゲン.md "wikilink")2 （1986年）
+  - [ガンドレス](../Page/ガンドレス.md "wikilink") （1999年）
+  - [デジモンアドベンチャー](../Page/デジモンアドベンチャー.md "wikilink") （1999年）
 
 ## 註釈
 

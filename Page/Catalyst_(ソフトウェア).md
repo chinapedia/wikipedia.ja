@@ -1,9 +1,9 @@
 > この記事は[Catalyst \(\)](https://ja.wikipedia.org/wiki/Catalyst_\(\))から翻訳されています。
 
 
-**Catalyst** （かたりすと）は、[Perl](../Page/Perl.md "wikilink")で書かれた[オープンソース](../Page/オープンソース.md "wikilink")の[ウェブアプリケーションフレームワークで](https://ja.wikipedia.org/wiki/Webアプリケーションフレームワーク "wikilink")、[Model View Controller](https://ja.wikipedia.org/wiki/Model_View_Controller "wikilink") (MVC)のアーキテクチャを持ち、実験的なウェブのパターンを数多く持っている。[Ruby on Rails](https://ja.wikipedia.org/wiki/Ruby_on_Rails "wikilink")、 [Maypole](https://ja.wikipedia.org/wiki/Maypole_framework "wikilink")、 [Springといったフレームワークに強い影響を受けている](https://ja.wikipedia.org/wiki/Spring_framework "wikilink")。
+**Catalyst** （かたりすと）は、[Perl](../Page/Perl.md "wikilink")で書かれた[オープンソース](../Page/オープンソース.md "wikilink")の[ウェブアプリケーションフレームワークで](../Page/Webアプリケーションフレームワーク.md "wikilink")、[Model View Controller](../Page/Model_View_Controller.md "wikilink") (MVC)のアーキテクチャを持ち、実験的なウェブのパターンを数多く持っている。[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")、 [Maypole](https://ja.wikipedia.org/wiki/Maypole_framework "wikilink")、 [Springといったフレームワークに強い影響を受けている](https://ja.wikipedia.org/wiki/Spring_framework "wikilink")。
 
-Catalystは、主に、Perlのライブラリやアプリケーションの公式配布元である[CPAN](https://ja.wikipedia.org/wiki/CPAN "wikilink")を通じて配布される。
+Catalystは、主に、Perlのライブラリやアプリケーションの公式配布元である[CPAN](../Page/CPAN.md "wikilink")を通じて配布される。
 
 ## 哲学
 
@@ -25,7 +25,7 @@ Catalystには、多くのプラグインがある\[1\]。例えば、[Ajax](htt
 
 ## データベースサポート
 
-Catalystは、PerlのDBIがサポートする[データベース](../Page/データベース.md "wikilink")なら（つまりほぼ全て、[CSVファイルでさえも](../Page/Comma-Separated_Values.md "wikilink")）どれでも動作するが、[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) が推奨されている。データベースアクセスは、モジュールのひとつを通し、全てのデータベースへのアクセスを自動的に操作することで、プログラマーやCatalystからは、完全に抽象化されている。もし必要なら、ダイレクトに[SQL](../Page/SQL.md "wikilink")のクエリを利用することもできる。これは、異なるデータベース間でも移植性のある、データベースにおいて中立的なアプリケーションが利用でき、Catalystアプリケーション開発において、可能な限り、既存のデータベースのユーザビリティを保つことが出来ることを意味する。ただし、RDBMS間で機能が異なる場合には、フレームワーク単独では、完全に機能を保証できない。[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")、[SQLite](https://ja.wikipedia.org/wiki/SQLite "wikilink")、[IBM DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")、[Oracle](../Page/Oracle_Database.md "wikilink")、[Microsoft SQL Serverといった複数のデータベースをサポートしている](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。（[オブジェクト関係マッピング](https://ja.wikipedia.org/wiki/オブジェクト関係マッピング "wikilink")）
+Catalystは、PerlのDBIがサポートする[データベース](../Page/データベース.md "wikilink")なら（つまりほぼ全て、[CSVファイルでさえも](../Page/Comma-Separated_Values.md "wikilink")）どれでも動作するが、[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) が推奨されている。データベースアクセスは、モジュールのひとつを通し、全てのデータベースへのアクセスを自動的に操作することで、プログラマーやCatalystからは、完全に抽象化されている。もし必要なら、ダイレクトに[SQL](../Page/SQL.md "wikilink")のクエリを利用することもできる。これは、異なるデータベース間でも移植性のある、データベースにおいて中立的なアプリケーションが利用でき、Catalystアプリケーション開発において、可能な限り、既存のデータベースのユーザビリティを保つことが出来ることを意味する。ただし、RDBMS間で機能が異なる場合には、フレームワーク単独では、完全に機能を保証できない。[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[IBM DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")、[Oracle](../Page/Oracle_Database.md "wikilink")、[Microsoft SQL Serverといった複数のデータベースをサポートしている](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。（[オブジェクト関係マッピング](../Page/オブジェクト関係マッピング.md "wikilink")）
 
 ## Catalystを使って作られたウェブサイト
 

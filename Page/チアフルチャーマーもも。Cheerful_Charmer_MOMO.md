@@ -1,11 +1,11 @@
 > この記事は[Cheerful Charmer MOMO](https://ja.wikipedia.org/wiki/Cheerful_Charmer_MOMO)から翻訳されています。
 
 
-『**チアフルチャーマーもも。**』は[電撃文庫](../Page/電撃文庫.md "wikilink")の公式海賊本、[電撃P](https://ja.wikipedia.org/wiki/電撃P "wikilink")に収録された書き下ろし作品である。[ハセガワケイスケ](https://ja.wikipedia.org/wiki/ハセガワケイスケ "wikilink")著、[イラストは](../Page/イラストレーター.md "wikilink")[七草](https://ja.wikipedia.org/wiki/七草_\(イラストレーター\) "wikilink")。同著の作品『[しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。 "wikilink")』のスピンオフ作品である。
+『**チアフルチャーマーもも。**』は[電撃文庫](../Page/電撃文庫.md "wikilink")の公式海賊本、[電撃P](https://ja.wikipedia.org/wiki/電撃P "wikilink")に収録された書き下ろし作品である。[ハセガワケイスケ](../Page/ハセガワケイスケ.md "wikilink")著、[イラストは](../Page/イラストレーター.md "wikilink")[七草](https://ja.wikipedia.org/wiki/七草_\(イラストレーター\) "wikilink")。同著の作品『[しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")』のスピンオフ作品である。
 
 ## 概要
 
-作品そのものは[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")夏、[電撃hp](https://ja.wikipedia.org/wiki/電撃hp公式海賊本 "wikilink")、電撃の缶詰誌上での通信販売専用で販売された、[電撃pでの収録が初出](https://ja.wikipedia.org/wiki/電撃hp公式海賊本 "wikilink")。『[しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。 "wikilink")』のキャラクター設定を引用した作品。以降、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[電撃hPa](https://ja.wikipedia.org/wiki/電撃hPa "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[電撃BUNKOYOMIと](https://ja.wikipedia.org/wiki/電撃hp公式海賊本 "wikilink")3年連続、公式海賊本上に連載がされている。また、『[しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。 "wikilink")』ドラマCD内に隠しトラックではあるものの、収録がされている。
+作品そのものは[2004年](../Page/2004年.md "wikilink")夏、[電撃hp](../Page/電撃hp公式海賊本.md "wikilink")、電撃の缶詰誌上での通信販売専用で販売された、[電撃pでの収録が初出](../Page/電撃hp公式海賊本.md "wikilink")。『[しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")』のキャラクター設定を引用した作品。以降、[2005年](../Page/2005年.md "wikilink")の[電撃hPa](https://ja.wikipedia.org/wiki/電撃hPa "wikilink")、[2006年](../Page/2006年.md "wikilink")の[電撃BUNKOYOMIと](../Page/電撃hp公式海賊本.md "wikilink")3年連続、公式海賊本上に連載がされている。また、『[しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")』ドラマCD内に隠しトラックではあるものの、収録がされている。
 
 ## あらすじ
 
@@ -38,7 +38,7 @@
 ### Chapter.03より登場
 
   - クロエ・ヴァニベル（モデル：黒崎クロエ）
-    『全マ連』（『全日本マ法使い連盟』）からやってきた魔法少女。15歳のフランス人高校生。当初、『全マ連』から「[世界征服](https://ja.wikipedia.org/wiki/世界征服 "wikilink")をたくらむ魔法少女の陰謀を阻止せよ！」と命を受け百萌たちの前にあらわれ対決になりかけたが、妙な点で意気投合し仲良くなった。
+    『全マ連』（『全日本マ法使い連盟』）からやってきた魔法少女。15歳のフランス人高校生。当初、『全マ連』から「[世界征服](../Page/世界征服.md "wikilink")をたくらむ魔法少女の陰謀を阻止せよ！」と命を受け百萌たちの前にあらわれ対決になりかけたが、妙な点で意気投合し仲良くなった。
     Chaper.04以降では、百萌たちと同じ小学5年生に設定そのものが変更され、百萌、明日梨たちと共に聖アンジェリカ学院初等部に仲良く通っている。通学の際には使い魔であるルーシィをつれて歩いている。天然さでは百萌に勝るとも劣らない。
   - チアフルチャーマークロエ
     クロエが水色のモバイルPC型マジカルアイテムをスイッチョスイッチョすることで変身する。このときモバイルPC には『Cheerful Charmer Chloe'』『Let's WRECK\!\!』の文字が表記される。もも同様、変身衣装がないため、変身の際には専用コスチュームに着替える。変身すると、金色でウェーブがかっていた髪の毛がスーパーストレートになる。性格のほうも、声色が変身前に比べ多少丸くなり、[あずまんが大王](https://ja.wikipedia.org/wiki/あずまんが大王 "wikilink")の美浜ちよのような声、いい加減な性格となる。初対面時、ももとは一触即発の状況にまで陥るが二人のそのときのコスチュームが日曜の朝8時頃からのアニメ番組に登場の二人組にそっくりであったため、戦うことなく、意気投合した。
@@ -47,9 +47,9 @@
 
   - ドウシー
     百萌たちが拾った[DEATH NOTEで死神が所持していたものにそっくりなノート](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")、「ノート・デス」を落とした（正確にはそのノートに化けていた）死神。死神の世界から逃げてきたらしく、ノート・デスを百萌たちに使わせるよう仕向けた。見た目はDEATH NOTEの[リュークにそっくりらしい](https://ja.wikipedia.org/wiki/死神_\(DEATH_NOTE\)#リューク_\(Ryuk\) "wikilink")。
-    「ノート・デス」はそのノートに書き込んだ人間を殺す力を持っているが、その能力には制限があり、3人までにしか行使できない。『[アラジンと魔法のランプ](https://ja.wikipedia.org/wiki/アラジンと魔法のランプ "wikilink")』の魔法の[ランプに近い能力である](https://ja.wikipedia.org/wiki/ランプ_\(照明器具\) "wikilink")。
+    「ノート・デス」はそのノートに書き込んだ人間を殺す力を持っているが、その能力には制限があり、3人までにしか行使できない。『[アラジンと魔法のランプ](../Page/アラジンと魔法のランプ.md "wikilink")』の魔法の[ランプに近い能力である](../Page/ランプ_\(照明器具\).md "wikilink")。
   - 森田 壱吾
-    柏木やえ子と共に、ドウシーを追ってやってきた死神。「真っ黒い着物に白い帯、手に日本刀」、髪の色/オレンジ、瞳の色/ブラウン、職業/高校生兼、死神代行と、『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』の[黒崎一護](https://ja.wikipedia.org/wiki/黒崎一護 "wikilink")にそっくりな外見をしている。その第一印象は、のんびりとしていてマイペース。愛称は「いっちゃん」。
+    柏木やえ子と共に、ドウシーを追ってやってきた死神。「真っ黒い着物に白い帯、手に日本刀」、髪の色/オレンジ、瞳の色/ブラウン、職業/高校生兼、死神代行と、『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』の[黒崎一護](../Page/黒崎一護.md "wikilink")にそっくりな外見をしている。その第一印象は、のんびりとしていてマイペース。愛称は「いっちゃん」。
   - 柏木 やえ子
     森田壱吾と共に、ドウシーを追ってやってきた死神。壱吾同様、「真っ黒い着物に白い帯、手に日本刀」な服装の上、自己紹介時に『BLEACH』の[朽木ルキア](https://ja.wikipedia.org/wiki/朽木ルキア "wikilink")を挙げてしまっていることから意識しているらしい。作中での発したセリフから、仕事熱心なこと、相棒の壱吾は既にやえ子に尻にしかれているらしい。愛称は「やえっぺ」。
   - ルーシィ
@@ -61,7 +61,7 @@
     Chapter.02にあたる。
     シークレット・トラック Secret track。
     CD内のトラックナンバーは「99」番目。
-    声優はドラマCD『[しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。 "wikilink")』と同じである。
+    声優はドラマCD『[しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")』と同じである。
 
 <!-- end list -->
 
@@ -71,14 +71,14 @@
 
 :\* ダニエル：[広橋涼](../Page/広橋涼.md "wikilink")
 
-:\* 広向井明日梨：[村田あゆみ](https://ja.wikipedia.org/wiki/村田あゆみ "wikilink")
+:\* 広向井明日梨：[村田あゆみ](../Page/村田あゆみ.md "wikilink")
 
 :\* 原上誠吾：[森田成一](../Page/森田成一.md "wikilink")
 
 ## 関連項目
 
-  - [しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。 "wikilink")
-  - [電撃hp公式海賊本](https://ja.wikipedia.org/wiki/電撃hp公式海賊本 "wikilink")
+  - [しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")
+  - [電撃hp公式海賊本](../Page/電撃hp公式海賊本.md "wikilink")
   - [電撃p](https://ja.wikipedia.org/wiki/電撃p "wikilink")
 
 [Category:電撃hp](https://ja.wikipedia.org/wiki/Category:電撃hp "wikilink")

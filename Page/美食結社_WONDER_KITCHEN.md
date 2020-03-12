@@ -7,15 +7,15 @@
 
 ## 出演
 
-  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")
+  - [パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")
   - 銀座「うち山」内山英仁
-  - [六本木ヒルズクラブ](https://ja.wikipedia.org/wiki/六本木ヒルズクラブ "wikilink")　「中国料理 star anise」棚橋文雄
+  - [六本木ヒルズクラブ](../Page/六本木ヒルズクラブ.md "wikilink")　「中国料理 star anise」棚橋文雄
 
 　他
 
 ## 概要
 
-  - ワインの赤に人生を溶かし、葉巻をくゆらす伊達男、[パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")の裏の顔はある組織、「美食結社WONDER KITCHEN」のドンである。彼の野望は・・「料理で世界に笑顔をもたらすこと・・・！」
+  - ワインの赤に人生を溶かし、葉巻をくゆらす伊達男、[パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")の裏の顔はある組織、「美食結社WONDER KITCHEN」のドンである。彼の野望は・・「料理で世界に笑顔をもたらすこと・・・！」
 
 今日も彼は悩める人々を救うため、彼のもとに集まる一流シェフを派遣する・・。 そして腕利きシェフ達は一般家庭や企業など派遣先の台所を、その一流の技術でWONDER KITCHENへと変えてゆく・・。
 
@@ -26,7 +26,7 @@
 
 ## 出演
 
-  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")
+  - [パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")
 
 ### シェフ
 
@@ -37,14 +37,14 @@
   - 「Ristorante Al Porto（リストランテ　アルポルト）」：[片岡護](https://ja.wikipedia.org/wiki/片岡護 "wikilink")
   - 「銀座　寿司幸本店」：杉山衛
   - 「レストラン キノシタ」：木下 和彦
-  - 「Azusa Mayuko Cooking Salon」：[梓真悠子](https://ja.wikipedia.org/wiki/梓真悠子 "wikilink") (料理研究家)
+  - 「Azusa Mayuko Cooking Salon」：[梓真悠子](../Page/梓真悠子.md "wikilink") (料理研究家)
 
 他
 
 ### 姪
 
   - サブリナ：マツダ・サブリナ
-  - ディアナ：[ディアナ・アルファロ](https://ja.wikipedia.org/wiki/ディアナ・アルファロ "wikilink")
+  - ディアナ：[ディアナ・アルファロ](../Page/ディアナ・アルファロ.md "wikilink")
 
 ## 番組内容
 

@@ -5,18 +5,18 @@
 
 ## 歴史
 
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") - ティム・スウィーニーによって[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックビルに](https://ja.wikipedia.org/wiki/ロックビル_\(メリーランド州\) "wikilink")**Potomac Computer Systems**の名前の下創立された。同じ年に最初の製品である『ZZT』を発売した。会社は**Epic Mega Games**として知られるようになった。
+  - [1991年](../Page/1991年.md "wikilink") - ティム・スウィーニーによって[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックビルに](https://ja.wikipedia.org/wiki/ロックビル_\(メリーランド州\) "wikilink")**Potomac Computer Systems**の名前の下創立された。同じ年に最初の製品である『ZZT』を発売した。会社は**Epic Mega Games**として知られるようになった。
   - [1994年](../Page/1994年.md "wikilink")[6月](../Page/6月.md "wikilink") - 横スクロールアクションゲームである『Jazz Jackrabbit』が発売される。後に『Gears of War』を設計する[クリフ・ブレジンスキー](https://ja.wikipedia.org/wiki/クリフ・ブレジンスキー "wikilink")が最初に手がけたゲームでもある。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - ストーリー物の3D[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")『[Unreal](https://ja.wikipedia.org/wiki/Unreal "wikilink")』を発売した。これはUnrealシリーズに拡大した。Epic Mega Gamesは基幹技術である[アンリアルエンジンのライセンス販売をし始め](https://ja.wikipedia.org/wiki/Unreal_Engine "wikilink")、他のゲーム開発会社の開発用ソフトウェアとして使用された。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - ストーリー物の3D[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")『[Unreal](../Page/Unreal.md "wikilink")』を発売した。これはUnrealシリーズに拡大した。Epic Mega Gamesは基幹技術である[アンリアルエンジンのライセンス販売をし始め](../Page/Unreal_Engine.md "wikilink")、他のゲーム開発会社の開発用ソフトウェアとして使用された。
   - [1999年](../Page/1999年.md "wikilink") - 社名を**Epic Games**に変更し、ロックビル本社を含むオフィスをローリーに移転した。
-  - [1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink") - 『Unreal』の世界を舞台にした対戦専用FPS『[Unreal Tournament](https://ja.wikipedia.org/wiki/Unreal_Tournament "wikilink")』を発売。
+  - [1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink") - 『Unreal』の世界を舞台にした対戦専用FPS『[Unreal Tournament](../Page/Unreal_Tournament.md "wikilink")』を発売。
   - [2002年](../Page/2002年.md "wikilink") - アンリアルエンジン2が公開される。
   - [2002年](../Page/2002年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 『Unreal Tournament』シリーズの2作目『Unreal Tournament 2003』を発売。
   - [2003年](../Page/2003年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 『Unreal 2: The Awakening』を発売。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 『2003』の改良版である『Unreal Tournament 2004』を発売。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink") - [Xbox 360タイトルである](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")『[Gears of War](../Page/Gears_of_War.md "wikilink")』を発売。アンリアルエンジン3を利用した最初のゲームとなる。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月](../Page/11月.md "wikilink") - シリーズ3作目となる『Unreal Tournament 3』を発売。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink") - [Xbox 360タイトルである](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")『[Gears of War 2](https://ja.wikipedia.org/wiki/Gears_of_War_2 "wikilink")』が北米、ヨーロッパ、アジアにて同時発売。同タイトルの日本版が2009年7月に発売。
+  - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 『2003』の改良版である『Unreal Tournament 2004』を発売。
+  - [2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink") - [Xbox 360タイトルである](../Page/Xbox_360.md "wikilink")『[Gears of War](../Page/Gears_of_War.md "wikilink")』を発売。アンリアルエンジン3を利用した最初のゲームとなる。
+  - [2007年](../Page/2007年.md "wikilink")[11月](../Page/11月.md "wikilink") - シリーズ3作目となる『Unreal Tournament 3』を発売。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink") - [Xbox 360タイトルである](../Page/Xbox_360.md "wikilink")『[Gears of War 2](https://ja.wikipedia.org/wiki/Gears_of_War_2 "wikilink")』が北米、ヨーロッパ、アジアにて同時発売。同タイトルの日本版が2009年7月に発売。
   - [2009年](../Page/2009年.md "wikilink")[9月](../Page/9月.md "wikilink") - 『[ラストレムナント](https://ja.wikipedia.org/wiki/ラストレムナント "wikilink")』を引き合いに、日本におけるサポート体制の強化として日本支社を設置する意向を発表。
   - [2009年](../Page/2009年.md "wikilink")[11月](../Page/11月.md "wikilink") - 開発キットである"Unreal Development Kit"（略称はUDK）公開開始。非商用および教育目的であれば無料で利用可能。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - エピックゲームズ ジャパン株式会社設立。
@@ -26,16 +26,16 @@
   - [2013年](../Page/2013年.md "wikilink") - マイクロソフトはEpicと共同で管理していた『Gears of War』のEpicが持つ版権を取得。
   - [2014年](../Page/2014年.md "wikilink") - [フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト "wikilink")βテストが開始
   - [2017年](../Page/2017年.md "wikilink") - [フォートナイトを](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
-  - [2018年](../Page/2018年.md "wikilink") - [フォートナイトを](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")(一部の機種)(ベータ版)にリリース。
-  - [2019年](../Page/2019年.md "wikilink") - [BattleBreakersを](https://ja.wikipedia.org/wiki/BattleBreakers_（ゲーム） "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
+  - [2018年](../Page/2018年.md "wikilink") - [フォートナイトを](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[Android](../Page/Android.md "wikilink")(一部の機種)(ベータ版)にリリース。
+  - [2019年](../Page/2019年.md "wikilink") - [BattleBreakersを](https://ja.wikipedia.org/wiki/BattleBreakers_（ゲーム） "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
 
 ## ゲームエンジン
 
-Epicはビデオゲーム産業において3つの成功した[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")の所有者である。詳細は[Unreal Engineの項を参照の事](https://ja.wikipedia.org/wiki/Unreal_Engine "wikilink")。
+Epicはビデオゲーム産業において3つの成功した[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")の所有者である。詳細は[Unreal Engineの項を参照の事](../Page/Unreal_Engine.md "wikilink")。
 
 ## 関連項目
 
-  - [Unreal Engine](https://ja.wikipedia.org/wiki/Unreal_Engine "wikilink")
+  - [Unreal Engine](../Page/Unreal_Engine.md "wikilink")
   - [クリフ・ブレジンスキー](https://ja.wikipedia.org/wiki/クリフ・ブレジンスキー "wikilink") - 過去に同社に所属していたゲーム・デザイナー。
 
 ## 外部リンク

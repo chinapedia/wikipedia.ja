@@ -9,24 +9,24 @@
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **DESIRE**
-    [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")原曲。それまでのLUNA SEAの楽曲には見られなかった情熱的なラブソング\[1\]。
+    [SUGIZO](../Page/SUGIZO.md "wikilink")原曲。それまでのLUNA SEAの楽曲には見られなかった情熱的なラブソング\[1\]。
 2.  **LUV U**
-    [INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")原曲。
-    のちに5th[アルバム](../Page/アルバム.md "wikilink")『[STYLE](https://ja.wikipedia.org/wiki/STYLE_\(LUNA_SEAのアルバム\) "wikilink")』にも、アルバム[ミックスで収録されている](https://ja.wikipedia.org/wiki/ミキシング "wikilink")。
+    [INORAN](../Page/INORAN.md "wikilink")原曲。
+    のちに5th[アルバム](../Page/アルバム.md "wikilink")『[STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")』にも、アルバム[ミックスで収録されている](../Page/ミキシング.md "wikilink")。
 
 ## 収録アルバム
 
 ＃1、＃2
 
-  - [STYLE](https://ja.wikipedia.org/wiki/STYLE_\(LUNA_SEAのアルバム\) "wikilink")　(1996.04.22･MVCD-34)
-  - [SINGLES](https://ja.wikipedia.org/wiki/SINGLES_\(LUNA_SEAのアルバム\) "wikilink") （1997.12.17･MVCD-34）
+  - [STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")　(1996.04.22･MVCD-34)
+  - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink") （1997.12.17･MVCD-34）
 
 ＃1のみ
 
-  - [NEVER SOLD OUT](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT "wikilink") （1999.5.29･MVCH-30007）
+  - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink") （1999.5.29･MVCH-30007）
   - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
   - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
 

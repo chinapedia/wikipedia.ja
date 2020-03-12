@@ -9,21 +9,21 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")時点で、Microsoft Servers には以下のサーバが掲載されている。
 
-  - [BizTalk Server](https://ja.wikipedia.org/wiki/Microsoft_BizTalk_Server "wikilink") - [ビジネスプロセス](https://ja.wikipedia.org/wiki/ビジネスプロセス "wikilink")の構築や統合を自動化するサーバ。
+  - [BizTalk Server](https://ja.wikipedia.org/wiki/Microsoft_BizTalk_Server "wikilink") - [ビジネスプロセス](../Page/ビジネスプロセス.md "wikilink")の構築や統合を自動化するサーバ。
   - [Commerce Server](https://ja.wikipedia.org/wiki/Microsoft_Commerce_Server "wikilink") - [電子商取引](../Page/電子商取引.md "wikilink")の環境を提供するサーバ。
-  - [Exchange Server](https://ja.wikipedia.org/wiki/Microsoft_Exchange_Server "wikilink") - 電子メールを主としたコラボレーション サーバ。
+  - [Exchange Server](../Page/Microsoft_Exchange_Server.md "wikilink") - 電子メールを主としたコラボレーション サーバ。
   - [Forefront](https://ja.wikipedia.org/wiki/Microsoft_Forefront "wikilink") - ビジネス環境のセキュリティを包括的に支援する。
-  - [Host Integration Server](https://ja.wikipedia.org/wiki/Microsoft_Host_Integration_Server "wikilink") - [AS/400](https://ja.wikipedia.org/wiki/System_i "wikilink") の様な[メインフレーム](../Page/メインフレーム.md "wikilink")と Windows 環境との接続に使用するサーバ。
-  - [Hyper-V Server](https://ja.wikipedia.org/wiki/Hyper-V "wikilink") - [スタンドアロン](https://ja.wikipedia.org/wiki/スタンドアロン "wikilink")用 Hyper-V。
+  - [Host Integration Server](https://ja.wikipedia.org/wiki/Microsoft_Host_Integration_Server "wikilink") - [AS/400](../Page/System_i.md "wikilink") の様な[メインフレーム](../Page/メインフレーム.md "wikilink")と Windows 環境との接続に使用するサーバ。
+  - [Hyper-V Server](../Page/Hyper-V.md "wikilink") - [スタンドアロン](https://ja.wikipedia.org/wiki/スタンドアロン "wikilink")用 Hyper-V。
   - [Identity Integration Server](https://ja.wikipedia.org/wiki/Microsoft_Identity_Integration_Server "wikilink") - 様々な識別情報管理製品。略称は MIIS。
-  - [ISA Server](https://ja.wikipedia.org/wiki/Microsoft_Internet_Security_and_Acceleration_Server "wikilink") - [ファイアウォール](../Page/ファイアウォール.md "wikilink")や[プロキシ](https://ja.wikipedia.org/wiki/プロキシ "wikilink")といった Web のゲートウェイ機能を提供する。前身は Microsoft Proxy Server。
+  - [ISA Server](https://ja.wikipedia.org/wiki/Microsoft_Internet_Security_and_Acceleration_Server "wikilink") - [ファイアウォール](../Page/ファイアウォール.md "wikilink")や[プロキシ](../Page/プロキシ.md "wikilink")といった Web のゲートウェイ機能を提供する。前身は Microsoft Proxy Server。
   - [Search Server](https://ja.wikipedia.org/wiki/Microsoft_Search_Server "wikilink") - エンタープライズ用の検索サーバ。
   - [Speech Server](https://ja.wikipedia.org/wiki/Microsoft_Speech_Server "wikilink") - 音声認識を含む電話装置用の自動会話アプリケーション。
   - [SQL Server](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink") - 幾つかのビジネス情報分析ツールを含むデータベース システム
       - Windows上[RDBMS](https://ja.wikipedia.org/wiki/RDBMS "wikilink")としては、シェア世界1位。[UNIX](../Page/UNIX.md "wikilink")系も含めると、[Oracle Database](../Page/Oracle_Database.md "wikilink")、[DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink") に次ぐ3位。日経の製品満足度リサーチでは、主要RDBMS中のトップの満足度を獲得している。これは他の主要データベース製品と比較して、価格がリーズナブルである点が大きく影響しているとみられる。
   - [Virtual Server](../Page/Microsoft_Virtual_Server.md "wikilink") - コンピュータ上に[仮想マシンを提供する](../Page/仮想機械.md "wikilink")。
-  - [Windows Server](https://ja.wikipedia.org/wiki/Windows_Server "wikilink") - サーバOS。
-  - [Windows Server Update Services](https://ja.wikipedia.org/wiki/Windows_Server_Update_Services "wikilink") - LAN 内の Windows や他のマイクロソフト製品のアップデートを管理、提供するサーバである。
+  - [Windows Server](../Page/Windows_Server.md "wikilink") - サーバOS。
+  - [Windows Server Update Services](../Page/Windows_Server_Update_Services.md "wikilink") - LAN 内の Windows や他のマイクロソフト製品のアップデートを管理、提供するサーバである。
   - [Windows Essential Business Server](https://ja.wikipedia.org/wiki/Microsoft_Windows_Essential_Business_Server "wikilink")
   - [Windows Small Business Server](https://ja.wikipedia.org/wiki/Microsoft_Windows_Small_Business_Server "wikilink") - 中小ビジネス環境を想定し Windows Server で、他のサーバ製品がセットになった Windows Server 。
   - [Windows Storage Server](https://ja.wikipedia.org/wiki/Microsoft_Windows_Storage_Server "wikilink") - ストレージ機器向けに開発された Windows Server 。
@@ -32,22 +32,22 @@
 
   - [Forms Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Forms_Server "wikilink") - 電子フォーム上でコラボレーションするために設計された。Office 2007 より登場。
   - [Groove Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Groove "wikilink") - [Groove](https://ja.wikipedia.org/wiki/Microsoft_Office_Groove "wikilink") を利用したコラボレーションサーバ。
-  - [Office Communications Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink") - [IM](https://ja.wikipedia.org/wiki/インスタントメッセージ "wikilink") や [IP電話](../Page/IP電話.md "wikilink")、プレゼンスといったリアルタイム コミュニケーション環境を提供する。
+  - [Office Communications Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink") - [IM](../Page/インスタントメッセージ.md "wikilink") や [IP電話](../Page/IP電話.md "wikilink")、プレゼンスといったリアルタイム コミュニケーション環境を提供する。
   - [PerformancePoint Server](https://ja.wikipedia.org/wiki/Microsoft_PerformancePoint_Server "wikilink") - ビジネス パフォーマンスの管理。
-  - [Project Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Project_Server "wikilink") -　プロジェクト管理やリソース配置サービスをする[Microsoft Projectのサーバ](https://ja.wikipedia.org/wiki/Microsoft_Project "wikilink") コンポーネント。
-  - [SharePoint Server](https://ja.wikipedia.org/wiki/Microsoft_Office_SharePoint_Server "wikilink") - [ドキュメント管理や](https://ja.wikipedia.org/wiki/文書管理システム "wikilink")[ポータルサイト](../Page/ポータルサイト.md "wikilink")など、ビジネス [コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")環境を提供する。
-  - [FAST Search Server for SharePoint](https://ja.wikipedia.org/wiki/FAST_Search_Server_for_SharePoint "wikilink") - [ファスト製品の技術を利用した](https://ja.wikipedia.org/wiki/ファストサーチ_&_トランスファ "wikilink")[全文検索](../Page/全文検索.md "wikilink")を構築するための製品。
+  - [Project Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Project_Server "wikilink") -　プロジェクト管理やリソース配置サービスをする[Microsoft Projectのサーバ](../Page/Microsoft_Project.md "wikilink") コンポーネント。
+  - [SharePoint Server](https://ja.wikipedia.org/wiki/Microsoft_Office_SharePoint_Server "wikilink") - [ドキュメント管理や](../Page/文書管理システム.md "wikilink")[ポータルサイト](../Page/ポータルサイト.md "wikilink")など、ビジネス [コラボレーション](../Page/コラボレーション.md "wikilink")環境を提供する。
+  - [FAST Search Server for SharePoint](https://ja.wikipedia.org/wiki/FAST_Search_Server_for_SharePoint "wikilink") - [ファスト製品の技術を利用した](../Page/ファストサーチ_&_トランスファ.md "wikilink")[全文検索](../Page/全文検索.md "wikilink")を構築するための製品。
 
 ## Microsoft System Center
 
 Microsoft System CenterはIT管理者がWindows Serverとクライアントデスクトップシステムのネットワークを管理を支援するためのサーバ製品。最初にSystem Centerが発表されたときは、Windows Server Systemの製品を含んでいたものであったが、その後新しい製品を含んだものに進化した。
 
   - Capacity Planner
-  - [Configuration Manager](https://ja.wikipedia.org/wiki/Microsoft_Systems_Management_Server "wikilink") - 管理の設定やハードウェア・ソフトウェアの資産管理、Windowsデスクトップの修正モジュールの配置をすることができる。
+  - [Configuration Manager](../Page/Microsoft_Systems_Management_Server.md "wikilink") - 管理の設定やハードウェア・ソフトウェアの資産管理、Windowsデスクトップの修正モジュールの配置をすることができる。
   - Data Protection Manager
   - Essentials
   - Reporting Manager
-  - [Operations Manager](https://ja.wikipedia.org/wiki/System_Center_Operations_Manager "wikilink") - アプリケーションとサービスを点検することができる。
+  - [Operations Manager](../Page/System_Center_Operations_Manager.md "wikilink") - アプリケーションとサービスを点検することができる。
   - Service Manager
   - Virtual Machine Manager
   - AppController

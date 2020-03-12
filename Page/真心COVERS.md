@@ -1,9 +1,9 @@
 > この記事は[COVERS](https://ja.wikipedia.org/wiki/COVERS)から翻訳されています。
 
 
-『**真心COVERS**』（まごころカヴァーズ）は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")の[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")である。
+『**真心COVERS**』（まごころカヴァーズ）は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[キューンレコードよりリリースされた](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+[2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[キューンレコードよりリリースされた](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -33,17 +33,17 @@
 7.  **スタンダード3** / [Rosetta Garden](https://ja.wikipedia.org/wiki/Rosetta_Garden "wikilink")
       -
         アルバム『[GREAT ADVENTURE](https://ja.wikipedia.org/wiki/GREAT_ADVENTURE_\(真心ブラザーズのアルバム\) "wikilink")』収録
-        真心ブラザーズとRosetta Garden両方のメンバーである[桜井秀俊](https://ja.wikipedia.org/wiki/桜井秀俊 "wikilink")にとっては、[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")にあたる
-8.  **[拝啓、ジョン・レノン](https://ja.wikipedia.org/wiki/拝啓、ジョン・レノン "wikilink")** / [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+        真心ブラザーズとRosetta Garden両方のメンバーである[桜井秀俊](../Page/桜井秀俊.md "wikilink")にとっては、[セルフカバー](../Page/セルフカバー.md "wikilink")にあたる
+8.  **[拝啓、ジョン・レノン](https://ja.wikipedia.org/wiki/拝啓、ジョン・レノン "wikilink")** / [サンボマスター](../Page/サンボマスター.md "wikilink")
       -
         14thシングル
 9.  **[BABY BABY BABY](https://ja.wikipedia.org/wiki/BABY_BABY_BABY "wikilink")** / [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")
       -
         19thシングル
-10. **素晴らしきこの世界** / [忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")
+10. **素晴らしきこの世界** / [忌野清志郎](../Page/忌野清志郎.md "wikilink")
       -
         シングル「[自転車に乗って](https://ja.wikipedia.org/wiki/自転車に乗って "wikilink")」収録
-11. **新しい夜明け** / MB's（[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")）
+11. **新しい夜明け** / MB's（[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")）
       -
         アルバム『GREAT ADVENTURE』収録
         セルフカバー

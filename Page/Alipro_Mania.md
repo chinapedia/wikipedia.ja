@@ -1,7 +1,7 @@
 > この記事は[Alipro Mania](https://ja.wikipedia.org/wiki/Alipro_Mania)から翻訳されています。
 
 
-『**Alipro Mania**』（アリプロマニア）は[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")1枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。
+『**Alipro Mania**』（アリプロマニア）は[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")1枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。
 
 ## 概要
 
@@ -18,6 +18,6 @@
 3.  **Babylon Cafe ～ novellette (instrument)**
 4.  **ある夏の午後 (instrument)**
 
-[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")
+[作詞](../Page/作詞.md "wikilink")：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[片倉三起也](../Page/片倉三起也.md "wikilink")
 
 [Category:ALI_PROJECTのアルバム](https://ja.wikipedia.org/wiki/Category:ALI_PROJECTのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink")

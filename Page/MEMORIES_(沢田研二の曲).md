@@ -3,7 +3,7 @@
 
 **MEMORIES**（メモリーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の20枚目のシングルである。
 
-[1977年](../Page/1977年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")より発売された。
+[1977年](../Page/1977年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")より発売された。
 
 このシングルは、1977年7月30日に西ドイツで先行発売されている。
 

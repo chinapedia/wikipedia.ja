@@ -1,15 +1,15 @@
 > この記事は[Rumble on the Rock](https://ja.wikipedia.org/wiki/Rumble_on_the_Rock)から翻訳されています。
 
 
-**Rumble on the Rock**（ランブル・オン・ザ・ロック、略称**ROTR**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体。[ハワイ州](../Page/ハワイ州.md "wikilink")を拠点とし、[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink")の兄弟であるJD・ペンが代表を務めるRumble World Entertainmentによって開催されている。[キックボクシング](../Page/キックボクシング.md "wikilink")団体「[K-1](../Page/K-1.md "wikilink")」と提携していた。
+**Rumble on the Rock**（ランブル・オン・ザ・ロック、略称**ROTR**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体。[ハワイ州](../Page/ハワイ州.md "wikilink")を拠点とし、[BJ・ペン](../Page/BJ・ペン.md "wikilink")の兄弟であるJD・ペンが代表を務めるRumble World Entertainmentによって開催されている。[キックボクシング](../Page/キックボクシング.md "wikilink")団体「[K-1](../Page/K-1.md "wikilink")」と提携していた。
 
 ## 概要
 
 [2002年](../Page/2002年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")に旗揚げ大会を開催。地元ハワイの選手を中心に試合が組まれている。試合場はオクタゴンのケージを使用し、膝をついている状態の相手への膝蹴りが認められていることが特徴である\[1\]。
 
-[2003年](../Page/2003年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")、ROTR 4でニール・ブレイスデル・アリーナに進出し、世界ライト級王座決定戦でBJ・ペンと[五味隆典](https://ja.wikipedia.org/wiki/五味隆典 "wikilink")が対戦し\[2\]、[チョークスリーパーで一本勝ちを収めたペンが初代ROTRライト級王者に認定された](https://ja.wikipedia.org/wiki/裸絞 "wikilink")\[3\]。
+[2003年](../Page/2003年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")、ROTR 4でニール・ブレイスデル・アリーナに進出し、世界ライト級王座決定戦でBJ・ペンと[五味隆典](../Page/五味隆典.md "wikilink")が対戦し\[2\]、[チョークスリーパーで一本勝ちを収めたペンが初代ROTRライト級王者に認定された](../Page/裸絞.md "wikilink")\[3\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")、ROTR 8でウェルター級（-79.5kg）トーナメントを開催。[岡見勇信](https://ja.wikipedia.org/wiki/岡見勇信 "wikilink")、[アンデウソン・シウバ](https://ja.wikipedia.org/wiki/アンデウソン・シウバ "wikilink")、[ジェイク・シールズ](../Page/ジェイク・シールズ.md "wikilink")、[カーロス・コンディット](../Page/カーロス・コンディット.md "wikilink")、[フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")らが出場した。[4月21日](../Page/4月21日.md "wikilink")の決勝戦で優勝したシールズが初代ROTRウェルター級王者に認定された\[4\]。
+[2006年](../Page/2006年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")、ROTR 8でウェルター級（-79.5kg）トーナメントを開催。[岡見勇信](../Page/岡見勇信.md "wikilink")、[アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink")、[ジェイク・シールズ](../Page/ジェイク・シールズ.md "wikilink")、[カーロス・コンディット](../Page/カーロス・コンディット.md "wikilink")、[フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")らが出場した。[4月21日](../Page/4月21日.md "wikilink")の決勝戦で優勝したシールズが初代ROTRウェルター級王者に認定された\[4\]。
 
 ## 階級・王座
 
@@ -23,14 +23,14 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェルター級" title="wikilink">ウェルター級</a></p></td>
+<td><p><a href="../Page/ウェルター級.md" title="wikilink">ウェルター級</a></p></td>
 <td><p>-175lbs: -79.5kg</p></td>
 <td><p><a href="../Page/ジェイク・シールズ.md" title="wikilink">ジェイク・シールズ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライト級" title="wikilink">ライト級</a></p></td>
+<td><p><a href="../Page/ライト級.md" title="wikilink">ライト級</a></p></td>
 <td><p>-155lbs: -70.3kg</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BJ・ペン" title="wikilink">BJ・ペン</a></p></td>
+<td><p><a href="../Page/BJ・ペン.md" title="wikilink">BJ・ペン</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -152,7 +152,7 @@
 <td><p>Rumble on the Rock: Showdown in Maui</p></td>
 <td><p>2005年10月7日</p></td>
 <td><p>ラハイナ・シビック・センター</p></td>
-<td><p><a href="../Page/ハワイ州.md" title="wikilink">ハワイ州</a><a href="https://ja.wikipedia.org/wiki/マウイ島" title="wikilink">マウイ</a></p></td>
+<td><p><a href="../Page/ハワイ州.md" title="wikilink">ハワイ州</a><a href="../Page/マウイ島.md" title="wikilink">マウイ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Rumble on the Rock: Qualifiers</p></td>

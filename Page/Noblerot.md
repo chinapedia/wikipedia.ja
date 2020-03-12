@@ -1,13 +1,13 @@
 > この記事は[Noblerot](https://ja.wikipedia.org/wiki/Noblerot)から翻訳されています。
 
 
-『**Noblerot**』（ノーブルロット）は[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売された。
+『**Noblerot**』（ノーブルロット）は[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売された。
 
 ## 概要
 
-  - やや古いアルバムではあるが、廃盤等の状況に陥っていないので、ALI PROJECTの比較的古いアルバムの中では入手が容易なものであると思われる（他の古いアルバムは[廃盤](https://ja.wikipedia.org/wiki/廃盤 "wikilink")や[再発](https://ja.wikipedia.org/wiki/再発 "wikilink")後の販売終了などが多い）。
-  - [ジャケット絵](https://ja.wikipedia.org/wiki/ジャケット絵 "wikilink")は[CLAMP](https://ja.wikipedia.org/wiki/CLAMP "wikilink")の作。ALI PROJECTのCDの中では多くないコロムビアからのリリースである。
-  - なお、タイトルの「Noblerot」とは[貴腐](https://ja.wikipedia.org/wiki/貴腐 "wikilink")を意味する。
+  - やや古いアルバムではあるが、廃盤等の状況に陥っていないので、ALI PROJECTの比較的古いアルバムの中では入手が容易なものであると思われる（他の古いアルバムは[廃盤](../Page/廃盤.md "wikilink")や[再発](https://ja.wikipedia.org/wiki/再発 "wikilink")後の販売終了などが多い）。
+  - [ジャケット絵](https://ja.wikipedia.org/wiki/ジャケット絵 "wikilink")は[CLAMP](../Page/CLAMP.md "wikilink")の作。ALI PROJECTのCDの中では多くないコロムビアからのリリースである。
+  - なお、タイトルの「Noblerot」とは[貴腐](../Page/貴腐.md "wikilink")を意味する。
 
 ## 収録曲
 
@@ -17,14 +17,14 @@
 2.  **Halation**
 3.  **乙女の祈り**
       -
-        同名の作品は多数あり（[乙女の祈り](https://ja.wikipedia.org/wiki/乙女の祈り "wikilink")参照。）[ピーター・ジャクソン](https://ja.wikipedia.org/wiki/ピーター・ジャクソン "wikilink")の映画に少女観が近しいが、関連性は不明。
+        同名の作品は多数あり（[乙女の祈り](https://ja.wikipedia.org/wiki/乙女の祈り "wikilink")参照。）[ピーター・ジャクソン](../Page/ピーター・ジャクソン.md "wikilink")の映画に少女観が近しいが、関連性は不明。
 4.  **Rose Moon**
 5.  **堕落論**
       -
         [坂口安吾](../Page/坂口安吾.md "wikilink")の著名な[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")に同名のものがある。
 6.  **ナルシス・ノワール**
       -
-        [耽美的な歌詞が特徴の楽曲](https://ja.wikipedia.org/wiki/耽美主義 "wikilink")。ナルシス、水仙といった歌詞が[ナルキッソス](../Page/ナルキッソス.md "wikilink")を連想させる。
+        [耽美的な歌詞が特徴の楽曲](../Page/耽美主義.md "wikilink")。ナルシス、水仙といった歌詞が[ナルキッソス](../Page/ナルキッソス.md "wikilink")を連想させる。
 7.  **NoblerotⅡ (instrument)**
 8.  **deep forest**
 9.  **LOST CHILD**
@@ -37,19 +37,19 @@
       -
         異色の曲調が賛否両論を巻き起こした事は、自身の公式サイトにも記述されている。
 
-[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")（[インスト](https://ja.wikipedia.org/wiki/インスト "wikilink")を除く）、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")
+[作詞](../Page/作詞.md "wikilink")：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")（[インスト](https://ja.wikipedia.org/wiki/インスト "wikilink")を除く）、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[片倉三起也](../Page/片倉三起也.md "wikilink")
 
 ## タイアップ
 
-| 曲名        | タイアップ                                                                                                                                                                              | 備考                                                           |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| LABYRINTH | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[聖ルミナス女学院](https://ja.wikipedia.org/wiki/聖ルミナス女学院 "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。 | 8th[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。 |
+| 曲名        | タイアップ                                                                                                                                        | 備考                                                           |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| LABYRINTH | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[聖ルミナス女学院](../Page/聖ルミナス女学院.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")。 | 8th[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。 |
 
 ## 参加ミュージシャン
 
   - Strings Arrangement：[Tsuyoshi Watanabe](../Page/渡辺剛_\(ヴァイオリニスト\).md "wikilink")\[M5\]
-  - [Accordion](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")：[coba](https://ja.wikipedia.org/wiki/coba "wikilink")\[M9\]
-  - A/E Guitars：[Shinji Wajima](https://ja.wikipedia.org/wiki/和嶋慎治 "wikilink")\[M8\]
+  - [Accordion](../Page/アコーディオン.md "wikilink")：[coba](https://ja.wikipedia.org/wiki/coba "wikilink")\[M9\]
+  - A/E Guitars：[Shinji Wajima](../Page/和嶋慎治.md "wikilink")\[M8\]
   - [Drums](../Page/ドラムセット.md "wikilink")：Tsunehiro Suzuki(鈴木常弘)\[M5\]
   - [E Bass](../Page/エレクトリックベース.md "wikilink")：[Tomonori Taguchi](https://ja.wikipedia.org/wiki/田口智則 "wikilink")\[M5\]
   - [E Guitar](../Page/エレクトリック・ギター.md "wikilink")：[Jun Kajiwara](../Page/梶原順.md "wikilink")\[M13\]

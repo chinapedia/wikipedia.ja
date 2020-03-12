@@ -1,17 +1,17 @@
 > この記事は[Eudora](https://ja.wikipedia.org/wiki/Eudora)から翻訳されています。
 
 
-**Eudora**（ユードラ）は、[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")が提供していた[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。
+**Eudora**（ユードラ）は、[クアルコム](../Page/クアルコム.md "wikilink")が提供していた[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。
 
 ## 歴史
 
-[1988年](../Page/1988年.md "wikilink")、[イリノイ大学アーバナ・シャンペーン校](https://ja.wikipedia.org/wiki/イリノイ大学アーバナ・シャンペーン校 "wikilink")のコンピュータサービス部においてによって開発され、[Macintosh](../Page/Macintosh.md "wikilink")向け[フリーウェア](../Page/フリーウェア.md "wikilink")として配布された\[1\]。ソフトウェア名前は、愛読していた短編小説「Why I Live at the P.O.（わたしはどうして郵便局で暮らすようになったか）」の著者[ユードラ・ウェルティ](https://ja.wikipedia.org/wiki/ユードラ・ウェルティ "wikilink")にちなんでつけられた\[2\]\[3\]。また、小説のタイトルにちなんで「Bringing the P.O. to Where You Live (あなたが暮らしているところに郵便局を)」というスローガンを掲げた。
+[1988年](../Page/1988年.md "wikilink")、[イリノイ大学アーバナ・シャンペーン校](../Page/イリノイ大学アーバナ・シャンペーン校.md "wikilink")のコンピュータサービス部においてによって開発され、[Macintosh](../Page/Macintosh.md "wikilink")向け[フリーウェア](../Page/フリーウェア.md "wikilink")として配布された\[1\]。ソフトウェア名前は、愛読していた短編小説「Why I Live at the P.O.（わたしはどうして郵便局で暮らすようになったか）」の著者[ユードラ・ウェルティ](https://ja.wikipedia.org/wiki/ユードラ・ウェルティ "wikilink")にちなんでつけられた\[2\]\[3\]。また、小説のタイトルにちなんで「Bringing the P.O. to Where You Live (あなたが暮らしているところに郵便局を)」というスローガンを掲げた。
 
-[1991年](../Page/1991年.md "wikilink")、[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")が買収。機能が限定された無料のLight版とフル機能で有償のPro版というラインナップに代わる。のちに広告を表示する代わりに無料でフル機能が使えるスポンサーモードもラインナップに加わる\[4\]。
+[1991年](../Page/1991年.md "wikilink")、[クアルコム](../Page/クアルコム.md "wikilink")が買収。機能が限定された無料のLight版とフル機能で有償のPro版というラインナップに代わる。のちに広告を表示する代わりに無料でフル機能が使えるスポンサーモードもラインナップに加わる\[4\]。
 
 2006年10月11日、最終となる商用版「Eudora 7.1 for Windows」と「Eudora 6.2.4」(Mac OS X版)をリリース\[5\]。
 
-2018年5月23日、[コンピューター歴史博物館](https://ja.wikipedia.org/wiki/コンピューター歴史博物館 "wikilink")はEudoraの所有権、商標、ドメインの移譲を受け、最終商用版を[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")下でソースコードを公開した\[6\]\[7\]。
+2018年5月23日、[コンピューター歴史博物館](https://ja.wikipedia.org/wiki/コンピューター歴史博物館 "wikilink")はEudoraの所有権、商標、ドメインの移譲を受け、最終商用版を[BSDライセンス](../Page/BSDライセンス.md "wikilink")下でソースコードを公開した\[6\]\[7\]。
 
 ### 日本語版の歴史
 
@@ -47,7 +47,7 @@
 
 ## Eudora OSE
 
-Eudora OSEは、[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")も参加する[Mozilla Foundationの](../Page/Mozilla_Foundation.md "wikilink")[Penelope](../Page/Penelope.md "wikilink")プロジェクトによってEudoraの次期バージョンとして開発された[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。[Mozilla Thunderbirdと同じテクノロジープラットフォームをベースにしている](../Page/Mozilla_Thunderbird.md "wikilink")。[Mozilla Thunderbird用アドオンである](../Page/Mozilla_Thunderbird.md "wikilink")[Penelope](../Page/Penelope.md "wikilink")を含んでいる。OSEはOpen Source Editionの略である。
+Eudora OSEは、[クアルコム](../Page/クアルコム.md "wikilink")も参加する[Mozilla Foundationの](../Page/Mozilla_Foundation.md "wikilink")[Penelope](../Page/Penelope.md "wikilink")プロジェクトによってEudoraの次期バージョンとして開発された[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。[Mozilla Thunderbirdと同じテクノロジープラットフォームをベースにしている](../Page/Mozilla_Thunderbird.md "wikilink")。[Mozilla Thunderbird用アドオンである](../Page/Mozilla_Thunderbird.md "wikilink")[Penelope](../Page/Penelope.md "wikilink")を含んでいる。OSEはOpen Source Editionの略である。
 
 ### 歴史
 

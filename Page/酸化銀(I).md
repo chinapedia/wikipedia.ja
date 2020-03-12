@@ -18,11 +18,11 @@
 
   -
     <chem>Ag2O + 2HX -\> 2AgX + H2O</chem>
-    HX = [HF](../Page/フッ化水素酸.md "wikilink")・[HCl](https://ja.wikipedia.org/wiki/塩酸 "wikilink")・[HBr](https://ja.wikipedia.org/wiki/臭化水素酸 "wikilink")・[HI](../Page/ヨウ化水素.md "wikilink")・[{{chem](https://ja.wikipedia.org/wiki/トリフルオロ酢酸 "wikilink")
+    HX = [HF](../Page/フッ化水素酸.md "wikilink")・[HCl](https://ja.wikipedia.org/wiki/塩酸 "wikilink")・[HBr](https://ja.wikipedia.org/wiki/臭化水素酸 "wikilink")・[HI](../Page/ヨウ化水素.md "wikilink")・[{{chem](../Page/トリフルオロ酢酸.md "wikilink")
 
 アルカリ塩化物水溶液と反応すると、対応するアルカリ水酸化物と[塩化銀(I)](../Page/塩化銀\(I\).md "wikilink")が生成する\[6\]\[7\]。
 
-[アンモニア](../Page/アンモニア.md "wikilink") 、[チオ硫酸](https://ja.wikipedia.org/wiki/チオ硫酸 "wikilink")イオン  の水溶液には以下のように反応し溶解する。それぞれジアンミン銀(I)イオン、ビス(チオスルファト)銀(I)酸イオンといった[錯イオン](https://ja.wikipedia.org/wiki/錯イオン "wikilink")を生じる。
+[アンモニア](../Page/アンモニア.md "wikilink") 、[チオ硫酸](../Page/チオ硫酸.md "wikilink")イオン  の水溶液には以下のように反応し溶解する。それぞれジアンミン銀(I)イオン、ビス(チオスルファト)銀(I)酸イオンといった[錯イオン](https://ja.wikipedia.org/wiki/錯イオン "wikilink")を生じる。
 
   -
     <chem>Ag2O + 4NH3 + H2O -\> 2\[Ag(NH3)2\]^+ + 2OH-</chem>
@@ -35,7 +35,7 @@
 
 ## 利用
 
-有機化学では温和な酸化剤として利用され、例えばアルデヒドのカルボン酸への酸化に用いられる\[9\]。この場合は、硝酸銀とアルカリ水酸化物によって*[in situ](https://ja.wikipedia.org/wiki/in_situ "wikilink")* で調製されることが多い。また、[一酸化銀](https://ja.wikipedia.org/wiki/一酸化銀 "wikilink") と同様に[酸化銀電池](https://ja.wikipedia.org/wiki/酸化銀電池 "wikilink")に用いられる。
+有機化学では温和な酸化剤として利用され、例えばアルデヒドのカルボン酸への酸化に用いられる\[9\]。この場合は、硝酸銀とアルカリ水酸化物によって*[in situ](https://ja.wikipedia.org/wiki/in_situ "wikilink")* で調製されることが多い。また、[一酸化銀](https://ja.wikipedia.org/wiki/一酸化銀 "wikilink") と同様に[酸化銀電池](../Page/酸化銀電池.md "wikilink")に用いられる。
 
 微細な電子回路の製造時に導電性材料として銀粉が用いられることがあるが、より粉末化の容易な酸化銀を用いて、加熱することで導電性の銀に変換する手法が開発されている\[10\]。
 
@@ -46,7 +46,7 @@
   - [銀](https://ja.wikipedia.org/wiki/銀 "wikilink")
   - [一酸化銀](https://ja.wikipedia.org/wiki/一酸化銀 "wikilink") ()
   - [酸化銀(III)](https://ja.wikipedia.org/wiki/酸化銀\(III\) "wikilink") ()
-  - [酸化銀電池](https://ja.wikipedia.org/wiki/酸化銀電池 "wikilink")
+  - [酸化銀電池](../Page/酸化銀電池.md "wikilink")
   - [トレンス試薬](../Page/トレンス試薬.md "wikilink") (アンモニア性硝酸銀水溶液)
 
 ## 外部リンク

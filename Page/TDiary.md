@@ -9,7 +9,7 @@ tDiaryの誕生は2001年4月21日で\[1\]、コードが[SourceForge.net](../Pa
 
 コメント機能の「ツッコミ」、簡易なトラックバック機能の「本日のリンク元」、[CSSによる視覚スタイルの変更機能の](../Page/Cascading_Style_Sheets.md "wikilink")「テーマ」などの基本的な機能を備えたWeb日記のツールである。さらに[プラグイン](../Page/プラグイン.md "wikilink")を使用することにより様々な機能を追加できるため、日記に留まらず一般的なWebサイト作成ツールとして使用されることもある。その一例としてはtDiary自身の公式サイトがある。かつてはRuby公式サイトもtDiaryで運用されていた。
 
-もともとWeb日記のツールのため、基本は日付単位で記事が管理される（「ツッコミ」を入れられた場合も同様に日付単位での管理となる）が、[Movable Typeなどの](https://ja.wikipedia.org/wiki/Movable_Type "wikilink")[ブログ](../Page/ブログ.md "wikilink")用[ツールのように記事単位で管理されるようにする拡張も存在する](https://ja.wikipedia.org/wiki/ツールソフトウェア "wikilink")。詳しくは[リリース記事](http://www.tdiary.org/20021125.html)を参照のこと。
+もともとWeb日記のツールのため、基本は日付単位で記事が管理される（「ツッコミ」を入れられた場合も同様に日付単位での管理となる）が、[Movable Typeなどの](../Page/Movable_Type.md "wikilink")[ブログ](../Page/ブログ.md "wikilink")用[ツールのように記事単位で管理されるようにする拡張も存在する](https://ja.wikipedia.org/wiki/ツールソフトウェア "wikilink")。詳しくは[リリース記事](http://www.tdiary.org/20021125.html)を参照のこと。
 
 テーマについては、日記システム自体のシステムの内部実装はまったく異なるものの、[はてなダイアリーのそれと親和性が高く](https://ja.wikipedia.org/wiki/はてなのサービス一覧#はてなダイアリー "wikilink")、お互いに変更なしにそのまま利用できる場合が多い。
 

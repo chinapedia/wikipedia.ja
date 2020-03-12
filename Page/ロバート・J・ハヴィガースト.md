@@ -9,9 +9,9 @@
 
 ### 経歴
 
-1924年になって、彼は専門の[物理](../Page/物理学.md "wikilink")、[化学](../Page/化学.md "wikilink")から、理科教育へと関心を大きく転換し、地元[ウィスコンシン大学](https://ja.wikipedia.org/wiki/ウィスコンシン大学 "wikilink")の物理学の助教授に就任すると共に、その地の実験的な性格をもったカレッジの助言者を務めることを引き受け、その後[ロックフェラー教育財団](https://ja.wikipedia.org/wiki/ロックフェラー教育財団 "wikilink")の仕事などを経て、徐々に教育学、人間発達学へと専門分野を移していく。1940年には[シカゴ大学](../Page/シカゴ大学.md "wikilink")の児童発達研究部門で[教育学](../Page/教育学.md "wikilink")教授に就き、人間発達と教育の問題に取り組み、また学際的な研究や文化比較的な横断研究などのコーディネートなどを活発に行った。都市の児童や[アメリカインディアンの子ども](../Page/インディアン.md "wikilink")、あるいは高齢者のエイジングへの適応の問題など、幅広いテーマで活動、[成人教育学](https://ja.wikipedia.org/wiki/成人教育学 "wikilink")の台頭期の代表的な研究者ともいわれる。著書、編著書は、45冊強を数える。
+1924年になって、彼は専門の[物理](../Page/物理学.md "wikilink")、[化学](../Page/化学.md "wikilink")から、理科教育へと関心を大きく転換し、地元[ウィスコンシン大学](../Page/ウィスコンシン大学.md "wikilink")の物理学の助教授に就任すると共に、その地の実験的な性格をもったカレッジの助言者を務めることを引き受け、その後[ロックフェラー教育財団](https://ja.wikipedia.org/wiki/ロックフェラー教育財団 "wikilink")の仕事などを経て、徐々に教育学、人間発達学へと専門分野を移していく。1940年には[シカゴ大学](../Page/シカゴ大学.md "wikilink")の児童発達研究部門で[教育学](../Page/教育学.md "wikilink")教授に就き、人間発達と教育の問題に取り組み、また学際的な研究や文化比較的な横断研究などのコーディネートなどを活発に行った。都市の児童や[アメリカインディアンの子ども](../Page/インディアン.md "wikilink")、あるいは高齢者のエイジングへの適応の問題など、幅広いテーマで活動、[成人教育学](https://ja.wikipedia.org/wiki/成人教育学 "wikilink")の台頭期の代表的な研究者ともいわれる。著書、編著書は、45冊強を数える。
 
-また、人間の[発達課題](https://ja.wikipedia.org/wiki/発達課題 "wikilink")を提唱したことでも名高い。最も有名な著書は、"Developmental Tasks and Education"（『人間の発達課題と教育』玉川大学出版部 1995年）である。
+また、人間の[発達課題](../Page/発達課題.md "wikilink")を提唱したことでも名高い。最も有名な著書は、"Developmental Tasks and Education"（『人間の発達課題と教育』玉川大学出版部 1995年）である。
 
 ## その他の主要著書
 
@@ -23,7 +23,7 @@
 
 ## 関連項目
 
-  - [生涯発達心理学](https://ja.wikipedia.org/wiki/生涯発達心理学 "wikilink")（[発達心理学](https://ja.wikipedia.org/wiki/発達心理学 "wikilink")）
-  - [ジークムント・フロイト](../Page/ジークムント・フロイト.md "wikilink")/[エリク・H・エリクソン](https://ja.wikipedia.org/wiki/エリク・H・エリクソン "wikilink") - 「[発達課題](https://ja.wikipedia.org/wiki/発達課題 "wikilink")」については、対比してとらえられることが多い。
+  - [生涯発達心理学](https://ja.wikipedia.org/wiki/生涯発達心理学 "wikilink")（[発達心理学](../Page/発達心理学.md "wikilink")）
+  - [ジークムント・フロイト](../Page/ジークムント・フロイト.md "wikilink")/[エリク・H・エリクソン](../Page/エリク・H・エリクソン.md "wikilink") - 「[発達課題](../Page/発達課題.md "wikilink")」については、対比してとらえられることが多い。
 
 [Category:アメリカ合衆国の教育学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の教育学者 "wikilink") [Category:アメリカ合衆国の発達心理学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の発達心理学者 "wikilink") [Category:シカゴ大学の教員](https://ja.wikipedia.org/wiki/Category:シカゴ大学の教員 "wikilink") [Category:ウィスコンシン大学の教員](https://ja.wikipedia.org/wiki/Category:ウィスコンシン大学の教員 "wikilink") [Category:ウィスコンシン州の人物](https://ja.wikipedia.org/wiki/Category:ウィスコンシン州の人物 "wikilink") [Category:1900年生](https://ja.wikipedia.org/wiki/Category:1900年生 "wikilink") [Category:1991年没](https://ja.wikipedia.org/wiki/Category:1991年没 "wikilink")

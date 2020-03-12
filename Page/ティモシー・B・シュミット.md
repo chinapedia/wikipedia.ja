@@ -1,15 +1,15 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-[Eagles.jpg](https://ja.wikipedia.org/wiki/File:Eagles.jpg "fig:Eagles.jpg")\]\] **ティモシー・B・シュミット**の芸名で知られる**ティモシー・ブルース・シュミット**（**Timothy Bruce Schmit**、[1947年](../Page/1947年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[1970年代](../Page/1970年代.md "wikilink")に[ポコや](https://ja.wikipedia.org/wiki/ポコ_\(バンド\) "wikilink")[イーグルス](https://ja.wikipedia.org/wiki/イーグルス "wikilink")のメンバーとして活動したことで知られる。
+[Eagles.jpg](https://ja.wikipedia.org/wiki/File:Eagles.jpg "fig:Eagles.jpg")\]\] **ティモシー・B・シュミット**の芸名で知られる**ティモシー・ブルース・シュミット**（**Timothy Bruce Schmit**、[1947年](../Page/1947年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[1970年代](../Page/1970年代.md "wikilink")に[ポコや](https://ja.wikipedia.org/wiki/ポコ_\(バンド\) "wikilink")[イーグルス](../Page/イーグルス.md "wikilink")のメンバーとして活動したことで知られる。
 
 ## 来歴
 
-[オークランドで生まれ](../Page/オークランド_\(カリフォルニア州\).md "wikilink")、その後[サクラメントに移る](https://ja.wikipedia.org/wiki/サクラメント_\(カリフォルニア州\) "wikilink")。15歳の頃に地元で音楽活動を開始。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")、カントリー・ロック・バンド、[ポコに](https://ja.wikipedia.org/wiki/ポコ_\(バンド\) "wikilink")[ランディ・マイズナー](https://ja.wikipedia.org/wiki/ランディ・マイズナー "wikilink")の後釜として加入。ポコでの活動と並行して、[スティーリー・ダン](https://ja.wikipedia.org/wiki/スティーリー・ダン "wikilink")らとも共演した。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、イーグルスに加入。この時も奇しくも[ランディ・マイズナー](https://ja.wikipedia.org/wiki/ランディ・マイズナー "wikilink")の後釜であった。ティモシーは、アルバム『[ロング・ラン](../Page/ロング・ラン.md "wikilink")』（[1979年](../Page/1979年.md "wikilink")）収録曲「*I Can't Tell You Why*（言いだせなくて）」でリード・ボーカルを担当し、同曲はシングルとして全米8位のヒットとなった。
+[オークランドで生まれ](../Page/オークランド_\(カリフォルニア州\).md "wikilink")、その後[サクラメントに移る](../Page/サクラメント_\(カリフォルニア州\).md "wikilink")。15歳の頃に地元で音楽活動を開始。[1970年](../Page/1970年.md "wikilink")、カントリー・ロック・バンド、[ポコに](https://ja.wikipedia.org/wiki/ポコ_\(バンド\) "wikilink")[ランディ・マイズナー](https://ja.wikipedia.org/wiki/ランディ・マイズナー "wikilink")の後釜として加入。ポコでの活動と並行して、[スティーリー・ダン](../Page/スティーリー・ダン.md "wikilink")らとも共演した。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、イーグルスに加入。この時も奇しくも[ランディ・マイズナー](https://ja.wikipedia.org/wiki/ランディ・マイズナー "wikilink")の後釜であった。ティモシーは、アルバム『[ロング・ラン](../Page/ロング・ラン.md "wikilink")』（[1979年](../Page/1979年.md "wikilink")）収録曲「*I Can't Tell You Why*（言いだせなくて）」でリード・ボーカルを担当し、同曲はシングルとして全米8位のヒットとなった。
 
 イーグルス解散後にソロ活動を開始。[1982年](../Page/1982年.md "wikilink")、映画『[初体験/リッジモント・ハイ](https://ja.wikipedia.org/wiki/初体験/リッジモント・ハイ "wikilink")』にザ・タイムスのカヴァー「[なぎさの誓い](../Page/なぎさの誓い.md "wikilink")」を提供し、日本ではミニコンポのCMにも使用され人気となった。[1984年](../Page/1984年.md "wikilink")、初のソロ・アルバム『プレイン・イット・クール』発表。[1992年](../Page/1992年.md "wikilink")には[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")・アンド・ヒズ・オールスター・バンドのツアーにも参加した。[1993年](../Page/1993年.md "wikilink")、イーグルスの再結成に参加。
 
-更に、[TOTOや](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")など、様々な[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の作品でバッキング・ボーカルを担当している。
+更に、[TOTOや](../Page/TOTO_\(バンド\).md "wikilink")[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")など、様々な[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の作品でバッキング・ボーカルを担当している。
 
 ## 作品
 

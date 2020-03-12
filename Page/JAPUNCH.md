@@ -3,7 +3,7 @@
 
 **JAPUNCH**（ジャパンチ）は、[一コマ漫画](https://ja.wikipedia.org/wiki/一コマ漫画 "wikilink")を執筆する6人の日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")グループ。
 
-現在のメンバーは、[鮎沢まこと](https://ja.wikipedia.org/wiki/鮎沢まこと "wikilink")、[ウノ・カマキリ](https://ja.wikipedia.org/wiki/ウノ・カマキリ "wikilink")、[クミタ・リュウ](https://ja.wikipedia.org/wiki/クミタ・リュウ "wikilink")、[クロイワ・カズ](https://ja.wikipedia.org/wiki/クロイワ・カズ "wikilink")、[所ゆきよし](https://ja.wikipedia.org/wiki/所ゆきよし "wikilink")、[森田拳次](../Page/森田拳次.md "wikilink")｡
+現在のメンバーは、[鮎沢まこと](../Page/鮎沢まこと.md "wikilink")、[ウノ・カマキリ](../Page/ウノ・カマキリ.md "wikilink")、[クミタ・リュウ](https://ja.wikipedia.org/wiki/クミタ・リュウ "wikilink")、[クロイワ・カズ](https://ja.wikipedia.org/wiki/クロイワ・カズ "wikilink")、[所ゆきよし](../Page/所ゆきよし.md "wikilink")、[森田拳次](../Page/森田拳次.md "wikilink")｡
 
 ## 変遷
 
@@ -21,7 +21,7 @@
 
 ## 受賞歴
 
-  - 『VIVA,CHEF\!』で､平成13年度(第5回)*[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink")・マンガ部門(優秀賞)*
+  - 『VIVA,CHEF\!』で､平成13年度(第5回)*[文化庁メディア芸術祭](../Page/文化庁メディア芸術祭.md "wikilink")・マンガ部門(優秀賞)*
   - 『CIN CIN』で､平成14年度(第6回)*文化庁メディア芸術祭・マンガ部門(審査委員会推薦作品)*
 
 [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink")

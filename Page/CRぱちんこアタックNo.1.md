@@ -1,29 +1,29 @@
 > この記事は[CRNo.1](https://ja.wikipedia.org/wiki/CRNo.1)から翻訳されています。
 
 
-**CRぱちんこアタックNo.1**（-ナンバーワン）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプのパチンコ。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")より放送されたテレビアニメ『[アタックNo.1](https://ja.wikipedia.org/wiki/アタックNo.1 "wikilink")』のタイアップ[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。放映当時の声優陣が声をあてている事がセールスポイントだったが、当時の声優はこずえ役の小鳩くるみやシェレーニナ役の増山江威子など各チームのキャプテンを務める声優のみで、他の部員や本郷コーチは独自のキャストが起用されている。
+**CRぱちんこアタックNo.1**（-ナンバーワン）は、[2007年](../Page/2007年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプのパチンコ。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")より放送されたテレビアニメ『[アタックNo.1](../Page/アタックNo.1.md "wikilink")』のタイアップ[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。放映当時の声優陣が声をあてている事がセールスポイントだったが、当時の声優はこずえ役の小鳩くるみやシェレーニナ役の増山江威子など各チームのキャプテンを務める声優のみで、他の部員や本郷コーチは独自のキャストが起用されている。
 
 ## 特徴
 
 ### 機器特徴
 
-  - 突然[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")（2R確変）タイプ。
+  - 突然[確率変動](../Page/確率変動.md "wikilink")（2R確変）タイプ。
   - 役物として涙を流す「鮎原こずえ」フィギアを搭載。
-  - 本機宣伝用にテレビCMが制作された。[大杉久美子](https://ja.wikipedia.org/wiki/大杉久美子 "wikilink")が当時の主題歌「アタックNo.1」を替え歌で歌っている。
+  - 本機宣伝用にテレビCMが制作された。[大杉久美子](../Page/大杉久美子.md "wikilink")が当時の主題歌「アタックNo.1」を替え歌で歌っている。
   - 同社の『CRぱちんこウルトラセブン』などのウルトラバトルモード同様、対決モードが搭載されている。レギュラーボーナス（通常絵柄当選）で終了する。（負け＝通常絵柄当選）なお、突時（2R通常）は存在しない。
   - 他機種ではポリゴン使用の3Dアニメーションが多いが、本機ではアニメーションは本機用に全て描き下ろしした物で、全て2Dアニメーションとなっている。
   - 確変絵柄での大当たり時（アタックボーナス）と単発絵柄での大当たり時（レギュラーボーナス）で使うアタッカーが異なっている。アタックボーナス消化時は右側でアタックボーナス消化時は真ん中を使う。なお、出玉性能は同じである。
 
 ### 携帯版実機アプリ
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")より[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")・[softbankの携帯向けサイト](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")「京楽サプライズ」で携帯版実機アプリの配信を開始した。実機との相違点は現在のところ下記の通り。
+[2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")より[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")・[softbankの携帯向けサイト](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")「京楽サプライズ」で携帯版実機アプリの配信を開始した。実機との相違点は現在のところ下記の通り。
 
   - 「メッセージウインドウ予告」・「挑発予告」の予告が省略されている。
   - 「噴水リーチ」・「努リーチ」・「ダンスリーチ」・「特訓本郷リーチ」のリーチが省略されている。
   - 「アタックチャンス」が省略されている。
   - 「特訓モード」に突入する事がある。
   - リーチが「ノーマルリーチ」・「対決リーチ」になっている。
-  - [著作権](../Page/著作権.md "wikilink")・[肖像権](https://ja.wikipedia.org/wiki/肖像権 "wikilink")の絡みからラウンド時の映像が省略されている。等の相違点がある。
+  - [著作権](../Page/著作権.md "wikilink")・[肖像権](../Page/肖像権.md "wikilink")の絡みからラウンド時の映像が省略されている。等の相違点がある。
 
 ## シリーズ
 

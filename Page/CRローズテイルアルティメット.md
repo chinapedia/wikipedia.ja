@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRローズテイルアルティメット**（しーあーる-）は、[豊丸産業](https://ja.wikipedia.org/wiki/豊丸産業 "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。基本的には演出は同じだがスペックが異なる「**CR野薔薇物語**（のばらものがたり）」も同時に発売されている。[萌え](../Page/萌え.md "wikilink")をテーマとしている。
+**CRローズテイルアルティメット**（しーあーる-）は、[豊丸産業](../Page/豊丸産業.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。基本的には演出は同じだがスペックが異なる「**CR野薔薇物語**（のばらものがたり）」も同時に発売されている。[萌え](../Page/萌え.md "wikilink")をテーマとしている。
 
 ## スペック
 
@@ -10,10 +10,10 @@
   - 大当たり確率1/398.5→1/39.85
       - 低確率：1/398.5
       - 高確率：1/39.85
-  - [確変割合](https://ja.wikipedia.org/wiki/確率変動 "wikilink")：70%（[2Rも含む](https://ja.wikipedia.org/wiki/確率変動#突然確変（突確） "wikilink")）
+  - [確変割合](../Page/確率変動.md "wikilink")：70%（[2Rも含む](https://ja.wikipedia.org/wiki/確率変動#突然確変（突確） "wikilink")）
   - 大当たりラウンド：16Ror2R・9C
   - 賞球数：3&10&13
-  - [時短](https://ja.wikipedia.org/wiki/時短_\(パチンコ\) "wikilink")：通常大当たり終了後100回転
+  - [時短](../Page/時短_\(パチンコ\).md "wikilink")：通常大当たり終了後100回転
 
 ### CRローズテイルアルティメットF
 
@@ -107,7 +107,7 @@
 
 詳しい設定は公式サイトを参照。
 
-  - のばら（[声優](../Page/声優.md "wikilink")：[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")）
+  - のばら（[声優](../Page/声優.md "wikilink")：[野川さくら](../Page/野川さくら.md "wikilink")）
     主人公。義元家のメイド。
   - 良雄（よしお）（声優：[松岡由貴](../Page/松岡由貴.md "wikilink")）
     のばらとは姉弟関係だが本人は知らない。

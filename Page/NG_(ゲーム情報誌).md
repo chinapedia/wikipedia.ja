@@ -1,7 +1,7 @@
 > この記事は[NG \(\)](https://ja.wikipedia.org/wiki/NG_\(\))から翻訳されています。
 
 
-『**NG**』（エヌジー）とは、かつてナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）が発行していた広報誌。正式名称は『namco COMMUNITY MAGAZINE NG』。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に創刊され、ナムコ直営の[ゲームセンター](../Page/ゲームセンター.md "wikilink")等で無料で配布された。現在でいう[フリーマガジンにあたる](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")。
+『**NG**』（エヌジー）とは、かつてナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）が発行していた広報誌。正式名称は『namco COMMUNITY MAGAZINE NG』。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に創刊され、ナムコ直営の[ゲームセンター](../Page/ゲームセンター.md "wikilink")等で無料で配布された。現在でいう[フリーマガジンにあたる](../Page/フリーペーパー.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 原則としてナムコ直営店のみでの配布だったが、一部のシングルロケ（ナムコは機器のリースのみで経営は独自の店舗）での配布もあったほか、郵送での定期購読や実費分の切手を送付することによって、バックナンバーや最新号の郵送取り寄せも可能だった（実質的にはフリーペーパーであるものの、定価が設定されており郵送取り寄せ時にはこの定価が実費として必要だった。また、実際に有料で頒布していた時期や店舗もあった）。
 
-会社とファンとの交流の場でもあったことから、ゲーム開発者が直接回答する質問コーナーや読者投稿ページもあり、初期の投稿者の中には[田尻智](../Page/田尻智.md "wikilink")など、現在では著名なゲーム開発者やゲームライター、雑誌編集者などの名前が見受けられる。掲載者にはオリジナルTシャツなどが送られたり、頒布用カレンダーが余った年には応募者にプレゼントするなどファンサービスは旺盛だった。ゲームに関係する記事のほか、読み物として発行当時ナムコ社員だった[冨士宏](https://ja.wikipedia.org/wiki/冨士宏 "wikilink")の「[午後の国](https://ja.wikipedia.org/wiki/午後の国 "wikilink")」や「[迷廊館のチャナ](https://ja.wikipedia.org/wiki/迷廊館のチャナ "wikilink")」、[大場惑](https://ja.wikipedia.org/wiki/大場惑 "wikilink")のショートSFが掲載されていたこともあった。
+会社とファンとの交流の場でもあったことから、ゲーム開発者が直接回答する質問コーナーや読者投稿ページもあり、初期の投稿者の中には[田尻智](../Page/田尻智.md "wikilink")など、現在では著名なゲーム開発者やゲームライター、雑誌編集者などの名前が見受けられる。掲載者にはオリジナルTシャツなどが送られたり、頒布用カレンダーが余った年には応募者にプレゼントするなどファンサービスは旺盛だった。ゲームに関係する記事のほか、読み物として発行当時ナムコ社員だった[冨士宏](../Page/冨士宏.md "wikilink")の「[午後の国](../Page/午後の国.md "wikilink")」や「[迷廊館のチャナ](https://ja.wikipedia.org/wiki/迷廊館のチャナ "wikilink")」、[大場惑](../Page/大場惑.md "wikilink")のショートSFが掲載されていたこともあった。
 
 なお、NGのファンクラブ「NGクラブ」も存在する。月刊No.17で編集者より募集が行われたものの、その後一年半音沙汰が無く、[1989年](../Page/1989年.md "wikilink")夏ごろより活動を開始。同クラブのメンバーが誌面に登場する事もあった（後述）。
 
@@ -21,17 +21,17 @@
   - 付録
       - [ペーパークラフト](../Page/ペーパークラフト.md "wikilink")や[カセットテープ用インデックスカードなど](../Page/コンパクトカセット.md "wikilink")。
   - インターフェース（後にハードウェアサポートと改称）
-      - 開発担当者が直接質問に答える。[遠藤雅伸](https://ja.wikipedia.org/wiki/遠藤雅伸 "wikilink")が企画したと言われる。
+      - 開発担当者が直接質問に答える。[遠藤雅伸](../Page/遠藤雅伸.md "wikilink")が企画したと言われる。
       - 月刊化以降もNo.14まで連載。のちにNo.29より、ゲーム開発について解説する「ナムコ・教養講座 OS」も連載された。
   - 全国ロケーション（店舗）紹介→ロケーション・ネットワーク（月刊化以降）
       - 全国各地のナムコ直営店への取材レポート。
   - 図画工作教室
       - 「[Mr.ドットマン](https://ja.wikipedia.org/wiki/小野浩_\(ゲームクリエイター\) "wikilink")」によるドット絵講座。後にフルスクラッチモデルの製作・解説も行った。
   - ロボット
-      - [マイクロマウス](https://ja.wikipedia.org/wiki/マイクロマウス "wikilink")や催事用ロボットなどの紹介。
-  - [ラジオはアメリカン](https://ja.wikipedia.org/wiki/ラジオはアメリカン "wikilink")
+      - [マイクロマウス](../Page/マイクロマウス.md "wikilink")や催事用ロボットなどの紹介。
+  - [ラジオはアメリカン](../Page/ラジオはアメリカン.md "wikilink")
   - マンガ
-      - 「[午後の国](https://ja.wikipedia.org/wiki/午後の国 "wikilink")」（季刊時代）、「[迷廊館のチャナ](https://ja.wikipedia.org/wiki/迷廊館のチャナ "wikilink")」（No.30 - 最終号）、「まけないクン」等。単発で『[超絶倫人ベラボーマン](https://ja.wikipedia.org/wiki/超絶倫人ベラボーマン "wikilink")』や『[爆突機銃艇](https://ja.wikipedia.org/wiki/爆突機銃艇 "wikilink")』などのマンガも掲載。
+      - 「[午後の国](../Page/午後の国.md "wikilink")」（季刊時代）、「[迷廊館のチャナ](https://ja.wikipedia.org/wiki/迷廊館のチャナ "wikilink")」（No.30 - 最終号）、「まけないクン」等。単発で『[超絶倫人ベラボーマン](../Page/超絶倫人ベラボーマン.md "wikilink")』や『[爆突機銃艇](../Page/爆突機銃艇.md "wikilink")』などのマンガも掲載。
       - 「午後の国」は月刊化後のNo.4にバレンタインスペシャルが掲載された。
   - 読者投稿ページ
       - NG TALK（季刊時代）→元気新聞（月刊化以降）
@@ -56,13 +56,13 @@
 A5判の小冊子で、40ページ前後で構成されていた。
 
   - **創刊号**：特集記事 [ゼビウス](../Page/ゼビウス.md "wikilink")
-  - **2号**：[マッピー](https://ja.wikipedia.org/wiki/マッピー "wikilink")
-      - 海賊版（デッドコピー）の見分け方や、社長（[中村雅哉](https://ja.wikipedia.org/wiki/中村雅哉 "wikilink")）の一日を紹介。
+  - **2号**：[マッピー](../Page/マッピー.md "wikilink")
+      - 海賊版（デッドコピー）の見分け方や、社長（[中村雅哉](../Page/中村雅哉.md "wikilink")）の一日を紹介。
   - **3号**：エレメカ
-  - **4号**：[リブルラブル](https://ja.wikipedia.org/wiki/リブルラブル "wikilink")
-  - **5号**：[ギャプラス](https://ja.wikipedia.org/wiki/ギャプラス "wikilink")
+  - **4号**：[リブルラブル](../Page/リブルラブル.md "wikilink")
+  - **5号**：[ギャプラス](../Page/ギャプラス.md "wikilink")
   - **6号**：[ドルアーガの塔](../Page/ドルアーガの塔.md "wikilink")
-  - **7号**：[パックランド](https://ja.wikipedia.org/wiki/パックランド "wikilink")
+  - **7号**：[パックランド](../Page/パックランド.md "wikilink")
   - **8号**：ナムコット
   - **9号**：[科学万博 つくば'85](../Page/国際科学技術博覧会.md "wikilink")
       - ナムコはマスコットキャラクターである「コスモ星丸」のロボットの製作、および会場内「星丸ランド」のゲームセンター部分の出展を担当した。
@@ -70,8 +70,8 @@ A5判の小冊子で、40ページ前後で構成されていた。
   - **10号**：ナムコ創立30周年（1）
   - **11号**：ナムコ創立30周年（2）
   - **12号**：ナムコ創立30周年（3）
-  - **13号**：[トイポップ](https://ja.wikipedia.org/wiki/トイポップ "wikilink")
-  - **14号**：[イシターの復活](https://ja.wikipedia.org/wiki/イシターの復活 "wikilink")
+  - **13号**：[トイポップ](../Page/トイポップ.md "wikilink")
+  - **14号**：[イシターの復活](../Page/イシターの復活.md "wikilink")
 
 ### 月刊期（1986年 - 1989年）
 
@@ -80,39 +80,39 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **月刊創刊号**：1986年11月号
 <ゲーム紹介>
 
-  - [源平討魔伝](https://ja.wikipedia.org/wiki/源平討魔伝 "wikilink")
+  - [源平討魔伝](../Page/源平討魔伝.md "wikilink")
   - [マッピーランド](https://ja.wikipedia.org/wiki/マッピーランド "wikilink")
 
 **No.2**：1986年12月号
 
   - [パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")が表紙（No.13まで）
-  - 巻頭特集に[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")（[南部寅太在籍時](https://ja.wikipedia.org/wiki/南部虎弾 "wikilink")）が登場
+  - 巻頭特集に[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")（[南部寅太在籍時](../Page/南部虎弾.md "wikilink")）が登場
 
 <ゲーム紹介>
 
   - [プロ野球ファミリースタジアム](../Page/プロ野球ファミリースタジアム.md "wikilink")
-  - [メトロクロス](https://ja.wikipedia.org/wiki/メトロクロス "wikilink")（[FC版](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")）
+  - [メトロクロス](../Page/メトロクロス.md "wikilink")（[FC版](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")）
 
 **No.3**：1987年1月号
 <ゲーム紹介>
 
   - [3DサンダーセプターII](https://ja.wikipedia.org/wiki/3DサンダーセプターII "wikilink")
-  - [ローリングサンダー](https://ja.wikipedia.org/wiki/ローリングサンダー_\(コンピュータゲーム\) "wikilink")
-  - [ドラゴンバスター](https://ja.wikipedia.org/wiki/ドラゴンバスター "wikilink")（FC版）
+  - [ローリングサンダー](../Page/ローリングサンダー_\(コンピュータゲーム\).md "wikilink")
+  - [ドラゴンバスター](../Page/ドラゴンバスター.md "wikilink")（FC版）
 
 **No.4**：1987年2月号
 
 **No.5**：1987年3月号
 <ゲーム紹介>
 
-  - [ワンダーモモ](https://ja.wikipedia.org/wiki/ワンダーモモ "wikilink")
+  - [ワンダーモモ](../Page/ワンダーモモ.md "wikilink")
 
 **No.6**：1987年4月号
 <ゲーム紹介>
 
-  - [妖怪道中記](https://ja.wikipedia.org/wiki/妖怪道中記 "wikilink")
-  - [さんまの名探偵](https://ja.wikipedia.org/wiki/さんまの名探偵 "wikilink")
-  - [ファミリージョッキー](https://ja.wikipedia.org/wiki/ファミリージョッキー "wikilink")
+  - [妖怪道中記](../Page/妖怪道中記.md "wikilink")
+  - [さんまの名探偵](../Page/さんまの名探偵.md "wikilink")
+  - [ファミリージョッキー](../Page/ファミリージョッキー.md "wikilink")
 
 **No.7**：1987年5月号
 <ゲーム紹介>
@@ -123,9 +123,9 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.8**：1987年6月号
 <ゲーム紹介>
 
-  - [ドラゴンスピリット](https://ja.wikipedia.org/wiki/ドラゴンスピリット "wikilink")
-  - [ファミリーボクシング](https://ja.wikipedia.org/wiki/ファミリーボクシング "wikilink")
-  - [ドラゴンスレイヤーIV ドラスレファミリー](https://ja.wikipedia.org/wiki/ドラゴンスレイヤーIV_ドラスレファミリー "wikilink")
+  - [ドラゴンスピリット](../Page/ドラゴンスピリット.md "wikilink")
+  - [ファミリーボクシング](../Page/ファミリーボクシング.md "wikilink")
+  - [ドラゴンスレイヤーIV ドラスレファミリー](../Page/ドラゴンスレイヤーIV_ドラスレファミリー.md "wikilink")
 
 **No.9**：1987年7月号
 <ゲーム紹介>
@@ -137,19 +137,19 @@ A5判の小冊子で、40ページ前後で構成されていた。
 
   - ドラゴンスピリット
   - [ブレイザー](https://ja.wikipedia.org/wiki/ブレイザー "wikilink")
-  - [ファミリーマージャン](https://ja.wikipedia.org/wiki/ファミリーマージャン "wikilink")
-  - [デジタル・デビル物語 女神転生](https://ja.wikipedia.org/wiki/デジタル・デビル物語_女神転生 "wikilink")
+  - [ファミリーマージャン](../Page/ファミリーマージャン.md "wikilink")
+  - [デジタル・デビル物語 女神転生](../Page/デジタル・デビル物語_女神転生.md "wikilink")
 
 **No.11**：1987年9月号
 <ゲーム紹介>
 
   - デジタル・デビル物語 女神転生
-  - [クエスター](https://ja.wikipedia.org/wiki/クエスター "wikilink")
+  - [クエスター](../Page/クエスター.md "wikilink")
 
 **No.12**：1987年10月号
 <ゲーム紹介>
 
-  - [パックマニア](https://ja.wikipedia.org/wiki/パックマニア "wikilink")
+  - [パックマニア](../Page/パックマニア.md "wikilink")
 
 **No.13**：1987年11月号
 
@@ -157,18 +157,18 @@ A5判の小冊子で、40ページ前後で構成されていた。
 <ゲーム紹介>
 
   - [ファイナルラップ](../Page/ファイナルラップ.md "wikilink")
-  - [ギャラガ'88](https://ja.wikipedia.org/wiki/ギャラガ'88 "wikilink")
+  - [ギャラガ'88](../Page/ギャラガ'88.md "wikilink")
   - [プロ野球ファミリースタジアム'87](https://ja.wikipedia.org/wiki/プロ野球ファミリースタジアム'87 "wikilink")
-  - [ファミリーテニス](https://ja.wikipedia.org/wiki/ファミリーテニス "wikilink")
+  - [ファミリーテニス](../Page/ファミリーテニス.md "wikilink")
   - [スターウォーズ](https://ja.wikipedia.org/wiki/スターウォーズ "wikilink")
 
 **No.15**：1988年1月号
 <ゲーム紹介>
 
-  - [ファミリーサーキット](https://ja.wikipedia.org/wiki/ファミリーサーキット "wikilink")
+  - [ファミリーサーキット](../Page/ファミリーサーキット.md "wikilink")
   - ドラゴンバスター（[MSX2](../Page/MSX2.md "wikilink")版）
   - 妖怪道中記（[PCエンジン](../Page/PCエンジン.md "wikilink")版）
-  - [独眼竜政宗](https://ja.wikipedia.org/wiki/独眼竜政宗_\(ゲーム\) "wikilink")
+  - [独眼竜政宗](../Page/独眼竜政宗_\(ゲーム\).md "wikilink")
 
 **No.16**：1988年2月号
 <ゲーム紹介>
@@ -182,8 +182,8 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.18**：1988年4月号
 <ゲーム紹介>
 
-  - [アサルト](https://ja.wikipedia.org/wiki/アサルト "wikilink")
-  - [超絶倫人ベラボーマン](https://ja.wikipedia.org/wiki/超絶倫人ベラボーマン "wikilink")
+  - [アサルト](../Page/アサルト.md "wikilink")
+  - [超絶倫人ベラボーマン](../Page/超絶倫人ベラボーマン.md "wikilink")
 
 **No.19**：1988年5・6月合併号
 <ゲーム紹介>
@@ -193,29 +193,29 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.21**：1988年7月号
 <ゲーム紹介>
 
-  - [カイの冒険](https://ja.wikipedia.org/wiki/カイの冒険 "wikilink")
+  - [カイの冒険](../Page/カイの冒険.md "wikilink")
 
 **No.22**：1988年8月号
 
 **No.23**：1988年9月号
 <ゲーム紹介>
 
-  - [爆突機銃艇](https://ja.wikipedia.org/wiki/爆突機銃艇 "wikilink")
+  - [爆突機銃艇](../Page/爆突機銃艇.md "wikilink")
 
 **No.24**：1988年10月号
 <ゲーム紹介>
 
   - [オーダイン](../Page/オーダイン.md "wikilink")
-  - [メタルホーク](https://ja.wikipedia.org/wiki/メタルホーク "wikilink")
+  - [メタルホーク](../Page/メタルホーク.md "wikilink")
   - [プロテニスワールドコート](https://ja.wikipedia.org/wiki/プロテニスワールドコート "wikilink")
-  - [貝獣物語](https://ja.wikipedia.org/wiki/貝獣物語 "wikilink")
+  - [貝獣物語](../Page/貝獣物語.md "wikilink")
 
 **No.25**：1988年11月号
 <ゲーム紹介>
 
   - [未来忍者](https://ja.wikipedia.org/wiki/未来忍者 "wikilink")
   - オーダイン
-  - [キングオブキングス](https://ja.wikipedia.org/wiki/キングオブキングス_\(ゲーム\) "wikilink")
+  - [キングオブキングス](../Page/キングオブキングス_\(ゲーム\).md "wikilink")
 
 **No.26**：1988年12月号
 
@@ -227,7 +227,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.27**：1989年1・2月号
 <ゲーム紹介>
 
-  - [ウイニングラン](https://ja.wikipedia.org/wiki/ウイニングラン_\(コンピューターゲーム\) "wikilink")
+  - [ウイニングラン](../Page/ウイニングラン_\(コンピューターゲーム\).md "wikilink")
 
 **No.28**：1989年3・4月号
 
@@ -248,7 +248,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 
 <ゲーム紹介>
 
-  - [ワルキューレの伝説](https://ja.wikipedia.org/wiki/ワルキューレの伝説 "wikilink")
+  - [ワルキューレの伝説](../Page/ワルキューレの伝説.md "wikilink")
 
 **No.30**：1989年8月号
 <ゲーム紹介>
@@ -258,7 +258,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.31**：1989年10月号
 <ゲーム紹介>
 
-  - [バーニングフォース](https://ja.wikipedia.org/wiki/バーニングフォース "wikilink")
+  - [バーニングフォース](../Page/バーニングフォース.md "wikilink")
   - [ファイネストアワー](https://ja.wikipedia.org/wiki/ファイネストアワー "wikilink")
   - [フォートラックス](https://ja.wikipedia.org/wiki/フォートラックス "wikilink")
 
@@ -275,8 +275,8 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.34**：1990年4月号
 <ゲーム紹介>
 
-  - [ギャラクシアン3](https://ja.wikipedia.org/wiki/ギャラクシアン3 "wikilink")
-  - [ドルアーガの塔 (アトラクション)](https://ja.wikipedia.org/wiki/ドルアーガの塔_\(アトラクション\) "wikilink")
+  - [ギャラクシアン3](../Page/ギャラクシアン3.md "wikilink")
+  - [ドルアーガの塔 (アトラクション)](../Page/ドルアーガの塔_\(アトラクション\).md "wikilink")
 
 **No.35**：1990年6月号
 
@@ -290,8 +290,8 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.37**：1990年10月号
 <ゲーム紹介>
 
-  - [ドラゴンセイバー](https://ja.wikipedia.org/wiki/ドラゴンセイバー "wikilink")
-  - [ピストル大名の冒険](https://ja.wikipedia.org/wiki/ピストル大名の冒険 "wikilink")
+  - [ドラゴンセイバー](../Page/ドラゴンセイバー.md "wikilink")
+  - [ピストル大名の冒険](../Page/ピストル大名の冒険.md "wikilink")
 
 **No.38**：1990年12月号
 <ゲーム紹介>
@@ -301,7 +301,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.39**：1991年2月号
 <ゲーム紹介>
 
-  - [スティールガンナー](https://ja.wikipedia.org/wiki/スティールガンナー "wikilink")
+  - [スティールガンナー](../Page/スティールガンナー.md "wikilink")
 
 **No.40**：1991年4月号
 <ゲーム紹介>
@@ -318,7 +318,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.42**：1991年8月号
 <ゲーム紹介>
 
-  - [スターブレード](https://ja.wikipedia.org/wiki/スターブレード "wikilink")
+  - [スターブレード](../Page/スターブレード.md "wikilink")
 
 **No.43**：1991年10月号
 <ゲーム紹介>
@@ -359,7 +359,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.50**：1992年12月号
 <ゲーム紹介>
 
-  - [コズモギャング・ザ・パズル](https://ja.wikipedia.org/wiki/コズモギャング・ザ・パズル "wikilink")
+  - [コズモギャング・ザ・パズル](../Page/コズモギャング・ザ・パズル.md "wikilink")
   - [エクスバニア](https://ja.wikipedia.org/wiki/エクスバニア "wikilink")
 
 **No.51**：1993年2月号
@@ -371,7 +371,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 
   - 最終号
     <ゲーム紹介>
-  - [ナックルヘッズ](https://ja.wikipedia.org/wiki/ナックルヘッズ "wikilink")
+  - [ナックルヘッズ](../Page/ナックルヘッズ.md "wikilink")
   - [スーパーワールドコート](https://ja.wikipedia.org/wiki/スーパーワールドコート "wikilink")
 
 ## 休刊後
@@ -390,7 +390,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 
 ## 関連項目
 
-  - [冨士宏](https://ja.wikipedia.org/wiki/冨士宏 "wikilink")
+  - [冨士宏](../Page/冨士宏.md "wikilink")
   - [新明解ナム語辞典](https://ja.wikipedia.org/wiki/新明解ナム語辞典 "wikilink")
 
 ## 外部リンク

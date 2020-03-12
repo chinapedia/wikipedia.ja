@@ -1,7 +1,7 @@
 > この記事は[L\'Arc-en-Ciel \(\)](https://ja.wikipedia.org/wiki/L\'Arc-en-Ciel_\(\))から翻訳されています。
 
 
-『**L'Arc-en-Ciel**』（ラルク アン シエル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の自主制作ライブビデオ。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")の[難波ROCKETS](https://ja.wikipedia.org/wiki/難波ROCKETS "wikilink")、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")の[新宿LOFTでのライブで無料配布された](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。
+『**L'Arc-en-Ciel**』（ラルク アン シエル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の自主制作ライブビデオ。[1992年](../Page/1992年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")の[難波ROCKETS](https://ja.wikipedia.org/wiki/難波ROCKETS "wikilink")、[1992年](../Page/1992年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")の[新宿LOFTでのライブで無料配布された](../Page/ロフト_\(ライブハウス\).md "wikilink")。
 
 ## 解説
 
@@ -17,13 +17,13 @@
       - 作詞:HYDE / 作曲:HIRO
     <!-- end list -->
       -
-        意味は「[閉所恐怖症](https://ja.wikipedia.org/wiki/閉所恐怖症 "wikilink")」。アルバム『[DUNE](https://ja.wikipedia.org/wiki/DUNE_\(アルバム\) "wikilink")』収録の「[Shutting from the sky](https://ja.wikipedia.org/wiki/DUNE_\(アルバム\)#収録曲 "wikilink")」の原曲。「Shutting from the sky」とは曲の基本[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")は同じだが、歌い方や[歌詞](../Page/歌詞.md "wikilink")の部分が多少異なり、[サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")に[英語](../Page/英語.md "wikilink")で叫ぶ部分などもそれとは異なる。演奏映像は途中で途切れる。
+        意味は「[閉所恐怖症](../Page/閉所恐怖症.md "wikilink")」。アルバム『[DUNE](../Page/DUNE_\(アルバム\).md "wikilink")』収録の「[Shutting from the sky](https://ja.wikipedia.org/wiki/DUNE_\(アルバム\)#収録曲 "wikilink")」の原曲。「Shutting from the sky」とは曲の基本[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")は同じだが、歌い方や[歌詞](../Page/歌詞.md "wikilink")の部分が多少異なり、[サビ](../Page/サビ.md "wikilink")に[英語](../Page/英語.md "wikilink")で叫ぶ部分などもそれとは異なる。演奏映像は途中で途切れる。
 2.  **I'm in Pain**
       - 作詞:HYDE / 作曲:HIRO
     <!-- end list -->
       -
-        初期の[ライヴでは必ずと言っていいほど](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[演奏](../Page/演奏.md "wikilink")された[定番曲](../Page/スタンダード・ナンバー.md "wikilink")。未CD化の曲の中では最も有名な曲である。また、このビデオに歌詞は収録されていないが、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")の[チキンジョージ](https://ja.wikipedia.org/wiki/チキンジョージ "wikilink")でのライブなどで、歌詞カードが無料配布された。
-        ここ最近は10年以上演奏されていなかったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")に行われたライヴ「[15th L'Anniversary Live](https://ja.wikipedia.org/wiki/15th_L'Anniversary_Live "wikilink")」にてこの曲が演奏され、同ライヴの模様を収めた[DVD](../Page/DVD.md "wikilink")にその映像が収録されている。これが[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")加入後のラルクでは初のライヴ演奏となった。また、[2015年](../Page/2015年.md "wikilink")にはtetsuyaがかつてのメンバーであるhiroとperoとともに、自身のソロライヴ「CÉLUXE NIGHT」でセルフカバーしている。
+        初期の[ライヴでは必ずと言っていいほど](../Page/演奏会.md "wikilink")[演奏](../Page/演奏.md "wikilink")された[定番曲](../Page/スタンダード・ナンバー.md "wikilink")。未CD化の曲の中では最も有名な曲である。また、このビデオに歌詞は収録されていないが、[1992年](../Page/1992年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")の[チキンジョージ](../Page/チキンジョージ.md "wikilink")でのライブなどで、歌詞カードが無料配布された。
+        ここ最近は10年以上演奏されていなかったが、[2006年](../Page/2006年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")に行われたライヴ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」にてこの曲が演奏され、同ライヴの模様を収めた[DVD](../Page/DVD.md "wikilink")にその映像が収録されている。これが[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")加入後のラルクでは初のライヴ演奏となった。また、[2015年](../Page/2015年.md "wikilink")にはtetsuyaがかつてのメンバーであるhiroとperoとともに、自身のソロライヴ「CÉLUXE NIGHT」でセルフカバーしている。
 3.  **Nostalgia** (stuff roll)
       - 作詞:HYDE / 作曲:HIRO
     <!-- end list -->

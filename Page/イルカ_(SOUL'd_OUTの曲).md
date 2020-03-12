@@ -19,8 +19,8 @@
 
 ## 収録アルバム
 
-  - [ALIVE](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1　表記はないがアルバムバージョン)
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1)
-  - [Flip Side Collection](https://ja.wikipedia.org/wiki/Flip_Side_Collection "wikilink")（\#2)
+  - [ALIVE](../Page/ALIVE_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1　表記はないがアルバムバージョン)
+  - [Single Collection](../Page/Single_Collection_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
+  - [Flip Side Collection](../Page/Flip_Side_Collection.md "wikilink")（\#2)
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink") [Category:イルカ・クジラを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:イルカ・クジラを題材とした楽曲 "wikilink")

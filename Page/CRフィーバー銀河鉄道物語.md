@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRフィーバー銀河鉄道物語**（しーあーるふぃーばーぎんがてつどうものがたり）は、[三共から](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[銀河鉄道物語](https://ja.wikipedia.org/wiki/銀河鉄道物語 "wikilink")とのタイアップ機。三共と[松本零士](../Page/松本零士.md "wikilink")のコラボレーション作品第3弾（第2弾は[CRF大ヤマト2](../Page/CRフィーバー大ヤマト.md "wikilink")）。
+**CRフィーバー銀河鉄道物語**（しーあーるふぃーばーぎんがてつどうものがたり）は、[三共から](../Page/三共_\(パチンコ\).md "wikilink")[2006年](../Page/2006年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[銀河鉄道物語](https://ja.wikipedia.org/wiki/銀河鉄道物語 "wikilink")とのタイアップ機。三共と[松本零士](../Page/松本零士.md "wikilink")のコラボレーション作品第3弾（第2弾は[CRF大ヤマト2](../Page/CRフィーバー大ヤマト.md "wikilink")）。
 
 ## 図柄
 
@@ -16,14 +16,14 @@
   - 1:ルイ・フォート・ドレイク（声：[真田アサミ](https://ja.wikipedia.org/wiki/真田アサミ "wikilink")）
   - 3:シュワンヘルト・バルジ（声：[大塚明夫](../Page/大塚明夫.md "wikilink")）
   - 5:ブルース・J・スピード（声：[子安武人](../Page/子安武人.md "wikilink")）
-  - 7:有紀　学（声：[矢薙直樹](https://ja.wikipedia.org/wiki/矢薙直樹 "wikilink")）
-  - 8:セクサロイド・ユキ（声：[鈴木菜穂子](https://ja.wikipedia.org/wiki/鈴木菜穂子 "wikilink")）
+  - 7:有紀　学（声：[矢薙直樹](../Page/矢薙直樹.md "wikilink")）
+  - 8:セクサロイド・ユキ（声：[鈴木菜穂子](../Page/鈴木菜穂子.md "wikilink")）
 
 **通常図柄**
 
   - 2:レイラ・ディスティニー・シュラ（声：[麻上洋子](https://ja.wikipedia.org/wiki/麻上洋子 "wikilink")）
-  - 4:ジュリア・F・レインハート（声：[横手久美子](https://ja.wikipedia.org/wiki/氷青 "wikilink")）
-  - 6:村瀬龍作（声：[千々和竜策](https://ja.wikipedia.org/wiki/千々和竜策 "wikilink")）
+  - 4:ジュリア・F・レインハート（声：[横手久美子](../Page/氷青.md "wikilink")）
+  - 6:村瀬龍作（声：[千々和竜策](../Page/千々和竜策.md "wikilink")）
 
 ### ビッグワンモード中図柄
 

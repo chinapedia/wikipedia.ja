@@ -9,7 +9,7 @@
 
 [検索エンジン](../Page/検索エンジン.md "wikilink")（ライブラリ）だけの提供であり、ウェブアプリとしての機能は**[Solr](https://ja.wikipedia.org/wiki/Solr "wikilink")**、クローラーの機能は[Nutch](https://ja.wikipedia.org/wiki/Nutch "wikilink")というサブプロジェクトで開発されている。またApache外でも、リアルタイム検索システムの[Elasticsearch](https://ja.wikipedia.org/wiki/Elasticsearch "wikilink")のベースシステムなどに採用されている\[1\]。
 
-日本語のデータをインデックスするためには、CJKAnalyzerかJapaneseAnalyzerを使う。CJKAnalyzerは[bi-gram方式である](https://ja.wikipedia.org/wiki/全文検索#N-Gram "wikilink")。JapaneseAnalyzerを使うには[形態素解析](../Page/形態素解析.md "wikilink")エンジンを組み込む必要があり、2014年現在ではオープンソースの[Sen](https://ja.wikipedia.org/wiki/Sen "wikilink")([MeCab](../Page/MeCab.md "wikilink")のJava実装)ベースの「lucene-gosen」、同じくオープンソースのKuromojiベースの2種類の実装がある。また、 2007年1月に[Apacheのトップレベルプロジェクトになり](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")、現在はPMC (Project Management Committee) での開発スタイルをとっている。
+日本語のデータをインデックスするためには、CJKAnalyzerかJapaneseAnalyzerを使う。CJKAnalyzerは[bi-gram方式である](https://ja.wikipedia.org/wiki/全文検索#N-Gram "wikilink")。JapaneseAnalyzerを使うには[形態素解析](../Page/形態素解析.md "wikilink")エンジンを組み込む必要があり、2014年現在ではオープンソースの[Sen](https://ja.wikipedia.org/wiki/Sen "wikilink")([MeCab](../Page/MeCab.md "wikilink")のJava実装)ベースの「lucene-gosen」、同じくオープンソースのKuromojiベースの2種類の実装がある。また、 2007年1月に[Apacheのトップレベルプロジェクトになり](../Page/Apacheソフトウェア財団.md "wikilink")、現在はPMC (Project Management Committee) での開発スタイルをとっている。
 
 ## 書籍
 

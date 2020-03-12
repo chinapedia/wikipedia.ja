@@ -1,17 +1,17 @@
 > この記事は[SEED HG](https://ja.wikipedia.org/wiki/SEED_HG)から翻訳されています。
 
 
-**SEED HG**（シード エイチジー）、正式名称「**HIGH GRADE GUNDAM SEED**」（ハイグレード ガンダムシード）は[バンダイ](../Page/バンダイ.md "wikilink")より発売される[プラモデル](../Page/プラモデル.md "wikilink")（[ガンプラ](https://ja.wikipedia.org/wiki/ガンプラ "wikilink")）のこと。
+**SEED HG**（シード エイチジー）、正式名称「**HIGH GRADE GUNDAM SEED**」（ハイグレード ガンダムシード）は[バンダイ](../Page/バンダイ.md "wikilink")より発売される[プラモデル](../Page/プラモデル.md "wikilink")（[ガンプラ](../Page/ガンプラ.md "wikilink")）のこと。
 
 ## 概要
 
-『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』および『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』、『[機動戦士ガンダムSEED C.E.73 STARGAZER](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_C.E.73_STARGAZER "wikilink")』などの[コズミック・イラ](https://ja.wikipedia.org/wiki/コズミック・イラ "wikilink")を世界観とする作品に登場する[モビルスーツ](../Page/モビルスーツ.md "wikilink")がラインナップされている。スケールは1/144で、関節の可動とあらかじめ色分けされたランナーに特徴がある。これは同社より発売される「[ハイグレード・ユニバーサルセンチュリー](https://ja.wikipedia.org/wiki/ハイグレード・ユニバーサルセンチュリー "wikilink")」（以下HGUC）とほぼ同等の仕様と価格帯であるが、大型モビルスーツの設定が少ないためサイズがほぼ15cm以下で、価格もミーティアとアカツキ2体を除いて1600円以内に収められている。
+『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』および『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』、『[機動戦士ガンダムSEED C.E.73 STARGAZER](../Page/機動戦士ガンダムSEED_C.E.73_STARGAZER.md "wikilink")』などの[コズミック・イラ](../Page/コズミック・イラ.md "wikilink")を世界観とする作品に登場する[モビルスーツ](../Page/モビルスーツ.md "wikilink")がラインナップされている。スケールは1/144で、関節の可動とあらかじめ色分けされたランナーに特徴がある。これは同社より発売される「[ハイグレード・ユニバーサルセンチュリー](../Page/ハイグレード・ユニバーサルセンチュリー.md "wikilink")」（以下HGUC）とほぼ同等の仕様と価格帯であるが、大型モビルスーツの設定が少ないためサイズがほぼ15cm以下で、価格もミーティアとアカツキ2体を除いて1600円以内に収められている。
 
-一部の主役モビルスーツのキットには、初回特典として『[ホビージャパン](../Page/ホビージャパン.md "wikilink")』または『[電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")』編集のガイドブックが付属した。主にキットの組み立て・塗装方法やカタログが掲載されている。
+一部の主役モビルスーツのキットには、初回特典として『[ホビージャパン](../Page/ホビージャパン.md "wikilink")』または『[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』編集のガイドブックが付属した。主にキットの組み立て・塗装方法やカタログが掲載されている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以降に発売されたキットの一部にはディスプレイ用のスタンドが付属しており、パーツを組替えることで高さを調整できたり、アームを2本用いることで作中の対決シーンを再現できる。
+[2005年](../Page/2005年.md "wikilink")以降に発売されたキットの一部にはディスプレイ用のスタンドが付属しており、パーツを組替えることで高さを調整できたり、アームを2本用いることで作中の対決シーンを再現できる。
 
-なお、1/144スケールの『SEED』系のプラモデルは、上位キットの「**SEED HG**」のほかに低価格で色分けなどが乏しい「**コレクションシリーズ**」も存在するほか、[HGUCに内包される形のシリーズ](https://ja.wikipedia.org/wiki/ハイグレード・ユニバーサルセンチュリー "wikilink")・**HG COSMIC ERA＝HGCE**として、2014年2月発売のエールストライクガンダムを皮切りに順次リリースされている。 本稿ではそれら「SEED HG」以外の『SEED』系キットのうち、HGCE、[マスターグレード](https://ja.wikipedia.org/wiki/マスターグレード "wikilink")、[パーフェクトグレード](https://ja.wikipedia.org/wiki/パーフェクトグレード "wikilink")、[BB戦士等を除いたシリーズを記述する](https://ja.wikipedia.org/wiki/SDガンダム_BB戦士 "wikilink")。 なお「1/144 コレクションシリーズ」の名称は、「1/144 SEED HG」シリーズとの区別をつけるための便宜的名称である。
+なお、1/144スケールの『SEED』系のプラモデルは、上位キットの「**SEED HG**」のほかに低価格で色分けなどが乏しい「**コレクションシリーズ**」も存在するほか、[HGUCに内包される形のシリーズ](../Page/ハイグレード・ユニバーサルセンチュリー.md "wikilink")・**HG COSMIC ERA＝HGCE**として、2014年2月発売のエールストライクガンダムを皮切りに順次リリースされている。 本稿ではそれら「SEED HG」以外の『SEED』系キットのうち、HGCE、[マスターグレード](../Page/マスターグレード.md "wikilink")、[パーフェクトグレード](../Page/パーフェクトグレード.md "wikilink")、[BB戦士等を除いたシリーズを記述する](../Page/SDガンダム_BB戦士.md "wikilink")。 なお「1/144 コレクションシリーズ」の名称は、「1/144 SEED HG」シリーズとの区別をつけるための便宜的名称である。
 
 通し番号（1/60は無し）・型式名・機体名・発売時期の順に記述する。
 
@@ -31,10 +31,10 @@
   - 07 ZGMF-X10A [フリーダムガンダム](../Page/フリーダムガンダム.md "wikilink")（2003年6月）
   - 08 ZGMF-X09A [ジャスティスガンダム](../Page/ジャスティスガンダム.md "wikilink")（2003年7月）
   - 09 GAT-X131 [カラミティガンダム](../Page/カラミティガンダム.md "wikilink")（2003年8月）
-  - 10 GAT-X252 [フォビドゥンガンダム](https://ja.wikipedia.org/wiki/フォビドゥンガンダム "wikilink")（2003年9月）
+  - 10 GAT-X252 [フォビドゥンガンダム](../Page/フォビドゥンガンダム.md "wikilink")（2003年9月）
   - 11 GAT-X370 [レイダーガンダム](../Page/レイダーガンダム.md "wikilink")（2003年11月）
   - 14 ZGMF-X13A [プロヴィデンスガンダム](../Page/プロヴィデンスガンダム.md "wikilink")（2004年3月）
-  - 15 ZGMF-515 [モビルシグー](https://ja.wikipedia.org/wiki/シグー "wikilink")（2004年4月）
+  - 15 ZGMF-515 [モビルシグー](../Page/シグー.md "wikilink")（2004年4月）
   - 16 [ミーティアユニット](../Page/ミーティアユニット.md "wikilink")＋フリーダムガンダム（2004年5月）
 
 ### 機動戦士ガンダムSEED ASTRAY
@@ -48,38 +48,38 @@
   - 01 MBF-02 [ストライクルージュ](https://ja.wikipedia.org/wiki/ストライクガンダム#ストライクルージュ "wikilink")＋[I.W.S.P.](https://ja.wikipedia.org/wiki/ストライカーパック#I.W.S.P. "wikilink")（2004年5月）
   - 02 ZGMF-1017 モビルジン（[ミゲル・アイマン専用機](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEEDの登場人物#ミゲル・アイマン "wikilink")）（2004年5月）
   - 03 ZGMF-1017M [ジンハイマニューバ](https://ja.wikipedia.org/wiki/ジン_\(ガンダムシリーズ\)#ジンハイマニューバ "wikilink")（2004年6月）
-  - 04 CAT1-X1/3 [ハイペリオンガンダム](https://ja.wikipedia.org/wiki/ハイペリオンガンダム "wikilink")（2004年7月）
+  - 04 CAT1-X1/3 [ハイペリオンガンダム](../Page/ハイペリオンガンダム.md "wikilink")（2004年7月）
   - 05 YFX-200 [シグーディープアームズ](https://ja.wikipedia.org/wiki/シグー#シグーディープアームズ "wikilink")（2004年8月）
   - 06 GAT-01A1 [105ダガー](https://ja.wikipedia.org/wiki/ストライクダガー#105ダガー "wikilink")＋[ガンバレル](https://ja.wikipedia.org/wiki/ストライカーパック#ガンバレルストライカー "wikilink")（2004年9月）
-  - 07 YMF-X000A [ドレッドノートガンダム](https://ja.wikipedia.org/wiki/ドレッドノートガンダム "wikilink")（Xアストレイ）（2004年10月）
+  - 07 YMF-X000A [ドレッドノートガンダム](../Page/ドレッドノートガンダム.md "wikilink")（Xアストレイ）（2004年10月）
 
 ### 機動戦士ガンダムSEED DESTINY
 
-  - 17 ZGMF-X56S/α [フォースインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2004年11月）
-  - 18 ZGMF-1000 [ザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")（2004年11月）
-  - 19 ZGMF-X24S [カオスガンダム](https://ja.wikipedia.org/wiki/カオスガンダム "wikilink")（2004年12月）
-  - 20 ZGMF-X88S [ガイアガンダム](https://ja.wikipedia.org/wiki/ガイアガンダム "wikilink")（2005年1月）
-  - 21 ZGMF-X56S/β [ソードインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2005年2月）
-  - 22 ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア#ルナマリア専用ザクウォーリア "wikilink")（[ルナマリア・ホーク](https://ja.wikipedia.org/wiki/ルナマリア・ホーク "wikilink")専用機）（2005年2月）
-  - 23 ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")（2005年3月）
-  - 24 ZGMF-X23S [セイバーガンダム](https://ja.wikipedia.org/wiki/セイバーガンダム "wikilink")（2005年3月）
+  - 17 ZGMF-X56S/α [フォースインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2004年11月）
+  - 18 ZGMF-1000 [ザクウォーリア](../Page/ザクウォーリア.md "wikilink")（2004年11月）
+  - 19 ZGMF-X24S [カオスガンダム](../Page/カオスガンダム.md "wikilink")（2004年12月）
+  - 20 ZGMF-X88S [ガイアガンダム](../Page/ガイアガンダム.md "wikilink")（2005年1月）
+  - 21 ZGMF-X56S/β [ソードインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2005年2月）
+  - 22 ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア#ルナマリア専用ザクウォーリア "wikilink")（[ルナマリア・ホーク](../Page/ルナマリア・ホーク.md "wikilink")専用機）（2005年2月）
+  - 23 ZGMF-1000/A1 [ガナーザクウォーリア](../Page/ザクウォーリア.md "wikilink")（2005年3月）
+  - 24 ZGMF-X23S [セイバーガンダム](../Page/セイバーガンダム.md "wikilink")（2005年3月）
   - 25 ZGMF-1000 ザクウォーリア（ライブ・コンサートver.）（2005年3月）
-  - 26 ZGMF-X31S [アビスガンダム](https://ja.wikipedia.org/wiki/アビスガンダム "wikilink")（2005年4月）
+  - 26 ZGMF-X31S [アビスガンダム](../Page/アビスガンダム.md "wikilink")（2005年4月）
   - 27 ZGMF-X2000 [グフイグナイテッド](https://ja.wikipedia.org/wiki/グフイグナイテッド#専用機 "wikilink")（[ハイネ・ヴェステンフルス専用機](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ハイネ・ヴェステンフルス "wikilink")）（2005年5月）
-  - 28 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（[レイ・ザ・バレル](https://ja.wikipedia.org/wiki/レイ・ザ・バレル "wikilink")専用機）（2005年6月）
+  - 28 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（[レイ・ザ・バレル](../Page/レイ・ザ・バレル.md "wikilink")専用機）（2005年6月）
   - 29 ZGMF-1017M2 [ジンハイマニューバ2型](https://ja.wikipedia.org/wiki/ジン_\(ガンダムシリーズ\)#ジンハイマニューバ2型 "wikilink")（2005年7月）
-  - 30 ZGMF-XX09T [ドムトルーパー](https://ja.wikipedia.org/wiki/ドムトルーパー "wikilink")（2005年7月）
-  - 31 ZGMF-2000 [グフイグナイテッド](https://ja.wikipedia.org/wiki/グフイグナイテッド "wikilink")（量産機）（2005年8月）
+  - 30 ZGMF-XX09T [ドムトルーパー](../Page/ドムトルーパー.md "wikilink")（2005年7月）
+  - 31 ZGMF-2000 [グフイグナイテッド](../Page/グフイグナイテッド.md "wikilink")（量産機）（2005年8月）
   - 32 ZGMF-X19A [インフィニットジャスティスガンダム](https://ja.wikipedia.org/wiki/ジャスティスガンダム#インフィニットジャスティスガンダム "wikilink")（2005年8月）
   - 33 ZGMF-X88S ガイアガンダム（[アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")専用機）（2005年8月）
   - 34 ZGMF-X20A [ストライクフリーダムガンダム](https://ja.wikipedia.org/wiki/フリーダムガンダム#ストライクフリーダムガンダム "wikilink")（2005年9月）
   - 35 ZGMF-X666 [レジェンドガンダム](https://ja.wikipedia.org/wiki/プロヴィデンスガンダム#レジェンドガンダム "wikilink")（2005年10月）
-  - 36 ZGMF-X42S [デスティニーガンダム](https://ja.wikipedia.org/wiki/デスティニーガンダム "wikilink")（2005年11月）
-  - 37 MVF-M11C [ムラサメ](https://ja.wikipedia.org/wiki/ムラサメ_\(ガンダムシリーズ\) "wikilink")（[アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")専用機）（2005年12月）
+  - 36 ZGMF-X42S [デスティニーガンダム](../Page/デスティニーガンダム.md "wikilink")（2005年11月）
+  - 37 MVF-M11C [ムラサメ](../Page/ムラサメ_\(ガンダムシリーズ\).md "wikilink")（[アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")専用機）（2005年12月）
   - 38 ORB-01 [シラヌイアカツキガンダム](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink")（2006年1月）
   - 39 MVF-M11C ムラサメ（量産機）（2006年3月）
   - 40 ORB-01 [オオワシアカツキガンダム](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink")（2006年4月）
-  - 48 TMF/A-802 [モビルバクゥ](https://ja.wikipedia.org/wiki/バクゥ "wikilink")（2007年1月）
+  - 48 TMF/A-802 [モビルバクゥ](../Page/バクゥ.md "wikilink")（2007年1月）
   - 50 ZGMF-2000 グフイグナイテッド（[イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink")専用機）（2007年8月）
   - 51 ZGMF-1001/M ブレイズザクファントム（[ディアッカ・エルスマン](../Page/ディアッカ・エルスマン.md "wikilink")専用機）（2007年9月）
 
@@ -124,12 +124,12 @@
   - R04 GAT-X207 [ブリッツガンダム](https://ja.wikipedia.org/wiki/ブリッツガンダム "wikilink")（2011年11月）
   - R05 GAT-X303 [イージスガンダム](../Page/イージスガンダム.md "wikilink")（2011年11月）
   - R06 ZGMF-1017 [モビルジン](../Page/ジン_\(ガンダムシリーズ\).md "wikilink")（2011年11月）
-  - R07 ZGMF-515 [モビルシグー](https://ja.wikipedia.org/wiki/シグー "wikilink")（2012年1月）
+  - R07 ZGMF-515 [モビルシグー](../Page/シグー.md "wikilink")（2012年1月）
   - R08 GAT-X131 [カラミティガンダム](../Page/カラミティガンダム.md "wikilink")（2012年1月）
-  - R09 GAT-X252 [フォビドゥンガンダム](https://ja.wikipedia.org/wiki/フォビドゥンガンダム "wikilink")（2012年1月）
+  - R09 GAT-X252 [フォビドゥンガンダム](../Page/フォビドゥンガンダム.md "wikilink")（2012年1月）
   - R10 GAT-X370 [レイダーガンダム](../Page/レイダーガンダム.md "wikilink")（2012年1月）
   - R11 TMF/A-803 [ラゴゥ](https://ja.wikipedia.org/wiki/バクゥ#ラゴゥ "wikilink")（2012年2月）
-  - R12 TMF/A-802 [モビルバクゥ](https://ja.wikipedia.org/wiki/バクゥ "wikilink")（2012年2月）
+  - R12 TMF/A-802 [モビルバクゥ](../Page/バクゥ.md "wikilink")（2012年2月）
   - R13 ZGMF-X13A [プロヴィデンスガンダム](../Page/プロヴィデンスガンダム.md "wikilink")（2012年2月）
   - R14 ZGMF-X09A [ジャスティスガンダム](../Page/ジャスティスガンダム.md "wikilink")（2012年2月）
   - R15 ZGMF-X10A [フリーダムガンダム](../Page/フリーダムガンダム.md "wikilink")（2012年2月）
@@ -146,7 +146,7 @@
         キャラホビ2004限定
   - 1/144 ソードカラミティ改造キット（2004年8月）
       -
-        「[月刊ホビージャパン](https://ja.wikipedia.org/wiki/月刊ホビージャパン "wikilink")」2004年10月号付録
+        「[月刊ホビージャパン](../Page/月刊ホビージャパン.md "wikilink")」2004年10月号付録
   - 1/144 HG エールストライクガンダム（フルカラーメッキver.）
   - 1/144 HG アストレイブルーフレーム（ブルーメッキver.）
       -
@@ -214,36 +214,36 @@
   - 07 GAT-X207 [ブリッツガンダム](https://ja.wikipedia.org/wiki/ブリッツガンダム "wikilink")（2003年1月）
   - 08 GAT-X105 [ソードストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム "wikilink")（2003年2月）
   - 09 GAT-X105 [ランチャーストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム "wikilink")（2003年2月）
-  - 10 TMF/A-802 [モビルバクゥ](https://ja.wikipedia.org/wiki/バクゥ "wikilink")（2003年3月）
+  - 10 TMF/A-802 [モビルバクゥ](../Page/バクゥ.md "wikilink")（2003年3月）
   - 11 ZGMF-X10A [フリーダムガンダム](../Page/フリーダムガンダム.md "wikilink")（2003年4月）
   - 12 ZGMF-X09A [ジャスティスガンダム](../Page/ジャスティスガンダム.md "wikilink")（2003年5月）
   - 13 UMF-4A [モビルグーン](https://ja.wikipedia.org/wiki/ザフトの機動兵器#グーン "wikilink")（2003年6月）
   - 14 GAT-X131 [カラミティガンダム](../Page/カラミティガンダム.md "wikilink")（2003年6月）
-  - 15 GAT-X252 [フォビドゥンガンダム](https://ja.wikipedia.org/wiki/フォビドゥンガンダム "wikilink")（2003年8月）
+  - 15 GAT-X252 [フォビドゥンガンダム](../Page/フォビドゥンガンダム.md "wikilink")（2003年8月）
   - 16 GAT-X370 [レイダーガンダム](../Page/レイダーガンダム.md "wikilink")（2003年10月）
   - 17 ZGMF-600 [モビルスーツ ゲイツ](../Page/ゲイツ_\(ガンダムシリーズ\).md "wikilink")（2003年10月）
   - 18 AMF-101 [モビルディン](https://ja.wikipedia.org/wiki/シグー#ディン "wikilink")（2003年11月）
   - 19 ZGMF-X13A [プロヴィデンスガンダム](../Page/プロヴィデンスガンダム.md "wikilink")（2003年11月）
-  - 20 GAT-01 [ストライクダガー](https://ja.wikipedia.org/wiki/ストライクダガー "wikilink")（2004年2月）
+  - 20 GAT-01 [ストライクダガー](../Page/ストライクダガー.md "wikilink")（2004年2月）
   - 21 MBF-M1 [M1アストレイ](../Page/M1アストレイ.md "wikilink")（2004年3月）
 
 ※ 登場作品は「機動戦士ガンダムSEED ASTRAY」
 
 ### 機動戦士ガンダムSEED DESTINY（1/144）
 
-  - 01 ZGMF-X56S/α [フォースインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2004年10月）
-  - 02 ZGMF-1000 [ザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")（2004年10月）
-  - 03 ZGMF-X24S [カオスガンダム](https://ja.wikipedia.org/wiki/カオスガンダム "wikilink")（2004年11月）
-  - 04 ZGMF-X88S [ガイアガンダム](https://ja.wikipedia.org/wiki/ガイアガンダム "wikilink")（2004年11月）
-  - 05 ZGMF-X56S/β [ソードインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2004年12月）
-  - 06 ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")（[ルナマリア・ホーク](https://ja.wikipedia.org/wiki/ルナマリア・ホーク "wikilink")専用機）（2004年12月）
-  - 07 ZGMF-X31S [アビスガンダム](https://ja.wikipedia.org/wiki/アビスガンダム "wikilink")（2005年1月）
-  - 08 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（[レイ・ザ・バレル](https://ja.wikipedia.org/wiki/レイ・ザ・バレル "wikilink")専用機）（2005年1月）
-  - 09 ZGMF-X23S [セイバーガンダム](https://ja.wikipedia.org/wiki/セイバーガンダム "wikilink")（2005年2月）
+  - 01 ZGMF-X56S/α [フォースインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2004年10月）
+  - 02 ZGMF-1000 [ザクウォーリア](../Page/ザクウォーリア.md "wikilink")（2004年10月）
+  - 03 ZGMF-X24S [カオスガンダム](../Page/カオスガンダム.md "wikilink")（2004年11月）
+  - 04 ZGMF-X88S [ガイアガンダム](../Page/ガイアガンダム.md "wikilink")（2004年11月）
+  - 05 ZGMF-X56S/β [ソードインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2004年12月）
+  - 06 ZGMF-1000/A1 [ガナーザクウォーリア](../Page/ザクウォーリア.md "wikilink")（[ルナマリア・ホーク](../Page/ルナマリア・ホーク.md "wikilink")専用機）（2004年12月）
+  - 07 ZGMF-X31S [アビスガンダム](../Page/アビスガンダム.md "wikilink")（2005年1月）
+  - 08 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（[レイ・ザ・バレル](../Page/レイ・ザ・バレル.md "wikilink")専用機）（2005年1月）
+  - 09 ZGMF-X23S [セイバーガンダム](../Page/セイバーガンダム.md "wikilink")（2005年2月）
   - 10 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#ハイネ専用ザクファントム "wikilink")（[ハイネ・ヴェステンフルス専用機](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ハイネ・ヴェステンフルス "wikilink")）（2005年2月）
-  - 11 ZGMF-X56S/γ [ブラストインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2005年3月）
+  - 11 ZGMF-X56S/γ [ブラストインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2005年3月）
   - 12 ZGMF-1001/K [スラッシュザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#イザーク専用ザクファントム "wikilink")（[イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink")専用機）（2005年4月）
-  - 13 ZGMF-X42S [デスティニーガンダム](https://ja.wikipedia.org/wiki/デスティニーガンダム "wikilink")（2005年5月）
+  - 13 ZGMF-X42S [デスティニーガンダム](../Page/デスティニーガンダム.md "wikilink")（2005年5月）
   - 14 ZGMF-X20A [ストライクフリーダムガンダム](https://ja.wikipedia.org/wiki/フリーダムガンダム#ストライクフリーダムガンダム "wikilink")（2005年6月）
 
 ### 限定モデル（1/144）
@@ -280,7 +280,7 @@
 
 1/100スケールのプラモデル。そのサイズを生かして多くの部分の色分けが再現されているが、細部や可動範囲などはHG SEEDシリーズに準じている。
 
-SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](https://ja.wikipedia.org/wiki/ジャスティスガンダム#インフィニットジャスティスガンダム "wikilink")」以降の新規キットは設計思想が変わり、2重関節･[マスターグレード](https://ja.wikipedia.org/wiki/マスターグレード "wikilink")並の外部デザインなどが採用されている。たとえば、「1/100 ストライクガンダム」のバックパックが1/100オリジナル仕様なのに対し、「1/100 アカツキガンダム」のバックパックは「1/100 MG ストライクガンダム」と共通仕様となっており、無改造でバックパックを交換することが可能。
+SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](https://ja.wikipedia.org/wiki/ジャスティスガンダム#インフィニットジャスティスガンダム "wikilink")」以降の新規キットは設計思想が変わり、2重関節･[マスターグレード](../Page/マスターグレード.md "wikilink")並の外部デザインなどが採用されている。たとえば、「1/100 ストライクガンダム」のバックパックが1/100オリジナル仕様なのに対し、「1/100 アカツキガンダム」のバックパックは「1/100 MG ストライクガンダム」と共通仕様となっており、無改造でバックパックを交換することが可能。
 
 ### 機動戦士ガンダムSEED（1/100）
 
@@ -304,20 +304,20 @@ SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](ht
 
 ### 機動戦士ガンダムSEED DESTINY（1/100）
 
-  - 01 ZGMF-X56S/α [フォースインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2004年12月）
-  - 02 ZGMF-X24S [カオスガンダム](https://ja.wikipedia.org/wiki/カオスガンダム "wikilink")（2005年1月）
-  - 03 ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")（[ルナマリア・ホーク](https://ja.wikipedia.org/wiki/ルナマリア・ホーク "wikilink")専用機）（2005年3月）
-  - 04 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（[レイ・ザ・バレル](https://ja.wikipedia.org/wiki/レイ・ザ・バレル "wikilink")専用機）（2005年4月）
-  - 05 ZGMF-X56S/β [ソードインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink") （2005年5月）
-  - 06 ZGMF-1000 [ザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア "wikilink")+ブレイズ/ガナーウィザード（2005年5月）
+  - 01 ZGMF-X56S/α [フォースインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2004年12月）
+  - 02 ZGMF-X24S [カオスガンダム](../Page/カオスガンダム.md "wikilink")（2005年1月）
+  - 03 ZGMF-1000/A1 [ガナーザクウォーリア](../Page/ザクウォーリア.md "wikilink")（[ルナマリア・ホーク](../Page/ルナマリア・ホーク.md "wikilink")専用機）（2005年3月）
+  - 04 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（[レイ・ザ・バレル](../Page/レイ・ザ・バレル.md "wikilink")専用機）（2005年4月）
+  - 05 ZGMF-X56S/β [ソードインパルスガンダム](../Page/インパルスガンダム.md "wikilink") （2005年5月）
+  - 06 ZGMF-1000 [ザクウォーリア](../Page/ザクウォーリア.md "wikilink")+ブレイズ/ガナーウィザード（2005年5月）
   - 07 ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#ハイネ専用ザクファントム "wikilink")（[ハイネ・ヴェステンフルス専用機](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ハイネ・ヴェステンフルス "wikilink")）（2005年6月）
-  - 08 ZGMF-X42S [デスティニーガンダム](https://ja.wikipedia.org/wiki/デスティニーガンダム "wikilink")（2005年7月）
+  - 08 ZGMF-X42S [デスティニーガンダム](../Page/デスティニーガンダム.md "wikilink")（2005年7月）
   - 09 ZGMF-X20A [ストライクフリーダムガンダム](https://ja.wikipedia.org/wiki/フリーダムガンダム#ストライクフリーダムガンダム "wikilink")（2005年8月）
-  - 10 ZGMF-X56S/α [フォースインパルスガンダム+ソードシルエット](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink") エクストラフィニッシュ（2005年9月）
+  - 10 ZGMF-X56S/α [フォースインパルスガンダム+ソードシルエット](../Page/インパルスガンダム.md "wikilink") エクストラフィニッシュ（2005年9月）
   - 11 ZGMF-X19A [インフィニットジャスティスガンダム](https://ja.wikipedia.org/wiki/ジャスティスガンダム#インフィニットジャスティスガンダム "wikilink")（2006年5月）
   - 12 ZGMF-X666 [レジェンドガンダム](https://ja.wikipedia.org/wiki/プロヴィデンスガンダム#レジェンドガンダム "wikilink")（2006年6月）
   - 13 MBF-P01-Re2 [ガンダムアストレイ ゴールドフレームアマツ](https://ja.wikipedia.org/wiki/ガンダムアストレイ#天ミナ "wikilink")（2006年7月） ※1
-  - 14 ZGMF-X23S [セイバーガンダム](https://ja.wikipedia.org/wiki/セイバーガンダム "wikilink")（2006年10月）
+  - 14 ZGMF-X23S [セイバーガンダム](../Page/セイバーガンダム.md "wikilink")（2006年10月）
   - 15 ORB-01 [アカツキガンダム](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink") フルセット（2007年3月）
   - 16 MBF-P04 [ガンダムアストレイ グリーンフレーム](https://ja.wikipedia.org/wiki/ガンダムアストレイ#グリーンフレーム "wikilink")（[トロヤ・ノワレ専用機](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#トロヤ・ノワレ "wikilink")）（2009年3月） ※2
   - 17 LG-GAT-X105 [ゲイルストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム#ゲイルストライク "wikilink")（2009年8月） ※3
@@ -329,7 +329,7 @@ SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](ht
   - 23 LN-GAT-X207 [ネブラブリッツガンダム](https://ja.wikipedia.org/wiki/ブリッツガンダム#ネブラブリッツ "wikilink")（2009年12月） ※3
   - 24 MBF-P05LM2 [ガンダムアストレイ ミラージュフレーム セカンドイシュー](https://ja.wikipedia.org/wiki/ガンダムアストレイ#セカンドイシュー "wikilink")（2010年1月） ※3
 
-※1 登場作品は「[機動戦士ガンダムSEED DESTINY ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_ASTRAY "wikilink")」
+※1 登場作品は「[機動戦士ガンダムSEED DESTINY ASTRAY](../Page/機動戦士ガンダムSEED_DESTINY_ASTRAY.md "wikilink")」
 
 ※2 登場作品は「[機動戦士ガンダムSEED FRAME ASTRAYS](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_FRAME_ASTRAYS "wikilink")」
 
@@ -365,7 +365,7 @@ SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](ht
 
 ## 1/60 SEED シリーズ
 
-1/60スケールのプラモデル。価格は[マスターグレード](https://ja.wikipedia.org/wiki/マスターグレード "wikilink")並に抑えられている。
+1/60スケールのプラモデル。価格は[マスターグレード](../Page/マスターグレード.md "wikilink")並に抑えられている。
 
 ### 機動戦士ガンダムSEED（1/60）
 
@@ -375,7 +375,7 @@ SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](ht
 
 ### 機動戦士ガンダムSEED DESTINY（1/60）
 
-  - ZGMF-X56S/α [フォースインパルスガンダム](https://ja.wikipedia.org/wiki/インパルスガンダム "wikilink")（2004年12月）
+  - ZGMF-X56S/α [フォースインパルスガンダム](../Page/インパルスガンダム.md "wikilink")（2004年12月）
   - ZGMF-X20A [ストライクフリーダムガンダム](https://ja.wikipedia.org/wiki/フリーダムガンダム#ストライクフリーダムガンダム "wikilink") ライトニングエディション（2005年11月）
 
 ## キャンペーン
@@ -386,9 +386,9 @@ SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](ht
 
 ## 関連項目
 
-  - [ガンプラ](https://ja.wikipedia.org/wiki/ガンプラ "wikilink")
-  - [ガンプラの一覧](https://ja.wikipedia.org/wiki/ガンプラの一覧 "wikilink")
-  - [ハイグレード・ユニバーサルセンチュリー](https://ja.wikipedia.org/wiki/ハイグレード・ユニバーサルセンチュリー "wikilink")（ナンバリング内に"HGCE"を含む）
+  - [ガンプラ](../Page/ガンプラ.md "wikilink")
+  - [ガンプラの一覧](../Page/ガンプラの一覧.md "wikilink")
+  - [ハイグレード・ユニバーサルセンチュリー](../Page/ハイグレード・ユニバーサルセンチュリー.md "wikilink")（ナンバリング内に"HGCE"を含む）
   - [モビルスーツ](../Page/モビルスーツ.md "wikilink")
   - [ガンダムシリーズの登場機動兵器一覧](https://ja.wikipedia.org/wiki/ガンダムシリーズの登場機動兵器一覧 "wikilink")
   - [ガンダムシリーズ一覧](../Page/ガンダムシリーズ一覧.md "wikilink")

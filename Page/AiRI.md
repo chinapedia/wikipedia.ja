@@ -3,7 +3,7 @@
 
 **AiRI**（あいり、[9月13日](../Page/9月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。
 
-[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")出身。[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")及びSTUDIO696所属。旧名は**UR@N**（URAN / うらん）。主に[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")や[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の主題歌、挿入歌、イメージソングを歌っており、[OVERDRIVE](https://ja.wikipedia.org/wiki/OVERDRIVE "wikilink")のPCゲーム『[キラ☆キラ](https://ja.wikipedia.org/wiki/キラ☆キラ "wikilink")』の劇中に登場する架空の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「**[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")**」では、現実においてのライブ活動で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の椎野きらり役を担当している。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[1\]。身長160[cm](../Page/センチメートル.md "wikilink")\[2\]。
+[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")出身。[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")及びSTUDIO696所属。旧名は**UR@N**（URAN / うらん）。主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")や[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の主題歌、挿入歌、イメージソングを歌っており、[OVERDRIVE](https://ja.wikipedia.org/wiki/OVERDRIVE "wikilink")のPCゲーム『[キラ☆キラ](../Page/キラ☆キラ.md "wikilink")』の劇中に登場する架空の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「**[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")**」では、現実においてのライブ活動で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の椎野きらり役を担当している。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[1\]。身長160[cm](../Page/センチメートル.md "wikilink")\[2\]。
 
 ## 人物
 
@@ -11,13 +11,13 @@
 
 元々は音楽制作会社Lip on Hipの所属クリエイターのWachaと知り合いで、「ロックが歌える女の子を探してるんだ。1回でいいから歌ってくれない?」との依頼を受けて、PCゲームの主題歌だということを知らないまま[仮歌](https://ja.wikipedia.org/wiki/仮歌 "wikilink")のレコーディングに参加したところ評判がよかったため、そのままソロ歌手としてデビューする運びになったという。
 
-[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")関連の[ライブでは](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、当時[NANAが](../Page/NANA_\(歌手\).md "wikilink")[メディア](../Page/メディア.md "wikilink")に姿を出さなかったため、代役としてボーカルを担当したことがある。
+[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")関連の[ライブでは](../Page/演奏会.md "wikilink")、当時[NANAが](../Page/NANA_\(歌手\).md "wikilink")[メディア](../Page/メディア.md "wikilink")に姿を出さなかったため、代役としてボーカルを担当したことがある。
 
 かつてプロフィールの嫌いなものの欄に「ライブ（出演）」と書いていたが、「『キラ☆キラ』のライブに出るうちに好きになっていった」と後にMCで語っている\[3\]。
 
 「**UR@N**」（URAN / うらん）という名前で活動していたが、2011年4月1日に自身のブログでUR@Nとしての活動を休止し、翌日から「**AiRI**」として活動を継続することを発表した\[4\]。
 
-PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が主で執事が俺で "wikilink")』OP主題歌を担当したuranとは別人である\[5\]。
+PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.md "wikilink")』OP主題歌を担当したuranとは別人である\[5\]。
 
 ## ディスコグラフィ
 
@@ -57,7 +57,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
   - **グリーングリーン オリジナルサウンドヴォーカルアルバム 鐘ノ音ヘブン**
       - 彩り
           - PS2ゲーム『[グリーングリーン 〜鐘ノ音ダイナミック〜](../Page/グリーングリーン_\(ゲーム\).md "wikilink")』楠木かおりルートED主題歌
-          - 作詞：[桑島由一](https://ja.wikipedia.org/wiki/桑島由一 "wikilink") / 作曲：[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink") / 編曲：[飯塚昌明](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")
+          - 作詞：[桑島由一](../Page/桑島由一.md "wikilink") / 作曲：[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink") / 編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
       - スクールバス
           - PS2ゲーム『グリーングリーン 〜鐘ノ音ロマティック〜』月森こずえルートED主題歌
           - 作詞：桑島由一 / 作曲：milktub / 編曲：八七
@@ -71,7 +71,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **メイプルカラーズ オリジナルドラマアルバム**
       - Precious Memories
-          - ドラマCD『[Maple Colors](https://ja.wikipedia.org/wiki/Maple_Colors "wikilink")』主題歌
+          - ドラマCD『[Maple Colors](../Page/Maple_Colors.md "wikilink")』主題歌
           - 作詞：白石さらら / 作曲・編曲：不知火ぴゅ〜太郎
 
 <!-- end list -->
@@ -83,7 +83,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **Like a Green**
       - Like a Green
-          - PCゲーム『[グリーングリーン2 恋のスペシャルサマー](https://ja.wikipedia.org/wiki/グリーングリーン2_恋のスペシャルサマー "wikilink")』OP主題歌
+          - PCゲーム『[グリーングリーン2 恋のスペシャルサマー](../Page/グリーングリーン2_恋のスペシャルサマー.md "wikilink")』OP主題歌
           - 作詞：桑島由一 / 作曲：milktub / 編曲：[ms-jacky](https://ja.wikipedia.org/wiki/ms-jacky "wikilink")
 
 <!-- end list -->
@@ -118,7 +118,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **Dreaming Continue**
       - 虹の向こうのHorizon
-          - PCゲーム『[ぱすてるチャイムContinue](https://ja.wikipedia.org/wiki/ぱすてるチャイムContinue "wikilink")』ED主題歌
+          - PCゲーム『[ぱすてるチャイムContinue](../Page/ぱすてるチャイムContinue.md "wikilink")』ED主題歌
           - 作詞：[HIRO](https://ja.wikipedia.org/wiki/HIRO "wikilink") / 作曲・編曲：[Shade](../Page/Shade.md "wikilink")
 
 <!-- end list -->
@@ -130,11 +130,11 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **黎明のラヴェンデュラ オリジナルサウンドトラック**
       - 君がいるから
-          - PCゲーム『[黎明のラヴェンデュラ](https://ja.wikipedia.org/wiki/黎明のラヴェンデュラ "wikilink")』OP主題歌
+          - PCゲーム『[黎明のラヴェンデュラ](../Page/黎明のラヴェンデュラ.md "wikilink")』OP主題歌
           - 作詞：林陽花 / 作曲・編曲：ms-jacky
       - Precious Angeric…
           - PCゲーム『黎明のラヴェンデュラ』ED主題歌
-          - 作詞：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink") / 作曲・編曲：[安瀬聖](https://ja.wikipedia.org/wiki/安瀬聖 "wikilink")
+          - 作詞：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink") / 作曲・編曲：[安瀬聖](../Page/安瀬聖.md "wikilink")
 
 <!-- end list -->
 
@@ -156,8 +156,8 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **グリーングリーン3 ハローグッバイ オリジナルサウンドトラック＋コンプリートアルバム2001〜2005 18 songs　Memories**
       - Love Bell Sound
-          - PCゲーム『[グリーングリーン3 ハローグッバイ](https://ja.wikipedia.org/wiki/グリーングリーン3_ハローグッバイ "wikilink")』天神葉月ルートED主題歌
-          - 作詞：[ヤマグチノボル](https://ja.wikipedia.org/wiki/ヤマグチノボル "wikilink")＆milktub / 作曲：milktub / 編曲：ms-jacky
+          - PCゲーム『[グリーングリーン3 ハローグッバイ](../Page/グリーングリーン3_ハローグッバイ.md "wikilink")』天神葉月ルートED主題歌
+          - 作詞：[ヤマグチノボル](../Page/ヤマグチノボル.md "wikilink")＆milktub / 作曲：milktub / 編曲：ms-jacky
       - Like a Green
       - My Way
 
@@ -176,14 +176,14 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 <!-- end list -->
 
   -
-    2006年8月11日発売 / [GROOVER](https://ja.wikipedia.org/wiki/GROOVER "wikilink") / GRCD-011
+    2006年8月11日発売 / [GROOVER](../Page/GROOVER.md "wikilink") / GRCD-011
 
 <!-- end list -->
 
   - **クレア 〜そよかぜの約束〜 Ar tonelico Symmnos musical**
       - EXEC_NULLASCENTION/.
-          - PS2ゲーム『[アルトネリコ 世界の終わりで詩い続ける少女](https://ja.wikipedia.org/wiki/アルトネリコ_世界の終わりで詩い続ける少女 "wikilink")』イメージソング
-          - 歌：UR@N＆[松本さち](https://ja.wikipedia.org/wiki/松本さち "wikilink") / 作詞：高橋麗子&[土屋暁](https://ja.wikipedia.org/wiki/土屋暁 "wikilink") / 作曲・編曲：稲垣貴繁
+          - PS2ゲーム『[アルトネリコ 世界の終わりで詩い続ける少女](../Page/アルトネリコ_世界の終わりで詩い続ける少女.md "wikilink")』イメージソング
+          - 歌：UR@N＆[松本さち](../Page/松本さち.md "wikilink") / 作詞：高橋麗子&[土屋暁](https://ja.wikipedia.org/wiki/土屋暁 "wikilink") / 作曲・編曲：稲垣貴繁
               - ドラマに楽曲が挿入される形式で収録。楽曲のみのフルバージョンは『アルトネリコヒュムノス ミュージカル ボーカルベスト〜クレア＆スピカ〜』に収録
 
 <!-- end list -->
@@ -216,13 +216,13 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **クロスネット ボーカルコレクション**
       - Vision
-          - PCゲーム『[ウィズ アニバーサリィー](https://ja.wikipedia.org/wiki/ウィズ_アニバーサリィー "wikilink")』OP主題歌
+          - PCゲーム『[ウィズ アニバーサリィー](../Page/ウィズ_アニバーサリィー.md "wikilink")』OP主題歌
           - 作詞：UR@N / 作曲・編曲：Wacha
 
 <!-- end list -->
 
   -
-    2007年8月17日発売 / [CROSSNET](https://ja.wikipedia.org/wiki/CROSSNET "wikilink") / CNS-VCC1
+    2007年8月17日発売 / [CROSSNET](../Page/CROSSNET.md "wikilink") / CNS-VCC1
 
 <!-- end list -->
 
@@ -240,7 +240,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **Alicesoft Sound Album Vol.13 超昂閃忍ハルカ**
       - 風のように 炎のように
-          - PCゲーム『[超昂閃忍ハルカ](https://ja.wikipedia.org/wiki/超昂閃忍ハルカ "wikilink")』OP主題歌
+          - PCゲーム『[超昂閃忍ハルカ](../Page/超昂閃忍ハルカ.md "wikilink")』OP主題歌
           - 作詞：HIRO / 作曲・編曲：Shade
 
 <!-- end list -->
@@ -266,7 +266,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
   - **私は私のまま、誰にでも変われる Song Collection**
       - Wonder Land
           - ドラマCD『私は私のまま、誰にでも変われる』主題歌
-          - 作詞：[Tina](https://ja.wikipedia.org/wiki/Tina "wikilink") / 作曲：Gakkie / 編曲：ゑいじ
+          - 作詞：[Tina](../Page/Tina.md "wikilink") / 作曲：Gakkie / 編曲：ゑいじ
 
 <!-- end list -->
 
@@ -277,7 +277,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **GWAVE SuperFeature's vol.10 「ゴールデン パロ・スペシャル」 〜May-Be SOFT Hyper Audio FanDisc〜**
       - 愛に満ちた未来へと
-          - PCゲーム『[遊撃警艦パトベセル 〜こちら首都圏上空青空署〜](https://ja.wikipedia.org/wiki/遊撃警艦パトベセル_〜こちら首都圏上空青空署〜 "wikilink")』イメージソング
+          - PCゲーム『[遊撃警艦パトベセル 〜こちら首都圏上空青空署〜](../Page/遊撃警艦パトベセル_〜こちら首都圏上空青空署〜.md "wikilink")』イメージソング
           - 作詞：澄田まお / 作曲・編曲：Wacha
 
 <!-- end list -->
@@ -298,7 +298,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 <!-- end list -->
 
   -
-    2008年11月16日発売 / [すたじお緑茶](https://ja.wikipedia.org/wiki/すたじお緑茶 "wikilink") / SRYOK-001-01〜2
+    2008年11月16日発売 / [すたじお緑茶](../Page/すたじお緑茶.md "wikilink") / SRYOK-001-01〜2
 
 <!-- end list -->
 
@@ -310,7 +310,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 <!-- end list -->
 
   -
-    2009年1月30日発売 / [BasiL](https://ja.wikipedia.org/wiki/BasiL "wikilink") / BS2009-01M
+    2009年1月30日発売 / [BasiL](../Page/BasiL.md "wikilink") / BS2009-01M
 
 <!-- end list -->
 
@@ -355,10 +355,10 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
   - **電激ストライカー オリジナルサウンドトラック STRYKERS**
       - 君の夢のそばで
           - PCゲーム『[電激ストライカー](https://ja.wikipedia.org/wiki/電激ストライカー "wikilink")』ED主題歌
-          - 作詞：[橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink") / 作曲・編曲：milktub
+          - 作詞：[橋本みゆき](../Page/橋本みゆき.md "wikilink") / 作曲・編曲：milktub
       - BREAKING\!
           - PCゲーム『電激ストライカー』挿入歌
-          - 歌：[遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink") & AiRI / 作詞：[彩木蔵葉](https://ja.wikipedia.org/wiki/彩木蔵葉 "wikilink") / 作曲・編曲：[宮崎京一](https://ja.wikipedia.org/wiki/宮崎京一 "wikilink")
+          - 歌：[遠藤正明](../Page/遠藤正明.md "wikilink") & AiRI / 作詞：[彩木蔵葉](https://ja.wikipedia.org/wiki/彩木蔵葉 "wikilink") / 作曲・編曲：[宮崎京一](https://ja.wikipedia.org/wiki/宮崎京一 "wikilink")
       - Bonds
           - PCゲーム『電激ストライカー』ED主題歌
           - 作詞：AiRI / 作曲：宮崎京一 / 編曲：ms-jacky
@@ -585,8 +585,8 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
   - **EGG -Extra Games Garden- anthology 2015**
       - ever lasting garden
           - イベント『[EGG -Extra Games Garden-](https://ja.wikipedia.org/wiki/EGG_-Extra_Games_Garden- "wikilink")』テーマソング
-          - 歌手：AiRI・[橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink")・[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink") / 作詞：[rino](https://ja.wikipedia.org/wiki/rino "wikilink") / 作曲：[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") / 編曲：宮崎京一
-          - Gt：宮崎京一 / Ba：[染川裕紀](https://ja.wikipedia.org/wiki/染川裕紀 "wikilink") / Dr：[内田稔](https://ja.wikipedia.org/wiki/内田稔 "wikilink") / Pf：清水永之
+          - 歌手：AiRI・[橋本みゆき](../Page/橋本みゆき.md "wikilink")・[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink") / 作詞：[rino](https://ja.wikipedia.org/wiki/rino "wikilink") / 作曲：[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") / 編曲：宮崎京一
+          - Gt：宮崎京一 / Ba：[染川裕紀](https://ja.wikipedia.org/wiki/染川裕紀 "wikilink") / Dr：[内田稔](../Page/内田稔.md "wikilink") / Pf：清水永之
 
 <!-- end list -->
 
@@ -705,7 +705,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 
   - **DEKA-MUSIC ぼりゅーみー！**
       - 冤罪
-          - ドラマCD『[夜勤病棟](https://ja.wikipedia.org/wiki/夜勤病棟 "wikilink")・弐〜眩惑の堕天使〜第一章 風間愛』OP主題歌
+          - ドラマCD『[夜勤病棟](../Page/夜勤病棟.md "wikilink")・弐〜眩惑の堕天使〜第一章 風間愛』OP主題歌
           - 作詞：A.Masato / 作曲・編曲：不知火ぴゅ〜太朗
       - Wonder Land
 
@@ -762,7 +762,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
 <!-- end list -->
 
   - Get Over（PCゲーム『[Maple Colors 2](https://ja.wikipedia.org/wiki/Maple_Colors_2 "wikilink")』OP主題歌）
-  - Reincarnation（PCゲーム『[超昂閃忍ハルカ](https://ja.wikipedia.org/wiki/超昂閃忍ハルカ "wikilink")』イメージソング、『[アリス2010](https://ja.wikipedia.org/wiki/アリス2010 "wikilink")』初回特典「ALICE SOUND COLLECTION 08」に収録）
+  - Reincarnation（PCゲーム『[超昂閃忍ハルカ](../Page/超昂閃忍ハルカ.md "wikilink")』イメージソング、『[アリス2010](https://ja.wikipedia.org/wiki/アリス2010 "wikilink")』初回特典「ALICE SOUND COLLECTION 08」に収録）
 
 <!-- end list -->
 
@@ -834,7 +834,7 @@ PCゲーム『[君が主で執事が俺で](https://ja.wikipedia.org/wiki/君が
   - 『ANISON HISTORY JAPAN\!\! 2nd STAGE』（2016年3月31日開催、東京NHKホール）
   - 『京都アニソンスペシャルライブ presented by KBS京都』（2016年8月20日開催、京都KBSホール）
   - 『美少女ゲームミュージックライブ！！2017 大阪-Fandisk\!\!-』（2017年2月4日開催予定、umeda AKASO）
-  - 『Eushully 20th Anniversary Live』（2018年11月25日、[吉祥寺CLUB SEATA](https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA "wikilink")）\[23\]
+  - 『Eushully 20th Anniversary Live』（2018年11月25日、[吉祥寺CLUB SEATA](../Page/吉祥寺CLUB_SEATA.md "wikilink")）\[23\]
 
 ## 脚注
 

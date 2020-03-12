@@ -1,11 +1,11 @@
 > この記事は[FS](https://ja.wikipedia.org/wiki/FS)から翻訳されています。
 
 
-**プラジャス・デ・カステジョンFS**（Playas de Castellón Fútbol Sala）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](https://ja.wikipedia.org/wiki/カステリョン県 "wikilink")[カステリョンを本拠地とする](https://ja.wikipedia.org/wiki/カステリョン・デ・ラ・プラナ "wikilink")[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブ。2017-18シーズンはLNFSのセグンダ・ディビシオン（2部）に所属している。
+**プラジャス・デ・カステジョンFS**（Playas de Castellón Fútbol Sala）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[カステリョンを本拠地とする](../Page/カステリョン・デ・ラ・プラナ.md "wikilink")[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブ。2017-18シーズンはLNFSのセグンダ・ディビシオン（2部）に所属している。
 
 ## 歴史
 
-[スペイン代表や](https://ja.wikipedia.org/wiki/フットサルスペイン代表 "wikilink")[イタリア代表などの一流プレーヤーを揃え](https://ja.wikipedia.org/wiki/フットサルイタリア代表 "wikilink")、2001-02シーズンと2002-03シーズンには[UEFAフットサルカップ](https://ja.wikipedia.org/wiki/UEFAフットサルカップ "wikilink")で2連覇した。また、世界最高峰と目される国内リーグの[プリメーラ・ディビシオンでは](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン・デ・フットサル "wikilink")、1999-2000シーズン、2000-01シーズンと2連覇した。
+[スペイン代表や](https://ja.wikipedia.org/wiki/フットサルスペイン代表 "wikilink")[イタリア代表などの一流プレーヤーを揃え](https://ja.wikipedia.org/wiki/フットサルイタリア代表 "wikilink")、2001-02シーズンと2002-03シーズンには[UEFAフットサルカップ](../Page/UEFAフットサルカップ.md "wikilink")で2連覇した。また、世界最高峰と目される国内リーグの[プリメーラ・ディビシオンでは](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン・デ・フットサル "wikilink")、1999-2000シーズン、2000-01シーズンと2連覇した。
 
 2011-12シーズンはセグンダ・ディビシオン（2部）で16位に終わり、テルセーラ・ディビシオン（3部）に降格となるはずだったが、セグンダ・ディビシオンの所属クラブ数に空きが出たために残留した\[1\]。2013年7月にはLNFSにリーグ登録料を支払えず、セグンダ・ディビシオンの所属ライセンスを剥奪されるとともに、テルセーラ・ディビシオン（3部）降格となった\[2\]。
 
@@ -43,7 +43,7 @@
 
 ### 国外タイトル
 
-  - **[UEFAフットサルカップ](https://ja.wikipedia.org/wiki/UEFAフットサルカップ "wikilink") : 2回**
+  - **[UEFAフットサルカップ](../Page/UEFAフットサルカップ.md "wikilink") : 2回**
 
 <!-- end list -->
 
@@ -301,7 +301,7 @@
 
 ## 関連項目
 
-  - [宇部興産](https://ja.wikipedia.org/wiki/宇部興産 "wikilink") - 同地に工場を持つ関係から、チームをスポンサードしている。
+  - [宇部興産](../Page/宇部興産.md "wikilink") - 同地に工場を持つ関係から、チームをスポンサードしている。
 
 ## 脚注
 

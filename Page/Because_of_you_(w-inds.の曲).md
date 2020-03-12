@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - オリコン初1位獲得作品である前作「[Another Days](https://ja.wikipedia.org/wiki/Another_Days "wikilink")」より約3ヶ月ぶりのリリースで、同じくオリコン1位獲得作品。
+  - オリコン初1位獲得作品である前作「[Another Days](../Page/Another_Days.md "wikilink")」より約3ヶ月ぶりのリリースで、同じくオリコン1位獲得作品。
   - 発売当時、[バックストリート・ボーイズ](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink")の「Don't Want You Back」に似ていると盗作疑惑が起きた事がある\[1\]。
-  - デビュー曲「[Forever Memories](https://ja.wikipedia.org/wiki/Forever_Memories "wikilink")」から前作「Another Days」まで、w-inds.作品・全シングルの全楽曲における作詞・作曲・編曲を手がけて来た[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")から離れ、新たな作家陣によって制作された。
-  - 作曲・編曲には、1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』収録曲「Love you anymore」に引き続き、・[原一博](../Page/原一博.md "wikilink")を再起用。また作詞には、後のw-inds.作品の[クレジットに最も多く名を連ねることになる](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")を初起用、収録曲すべての作詞を手掛けている。
-  - シングル曲として、Rapパート初導入され、[緒方龍一](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")が担当している。([千葉涼平](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")のみソロパートがない）。[橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")以外のメンバーにソロパートが与えられているのはこれが初である。サビでは橘と千葉の2人が歌唱しており、サビを全員で歌唱しない曲はこれが初である。
+  - デビュー曲「[Forever Memories](../Page/Forever_Memories.md "wikilink")」から前作「Another Days」まで、w-inds.作品・全シングルの全楽曲における作詞・作曲・編曲を手がけて来た[葉山拓亮](../Page/葉山拓亮.md "wikilink")から離れ、新たな作家陣によって制作された。
+  - 作曲・編曲には、1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』収録曲「Love you anymore」に引き続き、・[原一博](../Page/原一博.md "wikilink")を再起用。また作詞には、後のw-inds.作品の[クレジットに最も多く名を連ねることになる](../Page/クレジットタイトル.md "wikilink")[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")を初起用、収録曲すべての作詞を手掛けている。
+  - シングル曲として、Rapパート初導入され、[緒方龍一](../Page/緒方龍一.md "wikilink")が担当している。([千葉涼平](../Page/千葉涼平.md "wikilink")のみソロパートがない）。[橘慶太](../Page/橘慶太.md "wikilink")以外のメンバーにソロパートが与えられているのはこれが初である。サビでは橘と千葉の2人が歌唱しており、サビを全員で歌唱しない曲はこれが初である。
   - カップリング曲「close to you」は、外国人作家による初提供作品。
   - [第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")金賞受賞曲。
   - 2002年9月2日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 -----
 

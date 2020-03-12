@@ -13,7 +13,7 @@ ABNFの記述は以下のような生成規則群からなる。
 rule = definition ; comment CR LF
 ```
 
-ここで、rule は大文字小文字が区別される[非終端記号](https://ja.wikipedia.org/wiki/非終端記号 "wikilink")、definition はその rule を定義する記号列、comment は文書化のためのコメントである。最後尾には必ず `CR` と `LF` による[改行コード](https://ja.wikipedia.org/wiki/改行コード "wikilink")が付属する。
+ここで、rule は大文字小文字が区別される[非終端記号](https://ja.wikipedia.org/wiki/非終端記号 "wikilink")、definition はその rule を定義する記号列、comment は文書化のためのコメントである。最後尾には必ず `CR` と `LF` による[改行コード](../Page/改行コード.md "wikilink")が付属する。
 
 規則名は大文字小文字を区別しない。<rulename> も <RULENAME> も <rUlENamE> も同じ規則を参照している。規則名はいわゆるアルファベット文字で始まり、その後にアルファベット、数字、ハイフンが続く。
 

@@ -1,17 +1,17 @@
 > この記事は[TWiki](https://ja.wikipedia.org/wiki/TWiki)から翻訳されています。
 
 
-**TWiki** は[構造化ウィキ](https://ja.wikipedia.org/wiki/構造化ウィキ "wikilink")の一種であり、連携基盤、[ナレッジマネジメント](../Page/ナレッジマネジメント.md "wikilink")システム、[文書管理システム](https://ja.wikipedia.org/wiki/文書管理システム "wikilink")、[知識ベース](https://ja.wikipedia.org/wiki/知識ベース "wikilink")その他の共有アプリケーションとして使われる。[ブログ](../Page/ブログ.md "wikilink")にも使うことができる。ウェブコンテンツは[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")や[イントラネット](../Page/イントラネット.md "wikilink")を通してブラウザだけで共同で作成することができる。TWiki は、プログラミング経験のないユーザーでもウィキアプリケーションを作成でき、[プラグイン](../Page/プラグイン.md "wikilink")を使って機能を拡張できる。
+**TWiki** は[構造化ウィキ](https://ja.wikipedia.org/wiki/構造化ウィキ "wikilink")の一種であり、連携基盤、[ナレッジマネジメント](../Page/ナレッジマネジメント.md "wikilink")システム、[文書管理システム](../Page/文書管理システム.md "wikilink")、[知識ベース](../Page/知識ベース.md "wikilink")その他の共有アプリケーションとして使われる。[ブログ](../Page/ブログ.md "wikilink")にも使うことができる。ウェブコンテンツは[インターネット](../Page/インターネット.md "wikilink")や[イントラネット](../Page/イントラネット.md "wikilink")を通してブラウザだけで共同で作成することができる。TWiki は、プログラミング経験のないユーザーでもウィキアプリケーションを作成でき、[プラグイン](../Page/プラグイン.md "wikilink")を使って機能を拡張できる。
 
 ## 概要
 
-TWiki は他のウィキと同様、共有ホワイトボードとして使うことができる。TWiki はまた単純な（プログラミング不要な）フォームベースのウェブアプリケーション作成にも利用できる。その他にも[バージョン管理](../Page/バージョン管理システム.md "wikilink")、細かい[アクセス制御](https://ja.wikipedia.org/wiki/アクセス制御 "wikilink")（全くアクセス制御しない使い方も可能）、構成変数、可変テキスト、[トランスクルージョン](https://ja.wikipedia.org/wiki/トランスクルージョン "wikilink")、電子メール通知、[RSS](../Page/RSS.md "wikilink")/Atom、埋め込み型検索、[Server Side Includes](https://ja.wikipedia.org/wiki/Server_Side_Includes "wikilink")、ファイルアタッチメントといった機能がある。
+TWiki は他のウィキと同様、共有ホワイトボードとして使うことができる。TWiki はまた単純な（プログラミング不要な）フォームベースのウェブアプリケーション作成にも利用できる。その他にも[バージョン管理](../Page/バージョン管理システム.md "wikilink")、細かい[アクセス制御](../Page/アクセス制御.md "wikilink")（全くアクセス制御しない使い方も可能）、構成変数、可変テキスト、[トランスクルージョン](../Page/トランスクルージョン.md "wikilink")、電子メール通知、[RSS](../Page/RSS.md "wikilink")/Atom、埋め込み型検索、[Server Side Includes](https://ja.wikipedia.org/wiki/Server_Side_Includes "wikilink")、ファイルアタッチメントといった機能がある。
 
-TWiki にはプラグインAPIがあり、260ものプラグインがある。[データベース](../Page/データベース.md "wikilink")とのリンク、グラフ作成、[タギング](https://ja.wikipedia.org/wiki/タギング_\(コンピュータ\) "wikilink")、表のソート、[スプレッドシート作成](../Page/表計算ソフト.md "wikilink")、画像ギャラリー/[スライドショー](../Page/スライドショー.md "wikilink")の作成、[イラストレーション](../Page/イラストレーション.md "wikilink")、[ブログ](../Page/ブログ.md "wikilink")、各種[認証](../Page/認証.md "wikilink")スキーマとのインタフェース、[エクストリーム・プログラミング](../Page/エクストリーム・プログラミング.md "wikilink")プロジェクト管理向け機能などのプラグインがある。
+TWiki にはプラグインAPIがあり、260ものプラグインがある。[データベース](../Page/データベース.md "wikilink")とのリンク、グラフ作成、[タギング](../Page/タギング_\(コンピュータ\).md "wikilink")、表のソート、[スプレッドシート作成](../Page/表計算ソフト.md "wikilink")、画像ギャラリー/[スライドショー](../Page/スライドショー.md "wikilink")の作成、[イラストレーション](../Page/イラストレーション.md "wikilink")、[ブログ](../Page/ブログ.md "wikilink")、各種[認証](../Page/認証.md "wikilink")スキーマとのインタフェース、[エクストリーム・プログラミング](../Page/エクストリーム・プログラミング.md "wikilink")プロジェクト管理向け機能などのプラグインがある。
 
 TWiki はテンプレートやテーマ、ユーザー毎の[CSS設定によって見た目を変更できる](../Page/Cascading_Style_Sheets.md "wikilink")。[国際化と地域化](../Page/国際化と地域化.md "wikilink")（I18N）もよくサポートしており、各種文字セットや UTF-8 URL をサポートし、中国語、チェコ語、オランダ語、フランス語、ドイツ語、イタリア語、日本語、ポーランド語、ポルトガル語、ロシア語、スペイン語、スウェーデン語といった言語でのユーザーインタフェースをサポートしている。
 
-[バージョン管理と](../Page/バージョン管理システム.md "wikilink")[アクセス制御リスト](https://ja.wikipedia.org/wiki/アクセス制御リスト "wikilink")を備えているため、TWiki は特に企業などのサイト（[企業向けwiki](https://ja.wikipedia.org/wiki/企業向けwiki "wikilink")）に適している（公式サイトによれば、2007年3月現在で約4万のサイトが利用している）。一方、他の機能により、インターネット上のウィキサイトにも使われている（同様に、約2万サイトで使われている）。TWiki は[Perl](../Page/Perl.md "wikilink")で実装されており、[GPL](../Page/GNU_General_Public_License.md "wikilink") によりフリーかつオープンソースなソフトウェアとしてリリースされている。また、[仮想アプライアンス](https://ja.wikipedia.org/wiki/仮想アプライアンス "wikilink")としても利用可能である。
+[バージョン管理と](../Page/バージョン管理システム.md "wikilink")[アクセス制御リスト](../Page/アクセス制御リスト.md "wikilink")を備えているため、TWiki は特に企業などのサイト（[企業向けwiki](https://ja.wikipedia.org/wiki/企業向けwiki "wikilink")）に適している（公式サイトによれば、2007年3月現在で約4万のサイトが利用している）。一方、他の機能により、インターネット上のウィキサイトにも使われている（同様に、約2万サイトで使われている）。TWiki は[Perl](../Page/Perl.md "wikilink")で実装されており、[GPL](../Page/GNU_General_Public_License.md "wikilink") によりフリーかつオープンソースなソフトウェアとしてリリースされている。また、[仮想アプライアンス](../Page/仮想アプライアンス.md "wikilink")としても利用可能である。
 
 ## 主な機能
 

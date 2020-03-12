@@ -1,23 +1,23 @@
 > この記事は[Stage6](https://ja.wikipedia.org/wiki/Stage6)から翻訳されています。
 
 
-**Stage6**（ステージシックス）とは[DivX, Inc.社が運営していた無料の](https://ja.wikipedia.org/wiki/:en:DivX,_Inc. "wikilink")[動画共有サービス](../Page/動画共有サービス.md "wikilink")、[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")である。**DivX Stage6**（ディビックス ステージシックス）とも。一部からは**ステロク**（捨て6）などの[愛称](../Page/愛称.md "wikilink")で呼ばれていた。[ベータ版](../Page/ベータ版.md "wikilink")が公開されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")をもってサービスを終了した\[1\]。
+**Stage6**（ステージシックス）とは[DivX, Inc.社が運営していた無料の](https://ja.wikipedia.org/wiki/:en:DivX,_Inc. "wikilink")[動画共有サービス](../Page/動画共有サービス.md "wikilink")、[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")である。**DivX Stage6**（ディビックス ステージシックス）とも。一部からは**ステロク**（捨て6）などの[愛称](../Page/愛称.md "wikilink")で呼ばれていた。[ベータ版](../Page/ベータ版.md "wikilink")が公開されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")をもってサービスを終了した\[1\]。
 
 ## 開設
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月\[2\]、上場直前のDivX, Inc.社は、[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")コーデックのケーパビリティを披露する舞台としてStage6を立ち上げた\[3\]。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")など当時人気が上がっていた競合サイトよりも高画質の動画を共有できることから口コミで人気が集まり\[4\]\[5\]、2007年中盤のβ版公開時にはすでに数百万のアカウントがある有名サイトと化していた。
+[2006年](../Page/2006年.md "wikilink")8月\[2\]、上場直前のDivX, Inc.社は、[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")コーデックのケーパビリティを披露する舞台としてStage6を立ち上げた\[3\]。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")など当時人気が上がっていた競合サイトよりも高画質の動画を共有できることから口コミで人気が集まり\[4\]\[5\]、2007年中盤のβ版公開時にはすでに数百万のアカウントがある有名サイトと化していた。
 
 ## 概要
 
-配信されている[動画](../Page/動画.md "wikilink")を鑑賞するには、専用の[プラグイン](../Page/プラグイン.md "wikilink")（DivX Web Player）を[PCに](../Page/パーソナルコンピュータ.md "wikilink")[インストール](../Page/インストール.md "wikilink")することが必要である。また、[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")登録をすれば動画を[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")する事ができる。動画共有サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などとほぼ同種のサービスであるが動画の圧縮に[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")（または[Xvid](https://ja.wikipedia.org/wiki/Xvid "wikilink")）といった形式を用いており、ファイルは自分の端末にダウンロード可能で、HDの[720p](https://ja.wikipedia.org/wiki/720p "wikilink")や[1080p](https://ja.wikipedia.org/wiki/1080p "wikilink")など高精細度動画に対応しており当時のYouTubeなどに比べ高画質・高音質の動画を扱うことができた\[6\]。専用プラグインのインストールを要する煩雑さから、ブラウザだけで見ることのできるYouTubeほど浸透しなかったが、日本でも[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")や各種[ブログ](../Page/ブログ.md "wikilink")サイト等で話題になった\[7\]。
+配信されている[動画](../Page/動画.md "wikilink")を鑑賞するには、専用の[プラグイン](../Page/プラグイン.md "wikilink")（DivX Web Player）を[PCに](../Page/パーソナルコンピュータ.md "wikilink")[インストール](../Page/インストール.md "wikilink")することが必要である。また、[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")登録をすれば動画を[アップロード](../Page/アップロード.md "wikilink")する事ができる。動画共有サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などとほぼ同種のサービスであるが動画の圧縮に[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")（または[Xvid](../Page/Xvid.md "wikilink")）といった形式を用いており、ファイルは自分の端末にダウンロード可能で、HDの[720p](https://ja.wikipedia.org/wiki/720p "wikilink")や[1080p](https://ja.wikipedia.org/wiki/1080p "wikilink")など高精細度動画に対応しており当時のYouTubeなどに比べ高画質・高音質の動画を扱うことができた\[6\]。専用プラグインのインストールを要する煩雑さから、ブラウザだけで見ることのできるYouTubeほど浸透しなかったが、日本でも[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")や各種[ブログ](../Page/ブログ.md "wikilink")サイト等で話題になった\[7\]。
 
-一方、その高画質ゆえ[映画](../Page/映画.md "wikilink")や[アニメ](../Page/アニメ.md "wikilink")等の[著作物](../Page/著作物.md "wikilink")が著作権者に無断でアップロードされることも多く、[著作権侵害](https://ja.wikipedia.org/wiki/著作権侵害 "wikilink")への対応について米国におけるデジタル・ミレニアム著作権法に基づき著作権侵害であるとの報告を受けた際に、速やかにその作品を削除する体制を整えていた。
+一方、その高画質ゆえ[映画](../Page/映画.md "wikilink")や[アニメ](../Page/アニメ.md "wikilink")等の[著作物](../Page/著作物.md "wikilink")が著作権者に無断でアップロードされることも多く、[著作権侵害](../Page/著作権侵害.md "wikilink")への対応について米国におけるデジタル・ミレニアム著作権法に基づき著作権侵害であるとの報告を受けた際に、速やかにその作品を削除する体制を整えていた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発表された閉鎖の理由として、サイトの維持には費用がかかり、作業もリソースもDivX, Inc.の提供できる限界を超えてしまったという説明がなされている\[8\]。2007年夏以来DivX, Inc.は将来を有望視されていたStage6事業の売却やスピンアウトを検討してきたが、話はまとまらなかったうえに社内でも問題が発生し\[9\]、継続は困難として閉鎖に至ったとされる\[10\]。
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 8月 - 開設。
   - [2007年](../Page/2007年.md "wikilink")
       - [9月14日](../Page/9月14日.md "wikilink") - メンテナンスが行なわれ、ページのレイアウトの変更などが行なわれる。
@@ -33,11 +33,11 @@
 
 Stage6のトップページを訪問する人々がポルノサイトなどの複数のサイトにリダイレクトされるように仕組まれていた。動機はまだ不明瞭だが、その間Stage6は完全に機能停止した。同日22時32分に復旧した模様。
 
-クラッキングが表面化したのはトップページのスタッフのコメント内に仕込まれmetaタグによりトップページにアクセスしたユーザがリダイレクトされたことによる。トップページが改竄されたすぐ後、[4chan](https://ja.wikipedia.org/wiki/4chan "wikilink")のRandomボードに1,000人のStage6ユーザのメールアドレスとパスワードの一部がグループによって掲示された（現在このページは、サイトから取り除かれている）。影響があったと発表されたユーザーは主に[2007年](../Page/2007年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")から2008年[2月9日](../Page/2月9日.md "wikilink")に新規のStage6アカウントを登録したユーザ、および2007年[12月7日](../Page/12月7日.md "wikilink")から2008年[2月10日](../Page/2月10日.md "wikilink")の間に動画をStage6へアップロードしたユーザである。パスワードの収集は、本格的なクラックが実行される以前にXSS脆弱性やフィッシングなどによって収集されたものと一部で推測されている\[14\]。さらに改竄されたトップページからのリダイレクト先でもXSSによる攻撃が行われ、この攻撃には特定のブラウザの脆弱性が利用されたと言われているが真偽は不明である。
+クラッキングが表面化したのはトップページのスタッフのコメント内に仕込まれmetaタグによりトップページにアクセスしたユーザがリダイレクトされたことによる。トップページが改竄されたすぐ後、[4chan](../Page/4chan.md "wikilink")のRandomボードに1,000人のStage6ユーザのメールアドレスとパスワードの一部がグループによって掲示された（現在このページは、サイトから取り除かれている）。影響があったと発表されたユーザーは主に[2007年](../Page/2007年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")から2008年[2月9日](../Page/2月9日.md "wikilink")に新規のStage6アカウントを登録したユーザ、および2007年[12月7日](../Page/12月7日.md "wikilink")から2008年[2月10日](../Page/2月10日.md "wikilink")の間に動画をStage6へアップロードしたユーザである。パスワードの収集は、本格的なクラックが実行される以前にXSS脆弱性やフィッシングなどによって収集されたものと一部で推測されている\[14\]。さらに改竄されたトップページからのリダイレクト先でもXSSによる攻撃が行われ、この攻撃には特定のブラウザの脆弱性が利用されたと言われているが真偽は不明である。
 
 国内で確認されている被害は以下のとおりである。
 
-  - Stage6と同じニックネーム、パスワードを設定している[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")のアカウントにログインされた。
+  - Stage6と同じニックネーム、パスワードを設定している[Yahoo\!](../Page/Yahoo!.md "wikilink")のアカウントにログインされた。
   - [Google](../Page/Google.md "wikilink")のトップのアカウント名が表示されるところに他人のIDが表示されていた。
 
 これらはStage6で取得したユーザ名とパスワードを使ってログインを試みた、もしくはXSSによりクッキーとして保存されていた情報を抜き取られたと推測されているがパスワードの入手経路およびStage6クラッキングとの明確な関連性は不明なままである。

@@ -22,7 +22,7 @@
 
 ### 所属経験のある男性
 
-  - [伊嵜充則](https://ja.wikipedia.org/wiki/伊崎充則 "wikilink")（※業務提携）\[6\]
+  - [伊嵜充則](../Page/伊崎充則.md "wikilink")（※業務提携）\[6\]
   - [來河侑希](https://ja.wikipedia.org/wiki/來河侑希 "wikilink")\[7\]
   - [堤隼人](https://ja.wikipedia.org/wiki/堤隼人 "wikilink")\[8\]
   - [塩澤毅郎](https://ja.wikipedia.org/wiki/塩澤毅郎 "wikilink")\[9\]

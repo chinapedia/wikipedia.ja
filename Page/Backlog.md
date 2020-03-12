@@ -1,7 +1,7 @@
 > この記事は[Backlog](https://ja.wikipedia.org/wiki/Backlog)から翻訳されています。
 
 
-**Backlog**とは、株式会社ヌーラボが提供する[プロジェクト管理ツール](../Page/プロジェクトマネジメント.md "wikilink")。株式会社ヌーラボが[ASPとしてサービス提供しているほか](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")、パッケージ版の販売も行われている。
+**Backlog**とは、株式会社ヌーラボが提供する[プロジェクト管理ツール](../Page/プロジェクトマネジメント.md "wikilink")。株式会社ヌーラボが[ASPとしてサービス提供しているほか](../Page/アプリケーションサービスプロバイダ.md "wikilink")、パッケージ版の販売も行われている。
 
 ## 概要
 

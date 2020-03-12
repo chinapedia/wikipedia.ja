@@ -1,7 +1,7 @@
 > この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:pokettoboard.jpg "wikilink") **ZERO**（ゼロ）は、[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")株式会社が運営する[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）。
+[thumb](https://ja.wikipedia.org/wiki/画像:pokettoboard.jpg "wikilink") **ZERO**（ゼロ）は、[GMOインターネット](../Page/GMOインターネット.md "wikilink")株式会社が運営する[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）。
 
 接続サービスは[フリービット](../Page/フリービット.md "wikilink")のxSP提供である。
 

@@ -5,11 +5,11 @@
 
 ## プロフィール
 
-[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身のR\&B[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")\[1\]\[2\]。[作詞](../Page/作詞家.md "wikilink")・[作曲家](../Page/作曲家.md "wikilink")として音楽活動を始め、数々のアーティストに楽曲提供を行う他、[JFN系ラジオ番組](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")『[flowers](https://ja.wikipedia.org/wiki/Flowers_\(ラジオ番組\) "wikilink")』（2009年4月 - 2013年3月）の番組テーマソング、ジングルを制作するなどサウンドクリエイターとしても活動する\[3\]\[4\]。
+[福岡県](../Page/福岡県.md "wikilink")出身のR\&B[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")\[1\]\[2\]。[作詞](../Page/作詞家.md "wikilink")・[作曲家](../Page/作曲家.md "wikilink")として音楽活動を始め、数々のアーティストに楽曲提供を行う他、[JFN系ラジオ番組](../Page/全国FM放送協議会.md "wikilink")『[flowers](https://ja.wikipedia.org/wiki/Flowers_\(ラジオ番組\) "wikilink")』（2009年4月 - 2013年3月）の番組テーマソング、ジングルを制作するなどサウンドクリエイターとしても活動する\[3\]\[4\]。
 
 2006年よりシンガーとしてのキャリアをスタート\[5\]。アナログ盤の限定シングル「In the FLOOR」がクラブ・シーンで注目されると、2007年に『Jewels』でアルバム・デビュー\[6\]\[7\]。
 
-これまで[スポンテニア](https://ja.wikipedia.org/wiki/スポンテニア "wikilink")の[Tarantulaや](https://ja.wikipedia.org/wiki/Spontania#メンバー "wikilink")、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")、[DJ Deckstream](https://ja.wikipedia.org/wiki/DJ_Deckstream "wikilink")、[WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")、[GIORGIO 13](https://ja.wikipedia.org/wiki/So'_Fly#メンバー "wikilink")、[HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")、[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")、[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")のTOCなどとコラボレーション。
+これまで[スポンテニア](https://ja.wikipedia.org/wiki/スポンテニア "wikilink")の[Tarantulaや](https://ja.wikipedia.org/wiki/Spontania#メンバー "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[DJ Deckstream](../Page/DJ_Deckstream.md "wikilink")、[WISE](../Page/WISE.md "wikilink")、[GIORGIO 13](https://ja.wikipedia.org/wiki/So'_Fly#メンバー "wikilink")、[HI-D](../Page/HI-D.md "wikilink")、[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")、[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")のTOCなどとコラボレーション。
 
 ## ディスコグラフィー
 
@@ -17,53 +17,53 @@
 
 | 枚   | 発売日                                                                                         | タイトル                                                                                            |
 | --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink") | **Roller Coaster Love feat. [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")**             |
+| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink") | **Roller Coaster Love feat. [HI-D](../Page/HI-D.md "wikilink")**                                |
 | 2nd | [2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                    | '''Last Kiss '''                                                                                |
 | 3rd | 2009年[10月7日](../Page/10月7日.md "wikilink")                                                   | **Beautiful feat. Sweep／Bouquet 〜ずっと二人で〜**                                                      |
 | 4th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月21日](../Page/7月21日.md "wikilink") | **片想い feat. [GIORGIO 13](https://ja.wikipedia.org/wiki/So'_Fly "wikilink")／Addicted**           |
 | 5th | 2010年[11月10日](../Page/11月10日.md "wikilink")                                                 | **Bye-Bad-Bye／Last Note**                                                                       |
 | 6th | [2012年](../Page/2012年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")                    | **永遠 feat. Tarantula from [スポンテニア](../Page/Spontania.md "wikilink")**                           |
-| 7th | [2013年](../Page/2013年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")   | **恋レター feat. TOC from [Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")／アニバーサリー** |
+| 7th | [2013年](../Page/2013年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")                      | **恋レター feat. TOC from [Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")／アニバーサリー** |
 
 ### 配信限定シングル
 
-| 枚    | 発売日                                                                      | タイトル                                                                      |
-| ---- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| 1st  | 2010年[4月7日](../Page/4月7日.md "wikilink")                                  | **恋風**                                                                    |
-| 2nd  | [2011年](../Page/2011年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") | **泣いていいよ**                                                                |
-| 3rd  | 2011年[4月13日](../Page/4月13日.md "wikilink")                                | **Thank You feat. [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")** |
-| 4th  | 2011年[7月27日](../Page/7月27日.md "wikilink")                                | **恋花火**                                                                   |
-| 5th  | 2011年[10月5日](../Page/10月5日.md "wikilink")                                | **Be with you**                                                           |
-| 6th  | 2011年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")           | **Love is…**                                                              |
-| 7th  | 2011年[11月23日](../Page/11月23日.md "wikilink")                              | **4℃**                                                                    |
-| 8th  | 2011年[12月7日](../Page/12月7日.md "wikilink")                                | **Remember December**                                                     |
-| 9th  | 2012年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")             | **Answer**                                                                |
-| 10th | 2012年[6月6日](../Page/6月6日.md "wikilink")                                  | **シンデレラ**                                                                 |
-| 11th | 2012年[6月27日](../Page/6月27日.md "wikilink")                                | **Love song**                                                             |
-| 12th | [2013年](../Page/2013年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") | **告白**                                                                    |
-| 13th | 2013年[10月2日](../Page/10月2日.md "wikilink")                                | **恋時雨**                                                                   |
-| 14th | 2013年[11月20日](../Page/11月20日.md "wikilink")                              | **赤い糸**                                                                   |
-| 15th | 2013年[12月18日](../Page/12月18日.md "wikilink")                              | **もう一度〜One more time〜**                                                   |
-| 16th | [2014年](../Page/2014年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") | **Present**                                                               |
-| 17th | 2014年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")             | **RESET**                                                                 |
-| 18th | 2014年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")               | **HOME**                                                                  |
+| 枚    | 発売日                                                                      | タイトル                                                   |
+| ---- | ------------------------------------------------------------------------ | ------------------------------------------------------ |
+| 1st  | 2010年[4月7日](../Page/4月7日.md "wikilink")                                  | **恋風**                                                 |
+| 2nd  | [2011年](../Page/2011年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") | **泣いていいよ**                                             |
+| 3rd  | 2011年[4月13日](../Page/4月13日.md "wikilink")                                | **Thank You feat. [WISE](../Page/WISE.md "wikilink")** |
+| 4th  | 2011年[7月27日](../Page/7月27日.md "wikilink")                                | **恋花火**                                                |
+| 5th  | 2011年[10月5日](../Page/10月5日.md "wikilink")                                | **Be with you**                                        |
+| 6th  | 2011年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")           | **Love is…**                                           |
+| 7th  | 2011年[11月23日](../Page/11月23日.md "wikilink")                              | **4℃**                                                 |
+| 8th  | 2011年[12月7日](../Page/12月7日.md "wikilink")                                | **Remember December**                                  |
+| 9th  | 2012年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")             | **Answer**                                             |
+| 10th | 2012年[6月6日](../Page/6月6日.md "wikilink")                                  | **シンデレラ**                                              |
+| 11th | 2012年[6月27日](../Page/6月27日.md "wikilink")                                | **Love song**                                          |
+| 12th | [2013年](../Page/2013年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") | **告白**                                                 |
+| 13th | 2013年[10月2日](../Page/10月2日.md "wikilink")                                | **恋時雨**                                                |
+| 14th | 2013年[11月20日](../Page/11月20日.md "wikilink")                              | **赤い糸**                                                |
+| 15th | 2013年[12月18日](../Page/12月18日.md "wikilink")                              | **もう一度〜One more time〜**                                |
+| 16th | [2014年](../Page/2014年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") | **Present**                                            |
+| 17th | 2014年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")             | **RESET**                                              |
+| 18th | 2014年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")               | **HOME**                                               |
 
 ### アルバム
 
-| 枚   | 発売日                                                                                           | タイトル                                                                                         |
-| --- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1st | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                      | **Jewels**                                                                                   |
-| 2nd | 2009年[11月11日](../Page/11月11日.md "wikilink")                                                   | '''DRESS '''                                                                                 |
-|     | 2011年[3月2日](../Page/3月2日.md "wikilink")                                                       | **DE;LUXE Beatz by [DJ DECKSTREAM](https://ja.wikipedia.org/wiki/DJ_Deckstream "wikilink")** |
-| 3rd | 2011年[5月25日](../Page/5月25日.md "wikilink")                                                     | **Love Fragrance**                                                                           |
-| 4th | 2012年[8月29日](../Page/8月29日.md "wikilink")                                                     | **C is**                                                                                     |
-|     | [2013年](../Page/2013年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")                      | **Best 2007-2013**                                                                           |
-| 5th | [2014年](../Page/2014年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")                        | **LOVERS**                                                                                   |
-| 6th | [2015年](../Page/2015年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")     | **NAMIDA CARATS**                                                                            |
-|     | [2015年](../Page/2015年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")                    | **About LOVE**                                                                               |
-| 7th | [2017年](../Page/2017年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")                      | **KISS MISS KISS**                                                                           |
-|     | [2017年](../Page/2017年.md "wikilink")[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink") | **HAPPY THE BEST OF CHIHIRO**                                                                |
-|     | **TEARS THE BEST OF CHIHIRO**                                                                 |                                                                                              |
+| 枚   | 発売日                                                                        | タイトル                                                                      |
+| --- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1st | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")   | **Jewels**                                                                |
+| 2nd | 2009年[11月11日](../Page/11月11日.md "wikilink")                                | '''DRESS '''                                                              |
+|     | 2011年[3月2日](../Page/3月2日.md "wikilink")                                    | **DE;LUXE Beatz by [DJ DECKSTREAM](../Page/DJ_Deckstream.md "wikilink")** |
+| 3rd | 2011年[5月25日](../Page/5月25日.md "wikilink")                                  | **Love Fragrance**                                                        |
+| 4th | 2012年[8月29日](../Page/8月29日.md "wikilink")                                  | **C is**                                                                  |
+|     | [2013年](../Page/2013年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")   | **Best 2007-2013**                                                        |
+| 5th | [2014年](../Page/2014年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")     | **LOVERS**                                                                |
+| 6th | [2015年](../Page/2015年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")     | **NAMIDA CARATS**                                                         |
+|     | [2015年](../Page/2015年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink") | **About LOVE**                                                            |
+| 7th | [2017年](../Page/2017年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")   | **KISS MISS KISS**                                                        |
+|     | [2017年](../Page/2017年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink") | **HAPPY THE BEST OF CHIHIRO**                                             |
+|     | **TEARS THE BEST OF CHIHIRO**                                              |                                                                           |
 
 ### ミニアルバム
 
@@ -97,7 +97,7 @@
 
 ### フィーチャリング
 
-  - [森下YAMATO雄一郎](https://ja.wikipedia.org/wiki/森下雄一郎 "wikilink")『Feel the Dream』（2006年11月3日）
+  - [森下YAMATO雄一郎](../Page/森下雄一郎.md "wikilink")『Feel the Dream』（2006年11月3日）
       - M-1「Feel the Dream」 feat. CHIHIRO produced by Junichi Hoshino a.k.a Tokyo Counterpoint
       - M-2「Stand Up」feat. [SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink") & CHIHIRO produced by Shinnosuke ([SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink"))
   - [SHIKATA](../Page/SHIKATA.md "wikilink")『My Place』（2010年8月22日）
@@ -113,7 +113,7 @@
       - M-2「Rock my world」
   - MEILIN『Candy☆Boy／My Sweet Darlin'』（2007年12月5日）
       - M-1「Candy☆Boy」
-  - [加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")
+  - [加藤和樹](../Page/加藤和樹.md "wikilink")
       - 『[春恋](https://ja.wikipedia.org/wiki/春恋/夢追人 "wikilink")』（2016年4月20日）
       - 『[夏恋/秋恋](https://ja.wikipedia.org/wiki/夏恋/秋恋 "wikilink")』（2016年9月28日）
       - 『[冬恋](https://ja.wikipedia.org/wiki/冬恋 "wikilink")』（2017年1月18日）
@@ -140,7 +140,7 @@
 ## タイアップ
 
   - Miss U feat. ZANE
-    [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[嗚呼\!花の料理人](https://ja.wikipedia.org/wiki/嗚呼!花の料理人 "wikilink")』2007年7月 - 9月度エンディングテーマ
+    [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[嗚呼\!花の料理人](../Page/嗚呼!花の料理人.md "wikilink")』2007年7月 - 9月度エンディングテーマ
   - Glitter
     学校法人[明日香学園](https://ja.wikipedia.org/wiki/明日香学園 "wikilink")「明日香美容文化専門学校」CMソング
   - Roller Coaster Love feat. HI-D
@@ -152,15 +152,15 @@
     日本テレビ系『[億万笑者\!〜S-1バトルへの道〜](https://ja.wikipedia.org/wiki/億万笑者!〜S-1バトルへの道〜 "wikilink")』2009年10月 - 12月度エンディングテーマ
     dwango.jp CMソング
   - Bouquet 〜ずっと二人で〜
-    [JFN系](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")『[flowers](https://ja.wikipedia.org/wiki/flowers_\(ラジオ番組\) "wikilink")』番組テーマソング
+    [JFN系](../Page/全国FM放送協議会.md "wikilink")『[flowers](https://ja.wikipedia.org/wiki/flowers_\(ラジオ番組\) "wikilink")』番組テーマソング
   - 恋風
     読売テレビ・日本テレビ系『[浜ちゃんが\!](https://ja.wikipedia.org/wiki/浜ちゃんが! "wikilink")』2010年4月 - 6月度エンディングテーマ
   - 片想い feat. GIORGIO 13
     読売テレビ『[にけつッ\!\!](https://ja.wikipedia.org/wiki/にけつッ!! "wikilink")』2010年7月 - 9月度エンディングテーマ
   - Bye-Bad-Bye
-    [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[がっちりアカデミー\!\!](https://ja.wikipedia.org/wiki/がっちりアカデミー!! "wikilink")』2011年1月 - 3月度エンディングテーマ
+    [TBS系](../Page/TBSテレビ.md "wikilink")『[がっちりアカデミー\!\!](https://ja.wikipedia.org/wiki/がっちりアカデミー!! "wikilink")』2011年1月 - 3月度エンディングテーマ
   - WOMAN
-    [ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[Oh\!どや顔サミット](https://ja.wikipedia.org/wiki/Oh!どや顔サミット "wikilink")』2011年4月 - 6月度エンディングテーマ
+    [ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[Oh\!どや顔サミット](https://ja.wikipedia.org/wiki/Oh!どや顔サミット "wikilink")』2011年4月 - 6月度エンディングテーマ
   - 恋花火
     読売テレビ『[ザ・狩人](https://ja.wikipedia.org/wiki/ザ・狩人 "wikilink")』2011年10月 - 11月度エンディングテーマ
   - 4℃

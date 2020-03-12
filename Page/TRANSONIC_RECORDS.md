@@ -7,25 +7,25 @@
 
 前身は1990年に砂原良徳らと設立された[TRIGGER LABEL](https://ja.wikipedia.org/wiki/TRIGGER_LABEL "wikilink")。テクノポップを主体とし、イベントやカセット作品のリリースを行なっていた。1994年4月にTRANSONIC RECORDSに名称を変更。
 
-2004年を以ってTRANSONIC RECORDSは活動を休止。永田一直は現在[ExT Recordings](https://ja.wikipedia.org/wiki/ExT_Recordings "wikilink")、[20001 IN SOUNDを主宰](https://ja.wikipedia.org/wiki/20001_IN_SOUND "wikilink")、[DE DE MOUSEや](https://ja.wikipedia.org/wiki/DE_DE_MOUSE "wikilink")[CHERRYBOY FUNCTION等をリリースしている](https://ja.wikipedia.org/wiki/CHERRYBOY_FUNCTION "wikilink")。
+2004年を以ってTRANSONIC RECORDSは活動を休止。永田一直は現在[ExT Recordings](https://ja.wikipedia.org/wiki/ExT_Recordings "wikilink")、[20001 IN SOUNDを主宰](https://ja.wikipedia.org/wiki/20001_IN_SOUND "wikilink")、[DE DE MOUSEや](../Page/DE_DE_MOUSE.md "wikilink")[CHERRYBOY FUNCTION等をリリースしている](https://ja.wikipedia.org/wiki/CHERRYBOY_FUNCTION "wikilink")。
 
 ## 主要アーティスト
 
   - [永田一直](https://ja.wikipedia.org/wiki/永田一直 "wikilink") (Organization,Fantastic Explosion)
-  - [砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink") (From Time to Time,Midnight Bowlers)
+  - [砂原良徳](../Page/砂原良徳.md "wikilink") (From Time to Time,Midnight Bowlers)
   - [サワサキヨシヒロ\!](https://ja.wikipedia.org/wiki/サワサキヨシヒロ! "wikilink") (Mushroom Now\!)
   - [Mind Design](https://ja.wikipedia.org/wiki/Mind_Design "wikilink")
   - Interferon
-  - Palomatic ([高橋嵐](https://ja.wikipedia.org/wiki/高橋嵐 "wikilink"))
+  - Palomatic ([高橋嵐](../Page/高橋嵐.md "wikilink"))
   - [松前公高](https://ja.wikipedia.org/wiki/松前公高 "wikilink")
   - [King of Opus](https://ja.wikipedia.org/wiki/King_of_Opus "wikilink")
-  - [Suzukiski](https://ja.wikipedia.org/wiki/Suzukiski "wikilink")
+  - [Suzukiski](../Page/Suzukiski.md "wikilink")
   - [Fantastic Explosion](https://ja.wikipedia.org/wiki/Fantastic_Explosion "wikilink")
   - ARM ([久川大志](https://ja.wikipedia.org/wiki/久川大志 "wikilink"))
-  - Pacific 231 ([蓮実重臣](https://ja.wikipedia.org/wiki/蓮実重臣 "wikilink"),[三宅剛正](https://ja.wikipedia.org/wiki/三宅剛正 "wikilink"))
+  - Pacific 231 ([蓮実重臣](../Page/蓮実重臣.md "wikilink"),[三宅剛正](../Page/三宅剛正.md "wikilink"))
   - [Tagomago](https://ja.wikipedia.org/wiki/Tagomago "wikilink")
   - [Strange Garden](https://ja.wikipedia.org/wiki/Strange_Garden "wikilink")
-  - [イノヤマランド](https://ja.wikipedia.org/wiki/イノヤマランド "wikilink") (元[ヒカシュー](https://ja.wikipedia.org/wiki/ヒカシュー "wikilink")の井上誠と山下康)
+  - [イノヤマランド](https://ja.wikipedia.org/wiki/イノヤマランド "wikilink") (元[ヒカシュー](../Page/ヒカシュー.md "wikilink")の井上誠と山下康)
   - Deavid Soul
   - Space Ponch ([岸野雄一](https://ja.wikipedia.org/wiki/岸野雄一 "wikilink"),[常盤響](../Page/常盤響.md "wikilink"),[岡村みどり](https://ja.wikipedia.org/wiki/岡村みどり "wikilink"),[松前公高](https://ja.wikipedia.org/wiki/松前公高 "wikilink"))
   - TMVG ([ミズモトアキラ](https://ja.wikipedia.org/wiki/ミズモトアキラ "wikilink"),[常盤響](../Page/常盤響.md "wikilink"))

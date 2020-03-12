@@ -1,7 +1,7 @@
 > この記事は[K.](https://ja.wikipedia.org/wiki/K.)から翻訳されています。
 
 
-**K.インターナショナルスクール東京**（Kインターナショナルスクールとうきょう ）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にある[インターナショナルスクール](https://ja.wikipedia.org/wiki/インターナショナルスクール "wikilink")。[国際バカロレア資格](https://ja.wikipedia.org/wiki/国際バカロレア資格 "wikilink")(IB)による[初等教育](../Page/初等教育.md "wikilink")(PYP)から後期[中等教育](../Page/中等教育.md "wikilink")(DP)までの一貫教育が可能な学校は、東京地区ではK.インターナショナルスクール東京のみ（[2015年](../Page/2015年.md "wikilink")12月末現在）。
+**K.インターナショナルスクール東京**（Kインターナショナルスクールとうきょう ）は[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にある[インターナショナルスクール](https://ja.wikipedia.org/wiki/インターナショナルスクール "wikilink")。[国際バカロレア資格](https://ja.wikipedia.org/wiki/国際バカロレア資格 "wikilink")(IB)による[初等教育](../Page/初等教育.md "wikilink")(PYP)から後期[中等教育](../Page/中等教育.md "wikilink")(DP)までの一貫教育が可能な学校は、東京地区ではK.インターナショナルスクール東京のみ（[2015年](../Page/2015年.md "wikilink")12月末現在）。
 
 ## 課程
 
@@ -10,7 +10,7 @@
 
 ## 所在地
 
-東京都江東区白河1-5-15（初頭は[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東砂](https://ja.wikipedia.org/wiki/東砂 "wikilink")にあったが、[江東区立白河小学校](https://ja.wikipedia.org/wiki/江東区立白河小学校 "wikilink")の跡地に、その旧校舎を少し改修する形で移転・再開校）
+東京都江東区白河1-5-15（初頭は[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東砂](../Page/東砂.md "wikilink")にあったが、[江東区立白河小学校](https://ja.wikipedia.org/wiki/江東区立白河小学校 "wikilink")の跡地に、その旧校舎を少し改修する形で移転・再開校）
 
 ## その他
 

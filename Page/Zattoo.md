@@ -1,7 +1,7 @@
 > この記事は[Zattoo](https://ja.wikipedia.org/wiki/Zattoo)から翻訳されています。
 
 
-**Zattoo**（ザトゥー）は、[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")技術を使った[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")配信システム。[スイス](../Page/スイス.md "wikilink")を中心にヨーロッパで展開しており、まだ日本では利用できない。[スイス](../Page/スイス.md "wikilink")のユーザ数は40万人以上(2007年7月)。[DRMで著作権保護された番組が合法的に配信されている](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")。類似サービスの[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[Joost](../Page/Joost.md "wikilink")や[Veoh](https://ja.wikipedia.org/wiki/Veoh "wikilink")などは番組単位でのオンデマンド配信だが、**Zattoo**はリアルタイムで地上波やケーブルテレビや衛星放送の番組が視聴できる点が特徴である。[ミシガン州](../Page/ミシガン州.md "wikilink")[アナーバー](https://ja.wikipedia.org/wiki/アナーバー "wikilink")出身の開発者を中心に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")と[スイス](../Page/スイス.md "wikilink")の[チューリッヒ](../Page/チューリッヒ.md "wikilink")に事務所を構える。2006年12月からベータ版の公開を始める。動画圧縮には[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")を利用している。使用するには最低400kbps以上の帯域が推奨される。
+**Zattoo**（ザトゥー）は、[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")技術を使った[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")配信システム。[スイス](../Page/スイス.md "wikilink")を中心にヨーロッパで展開しており、まだ日本では利用できない。[スイス](../Page/スイス.md "wikilink")のユーザ数は40万人以上(2007年7月)。[DRMで著作権保護された番組が合法的に配信されている](../Page/デジタル著作権管理.md "wikilink")。類似サービスの[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[Joost](../Page/Joost.md "wikilink")や[Veoh](../Page/Veoh.md "wikilink")などは番組単位でのオンデマンド配信だが、**Zattoo**はリアルタイムで地上波やケーブルテレビや衛星放送の番組が視聴できる点が特徴である。[ミシガン州](../Page/ミシガン州.md "wikilink")[アナーバー](../Page/アナーバー.md "wikilink")出身の開発者を中心に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")と[スイス](../Page/スイス.md "wikilink")の[チューリッヒ](../Page/チューリッヒ.md "wikilink")に事務所を構える。2006年12月からベータ版の公開を始める。動画圧縮には[H.264](../Page/H.264.md "wikilink")を利用している。使用するには最低400kbps以上の帯域が推奨される。
 
 設立者の一人、CTOのSugih jamin氏はミシガン大学コンピュータサイエンスの教授でありインターネットトポロジーに関する研究を行なっていた。
 
@@ -17,9 +17,9 @@
 
 ## 関連項目
 
-  - [IP放送](https://ja.wikipedia.org/wiki/IP放送 "wikilink")
-  - [インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")
-  - [通信と放送の融合](https://ja.wikipedia.org/wiki/通信と放送の融合 "wikilink")
+  - [IP放送](../Page/IP放送.md "wikilink")
+  - [インターネットテレビ](../Page/インターネットテレビ.md "wikilink")
+  - [通信と放送の融合](../Page/通信と放送の融合.md "wikilink")
   - [Joost](../Page/Joost.md "wikilink")
 
 ## 出典

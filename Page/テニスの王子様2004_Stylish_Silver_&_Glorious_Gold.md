@@ -1,7 +1,7 @@
 > この記事は[2004 Stylish Silver \& Glorious Gold](https://ja.wikipedia.org/wiki/2004_Stylish_Silver_\&_Glorious_Gold)から翻訳されています。
 
 
-**テニスの王子様2004 STYLISH SILVER**および**テニスの王子様2004 GLORIOUS GOLD**は、[2004年](../Page/2004年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")で同時発売されたソフト。発売元は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")。
+**テニスの王子様2004 STYLISH SILVER**および**テニスの王子様2004 GLORIOUS GOLD**は、[2004年](../Page/2004年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")で同時発売されたソフト。発売元は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")。
 
 ## 前作からの変更点
 

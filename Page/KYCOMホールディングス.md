@@ -1,7 +1,7 @@
 > この記事は[KYCOM](https://ja.wikipedia.org/wiki/KYCOM)から翻訳されています。
 
 
-**KYCOMホールディングス株式会社**（カイコムホールディングス）は、[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")に本社を置く[ソフトウェア](../Page/ソフトウェア.md "wikilink")などの企業を統轄する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[持株会社](../Page/持株会社.md "wikilink")である。子会社として、共栄システムズ、共同コンピュータ、共栄データセンターなどのIT関連会社を多数所有している。2015年3月の有価証券報告書によると連結売上の18.0%が[日立システムズ](https://ja.wikipedia.org/wiki/日立システムズ "wikilink")、9.8%が[日立システムズエンジニアリングサービス](https://ja.wikipedia.org/wiki/日立システムズエンジニアリングサービス "wikilink")であり、[日立グループ](https://ja.wikipedia.org/wiki/日立グループ "wikilink")への売上依存度が高く、日立グループ出身の役員も複数在任している。毎年のように子会社の合併や新設が行われている。
+**KYCOMホールディングス株式会社**（カイコムホールディングス）は、[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")に本社を置く[ソフトウェア](../Page/ソフトウェア.md "wikilink")などの企業を統轄する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[持株会社](../Page/持株会社.md "wikilink")である。子会社として、共栄システムズ、共同コンピュータ、共栄データセンターなどのIT関連会社を多数所有している。2015年3月の有価証券報告書によると連結売上の18.0%が[日立システムズ](https://ja.wikipedia.org/wiki/日立システムズ "wikilink")、9.8%が[日立システムズエンジニアリングサービス](https://ja.wikipedia.org/wiki/日立システムズエンジニアリングサービス "wikilink")であり、[日立グループ](../Page/日立グループ.md "wikilink")への売上依存度が高く、日立グループ出身の役員も複数在任している。毎年のように子会社の合併や新設が行われている。
 
 ## 沿革
 

@@ -3,7 +3,7 @@
 
 **THE FORTY FIFTH**（ザ・フォーティフィフス）は[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区にある現代建築の商業ビル](../Page/中央区_\(神戸市\).md "wikilink")。
 
-[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")で被災し解体された[神戸旧居留地のシンボルの一つであった](https://ja.wikipedia.org/wiki/旧居留地#神戸 "wikilink")[近代ビル](https://ja.wikipedia.org/wiki/近代ビル "wikilink")「大興ビル」の跡地に、[2000年](../Page/2000年.md "wikilink")3月に建設された。 ビルの名称は、旧居留地時代からの区画番号「45番」（仲町通と播磨町筋の交差点北西角）に立地することに因る。
+[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")で被災し解体された[神戸旧居留地のシンボルの一つであった](https://ja.wikipedia.org/wiki/旧居留地#神戸 "wikilink")[近代ビル](https://ja.wikipedia.org/wiki/近代ビル "wikilink")「大興ビル」の跡地に、[2000年](../Page/2000年.md "wikilink")3月に建設された。 ビルの名称は、旧居留地時代からの区画番号「45番」（仲町通と播磨町筋の交差点北西角）に立地することに因る。
 
 ## 建築概要
 
@@ -15,8 +15,8 @@
 
 ## テナント
 
-  - [バナナ・リパブリック](https://ja.wikipedia.org/wiki/バナナ・リパブリック "wikilink") 神戸元町THE FORTY FIFTH店
-  - [GAP](https://ja.wikipedia.org/wiki/ギャップ_\(企業\) "wikilink") 元町The45th
+  - [バナナ・リパブリック](../Page/バナナ・リパブリック.md "wikilink") 神戸元町THE FORTY FIFTH店
+  - [GAP](../Page/ギャップ_\(企業\).md "wikilink") 元町The45th
   - [ル・コルドン・ブルー 神戸校](http://www.cordonbleu.co.jp/cm1.cfm?fid=357&lang=3)
   - エステツイン神戸店
   - ヘアーサロン TAYA 神戸店
@@ -33,7 +33,7 @@
 ## 周辺情報
 
   - 旧居留地
-      - [神戸らんぷミュージアム](https://ja.wikipedia.org/wiki/神戸らんぷミュージアム "wikilink")、[KOBEとんぼ玉ミュージアム](https://ja.wikipedia.org/wiki/KOBEとんぼ玉ミュージアム "wikilink")、[神戸ドールミュージアム](https://ja.wikipedia.org/wiki/神戸ドールミュージアム "wikilink")、[大丸ミュージアム神戸](https://ja.wikipedia.org/wiki/大丸ミュージアム神戸 "wikilink")、[ジーニアスギャラリー](https://ja.wikipedia.org/wiki/ジーニアスギャラリー "wikilink")、[旧居留地38番館](https://ja.wikipedia.org/wiki/旧居留地38番館 "wikilink")、[旧居留地十五番館](https://ja.wikipedia.org/wiki/旧居留地十五番館 "wikilink")、[神戸市立博物館](https://ja.wikipedia.org/wiki/神戸市立博物館 "wikilink")、[チャータードビル](https://ja.wikipedia.org/wiki/チャータードビル "wikilink")、[商船三井ビルディング](https://ja.wikipedia.org/wiki/商船三井ビルディング "wikilink")、[海岸ビル](https://ja.wikipedia.org/wiki/海岸ビル "wikilink")、[神港ビル](https://ja.wikipedia.org/wiki/神港ビル "wikilink")
+      - [神戸らんぷミュージアム](../Page/神戸らんぷミュージアム.md "wikilink")、[KOBEとんぼ玉ミュージアム](https://ja.wikipedia.org/wiki/KOBEとんぼ玉ミュージアム "wikilink")、[神戸ドールミュージアム](../Page/神戸ドールミュージアム.md "wikilink")、[大丸ミュージアム神戸](https://ja.wikipedia.org/wiki/大丸ミュージアム神戸 "wikilink")、[ジーニアスギャラリー](../Page/ジーニアスギャラリー.md "wikilink")、[旧居留地38番館](../Page/旧居留地38番館.md "wikilink")、[旧居留地十五番館](../Page/旧居留地十五番館.md "wikilink")、[神戸市立博物館](../Page/神戸市立博物館.md "wikilink")、[チャータードビル](../Page/チャータードビル.md "wikilink")、[商船三井ビルディング](../Page/商船三井ビルディング.md "wikilink")、[海岸ビル](../Page/海岸ビル.md "wikilink")、[神港ビル](../Page/神港ビル.md "wikilink")
 
 ## 外部リンク
 

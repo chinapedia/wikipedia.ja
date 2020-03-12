@@ -1,7 +1,7 @@
 > この記事は[IT!](https://ja.wikipedia.org/wiki/IT!)から翻訳されています。
 
 
-**ハイっ、こちらIT課\!**（ハイっ、こちらアイティーか\!、原題: The IT Crowd）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[チャンネル4](https://ja.wikipedia.org/wiki/チャンネル4 "wikilink")製作の[シットコム](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に第1シリーズ、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に第2シリーズ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に第3シリーズ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に第4シリーズがそれぞれ6話ずつ放送された。現在第5、第6シーズンの製作が決まっている。監督・脚本は[グレアム・リネハン](https://ja.wikipedia.org/wiki/グレアム・リネハン "wikilink")。
+**ハイっ、こちらIT課\!**（ハイっ、こちらアイティーか\!、原題: The IT Crowd）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[チャンネル4](../Page/チャンネル4.md "wikilink")製作の[シットコム](../Page/シチュエーション・コメディ.md "wikilink")。[2006年](../Page/2006年.md "wikilink")に第1シリーズ、[2007年](../Page/2007年.md "wikilink")に第2シリーズ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に第3シリーズ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に第4シリーズがそれぞれ6話ずつ放送された。現在第5、第6シーズンの製作が決まっている。監督・脚本は[グレアム・リネハン](https://ja.wikipedia.org/wiki/グレアム・リネハン "wikilink")。
 
 日本では、第1シーズンが2007年1月から[WOWOW](../Page/WOWOW.md "wikilink")の「コメディUK\!」枠で、第2シーズンが2008年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")まで、第3シーズンも2010年[11月27日](../Page/11月27日.md "wikilink")から[12月25日](../Page/12月25日.md "wikilink")まで同じく「コメディUK\!」枠で放送された。第4シーズンは[2011年](../Page/2011年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")からWOWOWで放送される予定である。
 

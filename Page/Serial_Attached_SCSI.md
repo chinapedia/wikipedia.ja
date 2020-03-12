@@ -1,7 +1,7 @@
 > この記事は[Serial Attached SCSI](https://ja.wikipedia.org/wiki/Serial_Attached_SCSI)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:SASHardDriveComparsion.jpg "wikilink") **Serial Attached SCSI**（**SAS**; サス）は、[コンピュータ](../Page/コンピュータ.md "wikilink")に[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")等のデバイスを接続するための[インターフェースである](../Page/インタフェース_\(情報技術\).md "wikilink")。[SCSI規格の一種であり](../Page/Small_Computer_System_Interface.md "wikilink")、それまでは[パラレル](https://ja.wikipedia.org/wiki/パラレル "wikilink")伝送であったSCSI規格を、その名の通り[シリアル化したものである](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SASHardDriveComparsion.jpg "wikilink") **Serial Attached SCSI**（**SAS**; サス）は、[コンピュータ](../Page/コンピュータ.md "wikilink")に[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")等のデバイスを接続するための[インターフェースである](../Page/インタフェース_\(情報技術\).md "wikilink")。[SCSI規格の一種であり](../Page/Small_Computer_System_Interface.md "wikilink")、それまでは[パラレル](../Page/パラレル.md "wikilink")伝送であったSCSI規格を、その名の通り[シリアル化したものである](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")。
 
 "Ultra-320 SCSI"の後継にあたる規格であり、パラレルSCSI同様、[サーバ](../Page/サーバ.md "wikilink")マシン用HDDの接続に用いられることが主体である。コンシューマ向けには[シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")の方がよく使われている。
 
@@ -15,7 +15,7 @@
 
 ## 特徴
 
-[コネクタ](https://ja.wikipedia.org/wiki/コネクタ "wikilink")の形状は[SATAとの互換性があり](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")、SATA規格のデバイスをそのままSASコネクタに嵌合することが可能である（通信が成立するか否かは別問題）。ただしその逆の、SATAインターフェースにSASデバイスを嵌合することは不可能である。
+[コネクタ](../Page/コネクタ.md "wikilink")の形状は[SATAとの互換性があり](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")、SATA規格のデバイスをそのままSASコネクタに嵌合することが可能である（通信が成立するか否かは別問題）。ただしその逆の、SATAインターフェースにSASデバイスを嵌合することは不可能である。
 
 従来のパラレルSCSIと比べてコネクタのサイズが小さくできたため、サーバー用途で望まれていたHDDの小型化が実現でき、SCSI-HDDのサイズがそれまでの3.5インチから2.5インチへと主流サイズが移行しつつある\[4\]。
 
@@ -48,7 +48,7 @@
 
 ## SAS Expander
 
-SASポート数以上のデバイスを接続可能にするためのもの。主な機能は[LANや](../Page/Local_Area_Network.md "wikilink")[USBの](../Page/ユニバーサル・シリアル・バス.md "wikilink")[ハブのようなものであるが](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")、それらに加えてSAS Expanderを多重化する等のことが可能である。
+SASポート数以上のデバイスを接続可能にするためのもの。主な機能は[LANや](../Page/Local_Area_Network.md "wikilink")[USBの](../Page/ユニバーサル・シリアル・バス.md "wikilink")[ハブのようなものであるが](../Page/ハブ_\(ネットワーク機器\).md "wikilink")、それらに加えてSAS Expanderを多重化する等のことが可能である。
 
 ## 脚注・出典
 

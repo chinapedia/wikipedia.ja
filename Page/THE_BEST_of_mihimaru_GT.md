@@ -1,14 +1,14 @@
 > この記事は[THE BEST of mihimaru GT](https://ja.wikipedia.org/wiki/THE_BEST_of_mihimaru_GT)から翻訳されています。
 
 
-『**THE BEST of mihimaru GT**』（ザ・ベスト・オブ・ミヒマル・ジーティー）は、[mihimaru GT初の](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**THE BEST of mihimaru GT**』（ザ・ベスト・オブ・ミヒマル・ジーティー）は、[mihimaru GT初の](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
   - デビュー[シングル](../Page/シングル.md "wikilink")「[約束](../Page/約束_\(mihimaru_GTの曲\).md "wikilink")」から最新シングル「[パンキッシュ☆](../Page/パンキッシュ☆.md "wikilink")」まですべてのシングル曲など16曲を収録したベストアルバム（ただし両A面の「[So Merry Christmas](https://ja.wikipedia.org/wiki/H.P.S.J.-mihimaru_Ball_MIX-/So_Merry_Christmas "wikilink")」は収録されていない）。曲順は発売順ではなく、mihimaru GT入門編として聴きやすい順番になっている。このうち「[帰ろう歌](../Page/帰ろう歌.md "wikilink")」は「-TAKE 07-」としてリテイクしている。初回盤には[PVやそのメイキングを収録した](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")[DVD](../Page/DVD.md "wikilink")つき。
   - ジャケット写真には珍しくmiyakeが大きく写っているが、ピントはhirokoに合わせている。hirokoがスパナを持っているのは、mihimaru GTを作り上げているというイメージからである。また初回盤と通常盤のジャケットを左右に合わせると、miyakeの顔がつながるようになっている。
-  - ちなみに、mihimaru GTのアルバム名はこれまで「mihima-」で始まっていたので、このアルバムのタイトル候補に「mihimaru GoTo（ミヒマルゴト）」があったとhirokoが語っている（[JAPAN COUNTDOWNより](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")）。
-  - シングル・アルバム通じ、グループ初となる[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。また売り上げも初めて40万枚を超え、自身最大のヒットとなった。台湾のチャートでも、日本・韓国部門で初登場以来4週連続で1位を獲得した。
+  - ちなみに、mihimaru GTのアルバム名はこれまで「mihima-」で始まっていたので、このアルバムのタイトル候補に「mihimaru GoTo（ミヒマルゴト）」があったとhirokoが語っている（[JAPAN COUNTDOWNより](../Page/JAPAN_COUNTDOWN.md "wikilink")）。
+  - シングル・アルバム通じ、グループ初となる[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。また売り上げも初めて40万枚を超え、自身最大のヒットとなった。台湾のチャートでも、日本・韓国部門で初登場以来4週連続で1位を獲得した。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 4.  **[いつまでも響くこのmelody](https://ja.wikipedia.org/wiki/いつまでも響くこのmelody/マジカルスピーカー "wikilink")**
       -
         11thシングル「いつまでも響くこのmelody／マジカルスピーカー」の1曲目。
-5.  **[気分上々↑↑](https://ja.wikipedia.org/wiki/気分上々↑↑ "wikilink")**
+5.  **[気分上々↑↑](../Page/気分上々↑↑.md "wikilink")**
       -
         9thシングル。
 6.  **[パンキッシュ☆](../Page/パンキッシュ☆.md "wikilink")**
@@ -42,7 +42,7 @@
 10. '''[H.P.S.J. -mihimaru Ball MIX-](https://ja.wikipedia.org/wiki/H.P.S.J.-mihimaru_Ball_MIX-/So_Merry_Christmas "wikilink")
       -
         4thシングル「H.P.S.J.-mihimaru Ball MIX-／So Merry Christmas」の1曲目。アルバム初収録となったシングルバージョン。元々1stアルバム「[mihimarhythm](https://ja.wikipedia.org/wiki/mihimarhythm "wikilink")」に収録されたこの曲をリミックスして、シングルカットされた。
-11. **[ツヨクツヨク](https://ja.wikipedia.org/wiki/ツヨクツヨク "wikilink")**
+11. **[ツヨクツヨク](../Page/ツヨクツヨク.md "wikilink")**
       -
         10thシングル。
 12. **[マジカルスピーカー](https://ja.wikipedia.org/wiki/いつまでも響くこのmelody/マジカルスピーカー "wikilink")**
@@ -50,7 +50,7 @@
         11thシングル「いつまでも響くこのmelody／マジカルスピーカー」の2曲目。
 13. **[かけがえのない詩](../Page/かけがえのない詩.md "wikilink")（うた）**
       -
-        12thシングル。アルバム初収録曲。映画「[ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](https://ja.wikipedia.org/wiki/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜 "wikilink")」の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+        12thシングル。アルバム初収録曲。映画「[ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜](../Page/ドラえもん_のび太の新魔界大冒険_〜7人の魔法使い〜.md "wikilink")」の[主題歌](../Page/主題歌.md "wikilink")。
 14. **[願〜negai〜](../Page/願〜negai〜.md "wikilink")**
       -
         3rdシングル。
@@ -65,7 +65,7 @@
 
   - かけがえのない詩（うた） (Promotion Video)
   - 帰ろう歌 -TAKE 07- (Promotion Video)
-      - カメラを止めずに連続して撮影。撮影場所は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")にある[大慶園](https://ja.wikipedia.org/wiki/大慶園 "wikilink")。
+      - カメラを止めずに連続して撮影。撮影場所は[千葉県](../Page/千葉県.md "wikilink")にある[大慶園](https://ja.wikipedia.org/wiki/大慶園 "wikilink")。
   - Future Language -Making-
       - 初ステージを行ったという思い出のクラブで撮影。映像は当時の再現をしたもので、デビュー前の貴重な映像も冒頭に流れる。
   - Future Language (Promotion Video)

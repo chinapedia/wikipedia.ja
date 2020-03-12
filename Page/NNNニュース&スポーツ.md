@@ -1,11 +1,11 @@
 > この記事は[NNN\&](https://ja.wikipedia.org/wiki/NNN\&)から翻訳されています。
 
 
-『**NNNニュース&スポーツ**』（エヌエヌエヌニュースアンドスポーツ）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で、『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』や『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』、『[真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")』や『[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")』などがスポーツ中継に伴い休止となった場合や、[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")に放送される代替の[報道](../Page/報道番組.md "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
+『**NNNニュース&スポーツ**』（エヌエヌエヌニュースアンドスポーツ）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で、『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』や『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』、『[真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")』や『[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")』などがスポーツ中継に伴い休止となった場合や、[年末年始](../Page/年末年始.md "wikilink")に放送される代替の[報道](../Page/報道番組.md "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
 
 ## 概要
 
-2006年6月16日・23日・24日（以上は[2006 FIFAワールドカップ中継](../Page/2006_FIFAワールドカップ.md "wikilink")）、8月7日（[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")中継）に放送。以降は年末年始に放送、12月31日分の放送はない。2007年は、9月8日にも放送した（[ラグビーワールドカップ2007](https://ja.wikipedia.org/wiki/ラグビーワールドカップ2007 "wikilink")中継のため）。年末年始以外では[最終ニュースと](https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠 "wikilink")[スポーツニュースが休止されるときに放送されることがある](https://ja.wikipedia.org/wiki/日本テレビ系列スポーツニュース枠 "wikilink")。
+2006年6月16日・23日・24日（以上は[2006 FIFAワールドカップ中継](../Page/2006_FIFAワールドカップ.md "wikilink")）、8月7日（[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")中継）に放送。以降は年末年始に放送、12月31日分の放送はない。2007年は、9月8日にも放送した（[ラグビーワールドカップ2007](../Page/ラグビーワールドカップ2007.md "wikilink")中継のため）。年末年始以外では[最終ニュースと](https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠 "wikilink")[スポーツニュースが休止されるときに放送されることがある](https://ja.wikipedia.org/wiki/日本テレビ系列スポーツニュース枠 "wikilink")。
 
 『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』は年末年始にも放送されていたが、2006年9月の放送終了に伴い、年末年始は別番組を編成する事となった。また、毎年ではないが夕方にも編成する事がある。
 
@@ -31,7 +31,7 @@
       - 6月16日、23日、24日[Ｗ杯2006中継のため](../Page/2006_FIFAワールドカップ.md "wikilink")\[1\]。
       - 8月7日　[U-21サッカー日本代表](https://ja.wikipedia.org/wiki/U-23サッカー日本代表 "wikilink")\[2\]の試合を放送したため。
   - 2007年
-      - 9月9日(8日深夜)[ラグビーW杯中継のため](https://ja.wikipedia.org/wiki/ラグビーワールドカップ2007 "wikilink")。
+      - 9月9日(8日深夜)[ラグビーW杯中継のため](../Page/ラグビーワールドカップ2007.md "wikilink")。
   - 2014年
       - 2月11日(10日深夜)、13日(12日深夜)[ソチ五輪中継のため](https://ja.wikipedia.org/wiki/2014年ソチオリンピック "wikilink")。
   - 2016年
@@ -46,9 +46,9 @@
 
 <!-- end list -->
 
-  - 2006年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")・[30日](../Page/12月30日.md "wikilink")、2007年[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - 3日
+  - 2006年[12月29日](../Page/12月29日.md "wikilink")・[30日](../Page/12月30日.md "wikilink")、2007年[1月1日](../Page/1月1日.md "wikilink") - 3日
   - 2007年12月29日・30日、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月1日 - [4日](../Page/1月4日.md "wikilink")
-  - [藤井恒久](https://ja.wikipedia.org/wiki/藤井恒久 "wikilink")がスポーツを担当（2007年始、2008年始）。
+  - [藤井恒久](../Page/藤井恒久.md "wikilink")がスポーツを担当（2007年始、2008年始）。
 
 ●の日は夕方、最終の2回放送。同一のキャスターが兼務。 ◯の日は夕方のみ放送。
 
@@ -113,7 +113,7 @@
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li>1月3日を除きニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>1月3日を除きニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -177,7 +177,7 @@
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li>12月31日、1月2・3日を除きニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月31日、1月2・3日を除きニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -211,7 +211,7 @@
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li>12月29日、1月1日は、ニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月29日、1月1日は、ニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -245,7 +245,7 @@
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li>12月30日、1月1日は、ニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月30日、1月1日は、ニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -282,7 +282,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li>12月28日は、<a href="https://ja.wikipedia.org/wiki/真相報道バンキシャ!" title="wikilink">真相報道バンキシャ!</a>内の最新ニュースコーナーを、1月1日は、ニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月28日は、<a href="https://ja.wikipedia.org/wiki/真相報道バンキシャ!" title="wikilink">真相報道バンキシャ!</a>内の最新ニュースコーナーを、1月1日は、ニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -322,7 +322,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li>12月26日は、<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news everyサタデーを</a>、12月27日は、<a href="https://ja.wikipedia.org/wiki/真相報道バンキシャ!" title="wikilink">真相報道バンキシャ!</a>内の最新ニュースコーナーを、12月28日の両方と1月1日のニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月26日は、<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news everyサタデーを</a>、12月27日は、<a href="https://ja.wikipedia.org/wiki/真相報道バンキシャ!" title="wikilink">真相報道バンキシャ!</a>内の最新ニュースコーナーを、12月28日の両方と1月1日のニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -362,7 +362,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li>12月26日 - 29日のニュースキャスターは、<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news everyを</a>、1月1日のニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月26日 - 29日のニュースキャスターは、<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news everyを</a>、1月1日のニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -397,7 +397,7 @@
 <td><p><small></p>
 <ul>
 <li>12月28日のキャスターはいずれも<a href="https://ja.wikipedia.org/wiki/news_zero" title="wikilink">通常編成時の番組に出演するキャスター</a>（ラルフは当時）。</li>
-<li>1月1日のニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>1月1日のニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -431,7 +431,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li>12月29日、1月1日のニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月29日、1月1日のニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -465,7 +465,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li>12月30日、1月1日のニュースキャスターは夕方の『<a href="https://ja.wikipedia.org/wiki/NNNニュース" title="wikilink">NNNニュース</a>』を兼務。</li>
+<li>12月30日、1月1日のニュースキャスターは夕方の『<a href="../Page/NNNニュース.md" title="wikilink">NNNニュース</a>』を兼務。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -479,7 +479,7 @@
 ## 関連項目
 
   - [NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")
-  - [NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")
+  - [NNNニュース](../Page/NNNニュース.md "wikilink")
   - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")
   - [news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")
   - [真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")
@@ -487,7 +487,7 @@
       - 江川×堀尾のSUPERうるぐす（放送終了）
       - [スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")（放送終了）
   - [NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")（放送終了）
-  - [スポんちゅ](https://ja.wikipedia.org/wiki/スポんちゅ "wikilink")・大スポんちゅ（放送終了）
+  - [スポんちゅ](../Page/スポんちゅ.md "wikilink")・大スポんちゅ（放送終了）
 
 ## 脚注
 

@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - 当初はCROSS FMの深夜番組として登場、[ナビゲーターが曲を紹介する音楽番組としてスタートした](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。
-  - その後、2時間の[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")番組に変更となったが、年2回行われるリスナー感謝キャンペーン時は特別番組として、[ナビゲーターが各担当番組の裏番組的な企画で登場した](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。
+  - 当初はCROSS FMの深夜番組として登場、[ナビゲーターが曲を紹介する音楽番組としてスタートした](../Page/ディスクジョッキー.md "wikilink")。
+  - その後、2時間の[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")番組に変更となったが、年2回行われるリスナー感謝キャンペーン時は特別番組として、[ナビゲーターが各担当番組の裏番組的な企画で登場した](../Page/ディスクジョッキー.md "wikilink")。
   - オンエアされた曲目について、希望したリスナーにリストを送ったり、電話で問い合わせを受け付けたりしていた時期もあった。
-  - [2001年](../Page/2001年.md "wikilink")3月番組終了、この時間は「**CROSS MIDNIGHT FLAVA**」に引き継がれたが、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで27:00〜28:00の1時間番組として復活した。
+  - [2001年](../Page/2001年.md "wikilink")3月番組終了、この時間は「**CROSS MIDNIGHT FLAVA**」に引き継がれたが、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで27:00〜28:00の1時間番組として復活した。
 
 ## 番組の変遷
 
@@ -144,7 +144,7 @@
 <!-- end list -->
 
   -
-    [ナビゲーターやスタッフが選曲した音楽を紹介する音楽番組](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")。
+    [ナビゲーターやスタッフが選曲した音楽を紹介する音楽番組](../Page/ディスクジョッキー.md "wikilink")。
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 <!-- end list -->
 
   -
-    [鶴田弥生](https://ja.wikipedia.org/wiki/鶴田弥生 "wikilink") (月)
+    [鶴田弥生](../Page/鶴田弥生.md "wikilink") (月)
     [松本みき](https://ja.wikipedia.org/wiki/松本みき "wikilink") (火)
     [JUNKO](https://ja.wikipedia.org/wiki/JUNKO "wikilink") (水)
     [木本和久](../Page/木本和久.md "wikilink") (木)
@@ -162,23 +162,23 @@
 
   - 録音だよ！3人集合！
 
-1997年12月、1998年[6月4日](../Page/6月4日.md "wikilink")の2回放送。「CROSS FM BIG BANG WEEK」と題したリスナー感謝キャンペーン時の特別企画。[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")の3人が[フジテレビの番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ライオンのごきげんよう](https://ja.wikipedia.org/wiki/ライオンのごきげんよう "wikilink")」での人気コーナー**サイコロトーク**を展開した。第1回目ではラインアナの奥津ふみこ、第2回目では奥津ふみこと園田静香がゲストとして出演した。
+1997年12月、1998年[6月4日](../Page/6月4日.md "wikilink")の2回放送。「CROSS FM BIG BANG WEEK」と題したリスナー感謝キャンペーン時の特別企画。[中島ヒロト](../Page/中島ヒロト.md "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](../Page/永松ケンシ.md "wikilink")の3人が[フジテレビの番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ライオンのごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")」での人気コーナー**サイコロトーク**を展開した。第1回目ではラインアナの奥津ふみこ、第2回目では奥津ふみこと園田静香がゲストとして出演した。
 
   - 録音だよ！4人集合！
 
-1998年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")放送。「CROSS FM MEGA PEACE WEEK」と題したリスナー感謝キャンペーン時の特別企画。[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")の3人に[YUYA](https://ja.wikipedia.org/wiki/YUYA "wikilink")が加わり、「世紀末」をテーマにトークを展開した。番組後半では[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")がゲストとして出演した。
+1998年[12月10日](../Page/12月10日.md "wikilink")放送。「CROSS FM MEGA PEACE WEEK」と題したリスナー感謝キャンペーン時の特別企画。[中島ヒロト](../Page/中島ヒロト.md "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](../Page/永松ケンシ.md "wikilink")の3人に[YUYA](../Page/YUYA.md "wikilink")が加わり、「世紀末」をテーマにトークを展開した。番組後半では[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")がゲストとして出演した。
 
   - 裏ソニック
 
-1998年[12月11日](../Page/12月11日.md "wikilink")放送。「CROSS FM MEGA PEACE WEEK」と題したリスナー感謝キャンペーン時の特別企画で、名前通り当時放送されていた「[SONIC A-GO-GO\!\!](https://ja.wikipedia.org/wiki/SONIC_A-GO-GO!! "wikilink")」の裏番組。同番組のナビゲーター[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")とディレクターの[田中ゆき](https://ja.wikipedia.org/wiki/田中ゆき "wikilink")がそれぞれ選曲した音楽を紹介しながらトークを展開した。
+1998年[12月11日](../Page/12月11日.md "wikilink")放送。「CROSS FM MEGA PEACE WEEK」と題したリスナー感謝キャンペーン時の特別企画で、名前通り当時放送されていた「[SONIC A-GO-GO\!\!](../Page/SONIC_A-GO-GO!!.md "wikilink")」の裏番組。同番組のナビゲーター[中島ヒロト](../Page/中島ヒロト.md "wikilink")とディレクターの[田中ゆき](https://ja.wikipedia.org/wiki/田中ゆき "wikilink")がそれぞれ選曲した音楽を紹介しながらトークを展開した。
 
   - 録音だよ！6人集合！
 
-1999年[6月10日](../Page/6月10日.md "wikilink")放送。「CROSS FM MEGA PEACE WEEK」と題したリスナー感謝キャンペーン時の特別企画。[中島ヒロト](https://ja.wikipedia.org/wiki/中島ヒロト "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")、[YUYA](https://ja.wikipedia.org/wiki/YUYA "wikilink")、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")の5人が前述のサイコロトークを展開した。なおこの回では[門司正弘](https://ja.wikipedia.org/wiki/門司正弘 "wikilink")がジングルを担当した（本人は本編に登場せず）ため、「6人集合」というタイトルになった。
+1999年[6月10日](../Page/6月10日.md "wikilink")放送。「CROSS FM MEGA PEACE WEEK」と題したリスナー感謝キャンペーン時の特別企画。[中島ヒロト](../Page/中島ヒロト.md "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[永松ケンシ](../Page/永松ケンシ.md "wikilink")、[YUYA](../Page/YUYA.md "wikilink")、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")の5人が前述のサイコロトークを展開した。なおこの回では[門司正弘](https://ja.wikipedia.org/wiki/門司正弘 "wikilink")がジングルを担当した（本人は本編に登場せず）ため、「6人集合」というタイトルになった。
 
   - 録音だよ！7人集合！
 
-1999年[6月11日](../Page/6月11日.md "wikilink")放送。前日の「6人集合」の後編。なおこの回では[信川竜太](https://ja.wikipedia.org/wiki/信川竜太 "wikilink")がジングルを担当した（本人は本編に登場せず）ため、「7人集合」というタイトルになった。またラインアナの奥津ふみこもゲスト出演した。なおこの企画はその次のリスナー感謝キャンペーンが行われる同年12月にも放送される予定だったが、ナビゲーターのスケジュールの都合と、そのキャンペーン「CROSS FM MEGA PEACE WEEK 2000」での「キャンペーン期間中に2000曲をオンエアする」の消化（最終的には2000曲オンエア達成がキャンペーン最終日の前日深夜になった）のため放送されず、翌年の改編で中島ヒロトが同局を離れてしまったため、この企画はこれが最後となった。
+1999年[6月11日](../Page/6月11日.md "wikilink")放送。前日の「6人集合」の後編。なおこの回では[信川竜太](../Page/信川竜太.md "wikilink")がジングルを担当した（本人は本編に登場せず）ため、「7人集合」というタイトルになった。またラインアナの奥津ふみこもゲスト出演した。なおこの企画はその次のリスナー感謝キャンペーンが行われる同年12月にも放送される予定だったが、ナビゲーターのスケジュールの都合と、そのキャンペーン「CROSS FM MEGA PEACE WEEK 2000」での「キャンペーン期間中に2000曲をオンエアする」の消化（最終的には2000曲オンエア達成がキャンペーン最終日の前日深夜になった）のため放送されず、翌年の改編で中島ヒロトが同局を離れてしまったため、この企画はこれが最後となった。
 
   - 7TH ANNIVERSARY 前夜祭
 

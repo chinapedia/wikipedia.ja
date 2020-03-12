@@ -7,7 +7,7 @@
 
   - **ゆかり**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
   - **みうみ**（ボーカル）
-  - **たかし**（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"))
+  - **たかし**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink"))
       - 現在は[ナミダ色☆妄想癖](https://ja.wikipedia.org/wiki/ナミダ色☆妄想癖 "wikilink")で活動中。
   - **しょう**（[ドラム](../Page/ドラムセット.md "wikilink")）
 
@@ -24,9 +24,9 @@
 
 結成当初より[オリエンタルな要素をコンセプトとしており](../Page/東洋.md "wikilink")、「上海」という曲が出来たのをきっかけに、歌詞の中にも中国語などが存在するようになった。
 
-2001年、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でのNGO主催のイベントに参加。この出演がきっかけとなり、同世代の[韓国や台湾のバンドとの交流がスタート](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")。その後連絡を取り合いながら、再度台湾や韓国でのライブを行うようになった。
+2001年、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でのNGO主催のイベントに参加。この出演がきっかけとなり、同世代の[韓国や台湾のバンドとの交流がスタート](../Page/大韓民国.md "wikilink")。その後連絡を取り合いながら、再度台湾や韓国でのライブを行うようになった。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月13日](../Page/6月13日.md "wikilink")、シングル「[さくら](https://ja.wikipedia.org/wiki/さくら_\(熊猫xiongmaoの曲\) "wikilink")」で[ユニバーサルミュージックよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。表題曲である「さくら」は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[ドラマ24](https://ja.wikipedia.org/wiki/ドラマ24 "wikilink")『[エリートヤンキー三郎](https://ja.wikipedia.org/wiki/エリートヤンキー三郎 "wikilink")』のオープニング・テーマになっている。この曲はそれ以前の2005年、[NACK5の番組](../Page/エフエムナックファイブ.md "wikilink")『MUSIC CHALLENGER』においてグランプリを獲得した楽曲であり、デビューシングルとして出すにあたり、リアレンジが施された。プロデューサーには[シライシ紗トリ](https://ja.wikipedia.org/wiki/シライシ紗トリ "wikilink")を起用した。
+[2007年](../Page/2007年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")、シングル「[さくら](https://ja.wikipedia.org/wiki/さくら_\(熊猫xiongmaoの曲\) "wikilink")」で[ユニバーサルミュージックよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。表題曲である「さくら」は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[ドラマ24](../Page/ドラマ24.md "wikilink")『[エリートヤンキー三郎](https://ja.wikipedia.org/wiki/エリートヤンキー三郎 "wikilink")』のオープニング・テーマになっている。この曲はそれ以前の2005年、[NACK5の番組](../Page/エフエムナックファイブ.md "wikilink")『MUSIC CHALLENGER』においてグランプリを獲得した楽曲であり、デビューシングルとして出すにあたり、リアレンジが施された。プロデューサーには[シライシ紗トリ](../Page/シライシ紗トリ.md "wikilink")を起用した。
 
 2008年1月より、ゆかりとみうみがレギュラーのバラエティ番組『￥0TV！うた力の旅』がスタート。「うたの力だけで東北を旅する音楽バラエティ」をコンセプトとしている。
 

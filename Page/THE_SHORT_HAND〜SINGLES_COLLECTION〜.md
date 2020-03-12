@@ -1,13 +1,13 @@
 > この記事は[THE SHORT HANDSINGLES COLLECTION](https://ja.wikipedia.org/wiki/THE_SHORT_HANDSINGLES_COLLECTION)から翻訳されています。
 
 
-『**THE SHORT HAND〜SINGLES COLLECTION〜**』（ザ ショート ハンド シングルス コレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の1枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**THE SHORT HAND〜SINGLES COLLECTION〜**』（ザ ショート ハンド シングルス コレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](../Page/SOPHIA.md "wikilink")の1枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 
   - 本作品は[2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりリリースされた。全14曲収録。
   - SOPHIA史上初のベスト・アルバムとなった。オリコン初登場は第3位。
-  - 同時発売で『[THE LONG HAND〜MEMBER'S SELECTION〜](https://ja.wikipedia.org/wiki/THE_LONG_HAND〜MEMBER'S_SELECTION〜 "wikilink")』をリリースした。
+  - 同時発売で『[THE LONG HAND〜MEMBER'S SELECTION〜](../Page/THE_LONG_HAND〜MEMBER'S_SELECTION〜.md "wikilink")』をリリースした。
   - THE SHORT HANDとは[時計](../Page/時計.md "wikilink")の短針を意味する。
   - 先行シングル『[Thank you](https://ja.wikipedia.org/wiki/Thank_you_\(SOPHIAの曲\) "wikilink")』からのベスト・アルバムのリリースなので、[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")するのかと一部で言われた。
   - これまでシングルを17枚リリースしたが、アルバム『[進化論](../Page/進化論_\(SOPHIAのアルバム\).md "wikilink")』収録のシングル「[OAR](https://ja.wikipedia.org/wiki/OAR_\(SOPHIAの曲\) "wikilink")」「[walk](https://ja.wikipedia.org/wiki/walk_\(SOPHIAの曲\) "wikilink")」「[進化論 〜GOOD MORNING\! -HELLO\! 21st-CENTURY〜](https://ja.wikipedia.org/wiki/進化論_〜GOOD_MORNING!_-HELLO!_21st-CENTURY〜 "wikilink")」は『THE LONG HAND』の方に収録されている。

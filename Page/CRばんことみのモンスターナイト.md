@@ -1,11 +1,11 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRばんことみのモンスターナイト**（表記機種名「ばんことみのMONSTER NIGHT」）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月にアビリット（後の[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
+**CRばんことみのモンスターナイト**（表記機種名「ばんことみのMONSTER NIGHT」）は、[2006年](../Page/2006年.md "wikilink")10月にアビリット（後の[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
 
 ## 概要
 
-[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")との共同企画によって発売された[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機でタレント、[ばんことみ](https://ja.wikipedia.org/wiki/番ことみ "wikilink")（以下ばん）とのタイアップ機。ばんは当機リリースを契機に芸名を「番ことみ」から「ばんことみ」に変更している（2007年12月まで）。また、当機発売以降もアビリット関係のキャンペーンガールとしてイベント出演することが多く、当機の「1」（ウルフ）図柄のコスプレでの出演はお約束となりつつある。 当機では表示器として『[CR海童くん](https://ja.wikipedia.org/wiki/CR海童くん "wikilink")』にて初めて採用された透過型液晶を搭載しており、液晶表示パネルの背後に「フランケン」役物が設置してあり、普段は見えないが演出の一部として現れるようになっている。
+[ホリプロ](../Page/ホリプロ.md "wikilink")との共同企画によって発売された[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機でタレント、[ばんことみ](../Page/番ことみ.md "wikilink")（以下ばん）とのタイアップ機。ばんは当機リリースを契機に芸名を「番ことみ」から「ばんことみ」に変更している（2007年12月まで）。また、当機発売以降もアビリット関係のキャンペーンガールとしてイベント出演することが多く、当機の「1」（ウルフ）図柄のコスプレでの出演はお約束となりつつある。 当機では表示器として『[CR海童くん](https://ja.wikipedia.org/wiki/CR海童くん "wikilink")』にて初めて採用された透過型液晶を搭載しており、液晶表示パネルの背後に「フランケン」役物が設置してあり、普段は見えないが演出の一部として現れるようになっている。
 
 ## 特徴
 

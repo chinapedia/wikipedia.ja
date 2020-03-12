@@ -1,9 +1,9 @@
 > この記事は[OA](https://ja.wikipedia.org/wiki/OA)から翻訳されています。
 
 
-**オーティス・アデルバート・クライン**（**Otis Adelbert Kline**、[1891年](../Page/1891年.md "wikilink") - [1946年](../Page/1946年.md "wikilink")）は、[パルプ・マガジン](https://ja.wikipedia.org/wiki/パルプ・マガジン "wikilink")全盛期に活躍した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")、[冒険小説](../Page/冒険小説.md "wikilink")家、[著作権エージェント](https://ja.wikipedia.org/wiki/著作権エージェント "wikilink")。ただし2009年9月現在、日本語訳されている作品は『火星の無法者』と『火星の黄金仮面』の2作しかない。
+**オーティス・アデルバート・クライン**（**Otis Adelbert Kline**、[1891年](../Page/1891年.md "wikilink") - [1946年](../Page/1946年.md "wikilink")）は、[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")全盛期に活躍した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、[冒険小説](../Page/冒険小説.md "wikilink")家、[著作権エージェント](https://ja.wikipedia.org/wiki/著作権エージェント "wikilink")。ただし2009年9月現在、日本語訳されている作品は『火星の無法者』と『火星の黄金仮面』の2作しかない。
 
-作品の多くは、パルプ雑誌「[ウィアード・テイルズ](https://ja.wikipedia.org/wiki/ウィアード・テイルズ "wikilink")(Weird Tales)」に発表された。
+作品の多くは、パルプ雑誌「[ウィアード・テイルズ](../Page/ウィアード・テイルズ.md "wikilink")(Weird Tales)」に発表された。
 
 ## バローズとの確執
 
@@ -13,7 +13,7 @@
 
 ## ハワードとの交友
 
-[1930年代](../Page/1930年代.md "wikilink")半ばからクラインは、友人であった[ロバート・E・ハワード](https://ja.wikipedia.org/wiki/ロバート・E・ハワード "wikilink")の著作権エージェントとしての職に集中するために、執筆活動をやめている。
+[1930年代](../Page/1930年代.md "wikilink")半ばからクラインは、友人であった[ロバート・E・ハワード](../Page/ロバート・E・ハワード.md "wikilink")の著作権エージェントとしての職に集中するために、執筆活動をやめている。
 
 クラインはこの職に、[1933年](../Page/1933年.md "wikilink")春から、ハワードが死ぬ[1936年](../Page/1936年.md "wikilink")6月まで従事し、更にその後は彼の遺産管理者を務めた。
 
@@ -32,7 +32,7 @@
 
 :\*『火星の無法者』 （1967年、[久保書店QTブックス](https://ja.wikipedia.org/wiki/久保書店QTブックス "wikilink")、[井上一夫](https://ja.wikipedia.org/wiki/井上一夫 "wikilink")訳）
 
-:\*『火星の黄金仮面』 （1978年、[創元SF文庫](https://ja.wikipedia.org/wiki/創元SF文庫 "wikilink")、井上一夫訳、[武部本一郎](https://ja.wikipedia.org/wiki/武部本一郎 "wikilink")画）
+:\*『火星の黄金仮面』 （1978年、[創元SF文庫](../Page/創元SF文庫.md "wikilink")、井上一夫訳、[武部本一郎](../Page/武部本一郎.md "wikilink")画）
 
 ### その他
 

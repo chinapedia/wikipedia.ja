@@ -5,11 +5,11 @@
 
 ## 来歴
 
-父親は[心理学者](../Page/心理学者.md "wikilink")、母親は[弁護士](../Page/弁護士.md "wikilink")\[1\]。ユダヤ系\[2\]。両親は離婚し、母親と同居した。5歳から[CM出演などを経て映画の](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")などで活躍している。映画デビュー作は1996年、[ミシェル・ファイファー](https://ja.wikipedia.org/wiki/ミシェル・ファイファー "wikilink")の息子役として出演した『[素晴らしき日](https://ja.wikipedia.org/wiki/素晴らしき日 "wikilink")』。ロサンゼルスのアレクサンダーハミルトン高校を卒業し、2011年に[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")を卒業している。
+父親は[心理学者](../Page/心理学者.md "wikilink")、母親は[弁護士](../Page/弁護士.md "wikilink")\[1\]。ユダヤ系\[2\]。両親は離婚し、母親と同居した。5歳から[CM出演などを経て映画の](../Page/コマーシャルメッセージ.md "wikilink")[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")などで活躍している。映画デビュー作は1996年、[ミシェル・ファイファー](../Page/ミシェル・ファイファー.md "wikilink")の息子役として出演した『[素晴らしき日](https://ja.wikipedia.org/wiki/素晴らしき日 "wikilink")』。ロサンゼルスのアレクサンダーハミルトン高校を卒業し、2011年に[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")を卒業している。
 
 ## おもな出演作品
 
-  - [プロビデンス](https://ja.wikipedia.org/wiki/プロビデンス_\(テレビドラマ\) "wikilink") *Providence* (1999-2002) テレビドラマシリーズ
+  - [プロビデンス](../Page/プロビデンス_\(テレビドラマ\).md "wikilink") *Providence* (1999-2002) テレビドラマシリーズ
 
 <table>
 <caption>映画/アニメ映画</caption>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ケーブルガイ" title="wikilink">ケーブルガイ</a> The Cable Guy</em></p></td>
+<td><p><em><a href="../Page/ケーブルガイ.md" title="wikilink">ケーブルガイ</a> The Cable Guy</em></p></td>
 <td><p>トニー</p></td>
 <td><p>クレジットされていない</p></td>
 </tr>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ターザン_(1999年の映画)" title="wikilink">ターザン</a> Tarzan</em></p></td>
+<td><p><em><a href="../Page/ターザン_(1999年の映画).md" title="wikilink">ターザン</a> Tarzan</em></p></td>
 <td><p>５歳のターザン(声の出演)</p></td>
 <td></td>
 </tr>
@@ -131,7 +131,7 @@ Race to Space</em></p></td>
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/レッド・ドラゴン_(映画)" title="wikilink">レッド・ドラゴン</a></em></p></td>
+<td><p><em><a href="../Page/レッド・ドラゴン_(映画).md" title="wikilink">レッド・ドラゴン</a></em></p></td>
 <td><p>幼いフランシス・ダラハイド<br />
 (声の出演)</p></td>
 <td></td>

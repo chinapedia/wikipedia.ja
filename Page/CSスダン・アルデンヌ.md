@@ -1,13 +1,13 @@
 > この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
 
 
-**クルブ・スポルティフ・スダン・アルデンヌ**（**Club Sportif Sedan Ardennes**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[スダン](https://ja.wikipedia.org/wiki/スダン "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**クルブ・スポルティフ・スダン・アルデンヌ**（**Club Sportif Sedan Ardennes**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[スダン](../Page/スダン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
-1919年創設。1956年と1961年には[カップタイトルを獲得しており](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")、近年でも1999年と2005年に決勝進出を果たした。しかし[リーグでは低迷](../Page/リーグ・アン.md "wikilink")。2003年および2007年に1部から降格し、定着できないでいる。
+1919年創設。1956年と1961年には[カップタイトルを獲得しており](../Page/クープ・ドゥ・フランス.md "wikilink")、近年でも1999年と2005年に決勝進出を果たした。しかし[リーグでは低迷](../Page/リーグ・アン.md "wikilink")。2003年および2007年に1部から降格し、定着できないでいる。
 
 2012年に財政破綻し、フランスアマチュア選手権（5部）へ降格処分となった。その後[サウジアラビア](../Page/サウジアラビア.md "wikilink")のファハド王子がクラブに投資をするなど、経営は持ち直しつつある。
 
-チームの愛称*Les Sangliers*はスダンの属する[アルデンヌ](https://ja.wikipedia.org/wiki/アルデンヌ "wikilink")地方の象徴であるイノシシを意味し、赤と緑を主体としたクラブロゴにもその姿が反映されている。
+チームの愛称*Les Sangliers*はスダンの属する[アルデンヌ](../Page/アルデンヌ.md "wikilink")地方の象徴であるイノシシを意味し、赤と緑を主体としたクラブロゴにもその姿が反映されている。
 
 なお、背番号29はかつてチームに在籍し、心臓麻痺により26歳で死去した[ダヴィド・ディ・トマソ](https://ja.wikipedia.org/wiki/ダヴィド・ディ・トマソ "wikilink")を偲んで、永久欠番となっている。
 
@@ -19,12 +19,12 @@
 
   -   - 1954-55
 
-\*; [カップ](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")：2回
+\*; [カップ](../Page/クープ・ドゥ・フランス.md "wikilink")：2回
 
   -   - 1955-56
       - 1960-61
 
-\*; [スーパーカップ](https://ja.wikipedia.org/wiki/トロフェ・デ・シャンピオン "wikilink")：1回
+\*; [スーパーカップ](../Page/トロフェ・デ・シャンピオン.md "wikilink")：1回
 
   -   - 1956
 
@@ -60,7 +60,7 @@
 
 ## 歴代監督
 
-  - [ブルーノ・メツ](https://ja.wikipedia.org/wiki/ブルーノ・メツ "wikilink") 1995-1998
+  - [ブルーノ・メツ](../Page/ブルーノ・メツ.md "wikilink") 1995-1998
 
   - [パトリック・レミー](https://ja.wikipedia.org/wiki/パトリック・レミー "wikilink") 1998-2000
 
@@ -80,21 +80,21 @@
 
 ## 歴代所属選手
 
-  - [ロジェ・ルメール](https://ja.wikipedia.org/wiki/ロジェ・ルメール "wikilink") 1961-1969
+  - [ロジェ・ルメール](../Page/ロジェ・ルメール.md "wikilink") 1961-1969
 
   - [ムスタファ・ダレブ](https://ja.wikipedia.org/wiki/ムスタファ・ダレブ "wikilink") 1961-1971, 1973-1974
 
-  - [イビチャ・オシム](https://ja.wikipedia.org/wiki/イビチャ・オシム "wikilink") 1972-1975
+  - [イビチャ・オシム](../Page/イビチャ・オシム.md "wikilink") 1972-1975
 
   - [サリフ・ディアオ](https://ja.wikipedia.org/wiki/サリフ・ディアオ "wikilink") 2000-2002
 
-  - [アンリ・カマラ](https://ja.wikipedia.org/wiki/アンリ・カマラ "wikilink") 2001-2003
+  - [アンリ・カマラ](../Page/アンリ・カマラ.md "wikilink") 2001-2003
 
-  - [ピエール・ヌジャンカ](https://ja.wikipedia.org/wiki/ピエール・ヌジャンカ "wikilink") 2003-2005
+  - [ピエール・ヌジャンカ](../Page/ピエール・ヌジャンカ.md "wikilink") 2003-2005
 
-  - [ナディル・ベルハジ](https://ja.wikipedia.org/wiki/ナディル・ベルハジ "wikilink") 2004-2006
+  - [ナディル・ベルハジ](../Page/ナディル・ベルハジ.md "wikilink") 2004-2006
 
-  - [ジョゼフ＝デジレ・ジョブ](https://ja.wikipedia.org/wiki/ジョゼフ＝デジレ・ジョブ "wikilink") 2006-2007
+  - [ジョゼフ＝デジレ・ジョブ](../Page/ジョゼフ＝デジレ・ジョブ.md "wikilink") 2006-2007
 
 ## 外部リンク
 

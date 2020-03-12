@@ -1,7 +1,7 @@
 > この記事は[SHIRO\'S SONGBOOK](https://ja.wikipedia.org/wiki/SHIRO\'S_SONGBOOK)から翻訳されています。
 
 
-『**SHIRO'S SONGBOOK**』(シローズソングブック)は、[作曲家](../Page/作曲家.md "wikilink")である[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")プロデュース・作曲・編曲のアルバム。現在、CD8枚、DVD1枚をリリース。
+『**SHIRO'S SONGBOOK**』(シローズソングブック)は、[作曲家](../Page/作曲家.md "wikilink")である[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")プロデュース・作曲・編曲のアルバム。現在、CD8枚、DVD1枚をリリース。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## 特徴
 
   - 大半の曲にストリングスやブラスなどの大編成を取り入れている。
-  - 鷺巣が在住している[ロンドン](../Page/ロンドン.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")の3ヶ所で制作。
+  - 鷺巣が在住している[ロンドン](../Page/ロンドン.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[東京](../Page/東京.md "wikilink")の3ヶ所で制作。
   - ブックレットでは毎回[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")と対談していて、鷺巣の音楽論を見ることが出来る。たまに内容が濃かったりもする。
   - 一番古い曲は、18～19歳の頃に書いた「LOVE CALLING」。
   - ストリングス・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")として人気の高い鷺巣が書くトリッキーかつ躍動感ある独特なストリングスアレンジが聞ける。
@@ -20,10 +20,10 @@
 ''' Shiro's Family '''
 
   -
-    Shiro Sagisu([シンセサイザー](../Page/シンセサイザー.md "wikilink")・[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")・[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")・[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")&[ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")[アレンジ](../Page/編曲.md "wikilink"))
+    Shiro Sagisu([シンセサイザー](../Page/シンセサイザー.md "wikilink")・[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")・[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")・[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")&[ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")[アレンジ](../Page/編曲.md "wikilink"))
     Andrew SMITH([ギター](../Page/ギター.md "wikilink")・バンドマスター)
-    Mark WALKER([キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink"))
-    Mark WILLIS([ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"))
+    Mark WALKER([キーボード](../Page/キーボード_\(楽器\).md "wikilink"))
+    Mark WILLIS([ベース](../Page/ベース_\(弦楽器\).md "wikilink"))
     Verloy BAILEY([ドラム](../Page/ドラムセット.md "wikilink"))
 
 ''' FREEDOM GOSPEL CHOIR '''
@@ -39,9 +39,9 @@
 <!-- end list -->
 
   -
-    [落合徹也](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")(Violin)
+    [落合徹也](../Page/落合徹也.md "wikilink")(Violin)
     [エリック宮城](https://ja.wikipedia.org/wiki/エリック宮城 "wikilink")(Trumpet)
-    [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")(Trumpet)
+    [数原晋](../Page/数原晋.md "wikilink")(Trumpet)
 
 **London Session Orchestra**
 
@@ -49,19 +49,19 @@
 
 ## ゲストミュージシャン
 
-  - [服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")
+  - [服部隆之](../Page/服部隆之.md "wikilink")
   - [松井寛](https://ja.wikipedia.org/wiki/松井寛 "wikilink")
   - [クリヤマコト](https://ja.wikipedia.org/wiki/クリヤマコト "wikilink")
   - ポーランド国立ワルシャワ・フィルハーモニック・オーケストラ
-  - [天野正道](https://ja.wikipedia.org/wiki/天野正道 "wikilink")
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")
+  - [天野正道](../Page/天野正道.md "wikilink")
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")
   - [露月春女](https://ja.wikipedia.org/wiki/露月春女 "wikilink")
   - [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
   - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")
   - [和田昌哉](https://ja.wikipedia.org/wiki/和田昌哉 "wikilink")
   - [Take6](https://ja.wikipedia.org/wiki/Take6 "wikilink")
-  - [高橋洋子](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")
+  - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")
 
 ## 作品
 
@@ -90,7 +90,7 @@
 4.  CARNIVAL
 5.  EYE TO EYE
 6.  BEAUTIFUL DREAM
-7.  [THANATOS -IF I CAN'T BE YOURS-](https://ja.wikipedia.org/wiki/THANATOS_-IF_I_CAN'T_BE_YOURS- "wikilink") part1 (piano\&verse)
+7.  [THANATOS -IF I CAN'T BE YOURS-](../Page/THANATOS_-IF_I_CAN'T_BE_YOURS-.md "wikilink") part1 (piano\&verse)
 8.  THANATOS -IF I CAN'T BE YOURS- part2 (orchestral world)
 9.  THANATOS -IF I CAN'T BE YOURS- part3 (funk\&go)
 10. THANATOS -IF I CAN'T BE YOURS- part4 (overcome)
@@ -319,12 +319,12 @@
 3.  Nocturne
       -
         歌：[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")
-4.  [ぼくが地球を救う〜Sounds Of Spirit〜](https://ja.wikipedia.org/wiki/ぼくが地球を救う〜Sounds_Of_Spirit〜 "wikilink")
+4.  [ぼくが地球を救う〜Sounds Of Spirit〜](../Page/ぼくが地球を救う〜Sounds_Of_Spirit〜.md "wikilink")
       -
-        歌：[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")
+        歌：[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
 5.  All Night
       -
-        歌：[葛谷葉子](https://ja.wikipedia.org/wiki/葛谷葉子 "wikilink")
+        歌：[葛谷葉子](../Page/葛谷葉子.md "wikilink")
 6.  C'EST LA VIE
 7.  I'm Gettin' Out
 8.  Black and White

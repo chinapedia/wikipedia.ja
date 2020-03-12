@@ -1,17 +1,17 @@
 > この記事は[TOY HOME](https://ja.wikipedia.org/wiki/TOY_HOME)から翻訳されています。
 
 
-『**TOY HOME**』（トイホーム）は、[PLAYSTATION Storeで配信されている](../Page/PlayStation_Store.md "wikilink")[PlayStation 3用](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")[カーアクション](https://ja.wikipedia.org/wiki/カーアクション "wikilink")。
+『**TOY HOME**』（トイホーム）は、[PLAYSTATION Storeで配信されている](../Page/PlayStation_Store.md "wikilink")[PlayStation 3用](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")[カーアクション](../Page/カーアクション.md "wikilink")。
 
 ## 概要
 
-プレイヤーは、架空の子供部屋等で[ミニカーを走らせ](https://ja.wikipedia.org/wiki/ミニカー_\(玩具\) "wikilink")、障害物を崩したりしながらステージ上のコインを集めることでポイントを獲得する。障害物に体当たりしたとき等は[デュアルショック3の振動機能が働き](https://ja.wikipedia.org/wiki/DUALSHOCK "wikilink")、[6軸検出システムで車体をコントロールして](https://ja.wikipedia.org/wiki/PlayStation_3#コントローラ "wikilink")[ドリフト走行](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")も可能。
+プレイヤーは、架空の子供部屋等で[ミニカーを走らせ](../Page/ミニカー_\(玩具\).md "wikilink")、障害物を崩したりしながらステージ上のコインを集めることでポイントを獲得する。障害物に体当たりしたとき等は[デュアルショック3の振動機能が働き](../Page/DUALSHOCK.md "wikilink")、[6軸検出システムで車体をコントロールして](https://ja.wikipedia.org/wiki/PlayStation_3#コントローラ "wikilink")[ドリフト走行](../Page/ドリフト走行.md "wikilink")も可能。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")には追加アイテムとして、『TOY HOME 2nd Gear』（500円）が配信された。
 
 ## 関連項目
 
-  - [Dark Mist](https://ja.wikipedia.org/wiki/Dark_Mist "wikilink")
+  - [Dark Mist](../Page/Dark_Mist.md "wikilink")
 
 ## 外部リンク
 

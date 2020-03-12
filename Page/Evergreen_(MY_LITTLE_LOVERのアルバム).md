@@ -40,7 +40,7 @@
         後に4thシングル「[ALICE](../Page/ALICE_\(MY_LITTLE_LOVERの曲\).md "wikilink")」のカップリング曲として、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。本作に収録されている音源とは異なり、冒頭のサウンドエフェクトが省略されている。
 5.  **[Hello, Again 〜昔からある場所〜](../Page/Hello,_Again_〜昔からある場所〜.md "wikilink")** (5:10)
       -
-        作曲:[藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink")&小林武史
+        作曲:[藤井謙二](../Page/藤井謙二.md "wikilink")&小林武史
         3rdシングル
         [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")「終わらない夏」オープニングテーマ
 6.  **[My Painting](https://ja.wikipedia.org/wiki/Man_&_Woman/My_Painting "wikilink")** (4:01)
@@ -58,13 +58,13 @@
         1stシングル
 10. **evergreen** (5:44)
       -
-        メロディーは小林が音楽を担当したドラマ『[誰にも言えない](https://ja.wikipedia.org/wiki/誰にも言えない "wikilink")』の劇伴として作られた「One Color」という曲が原型。「Lala〜,Lala,lalileile,aiWow～」と歌う部分は、小林がロスのレンタカーでレコーディング・スタジオに向かう中で、不意に浮かんできたという。アルバムのリリースを告知するTV SPOTではこの部分が起用されており、AKKO　KENJI FUJII and TAKESHI KOBAYASHIの順にメンバーの名前が登場。3人でこの部分を歌っているような演出もさることながら、小林氏が正式に加入したことを強調したSPOTとも見て取ることができる。
+        メロディーは小林が音楽を担当したドラマ『[誰にも言えない](../Page/誰にも言えない.md "wikilink")』の劇伴として作られた「One Color」という曲が原型。「Lala〜,Lala,lalileile,aiWow～」と歌う部分は、小林がロスのレンタカーでレコーディング・スタジオに向かう中で、不意に浮かんできたという。アルバムのリリースを告知するTV SPOTではこの部分が起用されており、AKKO　KENJI FUJII and TAKESHI KOBAYASHIの順にメンバーの名前が登場。3人でこの部分を歌っているような演出もさることながら、小林氏が正式に加入したことを強調したSPOTとも見て取ることができる。
 
 ## 参加ミュージシャン
 
   - AKKO - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink") - [Guitar](../Page/ギター.md "wikilink")
-  - [小林武史](../Page/小林武史.md "wikilink") - [Keybords](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [藤井謙二](../Page/藤井謙二.md "wikilink") - [Guitar](../Page/ギター.md "wikilink")
+  - [小林武史](../Page/小林武史.md "wikilink") - [Keybords](../Page/キーボード_\(楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   - [松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink") - [Drums](../Page/ドラムセット.md "wikilink")
-  - 樋沢達彦 - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 樋沢達彦 - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [木村誠](https://ja.wikipedia.org/wiki/木村誠_\(パーカッション奏者\) "wikilink") - [Percussion](../Page/パーカッション.md "wikilink")
   - ジェリー・ヘイ - Trumpet、Flugeihorn
   - ダン・ヒギンズ - [Saxophone](../Page/サクソフォーン.md "wikilink")
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   - 山本拓夫 - Saxophone
-  - [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink") - Drums
+  - [青山純](../Page/青山純.md "wikilink") - Drums
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") - Bass
   - 高安錬太郎 - Computer Programming
 
@@ -165,7 +165,7 @@
   - 山本拓夫 - Saxophone
   - 荒木敏男 - Trumpet
   - 西村浩二 - Trumpet
-  - [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink") - Trombone
+  - [村田陽一](../Page/村田陽一.md "wikilink") - Trombone
   - 高安錬太郎 - Computer Programming
   - 角谷仁宣 - Computer Programming
 
@@ -176,7 +176,7 @@
 <!-- end list -->
 
   - マイク・ベアード - Drums
-  - [ニール・スチューベンハウス](https://ja.wikipedia.org/wiki/ニール・スチューベンハウス "wikilink") - Bass
+  - [ニール・スチューベンハウス](../Page/ニール・スチューベンハウス.md "wikilink") - Bass
   - ジェリー・ヘイ - Trumpet、Flugeihorn
   - ダン・ヒギンズ - Saxophone
   - ビル・ライヒェンバッハ - Trombone
@@ -188,4 +188,4 @@
 [Category:My_Little_Loverのアルバム](https://ja.wikipedia.org/wiki/Category:My_Little_Loverのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:1995年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:トイズファクトリーのアルバム](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアルバム "wikilink") [Category:小林武史がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:小林武史がプロデュースしたアルバム "wikilink")
 
 1.  [My Little Lover akkoと小林武史、それぞれの「evergreen」](https://natalie.mu/music/pp/mylittlelover) 音楽ナタリー（2019年5月1日閲覧）
-2.  ファーストアルバムでのミリオン達成だけであれば、1994年に[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")のファーストアルバム「[DEEN](https://ja.wikipedia.org/wiki/DEEN_\(アルバム\) "wikilink")」が初めて記録しているが、初動でのミリオン達成は記録していないため、今作がファーストアルバムかつ初動でのミリオン初達成作品である。
+2.  ファーストアルバムでのミリオン達成だけであれば、1994年に[DEEN](../Page/DEEN.md "wikilink")のファーストアルバム「[DEEN](../Page/DEEN_\(アルバム\).md "wikilink")」が初めて記録しているが、初動でのミリオン達成は記録していないため、今作がファーストアルバムかつ初動でのミリオン初達成作品である。

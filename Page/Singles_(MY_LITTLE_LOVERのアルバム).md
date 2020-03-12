@@ -5,13 +5,13 @@
 
 ## 解説
 
-それまでの14枚のシングルから選ばれた曲を時系列に収録。「[My Painting](https://ja.wikipedia.org/wiki/Man_&_Woman/My_Painting "wikilink")」「[Private eyes](https://ja.wikipedia.org/wiki/Private_eyes "wikilink")」が収録されないなど、完全なシングル・コレクションというわけではない。収録曲に関して[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")が記載されている。
+それまでの14枚のシングルから選ばれた曲を時系列に収録。「[My Painting](https://ja.wikipedia.org/wiki/Man_&_Woman/My_Painting "wikilink")」「[Private eyes](https://ja.wikipedia.org/wiki/Private_eyes "wikilink")」が収録されないなど、完全なシングル・コレクションというわけではない。収録曲に関して[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")が記載されている。
 
 全曲に低音の[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源で収録されている。
 
 また、初となるビデオクリップ集「[clips](https://ja.wikipedia.org/wiki/Clips_\(My_Little_Loverの映像作品\) "wikilink")」も同時発売され、このCDと同じくジャケットもケーキを使ったものになっており、CMも連動している。
 
-3年3か月ぶりに[オリコンアルバムチャートにて通算](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3作目となる首位を獲得した。
+3年3か月ぶりに[オリコンアルバムチャートにて通算](../Page/オリコンチャート.md "wikilink")3作目となる首位を獲得した。
 
 オリジナル盤はブックケース仕様で、ライナーノーツが掲載された40ページの歌詞カードが付いていたが、2008年にエイベックスから再発された際に通常のプラケース仕様に再デザインされ、ライナーノーツは削られている。
 
@@ -28,7 +28,7 @@
         シングルバージョンは初収録。
 3.  **[Hello, Again 〜昔からある場所〜](../Page/Hello,_Again_〜昔からある場所〜.md "wikilink")** (5:13)
       -
-        作曲:[藤井謙二](https://ja.wikipedia.org/wiki/藤井謙二 "wikilink")&小林武史
+        作曲:[藤井謙二](../Page/藤井謙二.md "wikilink")&小林武史
         3rdシングル
 4.  **[ALICE](../Page/ALICE_\(MY_LITTLE_LOVERの曲\).md "wikilink")** (5:16)
       -
@@ -37,7 +37,7 @@
 5.  **[NOW AND THEN 〜失われた時を求めて〜](../Page/NOW_AND_THEN_〜失われた時を求めて〜.md "wikilink")** (4:05)
       -
         5thシングル
-        シングルバージョンは初収録（アルバム『[PRESENTS](https://ja.wikipedia.org/wiki/PRESENTS_\(MY_LITTLE_LOVERのアルバム\) "wikilink")』のものとは異なる）。
+        シングルバージョンは初収録（アルバム『[PRESENTS](../Page/PRESENTS_\(MY_LITTLE_LOVERのアルバム\).md "wikilink")』のものとは異なる）。
 6.  **[YES 〜free flower〜](../Page/YES_〜free_flower〜.md "wikilink")** (5:07)
       -
         6thシングル
@@ -51,7 +51,7 @@
 9.  **[空の下で](https://ja.wikipedia.org/wiki/空の下で "wikilink")** (5:16)
       -
         10thシングル
-10. **[DESTINY](https://ja.wikipedia.org/wiki/DESTINY_\(MY_LITTLE_LOVERの曲\) "wikilink")** (4:46)
+10. **[DESTINY](../Page/DESTINY_\(MY_LITTLE_LOVERの曲\).md "wikilink")** (4:46)
       -
         11thシングル
 11. **[Days](https://ja.wikipedia.org/wiki/CRAZY_LOVE/Days "wikilink")** (5:57)
@@ -66,10 +66,10 @@
 14. **[日傘 〜japanese beauty〜](https://ja.wikipedia.org/wiki/日傘_〜japanese_beauty〜 "wikilink")** (4:15)
       -
         14thシングル
-15. **[あいのうた 〜Swallowtail Butterfly〜](https://ja.wikipedia.org/wiki/Swallowtail_Butterfly_〜あいのうた〜 "wikilink")** (5:18)
+15. **[あいのうた 〜Swallowtail Butterfly〜](../Page/Swallowtail_Butterfly_〜あいのうた〜.md "wikilink")** (5:18)
       -
         作詞:[岩井俊二](../Page/岩井俊二.md "wikilink")、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")&小林武史
-        このアルバムにのみ収録された楽曲。[1996年](../Page/1996年.md "wikilink")に発売された[YEN TOWN BANDの](https://ja.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")「[Swallowtail Butterfly 〜あいのうた〜](https://ja.wikipedia.org/wiki/Swallowtail_Butterfly_〜あいのうた〜 "wikilink")」のセルフカヴァー。セルフカヴァーといわれる理由は、小林が原曲の作詞者（共作）、作曲者、編曲者であるため。PVも制作されており、小林が監督を務めた作品で、AKKOが街をさまよう映像となっている。タイトルとサブ・タイトルが入れ替わっている。
+        このアルバムにのみ収録された楽曲。[1996年](../Page/1996年.md "wikilink")に発売された[YEN TOWN BANDの](../Page/YEN_TOWN_BAND.md "wikilink")「[Swallowtail Butterfly 〜あいのうた〜](../Page/Swallowtail_Butterfly_〜あいのうた〜.md "wikilink")」のセルフカヴァー。セルフカヴァーといわれる理由は、小林が原曲の作詞者（共作）、作曲者、編曲者であるため。PVも制作されており、小林が監督を務めた作品で、AKKOが街をさまよう映像となっている。タイトルとサブ・タイトルが入れ替わっている。
 
 ## 脚注
 

@@ -7,27 +7,27 @@
 
 高性能かつ小型化されたコンピュータネットワークが一般家庭へほぼ完全に浸透した[近未来](../Page/近未来.md "wikilink")\[1\]を舞台に、ヒロインたちとの会話でゲームが進んでいくという、当時の他の恋愛シミュレーションゲームとは大きく異なるシステムで注目された。ゲーム中にプレイヤーの分身となるような主人公キャラクターは存在せず、常に「主人公＝プレイヤー」として会話が進行する点も大きな特徴である。ヒロインは各タイトル3人。
 
-『NOëL』の初登場は、[プレイステーションではなくパソコンであり](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")1996年2月23日にパイオニアLDCから出している「アニメ美人～パイオニアLDC編～」での事で、収録されているCGには『NOëL』に出演している[桜井智](https://ja.wikipedia.org/wiki/櫻井智 "wikilink")、[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の音声データが収録されているものだった。
+『NOëL』の初登場は、[プレイステーションではなくパソコンであり](../Page/PlayStation_\(ゲーム機\).md "wikilink")1996年2月23日にパイオニアLDCから出している「アニメ美人～パイオニアLDC編～」での事で、収録されているCGには『NOëL』に出演している[桜井智](../Page/櫻井智.md "wikilink")、[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の音声データが収録されているものだった。
 
-対応機種は[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")（『NOëL3』のみ[セガサターン](../Page/セガサターン.md "wikilink")）。ジャンルは、『NOT DiGITAL』と『La neige』シリーズが「アタッチメント・ソフト（接触型・愛着育成ソフト\[2\]）」、『NOëL3』シリーズは「ハッキング・アドベンチャー」。
+対応機種は[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")（『NOëL3』のみ[セガサターン](../Page/セガサターン.md "wikilink")）。ジャンルは、『NOT DiGITAL』と『La neige』シリーズが「アタッチメント・ソフト（接触型・愛着育成ソフト\[2\]）」、『NOëL3』シリーズは「ハッキング・アドベンチャー」。
 
 制作当時のゲーム機の性能に合わせて、会話パートの思考エンジンには、少量のデータでも破綻無く動作する[人工無脳](../Page/人工無脳.md "wikilink")を採用している。当時の研究機関ではデータ量を増やすことで自然な会話を目指していたが、本シリーズでは極めて少量のデータで自然な会話を実現し、制作者は京都のATR（国際電気通信基礎技術研究所）にも呼ばれている\[3\]。ユーザーインターフェイス全般で見ても、NoELはかなり先進的であった事が分かる。
 
 ### NOëL NOT DiGITAL
 
-1996年7月26日発売。夏の海辺で少女3人組と知り合った主人公が、[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")を通じて徐々に彼女達と親密度を高めていき、約3か月後のクリスマスまでに3人のいずれかから告白されることを目的とする。
+1996年7月26日発売。夏の海辺で少女3人組と知り合った主人公が、[テレビ電話](../Page/テレビ電話.md "wikilink")を通じて徐々に彼女達と親密度を高めていき、約3か月後のクリスマスまでに3人のいずれかから告白されることを目的とする。
 
 テレビ電話のシステム画面をベースに、オンラインでの会話シーンと時々届くムービーメールを軸としてゲームが進行する。会話シーンは実際のテレビ電話同様にヒロインがフルアニメ・フルボイスで喋る演出となっている（会話内容は文字では表示されない）。会話の際は新しい話題が出た時に出現する「会話ボール」をストックし、ヒロインの発言途中に会話ボールを使用することで主人公がその話題に関し発言したことを表現している。
 
-ゲーム内の時間は基本的にリアルタイムで進行し、通話時以外は任意で時間を進めることも可能。ヒロインと会話するためには、適切な時間帯（主に夕方から夜）に電話を掛けるか彼女達から電話が掛かってくるのを待たなければならず、それ以外の時間帯の発信は[留守番電話](https://ja.wikipedia.org/wiki/留守番電話 "wikilink")での応答、または[迷惑電話](https://ja.wikipedia.org/wiki/迷惑電話 "wikilink")として最悪ゲームオーバーとなってしまう。ただし、例外的に隠しイベント的な会話が発生する場合もある。
+ゲーム内の時間は基本的にリアルタイムで進行し、通話時以外は任意で時間を進めることも可能。ヒロインと会話するためには、適切な時間帯（主に夕方から夜）に電話を掛けるか彼女達から電話が掛かってくるのを待たなければならず、それ以外の時間帯の発信は[留守番電話](../Page/留守番電話.md "wikilink")での応答、または[迷惑電話](../Page/迷惑電話.md "wikilink")として最悪ゲームオーバーとなってしまう。ただし、例外的に隠しイベント的な会話が発生する場合もある。
 
-[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[作画監督](https://ja.wikipedia.org/wiki/作画監督 "wikilink")は[阿部恒](https://ja.wikipedia.org/wiki/阿部恒 "wikilink")、アニメーション制作は[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")が担当した。総セル画枚数は約6,000枚\[4\]、音声データは合計で10時間を超える\[5\]。なお、当初の発売予定は1996年春だった。
+[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[作画監督](../Page/作画監督.md "wikilink")は[阿部恒](https://ja.wikipedia.org/wiki/阿部恒 "wikilink")、アニメーション制作は[マッドハウス](../Page/マッドハウス.md "wikilink")が担当した。総セル画枚数は約6,000枚\[4\]、音声データは合計で10時間を超える\[5\]。なお、当初の発売予定は1996年春だった。
 
-限定版特典は、イメージソング2曲（「kahoの唄 〜ガールズ BE シンデレラ〜」（歌 - [桜井智](https://ja.wikipedia.org/wiki/櫻井智 "wikilink")）、「ありがとう」（歌 - [岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")））を収録したシングルCD（品番：LPR-205）。予約キャンペーンでは、セル画・テレカ・特典シングルCD収納ケースのいずれかが抽選でプレゼントされた\[6\]。
+限定版特典は、イメージソング2曲（「kahoの唄 〜ガールズ BE シンデレラ〜」（歌 - [桜井智](../Page/櫻井智.md "wikilink")）、「ありがとう」（歌 - [岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")））を収録したシングルCD（品番：LPR-205）。予約キャンペーンでは、セル画・テレカ・特典シングルCD収納ケースのいずれかが抽選でプレゼントされた\[6\]。
 
-1996年12月には期間限定（7日 - 31日）で、特製パッケージとクリスマスカードが付属する『**NOëL クリスマススペシャルパッケージ**』が発売された。1997年11月には[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")『**NOëL NOT DiGITAL PlayStation the Best**』が発売されている。
+1996年12月には期間限定（7日 - 31日）で、特製パッケージとクリスマスカードが付属する『**NOëL クリスマススペシャルパッケージ**』が発売された。1997年11月には[廉価版](../Page/廉価版.md "wikilink")『**NOëL NOT DiGITAL PlayStation the Best**』が発売されている。
 
-2009年12月より、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信が開始された（発売元：[ハムスター](https://ja.wikipedia.org/wiki/ハムスター_\(ゲーム会社\) "wikilink")、品番：SLPS-00304/5、マニュアルのみSLPS-91043/4）。スクリーンショット機能対応。なお、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（PS3）でディスク版をプレイすると正常にセーブできないという問題があることが[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（SCE）から公表されており、PS3ではこちらを使用する必要がある。また、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")フォーマットで発売されたシリーズ作品中唯一、ゲームアーカイブス版が[PlayStation Vitaに非対応である](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。
+2009年12月より、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信が開始された（発売元：[ハムスター](../Page/ハムスター_\(ゲーム会社\).md "wikilink")、品番：SLPS-00304/5、マニュアルのみSLPS-91043/4）。スクリーンショット機能対応。なお、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（PS3）でディスク版をプレイすると正常にセーブできないという問題があることが[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（SCE）から公表されており、PS3ではこちらを使用する必要がある。また、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")フォーマットで発売されたシリーズ作品中唯一、ゲームアーカイブス版が[PlayStation Vitaに非対応である](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。
 
 ### NOëL 〜La neige〜
 
@@ -35,11 +35,11 @@
 
 テレビ電話のような「ビジュアルフォン」を使って遠く離れた場所に住む3人の女子高生とコミュニケーションを取る。コンピュータの内部を意識したような未来的な画面構成や画面に現れる「会話ボール」を使う話し方が使われている。総セル画数6000枚という豊富なアニメーションも大きな特徴とされている。
 
-冬のスキー場で転倒し大怪我を負った主人公が、同じスキー場に遊びに来ていた鎌倉の女子高生3人組に助けられ、そのうちの1人から見舞いの電話がかかって来るところから物語が始まる。3人が高校を卒業する春までに3人のいずれかから告白されることを目的とする。「La neige（ラ・ネージュ）」はフランス語で「雪」の意味。作品世界の期間は2014年12月23日([冬至](https://ja.wikipedia.org/wiki/冬至 "wikilink")の翌日)から2015年3月21日([春分](../Page/春分.md "wikilink"))まで。
+冬のスキー場で転倒し大怪我を負った主人公が、同じスキー場に遊びに来ていた鎌倉の女子高生3人組に助けられ、そのうちの1人から見舞いの電話がかかって来るところから物語が始まる。3人が高校を卒業する春までに3人のいずれかから告白されることを目的とする。「La neige（ラ・ネージュ）」はフランス語で「雪」の意味。作品世界の期間は2014年12月23日([冬至](../Page/冬至.md "wikilink")の翌日)から2015年3月21日([春分](../Page/春分.md "wikilink"))まで。
 
-『NOT DiGITAL』からヒロインを一新し、舞台も[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")臨海区から[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")に移った。キャラクターデザインはおがたたくみ、アニメーション制作は[スタジオ・ザイン](https://ja.wikipedia.org/wiki/スタジオ・ザイン "wikilink")が担当し、アニメーションのボリュームは『NOT DiGITAL』の約2倍となった。
+『NOT DiGITAL』からヒロインを一新し、舞台も[東京都](../Page/東京都.md "wikilink")臨海区から[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")に移った。キャラクターデザインはおがたたくみ、アニメーション制作は[スタジオ・ザイン](https://ja.wikipedia.org/wiki/スタジオ・ザイン "wikilink")が担当し、アニメーションのボリュームは『NOT DiGITAL』の約2倍となった。
 
-[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")'97秋（1997年9月5日 - 7日開催）でプロモーション用CD『NOëL La neige VOICE MESSAGE 〜まだ見ぬあなたへ〜』（品番：LPR-256）が配布され、予約キャンペーンではトレーディングカード、テレカ、ピンバッジのいずれかが入った「NOëL缶」が抽選でプレゼントされた\[7\]。また30,000本限定\[8\]の限定版には、プロローグドラマCD『NOëL La neige 〜prelude〜』（品番：LPR-281）が付属する。
+[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")'97秋（1997年9月5日 - 7日開催）でプロモーション用CD『NOëL La neige VOICE MESSAGE 〜まだ見ぬあなたへ〜』（品番：LPR-256）が配布され、予約キャンペーンではトレーディングカード、テレカ、ピンバッジのいずれかが入った「NOëL缶」が抽選でプレゼントされた\[7\]。また30,000本限定\[8\]の限定版には、プロローグドラマCD『NOëL La neige 〜prelude〜』（品番：LPR-281）が付属する。
 
 2010年6月23日より、ゲームアーカイブスで配信が開始された（SLPS-01190〜2、マニュアルのみSLPS-01193〜5）。レイティングは、スクリーンショット機能対応。
 
@@ -51,7 +51,7 @@
 
 システムは『La neige』とほぼ共通だが、会話の進め方によっては、柚実との[神経衰弱や千紗都との](../Page/神経衰弱_\(トランプゲーム\).md "wikilink")[あっち向いてホイ](../Page/あっち向いてホイ.md "wikilink")といったミニゲームが楽しめるようになる。また、涼とのグッドエンディング後にはCG・ムービーギャラリーが登場し、『La neige』の攻略情報も閲覧可能。初回プレス版購入者を対象に、「NOëLスペシャルボックス」または描き下ろしテレカのプレゼントキャンペーンが実施された。
 
-なお、門倉千紗都役の[水樹奈々](../Page/水樹奈々.md "wikilink")が歌うエンディングテーマ「Monologue」は、グッドエンディングではノーマルバージョン（アコースティックギターの伴奏によるバラード）、バッドエンディングでは[演歌](../Page/演歌.md "wikilink")バージョンとなる。ともにCD化はされておらず、「Monologue（Shooting Star Version）」がアルバム『[NOeL 〜La neige〜 depart chisato×nana](https://ja.wikipedia.org/wiki/NOeL_〜La_neige〜_depart_chisato×nana "wikilink")』に収録されているのみである。
+なお、門倉千紗都役の[水樹奈々](../Page/水樹奈々.md "wikilink")が歌うエンディングテーマ「Monologue」は、グッドエンディングではノーマルバージョン（アコースティックギターの伴奏によるバラード）、バッドエンディングでは[演歌](../Page/演歌.md "wikilink")バージョンとなる。ともにCD化はされておらず、「Monologue（Shooting Star Version）」がアルバム『[NOeL 〜La neige〜 depart chisato×nana](../Page/NOeL_〜La_neige〜_depart_chisato×nana.md "wikilink")』に収録されているのみである。
 
 2010年7月14日より、ゲームアーカイブスで配信が開始された。レイティングはCERO：B（12才以上対象）。
 
@@ -59,13 +59,13 @@
 
 発売日：1998年12月10日、メディア：CD-ROM 3枚組、品番：T-22205G（限定版）、T-22206G（通常版）
 
-『NOT DiGITAL』のパラレルストーリー。2013年のクリスマスイブに\[9\]、自然環境団体を名乗る[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")集団によって江珂高校が占拠され、パーティーのために集まっていた3年B組の生徒たちが人質にとられてしまう。主人公は[ハッキング](https://ja.wikipedia.org/wiki/ハッキング "wikilink")により内部に侵入し、人質とされた生徒たちに適切な指示を与え、無事救出を目指す。
+『NOT DiGITAL』のパラレルストーリー。2013年のクリスマスイブに\[9\]、自然環境団体を名乗る[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")集団によって江珂高校が占拠され、パーティーのために集まっていた3年B組の生徒たちが人質にとられてしまう。主人公は[ハッキング](../Page/ハッキング.md "wikilink")により内部に侵入し、人質とされた生徒たちに適切な指示を与え、無事救出を目指す。
 
 生徒全員の救出が目的であり、展開によって一部救出、全滅などエンディングが分岐する。ストーリー展開や設定との関係から岡野由香がメインヒロインとして扱われ、サブヒロインとして西村知奈と和倉古都海が新たに登場している。また、『NOT DiGITAL』で名前のみ登場していたクラスメイトたちについても、全員分の設定が用意された。なお、会話シーンには前3作と同じくテレビ電話が使用されているが、本作の攻略要素はハッキング操作に集約されているため、会話シーンは[幕間劇](https://ja.wikipedia.org/wiki/幕間劇 "wikilink")の意味合いが強い。
 
-前3作から一転して映画『[ダイ・ハード](https://ja.wikipedia.org/wiki/ダイ・ハード "wikilink")』調の緊迫感溢れるストーリーや、覗き見にも等しい少々過激な舞台設定を重視する意味で、本作のみ[セガサターン](../Page/セガサターン.md "wikilink") (SS) をメインプラットフォームとして開発された。キャラクターデザイン・作画監督は[入江泰浩](https://ja.wikipedia.org/wiki/入江泰浩 "wikilink")。
+前3作から一転して映画『[ダイ・ハード](https://ja.wikipedia.org/wiki/ダイ・ハード "wikilink")』調の緊迫感溢れるストーリーや、覗き見にも等しい少々過激な舞台設定を重視する意味で、本作のみ[セガサターン](../Page/セガサターン.md "wikilink") (SS) をメインプラットフォームとして開発された。キャラクターデザイン・作画監督は[入江泰浩](../Page/入江泰浩.md "wikilink")。
 
-予約特典は、ファンディスク『NOëL3 ハッキングCD-ROM』（品番：LPR-307、[CD EXTRA](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink") (Windows 95/98) 仕様）\[10\]。限定版特典は、イメージソング「WHITE MORNING」（歌 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")）とメッセージを収録したシングルCD（品番：LPR-313）。
+予約特典は、ファンディスク『NOëL3 ハッキングCD-ROM』（品番：LPR-307、[CD EXTRA](../Page/CD_EXTRA.md "wikilink") (Windows 95/98) 仕様）\[10\]。限定版特典は、イメージソング「WHITE MORNING」（歌 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")）とメッセージを収録したシングルCD（品番：LPR-313）。
 
 #### NOëL3 MISSION ON THE LINE
 
@@ -80,7 +80,7 @@
 ### NOëL NOT DiGITAL（登場人物）
 
   - 清水 代歩 （しみず かほ）
-    声 - [桜井智](https://ja.wikipedia.org/wiki/櫻井智 "wikilink")
+    声 - [桜井智](../Page/櫻井智.md "wikilink")
     誕生日：10月9日（天秤座）、血液型：O型、身長：162cm、年齢：17歳、3サイズ：82/56/84
     東京都臨海区にある女子高・江珂（こうか）高校の3年生（B組）。物語は9月の終わり、代歩からの着信により始まる。
     買い物、電話、おしゃれが趣味の現代的な女の子。帰宅部で、学生寮で一人暮らしをしている。家族は父、母、姉。
@@ -100,7 +100,7 @@
 ### NOëL 〜La neige〜 / NOëL 〜La neige〜 Special
 
   - 橘 柚実 （たちばな ゆみ）
-    声 - [かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")
+    声 - [かかずゆみ](../Page/かかずゆみ.md "wikilink")
     誕生日：1996年4月23日（13星座で牡牛座）、血液型：B型、身長：165cm、体重：52kg、年齢：18歳、3サイズ：84/58/85
     旧家生まれのお嬢様。スキー場でぶつかりかけてきた主人公に、スキー場のホテルのクワハウスからビジュアルフォンをかけてきた。 県立秋華（しゅうか）高校3年生。旧家に生まれ、茶道や華道に通じている和服好きの大和撫子。その一方で、怪獣やSF映画もこよなく愛する。礼儀正しさと快活さをそなえる。自分たちのせいで大怪我を負った主人公を気遣い、最初に見舞いの電話を入れる。家族は父、母、妹。
   - 碧川 涼 （みどりかわ りょう）
@@ -140,14 +140,14 @@
 <!-- end list -->
 
   - 企画 - 中原順志
-  - シナリオ - [浦畑達彦](https://ja.wikipedia.org/wiki/浦畑達彦 "wikilink")
+  - シナリオ - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
   - 制作 - パイオニアLDC ラビットチーム
   - 音楽 - [手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")、Raika（竹本晃）
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
       - キャラクターデザイン・作画監督 - [阿部恒](https://ja.wikipedia.org/wiki/阿部恒 "wikilink")
-      - 演出・デザインワークス - [ところともかず](https://ja.wikipedia.org/wiki/ところともかず "wikilink")
-      - 絵コンテ - [浅香守生](https://ja.wikipedia.org/wiki/浅香守生 "wikilink")、[小寺勝之](../Page/小寺勝之.md "wikilink")
+      - 演出・デザインワークス - [ところともかず](../Page/ところともかず.md "wikilink")
+      - 絵コンテ - [浅香守生](../Page/浅香守生.md "wikilink")、[小寺勝之](../Page/小寺勝之.md "wikilink")
       - 制作管理 - 浦畑達彦
   - ディレクター - 中原順志
   - プロデューサー - 亀井毅
@@ -159,13 +159,13 @@
     1996年3月28・29日、「PlayStation EXPO'96」（[東京国際見本市会場](../Page/東京国際見本市会場.md "wikilink")）のパイオニアLDCブースにおいて各日50名限定でサイン会を実施。出演は桜井智（清水代歩役、28日）、飯塚雅弓（岡野由香役、29日）\[12\]。
   - 発売記念サイン会
     開催日 / 会場 / 出演者（役名）の順。
-      - 1996年7月28日 / 大阪・[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")日本橋7号店 / 飯塚雅弓（岡野由香）
+      - 1996年7月28日 / 大阪・[ソフマップ](../Page/ソフマップ.md "wikilink")日本橋7号店 / 飯塚雅弓（岡野由香）
       - 1996年8月3日 / 秋葉原・ソフマップ本店 / 飯塚雅弓
       - 1996年8月4日 / 千葉・[ディスクユニオン](../Page/ディスクユニオン.md "wikilink")柏店 / 飯塚雅弓
   - NOëL スーパーライブ
-    1996年8月12日、札幌・[サッポロファクトリー](https://ja.wikipedia.org/wiki/サッポロファクトリー "wikilink")ホールにて開催。出演は飯塚雅弓。
+    1996年8月12日、札幌・[サッポロファクトリー](../Page/サッポロファクトリー.md "wikilink")ホールにて開催。出演は飯塚雅弓。
   - 発売記念イベント （『NOëL3』）
-    1998年10月10日、「[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")'98秋」（[幕張メッセ](../Page/幕張メッセ.md "wikilink")）のパイオニアLDCブースにおいてトークショーを開催。出演は飯塚雅弓。
+    1998年10月10日、「[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")'98秋」（[幕張メッセ](../Page/幕張メッセ.md "wikilink")）のパイオニアLDCブースにおいてトークショーを開催。出演は飯塚雅弓。
 
 ## 関連商品
 
@@ -173,11 +173,11 @@
 
 :; NOëL 公式攻略ガイド オフィシャル・パーフェクトビジュアル＆ガイド
 
-:: 発売日：1996年9月 / 発行：[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")（電撃ムックシリーズ 電撃攻略王） ISBN 4-07-305171-7
+:: 発売日：1996年9月 / 発行：[メディアワークス](../Page/メディアワークス.md "wikilink")（電撃ムックシリーズ 電撃攻略王） ISBN 4-07-305171-7
 
 :; NOëL ナビゲーションバイブル
 
-:: 発売日：1996年8月 / [二見書房](https://ja.wikipedia.org/wiki/二見書房 "wikilink")（プレイステーション裏ワザ大全集） ISBN 4-576-96110-1
+:: 発売日：1996年8月 / [二見書房](../Page/二見書房.md "wikilink")（プレイステーション裏ワザ大全集） ISBN 4-576-96110-1
 
 :; NOëL コンプリートプレーヤーズバイブル
 
@@ -193,7 +193,7 @@
 
 :; ノエル ラ・ネージュ フォトアルバム 柚実 千紗都 涼
 
-:: 発売日：1998年2月 / [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（[じゅげむBOOKS](https://ja.wikipedia.org/wiki/じゅげむ_\(ゲーム雑誌\) "wikilink")） ISBN 4-88991-534-6
+:: 発売日：1998年2月 / [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（[じゅげむBOOKS](../Page/じゅげむ_\(ゲーム雑誌\).md "wikilink")） ISBN 4-88991-534-6
 
 :; NOëL全部 Le Monde du NOël
 
@@ -242,7 +242,7 @@
 
   - CD
 
-:; [明日の記憶 featuring emi sanokura from NOëL](https://ja.wikipedia.org/wiki/明日の記憶_featuring_emi_sanokura_from_NOeL "wikilink")
+:; [明日の記憶 featuring emi sanokura from NOëL](../Page/明日の記憶_featuring_emi_sanokura_from_NOeL.md "wikilink")
 
 :: 発売日：1996年9月25日 / 発売：パイオニアLDC / 品番：PICA-1113
 
@@ -252,7 +252,7 @@
 
 :: 大学入学後を描いたドラマCD。3人の歌も収録する。
 
-:; [NOëL 〜La neige〜 depart chisato×nana](https://ja.wikipedia.org/wiki/NOeL_〜La_neige〜_depart_chisato×nana "wikilink")
+:; [NOëL 〜La neige〜 depart chisato×nana](../Page/NOeL_〜La_neige〜_depart_chisato×nana.md "wikilink")
 
   -
 
@@ -304,20 +304,20 @@
 
 :; NOëL ジグソーパズル
 
-:: 発売：[天田印刷加工](https://ja.wikipedia.org/wiki/天田印刷加工 "wikilink")（[アートボックス事業部](../Page/エンスカイ.md "wikilink")） / 1000ピース
+:: 発売：[天田印刷加工](../Page/天田印刷加工.md "wikilink")（[アートボックス事業部](../Page/エンスカイ.md "wikilink")） / 1000ピース
 
 :; NOëL コレクションカード
 
   -
 
       -
-        発売：[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink") / 全90種類（スペシャルカード9種）
+        発売：[エポック社](../Page/エポック社.md "wikilink") / 全90種類（スペシャルカード9種）
 
 ## 脚注
 
 ## 関連項目
 
-  - [Serial experiments lain](https://ja.wikipedia.org/wiki/Serial_experiments_lain "wikilink") - 本シリーズの開発スタッフの一部がゲーム開発に携わった。ジャンルも「アタッチメントソフトウェア」であり、『NOT DiGITAL』や『La neige』のシステム的な続編と見ることもできる。
+  - [Serial experiments lain](../Page/Serial_experiments_lain.md "wikilink") - 本シリーズの開発スタッフの一部がゲーム開発に携わった。ジャンルも「アタッチメントソフトウェア」であり、『NOT DiGITAL』や『La neige』のシステム的な続編と見ることもできる。
   - [週刊アニメージュ 飯塚雅弓のまだまだ日曜日だよ\!](https://ja.wikipedia.org/wiki/飯塚雅弓のいたいのとんでけ! "wikilink") - 『La neige』のミニコーナーが放送されたラジオ番組。
 
 ## 外部リンク

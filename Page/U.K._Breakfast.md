@@ -44,13 +44,13 @@
 <!-- end list -->
 
   -
-    ALFEE初のクリスマスソングで、この年以降、毎年クリスマスイブの武道館コンサートで演奏される。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のシングル「[Lifetime Love](https://ja.wikipedia.org/wiki/Lifetime_Love "wikilink")」にはライブバージョンが収録。リードヴォーカルは坂崎だが、2005年の武道館公演では一部を桜井、高見沢も歌っている。
+    ALFEE初のクリスマスソングで、この年以降、毎年クリスマスイブの武道館コンサートで演奏される。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のシングル「[Lifetime Love](../Page/Lifetime_Love.md "wikilink")」にはライブバージョンが収録。リードヴォーカルは坂崎だが、2005年の武道館公演では一部を桜井、高見沢も歌っている。
 
 <!-- end list -->
 
 1.  **[1月の雨を忘れない](../Page/1月の雨を忘れない.md "wikilink")**
       -
-        「Girl」と共にシングルカットされ、そのタイトル曲となった。なお、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")に入ったアルフィーのリカットシングルは [2012年](../Page/2012年.md "wikilink")現在本作のみである。
+        「Girl」と共にシングルカットされ、そのタイトル曲となった。なお、[オリコンチャート](../Page/オリコンチャート.md "wikilink")に入ったアルフィーのリカットシングルは [2012年](../Page/2012年.md "wikilink")現在本作のみである。
 2.  **It's Alright**
       -
         シングル「[My Truth](../Page/My_Truth.md "wikilink")」のカップリング曲をアレンジしたもの。[LPには未収録](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。
@@ -68,7 +68,7 @@
 
 再発売は3回行われている
 
-  - [1989年](../Page/1989年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")
+  - [1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")
   - [2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")
       - デビュー35周年に伴うもの
@@ -80,13 +80,13 @@
   - 高見沢俊彦：Electric Guitar, Guitar Synthesizer
   - [坂崎幸之助](../Page/坂崎幸之助.md "wikilink")：Acoustic Guitar
   - [桜井賢](../Page/桜井賢.md "wikilink")：Electric Bass
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")：Drums
-  - [菊地圭介](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink")：Keyboards
-  - [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")：Keyboards（\#2,8,9）
-  - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")：Drums（\#2,8,9）
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")：Drums
+  - [菊地圭介](../Page/菊地圭介.md "wikilink")：Keyboards
+  - [井上鑑](../Page/井上鑑.md "wikilink")：Keyboards（\#2,8,9）
+  - [山木秀夫](../Page/山木秀夫.md "wikilink")：Drums（\#2,8,9）
   - [山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink")：Keyboards（\#4）
   - [そうる透](../Page/そうる透.md "wikilink")：Drums（\#4）
-  - [墨田川高校フォークソングクラブ](https://ja.wikipedia.org/wiki/東京都立墨田川高等学校 "wikilink")：Chorus（\#8,10）
+  - [墨田川高校フォークソングクラブ](../Page/東京都立墨田川高等学校.md "wikilink")：Chorus（\#8,10）
 
 <!-- end list -->
 
@@ -111,6 +111,6 @@
 
 ## 関連項目
 
-  - [1987年の音楽](https://ja.wikipedia.org/wiki/1987年の音楽 "wikilink")
+  - [1987年の音楽](../Page/1987年の音楽.md "wikilink")
 
 [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:THE_ALFEEのアルバム](https://ja.wikipedia.org/wiki/Category:THE_ALFEEのアルバム "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink")

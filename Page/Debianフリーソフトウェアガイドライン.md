@@ -14,7 +14,7 @@
 7.  プログラムの再配布時に追加ライセンスを必要としないこと。
 8.  ライセンスはDebianだけに限られてはならない。基本的に前項の繰り返し。
 9.  ライセンスは同梱される他のソフトウェアの邪魔をしないこと。
-10. [GPL](../Page/GNU_General_Public_License.md "wikilink")、[BSD](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")、[Artisticライセンスなどがフリーと考えられるライセンスの例である](https://ja.wikipedia.org/wiki/Artistic_License "wikilink")。
+10. [GPL](../Page/GNU_General_Public_License.md "wikilink")、[BSD](../Page/BSDライセンス.md "wikilink")、[Artisticライセンスなどがフリーと考えられるライセンスの例である](../Page/Artistic_License.md "wikilink")。
 
 ## 歴史
 

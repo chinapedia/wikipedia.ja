@@ -18,8 +18,8 @@
 **Project  Blank(P.N.B.)**は、同サークルが制作している一連のゲームシリーズの総称で、ゲームを主軸とした展開が行われている。
 
   - 五月雨 〜samidare〜（最新版2009年4月 Version 1.053 / 初出2002年 C62頒布 / 戦略的近接撃込型弾幕シールドシューティング）
-    企画・コンセプトデザイン：Yoko。2002〜2005年に掛けて開発された同サークルの第1作目で、「さみだれ」と読む。[ボムが無い代わりに](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")、使用中は完全無敵だが時間制限がある『シールド』と、シールドで敵弾を吸収するとショットの威力が上がる『ハイパー』を駆使する[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")。弾幕美や精密な弾避けを重視していない。\[5\]スコアを狙おうとすればするほど危険行為に身をさらすことから[危険行為推奨シューティング](https://ja.wikipedia.org/wiki/危険行為推奨シューティング "wikilink")に属する。高難度のExtraステージには『[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")』と『西方Project』のキャラクターが出演している。\[6\]
-    尚、本作は日本デジタルゲーム学会（DiGRA JAPAN）公開講座「同人ゲームの過去、現在、未来」にて、同人ゲームの歴史を紹介する際に、サークル[SITER SKAINの](https://ja.wikipedia.org/wiki/SITER_SKAIN "wikilink")[神威と並び](https://ja.wikipedia.org/wiki/神威_\(シューティングゲーム\) "wikilink")、1次創作2Dシューティングゲームの代表的な作品として挙げられている。\[7\]
+    企画・コンセプトデザイン：Yoko。2002〜2005年に掛けて開発された同サークルの第1作目で、「さみだれ」と読む。[ボムが無い代わりに](../Page/ボム_\(シューティングゲーム\).md "wikilink")、使用中は完全無敵だが時間制限がある『シールド』と、シールドで敵弾を吸収するとショットの威力が上がる『ハイパー』を駆使する[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")。弾幕美や精密な弾避けを重視していない。\[5\]スコアを狙おうとすればするほど危険行為に身をさらすことから[危険行為推奨シューティング](https://ja.wikipedia.org/wiki/危険行為推奨シューティング "wikilink")に属する。高難度のExtraステージには『[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")』と『西方Project』のキャラクターが出演している。\[6\]
+    尚、本作は日本デジタルゲーム学会（DiGRA JAPAN）公開講座「同人ゲームの過去、現在、未来」にて、同人ゲームの歴史を紹介する際に、サークル[SITER SKAINの](https://ja.wikipedia.org/wiki/SITER_SKAIN "wikilink")[神威と並び](../Page/神威_\(シューティングゲーム\).md "wikilink")、1次創作2Dシューティングゲームの代表的な作品として挙げられている。\[7\]
   - RefRain 〜prism memories〜（最新版2012年10月 Ver 1.02.2 / 初出2005年 C68展示 / 戦略的循環攻撃型弾幕撃込シューティング）
     企画・コンセプトデザイン：Yoko。2005年から開発が始まり、2011年夏[コミックマーケット](../Page/コミックマーケット.md "wikilink")80にてVer1.00.0が頒布された同サークルの第2作目で、三方背BOXを使用した特殊装丁のパッケージで作品が頒布された。「リフレイン 〜プリズム メモリーズ〜」と読む。3つの攻撃を循環させて敵をなぎ倒す縦スクロールシューティングゲーム。本作の大きな特徴として、ゲージ消費により4段階まで派生する特殊攻撃「M.E.F.A2 (Mood.Emotion.Feeling.Affect attack)」システムがある（M.E.F.A2は「メファツー」とか「メーファツー」と呼ばれる\[8\]）。「M.E.F.A2」の3段階目、4段階目が敵に命中すると敵は一定時間行動を停止し大きな隙が出来る。この隙を利用し、自機は敵に強力な攻撃を畳み掛けることが出来る。M.E.F.A2は、汎用性に長けるショットや、画面上の敵弾を破壊可能弾に変換する「コンセプトリアクター(概念展開)」と連携させ、絶えず自機の攻撃を循環させることができ、自機は常に敵を積極的に攻めることが可能。[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")でありながら、戦闘中の緊迫感・スピード感を重視しており、精密な弾避けを重視しない内容となっている。\[9\]本作はシューティングゲーム専門誌『シューティングゲームサイド』Vol.2・Vol.4・Vol.6にかけて特集され、開発メンバーへのインタビューが掲載されたほか、日本の同人・インディーズゲームとしてQ-Gamesから招待され、日本のインディーズゲームを世界へ発信するイベント[BitSummit](https://ja.wikipedia.org/wiki/BitSummit "wikilink")にも出展された。\[10\]
   - RedRive（最新版2010年7月 Ver1.02 / 初出2009年 C76頒布 / スクウェアアクションゲーム）
@@ -70,11 +70,11 @@
 
 ## 参考文献
 
-  - 『[シューティングゲームサイド Vol.1](http://gameside.jp/sgs/sgs1/)』 P142〜153, 同人シューティング座談会（2010年10月17日 / [マイクロマガジン社](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")） ISBN 978-4-89637-348-6
-  - 『[シューティングゲームサイド Vol.2](http://gameside.jp/sgs/sgs2/)』 P153（2011年6月30日 / [マイクロマガジン社](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")） ISBN 978-4-89637-365-3
-  - 『[シューティングゲームサイド Vol.4](http://gameside.jp/sgs/sgs4/)』 P145〜149, 開発者インタビュー Yoko、らいね（2012年2月3日 / [マイクロマガジン社](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")） ISBN 978-4-89637-384-4
-  - 『[シューティングゲームサイド Vol.6](http://gameside.jp/sgs/sgs6/)』 P120〜121, 作曲者インタビュー Yoko、竜ライター（2013年2月9日 / [マイクロマガジン社](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")） ISBN 978-4-89637-410-0
-  - [IDGA Japan](https://ja.wikipedia.org/wiki/国際ゲーム開発者協会 "wikilink") [同人・インディーゲーム部会（SIG-Indie）第6回研究会（2010年2月20日）](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=247) [SIG-Indie6](http://igdaj-indie.blogspot.jp/2011/08/sig-indie6-80.html)「同人シューティングゲームの潮流 -80年代から現代まで、変化から学ぶ実践的な普遍性-」で使用された講演資料
+  - 『[シューティングゲームサイド Vol.1](http://gameside.jp/sgs/sgs1/)』 P142〜153, 同人シューティング座談会（2010年10月17日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-348-6
+  - 『[シューティングゲームサイド Vol.2](http://gameside.jp/sgs/sgs2/)』 P153（2011年6月30日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-365-3
+  - 『[シューティングゲームサイド Vol.4](http://gameside.jp/sgs/sgs4/)』 P145〜149, 開発者インタビュー Yoko、らいね（2012年2月3日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-384-4
+  - 『[シューティングゲームサイド Vol.6](http://gameside.jp/sgs/sgs6/)』 P120〜121, 作曲者インタビュー Yoko、竜ライター（2013年2月9日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-410-0
+  - [IDGA Japan](../Page/国際ゲーム開発者協会.md "wikilink") [同人・インディーゲーム部会（SIG-Indie）第6回研究会（2010年2月20日）](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=247) [SIG-Indie6](http://igdaj-indie.blogspot.jp/2011/08/sig-indie6-80.html)「同人シューティングゲームの潮流 -80年代から現代まで、変化から学ぶ実践的な普遍性-」で使用された講演資料
       - \- Yoko
 
       - \- Sheile
@@ -98,11 +98,11 @@
 
 1.  『シューティングゲームサイド Vol.4』 P148
 2.  『シューティングゲームサイド Vol.6』 P120
-3.  [三宅陽一郎](https://ja.wikipedia.org/wiki/三宅陽一郎 "wikilink")による、[IDGA Japan](https://ja.wikipedia.org/wiki/国際ゲーム開発者協会 "wikilink") [同人・インディーゲーム部会（SIG-Indie）第6回研究会（2010年2月20日）](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=247) での研究発表。[講演のスライド](http://www.slideshare.net/sakugetu/ss-3313374)。
+3.  [三宅陽一郎](https://ja.wikipedia.org/wiki/三宅陽一郎 "wikilink")による、[IDGA Japan](../Page/国際ゲーム開発者協会.md "wikilink") [同人・インディーゲーム部会（SIG-Indie）第6回研究会（2010年2月20日）](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=247) での研究発表。[講演のスライド](http://www.slideshare.net/sakugetu/ss-3313374)。
 4.  『シューティングゲームサイド Vol.1』P142〜153
 5.  [4Gamer.netの『五月雨 〜samidare〜』紹介記事](http://www.4gamer.net/games/040/G004096/20080815006/)
 6.  [アキバBlog, サークルRebRank　五月雨〜samidare〜　紹介記事「東方ファンはおさえておきましょう」](http://blog.livedoor.jp/geek/archives/50706144.html)
-7.  [七邊信重](https://ja.wikipedia.org/wiki/七邊信重 "wikilink")による、[日本デジタルゲーム学会](https://ja.wikipedia.org/wiki/日本デジタルゲーム学会 "wikilink") 同人ゲームの潮流第1回「同人ゲームの過去、現在、未来」（2008年9月26日開催）での研究発表。[4Gamer.netの記事](http://www.4gamer.net/games/042/G004287/20080928002/)、[五月雨に関する研究のスライド](http://www.4gamer.net/games/042/G004287/20080928002/screenshot.html?num=026)。
+7.  [七邊信重](https://ja.wikipedia.org/wiki/七邊信重 "wikilink")による、[日本デジタルゲーム学会](../Page/日本デジタルゲーム学会.md "wikilink") 同人ゲームの潮流第1回「同人ゲームの過去、現在、未来」（2008年9月26日開催）での研究発表。[4Gamer.netの記事](http://www.4gamer.net/games/042/G004287/20080928002/)、[五月雨に関する研究のスライド](http://www.4gamer.net/games/042/G004287/20080928002/screenshot.html?num=026)。
 8.  RefRain同封のおまけテキスト PNB_SMD-02.txt より。
 9.  [4Gamer.netの『RefRain 〜prism memories〜』紹介記事](http://www.4gamer.net/games/040/G004096/20110830063/)
 10. [BitSummit 2013、RebRank『RefRain 〜prism memories〜』の開発者インタビュー](http://www.gamespark.jp/article/2013/03/11/39431.html) 竹澤 陽・横塚 貴志・宮沢 洸一（2013年3月11日）

@@ -1,7 +1,7 @@
 > この記事は[Roni](https://ja.wikipedia.org/wiki/Roni)から翻訳されています。
 
 
-**DJ Roni**（ディージェー・ロニ、[1973年](../Page/1973年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）は、[長野県](../Page/長野県.md "wikilink")[小諸市](../Page/小諸市.md "wikilink")出身の女性[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")である。 [サンディ所属](https://ja.wikipedia.org/wiki/サンディ_\(芸能事務所\) "wikilink")（キャスティング契約）。
+**DJ Roni**（ディージェー・ロニ、[1973年](../Page/1973年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）は、[長野県](../Page/長野県.md "wikilink")[小諸市](../Page/小諸市.md "wikilink")出身の女性[DJ](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")である。 [サンディ所属](../Page/サンディ_\(芸能事務所\).md "wikilink")（キャスティング契約）。
 
 ## 来歴・人物
 
@@ -16,7 +16,7 @@
 
 2014年10月現在。
 
-  - スマホの歩き方\[2\]（[JFN](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")21局時差ネット、2012年10月-）
+  - スマホの歩き方\[2\]（[JFN](../Page/全国FM放送協議会.md "wikilink")21局時差ネット、2012年10月-）
   - [K-mix RADIOKIDS](https://ja.wikipedia.org/wiki/K-mix_RADIOKIDS "wikilink")\[3\]（[K-mix](../Page/静岡エフエム放送.md "wikilink")、2013年4月2日-・月-木曜15:08-18:55）
   - [JR CHIBA](../Page/東日本旅客鉄道千葉支社.md "wikilink") presents Traveler's Navi\[4\]（bayfm、2014年9月-11月・日曜11:47-12:00）
 
@@ -26,9 +26,9 @@
 
 <!-- end list -->
 
-  - [子安裕樹](https://ja.wikipedia.org/wiki/子安裕樹 "wikilink")のミッドナイトSOSO～\!（[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")）
+  - [子安裕樹](../Page/子安裕樹.md "wikilink")のミッドナイトSOSO～\!（[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")）
   - Miyagi NISSAN It's cool style（[Date fm](../Page/エフエム仙台.md "wikilink")）
-  - [MOZAIKU NIGHT〜No.1 Music Factory〜](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT〜No.1_Music_Factory〜 "wikilink")\[5\] 月・水曜担当（[bayfm](../Page/ベイエフエム.md "wikilink")、月曜25:30-28:53・水曜26:00-28:53）
+  - [MOZAIKU NIGHT〜No.1 Music Factory〜](../Page/MOZAIKU_NIGHT〜No.1_Music_Factory〜.md "wikilink")\[5\] 月・水曜担当（[bayfm](../Page/ベイエフエム.md "wikilink")、月曜25:30-28:53・水曜26:00-28:53）
   - Jump up\[6\]（bayfm）
   - FIRST BREAK（bayfm）
   - SURFSIDE FM（bayfm）
@@ -47,27 +47,27 @@
 
 ## テレビ番組
 
-  - [土曜マガジン パロパロ](https://ja.wikipedia.org/wiki/テレしず通りパロパロ "wikilink")（[テレビ静岡](../Page/テレビ静岡.md "wikilink")）
+  - [土曜マガジン パロパロ](../Page/テレしず通りパロパロ.md "wikilink")（[テレビ静岡](../Page/テレビ静岡.md "wikilink")）
   - 月間百面相 - MC（[MXTV](../Page/東京メトロポリタンテレビジョン.md "wikilink")）
 
 ## テレビCM
 
   - [エスエス製薬](../Page/エスエス製薬.md "wikilink")「イブＡ錠」 - ナレーション
-  - [カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")「植物性乳酸菌ラブレ」 - ナレーション
-  - [本坊酒造](https://ja.wikipedia.org/wiki/本坊酒造 "wikilink")「あらわざ 桜島」 - 出演
+  - [カゴメ](../Page/カゴメ.md "wikilink")「植物性乳酸菌ラブレ」 - ナレーション
+  - [本坊酒造](../Page/本坊酒造.md "wikilink")「あらわざ 桜島」 - 出演
   - [ジャンボエンチョー](https://ja.wikipedia.org/wiki/ジャンボエンチョー "wikilink")「eポイントカード」- 出演
 
 ## ウェブ
 
   - LIVE@FM（[NTT西日本](https://ja.wikipedia.org/wiki/NTT西日本 "wikilink")電信電話）
-  - [森永乳業](https://ja.wikipedia.org/wiki/森永乳業 "wikilink") [PARM](https://ja.wikipedia.org/wiki/PARM "wikilink")「PARMOON」\[9\] - ナビゲーター（[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、2011年6月1日-8月31日・平日20:00-、期間限定ミニ番組）
+  - [森永乳業](../Page/森永乳業.md "wikilink") [PARM](https://ja.wikipedia.org/wiki/PARM "wikilink")「PARMOON」\[9\] - ナビゲーター（[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、2011年6月1日-8月31日・平日20:00-、期間限定ミニ番組）
   - 森永乳業 PARM「Dayily Premium Calendar\[10\]」 - エディター
 
 ## 脚注
 
 ## 外部リンク
 
-  - [Roni Motion](http://ameblo.jp/dj-roni/) - [アメーバブログ](https://ja.wikipedia.org/wiki/アメーバブログ "wikilink")
+  - [Roni Motion](http://ameblo.jp/dj-roni/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   -

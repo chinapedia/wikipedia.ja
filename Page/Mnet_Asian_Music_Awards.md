@@ -1,7 +1,7 @@
 > この記事は[Mnet Asian Music Awards](https://ja.wikipedia.org/wiki/Mnet_Asian_Music_Awards)から翻訳されています。
 
 
-**Mnet Asian Music Awards**（エムネットアジアンミュージックアワード、、[略](../Page/略語.md "wikilink"): **MAMA**）は、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の音楽授賞式\[1\]。主催者は音楽専門チャンネル[Mnet](https://ja.wikipedia.org/wiki/Mnet "wikilink")の運営元である[CJ ENMで](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")\[2\]、番組視聴者投票、MAMA専門審査委員団による審査、音源販売量、アルバム販売量の4部門による総合結果を元に各賞が授与される\[3\]。アジア、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[北アメリカ](../Page/北アメリカ.md "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")でリアルタイム放送が行われる\[4\]。2014年度以降、各年の大賞賞名に**Union Pay**、**Hotelscombined**など公式スポンサーの企業名が冠されるようになった\[5\]。
+**Mnet Asian Music Awards**（エムネットアジアンミュージックアワード、、[略](../Page/略語.md "wikilink"): **MAMA**）は、[アジア](../Page/アジア.md "wikilink")の音楽授賞式\[1\]。主催者は音楽専門チャンネル[Mnet](../Page/Mnet.md "wikilink")の運営元である[CJ ENMで](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")\[2\]、番組視聴者投票、MAMA専門審査委員団による審査、音源販売量、アルバム販売量の4部門による総合結果を元に各賞が授与される\[3\]。アジア、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[北アメリカ](../Page/北アメリカ.md "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")でリアルタイム放送が行われる\[4\]。2014年度以降、各年の大賞賞名に**Union Pay**、**Hotelscombined**など公式スポンサーの企業名が冠されるようになった\[5\]。
 
 ## 沿革
 
@@ -19,7 +19,7 @@
   - 2011年 - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
   - 2012年 - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")
   - 2013年 - 香港
-  - 2014年 - 香港（公式スポンサー：[中国銀聯](https://ja.wikipedia.org/wiki/中国銀聯 "wikilink")※Union Pay\[12\]）
+  - 2014年 - 香港（公式スポンサー：[中国銀聯](../Page/中国銀聯.md "wikilink")※Union Pay\[12\]）
   - 2015年 - 香港（公式スポンサー：中国銀聯\[13\]）
   - 2016年 - 香港（公式スポンサー：[HotelsCombined](https://ja.wikipedia.org/wiki/HotelsCombined "wikilink")\[14\]）
   - 2017年 - 香港、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")（公式スポンサー：[Q10](https://ja.wikipedia.org/wiki/Q10 "wikilink")\[15\]）
@@ -51,12 +51,12 @@
   - **最優秀楽曲賞＝[Drunken Tiger](https://ja.wikipedia.org/wiki/Drunken_Tiger "wikilink")**
   - **最優秀人気ミュージックビデオ賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")**
   - 新人賞ソロ部門最優秀ミュージックビデオ賞＝[イム・ジョンヒ](https://ja.wikipedia.org/wiki/イム・ジョンヒ "wikilink")
-  - 新人賞グループ部門最優秀ミュージックビデオ賞＝[SS501](https://ja.wikipedia.org/wiki/SS501 "wikilink")
+  - 新人賞グループ部門最優秀ミュージックビデオ賞＝[SS501](../Page/SS501.md "wikilink")
   - 女性ソロ部門最優秀ミュージックビデオ賞＝[BoA](../Page/BoA.md "wikilink")
-  - 男性ソロ部門最優秀ミュージックビデオ賞＝[キム・ジョングク](https://ja.wikipedia.org/wiki/キム・ジョングク_\(歌手\) "wikilink")
-  - 女性グループ部門最優秀ミュージックビデオ賞＝[JEWELRY](https://ja.wikipedia.org/wiki/ジュエリー_\(音楽グループ\) "wikilink")
+  - 男性ソロ部門最優秀ミュージックビデオ賞＝[キム・ジョングク](../Page/キム・ジョングク_\(歌手\).md "wikilink")
+  - 女性グループ部門最優秀ミュージックビデオ賞＝[JEWELRY](../Page/ジュエリー_\(音楽グループ\).md "wikilink")
   - 男性グループ部門最優秀ミュージックビデオ賞＝[sg WANNA BE+](https://ja.wikipedia.org/wiki/sg_WANNA_BE+ "wikilink")
-  - 男女混成グループ部門最優秀ミュージックビデオ賞＝[コヨーテ](https://ja.wikipedia.org/wiki/コヨーテ_\(音楽グループ\) "wikilink")
+  - 男女混成グループ部門最優秀ミュージックビデオ賞＝[コヨーテ](../Page/コヨーテ_\(音楽グループ\).md "wikilink")
   - ロック部門最優秀ミュージックビデオ賞＝[BUZZ](https://ja.wikipedia.org/wiki/BUZZ "wikilink")
   - HIP HOP部門最優秀ミュージックビデオ賞＝[Epik High](https://ja.wikipedia.org/wiki/Epik_High "wikilink")
   - R\&B部門最優秀ミュージックビデオ賞＝[フィソン](https://ja.wikipedia.org/wiki/フィソン "wikilink")
@@ -68,8 +68,8 @@
   - 公演ビデオ部門最優秀賞＝[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")
   - 海外視聴者賞＝[カンタ](https://ja.wikipedia.org/wiki/安七リョン "wikilink")
   - Mnet+モバイル人気賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
-  - ネティズン人気賞＝[ムン・ヒジュン](https://ja.wikipedia.org/wiki/ムン・ヒジュン "wikilink")
-  - デジタル人気賞＝[MCモン](https://ja.wikipedia.org/wiki/MCモン "wikilink")
+  - ネティズン人気賞＝[ムン・ヒジュン](../Page/ムン・ヒジュン.md "wikilink")
+  - デジタル人気賞＝[MCモン](../Page/MCモン.md "wikilink")
   - 審査員特別賞＝[チョPD](https://ja.wikipedia.org/wiki/チョPD "wikilink")
   - Mnet KM プロデューサー選定特別賞＝[S.E.S](https://ja.wikipedia.org/wiki/S.E.S "wikilink")
   - 監督部門最優秀ミュージックビデオ賞＝ソ・ヒョンスン監督
@@ -82,49 +82,49 @@
 
   - **今年の歌手賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")**
   - **今年の歌賞＝[sg WANNA BE+](https://ja.wikipedia.org/wiki/sg_WANNA_BE+ "wikilink")**
-  - **今年のアルバム賞＝[sg WANNA BE+](https://ja.wikipedia.org/wiki/SG_Wannabe "wikilink")**
+  - **今年のアルバム賞＝[sg WANNA BE+](../Page/SG_Wannabe.md "wikilink")**
   - 最優秀男性ソロ賞＝[ピ](https://ja.wikipedia.org/wiki/ピ "wikilink")
   - 最優秀女性ソロ賞＝[ペク・チヨン](https://ja.wikipedia.org/wiki/ペク・チヨン "wikilink")
   - 最優秀グループ賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
   - 新人ソロ部門最優秀歌手賞＝チャン・リーイン（張力尹）
-  - 新人グループ賞＝[スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")
-  - R\&B賞＝[フライ・トゥ・ザ・スカイ](https://ja.wikipedia.org/wiki/フライ・トゥ・ザ・スカイ "wikilink")
-  - ダンス賞＝[SS501](https://ja.wikipedia.org/wiki/SS501 "wikilink")
+  - 新人グループ賞＝[スーパージュニア](../Page/スーパージュニア.md "wikilink")
+  - R\&B賞＝[フライ・トゥ・ザ・スカイ](../Page/フライ・トゥ・ザ・スカイ.md "wikilink")
+  - ダンス賞＝[SS501](../Page/SS501.md "wikilink")
   - ロック賞＝[BUZZ](https://ja.wikipedia.org/wiki/BUZZ "wikilink")
-  - ヒップホップ賞＝[MCモン](https://ja.wikipedia.org/wiki/MCモン "wikilink")
+  - ヒップホップ賞＝[MCモン](../Page/MCモン.md "wikilink")
   - バラード賞＝[イ・スンギ](https://ja.wikipedia.org/wiki/イ・スンギ "wikilink")
   - ミュージックビデオ賞＝PSY（サイ）
   - ミュージックビデオ監督賞＝[チャ・ウンテク](https://ja.wikipedia.org/wiki/チャ・ウンテク "wikilink")
-  - ミュージックビデオ演技賞＝[イ・ジュンギ](https://ja.wikipedia.org/wiki/イ・ジュンギ "wikilink")、[キム・ジス](https://ja.wikipedia.org/wiki/キム・ジス "wikilink")
-  - 外国音楽部門最優秀アーティスト賞＝[プッシーキャット・ドールズ](https://ja.wikipedia.org/wiki/プッシーキャット・ドールズ "wikilink")
+  - ミュージックビデオ演技賞＝[イ・ジュンギ](../Page/イ・ジュンギ.md "wikilink")、[キム・ジス](https://ja.wikipedia.org/wiki/キム・ジス "wikilink")
+  - 外国音楽部門最優秀アーティスト賞＝[プッシーキャット・ドールズ](../Page/プッシーキャット・ドールズ.md "wikilink")
   - アジアベストポップアーティスト賞＝[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")
-  - 海外視聴者賞＝[神話](https://ja.wikipedia.org/wiki/神話_\(音楽グループ\) "wikilink")
+  - 海外視聴者賞＝[神話](../Page/神話_\(音楽グループ\).md "wikilink")
   - エムネットプラスモバイル人気賞＝東方神起
   - YEPPネチズン人気賞＝神話
   - デジタル人気賞＝sg WANNA BE+
   - Mnet.com賞＝東方神起
-  - 最優秀O.S.T賞＝[SeeYa](https://ja.wikipedia.org/wiki/SeeYa "wikilink")「狂った愛の歌」
+  - 最優秀O.S.T賞＝[SeeYa](../Page/SeeYa.md "wikilink")「狂った愛の歌」
   - 今年の映画賞＝[ラジオスター](https://ja.wikipedia.org/wiki/ラジオスター "wikilink")
 
 ### 2007年
 
-  - **今年の歌手賞＝[スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")**
+  - **今年の歌手賞＝[スーパージュニア](../Page/スーパージュニア.md "wikilink")**
   - **今年の歌賞＝[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink") 『거짓말』**
   - **今年のアルバム賞＝[Epik High](https://ja.wikipedia.org/wiki/Epik_High "wikilink") 4集『Remapping the Human Soul』**
   - 最優秀男性歌手賞＝[イ・スンギ](https://ja.wikipedia.org/wiki/イ・スンギ "wikilink")
   - 最優秀女性歌手賞＝[IVY](https://ja.wikipedia.org/wiki/IVY "wikilink")
   - 最優秀男性グループ賞＝BIGBANG
-  - 最優秀女性グループ賞＝[SeeYa](https://ja.wikipedia.org/wiki/SeeYa "wikilink")
+  - 最優秀女性グループ賞＝[SeeYa](../Page/SeeYa.md "wikilink")
   - 最優秀混成グループ賞＝[Clazziquai](https://ja.wikipedia.org/wiki/Clazziquai "wikilink")
-  - 新人賞女性＝[ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")
+  - 新人賞女性＝[ユンナ](../Page/ユンナ.md "wikilink")
   - 新人男性グループ賞＝[FTIsland](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")
   - 新人女性グループ賞＝[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")
   - ロック音楽賞＝Cherry Filter
   - ヒップホップ音楽賞＝Epik High
-  - R＆B Soul音楽賞＝[sg WANNA BE+](https://ja.wikipedia.org/wiki/SG_Wannabe "wikilink")
+  - R＆B Soul音楽賞＝[sg WANNA BE+](../Page/SG_Wannabe.md "wikilink")
   - ハウス＆エレクトロニック音楽賞＝Clazziquai
   - バラード音楽賞＝ヤンパ
-  - ダンス音楽賞＝[天上智喜The Grace](https://ja.wikipedia.org/wiki/天上智喜The_Grace "wikilink")
+  - ダンス音楽賞＝[天上智喜The Grace](../Page/天上智喜The_Grace.md "wikilink")
   - 最優秀ミュージックビデオ演技賞＝チョン・イル/ペク・ソヒョン「どれほどの想いで」
   - 最優秀ミュージックビデオ作品賞＝Dynamic Duo「出席チェック」
   - MKMF功労賞＝イン・スニ
@@ -139,25 +139,25 @@
   - **今年の歌手賞＝[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")**
   - **今年の歌賞＝[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")** 『Nobody』
   - **今年のアルバム賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")** 『The 4th Album 'MIROTIC'』
-  - 最優秀男性歌手賞＝[ソ・テジ](https://ja.wikipedia.org/wiki/ソ・テジ "wikilink")「Moai」
-  - 最優秀女性歌手賞＝[イ・ヒョリ](https://ja.wikipedia.org/wiki/イ・ヒョリ "wikilink")「U-Go-Girl（with 낯선）」
+  - 最優秀男性歌手賞＝[ソ・テジ](../Page/ソ・テジ.md "wikilink")「Moai」
+  - 最優秀女性歌手賞＝[イ・ヒョリ](../Page/イ・ヒョリ.md "wikilink")「U-Go-Girl（with 낯선）」
   - 最優秀男性グループ賞＝BIGBANG「하루하루」
   - 最優秀女性グループ賞＝ワンダーガールズ「Nobody」
-  - 新人賞男性グループ＝[SHINee](https://ja.wikipedia.org/wiki/SHINee "wikilink")「누난 너무 예뻐」
+  - 新人賞男性グループ＝[SHINee](../Page/SHINee.md "wikilink")「누난 너무 예뻐」
   - 新人賞女性グループ＝[Davichi](https://ja.wikipedia.org/wiki/Davichi "wikilink")「미워도 사랑하니까」
   - ロック音楽賞＝Nell
   - ヒップホップ音楽賞＝[Epik High](https://ja.wikipedia.org/wiki/Epik_High "wikilink")「One（feat. 지선）」
   - バラード/R\&B音楽賞＝ブラウンアイズ「가지마 가지마」
   - ダンス音楽賞＝イ・ヒョリ「U-GO-Girl（with 낯선）」
-  - ハウス/エレクトロニクス音楽賞＝[JEWELRY](https://ja.wikipedia.org/wiki/ジュエリー_\(音楽グループ\) "wikilink")「One More Time」
+  - ハウス/エレクトロニクス音楽賞＝[JEWELRY](../Page/ジュエリー_\(音楽グループ\).md "wikilink")「One More Time」
   - 作詞賞＝キム・ドンリュル（また始めよう）
   - 作曲賞＝キム・ジョンワン(Nell)「記憶を歩く時間」
   - 編曲賞＝タブロー(Epik High)「One」
   - ミュージックビデオ作品賞＝ワンダーガールズ「ノーボディー」
   - ミュージックビデオ監督賞＝チャン・ジェヒョク「ワンダーガールズ「Nobody」など」
-  - OST賞＝キム・ジョンウク、[sg WANNA BE+](https://ja.wikipedia.org/wiki/SG_Wannabe "wikilink")（MBC『エデンの東』OST「運命を逆らって」）
-  - 10周年記念M.net KM PD特別賞＝[シン・スンフン](https://ja.wikipedia.org/wiki/シン・スンフン "wikilink")
-  - 10周年記念Remember賞＝[H.O.T.](https://ja.wikipedia.org/wiki/H.O.T. "wikilink")
+  - OST賞＝キム・ジョンウク、[sg WANNA BE+](../Page/SG_Wannabe.md "wikilink")（MBC『エデンの東』OST「運命を逆らって」）
+  - 10周年記念M.net KM PD特別賞＝[シン・スンフン](../Page/シン・スンフン.md "wikilink")
+  - 10周年記念Remember賞＝[H.O.T.](../Page/H.O.T..md "wikilink")
   - 今年の発見賞＝ギャラクシーエクスプレス
   - アジア ベスト アーティスト賞＝[方大同](https://ja.wikipedia.org/wiki/方大同 "wikilink")（中国歌手）
   - 海外視聴者賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
@@ -180,11 +180,11 @@
   - 新人賞男性グループ＝[Supreme Team](https://ja.wikipedia.org/wiki/Supreme_Team "wikilink")
   - 新人賞女性グループ＝2NE1
   - デジタル音源賞＝ペク・チヨン
-  - モバイル人気賞＝[スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")
+  - モバイル人気賞＝[スーパージュニア](../Page/スーパージュニア.md "wikilink")
   - CGV人気賞＝スーパージュニア
   - 海外視聴者賞＝スーパージュニア
   - ベストアジアスター賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
-  - 世界最優秀アーティスト賞＝[プッシーキャット・ドールズ](https://ja.wikipedia.org/wiki/プッシーキャット・ドールズ "wikilink")
+  - 世界最優秀アーティスト賞＝[プッシーキャット・ドールズ](../Page/プッシーキャット・ドールズ.md "wikilink")
   - 世界最優秀パフォーマンス賞＝[レディー・ガガ](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")
   - アジア推薦賞（日本）＝AKB48
   - アジア推薦賞（中国）＝Lollipop（棒棒堂）
@@ -198,7 +198,7 @@
   - 編曲賞＝シンサドンホレンイ（ 4minute - Muzik ）
   - ベストアジアン作曲家賞＝[パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")
   - バラード音楽賞＝キム・テウ
-  - OST賞＝[SS501](https://ja.wikipedia.org/wiki/SS501 "wikilink")「내 머리가 나빠서（花より男子 OST）」
+  - OST賞＝[SS501](../Page/SS501.md "wikilink")「내 머리가 나빠서（花より男子 OST）」
   - ミュージックポータルMnet賞＝2NE1
   - ミュージックビデオ作品賞＝2NE1「Fire」
   - ミュージックビデオ監督賞＝ホン・ウォンキ
@@ -242,7 +242,7 @@
 
   - **今年の歌手賞=[少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")**
   - **今年の歌賞=[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink") 『私が一番イケてる』**
-  - **今年のアルバム賞=[スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")**
+  - **今年のアルバム賞=[スーパージュニア](../Page/スーパージュニア.md "wikilink")**
   - 最優秀男性歌手賞＝キム・ヒョンジュン
   - 最優秀女性歌手賞＝ペク・チヨン
   - 最優秀男性グループ賞＝スーパージュニア
@@ -260,16 +260,16 @@
   - ホットアジアアーティスト賞＝[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - 最優秀アジア新人アーティスト賞ソロ部門＝Wei Chen
   - 最優秀アジア新人アーティスト賞グループ部門＝Aziatix
-  - 最優秀アジアアーティスト賞・中国部門＝[ジェーン・チャン](https://ja.wikipedia.org/wiki/ジェーン・チャン "wikilink")
+  - 最優秀アジアアーティスト賞・中国部門＝[ジェーン・チャン](../Page/ジェーン・チャン.md "wikilink")
   - シンガポール推薦賞＝スーパージュニア
-  - スタイル･イン･ミュージック＝[ソ・イニョン](https://ja.wikipedia.org/wiki/ソ・イニョン "wikilink")
+  - スタイル･イン･ミュージック＝[ソ・イニョン](../Page/ソ・イニョン.md "wikilink")
   - Mnet PD特別賞＝YB
 
 ### 2012年
 
   - **今年の歌手賞=[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")**
   - **今年の歌賞=[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")『[江南スタイル](https://ja.wikipedia.org/wiki/江南スタイル "wikilink")』**
-  - **今年のアルバム賞=[スーパージュニア](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")『Sexy, Free & Single』**
+  - **今年のアルバム賞=[スーパージュニア](../Page/スーパージュニア.md "wikilink")『Sexy, Free & Single』**
   - 最優秀男性歌手賞＝G-DRAGON
   - 最優秀女性歌手賞＝[IU](https://ja.wikipedia.org/wiki/IU_\(歌手\) "wikilink")
   - 最優秀男性グループ賞＝BIGBANG
@@ -280,7 +280,7 @@
   - 最優秀国際男性グループ賞＝スーパージュニア
   - 最優秀国際女性グループ賞＝[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")
   - 最優秀ダンスパフォーマンス賞男性ソロ部門＝PSY「江南スタイル」
-  - 最優秀ダンスパフォーマンス賞男性グループ部門＝[SHINee](https://ja.wikipedia.org/wiki/SHINee "wikilink")「Sherlock」
+  - 最優秀ダンスパフォーマンス賞男性グループ部門＝[SHINee](../Page/SHINee.md "wikilink")「Sherlock」
   - 最優秀ダンスパフォーマンス賞女性グループ部門＝[f (x)](https://ja.wikipedia.org/wiki/f_\(x\) "wikilink")「Electric Shock」
   - 「最優秀歌唱賞男性ソロ部門＝K.Will「니가 필요해」
   - 最優秀歌唱賞グループ部門＝[Davichi](https://ja.wikipedia.org/wiki/Davichi "wikilink")「생각날거야」
@@ -310,10 +310,10 @@
 出典：\[17\]
 
   - **BC-UnionPay今年の歌手賞=G-DRAGON（[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")）**
-  - **BC-UnionPay今年の歌賞=[チョー・ヨンピル](https://ja.wikipedia.org/wiki/チョー・ヨンピル "wikilink")『Bounce』**
+  - **BC-UnionPay今年の歌賞=[チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")『Bounce』**
   - **BC-UnionPay今年のアルバム賞=[EXO](https://ja.wikipedia.org/wiki/EXO "wikilink")『[XOXO](https://ja.wikipedia.org/wiki/XOXO "wikilink")』**
   - 最優秀男性歌手賞＝G-DRAGON
-  - 最優秀女性歌手賞＝[イ・ヒョリ](https://ja.wikipedia.org/wiki/イ・ヒョリ "wikilink")
+  - 最優秀女性歌手賞＝[イ・ヒョリ](../Page/イ・ヒョリ.md "wikilink")
   - 最優秀男性グループ賞＝[INFINITE](https://ja.wikipedia.org/wiki/INFINITE "wikilink")
   - 最優秀女性グループ賞＝[少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")
   - 新人賞男性部門＝ロイキム
@@ -321,13 +321,13 @@
   - 最優秀ミュージックビデオ賞＝G-DRAGON「쿠데타」
   - 最優秀ダンスパフォーマンス賞男性ソロ部門＝G-DRAGON「삐딱하게」
   - 最優秀ダンスパフォーマンス賞女性ソロ部門＝[CL](https://ja.wikipedia.org/wiki/CL_\(韓国の歌手\) "wikilink")「나쁜 기집애」
-  - 最優秀ダンスパフォーマンス賞男性グループ部門＝[SHINee](https://ja.wikipedia.org/wiki/SHINee "wikilink")「Dream Girl」
+  - 最優秀ダンスパフォーマンス賞男性グループ部門＝[SHINee](../Page/SHINee.md "wikilink")「Dream Girl」
   - 最優秀ダンスパフォーマンス賞女性グループ部門＝[SISTAR](https://ja.wikipedia.org/wiki/SISTAR "wikilink")「Give It To Me」
   - 最優秀歌唱賞男性ソロ部門＝[イ・スンギ](https://ja.wikipedia.org/wiki/イ・スンギ "wikilink")「되돌리다」
   - 最優秀歌唱賞女性ソロ部門＝[Ailee](https://ja.wikipedia.org/wiki/Ailee "wikilink")「U\&I」
   - 最優秀バンドパフォーマンス賞＝[Busker Busker](https://ja.wikipedia.org/wiki/バスカー・バスカー "wikilink")「처음엔 사랑이란게」
   - 最優秀ラップパフォーマンス賞＝Dynamic Duo「BAAAM」
-  - 最優秀アジアアーティスト賞・中国部門＝[アーロン・クオック](https://ja.wikipedia.org/wiki/アーロン・クオック "wikilink")
+  - 最優秀アジアアーティスト賞・中国部門＝[アーロン・クオック](../Page/アーロン・クオック.md "wikilink")
   - 最優秀アジアアーティスト賞・日本部門＝[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")
   - 最優秀アジアアーティスト賞・シンガポール部門＝[デリック・ホー](https://ja.wikipedia.org/wiki/何維健 "wikilink")
   - 最優秀アジアアーティスト賞・ベトナム部門＝Thu Minh
@@ -341,7 +341,7 @@
   - 最優秀世界的人気アーティスト賞＝[Ylvis](https://ja.wikipedia.org/wiki/Ylvis "wikilink")（イルヴィス）
   - Music Makes One（音楽がひとつとなったわけ）グローバル大使賞＝[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")
   - 次世代国際スター賞＝[A Pink](https://ja.wikipedia.org/wiki/A_Pink "wikilink")
-  - レッドカーペット・特別賞＝[イ・ジョンヒョン](https://ja.wikipedia.org/wiki/イ・ジョンヒョン "wikilink")
+  - レッドカーペット・特別賞＝[イ・ジョンヒョン](../Page/イ・ジョンヒョン.md "wikilink")
 
 ### 2014年
 
@@ -577,9 +577,9 @@
 ## 関連項目
 
   - [CJ E\&M](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink") - 主催元
-  - [Mnet](https://ja.wikipedia.org/wiki/Mnet "wikilink") - CJ E\&M運営の音楽チャンネル
+  - [Mnet](../Page/Mnet.md "wikilink") - CJ E\&M運営の音楽チャンネル
   - [音楽に関する賞](../Page/音楽に関する賞.md "wikilink")
-  - [ゴールデンディスク賞](https://ja.wikipedia.org/wiki/ゴールデンディスク賞 "wikilink")
+  - [ゴールデンディスク賞](../Page/ゴールデンディスク賞.md "wikilink")
   - [ソウル歌謡大賞](https://ja.wikipedia.org/wiki/ソウル歌謡大賞 "wikilink")
   - [Melon Music Awards](https://ja.wikipedia.org/wiki/Melon_Music_Awards "wikilink")
   - [ガオンチャートミュージックアワード](https://ja.wikipedia.org/wiki/ガオンチャートミュージックアワード "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ \(Something ELse\)](https://ja.wikipedia.org/wiki/_\(Something_ELse\))から翻訳されています。
 
 
-「**あいのうた**」は、[Something ELseの](https://ja.wikipedia.org/wiki/Something_ELse "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。
+「**あいのうた**」は、[Something ELseの](../Page/Something_ELse.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -14,7 +14,7 @@
 1.  **あいのうた**
       -
         作詞・作曲：今井千尋、編曲：[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
-        2nd[アルバム](../Page/アルバム.md "wikilink")『ギターマン』、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『TICKET』に収録
+        2nd[アルバム](../Page/アルバム.md "wikilink")『ギターマン』、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『TICKET』に収録
 2.  **花火が消えるまで**
       -
         作詞・作曲：今井千尋、編曲：[深沼元昭](https://ja.wikipedia.org/wiki/深沼元昭 "wikilink")

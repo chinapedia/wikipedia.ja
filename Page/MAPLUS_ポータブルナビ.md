@@ -1,9 +1,9 @@
 > この記事は[MAPLUS ](https://ja.wikipedia.org/wiki/MAPLUS_)から翻訳されています。
 
 
-**MAPLUS ポータブルナビ**（マップラス ポータブルナビ）は、[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（PSP）用の[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")ソフト。厳密にはゲームソフトではない。
+**MAPLUS ポータブルナビ**（マップラス ポータブルナビ）は、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）用の[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")ソフト。厳密にはゲームソフトではない。
 
-PSP専用[グローバル・ポジショニング・システム](../Page/グローバル・ポジショニング・システム.md "wikilink")[GPSレシーバー](https://ja.wikipedia.org/wiki/GPSレシーバー "wikilink")（PSP-290）とソフトをPSPにセットすることでPSPを[カーナビ](https://ja.wikipedia.org/wiki/カーナビ "wikilink")として使うことが出来る。もちろん徒歩でも利用可能。
+PSP専用[グローバル・ポジショニング・システム](../Page/グローバル・ポジショニング・システム.md "wikilink")[GPSレシーバー](../Page/GPSレシーバー.md "wikilink")（PSP-290）とソフトをPSPにセットすることでPSPを[カーナビ](https://ja.wikipedia.org/wiki/カーナビ "wikilink")として使うことが出来る。もちろん徒歩でも利用可能。
 
 ソフトには日本全国の道路地図（1/25,000）と約65万件の施設データが入っており、目的地を入力することで目的地までの道順を表示しつつ、音声によるナビゲーションを行ったり、周囲にある様々なお店などの施設を表示したり、自分の歩いた経路を記録することなどができる。施設などのポイントはユーザーが自分で入力したり、公式サイトからのダウンロードにより追加することもできる。原理としてはGPSレシーバーによって人工衛星からの電波を受信し、現在位置と座標を割り出し、画面上に表示させている。
 
@@ -11,9 +11,9 @@ PSP専用[グローバル・ポジショニング・システム](../Page/グロ
 
 教育・データベースソフトとしては異例の10万本のヒット作となった。
 
-[PND](https://ja.wikipedia.org/wiki/PND "wikilink")版もある。
+[PND](../Page/PND.md "wikilink")版もある。
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")には機能を大幅に向上させた新バージョン『[MAPLUS ポータブルナビ2](https://ja.wikipedia.org/wiki/MAPLUS_ポータブルナビ2 "wikilink")』が発売された。
+  - [2007年](../Page/2007年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")には機能を大幅に向上させた新バージョン『[MAPLUS ポータブルナビ2](https://ja.wikipedia.org/wiki/MAPLUS_ポータブルナビ2 "wikilink")』が発売された。
 
 <!-- end list -->
 

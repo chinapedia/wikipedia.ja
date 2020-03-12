@@ -6,12 +6,12 @@
 ## パーソナリティ
 
   - 月曜日：週替わりパーソナリティ
-  - 火曜日：[井口一彦](https://ja.wikipedia.org/wiki/井口一彦 "wikilink")（[ザ・ハート](https://ja.wikipedia.org/wiki/ザ・ハート "wikilink")）
-  - 水曜日：[中村義人](https://ja.wikipedia.org/wiki/中村義人 "wikilink")（[横道坊主](https://ja.wikipedia.org/wiki/横道坊主 "wikilink")） （1988年10月 - 1990年3月）
+  - 火曜日：[井口一彦](../Page/井口一彦.md "wikilink")（[ザ・ハート](https://ja.wikipedia.org/wiki/ザ・ハート "wikilink")）
+  - 水曜日：[中村義人](https://ja.wikipedia.org/wiki/中村義人 "wikilink")（[横道坊主](../Page/横道坊主.md "wikilink")） （1988年10月 - 1990年3月）
       -
-        →[Sgt.ルーク篁III世](https://ja.wikipedia.org/wiki/ルーク篁 "wikilink")（[聖飢魔II](../Page/聖飢魔II.md "wikilink")）、[VELVET PAW](https://ja.wikipedia.org/wiki/VELVET_PAW "wikilink") （1990年4月 - 同年9月）
-  - 木曜日：[武内享](https://ja.wikipedia.org/wiki/武内享 "wikilink")（[チェッカーズ](../Page/チェッカーズ.md "wikilink")）
-  - 金曜日：[近藤等則](https://ja.wikipedia.org/wiki/近藤等則 "wikilink")
+        →[Sgt.ルーク篁III世](../Page/ルーク篁.md "wikilink")（[聖飢魔II](../Page/聖飢魔II.md "wikilink")）、[VELVET PAW](https://ja.wikipedia.org/wiki/VELVET_PAW "wikilink") （1990年4月 - 同年9月）
+  - 木曜日：[武内享](../Page/武内享.md "wikilink")（[チェッカーズ](../Page/チェッカーズ.md "wikilink")）
+  - 金曜日：[近藤等則](../Page/近藤等則.md "wikilink")
   - 土曜日：[渡辺裕子](https://ja.wikipedia.org/wiki/渡辺裕子 "wikilink")、[斎藤千夏](https://ja.wikipedia.org/wiki/斎藤千夏 "wikilink") （1988年10月 - 1989年3月）
 
 ## 主なコーナー
@@ -39,7 +39,7 @@
 **水曜日（ルーク篁）**
 
   - 明るい悪魔相談室
-  - [キューティー鈴木](https://ja.wikipedia.org/wiki/キューティー鈴木 "wikilink")のコーナー
+  - [キューティー鈴木](../Page/キューティー鈴木.md "wikilink")のコーナー
 
 **木曜日**
 
@@ -61,6 +61,6 @@
 
 ## 特番
 
-  - MIDNIGHT SPECIAL　[GO-BANG'S](https://ja.wikipedia.org/wiki/GO-BANG'S "wikilink")の　SPECIAL　I LOVE YOU （1989年4月）
+  - MIDNIGHT SPECIAL　[GO-BANG'S](../Page/GO-BANG'S.md "wikilink")の　SPECIAL　I LOVE YOU （1989年4月）
 
 [Category:NACK5の帯番組](https://ja.wikipedia.org/wiki/Category:NACK5の帯番組 "wikilink") [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink")

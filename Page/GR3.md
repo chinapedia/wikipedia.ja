@@ -7,7 +7,7 @@
 
 [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")版[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")([グラディウス2](https://ja.wikipedia.org/wiki/グラディウス2 "wikilink")、[ゴーファーの野望 エピソードII](https://ja.wikipedia.org/wiki/ゴーファーの野望_エピソードII "wikilink"))の続編を目指して製作された。基本的なゲームシステムは[グラディウスと同様である](../Page/グラディウス_\(ゲーム\).md "wikilink")。
 
-操作は[キーボードのみ](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で製作されており、起動にはJRE（Java Runtime Environment。java言語用のランタイム）が必要であり、[Windowsだけではなく](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OSでも動作できるが](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、不具合も確認されている。
+操作は[キーボードのみ](../Page/キーボード_\(コンピュータ\).md "wikilink")。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で製作されており、起動にはJRE（Java Runtime Environment。java言語用のランタイム）が必要であり、[Windowsだけではなく](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OSでも動作できるが](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、不具合も確認されている。
 
 本作は、**MSX風ゲーム**として製作されているため、ゲーム中のグラフィックがレトロな感じだけではなく、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")版[グラディウス独特のカクカクしたスクロールや](../Page/グラディウス_\(ゲーム\).md "wikilink")、ゲーム起動時及びセーブ・ロード時の表示も、MSXのそれを再現している。雰囲気こそかつてのMSXのものと同じであるが、これをMSX実機で再現することはほぼ不可能に近いために今後もMSX版が出る可能性は皆無に等しいという。表示されるゲーム会社のロゴは株式会社ケナミという[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")のパロディとなっている。。
 

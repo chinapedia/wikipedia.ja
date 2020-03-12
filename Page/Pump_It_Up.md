@@ -444,10 +444,10 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
     Diva
     [DJ DOC](https://ja.wikipedia.org/wiki/DJ_DOC "wikilink")
     [DREAMCATCHER](https://ja.wikipedia.org/wiki/DREAMCATCHER "wikilink")
-    [Epik High](https://ja.wikipedia.org/wiki/エピック・ハイ "wikilink")
+    [Epik High](../Page/エピック・ハイ.md "wikilink")
     [EVERGLOW](https://ja.wikipedia.org/wiki/EVERGLOW "wikilink")
     [EXID](https://ja.wikipedia.org/wiki/EXID "wikilink")
-    [FIN.K.L](https://ja.wikipedia.org/wiki/ピンクル "wikilink")
+    [FIN.K.L](../Page/ピンクル.md "wikilink")
     [GFRIEND](https://ja.wikipedia.org/wiki/GFRIEND "wikilink")
     [(G)I-DLE](https://ja.wikipedia.org/wiki/\(G\)I-DLE "wikilink")
     [HAON](https://ja.wikipedia.org/wiki/:ko:HAON "wikilink")
@@ -455,7 +455,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
     [iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")
     [INFINITE](https://ja.wikipedia.org/wiki/INFINITE "wikilink")
     [KARA](https://ja.wikipedia.org/wiki/Kara "wikilink")
-    [Koyote](https://ja.wikipedia.org/wiki/コヨーテ_\(音楽グループ\) "wikilink")
+    [Koyote](../Page/コヨーテ_\(音楽グループ\).md "wikilink")
     [MAMAMOO](https://ja.wikipedia.org/wiki/MAMAMOO "wikilink")
     [Miss A](https://ja.wikipedia.org/wiki/Miss_A "wikilink")
     [MOMOLAND](https://ja.wikipedia.org/wiki/MOMOLAND "wikilink")
@@ -471,23 +471,23 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
     [Roo'Ra](https://ja.wikipedia.org/wiki/Roo'Ra "wikilink")
     [Sechs Kies](https://ja.wikipedia.org/wiki/Sechs_Kies "wikilink")
     [SEVENTEEN](https://ja.wikipedia.org/wiki/SEVENTEEN_\(音楽グループ\) "wikilink")
-    [SHINee](https://ja.wikipedia.org/wiki/SHINee "wikilink")
+    [SHINee](../Page/SHINee.md "wikilink")
     [SOM2](https://ja.wikipedia.org/wiki/MEILIN "wikilink")
     [T-ara](https://ja.wikipedia.org/wiki/T-ara "wikilink")
     Tashannie
     [Turbo](https://ja.wikipedia.org/wiki/Turbo_\(音楽グループ\) "wikilink")
-    [U;Nee](https://ja.wikipedia.org/wiki/U;Nee "wikilink")
+    [U;Nee](../Page/U;Nee.md "wikilink")
     [VASSLINE](https://ja.wikipedia.org/wiki/:ko:바세린_\(밴드\) "wikilink")
     [VIXX](https://ja.wikipedia.org/wiki/VIXX "wikilink")
     [Wanna One](https://ja.wikipedia.org/wiki/Wanna_One "wikilink")
-    [Wax](https://ja.wikipedia.org/wiki/Wax "wikilink")
+    [Wax](../Page/Wax.md "wikilink")
     [WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")
     [Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")(元メンバーの[ソンミの曲も含む](https://ja.wikipedia.org/wiki/ソンミ_\(歌手\) "wikilink"))
-    [李博士](https://ja.wikipedia.org/wiki/李博士 "wikilink")(E-paksa)
+    [李博士](../Page/李博士.md "wikilink")(E-paksa)
     [コブギ](https://ja.wikipedia.org/wiki/コブギ "wikilink")(Turtles)
-    [神話](https://ja.wikipedia.org/wiki/神話_\(音楽グループ\) "wikilink")
-    [ソテジワアイドゥル](https://ja.wikipedia.org/wiki/ソテジワアイドゥル "wikilink")([ソ・テジ](https://ja.wikipedia.org/wiki/ソ・テジ "wikilink")を含む)
-    [チャン・ユンジョン](https://ja.wikipedia.org/wiki/チャン・ユンジョン_\(歌手\) "wikilink")
+    [神話](../Page/神話_\(音楽グループ\).md "wikilink")
+    [ソテジワアイドゥル](../Page/ソテジワアイドゥル.md "wikilink")([ソ・テジ](../Page/ソ・テジ.md "wikilink")を含む)
+    [チャン・ユンジョン](../Page/チャン・ユンジョン_\(歌手\).md "wikilink")
     [ドランクンタイガー](https://ja.wikipedia.org/wiki/ドランクンタイガー "wikilink")
     [ホン・ジニョン](https://ja.wikipedia.org/wiki/ホン・ジニョン "wikilink")
 
@@ -503,28 +503,28 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
     [Celldweller](https://ja.wikipedia.org/wiki/:en:Celldweller "wikilink")
     Cranky
     D_AAN
-    [Daddy Yankee](https://ja.wikipedia.org/wiki/ダディー・ヤンキー "wikilink")
+    [Daddy Yankee](../Page/ダディー・ヤンキー.md "wikilink")
     Future Funk Squad
     Matduke
     [PXNDX](https://ja.wikipedia.org/wiki/:en:Panda_\(band\) "wikilink")
     Rainbowdragoneyes
     Sanxion7
     Saykoji
-    [Shakira](https://ja.wikipedia.org/wiki/シャキーラ "wikilink")
+    [Shakira](../Page/シャキーラ.md "wikilink")
     Sid-Sound
     SGX
     3R2
     Stian K
     Suger Eyes
-    [Super Junior-M](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")
+    [Super Junior-M](../Page/スーパージュニア.md "wikilink")
     SynthWulf
     The DNC
     Vospi
     Yassi Pressman & Nadine Lustre
     [Zircon](https://ja.wikipedia.org/wiki/:en:Zircon_\(composer\) "wikilink")
-    [イ・ジョンヒョン](https://ja.wikipedia.org/wiki/イ・ジョンヒョン "wikilink")
-    [チャン・ナラ](https://ja.wikipedia.org/wiki/チャン・ナラ "wikilink")
-    [王力宏](https://ja.wikipedia.org/wiki/ワン・リーホン "wikilink")
+    [イ・ジョンヒョン](../Page/イ・ジョンヒョン.md "wikilink")
+    [チャン・ナラ](../Page/チャン・ナラ.md "wikilink")
+    [王力宏](../Page/ワン・リーホン.md "wikilink")
 
 <!-- end list -->
 
@@ -565,7 +565,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
 
 ## 意匠権問題
 
-[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")は意匠権の侵害としてPump It Upの製作元であるソンドエンターテイメント社を訴えた。初審はコナミ側の訴えを認め、その後それを不服としたアンダミロ社は[上訴](https://ja.wikipedia.org/wiki/上訴 "wikilink")を予定したが、結果的にはコナミの独占的知的財産（知的所有権）を利用した対価として和解金を支払い、両者は和解した。
+[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")は意匠権の侵害としてPump It Upの製作元であるソンドエンターテイメント社を訴えた。初審はコナミ側の訴えを認め、その後それを不服としたアンダミロ社は[上訴](../Page/上訴.md "wikilink")を予定したが、結果的にはコナミの独占的知的財産（知的所有権）を利用した対価として和解金を支払い、両者は和解した。
 
 ## シリーズ
 
@@ -746,7 +746,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
 <!-- end list -->
 
   -
-    北米向けにリリースされた作品で、[RoxorのIn](https://ja.wikipedia.org/wiki/:en:Roxor_Games "wikilink") The Grooveを開発したスタッフの一部が独立して設立したFun In MotionとAndamiroの共同開発である。また、[StepMania](https://ja.wikipedia.org/wiki/StepMania "wikilink")のエンジンを使用したバージョンで、Pump It Upシリーズのスピンオフ作品という位置付けになっている。
+    北米向けにリリースされた作品で、[RoxorのIn](https://ja.wikipedia.org/wiki/:en:Roxor_Games "wikilink") The Grooveを開発したスタッフの一部が独立して設立したFun In MotionとAndamiroの共同開発である。また、[StepMania](../Page/StepMania.md "wikilink")のエンジンを使用したバージョンで、Pump It Upシリーズのスピンオフ作品という位置付けになっている。
     Pump It Upオリジナル楽曲やライセンス楽曲の収録に加え、[In The Grooveシリーズから移植された楽曲も数多い](https://ja.wikipedia.org/wiki/In_The_Groove "wikilink")。
     システム面は[In The Grooveシリーズをベースにしており](https://ja.wikipedia.org/wiki/In_The_Groove "wikilink")、スコア方式を達成率方式に変更、踏むと達成率が減少するマインノートの追加、**Perfect**の上位判定である**Superb**の追加、リザルト時のスクリーンショットの保存、規定曲数の終了後や楽曲のクリア失敗後にコンティニューが存在するなど、Pump It Upメインシリーズから様々な点での変更が行われている。
     また、PROシリーズではNormalの下にEasyの譜面難易度が追加され、難易度は全て1扱いとなっている（但し、一部の楽曲にはEasyが存在しないものもある）
@@ -833,7 +833,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
 <!-- end list -->
 
   -
-    北米及び欧州向けにリリースされたPROシリーズの後継作品であり、開発はTeam Infinityが担当。[StepMania](https://ja.wikipedia.org/wiki/StepMania "wikilink") 5のエンジンを改良したものと、Fiestaと同じエンジンを使用している。
+    北米及び欧州向けにリリースされたPROシリーズの後継作品であり、開発はTeam Infinityが担当。[StepMania](../Page/StepMania.md "wikilink") 5のエンジンを改良したものと、Fiestaと同じエンジンを使用している。
     システムやインターフェースはPROシリーズより寧ろメインシリーズに近くなっているが、PROシリーズの要素は引き続き搭載されている。
     PROシリーズで追加されたSuperb判定はオプション扱いとなり、プレイヤーごとに使用するか選択できる。
     2013年2月稼動。
@@ -862,7 +862,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
 
   -
     2015 Primeの日本販売用バージョンで[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")の[ALL.Net](https://ja.wikipedia.org/wiki/ALL.Net "wikilink")対応だが、セガ・インタラクティブのAime並びに[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")のバナパスポートカードには非対応。
-    主に[セガ エンタテインメント](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")のアミューズメント店舗にて稼働。特にセガ・ナムコの店舗における稼働が多い。
+    主に[セガ エンタテインメント](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、[カプコン](../Page/カプコン.md "wikilink")のアミューズメント店舗にて稼働。特にセガ・ナムコの店舗における稼働が多い。
     2015年6月稼動。
     [Pump It Up JP Official Twitter](http://twitter.com/piujp/status/610791413630939138)
 
@@ -876,7 +876,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
     WPF2016の決勝大会時にティザー動画形式にて情報が解禁。
     画面のサイズが拡大され、エフェクトも華やかとなった新筐体が登場。(国内では新筐体で稼働されていない。)
     プレイデータの管理等はUSBに加えエントリーカード形式が新たに採用された。(国内ではエントリーカードは非対応。)
-    Square Pixelsの[EZ2AC](https://ja.wikipedia.org/wiki/EZ2DJ "wikilink")、MOMOの[O2Jam](https://ja.wikipedia.org/wiki/O2Jam "wikilink")、Unit-eの[NeonFM](https://ja.wikipedia.org/wiki/NeonFM "wikilink")の楽曲が収録。
+    Square Pixelsの[EZ2AC](https://ja.wikipedia.org/wiki/EZ2DJ "wikilink")、MOMOの[O2Jam](../Page/O2Jam.md "wikilink")、Unit-eの[NeonFM](https://ja.wikipedia.org/wiki/NeonFM "wikilink")の楽曲が収録。
     [PIU PRIME 2 Teaser 1st](https://www.youtube.com/watch?v=eaby44oIgpw)
     2016年12月稼働。中南米版、オセアニア版、韓国版、日本を除くアジア地域ではそれぞれ稼動開始時期が若干異なる。日本版は2017年4月下旬より稼働。2018年1月1日以降に行われたヴァージョンアップによりシリーズタイトルが「2018 PRIME2」に変更された。
 
@@ -898,9 +898,9 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
   - PREX3 -International 4th Dance Floor-（PC）
   - Exceed（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
   - Exceed SE（[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、PS2）
-  - Portable（[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")）
+  - Portable（[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - Zero -International 7th Dance Floor-（PSP）
-  - H5 ([ブラウザゲーム](https://ja.wikipedia.org/wiki/ブラウザゲーム "wikilink"))
+  - H5 ([ブラウザゲーム](../Page/ブラウザゲーム.md "wikilink"))
   - M ([Google Play](https://ja.wikipedia.org/wiki/Google_Play "wikilink"))
 
 ## 訳注

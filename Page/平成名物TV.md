@@ -3,7 +3,7 @@
 
 **平成名物TV**（へいせいめいぶつテレビ）は、[1989年](../Page/1989年.md "wikilink")2月から[1991年](../Page/1991年.md "wikilink")9月に[TBS他で放送されていた土曜深夜](../Page/TBSテレビ.md "wikilink")（日曜未明）の[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[コンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")[番組](../Page/番組.md "wikilink")枠の俗称。日本で初めて「[平成](../Page/平成.md "wikilink")」をタイトルに入れた番組と言われている。
 
-[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から10ヶ月放送された『[SUPER WEEKEND LIVE 土曜深夜族](../Page/SUPER_WEEKEND_LIVE_土曜深夜族.md "wikilink")』をリニューアルする形で放送開始。この前身番組の第1部司会だった[三宅裕司](../Page/三宅裕司.md "wikilink")はそのまま「[いかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")」の司会者として続投、中盤放送の「オフィスヒット」と後半部の「トンガリ編」もそのまま番組スタイルを継承してスタートした。
+[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から10ヶ月放送された『[SUPER WEEKEND LIVE 土曜深夜族](../Page/SUPER_WEEKEND_LIVE_土曜深夜族.md "wikilink")』をリニューアルする形で放送開始。この前身番組の第1部司会だった[三宅裕司](../Page/三宅裕司.md "wikilink")はそのまま「[いかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")」の司会者として続投、中盤放送の「オフィスヒット」と後半部の「トンガリ編」もそのまま番組スタイルを継承してスタートした。
 
 ## 番組構成
 
@@ -34,7 +34,7 @@
 1989年2月11日〜1990年3月31日
 
   - 司会
-      - [木村和久](https://ja.wikipedia.org/wiki/木村和久 "wikilink")
+      - [木村和久](../Page/木村和久.md "wikilink")
       - [森口博子](../Page/森口博子.md "wikilink")
 
 #### IKE IKE CLUB
@@ -43,7 +43,7 @@
 
   - 司会
       - 木村和久（後に降板）
-      - 森口博子→[本田みずほ](https://ja.wikipedia.org/wiki/本田みずほ "wikilink")→[蓮舫](../Page/蓮舫.md "wikilink")→[藍田美豊](https://ja.wikipedia.org/wiki/藍田美豊 "wikilink")
+      - 森口博子→[本田みずほ](../Page/本田みずほ.md "wikilink")→[蓮舫](../Page/蓮舫.md "wikilink")→[藍田美豊](https://ja.wikipedia.org/wiki/藍田美豊 "wikilink")
 
 木村降板後は、藍田ほか2名の女性が司会を務める。また、パネラーとして元・[T-BACKS](../Page/T-BACKS.md "wikilink")の[佐藤恵子](https://ja.wikipedia.org/wiki/佐藤恵子 "wikilink")や、[遠峯ありさも出演していた](../Page/華原朋美.md "wikilink")。
 
@@ -64,7 +64,7 @@
   - 出演者
       - [翔](../Page/翔_\(歌手\).md "wikilink")
       - [イクラちゃん](https://ja.wikipedia.org/wiki/井倉光一 "wikilink")
-      - [及出泰](https://ja.wikipedia.org/wiki/YASU "wikilink")(現YASU）
+      - [及出泰](../Page/YASU.md "wikilink")(現YASU）
       - [一本木蛮](../Page/一本木蛮.md "wikilink")
   - 他
       - 1989年10月から1990年3月までの間に「出て来いお笑い君」のコーナーがあり、その部分では[バカルディ](../Page/さまぁ〜ず.md "wikilink")、[コロンボ](https://ja.wikipedia.org/wiki/コロンボ_\(お笑い\) "wikilink")、[SHINGEN](https://ja.wikipedia.org/wiki/SHINGEN "wikilink")の3組が5週勝ち抜きを達成し、チャンピオンに輝いた。
@@ -73,17 +73,17 @@
 
 【これ以降、後半（3部）は事前収録となる】
 1990年[4月28日](../Page/4月28日.md "wikilink")〜1991年4月6日
-各団体の若手[落語家](../Page/落語家.md "wikilink")がチームを組み、[大喜利](https://ja.wikipedia.org/wiki/大喜利 "wikilink")や[コント](../Page/コント.md "wikilink")で得点を競う。
+各団体の若手[落語家](../Page/落語家.md "wikilink")がチームを組み、[大喜利](../Page/大喜利.md "wikilink")や[コント](../Page/コント.md "wikilink")で得点を競う。
 
   - 司会者
       - [松尾貴史](../Page/松尾貴史.md "wikilink")
       - [早坂あきよ](../Page/早坂あきよ.md "wikilink")
   - 審査員
       - [なぎら健壱](../Page/なぎら健壱.md "wikilink")
-      - [ヨネスケ](https://ja.wikipedia.org/wiki/ヨネスケ "wikilink")
+      - [ヨネスケ](../Page/ヨネスケ.md "wikilink")
       - [団鬼六](../Page/団鬼六.md "wikilink")
-      - [鈴木清順](https://ja.wikipedia.org/wiki/鈴木清順 "wikilink")
-      - [OTO](https://ja.wikipedia.org/wiki/JAGATARA "wikilink")
+      - [鈴木清順](../Page/鈴木清順.md "wikilink")
+      - [OTO](../Page/JAGATARA.md "wikilink")
   - 若手落語家
       - [芸協ルネッサンス](../Page/落語芸術協会.md "wikilink")
           - [春風亭昇太](../Page/春風亭昇太.md "wikilink")
@@ -91,18 +91,18 @@
           - 春風亭柳八（現：[5代目春風亭柳好](https://ja.wikipedia.org/wiki/春風亭柳好#俗に5代目 "wikilink")）
       - [落協エシャレッツ](../Page/落語協会.md "wikilink")
           - 春風亭あさ市（現：[五明樓玉の輔](../Page/五明樓玉の輔.md "wikilink")）
-          - [三遊亭窓里](https://ja.wikipedia.org/wiki/三遊亭窓里 "wikilink")
+          - [三遊亭窓里](../Page/三遊亭窓里.md "wikilink")
           - 橘家文吾（現：[橘家文蔵](../Page/橘家文蔵_\(3代目\).md "wikilink")）
-      - [円楽ヤングバンブーズ](https://ja.wikipedia.org/wiki/円楽一門会 "wikilink")
+      - [円楽ヤングバンブーズ](../Page/円楽一門会.md "wikilink")
           - [三遊亭愛楽](../Page/三遊亭愛楽.md "wikilink")
-          - 三遊亭優（現：[三遊亭楽春](https://ja.wikipedia.org/wiki/三遊亭楽春 "wikilink")）
-          - [三遊亭好太郎](https://ja.wikipedia.org/wiki/三遊亭好太郎 "wikilink")
+          - 三遊亭優（現：[三遊亭楽春](../Page/三遊亭楽春.md "wikilink")）
+          - [三遊亭好太郎](../Page/三遊亭好太郎.md "wikilink")
       - [立川ボーイズ](https://ja.wikipedia.org/wiki/立川ボーイズ "wikilink")
           - [立川談春](../Page/立川談春.md "wikilink")
           - [立川志らく](../Page/立川志らく.md "wikilink")
           - [朝寝坊のらく](https://ja.wikipedia.org/wiki/朝寝坊のらく "wikilink")
   - その他
-      - [ナポレオンズ](https://ja.wikipedia.org/wiki/ナポレオンズ "wikilink")
+      - [ナポレオンズ](../Page/ナポレオンズ.md "wikilink")
   - 主なコーナー
       - 真夜中の大喜利ショー
       - めざせラフターズ
@@ -144,13 +144,13 @@
 
 </div>
 
-TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[板東英二のわがままミッドナイト](https://ja.wikipedia.org/wiki/板東英二のわがままミッドナイト "wikilink")』の放送に伴う）、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")では放映されなかった。[あいテレビ](../Page/あいテレビ.md "wikilink")は当番組放送当時、未開局だった。
+TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[板東英二のわがままミッドナイト](../Page/板東英二のわがままミッドナイト.md "wikilink")』の放送に伴う）、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")では放映されなかった。[あいテレビ](../Page/あいテレビ.md "wikilink")は当番組放送当時、未開局だった。
 
 また「えび天」中盤から遅れネットとなっていたCBCテレビでは最終回が放映されず、ひとつ前の放送回終盤で三宅裕司が、次回が最終回となる旨のコメントをしている場面に「この番組は今回をもちまして終了させていただきます」というお断りテロップが表示されて終了という、地元在住の視聴者にとっては理不尽極まりない終わり方をした。
 
 ## その他
 
-  - [2009年](../Page/2009年.md "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")に[NHK BS-1で放送された](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")[日めくりタイムトラベル](https://ja.wikipedia.org/wiki/日めくりタイムトラベル "wikilink")では、[1989年](../Page/1989年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")64年・[平成](../Page/平成.md "wikilink")元年）を取り上げ、[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")のコーナーではTBSの映像協力で当番組の第1回の冒頭部分の一部が放送されていた。
+  - [2009年](../Page/2009年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")に[NHK BS-1で放送された](../Page/NHK_BS1.md "wikilink")[日めくりタイムトラベル](https://ja.wikipedia.org/wiki/日めくりタイムトラベル "wikilink")では、[1989年](../Page/1989年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")64年・[平成](../Page/平成.md "wikilink")元年）を取り上げ、[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")のコーナーではTBSの映像協力で当番組の第1回の冒頭部分の一部が放送されていた。
   - 「ヨタロー」に出演していた立川談春・立川志らく・春風亭昇太などが人気落語家となり、平成末期以降のTBSの番組に出演する際、若手時代の映像として、この番組に出演していた時のVTRが流されることが多い。
 
 ## 後継枠

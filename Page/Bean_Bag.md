@@ -7,7 +7,7 @@
 
   - **YUMI**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
     [ドレッドヘアー](https://ja.wikipedia.org/wiki/ドレッドヘアー "wikilink")と[メガネ](https://ja.wikipedia.org/wiki/メガネ "wikilink")が特徴であったが、現在はイメチェンしどちらも辞めている。
-  - **カナザワコウスケ**（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - **カナザワコウスケ**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
     旧ネームは「金澤耕介」。
   - **タカイテツシ**（[ドラム](../Page/ドラムセット.md "wikilink")）
     旧ネームは「高井哲史」。
@@ -25,7 +25,7 @@
 
   - 1996年に大阪で結成される。
   - 2000年にインディーズでミニアルバム「isotope」、翌年にはマキシシングル「プラズマ18」をリリースしバンド上京。
-  - 2003年、タワーレコード限定で3作品を連続リリース、YUMIがスペースシャワーTV「[熱血\!スペシャ中学](https://ja.wikipedia.org/wiki/熱血!スペシャ中学 "wikilink")」のレギュラー出演。
+  - 2003年、タワーレコード限定で3作品を連続リリース、YUMIがスペースシャワーTV「[熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")」のレギュラー出演。
   - 2004年
       - 1月、SONYからアルバム『豆と希望』リリース。
       - 3月、和が脱退。プロデューサー[辻剛](https://ja.wikipedia.org/wiki/辻剛 "wikilink")がサポートへ。
@@ -110,8 +110,8 @@
 <li>寿限無ロック A.K.A How to fun?</li>
 <li>クラゲナイト</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エスエムイーレコーズ" title="wikilink">エスエムイーレコーズ</a><br />
-<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a> 2004年5月<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
+<td><p><a href="../Page/エスエムイーレコーズ.md" title="wikilink">エスエムイーレコーズ</a><br />
+<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a> 2004年5月<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
 <a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「ロンロバ!金メダル!」エンディング・テーマ</p></td>
 </tr>
 <tr class="even">
@@ -139,7 +139,7 @@
 <li>ECHO</li>
 </ol></td>
 <td><p>エスエムイーレコーズ<br />
-<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系ドラマ「<a href="https://ja.wikipedia.org/wiki/Deep_Love" title="wikilink">Deep Love ホスト</a>」挿入歌</p></td>
+<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系ドラマ「<a href="../Page/Deep_Love.md" title="wikilink">Deep Love ホスト</a>」挿入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -223,7 +223,7 @@
 <td><p>SECL-61:CCCD<br />
 SECL-231:CD</p></td>
 <td><ol>
-<li>夢と希望 (2004年1月度<a href="https://ja.wikipedia.org/wiki/Monthly_A_Music" title="wikilink">Monthly A Music</a>)</li>
+<li>夢と希望 (2004年1月度<a href="../Page/Monthly_A_Music.md" title="wikilink">Monthly A Music</a>)</li>
 <li>アイコ アイコ</li>
 <li>サファリ</li>
 <li>quiet</li>
@@ -298,8 +298,8 @@ SECL-231:CD</p></td>
 
 ## 出演
 
-  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
-    2004年「ブレイクレーダー」のコーナーに出演。[6月18日](../Page/6月18日.md "wikilink")放送分([青森市文化会館](https://ja.wikipedia.org/wiki/青森市文化会館 "wikilink")で収録)で集計ミスに遭うも、[9月10日](../Page/9月10日.md "wikilink")放送分に再度出演し、支持率82.3%という高得点を獲得、前回の悔しさを晴らし、見事5週勝ち抜きという大挙を果たした。ちなみに1週目では[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")（56.1％）に大差で勝利している。
+  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）
+    2004年「ブレイクレーダー」のコーナーに出演。[6月18日](../Page/6月18日.md "wikilink")放送分([青森市文化会館](../Page/青森市文化会館.md "wikilink")で収録)で集計ミスに遭うも、[9月10日](../Page/9月10日.md "wikilink")放送分に再度出演し、支持率82.3%という高得点を獲得、前回の悔しさを晴らし、見事5週勝ち抜きという大挙を果たした。ちなみに1週目では[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")（56.1％）に大差で勝利している。
 
 ## 主なライブ
 

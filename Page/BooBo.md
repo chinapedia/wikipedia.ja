@@ -5,30 +5,30 @@
 
 ## 概要
 
-[日光江戸村](../Page/日光江戸村.md "wikilink")の[ニャンまげ](https://ja.wikipedia.org/wiki/ニャンまげ "wikilink")や、[KDDI](../Page/KDDI.md "wikilink")（[auブランド](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）の[LISMO](../Page/LISMO.md "wikilink")の[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")を手がけた[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")[アートディレクター](https://ja.wikipedia.org/wiki/アートディレクター "wikilink")の佐野研二郎が黒豚をモチーフにしてデザインした。TBSの「B」をキャラクターの顔にして「**TブーS\!**」というサインでお茶の間へアピールしていた。
+[日光江戸村](../Page/日光江戸村.md "wikilink")の[ニャンまげ](../Page/ニャンまげ.md "wikilink")や、[KDDI](../Page/KDDI.md "wikilink")（[auブランド](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）の[LISMO](../Page/LISMO.md "wikilink")の[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")を手がけた[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")[アートディレクター](../Page/アートディレクター.md "wikilink")の佐野研二郎が黒豚をモチーフにしてデザインした。TBSの「B」をキャラクターの顔にして「**TブーS\!**」というサインでお茶の間へアピールしていた。
 
-登場しばらくはテレビの中のキャラクターロゴであった。のちに[ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")や[文具](https://ja.wikipedia.org/wiki/文具 "wikilink")などのグッズなどが作られ、[TBSストアなどのグッズショップで販売されている](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")。また、全国各地で[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")した[根付](https://ja.wikipedia.org/wiki/根付 "wikilink")などが[お土産店で販売されている](https://ja.wikipedia.org/wiki/土産 "wikilink")。
+登場しばらくはテレビの中のキャラクターロゴであった。のちに[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")や[文具](https://ja.wikipedia.org/wiki/文具 "wikilink")などのグッズなどが作られ、[TBSストアなどのグッズショップで販売されている](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")。また、全国各地で[コラボレーション](../Page/コラボレーション.md "wikilink")した[根付](../Page/根付.md "wikilink")などが[お土産店で販売されている](../Page/土産.md "wikilink")。
 
 TBSのキャラクターである事に加えて、TBSグループ各社並びに[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")/[TBSネットワークの統一](../Page/TBS系列.md "wikilink")[シンボルマーク](../Page/シンボルマーク.md "wikilink")として「[ジ〜ン](../Page/ジ〜ン.md "wikilink")」がBooBoよりも先に制定されていた事情もあり\[3\]、TBS以外の放送局への登場はあまりないが、『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』『[全日本実業団女子駅伝](https://ja.wikipedia.org/wiki/全日本実業団女子駅伝 "wikilink")』など、積極的に用いている番組もある。
 
 TBSが2011年までオーナー企業を務めていた[横浜ベイスターズの主催試合で](../Page/横浜DeNAベイスターズ.md "wikilink")、ベイスターズのマスコット「[ホッシー](https://ja.wikipedia.org/wiki/ホッシー "wikilink")」たちと共演し、踊ったりもしていた。さらには『[TBSラジオ エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")』のマスコットキャラクター「エキベ〜」も彼らと共演していた。
 
-[2004年](../Page/2004年.md "wikilink")より[フジテレビとの共同制作で放送されている](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボール](../Page/バレーボール.md "wikilink")世界最終予選』では、フジテレビのバレーボールマスコットキャラクター「[バボちゃん](https://ja.wikipedia.org/wiki/バボちゃん "wikilink")」と共演。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[バレーボール世界選手権に別バージョンとしてバレブー](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")（ValleyBoo）が、[2007年](../Page/2007年.md "wikilink")[世界陸上大阪大会ではアスリートブー](https://ja.wikipedia.org/wiki/2007年世界陸上選手権 "wikilink")（AthleteBoo）が登場した。青いサッカーユニフォームを着た「サッカーBooBo」もいる。
+[2004年](../Page/2004年.md "wikilink")より[フジテレビとの共同制作で放送されている](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボール](../Page/バレーボール.md "wikilink")世界最終予選』では、フジテレビのバレーボールマスコットキャラクター「[バボちゃん](../Page/バボちゃん.md "wikilink")」と共演。[2006年](../Page/2006年.md "wikilink")[バレーボール世界選手権に別バージョンとしてバレブー](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")（ValleyBoo）が、[2007年](../Page/2007年.md "wikilink")[世界陸上大阪大会ではアスリートブー](https://ja.wikipedia.org/wiki/2007年世界陸上選手権 "wikilink")（AthleteBoo）が登場した。青いサッカーユニフォームを着た「サッカーBooBo」もいる。
 
 実はBooBoはブタでなく架空の生き物であると、『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）の番組内で佐野が語っていた。
 
 TBSの公式グッズ（玩具・文具・DVDなど）には、BooBoが描かれた証紙が貼り付けられている。携帯サイト「TBSゲームパーク」にあるゲームにも多数使用されている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の「[TBS平日ワイド大改編](https://ja.wikipedia.org/wiki/TBS平日ワイド大改編 "wikilink")」のCMでは、[声優](../Page/声優.md "wikilink")を[お笑いタレント](../Page/お笑いタレント.md "wikilink")の[劇団ひとり](../Page/劇団ひとり.md "wikilink")が担当した。
+[2005年](../Page/2005年.md "wikilink")の「[TBS平日ワイド大改編](../Page/TBS平日ワイド大改編.md "wikilink")」のCMでは、[声優](../Page/声優.md "wikilink")を[お笑いタレント](../Page/お笑いタレント.md "wikilink")の[劇団ひとり](../Page/劇団ひとり.md "wikilink")が担当した。
 
 2013年3月末の春のキャンペーンより、ピンク色の肌の女の子「Boona（ブーナ）」が登場した。デザインはBooBo同様、佐野研二郎が担当。
 
-現在は[インターネットブラウザ](https://ja.wikipedia.org/wiki/インターネットブラウザ "wikilink")の[タブ](https://ja.wikipedia.org/wiki/タブ "wikilink")のロゴにも反映される\[4\]。データ放送の右上のロゴはBがBooBoが横になってBに見えるようなロゴを用いている（2016年現在TBSテレビのロゴはFrom　TBSと3つ併用状態）。
+現在は[インターネットブラウザ](https://ja.wikipedia.org/wiki/インターネットブラウザ "wikilink")の[タブ](../Page/タブ.md "wikilink")のロゴにも反映される\[4\]。データ放送の右上のロゴはBがBooBoが横になってBに見えるようなロゴを用いている（2016年現在TBSテレビのロゴはFrom　TBSと3つ併用状態）。
 
 ## 出演番組
 
   - 「○曜は（番組名）の日 by TブーS」\[5\]というシリーズのCMで初登場。BooBoが番組にちなんだ行動をする[アニメーション](../Page/アニメーション.md "wikilink")だった。BooBoそのもののほか、[水戸黄門や](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\)の登場人物一覧#主演 "wikilink")[筑紫哲也](https://ja.wikipedia.org/wiki/筑紫哲也 "wikilink")などに扮したBooBoも登場した。
-  - 2007年12月17日から21日は、『はなまるマーケット』と『[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")』にゲストで出演し、『イブニング・ファイブ』には[森田正光](../Page/森田正光.md "wikilink")と2ショットで出演した。テロップには「[サンタBoo](../Page/サンタクロース.md "wikilink")」と表示された。また『[チャンネル☆ロック\!](https://ja.wikipedia.org/wiki/チャンネル☆ロック! "wikilink")』では天気予報でVTRで登場している。
+  - 2007年12月17日から21日は、『はなまるマーケット』と『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』にゲストで出演し、『イブニング・ファイブ』には[森田正光](../Page/森田正光.md "wikilink")と2ショットで出演した。テロップには「[サンタBoo](../Page/サンタクロース.md "wikilink")」と表示された。また『[チャンネル☆ロック\!](../Page/チャンネル☆ロック!.md "wikilink")』では天気予報でVTRで登場している。
   - 『[うたばん](../Page/うたばん.md "wikilink")』（2008年10月23日）のオープニングトークで通常は[とんねるず](../Page/とんねるず.md "wikilink")・[石橋貴明](../Page/石橋貴明.md "wikilink")がいる席にBooBoのぬいぐるみがあった（この日はゲストが石橋が所属する[矢島美容室](https://ja.wikipedia.org/wiki/矢島美容室 "wikilink")だったため）。また2009年3月12日放送でも同じ理由で置いてあった。
   - 2009年から『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』のエンディングに出演していた。「最後のおさらい」の後に登場していた。
   - 2009年10月から『[ウンナン極限ネタバトル\! ザ・イロモネア 笑わせたら100万円](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")』のオープニングに登場していた。
@@ -39,7 +39,7 @@ TBSの公式グッズ（玩具・文具・DVDなど）には、BooBoが描かれ
 
 ## 関連項目
 
-  - [らいよんチャン](../Page/らいよんチャン.md "wikilink")（[JNN系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[準キー局](https://ja.wikipedia.org/wiki/準キー局 "wikilink")の[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [らいよんチャン](../Page/らいよんチャン.md "wikilink")（[JNN系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[準キー局](../Page/準キー局.md "wikilink")の[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
       -
         2011年にTBSとMBSの共同企画として、BooBoとらいよんチャンのコラボレーショングッズが発売され、競演した。
 

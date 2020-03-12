@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**株式会社Jストリーム**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置くインターネット上でのコンテンツ配信のための通信インフラ](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")（[コンテンツデリバリネットワーク](https://ja.wikipedia.org/wiki/コンテンツデリバリネットワーク "wikilink")）提供事業者。1997年5月に設立され、日本国内で初期にコンテンツデリバリネットワーク（以下CDNと表す）を構築した企業である\[1\]。
+**株式会社Jストリーム**は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置くインターネット上でのコンテンツ配信のための通信インフラ](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")（[コンテンツデリバリネットワーク](../Page/コンテンツデリバリネットワーク.md "wikilink")）提供事業者。1997年5月に設立され、日本国内で初期にコンテンツデリバリネットワーク（以下CDNと表す）を構築した企業である\[1\]。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ## 沿革
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")5月 - [国際電信電話](../Page/国際電信電話.md "wikilink")株式会社、株式会社[NTTPCコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTPCコミュニケーションズ "wikilink")、[トランス・コスモス株式会社](../Page/トランスコスモス.md "wikilink")、[Progressive Networks, Inc.の出資によりリアル](https://ja.wikipedia.org/wiki/リアルネットワークス "wikilink")・ストリーム株式会社設立\[5\]。（資本金480,000千円）
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")5月 - [国際電信電話](../Page/国際電信電話.md "wikilink")株式会社、株式会社[NTTPCコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTPCコミュニケーションズ "wikilink")、[トランス・コスモス株式会社](../Page/トランスコスモス.md "wikilink")、[Progressive Networks, Inc.の出資によりリアル](../Page/リアルネットワークス.md "wikilink")・ストリーム株式会社設立\[5\]。（資本金480,000千円）
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")6月 - 商号をリアル・ストリーム株式会社から株式会社ジェイストリームに変更。
   - 1997年8月 - ライブストリーミング配信サービス開始\[6\]。
   - 1998年8月 - オンデマンド配信サービス開始。
@@ -31,7 +31,7 @@
 ## 所有する技術・サービス
 
   - [ストリーミング](../Page/ストリーミング.md "wikilink")
-  - [コンテンツデリバリネットワーク](https://ja.wikipedia.org/wiki/コンテンツデリバリネットワーク "wikilink")
+  - [コンテンツデリバリネットワーク](../Page/コンテンツデリバリネットワーク.md "wikilink")
 
 ## 出典
 

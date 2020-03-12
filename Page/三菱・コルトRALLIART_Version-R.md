@@ -1,19 +1,19 @@
 > この記事は[RALLIART Version-R](https://ja.wikipedia.org/wiki/RALLIART_Version-R)から翻訳されています。
 
 
-**COLT RALLIART Version-R**（コルト・ラリーアート・ヴァージョン-アール）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・[販売](../Page/販売.md "wikilink")をしていた[自動車](../Page/自動車.md "wikilink")である。小型[ハッチバック](../Page/ハッチバック.md "wikilink")の[コルトをベースとしたスポーツモデルである](https://ja.wikipedia.org/wiki/三菱・コルト "wikilink")。
+**COLT RALLIART Version-R**（コルト・ラリーアート・ヴァージョン-アール）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・[販売](../Page/販売.md "wikilink")をしていた[自動車](../Page/自動車.md "wikilink")である。小型[ハッチバック](../Page/ハッチバック.md "wikilink")の[コルトをベースとしたスポーツモデルである](../Page/三菱・コルト.md "wikilink")。
 
 ## 概要
 
-従来[WRCに参戦していた](../Page/世界ラリー選手権.md "wikilink")[ランサーエボリューションの次期モデルが大型化されるために](../Page/三菱・ランサーエボリューション.md "wikilink")[コルトベースの通称エボリューションが登場するといわれていたが](https://ja.wikipedia.org/wiki/三菱・コルト "wikilink")、この案は取りやめとなり代わりとして本車が登場した。
+従来[WRCに参戦していた](../Page/世界ラリー選手権.md "wikilink")[ランサーエボリューションの次期モデルが大型化されるために](../Page/三菱・ランサーエボリューション.md "wikilink")[コルトベースの通称エボリューションが登場するといわれていたが](../Page/三菱・コルト.md "wikilink")、この案は取りやめとなり代わりとして本車が登場した。
 
 かねてから存在していたコルトの[ラリーアート](../Page/ラリーアート.md "wikilink")仕様に、外装は専用のエアロバンパーやオーバーフェンダーを装着してランサーエボリューションを思わせる外観にしている他、スポット[溶接](../Page/溶接.md "wikilink")の増し打ちなどによりボディ剛性が強化されている。
 
-エンジンは1.5Lの[4G15型](https://ja.wikipedia.org/wiki/三菱・4G1型エンジン "wikilink")[MIVEC](../Page/MIVEC.md "wikilink")ターボを採用。トランスミッションには[ゲトラグ](https://ja.wikipedia.org/wiki/ゲトラグ "wikilink")製の5速[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")または、[INVECS](https://ja.wikipedia.org/wiki/INVECS "wikilink")-III・スポーツモード6-[CVTを搭載する](https://ja.wikipedia.org/wiki/無段変速機 "wikilink")。マニュアルトランスミッション車に限り、[横滑り防止装置](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")（[アクティブスタビリティコントロール](https://ja.wikipedia.org/wiki/アクティブスタビリティコントロール "wikilink")）を装備している。 5速マニュアルトランスミッションとフロント[サスペンション](../Page/サスペンション.md "wikilink")は、[欧州仕様のコルトに採用されているものを使用している](../Page/ヨーロッパ.md "wikilink")。 [レカロ](../Page/レカロ.md "wikilink")シート2脚もオプション品として16万円で設定されていた。
+エンジンは1.5Lの[4G15型](https://ja.wikipedia.org/wiki/三菱・4G1型エンジン "wikilink")[MIVEC](../Page/MIVEC.md "wikilink")ターボを採用。トランスミッションには[ゲトラグ](../Page/ゲトラグ.md "wikilink")製の5速[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")または、[INVECS](https://ja.wikipedia.org/wiki/INVECS "wikilink")-III・スポーツモード6-[CVTを搭載する](../Page/無段変速機.md "wikilink")。マニュアルトランスミッション車に限り、[横滑り防止装置](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")（[アクティブスタビリティコントロール](https://ja.wikipedia.org/wiki/アクティブスタビリティコントロール "wikilink")）を装備している。 5速マニュアルトランスミッションとフロント[サスペンション](../Page/サスペンション.md "wikilink")は、[欧州仕様のコルトに採用されているものを使用している](../Page/ヨーロッパ.md "wikilink")。 [レカロ](../Page/レカロ.md "wikilink")シート2脚もオプション品として16万円で設定されていた。
 
 ## 歴史（2006年-2012年）
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月30日](../Page/5月30日.md "wikilink") - 発表、販売開始。ランエボⅨと同一のアルミペダル(5MT車のみ)、240km/hフルスケールホワイトメーター(CVT車は180km/hハイコントラストメーター)、スポーツサスペンション、ASC、16インチホイール、タイヤは、205/45R16サイズのヨコハマ アドバンネオバAD07が標準装備。レカロシートがオプションで設定されていた。(レッドメタリック色のセンターサイドパネルと左右エアコン吹き出し口のエアアウトレットリングとのセットオプション)
+  - [2006年](../Page/2006年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - 発表、販売開始。ランエボⅨと同一のアルミペダル(5MT車のみ)、240km/hフルスケールホワイトメーター(CVT車は180km/hハイコントラストメーター)、スポーツサスペンション、ASC、16インチホイール、タイヤは、205/45R16サイズのヨコハマ アドバンネオバAD07が標準装備。レカロシートがオプションで設定されていた。(レッドメタリック色のセンターサイドパネルと左右エアコン吹き出し口のエアアウトレットリングとのセットオプション)
   - [2007年](../Page/2007年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink") - RECARO Edition発売。ベースモデルではオプション設定の4スピーカー、ランサーエボリューションⅧMRと同一仕様のレカロ製シート、UV&ヒートプロテクトガラス+撥水フロントドアガラスが標準装備され、ブラック内装・ランサーエボリューションⅨMRと同一の本革巻丸型シフトノブ・Version-Rロゴ入りスカッフプレート・「Version-R」サイドデカールなどの専用装備が追加される。新色のアクアメタリックを含む全4色設定。価格アップを抑え装備を充実。通称、中期型。
       - [11月14日](../Page/11月14日.md "wikilink") - コルト、コルトプラスとともにマイナーチェンジ。5MT車のエンジン出力を154PSから163PSに向上し、[ランサーエボリューションXと同仕様の丸型シフトノブを装備](https://ja.wikipedia.org/wiki/三菱・ランサーエボリューション#ランサーエボリューションX "wikilink")。このほか、軽量化された新デザインの[ENKEI](https://ja.wikipedia.org/wiki/ENKEI "wikilink")製アルミホイールの採用や「Version-R」ロゴ入りスカッフプレートへの変更、ブラック色内装への変更、シート生地の改良や本体色の追加を行なう。また、オプション設定のレカロ製シートがランエボXで採用しているタイプと同一品に変更された。通称、後期型。
 
@@ -31,11 +31,11 @@
 ## 関連項目
 
   - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink")
-  - [三菱・コルト](https://ja.wikipedia.org/wiki/三菱・コルト "wikilink")
-  - [三菱・コルトプラス](https://ja.wikipedia.org/wiki/三菱・コルトプラス "wikilink")
+  - [三菱・コルト](../Page/三菱・コルト.md "wikilink")
+  - [三菱・コルトプラス](../Page/三菱・コルトプラス.md "wikilink")
   - [ホットハッチ](../Page/ホットハッチ.md "wikilink")
-  - [三菱・ミラージュ](https://ja.wikipedia.org/wiki/三菱・ミラージュ "wikilink")
-  - [三菱・ミラージュディンゴ](https://ja.wikipedia.org/wiki/三菱・ミラージュディンゴ "wikilink")
+  - [三菱・ミラージュ](../Page/三菱・ミラージュ.md "wikilink")
+  - [三菱・ミラージュディンゴ](../Page/三菱・ミラージュディンゴ.md "wikilink")
 
 ## 外部リンク
 

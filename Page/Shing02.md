@@ -53,13 +53,13 @@
 
 ## 経歴
 
-[1975年](../Page/1975年.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")に生まれる。幼少期を[タンザニア](../Page/タンザニア.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で過ごし、小学4年生から中学2年生までを[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")で過ごす。15歳のとき[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")へ。その後、大学進学に伴い[バークレーへ引っ越す](https://ja.wikipedia.org/wiki/バークレー_\(カリフォルニア州\) "wikilink")。十代半ばから[ブレイキングや](../Page/ブレイクダンス.md "wikilink")[グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ "wikilink")などのヒップホップ文化には慣れ親しんでいたが、[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")時代に、当時西海岸でプロップス（賛同）を得ていたグループHieroglyphicsのMC、Del The Funky Homosapienらのヒップホップコミュニティと出会ったことによって本格的に[ヒップホップ](../Page/ヒップホップ.md "wikilink")カルチャーに魅入られ、[MCとなる](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。それまでは工作や絵を趣味とする少年であった\[4\]。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、バークレーのイベントでDJ Top Bill、DJ $HIN、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")と出会う\[5\]。この頃アメリカに来ていた[KAMINARI-KAZOKU.](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU. "wikilink")の[RINOとも出会う](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")\[6\]。
+[1975年](../Page/1975年.md "wikilink")、[東京都](../Page/東京都.md "wikilink")に生まれる。幼少期を[タンザニア](../Page/タンザニア.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で過ごし、小学4年生から中学2年生までを[千葉県](../Page/千葉県.md "wikilink")で過ごす。15歳のとき[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")へ。その後、大学進学に伴い[バークレーへ引っ越す](../Page/バークレー_\(カリフォルニア州\).md "wikilink")。十代半ばから[ブレイキングや](../Page/ブレイクダンス.md "wikilink")[グラフィティ](../Page/グラフィティ.md "wikilink")などのヒップホップ文化には慣れ親しんでいたが、[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")時代に、当時西海岸でプロップス（賛同）を得ていたグループHieroglyphicsのMC、Del The Funky Homosapienらのヒップホップコミュニティと出会ったことによって本格的に[ヒップホップ](../Page/ヒップホップ.md "wikilink")カルチャーに魅入られ、[MCとなる](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。それまでは工作や絵を趣味とする少年であった\[4\]。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、バークレーのイベントでDJ Top Bill、DJ $HIN、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")と出会う\[5\]。この頃アメリカに来ていた[KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")の[RINOとも出会う](../Page/RINO_LATINA_II.md "wikilink")\[6\]。
 
 ### ヒップホップMCとして
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")夏、十代の頃に書き上げた処女作、「絵夢詩ノススメ」を携え、MCとして初来日。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、4月22日にシングル「日本性事情」、12月16日にシングル「Pearl Harbor」をリリース。この頃、日本での就職活動も行ったが、結局音楽一本の道を選ぶことになる。[1999年](../Page/1999年.md "wikilink")10月29日、アルバム『緑黄色人種』発売。[2002年](../Page/2002年.md "wikilink")2月22日、アルバム『400』発売。同年7月26日に、SHING02 & THE HEAVY MANNERSとして[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")に出演。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")の[反原発プロジェクト](https://ja.wikipedia.org/wiki/原子力撤廃 "wikilink")、[STOP ROKKASHOに参加](../Page/STOP_ROKKASHO.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月18日、[日本語](../Page/日本語.md "wikilink")オリジナルアルバムとしては6年ぶりとなる『歪曲』を発売。その後リリースツアー「歪曲巡礼」を行う。[鎌仲ひとみ](https://ja.wikipedia.org/wiki/鎌仲ひとみ "wikilink")監督のドキュメンタリー映画「ミツバチの羽音と地球の回転」の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")を手掛け、アルバム『ASHES TO HONEY』発売。[2012年](../Page/2012年.md "wikilink")10月24日に発売された[たむらぱん](https://ja.wikipedia.org/wiki/たむらぱん "wikilink")のアルバム『wordwide』の楽曲「でもない」に客演。
+[2006年](../Page/2006年.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")の[反原発プロジェクト](../Page/原子力撤廃.md "wikilink")、[STOP ROKKASHOに参加](../Page/STOP_ROKKASHO.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月18日、[日本語](../Page/日本語.md "wikilink")オリジナルアルバムとしては6年ぶりとなる『歪曲』を発売。その後リリースツアー「歪曲巡礼」を行う。[鎌仲ひとみ](https://ja.wikipedia.org/wiki/鎌仲ひとみ "wikilink")監督のドキュメンタリー映画「ミツバチの羽音と地球の回転」の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を手掛け、アルバム『ASHES TO HONEY』発売。[2012年](../Page/2012年.md "wikilink")10月24日に発売された[たむらぱん](https://ja.wikipedia.org/wiki/たむらぱん "wikilink")のアルバム『wordwide』の楽曲「でもない」に客演。
 
 ## 人物
 
@@ -118,7 +118,7 @@
 3.  オムニバス「FIRST COLLECTION-HYDE OUT PRODUCTION」(2003/4/23)
       - 6\. Luv (Sic)
       - 14\. Luv (Sic) Part. 2
-4.  [Nujabes](https://ja.wikipedia.org/wiki/Nujabes "wikilink")「Metaphorical Music」(2003/8/21)
+4.  [Nujabes](../Page/Nujabes.md "wikilink")「Metaphorical Music」(2003/8/21)
       - 12\. F.I.L.O. Feat. Shing02
 5.  REBEL FAMILIA「REBEL FAMILIA presents“SOLIDARITY”」(2004/5/19)
       - 9\. STAND ALONE (REBEL ALONE DUB) (SHING02 & REBEL FAMILIA)

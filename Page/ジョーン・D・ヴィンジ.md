@@ -1,15 +1,15 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-**ジョーン・D・ヴィンジ**（**Joan D. Vinge**、[1948年](../Page/1948年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）は、アメリカの[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")の生まれ。[ヒューゴー賞を受賞した小説](../Page/ヒューゴー賞_長編小説部門.md "wikilink")『雪の女王』とその続編、またキャットという名前の[テレパスを主人公としたシリーズで知られている](https://ja.wikipedia.org/wiki/テレパシー "wikilink")。
+**ジョーン・D・ヴィンジ**（**Joan D. Vinge**、[1948年](../Page/1948年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）は、アメリカの[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")の生まれ。[ヒューゴー賞を受賞した小説](../Page/ヒューゴー賞_長編小説部門.md "wikilink")『雪の女王』とその続編、またキャットという名前の[テレパスを主人公としたシリーズで知られている](../Page/テレパシー.md "wikilink")。
 
 ## 概要
 
 ヴィンジは大学でアートを勉強したが、後に[人類学](../Page/人類学.md "wikilink")専攻に変わり、1971年に[サンディエゴ州立大学](../Page/サンディエゴ州立大学.md "wikilink")で文学士（B.A.）を獲得した。
 
-1974年、アンソロジー *Orbit 14* に収録された短編「錫の兵隊」(*Tin Soldier*)でデビュー。また、[アナログ誌](https://ja.wikipedia.org/wiki/アスタウンディング "wikilink")、アンソロジー『女の千年王国』、*Asimov's Science Fiction*誌、*Omni Magazine*誌、いくつかの年間ベストアンソロジーにも作品を発表している。
+1974年、アンソロジー *Orbit 14* に収録された短編「錫の兵隊」(*Tin Soldier*)でデビュー。また、[アナログ誌](../Page/アスタウンディング.md "wikilink")、アンソロジー『女の千年王国』、*Asimov's Science Fiction*誌、*Omni Magazine*誌、いくつかの年間ベストアンソロジーにも作品を発表している。
 
-1983年『ジェダイの復讐 ストーリーブック』はベストセラーとなり、[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")のブックレビューリストで二ヶ月間一位をキープした。この手の本としては史上初のことである。
+1983年『ジェダイの復讐 ストーリーブック』はベストセラーとなり、[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")のブックレビューリストで二ヶ月間一位をキープした。この手の本としては史上初のことである。
 
 ヴィンジは2回結婚している。一回目はSF作家仲間の[ヴァーナー・ヴィンジ](../Page/ヴァーナー・ヴィンジ.md "wikilink")、二回目はSF編集者のジェームズ・フレンケルである。フレンケルとの間に二人の子供をもうけている。
 

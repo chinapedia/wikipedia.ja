@@ -3,20 +3,20 @@
 
 **TOKYO No.1 SOUL SET**（トーキョーナンバーワンソウルセット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")初めに結成。インディーズのナツメグ・レーベルから数枚作品をリリースした後、1994年江戸屋レコード（BMG）よりメジャーデビュー。
 
-BIKKEの語りかけるようなラップが特徴。ヒップホップグループ・クラン、[リトル・バード・ネイション](https://ja.wikipedia.org/wiki/リトル・バード・ネイション "wikilink")にも参加。
+BIKKEの語りかけるようなラップが特徴。ヒップホップグループ・クラン、[リトル・バード・ネイション](../Page/リトル・バード・ネイション.md "wikilink")にも参加。
 
 ## メンバー
 
   - 川辺ヒロシ（かわなべ ヒロシ）
     本名：川辺 浩志（かわなべ ひろし、[1967年](../Page/1967年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）、DJ、トラック・メイキング担当。
-    [鹿児島県](../Page/鹿児島県.md "wikilink")出身。[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")とのコラボレーションによるスペシャルユニット[InK](https://ja.wikipedia.org/wiki/InK "wikilink")など複数のユニットでも活動中。妻はタレントの[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")。
+    [鹿児島県](../Page/鹿児島県.md "wikilink")出身。[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")とのコラボレーションによるスペシャルユニット[InK](../Page/InK.md "wikilink")など複数のユニットでも活動中。妻はタレントの[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")。
   - BIKKE（ビッケ）
     本名：宮本 謙市（みやもと けんいち、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）：ヴォーカル、作詞担当。
-    [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。[Nathalie Wiseとしても活動](https://ja.wikipedia.org/wiki/Nathalie_Wise "wikilink")。『[Let's天才てれびくん](https://ja.wikipedia.org/wiki/Let's天才てれびくん "wikilink")』では声のみの出演でだんきち役を担当した。
+    [埼玉県](../Page/埼玉県.md "wikilink")出身。[Nathalie Wiseとしても活動](../Page/Nathalie_Wise.md "wikilink")。『[Let's天才てれびくん](https://ja.wikipedia.org/wiki/Let's天才てれびくん "wikilink")』では声のみの出演でだんきち役を担当した。
   - 渡辺俊美（わたなべ としみ)
     ([1966年](../Page/1966年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - ）：ギター、ヴォーカル、サウンド・プロダクション担当。男性。
-    [福島県](../Page/福島県.md "wikilink")出身。ソウルセットと並行してソロユニット[THE ZOOT16でも活動中](https://ja.wikipedia.org/wiki/THE_ZOOT16 "wikilink")。また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月に、同じ福島県出身である[山口隆（サンボマスター）らとともに](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")[猪苗代湖ズ](https://ja.wikipedia.org/wiki/猪苗代湖ズ "wikilink")を結成し、[2011年](../Page/2011年.md "wikilink")3月に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティー曲「[I love you & I need you ふくしま](https://ja.wikipedia.org/wiki/I_love_you_&_I_need_you_ふくしま "wikilink")」を録音した。Let's天才てれびくんに福島どちゃもん・さすらかすら役で声の出演をした。
-    最初の妻は一般女性で、2番目の妻がタレントの[ちはる](https://ja.wikipedia.org/wiki/ちはる "wikilink")で2010年12月に離婚\[1\]。3度目の妻は18歳年下の一般女性で2013年に結婚\[2\]、2014年8月に長女が誕生し\[3\]、2017年6月に次男が誕生した\[4\]。ちはると離婚後、高校生の当時一人息子の長男のために3年間にわたって作り続けた弁当が話題となり、これを記録したエッセイ『[461個の弁当は、親父と息子の男の約束。](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。 "wikilink")』として2014年に出版した\[5\]。2015年にはこのエッセイが漫画化\[6\]、および『461個のありがとう。 〜愛情弁当が育んだ父と子の絆〜』のタイトルでテレビドラマ化され\[7\]、音楽もバンド名義で担当した。[2017年](../Page/2017年.md "wikilink")公開の映画『[パパのお弁当は世界一](https://ja.wikipedia.org/wiki/パパのお弁当は世界一 "wikilink")』では、俳優デビューにして映画初主演を務めた\[8\]。
+    [福島県](../Page/福島県.md "wikilink")出身。ソウルセットと並行してソロユニット[THE ZOOT16でも活動中](https://ja.wikipedia.org/wiki/THE_ZOOT16 "wikilink")。また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月に、同じ福島県出身である[山口隆（サンボマスター）らとともに](../Page/サンボマスター.md "wikilink")[猪苗代湖ズ](https://ja.wikipedia.org/wiki/猪苗代湖ズ "wikilink")を結成し、[2011年](../Page/2011年.md "wikilink")3月に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティー曲「[I love you & I need you ふくしま](https://ja.wikipedia.org/wiki/I_love_you_&_I_need_you_ふくしま "wikilink")」を録音した。Let's天才てれびくんに福島どちゃもん・さすらかすら役で声の出演をした。
+    最初の妻は一般女性で、2番目の妻がタレントの[ちはる](../Page/ちはる.md "wikilink")で2010年12月に離婚\[1\]。3度目の妻は18歳年下の一般女性で2013年に結婚\[2\]、2014年8月に長女が誕生し\[3\]、2017年6月に次男が誕生した\[4\]。ちはると離婚後、高校生の当時一人息子の長男のために3年間にわたって作り続けた弁当が話題となり、これを記録したエッセイ『[461個の弁当は、親父と息子の男の約束。](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。 "wikilink")』として2014年に出版した\[5\]。2015年にはこのエッセイが漫画化\[6\]、および『461個のありがとう。 〜愛情弁当が育んだ父と子の絆〜』のタイトルでテレビドラマ化され\[7\]、音楽もバンド名義で担当した。[2017年](../Page/2017年.md "wikilink")公開の映画『[パパのお弁当は世界一](https://ja.wikipedia.org/wiki/パパのお弁当は世界一 "wikilink")』では、俳優デビューにして映画初主演を務めた\[8\]。
 
 ### 元メンバー
 
@@ -244,7 +244,7 @@ BVCR-8823（再発盤）</p></td>
 <tr class="odd">
 <td></td>
 <td><p>2009年9月23日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/今夜はブギー・バック" title="wikilink">今夜はブギー・バック</a></strong></p></td>
+<td><p><strong><a href="../Page/今夜はブギー・バック.md" title="wikilink">今夜はブギー・バック</a></strong></p></td>
 <td><p>NFCD-27169</p></td>
 <td><ol>
 <li>今夜はブギー・バック</li>
@@ -372,7 +372,7 @@ BVCK-17037:初回生産限定盤</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p><strong>OUTSET</strong></p></td>
 <td><p>VICL-61640</p></td>
 <td><ol>
@@ -726,22 +726,22 @@ BVBK-11001:DVD</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                                                                                                                                           | 規格品番       | 収録曲                                                     |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------- |
-| 2004年12月15日 | **BASS ON TRUE STORY〜THE 16 SOUNDS ABOUT NORIYOSHI SASANUMA**                                                                                                                                                  | UMCK-1183  | 8.隠せない明日を連れて                                            |
-| 2006年05月31日 | **YELL(エール)**                                                                                                                                                                                                  | VICL-61940 | 4.W・moment                                              |
-| 2007年09月29日 | **「バウムクーヘン」オリジナル・サウンドトラック**                                                                                                                                                                                    | PWSR-1016  | 16.Jr.(ボーナストラック)                                        |
-| 2007年11月08日 | **ハンマーソングス〜[SPEEDSTAR RECORDS](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink") 15th ANNIV.COMPILATION〜**                                                                                           | VICL-62570 | 16.夜明け前                                                 |
-| 2008年09月24日 | **[週刊真木よう子](../Page/週刊真木よう子.md "wikilink") ORIGINAL SOUNDTRACK**                                                                                                                                               | NFCD-27120 | 9.e-on                                                  |
-| 2009年05月13日 | **Sense Of Wonder**                                                                                                                                                                                            | YARB-001   |                                                         |
-| 2009年09月30日 | **DJ[松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")「[ROCK THE MIX](https://ja.wikipedia.org/wiki/ROCK_THE_MIX "wikilink") 2」**                                                                           | VICL-63399 | 17.ダンシング・マッシュルーム                                        |
-| 2010年08月04日 | **[Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")「[VERSUS. "JAPANESE ROCK VS FPM"](https://ja.wikipedia.org/wiki/VERSUS._"JAPANESE_ROCK_VS_FPM" "wikilink")」** | AVCD-38079 | 19.Sunday2010                                           |
-| 2010年09月08日 | **[モテキ的音楽のススメ](https://ja.wikipedia.org/wiki/モテキ的音楽のススメ "wikilink") 中柴いつか 小宮山夏樹盤**                                                                                                                             | NFCD-27286 | 2.Sunday 2010                                           |
-| 2011年05月25日 | **「クローズ×WORST」 トリビュートソング・アルバム**                                                                                                                                                                                | AVCD-38248 | 3.Endless Crow's Cry                                    |
-| 2012年03月07日 | **SHIFT IV NISSAN CM TRACKS**                                                                                                                                                                                  | SICP-3414  | 7.今夜はブギー･バック (キューブ/09-) / TOKYO No.1 SOUL SET + HALCALI |
-| 2014年12月03日 | **[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")結成20周年記念トリビュートアルバム『Why not Clammbon\!?』**                                                                                                             | COCP-38844 | 10.はなれ ばなれ                                              |
-| 2016年1月27日  | **コラボレーションアルバム「30th anniversary [THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink") re-mix『re-spect』」**                                                                                |            | 8.レストラン \[9\]                                           |
-| 2016年09月28日 | **[SCOOP\!](https://ja.wikipedia.org/wiki/SCOOP! "wikilink") オリジナル・サウンドトラック**                                                                                                                                  | UPCH-2097  | 21.SCOOP\! -TOKYO No.1 SOUL SET remix-                  |
+| 発売日         | タイトル                                                                                                                                                                                        | 規格品番       | 収録曲                                                     |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------- |
+| 2004年12月15日 | **BASS ON TRUE STORY〜THE 16 SOUNDS ABOUT NORIYOSHI SASANUMA**                                                                                                                               | UMCK-1183  | 8.隠せない明日を連れて                                            |
+| 2006年05月31日 | **YELL(エール)**                                                                                                                                                                               | VICL-61940 | 4.W・moment                                              |
+| 2007年09月29日 | **「バウムクーヘン」オリジナル・サウンドトラック**                                                                                                                                                                 | PWSR-1016  | 16.Jr.(ボーナストラック)                                        |
+| 2007年11月08日 | **ハンマーソングス〜[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink") 15th ANNIV.COMPILATION〜**                                                                                           | VICL-62570 | 16.夜明け前                                                 |
+| 2008年09月24日 | **[週刊真木よう子](../Page/週刊真木よう子.md "wikilink") ORIGINAL SOUNDTRACK**                                                                                                                            | NFCD-27120 | 9.e-on                                                  |
+| 2009年05月13日 | **Sense Of Wonder**                                                                                                                                                                         | YARB-001   |                                                         |
+| 2009年09月30日 | **DJ[松本素生](../Page/松本素生.md "wikilink")「[ROCK THE MIX](https://ja.wikipedia.org/wiki/ROCK_THE_MIX "wikilink") 2」**                                                                           | VICL-63399 | 17.ダンシング・マッシュルーム                                        |
+| 2010年08月04日 | **[Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")「[VERSUS. "JAPANESE ROCK VS FPM"](https://ja.wikipedia.org/wiki/VERSUS._"JAPANESE_ROCK_VS_FPM" "wikilink")」** | AVCD-38079 | 19.Sunday2010                                           |
+| 2010年09月08日 | **[モテキ的音楽のススメ](https://ja.wikipedia.org/wiki/モテキ的音楽のススメ "wikilink") 中柴いつか 小宮山夏樹盤**                                                                                                          | NFCD-27286 | 2.Sunday 2010                                           |
+| 2011年05月25日 | **「クローズ×WORST」 トリビュートソング・アルバム**                                                                                                                                                             | AVCD-38248 | 3.Endless Crow's Cry                                    |
+| 2012年03月07日 | **SHIFT IV NISSAN CM TRACKS**                                                                                                                                                               | SICP-3414  | 7.今夜はブギー･バック (キューブ/09-) / TOKYO No.1 SOUL SET + HALCALI |
+| 2014年12月03日 | **[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")結成20周年記念トリビュートアルバム『Why not Clammbon\!?』**                                                                                          | COCP-38844 | 10.はなれ ばなれ                                              |
+| 2016年1月27日  | **コラボレーションアルバム「30th anniversary [THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink") re-mix『re-spect』」**                                                                                |            | 8.レストラン \[9\]                                           |
+| 2016年09月28日 | **[SCOOP\!](https://ja.wikipedia.org/wiki/SCOOP! "wikilink") オリジナル・サウンドトラック**                                                                                                               | UPCH-2097  | 21.SCOOP\! -TOKYO No.1 SOUL SET remix-                  |
 
 ## 劇伴
 
@@ -830,16 +830,16 @@ BVBK-11001:DVD</p></td>
 
 ## 関連項目
 
-  - [InK](https://ja.wikipedia.org/wiki/InK "wikilink")
+  - [InK](../Page/InK.md "wikilink")
   - [THE ZOOT16](https://ja.wikipedia.org/wiki/THE_ZOOT16 "wikilink")
-  - [Nathalie Wise](https://ja.wikipedia.org/wiki/Nathalie_Wise "wikilink")
-  - [スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")
+  - [Nathalie Wise](../Page/Nathalie_Wise.md "wikilink")
+  - [スチャダラパー](../Page/スチャダラパー.md "wikilink")
   - [脱線3](../Page/脱線3.md "wikilink")
   - [石野卓球](../Page/石野卓球.md "wikilink")
   - [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")
   - [HALCALI](../Page/HALCALI.md "wikilink")
   - [かせきさいだぁ](../Page/かせきさいだぁ.md "wikilink") - かせきさいだぁアルバム「SOUND BURGER PLANET」収録曲、「明日ライドオンタイム feat Bose(スチャダラパー) 【produced by 川辺ヒロシ(TOKYO No.1 SOUL SET)】」提供。
-  - [リトル・バード・ネイション](https://ja.wikipedia.org/wiki/リトル・バード・ネイション "wikilink")
+  - [リトル・バード・ネイション](../Page/リトル・バード・ネイション.md "wikilink")
   - 福山雅治
 
 ## 外部リンク

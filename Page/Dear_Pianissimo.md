@@ -1,7 +1,7 @@
 > この記事は[Dear Pianissimo](https://ja.wikipedia.org/wiki/Dear_Pianissimo)から翻訳されています。
 
 
-**Dear Pianissimo**（ディアピアニッシモ）は、[工画堂スタジオ](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")から2006年8月11日に発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")である。
+**Dear Pianissimo**（ディアピアニッシモ）は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")から2006年8月11日に発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")である。
 
 [フィギュア](../Page/フィギュア.md "wikilink")にデータを内蔵した[Music Angel Collectionの第一弾](https://ja.wikipedia.org/wiki/Music_Angel_Collection "wikilink")。
 
@@ -22,16 +22,16 @@
     声 - [下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")
     シュウが学園の寮で出会った（楽器の）ピアノの妖精。一人称にクセがある。
   - 鳴海 澄香（なるみ すみか）
-    声 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    声 - [千葉紗子](../Page/千葉紗子.md "wikilink")
     ナギやシュウと同様に学園へ迷い込んだ少女。原因は病気である点が二人と異なる。
   - 花山田 茉莉花（はなやまだ じゃすみん）
-    声 - [木村亜希子](https://ja.wikipedia.org/wiki/木村亜希子 "wikilink")
+    声 - [木村亜希子](../Page/木村亜希子.md "wikilink")
     学園の教師。人間ではなく、この世で言う天使らしい。
 
 ### 「refrain」追加新キャラクター
 
   - 桐嶋 姫依（きりしま ひより）
-    声 - [藤村歩](https://ja.wikipedia.org/wiki/藤村歩 "wikilink")
+    声 - [藤村歩](../Page/藤村歩.md "wikilink")
     素直で明るく人懐っこい。頑張り屋だが虚弱体質。
   - 菊宮 舞衣（きくみや まい）
     声 - [金田朋子](../Page/金田朋子.md "wikilink")

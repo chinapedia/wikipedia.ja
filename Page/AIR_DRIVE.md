@@ -51,7 +51,7 @@
 <li>彼岸花 [3:55]</li>
 <li>なないろ [4:09]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐久間正英" title="wikilink">佐久間正英</a>プロデュース</p></td>
+<td><p><a href="../Page/佐久間正英.md" title="wikilink">佐久間正英</a>プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -158,11 +158,11 @@
 
 ## タイアップ
 
-| 曲名    | タイアップ                                                                                                                 |
-| ----- | --------------------------------------------------------------------------------------------------------------------- |
-| 初心    | 公共広告機構のCMタイアップ                                                                                                        |
-| 初心    | テレビ東京系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ                          |
-| ONE'S | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") |
+| 曲名    | タイアップ                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------- |
+| 初心    | 公共広告機構のCMタイアップ                                                                                     |
+| 初心    | テレビ東京系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ                          |
+| ONE'S | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](../Page/COUNT_DOWN_TV.md "wikilink") |
 
 ## 出演
 

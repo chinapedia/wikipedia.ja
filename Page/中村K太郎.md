@@ -1,25 +1,25 @@
 > この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
 
 
-**中村 K太郎**（なかむら けいたろう、[1984年](../Page/1984年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。本名は**中村 圭太**（なかむら けいた）。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身。[和術慧舟會](https://ja.wikipedia.org/wiki/和術慧舟會 "wikilink")K太郎道場所属。元[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink")[ウェルター級](https://ja.wikipedia.org/wiki/ウェルター級 "wikilink")王者。[SRCウェルター級グランプリシリーズ](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")2010王者。
+**中村 K太郎**（なかむら けいたろう、[1984年](../Page/1984年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。本名は**中村 圭太**（なかむら けいた）。[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身。[和術慧舟會](../Page/和術慧舟會.md "wikilink")K太郎道場所属。元[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")王者。[SRCウェルター級グランプリシリーズ](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")2010王者。
 
 ## 来歴
 
-保育園時にテレビで見た[田村亮子に憧れ](https://ja.wikipedia.org/wiki/谷亮子 "wikilink")、[柔道](../Page/柔道.md "wikilink")を学び始める。小学1年時に福島県へ引越し、小学5年で東京に戻ると[講道館](https://ja.wikipedia.org/wiki/講道館 "wikilink")少年部に入門。
+保育園時にテレビで見た[田村亮子に憧れ](../Page/谷亮子.md "wikilink")、[柔道](../Page/柔道.md "wikilink")を学び始める。小学1年時に福島県へ引越し、小学5年で東京に戻ると[講道館](../Page/講道館.md "wikilink")少年部に入門。
 
-[専大附属高校に進学すると](https://ja.wikipedia.org/wiki/専修大学附属高等学校 "wikilink")、3年時にインターハイ東京都予選3位となった。その後、[和術慧舟會](https://ja.wikipedia.org/wiki/和術慧舟會 "wikilink")東京本部に入門し、総合格闘技のトレーニングを開始。
+[専大附属高校に進学すると](../Page/専修大学附属高等学校.md "wikilink")、3年時にインターハイ東京都予選3位となった。その後、[和術慧舟會](../Page/和術慧舟會.md "wikilink")東京本部に入門し、総合格闘技のトレーニングを開始。
 
 [2003年](../Page/2003年.md "wikilink")4月、[専修大学](../Page/専修大学.md "wikilink")[法学部](../Page/法学部.md "wikilink")に進学。
 
 2003年7月6日、JTC（Japan Totalfight Championship）主催「全日本総合格闘技選手権」東京大会82kg級（5名参加）に出場。決勝で九十九優作に一本勝ちし、優勝を果たした。11月23日の全国大会でもオール一本勝ちで優勝を果たした。
 
-2003年12月13日、キングダム・エルガイツ「東京大会 -飛翔-」で大森健太とキングダムルールで対戦し、[三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")で一本勝ち。
+2003年12月13日、キングダム・エルガイツ「東京大会 -飛翔-」で大森健太とキングダムルールで対戦し、[三角絞め](../Page/三角絞め.md "wikilink")で一本勝ち。
 
 2003年12月27日、DEMOLITIONでプロ[総合格闘技](../Page/総合格闘技.md "wikilink")デビュー。
 
-[2004年](../Page/2004年.md "wikilink")7月16日、初参戦となった[修斗](https://ja.wikipedia.org/wiki/修斗 "wikilink")で坂井圭介と対戦し、[スリーパーホールドで一本勝ち](https://ja.wikipedia.org/wiki/裸絞 "wikilink")。
+[2004年](../Page/2004年.md "wikilink")7月16日、初参戦となった[修斗](../Page/修斗.md "wikilink")で坂井圭介と対戦し、[スリーパーホールドで一本勝ち](../Page/裸絞.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月21日、修斗環太平洋ミドル級（-76kg）王座決定戦で[ロナルド・ジューン](https://ja.wikipedia.org/wiki/ロナルド・ジューン "wikilink")と対戦し、スリーパーホールドで一本勝ちを収め王座獲得に成功した。
+[2006年](../Page/2006年.md "wikilink")7月21日、修斗環太平洋ミドル級（-76kg）王座決定戦で[ロナルド・ジューン](https://ja.wikipedia.org/wiki/ロナルド・ジューン "wikilink")と対戦し、スリーパーホールドで一本勝ちを収め王座獲得に成功した。
 
 2006年12月13日、[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")初参戦となった[UFC Fight Night: Sanchez vs. Riggsで](../Page/UFC_Fight_Night:_Sanchez_vs._Riggs.md "wikilink")[ブロック・ラーソン](https://ja.wikipedia.org/wiki/ブロック・ラーソン "wikilink")と対戦し、判定負け。デビュー以来の無敗記録は15戦で止まった（13勝2分）。
 
@@ -41,7 +41,7 @@
 
 2008年11月8日、[CAGE FORCE EX -eastern bound-でキム](https://ja.wikipedia.org/wiki/CAGE_FORCE_EX_-eastern_bound-_\(2008年11月\) "wikilink")・ジャンヨンと対戦し、キャリア初のKO負けを喫した。
 
-[2009年](../Page/2009年.md "wikilink")2月22日、[アブダビコンバット](https://ja.wikipedia.org/wiki/アブダビコンバット "wikilink")アジア予選77kg未満級に出場。3試合すべて裸絞めで一本勝ちし、日本代表となった。
+[2009年](../Page/2009年.md "wikilink")2月22日、[アブダビコンバット](../Page/アブダビコンバット.md "wikilink")アジア予選77kg未満級に出場。3試合すべて裸絞めで一本勝ちし、日本代表となった。
 
 2009年8月22日、「強者 second vol.7」のCAGE FORCE提供試合でアンドレ・ナパウォン・マフェトニと対戦予定であったが\[2\]、首の負傷のため欠場となった\[3\]。
 
@@ -73,10 +73,10 @@ Twitterで自身の誕生日2013年5月22日に入籍したことを発表。同
 
 ## 人物・エピソード
 
-  - [裸絞](https://ja.wikipedia.org/wiki/裸絞 "wikilink")め（チョークスリーパー）が得意技で、「**裸絞め十段**」のニックネームを持つ。
+  - [裸絞](../Page/裸絞.md "wikilink")め（チョークスリーパー）が得意技で、「**裸絞め十段**」のニックネームを持つ。
   - 試合勝利後に、「1, 2, 3, K\!」と言って、体全体でアルファベットの「K」のポーズをするパフォーマンスを行う。
   - プロデビュー時には本名であったが、2004年7月16日の試合からリングネーム**中村 K太郎**を使用している。
-  - 趣味は漫画で、[古泉智浩](https://ja.wikipedia.org/wiki/古泉智浩 "wikilink")や[福満しげゆき](../Page/福満しげゆき.md "wikilink")のような漫画を愛好している。
+  - 趣味は漫画で、[古泉智浩](../Page/古泉智浩.md "wikilink")や[福満しげゆき](../Page/福満しげゆき.md "wikilink")のような漫画を愛好している。
 
 ## 戦績
 
@@ -89,16 +89,16 @@ Twitterで自身の誕生日2013年5月22日に入籍したことを発表。同
 ## 獲得タイトル
 
   - 全日本総合格闘技選手権 82kg級 優勝（2003年）
-  - [修斗](https://ja.wikipedia.org/wiki/修斗 "wikilink")[ミドル級](../Page/ミドル級.md "wikilink")新人王（2005年）
-  - [パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink") 第4回プロ・アマオープンキャッチレスリングトーナメント 100kg未満級 優勝（2006年）
-  - 第3回全日本[修斗](https://ja.wikipedia.org/wiki/修斗 "wikilink")グラップリング選手権大会 ミドル級 優勝（2006年）
+  - [修斗](../Page/修斗.md "wikilink")[ミドル級](../Page/ミドル級.md "wikilink")新人王（2005年）
+  - [パンクラス](../Page/パンクラス.md "wikilink") 第4回プロ・アマオープンキャッチレスリングトーナメント 100kg未満級 優勝（2006年）
+  - 第3回全日本[修斗](../Page/修斗.md "wikilink")グラップリング選手権大会 ミドル級 優勝（2006年）
   - 初代修斗環太平洋ミドル級王座（2006年）
   - Gi2007 優勝（2007年）
   - Gi2008 優勝（2008年）
-  - [アブダビコンバット](https://ja.wikipedia.org/wiki/アブダビコンバット "wikilink")アジア予選 77kg未満級 優勝（2009年）
+  - [アブダビコンバット](../Page/アブダビコンバット.md "wikilink")アジア予選 77kg未満級 優勝（2009年）
   - Gi2009 グラップリング部門 優勝（2009年）
   - [DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink") X リアルキングトーナメント ミドル超級 優勝（2010年）
-  - [SRC](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")[ウェルター級](https://ja.wikipedia.org/wiki/ウェルター級 "wikilink")グランプリシリーズ2010 優勝（2010年）
+  - [SRC](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")グランプリシリーズ2010 優勝（2010年）
   - 第8代[DEEPウェルター級王座](../Page/DEEP_\(格闘技団体\).md "wikilink")（2015年）
 
 ## 表彰
@@ -109,8 +109,8 @@ Twitterで自身の誕生日2013年5月22日に入籍したことを発表。同
 
 ## 関連項目
 
-  - [男子総合格闘家一覧](https://ja.wikipedia.org/wiki/男子総合格闘家一覧 "wikilink")
-  - [修斗環太平洋王者一覧](https://ja.wikipedia.org/wiki/修斗環太平洋王者一覧 "wikilink")
+  - [男子総合格闘家一覧](../Page/男子総合格闘家一覧.md "wikilink")
+  - [修斗環太平洋王者一覧](../Page/修斗環太平洋王者一覧.md "wikilink")
   - [DEEP王者一覧](https://ja.wikipedia.org/wiki/DEEP王者一覧 "wikilink")
   - [SRC王者一覧](https://ja.wikipedia.org/wiki/SRC王者一覧 "wikilink")
   - [DREAM選手一覧](https://ja.wikipedia.org/wiki/DREAM選手一覧 "wikilink")

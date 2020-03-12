@@ -5,7 +5,7 @@
 
 ## 歴史
 
-デフジャムは、ラッセル・シモンズとリック・ルービンによって、1984年に設立された。80年代末から90年代末にパブリック・エナミー、LLクールJ、スリック・リック\[1\]、EPMD、ナイス&スムーズ\[2\]らのラッパーを擁してレーベルの全盛期を迎えた。さらにオラン・ジュース・ジョーンズやアリソン・ウィリアムズらのソウル・シンガーの曲も発表した。オラン・ジュース・ジョーンズの「ザ・レイン」は86年にソウルだけでなく、ポップ・チャートでも上位に食い込むヒットとなった。もともとは[コロムビア](https://ja.wikipedia.org/wiki/コロムビア・レコード "wikilink")/[ソニー傘下だったが](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(米国\) "wikilink")、のちに[ユニバーサル ミュージック傘下に移り](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック_グループ "wikilink")、[アイランド・デフ・ジャム・ミュージック・グループ](https://ja.wikipedia.org/wiki/アイランド・デフ・ジャム・ミュージック・グループ "wikilink")内のレーベルとして運営されている。現在は日本、イギリス、フランス、南アフリカに支社がある（かつてドイツに支社があった）。
+デフジャムは、ラッセル・シモンズとリック・ルービンによって、1984年に設立された。80年代末から90年代末にパブリック・エナミー、LLクールJ、スリック・リック\[1\]、EPMD、ナイス&スムーズ\[2\]らのラッパーを擁してレーベルの全盛期を迎えた。さらにオラン・ジュース・ジョーンズやアリソン・ウィリアムズらのソウル・シンガーの曲も発表した。オラン・ジュース・ジョーンズの「ザ・レイン」は86年にソウルだけでなく、ポップ・チャートでも上位に食い込むヒットとなった。もともとは[コロムビア](../Page/コロムビア・レコード.md "wikilink")/[ソニー傘下だったが](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")、のちに[ユニバーサル ミュージック傘下に移り](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、[アイランド・デフ・ジャム・ミュージック・グループ](https://ja.wikipedia.org/wiki/アイランド・デフ・ジャム・ミュージック・グループ "wikilink")内のレーベルとして運営されている。現在は日本、イギリス、フランス、南アフリカに支社がある（かつてドイツに支社があった）。
 
 1992年からは、有料チャンネルHBOにおいて黒人コメディ番組『[デフ・コメディ・ジャム](https://ja.wikipedia.org/wiki/デフ・コメディ・ジャム "wikilink")』が放送された。
 
@@ -45,7 +45,7 @@
   - クリスティーナ・ミリアン（Christina Milian）
   - オリジナル・コンセプト（Original Concept）
   - [ナズ](../Page/ナズ.md "wikilink")
-  - [ニーヨ](https://ja.wikipedia.org/wiki/ニーヨ "wikilink")
+  - [ニーヨ](../Page/ニーヨ.md "wikilink")
   - ニッキ D（Nikki D.）
   - マダラーズ（The Murderers）
   - キース・マリィ（Keith Murray）
@@ -99,7 +99,7 @@
   - ヤング S ダブ（Young S Dub）【Russell Simmons Music Group】
   - [メソッド・マン](../Page/メソッド・マン.md "wikilink")【[Wu-tang Clan](https://ja.wikipedia.org/wiki/ウータン・クラン "wikilink")】
   - [ゴーストフェイス・キラー](https://ja.wikipedia.org/wiki/ゴーストフェイス・キラー "wikilink")【Wu-tang Clan】
-  - キャムロン（Cam'Ron）【[The Diplomats](https://ja.wikipedia.org/wiki/ディプロマッツ "wikilink")】
+  - キャムロン（Cam'Ron）【[The Diplomats](../Page/ディプロマッツ.md "wikilink")】
   - ジュエルズ・サンタナ（Juelz Santana）【The Diplomats】
   - DMX（DMX）【Ruff Ryders】
   - W（DJW）【AWL】
@@ -109,7 +109,7 @@
   - シティー（Citty）【Slip-N-Slide】
   - ペリス（Plies）【Slip-N-Slide】
   - [リック・ロス](https://ja.wikipedia.org/wiki/リック・ロス "wikilink")（Rick Ross）【Slip-N-Slide】
-  - [リュダクリス](https://ja.wikipedia.org/wiki/リュダクリス "wikilink")（Ludacris）【Disturbing Tha Peace】
+  - [リュダクリス](../Page/リュダクリス.md "wikilink")（Ludacris）【Disturbing Tha Peace】
   - ショウナ（Shawnna）【Disturbing Tha Peace】
   - [ボビー・ヴァレンティノ](https://ja.wikipedia.org/wiki/ボビー・ヴァレンティノ "wikilink")【Disturibing Tha Peace】
   - スカーフェイス（Scarface）【Geto Boys】

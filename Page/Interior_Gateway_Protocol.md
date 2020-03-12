@@ -1,7 +1,7 @@
 > この記事は[Interior Gateway Protocol](https://ja.wikipedia.org/wiki/Interior_Gateway_Protocol)から翻訳されています。
 
 
-**Interior Gateway Protocol** (IGP) は、[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")において[AS内部での経路情報の交換に利用される](../Page/自律システム_\(インターネット\).md "wikilink")[ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")の総称。ベンダーフリー実装である、[RIPや](https://ja.wikipedia.org/wiki/ルーティング・インフォメーション・プロトコル "wikilink")[OSPF](https://ja.wikipedia.org/wiki/オープン・ショーテスト・パス・ファースト "wikilink")、[IS-IS](../Page/IS-IS.md "wikilink")がある他、[シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink")独自実装である[IGRP](https://ja.wikipedia.org/wiki/IGRP "wikilink")や[EIGRP](https://ja.wikipedia.org/wiki/EIGRP "wikilink")が利用されている。
+**Interior Gateway Protocol** (IGP) は、[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")において[AS内部での経路情報の交換に利用される](../Page/自律システム_\(インターネット\).md "wikilink")[ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")の総称。ベンダーフリー実装である、[RIPや](https://ja.wikipedia.org/wiki/ルーティング・インフォメーション・プロトコル "wikilink")[OSPF](https://ja.wikipedia.org/wiki/オープン・ショーテスト・パス・ファースト "wikilink")、[IS-IS](../Page/IS-IS.md "wikilink")がある他、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")独自実装である[IGRP](https://ja.wikipedia.org/wiki/IGRP "wikilink")や[EIGRP](https://ja.wikipedia.org/wiki/EIGRP "wikilink")が利用されている。
 
 ## IGPの種類
 
@@ -13,7 +13,7 @@
 
 距離ベクトル型ルーティングプロトコルの例：
 
-  - [Routing Information Protocol](https://ja.wikipedia.org/wiki/Routing_Information_Protocol "wikilink") (RIP)
+  - [Routing Information Protocol](../Page/Routing_Information_Protocol.md "wikilink") (RIP)
   - [Routing Information Protocol Version 2](https://ja.wikipedia.org/wiki/Routing_Information_Protocol#RIP_version_2 "wikilink") (RIPv2)
   - [Routing Information Protocol Next Generation](https://ja.wikipedia.org/wiki/Routing_Information_Protocol#RIPng "wikilink") (RIPng), [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")のサポートとRIPバージョン2の延長
   - [Interior Gateway Routing Protocol](https://ja.wikipedia.org/wiki/Interior_Gateway_Routing_Protocol "wikilink") (IGRP)
@@ -26,7 +26,7 @@
 
 リンクステート型ルーティングプロトコルの例：
 
-  - [Open Shortest Path First](https://ja.wikipedia.org/wiki/Open_Shortest_Path_First "wikilink") (OSPF)
+  - [Open Shortest Path First](../Page/Open_Shortest_Path_First.md "wikilink") (OSPF)
   - [Intermediate system to intermediate system](https://ja.wikipedia.org/wiki/Intermediate_system_to_intermediate_system "wikilink") (IS-IS)
 
 ### ハイブリッドルーティングプロトコル
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [EGP](https://ja.wikipedia.org/wiki/Exterior_Gateway_Protocol "wikilink")
+  - [EGP](../Page/Exterior_Gateway_Protocol.md "wikilink")
   - [距離ベクトル型ルーティングプロトコル](https://ja.wikipedia.org/wiki/距離ベクトル型ルーティングプロトコル "wikilink")
   - [リンクステート型ルーティングプロトコル](https://ja.wikipedia.org/wiki/リンクステート型ルーティングプロトコル "wikilink")
 

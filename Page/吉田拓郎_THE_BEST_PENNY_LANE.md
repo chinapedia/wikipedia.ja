@@ -21,19 +21,19 @@
       - 3rdシングル、1stアルバム『[青春の詩](https://ja.wikipedia.org/wiki/青春の詩_\(よしだたくろうのアルバム\) "wikilink")』より。
 2.  **どうしてこんなに悲しいんだろう**
       -
-        編曲:[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+        編曲:[松任谷正隆](../Page/松任谷正隆.md "wikilink")
     <!-- end list -->
       - 2ndアルバム『[人間なんて](https://ja.wikipedia.org/wiki/人間なんて_\(よしだたくろうのアルバム\) "wikilink")』より。このアルバムには、6thアルバムの『[明日に向って走れ](https://ja.wikipedia.org/wiki/明日に向って走れ_\(吉田拓郎のアルバム\) "wikilink")』に収録されているリメイク・バージョンで収録されている。
 3.  **[旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")**
       -
-        作詞:[岡本おさみ](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink")
+        作詞:[岡本おさみ](../Page/岡本おさみ.md "wikilink")
     <!-- end list -->
       - 5thシングル、3rdアルバム『[元気です。](../Page/元気です。.md "wikilink")』より。このアルバムには、後者のアルバムバージョンで収録されている。
 4.  **[我が良き友よ](https://ja.wikipedia.org/wiki/我が良き友よ "wikilink")**
       -
         編曲:[武部聡志](../Page/武部聡志.md "wikilink")
     <!-- end list -->
-      - [セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")アルバム『[みんな大好き](https://ja.wikipedia.org/wiki/みんな大好き "wikilink")』より\[1\]。[1975年](../Page/1975年.md "wikilink")[かまやつひろし](../Page/かまやつひろし.md "wikilink")への提供曲。
+      - [セルフカバー](../Page/セルフカバー.md "wikilink")アルバム『[みんな大好き](https://ja.wikipedia.org/wiki/みんな大好き "wikilink")』より\[1\]。[1975年](../Page/1975年.md "wikilink")[かまやつひろし](../Page/かまやつひろし.md "wikilink")への提供曲。
 5.  **言葉**
       -
         作詞:[松本隆](../Page/松本隆.md "wikilink")
@@ -41,7 +41,7 @@
       - 9thアルバム『[ローリング30](https://ja.wikipedia.org/wiki/ローリング30 "wikilink")』より。
 6.  **[元気です](https://ja.wikipedia.org/wiki/元気です "wikilink")**
       -
-        編曲:[青山徹](https://ja.wikipedia.org/wiki/愛奴 "wikilink")・[大村雅朗](../Page/大村雅朗.md "wikilink")
+        編曲:[青山徹](../Page/愛奴.md "wikilink")・[大村雅朗](../Page/大村雅朗.md "wikilink")
     <!-- end list -->
       - 20thシングル曲、11thアルバム『[アジアの片隅で](https://ja.wikipedia.org/wiki/アジアの片隅で "wikilink")』より。[TBS系](../Page/TBSテレビ.md "wikilink")[ポーラテレビ小説](../Page/ポーラテレビ小説.md "wikilink")『[元気です\!](https://ja.wikipedia.org/wiki/元気です! "wikilink")』主題歌。
 7.  **人間なんて**
@@ -112,16 +112,16 @@
         編曲：吉田拓郎
     <!-- end list -->
       - 15thアルバム『[FOREVER YOUNG](https://ja.wikipedia.org/wiki/FOREVER_YOUNG_\(吉田拓郎のアルバム\) "wikilink")』より。
-4.  **[全部だきしめて](https://ja.wikipedia.org/wiki/全部だきしめて "wikilink")〜tropical〜**
+4.  **[全部だきしめて](../Page/全部だきしめて.md "wikilink")〜tropical〜**
       -
-        作詞:[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") 編曲:[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")
+        作詞:[康珍化](../Page/康珍化.md "wikilink") 編曲:[吉田建](../Page/吉田建.md "wikilink")
     <!-- end list -->
       - 26thアルバム『[Hawaiian Rhapsody](https://ja.wikipedia.org/wiki/Hawaiian_Rhapsody "wikilink")』より。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[KinKi Kidsがカバー](../Page/KinKi_Kids.md "wikilink")。
 5.  **[吉田町の唄](https://ja.wikipedia.org/wiki/吉田町の唄_\(曲\) "wikilink")**
       -
         編曲：吉田拓郎
     <!-- end list -->
-      - 36thシングル、22ndアルバム『[吉田町の唄](https://ja.wikipedia.org/wiki/吉田町の唄 "wikilink")』より。「[ミツカン](https://ja.wikipedia.org/wiki/ミツカン "wikilink")酢」CMソング
+      - 36thシングル、22ndアルバム『[吉田町の唄](https://ja.wikipedia.org/wiki/吉田町の唄 "wikilink")』より。「[ミツカン](../Page/ミツカン.md "wikilink")酢」CMソング
 6.  **祭りのあと**
       -
         作詞:岡本おさみ
@@ -133,7 +133,7 @@
     <!-- end list -->
       - 4thシングル、2ndアルバム『人間なんて』より。
 8.  **[シンシア](../Page/シンシア_\(よしだたくろう・かまやつひろしの曲\).md "wikilink")**
-      - 9thシングル\[3\]、5thアルバム『今はまだ人生を語らず』より。かまやつひろしとの[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")曲。
+      - 9thシングル\[3\]、5thアルバム『今はまだ人生を語らず』より。かまやつひろしとの[デュエット](../Page/デュエット.md "wikilink")曲。
 9.  **[襟裳岬](../Page/襟裳岬_\(森進一の曲\).md "wikilink")**
       -
         作詞:岡本おさみ
@@ -160,12 +160,12 @@
       -
         作詞:松本隆 編曲:武部聡志
     <!-- end list -->
-      - 44thシングル。[CX系列連続ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[傷だらけの女](https://ja.wikipedia.org/wiki/傷だらけの女 "wikilink")』主題歌。オリジナルアルバム未収録。
+      - 44thシングル。[CX系列連続ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[傷だらけの女](../Page/傷だらけの女.md "wikilink")』主題歌。オリジナルアルバム未収録。
 15. **永遠の嘘をついてくれ**
       -
         作詞・作曲:[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink") 編曲：吉田拓郎
     <!-- end list -->
-      - 23rdアルバム『[Long time no see](https://ja.wikipedia.org/wiki/Long_time_no_see "wikilink")』より。[1996年](../Page/1996年.md "wikilink")中島みゆきが[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")。
+      - 23rdアルバム『[Long time no see](https://ja.wikipedia.org/wiki/Long_time_no_see "wikilink")』より。[1996年](../Page/1996年.md "wikilink")中島みゆきが[セルフカバー](../Page/セルフカバー.md "wikilink")。
 16. **僕の人生の今は何章目ぐらいだろう**
       -
         作詞・作曲:[トータス松本](../Page/トータス松本.md "wikilink") 編曲:吉田建

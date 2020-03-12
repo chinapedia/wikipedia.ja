@@ -1,7 +1,7 @@
 > この記事は[RECORDS](https://ja.wikipedia.org/wiki/RECORDS)から翻訳されています。
 
 
-**カシアスRECORDS**（カシアスレコーズ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")1:08 - 1:59（JST）に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[登龍門](https://ja.wikipedia.org/wiki/登龍門_\(フジテレビ\) "wikilink")[ニューカマーズ](../Page/ニューカマーズ.md "wikilink")で放送した[バラエティー系](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+**カシアスRECORDS**（カシアスレコーズ）は、[2006年](../Page/2006年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")1:08 - 1:59（JST）に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[登龍門](../Page/登龍門_\(フジテレビ\).md "wikilink")[ニューカマーズ](../Page/ニューカマーズ.md "wikilink")で放送した[バラエティー系](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 内容
 
@@ -12,8 +12,8 @@
 ## 出演
 
   - 社長・[カシアス島田：島田紳助](../Page/島田紳助.md "wikilink")
-  - 営業課長：[高原兄](https://ja.wikipedia.org/wiki/高原兄 "wikilink")
-  - 営業：[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")([河本準一](../Page/河本準一.md "wikilink")・[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink"))
+  - 営業課長：[高原兄](../Page/高原兄.md "wikilink")
+  - 営業：[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")([河本準一](../Page/河本準一.md "wikilink")・[井上聡](../Page/井上聡.md "wikilink"))
   - 秘書：[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（フジテレビアナウンサー）
   - 作曲家：[BORO](../Page/BORO.md "wikilink")
   - ナレーション：[牧原俊幸](../Page/牧原俊幸.md "wikilink")（フジテレビアナウンサー）

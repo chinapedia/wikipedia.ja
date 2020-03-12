@@ -5,36 +5,36 @@
 
 ## 概要
 
-桂正和が映画の『[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")』を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")として描いた作品\[1\]。タイトルの『SHADOW LADY』は変身に使う「[アイシャドウ](https://ja.wikipedia.org/wiki/アイシャドー "wikilink")」と[影](https://ja.wikipedia.org/wiki/影 "wikilink")を意味する[英語](../Page/英語.md "wikilink")の「シャドウ」をかけ、[鳥嶋和彦](https://ja.wikipedia.org/wiki/鳥嶋和彦 "wikilink")が名付けた物である\[2\]。以下の3作が存在する（掲載誌はいずれも[集英社](../Page/集英社.md "wikilink")刊）。
+桂正和が映画の『[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")』を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")として描いた作品\[1\]。タイトルの『SHADOW LADY』は変身に使う「[アイシャドウ](../Page/アイシャドー.md "wikilink")」と[影](../Page/影.md "wikilink")を意味する[英語](../Page/英語.md "wikilink")の「シャドウ」をかけ、[鳥嶋和彦](../Page/鳥嶋和彦.md "wikilink")が名付けた物である\[2\]。以下の3作が存在する（掲載誌はいずれも[集英社](../Page/集英社.md "wikilink")刊）。
 
 1.  『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink") (VJ)』連載作品。以下「**VJ版**」。
 2.  『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ)』に掲載された読切作品。以下「**読切版**」。
 3.  『WJ』連載作品。以下「**WJ版**」。
 
-特に断りなく『SHADOW LADY』と言った場合、最も読者数の高い「WJ版」をさす場合が多い。このため『[D・N・A² 〜何処かで失くしたあいつのアイツ〜](https://ja.wikipedia.org/wiki/D・N・A²_〜何処かで失くしたあいつのアイツ〜 "wikilink")』 (DNA) よりも後の作品と認識している人が多いが、オリジナルとなる「VJ版」は「DNA」に先立ち連載されている。
+特に断りなく『SHADOW LADY』と言った場合、最も読者数の高い「WJ版」をさす場合が多い。このため『[D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink")』 (DNA) よりも後の作品と認識している人が多いが、オリジナルとなる「VJ版」は「DNA」に先立ち連載されている。
 
 主人公の少女については名前などいくつか共通する点はあるものが基本的には全くの別人であり、境遇・性格をはじめとして3作それぞれで設定が大きく異なる。
 
 ### 共通点
 
   - 「**アイミ**」と言う名の少女が主人公。
-  - 魔法の[アイシャドウ](https://ja.wikipedia.org/wiki/アイシャドー "wikilink")（「読切版」以外での名称はマジックシャドウ）を塗る事によってシャドウレディに変身。
+  - 魔法の[アイシャドウ](../Page/アイシャドー.md "wikilink")（「読切版」以外での名称はマジックシャドウ）を塗る事によってシャドウレディに変身。
   - 変身後の姿は生物を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")としており、動物の種類はアイシャドーの色に対応している（例：[黄色](../Page/黄色.md "wikilink")のアイシャドウ→[兎](../Page/ウサギ.md "wikilink")）。
-  - 変身すると大胆且つ活動的になり[盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilink")として街を騒がせる。
+  - 変身すると大胆且つ活動的になり[盗賊](../Page/盗賊.md "wikilink")として街を騒がせる。
 
 ## VJ版
 
-『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』の前身である『週刊少年ジャンプ特別編集増刊 V JUMP』の[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")号から[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")号、及び[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")として独立後の『Vジャンプ』1993年7月号（創刊号）に掲載。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』で連載されていた「[電影少女](../Page/電影少女.md "wikilink")」の次となる桂5本目の連載作品。桂正和のイラスト集『**4C**』（3冊組）の中の3冊目『SHADOW LADY Katsura Masakazu Illustrations 3』にフルカラーで収録されている。
+『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』の前身である『週刊少年ジャンプ特別編集増刊 V JUMP』の[1992年](../Page/1992年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")号から[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")号、及び[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")として独立後の『Vジャンプ』1993年7月号（創刊号）に掲載。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』で連載されていた「[電影少女](../Page/電影少女.md "wikilink")」の次となる桂5本目の連載作品。桂正和のイラスト集『**4C**』（3冊組）の中の3冊目『SHADOW LADY Katsura Masakazu Illustrations 3』にフルカラーで収録されている。
 
-フルカラー作品である為か、冒頭部分では[絵本](https://ja.wikipedia.org/wiki/絵本 "wikilink")的な描写がみられ、全体として[アメリカン・コミックス](https://ja.wikipedia.org/wiki/アメリカン・コミックス "wikilink")風の仕上がりになっている等、他の作品とは大きく作風が異なる。また以降の版には見られない「自然と科学」という対立軸が伺える。
+フルカラー作品である為か、冒頭部分では[絵本](../Page/絵本.md "wikilink")的な描写がみられ、全体として[アメリカン・コミックス](../Page/アメリカン・コミックス.md "wikilink")風の仕上がりになっている等、他の作品とは大きく作風が異なる。また以降の版には見られない「自然と科学」という対立軸が伺える。
 
 登場毎に使うマジックシャドウの色が異なり変身後のシャドウレディの姿も異なる。色と[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")は以下の通り。
 
-  - [赤](../Page/赤.md "wikilink")：[猫](https://ja.wikipedia.org/wiki/ネコ "wikilink")
+  - [赤](../Page/赤.md "wikilink")：[猫](../Page/ネコ.md "wikilink")
   - [黄色](../Page/黄色.md "wikilink")：[兎](../Page/ウサギ.md "wikilink")
   - [青](../Page/青.md "wikilink")：[鳥](../Page/鳥類.md "wikilink")
-  - [ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")：[花](https://ja.wikipedia.org/wiki/花 "wikilink")
-  - [紫](https://ja.wikipedia.org/wiki/紫 "wikilink")：[蜂](../Page/ハチ.md "wikilink")
+  - [ピンク](../Page/ピンク.md "wikilink")：[花](../Page/花.md "wikilink")
+  - [紫](../Page/紫.md "wikilink")：[蜂](../Page/ハチ.md "wikilink")
 
 ### あらすじ
 
@@ -51,7 +51,7 @@
 
 ## 読切版
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3・4合併号\[3\]掲載。46ページ。『[ZETMAN 桂正和短編集](https://ja.wikipedia.org/wiki/ZETMAN_桂正和短編集 "wikilink")』及び、WJ版『SHADOW LADY』の単行本3巻に収録。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3・4合併号\[3\]掲載。46ページ。『[ZETMAN 桂正和短編集](../Page/ZETMAN_桂正和短編集.md "wikilink")』及び、WJ版『SHADOW LADY』の単行本3巻に収録。
 
 アイシャドーは黄色のみで、シャドウレディの変身パターンもウサギをモチーフとした1種類のみ。1回の変身に制限時間がある。
 
@@ -76,7 +76,7 @@
 
 ## WJ版
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ)』に[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")31号から[1996年](../Page/1996年.md "wikilink")2号まで連載。「[D・N・A² 〜何処かで失くしたあいつのアイツ〜](https://ja.wikipedia.org/wiki/D・N・A²_〜何処かで失くしたあいつのアイツ〜 "wikilink")」の次となり、『WJ』上においては6本目となる連載作品。「VJ版」を含んだ通算では7本目の連載作品となる。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")より全3巻。衣服が破れたり、全裸状態で石のオブジェにされた女性が登場したりする等の性的な表現が多い。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ)』に[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")31号から[1996年](../Page/1996年.md "wikilink")2号まで連載。「[D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink")」の次となり、『WJ』上においては6本目となる連載作品。「VJ版」を含んだ通算では7本目の連載作品となる。単行本は[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")より全3巻。衣服が破れたり、全裸状態で石のオブジェにされた女性が登場したりする等の性的な表現が多い。
 
 ベースとなるシャドウレディは[コウモリ](https://ja.wikipedia.org/wiki/コウモリ "wikilink")をモチーフとしたと1種類のみで、マジックシャドウがとれない限り時間制限はない。この他、エキスパートチェンジによって状況に応じた姿に10分間だけさらなる変身ができる。エキスパートチェンジは6種類あるとの記述があるが\[4\]、作中に実際に出てきたのは3種類のみ。
 
@@ -95,7 +95,7 @@
 ### 主な登場人物
 
   - 小森 アイミ（こもり アイミ） / シャドウレディ
-    この物語の主人公で、超シャイな17歳の少女。3歳の時に事故で両親を亡くし、13歳まで孤児院で育ったために家族はいない。アパートの一階にあるケーキ屋で働く。マジックシャドウをつけてシャドウレディに変身。[怪盗](https://ja.wikipedia.org/wiki/怪盗 "wikilink")として夜の街を騒がせるが、あくまでも普段の内気な性格に対するストレス解消であり、どうでもいい様な物ばかりを盗む。変身時の性格と変身前では180度とも言えるほど性格が違うが、これはマジックシャドウによる効力である（ドリーの場合も性格が変わった）。暴漢に襲われているところをブライトに助けられ、恋に落ちる。以降変身するたびに「これが最後」と言っているが、何かに付けては再び変身することになる。
+    この物語の主人公で、超シャイな17歳の少女。3歳の時に事故で両親を亡くし、13歳まで孤児院で育ったために家族はいない。アパートの一階にあるケーキ屋で働く。マジックシャドウをつけてシャドウレディに変身。[怪盗](../Page/怪盗.md "wikilink")として夜の街を騒がせるが、あくまでも普段の内気な性格に対するストレス解消であり、どうでもいい様な物ばかりを盗む。変身時の性格と変身前では180度とも言えるほど性格が違うが、これはマジックシャドウによる効力である（ドリーの場合も性格が変わった）。暴漢に襲われているところをブライトに助けられ、恋に落ちる。以降変身するたびに「これが最後」と言っているが、何かに付けては再び変身することになる。
   - デモ / デモ太（デモた）
     魔界からやってきた小悪魔。アイミにマジックシャドウを渡し、シャドウレディの相棒となる。普段はデモ太を名乗り、人間の子供の姿で生活している。
   - 本田 ブライト（ほんだ ブライト）
@@ -111,7 +111,7 @@
   - ビン、デロン、ルーク
     魔界の規則を破ったデモを殺すためやってきた魔界警察。アイミが魔石の回収を行う事を条件にデモの免罪を約束する。ビンは語尾に「っス」がつく喋り方。デロンはアイミに怒鳴りつけたところを「うるさい」とビンに消される。ルークはほとんど喋らない。
   - 花山 クライン（はなやま クライン）
-    寄付やボランティア等を行い「街の英雄」と呼ばれる青年実業家。しかし夜になると美女を次々と誘拐し、魔石の力で[石化](https://ja.wikipedia.org/wiki/石化 "wikilink")してコレクションにしている。世界中の美女を自分のものにするという欲望を持ち、邸宅には彼によって裸のオブジェにされた女性たちが立ち並んでいる。
+    寄付やボランティア等を行い「街の英雄」と呼ばれる青年実業家。しかし夜になると美女を次々と誘拐し、魔石の力で[石化](../Page/石化.md "wikilink")してコレクションにしている。世界中の美女を自分のものにするという欲望を持ち、邸宅には彼によって裸のオブジェにされた女性たちが立ち並んでいる。
     彼の眼からの光を受けた人は、石化と同時に衣服を剥がされて裸のオブジェにされてしまう。石化の開始部分、進行速度は彼の思いのままである。
     魔石回収のために行動していたアイミを狙って姿を現したところでスパークガールに乱入されるも、優勢を見せて捕まえる。顔を傷つけられたために、この場で石化をかけ、スパークガールを裸のオブジェに変えて放置。アイミだけを捕まえて姿を消す。その後、体だけ石化された美女を容赦なく壊す彼に憤怒したシャドウレディに惨敗。魔石に力を求めるあまり、理性を失い暴走状態に陥ったところ、覚醒したメデューに殺される。
   - メデュー
@@ -126,7 +126,7 @@
 
   - 4C / 1998年8月9日初版発行、ISBN 978-4-08-782762-0
       - 『SHADOW LADY Katsura Masakazu Illustrations 3』
-  - ZETMAN 桂正和短編集〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉1995年7月9日初版発行 ISBN 978-4-08-871820-0
+  - ZETMAN 桂正和短編集〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉1995年7月9日初版発行 ISBN 978-4-08-871820-0
   - WJ版単行本〈ジャンプ・コミックス〉
     1.  1996年1月15日初版発行 ISBN 978-4-08-872041-8
     2.  1996年5月15日初版発行 ISBN 978-4-08-872042-5
@@ -138,14 +138,14 @@
 
   - [バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")
   - [電影少女](../Page/電影少女.md "wikilink") - 「VJ版」の前の連載作品。
-  - [D・N・A² 〜何処かで失くしたあいつのアイツ〜](https://ja.wikipedia.org/wiki/D・N・A²_〜何処かで失くしたあいつのアイツ〜 "wikilink") - 「VJ版」の次の連載作品であり、「WJ版」の前の連載作品。
-  - [I"s](https://ja.wikipedia.org/wiki/I"s "wikilink") - 「WJ版」の次の連載作品。
-  - [ZETMAN 桂正和短編集](https://ja.wikipedia.org/wiki/ZETMAN_桂正和短編集 "wikilink") - 「読切版」及び同時期の短篇を収録。
+  - [D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink") - 「VJ版」の次の連載作品であり、「WJ版」の前の連載作品。
+  - [I"s](../Page/I"s.md "wikilink") - 「WJ版」の次の連載作品。
+  - [ZETMAN 桂正和短編集](../Page/ZETMAN_桂正和短編集.md "wikilink") - 「読切版」及び同時期の短篇を収録。
   - 本作と同じくヒーローを扱った桂正和作品。
       - [ウイングマン](../Page/ウイングマン.md "wikilink")
       - [超機動員ヴァンダー](../Page/超機動員ヴァンダー.md "wikilink")
       - D・N・A² 〜何処かで失くしたあいつのアイツ〜
-      - [ZETMAN](https://ja.wikipedia.org/wiki/ZETMAN "wikilink")
+      - [ZETMAN](../Page/ZETMAN.md "wikilink")
 
 [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:怪盗を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公とした漫画作品 "wikilink") [Category:Vジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:Vジャンプの漫画作品 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:美容を題材とした作品](https://ja.wikipedia.org/wiki/Category:美容を題材とした作品 "wikilink") [Category:色を題材とした作品](https://ja.wikipedia.org/wiki/Category:色を題材とした作品 "wikilink") [Category:桂正和](https://ja.wikipedia.org/wiki/Category:桂正和 "wikilink")
 

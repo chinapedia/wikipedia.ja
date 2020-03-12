@@ -1,11 +1,11 @@
 > この記事は[DNANGEL](https://ja.wikipedia.org/wiki/DNANGEL)から翻訳されています。
 
 
-『**D・N・ANGEL**』（ディー・エヌ・エンジェル）は、[杉崎ゆきる](https://ja.wikipedia.org/wiki/杉崎ゆきる "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品及びこれを原作とする[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")作品。
+『**D・N・ANGEL**』（ディー・エヌ・エンジェル）は、[杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品及びこれを原作とする[メディアミックス](../Page/メディアミックス.md "wikilink")作品。
 
 ## 概要
 
-『[月刊ASUKA](https://ja.wikipedia.org/wiki/月刊Asuka "wikilink")』（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") / [角川書店](../Page/角川書店.md "wikilink")）で1997年から連載している漫画作品。長い中断を二度挟んでいるが、2018年7月号より連載を再開、現在に至る。単行本は[ASUKAコミックスより](https://ja.wikipedia.org/wiki/あすかコミックス "wikilink")15巻まで発売されている（今後の発刊予定については[\#既刊一覧](https://ja.wikipedia.org/wiki/#既刊一覧 "wikilink")を参照）。
+『[月刊ASUKA](../Page/月刊Asuka.md "wikilink")』（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") / [角川書店](../Page/角川書店.md "wikilink")）で1997年から連載している漫画作品。長い中断を二度挟んでいるが、2018年7月号より連載を再開、現在に至る。単行本は[ASUKAコミックスより](https://ja.wikipedia.org/wiki/あすかコミックス "wikilink")15巻まで発売されている（今後の発刊予定については[\#既刊一覧](https://ja.wikipedia.org/wiki/#既刊一覧 "wikilink")を参照）。
 
 2019年1月24日電子書籍の形態で16巻がリリースされた。 3月23日に発売された月刊ASUKA5月号には16巻の紙版が付録として付属。 新巻は8年ぶりの発売である。
 
@@ -20,7 +20,7 @@
 ### 丹羽家
 
   - 丹羽大助（にわ だいすけ）
-    声 - アニメ：[入野自由](https://ja.wikipedia.org/wiki/入野自由 "wikilink")、幼少時：[金田朋子](https://ja.wikipedia.org/wiki/金田朋子 "wikilink") / CD：[保志総一朗](../Page/保志総一朗.md "wikilink")
+    声 - アニメ：[入野自由](../Page/入野自由.md "wikilink")、幼少時：[金田朋子](../Page/金田朋子.md "wikilink") / CD：[保志総一朗](../Page/保志総一朗.md "wikilink")
     本作の主人公。東野第2中学2年生。
     14歳の誕生日に原田梨紗にラブレターを渡すが、フラれてしまう（アニメでは渡す前にフラれる）。その夜にその事を強く思った事で、大怪盗ダーク・マウジーへと変身。それからというもの、大助の運命は大きく変わっていく。
     穏やかで優しい性格。少し気弱な部分もあり頼みごとを断れない事が多く、よく冴原に便利使いされている。基本的に初心なので女の子と一緒にいると顔が赤くなることが多い。友人思いであり、倒れた日渡を介抱した時や梨紗が攫われた際は、周囲の反対を押し切る頑固な一面を見せた。また、こうと決めた時の行動力は普段とは一線を画す。梨紅曰く「へらへらしてて時々ぬけてるけど、いつだって一生懸命」。ダークを筆頭とするトラブルメーカー揃いの周囲に振り回されてもめげない精神力の持ち主でもある。
@@ -30,26 +30,26 @@
     当初は得体の知れない日渡のことを非常に怖がっており、彼とは立場上敵対しているが、それがなければ普通の友達になれたのだろうと思っており、倒れた日渡を家へ連れ帰って泊めたり、翌日失踪した後も身を案じ続けている。学校でも一緒にいることが多く、周囲にお互いの関係を隠しながらも時折美術品関連の話もする。また、日渡が残り少ない命だと知り、なんとかしたいと思っている。
     イニシャルは「D・N」。
   - ダーク・マウジー〔Dark Mousy〕
-    声 - アニメ：[置鮎龍太郎](https://ja.wikipedia.org/wiki/置鮎龍太郎 "wikilink") / CD：[小野坂昌也](../Page/小野坂昌也.md "wikilink")
+    声 - アニメ：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink") / CD：[小野坂昌也](../Page/小野坂昌也.md "wikilink")
     大助が好きな女の子の事を思うと変身してしまう人物。姿も人格も変わる。大助とは何度もぶつかってしまうが、信頼関係が崩れる事はない。丹羽家の男子を翼主（テイマー）にする、美術品。魔術を使う事も出来る（翼主への負担が大きいため、極力使わない）。また、仕え魔（ウィズ）に命令する事で黒い羽で飛ぶ事が出来る。かなりの男前だが女たらしである上一般常識が欠如しているせいでよく問題を起こすため、大助が頭を抱える事も多々ある。
     基本的に氷狩の一族を敵視しており、クラッドはもちろん翼主も同様である。そのため、自分（大助）の周りの人間に危害が及ばないように行動を起こす事もある。
     氷狩の祖の最後の美術品「黒翼」の半身。氷狩の先祖が黒翼の完成のための儀式を行おうとしていた時に現れた、丹羽の先祖に「呪い」という形で宿った「もう一人の自分」（原因は儀式の失敗による魔力の暴走）。それにより遺伝子異常の呪いで、丹羽の一族は恋愛の成就が困難になった。しかし、なぜ半身であるはずのクラッドと敵対しているかは謎である。
     小説では自分の宿命に対してもの悲しい事を呟いている。
     一見クールに見えるが、実際は自分に誕生日プレゼントは無い事でひがむなど、かなり大人気ない所もある。
   - ウィズ〔With〕
-    声 - アニメ：? / CD：[豊口めぐみ](https://ja.wikipedia.org/wiki/豊口めぐみ "wikilink")、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")（decade）
+    声 - アニメ：? / CD：[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")（decade）
     丹羽家のペット兼ダークの仕え魔。ダークの翼になったり、大助やダークに変身できる。言葉を話すのが苦手で「ダイスケ」を「ダイスキ」と言ってしまった事もある。また怖いものや水が苦手で、突然暗闇になっただけで気絶した事がある。好物は[苺](https://ja.wikipedia.org/wiki/苺 "wikilink")。
     鳴き声は「キュウ」。
   - 丹羽笑子（にわ えみこ）
-    声 - アニメ：[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")、幼少時：[川田妙子](../Page/川田妙子.md "wikilink") / CD：[永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+    声 - アニメ：[玉川紗己子](../Page/玉川砂記子.md "wikilink")、幼少時：[川田妙子](../Page/川田妙子.md "wikilink") / CD：[永島由子](../Page/永島由子.md "wikilink")
     大助の母。大助とは対照的な、とても明るい性格。前向き思考な所は母子でとても似ている。自分が丹羽家の娘として生まれ、怪盗になれないという宿命（男でなければなれない）を知り傷ついていた時期もあるが、前向きな思考で頑張ってきた。ダークが怪盗業に出る際は張り切って衣装を着せる（ダークも笑子の境遇を知っているため、彼女の衣装を文句を言わずに着ている）。大の買い物好きで、一度買い物をすると止まらない。「大怪盗の母親」という事でとても誇りに思っているらしい（やや過保護な一面が見られることもある）。
     ダークの予告状は彼女が出しており、大助に了承を取らないため大助は予告状に振り回されている。盗品の管理や保管も彼女が行なう。大助の怪盗家業の周辺のサポートを行なっている。氷狩に関してはダークに負けず劣らず敵対的で、大助に再三警戒を促している\[1\]。
   - 丹羽大樹（にわ だいき）
-    声 - アニメ：[青野武](../Page/青野武.md "wikilink")、40年前：[平松広和](https://ja.wikipedia.org/wiki/平松広和 "wikilink") / CD：[丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")、40年前：[麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")
+    声 - アニメ：[青野武](../Page/青野武.md "wikilink")、40年前：[平松広和](../Page/平松広和.md "wikilink") / CD：[丸山詠二](../Page/丸山詠二.md "wikilink")、40年前：[麦人](../Page/麦人.md "wikilink")
     大助の祖父。笑子の父親である。厳格そうに見えるが、性格は笑子と同じで全面的に明るい。ダークの前翼主でもある。高齢だが大助の怪盗業のアシストをする事も。変装が十八番。なお、妻は笑子を産み、程なくして死去している（漫画版にてダークが大助に教えているシーンがある）。この事が笑子を追い込む一因となっていた。
     一度だけ彼がダークの予告状を出した事がある。
   - 丹羽小助（にわ こすけ）
-    声 - アニメ：[寺杣昌紀](https://ja.wikipedia.org/wiki/てらそままさき "wikilink") / CD：[関俊彦](https://ja.wikipedia.org/wiki/関俊彦 "wikilink")
+    声 - アニメ：[寺杣昌紀](../Page/てらそままさき.md "wikilink") / CD：[関俊彦](../Page/関俊彦.md "wikilink")
     大助の父親。髪型や性格が大助と似ており、大助は父親似という事になる。考古学者をしている。
     大助同様ややぬけた一面があるが、大助にとっては頼れる父親となっている。しばらく家に帰っていなかったが、帰ってきてからは積極的に家族に馴染んでいる。
     ダークを諫められる唯一の存在で、彼との初対面時に魔力を抑える指輪をはめたことがあった。
@@ -61,12 +61,12 @@
 ### 氷狩家
 
   - 日渡怜（ひわたり さとし）
-    声 - アニメ：[石田彰](../Page/石田彰.md "wikilink") / CD：[関智一](https://ja.wikipedia.org/wiki/関智一 "wikilink")
+    声 - アニメ：[石田彰](../Page/石田彰.md "wikilink") / CD：[関智一](../Page/関智一.md "wikilink")
     中学生ながらに警察のダーク捜査の総司令。既にオリーバー大学を首席で卒業。丹羽家とは代々因縁のある「氷狩家」の最後の生き残り。日渡警視長に養子として引き取られたため「日渡」の姓を名乗っている。丹羽家とは対立しており、最初は騙すつもりで大助に近づいていたが、彼の優しさに触れ、のちに個人的な友情を抱くようになる。ダークにもそれほど悪感情は抱いておらず、公平な賭けをしたり利害が一致した際には協力関係になる事もある。梨紗のことは大助の時同様騙すつもりで近づいたが、行動を共にするうちに好意を抱くようになる。体内にはクラッドというダークの半身（というより、二つで一つのもの）が存在するが、大助とダークのように信頼と言ったものはなく忌み嫌っている。母親は氷狩理緒（ひかり りお）。現父に対してはあまり良い印象を持っていない。
     氷狩の一族の呪いにより短命であり、それほど時間が残されていない。だが大助がいてくれたおかげで先祖や丹羽の一族を憎まずにいられたと思っている。そのため大助のことをとても大切に思っている。一度丹羽家に来た際、昔から相手をなんとも思わない実家の面々とは雲泥の差とも言える丹羽家の親切さに触れ、家族の暖かさを感じ取った。
     彼の私生活は質素極まりないもので、ダークに「地味すぎる」と言われた。
   - クラッド〔Krad〕
-    声 - アニメ：[草尾毅](../Page/草尾毅.md "wikilink") / CD：[松野太紀](https://ja.wikipedia.org/wiki/松野太紀 "wikilink")（A Legend of Vampaireのみ）　
+    声 - アニメ：[草尾毅](../Page/草尾毅.md "wikilink") / CD：[松野太紀](../Page/松野太紀.md "wikilink")（A Legend of Vampaireのみ）　
     ダーク・マウジーの半身。ダークとは対照的に黒い翼ではなく、白い翼を持つ。そのためメディアからは「**白いダーク**」と呼ばれている。丹羽家とは因縁があり、ダークのライバルである。翼主（テイマー）である日渡怜の体を蝕もうとしている。故に「天使の顔して悪魔だ」とダークに称される事もある。一度ならず大助を殺そうとした事がある。ダークは丹羽家の男子にしか覚醒しないが、クラッドは女性でも覚醒する（怜の母親である理緒の時にも覚醒している描写がある）。
     氷狩の祖の最後の美術品「黒翼」の半身。黒翼完成の最後の儀式の失敗により、吹き込むはずだった魔力が暴走、「呪い」という形で氷狩に宿った「もう一人の自分」。短命の呪いによって氷狩を一族抹殺の道に追い込んでいる。彼が翼主の負担になるにもかかわらず躊躇なしに魔術を行使するのは、ここに理由がある。
     名前の由来はダーク (Dark) の綴りを逆にしたクラッド (Krad) 。
@@ -86,18 +86,18 @@
 （あずまのだいにちゅうがっこう）
 
   - 原田梨紅（はらだ りく）
-    声 - アニメ：[中山さら](../Page/中山さら.md "wikilink") / CD：[今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink")
+    声 - アニメ：[中山さら](../Page/中山さら.md "wikilink") / CD：[今井由香](../Page/今井由香.md "wikilink")
     原田梨紗の双子の姉。大助と梨紗とは同じクラス。梨紗とは対照的に活発な性格で、洋服などの趣味も全く違う。2年間、別々の場所で暮らしていた事がある。大助と両思いになり、恋人同士となる。ダークの事は初対面時に下着姿を見られて以来（アニメではキスをされた）、「チカンッ\!\!」「変態\!\!」などと言うほど大嫌い。大助がダークである事は知らないものの大助とダークの関係性の多さから、最近になって疑い始めている。梨紗がダークとデートするのを機会に、真実を確かめるために大助をデートに誘った。幼い頃に大助と出会っていて、彼が怪盗の技術を発揮しているのを目撃しているが、その子が大助である事は知らない（それでも少し似ていると思っている）。
-    学校では[ラクロス](https://ja.wikipedia.org/wiki/ラクロス "wikilink")部に在籍。しかしアニメでは、ラクロスのラケットの描き入れがあまりにも複雑で動きを入れるのは困難だった為、OPのみとなっており劇中では陸上部のようなシーンしか描かれていない。
+    学校では[ラクロス](../Page/ラクロス.md "wikilink")部に在籍。しかしアニメでは、ラクロスのラケットの描き入れがあまりにも複雑で動きを入れるのは困難だった為、OPのみとなっており劇中では陸上部のようなシーンしか描かれていない。
   - 原田梨紗（はらだ りさ）
-    声 - アニメ：[浅野真澄](../Page/浅野真澄.md "wikilink") / CD：[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")（WINKシリーズ）、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")（A Legend of Vampire・decade）
+    声 - アニメ：[浅野真澄](../Page/浅野真澄.md "wikilink") / CD：[丹下桜](../Page/丹下桜.md "wikilink")（WINKシリーズ）、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")（A Legend of Vampire・decade）
     原田梨紅の双子の妹。大助と梨紅とは同じクラス。梨紅とは対照的な少し高飛車で軽い性格。大助に告白をされたが、フってしまった。そしてその夜にダークをテレビで見て一目惚れをしてしまう。ダークと関わりを持つが、ダークが大助という事は知らない。姉の梨紅には対抗意識・ライバル心を抱いている様子（1巻のみの描写）。大助の事はいい友達と思っており、頼もしいとも言っている。料理があまり得意ではなく、ダークに渡すお弁当の予行演習として大助に味見してもらっている事がある（大助と梨紅が結ばれた後も頼んでいるようである）。ダークに会いたいがために予告のあった美術館に侵入したりしており、一度日渡に見つかった事がある。他のキャラと比べると日渡と接触することが多い。最初は尊大で得体の知れない日渡を嫌ってはいたが、後にダークと別の意味で好意を抱き始める。
     ダークとの最後のデートでアージェンタインに誘拐されるが、大助（ダーク）と日渡により救出される。
   - 冴原剛（さえはら たけし）
-    声 - アニメ：[白石稔](https://ja.wikipedia.org/wiki/白石稔 "wikilink")、幼少時：[小林由美子](https://ja.wikipedia.org/wiki/小林由美子 "wikilink") / CD：[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
-    本作の[狂言回し](https://ja.wikipedia.org/wiki/狂言回し "wikilink")的なポジション。ツッコミ役も兼任する。大助の4歳からの幼馴染で友人。本人曰く、10年来の大親友。母親が仕事でしょっちゅう家を空けている（TVアニメ版では死去という設定）ために実質父親と二人暮らしをしており、そのため料理が上手い。なお父親はダークを追いかけている警察官であり、そのためマスコミよりも早くダークの情報を仕入れることもある。自称ジャーナリストで、色々なスクープなどを持ってきては周りを引っ掻き回す。なお、倉科瑪瑙の為にダークと戦ったり\[3\]と行動力も持ち合わせている（本人もそのことを誇りに思っているのか、クラス中に言いふらして回った）ことや、学校行事の登山でクラスメイトのほとんどがばている中平然と歩くなど、運動能力に関しては極めて高いと思われる。ダークに負けず劣らず女好き。下ネタを平気で言う程デリカシーに欠けている。
+    声 - アニメ：[白石稔](../Page/白石稔.md "wikilink")、幼少時：[小林由美子](../Page/小林由美子.md "wikilink") / CD：[高木渉](../Page/高木渉.md "wikilink")
+    本作の[狂言回し](../Page/狂言回し.md "wikilink")的なポジション。ツッコミ役も兼任する。大助の4歳からの幼馴染で友人。本人曰く、10年来の大親友。母親が仕事でしょっちゅう家を空けている（TVアニメ版では死去という設定）ために実質父親と二人暮らしをしており、そのため料理が上手い。なお父親はダークを追いかけている警察官であり、そのためマスコミよりも早くダークの情報を仕入れることもある。自称ジャーナリストで、色々なスクープなどを持ってきては周りを引っ掻き回す。なお、倉科瑪瑙の為にダークと戦ったり\[3\]と行動力も持ち合わせている（本人もそのことを誇りに思っているのか、クラス中に言いふらして回った）ことや、学校行事の登山でクラスメイトのほとんどがばている中平然と歩くなど、運動能力に関しては極めて高いと思われる。ダークに負けず劣らず女好き。下ネタを平気で言う程デリカシーに欠けている。
   - 関本雅宏（せきもと まさひろ）
-    声 - [鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")
+    声 - [鈴木達央](../Page/鈴木達央.md "wikilink")
     大助のクラスメイト。本作では貴重なツッコミ役で、主に冴原の下ネタに釘を刺す\[4\]。幼少時代の描写から関本らしき人物が大助・冴原と一緒に居たりするなど、彼等とはその頃からの幼馴染であると思われる。冴原と行動を共にすることが多い。
 
 ### 美術品
@@ -108,7 +108,7 @@
     大助が修学旅行で訪れた孤島の灯台に飾られていた美術品で、探し物が得意。だが、美術品としての性質上、生まれてからずっと一人ぼっちだった。しかし、大助が自分に価値を見出してくれたため、きちんと自分を盗むという取引の形で、眠りの賢者に囚われたダークの救出に力を貸す。その後は丹羽家でメイドとして働いているが、事件が起きた際は探査能力を使って状況を探っている。
     ホラーやスプラッタが大好きだが、なぜかお化けは苦手な様子。また、ウィズと同じく水が苦手。笑子と同じく大の買い物好き（アニメ・ドラマCD）。
   - 時の秒針（ときのびょうしん）
-    声 - [中嶋ミチヨ](https://ja.wikipedia.org/wiki/中嶋ミチヨ "wikilink")
+    声 - [中嶋ミチヨ](../Page/中嶋ミチヨ.md "wikilink")
     氷狩の美術品の1つで、幻の美術品とまで言われた作品。童話・アイスアンドスノウにも登場する。時間を凍り付かせて止める力をもつ。フリーデルトと同一の存在となっている（この関係を大助は「自分とダークみたいに」と表現している）。
     大助が描いた絵と偶然共鳴したことで彼であればフリーデルトをエリオットに会わせられると考え、大助を取り込み絵を描かせた。また共鳴した絵を新たな依代とすることで時間を稼ぐが、努力もむなしく寿命が尽きてしまう。だが最後の瞬間、日渡が時の楔を取り込ませたことでフリーデルトとエリオットの再会の願いを叶えた。
     氷狩の手により封じられていた（死んでいた）と考えられていたが、実は残り少なくなった自らの時間を凍らせていただけであり、いつでも復活が可能だった。
@@ -132,19 +132,19 @@
 ### 警察関係者
 
   - 冴原警部
-    声 - アニメ：[平松広和](https://ja.wikipedia.org/wiki/平松広和 "wikilink") / CD：麦人
+    声 - アニメ：[平松広和](../Page/平松広和.md "wikilink") / CD：麦人
     冴原剛の父親で、ダークを追いかける警部。日渡の部下でもある。
     家事全般は全て息子任せで、自分ではあまり出来ない。喫煙者。妻には頭が上がらないようである。
   - 倉持警視庁長官
-    声 - [池田勝](https://ja.wikipedia.org/wiki/池田勝 "wikilink")
+    声 - [池田勝](../Page/池田勝.md "wikilink")
 
 ### その他の登場人物
 
   - 原田梨乃
-    声 - アニメ：[岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink") / CD：[小野涼子](https://ja.wikipedia.org/wiki/小野涼子 "wikilink")
+    声 - アニメ：[岡村明美](../Page/岡村明美.md "wikilink") / CD：[小野涼子](../Page/小野涼子.md "wikilink")
     原田梨紅・原田梨紗の母親。原作では共に暮らしているが、アニメでは遠出しているらしい。
   - 原田梨華
-    声 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
+    声 - [井上喜久子](../Page/井上喜久子.md "wikilink")
     原田梨紅・原田梨紗の祖母。アニメでは、ダークが唯一愛した女性。
   - フリーデルト
     声 - [雪野五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")
@@ -153,53 +153,53 @@
     声 - [水島大宙](https://ja.wikipedia.org/wiki/水島大宙 "wikilink")
     童話・アイスアンドスノウの主人公。領主の息子。フリーデルトとは相思相愛の仲。戦の最中、カイルの邪な願いにより時計の針のようなものに刺されて重体となったが、フリーデルトが時の秒針に祈ったことで命をとりとめた（この時フリーデルトはエリオットに自分の時間を与えたので死亡し、時の秒針と同一の存在となった）。その後フリーデルトの行為を知り、フリーデルトに時間を返すよう願い、彼女が彼に託した時の楔と呼ばれる剣で自身を貫き死亡。時の楔に彼の魂が宿った。
   - カイル・エンドイル
-    声 - [近藤孝行](https://ja.wikipedia.org/wiki/近藤孝行 "wikilink")
+    声 - [近藤孝行](../Page/近藤孝行.md "wikilink")
     童話・アイスアンドスノウの原作、アイスアンドダークの原作者。フリーデルトを狂おしいまでに想っており、それゆえエリオットの破滅を願った。時の秒針との契約によりエリオットの命を奪った代償として、自身の時を管理される呪いを受けてしまい、自ら死を選ぶ事も叶わぬ身体になってしまった。そして物語の顛末を描いたアイスアンドダークを書き終える事で漸く呪いから解放され、2人の命を奪った悔恨の人生に終止符を討つべく自ら命を絶った。それまで様々な不幸に見舞われたようである。
   - 倉科瑪瑙
-    声 - [永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+    声 - [永島由子](../Page/永島由子.md "wikilink")
     丹羽大樹が14歳の頃に出会った少女。そのメノウという名前にちなみ、大樹は「AGATE LINKS」（エゲートリンクス）を盗み出したが、約束した日には死んでいた。そのとき大樹がそっと置いておいたエゲートリンクスの魔力に縛られ、長い年月、老いることもなく大樹を待ち続けた。美術館に寄贈されたエゲートリンクスを盗み出した大助を大樹と見間違え、幸せの中消えていった（なお、大樹がだした予告状はこのエゲートリンクスである）。
   - 野澤菜海
     声 - [長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")
   - 州崎由希
-    声 - [小菅真美](https://ja.wikipedia.org/wiki/小菅真美 "wikilink")
+    声 - [小菅真美](../Page/小菅真美.md "wikilink")
   - 伊藤まなみ
     声 - 小菅真美
   - 西村祐次
-    声 - [福島潤](https://ja.wikipedia.org/wiki/福島潤 "wikilink")
+    声 - [福島潤](../Page/福島潤.md "wikilink")
   - 船橋広樹
-    声 - [櫻井孝宏](https://ja.wikipedia.org/wiki/櫻井孝宏 "wikilink")
+    声 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - 石井真理
-    声 - [門脇舞](https://ja.wikipedia.org/wiki/門脇舞以 "wikilink")
+    声 - [門脇舞](../Page/門脇舞以.md "wikilink")
   - 福田律子
     声 - [小林沙苗](../Page/小林沙苗.md "wikilink")
   - 沢村みゆき
-    声 - [黒河奈美](https://ja.wikipedia.org/wiki/黒河奈美 "wikilink")
+    声 - [黒河奈美](../Page/黒河奈美.md "wikilink")
   - 坪内
-    声 - [堀勝之祐](https://ja.wikipedia.org/wiki/堀勝之祐 "wikilink")
+    声 - [堀勝之祐](../Page/堀勝之祐.md "wikilink")
   - 加世田
-    声 - [松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")
+    声 - [松本大](../Page/松本大_\(声優\).md "wikilink")
   - 藤枝千鶴子
     声 - [太田淑子](../Page/太田淑子.md "wikilink")
   - TV局デスク
-    声 - [河相智哉](https://ja.wikipedia.org/wiki/河相智哉 "wikilink")
+    声 - [河相智哉](../Page/河相智哉.md "wikilink")
   - 西沢美咲
-    声 - [井端珠里](https://ja.wikipedia.org/wiki/井端珠里 "wikilink")
+    声 - [井端珠里](../Page/井端珠里.md "wikilink")
   - 西沢画伯
-    声 - [清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")
+    声 - [清川元夢](../Page/清川元夢.md "wikilink")
   - 羽鳥綾香
-    声 - [篠原恵美](https://ja.wikipedia.org/wiki/篠原恵美 "wikilink")
+    声 - [篠原恵美](../Page/篠原恵美.md "wikilink")
   - アドニス
-    声 - [渡洋史](https://ja.wikipedia.org/wiki/渡洋史 "wikilink")
+    声 - [渡洋史](../Page/渡洋史.md "wikilink")
   - 画材屋主人澪　
-    声 - [岡本嘉子](https://ja.wikipedia.org/wiki/岡本嘉子 "wikilink")
+    声 - [岡本嘉子](../Page/岡本嘉子.md "wikilink")
   - エーリッヒ・V・ヴァンデンバーグ
-    声 - [若本規夫](https://ja.wikipedia.org/wiki/若本規夫 "wikilink")
+    声 - [若本規夫](../Page/若本規夫.md "wikilink")
   - ビアンカ・V・ヴァンデンバーグ
-    声 - [有馬瑞香](https://ja.wikipedia.org/wiki/有馬瑞香 "wikilink")
+    声 - [有馬瑞香](../Page/有馬瑞香.md "wikilink")
   - 小田和沙
-    声 - アニメ：[小桜エツ子](../Page/小桜エツコ.md "wikilink") / CD：[小野涼子](https://ja.wikipedia.org/wiki/小野涼子 "wikilink")
+    声 - アニメ：[小桜エツ子](../Page/小桜エツコ.md "wikilink") / CD：[小野涼子](../Page/小野涼子.md "wikilink")
   - 小田美津希
-    声 - アニメ：[津村まこと](https://ja.wikipedia.org/wiki/津村まこと "wikilink") / CD：小野涼子
+    声 - アニメ：[津村まこと](../Page/津村まこと.md "wikilink") / CD：小野涼子
   - ムッシュ宮本
     声 - [宮本駿一](https://ja.wikipedia.org/wiki/宮本駿一 "wikilink")（本人）
   - 井上桜
@@ -260,21 +260,21 @@
 
 ## 小説
 
-岡崎純子 による小説版。角川ティーンズルビー文庫で刊行の後、新装版が[角川ビーンズ文庫](https://ja.wikipedia.org/wiki/角川ビーンズ文庫 "wikilink")にて発売。全3巻。
+岡崎純子 による小説版。角川ティーンズルビー文庫で刊行の後、新装版が[角川ビーンズ文庫](../Page/角川ビーンズ文庫.md "wikilink")にて発売。全3巻。
 
 1.  D・N・ANGEL-人魚の涙 1999年9月発行 ISBN 978-40-4-438401-2 / 2001年9月発行 ISBN 978-40-4-444901-8
 2.  D・N・ANGEL-雪の女王 2000年2月発行 ISBN 978-40-4-438402-9 / 2001年9月発行 ISBN 978-40-4-444902-5
 3.  D・N・ANGEL-硝子の靴 2000年9月発行 ISBN 978-40-4-438403-6 / 2001年9月発行 ISBN 978-40-4-444903-2
 
-槇ありさ によるアニメの小説版。[角川ビーンズ文庫](https://ja.wikipedia.org/wiki/角川ビーンズ文庫 "wikilink")。全2巻。
+槇ありさ によるアニメの小説版。[角川ビーンズ文庫](../Page/角川ビーンズ文庫.md "wikilink")。全2巻。
 
 1.  D・N・ANGEL―TV Animation Series/1st. 2003年7月発行 ISBN 978-40-4-447102-6
 2.  D・N・ANGEL―TV Animation Series 2nd. 2003年9月発行 ISBN 978-40-4-447103-3
 
 ## CDドラマ
 
-  - D・N・ANGEL WINK Drama Compact Disc（ドラマCD版キャスト、[マリン・エンタテインメント](https://ja.wikipedia.org/wiki/マリン・エンタテインメント "wikilink")から発売）
-  - \# 「TARGET:SLEEPING BEAUTY」（1999年3月5日、[バンダイ・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink")。 2000年1月26日、マリン・エンタテインメント）
+  - D・N・ANGEL WINK Drama Compact Disc（ドラマCD版キャスト、[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")から発売）
+  - \# 「TARGET:SLEEPING BEAUTY」（1999年3月5日、[バンダイ・ミュージックエンタテインメント](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")。 2000年1月26日、マリン・エンタテインメント）
   - \# 「2nd TARGET:Love sick」（1999年11月17日）
   - \# 「3rd TARGET:Love pleasure」（1999年12月15日）
       - 『D・N・ANGEL』ヴォーカルCD『trilogy』（2000年5月24日。ドラマCD版キャストによるキャラクターソングCD。）
@@ -283,11 +283,11 @@
   - \# 「Cute」（2003年8月21日）
   - \# 「Sweet」（2003年10月1日）
   - decade 〜Yukiru Sugisaki 10th Anniversary〜（2005年9月2日、ビクターエンタテインメント）
-      - 杉崎ゆきるの10周年記念に発売された。[女神候補生](https://ja.wikipedia.org/wiki/女神候補生 "wikilink")や[ラグーンエンジン](https://ja.wikipedia.org/wiki/ラグーンエンジン "wikilink")、[りぜるまいん](https://ja.wikipedia.org/wiki/りぜるまいん "wikilink")のキャラクターが集合しドラマを繰り広げる。ここでは2人の大助とダークが存在し、一部の声は他の出演声優が兼ね役をしている。
+      - 杉崎ゆきるの10周年記念に発売された。[女神候補生](../Page/女神候補生.md "wikilink")や[ラグーンエンジン](../Page/ラグーンエンジン.md "wikilink")、[りぜるまいん](../Page/りぜるまいん.md "wikilink")のキャラクターが集合しドラマを繰り広げる。ここでは2人の大助とダークが存在し、一部の声は他の出演声優が兼ね役をしている。
 
 ## テレビアニメ
 
-2003年4月から2003年9月までテレビ東京系列で放送された。ナレーションは[池田政典](https://ja.wikipedia.org/wiki/池田政典 "wikilink")。
+2003年4月から2003年9月までテレビ東京系列で放送された。ナレーションは[池田政典](../Page/池田政典.md "wikilink")。
 
 ### 原作との相違点
 
@@ -300,19 +300,19 @@
 ### スタッフ
 
   - 原作・スーパーバイザー - 杉崎ゆきる（角川書店あすかコミックス刊）
-  - 監督 - [羽原信義](https://ja.wikipedia.org/wiki/羽原信義 "wikilink")
-  - シリーズ構成 - [荒川稔久](https://ja.wikipedia.org/wiki/荒川稔久 "wikilink")
+  - 監督 - [羽原信義](../Page/羽原信義.md "wikilink")
+  - シリーズ構成 - [荒川稔久](../Page/荒川稔久.md "wikilink")
   - キャラクターデザイン - 山岡信一
   - プロップデザイン - [森木靖泰](https://ja.wikipedia.org/wiki/森木靖泰 "wikilink")
   - 美術監督 - 海野よしみ
   - 色彩設計 - 関本美津子
   - 撮影監督 - 広瀬勝利
   - 編集 - [伊藤潤一](https://ja.wikipedia.org/wiki/伊藤潤一 "wikilink")
-  - 音楽 - [長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")、[江口貴勅](https://ja.wikipedia.org/wiki/江口貴勅 "wikilink")
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音楽 - [長谷川智樹](../Page/長谷川智樹.md "wikilink")、[江口貴勅](https://ja.wikipedia.org/wiki/江口貴勅 "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - プロデューサー - 紅谷佳和→瀧川治水、山西太平、[伊藤敦](https://ja.wikipedia.org/wiki/伊藤敦_\(プロデューサー\) "wikilink")、中村里美
   - 制作協力 - [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")
-  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[電通](https://ja.wikipedia.org/wiki/電通 "wikilink")、[XEBEC](https://ja.wikipedia.org/wiki/ジーベック_\(アニメ制作会社\) "wikilink")
+  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[電通](../Page/電通.md "wikilink")、[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")
 
 ### 主題歌
 
@@ -323,7 +323,7 @@
   -
 
       -
-        作詞 - [酒井ミキオ](https://ja.wikipedia.org/wiki/酒井ミキオ "wikilink") / 作曲 - 山崎ますみ / 編曲 - [永井ルイ](https://ja.wikipedia.org/wiki/永井ルイ "wikilink") / 歌 - [宮本駿一](https://ja.wikipedia.org/wiki/宮本駿一 "wikilink")
+        作詞 - [酒井ミキオ](../Page/酒井ミキオ.md "wikilink") / 作曲 - 山崎ますみ / 編曲 - [永井ルイ](../Page/永井ルイ.md "wikilink") / 歌 - [宮本駿一](https://ja.wikipedia.org/wiki/宮本駿一 "wikilink")
 
   - エンディングテーマ
 
@@ -348,7 +348,7 @@
   -
 
       -
-        作詞 - 酒井ミキオ / 作曲・編曲 - [長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink") / 歌 - 宮本駿一
+        作詞 - 酒井ミキオ / 作曲・編曲 - [長谷川智樹](../Page/長谷川智樹.md "wikilink") / 歌 - 宮本駿一
 
 ### 各話リスト
 
@@ -367,8 +367,8 @@
 <tr class="odd">
 <td><p>STAGE 1</p></td>
 <td><p>復活のダーク</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荒川稔久" title="wikilink">荒川稔久</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/羽原信義" title="wikilink">羽原信義</a></p></td>
+<td><p><a href="../Page/荒川稔久.md" title="wikilink">荒川稔久</a></p></td>
+<td><p><a href="../Page/羽原信義.md" title="wikilink">羽原信義</a></p></td>
 <td><p>山岡信一</p></td>
 <td></td>
 </tr>
@@ -376,7 +376,7 @@
 <td><p>STAGE 2</p></td>
 <td><p>よみがえる想い</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉川浩司" title="wikilink">吉川浩司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a></p></td>
+<td><p><a href="../Page/本橋秀之.md" title="wikilink">本橋秀之</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -401,7 +401,7 @@
 <td><p>STAGE 5</p></td>
 <td><p>ダブルクッキング</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中弘子" title="wikilink">中弘子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角銅博之" title="wikilink">開木菜織</a></p></td>
+<td><p><a href="../Page/角銅博之.md" title="wikilink">開木菜織</a></p></td>
 <td><p>広嶋秀樹</p></td>
 <td><p>おおのつとむ</p></td>
 </tr>
@@ -410,7 +410,7 @@
 <td><p>St.White Memories</p></td>
 <td><p>翁妙子</p></td>
 <td><p>吉川浩司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>立田眞一</p></td>
 </tr>
 <tr class="odd">
@@ -424,7 +424,7 @@
 <tr class="even">
 <td><p>STAGE 8</p></td>
 <td><p>瑪瑙の予告状</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桶谷顕" title="wikilink">桶谷顕</a></p></td>
+<td><p><a href="../Page/桶谷顕.md" title="wikilink">桶谷顕</a></p></td>
 <td><p>羽原信義</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小坂春女" title="wikilink">林有紀</a></p></td>
 <td><p>本橋秀之</p></td>
@@ -433,7 +433,7 @@
 <td><p>STAGE 9</p></td>
 <td><p>ちいさな恋</p></td>
 <td><p>翁妙子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大槻敦史" title="wikilink">大槻敦史</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平山英嗣" title="wikilink">平山英嗣</a></p></td>
 </tr>
@@ -523,7 +523,7 @@
 <td><p>STAGE 20</p></td>
 <td><p>逢いたくて</p></td>
 <td><p>中弘子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤圭二" title="wikilink">後藤圭二</a></p></td>
+<td><p><a href="../Page/後藤圭二.md" title="wikilink">後藤圭二</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/門之園恵美" title="wikilink">門之園恵美</a></p></td>
 <td></td>
 </tr>
@@ -581,16 +581,16 @@
 
 ### 放送局
 
-| 放送地域                                                           | 放送局                                                       | 放送期間                                                                                                                             | 放送日時             | 放送系列                                                         | 備考      |
-| -------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------ | ------- |
-| [関東広域圏](https://ja.wikipedia.org/wiki/広域放送 "wikilink")         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [2003年](../Page/2003年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [9月25日](../Page/9月25日.md "wikilink") | 木曜 18:30 - 19:00 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")      | **制作局** |
-| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")            | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      | 同時ネット                                                                                                                            |                  |                                                              |         |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")            | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      |                                                                                                                                  |                  |                                                              |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")            | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                                                                                  |                  |                                                              |         |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")            | [テレビ北海道](https://ja.wikipedia.org/wiki/テレビ北海道 "wikilink") |                                                                                                                                  |                  |                                                              |         |
-| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  |                                                                                                                                  |                  |                                                              |         |
-| [岐阜県](../Page/岐阜県.md "wikilink")                               | [岐阜放送](https://ja.wikipedia.org/wiki/岐阜放送 "wikilink")     |                                                                                                                                  |                  | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立放送協議会 "wikilink") |         |
-| [日本全域](https://ja.wikipedia.org/wiki/日本全域 "wikilink")          | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink") |                                                                                                                                  |                  | [BS放送](https://ja.wikipedia.org/wiki/BS放送 "wikilink")        |         |
+| 放送地域                                                  | 放送局                                                       | 放送期間                                                                                                          | 放送日時             | 放送系列                                                    | 備考      |
+| ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [2003年](../Page/2003年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink") | 木曜 18:30 - 19:00 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | **制作局** |
+| [大阪府](../Page/大阪府.md "wikilink")                      | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      | 同時ネット                                                                                                         |                  |                                                         |         |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      |                                                                                                               |                  |                                                         |         |
+| [福岡県](../Page/福岡県.md "wikilink")                      | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                                                               |                  |                                                         |         |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    |                                                                                                               |                  |                                                         |         |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")           | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  |                                                                                                               |                  |                                                         |         |
+| [岐阜県](../Page/岐阜県.md "wikilink")                      | [岐阜放送](../Page/岐阜放送.md "wikilink")                        |                                                                                                               |                  | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")               |         |
+| [日本全域](https://ja.wikipedia.org/wiki/日本全域 "wikilink") | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink") |                                                                                                               |                  | [BS放送](https://ja.wikipedia.org/wiki/BS放送 "wikilink")   |         |
 
 ## ラジオ
 
@@ -638,6 +638,6 @@
 
 1.  ただし、日渡が丹羽家に上がり込んできたときは渋々彼の面倒を見ていた。
 2.  氷狩側のスパイであり、主である日渡の養父には逆らえなかった。
-3.  装備は防災[ヘルメット](https://ja.wikipedia.org/wiki/ヘルメット "wikilink")と[バット](https://ja.wikipedia.org/wiki/バット "wikilink")だった。
+3.  装備は防災[ヘルメット](../Page/ヘルメット.md "wikilink")と[バット](https://ja.wikipedia.org/wiki/バット "wikilink")だった。
 4.  「少女漫画でその言葉は控えろ」ということが多い。
 5.

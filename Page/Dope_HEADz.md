@@ -14,9 +14,9 @@
 ## メンバー
 
   - ボーカル：Shame（ex.Ravecraft)
-  - ギター：[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")
-  - ベース：[HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink")
-  - プログラマー：[I.N.A](https://ja.wikipedia.org/wiki/I.N.A "wikilink")
+  - ギター：[PATA](../Page/PATA.md "wikilink")
+  - ベース：[HEATH](../Page/HEATH.md "wikilink")
+  - プログラマー：[I.N.A](../Page/I.N.A.md "wikilink")
 
 ### 過去メンバー
 

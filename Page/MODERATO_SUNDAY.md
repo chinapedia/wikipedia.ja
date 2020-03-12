@@ -1,22 +1,22 @@
 > この記事は[MODERATO SUNDAY](https://ja.wikipedia.org/wiki/MODERATO_SUNDAY)から翻訳されています。
 
 
-『**MODERATO SUNDAY**』（モデラート・サンデー）は、2000年4月2日から同年9月24日まで[エフエム九州](../Page/エフエム九州.md "wikilink") (CROSS FM) で放送されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。
+『**MODERATO SUNDAY**』（モデラート・サンデー）は、2000年4月2日から同年9月24日まで[エフエム九州](../Page/エフエム九州.md "wikilink") (CROSS FM) で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
 ## 概要
 
-放送時間は毎週日曜 7:00 - 10:00 （[日本標準時](../Page/日本標準時.md "wikilink")）、CROSS FM[北九州本社スタジオからの](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。「ヒーリング・プログラム」と銘打っていた番組で\[1\]、音楽と情報を中心とする内容で放送。番組中に掛かる曲は、懐かしめのナンバーが中心であった\[2\]。
+放送時間は毎週日曜 7:00 - 10:00 （[日本標準時](../Page/日本標準時.md "wikilink")）、CROSS FM[北九州本社スタジオからの](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[生放送](../Page/生放送.md "wikilink")。「ヒーリング・プログラム」と銘打っていた番組で\[1\]、音楽と情報を中心とする内容で放送。番組中に掛かる曲は、懐かしめのナンバーが中心であった\[2\]。
 
-ナビゲーターは[門司正弘](https://ja.wikipedia.org/wiki/門司正弘 "wikilink")が務めていた。ディレクターは、当時『[ROLLING SATURDAY](https://ja.wikipedia.org/wiki/ROLLING_SATURDAY "wikilink")』のナビゲーターでもあった[立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")が務めていた。この番組の終了後、門司はCROSS FMの番組を担当していない。
+ナビゲーターは[門司正弘](https://ja.wikipedia.org/wiki/門司正弘 "wikilink")が務めていた。ディレクターは、当時『[ROLLING SATURDAY](https://ja.wikipedia.org/wiki/ROLLING_SATURDAY "wikilink")』のナビゲーターでもあった[立山律子](../Page/立山律子.md "wikilink")が務めていた。この番組の終了後、門司はCROSS FMの番組を担当していない。
 
 ## コーナー
 
   - フラワーチャット
-    7:30頃から放送。毎回1つの[花](https://ja.wikipedia.org/wiki/花 "wikilink")をテーマにし、その花に関する情報と[花言葉](../Page/花言葉.md "wikilink")を紹介した。
+    7:30頃から放送。毎回1つの[花](../Page/花.md "wikilink")をテーマにし、その花に関する情報と[花言葉](../Page/花言葉.md "wikilink")を紹介した。
   - ライヴ・オン・ライヴ
-    8:00頃から放送。当時CROSS FMのチーフプロデューサーであった[松井伸一](https://ja.wikipedia.org/wiki/松井伸一 "wikilink")が電話出演し、過去に[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")内で行われた音楽ライブでのエピソードなどを紹介した。
+    8:00頃から放送。当時CROSS FMのチーフプロデューサーであった[松井伸一](../Page/松井伸一.md "wikilink")が電話出演し、過去に[福岡県](../Page/福岡県.md "wikilink")内で行われた音楽ライブでのエピソードなどを紹介した。
   - PURE WIND
-    9:25 - 9:30に放送。[日本財団](https://ja.wikipedia.org/wiki/日本財団 "wikilink")提供のネットワーク番組で、福祉・環境関連の情報を紹介した。
+    9:25 - 9:30に放送。[日本財団](../Page/日本財団.md "wikilink")提供のネットワーク番組で、福祉・環境関連の情報を紹介した。
 
 ## エピソード
 

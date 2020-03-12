@@ -11,13 +11,13 @@
 
 1.  **YAH YAH YAH**
       -
-        作詞:久松史奈 作曲:川上明彦 編曲:[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+        作詞:久松史奈 作曲:川上明彦 編曲:[瀬尾一三](../Page/瀬尾一三.md "wikilink")
 2.  **Success**
       -
-        作詞:久松史奈 作曲:[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink") 編曲:瀬尾一三
+        作詞:久松史奈 作曲:[都志見隆](../Page/都志見隆.md "wikilink") 編曲:瀬尾一三
 3.  **ALIVE**
       -
-        作詞:久松史奈 作曲:[羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink") 編曲:[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")
+        作詞:久松史奈 作曲:[羽田一郎](../Page/羽田一郎.md "wikilink") 編曲:[村上啓介](../Page/村上啓介.md "wikilink")
 4.  **ゼロから**
       -
         作詞:久松史奈 作曲:小倉健二 編曲:村上啓介
@@ -43,10 +43,10 @@
 ## 参加ミュージシャン
 
   - 山木秀夫 - ドラム
-  - [長谷部徹](https://ja.wikipedia.org/wiki/長谷部徹_\(ドラマー\) "wikilink") - ドラム
+  - [長谷部徹](../Page/長谷部徹_\(ドラマー\).md "wikilink") - ドラム
   - 美久月千晴 - ベース
-  - [国吉良一](https://ja.wikipedia.org/wiki/国吉良一 "wikilink") - キーボード
-  - [今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink") - ギター
+  - [国吉良一](../Page/国吉良一.md "wikilink") - キーボード
+  - [今剛](../Page/今剛.md "wikilink") - ギター
   - 村上啓介 - ギター
   - 安田信二 - シンセサイザー
 

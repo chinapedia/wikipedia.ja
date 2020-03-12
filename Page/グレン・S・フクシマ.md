@@ -1,19 +1,19 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**グレン・S・フクシマ**（**Glen S. Fukushima**、[1949年](../Page/1949年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")3世の[実業家](../Page/実業家.md "wikilink")、[米国政府官僚](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")出身。妻は[橘・フクシマ・咲江](https://ja.wikipedia.org/wiki/橘・フクシマ・咲江 "wikilink")。
+**グレン・S・フクシマ**（**Glen S. Fukushima**、[1949年](../Page/1949年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")3世の[実業家](../Page/実業家.md "wikilink")、[米国政府官僚](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")出身。妻は[橘・フクシマ・咲江](../Page/橘・フクシマ・咲江.md "wikilink")。
 
 ## 経歴
 
-1968年から1972年まで[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")、1974年から1978年まで[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")大学院で学ぶ。1982年までに[ハーバード・ビジネス・スクール](../Page/ハーバード・ビジネス・スクール.md "wikilink")及びハーバード・ロー・スクールにて[MBAと](../Page/経営学修士.md "wikilink")[JDを取得](https://ja.wikipedia.org/wiki/法務博士（専門職） "wikilink")。ハーバード在学中には助手として[エドウィン・O・ライシャワー](../Page/エドウィン・O・ライシャワー.md "wikilink")、[エズラ・ヴォーゲル](https://ja.wikipedia.org/wiki/エズラ・ヴォーゲル "wikilink")、[デイヴィッド・リースマン](https://ja.wikipedia.org/wiki/デイヴィッド・リースマン "wikilink")らに師事する。また、1972年に[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")、1982年から1984年までは[フルブライト・プログラム](../Page/フルブライト・プログラム.md "wikilink")により[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に留学している。
+1968年から1972年まで[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")、1974年から1978年まで[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")大学院で学ぶ。1982年までに[ハーバード・ビジネス・スクール](../Page/ハーバード・ビジネス・スクール.md "wikilink")及びハーバード・ロー・スクールにて[MBAと](../Page/経営学修士.md "wikilink")[JDを取得](../Page/法務博士（専門職）.md "wikilink")。ハーバード在学中には助手として[エドウィン・O・ライシャワー](../Page/エドウィン・O・ライシャワー.md "wikilink")、[エズラ・ヴォーゲル](../Page/エズラ・ヴォーゲル.md "wikilink")、[デイヴィッド・リースマン](../Page/デイヴィッド・リースマン.md "wikilink")らに師事する。また、1972年に[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")、1982年から1984年までは[フルブライト・プログラム](../Page/フルブライト・プログラム.md "wikilink")により[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に留学している。
 
-卒業後は、カリフォルニア州で弁護士資格を得て、1982年から[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の法律事務所に参画したのち、1984年に[アメリカ合衆国通商代表部](https://ja.wikipedia.org/wiki/アメリカ合衆国通商代表部 "wikilink")に入省した。日本担当部長として、[プラザ合意](../Page/プラザ合意.md "wikilink")後もやまない日米[貿易摩擦](https://ja.wikipedia.org/wiki/貿易摩擦 "wikilink")の中にあって、[スーパー301条](https://ja.wikipedia.org/wiki/スーパー301条 "wikilink")関係を始めとする対日交渉にあたった。1988年には米国通商代表補代理に昇格しており、関与した産業分野は半導体、機械機器、タバコ、牛肉、農産物、法制、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")など多岐にわたる。
+卒業後は、カリフォルニア州で弁護士資格を得て、1982年から[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の法律事務所に参画したのち、1984年に[アメリカ合衆国通商代表部](../Page/アメリカ合衆国通商代表部.md "wikilink")に入省した。日本担当部長として、[プラザ合意](../Page/プラザ合意.md "wikilink")後もやまない日米[貿易摩擦](../Page/貿易摩擦.md "wikilink")の中にあって、[スーパー301条](../Page/スーパー301条.md "wikilink")関係を始めとする対日交渉にあたった。1988年には米国通商代表補代理に昇格しており、関与した産業分野は半導体、機械機器、タバコ、牛肉、農産物、法制、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")など多岐にわたる。
 
-1990年に米国通商代表部を去り、[AT\&T](../Page/AT&T.md "wikilink")に入社、日本AT\&T副社長を務める。その後[アーサー・D・リトル](https://ja.wikipedia.org/wiki/アーサー・D・リトル "wikilink")（ジャパン）社長、日本ケイデンス・デザイン・システムズ社長、同会長、[日本NCR](https://ja.wikipedia.org/wiki/日本NCR "wikilink")共同社長と転じ、1993年から[在日米国商工会議所](https://ja.wikipedia.org/wiki/在日米国商工会議所 "wikilink")（ACCJ）役員、1998年度には同会議所会頭に就任している。
+1990年に米国通商代表部を去り、[AT\&T](../Page/AT&T.md "wikilink")に入社、日本AT\&T副社長を務める。その後[アーサー・D・リトル](../Page/アーサー・D・リトル.md "wikilink")（ジャパン）社長、日本ケイデンス・デザイン・システムズ社長、同会長、[日本NCR](../Page/日本NCR.md "wikilink")共同社長と転じ、1993年から[在日米国商工会議所](https://ja.wikipedia.org/wiki/在日米国商工会議所 "wikilink")（ACCJ）役員、1998年度には同会議所会頭に就任している。
 
 1999年4月より[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")アドバイザリー・ボード\[1\]。2005年2月からは[エアバス](../Page/エアバス.md "wikilink")・ジャパンの社長兼CEOとなった。2010年4月、同社社長を同じエアバス・グループの[ユーロコプター](https://ja.wikipedia.org/wiki/ユーロコプター "wikilink")・ジャパン社長のステファン・ジヌーが兼務することになり取締役会長に退いた\[2\]。この他、[みずほフィナンシャルグループ](https://ja.wikipedia.org/wiki/みずほフィナンシャルグループ "wikilink")の監査役を務めている。
 
-日米友好基金副理事長、日米文化教育交流会議米国副委員長、米国外交評議会委員、[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")独占禁止懇話会委員、[経済同友会](https://ja.wikipedia.org/wiki/経済同友会 "wikilink")幹事、アジア財団顧問、[経済企画庁](https://ja.wikipedia.org/wiki/経済企画庁 "wikilink")経済審議会特別委員、日米協会理事など、公職への歴任も多い。日本滞在歴は20年を超える。妻の橘・フクシマ・咲江はコーン・フェリー・インターナショナル社アジア・パシフィック地域最高顧問を務める。
+日米友好基金副理事長、日米文化教育交流会議米国副委員長、米国外交評議会委員、[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")独占禁止懇話会委員、[経済同友会](../Page/経済同友会.md "wikilink")幹事、アジア財団顧問、[経済企画庁](../Page/経済企画庁.md "wikilink")経済審議会特別委員、日米協会理事など、公職への歴任も多い。日本滞在歴は20年を超える。妻の橘・フクシマ・咲江はコーン・フェリー・インターナショナル社アジア・パシフィック地域最高顧問を務める。
 
 ## 見識
 
@@ -30,7 +30,7 @@
 
   - [新世界秩序](https://ja.wikipedia.org/wiki/新世界秩序 "wikilink")
   - [稲盛和夫](../Page/稲盛和夫.md "wikilink")
-  - [牛尾治朗](https://ja.wikipedia.org/wiki/牛尾治朗 "wikilink")
+  - [牛尾治朗](../Page/牛尾治朗.md "wikilink")
   - [原良也](https://ja.wikipedia.org/wiki/原良也 "wikilink")
   - [日本航空](../Page/日本航空.md "wikilink")　
 

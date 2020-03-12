@@ -1,11 +1,11 @@
 > この記事は[vs.](https://ja.wikipedia.org/wiki/vs.)から翻訳されています。
 
 
-**パックマンvs.**（パックマンブイエス）は、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）と[任天堂](../Page/任天堂.md "wikilink")のコラボレーションから生まれた対戦アクションゲーム。[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")と[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")を接続する周辺機器[GBAケーブル](https://ja.wikipedia.org/wiki/GBAケーブル "wikilink")を用いた新機軸のゲームとして考案されたが一般市販はされなかった。
+**パックマンvs.**（パックマンブイエス）は、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）と[任天堂](../Page/任天堂.md "wikilink")のコラボレーションから生まれた対戦アクションゲーム。[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")と[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")を接続する周辺機器[GBAケーブル](../Page/GBAケーブル.md "wikilink")を用いた新機軸のゲームとして考案されたが一般市販はされなかった。
 
 ## 概要
 
-ナムコの代表作である1人用アクションゲーム『[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")』（以下オリジナル版）を[マリオシリーズ](https://ja.wikipedia.org/wiki/マリオシリーズ "wikilink")の産みの親として知られる任天堂の[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")が対戦ゲームにアレンジしたもので、プレイ人数は2人～4人。
+ナムコの代表作である1人用アクションゲーム『[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")』（以下オリジナル版）を[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")の産みの親として知られる任天堂の[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")が対戦ゲームにアレンジしたもので、プレイ人数は2人～4人。
 
 オリジナル版はプレイヤーキャラクターであるパックマンがモンスター(DS版は「ゴースト」と表記)に捕まらないように逃げ回りつつ迷路の中にあるエサを全て食べるのが目的だったが、本作はプレイヤーのうちの1名がパックマン役、他のプレイヤーがモンスター役となる。パックマンがモンスターに捕まると捕まえたプレイヤーに点数が入り、そのプレイヤーが新たなパックマンとなる。こうして何度かプレイを繰り返し、ゲーム開始時に設定した規定得点に最初に到達したプレイヤーが勝利者となる。
 
@@ -18,12 +18,12 @@
 <!-- end list -->
 
   - [R:RACING EVOLUTION同梱版](https://ja.wikipedia.org/wiki/R:RACING_EVOLUTION "wikilink")（2003年11月27日発売）
-  - [クラブニンテンドー](https://ja.wikipedia.org/wiki/クラブニンテンドー "wikilink")版（2003年12月31日受付締め切り）
+  - [クラブニンテンドー](../Page/クラブニンテンドー.md "wikilink")版（2003年12月31日受付締め切り）
 
 <!-- end list -->
 
   -
-    クラブニンテンドー版は『[ポケモンコロシアム](https://ja.wikipedia.org/wiki/ポケモンコロシアム "wikilink")』、『[マリオカート ダブルダッシュ\!\!](https://ja.wikipedia.org/wiki/マリオカート_ダブルダッシュ!! "wikilink")』、『[マリオパーティ5](https://ja.wikipedia.org/wiki/マリオパーティ5 "wikilink")』、『[ドンキーコンガ](../Page/ドンキーコンガ.md "wikilink")』、『[R:RACING EVOLUTION](https://ja.wikipedia.org/wiki/R:RACING_EVOLUTION "wikilink")』、『[バテン・カイトス](https://ja.wikipedia.org/wiki/バテン・カイトス_終わらない翼と失われた海 "wikilink")』を購入してクラブニンテンドーに登録したユーザーにキャンペーン特典として配布。ゲームキューブ用ソフトの宣伝ムービーが収録されている。
+    クラブニンテンドー版は『[ポケモンコロシアム](../Page/ポケモンコロシアム.md "wikilink")』、『[マリオカート ダブルダッシュ\!\!](../Page/マリオカート_ダブルダッシュ!!.md "wikilink")』、『[マリオパーティ5](../Page/マリオパーティ5.md "wikilink")』、『[ドンキーコンガ](../Page/ドンキーコンガ.md "wikilink")』、『[R:RACING EVOLUTION](https://ja.wikipedia.org/wiki/R:RACING_EVOLUTION "wikilink")』、『[バテン・カイトス](../Page/バテン・カイトス_終わらない翼と失われた海.md "wikilink")』を購入してクラブニンテンドーに登録したユーザーにキャンペーン特典として配布。ゲームキューブ用ソフトの宣伝ムービーが収録されている。
 
     [北米では](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2003年12月2日発売の『パックマンワールド2』の廉価版、『』（日本未発売ソフト）にカップリング収録された。
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - [ナムコミュージアム](https://ja.wikipedia.org/wiki/ナムコミュージアム "wikilink")DS（2007年10月11日発売）に収録。
+  - [ナムコミュージアム](../Page/ナムコミュージアム.md "wikilink")DS（2007年10月11日発売）に収録。
 
 <!-- end list -->
 
@@ -39,15 +39,15 @@
 
 <!-- end list -->
 
-  - [ナムコミュージアム](https://ja.wikipedia.org/wiki/ナムコミュージアム "wikilink")（2017年7月28日配信開始）に収録。
+  - [ナムコミュージアム](../Page/ナムコミュージアム.md "wikilink")（2017年7月28日配信開始）に収録。
 
 ## 歴史
 
-2003年5月開催の[E3任天堂カンファレンスにおいて宮本茂がパックマンの開発者である](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink")[岩谷徹](https://ja.wikipedia.org/wiki/岩谷徹_\(ゲームクリエイター\) "wikilink")（ナムコ）をゲストとして招き、ステージ上で任天堂によるパックマンのリメイクを申し入れるというパフォーマンス（既に出来上がっていたソフトで対戦をして、任天堂側がナムコ側に勝ったらパックマンの使用を許可するという筋書き）によって発表され、話題を呼ぶ。その後、同年11月にナムコより発売された『[R:RACING EVOLUTION](https://ja.wikipedia.org/wiki/R:RACING_EVOLUTION "wikilink")』への同梱や、同年11月～12月に任天堂とナムコより発売のゲームキューブ用ソフトを購入して[クラブニンテンドー](https://ja.wikipedia.org/wiki/クラブニンテンドー "wikilink")へ登録したユーザーへの特典（2003年12月31日締切）として配布された。
+2003年5月開催の[E3任天堂カンファレンスにおいて宮本茂がパックマンの開発者である](../Page/Electronic_Entertainment_Expo.md "wikilink")[岩谷徹](../Page/岩谷徹_\(ゲームクリエイター\).md "wikilink")（ナムコ）をゲストとして招き、ステージ上で任天堂によるパックマンのリメイクを申し入れるというパフォーマンス（既に出来上がっていたソフトで対戦をして、任天堂側がナムコ側に勝ったらパックマンの使用を許可するという筋書き）によって発表され、話題を呼ぶ。その後、同年11月にナムコより発売された『[R:RACING EVOLUTION](https://ja.wikipedia.org/wiki/R:RACING_EVOLUTION "wikilink")』への同梱や、同年11月～12月に任天堂とナムコより発売のゲームキューブ用ソフトを購入して[クラブニンテンドー](../Page/クラブニンテンドー.md "wikilink")へ登録したユーザーへの特典（2003年12月31日締切）として配布された。
 
 プレイヤーからは多人数対戦用ソフトとしての完成度の高さを評価する声もあったが、ソフトの配布形式が特殊だったこと、テレビ、ゲームキューブ、ゲームボーイアドバンス、GBAケーブルを揃えないと遊べないハードルの高さ、プレイ中にパックマンが交代するたびにゲームボーイアドバンスを持ち替えなければならない煩雑さなどが指摘され、GBAケーブル自体も普及しなかったことから、それほど広まることはなかった。
 
-2007年10月11日発売の『[ナムコミュージアム](https://ja.wikipedia.org/wiki/ナムコミュージアム "wikilink")DS』には本作が収録された。ダウンロード対戦機能により、人数分のニンテンドーDSとソフト1本をそろえるだけで対戦が可能。
+2007年10月11日発売の『[ナムコミュージアム](../Page/ナムコミュージアム.md "wikilink")DS』には本作が収録された。ダウンロード対戦機能により、人数分のニンテンドーDSとソフト1本をそろえるだけで対戦が可能。
 
 2017年7月28日配信開始の[Nintendo Switch版](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")『ナムコミュージアム』にも収録。Nintendo Switch1台のみの場合はゴースト役（1人～3人）のみのプレイとなる。Nintendo Switchがもう1台あれば、無料配信の専用ソフト「パックマンvs. 持っている人と対戦版」でローカル通信によるプレイが可能となる（片方のNintendo Switchでパックマン側を操作）。
 

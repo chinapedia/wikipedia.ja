@@ -1,19 +1,19 @@
 > この記事は[Numbers \(\)](https://ja.wikipedia.org/wiki/Numbers_\(\))から翻訳されています。
 
 
-**Numbers**（ナンバーズ）は、[アップルが開発している](../Page/アップル_\(企業\).md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") / [iOS用の](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[表計算ソフト](../Page/表計算ソフト.md "wikilink")である。2011年7月まで、[Keynote](https://ja.wikipedia.org/wiki/Keynote "wikilink")や[Pages](https://ja.wikipedia.org/wiki/Pages "wikilink")とともに、「[iWork](https://ja.wikipedia.org/wiki/iWork "wikilink")」という商品名でDVD-ROMがパッケージ販売されていたが、2011年8月以降[Mac App Store及び](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")[App Storeで単体としてダウンロード販売されている](https://ja.wikipedia.org/wiki/App_Store "wikilink")。また、2013年10月22日以降のMacおよびiOS機器の新規購入者に対しては無償で提供されている。
+**Numbers**（ナンバーズ）は、[アップルが開発している](../Page/アップル_\(企業\).md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") / [iOS用の](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[表計算ソフト](../Page/表計算ソフト.md "wikilink")である。2011年7月まで、[Keynote](../Page/Keynote.md "wikilink")や[Pages](../Page/Pages.md "wikilink")とともに、「[iWork](https://ja.wikipedia.org/wiki/iWork "wikilink")」という商品名でDVD-ROMがパッケージ販売されていたが、2011年8月以降[Mac App Store及び](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")[App Storeで単体としてダウンロード販売されている](../Page/App_Store.md "wikilink")。また、2013年10月22日以降のMacおよびiOS機器の新規購入者に対しては無償で提供されている。
 
 [Excel](https://ja.wikipedia.org/wiki/Excel "wikilink")などの他の表計算ソフトウェアと異なり、1つの画面に複数の表を自由に配置できる強力なレイアウト機能が特徴である。
 
 ## 対応言語
 
-[日本語](../Page/日本語.md "wikilink")、[アラビア語](../Page/アラビア語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")、[ウクライナ語](../Page/ウクライナ語.md "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")、[カタロニア語](https://ja.wikipedia.org/wiki/カタロニア語 "wikilink")、[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")、[クロアチア語](https://ja.wikipedia.org/wiki/クロアチア語 "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[スロバキア語](../Page/スロバキア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[チェコ語](../Page/チェコ語.md "wikilink")、[デンマーク語](../Page/デンマーク語.md "wikilink")、[トルコ語](../Page/トルコ語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、ノルウェー語[ニーノシュク](https://ja.wikipedia.org/wiki/ニーノシュク "wikilink")、[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ヘブライ](https://ja.wikipedia.org/wiki/ヘブライ "wikilink")、[ベトナム語](../Page/ベトナム語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")、[マレー語](../Page/マレー語.md "wikilink")、[ルーマニア語](../Page/ルーマニア語.md "wikilink")、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[英語](../Page/英語.md "wikilink")、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")
+[日本語](../Page/日本語.md "wikilink")、[アラビア語](../Page/アラビア語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")、[ウクライナ語](../Page/ウクライナ語.md "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")、[カタロニア語](https://ja.wikipedia.org/wiki/カタロニア語 "wikilink")、[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")、[クロアチア語](../Page/クロアチア語.md "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[スロバキア語](../Page/スロバキア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[チェコ語](../Page/チェコ語.md "wikilink")、[デンマーク語](../Page/デンマーク語.md "wikilink")、[トルコ語](../Page/トルコ語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、ノルウェー語[ニーノシュク](../Page/ニーノシュク.md "wikilink")、[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ヘブライ](https://ja.wikipedia.org/wiki/ヘブライ "wikilink")、[ベトナム語](../Page/ベトナム語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")、[マレー語](../Page/マレー語.md "wikilink")、[ルーマニア語](../Page/ルーマニア語.md "wikilink")、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[英語](../Page/英語.md "wikilink")、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")
 
 ## 歴史
 
   - [2007年](../Page/2007年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") - iWork '08 の一部として販売開始。
   - [2009年](../Page/2009年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - iWork '09 の一部として「Numbers '09(2.0)」の販売開始。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - iWork for [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")のラインナップの一つとして「Numbers (1.0)」の販売開始。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink") - iWork for [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")のラインナップの一つとして「Numbers (1.0)」の販売開始。
   - [2011年](../Page/2011年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink") - iPad版がユニバーサルアプリケーション化し、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touchにも対応](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。
   - [2013年](../Page/2013年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink") - Numbers 3.0.1 リリース
   - [2015年](../Page/2015年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - Numbers 3.5.2 リリース（互換：[OS X Yosemite以降](https://ja.wikipedia.org/wiki/OS_X_Yosemite "wikilink")）
@@ -32,7 +32,7 @@
       - Wide Gamutイメージをサポート
       - キーボード操作の強化とキーボードショートカットの追加
   - 2016年[9月20日](../Page/9月20日.md "wikilink") - [macOS Sierraのリリースに合わせ](https://ja.wikipedia.org/wiki/macOS_Sierra "wikilink")**Numbers 4.0** リリース。上記iOS向けNumbers 3.0同様の新機能へ対応。
-  - 2016年[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - Numbers 4.0.5, iOS向けNumbers 3.0.5リリース
+  - 2016年[10月27日](../Page/10月27日.md "wikilink") - Numbers 4.0.5, iOS向けNumbers 3.0.5リリース
   - 2017年[3月27日](../Page/3月27日.md "wikilink") - Numbers 4.1, iOS向けNumbers 3.1リリース\[2\]
   - 2017年[6月13日](../Page/6月13日.md "wikilink") - Numbers 4.2, iOS向けNumbers 3.2リリース
   - 2017年[9月19日](../Page/6月13日.md "wikilink") - Numbers 4.3, iOS向けNumbers 3.3リリース
@@ -41,7 +41,7 @@
       - iPad版で[Apple Pencilのサポート](https://ja.wikipedia.org/wiki/Apple_Pencil "wikilink")
   - 2018年5月4日 - Numbers 5.0.1, iOS向けNumbers 4.0.1リリース
   - 2018年6月15日 - Numbers 5.1, iOS向けNumbers 4.1, Numbers for iCloud June 2018\[4\]リリース
-      - [LaTexと](../Page/LaTeX.md "wikilink")[MathML形式のサポート](https://ja.wikipedia.org/wiki/Mathematical_Markup_Language "wikilink")
+      - [LaTexと](../Page/LaTeX.md "wikilink")[MathML形式のサポート](../Page/Mathematical_Markup_Language.md "wikilink")
       - [Microsoft Excelとの互換性の強化](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")
       - CSVとテキストファイルの読込みを改善
   - 2018年9月17日 - Numbers 5.2, iOS向けNumbers 4.2, Numbers for iCloud September 2019\[5\]リリース
@@ -72,7 +72,7 @@
 
 ## 関連項目
 
-  - [オフィススイートの比較](https://ja.wikipedia.org/wiki/オフィススイートの比較 "wikilink")
+  - [オフィススイートの比較](../Page/オフィススイートの比較.md "wikilink")
 
 ## 外部リンク
 

@@ -7,7 +7,7 @@
 
   - 1990年代半ばに[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")にてデビュー。
   - International DeeJay Gigolo Recordsを主宰し、90年代後半以降のベルリンのハウス・テクノシーンに多大な影響を与えた。
-  - 80年代の[デトロイト・テクノ](https://ja.wikipedia.org/wiki/デトロイト・テクノ "wikilink")とジャーマン・テクノを融合させた、独自の音楽性を確立した。
+  - 80年代の[デトロイト・テクノ](../Page/デトロイト・テクノ.md "wikilink")とジャーマン・テクノを融合させた、独自の音楽性を確立した。
   - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")のドイツ版コマーシャルに楽曲提供している。
 
 ## ディスコグラフィー

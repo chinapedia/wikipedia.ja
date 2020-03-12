@@ -5,9 +5,9 @@
 
 ## 概要
 
-Gシリーズは、ThinkPadの中でも"デスクトップ リプレイスメント"と位置づけられ、省スペース[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")の代わりとして用いられることが想定されている。[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")のある3スピンドルノートPCであり、[PS/2コネクタ](https://ja.wikipedia.org/wiki/PS/2コネクタ "wikilink")、[パラレルポート](https://ja.wikipedia.org/wiki/パラレルポート "wikilink")など一部の[レガシーデバイス](https://ja.wikipedia.org/wiki/レガシーデバイス "wikilink")が存置されている。[光学ドライブ](https://ja.wikipedia.org/wiki/光学ドライブ "wikilink")はウルトラベイに対応しておらず、固定式である。 基本的に15.0V型の[XGA](https://ja.wikipedia.org/wiki/XGA "wikilink")または[SXGA](https://ja.wikipedia.org/wiki/SXGA "wikilink")+[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を搭載している。[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")は[チップセット](../Page/チップセット.md "wikilink")内蔵のものが用いられ、[仕様](https://ja.wikipedia.org/wiki/仕様 "wikilink")は一貫して低コスト重視となっている。
+Gシリーズは、ThinkPadの中でも"デスクトップ リプレイスメント"と位置づけられ、省スペース[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")の代わりとして用いられることが想定されている。[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")のある3スピンドルノートPCであり、[PS/2コネクタ](https://ja.wikipedia.org/wiki/PS/2コネクタ "wikilink")、[パラレルポート](../Page/パラレルポート.md "wikilink")など一部の[レガシーデバイス](../Page/レガシーデバイス.md "wikilink")が存置されている。[光学ドライブ](../Page/光学ドライブ.md "wikilink")はウルトラベイに対応しておらず、固定式である。 基本的に15.0V型の[XGA](https://ja.wikipedia.org/wiki/XGA "wikilink")または[SXGA](https://ja.wikipedia.org/wiki/SXGA "wikilink")+[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を搭載している。[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")は[チップセット](../Page/チップセット.md "wikilink")内蔵のものが用いられ、[仕様](../Page/仕様.md "wikilink")は一貫して低コスト重視となっている。
 
-低価格だが[発熱量の多いデスクトップパソコン用の](https://ja.wikipedia.org/wiki/熱 "wikilink")[CPU](../Page/CPU.md "wikilink")を搭載することを前提とした大きな筐体であり、ベイデバイスを含めた重量は4.1[kgにも達する](https://ja.wikipedia.org/wiki/キログラム "wikilink")。最大120[wの](../Page/ワット.md "wikilink")[消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")に対応し、[ACアダプタ](https://ja.wikipedia.org/wiki/ACアダプタ "wikilink")も大容量の専用品となっている。[モバイル用途はほとんど考慮されていないものの](https://ja.wikipedia.org/wiki/モービル "wikilink")、急な停電時などで1 - 2.5時間程度は内蔵[バッテリーで運用可能である](../Page/リチウムイオン二次電池.md "wikilink")。 コンフォートスラント（傾斜）・[キーボードを採用し](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、[ウルトラナビは装備されていない](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")。
+低価格だが[発熱量の多いデスクトップパソコン用の](https://ja.wikipedia.org/wiki/熱 "wikilink")[CPU](../Page/CPU.md "wikilink")を搭載することを前提とした大きな筐体であり、ベイデバイスを含めた重量は4.1[kgにも達する](https://ja.wikipedia.org/wiki/キログラム "wikilink")。最大120[wの](../Page/ワット.md "wikilink")[消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")に対応し、[ACアダプタ](../Page/ACアダプタ.md "wikilink")も大容量の専用品となっている。[モバイル用途はほとんど考慮されていないものの](https://ja.wikipedia.org/wiki/モービル "wikilink")、急な停電時などで1 - 2.5時間程度は内蔵[バッテリーで運用可能である](../Page/リチウムイオン二次電池.md "wikilink")。 コンフォートスラント（傾斜）・[キーボードを採用し](../Page/キーボード_\(コンピュータ\).md "wikilink")、[ウルトラナビは装備されていない](../Page/タッチパッド.md "wikilink")。
 
 ## ThinkPad G4x系統
 
@@ -27,7 +27,7 @@ G40ではデスクトップ用のCPUが搭載された。
 
 ## ThinkPad G5xシリーズ
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月にG5xシリーズとなり、[プラットフォームが代替わりした](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。[Intel 945GM Expressチップセットに](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_945_チップセット_ファミリ "wikilink")、[Core Duoまたは](https://ja.wikipedia.org/wiki/Intel_Core "wikilink") [Celeron Mプロセッサーが組み合わされた](https://ja.wikipedia.org/wiki/Celeron#Core_世代 "wikilink")。
+[2006年](../Page/2006年.md "wikilink")7月にG5xシリーズとなり、[プラットフォームが代替わりした](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。[Intel 945GM Expressチップセットに](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_945_チップセット_ファミリ "wikilink")、[Core Duoまたは](../Page/Intel_Core.md "wikilink") [Celeron Mプロセッサーが組み合わされた](https://ja.wikipedia.org/wiki/Celeron#Core_世代 "wikilink")。
 
   - ラインナップ
 

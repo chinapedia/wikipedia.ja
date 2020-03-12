@@ -3,7 +3,7 @@
 
 **Band-in-a-Box**は、PG Music社が製作する[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS向けの](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[MIDI](../Page/MIDI.md "wikilink")音楽[アレンジャー](../Page/編曲家.md "wikilink")・[パッケージソフトウェア](../Page/パッケージソフトウェア.md "wikilink")。
 
-[コードを指定する事によって](../Page/和音.md "wikilink")、プログラムによる自動伴奏の作成が行えるソフトウェア。ピアノ、ベース、ドラムス、ギター、ストリングスなどを基本パートとし、[ブルース](../Page/ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")、[カントリー](https://ja.wikipedia.org/wiki/カントリー "wikilink")など多くの音楽スタイルが用意されている。また[ジョン・コルトレーン](../Page/ジョン・コルトレーン.md "wikilink")、[イーグルス](https://ja.wikipedia.org/wiki/イーグルス "wikilink")、[プリンスなどのアーティスト名によるスタイルも用意されている](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")。
+[コードを指定する事によって](../Page/和音.md "wikilink")、プログラムによる自動伴奏の作成が行えるソフトウェア。ピアノ、ベース、ドラムス、ギター、ストリングスなどを基本パートとし、[ブルース](../Page/ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")、[カントリー](https://ja.wikipedia.org/wiki/カントリー "wikilink")など多くの音楽スタイルが用意されている。また[ジョン・コルトレーン](../Page/ジョン・コルトレーン.md "wikilink")、[イーグルス](../Page/イーグルス.md "wikilink")、[プリンスなどのアーティスト名によるスタイルも用意されている](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")。
 
 スマートフォン版もリリースされている。（iOS版：有料、Android版：無料）
 

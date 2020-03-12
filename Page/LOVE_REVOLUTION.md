@@ -1,15 +1,15 @@
 > この記事は[LOVE REVOLUTION](https://ja.wikipedia.org/wiki/LOVE_REVOLUTION)から翻訳されています。
 
 
-「**LOVE REVOLUTION**」（ラヴ・レヴォリューション）は[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")の4枚目のシングルである。[1996年](../Page/1996年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+「**LOVE REVOLUTION**」（ラヴ・レヴォリューション）は[TWO-MIX](../Page/TWO-MIX.md "wikilink")の4枚目のシングルである。[1996年](../Page/1996年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 概要
 
-[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系ドラマ『[KIRARA](../Page/KIRARA.md "wikilink")』オープニング主題歌。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[KIRARA](../Page/KIRARA.md "wikilink")』オープニング主題歌。
 
 この楽曲から、本格的に[コンピュータ](../Page/コンピュータ.md "wikilink")中心の楽曲制作が始まった\[1\]。
 
-メンバーの[永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")によると、レコーディングやデザインスタッフなどのチーム体制が一新され、お互いの意思疎通に時間を要した結果、[トラックダウンに](https://ja.wikipedia.org/wiki/ミキシング "wikilink")48時間かかり最終的に気絶しそうになったという\[2\]。
+メンバーの[永野椎菜](../Page/永野椎菜.md "wikilink")によると、レコーディングやデザインスタッフなどのチーム体制が一新され、お互いの意思疎通に時間を要した結果、[トラックダウンに](../Page/ミキシング.md "wikilink")48時間かかり最終的に気絶しそうになったという\[2\]。
 
 この作品でデビューシングルの「[JUST COMMUNICATION](../Page/JUST_COMMUNICATION.md "wikilink")」から4作連続で累計10万枚以上の売上を記録した。
 
@@ -17,9 +17,9 @@
 
 ## リリース履歴
 
-| No. | 日付                                                                                                               | [レーベル](../Page/レコードレーベル.md "wikilink")         | 規格                                                       | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考 |
-| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- | ---- | -- |
-| 1   | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") | [キングレコード](../Page/キングレコード.md "wikilink") / KMW | [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | KIDS-285                                              | 9位   |    |
+| No. | 日付                                                                                                               | [レーベル](../Page/レコードレーベル.md "wikilink")         | 規格                                                       | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考 |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- | ---------------------------------- | ---- | -- |
+| 1   | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") | [キングレコード](../Page/キングレコード.md "wikilink") / KMW | [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | KIDS-285                           | 9位   |    |
 
 ## 収録作品
 
@@ -79,7 +79,7 @@
 </tr>
 <tr class="odd">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/20010101" title="wikilink">20010101</a>』</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -131,12 +131,12 @@
 
 ## 関連項目
 
-  - [TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - [TWO-MIX](../Page/TWO-MIX.md "wikilink")
   - [KIRARA](../Page/KIRARA.md "wikilink")
 
 ## 脚注
 
 [Category:TWO-MIXの楽曲](https://ja.wikipedia.org/wiki/Category:TWO-MIXの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:テレビ朝日のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ主題歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
-1.  2002年に発売されたCD-BOX『[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")』の[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")より。
+1.  2002年に発売されたCD-BOX『[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")』の[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")より。
 2.

@@ -1,7 +1,7 @@
 > この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
 
 
-『**大人のDSゴルフ**』（おとなのディーエスゴルフ）は、2005年11月10日に[任天堂](../Page/任天堂.md "wikilink")が発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゴルフ](../Page/ゴルフ.md "wikilink")ゲーム。[Touch\! Generationsシリーズの](https://ja.wikipedia.org/wiki/Touch!_Generations "wikilink")1つ。北米では『**True Swing Golf**』、欧州では『**Nintendo Touch Golf Birdie Challenge**』としてリリースされている。欧州ではマルチプレイなどの要素を削除した[ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")『a little bit of... Nintendo TOUCH GOLF』が2009年にリリースされた。
+『**大人のDSゴルフ**』（おとなのディーエスゴルフ）は、2005年11月10日に[任天堂](../Page/任天堂.md "wikilink")が発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゴルフ](../Page/ゴルフ.md "wikilink")ゲーム。[Touch\! Generationsシリーズの](../Page/Touch!_Generations.md "wikilink")1つ。北米では『**True Swing Golf**』、欧州では『**Nintendo Touch Golf Birdie Challenge**』としてリリースされている。欧州ではマルチプレイなどの要素を削除した[ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")『a little bit of... Nintendo TOUCH GOLF』が2009年にリリースされた。
 
 ## 概要
 
@@ -58,7 +58,7 @@
 ## その他
 
   - 本作では10以上（初期状態で選択できるのは3つ）のオリジナルコースの他、宮崎県のリゾート施設[シーガイア](../Page/シーガイア.md "wikilink")に隣接する「フェニックスカントリークラブ」が収録されている。
-  - 開発は[T\&E ソフトの商号を受け継いだディープ](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")（[デジタルゴルフ](https://ja.wikipedia.org/wiki/デジタルゴルフ "wikilink")に吸収されたのち、ティーアンドイーソフトとして再分社化）が担当している。
+  - 開発は[T\&E ソフトの商号を受け継いだディープ](../Page/T&E_SOFT.md "wikilink")（[デジタルゴルフ](https://ja.wikipedia.org/wiki/デジタルゴルフ "wikilink")に吸収されたのち、ティーアンドイーソフトとして再分社化）が担当している。
 
 ## 外部リンク
 

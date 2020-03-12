@@ -1,9 +1,9 @@
 > この記事は[MSX-ENGINE](https://ja.wikipedia.org/wiki/MSX-ENGINE)から翻訳されています。
 
 
-**MSX-ENGINE**とは、[ホームコンピューターとして製品化された](https://ja.wikipedia.org/wiki/ホビーパソコン "wikilink")[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用途向けに設計された[カスタムチップ](https://ja.wikipedia.org/wiki/カスタムチップ "wikilink")の名称。
+**MSX-ENGINE**とは、[ホームコンピューターとして製品化された](../Page/ホビーパソコン.md "wikilink")[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用途向けに設計された[カスタムチップ](https://ja.wikipedia.org/wiki/カスタムチップ "wikilink")の名称。
 
-MSX1相当向けにはT7775やT7937、MSX2以降の用途向けにはT9769(**MSX-ENGINE2**(別名MSX2-ENGINE))があり、共に[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が製造を担当した。CPUを内蔵しない[MSX-SYSTEM](../Page/MSX-SYSTEM.md "wikilink")という別のチップも存在する。
+MSX1相当向けにはT7775やT7937、MSX2以降の用途向けにはT9769(**MSX-ENGINE2**(別名MSX2-ENGINE))があり、共に[東芝](../Page/東芝.md "wikilink")が製造を担当した。CPUを内蔵しない[MSX-SYSTEM](../Page/MSX-SYSTEM.md "wikilink")という別のチップも存在する。
 
 ## 特徴
 
@@ -14,7 +14,7 @@ MSX1相当向けにはT7775やT7937、MSX2以降の用途向けにはT9769(**MSX
 <!-- end list -->
 
   - T7937\[2\]
-      - [Z80](../Page/Z80.md "wikilink")A相当の[CPU](../Page/CPU.md "wikilink")、[TMS9918](https://ja.wikipedia.org/wiki/TMS9918 "wikilink")相当の[VDP](https://ja.wikipedia.org/wiki/VDP "wikilink")、[PSG](../Page/Programmable_Sound_Generator.md "wikilink")（AY-3-8910相当）、PPI（i8255相当）を内蔵。
+      - [Z80](../Page/Z80.md "wikilink")A相当の[CPU](../Page/CPU.md "wikilink")、[TMS9918](../Page/TMS9918.md "wikilink")相当の[VDP](../Page/VDP.md "wikilink")、[PSG](../Page/Programmable_Sound_Generator.md "wikilink")（AY-3-8910相当）、PPI（i8255相当）を内蔵。
       - スーパーインテグレーション／スーパーマクロセルライブラリーによる設計、1.5um設計ルール、チップダイサイズ10.5×8.6mm、素子数約41000。
       - パッケージは144ピン[QFP](https://ja.wikipedia.org/wiki/QFP "wikilink")
 
@@ -29,7 +29,7 @@ MSX1相当向けにはT7775やT7937、MSX2以降の用途向けにはT9769(**MSX
       - [Z80](../Page/Z80.md "wikilink")相当のCPU、[AY-3-8910](https://ja.wikipedia.org/wiki/AY-3-8910 "wikilink")A相当のPSG、その他各種ポートやインターフェース等、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")を構成するのに必要な周辺回路を[ワンチップ](https://ja.wikipedia.org/wiki/ワンチップ "wikilink")化。
       - 主に[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")製や[三洋電機](../Page/三洋電機.md "wikilink")製のMSX2と、MSX2+、MSX turboRで使用された。
       - CPUは3.58MHz駆動で使用しているが、パナソニック製のMSX2+では同社のカスタムチップとの協調により5.38MHz駆動させることも出来た。
-      - turboRでは、本LSIのほかにシステムLSIとして[S1990](https://ja.wikipedia.org/wiki/S1990 "wikilink")が搭載され、[R800](https://ja.wikipedia.org/wiki/R800 "wikilink")の動作中にはT9769内部のZ80A相当CPUの動作が停止する排他制御が行われた。
+      - turboRでは、本LSIのほかにシステムLSIとして[S1990](../Page/S1990.md "wikilink")が搭載され、[R800](../Page/R800.md "wikilink")の動作中にはT9769内部のZ80A相当CPUの動作が停止する排他制御が行われた。
   - また、これらに内蔵された、AY-3-8910相当の回路は、東芝のハードマクロセル名はSM7766Aと呼ばれ、ソフトウェアから見た場合は、互換品であるものの、ハードウェアエンベロープの周期などがAY-3-8910とは異なる。
 
 ## 位置づけ

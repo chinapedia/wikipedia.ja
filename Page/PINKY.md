@@ -7,7 +7,7 @@
 
 [2004年](../Page/2004年.md "wikilink")8月23日創刊、2009年12月21日発売の2010年2月号をもって休（廃）刊\[1\]。ターゲット、出版社が共通し、2015年現在も発売されている「[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")」とともに、「[SEVENTEEN](../Page/Seventeen_\(日本の雑誌\).md "wikilink")」の上位雑誌として創刊された。
 
-前段階のプロト版として2003年に年2回発売された「**esty+**」（エスティプラス）のメインキャラクターで、ともに「SEVENTEEN」のずば抜けた人気モデルであった[徳澤直子](https://ja.wikipedia.org/wiki/徳澤直子 "wikilink")と[鈴木えみ](https://ja.wikipedia.org/wiki/鈴木えみ "wikilink")のうち、鈴木をアイコンとして起用した。鈴木は創刊号から最終号までの大多数（全65回中42回）の表紙を飾った。
+前段階のプロト版として2003年に年2回発売された「**esty+**」（エスティプラス）のメインキャラクターで、ともに「SEVENTEEN」のずば抜けた人気モデルであった[徳澤直子](../Page/徳澤直子.md "wikilink")と[鈴木えみ](https://ja.wikipedia.org/wiki/鈴木えみ "wikilink")のうち、鈴木をアイコンとして起用した。鈴木は創刊号から最終号までの大多数（全65回中42回）の表紙を飾った。
 
 タイトルのPINKYとは『僕の愛しい人』を意味するアメリカ西海岸の言葉で、「SUPER GIRL'S MAGAZINE」をスローガンとしていた。
 
@@ -19,7 +19,7 @@
 
 ## モデル
 
-休刊後、誌面に登場したモデルは「non-no」「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」など同じ集英社でターゲットが異なる雑誌、または「[ViVi](https://ja.wikipedia.org/wiki/ViVi "wikilink")」などターゲットを同じくする他社の雑誌に登場している。
+休刊後、誌面に登場したモデルは「non-no」「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」など同じ集英社でターゲットが異なる雑誌、または「[ViVi](../Page/ViVi.md "wikilink")」などターゲットを同じくする他社の雑誌に登場している。
 
 ### レギュラーモデル（休刊時点）
 
@@ -27,31 +27,31 @@
 
 <!-- end list -->
 
-  - [木下ココ](https://ja.wikipedia.org/wiki/木下ココ "wikilink")
+  - [木下ココ](../Page/木下ココ.md "wikilink")
   - [木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")
   - [黒木なつみ](https://ja.wikipedia.org/wiki/黒木なつみ "wikilink")（Yupendiディレクター）
   - [佐々木希](https://ja.wikipedia.org/wiki/佐々木希 "wikilink")
-  - [佐藤栞里](https://ja.wikipedia.org/wiki/佐藤栞里 "wikilink")
+  - [佐藤栞里](../Page/佐藤栞里.md "wikilink")
   - [愛未](../Page/愛未.md "wikilink")
   - [泉水星良](https://ja.wikipedia.org/wiki/泉水星良 "wikilink")
   - [Shihomi](../Page/Shihomi.md "wikilink")
-  - [高橋優](https://ja.wikipedia.org/wiki/高橋ユウ "wikilink")
+  - [高橋優](../Page/高橋ユウ.md "wikilink")
   - [菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")
-  - [西田美歩](https://ja.wikipedia.org/wiki/西田美歩 "wikilink")
+  - [西田美歩](../Page/西田美歩.md "wikilink")
   - [吉田夏海](https://ja.wikipedia.org/wiki/吉田夏海 "wikilink")
-  - [Riena](https://ja.wikipedia.org/wiki/Riena "wikilink")
+  - [Riena](../Page/Riena.md "wikilink")
 
 ### 過去の専属モデル
 
   - [青木亜希](../Page/青木亜希.md "wikilink")
   - [井上奈美](https://ja.wikipedia.org/wiki/井上奈美 "wikilink")
-  - [尾形沙耶香](https://ja.wikipedia.org/wiki/尾形沙耶香 "wikilink")
+  - [尾形沙耶香](../Page/尾形沙耶香.md "wikilink")
   - [小野晴子](https://ja.wikipedia.org/wiki/小野晴子 "wikilink")
   - [ケリー](../Page/ケリー_\(ファッションモデル\).md "wikilink")
 
 <!-- end list -->
 
-  - [小泉絵美子](https://ja.wikipedia.org/wiki/小泉絵美子 "wikilink")
+  - [小泉絵美子](../Page/小泉絵美子.md "wikilink")
   - [五藤真愛](https://ja.wikipedia.org/wiki/五藤真愛 "wikilink")
   - [佐藤幸子](../Page/佐藤幸子.md "wikilink")
   - [関めぐみ](https://ja.wikipedia.org/wiki/関めぐみ "wikilink")
@@ -59,9 +59,9 @@
 
 <!-- end list -->
 
-  - [仲程仁美](https://ja.wikipedia.org/wiki/仲程仁美 "wikilink")
-  - [仲間リサ](https://ja.wikipedia.org/wiki/仲間リサ "wikilink")
-  - [日高薫](https://ja.wikipedia.org/wiki/日高薫 "wikilink")
+  - [仲程仁美](../Page/仲程仁美.md "wikilink")
+  - [仲間リサ](../Page/仲間リサ.md "wikilink")
+  - [日高薫](../Page/日高薫.md "wikilink")
   - [山岡由実](../Page/山岡由実.md "wikilink")
   - [江頭由衣](https://ja.wikipedia.org/wiki/江頭由衣 "wikilink")
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - グランプリ-[仲間リサ](https://ja.wikipedia.org/wiki/仲間リサ "wikilink")
+  - グランプリ-[仲間リサ](../Page/仲間リサ.md "wikilink")
   - 準グランプリ-[小野晴子](https://ja.wikipedia.org/wiki/小野晴子 "wikilink")
 
 <!-- end list -->
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - グランプリ-[佐藤栞里](https://ja.wikipedia.org/wiki/佐藤栞里 "wikilink")
+  - グランプリ-[佐藤栞里](../Page/佐藤栞里.md "wikilink")
   - 準グランプリ-[泉水星良](https://ja.wikipedia.org/wiki/泉水星良 "wikilink")
 
 <!-- end list -->
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - グランプリ-[西田美歩](https://ja.wikipedia.org/wiki/西田美歩 "wikilink")
+  - グランプリ-[西田美歩](../Page/西田美歩.md "wikilink")
   - 準グランプリ-[菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")
 
 ## 発行部数

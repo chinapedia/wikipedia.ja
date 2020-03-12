@@ -15,19 +15,19 @@
 
 ### 画集
 
-  - なごみ日和 [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink") ISBN 4840225923
+  - なごみ日和 [メディアワークス](../Page/メディアワークス.md "wikilink") ISBN 4840225923
   - ひだまり-ごとPアートワークス メディアワークス ISBN 4840212899
   - もえぎいろ（CG画集）
 
 ### キャラクターデザイン・原案
 
-  - [妄想科学シリーズ ワンダバスタイル](https://ja.wikipedia.org/wiki/妄想科学シリーズ_ワンダバスタイル "wikilink")
-  - [Close to 〜祈りの丘〜](https://ja.wikipedia.org/wiki/Close_to_〜祈りの丘〜 "wikilink")
+  - [妄想科学シリーズ ワンダバスタイル](../Page/妄想科学シリーズ_ワンダバスタイル.md "wikilink")
+  - [Close to 〜祈りの丘〜](../Page/Close_to_〜祈りの丘〜.md "wikilink")
   - [D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")（はりまお担当）
 
 ### 原画
 
-  - [narcissu SIDE 2nd](https://ja.wikipedia.org/wiki/ナルキッソス_\(ゲーム\) "wikilink")（同人ソフト）
+  - [narcissu SIDE 2nd](../Page/ナルキッソス_\(ゲーム\).md "wikilink")（同人ソフト）
   - [次の犠牲者をオシラセシマス](https://ja.wikipedia.org/wiki/次の犠牲者をオシラセシマス "wikilink")
 
 ### イラストレーション
@@ -36,12 +36,12 @@
 
 ### 挿絵
 
-  - 小説『Angel Beats\! -Track ZERO-』（[Angel Beats\!の前日譚](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")） [電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")
+  - 小説『Angel Beats\! -Track ZERO-』（[Angel Beats\!の前日譚](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")） [電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")
 
 ## 関連項目
 
-  - [DENGEKI HIME](https://ja.wikipedia.org/wiki/DENGEKI_HIME "wikilink")
-  - [電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")
+  - [DENGEKI HIME](../Page/DENGEKI_HIME.md "wikilink")
+  - [電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")
 
 ## 出典
 

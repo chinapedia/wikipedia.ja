@@ -1,7 +1,7 @@
 > この記事は[LuLuCa](https://ja.wikipedia.org/wiki/LuLuCa)から翻訳されています。
 
 
-**LuLuCa**（ルルカ）は、静岡市[オムニバスタウン](https://ja.wikipedia.org/wiki/オムニバスタウン "wikilink")事業の一環で開発され、[静鉄グループが提供するグループポイントカードを基本機能とし](../Page/静岡鉄道.md "wikilink")、[静鉄電車および](https://ja.wikipedia.org/wiki/静岡鉄道静岡清水線 "wikilink")、[しずてつジャストライン](../Page/しずてつジャストライン.md "wikilink")の一般・受託路線バスで共通利用可能な非接触型[ICカード](../Page/ICカード.md "wikilink")システムによる[乗車カード](../Page/乗車カード.md "wikilink")としての機能を付与させたり、同社がクレジットカード会社（後述）と提携して発行するカードブランドの総称である。発行・運営は[静岡鉄道](../Page/静岡鉄道.md "wikilink")内の「しずてつカード事務局」が行っている。IC乗車機能を持つLuLuCaであっても、[電子マネー](../Page/電子マネー.md "wikilink")機能は搭載されていなかったが、 [2016年](../Page/2016年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に電子マネー機能が始まった。LuLuCaは造語で、LuLuCaのLuLuは英語で、目立つ人、素敵な人という意味がある\[1\]。
+**LuLuCa**（ルルカ）は、静岡市[オムニバスタウン](../Page/オムニバスタウン.md "wikilink")事業の一環で開発され、[静鉄グループが提供するグループポイントカードを基本機能とし](../Page/静岡鉄道.md "wikilink")、[静鉄電車および](https://ja.wikipedia.org/wiki/静岡鉄道静岡清水線 "wikilink")、[しずてつジャストライン](../Page/しずてつジャストライン.md "wikilink")の一般・受託路線バスで共通利用可能な非接触型[ICカード](../Page/ICカード.md "wikilink")システムによる[乗車カード](../Page/乗車カード.md "wikilink")としての機能を付与させたり、同社がクレジットカード会社（後述）と提携して発行するカードブランドの総称である。発行・運営は[静岡鉄道](../Page/静岡鉄道.md "wikilink")内の「しずてつカード事務局」が行っている。IC乗車機能を持つLuLuCaであっても、[電子マネー](../Page/電子マネー.md "wikilink")機能は搭載されていなかったが、 [2016年](../Page/2016年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に電子マネー機能が始まった。LuLuCaは造語で、LuLuCaのLuLuは英語で、目立つ人、素敵な人という意味がある\[1\]。
 
 正式名称は"SHIZUTETSU CARD LuLuCa（しずてつカード ルルカ）"。
 
@@ -9,8 +9,8 @@
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[3月24日 -](../Page/3月24日.md "wikilink") しずてつカード「LuLuCa（後述のIC乗車カード機能を持つ2種）」を、しずてつジャストライン小鹿・唐瀬両営業所が運行する一般乗合バス車載機で取扱いを開始。順次、静岡市内の各営業所および、静岡市内に乗り入れる路線・車両へ段階的に展開（導入過渡期には、旅客に向けて三保静岡線（当時）・静岡日本平線・中部国道線など、取扱いを除外または車両によって取扱わない場合のある路線・系統が、別掲で案内されていた）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月28日 -](https://ja.wikipedia.org/wiki/10月28日 "wikilink") 電車全駅の自動改札機・券売機でサービス開始。　
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[3月24日 -](../Page/3月24日.md "wikilink") しずてつカード「LuLuCa（後述のIC乗車カード機能を持つ2種）」を、しずてつジャストライン小鹿・唐瀬両営業所が運行する一般乗合バス車載機で取扱いを開始。順次、静岡市内の各営業所および、静岡市内に乗り入れる路線・車両へ段階的に展開（導入過渡期には、旅客に向けて三保静岡線（当時）・静岡日本平線・中部国道線など、取扱いを除外または車両によって取扱わない場合のある路線・系統が、別掲で案内されていた）。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月28日 -](https://ja.wikipedia.org/wiki/10月28日 "wikilink") 電車全駅の自動改札機・券売機でサービス開始。　
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[9月1日 -](../Page/9月1日.md "wikilink") [PiTaPa](../Page/PiTaPa.md "wikilink") サービス開始。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月8日 -](../Page/3月8日.md "wikilink") 静岡市内において、IC定期券サービス開始。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[9月](../Page/9月.md "wikilink") - 「LuLuCaPaLeTa」会員募集開始。
@@ -30,7 +30,7 @@
 
 ### LuLuCa【PASAR+POINT】（ルルカ パサール）
 
-LuLuCa\[POINT\]のポイントカード機能に加え、静岡鉄道・[しずてつジャストライン](../Page/しずてつジャストライン.md "wikilink")で共通利用可能な、プリペイド方式の[サイバネ規格](https://ja.wikipedia.org/wiki/日本鉄道技術協会 "wikilink")／[FeliCa](../Page/FeliCa.md "wikilink")の技術を用いた非接触型[ICカード](../Page/ICカード.md "wikilink")システムによる[乗車カード](../Page/乗車カード.md "wikilink")機能が付く。静鉄グループの共通磁気乗車カード「[パサールカード](../Page/パサールカード.md "wikilink")」の後継として位置付けられる。このカードのみ、発行時に[デポジット](../Page/デポジット.md "wikilink")として1枚500円を要する。
+LuLuCa\[POINT\]のポイントカード機能に加え、静岡鉄道・[しずてつジャストライン](../Page/しずてつジャストライン.md "wikilink")で共通利用可能な、プリペイド方式の[サイバネ規格](../Page/日本鉄道技術協会.md "wikilink")／[FeliCa](../Page/FeliCa.md "wikilink")の技術を用いた非接触型[ICカード](../Page/ICカード.md "wikilink")システムによる[乗車カード](../Page/乗車カード.md "wikilink")機能が付く。静鉄グループの共通磁気乗車カード「[パサールカード](../Page/パサールカード.md "wikilink")」の後継として位置付けられる。このカードのみ、発行時に[デポジット](../Page/デポジット.md "wikilink")として1枚500円を要する。
 
 チャージは1,000円単位で、残額が50,000円に達するまで可能。2014年2月28日まではチャージすると金額に応じたプレミアムが付き\[8\]、カードの種類によって入金額に対するプレミアムの額が異なっていた。同年3月1日からは電車・バスに乗った時にポイントが付き\[9\]、カードの種類によって乗車に対するポイント数が異なる\[10\]。
 
@@ -71,9 +71,9 @@ IC乗車カード機能の種別は、以下の通り。
 
 上記2機能に加えて、[JCBとの提携](../Page/ジェーシービー.md "wikilink")\[13\] による[クレジットカード](../Page/クレジットカード.md "wikilink")機能が付属。小児・家族用は設定がない（後述）。
 
-オートチャージ機能\[14\]や[ポストペイ決済](https://ja.wikipedia.org/wiki/ポストペイ決済 "wikilink")は、[PiTaPa](../Page/PiTaPa.md "wikilink")機能を持つ「LuLuCa+PiTaPa」カードで提供されている。PiTaPaのほか、[QUICPay](https://ja.wikipedia.org/wiki/QUICPay "wikilink")、[ETCカード](https://ja.wikipedia.org/wiki/ETCカード "wikilink")の追加が可能。
+オートチャージ機能\[14\]や[ポストペイ決済](https://ja.wikipedia.org/wiki/ポストペイ決済 "wikilink")は、[PiTaPa](../Page/PiTaPa.md "wikilink")機能を持つ「LuLuCa+PiTaPa」カードで提供されている。PiTaPaのほか、[QUICPay](../Page/QUICPay.md "wikilink")、[ETCカード](https://ja.wikipedia.org/wiki/ETCカード "wikilink")の追加が可能。
 
-ただし、LuLuCa+PiTaPaカードの申し込みは、まず「LuLuCa+」の会員であることが必須である。別途での申し込みのため、カードは[e-kenet PiTaPaや](https://ja.wikipedia.org/wiki/e-kenet_PiTaPa "wikilink")[KIPS PiTaPaカードと同様に分離型である](https://ja.wikipedia.org/wiki/KIPS_PiTaPaカード "wikilink")。
+ただし、LuLuCa+PiTaPaカードの申し込みは、まず「LuLuCa+」の会員であることが必須である。別途での申し込みのため、カードは[e-kenet PiTaPaや](https://ja.wikipedia.org/wiki/e-kenet_PiTaPa "wikilink")[KIPS PiTaPaカードと同様に分離型である](../Page/KIPS_PiTaPaカード.md "wikilink")。
 
 静鉄グループのほか、JCBカード加盟店でのクレジット利用でもポイントが貯まる。本項カードの年会費については、入会初年度は無条件で無料、翌年度以降は1回でもカードによるショッピング、追加カードのサービス、またはLuLuCa+PiTaPaカードを利用すれば無料（なお、LuLuCa+PiTaPaカードの追加発行を受けた場合は、1年間にLuLuCa+PiTaPaカードを一度も利用しない場合、PiTaPa維持管理料として年間1,050円を徴収される\[15\]）。小児・家族用カードは、LuLuCa+およびLuLuCa+PiTaPaとも、2013年3月現在設定されていない。
 
@@ -129,7 +129,7 @@ LuLuCa\[POINT\]のポイントカード機能に加え、[三井住友VISAカー
 <!-- end list -->
 
   - しずてつジャストラインでの適用範囲
-    路線バス全線、新静岡バスターミナル・静岡駅前バス案内所等に設置の簡易チャージ機（[特急静岡相良線](https://ja.wikipedia.org/wiki/特急静岡相良線 "wikilink")・富士山静岡空港静岡線・藁科地区デマンドバス・南アルプス登山線・Jリーグシャトルバスを含み、安倍川花火大会・日本平まつり・朝比奈大[龍勢](../Page/龍勢.md "wikilink")・[エコパ催事輸送](../Page/静岡県小笠山総合運動公園スタジアム.md "wikilink") などの臨時シャトルバス・竜爪山線デマンドバス「りゅうそう号」・[定期観光バス](https://ja.wikipedia.org/wiki/定期観光バス "wikilink")・県外高速線を除く
+    路線バス全線、新静岡バスターミナル・静岡駅前バス案内所等に設置の簡易チャージ機（[特急静岡相良線](https://ja.wikipedia.org/wiki/特急静岡相良線 "wikilink")・富士山静岡空港静岡線・藁科地区デマンドバス・南アルプス登山線・Jリーグシャトルバスを含み、安倍川花火大会・日本平まつり・朝比奈大[龍勢](../Page/龍勢.md "wikilink")・[エコパ催事輸送](../Page/静岡県小笠山総合運動公園スタジアム.md "wikilink") などの臨時シャトルバス・竜爪山線デマンドバス「りゅうそう号」・[定期観光バス](../Page/定期観光バス.md "wikilink")・県外高速線を除く
 
 <!-- end list -->
 
@@ -152,7 +152,7 @@ LuLuCa\[POINT\]のポイントカード機能に加え、[三井住友VISAカー
 
     御前崎市自主運行バスのうち、コミュニティバス試験運行路線 を除いた同社が運行受託する御前崎市内線
 
-    静鉄グループの[掛川バスサービス](https://ja.wikipedia.org/wiki/掛川バスサービス "wikilink")と[秋葉バスサービス](https://ja.wikipedia.org/wiki/秋葉バスサービス "wikilink")の全線、しずてつジャストライン以外の事業者が受託する自治体自主運行バス\[18\]および、静岡市・島田市が直接運行する自主運行バスでは、2013年3月現在使用できない。
+    静鉄グループの[掛川バスサービス](../Page/掛川バスサービス.md "wikilink")と[秋葉バスサービス](../Page/秋葉バスサービス.md "wikilink")の全線、しずてつジャストライン以外の事業者が受託する自治体自主運行バス\[18\]および、静岡市・島田市が直接運行する自主運行バスでは、2013年3月現在使用できない。
 
   - その他路線での適用範囲
 
@@ -180,7 +180,7 @@ LuLuCa\[POINT\]のポイントカード機能に加え、[三井住友VISAカー
 <!-- end list -->
 
   -
-    なお、県西部地域で[遠州鉄道](https://ja.wikipedia.org/wiki/遠州鉄道 "wikilink")が提供する[ナイスパスとサービスを連携させる予定は](https://ja.wikipedia.org/wiki/ナイスパス_\(遠州鉄道\) "wikilink")、PiTaPaなどを介する内容を含めて、2017年3月現在策定されていない。
+    なお、県西部地域で[遠州鉄道](../Page/遠州鉄道.md "wikilink")が提供する[ナイスパスとサービスを連携させる予定は](../Page/ナイスパス_\(遠州鉄道\).md "wikilink")、PiTaPaなどを介する内容を含めて、2017年3月現在策定されていない。
 
 ## ポイントの使い方
 

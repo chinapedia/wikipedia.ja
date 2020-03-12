@@ -17,9 +17,9 @@
 
 1.  **Urban Mermaid**
     （作詞：ヒワタリスツカ／作曲：[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")／編曲：浅田将明）
-      - [ユニリーバ・ジャパン](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink")「LUX Super Rich Shine」CMソング
+      - [ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")「LUX Super Rich Shine」CMソング
 2.  **Colorful**
-    （作詞：YOKE・NUTS／作曲・編曲：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")）
+    （作詞：YOKE・NUTS／作曲・編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")）
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましどようび](../Page/めざましどようび.md "wikilink")』10 - 12月度テーマソング
 3.  **Mahaloha -Gira Mundo "City Lights at Night" Remix-**
     （リミックス：Gira Mundo）

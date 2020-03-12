@@ -11,16 +11,16 @@
 
   - AQUOSケータイ最大サイズ＆解像度となる、3.2インチフルワイドVGA(480×854)、26万色表示、コントラスト比2000:1のNewモバイルASV液晶を搭載(920SH)。保護パネルとディスプレイを直接貼り合わせるリフレクトバリアパネルとなっており、2010年現在でもその発色や視認性はトップクラスを誇る。
   - AQUOSケータイ前モデルの912SHから大幅に薄型・軽量化され、厚さ23mmから18mmに、重さ144gから123gになった。
-  - 920SHは、[AQUOSケータイ](https://ja.wikipedia.org/wiki/AQUOSケータイ "wikilink")初の国際ローミング対応端末となる。ソフトバンクモバイルとしてもワンセグと国際ローミングを共に搭載した初の端末となる。GPSは非搭載。
+  - 920SHは、[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")初の国際ローミング対応端末となる。ソフトバンクモバイルとしてもワンセグと国際ローミングを共に搭載した初の端末となる。GPSは非搭載。
   - 822SHは、8xxシリーズ初のAQUOSケータイである。なお、9xxの廉価版がリリースされるのも初となる。
   - 912SHではステレオスピーカーが搭載されたものの、920SH・822SHでは共にモノラルスピーカーとなっている。また機能面でもサブディスプレイも小さくなり(3行96×39→2行60×32)、インカメラが廃止されたり（同時期発売のSH端末を含め）、テレビ出力が省略されたり、電池の容量が少なくなったり(1000mAh→820mAh)とコンパクト化や薄型化を考慮した故に、ハードウェア面では退行した部分も多い。
   - 920SHは912SHと同じくパソコンでワンセグ動画を再生するための[SD-MobileIMpact V1.5を付属している](https://ja.wikipedia.org/wiki/SD-Jukebox#SD-MobileImpact "wikilink")。
-  - 920SH YKは、920SHをベースに株取引に特化させた端末で、「株ケータイ」の愛称もある。920SHにある[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")へのアクセスボタンが株ボタンに変わっており、押すと株取引用アプリが起動して[SBI証券](https://ja.wikipedia.org/wiki/SBI証券 "wikilink")を介して株取引が可能となる（Yahoo\!ケータイへのアクセスは株ボタンの長押しで可能）。その他は920SHに順ずる。
+  - 920SH YKは、920SHをベースに株取引に特化させた端末で、「株ケータイ」の愛称もある。920SHにある[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")へのアクセスボタンが株ボタンに変わっており、押すと株取引用アプリが起動して[SBI証券](../Page/SBI証券.md "wikilink")を介して株取引が可能となる（Yahoo\!ケータイへのアクセスは株ボタンの長押しで可能）。その他は920SHに順ずる。
 
 ## 主な機能・サービス
 
-  - ミュージックプレイヤー([Windows Media Audio対応](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink"))
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")(920SH/920SH YKのみ対応)
+  - ミュージックプレイヤー([Windows Media Audio対応](../Page/Windows_Media_Audio.md "wikilink"))
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")(920SH/920SH YKのみ対応)
   - [赤外線](../Page/赤外線.md "wikilink")通信（[IrDA](../Page/IrDA.md "wikilink")）（高速赤外線([IrSS](https://ja.wikipedia.org/wiki/IrSS "wikilink")/[IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink"))対応）
   - [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")
   - [マイ絵文字](https://ja.wikipedia.org/wiki/マイ絵文字 "wikilink")
@@ -28,18 +28,18 @@
   - [カスタムスクリーン](https://ja.wikipedia.org/wiki/カスタムスクリーン "wikilink")
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
   - [QRコード](../Page/QRコード.md "wikilink")読み取り・作成
-  - ドキュメントビューア（[Microsoft Word](../Page/Microsoft_Word.md "wikilink")(.doc)・[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")(.xls)・[Microsoft PowerPoint](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")(.ppt)・[PDFデータ](../Page/Portable_Document_Format.md "wikilink")(.pdf)のみ。）
+  - ドキュメントビューア（[Microsoft Word](../Page/Microsoft_Word.md "wikilink")(.doc)・[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")(.xls)・[Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")(.ppt)・[PDFデータ](../Page/Portable_Document_Format.md "wikilink")(.pdf)のみ。）
   - [国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")(920SH/920SH YKのみ対応)
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                                                |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")※                          |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
-| [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")                                    |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                             |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [S\!FeliCa](../Page/S!FeliCa.md "wikilink")※                          |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
+| [ワンセグ](../Page/ワンセグ.md "wikilink")                                    |
 
 **※は920SH/920SH YKのみ対応。**
 
@@ -58,15 +58,15 @@
 
 ## 関連項目
 
-  - [SH905iTV](https://ja.wikipedia.org/wiki/SH905iTV "wikilink")
+  - [SH905iTV](../Page/SH905iTV.md "wikilink")
   - [W61SH](https://ja.wikipedia.org/wiki/W61SH "wikilink") - 以上2機は同シーズンに発売される他キャリア向けのAQUOSケータイ
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [AQUOSケータイ](https://ja.wikipedia.org/wiki/AQUOSケータイ "wikilink")
-  - [Vodafone 905SH/SoftBank 905SH](https://ja.wikipedia.org/wiki/Vodafone_905SH "wikilink")
-  - [SoftBank 911SH](https://ja.wikipedia.org/wiki/SoftBank_911SH "wikilink")
+  - [AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")
+  - [Vodafone 905SH/SoftBank 905SH](../Page/Vodafone_905SH.md "wikilink")
+  - [SoftBank 911SH](../Page/SoftBank_911SH.md "wikilink")
   - [SoftBank 912SH](../Page/SoftBank_912SH.md "wikilink")
-  - [SoftBank 923SH](https://ja.wikipedia.org/wiki/SoftBank_923SH "wikilink")
-  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")
+  - [SoftBank 923SH](../Page/SoftBank_923SH.md "wikilink")
+  - [ワンセグ](../Page/ワンセグ.md "wikilink")
 
 ## 外部リンク
 

@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-1.  gimme3 / remixed by [RAVEMAN](https://ja.wikipedia.org/wiki/RAVEMAN "wikilink")
+1.  gimme3 / remixed by [RAVEMAN](../Page/RAVEMAN.md "wikilink")
 2.  knock'em out / remixed by D-Z
 3.  [Gamble Rumble](../Page/Gamble_Rumble.md "wikilink") / remixed by FRAGMA
 4.  [ROCK IT DOWN](../Page/ROCK_IT_DOWN.md "wikilink") / remixed by Achilles Damigos
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
   - [テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")
 
 [Category:2001年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のリミックス・アルバム "wikilink") [Category:M.o.v.eのリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのリミックス・アルバム "wikilink")

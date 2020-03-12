@@ -1,9 +1,9 @@
 > この記事は[UFJ\&](https://ja.wikipedia.org/wiki/UFJ\&)から翻訳されています。
 
 
-**三菱UFJリサーチ&コンサルティング株式会社**（みつびしユーエフジェイリサーチアンドコンサルティング）は、UFJ総合研究所と[三菱系ビジネスコンサルティング会社が統合して誕生した](https://ja.wikipedia.org/wiki/三菱財閥 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンクタンク](../Page/シンクタンク.md "wikilink")。略称は**MURC**。
+**三菱UFJリサーチ&コンサルティング株式会社**（みつびしユーエフジェイリサーチアンドコンサルティング）は、UFJ総合研究所と[三菱系ビジネスコンサルティング会社が統合して誕生した](../Page/三菱財閥.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンクタンク](../Page/シンクタンク.md "wikilink")。略称は**MURC**。
 
-著名な研究者・[エコノミスト](https://ja.wikipedia.org/wiki/エコノミスト "wikilink")・政界人を多数輩出していることでも知られ、政策研究・提言、マクロ経済調査、[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")、グローバル経営サポート、セミナー等を通じた人材育成支援など、国内外にわたる幅広い事業分野において多様なサービスを展開している。
+著名な研究者・[エコノミスト](../Page/エコノミスト.md "wikilink")・政界人を多数輩出していることでも知られ、政策研究・提言、マクロ経済調査、[コンサルティング](../Page/コンサルティング.md "wikilink")、グローバル経営サポート、セミナー等を通じた人材育成支援など、国内外にわたる幅広い事業分野において多様なサービスを展開している。
 
 他の多くの[シンクタンク](../Page/シンクタンク.md "wikilink")がシステムコンサルティングやシステム構築を事業の主力とする中で、同社はシステム開発部門を持たない純粋な[シンクタンク](../Page/シンクタンク.md "wikilink")である。
 
@@ -15,9 +15,9 @@
 
 旧[三菱銀行](../Page/三菱銀行.md "wikilink")・旧東海銀行・旧三和銀行系列であった流れを汲み、東京・名古屋・大阪の3大拠点それぞれに経営コンサルティングと[シンクタンク](../Page/シンクタンク.md "wikilink")の機能を持っている。
 
-また、旧東京銀行系列で培った国際業務のノウハウを生かし、グローバル、中でもアジア地域を対象とした[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")や経営サポートに強みを持つ。アジアで事業を展開する企業、内外政府関係機関、金融機関など、多くのクライアントを抱えている。
+また、旧東京銀行系列で培った国際業務のノウハウを生かし、グローバル、中でもアジア地域を対象とした[コンサルティング](../Page/コンサルティング.md "wikilink")や経営サポートに強みを持つ。アジアで事業を展開する企業、内外政府関係機関、金融機関など、多くのクライアントを抱えている。
 
-旧三菱銀行系列及び旧三和銀行系列であったことから[三菱グループ](../Page/三菱グループ.md "wikilink")と[三和グループ](https://ja.wikipedia.org/wiki/三和グループ "wikilink")に属するが、[みどり会](https://ja.wikipedia.org/wiki/みどり会 "wikilink")にのみ参加しており三菱金曜会・三菱広報委員会・[三水会](https://ja.wikipedia.org/wiki/三水会 "wikilink")には未加盟である\[1\]。
+旧三菱銀行系列及び旧三和銀行系列であったことから[三菱グループ](../Page/三菱グループ.md "wikilink")と[三和グループ](../Page/三和グループ.md "wikilink")に属するが、[みどり会](../Page/みどり会.md "wikilink")にのみ参加しており三菱金曜会・三菱広報委員会・[三水会](https://ja.wikipedia.org/wiki/三水会 "wikilink")には未加盟である\[1\]。
 
 ## 沿革
 
@@ -25,11 +25,11 @@
   - [1989年](../Page/1989年.md "wikilink")[11月](../Page/11月.md "wikilink") - 『XXXX年 日本はこうなる』を創刊（毎年秋に発行）
   - [2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink") - ISO14001（環境マネジメントシステム規格）の認証を取得
   - [2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 株式会社**UFJ総合研究所**設立（株式会社三和総合研究所と株式会社東海総合研究所が合併）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月](../Page/11月.md "wikilink") - 大阪事業所を移転（[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[今橋](https://ja.wikipedia.org/wiki/今橋_\(大阪市\) "wikilink") トレードピア淀屋橋）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[11月](../Page/11月.md "wikilink") - 大阪事業所を移転（[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[今橋](https://ja.wikipedia.org/wiki/今橋_\(大阪市\) "wikilink") トレードピア淀屋橋）
+  - [2006年](../Page/2006年.md "wikilink")
       - 1月 - **三菱UFJリサーチ&コンサルティング**株式会社設立（株式会社UFJ総合研究所、ダイヤモンドビジネスコンサルティング株式会社、株式会社東京リサーチインターナショナルが合併）
       - 10月 - プライバシーマーク認定を取得
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - 1月 - 機関誌『季刊 政策・経営研究』を創刊 （年4回発行）
       - 3月 - 大学生・大学院生を対象とした第1回懸賞論文を募集
       - 4月 - 投資調査部を三菱UFJ証券（現・三菱UFJ証券ホールディングス）に移管
@@ -63,22 +63,22 @@
 
 ## 著名なエコノミスト等
 
-  - [五十嵐敬喜](https://ja.wikipedia.org/wiki/五十嵐敬喜 "wikilink") - 研究理事
-  - [内田俊宏](https://ja.wikipedia.org/wiki/内田俊宏 "wikilink") - 元・調査部主任研究員、現；[中京大学](https://ja.wikipedia.org/wiki/中京大学 "wikilink")客員教授
+  - [五十嵐敬喜](../Page/五十嵐敬喜.md "wikilink") - 研究理事
+  - [内田俊宏](../Page/内田俊宏.md "wikilink") - 元・調査部主任研究員、現；[中京大学](../Page/中京大学.md "wikilink")客員教授
   - [大薗治夫](https://ja.wikipedia.org/wiki/大薗治夫 "wikilink") - 元・上席エコノミスト、元[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")[総領事](https://ja.wikipedia.org/wiki/総領事 "wikilink")
   - [恩田達紀](https://ja.wikipedia.org/wiki/恩田達紀 "wikilink") - プリンシパルグローバルコンサルティング部長
   - [片岡剛士](https://ja.wikipedia.org/wiki/片岡剛士 "wikilink") - 元・経済政策部上席主任研究員、現：日本銀行政策委員会審議委員
-  - [上川陽子](https://ja.wikipedia.org/wiki/上川陽子 "wikilink") - 元・三和総合研究所、現：衆議院議員（[自民党](https://ja.wikipedia.org/wiki/自由民主党_\(日本\) "wikilink")）、元[法務大臣](https://ja.wikipedia.org/wiki/法務大臣 "wikilink")
+  - [上川陽子](../Page/上川陽子.md "wikilink") - 元・三和総合研究所、現：衆議院議員（[自民党](../Page/自由民主党_\(日本\).md "wikilink")）、元[法務大臣](../Page/法務大臣.md "wikilink")
   - [川井栄一](https://ja.wikipedia.org/wiki/川井栄一 "wikilink") - 教育事業本部企業内研修室チーフインストラクター
   - [嶋中雄二](https://ja.wikipedia.org/wiki/嶋中雄二 "wikilink") - 元・投資調査部長、現：[三菱UFJ証券](https://ja.wikipedia.org/wiki/三菱UFJ証券 "wikilink")景気循環研究所所長
-  - [中谷巌](https://ja.wikipedia.org/wiki/中谷巌 "wikilink") - 元・理事長、現：一橋大学名誉教授
+  - [中谷巌](../Page/中谷巌.md "wikilink") - 元・理事長、現：一橋大学名誉教授
   - [原田和明](https://ja.wikipedia.org/wiki/原田和明 "wikilink") - 元・三和総合研究所理事長
   - [藤井恵](https://ja.wikipedia.org/wiki/藤井恵_\(エコノミスト\) "wikilink") - 国際事業本部 研究員
-  - [細野豪志](https://ja.wikipedia.org/wiki/細野豪志 "wikilink") - 元・三和総合研究所、現：衆議院議員（[無所属](https://ja.wikipedia.org/wiki/無所属 "wikilink")）
+  - [細野豪志](../Page/細野豪志.md "wikilink") - 元・三和総合研究所、現：衆議院議員（[無所属](../Page/無所属.md "wikilink")）
   - [水上貴央](https://ja.wikipedia.org/wiki/水上貴央 "wikilink") - 元・三和総合研究所、現：[弁護士](../Page/弁護士.md "wikilink")、再エネ事業を支援する法律実務の会理事長
-  - [水谷研治](https://ja.wikipedia.org/wiki/水谷研治 "wikilink") - 元・東海総合研究所社長・会長・理事長、現：[中京大学](https://ja.wikipedia.org/wiki/中京大学 "wikilink")名誉教授
-  - [森永卓郎](https://ja.wikipedia.org/wiki/森永卓郎 "wikilink") - 元・経済・社会政策部長、現：[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")経済学部教授
-  - [矢部謙介](https://ja.wikipedia.org/wiki/矢部謙介 "wikilink") - 元・三和総合研究所、現：[中京大学](https://ja.wikipedia.org/wiki/中京大学 "wikilink")経営学部教授
+  - [水谷研治](https://ja.wikipedia.org/wiki/水谷研治 "wikilink") - 元・東海総合研究所社長・会長・理事長、現：[中京大学](../Page/中京大学.md "wikilink")名誉教授
+  - [森永卓郎](../Page/森永卓郎.md "wikilink") - 元・経済・社会政策部長、現：[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")経済学部教授
+  - [矢部謙介](https://ja.wikipedia.org/wiki/矢部謙介 "wikilink") - 元・三和総合研究所、現：[中京大学](../Page/中京大学.md "wikilink")経営学部教授
   - [渡辺秀和](https://ja.wikipedia.org/wiki/渡辺秀和 "wikilink") - 元・三和総合研究所、現：[コンコードエグゼクティブグループ](https://ja.wikipedia.org/wiki/コンコードエグゼクティブグループ "wikilink")設立者・社長
 
 ## 脚注

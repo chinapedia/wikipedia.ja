@@ -10,7 +10,7 @@
   - 1952年4月10日 : 心理戦センター創設。
   - 1952年5月16日 : 同センターが正式に活動開始。
   - 1956年12月10日 : 特殊戦学校へ改称。
-  - 1961年末 : 特殊部隊訓練グループが創設され、[グリンベレー入隊志願者への訓練を開始](https://ja.wikipedia.org/wiki/アメリカ陸軍特殊部隊群 "wikilink")（この時はセンター麾下外）。
+  - 1961年末 : 特殊部隊訓練グループが創設され、[グリンベレー入隊志願者への訓練を開始](../Page/アメリカ陸軍特殊部隊群.md "wikilink")（この時はセンター麾下外）。
   - 1964年6月1日 : ジョン・F・ケネディ特殊戦センターへ改称。
   - 1968年5月8日 : ジョン・F・ケネディ軍事援助センターへ改称。特殊部隊訓練グループを麾下に置く。
   - 1969年1月10日 : 軍事援助研究所が併設され、ジョン・F・ケネディ軍事援助センター／研究所へ改称。
@@ -28,8 +28,8 @@
       - 国際軍事訓練生オフィス
       - 安全保障援助訓練管理オフィス
       - 支援オフィス
-      - [第1特殊戦訓練グループ](https://ja.wikipedia.org/wiki/第1特殊戦訓練グループ "wikilink") - 1st Special Warfare Training Group (Airborne) : 1st SWTG(A)
-      - [第2特殊戦訓練グループ](https://ja.wikipedia.org/wiki/第2特殊戦訓練グループ "wikilink") - 2nd Special Warfare Training Group (Airborne) : 2nd SWTG(A)
+      - [第1特殊戦訓練グループ](../Page/第1特殊戦訓練グループ.md "wikilink") - 1st Special Warfare Training Group (Airborne) : 1st SWTG(A)
+      - [第2特殊戦訓練グループ](../Page/第2特殊戦訓練グループ.md "wikilink") - 2nd Special Warfare Training Group (Airborne) : 2nd SWTG(A)
       - 統合特殊作戦医療衛生訓練センター - Joint Special Operations Medical Training Center : (JSOMTC)
           - 陸軍特殊戦医療衛生グループ
           - 海軍特殊作戦医療衛生研究所

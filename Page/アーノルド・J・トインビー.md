@@ -5,16 +5,16 @@
 
 ## 略歴
 
-[ロンドン](../Page/ロンドン.md "wikilink")生まれ。[叔父](https://ja.wikipedia.org/wiki/叔父 "wikilink")で[歴史家](../Page/歴史家.md "wikilink")・[社会活動家](https://ja.wikipedia.org/wiki/社会活動家 "wikilink")の[アーノルド・トインビー](../Page/アーノルド・トインビー.md "wikilink")（1852-1883）と区別するため、ミドルネームの「J」を入れて表記されることが多い。西欧中心の歴史観でなく、[イスラム](https://ja.wikipedia.org/wiki/イスラム "wikilink")、[仏教](../Page/仏教.md "wikilink")、それに特殊な存在としての[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも着目して、各文明国の発展を描いた『[歴史の研究](https://ja.wikipedia.org/wiki/歴史の研究 "wikilink")』（原著1934-1961年）を著す。[1911年](../Page/1911年.md "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")卒業。アテナイの考古学院の研究生として[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")に行き、帰国後、母校で研究員としてギリシア・[ローマ](../Page/ローマ.md "wikilink")の古代史研究と授業にあたる。[1912年](../Page/1912年.md "wikilink")、[キングス・カレッジ・ロンドン](https://ja.wikipedia.org/wiki/キングス・カレッジ・ロンドン "wikilink")で歴史学の教授に就任。[1914年](../Page/1914年.md "wikilink")の[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の勃発により「われわれは歴史の中にいる」という実感に目覚める。[1929年](../Page/1929年.md "wikilink")には[太平洋問題調査委員として来日](https://ja.wikipedia.org/wiki/太平洋問題調査会 "wikilink")。この際に[松本重治](https://ja.wikipedia.org/wiki/松本重治 "wikilink")との友情を深めた。
+[ロンドン](../Page/ロンドン.md "wikilink")生まれ。[叔父](https://ja.wikipedia.org/wiki/叔父 "wikilink")で[歴史家](../Page/歴史家.md "wikilink")・[社会活動家](https://ja.wikipedia.org/wiki/社会活動家 "wikilink")の[アーノルド・トインビー](../Page/アーノルド・トインビー.md "wikilink")（1852-1883）と区別するため、ミドルネームの「J」を入れて表記されることが多い。西欧中心の歴史観でなく、[イスラム](https://ja.wikipedia.org/wiki/イスラム "wikilink")、[仏教](../Page/仏教.md "wikilink")、それに特殊な存在としての[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも着目して、各文明国の発展を描いた『[歴史の研究](https://ja.wikipedia.org/wiki/歴史の研究 "wikilink")』（原著1934-1961年）を著す。[1911年](../Page/1911年.md "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")卒業。アテナイの考古学院の研究生として[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")に行き、帰国後、母校で研究員としてギリシア・[ローマ](../Page/ローマ.md "wikilink")の古代史研究と授業にあたる。[1912年](../Page/1912年.md "wikilink")、[キングス・カレッジ・ロンドン](../Page/キングス・カレッジ・ロンドン.md "wikilink")で歴史学の教授に就任。[1914年](../Page/1914年.md "wikilink")の[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の勃発により「われわれは歴史の中にいる」という実感に目覚める。[1929年](../Page/1929年.md "wikilink")には[太平洋問題調査委員として来日](https://ja.wikipedia.org/wiki/太平洋問題調査会 "wikilink")。この際に[松本重治](../Page/松本重治.md "wikilink")との友情を深めた。
 
-[ロンドン・スクール・オブ・エコノミクス](https://ja.wikipedia.org/wiki/ロンドン・スクール・オブ・エコノミクス "wikilink")教授、[王立国際問題研究所](https://ja.wikipedia.org/wiki/王立国際問題研究所 "wikilink")理事、外務省調査部理事等を務める傍ら『ギリシャ歴史思想』『平和会議後の世界』等を執筆。最も有名な著書『歴史の研究』は全25巻。
+[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")教授、[王立国際問題研究所](https://ja.wikipedia.org/wiki/王立国際問題研究所 "wikilink")理事、外務省調査部理事等を務める傍ら『ギリシャ歴史思想』『平和会議後の世界』等を執筆。最も有名な著書『歴史の研究』は全25巻。
 
 ## 邦訳著書
 
 ### 単著
 
-  - 『世界と西欧』（新潮社［一時間文庫］, 1953年／[社会思想社](https://ja.wikipedia.org/wiki/社会思想社 "wikilink")［現代教養文庫］, 1959年）
-  - 『歴史の教訓』（[岩波書店](https://ja.wikipedia.org/wiki/岩波書店 "wikilink"), 1959年）
+  - 『世界と西欧』（新潮社［一時間文庫］, 1953年／[社会思想社](../Page/社会思想社.md "wikilink")［現代教養文庫］, 1959年）
+  - 『歴史の教訓』（[岩波書店](../Page/岩波書店.md "wikilink"), 1959年）
   - 『一歴史家の宗教観』（社会思想社, 1959年）
   - 『ヘレニズム　一つの文明の歴史』（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink"), 1961年）
   - 『試練に立つ文明』（社会思想研究会出版部（上・下）, 1961年／現代教養文庫, 1973年）
@@ -31,15 +31,15 @@
   - 『現代が受けている挑戦』（新潮選書, 1971年／[新潮文庫](../Page/新潮文庫.md "wikilink"), 2001年）
   - 『日本の活路』（国際PHP研究所, 1974年）
   - 『爆発する都市』（社会思想社, 1975年）
-  - 『図説 歴史の研究』（[学習研究社](https://ja.wikipedia.org/wiki/学研ホールディングス "wikilink"), 1975年、新版全3巻、1976年）
+  - 『図説 歴史の研究』（[学習研究社](../Page/学研ホールディングス.md "wikilink"), 1975年、新版全3巻、1976年）
   - 『人類と母なる大地　トインビー著作集 補巻1・2』（社会思想社, 1979年）
   - 『地球文明への視座――トインビー現代論集』（経済往来社, 1983年）
 
 ### 共著
 
   - （フィリップ・トインビー）『現代人の疑問――二つの世代の考え方』（毎日新聞社, 1967年）
-  - （[若泉敬](https://ja.wikipedia.org/wiki/若泉敬 "wikilink")）『未来を生きる――トインビーとの対話』（毎日新聞社, 1971年）
-  - （[池田大作](https://ja.wikipedia.org/wiki/池田大作 "wikilink")）『21世紀への対話』（[文藝春秋](https://ja.wikipedia.org/wiki/文藝春秋 "wikilink"), 1975年）
+  - （[若泉敬](../Page/若泉敬.md "wikilink")）『未来を生きる――トインビーとの対話』（毎日新聞社, 1971年）
+  - （[池田大作](../Page/池田大作.md "wikilink")）『21世紀への対話』（[文藝春秋](../Page/文藝春秋.md "wikilink"), 1975年）
 
 ## 参照
 

@@ -1,25 +1,25 @@
 > この記事は[Infinity \(\)](https://ja.wikipedia.org/wiki/Infinity_\(\))から翻訳されています。
 
 
-『**infinity**』（インフィニティ）は、[KIDより](https://ja.wikipedia.org/wiki/KID_\(ゲームブランド\) "wikilink")[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[PlayStationで発売された](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")系[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")のシリーズ、およびその第1作である。本記事では第1作『infinity』、その完結編である『Never7』、およびその関連作品について述べる。
+『**infinity**』（インフィニティ）は、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[PlayStationで発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[サスペンス](../Page/サスペンス.md "wikilink")系[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")のシリーズ、およびその第1作である。本記事では第1作『infinity』、その完結編である『Never7』、およびその関連作品について述べる。
 
 ## 歴史
 
   - infinity
-    [2000年](../Page/2000年.md "wikilink")3月23日、[PlayStationで発売](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。
+    [2000年](../Page/2000年.md "wikilink")3月23日、[PlayStationで発売](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
   - INFINITY cure.（インフィニティ・キュア）
-    2000年11月23日、[ネオジオポケット](https://ja.wikipedia.org/wiki/ネオジオポケット "wikilink")（カラー専用）で発売。
+    2000年11月23日、[ネオジオポケット](../Page/ネオジオポケット.md "wikilink")（カラー専用）で発売。
   - Never7 -the end of infinity-（ネバーセブン ジ・エンド・オブ・インフィニティ）
     2000年12月21日、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版発売。
     [2001年](../Page/2001年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、Windows版発売。
     [2002年](../Page/2002年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[ドリコレ](https://ja.wikipedia.org/wiki/ドリコレ "wikilink")（DCの[廉価版](https://ja.wikipedia.org/wiki/廉価版#ゲームソフト "wikilink")）発売。
     [2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版発売。
-    [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[SuperLite 2000](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（PS2の廉価版）が[サクセスより発売](https://ja.wikipedia.org/wiki/サクセス_\(ゲーム会社\) "wikilink")。
+    [2004年](../Page/2004年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[SuperLite 2000](../Page/SuperLiteシリーズ.md "wikilink")（PS2の廉価版）が[サクセスより発売](../Page/サクセス_\(ゲーム会社\).md "wikilink")。
   - infinity plus
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月4日、[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")より、シリーズ3作に新作『[12RIVEN -the Ψcliminal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_Ψcliminal_of_integral- "wikilink")』を加えたPC版セットが発売。
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月4日、[サイバーフロント](../Page/サイバーフロント.md "wikilink")より、シリーズ3作に新作『[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")』を加えたPC版セットが発売。
     2008年10月09日、PS2版が発売。
   - Never7 -the end of infinity-（PSP版）
-    [2009年](../Page/2009年.md "wikilink")3月12日、[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink") (PSP) 版が発売。ディレクション、プログラム、スクリプトなどは[レジスタが担当した](https://ja.wikipedia.org/wiki/レジスタ_\(ゲーム会社\) "wikilink")。新規ムービー、用語解説、シリーズ年表を収録している。
+    [2009年](../Page/2009年.md "wikilink")3月12日、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) 版が発売。ディレクション、プログラム、スクリプトなどは[レジスタが担当した](../Page/レジスタ_\(ゲーム会社\).md "wikilink")。新規ムービー、用語解説、シリーズ年表を収録している。
   - infinity plus portable
     2009年8月13日、PSP版のシリーズ4本セットが発売。オープニングムービー収録DVDが付属した。
   - Never7 -the end of infinity-（アプリ版）
@@ -40,13 +40,13 @@
 
 具体的には1周目の行動次第でいずれかのヒロインと親密になり、2周目ではそのヒロインのルート（シナリオ）を体験することになる。2周目で正しい行動を取れば悲劇の回避に成功し、そのルートのヒロインとハッピーエンドを迎えることができる。間違えば悲劇は繰り返され、バッドエンドとなる。
 
-このように、時系列を反復することをストーリーおよびシステム上の前提としたアドベンチャーゲーム（いわゆる[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")）は、『[この世の果てで恋を唄う少女YU-NO](../Page/この世の果てで恋を唄う少女YU-NO.md "wikilink")』や『[Prismaticallization](https://ja.wikipedia.org/wiki/Prismaticallization "wikilink")』などがあるが、これらの作品がアイテムを用いてシステマティックに分岐する複雑な方式をとっているのに対して、本作のシステムは至ってシンプルである。
+このように、時系列を反復することをストーリーおよびシステム上の前提としたアドベンチャーゲーム（いわゆる[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")）は、『[この世の果てで恋を唄う少女YU-NO](../Page/この世の果てで恋を唄う少女YU-NO.md "wikilink")』や『[Prismaticallization](../Page/Prismaticallization.md "wikilink")』などがあるが、これらの作品がアイテムを用いてシステマティックに分岐する複雑な方式をとっているのに対して、本作のシステムは至ってシンプルである。
 
 ### 企画の経緯
 
-当初は未来予知によりヒロインの危機を救うという企画だったが、ひとひねり加えて予知をミスリードとし、タイムスリップものにすることが決まった。また、当時の恋愛アドベンチャーでは、ヒロインの個別シナリオに入ると他のキャラクターがもう出てこなくなってしまうことが多かったので、より面白くなるよう前述のとおり各シナリオに横のつながりがある構成になった。しかしクリア順を固定しようとする[打越鋼太郎と自由度を残そうとする](https://ja.wikipedia.org/wiki/槻潮鋼 "wikilink")[中澤工](https://ja.wikipedia.org/wiki/中澤工 "wikilink")で意見が割れたため、折衷案として先にクリアしてほしいヒロインほど攻略難度を下げ、オープニングムービーでの登場にもその順番を反映してある（優夏→遙→沙紀→くるみ→いづみ）\[1\]。
+当初は未来予知によりヒロインの危機を救うという企画だったが、ひとひねり加えて予知をミスリードとし、タイムスリップものにすることが決まった。また、当時の恋愛アドベンチャーでは、ヒロインの個別シナリオに入ると他のキャラクターがもう出てこなくなってしまうことが多かったので、より面白くなるよう前述のとおり各シナリオに横のつながりがある構成になった。しかしクリア順を固定しようとする[打越鋼太郎と自由度を残そうとする](https://ja.wikipedia.org/wiki/槻潮鋼 "wikilink")[中澤工](../Page/中澤工.md "wikilink")で意見が割れたため、折衷案として先にクリアしてほしいヒロインほど攻略難度を下げ、オープニングムービーでの登場にもその順番を反映してある（優夏→遙→沙紀→くるみ→いづみ）\[1\]。
 
-この時点では続編の構想はなかったが、『infinity』に不具合があったこと（後述）を受け、いっそリメイクしようという話になった\[2\]。また、KIDの看板作品である『[Memories Off](https://ja.wikipedia.org/wiki/Memories_Off "wikilink")』に『infinity』の売り上げが及ばないのは、作品のもっとも重要な特徴である「無限ループ」がシナリオの中盤にならないと明らかにならず、広報の前面に押し出せないからだという反省もあった\[3\]。
+この時点では続編の構想はなかったが、『infinity』に不具合があったこと（後述）を受け、いっそリメイクしようという話になった\[2\]。また、KIDの看板作品である『[Memories Off](../Page/Memories_Off.md "wikilink")』に『infinity』の売り上げが及ばないのは、作品のもっとも重要な特徴である「無限ループ」がシナリオの中盤にならないと明らかにならず、広報の前面に押し出せないからだという反省もあった\[3\]。
 
 こうして制作された『Never7』では初めからタイムスリップの話を前面に出し、それに代わる新たなサプライズ要素として「強固な妄想が現実化する」という**キュレイシンドローム**（、司祭性症候群）が導入された\[4\]。さらに当時流行していた『[シックス・センス](../Page/シックス・センス.md "wikilink")』の衝撃的な結末を意識して、本当に何もかもが幻だったという「いづみキュアエンドB」も追加された\[5\]。
 
@@ -60,7 +60,7 @@
 
 「優夏キュア」シナリオと「いづみキュア」シナリオの2本を収録している。制作当初は「くるみキュア」というシナリオも制作予定であったが、様々な制約によりお蔵入りとなっている。
 
-「cure.」という副題は、同年に発売された『[Memories Off Pure](https://ja.wikipedia.org/wiki/Memories_Off "wikilink")』との語呂の対比というだけでなく、「キュレイシンドローム」の短縮形の意味も含んでいるため、最後のピリオドは省略されない。
+「cure.」という副題は、同年に発売された『[Memories Off Pure](../Page/Memories_Off.md "wikilink")』との語呂の対比というだけでなく、「キュレイシンドローム」の短縮形の意味も含んでいるため、最後のピリオドは省略されない。
 
 「優夏キュア」シナリオは本編の優夏シナリオを主人公ではなく優夏の視点で描いたものである。「いづみキュア」シナリオは『Infinity』の完結編と言う位置づけであり、物語の謎に二つの答えを提示している。次回作『Ever17』の最終シナリオのように全ての謎を解き明かすわけではないが、これは本作の各シナリオにはそれぞれの真実があり、全体としての明確な解答が存在しないためである\[7\]。
 
@@ -72,11 +72,11 @@
 
 後にWindows版と[PlayStation 2版が発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。PlayStation 2版ではBGMにアレンジが加えられたほか、『infinity』のサウンドトラックに収録されたボーカル曲が新たにエンディングテーマソングとして採用されている。
 
-DC版は[アペンドストーリー](https://ja.wikipedia.org/wiki/アペンドストーリー "wikilink")を初めて導入したソフトである。採用されたシナリオはその一部がWindows版に、またほぼ全部がPS2版に収録されている。また、『Infinity Plus』に収録された Windows 版は、PS2版をベースにしているが、アペンドストーリーは収録されていない。ただしシナリオを自作することは可能である。
+DC版は[アペンドストーリー](../Page/アペンドストーリー.md "wikilink")を初めて導入したソフトである。採用されたシナリオはその一部がWindows版に、またほぼ全部がPS2版に収録されている。また、『Infinity Plus』に収録された Windows 版は、PS2版をベースにしているが、アペンドストーリーは収録されていない。ただしシナリオを自作することは可能である。
 
 DC版の警告音声トラックには優夏とくるみが出演している。また、CD-ROMトラックにはパッケージの表と裏の原画が高解像度のBMPファイルで収録されている。
 
-PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.wikipedia.org/wiki/ローカライズ "wikilink")まで終了した段階で[パブリッシャー](https://ja.wikipedia.org/wiki/パブリッシャー "wikilink")がPS2市場から撤退し、お蔵入りにされた。発売も間もない時期の出来事だったため、韓国の[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")には攻略が載っている。
+PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.wikipedia.org/wiki/ローカライズ "wikilink")まで終了した段階で[パブリッシャー](https://ja.wikipedia.org/wiki/パブリッシャー "wikilink")がPS2市場から撤退し、お蔵入りにされた。発売も間もない時期の出来事だったため、韓国の[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")には攻略が載っている。
 
 ## ストーリー
 
@@ -159,7 +159,7 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
     声：なし（本編） / [八戸優](https://ja.wikipedia.org/wiki/八戸優 "wikilink")（ドラマCD）
     主人公（プレイヤー）。大学3年生。しかし大学にはほとんど行っていない。優夏や遙とともにゼミ合宿に参加し、数奇な運命に巻き込まれる。
   - 川島 優夏（かわしま ゆうか）
-    声：[川上とも子](https://ja.wikipedia.org/wiki/川上とも子 "wikilink")
+    声：[川上とも子](../Page/川上とも子.md "wikilink")
     20歳、8月3日生まれ、A型。
     誠と同じゼミに所属し、班長を務める。にぎやかで人づきあいがよい。料理が殺人的に下手。さらに酒乱で酒が回ると手が付けられない。また、オバケが苦手。初日に誠と同じ悪夢を見ており、この世界で6日間が永遠に繰り返されていることに気づき、誠とともに事態の打破を図る。中学時代に悲しい事故に遭遇しており、そのことを未だ引き摺っている。
   - 樋口 遙（ひぐち はるか）
@@ -168,7 +168,7 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
     誠と同じゼミに所属。飛び級で3年生になった優等生。無口であまり人と接しようとしない。また、フナムシが好き。水が好きと言った、不思議な言動や行動の多い[不思議ちゃん](https://ja.wikipedia.org/wiki/不思議ちゃん "wikilink")でもある。
     実は幼少時に行方不明となったくるみの代わりとして生み出されたクローンである。表向きの資料やオープニングムービー等で声優が伏せられているのは、同一人物が両者を演じ分けていることを知らせないためである。
   - 朝倉 沙紀（あさくら さき）
-    声：[山崎和佳奈](https://ja.wikipedia.org/wiki/山崎和佳奈 "wikilink")
+    声：[山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
     20歳、11月7日生まれ、AB型。
     美人だがわがままで高飛車なお嬢様。優夏の中学時代の友達で、今は某一流大学に通っている。誠たちの合宿所の近くにある別荘にたまたま遊びにきており、優夏と再会する。動物や自然が好きで、それほど極端ではないものの人間は自然に害を成すものと考えている。
     一見すると短気で高慢だが、それは根深い自己嫌悪の裏返しであり、内心では人間不信にさいなまれている。
@@ -178,12 +178,12 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
     いづみの妹。高校3年生だが、外見的にも精神的にも中学生ぐらいにしか見えない。明るく素直で元気。春休みの間、いづみの店で手伝いをしており、誠たちと知り合う。誠を「お兄ちゃん」と、億彦を「おっくん」と呼ぶ。
     幼少時に誘拐されて行方不明となり、3年後に発見されたときにはまったく年を取っていなかったという不可解な過去の持ち主。この事実はくるみには伏せられているが、両親や姉が隠しごとをしていると感づいており、ひそかに悩んでいる。また、発見時に深い傷を背中に負っており、それが原因で信頼していた人物に裏切られたこともつらい思い出になっている。
   - 守野 いづみ（もりの いづみ）
-    声：[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
+    声：[井上喜久子](../Page/井上喜久子.md "wikilink")
     22歳、3月24日生まれ、O型。
     くるみの姉。主要キャラクター中最年長で、優しく落ち着いた雰囲気の女性。合宿所のある島で、喫茶「ルナビーチ」を経営する。
     『INFINITY cure.』および『Never7』でシナリオが大幅に拡充されている。実は喫茶店の店長代理は仮の姿であり、その正体は若くして大学教授の地位を得た天才にして誠たちのゼミの担当教官である。くるみの「空白の3年間」の謎を解き明かす鍵を求めて「キュレイシンドローム」に関わる実験を企図した、ゲーム中の一連の出来事の仕掛け人にあたる。
   - 飯田 億彦（いいだ おくひこ）
-    声：[千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    声：[千葉進歩](../Page/千葉進歩.md "wikilink")
     誠と同じゼミに所属する金持ちのキザなプレイボーイ。合宿ではしばしば遙にちょっかいを出す。重要な秘密を握っている場合もあるが、何かと可哀想な目に遭うことが多い。
 
 ## 関連商品
@@ -194,21 +194,21 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
     PS2版準拠のサウンドトラック。本作にはBGMが完全収録されているが、ドラマは割愛され、ボーカルの収録もPS2版でエンディングテーマソングに採用された1曲のみとなっている。
   - infinity Museum
     Windows用のデスクトップアクセサリー集。通販・イベント販売限定で、店頭での販売は行われなかった。
-    なお、infinityに先立って発売された『Memories Off Plus』（『[Memories Off](https://ja.wikipedia.org/wiki/Memories_Off "wikilink")』のデスクトップアクセサリー集）には、Windowsで動作する『infinity』の体験版が収録されている。
+    なお、infinityに先立って発売された『Memories Off Plus』（『[Memories Off](../Page/Memories_Off.md "wikilink")』のデスクトップアクセサリー集）には、Windowsで動作する『infinity』の体験版が収録されている。
   - Never7 -the end of infinity- 設定解説ファンブック
-    [ローカス](https://ja.wikipedia.org/wiki/ローカス_\(出版社\) "wikilink")、2001年3月。ISBN 4-89814-203-6
+    [ローカス](../Page/ローカス_\(出版社\).md "wikilink")、2001年3月。ISBN 4-89814-203-6
 
 ## infinityシリーズ
 
-  - 『infinity』シリーズと銘打って、第2作『[Ever17](../Page/Ever17_-the_out_of_infinity-.md "wikilink")』および第3作『[Remember11](https://ja.wikipedia.org/wiki/Remember11_-the_age_of_infinity- "wikilink")』が発売されており、今作と世界観を共有している。しかし、共通する単語や間接的な関連性を匂わせる要素は随所に出て来るものの、『Infinity』『Never7』との物語やキャラクターの直接の繋がりはない。閉鎖的で特異な環境からの脱出というテーマは共通している。三作の（ゲーム本編開始時点の）時系列で言えば『Remember11』（2011年）→『Ever17』（2017年）→『Infinity』『Never7』（2019年）となる。
-  - infinityシリーズに続くintegralシリーズとして一作のみ『[12RIVEN -the Ψcliminal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_Ψcliminal_of_integral- "wikilink")』が発売された。原案・脚本は本シリーズと同じ[打越鋼太郎](https://ja.wikipedia.org/wiki/打越鋼太郎 "wikilink")。
-  - また、infinityシリーズ最新作として『[code_18](https://ja.wikipedia.org/wiki/code_18 "wikilink")』が2011年に[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")より発売されたが、打越鋼太郎や[中澤工](https://ja.wikipedia.org/wiki/中澤工 "wikilink")を始めとする旧作スタッフは関わっておらず、学園が舞台ということで閉鎖的環境からの脱出というテーマも共通していない。原案・監修は本作のシナリオに参加していた[日暮茶坊](https://ja.wikipedia.org/wiki/日暮茶坊 "wikilink")。
+  - 『infinity』シリーズと銘打って、第2作『[Ever17](../Page/Ever17_-the_out_of_infinity-.md "wikilink")』および第3作『[Remember11](../Page/Remember11_-the_age_of_infinity-.md "wikilink")』が発売されており、今作と世界観を共有している。しかし、共通する単語や間接的な関連性を匂わせる要素は随所に出て来るものの、『Infinity』『Never7』との物語やキャラクターの直接の繋がりはない。閉鎖的で特異な環境からの脱出というテーマは共通している。三作の（ゲーム本編開始時点の）時系列で言えば『Remember11』（2011年）→『Ever17』（2017年）→『Infinity』『Never7』（2019年）となる。
+  - infinityシリーズに続くintegralシリーズとして一作のみ『[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")』が発売された。原案・脚本は本シリーズと同じ[打越鋼太郎](../Page/打越鋼太郎.md "wikilink")。
+  - また、infinityシリーズ最新作として『[code_18](https://ja.wikipedia.org/wiki/code_18 "wikilink")』が2011年に[サイバーフロント](../Page/サイバーフロント.md "wikilink")より発売されたが、打越鋼太郎や[中澤工](../Page/中澤工.md "wikilink")を始めとする旧作スタッフは関わっておらず、学園が舞台ということで閉鎖的環境からの脱出というテーマも共通していない。原案・監修は本作のシナリオに参加していた[日暮茶坊](../Page/日暮茶坊.md "wikilink")。
   - 本シリーズのスタッフが手掛けた同じループものの作品として『[DUNAMIS15](https://ja.wikipedia.org/wiki/DUNAMIS15 "wikilink")』が存在するが、こちらは本シリーズの作品ではない。
 
 ## 他作品との関連
 
-  - 本作のキャラクターは、『[KID MIXセクション](https://ja.wikipedia.org/wiki/KID_MIXセクション "wikilink")』にも登場する。また、優夏のみ『[Memories Off Festa](https://ja.wikipedia.org/wiki/Memories_Off "wikilink")』にも登場する。
-  - 『[Memories Off](https://ja.wikipedia.org/wiki/Memories_Off "wikilink")』との間に、以下のようなお遊び的なつながりがある。しかし、これらの事実にもかかわらず、『Memories Off』と本作の世界のつながりは、公式には否定されている。
+  - 本作のキャラクターは、『[KID MIXセクション](https://ja.wikipedia.org/wiki/KID_MIXセクション "wikilink")』にも登場する。また、優夏のみ『[Memories Off Festa](../Page/Memories_Off.md "wikilink")』にも登場する。
+  - 『[Memories Off](../Page/Memories_Off.md "wikilink")』との間に、以下のようなお遊び的なつながりがある。しかし、これらの事実にもかかわらず、『Memories Off』と本作の世界のつながりは、公式には否定されている。
       - 『Memories Off』のヒロインの唯笑（ゆえ）が猫と戯れるときに発する「ニンニンネコピョン」という言葉を、本作で優夏が猫のマスコットに対して使っている。
       - 本作において、「ゆえちゃん」と呼ばれる少女が登場する（漢字表記は不明）。また、この少女に優夏が猫のマスコットをあげており、その名前が「ニンニンネコピョン」であると誠が告げている。
       - 『Memories Off Pure』において、唯笑たちの英語の先生の名前が「川島優夏」となっている。『Memories Off Festa』で優夏と対面した主人公の智也は、恩師とは別人としながらも「似ている」と語っている。
@@ -216,14 +216,14 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
 
 ## スタッフ
 
-  - 監督：[中澤工](https://ja.wikipedia.org/wiki/中澤工 "wikilink")
+  - 監督：[中澤工](../Page/中澤工.md "wikilink")
   - キャラクターデザイン：[影崎夕那](https://ja.wikipedia.org/wiki/影崎夕那 "wikilink")
   - シナリオ原案・構成：[打越鋼太郎](https://ja.wikipedia.org/wiki/槻潮鋼 "wikilink")
-  - シナリオ：打越鋼太郎、中澤工、[日暮茶坊](https://ja.wikipedia.org/wiki/日暮茶坊 "wikilink")、程島健、市川和弘
-  - 音楽：[阿保剛](https://ja.wikipedia.org/wiki/阿保剛 "wikilink")
+  - シナリオ：打越鋼太郎、中澤工、[日暮茶坊](../Page/日暮茶坊.md "wikilink")、程島健、市川和弘
+  - 音楽：[阿保剛](../Page/阿保剛.md "wikilink")
       - PS2版ED：**TREASURE DREAM**
           -
-            作詞、作曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")/歌：川上とも子
+            作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")/歌：川上とも子
       - PSP版OP：**千億の星屑降らす夜ノ空**
           -
             歌：[Asriel](https://ja.wikipedia.org/wiki/Asriel "wikilink")
@@ -238,8 +238,8 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
 ## 関連項目
 
   - [Ever17 -the out of infinity-](../Page/Ever17_-the_out_of_infinity-.md "wikilink")
-  - [Remember11 -the age of infinity-](https://ja.wikipedia.org/wiki/Remember11_-the_age_of_infinity- "wikilink")
-  - [12RIVEN -the Ψcliminal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_Ψcliminal_of_integral- "wikilink")
+  - [Remember11 -the age of infinity-](../Page/Remember11_-the_age_of_infinity-.md "wikilink")
+  - [12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")
   - [code_18](https://ja.wikipedia.org/wiki/code_18 "wikilink")
 
 ## 外部リンク

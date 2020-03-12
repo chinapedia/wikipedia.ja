@@ -3,7 +3,7 @@
 
 **B木**（びーき）は、[コンピュータサイエンス](https://ja.wikipedia.org/wiki/コンピュータサイエンス "wikilink")における[データ構造](../Page/データ構造.md "wikilink")、特に[木構造の一つ](../Page/木構造_\(データ構造\).md "wikilink")。ブロック単位のランダムアクセスが可能な[補助記憶装置](../Page/補助記憶装置.md "wikilink")（[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")など）上に木構造を実装するのに適した構造として知られる。
 
-実システムでも多用されており、[データベース管理システム](../Page/データベース管理システム.md "wikilink")の多くはB木による索引を実装している（B木の改良型または亜種である[B+木](https://ja.wikipedia.org/wiki/B+木 "wikilink")や[B\*木](https://ja.wikipedia.org/wiki/B*木 "wikilink")を使うことが多い）。
+実システムでも多用されており、[データベース管理システム](../Page/データベース管理システム.md "wikilink")の多くはB木による索引を実装している（B木の改良型または亜種である[B+木](../Page/B+木.md "wikilink")や[B\*木](../Page/B*木.md "wikilink")を使うことが多い）。
 
 ## 構造
 
@@ -15,7 +15,7 @@
 
 ノードはページと呼ばれることもある。特にハードディスクドライブなどの外部記憶装置を使ってB木を実現する場合によく見られる。この場合、各ノード（ページ）のサイズが、外部記憶装置のブロックサイズの整数倍になるようにオーダーを調整することが多い。
 
-B木の中でも特に、オーダー3のものを[2-3木](https://ja.wikipedia.org/wiki/2-3木 "wikilink")、オーダー4のものを[2-3-4木](https://ja.wikipedia.org/wiki/2-3-4木 "wikilink")と呼ぶ。
+B木の中でも特に、オーダー3のものを[2-3木](../Page/2-3木.md "wikilink")、オーダー4のものを[2-3-4木](../Page/2-3-4木.md "wikilink")と呼ぶ。
 
 ## 操作
 
@@ -40,18 +40,18 @@ B木の中でも特に、オーダー3のものを[2-3木](https://ja.wikipedia.
 
 ## 関連項目
 
-  - [B+木](https://ja.wikipedia.org/wiki/B+木 "wikilink")
-  - [B\*木](https://ja.wikipedia.org/wiki/B*木 "wikilink")
+  - [B+木](../Page/B+木.md "wikilink")
+  - [B\*木](../Page/B*木.md "wikilink")
   - [kd木](https://ja.wikipedia.org/wiki/kd木 "wikilink")
-  - [R木](https://ja.wikipedia.org/wiki/R木 "wikilink")
-  - [スプレー木](https://ja.wikipedia.org/wiki/スプレー木 "wikilink")
-  - [基数木](https://ja.wikipedia.org/wiki/基数木 "wikilink")
+  - [R木](../Page/R木.md "wikilink")
+  - [スプレー木](../Page/スプレー木.md "wikilink")
+  - [基数木](../Page/基数木.md "wikilink")
 
 ## 参考文献
 
   - R. Bayer and E. McCreight. "Organization and Maintenance of Large Ordered Indexes," *Acta Informatica*, 1, 1972.
   - [Donald E. Knuth](../Page/ドナルド・クヌース.md "wikilink") 『[The Art of Computer Programming](../Page/The_Art_of_Computer_Programming.md "wikilink")』Volume 3 Sorting and Searching Second Edition 日本語版、有澤誠・和田英一監訳、石井裕一郎ほか訳、株式会社アスキー、2006年、ISBN 4-7561-4614-7。
-  - [奥村晴彦](https://ja.wikipedia.org/wiki/奥村晴彦 "wikilink") 『C言語による最新アルゴリズム事典』 技術評論社<ソフトウェアテクノロジー13>、平成3年（1991年）、ISBN 4-87408-414-1。
+  - [奥村晴彦](../Page/奥村晴彦.md "wikilink") 『C言語による最新アルゴリズム事典』 技術評論社<ソフトウェアテクノロジー13>、平成3年（1991年）、ISBN 4-87408-414-1。
 
 ## 外部リンク
 

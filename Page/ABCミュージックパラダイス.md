@@ -1,27 +1,27 @@
 > この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
 
 
-『**ABCミュージックパラダイス**』（エービーシーミュージックパラダイス）とは、[ABCラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")（朝日放送）で、月曜日～金曜日21:12～25:00に生放送していた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。略して「**ミューパラ**」と呼ばれる。
+『**ABCミュージックパラダイス**』（エービーシーミュージックパラダイス）とは、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で、月曜日～金曜日21:12～25:00に生放送していた[音楽番組](../Page/音楽番組.md "wikilink")である。略して「**ミューパラ**」と呼ばれる。
 
-この番組は、[朝日放送の若手男性アナウンサーと](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")、関西を拠点とするローカル女性タレントが日替わりでパーソナリティを勤め、番組に寄せられたリクエストや、CD売り上げ、着メロダウンロード数などを合算してランキングされた番組オリジナルチャートを発表するコーナーがメインで、その他に、ゲストコーナーや、日替わりのクイズコーナー・ネタコーナーなどがあった。
+この番組は、[朝日放送の若手男性アナウンサーと](../Page/朝日放送テレビ.md "wikilink")、関西を拠点とするローカル女性タレントが日替わりでパーソナリティを勤め、番組に寄せられたリクエストや、CD売り上げ、着メロダウンロード数などを合算してランキングされた番組オリジナルチャートを発表するコーナーがメインで、その他に、ゲストコーナーや、日替わりのクイズコーナー・ネタコーナーなどがあった。
 
 なお、慣例的にパーソナリティは番組中はニックネームで呼ばれた。
 
 ## 概要
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の番組開始。主に中高生を聴取対象としていた。
+[1991年](../Page/1991年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の番組開始。主に中高生を聴取対象としていた。
 
-番組開始当初は、前番組（「[ABCラジオパラダイス](https://ja.wikipedia.org/wiki/ABCラジオパラダイス "wikilink")」）などの流れを受け、[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")、[山田雅人](https://ja.wikipedia.org/wiki/山田雅人 "wikilink")や、[生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")などのABCアナウンサー以外の芸能人も番組を担当していた時期もあったが、幾度かのリニューアルの上、「[ABCヤングリクエスト](https://ja.wikipedia.org/wiki/ABCヤングリクエスト "wikilink")」のような形に至った。
+番組開始当初は、前番組（「[ABCラジオパラダイス](../Page/ABCラジオパラダイス.md "wikilink")」）などの流れを受け、[大竹まこと](../Page/大竹まこと.md "wikilink")、[山田雅人](../Page/山田雅人.md "wikilink")や、[生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")などのABCアナウンサー以外の芸能人も番組を担当していた時期もあったが、幾度かのリニューアルの上、「[ABCヤングリクエスト](../Page/ABCヤングリクエスト.md "wikilink")」のような形に至った。
 
-土曜日の放送は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")スタート\[1\]（それ以前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の1年間、「ABCミュージックパラダイス ウィークエンド・カウントダウン\!」のタイトルで、[枝松順一](https://ja.wikipedia.org/wiki/枝松順一 "wikilink")と当時の女性パーソナリティの司会で（女性パーソナリティは交代で担当）、土曜日に30分番組として週間リクエストランキングなどが放送されていた\[2\]）、以後[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")までは月曜日–土曜日 22:00–24:59の番組として放送していた。番組前半はリクエストランキング、途中に[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")制作の「[KinKi Kids どんなもんヤ\!](https://ja.wikipedia.org/wiki/KinKi_Kids_どんなもんヤ! "wikilink")」（月曜～金曜11時40分ごろ）を挟み、後半はネタコーナーなどの日替わりコーナーを中心に構成していた。
+土曜日の放送は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")スタート\[1\]（それ以前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の1年間、「ABCミュージックパラダイス ウィークエンド・カウントダウン\!」のタイトルで、[枝松順一](../Page/枝松順一.md "wikilink")と当時の女性パーソナリティの司会で（女性パーソナリティは交代で担当）、土曜日に30分番組として週間リクエストランキングなどが放送されていた\[2\]）、以後[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")までは月曜日–土曜日 22:00–24:59の番組として放送していた。番組前半はリクエストランキング、途中に[文化放送](../Page/文化放送.md "wikilink")制作の「[KinKi Kids どんなもんヤ\!](../Page/KinKi_Kids_どんなもんヤ!.md "wikilink")」（月曜～金曜11時40分ごろ）を挟み、後半はネタコーナーなどの日替わりコーナーを中心に構成していた。
 
 ## 番組の終了
 
 2008年春の改編で土曜日の放送が終了し、また[3月31日](../Page/3月31日.md "wikilink")より平日の放送も1時間短縮して、月曜日-金曜日22:00-24:00の2時間番組へと変更された。
 
-半年後の2008年秋改編により、同年9月29日より放送時間が再び3時間に戻り（ただし土曜日の放送の復活はなし）、月曜日-金曜日22:00～25:00の放送となった。[2009年](../Page/2009年.md "wikilink")4月より開始時間が約50分前倒しされ、21時12分からの放送開始となった。これに伴い、姉妹番組と位置づけられていた[ABCミュージック21](https://ja.wikipedia.org/wiki/ABCミュージック21 "wikilink")は放送終了となった。
+半年後の2008年秋改編により、同年9月29日より放送時間が再び3時間に戻り（ただし土曜日の放送の復活はなし）、月曜日-金曜日22:00～25:00の放送となった。[2009年](../Page/2009年.md "wikilink")4月より開始時間が約50分前倒しされ、21時12分からの放送開始となった。これに伴い、姉妹番組と位置づけられていた[ABCミュージック21](../Page/ABCミュージック21.md "wikilink")は放送終了となった。
 
-[2009年](../Page/2009年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")に朝日放送の経費削減などを理由に番組は17年9か月の放送に幕を下ろした。終了後は、月曜日-木曜日は東京からのネット番組となり、金曜日は『[ミューパラ アグレッシブ](https://ja.wikipedia.org/wiki/ミューパラ_アグレッシブ "wikilink")』に改編された。
+[2009年](../Page/2009年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に朝日放送の経費削減などを理由に番組は17年9か月の放送に幕を下ろした。終了後は、月曜日-木曜日は東京からのネット番組となり、金曜日は『[ミューパラ アグレッシブ](https://ja.wikipedia.org/wiki/ミューパラ_アグレッシブ "wikilink")』に改編された。
 
 ## 放送時間
 
@@ -37,53 +37,53 @@
 
 ### 男性パーソナリティ
 
-  - [山田雅人](https://ja.wikipedia.org/wiki/山田雅人 "wikilink")（1991年10月–1992年12月）
+  - [山田雅人](../Page/山田雅人.md "wikilink")（1991年10月–1992年12月）
   - [佐伯進](https://ja.wikipedia.org/wiki/佐伯進_\(音楽ライター\) "wikilink")（1991年10月–1992年12月）
-  - [芦沢誠](https://ja.wikipedia.org/wiki/芦沢誠 "wikilink")（1991年10月–2001年9月26日）
+  - [芦沢誠](../Page/芦沢誠.md "wikilink")（1991年10月–2001年9月26日）
   - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")（1991年10月–1992年12月）
-  - [大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")（1991年10月–1991年12月）
+  - [大竹まこと](../Page/大竹まこと.md "wikilink")（1991年10月–1991年12月）
   - [浦田博信](https://ja.wikipedia.org/wiki/浦田博信 "wikilink")（1992年1月–1992年9月）
   - [芝田吾郎](https://ja.wikipedia.org/wiki/芝田吾郎 "wikilink")（1992年10月–1992年12月）
-  - [保坂和拓](https://ja.wikipedia.org/wiki/保坂和拓 "wikilink")（1993年1月–1994年3月）
-  - [小縣裕介](https://ja.wikipedia.org/wiki/小縣裕介 "wikilink")（1995年1月12日–2008年3月24日）
-  - [枝松順一](https://ja.wikipedia.org/wiki/枝松順一 "wikilink")（1997年4月4日–2009年6月29日）
-  - [浦川泰幸](https://ja.wikipedia.org/wiki/浦川泰幸 "wikilink")（1998年4月11日–2008年3月29日）
-  - [上田剛彦](https://ja.wikipedia.org/wiki/上田剛彦 "wikilink")（2001年10月5日–2009年7月1日）
-  - [岩本計介](https://ja.wikipedia.org/wiki/岩本計介 "wikilink")（2002年10月10日–2009年3月30日）
-  - [山下剛](https://ja.wikipedia.org/wiki/山下剛 "wikilink")（2004年3月30日–2009年6月30日）
-  - [高橋大作](https://ja.wikipedia.org/wiki/高橋大作 "wikilink")（2008年4月3日–2009年7月2日）
-  - [北村真平](https://ja.wikipedia.org/wiki/北村真平 "wikilink")（2009年4月10日–2009年7月3日）
+  - [保坂和拓](../Page/保坂和拓.md "wikilink")（1993年1月–1994年3月）
+  - [小縣裕介](../Page/小縣裕介.md "wikilink")（1995年1月12日–2008年3月24日）
+  - [枝松順一](../Page/枝松順一.md "wikilink")（1997年4月4日–2009年6月29日）
+  - [浦川泰幸](../Page/浦川泰幸.md "wikilink")（1998年4月11日–2008年3月29日）
+  - [上田剛彦](../Page/上田剛彦.md "wikilink")（2001年10月5日–2009年7月1日）
+  - [岩本計介](../Page/岩本計介.md "wikilink")（2002年10月10日–2009年3月30日）
+  - [山下剛](../Page/山下剛.md "wikilink")（2004年3月30日–2009年6月30日）
+  - [高橋大作](../Page/高橋大作.md "wikilink")（2008年4月3日–2009年7月2日）
+  - [北村真平](../Page/北村真平.md "wikilink")（2009年4月10日–2009年7月3日）
 
 ### 女性パーソナリティ
 
-  - [近藤智子](https://ja.wikipedia.org/wiki/BaBe "wikilink")（1991年10月–1992年3月）
+  - [近藤智子](../Page/BaBe.md "wikilink")（1991年10月–1992年3月）
   - [林百合佳](https://ja.wikipedia.org/wiki/林百合佳 "wikilink")（1991年10月–1992年9月）
-  - [森川美穂](https://ja.wikipedia.org/wiki/森川美穂 "wikilink")（1991年10月–1992年12月）
+  - [森川美穂](../Page/森川美穂.md "wikilink")（1991年10月–1992年12月）
   - [畠中美貴](https://ja.wikipedia.org/wiki/畠中美貴 "wikilink")（1991年10月–1992年3月）
   - [三好貴久子](https://ja.wikipedia.org/wiki/三好貴久子 "wikilink")（1991年10月–1994年3月）
   - [尾崎ミオ](https://ja.wikipedia.org/wiki/尾崎ミオ "wikilink")（1992年4月–1992年9月）
-  - [鳥居睦子](https://ja.wikipedia.org/wiki/鳥居睦子 "wikilink")（1992年10月–2001年9月29日）
+  - [鳥居睦子](../Page/鳥居睦子.md "wikilink")（1992年10月–2001年9月29日）
   - [宮本真由美](https://ja.wikipedia.org/wiki/宮本真由美 "wikilink")（1992年4月–2001年9月28日）
   - [松本麻希](https://ja.wikipedia.org/wiki/松本麻希 "wikilink")（1992年10月–1992年12月）
   - [藤田佳子](https://ja.wikipedia.org/wiki/藤田佳子_\(シンガーソングライター\) "wikilink")（1993年1月–1993年12月）
-  - [片山淳子](https://ja.wikipedia.org/wiki/片山淳子 "wikilink")（1993年1月–2008年3月24日）
+  - [片山淳子](../Page/片山淳子.md "wikilink")（1993年1月–2008年3月24日）
   - [富井千雅](https://ja.wikipedia.org/wiki/富井千雅 "wikilink")（1994年1月–1998年6月10日）
   - [松本智子](https://ja.wikipedia.org/wiki/松本智子 "wikilink")（1994年4月–1994年9月）
   - [早川真紀](https://ja.wikipedia.org/wiki/早川真紀 "wikilink")（1994年10月–1996年9月）
   - [吉見なおみ](https://ja.wikipedia.org/wiki/吉見なおみ "wikilink")（1996年10月–1998年3月30日）
   - [渡辺たかね](https://ja.wikipedia.org/wiki/渡辺たかね "wikilink")（1998年4月6日–2006年3月31日）
-  - [領家華子](https://ja.wikipedia.org/wiki/領家華子 "wikilink")（1998年4月7日–2001年6月19日）
+  - [領家華子](../Page/領家華子.md "wikilink")（1998年4月7日–2001年6月19日）
   - [上松夏海](https://ja.wikipedia.org/wiki/上松夏海 "wikilink")（1998年6月17日–1999年8月25日）
-  - [喜多村牧](https://ja.wikipedia.org/wiki/喜多村牧 "wikilink")（1999年9月1日–2006年3月29日）
-  - [南山千恵美](https://ja.wikipedia.org/wiki/南山千恵美 "wikilink")（2001年6月26日–2009年7月3日）
-  - [山崎美和](https://ja.wikipedia.org/wiki/山崎美和 "wikilink")（2001年10月3日–2006年3月30日）
-  - [珠久美穂子](https://ja.wikipedia.org/wiki/珠久美穂子 "wikilink")（2001年10月6日–2009年3月30日）
-  - [牧野晴歌](https://ja.wikipedia.org/wiki/牧野晴歌 "wikilink")（2006年4月5日–2007年9月26日、2008年4月2日–2008年9月24日）
-  - [真木ひろか](https://ja.wikipedia.org/wiki/真木ひろか "wikilink")（2006年4月7日–2009年6月29日）
-  - [宮下ジェイミー静](https://ja.wikipedia.org/wiki/宮下ジェイミー静 "wikilink")（2006年4月8日–2008年3月29日）
+  - [喜多村牧](../Page/喜多村牧.md "wikilink")（1999年9月1日–2006年3月29日）
+  - [南山千恵美](../Page/南山千恵美.md "wikilink")（2001年6月26日–2009年7月3日）
+  - [山崎美和](../Page/山崎美和.md "wikilink")（2001年10月3日–2006年3月30日）
+  - [珠久美穂子](../Page/珠久美穂子.md "wikilink")（2001年10月6日–2009年3月30日）
+  - [牧野晴歌](../Page/牧野晴歌.md "wikilink")（2006年4月5日–2007年9月26日、2008年4月2日–2008年9月24日）
+  - [真木ひろか](../Page/真木ひろか.md "wikilink")（2006年4月7日–2009年6月29日）
+  - [宮下ジェイミー静](../Page/宮下ジェイミー静.md "wikilink")（2006年4月8日–2008年3月29日）
   - [浅本美加](https://ja.wikipedia.org/wiki/浅本美加 "wikilink")（2007年10月3日–2008年3月26日、2008年10月1日–2009年7月1日）
-  - [林智美](https://ja.wikipedia.org/wiki/林智美 "wikilink")（2008年4月3日–2009年7月2日）
-  - [神谷ゆう子](https://ja.wikipedia.org/wiki/神谷ゆう子 "wikilink")（2009年4月7日–2009年6月30日）
+  - [林智美](../Page/林智美.md "wikilink")（2008年4月3日–2009年7月2日）
+  - [神谷ゆう子](../Page/神谷ゆう子.md "wikilink")（2009年4月7日–2009年6月30日）
 
 ### 時期・曜日別パーソナリティ
 
@@ -341,7 +341,7 @@
 
 その日のランキング1位になる曲を予想し、見事予想が的中したら抽選で1人に1万円分のクオカード（2008年までは賞金1万円）、そしてすべてのリクエストの中から抽選で10人に、完全変態メモ3点セット（ランちゃん、なぎさちゃん、お蝶婦人）
 
-2008年5月ごろまでの後半（3位～1位）の枠は[エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink")・[スーパーカップ](https://ja.wikipedia.org/wiki/スーパーカップ "wikilink")がスポンサーだった。ミューパラオリジナル[クオカード](../Page/クオカード.md "wikilink")と、[エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink")・[スーパーカップ](https://ja.wikipedia.org/wiki/スーパーカップ "wikilink")3食分詰め合わせセット）をプレゼント。
+2008年5月ごろまでの後半（3位～1位）の枠は[エースコック](../Page/エースコック.md "wikilink")・[スーパーカップ](../Page/スーパーカップ.md "wikilink")がスポンサーだった。ミューパラオリジナル[クオカード](../Page/クオカード.md "wikilink")と、[エースコック](../Page/エースコック.md "wikilink")・[スーパーカップ](../Page/スーパーカップ.md "wikilink")3食分詰め合わせセット）をプレゼント。
 
 土曜日は週間リクエスト・ランキングの発表。ハガキかメールで、1位になるかを予想し、見事的中した人の中から抽選で1人に賞金1万円。また、すべてのリクエストの中から抽選で5人の方にミューパラ・オリジナル・クオカードをプレゼント。
 
@@ -357,7 +357,7 @@
   - スーパーコンピューターでんた君
     別々の歌詞と歌詞を足して笑っちゃおうというコーナー。
   - グレートティーチャーひろりん
-    ひろりんこと[真木ひろか](https://ja.wikipedia.org/wiki/真木ひろか "wikilink")がリスナーの質問に答えちゃおうというグレートなコーナー。
+    ひろりんこと[真木ひろか](../Page/真木ひろか.md "wikilink")がリスナーの質問に答えちゃおうというグレートなコーナー。
 
 #### 火曜日
 
@@ -373,7 +373,7 @@
   - R-1ぐらんぷりへの道
     あーみーこと浅本美加がR-1ぐらんぷりの優勝を目指すコーナー。
   - なりきり激写カメラマン
-    うっさんこと[上田剛彦](https://ja.wikipedia.org/wiki/上田剛彦 "wikilink")が被写体にカメラを向け、あーみーがそれに応じてリアクションをし、何にカメラを向けているか想像するコーナー。
+    うっさんこと[上田剛彦](../Page/上田剛彦.md "wikilink")が被写体にカメラを向け、あーみーがそれに応じてリアクションをし、何にカメラを向けているか想像するコーナー。
 
 #### 木曜日
 
@@ -386,7 +386,7 @@
 
   - 月曜ワイド劇場 / ミューパラワイド劇場
     いろんな音楽の「おいしい所」だけを抜きとって、自分勝手にドラマを作ってしまおうという「ネタ」あり、「音楽」あり、読み手のセンスも・・・というコーナー。
-    2001年春頃、当時の月曜コンビ[芦沢誠](https://ja.wikipedia.org/wiki/芦沢誠 "wikilink")・[渡辺たかね](https://ja.wikipedia.org/wiki/渡辺たかね "wikilink")で開始し、[上田剛彦](https://ja.wikipedia.org/wiki/上田剛彦 "wikilink")・渡辺たかね当時の金曜日への移動を経て水曜日に引き継がれた、名物ネタコーナー。
+    2001年春頃、当時の月曜コンビ[芦沢誠](../Page/芦沢誠.md "wikilink")・[渡辺たかね](https://ja.wikipedia.org/wiki/渡辺たかね "wikilink")で開始し、[上田剛彦](../Page/上田剛彦.md "wikilink")・渡辺たかね当時の金曜日への移動を経て水曜日に引き継がれた、名物ネタコーナー。
 
 ### ミューパライチ押しナンバー
 
@@ -416,8 +416,8 @@
   - ホットレター
     新旧洋邦とわず、リスナーの熱いリクエストに答えるコーナー。
   - エンジェル小縣のミスターキューピッド
-    恋愛の達人? ガッチこと[小縣裕介](https://ja.wikipedia.org/wiki/小縣裕介 "wikilink")がリスナーからの恋愛の悩みに答える。
-  - [花言葉](https://ja.wikipedia.org/wiki/花言葉 "wikilink")
+    恋愛の達人? ガッチこと[小縣裕介](../Page/小縣裕介.md "wikilink")がリスナーからの恋愛の悩みに答える。
+  - [花言葉](../Page/花言葉.md "wikilink")
     片山淳子が花言葉を紹介。
   - 酢豚のパイナツプル
     Go\!Go\!セレッソ
@@ -460,7 +460,7 @@
     起きてる繋がってるマメッチと生電話ヒロリンリン
     ミューパラ漫画道場
     ミューパラナンバーズ
-    [保坂和拓](https://ja.wikipedia.org/wiki/保坂和拓 "wikilink")のミューパラ卒業後に始まった金曜日0時台の超名物コーナー。生電話で自分の好きな3桁の数字を伝え、当たれば賞金をプレゼントする。このナンバーズの声の主は保坂だった。
+    [保坂和拓](../Page/保坂和拓.md "wikilink")のミューパラ卒業後に始まった金曜日0時台の超名物コーナー。生電話で自分の好きな3桁の数字を伝え、当たれば賞金をプレゼントする。このナンバーズの声の主は保坂だった。
     2006年ごろから春・秋のパラ祭りで実施。
 
 #### 土曜日
@@ -469,16 +469,16 @@
     自分の大好きな趣味なのにあまりスポットライトが当たらない。日頃誰も話を聞いてくれない。自己主張の場所が無いというマニアなリスナーを応援するコーナー。
   - ラジオにらめっこ一発だけよ
     浦川泰幸・珠久美穂子担当時代。
-    リスナーから寄せられた一発ギャグを[珠久美穂子](https://ja.wikipedia.org/wiki/珠久美穂子 "wikilink")が読み上げる。浦川泰幸がおもしろさの段階に応じてグッズをプレゼント。
+    リスナーから寄せられた一発ギャグを[珠久美穂子](../Page/珠久美穂子.md "wikilink")が読み上げる。浦川泰幸がおもしろさの段階に応じてグッズをプレゼント。
   - 緊急出動\!プロジェクトM
-    緊急出動の指令を受け、女性パーソナリティ（[鳥居睦子](https://ja.wikipedia.org/wiki/鳥居睦子 "wikilink")・[珠久美穂子](https://ja.wikipedia.org/wiki/珠久美穂子 "wikilink")・[宮下ジェイミー静](https://ja.wikipedia.org/wiki/宮下ジェイミー静 "wikilink")）が地球上に存在するあらゆる謎や疑問を解明するコーナー。
+    緊急出動の指令を受け、女性パーソナリティ（[鳥居睦子](../Page/鳥居睦子.md "wikilink")・[珠久美穂子](../Page/珠久美穂子.md "wikilink")・[宮下ジェイミー静](../Page/宮下ジェイミー静.md "wikilink")）が地球上に存在するあらゆる謎や疑問を解明するコーナー。
   - ジェイミー・ノンスタイル・ニュース
     浦川泰幸・宮下ジェイミー静担当時代。
     宮下ジェイミー静がどこかにでかけたという設定でリポートをするコーナー。略して「JNN」（と宮下ジェイミー静が言うたびに放送事故だと浦川泰幸が突っ込む：[他局を連想させるため](../Page/毎日放送.md "wikilink")）
   - 激突\!トークバトル\!これでもか\!これでもか\!堪忍してぇぇ～
     毎週、ひとつのテーマについてディベートをおこなう。略して「これ・これ・かん」。
   - ミューパラ・お宝を探せ\!
-    毎週土曜日にお宝ワードを発表し、その言葉が次の週の月曜日から土曜日までのミューパラのどこに埋もれていたかを発見する。お宝ワードが出た日付、曜日、時刻を書いて送ると、応募者の中から抽選でグッズが当たる。お宝ワードは、[中学校](../Page/中学校.md "wikilink")・[高校で使用されている](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[理科](../Page/理科.md "wikilink")や[社会科の](https://ja.wikipedia.org/wiki/社会_\(教科\) "wikilink")[教科書](https://ja.wikipedia.org/wiki/教科用図書 "wikilink")・資料集から浦川泰幸が選定していた。
+    毎週土曜日にお宝ワードを発表し、その言葉が次の週の月曜日から土曜日までのミューパラのどこに埋もれていたかを発見する。お宝ワードが出た日付、曜日、時刻を書いて送ると、応募者の中から抽選でグッズが当たる。お宝ワードは、[中学校](../Page/中学校.md "wikilink")・[高校で使用されている](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[理科](../Page/理科.md "wikilink")や[社会科の](../Page/社会_\(教科\).md "wikilink")[教科書](../Page/教科用図書.md "wikilink")・資料集から浦川泰幸が選定していた。
 
 ### ミニ番組
 
@@ -490,14 +490,14 @@
 
 #### 箱番組
 
-  - [KinKi Kids どんなもんヤ\!](https://ja.wikipedia.org/wiki/KinKi_Kids_どんなもんヤ! "wikilink")（1994年10月? –2008年3月 月–金 23:40ごろ・2008年4月–2009年6月 月–金 24:52ごろ、[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")制作）
-  - [THE おとばん](https://ja.wikipedia.org/wiki/THE_おとばん "wikilink")（1997年4月? –2001年3月 月–金、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
-  - [関ジャニの男前を目指せ\!](https://ja.wikipedia.org/wiki/関ジャニの男前を目指せ! "wikilink")（2006年10月–2008年3月 土 24:05ごろ・2008年10月–2009年6月 金）
+  - [KinKi Kids どんなもんヤ\!](../Page/KinKi_Kids_どんなもんヤ!.md "wikilink")（1994年10月? –2008年3月 月–金 23:40ごろ・2008年4月–2009年6月 月–金 24:52ごろ、[文化放送](../Page/文化放送.md "wikilink")制作）
+  - [THE おとばん](../Page/THE_おとばん.md "wikilink")（1997年4月? –2001年3月 月–金、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
+  - [関ジャニの男前を目指せ\!](../Page/関ジャニの男前を目指せ!.md "wikilink")（2006年10月–2008年3月 土 24:05ごろ・2008年10月–2009年6月 金）
   - [Hey\! Say\! 7 Ultra Power](https://ja.wikipedia.org/wiki/Hey!_Say!_7_Ultra_Power "wikilink")（2008年10月–2009年6月 月–木 24:21ごろ、文化放送制作）
 
 ## チャートの記録
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")夏にKinKi Kids「[硝子の少年](https://ja.wikipedia.org/wiki/硝子の少年 "wikilink")」が記録していた20放送日連続1位の記録を、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")の放送で、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")「[関風ファイティング](https://ja.wikipedia.org/wiki/関風ファイティング "wikilink")」が連続21放送日連続1位を記録し、約10年振りに記録を塗り替えた。週間ランキングではB'z「ZERO」が10週連続1位を記録しており、この記録は2008年3月末に週間ランキングが廃止されるまで破られなかった。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")夏にKinKi Kids「[硝子の少年](../Page/硝子の少年.md "wikilink")」が記録していた20放送日連続1位の記録を、[2007年](../Page/2007年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")の放送で、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")「[関風ファイティング](../Page/関風ファイティング.md "wikilink")」が連続21放送日連続1位を記録し、約10年振りに記録を塗り替えた。週間ランキングではB'z「ZERO」が10週連続1位を記録しており、この記録は2008年3月末に週間ランキングが廃止されるまで破られなかった。
 
 ## ミューパラグッズ
 
@@ -536,9 +536,9 @@
 
 ## まかふじた
 
-**まかふじた**とは、同番組金曜日パーソナリティ[真木ひろか](https://ja.wikipedia.org/wiki/真木ひろか "wikilink")と、番組学生アルバイト[ADs](https://ja.wikipedia.org/wiki/ADs "wikilink")の一員である[藤田優希](http://ip.tosp.co.jp/i.asp?i=yukky_0303)によるユニット名である。アーティスト名の「まかふじた」は、同番組内でリスナーから募集し、決定した。2006年秋結成。
+**まかふじた**とは、同番組金曜日パーソナリティ[真木ひろか](../Page/真木ひろか.md "wikilink")と、番組学生アルバイト[ADs](../Page/ADs.md "wikilink")の一員である[藤田優希](http://ip.tosp.co.jp/i.asp?i=yukky_0303)によるユニット名である。アーティスト名の「まかふじた」は、同番組内でリスナーから募集し、決定した。2006年秋結成。
 
-ミューパラでは、毎年秋になると次年度に向けて新人ADsの募集告知が始まり、現役ADsが自らラジオCMを製作し、番組内でOAするのが恒例になっている。普段ギターで路上ライブをやっているADs藤田は自分の特技を生かして、当時ヒットしていた[Kaoru Amane](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")（[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")）の『[タイヨウのうた](https://ja.wikipedia.org/wiki/タイヨウのうた_\(曲\) "wikilink")』をモチーフにして募集CMを制作し放送した。その後、同じく学生時代ギターで路上ライブを行なっていた金曜日パーソナリティの[真木ひろか](https://ja.wikipedia.org/wiki/真木ひろか "wikilink")とコンビを組んで、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")に大阪・千里の[万博記念公園](../Page/万博記念公園.md "wikilink")で開催された「ABCラジオまつり2006」でのミューパラのステージの前座をすることになった。これが結成のきっかけとなった。
+ミューパラでは、毎年秋になると次年度に向けて新人ADsの募集告知が始まり、現役ADsが自らラジオCMを製作し、番組内でOAするのが恒例になっている。普段ギターで路上ライブをやっているADs藤田は自分の特技を生かして、当時ヒットしていた[Kaoru Amane](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")（[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")）の『[タイヨウのうた](../Page/タイヨウのうた_\(曲\).md "wikilink")』をモチーフにして募集CMを制作し放送した。その後、同じく学生時代ギターで路上ライブを行なっていた金曜日パーソナリティの[真木ひろか](../Page/真木ひろか.md "wikilink")とコンビを組んで、[2006年](../Page/2006年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に大阪・千里の[万博記念公園](../Page/万博記念公園.md "wikilink")で開催された「ABCラジオまつり2006」でのミューパラのステージの前座をすることになった。これが結成のきっかけとなった。
 
 藤田優希作詞・作曲のクリスマスソング『お願いサンタさん』が、ミューパラチャート最高2位までランクインした\[3\]。
 
@@ -551,13 +551,13 @@
 ## 番組テーマ曲
 
   - オープニング：「Wish me luck」/ [オフラ・ハザ](https://ja.wikipedia.org/wiki/オフラ・ハザ "wikilink")
-  - エンディング：「[パーフェクト](https://ja.wikipedia.org/wiki/パーフェクト_\(フェアーグラウンド・アトラクションの曲\) "wikilink")」/ [フェアーグラウンド・アトラクション](https://ja.wikipedia.org/wiki/フェアーグラウンド・アトラクション "wikilink")
+  - エンディング：「[パーフェクト](https://ja.wikipedia.org/wiki/パーフェクト_\(フェアーグラウンド・アトラクションの曲\) "wikilink")」/ [フェアーグラウンド・アトラクション](../Page/フェアーグラウンド・アトラクション.md "wikilink")
 
 ## 関連番組
 
 ### ミューパラ特区
 
-2007年4月から、ABCテレビで毎週木曜深夜に『[ミューパラ特区](https://ja.wikipedia.org/wiki/ミューパラ特区 "wikilink")』と題して、ミューパラのテレビバージョンの番組が開始された。2009年12月に終了。
+2007年4月から、ABCテレビで毎週木曜深夜に『[ミューパラ特区](../Page/ミューパラ特区.md "wikilink")』と題して、ミューパラのテレビバージョンの番組が開始された。2009年12月に終了。
 
 ### ミューパラ アグレッシブ
 
@@ -567,22 +567,22 @@
 
 #### 2010年
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")のABCラジオ創立60周年記念番組内のコーナーとして、当番組が約1時間にわたって復活放送された。[小縣裕介](https://ja.wikipedia.org/wiki/小縣裕介 "wikilink")・[片山淳子](https://ja.wikipedia.org/wiki/片山淳子 "wikilink")がパーソナリティとなり、1990年代後半の木曜日放送の設定で、オープニングトーク、ミューパラ実力テスト（CD三連奏クイズ）、エンジェル小縣のMr.キューピッド、花言葉の各コーナーが再現された。また記念番組内では、小縣・片山に加えて、いずれもミューパラパーソナリティの経験がある記念番組メイン進行の[芦沢誠](https://ja.wikipedia.org/wiki/芦沢誠 "wikilink")・同サブ進行の[浦川泰幸](https://ja.wikipedia.org/wiki/浦川泰幸 "wikilink")も交え、番組の思い出話を語るコーナーも設定された。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")のABCラジオ創立60周年記念番組内のコーナーとして、当番組が約1時間にわたって復活放送された。[小縣裕介](../Page/小縣裕介.md "wikilink")・[片山淳子](../Page/片山淳子.md "wikilink")がパーソナリティとなり、1990年代後半の木曜日放送の設定で、オープニングトーク、ミューパラ実力テスト（CD三連奏クイズ）、エンジェル小縣のMr.キューピッド、花言葉の各コーナーが再現された。また記念番組内では、小縣・片山に加えて、いずれもミューパラパーソナリティの経験がある記念番組メイン進行の[芦沢誠](../Page/芦沢誠.md "wikilink")・同サブ進行の[浦川泰幸](../Page/浦川泰幸.md "wikilink")も交え、番組の思い出話を語るコーナーも設定された。
 
 #### 2017年
 
-[2017年](../Page/2017年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")の日曜スペシャル（22:30-23:00）にて『ミューパラ リターンズ　どっちがイケメンでSHOW』が放送された。 [上田剛彦](https://ja.wikipedia.org/wiki/上田剛彦 "wikilink")・[山下剛](https://ja.wikipedia.org/wiki/山下剛 "wikilink")・[南山千恵美](https://ja.wikipedia.org/wiki/南山千恵美 "wikilink")の3人がパーソナリティとなり、上田と山下のどちらがイケメンであるか、イケメン勝負服対決・イケメンドライブデート対決・イケメン告白対決の三本勝負を2人がそれぞれプレゼンテーション形式で提案し南山が勝者を決めるコーナーが実施された。また放送中では、3人とも結婚し子供がいることや、担当ディレクターが本放送当時のリスナーであり、初めて提出した企画書が採用され、製作・放送につながったという報告がなされた。
+[2017年](../Page/2017年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")の日曜スペシャル（22:30-23:00）にて『ミューパラ リターンズ　どっちがイケメンでSHOW』が放送された。 [上田剛彦](../Page/上田剛彦.md "wikilink")・[山下剛](../Page/山下剛.md "wikilink")・[南山千恵美](../Page/南山千恵美.md "wikilink")の3人がパーソナリティとなり、上田と山下のどちらがイケメンであるか、イケメン勝負服対決・イケメンドライブデート対決・イケメン告白対決の三本勝負を2人がそれぞれプレゼンテーション形式で提案し南山が勝者を決めるコーナーが実施された。また放送中では、3人とも結婚し子供がいることや、担当ディレクターが本放送当時のリスナーであり、初めて提出した企画書が採用され、製作・放送につながったという報告がなされた。
 
 ## 脚注
 
 ## 関連項目
 
-  - [ミューパライチ押しナンバー](https://ja.wikipedia.org/wiki/ミューパライチ押しナンバー "wikilink")
-  - [Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music "wikilink")
-  - [ADs](https://ja.wikipedia.org/wiki/ADs "wikilink")（エーディーズ）
+  - [ミューパライチ押しナンバー](../Page/ミューパライチ押しナンバー.md "wikilink")
+  - [Monthly A Music](../Page/Monthly_A_Music.md "wikilink")
+  - [ADs](../Page/ADs.md "wikilink")（エーディーズ）
 
 [Category:朝日放送ラジオ帯番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:朝日放送ラジオの深夜番組](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオの深夜番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1991年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のラジオ番組_\(日本\) "wikilink")
 
-1.  [ラジオ番組表](https://ja.wikipedia.org/wiki/ラジオ番組表 "wikilink")（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）1998年春号 ABCラジオのページより。
+1.  [ラジオ番組表](../Page/ラジオ番組表.md "wikilink")（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）1998年春号 ABCラジオのページより。
 2.  ラジオ番組表（三才ブックス）1997年春号及び1997年秋号 それぞれABCラジオのページより。
 3.  優希\[[http://yuuki118.com/profile.html\]2016年2月27日閲覧](http://yuuki118.com/profile.html%5D2016年2月27日閲覧)

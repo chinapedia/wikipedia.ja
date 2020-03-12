@@ -1,11 +1,11 @@
 > この記事は[FNN!](https://ja.wikipedia.org/wiki/FNN!)から翻訳されています。
 
 
-『**FNN朝駆け第一報\!**』（エフエヌエヌ あさがけだいいっぽう）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）で放送された朝の[報道](https://ja.wikipedia.org/wiki/報道番組 "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
+『**FNN朝駆け第一報\!**』（エフエヌエヌ あさがけだいいっぽう）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）で放送された朝の[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
 
 ## 概要
 
-『[FNNモーニングコール](https://ja.wikipedia.org/wiki/FNNモーニングコール "wikilink")』の後番組として、当時の[鹿内宏明](https://ja.wikipedia.org/wiki/鹿内宏明 "wikilink")会長の肝いりでスタートしたが、1年で終わり、『[FNN World Uplink](https://ja.wikipedia.org/wiki/FNN_World_Uplink "wikilink")』に受け継がれた。
+『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』の後番組として、当時の[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長の肝いりでスタートしたが、1年で終わり、『[FNN World Uplink](../Page/FNN_World_Uplink.md "wikilink")』に受け継がれた。
 
 ## 放送時間・出演者
 
@@ -33,7 +33,7 @@
 <td><p>1990.10.1</p></td>
 <td><p>1991.4.5</p></td>
 <td><p><a href="../Page/智田裕一.md" title="wikilink">智田裕一</a><sup>2</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松井みどり" title="wikilink">松井みどり</a><sup>2</sup></p></td>
+<td><p><a href="../Page/松井みどり.md" title="wikilink">松井みどり</a><sup>2</sup></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -41,8 +41,8 @@
 <td><p><small></p>
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 <ul>
-<li><sup>1</sup>　『<a href="https://ja.wikipedia.org/wiki/FNNモーニングコール" title="wikilink">FNNモーニングコール</a>』から続投。</li>
-<li><sup>2</sup>　1990年10月1日から同年11月2日まで『<a href="https://ja.wikipedia.org/wiki/ニュース&amp;ウェザー_(FNN系)" title="wikilink">ニュース&amp;ウェザー</a>』を兼務。</li>
+<li><sup>1</sup>　『<a href="../Page/FNNモーニングコール.md" title="wikilink">FNNモーニングコール</a>』から続投。</li>
+<li><sup>2</sup>　1990年10月1日から同年11月2日まで『<a href="../Page/ニュース&amp;ウェザー_(FNN系).md" title="wikilink">ニュース&amp;ウェザー</a>』を兼務。</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -102,7 +102,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>(YTS)</p></td>
 <td></td>
 <td></td>
@@ -121,7 +121,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野放送" title="wikilink">長野放送</a>(NBS)</p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>(NBS)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -160,7 +160,7 @@
 <td><p>●<a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>(KTV)</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/Hello!朝特急" title="wikilink">Hello!朝特急</a>』に改題<br />
 （1991年正月の短縮版は<br />
-『<a href="https://ja.wikipedia.org/wiki/KTVニュース" title="wikilink">KTVニュース</a>』に改題）</p></td>
+『<a href="../Page/KTVニュース.md" title="wikilink">KTVニュース</a>』に改題）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -170,7 +170,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>(OHK)</p></td>
 <td></td>
 <td></td>
@@ -183,12 +183,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ愛媛" title="wikilink">愛媛放送</a>(EBC)</p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a>(EBC)</p></td>
 <td><p>現・テレビ愛媛</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>(TNC)</p></td>
 <td></td>
 <td></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ宮崎" title="wikilink">テレビ宮崎</a>(UMK)</p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>(UMK)</p></td>
 <td><p>FNN/NNN/ANN</p></td>
 <td></td>
 </tr>

@@ -1,20 +1,20 @@
 > この記事は[CORE OF SOUL](https://ja.wikipedia.org/wiki/CORE_OF_SOUL)から翻訳されています。
 
 
-**CORE OF SOUL**（コア オブ ソウル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[3人組](https://ja.wikipedia.org/wiki/三人組 "wikilink")[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**CORE OF SOUL**（コア オブ ソウル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[3人組](https://ja.wikipedia.org/wiki/三人組 "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
 
 ## 概要
 
 ユニット名は日本語で「精神の核」の意味。結成当初はCORE OF SUNというユニット名であったが、ソン・ルイが「根暗な自分にはSUN（太陽）は似合わない」という意向によって改名された。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")結成。[2001年](../Page/2001年.md "wikilink")、シングル「Photosynthesis」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に解散。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")結成。[2001年](../Page/2001年.md "wikilink")、シングル「Photosynthesis」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に解散。
 
 ## 経歴
 
   - 1998年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[千里国際学園](https://ja.wikipedia.org/wiki/千里国際学園 "wikilink")の同級生3人で結成。Fukkoとソンは中学からの知り合いであり、そこに飯塚が加わる形となった。
   - [1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink")、TEENS' MUSIC FESTIVAL '99 全国大会に関西エリア代表として出場し、奨励賞を受賞。
   - 2001年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、関西地区限定でカセットテープ「FULL MOON PRAYER」を発売し、完売。[5月16日](../Page/5月16日.md "wikilink")、東芝EMIよりシングル「Photosynthesis」で[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月13日](../Page/2月13日.md "wikilink")、解散を発表。3月24日、ワールドライブツアー『2006 ASIA TOUR "ONE LOVE, ONE DAY, ONE LIFE\!"』（5ヶ国9公演）ファイナル公演をもって解散。
+  - [2006年](../Page/2006年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")、解散を発表。3月24日、ワールドライブツアー『2006 ASIA TOUR "ONE LOVE, ONE DAY, ONE LIFE\!"』（5ヶ国9公演）ファイナル公演をもって解散。
 
 ## メンバー
 
@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名および2004年までの活動表記は**中村蕗子**（なかむら ふきこ）。[大阪府](../Page/大阪府.md "wikilink")[高槻市](https://ja.wikipedia.org/wiki/高槻市 "wikilink")出身。血液型A型。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名および2004年までの活動表記は**中村蕗子**（なかむら ふきこ）。[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")出身。血液型A型。
     現在は[LOVEとして活動中](../Page/LOVE_\(歌手\).md "wikilink")。
 
 <!-- end list -->
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    [ギター](../Page/ギター.md "wikilink")・[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。本名同じ（正表記は宋睿、英語表記はSong Rui）。[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")[北京出身](../Page/北京市.md "wikilink")、[1993年](../Page/1993年.md "wikilink")より日本在住。血液型O型。
+    [ギター](../Page/ギター.md "wikilink")・[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。本名同じ（正表記は宋睿、英語表記はSong Rui）。[中国](../Page/中国.md "wikilink")[北京出身](../Page/北京市.md "wikilink")、[1993年](../Page/1993年.md "wikilink")より日本在住。血液型O型。
     現在、歌手の[YUNA](https://ja.wikipedia.org/wiki/YUNA "wikilink")とYUNA\&RUIとして活動中。
 
 <!-- end list -->
@@ -43,8 +43,8 @@
 <!-- end list -->
 
   -
-    [マニピュレーション担当](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")。[大阪府](../Page/大阪府.md "wikilink")出身。血液型O型。
-    現在元[Jungle Smileの](https://ja.wikipedia.org/wiki/Jungle_Smile "wikilink")[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")と[マイコン兄弟](http://www.micombros.com/~micombros/)として活動。[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")のライブでのコンピュータ・マニピュレータとしての活動も知られている。
+    [マニピュレーション担当](../Page/マニピュレーター.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")出身。血液型O型。
+    現在元[Jungle Smileの](../Page/Jungle_Smile.md "wikilink")[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")と[マイコン兄弟](http://www.micombros.com/~micombros/)として活動。[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")のライブでのコンピュータ・マニピュレータとしての活動も知られている。
     また、ロックバンド[Addy](https://ja.wikipedia.org/wiki/Addy "wikilink")でマニピュレータとして音楽活動をしている。
     [2015年](../Page/2015年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")、シンガー・ソングライターの[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")と入籍したが、翌年離婚。
 
@@ -56,7 +56,7 @@
     1.  Photosynthesis\[5:18\]
           -
             作詞・作曲：中村蕗子、ソンルイ／編曲：CORE OF SOUL
-            [TBS系](../Page/TBSテレビ.md "wikilink")『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』エンディングテーマ
+            [TBS系](../Page/TBSテレビ.md "wikilink")『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』エンディングテーマ
     2.  Angel\[3:46\]
           -
             作詞・作曲：中村蕗子／編曲：CORE OF SOUL
@@ -72,12 +72,12 @@
     1.  Natural Beauty\[4:41\]
           -
             作詞：中村蕗子／作曲：中村蕗子、ソンルイ／編曲：CORE OF SOUL
-            TBS系『[世界・ふしぎ発見\!](https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見! "wikilink")』エンディングテーマ
+            TBS系『[世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』エンディングテーマ
     2.  Natural Beauty (Instrumental)\[4:37\]
 4.  Flying People（2002年[8月7日](../Page/8月7日.md "wikilink")発売）オリコン60位
     1.  Flying People\[4:46\]
           -
-            作詞・作曲：ソン・ルイ&中村蕗子／編曲：[小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")
+            作詞・作曲：ソン・ルイ&中村蕗子／編曲：[小倉博和](../Page/小倉博和.md "wikilink")
             TBS系『[オフレコ\!](../Page/オフレコ!.md "wikilink")』エンディングテーマ
     2.  Don't Hate Me\[4:01\]
           -
@@ -96,10 +96,10 @@
             [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ウチくる\!?](../Page/ウチくる!?.md "wikilink")』2003年1月度エンディングテーマ、[tvk制作ドラマ](../Page/テレビ神奈川.md "wikilink")『ドゥニチラヴ』オープニングテーマ、[ローソン](../Page/ローソン.md "wikilink")パワープッシュソング
     3.  ふるさとは心の中に\[4:52\]
           -
-            作詞・作曲：中村蕗子／編曲：[K-Muto](https://ja.wikipedia.org/wiki/K-Muto "wikilink")
+            作詞・作曲：中村蕗子／編曲：[K-Muto](../Page/K-Muto.md "wikilink")
 6.  Make Me A Woman（2003年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売）オリコン85位
       -
-        [CD-EXTRA仕様](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")
+        [CD-EXTRA仕様](../Page/CD_EXTRA.md "wikilink")
     <!-- end list -->
     1.  Make Me a Woman\[5:22\]
           -
@@ -121,7 +121,7 @@
     1.  Purple Sky\[6:00\]
           -
             作詞：中村蕗子、ソン・ルイ／作曲：ソン・ルイ／編曲：CORE OF SOUL
-            日本テレビ系『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』AX POWER PLAY \#051、[毎日放送](../Page/毎日放送.md "wikilink")『FUZZ』エンディングテーマ、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[ナンバ壱番館](../Page/ナンバ壱番館.md "wikilink")』エンディングテーマ、朝日放送『[ワイドABCでーす みよ缶](https://ja.wikipedia.org/wiki/ワイドABCDE～す "wikilink")』エンディングテーマ
+            日本テレビ系『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY \#051、[毎日放送](../Page/毎日放送.md "wikilink")『FUZZ』エンディングテーマ、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[ナンバ壱番館](../Page/ナンバ壱番館.md "wikilink")』エンディングテーマ、朝日放送『[ワイドABCでーす みよ缶](https://ja.wikipedia.org/wiki/ワイドABCDE～す "wikilink")』エンディングテーマ
     2.  ともだちの歌\[4:23\]
           -
             作詞：ソン・ルイ、中村蕗子／作曲：ソン・ルイ／編曲：CORE OF SOUL
@@ -129,29 +129,29 @@
     3.  Purple Sky -China Blue Version-\[6:00\]
     4.  Purple Sky -English-a-Wish Version-\[6:01\]
     5.  (エンハンスド)“In Your Arms" MUSIC CLIP “Purple Sky" 対訳
-8.  アゲハ（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売）オリコン90位
+8.  アゲハ（[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売）オリコン90位
     1.  アゲハ\[3:59\]
           -
             作詞・作曲：Fukko／編曲：Yohey Tsukasaki
     2.  粉雪のきもち\[4:49\]
           -
             作詞：Fukko／作曲：Fukko・[Ueda Gen](https://ja.wikipedia.org/wiki/上田現 "wikilink")／編曲：Ueda Gen
-    3.  アゲハ ([Jazztronik](https://ja.wikipedia.org/wiki/Jazztronik "wikilink") Remix)\[4:31\]
+    3.  アゲハ ([Jazztronik](../Page/Jazztronik.md "wikilink") Remix)\[4:31\]
           -
-            [WOWOW](../Page/WOWOW.md "wikilink")『[全豪オープン](../Page/全豪オープン.md "wikilink")テニス2005』エンディングテーマ、日本テレビ『[汐留スタイル\!](https://ja.wikipedia.org/wiki/汐留スタイル! "wikilink")』Stylish Play
+            [WOWOW](../Page/WOWOW.md "wikilink")『[全豪オープン](../Page/全豪オープン.md "wikilink")テニス2005』エンディングテーマ、日本テレビ『[汐留スタイル\!](../Page/汐留スタイル!.md "wikilink")』Stylish Play
 9.  夢乗りRIDERS（2005年[8月3日](../Page/8月3日.md "wikilink")発売）オリコン146位
     1.  夢乗りRIDERS\[3:54\]
           -
             作詞・作曲：Fukko／編曲：Yohey Tsukasaki
-            [NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")『週刊なびTV』エンディングテーマ
+            [NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『週刊なびTV』エンディングテーマ
     2.  今が光る\[2:54\]
           -
-            作詞・作曲：Fukko／編曲：[Masao Akashi](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
-            [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")『[ひろしま満点ママ\!\!](https://ja.wikipedia.org/wiki/ひろしま満点ママ!! "wikilink")』オープニングテーマ
+            作詞・作曲：Fukko／編曲：[Masao Akashi](../Page/明石昌夫.md "wikilink")
+            [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")『[ひろしま満点ママ\!\!](../Page/ひろしま満点ママ!!.md "wikilink")』オープニングテーマ
     3.  Wonderful Tonight\[4:31\]
           -
-            作詞・作曲：[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")／編曲：[Jun Abe](https://ja.wikipedia.org/wiki/安部潤 "wikilink")
-            TBS系『[ブロードキャスター](https://ja.wikipedia.org/wiki/ブロードキャスター "wikilink")』エンディングテーマ
+            作詞・作曲：[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")／編曲：[Jun Abe](../Page/安部潤.md "wikilink")
+            TBS系『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』エンディングテーマ
 
 ### アルバム
 
@@ -213,7 +213,7 @@
     10. Way of Life\[6:04\]
     11. 白い奇跡 -naked version-\[6:09\]
     12. (エンハンスド)“Purple Sky" MUSIC CLIP
-4.  ONE LOVE, ONE DAY, ONE LIFE\!（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売）オリコン141位
+4.  ONE LOVE, ONE DAY, ONE LIFE\!（[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売）オリコン141位
     1.  希望ヶ丘の風\[4:25\]
           -
             [ニッポン放送](../Page/ニッポン放送.md "wikilink")[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")中継イメージソング

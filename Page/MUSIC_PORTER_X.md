@@ -11,13 +11,13 @@
 
 また、有料デジタル[衛星放送](../Page/衛星放送.md "wikilink")サービス **[モバHO\!](../Page/モバHO!.md "wikilink")** 音楽専門チャンネルの聴取および内蔵メモリへの録音が可能。しかし、これに続く機種はなく、事実上、携帯電話で唯一のモバHO\!受信可能機種となった。
 
-製品には端末デザインにマッチしたステレオ[ヘッドホン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")、マイク付リモコン、そして楽曲ファイル管理・転送用[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")ソフト「[BeatJam](https://ja.wikipedia.org/wiki/BeatJam "wikilink")」、[USB接続ケーブルが付属する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。充電スタンド（クレードル）はオプション。
+製品には端末デザインにマッチしたステレオ[ヘッドホン](../Page/ヘッドフォン.md "wikilink")、マイク付リモコン、そして楽曲ファイル管理・転送用[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")ソフト「[BeatJam](../Page/BeatJam.md "wikilink")」、[USB接続ケーブルが付属する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。充電スタンド（クレードル）はオプション。
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink"): 発表。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月18日](../Page/1月18日.md "wikilink"): [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE) による審査を通過（認定番号: *A06-0009001*）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink"): 発売開始。
+  - [2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink"): 発表。
+  - [2006年](../Page/2006年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink"): [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE) による審査を通過（認定番号: *A06-0009001*）。
+  - [2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink"): 発売開始。
 
 ## 関連項目
 

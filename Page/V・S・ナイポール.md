@@ -55,7 +55,7 @@
   - A Turn in the South （1989）
   - 『インド・新しい顔　大変革の胎動』India: A Million Mutinies Now （1990）
       - [武藤友治](https://ja.wikipedia.org/wiki/武藤友治 "wikilink")訳　サイマル出版会　1997.8.
-  - Homeless by Choice （1992, with R. Jhabvala and [S. Rushdie](https://ja.wikipedia.org/wiki/サルマン・ラシュディ "wikilink")）
+  - Homeless by Choice （1992, with R. Jhabvala and [S. Rushdie](../Page/サルマン・ラシュディ.md "wikilink")）
   - Bombay （1994, with Raghubir Singh）
   - 『イスラム再訪』Beyond Belief: Islamic Excursions among the Converted Peoples （1998）
       - 斎藤兆史訳　岩波書店,2001.1.

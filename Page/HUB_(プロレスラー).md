@@ -1,7 +1,7 @@
 > この記事は[HUB \(\)](https://ja.wikipedia.org/wiki/HUB_\(\))から翻訳されています。
 
 
-**HUB**（ハブ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") - ）は、[ハブをモチーフにした](https://ja.wikipedia.org/wiki/ハブ_\(動物\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。本名：**木川 勇人**（きがわ ゆうと）。
+**HUB**（ハブ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") - ）は、[ハブをモチーフにした](../Page/ハブ_\(動物\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。本名：**木川 勇人**（きがわ ゆうと）。
 
 ## 経歴
 
@@ -11,19 +11,19 @@
 
 [1999年](../Page/1999年.md "wikilink")1月17日、デビュー前に、みちのくプロレスを退団。
 
-[1999年](../Page/1999年.md "wikilink")3月2日、[CMLL JAPAN石川県産業展示館](https://ja.wikipedia.org/wiki/CMLL_JAPAN "wikilink")2号館大会でスペル・デメキンとして[スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")、[ツバサとタッグを組んで対](../Page/ツバサ_\(プロレスラー\).md "wikilink")[星川尚浩](https://ja.wikipedia.org/wiki/星川尚浩 "wikilink")&[薬師寺正人](https://ja.wikipedia.org/wiki/薬師寺正人 "wikilink")&[瀬野優組戦でデビュー](https://ja.wikipedia.org/wiki/大王QUALLT "wikilink")。
+[1999年](../Page/1999年.md "wikilink")3月2日、[CMLL JAPAN石川県産業展示館](https://ja.wikipedia.org/wiki/CMLL_JAPAN "wikilink")2号館大会でスペル・デメキンとして[スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")、[ツバサとタッグを組んで対](../Page/ツバサ_\(プロレスラー\).md "wikilink")[星川尚浩](../Page/星川尚浩.md "wikilink")&[薬師寺正人](https://ja.wikipedia.org/wiki/薬師寺正人 "wikilink")&[瀬野優組戦でデビュー](../Page/大王QUALLT.md "wikilink")。
 
-4月、[大阪プロレス](https://ja.wikipedia.org/wiki/大阪プロレス "wikilink")に入団して[ギミックにより](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")、デルフィンの弟という設定になる。
+4月、[大阪プロレス](../Page/大阪プロレス.md "wikilink")に入団して[ギミックにより](../Page/ギミック_\(プロレス\).md "wikilink")、デルフィンの弟という設定になる。
 
 ### ゴア
 
-[2003年](../Page/2003年.md "wikilink")2月、[ルード軍](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")「岸和田愚連隊」に加入してリングネームをゴアに改名。初期はドクロのマスクに黒い迷彩模様の野戦用軍服という出で立ちであったが、年末ごろからマスクを大きく変更して鬼面のような顔とデメキン時代を思わせるようなヒレを左右に配したデザインになる。
+[2003年](../Page/2003年.md "wikilink")2月、[ルード軍](../Page/ヒール_\(プロレス\).md "wikilink")「岸和田愚連隊」に加入してリングネームをゴアに改名。初期はドクロのマスクに黒い迷彩模様の野戦用軍服という出で立ちであったが、年末ごろからマスクを大きく変更して鬼面のような顔とデメキン時代を思わせるようなヒレを左右に配したデザインになる。
 
 [2004年](../Page/2004年.md "wikilink")2月21日、大阪プロレス主催で開催された「[SUPER J-CUP](../Page/スーパーJカップ.md "wikilink")」に出場。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月8日、内部抗争により、岸和田愚連隊を追放される。
+[2005年](../Page/2005年.md "wikilink")1月8日、内部抗争により、岸和田愚連隊を追放される。
 
-1月15日、メインイベント終了後、リングに登場してマスクを脱いでマスクの下からデメキンが姿を現して[ビッグボス"MA-G-MA"の持つ](../Page/マグニチュード岸和田.md "wikilink")[大阪プロレス王座](https://ja.wikipedia.org/wiki/大阪プロレス王座 "wikilink")に挑戦することを表明。
+1月15日、メインイベント終了後、リングに登場してマスクを脱いでマスクの下からデメキンが姿を現して[ビッグボス"MA-G-MA"の持つ](../Page/マグニチュード岸和田.md "wikilink")[大阪プロレス王座](../Page/大阪プロレス王座.md "wikilink")に挑戦することを表明。
 
 1月、沖縄で[徳山昌守](../Page/徳山昌守.md "wikilink")の下で特訓を行う。
 
@@ -53,7 +53,7 @@
 
 9月8日、[菅原拓也](../Page/菅原拓也.md "wikilink")と組んでNWAインターナショナルライトタッグ王座を奪取。
 
-9月、[ZERO1](https://ja.wikipedia.org/wiki/ZERO1 "wikilink")の[天下一Jr.](../Page/天下一Jr..md "wikilink")に出場して初出場ながら準優勝を飾った。その決勝戦中に首を負傷してしまい欠場。10月29日に復帰。
+9月、[ZERO1](../Page/ZERO1.md "wikilink")の[天下一Jr.](../Page/天下一Jr..md "wikilink")に出場して初出場ながら準優勝を飾った。その決勝戦中に首を負傷してしまい欠場。10月29日に復帰。
 
 [2011年](../Page/2011年.md "wikilink")7月30日に沖縄プロレス王座を奪取するが、8月にはNWAインターナショナルライトタッグ王座、MWF世界タッグ王座を相次いで失陥した。
 
@@ -63,13 +63,13 @@
 
 9月8日、[DRAGON GATEKBSホール大会に参戦してリングネームをHUBに改名](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
 
-[2013年](../Page/2013年.md "wikilink")、DRAGON GATEや[大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")や[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")やZERO1や[道頓堀プロレス](https://ja.wikipedia.org/wiki/道頓堀プロレス "wikilink")といろんな団体に参戦をしている。さらに、ZERO1の天下一jrでも優勝してインターナショナルジュニアヘビー級王座とNWA世界ジュニアヘビー級王座を奪取。なお、WRESTLE-1のみでは[東京愚連隊](../Page/東京愚連隊.md "wikilink")と共に行動している。
+[2013年](../Page/2013年.md "wikilink")、DRAGON GATEや[大日本プロレス](../Page/大日本プロレス.md "wikilink")や[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")やZERO1や[道頓堀プロレス](https://ja.wikipedia.org/wiki/道頓堀プロレス "wikilink")といろんな団体に参戦をしている。さらに、ZERO1の天下一jrでも優勝してインターナショナルジュニアヘビー級王座とNWA世界ジュニアヘビー級王座を奪取。なお、WRESTLE-1のみでは[東京愚連隊](../Page/東京愚連隊.md "wikilink")と共に行動している。
 
 10月20日、道頓堀アリーナで自主興行「毒人」を開催。
 
 [2014年](../Page/2014年.md "wikilink")3月2日、道頓堀アリーナでデビュー15周年記念大会を開催。
 
-[2015年](../Page/2015年.md "wikilink")、[大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")や東京愚連隊の自主興行や道頓堀プロレスに参戦中で大阪を拠点に活動中。しかし、ZERO1でジュニア二冠王座は[ジェイソン・リー](https://ja.wikipedia.org/wiki/ジェイソン・リー "wikilink")に敗れ惜しくも陥落。道頓堀プロレスには定期参戦中でヲロチと結託している。
+[2015年](../Page/2015年.md "wikilink")、[大日本プロレス](../Page/大日本プロレス.md "wikilink")や東京愚連隊の自主興行や道頓堀プロレスに参戦中で大阪を拠点に活動中。しかし、ZERO1でジュニア二冠王座は[ジェイソン・リー](../Page/ジェイソン・リー.md "wikilink")に敗れ惜しくも陥落。道頓堀プロレスには定期参戦中でヲロチと結託している。
 
 [2019年](../Page/2019年.md "wikilink")4月13日、阿倍野区民センターでデビュー20周年記念興行を開催。
 
@@ -111,10 +111,10 @@
     やや高度は低めだが素早いモーションで繰り出す。
 
   - とぐろ巻き式ラリアット（旧：蛇腕潰沈）
-    右腕にマスクの後ろにある、しっぽを巻きつけてから放つ[ラリアット](https://ja.wikipedia.org/wiki/ラリアット "wikilink")。しっぽはマスクの一部であるため、攻撃が認められている。
+    右腕にマスクの後ろにある、しっぽを巻きつけてから放つ[ラリアット](../Page/ラリアット.md "wikilink")。しっぽはマスクの一部であるため、攻撃が認められている。
 
-  - [しっぽ攻撃](https://ja.wikipedia.org/wiki/尾 "wikilink")
-    マスクの後ろにある、しっぽを[鞭](https://ja.wikipedia.org/wiki/鞭 "wikilink")のように相手の体に叩きつける。しっぽはマスクの一部であるため、攻撃が認められている。
+  - [しっぽ攻撃](../Page/尾.md "wikilink")
+    マスクの後ろにある、しっぽを[鞭](../Page/鞭.md "wikilink")のように相手の体に叩きつける。しっぽはマスクの一部であるため、攻撃が認められている。
 
   - 怪人エビ固め
     [怪人クレイドル](https://ja.wikipedia.org/wiki/ローリングクレイドル "wikilink")
@@ -134,7 +134,7 @@
     [クロスレッグフィッシャーマンズバスターと同型](https://ja.wikipedia.org/wiki/フィッシャーマンズ・スープレックス#クロスレッグ・フィッシャーマンズ・バスター "wikilink")。スペル・デメキンの時代に使用していた。
 
   - [ペディグリー](../Page/ペディグリー.md "wikilink")
-    [アンクルホールド](https://ja.wikipedia.org/wiki/アンクルホールド "wikilink")
+    [アンクルホールド](../Page/アンクルホールド.md "wikilink")
     立った状態へ移行するスタンディングタイプを主に使用している。相手の一瞬の隙をつき形勢逆転にして使用する事が多い。技の入りがとても早い。
 
   - フィギュアフォーアンクルホールド
@@ -145,8 +145,8 @@
 
 ## タイトル歴
 
-  - [大阪プロレス王座](https://ja.wikipedia.org/wiki/大阪プロレス王座 "wikilink")
-  - [大阪プロレスタッグ王座](https://ja.wikipedia.org/wiki/大阪プロレスタッグ王座 "wikilink")
+  - [大阪プロレス王座](../Page/大阪プロレス王座.md "wikilink")
+  - [大阪プロレスタッグ王座](../Page/大阪プロレスタッグ王座.md "wikilink")
   - 天王山優勝
   - 大阪タッグフェスティバル優勝
   - 上方プロレス新人大賞優勝

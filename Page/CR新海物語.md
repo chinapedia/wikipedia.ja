@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作品は『[海物語](https://ja.wikipedia.org/wiki/海物語 "wikilink")』の後継機として発売された。最初に登場したのが『CR新海物語M27』である。この機種は、高確率時の通常大当たり終了後に100回転の時短が付くという、いわゆる「ハーフスペック機」であり、前機種『海物語』の人気を引き継ぎ大ヒットとなった。その後、[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")に『CR新海物語M56』が発表された。この機種は全ての通常大当たり終了後に100回転の時短が付く「フルスペック機」である。その後、[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にはスペックはそのままにし、盤面デザイン等を変更した『Zシリーズ』が、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には液晶画面がワイドに拡大し、サムのバストアップのフィギュアを据えた『CR新海物語スペシャル』が発表された。
+本作品は『[海物語](../Page/海物語.md "wikilink")』の後継機として発売された。最初に登場したのが『CR新海物語M27』である。この機種は、高確率時の通常大当たり終了後に100回転の時短が付くという、いわゆる「ハーフスペック機」であり、前機種『海物語』の人気を引き継ぎ大ヒットとなった。その後、[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")に『CR新海物語M56』が発表された。この機種は全ての通常大当たり終了後に100回転の時短が付く「フルスペック機」である。その後、[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にはスペックはそのままにし、盤面デザイン等を変更した『Zシリーズ』が、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には液晶画面がワイドに拡大し、サムのバストアップのフィギュアを据えた『CR新海物語スペシャル』が発表された。
 
 ## 画面演出
 
@@ -31,7 +31,7 @@
   - 黒潮リーチ
     逆流する黒潮を図柄キャラが必死に泳ぐスーパーリーチ。同じくシングルリーチから発展し、期待度は予告により変化する。
   - マリンちゃんリーチ
-    画面上部がら「[マリンちゃん](https://ja.wikipedia.org/wiki/マリンちゃん "wikilink")」が現れる。ダブルリーチから発展し、期待度は予告により変化する。
+    画面上部がら「[マリンちゃん](../Page/マリンちゃん.md "wikilink")」が現れる。ダブルリーチから発展し、期待度は予告により変化する。
 
 ### プレミアム演出
 
@@ -244,7 +244,7 @@
   - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（いずれも[プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
       - 『[三洋パチンコパラダイス8 〜新海物語〜](http://www.irem.co.jp/official/pp8/index.html)』（[2003年](../Page/2003年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")発売）に『CR新海物語M27』が収録
       - 『[三洋パチンコパラダイス9 〜新海おかわりっ\!〜](http://www.irem.co.jp/official/pp9/)』（2003年[11月6日](../Page/11月6日.md "wikilink")発売）に『CR新海物語M56』、『CR新海物語L52』が収録
-      - 『[三洋パチンコパラダイス11 〜新海とさらば銀玉の狼〜](http://www.irem.co.jp/official/pp11/index.html)』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")発売）に『CR新海物語』M6Z、『CR新海物語M8Z』が収録
+      - 『[三洋パチンコパラダイス11 〜新海とさらば銀玉の狼〜](http://www.irem.co.jp/official/pp11/index.html)』（[2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")発売）に『CR新海物語』M6Z、『CR新海物語M8Z』が収録
 
 ## 外部リンク
 

@@ -7,13 +7,13 @@
 
 ## 概要
 
-[GUIにより](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[コマンドラインを使わずに](https://ja.wikipedia.org/wiki/コマンドラインインタプリタ "wikilink")[サーバ](../Page/サーバ.md "wikilink")にあるファイルを管理することができる。三面分割型のGUIを持ち、左側はローカル側ファイル一覧、右側はリモート側ファイル一覧、下側に作業履歴が表示される。
+[GUIにより](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[コマンドラインを使わずに](../Page/コマンドラインインタプリタ.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")にあるファイルを管理することができる。三面分割型のGUIを持ち、左側はローカル側ファイル一覧、右側はリモート側ファイル一覧、下側に作業履歴が表示される。
 
-開発が有志によるFFFTPプロジェクトへ移されてから[UTF-8](../Page/UTF-8.md "wikilink")や[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")通信、セキュアな通信として[FTPS](https://ja.wikipedia.org/wiki/FTPS "wikilink")への対応などの変更が加えられた。しかし、[SCPなどの](../Page/Secure_copy.md "wikilink")[SSHプロトコルを利用した転送方式には設定画面のGUIは既にできてはいるが](../Page/Secure_Shell.md "wikilink")、実装はされておらず、対応未定となっている。
+開発が有志によるFFFTPプロジェクトへ移されてから[UTF-8](../Page/UTF-8.md "wikilink")や[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")通信、セキュアな通信として[FTPS](../Page/FTPS.md "wikilink")への対応などの変更が加えられた。しかし、[SCPなどの](../Page/Secure_copy.md "wikilink")[SSHプロトコルを利用した転送方式には設定画面のGUIは既にできてはいるが](../Page/Secure_Shell.md "wikilink")、実装はされておらず、対応未定となっている。
 
 2011年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")頃は安定性の観点からバージョン1.97bの利用をプロジェクト自ら推奨していた\[1\]が、脆弱性が次々と発見されてからは、特殊な事情を除き最新版へのバージョンアップが推奨されている\[2\]。
 
-2017年10月には、開発メンバーの1人が、ホスト設定を[WinSCP](https://ja.wikipedia.org/wiki/WinSCP "wikilink")へエクスポートする機能を実装したうえで開発を終える予定であると伝えた\[3\]。
+2017年10月には、開発メンバーの1人が、ホスト設定を[WinSCP](../Page/WinSCP.md "wikilink")へエクスポートする機能を実装したうえで開発を終える予定であると伝えた\[3\]。
 
 2018年4月、開発を引き継ぐ人物が現れ、バージョン3.0が公開された\[4\]。
 
@@ -29,7 +29,7 @@
 
 2008年[6月3日](../Page/6月3日.md "wikilink")、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")のセキュリティベンダー[Secunia](https://ja.wikipedia.org/wiki/Secunia "wikilink")よりFFFTP 1.96bおよびそれ以前のバージョンに[ディレクトリトラバーサル](../Page/ディレクトリトラバーサル.md "wikilink")の脆弱性の存在が発表される\[7\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")、[2009年](../Page/2009年.md "wikilink")から被害が拡大した[マルウェア](https://ja.wikipedia.org/wiki/マルウェア "wikilink")[Gumblar](https://ja.wikipedia.org/wiki/Gumblar "wikilink")について、FFFTPの[レジストリ](../Page/レジストリ.md "wikilink")に記録された情報が狙われているとの報告が（作者により）発表された\[8\]。レジストリ上に記録されたIDやパスワード、接続先といった情報を盗まれて[ウェブサイト](../Page/ウェブサイト.md "wikilink")が改ざんされる被害も発生した\[9\]\[10\]。当初作者はFFFTPのバージョンアップによる機能強化については検討段階としており、「[SSLなどへの対応は難しい](../Page/Transport_Layer_Security.md "wikilink")」「完全に攻撃を逃れる方法は採れないかもしれません」との見解を発表した\[11\]。マルウェア対策としてレジストリからFFFTPのデータを削除するツールが提供され\[12\]、有志による対策が施された改造バイナリが提供された。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")、[2009年](../Page/2009年.md "wikilink")から被害が拡大した[マルウェア](../Page/マルウェア.md "wikilink")[Gumblar](https://ja.wikipedia.org/wiki/Gumblar "wikilink")について、FFFTPの[レジストリ](../Page/レジストリ.md "wikilink")に記録された情報が狙われているとの報告が（作者により）発表された\[8\]。レジストリ上に記録されたIDやパスワード、接続先といった情報を盗まれて[ウェブサイト](../Page/ウェブサイト.md "wikilink")が改ざんされる被害も発生した\[9\]\[10\]。当初作者はFFFTPのバージョンアップによる機能強化については検討段階としており、「[SSLなどへの対応は難しい](../Page/Transport_Layer_Security.md "wikilink")」「完全に攻撃を逃れる方法は採れないかもしれません」との見解を発表した\[11\]。マルウェア対策としてレジストリからFFFTPのデータを削除するツールが提供され\[12\]、有志による対策が施された改造バイナリが提供された。
 
 2010年[2月7日](../Page/2月7日.md "wikilink")に作者からリリースされた1.97にマルウェア対策済みのバイナリが取り込まれた。この変更によって起動時には「マスターパスワード」の入力を要求するようになり、併せて保存されるパスワードの暗号化アルゴリズムが[AESへと強化された](../Page/Advanced_Encryption_Standard.md "wikilink")。
 
@@ -40,7 +40,7 @@
 #### [OSDN](../Page/OSDN.md "wikilink")(旧SourceForge.JP)上での開発
 
   - 2011年[9月1日](../Page/9月1日.md "wikilink")より、有志により開発は[SourceForge.JP](https://ja.wikipedia.org/wiki/SourceForge.JP "wikilink")(現[OSDN](../Page/OSDN.md "wikilink"))上へ移行。
-  - 2011年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")にSourceForge.JPへ移行してから初のバージョンアップとなる1.98が公開。アスキーモード転送時の漢字コード変換で新たに[UTF-8](../Page/UTF-8.md "wikilink")が追加され、[FTPS](https://ja.wikipedia.org/wiki/FTPS "wikilink")（Explicitモード）に対応。
+  - 2011年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")にSourceForge.JPへ移行してから初のバージョンアップとなる1.98が公開。アスキーモード転送時の漢字コード変換で新たに[UTF-8](../Page/UTF-8.md "wikilink")が追加され、[FTPS](../Page/FTPS.md "wikilink")（Explicitモード）に対応。
   - 2011年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[JVN](https://ja.wikipedia.org/wiki/JVN "wikilink")よりFFFTP 1.98aおよびそれ以前のバージョンから実行ファイル読み込みに関する脆弱性の存在が発表される\[14\]。
   - 2011年[11月5日](../Page/11月5日.md "wikilink")、バージョン1.98cよりUTF-8（BOMなし）への変換がサポートされ、FTPS（Implicitモード）などに対応。
   - 2011年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、バージョン1.98dより[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")通信への対応、機能の改善や不具合の修正が行われた。

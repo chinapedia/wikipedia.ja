@@ -8,7 +8,7 @@
   - 運営主体 - トランスアメリカインターナショナル放送株式会社
   - 愛称 - **Transamerica Japan**
   - プロジェクト開始 - 2005年7月18日　- 日本国内に在住の30万人の日系ブラジル人に向けて、インターネット放送をスタートした。
-  - 放送開始 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")
+  - 放送開始 - [2005年](../Page/2005年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")
   - エフエム放送時間 - 24時間放送　名古屋 76,5Mhz
   - ブラジルで全国規模の展開を行う[Radio Transamerica (Rede Transamerica)](http://www.transanet.com.br/)とのライセンス締結を受け日本での放送を開始。
   - 放送範囲 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")を中心とした地域
@@ -18,10 +18,10 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - ブラジルで全国ネットのラジオ放送を行う[Radio Transamerica (Rede Transamerica)](http://www.transanet.com.br/)との間でライセンス契約を交わす。
       - [9月](../Page/9月.md "wikilink") - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")にある[FM DANVOを通じての放送を開始](https://ja.wikipedia.org/wiki/FM_DANVO "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [中日新聞社](../Page/中日新聞社.md "wikilink")と[ニュース](../Page/ニュース.md "wikilink")配信の契約を締結
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[岡崎市](../Page/岡崎市.md "wikilink")の[FMおかざき](https://ja.wikipedia.org/wiki/FMおかざき "wikilink")と[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")の[FM TAROでParada](https://ja.wikipedia.org/wiki/FM_TARO "wikilink") Obrigatoria（ブラジリアン・チャート番組）を開始。試験的に[中日新聞](../Page/中日新聞.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")のポルトガル語放送をスタート。
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - [岐阜県](../Page/岐阜県.md "wikilink")[可児市](../Page/可児市.md "wikilink")の[FMでんでん](https://ja.wikipedia.org/wiki/FMでんでん "wikilink")でParada Obrigatoria（ブラジリアン・チャート番組）を開始。
@@ -51,7 +51,7 @@
 
 ## 放送内容
 
-  - 音楽主体。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは21:00-01:00の放送では試験的に[中日新聞](../Page/中日新聞.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")をポルトガル語放送していた。
+  - 音楽主体。[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは21:00-01:00の放送では試験的に[中日新聞](../Page/中日新聞.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")をポルトガル語放送していた。
 
 ### 主な番組
 

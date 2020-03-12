@@ -16,19 +16,19 @@
 ## 登場人物
 
   - RETRO（レトロ）（[声](../Page/声優.md "wikilink")：[山口勝平](../Page/山口勝平.md "wikilink")）
-  - PANDY（パンディー）（声：[本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")）
-  - ギャラクティカ（声：[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")）
-  - ちんこドリル（声:[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")）
-  - ヤブ医者（声:[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")）
+  - PANDY（パンディー）（声：[本田貴子](../Page/本田貴子.md "wikilink")）
+  - ギャラクティカ（声：[水谷優子](../Page/水谷優子.md "wikilink")）
+  - ちんこドリル（声:[飛田展男](../Page/飛田展男.md "wikilink")）
+  - ヤブ医者（声:[高木渉](../Page/高木渉.md "wikilink")）
   - 666（スリーシックス）（声:[岩田光央](../Page/岩田光央.md "wikilink")）
-  - 777（スリーセブン）（声:[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")）
-  - 軍曹（声：[岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")）
-  - 運転手（声：[加瀬康之](https://ja.wikipedia.org/wiki/加瀬康之 "wikilink")）
-  - 戦車長（声：[竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")）
-  - 警官A（声：[木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")）
-  - 警官B（声：[前田剛](https://ja.wikipedia.org/wiki/前田剛 "wikilink")）
-  - 警官C（声：[鈴木正和](https://ja.wikipedia.org/wiki/鈴木正和_\(声優\) "wikilink")）
-  - 警官D（声：[新垣樽助](https://ja.wikipedia.org/wiki/新垣樽助 "wikilink")）
+  - 777（スリーセブン）（声:[梁田清之](../Page/梁田清之.md "wikilink")）
+  - 軍曹（声：[岩崎征実](../Page/岩崎征実.md "wikilink")）
+  - 運転手（声：[加瀬康之](../Page/加瀬康之.md "wikilink")）
+  - 戦車長（声：[竹本英史](../Page/竹本英史.md "wikilink")）
+  - 警官A（声：[木内秀信](../Page/木内秀信.md "wikilink")）
+  - 警官B（声：[前田剛](../Page/前田剛.md "wikilink")）
+  - 警官C（声：[鈴木正和](../Page/鈴木正和_\(声優\).md "wikilink")）
+  - 警官D（声：[新垣樽助](../Page/新垣樽助.md "wikilink")）
   - となりの囚人（声：[下崎紘史](../Page/下崎紘史.md "wikilink")）
   - ガヤ（声：[大竹美佳](https://ja.wikipedia.org/wiki/大竹美佳 "wikilink")、[中島裕美子](../Page/中島裕美子.md "wikilink")）
 
@@ -50,7 +50,7 @@
 
 <!-- end list -->
 
-  - 原画：宮澤康紀、[小池健](https://ja.wikipedia.org/wiki/小池健 "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、小倉陳利、[すしお](https://ja.wikipedia.org/wiki/すしお "wikilink")、末冨慎治、[芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink")、[久保田誓](https://ja.wikipedia.org/wiki/久保田誓 "wikilink")、丸山友、今石洋之、桑名郁朗、[板垣伸](../Page/板垣伸.md "wikilink")、東出太、杉江敏治、若林要、奥村光博、[渡部圭祐](https://ja.wikipedia.org/wiki/渡部圭祐 "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink")、小松田大全、浅野恭司、窪田康高、永島明子、大久保徹、矢萩利幸、[谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")、植田実、小倉雅誉、泉広代、中村光宣、竹谷今日子、小村方宏治、森田史、近藤圭介、浜浦紳介、伊藤弘樹、テレジア ウィンクラー
+  - 原画：宮澤康紀、[小池健](../Page/小池健.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、小倉陳利、[すしお](../Page/すしお.md "wikilink")、末冨慎治、[芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink")、[久保田誓](../Page/久保田誓.md "wikilink")、丸山友、今石洋之、桑名郁朗、[板垣伸](../Page/板垣伸.md "wikilink")、東出太、杉江敏治、若林要、奥村光博、[渡部圭祐](https://ja.wikipedia.org/wiki/渡部圭祐 "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink")、小松田大全、浅野恭司、窪田康高、永島明子、大久保徹、矢萩利幸、[谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")、植田実、小倉雅誉、泉広代、中村光宣、竹谷今日子、小村方宏治、森田史、近藤圭介、浜浦紳介、伊藤弘樹、テレジア ウィンクラー
 
 ## 関連商品
 

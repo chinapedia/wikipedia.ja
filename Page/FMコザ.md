@@ -1,7 +1,7 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**株式会社FMコザ**（えふえむコザ）は、[沖縄県](../Page/沖縄県.md "wikilink")[沖縄市](../Page/沖縄市.md "wikilink")、[うるま市](../Page/うるま市.md "wikilink")、[中頭郡](../Page/中頭郡.md "wikilink")[北中城村](https://ja.wikipedia.org/wiki/北中城村 "wikilink")、[北谷町](https://ja.wikipedia.org/wiki/北谷町 "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **FMコザ**そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
+**株式会社FMコザ**（えふえむコザ）は、[沖縄県](../Page/沖縄県.md "wikilink")[沖縄市](../Page/沖縄市.md "wikilink")、[うるま市](../Page/うるま市.md "wikilink")、[中頭郡](../Page/中頭郡.md "wikilink")[北中城村](../Page/北中城村.md "wikilink")、[北谷町](../Page/北谷町.md "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **FMコザ**そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 スタジオはパルミラ通りの旧FM Champla\!のものを引き継いだが、2013年（平成25年）3月、[国道330号](../Page/国道330号.md "wikilink")沿いの中央パークアベニュー入口に移転した。ガラス張りの公開スタジオである。
 
-聴取エリアは、沖縄市全域、[那覇市](../Page/那覇市.md "wikilink")首里エリア、[宜野湾市](../Page/宜野湾市.md "wikilink")（一部）、[西原町](../Page/西原町.md "wikilink")、[中城村](https://ja.wikipedia.org/wiki/中城村 "wikilink")、北中城村、うるま市、北谷町、[嘉手納町](https://ja.wikipedia.org/wiki/嘉手納町 "wikilink")、読谷村\[2\]。
+聴取エリアは、沖縄市全域、[那覇市](../Page/那覇市.md "wikilink")首里エリア、[宜野湾市](../Page/宜野湾市.md "wikilink")（一部）、[西原町](../Page/西原町.md "wikilink")、[中城村](../Page/中城村.md "wikilink")、北中城村、うるま市、北谷町、[嘉手納町](../Page/嘉手納町.md "wikilink")、読谷村\[2\]。
 
 ## 主な番組
 
@@ -63,5 +63,5 @@
 
 [Category:沖縄県のマスメディア](https://ja.wikipedia.org/wiki/Category:沖縄県のマスメディア "wikilink") [Category:沖縄市の企業](https://ja.wikipedia.org/wiki/Category:沖縄市の企業 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink")
 
-1.  [予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得は[糸満市](../Page/糸満市.md "wikilink")の[いとまんコミュニティエフエム放送](../Page/いとまんコミュニティエフエム放送.md "wikilink")（FMたまん）が最初。
+1.  [予備免許](../Page/予備免許.md "wikilink")取得は[糸満市](../Page/糸満市.md "wikilink")の[いとまんコミュニティエフエム放送](../Page/いとまんコミュニティエフエム放送.md "wikilink")（FMたまん）が最初。
 2.  [FMコザについて](https://web.archive.org/web/20150816114909/http://fmkoza.jp/about/index.html) FMコザ（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2015年8月16日収集）

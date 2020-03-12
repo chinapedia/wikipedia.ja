@@ -1,13 +1,13 @@
 > この記事は[SORRY MUSIC ENTERTAINMENT](https://ja.wikipedia.org/wiki/SORRY_MUSIC_ENTERTAINMENT)から翻訳されています。
 
 
-『**SORRY MUSIC ENTERTAINMENT**』（ソーリー ミュージック エンタテインメント）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の12枚目の[アルバム](../Page/アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+『**SORRY MUSIC ENTERTAINMENT**』（ソーリー ミュージック エンタテインメント）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の12枚目の[アルバム](../Page/アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
 米米CLUBとしては初の本格的な2枚組アルバム（『[K2C](https://ja.wikipedia.org/wiki/K2C "wikilink")』『[米米CLUB](../Page/米米CLUB_\(アルバム\).md "wikilink")』は12cm+8cmのため）。同年の4月に発売されたシングル『ワンダブルSUNでぃ』を以って[ギター](../Page/ギター.md "wikilink")のジョプリン得能（得能律郎）とドラムのRYO-J（坂口良治）の2人が脱退。
 
-その後、シングル『JUST MY FRIEND』から今までメンバーとして表記されていた6人にプラスし、ホーンセクション「[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")」の4人（河合わかば(河合伸哉)、ヒマラヤン下神(下神竜哉)、織田ノボッタ(織田浩司)、フッシー小林(小林 太)）、ライブでのサポートメンバーであり「K2C COUSIN」として表記されていた3人（[林部直樹](../Page/林部直樹.md "wikilink")、三沢またろう、菅木真智子）、そこにライブのみで出演していたダンサーのコータロー（[竹下宏太郎](https://ja.wikipedia.org/wiki/竹下宏太郎 "wikilink")）、新たに加わったシンジ（吉浦進次）の2人、新加入したキーボードのジュリアーノ勝又（勝又隆一）ドラムのトシ（高畠俊男）を加え、総勢17人の巨大バンドになった。
+その後、シングル『JUST MY FRIEND』から今までメンバーとして表記されていた6人にプラスし、ホーンセクション「[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")」の4人（河合わかば(河合伸哉)、ヒマラヤン下神(下神竜哉)、織田ノボッタ(織田浩司)、フッシー小林(小林 太)）、ライブでのサポートメンバーであり「K2C COUSIN」として表記されていた3人（[林部直樹](../Page/林部直樹.md "wikilink")、三沢またろう、菅木真智子）、そこにライブのみで出演していたダンサーのコータロー（[竹下宏太郎](../Page/竹下宏太郎.md "wikilink")）、新たに加わったシンジ（吉浦進次）の2人、新加入したキーボードのジュリアーノ勝又（勝又隆一）ドラムのトシ（高畠俊男）を加え、総勢17人の巨大バンドになった。
 
 その中で作られたこのアルバムは、過去に発売されたアルバム『[米米CLUB](../Page/米米CLUB_\(アルバム\).md "wikilink")』と同様、米米の本質的部分である「ソーリー系」の楽曲が2枚のディスクの中に37曲収録されている。そしてそれにちなみ、アルバム名も所属している[ソニー・ミュージックエンタテインメントをもじった](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")『SORRY MUSIC〜』というタイトルとなった。
 
@@ -40,14 +40,14 @@
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※
     <!-- end list -->
-      - 米米解散後、石井竜也のソロライブ『DRAGASIA』（2000年　DVD化）でコータローとのデュエットが披露された。歌詞は[任侠映画のパロディで](../Page/ヤクザ映画.md "wikilink")、石井が[鶴田浩二](https://ja.wikipedia.org/wiki/鶴田浩二 "wikilink")、コータローが[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")の物まねをしている。
+      - 米米解散後、石井竜也のソロライブ『DRAGASIA』（2000年　DVD化）でコータローとのデュエットが披露された。歌詞は[任侠映画のパロディで](../Page/ヤクザ映画.md "wikilink")、石井が[鶴田浩二](../Page/鶴田浩二.md "wikilink")、コータローが[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")の物まねをしている。
 4.  **VIVAみたいなもの**
       -
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※
     <!-- end list -->
       - ライブテイクとスタジオテイクを合成した楽曲。この楽曲に限らないが、歌詞は何もかもが意味不明。
-5.  **[ワンダブルSUNでぃ](https://ja.wikipedia.org/wiki/ワンダブルSUNでぃ "wikilink")**
+5.  **[ワンダブルSUNでぃ](../Page/ワンダブルSUNでぃ.md "wikilink")**
       -
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：：※※
@@ -64,13 +64,13 @@
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※
     <!-- end list -->
-      - 爽やかなメロディーに乗せた下品極まりない歌詞で、「0721」は「[オナニー](https://ja.wikipedia.org/wiki/オナニー "wikilink")」のこと。
+      - 爽やかなメロディーに乗せた下品極まりない歌詞で、「0721」は「[オナニー](../Page/オナニー.md "wikilink")」のこと。
 8.  **THE HAIR**
       -
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※
     <!-- end list -->
-      - 当時一世を風靡した[ヘアヌード](https://ja.wikipedia.org/wiki/ヘアヌード "wikilink")ブームに対する、彼らからのメッセージソング。不動産情報誌のCMソングに起用され、「HAIR」と「部屋」を掛けたジョークとなった。
+      - 当時一世を風靡した[ヘアヌード](../Page/ヘアヌード.md "wikilink")ブームに対する、彼らからのメッセージソング。不動産情報誌のCMソングに起用され、「HAIR」と「部屋」を掛けたジョークとなった。
 9.  **日本の夏**
       -
         (作詞・作曲・編曲:米米CLUB)
@@ -94,13 +94,13 @@
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※※※
     <!-- end list -->
-      - 歌詞の中に「[母に捧げるバラード](../Page/母に捧げるバラード.md "wikilink")」（[海援隊](https://ja.wikipedia.org/wiki/海援隊_\(フォークグループ\) "wikilink")）、「傘がない」（[井上陽水](../Page/井上陽水.md "wikilink")）、「[22才の別れ](https://ja.wikipedia.org/wiki/22才の別れ "wikilink")」（[風](https://ja.wikipedia.org/wiki/風_\(歌手\) "wikilink")）など、[フォークソング](../Page/フォークソング.md "wikilink")のパロディが盛り込まれた楽曲。
+      - 歌詞の中に「[母に捧げるバラード](../Page/母に捧げるバラード.md "wikilink")」（[海援隊](../Page/海援隊_\(フォークグループ\).md "wikilink")）、「傘がない」（[井上陽水](../Page/井上陽水.md "wikilink")）、「[22才の別れ](../Page/22才の別れ.md "wikilink")」（[風](https://ja.wikipedia.org/wiki/風_\(歌手\) "wikilink")）など、[フォークソング](../Page/フォークソング.md "wikilink")のパロディが盛り込まれた楽曲。
 13. **露骨にルンバ**
       -
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※※
     <!-- end list -->
-      - 本楽曲の演奏時は、石井が「やよい18歳」なる巨大[コケシ](../Page/こけし.md "wikilink")（1995年のライブツアー『OPERA BLUE』では「やよい16歳」なる白いオブジェクト）を抱えながら歌う。かつて『[JUST MY FRIEND](https://ja.wikipedia.org/wiki/JUST_MY_FRIEND "wikilink")』でテレビ出演した際、同曲を途中で中断し、突如『露骨にルンバ』に切り替えたことがある。やはり[ルンバ](../Page/ルンバ.md "wikilink")とは全く関係がない楽曲。
+      - 本楽曲の演奏時は、石井が「やよい18歳」なる巨大[コケシ](../Page/こけし.md "wikilink")（1995年のライブツアー『OPERA BLUE』では「やよい16歳」なる白いオブジェクト）を抱えながら歌う。かつて『[JUST MY FRIEND](../Page/JUST_MY_FRIEND.md "wikilink")』でテレビ出演した際、同曲を途中で中断し、突如『露骨にルンバ』に切り替えたことがある。やはり[ルンバ](../Page/ルンバ.md "wikilink")とは全く関係がない楽曲。
 14. **ポンコツ君とガラクタ君**
       -
         (作詞・作曲・編曲:米米CLUB)
@@ -112,13 +112,13 @@
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※※
     <!-- end list -->
-      - ライブテイク。ライナーノーツによると[サンスクリット](../Page/サンスクリット.md "wikilink")語らしい、全く意味不明な歌詞（ただし何故か[東八郎](https://ja.wikipedia.org/wiki/東八郎 "wikilink")が出てくる）をフラッシュ金子（金子隆博）が通訳してくれる、親切な楽曲。
+      - ライブテイク。ライナーノーツによると[サンスクリット](../Page/サンスクリット.md "wikilink")語らしい、全く意味不明な歌詞（ただし何故か[東八郎](../Page/東八郎.md "wikilink")が出てくる）をフラッシュ金子（金子隆博）が通訳してくれる、親切な楽曲。
 16. **サンサルバドルの雪**
       -
         (作曲・編曲:米米CLUB)
         SORRY度数：0
     <!-- end list -->
-      - インスト楽曲。このアルバムの中で唯一SORRY度数が0のまともな楽曲。ただし[サンサルバドル](https://ja.wikipedia.org/wiki/サンサルバドル "wikilink")は熱帯なので、まず雪は降らない。次の曲によると、この楽曲を演奏しているのは「ファルスーレ・シンフォニー楽団」だそうである。
+      - インスト楽曲。このアルバムの中で唯一SORRY度数が0のまともな楽曲。ただし[サンサルバドル](../Page/サンサルバドル.md "wikilink")は熱帯なので、まず雪は降らない。次の曲によると、この楽曲を演奏しているのは「ファルスーレ・シンフォニー楽団」だそうである。
 17. **世界ミュージックアラモード**
       -
         (作詞・作曲・編曲:米米CLUB)
@@ -145,7 +145,7 @@
         (作詞・作曲・編曲:米米CLUB)
         SORRY度数：※※※
     <!-- end list -->
-      - [スカンジナビア](https://ja.wikipedia.org/wiki/スカンジナビア "wikilink")、[コペンハーゲン](https://ja.wikipedia.org/wiki/コペンハーゲン "wikilink")、[マダガスカル](../Page/マダガスカル.md "wikilink")、[カムチャッカ](https://ja.wikipedia.org/wiki/カムチャッカ "wikilink")、[ブダペスト](../Page/ブダペスト.md "wikilink")、[長万部といった実在の地名が多数登場するが](https://ja.wikipedia.org/wiki/長万部町 "wikilink")、それらの関連が全くもって意味不明な楽曲。
+      - [スカンジナビア](https://ja.wikipedia.org/wiki/スカンジナビア "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")、[マダガスカル](../Page/マダガスカル.md "wikilink")、[カムチャッカ](https://ja.wikipedia.org/wiki/カムチャッカ "wikilink")、[ブダペスト](../Page/ブダペスト.md "wikilink")、[長万部といった実在の地名が多数登場するが](../Page/長万部町.md "wikilink")、それらの関連が全くもって意味不明な楽曲。
 3.  **金・金・金**
       -
         (作詞・作曲・編曲:米米CLUB)

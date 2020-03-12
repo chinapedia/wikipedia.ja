@@ -1,7 +1,7 @@
 > この記事は[NATTS](https://ja.wikipedia.org/wiki/NATTS)から翻訳されています。
 
 
-**NATTS**（ナッツ）は、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")が発行している[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")で、同社の[商標](../Page/商標.md "wikilink")でもある。取材・編集は[京阪神エルマガジン社](../Page/京阪神エルマガジン社.md "wikilink")が担当している。姉妹紙として『[P+natts](https://ja.wikipedia.org/wiki/P+natts "wikilink")』がある。
+**NATTS**（ナッツ）は、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")が発行している[フリーペーパー](../Page/フリーペーパー.md "wikilink")で、同社の[商標](../Page/商標.md "wikilink")でもある。取材・編集は[京阪神エルマガジン社](../Page/京阪神エルマガジン社.md "wikilink")が担当している。姉妹紙として『[P+natts](../Page/P+natts.md "wikilink")』がある。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## 2006年5月号現在登場している記事
 
-  - 特集（2006年5月号は沿線の[トレッキング](https://ja.wikipedia.org/wiki/トレッキング "wikilink")情報）
+  - 特集（2006年5月号は沿線の[トレッキング](../Page/トレッキング.md "wikilink")情報）
   - おいしい沿線12ヶ月（今号の食材は[豚肉](../Page/豚肉.md "wikilink")。毎回南海沿線の旬の食材を使用している）
   - Parks Stile（[なんばパークス](../Page/なんばパークス.md "wikilink")の特集）
   - 駅前通（毎回1つか2つの[駅と周辺情報を紹介している](../Page/鉄道駅.md "wikilink")）
@@ -26,7 +26,7 @@
 ## 『NATTS』関連の本・クラブ
 
   - まるごと南海沿線…今までに『NATTS』上で登場した店や施設を一冊の本にしたもの。1と2はすでに完売したが、3については2006年現在も発売している上に、「MIX NATTS」の懸賞にも登場している。
-  - [NATTS鉄道倶楽部](https://ja.wikipedia.org/wiki/NATTS鉄道倶楽部 "wikilink")…[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上での[定期乗車券](../Page/定期乗車券.md "wikilink")の予約やチケットレス[特急券のサービスを受けるためには](../Page/特別急行券.md "wikilink")「NATTS会員」でも別途「NATTS鉄道倶楽部」に入会する必要がある。
+  - [NATTS鉄道倶楽部](../Page/NATTS鉄道倶楽部.md "wikilink")…[インターネット](../Page/インターネット.md "wikilink")上での[定期乗車券](../Page/定期乗車券.md "wikilink")の予約やチケットレス[特急券のサービスを受けるためには](../Page/特別急行券.md "wikilink")「NATTS会員」でも別途「NATTS鉄道倶楽部」に入会する必要がある。
 
 ## 『NATTS』が配布されている駅・施設
 
@@ -36,12 +36,12 @@
     [汐見橋駅](https://ja.wikipedia.org/wiki/汐見橋駅 "wikilink")・[帝塚山駅](https://ja.wikipedia.org/wiki/帝塚山駅 "wikilink")・[住吉東駅](https://ja.wikipedia.org/wiki/住吉東駅 "wikilink")・[沢ノ町駅](https://ja.wikipedia.org/wiki/沢ノ町駅 "wikilink")・[我孫子前駅](https://ja.wikipedia.org/wiki/我孫子前駅 "wikilink")・[浅香山駅](https://ja.wikipedia.org/wiki/浅香山駅 "wikilink")・[堺東駅](https://ja.wikipedia.org/wiki/堺東駅 "wikilink")・[三国ヶ丘駅](https://ja.wikipedia.org/wiki/三国ヶ丘駅 "wikilink")・[百舌鳥八幡駅](https://ja.wikipedia.org/wiki/百舌鳥八幡駅 "wikilink")・[中百舌鳥駅](../Page/中百舌鳥駅.md "wikilink")・[白鷺駅](https://ja.wikipedia.org/wiki/白鷺駅 "wikilink")・[初芝駅](https://ja.wikipedia.org/wiki/初芝駅 "wikilink")・[萩原天神駅](https://ja.wikipedia.org/wiki/萩原天神駅 "wikilink")・[北野田駅](https://ja.wikipedia.org/wiki/北野田駅 "wikilink")・[狭山駅](../Page/狭山駅.md "wikilink")・[大阪狭山市駅](https://ja.wikipedia.org/wiki/大阪狭山市駅 "wikilink")・[金剛駅](https://ja.wikipedia.org/wiki/金剛駅 "wikilink")・[滝谷駅](https://ja.wikipedia.org/wiki/滝谷駅_\(大阪府\) "wikilink")・[千代田駅](https://ja.wikipedia.org/wiki/千代田駅 "wikilink")・[河内長野駅](https://ja.wikipedia.org/wiki/河内長野駅 "wikilink")・[三日市町駅](https://ja.wikipedia.org/wiki/三日市町駅 "wikilink")・[美加の台駅](https://ja.wikipedia.org/wiki/美加の台駅 "wikilink")・[林間田園都市駅](https://ja.wikipedia.org/wiki/林間田園都市駅 "wikilink")・[御幸辻駅](https://ja.wikipedia.org/wiki/御幸辻駅 "wikilink")・[橋本駅](https://ja.wikipedia.org/wiki/橋本駅_\(和歌山県\) "wikilink")・[高野山駅](https://ja.wikipedia.org/wiki/高野山駅 "wikilink")
   - [泉北高速鉄道](../Page/泉北高速鉄道.md "wikilink")
     [泉ヶ丘駅](https://ja.wikipedia.org/wiki/泉ヶ丘駅 "wikilink")・[栂・美木多駅](https://ja.wikipedia.org/wiki/栂・美木多駅 "wikilink")・[光明池駅](https://ja.wikipedia.org/wiki/光明池駅 "wikilink")・[和泉中央駅](https://ja.wikipedia.org/wiki/和泉中央駅 "wikilink")
-  - [京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")
+  - [京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")
     [淀屋橋駅](https://ja.wikipedia.org/wiki/淀屋橋駅 "wikilink")・[天満橋駅](https://ja.wikipedia.org/wiki/天満橋駅 "wikilink")・[香里園駅](https://ja.wikipedia.org/wiki/香里園駅 "wikilink")・[枚方市駅](https://ja.wikipedia.org/wiki/枚方市駅 "wikilink")・[樟葉駅](https://ja.wikipedia.org/wiki/樟葉駅 "wikilink")
   - [大阪高速鉄道](../Page/大阪高速鉄道.md "wikilink")（大阪モノレール）
     [千里中央駅](https://ja.wikipedia.org/wiki/千里中央駅 "wikilink")・[南茨木駅](https://ja.wikipedia.org/wiki/南茨木駅 "wikilink")・[門真市駅](https://ja.wikipedia.org/wiki/門真市駅 "wikilink")・[大阪空港駅](https://ja.wikipedia.org/wiki/大阪空港駅 "wikilink")
   - 商業施設
-    [なんばCITY](https://ja.wikipedia.org/wiki/なんばCITY "wikilink")・なんばパークス、[いずみおおつCITY](https://ja.wikipedia.org/wiki/いずみおおつCITY "wikilink")・プラットプラット（堺駅東口）・ノバティながのNANKAI（河内長野駅西口）・岸和田カンカンベイサイドモール・[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")ターミナルビル
+    [なんばCITY](../Page/なんばCITY.md "wikilink")・なんばパークス、[いずみおおつCITY](../Page/いずみおおつCITY.md "wikilink")・プラットプラット（堺駅東口）・ノバティながのNANKAI（河内長野駅西口）・岸和田カンカンベイサイドモール・[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")ターミナルビル
   - [フェリー](../Page/フェリー.md "wikilink")
     [南海フェリー](../Page/南海フェリー.md "wikilink")船内・徳島港フェリーターミナル
   - その他

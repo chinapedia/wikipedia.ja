@@ -1,7 +1,7 @@
 > この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
 
 
-**ワッチミー\!TV**（watch me\! tv）は、[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")に設立した[フジテレビラボ](../Page/フジテレビラボ.md "wikilink")LLC合同会社が運営していた無料の[動画共有サイト](../Page/動画共有サービス.md "wikilink")。2006年[7月13日](../Page/7月13日.md "wikilink")にベータサービスを開始した。サービス内容は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に似ているが、[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")した動画は内容がチェックされ、著作権法違反になるコンテンツや不適切なコンテンツは配信されないようになっていた。[2018年](../Page/2018年.md "wikilink")3月31日をもってサービス終了\[1\]。
+**ワッチミー\!TV**（watch me\! tv）は、[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に設立した[フジテレビラボ](../Page/フジテレビラボ.md "wikilink")LLC合同会社が運営していた無料の[動画共有サイト](../Page/動画共有サービス.md "wikilink")。2006年[7月13日](../Page/7月13日.md "wikilink")にベータサービスを開始した。サービス内容は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に似ているが、[アップロード](../Page/アップロード.md "wikilink")した動画は内容がチェックされ、著作権法違反になるコンテンツや不適切なコンテンツは配信されないようになっていた。[2018年](../Page/2018年.md "wikilink")3月31日をもってサービス終了\[1\]。
 
 ## 企画
 
@@ -115,7 +115,7 @@
         ワッチミーナ準グランプリの[落合はる菜](https://ja.wikipedia.org/wiki/落合はる菜 "wikilink")と[池田美帆](https://ja.wikipedia.org/wiki/池田美帆 "wikilink")が進行。サイトに投稿された動画の中から面白いものを厳選して放送するなど、ワッチミーTVの主な話題をダイジェストで紹介する。
   - 9nineのwatch me\! meet-me\!（毎週木曜日更新）
       -
-        マリエの事務所（[レプロエンタテインメント](https://ja.wikipedia.org/wiki/レプロエンタテインメント "wikilink")）の後輩ガールズユニット[9nine](../Page/9nine.md "wikilink")のメンバーが毎週週代わりで担当。東京の街を再現した3D仮想空間「[meet-me](https://ja.wikipedia.org/wiki/meet-me "wikilink")」を実際に体験しながら紹介する。
+        マリエの事務所（[レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")）の後輩ガールズユニット[9nine](../Page/9nine.md "wikilink")のメンバーが毎週週代わりで担当。東京の街を再現した3D仮想空間「[meet-me](https://ja.wikipedia.org/wiki/meet-me "wikilink")」を実際に体験しながら紹介する。
   - 瑞季のワッチミーナ ミテミーナ（毎週金曜日更新）
       -
         3代目ワッチミーナの[山野瑞季](https://ja.wikipedia.org/wiki/山野瑞季 "wikilink")がロケに出て街をリポート。リサーチ、ロケ、カメラに至るまで基本的に山野が一人で行う。

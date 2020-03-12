@@ -5,7 +5,7 @@
 
 ## 概要
 
-alphaEDITは[ワープロ感覚で簡単に](../Page/ワードプロセッサ.md "wikilink")[ウェブページ](../Page/ウェブページ.md "wikilink")を作成できる、[WYSIWYG](../Page/WYSIWYG.md "wikilink")編集タイプ の[ウェブページ](../Page/ウェブページ.md "wikilink")エディター。 WYSIWYG編集・[HTML](../Page/HyperText_Markup_Language.md "wikilink")[ソース](https://ja.wikipedia.org/wiki/ソース "wikilink")編集・[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")プレビューの３画面を画面上のボタンで簡単に切り替えながらページの編集作業を進めることができる。 また、初心者でもウィザード形式で簡単にフレームページを作成することができる。 起動と同時にウィザードも出すことができ、初心者にやさしい構造になっている。 HTMLのドキュメント作成機能だけではなく、簡易的な[FTPクライアント](../Page/FTPクライアント.md "wikilink")ソフトも付属されているので、ウェブページの作成から[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")までを一括して行うことができる。
+alphaEDITは[ワープロ感覚で簡単に](../Page/ワードプロセッサ.md "wikilink")[ウェブページ](../Page/ウェブページ.md "wikilink")を作成できる、[WYSIWYG](../Page/WYSIWYG.md "wikilink")編集タイプ の[ウェブページ](../Page/ウェブページ.md "wikilink")エディター。 WYSIWYG編集・[HTML](../Page/HyperText_Markup_Language.md "wikilink")[ソース](../Page/ソース.md "wikilink")編集・[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")プレビューの３画面を画面上のボタンで簡単に切り替えながらページの編集作業を進めることができる。 また、初心者でもウィザード形式で簡単にフレームページを作成することができる。 起動と同時にウィザードも出すことができ、初心者にやさしい構造になっている。 HTMLのドキュメント作成機能だけではなく、簡易的な[FTPクライアント](../Page/FTPクライアント.md "wikilink")ソフトも付属されているので、ウェブページの作成から[アップロード](../Page/アップロード.md "wikilink")までを一括して行うことができる。
 
 初心者向けソフトではあるが操作感がよく、より凝った上級者にも十分対応できる。
 
@@ -18,7 +18,7 @@ alphaEDITは[ワープロ感覚で簡単に](../Page/ワードプロセッサ.md
 ## 関連項目
 
   - [WYSIWYG](../Page/WYSIWYG.md "wikilink")
-  - [KompoZer](https://ja.wikipedia.org/wiki/KompoZer "wikilink")
+  - [KompoZer](../Page/KompoZer.md "wikilink")
   - [BlueGriffon](https://ja.wikipedia.org/wiki/BlueGriffon "wikilink")
 
 ## 外部リンク

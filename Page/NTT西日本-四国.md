@@ -3,7 +3,7 @@
 
 **株式会社NTT西日本-四国**（エヌティティにしにほん-しこく）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")に本社を置き、主にNTT西日本の業務を受託していた。電気通信設備関係や工事関係などで主に四国四県（[愛媛県](../Page/愛媛県.md "wikilink")・[香川県](../Page/香川県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")･[高知県](../Page/高知県.md "wikilink")）を管轄していた。
 
-2013年10月1日、他のNTT西日本の地域会社などとともに[NTT西日本-東海](https://ja.wikipedia.org/wiki/NTT西日本-東海 "wikilink")へ吸収合併され、[NTTビジネスソリューションズ](https://ja.wikipedia.org/wiki/NTTビジネスソリューションズ "wikilink")株式会社となった。
+2013年10月1日、他のNTT西日本の地域会社などとともに[NTT西日本-東海](../Page/NTT西日本-東海.md "wikilink")へ吸収合併され、[NTTビジネスソリューションズ](https://ja.wikipedia.org/wiki/NTTビジネスソリューションズ "wikilink")株式会社となった。
 
 ## 事業内容
 

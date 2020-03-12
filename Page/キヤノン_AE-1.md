@@ -3,14 +3,14 @@
 
 [Canon_AE-1_with_FD50mm_F1.4.jpg](https://ja.wikipedia.org/wiki/File:Canon_AE-1_with_FD50mm_F1.4.jpg "fig:Canon_AE-1_with_FD50mm_F1.4.jpg")
 
-**キヤノンAE-1**は、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")4月に[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")から発売された[自動露出](https://ja.wikipedia.org/wiki/自動露出 "wikilink")[マニュアルフォーカス](https://ja.wikipedia.org/wiki/マニュアルフォーカス "wikilink")[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")である。
+**キヤノンAE-1**は、[1976年](../Page/1976年.md "wikilink")4月に[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")から発売された[自動露出](https://ja.wikipedia.org/wiki/自動露出 "wikilink")[マニュアルフォーカス](https://ja.wikipedia.org/wiki/マニュアルフォーカス "wikilink")[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")である。
 
 ## 概要
 
-  - キヤノンAE-1は、世界で初めて[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")（[テキサス・インスツルメンツ](https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ "wikilink")社製4ビット[CPU](../Page/CPU.md "wikilink")）を内蔵した[AE一眼レフカメラである](../Page/AEカメラ.md "wikilink")。AEとはAutomatic Exposure、つまり自動露出のことである。AE-1では選択した[シャッタースピードに合わせて](https://ja.wikipedia.org/wiki/シャッター_\(カメラ\) "wikilink")[絞りが自動設定される](https://ja.wikipedia.org/wiki/絞り_\(光学\) "wikilink")「シャッタースピード優先AE」方式を採用している。部品の電子化、ユニット化と自動組み立ての導入で、従来の一眼レフカメラより約300点の部品削減に成功し大量生産が可能となったため、他社の同クラスのカメラより2万円近く安い価格設定が実現できた。\[1\]
-  - [コピーライター](https://ja.wikipedia.org/wiki/コピーライター "wikilink")の[秋山晶](https://ja.wikipedia.org/wiki/秋山晶 "wikilink")の手による「連写一眼」のキャッチコピーが話題となった。
+  - キヤノンAE-1は、世界で初めて[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")（[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")社製4ビット[CPU](../Page/CPU.md "wikilink")）を内蔵した[AE一眼レフカメラである](../Page/AEカメラ.md "wikilink")。AEとはAutomatic Exposure、つまり自動露出のことである。AE-1では選択した[シャッタースピードに合わせて](../Page/シャッター_\(カメラ\).md "wikilink")[絞りが自動設定される](../Page/絞り_\(光学\).md "wikilink")「シャッタースピード優先AE」方式を採用している。部品の電子化、ユニット化と自動組み立ての導入で、従来の一眼レフカメラより約300点の部品削減に成功し大量生産が可能となったため、他社の同クラスのカメラより2万円近く安い価格設定が実現できた。\[1\]
+  - [コピーライター](../Page/コピーライター.md "wikilink")の[秋山晶](https://ja.wikipedia.org/wiki/秋山晶 "wikilink")の手による「連写一眼」のキャッチコピーが話題となった。
   - 「連写一眼」の由来となった同時発売の「パワーワインダーA」は、AE-1のボディに装着するとシャッターボタンを1回押すと1コマ巻き上げ、押し続けると連写になるという仕様で、AE-1の大ヒットにより他社もこの方式を採用していくこととなる。販売直後のワインダー装着率は、東京で100%、地方でも50%に達した。\[2\]
-  - シルバーボディとブラックボディがある。ボディ上部カバーは[ABS樹脂](https://ja.wikipedia.org/wiki/ABS樹脂 "wikilink")製で、[真鍮](https://ja.wikipedia.org/wiki/真鍮 "wikilink")で作った場合のデザインを再現したため、カメラ評論家でも樹脂製だと気付かなかったという。\[3\]
+  - シルバーボディとブラックボディがある。ボディ上部カバーは[ABS樹脂](../Page/ABS樹脂.md "wikilink")製で、[真鍮](https://ja.wikipedia.org/wiki/真鍮 "wikilink")で作った場合のデザインを再現したため、カメラ評論家でも樹脂製だと気付かなかったという。\[3\]
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[MC](https://ja.wikipedia.org/wiki/MC)から翻訳されています。
 
 
-**株式会社MC企画**（エムシーきかく）は、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区にある](../Page/北区_\(大阪市\).md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。設立は[1977年](../Page/1977年.md "wikilink")
+**株式会社MC企画**（エムシーきかく）は、[大阪市](../Page/大阪市.md "wikilink")[北区にある](../Page/北区_\(大阪市\).md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。設立は[1977年](../Page/1977年.md "wikilink")
 
 [関西俳優協議会](https://ja.wikipedia.org/wiki/関西俳優協議会 "wikilink")会員\[1\]。[関西芸能マネージャー協議会](https://ja.wikipedia.org/wiki/関西芸能マネージャー協議会 "wikilink")会員\[2\]。
 
@@ -11,23 +11,23 @@
 
 ## 主な所属タレント・アナウンサー
 
-  - [三島ゆり子](https://ja.wikipedia.org/wiki/三島ゆり子 "wikilink")
+  - [三島ゆり子](../Page/三島ゆり子.md "wikilink")
   - [草川祐馬](../Page/草川祐馬.md "wikilink")
-  - [雪代敬子](https://ja.wikipedia.org/wiki/雪代敬子 "wikilink")
+  - [雪代敬子](../Page/雪代敬子.md "wikilink")
   - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
   - [南条好輝](https://ja.wikipedia.org/wiki/南条好輝 "wikilink")
-  - [紅壱子](https://ja.wikipedia.org/wiki/紅壱子 "wikilink")
+  - [紅壱子](../Page/紅壱子.md "wikilink")
   - [麻生えりか](https://ja.wikipedia.org/wiki/麻生えりか "wikilink")
   - [鍋島浩](https://ja.wikipedia.org/wiki/鍋島浩 "wikilink")
   - [藤本幸広](https://ja.wikipedia.org/wiki/藤本幸広 "wikilink")
   - [駒田真紀](https://ja.wikipedia.org/wiki/駒田真紀 "wikilink")
   - [松尾明子](https://ja.wikipedia.org/wiki/松尾明子 "wikilink")
-  - [宇野ひろみ](https://ja.wikipedia.org/wiki/宇野ひろみ "wikilink")
+  - [宇野ひろみ](../Page/宇野ひろみ.md "wikilink")
   - 塩田えみ
   - [武村陽子](https://ja.wikipedia.org/wiki/武村陽子 "wikilink")
-  - [熊本麻美](https://ja.wikipedia.org/wiki/熊本麻美 "wikilink")
+  - [熊本麻美](../Page/熊本麻美.md "wikilink")
   - [三嶋真路](https://ja.wikipedia.org/wiki/三嶋真路 "wikilink")
-  - [桂勢朝](https://ja.wikipedia.org/wiki/桂勢朝 "wikilink")
+  - [桂勢朝](../Page/桂勢朝.md "wikilink")
   - 旭堂南陵
   - ミスマッチ（[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")）
   - 露の団姫
@@ -40,23 +40,23 @@
 
 ## 以前に所属していた主なタレント・アナウンサー
 
-  - [芝本正](https://ja.wikipedia.org/wiki/芝本正 "wikilink")
+  - [芝本正](../Page/芝本正.md "wikilink")
   - [塚本加成子](https://ja.wikipedia.org/wiki/塚本加成子 "wikilink")
   - [福田まゆみ](https://ja.wikipedia.org/wiki/福田まゆみ "wikilink")
-  - [秋吉英美](https://ja.wikipedia.org/wiki/秋吉英美 "wikilink")
+  - [秋吉英美](../Page/秋吉英美.md "wikilink")
   - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")
-  - [別府あゆみ](https://ja.wikipedia.org/wiki/別府あゆみ "wikilink")
-  - [石田佳世](https://ja.wikipedia.org/wiki/石田佳世 "wikilink")（[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")に派遣）
-  - [妹尾和夫](https://ja.wikipedia.org/wiki/妹尾和夫 "wikilink")
-  - [立原啓裕](https://ja.wikipedia.org/wiki/立原啓裕 "wikilink")
-  - [義山望](https://ja.wikipedia.org/wiki/義山望 "wikilink")（在籍時は[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")に派遣。2005年[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")に移籍）
-  - [早瀬久美](https://ja.wikipedia.org/wiki/早瀬久美 "wikilink")
-  - [露の五郎兵衛](https://ja.wikipedia.org/wiki/露の五郎兵衛 "wikilink")（二代目 在籍時に死去）
-  - [田畑猛雄](https://ja.wikipedia.org/wiki/田畑猛雄 "wikilink")
+  - [別府あゆみ](../Page/別府あゆみ.md "wikilink")
+  - [石田佳世](../Page/石田佳世.md "wikilink")（[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")に派遣）
+  - [妹尾和夫](../Page/妹尾和夫.md "wikilink")
+  - [立原啓裕](../Page/立原啓裕.md "wikilink")
+  - [義山望](../Page/義山望.md "wikilink")（在籍時は[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")に派遣。2005年[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")に移籍）
+  - [早瀬久美](../Page/早瀬久美.md "wikilink")
+  - [露の五郎兵衛](../Page/露の五郎兵衛.md "wikilink")（二代目 在籍時に死去）
+  - [田畑猛雄](../Page/田畑猛雄.md "wikilink")
 
 ## 関連項目
 
-  - [スタート (芸能事務所)](https://ja.wikipedia.org/wiki/スタート_\(芸能事務所\) "wikilink")　俳優部門
+  - [スタート (芸能事務所)](../Page/スタート_\(芸能事務所\).md "wikilink")　俳優部門
 
 ## 脚注
 

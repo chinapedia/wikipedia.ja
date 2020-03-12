@@ -1,7 +1,7 @@
 > この記事は[THE STREET FIGHTERS@Hiroshima](https://ja.wikipedia.org/wiki/THE_STREET_FIGHTERS@Hiroshima)から翻訳されています。
 
 
-『**THE STREET FIGHTERS@Hiroshima**』（ザ ストリートファイターズ ヒロシマ）は、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")まで放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。『[ストリートファイターズ](https://ja.wikipedia.org/wiki/ストリートファイターズ "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）の広島版。略称、**ストファイ@広島**。
+『**THE STREET FIGHTERS@Hiroshima**』（ザ ストリートファイターズ ヒロシマ）は、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")まで放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。『[ストリートファイターズ](../Page/ストリートファイターズ.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の広島版。略称、**ストファイ@広島**。
 
 2009年5月2日から番組をリニューアル。 ドキュメントタッチのつくりを一新し、**応援**をテーマにバラエティー色を強めていた。
 
@@ -26,11 +26,11 @@
 ### リニューアル
 
   - アフロさん（[渡部裕之](https://ja.wikipedia.org/wiki/渡部裕之 "wikilink")）（2009年5月2日- 2011年9月17日）
-  - [山田幸美](https://ja.wikipedia.org/wiki/山田幸美 "wikilink")（2009年5月2日- 2011年9月17日）
+  - [山田幸美](../Page/山田幸美.md "wikilink")（2009年5月2日- 2011年9月17日）
 
 ## 番組内容
 
-3部構成。ゲストとして登場するピックアップアーティストと[山田幸美](https://ja.wikipedia.org/wiki/山田幸美 "wikilink")（広島ホームテレビアナウンサー）によるトークコーナー。 ピックアップアーティストによる楽曲演奏。 アフロさん（[渡部裕之](https://ja.wikipedia.org/wiki/渡部裕之 "wikilink")）と応援アーティストによる広島応援企画コーナー。 以上の3要素を取り入れ番組を構成している。
+3部構成。ゲストとして登場するピックアップアーティストと[山田幸美](../Page/山田幸美.md "wikilink")（広島ホームテレビアナウンサー）によるトークコーナー。 ピックアップアーティストによる楽曲演奏。 アフロさん（[渡部裕之](https://ja.wikipedia.org/wiki/渡部裕之 "wikilink")）と応援アーティストによる広島応援企画コーナー。 以上の3要素を取り入れ番組を構成している。
 
 ### ピックアップアーティスト
 
@@ -48,7 +48,7 @@
 
 ## スタッフ
 
-  - ナレーション：[渡部裕之](https://ja.wikipedia.org/wiki/渡部裕之 "wikilink") [山田幸美](https://ja.wikipedia.org/wiki/山田幸美 "wikilink")
+  - ナレーション：[渡部裕之](https://ja.wikipedia.org/wiki/渡部裕之 "wikilink") [山田幸美](../Page/山田幸美.md "wikilink")
   - 撮影：実兼昌秀
   - 音声：伏原武史
   - 広報：西本かおり

@@ -3,13 +3,13 @@
 
 **Ra:IN**（ライン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ハードロック](../Page/ハードロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-ギタリスト[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")（[X JAPAN](../Page/X_JAPAN.md "wikilink")）、ベーシスト[鈴木享明](https://ja.wikipedia.org/wiki/鈴木享明 "wikilink")（元・[TENSAW](https://ja.wikipedia.org/wiki/TENSAW "wikilink")）と、ドラマー[向山テツ](https://ja.wikipedia.org/wiki/向山テツ "wikilink")により、2002年夏に結成された。
+ギタリスト[PATA](../Page/PATA.md "wikilink")（[X JAPAN](../Page/X_JAPAN.md "wikilink")）、ベーシスト[鈴木享明](https://ja.wikipedia.org/wiki/鈴木享明 "wikilink")（元・[TENSAW](../Page/TENSAW.md "wikilink")）と、ドラマー[向山テツ](../Page/向山テツ.md "wikilink")により、2002年夏に結成された。
 
 ## メンバー
 
-  - [ギター](../Page/ギター.md "wikilink")／[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")　（[石塚智昭](https://ja.wikipedia.org/wiki/石塚智昭 "wikilink") いしづか ともあき　1965年11月4日　[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身）
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")／michiaki　（[鈴木享明](https://ja.wikipedia.org/wiki/鈴木享明 "wikilink") すずき みちあき　1956年9月21日　[横浜出身](../Page/横浜市.md "wikilink")）
-  - [ドラマー](https://ja.wikipedia.org/wiki/ドラマー "wikilink")／西田竜一　（にしだ りゅういち　1964年2月28日　[神戸](../Page/神戸.md "wikilink")出身）
+  - [ギター](../Page/ギター.md "wikilink")／[PATA](../Page/PATA.md "wikilink")　（[石塚智昭](https://ja.wikipedia.org/wiki/石塚智昭 "wikilink") いしづか ともあき　1965年11月4日　[千葉県](../Page/千葉県.md "wikilink")出身）
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")／michiaki　（[鈴木享明](https://ja.wikipedia.org/wiki/鈴木享明 "wikilink") すずき みちあき　1956年9月21日　[横浜出身](../Page/横浜市.md "wikilink")）
+  - [ドラマー](../Page/ドラマー.md "wikilink")／西田竜一　（にしだ りゅういち　1964年2月28日　[神戸](../Page/神戸.md "wikilink")出身）
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")／DIE（[D.I.E.](../Page/D.I.E..md "wikilink")）　（野澤大二郎 のざわ だいじろう　1964年2月15日　[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身）
+  - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")／DIE（[D.I.E.](../Page/D.I.E..md "wikilink")）　（野澤大二郎 のざわ だいじろう　1964年2月15日　[東京都](../Page/東京都.md "wikilink")出身）
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 ## 旧メンバー
 
-  - [ドラマー](https://ja.wikipedia.org/wiki/ドラマー "wikilink")／Tetsu　（[向山テツ](https://ja.wikipedia.org/wiki/向山テツ "wikilink") むかいやま てつ　1955年1月31日　[長崎市](https://ja.wikipedia.org/wiki/長崎市 "wikilink")出身）
+  - [ドラマー](../Page/ドラマー.md "wikilink")／Tetsu　（[向山テツ](../Page/向山テツ.md "wikilink") むかいやま てつ　1955年1月31日　[長崎市](../Page/長崎市.md "wikilink")出身）
 
 ## ディスコグラフィ
 
@@ -49,8 +49,8 @@
 ## 関連項目
 
   - [X JAPAN](../Page/X_JAPAN.md "wikilink")
-  - [ルイズルイス加部](https://ja.wikipedia.org/wiki/ルイズルイス加部 "wikilink")
-  - [TENSAW](https://ja.wikipedia.org/wiki/TENSAW "wikilink")
+  - [ルイズルイス加部](../Page/ルイズルイス加部.md "wikilink")
+  - [TENSAW](../Page/TENSAW.md "wikilink")
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")
   - [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide#ツアーメンバー "wikilink")
 

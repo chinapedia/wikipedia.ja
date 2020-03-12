@@ -1,15 +1,15 @@
 > この記事は[!MLB](https://ja.wikipedia.org/wiki/!MLB)から翻訳されています。
 
 
-**スカパー\!MLBライブ**は、[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")が配信する[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")中継番組。[スカチャン](https://ja.wikipedia.org/wiki/スカチャン "wikilink")（[スカパー\!は](../Page/スカパー!プレミアムサービス.md "wikilink")[スカパー・ブロードキャスティング](https://ja.wikipedia.org/wiki/スカパー・ブロードキャスティング "wikilink")、[スカパー\!e2はマルチチャンネルエンターテイメント](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（現[スカパー・エンターテイメント](https://ja.wikipedia.org/wiki/スカパー・エンターテイメント "wikilink")））で放送されていた。
+**スカパー\!MLBライブ**は、[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")が配信する[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")中継番組。[スカチャン](../Page/スカチャン.md "wikilink")（[スカパー\!は](../Page/スカパー!プレミアムサービス.md "wikilink")[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")、[スカパー\!e2はマルチチャンネルエンターテイメント](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（現[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")））で放送されていた。
 
-MLBのCS[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")は、パーフェクTV\!（現[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）が開局した1996年から1999年まではペイ・パー・ビュー・ジャパン（現[スカパー・ブロードキャスティング](https://ja.wikipedia.org/wiki/スカパー・ブロードキャスティング "wikilink")）が放送担当、2000年から2008年まではスカイパーフェクト・コミュニケーションズ（スカパー、現[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")）が放送担当。「スカパー\!MLBライブ」のタイトルが付くようになったのは2004年からであるが、2003年以前についても今項目で合わせて述べる。
+MLBのCS[放映権](../Page/放映権.md "wikilink")は、パーフェクTV\!（現[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）が開局した1996年から1999年まではペイ・パー・ビュー・ジャパン（現[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")）が放送担当、2000年から2008年まではスカイパーフェクト・コミュニケーションズ（スカパー、現[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")）が放送担当。「スカパー\!MLBライブ」のタイトルが付くようになったのは2004年からであるが、2003年以前についても今項目で合わせて述べる。
 
 ## 概要
 
 ### 1996-2003年
 
-[1996年](../Page/1996年.md "wikilink")プレーオフ（ワールドシリーズは除く）よりパーフェクTV\!（現・スカパー\!）の[パーフェクト チョイス](https://ja.wikipedia.org/wiki/パーフェクト・チョイス "wikilink")（現スカチャン）で放送開始。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より、レギュラーシーズンからプレーオフ（ワールドシリーズは除く）まで放送。
+[1996年](../Page/1996年.md "wikilink")プレーオフ（ワールドシリーズは除く）よりパーフェクTV\!（現・スカパー\!）の[パーフェクト チョイス](../Page/パーフェクト・チョイス.md "wikilink")（現スカチャン）で放送開始。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より、レギュラーシーズンからプレーオフ（ワールドシリーズは除く）まで放送。
 
   - 1997年
 
@@ -57,7 +57,7 @@ MLBのCS[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")は、パ
 
 <!-- end list -->
 
-  - 視聴方法・料金：シーズンチケット（プレーオフも含む）一括 25000円　レギュラーシーズン分割払い月ごとチケット 3000円。[シアトルチケット](../Page/シアトル・マリナーズ.md "wikilink")（59試合） 9800円。[メッツチケット](../Page/ニューヨーク・メッツ.md "wikilink")（50試合） 7800円。[ヤンキースチケット](../Page/ニューヨーク・ヤンキース.md "wikilink")（42試合） 6800円。[ボストンチケット](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")（27試合） 4500円。プレーオフチケット 9800円。
+  - 視聴方法・料金：シーズンチケット（プレーオフも含む）一括 25000円　レギュラーシーズン分割払い月ごとチケット 3000円。[シアトルチケット](../Page/シアトル・マリナーズ.md "wikilink")（59試合） 9800円。[メッツチケット](../Page/ニューヨーク・メッツ.md "wikilink")（50試合） 7800円。[ヤンキースチケット](../Page/ニューヨーク・ヤンキース.md "wikilink")（42試合） 6800円。[ボストンチケット](../Page/ボストン・レッドソックス.md "wikilink")（27試合） 4500円。プレーオフチケット 9800円。
   - 放送体制
       - レギュラーシーズン：239試合放送、再放送なし。原則平日は1日1試合生中継で放送。　土日・祝日は1日2試合放送（2試合目は生中継か録画中継）。土日・祝日は日本語トーク付き。
       - プレーオフは全試合放送、日本語トーク付き。再放送なし。
@@ -91,7 +91,7 @@ MLBのCS[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")は、パ
   - 視聴方法：スカパー\!MLBライブ月額2100円　1試合1050円。
   - 放送体制：オープン戦からワールドシリーズ（オールスターゲームは除く）まで約500試合以上放送。レギュラーシーズンは原則1日3試合生中継。プレーオフは全試合生中継。ワールドシリーズは同日録画放送。ゴールデンタイムに2試合を再放送。全試合日本語トーク付き。シーズンオフには今シーズンの中から厳選した試合をアンコール放送。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")シーズンからはスカイパーフェクTV\!110（現・スカパー\!e2）においても放送を始めた。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")は全30球団の主催試合を580試合以上中継しており、原則3試合生中継はもちろんゴールデンタイムに再放送も充実している。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")も例年通り、日本でナンバーワンの放送試合数を誇った。
+[2005年](../Page/2005年.md "wikilink")シーズンからはスカイパーフェクTV\!110（現・スカパー\!e2）においても放送を始めた。[2007年](../Page/2007年.md "wikilink")は全30球団の主催試合を580試合以上中継しており、原則3試合生中継はもちろんゴールデンタイムに再放送も充実している。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")も例年通り、日本でナンバーワンの放送試合数を誇った。
 
 スカパー\!では、試合を視聴するには試合ごとに購入（1050円）するか、月額契約（2100円）となる。日本のプロ野球セットを加入していると月額契約（1050円）で視聴可能。
 
@@ -103,8 +103,8 @@ MLBのCS[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")は、パ
 
 ## 解説
 
-  - [上田龍](https://ja.wikipedia.org/wiki/上田龍 "wikilink")
-  - [牛込惟浩](https://ja.wikipedia.org/wiki/牛込惟浩 "wikilink")
+  - [上田龍](../Page/上田龍.md "wikilink")
+  - [牛込惟浩](../Page/牛込惟浩.md "wikilink")
   - [太田眞一](https://ja.wikipedia.org/wiki/太田眞一 "wikilink")
   - [大冨真一郎](https://ja.wikipedia.org/wiki/大冨真一郎 "wikilink")
   - [神尾義弘](https://ja.wikipedia.org/wiki/神尾義弘 "wikilink")（実況も担当）
@@ -115,7 +115,7 @@ MLBのCS[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")は、パ
   - [出村義和](https://ja.wikipedia.org/wiki/出村義和 "wikilink")
   - [豊浦彰太郎](https://ja.wikipedia.org/wiki/豊浦彰太郎 "wikilink")
   - [蛭間豊章](https://ja.wikipedia.org/wiki/蛭間豊章 "wikilink")
-  - [藤澤文洋](https://ja.wikipedia.org/wiki/藤澤文洋 "wikilink")
+  - [藤澤文洋](../Page/藤澤文洋.md "wikilink")
   - [松林善一](https://ja.wikipedia.org/wiki/松林善一 "wikilink")
 
 ## 実況
@@ -123,24 +123,24 @@ MLBのCS[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")は、パ
   - [アキ猪瀬](https://ja.wikipedia.org/wiki/アキ猪瀬 "wikilink")（解説も担当）
   - [石川顕](https://ja.wikipedia.org/wiki/石川顕 "wikilink")（2004年～2007年まで担当）
   - [上野晃](../Page/上野晃.md "wikilink")
-  - [加藤じろう](https://ja.wikipedia.org/wiki/加藤じろう "wikilink")
+  - [加藤じろう](../Page/加藤じろう.md "wikilink")
   - [近藤祐司](../Page/近藤祐司.md "wikilink")
-  - [節丸裕一](https://ja.wikipedia.org/wiki/節丸裕一 "wikilink")
-  - [高瀬有紀子](https://ja.wikipedia.org/wiki/高瀬有紀子 "wikilink")（1998年～2007年まで担当）
+  - [節丸裕一](../Page/節丸裕一.md "wikilink")
+  - [高瀬有紀子](../Page/高瀬有紀子.md "wikilink")（1998年～2007年まで担当）
   - [吉本靖](https://ja.wikipedia.org/wiki/吉本靖 "wikilink")
   - [渡邉直樹](https://ja.wikipedia.org/wiki/渡邉直樹 "wikilink")
 
 ## PPV以外のCS放送での中継
 
-[J SPORTSが](../Page/J_SPORTS.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")の2シーズンに、主としてJ sports Plusにてスカパー\!で放送したレギュラーシーズンの試合のみを毎週月曜日の夕方に1試合再放送していた。J SPORTSは[2009年](../Page/2009年.md "wikilink")にMLBの衛星放映権（CS独占、BS非独占）を獲得、同年6月2日より放送を開始した。
+[J SPORTSが](../Page/J_SPORTS.md "wikilink")[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")の2シーズンに、主としてJ sports Plusにてスカパー\!で放送したレギュラーシーズンの試合のみを毎週月曜日の夕方に1試合再放送していた。J SPORTSは[2009年](../Page/2009年.md "wikilink")にMLBの衛星放映権（CS独占、BS非独占）を獲得、同年6月2日より放送を開始した。
 
-また、2007年には[モバイル放送](https://ja.wikipedia.org/wiki/モバイル放送 "wikilink")（[モバHO\!](../Page/モバHO!.md "wikilink")）がモバイル放送権を獲得、「チャンネルONE」で映像協力・スカパー\!としてスカパー\!MLBライブのうち毎日1試合（2007年4月～2008年10月）、「モバイル.n」で映像協力・[NHKとして](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1の](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")[メジャーリーグ中継のうち週](../Page/メジャーリーグ中継_\(NHK\).md "wikilink")1回～月2回程度（2007年9月～2008年9月）[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")されていた。
+また、2007年には[モバイル放送](../Page/モバイル放送.md "wikilink")（[モバHO\!](../Page/モバHO!.md "wikilink")）がモバイル放送権を獲得、「チャンネルONE」で映像協力・スカパー\!としてスカパー\!MLBライブのうち毎日1試合（2007年4月～2008年10月）、「モバイル.n」で映像協力・[NHKとして](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1の](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")[メジャーリーグ中継のうち週](../Page/メジャーリーグ中継_\(NHK\).md "wikilink")1回～月2回程度（2007年9月～2008年9月）[サイマル放送](../Page/サイマル放送.md "wikilink")されていた。
 
 ## 関連項目
 
   - [メジャーリーグ中継 (NHK)](../Page/メジャーリーグ中継_\(NHK\).md "wikilink")
-  - [MLBスタジアム](https://ja.wikipedia.org/wiki/MLBスタジアム "wikilink")（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")・[BS-TBS](../Page/BS-TBS.md "wikilink")の中継）
-  - [L\!VE MAJOR LEAGUE BASEBALL](https://ja.wikipedia.org/wiki/L!VE_MAJOR_LEAGUE_BASEBALL "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[BSフジ](../Page/BSフジ.md "wikilink")の中継）
+  - [MLBスタジアム](../Page/MLBスタジアム.md "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")・[BS-TBS](../Page/BS-TBS.md "wikilink")の中継）
+  - [L\!VE MAJOR LEAGUE BASEBALL](../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[BSフジ](../Page/BSフジ.md "wikilink")の中継）
   - [メジャーリーグ中継 (J SPORTS)](https://ja.wikipedia.org/wiki/メジャーリーグ中継_\(J_SPORTS\) "wikilink")（J SPORTSの中継）
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[Lv.!](https://ja.wikipedia.org/wiki/Lv.!)から翻訳されています。
 
 
-『**ほのかLv.アップ\!**』は、「[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")」（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")発行）で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月号まで連載していた[太田顕喜原作](https://ja.wikipedia.org/wiki/秋タカシ "wikilink")、[MATSUDA98](../Page/MATSUDA98.md "wikilink")作画の漫画作品である。[単行本](../Page/単行本.md "wikilink")は[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")発行）より全4巻刊行。
+『**ほのかLv.アップ\!**』は、「[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")」（[メディアワークス](../Page/メディアワークス.md "wikilink")発行）で[2005年](../Page/2005年.md "wikilink")10月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月号まで連載していた[太田顕喜原作](../Page/秋タカシ.md "wikilink")、[MATSUDA98](../Page/MATSUDA98.md "wikilink")作画の漫画作品である。[単行本](../Page/単行本.md "wikilink")は[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")発行）より全4巻刊行。
 
 ## あらすじ
 
@@ -27,7 +27,7 @@
 ### ゼロフレーム社員
 
   - 蓼科 紗希（たてしな さき）
-    ゼロフレームの[グラフィッカー](https://ja.wikipedia.org/wiki/ゲームクリエイター "wikilink")。20歳、157cm、A型。学生時代から[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動をしており、その筋では有名な同人作家らしい。
+    ゼロフレームの[グラフィッカー](../Page/ゲームクリエイター.md "wikilink")。20歳、157cm、A型。学生時代から[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動をしており、その筋では有名な同人作家らしい。
 
 <!-- end list -->
 
@@ -37,12 +37,12 @@
 <!-- end list -->
 
   - 谷川 茉莉（たにかわ まり）
-    ゼロフレームの[広報](https://ja.wikipedia.org/wiki/広報 "wikilink")。23歳、163cm、AB型。可憐な容姿とは裏腹に、いい加減な性格で酒豪。隆一曰く遊び人。
+    ゼロフレームの[広報](../Page/広報.md "wikilink")。23歳、163cm、AB型。可憐な容姿とは裏腹に、いい加減な性格で酒豪。隆一曰く遊び人。
 
 <!-- end list -->
 
   - 野沢 雄（のざわ たけし）
-    ゼロフレームの[プランナー](https://ja.wikipedia.org/wiki/ゲームクリエイター "wikilink")。28歳、169cm、A型。隆一の片腕として有能に仕事をこなすが、微妙に影が薄い。
+    ゼロフレームの[プランナー](../Page/ゲームクリエイター.md "wikilink")。28歳、169cm、A型。隆一の片腕として有能に仕事をこなすが、微妙に影が薄い。
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 <!-- end list -->
 
   - 緒乃 拓美（おの ひろみ／[PN](../Page/ペンネーム.md "wikilink")：おの たくみ）
-    フリーのイラストレーター。28歳、157cm、AB型。以前はゲーム会社で[ドッターをしていたが](https://ja.wikipedia.org/wiki/ゲームクリエイター "wikilink")、独立してフリーのイラストレーターになる。名前のせいでよく男性に間違えられるが、女性である。因みに左利き。
+    フリーのイラストレーター。28歳、157cm、AB型。以前はゲーム会社で[ドッターをしていたが](../Page/ゲームクリエイター.md "wikilink")、独立してフリーのイラストレーターになる。名前のせいでよく男性に間違えられるが、女性である。因みに左利き。
 
 <!-- end list -->
 
@@ -153,13 +153,13 @@
   - [さくら小春](https://ja.wikipedia.org/wiki/さくら小春 "wikilink")
   - [しろー](https://ja.wikipedia.org/wiki/しろー "wikilink")
   - [皆川史生](https://ja.wikipedia.org/wiki/皆川史生 "wikilink")
-  - [桜沢いづみ](https://ja.wikipedia.org/wiki/桜沢いづみ "wikilink")
+  - [桜沢いづみ](../Page/桜沢いづみ.md "wikilink")
   - 寺田努
   - [純珪一](https://ja.wikipedia.org/wiki/純珪一 "wikilink")
   - [松竜](https://ja.wikipedia.org/wiki/松竜 "wikilink")
-  - [森山大輔](https://ja.wikipedia.org/wiki/森山大輔 "wikilink")
+  - [森山大輔](../Page/森山大輔.md "wikilink")
   - [瀧宮一隆](https://ja.wikipedia.org/wiki/瀧宮一隆 "wikilink")
-  - [中央東口](https://ja.wikipedia.org/wiki/中央東口 "wikilink")
+  - [中央東口](../Page/中央東口.md "wikilink")
 
 ## 単行本
 

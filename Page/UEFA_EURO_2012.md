@@ -1,25 +1,25 @@
 > この記事は[UEFA EURO 2012](https://ja.wikipedia.org/wiki/UEFA_EURO_2012)から翻訳されています。
 
 
-**UEFA EURO 2012**（）は、[2012年](../Page/2012年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")から[7月1日](../Page/7月1日.md "wikilink")にかけて、[ウクライナ](../Page/ウクライナ.md "wikilink")と[ポーランド](../Page/ポーランド.md "wikilink")で開催された第14回目の[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")である。
+**UEFA EURO 2012**（）は、[2012年](../Page/2012年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")から[7月1日](../Page/7月1日.md "wikilink")にかけて、[ウクライナ](../Page/ウクライナ.md "wikilink")と[ポーランド](../Page/ポーランド.md "wikilink")で開催された第14回目の[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")である。
 
-[スペインが](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")2大会連続3回目の優勝を飾り、大会史上初の連覇を果たした。また[FIFAコンフェデレーションズカップ2013](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ2013 "wikilink")への出場権は、優勝したスペインが[2010 FIFAワールドカップ優勝国として既に出場権を得ているため](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、準優勝した[イタリアに与えられた](https://ja.wikipedia.org/wiki/サッカーイタリア代表 "wikilink")。
+[スペインが](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")2大会連続3回目の優勝を飾り、大会史上初の連覇を果たした。また[FIFAコンフェデレーションズカップ2013](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ2013 "wikilink")への出場権は、優勝したスペインが[2010 FIFAワールドカップ優勝国として既に出場権を得ているため](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、準優勝した[イタリアに与えられた](../Page/サッカーイタリア代表.md "wikilink")。
 
 ## 開催国選定の経緯
 
-開催国は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[ウェールズ](../Page/ウェールズ.md "wikilink")の[カーディフ](../Page/カーディフ.md "wikilink")で開かれた[ヨーロッパサッカー連盟](https://ja.wikipedia.org/wiki/ヨーロッパサッカー連盟 "wikilink")（UEFA）の理事会で[クロアチア](../Page/クロアチア.md "wikilink")・[ハンガリー](../Page/ハンガリー.md "wikilink")の共催、[イタリア](../Page/イタリア.md "wikilink")、[ウクライナ](../Page/ウクライナ.md "wikilink")・[ポーランド](../Page/ポーランド.md "wikilink")の共催の3候補からUEFA理事の投票によって決定された。投票では、ウクライナ・ポーランドが有効投票12票のうちの8票を獲得した。UEFA欧州選手権での共催は[EURO2008に続いて](https://ja.wikipedia.org/wiki/UEFA_EURO_2008 "wikilink")2大会連続3回目となる。
+開催国は、[2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[ウェールズ](../Page/ウェールズ.md "wikilink")の[カーディフ](../Page/カーディフ.md "wikilink")で開かれた[ヨーロッパサッカー連盟](https://ja.wikipedia.org/wiki/ヨーロッパサッカー連盟 "wikilink")（UEFA）の理事会で[クロアチア](../Page/クロアチア.md "wikilink")・[ハンガリー](../Page/ハンガリー.md "wikilink")の共催、[イタリア](../Page/イタリア.md "wikilink")、[ウクライナ](../Page/ウクライナ.md "wikilink")・[ポーランド](../Page/ポーランド.md "wikilink")の共催の3候補からUEFA理事の投票によって決定された。投票では、ウクライナ・ポーランドが有効投票12票のうちの8票を獲得した。UEFA欧州選手権での共催は[EURO2008に続いて](../Page/UEFA_EURO_2008.md "wikilink")2大会連続3回目となる。
 
 ## 予選
 
 ### イタリア対セルビアにおけるサポーター暴動
 
-2010年10月12日に[ジェノヴァ](../Page/ジェノヴァ.md "wikilink")の[スタディオ・ルイジ・フェッラーリス](https://ja.wikipedia.org/wiki/スタディオ・ルイジ・フェッラーリス "wikilink")で行われた[イタリアと](https://ja.wikipedia.org/wiki/サッカーイタリア代表 "wikilink")[セルビアの一戦では](https://ja.wikipedia.org/wiki/サッカーセルビア代表 "wikilink")、セルビア人サポーターの一部がフェンスによじ登りピッチに[発炎筒](https://ja.wikipedia.org/wiki/発炎筒 "wikilink")を投げ込むなどしたために、試合が中止された。セルビアサポーターは試合開始10分前にイタリアの応援席やピッチに向け発炎筒や紙爆弾を投げ込むなどしたために試合開始は37分遅らされた\[1\]。しかしキックオフ後も発炎筒が投げ込まれたため、試合開始6分で中止が決定された\[2\]。試合後には暴動の首謀者の男がイタリア警察により逮捕された\[3\]。
+2010年10月12日に[ジェノヴァ](../Page/ジェノヴァ.md "wikilink")の[スタディオ・ルイジ・フェッラーリス](../Page/スタディオ・ルイジ・フェッラーリス.md "wikilink")で行われた[イタリアと](../Page/サッカーイタリア代表.md "wikilink")[セルビアの一戦では](../Page/サッカーセルビア代表.md "wikilink")、セルビア人サポーターの一部がフェンスによじ登りピッチに[発炎筒](../Page/発炎筒.md "wikilink")を投げ込むなどしたために、試合が中止された。セルビアサポーターは試合開始10分前にイタリアの応援席やピッチに向け発炎筒や紙爆弾を投げ込むなどしたために試合開始は37分遅らされた\[1\]。しかしキックオフ後も発炎筒が投げ込まれたため、試合開始6分で中止が決定された\[2\]。試合後には暴動の首謀者の男がイタリア警察により逮捕された\[3\]。
 
-セルビアは[2010 FIFAワールドカップでのグループリーグ敗退を受けて国民の人気が高かった](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")[ラドミル・アンティッチ](https://ja.wikipedia.org/wiki/ラドミル・アンティッチ "wikilink")を解任しており、にもかかわらずセルビアはこの試合までに予選を1勝1敗1分と低迷していたことなどから、暴動はセルビアサッカー協会へ抗議する目的で行われたものだとされた\[4\]。またセルビアGKの[ヴラディミル・ストイコヴィッチ](https://ja.wikipedia.org/wiki/ヴラディミル・ストイコヴィッチ "wikilink")は[レッドスター・ベオグラード](https://ja.wikipedia.org/wiki/レッドスター・ベオグラード "wikilink")の生え抜きの選手でありながら、ワールドカップ後にライバルの[パルチザン・ベオグラード](https://ja.wikipedia.org/wiki/パルチザン・ベオグラード "wikilink")へ移籍していたことや、直前の[エストニア戦で敗北の戦犯とされたことなどからセルビアサポーターの標的とされていた](https://ja.wikipedia.org/wiki/サッカーエストニア代表 "wikilink")\[5\]。一方でイタリアへの敵意はなかったものであることも、前述の首謀者は強調し、イタリアに謝罪の念を述べた\[6\]。
+セルビアは[2010 FIFAワールドカップでのグループリーグ敗退を受けて国民の人気が高かった](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")[ラドミル・アンティッチ](https://ja.wikipedia.org/wiki/ラドミル・アンティッチ "wikilink")を解任しており、にもかかわらずセルビアはこの試合までに予選を1勝1敗1分と低迷していたことなどから、暴動はセルビアサッカー協会へ抗議する目的で行われたものだとされた\[4\]。またセルビアGKの[ヴラディミル・ストイコヴィッチ](../Page/ヴラディミル・ストイコヴィッチ.md "wikilink")は[レッドスター・ベオグラード](../Page/レッドスター・ベオグラード.md "wikilink")の生え抜きの選手でありながら、ワールドカップ後にライバルの[パルチザン・ベオグラード](../Page/パルチザン・ベオグラード.md "wikilink")へ移籍していたことや、直前の[エストニア戦で敗北の戦犯とされたことなどからセルビアサポーターの標的とされていた](../Page/サッカーエストニア代表.md "wikilink")\[5\]。一方でイタリアへの敵意はなかったものであることも、前述の首謀者は強調し、イタリアに謝罪の念を述べた\[6\]。
 
 またセルビア人サポーターは試合開始前から地元の警察と衝突し15名の負傷者と3名の拘束者が出ており\[7\]、スタジアムに発炎筒などの危険物を容易に持ち込むことができたことなどから、試合を運営したイタリア側の責任も追及された\[8\]。
 
-10月29日にUEFAは試合をイタリアが3-0で勝利したという扱いにすることと、セルビアに12万ユーロの罰金と2試合の[無観客試合](https://ja.wikipedia.org/wiki/無観客試合 "wikilink")、イタリアに10万ユーロの罰金と1試合の無観客試合が科されることを発表した\[9\]。ただし無観客試合に関しては双方とも1試合分は執行猶予がつき、今後2年間で同じような問題が起きた際に行使される。
+10月29日にUEFAは試合をイタリアが3-0で勝利したという扱いにすることと、セルビアに12万ユーロの罰金と2試合の[無観客試合](../Page/無観客試合.md "wikilink")、イタリアに10万ユーロの罰金と1試合の無観客試合が科されることを発表した\[9\]。ただし無観客試合に関しては双方とも1試合分は執行猶予がつき、今後2年間で同じような問題が起きた際に行使される。
 
 ## 出場国
 
@@ -47,105 +47,105 @@
 <td></td>
 <td><p>共同開催国</p></td>
 <td><p>2大会連続2回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>グループリーグ敗退 (2008)</p></td>
 </tr>
 <tr class="odd">
 <td><p>[10]</p></td>
 <td><p>予選A組1位</p></td>
 <td><p>11大会連続11回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1972" title="wikilink">1972</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1976" title="wikilink">1976</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1984" title="wikilink">1984</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1972" title="wikilink">1972</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1976" title="wikilink">1976</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA欧州選手権1984.md" title="wikilink">1984</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1972, 1980, 1996)</p></td>
 </tr>
 <tr class="even">
 <td><p>[11]</p></td>
 <td><p>予選B組1位</p></td>
 <td><p>3大会連続10回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1960" title="wikilink">1960</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">1968</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1972" title="wikilink">1972</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1960" title="wikilink">1960</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">1968</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1972" title="wikilink">1972</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1960)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>予選C組1位</p></td>
 <td><p>5大会連続8回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">1968</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">1968</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1968)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>予選D組1位</p></td>
 <td><p>6大会連続8回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1984" title="wikilink">1984</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="../Page/UEFA欧州選手権1984.md" title="wikilink">1984</a>, <a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1984, 2000)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>予選E組1位</p></td>
 <td><p>7大会連続9回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1976" title="wikilink">1976</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1976" title="wikilink">1976</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1988)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>予選F組1位</p></td>
 <td><p>3大会連続4回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (2004)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>予選G組1位</p></td>
 <td><p>2大会ぶり8回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">1968</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">1968</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a></p></td>
 <td><p>ベスト4 (1968[12], 1996)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>予選H組1位</p></td>
 <td><p>2大会ぶり8回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1984" title="wikilink">1984</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="../Page/UEFA欧州選手権1984.md" title="wikilink">1984</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a></p></td>
 <td><p>優勝 (1992)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>予選I組1位</p></td>
 <td><p>5大会連続9回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1984" title="wikilink">1984</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1964" title="wikilink">1964</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA欧州選手権1984.md" title="wikilink">1984</a>, <a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1964, 2008)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>ベストランナーアップ</p></td>
 <td><p>4大会連続5回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;92" title="wikilink">1992</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_&#39;92.md" title="wikilink">1992</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>ベスト4 (1992)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>プレーオフ第1組勝利</p></td>
 <td><p>3大会連続4回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>ベスト8 (1996, 2008)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>プレーオフ第2組勝利</p></td>
 <td><p>6大会ぶり2回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1988" title="wikilink">1988</a></p></td>
+<td><p><a href="../Page/UEFA欧州選手権1988.md" title="wikilink">1988</a></p></td>
 <td><p>グループリーグ敗退 (1988)</p></td>
 </tr>
 <tr class="odd">
 <td><p>[13]</p></td>
 <td><p>プレーオフ第3組勝利</p></td>
 <td><p>5大会連続8回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1960" title="wikilink">1960</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1976" title="wikilink">1976</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1960" title="wikilink">1960</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1976" title="wikilink">1976</a>, <a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1980" title="wikilink">1980</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>優勝 (1976)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>プレーオフ第4組勝利</p></td>
 <td><p>5大会連続6回目</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1984" title="wikilink">1984</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_&#39;96" title="wikilink">1996</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2000" title="wikilink">2000</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2004" title="wikilink">2004</a>, <a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/UEFA欧州選手権1984.md" title="wikilink">1984</a>, <a href="../Page/UEFA_EURO_&#39;96.md" title="wikilink">1996</a>, <a href="../Page/UEFA_EURO_2000.md" title="wikilink">2000</a>, <a href="../Page/UEFA_EURO_2004.md" title="wikilink">2004</a>, <a href="../Page/UEFA_EURO_2008.md" title="wikilink">2008</a></p></td>
 <td><p>準優勝 (2004)</p></td>
 </tr>
 </tbody>
@@ -155,7 +155,7 @@
 
 ### 概要
 
-今大会で、行動が模範的だったとして[アイルランドサポーターが特別表彰される](https://ja.wikipedia.org/wiki/サッカーアイルランド共和国代表 "wikilink")\[14\]。
+今大会で、行動が模範的だったとして[アイルランドサポーターが特別表彰される](../Page/サッカーアイルランド共和国代表.md "wikilink")\[14\]。
 
 ### 大会総括
 
@@ -163,7 +163,7 @@
 
 #### 代償金支払い
 
-2012年6月20日、今大会及び予選に出場した欧州各国代表に選手を貸し出した全575クラブへの計1億ユーロ（約99億円）の代償金の分配が決まり\[17\]、9月12日UEFAと[欧州クラブ協会](https://ja.wikipedia.org/wiki/欧州クラブ協会 "wikilink")(ECA)の交渉の結果、各クラブへの分配額が決定した\[18\]。前回の[2008年大会から大幅に増額され](https://ja.wikipedia.org/wiki/UEFA_EURO_2008 "wikilink")、さらに前回は本大会のみが代償金の対象であったが、今大会から予選もその対象となった。また、実際に負傷した選手への保険としては、2012年3月22日にUEFAとECAが合意した代表選手保険システムが今大会で初適用された。この保険は選手の国籍に関係なく、欧州全クラブに所属する全選手に対して適用され、公式戦、親善試合を問わず予定された全ての代表の国際試合がその保険の対象の試合であり、2012年9月1日以降はUEFA主催大会以外の国際試合や大会にも適用される\[19\]。
+2012年6月20日、今大会及び予選に出場した欧州各国代表に選手を貸し出した全575クラブへの計1億ユーロ（約99億円）の代償金の分配が決まり\[17\]、9月12日UEFAと[欧州クラブ協会](https://ja.wikipedia.org/wiki/欧州クラブ協会 "wikilink")(ECA)の交渉の結果、各クラブへの分配額が決定した\[18\]。前回の[2008年大会から大幅に増額され](../Page/UEFA_EURO_2008.md "wikilink")、さらに前回は本大会のみが代償金の対象であったが、今大会から予選もその対象となった。また、実際に負傷した選手への保険としては、2012年3月22日にUEFAとECAが合意した代表選手保険システムが今大会で初適用された。この保険は選手の国籍に関係なく、欧州全クラブに所属する全選手に対して適用され、公式戦、親善試合を問わず予定された全ての代表の国際試合がその保険の対象の試合であり、2012年9月1日以降はUEFA主催大会以外の国際試合や大会にも適用される\[19\]。
 
 ### 会場一覧
 
@@ -181,7 +181,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/ワルシャワ.md" title="wikilink">ワルシャワ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グダニスク" title="wikilink">グダニスク</a></p></td>
+<td><p><a href="../Page/グダニスク.md" title="wikilink">グダニスク</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ワルシャワ国立競技場" title="wikilink">国立競技場</a><br />
@@ -201,8 +201,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:PGE_Arena.jpeg" title="wikilink">190px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴロツワフ" title="wikilink">ヴロツワフ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポズナン" title="wikilink">ポズナン</a></p></td>
+<td><p><a href="../Page/ヴロツワフ.md" title="wikilink">ヴロツワフ</a></p></td>
+<td><p><a href="../Page/ポズナン.md" title="wikilink">ポズナン</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴロツワフ市立競技場" title="wikilink">ヴロツワフ市立競技場</a><br />
@@ -237,7 +237,7 @@
 
 本大会の抽選会は、[2011年](../Page/2011年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")にウクライナのキエフにて行なわれた。 抽選方法は、以下の通り。
 
-ホスト国であるポーランドはA1、ウクライナはD1に当てられることがすでに決まっており、ホスト国の2カ国と前回大会優勝のスペインは「ポット1」。 そのほかの出場国は、2010年の[ワールドカップ予選](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")・本選と2008年UEFA欧州選手権予選・本選、2012年のUEFA欧州選手権予選の成績を基準に算定された、UEFAランキングポイントに基づいて格付け後、抽選によって4グループに振り分ける。
+ホスト国であるポーランドはA1、ウクライナはD1に当てられることがすでに決まっており、ホスト国の2カ国と前回大会優勝のスペインは「ポット1」。 そのほかの出場国は、2010年の[ワールドカップ予選](../Page/FIFAワールドカップ.md "wikilink")・本選と2008年UEFA欧州選手権予選・本選、2012年のUEFA欧州選手権予選の成績を基準に算定された、UEFAランキングポイントに基づいて格付け後、抽選によって4グループに振り分ける。
 
 最終的な振り分けは、以下の通り。
 
@@ -362,7 +362,7 @@
 
 ※ギリシャとロシアを比較した際、得失点差ではロシアが上位であるが、直接対決でギリシャが勝利したため、ギリシャのグループリーグ突破となった。
 
-すべて現地時間（[UTC+2](https://ja.wikipedia.org/wiki/UTC+2 "wikilink")）
+すべて現地時間（[UTC+2](../Page/UTC+2.md "wikilink")）
 
 -----
 
@@ -458,7 +458,7 @@
 </tbody>
 </table>
 
-すべて現地時間（[UTC+3](https://ja.wikipedia.org/wiki/UTC+3 "wikilink")）
+すべて現地時間（[UTC+3](../Page/UTC+3.md "wikilink")）
 
 -----
 
@@ -554,7 +554,7 @@
 </tbody>
 </table>
 
-すべて現地時間（[UTC+2](https://ja.wikipedia.org/wiki/UTC+2 "wikilink")）
+すべて現地時間（[UTC+2](../Page/UTC+2.md "wikilink")）
 
 -----
 
@@ -650,7 +650,7 @@
 </tbody>
 </table>
 
-すべて現地時間（[UTC+3](https://ja.wikipedia.org/wiki/UTC+3 "wikilink")）
+すべて現地時間（[UTC+3](../Page/UTC+3.md "wikilink")）
 
 -----
 
@@ -712,7 +712,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・トーレス" title="wikilink">フェルナンド・トーレス</a></p></td>
+<td><p><a href="../Page/フェルナンド・トーレス.md" title="wikilink">フェルナンド・トーレス</a></p></td>
 <td><p>3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -729,7 +729,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
+<td><p><a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -753,11 +753,11 @@
 
 ### 大会最優秀選手
 
-  - [アンドレス・イニエスタ](https://ja.wikipedia.org/wiki/アンドレス・イニエスタ "wikilink")
+  - [アンドレス・イニエスタ](../Page/アンドレス・イニエスタ.md "wikilink")
 
 ### ゴールデンブーツ
 
-  - [フェルナンド・トーレス](https://ja.wikipedia.org/wiki/フェルナンド・トーレス "wikilink")
+  - [フェルナンド・トーレス](../Page/フェルナンド・トーレス.md "wikilink")
 
 ※複数選手が最多得点で並んだ場合はアシスト数で選出。それでも並んだ場合は、プレー時間の少ない選手が選出される\[27\]。
 
@@ -774,32 +774,32 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャンルイジ・ブッフォン" title="wikilink">ジャンルイジ・ブッフォン</a><br />
+<td><p><a href="../Page/ジャンルイジ・ブッフォン.md" title="wikilink">ジャンルイジ・ブッフォン</a><br />
  <a href="../Page/イケル・カシージャス.md" title="wikilink">イケル・カシージャス</a><br />
- <a href="https://ja.wikipedia.org/wiki/マヌエル・ノイアー" title="wikilink">マヌエル・ノイアー</a><br />
+ <a href="../Page/マヌエル・ノイアー.md" title="wikilink">マヌエル・ノイアー</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェラール・ピケ" title="wikilink">ジェラール・ピケ</a><br />
+<td><p><a href="../Page/ジェラール・ピケ.md" title="wikilink">ジェラール・ピケ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ファビオ・コエントラン" title="wikilink">ファビオ・コエントラン</a><br />
- <a href="https://ja.wikipedia.org/wiki/フィリップ・ラーム" title="wikilink">フィリップ・ラーム</a><br />
+ <a href="../Page/フィリップ・ラーム.md" title="wikilink">フィリップ・ラーム</a><br />
  <a href="https://ja.wikipedia.org/wiki/ケープレル・ラヴェラン・リマ・フェレイラ" title="wikilink">ペペ</a><br />
- <a href="https://ja.wikipedia.org/wiki/セルヒオ・ラモス" title="wikilink">セルヒオ・ラモス</a><br />
+ <a href="../Page/セルヒオ・ラモス.md" title="wikilink">セルヒオ・ラモス</a><br />
  <a href="https://ja.wikipedia.org/wiki/ジョルディ・アルバ" title="wikilink">ジョルディ・アルバ</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダニエレ・デ・ロッシ" title="wikilink">ダニエレ・デ・ロッシ</a><br />
+<td><p><a href="../Page/ダニエレ・デ・ロッシ.md" title="wikilink">ダニエレ・デ・ロッシ</a><br />
  <a href="https://ja.wikipedia.org/wiki/スティーブン・ジェラード" title="wikilink">スティーブン・ジェラード</a><br />
- <a href="https://ja.wikipedia.org/wiki/シャビ" title="wikilink">シャビ</a><br />
- <a href="https://ja.wikipedia.org/wiki/アンドレス・イニエスタ" title="wikilink">アンドレス・イニエスタ</a><br />
+ <a href="../Page/シャビ.md" title="wikilink">シャビ</a><br />
+ <a href="../Page/アンドレス・イニエスタ.md" title="wikilink">アンドレス・イニエスタ</a><br />
  <a href="https://ja.wikipedia.org/wiki/サミ・ケディラ" title="wikilink">サミ・ケディラ</a><br />
  <a href="https://ja.wikipedia.org/wiki/セルヒオ・ブスケツ・ブルゴス" title="wikilink">セルヒオ・ブスケツ</a><br />
  <a href="https://ja.wikipedia.org/wiki/メスト・エジル" title="wikilink">メスト・エジル</a><br />
- <a href="https://ja.wikipedia.org/wiki/アンドレア・ピルロ" title="wikilink">アンドレア・ピルロ</a><br />
- <a href="https://ja.wikipedia.org/wiki/シャビ・アロンソ" title="wikilink">シャビ・アロンソ</a><br />
+ <a href="../Page/アンドレア・ピルロ.md" title="wikilink">アンドレア・ピルロ</a><br />
+ <a href="../Page/シャビ・アロンソ.md" title="wikilink">シャビ・アロンソ</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マリオ・バロテッリ" title="wikilink">マリオ・バロテッリ</a><br />
  <a href="https://ja.wikipedia.org/wiki/フランセスク・ファブレガス" title="wikilink">セスク・ファブレガス</a><br />
- <a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a><br />
+ <a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a><br />
  <a href="https://ja.wikipedia.org/wiki/ズラタン・イブラヒモビッチ" title="wikilink">ズラタン・イブラヒモビッチ</a><br />
- <a href="https://ja.wikipedia.org/wiki/ダビド・シルバ" title="wikilink">ダビド・シルバ</a><br />
+ <a href="../Page/ダビド・シルバ.md" title="wikilink">ダビド・シルバ</a><br />
 </p></td>
 </tr>
 </tbody>
@@ -832,7 +832,7 @@
 <td></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/BBC" title="wikilink">BBC</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ITV_(イギリス)" title="wikilink">ITV</a></li>
+<li><a href="../Page/ITV_(イギリス).md" title="wikilink">ITV</a></li>
 </ul></td>
 <td><p>[30]</p></td>
 </tr>
@@ -851,12 +851,12 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オランダ放送協会" title="wikilink">NOS</a></p></td>
+<td><p><a href="../Page/オランダ放送協会.md" title="wikilink">NOS</a></p></td>
 <td><p>[33]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ギリシャ国営放送" title="wikilink">ERT</a></p></td>
+<td><p><a href="../Page/ギリシャ国営放送.md" title="wikilink">ERT</a></p></td>
 <td><p>[34]</p></td>
 </tr>
 <tr class="even">
@@ -868,7 +868,7 @@
 <td></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/スウェーデン・テレビ" title="wikilink">SVT</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TV4_(スウェーデン)" title="wikilink">TV4</a></li>
+<li><a href="../Page/TV4_(スウェーデン).md" title="wikilink">TV4</a></li>
 <li>Canal Digital</li>
 </ul></td>
 <td><p>[36]</p></td>
@@ -898,8 +898,8 @@
 <tr class="odd">
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ドイツ公共放送連盟" title="wikilink">ARD</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/第2ドイツテレビ" title="wikilink">ZDF</a></li>
+<li><a href="../Page/ドイツ公共放送連盟.md" title="wikilink">ARD</a></li>
+<li><a href="../Page/第2ドイツテレビ.md" title="wikilink">ZDF</a></li>
 </ul></td>
 <td><p>[41]</p></td>
 </tr>
@@ -926,15 +926,15 @@
 <td></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/YLE" title="wikilink">YLE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MTV3" title="wikilink">MTV3</a></li>
+<li><a href="../Page/MTV3.md" title="wikilink">MTV3</a></li>
 </ul></td>
 <td><p>[46]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/TF1" title="wikilink">TF1</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/M6_(テレビ局)" title="wikilink">M6</a></li>
+<li><a href="../Page/TF1.md" title="wikilink">TF1</a></li>
+<li><a href="../Page/M6_(テレビ局).md" title="wikilink">M6</a></li>
 <li>BeIN Sport</li>
 </ul></td>
 <td><p>[47]</p></td>
@@ -942,7 +942,7 @@
 <tr class="odd">
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/RTBF" title="wikilink">RTBF</a></li>
+<li><a href="../Page/RTBF.md" title="wikilink">RTBF</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/VRT" title="wikilink">VRT</a></li>
 </ul></td>
 <td><p>[48][49]</p></td>
@@ -986,7 +986,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ESPN" title="wikilink">ESPN</a></p></td>
+<td><p><a href="../Page/ESPN.md" title="wikilink">ESPN</a></p></td>
 <td><p>[54]</p></td>
 </tr>
 <tr class="even">
@@ -1000,7 +1000,7 @@
 <tr class="odd">
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/スペシャル・ブロードキャスティング・サービス" title="wikilink">SBS</a></li>
+<li><a href="../Page/スペシャル・ブロードキャスティング・サービス.md" title="wikilink">SBS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Setanta_Sports_Australia" title="wikilink">Setanta Sports</a></li>
 </ul></td>
 <td><p>[56][57]</p></td>
@@ -1008,14 +1008,14 @@
 <tr class="even">
 <td></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/The_Sports_Network" title="wikilink">TSN</a></li>
+<li><a href="../Page/The_Sports_Network.md" title="wikilink">TSN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Réseau_des_sports" title="wikilink">RDS</a></li>
 </ul></td>
 <td><p>[58]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/韓国放送公社" title="wikilink">KBS</a></p></td>
+<td><p><a href="../Page/韓国放送公社.md" title="wikilink">KBS</a></p></td>
 <td><p>[59]</p></td>
 </tr>
 <tr class="even">
@@ -1032,13 +1032,13 @@
 <td></td>
 <td><ul>
 <li><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS</a></li>
+<li><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></li>
 </ul></td>
 <td><p>[62]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘジ・グローボ" title="wikilink">ヘジ・グローボ</a></p></td>
+<td><p><a href="../Page/ヘジ・グローボ.md" title="wikilink">ヘジ・グローボ</a></p></td>
 <td><p>[63][64]</p></td>
 </tr>
 <tr class="even">
@@ -1050,7 +1050,7 @@
 <td></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/TVアステカ" title="wikilink">TVアステカ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/テレビサ" title="wikilink">テレビサ</a></li>
+<li><a href="../Page/テレビサ.md" title="wikilink">テレビサ</a></li>
 </ul></td>
 <td><p>[66][67]</p></td>
 </tr>
@@ -1093,9 +1093,9 @@
 8.
 9.  [セルビアの暴動で中止のEURO予選、3－0でのイタリア勝利が決定](http://news.livedoor.com/article/detail/5106819/) Livedoorニュース Gazetta.it 2010年10月30日
 10. [1988年](../Page/1988年.md "wikilink")までは西ドイツとして出場。
-11. [1988年](../Page/1988年.md "wikilink")まではソビエト連邦として、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")は独立国家共同体(CIS)として出場。
+11. [1988年](../Page/1988年.md "wikilink")まではソビエト連邦として、[1992年](../Page/1992年.md "wikilink")は独立国家共同体(CIS)として出場。
 12. 1980年大会までは3位決定戦が行われており、イングランドは1968年に旧ソ連との3位決定戦を勝って3位としている。
-13. [チェコスロバキア時代を含めた成績](https://ja.wikipedia.org/wiki/サッカーチェコスロバキア代表 "wikilink")。[1996年](../Page/1996年.md "wikilink")よりチェコ代表として出場。
+13. [チェコスロバキア時代を含めた成績](../Page/サッカーチェコスロバキア代表.md "wikilink")。[1996年](../Page/1996年.md "wikilink")よりチェコ代表として出場。
 14. [欧州サッカー連盟理事会　追加審判員制度を支持-スポニチ2012年6月30日](http://megalodon.jp/2012-0701-0916-10/www.sponichi.co.jp/soccer/news/2012/06/30/kiji/K20120630003581120.html)
 15. 初戦でイタリアに先制されて引き分け、第3戦でクロアチアに終了間際のゴールで辛勝
 16. スペインはイタリアに公式戦初勝利（PK戦除く）

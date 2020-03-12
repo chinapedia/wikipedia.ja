@@ -1,7 +1,7 @@
 > この記事は[TRF Lif-e-Motions TOUR 2006](https://ja.wikipedia.org/wiki/TRF_Lif-e-Motions_TOUR_2006)から翻訳されています。
 
 
-『**TRF Lif-e-Motions TOUR 2006**』は、[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")が同年[2月15日](../Page/2月15日.md "wikilink")にリリースされた7年振りとなるオリジナル・アルバム『[Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink")』を引っ提げて、[6月4日](../Page/6月4日.md "wikilink")から[7月1日](../Page/7月1日.md "wikilink")まで開催された全国ツアー。なお、単独としてツアーを開催されるのは、[1999年](../Page/1999年.md "wikilink")「exicoast tour」以来、およそ7年ぶりの開催となった。
+『**TRF Lif-e-Motions TOUR 2006**』は、[TRF](../Page/TRF.md "wikilink")が同年[2月15日](../Page/2月15日.md "wikilink")にリリースされた7年振りとなるオリジナル・アルバム『[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")』を引っ提げて、[6月4日](../Page/6月4日.md "wikilink")から[7月1日](../Page/7月1日.md "wikilink")まで開催された全国ツアー。なお、単独としてツアーを開催されるのは、[1999年](../Page/1999年.md "wikilink")「exicoast tour」以来、およそ7年ぶりの開催となった。
 
 この模様は、同年[8月30日](../Page/8月30日.md "wikilink")に映像作品として最終日からわずか、一ヶ月足らずのリリースとなった。
 

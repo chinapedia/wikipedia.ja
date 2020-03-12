@@ -1,19 +1,19 @@
 > この記事は[SDIII SUPER G-ARMS](https://ja.wikipedia.org/wiki/SDIII_SUPER_G-ARMS)から翻訳されています。
 
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| **[SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記 "wikilink")シリーズ** |
-| **通番**                                                                |
-| **第2作**                                                               |
-| **第3作**                                                               |
-| **第4作**                                                               |
+|                                                    |
+| -------------------------------------------------- |
+| **[SDコマンド戦記](../Page/SDコマンド戦記.md "wikilink")シリーズ** |
+| **通番**                                             |
+| **第2作**                                            |
+| **第3作**                                            |
+| **第4作**                                            |
 
-**SDコマンド戦記III SUPER G-ARMS**（**エスディーコマンドせんきスリー スーパージーアームズ**）は、[SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記 "wikilink")シリーズの第三作である。
+**SDコマンド戦記III SUPER G-ARMS**（**エスディーコマンドせんきスリー スーパージーアームズ**）は、[SDコマンド戦記](../Page/SDコマンド戦記.md "wikilink")シリーズの第三作である。
 
 ## 概要
 
-前々作のミリタリー、前作の近未来都市からまた趣を変えて、宇宙戦争を舞台としたSF色の強いシリーズである。[講談社](../Page/講談社.md "wikilink")[デラックスボンボン](https://ja.wikipedia.org/wiki/デラックスボンボン "wikilink")において漫画連載（漫画：[神田正宏](https://ja.wikipedia.org/wiki/神田正宏 "wikilink")）が展開された。本作をもってシリーズは一応の終結を迎えた。これに合わせて商品を多く展開していた[元祖SDガンダム](https://ja.wikipedia.org/wiki/元祖SDガンダム "wikilink")は、ナンバリングをリセットし新規に開始されることとなった。
+前々作のミリタリー、前作の近未来都市からまた趣を変えて、宇宙戦争を舞台としたSF色の強いシリーズである。[講談社](../Page/講談社.md "wikilink")[デラックスボンボン](../Page/デラックスボンボン.md "wikilink")において漫画連載（漫画：[神田正宏](https://ja.wikipedia.org/wiki/神田正宏 "wikilink")）が展開された。本作をもってシリーズは一応の終結を迎えた。これに合わせて商品を多く展開していた[元祖SDガンダム](../Page/元祖SDガンダム.md "wikilink")は、ナンバリングをリセットし新規に開始されることとなった。
 
 ## あらすじ
 
@@ -145,7 +145,7 @@
   -
     かつてVコマンドと共に戦った戦士。自由を愛する精神から軍を離れ、ザタリオンを狙う海賊暮らしをしていた。高機動支援メカ「コスモシャーク」を操る。
     **パイレーツ[ボール](../Page/ボール_\(ガンダムシリーズ\).md "wikilink")**が傍に常に控えている。
-    他メンバーは副官**[百式改](https://ja.wikipedia.org/wiki/百式_\(ガンダムシリーズ\)#百式改 "wikilink")**、几帳面な**[ジム・カスタム](https://ja.wikipedia.org/wiki/ジム・カスタム "wikilink")**、お調子者の**[ガンキャノンディテクター](https://ja.wikipedia.org/wiki/メタス#ガンキャノン・ディテクター "wikilink")**。
+    他メンバーは副官**[百式改](https://ja.wikipedia.org/wiki/百式_\(ガンダムシリーズ\)#百式改 "wikilink")**、几帳面な**[ジム・カスタム](../Page/ジム・カスタム.md "wikilink")**、お調子者の**[ガンキャノンディテクター](https://ja.wikipedia.org/wiki/メタス#ガンキャノン・ディテクター "wikilink")**。
 
 ### 独立宇宙海賊団ザクズパイレーツ
 
@@ -219,7 +219,7 @@
   - [ビギナ・ギナ](https://ja.wikipedia.org/wiki/ビギナ・ギナ#ビギナ・ギナ "wikilink")
     カイザーに滅ぼされた王家の皇女（ボンボンの漫画版では王子）だが、カイザーの洗脳を受けている。
   - ギガコマンダー・フレイムサザビー（[サザビー](../Page/サザビー_\(ガンダムシリーズ\).md "wikilink")）
-    かつてVコマンドと戦ったコスモ・ザタリオン赤の部隊の戦士。メンバーは北部担当**[マラサイ](https://ja.wikipedia.org/wiki/マラサイ "wikilink")**、南部担当**[リゲルグ](https://ja.wikipedia.org/wiki/リゲルグ "wikilink")**、東部担当**[ヤクト・ドーガ](https://ja.wikipedia.org/wiki/ヤクト・ドーガ "wikilink")**、西部担当**[ドワッジ改](https://ja.wikipedia.org/wiki/ドワッジ#ドワッジ改 "wikilink")**。
+    かつてVコマンドと戦ったコスモ・ザタリオン赤の部隊の戦士。メンバーは北部担当**[マラサイ](../Page/マラサイ.md "wikilink")**、南部担当**[リゲルグ](https://ja.wikipedia.org/wiki/リゲルグ "wikilink")**、東部担当**[ヤクト・ドーガ](../Page/ヤクト・ドーガ.md "wikilink")**、西部担当**[ドワッジ改](https://ja.wikipedia.org/wiki/ドワッジ#ドワッジ改 "wikilink")**。
 
 他に**[ジャムルフィン](https://ja.wikipedia.org/wiki/ジャムル・フィン "wikilink")**、**[バイアラン](https://ja.wikipedia.org/wiki/バイアラン "wikilink")**ら兵士や、モビルモンスター**[α・アジール](https://ja.wikipedia.org/wiki/α・アジール "wikilink")**、**[ゾック](../Page/ゾック.md "wikilink")**らがいる。
 
@@ -229,9 +229,9 @@
 
 ### スタッフ
 
-  - 監督・脚本：[アミノテツロー](https://ja.wikipedia.org/wiki/アミノテツロー "wikilink")
-  - プロデューサー：[内田健二](https://ja.wikipedia.org/wiki/内田健二 "wikilink") [南雅彦](https://ja.wikipedia.org/wiki/南雅彦 "wikilink")
-  - 企画：[サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - 監督・脚本：[アミノテツロー](../Page/アミノテツロー.md "wikilink")
+  - プロデューサー：[内田健二](../Page/内田健二.md "wikilink") [南雅彦](../Page/南雅彦.md "wikilink")
+  - 企画：[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - 原作：[矢立肇](../Page/矢立肇.md "wikilink") [富野由悠季](../Page/富野由悠季.md "wikilink")
   - 撮影：伊藤修一
   - 美術：東潤一
@@ -243,21 +243,21 @@
 ### 声の出演
 
   - トロン：[折笠愛](../Page/折笠愛.md "wikilink")
-  - サザビー：[戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
-  - コマンドF90：[梅津秀行](https://ja.wikipedia.org/wiki/梅津秀行 "wikilink")
-  - キャプテンF91：[松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")
-  - SAL：[江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
-  - フューラーコマンダー：[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
-  - ヘビメタガンダム：[山崎たくみ](https://ja.wikipedia.org/wiki/山崎たくみ "wikilink")
-  - ハリケーンガンダム：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
-  - 部下：[巻島直樹](https://ja.wikipedia.org/wiki/巻島直樹 "wikilink")
+  - サザビー：[戸谷公次](../Page/戸谷公次.md "wikilink")
+  - コマンドF90：[梅津秀行](../Page/梅津秀行.md "wikilink")
+  - キャプテンF91：[松本保典](../Page/松本保典.md "wikilink")
+  - SAL：[江原正士](../Page/江原正士.md "wikilink")
+  - フューラーコマンダー：[梁田清之](../Page/梁田清之.md "wikilink")
+  - ヘビメタガンダム：[山崎たくみ](../Page/山崎たくみ.md "wikilink")
+  - ハリケーンガンダム：[飛田展男](../Page/飛田展男.md "wikilink")
+  - 部下：[巻島直樹](../Page/巻島直樹.md "wikilink")
 
 ## 関連項目
 
   - [SDガンダム](../Page/SDガンダム.md "wikilink")
-  - [元祖SDガンダム](https://ja.wikipedia.org/wiki/元祖SDガンダム "wikilink")
-  - [SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記 "wikilink")
-  - [武者ガンダム](https://ja.wikipedia.org/wiki/武者ガンダム "wikilink")
-  - [騎士ガンダム](https://ja.wikipedia.org/wiki/騎士ガンダム "wikilink")
+  - [元祖SDガンダム](../Page/元祖SDガンダム.md "wikilink")
+  - [SDコマンド戦記](../Page/SDコマンド戦記.md "wikilink")
+  - [武者ガンダム](../Page/武者ガンダム.md "wikilink")
+  - [騎士ガンダム](../Page/騎士ガンダム.md "wikilink")
 
 [Category:SDガンダム](https://ja.wikipedia.org/wiki/Category:SDガンダム "wikilink") [Category:1993年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1993年のアニメ映画 "wikilink") [Category:アミノテツローの監督映画](https://ja.wikipedia.org/wiki/Category:アミノテツローの監督映画 "wikilink")

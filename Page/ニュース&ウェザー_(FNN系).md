@@ -1,11 +1,11 @@
 > この記事は[\& \(FNN\)](https://ja.wikipedia.org/wiki/\&_\(FNN\))から翻訳されています。
 
 
-『**ニュース&ウェザー**』（ニュースアンドウェザー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から同年[11月2日](../Page/11月2日.md "wikilink")までと[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から同年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")にかけて[フジテレビで放送された平日](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
+『**ニュース&ウェザー**』（ニュースアンドウェザー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から同年[11月2日](../Page/11月2日.md "wikilink")までと[1992年](../Page/1992年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から同年[4月3日](../Page/4月3日.md "wikilink")にかけて[フジテレビで放送された平日](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
 
 ## 第1期
 
-1990年10月1日 - 11月2日、『[アンテナホット7](https://ja.wikipedia.org/wiki/アンテナホット7 "wikilink")』と『[朝だ\!どうなる?](https://ja.wikipedia.org/wiki/朝だ!どうなる? "wikilink")』の[つなぎ番組](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")として約1か月間にわたって放送。
+1990年10月1日 - 11月2日、『[アンテナホット7](../Page/アンテナホット7.md "wikilink")』と『[朝だ\!どうなる?](../Page/朝だ!どうなる?.md "wikilink")』の[つなぎ番組](../Page/つなぎ番組.md "wikilink")として約1か月間にわたって放送。
 
 ### 出演者
 

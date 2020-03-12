@@ -5,9 +5,9 @@
 
 ## 概要
 
-[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")がソロ活動を開始するのに伴い設立されたレーベル[blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")からリリースされた。
+[キリト](../Page/キリト.md "wikilink")がソロ活動を開始するのに伴い設立されたレーベル[blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")からリリースされた。
 
-アルバム『**[FREEZE](https://ja.wikipedia.org/wiki/FREEZE "wikilink")**』以降の活動再開を想定して作られた曲であったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")の解散発表によりPIERROTのラストシングルとしてリリースされた。
+アルバム『**[FREEZE](../Page/FREEZE.md "wikilink")**』以降の活動再開を想定して作られた曲であったが、[2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")の解散発表によりPIERROTのラストシングルとしてリリースされた。
 
 また、[2014年](../Page/2014年.md "wikilink")4月9日に突如「**PIERROT 2014.04.12 18:00 新宿アルタビジョン**」といった意味深な告知を受け、当日[4月12日](../Page/4月12日.md "wikilink")18:00の新宿アルタビジョンのスクリーンには「**HELLO**」のミュージックビデオが流れ始めた。ビデオのエンディングでは、倒れているマイクスタンドをキリトの手がゆっくりと拾い上げるといった新たな描写が加えられ、「I said HELLO」の文字が浮かび上がり、コンサート**＜DICTATORS CIRCUS FINAL＞**開催の発表、PIERROTの再集結が発表された\[1\]\[2\]。
 

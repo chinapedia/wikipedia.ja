@@ -5,7 +5,7 @@
 
 同タイトルは、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")国内向けの韓国サーバ－、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内向けの日本サーバ、多[国籍](../Page/国籍.md "wikilink")向けのグローバルサーバで運営されている。なお、中国や台湾においても運営されていたものの、いずれも終了された。
 
-日本では、Valofe(ヴァロフ)が日本語版を運営しており、ゲームオンのサイトを介してプレイする仕様となっている。[ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")ジャパンからのプレイは2014年12月をもって終了。
+日本では、Valofe(ヴァロフ)が日本語版を運営しており、ゲームオンのサイトを介してプレイする仕様となっている。[ハンゲーム](../Page/ハンゲーム.md "wikilink")ジャパンからのプレイは2014年12月をもって終了。
 
 それぞれの[サーバ](../Page/サーバ.md "wikilink")が指定された地域以外からはアクセスできないようになっているが、[プロキシサーバ](https://ja.wikipedia.org/wiki/プロキシサーバ "wikilink")等を経由してアクセスしサーバ内経済に影響を与えている。
 
@@ -72,7 +72,7 @@
 
 ### 国を束ねる君主の存在
 
-ゲーム内の最高権力者として「君主」の存在がある。 君主はサーバ内のプレイヤーから立候補し、プレイヤーの選挙によって決定する。 選挙に当選した君主は、[ゲームマスター](https://ja.wikipedia.org/wiki/ゲームマスター "wikilink")（GM）に君主宣誓を行い、ゲームマスターから君主服一式を貸与され君主の権限を行使することができる。
+ゲーム内の最高権力者として「君主」の存在がある。 君主はサーバ内のプレイヤーから立候補し、プレイヤーの選挙によって決定する。 選挙に当選した君主は、[ゲームマスター](../Page/ゲームマスター.md "wikilink")（GM）に君主宣誓を行い、ゲームマスターから君主服一式を貸与され君主の権限を行使することができる。
 
 #### 君主の権限
 
@@ -238,28 +238,28 @@
 
 ## 料金体系
 
-韓国サーバをはじめとするすべてのサーバで、基本料金無料でゲームを楽しむことができるが、一部アイテムを購入する際に通貨を使用する（[アイテム課金](https://ja.wikipedia.org/wiki/アイテム課金 "wikilink")制）。
+韓国サーバをはじめとするすべてのサーバで、基本料金無料でゲームを楽しむことができるが、一部アイテムを購入する際に通貨を使用する（[アイテム課金](../Page/アイテム課金.md "wikilink")制）。
 **- JEWEL**
 
-　　 通貨を支払うことで購入する。[ゲームオン](https://ja.wikipedia.org/wiki/ゲームオン "wikilink")が提供するJEWELを購入することで、1円＝1JEWELとしてゲーム内で使用可能。購入ポイントに応じてボーナスが付与される仕様は、[GMOゲームポット](https://ja.wikipedia.org/wiki/GMOゲームポット "wikilink")からNdoors社への移管をもって廃止された。
+　　 通貨を支払うことで購入する。[ゲームオン](../Page/ゲームオン.md "wikilink")が提供するJEWELを購入することで、1円＝1JEWELとしてゲーム内で使用可能。購入ポイントに応じてボーナスが付与される仕様は、[GMOゲームポット](../Page/GMOゲームポット.md "wikilink")からNdoors社への移管をもって廃止された。
 
 \- **<s>クンシュポイント(KP)</s>**
-　　通貨を支払うことで購入する。KPは[クレジットカード](../Page/クレジットカード.md "wikilink")・[GASH](https://ja.wikipedia.org/wiki/GASH "wikilink")・[NET CASH](https://ja.wikipedia.org/wiki/NET_CASH "wikilink")・[WebMoney](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")・[BitCash](https://ja.wikipedia.org/wiki/BitCash "wikilink")が使用できる。ゲームポット経由の場合はこの他、携帯決済（Docomoのみ）、[Pay-easy](https://ja.wikipedia.org/wiki/Pay-easy "wikilink")、[モバイルSuica](https://ja.wikipedia.org/wiki/モバイルSuica "wikilink")が利用できるが一旦GP（ゲームポットポイント）を購入し、GPでKPを買う形になる。日本円では1KP=10円。300KP以上の購入でKPボーナスがつく。
+　　通貨を支払うことで購入する。KPは[クレジットカード](../Page/クレジットカード.md "wikilink")・[GASH](https://ja.wikipedia.org/wiki/GASH "wikilink")・[NET CASH](https://ja.wikipedia.org/wiki/NET_CASH "wikilink")・[WebMoney](../Page/ウェブマネー.md "wikilink")・[BitCash](../Page/BitCash.md "wikilink")が使用できる。ゲームポット経由の場合はこの他、携帯決済（Docomoのみ）、[Pay-easy](../Page/Pay-easy.md "wikilink")、[モバイルSuica](../Page/モバイルSuica.md "wikilink")が利用できるが一旦GP（ゲームポットポイント）を購入し、GPでKPを買う形になる。日本円では1KP=10円。300KP以上の購入でKPボーナスがつく。
 
 ## 主な出来事
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") 君主のクローズβテスト開始
+  - [2005年](../Page/2005年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink") 君主のクローズβテスト開始
   - 2005年[12月28日](../Page/12月28日.md "wikilink") 君主のオープンβ開始
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") 君主正式サービス開始
+  - [2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") 君主正式サービス開始
   - 2006年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 中国籍とみられる天与売り露天の登場でモールアイテムを中心とした[デフレーション](../Page/デフレーション.md "wikilink")になる。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") [クレジットカード](../Page/クレジットカード.md "wikilink")会社の依頼で不正使用の疑いのあるIDの凍結。
+  - [2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") [クレジットカード](../Page/クレジットカード.md "wikilink")会社の依頼で不正使用の疑いのあるIDの凍結。
   - 2007年[3月28日](../Page/3月28日.md "wikilink") 大規模アップデート。公式ページのリニューアル。日本版のタイトルが「君主」から「君主online」に変更。
-  - 2007年[4月1日](../Page/4月1日.md "wikilink") 対モンスターのダメージが数十倍の[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")に。
-  - 2007年[4月7日](../Page/4月7日.md "wikilink")・[8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") 君主online初の24時間イベント開催
+  - 2007年[4月1日](../Page/4月1日.md "wikilink") 対モンスターのダメージが数十倍の[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")[ジョーク](../Page/ジョーク.md "wikilink")に。
+  - 2007年[4月7日](../Page/4月7日.md "wikilink")・[8日](../Page/4月8日.md "wikilink") 君主online初の24時間イベント開催
   - 2007年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")・[8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") 君主online2回目の24時間イベント実施
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") ゲーム運営業務をゲームポットからエヌドアーズエンターテインメントへ移管
   - [2009年](../Page/2009年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") 君主online初の[デノミネーション](../Page/デノミネーション.md "wikilink")実施する予定だったが、中止
-  - [2009年](../Page/2009年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") 中止されていたデノミネーションを実施
+  - [2009年](../Page/2009年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink") 中止されていたデノミネーションを実施
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月15日](../Page/12月15日.md "wikilink") [NEXON CorporationのNdoors社買収に伴い](https://ja.wikipedia.org/wiki/NEXON "wikilink")、ゲーム運営業務をエヌドアーズエンターテインメントからネクソンへ移管
   - [2014年](../Page/2014年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink") ゲーム運営会社がネクソンからValofeへ移管
 
@@ -276,7 +276,7 @@
         日本語環境のブラウザーでアクセスするとハンゲームメインまたはハンゲームジャパンにアクセスを促すページに[リダイレクト](https://ja.wikipedia.org/wiki/リダイレクト "wikilink")([JavaScript](../Page/JavaScript.md "wikilink")使用)される。
   - [君主グローバル公式サイト](http://luminary.ndoorsgames.com/center/default.asp)
       -
-        日本語環境のブラウザーでアクセスすると日本の公式サイトにリダイレクト([サーバサイド言語](https://ja.wikipedia.org/wiki/サーバサイド言語 "wikilink")または[.htaccess](https://ja.wikipedia.org/wiki/.htaccess "wikilink")を使用。)される。
+        日本語環境のブラウザーでアクセスすると日本の公式サイトにリダイレクト([サーバサイド言語](https://ja.wikipedia.org/wiki/サーバサイド言語 "wikilink")または[.htaccess](../Page/.htaccess.md "wikilink")を使用。)される。
   - [Ndoors社](http://www.ndoors.com/)（開発元 韓国・グローバルの運営会社）
 
 [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MMORPG](https://ja.wikipedia.org/wiki/Category:MMORPG "wikilink") [Category:大韓民国で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:大韓民国で開発されたコンピュータゲーム "wikilink") [Category:Gamania](https://ja.wikipedia.org/wiki/Category:Gamania "wikilink") [Category:Ndoors](https://ja.wikipedia.org/wiki/Category:Ndoors "wikilink")

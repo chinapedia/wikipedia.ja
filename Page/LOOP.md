@@ -1,11 +1,11 @@
 > この記事は[LOOP](https://ja.wikipedia.org/wiki/LOOP)から翻訳されています。
 
 
-株式会社**ループ**(LOOP)は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ビーイング](../Page/ビーイング.md "wikilink")グループ傘下の企業で[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")個人のマネージメント会社である。
+株式会社**ループ**(LOOP)は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ビーイング](../Page/ビーイング.md "wikilink")グループ傘下の企業で[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")個人のマネージメント会社である。
 
 ## 会社概要
 
-〒106-0032 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")5-2-1 ほうらいやビル5F
+〒106-0032 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")5-2-1 ほうらいやビル5F
 
 代表取締役：升田年則
 
@@ -27,17 +27,17 @@
 
 ## 過去に所属していたアーティスト・タレント・モデル
 
-  - [石井琴里](https://ja.wikipedia.org/wiki/石井琴里 "wikilink")
-  - [川原真琴](https://ja.wikipedia.org/wiki/川原真琴 "wikilink")
+  - [石井琴里](../Page/石井琴里.md "wikilink")
+  - [川原真琴](../Page/川原真琴.md "wikilink")
   - [栗川太一](https://ja.wikipedia.org/wiki/栗川太一 "wikilink")
   - [栗田美紀](https://ja.wikipedia.org/wiki/栗田美紀 "wikilink")
   - [杉本瞳](https://ja.wikipedia.org/wiki/杉本瞳 "wikilink")（現 [秋葉里枝](https://ja.wikipedia.org/wiki/秋葉里枝 "wikilink")）
   - [高木李湖](https://ja.wikipedia.org/wiki/高木李湖 "wikilink")
   - [千田光](https://ja.wikipedia.org/wiki/千田光 "wikilink")
-  - [立花未樹](https://ja.wikipedia.org/wiki/立花未樹 "wikilink")（現 [宮田麻里乃](https://ja.wikipedia.org/wiki/宮田麻里乃 "wikilink")）
+  - [立花未樹](https://ja.wikipedia.org/wiki/立花未樹 "wikilink")（現 [宮田麻里乃](../Page/宮田麻里乃.md "wikilink")）
   - [滴草由実](../Page/滴草由実.md "wikilink")（white dreamへ移籍）
-  - [竹井詩織里](https://ja.wikipedia.org/wiki/竹井詩織里 "wikilink")（一般の企業へ就職）
-  - [麻亜里](https://ja.wikipedia.org/wiki/麻亜里 "wikilink")（white dreamへ移籍）
+  - [竹井詩織里](../Page/竹井詩織里.md "wikilink")（一般の企業へ就職）
+  - [麻亜里](../Page/麻亜里.md "wikilink")（white dreamへ移籍）
   - [上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")（2010年7月契約解除）
 
 ## 関連項目

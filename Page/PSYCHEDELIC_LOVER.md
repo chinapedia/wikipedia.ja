@@ -5,14 +5,14 @@
 
 ## 概要
 
-表題曲は後に[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")され、次作「[HILL -幻覚の雪-](../Page/HILL_-幻覚の雪-.md "wikilink")」のカップリング曲として収録された。広島テレビ「[松本紳助](https://ja.wikipedia.org/wiki/松本紳助 "wikilink")」エンディングテーマ。CDジャケットのアートディレクターは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")。
+表題曲は後に[リミックス](../Page/リミックス.md "wikilink")され、次作「[HILL -幻覚の雪-](../Page/HILL_-幻覚の雪-.md "wikilink")」のカップリング曲として収録された。広島テレビ「[松本紳助](https://ja.wikipedia.org/wiki/松本紳助 "wikilink")」エンディングテーマ。CDジャケットのアートディレクターは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")。
 
 ## 収録曲
 
 1.  **PSYCHEDELIC LOVER**
-    (作詞：[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")／作曲：[アイジ](https://ja.wikipedia.org/wiki/Aiji "wikilink")／編曲：PIERROT・[西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink"))
+    (作詞：[キリト](../Page/キリト.md "wikilink")／作曲：[アイジ](../Page/Aiji.md "wikilink")／編曲：PIERROT・[西脇辰弥](../Page/西脇辰弥.md "wikilink"))
 2.  **LANDSCAPE**
-    (作詞：キリト／作曲：キリト・[潤](https://ja.wikipedia.org/wiki/潤 "wikilink")／編曲：PIERROT・西脇辰弥)
+    (作詞：キリト／作曲：キリト・[潤](../Page/潤.md "wikilink")／編曲：PIERROT・西脇辰弥)
 3.  **SUPER STRING THEORY (10th demension mix)by Maki Fujii**
     (作詞：キリト　作曲：キリト)
 

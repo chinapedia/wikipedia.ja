@@ -1,19 +1,19 @@
 > この記事は[WINDING ROAD \(\)](https://ja.wikipedia.org/wiki/WINDING_ROAD_\(\))から翻訳されています。
 
 
-『**WINDING ROAD**』（ウィンディング ロード）は、[絢香×コブクロ](https://ja.wikipedia.org/wiki/絢香×コブクロ "wikilink")の1枚目のシングル。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から発売。
+『**WINDING ROAD**』（ウィンディング ロード）は、[絢香×コブクロ](../Page/絢香×コブクロ.md "wikilink")の1枚目のシングル。[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売。
 
 ## 解説
 
 同じレコード会社の所属である[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")と[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』での共演をきっかけに3人の共作で作られた楽曲。番組収録後に絢香がコブクロの楽屋へ訪問し、近日行なわれる予定だった「ワーナーミュージックジャパン・コンベンションライブ」で「一緒に歌いたい」と言ったところ、小渕が「どうせなら1曲作ろう」という事で作られた曲。最初は曲丸々の作成予定はなくカバーを行なう予定だった。また、夜中に絢香が小渕に歌詞の内容をメールする事もあった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")夏のライブで初披露されてから発売が待たれていたシングルである。この曲は[日産](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")[キューブのCMソングのために設立されたワーナーミュージック](../Page/日産・キューブ.md "wikilink")・ジャパンの新レーベルである[CUBE LOVES MUSICからの発売となり](https://ja.wikipedia.org/wiki/日産・キューブ#CUBE_LOVES_MUSIC "wikilink")、本作がレーベル第1弾作品となる。
+[2006年](../Page/2006年.md "wikilink")夏のライブで初披露されてから発売が待たれていたシングルである。この曲は[日産](../Page/日産自動車.md "wikilink")[キューブのCMソングのために設立されたワーナーミュージック](../Page/日産・キューブ.md "wikilink")・ジャパンの新レーベルである[CUBE LOVES MUSICからの発売となり](https://ja.wikipedia.org/wiki/日産・キューブ#CUBE_LOVES_MUSIC "wikilink")、本作がレーベル第1弾作品となる。
 
 ジャケット写真には絢香と小渕、黒田の三人の手を重ねたものが使用されている。
 
 オリコン週間ランキングでは初登場2位を記録した。シングルの初動売上で絢香、コブクロ共に初めて10万枚を超えた。半年後も週間オリコンチャートで100位前後を記録した。フル配信（着うたフル＋PC配信）で100万DLを突破する大ヒットとなった。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")の『[第58回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第58回NHK紅白歌合戦 "wikilink")』でもこの曲が披露されたが、事前の予告はなされなかった。なおこれにより2008年1月第1週目のオリコンチャートでは、100位圏外から20位台まで順位が上昇している。
+[2007年](../Page/2007年.md "wikilink")の『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』でもこの曲が披露されたが、事前の予告はなされなかった。なおこれにより2008年1月第1週目のオリコンチャートでは、100位圏外から20位台まで順位が上昇している。
 
 ## 収録曲
 
@@ -33,14 +33,14 @@
 
 ## 収録アルバム
 
-  - 「[Sing to the Sky](https://ja.wikipedia.org/wiki/Sing_to_the_Sky "wikilink")」（\#1）
+  - 「[Sing to the Sky](../Page/Sing_to_the_Sky.md "wikilink")」（\#1）
   - 「[ayaka's History 2006-2009](https://ja.wikipedia.org/wiki/ayaka's_History_2006-2009 "wikilink")」（\#1・Disc1）
   - 「[ALL SINGLES BEST 2](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_2 "wikilink")」（\#1・DISC1）
   - 「[ALL TIME BEST 1998-2018](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_1998-2018 "wikilink")」（\#4）
 
 ## カバー
 
-  - [音羽ゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")（2009年発売の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』に収録）
+  - [音羽ゆりかご会](../Page/音羽ゆりかご会.md "wikilink")（2009年発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』に収録）
   - [つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")（2009年、アルバム『[つるのうた](https://ja.wikipedia.org/wiki/つるのうた "wikilink")』に収録）
   - [BESTIEM](https://ja.wikipedia.org/wiki/BESTIEM "wikilink")（2018年、カバーアルバム『[BEST TIME cover](https://ja.wikipedia.org/wiki/BEST_TIME_cover "wikilink")』に収録）
 

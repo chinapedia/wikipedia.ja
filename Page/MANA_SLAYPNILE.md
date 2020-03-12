@@ -1,13 +1,13 @@
 > この記事は[MANA SLAYPNILE](https://ja.wikipedia.org/wiki/MANA_SLAYPNILE)から翻訳されています。
 
 
-**MANA SLAYPNILE**（マナ・[スレイプニル](../Page/スレイプニル.md "wikilink")）は[高知県](../Page/高知県.md "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に行われた「[FMフェスティバル](https://ja.wikipedia.org/wiki/FMフェスティバル "wikilink") LOCK ON ROCK super audition 05/06」にてグランプリを獲得。同年[ユニバーサルJよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+**MANA SLAYPNILE**（マナ・[スレイプニル](../Page/スレイプニル.md "wikilink")）は[高知県](../Page/高知県.md "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2006年](../Page/2006年.md "wikilink")に行われた「[FMフェスティバル](../Page/FMフェスティバル.md "wikilink") LOCK ON ROCK super audition 05/06」にてグランプリを獲得。同年[ユニバーサルJよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## メンバー
 
-  - **市川幸司**（[1981年](../Page/1981年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - ）ボーカル・ギター・作詞・作曲
+  - **市川幸司**（[1981年](../Page/1981年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - ）ボーカル・ギター・作詞・作曲
   - **正木太陽**（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）ギター（2008年5月末脱退）
-  - **沖雅仁**（[1981年](../Page/1981年.md "wikilink")[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink") - ）ベース
+  - **沖雅仁**（[1981年](../Page/1981年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") - ）ベース
   - **武市容典**（[1982年](../Page/1982年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）ドラム
 
 ## バイオグラフィー
@@ -49,7 +49,7 @@ Robinという名前のままでしばらくは活動していたが、その後
 ## 関連項目
 
   - [Char](../Page/Char.md "wikilink")
-  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+  - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
 
 ## 外部リンク
 

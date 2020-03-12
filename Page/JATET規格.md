@@ -1,7 +1,7 @@
 > この記事は[JATET](https://ja.wikipedia.org/wiki/JATET)から翻訳されています。
 
 
-**JATET規格**(**じゃてっときかく**)とは、[劇場演出空間技術協会](https://ja.wikipedia.org/wiki/劇場演出空間技術協会 "wikilink")(JATET)\[1\]によって定められた、[劇場](https://ja.wikipedia.org/wiki/劇場等演出空間 "wikilink")、[演出空間](https://ja.wikipedia.org/wiki/演出空間 "wikilink")の技術に関する規格である。
+**JATET規格**(**じゃてっときかく**)とは、[劇場演出空間技術協会](https://ja.wikipedia.org/wiki/劇場演出空間技術協会 "wikilink")(JATET)\[1\]によって定められた、[劇場](https://ja.wikipedia.org/wiki/劇場等演出空間 "wikilink")、[演出空間](../Page/演出空間.md "wikilink")の技術に関する規格である。
 
 一部の規格は、[劇場等演出空間電気設備指針](../Page/劇場等演出空間電気設備指針.md "wikilink")、[演出空間仮設電気設備指針](../Page/演出空間仮設電気設備指針.md "wikilink")に引用され、その一部をなしている。
 
@@ -66,8 +66,8 @@
   -
     いわゆるJASCII規格のこと
     先行するUSITT([英語版記事](https://ja.wikipedia.org/wiki/:en:United_States_Institute_for_Theatre_Technology "wikilink")) ASCII規格([規格書-英語](http://web.archive.org/web/20071031031120/http://www.usitt.org/bookstore/downloads/ASCII-protocol.pdf))などを参考に制定された。
-    COMOS規格が、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")のフォーマットを[IBMフォーマットとしたため](https://ja.wikipedia.org/wiki/IBM形式フロッピーディスク "wikilink")、現在の2mode FDDでは読み書きできなくなった点の反省に基づき、物理規格は定めず、[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")のファイルフォーマットのみの定義としている。
-    しかし、文字コードを[Shift_JIS](../Page/Shift_JIS.md "wikilink")（規格書には明記されていないが、実装としては[Windows-31Jが多いと思われる](https://ja.wikipedia.org/wiki/Microsoftコードページ932 "wikilink")）、[改行コード](https://ja.wikipedia.org/wiki/改行コード "wikilink")をCR+LF、物理行を改行コードを除いて80バイトとするなど、[MS-DOS](../Page/MS-DOS.md "wikilink")テキストの影響は否めない。しかし、EOFは必要ではない。
+    COMOS規格が、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")のフォーマットを[IBMフォーマットとしたため](../Page/IBM形式フロッピーディスク.md "wikilink")、現在の2mode FDDでは読み書きできなくなった点の反省に基づき、物理規格は定めず、[テキストファイル](../Page/テキストファイル.md "wikilink")のファイルフォーマットのみの定義としている。
+    しかし、文字コードを[Shift_JIS](../Page/Shift_JIS.md "wikilink")（規格書には明記されていないが、実装としては[Windows-31Jが多いと思われる](../Page/Microsoftコードページ932.md "wikilink")）、[改行コード](../Page/改行コード.md "wikilink")をCR+LF、物理行を改行コードを除いて80バイトとするなど、[MS-DOS](../Page/MS-DOS.md "wikilink")テキストの影響は否めない。しかし、EOFは必要ではない。
     なお、この規格の概略については、[パナソニック電工](../Page/パナソニック電工.md "wikilink")が無料で配布している[自社卓－JASCIIデータ変換プログラム](http://www2.panasonic.biz/es/lighting/control/choko/info/jascii.html)のヘルプファイルで知ることが出来る。
 
 <!-- end list -->

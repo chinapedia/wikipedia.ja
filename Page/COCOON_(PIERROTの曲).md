@@ -5,12 +5,12 @@
 
 ## 概要
 
-表題曲は、[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")』のテーマソングに起用された。
+表題曲は、[TBS系](../Page/TBSテレビ.md "wikilink")『[スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")』のテーマソングに起用された。
 
 ## 収録曲
 
 1.  **COCOON**
-    （作詞：キリト／作曲：アイジ／編曲：PIERROT・[西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink")）
+    （作詞：キリト／作曲：アイジ／編曲：PIERROT・[西脇辰弥](../Page/西脇辰弥.md "wikilink")）
 2.  **真っ赤な花**
     （作詞：キリト／作曲：潤／編曲：PIERROT・西脇辰弥）
 3.  **サルビア**

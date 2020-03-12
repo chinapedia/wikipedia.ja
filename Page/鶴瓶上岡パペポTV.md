@@ -1,47 +1,47 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**鶴瓶・上岡パペポTV**』（つるべ・かみおか パペポテレビ、英字表記:*TSURUBE KAMIOKA PA-PE-PO TELEVISION*）は、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")と[上岡龍太郎](https://ja.wikipedia.org/wiki/上岡龍太郎 "wikilink")を出演者として[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビほかで](../Page/日本テレビ放送網.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。
+『**鶴瓶・上岡パペポTV**』（つるべ・かみおか パペポテレビ、英字表記:*TSURUBE KAMIOKA PA-PE-PO TELEVISION*）は、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")と[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")を出演者として[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビほかで](../Page/日本テレビ放送網.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた[トーク番組](../Page/トーク番組.md "wikilink")である。
 
 本項目では後継番組として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた『**LIVE PAPEPO 鶴+龍**』（ライブパペポ つるとりゅう）についても記述する。
 
 ## 概要
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、讀賣テレビ放送本社スタジオでの公開収録という形をとって放送された。番組開始当初（1987年4月～1988年3月）は毎週[月曜日](../Page/月曜日.md "wikilink")、1988年4月以降は毎週[水曜日](../Page/水曜日.md "wikilink")に収録していたが、1991年頃から[月曜日](../Page/月曜日.md "wikilink")収録に変更。生放送はパペポシアター開催時と500回記念の2回だけであった。また、1988年8月27日に読売テレビ開局30周年イベントの一つとして「鶴瓶上岡10000人のパペポTV大阪城ホールスペシャル」というタイトルの特番が生放送された。しかし、番組プロデューサーだった[白岩久弥](https://ja.wikipedia.org/wiki/白岩久弥 "wikilink")の人事異動（制作会社[ワイズビジョン](https://ja.wikipedia.org/wiki/ワイズビジョン "wikilink")に出向）によって1998年3月31日をもって終了。11年の放送に幕を降ろした。その後、同年7月から同趣旨の『LIVE PAPEPO 鶴+龍』（通称：鶴龍）に移行し、[2000年](../Page/2000年.md "wikilink")まで放送された（後述）。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、讀賣テレビ放送本社スタジオでの公開収録という形をとって放送された。番組開始当初（1987年4月～1988年3月）は毎週[月曜日](../Page/月曜日.md "wikilink")、1988年4月以降は毎週[水曜日](../Page/水曜日.md "wikilink")に収録していたが、1991年頃から[月曜日](../Page/月曜日.md "wikilink")収録に変更。生放送はパペポシアター開催時と500回記念の2回だけであった。また、1988年8月27日に読売テレビ開局30周年イベントの一つとして「鶴瓶上岡10000人のパペポTV大阪城ホールスペシャル」というタイトルの特番が生放送された。しかし、番組プロデューサーだった[白岩久弥](../Page/白岩久弥.md "wikilink")の人事異動（制作会社[ワイズビジョン](../Page/ワイズビジョン.md "wikilink")に出向）によって1998年3月31日をもって終了。11年の放送に幕を降ろした。その後、同年7月から同趣旨の『LIVE PAPEPO 鶴+龍』（通称：鶴龍）に移行し、[2000年](../Page/2000年.md "wikilink")まで放送された（後述）。
 
-[1988年](../Page/1988年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")放送の回に対し、第25回[ギャラクシー賞](https://ja.wikipedia.org/wiki/ギャラクシー賞 "wikilink")・選奨を受賞\[1\]。
+[1988年](../Page/1988年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")放送の回に対し、第25回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")・選奨を受賞\[1\]。
 
 ### 放送状況
 
-制作局・よみうりテレビでの番組開始当初（1987年4月～1988年3月）は[火曜日](../Page/火曜日.md "wikilink")の[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")24:50 - 25:45の放送であったが、1988年4月からは、[金曜日](../Page/金曜日.md "wikilink")深夜25:10 - 26:05に枠移動。25:25 - 26:20放送→25:40 - 26:35放送と少しずつ放送時間帯が遅くなって行く。最後の半年は再び火曜日の放送（深夜25:40 - 26:35）に戻る。
+制作局・よみうりテレビでの番組開始当初（1987年4月～1988年3月）は[火曜日](../Page/火曜日.md "wikilink")の[深夜](../Page/深夜.md "wikilink")24:50 - 25:45の放送であったが、1988年4月からは、[金曜日](../Page/金曜日.md "wikilink")深夜25:10 - 26:05に枠移動。25:25 - 26:20放送→25:40 - 26:35放送と少しずつ放送時間帯が遅くなって行く。最後の半年は再び火曜日の放送（深夜25:40 - 26:35）に戻る。
 
-[日本テレビでの放送は](../Page/日本テレビ放送網.md "wikilink")、[1988年](../Page/1988年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")のネット開始当初は[月曜日](../Page/月曜日.md "wikilink")深夜 25:10 - 26:05に放送されていた。最初の3回は「入門編」と称して過去の内容が放送されていた。そして、[湾岸戦争](../Page/湾岸戦争.md "wikilink")時の影響による[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの放送休止時期を経て\[2\]、復活後は当初水曜日深夜26:30 - 27:25の放送となり、2ヵ月後元の曜日と時間帯に戻り、[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にいったん木曜日深夜25:40 - 26:35に移動し\[3\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には関西と同じ曜日で35分遅れの金曜深夜26:15 -27:10に移動し\[4\]、番組終了まで続いた。最終回に限っては放送日の都合上、日本テレビでの放送が読売テレビよりも先行されたため、日本テレビでは最終回前週分は未放送となった。
+[日本テレビでの放送は](../Page/日本テレビ放送網.md "wikilink")、[1988年](../Page/1988年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")のネット開始当初は[月曜日](../Page/月曜日.md "wikilink")深夜 25:10 - 26:05に放送されていた。最初の3回は「入門編」と称して過去の内容が放送されていた。そして、[湾岸戦争](../Page/湾岸戦争.md "wikilink")時の影響による[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの放送休止時期を経て\[2\]、復活後は当初水曜日深夜26:30 - 27:25の放送となり、2ヵ月後元の曜日と時間帯に戻り、[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にいったん木曜日深夜25:40 - 26:35に移動し\[3\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には関西と同じ曜日で35分遅れの金曜深夜26:15 -27:10に移動し\[4\]、番組終了まで続いた。最終回に限っては放送日の都合上、日本テレビでの放送が読売テレビよりも先行されたため、日本テレビでは最終回前週分は未放送となった。
 
 地方局での放送も深夜時間帯で、地方によっては途中でネットが打ち切られたり、逆に開始された局もあり、中には東海地区の[中京テレビなど](../Page/中京テレビ放送.md "wikilink")、途中で一度打ち切られた後しばらくしてからネットを再開した地域もあった。放送曜日・放送時間は地域によりバラバラであったが、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")の[テレビ金沢](../Page/テレビ金沢.md "wikilink")に限ってなぜか土曜日の朝 9:30 - 10:25に放送されていた時代があった。開局当初はNTV同様月曜日深夜 25:10 - 26:05の放送であった。（※以上の時間表記は全て[JST](../Page/日本標準時.md "wikilink")）
 
 ### 番組スタイル
 
-この番組は、読売テレビのディレクター（当時）の[白岩久弥](https://ja.wikipedia.org/wiki/白岩久弥 "wikilink")と構成の[疋田哲夫](https://ja.wikipedia.org/wiki/疋田哲夫 "wikilink")が「[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")さんで番組を作ろう」と企画したのが始まりで、鶴瓶が共演相手に[上岡龍太郎](https://ja.wikipedia.org/wiki/上岡龍太郎 "wikilink")を指名して番組が始まることになった。しかし、肝心の番組内容がなかなか決まらず、結局「2人に決めてもらおう」ということで、1987年3月に特番で『**鶴瓶上岡・激突夜話**』（つるべ・かみおか げきとつやわ）が組まれる。ここでの2人の会話が後のパペポTVのスタイルになっている。
+この番組は、読売テレビのディレクター（当時）の[白岩久弥](../Page/白岩久弥.md "wikilink")と構成の[疋田哲夫](../Page/疋田哲夫.md "wikilink")が「[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")さんで番組を作ろう」と企画したのが始まりで、鶴瓶が共演相手に[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")を指名して番組が始まることになった。しかし、肝心の番組内容がなかなか決まらず、結局「2人に決めてもらおう」ということで、1987年3月に特番で『**鶴瓶上岡・激突夜話**』（つるべ・かみおか げきとつやわ）が組まれる。ここでの2人の会話が後のパペポTVのスタイルになっている。
 
-タイトルが示すとおり、鶴瓶と上岡の2人が、60分間トークのみを放送する番組。最近の時事問題から2人の身近な話題に至るまでシナリオなし、ぶっつけ本番の毒舌トークを展開させる。[放送禁止用語](https://ja.wikipedia.org/wiki/放送禁止用語 "wikilink")も多く飛び出した。また、1月1日（編成上は12月31日深夜）の『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送テレビ\) "wikilink")』や年越し番組終了後には、毎年必ず[横山ノック](https://ja.wikipedia.org/wiki/横山ノック "wikilink")をゲストに迎えて新春スペシャルを放送していた。
+タイトルが示すとおり、鶴瓶と上岡の2人が、60分間トークのみを放送する番組。最近の時事問題から2人の身近な話題に至るまでシナリオなし、ぶっつけ本番の毒舌トークを展開させる。[放送禁止用語](../Page/放送禁止用語.md "wikilink")も多く飛び出した。また、1月1日（編成上は12月31日深夜）の『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送テレビ\) "wikilink")』や年越し番組終了後には、毎年必ず[横山ノック](https://ja.wikipedia.org/wiki/横山ノック "wikilink")をゲストに迎えて新春スペシャルを放送していた。
 
-収録は第1回 - 第65回放送分（1988年7月8日）まではよみうりテレビ旧社屋で行われ、新社屋移転後の第66回放送分（1988年7月15日）からは主によみうりテレビ本社第2スタジオ（収容限界人数約300名）を使用。新春スペシャルの収録や春休み、収録日が祝日に当たる場合等、観客の増加が見込まれる回の収録は通常のスタジオより大きい第1スタジオ（収容限界人数約600名）を使用していた。第1スタジオを使用する時の告知は番組内で「次回はちょっと大きいスタジオで収録します」というテロップが表示されており、通常収録ではオープニングで舞台向かって右側から登場するところを第1スタジオ収録回では向かって左側から登場することで識別できた（第1スタジオと第2・第3スタジオとでは入口の位置が逆であるため）。ただし1988年秋 - 90年秋は第2スタジオを夕方の帯番組『[ざまぁKANKAN\!](https://ja.wikipedia.org/wiki/ざまぁKANKAN! "wikilink")』が使用していたため、第3スタジオ（面積及び収容人数は第2スタジオと同じ）または第1スタジオを使用した。第216回放送分（1991年7月12日）には、[新橋演舞場](https://ja.wikipedia.org/wiki/新橋演舞場 "wikilink")で収録が行われたこともある\[5\]。
+収録は第1回 - 第65回放送分（1988年7月8日）まではよみうりテレビ旧社屋で行われ、新社屋移転後の第66回放送分（1988年7月15日）からは主によみうりテレビ本社第2スタジオ（収容限界人数約300名）を使用。新春スペシャルの収録や春休み、収録日が祝日に当たる場合等、観客の増加が見込まれる回の収録は通常のスタジオより大きい第1スタジオ（収容限界人数約600名）を使用していた。第1スタジオを使用する時の告知は番組内で「次回はちょっと大きいスタジオで収録します」というテロップが表示されており、通常収録ではオープニングで舞台向かって右側から登場するところを第1スタジオ収録回では向かって左側から登場することで識別できた（第1スタジオと第2・第3スタジオとでは入口の位置が逆であるため）。ただし1988年秋 - 90年秋は第2スタジオを夕方の帯番組『[ざまぁKANKAN\!](../Page/ざまぁKANKAN!.md "wikilink")』が使用していたため、第3スタジオ（面積及び収容人数は第2スタジオと同じ）または第1スタジオを使用した。第216回放送分（1991年7月12日）には、[新橋演舞場](../Page/新橋演舞場.md "wikilink")で収録が行われたこともある\[5\]。
 
 公開収録も原則として事前申し込みが必要なく、予告された収録日に配布される入場整理券を入手すれば、自由に見学することが出来た。整理券の配布は番組開始当初収録日の夕方に配布されていたが、観覧希望者がスタジオの収容限界人数を大幅に上回るファンが集まるようになり、早朝から並ぶ観覧希望者が後を絶たなくなったため当日正午配布に繰り上げられ、その後更に朝9時半に繰り上げられた\[6\]。ただし、後に出演者の両名のスケジュールの都合により2本分のまとめ撮りとすることが徐々に増え、朝から並んで順番を待つことが出来ない社会人などの救済措置を兼ねて2本目は事前にはがき申込みをして抽選に当選した視聴者にだけ公開するパターンが定着して行った。
 
 よみうりテレビ旧社屋で収録が行われていた時代、観客は基本的にカメラの後方で観覧することになっていた\[7\]。そのため、番組のエンディングの際に、鶴瓶・上岡両名が通称「鶴瓶ダンス」をしながら番組セットからカメラの方へ飛び出したり（1987年7月14日放送分）、「浜寺の水練学校」をテーマにした即興漫才が行われた際に、鶴瓶がオチとして「後は任したー\!」と叫びながらカメラの方へ泳ぐようにしてフレームアウト（1988年7月8日放送分）というような演出がたびたび行われていた。新社屋移転後は、観客が番組セットの目の前に座って観覧するようになったため、前述のようなことは一切無くなった。ただし例外として、第176回と第370回放送で無観客による収録が行われた際には、昔を懐かしむ形で前述の行為を再現していた。
 
-また、番組開始当初は[郵政省](../Page/郵政省.md "wikilink")（現・[日本郵政](https://ja.wikipedia.org/wiki/日本郵政 "wikilink")）が「[郵便局](../Page/郵便局.md "wikilink")」のクレジットで[1社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")\[8\]していたことから、番組の最終コーナーでは[ゆうパック](https://ja.wikipedia.org/wiki/ゆうパック "wikilink")を使った「[ふるさと小包](https://ja.wikipedia.org/wiki/ふるさと小包 "wikilink")プレゼント」を開催していたことがあり、そこで視聴者の感想文に答えていた。のちに郵政省筆頭の複数協賛スポンサーとなってからも続いたが、郵政省はその後スポンサーを降板したため「ふるさと小包プレゼント」は廃止となるが、感想文紹介は行われ続けた。
+また、番組開始当初は[郵政省](../Page/郵政省.md "wikilink")（現・[日本郵政](../Page/日本郵政.md "wikilink")）が「[郵便局](../Page/郵便局.md "wikilink")」のクレジットで[1社提供](../Page/一社提供.md "wikilink")\[8\]していたことから、番組の最終コーナーでは[ゆうパック](../Page/ゆうパック.md "wikilink")を使った「[ふるさと小包](https://ja.wikipedia.org/wiki/ふるさと小包 "wikilink")プレゼント」を開催していたことがあり、そこで視聴者の感想文に答えていた。のちに郵政省筆頭の複数協賛スポンサーとなってからも続いたが、郵政省はその後スポンサーを降板したため「ふるさと小包プレゼント」は廃止となるが、感想文紹介は行われ続けた。
 
 ### 番組企画・イベント
 
-[Osaka-Jo_Hall.jpg](https://ja.wikipedia.org/wiki/File:Osaka-Jo_Hall.jpg "fig:Osaka-Jo_Hall.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Nagai-sumo.JPG "wikilink")[東住吉区](../Page/東住吉区.md "wikilink")）内の相撲場\]\] 番組のイベントとして、大阪・[梅田](../Page/梅田.md "wikilink")の[ダイヤモンドプラザで開催した](https://ja.wikipedia.org/wiki/ダイヤモンド地区 "wikilink")「パペポシアター」（1988年3月21日 - 27日）、[大阪城ホール](../Page/大阪城ホール.md "wikilink")で2回（1989年10月3日・1992年5月13日）、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")（1992年5月25日。武道館でこういったトーク・イベントは初だった）・ニューヨークでトーク・イベント（1996年9月28日）を開催した。
+[Osaka-Jo_Hall.jpg](https://ja.wikipedia.org/wiki/File:Osaka-Jo_Hall.jpg "fig:Osaka-Jo_Hall.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Nagai-sumo.JPG "wikilink")[東住吉区](../Page/東住吉区.md "wikilink")）内の相撲場\]\] 番組のイベントとして、大阪・[梅田](../Page/梅田.md "wikilink")の[ダイヤモンドプラザで開催した](../Page/ダイヤモンド地区.md "wikilink")「パペポシアター」（1988年3月21日 - 27日）、[大阪城ホール](../Page/大阪城ホール.md "wikilink")で2回（1989年10月3日・1992年5月13日）、[日本武道館](../Page/日本武道館.md "wikilink")（1992年5月25日。武道館でこういったトーク・イベントは初だった）・ニューヨークでトーク・イベント（1996年9月28日）を開催した。
 
-さらに1990年3月25日、番組で「2人が相撲をとったらどちらが勝つ?」という話から「嵐の春場所」と称し[長居公園](https://ja.wikipedia.org/wiki/長居公園 "wikilink")でイベントを開催し2万人を集め、客の押し合いで5人が怪我するというハプニングもあった\[9\]。なお、この時の勝敗は収録で東京に行った上岡の代理で弟子の[テントが](https://ja.wikipedia.org/wiki/大空テント "wikilink")、鶴瓶に5回とも倒されている\[10\]。同日に行われた[大相撲大阪場所の千秋楽よりも人が入ったという](https://ja.wikipedia.org/wiki/1990年の相撲 "wikilink")\[11\]。
+さらに1990年3月25日、番組で「2人が相撲をとったらどちらが勝つ?」という話から「嵐の春場所」と称し[長居公園](../Page/長居公園.md "wikilink")でイベントを開催し2万人を集め、客の押し合いで5人が怪我するというハプニングもあった\[9\]。なお、この時の勝敗は収録で東京に行った上岡の代理で弟子の[テントが](https://ja.wikipedia.org/wiki/大空テント "wikilink")、鶴瓶に5回とも倒されている\[10\]。同日に行われた[大相撲大阪場所の千秋楽よりも人が入ったという](https://ja.wikipedia.org/wiki/1990年の相撲 "wikilink")\[11\]。
 
-また、番組の人気を反映してポスターを制作したことがあり、鶴瓶・上岡両名が上半身は燕尾服姿も下半身丸出し（当然モザイク処理されている）で写っており、[糸井重里](https://ja.wikipedia.org/wiki/糸井重里 "wikilink")が考案した『**見てるあんたも同罪じゃ。**』というキャッチコピーがつけられた異例のビジュアルであった（当時は[ヘアヌード](https://ja.wikipedia.org/wiki/ヘアヌード "wikilink")の解禁が話題となっていたこともあり、それに便乗したアイデアと言われている）。ポスターは番組最後でハガキが読まれた視聴者にプレゼントされた。「こんなもん受け取れるか」と送り返した視聴者もいたが、番組の方では強引に送り返したという真偽不明の噂が立った。
+また、番組の人気を反映してポスターを制作したことがあり、鶴瓶・上岡両名が上半身は燕尾服姿も下半身丸出し（当然モザイク処理されている）で写っており、[糸井重里](../Page/糸井重里.md "wikilink")が考案した『**見てるあんたも同罪じゃ。**』というキャッチコピーがつけられた異例のビジュアルであった（当時は[ヘアヌード](../Page/ヘアヌード.md "wikilink")の解禁が話題となっていたこともあり、それに便乗したアイデアと言われている）。ポスターは番組最後でハガキが読まれた視聴者にプレゼントされた。「こんなもん受け取れるか」と送り返した視聴者もいたが、番組の方では強引に送り返したという真偽不明の噂が立った。
 
-パペポシアターに関しては、1988年6月10日に開催3日目のトーク（合計90分）を収録した音源が50ページ冊子付きのカセットブックとして[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+パペポシアターに関しては、1988年6月10日に開催3日目のトーク（合計90分）を収録した音源が50ページ冊子付きのカセットブックとして[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 公開録画が原則の番組であったが、収録当日のトラブルや意図的な理由などで、観客を入れずに放送した回が5回あった。
 
@@ -52,9 +52,9 @@
   - 3回目（1994年8月26日放送）
     2本撮りの予定であった日に、鶴瓶が[食中毒](https://ja.wikipedia.org/wiki/食中毒 "wikilink")で倒れて出演できなくなり、上岡が1人で出演して1時間喋った回があった。この影響で、その日は1本しか収録が出来ず、その翌々週も2本撮りのスケジュールが組まれていたため、翌々週が3本撮りに変更された。しかし3本目の収録が夜遅くになるため、家に帰れなくなる人が出てしまう恐れがあるという問題が発生し、3本目の収録が無観客で行われることとなった。なお、この放送のオープニングトークで、上岡がちょっとしたことで笑う番組スタッフに対し、「我慢するとか、遠慮するとか、空気を考えるとか、周りのムードを読むっちゅうことがでけんのか、お前には！」と本気で激怒した。スタッフの笑い声が入るような、いわゆる「内輪だけの笑い」は、視聴者が見ていて一番不快で面白くないというのが理由であった。
   - 4回目（1995年1月27日放送）
-    [阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")（[兵庫県南部地震](../Page/兵庫県南部地震.md "wikilink")）の影響によるもの。俗に言う「**怒りのパペポ**」。27日放送分（23日収録）は、[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")直後で「[笑わすことができない](../Page/笑い.md "wikilink")」ということで二人だけの収録となった。[兵庫県](../Page/兵庫県.md "wikilink")在住の被災者（鶴瓶）として、またはテレビを見ていたもの（上岡）として、後手に回り人間的かつ柔軟な対応ができない[縦割り行政](https://ja.wikipedia.org/wiki/縦割り行政 "wikilink")や、人間としての資質を疑うような言動をするマスメディア（特にテレビ）への怒りを露わにした。なお、オープニングテーマもエンディングテーマも流れず、放映の最後には同系列の[チャリティー番組](https://ja.wikipedia.org/wiki/チャリティー番組 "wikilink")『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』への批判まで出た。
+    [阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")（[兵庫県南部地震](../Page/兵庫県南部地震.md "wikilink")）の影響によるもの。俗に言う「**怒りのパペポ**」。27日放送分（23日収録）は、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")直後で「[笑わすことができない](../Page/笑い.md "wikilink")」ということで二人だけの収録となった。[兵庫県](../Page/兵庫県.md "wikilink")在住の被災者（鶴瓶）として、またはテレビを見ていたもの（上岡）として、後手に回り人間的かつ柔軟な対応ができない[縦割り行政](../Page/縦割り行政.md "wikilink")や、人間としての資質を疑うような言動をするマスメディア（特にテレビ）への怒りを露わにした。なお、オープニングテーマもエンディングテーマも流れず、放映の最後には同系列の[チャリティー番組](https://ja.wikipedia.org/wiki/チャリティー番組 "wikilink")『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』への批判まで出た。
   - 5回目（1997年4月4日放送）
-    500回を記念して[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")で行われた。この放送の終盤で上岡が鶴瓶を唆し、生放送であるにもかかわらず[放送禁止用語](https://ja.wikipedia.org/wiki/放送禁止用語 "wikilink")「[おめこ](https://ja.wikipedia.org/wiki/まんこ "wikilink")」（[女性器](https://ja.wikipedia.org/wiki/女性器 "wikilink")を意味する[大阪弁](https://ja.wikipedia.org/wiki/大阪弁 "wikilink")）を鶴瓶が放送終了直前に言ってしまった。ただし日本テレビを始め、同時ネットされていない局では、その部分だけを[自主規制音](https://ja.wikipedia.org/wiki/自主規制音 "wikilink")で被せて放送した。翌々週の放送（翌週の放送分は500回記念生放送前に収録されたため）で、鶴瓶はその発言に対し謝罪した\[12\]。
+    500回を記念して[生放送](../Page/生放送.md "wikilink")で行われた。この放送の終盤で上岡が鶴瓶を唆し、生放送であるにもかかわらず[放送禁止用語](../Page/放送禁止用語.md "wikilink")「[おめこ](../Page/まんこ.md "wikilink")」（[女性器](../Page/女性器.md "wikilink")を意味する[大阪弁](https://ja.wikipedia.org/wiki/大阪弁 "wikilink")）を鶴瓶が放送終了直前に言ってしまった。ただし日本テレビを始め、同時ネットされていない局では、その部分だけを[自主規制音](../Page/自主規制音.md "wikilink")で被せて放送した。翌々週の放送（翌週の放送分は500回記念生放送前に収録されたため）で、鶴瓶はその発言に対し謝罪した\[12\]。
 
 なお通常の放送では、オープニングから最初のCMまでの間とCM明けの座りトークの冒頭約2分間、そしてエンディングの場面でBGMが挿入されるが、無観客の回に限り全編BGMなし（1,2,4回目）、またはオープニングのみ挿入（3,5回目）という形で放送された。
 
@@ -62,7 +62,7 @@
 
   - 構成
 
-:\* [疋田哲夫](https://ja.wikipedia.org/wiki/疋田哲夫 "wikilink")
+:\* [疋田哲夫](../Page/疋田哲夫.md "wikilink")
 
 :\* 鹿児島俊光（番組初期）
 
@@ -74,7 +74,7 @@
 
 :\* 池田智（1990年8月 - 1992年9月・1993年2月 - 1996年7月）
 
-:\* [白岩久弥](https://ja.wikipedia.org/wiki/白岩久弥 "wikilink")（1992年10月 - 番組終了まで）
+:\* [白岩久弥](../Page/白岩久弥.md "wikilink")（1992年10月 - 番組終了まで）
 
 :\* 西村良雄（1996年7月 - 1997年2月）
 
@@ -84,7 +84,7 @@
 
 :\* 白岩久弥（番組開始 - 1992年12月、1993年4月 - 1996年4月。1991年2月よりチーフディレクター。1992年10月以降はプロデューサーを兼務）
 
-:\* [武野一起](https://ja.wikipedia.org/wiki/武野一起 "wikilink")（1991年2月 - 1993年3月。番組開始から1991年1月まではADとしてエンドロールに表記されていた）
+:\* [武野一起](../Page/武野一起.md "wikilink")（1991年2月 - 1993年3月。番組開始から1991年1月まではADとしてエンドロールに表記されていた）
 
 :\* 高津英泰（1993年4月 - 番組終了まで。1996年5月よりチーフディレクター）
 
@@ -99,9 +99,9 @@
   - 1代目セット時代（1987年4月 - 1989年3月）
     正面背後にピンクの大砲を配置した、当番組の象徴ともいえるセット。関西ローカル時代に作られたもので、最もシンプルな雰囲気の造りであった。
       - INFIDELITY（SIMPLY RED）
-      - GONNA GET YOU（[マイケル・フォーチュナティ](https://ja.wikipedia.org/wiki/マイケル・フォーチュナティ "wikilink")）
-    :\* これとは別に、1987年7月頃、番組オープニングトークの前に「LIVING IN A BOX」（[リヴィング・イン・ア・ボックス](https://ja.wikipedia.org/wiki/リヴィング・イン・ア・ボックス "wikilink")）の[MVを流す回が数回あった](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
-      - I HEARD A RUMOR（[バナナラマ](https://ja.wikipedia.org/wiki/バナナラマ "wikilink")）
+      - GONNA GET YOU（[マイケル・フォーチュナティ](../Page/マイケル・フォーチュナティ.md "wikilink")）
+    :\* これとは別に、1987年7月頃、番組オープニングトークの前に「LIVING IN A BOX」（[リヴィング・イン・ア・ボックス](https://ja.wikipedia.org/wiki/リヴィング・イン・ア・ボックス "wikilink")）の[MVを流す回が数回あった](../Page/ミュージック・ビデオ.md "wikilink")。
+      - I HEARD A RUMOR（[バナナラマ](../Page/バナナラマ.md "wikilink")）
       - LOVE IN THE FIRST DEGREE（バナナラマ）
       - MONKEY SHOP（PRESET）
 
@@ -109,24 +109,24 @@
 
 :\* POWERFUL PAIR（田中一郎）
 
-:\* I MISS YOU（[カイリー・ミノーグ](https://ja.wikipedia.org/wiki/カイリー・ミノーグ "wikilink")）
+:\* I MISS YOU（[カイリー・ミノーグ](../Page/カイリー・ミノーグ.md "wikilink")）
 
-:\* TWO HEARTS（[フィル・コリンズ](https://ja.wikipedia.org/wiki/フィル・コリンズ "wikilink")）
+:\* TWO HEARTS（[フィル・コリンズ](../Page/フィル・コリンズ.md "wikilink")）
 
   - 2代目セット時代（1989年4月 - 1991年7月）
     全国ネット化から半年後、100回目の放送を機に、セットの模様替えを実施。1代目セットをベースに、「PAPEPO」の文字の電飾看板を配置するなどグレードアップしたもの。ピンクの大砲は舞台向かって左側奥に移設された。
       - HE AIN'T NO COMPETITION（BROTHER BEYOND）
       - IF I DON'T HAVE YOU（JASON DONOVAN）
       - CAN'T DENY A BROKEN HEART（ANNICA）
-      - SECRET LOVE（[ビージーズ](https://ja.wikipedia.org/wiki/ビージーズ "wikilink")）
+      - SECRET LOVE（[ビージーズ](../Page/ビージーズ.md "wikilink")）
   - 3代目セット時代（1991年8月 - 1993年5月）
     全面模様替え。より大きな「PAPEPO」の文字の電飾や、背景ホリゾントに回転する「PAPEPO」の文字を映し出すライトを配置。茶色系配色を中心としたセットで、舞台背景全面に電飾を使用していた。
       - WHEN THE LIGHTS GO OUT（GERARDO）
       - GIVE ME JUST A LITTLE MORE TIME（MIC MURPHY）
-      - ADDAMS GROOVE（[ハマー](https://ja.wikipedia.org/wiki/M.C.ハマー "wikilink")）
-      - CHIC MYSTIQUE（[シック](https://ja.wikipedia.org/wiki/シック_\(バンド\) "wikilink")）
+      - ADDAMS GROOVE（[ハマー](../Page/M.C.ハマー.md "wikilink")）
+      - CHIC MYSTIQUE（[シック](../Page/シック_\(バンド\).md "wikilink")）
       - TAKE MY ADVICE（KIM SIMS）
-      - GET LOVE～ENGLISH VERSION（[横山輝一](https://ja.wikipedia.org/wiki/横山輝一 "wikilink")）
+      - GET LOVE～ENGLISH VERSION（[横山輝一](../Page/横山輝一.md "wikilink")）
       - FULL TERM LOVE～Club Mix Edit（MONIE LOVE）
   - 4代目セット時代（1993年6月 - 1995年12月）
     回転する「PAPEPO」の文字のライトを除いて、全面模様替え。巨大な本や文具、スタンドなどを模したセットが置かれた机の上、背景は橋や高層ビルの町並みをイメージして造られたセットが用意された。
@@ -139,7 +139,7 @@
       - DAYDREAM BELIEVER（THE MONKEES）
       - WON'T WALK AWAY（NELSON）
       - TOTAL ECLIPSE OF THE HEART～ボーナストラックREMIX（NICKY FRENCH）
-      - [I'LL BE THERE FOR YOU](https://ja.wikipedia.org/wiki/アイル・ビー・ゼア・フォー・ユー "wikilink")（[THE REMBRANDTS](https://ja.wikipedia.org/wiki/ザ・レンブランツ "wikilink")）
+      - [I'LL BE THERE FOR YOU](../Page/アイル・ビー・ゼア・フォー・ユー.md "wikilink")（[THE REMBRANDTS](https://ja.wikipedia.org/wiki/ザ・レンブランツ "wikilink")）
   - 5代目セット時代（1996年1月 - 1997年9月）
     4代目セットをベースに、より派手な電飾を施したセット。机の上を模した舞台は変わらず、「TK」の文字の形をした電飾ミラー、アーチ状の建物、受話器を天井から吊り下げたピンク色の巨大な電話のセットなどを配置。PAPEPOの文字の形をした謎の生物6体がペンキを塗ったりこぼしたりしている様子などを表現していた。
       - DUB-I-DUB（[Me\&My](https://ja.wikipedia.org/wiki/Me&My "wikilink")）
@@ -147,9 +147,9 @@
       - LAST NIGHT（C.J.LEWIS）
       - SOONER OR LATER（THE GRASS ROOTS）
       - RING A LING（TIGGY）
-      - MY OH MY（[アクア](https://ja.wikipedia.org/wiki/アクア_\(バンド\) "wikilink")）
+      - MY OH MY（[アクア](../Page/アクア_\(バンド\).md "wikilink")）
   - 6代目セット時代（1997年10月 - 1998年3月）
-    全面模様替え。これまでの派手な電飾路線から一転して、砂漠を背景にした西部風の落ち着いたイメージのセットに変更されたが、僅か半年後に番組が終了することとなった。番組終了の背景には、白岩プロデューサーが1998年4月付で[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")系番組制作会社の[ワイズビジョン](https://ja.wikipedia.org/wiki/ワイズビジョン "wikilink")へ出向することとなり、松竹芸能系番組である当番組の制作に関わることが実質不可能となったことが大きく影響したと考えられている。
+    全面模様替え。これまでの派手な電飾路線から一転して、砂漠を背景にした西部風の落ち着いたイメージのセットに変更されたが、僅か半年後に番組が終了することとなった。番組終了の背景には、白岩プロデューサーが1998年4月付で[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")系番組制作会社の[ワイズビジョン](../Page/ワイズビジョン.md "wikilink")へ出向することとなり、松竹芸能系番組である当番組の制作に関わることが実質不可能となったことが大きく影響したと考えられている。
       - UNTOUCHABLE（RIALTO）
       - WHAM BAM（THE SCARLET）
 
@@ -157,7 +157,7 @@
 
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")（**制作局**）
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")（1988年10月10日ネット開始）
-  - [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")
+  - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
   - [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
@@ -170,7 +170,7 @@
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink")
   - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（1993年10月4日ネット開始）
   - [福岡放送](../Page/福岡放送.md "wikilink")（1989年4月1日24時（※正確には2日0時）ネット開始）
-  - [くまもと県民テレビ](https://ja.wikipedia.org/wiki/熊本県民テレビ "wikilink")
+  - [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")
   - 他
 
 なお、1991年8月に発売したテーマ曲のCDジャケットには「全国17局ネット」と書かれているが、途中から開始したり・打ち切られるネット局はあったものの、おおむね15 - 20局でネットされていたと考えられる。
@@ -179,25 +179,25 @@
 
 「パペポTV」の制作に欠かせないスタッフであった白岩プロデューサーが吉本興業系の番組制作会社「ワイズビジョン」へ出向することとなったため「パペポTV」は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月で一旦終了するが、3ヵ月後の同年7月7日から、パペポの作家である疋田哲夫と末期に白岩と共同でプロデューサーを担当していた松下泰紀を中心とした布陣で、収録体制を一新した新番組『**LIVE PAPEPO 鶴+龍**』を開始し、30分番組として復活した。
 
-放送時間は当初火曜深夜24:50 - 25:20で、[1999年](../Page/1999年.md "wikilink")4月から『[DO-YA](https://ja.wikipedia.org/wiki/DO-YA "wikilink")』枠の土曜深夜24:55 - 25:25に枠移動した。関東・日本テレビでは「パペポTV」と同じ金曜深夜26:15 - 26:45の枠で放送された。なお、パペポTVをネットしていた局がすべてこちらもネットした訳ではなかった。
+放送時間は当初火曜深夜24:50 - 25:20で、[1999年](../Page/1999年.md "wikilink")4月から『[DO-YA](../Page/DO-YA.md "wikilink")』枠の土曜深夜24:55 - 25:25に枠移動した。関東・日本テレビでは「パペポTV」と同じ金曜深夜26:15 - 26:45の枠で放送された。なお、パペポTVをネットしていた局がすべてこちらもネットした訳ではなかった。
 
 こちらはスタジオ収録ではなく、スタジオを飛び出して全国各地の観光地などでのゲリラ的収録を敢行した（ただ「いつ、どこで収録します」という告知は番組でなされていた）。収録会場は主に京阪神地区の中から選ばれ、1回で2本分（60分）収録するスタイルが基本となっていたが、数回に1回の割合で関東や中部など、番組が放送されているその他地域への遠征も行われていた。また、ごく稀に3週に分けて放送された回もあった。
 
-2000年3月、上岡の芸能界引退に伴い最終回を迎えた。最終回は読売テレビ本社第1スタジオに1代目セットを再現してパペポTV当時の収録スタイルで番組を進行。収録を見に訪れたファンの人数は第1スタジオの収容人数である約600人を大幅に超える1,000人超にものぼったため、急遽第2スタジオとロビーにライブビューイング席を設けて対応した。収録途中にゲストとして[島田紳助](../Page/島田紳助.md "wikilink")が登場。その後[痛快\!明石家電視台](https://ja.wikipedia.org/wiki/痛快!明石家電視台 "wikilink")の収録を終えた[明石家さんま](../Page/明石家さんま.md "wikilink")、[間寛平](../Page/間寛平.md "wikilink")、[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")も花束を持って駆けつけ、90分のスペシャル版として放送された（日本テレビを含むネット局では30分に編集し直した短縮版が放送された。）。これをもって『パペポ』は13年間の歴史に幕を下ろした。
+2000年3月、上岡の芸能界引退に伴い最終回を迎えた。最終回は読売テレビ本社第1スタジオに1代目セットを再現してパペポTV当時の収録スタイルで番組を進行。収録を見に訪れたファンの人数は第1スタジオの収容人数である約600人を大幅に超える1,000人超にものぼったため、急遽第2スタジオとロビーにライブビューイング席を設けて対応した。収録途中にゲストとして[島田紳助](../Page/島田紳助.md "wikilink")が登場。その後[痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")の収録を終えた[明石家さんま](../Page/明石家さんま.md "wikilink")、[間寛平](../Page/間寛平.md "wikilink")、[村上ショージ](../Page/村上ショージ.md "wikilink")も花束を持って駆けつけ、90分のスペシャル版として放送された（日本テレビを含むネット局では30分に編集し直した短縮版が放送された。）。これをもって『パペポ』は13年間の歴史に幕を下ろした。
 
 ### 関西地区以外のロケ地、遠征先
 
   - 函館・金森ホール
   - 佐渡島・[鼓童けいこ場](https://ja.wikipedia.org/wiki/鼓童けいこ場 "wikilink")
   - 東京
-      - 六本木・[ヴェルファーレ](https://ja.wikipedia.org/wiki/ヴェルファーレ "wikilink")
+      - 六本木・[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")
       - 浅草・[東洋館](https://ja.wikipedia.org/wiki/フランス座 "wikilink")
-  - [横浜中華街](https://ja.wikipedia.org/wiki/横浜中華街 "wikilink")・[聘珍樓](https://ja.wikipedia.org/wiki/聘珍樓 "wikilink")
-  - 名古屋・[大須演芸場](https://ja.wikipedia.org/wiki/大須演芸場 "wikilink")
+  - [横浜中華街](../Page/横浜中華街.md "wikilink")・[聘珍樓](https://ja.wikipedia.org/wiki/聘珍樓 "wikilink")
+  - 名古屋・[大須演芸場](../Page/大須演芸場.md "wikilink")
   - 琴平・[琴参閣](https://ja.wikipedia.org/wiki/琴参閣 "wikilink")　　　　
   - 沼隈半島・[みろくの里いつか来た道](https://ja.wikipedia.org/wiki/みろくの里いつか来た道 "wikilink")
-  - 飯塚・[嘉穂劇場](https://ja.wikipedia.org/wiki/嘉穂劇場 "wikilink")
-  - [マウイ島](https://ja.wikipedia.org/wiki/マウイ島 "wikilink")
+  - 飯塚・[嘉穂劇場](../Page/嘉穂劇場.md "wikilink")
+  - [マウイ島](../Page/マウイ島.md "wikilink")
       - [マリオットリゾート](https://ja.wikipedia.org/wiki/マリオットリゾート "wikilink")
       - [砂糖キビ列車](https://ja.wikipedia.org/wiki/砂糖キビ列車 "wikilink")
       - [ラハイナ駅](https://ja.wikipedia.org/wiki/ラハイナ駅 "wikilink")（マラソンツアーに帯同）
@@ -213,7 +213,7 @@
 
 ## 関連項目
 
-  - [きらきらアフロ](https://ja.wikipedia.org/wiki/きらきらアフロ "wikilink")
+  - [きらきらアフロ](../Page/きらきらアフロ.md "wikilink")
   - [ヤブツル〜鶴瓶・小籔の大阪夜話〜](https://ja.wikipedia.org/wiki/ヤブツル〜鶴瓶・小籔の大阪夜話〜 "wikilink")
   - [にけつッ\!\!](https://ja.wikipedia.org/wiki/にけつッ!! "wikilink")
 
@@ -226,8 +226,8 @@
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:読売テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:読売テレビのバラエティ番組の歴史 "wikilink") [Category:読売テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜番組 "wikilink") [Category:読売テレビのトーク番組](https://ja.wikipedia.org/wiki/Category:読売テレビのトーク番組 "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのトーク番組](https://ja.wikipedia.org/wiki/Category:日本テレビのトーク番組 "wikilink") [Category:松竹製作のテレビ番組](https://ja.wikipedia.org/wiki/Category:松竹製作のテレビ番組 "wikilink") [Category:笑福亭鶴瓶](https://ja.wikipedia.org/wiki/Category:笑福亭鶴瓶 "wikilink") [Category:上岡龍太郎](https://ja.wikipedia.org/wiki/Category:上岡龍太郎 "wikilink")
 
 1.
-2.  [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[上岡龍太郎にはダマされないぞ\!](https://ja.wikipedia.org/wiki/上岡龍太郎にはダマされないぞ! "wikilink")』で突然発表された。ただし、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の新春SPだけは放送された。
-3.  これは[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")に設置してある[アンテナ](../Page/アンテナ.md "wikilink")の[メンテナンス](https://ja.wikipedia.org/wiki/メンテナンス "wikilink")のため、月・火が早終了のためだった。
+2.  [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[上岡龍太郎にはダマされないぞ\!](../Page/上岡龍太郎にはダマされないぞ!.md "wikilink")』で突然発表された。ただし、[1991年](../Page/1991年.md "wikilink")の新春SPだけは放送された。
+3.  これは[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")に設置してある[アンテナ](../Page/アンテナ.md "wikilink")の[メンテナンス](../Page/メンテナンス.md "wikilink")のため、月・火が早終了のためだった。
 4.  ただし当日のものではなく、原則1週遅れでの放送であった。
 5.  鶴瓶がそこで上演されていた松竹新喜劇に出演していたことによるもの
 6.  観覧希望者は朝に整理券を受け取り一度解散して、夕方に再集合していた

@@ -1,21 +1,21 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**JR小倉駅**（ジェイアールおぐらえき）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")小倉町中畑にある、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](https://ja.wikipedia.org/wiki/鉄道駅 "wikilink")。駅番号は**JR-D10**。
+**JR小倉駅**（ジェイアールおぐらえき）は、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")小倉町中畑にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D10**。
 
-[近鉄京都線](../Page/近鉄京都線.md "wikilink")の[小倉駅と区別するとともに](https://ja.wikipedia.org/wiki/小倉駅_\(京都府\) "wikilink")、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](https://ja.wikipedia.org/wiki/小倉北区 "wikilink")の[小倉（**こくら**）駅と区別するため](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")、JRを冠している。
+[近鉄京都線](../Page/近鉄京都線.md "wikilink")の[小倉駅と区別するとともに](https://ja.wikipedia.org/wiki/小倉駅_\(京都府\) "wikilink")、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")の[小倉（**こくら**）駅と区別するため](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")、JRを冠している。
 
 ## 歴史
 
-  - [2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）[3月3日](../Page/3月3日.md "wikilink") - [奈良線](../Page/奈良線.md "wikilink")の[宇治駅](https://ja.wikipedia.org/wiki/宇治駅_\(JR西日本\) "wikilink") - [新田駅間の](https://ja.wikipedia.org/wiki/新田駅_\(京都府\) "wikilink")[複線](https://ja.wikipedia.org/wiki/複線 "wikilink")化と同時に開業\[1\]\[2\]。
+  - [2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）[3月3日](../Page/3月3日.md "wikilink") - [奈良線](../Page/奈良線.md "wikilink")の[宇治駅](../Page/宇治駅_\(JR西日本\).md "wikilink") - [新田駅間の](../Page/新田駅_\(京都府\).md "wikilink")[複線](https://ja.wikipedia.org/wiki/複線 "wikilink")化と同時に開業\[1\]\[2\]。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[11月1日](../Page/11月1日.md "wikilink") - [ICカード](../Page/ICカード.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」の利用が可能となる\[3\]。
-  - [2018年](../Page/2018年.md "wikilink")（平成30年）[3月17日](../Page/3月17日.md "wikilink") - [駅ナンバリング](https://ja.wikipedia.org/wiki/駅ナンバリング "wikilink")が導入され、使用を開始。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）[3月17日](../Page/3月17日.md "wikilink") - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")が導入され、使用を開始。
 
 ## 駅構造
 
 [相対式ホーム](https://ja.wikipedia.org/wiki/相対式ホーム "wikilink")2面2線を持つ[地上駅](../Page/地上駅.md "wikilink")\[4\]で、ホームは大きくカーブしている。傾斜面上に駅があるため、改札・コンコースはホームより下層にあり、自由通路を有する\[5\]。北出口側から見ると、[高架駅](../Page/高架駅.md "wikilink")のように見える。[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")や[絶対信号機がない](https://ja.wikipedia.org/wiki/日本の鉄道信号#主信号機 "wikilink")[停留所に分類される](https://ja.wikipedia.org/wiki/停車場#停車場の定義 "wikilink")。
 
-[宇治駅が管理し](https://ja.wikipedia.org/wiki/宇治駅_\(JR西日本\) "wikilink")、[JR西日本交通サービス](https://ja.wikipedia.org/wiki/JR西日本交通サービス "wikilink")が駅業務を受託している[業務委託駅である](https://ja.wikipedia.org/wiki/日本の鉄道駅#業務委託駅 "wikilink")。[ICカード乗車券](../Page/乗車カード.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」が利用することができる（相互利用可能ICカードはICOCAの項を参照）。
+[宇治駅が管理し](../Page/宇治駅_\(JR西日本\).md "wikilink")、[JR西日本交通サービス](../Page/JR西日本交通サービス.md "wikilink")が駅業務を受託している[業務委託駅である](https://ja.wikipedia.org/wiki/日本の鉄道駅#業務委託駅 "wikilink")。[ICカード乗車券](../Page/乗車カード.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」が利用することができる（相互利用可能ICカードはICOCAの項を参照）。
 
 ### のりば
 
@@ -33,7 +33,7 @@
 <td><p>1</p></td>
 <td><p>奈良線</p></td>
 <td><p>上り</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇治駅_(JR西日本)" title="wikilink">宇治</a>・<a href="https://ja.wikipedia.org/wiki/京都駅" title="wikilink">京都方面</a></p></td>
+<td><p><a href="../Page/宇治駅_(JR西日本).md" title="wikilink">宇治</a>・<a href="https://ja.wikipedia.org/wiki/京都駅" title="wikilink">京都方面</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -134,7 +134,7 @@
 
 ## 駅周辺
 
-  - [近畿日本鉄道](https://ja.wikipedia.org/wiki/近畿日本鉄道 "wikilink")[京都線](../Page/近鉄京都線.md "wikilink") [小倉駅](https://ja.wikipedia.org/wiki/小倉駅_\(京都府\) "wikilink")
+  - [近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")[京都線](../Page/近鉄京都線.md "wikilink") [小倉駅](https://ja.wikipedia.org/wiki/小倉駅_\(京都府\) "wikilink")
   - [宇治市立小倉小学校](https://ja.wikipedia.org/wiki/宇治市立小倉小学校 "wikilink")
   - 宇治幼稚園
   - 宇治南陵郵便局
@@ -161,7 +161,7 @@
         快速・区間快速・普通
 
           -
-            [宇治駅](https://ja.wikipedia.org/wiki/宇治駅_\(JR西日本\) "wikilink") (JR-D09) - **JR小倉駅 (JR-D10)** - [新田駅](https://ja.wikipedia.org/wiki/新田駅_\(京都府\) "wikilink") (JR-D11)
+            [宇治駅](../Page/宇治駅_\(JR西日本\).md "wikilink") (JR-D09) - **JR小倉駅 (JR-D10)** - [新田駅](../Page/新田駅_\(京都府\).md "wikilink") (JR-D11)
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[StuffIt](https://ja.wikipedia.org/wiki/StuffIt)から翻訳されています。
 
 
-**StuffIt**（スタッフイット）は、[Classic Mac OSおよび](../Page/Classic_Mac_OS.md "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")で一般的な、非常に高い[圧縮率](../Page/圧縮率.md "wikilink")を誇る[データ圧縮](../Page/データ圧縮.md "wikilink")および[アーカイブ](https://ja.wikipedia.org/wiki/アーカイブ "wikilink")[フォーマット](../Page/ファイルフォーマット.md "wikilink")。Classic Mac OSでは、ドラッグ&ドロップだけで圧縮および伸長が出来るという便利さから一躍脚光を浴びた。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[Solaris](../Page/Solaris.md "wikilink")にも対応しているが、あまり普及していない。
+**StuffIt**（スタッフイット）は、[Classic Mac OSおよび](../Page/Classic_Mac_OS.md "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")で一般的な、非常に高い[圧縮率](../Page/圧縮率.md "wikilink")を誇る[データ圧縮](../Page/データ圧縮.md "wikilink")および[アーカイブ](../Page/アーカイブ.md "wikilink")[フォーマット](../Page/ファイルフォーマット.md "wikilink")。Classic Mac OSでは、ドラッグ&ドロップだけで圧縮および伸長が出来るという便利さから一躍脚光を浴びた。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")にも対応しているが、あまり普及していない。
 
 最近では、より圧縮率が高くなった「StuffIt X」と呼ばれるフォーマットが使われるようになった。また、StuffItフォーマットで圧縮したデータを伸長するのにソフトウェアを必要としない[自己解凍アーカイブ](https://ja.wikipedia.org/wiki/自己解凍アーカイブ "wikilink")(Self Extract Archive)が作成できるほか、アーカイブには[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")を施したり、冗長性を持たせたり（StuffIt Xのみ）、伸長時に、ファイルの利用者にメッセージを[メールで送らせる](../Page/電子メール.md "wikilink")「解凍確認」という情報を付加したりできる。
 
@@ -10,9 +10,9 @@
 1.  [LZ77](https://ja.wikipedia.org/wiki/LZ77 "wikilink")と[ハフマン符号](../Page/ハフマン符号.md "wikilink")
 2.  LZ77と[算術符号](../Page/算術符号.md "wikilink")
 3.  [ブロックソート](../Page/ブロックソート.md "wikilink")
-4.  [PPM](https://ja.wikipedia.org/wiki/Prediction_by_Partial_Matching "wikilink")
+4.  [PPM](../Page/Prediction_by_Partial_Matching.md "wikilink")
 5.  ファイルフォーマットから1〜3の中から適切なものを選択
-6.  [ファイルを分割して](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、それぞれの部分に対して1〜4の中から適切なものを選択
+6.  [ファイルを分割して](../Page/ファイル_\(コンピュータ\).md "wikilink")、それぞれの部分に対して1〜4の中から適切なものを選択
 
 の6種類が用意されている。
 

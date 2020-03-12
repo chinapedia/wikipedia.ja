@@ -3,13 +3,13 @@
 
 『**イースV**』（イース5、Ys V）では、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG) 、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第5作目となるコンピュータゲームとその派生作品を総合的に扱う。〈イースシリーズ〉の全体像ついては「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」を参照。
 
-オリジナル版の正式タイトルは『**イースV 失われた砂の都ケフィン**』（ - うしなわれたすなのみやこケフィン）。その他[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")版のタイトルとして『**イースVエキスパート**』 (Ys V Expert) 、『**イースV -Lost Kefin, Kingdom of Sand-**』（- ロストケフィン キングダムオブサンド）がある。
+オリジナル版の正式タイトルは『**イースV 失われた砂の都ケフィン**』（ - うしなわれたすなのみやこケフィン）。その他[リメイク](../Page/リメイク.md "wikilink")版のタイトルとして『**イースVエキスパート**』 (Ys V Expert) 、『**イースV -Lost Kefin, Kingdom of Sand-**』（- ロストケフィン キングダムオブサンド）がある。
 
 ## 概要
 
 赤毛の剣士**アドル・クリスティン**が主人公の冒険ファンタジー。アフロカ大陸に広がるケフィン砂漠を舞台に、『**幻の都ケフィン**』の謎に迫る冒険物語。原典とされる[アドルの冒険日誌は](https://ja.wikipedia.org/wiki/イースシリーズ#冒険日誌 "wikilink")『**砂の都ケフィン**』。
 
-発売時期が次世代機と[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") (SFC) の世代交代の時期にあたり、これ以降SFCでの新しいイースは販売しないことと、これまでに販売されていたSFC用のイースは、[移植の](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")『[イースIII](../Page/イースIII.md "wikilink")』と[トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")が開発した『[イースIV MASK OF THE SUN](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN "wikilink")』（原案はファルコム）であり、SFCに向けファルコムが開発・販売を手掛けたオリジナル作は今作が最初であった事から『**最後で最初のイース**』という[キャッチコピー](../Page/キャッチコピー.md "wikilink")で販売された。
+発売時期が次世代機と[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") (SFC) の世代交代の時期にあたり、これ以降SFCでの新しいイースは販売しないことと、これまでに販売されていたSFC用のイースは、[移植の](../Page/移植_\(ソフトウェア\).md "wikilink")『[イースIII](../Page/イースIII.md "wikilink")』と[トンキンハウス](../Page/トンキンハウス.md "wikilink")が開発した『[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")』（原案はファルコム）であり、SFCに向けファルコムが開発・販売を手掛けたオリジナル作は今作が最初であった事から『**最後で最初のイース**』という[キャッチコピー](../Page/キャッチコピー.md "wikilink")で販売された。
 
 『イースVエキスパート』（SFC用）は難易度を上げ、バグをいくつか修正して、追加要素を加えたもの。シリーズの矛盾を無くすため有翼人設定を盛り込み、ファルコム監修の元、リメイク作品として『イースV -Lost Kefin, Kingdom of Sand-』がPlayStation 2用として[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された。
 
@@ -19,7 +19,7 @@
 
 ## ゲームシステム
 
-『システム一新』と言えるほど前作までとは打って変わっており、意欲的に新システムが導入されているものの、完成度が低い物が多く、批判を受ける事が多い。[クォータービューのARPGで](../Page/ビュー.md "wikilink")、シリーズで初めて高さの概念を導入。基本アクションは移動、ジャンプ、攻撃（剣を振る）、防御（盾を構える）、魔法（後述）。フィールド上の敵を攻撃し倒す事により[経験値](../Page/経験値.md "wikilink") (EXP) を取得し、主人公の[レベル](https://ja.wikipedia.org/wiki/レベル_\(ロールプレイングゲーム\) "wikilink") (Lv) が上がることによって、ステータスが上昇する。
+『システム一新』と言えるほど前作までとは打って変わっており、意欲的に新システムが導入されているものの、完成度が低い物が多く、批判を受ける事が多い。[クォータービューのARPGで](../Page/ビュー.md "wikilink")、シリーズで初めて高さの概念を導入。基本アクションは移動、ジャンプ、攻撃（剣を振る）、防御（盾を構える）、魔法（後述）。フィールド上の敵を攻撃し倒す事により[経験値](../Page/経験値.md "wikilink") (EXP) を取得し、主人公の[レベル](../Page/レベル_\(ロールプレイングゲーム\).md "wikilink") (Lv) が上がることによって、ステータスが上昇する。
 
 ### 画面構成
 
@@ -135,7 +135,7 @@
 
 ### セーブ
 
-[バッテリーバックアップ](../Page/バッテリーバックアップ.md "wikilink") (BB) による[セーブが出来るのは宿屋のみで](https://ja.wikipedia.org/wiki/セーブ_\(コンピュータ\) "wikilink")、シリーズ初の定点セーブとなった。ただしリセットや、電源OFFさえしなければ[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")後に再開できる**クイックセーブ**があるため、実質的には前作までとの差はほとんどない。
+[バッテリーバックアップ](../Page/バッテリーバックアップ.md "wikilink") (BB) による[セーブが出来るのは宿屋のみで](../Page/セーブ_\(コンピュータ\).md "wikilink")、シリーズ初の定点セーブとなった。ただしリセットや、電源OFFさえしなければ[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")後に再開できる**クイックセーブ**があるため、実質的には前作までとの差はほとんどない。
 
 ## 登場人物
 
@@ -179,7 +179,7 @@
 
 ## イースV -Lost Kefin, Kingdom of Sand-
 
-タイトーによる[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 向け[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")作品。開発はアクセス。システムは同じくタイトーより発売されたPS2版[イースIV](../Page/イースIV.md "wikilink")『[イースIV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN_-a_new_theory- "wikilink") 』のシステムに改良を加える形で作られており、オリジナルとは大きく異なる。ストーリーにもアレンジが加えられており、PS2版『IV』と同じく、『VI』の有翼人による古代文明と言う世界設定を踏襲している。オリジナルでは登場しなかったドギが登場する反面、ストーカー等のように登場しなくなったキャラクターもいる。
+タイトーによる[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 向け[リメイク](../Page/リメイク.md "wikilink")作品。開発はアクセス。システムは同じくタイトーより発売されたPS2版[イースIV](../Page/イースIV.md "wikilink")『[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink") 』のシステムに改良を加える形で作られており、オリジナルとは大きく異なる。ストーリーにもアレンジが加えられており、PS2版『IV』と同じく、『VI』の有翼人による古代文明と言う世界設定を踏襲している。オリジナルでは登場しなかったドギが登場する反面、ストーカー等のように登場しなくなったキャラクターもいる。
 
 ### キャスト
 
@@ -188,11 +188,11 @@
   - ドギ（声 - [山川敦也](https://ja.wikipedia.org/wiki/山川敦也 "wikilink")）
   - ニーナ（声 - [吉田愛理](../Page/吉田愛理.md "wikilink")）
   - テラ（声 - [荒木香恵](../Page/荒木香衣.md "wikilink")）
-  - マーシャ / バルク（声 - [田中涼子](https://ja.wikipedia.org/wiki/田中涼子_\(声優\) "wikilink")）
+  - マーシャ / バルク（声 - [田中涼子](../Page/田中涼子_\(声優\).md "wikilink")）
   - スタン（声 - [山根剛](https://ja.wikipedia.org/wiki/山根剛 "wikilink")）
   - リジェ（声 - [藤本教子](../Page/藤本教子.md "wikilink")）
   - アルガ（声 - [竹間千ノ美](https://ja.wikipedia.org/wiki/竹間千ノ美 "wikilink")）
-  - ディオス（声 - [前田剛](https://ja.wikipedia.org/wiki/前田剛 "wikilink")）
+  - ディオス（声 - [前田剛](../Page/前田剛.md "wikilink")）
   - ノティス（声 - [木之本亞樹](https://ja.wikipedia.org/wiki/木之本亞樹 "wikilink")）
   - ドーマン（声 - [和村康市](https://ja.wikipedia.org/wiki/和村康市 "wikilink")）
 
@@ -221,7 +221,7 @@
 <small>
 
   - L列は発行レーベルを示す。
-      - FL (K)：[キングレコード](../Page/キングレコード.md "wikilink")の[ファルコムレーベル](https://ja.wikipedia.org/wiki/ファルコムレーベル "wikilink")、FL (F)：[日本ファルコム](../Page/日本ファルコム.md "wikilink")のファルコムレーベル
+      - FL (K)：[キングレコード](../Page/キングレコード.md "wikilink")の[ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink")、FL (F)：[日本ファルコム](../Page/日本ファルコム.md "wikilink")のファルコムレーベル
 
 </small>
 
@@ -292,10 +292,10 @@
 
   - アドル・クリスティン（声 - [草尾毅](../Page/草尾毅.md "wikilink")）
   - ニーナ（声 - [川菜翠](../Page/KAORI..md "wikilink")）
-  - ウィリー（声 - [日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")）
-  - オーウェル（声 - [梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")）
+  - ウィリー（声 - [日高のり子](../Page/日高のり子.md "wikilink")）
+  - オーウェル（声 - [梁田清之](../Page/梁田清之.md "wikilink")）
   - ストーカー（声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
-  - フォレスタ（声 - [冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")）
+  - フォレスタ（声 - [冬馬由美](../Page/冬馬由美.md "wikilink")）
 
 </div>
 
@@ -303,17 +303,17 @@
 
   - ジャビル（声 - [若本規夫](../Page/若本規夫.md "wikilink")）
   - ドーマン（声 - [速水奨](../Page/速水奨.md "wikilink")）
-  - ツェット（声 - [古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")）
+  - ツェット（声 - [古澤徹](../Page/古澤徹.md "wikilink")）
   - リジェ（声 - [根谷美智子](../Page/根谷美智子.md "wikilink")）
-  - ロポラ（声 - [成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")）
+  - ロポラ（声 - [成田剣](../Page/成田剣.md "wikilink")）
 
 </div>
 
 ### 小説
 
-〈イースシリーズ〉の小説化を手がけている[大場惑](https://ja.wikipedia.org/wiki/大場惑 "wikilink")による作品が全3巻発売されている。上・中巻は前作までに引き続き[ログアウト冒険文庫](../Page/ログアウト冒険文庫.md "wikilink")から発行されたが、下巻のみ同年創刊された[ファミ通ゲーム文庫](../Page/ファミ通ゲーム文庫.md "wikilink")からの発行となっている。
+〈イースシリーズ〉の小説化を手がけている[大場惑](../Page/大場惑.md "wikilink")による作品が全3巻発売されている。上・中巻は前作までに引き続き[ログアウト冒険文庫](../Page/ログアウト冒険文庫.md "wikilink")から発行されたが、下巻のみ同年創刊された[ファミ通ゲーム文庫](../Page/ファミ通ゲーム文庫.md "wikilink")からの発行となっている。
 
-  - [大場惑](https://ja.wikipedia.org/wiki/大場惑 "wikilink")（著）・ 池上明子（イラスト）『イースV さまよえる砂の都』[アスペクト](../Page/アスペクト_\(企業\).md "wikilink")
+  - [大場惑](../Page/大場惑.md "wikilink")（著）・ 池上明子（イラスト）『イースV さまよえる砂の都』[アスペクト](../Page/アスペクト_\(企業\).md "wikilink")
       - 〈[ログアウト冒険文庫](../Page/ログアウト冒険文庫.md "wikilink")〉
           - 上、1996年1月1日発行、ISBN 4-89366-454-9
           - 中、1996年2月22日発行、ISBN 4-89366-465-4

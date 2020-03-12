@@ -1,21 +1,21 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**シドニー・フットボール・クラブ**（[英語](../Page/英語.md "wikilink")：Sydney Football Club）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の南東部、[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")の州都[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")をホームタウンとする、オーストラリアプロサッカーリーグ（[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")）に加盟するプロサッカークラブ。
+**シドニー・フットボール・クラブ**（[英語](../Page/英語.md "wikilink")：Sydney Football Club）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の南東部、[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")の州都[シドニー](../Page/シドニー.md "wikilink")をホームタウンとする、オーストラリアプロサッカーリーグ（[Aリーグ](../Page/Aリーグ.md "wikilink")）に加盟するプロサッカークラブ。
 
 ## 概要
 
-オーストラリアではそれまで[セミプロ](https://ja.wikipedia.org/wiki/セミプロ "wikilink")による[オーストラリアン・ナショナルサッカーリーグ](https://ja.wikipedia.org/wiki/オーストラリアン・ナショナルサッカーリーグ "wikilink")が開催され、シドニーからも5クラブが参戦していたが、オーストラリアサッカー連盟が[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")から[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")に転籍することが決まり、オーストラリアのサッカーの全体のレベルアップを図る目的から完全プロによる「[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")」が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からスタートし、同年2月に新たにシドニーFCを結成した。
+オーストラリアではそれまで[セミプロ](https://ja.wikipedia.org/wiki/セミプロ "wikilink")による[オーストラリアン・ナショナルサッカーリーグ](../Page/オーストラリアン・ナショナルサッカーリーグ.md "wikilink")が開催され、シドニーからも5クラブが参戦していたが、オーストラリアサッカー連盟が[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")から[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")に転籍することが決まり、オーストラリアのサッカーの全体のレベルアップを図る目的から完全プロによる「[Aリーグ](../Page/Aリーグ.md "wikilink")」が[2005年](../Page/2005年.md "wikilink")からスタートし、同年2月に新たにシドニーFCを結成した。
 
-チームはその年のオセアニアクラブ選手権大会で結成まもなく優勝を決定。12月の[トヨタカップ世界クラブ選手権大会のオセアニア代表として参戦することとなったが](https://ja.wikipedia.org/wiki/FIFAクラブ世界選手権2005 "wikilink")、その初戦（12月12日、[豊田スタジアム](../Page/豊田スタジアム.md "wikilink")・[デポルティーボ・サプリサ](https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ "wikilink")=[コスタリカ](../Page/コスタリカ.md "wikilink")）で敗れた。
+チームはその年のオセアニアクラブ選手権大会で結成まもなく優勝を決定。12月の[トヨタカップ世界クラブ選手権大会のオセアニア代表として参戦することとなったが](../Page/FIFAクラブ世界選手権2005.md "wikilink")、その初戦（12月12日、[豊田スタジアム](../Page/豊田スタジアム.md "wikilink")・[デポルティーボ・サプリサ](../Page/デポルティーボ・サプリサ.md "wikilink")=[コスタリカ](../Page/コスタリカ.md "wikilink")）で敗れた。
 
-同チームには[Jリーグ経験者も多数参戦しており](../Page/日本プロサッカーリーグ.md "wikilink")、[ピエール・リトバルスキー](../Page/ピエール・リトバルスキー.md "wikilink")監督を筆頭に、[イアン・クルーク](https://ja.wikipedia.org/wiki/イアン・クルーク "wikilink")アシスタントコーチ、選手では[スティーブ・コリカ](https://ja.wikipedia.org/wiki/スティーブ・コリカ "wikilink")、[マシュー・ビングリー](https://ja.wikipedia.org/wiki/マシュー・ビングリー "wikilink")、そして[横浜FC](../Page/横浜FC.md "wikilink")からゲストプレイヤー（[期限付き移籍](../Page/期限付き移籍.md "wikilink")に同義）として加入した[三浦知良](../Page/三浦知良.md "wikilink")が在籍していた。
+同チームには[Jリーグ経験者も多数参戦しており](../Page/日本プロサッカーリーグ.md "wikilink")、[ピエール・リトバルスキー](../Page/ピエール・リトバルスキー.md "wikilink")監督を筆頭に、[イアン・クルーク](../Page/イアン・クルーク.md "wikilink")アシスタントコーチ、選手では[スティーブ・コリカ](../Page/スティーブ・コリカ.md "wikilink")、[マシュー・ビングリー](../Page/マシュー・ビングリー.md "wikilink")、そして[横浜FC](../Page/横浜FC.md "wikilink")からゲストプレイヤー（[期限付き移籍](../Page/期限付き移籍.md "wikilink")に同義）として加入した[三浦知良](../Page/三浦知良.md "wikilink")が在籍していた。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[リーグ](https://ja.wikipedia.org/wiki/Aリーグ "wikilink")：2回**
+  - **[リーグ](../Page/Aリーグ.md "wikilink")：2回**
       - **Aリーグレギュラーシーズン：2回**
           - 2009-2010, 2016-2017
       - **Aリーグファイナルシリーズ：3回**
@@ -23,7 +23,7 @@
 
 ### 国際タイトル
 
-  - **[OFCクラブ選手権](https://ja.wikipedia.org/wiki/OFCチャンピオンズリーグ "wikilink")：1回**
+  - **[OFCクラブ選手権](../Page/OFCチャンピオンズリーグ.md "wikilink")：1回**
 
 <!-- end list -->
 
@@ -53,13 +53,13 @@
 
   - [2019年](../Page/2019年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")現在\[1\]
 
-([主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+([主将](../Page/主将.md "wikilink"))
 
   - [監督](../Page/監督.md "wikilink")
 
 <!-- end list -->
 
-  - [スティーブ・コリカ](https://ja.wikipedia.org/wiki/スティーブ・コリカ "wikilink")
+  - [スティーブ・コリカ](../Page/スティーブ・コリカ.md "wikilink")
 
 ## 歴代監督
 
@@ -73,13 +73,13 @@
 
   -  2009-2011
 
-  - [イアン・クルーク](https://ja.wikipedia.org/wiki/イアン・クルーク "wikilink") 2012-2012.11
+  - [イアン・クルーク](../Page/イアン・クルーク.md "wikilink") 2012-2012.11
 
   - [フランク・ファリーナ](https://ja.wikipedia.org/wiki/フランク・ファリーナ "wikilink") 2012.11-2014.4
 
-  - [グラハム・アーノルド](https://ja.wikipedia.org/wiki/グラハム・アーノルド "wikilink") 2014.5-2018
+  - [グラハム・アーノルド](../Page/グラハム・アーノルド.md "wikilink") 2014.5-2018
 
-  - [スティーブ・コリカ](https://ja.wikipedia.org/wiki/スティーブ・コリカ "wikilink") 2018-
+  - [スティーブ・コリカ](../Page/スティーブ・コリカ.md "wikilink") 2018-
 
 ## 歴代所属選手
 
@@ -93,7 +93,7 @@
 
 ### DF
 
-  - [マシュー・ビングリー](https://ja.wikipedia.org/wiki/マシュー・ビングリー "wikilink") 2005-2006
+  - [マシュー・ビングリー](../Page/マシュー・ビングリー.md "wikilink") 2005-2006
 
   - [マーク・ルダン](../Page/マーク・ルダン.md "wikilink") 2005-2007
 
@@ -105,17 +105,17 @@
 
   - [ウフク・タレイ](../Page/ウフク・タレイ.md "wikilink") 2005-2008
 
-  - [トニー・ポポヴィッチ](https://ja.wikipedia.org/wiki/トニー・ポポヴィッチ "wikilink") 2007-2008
+  - [トニー・ポポヴィッチ](../Page/トニー・ポポヴィッチ.md "wikilink") 2007-2008
 
   - [サイモン・コロシモ](https://ja.wikipedia.org/wiki/サイモン・コロシモ "wikilink") 2008-2010
 
   - [シャノン・コール](https://ja.wikipedia.org/wiki/シャノン・コール "wikilink") 2008-2012
 
-  - [ハイデン・フォックス](https://ja.wikipedia.org/wiki/ハイデン・フォックス "wikilink") 2010-2011
+  - [ハイデン・フォックス](../Page/ハイデン・フォックス.md "wikilink") 2010-2011
 
   - [マイケル・ビューチャンプ](https://ja.wikipedia.org/wiki/マイケル・ビューチャンプ "wikilink") 2011-2012
 
-  - [ルーカス・ニール](https://ja.wikipedia.org/wiki/ルーカス・ニール "wikilink") 2013
+  - [ルーカス・ニール](../Page/ルーカス・ニール.md "wikilink") 2013
 
   - [サーシャ・オグネノヴスキ](https://ja.wikipedia.org/wiki/サーシャ・オグネノヴスキ "wikilink") 2014-2015
 
@@ -123,15 +123,15 @@
 
 ### MF
 
-  - [スティーブ・コリカ](https://ja.wikipedia.org/wiki/スティーブ・コリカ "wikilink") 2005-2010
+  - [スティーブ・コリカ](../Page/スティーブ・コリカ.md "wikilink") 2005-2010
 
-  - [ジュニーニョ・パウリスタ](https://ja.wikipedia.org/wiki/ジュニーニョ・パウリスタ "wikilink") 2007-2008
+  - [ジュニーニョ・パウリスタ](../Page/ジュニーニョ・パウリスタ.md "wikilink") 2007-2008
 
   - [ニック・カール](https://ja.wikipedia.org/wiki/ニック・カール "wikilink") 2010-2015
 
   - [森安洋文](https://ja.wikipedia.org/wiki/森安洋文 "wikilink") 2010-2012
 
-  - [ブレット・エマートン](https://ja.wikipedia.org/wiki/ブレット・エマートン "wikilink") 2011-2014
+  - [ブレット・エマートン](../Page/ブレット・エマートン.md "wikilink") 2011-2014
 
   - [ジェイソン・クリナ](../Page/ジェイソン・クリナ.md "wikilink") 2012-2013
 
@@ -145,13 +145,13 @@
 
   - [三浦知良](../Page/三浦知良.md "wikilink") 2005-2006
 
-  - [ドワイト・ヨーク](https://ja.wikipedia.org/wiki/ドワイト・ヨーク "wikilink") 2005-2006
+  - [ドワイト・ヨーク](../Page/ドワイト・ヨーク.md "wikilink") 2005-2006
 
   - [サショ・ペトロフスキ](https://ja.wikipedia.org/wiki/サショ・ペトロフスキ "wikilink") 2005-2007
 
   - [ベニト・カルボーネ](https://ja.wikipedia.org/wiki/ベニト・カルボーネ "wikilink") 2006
 
-  - [ジョン・アロイージ](https://ja.wikipedia.org/wiki/ジョン・アロイージ "wikilink") 2008-2010
+  - [ジョン・アロイージ](../Page/ジョン・アロイージ.md "wikilink") 2008-2010
 
   - [マーク・ブリッジ](https://ja.wikipedia.org/wiki/マーク・ブリッジ "wikilink") 2008-2012
 

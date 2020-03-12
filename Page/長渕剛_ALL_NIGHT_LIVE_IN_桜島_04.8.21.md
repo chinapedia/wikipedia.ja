@@ -1,7 +1,7 @@
 > この記事は[ ALL NIGHT LIVE IN  04.8.21](https://ja.wikipedia.org/wiki/_ALL_NIGHT_LIVE_IN__04.8.21)から翻訳されています。
 
 
-『**長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21**』（ながぶちつよし・オール・ナイト・ライブ・イン・さくらじま-）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+『**長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21**』（ながぶちつよし・オール・ナイト・ライブ・イン・さくらじま-）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 ## 背景
 
@@ -33,11 +33,11 @@
 
 ## リリース
 
-[2004年](../Page/2004年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりリリースされた。写真集及び解説を含んだブックレットが同封されている\[28\]。
+[2004年](../Page/2004年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりリリースされた。写真集及び解説を含んだブックレットが同封されている\[28\]。
 
 ## プロモーション
 
-「桜島オールナイトライブ」に関するテレビ出演は、2004年2月29日に[フジテレビ系バラエティ番組](../Page/フジテレビ系列.md "wikilink")『[堂本兄弟](../Page/堂本兄弟.md "wikilink")』（[2001年](../Page/2001年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")）に初出演し「泣いてチンピラ」を演奏\[29\]、3月10日には[NHK総合インタビュー番組](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[わたしはあきらめない](https://ja.wikipedia.org/wiki/わたしはあきらめない "wikilink")』に出演し「STAY DREAM」を演奏した\[30\]。
+「桜島オールナイトライブ」に関するテレビ出演は、2004年2月29日に[フジテレビ系バラエティ番組](../Page/フジテレビ系列.md "wikilink")『[堂本兄弟](../Page/堂本兄弟.md "wikilink")』（[2001年](../Page/2001年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")）に初出演し「泣いてチンピラ」を演奏\[29\]、3月10日には[NHK総合インタビュー番組](../Page/NHK総合テレビジョン.md "wikilink")『[わたしはあきらめない](../Page/わたしはあきらめない.md "wikilink")』に出演し「STAY DREAM」を演奏した\[30\]。
 
 ## 批評
 
@@ -57,14 +57,14 @@
 
 ### 参加ミュージシャン
 
-  - 長渕剛 - [ギター](../Page/ギター.md "wikilink")、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - 長渕剛 - [ギター](../Page/ギター.md "wikilink")、[ブルースハープ](../Page/ハーモニカ.md "wikilink")
   - [笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink") - [バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
       -
         演奏が少なめであるが、これは[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")を患っていた為である。
   - [岡本郭男](../Page/岡本郭男.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
   - 川嶋一久 - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
   - 角田順 - ギター
-  - [国吉良一](https://ja.wikipedia.org/wiki/国吉良一 "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [国吉良一](../Page/国吉良一.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - 昼田洋二 - [サクソフォーン](../Page/サクソフォーン.md "wikilink")、キーボード
   - 浜田良美 - ギター、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - 和田惠子 - コーラス

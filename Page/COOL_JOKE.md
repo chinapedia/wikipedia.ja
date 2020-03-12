@@ -8,9 +8,9 @@
 ## メンバー
 
   - **Vocal 石川 寛也**（いしかわ ひろや、 - ）　[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")出身。少年時代からあだ名は“五右衛門”。オーティス・レディングとミック・ジャガーと雀士に憧れる。ロックンロールとマルボロライトと福井をこよなく愛する。
-  - **Guitar 麻畠 卓**（あさばたけ すぐる、 - ） [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")（旧[大沢野町](https://ja.wikipedia.org/wiki/大沢野町 "wikilink")）出身。あだなは“バタやん”。オジー・オズボーン好きで大のメタルファン。(2013年7月に脱退)
+  - **Guitar 麻畠 卓**（あさばたけ すぐる、 - ） [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")（旧[大沢野町](../Page/大沢野町.md "wikilink")）出身。あだなは“バタやん”。オジー・オズボーン好きで大のメタルファン。(2013年7月に脱退)
   - **Guitar 山下 雅之**　サポートとして参加していたが、麻畠の脱退により正式加入　　　
-  - **Drums 斉藤　広幸**（さいとう ひろゆき、 - ）[福井県](../Page/福井県.md "wikilink")[吉田郡](../Page/吉田郡.md "wikilink")[松岡町出身](https://ja.wikipedia.org/wiki/松岡町_\(福井県\) "wikilink")。勝手に“ジャッカル”と名乗っていた。MCするのは、4年に1度のイケメン・ドラマー。
+  - **Drums 斉藤　広幸**（さいとう ひろゆき、 - ）[福井県](../Page/福井県.md "wikilink")[吉田郡](../Page/吉田郡.md "wikilink")[松岡町出身](../Page/松岡町_\(福井県\).md "wikilink")。勝手に“ジャッカル”と名乗っていた。MCするのは、4年に1度のイケメン・ドラマー。
   - **Bass ヒキチ　タクマ**（ex.[C.O.M.P.](https://ja.wikipedia.org/wiki/C.O.M.P. "wikilink")）（ - ） 2010年4月に正式加入。
 
 ## タイトル
@@ -21,7 +21,7 @@
     1.  UNDO（アニメ『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』オープニング主題歌）
     2.  ぶっ壊れた月
   - 「[愛のチカラ](https://ja.wikipedia.org/wiki/愛のチカラ "wikilink")（完全生産限定盤）」2004年8月18日
-    1.  愛のチカラ（深夜情報番組『[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")』2004年8・9月度オープニング主題歌）
+    1.  愛のチカラ（深夜情報番組『[ランク王国](../Page/ランク王国.md "wikilink")』2004年8・9月度オープニング主題歌）
     2.  あるがままで
   - 「OK,フルスロットル」2005年1月19日
     1.  OK,フルスロットル

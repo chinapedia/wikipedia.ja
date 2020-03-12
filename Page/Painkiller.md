@@ -5,7 +5,7 @@
 
 ## 概要
 
-SinglePlayerでは[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")を彷彿とさせる大量の敵を豊富な[弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")で倒していくという近年のFPSの動向とは逆行する爽快感を求めたゲームスタイルをとっている。大量の敵という点で[Serious Samシリーズに似ているが](https://ja.wikipedia.org/wiki/Serious_Sam "wikilink")、マップの暗さ、弾薬の多さ、演出のグロテスクさと言った点で異なり、プレイ感覚は殆ど違うと言ってよい。マップや敵のデザインが現代風と中世風の２つに分かれているが、これは販売までの経緯によるものである。 PeopleCanFly社が独自に開発したPainエンジンによるグラフィックは2004年のFPSではトップ5に入るであろう。物理エンジンに[Havokを採用しているため敵を吹き飛ばした後の挙動などはリアルで](../Page/Havok_\(ソフトウェア\).md "wikilink")、それにより爽快感が増している。
+SinglePlayerでは[DOOM](../Page/DOOM.md "wikilink")を彷彿とさせる大量の敵を豊富な[弾薬](../Page/弾薬.md "wikilink")で倒していくという近年のFPSの動向とは逆行する爽快感を求めたゲームスタイルをとっている。大量の敵という点で[Serious Samシリーズに似ているが](https://ja.wikipedia.org/wiki/Serious_Sam "wikilink")、マップの暗さ、弾薬の多さ、演出のグロテスクさと言った点で異なり、プレイ感覚は殆ど違うと言ってよい。マップや敵のデザインが現代風と中世風の２つに分かれているが、これは販売までの経緯によるものである。 PeopleCanFly社が独自に開発したPainエンジンによるグラフィックは2004年のFPSではトップ5に入るであろう。物理エンジンに[Havokを採用しているため敵を吹き飛ばした後の挙動などはリアルで](../Page/Havok_\(ソフトウェア\).md "wikilink")、それにより爽快感が増している。
 
 ## 販売までの経緯
 
@@ -40,9 +40,9 @@ SinglePlayerでは[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")を彷彿
   - [ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")（SHOTGUN / FREEZER）
     散弾銃。威力は高い。サブでは氷の弾を放ち、殆どの敵を一定時間凍らせることが可能。凍らせた敵はどんな攻撃でも一撃で倒せる。
   - ステイクガン（STAKEGUN / GRENADE-LAUNCHER）
-    巨大な[杭](../Page/杭.md "wikilink")を発射する。威力は高く、敵を壁に打ち付ける。サブウェポンは[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")で、威力の高い[グレネード](https://ja.wikipedia.org/wiki/グレネード "wikilink")を発射できるが、爆風には注意する必要がある。
-  - [ロケットランチャー](https://ja.wikipedia.org/wiki/ロケットランチャー "wikilink")（ROCKET-LAUNCHER / CHAINGUN）
-    ロケット弾を発射する。当然威力は高いが、グレネードランチャー同様、爆風には注意する必要がある。サブウェポンは[チェーンガン](https://ja.wikipedia.org/wiki/チェーンガン "wikilink")で、強力だが、弾の消費が激しい。
+    巨大な[杭](../Page/杭.md "wikilink")を発射する。威力は高く、敵を壁に打ち付ける。サブウェポンは[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")で、威力の高い[グレネード](../Page/グレネード.md "wikilink")を発射できるが、爆風には注意する必要がある。
+  - [ロケットランチャー](../Page/ロケットランチャー.md "wikilink")（ROCKET-LAUNCHER / CHAINGUN）
+    ロケット弾を発射する。当然威力は高いが、グレネードランチャー同様、爆風には注意する必要がある。サブウェポンは[チェーンガン](../Page/チェーンガン.md "wikilink")で、強力だが、弾の消費が激しい。
   - エレクトロドライバー（ELECTRODRIVER）
     [手裏剣](../Page/手裏剣.md "wikilink")をマシンガンのように発射する。サブでは電撃を放ち、敵を痺れさせる。
 
@@ -62,29 +62,29 @@ SinglePlayerでは[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")を彷彿
 ## 主な敵キャラクター
 
   - ゾンビ・ウォリアー（ZOMBIE WARRIOR）
-    [アンデッド](https://ja.wikipedia.org/wiki/アンデッド "wikilink")の[騎士](../Page/騎士.md "wikilink")。墓や地中から出現する。[剣](../Page/剣.md "wikilink")や[モーニングスターで攻撃してくる](https://ja.wikipedia.org/wiki/モーニングスター_\(武器\) "wikilink")。
+    [アンデッド](../Page/アンデッド.md "wikilink")の[騎士](../Page/騎士.md "wikilink")。墓や地中から出現する。[剣](../Page/剣.md "wikilink")や[モーニングスターで攻撃してくる](https://ja.wikipedia.org/wiki/モーニングスター_\(武器\) "wikilink")。
   - ゾンビ・ウォーロード（ZOMBIE WARLORD）
     上位騎士のアンデッド。動きは素早く、盾で殴ってきたり、ゾンビウォリアーの首を刎ね、突進させたりする。
   - エビル・モンク（EVIL MONK）
     邪悪な[修道士](../Page/修道士.md "wikilink")。[斧](../Page/斧.md "wikilink")を武器とするタイプと、[松明](https://ja.wikipedia.org/wiki/松明 "wikilink")を持ち[爆弾](../Page/爆弾.md "wikilink")を投げつけてくるタイプが存在する。
   - デビル・モンク（DEVIL MONK）
-    髑髏のような頭を持つ悪魔の修道士。プレイヤーの動きをスローダウンさせたり、毒ガスを放つ[ハルバード](https://ja.wikipedia.org/wiki/ハルバード "wikilink")で攻撃してくる。
+    髑髏のような頭を持つ悪魔の修道士。プレイヤーの動きをスローダウンさせたり、毒ガスを放つ[ハルバード](../Page/ハルバード.md "wikilink")で攻撃してくる。
   - サイコヌン（PSYCHONUN）
     [大鎌](../Page/大鎌.md "wikilink")を持つ[尼僧](https://ja.wikipedia.org/wiki/尼僧 "wikilink")のモンスター。プレイヤーを一定時間攻撃不能にする魔法を放つ強化タイプも存在する。
   - ダーク・ニンジャ（DARK NINJA）
-    アンデッドの[忍者](../Page/忍者.md "wikilink")。日本語のような奇妙な言葉を喋る。[吹き矢](https://ja.wikipedia.org/wiki/吹き矢 "wikilink")を持つタイプと、[刀](../Page/刀.md "wikilink")や手裏剣で攻撃してくるタイプが存在する。
+    アンデッドの[忍者](../Page/忍者.md "wikilink")。日本語のような奇妙な言葉を喋る。[吹き矢](../Page/吹き矢.md "wikilink")を持つタイプと、[刀](../Page/刀.md "wikilink")や手裏剣で攻撃してくるタイプが存在する。
   - エビル・サムライ（EVIL SAMURAI）
-    アンデッドの[侍](../Page/侍.md "wikilink")。[二刀流](https://ja.wikipedia.org/wiki/二刀流 "wikilink")で刀を操り、火炎弾を放つタイプと、両端に氷の刃が付いた[薙刀](../Page/薙刀.md "wikilink")を使い、氷弾を放つタイプが存在する。死に間際に[切腹](https://ja.wikipedia.org/wiki/切腹 "wikilink")し自爆することもある。
+    アンデッドの[侍](../Page/侍.md "wikilink")。[二刀流](../Page/二刀流.md "wikilink")で刀を操り、火炎弾を放つタイプと、両端に氷の刃が付いた[薙刀](../Page/薙刀.md "wikilink")を使い、氷弾を放つタイプが存在する。死に間際に[切腹](https://ja.wikipedia.org/wiki/切腹 "wikilink")し自爆することもある。
   - サド・コマンドー（SADO COMMANDO）
-    レザーマスクに[ボールギャグ](https://ja.wikipedia.org/wiki/ボールギャグ "wikilink")を着け、アーマー、[マシンピストルを装備した戦闘員](https://ja.wikipedia.org/wiki/イングラムM10 "wikilink")。グレネードを投げつけてくることもある。マシンピストルを[二丁拳銃](https://ja.wikipedia.org/wiki/二丁拳銃 "wikilink")で操る強化タイプも存在する。
+    レザーマスクに[ボールギャグ](https://ja.wikipedia.org/wiki/ボールギャグ "wikilink")を着け、アーマー、[マシンピストルを装備した戦闘員](https://ja.wikipedia.org/wiki/イングラムM10 "wikilink")。グレネードを投げつけてくることもある。マシンピストルを[二丁拳銃](../Page/二丁拳銃.md "wikilink")で操る強化タイプも存在する。
   - マゾ・コマンドー（MASO COMMANDO）
-    レザースーツを身にまとった戦闘員。グレネードランチャーと[火炎放射器](https://ja.wikipedia.org/wiki/火炎放射器 "wikilink")が1つになった武器を使う。スケルトン・ソルジャーに炎を浴びせ、素早さをアップさせたりもする。
+    レザースーツを身にまとった戦闘員。グレネードランチャーと[火炎放射器](../Page/火炎放射器.md "wikilink")が1つになった武器を使う。スケルトン・ソルジャーに炎を浴びせ、素早さをアップさせたりもする。
   - スケルトン・ソルジャー（SKELETON SOLDIER）
     [ガスマスク](../Page/ガスマスク.md "wikilink")を着けたアンデッドの兵士。雄叫びを上げながら[銃剣](../Page/銃剣.md "wikilink")を構えて突撃してくる。ガス弾を投げつけてくることもある。砲台を操作しているものもいる。
   - ヘル・バイカー（HELL BIKER）
     暴走族のアンデッド。[トミーガン](https://ja.wikipedia.org/wiki/トミーガン "wikilink")、チェーンガンによる攻撃や、突進し頭突きを喰らわせてくる。
   - ヘル・エンジェル（HELL ANGEL）
-    鉄仮面のような頭部を持つパンク風の戦士。ヘル・バイカーと共に登場することが多い。スタンロッドや[釘バット](https://ja.wikipedia.org/wiki/釘バット "wikilink")、[火炎瓶](../Page/火炎瓶.md "wikilink")やロケットランチャーなど多彩な武器を使う。
+    鉄仮面のような頭部を持つパンク風の戦士。ヘル・バイカーと共に登場することが多い。スタンロッドや[釘バット](../Page/釘バット.md "wikilink")、[火炎瓶](../Page/火炎瓶.md "wikilink")やロケットランチャーなど多彩な武器を使う。
   - スカル（SKULL）
     髑髏の頭を持つ長身の戦士。トゲ付きのプロテクターや革ジャンを着用し、ショットガンで攻撃してくる。ヘル・バイカーを掴んで盾にする事もある。
   - [ゾンビ](../Page/ゾンビ.md "wikilink")（ZOMBIE）
@@ -107,7 +107,7 @@ SinglePlayerでは[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")を彷彿
 ## 移植
 
   - Painkiller Hell Wars
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")（日本国内では未発売）。この作品は拡張パック「Painkiller：Battle Out of Hell」の要素を若干加えているものの、オリジナル版にはあった幾つかのマップやモンスターなどが削られてしまっている等、完全移植には至っていない。また、武器の性能が一部異なる、一部のレベルのタロットカード獲得条件がオリジナル版よりも易しくなっている等、変更点もある。
+    [2006年](../Page/2006年.md "wikilink")に[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")（日本国内では未発売）。この作品は拡張パック「Painkiller：Battle Out of Hell」の要素を若干加えているものの、オリジナル版にはあった幾つかのマップやモンスターなどが削られてしまっている等、完全移植には至っていない。また、武器の性能が一部異なる、一部のレベルのタロットカード獲得条件がオリジナル版よりも易しくなっている等、変更点もある。
 
 ## 関連作品
 
@@ -121,7 +121,7 @@ SinglePlayerでは[DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")を彷彿
   - Painkiller Recurring Evil
     [2012年](../Page/2012年.md "wikilink")発売。Med-Art開発、Nordic Gamesより発売された。
   - Painkiller Hell & Damnation
-    2012年発売。オリジナル版の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")作品（但しストーリーはBattle Out of Hellからの続編）。The Farm 51開発、Nordic Gamesより発売された。日本では[インターグローより](https://ja.wikipedia.org/wiki/オーイズミ・アミュージオ "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 3版が](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")2013年9月26日に発売されている。
+    2012年発売。オリジナル版の[リメイク](../Page/リメイク.md "wikilink")作品（但しストーリーはBattle Out of Hellからの続編）。The Farm 51開発、Nordic Gamesより発売された。日本では[インターグローより](https://ja.wikipedia.org/wiki/オーイズミ・アミュージオ "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 3版が](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")2013年9月26日に発売されている。
 
 ## 外部リンク
 

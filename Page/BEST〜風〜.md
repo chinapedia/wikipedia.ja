@@ -1,28 +1,28 @@
 > この記事は[BEST](https://ja.wikipedia.org/wiki/BEST)から翻訳されています。
 
 
-『**BEST〜風〜**』（ベスト・かぜ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。2枚組。
+『**BEST〜風〜**』（ベスト・かぜ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。2枚組。
 
-[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりリリースされた。
+[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりリリースされた。
 
 それまでに発表された楽曲の中から、長渕本人によって幅広く選曲されている。
 
 ## 背景
 
-前作『[空](../Page/空_\(アルバム\).md "wikilink")』（[2001年](../Page/2001年.md "wikilink")）リリース後、長渕は10月3日の[神戸国際会館](https://ja.wikipedia.org/wiki/神戸国際会館 "wikilink")から12月27日の[沖縄コンベンションセンター](../Page/沖縄コンベンションセンター.md "wikilink")に至るまで、全国21都市全26公演におよぶライブツアー「LIVE 2001 空/SORA」を開催した\[1\]。さらに翌2002年には1月20日の[名古屋レインボーホールから](https://ja.wikipedia.org/wiki/名古屋市総合体育館 "wikilink")2月9日の[日本武道館](../Page/日本武道館.md "wikilink")に至るまで、全国5都市全8公演におよぶ追加ツアー「LIVE 2002 空/SORA in ARENA TOUR」を開催した\[2\]。
+前作『[空](../Page/空_\(アルバム\).md "wikilink")』（[2001年](../Page/2001年.md "wikilink")）リリース後、長渕は10月3日の[神戸国際会館](../Page/神戸国際会館.md "wikilink")から12月27日の[沖縄コンベンションセンター](../Page/沖縄コンベンションセンター.md "wikilink")に至るまで、全国21都市全26公演におよぶライブツアー「LIVE 2001 空/SORA」を開催した\[1\]。さらに翌2002年には1月20日の[名古屋レインボーホールから](../Page/名古屋市総合体育館.md "wikilink")2月9日の[日本武道館](../Page/日本武道館.md "wikilink")に至るまで、全国5都市全8公演におよぶ追加ツアー「LIVE 2002 空/SORA in ARENA TOUR」を開催した\[2\]。
 
 5月9日にはシングル「静かなるアフガン」をリリース、この曲は2001年9月11日に発生した[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")とアメリカが報復として行った[アフガニスタン紛争をテーマとした曲であったが](../Page/アフガニスタン紛争_\(2001年-\).md "wikilink")、アメリカを批判した歌詞の内容が問題となり、ほぼすべてのテレビ、ラジオ局にて[放送禁止歌](https://ja.wikipedia.org/wiki/放送禁止歌 "wikilink")とされた\[3\]。
 
 ## 構成
 
-本作はフォーライフよりリリースされているが、旧所属レコード会社の[東芝EMI時代の曲も収録されている](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。各シングル、アルバムからの選曲は以下の通りとなっている。
+本作はフォーライフよりリリースされているが、旧所属レコード会社の[東芝EMI時代の曲も収録されている](../Page/EMIミュージック・ジャパン.md "wikilink")。各シングル、アルバムからの選曲は以下の通りとなっている。
 
   - シングル
 
 <!-- end list -->
 
-  - 「日めくりの愛」（[1982年](../Page/1982年.md "wikilink")） - シングル「[花いちもんめ](https://ja.wikipedia.org/wiki/花いちもんめ_\(長渕剛の曲\) "wikilink")」のカップリング
-  - 「[GOOD-BYE青春](https://ja.wikipedia.org/wiki/GOOD-BYE青春 "wikilink")」（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）
+  - 「日めくりの愛」（[1982年](../Page/1982年.md "wikilink")） - シングル「[花いちもんめ](../Page/花いちもんめ_\(長渕剛の曲\).md "wikilink")」のカップリング
+  - 「[GOOD-BYE青春](../Page/GOOD-BYE青春.md "wikilink")」（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）
   - 「[静かなるアフガン](https://ja.wikipedia.org/wiki/静かなるアフガン "wikilink")」（[2002年](../Page/2002年.md "wikilink")）
 
 <!-- end list -->
@@ -50,7 +50,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位5位、登場回数10回となり、売り上げは約15万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位5位、登場回数10回となり、売り上げは約15万枚となった。
 
 ## 収録曲
 

@@ -1,9 +1,9 @@
 > この記事は[BEST](https://ja.wikipedia.org/wiki/BEST)から翻訳されています。
 
 
-『**BEST〜空〜**』（ベスト・そら）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。2枚組。
+『**BEST〜空〜**』（ベスト・そら）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。2枚組。
 
-[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりリリースされた。『[BEST〜風〜](../Page/BEST〜風〜.md "wikilink")』と同時リリースされている。
+[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりリリースされた。『[BEST〜風〜](../Page/BEST〜風〜.md "wikilink")』と同時リリースされている。
 
 それまでに発表された楽曲の中から、長渕本人によって幅広く選曲されている。
 
@@ -11,7 +11,7 @@
 
 ## 構成
 
-本作はフォーライフよりリリースされているが、旧所属レコード会社の[東芝EMI時代の曲も収録されている](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。各シングル、アルバムからの選曲は以下の通りとなっている。
+本作はフォーライフよりリリースされているが、旧所属レコード会社の[東芝EMI時代の曲も収録されている](../Page/EMIミュージック・ジャパン.md "wikilink")。各シングル、アルバムからの選曲は以下の通りとなっている。
 
   - シングル
 
@@ -49,7 +49,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位6位、登場回数14回となり、売り上げは約14万枚となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位6位、登場回数14回となり、売り上げは約14万枚となった。
 
 ## 収録曲
 

@@ -13,7 +13,7 @@
 | その後                                                                                                                                       |
 | 除籍                                                                                                                                        |
 | 性能諸元                                                                                                                                      |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                                                                                       |
+| [排水量](../Page/排水量.md "wikilink")                                                                                                          |
 | 全長                                                                                                                                        |
 | 全幅                                                                                                                                        |
 | 吃水                                                                                                                                        |
@@ -23,7 +23,7 @@
 | 兵装                                                                                                                                        |
 | モットー                                                                                                                                      |
 
-**チャールズ・F・アダムズ** (**USS Charles F. Adams, DDG-2**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル駆逐艦](https://ja.wikipedia.org/wiki/ミサイル駆逐艦 "wikilink")。[チャールズ・F・アダムズ級ミサイル駆逐艦](https://ja.wikipedia.org/wiki/チャールズ・F・アダムズ級ミサイル駆逐艦 "wikilink")の1番艦。艦名は[チャールズ・フランシス・アダムズ](https://ja.wikipedia.org/wiki/チャールズ・フランシス・アダムズ_\(3世\) "wikilink")[海軍長官に](https://ja.wikipedia.org/wiki/アメリカ合衆国海軍長官 "wikilink")[因む](https://ja.wikipedia.org/wiki/エポニム "wikilink")。
+**チャールズ・F・アダムズ** (**USS Charles F. Adams, DDG-2**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル駆逐艦](../Page/ミサイル駆逐艦.md "wikilink")。[チャールズ・F・アダムズ級ミサイル駆逐艦](../Page/チャールズ・F・アダムズ級ミサイル駆逐艦.md "wikilink")の1番艦。艦名は[チャールズ・フランシス・アダムズ](../Page/チャールズ・フランシス・アダムズ_\(3世\).md "wikilink")[海軍長官に](../Page/アメリカ合衆国海軍長官.md "wikilink")[因む](../Page/エポニム.md "wikilink")。
 
 ## 艦歴
 
@@ -33,13 +33,13 @@
 
 就役後チャールズ・F・アダムズは、[ウォーリー・シラー](https://ja.wikipedia.org/wiki/ウォーリー・シラー "wikilink")の[マーキュリー8号](https://ja.wikipedia.org/wiki/マーキュリー8号 "wikilink")回収作業に参加する。この作業中に[キューバ危機](../Page/キューバ危機.md "wikilink")が発生し、アダムズは[カリブ海](../Page/カリブ海.md "wikilink")に移動、[キューバ](../Page/キューバ.md "wikilink")の封鎖に従事した。1969年7月にチャールズ・F・アダムズはチャールストンを離れ、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[メイポート](https://ja.wikipedia.org/wiki/メイポート "wikilink")に母港を移転した。
 
-本艦は1950年代の最新技術で設計されたが、1970年代中頃には本級は航空脅威に対して十分な対応ができないことは明らかになっていた。この脆弱性を縮小するために、海軍はNTU(New Threat Upgrade)プログラムに基づく改良を実施した。同プログラムでは[レーダー](../Page/レーダー.md "wikilink")、兵装および通信機器の改善が行われ、艦の耐用年数が拡張された。NTUの下でアダムズ級は、AN/SLQ-32(V)2 EW が増設され電子戦能力が改善された。戦闘システムでは MK86火器管制装置、ヒューズ AN/SPS-52C 3Dレーダー、AN/SPG-51C （デジタル）射撃管制レーダーおよび[海軍戦術情報システム (Naval Tactical Data System, NTDS)](https://ja.wikipedia.org/wiki/海軍戦術情報システム "wikilink") が導入された。艦は更にターターミサイル発射装置から [RGM-84 ハープーン対艦ミサイルを発射できるようになった](../Page/ハープーン_\(ミサイル\).md "wikilink")。
+本艦は1950年代の最新技術で設計されたが、1970年代中頃には本級は航空脅威に対して十分な対応ができないことは明らかになっていた。この脆弱性を縮小するために、海軍はNTU(New Threat Upgrade)プログラムに基づく改良を実施した。同プログラムでは[レーダー](../Page/レーダー.md "wikilink")、兵装および通信機器の改善が行われ、艦の耐用年数が拡張された。NTUの下でアダムズ級は、AN/SLQ-32(V)2 EW が増設され電子戦能力が改善された。戦闘システムでは MK86火器管制装置、ヒューズ AN/SPS-52C 3Dレーダー、AN/SPG-51C （デジタル）射撃管制レーダーおよび[海軍戦術情報システム (Naval Tactical Data System, NTDS)](../Page/海軍戦術情報システム.md "wikilink") が導入された。艦は更にターターミサイル発射装置から [RGM-84 ハープーン対艦ミサイルを発射できるようになった](../Page/ハープーン_\(ミサイル\).md "wikilink")。
 
-1980年代に[レーガン政権は](../Page/ロナルド・レーガン.md "wikilink")[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の建造を加速し、アダムズ級の後継として[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")を建造することを決定した。その結果、[タットノール](https://ja.wikipedia.org/wiki/タットノール_\(ミサイル駆逐艦\) "wikilink") (*USS Tattnall, DDG-19*) 、[ゴールズボロー](https://ja.wikipedia.org/wiki/ゴールズボロー_\(ミサイル駆逐艦\) "wikilink") (*USS Goldsborough, DDG-20*) 、[ベンジャミン・ストッダート](https://ja.wikipedia.org/wiki/ベンジャミン・ストッダート_\(ミサイル駆逐艦\) "wikilink") (*USS Benjamin Stoddert, DDG-22*) の3艦のみが予定通り改修された。本級の他の艦は、SLQ-32とハープーン・ミサイルの改良を含む部分的な改良のみが行われ、アーレイ・バーク級が作戦運用能力に達するまでその耐用年数が拡張された。
+1980年代に[レーガン政権は](../Page/ロナルド・レーガン.md "wikilink")[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の建造を加速し、アダムズ級の後継として[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")を建造することを決定した。その結果、[タットノール](../Page/タットノール_\(ミサイル駆逐艦\).md "wikilink") (*USS Tattnall, DDG-19*) 、[ゴールズボロー](https://ja.wikipedia.org/wiki/ゴールズボロー_\(ミサイル駆逐艦\) "wikilink") (*USS Goldsborough, DDG-20*) 、[ベンジャミン・ストッダート](../Page/ベンジャミン・ストッダート_\(ミサイル駆逐艦\).md "wikilink") (*USS Benjamin Stoddert, DDG-22*) の3艦のみが予定通り改修された。本級の他の艦は、SLQ-32とハープーン・ミサイルの改良を含む部分的な改良のみが行われ、アーレイ・バーク級が作戦運用能力に達するまでその耐用年数が拡張された。
 
-チャールズ・F・アダムズは[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[11月20日](../Page/11月20日.md "wikilink")に退役し、同日除籍された。その後は[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")の[フィラデルフィア海軍造船所](../Page/フィラデルフィア海軍造船所.md "wikilink")で寄贈のため保管された。サギノー・ヴァレー海軍艦艇博物館委員会はアダムズを[ミシガン州](../Page/ミシガン州.md "wikilink")[ベイシティで博物館船及びメモリアルとして公開するために引き取ろうと試みた](https://ja.wikipedia.org/wiki/ベイシティ_\(ミシガン州\) "wikilink")。しかしながら艦を[セントローレンス海路](https://ja.wikipedia.org/wiki/セントローレンス海路 "wikilink")を通して移動させるには多額の費用がかかるため計画は断念された。
+チャールズ・F・アダムズは[1992年](../Page/1992年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に退役し、同日除籍された。その後は[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")の[フィラデルフィア海軍造船所](../Page/フィラデルフィア海軍造船所.md "wikilink")で寄贈のため保管された。サギノー・ヴァレー海軍艦艇博物館委員会はアダムズを[ミシガン州](../Page/ミシガン州.md "wikilink")[ベイシティで博物館船及びメモリアルとして公開するために引き取ろうと試みた](https://ja.wikipedia.org/wiki/ベイシティ_\(ミシガン州\) "wikilink")。しかしながら艦を[セントローレンス海路](../Page/セントローレンス海路.md "wikilink")を通して移動させるには多額の費用がかかるため計画は断念された。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")の時点でチャールズ・F・アダムズはフィラデルフィア海軍造船所で保管される。
+[2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")の時点でチャールズ・F・アダムズはフィラデルフィア海軍造船所で保管される。
 
 ## 外部リンク
 

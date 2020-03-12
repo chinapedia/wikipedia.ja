@@ -10,9 +10,9 @@
 
 ## 解説
 
-  - 「SAMURAI」は[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")『[PRIDE\&SPIRIT 日本プロ野球2007](https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL "wikilink")』の主題歌である。また、タッキー&翼がメインパーソナリティを務めた日本テレビ系『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』の応援歌としても起用された。
-  - 滝沢が出演している[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ズバリ言うわよ\!](https://ja.wikipedia.org/wiki/ズバリ言うわよ! "wikilink")』でも2007年9月25日放送分からエンディングテーマとして使われた。
-  - [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")・[広島テレビ](../Page/広島テレビ放送.md "wikilink")・[福岡放送](../Page/福岡放送.md "wikilink")では、地元球団の主催ゲームのローカル中継でも使われた。
+  - 「SAMURAI」は[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")『[PRIDE\&SPIRIT 日本プロ野球2007](https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL "wikilink")』の主題歌である。また、タッキー&翼がメインパーソナリティを務めた日本テレビ系『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』の応援歌としても起用された。
+  - 滝沢が出演している[TBS系](../Page/TBSテレビ.md "wikilink")『[ズバリ言うわよ\!](../Page/ズバリ言うわよ!.md "wikilink")』でも2007年9月25日放送分からエンディングテーマとして使われた。
+  - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")・[広島テレビ](../Page/広島テレビ放送.md "wikilink")・[福岡放送](../Page/福岡放送.md "wikilink")では、地元球団の主催ゲームのローカル中継でも使われた。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
 
 1.  **SAMURAI**
       -
-        作詞：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")・[井筒日美](https://ja.wikipedia.org/wiki/井筒日美 "wikilink")、作曲：羽場仁志：編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")・[井筒日美](https://ja.wikipedia.org/wiki/井筒日美 "wikilink")、作曲：羽場仁志：編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 2.  **約束〜Flowers Song〜**
       -
         作詞：Flowers Song Project、作曲：[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")
@@ -28,7 +28,7 @@
 3.  **約束〜World wing〜**
       -
         作詞：wing project、作曲：飯田建彦
-        [今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")ソロ曲。
+        [今井翼](../Page/今井翼.md "wikilink")ソロ曲。
 4.  **HIMEGOTO**
       -
         作詞・作曲：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")・[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")

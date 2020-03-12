@@ -3,15 +3,15 @@
 
 **KAREN**（カレン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。
 
-[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")と[downy](https://ja.wikipedia.org/wiki/downy "wikilink")のメンバーの間で結成され、女性シンガー[アチコ](https://ja.wikipedia.org/wiki/アチコ "wikilink")をボーカリストとしている。結成初期は音源を発表していなかったが、2008年5月2日にフルアルバム「MAGGOT IN TEARS」を発売した。2010年12月31日をもって解散することをMySpace上で発表した。
+[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")と[downy](https://ja.wikipedia.org/wiki/downy "wikilink")のメンバーの間で結成され、女性シンガー[アチコ](https://ja.wikipedia.org/wiki/アチコ "wikilink")をボーカリストとしている。結成初期は音源を発表していなかったが、2008年5月2日にフルアルバム「MAGGOT IN TEARS」を発売した。2010年12月31日をもって解散することをMySpace上で発表した。
 
 ## メンバー
 
   - **[アチコ](https://ja.wikipedia.org/wiki/アチコ "wikilink")** ヴォーカル（[Ropes](https://ja.wikipedia.org/wiki/Ropes "wikilink"), [WUJA BIN BIN](https://ja.wikipedia.org/wiki/WUJA_BIN_BIN "wikilink"), 元[on button down](https://ja.wikipedia.org/wiki/on_button_down "wikilink")）
-  - **[木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")** ギター&ヴォーカル（[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")）
+  - **[木下理樹](../Page/木下理樹.md "wikilink")** ギター&ヴォーカル（[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")）
   - **[戸高賢史](https://ja.wikipedia.org/wiki/戸高賢史 "wikilink")** ギター（ART-SCHOOL）
   - **[仲俣和宏](https://ja.wikipedia.org/wiki/仲俣和宏 "wikilink")** ベース（[downy](https://ja.wikipedia.org/wiki/downy "wikilink")）
-  - **秋山隆彦** ドラム（[downy](https://ja.wikipedia.org/wiki/Downy_\(バンド\) "wikilink")）
+  - **秋山隆彦** ドラム（[downy](../Page/Downy_\(バンド\).md "wikilink")）
 
 ## ディスコグラフィ
 
@@ -97,7 +97,7 @@
 <td><p><strong>代沢時代 〜Decade of Daizawa Days〜</strong></p></td>
 <td><p>UKDZ-0121</p></td>
 <td><ol>
-<li>希望 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>希望 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li><strong>Marine / KAREN</strong></li>
 <li>Darjeeling / <a href="https://ja.wikipedia.org/wiki/伊藤文暁" title="wikilink">伊藤文暁</a></li>
 <li>何もできない / <a href="https://ja.wikipedia.org/wiki/paionia" title="wikilink">paionia</a></li>
@@ -107,11 +107,11 @@
 <li>Good Days / <a href="https://ja.wikipedia.org/wiki/Veni_Vidi_Vicious" title="wikilink">Veni Vidi Vicious</a></li>
 <li>Demophobia / <a href="https://ja.wikipedia.org/wiki/PILLS_EMPIRE" title="wikilink">PILLS EMPIRE</a></li>
 <li>electric girl / <a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
-<li>Mexico Pub / <a href="https://ja.wikipedia.org/wiki/VOLA_&amp;_THE_ORIENTAL_MACHINE" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
-<li>NEW HERO / <a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li>Mexico Pub / <a href="../Page/VOLA_&amp;_THE_ORIENTAL_MACHINE.md" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
+<li>NEW HERO / <a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li>青い春 / <a href="https://ja.wikipedia.org/wiki/Your_gold,_my_pink" title="wikilink">Your gold, my pink</a></li>
 <li>Ru's rock / <a href="https://ja.wikipedia.org/wiki/CONDOR44" title="wikilink">CONDOR44</a></li>
-<li>凡凡 / <a href="https://ja.wikipedia.org/wiki/BAZRA" title="wikilink">BAZRA</a></li>
+<li>凡凡 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
 <li>幻惑 / <a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a></li>
 <li>Reborn / <a href="https://ja.wikipedia.org/wiki/Syrup16g" title="wikilink">Syrup16g</a></li>
 </ol></td>
@@ -169,7 +169,7 @@
         w/[your gold, my pink](https://ja.wikipedia.org/wiki/your_gold,_my_pink "wikilink")
   - 2010年11月30日 - KAREN Presents「mo-u moku" vol.9」
       -
-        w/[VOLA & THE ORIENTAL MACHINE](https://ja.wikipedia.org/wiki/VOLA_&_THE_ORIENTAL_MACHINE "wikilink")
+        w/[VOLA & THE ORIENTAL MACHINE](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")
   - 2010年12月26日 - KAREN Presents「mo-u moku" vol.10」
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[Flex life](https://ja.wikipedia.org/wiki/Flex_life)から翻訳されています。
 
 
-**flex life**（フレックス・ライフ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。1998年結成。2002年[zetimaからメジャーデビュー](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")。現在はインディーズで活動している。
+**flex life**（フレックス・ライフ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。1998年結成。2002年[zetimaからメジャーデビュー](../Page/アップフロントワークス.md "wikilink")。現在はインディーズで活動している。
 
 ## メンバー
 
@@ -96,7 +96,7 @@
 1.  **ARI\*NASI**（2000年8月20日）
     1.  あり＊なし
 2.  **蜜蜂/SWEET MEMORIES**（2002年7月31日）
-    1.  蜜蜂（[TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[COUNT DOWN TVオープニングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")）
+    1.  蜜蜂（[TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")）
     2.  [SWEET MEMORIES](https://ja.wikipedia.org/wiki/SWEET_MEMORIES "wikilink")（[松田聖子](../Page/松田聖子.md "wikilink")のカヴァー）
     3.  getting better(acoustic)
 3.  **寝ても醒めても**（2003年2月5日）
@@ -121,9 +121,9 @@
 ## 関連項目
 
   - [Choro Club](../Page/Choro_Club.md "wikilink")
-  - [MAGICAL STREAM](https://ja.wikipedia.org/wiki/MAGICAL_STREAM "wikilink")
+  - [MAGICAL STREAM](../Page/MAGICAL_STREAM.md "wikilink")
   - [オールナイトミュージック](../Page/オールナイトミュージック.md "wikilink")
-  - [畠山美由紀](https://ja.wikipedia.org/wiki/畠山美由紀 "wikilink")
+  - [畠山美由紀](../Page/畠山美由紀.md "wikilink")
   - Lunch-vox
 
 ## 外部リンク

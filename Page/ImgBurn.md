@@ -1,11 +1,11 @@
 > この記事は[ImgBurn](https://ja.wikipedia.org/wiki/ImgBurn)から翻訳されています。
 
 
-**ImgBurn（イメージバーン）**は[ライセンスフリーの](../Page/フリーウェア.md "wikilink")[ライティングソフトウェア](https://ja.wikipedia.org/wiki/ライティングソフトウェア "wikilink")である。作者はDVD Decrypterと同じ人物。
+**ImgBurn（イメージバーン）**は[ライセンスフリーの](../Page/フリーウェア.md "wikilink")[ライティングソフトウェア](../Page/ライティングソフトウェア.md "wikilink")である。作者はDVD Decrypterと同じ人物。
 
 ## 概要
 
-**ImgBurn** は、[CD](https://ja.wikipedia.org/wiki/CD "wikilink")、[DVD](../Page/DVD.md "wikilink")、[HD DVDや](../Page/HD_DVD.md "wikilink")[Blu-ray Discの読み書きに対応したライセンスフリーのリッピング](../Page/Blu-ray_Disc.md "wikilink")（コピーガードには非対応）・ライティングソフトウェア。LIGHTNING UK\!が開発する。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 上で動作し、[イメージファイルの作成や書き込みなどに対応する](https://ja.wikipedia.org/wiki/ディスクドライブ仮想化ソフト "wikilink")。有志により日本語化パッチが配布されている。
+**ImgBurn** は、[CD](https://ja.wikipedia.org/wiki/CD "wikilink")、[DVD](../Page/DVD.md "wikilink")、[HD DVDや](../Page/HD_DVD.md "wikilink")[Blu-ray Discの読み書きに対応したライセンスフリーのリッピング](../Page/Blu-ray_Disc.md "wikilink")（コピーガードには非対応）・ライティングソフトウェア。LIGHTNING UK\!が開発する。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 上で動作し、[イメージファイルの作成や書き込みなどに対応する](../Page/ディスクドライブ仮想化ソフト.md "wikilink")。有志により日本語化パッチが配布されている。
 
 アドウェアのOpenCandyが同梱されているが、ユーザーからの批判を受け、OpenCandy なしのバージョンも公開している。\[1\]
 
@@ -56,7 +56,7 @@ DVDInfoPro と連携して、ドライブとメディアを検査し両方の特
 
 ## 関連項目
 
-  - [DVD Decrypter](https://ja.wikipedia.org/wiki/DVD_Decrypter "wikilink") （当ソフト作者による先行ソフト。CSS等解除機能を有するが、現在は開発を終了している。）
+  - [DVD Decrypter](../Page/DVD_Decrypter.md "wikilink") （当ソフト作者による先行ソフト。CSS等解除機能を有するが、現在は開発を終了している。）
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
 > この記事は[ RADIO RONDO](https://ja.wikipedia.org/wiki/_RADIO_RONDO)から翻訳されています。
 
 
-**武装神姫 RADIO RONDO** (ぶそうしんき らじお ろんど) は、『[武装神姫](../Page/武装神姫.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")にて[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[4月26日](../Page/4月26日.md "wikilink")から[10月25日](../Page/10月25日.md "wikilink")まで配信された。また、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")でも１週間遅れで配信された。毎週木曜日更新。
+**武装神姫 RADIO RONDO** (ぶそうしんき らじお ろんど) は、『[武装神姫](../Page/武装神姫.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")にて[2007年](../Page/2007年.md "wikilink")（平成19年）[4月26日](../Page/4月26日.md "wikilink")から[10月25日](../Page/10月25日.md "wikilink")まで配信された。また、[音泉](../Page/音泉.md "wikilink")でも１週間遅れで配信された。毎週木曜日更新。
 
 ## 概要
 
 『[武装神姫 BATTLE RONDO](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO "wikilink")』のオンラインサービス開始に合わせて、配信が開始された。
 
-パーソナリティは[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")（天使型アーンヴァル 役）と[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")（犬型ハウリン 役）。なお、アーンヴァル、ハウリンは本来の設定では機種名だが、ここでは個人名扱いされている。これはゲストの担当する神姫においても同様。
+パーソナリティは[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")（天使型アーンヴァル 役）と[喜多村英梨](../Page/喜多村英梨.md "wikilink")（犬型ハウリン 役）。なお、アーンヴァル、ハウリンは本来の設定では機種名だが、ここでは個人名扱いされている。これはゲストの担当する神姫においても同様。
 
-2008年（平成20年）3月21日に、今まで配信された全26回の音声データ([MP3](../Page/MP3.md "wikilink"))と未配信の特別編、『[武装神姫 BATTLE RONDO](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO "wikilink")』のテーマ曲で番組のテーマ曲である「I Will Follow You」のフルヴァージョンを収録したアルバムが、[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")専売で発売された。早期購入特典はアルバムのジャケットと同じ図柄の特製マウスパッド（光学式マウス用）。
+2008年（平成20年）3月21日に、今まで配信された全26回の音声データ([MP3](../Page/MP3.md "wikilink"))と未配信の特別編、『[武装神姫 BATTLE RONDO](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO "wikilink")』のテーマ曲で番組のテーマ曲である「I Will Follow You」のフルヴァージョンを収録したアルバムが、[コナミスタイル](../Page/コナミスタイル.md "wikilink")専売で発売された。早期購入特典はアルバムのジャケットと同じ図柄の特製マウスパッド（光学式マウス用）。
 
 また、2009年（平成21年）11月20日には、『[武装神姫 BATTLE RONDO オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO_オリジナルサウンドトラック "wikilink")』のディスク2に収録の特別版で再度の復活を果たし、2011年（平成23年）3月17日には、『[武装神姫 CHARACTER SONG and SPECIAL RADIO RONDO Vol.2](https://ja.wikipedia.org/wiki/武装神姫_CHARACTER_SONG_and_SPECIAL_RADIO_RONDO_Vol.2 "wikilink")』のディスク3にて発売記念特別編として収録された。
 
@@ -33,16 +33,16 @@
   - 神姫リング de BATTLE
     パーソナリティ同士が色々なミニゲームで対決するコーナー。勝者にはごほうびが与えられる。基本的に真剣勝負だが、ゲストを迎えている場合はこの限りではない。
   - 武装神姫インフォメーション
-    [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")広報の[スーパーバイザー](https://ja.wikipedia.org/wiki/スーパーバイザー "wikilink")玉川（通称タマちゃん）によるお知らせコーナー。第14回以降は、タマちゃんが「教えて\! アスミ先生」のコーナーに異動したため、同じくコナミ広報の鈴木敦子（通称あつ子ちゃん）が担当に変わっている。
+    [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")広報の[スーパーバイザー](../Page/スーパーバイザー.md "wikilink")玉川（通称タマちゃん）によるお知らせコーナー。第14回以降は、タマちゃんが「教えて\! アスミ先生」のコーナーに異動したため、同じくコナミ広報の鈴木敦子（通称あつ子ちゃん）が担当に変わっている。
 
 ## 教えて\! アスミ先生☆
 
-神姫センターの職員が初心者からの質問に答える形でリスナーに向けての神姫の世界への手引きとする。設定背景等はラジオ劇場と同じだが、配信期間中に両作品の[クロスオーバーは果たされなかった](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")。
+神姫センターの職員が初心者からの質問に答える形でリスナーに向けての神姫の世界への手引きとする。設定背景等はラジオ劇場と同じだが、配信期間中に両作品の[クロスオーバーは果たされなかった](../Page/クロスオーバー作品.md "wikilink")。
 
 登場人物は
 
   - アスミ先生: 神姫センターの美人所長。受けた質問や苦情は全て部下に丸投げする。
-    タマガワさん: アスミ先生の補佐役。ダメ上司と[クレーマー小学生に悩まされる真面目な青年](https://ja.wikipedia.org/wiki/クレーム "wikilink")。
+    タマガワさん: アスミ先生の補佐役。ダメ上司と[クレーマー小学生に悩まされる真面目な青年](../Page/クレーム.md "wikilink")。
     スズキさん: アスミ先生の補佐役。アッコちゃんの愛称で呼ばれる。
     ユズキさん: アスミ先生の先輩で神姫センターの責任者。大人の魅力で周囲を誘惑する。
     喜多村ハウリン犬子: 近所に住む女の子。アスミ先生の天敵。不躾な態度と質問攻めで大人達を翻弄する。
@@ -56,9 +56,9 @@
   - 第 5回 [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（悪魔型ストラーフ）
   - 第 7回 [笹川亜矢奈](https://ja.wikipedia.org/wiki/笹川亜矢奈 "wikilink")（兎型ヴァッフェバニー）
   - 第 9回 [橋本まい](../Page/橋本まい.md "wikilink")（猫型マオチャオ）
-  - 第12回　[福井裕佳梨](https://ja.wikipedia.org/wiki/福井裕佳梨 "wikilink")（忍者型フブキ）
-  - 第22回　[門脇舞以](https://ja.wikipedia.org/wiki/門脇舞以 "wikilink")（侍型紅緒）
-  - 第24回　[柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")（砲台型フォートブラッグ）
+  - 第12回　[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")（忍者型フブキ）
+  - 第22回　[門脇舞以](../Page/門脇舞以.md "wikilink")（侍型紅緒）
+  - 第24回　[柚木涼香](../Page/柚木涼香.md "wikilink")（砲台型フォートブラッグ）
 
 それぞれの役で〔武装神姫ラジオ劇場〕にも登場した。
 

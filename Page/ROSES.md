@@ -1,7 +1,7 @@
 > この記事は[ROSES](https://ja.wikipedia.org/wiki/ROSES)から翻訳されています。
 
 
-『**ROSES**』（ローズ）は日本のヴィジュアル系ロックバンド、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")のインディーズ1stアルバム。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売。発売元は[jkb records](https://ja.wikipedia.org/wiki/jkb_records "wikilink")/[R and C Ltd.](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
+『**ROSES**』（ローズ）は日本のヴィジュアル系ロックバンド、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")のインディーズ1stアルバム。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売。発売元は[jkb records](https://ja.wikipedia.org/wiki/jkb_records "wikilink")/[R and C Ltd.](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
 
 ## 概要
 
@@ -36,7 +36,7 @@
       - 作詞:[haderu](../Page/田村淳.md "wikilink") / 作曲:[elsa](https://ja.wikipedia.org/wiki/衛藤幸生 "wikilink") / 編曲:[elsa](https://ja.wikipedia.org/wiki/衛藤幸生 "wikilink")
     <!-- end list -->
       -
-        インディーズ4thシングル「黒い砂漠」収録の[chaosのボーカルバージョン](https://ja.wikipedia.org/wiki/金成公信 "wikilink")。
+        インディーズ4thシングル「黒い砂漠」収録の[chaosのボーカルバージョン](../Page/金成公信.md "wikilink")。
 7.  **[恋傷](https://ja.wikipedia.org/wiki/恋傷 "wikilink")**（こいきず）
       - 作詞・作曲:[haderu](../Page/田村淳.md "wikilink") / 編曲:[elsa](https://ja.wikipedia.org/wiki/衛藤幸生 "wikilink")
     <!-- end list -->

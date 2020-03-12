@@ -12,8 +12,8 @@
   - 数多くの[画像](../Page/画像.md "wikilink")・その他の[ファイル形式に対応しており](../Page/ファイルフォーマット.md "wikilink")、それらを素早く閲覧することが可能。
   - [プラグイン](../Page/プラグイン.md "wikilink")の追加[インストール](../Page/インストール.md "wikilink")により、機能を拡張できる（主に対応形式の拡張）。
   - 画像の簡易的な編集が可能（本格的な編集には用途が異なるため向いていない）。
-  - [画像ファイル形式やファイル名の変換を](https://ja.wikipedia.org/wiki/画像ファイルフォーマット "wikilink")、複数のファイルに対して連続して適用できる。画像のリサイズや回転・反転、明るさ・[コントラスト](https://ja.wikipedia.org/wiki/コントラスト "wikilink")の調整などの簡単な加工も一度に処理できる（[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")）。
-  - ディレクトリ内の画像を縮小表示して並べる「[サムネイル](https://ja.wikipedia.org/wiki/サムネイル "wikilink")ウィンドウ」。
+  - [画像ファイル形式やファイル名の変換を](https://ja.wikipedia.org/wiki/画像ファイルフォーマット "wikilink")、複数のファイルに対して連続して適用できる。画像のリサイズや回転・反転、明るさ・[コントラスト](../Page/コントラスト.md "wikilink")の調整などの簡単な加工も一度に処理できる（[バッチ処理](../Page/バッチ処理.md "wikilink")）。
+  - ディレクトリ内の画像を縮小表示して並べる「[サムネイル](../Page/サムネイル.md "wikilink")ウィンドウ」。
   - 指定ファイルを一定間隔で順次表示する「[スライドショー](../Page/スライドショー.md "wikilink")」。
   - [Adobe Photoshopの](../Page/Adobe_Photoshop.md "wikilink")8BF形式フィルタ プラグインを使用して、画像にフィルタ処理を適用できる。
   - 日本語化DLLや日本語版も公開されている。
@@ -38,9 +38,9 @@
   - H
     左右反転
 
-使用頻度の高い機能は単独のキーに割り当てられている（[修飾キー](https://ja.wikipedia.org/wiki/修飾キー "wikilink")を同時に押す必要はない）。その手軽な操作性も大きな特徴の一つと言える。
+使用頻度の高い機能は単独のキーに割り当てられている（[修飾キー](../Page/修飾キー.md "wikilink")を同時に押す必要はない）。その手軽な操作性も大きな特徴の一つと言える。
 
-その他、多くの機能に[ショートカットキー](https://ja.wikipedia.org/wiki/ショートカットキー "wikilink")が割り当てられている（ただしキーカスタマイズはできない）。
+その他、多くの機能に[ショートカットキー](../Page/ショートカットキー.md "wikilink")が割り当てられている（ただしキーカスタマイズはできない）。
 
 ### マウスによる操作
 
@@ -77,18 +77,18 @@ Ver.4.25から、サイズ合わせ時およびズーム時にリサンプル処
 ### 画像以外の対応形式
 
   - [Shockwave Flash](https://ja.wikipedia.org/wiki/Shockwave_Flash "wikilink") (.swf) - ※要Flash.dll
-  - [Flash Video](https://ja.wikipedia.org/wiki/Flash_Video "wikilink") (.flv) - ※要Flash.dll
+  - [Flash Video](../Page/Flash_Video.md "wikilink") (.flv) - ※要Flash.dll
   - [MP3](../Page/MP3.md "wikilink") (.mp3) - ※要Mp3.dll
   - [MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink") (.mpg) - ※要Video.dll
-  - [Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink") (.ogg) - ※要SoundPlayer.dll
-  - [WAV](https://ja.wikipedia.org/wiki/WAV "wikilink") (.wav) - ※要Video.dll
-  - [Windows Media Audio](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink") (.wma) - ※要Video.dll
-  - [Windows Media Video](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink") (.wmv) - ※要Video.dll
+  - [Vorbis](../Page/Vorbis.md "wikilink") (.ogg) - ※要SoundPlayer.dll
+  - [WAV](../Page/WAV.md "wikilink") (.wav) - ※要Video.dll
+  - [Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink") (.wma) - ※要Video.dll
+  - [Windows Media Video](../Page/Windows_Media_Video.md "wikilink") (.wmv) - ※要Video.dll
   - [QuickTime Movie](../Page/QuickTime.md "wikilink") (.mov) - ※要Video.dll
-  - [テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink") (.txt)
+  - [テキストファイル](../Page/テキストファイル.md "wikilink") (.txt)
   - 他
 
-以上のように音声・動画ファイル形式も再生可能であるが、専用の[メディアプレーヤー](https://ja.wikipedia.org/wiki/メディアプレーヤー "wikilink")に比べ操作性に劣ることもある。
+以上のように音声・動画ファイル形式も再生可能であるが、専用の[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")に比べ操作性に劣ることもある。
 
 ## リリース履歴
 

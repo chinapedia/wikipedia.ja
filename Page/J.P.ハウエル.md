@@ -5,15 +5,15 @@
 
 ## 経歴
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/2001年のMLBドラフト "wikilink")2巡目（全体52位）で[アトランタ・ブレーブス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")から指名を受けたが、契約せず[テキサス大学オースティン校](https://ja.wikipedia.org/wiki/テキサス大学オースティン校 "wikilink")へと進学。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/2001年のMLBドラフト "wikilink")2巡目（全体52位）で[アトランタ・ブレーブス](../Page/アトランタ・ブレーブス.md "wikilink")から指名を受けたが、契約せず[テキサス大学オースティン校](https://ja.wikipedia.org/wiki/テキサス大学オースティン校 "wikilink")へと進学。
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/2004年のMLBドラフト "wikilink")1巡目追補（全体31位）で[カンザスシティ・ロイヤルズ](https://ja.wikipedia.org/wiki/カンザスシティ・ロイヤルズ "wikilink")から指名され、プロ入り。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/2004年のMLBドラフト "wikilink")1巡目追補（全体31位）で[カンザスシティ・ロイヤルズ](../Page/カンザスシティ・ロイヤルズ.md "wikilink")から指名され、プロ入り。
 
 には早くもメジャーデビューを果たし、先発投手として15試合に登板。
 
-はマイナーリーグで開幕を迎えたまま、[6月20日](../Page/6月20日.md "wikilink")までメジャー昇格は叶わなかった。6月20日に、[ジョーイ・ギャスライト](https://ja.wikipedia.org/wiki/ジョーイ・ギャスライト "wikilink")との[トレードで](https://ja.wikipedia.org/wiki/トレード#メジャーリーグ "wikilink")、[タンパベイ・デビルレイズへ移籍した](https://ja.wikipedia.org/wiki/タンパベイ・レイズ "wikilink")。デビューからまでは全試合で先発を務めていた。先発として結果が出ないハウエルは、球団名がレイズとなったに一度もメジャーで経験のないリリーフに配置転換。64試合にリリーフ登板し、防御率2.22を記録。ロングリリーフとしても活躍した。
+はマイナーリーグで開幕を迎えたまま、[6月20日](../Page/6月20日.md "wikilink")までメジャー昇格は叶わなかった。6月20日に、[ジョーイ・ギャスライト](../Page/ジョーイ・ギャスライト.md "wikilink")との[トレードで](https://ja.wikipedia.org/wiki/トレード#メジャーリーグ "wikilink")、[タンパベイ・デビルレイズへ移籍した](../Page/タンパベイ・レイズ.md "wikilink")。デビューからまでは全試合で先発を務めていた。先発として結果が出ないハウエルは、球団名がレイズとなったに一度もメジャーで経験のないリリーフに配置転換。64試合にリリーフ登板し、防御率2.22を記録。ロングリリーフとしても活躍した。
 
-、[第2回WBCのアメリカ合衆国代表にも選出された](https://ja.wikipedia.org/wiki/2009_ワールド・ベースボール・クラシック "wikilink")\[1\]。同年のレギュラーシーズンではクローザーが固定されていなかったことから、日替わりで務めたこともあった。
+、[第2回WBCのアメリカ合衆国代表にも選出された](../Page/2009_ワールド・ベースボール・クラシック.md "wikilink")\[1\]。同年のレギュラーシーズンではクローザーが固定されていなかったことから、日替わりで務めたこともあった。
 
 は[スプリングトレーニング](https://ja.wikipedia.org/wiki/スプリングトレーニング "wikilink")中に左肩を痛めてシーズンを全休した。
 
@@ -39,7 +39,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンザスシティ・ロイヤルズ" title="wikilink">KC</a></p></td>
+<td><p><a href="../Page/カンザスシティ・ロイヤルズ.md" title="wikilink">KC</a></p></td>
 <td><p>15</p></td>
 <td><p>15</p></td>
 <td><p>0</p></td>
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タンパベイ・レイズ" title="wikilink">TB</a></p></td>
+<td><p><a href="../Page/タンパベイ・レイズ.md" title="wikilink">TB</a></p></td>
 <td><p>8</p></td>
 <td><p>8</p></td>
 <td><p>0</p></td>

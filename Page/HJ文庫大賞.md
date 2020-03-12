@@ -1,17 +1,17 @@
 > この記事は[HJ](https://ja.wikipedia.org/wiki/HJ)から翻訳されています。
 
 
-**HJ文庫大賞**（エイチジェイぶんこたいしょう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より開催している[ライトノベル](../Page/ライトノベル.md "wikilink")の公募[文学賞](../Page/文学賞.md "wikilink")である。
+**HJ文庫大賞**（エイチジェイぶんこたいしょう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が[2006年](../Page/2006年.md "wikilink")より開催している[ライトノベル](../Page/ライトノベル.md "wikilink")の公募[文学賞](../Page/文学賞.md "wikilink")である。
 
 ## 概説
 
-受賞は選考委員の合議によって決定される。受賞者には大賞100万円、金賞（第1〜3回は優秀賞）50万円、銀賞（第1〜3回は佳作）10万円・奨励賞及び審査員特別賞5万円が授与されるが、大賞の該当作が存在しなかった場合その賞金は[キャリーオーバー](https://ja.wikipedia.org/wiki/キャリーオーバー "wikilink")され、次回の大賞の賞金にプラスされる\[1\]\[2\]。
+受賞は選考委員の合議によって決定される。受賞者には大賞100万円、金賞（第1〜3回は優秀賞）50万円、銀賞（第1〜3回は佳作）10万円・奨励賞及び審査員特別賞5万円が授与されるが、大賞の該当作が存在しなかった場合その賞金は[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")され、次回の大賞の賞金にプラスされる\[1\]\[2\]。
 
-佳作以上の作品については同社・[HJ文庫](https://ja.wikipedia.org/wiki/HJ文庫 "wikilink")からの刊行が確約されているが実際には奨励賞・特別賞受賞作品の大半も刊行されている。また、応募資格を新人に限定していないため他社でデビューした作家の受賞事例（第2回佳作）も存在する。
+佳作以上の作品については同社・[HJ文庫](../Page/HJ文庫.md "wikilink")からの刊行が確約されているが実際には奨励賞・特別賞受賞作品の大半も刊行されている。また、応募資格を新人に限定していないため他社でデビューした作家の受賞事例（第2回佳作）も存在する。
 
 ## 沿革
 
-2006年9月に同社のライトノベル雑誌『Novel JAPAN』が創刊したことに伴い**ノベルジャパン大賞**の名称で開催されていたが同誌は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")8月号より『[キャラの\!](../Page/キャラの!.md "wikilink")』に誌名変更した後、[2009年](../Page/2009年.md "wikilink")1月に休刊し賞の名称が実情にそぐわなくなったことから、[2011年](../Page/2011年.md "wikilink")の第6回募集期間の途中より現在の名称に変更された\[3\]。
+2006年9月に同社のライトノベル雑誌『Novel JAPAN』が創刊したことに伴い**ノベルジャパン大賞**の名称で開催されていたが同誌は[2007年](../Page/2007年.md "wikilink")8月号より『[キャラの\!](../Page/キャラの!.md "wikilink")』に誌名変更した後、[2009年](../Page/2009年.md "wikilink")1月に休刊し賞の名称が実情にそぐわなくなったことから、[2011年](../Page/2011年.md "wikilink")の第6回募集期間の途中より現在の名称に変更された\[3\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の第3回より評価シートを導入した。[2013年](../Page/2013年.md "wikilink")募集締め切りの第8回より、最終選考に残りながら受賞を逃した応募者のうち、参加を希望した5名前後の候補者にそれぞれ担当編集者が付き作品を執筆してもらいHJ文庫のHP内の「[読める\!HJ文庫](https://ja.wikipedia.org/wiki/読める!HJ文庫 "wikilink")」\[4\]で読者の投票により1位を競う読者グランプリが新設され、1位を獲得した作品を同社・HJ文庫からの刊行されるようになったが、[2016年](../Page/2016年.md "wikilink")の第3回をもって中止された。
 
@@ -21,8 +21,8 @@
 
 ## 選考委員
 
-  - 第1回（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）、第2回（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")）
-    [榊一郎](../Page/榊一郎.md "wikilink")・[五代ゆう](https://ja.wikipedia.org/wiki/五代ゆう "wikilink")・松岡卓（ZERO-Section）・星野孝太（ホビージャパン取締役編集制作局長）
+  - 第1回（[2006年](../Page/2006年.md "wikilink")）、第2回（[2007年](../Page/2007年.md "wikilink")）
+    [榊一郎](../Page/榊一郎.md "wikilink")・[五代ゆう](../Page/五代ゆう.md "wikilink")・松岡卓（ZERO-Section）・星野孝太（ホビージャパン取締役編集制作局長）
   - 第3回（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）〜
     宇田川芳彦（HJ文庫編集長）・他
 
@@ -45,25 +45,25 @@
 <tbody>
 <tr class="odd">
 <td><p>第1回<br />
-（<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>）<br />
+（<a href="../Page/2006年.md" title="wikilink">2006年</a>）<br />
 <strong>222点</strong></p></td>
 <td><p>大賞</p></td>
 <td><p>生物は、何故死なない？<br />
-（<a href="https://ja.wikipedia.org/wiki/たま◇なま" title="wikilink">たま◇なま</a>）</p></td>
+（<a href="../Page/たま◇なま.md" title="wikilink">たま◇なま</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/冬樹忍" title="wikilink">冬樹忍</a></p></td>
 </tr>
 <tr class="even">
 <td><p>優秀賞</p></td>
 <td><p>スペシャル・アナスタシア・サービス<br />
-（<a href="https://ja.wikipedia.org/wiki/SAS_スペシャル・アナスタシア・サービス" title="wikilink">SAS スペシャル・アナスタシア・サービス</a>）</p></td>
+（<a href="../Page/SAS_スペシャル・アナスタシア・サービス.md" title="wikilink">SAS スペシャル・アナスタシア・サービス</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鳥居羊" title="wikilink">鳥居羊</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>佳作</p></td>
 <td><p>カッティング 〜Case of Mio Nishiamane〜<br />
-（<a href="https://ja.wikipedia.org/wiki/カッティング_(小説)" title="wikilink">カッティング 〜Case of Mio〜</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/翅田大介" title="wikilink">翅田大介</a></p></td>
+（<a href="../Page/カッティング_(小説).md" title="wikilink">カッティング 〜Case of Mio〜</a>）</p></td>
+<td><p><a href="../Page/翅田大介.md" title="wikilink">翅田大介</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -81,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p>第2回<br />
-（<a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>）<br />
+（<a href="../Page/2007年.md" title="wikilink">2007年</a>）<br />
 <strong>203点</strong></p></td>
 <td><p>大賞</p></td>
 <td><p>Wizard's Fugue<br />
@@ -99,7 +99,7 @@
 <tr class="even">
 <td><p>佳作</p></td>
 <td><p>ブリティッシュ・ミステリアス・ミュージアム<br />
-（<a href="https://ja.wikipedia.org/wiki/ミスティック・ミュージアム" title="wikilink">ミスティック・ミュージアム</a>）</p></td>
+（<a href="../Page/ミスティック・ミュージアム.md" title="wikilink">ミスティック・ミュージアム</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤春都" title="wikilink">藤春都</a>[6]</p></td>
 <td></td>
 </tr>
@@ -487,7 +487,7 @@
 <tr class="even">
 <td><p>育魔勇者<br />
 （<a href="https://ja.wikipedia.org/wiki/カンスト勇者の超魔教導" title="wikilink">カンスト勇者の超魔教導<オーバーレイズ> 〜将来有望な魔王と姫を弟子にしてみた〜</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/はむばね" title="wikilink">はむばね</a></p></td>
+<td><p><a href="../Page/はむばね.md" title="wikilink">はむばね</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -593,7 +593,7 @@
 
 ## 関連項目
 
-  - [文学賞の一覧](https://ja.wikipedia.org/wiki/文学賞の一覧 "wikilink")
+  - [文学賞の一覧](../Page/文学賞の一覧.md "wikilink")
 
 ## 外部リンク
 
@@ -606,7 +606,7 @@
 3.  HJ日和（HJ文庫新刊の折り込みチラシ）58号。
 4.  ただし、第1回開催時には「読める\!HJ文庫」はオープンしていなかった。
 5.
-6.  本賞を受賞する以前の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に「藤村脩」名義で[リーフ出版](../Page/リーフ出版.md "wikilink")よりデビュー。
+6.  本賞を受賞する以前の[2006年](../Page/2006年.md "wikilink")に「藤村脩」名義で[リーフ出版](../Page/リーフ出版.md "wikilink")よりデビュー。
 7.  受賞作は未刊だが、後に「[逃走少女と契約しました。猫だけど。](https://ja.wikipedia.org/wiki/逃走少女と契約しました。猫だけど。 "wikilink")」でデビュー。
 8.  本作はHJ文庫のサブレーベルの[HJノベルス](https://ja.wikipedia.org/wiki/HJノベルス "wikilink")で発売された。
-9.  本賞を受賞する以前の[2015年](../Page/2015年.md "wikilink")に[キルタイムコミュニケーション](https://ja.wikipedia.org/wiki/キルタイムコミュニケーション "wikilink")よりデビュー。
+9.  本賞を受賞する以前の[2015年](../Page/2015年.md "wikilink")に[キルタイムコミュニケーション](../Page/キルタイムコミュニケーション.md "wikilink")よりデビュー。

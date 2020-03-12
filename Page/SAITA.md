@@ -1,7 +1,7 @@
 > この記事は[SAITA](https://ja.wikipedia.org/wiki/SAITA)から翻訳されています。
 
 
-**SAITA**（さいた）は、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")の1枚目のアルバムである。[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+**SAITA**（さいた）は、[野川さくら](../Page/野川さくら.md "wikilink")の1枚目のアルバムである。[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 

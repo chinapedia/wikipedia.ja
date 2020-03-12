@@ -5,17 +5,17 @@
 
 ## 概要
 
-[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に通常盤と初回限定盤の2種類が発売。初回限定盤には本人が出演した「Get my way\!」の[プロモーションビデオを収録した](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD](../Page/DVD.md "wikilink")が同封されている。ちなみにPVは[矢切駅](../Page/矢切駅.md "wikilink")（[北総鉄道](../Page/北総鉄道.md "wikilink")）で撮影されたと思われ、[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")を弾く川田の姿が見られる。価格は通常盤が1,260円、初回限定盤が1,890円。
+[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に通常盤と初回限定盤の2種類が発売。初回限定盤には本人が出演した「Get my way\!」の[プロモーションビデオを収録した](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")が同封されている。ちなみにPVは[矢切駅](../Page/矢切駅.md "wikilink")（[北総鉄道](../Page/北総鉄道.md "wikilink")）で撮影されたと思われ、[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")を弾く川田の姿が見られる。価格は通常盤が1,260円、初回限定盤が1,890円。
 
 ## 収録曲
 
 1.  **Get my way\!**
       -
-        作詞：[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")／作曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")／編曲：高瀬一矢、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
-          - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ハヤテのごとく\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")』第2クール[エンディング主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        作詞：[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")／作曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")／編曲：高瀬一矢、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
+          - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ハヤテのごとく\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")』第2クール[エンディング主題歌](../Page/主題歌.md "wikilink")
 2.  **青空と太陽**
       -
-        作詞：川田まみ／作曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")／編曲：中沢伴行、尾崎武士
+        作詞：川田まみ／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：中沢伴行、尾崎武士
 3.  Get my way\! -Instrumental-
 4.  青空と太陽 -Instrumental-
 

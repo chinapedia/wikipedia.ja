@@ -1,7 +1,7 @@
 > この記事は[ \(KinKi Kids\)](https://ja.wikipedia.org/wiki/_\(KinKi_Kids\))から翻訳されています。
 
 
-「**永遠に**」（えいえんに）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")26枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**永遠に**」（えいえんに）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")26枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## チャート成績
 
-2007年9月24日付の[オリコン週間ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週19.0万枚を売り上げ、初登場1位を獲得し、同チャートの連続1位獲得記録を26作に更新した\[1\]。
+2007年9月24日付の[オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初週19.0万枚を売り上げ、初登場1位を獲得し、同チャートの連続1位獲得記録を26作に更新した\[1\]。
 
 ## 収録曲
 
@@ -19,19 +19,19 @@
 
 1.  **永遠に**
       -
-        （作詞：[Satomi](../Page/Satomi.md "wikilink")　作曲：[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")　編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")　コーラスアレンジ：竹内浩明）
-        KinKi Kids10周年記念ソングとして制作された、徳永英明の提供による[バラード](../Page/バラード.md "wikilink")。後に楽曲を提供した徳永本人が[2009年](../Page/2009年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")発売のアルバム『[WE ALL](https://ja.wikipedia.org/wiki/WE_ALL "wikilink")』（初回限定盤B）で「永遠に」を[セルフカヴァーしている](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")。
-        [第一興商](../Page/第一興商.md "wikilink")の[カラオケ](../Page/カラオケ.md "wikilink")機器『[DAM](../Page/DAM_\(カラオケ\).md "wikilink")』には[PV映像付きのカラオケ楽曲が配信されており](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、同時に初期の楽曲から順に本人映像が配信されている（全て[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")末までの限定）。楽曲のPV付き配信は、2005年の「[SNOW\! SNOW\! SNOW\!](https://ja.wikipedia.org/wiki/SNOW!_SNOW!_SNOW! "wikilink")」が期間限定で『[UGA](https://ja.wikipedia.org/wiki/UGA_\(カラオケ\) "wikilink")』に配信されて以来である。
+        （作詞：[Satomi](../Page/Satomi.md "wikilink")　作曲：[徳永英明](../Page/徳永英明.md "wikilink")　編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ：竹内浩明）
+        KinKi Kids10周年記念ソングとして制作された、徳永英明の提供による[バラード](../Page/バラード.md "wikilink")。後に楽曲を提供した徳永本人が[2009年](../Page/2009年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")発売のアルバム『[WE ALL](https://ja.wikipedia.org/wiki/WE_ALL "wikilink")』（初回限定盤B）で「永遠に」を[セルフカヴァーしている](../Page/セルフカバー.md "wikilink")。
+        [第一興商](../Page/第一興商.md "wikilink")の[カラオケ](../Page/カラオケ.md "wikilink")機器『[DAM](../Page/DAM_\(カラオケ\).md "wikilink")』には[PV映像付きのカラオケ楽曲が配信されており](../Page/ミュージック・ビデオ.md "wikilink")、同時に初期の楽曲から順に本人映像が配信されている（全て[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")末までの限定）。楽曲のPV付き配信は、2005年の「[SNOW\! SNOW\! SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」が期間限定で『[UGA](../Page/UGA_\(カラオケ\).md "wikilink")』に配信されて以来である。
         出版者：ジャニーズ出版
 2.  **涙、ひとひら**
       -
-        （作詞・作曲：[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink")　編曲：[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")）
-        [堂本光一](../Page/堂本光一.md "wikilink")出演[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系[金曜ナイトドラマ](https://ja.wikipedia.org/wiki/金曜ナイトドラマ "wikilink")『[スシ王子\!](https://ja.wikipedia.org/wiki/スシ王子! "wikilink")』主題歌。
-        2007年[9月14日](../Page/9月14日.md "wikilink")放送のテレビ朝日系[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で披露され、この際には久々に2人揃って全般に渡りダンスを披露した。
+        （作詞・作曲：[井手コウジ](../Page/井手コウジ.md "wikilink")　編曲：[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")）
+        [堂本光一](../Page/堂本光一.md "wikilink")出演[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")『[スシ王子\!](../Page/スシ王子!.md "wikilink")』主題歌。
+        2007年[9月14日](../Page/9月14日.md "wikilink")放送のテレビ朝日系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で披露され、この際には久々に2人揃って全般に渡りダンスを披露した。
         出版者：テレビ朝日ミュージック
 3.  **夢幻ノスタルジー**
       -
-        （作詞：[leonn](https://ja.wikipedia.org/wiki/leonn "wikilink")　作曲：[日比野裕史](https://ja.wikipedia.org/wiki/日比野裕史 "wikilink")　編曲：[中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")&[日比野裕史](https://ja.wikipedia.org/wiki/日比野裕史 "wikilink")）
+        （作詞：[leonn](https://ja.wikipedia.org/wiki/leonn "wikilink")　作曲：[日比野裕史](https://ja.wikipedia.org/wiki/日比野裕史 "wikilink")　編曲：[中野雄太](../Page/中野雄太.md "wikilink")&[日比野裕史](https://ja.wikipedia.org/wiki/日比野裕史 "wikilink")）
         出版者：ジャニーズ出版
 4.  **永遠に (Backing Track)**
 

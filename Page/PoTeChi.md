@@ -1,11 +1,11 @@
 > この記事は[PoTeChi](https://ja.wikipedia.org/wiki/PoTeChi)から翻訳されています。
 
 
-**PoTeChi**（ぽてち）は、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")の3枚目のアルバムである。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+**PoTeChi**（ぽてち）は、[野川さくら](../Page/野川さくら.md "wikilink")の3枚目のアルバムである。[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 解説
 
-  - 三鷹市上連雀は[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")がセルフカバーしている（アルバム『[30years3ounce](https://ja.wikipedia.org/wiki/30years3ounce "wikilink")』（[2007年](../Page/2007年.md "wikilink")）収録の「シモキタ」）。
+  - 三鷹市上連雀は[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")がセルフカバーしている（アルバム『[30years3ounce](https://ja.wikipedia.org/wiki/30years3ounce "wikilink")』（[2007年](../Page/2007年.md "wikilink")）収録の「シモキタ」）。
 
 ## 収録曲
 
@@ -21,9 +21,9 @@
 5.  **I'm not in love**
       - 作詞：mavie、作曲：影山ヒロノブ、編曲：須藤賢一
 6.  **アカシア**
-      - 作詞：[アツミサオリ](https://ja.wikipedia.org/wiki/アツミサオリ "wikilink")、作曲：影山ヒロノブ、編曲：須藤賢一
+      - 作詞：[アツミサオリ](../Page/アツミサオリ.md "wikilink")、作曲：影山ヒロノブ、編曲：須藤賢一
 7.  **正しい恋愛**
-      - 作詞：[三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")、作曲：影山ヒロノブ、編曲：須藤賢一
+      - 作詞：[三重野瞳](../Page/三重野瞳.md "wikilink")、作曲：影山ヒロノブ、編曲：須藤賢一
 8.  **[涙のティアラ](../Page/君色パレット.md "wikilink")**
       - 作詞：rino、作曲：影山ヒロノブ、編曲：須藤賢一
       - 5thシングル「君色パレット」カップリング曲

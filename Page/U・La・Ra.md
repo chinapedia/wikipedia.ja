@@ -1,12 +1,12 @@
 > この記事は[ULaRa](https://ja.wikipedia.org/wiki/ULaRa)から翻訳されています。
 
 
-**U・La・Ra**（うらら）は、[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")の2枚目のアルバムである。
+**U・La・Ra**（うらら）は、[野川さくら](../Page/野川さくら.md "wikilink")の2枚目のアルバムである。
 
 ## 解説
 
   - 「愛の嵐」は野川と影山とのデュエット曲。
-  - 「卒業アルバムの中の無傷な夢」は影山ヒロノブがセルフカバーしている（アルバム「[30years3ounce](https://ja.wikipedia.org/wiki/30years3ounce "wikilink")」（[2007年](../Page/2007年.md "wikilink")）収録の「卒業アルバムの中の無傷な夢 〜返信〜」）。また「サイケデリック☆55」も同じく影山がセルフカバーしている（アルバム「[Cold Rain](../Page/Cold_Rain.md "wikilink")」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）収録の「Riding on a Time machine〜サイケデリック☆55」）。
+  - 「卒業アルバムの中の無傷な夢」は影山ヒロノブがセルフカバーしている（アルバム「[30years3ounce](https://ja.wikipedia.org/wiki/30years3ounce "wikilink")」（[2007年](../Page/2007年.md "wikilink")）収録の「卒業アルバムの中の無傷な夢 〜返信〜」）。また「サイケデリック☆55」も同じく影山がセルフカバーしている（アルバム「[Cold Rain](../Page/Cold_Rain.md "wikilink")」（[2005年](../Page/2005年.md "wikilink")）収録の「Riding on a Time machine〜サイケデリック☆55」）。
   - リリース日である3月1日は野川の誕生日で、それに合わせて発売された。
 
 ## 収録曲
@@ -26,7 +26,7 @@
       - 作詞：尾崎雪絵、作曲：影山ヒロノブ、編曲：須藤賢一
 7.  **マシュマロ♪たいむ**
       - 作詞：野川さくら、作曲：影山ヒロノブ、編曲：須藤賢一
-      - ラジオ「[野川さくらのマシュマロ♪たいむ](https://ja.wikipedia.org/wiki/野川さくらのマシュマロ♪たいむ "wikilink")」テーマソング
+      - ラジオ「[野川さくらのマシュマロ♪たいむ](../Page/野川さくらのマシュマロ♪たいむ.md "wikilink")」テーマソング
 8.  **サイケデリック☆55**
       - 作詞：尾崎雪絵、作曲：影山ヒロノブ、編曲：須藤賢一
 9.  **So Sweet**
@@ -41,7 +41,7 @@
 13. **Happy Merry Cherry Blossoms**
       - 作詞：尾崎雪絵、作曲：影山ヒロノブ、編曲：須藤賢一
 14. **U・La・Ra 〜宴〜**
-      - 作詞・作曲・編曲：さくら組（影山ヒロノブ・[きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink")）
+      - 作詞・作曲・編曲：さくら組（影山ヒロノブ・[きただにひろし](../Page/きただにひろし.md "wikilink")）
 
 ## 外部リンク
 

@@ -31,7 +31,7 @@
 ## タイアップ
 
   - [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")』8月エンディングテーマ（\#1）
-  - 全国30局ネット『[MU-GEN](https://ja.wikipedia.org/wiki/MU-GEN "wikilink") 〜Music Generations〜』8月度エンディングテーマ（\#1）
+  - 全国30局ネット『[MU-GEN](../Page/MU-GEN.md "wikilink") 〜Music Generations〜』8月度エンディングテーマ（\#1）
 
 ## 収録アルバム
 

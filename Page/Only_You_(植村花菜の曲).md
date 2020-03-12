@@ -5,15 +5,15 @@
 
 ## 概要
 
-曲は[スコットランド](../Page/スコットランド.md "wikilink")の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[サンディー・トム](https://ja.wikipedia.org/wiki/サンディー・トム "wikilink")の未発表曲、詞は[森若香織](https://ja.wikipedia.org/wiki/森若香織 "wikilink")がつけた。未発表曲なのでカバーではない。期間限定配信シングルとして2007年7月11日より先行配信されている。当初「ダウンロード数が増えれば、もしかしてCDになるかもしれない」といわれていたが、2007年11月7日に発売された「[愛と太陽](https://ja.wikipedia.org/wiki/愛と太陽 "wikilink")」にも収録された。初めての英語タイトル。
+曲は[スコットランド](../Page/スコットランド.md "wikilink")の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[サンディー・トム](../Page/サンディー・トム.md "wikilink")の未発表曲、詞は[森若香織](../Page/森若香織.md "wikilink")がつけた。未発表曲なのでカバーではない。期間限定配信シングルとして2007年7月11日より先行配信されている。当初「ダウンロード数が増えれば、もしかしてCDになるかもしれない」といわれていたが、2007年11月7日に発売された「[愛と太陽](../Page/愛と太陽.md "wikilink")」にも収録された。初めての英語タイトル。
 
-スタッフから「今度こんな人がデビューするんだよ。」「未発表音源も聴いてみる?」といわれ、この曲すごくいいなあと思って「Only You」をシングルにしたいと[サンディー・トム](https://ja.wikipedia.org/wiki/サンディー・トム "wikilink")にオファーを出したところ、OKされた。
+スタッフから「今度こんな人がデビューするんだよ。」「未発表音源も聴いてみる?」といわれ、この曲すごくいいなあと思って「Only You」をシングルにしたいと[サンディー・トム](../Page/サンディー・トム.md "wikilink")にオファーを出したところ、OKされた。
 
 ## 収録曲
 
 1.  **Only You**
       -
-        作詞・作曲：[Sandi Thom](https://ja.wikipedia.org/wiki/サンディー・トム "wikilink")・Dave James・John Mclaughlin、日本語詞：森若香織、編曲：[松岡モトキ](../Page/松岡モトキ.md "wikilink")・[阿部尚徳](https://ja.wikipedia.org/wiki/阿部尚徳 "wikilink")
+        作詞・作曲：[Sandi Thom](../Page/サンディー・トム.md "wikilink")・Dave James・John Mclaughlin、日本語詞：森若香織、編曲：[松岡モトキ](../Page/松岡モトキ.md "wikilink")・[阿部尚徳](https://ja.wikipedia.org/wiki/阿部尚徳 "wikilink")
 
 ## 外部リンク
 

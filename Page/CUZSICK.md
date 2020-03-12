@@ -1,21 +1,21 @@
 > この記事は[CUZSICK](https://ja.wikipedia.org/wiki/CUZSICK)から翻訳されています。
 
 
-**CUZSICK**（カズシック、[1973年](../Page/1973年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")出身、在住の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[東北学院大学](https://ja.wikipedia.org/wiki/東北学院大学 "wikilink")卒業。株式会社シークエンス代表取締役社長。
+**CUZSICK**（カズシック、[1973年](../Page/1973年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身、在住の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[東北学院大学](../Page/東北学院大学.md "wikilink")卒業。株式会社シークエンス代表取締役社長。
 
 ## 人物
 
-地元で[Date fmの生放送番組や](../Page/エフエム仙台.md "wikilink")[KHBの](../Page/東日本放送.md "wikilink")[裏影](https://ja.wikipedia.org/wiki/裏影 "wikilink")という[深夜番組](../Page/深夜番組.md "wikilink")や[ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink")『[COLOR](https://ja.wikipedia.org/wiki/COLOR_\(雑誌\) "wikilink")』で連載をしている他、[FMノースウェーブにて番組をもつ](../Page/エフエム・ノースウェーブ.md "wikilink")。
+地元で[Date fmの生放送番組や](../Page/エフエム仙台.md "wikilink")[KHBの](../Page/東日本放送.md "wikilink")[裏影](../Page/裏影.md "wikilink")という[深夜番組](../Page/深夜番組.md "wikilink")や[ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink")『[COLOR](https://ja.wikipedia.org/wiki/COLOR_\(雑誌\) "wikilink")』で連載をしている他、[FMノースウェーブにて番組をもつ](../Page/エフエム・ノースウェーブ.md "wikilink")。
 
 Datefmでの生放送番組に尊敬する[長渕剛](../Page/長渕剛.md "wikilink")を呼んだ。
 
 ## 来歴
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
-  - プロデュースしリリースしたCD「RAP SOUND BURGER」は[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")チャート7位を記録。
+  - プロデュースしリリースしたCD「RAP SOUND BURGER」は[オリコン](../Page/オリコンチャート.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")チャート7位を記録。
 
 <!-- end list -->
 
@@ -24,11 +24,11 @@ Datefmでの生放送番組に尊敬する[長渕剛](../Page/長渕剛.md "wiki
 
 <!-- end list -->
 
-  - [ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")の[DJ KOHNOが監修した](../Page/DJ_KOHNO.md "wikilink")[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")CD「JOYRIDE」に[夜光虫の](https://ja.wikipedia.org/wiki/夜光虫_\(ヒップホップ\) "wikilink")[KUTTS](https://ja.wikipedia.org/wiki/KUTTS "wikilink")と共に参加、夜光虫のKUTTSや東北ラッパー達とのユニット「Mess-Age Crew」としても活躍。
+  - [ケツメイシ](../Page/ケツメイシ.md "wikilink")の[DJ KOHNOが監修した](../Page/DJ_KOHNO.md "wikilink")[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")CD「JOYRIDE」に[夜光虫の](https://ja.wikipedia.org/wiki/夜光虫_\(ヒップホップ\) "wikilink")[KUTTS](https://ja.wikipedia.org/wiki/KUTTS "wikilink")と共に参加、夜光虫のKUTTSや東北ラッパー達とのユニット「Mess-Age Crew」としても活躍。
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@ Datefmでの生放送番組に尊敬する[長渕剛](../Page/長渕剛.md "wiki
 
 <!-- end list -->
 
-  - 5月 - Mess-Age Crew NEWアルバム「LOVE MY BLOCK」リリース。CDリード曲Dear My New Friendsは日テレ系全国ネット「嗚呼！花の料理人」。進学塾TVCMソングとしてON AIR。HB東日本放送「[裏影](https://ja.wikipedia.org/wiki/裏影 "wikilink")」人生裏影ケセラセラテーマソング。テレ朝系・6県ネット「[裏のオク](https://ja.wikipedia.org/wiki/裏のオク "wikilink")」君の手をエンディングテーマ
+  - 5月 - Mess-Age Crew NEWアルバム「LOVE MY BLOCK」リリース。CDリード曲Dear My New Friendsは日テレ系全国ネット「嗚呼！花の料理人」。進学塾TVCMソングとしてON AIR。HB東日本放送「[裏影](../Page/裏影.md "wikilink")」人生裏影ケセラセラテーマソング。テレ朝系・6県ネット「[裏のオク](https://ja.wikipedia.org/wiki/裏のオク "wikilink")」君の手をエンディングテーマ
   - 10月より東北楽天ゴールデンイーグルスタイアップ番組「WE AER EAGLER」パーソナリティー（放送局：Date fm 毎週土曜11:30～）
 
 <!-- end list -->

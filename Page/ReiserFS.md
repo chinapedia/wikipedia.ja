@@ -1,7 +1,7 @@
 > この記事は[ReiserFS](https://ja.wikipedia.org/wiki/ReiserFS)から翻訳されています。
 
 
-**ReiserFS**（ライザーエフエス）は、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")における[ジャーナリングファイルシステム](../Page/ジャーナリングファイルシステム.md "wikilink")の実装の一つ。Linux [kernel](../Page/カーネル.md "wikilink") 2.4.1から標準搭載となった。Linuxカーネルのソースコードに取り込まれたはじめてのジャーナリングファイルシステムである。
+**ReiserFS**（ライザーエフエス）は、[Linux](../Page/Linux.md "wikilink")における[ジャーナリングファイルシステム](../Page/ジャーナリングファイルシステム.md "wikilink")の実装の一つ。Linux [kernel](../Page/カーネル.md "wikilink") 2.4.1から標準搭載となった。Linuxカーネルのソースコードに取り込まれたはじめてのジャーナリングファイルシステムである。
 
 1996年から[ハンス・ライザー](../Page/ハンス・ライザー.md "wikilink")(Hans Reiser)率いるNamesys社によって開発されていたが、後継の[Reiser4](../Page/Reiser4.md "wikilink")の開発に集中するため開発が中止された。2006年にハンス・ライザーが妻の殺害容疑で逮捕された後、2008年にNamesys社も廃業し、主要な開発者であったハンス・ライザーは2008年に懲役15年の判決が下ったため、現在はボランティアベースで開発が進められている。
 

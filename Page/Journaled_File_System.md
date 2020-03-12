@@ -1,7 +1,7 @@
 > この記事は[Journaled File System](https://ja.wikipedia.org/wiki/Journaled_File_System)から翻訳されています。
 
 
-**JFS** (Journaled File System) は、[IBM](../Page/IBM.md "wikilink") が同社の商用 [UNIX](../Page/UNIX.md "wikilink") である [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink") v3.1 に実装した 64ビット[ジャーナリングファイルシステム](../Page/ジャーナリングファイルシステム.md "wikilink")である。 [OS/2](https://ja.wikipedia.org/wiki/OS/2_Warp "wikilink")、[eComStation](https://ja.wikipedia.org/wiki/eComStation "wikilink") にも実装され、その後[オープンソース](../Page/オープンソース.md "wikilink")として公開、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") に移植されている。[HP-UX](../Page/HP-UX.md "wikilink") にも JFS という名称のファイルシステムがあるが、これは [VxFS](https://ja.wikipedia.org/wiki/VxFS "wikilink") の [OEM](../Page/OEM.md "wikilink") である。
+**JFS** (Journaled File System) は、[IBM](../Page/IBM.md "wikilink") が同社の商用 [UNIX](../Page/UNIX.md "wikilink") である [AIX](../Page/AIX.md "wikilink") v3.1 に実装した 64ビット[ジャーナリングファイルシステム](../Page/ジャーナリングファイルシステム.md "wikilink")である。 [OS/2](https://ja.wikipedia.org/wiki/OS/2_Warp "wikilink")、[eComStation](https://ja.wikipedia.org/wiki/eComStation "wikilink") にも実装され、その後[オープンソース](../Page/オープンソース.md "wikilink")として公開、[Linux](../Page/Linux.md "wikilink") に移植されている。[HP-UX](../Page/HP-UX.md "wikilink") にも JFS という名称のファイルシステムがあるが、これは [VxFS](https://ja.wikipedia.org/wiki/VxFS "wikilink") の [OEM](../Page/OEM.md "wikilink") である。
 
 AIX の JFS には *JFS*（*JFS1*）、*JFS2* と呼ばれる2つの世代の JFS がある。\[1\]\[2\]他の [OS](../Page/オペレーティングシステム.md "wikilink") では第2世代の JFS が実装され単に *JFS* と呼ばれている。\[3\] *JFS in AIX*と呼ばれるものは、JFS1を指す。
 
@@ -11,7 +11,7 @@ AIX の JFS には *JFS*（*JFS1*）、*JFS2* と呼ばれる2つの世代の JF
 
 1995年、マルチプロセッサのサポートと性能向上、複数の OS で使用可能な移植性の高いファイルシステムにするための改良が始まる。1999年4月、新しい JFS が [OS/2 Warp Server for e-business](https://ja.wikipedia.org/wiki/OS/2 "wikilink") に、2000年10月には OS/2 Warp クライアントに向けてリリースされた。
 
-1999年12月、OS/2 の JFS ソースコードがオープンソースコミュニティに提供され、それを受け JFS の [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") への移植が始まった。2001年6月、*JFS for Linux* の最初の安定版がリリースされた。\[4\]この活動と平行して1997年、 JFS 開発チームの数名が AIX OS の開発チームに戻り、新しい JFS を AIX に移植する作業を始めた。2001年5月、改良された *JFS（JFS2）* は AIX 5L で利用可能となった。\[5\]\[6\]
+1999年12月、OS/2 の JFS ソースコードがオープンソースコミュニティに提供され、それを受け JFS の [Linux](../Page/Linux.md "wikilink") への移植が始まった。2001年6月、*JFS for Linux* の最初の安定版がリリースされた。\[4\]この活動と平行して1997年、 JFS 開発チームの数名が AIX OS の開発チームに戻り、新しい JFS を AIX に移植する作業を始めた。2001年5月、改良された *JFS（JFS2）* は AIX 5L で利用可能となった。\[5\]\[6\]
 
 2008年初頭、JFS のメンテナンスに IBM は関心が無いので、商用環境では用いるべきでないという噂が流れた。\[7\] これに対し IBM の Linux テクノロジーセンターのメンバーであり *JFS コアチーム*のメンバーでもある Dave Kleikamp は、彼らはJFSについて Linux カーネルの変更に追従し、潜在するバグを直そうとしており、いくつかのディストリビューションはさらなるコミットメントを彼らに期待していると説明した。\[8\]
 

@@ -5,13 +5,13 @@
 
 ## 来歴
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の夏に[広島修道大学](../Page/広島修道大学.md "wikilink")フォークソング部で知り合い結成した。[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")デビューする。[SNAIL RAMPのTAKEMURAの目に止まった事により](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")、彼の立ち上げたSCHOOL BUS RECORDSに所属する。[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")内のgr8\!recordsからメジャーデビュー。後にソニーミュージックから離れ、K\&A CO,.LTD内にプライベートレーベル「Indigo Park」を立ち上げて、インディーズで活動していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にオフィシャルウェブサイトにて解散を発表、[2009年](../Page/2009年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")の[Shibuya O-WESTでのワンマンライブをもって解散した](https://ja.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の夏に[広島修道大学](../Page/広島修道大学.md "wikilink")フォークソング部で知り合い結成した。[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")デビューする。[SNAIL RAMPのTAKEMURAの目に止まった事により](../Page/SNAIL_RAMP.md "wikilink")、彼の立ち上げたSCHOOL BUS RECORDSに所属する。[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")内のgr8\!recordsからメジャーデビュー。後にソニーミュージックから離れ、K\&A CO,.LTD内にプライベートレーベル「Indigo Park」を立ち上げて、インディーズで活動していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にオフィシャルウェブサイトにて解散を発表、[2009年](../Page/2009年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")の[Shibuya O-WESTでのワンマンライブをもって解散した](../Page/Shibuya_O-WEST.md "wikilink")。
 
 ## メンバー
 
   - **堤晋一**（つつみ しんいち）[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")担当。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")国際商学科卒業。[1977年](../Page/1977年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")生。[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")出身。\[1\]血液型A型。嫌いな食べ物はキノコ。
   - **加藤栄治**（かとう えいじ）[ギター](../Page/ギター.md "wikilink")担当。広島修道大学商学部経営学科卒業。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")生。血液型A型。嫌いな食べ物はエビとシャコ。
-  - **山本聖治**（やまもと せいじ）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。広島修道大学[人文学部](../Page/人文学部.md "wikilink")人間関係学科心理学専攻卒業。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")生。嫌いな食べ物は卵。
+  - **山本聖治**（やまもと せいじ）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。広島修道大学[人文学部](../Page/人文学部.md "wikilink")人間関係学科心理学専攻卒業。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")生。嫌いな食べ物は卵。
   - **田代真一**（たしろ しんいち）[ドラム担当](../Page/ドラムセット.md "wikilink")。広島修道大学人文学部人間関係学科心理学専攻卒業。[1977年](../Page/1977年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")生。血液型A型。嫌いな食べ物はフナ。
 
 ## 作品
@@ -405,7 +405,7 @@ SRCL-5599</p></td>
 
 ### 過去
 
-  - [秘密の音園](https://ja.wikipedia.org/wiki/秘密の音園 "wikilink")火曜日 「堤晋一のBlue Bird Journy」（[RCCラジオ](../Page/中国放送.md "wikilink")）
+  - [秘密の音園](../Page/秘密の音園.md "wikilink")火曜日 「堤晋一のBlue Bird Journy」（[RCCラジオ](../Page/中国放送.md "wikilink")）
   - [rcc/music](https://ja.wikipedia.org/wiki/rcc/music "wikilink")「Bivattcheeの今夜はトップ☆ギアー」（RCCラジオ）
 
 ## 主なライブ
@@ -418,7 +418,7 @@ SRCL-5599</p></td>
   - 2003年08月24日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2003
   - 2003年11月14日 - スペースシャワー列伝 第32巻 ～橙彩(だいだいいろ)の宴～
   - 2004年08月13日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2004 in EZO
-  - 2005年03月11日 - [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink") スプリングツアーネオマレルミン2005
+  - 2005年03月11日 - [フジファブリック](../Page/フジファブリック.md "wikilink") スプリングツアーネオマレルミン2005
   - 2006年08月05日 - 八食サマーフリーライブ2006
 
 ## 脚注

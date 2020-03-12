@@ -3,19 +3,19 @@
 
 『**灰とダイヤモンド**』（はいとダイヤモンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[GLAY](../Page/GLAY.md "wikilink")の、インディーズ1枚目のアルバムである。
 
-[1994年](../Page/1994年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")よりリリースされ、[2000年](../Page/2000年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")にも再リリースされている。
+[1994年](../Page/1994年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")よりリリースされ、[2000年](../Page/2000年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")にも再リリースされている。
 
 [2014年](../Page/2014年.md "wikilink")5月25日には、GLAYデビュー20周年を記念して、本作の復刻盤『**灰とダイヤモンド Anthology**』をリリース（[後述](https://ja.wikipedia.org/wiki/#灰とダイヤモンド_Anthology "wikilink")）。
 
-[2015年](../Page/2015年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")には、全曲[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")された[ハイレゾ](https://ja.wikipedia.org/wiki/ハイレゾ "wikilink")音源がリリースされた。[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")なしの[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")音源はこれが初となる。
+[2015年](../Page/2015年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")には、全曲[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")された[ハイレゾ](https://ja.wikipedia.org/wiki/ハイレゾ "wikilink")音源がリリースされた。[リミックス](../Page/リミックス.md "wikilink")なしの[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")音源はこれが初となる。
 
 ## 解説
 
-[1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、東京近郊のライブハウスで行われたGLAYのライブに[YOSHIKI](../Page/YOSHIKI.md "wikilink")が訪れ、スカウトされ、同日にエクスタシーレコードと契約\[1\]。その後、[インディーズ](../Page/インディーズ.md "wikilink")時代唯一のアルバムとして制作されたのが本作であり、メジャーデビュー[シングル](../Page/シングル.md "wikilink")「[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\) "wikilink")」と同時にリリースされた。
+[1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、東京近郊のライブハウスで行われたGLAYのライブに[YOSHIKI](../Page/YOSHIKI.md "wikilink")が訪れ、スカウトされ、同日にエクスタシーレコードと契約\[1\]。その後、[インディーズ](../Page/インディーズ.md "wikilink")時代唯一のアルバムとして制作されたのが本作であり、メジャーデビュー[シングル](../Page/シングル.md "wikilink")「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」と同時にリリースされた。
 
 当時は、ドラマーにAKIRAが在籍していたが、レコーディングが終了した1994年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に脱退したため、AKIRA在籍時の唯一のアルバムでもある\[2\]。
 
-この後にメジャーシングルとしてリリースされることになる「[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\) "wikilink")」、「[真夏の扉](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")」、「[彼女の“Modern…”](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")」はインディーズ当時のアレンジ・バージョンで収録されており、また、「千ノナイフガ胸ヲ刺ス」、「KISSIN' NOISE」も後にベストアルバム『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』に、「TWO BELL SILENCE」、「BURST」もベストアルバム『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』に再録バージョンで収録された。
+この後にメジャーシングルとしてリリースされることになる「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」、「[真夏の扉](../Page/真夏の扉.md "wikilink")」、「[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")」はインディーズ当時のアレンジ・バージョンで収録されており、また、「千ノナイフガ胸ヲ刺ス」、「KISSIN' NOISE」も後にベストアルバム『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』に、「TWO BELL SILENCE」、「BURST」もベストアルバム『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』に再録バージョンで収録された。
 
 帯には「-限りなく漆黒に近い純白-」と書かれている。
 
@@ -29,12 +29,12 @@
 
 ## 収録曲
 
-1.  **[真夏の扉](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink") (GLAY VERSION)**
+1.  **[真夏の扉](../Page/真夏の扉.md "wikilink") (GLAY VERSION)**
       - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY
     <!-- end list -->
       -
         後に2ndシングルとしてリリースされるものとはアレンジ・テイクが異なっており、歌詞も一部異なる。
-2.  **[彼女の“Modern…”](https://ja.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
+2.  **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
       - 作詞・作曲：TAKURO　編曲：GLAY
     <!-- end list -->
       -
@@ -50,7 +50,7 @@
     <!-- end list -->
       -
         ゆっくりとしたテンポで、6分を超える曲。1993年に発売されたデモテープ「GREATEST SHADOW」には、「TEARS SONG」というタイトルで収録されている。
-5.  **[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\) "wikilink") (GLAY VERSION)**
+5.  **[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink") (GLAY VERSION)**
       - 作詞：YOSHIKI　作曲：YOSHIKI、TAKURO　編曲:GLAY
     <!-- end list -->
       -
@@ -123,7 +123,7 @@
 
 ※\#1・2は、DEMO歌詞VER.で収録\[13\]
 
-※\#11 - 13、編曲：GLAY & [MASAHIDE SAKUMA](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+※\#11 - 13、編曲：GLAY & [MASAHIDE SAKUMA](../Page/佐久間正英.md "wikilink")
 
 #### Disc 2
 
@@ -141,7 +141,7 @@
 6.  **[魔女狩り](https://ja.wikipedia.org/wiki/SPEED_POP_\(デモテープ\) "wikilink")**
       -
         デモテープ「SPEED POP」に収録されている音源。
-7.  **[FMいるか](https://ja.wikipedia.org/wiki/FMいるか "wikilink")“ランチBOXリクエスト”1994.5.28**
+7.  **[FMいるか](../Page/FMいるか.md "wikilink")“ランチBOXリクエスト”1994.5.28**
 8.  **[ANSWER](https://ja.wikipedia.org/wiki/SPEED_POP_\(デモテープ\) "wikilink")**
       -
         デモテープ「SPEED POP」に収録されている音源。
@@ -175,7 +175,7 @@
 
 <!-- end list -->
 
-  - Mr.KITAGUCHI - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - Mr.KITAGUCHI - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - MAKOTO - キーボード
   - TAKUYA KON - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
   - NAOKI ICHIKAWA - [ピアノ](../Page/ピアノ.md "wikilink")（\#5）
@@ -187,16 +187,16 @@
 
 ### CD
 
-  - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")
     YOSHINORI SHIMIZU（\#1-10）
   - アシスタント・エンジニア
     JET KITAGUCHI（『灰とダイヤモンド』）
-  - [マスタリング](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+  - [マスタリング](../Page/マスタリング・エンジニア.md "wikilink")
     KEIKO UEDA（『灰とダイヤモンド』）
     KAZUSHIGE YAMAZAKI (FLAIR MASTERING WORKS)（『灰とダイヤモンド Anthology』Disc 1・2）
   - [リミックス](https://ja.wikipedia.org/wiki/ミキシング#リミックス "wikilink") & [リマスタリング](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")
     Koniyoung (KURID INTERNATIONAL)（\#1-10：『灰とダイヤモンド Anthology』Disc 1）
-  - ライブ音源[レコーディング・ミキシング](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")
+  - ライブ音源[レコーディング・ミキシング](../Page/レコーディング・エンジニア.md "wikilink")
     NORIYUKI KISOU (v.f.v studio inc.)（\#11-14：『灰とダイヤモンド Anthology』Disc 1）
   - [ディレクター](https://ja.wikipedia.org/wiki/ディレクター#レコード・CD制作におけるディレクター（音楽ディレクター） "wikilink")
     TAICHIRO KITAMURA (OFFICE KITAMURA)（\#1・4・7・11：『灰とダイヤモンド Anthology』Disc 2）
@@ -214,7 +214,7 @@
 
 ## 記録
 
-[オリコンアルバムチャートでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、発売から約3年8か月後の1998年1月19日付で100位圏内に初登場し、翌週の26日付で最高位の57位を記録した\[14\]。
+[オリコンアルバムチャートでは](../Page/オリコンチャート.md "wikilink")、発売から約3年8か月後の1998年1月19日付で100位圏内に初登場し、翌週の26日付で最高位の57位を記録した\[14\]。
 
 『灰とダイヤモンド Anthology』では、発売日の関係で2日間のみの集計だったが\[15\]、オリコンアルバムチャートの2014年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")付にて、初登場10位を記録。原盤『灰とダイヤモンド』を含めると、初のトップ10入りを記録し、これまでの最高位を57位から大幅に更新した\[16\]。
 
@@ -228,7 +228,7 @@
 [Category:GLAYのアルバム](https://ja.wikipedia.org/wiki/Category:GLAYのアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:エクスタシーレコードのアルバム](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのアルバム "wikilink")
 
 1.
-2.  ただし、メジャーデビュー後に発表された「真夏の扉」、「[Life 〜遠い空の下で〜](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")」では、AKIRAがドラムを担当している。
+2.  ただし、メジャーデビュー後に発表された「真夏の扉」、「[Life 〜遠い空の下で〜](../Page/真夏の扉.md "wikilink")」では、AKIRAがドラムを担当している。
 3.
 4.  『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink") GLAY ISSUE DX.』「GLAY, DISCOGRAPHICAL DISC REVIEW -インディーズ（エクスタシーレコード）『灰とダイヤモンド』-」(P163)より
 5.

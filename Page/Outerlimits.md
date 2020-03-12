@@ -17,7 +17,7 @@
       - [五十嵐美貴](../Page/五十嵐美貴.md "wikilink")
       - [角田美喜](https://ja.wikipedia.org/wiki/角田美喜 "wikilink")
       - [仙波さとみ](../Page/仙波さとみ.md "wikilink")
-  - [笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")
-  - [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
+  - [笹路正徳](../Page/笹路正徳.md "wikilink")
+  - [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")
 
 [Category:SHOW-YAのアルバム](https://ja.wikipedia.org/wiki/Category:SHOW-YAのアルバム "wikilink") [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")

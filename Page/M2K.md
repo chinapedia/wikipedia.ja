@@ -5,9 +5,9 @@
 
 ## M2K
 
-[2000年](../Page/2000年.md "wikilink")、正規軍の助っ人を務めていた[望月成晃](../Page/望月成晃.md "wikilink")（以下の「望月」は彼を指す）が正規軍から孤立していた[神田裕之](../Page/神田裕之.md "wikilink")、[望月享](https://ja.wikipedia.org/wiki/望月享 "wikilink")（現：横須賀ススム)と共に結成。3人の頭文字（**M**ochiduki＋**M**ochiduki＝**M2**、**K**anda）からユニット名を**M2K**とし、正規軍、[C-MAX](https://ja.wikipedia.org/wiki/C-MAX "wikilink")に次ぐ第3勢力となる。スカジャン、キックボード、ブルーボックス（リング設営用の小道具入れ）をトレードマークに「両者リングアウト推進委員会」をスローガンに掲げ、試合を両者リングアウトによる不完全燃焼、不透明決着に陥れ、ルードながら人気の高かったC-MAXとは対照的に嫌われ者のヒールユニットとしての地位を確立。その後、[チョコフレークK-ICHI](https://ja.wikipedia.org/wiki/チョコフレークK-ICHI "wikilink")、[ダークネス・ドラゴン](../Page/K-ness..md "wikilink")（現：K-ness.）、[堀口元気](https://ja.wikipedia.org/wiki/堀口元気 "wikilink")が加入し、その勢力を拡大する。しかし[CIMAとの頂上決戦に敗れた望月が突如](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")「いい人宣言」をし、クリーンファイトを推進する。これにより他のメンバーとの間に亀裂が生じ[2002年](../Page/2002年.md "wikilink")に脱退、正規軍に加入するが今度は正規軍のリーダーである[マグナムTOKYOがこれに反発](../Page/黒木克昌.md "wikilink")。残されたメンバー達はマグナムを執拗に勧誘したが、マグナムは「ダンスの出来ないヤツらとは組めない」と拒否をしていた。しかし諦めきれない堀口は自費3万円をはたいてダンス教室に通いマグナムダンスを習得（最終的にはメンバー全員が踊れるようになる）。これに折れたマグナムは遂にM2Kに加入し、新リーダーとなる。しかし同年9月に神田が首の負傷のため引退。次いでクネスが脱退し正規軍に加入するが実は[斎藤了](../Page/斎藤了.md "wikilink")勧誘のための潜入工作で、クネスはK-ness.と改名し再合流、ユニットは[Do FIXERに発展する](../Page/Do_FIXER.md "wikilink")。
+[2000年](../Page/2000年.md "wikilink")、正規軍の助っ人を務めていた[望月成晃](../Page/望月成晃.md "wikilink")（以下の「望月」は彼を指す）が正規軍から孤立していた[神田裕之](../Page/神田裕之.md "wikilink")、[望月享](https://ja.wikipedia.org/wiki/望月享 "wikilink")（現：横須賀ススム)と共に結成。3人の頭文字（**M**ochiduki＋**M**ochiduki＝**M2**、**K**anda）からユニット名を**M2K**とし、正規軍、[C-MAX](https://ja.wikipedia.org/wiki/C-MAX "wikilink")に次ぐ第3勢力となる。スカジャン、キックボード、ブルーボックス（リング設営用の小道具入れ）をトレードマークに「両者リングアウト推進委員会」をスローガンに掲げ、試合を両者リングアウトによる不完全燃焼、不透明決着に陥れ、ルードながら人気の高かったC-MAXとは対照的に嫌われ者のヒールユニットとしての地位を確立。その後、[チョコフレークK-ICHI](https://ja.wikipedia.org/wiki/チョコフレークK-ICHI "wikilink")、[ダークネス・ドラゴン](../Page/K-ness..md "wikilink")（現：K-ness.）、[堀口元気](../Page/堀口元気.md "wikilink")が加入し、その勢力を拡大する。しかし[CIMAとの頂上決戦に敗れた望月が突如](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")「いい人宣言」をし、クリーンファイトを推進する。これにより他のメンバーとの間に亀裂が生じ[2002年](../Page/2002年.md "wikilink")に脱退、正規軍に加入するが今度は正規軍のリーダーである[マグナムTOKYOがこれに反発](../Page/黒木克昌.md "wikilink")。残されたメンバー達はマグナムを執拗に勧誘したが、マグナムは「ダンスの出来ないヤツらとは組めない」と拒否をしていた。しかし諦めきれない堀口は自費3万円をはたいてダンス教室に通いマグナムダンスを習得（最終的にはメンバー全員が踊れるようになる）。これに折れたマグナムは遂にM2Kに加入し、新リーダーとなる。しかし同年9月に神田が首の負傷のため引退。次いでクネスが脱退し正規軍に加入するが実は[斎藤了](../Page/斎藤了.md "wikilink")勧誘のための潜入工作で、クネスはK-ness.と改名し再合流、ユニットは[Do FIXERに発展する](../Page/Do_FIXER.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、神田と[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")の抗争が再燃し望月、横須賀とのオリジナルM2Kが6人タッグマッチで1夜限りの復活を遂げ、神田がフジイからピンフォールを奪い勝利。セコンドにはダークネス・ドラゴンのマスクを被ったK-ness.と[2001年](../Page/2001年.md "wikilink")以降、消息を絶っていたチョコフレークK-ICHIがついた。
+[2006年](../Page/2006年.md "wikilink")、神田と[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")の抗争が再燃し望月、横須賀とのオリジナルM2Kが6人タッグマッチで1夜限りの復活を遂げ、神田がフジイからピンフォールを奪い勝利。セコンドにはダークネス・ドラゴンのマスクを被ったK-ness.と[2001年](../Page/2001年.md "wikilink")以降、消息を絶っていたチョコフレークK-ICHIがついた。
 
 ### メンバー
 
@@ -21,12 +21,12 @@
 
   - [マグナムTOKYO](../Page/黒木克昌.md "wikilink")（2代目リーダー）
   - [ダークネス・ドラゴン](../Page/K-ness..md "wikilink")
-  - [堀口元気](https://ja.wikipedia.org/wiki/堀口元気 "wikilink")
+  - [堀口元気](../Page/堀口元気.md "wikilink")
   - [チョコフレークK-ICHI](https://ja.wikipedia.org/wiki/河野圭一 "wikilink")（2002年以降は欠場）
 
 ## 新M2K
 
-[2002年](../Page/2002年.md "wikilink")にM2Kを脱退した望月は正規軍のリーダーになるが、C-MAX、M2K（のちDo FIXER）、さらには[T2P](https://ja.wikipedia.org/wiki/T2P "wikilink")から合流したイタリアン・コネクションが激しい抗争を繰り広げ、置き去りにされた正規軍は同年末に解散する。現状打破のため望月は[2003年](../Page/2003年.md "wikilink")に[ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")、[新井健一郎](../Page/新井健一郎.md "wikilink")、[セカンド土井](../Page/土井成樹.md "wikilink")（現・土井成樹）、[三島来夢](https://ja.wikipedia.org/wiki/三島来夢 "wikilink")と共に「目には目を」というスローガンを掲げM2Kを再結成。その後スカジャンを巡るDo FIXERとの抗争に勝つが、正規軍の焼き直し以上の印象を拭えず同年末に解散。なお、新M2Kは**M**ochiduki、**2**nd、**K**enichiroの頭文字という事になっている。
+[2002年](../Page/2002年.md "wikilink")にM2Kを脱退した望月は正規軍のリーダーになるが、C-MAX、M2K（のちDo FIXER）、さらには[T2P](https://ja.wikipedia.org/wiki/T2P "wikilink")から合流したイタリアン・コネクションが激しい抗争を繰り広げ、置き去りにされた正規軍は同年末に解散する。現状打破のため望月は[2003年](../Page/2003年.md "wikilink")に[ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")、[新井健一郎](../Page/新井健一郎.md "wikilink")、[セカンド土井](../Page/土井成樹.md "wikilink")（現・土井成樹）、[三島来夢](../Page/三島来夢.md "wikilink")と共に「目には目を」というスローガンを掲げM2Kを再結成。その後スカジャンを巡るDo FIXERとの抗争に勝つが、正規軍の焼き直し以上の印象を拭えず同年末に解散。なお、新M2Kは**M**ochiduki、**2**nd、**K**enichiroの頭文字という事になっている。
 
 ### メンバー
 
@@ -34,11 +34,11 @@
   - [ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")
   - [新井健一郎](../Page/新井健一郎.md "wikilink")
   - [セカンド土井](../Page/土井成樹.md "wikilink")
-  - [三島来夢](https://ja.wikipedia.org/wiki/三島来夢 "wikilink")（成績不振のため追放）
+  - [三島来夢](../Page/三島来夢.md "wikilink")（成績不振のため追放）
 
 ## Final M2K
 
-新M2Kを解散した望月は[悪冠一色](../Page/悪冠一色.md "wikilink")を結成しヒールターンするが結局失敗、追放されてしまう。そこへ欠場から復帰したK-ness.、横須賀、アラケン、土井が集い舞台をDRAGON GATEへ移すと共に**Final M2K**を結成。その後、土井が[Blood Generation加入のため脱退](../Page/Blood_Generation.md "wikilink")、健介office所属の[中嶋勝彦](https://ja.wikipedia.org/wiki/中嶋勝彦 "wikilink")が助っ人として加入し活動していた。2007年1月14日、約2年半に及ぶ歴史に終止符を打ち、解散した。
+新M2Kを解散した望月は[悪冠一色](../Page/悪冠一色.md "wikilink")を結成しヒールターンするが結局失敗、追放されてしまう。そこへ欠場から復帰したK-ness.、横須賀、アラケン、土井が集い舞台をDRAGON GATEへ移すと共に**Final M2K**を結成。その後、土井が[Blood Generation加入のため脱退](../Page/Blood_Generation.md "wikilink")、健介office所属の[中嶋勝彦](../Page/中嶋勝彦.md "wikilink")が助っ人として加入し活動していた。2007年1月14日、約2年半に及ぶ歴史に終止符を打ち、解散した。
 
 ### メンバー
 
@@ -48,9 +48,9 @@
   - [新井健一郎](../Page/新井健一郎.md "wikilink")
   - [セカンド土井](../Page/土井成樹.md "wikilink")
   - [小野寺大和](../Page/YAMATO_\(プロレスラー\).md "wikilink")
-  - [中嶋勝彦](https://ja.wikipedia.org/wiki/中嶋勝彦 "wikilink")（助っ人）
-  - [トザワ](https://ja.wikipedia.org/wiki/戸澤陽 "wikilink")（預かり）
-  - [カツオ](https://ja.wikipedia.org/wiki/大野勇樹 "wikilink")（預かり）
+  - [中嶋勝彦](../Page/中嶋勝彦.md "wikilink")（助っ人）
+  - [トザワ](../Page/戸澤陽.md "wikilink")（預かり）
+  - [カツオ](../Page/大野勇樹.md "wikilink")（預かり）
 
 ## 備考
 

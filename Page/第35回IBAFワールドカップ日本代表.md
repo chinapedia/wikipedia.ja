@@ -1,46 +1,46 @@
 > この記事は[35IBAF](https://ja.wikipedia.org/wiki/35IBAF)から翻訳されています。
 
 
-**第35回IBAFワールドカップ日本代表**（だい35かいIBAFワールドカップにっぽんだいひょう）は、10月に[キューバ](../Page/キューバ.md "wikilink")の[サンティアーゴ・デ・クーバ](https://ja.wikipedia.org/wiki/サンティアーゴ・デ・クーバ "wikilink")と[ハバナ](https://ja.wikipedia.org/wiki/ハバナ "wikilink")で行われた第35回[IBAFワールドカップ](https://ja.wikipedia.org/wiki/IBAFワールドカップ "wikilink")に出場するために編成された[野球](../Page/野球.md "wikilink")の日本代表チームである。
+**第35回IBAFワールドカップ日本代表**（だい35かいIBAFワールドカップにっぽんだいひょう）は、10月に[キューバ](../Page/キューバ.md "wikilink")の[サンティアーゴ・デ・クーバ](../Page/サンティアーゴ・デ・クーバ.md "wikilink")と[ハバナ](../Page/ハバナ.md "wikilink")で行われた第35回[IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")に出場するために編成された[野球](../Page/野球.md "wikilink")の日本代表チームである。
 
 ## 概要
 
-開催時期が[プロ野球](../Page/プロ野球.md "wikilink")のペナントレース最終盤、[大学野球](https://ja.wikipedia.org/wiki/大学野球 "wikilink")は秋季リーグの真っ最中ということで、オール社会人で日本代表が選出された。なお、[吉田浩外野手は](https://ja.wikipedia.org/wiki/吉田浩_\(野球\) "wikilink")、元プロ野球選手の社会人野球選手として史上初の代表入りを果たした。
+開催時期が[プロ野球](../Page/プロ野球.md "wikilink")のペナントレース最終盤、[大学野球](https://ja.wikipedia.org/wiki/大学野球 "wikilink")は秋季リーグの真っ最中ということで、オール社会人で日本代表が選出された。なお、[吉田浩外野手は](../Page/吉田浩_\(野球\).md "wikilink")、元プロ野球選手の社会人野球選手として史上初の代表入りを果たした。
 
 ## 代表メンバー
 
 No.は背番号。所属や年齢は選出当時。
 
-| 位置                               | No.                                                        | 氏名                                                               | 所属                                                               | 年齢 |
-| -------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | -- |
-| [監督](../Page/監督.md "wikilink")   | 30                                                         | [村上忠則](https://ja.wikipedia.org/wiki/村上忠則 "wikilink")            | [日産自動車](https://ja.wikipedia.org/wiki/日産自動車硬式野球部 "wikilink")     | 54 |
-| [コーチ](../Page/コーチ.md "wikilink") | 34                                                         | [萩野友康](https://ja.wikipedia.org/wiki/萩野友康 "wikilink")            | [新日本製鐵八幡](https://ja.wikipedia.org/wiki/新日本製鐵八幡硬式野球部 "wikilink") | 53 |
-| 35                               | [杉本泰彦](https://ja.wikipedia.org/wiki/杉本泰彦 "wikilink")      | [日本通運](https://ja.wikipedia.org/wiki/日本通運硬式野球部 "wikilink")       | 44                                                               |    |
-| 36                               | [坂口裕之](https://ja.wikipedia.org/wiki/坂口裕之 "wikilink")      | [新日本石油](https://ja.wikipedia.org/wiki/JX-ENEOS野球部 "wikilink")    | 38                                                               |    |
-| [投手](../Page/投手.md "wikilink")   | 11                                                         | [後藤隆之](https://ja.wikipedia.org/wiki/後藤隆之 "wikilink")            | [三菱重工長崎](https://ja.wikipedia.org/wiki/三菱重工長崎硬式野球部 "wikilink")   | 33 |
-| 13                               | [野間口貴彦](https://ja.wikipedia.org/wiki/野間口貴彦 "wikilink")    | [シダックス](https://ja.wikipedia.org/wiki/シダックス野球部 "wikilink")       | 20                                                               |    |
-| 15                               | [松井光介](https://ja.wikipedia.org/wiki/松井光介 "wikilink")      | [JR東日本](https://ja.wikipedia.org/wiki/JR東日本硬式野球部 "wikilink")     | 25                                                               |    |
-| 16                               | [坂本保](../Page/坂本保.md "wikilink")                           | [ホンダ熊本](https://ja.wikipedia.org/wiki/Honda熊本硬式野球部 "wikilink")   | 29                                                               |    |
-| 17                               | [川岸強](https://ja.wikipedia.org/wiki/川岸強 "wikilink")        | [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車硬式野球部 "wikilink")   | 24                                                               |    |
-| 18                               | [佐藤充](https://ja.wikipedia.org/wiki/佐藤充 "wikilink")        | [日本生命](https://ja.wikipedia.org/wiki/日本生命硬式野球部 "wikilink")       | 25                                                               |    |
-| 19                               | [谷村逸郎](../Page/谷村逸郎.md "wikilink")                         | [三菱ふそう川崎](https://ja.wikipedia.org/wiki/三菱ふそう川崎硬式野球部 "wikilink") | 29                                                               |    |
-| 20                               | [土井善和](https://ja.wikipedia.org/wiki/土井善和 "wikilink")      | 日本生命                                                             | 33                                                               |    |
-| 40                               | [塩崎貴史](https://ja.wikipedia.org/wiki/塩崎貴史 "wikilink")      | 新日本石油                                                            | 29                                                               |    |
-| [捕手](../Page/捕手.md "wikilink")   | 22                                                         | [安田真範](https://ja.wikipedia.org/wiki/安田真範 "wikilink")            | [東芝](https://ja.wikipedia.org/wiki/東芝硬式野球部 "wikilink")           | 28 |
-| 27                               | [高根澤力](https://ja.wikipedia.org/wiki/高根澤力 "wikilink")      | 三菱ふそう川崎                                                          | 29                                                               |    |
-| 31                               | [松下和行](https://ja.wikipedia.org/wiki/松下和行 "wikilink")      | [日本新薬](https://ja.wikipedia.org/wiki/日本新薬硬式野球部 "wikilink")       | 27                                                               |    |
-| [内野手](../Page/内野手.md "wikilink") | 1                                                          | [伊藤祐樹](../Page/伊藤祐樹.md "wikilink")                               | 日産自動車                                                            | 31 |
-| 4                                | [四之宮洋介](https://ja.wikipedia.org/wiki/四之宮洋介 "wikilink")    | 日産自動車                                                            | 25                                                               |    |
-| 5                                | [草野大輔](https://ja.wikipedia.org/wiki/草野大輔 "wikilink")      | ホンダ熊本                                                            | 26                                                               |    |
-| 6                                | [高橋史明](https://ja.wikipedia.org/wiki/高橋史明 "wikilink")      | [西濃運輸](https://ja.wikipedia.org/wiki/西濃運輸硬式野球部 "wikilink")       | 24                                                               |    |
-| 8                                | [清水昭秀](https://ja.wikipedia.org/wiki/清水昭秀 "wikilink")      | 日本通運                                                             | 23                                                               |    |
-| 14                               | [西郷泰之](https://ja.wikipedia.org/wiki/西郷泰之 "wikilink")      | 三菱ふそう川崎                                                          | 31                                                               |    |
-| 33                               | [岩本裕治](https://ja.wikipedia.org/wiki/岩本裕治 "wikilink")      | 新日本石油                                                            | 25                                                               |    |
-| [外野手](../Page/外野手.md "wikilink") | 21                                                         | [高松竜馬](https://ja.wikipedia.org/wiki/高松竜馬 "wikilink")            | 新日本石油                                                            | 27 |
-| 23                               | 今村直樹                                                       | [日産自動車九州](https://ja.wikipedia.org/wiki/日産自動車九州硬式野球部 "wikilink") | 32                                                               |    |
-| 25                               | [竹原直隆](https://ja.wikipedia.org/wiki/竹原直隆 "wikilink")      | [三菱自動車岡崎](https://ja.wikipedia.org/wiki/三菱自動車岡崎硬式野球部 "wikilink") | 23                                                               |    |
-| 29                               | [吉浦貴志](https://ja.wikipedia.org/wiki/吉浦貴志 "wikilink")      | 日産自動車                                                            | 24                                                               |    |
-| 42                               | [吉田浩](https://ja.wikipedia.org/wiki/吉田浩_\(野球\) "wikilink") | [住友金属鹿島](https://ja.wikipedia.org/wiki/日本製鉄鹿島硬式野球部 "wikilink")   | 31                                                               |    |
+| 位置                               | No.                                                     | 氏名                                                    | 所属                                                               | 年齢 |
+| -------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | -- |
+| [監督](../Page/監督.md "wikilink")   | 30                                                      | [村上忠則](https://ja.wikipedia.org/wiki/村上忠則 "wikilink") | [日産自動車](../Page/日産自動車硬式野球部.md "wikilink")                        | 54 |
+| [コーチ](../Page/コーチ.md "wikilink") | 34                                                      | [萩野友康](https://ja.wikipedia.org/wiki/萩野友康 "wikilink") | [新日本製鐵八幡](https://ja.wikipedia.org/wiki/新日本製鐵八幡硬式野球部 "wikilink") | 53 |
+| 35                               | [杉本泰彦](https://ja.wikipedia.org/wiki/杉本泰彦 "wikilink")   | [日本通運](../Page/日本通運硬式野球部.md "wikilink")               | 44                                                               |    |
+| 36                               | [坂口裕之](https://ja.wikipedia.org/wiki/坂口裕之 "wikilink")   | [新日本石油](../Page/JX-ENEOS野球部.md "wikilink")            | 38                                                               |    |
+| [投手](../Page/投手.md "wikilink")   | 11                                                      | [後藤隆之](../Page/後藤隆之.md "wikilink")                    | [三菱重工長崎](../Page/三菱重工長崎硬式野球部.md "wikilink")                      | 33 |
+| 13                               | [野間口貴彦](../Page/野間口貴彦.md "wikilink")                    | [シダックス](../Page/シダックス野球部.md "wikilink")               | 20                                                               |    |
+| 15                               | [松井光介](../Page/松井光介.md "wikilink")                      | [JR東日本](../Page/JR東日本硬式野球部.md "wikilink")             | 25                                                               |    |
+| 16                               | [坂本保](../Page/坂本保.md "wikilink")                        | [ホンダ熊本](../Page/Honda熊本硬式野球部.md "wikilink")           | 29                                                               |    |
+| 17                               | [川岸強](https://ja.wikipedia.org/wiki/川岸強 "wikilink")     | [トヨタ自動車](../Page/トヨタ自動車硬式野球部.md "wikilink")           | 24                                                               |    |
+| 18                               | [佐藤充](../Page/佐藤充.md "wikilink")                        | [日本生命](../Page/日本生命硬式野球部.md "wikilink")               | 25                                                               |    |
+| 19                               | [谷村逸郎](../Page/谷村逸郎.md "wikilink")                      | [三菱ふそう川崎](../Page/三菱ふそう川崎硬式野球部.md "wikilink")         | 29                                                               |    |
+| 20                               | [土井善和](../Page/土井善和.md "wikilink")                      | 日本生命                                                  | 33                                                               |    |
+| 40                               | [塩崎貴史](https://ja.wikipedia.org/wiki/塩崎貴史 "wikilink")   | 新日本石油                                                 | 29                                                               |    |
+| [捕手](../Page/捕手.md "wikilink")   | 22                                                      | [安田真範](../Page/安田真範.md "wikilink")                    | [東芝](../Page/東芝硬式野球部.md "wikilink")                              | 28 |
+| 27                               | [高根澤力](../Page/高根澤力.md "wikilink")                      | 三菱ふそう川崎                                               | 29                                                               |    |
+| 31                               | [松下和行](https://ja.wikipedia.org/wiki/松下和行 "wikilink")   | [日本新薬](../Page/日本新薬硬式野球部.md "wikilink")               | 27                                                               |    |
+| [内野手](../Page/内野手.md "wikilink") | 1                                                       | [伊藤祐樹](../Page/伊藤祐樹.md "wikilink")                    | 日産自動車                                                            | 31 |
+| 4                                | [四之宮洋介](https://ja.wikipedia.org/wiki/四之宮洋介 "wikilink") | 日産自動車                                                 | 25                                                               |    |
+| 5                                | [草野大輔](../Page/草野大輔.md "wikilink")                      | ホンダ熊本                                                 | 26                                                               |    |
+| 6                                | [高橋史明](https://ja.wikipedia.org/wiki/高橋史明 "wikilink")   | [西濃運輸](../Page/西濃運輸硬式野球部.md "wikilink")               | 24                                                               |    |
+| 8                                | [清水昭秀](https://ja.wikipedia.org/wiki/清水昭秀 "wikilink")   | 日本通運                                                  | 23                                                               |    |
+| 14                               | [西郷泰之](../Page/西郷泰之.md "wikilink")                      | 三菱ふそう川崎                                               | 31                                                               |    |
+| 33                               | [岩本裕治](https://ja.wikipedia.org/wiki/岩本裕治 "wikilink")   | 新日本石油                                                 | 25                                                               |    |
+| [外野手](../Page/外野手.md "wikilink") | 21                                                      | [高松竜馬](https://ja.wikipedia.org/wiki/高松竜馬 "wikilink") | 新日本石油                                                            | 27 |
+| 23                               | 今村直樹                                                    | [日産自動車九州](../Page/日産自動車九州硬式野球部.md "wikilink")         | 32                                                               |    |
+| 25                               | [竹原直隆](../Page/竹原直隆.md "wikilink")                      | [三菱自動車岡崎](../Page/三菱自動車岡崎硬式野球部.md "wikilink")         | 23                                                               |    |
+| 29                               | [吉浦貴志](../Page/吉浦貴志.md "wikilink")                      | 日産自動車                                                 | 24                                                               |    |
+| 42                               | [吉田浩](../Page/吉田浩_\(野球\).md "wikilink")                 | [住友金属鹿島](../Page/日本製鉄鹿島硬式野球部.md "wikilink")           | 31                                                               |    |
 
 ## 大会戦績
 

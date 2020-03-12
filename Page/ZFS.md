@@ -1,16 +1,16 @@
 > この記事は[ZFS](https://ja.wikipedia.org/wiki/ZFS)から翻訳されています。
 
 
-**ZFS**は、主に[オラクルのOracle](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink") [Solaris](../Page/Solaris.md "wikilink")上で実装されている[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")・アドレッシングを特徴とする[ファイルシステム](../Page/ファイルシステム.md "wikilink")。今まで Solaris (SunOS) で用いられてきた [Unix File System](https://ja.wikipedia.org/wiki/Unix_File_System "wikilink") (UFS) の次世代ファイルシステムと位置づけられている。名称は *Zettabyte File System* に由来する\[1\]が、現在は何の略称でもないとされる\[2\]。
+**ZFS**は、主に[オラクルのOracle](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink") [Solaris](../Page/Solaris.md "wikilink")上で実装されている[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")・アドレッシングを特徴とする[ファイルシステム](../Page/ファイルシステム.md "wikilink")。今まで Solaris (SunOS) で用いられてきた [Unix File System](../Page/Unix_File_System.md "wikilink") (UFS) の次世代ファイルシステムと位置づけられている。名称は *Zettabyte File System* に由来する\[1\]が、現在は何の略称でもないとされる\[2\]。
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")にアナウンスがあり、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月](../Page/11月.md "wikilink")リリースのOpenSolaris build 27で実装が公開された。 "[Common Development and Distribution License](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")" (CDDL) のもと、[オープンソース](../Page/オープンソース.md "wikilink")で開発されている。
+[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")にアナウンスがあり、[2005年](../Page/2005年.md "wikilink")[11月](../Page/11月.md "wikilink")リリースのOpenSolaris build 27で実装が公開された。 "[Common Development and Distribution License](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")" (CDDL) のもと、[オープンソース](../Page/オープンソース.md "wikilink")で開発されている。
 
 特徴として以下の項目が挙げられる。
 
   - [チェックサム](../Page/チェックサム.md "wikilink")が[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")化された
-  - [コピーオンライト](https://ja.wikipedia.org/wiki/コピーオンライト "wikilink")の実装
+  - [コピーオンライト](../Page/コピーオンライト.md "wikilink")の実装
   - ボリュームマネージャが必要なく、ボリュームの構成が容易にできるようになった
   - ディスクの違い（容量、種類）を吸収する仮想ボリューム（ストレージプールと呼称）をサポート
   - ストレージプールの作成・フォーマット・マウントがコマンド一行ですむ
@@ -107,17 +107,17 @@
 CDDLでライセンスされるオープンソースであり、Solaris系以外の[Unix系](../Page/Unix系.md "wikilink")OSにも移植が進んでいる。
 
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
-    [x64](https://ja.wikipedia.org/wiki/x64 "wikilink")の9.0-RELEASEでZFS v28をサポートしている。[IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")でも一応動作するが、実用的に使うのは難しい（カーネルが多量のメモリを必要とするが、32ビット空間の限界がある、等）。
+    [x64](https://ja.wikipedia.org/wiki/x64 "wikilink")の9.0-RELEASEでZFS v28をサポートしている。[IA-32](../Page/IA-32.md "wikilink")でも一応動作するが、実用的に使うのは難しい（カーネルが多量のメモリを必要とするが、32ビット空間の限界がある、等）。
     2011/2/28時点ではカーネル側の未サポートが理由でiSCSIを経由した共有ZVOLs機能 (zfs set shareiscsi) は実現されていない。また10.x以降は[AFT](https://ja.wikipedia.org/wiki/AFT "wikilink")(4KB/セクタ)を自動的に認識してZFS poolを作成するようになった。
   - [NetBSD](../Page/NetBSD.md "wikilink")
     2007年の [Google Summer of Code](https://ja.wikipedia.org/wiki/Google_Summer_of_Code "wikilink") で開発が始められたが、2016年時点でメンテナンスされていない\[4\]。
   - [Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")
     [10.5 Leopard](../Page/Mac_OS_X_v10.5.md "wikilink") より搭載されているが、初期リリースの10.5.0では読み込みのみの対応にとどまる。[10.6 Snow Leopard](../Page/Mac_OS_X_v10.6.md "wikilink") では、サーバ版で標準対応することが発表されていたものの 10.6.1 リリースでも実現せず、結局[アップルは](../Page/アップル_\(企業\).md "wikilink") ZFS プロジェクトを停止した\[5\]。[Btrfs](https://ja.wikipedia.org/wiki/Btrfs "wikilink")を開発中のオラクルによるサン・マイクロシステムズ買収に伴いZFSの将来が不透明になったためと報じられている。ただしアップルの援助が止まっただけであり、プロジェクト自体は Google Code にホスティングを移して、細々とではあるが続いている[1](http://code.google.com/p/maczfs/)。
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")
+  - [Linux](../Page/Linux.md "wikilink")
     CDDLがGPLに抵触するというライセンスの問題があり、また、ZFSの権利を保有するOracleの姿勢を踏まえ、Linuxの生みの親[リーナス・トーバルズ](../Page/リーナス・トーバルズ.md "wikilink")がカーネルへマージしない姿勢を表明している為\[6\]、Linuxではカーネル空間に統合された手法での利用は出来ない。
-    [FUSEというユーザー空間のファイルシステムドライバを利用する形での実装例は存在しているが](../Page/Filesystem_in_Userspace.md "wikilink")、ユーザー空間の実装であるため、一部の機能は制限される。この実装は2006年の Google Summer Code から始まっている。zfs-fuse の名称で、[Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink") の EPEL や [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink") 10.04 以降など各種 Linux ディストリビューションに含まれている。
+    [FUSEというユーザー空間のファイルシステムドライバを利用する形での実装例は存在しているが](../Page/Filesystem_in_Userspace.md "wikilink")、ユーザー空間の実装であるため、一部の機能は制限される。この実装は2006年の Google Summer Code から始まっている。zfs-fuse の名称で、[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") の EPEL や [Ubuntu](../Page/Ubuntu.md "wikilink") 10.04 以降など各種 Linux ディストリビューションに含まれている。
     2010年頃から別個に2本のネイティブポート版開発プロジェクトが動いており、そのうち KQ infotech のパッケージは [POSIX](../Page/POSIX.md "wikilink") 準拠である。
-    また **ZFS on Linux** と呼ばれるプロジェクトも進行しており\[7\]、[Debian](../Page/Debian.md "wikilink") / [CentOS](https://ja.wikipedia.org/wiki/CentOS "wikilink") / [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink") / [Fedora](../Page/Fedora.md "wikilink") などといったディストビューションで ZFS を用いることができる。
+    また **ZFS on Linux** と呼ばれるプロジェクトも進行しており\[7\]、[Debian](../Page/Debian.md "wikilink") / [CentOS](../Page/CentOS.md "wikilink") / [Ubuntu](../Page/Ubuntu.md "wikilink") / [Fedora](../Page/Fedora.md "wikilink") などといったディストビューションで ZFS を用いることができる。
     Ubuntu 16.04にてZFSを正式採用することが発表された。\[8\]
 
 ## 脚注

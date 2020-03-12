@@ -5,7 +5,7 @@
 
 ▼はメガドライブ非対応ソフト。
 
-★は[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")対応ソフト（[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")も参照）。
+★は[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフト（[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")も参照）。
 
 ◎はFMサウンド対応ソフト
 
@@ -25,14 +25,14 @@
 
 ## 1986年（全16タイトル）
 
-  - 1月31日 [青春スキャンダル](https://ja.wikipedia.org/wiki/青春スキャンダル "wikilink")（セガ、256Kマイカード）
+  - 1月31日 [青春スキャンダル](../Page/青春スキャンダル.md "wikilink")（セガ、256Kマイカード）
   - 4月21日 [コミカルマシンガンジョー](https://ja.wikipedia.org/wiki/コミカルマシンガンジョー "wikilink")（セガ、256Kマイカード）
   - 4月21日 [ゴーストハウス](https://ja.wikipedia.org/wiki/ゴーストハウス "wikilink")（セガ、256Kマイカード）
   - 6月15日 [ファンタジーゾーン](https://ja.wikipedia.org/wiki/ファンタジーゾーン "wikilink")（セガ、1Mカセット）★
   - 7月20日 [極悪同盟](https://ja.wikipedia.org/wiki/極悪同盟 "wikilink")ダンプ松本（セガ、1Mカセット）
   - 7月20日 [北斗の拳](../Page/北斗の拳_\(セガ・マークIII\).md "wikilink")（セガ、1Mカセット）★
   - 8月17日 [アクションファイター](https://ja.wikipedia.org/wiki/アクションファイター "wikilink")（セガ、1Mカセット）
-  - 9月20日 [スパイvsスパイ](https://ja.wikipedia.org/wiki/スパイvsスパイ_\(コンピュータゲーム\) "wikilink")（セガ、256Kマイカード）
+  - 9月20日 [スパイvsスパイ](../Page/スパイvsスパイ_\(コンピュータゲーム\).md "wikilink")（セガ、256Kマイカード）
   - 9月21日 [ザ・サーキット](https://ja.wikipedia.org/wiki/ザ・サーキット "wikilink")（セガ、1Mカセット）
   - 11月1日 [アレックスキッドのミラクルワールド](https://ja.wikipedia.org/wiki/アレックスキッドのミラクルワールド "wikilink")（セガ、1Mカセット）★
   - 11月8日 [忍者プリンセス 忍者](https://ja.wikipedia.org/wiki/忍者プリンセス "wikilink")1メガ版（セガ、1Mカセット）
@@ -40,7 +40,7 @@
   - 12月14日 [アストロウォリアー](https://ja.wikipedia.org/wiki/アストロウォリアー "wikilink")（セガ、1Mカセット）
   - 12月15日 [ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink")（セガ、1Mカセット）
   - 12月20日 [グレートゴルフ](https://ja.wikipedia.org/wiki/グレートゴルフ "wikilink")（セガ、1Mカセット）
-  - 12月21日 [スペースハリアー](https://ja.wikipedia.org/wiki/スペースハリアー "wikilink")（セガ、2Mカセット）★
+  - 12月21日 [スペースハリアー](../Page/スペースハリアー.md "wikilink")（セガ、2Mカセット）★
 
 ## 1987年（全31タイトル）
 
@@ -54,7 +54,7 @@
   - 4月19日 [ロッキー](../Page/ロッキー_\(映画\).md "wikilink")（セガ、2Mカセット）
   - 5月17日 [魔界列伝](https://ja.wikipedia.org/wiki/魔界列伝 "wikilink")（セガ、1Mカセット）
   - 5月18日 [エンデューロレーサー](https://ja.wikipedia.org/wiki/エンデューロレーサー "wikilink")（セガ、2Mカセット）★
-  - 5月24日 [赤い光弾ジリオン](https://ja.wikipedia.org/wiki/赤い光弾ジリオン "wikilink")（セガ、1Mカセット）
+  - 5月24日 [赤い光弾ジリオン](../Page/赤い光弾ジリオン.md "wikilink")（セガ、1Mカセット）
   - 6月30日 [アウトラン](../Page/アウトラン.md "wikilink")（セガ、2Mカセット）◎
   - 7月19日 [ワールドサッカー](https://ja.wikipedia.org/wiki/ワールドサッカー_\(マークIII\) "wikilink")（セガ、1Mカセット）
   - 7月19日 [あんみつ姫](../Page/あんみつ姫.md "wikilink")（セガ、1Mカセット）
@@ -67,12 +67,12 @@
   - 10月18日 [麻雀戦国時代](https://ja.wikipedia.org/wiki/麻雀戦国時代 "wikilink")（セガ、1Mカセット）
   - 10月18日 [エイリアンシンドローム](../Page/エイリアンシンドローム.md "wikilink")（セガ、2Mカセット）◎
   - 10月18日 [Snail Maze](https://ja.wikipedia.org/wiki/Snail_Maze "wikilink") (セガ、マスターシステム BIOSを内蔵)
-  - 10月24日 [SDI](https://ja.wikipedia.org/wiki/SDI_\(ゲーム\) "wikilink")（セガ、1Mカセット）◎
+  - 10月24日 [SDI](../Page/SDI_\(ゲーム\).md "wikilink")（セガ、1Mカセット）◎
   - 11月7日 [ザクソン](https://ja.wikipedia.org/wiki/ザクソン "wikilink")3D（セガ、1Mカセット）◎
   - 11月15日 [アレックスキッド BMXトライアル](https://ja.wikipedia.org/wiki/アレックスキッド_BMXトライアル "wikilink")（セガ、1Mカセット）◎
-  - 12月12日 [アフターバーナー](https://ja.wikipedia.org/wiki/アフターバーナー_\(ゲーム\) "wikilink")（セガ、4Mカセット）◎
+  - 12月12日 [アフターバーナー](../Page/アフターバーナー_\(ゲーム\).md "wikilink")（セガ、4Mカセット）◎
   - 12月13日 [トライフォーメーション](https://ja.wikipedia.org/wiki/トライフォーメーション "wikilink")（セガ、1Mカセット）◎
-  - 12月20日 [ファンタシースター](https://ja.wikipedia.org/wiki/ファンタシースター "wikilink")（セガ、4Mカセット）★◎
+  - 12月20日 [ファンタシースター](../Page/ファンタシースター.md "wikilink")（セガ、4Mカセット）★◎
   - 12月20日 [オパオパ](https://ja.wikipedia.org/wiki/オパオパ "wikilink")（セガ、1Mカセット）◎
   - 12月27日 [ファミリー・ゲームズ](https://ja.wikipedia.org/wiki/ファミリー・ゲームズ "wikilink")（セガ、1Mカセット）◎
 
@@ -81,13 +81,13 @@
   - 1月31日 [メイズウォーカー](https://ja.wikipedia.org/wiki/メイズウォーカー "wikilink")（セガ、1Mカセット）◎
   - 1月31日 [スーパーワンダーボーイ モンスターワールド](https://ja.wikipedia.org/wiki/スーパーワンダーボーイ_モンスターワールド "wikilink")（セガ、2Mカセット）★◎
   - 2月21日 [ギャラクティックプロテクター](https://ja.wikipedia.org/wiki/ギャラクティックプロテクター "wikilink")（セガ、1Mカセット）◎
-  - 2月29日 [スペースハリアー](https://ja.wikipedia.org/wiki/スペースハリアー "wikilink")3D（セガ、2Mカセット）◎
-  - 2月29日 [アレスタ](https://ja.wikipedia.org/wiki/アレスタ "wikilink")（セガ、1Mカセット）◎
+  - 2月29日 [スペースハリアー](../Page/スペースハリアー.md "wikilink")3D（セガ、2Mカセット）◎
+  - 2月29日 [アレスタ](../Page/アレスタ.md "wikilink")（セガ、1Mカセット）◎
   - 3月10日 [アレックスキッド ザ・ロストスターズ](https://ja.wikipedia.org/wiki/アレックスキッド_ザ・ロストスターズ "wikilink")（セガ、2Mカセット）★◎
   - 3月25日 [アルゴスの十字剣](../Page/アルゴスの戦士.md "wikilink")（[サリオ](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")、1Mカセット）
   - 3月26日 [ブレードイーグル](https://ja.wikipedia.org/wiki/ブレードイーグル "wikilink")（セガ、2Mカセット）◎
   - 4月2日 [星をさがして…](https://ja.wikipedia.org/wiki/星をさがして… "wikilink")（セガ、2Mカセット）◎
-  - 4月17日 [ソロモンの鍵 王女リヒタの涙](https://ja.wikipedia.org/wiki/ソロモンの鍵_\(ゲーム\) "wikilink")（サリオ、2Mカセット）◎
+  - 4月17日 [ソロモンの鍵 王女リヒタの涙](../Page/ソロモンの鍵_\(ゲーム\).md "wikilink")（サリオ、2Mカセット）◎
   - 6月2日 [天才バカボン](https://ja.wikipedia.org/wiki/天才バカボン_\(セガ・マークIII\) "wikilink")（セガ、2Mカセット）◎
   - 6月2日 [剣聖伝](https://ja.wikipedia.org/wiki/剣聖伝 "wikilink")（セガ、2Mカセット）◎
   - 6月2日 [ロード オブ ソード](https://ja.wikipedia.org/wiki/ロード_オブ_ソード "wikilink")（セガ、2Mカセット）◎
@@ -104,7 +104,7 @@
   - 10月1日 [ダブルドラゴン](../Page/ダブルドラゴンシリーズ.md "wikilink")（セガ、2Mカセット）◎
   - 10月15日 [イース](https://ja.wikipedia.org/wiki/イースI "wikilink")（セガ、2Mカセット）◎
   - 10月29日 [スポーツパッドサッカー](https://ja.wikipedia.org/wiki/スポーツパッドサッカー "wikilink")（セガ、1Mカセット）◎
-  - 12月1日 [超音戦士ボーグマン](https://ja.wikipedia.org/wiki/超音戦士ボーグマン "wikilink")（セガ、1Mカセット）◎
+  - 12月1日 [超音戦士ボーグマン](../Page/超音戦士ボーグマン.md "wikilink")（セガ、1Mカセット）◎
   - 日付不明 [ゲームでチェック！交通安全](https://ja.wikipedia.org/wiki/ゲームでチェック！交通安全 "wikilink")（セガ) ※店舗では販売していません。
 
 ## 1989年（全1タイトル）
@@ -131,9 +131,9 @@
 
 ### 1986年（全7タイトル）
 
-  - 9月不日 [チョップリフター](https://ja.wikipedia.org/wiki/チョップリフター "wikilink")（セガ、128Kカセット）
-  - 9月不日 [Hang-On / Astro Warrior](https://ja.wikipedia.org/wiki/Hang-On_/_Astro_Warrior "wikilink")([ハングオン](https://ja.wikipedia.org/wiki/ハングオン "wikilink") / [アストロウォリアー](https://ja.wikipedia.org/wiki/アストロウォリアー "wikilink"))（セガ、128Kカセット）
-  - 9月不日 [Hang-On / Safari Hunt](https://ja.wikipedia.org/wiki/Hang-On_/_Safari_Hunt "wikilink")([ハングオン](https://ja.wikipedia.org/wiki/ハングオン "wikilink") / [サファリハント](https://ja.wikipedia.org/wiki/サファリハント "wikilink"))（セガ、128Kカセット）
+  - 9月不日 [チョップリフター](../Page/チョップリフター.md "wikilink")（セガ、128Kカセット）
+  - 9月不日 [Hang-On / Astro Warrior](https://ja.wikipedia.org/wiki/Hang-On_/_Astro_Warrior "wikilink")([ハングオン](../Page/ハングオン.md "wikilink") / [アストロウォリアー](https://ja.wikipedia.org/wiki/アストロウォリアー "wikilink"))（セガ、128Kカセット）
+  - 9月不日 [Hang-On / Safari Hunt](https://ja.wikipedia.org/wiki/Hang-On_/_Safari_Hunt "wikilink")([ハングオン](../Page/ハングオン.md "wikilink") / [サファリハント](https://ja.wikipedia.org/wiki/サファリハント "wikilink"))（セガ、128Kカセット）
   - 10月不日 [Astro Warrior / Pit Pot](https://ja.wikipedia.org/wiki/Astro_Warrior_/_Pit_Pot "wikilink")([アストロウォリアー](https://ja.wikipedia.org/wiki/アストロウォリアー "wikilink")/[不思議のお城ピットポット](https://ja.wikipedia.org/wiki/不思議のお城ピットポット "wikilink"))（セガ、128Kカセット）
   - 11月不日 [Black Belt](https://ja.wikipedia.org/wiki/Black_Belt "wikilink")（セガ、128Kカセット）
   - 11月不日 [Marksman Shooting & Trap Shooting](https://ja.wikipedia.org/wiki/Marksman_Shooting_&_Trap_Shooting "wikilink")（セガ、128Kカセット）
@@ -143,7 +143,7 @@
 
   - 3月不日 [グレートベースボール](https://ja.wikipedia.org/wiki/グレートベースボール "wikilink")（セガ、128Kカセット）(日本のタイトルと違う)
   - 3月不日 [Shooting Gallery](https://ja.wikipedia.org/wiki/Shooting_Gallery "wikilink")（セガ、128Kカセット）
-  - 5月不日 [ゴーストバスターズ](https://ja.wikipedia.org/wiki/ゴーストバスターズ "wikilink")（セガ、128Kカセット）
+  - 5月不日 [ゴーストバスターズ](../Page/ゴーストバスターズ.md "wikilink")（セガ、128Kカセット）
   - 8月不日 [Missile Defense 3-D](https://ja.wikipedia.org/wiki/Missile_Defense_3-D "wikilink")（セガ、128Kカセット）
   - 8月不日 [Sports Pad Football](https://ja.wikipedia.org/wiki/Sports_Pad_Football "wikilink")（セガ、128Kカセット）
   - 日付不明 [バンクパニック](https://ja.wikipedia.org/wiki/バンクパニック "wikilink")（セガ、256Kマイカード）
@@ -180,7 +180,7 @@
   - 8月不日 [Wanted](https://ja.wikipedia.org/wiki/Wanted "wikilink")（セガ、128Kカセット）
   - 9月不日 [Casino Games](https://ja.wikipedia.org/wiki/Casino_Games "wikilink")（セガ、256Kカセット）
   - 9月不日 [モンスターワールドII ドラゴンの罠](https://ja.wikipedia.org/wiki/モンスターワールドII_ドラゴンの罠 "wikilink")（セガ、256Kカセット）
-  - 10月不日 [ギャラクシーフォース](https://ja.wikipedia.org/wiki/ギャラクシーフォース "wikilink")（セガ、512Kカセット）
+  - 10月不日 [ギャラクシーフォース](../Page/ギャラクシーフォース.md "wikilink")（セガ、512Kカセット）
   - 12月不日 [Basketball Nightmare](https://ja.wikipedia.org/wiki/Basketball_Nightmare "wikilink")（セガ、256Kカセット）
   - 12月不日 [Psycho Fox](https://ja.wikipedia.org/wiki/Psycho_Fox "wikilink")（セガ、256Kカセット）
   - 日付不明 [ALF](https://ja.wikipedia.org/wiki/ALF "wikilink") （セガ、128Kカセット）
@@ -201,7 +201,7 @@
   - 1月不日 [ダイナマイトダックス](https://ja.wikipedia.org/wiki/ダイナマイトダックス "wikilink")（セガ、256Kカセット）
   - 5月不日 [World Games](https://ja.wikipedia.org/wiki/World_Games "wikilink")（セガ、128Kカセット）
   - 8月不日 [Alex Kidd in Shinobi World](https://ja.wikipedia.org/wiki/Alex_Kidd_in_Shinobi_World "wikilink")（セガ、256Kカセット）
-  - 9月不日 [コラムス](https://ja.wikipedia.org/wiki/コラムス "wikilink")（セガ、128Kカセット）
+  - 9月不日 [コラムス](../Page/コラムス.md "wikilink")（セガ、128Kカセット）
   - 9月不日 [サイバーポリス イースワット](https://ja.wikipedia.org/wiki/サイバーポリス_イースワット "wikilink")（セガ、256Kカセット）
   - 9月不日 [Fire & Forget](https://ja.wikipedia.org/wiki/Fire_&_Forget "wikilink")（セガ、256Kカセット）
   - 9月不日 [スーパーモナコＧＰ](https://ja.wikipedia.org/wiki/スーパーモナコＧＰ "wikilink")（セガ、256Kカセット）
@@ -233,13 +233,13 @@
 ### 1991年（全43タイトル）
 
   - 1月14日 [The Dinosaur Dooley](https://ja.wikipedia.org/wiki/The_Dinosaur_Dooley "wikilink") (아기공룡 둘리) (Daou Infosys Corp.、128Kカセット)
-  - 1月不日 [ゲイングランド](https://ja.wikipedia.org/wiki/ゲイングランド "wikilink")（セガ、256Kカセット）
+  - 1月不日 [ゲイングランド](../Page/ゲイングランド.md "wikilink")（セガ、256Kカセット）
   - 1月不日 [ディックトレイシー](https://ja.wikipedia.org/wiki/ディックトレイシー "wikilink")（セガ、256Kカセット）
   - 2月不日 [Danan: The Jungle Fighter](https://ja.wikipedia.org/wiki/Danan:_The_Jungle_Fighter "wikilink")（セガ、256Kカセット）
   - 2月不日 [ミッキーマウスのキャッスルイリュージョン](https://ja.wikipedia.org/wiki/ミッキーマウスのキャッスルイリュージョン "wikilink")（セガ、256Kカセット）
   - 3月不日 [スピードボール](https://ja.wikipedia.org/wiki/スピードボール "wikilink")（Image Works、Virgin Games、128Kカセット）
   - 4月不日 [The Cyber Shinobi - 忍 2](https://ja.wikipedia.org/wiki/The_Cyber_Shinobi_-_忍_2 "wikilink")（セガ、256Kカセット）
-  - 4月不日 [大魔界村](https://ja.wikipedia.org/wiki/大魔界村 "wikilink")（セガ、256Kカセット）
+  - 4月不日 [大魔界村](../Page/大魔界村.md "wikilink")（セガ、256Kカセット）
   - 4月不日 [ダイナマイトデューク](https://ja.wikipedia.org/wiki/ダイナマイトデューク "wikilink")（セガ、256Kカセット）
   - 4月不日 [ゴールデンアックスウォリアー](https://ja.wikipedia.org/wiki/ゴールデンアックスウォリアー "wikilink")（セガ、256Kカセット）
   - 4月不日 [Pac-Mania](https://ja.wikipedia.org/wiki/Pac-Mania "wikilink")（テンゲン、128Kカセット）
@@ -247,7 +247,7 @@
   - 7月不日 [フォゴットンワールド](https://ja.wikipedia.org/wiki/フォゴットンワールド "wikilink")（セガ、256Kカセット）
   - 8月不日 [Sega Chess](https://ja.wikipedia.org/wiki/Sega_Chess "wikilink")（セガ、256Kカセット）
   - 8月不日 [スパイダーマン](../Page/スパイダーマン.md "wikilink")（セガ、256Kカセット）
-  - 8月不日 [ストライダー飛竜](https://ja.wikipedia.org/wiki/ストライダー飛竜 "wikilink")（セガ、512Kカセット）
+  - 8月不日 [ストライダー飛竜](../Page/ストライダー飛竜.md "wikilink")（セガ、512Kカセット）
   - 10月25日 [ソニック・ザ・ヘッジホッグ](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink")（セガ、256Kカセット）
   - 10月不日 [エイリアンストーム](https://ja.wikipedia.org/wiki/エイリアンストーム "wikilink")（セガ、256Kカセット）
   - 10月不日 [バック・トゥ・ザ・フューチャーII](https://ja.wikipedia.org/wiki/バック・トゥ・ザ・フューチャーII "wikilink")（Image Works、256Kカセット）
@@ -289,25 +289,25 @@
   - 6月不日 [アイルトン・セナ スーパーモナコＧＰ II](https://ja.wikipedia.org/wiki/アイルトン・セナ_スーパーモナコＧＰ_II "wikilink")（セガ、256Kカセット）
   - 6月不日 [Champions of Europe](https://ja.wikipedia.org/wiki/Champions_of_Europe "wikilink")（TecMagic、256Kカセット）
   - 6月不日 [マーブルマッドネス](../Page/マーブルマッドネス.md "wikilink")（Virgin Games、256Kカセット）
-  - 6月不日 [ダライアスII](https://ja.wikipedia.org/wiki/ダライアスII "wikilink")（タイトー、256Kカセット）
+  - 6月不日 [ダライアスII](../Page/ダライアスII.md "wikilink")（タイトー、256Kカセット）
   - 6月不日 [忍者外伝](https://ja.wikipedia.org/wiki/忍者外伝 "wikilink")（セガ、256Kカセット）
   - 7月不日 [George Foreman's KO Boxing](https://ja.wikipedia.org/wiki/George_Foreman's_KO_Boxing "wikilink")（Flying Edge、256Kカセット）
   - 8月不日 [Arcade Smash Hits](https://ja.wikipedia.org/wiki/Arcade_Smash_Hits "wikilink")（Virgin Games、256Kカセット）
   - 8月不日 [チャックロック](https://ja.wikipedia.org/wiki/チャックロック "wikilink")（Virgin Games、512Kカセット）
   - 8月不日 [ターミネーター](../Page/ターミネーター.md "wikilink")（Virgin Games、256Kカセット）
   - 8月不日 [ウィンブルドン](https://ja.wikipedia.org/wiki/ウィンブルドン "wikilink")（セガ、256Kカセット）
-  - 8月不日 [プリンス・オブ・ペルシャ](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ "wikilink")（Domark、256Kカセット）
+  - 8月不日 [プリンス・オブ・ペルシャ](../Page/プリンス・オブ・ペルシャ.md "wikilink")（Domark、256Kカセット）
   - 9月不日 [ザ・ニュージーランド・ストーリー](https://ja.wikipedia.org/wiki/ザ・ニュージーランド・ストーリー "wikilink")（タイトー、256Kカセット）
   - 9月不日 [The Simpsons: Bart vs. the Space Mutants](https://ja.wikipedia.org/wiki/The_Simpsons:_Bart_vs._the_Space_Mutants "wikilink")（Flying Edge、256Kカセット）
   - 9月不日 [Trivial Pursuit: Genus Edition](https://ja.wikipedia.org/wiki/Trivial_Pursuit:_Genus_Edition "wikilink")（Domark、512Kカセット）
   - 10月1日 [トム＆ジェリー ザ ムービー](https://ja.wikipedia.org/wiki/トム＆ジェリー_ザ_ムービー "wikilink") （セガ、256Kカセット）
-  - 10月不日 [エイリアン3](https://ja.wikipedia.org/wiki/エイリアン3 "wikilink")（Arena、256Kカセット）
+  - 10月不日 [エイリアン3](../Page/エイリアン3.md "wikilink")（Arena、256Kカセット）
   - 10月不日 [スマッシュＴＶ](https://ja.wikipedia.org/wiki/スマッシュＴＶ "wikilink")（Flying Edge、256Kカセット）
   - 11月不日 [スペースガン](../Page/スペースガン.md "wikilink")（タイトー、512Kカセット）
   - 11月不日 [S.C.I.](../Page/S.C.I..md "wikilink") （エス・シー・アイ）（タイトー、256Kカセット）
   - 11月不日 [ソニック・ザ・ヘッジホッグ２](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ２ "wikilink")（セガ、512Kカセット）
   - 11月不日 [スピードボール２](https://ja.wikipedia.org/wiki/スピードボール２ "wikilink")（Virgin Games、256Kカセット）
-  - 11月不日 [レミングス](https://ja.wikipedia.org/wiki/レミングス "wikilink")（セガ、256Kカセット）
+  - 11月不日 [レミングス](../Page/レミングス.md "wikilink")（セガ、256Kカセット）
   - 12月不日 [ピットファイター](../Page/ピットファイター.md "wikilink")（Domark、512Kカセット）
   - 12月不日 [Super Bioman I](https://ja.wikipedia.org/wiki/Super_Bioman_I "wikilink") (슈퍼바이오맨 I)（HiCom、64Kカセット）
   - 日付不明 [エアレスキュー](https://ja.wikipedia.org/wiki/エアレスキュー "wikilink")（セガ、256Kカセット）
@@ -320,9 +320,9 @@
 
 ### 1993年（全62タイトル）
 
-  - 1月不日 [プレデター2](https://ja.wikipedia.org/wiki/プレデター2 "wikilink")（Arena、256Kカセット）
+  - 1月不日 [プレデター2](../Page/プレデター2.md "wikilink")（Arena、256Kカセット）
   - 2月不日 [タズマニア](https://ja.wikipedia.org/wiki/タズマニア "wikilink")（セガ、256Kカセット）
-  - 3月不日 [バットマン リターンズ](https://ja.wikipedia.org/wiki/バットマン_リターンズ "wikilink")（セガ、256Kカセット）
+  - 3月不日 [バットマン リターンズ](../Page/バットマン_リターンズ.md "wikilink")（セガ、256Kカセット）
   - 4月不日 [Spider-Man: Return of the Sinister Six](https://ja.wikipedia.org/wiki/Spider-Man:_Return_of_the_Sinister_Six "wikilink")（Flying Edge、256Kカセット）
   - 4月不日 [ストライダーII](https://ja.wikipedia.org/wiki/ストライダーII "wikilink")（U.S.Gold、256Kカセット）
   - 4月7日 [００７・死闘](https://ja.wikipedia.org/wiki/００７・死闘 "wikilink")（Domark、256Kカセット）
@@ -359,7 +359,7 @@
   - 12月不日 [ロボコップ ＶＳ ターミネーター](https://ja.wikipedia.org/wiki/ロボコップ_ＶＳ_ターミネーター "wikilink")（Virgin Games、512Kカセット）
   - 12月不日 [Jang Pung II](https://ja.wikipedia.org/wiki/Jang_Pung_II "wikilink") (장풍 II) （Sieco、512Kカセット）
   - 12月不日 [ジャングルブック](https://ja.wikipedia.org/wiki/ジャングルブック "wikilink")（Virgin Interactive、256Kカセット）
-  - 日付不明 [アダムス・ファミリー](https://ja.wikipedia.org/wiki/アダムス・ファミリー "wikilink")（Flying Edge、256Kカセット）
+  - 日付不明 [アダムス・ファミリー](../Page/アダムス・ファミリー.md "wikilink")（Flying Edge、256Kカセット）
   - 日付不明 [Andre Agassi Tennis](https://ja.wikipedia.org/wiki/Andre_Agassi_Tennis "wikilink")（TecMagik、256Kカセット）
   - 日付不明 [Astérix and the Secret Mission](https://ja.wikipedia.org/wiki/Astérix_and_the_Secret_Mission "wikilink")（セガ、512Kカセット）
   - 日付不明 [ドラキュラ](../Page/ドラキュラ.md "wikilink")（Sony Imagesoft、256Kカセット）
@@ -369,9 +369,9 @@
   - 日付不明 [エコー・ザ・ドルフィン](https://ja.wikipedia.org/wiki/エコー・ザ・ドルフィン "wikilink")（セガ、512Kカセット）
   - 日付不明 [フラッシュ](../Page/フラッシュ.md "wikilink")（セガ、256Kカセット）
   - 日付不明 [GP Rider](https://ja.wikipedia.org/wiki/GP_Rider "wikilink")（セガ、512Kカセット）
-  - 日付不明 [ホーム・アローン](https://ja.wikipedia.org/wiki/ホーム・アローン "wikilink")（セガ、256Kカセット）
+  - 日付不明 [ホーム・アローン](../Page/ホーム・アローン.md "wikilink")（セガ、256Kカセット）
   - 日付不明 [クラッシュ・ダミー ～スリック坊やの大挑戦～](https://ja.wikipedia.org/wiki/クラッシュ・ダミー_～スリック坊やの大挑戦～ "wikilink")（Flying Edge、256Kカセット）
-  - 日付不明 [ジュラシック・パーク](https://ja.wikipedia.org/wiki/ジュラシック・パーク "wikilink")（セガ、512Kカセット）
+  - 日付不明 [ジュラシック・パーク](../Page/ジュラシック・パーク.md "wikilink")（セガ、512Kカセット）
   - 日付不明 Tecmo World Cup '93 ([キック アンド ラッシュ](https://ja.wikipedia.org/wiki/キック_アンド_ラッシュ "wikilink"))（セガ、256Kカセット）
   - 日付不明 [Master Games 1](https://ja.wikipedia.org/wiki/Master_Games_1 "wikilink")（セガ、?Kカセット）
   - 日付不明 [The Ottifants](https://ja.wikipedia.org/wiki/The_Ottifants "wikilink")（セガ、256Kカセット）
@@ -390,7 +390,7 @@
   - 2月不日 [ズールのゆめぼうけん](https://ja.wikipedia.org/wiki/ズールのゆめぼうけん "wikilink")（Gremlin Graphics Software、256Kカセット）
   - 3月不日 [Micro Machines](https://ja.wikipedia.org/wiki/Micro_Machines "wikilink")（Codemasters、512Kカセット）
   - 3月不日 [ロードラッシュ](https://ja.wikipedia.org/wiki/ロードラッシュ "wikilink")（U.S.Gold、512Kカセット）
-  - 4月不日 [アラジン](https://ja.wikipedia.org/wiki/アラジン_\(1992年の映画\) "wikilink")（セガ、512Kカセット）
+  - 4月不日 [アラジン](../Page/アラジン_\(1992年の映画\).md "wikilink")（セガ、512Kカセット）
   - 4月不日 [The Incredible Hulk](https://ja.wikipedia.org/wiki/The_Incredible_Hulk "wikilink")（U.S.Gold、512Kカセット）
   - 6月不日 [94 Super World Cup Soccer](https://ja.wikipedia.org/wiki/94_Super_World_Cup_Soccer "wikilink") (94 슈퍼 월드컵 축구) （Daou Infosys Corp.、256Kカセット）
   - 7月26日 [Dr. Robotnik's Mean Bean Machine](https://ja.wikipedia.org/wiki/Dr._Robotnik's_Mean_Bean_Machine "wikilink")（セガ、256Kカセット）
@@ -400,7 +400,7 @@
   - 日付不明 [Daffy Duck in Hollywood](https://ja.wikipedia.org/wiki/Daffy_Duck_in_Hollywood "wikilink")（セガ、512Kカセット）
   - 日付不明 [Dragon: The Bruce Lee Story](https://ja.wikipedia.org/wiki/Dragon:_The_Bruce_Lee_Story "wikilink")（Virgin Interactive、256Kカセット）
   - 日付不明 [ライオンキング](https://ja.wikipedia.org/wiki/ライオンキング "wikilink")（セガ、512Kカセット）
-  - 日付不明 [三國志III](https://ja.wikipedia.org/wiki/三國志III "wikilink")（Game Line、1Mカセット）
+  - 日付不明 [三國志III](../Page/三國志III.md "wikilink")（Game Line、1Mカセット）
   - 日付不明 [Twin Mouse](https://ja.wikipedia.org/wiki/Twin_Mouse "wikilink") (트윈 마우스)（Open Corp.、?Kカセット）
   - 日付不明 [ウィンターオリンピック](https://ja.wikipedia.org/wiki/ウィンターオリンピック "wikilink")（U.S.Gold、512Kカセット）
   - 日付不明 [World Cup USA 94](https://ja.wikipedia.org/wiki/World_Cup_USA_94 "wikilink")（U.S.Gold、512Kカセット）

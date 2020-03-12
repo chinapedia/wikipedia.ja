@@ -27,12 +27,12 @@
   - 中国地方以外では以下のATMが対象となる。なお、島根銀行は鳥取県・島根県以外に店舗・ATMはない。
       - トマト銀行
           - 神戸支店（[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区](../Page/中央区_\(神戸市\).md "wikilink")）
-          - 姫路支店（兵庫県[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")）
-          - 龍野支店（兵庫県[たつの市](https://ja.wikipedia.org/wiki/たつの市 "wikilink")）
+          - 姫路支店（兵庫県[姫路市](../Page/姫路市.md "wikilink")）
+          - 龍野支店（兵庫県[たつの市](../Page/たつの市.md "wikilink")）
           - 赤穂支店（兵庫県[赤穂市](../Page/赤穂市.md "wikilink")）
       - 西京銀行
-          - 小倉支店（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）
-          - 八幡支店（福岡県北九州市[八幡西区](https://ja.wikipedia.org/wiki/八幡西区 "wikilink")）
+          - 小倉支店（[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）
+          - 八幡支店（福岡県北九州市[八幡西区](../Page/八幡西区.md "wikilink")）
           - 戸畑支店（福岡県北九州市[戸畑区](../Page/戸畑区.md "wikilink")）
           - 福岡支店（福岡県[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")）
 
@@ -43,14 +43,14 @@
   - 共同ATMのうち、上記対象金融機関以外が幹事となるATM。以下に例示する。
       - [山陰合同銀行](../Page/山陰合同銀行.md "wikilink")幹事で島根銀行が参加する下記の共同ATM
           - 法吉村
-          - [出雲市立総合医療センター](https://ja.wikipedia.org/wiki/出雲市立総合医療センター "wikilink")
-          - [ゆめタウン](https://ja.wikipedia.org/wiki/ゆめタウン "wikilink")益田
+          - [出雲市立総合医療センター](../Page/出雲市立総合医療センター.md "wikilink")
+          - [ゆめタウン](../Page/ゆめタウン.md "wikilink")益田
       - [中国銀行幹事でトマト銀行が参加する下記の共同ATM](https://ja.wikipedia.org/wiki/中国銀行_\(日本\) "wikilink")
           - [イトーヨーカドー岡山店](../Page/イトーヨーカ堂.md "wikilink")
           - 岡山第2合同庁舎
           - コープ築港
           - [三井造船](https://ja.wikipedia.org/wiki/三井造船 "wikilink")玉野事業所
-          - [倉敷チボリ公園](https://ja.wikipedia.org/wiki/倉敷チボリ公園 "wikilink")
+          - [倉敷チボリ公園](../Page/倉敷チボリ公園.md "wikilink")
           - コープ倉敷北
           - くらしき健康福祉プラザ
           - コープ総社東
@@ -65,7 +65,7 @@
           - [フジグラン広島](https://ja.wikipedia.org/wiki/フジグラン広島 "wikilink")**1F**
           - 広島産業文化センター
           - [イズミ](../Page/イズミ.md "wikilink")八木店
-          - [福屋](https://ja.wikipedia.org/wiki/福屋 "wikilink")五日市駅前店
+          - [福屋](../Page/福屋.md "wikilink")五日市駅前店
           - コープ五日市北店
           - [廿日市市](../Page/廿日市市.md "wikilink")役所
           - ショージ志和店
@@ -81,7 +81,7 @@
           - リョービプラッツ灘崎店
       - [玉島信用金庫](../Page/玉島信用金庫.md "wikilink")幹事でトマト銀行が参加する下記の共同ATM
           - シープラッツチャチャ
-      - [中国労働金庫](https://ja.wikipedia.org/wiki/中国労働金庫 "wikilink")幹事で島根銀行が参加する下記の共同ATM
+      - [中国労働金庫](../Page/中国労働金庫.md "wikilink")幹事で島根銀行が参加する下記の共同ATM
           - [日ノ丸自動車](../Page/日ノ丸自動車.md "wikilink")鳥取営業部
           - 日ノ丸自動車倉吉営業所
           - [境港市](../Page/境港市.md "wikilink")役所
@@ -89,25 +89,25 @@
           - [松江市立病院](https://ja.wikipedia.org/wiki/松江市立病院 "wikilink")
           - [松江市総合体育館](https://ja.wikipedia.org/wiki/松江市総合体育館 "wikilink")
       - [JAバンク](../Page/JAバンク.md "wikilink")山口（JA下関）幹事で西京銀行が参加する下記の共同ATM
-          - [道の駅きくがわ](https://ja.wikipedia.org/wiki/道の駅きくがわ "wikilink")
+          - [道の駅きくがわ](../Page/道の駅きくがわ.md "wikilink")
       - もみじ銀行が参加する[福山市](../Page/福山市.md "wikilink")役所の共同ATM（5台あるが、そのすべてが幹事行庫組合が異なる。また、島根銀行のみ対象外。理由は下記）
           - [中国銀行幹事](https://ja.wikipedia.org/wiki/中国銀行_\(日本\) "wikilink")：トマト銀行については2008年6月2日より[おかやまATMネットサービス](https://ja.wikipedia.org/wiki/おかやまATMネットサービス "wikilink")が適用される。
           - 広島銀行幹事：トマト銀行・西京銀行については個別にATM利用手数料無料提携が、もみじ銀行については[ひろしまネットサービス](../Page/ひろしまネットサービス.md "wikilink")が適用される。
           - しまなみ信用金庫・JAバンク広島（JA福山市）幹事：もみじ銀行についてはひろしまネットサービスが適用される。
-          - [中国労働金庫](https://ja.wikipedia.org/wiki/中国労働金庫 "wikilink")幹事：本サービスの対象外。
+          - [中国労働金庫](../Page/中国労働金庫.md "wikilink")幹事：本サービスの対象外。
 
 <!-- end list -->
 
   - 以下の店舗にはATMが設置されていない。
       - トマト銀行
-          - 東京支店（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）
-          - 大阪支店（[大阪府](../Page/大阪府.md "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西区](../Page/西区_\(大阪市\).md "wikilink")）
+          - 東京支店（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）
+          - 大阪支店（[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西区](../Page/西区_\(大阪市\).md "wikilink")）
       - もみじ銀行
-          - 小倉支店（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）
-          - 東京支店（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）
+          - 小倉支店（[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")）
+          - 東京支店（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）
       - 西京銀行
-          - 東京支店（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）
-          - 大阪支店（[大阪府](../Page/大阪府.md "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西区](../Page/西区_\(大阪市\).md "wikilink")）
+          - 東京支店（[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）
+          - 大阪支店（[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西区](../Page/西区_\(大阪市\).md "wikilink")）
 
 など
 
@@ -115,7 +115,7 @@
 
   - 入金・通帳利用取引・当座預金口座のキャッシュカード及び法人キャッシュカードによる利用はそれぞれの自行ATMのみとなる。
   - もみじ銀行の「もみじポイントサービス」、「もみじワイエムカード」（ICキャッシュ&クレジットカード）及び、西京銀行の「西京ポイントサービス」によるATM手数料優遇は、それぞれの提携行ATMでは適用されない。
-  - [1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")～[3日](../Page/1月3日.md "wikilink")、[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")～[5日は各行](../Page/5月5日.md "wikilink")（一部金融機関を除く）ともATMを稼動させているが、この期間は提携ネットワーク（[MICS](../Page/MICS.md "wikilink")）が休止しているため、それぞれの自行ATMでしか利用できない（ただし5月3日～5日のうちの日曜日はMICSは通常稼動するため利用できる）。
+  - [1月1日](../Page/1月1日.md "wikilink")～[3日](../Page/1月3日.md "wikilink")、[5月3日](../Page/5月3日.md "wikilink")～[5日は各行](../Page/5月5日.md "wikilink")（一部金融機関を除く）ともATMを稼動させているが、この期間は提携ネットワーク（[MICS](../Page/MICS.md "wikilink")）が休止しているため、それぞれの自行ATMでしか利用できない（ただし5月3日～5日のうちの日曜日はMICSは通常稼動するため利用できる）。
 
 ## 沿革
 

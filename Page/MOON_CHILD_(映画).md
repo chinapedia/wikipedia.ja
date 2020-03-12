@@ -3,13 +3,13 @@
 
 『**MOONCHILD**』（ムーンチャイルド）は、2003年に[松竹](../Page/松竹.md "wikilink")配給により公開された[日本の近未来](../Page/日本映画.md "wikilink")[SF映画](../Page/SF映画.md "wikilink")である。
 
-独自の世界観を音楽で表現してきた[Gacktが](https://ja.wikipedia.org/wiki/GACKT "wikilink")、自ら原案のストーリーを映画化。[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")と[台湾のトップスター](https://ja.wikipedia.org/wiki/中華民国 "wikilink")、[ワン・リーホン](https://ja.wikipedia.org/wiki/ワン・リーホン "wikilink")をキャストに加えた。
+独自の世界観を音楽で表現してきた[Gacktが](https://ja.wikipedia.org/wiki/GACKT "wikilink")、自ら原案のストーリーを映画化。[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")と[台湾のトップスター](../Page/中華民国.md "wikilink")、[ワン・リーホン](../Page/ワン・リーホン.md "wikilink")をキャストに加えた。
 
 後には本映画のアナザーサイドストーリーとなる「MOON CHILD 鎮魂歌【レクイエム】篇」（著者:Gackt）が[角川書店](../Page/角川書店.md "wikilink")より発刊された。
 
 ## ストーリー
 
-[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の片隅にある[移民](https://ja.wikipedia.org/wiki/移民 "wikilink")都市マレッパ。日本は経済崩壊し多くの国民が移民となって海外に移住していた[2014年](../Page/2014年.md "wikilink")。アジアの片隅にある移民都市マレッパにもそんな人々が流れ込み、この街は[人種のるつぼ](https://ja.wikipedia.org/wiki/人種のるつぼ "wikilink")と化し、欲望と暴力の支配する街となっていた。
+[アジア](../Page/アジア.md "wikilink")の片隅にある[移民](../Page/移民.md "wikilink")都市マレッパ。日本は経済崩壊し多くの国民が移民となって海外に移住していた[2014年](../Page/2014年.md "wikilink")。アジアの片隅にある移民都市マレッパにもそんな人々が流れ込み、この街は[人種のるつぼ](https://ja.wikipedia.org/wiki/人種のるつぼ "wikilink")と化し、欲望と暴力の支配する街となっていた。
 
 [日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")移民の少年・ショウ（Gackt）はトシ(山本太郎)や兄の信士（寺島進)とともに現地[マフィア](../Page/マフィア.md "wikilink")に絡まれるトラブルに遭うが、謎の人物・ケイ（HYDE）に助けられる。ケイは人血で生きる[バンパイアだった](../Page/吸血鬼.md "wikilink")。やがてショウとケイはマレッパでのし上がっていく。
 
@@ -20,13 +20,13 @@
 ## キャスト
 
   - ケイ：[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")
-  - ショウ：[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")（幼少：[本郷奏多](https://ja.wikipedia.org/wiki/本郷奏多 "wikilink")）
-  - 孫：[ワン・リーホン](https://ja.wikipedia.org/wiki/ワン・リーホン "wikilink")
+  - ショウ：[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")（幼少：[本郷奏多](../Page/本郷奏多.md "wikilink")）
+  - 孫：[ワン・リーホン](../Page/ワン・リーホン.md "wikilink")
   - イーチェ：[ゼニー・クォック](https://ja.wikipedia.org/wiki/ゼニー・クォック "wikilink")
   - トシ：[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")
   - 信士：[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
   - ハナ：[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")
-  - ローリエ：[石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")
+  - ローリエ：[石橋凌](../Page/石橋凌.md "wikilink")
   - ルカ：[豊川悦司](../Page/豊川悦司.md "wikilink")　
 
 ## 賞歴

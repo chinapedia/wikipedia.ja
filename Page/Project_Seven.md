@@ -1,13 +1,13 @@
 > この記事は[Project Seven](https://ja.wikipedia.org/wiki/Project_Seven)から翻訳されています。
 
 
-『**Project Seven**』（プロジェクトセブン）は、七瀬晶の[SF小説](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。当初は[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上の[メールマガジン](../Page/メールマガジン.md "wikilink")で配信されていた。
+『**Project Seven**』（プロジェクトセブン）は、七瀬晶の[SF小説](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。当初は[インターネット](../Page/インターネット.md "wikilink")上の[メールマガジン](../Page/メールマガジン.md "wikilink")で配信されていた。
 
 ## 概要
 
-日常のあらゆる場面でIT化が進む近未来社会で起こる[サイバーテロ](https://ja.wikipedia.org/wiki/サイバーテロ "wikilink")を描いている。
+日常のあらゆる場面でIT化が進む近未来社会で起こる[サイバーテロ](../Page/サイバーテロ.md "wikilink")を描いている。
 
-[2004年](../Page/2004年.md "wikilink")にアルファポリスが主催する出版支援サービス「[ドリームブッククラブ](https://ja.wikipedia.org/wiki/ドリームブッククラブ "wikilink")」にエントリし、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月に出版された。
+[2004年](../Page/2004年.md "wikilink")にアルファポリスが主催する出版支援サービス「[ドリームブッククラブ](https://ja.wikipedia.org/wiki/ドリームブッククラブ "wikilink")」にエントリし、[2005年](../Page/2005年.md "wikilink")9月に出版された。
 
 ## 登場人物
 

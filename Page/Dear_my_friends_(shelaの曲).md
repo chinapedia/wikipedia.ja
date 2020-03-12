@@ -1,7 +1,7 @@
 > この記事は[Dear my friends \(shela\)](https://ja.wikipedia.org/wiki/Dear_my_friends_\(shela\))から翻訳されています。
 
 
-「**Dear my friends**」（ディア・マイ・フレンズ）は、[shela](https://ja.wikipedia.org/wiki/shela "wikilink")の通算13枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Dear my friends**」（ディア・マイ・フレンズ）は、[shela](https://ja.wikipedia.org/wiki/shela "wikilink")の通算13枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 1.  **Dear my friends**
       -
-        作詞：[千景](../Page/三苫千景.md "wikilink") / 作曲：[真白リョウ](https://ja.wikipedia.org/wiki/真白リョウ "wikilink") / 編曲：[T2ya](https://ja.wikipedia.org/wiki/T2ya "wikilink")
+        作詞：[千景](../Page/三苫千景.md "wikilink") / 作曲：[真白リョウ](https://ja.wikipedia.org/wiki/真白リョウ "wikilink") / 編曲：[T2ya](../Page/T2ya.md "wikilink")
         [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[関西テレビ系ドラマ](../Page/関西テレビ放送.md "wikilink")「[曲がり角の彼女](../Page/曲がり角の彼女.md "wikilink")」主題歌
 2.  **Fly away**
       -

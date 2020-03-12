@@ -29,7 +29,7 @@ CRシステムで撮影したデジタル画像は、モニタでの直接読影
 
 ## 関連項目
 
-  - [X線撮影](https://ja.wikipedia.org/wiki/X線撮影 "wikilink")
+  - [X線撮影](../Page/X線撮影.md "wikilink")
   - [DICOM](../Page/DICOM.md "wikilink")
   - [OsiriX](https://ja.wikipedia.org/wiki/OsiriX "wikilink")
   - [放射線透過検査](https://ja.wikipedia.org/wiki/放射線透過検査 "wikilink")

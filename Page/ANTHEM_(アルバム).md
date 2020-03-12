@@ -1,11 +1,11 @@
 > この記事は[ANTHEM \(\)](https://ja.wikipedia.org/wiki/ANTHEM_\(\))から翻訳されています。
 
 
-『**ANTHEM〜パワーメタル戒厳令〜**』（アンセム パワーメタルかいげんれい）は、1985年に[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")がリリースしたデビューアルバムである。
+『**ANTHEM〜パワーメタル戒厳令〜**』（アンセム パワーメタルかいげんれい）は、1985年に[ANTHEM](../Page/ANTHEM.md "wikilink")がリリースしたデビューアルバムである。
 
 ## 内容
 
-[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")等のバンドと親交が深い元5Xのジョージ吾妻のプロデュースによって作られている。代表曲「WILD ANTHEM」、「WARNING ACTION\!」、「STEELER」が収録されており、これらは再結成した後にも演奏されている。
+[LOUDNESS](../Page/LOUDNESS.md "wikilink")等のバンドと親交が深い元5Xのジョージ吾妻のプロデュースによって作られている。代表曲「WILD ANTHEM」、「WARNING ACTION\!」、「STEELER」が収録されており、これらは再結成した後にも演奏されている。
 
 発売時にはアナログとカセットのフォーマットでのみリリースされた。1987年に初CD化が為され、その際にはミニ・アルバム『[READY TO RIDE](https://ja.wikipedia.org/wiki/READY_TO_RIDE "wikilink")』から「Ready To Ride」と「Shed」の2曲が追加収録された。 2000年リリースのリマスター盤ではこのボーナス・トラックは削除されている。 2005年リリースのリマスター盤には『READY TO RIDE』から「ROCK'N'ROLL STARS（English Version）」と「STEELER（English Version）」、『[ANTHEM WAYS](https://ja.wikipedia.org/wiki/ANTHEM_WAYS "wikilink")』から「WILD ANTHEM（Vocal Retake Version）」が追加収録された。 2010年リリースのSHM-CD盤ではボーナス・トラックは削除されており、オリジナル・リリース時の収録曲に戻されている。 2017年リリースのBlu-spec CD盤でもボーナス・トラックは削除されている。
 
@@ -15,7 +15,7 @@
 
 1.  **WILD ANTHEM**
       -
-        作詞：[坂本英三](https://ja.wikipedia.org/wiki/坂本英三 "wikilink") / 作曲：[柴田直人](../Page/柴田直人.md "wikilink")
+        作詞：[坂本英三](../Page/坂本英三.md "wikilink") / 作曲：[柴田直人](../Page/柴田直人.md "wikilink")
 2.  **RED LIGHT FEVER**
       -
         作詞：坂本英三 / 作曲:[福田洋也](../Page/福田洋也.md "wikilink")
@@ -81,8 +81,8 @@
 
 ## 参加メンバー
 
-  - [柴田直人](../Page/柴田直人.md "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")
-  - [坂本英三](https://ja.wikipedia.org/wiki/坂本英三 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞
+  - [柴田直人](../Page/柴田直人.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
+  - [坂本英三](../Page/坂本英三.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞
   - [福田洋也](../Page/福田洋也.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、作曲
   - [大内貴雅](../Page/大内貴雅.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
 

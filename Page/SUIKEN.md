@@ -1,13 +1,13 @@
 > この記事は[SUIKEN](https://ja.wikipedia.org/wiki/SUIKEN)から翻訳されています。
 
 
-**SUIKEN**（スイケン、本名：桑田佳明、[1975年](../Page/1975年.md "wikilink")10月16日- ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")。
+**SUIKEN**（スイケン、本名：桑田佳明、[1975年](../Page/1975年.md "wikilink")10月16日- ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。
 
 ## 概略
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。MC名の由来は、「Smokey Doggy」の和訳「吸い犬」から。1995年頃、[DABO](../Page/DABO.md "wikilink")、[K‐BOMB](../Page/THINK_TANK.md "wikilink")、[DJ HAZIMEらとユニットCHANNEL](../Page/DJ_HAZIME.md "wikilink") 5を結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[BUDDHA BRANDのEP](../Page/BUDDHA_BRAND.md "wikilink")『天運我に有り(撃つ用意)』収録の「REMIX(KRUSH GROOVE 4)」に**MEDICEN MAN**名義で参加。[2000年](../Page/2000年.md "wikilink")8月23日、シングル「ALKMAN」を[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")より発売し、メジャーデビュー。同年10月7日、[NITRO MICROPHONE UNDERGROUNDのMCとしてアルバム](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")『NITRO MICROPHONE UNDERGROUND』を発表。
+[東京都](../Page/東京都.md "wikilink")出身。MC名の由来は、「Smokey Doggy」の和訳「吸い犬」から。1995年頃、[DABO](../Page/DABO.md "wikilink")、[K‐BOMB](../Page/THINK_TANK.md "wikilink")、[DJ HAZIMEらとユニットCHANNEL](../Page/DJ_HAZIME.md "wikilink") 5を結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[BUDDHA BRANDのEP](../Page/BUDDHA_BRAND.md "wikilink")『天運我に有り(撃つ用意)』収録の「REMIX(KRUSH GROOVE 4)」に**MEDICEN MAN**名義で参加。[2000年](../Page/2000年.md "wikilink")8月23日、シングル「ALKMAN」を[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より発売し、メジャーデビュー。同年10月7日、[NITRO MICROPHONE UNDERGROUNDのMCとしてアルバム](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")『NITRO MICROPHONE UNDERGROUND』を発表。
 
-[2001年](../Page/2001年.md "wikilink")4月11日、ファーストアルバム『SUIKEN PRESENTS SIXTEEN STARS』を発表。[2002年](../Page/2002年.md "wikilink")3月20日、2枚目のアルバム『SCORE』を発売。同年4月24日、MONGOL名義でシングル「BRASIL BRASIL」を発売。2004年、MACKA-CHINと[Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")とのヒップホップユニット**MONTIEN**を結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月20日、**SUIKEN×[S-WORD](https://ja.wikipedia.org/wiki/S-WORD "wikilink")**名義でアルバム『HYBRID LINK』を[日本コロムビア](../Page/日本コロムビア.md "wikilink")より発売。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月26日、3枚目のアルバム『HOT IN POT』を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月23日、アルバム『DEVELOPMENT』をacehigh recordsより発売。
+[2001年](../Page/2001年.md "wikilink")4月11日、ファーストアルバム『SUIKEN PRESENTS SIXTEEN STARS』を発表。[2002年](../Page/2002年.md "wikilink")3月20日、2枚目のアルバム『SCORE』を発売。同年4月24日、MONGOL名義でシングル「BRASIL BRASIL」を発売。2004年、MACKA-CHINと[Tina](../Page/Tina.md "wikilink")とのヒップホップユニット**MONTIEN**を結成。[2005年](../Page/2005年.md "wikilink")7月20日、**SUIKEN×[S-WORD](../Page/S-WORD.md "wikilink")**名義でアルバム『HYBRID LINK』を[日本コロムビア](../Page/日本コロムビア.md "wikilink")より発売。[2006年](../Page/2006年.md "wikilink")7月26日、3枚目のアルバム『HOT IN POT』を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月23日、アルバム『DEVELOPMENT』をacehigh recordsより発売。
 
 ## ディスコグラフィ
 
@@ -46,7 +46,7 @@
 <li>ALKMAN [FORCE OF NATURE Remix][4:08]</li>
 <li>ALKMAN [Instrumental Version][3:49]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ" title="wikilink">ソニー・ミュージックアソシエイテッドレコーズ</a></p></td>
+<td><p><a href="../Page/ソニー・ミュージックアソシエイテッドレコーズ.md" title="wikilink">ソニー・ミュージックアソシエイテッドレコーズ</a></p></td>
 <td><p>63位</p></td>
 </tr>
 <tr class="even">
@@ -60,13 +60,13 @@
 <li>PAR CHEE TAH 四千(Original Version)[4:33]
 <dl>
 <dt></dt>
-<dd>作詞：SUIKEN・P.H.／作曲・編曲：<a href="https://ja.wikipedia.org/wiki/刃頭" title="wikilink">刃頭</a>
+<dd>作詞：SUIKEN・P.H.／作曲・編曲：<a href="../Page/刃頭.md" title="wikilink">刃頭</a>
 </dd>
 </dl></li>
 <li>E・V・2(Original Version)[4:40]
 <dl>
 <dt></dt>
-<dd>作詞：SUIKEN／作曲・編曲：<a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">SHINCO</a>
+<dd>作詞：SUIKEN／作曲・編曲：<a href="../Page/スチャダラパー.md" title="wikilink">SHINCO</a>
 </dd>
 </dl></li>
 <li>PAR CHEE TAH 四千(Originsl Version Inst.)[4:33]</li>
@@ -137,7 +137,7 @@
 <li>未知 [ORIGINAL VER.][4:02]
 <dl>
 <dt></dt>
-<dd>作詞：SUIKEN／作曲：<a href="https://ja.wikipedia.org/wiki/YAKKO" title="wikilink">YAKKO</a> FOR <a href="https://ja.wikipedia.org/wiki/AQUARIUS_(音楽ユニット)" title="wikilink">AQUARIUS</a>・SUIKEN／編曲：YAKKO FOR AQUARIUS
+<dd>作詞：SUIKEN／作曲：<a href="https://ja.wikipedia.org/wiki/YAKKO" title="wikilink">YAKKO</a> FOR <a href="../Page/AQUARIUS_(音楽ユニット).md" title="wikilink">AQUARIUS</a>・SUIKEN／編曲：YAKKO FOR AQUARIUS
 </dd>
 </dl></li>
 <li>道2 [ORIGINAL VER.][3:32]
@@ -377,7 +377,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>7月26日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>7月26日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>HOT IN POT</p>
@@ -437,7 +437,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>7月20日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>7月20日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>HYBRID LINK</p>
@@ -523,7 +523,7 @@
 <td><p>悲しいわがまま</p></td>
 </tr>
 <tr class="even">
-<td><p>1999年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>1999年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/bird_(日本の歌手)" title="wikilink">bird</a></p></td>
 <td><p>6.<strong>REALIZE feat. SUIKEN + DEV LARGE</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/bird_(アルバム)" title="wikilink">bird</a></p></td>
@@ -536,7 +536,7 @@
 </tr>
 <tr class="even">
 <td><p>2001年8月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MACKA-CHIN" title="wikilink">MACKA-CHIN</a></p></td>
+<td><p><a href="../Page/MACKA-CHIN.md" title="wikilink">MACKA-CHIN</a></p></td>
 <td><p>15.<strong>適当強盗 a.k.a 春夏秋冬 <small>feat. S-WORD, XBS, DABO, BIGZAM, GORE-TEX, SUIKEN, DELI</small></strong></p></td>
 <td><p>CHIN ATTACK</p></td>
 </tr>
@@ -560,19 +560,19 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/XBS" title="wikilink">XBS</a></p></td>
+<td><p><a href="../Page/XBS.md" title="wikilink">XBS</a></p></td>
 <td><p>3.<strong>DEADLY VENOM feat. SUIKEN</strong></p></td>
 <td><p>EXCLUSIVE BENEFIT STORY</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003年<a href="../Page/7月16日.md" title="wikilink">7月16日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S-WORD" title="wikilink">S-WORD</a></p></td>
+<td><p><a href="../Page/S-WORD.md" title="wikilink">S-WORD</a></p></td>
 <td><p>1.<strong>BIG BANGZ feat. DELI, DABO, MACKA-CHIN, GORE-TEX, SUIKEN, BIGZAM, XBS</strong></p></td>
 <td><p>STAR ILL WARZ</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年<a href="../Page/10月8日.md" title="wikilink">10月8日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AQUARIUS_(音楽ユニット)" title="wikilink">AQUARIUS</a></p></td>
+<td><p><a href="../Page/AQUARIUS_(音楽ユニット).md" title="wikilink">AQUARIUS</a></p></td>
 <td><p>4.<strong>メグミノ雨 feat. SUIKEN, HI-D</strong><br />
 13.<strong>往来 feat. T-ZONE, SUIKEN, MIKRIS, GORE-TEX, P.H.</strong></p></td>
 <td><p>オボレタ街</p></td>

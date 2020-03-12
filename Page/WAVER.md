@@ -1,11 +1,11 @@
 > この記事は[WAVER](https://ja.wikipedia.org/wiki/WAVER)から翻訳されています。
 
 
-「**WAVER**」（ウェヴァー）は、[堂本剛](../Page/堂本剛.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**WAVER**」（ウェヴァー）は、[堂本剛](../Page/堂本剛.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
-前作「[街/溺愛ロジック](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")」から約2年ぶりに発売された3曲A面のシングル。前作同様全曲の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")を本人が行っている。「ORIGINAL COLOR」「ココロノブラインド」は編曲を[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")が担当した。初回盤のみA面曲の[カラオケ](../Page/カラオケ.md "wikilink")が、通常版のみにはカップリング曲の「スクリーン」が収録されている。
+前作「[街/溺愛ロジック](https://ja.wikipedia.org/wiki/街/溺愛ロジック "wikilink")」から約2年ぶりに発売された3曲A面のシングル。前作同様全曲の[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を本人が行っている。「ORIGINAL COLOR」「ココロノブラインド」は編曲を[亀田誠治](../Page/亀田誠治.md "wikilink")が担当した。初回盤のみA面曲の[カラオケ](../Page/カラオケ.md "wikilink")が、通常版のみにはカップリング曲の「スクリーン」が収録されている。
 
 自身2作連続となる[オリコン](../Page/オリコン.md "wikilink")の週間シングルランキング首位を獲得した。
 
@@ -17,9 +17,9 @@
 
 1.  **ORIGINAL COLOR**
       -
-        （作詞・作曲：堂本剛 / [編曲](../Page/編曲.md "wikilink")：[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")）
-        自身主演の[TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")『[ホームドラマ\!](../Page/ホームドラマ!.md "wikilink")』主題歌。
-        [PVでは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")と共演している。
+        （作詞・作曲：堂本剛 / [編曲](../Page/編曲.md "wikilink")：[亀田誠治](../Page/亀田誠治.md "wikilink")）
+        自身主演の[TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")『[ホームドラマ\!](../Page/ホームドラマ!.md "wikilink")』主題歌。
+        [PVでは](../Page/ミュージック・ビデオ.md "wikilink")[平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")と共演している。
 2.  **恋のカマイタチ**
       -
         （作詞・作曲：堂本剛 / 編曲：[十川知司](../Page/十川ともじ.md "wikilink")）

@@ -1,7 +1,7 @@
 > この記事は[JUST RADIO](https://ja.wikipedia.org/wiki/JUST_RADIO)から翻訳されています。
 
 
-**JUST RADIO**（ジャストレディオ）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[リクエスト中心の](../Page/リクエスト番組.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")-[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")。[北九州本社スタジオからの](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+**JUST RADIO**（ジャストレディオ）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[リクエスト中心の](../Page/リクエスト番組.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")-[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")。[北九州本社スタジオからの](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
@@ -11,20 +11,20 @@
   - リスナーに電話をつなぐコーナーでは必ず最後に「**ヴァイヴァイ！！**」と独特のイントネーションで挨拶していた。
   - エンディングには次番組『[やぎラッチョー\!](../Page/やぎラッチョー!.md "wikilink")』のナビゲーターである八木も出演していた（[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")と[時報](../Page/時報.md "wikilink")があるので[クロストーク](https://ja.wikipedia.org/wiki/クロストーク "wikilink")ではなかった）。
   - [NTT DoCoMo九州と協力し](../Page/エヌ・ティ・ティ・ドコモ九州.md "wikilink")、[FOMA](../Page/FOMA.md "wikilink")の動画配信サービス「[Vライブ](../Page/Vライブ.md "wikilink")」で生放送中のスタジオの様子を配信する試みも行っていた。(有料)
-  - イベントや祝日等などの時、[天神](https://ja.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")[きらめき通り](https://ja.wikipedia.org/wiki/きらめき通り "wikilink")スタジオからの生放送もあった。
+  - イベントや祝日等などの時、[天神](../Page/天神_\(福岡市\).md "wikilink")[きらめき通り](../Page/きらめき通り.md "wikilink")スタジオからの生放送もあった。
 
 ## 変遷
 
   - [2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、番組放送開始。
       - 番組タイトルは『**CROSS EVENING SHOW JUST RADIO**』。
       - 月曜-金曜18:00-23:00の放送。
-      - ナビゲーターは月・火が[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")、水・木が[吉村昌広](../Page/吉村昌広.md "wikilink")、金曜日はスタートから半年間[北野順一](../Page/北野順一.md "wikilink")（JK）が担当したが、10月からは[八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")に変わった。
+      - ナビゲーターは月・火が[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")、水・木が[吉村昌広](../Page/吉村昌広.md "wikilink")、金曜日はスタートから半年間[北野順一](../Page/北野順一.md "wikilink")（JK）が担当したが、10月からは[八木徹](../Page/八木徹.md "wikilink")に変わった。
           - JKのこの後5年間同局出演から離れることになる。
   - [2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、全日通してMASAKIの担当となり、『**CROSS NIGHT SHOW JUST RADIO**』に改題。
       - 同時期に月曜-木曜 19:00-23:00の放送となる。
       - 吉村昌広はこの番組を最後に[FM802](../Page/FM802.md "wikilink")に異動、八木徹は「[AIR MAGAZINE](../Page/AIR_MAGAZINE.md "wikilink")」の担当になった。但し八木はピンチヒッターを務めることもあった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、番組タイトルが『**JUST RADIO**』になる。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")、『[YAGI RADIO](https://ja.wikipedia.org/wiki/YAGI_RADIO "wikilink")』放送開始のため1時間短縮し、月曜-木曜19:00-22:00の放送に。
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、番組タイトルが『**JUST RADIO**』になる。
+  - [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、『[YAGI RADIO](https://ja.wikipedia.org/wiki/YAGI_RADIO "wikilink")』放送開始のため1時間短縮し、月曜-木曜19:00-22:00の放送に。
   - [2007年](../Page/2007年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")、MASAKIが番組終了を同番組にて発表。
   - [2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、番組終了。
 
@@ -34,7 +34,7 @@
 
 ### 過去のナビゲーター
 
-  - [八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")
+  - [八木徹](../Page/八木徹.md "wikilink")
   - [吉村昌広](../Page/吉村昌広.md "wikilink")
   - [北野順一](../Page/北野順一.md "wikilink")
 
@@ -42,7 +42,7 @@
 
   - JUST BINGO
       -
-        「Vライブ」で協力しているNTT DoCoMo九州が[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")。
+        「Vライブ」で協力しているNTT DoCoMo九州が[スポンサー](../Page/スポンサー.md "wikilink")。
         リスナー2人が[神経衰弱でアーティストグッズなど豪華プレゼントを争奪する](../Page/神経衰弱_\(トランプゲーム\).md "wikilink")。
         9つの数字の中から2つを選び、その数字に当てられたプレゼントがそろえばその商品をもらうことができる。
         ジョーカーが当てられた数字を選んだリスナーはリタイア。新たなリスナーに電話をつなぐ。
@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - 前:[CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T. "wikilink") - 月曜-金曜16:00-19:00
+  - 前:[CATEGORY T.T.](../Page/CATEGORY_T.T..md "wikilink") - 月曜-金曜16:00-19:00
   - 後:[やぎラッチョー\!](../Page/やぎラッチョー!.md "wikilink") - 月曜-木曜22:00-24:00
 
 ## 外部リンク

@@ -1,19 +1,19 @@
 > この記事は[SBC](https://ja.wikipedia.org/wiki/SBC)から翻訳されています。
 
 
-『**ほっとスタジオSBC**』（ほっとスタジオエスビーシー）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で平日夕方に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")である。
+『**ほっとスタジオSBC**』（ほっとスタジオエスビーシー）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で平日夕方に[生放送](../Page/生放送.md "wikilink")されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。
 
 ## 概要
 
-SBCは長年、平日16時台には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の『[レディス4](../Page/レディス4.md "wikilink")』を16:45までの飛び降りで系列外ネットし、16:45 - 17:00までは生活情報を扱った[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")『ふれあいライフ』を放送、そして17時台には[ドラマの](../Page/テレビドラマ.md "wikilink")[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")枠『アンコールアワー』を編成というパターンを続けてきたが、日本各地の[ローカル局](https://ja.wikipedia.org/wiki/ローカル局 "wikilink")が夕方ワイド番組を立ち上げているのを受けてこの流れに追従。[長野県](../Page/長野県.md "wikilink")では初参入となる夕方ワイド番組を開始することになった。
+SBCは長年、平日16時台には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の『[レディス4](../Page/レディス4.md "wikilink")』を16:45までの飛び降りで系列外ネットし、16:45 - 17:00までは生活情報を扱った[ミニ番組](../Page/ミニ番組.md "wikilink")『ふれあいライフ』を放送、そして17時台には[ドラマの](../Page/テレビドラマ.md "wikilink")[再放送](../Page/再放送.md "wikilink")枠『アンコールアワー』を編成というパターンを続けてきたが、日本各地の[ローカル局](../Page/ローカル局.md "wikilink")が夕方ワイド番組を立ち上げているのを受けてこの流れに追従。[長野県](../Page/長野県.md "wikilink")では初参入となる夕方ワイド番組を開始することになった。
 
 番組開始当時のタイトルは『**ほっとスタジオSBC通り**』（ほっとスタジオエスビーシーどおり）で、これは当時のSBCの本社社屋（[長野市](../Page/長野市.md "wikilink")吉田、2006年9月4日に長野市問御所町に社屋移転）に面する通りの名称が**[SBC通り](https://ja.wikipedia.org/wiki/SBC通り "wikilink")**であることに由来している。
 
-番組は、生活情報・[ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")を始めとして、中継コーナー、[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")参加型の[クイズ](../Page/クイズ.md "wikilink")コーナーや[カラオケ](../Page/カラオケ.md "wikilink")コーナー、[平安堂](https://ja.wikipedia.org/wiki/平安堂 "wikilink")などの協力による[CD](../Page/コンパクトディスク.md "wikilink")・[本](../Page/本.md "wikilink")・[映画](../Page/映画.md "wikilink")関連のエンタメ情報コーナー、[コメンテーター](../Page/コメンテーター.md "wikilink")を務める[信濃毎日新聞](../Page/信濃毎日新聞.md "wikilink")編集委員による本紙注目記事の解説、編集委員による体験リポートなど、硬軟織り交ぜた内容で放送されていた。当時の在長局はドラマの再放送やアニメ枠に充てていた時間帯であったこともあり、情報を求める視聴者層からは高い支持を受けていた。
+番組は、生活情報・[ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")を始めとして、中継コーナー、[視聴者](../Page/視聴者.md "wikilink")参加型の[クイズ](../Page/クイズ.md "wikilink")コーナーや[カラオケ](../Page/カラオケ.md "wikilink")コーナー、[平安堂](../Page/平安堂.md "wikilink")などの協力による[CD](../Page/コンパクトディスク.md "wikilink")・[本](../Page/本.md "wikilink")・[映画](../Page/映画.md "wikilink")関連のエンタメ情報コーナー、[コメンテーター](../Page/コメンテーター.md "wikilink")を務める[信濃毎日新聞](../Page/信濃毎日新聞.md "wikilink")編集委員による本紙注目記事の解説、編集委員による体験リポートなど、硬軟織り交ぜた内容で放送されていた。当時の在長局はドラマの再放送やアニメ枠に充てていた時間帯であったこともあり、情報を求める視聴者層からは高い支持を受けていた。
 
-番組はその後、1998年4月に『ほっとスタジオSBC通り』から『ほっとスタジオSBC』に改題。改題当時は、SBCラジオの数々のワイド番組で[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[坂橋克明](https://ja.wikipedia.org/wiki/坂橋克明 "wikilink")（当時SBCアナウンサー）と若手の[中澤佳子](https://ja.wikipedia.org/wiki/中澤佳子 "wikilink")（SBCアナウンサー）が司会を務めており、番組も全盛期を迎えていた。
+番組はその後、1998年4月に『ほっとスタジオSBC通り』から『ほっとスタジオSBC』に改題。改題当時は、SBCラジオの数々のワイド番組で[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[坂橋克明](../Page/坂橋克明.md "wikilink")（当時SBCアナウンサー）と若手の[中澤佳子](../Page/中澤佳子.md "wikilink")（SBCアナウンサー）が司会を務めており、番組も全盛期を迎えていた。
 
-坂橋・中澤降板後の1999年4月からは、同年1月に[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")から地元長野へ[Uターン移籍した](../Page/Uターン現象.md "wikilink")[丸山隆之](https://ja.wikipedia.org/wiki/丸山隆之 "wikilink")（当時SBCアナウンサー）とSBCに入社したばかりの[久保田祥江](../Page/久保田祥江.md "wikilink")（当時SBCアナウンサー）が司会を担当。「**信州って、素晴らしい**」の番組新[キャッチコピー](../Page/キャッチコピー.md "wikilink")のもと、丸山が毎週長野県内各地の[町や村へ出向き](../Page/市町村.md "wikilink")、そこから全編生中継を行う新コーナー「丸山隆之の見なきゃチョーそん！」をスタートさせるなどのリニューアルを図ったが、結果として[視聴率](../Page/視聴率.md "wikilink")は落ち込み、番組は2001年3月に7年間の放送に終止符を打った。後番組は『[Uパレード](../Page/Uパレード.md "wikilink")』。
+坂橋・中澤降板後の1999年4月からは、同年1月に[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")から地元長野へ[Uターン移籍した](../Page/Uターン現象.md "wikilink")[丸山隆之](../Page/丸山隆之.md "wikilink")（当時SBCアナウンサー）とSBCに入社したばかりの[久保田祥江](../Page/久保田祥江.md "wikilink")（当時SBCアナウンサー）が司会を担当。「**信州って、素晴らしい**」の番組新[キャッチコピー](../Page/キャッチコピー.md "wikilink")のもと、丸山が毎週長野県内各地の[町や村へ出向き](../Page/市町村.md "wikilink")、そこから全編生中継を行う新コーナー「丸山隆之の見なきゃチョーそん！」をスタートさせるなどのリニューアルを図ったが、結果として[視聴率](../Page/視聴率.md "wikilink")は落ち込み、番組は2001年3月に7年間の放送に終止符を打った。後番組は『[Uパレード](../Page/Uパレード.md "wikilink")』。
 
 ## 放送時間
 
@@ -32,14 +32,14 @@ SBCは長年、平日16時台には[テレビ東京](https://ja.wikipedia.org/wi
 
   - [久保山国幸](https://ja.wikipedia.org/wiki/久保山国幸 "wikilink")（当時SBCアナウンサー、1994年4月 - 1994年9月）
   - [舩戸導洋](https://ja.wikipedia.org/wiki/舩戸導洋 "wikilink")（当時SBCアナウンサー、1994年10月 - 1998年3月）
-  - [坂橋克明](https://ja.wikipedia.org/wiki/坂橋克明 "wikilink")（SBCアナウンサー、1998年4月 - 1999年3月）
-  - [丸山隆之](https://ja.wikipedia.org/wiki/丸山隆之 "wikilink")（当時SBCアナウンサー、1999年4月 - 2001年3月）
+  - [坂橋克明](../Page/坂橋克明.md "wikilink")（SBCアナウンサー、1998年4月 - 1999年3月）
+  - [丸山隆之](../Page/丸山隆之.md "wikilink")（当時SBCアナウンサー、1999年4月 - 2001年3月）
 
 ### 女性司会
 
   - [藤森さつき](https://ja.wikipedia.org/wiki/藤森さつき "wikilink")（当時SBCアナウンサー、1994年4月 - 1995年9月）
   - [佐々木理恵](https://ja.wikipedia.org/wiki/佐々木理恵_\(信越放送\) "wikilink")（当時SBCアナウンサー、1995年10月 - 1996年6月）
-  - [中澤佳子](https://ja.wikipedia.org/wiki/中澤佳子 "wikilink")（SBCアナウンサー、1996年7月 - 1999年3月）
+  - [中澤佳子](../Page/中澤佳子.md "wikilink")（SBCアナウンサー、1996年7月 - 1999年3月）
   - [久保田祥江](../Page/久保田祥江.md "wikilink")（当時SBCアナウンサー、1999年4月 - 2001年3月）
 
 ### コメンテーター

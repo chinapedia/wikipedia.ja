@@ -19,7 +19,7 @@
 
 ## 略歴
 
-ロックバンドと活動を共にする事も多く、[RUDEBONES](../Page/RUDEBONES.md "wikilink")との全国ツアーや、2000年12月には[NORTHERN BRIGHTとのコラボレーション](../Page/NORTHERN_BRIGHT.md "wikilink")・シングル「GET YOURSELF ARRESTED」を発売し、3万枚以上を売り上げた\[2\]。[ARATAが手掛けるファッションブランド](https://ja.wikipedia.org/wiki/井浦新 "wikilink")「REVOLVER」によるコラボーレーション企画REVOLVER FLAVOURにも参加。
+ロックバンドと活動を共にする事も多く、[RUDEBONES](../Page/RUDEBONES.md "wikilink")との全国ツアーや、2000年12月には[NORTHERN BRIGHTとのコラボレーション](../Page/NORTHERN_BRIGHT.md "wikilink")・シングル「GET YOURSELF ARRESTED」を発売し、3万枚以上を売り上げた\[2\]。[ARATAが手掛けるファッションブランド](../Page/井浦新.md "wikilink")「REVOLVER」によるコラボーレーション企画REVOLVER FLAVOURにも参加。
 
   - 1993年結成。グループ名は[キミドリ](https://ja.wikipedia.org/wiki/キミドリ "wikilink")のKURO-OVIが命名。
   - 1995年 デビューEP『SHAKKATTACK』をNATURAL FOUNDATIONより発売\[3\]。
@@ -37,7 +37,7 @@
 1.  『手のひらを太陽に』 （1996年4月24日）
     1.  [手のひらを太陽に](https://ja.wikipedia.org/wiki/手のひらを太陽に "wikilink")\[6:17\]
           -
-            作詞：[やなせたかし](../Page/やなせたかし.md "wikilink")・大澄剛史・井口秀浩／作曲：[いずみたく](https://ja.wikipedia.org/wiki/いずみたく "wikilink")・土田伸二／編曲：シャカゾンビ
+            作詞：[やなせたかし](../Page/やなせたかし.md "wikilink")・大澄剛史・井口秀浩／作曲：[いずみたく](../Page/いずみたく.md "wikilink")・土田伸二／編曲：シャカゾンビ
     2.  手のひらを太陽に〜ACROSS THE 20 MIX〜\[7:07\]
     3.  THREE〜明日のため〜\[5:28\]
           -
@@ -80,7 +80,7 @@
 4.  『SO TIGHT,SO DEEP』 （2001年11月28日）オリコン45位
     1.  SO TIGHT,SO DEEP\[5:27\]
           -
-            作詞・作曲：T.OSUMI・H.IGUCHI・S.TSUCHIDA・[MICHICO](https://ja.wikipedia.org/wiki/MICHICO "wikilink")
+            作詞・作曲：T.OSUMI・H.IGUCHI・S.TSUCHIDA・[MICHICO](../Page/MICHICO.md "wikilink")
     2.  SO TIGHT,SO DEEP (DJ HASEBE REMIX)\[5:08\]
     3.  SO TIGHT,SO DEEP (DJ HAZIME REMIX)\[7:43\]
     4.  (エンハンスド)RIGHT HERE (CD-EXTRA VIDEO CLIP)
@@ -153,7 +153,7 @@
     3.  WONDER WORKER\[4:05\]
           -
             作詞・作曲：H.IGUCHI・T.OSUMI・S.TSUCHIDA
-    4.  THE DRAMA (UNDER THE MOON) feat.[SUIKEN](https://ja.wikipedia.org/wiki/SUIKEN "wikilink")\[2:55\]
+    4.  THE DRAMA (UNDER THE MOON) feat.[SUIKEN](../Page/SUIKEN.md "wikilink")\[2:55\]
           -
             作詞・作曲：H.IGUCHI・Y.KUWATA・T.OSUMI・S.TSUCHIDA
     5.  SKIT (FEEDBACK LOOP)\[1:51\]
@@ -249,7 +249,7 @@
 
 ### その他
 
-  - [スケボーキング](https://ja.wikipedia.org/wiki/スケボーキング "wikilink") 「ムシャブルイ」 （1998年10月25日）
+  - [スケボーキング](../Page/スケボーキング.md "wikilink") 「ムシャブルイ」 （1998年10月25日）
 
 <!-- end list -->
 

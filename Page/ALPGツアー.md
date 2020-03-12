@@ -12,10 +12,10 @@
   - [ヴォルヴィック RACVレディース・マスターズ](../Page/オーストラリア・レディースマスターズ.md "wikilink")（[欧州女子ツアーとの合同大会](../Page/欧州女子ゴルフツアー.md "wikilink")）（ALPGツアー最終戦）
   - [オーストラリアン女子オープン](https://ja.wikipedia.org/wiki/オーストラリアン女子オープン "wikilink")（LPGA、[欧州女子ツアーとの合同大会](../Page/欧州女子ゴルフツアー.md "wikilink")）
   - [ニュージーランド女子オープン](https://ja.wikipedia.org/wiki/ニュージーランド女子オープン "wikilink")（[欧州女子ツアーとの合同大会](../Page/欧州女子ゴルフツアー.md "wikilink")）
-  - NSW女子オープン - 2012年大会で[リディア・コ](https://ja.wikipedia.org/wiki/リディア・コ "wikilink")が14歳9か月で世界最年少優勝を果たしたのが話題となった\[1\]。それまでの記録は2007年5月の[マンシングウェアオープン KSBカップで優勝した](https://ja.wikipedia.org/wiki/マンシングウェアオープン_KSBカップ "wikilink")[石川遼](../Page/石川遼.md "wikilink")が持っていた15歳8カ月であった。
+  - NSW女子オープン - 2012年大会で[リディア・コ](https://ja.wikipedia.org/wiki/リディア・コ "wikilink")が14歳9か月で世界最年少優勝を果たしたのが話題となった\[1\]。それまでの記録は2007年5月の[マンシングウェアオープン KSBカップで優勝した](../Page/マンシングウェアオープン_KSBカップ.md "wikilink")[石川遼](../Page/石川遼.md "wikilink")が持っていた15歳8カ月であった。
   - ビクトリア女子オープン
 
-オーストラリア人選手[カリー・ウェブ](https://ja.wikipedia.org/wiki/カリー・ウェブ "wikilink")は、[LPGA](https://ja.wikipedia.org/wiki/全米女子プロゴルフ協会 "wikilink")、[LETと共にALPGツアーに毎年参戦している](../Page/欧州女子ゴルフツアー.md "wikilink")。
+オーストラリア人選手[カリー・ウェブ](../Page/カリー・ウェブ.md "wikilink")は、[LPGA](../Page/全米女子プロゴルフ協会.md "wikilink")、[LETと共にALPGツアーに毎年参戦している](../Page/欧州女子ゴルフツアー.md "wikilink")。
 
 ## 脚注
 

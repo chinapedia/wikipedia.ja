@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")『[ぱふ](../Page/ぱふ.md "wikilink")』（[雑草社](https://ja.wikipedia.org/wiki/雑草社 "wikilink")）に掲載された「しましまえぶりでぃ」でデビュー。愛猫“しま”を中心に歴代の飼い猫をテーマにした猫漫画。「しましまえぶりでぃ」は『ぱふ』で連載終了後『[ネムキ](../Page/ネムキ.md "wikilink")』（[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")）で連載が復活した。現在も連載中。代表作に『[カルバニア物語](../Page/カルバニア物語.md "wikilink")』『[チキタ★GuGu](../Page/チキタ★GuGu.md "wikilink")』など。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")『[ぱふ](../Page/ぱふ.md "wikilink")』（[雑草社](https://ja.wikipedia.org/wiki/雑草社 "wikilink")）に掲載された「しましまえぶりでぃ」でデビュー。愛猫“しま”を中心に歴代の飼い猫をテーマにした猫漫画。「しましまえぶりでぃ」は『ぱふ』で連載終了後『[ネムキ](../Page/ネムキ.md "wikilink")』（[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")）で連載が復活した。現在も連載中。代表作に『[カルバニア物語](../Page/カルバニア物語.md "wikilink")』『[チキタ★GuGu](../Page/チキタ★GuGu.md "wikilink")』など。
 
 日常生活を描いた同人誌「身辺雑布」や商業誌でエッセイ漫画を執筆。シンプルな絵柄で日常のシュールな出来事や海外旅行にまつわる話、飼い猫の話などを描いている。
 
@@ -22,9 +22,9 @@
 ### 長編
 
   - [カルバニア物語](../Page/カルバニア物語.md "wikilink") 1〜18巻（[徳間書店](../Page/徳間書店.md "wikilink") / [Chara連載中](../Page/Chara_\(雑誌\).md "wikilink")）
-  - [チキタ★GuGu](../Page/チキタ★GuGu.md "wikilink") 全8巻（[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")/[ネムキ](../Page/ネムキ.md "wikilink")）
+  - [チキタ★GuGu](../Page/チキタ★GuGu.md "wikilink") 全8巻（[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")/[ネムキ](../Page/ネムキ.md "wikilink")）
       - 新装版 全6巻（朝日新聞出版）、6巻に新作追加あり
-  - [ラビット・ハンティング](https://ja.wikipedia.org/wiki/ラビット・ハンティング "wikilink") 1〜2巻（[新書館](https://ja.wikipedia.org/wiki/新書館 "wikilink") / [月刊ウィングス](https://ja.wikipedia.org/wiki/月刊ウィングス "wikilink")連載中）
+  - [ラビット・ハンティング](https://ja.wikipedia.org/wiki/ラビット・ハンティング "wikilink") 1〜2巻（[新書館](../Page/新書館.md "wikilink") / [月刊ウィングス](https://ja.wikipedia.org/wiki/月刊ウィングス "wikilink")連載中）
   - ダスクストーリィ 全2巻（[創美社](https://ja.wikipedia.org/wiki/集英社クリエイティブ "wikilink") / [COMIC Crimson](../Page/COMIC_Crimson.md "wikilink")）
   - 砂の下の夢 全2巻（[秋田書店](../Page/秋田書店.md "wikilink") / [プリンセスGOLD](../Page/プリンセスGOLD.md "wikilink")）
   - 砂の下の夢 ～空の下の緑～　既刊2巻（[秋田書店](../Page/秋田書店.md "wikilink") / [プリンセスGOLD](../Page/プリンセスGOLD.md "wikilink")不定期掲載　「砂の下の夢」の続編）
@@ -68,8 +68,8 @@
 
 ### 挿絵
 
-  - 警視庁幽霊係 天野頌子著（[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")文庫）
-  - コンテンツ産業論 混淆と伝播の日本型モデル 出口弘ほか編（[東京大学出版会](https://ja.wikipedia.org/wiki/東京大学出版会 "wikilink")）※表紙画
+  - 警視庁幽霊係 天野頌子著（[祥伝社](../Page/祥伝社.md "wikilink")文庫）
+  - コンテンツ産業論 混淆と伝播の日本型モデル 出口弘ほか編（[東京大学出版会](../Page/東京大学出版会.md "wikilink")）※表紙画
 
 ## 外部リンク
 
@@ -82,7 +82,7 @@
 
 **連載中断作品**
 
-  - [新書館](http://www.shinshokan.com/wings/) - 「[ラビット・ハンティング](https://ja.wikipedia.org/wiki/ラビット・ハンティング "wikilink")」 （[ウィングス](https://ja.wikipedia.org/wiki/ウィングス_\(雑誌\) "wikilink")）偶数月28日発売
+  - [新書館](http://www.shinshokan.com/wings/) - 「[ラビット・ハンティング](https://ja.wikipedia.org/wiki/ラビット・ハンティング "wikilink")」 （[ウィングス](../Page/ウィングス_\(雑誌\).md "wikilink")）偶数月28日発売
   - [秋田書店](http://www.akitashoten.co.jp/CGI/autoup/listput.cgi?key=list&bunrui=008) - 「[砂の下の夢](https://ja.wikipedia.org/wiki/砂の下の夢 "wikilink")」 （[プリンセスGOLD](../Page/プリンセスGOLD.md "wikilink")）月刊（年9回刊行）16日発売
 
 **掲載誌休刊作品**

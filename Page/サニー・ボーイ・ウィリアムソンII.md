@@ -1,7 +1,7 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**サニー・ボーイ・ウィリアムスン**\[1\] (**Sonny Boy Williamson II**、[1899年](../Page/1899年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")) は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")出身の[ブルース](../Page/ブルース.md "wikilink")・[シンガー](../Page/歌手.md "wikilink")、[ブルース](../Page/ブルース.md "wikilink")・[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")奏者。本名は、アレック・ミラー。晩年の1950年代から60年代にかけて、[チェス・レコード](../Page/チェス・レコード.md "wikilink")傘下の[チェッカー・レコード](https://ja.wikipedia.org/wiki/チェッカー・レコード "wikilink")から数多くの作品を生み、[シカゴ・ブルース](../Page/シカゴ・ブルース.md "wikilink")の歴史に大きな足跡を残した。
+**サニー・ボーイ・ウィリアムスン**\[1\] (**Sonny Boy Williamson II**、[1899年](../Page/1899年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")) は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")出身の[ブルース](../Page/ブルース.md "wikilink")・[シンガー](../Page/歌手.md "wikilink")、[ブルース](../Page/ブルース.md "wikilink")・[ハーモニカ](../Page/ハーモニカ.md "wikilink")奏者。本名は、アレック・ミラー。晩年の1950年代から60年代にかけて、[チェス・レコード](../Page/チェス・レコード.md "wikilink")傘下の[チェッカー・レコード](https://ja.wikipedia.org/wiki/チェッカー・レコード "wikilink")から数多くの作品を生み、[シカゴ・ブルース](../Page/シカゴ・ブルース.md "wikilink")の歴史に大きな足跡を残した。
 
 芸名の末尾にII（あるいはII世）が付けられることがあるが、これは先に同じ芸名を名乗っていたジョン・リー・ウィリアムソンと区別するため。一方のジョン・リーはサニー・ボーイI（あるいはI世）と称される。両者に血縁関係があるわけではなく、I世の成功にあやかりたいII世が無断で芸名を拝借したものである。皮肉なことに結果的にII世はI世を凌ぐ成功を収めた。
 
@@ -9,17 +9,17 @@
 
 ウィリアムスンの生年月日は[1899年](../Page/1899年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")とする資料が比較的多いが、[1897年](../Page/1897年.md "wikilink")、[1901年](../Page/1901年.md "wikilink")、[1909年](../Page/1909年.md "wikilink")など諸説があり、正確なところは判っていない\[2\]。生まれたのは、ミシシッピ州グレンドーラ近郊の[プランテーション](../Page/プランテーション.md "wikilink")であった。彼の幼少期については、多くが謎に包まれている。本名ひとつとってもラスト・ネームを「フォード」とする説と「ミラー」とする説があるなど、決定的な情報はない\[3\]。独学でハーモニカを学び、他にギター、ドラムスも学んだという\[4\]。
 
-[1930年代](../Page/1930年代.md "wikilink")頃から、ミシシッピ州とアーカンソー州を一帯を放浪し、その過程で[エルモア・ジェームス](https://ja.wikipedia.org/wiki/エルモア・ジェームス "wikilink")、[ブラインド・レモン・ジェファーソン](https://ja.wikipedia.org/wiki/ブラインド・レモン・ジェファーソン "wikilink")、[ロバート・ロックウッド・ジュニア](https://ja.wikipedia.org/wiki/ロバート・ロックウッド・ジュニア "wikilink")らブルースマンと出会う。当時彼は、リトル・ボーイ・ブルーという芸名で活動していた\[5\]。
+[1930年代](../Page/1930年代.md "wikilink")頃から、ミシシッピ州とアーカンソー州を一帯を放浪し、その過程で[エルモア・ジェームス](../Page/エルモア・ジェームス.md "wikilink")、[ブラインド・レモン・ジェファーソン](https://ja.wikipedia.org/wiki/ブラインド・レモン・ジェファーソン "wikilink")、[ロバート・ロックウッド・ジュニア](../Page/ロバート・ロックウッド・ジュニア.md "wikilink")らブルースマンと出会う。当時彼は、リトル・ボーイ・ブルーという芸名で活動していた\[5\]。
 
 [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")、[アーカンソー州](../Page/アーカンソー州.md "wikilink")ヘレナのラジオ局KFFAで始まったブルース番組「キング・ビスケット・タイム」にロバート・ロックウッド・ジュニアとともに出演するようになった。彼がサニー・ボーイを名乗り出したのはこの頃であり、番組のスポンサーだったインターステート・グロサリーのオーナー、マックス・ムーアは彼がその名前を使うことを提案したと主張している\[6\]。レコードは出していなかったが、この番組出演により南部一帯でサニー・ボーイの人気は高まっていく。
 
-番組のリスナーの中には後に[ザ・バンド](https://ja.wikipedia.org/wiki/ザ・バンド "wikilink")のドラマーとして活躍する[リヴォン・ヘルム](https://ja.wikipedia.org/wiki/リヴォン・ヘルム "wikilink")もいた。彼は自叙伝の中で、当時のウイリアムスンについて以下のように述べている\[7\]。
+番組のリスナーの中には後に[ザ・バンド](../Page/ザ・バンド.md "wikilink")のドラマーとして活躍する[リヴォン・ヘルム](https://ja.wikipedia.org/wiki/リヴォン・ヘルム "wikilink")もいた。彼は自叙伝の中で、当時のウイリアムスンについて以下のように述べている\[7\]。
 
-[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")、ウィリアムスンは[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[ジャクソンの](https://ja.wikipedia.org/wiki/ジャクソン_\(ミシシッピ州\) "wikilink")[トランペット・レコード](https://ja.wikipedia.org/wiki/トランペット・レコード "wikilink")で初レコーディングを行う。[エルモア・ジェームス](https://ja.wikipedia.org/wiki/エルモア・ジェームス "wikilink")らをバックに、ブギ・ナンバーを中心としたサウンドを披露している。
+[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")、ウィリアムスンは[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[ジャクソンの](../Page/ジャクソン_\(ミシシッピ州\).md "wikilink")[トランペット・レコード](https://ja.wikipedia.org/wiki/トランペット・レコード "wikilink")で初レコーディングを行う。[エルモア・ジェームス](../Page/エルモア・ジェームス.md "wikilink")らをバックに、ブギ・ナンバーを中心としたサウンドを披露している。
 
 [1955年](../Page/1955年.md "wikilink")、シカゴの[チェス・レコード](../Page/チェス・レコード.md "wikilink")傘下の[チェッカー・レコード](https://ja.wikipedia.org/wiki/チェッカー・レコード "wikilink")と契約。この頃から拠点も南部からシカゴへ移している。同年、チェッカーにおける初セッションでレコーディングされた「Don't Start Me To Talkin'」がR\&Bチャートの3位を記録する。その後も「Keep It To Yourself」（[1956年](../Page/1956年.md "wikilink")、同16位）、「Help Me」（[1963年](../Page/1963年.md "wikilink")、同24位）とヒットを生んでいる\[8\]。チェッカーでのウィリアムスンはトランペット時代よりもぐっとモダンなサウンドとなり、また彼のハーモニカのプレイは、シカゴ・ブルースにおける基本形として、多くの後続プレイヤーに影響を与えた。
 
-[1963年](../Page/1963年.md "wikilink")には、アメリカン・フォーク・ブルース・フェスティバル出演のため、初めてのヨーロッパ・ツアーを行った。[1964年](../Page/1964年.md "wikilink")にも再度同フェスティバルに出演した。この間、ウィリアムスンは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[アニマルズ](https://ja.wikipedia.org/wiki/アニマルズ "wikilink")、[ヤードバーズ](../Page/ヤードバーズ.md "wikilink")、[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")とレコーディングを行っている。
+[1963年](../Page/1963年.md "wikilink")には、アメリカン・フォーク・ブルース・フェスティバル出演のため、初めてのヨーロッパ・ツアーを行った。[1964年](../Page/1964年.md "wikilink")にも再度同フェスティバルに出演した。この間、ウィリアムスンは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[アニマルズ](../Page/アニマルズ.md "wikilink")、[ヤードバーズ](../Page/ヤードバーズ.md "wikilink")、[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")とレコーディングを行っている。
 
 [1965年](../Page/1965年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、再びキング・ビスケット・タイムに出演するためヘレナに戻っていたウィリアムスンは、心臓発作により他界した。亡くなった直後にアルバム『リアル・フォーク・ブルース』が発表された。
 
@@ -33,7 +33,7 @@
   - 『ライブ』 - *Sonny Boy Williamson and Memphis Slim* (1964年)
   - 『サニー・ボーイ・ウィリアムソン&ザ・ヤードバーズ』 - *Sonny Boy Williamson and the Yardbirds* (1966年、Fontana) ※with [ヤードバーズ](../Page/ヤードバーズ.md "wikilink")
   - 『リアル・フォーク・ブルース』 - *The Real Folk Blues* (1965年、Chess)
-  - 『ジミー・ペイジ&ソニー・ボーイ・ウィリアムソン』 - *Don't Send Me No Flowers* (1966年、Charly) ※with [ブライアン・オーガー・アンド・ザ・トリニティー](https://ja.wikipedia.org/wiki/ブライアン・オーガー・アンド・ザ・トリニティー "wikilink")、[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")
+  - 『ジミー・ペイジ&ソニー・ボーイ・ウィリアムソン』 - *Don't Send Me No Flowers* (1966年、Charly) ※with [ブライアン・オーガー・アンド・ザ・トリニティー](../Page/ブライアン・オーガー・アンド・ザ・トリニティー.md "wikilink")、[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")
   - 『モア・リアル・フォーク・ブルース』 - *More Real Folk Blues* (1967年、Chess)
   - 『バマー・ロード』 - *Bummer Road* (1969年、Chess)
   - 『ソニー・ボーイ・ウィリアムソン&アニマルズ』 - *Sonny Boy Williamson + Animals* (1972年)

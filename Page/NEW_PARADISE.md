@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - オリコン初登場2位。2002年、『[第53回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink")』初出場で白組の先陣を切って歌われた。
-  - メンバーの[涼平に初めてRapパートが導入された](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")。
-  - 前作に引き続きサビでは、[慶太と涼平の](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")2人で歌っているため全員で歌唱していない。
+  - オリコン初登場2位。2002年、『[第53回NHK紅白歌合戦](../Page/第53回NHK紅白歌合戦.md "wikilink")』初出場で白組の先陣を切って歌われた。
+  - メンバーの[涼平に初めてRapパートが導入された](../Page/千葉涼平.md "wikilink")。
+  - 前作に引き続きサビでは、[慶太と涼平の](../Page/橘慶太.md "wikilink")2人で歌っているため全員で歌唱していない。
   - シングルでは初のCCCD（[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")）としてリリースされる。
   - 初回特典としてオリジナル・ポケットカレンダー（全4種）が封入されていた。
   - 2002年11月4日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
@@ -22,13 +22,13 @@
 <!-- end list -->
 
   -
-    作詞･作曲･編曲: [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+    作詞･作曲･編曲: [葉山拓亮](../Page/葉山拓亮.md "wikilink")
     Rap詞:[Kentaro Akutsu](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")(\#1,\#3)
     編曲: CANDY(\#3)
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 -----
 

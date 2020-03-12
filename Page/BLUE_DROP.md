@@ -1,7 +1,7 @@
 > この記事は[BLUE DROP](https://ja.wikipedia.org/wiki/BLUE_DROP)から翻訳されています。
 
 
-『**BLUE DROP**』（ブルー ドロップ）は、[吉富昭仁](https://ja.wikipedia.org/wiki/吉富昭仁 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[電撃コミックガオ\!](https://ja.wikipedia.org/wiki/電撃コミックガオ! "wikilink")』にて連作読み切りとして連載された後、『[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED "wikilink")』にて『**BLUE DROP 〜天使の僕ら〜**』が連載された。
+『**BLUE DROP**』（ブルー ドロップ）は、[吉富昭仁](../Page/吉富昭仁.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[電撃コミックガオ\!](https://ja.wikipedia.org/wiki/電撃コミックガオ! "wikilink")』にて連作読み切りとして連載された後、『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』にて『**BLUE DROP 〜天使の僕ら〜**』が連載された。
 
 『**BLUE DROP 〜天使達の戯曲〜**』としてテレビアニメ化され、[2007年](../Page/2007年.md "wikilink")10月から同年12月に放送された。
 
@@ -17,7 +17,7 @@
 
 ### BLUE DROP 吉富昭仁作品集
 
-『[電撃コミックガオ\!](https://ja.wikipedia.org/wiki/電撃コミックガオ! "wikilink")』で[2004年](../Page/2004年.md "wikilink")8月号から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月号までに掲載された読み切り作品を収録。
+『[電撃コミックガオ\!](https://ja.wikipedia.org/wiki/電撃コミックガオ! "wikilink")』で[2004年](../Page/2004年.md "wikilink")8月号から[2006年](../Page/2006年.md "wikilink")2月号までに掲載された読み切り作品を収録。
 
   - 神子-KAMINOKO-
     海人-KAIJIN-
@@ -27,7 +27,7 @@
 
 #### 単行本
 
-  - 吉富昭仁『BLUE DROP 〜天使の僕ら〜』 [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")〈[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")〉、全1巻
+  - 吉富昭仁『BLUE DROP 〜天使の僕ら〜』 [メディアワークス](../Page/メディアワークス.md "wikilink")〈[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")〉、全1巻
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 ### BLUE DROP 〜天使の僕ら〜
 
-『[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）で2007年4月号から2008年3月号まで連載された。全12話。作中での時代設定は2009年\[1\]。
+『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）で2007年4月号から2008年3月号まで連載された。全12話。作中での時代設定は2009年\[1\]。
 
 #### あらすじ
 
@@ -44,7 +44,7 @@
 #### 登場人物
 
   - 矢波翔太（やなみ しょうた）
-    今作品の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")の男子高校生。
+    今作品の[主人公](../Page/主人公.md "wikilink")の男子高校生。
   - 杉山健造（すぎやま けんぞう）
     翔太の親友の男子高校生。異星人により、体を女性に作りかえられる。
   - 名取琴子（なとり ことこ）
@@ -69,7 +69,7 @@
 
 ### BLUE DROP 〜天使の悪戯〜
 
-『BLUE DROP 〜天使の僕ら〜』の[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")作品として『[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")』VOL.2、VOL.4に掲載された。この2編は、『天使の僕ら』の単行本1・2巻にそれぞれ収録されている。『チャンピオンRED』の2007年12月号では、『天使の悪戯』の[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")が付録となっていた。
+『BLUE DROP 〜天使の僕ら〜』の[スピンオフ](../Page/スピンオフ.md "wikilink")作品として『[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")』VOL.2、VOL.4に掲載された。この2編は、『天使の僕ら』の単行本1・2巻にそれぞれ収録されている。『チャンピオンRED』の2007年12月号では、『天使の悪戯』の[ドラマCD](../Page/ドラマCD.md "wikilink")が付録となっていた。
 
 ### BLUE DROP 〜舞い降りた天使〜
 
@@ -90,21 +90,21 @@
 
 #### 神子
 
-  - 真美：[日笠山亜美](https://ja.wikipedia.org/wiki/日笠山亜美 "wikilink")
-  - 龍平：[野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")
-  - 順子：[河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")
+  - 真美：[日笠山亜美](../Page/日笠山亜美.md "wikilink")
+  - 龍平：[野島裕史](../Page/野島裕史.md "wikilink")
+  - 順子：[河原木志穂](../Page/河原木志穂.md "wikilink")
 
 #### 海人
 
-  - 清美：[遠藤綾](https://ja.wikipedia.org/wiki/遠藤綾 "wikilink")
+  - 清美：[遠藤綾](../Page/遠藤綾.md "wikilink")
   - 留美：[広橋涼](../Page/広橋涼.md "wikilink")
-  - 岡本：[桐井大介](https://ja.wikipedia.org/wiki/桐井大介 "wikilink")
+  - 岡本：[桐井大介](../Page/桐井大介.md "wikilink")
 
 #### 天使の約束/天使の選択/壊れた天使
 
   - YUI：[名塚佳織](../Page/名塚佳織.md "wikilink")
-  - 美里：[小菅真美](https://ja.wikipedia.org/wiki/小菅真美 "wikilink")
-  - 称子：[永田亮子](https://ja.wikipedia.org/wiki/永田亮子 "wikilink")
+  - 美里：[小菅真美](../Page/小菅真美.md "wikilink")
+  - 称子：[永田亮子](../Page/永田亮子.md "wikilink")
 
 ## テレビアニメ
 
@@ -127,7 +127,7 @@
     萩乃とは序盤こそ対立していたものの、徐々にお互いに絆を深めていき、終盤では想いを通じ合わせた。
     最終話では出撃した萩乃を追いかけ必死に呼び掛けた\[5\]が、萩乃はマリに返事をすることなくブルーで飛び立っていった。結果的にマリが最後に聞いた萩乃の言葉は、学園で別れた時の「さようなら」である。最終話以降の詳細は不明。
   - 千光寺 萩乃（せんこうじ はぎの）
-    声 - [沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")
+    声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")
     マリと同級生で同じ青海寮に所属。お淑やかで成績優秀、スポーツ万能の優等生。マリを気に掛ける。しかしその正体は、5年前地球にやって来た異星人の地球調査艦隊5番艦ブルーの艦長（コマンダー）**エカリル**である。
     学園ではクールな優等生だが、マリに対しては愛情の裏返しか少々意地悪になることがある。また、赤ん坊を「未知の生物」と表現したり、沸騰した高温のミルクを飲ませようとするなど、少し一般人（地球人？）とずれている一面もある。
     最終話、マリや学園の皆を守るため、そしてシバリエルとの決着をつけるために出撃する。途中、ツバエルを強制的に脱出させ単身ブルーでノヴァールに突進し撃破するも、同時にブルーも大破したため生死は不明。
@@ -151,10 +151,10 @@
     マリの担任の新任教師。担当は化学で、カウンセラーの資格も持つ。そそっかしい性格。
     正体は秘密護衛官で、密かにマリを守ると同時に、事件の真相を追っていた。
   - 深町学園長
-    声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    声 - [中田譲治](../Page/中田譲治.md "wikilink")
     フルネームは不明。ダンディでハンサムな男性。離婚歴有り。実は朱音の父。
   - 舞山教務主任
-    声 - [一城みゆ希](https://ja.wikipedia.org/wiki/一城みゆ希 "wikilink")
+    声 - [一城みゆ希](../Page/一城みゆ希.md "wikilink")
     フルネームは不明。中年女性。いわゆるお局様で、周りには非常に厳しく当たるタイプ。
   - シバリエル
     声 - [麻上洋子](https://ja.wikipedia.org/wiki/麻上洋子 "wikilink")
@@ -175,25 +175,25 @@
     声 - [川上とも子](../Page/川上とも子.md "wikilink")
     異星人。第2艦ケルビルーの艦長。見た目が幼い。第5話と第12話に登場。
   - 船津丸 ひろ子（ふなつまる ひろこ）
-    声 - [斉藤貴美子](https://ja.wikipedia.org/wiki/斉藤貴美子 "wikilink")
+    声 - [斉藤貴美子](../Page/斉藤貴美子.md "wikilink")
     青海寮の寮長。「KEEP WEIGHT」という文字が書かれた私服をよく着ている。
   - 船津丸 ゆり子
     声 - [篠原恵美](../Page/篠原恵美.md "wikilink")
     ひろ子の姉。既婚。
   - 山田 和美、鈴木 双葉、佐藤 未恵
-    声 - [広津佑希子](../Page/広津佑希子.md "wikilink") / [野中藍](https://ja.wikipedia.org/wiki/野中藍 "wikilink") / [板東愛](https://ja.wikipedia.org/wiki/板東愛 "wikilink")
+    声 - [広津佑希子](../Page/広津佑希子.md "wikilink") / [野中藍](../Page/野中藍.md "wikilink") / [板東愛](../Page/板東愛.md "wikilink")
     青海寮の寮生。3人共、萩乃のファンで、彼女に敵対する者を許さない。
   - オペレーター
-    声 - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+    声 - [生天目仁美](../Page/生天目仁美.md "wikilink")
   - オペレーター
-    声 - [猪口有佳](https://ja.wikipedia.org/wiki/いのくちゆか "wikilink")
+    声 - [猪口有佳](../Page/いのくちゆか.md "wikilink")
 
 ### スタッフ
 
   - 原作・キャラクター原案・デザインワーク - 吉富昭仁
   - 監督・原案 - [大倉雅彦](https://ja.wikipedia.org/wiki/大倉雅彦 "wikilink")
   - 副監督 - 友田政晴
-  - シリーズ構成 - [高橋ナツコ](https://ja.wikipedia.org/wiki/高橋ナツコ "wikilink")
+  - シリーズ構成 - [高橋ナツコ](../Page/高橋ナツコ.md "wikilink")
   - キャラクターデザイン・総作画監督 - 竹田逸子
   - メカニックデザイン - [米村孝一郎](../Page/米村孝一郎.md "wikilink")
   - 戦艦BLUEデザイン - [竹内敦志](https://ja.wikipedia.org/wiki/竹内敦志 "wikilink")
@@ -202,19 +202,19 @@
   - 色彩設計 - 海鋒重信
   - 撮影監督 - 和田尚之
   - 編集 - 重村建吾
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音楽 - [THE金鶴](https://ja.wikipedia.org/wiki/THE金鶴 "wikilink")
   - プロデューサー - 岩瀬繁功、中村伸一、山崎史紀、堀圭輔、大橋豊
   - アニメーションプロデューサー - 曽根孝治
   - アニメーション制作 - [ビースタック](https://ja.wikipedia.org/wiki/ビースタック "wikilink")、[旭プロダクション](../Page/旭プロダクション.md "wikilink")
-  - 製作 - PROJECT BD（[キングレコード](../Page/キングレコード.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")、[メモリーテック](https://ja.wikipedia.org/wiki/メモリーテック "wikilink")、ビースタック）
+  - 製作 - PROJECT BD（[キングレコード](../Page/キングレコード.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")、ビースタック）
 
 ### 主題歌
 
   - オープニングテーマ「[BLUE](https://ja.wikipedia.org/wiki/BLUE/蕾_-blue_dreams- "wikilink")」
-    作詞 - 大倉雅彦 / 作曲 - Clara / 編曲 - [藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")） / 歌 - [Suara](https://ja.wikipedia.org/wiki/Suara "wikilink")
+    作詞 - 大倉雅彦 / 作曲 - Clara / 編曲 - [藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")） / 歌 - [Suara](../Page/Suara.md "wikilink")
   - エンディングテーマ「[蕾-blue dreams-](https://ja.wikipedia.org/wiki/BLUE/蕾_-blue_dreams- "wikilink")」
-    作詞 - Bee' / 作曲 - [衣笠道雄](../Page/Leaf.md "wikilink") / 編曲 - [藤田淳平](https://ja.wikipedia.org/wiki/藤田淳平 "wikilink")（Elements Garden） / 歌 - Suara
+    作詞 - Bee' / 作曲 - [衣笠道雄](../Page/Leaf.md "wikilink") / 編曲 - [藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden） / 歌 - Suara
 
 ### 各話リスト
 
@@ -235,7 +235,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/アジサイ.md" title="wikilink">Hydrangea</a> -水の入れ物-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a></p></td>
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大倉雅彦" title="wikilink">大倉雅彦</a></p></td>
 <td><p>大倉雅彦<br />
 羽生尚靖</p></td>
@@ -251,7 +251,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チョウセンアサガオ属" title="wikilink">Datura</a> -偽りの魅力-</p></td>
+<td><p><a href="../Page/チョウセンアサガオ属.md" title="wikilink">Datura</a> -偽りの魅力-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡邊大輔" title="wikilink">渡邊大輔</a></p></td>
 <td><p>長尾粛<br />
 大倉雅彦</p></td>
@@ -260,7 +260,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダリア" title="wikilink">Dahlia pinnata</a> -不安-</p></td>
+<td><p><a href="../Page/ダリア.md" title="wikilink">Dahlia pinnata</a> -不安-</p></td>
 <td><p>高橋ナツコ</p></td>
 <td><p>吉田英俊<br />
 大倉雅彦</p></td>
@@ -270,16 +270,16 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーベナ" title="wikilink">Garden verbena</a> -親子の絆-</p></td>
+<td><p><a href="../Page/バーベナ.md" title="wikilink">Garden verbena</a> -親子の絆-</p></td>
 <td><p>小枝マリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静野孔文" title="wikilink">静野孔文</a><br />
+<td><p><a href="../Page/静野孔文.md" title="wikilink">静野孔文</a><br />
 大倉雅彦</p></td>
 <td><p>内田祐司</p></td>
 <td><p>粟井重紀</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホタルブクロ" title="wikilink">Campanula</a> -小さな瞳-</p></td>
+<td><p><a href="../Page/ホタルブクロ.md" title="wikilink">Campanula</a> -小さな瞳-</p></td>
 <td><p>白井宏旨</p></td>
 <td><p>羽生尚靖</p></td>
 <td><p>久米一成<br />
@@ -288,8 +288,8 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハマユウ" title="wikilink">Crinum</a> -汚れない心-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉富昭仁" title="wikilink">吉富昭仁</a></p></td>
+<td><p><a href="../Page/ハマユウ.md" title="wikilink">Crinum</a> -汚れない心-</p></td>
+<td><p><a href="../Page/吉富昭仁.md" title="wikilink">吉富昭仁</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/瀬藤健嗣" title="wikilink">瀬藤健嗣</a><br />
 大倉雅彦</p></td>
 <td><p>小林孝志</p></td>
@@ -308,7 +308,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユウガオ" title="wikilink">Lagenaria siceraria</a> -夜の想い出-</p></td>
+<td><p><a href="../Page/ユウガオ.md" title="wikilink">Lagenaria siceraria</a> -夜の想い出-</p></td>
 <td><p>高橋ナツコ</p></td>
 <td><p>出合小都美</p></td>
 <td><p>上田幸一郎</p></td>
@@ -316,7 +316,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アザミ" title="wikilink">Cirsium</a> -復讐-</p></td>
+<td><p><a href="../Page/アザミ.md" title="wikilink">Cirsium</a> -復讐-</p></td>
 <td><p>渡邊大輔</p></td>
 <td><p>福田道生<br />
 大倉雅彦</p></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジバカマ" title="wikilink">Thoroughwort</a> -あの日の記憶-</p></td>
+<td><p><a href="../Page/フジバカマ.md" title="wikilink">Thoroughwort</a> -あの日の記憶-</p></td>
 <td><p>大倉雅彦</p></td>
 <td><p>内田裕司</p></td>
 <td><p>CHOI YOUNG-HEE、JUNG JI-HEE<br />
@@ -357,19 +357,19 @@ HWANG YOUNG SIK、亜蘭純子<br />
 
 ### 放送局
 
-| 放送地域                                                           | 放送局                                                             | 放送期間                                                                                                              | 放送日時                                                             | 放送区分                                      | 備考 |
-| -------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -- |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")            | [KBS京都](../Page/京都放送.md "wikilink")                             | [2007年](../Page/2007年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink") | 火曜 26:00 - 26:30                                                 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |    |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")            | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")       | 火曜 26:30 - 27:00                                                                                                  |                                                                  |                                           |    |
-| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")            | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")       | 火曜 26:55 - 27:25                                                                                                  |                                                                  |                                           |    |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")            | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")           | 2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [12月27日](../Page/12月27日.md "wikilink")             | 木曜 25:00 - 25:30                                                 |                                           |    |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")            | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")               | 2007年[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                                | 金曜 26:30 - 27:00                                                 |                                           |    |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")          | [tvk](../Page/テレビ神奈川.md "wikilink")                             | 金曜 27:15 - 27:45                                                                                                  |                                                                  |                                           |    |
-| [和歌山県](../Page/和歌山県.md "wikilink")                             | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")       | 2007年[10月7日](../Page/10月7日.md "wikilink") - [12月30日](../Page/12月30日.md "wikilink")                                | 日曜 25:10 - 25:40                                                 |                                           |    |
-| [日本全域](../Page/全国放送.md "wikilink")                             | [バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink") | 2007年[10月15日](../Page/10月15日.md "wikilink") -                                                                     | 月曜 12 00 更新                                                      | [ネット配信](../Page/ネット配信.md "wikilink")      |    |
-| [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")    | 2007年 記載なし -                                                    | 月曜 12:00 更新                                                                                                       |                                                                  |                                           |    |
-| [Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink") | 2007年 資料なし -                                                    | 月曜 12:00 更新                                                                                                       |                                                                  |                                           |    |
-| [AT-X](../Page/アニメシアターX.md "wikilink")                         | 2007年[11月9日](../Page/11月9日.md "wikilink") -                     | 金曜 11:30 - 12:00                                                                                                  | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり                                  |    |
+| 放送地域                                                           | 放送局                                                       | 放送期間                                                                                                              | 放送日時                                                             | 放送区分                                      | 備考 |
+| -------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -- |
+| [京都府](../Page/京都府.md "wikilink")                               | [KBS京都](../Page/京都放送.md "wikilink")                       | [2007年](../Page/2007年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink") | 火曜 26:00 - 26:30                                                 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |    |
+| [千葉県](../Page/千葉県.md "wikilink")                               | [チバテレビ](../Page/千葉テレビ放送.md "wikilink")                    | 火曜 26:30 - 27:00                                                                                                  |                                                                  |                                           |    |
+| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")            | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink") | 火曜 26:55 - 27:25                                                                                                  |                                                                  |                                           |    |
+| [埼玉県](../Page/埼玉県.md "wikilink")                               | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [12月27日](../Page/12月27日.md "wikilink")             | 木曜 25:00 - 25:30                                                 |                                           |    |
+| [東京都](../Page/東京都.md "wikilink")                               | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")         | 2007年[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                                | 金曜 26:30 - 27:00                                                 |                                           |    |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")          | [tvk](../Page/テレビ神奈川.md "wikilink")                       | 金曜 27:15 - 27:45                                                                                                  |                                                                  |                                           |    |
+| [和歌山県](../Page/和歌山県.md "wikilink")                             | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") | 2007年[10月7日](../Page/10月7日.md "wikilink") - [12月30日](../Page/12月30日.md "wikilink")                                | 日曜 25:10 - 25:40                                                 |                                           |    |
+| [日本全域](../Page/全国放送.md "wikilink")                             | [バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")              | 2007年[10月15日](../Page/10月15日.md "wikilink") -                                                                     | 月曜 12 00 更新                                                      | [ネット配信](../Page/ネット配信.md "wikilink")      |    |
+| [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")    | 2007年 記載なし -                                              | 月曜 12:00 更新                                                                                                       |                                                                  |                                           |    |
+| [Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink") | 2007年 資料なし -                                              | 月曜 12:00 更新                                                                                                       |                                                                  |                                           |    |
+| [AT-X](../Page/アニメシアターX.md "wikilink")                         | 2007年[11月9日](../Page/11月9日.md "wikilink") -               | 金曜 11:30 - 12:00                                                                                                  | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり                                  |    |
 
 ## 脚注
 

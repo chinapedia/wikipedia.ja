@@ -9,7 +9,7 @@
 
 [2015年](../Page/2015年.md "wikilink")7月1日、運用力の強化と経営の効率化を図るため、同じグループ傘下であった三菱UFJ投信と[国際投信投資顧問](https://ja.wikipedia.org/wiki/国際投信投資顧問 "wikilink")が[合併して発足した](../Page/合併_\(企業\).md "wikilink")\[1\]\[2\]\[3\]。
 
-長らく日本最大のファンドであったグローバル・ソブリン・ オープンをはじめ、ネット証券向けローコストインデックスファンドや[ETF](https://ja.wikipedia.org/wiki/上場投資信託 "wikilink")、[確定拠出年金](https://ja.wikipedia.org/wiki/確定拠出年金 "wikilink")向けファンド等、幅広い商品ラインナップを誇る。
+長らく日本最大のファンドであったグローバル・ソブリン・ オープンをはじめ、ネット証券向けローコストインデックスファンドや[ETF](../Page/上場投資信託.md "wikilink")、[確定拠出年金](../Page/確定拠出年金.md "wikilink")向けファンド等、幅広い商品ラインナップを誇る。
 
 投資信託協会、[日本証券投資顧問業協会](https://ja.wikipedia.org/wiki/日本証券投資顧問業協会 "wikilink")の会員。
 
@@ -24,9 +24,9 @@
   - [2000年](../Page/2000年.md "wikilink") - 三菱信アセットマネジメント設立。
   - [2001年](../Page/2001年.md "wikilink") - パートナーズ投信が東海投信投資顧問および東洋信アセットマネジメントより投信業務を営業譲受、UFJパートナーズ投信に社名変更。
   - [2004年](../Page/2004年.md "wikilink") - 東京三菱投信投資顧問と三菱信アセットマネジメントが合併、**三菱投信**発足。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 三菱投信とUFJパートナーズ投信が合併、**三菱UFJ投信**発足。
+  - [2005年](../Page/2005年.md "wikilink") - 三菱投信とUFJパートナーズ投信が合併、**三菱UFJ投信**発足。
   - [2015年](../Page/2015年.md "wikilink")7月1日 - [国際投信投資顧問](https://ja.wikipedia.org/wiki/国際投信投資顧問 "wikilink")と合併。**三菱UFJ国際投信**として発足。
-  - [2018年](../Page/2018年.md "wikilink")4月1日 - [三菱UFJ信託銀行](https://ja.wikipedia.org/wiki/三菱UFJ信託銀行 "wikilink")の完全子会社となる\[4\]。
+  - [2018年](../Page/2018年.md "wikilink")4月1日 - [三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")の完全子会社となる\[4\]。
 
 ## 近年の受賞歴
 
@@ -39,7 +39,7 @@
 ## 関連項目
 
   - [アセットマネジメント](https://ja.wikipedia.org/wiki/アセットマネジメント "wikilink")
-  - [投資ファンド](https://ja.wikipedia.org/wiki/投資ファンド "wikilink")
+  - [投資ファンド](../Page/投資ファンド.md "wikilink")
 
 ## 脚注
 

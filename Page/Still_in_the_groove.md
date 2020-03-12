@@ -14,12 +14,12 @@
 
 1.  **still in the groove**
       -
-        作詞・作曲・編曲：[矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink")
+        作詞・作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
     <!-- end list -->
       - 「[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")」CMソング
 2.  **refrain**
       -
-        作詞・作曲：矢吹俊郎、編曲：矢吹俊郎・[大平勉](https://ja.wikipedia.org/wiki/大平勉 "wikilink")
+        作詞・作曲：矢吹俊郎、編曲：矢吹俊郎・[大平勉](../Page/大平勉.md "wikilink")
         アルバム『[DREAM SKIPPER](../Page/DREAM_SKIPPER.md "wikilink")』に新録音のアレンジバージョン「refrain -classico-」が収録された
 3.  **恋してる…**
       -
@@ -32,24 +32,24 @@
 
 ## 収録作品
 
-| 曲名                                                                                                                                                      | 収録作品名                                                         | 作品種類                                    | 発売日         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------- | ----------- |
-| still in the groove                                                                                                                                     | **[DREAM SKIPPER](../Page/DREAM_SKIPPER.md "wikilink")**      | [オリジナルアルバム](../Page/アルバム.md "wikilink") | 2003年11月27日 |
-| **[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")**                                                                                                      | [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink") | 2007年2月7日                               |             |
-| **[NANA MIZUKI LIVE SKIPPER COUNTDOWN THE DVD and more](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_SKIPPER_COUNTDOWN_THE_DVD_and_more "wikilink")** | ライブビデオ                                                        | 2004年3月3日                               |             |
-| **[NANA CLIPS 2](https://ja.wikipedia.org/wiki/NANA_CLIPS_2 "wikilink")**                                                                               | [PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")    | 2004年7月7日                               |             |
-| **[NANA MIZUKI LIVE RAINBOW at BUDOUKAN](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_RAINBOW_at_BUDOUKAN "wikilink")**                               | ライブビデオ                                                        | 2005年4月6日                               |             |
-| **[NANA MIZUKI LIVE MUSEUM×UNIVERSE](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_MUSEUM×UNIVERSE "wikilink")**                                       | 2007年6月6日                                                     |                                         |             |
-| **[NANA MIZUKI LIVE FIGHTER -BLUE×RED SIDE-](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_FIGHTER_-BLUE×RED_SIDE- "wikilink")**                       | 2008年12月25日                                                   |                                         |             |
-| **[NANA MIZUKI LIVE DIAMOND×FEVER](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_DIAMOND×FEVER "wikilink")**                                           | 2009年12月23日                                                   |                                         |             |
-| **[NANA MIZUKI LIVE CASTLE×JOURNEY -QUEEN-](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_CASTLE×JOURNEY_-QUEEN- "wikilink")**                         | 2012年5月2日                                                     |                                         |             |
-| **[NANA MIZUKI LIVE FLIGHT×FLIGHT+](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_FLIGHT×FLIGHT+ "wikilink")**                                         | 2015年1月14日                                                    |                                         |             |
-| **[NANA MIZUKI LIVE GALAXY -GENESIS-](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_GALAXY_-GENESIS- "wikilink")**                                     | 2016年9月14日                                                    |                                         |             |
-| refrain -classico-                                                                                                                                      | **DREAM SKIPPER**                                             | オリジナルアルバム                               | 2003年11月27日 |
-| **NANA MIZUKI LIVE SKIPPER COUNTDOWN THE DVD and more**                                                                                                 | ライブビデオ                                                        | 2004年3月3日                               |             |
-| 恋してる…                                                                                                                                                   | **DREAM SKIPPER**                                             | オリジナルアルバム                               | 2003年11月27日 |
-| **NANA MIZUKI LIVE SKIPPER COUNTDOWN THE DVD and more**                                                                                                 | ライブビデオ                                                        | 2004年3月3日                               |             |
-| **NANA CLIPS 2**                                                                                                                                        | PV集                                                           | 2004年7月7日                               |             |
+| 曲名                                                                                                                                                      | 収録作品名                                                    | 作品種類                                    | 発売日         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------- | ----------- |
+| still in the groove                                                                                                                                     | **[DREAM SKIPPER](../Page/DREAM_SKIPPER.md "wikilink")** | [オリジナルアルバム](../Page/アルバム.md "wikilink") | 2003年11月27日 |
+| **[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")**                                                                                                      | [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")               | 2007年2月7日                               |             |
+| **[NANA MIZUKI LIVE SKIPPER COUNTDOWN THE DVD and more](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_SKIPPER_COUNTDOWN_THE_DVD_and_more "wikilink")** | ライブビデオ                                                   | 2004年3月3日                               |             |
+| **[NANA CLIPS 2](https://ja.wikipedia.org/wiki/NANA_CLIPS_2 "wikilink")**                                                                               | [PV集](../Page/ミュージック・ビデオ.md "wikilink")                  | 2004年7月7日                               |             |
+| **[NANA MIZUKI LIVE RAINBOW at BUDOUKAN](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_RAINBOW_at_BUDOUKAN "wikilink")**                               | ライブビデオ                                                   | 2005年4月6日                               |             |
+| **[NANA MIZUKI LIVE MUSEUM×UNIVERSE](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_MUSEUM×UNIVERSE "wikilink")**                                       | 2007年6月6日                                                |                                         |             |
+| **[NANA MIZUKI LIVE FIGHTER -BLUE×RED SIDE-](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_FIGHTER_-BLUE×RED_SIDE- "wikilink")**                       | 2008年12月25日                                              |                                         |             |
+| **[NANA MIZUKI LIVE DIAMOND×FEVER](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_DIAMOND×FEVER "wikilink")**                                           | 2009年12月23日                                              |                                         |             |
+| **[NANA MIZUKI LIVE CASTLE×JOURNEY -QUEEN-](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_CASTLE×JOURNEY_-QUEEN- "wikilink")**                         | 2012年5月2日                                                |                                         |             |
+| **[NANA MIZUKI LIVE FLIGHT×FLIGHT+](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_FLIGHT×FLIGHT+ "wikilink")**                                         | 2015年1月14日                                               |                                         |             |
+| **[NANA MIZUKI LIVE GALAXY -GENESIS-](https://ja.wikipedia.org/wiki/NANA_MIZUKI_LIVE_GALAXY_-GENESIS- "wikilink")**                                     | 2016年9月14日                                               |                                         |             |
+| refrain -classico-                                                                                                                                      | **DREAM SKIPPER**                                        | オリジナルアルバム                               | 2003年11月27日 |
+| **NANA MIZUKI LIVE SKIPPER COUNTDOWN THE DVD and more**                                                                                                 | ライブビデオ                                                   | 2004年3月3日                               |             |
+| 恋してる…                                                                                                                                                   | **DREAM SKIPPER**                                        | オリジナルアルバム                               | 2003年11月27日 |
+| **NANA MIZUKI LIVE SKIPPER COUNTDOWN THE DVD and more**                                                                                                 | ライブビデオ                                                   | 2004年3月3日                               |             |
+| **NANA CLIPS 2**                                                                                                                                        | PV集                                                      | 2004年7月7日                               |             |
 
 ## 参考文献
 

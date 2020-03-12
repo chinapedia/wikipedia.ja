@@ -1,7 +1,7 @@
 > この記事は[Plastic Soul](https://ja.wikipedia.org/wiki/Plastic_Soul)から翻訳されています。
 
 
-「**Plastic Soul**」（プラスティック・ソウル）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算12枚目の[シングル](../Page/シングル.md "wikilink")。2001年5月23日発売。発売元は[ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。
+「**Plastic Soul**」（プラスティック・ソウル）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算12枚目の[シングル](../Page/シングル.md "wikilink")。2001年5月23日発売。発売元は[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")。
 
 ## 解説
 
@@ -12,12 +12,12 @@
 1.  **Plastic Soul**　（4:20）
 2.  **愛のしくみ**　（3:44）
       -
-        [カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")「[野菜生活100](../Page/カゴメ・野菜生活100.md "wikilink")」コマーシャルソング。
+        [カゴメ](../Page/カゴメ.md "wikilink")「[野菜生活100](../Page/カゴメ・野菜生活100.md "wikilink")」コマーシャルソング。
 3.  **mud skiffle track IX**　（1:35）
 4.  **Good morning （express mix）**　（4:42）
       -
         プライベートアルバム「[ステレオ2](../Page/ステレオ2.md "wikilink")」収録曲のリミックス。
-        [TBS系情報番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[エクスプレス](https://ja.wikipedia.org/wiki/エクスプレス_\(テレビ番組\) "wikilink")」テーマソング。
+        [TBS系情報番組](../Page/TBSテレビ.md "wikilink")「[エクスプレス](../Page/エクスプレス_\(テレビ番組\).md "wikilink")」テーマソング。
 
 <!-- end list -->
 
@@ -48,9 +48,9 @@
 
 ## 関連項目
 
-  - [KAGOME](https://ja.wikipedia.org/wiki/カゴメ "wikilink")
+  - [KAGOME](../Page/カゴメ.md "wikilink")
   - [野菜生活100](../Page/カゴメ・野菜生活100.md "wikilink")
-  - [エクスプレス](https://ja.wikipedia.org/wiki/エクスプレス_\(テレビ番組\) "wikilink")
-  - [オフィスオーガスタ](https://ja.wikipedia.org/wiki/オフィスオーガスタ "wikilink")
+  - [エクスプレス](../Page/エクスプレス_\(テレビ番組\).md "wikilink")
+  - [オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")
 
 [Category:山崎まさよしの楽曲](https://ja.wikipedia.org/wiki/Category:山崎まさよしの楽曲 "wikilink") [Category:山崎まさよしが制作した楽曲](https://ja.wikipedia.org/wiki/Category:山崎まさよしが制作した楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

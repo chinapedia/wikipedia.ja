@@ -1,27 +1,27 @@
 > この記事は[Crunchyroll](https://ja.wikipedia.org/wiki/Crunchyroll)から翻訳されています。
 
 
-**Crunchyroll**（クランチロール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")・[ドラマ](../Page/ドラマ.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")などのコンテンツを提供する配信サービス、およびそれを運営する[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の企業。本社は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、日本法人は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[渋谷](../Page/渋谷.md "wikilink")にそれぞれ所在する。
+**Crunchyroll**（クランチロール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")・[ドラマ](../Page/ドラマ.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")などのコンテンツを提供する配信サービス、およびそれを運営する[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の企業。本社は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、日本法人は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[渋谷](../Page/渋谷.md "wikilink")にそれぞれ所在する。
 
 ## 概要
 
-立ち上げは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月。当初はアニメ投稿サイトであり、主として日本アニメの[ファンサブ](https://ja.wikipedia.org/wiki/ファンサブ "wikilink")が投稿されていた。これらは著作権を侵害する行為であるが、サイトは急成長を続けていった\[1\]。他の特徴としては、フォーラムやチャットができることが挙げられる。
+立ち上げは[2006年](../Page/2006年.md "wikilink")9月。当初はアニメ投稿サイトであり、主として日本アニメの[ファンサブ](../Page/ファンサブ.md "wikilink")が投稿されていた。これらは著作権を侵害する行為であるが、サイトは急成長を続けていった\[1\]。他の特徴としては、フォーラムやチャットができることが挙げられる。
 
-こうした中で、日本法人を設立しアニメ会社と提携について交渉。自サイトの違法動画を削除、動画投稿サイトにおける違法投稿の検出ソフトの提供などを行い\[2\]、ついにテレビ東京との契約（日本放映の1時間後に動画配信。キー局でこのスタイルは世界初\[3\]）にこぎ着けた。これをきっかけに、[GDH](https://ja.wikipedia.org/wiki/GDH_\(企業\) "wikilink")、[東映](../Page/東映.md "wikilink")などとも契約。提携企業側としても、違法配信の抑制、新たな販路の開拓を期待しているという\[4\]。
+こうした中で、日本法人を設立しアニメ会社と提携について交渉。自サイトの違法動画を削除、動画投稿サイトにおける違法投稿の検出ソフトの提供などを行い\[2\]、ついにテレビ東京との契約（日本放映の1時間後に動画配信。キー局でこのスタイルは世界初\[3\]）にこぎ着けた。これをきっかけに、[GDH](../Page/GDH_\(企業\).md "wikilink")、[東映](../Page/東映.md "wikilink")などとも契約。提携企業側としても、違法配信の抑制、新たな販路の開拓を期待しているという\[4\]。
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月 - サイト立ち上げ。
+  - [2006年](../Page/2006年.md "wikilink")9月 - サイト立ち上げ。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-      - 9月 - 日本法人設立（[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink") [ビンセント・ショーティノ](https://ja.wikipedia.org/wiki/ビンセント・ショーティノ "wikilink")）
+      - 9月 - 日本法人設立（[代表取締役](../Page/代表取締役.md "wikilink") [ビンセント・ショーティノ](https://ja.wikipedia.org/wiki/ビンセント・ショーティノ "wikilink")）
       - 11月 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と提携を発表。
-  - [2009年](../Page/2009年.md "wikilink")2月 - [日本動画協会](https://ja.wikipedia.org/wiki/日本動画協会 "wikilink")に所属。
+  - [2009年](../Page/2009年.md "wikilink")2月 - [日本動画協会](../Page/日本動画協会.md "wikilink")に所属。
   - [2012年](../Page/2012年.md "wikilink") - 有料会員数が10万人を突破
   - [2013年](../Page/2013年.md "wikilink")3月 - 有料会員数が20万人を突破
   - 2013年10月 - 漫画配信を開始
   - [2014年](../Page/2014年.md "wikilink")11月 - 有料会員数が40万人を突破
   - [2015年](../Page/2015年.md "wikilink")10月 - 有料会員数が75万人を突破\[5\]
-  - [2016年](../Page/2016年.md "wikilink")2月 - [住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")と共同で、アニメ作品に投資する[投資ファンド](https://ja.wikipedia.org/wiki/投資ファンド "wikilink")・クランチロールSCアニメファンドを設立\[6\]
+  - [2016年](../Page/2016年.md "wikilink")2月 - [住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")と共同で、アニメ作品に投資する[投資ファンド](../Page/投資ファンド.md "wikilink")・クランチロールSCアニメファンドを設立\[6\]
   - 2016年4月 - [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")と海外向けアニメ配信権の包括許諾を締結\[7\]
   - [2017年](../Page/2017年.md "wikilink")2月 - 有料会員数が100万人を突破\[8\]
   - [2017年](../Page/2017年.md "wikilink")4月 - 日本法人代表取締役ビンセント・ショティーノが退任。以後、米本社CEOクン・ガオが兼任する\[9\]
@@ -108,5 +108,5 @@ Crunchyrollは毎年日本のアニメを対象とした賞「[Crunchyrollアニ
 11. [日本アニメ違法アップロードへの最善策は海外での有料配信](http://ascii.jp/elem/000/000/468/468874/)
 12. [アニメ配信クランチロール、有料会員20万人突破を発表　ウィンドウ多角化が寄与](http://www.animeanime.biz/all/133231/)
 13. [海外向けアニメ配信サイト『クランチロール』有料視聴会員が10万人を突破！](http://prtimes.jp/main/html/rd/p/000000118.000002734.html)
-14. [講談社、漫画英語版を世界配信…雑誌発売と同日](http://www.yomiuri.co.jp/entertainment/news/20131028-OYT1T01042.htm?from=blist) - YOMIURI ONLINE（[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")）
+14. [講談社、漫画英語版を世界配信…雑誌発売と同日](http://www.yomiuri.co.jp/entertainment/news/20131028-OYT1T01042.htm?from=blist) - YOMIURI ONLINE（[読売新聞](../Page/読売新聞.md "wikilink")）
 15.

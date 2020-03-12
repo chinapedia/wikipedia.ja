@@ -1,7 +1,7 @@
 > この記事は[BOMBERMAN Act:Zero](https://ja.wikipedia.org/wiki/BOMBERMAN_Act:Zero)から翻訳されています。
 
 
-『**BOMBERMAN Act:Zero**』（ボンバーマン アクト:ゼロ）は、[ハドソン](../Page/ハドソン.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")に発売された[Xbox 360用アクションゲーム](../Page/Xbox_360.md "wikilink")。
+『**BOMBERMAN Act:Zero**』（ボンバーマン アクト:ゼロ）は、[ハドソン](../Page/ハドソン.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に発売された[Xbox 360用アクションゲーム](../Page/Xbox_360.md "wikilink")。
 
 ## 概要
 

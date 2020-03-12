@@ -3,7 +3,7 @@
 
 『**イースIV The Dawn of Ys**』（イースフォー ザドーンオブイース）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）12月22日に[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE) [SUPER CD-ROM<sup>2</sup>用ソフトとして発売された](../Page/SUPER_CD-ROM2.md "wikilink")。
 
-ファルコムの原案を元に[ハドソン](../Page/ハドソン.md "wikilink")が開発した『[イースIV](../Page/イースIV.md "wikilink")』のオリジナル作品の1つであり、同時期に同原案から開発された『IV』のオリジナル作品としては[トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")による『[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")』（[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")）がある。
+ファルコムの原案を元に[ハドソン](../Page/ハドソン.md "wikilink")が開発した『[イースIV](../Page/イースIV.md "wikilink")』のオリジナル作品の1つであり、同時期に同原案から開発された『IV』のオリジナル作品としては[トンキンハウス](../Page/トンキンハウス.md "wikilink")による『[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")』（[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")）がある。
 
 本稿ではゲーム作品『イースIV The Dawn of Ys』に関する記述を中心とし、シリーズや『イースIV』の全体像については原則として扱わない。これらの詳細については[イースシリーズ](../Page/イースシリーズ.md "wikilink")および[イースIV](../Page/イースIV.md "wikilink")を参照。
 
@@ -13,9 +13,9 @@
 
 『IV』開発の発端であり（詳細は[イースIV\#開発経緯](https://ja.wikipedia.org/wiki/イースIV#開発経緯 "wikilink")を参照）、ハドソンとファルコムが密に連絡を取り合って開発が進められた\[1\]事から、発売当時はこちらが『イースIV』の正史という扱いであった\[2\]。しかし[2003年](../Page/2003年.md "wikilink")（平成15年）に発売された『[イースVI ナピシュテムの匣](../Page/イースVI.md "wikilink")』開発時に行われたシリーズ設定総括後の公式設定では、SFC版を正史として本作をアナザーストーリーと位置づけている\[3\]\[4\]。
 
-本作はPCE版『I・II』の続編として制作されているため、サラが生存している、フィーナとレアが再登場する、ダルク＝ファクトの設定などといった、オリジナルの『[I](https://ja.wikipedia.org/wiki/イースI "wikilink")』・『[II](https://ja.wikipedia.org/wiki/イースII "wikilink")』の設定とは矛盾が見られる\[5\]。
+本作はPCE版『I・II』の続編として制作されているため、サラが生存している、フィーナとレアが再登場する、ダルク＝ファクトの設定などといった、オリジナルの『[I](https://ja.wikipedia.org/wiki/イースI "wikilink")』・『[II](../Page/イースII.md "wikilink")』の設定とは矛盾が見られる\[5\]。
 
-[2011年](../Page/2011年.md "wikilink")（平成23年）[7月6日](../Page/7月6日.md "wikilink")より[PlayStation 3と](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PlayStation Portable向けの](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")において[エミュレート版が配信されている](../Page/エミュレータ_\(コンピュータ\).md "wikilink")。
+[2011年](../Page/2011年.md "wikilink")（平成23年）[7月6日](../Page/7月6日.md "wikilink")より[PlayStation 3と](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PlayStation Portable向けの](../Page/PlayStation_Portable.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")において[エミュレート版が配信されている](../Page/エミュレータ_\(コンピュータ\).md "wikilink")。
 
 ## 開発スタッフ
 
@@ -30,7 +30,7 @@
   - デザインチーフ：松田泰一
   - ビジュアル監修：松田泰一、土江達也
   - キャラクターデザイン：[宝谷幸稔](../Page/宝谷幸稔.md "wikilink")
-  - 原画監修：[芦田豊雄](https://ja.wikipedia.org/wiki/芦田豊雄 "wikilink")
+  - 原画監修：[芦田豊雄](../Page/芦田豊雄.md "wikilink")
   - 作画監督：[竹内浩志](../Page/竹内浩志.md "wikilink")
   - 総監督：松永智史
 
@@ -132,7 +132,7 @@ etc.
 ### セルセタの人物
 
   - カーナ
-    声 - [冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+    声 - [冬馬由美](../Page/冬馬由美.md "wikilink")
     本作のヒロインの一人。セルセタに住む活発な少女で、魔物や兵士を撃退できる実力者。火の村アリエダの樹海警備隊長。
   - リーザ
     声 - [白鳥由里](../Page/白鳥由里.md "wikilink")
@@ -141,7 +141,7 @@ etc.
     声 - [池田秀一](../Page/池田秀一.md "wikilink")
     有翼人の最後の生き残り。かつての有翼人の栄光に憧れ、闇の一族の誘いに乗って古代文明を復活させる。
   - レムノス
-    声 - [広中雅志](https://ja.wikipedia.org/wiki/広中雅志 "wikilink")
+    声 - [広中雅志](../Page/広中雅志.md "wikilink")
     カーナと同じ村に住んでいる青年。失踪中。闇の一族に魔物にされており、両機種において最初に戦うボスキャラ。
   - レファンス
     声 - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
@@ -149,18 +149,18 @@ etc.
   - 五忠臣
     レファンスに仕え、共にセルセタの危機を救った英雄達。スラノ、タリム、ミーユ、ラディー、トリエの5人。
   - 三賢者
-    大樹ロダのラメス、ヴェヌスの廃村のエンゾ、聖母の洞窟のアリア（声 - [江森浩子](https://ja.wikipedia.org/wiki/江森浩子 "wikilink")）の3人。セルセタの危機を救うべく選ばれた人間に、セルセタの古代史を語る役目を持つ。
+    大樹ロダのラメス、ヴェヌスの廃村のエンゾ、聖母の洞窟のアリア（声 - [江森浩子](../Page/江森浩子.md "wikilink")）の3人。セルセタの危機を救うべく選ばれた人間に、セルセタの古代史を語る役目を持つ。
   - ティム
-    声 - [川島千代子](https://ja.wikipedia.org/wiki/川島千代子 "wikilink")
+    声 - [川島千代子](../Page/川島千代子.md "wikilink")
     水の村リブラで、祖父のジェフ（声 - [掛川裕彦](../Page/掛川裕彦.md "wikilink")）との2人で暮らす活発な少年。物語中盤において、魔物に捕まったり奇病に冒されたりとアドルの手を煩わせる。
 
 ### 闇の一族
 
   - グルーダ
-    声 - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
+    声 - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
     闇の一族。3人組のリーダー。野望の為にロムン帝国とエルディールを利用する。
   - バミー
-    声 - [滝沢久美子](https://ja.wikipedia.org/wiki/滝沢久美子 "wikilink")
+    声 - [滝沢久美子](../Page/滝沢久美子.md "wikilink")
     闇の一族。3人組の紅一点。様々な物質を魔物に変える力を持つ。
   - ガディス
     声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
@@ -173,8 +173,8 @@ etc.
 ### エステリアの人物
 
   - フレア・ラル
-    声 - [戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
-    『[II](https://ja.wikipedia.org/wiki/イースII "wikilink")』から登場。ランスの村の医者。薬の原料を求めセルセタに渡っている。
+    声 - [戸谷公次](../Page/戸谷公次.md "wikilink")
+    『[II](../Page/イースII.md "wikilink")』から登場。ランスの村の医者。薬の原料を求めセルセタに渡っている。
   - リリア
     声 - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
     ランスの村に住む少女。『II』のヒロイン。アドルがエステリアに帰った際に再会する。
@@ -184,13 +184,13 @@ etc.
   - サラ・トバ
     『I』から登場。ミネアの町に住む占い師。エステリアに戻ったアドルにセルセタの異変を告げる。
   - ゴーバン
-    声 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+    声 - [郷里大輔](../Page/郷里大輔.md "wikilink")
     『I』から登場。元盗賊でドギはそのときの子分だが本作では取引所を開業している。
   - キース・ファクト
-    声 - [堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
+    声 - [堀秀行](../Page/堀秀行.md "wikilink")
     『II』から登場。ガディスに再び魔物にされ、ダームの塔でアドルと戦う。
   - フィーナ
-    声 - [渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")
+    声 - [渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
     イースの女神の1人。
   - レア
     声 - [萩森侚子](https://ja.wikipedia.org/wiki/萩森侚子 "wikilink")
@@ -199,7 +199,7 @@ etc.
 ### その他
 
   - デュレン
-    声 - [石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")
+    声 - [石丸博也](../Page/石丸博也.md "wikilink")
     情報屋。元闇の一族でグルーダ達との因縁が明らかとなる。
   - レオ
     声 - [青野武](../Page/青野武.md "wikilink")
@@ -215,7 +215,7 @@ etc.
 <div class="references-small">
 
   - 『イースIV冒険ガイドブック』小学館、1994年1月10日初版第1刷発行、ISBN 4-09-102463-7
-  - 『イース大全集 -Perfect Date of I〜VI-』[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、2003年11月20日初版発行、ISBN 978-4-84-022531-1
+  - 『イース大全集 -Perfect Date of I〜VI-』[メディアワークス](../Page/メディアワークス.md "wikilink")、2003年11月20日初版発行、ISBN 978-4-84-022531-1
   - 『日本ファルコム30周年公式記念本 Falcom Chronicle』[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2011年11月8日初版発行、ISBN 978-4-04-870774-9
 
 </div>
@@ -234,4 +234,4 @@ etc.
 2.
 3.  「イースIV」『イース大全集』14-15頁
 4.  「『イース』シリーズ移植作品リスト」『イース大全集』20-21頁
-5.  前述のシリーズ設定総括後の公式設定では、フィーナとレアを含めた有翼人は、それぞれの使命（フィーナとレアでいえば、ダームを封印すること）を果たした後に昇華することとなったため、ダームが封印された後のストーリーであるにもかかわらず、フィーナとレアが登場する本作はアナザーストーリーとされてしまった。なお、この措置により宙に浮いた格好となったダルク＝ファクトの出自を明らかにするために『[イース・オリジン](https://ja.wikipedia.org/wiki/イース・オリジン "wikilink")』を制作することになる。
+5.  前述のシリーズ設定総括後の公式設定では、フィーナとレアを含めた有翼人は、それぞれの使命（フィーナとレアでいえば、ダームを封印すること）を果たした後に昇華することとなったため、ダームが封印された後のストーリーであるにもかかわらず、フィーナとレアが登場する本作はアナザーストーリーとされてしまった。なお、この措置により宙に浮いた格好となったダルク＝ファクトの出自を明らかにするために『[イース・オリジン](../Page/イース・オリジン.md "wikilink")』を制作することになる。

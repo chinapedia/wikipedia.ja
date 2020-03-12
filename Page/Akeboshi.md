@@ -7,13 +7,13 @@
 
 ## 概要
 
-[2000年](../Page/2000年.md "wikilink")より本格的な音楽活動を開始。[2002年](../Page/2002年.md "wikilink")に[ミニアルバム](../Page/アルバム.md "wikilink")『[STONED TOWN](https://ja.wikipedia.org/wiki/STONED_TOWN "wikilink")』で[インディーズ](../Page/インディーズ.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した後、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『Akeboshi』で[EPIC RECORDS JAPANより](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[フォークサウンドをベースに](../Page/フォークソング.md "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")や[アイリッシュトラッドを融合させた音楽で支持を集める](https://ja.wikipedia.org/wiki/世界の民謡一覧 "wikilink")。自身の活動のほか、CMや映画、他アーティストの[楽曲プロデュースなども手掛ける](../Page/音楽プロデューサー.md "wikilink")。[2009年](../Page/2009年.md "wikilink")の映画『[ぐるりのこと。](../Page/ぐるりのこと。.md "wikilink")』DVD発売記念イベントの出演以降は表立った音楽活動を行っていなかったが、[2011年](../Page/2011年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に開催されたライブ情報の発表を皮切りに活動を再開した。[2012年](../Page/2012年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、自主レーベル・RoofTop Owlの発足を発表した。
+[2000年](../Page/2000年.md "wikilink")より本格的な音楽活動を開始。[2002年](../Page/2002年.md "wikilink")に[ミニアルバム](../Page/アルバム.md "wikilink")『[STONED TOWN](https://ja.wikipedia.org/wiki/STONED_TOWN "wikilink")』で[インディーズ](../Page/インディーズ.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した後、[2005年](../Page/2005年.md "wikilink")に[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『Akeboshi』で[EPIC RECORDS JAPANより](../Page/エピックレコードジャパン.md "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[フォークサウンドをベースに](../Page/フォークソング.md "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")や[アイリッシュトラッドを融合させた音楽で支持を集める](../Page/世界の民謡一覧.md "wikilink")。自身の活動のほか、CMや映画、他アーティストの[楽曲プロデュースなども手掛ける](../Page/音楽プロデューサー.md "wikilink")。[2009年](../Page/2009年.md "wikilink")の映画『[ぐるりのこと。](../Page/ぐるりのこと。.md "wikilink")』DVD発売記念イベントの出演以降は表立った音楽活動を行っていなかったが、[2011年](../Page/2011年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に開催されたライブ情報の発表を皮切りに活動を再開した。[2012年](../Page/2012年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、自主レーベル・RoofTop Owlの発足を発表した。
 
 ## 略歴
 
 3歳から[クラシック](../Page/クラシック音楽.md "wikilink")[ピアノ](../Page/ピアノ.md "wikilink")を習い始める。その後、[ギター](../Page/ギター.md "wikilink")も習得する。8〜9歳の頃、[ニュージーランド](../Page/ニュージーランド.md "wikilink")で生活する。この頃、[U2](../Page/U2.md "wikilink")に影響を受け[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を聴くようになる\[1\]。
 
-13歳から[バンド活動を始め](../Page/バンド_\(音楽\).md "wikilink")、[ハードコアバンドではギターを](../Page/ハードコア・パンク.md "wikilink")、[オールディーズ](https://ja.wikipedia.org/wiki/オールディーズ "wikilink")バンドではボーカルを主に担当する\[2\]。[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")での弾き語りや、英語劇「LABO」への参加も行う\[3\]。
+13歳から[バンド活動を始め](../Page/バンド_\(音楽\).md "wikilink")、[ハードコアバンドではギターを](../Page/ハードコア・パンク.md "wikilink")、[オールディーズ](../Page/オールディーズ.md "wikilink")バンドではボーカルを主に担当する\[2\]。[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")での弾き語りや、英語劇「LABO」への参加も行う\[3\]。
 
 **[1999年](../Page/1999年.md "wikilink")**
 
@@ -25,23 +25,23 @@
 
 **[2002年](../Page/2002年.md "wikilink")**
 
-  - [8月8日](../Page/8月8日.md "wikilink")、ミニアルバム『STONED TOWN』を発売し、デビュー。リードトラック「Wind」がテレビアニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』のエンディングテーマに起用され、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位31位を記録。25週ランクインのロングセールスとなり、10万枚以上の売り上げを記録。[小林政広](../Page/小林政広.md "wikilink")による同名のショートフィルムも制作された。
+  - [8月8日](../Page/8月8日.md "wikilink")、ミニアルバム『STONED TOWN』を発売し、デビュー。リードトラック「Wind」がテレビアニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』のエンディングテーマに起用され、[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位31位を記録。25週ランクインのロングセールスとなり、10万枚以上の売り上げを記録。[小林政広](../Page/小林政広.md "wikilink")による同名のショートフィルムも制作された。
 
 **[2003年](../Page/2003年.md "wikilink")**
 
-  - [5月13日](../Page/5月13日.md "wikilink")、2枚目のミニアルバム『White reply』を、『White reply -limited edition-』として、[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店およびオンラインショップTOWER@JPにて1,000枚限定発売。[6月18日](../Page/6月18日.md "wikilink")、『White reply』を全国発売。[北條民雄へのオマージュとして](https://ja.wikipedia.org/wiki/北条民雄 "wikilink")、また「メッセージ」と「実験」をテーマに制作され、ジャケットは親交の深い[画家](../Page/画家.md "wikilink")の松岡亮が手掛ける。7月、LIPAを卒業し帰国。
+  - [5月13日](../Page/5月13日.md "wikilink")、2枚目のミニアルバム『White reply』を、『White reply -limited edition-』として、[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店およびオンラインショップTOWER@JPにて1,000枚限定発売。[6月18日](../Page/6月18日.md "wikilink")、『White reply』を全国発売。[北條民雄へのオマージュとして](../Page/北条民雄.md "wikilink")、また「メッセージ」と「実験」をテーマに制作され、ジャケットは親交の深い[画家](../Page/画家.md "wikilink")の松岡亮が手掛ける。7月、LIPAを卒業し帰国。
   - 7月27日、[FUJI ROCK FESTIVAL '03に出演](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")。10月5日、[FM NORTH WAVEにて](../Page/エフエム・ノースウェーブ.md "wikilink")、初のラジオレギュラー番組『Across The River』が放送開始。
 
 **[2004年](../Page/2004年.md "wikilink")**
 
-  - [3月10日](../Page/3月10日.md "wikilink")、3枚目のミニアルバム『Faerie Punks』を発売。[8月14日](../Page/8月14日.md "wikilink")、[RISING SUN ROCK FESTIVAL 2004 in Ezoに出演](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")。
+  - [3月10日](../Page/3月10日.md "wikilink")、3枚目のミニアルバム『Faerie Punks』を発売。[8月14日](../Page/8月14日.md "wikilink")、[RISING SUN ROCK FESTIVAL 2004 in Ezoに出演](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")。
   - [9月1日](../Page/9月1日.md "wikilink")、松たか子がシングル「時の舟」を発表。同作品において楽曲提供と[音楽プロデュースを手掛け](../Page/音楽プロデューサー.md "wikilink")、他アーティストへの本格的な音楽プロデュースを展開。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - [6月22日](../Page/6月22日.md "wikilink")、初のフルアルバム『Akeboshi』を発売し、メジャーデビュー。[10月19日](../Page/10月19日.md "wikilink")、自身初のシングル『Rusty lance』を発売。同日より自身の公式[ブログ](../Page/ブログ.md "wikilink")『Akeboshi Diary』が開始。
 
-**[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")**
+**[2006年](../Page/2006年.md "wikilink")**
 
   - [4月19日](../Page/4月19日.md "wikilink")、4枚目のミニアルバム『Yellow Moon』を発売。シンガーソングライターの[井上陽水](../Page/井上陽水.md "wikilink")とのコラボレーションを行う。
 
@@ -300,7 +300,7 @@ DLCL-3:通常盤</p></td>
 <li>Faerie Punks 【作詞作曲編曲:Akeboshi】</li>
 <li>Morning High 【作詞作曲編曲:Akeboshi】</li>
 <li>Tall Boy 【作詞作曲編曲:Akeboshi】</li>
-<li>The Audience 【作詞:<a href="https://ja.wikipedia.org/wiki/マシュー・ハーバート" title="wikilink">Herbert</a>/作曲:Herbert,<a href="https://ja.wikipedia.org/wiki/w:en:Dani_Siciliano" title="wikilink">Dani Siciliano</a>,Phil Parnell/編曲:Akeboshi】</li>
+<li>The Audience 【作詞:<a href="../Page/マシュー・ハーバート.md" title="wikilink">Herbert</a>/作曲:Herbert,<a href="https://ja.wikipedia.org/wiki/w:en:Dani_Siciliano" title="wikilink">Dani Siciliano</a>,Phil Parnell/編曲:Akeboshi】</li>
 <li>神様の舌打ち 【作詞作曲編曲:Akeboshi】</li>
 </ol>
 <p>初回プレス盤デジパックケース仕様、<a href="../Page/HMV.md" title="wikilink">HMV</a>予約購入限定直筆サイン入りスリーブケース付仕様</p></td>
@@ -418,8 +418,8 @@ ESCL-3067:通常盤</p></td>
 
 ### 配信限定曲
 
-  - Yellow Moon (cold summer mix)（2006年[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")）
-      - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")・[mora win](https://ja.wikipedia.org/wiki/mora_win "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")配信
+  - Yellow Moon (cold summer mix)（2006年[5月3日](../Page/5月3日.md "wikilink")）
+      - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")・[mora win](https://ja.wikipedia.org/wiki/mora_win "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](../Page/着うたフル.md "wikilink")配信
   - 15.7447113 Years（2018年[12月24日](../Page/12月24日.md "wikilink")）
       - 各種ダウンロードおよびストリーミングサイトで配信
       - 下田ひかりの個展「死と再生のカタストロフィ」への提供楽曲
@@ -435,14 +435,14 @@ ESCL-3067:通常盤</p></td>
 
 ### 参加作品
 
-| 発売日                                                          | タイトル                                         | 規格品番      | 収録曲                                           | 備考                                                            |
-| ------------------------------------------------------------ | -------------------------------------------- | --------- | --------------------------------------------- | ------------------------------------------------------------- |
-| 2004年[8月4日](../Page/8月4日.md "wikilink")                      | **NARUTO -ナルト- BEST HIT COLLECTION**         | SVWC-7208 | M-2「Wind」収録                                   | アニプレックス                                                       |
-| 2005年[4月6日](../Page/4月6日.md "wikilink")                      | **authentica mellow**                        | SRCL-5896 | M-13「Hey There」収録                             | gr8\! records                                                 |
-| 2007年8月22日                                                   | **WHITE MEXICO オリジナル・サウンドトラック**              | ESCL-2959 | M-11「Along The Line -WHITE MEXICO version-」収録 | Epic                                                          |
-| 2008年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") | **NARUTO -ナルト- BEST HIT COLLECTION 2**       | SVWC-7571 | M-13「Yellow Moon」収録                           | アニプレックス                                                       |
-| 2012年[3月11日](../Page/3月11日.md "wikilink")                    | **震災復興支援コンピレーション PLAY FOR JAPAN 2012 vol.4** |           | M-7「Standing on the line」収録                   | [OTOTOY](https://ja.wikipedia.org/wiki/OTOTOY "wikilink")配信限定 |
-|                                                              |                                              |           |                                               |                                                               |
+| 発売日                                       | タイトル                                         | 規格品番      | 収録曲                                           | 備考                                                            |
+| ----------------------------------------- | -------------------------------------------- | --------- | --------------------------------------------- | ------------------------------------------------------------- |
+| 2004年[8月4日](../Page/8月4日.md "wikilink")   | **NARUTO -ナルト- BEST HIT COLLECTION**         | SVWC-7208 | M-2「Wind」収録                                   | アニプレックス                                                       |
+| 2005年[4月6日](../Page/4月6日.md "wikilink")   | **authentica mellow**                        | SRCL-5896 | M-13「Hey There」収録                             | gr8\! records                                                 |
+| 2007年8月22日                                | **WHITE MEXICO オリジナル・サウンドトラック**              | ESCL-2959 | M-11「Along The Line -WHITE MEXICO version-」収録 | Epic                                                          |
+| 2008年[7月23日](../Page/7月23日.md "wikilink") | **NARUTO -ナルト- BEST HIT COLLECTION 2**       | SVWC-7571 | M-13「Yellow Moon」収録                           | アニプレックス                                                       |
+| 2012年[3月11日](../Page/3月11日.md "wikilink") | **震災復興支援コンピレーション PLAY FOR JAPAN 2012 vol.4** |           | M-7「Standing on the line」収録                   | [OTOTOY](https://ja.wikipedia.org/wiki/OTOTOY "wikilink")配信限定 |
+|                                           |                                              |           |                                               |                                                               |
 
 ### 参加楽曲
 
@@ -459,7 +459,7 @@ ESCL-3067:通常盤</p></td>
   - [つばき](../Page/つばき_\(ロックバンド\).md "wikilink")
       - 「光 〜hikari〜 (Akeboshi Piano Version)」（2008年、編曲・ピアノ演奏担当）
       - 「光 〜hikari〜 (Akeboshi Remix)」（2008年、リミックス担当）
-  - [堂珍嘉邦](https://ja.wikipedia.org/wiki/堂珍嘉邦 "wikilink")
+  - [堂珍嘉邦](../Page/堂珍嘉邦.md "wikilink")
       - 「[未来ハンモック](https://ja.wikipedia.org/wiki/OUT_THE_BOX "wikilink")」（2013年、作曲担当）
   - [mouse on the keys](https://ja.wikipedia.org/wiki/mouse_on_the_keys "wikilink")
       - 「The Lonely Crowd」（2015年、声）
@@ -480,16 +480,16 @@ ESCL-3067:通常盤</p></td>
 
 ## タイアップ
 
-| 曲名                       | タイアップ                                                                                                                                                          |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wind                     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』初代エンディングテーマ          |
-| Yellow Moon              | テレビ東京系アニメ『NARUTO -ナルト-』13代目エンディングテーマ                                                                                                                           |
-| Along the Line           | CineMusica『WHITE MEXICO』主題歌                                                                                                                                    |
-| Peruna                   | ビターズ・エンド配給映画『[ぐるりのこと。](../Page/ぐるりのこと。.md "wikilink")』主題歌                                                                                                      |
-| Usual life_Special Ver. | [松竹ブロードキャスティング](https://ja.wikipedia.org/wiki/松竹ブロードキャスティング "wikilink") / アーク・フィルムズ配給映画『[恋人たち](https://ja.wikipedia.org/wiki/恋人たち_\(2015年の映画\) "wikilink")』主題歌 |
-| Tiny Rainbow             | [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")『GREEN LINE』2015年オフィシャルキャンペーンソング                                                                  |
-| 点と線                      | 松竹ブロードキャスティング / ビターズ・エンド配給映画『[鈴木家の嘘](https://ja.wikipedia.org/wiki/鈴木家の嘘 "wikilink")』主題歌                                                                       |
-|                          |                                                                                                                                                                |
+| 曲名                       | タイアップ                                                                                                                                                 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wind                     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』初代エンディングテーマ |
+| Yellow Moon              | テレビ東京系アニメ『NARUTO -ナルト-』13代目エンディングテーマ                                                                                                                  |
+| Along the Line           | CineMusica『WHITE MEXICO』主題歌                                                                                                                           |
+| Peruna                   | ビターズ・エンド配給映画『[ぐるりのこと。](../Page/ぐるりのこと。.md "wikilink")』主題歌                                                                                             |
+| Usual life_Special Ver. | [松竹ブロードキャスティング](../Page/松竹ブロードキャスティング.md "wikilink") / アーク・フィルムズ配給映画『[恋人たち](https://ja.wikipedia.org/wiki/恋人たち_\(2015年の映画\) "wikilink")』主題歌           |
+| Tiny Rainbow             | [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")『GREEN LINE』2015年オフィシャルキャンペーンソング                                                         |
+| 点と線                      | 松竹ブロードキャスティング / ビターズ・エンド配給映画『[鈴木家の嘘](https://ja.wikipedia.org/wiki/鈴木家の嘘 "wikilink")』主題歌                                                              |
+|                          |                                                                                                                                                       |
 
 ## CM
 
@@ -503,11 +503,11 @@ ESCL-3067:通常盤</p></td>
       - 「劇的なリビング」編
   - [Sony](https://ja.wikipedia.org/wiki/Sony "wikilink") make.believe（2012年3月、作詞、作曲、演奏）
       - 「SCREEN STORY」編
-  - [大塚食品](https://ja.wikipedia.org/wiki/大塚食品 "wikilink") sinvino JAVATEA（2012年4月、作曲、演奏）
+  - [大塚食品](../Page/大塚食品.md "wikilink") sinvino JAVATEA（2012年4月、作曲、演奏）
       - 「PLAY TABLE」編
   - [ユニクロ](../Page/ユニクロ.md "wikilink") AIRism（2012年3月、歌、作詞　作曲は[福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink")（YEN CHANG））
-      - 「[AIRism](https://ja.wikipedia.org/wiki/AIRism "wikilink") [綾野剛](https://ja.wikipedia.org/wiki/綾野剛 "wikilink")」編
-  - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")[REGZA](https://ja.wikipedia.org/wiki/レグザ "wikilink")
+      - 「[AIRism](https://ja.wikipedia.org/wiki/AIRism "wikilink") [綾野剛](../Page/綾野剛.md "wikilink")」編
+  - [東芝](../Page/東芝.md "wikilink")[REGZA](../Page/レグザ.md "wikilink")
       - 「海のうえで」篇
   - [ANA](https://ja.wikipedia.org/wiki/ANA "wikilink") [平昌2018オリンピック冬季競技大会](https://ja.wikipedia.org/wiki/2018年平昌オリンピック "wikilink")（WEB限定CM）
       - 「[羽生選手](https://ja.wikipedia.org/wiki/羽生結弦 "wikilink")」編
@@ -531,7 +531,7 @@ ESCL-3067:通常盤</p></td>
 
 ### テレビ番組
 
-  - Akeboshi Document Special 〜Visiting Liverpool & Ireland〜（[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")、2007年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）
+  - Akeboshi Document Special 〜Visiting Liverpool & Ireland〜（[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")、2007年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）
 
 ### ラジオ番組
 

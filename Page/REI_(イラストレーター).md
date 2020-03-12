@@ -36,7 +36,7 @@
 
 ### 連載
 
-  - パステルポスト（[マンガノベル](https://ja.wikipedia.org/wiki/マンガノベル "wikilink")） - [ウェブコミック](https://ja.wikipedia.org/wiki/ウェブコミック "wikilink") [2007年](../Page/2007年.md "wikilink") – [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 連載
+  - パステルポスト（[マンガノベル](https://ja.wikipedia.org/wiki/マンガノベル "wikilink")） - [ウェブコミック](../Page/ウェブコミック.md "wikilink") [2007年](../Page/2007年.md "wikilink") – [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 連載
   - [E☆2](../Page/E☆2.md "wikilink")のイラストコラム「萌えっ娘写真館」連載
 
 ### その他

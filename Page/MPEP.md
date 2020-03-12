@@ -1,7 +1,7 @@
 > この記事は[MPEP](https://ja.wikipedia.org/wiki/MPEP)から翻訳されています。
 
 
-**MPEP**（Manual of Patent Examining Procedure）とは、[アメリカ合衆国特許商標庁](https://ja.wikipedia.org/wiki/アメリカ合衆国特許商標庁 "wikilink")（USPTO）の[審査官が審査手続を進めるための審査基準](https://ja.wikipedia.org/wiki/審査官_\(特許庁\) "wikilink")・便覧のことである。日本の[特許庁](../Page/特許庁.md "wikilink")にも『[特許・実用新案審査基準](https://ja.wikipedia.org/wiki/特許・実用新案審査基準 "wikilink")』という審査基準が存在する。2017年10月現在、2015年11月の第9版が最新版となっている\[1\]。USPTOは、MPEPの改善のため、第三者によるオンラインコメントを受け付けるポータルサイトを設けている\[2\]。
+**MPEP**（Manual of Patent Examining Procedure）とは、[アメリカ合衆国特許商標庁](https://ja.wikipedia.org/wiki/アメリカ合衆国特許商標庁 "wikilink")（USPTO）の[審査官が審査手続を進めるための審査基準](../Page/審査官_\(特許庁\).md "wikilink")・便覧のことである。日本の[特許庁](../Page/特許庁.md "wikilink")にも『[特許・実用新案審査基準](../Page/特許・実用新案審査基準.md "wikilink")』という審査基準が存在する。2017年10月現在、2015年11月の第9版が最新版となっている\[1\]。USPTOは、MPEPの改善のため、第三者によるオンラインコメントを受け付けるポータルサイトを設けている\[2\]。
 
 ## 関連項目
 

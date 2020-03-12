@@ -1,9 +1,9 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCユトレヒト**（**Football Club Utrecht**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[ユトレヒト州](https://ja.wikipedia.org/wiki/ユトレヒト州 "wikilink")・[ユトレヒト](https://ja.wikipedia.org/wiki/ユトレヒト "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**FCユトレヒト**（**Football Club Utrecht**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[ユトレヒト州](../Page/ユトレヒト州.md "wikilink")・[ユトレヒト](../Page/ユトレヒト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-DOS、USVエリンクヴァイク (*USV Elinkwijk*)、フェロックス (*Velox*) の3クラブが合併して[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に創設された。DOSは1957-58シーズンにリーグ優勝の経験がある。合併以降のリーグ戦での最高順位は1980-81シーズンの3位。タイトルはカップ戦優勝3回とスーパーカップ優勝1回。
+DOS、USVエリンクヴァイク (*USV Elinkwijk*)、フェロックス (*Velox*) の3クラブが合併して[1970年](../Page/1970年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に創設された。DOSは1957-58シーズンにリーグ優勝の経験がある。合併以降のリーグ戦での最高順位は1980-81シーズンの3位。タイトルはカップ戦優勝3回とスーパーカップ優勝1回。
 
 ## タイトル
 
@@ -165,7 +165,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">フランクフルト</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–3</p></td>
 <td><p>'''3–4</p></td>
@@ -177,7 +177,7 @@ PlotData=
 <td><p>1981-82</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1980-81" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガーSV</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガーSV</a></p></td>
 <td><p>3–6</p></td>
 <td><p>1–0</p></td>
 <td><p>'''4–6</p></td>
@@ -187,7 +187,7 @@ PlotData=
 <td><p>1982-83</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1982-83" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0–3</p></td>
@@ -197,7 +197,7 @@ PlotData=
 <td><p>1985-86</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1985-86" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''3–5</p></td>
@@ -285,7 +285,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AJオセール" title="wikilink">オセール</a></p></td>
+<td><p><a href="../Page/AJオセール.md" title="wikilink">オセール</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–4</p></td>
 <td><p>'''0–4</p></td>
@@ -305,7 +305,7 @@ PlotData=
 </tr>
 <tr class="even">
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・サラゴサ" title="wikilink">サラゴサ</a></p></td>
+<td><p><a href="../Page/レアル・サラゴサ.md" title="wikilink">サラゴサ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-2</p></td>
 <td><p>'''5位</p></td>
@@ -324,7 +324,7 @@ PlotData=
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-1</p></td>
 <td></td>
@@ -334,7 +334,7 @@ PlotData=
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン" title="wikilink">アウストリア・ウィーン</a></p></td>
+<td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>1-2</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
@@ -375,7 +375,7 @@ PlotData=
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルティックFC" title="wikilink">セルティック</a></p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>4–0</p></td>
 <td><p>0–2</p></td>
 <td><p>'''4–2</p></td>
@@ -404,7 +404,7 @@ PlotData=
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト" title="wikilink">ステアウア・ブカレスト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–3</p></td>
 <td></td>
@@ -476,7 +476,7 @@ PlotData=
 
 ## 歴代監督
 
-  - [ハン・ベルガー](https://ja.wikipedia.org/wiki/ハン・ベルガー "wikilink") 1976-1983
+  - [ハン・ベルガー](../Page/ハン・ベルガー.md "wikilink") 1976-1983
 
   - [フランス・アデラール](https://ja.wikipedia.org/wiki/フランス・アデラール "wikilink") 2000-2002
 
@@ -488,7 +488,7 @@ PlotData=
 
   - [エルウィン・クーマン](../Page/エルウィン・クーマン.md "wikilink") 2011
 
-  - [ヤン・ボウタース](https://ja.wikipedia.org/wiki/ヤン・ボウタース "wikilink") 2011-2014
+  - [ヤン・ボウタース](../Page/ヤン・ボウタース.md "wikilink") 2011-2014
 
   - [ロブ・アルフレン](https://ja.wikipedia.org/wiki/ロブ・アルフレン "wikilink") 2014-2015
 
@@ -496,13 +496,13 @@ PlotData=
 
   - [ジャン＝パウル・デ・ヨング](https://ja.wikipedia.org/wiki/ジャン＝パウル・デ・ヨング "wikilink") 2017-2018
 
-  - [ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink") 2018-2019
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 2018-2019
 
   - [ジョン・ファン・デン・ブロム](https://ja.wikipedia.org/wiki/ジョン・ファン・デン・ブロム "wikilink") 2019-
 
 ## 歴代所属選手
 
-  - [ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink") 1983-1984
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 1983-1984
 
   - [コー・アドリアーンセ](https://ja.wikipedia.org/wiki/コー・アドリアーンセ "wikilink") 1970-1976
 
@@ -518,15 +518,15 @@ PlotData=
 
   - [ハンス・ファン・デ・ハール](https://ja.wikipedia.org/wiki/ハンス・ファン・デ・ハール "wikilink")
 
-  - [パトリック・ズワンズワイク](https://ja.wikipedia.org/wiki/パトリック・ズワンズワイク "wikilink") 1998-2004
+  - [パトリック・ズワンズワイク](../Page/パトリック・ズワンズワイク.md "wikilink") 1998-2004
 
   - [テオ・ルシウス](../Page/テオ・ルシウス.md "wikilink") 1999-2000
 
-  - [ジェラルド・ファネンブルグ](https://ja.wikipedia.org/wiki/ジェラルド・ファネンブルグ "wikilink")
+  - [ジェラルド・ファネンブルグ](../Page/ジェラルド・ファネンブルグ.md "wikilink")
 
-  - [ヤン・ボウタース](https://ja.wikipedia.org/wiki/ヤン・ボウタース "wikilink") 1980-1996
+  - [ヤン・ボウタース](../Page/ヤン・ボウタース.md "wikilink") 1980-1996
 
-  - [ディルク・カイト](https://ja.wikipedia.org/wiki/ディルク・カイト "wikilink") 1998-2003
+  - [ディルク・カイト](../Page/ディルク・カイト.md "wikilink") 1998-2003
 
   - [藤田俊哉](https://ja.wikipedia.org/wiki/藤田俊哉 "wikilink") 2003
 

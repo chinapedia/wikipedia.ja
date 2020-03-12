@@ -10,11 +10,11 @@
 
 </div>
 
-**ファイアーエムブレムTCG**（*FIRE EMBLEM: Trading Card Game*）は、[2001年](../Page/2001年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")まで[NTT出版](https://ja.wikipedia.org/wiki/NTT出版 "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売していた[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")である。
+**ファイアーエムブレムTCG**（*FIRE EMBLEM: Trading Card Game*）は、[2001年](../Page/2001年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")まで[NTT出版](../Page/NTT出版.md "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売していた[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")である。
 
 ## 概要
 
-[任天堂](../Page/任天堂.md "wikilink")（開発・[インテリジェントシステムズ](https://ja.wikipedia.org/wiki/インテリジェントシステムズ "wikilink")）の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")・[ファイアーエムブレム](https://ja.wikipedia.org/wiki/ファイアーエムブレム "wikilink")シリーズ中、第1〜4弾は第4作『[聖戦の系譜](https://ja.wikipedia.org/wiki/ファイアーエムブレム_聖戦の系譜 "wikilink")』及び第5作『[トラキア776](https://ja.wikipedia.org/wiki/ファイアーエムブレム_トラキア776 "wikilink")』、第5・6弾は第1作『[暗黒竜と光の剣](https://ja.wikipedia.org/wiki/ファイアーエムブレム_暗黒竜と光の剣 "wikilink")』、第3作『[紋章の謎](https://ja.wikipedia.org/wiki/ファイアーエムブレム_紋章の謎 "wikilink")』を題材にしている。
+[任天堂](../Page/任天堂.md "wikilink")（開発・[インテリジェントシステムズ](../Page/インテリジェントシステムズ.md "wikilink")）の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")・[ファイアーエムブレム](../Page/ファイアーエムブレム.md "wikilink")シリーズ中、第1〜4弾は第4作『[聖戦の系譜](../Page/ファイアーエムブレム_聖戦の系譜.md "wikilink")』及び第5作『[トラキア776](../Page/ファイアーエムブレム_トラキア776.md "wikilink")』、第5・6弾は第1作『[暗黒竜と光の剣](../Page/ファイアーエムブレム_暗黒竜と光の剣.md "wikilink")』、第3作『[紋章の謎](../Page/ファイアーエムブレム_紋章の謎.md "wikilink")』を題材にしている。
 
 6弾発売後拡張パックが出なくなり、その後正式にサポートが打ち切られた。
 

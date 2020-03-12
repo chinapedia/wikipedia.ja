@@ -1,13 +1,13 @@
 > この記事は[NAC](https://ja.wikipedia.org/wiki/NAC)から翻訳されています。
 
 
-**NACブレダ**（**NOAD ADVENDO Combinatie Breda**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[北ブラバント州](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")・[ブレダを本拠地とする](../Page/ブレダ_\(オランダ\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**NACブレダ**（**NOAD ADVENDO Combinatie Breda**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[北ブラバント州](../Page/北ブラバント州.md "wikilink")・[ブレダを本拠地とする](../Page/ブレダ_\(オランダ\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 [1912年](../Page/1912年.md "wikilink")、**NOAD**と**ADVENDO**の2つのクラブが合併して創設された。ちなみに「NOAD」は「Nooit Ophouden Altijd Doorgaan」(決して諦めずに続けよう)、「ADVENDO」は「Aangenaam Door Vermaak En Nuttig Door Ontspanning」(気晴らしに陽気で楽しくくつろごう)という言葉の略である\[1\]。[2003年](../Page/2003年.md "wikilink")にそれまでのNACからホームタウンのブレダを加えた名称に改名し現在に至る。読み方は「ナック・ブレダ」。
 
-ホームスタジアムのマイコム・スタディオンは2003-04シーズンに現在の名称に変わるまでは富士写真フイルム（現・[富士フイルムホールディングス](https://ja.wikipedia.org/wiki/富士フイルムホールディングス "wikilink")）が[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を取得し、「フジフイルム・スタディオン」と呼ばれていた。
+ホームスタジアムのマイコム・スタディオンは2003-04シーズンに現在の名称に変わるまでは富士写真フイルム（現・[富士フイルムホールディングス](../Page/富士フイルムホールディングス.md "wikilink")）が[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を取得し、「フジフイルム・スタディオン」と呼ばれていた。
 
-2016年4月14日より、[イングランド](../Page/イングランド.md "wikilink")・[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の[マンチェスター・シティFC](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")と提携を結んでおり、マンチェスター・シティから多くの選手をレンタルで獲得している\[2\]。
+2016年4月14日より、[イングランド](../Page/イングランド.md "wikilink")・[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の[マンチェスター・シティFC](../Page/マンチェスター・シティFC.md "wikilink")と提携を結んでおり、マンチェスター・シティから多くの選手をレンタルで獲得している\[2\]。
 
 ## タイトル
 
@@ -106,7 +106,7 @@
 
 ## 歴代監督
 
-  - [ヘンク・テン・カテ](https://ja.wikipedia.org/wiki/ヘンク・テン・カテ "wikilink") 2000-2003
+  - [ヘンク・テン・カテ](../Page/ヘンク・テン・カテ.md "wikilink") 2000-2003
 
   - [トン・ロクホフ](https://ja.wikipedia.org/wiki/トン・ロクホフ "wikilink") 2003-2005
 
@@ -149,13 +149,13 @@
 
   - [トニー・ヴィドマー](https://ja.wikipedia.org/wiki/トニー・ヴィドマー "wikilink")
 
-  - [ピーター・ボス](https://ja.wikipedia.org/wiki/ピーター・ボス "wikilink") 1998-1999
+  - [ピーター・ボス](../Page/ピーター・ボス.md "wikilink") 1998-1999
 
   - [ロブ・ペンデルス](https://ja.wikipedia.org/wiki/ロブ・ペンデルス "wikilink") 2000-2011
 
   - [ユルゲン・コリン](https://ja.wikipedia.org/wiki/ユルゲン・コリン "wikilink") 2002-2005
 
-  - [パトリック・ズワンズワイク](https://ja.wikipedia.org/wiki/パトリック・ズワンズワイク "wikilink") 2005-2010
+  - [パトリック・ズワンズワイク](../Page/パトリック・ズワンズワイク.md "wikilink") 2005-2010
 
   - [ヨルディ・バイス](https://ja.wikipedia.org/wiki/ヨルディ・バイス "wikilink") 2011-2014
 
@@ -179,13 +179,13 @@
 
   - [ルート・ヘールス](https://ja.wikipedia.org/wiki/ルート・ヘールス "wikilink") 1982-1983
 
-  - [ピエール・ファン・ホーイドンク](https://ja.wikipedia.org/wiki/ピエール・ファン・ホーイドンク "wikilink") 1991-1995、2005-2006
+  - [ピエール・ファン・ホーイドンク](../Page/ピエール・ファン・ホーイドンク.md "wikilink") 1991-1995、2005-2006
 
-  - [グラハム・アーノルド](https://ja.wikipedia.org/wiki/グラハム・アーノルド "wikilink") 1995-1997
+  - [グラハム・アーノルド](../Page/グラハム・アーノルド.md "wikilink") 1995-1997
 
-  - [ラデ・ボグダノビッチ](https://ja.wikipedia.org/wiki/ラデ・ボグダノビッチ "wikilink") 1998
+  - [ラデ・ボグダノビッチ](../Page/ラデ・ボグダノビッチ.md "wikilink") 1998
 
-  - [ヨハン・フォンランテン](https://ja.wikipedia.org/wiki/ヨハン・フォンランテン "wikilink") 2005-2006
+  - [ヨハン・フォンランテン](../Page/ヨハン・フォンランテン.md "wikilink") 2005-2006
 
   - [ヨハン・エルマンデル](https://ja.wikipedia.org/wiki/ヨハン・エルマンデル "wikilink") 2003-2004
 

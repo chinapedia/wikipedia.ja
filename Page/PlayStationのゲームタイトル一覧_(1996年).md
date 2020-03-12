@@ -1,7 +1,7 @@
 > この記事は[PlayStation \(1996\)](https://ja.wikipedia.org/wiki/PlayStation_\(1996\))から翻訳されています。
 
 
-'''PlayStationのゲームタイトル一覧 (1996年) '''（プレイステーションのゲームタイトルいちらん (1996ねん)）では[1996年](../Page/1996年.md "wikilink")に[PlayStation対応ソフトとして発売された全](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")415タイトルのゲームソフトを発売順に列記する。ただし追加要素のない廉価版は含まない。●のついているソフトは、[PlayStation 3で起動した際に](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、何らかの不具合が発生するソフト（2007年1月現在）。なお、これらは本体のバージョンアップに伴い改善される予定。
+'''PlayStationのゲームタイトル一覧 (1996年) '''（プレイステーションのゲームタイトルいちらん (1996ねん)）では[1996年](../Page/1996年.md "wikilink")に[PlayStation対応ソフトとして発売された全](../Page/PlayStation_\(ゲーム機\).md "wikilink")415タイトルのゲームソフトを発売順に列記する。ただし追加要素のない廉価版は含まない。●のついているソフトは、[PlayStation 3で起動した際に](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、何らかの不具合が発生するソフト（2007年1月現在）。なお、これらは本体のバージョンアップに伴い改善される予定。
 
 ## 1月
 
@@ -9,8 +9,8 @@
   - 1月13日 [アジャイル ウォーリアー](https://ja.wikipedia.org/wiki/アジャイル_ウォーリアー "wikilink")（ヴァージンインタラクティブ）
   - 1月13日 [闘牌伝 アカギ](https://ja.wikipedia.org/wiki/アカギ_〜闇に降り立った天才〜 "wikilink")（マイクロネット）
   - 1月13日 [ハイオクタン](https://ja.wikipedia.org/wiki/ハイオクタン "wikilink")（エレクトロニック・アーツ・ビクター）
-  - 1月13日 [くまのプー太郎 空はピンクだ\!全員集合\!\!(それダメっす)](https://ja.wikipedia.org/wiki/クマのプー太郎 "wikilink")（小学館プロダクション）
-  - 1月13日 [マジカルドロップ](https://ja.wikipedia.org/wiki/マジカルドロップ "wikilink")（データイースト）
+  - 1月13日 [くまのプー太郎 空はピンクだ\!全員集合\!\!(それダメっす)](../Page/クマのプー太郎.md "wikilink")（小学館プロダクション）
+  - 1月13日 [マジカルドロップ](../Page/マジカルドロップ.md "wikilink")（データイースト）
   - 1月13日 [ロボピット](https://ja.wikipedia.org/wiki/ロボピット "wikilink")（アルトロン）
   - 1月13日 [厄 友情談疑](../Page/厄_友情談疑.md "wikilink")（アイディアファクトリー）
   - 1月13日 [競馬最勝の法則](https://ja.wikipedia.org/wiki/競馬最勝の法則 "wikilink")'96VOL1（コピアシステム）
@@ -19,9 +19,9 @@
   - 1月19日 [松方弘樹](../Page/松方弘樹.md "wikilink")のワールドフィッシング（BPS）●
   - 1月19日 [占都物語](https://ja.wikipedia.org/wiki/占都物語 "wikilink")その1（東北新社）
   - 1月26日 [ディセント](https://ja.wikipedia.org/wiki/ディセント "wikilink")（ソフトバンク）●
-  - 1月26日 [レッスルマニア](https://ja.wikipedia.org/wiki/レッスルマニア "wikilink")・ジ・アーケードゲーム（アクレイムジャパン）
+  - 1月26日 [レッスルマニア](../Page/レッスルマニア.md "wikilink")・ジ・アーケードゲーム（アクレイムジャパン）
   - 1月26日 [第4次スーパーロボット大戦S](https://ja.wikipedia.org/wiki/第4次スーパーロボット大戦S "wikilink")（バンプレスト）●
-  - 1月26日 [サイドワインダー](https://ja.wikipedia.org/wiki/サイドワインダー_\(ゲーム\) "wikilink")（アスミック）●
+  - 1月26日 [サイドワインダー](../Page/サイドワインダー_\(ゲーム\).md "wikilink")（アスミック）●
   - 1月26日 [水滸演武](https://ja.wikipedia.org/wiki/水滸演武 "wikilink")（データイースト）
   - 1月26日 [シュタールフェーダー](https://ja.wikipedia.org/wiki/シュタールフェーダー "wikilink")（サントス）
   - 1月26日 [グリルロジック](https://ja.wikipedia.org/wiki/グリルロジック "wikilink")（翔泳社）
@@ -33,7 +33,7 @@
   - 2月2日 [アルナムの牙 獣族十二神徒伝説](https://ja.wikipedia.org/wiki/アルナムの牙 "wikilink")（ライトスタッフ）
   - 2月9日 [DEATH MASK](https://ja.wikipedia.org/wiki/DEATH_MASK "wikilink")（バンタンインターナショナル）
   - 2月9日 [ポリスノーツ プライベートコレクション](../Page/ポリスノーツ.md "wikilink")（コナミ）
-  - 2月9日 [ナムコミュージアム VOL.2](https://ja.wikipedia.org/wiki/ナムコミュージアム "wikilink")（ナムコ、コントローラ付あり）
+  - 2月9日 [ナムコミュージアム VOL.2](../Page/ナムコミュージアム.md "wikilink")（ナムコ、コントローラ付あり）
   - 2月9日 [デストラクション・ダービー](https://ja.wikipedia.org/wiki/デストラクション・ダービー "wikilink")（ソニー・コンピュータエンタテインメント）
   - 2月16日 [ロードランナー レジェンドリターンズ](https://ja.wikipedia.org/wiki/ロードランナー#パトラ "wikilink")（パトラ）
   - 2月16日 [ドラえもん のび太と復活の星](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（エポック社）●
@@ -56,8 +56,8 @@
 
   - 3月1日 [ヴォルケンクラッツァー](https://ja.wikipedia.org/wiki/ヴォルケンクラッツァー "wikilink")（アスミック）
   - 3月1日 [ワールドカップゴルフ](https://ja.wikipedia.org/wiki/ワールドカップゴルフ "wikilink")（ココナッツジャパン エンターテイメント）
-  - 3月1日 [トワイライトシンドローム](https://ja.wikipedia.org/wiki/トワイライトシンドローム "wikilink")探索編（ヒューマン）
-  - 3月1日 [進め\!対戦ぱずるだま](https://ja.wikipedia.org/wiki/対戦ぱずるだま "wikilink")（コナミ）
+  - 3月1日 [トワイライトシンドローム](../Page/トワイライトシンドローム.md "wikilink")探索編（ヒューマン）
+  - 3月1日 [進め\!対戦ぱずるだま](../Page/対戦ぱずるだま.md "wikilink")（コナミ）
   - 3月1日 [レボリューションX](https://ja.wikipedia.org/wiki/レボリューションX "wikilink")（アクレイムジャパン）
   - 3月1日 [ノバストーム](https://ja.wikipedia.org/wiki/ノバストーム "wikilink")（ビクターエンタテインメント）
   - 3月8日 [CG昔話 じいさん2度びっくり](https://ja.wikipedia.org/wiki/CG昔話 "wikilink")（アイディアファクトリー）
@@ -66,7 +66,7 @@
   - 3月8日 [卒業R 〜Graduation Real〜](../Page/卒業_〜Graduation〜.md "wikilink")（バンダイビジュアル）
   - 3月8日 [ゲックス](https://ja.wikipedia.org/wiki/ゲックス "wikilink")（BMGビクター）
   - 3月8日 [ロジックパズルレインボータウン](https://ja.wikipedia.org/wiki/ロジックパズルレインボータウン "wikilink")（ヒューマン）
-  - 3月15日 [ワールドサッカー ウイニングイレブン](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
+  - 3月15日 [ワールドサッカー ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")（コナミ）
   - 3月15日 [ブラッドファクトリー](https://ja.wikipedia.org/wiki/ブラッドファクトリー "wikilink")（インタープレイ）
   - 3月15日 [ゾーク・ワン](https://ja.wikipedia.org/wiki/ゾーク・ワン "wikilink")（翔泳社）
   - 3月15日 [ファイヤープロレスリング](../Page/ファイヤープロレスリング.md "wikilink")96（ヒューマン）
@@ -75,7 +75,7 @@
   - 3月22日 [宇宙豪商伝 爆裂商人](https://ja.wikipedia.org/wiki/宇宙豪商伝_爆裂商人 "wikilink")（アステックトゥーワン）
   - 3月22日 [アテナの家庭盤 ファミリーゲームズ](https://ja.wikipedia.org/wiki/アテナの家庭盤_ファミリーゲームズ "wikilink")（アテナ）
   - 3月22日 [ロードラッシュ](https://ja.wikipedia.org/wiki/ロードラッシュ "wikilink")（エレクトロニック・アーツ・ビクター）
-  - 3月22日 [天地を喰らう 赤壁の戦い](https://ja.wikipedia.org/wiki/天地を喰らう "wikilink")2（カプコン）
+  - 3月22日 [天地を喰らう 赤壁の戦い](../Page/天地を喰らう.md "wikilink")2（カプコン）
   - 3月22日 [ワイプアウト](../Page/ワイプアウト.md "wikilink")（ソニー・コンピュータエンタテインメント）
   - 3月22日 [メルティランサー 〜銀河少女警察2086〜](https://ja.wikipedia.org/wiki/メルティランサー_〜銀河少女警察2086〜 "wikilink")（イマジニア）
   - 3月22日 [バイオハザード](../Page/バイオハザード_\(ゲーム\).md "wikilink")（カプコン）
@@ -86,7 +86,7 @@
   - 3月22日 [DX人生ゲーム](../Page/DX人生ゲーム.md "wikilink")（アトラス）
   - 3月29日 [キリングゾーン](https://ja.wikipedia.org/wiki/キリングゾーン "wikilink")（ナグザット）
   - 3月29日 [大戦略 プレイヤーズスピリット](../Page/大戦略シリーズ.md "wikilink")（光栄）
-  - 3月29日 [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")X（BPS）
+  - 3月29日 [テトリス](../Page/テトリス.md "wikilink")X（BPS）
   - 3月29日 [あすか120% Fest](https://ja.wikipedia.org/wiki/あすか120% "wikilink")スペシャルBURNING（ファミリーソフト）
   - 3月29日 [グラディウス DELUXE PACK](../Page/グラディウス_\(ゲーム\).md "wikilink")（コナミ）
 
@@ -97,14 +97,14 @@
 
 <!-- end list -->
 
-  - 3月29日 [信長の野望・天翔記](https://ja.wikipedia.org/wiki/信長の野望・天翔記 "wikilink")（光栄）
-  - 3月29日 [アンジェリーク](https://ja.wikipedia.org/wiki/アンジェリーク "wikilink")スペシャル（光栄）
+  - 3月29日 [信長の野望・天翔記](../Page/信長の野望・天翔記.md "wikilink")（光栄）
+  - 3月29日 [アンジェリーク](../Page/アンジェリーク.md "wikilink")スペシャル（光栄）
   - 3月29日 [パズルボブル2](../Page/パズルボブル2.md "wikilink")（タイトー）
   - 3月29日 [NuPa〜ぬうぱ〜](https://ja.wikipedia.org/wiki/NuPa〜ぬうぱ〜 "wikilink")（トミー）
   - 3月29日 [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")Ver.2（バンダイ、リミテッドエディションあり）
   - 3月29日 [三國志英傑伝](../Page/三國志英傑伝.md "wikilink")（光栄）●
   - 3月29日 [TIZ -Tokyo Insect Zoo-](../Page/TIZ_-Tokyo_Insect_Zoo-.md "wikilink")（ゼネラル・エンタテイメント）
-  - 3月29日 [鉄拳2](https://ja.wikipedia.org/wiki/鉄拳2 "wikilink")（[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、格闘）
+  - 3月29日 [鉄拳2](../Page/鉄拳2.md "wikilink")（[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、格闘）
 
 ## 4月
 
@@ -116,11 +116,11 @@
   - 4月19日 [めざせ\!戦球王](https://ja.wikipedia.org/wiki/めざせ!戦球王 "wikilink")（セイブ開発）
   - 4月19日 [アドヴァンスト ヴァリアブル・ジオ](https://ja.wikipedia.org/wiki/アドヴァンスト_ヴァリアブル・ジオ "wikilink")（TGL）
   - 4月19日 [オーバードライビンDX](https://ja.wikipedia.org/wiki/オーバードライビンDX "wikilink")（エレクトロニック・アーツ・ビクター）
-  - 4月19日 [DOOM](https://ja.wikipedia.org/wiki/DOOM "wikilink")（ソフトバンク）
+  - 4月19日 [DOOM](../Page/DOOM.md "wikilink")（ソフトバンク）
   - 4月26日 [Jリーグバーチャルスタジアム](https://ja.wikipedia.org/wiki/Jリーグバーチャルスタジアム "wikilink")96（エレクトロニック・アーツ・ビクター）
   - 4月26日 [太陽のしっぽ](https://ja.wikipedia.org/wiki/太陽のしっぽ "wikilink")（アートディンク）
   - 4月26日 [ダブルドラゴン](../Page/ダブルドラゴンシリーズ.md "wikilink")（アーバンプラント）
-  - 4月26日 [ギャラクシアン3](https://ja.wikipedia.org/wiki/ギャラクシアン3 "wikilink")（ナムコ）
+  - 4月26日 [ギャラクシアン3](../Page/ギャラクシアン3.md "wikilink")（ナムコ）
   - 4月26日 [パチパチサーガ](https://ja.wikipedia.org/wiki/パチパチサーガ "wikilink")（ティー・イー・エヌ研究所）
   - 4月26日 [信長疾風記](https://ja.wikipedia.org/wiki/信長疾風記 "wikilink")（BPS）
   - 4月26日 [アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")アーケードクラシックス（アイマックス）
@@ -145,7 +145,7 @@
   - 5月17日 [NBAJAM T.E](https://ja.wikipedia.org/wiki/NBAJAM_T.E "wikilink")（アクレイムジャパン）
   - 5月17日 [DEFCON5](https://ja.wikipedia.org/wiki/DEFCON5 "wikilink")（マルチソフト）
   - 5月17日 [サーキットビート](https://ja.wikipedia.org/wiki/サーキットビート "wikilink")（プリズム・アーツ）
-  - 5月24日 [モータートゥーン・グランプリ](https://ja.wikipedia.org/wiki/モータートゥーン・グランプリ "wikilink")2（ソニー・コンピュータエンタテインメント）
+  - 5月24日 [モータートゥーン・グランプリ](../Page/モータートゥーン・グランプリ.md "wikilink")2（ソニー・コンピュータエンタテインメント）
   - 5月24日 [矢追純一](../Page/矢追純一.md "wikilink")極秘プロジェクト『UFOを追え』（日本クラリービジネス）
   - 5月24日 [サンダーホーク](https://ja.wikipedia.org/wiki/サンダーホーク "wikilink")2（ビクターエンタテインメント）
   - 5月24日 [ESPN ストリートゲームス](https://ja.wikipedia.org/wiki/ESPN_ストリートゲームス "wikilink")（ソニー・コンピュータエンタテインメント）●
@@ -163,26 +163,26 @@
 ## 6月
 
   - 6月7日 [ヴィクトリースパイク](https://ja.wikipedia.org/wiki/ヴィクトリースパイク "wikilink")（イマジニア）
-  - 6月7日 [ぼのぐらし これで完璧でぃす](https://ja.wikipedia.org/wiki/ぼのぼの "wikilink")（アミューズ）
+  - 6月7日 [ぼのぐらし これで完璧でぃす](../Page/ぼのぼの.md "wikilink")（アミューズ）
   - 6月14日 [痛快\!スロットシューティング](https://ja.wikipedia.org/wiki/痛快!スロットシューティング "wikilink")（翔泳社）
   - 6月14日 [NBA LIVE96](../Page/NBA.md "wikilink")（エレクトロニック・アーツ・ビクター）●
   - 6月14日 [～麻雀戦術～ 安藤満プロの亜空間殺法](https://ja.wikipedia.org/wiki/～麻雀戦術～_安藤満プロの亜空間殺法 "wikilink")（童）
   - 6月14日 [モータルコンバット](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")3（ソニー・コンピュータエンタテインメント）
   - 6月21日 EPSシリーズVOL.1 [森川友紀子](https://ja.wikipedia.org/wiki/森川友紀子 "wikilink")（アンティノスレコード）
   - 6月21日 EPSシリーズVOL.2 [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（アンティノスレコード）
-  - 6月21日 EPSシリーズVOL.3 [角田智美](https://ja.wikipedia.org/wiki/角田ともみ "wikilink")（アンティノスレコード）
+  - 6月21日 EPSシリーズVOL.3 [角田智美](../Page/角田ともみ.md "wikilink")（アンティノスレコード）
   - 6月21日 EPSシリーズVOL.4 [山本ともあ](https://ja.wikipedia.org/wiki/山本ともあ "wikilink")（アンティノスレコード）
   - 6月21日 EPSシリーズVOL.5 [水谷純子](https://ja.wikipedia.org/wiki/水谷純子 "wikilink")（アンティノスレコード）
   - 6月21日 [メールプラーナ](https://ja.wikipedia.org/wiki/メールプラーナ "wikilink")（ガスト）
-  - 6月21日 [KING'S FIELD III](https://ja.wikipedia.org/wiki/キングスフィールド "wikilink")（フロム・ソフトウェア）
+  - 6月21日 [KING'S FIELD III](../Page/キングスフィールド.md "wikilink")（フロム・ソフトウェア）
   - 6月21日 [栄光のフェアウェイ](https://ja.wikipedia.org/wiki/栄光のフェアウェイ "wikilink")（コナミ）
   - 6月21日 [極 大道棋](https://ja.wikipedia.org/wiki/極_大道棋 "wikilink")（毎日コミュニケーションズ）
   - 6月21日 [対決\!るみーず\!メルヘンランド](https://ja.wikipedia.org/wiki/対決!るみーず!メルヘンランド "wikilink")（オクタゴンエンタテインメント）
   - 6月21日 [シーバス・フィッシング](https://ja.wikipedia.org/wiki/シーバス・フィッシング "wikilink")（ビクターエンタテインメント）
   - 6月21日 [新フォーチュンクエスト 食卓の騎士たち](https://ja.wikipedia.org/wiki/フォーチュンクエスト "wikilink")（メディアワークス）
-  - 6月21日 [ナムコミュージアム VOL.3](https://ja.wikipedia.org/wiki/ナムコミュージアム "wikilink")（ナムコ）
+  - 6月21日 [ナムコミュージアム VOL.3](../Page/ナムコミュージアム.md "wikilink")（ナムコ）
   - 6月28日 [ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")'95（[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")）
-  - 6月28日 [井出洋介](https://ja.wikipedia.org/wiki/井出洋介 "wikilink")名人の新実戦麻雀（カプコン）
+  - 6月28日 [井出洋介](../Page/井出洋介.md "wikilink")名人の新実戦麻雀（カプコン）
   - 6月28日 [蟲の居所](https://ja.wikipedia.org/wiki/蟲の居所 "wikilink")（ゲンソフト）
   - 6月28日 [ハイパーオリンピック イン アトランタ](https://ja.wikipedia.org/wiki/ハイパーオリンピック_イン_アトランタ "wikilink")（コナミ）
   - 6月28日 [レースドライビングa GO GO](https://ja.wikipedia.org/wiki/レースドライビングa_GO_GO "wikilink")（タイムワーナーインタラクティブ）
@@ -206,11 +206,11 @@
   - 7月19日 [リトルビッグアドベンチャー](https://ja.wikipedia.org/wiki/リトルビッグアドベンチャー "wikilink")（エレクトロニック・アーツ・ビクター）
   - 7月19日 [ストライカーズ1945](../Page/ストライカーズ1945.md "wikilink")（アトラス）
   - 7月19日 [THE OPEN GOLF](https://ja.wikipedia.org/wiki/THE_OPEN_GOLF "wikilink")（バンプレスト）
-  - 7月19日 [トワイライトシンドローム](https://ja.wikipedia.org/wiki/トワイライトシンドローム "wikilink")究明編（ヒューマン）
+  - 7月19日 [トワイライトシンドローム](../Page/トワイライトシンドローム.md "wikilink")究明編（ヒューマン）
   - 7月19日 [徹満 SPECIAL 本格麻雀](https://ja.wikipedia.org/wiki/徹満_SPECIAL_本格麻雀 "wikilink")（ナグザット）
   - 7月26日 [ショックウェーブ](https://ja.wikipedia.org/wiki/ショックウェーブ_\(ゲーム\) "wikilink")（エレクトロニック・アーツ・ビクター）●
   - 7月26日 [キング オブ スタリオン](https://ja.wikipedia.org/wiki/キング_オブ_スタリオン "wikilink")（日本物産）●
-  - 7月26日 [クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")（徳間書店）
+  - 7月26日 [クロックワークス](../Page/クロックワークス.md "wikilink")（徳間書店）
   - 7月26日 [新型くるりんPA\!](https://ja.wikipedia.org/wiki/くるりんPA! "wikilink")（スカイ・シンク・システム）
   - 7月26日 [時空探偵DD 幻のローレライ](https://ja.wikipedia.org/wiki/時空探偵DD "wikilink")（アスキー）
   - 7月26日 [NOëL](../Page/NOeL.md "wikilink")（パイオニアLDC、初回限定版シングルCD付あり）●
@@ -229,7 +229,7 @@
   - 8月9日 [七つの秘館](https://ja.wikipedia.org/wiki/七つの秘館 "wikilink")（光栄）
   - 8月9日 [スラムジャム96 M.J K.A.J](https://ja.wikipedia.org/wiki/スラムジャム96_M.J_K.A.J "wikilink")（BMGビクター）
   - 8月9日 [Fighting Illusion K-1グランプリ](https://ja.wikipedia.org/wiki/K-1グランプリ "wikilink")（エクシング）
-  - 8月9日 [ストリートファイターZERO](https://ja.wikipedia.org/wiki/ストリートファイターZERO "wikilink")2（カプコン）●
+  - 8月9日 [ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")2（カプコン）●
   - 8月23日 [トーナメント・リーダー](https://ja.wikipedia.org/wiki/トーナメント・リーダー "wikilink")（ビクターエンタテインメント）
   - 8月23日 [提督の決断II](../Page/提督の決断II.md "wikilink")（光栄）
   - 8月23日 [スタジオP](https://ja.wikipedia.org/wiki/スタジオP "wikilink")（アジェンダ）
@@ -243,12 +243,12 @@
   - 8月30日 [ハイパーラリー](https://ja.wikipedia.org/wiki/ハイパーラリー "wikilink")（ハーベストワン）
   - 8月30日 [るぷぷキューブ ルプ★さらだ](https://ja.wikipedia.org/wiki/ルプ★さらだ "wikilink")（データム・ポリスター）●
   - 8月30日 [東亜プランシューティングバトル](https://ja.wikipedia.org/wiki/東亜プランシューティングバトル "wikilink")（バンプレスト）
-  - 8月30日 [小島武夫 麻雀帝王](https://ja.wikipedia.org/wiki/小島武夫 "wikilink")（ギャップス）●
+  - 8月30日 [小島武夫 麻雀帝王](../Page/小島武夫.md "wikilink")（ギャップス）●
   - 8月30日 [イエロー・ブリック・ロード](https://ja.wikipedia.org/wiki/イエロー・ブリック・ロード "wikilink")（アクレイムジャパン）
   - 8月30日 [プロ麻雀 極PLUS](https://ja.wikipedia.org/wiki/プロ麻雀_極PLUS "wikilink")（アテナ）
   - 8月30日 [蛭子能収](../Page/蛭子能収.md "wikilink")大穴競艇（セタ）●
   - 8月30日 [ソニックウィングス スペシャル](../Page/ソニックウィングス.md "wikilink")（メディアクエスト）
-  - 8月30日 [アーサーとアスタロトの謎魔界村](https://ja.wikipedia.org/wiki/アーサーとアスタロトの謎魔界村 "wikilink")（カプコン）
+  - 8月30日 [アーサーとアスタロトの謎魔界村](../Page/アーサーとアスタロトの謎魔界村.md "wikilink")（カプコン）
   - 8月30日 [CRW/カウンターレボリューション・ウォー](https://ja.wikipedia.org/wiki/CRW/カウンターレボリューション・ウォー "wikilink")（アクレイムジャパン）
   - 8月30日 [鋼鉄霊城 スティールダム](https://ja.wikipedia.org/wiki/鋼鉄霊城_スティールダム "wikilink")（テクノソフト）
   - 8月30日 [COOL BOARDERS](https://ja.wikipedia.org/wiki/COOL_BOARDERS "wikilink")（ウェッブシステム）●
@@ -259,7 +259,7 @@
 
   - 9月6日 [スマッシュコート](../Page/スマッシュコート.md "wikilink")（ナムコ）
   - 9月6日 [トンズラくん](https://ja.wikipedia.org/wiki/トンズラくん "wikilink")（ソラン）
-  - 9月6日 [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")プラス（ジャレコ）
+  - 9月6日 [テトリス](../Page/テトリス.md "wikilink")プラス（ジャレコ）
   - 9月6日 [ウイングコマンダー](https://ja.wikipedia.org/wiki/ウイングコマンダー "wikilink")3（エレクトロニック・アーツ・ビクター）●
   - 9月13日 [ビッグハートベースボール](https://ja.wikipedia.org/wiki/ビッグハートベースボール "wikilink")（アクレイムジャパン）●
   - 9月13日 [スーパーカジノスペシャル](https://ja.wikipedia.org/wiki/スーパーカジノスペシャル "wikilink")（ココナッツジャパン エンターテイメント）
@@ -278,7 +278,7 @@
   - 9月20日 [にとうしんでん](https://ja.wikipedia.org/wiki/にとうしんでん "wikilink")（タカラ）●
   - 9月20日 [POSIT ぽじっと](https://ja.wikipedia.org/wiki/POSIT_ぽじっと "wikilink")（プレイアベニュー）
   - 9月20日 [ヴィクトリーゾーン](https://ja.wikipedia.org/wiki/ヴィクトリーゾーン "wikilink")2（ソニー・コンピュータエンタテインメント、同梱セットあり）
-  - 9月20日 [アイドル雀士 スーチーパイII Limited](https://ja.wikipedia.org/wiki/アイドル雀士スーチーパイ "wikilink")（ジャレコ）
+  - 9月20日 [アイドル雀士 スーチーパイII Limited](../Page/アイドル雀士スーチーパイ.md "wikilink")（ジャレコ）
   - 9月20日 [パチンコ大好き](https://ja.wikipedia.org/wiki/パチンコ大好き "wikilink")（セタ）
   - 9月20日 [女神異聞録ペルソナ](../Page/女神異聞録ペルソナ.md "wikilink")（アトラス）
   - 9月27日 [ウェディングピーチ ドキドキお色直し](https://ja.wikipedia.org/wiki/ウェディングピーチ_ドキドキお色直し "wikilink")（ケイエスエス）
@@ -290,7 +290,7 @@
   - 9月27日 [おーちゃんのお絵かきロジック](https://ja.wikipedia.org/wiki/おーちゃんのお絵かきロジック "wikilink")2（サンソフト）
   - 9月27日 [リターン・トゥ・ゾーク](https://ja.wikipedia.org/wiki/リターン・トゥ・ゾーク "wikilink")（バンダイビジュアル）
   - 9月27日 [インタナショナルMOTOーX](https://ja.wikipedia.org/wiki/インタナショナルMOTOーX "wikilink")（ソフトビジョンインターナショナル）●
-  - 9月27日 [伝説のオウガバトル](https://ja.wikipedia.org/wiki/伝説のオウガバトル "wikilink")（アートディンク）
+  - 9月27日 [伝説のオウガバトル](../Page/伝説のオウガバトル.md "wikilink")（アートディンク）
   - 9月27日 [炎の15種目アトランタオリンピック](https://ja.wikipedia.org/wiki/炎の15種目アトランタオリンピック "wikilink")（ココナッツジャパン エンターテイメント）
   - 9月27日 [黒ノ十三](../Page/黒ノ十三.md "wikilink")（トンキンハウス(東京書籍)）
   - 9月27日 [マッハGo Go Go](https://ja.wikipedia.org/wiki/マッハGo_Go_Go "wikilink")（トミー）
@@ -301,7 +301,7 @@
 ## 10月
 
   - 10月4日 [すらいムしよう\!](https://ja.wikipedia.org/wiki/すらいムしよう! "wikilink")（東北新社）
-  - 10月4日 [アンジェリーク](https://ja.wikipedia.org/wiki/アンジェリーク "wikilink")スペシャルプレミアムBOX（光栄）
+  - 10月4日 [アンジェリーク](../Page/アンジェリーク.md "wikilink")スペシャルプレミアムBOX（光栄）
   - 10月4日 [C1-CIRCUIT](https://ja.wikipedia.org/wiki/C1-CIRCUIT "wikilink")（インベック）
   - 10月4日 [くるくるトゥインクル おねがいおほしさま](https://ja.wikipedia.org/wiki/くるくるトゥインクル_おねがいおほしさま "wikilink")（トミー）
   - 10月4日 [Air Assault](https://ja.wikipedia.org/wiki/Air_Assault "wikilink")（ソニー・コンピュータエンタテインメント）
@@ -315,7 +315,7 @@
   - 10月4日 [カオスコントロール](https://ja.wikipedia.org/wiki/カオスコントロール "wikilink")（ヴァージンインタラクティブ）
   - 10月4日 [スペクトラルタワー](https://ja.wikipedia.org/wiki/スペクトラルタワー "wikilink")（アイディアファクトリー）
   - 10月4日 [FINALIST](https://ja.wikipedia.org/wiki/FINALIST "wikilink")（ギャガ・コミュニケーションズ）
-  - 10月4日 [サイキックフォース](https://ja.wikipedia.org/wiki/サイキックフォース "wikilink")（タイトー、格闘アクション）
+  - 10月4日 [サイキックフォース](../Page/サイキックフォース.md "wikilink")（タイトー、格闘アクション）
   - 10月10日 [リーディングジョッキー ハイブリッド](https://ja.wikipedia.org/wiki/リーディングジョッキー_ハイブリッド "wikilink")（ハーベストワン）
   - 10月10日 [ヒロイン・ドリーム](https://ja.wikipedia.org/wiki/ヒロイン・ドリーム "wikilink")（マップジャパン）
   - 10月10日 [結婚 Marriage](https://ja.wikipedia.org/wiki/結婚_Marriage "wikilink")（小学館プロダクション）
@@ -338,14 +338,14 @@
   - 10月25日 [DEATH WING](https://ja.wikipedia.org/wiki/DEATH_WING "wikilink")（サイバーテックデザイン）●
   - 10月25日 [アポなしギャルズ おりんぽす](https://ja.wikipedia.org/wiki/アポなしギャルズ_おりんぽす "wikilink")（ヒューマン）
   - 10月25日 [ヴァンダルハーツ〜失われた古代文明〜](https://ja.wikipedia.org/wiki/ヴァンダルハーツ〜失われた古代文明〜 "wikilink")（コナミ）
-  - 10月25日 [スターグラディエイター](https://ja.wikipedia.org/wiki/スターグラディエイター "wikilink")（カプコン、格闘アクション）
+  - 10月25日 [スターグラディエイター](../Page/スターグラディエイター.md "wikilink")（カプコン、格闘アクション）
   - 10月25日 [童夢の野望 〜F1 GP NIPPONの挑戦〜](https://ja.wikipedia.org/wiki/童夢の野望_〜F1_GP_NIPPONの挑戦〜 "wikilink")（OZクラブ）
   - 10月25日 [eexy life EAST END×YURI](https://ja.wikipedia.org/wiki/eexy_life_EAST_END×YURI "wikilink")（ソニー・ミュージックエンタテインメント）
-  - 10月25日 [THEわれめDEポン](https://ja.wikipedia.org/wiki/THEわれめDEポン "wikilink")（ビデオシステム）
+  - 10月25日 [THEわれめDEポン](../Page/THEわれめDEポン.md "wikilink")（ビデオシステム）
 
 ## 11月
 
-  - 11月1日 [アークザラッドII](https://ja.wikipedia.org/wiki/アークザラッドII "wikilink")（ソニー・コンピュータエンタテインメント）
+  - 11月1日 [アークザラッドII](../Page/アークザラッドII.md "wikilink")（ソニー・コンピュータエンタテインメント）
   - 11月1日 [デジクロ デジタルナンバーク](https://ja.wikipedia.org/wiki/デジクロ_デジタルナンバーク "wikilink")（アトラス）
   - 11月1日 [LULU](https://ja.wikipedia.org/wiki/LULU "wikilink")（アリアドネメディア）
   - 11月1日 [チェスマスター](https://ja.wikipedia.org/wiki/チェスマスター "wikilink")（アルトロン）●
@@ -356,7 +356,7 @@
   - 11月1日 [セクシーパロディウス](https://ja.wikipedia.org/wiki/セクシーパロディウス "wikilink")（コナミ）●
   - 11月1日 [ザ・タワー ボーナスエディション](../Page/ザ・タワー_\(ゲーム\).md "wikilink")（オープンブックキューゼロゼロサン）
   - 11月1日 [バーミン・キッズ](https://ja.wikipedia.org/wiki/バーミン・キッズ "wikilink")（エレクトロニック・アーツ）
-  - 11月8日 [ナムコミュージアム VOL.4](https://ja.wikipedia.org/wiki/ナムコミュージアム "wikilink")（ナムコ）
+  - 11月8日 [ナムコミュージアム VOL.4](../Page/ナムコミュージアム.md "wikilink")（ナムコ）
   - 11月8日 [3Dレミングス](../Page/レミングス.md "wikilink")（ソニー・コンピュータエンタテインメント）
   - 11月8日 [ワイプアウト](../Page/ワイプアウト.md "wikilink")XL（ソニー・コンピュータエンタテインメント）
   - 11月8日 [テクモスーパーボール](https://ja.wikipedia.org/wiki/テクモスーパーボール "wikilink")（テクモ）●
@@ -372,16 +372,16 @@
   - 11月15日 [タイムコマンドー](https://ja.wikipedia.org/wiki/タイムコマンドー "wikilink")（ヴァージンインタラクティブ）
   - 11月22日 [東方珍遊記 はーふりんぐ・はーつ](https://ja.wikipedia.org/wiki/東方珍遊記_はーふりんぐ・はーつ "wikilink")（ナグザット）
   - 11月22日 [ぐっすんぱらだいす](../Page/ぐっすんぱらだいす.md "wikilink")（アイレム）
-  - 11月22日 [エターナルメロディ](https://ja.wikipedia.org/wiki/エターナルメロディ "wikilink")（メディアワークス）
+  - 11月22日 [エターナルメロディ](../Page/エターナルメロディ.md "wikilink")（メディアワークス）
   - 11月22日 [ボイスパラダイス エクセラ](https://ja.wikipedia.org/wiki/ボイスパラダイス_エクセラ "wikilink")（アスク講談社）●
-  - 11月22日 [Jリーグ 実況ウイニングイレブン97](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
+  - 11月22日 [Jリーグ 実況ウイニングイレブン97](../Page/ウイニングイレブン.md "wikilink")（コナミ）
   - 11月22日 [フィスト](https://ja.wikipedia.org/wiki/フィスト "wikilink")（イマジニア）
   - 11月22日 [タクラマカン 敦煌傳竒](https://ja.wikipedia.org/wiki/タクラマカン_敦煌傳竒 "wikilink")（パトラ）
   - 11月22日 [コブラ・ザ・シューティング](https://ja.wikipedia.org/wiki/コブラ・ザ・シューティング "wikilink")（タカラ）
   - 11月22日 [ズープ](https://ja.wikipedia.org/wiki/ズープ "wikilink")（三井物産）
-  - 11月29日 [デザーテッド アイランド 新・無人島物語](https://ja.wikipedia.org/wiki/DESERTED_ISLAND "wikilink")（ケイエスエス）●
+  - 11月29日 [デザーテッド アイランド 新・無人島物語](../Page/DESERTED_ISLAND.md "wikilink")（ケイエスエス）●
   - 11月29日 [V-Tennis 2](https://ja.wikipedia.org/wiki/V-Tennis "wikilink")（トンキンハウス(東京書籍)）
-  - 11月29日 [タイムボカン ボカンと一発\!ドロンボー](https://ja.wikipedia.org/wiki/タイムボカン "wikilink")シリーズ（バンプレスト）
+  - 11月29日 [タイムボカン ボカンと一発\!ドロンボー](../Page/タイムボカン.md "wikilink")シリーズ（バンプレスト）
   - 11月29日 [TFX](https://ja.wikipedia.org/wiki/TFX_\(ゲーム\) "wikilink")（イマジニア）
   - 11月29日 [るろうに剣心 -明治剣客浪漫譚- 維新激闘編](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\)#ゲーム "wikilink")（ソニー・コンピュータエンタテインメント）
   - 11月29日 [シミュレーションズー](https://ja.wikipedia.org/wiki/シミュレーションズー "wikilink")（ソフトバンク）
@@ -402,7 +402,7 @@
   - 12月6日 [キッドクラウンのクレイジーチェイス2](https://ja.wikipedia.org/wiki/クレイジーチェイス "wikilink")（コトブキシステム）
   - 12月6日 [ピットボール](https://ja.wikipedia.org/wiki/ピットボール "wikilink")（ココナッツジャパン エンターテイメント）
   - 12月6日 [DEPTH](https://ja.wikipedia.org/wiki/DEPTH "wikilink")（ソニー・コンピュータエンタテインメント）
-  - 12月6日 [パラッパラッパー](https://ja.wikipedia.org/wiki/パラッパラッパー "wikilink")（ソニー・コンピュータエンタテインメント）●
+  - 12月6日 [パラッパラッパー](../Page/パラッパラッパー.md "wikilink")（ソニー・コンピュータエンタテインメント）●
   - 12月6日 [オラクルの宝石](https://ja.wikipedia.org/wiki/オラクルの宝石 "wikilink")（サンソフト）
   - 12月6日 [エクストラブライト](https://ja.wikipedia.org/wiki/エクストラブライト "wikilink")（アスキー）
   - 12月6日 [ToPoLo](https://ja.wikipedia.org/wiki/ToPoLo "wikilink")（アートディンク）
@@ -415,18 +415,18 @@
   - 12月6日 [ステークスウィナーGI完全制覇への道](https://ja.wikipedia.org/wiki/ステークスウィナーGI完全制覇への道 "wikilink")（ザウルス）
   - 12月13日 [ガイアシード](../Page/ガイアシード.md "wikilink")（テクノソレイユ）
   - 12月13日 [ハードボール](https://ja.wikipedia.org/wiki/ハードボール "wikilink")5（エス・ピー・エス）
-  - 12月13日 [Formula 1](https://ja.wikipedia.org/wiki/Formula_One "wikilink")（ソニー・コンピュータエンタテインメント）
+  - 12月13日 [Formula 1](../Page/Formula_One.md "wikilink")（ソニー・コンピュータエンタテインメント）
   - 12月13日 [ぐーちょDEパーク テーマパークものがたり](https://ja.wikipedia.org/wiki/ぐーちょDEパーク_テーマパークものがたり "wikilink")（エレクトロニック・アーツ・ビクター）
   - 12月13日 [ダイハードトリロジー](https://ja.wikipedia.org/wiki/ダイハードトリロジー "wikilink")（エレクトロニック・アーツ・ビクター）
   - 12月13日 [ダライアス外伝](../Page/ダライアス外伝.md "wikilink")（ベック）
   - 12月13日 [ヘブンズゲート](https://ja.wikipedia.org/wiki/ヘブンズゲート "wikilink")（アトラス）
   - 12月13日 [ゼイラムゾーン](https://ja.wikipedia.org/wiki/ゼイラムゾーン "wikilink")（バンプレスト）
   - 12月13日 [ペブルビーチの波濤 PLUS](../Page/遙かなるオーガスタ.md "wikilink")（ソフトバンク）
-  - 12月13日 [クロックタワー](https://ja.wikipedia.org/wiki/クロックタワー "wikilink")2（ヒューマン）
+  - 12月13日 [クロックタワー](../Page/クロックタワー.md "wikilink")2（ヒューマン）
   - 12月13日 [スピードキング](../Page/スピードキング_NEO_KOBE_2045.md "wikilink")（コナミ）
   - 12月13日 [トゥルー・ラブストーリー](../Page/トゥルー・ラブストーリー.md "wikilink")（アスキー）
   - 12月13日 [PRIMAL RAGE](https://ja.wikipedia.org/wiki/PRIMAL_RAGE "wikilink")（タイムワーナーインタラクティブ）
-  - 12月17日 [ロックマン8 メタルヒーローズ](https://ja.wikipedia.org/wiki/ロックマン8_メタルヒーローズ "wikilink")（カプコン）
+  - 12月17日 [ロックマン8 メタルヒーローズ](../Page/ロックマン8_メタルヒーローズ.md "wikilink")（カプコン）
   - 12月20日 [ロジック麻雀 創龍](https://ja.wikipedia.org/wiki/ロジック麻雀_創龍 "wikilink")（日本一ソフトウェア）
   - 12月20日 [シムシティ2000](../Page/シムシティ2000.md "wikilink")（アートディンク）
   - 12月20日 [新SD戦国伝 機動武者大戦](../Page/新SD戦国伝_機動武者大戦.md "wikilink")（バンダイ、限定版プラモ付きあり）
@@ -454,7 +454,7 @@
   - 12月27日 [対局囲碁 GO2 プロフェッショナル](https://ja.wikipedia.org/wiki/対局囲碁_GO "wikilink")（毎日コミュニケーションズ）
   - 12月27日 [グリッドランナー](https://ja.wikipedia.org/wiki/グリッドランナー "wikilink")（ヴァージンインタラクティブ）
   - 12月27日 [新スーパーロボット大戦](../Page/新スーパーロボット大戦.md "wikilink")（バンプレスト）
-  - 12月27日 [闘神伝](https://ja.wikipedia.org/wiki/闘神伝 "wikilink")3（タカラ）
+  - 12月27日 [闘神伝](../Page/闘神伝.md "wikilink")3（タカラ）
   - 12月27日 [マイティヒット](https://ja.wikipedia.org/wiki/マイティヒット "wikilink")（アルトロン）
   - 12月27日 [大航海時代II](../Page/大航海時代II.md "wikilink")（光栄）
   - 12月27日 [ブラック ドーン](https://ja.wikipedia.org/wiki/ブラック_ドーン "wikilink")（ヴァージンインタラクティブ）

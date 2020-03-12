@@ -17,7 +17,7 @@
   - [2012年](../Page/2012年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - グループの事業再編に伴い、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が当社の親会社となり、同時に[社内カンパニー](../Page/社内カンパニー.md "wikilink")の一つであるデバイス社の所属となる。
   - 2012年[7月1日](../Page/7月1日.md "wikilink") - **パナソニック デバイスSUNX株式会社**に商号変更。
   - [2015年](../Page/2015年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - グループの事業再編に伴い、社内カンパニーの一つであるオートモーティブ&インダストリアルシステムズ社傘下のファクトリーソリューション事業の所属となる。
-  - [2017年](../Page/2017年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - [上場廃止](https://ja.wikipedia.org/wiki/上場廃止 "wikilink")\[1\]。
+  - [2017年](../Page/2017年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - [上場廃止](../Page/上場廃止.md "wikilink")\[1\]。
   - 2017年[3月27日](../Page/3月27日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によりパナソニック株式会社の完全子会社になる\[2\]。
 
 ## 関連会社

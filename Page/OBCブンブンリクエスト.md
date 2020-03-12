@@ -22,7 +22,7 @@
   - 月曜
       - [モンスター前塚](https://ja.wikipedia.org/wiki/モンスター前塚 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")6月～1997年9月）
       - [南かおり](../Page/南かおり.md "wikilink")（1997年10月～2000年3月　火曜から移動）
-      - [ハリガネロック](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")（2000年4月～2001年9月）
+      - [ハリガネロック](../Page/ハリガネロック.md "wikilink")（2000年4月～2001年9月）
   - 火曜
       - [横山由美子](https://ja.wikipedia.org/wiki/横山由美子 "wikilink")（1986年6月～[1991年](../Page/1991年.md "wikilink")3月）
       - 南かおり（1991年4月～1997年9月　モンスター前塚の卒業に伴い月曜に移動）
@@ -30,23 +30,23 @@
           - （番組イベントや増田の休暇時には、増田の相方・[岡田圭右](../Page/岡田圭右.md "wikilink")が出演した）
   - 水曜
       - [立原啓裕](../Page/立原啓裕.md "wikilink")（1986年6月～1991年9月）
-      - [吉田ヒロ](https://ja.wikipedia.org/wiki/吉田ヒロ "wikilink")、[石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")（1991年10月～1999年9月）
+      - [吉田ヒロ](../Page/吉田ヒロ.md "wikilink")、[石田靖](../Page/石田靖.md "wikilink")（1991年10月～1999年9月）
       - [2丁拳銃](../Page/2丁拳銃.md "wikilink")（1999年10月～2001年9月）
   - 木曜
       - [ハイヒールモモコ](https://ja.wikipedia.org/wiki/ハイヒールモモコ "wikilink")（1986年6月～[1994年](../Page/1994年.md "wikilink")3月）
       - [トゥナイト](../Page/トゥナイト_\(お笑いコンビ\).md "wikilink")（1994年4月～[1996年](../Page/1996年.md "wikilink")9月）
       - [山本京子](https://ja.wikipedia.org/wiki/山本京子 "wikilink")（1996年10月～2000年3月）
-      - [西川葉月](https://ja.wikipedia.org/wiki/西川葉月 "wikilink")、[尾上由美](https://ja.wikipedia.org/wiki/尾上由美 "wikilink")（2000年4月～2001年9月）
+      - [西川葉月](../Page/西川葉月.md "wikilink")、[尾上由美](https://ja.wikipedia.org/wiki/尾上由美 "wikilink")（2000年4月～2001年9月）
   - 金曜
-      - [中井雅之](https://ja.wikipedia.org/wiki/中井雅之 "wikilink")（1986年6月～1991年9月、担当当時は同局のアナウンサーだった）
-      - [岩崎なおあき](https://ja.wikipedia.org/wiki/岩崎なおあき "wikilink")（1991年10月～1996年9月）
+      - [中井雅之](../Page/中井雅之.md "wikilink")（1986年6月～1991年9月、担当当時は同局のアナウンサーだった）
+      - [岩崎なおあき](../Page/岩崎なおあき.md "wikilink")（1991年10月～1996年9月）
       - 森下研太郎（[ピスキッズ](../Page/ピストルモンキー\(ズ\).md "wikilink")）、西川葉月（1996年10月～2000年3月）
       - [e.mu](https://ja.wikipedia.org/wiki/e.mu "wikilink")（2000年4月～2001年3月）
       - [前田愛](../Page/前田愛_\(声優\).md "wikilink")（2001年4月～9月）
 
 ## 主なコーナー
 
-  - **ブンブンベストテン**（主なスポンサー／[大阪外語専門学校](https://ja.wikipedia.org/wiki/大阪外語専門学校 "wikilink")、[NTTドコモ関西など](../Page/エヌ・ティ・ティ・ドコモ関西.md "wikilink")）
+  - **ブンブンベストテン**（主なスポンサー／[大阪外語専門学校](../Page/大阪外語専門学校.md "wikilink")、[NTTドコモ関西など](../Page/エヌ・ティ・ティ・ドコモ関西.md "wikilink")）
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - **Cokeスポーツニュース**（提供／[近畿コカ・コーラボトリング](https://ja.wikipedia.org/wiki/近畿コカ・コーラボトリング "wikilink")、[三笠コカ・コーラボトリング](https://ja.wikipedia.org/wiki/三笠コカ・コーラボトリング "wikilink")）
+  - **Cokeスポーツニュース**（提供／[近畿コカ・コーラボトリング](../Page/近畿コカ・コーラボトリング.md "wikilink")、[三笠コカ・コーラボトリング](../Page/三笠コカ・コーラボトリング.md "wikilink")）
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 <!-- end list -->
 
   -
-    23時前のニュースコーナー。ラジオ大阪の男性アナが担当するが、曜日によってはコーナー終了後に何かとパーソナリティに絡んでくる者もいた（特に[岩崎なおあき](https://ja.wikipedia.org/wiki/岩崎なおあき "wikilink")担当時の[本村忠司](https://ja.wikipedia.org/wiki/本村忠司 "wikilink")アナ（当時））。
+    23時前のニュースコーナー。ラジオ大阪の男性アナが担当するが、曜日によってはコーナー終了後に何かとパーソナリティに絡んでくる者もいた（特に[岩崎なおあき](../Page/岩崎なおあき.md "wikilink")担当時の[本村忠司](https://ja.wikipedia.org/wiki/本村忠司 "wikilink")アナ（当時））。
 
 ### 内包していた番組
 
@@ -102,19 +102,19 @@
   - [加勢大周](../Page/加勢大周.md "wikilink") ワイルドでいこう （提供／ライオン、1991年3月～1993年9月、ニッポン放送制作）
   - [水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink") ふたりのアトリエ （提供／[サンギ](https://ja.wikipedia.org/wiki/サンギ "wikilink")、1996年4月～?、文化放送制作）
   - [STOP THE SMAP](https://ja.wikipedia.org/wiki/STOP_THE_SMAP "wikilink")（提供／[大鵬薬品](https://ja.wikipedia.org/wiki/大鵬薬品 "wikilink")、文化放送製作だがスポンサーはラジオ大阪独自。現在はネット無し）
-  - [V6のカミセンミュージアム](https://ja.wikipedia.org/wiki/V6のカミセンミュージアム "wikilink")（提供／[大鵬薬品](https://ja.wikipedia.org/wiki/大鵬薬品 "wikilink")、～2001年9月、ニッポン放送製作）
+  - [V6のカミセンミュージアム](../Page/V6のカミセンミュージアム.md "wikilink")（提供／[大鵬薬品](https://ja.wikipedia.org/wiki/大鵬薬品 "wikilink")、～2001年9月、ニッポン放送製作）
 
 ## ブンブンベストテン年間1位曲
 
-|                                                         |                                                                               |                                                                     |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **年度**                                                  | **曲名**                                                                        | **歌手名**                                                             |
-| [1994年](../Page/1994年.md "wikilink")                    | [Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")                        | [B'z](../Page/B'z.md "wikilink")                                    |
-| [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | [LOVE PHANTOM](https://ja.wikipedia.org/wiki/LOVE_PHANTOM "wikilink")         | B'z                                                                 |
-| [1996年](../Page/1996年.md "wikilink")                    | [名もなき詩](https://ja.wikipedia.org/wiki/名もなき詩 "wikilink")                       | [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") |
-| [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | [White Love](https://ja.wikipedia.org/wiki/White_Love_\(SPEEDの曲\) "wikilink") | [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")             |
-| [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | [HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")                      | [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")                |
-| [1999年](../Page/1999年.md "wikilink")                    | [Winter,again](../Page/Winter,again.md "wikilink")                            | [GLAY](../Page/GLAY.md "wikilink")                                  |
+|                                                         |                                                            |                                                                     |
+| ------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- |
+| **年度**                                                  | **曲名**                                                     | **歌手名**                                                             |
+| [1994年](../Page/1994年.md "wikilink")                    | [Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")     | [B'z](../Page/B'z.md "wikilink")                                    |
+| [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | [LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")         | B'z                                                                 |
+| [1996年](../Page/1996年.md "wikilink")                    | [名もなき詩](../Page/名もなき詩.md "wikilink")                       | [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") |
+| [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | [White Love](../Page/White_Love_\(SPEEDの曲\).md "wikilink") | [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")             |
+| [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | [HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")   | [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")                |
+| [1999年](../Page/1999年.md "wikilink")                    | [Winter,again](../Page/Winter,again.md "wikilink")         | [GLAY](../Page/GLAY.md "wikilink")                                  |
 
 ## 脚注・出典
 

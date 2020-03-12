@@ -1,7 +1,7 @@
 > この記事は[PlayStation \(2001\)](https://ja.wikipedia.org/wiki/PlayStation_\(2001\))から翻訳されています。
 
 
-'''PlayStationのゲームタイトル一覧 (2001年) '''（プレイステーションのゲームタイトルいちらん (2001ねん)）では[2001年](../Page/2001年.md "wikilink")に[PlayStation対応ソフトとして発売されたゲームソフトを発売順に列記する](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。ただし追加要素のない廉価版は含まない。全265本。
+'''PlayStationのゲームタイトル一覧 (2001年) '''（プレイステーションのゲームタイトルいちらん (2001ねん)）では[2001年](../Page/2001年.md "wikilink")に[PlayStation対応ソフトとして発売されたゲームソフトを発売順に列記する](../Page/PlayStation_\(ゲーム機\).md "wikilink")。ただし追加要素のない廉価版は含まない。全265本。
 
 ## 1月
 
@@ -10,19 +10,19 @@
   - 1月18日 [シングル2 山佐Digiガイド・ファウスト](https://ja.wikipedia.org/wiki/ファウスト_\(パチスロ\) "wikilink")（ヤマサエンタテインメント）
   - 1月18日 [カラフルロジック](https://ja.wikipedia.org/wiki/カラフルロジック "wikilink")2（アルトロン）
   - 1月18日 [風雨来記](../Page/風雨来記.md "wikilink")（フォグ）
-  - 1月18日 [ヒストリー オブ 北電子](https://ja.wikipedia.org/wiki/北電子 "wikilink")（マップジャパン）
+  - 1月18日 [ヒストリー オブ 北電子](../Page/北電子.md "wikilink")（マップジャパン）
   - 1月18日 [SIMPLE1500実用シリーズ Vol.05 薬の事典 〜ピルブック2001年版〜](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 1月18日 [SIMPLE1500実用シリーズ Vol.06 カクテルのレシピ](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 1月18日 [ダービージョッキー2001](https://ja.wikipedia.org/wiki/ダービージョッキー2001 "wikilink")（アスミック・エース）
   - 1月25日 [私立鳳凰学園](https://ja.wikipedia.org/wiki/私立鳳凰学園 "wikilink")1年純愛組（J・ウイング）
   - 1月25日 [エキサイティングバス](https://ja.wikipedia.org/wiki/エキサイティングバス "wikilink")3（コナミ）
   - 1月25日 [ハムナプトラ 〜失われた砂漠の都〜](https://ja.wikipedia.org/wiki/ハムナプトラ "wikilink")（コナミ）
-  - 1月25日 [メタルスラッグ](https://ja.wikipedia.org/wiki/メタルスラッグ "wikilink")X（SNK）
+  - 1月25日 [メタルスラッグ](../Page/メタルスラッグ.md "wikilink")X（SNK）
   - 1月25日 [鮑黎明 風水入門](https://ja.wikipedia.org/wiki/鮑黎明 "wikilink")監修（サクセス）
   - 1月25日 [ULTIMATE FIGHTING CHAMPIONSHIP](https://ja.wikipedia.org/wiki/ULTIMATE_FIGHTING_CHAMPIONSHIP "wikilink")（カプコン）
   - 1月25日 [ベースボールシミュレーション IDプロ野球](https://ja.wikipedia.org/wiki/IDプロ野球 "wikilink")（コナミ）
   - 1月25日 [SIMPLE1500シリーズ Vol.54 THE バレーボール](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
-  - 1月25日 [てんたま](https://ja.wikipedia.org/wiki/てんたま "wikilink")（キッド）
+  - 1月25日 [てんたま](../Page/てんたま.md "wikilink")（キッド）
   - 1月25日 [エキサイティングプロレス](../Page/エキサイティングプロレス.md "wikilink")2（ユークス）
 
 ## 2月
@@ -33,7 +33,7 @@
   - 2月8日 [PANZER FRONT bis.](../Page/パンツァーフロント.md "wikilink")（エンターブレイン）
   - 2月15日 [Value1500 おーちゃんのお絵かきロジック3](https://ja.wikipedia.org/wiki/おーちゃんのお絵かきロジック "wikilink")（サン電子）
   - 2月22日 [三國志III](../Page/三國志III.md "wikilink")（コーエー）
-  - 2月22日 [ポケットデジモンワールド クール & ネイチャー バトルディスク](https://ja.wikipedia.org/wiki/デジモンワールド "wikilink")（バンダイ）
+  - 2月22日 [ポケットデジモンワールド クール & ネイチャー バトルディスク](../Page/デジモンワールド.md "wikilink")（バンダイ）
   - 2月22日 [ボルフォス](https://ja.wikipedia.org/wiki/ボルフォス "wikilink")（ナムコ）
   - 2月22日 [ハムスターのお出かけ](https://ja.wikipedia.org/wiki/ハムスターのお出かけ "wikilink")（加賀テック）
   - 2月22日 [アイシア](../Page/アイシア_\(ゲーム\).md "wikilink")（アトラス、限定DXパックあり）
@@ -53,7 +53,7 @@
   - 3月8日 [FEVER SANKYO公式パチンコシミュレーション](https://ja.wikipedia.org/wiki/FEVER "wikilink")4（インターナショナルカードシステム）
   - 3月8日 [シスタープリンセス](https://ja.wikipedia.org/wiki/シスタープリンセス "wikilink")（メディアワークス、・初回限定版あり）
   - 3月8日 [音楽ツクール](https://ja.wikipedia.org/wiki/音楽ツクール "wikilink")3（エンターブレイン）
-  - 3月15日 [無敵王トライゼノン](https://ja.wikipedia.org/wiki/無敵王トライゼノン "wikilink")（マーベラスエンターテイメント）
+  - 3月15日 [無敵王トライゼノン](../Page/無敵王トライゼノン.md "wikilink")（マーベラスエンターテイメント）
   - 3月15日 [ぶっつぶし](https://ja.wikipedia.org/wiki/ぶっつぶし "wikilink")（セレン）
   - 3月15日 [From TV animation ONE PIECE グランドバトル\!](https://ja.wikipedia.org/wiki/ONE_PIECE_グランドバトル! "wikilink")（バンダイ）
   - 3月15日 [必殺パチンコステーションnow8 じゃりン子チエ](../Page/じゃりン子チエ.md "wikilink")（サン電子）
@@ -67,7 +67,7 @@
   - 3月22日 [SIMPLE1500シリーズ Vol.56 THE スナイパー](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 3月22日 [SIMPLE1500シリーズ Vol.57 THE 迷路](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 3月22日 [PANDORA MAX SERIES Vol.6](https://ja.wikipedia.org/wiki/PANDORA_MAX "wikilink") [ONI零 〜復活〜](../Page/ONIシリーズ.md "wikilink")（パンドラボックス）
-  - 3月22日 [ザ・心理ゲーム10](https://ja.wikipedia.org/wiki/マインドスポーツ "wikilink")（ヴィジット）
+  - 3月22日 [ザ・心理ゲーム10](../Page/マインドスポーツ.md "wikilink")（ヴィジット）
   - 3月29日 [スーパーロボット大戦α外伝](../Page/スーパーロボット大戦α外伝.md "wikilink")（バンプレスト、限定版あり）
   - 3月29日 [THE HEIWA お天気スタジオ](https://ja.wikipedia.org/wiki/お天気スタジオ "wikilink")（アクアルージュ）
   - 3月29日 [がんばれゴエモン〜大江戸大回転〜](../Page/がんばれゴエモン〜大江戸大回転〜.md "wikilink")（コナミ）
@@ -97,7 +97,7 @@
   - 4月26日 [みんなの漢字教室 挑戦\!\!漢字検定](https://ja.wikipedia.org/wiki/漢字検定 "wikilink")（ダイナ）
   - 4月26日 [ハッピーダイエット](https://ja.wikipedia.org/wiki/ハッピーダイエット "wikilink")（トワイライトエクスプレス）
   - 4月26日 [キッズステーション ひとりでできるもん\!](../Page/ひとりでできるもん.md "wikilink")（バンダイ、コントローラー同梱版あり）
-  - 4月26日 [GEAR戦士電童](https://ja.wikipedia.org/wiki/GEAR戦士電童 "wikilink")（バンダイ）
+  - 4月26日 [GEAR戦士電童](../Page/GEAR戦士電童.md "wikilink")（バンダイ）
   - 4月26日 [ふりむけば隣に](https://ja.wikipedia.org/wiki/ふりむけば隣に "wikilink")（プリンセスソフト）
   - 4月26日 [私立鳳凰学園2年純情組](https://ja.wikipedia.org/wiki/私立鳳凰学園2年純情組 "wikilink")（J・ウイング）
 
@@ -106,7 +106,7 @@
   - 5月2日 [バーチャル競艇](../Page/バーチャル競艇.md "wikilink")21（日本物産）
   - 5月2日 [SIMPLE1500シリーズ Vol.61 THE クイズ2](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 5月2日 [SIMPLE1500実用シリーズ Vol.07 楽しく学ぶ運転免許](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
-  - 5月2日 [SDガンダム GGENERATION-F.I.F](https://ja.wikipedia.org/wiki/SDガンダム_GGENERATION "wikilink")（バンダイ）
+  - 5月2日 [SDガンダム GGENERATION-F.I.F](../Page/SDガンダム_GGENERATION.md "wikilink")（バンダイ）
   - 5月10日 [三洋パチンコパラダイス5 〜ウキウキ大漁旗〜](../Page/パチパラシリーズ.md "wikilink")（アイレムソフトウェアエンジニアリング）
   - 5月10日 [ワールドスタジアム](../Page/ワールドスタジアム.md "wikilink")5（ナムコ）
   - 5月10日 [サラリーマン接待麻雀](https://ja.wikipedia.org/wiki/サラリーマン接待麻雀 "wikilink")（ヴィジット）
@@ -117,27 +117,27 @@
   - 5月24日 [パチスロ完全攻略 〜高砂スーパープロジェクト〜](https://ja.wikipedia.org/wiki/高砂スーパープロジェクト "wikilink")（シスコンエンタテインメント）
   - 5月24日 [ティアリングサーガ ユトナ英雄戦記](../Page/ティアリングサーガ_ユトナ英雄戦記.md "wikilink")（エンターブレイン）
   - 5月24日 [焼肉奉行](https://ja.wikipedia.org/wiki/焼肉奉行 "wikilink")（メディアエンターテイメント）
-  - 5月24日 [どこでもいっしょ デラックスパック](https://ja.wikipedia.org/wiki/どこでもいっしょ "wikilink")（ソニー・コンピュータエンタテインメント）
-  - 5月24日 [iモードもいっしょ 〜どこでもいっしょ追加ディスク〜](https://ja.wikipedia.org/wiki/どこでもいっしょ "wikilink")（ソニー・コンピュータエンタテインメント、携帯電話接続ケーブル同梱版あり）
-  - 5月24日 [キッズステーション やんちゃるモンちゃ](https://ja.wikipedia.org/wiki/やんちゃるモンちゃ "wikilink")（サン電子、コントローラ同梱版あり）
-  - 5月24日 [ファンタスティックフォーチュン](https://ja.wikipedia.org/wiki/ファンタスティックフォーチュン "wikilink")（サイバーフロント）
-  - 5月24日 [悪魔城年代記 悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_\(X68000版\) "wikilink")（コナミ）
-  - 5月24日 [山佐Digiワールド・テトラマスター](https://ja.wikipedia.org/wiki/山佐Digiシリーズ "wikilink")（ヤマサエンタテインメント）
+  - 5月24日 [どこでもいっしょ デラックスパック](../Page/どこでもいっしょ.md "wikilink")（ソニー・コンピュータエンタテインメント）
+  - 5月24日 [iモードもいっしょ 〜どこでもいっしょ追加ディスク〜](../Page/どこでもいっしょ.md "wikilink")（ソニー・コンピュータエンタテインメント、携帯電話接続ケーブル同梱版あり）
+  - 5月24日 [キッズステーション やんちゃるモンちゃ](../Page/やんちゃるモンちゃ.md "wikilink")（サン電子、コントローラ同梱版あり）
+  - 5月24日 [ファンタスティックフォーチュン](../Page/ファンタスティックフォーチュン.md "wikilink")（サイバーフロント）
+  - 5月24日 [悪魔城年代記 悪魔城ドラキュラ](../Page/悪魔城ドラキュラ_\(X68000版\).md "wikilink")（コナミ）
+  - 5月24日 [山佐Digiワールド・テトラマスター](../Page/山佐Digiシリーズ.md "wikilink")（ヤマサエンタテインメント）
   - 5月24日 [スタートリングアドベンチャーズ 空想3×大冒険](https://ja.wikipedia.org/wiki/スタートリングアドベンチャーズ_空想3×大冒険 "wikilink")（カプコン）
   - 5月24日 [バウンティハンターサラ ホーリーマウンテンの帝王](https://ja.wikipedia.org/wiki/バウンティハンターサラ_ホーリーマウンテンの帝王 "wikilink")（カプコン）
-  - 5月24日 [エミーリア](https://ja.wikipedia.org/wiki/眠れる森のお姫さま "wikilink")（キッド）
+  - 5月24日 [エミーリア](../Page/眠れる森のお姫さま.md "wikilink")（キッド）
   - 5月24日 [SuperLite 1500シリーズ 魔紀行](https://ja.wikipedia.org/wiki/魔紀行 "wikilink")（サクセス）
   - 5月24日 [SuperLite 1500シリーズ クロスワード3](https://ja.wikipedia.org/wiki/クロスワード "wikilink")（サクセス）
-  - 5月24日 [SuperLite 1500シリーズ 数独 5](https://ja.wikipedia.org/wiki/数独 "wikilink")（サクセス）
+  - 5月24日 [SuperLite 1500シリーズ 数独 5](../Page/数独.md "wikilink")（サクセス）
   - 5月24日 [SuperLite 1500シリーズ ナンクロ4](https://ja.wikipedia.org/wiki/ナンクロ "wikilink")（サクセス）
   - 5月31日 [サラリーマンチャンプ たたかうサラリーマン](https://ja.wikipedia.org/wiki/サラリーマンチャンプ_たたかうサラリーマン "wikilink")（サクセス）
-  - 5月31日 [SuperLite Goldシリーズ みんなの麻雀](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（サクセス）
+  - 5月31日 [SuperLite Goldシリーズ みんなの麻雀](../Page/SuperLiteシリーズ.md "wikilink")（サクセス）
   - 5月31日 [SIMPLE1500シリーズ Vol.62 THE スキー](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 5月31日 [SIMPLE1500シリーズ Vol.63 THE ガンシューティング2](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
-  - 5月31日 [トゥームレイダー](https://ja.wikipedia.org/wiki/トゥームレイダー "wikilink")5：クロニコル（カプコン）
+  - 5月31日 [トゥームレイダー](../Page/トゥームレイダー.md "wikilink")5：クロニコル（カプコン）
   - 5月31日 [戦国夢幻](https://ja.wikipedia.org/wiki/戦国夢幻 "wikilink")（バンプレスト）
   - 5月31日 [パチスロ帝王 メーカー推奨マニュアル4 〜エキゾースト・大江戸桜吹雪2〜](https://ja.wikipedia.org/wiki/パチスロ帝王 "wikilink")（メディアエンターテイメント）
-  - 5月31日 [真・女神転生](https://ja.wikipedia.org/wiki/真・女神転生 "wikilink")（アトラス）
+  - 5月31日 [真・女神転生](../Page/真・女神転生.md "wikilink")（アトラス）
 
 ## 6月
 
@@ -148,11 +148,11 @@
   - 6月14日 [AFRAID GEAR Another（アフレイドギア・アナザ）](https://ja.wikipedia.org/wiki/AFRAID_GEAR "wikilink")（[オフィスクリエイト](https://ja.wikipedia.org/wiki/オフィスクリエイト_\(ゲーム会社\) "wikilink")）
   - 6月14日 [シープ](https://ja.wikipedia.org/wiki/シープ "wikilink")（シスコンエンタテインメント）
   - 6月14日 [夜想曲2](../Page/夜想曲_\(ゲーム\).md "wikilink")（ビクター インタラクティブ ソフトウエア）
-  - 6月21日 [Jリーグ実況ウイニングイレブン2001](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")（コナミ）
+  - 6月21日 [Jリーグ実況ウイニングイレブン2001](../Page/ウイニングイレブン.md "wikilink")（コナミ）
   - 6月21日 [京都舞妓物語](https://ja.wikipedia.org/wiki/京都舞妓物語 "wikilink")（ヴィジット）
   - 6月21日 [ワンピースマンション](https://ja.wikipedia.org/wiki/ワンピースマンション "wikilink")（カプコン）
   - 6月21日 [SuperLite GOLD シリーズ おてなみ拝見](https://ja.wikipedia.org/wiki/おてなみ拝見 "wikilink")（サクセス）
-  - 6月28日 [SuperLite1500シリーズ スリザーリンク](https://ja.wikipedia.org/wiki/スリザーリンク "wikilink")（サクセス）
+  - 6月28日 [SuperLite1500シリーズ スリザーリンク](../Page/スリザーリンク.md "wikilink")（サクセス）
   - 6月28日 [改訂版マーク矢崎監修西洋占星術1500シリーズ](https://ja.wikipedia.org/wiki/マーク・矢崎治信 "wikilink")（サクセス）
   - 6月28日 [改訂版マーク矢崎監修 四柱推命1500シリーズ](https://ja.wikipedia.org/wiki/マーク・矢崎治信 "wikilink")（サクセス）
   - 6月28日 [KID MIXセクション](https://ja.wikipedia.org/wiki/KID_MIXセクション "wikilink")（キッド）
@@ -167,7 +167,7 @@
   - 7月12日 [スーパープライスシリーズ](https://ja.wikipedia.org/wiki/スーパープライスシリーズ "wikilink")『牌牌』（セレン）
   - 7月12日 [スーパープライスシリーズ](https://ja.wikipedia.org/wiki/スーパープライスシリーズ "wikilink")『麻雀』（セレン）
   - 7月12日 [スーパープライスシリーズ](https://ja.wikipedia.org/wiki/スーパープライスシリーズ "wikilink")『ビリヤード』（セレン）
-  - 7月12日 [ウッディウッドペッカーのゴー\!ゴー\!レーシング](https://ja.wikipedia.org/wiki/ウッディー・ウッドペッカー "wikilink")（コナミ）
+  - 7月12日 [ウッディウッドペッカーのゴー\!ゴー\!レーシング](../Page/ウッディー・ウッドペッカー.md "wikilink")（コナミ）
   - 7月12日 [カラフルロジック 〜不思議な変形ロジック〜](https://ja.wikipedia.org/wiki/カラフルロジック "wikilink")3（アルトロン）
   - 7月19日 [ナニワ金融道 〜青木雄二の世間胸算用〜](../Page/ナニワ金融道.md "wikilink")（講談社）
   - 7月26日 [SIMPLE1500実用シリーズ Vol.08 1時間でわかる株式投資](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
@@ -175,7 +175,7 @@
   - 7月26日 [チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")（アンフォグラムハドソン）
   - 7月26日 [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")（コナミ）
   - 7月26日 [キッズステーション アンパンマン2 アンパンマンとだいぼうけん\!](../Page/アンパンマン.md "wikilink")（バンダイ、コントローラ同梱版あり）
-  - 7月26日 [キッズステーション デジモンパーク](https://ja.wikipedia.org/wiki/デジタルモンスター "wikilink")（バンダイ、コントローラ同梱版あり）
+  - 7月26日 [キッズステーション デジモンパーク](../Page/デジタルモンスター.md "wikilink")（バンダイ、コントローラ同梱版あり）
   - 7月26日 [キッズステーション も〜っと\! おジャ魔女どれみ MAHO堂スマイルパーティ](https://ja.wikipedia.org/wiki/おジャ魔女どれみ#ゲームなど "wikilink")（バンダイ、コントローラ同梱版あり）
   - 7月26日 [恋よほう](https://ja.wikipedia.org/wiki/恋よほう "wikilink")（プリンセスソフト）
   - 7月26日 [ゾイド 〜西方大陸戦記〜](../Page/ゾイド.md "wikilink")バトルカードゲーム（トミー）
@@ -183,7 +183,7 @@
 ## 8月
 
   - 8月2日 [From TV animation ONE PIECE とびだせ海賊団\!](https://ja.wikipedia.org/wiki/ONE_PIECE_とびだせ海賊団! "wikilink")（バンダイ、PocketStation同梱版あり）
-  - 8月2日 [サモンナイト2](https://ja.wikipedia.org/wiki/サモンナイト2 "wikilink")（バンプレスト）
+  - 8月2日 [サモンナイト2](../Page/サモンナイト2.md "wikilink")（バンプレスト）
   - 8月9日 [パチスロ帝王 〜バニーガールSP〜](https://ja.wikipedia.org/wiki/パチスロ帝王 "wikilink")（メディアエンターテイメント）
   - 8月9日 [SIMPLE1500シリーズ Vol.67 THE サッカー 〜ダイナマイトサッカー1500〜](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 8月9日 [SIMPLE1500シリーズ Vol.68 THE RCカー RCでGO\!](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
@@ -209,11 +209,11 @@
   - 9月13日 [Evergreen Avenue](https://ja.wikipedia.org/wiki/Evergreen_Avenue "wikilink")（データム・ポリスター）
   - 9月13日 [逢魔が時](https://ja.wikipedia.org/wiki/逢魔が時 "wikilink")2（ビクターインタラクティブソフトウェア）
   - 9月13日 [豊丸倶楽部 〜CRナナシー〜](https://ja.wikipedia.org/wiki/豊丸倶楽部 "wikilink")Vol.1（豊丸産業）
-  - 9月13日 [桃太郎まつり 〜石川六右衛門の巻〜](https://ja.wikipedia.org/wiki/桃太郎まつり "wikilink")（ハドソン）
+  - 9月13日 [桃太郎まつり 〜石川六右衛門の巻〜](../Page/桃太郎まつり.md "wikilink")（ハドソン）
   - 9月20日 [FEVER5 SANKYO公式パチンコシミュレーション](https://ja.wikipedia.org/wiki/FEVER5_SANKYO "wikilink")（インターナショナル・カードシステム）
   - 9月20日 [こもっち](https://ja.wikipedia.org/wiki/こもっち "wikilink")（ビクターインタラクティブソフトウェア）
   - 9月20日 [Dance Dance Revolution 5th MIX](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")（コナミコンピュータエンタテインメント東京）
-  - 9月27日 [Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")（KID、初回限定版あり）
+  - 9月27日 [Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")（KID、初回限定版あり）
   - 9月27日 [フェイバリットディア - 円環の物語 -](https://ja.wikipedia.org/wiki/フェイバリットディア "wikilink")（NECインターチャネル）
   - 9月27日 [SIMPLE1500シリーズVol.73 THE インベーダー 〜スペースインベーダー1500〜](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 9月27日 [SIMPLE1500シリーズVol.74 THE ホラーミステリー 〜惨劇館 ケビン伯爵の復活〜](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
@@ -222,7 +222,7 @@
 
 ## 10月
 
-  - 10月4日 [キッズステーション バーバパパ](https://ja.wikipedia.org/wiki/バーバパパ "wikilink")（サン電子、コントローラー同梱版あり）
+  - 10月4日 [キッズステーション バーバパパ](../Page/バーバパパ.md "wikilink")（サン電子、コントローラー同梱版あり）
   - 10月4日 [メモリアル☆シリーズ サンソフトVol.1](../Page/メモリアル☆シリーズ.md "wikilink")（サン電子）
   - 10月11日 [西陣パチンコ CR花満速報＆CRおばけらんど](https://ja.wikipedia.org/wiki/西陣パチンコ "wikilink")徹底攻略（メディアリング）
   - 10月11日 [ハローキティ](../Page/ハローキティ.md "wikilink")のおしゃべりABC（アトラス、コントローラー同梱版あり）
@@ -231,7 +231,7 @@
   - 10月25日 [SIMPLEキャラクター2000シリーズ Vol.2 アフロ犬 THE パズル](https://ja.wikipedia.org/wiki/アフロ犬 "wikilink")（バンダイ）
   - 10月25日 [SIMPLEキャラクター2000シリーズ Vol.3 仮面ライダー THE バイクレース](../Page/仮面ライダー.md "wikilink")（バンダイ）
   - 10月25日 [Castrol HONDA VTR SuperLite GOLDシリーズ](https://ja.wikipedia.org/wiki/ホンダ・VTR1000_SP-1/2 "wikilink")（サクセス）
-  - 10月25日 [SuperLite GOLDシリーズ みんなの囲碁](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（サクセス）
+  - 10月25日 [SuperLite GOLDシリーズ みんなの囲碁](../Page/SuperLiteシリーズ.md "wikilink")（サクセス）
   - 10月25日 [SIMPLE1500シリーズ Vol.75 THE ダブルシューティング](../Page/SIMPLEシリーズ.md "wikilink") 〜[レイストーム](../Page/レイストーム.md "wikilink")×[レイクライシス](../Page/レイクライシス.md "wikilink")〜（D3パブリッシャー）
   - 10月25日 [SIMPLE1500シリーズVol.76 THE ドッヂボール](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 10月25日 [SIMPLE1500シリーズVol.77 THE 水泳](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
@@ -266,8 +266,8 @@
   - 11月29日 [ハッピージョギング Hawaii](https://ja.wikipedia.org/wiki/ハッピージョギング "wikilink")in（トワイライトエクスプレス）
   - 11月29日 [DX人生ゲームIV](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")（タカラ）
   - 11月29日 [ロックマンX6](https://ja.wikipedia.org/wiki/ロックマンX6 "wikilink")（カプコン）
-  - 11月29日 [SuperLite GOLDシリーズ みんなのチェス](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（サクセス）
-  - 11月29日 [SuperLite 3in1シリーズ 数独集](https://ja.wikipedia.org/wiki/数独 "wikilink")（サクセス）
+  - 11月29日 [SuperLite GOLDシリーズ みんなのチェス](../Page/SuperLiteシリーズ.md "wikilink")（サクセス）
+  - 11月29日 [SuperLite 3in1シリーズ 数独集](../Page/数独.md "wikilink")（サクセス）
 
 ## 12月
 
@@ -291,9 +291,9 @@
   - 12月20日 [SIMPLEキャラクター2000シリーズ Vol.05 ハイスクール奇面組 THE テーブルホッケー](https://ja.wikipedia.org/wiki/ハイスクール奇面組 "wikilink")（バンダイ）
   - 12月20日 [ゴエモン 新世代襲名\!](../Page/ゴエモン_新世代襲名!.md "wikilink")（コナミコンピュータエンタテインメント東京）
   - 12月20日 [実況パワフルプロ野球2001](../Page/実況パワフルプロ野球2001.md "wikilink")決定版（コナミコンピュータエンタテインメント大阪）
-  - 12月20日 [SuperLite 3in1シリーズ クイズ集](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（サクセス）
-  - 12月20日 [SuperLite 3in1シリーズ 釣りゲーム集](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（サクセス）
-  - 12月20日 [SuperLite 3in1シリーズ クロスワード集](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")（サクセス）
+  - 12月20日 [SuperLite 3in1シリーズ クイズ集](../Page/SuperLiteシリーズ.md "wikilink")（サクセス）
+  - 12月20日 [SuperLite 3in1シリーズ 釣りゲーム集](../Page/SuperLiteシリーズ.md "wikilink")（サクセス）
+  - 12月20日 [SuperLite 3in1シリーズ クロスワード集](../Page/SuperLiteシリーズ.md "wikilink")（サクセス）
   - 12月20日 [SIMPLE1500シリーズ Vol.79 THE 四川省](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 12月20日 [SIMPLE1500シリーズ Vol.80 THE 陣取り 〜ヴォルフィード1500](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 12月20日 [SIMPLE1500シリーズ Vol.81 THE 恋愛アドベンチャー 〜おかえりっ\!〜](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）

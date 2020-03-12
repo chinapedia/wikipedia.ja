@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **HAPPINESS -WINTER MIX-** (5:53)
-      - 作詞・作曲:[TAKURO](../Page/TAKURO.md "wikilink")　編曲:[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")、GLAY
+      - 作詞・作曲:[TAKURO](../Page/TAKURO.md "wikilink")　編曲:[佐久間正英](../Page/佐久間正英.md "wikilink")、GLAY
     <!-- end list -->
       -
         アルバムとの違いはコーラス等だが、その違いは聞き分けが非常に困難であり、メンバーですら区別がつかないと語っていた。シングルカットしたのはドラマタイアップが来たためである。
@@ -37,6 +37,6 @@
 
 ## 関連項目
 
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

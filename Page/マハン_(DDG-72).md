@@ -13,11 +13,11 @@
 | その後                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | モットー                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-**マハン** (, DDG-72) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル駆逐艦](https://ja.wikipedia.org/wiki/ミサイル駆逐艦 "wikilink")。[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")の22番艦。艦名は[アルフレッド・セイヤー・マハン](../Page/アルフレッド・セイヤー・マハン.md "wikilink")海軍[少将](https://ja.wikipedia.org/wiki/少将 "wikilink")に因む。その名を持つ艦（[:en:USS Mahan](https://ja.wikipedia.org/wiki/:en:USS_Mahan "wikilink")）としては4隻目。
+**マハン** (, DDG-72) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル駆逐艦](../Page/ミサイル駆逐艦.md "wikilink")。[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")の22番艦。艦名は[アルフレッド・セイヤー・マハン](../Page/アルフレッド・セイヤー・マハン.md "wikilink")海軍[少将](../Page/少将.md "wikilink")に因む。その名を持つ艦（[:en:USS Mahan](https://ja.wikipedia.org/wiki/:en:USS_Mahan "wikilink")）としては4隻目。
 
 ## Flight II
 
-マハンはアーレイ・バーク級ミサイル駆逐艦 Flight II 最初の艦である。それ以前の艦と比べて排水量が500トン程増加した。またこの艦から、[SeaRAMを搭載している](https://ja.wikipedia.org/wiki/RAM_\(ミサイル\) "wikilink")。
+マハンはアーレイ・バーク級ミサイル駆逐艦 Flight II 最初の艦である。それ以前の艦と比べて排水量が500トン程増加した。またこの艦から、[SeaRAMを搭載している](../Page/RAM_\(ミサイル\).md "wikilink")。
 
 ## 関連項目
 

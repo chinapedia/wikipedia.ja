@@ -1,7 +1,7 @@
 > この記事は[DMS-10](https://ja.wikipedia.org/wiki/DMS-10)から翻訳されています。
 
 
-**DMS-10**（ディ・エム・エス・テン）はノーザンテレコム（Northern Telecom、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink") [オンタリオ州](../Page/オンタリオ州.md "wikilink")）製の[電気通信事業](https://ja.wikipedia.org/wiki/電気通信事業 "wikilink")用[デジタル交換機](https://ja.wikipedia.org/wiki/デジタル交換機 "wikilink")である。
+**DMS-10**（ディ・エム・エス・テン）はノーザンテレコム（Northern Telecom、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink") [オンタリオ州](../Page/オンタリオ州.md "wikilink")）製の[電気通信事業](../Page/電気通信事業.md "wikilink")用[デジタル交換機](https://ja.wikipedia.org/wiki/デジタル交換機 "wikilink")である。
 
 ## 概要
 
@@ -11,11 +11,11 @@
 
 ## 日本での導入
 
-1986年（昭和61年）に、分社化前の旧[NTTが中容量ディジタル交換機DMS](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")-10を購入する契約を締結。1987年（昭和62年）4月にノーザンテレコム（現 [ノーテルネットワークス](https://ja.wikipedia.org/wiki/ノーテルネットワークス "wikilink") (Nortel Networks)）から中容量局用ディジタル交換機（最大約1万端子）を購入した。1989年（平成元年）に、地方のデジタル化促進・遠隔集約保守による合理化のため本格導入を始めた。
+1986年（昭和61年）に、分社化前の旧[NTTが中容量ディジタル交換機DMS](../Page/日本電信電話.md "wikilink")-10を購入する契約を締結。1987年（昭和62年）4月にノーザンテレコム（現 [ノーテルネットワークス](../Page/ノーテルネットワークス.md "wikilink") (Nortel Networks)）から中容量局用ディジタル交換機（最大約1万端子）を購入した。1989年（平成元年）に、地方のデジタル化促進・遠隔集約保守による合理化のため本格導入を始めた。
 
-電電ファミリーと呼ばれる国内メーカー以外から初めて採用された唯一の海外メーカー製の[電気通信事業](https://ja.wikipedia.org/wiki/電気通信事業 "wikilink")用[デジタル交換機](https://ja.wikipedia.org/wiki/デジタル交換機 "wikilink")である。[貿易摩擦](https://ja.wikipedia.org/wiki/貿易摩擦 "wikilink")により海外からの政治圧力で導入された。
+電電ファミリーと呼ばれる国内メーカー以外から初めて採用された唯一の海外メーカー製の[電気通信事業](../Page/電気通信事業.md "wikilink")用[デジタル交換機](https://ja.wikipedia.org/wiki/デジタル交換機 "wikilink")である。[貿易摩擦](../Page/貿易摩擦.md "wikilink")により海外からの政治圧力で導入された。
 
-[D60](https://ja.wikipedia.org/wiki/D60形ディジタル交換機 "wikilink")・[D70と](https://ja.wikipedia.org/wiki/D70形ディジタル交換機 "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の互換性がなく、新[サービス導入に費用が掛かる原因となり](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")、保守運用費用が高くなっていたため、2003年（平成15年）から撤去を開始し、[NTT東日本は](../Page/東日本電信電話.md "wikilink")2005年（平成17年）、[NTT西日本も](../Page/西日本電信電話.md "wikilink")2008年（平成20年）に撤去を完了した。後継機種として、NTT新ノードシステム ([NS-8000](https://ja.wikipedia.org/wiki/NS-8000 "wikilink")) のRSBM （Remote Subscriber Module : 遠隔加入者収容モジュール）での[光収容](https://ja.wikipedia.org/wiki/光収容 "wikilink")が導入された。
+[D60](../Page/D60形ディジタル交換機.md "wikilink")・[D70と](../Page/D70形ディジタル交換機.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の互換性がなく、新[サービス導入に費用が掛かる原因となり](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")、保守運用費用が高くなっていたため、2003年（平成15年）から撤去を開始し、[NTT東日本は](../Page/東日本電信電話.md "wikilink")2005年（平成17年）、[NTT西日本も](../Page/西日本電信電話.md "wikilink")2008年（平成20年）に撤去を完了した。後継機種として、NTT新ノードシステム ([NS-8000](https://ja.wikipedia.org/wiki/NS-8000 "wikilink")) のRSBM （Remote Subscriber Module : 遠隔加入者収容モジュール）での[光収容](../Page/光収容.md "wikilink")が導入された。
 
 ## 歴史
 
@@ -26,7 +26,7 @@
   - 1985年（昭和60年） - 政府登録旅館のホテル花巻へ外資系企業として初めてノーザンテレコムが日本国内に大型のデジタル化PBXを納入。
       - これが契機となり翌年NTTとの契約となる。
   - 1986年（昭和61年） - NTTとノーザンテレコム間で購入契約を締結。約2億5千万ドル。
-  - 1987年（昭和62年） - 東京近郊の沼南地域（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")の[沼南町](https://ja.wikipedia.org/wiki/沼南町 "wikilink")（現 [柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")））に1号機納入。
+  - 1987年（昭和62年） - 東京近郊の沼南地域（[千葉県](../Page/千葉県.md "wikilink")の[沼南町](../Page/沼南町.md "wikilink")（現 [柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")））に1号機納入。
   - 1988年（昭和63年） - 商用第1号機サービス開始。
   - 1993年（平成5年）2月 - 購入契約2年半延長。新たに契約した総額は約2億7千万ドル（340億円）。今までの契約分を合わせると約5億ドル（760億円）。273ユニット稼動中\[4\]。
   - 1998年（平成10年）9月 - NTT調達取決めを改善し延長\[5\]。
@@ -40,7 +40,7 @@
 
 ## 関連項目
 
-  - [交換機](https://ja.wikipedia.org/wiki/交換機 "wikilink")｜[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink") : 交換機の機能
+  - [交換機](../Page/交換機.md "wikilink")｜[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink") : 交換機の機能
 
 ## 外部リンク
 

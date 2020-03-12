@@ -1,7 +1,7 @@
 > この記事は[Limited Express \(has gone\?\)](https://ja.wikipedia.org/wiki/Limited_Express_\(has_gone\?\))から翻訳されています。
 
 
-**Limited Express(has gone?)**（リミテッド・エキスプレス・ハズ・ゴーン）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。現在はその活動の拠点を[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")に移し\[1\]、YUKARI(VO)、JJ(Gt)、もんでんやすのり(Dr)、[LessThanTV](http://www.lessthan.tv/)の谷ぐち順(B)の４人を中心に、サポートメンバーに小森良太(SAX)などをむかえ活動している\[2\]。
+**Limited Express(has gone?)**（リミテッド・エキスプレス・ハズ・ゴーン）は、[京都府](../Page/京都府.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。現在はその活動の拠点を[東京](../Page/東京.md "wikilink")に移し\[1\]、YUKARI(VO)、JJ(Gt)、もんでんやすのり(Dr)、[LessThanTV](http://www.lessthan.tv/)の谷ぐち順(B)の４人を中心に、サポートメンバーに小森良太(SAX)などをむかえ活動している\[2\]。
 
 ## 来歴
 
@@ -29,7 +29,7 @@ YUKARI ni-hao\!を結成する。
 
 《2003年》
 
-3月 1st album『Feeds You\!』を[ジョン・ゾーン](https://ja.wikipedia.org/wiki/ジョン・ゾーン "wikilink")の[TZADIK RECORDSからリリース](https://ja.wikipedia.org/wiki/TZADIK_RECORDS "wikilink")。
+3月 1st album『Feeds You\!』を[ジョン・ゾーン](../Page/ジョン・ゾーン.md "wikilink")の[TZADIK RECORDSからリリース](https://ja.wikipedia.org/wiki/TZADIK_RECORDS "wikilink")。
 
 7月 [FUJI ROCK FESTIVALに出演](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")。
 
@@ -39,9 +39,9 @@ YUKARI ni-hao\!を結成する。
 
 《2004年》
 
-2月 [小野島大](https://ja.wikipedia.org/wiki/小野島大 "wikilink")監修『Fine Time: A Tribute To New Wave』に参加。([clammbon](https://ja.wikipedia.org/wiki/clammbon "wikilink")、[Buffalo Daughter](https://ja.wikipedia.org/wiki/Buffalo_Daughter "wikilink")、[ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")等)
+2月 [小野島大](https://ja.wikipedia.org/wiki/小野島大 "wikilink")監修『Fine Time: A Tribute To New Wave』に参加。([clammbon](https://ja.wikipedia.org/wiki/clammbon "wikilink")、[Buffalo Daughter](../Page/Buffalo_Daughter.md "wikilink")、[ROVO](../Page/ROVO.md "wikilink")等)
 
-3月 [會田茂一](../Page/會田茂一.md "wikilink")監修『FLOWERS OF ERROR』に参加。([EL-MALO](https://ja.wikipedia.org/wiki/EL-MALO "wikilink")、[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")、[KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink")等)
+3月 [會田茂一](../Page/會田茂一.md "wikilink")監修『FLOWERS OF ERROR』に参加。([EL-MALO](../Page/EL-MALO.md "wikilink")、[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")、[KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink")等)
 
 3月 初のUSA TOURを決行(w/[Experimental Dental School](https://ja.wikipedia.org/wiki/Experimental_Dental_School "wikilink"))。[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink")04に出演。
 
@@ -75,7 +75,7 @@ YUKARI ni-hao\!を結成する。
 
 10月 US盤リリース用にコンプリートしたベスト盤『The Best is Coming\!』をリリース。結局、そのベスト盤がUSからでることはなかった。
 
-11月 [みやこ音楽祭](https://ja.wikipedia.org/wiki/みやこ音楽祭 "wikilink")監修『みやこ★音楽』に参加。
+11月 [みやこ音楽祭](../Page/みやこ音楽祭.md "wikilink")監修『みやこ★音楽』に参加。
 
 12月 みやこ音楽祭に出演。
 
@@ -313,7 +313,7 @@ YUKARI ni-hao\!を結成する。
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
 <td><p><strong>生け贄のJesus Child</strong></p></td>
 <td><p>MLAL-0014</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -406,7 +406,7 @@ YUKARI ni-hao\!を結成する。
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
 <td><p><strong>MAKES YOU DANCE!</strong></p></td>
 <td><p>MLAL-0012</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -542,7 +542,7 @@ YUKARI ni-hao\!を結成する。
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
 <td><p><strong>The Best is Coming!</strong></p></td>
 <td><p>MLAL-0015</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -595,7 +595,7 @@ YUKARI ni-hao\!を結成する。
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
 <td><p><strong>EXPERIMENTAL EXPRESS EXPLORER</strong></p></td>
 <td><p>MLAL-0010</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -615,7 +615,7 @@ YUKARI ni-hao\!を結成する。
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td><p><strong>eccentrics#2</strong></p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -754,7 +754,7 @@ YUKARI ni-hao\!を結成する。
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
 <td><p><strong>Live Ex at 101 bar</strong></p></td>
 <td><p>007TZM</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -843,7 +843,7 @@ YUKARI ni-hao\!を結成する。
 
   - [公式サイト](http://www.limited-ex.com/)
   - [allmusicのバイオ](http://www.allmusic.com/artist/limited-express-has-gone-mn0000289473)
-  - [Limited Express (has gone?) | Facebook](https://www.facebook.com/pages/Limited-Express-has-gone/108551099239332) - [Facebook](https://ja.wikipedia.org/wiki/Facebook "wikilink")の公式ページ
+  - [Limited Express (has gone?) | Facebook](https://www.facebook.com/pages/Limited-Express-has-gone/108551099239332) - [Facebook](../Page/Facebook.md "wikilink")の公式ページ
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink")
 

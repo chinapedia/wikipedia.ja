@@ -1,7 +1,7 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-株式会社**Pヴァイン**（P-VINE, Inc.）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")・[出版社](../Page/出版社.md "wikilink")。
+株式会社**Pヴァイン**（P-VINE, Inc.）は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[レコード会社](../Page/レコード会社.md "wikilink")・[出版社](../Page/出版社.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 CD、DVDのリリースのみならず、書籍、雑誌の出版も手がけていた。
 
-2006年に[SPACE SHOWER TVを運営する](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink")[スペースシャワーネットワーク](https://ja.wikipedia.org/wiki/スペースシャワーネットワーク "wikilink")が資本参加、翌2007年に完全子会社となる。
+2006年に[SPACE SHOWER TVを運営する](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink")[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が資本参加、翌2007年に完全子会社となる。
 
 2011年4月、社名を株式会社**Pヴァイン**（**P-VINE, Inc.**)に変更。本社を渋谷区に移転。Pヴァイン（洋楽）以外の事業は株式会社ペトロ・ミュージックに吸収分割させ、ペトロ・ミュージックがブルース・インターアクションズに商号変更\[1\]したが、同年10月、親会社のスペースシャワーネットワークに全事業を譲渡し、同社ミュージック&パブリッシング事業部門（現・[SPACE SHOWER MUSIC](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink")、SPACE SHOWER BOOKS）となる。
 
@@ -23,14 +23,14 @@ CD、DVDのリリースのみならず、書籍、雑誌の出版も手がけて
 
   - [1975年](../Page/1975年.md "wikilink")12月24日 - 有限会社ブルース・インターアクションズ（1991年株式会社に改組）設立。
       - 「ザ・ブルース」（現「[ブラック・ミュージック・リヴュー](https://ja.wikipedia.org/wiki/ブラック・ミュージック・リヴュー "wikilink") (bmr)」）の商業雑誌化が目的。
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") - Pヴァイン・レーベル設立。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")3月28日 - 有限会社ペトロ・ミュージック設立。
+  - [1976年](../Page/1976年.md "wikilink") - Pヴァイン・レーベル設立。
+  - [1991年](../Page/1991年.md "wikilink")3月28日 - 有限会社ペトロ・ミュージック設立。
       - ロバート・ジョンスンの出版権管理を契機に音楽出版社としてスタート。主にPヴァイン・レコードの音楽出版権管理を中心とした業務を行う。
   - 1991年6月20日 - Pヴァイン・レコード株式会社（CD・DVDの配給・販売）設立。
   - [2001年](../Page/2001年.md "wikilink")8月13日 - 株式会社サブスタンス（邦楽レーベル制作）設立。
   - [2003年](../Page/2003年.md "wikilink") - レコーディングスタジオ「湾岸音響」開業（2012年3月閉鎖）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月26日 - スペースシャワーネットワークと業務・資本提携、同社がブルース・インターアクションズ、Pヴァイン・レコード、ペトロ・ミュージックの株式49%を取得\[3\]。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")11月16日 - スペースシャワーネットワークがブルース・インターアクションズ、Pヴァイン・レコード、ペトロ・ミュージックを完全子会社化\[4\]。
+  - [2006年](../Page/2006年.md "wikilink")10月26日 - スペースシャワーネットワークと業務・資本提携、同社がブルース・インターアクションズ、Pヴァイン・レコード、ペトロ・ミュージックの株式49%を取得\[3\]。
+  - [2007年](../Page/2007年.md "wikilink")11月16日 - スペースシャワーネットワークがブルース・インターアクションズ、Pヴァイン・レコード、ペトロ・ミュージックを完全子会社化\[4\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月 - ブルース・インターアクションズがPヴァイン・レコード、サブスタンスを合併\[5\]。
   - [2011年](../Page/2011年.md "wikilink")4月1日 - ブルース・インターアクションズは、音楽事業の一部と書籍・雑誌出版事業を吸収分割によりペトロ・ミュージックに移管。従来のブルース・インターアクションズは株式会社Pヴァインに、ペトロ・ミュージックは株式会社ブルース・インターアクションズへと商号変更\[6\]\[7\]。
   - 2011年10月1日 - 株式会社ブルース・インターアクションズはスペースシャワーネットワークに全事業を譲渡し会社解散\[8\]。
@@ -56,28 +56,28 @@ CD、DVDのリリースのみならず、書籍、雑誌の出版も手がけて
 
 ## 主なアーティスト（洋楽）
 
-  - [Jim O'Rourke](https://ja.wikipedia.org/wiki/ジム・オルーク_\(ミュージシャン\) "wikilink")
+  - [Jim O'Rourke](../Page/ジム・オルーク_\(ミュージシャン\).md "wikilink")
   - [JOHN BUTLER TRIO](https://ja.wikipedia.org/wiki/ジョン・バトラー・トリオ "wikilink")
   - ALVVAYS
   - VULFPECK
-  - [PARLIAMENT](https://ja.wikipedia.org/wiki/パーラメント_\(バンド\) "wikilink")
+  - [PARLIAMENT](../Page/パーラメント_\(バンド\).md "wikilink")
   - MAIN SOURCE
   - [MESHELL NDEGEOCELLO](https://ja.wikipedia.org/wiki/ミシェル・ンデゲオチェロ "wikilink")
   - KING
-  - [MICHAEL FRANKS](https://ja.wikipedia.org/wiki/マイケル・フランクス "wikilink")
-  - [B.B.KING](https://ja.wikipedia.org/wiki/B.B.キング "wikilink")
-  - [HOLGER CZUKAY](https://ja.wikipedia.org/wiki/ホルガー・シューカイ "wikilink")
+  - [MICHAEL FRANKS](../Page/マイケル・フランクス.md "wikilink")
+  - [B.B.KING](../Page/B.B.キング.md "wikilink")
+  - [HOLGER CZUKAY](../Page/ホルガー・シューカイ.md "wikilink")
 
 （ほか多数）
 
 ## 主なアーティスト（邦楽）
 
   - [民謡クルセイダーズ](https://ja.wikipedia.org/wiki/民謡クルセイダーズ "wikilink")
-  - [山本精一](https://ja.wikipedia.org/wiki/山本精一 "wikilink")
-  - [少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")
+  - [山本精一](../Page/山本精一.md "wikilink")
+  - [少年ナイフ](../Page/少年ナイフ.md "wikilink")
   - [柴田聡子](https://ja.wikipedia.org/wiki/柴田聡子 "wikilink")
-  - [寺尾紗穂](https://ja.wikipedia.org/wiki/寺尾紗穂 "wikilink")
-  - [二階堂和美](https://ja.wikipedia.org/wiki/二階堂和美 "wikilink")
+  - [寺尾紗穂](../Page/寺尾紗穂.md "wikilink")
+  - [二階堂和美](../Page/二階堂和美.md "wikilink")
   - ISSUGI
   - 仙人掌
   - Gottz
@@ -106,4 +106,4 @@ CD、DVDのリリースのみならず、書籍、雑誌の出版も手がけて
 7.
 8.  [子会社からの事業譲受（経営統合）および当該子会社の解散に関するお知らせ](http://www.c-direct.ne.jp/public/japanese/uj/pdf/10104838/20110825199958.pdf) 2011年8月25日 スペースシャワーネットワーク
 9.
-10. 販売は日販アイ・ピー・エスが行っている。同社は[日本出版販売](https://ja.wikipedia.org/wiki/日本出版販売 "wikilink")（日販）のグループ会社だが、卸先の出版販売会社は日販に限定しない
+10. 販売は日販アイ・ピー・エスが行っている。同社は[日本出版販売](../Page/日本出版販売.md "wikilink")（日販）のグループ会社だが、卸先の出版販売会社は日販に限定しない

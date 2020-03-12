@@ -1,7 +1,7 @@
 > この記事は[Break Out \(\)](https://ja.wikipedia.org/wiki/Break_Out_\(\))から翻訳されています。
 
 
-『**Break Out**』（ブレイク・アウト）は、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")[系列で放送している](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**Break Out**』（ブレイク・アウト）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送している](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
 
 制作局のテレビ朝日では[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に放送開始。番組は[2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に一旦終了したが、それから約10年後の[2012年](../Page/2012年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")より再び同系列局で放送している。
 
@@ -9,34 +9,34 @@
 
 全国の[インディーズ](../Page/インディーズ.md "wikilink")バンドを紹介し、ランキングの発表やライブのレポートを行なっている番組。
 
-毎年夏には、番組で取り上げたインディーズアーティストや番組出身の卒業生が出演するライブイベント「**BreaK Out祭**」が日本各地で行われており、1997年と1999年には最終公演が[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で、1998年には[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")で行なわれた。2000年には「BreakOut祭2000」と銘打ち大々的に参加バンドを募りweb投票が行われ、中間発表でBASILISK GLANCEが1位を獲得したが最終発表はなぜか行われずBreakOut祭2000自体がなかったかのようにスルーされた。
+毎年夏には、番組で取り上げたインディーズアーティストや番組出身の卒業生が出演するライブイベント「**BreaK Out祭**」が日本各地で行われており、1997年と1999年には最終公演が[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で、1998年には[日本武道館](../Page/日本武道館.md "wikilink")で行なわれた。2000年には「BreakOut祭2000」と銘打ち大々的に参加バンドを募りweb投票が行われ、中間発表でBASILISK GLANCEが1位を獲得したが最終発表はなぜか行われずBreakOut祭2000自体がなかったかのようにスルーされた。
 
-1999年頃からはヴィジュアル系ブームの沈静と共に[メロコアバンドを中心に取り扱うようになり](../Page/メロディック・ハードコア.md "wikilink")、また、2000年には[ギターポップ](../Page/ギターポップ.md "wikilink")系中心の内容へとシフトしたものの、2001年末に番組自体が終了。番組の基本コンセプトは2002年4月放送開始の『[ストリートファイターズ](https://ja.wikipedia.org/wiki/ストリートファイターズ "wikilink")』へと受け継がれた。
+1999年頃からはヴィジュアル系ブームの沈静と共に[メロコアバンドを中心に取り扱うようになり](../Page/メロディック・ハードコア.md "wikilink")、また、2000年には[ギターポップ](../Page/ギターポップ.md "wikilink")系中心の内容へとシフトしたものの、2001年末に番組自体が終了。番組の基本コンセプトは2002年4月放送開始の『[ストリートファイターズ](../Page/ストリートファイターズ.md "wikilink")』へと受け継がれた。
 
-それから10年後の放送再開時には「復活」ではなく「新生」を掲げており、ロックやヴィジュアル系のみならず、[声優](../Page/声優.md "wikilink")や[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")などの動画サイトで活躍する歌い手なども積極的に採り上げている\[1\]。各シーンで人気を呼ぶ男性アーティストや注目バンドを中心に採り上げ、最新の音楽情報も紹介する。
+それから10年後の放送再開時には「復活」ではなく「新生」を掲げており、ロックやヴィジュアル系のみならず、[声優](../Page/声優.md "wikilink")や[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")などの動画サイトで活躍する歌い手なども積極的に採り上げている\[1\]。各シーンで人気を呼ぶ男性アーティストや注目バンドを中心に採り上げ、最新の音楽情報も紹介する。
 
 当初は[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")を除くテレビ朝日系主要5局のみで放送していたが、第2期からはANN[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")24局へ放送範囲が拡大している。
 
-2013年5月から11月まで、[グリーの同名ゲームを原作とするコーナーアニメ](https://ja.wikipedia.org/wiki/グリー_\(企業\) "wikilink")「[踊り子クリノッペ](https://ja.wikipedia.org/wiki/踊り子クリノッペ "wikilink")」を放送。
+2013年5月から11月まで、[グリーの同名ゲームを原作とするコーナーアニメ](../Page/グリー_\(企業\).md "wikilink")「[踊り子クリノッペ](https://ja.wikipedia.org/wiki/踊り子クリノッペ "wikilink")」を放送。
 
 現在、“甘めで、ゆるめで、きれいめで”をコンセプトとした\[2\]若い男性たちを中心とした朗読コーナー「Candy Boy」が展開中。また、2015年9月から、コーナーをコンセプトとした「Candy Boy CAFE」が原宿にオープンしている\[3\]。
 
 ## 評価
 
-初期から中期にかけては[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドを多く取り上げ、ヴィジュアル系ブームの一翼を担った。この番組で取り上げられ、後にメジャーデビューしたバンドは「卒業生」として扱われた。いわゆるヴィジュアル系四天王の[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")、[SHAZNA](https://ja.wikipedia.org/wiki/SHAZNA "wikilink")、[La'cryma Christiはこの番組の卒業生である](../Page/La'cryma_Christi.md "wikilink")\[4\]。[市川哲史](https://ja.wikipedia.org/wiki/市川哲史 "wikilink")は「超低レベルの連中も多かった」と述べ、[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")や[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")も酷評しているが、一方で全国にヴィジュアル系を広めた実績もあったとされる。
+初期から中期にかけては[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドを多く取り上げ、ヴィジュアル系ブームの一翼を担った。この番組で取り上げられ、後にメジャーデビューしたバンドは「卒業生」として扱われた。いわゆるヴィジュアル系四天王の[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")、[SHAZNA](../Page/SHAZNA.md "wikilink")、[La'cryma Christiはこの番組の卒業生である](../Page/La'cryma_Christi.md "wikilink")\[4\]。[市川哲史](../Page/市川哲史.md "wikilink")は「超低レベルの連中も多かった」と述べ、[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")や[キリト](../Page/キリト.md "wikilink")も酷評しているが、一方で全国にヴィジュアル系を広めた実績もあったとされる。
 
 ## 出演者
 
 ### 第1期
 
   - [東海林のり子](../Page/東海林のり子.md "wikilink")
-  - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink") - 視聴者質問コーナー「Lesson One I.D.S」で、長期にわたって講師を務めていた。
-  - [古川恵実子](https://ja.wikipedia.org/wiki/古川恵実子 "wikilink")
+  - [真矢](../Page/真矢_\(ドラマー\).md "wikilink") - 視聴者質問コーナー「Lesson One I.D.S」で、長期にわたって講師を務めていた。
+  - [古川恵実子](../Page/古川恵実子.md "wikilink")
 
 ### 第2期・第3期
 
   - [諏訪部順一](../Page/諏訪部順一.md "wikilink") - ナレーションを担当。番組ナビゲーターの宇宙人「BONちゃん」の声も担当。
-  - [中島沙樹](https://ja.wikipedia.org/wiki/中島沙樹 "wikilink") - 番組ナビゲーターの宇宙人「BONちゃん」の声を2012年2月、3月放送回のみ担当。
+  - [中島沙樹](../Page/中島沙樹.md "wikilink") - 番組ナビゲーターの宇宙人「BONちゃん」の声を2012年2月、3月放送回のみ担当。
 
 ### 第4期・第5期・第6期
 
@@ -49,13 +49,13 @@
 ## 卒業生
 
   - [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")
-  - [FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")
-  - [SHAZNA](https://ja.wikipedia.org/wiki/SHAZNA "wikilink")
-  - [D-SHADE](https://ja.wikipedia.org/wiki/D-SHADE "wikilink")
-  - [Lastier](https://ja.wikipedia.org/wiki/Lastier "wikilink")
+  - [FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")
+  - [SHAZNA](../Page/SHAZNA.md "wikilink")
+  - [D-SHADE](../Page/D-SHADE.md "wikilink")
+  - [Lastier](../Page/Lastier.md "wikilink")
   - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")
-  - [L'luvia](https://ja.wikipedia.org/wiki/L'luvia "wikilink")
-  - [Janne Da Arc](https://ja.wikipedia.org/wiki/Janne_Da_Arc "wikilink")
+  - [L'luvia](../Page/L'luvia.md "wikilink")
+  - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
   - LUCA
   - [e.mu](https://ja.wikipedia.org/wiki/e.mu "wikilink")
   - [CLOUD](https://ja.wikipedia.org/wiki/CLOUD "wikilink")
@@ -70,7 +70,7 @@
   - D'elsquel
   - Orphee
   - [雫...Shizuku](https://ja.wikipedia.org/wiki/雫...Shizuku "wikilink")
-  - [RED](https://ja.wikipedia.org/wiki/松雪陽 "wikilink")
+  - [RED](../Page/松雪陽.md "wikilink")
   - CAMDEN LOCK
   - GLOOMY MONSTER
   - LOVE BITES
@@ -92,13 +92,13 @@
 
 ### 第1期
 
-| 放送対象地域                                              | 放送局                                                         | 系列                                                  | 備考      |
-| --------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")（EX） | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") | **制作局** |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")（HTB）               |                                                     |         |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東日本放送](../Page/東日本放送.md "wikilink")（KHB）                   |                                                     |         |
-| [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")（NBN）                 |                                                     |         |
-| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）                  |                                                     |         |
+| 放送対象地域                                              | 放送局                                           | 系列                                                  | 備考      |
+| --------------------------------------------------- | --------------------------------------------- | --------------------------------------------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ朝日](../Page/テレビ朝日.md "wikilink")（EX）      | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") | **制作局** |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")（HTB） |                                                     |         |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東日本放送](../Page/東日本放送.md "wikilink")（KHB）     |                                                     |         |
+| [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")（NBN）   |                                                     |         |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）    |                                                     |         |
 
 ### 第2期・第3期・第4期・第5期・第6期・第7期
 
@@ -166,7 +166,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>（YTS）</p></td>
 <td><p>土曜 1:50 - 2:20（金曜深夜）[5]</p></td>
 <td><p>2012年8月25日</p></td>
@@ -238,7 +238,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/瀬戸内海放送.md" title="wikilink">瀬戸内海放送</a>（KSB）</p></td>
 <td><p>日曜 2:05 - 2:35（土曜深夜）</p></td>
 <td><p>2012年4月8日</p></td>
@@ -254,7 +254,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>（KBC）</p></td>
 <td><p>土曜 3:19 - 3:49（金曜深夜）[10]</p></td>
 <td><p>2012年4月8日</p></td>
@@ -286,7 +286,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島放送.md" title="wikilink">鹿児島放送</a>（KKB）</p></td>
 <td><p>日曜 2:30 - 3:00（土曜深夜）</p></td>
 <td><p>2012年4月8日</p></td>
@@ -328,14 +328,14 @@
   - ディレクター：渡邊麻子、田中絵美、小川佳恵、小林圭子、道具由美子、木田さとみ（木田→以前はAD）
   - コーナー脚本：[玉木佑和](https://ja.wikipedia.org/wiki/玉木佑和 "wikilink")（「Candy Boy」担当）、[斎藤千輪](https://ja.wikipedia.org/wiki/斎藤千輪 "wikilink")
   - 演出：松田こずえ
-  - プロデューサー：川辺竜之（テレビ朝日）、姫野久美子（[テレビ朝日ミュージック](https://ja.wikipedia.org/wiki/テレビ朝日ミュージック "wikilink")）、畝目尚子（T's）
+  - プロデューサー：川辺竜之（テレビ朝日）、姫野久美子（[テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")）、畝目尚子（T's）
   - ゼネラルプロデューサー：山下浩司（テレビ朝日）
   - スーパーバイザー：吉田真佐男（テレビ朝日ミュージック）
   - 制作：テレビ朝日、T's
 
 ### 過去のスタッフ
 
-  - 構成：[樅野太紀](https://ja.wikipedia.org/wiki/樅野太紀 "wikilink")、望月卓、日高大輔
+  - 構成：[樅野太紀](../Page/樅野太紀.md "wikilink")、望月卓、日高大輔
   - カメラ：池田英孝、岸上健二、安達良
   - VE：小出秀久
   - 編集：手塚貴幸、若山友信、内田国俊
@@ -352,7 +352,7 @@
   - 演出：井上淳矢
   - プロデューサー：高橋裕一、斉藤充、引地夏規（テレビ朝日）、松井正樹（テレビ朝日）
   - ゼネラルプロデューサー：[伊東寛晃](https://ja.wikipedia.org/wiki/伊東寛晃 "wikilink")
-  - 制作：[JCTV](https://ja.wikipedia.org/wiki/日本ケーブルテレビジョン "wikilink")
+  - 制作：[JCTV](../Page/日本ケーブルテレビジョン.md "wikilink")
 
 ## 脚注
 
@@ -373,14 +373,14 @@
   -
 [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:ネオバラエティ](https://ja.wikipedia.org/wiki/Category:ネオバラエティ "wikilink") [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:2012年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2012年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  諏訪部順一の[Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")より。
+1.  諏訪部順一の[Twitter](../Page/Twitter.md "wikilink")より。
 2.
 3.
-4.  [MALICE MIZERはこの番組に出演した事はあるが](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")、当時卒業生のCDジャケットに記載されたBreak Outのマークは無く、BreaK Out祭にも出演経験が無いため、正確には卒業生ではない。
+4.  [MALICE MIZERはこの番組に出演した事はあるが](../Page/MALICE_MIZER.md "wikilink")、当時卒業生のCDジャケットに記載されたBreak Outのマークは無く、BreaK Out祭にも出演経験が無いため、正確には卒業生ではない。
 5.  『[朝まで生テレビ\!](../Page/朝まで生テレビ!.md "wikilink")』が放送する週は休止。
 6.  2017年3月までは金曜 1:25 - 1:55（木曜深夜）、2017年4月から2018年9月までは木曜 1:25 - 1:55（水曜深夜）、2018年10月から2019年9月までは木曜 1:30 - 2:00（水曜深夜）。2019年10月より、再び現在の時間で放送。
 7.
 8.
 9.
 10.
-11. 2018年3月までは、同年4月1日の認定[放送持株会社](https://ja.wikipedia.org/wiki/放送持株会社 "wikilink")移行に伴う商号変更並びに分社化前のため、朝日放送。
+11. 2018年3月までは、同年4月1日の認定[放送持株会社](../Page/放送持株会社.md "wikilink")移行に伴う商号変更並びに分社化前のため、朝日放送。

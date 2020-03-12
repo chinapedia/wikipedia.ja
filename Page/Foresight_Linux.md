@@ -5,9 +5,9 @@
 
 ## 概要
 
-[パッケージ管理システム](https://ja.wikipedia.org/wiki/パッケージ管理システム "wikilink")に先進的な[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")を採用し、最新のソフトウェアとユーザーフレンドリーを指向している。[ローリングリリース](https://ja.wikipedia.org/wiki/ローリングリリース "wikilink")に似ているが[ローリングアップデート](https://ja.wikipedia.org/wiki/ローリングアップデート "wikilink")を採用している。 かつては[GNOME](../Page/GNOME.md "wikilink")ベースのディストリビューションであり、最新のGNOMEの開発を追っていたが、GNOME3には移行せず、現在もGNOME2ベースである。 その他の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")として[XFCE](https://ja.wikipedia.org/wiki/XFCE "wikilink")、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")のエディションも選択できる。 この他にGNOME Lite Edition(CDに収まる), Kids Edition, Mobile Edition, GNOME for developersがある。
+[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")に先進的な[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")を採用し、最新のソフトウェアとユーザーフレンドリーを指向している。[ローリングリリース](https://ja.wikipedia.org/wiki/ローリングリリース "wikilink")に似ているが[ローリングアップデート](https://ja.wikipedia.org/wiki/ローリングアップデート "wikilink")を採用している。 かつては[GNOME](../Page/GNOME.md "wikilink")ベースのディストリビューションであり、最新のGNOMEの開発を追っていたが、GNOME3には移行せず、現在もGNOME2ベースである。 その他の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")として[XFCE](https://ja.wikipedia.org/wiki/XFCE "wikilink")、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")のエディションも選択できる。 この他にGNOME Lite Edition(CDに収まる), Kids Edition, Mobile Edition, GNOME for developersがある。
 
-[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")という先進的なソフトウェア[パッケージ管理システム](https://ja.wikipedia.org/wiki/パッケージ管理システム "wikilink")を特徴としている。[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")は[RPM](https://ja.wikipedia.org/wiki/RPM_Package_Manager "wikilink")、[CVS](../Page/Concurrent_Versions_System.md "wikilink")、[Portage](https://ja.wikipedia.org/wiki/Portage "wikilink")の優れた点を集め、さらにいくつか優れた機能を追加し、明解なリビジョン・コントロールを行うパッケージ管理システムである。[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")はアップデートされる必要があるパッケージにおいて、特定のファイルのみをアップデートするので、[RPMや](https://ja.wikipedia.org/wiki/RPM_Package_Manager "wikilink")[DEBなどパッケージ全体がダウンロードされる他のフォーマットよりも効率的である](../Page/Debian.md "wikilink")。また、Rollback機能により直前の状態に戻すことができる。
+[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")という先進的なソフトウェア[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")を特徴としている。[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")は[RPM](../Page/RPM_Package_Manager.md "wikilink")、[CVS](../Page/Concurrent_Versions_System.md "wikilink")、[Portage](../Page/Portage.md "wikilink")の優れた点を集め、さらにいくつか優れた機能を追加し、明解なリビジョン・コントロールを行うパッケージ管理システムである。[Conary](https://ja.wikipedia.org/wiki/Conary "wikilink")はアップデートされる必要があるパッケージにおいて、特定のファイルのみをアップデートするので、[RPMや](../Page/RPM_Package_Manager.md "wikilink")[DEBなどパッケージ全体がダウンロードされる他のフォーマットよりも効率的である](../Page/Debian.md "wikilink")。また、Rollback機能により直前の状態に戻すことができる。
 
 北米ではShuttle U.S.A.がForesight Linuxプレインストール版PCを発売しているが、日本では[Turbolinux](../Page/Turbolinux.md "wikilink")が採用され、Foresight Linuxは採用されていない。
 
@@ -22,7 +22,7 @@
 ## 関連項目
 
   - [Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")
-  - [Linuxディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxディストリビューションの比較 "wikilink")
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
   - [Openfiler](https://ja.wikipedia.org/wiki/Openfiler "wikilink")
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[HirOshima](https://ja.wikipedia.org/wiki/HirOshima)から翻訳されています。
 
 
-**HirOshima**（ヒロシマ）は、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")在住の[男性](../Page/男性.md "wikilink")[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")ユニット[MAJOR MUSIC](../Page/MAJOR_MUSIC.md "wikilink")(メジャー・ミュージック)のメンバー。本名、ヒロ・オオシマ。日系アメリカ人。
+**HirOshima**（ヒロシマ）は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")在住の[男性](../Page/男性.md "wikilink")[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")ユニット[MAJOR MUSIC](../Page/MAJOR_MUSIC.md "wikilink")(メジャー・ミュージック)のメンバー。本名、ヒロ・オオシマ。日系アメリカ人。
 
 ## ディスコグラフィー
 
@@ -20,8 +20,8 @@
           - 07.Nothin' Change
               - Sample Credit <small>[David Axelrod](https://ja.wikipedia.org/wiki/:en:David_Axelrod "wikilink") - Wandering Star</small>
           - 11.Dancin' Queenz
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") - RG A.I.R.4TH
-          - 06.ヤバスギルスキル pt.6 feat. [ILL-BOSSTINO](https://ja.wikipedia.org/wiki/ザ_ブルーハーブ "wikilink")
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") - RG A.I.R.4TH
+          - 06.ヤバスギルスキル pt.6 feat. [ILL-BOSSTINO](../Page/ザ_ブルーハーブ.md "wikilink")
           - 13.Hardcore featuring 般若, DJ TURBO
   - 2005
       - JAMOSA - STANDING STRONG

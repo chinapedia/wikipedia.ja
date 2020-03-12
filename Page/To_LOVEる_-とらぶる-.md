@@ -3,8 +3,8 @@
 
 |- | colspan="2" style="padding: 0;"|
 
-| **ドラマCD** {{Infobox animanga/RadioDrama | メディア= [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink") | 原作= 矢吹健太朗、長谷見沙貴 | 制作= 集英社 | 脚本= | 演出= | 放送局= | 番組= | 書籍= | 発売元= 集英社 | 販売元= 集英社 | レーベル= きくジャン | \-音で楽しむマンガ | \- | 発売日= [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink") | 売上本数= | レイティング= | 収録時間= | 話数= | 枚数= | その他= }} |
-| --------------------------------------- | ------------------------------------------------------------- | --------------- | ------- | --- | --- | ---- | --- | --- | -------- | -------- | ----------- | ---------- | -- | ------------------------------------------------------------------------------------------------ | ----- | ------- | ----- | --- | --- | ------- |
+| **ドラマCD** {{Infobox animanga/RadioDrama | メディア= [ドラマCD](../Page/ドラマCD.md "wikilink") | 原作= 矢吹健太朗、長谷見沙貴 | 制作= 集英社 | 脚本= | 演出= | 放送局= | 番組= | 書籍= | 発売元= 集英社 | 販売元= 集英社 | レーベル= きくジャン | \-音で楽しむマンガ | \- | 発売日= [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink") | 売上本数= | レイティング= | 収録時間= | 話数= | 枚数= | その他= }} |
+| --------------------------------------- | ------------------------------------------ | --------------- | ------- | --- | --- | ---- | --- | --- | -------- | -------- | ----------- | ---------- | -- | ------------------------------------------------------------------------------------------------ | ----- | ------- | ----- | --- | --- | ------- |
 
 |- | colspan="2" style="padding: 0;"|
 
@@ -14,12 +14,12 @@
 <th><p><strong>アニメ</strong> {{Infobox animanga/TVAnime</p></th>
 <th><p>タイトル= To LOVEる -とらぶる-</p></th>
 <th><p>原作= 矢吹健太朗、長谷見沙貴</p></th>
-<th><p>監督= <a href="https://ja.wikipedia.org/wiki/加戸誉夫" title="wikilink">加戸誉夫</a></p></th>
-<th><p>シリーズ構成= <a href="https://ja.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></th>
+<th><p>監督= <a href="../Page/加戸誉夫.md" title="wikilink">加戸誉夫</a></p></th>
+<th><p>シリーズ構成= <a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></th>
 <th><p>キャラクターデザイン= 岡勇一</p></th>
 <th><p>音楽 =<a href="https://ja.wikipedia.org/wiki/渡辺剛_（キーボード奏者）" title="wikilink">渡辺剛</a></p></th>
-<th><p>アニメーション制作= <a href="https://ja.wikipedia.org/wiki/ジーベック_(アニメ制作会社)" title="wikilink">XEBEC</a></p></th>
-<th><p>製作= とらぶる製作委員会、<a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS</a></p></th>
+<th><p>アニメーション制作= <a href="../Page/ジーベック_(アニメ制作会社).md" title="wikilink">XEBEC</a></p></th>
+<th><p>製作= とらぶる製作委員会、<a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></th>
 <th><p>放送局= <a href="https://ja.wikipedia.org/wiki/#放送局" title="wikilink">放送局参照</a></p></th>
 <th><p>放送開始= 2008年4月</p></th>
 <th><p>放送終了= 2008年9月</p></th>
@@ -30,14 +30,14 @@
 <th><p>キャラクターデザイン= 岡勇一</p></th>
 <th><p>アニメーション制作= XEBEC</p></th>
 <th><p>製作= とらぶる製作委員会</p></th>
-<th><p>開始= 2009年<a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></th>
+<th><p>開始= 2009年<a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></th>
 <th><p>終了= 2010年<a href="../Page/4月2日.md" title="wikilink">4月2日</a></p></th>
 <th><p>話数= 全6話</p></th>
 <th><p>その他= }} {{Infobox animanga/TVAnime</p></th>
 <th><p>タイトル= もっとTo LOVEる -とらぶる-</p></th>
 <th><p>原作= 矢吹健太朗、長谷見沙貴</p></th>
 <th><p>監督= <a href="https://ja.wikipedia.org/wiki/大槻敦史" title="wikilink">大槻敦史</a></p></th>
-<th><p>シリーズ構成= <a href="https://ja.wikipedia.org/wiki/山田靖智" title="wikilink">山田靖智</a></p></th>
+<th><p>シリーズ構成= <a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></th>
 <th><p>キャラクターデザイン= 岡勇一</p></th>
 <th><p>音楽 =渡辺剛</p></th>
 <th><p>アニメーション制作= XEBEC</p></th>
@@ -70,32 +70,32 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
 |- | colspan="2" style="padding: 0;"|
 
-| **小説** {{Infobox animanga/Novel | タイトル= To LOVEる -とらぶる- 危ないガールズトーク | 著者= [ワカツキヒカル](https://ja.wikipedia.org/wiki/わかつきひかる "wikilink") | イラスト= 矢吹健太朗 | 出版社= 集英社 | レーベル= [ジャンプ ジェイ ブックス](https://ja.wikipedia.org/wiki/ジャンプ_ジェイ_ブックス "wikilink") | 発売日= 2009年[8月3日](../Page/8月3日.md "wikilink") | 巻数= | 話数= | その他= 原作：矢吹健太朗、長谷見沙貴 }} |
-| ------------------------------- | -------------------------------- | --------------------------------------------------------------- | ----------- | -------- | ----------------------------------------------------------------------------- | -------------------------------------------- | --- | --- | ---------------------- |
+| **小説** {{Infobox animanga/Novel | タイトル= To LOVEる -とらぶる- 危ないガールズトーク | 著者= [ワカツキヒカル](../Page/わかつきひかる.md "wikilink") | イラスト= 矢吹健太朗 | 出版社= 集英社 | レーベル= [ジャンプ ジェイ ブックス](../Page/ジャンプ_ジェイ_ブックス.md "wikilink") | 発売日= 2009年[8月3日](../Page/8月3日.md "wikilink") | 巻数= | 話数= | その他= 原作：矢吹健太朗、長谷見沙貴 }} |
+| ------------------------------- | -------------------------------- | -------------------------------------------- | ----------- | -------- | ---------------------------------------------------------- | -------------------------------------------- | --- | --- | ---------------------- |
 
-『**To LOVEる -とらぶる-**』（とらぶる、略称：『TL』）は、[矢吹健太朗](https://ja.wikipedia.org/wiki/矢吹健太朗 "wikilink")（漫画）・[長谷見沙貴](https://ja.wikipedia.org/wiki/長谷見沙貴 "wikilink")（脚本）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")。本項では、本作品の[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")作品、『**To LOVEる -とらぶる- ダークネス**』（とらぶる ダークネス、略称：『ダークネス』）についても説明する。
+『**To LOVEる -とらぶる-**』（とらぶる、略称：『TL』）は、[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")（漫画）・[長谷見沙貴](../Page/長谷見沙貴.md "wikilink")（脚本）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")。本項では、本作品の[スピンオフ](../Page/スピンオフ.md "wikilink")作品、『**To LOVEる -とらぶる- ダークネス**』（とらぶる ダークネス、略称：『ダークネス』）についても説明する。
 
 ## 概要
 
-男子高校生・結城梨斗を主人公とし、[三角関係](https://ja.wikipedia.org/wiki/三角関係 "wikilink")を軸に展開された[ラブコメディ](https://ja.wikipedia.org/wiki/ラブコメディ "wikilink")作品。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）において、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）21・22号から[2009年](../Page/2009年.md "wikilink")40号まで連載された。全162話。単行本は全18巻で、累計発行部数は700万部を超える\[1\]。また、矢吹はこの作品について2016年に、「最近はラブコメというよりなんか別物になりつつある漫画を描いている」と語ったこともある\[2\]。ヒロインであるララや春菜はもちろん、登場する女性キャラクターのほとんどが、美女・美少女として描かれているのが特徴。
+男子高校生・結城梨斗を主人公とし、[三角関係](../Page/三角関係.md "wikilink")を軸に展開された[ラブコメディ](../Page/ラブコメディ.md "wikilink")作品。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）において、[2006年](../Page/2006年.md "wikilink")（平成18年）21・22号から[2009年](../Page/2009年.md "wikilink")40号まで連載された。全162話。単行本は全18巻で、累計発行部数は700万部を超える\[1\]。また、矢吹はこの作品について2016年に、「最近はラブコメというよりなんか別物になりつつある漫画を描いている」と語ったこともある\[2\]。ヒロインであるララや春菜はもちろん、登場する女性キャラクターのほとんどが、美女・美少女として描かれているのが特徴。
 
 [メディアミックス](../Page/メディアミックス.md "wikilink")も展開され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月から9月までテレビアニメ第1期が放送された。テレビアニメ放送終了後の2009年からは、単行本限定版同梱の[OVA](../Page/OVA.md "wikilink")が発売されている。連載終了後の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には『**もっとTo LOVEる -とらぶる-**』のタイトルで再度テレビアニメ化され、同年10月から12月まで放送された。
 
-前作の『[BLACK CAT](https://ja.wikipedia.org/wiki/BLACK_CAT "wikilink")』に似た設定が一部に見受けられる。物語は基本的に1～2話完結であるが、『とらぶるクエスト』編は6話構成となった。
+前作の『[BLACK CAT](../Page/BLACK_CAT.md "wikilink")』に似た設定が一部に見受けられる。物語は基本的に1～2話完結であるが、『とらぶるクエスト』編は6話構成となった。
 
 ### 過激なお色気
 
-少年誌の限界ともいえる過激なお色気の描写（下着や裸体の描写）が多く、特に単行本では本誌掲載時のものから修正が外され、より過激になっている。それ故、海外版単行本では現地出版社において再修正のうえ発行されている場合がある（裏表紙に修正された旨記載されている。台湾[東立出版社](https://ja.wikipedia.org/wiki/東立出版社 "wikilink")等）。
+少年誌の限界ともいえる過激なお色気の描写（下着や裸体の描写）が多く、特に単行本では本誌掲載時のものから修正が外され、より過激になっている。それ故、海外版単行本では現地出版社において再修正のうえ発行されている場合がある（裏表紙に修正された旨記載されている。台湾[東立出版社](../Page/東立出版社.md "wikilink")等）。
 
-世界各国でも翻訳されて単行本が発売されているが、過激な描写が多いため、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では購入に際して年齢制限が設けられ、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")では現地で修正された上で発売されている。日本でも、『[赤マルジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプの増刊号 "wikilink")』2007 WINTERの付録として「To LOVEる -とらぶる- ミニイラスト集」がついてきた際、イラスト集の最終ページに描かれたララと春菜の入浴シーンで、イラストの大部分が泡で隠されるという自主規制がなされた\[3\]。
+世界各国でも翻訳されて単行本が発売されているが、過激な描写が多いため、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では購入に際して年齢制限が設けられ、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")では現地で修正された上で発売されている。日本でも、『[赤マルジャンプ](../Page/週刊少年ジャンプの増刊号.md "wikilink")』2007 WINTERの付録として「To LOVEる -とらぶる- ミニイラスト集」がついてきた際、イラスト集の最終ページに描かれたララと春菜の入浴シーンで、イラストの大部分が泡で隠されるという自主規制がなされた\[3\]。
 
 ジャンプSQ.編集部によるとダークネス単行本1巻から16巻までで登場した乳首の総数は1601個で、左乳首は797個、右乳首は804個であった。キャラ別では1位はモモの249個、2位はララの200個、3位はメアの141個で、リトは8個であった\[4\]。
 
 ### スピンオフ
 
-『[ジャンプスクエア](https://ja.wikipedia.org/wiki/ジャンプスクエア "wikilink")』（集英社）2010年11月号から2017年4月号まで、スピンオフ作品『**To LOVEる -とらぶる- ダークネス**』が連載。『TL』に引き続き、矢吹健太朗（漫画）、長谷見沙貴（脚本）が制作を担当する。また、季刊誌『[ジャンプSQ.19](https://ja.wikipedia.org/wiki/ジャンプSQ.19 "wikilink")』（集英社）2010年冬号から2014年8月発売のVol.15まで『**To LOVEる -とらぶる- ダークネス 番外編**』が連載された（一応は休載中扱いではあるものの、ジャンプSQ.19は2015年2月発売のVol.18で刊行を終了した）。
+『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』（集英社）2010年11月号から2017年4月号まで、スピンオフ作品『**To LOVEる -とらぶる- ダークネス**』が連載。『TL』に引き続き、矢吹健太朗（漫画）、長谷見沙貴（脚本）が制作を担当する。また、季刊誌『[ジャンプSQ.19](https://ja.wikipedia.org/wiki/ジャンプSQ.19 "wikilink")』（集英社）2010年冬号から2014年8月発売のVol.15まで『**To LOVEる -とらぶる- ダークネス 番外編**』が連載された（一応は休載中扱いではあるものの、ジャンプSQ.19は2015年2月発売のVol.18で刊行を終了した）。
 
-ただし「スピンオフ」と銘打っているものの、実質的には『TL』の正当な続編となっている。主人公はリトとモモの2人になっており、三角関係を主軸に据えた『TL』とはやや路線が異なり、「バトル路線」と「ハーレム路線」の2つを軸に据えた話が展開される\[5\]。また、青年層も対象読者に含めているジャンプスクエアに移籍したために、女性キャラクターのお色気の描写は『TL』よりも過激になっている。[2014年](../Page/2014年.md "wikilink")、[福島県](../Page/福島県.md "wikilink")で9巻のみ[青少年保護育成条例](https://ja.wikipedia.org/wiki/青少年保護育成条例 "wikilink")に基づく[有害図書](https://ja.wikipedia.org/wiki/有害図書 "wikilink")に指定された\[6\]。
+ただし「スピンオフ」と銘打っているものの、実質的には『TL』の正当な続編となっている。主人公はリトとモモの2人になっており、三角関係を主軸に据えた『TL』とはやや路線が異なり、「バトル路線」と「ハーレム路線」の2つを軸に据えた話が展開される\[5\]。また、青年層も対象読者に含めているジャンプスクエアに移籍したために、女性キャラクターのお色気の描写は『TL』よりも過激になっている。[2014年](../Page/2014年.md "wikilink")、[福島県](../Page/福島県.md "wikilink")で9巻のみ[青少年保護育成条例](https://ja.wikipedia.org/wiki/青少年保護育成条例 "wikilink")に基づく[有害図書](../Page/有害図書.md "wikilink")に指定された\[6\]。
 
 福島県条例による有害図書指定に伴い、[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")や[HOBBY STOCKなどでは](https://ja.wikipedia.org/wiki/HOBBY_STOCK "wikilink")、１８歳未満者への関連商品の販売を自粛する措置が行われている。
 
@@ -107,7 +107,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
   - To LOVEる -とらぶる-
     主人公の**[結城梨斗](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#結城梨斗 "wikilink")**（以下「リト」と表記）は、恋愛に奥手な男子高校生。クラスメイトの女子高校生・**[西連寺春菜](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#西連寺春菜 "wikilink")**に恋しており、実は春菜とは両想いだが、互いにその事実を知ることはなかった。
-    そんなリトのもとに、**[ララ・サタリン・デビルーク](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#ララ "wikilink")**と名乗る宇宙人の女の子がやってきた。ララはデビルーク星の[王女](https://ja.wikipedia.org/wiki/王女 "wikilink")で、婚約者候補との[見合い](https://ja.wikipedia.org/wiki/見合い "wikilink")が続く日々に嫌気が差し、デビルーク星から[家出](https://ja.wikipedia.org/wiki/家出 "wikilink")をしてきたという。ララを追っ手から守ったリトは、その後の勘違いからララの婚約者候補となってしまう。
+    そんなリトのもとに、**[ララ・サタリン・デビルーク](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#ララ "wikilink")**と名乗る宇宙人の女の子がやってきた。ララはデビルーク星の[王女](https://ja.wikipedia.org/wiki/王女 "wikilink")で、婚約者候補との[見合い](../Page/見合い.md "wikilink")が続く日々に嫌気が差し、デビルーク星から[家出](../Page/家出.md "wikilink")をしてきたという。ララを追っ手から守ったリトは、その後の勘違いからララの婚約者候補となってしまう。
     ララとの出会いを境に、リトは連鎖的にトラブルに巻き込まれるようになる。やがて、リト、ララ、春菜の三角関係や**[金色の闇](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#金色の闇 "wikilink")**（以下「ヤミ」と表記）、[ルン・エルシ・ジュエリア](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#ルン "wikilink")、**[古手川唯](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#古手川唯 "wikilink")**といった少女たちとの交流を軸に、リトの日常はより[エッチ](../Page/エッチ.md "wikilink")でドタバタな日々へと発展していく。
   - To LOVEる -とらぶる- ダークネス
     物語は『TL』最終回の数日後から始まる。
@@ -122,13 +122,13 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     声 - [渡辺明乃](../Page/渡辺明乃.md "wikilink")
     『TL』『ダークネス』の主人公。同級生の春菜に憧れている恋に奥手な高校生。純情で優しい性格だが女の子に対して免疫がなく、ララがやってきてからはトラブルだらけの毎日を送っている。
   - ララ・サタリン・デビルーク
-    声 - [戸松遥](https://ja.wikipedia.org/wiki/戸松遥 "wikilink")
+    声 - [戸松遥](../Page/戸松遥.md "wikilink")
     『TL』のメインヒロインの一人。銀河を治めるデビルーク星の第1王女。天真爛漫な美少女。
   - 西連寺 春菜（さいれんじ はるな）
     声 - [矢作紗友里](https://ja.wikipedia.org/wiki/矢作紗友里 "wikilink")
     『TL』のメインヒロインの一人。リトが中学時代から想いを寄せている同級生。清楚で優しい美少女。
   - 結城 美柑（ゆうき みかん）
-    声 - [花澤香菜](https://ja.wikipedia.org/wiki/花澤香菜 "wikilink")
+    声 - [花澤香菜](../Page/花澤香菜.md "wikilink")
     リトの妹で、生意気だが大人びた性格の小学生。仕事で多忙な両親に代わって家事もこなすしっかり者。
   - 金色の闇（こんじきのやみ）/ ヤミ
     声 - [福圓美里](../Page/福圓美里.md "wikilink")
@@ -137,13 +137,13 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     声 - [名塚佳織](../Page/名塚佳織.md "wikilink")
     リトのクラスメイトで風紀委員。真面目でツンデレ。
   - ナナ・アスタ・デビルーク
-    声 - [伊藤かな恵](https://ja.wikipedia.org/wiki/伊藤かな恵 "wikilink")
+    声 - [伊藤かな恵](../Page/伊藤かな恵.md "wikilink")
     デビルーク星の第2王女。モモと双子。動物と心を通わせる能力を持つ。
   - モモ・ベリア・デビルーク
     声 - [豊崎愛生](https://ja.wikipedia.org/wiki/豊崎愛生 "wikilink")
     『ダークネス』の主人公。デビルーク星の第3王女。ナナと双子。植物と心を通わせる能力を持つ。
   - 黒咲 芽亜（くろさき めあ）
-    声 - [井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")
+    声 - [井口裕香](../Page/井口裕香.md "wikilink")
     『ダークネス』に登場。彩南高校1年。ナナやモモのクラスメイト。しかし、その実体はヤミの妹で、変身能力を持つ暗殺者。
 
 ## 用語
@@ -165,7 +165,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     そのためメモルゼ星人は、容姿はデビルーク星人同様ヒト型だが、あるきっかけで男女が心身ともに入れ替わる「男女変換能力」を有している。なお、メモルゼ星人には三次成長期があり、この時期を迎えると男女の人格と肉体が分離し、それぞれ独立した個体になる。
     レン/ルンの父、[メモルゼ王が治める王政国家である](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#メモルゼ王 "wikilink")。
   -
-    地球から200万[光年](../Page/光年.md "wikilink")離れた場所に存在する原始惑星。[リゾート](https://ja.wikipedia.org/wiki/リゾート "wikilink")地のような南国ムードたっぷりの星。未開のため、原始的な生物が生息している。また、貴重な薬草が自生している。
+    地球から200万[光年](../Page/光年.md "wikilink")離れた場所に存在する原始惑星。[リゾート](../Page/リゾート.md "wikilink")地のような南国ムードたっぷりの星。未開のため、原始的な生物が生息している。また、貴重な薬草が自生している。
   -
     デビルークと敵対関係にある宇宙マフィア組織。殺人、武器の製造および密輸など様々な悪事を働いている。『ダークネス』で、クロによって潰された。
   -
@@ -174,7 +174,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     かつてタルハ銀河にあった暗殺組織のアジトの星。数年前[ダークネスの](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#ダークネス "wikilink")「惑星断刀（プラネットスライサー）」によって真っ二つに斬られた。
   -
     銀河大戦の末期、ヤミ、芽亜を創り出した組織。真っ当な機関を装っていた彼らの狙いはヤミを最強の変身兵器として仕立て上げ、数百年続く銀河大戦の渦中にあった宇宙で、新たなビジネスを立ち上げることだった。\[8\]。ヤミを「人」として育てようとしたティアーユを邪魔な存在として抹殺しようとした。ティアーユを追放した後、科学者たちは研究を重ね、究極の変身ダークネスシステムとして"闇（ダークネス）"を幼いヤミの意識に刷り込んだ。
-    ヤミ、芽亜を創り出す以前に、ダークマターをベースにした疑似生命兵器を創ろうとしており、ネメシス計画（プロジェクト）の名のもとダークマターを素材とした変身兵器の開発を進めていた科学者だったが、カプセルの中に誕生していた微かな思念体、[ネメシスという存在に気付かずに](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#ネメシス "wikilink")「失敗だ」「またダメか」と判断してネメシス計画を凍結した。その科学者の中に、『[BLACK CAT](https://ja.wikipedia.org/wiki/BLACK_CAT "wikilink")』の[カンザキコウスケが登場している](https://ja.wikipedia.org/wiki/BLACK_CATの登場人物#カンザキコウスケ "wikilink")。
+    ヤミ、芽亜を創り出す以前に、ダークマターをベースにした疑似生命兵器を創ろうとしており、ネメシス計画（プロジェクト）の名のもとダークマターを素材とした変身兵器の開発を進めていた科学者だったが、カプセルの中に誕生していた微かな思念体、[ネメシスという存在に気付かずに](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#ネメシス "wikilink")「失敗だ」「またダメか」と判断してネメシス計画を凍結した。その科学者の中に、『[BLACK CAT](../Page/BLACK_CAT.md "wikilink")』の[カンザキコウスケが登場している](https://ja.wikipedia.org/wiki/BLACK_CATの登場人物#カンザキコウスケ "wikilink")。
     戦後の混乱の中で、[殺し屋クロによって壊滅させられた](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#クロ "wikilink")。
 
 ### 学校
@@ -196,7 +196,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
   - 彩南第一小学校（さいなんだいいちしょうがっこう）
     美柑が通う小学校。
   - 私立真堂女子高等学校（しりつまどうじょしこうとうがっこう）
-    女子高生アイドル・[霧崎恭子が通う](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#霧崎恭子 "wikilink")[女子高](https://ja.wikipedia.org/wiki/男女別学 "wikilink")。
+    女子高生アイドル・[霧崎恭子が通う](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#霧崎恭子 "wikilink")[女子高](../Page/男女別学.md "wikilink")。
 
 ### 変身能力
 
@@ -214,7 +214,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     計画は凍結し失敗したとなっていたが、実は成功していた。
   - （ダークネス）
     ヤミの中にある禁断の変身（トランス）であり、変身の暴走、いわば[リミッター](https://ja.wikipedia.org/wiki/リミッター "wikilink")解放状態。解放の手順を間違えれば、ネメシスすら飲み込むほどの危うい力とのこと。
-    発動条件は、ヤミが「心の平穏」を心から受け入れること。平和が鍵であり、銀河大戦が終結し平和へと向かい始めた宇宙に対して仕掛けられた[時限爆弾](https://ja.wikipedia.org/wiki/時限爆弾 "wikilink")。精神への過大な負荷（ストレス）はダークネスをより強く発現させる。
+    発動条件は、ヤミが「心の平穏」を心から受け入れること。平和が鍵であり、銀河大戦が終結し平和へと向かい始めた宇宙に対して仕掛けられた[時限爆弾](../Page/時限爆弾.md "wikilink")。精神への過大な負荷（ストレス）はダークネスをより強く発現させる。
 
 ### 病気
 
@@ -222,7 +222,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     微熱に伴う風邪。この風邪の罹患者は、性格が従来とは正反対になる。
     アニメ第1期では性格が次々と変わるという、原作漫画よりも複雑な性格変化が起こった。なお御門先生によれば、地球人は罹患しないという。
   - カレカレ病
-    セリーヌの種に特有の[植物の病気](https://ja.wikipedia.org/wiki/植物病理学 "wikilink")。放置すると数日で枯死に至る。
+    セリーヌの種に特有の[植物の病気](../Page/植物病理学.md "wikilink")。放置すると数日で枯死に至る。
     モモによれば、惑星ミストアにあるラックベリーの実が有効である。
   -
     リトがよく女の子にずっこけてラッキースケベを起こす現象を病気と考え、御門が付けた仮称。
@@ -250,16 +250,16 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
   - ジロ・スネーク
     コブラの形をした巨大な蛇。ナナの友達で、ガマたんが暴れている場所に呼び出された。イロガーマの天敵。
   - クリムゾン・タートル
-    正月スゴロクの優勝賞品としてナナに呼び出された巨大リクガメ。その巨体と姿は[ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")と似ている。
+    正月スゴロクの優勝賞品としてナナに呼び出された巨大リクガメ。その巨体と姿は[ガメラ](../Page/ガメラ.md "wikilink")と似ている。
   - （キューオクトパスの）オクちゃん
-    声 - [寺本來可](https://ja.wikipedia.org/wiki/寺本來可 "wikilink")（ダークネス以前）→[本渡楓](https://ja.wikipedia.org/wiki/本渡楓 "wikilink")（ダークネス以降）
+    声 - [寺本來可](../Page/寺本來可.md "wikilink")（ダークネス以前）→[本渡楓](https://ja.wikipedia.org/wiki/本渡楓 "wikilink")（ダークネス以降）
     ハッチ星に生息する、陸上生活型のタコ。鳴き声は「チュミミーン」。
   - （ミネラルンの）ヌップルちゃん
-    声 - [宮坂俊蔵](https://ja.wikipedia.org/wiki/宮坂俊蔵 "wikilink")
+    声 - [宮坂俊蔵](../Page/宮坂俊蔵.md "wikilink")
     アクアン星系に棲む原始生物で、種そのものが激レア。近づく生き物をいじり倒して遊ぶのが特徴。御門の元へ診察に来たある宇宙人のペットとして飼われていたが脱走し、プールで暴れているところを発見された。
   - マリモッタ
     声 - [洲崎綾](https://ja.wikipedia.org/wiki/洲崎綾 "wikilink")
-    全身が[マリモ](https://ja.wikipedia.org/wiki/マリモ "wikilink")で球状の身体をした小動物。ナナの友達で芽亜とも仲が良く、鼻が利く。鳴き声は「モキュー」。
+    全身が[マリモ](../Page/マリモ.md "wikilink")で球状の身体をした小動物。ナナの友達で芽亜とも仲が良く、鼻が利く。鳴き声は「モキュー」。
   - ドラ助
     声 - [林大地](https://ja.wikipedia.org/wiki/林大地 "wikilink")
     ナナの友達で、電脳サファリで暮らしている[ドラゴン](../Page/ドラゴン.md "wikilink")。大きな口と牙で得物を捕らえる肉食生物。
@@ -295,7 +295,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     惑星ミストアに生息する、毒性を持つ花。近づく者に花粉を吹きかけ、触手のような[蔓](https://ja.wikipedia.org/wiki/蔓 "wikilink")で襲いかかる。花粉の成分には、吸い込むと一時的に体力を消耗させる効果がある。
 
   - ラックベリー
-    タコのような根で地上を走る果樹。その実は「カレカレ病」をはじめ、さまざまな病に効果をもたらす[万能薬](https://ja.wikipedia.org/wiki/万能薬 "wikilink")である。
+    タコのような根で地上を走る果樹。その実は「カレカレ病」をはじめ、さまざまな病に効果をもたらす[万能薬](../Page/万能薬.md "wikilink")である。
 
   - アドレナの花
     匂いを嗅いだ者は、[アドレナリン](../Page/アドレナリン.md "wikilink")全開の興奮状態になる。
@@ -322,7 +322,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     香りを嗅いだ人の性格を別人のように変えてしまう危険な花。
 
   - ミルケアの花
-    [分泌](https://ja.wikipedia.org/wiki/分泌 "wikilink")する蜜には美肌だけでなく、肌に深く浸透し、疲れを癒す成分が含まれている。
+    [分泌](../Page/分泌.md "wikilink")する蜜には美肌だけでなく、肌に深く浸透し、疲れを癒す成分が含まれている。
 
   - チュッチュ草
     クチビルにも似た花びらで近付いた生き物に吸い付き、分泌される体液を養分にする宇宙7大猥褻植物の1つ。
@@ -341,7 +341,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 ### 銀河通販アイテム
 
   - 痴漢撃退爆弾（ちかんげきたいばくだん）
-    痴漢をやっつける小型爆弾。[安全ピン](https://ja.wikipedia.org/wiki/安全ピン "wikilink")を抜くと点火して爆発する。使い方は[手榴弾](../Page/手榴弾.md "wikilink")とほぼ同じ。
+    痴漢をやっつける小型爆弾。[安全ピン](../Page/安全ピン.md "wikilink")を抜くと点火して爆発する。使い方は[手榴弾](../Page/手榴弾.md "wikilink")とほぼ同じ。
   - ワルクナール・S
     性格をドSに変える噴射スプレー。1回限りの使い切りで、効果は一時的。
   - 着衣消滅ガス（ちゃくいしょうめつガス）
@@ -379,7 +379,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
   -
     宇宙ではどこにでも存在するエネルギー物質。グルマン星では凝縮し調味料として使われるほどありふれた存在。ネメシスの身体のもとにもなっている。
   -
-    [クロの](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#クロ "wikilink")"**黒い装飾銃**"。宇宙一硬い金属の"**[オリハルコン](https://ja.wikipedia.org/wiki/オリハルコン "wikilink")**"で作られた攻防一体の武器。クロの精神エネルギーを吸収し多彩な弾丸を精製する。
+    [クロの](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-の登場人物#クロ "wikilink")"**黒い装飾銃**"。宇宙一硬い金属の"**[オリハルコン](../Page/オリハルコン.md "wikilink")**"で作られた攻防一体の武器。クロの精神エネルギーを吸収し多彩な弾丸を精製する。
     装飾銃は『BLACK CAT』の[トレイン＝ハートネットのハーディスと似ているが](https://ja.wikipedia.org/wiki/BLACK_CATの登場人物#トレイン＝ハートネット "wikilink")、細部が異なる\[14\]。
 
 ## ララの発明品
@@ -448,7 +448,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     ララが台風を止めようとして使った恐竜型の機械。雲を全て食べさせようとしたが、風に飛ばされてしまった。
 
   - でるでるビジョンくん
-    肝試しの際にララが使った機械。幽霊を[立体映像で出現させた](https://ja.wikipedia.org/wiki/3次元映像 "wikilink")。
+    肝試しの際にララが使った機械。幽霊を[立体映像で出現させた](../Page/3次元映像.md "wikilink")。
 
   - らくらくランナーくん
     踵にブースターを装着した靴。高速で走ることができるが、自分の意思で止めることはできない。
@@ -496,7 +496,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
         OVAでは解除**弾**という名前になっている。
 
   - ころころダンジョくん
-    一定時間、性別を逆転させる[光線銃](https://ja.wikipedia.org/wiki/光線銃 "wikilink")。制限時間が近づくにつれて徐々に体が痒みが発生して、最後には煙が発生し、効果が切れる。
+    一定時間、性別を逆転させる[光線銃](../Page/光線銃.md "wikilink")。制限時間が近づくにつれて徐々に体が痒みが発生して、最後には煙が発生し、効果が切れる。
 
     作中では主にリトを女性化させ、リコに変身する際に使用されている。
 
@@ -555,7 +555,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     象の形をしており、鼻から身体を洗うのに最適な細かい泡を出してくれる。
 
   - スポンジケーキを作る機械
-    計量器の形をしており、乗せたものを自動的に[スポンジケーキ](https://ja.wikipedia.org/wiki/スポンジケーキ "wikilink")に変換させる発明品。しかし試作品だったため、乗せたものをボディスポンジに変換させる失敗作になった。
+    計量器の形をしており、乗せたものを自動的に[スポンジケーキ](../Page/スポンジケーキ.md "wikilink")に変換させる発明品。しかし試作品だったため、乗せたものをボディスポンジに変換させる失敗作になった。
 
   - さくさくアーミーくん\[21\]
     網を持ったトンボのような30cmぐらいの発明品メカ。迷彩カラー。
@@ -603,13 +603,13 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
 ### 単行本
 
-いずれも、漫画：矢吹健太朗・脚本：長谷見沙貴。集英社の〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉より発行。
+いずれも、漫画：矢吹健太朗・脚本：長谷見沙貴。集英社の〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉より発行。
 
 『TL』単行本の表紙は、女性キャラクターがメインとして大きく描かれ、その付近にリトが小さく描かれる構成となっている。ただし、第14巻の限定版の表紙だけはリトと美柑がペアでともに大きく描かれている。おまけとして、矢吹と長谷見の2人が各キャラクターの裏設定を説明するコーナーが収録されているほか、長谷見によるザスティンを主役とした小説が掲載された巻もある。
 
   - 『To LOVEる -とらぶる-』 全18巻
-    1.  「舞い降りた少女」 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")第1刷発行（[11月2日](../Page/11月2日.md "wikilink")発売\[22\]）、ISBN 4-08-874278-8
-    2.  「ドキドキ湯けむり旅情」[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")第1刷発行（[2月2日](../Page/2月2日.md "wikilink")発売\[23\]）、ISBN 978-4-08-874322-6
+    1.  「舞い降りた少女」 [2006年](../Page/2006年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")第1刷発行（[11月2日](../Page/11月2日.md "wikilink")発売\[22\]）、ISBN 4-08-874278-8
+    2.  「ドキドキ湯けむり旅情」[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")第1刷発行（[2月2日](../Page/2月2日.md "wikilink")発売\[23\]）、ISBN 978-4-08-874322-6
     3.  「突撃\!秘密の花園」2007年[4月9日](../Page/4月9日.md "wikilink")第1刷発行（[4月4日](../Page/4月4日.md "wikilink")発売\[24\]）、ISBN 978-4-08-874345-5
     4.  「もっと知りたい」 2007年[6月9日](../Page/6月9日.md "wikilink")第1刷発行（[6月4日](../Page/6月4日.md "wikilink")発売\[25\]）、ISBN 978-4-08-874370-7
     5.  「金色の闇」2007年[8月8日](../Page/8月8日.md "wikilink")第1刷発行（[8月3日](../Page/8月3日.md "wikilink")発売\[26\]）、ISBN 978-4-08-874405-6
@@ -620,7 +620,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     10. 「お風呂場戦争」 2008年[8月9日](../Page/8月9日.md "wikilink")第1刷発行（[8月4日](../Page/8月4日.md "wikilink")発売\[31\]）、ISBN 978-4-08-874543-5
     11. 「とらぶるクエスト」 2008年[10月8日](../Page/10月8日.md "wikilink")第1刷発行（[10月3日](../Page/10月3日.md "wikilink")発売\[32\]）、ISBN 978-4-08-874567-1
     12. 「乙女ちっくボーイ♥」 [2009年](../Page/2009年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")第1刷発行（[1月5日](../Page/1月5日.md "wikilink")発売\[33\]）、ISBN 978-4-08-874618-0
-    13. 「祭りの夜に」 2009年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")第1刷発行（[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")発売\[34\]）、ISBN 978-4-08-874652-4
+    13. 「祭りの夜に」 2009年[4月8日](../Page/4月8日.md "wikilink")第1刷発行（[4月3日](../Page/4月3日.md "wikilink")発売\[34\]）、ISBN 978-4-08-874652-4
     14. 「恋友♥」 2009年6月9日第1刷発行（6月4日発売\[35\]）、ISBN 978-4-08-874676-0
     15. 「花びら姫」 2009年8月9日第1刷発行（8月4日発売\[36\]）、ISBN 978-4-08-874714-9
     16. 「男子とチョコと…私」 2009年[11月9日](../Page/11月9日.md "wikilink")第1刷発行（[11月4日](../Page/11月4日.md "wikilink")発売\[37\]）、ISBN 978-4-08-874736-1
@@ -639,7 +639,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     10. [2014年](../Page/2014年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")第1刷発行（[4月4日](../Page/4月4日.md "wikilink")発売\[49\]）、ISBN 978-4-08-880051-6
     11. 2014年[8月9日](../Page/8月9日.md "wikilink")第1刷発行（[8月4日](../Page/8月4日.md "wikilink")発売\[50\]）、ISBN 978-4-08-880160-5
     12. 2014年[12月9日](../Page/12月9日.md "wikilink")第1刷発行（[12月4日](../Page/12月4日.md "wikilink")発売\[51\]）、ISBN 978-4-08-880231-2
-    13. [2015年](../Page/2015年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")第1刷発行（[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")発売\[52\]）、ISBN 978-4-08-880410-1
+    13. [2015年](../Page/2015年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")第1刷発行（[4月3日](../Page/4月3日.md "wikilink")発売\[52\]）、ISBN 978-4-08-880410-1
     14. 2015年[9月9日](../Page/9月9日.md "wikilink")第1刷発行（[9月4日](../Page/9月4日.md "wikilink")発売\[53\]）、ISBN 978-4-08-880469-9
     15. [2016年](../Page/2016年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")第1刷発行（[1月4日](../Page/1月4日.md "wikilink")発売\[54\]）、ISBN 978-4-08-880589-4
     16. 2016年[7月9日](../Page/7月9日.md "wikilink")第1刷発行（[7月4日](../Page/7月4日.md "wikilink")発売\[55\]）、ISBN 978-4-08-880729-4
@@ -648,7 +648,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
 ### その他（書誌情報）
 
-  - 小説：[ワカツキヒカル](https://ja.wikipedia.org/wiki/わかつきひかる "wikilink")、原作：矢吹健太朗・長谷見沙貴『To LOVEる -とらぶる- 危ないガールズトーク』集英社〈[JUMP j-BOOKS](https://ja.wikipedia.org/wiki/ジャンプ_ジェイ_ブックス "wikilink")〉[2009年](../Page/2009年.md "wikilink")8月8日第1刷発行（8月3日発売\[58\]）、ISBN 978-4-08-703208-6
+  - 小説：[ワカツキヒカル](../Page/わかつきひかる.md "wikilink")、原作：矢吹健太朗・長谷見沙貴『To LOVEる -とらぶる- 危ないガールズトーク』集英社〈[JUMP j-BOOKS](../Page/ジャンプ_ジェイ_ブックス.md "wikilink")〉[2009年](../Page/2009年.md "wikilink")8月8日第1刷発行（8月3日発売\[58\]）、ISBN 978-4-08-703208-6
   - 『To LOVEる -とらぶる- 画集「らぶから\!」』集英社、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月9日第1刷発行（1月4日発売\[59\]）、ISBN 978-4-08-782263-2
   - 『To LOVEる -とらぶる-\&To LOVEる -とらぶる- ダークネス 公式データブック「ぱ～ふぇくとらぶる\!」』[2011年](../Page/2011年.md "wikilink")3月9日第1刷発行（3月4日発売\[60\]）、ISBN 978-4-08-874852-8
   - 小説：ワカツキヒカル、原作：矢吹健太朗・長谷見沙貴『To LOVEる -とらぶる- ダークネス Little Sisters <りとしす>』集英社〈JUMP j-BOOKS〉[2012年](../Page/2012年.md "wikilink")8月22日第1刷発行（8月17日発売\[61\]）、ISBN 978-4-08-703271-0
@@ -669,7 +669,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
 :; テレビアニメ第1期『To LOVEる -とらぶる-』
 
-:: 2007年[12月22日](../Page/12月22日.md "wikilink")に「[ジャンプフェスタ](../Page/ジャンプフェスタ.md "wikilink")2007」イベント内にて正式発表された。2008年4月から同年9月まで、[TBSほかにて放送](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")。全26話。他のTBSアニメと同様に[16:9](https://ja.wikipedia.org/wiki/16:9 "wikilink")でのHDサイズで制作されるが、地上波各局では[4:3](https://ja.wikipedia.org/wiki/4:3 "wikilink")にサイドカットされており、BS放送局の[BS-iでは](../Page/BS-TBS.md "wikilink")[アプコン](https://ja.wikipedia.org/wiki/アプコン "wikilink")方式で放送された。
+:: 2007年[12月22日](../Page/12月22日.md "wikilink")に「[ジャンプフェスタ](../Page/ジャンプフェスタ.md "wikilink")2007」イベント内にて正式発表された。2008年4月から同年9月まで、[TBSほかにて放送](../Page/TBSテレビ.md "wikilink")。全26話。他のTBSアニメと同様に[16:9](https://ja.wikipedia.org/wiki/16:9 "wikilink")でのHDサイズで制作されるが、地上波各局では[4:3](https://ja.wikipedia.org/wiki/4:3 "wikilink")にサイドカットされており、BS放送局の[BS-iでは](../Page/BS-TBS.md "wikilink")[アプコン](https://ja.wikipedia.org/wiki/アプコン "wikilink")方式で放送された。
 
 :: 内容のほとんどは、原作に沿わないオリジナルストーリーになっており、原作の途中までの展開で描かれている。
 
@@ -692,8 +692,8 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
       -
         2010年10月から同年12月まで放送された。全12話。
         時系列的には第1期の続編にあたるが、第1期の設定や経過（リトの春菜に対する呼称など）はほとんどリセットされており、スタッフも大幅に変更され、[リブートに近い形でのアニメ化となった](https://ja.wikipedia.org/wiki/リブート_（作品展開） "wikilink")。第1期とは違って原作に準拠したストーリー形式で、1話内に3本立ての構成となっている。ただし、中には原作のエピソード複数を結合して放送されている話もあり、一部のエピソードは結末が原作と異なる。また、エピソードの順番は原作と大きく異なっており、原作の同エピソードではまだ登場していないキャラも登場している。
-        TBSが製作委員会に名を連ねているが、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")では[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[TOKYO MXと](../Page/東京メトロポリタンテレビジョン.md "wikilink")[チバテレビのみの放送となった](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")。こうしたTBS製作参加[UHFアニメ](../Page/UHFアニメ.md "wikilink")は、『[夜明け前より瑠璃色な](https://ja.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")』以来4年ぶりの事例となる\[66\]。[AT-X以外の放送局では](../Page/アニメシアターX.md "wikilink")、お色気シーンを白光・暗闇・湯気などで部分的に隠す自主規制が施された。
-        ペケ役は、第1期・OVAで担当していた[新井里美](https://ja.wikipedia.org/wiki/新井里美 "wikilink")の出産による一時休養の時期に重なり、モモ役の[豊崎愛生](https://ja.wikipedia.org/wiki/豊崎愛生 "wikilink")が兼任した。
+        TBSが製作委員会に名を連ねているが、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")では[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[TOKYO MXと](../Page/東京メトロポリタンテレビジョン.md "wikilink")[チバテレビのみの放送となった](../Page/千葉テレビ放送.md "wikilink")。こうしたTBS製作参加[UHFアニメ](../Page/UHFアニメ.md "wikilink")は、『[夜明け前より瑠璃色な](https://ja.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")』以来4年ぶりの事例となる\[66\]。[AT-X以外の放送局では](../Page/アニメシアターX.md "wikilink")、お色気シーンを白光・暗闇・湯気などで部分的に隠す自主規制が施された。
+        ペケ役は、第1期・OVAで担当していた[新井里美](../Page/新井里美.md "wikilink")の出産による一時休養の時期に重なり、モモ役の[豊崎愛生](https://ja.wikipedia.org/wiki/豊崎愛生 "wikilink")が兼任した。
 
   - To LOVEる -とらぶる- ダークネス
 
@@ -705,7 +705,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
 :: 本作ではシリーズ初の[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")によるインターネット配信が実施されている。
 
-:: ペケ役は新井里美が復帰したが、御門涼子役は担当する[城雅子](https://ja.wikipedia.org/wiki/城雅子 "wikilink")の出産休養に伴い、[櫻井浩美](https://ja.wikipedia.org/wiki/櫻井浩美 "wikilink")に変更されている。
+:: ペケ役は新井里美が復帰したが、御門涼子役は担当する[城雅子](../Page/城雅子.md "wikilink")の出産休養に伴い、[櫻井浩美](../Page/櫻井浩美.md "wikilink")に変更されている。
 
 :: 放送に先駆け、コミックス第5巻限定版に短編と第0話を収録したDVDが同梱され、コミックス第6巻、第8巻、第9巻各限定版にもDVDが同梱された。
 
@@ -738,18 +738,18 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 </tr>
 <tr class="even">
 <td><p>原作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/矢吹健太朗" title="wikilink">矢吹健太朗</a>、<a href="https://ja.wikipedia.org/wiki/長谷見沙貴" title="wikilink">長谷見沙貴</a></p></td>
+<td><p><a href="../Page/矢吹健太朗.md" title="wikilink">矢吹健太朗</a>、<a href="../Page/長谷見沙貴.md" title="wikilink">長谷見沙貴</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>監督</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加戸誉夫" title="wikilink">加戸誉夫</a></p></td>
+<td><p><a href="../Page/加戸誉夫.md" title="wikilink">加戸誉夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大槻敦史" title="wikilink">大槻敦史</a></p></td>
 </tr>
 <tr class="even">
 <td><p>シリーズ構成</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田靖智" title="wikilink">山田靖智</a></p></td>
+<td><p><a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></td>
+<td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>キャラクターデザイン</p></td>
@@ -790,12 +790,12 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 </tr>
 <tr class="even">
 <td><p>音響監督</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三間雅文" title="wikilink">三間雅文</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明田川仁" title="wikilink">明田川仁</a></p></td>
+<td><p><a href="../Page/三間雅文.md" title="wikilink">三間雅文</a></p></td>
+<td><p><a href="../Page/明田川仁.md" title="wikilink">明田川仁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>音楽</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺剛_(キーボード奏者)" title="wikilink">渡辺剛</a></p></td>
+<td><p><a href="../Page/渡辺剛_(キーボード奏者).md" title="wikilink">渡辺剛</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -804,7 +804,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 <td><p>千野孝敏、村上仁之</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/川瀬浩平" title="wikilink">川瀬浩平</a></p></td>
+<td><p><a href="../Page/川瀬浩平.md" title="wikilink">川瀬浩平</a></p></td>
 <td><p>足立聡史、<a href="https://ja.wikipedia.org/wiki/上田耕行" title="wikilink">上田耕行</a></p></td>
 <td></td>
 </tr>
@@ -827,7 +827,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 </tr>
 <tr class="odd">
 <td><p>アニメーション制作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジーベック_(アニメ制作会社)" title="wikilink">XEBEC</a></p></td>
+<td><p><a href="../Page/ジーベック_(アニメ制作会社).md" title="wikilink">XEBEC</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -847,7 +847,7 @@ TBS<br />
 
 :; オープニングテーマ「[forever we can make it\!](https://ja.wikipedia.org/wiki/forever_we_can_make_it! "wikilink")」
 
-:: 作詞 - thyme / 作曲・編曲 - 清水哲平 / 歌 - [THYME](https://ja.wikipedia.org/wiki/THYME "wikilink")
+:: 作詞 - thyme / 作曲・編曲 - 清水哲平 / 歌 - [THYME](../Page/THYME.md "wikilink")
 
 :; エンディングテーマ
 
@@ -860,19 +860,19 @@ TBS<br />
   -
 
       -
-        作詞 - 坂本麗衣 / 作曲・編曲 - [中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink") / 歌 - ANNA（from Bon-Bon Blanco）
+        作詞 - 坂本麗衣 / 作曲・編曲 - [中野雄太](../Page/中野雄太.md "wikilink") / 歌 - ANNA（from Bon-Bon Blanco）
 
   - TL OVA
 
 :; オープニングテーマ「[やってこい\!ダイスキ](https://ja.wikipedia.org/wiki/やってこい!ダイスキ "wikilink")♥」
 
-:: 作詞 - [くまのきよみ](https://ja.wikipedia.org/wiki/くまのきよみ "wikilink") / 作曲・編曲 - 渡辺剛 / 歌 - ララ&春菜（[戸松遥](https://ja.wikipedia.org/wiki/戸松遥 "wikilink")&[矢作紗友里](https://ja.wikipedia.org/wiki/矢作紗友里 "wikilink")）
+:: 作詞 - [くまのきよみ](../Page/くまのきよみ.md "wikilink") / 作曲・編曲 - 渡辺剛 / 歌 - ララ&春菜（[戸松遥](../Page/戸松遥.md "wikilink")&[矢作紗友里](https://ja.wikipedia.org/wiki/矢作紗友里 "wikilink")）
 
 :; エンディングテーマ
 
 ::; 「[あっぷる・ぱにっく\!?](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-のディスコグラフィ#やってこい!ダイスキ "wikilink")」（1、2、4、5、6話）
 
-::: 作詞 - [くまのきよみ](https://ja.wikipedia.org/wiki/くまのきよみ "wikilink") / 作曲 - [白戸佑輔](https://ja.wikipedia.org/wiki/白戸佑輔 "wikilink") / 編曲 - [大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") / 歌 - ララ&春菜（戸松遥&矢作紗友里）
+::: 作詞 - [くまのきよみ](../Page/くまのきよみ.md "wikilink") / 作曲 - [白戸佑輔](https://ja.wikipedia.org/wiki/白戸佑輔 "wikilink") / 編曲 - [大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") / 歌 - ララ&春菜（戸松遥&矢作紗友里）
 
 ::; 「[ラッキーチューン](https://ja.wikipedia.org/wiki/ラッキーチューン "wikilink")」（3話）
 
@@ -885,7 +885,7 @@ TBS<br />
 
 :; オープニングテーマ「[Loop-the-Loop](https://ja.wikipedia.org/wiki/Loop-the-Loop "wikilink")」
 
-:: 作詞・歌 - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") / 作曲 - KOTOKO、[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink") / 編曲 - 中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
+:: 作詞・歌 - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") / 作曲 - KOTOKO、[中沢伴行](../Page/中沢伴行.md "wikilink") / 編曲 - 中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
 
 :; エンディングテーマ「[Baby Baby Love](https://ja.wikipedia.org/wiki/Baby_Baby_Love "wikilink")」
 
@@ -899,7 +899,7 @@ TBS<br />
 
 :; オープニングテーマ「[楽園PROJECT](https://ja.wikipedia.org/wiki/楽園PROJECT "wikilink")」（第1話 - 第10話、第12話）
 
-:: 作詞 - PA-NON / 作曲・編曲 - [高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink") / 歌 - [Ray](https://ja.wikipedia.org/wiki/Ray_\(歌手\) "wikilink")
+:: 作詞 - PA-NON / 作曲・編曲 - [高瀬一矢](../Page/高瀬一矢.md "wikilink") / 歌 - [Ray](https://ja.wikipedia.org/wiki/Ray_\(歌手\) "wikilink")
 
 :: 第1話はBパートの後に流れた（実質エンディング扱い）。第11話はOPがないため未使用。
 
@@ -944,8 +944,8 @@ TBS<br />
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>舞い降りた少女</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加戸誉夫" title="wikilink">加戸誉夫</a></p></td>
+<td><p><a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></td>
+<td><p><a href="../Page/加戸誉夫.md" title="wikilink">加戸誉夫</a></p></td>
 <td><p>石川健朝</p></td>
 <td><p>前田明寿</p></td>
 <td><p>岡勇一</p></td>
@@ -953,7 +953,7 @@ TBS<br />
 <tr class="even">
 <td><p>2</p></td>
 <td><p>婚約解消!?</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
+<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
 <td><p>黒田幸生</p></td>
 <td><p>清水泰夫</p></td>
 <td></td>
@@ -963,7 +963,7 @@ TBS<br />
 <td><p>3</p></td>
 <td><p>三角関係</p></td>
 <td><p>榎本明広</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a></p></td>
+<td><p><a href="../Page/本橋秀之.md" title="wikilink">本橋秀之</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -971,7 +971,7 @@ TBS<br />
 <tr class="even">
 <td><p>4</p></td>
 <td><p>宇宙のLOVEエプロン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
+<td><p><a href="../Page/千葉克彦.md" title="wikilink">千葉克彦</a></p></td>
 <td><p>長澤剛</p></td>
 <td><p>岡勇一、<a href="https://ja.wikipedia.org/wiki/堀たえ子" title="wikilink">堀たえ子</a><br />
 松村拓哉</p></td>
@@ -990,7 +990,7 @@ TBS<br />
 <tr class="even">
 <td><p>6</p></td>
 <td><p>宇宙人の刺客</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦沢義雄" title="wikilink">浦沢義雄</a></p></td>
+<td><p><a href="../Page/浦沢義雄.md" title="wikilink">浦沢義雄</a></p></td>
 <td><p>寺沢伸介</p></td>
 <td><p>高橋秀弥</p></td>
 <td><p>阿部達也</p></td>
@@ -1045,7 +1045,7 @@ TBS<br />
 <td><p>12</p></td>
 <td><p>戦慄!体育祭</p></td>
 <td><p>下山健人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アミノテツロー" title="wikilink">アミノテツロ</a></p></td>
+<td><p><a href="../Page/アミノテツロー.md" title="wikilink">アミノテツロ</a></p></td>
 <td><p>白石道太</p></td>
 <td><p>川村幸祐</p></td>
 <td></td>
@@ -1109,7 +1109,7 @@ TBS<br />
 <td><p>19</p></td>
 <td><p>地獄温泉女宇宙人七色ポロリ</p></td>
 <td><p>千葉克彦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田雅彦" title="wikilink">太田雅彦</a></p></td>
+<td><p><a href="../Page/太田雅彦.md" title="wikilink">太田雅彦</a></p></td>
 <td><p>みくりや恭輔</p></td>
 <td><p>佐藤道雄</p></td>
 <td></td>
@@ -1137,7 +1137,7 @@ TBS<br />
 <td><p>戦慄!文化祭</p></td>
 <td><p>大和屋暁</p></td>
 <td><p>西森章</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>小山知洋、清水祐実</p></td>
 <td></td>
 </tr>
@@ -1173,7 +1173,7 @@ TBS<br />
 <td><p>ララ</p></td>
 <td><p>長澤剛</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大槻敦史" title="wikilink">大槻敦史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柳沢まさひで" title="wikilink">柳沢まさひで</a></p></td>
+<td><p><a href="../Page/柳沢まさひで.md" title="wikilink">柳沢まさひで</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1199,18 +1199,18 @@ TBS<br />
 <tr class="odd">
 <td><p>第1巻</p></td>
 <td><p>リト、女になる</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加戸誉夫" title="wikilink">加戸誉夫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></td>
+<td><p><a href="../Page/加戸誉夫.md" title="wikilink">加戸誉夫</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>竹谷今日子</p></td>
 <td><p>岡勇一</p></td>
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2巻</p></td>
 <td><p>リトと美柑</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長谷見沙貴" title="wikilink">長谷見沙貴</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田雅彦" title="wikilink">太田雅彦</a></p></td>
+<td><p><a href="../Page/長谷見沙貴.md" title="wikilink">長谷見沙貴</a></p></td>
+<td><p><a href="../Page/太田雅彦.md" title="wikilink">太田雅彦</a></p></td>
 <td><p>岡勇一</p></td>
 <td><p>2009年<a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
 <td></td>
@@ -1283,7 +1283,7 @@ TBS<br />
 <td><p>#1</p></td>
 <td><p>もっとトラブル1</p></td>
 <td><p>もう一度ここから</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田靖智" title="wikilink">山田靖智</a></p></td>
+<td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大槻敦史" title="wikilink">大槻敦史</a></p></td>
 <td><p>中村里美</p></td>
 <td><p>鶴窪久子</p></td>
@@ -1365,8 +1365,8 @@ TBS<br />
 <td><p>#4</p></td>
 <td><p>もっとトラブル10</p></td>
 <td><p>ヤミヤミファッション</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>沓澤洋子</p></td>
 <td></td>
 </tr>
@@ -1474,7 +1474,7 @@ TBS<br />
 <td><p>もっとトラブル22</p></td>
 <td><p>大きくなぁ～れ♪</p></td>
 <td><p>山田靖智</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤圭二" title="wikilink">後藤圭二</a></p></td>
+<td><p><a href="../Page/後藤圭二.md" title="wikilink">後藤圭二</a></p></td>
 <td><p>土屋康郎</p></td>
 <td><p>尾崎綾子</p></td>
 </tr>
@@ -1735,7 +1735,7 @@ TBS<br />
 <td><p>第9話</p></td>
 <td><p>True self ～闇の中の素顔～</p></td>
 <td><p>丸川直子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
+<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
 <td><p>竹下良平</p></td>
 <td><p>植田実、竹森由加<br />
 西谷泰史、藤原奈津子<br />
@@ -1957,7 +1957,7 @@ TBS<br />
 <td><p>第3話</p></td>
 <td><p>After a storm comes a calm ～ともだち～</p></td>
 <td><p>吉川博明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ふじもとよしたか" title="wikilink">藤本義孝</a></p></td>
+<td><p><a href="../Page/ふじもとよしたか.md" title="wikilink">藤本義孝</a></p></td>
 <td><p>眞部周一郎、仲村信樹<br />
 長野豊繁</p></td>
 <td><p>岡勇一<br />
@@ -1997,9 +1997,9 @@ TBS<br />
 <tr class="odd">
 <td><p>第7話</p></td>
 <td><p>Resistance ～わかっているけど～</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>大槻敦史</p></td>
-<td><p>木野下澄江、<a href="https://ja.wikipedia.org/wiki/石原満" title="wikilink">石原満</a><br />
+<td><p>木野下澄江、<a href="../Page/石原満.md" title="wikilink">石原満</a><br />
 岸本誠司、加藤優<br />
 松村拓哉、寺尾洋之<br />
 松川哲也</p></td>
@@ -2013,7 +2013,7 @@ TBS<br />
 石田健幸</p></td>
 <td><p>林宏樹</p></td>
 <td><p>渡部周</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/合田浩章" title="wikilink">合田浩章</a></p></td>
+<td><p><a href="../Page/合田浩章.md" title="wikilink">合田浩章</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2198,7 +2198,7 @@ jang sang mi、斎藤美香</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBSテレビ</a></p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBSテレビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> - <a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td><p>金曜 1:55 - 2:25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
@@ -2238,7 +2238,7 @@ jang sang mi、斎藤美香</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSチャンネル" title="wikilink">TBSチャンネル</a>2</p></td>
+<td><p><a href="../Page/TBSチャンネル.md" title="wikilink">TBSチャンネル</a>2</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a> - <a href="../Page/4月10日.md" title="wikilink">4月10日</a></p></td>
 <td><p>火曜 - 土曜 1:00 - 2:00</p></td>
 <td><p>CS放送</p></td>
@@ -2254,7 +2254,7 @@ jang sang mi、斎藤美香</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a> - <a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
 <td><p>水曜 2:00 - 2:30</p></td>
@@ -2270,8 +2270,8 @@ jang sang mi、斎藤美香</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレビ</a></p></td>
 <td><p>2010年<a href="../Page/10月7日.md" title="wikilink">10月7日</a> - <a href="../Page/12月23日.md" title="wikilink">12月23日</a></p></td>
 <td><p>木曜 1:30 - 2:00</p></td>
 <td></td>
@@ -2328,20 +2328,20 @@ jang sang mi、斎藤美香</p></td>
 <tr class="even">
 <td><p>日本全域</p></td>
 <td><p>AT-X</p></td>
-<td><p>2012年<a href="../Page/10月9日.md" title="wikilink">10月9日</a> - 2013年<a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p>2012年<a href="../Page/10月9日.md" title="wikilink">10月9日</a> - 2013年<a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td><p>火曜 23:00 - 23:30</p></td>
 <td><p>CS放送</p></td>
 <td><p>リピートあり</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大韓民国" title="wikilink">韓国全域</a></p></td>
+<td><p><a href="../Page/大韓民国.md" title="wikilink">韓国全域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ANIPLUS" title="wikilink">ANIPLUS</a></p></td>
 <td><p>2012年<a href="../Page/10月11日.md" title="wikilink">10月11日</a> - 2013年<a href="../Page/1月3日.md" title="wikilink">1月3日</a></p></td>
 <td><p>木曜 0:00 - 0:30</p></td>
 <td><p>CS放送</p></td>
 <td><p>リピート放送あり<br />
 <a href="../Page/朝鮮語.md" title="wikilink">韓国語字幕あり</a><br />
-<a href="https://ja.wikipedia.org/wiki/インターネットテレビ" title="wikilink">ネット配信でもCS放送と同時ネット</a></p></td>
+<a href="../Page/インターネットテレビ.md" title="wikilink">ネット配信でもCS放送と同時ネット</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ダークネス第2期（第1話 - 第12話）</p></td>
@@ -2448,7 +2448,7 @@ jang sang mi、斎藤美香</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ANIPLUS" title="wikilink">ANIPLUS</a></p></td>
 <td><p>2012年<a href="../Page/10月11日.md" title="wikilink">10月11日</a> - 2013年<a href="../Page/1月3日.md" title="wikilink">1月3日</a></p></td>
 <td><p>木曜 0:00 - 0:30</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/大韓民国" title="wikilink">韓国のみ</a><br />
+<td><p>|<a href="../Page/大韓民国.md" title="wikilink">韓国のみ</a><br />
 リピート放送あり<br />
 <a href="../Page/朝鮮語.md" title="wikilink">韓国語字幕あり</a><br />
 CS放送と同時ネット</p></td>
@@ -2476,13 +2476,13 @@ CS放送と同時ネット</p></td>
 <td><p>第1話無料、第2話以降2日間無料</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バンダイチャンネル" title="wikilink">バンダイチャンネル</a></p></td>
+<td><p><a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GYAO!" title="wikilink">GYAO!</a></p></td>
+<td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2741,7 +2741,7 @@ GNXA-7197（通常版）</p></td>
 </tr>
 <tr class="odd">
 <td><p>To LOVEる -とらぶる- ダークネス 2nd 第7巻</p></td>
-<td><p>2016年<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p></td>
+<td><p>2016年<a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
 <td><p>第13話 - 第14話</p></td>
 <td><p>GNXA-7347</p></td>
 </tr>
@@ -2801,11 +2801,11 @@ GNXA-7358（通常版）</p></td>
     [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。ジャンルは「2Dデジコミック+3Dタッチアクション」。
   - To LOVEる -とらぶる- ドキドキ\! 臨海学校編
     2008年[10月2日](../Page/10月2日.md "wikilink")にマーベラスエンターテイメントより発売。
-    [PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。ジャンルは「2Dアドベンチャー」。
+    [PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。ジャンルは「2Dアドベンチャー」。
   - To LOVEる -とらぶる- ダークネス -Idol Revolution-
-    [2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")より[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")で配信されている[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[87\]。その後、2014年[11月4日](../Page/11月4日.md "wikilink")より[Amebaゲーム](https://ja.wikipedia.org/wiki/Ameba_（ネットサービス） "wikilink")\[88\]、[2015年](../Page/2015年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")より[DMM.com](https://ja.wikipedia.org/wiki/DMM.com "wikilink")\[89\]にて配信が開始されている。
+    [2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")より[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")で配信されている[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[87\]。その後、2014年[11月4日](../Page/11月4日.md "wikilink")より[Amebaゲーム](https://ja.wikipedia.org/wiki/Ameba_（ネットサービス） "wikilink")\[88\]、[2015年](../Page/2015年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")より[DMM.com](../Page/DMM.com.md "wikilink")\[89\]にて配信が開始されている。
   - To LOVEる -とらぶる- ダークネス バトルエクスタシー
-    2014年[5月22日](../Page/5月22日.md "wikilink")に[フリュー](https://ja.wikipedia.org/wiki/フリュー "wikilink")より発売。
+    2014年[5月22日](../Page/5月22日.md "wikilink")に[フリュー](../Page/フリュー.md "wikilink")より発売。
     [PlayStation Vita用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。ジャンルは「超快楽ハーレムアクション」。
   - To LOVEる -とらぶる- ダークネス トゥループリンセス
     2015年11月5日にフリューより発売。
@@ -2818,17 +2818,17 @@ GNXA-7358（通常版）</p></td>
 
 『TL』第27話でリトが誕生日を迎え、第49話で登場人物が進級したが、第107話では作中の季節が秋から夏に戻るという展開がなされた。作中でもリトが「この前まで秋だったような」と気にしていたが、ララから「細かい事は気にしない」と言われている\[90\]。
 
-金色の闇や霧崎恭子など、矢吹の前作『[BLACK CAT](https://ja.wikipedia.org/wiki/BLACK_CAT "wikilink")』の登場人物をモデルにした人物が作中に登場している（[スターシステム](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")）。一方で、『TL』終了後に矢吹が連載した漫画『[迷い猫オーバーラン\!](https://ja.wikipedia.org/wiki/迷い猫オーバーラン! "wikilink")』には本作品のキャラクターがゲスト出演しており、また漫画版『迷い猫オーバーラン\!』第4話では主人公の都築巧が「ちょっとしたTo Loveる」と発言する場面がある。
+金色の闇や霧崎恭子など、矢吹の前作『[BLACK CAT](../Page/BLACK_CAT.md "wikilink")』の登場人物をモデルにした人物が作中に登場している（[スターシステム](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")）。一方で、『TL』終了後に矢吹が連載した漫画『[迷い猫オーバーラン\!](https://ja.wikipedia.org/wiki/迷い猫オーバーラン! "wikilink")』には本作品のキャラクターがゲスト出演しており、また漫画版『迷い猫オーバーラン\!』第4話では主人公の都築巧が「ちょっとしたTo Loveる」と発言する場面がある。
 
 『週刊少年ジャンプ』連載の他作品とコラボレーションしたこともあり、『赤マルジャンプ』2007 SPRINGの表紙では、ララと『[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")』の[神楽が互いの衣装を交換した](https://ja.wikipedia.org/wiki/神楽_（銀魂） "wikilink")。また、週刊少年ジャンプ2010年05・06号では『[いぬまるだしっ](https://ja.wikipedia.org/wiki/いぬまるだしっ "wikilink")』とのコラボ企画「To Loveるだしっ」が掲載された。この企画では、ララの発明品「とらぶるトラベラー」の力でリトとララが『いぬまるだしっ』の世界に出現している。
 
-メディアミックスを受けてグッズが多数制作・発売されているが、アニメ化が発表される前の2007年の夏に開催された「[ワンダーフェスティバル](../Page/ワンダーフェスティバル.md "wikilink")2007夏」で1/8スケールのララのフィギュアが展示されたことがある。このフィギュアは同年12月21日より[ジャンプショップ](https://ja.wikipedia.org/wiki/ジャンプショップ "wikilink")などで発売された。
+メディアミックスを受けてグッズが多数制作・発売されているが、アニメ化が発表される前の2007年の夏に開催された「[ワンダーフェスティバル](../Page/ワンダーフェスティバル.md "wikilink")2007夏」で1/8スケールのララのフィギュアが展示されたことがある。このフィギュアは同年12月21日より[ジャンプショップ](../Page/ジャンプショップ.md "wikilink")などで発売された。
 
 2016年5月25日には作品の10周年を記念し、[コミックとらのあな](../Page/コミックとらのあな.md "wikilink")にてモモの実物大フィギュアが10体限定の受注生産で販売された\[91\]
 
 ## TRANS BOY
 
-『**TRANS BOY**』（トランスボーイ）は、矢吹健太朗が『週刊少年ジャンプ』[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")37・38合併号に掲載した読切で、『TL』のプロトタイプとなった作品。公式データブック『ぱ～ふぇくとらぶる\!』に収録されている。
+『**TRANS BOY**』（トランスボーイ）は、矢吹健太朗が『週刊少年ジャンプ』[2004年](../Page/2004年.md "wikilink")37・38合併号に掲載した読切で、『TL』のプロトタイプとなった作品。公式データブック『ぱ～ふぇくとらぶる\!』に収録されている。
 
 「主人公である平凡な男子高校生と宇宙の天才少女が出会う」という導入部は『TL』と同じだが、ヒロイン「北条ララ」の性格などに多少の差異がある。内容は『TL』よりもバトル漫画に近く、ラブコメディの『TL』とは作風が異なるが、『TL』も当初は「**リトと他の婚約者候補の戦いを描く**」というバトル漫画になる予定であったことが後に語られている。
 
@@ -2935,11 +2935,11 @@ GNXA-7358（通常版）</p></td>
 63.
 64.
 65.
-66. アニメ化の詳細が発表された[TBSアニメフェスタ](https://ja.wikipedia.org/wiki/TBSアニメフェスタ "wikilink")2010にて司会を務めたTBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[向井政生](https://ja.wikipedia.org/wiki/向井政生 "wikilink")いわく、「TBSで放送しないのは[大人の事情](https://ja.wikipedia.org/wiki/大人の事情 "wikilink")」と説明した。
+66. アニメ化の詳細が発表された[TBSアニメフェスタ](../Page/TBSアニメフェスタ.md "wikilink")2010にて司会を務めたTBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[向井政生](../Page/向井政生.md "wikilink")いわく、「TBSで放送しないのは[大人の事情](https://ja.wikipedia.org/wiki/大人の事情 "wikilink")」と説明した。
 67. BD/DVD版ではそれらは解禁されているものの、漫画版と違い美柑の乳首描写は最初からない（OVAでも同じく）。
 68.
 69.
-70. 製作協力 - [集英社](../Page/集英社.md "wikilink")、[エイベックス・エンタテインメント](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")、[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")、XEBEC。
+70. 製作協力 - [集英社](../Page/集英社.md "wikilink")、[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")、[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")、XEBEC。
 71. 集英社、TBS、エイベックス・エンタテインメント、[ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")、XEBEC。
 72. アニメのクレジットでは「古屋貴浩」となっている。
 73.

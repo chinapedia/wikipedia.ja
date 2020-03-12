@@ -1,19 +1,19 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**ドラキュラ伝説II**』（ドラキュラでんせつツー、英題: *[Castlevania II: Belmont's Revenge](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Belmont's_Revenge "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトのアクションゲーム。
+『**ドラキュラ伝説II**』（ドラキュラでんせつツー、英題: *[Castlevania II: Belmont's Revenge](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Belmont's_Revenge "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1991年](../Page/1991年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトのアクションゲーム。
 
 ## 概要
 
-ゴシックホラーアクションゲーム・[悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ "wikilink")シリーズのゲームボーイでの2作目。前作『[ドラキュラ伝説](../Page/ドラキュラ伝説.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編にあたる。基本ゲームシステムは横視点スクロールのステージクリア型アクション。前作より格段にパワーアップしており、グラフィックや操作性などが向上し、シリーズ定番のサブウェポンも使用可能になった。ステージ数は全7ステージで、最初の4ステージは自由に選択できる。ステージ中の仕掛けやボスキャラクターなども多彩なものとなっている。前作同様無限コンティニュー制で、新たにパスワード機能も付いた。
+ゴシックホラーアクションゲーム・[悪魔城ドラキュラ](../Page/悪魔城ドラキュラ.md "wikilink")シリーズのゲームボーイでの2作目。前作『[ドラキュラ伝説](../Page/ドラキュラ伝説.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編にあたる。基本ゲームシステムは横視点スクロールのステージクリア型アクション。前作より格段にパワーアップしており、グラフィックや操作性などが向上し、シリーズ定番のサブウェポンも使用可能になった。ステージ数は全7ステージで、最初の4ステージは自由に選択できる。ステージ中の仕掛けやボスキャラクターなども多彩なものとなっている。前作同様無限コンティニュー制で、新たにパスワード機能も付いた。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")に発売された『[コナミGBコレクション VOL.3](https://ja.wikipedia.org/wiki/コナミGBコレクション "wikilink")』に、『グラディウスII』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")、『[ネメシスII](../Page/ネメシス_\(ゲーム\).md "wikilink")』から改題）、『[イー・アル・カンフー](https://ja.wikipedia.org/wiki/イー・アル・カンフー "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）、『[けっきょく南極大冒険](../Page/けっきょく南極大冒険.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）と共に収録された。各ゲームの案内や、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の周辺機器[スーパーゲームボーイ](https://ja.wikipedia.org/wiki/スーパーゲームボーイ "wikilink")に対応したピクチャーフレームなどが追加された。海外版のGBコレクションではさらに[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")対応となり、グラフィックがカラー化された。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")に発売された『[コナミGBコレクション VOL.3](../Page/コナミGBコレクション.md "wikilink")』に、『グラディウスII』（[1991年](../Page/1991年.md "wikilink")、『[ネメシスII](../Page/ネメシス_\(ゲーム\).md "wikilink")』から改題）、『[イー・アル・カンフー](../Page/イー・アル・カンフー.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）、『[けっきょく南極大冒険](../Page/けっきょく南極大冒険.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）と共に収録された。各ゲームの案内や、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の周辺機器[スーパーゲームボーイ](../Page/スーパーゲームボーイ.md "wikilink")に対応したピクチャーフレームなどが追加された。海外版のGBコレクションではさらに[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")対応となり、グラフィックがカラー化された。
 
 ## ゲーム内容
 
 ### システム
 
-*「[悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ "wikilink")」および「[ドラキュラ伝説](../Page/ドラキュラ伝説.md "wikilink")」の項のゲームシステムに関する記述も参照。*
+*「[悪魔城ドラキュラ](../Page/悪魔城ドラキュラ.md "wikilink")」および「[ドラキュラ伝説](../Page/ドラキュラ伝説.md "wikilink")」の項のゲームシステムに関する記述も参照。*
 
 主人公クリストファーを操作し、全部で7つのステージをクリアする。最初の4つの城のステージは好きな順番でクリアすることができる。クリアした順番によってゲーム内容が変化することはない。4つのステージから先は5、6、7と順にクリアしていく。ステージによっては一本道ではなく途中でルートが分岐していたりする。
 
@@ -77,7 +77,7 @@
 <td><p>6</p></td>
 <td><p>ドラキュラ本城（後半）</p></td>
 <td><p>Passpied<br />
-（<a href="../Page/クロード・ドビュッシー.md" title="wikilink">ドビュッシー</a>『<a href="https://ja.wikipedia.org/wiki/ベルガマスク組曲" title="wikilink">パスピエ</a>』）</p></td>
+（<a href="../Page/クロード・ドビュッシー.md" title="wikilink">ドビュッシー</a>『<a href="../Page/ベルガマスク組曲.md" title="wikilink">パスピエ</a>』）</p></td>
 <td><p>ソレイユ・ベルモンド</p></td>
 <td><p>Chromatische Phantasie<br />
 （<a href="../Page/ヨハン・ゼバスティアン・バッハ.md" title="wikilink">バッハ</a>『<a href="https://ja.wikipedia.org/wiki/半音階的幻想曲とフーガ" title="wikilink">半音階的幻想曲とフーガ</a>』）</p></td>
@@ -189,13 +189,13 @@
 <td></td>
 <td></td>
 <td><p><a href="../Page/ゲームボーイ.md" title="wikilink">ゲームボーイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメントジャパン" title="wikilink">KCEジャパン</a><br />
-<a href="https://ja.wikipedia.org/wiki/トーセ" title="wikilink">トーセ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント" title="wikilink">KDE</a></p></td>
+<td><p><a href="../Page/コナミコンピュータエンタテインメントジャパン.md" title="wikilink">KCEジャパン</a><br />
+<a href="../Page/トーセ.md" title="wikilink">トーセ</a></p></td>
+<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KDE</a></p></td>
 <td><p><a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>日本版は<a href="https://ja.wikipedia.org/wiki/スーパーゲームボーイ" title="wikilink">スーパーゲームボーイ</a>対応、欧州版は<a href="../Page/ゲームボーイカラー.md" title="wikilink">ゲームボーイカラー</a>対応</p></td>
+<td><p>日本版は<a href="../Page/スーパーゲームボーイ.md" title="wikilink">スーパーゲームボーイ</a>対応、欧州版は<a href="../Page/ゲームボーイカラー.md" title="wikilink">ゲームボーイカラー</a>対応</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -205,7 +205,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
 <a href="https://ja.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a><br />
 <a href="https://ja.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a><br />
-<a href="../Page/パーソナルコンピュータ.md" title="wikilink">PC</a>（<a href="https://ja.wikipedia.org/wiki/Steam" title="wikilink">Steam</a>）</p></td>
+<a href="../Page/パーソナルコンピュータ.md" title="wikilink">PC</a>（<a href="../Page/Steam.md" title="wikilink">Steam</a>）</p></td>
 <td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">M2</a></p></td>
 <td><p>KDE</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a></p></td>
@@ -232,7 +232,7 @@
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計23点\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、21.4点（満30点）となっている\[2\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計23点\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、21.4点（満30点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |

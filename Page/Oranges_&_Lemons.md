@@ -1,7 +1,7 @@
 > この記事は[Oranges \& Lemons](https://ja.wikipedia.org/wiki/Oranges_\&_Lemons)から翻訳されています。
 
 
-**Oranges & Lemons**（オレンジズ アンド レモンズ）は、[伊藤真澄](https://ja.wikipedia.org/wiki/伊藤真澄 "wikilink")と[上野洋子](https://ja.wikipedia.org/wiki/上野洋子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。「**伊藤真澄・上野洋子**」名義でも歌っているので触れる。この2人は「**AQUA VOCE**」（後の[Marsh-Mallow](https://ja.wikipedia.org/wiki/Marsh-Mallow "wikilink")）でも活動を共にしていた。
+**Oranges & Lemons**（オレンジズ アンド レモンズ）は、[伊藤真澄](../Page/伊藤真澄.md "wikilink")と[上野洋子](../Page/上野洋子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。「**伊藤真澄・上野洋子**」名義でも歌っているので触れる。この2人は「**AQUA VOCE**」（後の[Marsh-Mallow](../Page/Marsh-Mallow.md "wikilink")）でも活動を共にしていた。
 
 ## 作品
 
@@ -42,20 +42,20 @@
 | 9                                                                                     |
 | 10                                                                                    |
 
-|                                                                                     |
-| ----------------------------------------------------------------------------------- |
-| 聖なる憧憬 〜[灰羽連盟](https://ja.wikipedia.org/wiki/灰羽連盟 "wikilink")イメージソング集〜 / 2003年2月5日発売 |
-| \#                                                                                  |
-| 1                                                                                   |
-| 2                                                                                   |
-| 3                                                                                   |
-| 4                                                                                   |
-| 5                                                                                   |
-| 6                                                                                   |
-| 7                                                                                   |
-| 8                                                                                   |
-| 9                                                                                   |
-| 10                                                                                  |
+|                                                                  |
+| ---------------------------------------------------------------- |
+| 聖なる憧憬 〜[灰羽連盟](../Page/灰羽連盟.md "wikilink")イメージソング集〜 / 2003年2月5日発売 |
+| \#                                                               |
+| 1                                                                |
+| 2                                                                |
+| 3                                                                |
+| 4                                                                |
+| 5                                                                |
+| 6                                                                |
+| 7                                                                |
+| 8                                                                |
+| 9                                                                |
+| 10                                                               |
 
 [en:Oranges & Lemons](https://ja.wikipedia.org/wiki/en:Oranges_&_Lemons "wikilink")
 

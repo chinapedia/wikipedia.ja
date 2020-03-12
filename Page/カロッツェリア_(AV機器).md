@@ -1,7 +1,7 @@
 > この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
 
 
-[Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg](https://ja.wikipedia.org/wiki/File:Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg "fig:Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg") **カロッツェリア**（**carrozzeria**）は、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")の車載用AV機器（[カーオーディオ](https://ja.wikipedia.org/wiki/カーオーディオ "wikilink")、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")）事業のブランド名であり、日本国内のみで使用されている。
+[Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg](https://ja.wikipedia.org/wiki/File:Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg "fig:Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg") **カロッツェリア**（**carrozzeria**）は、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")の車載用AV機器（[カーオーディオ](../Page/カーオーディオ.md "wikilink")、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")）事業のブランド名であり、日本国内のみで使用されている。
 
 ## 概要
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   -
-    4ウェイスピーカー、TS-X75を発売。ブレーキランプを踏むと赤く光るスピーカーとして話題になったが、後付け[ハイマウントストップランプ](https://ja.wikipedia.org/wiki/ハイマウントストップランプ "wikilink")とは認められずに発売中止になった。
+    4ウェイスピーカー、TS-X75を発売。ブレーキランプを踏むと赤く光るスピーカーとして話題になったが、後付け[ハイマウントストップランプ](../Page/ハイマウントストップランプ.md "wikilink")とは認められずに発売中止になった。
 
 ### 1990年代
 
@@ -100,7 +100,7 @@
 
   -
     カロッツェリア初の[HDDカーナビゲーションシステム](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")「AVIC-H09」（サイバーナビ）を発売。
-    地図メディアに10GBの[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")製2.5インチHDDを採用。容量拡大と処理速度の向上を実現。HDD搭載は業界初であり、この後の高機能カーナビの方向を決めた「ミュージックサーバー」機能（音楽CDをMP3データとして録音・蓄積して好みに応じて再生できる）も搭載。モニター、ビーコンとセットで31万5000円。
+    地図メディアに10GBの[東芝](../Page/東芝.md "wikilink")製2.5インチHDDを採用。容量拡大と処理速度の向上を実現。HDD搭載は業界初であり、この後の高機能カーナビの方向を決めた「ミュージックサーバー」機能（音楽CDをMP3データとして録音・蓄積して好みに応じて再生できる）も搭載。モニター、ビーコンとセットで31万5000円。
 
 <!-- end list -->
 
@@ -138,7 +138,7 @@
 <!-- end list -->
 
   -
-    [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と共同で[Android](https://ja.wikipedia.org/wiki/Android "wikilink")用アプリケーション「[ドコモ ドライブネット](https://ja.wikipedia.org/wiki/ドコモ_ドライブネット "wikilink") powered by カロッツェリア」を[ドコモ スマートフォン向けに提供開始](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")。
+    [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と共同で[Android](../Page/Android.md "wikilink")用アプリケーション「[ドコモ ドライブネット](https://ja.wikipedia.org/wiki/ドコモ_ドライブネット "wikilink") powered by カロッツェリア」を[ドコモ スマートフォン向けに提供開始](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")。
     同時に「スマートループ」も使用できる専用クレードル「SPX-SC01」も発売開始。
 
 <!-- end list -->
@@ -166,7 +166,7 @@
 <!-- end list -->
 
   -
-    世界初のAR技術による[HUD採用モデル](https://ja.wikipedia.org/wiki/ヘッドアップディスプレイ "wikilink")「サイバーナビ AVIC-VH99HUD」、「AVIC-ZH99HUD」を発表。
+    世界初のAR技術による[HUD採用モデル](../Page/ヘッドアップディスプレイ.md "wikilink")「サイバーナビ AVIC-VH99HUD」、「AVIC-ZH99HUD」を発表。
 
 <!-- end list -->
 

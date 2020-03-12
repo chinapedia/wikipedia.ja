@@ -5,11 +5,11 @@
 
 ## 概要
 
-[小学館](../Page/小学館.md "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")雑誌『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』で[1999年](../Page/1999年.md "wikilink")9月号から[2003年](../Page/2003年.md "wikilink")6月号まで連載されていた。[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の占い・[風水](../Page/風水.md "wikilink")を中心とした漫画で、登場人物の名前には中国風のものが多い。『ちゃお』での人気は高く、同誌が2003年に100万部を達成するまでの“成長期”における看板作品であった。
+[小学館](../Page/小学館.md "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")雑誌『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』で[1999年](../Page/1999年.md "wikilink")9月号から[2003年](../Page/2003年.md "wikilink")6月号まで連載されていた。[中国](../Page/中国.md "wikilink")の占い・[風水](../Page/風水.md "wikilink")を中心とした漫画で、登場人物の名前には中国風のものが多い。『ちゃお』での人気は高く、同誌が2003年に100万部を達成するまでの“成長期”における看板作品であった。
 
-前半は主人公の少女と幼馴染みの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")少年との[ラブコメディ](https://ja.wikipedia.org/wiki/ラブコメディ "wikilink")を中心に、風水で事件を解決する作風だったが、後半からは闇に乗っ取られた人々を救うために明鈴が光の[巫女](../Page/巫女.md "wikilink")に[変身して](https://ja.wikipedia.org/wiki/変身_\(ヒーロー\) "wikilink")[四神](https://ja.wikipedia.org/wiki/四神 "wikilink")と共に戦うという[変身バトルヒロイン路線に大きく傾いた](../Page/魔法少女.md "wikilink")。
+前半は主人公の少女と幼馴染みの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")少年との[ラブコメディ](../Page/ラブコメディ.md "wikilink")を中心に、風水で事件を解決する作風だったが、後半からは闇に乗っ取られた人々を救うために明鈴が光の[巫女](../Page/巫女.md "wikilink")に[変身して](../Page/変身_\(ヒーロー\).md "wikilink")[四神](../Page/四神.md "wikilink")と共に戦うという[変身バトルヒロイン路線に大きく傾いた](../Page/魔法少女.md "wikilink")。
 
-アニメが放送されている間、同じく小学館の『[（小学館の）幼稚園](https://ja.wikipedia.org/wiki/幼稚園_\(雑誌\) "wikilink")』でも幼児向けコンテンツが連載されていた。なお、原作とアニメでは結末が大きく異なっている。
+アニメが放送されている間、同じく小学館の『[（小学館の）幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")』でも幼児向けコンテンツが連載されていた。なお、原作とアニメでは結末が大きく異なっている。
 
 ## あらすじ
 
@@ -22,7 +22,7 @@
 ### 主人公
 
   - 神崎 明鈴（かんざき めいりん）
-    本作の主人公。3歳の時に[風水](../Page/風水.md "wikilink")に目覚め、[サッカーボール](https://ja.wikipedia.org/wiki/サッカーボール "wikilink")がぶつかったことをきっかけに幼馴染みの結城飛鳥を運命の人と信じる。以来、飛鳥に猛烈にアタックする。
+    本作の主人公。3歳の時に[風水](../Page/風水.md "wikilink")に目覚め、[サッカーボール](../Page/サッカーボール.md "wikilink")がぶつかったことをきっかけに幼馴染みの結城飛鳥を運命の人と信じる。以来、飛鳥に猛烈にアタックする。
     お団子頭に三つ編みがトレードマーク（?）。ややドジっ子でミーハーな面もある。
     「かならず当たる\!」と学校でも大人気の風水師・Dr.リンの正体。ちなみに[HPは兄の餃子の指導の下運営中](../Page/ホームページ.md "wikilink")。
     [ペット](../Page/ペット.md "wikilink")は小猿の天津で、飼い主共に[菓子](../Page/菓子.md "wikilink")好き。
@@ -32,7 +32,7 @@
     変身後のスタイルは赤いチャイナ服にルーズソックスで、後半にパワーアップした後は白いコスチュームになった。アニメではパワーアップの経緯が異なるため最終盤でのみこの衣装になる。
     原作では闇の王との戦いの後、巫女の力が消えて風水ができなくなったため、Dr.リンのHPも廃業した。
     アニメでは、闇の鬼の復活のため、闇の王に捕らわれ海雲タワーの頂上に連れて行かれてしまう。その後魔方陣に捕縛され復活の儀式は完了してしまう。飛鳥とリンリンが助けにやってくるも、飛鳥が闇の王に瀕死の傷を負わされたのを目の当たりにして自ら魔方陣の呪縛を解き、飛鳥の元に駆け寄ろうとするも死んだかと思われたアズサに復讐のために敵討ちされかける。アズサの元を離れようとするも、闇の王がアズサを攻撃しようとしたのを庇い自身も瀕死の傷を負ってしまう。最期の力を振り絞って飛鳥とともにお互い這いずりながらも手をとり、愛の告白をしそのままお互いに死亡してしまう。その後覚醒したリンリンにより復活し、改心したアズサとともに闇の王の浄化に成功する。
-    [10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")生まれ。[星座](../Page/星座.md "wikilink")：[天秤座](https://ja.wikipedia.org/wiki/天秤座 "wikilink")、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型、[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")：156cm。
+    [10月13日](../Page/10月13日.md "wikilink")生まれ。[星座](../Page/星座.md "wikilink")：[天秤座](https://ja.wikipedia.org/wiki/天秤座 "wikilink")、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型、[身長](../Page/身長.md "wikilink")：156cm。
     趣味・特技：料理、好きな科目：[国語](../Page/国語.md "wikilink")・[家庭科](https://ja.wikipedia.org/wiki/家庭科 "wikilink")、好きな食べ物：[ケーキ](../Page/ケーキ.md "wikilink")・お菓子など甘い物、苦手な物：[幽霊](../Page/幽霊.md "wikilink")・[爬虫類](../Page/爬虫類.md "wikilink")。
       - 天津（てんしん）
         明鈴のペット。明鈴の部屋で一緒に暮らしており、飼い主のお菓子のつまみ食い常習犯。
@@ -44,13 +44,13 @@
 ### 四神とその守護神たち
 
   - 結城 飛鳥（ゆうき あすか）
-    神崎明鈴に運命の人と思われている、明鈴の思い人。サッカーが趣味で、夢は[Jリーガー](https://ja.wikipedia.org/wiki/Jリーグのクラブに所属するサッカー選手のクラブ別一覧 "wikilink")（らしい）。
+    神崎明鈴に運命の人と思われている、明鈴の思い人。サッカーが趣味で、夢は[Jリーガー](../Page/Jリーグのクラブに所属するサッカー選手のクラブ別一覧.md "wikilink")（らしい）。
     最初の時は明鈴に毎日付きまとわれて嫌々だったが、紆余曲折の末、今では2人は両想い。
-    自分の力以外、[占い](../Page/占い.md "wikilink")や風水は絶対信じない。原作では無口で無愛想といわれるがアニメでは比較的明るい。乙女チックな趣味の[母親](https://ja.wikipedia.org/wiki/母親 "wikilink")を苦手としている感があるが、本人いわくもう慣れたらしい。
+    自分の力以外、[占い](../Page/占い.md "wikilink")や風水は絶対信じない。原作では無口で無愛想といわれるがアニメでは比較的明るい。乙女チックな趣味の[母親](../Page/母親.md "wikilink")を苦手としている感があるが、本人いわくもう慣れたらしい。
     アニメ版の第41話から第43話では、闇の巫女の手下になったことがある。
     四神・[青龍の生まれ変わり](../Page/青竜.md "wikilink")。実は前世では光の巫女（明鈴の前世）と恋愛関係にあったが悲恋に終わっている。
     [7月5日](../Page/7月5日.md "wikilink")生まれ。星座：[蟹座](https://ja.wikipedia.org/wiki/蟹座 "wikilink")、血液型：O型、身長：172cm。
-    趣味・特技：[スポーツ](../Page/スポーツ.md "wikilink")・特にサッカー、好きな科目：[体育](https://ja.wikipedia.org/wiki/体育 "wikilink")・[数学](../Page/数学.md "wikilink")・[理科](../Page/理科.md "wikilink")、好きな食べ物：[焼肉](../Page/焼肉.md "wikilink")・[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")・[ハンバーガー](../Page/ハンバーガー.md "wikilink")、苦手な物：占い全般。
+    趣味・特技：[スポーツ](../Page/スポーツ.md "wikilink")・特にサッカー、好きな科目：[体育](../Page/体育.md "wikilink")・[数学](../Page/数学.md "wikilink")・[理科](../Page/理科.md "wikilink")、好きな食べ物：[焼肉](../Page/焼肉.md "wikilink")・[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")・[ハンバーガー](../Page/ハンバーガー.md "wikilink")、苦手な物：占い全般。
       - 桃太郎（ももたろう）
         飛鳥の守護神である小さな青龍。[武士](../Page/武士.md "wikilink")のようなしゃべり方をする。無愛想な性格だが、飛鳥と惚れているシンシアには素直である。
         桃太郎という名は、シンシアの前だと桃（[モモ](../Page/モモ.md "wikilink")）のように赤くなる所から、シンシアが名付ける。
@@ -70,7 +70,7 @@
     [タロットカード](https://ja.wikipedia.org/wiki/タロットカード "wikilink")の使い手の少年。タロットで占いを行う他、タロットカードを自在に操り遠距離の敵への攻撃も可能。
     得意技は空手で黒帯を持つ。家が[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")道場で、学校でも空手部に入部した。敵の攻撃をキックで防御したこともある。
     闇の王の手下として登場し、幼い頃に母親を事故によって亡くしたことで心を閉ざしていたところを利用された（万里は自分のせいだと感じ、口がきけなくなっていた）。
-    [ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")のシンシアに体を乗っ取られることがあり、その際に少女に変身し、体は女性化している（アニメでは明確ではない）。闇の王の策略で飛鳥や明鈴を苦しめたが、明鈴によって闇の中から救われ、それをきっかけに明鈴に思いを寄せ始める。
+    [ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")のシンシアに体を乗っ取られることがあり、その際に少女に変身し、体は女性化している（アニメでは明確ではない）。闇の王の策略で飛鳥や明鈴を苦しめたが、明鈴によって闇の中から救われ、それをきっかけに明鈴に思いを寄せ始める。
     アニメ版では、改心した後には女装をやめて明鈴と同じ学校に通うことになるのだが、シンシアに憑依してもらってタロットの力を使う時のみ元の女装スタイルに変身（?）する。
     原作では正式に女生徒になっているため、学校へ行くときにはいつも女装している（万里は嫌がっているが、シンシアは気に入っている）。また、身体測定などにはシンシアが憑依して行く。
     四神・[玄武](../Page/玄武.md "wikilink")の生まれ変わり。
@@ -78,13 +78,13 @@
       - シンシア
         小さなパンダのぬいぐるみ。闇の王に操られていたのは万里ではなくこのシンシア。万里に憑依してタロットカードで様々な力を発揮する。合体時に少女の姿をしているのはシンシアの趣味（闇の王に操られていた頃は万里の心が閉じていたため、ほぼシンシアのみの意思で動いていた）。万里がシンシアの力を借りようと女装を要求することもあった。原作においては、万里の体を乗っ取って万里の意思をパンダのぬいぐるみへ入れ変えるといったことさえも日常的に行っていた（ただし、3時間経つと元に戻ってしまう）。
         性格的には良くも悪くも女性的と言える。飛鳥がタイプらしい。小さい頃から万里と一緒にいて、やがて万里の心が離れることを恐れていた心を利用し、闇の王が人間の少女にしてやると騙して万里とシンシアを操っていた。現在では万里の世話を焼いているかに見えるが、実際に世話を焼いているのは万里の方である（シンシアが着ている服も全て万里の手作り）。
-        原作においてはかつて人間であったと思われる描写があり、中世ヨーロッパの貴族らしき女性であった模様。その頃の記憶のためかこっそり[ブラジャー](https://ja.wikipedia.org/wiki/ブラジャー "wikilink")を着用しているらしい。
+        原作においてはかつて人間であったと思われる描写があり、中世ヨーロッパの貴族らしき女性であった模様。その頃の記憶のためかこっそり[ブラジャー](../Page/ブラジャー.md "wikilink")を着用しているらしい。
   - 月丘 エディ（つきおか エディ）
     [星占いを得意とする](../Page/占星術.md "wikilink")。外国人なのに[大阪弁](https://ja.wikipedia.org/wiki/大阪弁 "wikilink")で話すお調子者。サッカーセンスは抜群で、飛鳥や常盤のサッカー部の監督代理として登場。派手な見た目に反して貧乏学生で苦労人。
-    幼少期から少年期にかけての辛い体験により美人アレルギーになってしまった。一応本業は占星術だが、女性の相談者が多かったためにやむなく廃業してしまったらしい。「[あなた](https://ja.wikipedia.org/wiki/あなた_\(小坂明子の曲\) "wikilink")」に登場するような家を持つことが夢。
+    幼少期から少年期にかけての辛い体験により美人アレルギーになってしまった。一応本業は占星術だが、女性の相談者が多かったためにやむなく廃業してしまったらしい。「[あなた](../Page/あなた_\(小坂明子の曲\).md "wikilink")」に登場するような家を持つことが夢。
     万里や常盤と同様に闇の王に操られていたが、報酬が目的であった。大好きだった祖父に墓を作るために金を集めていたが、それを抜きにしても、関西人キャラらしくがめついところがある。原作終盤になって念願の祖父の墓を祖母の墓の隣に建てることができた。
     原作では星（水晶玉状の球体）を駆使し、敵を閉じ込めたりすることもできる。
-    [ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")風の占星術占いが得意で、今は[キャンピングカー](https://ja.wikipedia.org/wiki/キャンピングカー "wikilink")（アニメでは[ワゴン車](https://ja.wikipedia.org/wiki/ワゴン車 "wikilink")）で生活し、そこで「[たこやき](https://ja.wikipedia.org/wiki/たこやき "wikilink")屋」を経営中。原作ではアズサに爆破されてしまう。ワゴン車の代金はローンで払っていたらしい。万里とのツーショットが多いが、深い意味はない。
+    [ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")風の占星術占いが得意で、今は[キャンピングカー](../Page/キャンピングカー.md "wikilink")（アニメでは[ワゴン車](https://ja.wikipedia.org/wiki/ワゴン車 "wikilink")）で生活し、そこで「[たこやき](https://ja.wikipedia.org/wiki/たこやき "wikilink")屋」を経営中。原作ではアズサに爆破されてしまう。ワゴン車の代金はローンで払っていたらしい。万里とのツーショットが多いが、深い意味はない。
     四神・[朱雀](../Page/朱雀.md "wikilink")の生まれ変わり。
     [11月1日](../Page/11月1日.md "wikilink")生まれ。星座：[蠍座](https://ja.wikipedia.org/wiki/蠍座 "wikilink")、血液型：O型、身長187cm。
       - タコヤキ
@@ -128,14 +128,14 @@
 
   - 光の[巫女](../Page/巫女.md "wikilink")（ひかりのみこ）
     1000年前に闇の王を封印した女性。明鈴の前世。闇を討ち、光の世界を守ることが使命だったが、四神の1人・東の[青龍と恋に落ちた](../Page/青竜.md "wikilink")。そのため、光の世界のバランスが崩れ、闇に飲み込まれそうになったが、闇の王に嫁ぐことを条件に、闇による浸食は免れるはずだった。が、青龍に嫉妬し続ける闇の王は約束を違えた。そして、光の巫女は四神から渡された短剣で、闇の王を封印した。
-  - [四神](https://ja.wikipedia.org/wiki/四神 "wikilink")（ししん）
+  - [四神](../Page/四神.md "wikilink")（ししん）
     光の巫女に従える青龍、[白虎](../Page/白虎.md "wikilink")、[朱雀](../Page/朱雀.md "wikilink")、[玄武](../Page/玄武.md "wikilink")の4人。それぞれ、結城飛鳥、常盤崇、月丘エディ、四条万里の前世である。4人とも戦闘時には守護神と合体して正装に変身できる。飛鳥の守護神は原作では桃太郎、アニメでは天津、常盤は七尾、万里はシンシア、エディはタコヤキである。原作では戦いの後、守護神たちは姿を消した（天津はただの小猿、シンシアはぬいぐるみ、タコヤキは普通のオウムに戻った）。
   - 闇の王（やみのおう）
     餃子の正体。闇の世界の王であり、1000年前に光の巫女を愛してしまったことから全てが始まる。光の巫女に愛を注ぐ反面、闇の巫女には非常に冷たく接している。神崎餃子の前世であり、転生した後も明鈴を愛し、アズサには冷淡に接している。また、腕の立つ常盤・万里・エディを利用して明鈴に攻撃を仕掛けてきたが、それは結果的に光の巫女に四神をひき合わせる結果になってしまった。
   - 闇の巫女（やみのみこ）
     1000年前に闇の王に仕えていた女性。アズサの前世。光の巫女の四神に対応する、四凶と呼ばれる者たちを従えている。誰よりも闇の王を敬い、愛していたが、結局その恋が成就することはなかった。四凶を率いて闇の王を裏切ろうとしたこともあったが、四凶は闇の王の一喝でことごとく王に膝を屈し、叶わなかった。そして、敵でありながらも闇の王に愛されている光の巫女を1000年たった今でも憎み続けている。たとえ闇の者でも、1人の人間を一途に愛し続ける健気な女性。
   - [四凶](https://ja.wikipedia.org/wiki/四凶 "wikilink")（しきょう）
-    闇の巫女に従える[きゅうき](https://ja.wikipedia.org/wiki/窮奇 "wikilink")、[とうてつ](https://ja.wikipedia.org/wiki/饕餮 "wikilink")、[こんとん](https://ja.wikipedia.org/wiki/渾沌 "wikilink")、[とうこつの](https://ja.wikipedia.org/wiki/檮杌 "wikilink")4人。容姿は原作では四神に角が生えた風貌になっているが、アニメ版ではビジュアル系のルックスをした男性の姿となっており、化け物の姿に変貌できる。当初は闇の巫女に使えていたと思われていたが、前述の出来事がきっかけで闇の王に与する。とうこつ\[2\]はエディと、こんとん\[3\]は万里と、とうてつ\[4\]は常盤とそれぞれ相打ちする形で敗北。きゅうき\[5\]は飛鳥の一撃によって敗北した。
+    闇の巫女に従える[きゅうき](../Page/窮奇.md "wikilink")、[とうてつ](../Page/饕餮.md "wikilink")、[こんとん](https://ja.wikipedia.org/wiki/渾沌 "wikilink")、[とうこつの](https://ja.wikipedia.org/wiki/檮杌 "wikilink")4人。容姿は原作では四神に角が生えた風貌になっているが、アニメ版ではビジュアル系のルックスをした男性の姿となっており、化け物の姿に変貌できる。当初は闇の巫女に使えていたと思われていたが、前述の出来事がきっかけで闇の王に与する。とうこつ\[2\]はエディと、こんとん\[3\]は万里と、とうてつ\[4\]は常盤とそれぞれ相打ちする形で敗北。きゅうき\[5\]は飛鳥の一撃によって敗北した。
 
 ## 単行本
 
@@ -157,39 +157,39 @@
 
 ### 声の出演
 
-  - 神崎明鈴 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
-  - 結城飛鳥 - [反田孝幸](https://ja.wikipedia.org/wiki/反田孝幸 "wikilink")
-  - 常盤崇 - [風間勇刀](https://ja.wikipedia.org/wiki/風間勇刀 "wikilink")
-  - 四条万里 - [かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")（第13話から登場）
-  - 月丘エディ - [木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")
-  - 天津 - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
+  - 神崎明鈴 - [千葉紗子](../Page/千葉紗子.md "wikilink")
+  - 結城飛鳥 - [反田孝幸](../Page/反田孝幸.md "wikilink")
+  - 常盤崇 - [風間勇刀](../Page/風間勇刀.md "wikilink")
+  - 四条万里 - [かかずゆみ](../Page/かかずゆみ.md "wikilink")（第13話から登場）
+  - 月丘エディ - [木内秀信](../Page/木内秀信.md "wikilink")
+  - 天津 - [竹内順子](../Page/竹内順子.md "wikilink")
   - 小西侑英 - 竹内順子
   - 七尾 - [鈴木真仁](../Page/鈴木真仁.md "wikilink")
   - シンシア - [甲斐田ゆき](../Page/甲斐田ゆき.md "wikilink")
   - タコヤキ - 柳原哲也（[アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")）
   - チャン・リンリン - [香川葉月](https://ja.wikipedia.org/wiki/香川葉月 "wikilink")
-  - リンリンの母 - [中尾友紀](https://ja.wikipedia.org/wiki/中尾友紀 "wikilink")
-  - 神崎炒 - [石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
-  - 神崎笑華 - [横山智佐](https://ja.wikipedia.org/wiki/横山智佐 "wikilink")
-  - 神崎餃子 - [森山栄治](https://ja.wikipedia.org/wiki/森山栄治 "wikilink")
-  - 神崎月餅 - [外波山文明](https://ja.wikipedia.org/wiki/外波山文明 "wikilink")
-  - 春日部周子 - [鴻口可南](https://ja.wikipedia.org/wiki/太田衣美 "wikilink")
-  - 品川大輔 - [渡辺慶](https://ja.wikipedia.org/wiki/渡辺啓 "wikilink")
-  - 黒川アズサ - [本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
-  - 大井町敬馬 - [北原雅樹](https://ja.wikipedia.org/wiki/北原雅樹 "wikilink")
-  - 光の巫女 - [笠原弘子](https://ja.wikipedia.org/wiki/笠原弘子 "wikilink")
+  - リンリンの母 - [中尾友紀](../Page/中尾友紀.md "wikilink")
+  - 神崎炒 - [石井康嗣](../Page/石井康嗣.md "wikilink")
+  - 神崎笑華 - [横山智佐](../Page/横山智佐.md "wikilink")
+  - 神崎餃子 - [森山栄治](../Page/森山栄治.md "wikilink")
+  - 神崎月餅 - [外波山文明](../Page/外波山文明.md "wikilink")
+  - 春日部周子 - [鴻口可南](../Page/太田衣美.md "wikilink")
+  - 品川大輔 - [渡辺慶](../Page/渡辺啓.md "wikilink")
+  - 黒川アズサ - [本多知恵子](../Page/本多知恵子.md "wikilink")
+  - 大井町敬馬 - [北原雅樹](../Page/北原雅樹.md "wikilink")
+  - 光の巫女 - [笠原弘子](../Page/笠原弘子.md "wikilink")
   - シェンロン - 横山智佐
   - 闇の巫女 - 本多知恵子
   - 闇の王 - 森山栄治
-  - きゅうき - [松本忍](https://ja.wikipedia.org/wiki/松本忍 "wikilink")
+  - きゅうき - [松本忍](../Page/松本忍.md "wikilink")
   - とうてつ - [近藤孝行](../Page/近藤孝行.md "wikilink")
-  - こんとん - [鶴岡聡](https://ja.wikipedia.org/wiki/鶴岡聡 "wikilink")
-  - とうこつ - [下崎紘史](https://ja.wikipedia.org/wiki/下崎紘史 "wikilink")
+  - こんとん - [鶴岡聡](../Page/鶴岡聡.md "wikilink")
+  - とうこつ - [下崎紘史](../Page/下崎紘史.md "wikilink")
 
 ### スタッフ
 
-  - 監督 - [三沢伸](https://ja.wikipedia.org/wiki/三沢伸 "wikilink")
-  - シリーズ構成 - [前川淳](https://ja.wikipedia.org/wiki/前川淳_\(脚本家\) "wikilink")
+  - 監督 - [三沢伸](../Page/三沢伸.md "wikilink")
+  - シリーズ構成 - [前川淳](../Page/前川淳_\(脚本家\).md "wikilink")
   - キャラクターデザイン・総作画監督 - [一川孝久](https://ja.wikipedia.org/wiki/一川孝久 "wikilink")
   - コスチュームデザイン - 加藤万由子
   - デザインワークス - 飯田清貴、山崎猛、大宅幸男、荻原直樹、林千博
@@ -198,12 +198,12 @@
   - 色彩設計 - 石黒文子、大倉喜美子
   - 撮影監督 - 鎌田克明
   - 編集 - [小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
-  - 音響監督 - [平光琢也](https://ja.wikipedia.org/wiki/平光琢也 "wikilink")
-  - 音楽 - [有澤孝紀](https://ja.wikipedia.org/wiki/有澤孝紀 "wikilink")
-  - アニメーションプロデューサー - [茂垣弘道](https://ja.wikipedia.org/wiki/茂垣弘道 "wikilink")
-  - プロデューサー - [東不可止](https://ja.wikipedia.org/wiki/東不可止 "wikilink")、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")、すぎやまあつお
-  - アニメーション・CG制作 - [スタジオコメット](https://ja.wikipedia.org/wiki/スタジオコメット "wikilink")
-  - 製作 - テレビ東京、[NAS](https://ja.wikipedia.org/wiki/日本アドシステムズ "wikilink")
+  - 音響監督 - [平光琢也](../Page/平光琢也.md "wikilink")
+  - 音楽 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
+  - アニメーションプロデューサー - [茂垣弘道](../Page/茂垣弘道.md "wikilink")
+  - プロデューサー - [東不可止](../Page/東不可止.md "wikilink")、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")、すぎやまあつお
+  - アニメーション・CG制作 - [スタジオコメット](../Page/スタジオコメット.md "wikilink")
+  - 製作 - テレビ東京、[NAS](../Page/日本アドシステムズ.md "wikilink")
 
 ### 主題歌・挿入歌
 
@@ -246,9 +246,9 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>ウワサの天才風水師!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前川淳_(脚本家)" title="wikilink">前川淳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三沢伸" title="wikilink">三沢伸</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福冨博" title="wikilink">福冨博</a></p></td>
+<td><p><a href="../Page/前川淳_(脚本家).md" title="wikilink">前川淳</a></p></td>
+<td><p><a href="../Page/三沢伸.md" title="wikilink">三沢伸</a></p></td>
+<td><p><a href="../Page/福冨博.md" title="wikilink">福冨博</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/一川孝久" title="wikilink">一川孝久</a></p></td>
 <td><p><strong><a href="../Page/2001年.md" title="wikilink">2001年</a></strong><br />
 <a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
@@ -256,16 +256,16 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>恋のドキドキ課外授業!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中瀬理香" title="wikilink">中瀬理香</a></p></td>
+<td><p><a href="../Page/中瀬理香.md" title="wikilink">中瀬理香</a></p></td>
 <td><p>池上和誉</p></td>
 <td><p>渡辺健一郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢比呂司" title="wikilink">金沢比呂司</a></p></td>
+<td><p><a href="../Page/金沢比呂司.md" title="wikilink">金沢比呂司</a></p></td>
 <td><p><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>転校生でラブぱにっく!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉村元希" title="wikilink">吉村元希</a></p></td>
+<td><p><a href="../Page/吉村元希.md" title="wikilink">吉村元希</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森脇真琴" title="wikilink">森脇真琴</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/興村忠美" title="wikilink">興村忠美</a></p></td>
 <td><p><a href="../Page/3月19日.md" title="wikilink">3月19日</a></p></td>
@@ -275,7 +275,7 @@
 <td><p>4</p></td>
 <td><p>式神バスで大ピンチ!</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/玉井豪" title="wikilink">玉井☆豪</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>松本勝次</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
 <td></td>
@@ -284,7 +284,7 @@
 <td><p>5</p></td>
 <td><p>乙女心危機イッパツ!</p></td>
 <td><p>前川淳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
 <td><p>井上修</p></td>
 <td><p>古池敏也</p></td>
 <td><p><a href="../Page/4月2日.md" title="wikilink">4月2日</a></p></td>
@@ -304,7 +304,7 @@
 <td><p>吉村元希</p></td>
 <td><p>福冨博</p></td>
 <td><p>山崎猛</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -320,7 +320,7 @@
 <td><p>9</p></td>
 <td><p>パパの風水大作戦!</p></td>
 <td><p>玉井☆豪</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高柳哲司" title="wikilink">高柳哲司</a></p></td>
+<td><p><a href="../Page/高柳哲司.md" title="wikilink">高柳哲司</a></p></td>
 <td><p>石踊宏</p></td>
 <td><p>松本勝次</p></td>
 <td><p><a href="../Page/4月30日.md" title="wikilink">4月30日</a></p></td>
@@ -395,7 +395,7 @@
 <td><p>17</p></td>
 <td><p>恐怖、学校のカイダン!?</p></td>
 <td><p>高林久弥</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本裕介" title="wikilink">山本裕介</a></p></td>
+<td><p><a href="../Page/山本裕介.md" title="wikilink">山本裕介</a></p></td>
 <td><p>渡辺健一郎</p></td>
 <td><p>飯田清貴</p></td>
 <td><p><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
@@ -432,7 +432,7 @@
 <td><p>星の罠きらめきの大逆転!</p></td>
 <td><p>福冨博</p></td>
 <td><p>山崎猛</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -615,7 +615,7 @@
 <td><p>大庭秀昭</p></td>
 <td><p>井上修</p></td>
 <td><p>古池敏也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -715,40 +715,40 @@
 
 ### 放送局
 
-| 放送地域                                                           | 放送局                                                       | 放送期間                                                                                                                                              | 放送日時                                                                | 放送系列                                                    |
-| -------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [2001年](../Page/2001年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink") | 月曜 18時30分 - 19時00分                                                  | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")            | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    |                                                                                                                                                   |                                                                     |                                                         |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")            | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      |                                                                                                                                                   |                                                                     |                                                         |
-| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")            | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      |                                                                                                                                                   |                                                                     |                                                         |
-| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  |                                                                                                                                                   |                                                                     |                                                         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")            | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                                                                                                   |                                                                     |                                                         |
-| [滋賀県](../Page/滋賀県.md "wikilink")                               | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      | 2001年4月 - 2002年[4月12日](../Page/4月12日.md "wikilink")                                                                                               | 金曜 8時00分 - 8時30分                                                    | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")               |
-| [日本全域](https://ja.wikipedia.org/wiki/日本全国 "wikilink")          | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink") | 2001年[4月5日](../Page/4月5日.md "wikilink") - 2002年[3月28日](../Page/3月28日.md "wikilink")                                                               | 木曜 19時25分 - 19時55分                                                  | テレビ東京系列・[BSデジタル放送](../Page/日本における衛星放送.md "wikilink")    |
-| [AT-X](../Page/アニメシアターX.md "wikilink")                         |                                                           |                                                                                                                                                   | [アニメ専門チャンネル](https://ja.wikipedia.org/wiki/アニメ専門チャンネル一覧 "wikilink") |                                                         |
+| 放送地域                                                  | 放送局                                                       | 放送期間                                                                                                                                              | 放送日時                                             | 放送系列                                                    |
+| ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [2001年](../Page/2001年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink") | 月曜 18時30分 - 19時00分                               | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    |                                                                                                                                                   |                                                  |                                                         |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      |                                                                                                                                                   |                                                  |                                                         |
+| [大阪府](../Page/大阪府.md "wikilink")                      | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      |                                                                                                                                                   |                                                  |                                                         |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")           | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  |                                                                                                                                                   |                                                  |                                                         |
+| [福岡県](../Page/福岡県.md "wikilink")                      | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                                                                                                   |                                                  |                                                         |
+| [滋賀県](../Page/滋賀県.md "wikilink")                      | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      | 2001年4月 - 2002年[4月12日](../Page/4月12日.md "wikilink")                                                                                               | 金曜 8時00分 - 8時30分                                 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")               |
+| [日本全域](https://ja.wikipedia.org/wiki/日本全国 "wikilink") | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink") | 2001年[4月5日](../Page/4月5日.md "wikilink") - 2002年[3月28日](../Page/3月28日.md "wikilink")                                                               | 木曜 19時25分 - 19時55分                               | テレビ東京系列・[BSデジタル放送](../Page/日本における衛星放送.md "wikilink")    |
+| [AT-X](../Page/アニメシアターX.md "wikilink")                |                                                           |                                                                                                                                                   | [アニメ専門チャンネル](../Page/アニメ専門チャンネル一覧.md "wikilink") |                                                         |
 
 ### 小説
 
-  - 『Dr.リンにきいてみて\! 夏休み編-前世の魔宮』小学館[パレット文庫](https://ja.wikipedia.org/wiki/パレット文庫 "wikilink")
+  - 『Dr.リンにきいてみて\! 夏休み編-前世の魔宮』小学館[パレット文庫](../Page/パレット文庫.md "wikilink")
     原作:あらいきよこ、著者:西崎めぐみ。
 
 ### 玩具
 
-  - 玩具展開は[トミー](https://ja.wikipedia.org/wiki/トミー "wikilink")（現：[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")）によって行われ、登場キャラの人形や風水アイテムが商品化・販売された。これらのラインナップにおいて、[女装](../Page/女装.md "wikilink")しているものの実は少年である四条万里の人形が商品化されている。特に敵として登場している限り少女の姿であったため、違和感はない。単行本にて作者自作の服を着て、他のキャラの人形とともに登場している。また、ちゃお本誌にて占いに使えるカード・「Fortune Card」の限定版が付録として付属していた。
+  - 玩具展開は[トミー](../Page/トミー.md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）によって行われ、登場キャラの人形や風水アイテムが商品化・販売された。これらのラインナップにおいて、[女装](../Page/女装.md "wikilink")しているものの実は少年である四条万里の人形が商品化されている。特に敵として登場している限り少女の姿であったため、違和感はない。単行本にて作者自作の服を着て、他のキャラの人形とともに登場している。また、ちゃお本誌にて占いに使えるカード・「Fortune Card」の限定版が付録として付属していた。
   - 終盤にレジン製の完成品[フィギュア](../Page/フィギュア.md "wikilink")が商品化されている。作者も所有しており、ムック本にて作者の部屋で他のフィギュアとともに飾られている様子が掲載されている。
 
 ### 文具
 
-  - 同時間帯の前番組である『[ビックリマン2000](https://ja.wikipedia.org/wiki/ビックリマン2000 "wikilink")』と同じく、文具類は[ショウワノート](https://ja.wikipedia.org/wiki/ショウワノート "wikilink")から発売された。
+  - 同時間帯の前番組である『[ビックリマン2000](../Page/ビックリマン2000.md "wikilink")』と同じく、文具類は[ショウワノート](../Page/ショウワノート.md "wikilink")から発売された。
 
 ### ゲーム
 
   - Dr.リンにきいてみて\! 〜恋のリン風水〜
-    2002年[2月21日](../Page/2月21日.md "wikilink")、[ウィルが開発](https://ja.wikipedia.org/wiki/ウィル_\(埼玉県\) "wikilink")、[ハドソン](../Page/ハドソン.md "wikilink")より[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")で発売。 ジャンルは占い/恋愛アドベンチャー。
+    2002年[2月21日](../Page/2月21日.md "wikilink")、[ウィルが開発](../Page/ウィル_\(埼玉県\).md "wikilink")、[ハドソン](../Page/ハドソン.md "wikilink")より[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")で発売。 ジャンルは占い/恋愛アドベンチャー。
     明鈴と同じクラスに転校してきた主人公が、ひとめぼれをしたサッカー部のキャプテンにアプローチするため、友人や占いの助けを借りて奔走する。
     ハドソン最後のGB用ソフト。
   - Dr.リンにきいてみて\! 〜恋のハッピーフォーシーズン〜
-    2002年[11月28日](../Page/11月28日.md "wikilink")、ウィルが開発、ハドソンより[プレイステーションで発売](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。ジャンルは恋愛アドベンチャー。
+    2002年[11月28日](../Page/11月28日.md "wikilink")、ウィルが開発、ハドソンより[プレイステーションで発売](../Page/PlayStation_\(ゲーム機\).md "wikilink")。ジャンルは恋愛アドベンチャー。
 
 ## 脚注
 

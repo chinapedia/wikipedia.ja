@@ -1,25 +1,25 @@
 > この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
 
 
-『**おはようコール ABC**』（おはようコール エービーシー）は、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")\[1\]（ABCテレビ）で放送されている[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")で、[関西地区向けの](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[ローカル番組](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")である。現在の放送時間は、平日の5:00 - 6:45（5:50 - 5:59には『[グッド\!モーニング](https://ja.wikipedia.org/wiki/グッド!モーニング_\(テレビ番組\) "wikilink")・5時台』〈実質的には『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』のみ。〉のため、一旦中断）。
+『**おはようコール ABC**』（おはようコール エービーシー）は、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")\[1\]（ABCテレビ）で放送されている[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")で、[関西地区向けの](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[ローカル番組](../Page/ローカル番組.md "wikilink")である。現在の放送時間は、平日の5:00 - 6:45（5:50 - 5:59には『[グッド\!モーニング](https://ja.wikipedia.org/wiki/グッド!モーニング_\(テレビ番組\) "wikilink")・5時台』〈実質的には『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』のみ。〉のため、一旦中断）。
 
 ## 概要
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に放送を開始した、同局初の早朝ワイド番組『[おはよう6](https://ja.wikipedia.org/wiki/おはよう6 "wikilink")』（続く『[Oh\!天気](https://ja.wikipedia.org/wiki/Oh!天気 "wikilink")』『[おはよう天気です](https://ja.wikipedia.org/wiki/おはよう天気です "wikilink")』）の流れを受けて、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月スタート。新聞記事の登場が多いが決して記事紹介番組ではなく、ニュース・スポーツ・エンタメの各分野のジャーナリストによる解説が番組のウリとなっている。[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の試合があった翌放送日にはセレッソ大阪情報のミニコーナー『おはよう\!セレッソ』が放送されていた。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に放送を開始した、同局初の早朝ワイド番組『[おはよう6](../Page/おはよう6.md "wikilink")』（続く『[Oh\!天気](../Page/Oh!天気.md "wikilink")』『[おはよう天気です](../Page/おはよう天気です.md "wikilink")』）の流れを受けて、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月スタート。新聞記事の登場が多いが決して記事紹介番組ではなく、ニュース・スポーツ・エンタメの各分野のジャーナリストによる解説が番組のウリとなっている。[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の試合があった翌放送日にはセレッソ大阪情報のミニコーナー『おはよう\!セレッソ』が放送されていた。
 
 ## 歴史
 
 番組開始当初は、看板企画として、話題の人物に生電話する「おはようコール」というコーナーを放送。[2001年](../Page/2001年.md "wikilink")9月28日までは、[大阪タワー](../Page/大阪タワー.md "wikilink")のスカイスタジオから放送していた。
 
-5:30放送開始だったが、[2000年](../Page/2000年.md "wikilink")の前後に[読売テレビと共に放送開始時間を繰り上げてゆき](../Page/讀賣テレビ放送.md "wikilink")、5:20に。2003年から直前の5:00 - 5:20に姉妹番組の『おはようコール早版』を放送。2004年7月より月曜のみの週1回に縮小、火 - 金曜は『[ABCニュースファイル](https://ja.wikipedia.org/wiki/ABCニュースファイル "wikilink")』を放送。2005年3月（2004年度末）を持って『早版』が終了、『ニュースファイル』[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月3日からは前述の『ABCニュースファイル』が終了し、開始時間が繰り上がり5:00 - 6:45の放送となっている。
+5:30放送開始だったが、[2000年](../Page/2000年.md "wikilink")の前後に[読売テレビと共に放送開始時間を繰り上げてゆき](../Page/讀賣テレビ放送.md "wikilink")、5:20に。2003年から直前の5:00 - 5:20に姉妹番組の『おはようコール早版』を放送。2004年7月より月曜のみの週1回に縮小、火 - 金曜は『[ABCニュースファイル](https://ja.wikipedia.org/wiki/ABCニュースファイル "wikilink")』を放送。2005年3月（2004年度末）を持って『早版』が終了、『ニュースファイル』[2006年](../Page/2006年.md "wikilink")4月3日からは前述の『ABCニュースファイル』が終了し、開始時間が繰り上がり5:00 - 6:45の放送となっている。
 
-番組が使っている福島にあった本社Cスタジオがハイビジョンに対応していなかったため、4:3の標準画質（525i）で放送していた（テレビ朝日からの『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』放送時のみハイビジョン放送）。2008年6月23日に新本社へ移転するに併せ、ハイビジョン制作になった。また、タイトルロゴ・スタジオセット・テーマ音楽を一新。6月23日からのテーマ音楽は[MONKEY MAJIKの](https://ja.wikipedia.org/wiki/MONKEY_MAJIK "wikilink")『MORNING - EVENING』（前半パート）と『光朝』（後半パート）。また、長年親しまれたキャラクター“**ぱんころん**”が2008年6月20日にて引退した。
+番組が使っている福島にあった本社Cスタジオがハイビジョンに対応していなかったため、4:3の標準画質（525i）で放送していた（テレビ朝日からの『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』放送時のみハイビジョン放送）。2008年6月23日に新本社へ移転するに併せ、ハイビジョン制作になった。また、タイトルロゴ・スタジオセット・テーマ音楽を一新。6月23日からのテーマ音楽は[MONKEY MAJIKの](../Page/MONKEY_MAJIK.md "wikilink")『MORNING - EVENING』（前半パート）と『光朝』（後半パート）。また、長年親しまれたキャラクター“**ぱんころん**”が2008年6月20日にて引退した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")は､[岩手県沿岸北部地震](https://ja.wikipedia.org/wiki/岩手県沿岸北部地震 "wikilink")の情報を[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")より伝えたため、第1部を休止。第2部を通常より1分遅い6:00から放送した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")は､[岩手県沿岸北部地震](../Page/岩手県沿岸北部地震.md "wikilink")の情報を[テレビ朝日](../Page/テレビ朝日.md "wikilink")より伝えたため、第1部を休止。第2部を通常より1分遅い6:00から放送した。
 
-番組開始以来、年末年始以外は祝休日も番組を放送してきたが、2009年4月から2010年3月までは 祝休日の放送を休止していた（祝休日の5時台は[BS朝日制作の](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")『[亜細亜見聞録](https://ja.wikipedia.org/wiki/亜細亜見聞録 "wikilink")』や過去に自局が制作した歴史・景観物を扱った特別番組の再放送。6時台は『[照英](https://ja.wikipedia.org/wiki/照英 "wikilink")にっぽん一人旅』など外部制作会社 が制作した番組を放送する）。2010年2月は『[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")中継』のため、15日は6:25まで放送。18日・24日は番組を休止し、4:55（24日は5:00） - 5:25に『照英にっぽん一人旅』を放送。なお2010年4月以降は再度、祝休日も放送されるようになっていた。しかし2016年度も再び祝休日 の放送を休止。 5時台は過去に自局やBS朝日で放送された関西に関連する歴史・景観物を扱った番組の放送。6:00 - 6:15は『[上沼恵美子のおしゃべりクッキング](https://ja.wikipedia.org/wiki/上沼恵美子のおしゃべりクッキング "wikilink")』の再放送、6:15 - 6:45は『[松本家の休日](https://ja.wikipedia.org/wiki/松本家の休日 "wikilink")』の再放送などを放送。
+番組開始以来、年末年始以外は祝休日も番組を放送してきたが、2009年4月から2010年3月までは 祝休日の放送を休止していた（祝休日の5時台は[BS朝日制作の](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")『[亜細亜見聞録](https://ja.wikipedia.org/wiki/亜細亜見聞録 "wikilink")』や過去に自局が制作した歴史・景観物を扱った特別番組の再放送。6時台は『[照英](../Page/照英.md "wikilink")にっぽん一人旅』など外部制作会社 が制作した番組を放送する）。2010年2月は『[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")中継』のため、15日は6:25まで放送。18日・24日は番組を休止し、4:55（24日は5:00） - 5:25に『照英にっぽん一人旅』を放送。なお2010年4月以降は再度、祝休日も放送されるようになっていた。しかし2016年度も再び祝休日 の放送を休止。 5時台は過去に自局やBS朝日で放送された関西に関連する歴史・景観物を扱った番組の放送。6:00 - 6:15は『[上沼恵美子のおしゃべりクッキング](../Page/上沼恵美子のおしゃべりクッキング.md "wikilink")』の再放送、6:15 - 6:45は『[松本家の休日](https://ja.wikipedia.org/wiki/松本家の休日 "wikilink")』の再放送などを放送。
 
-2010年3月29日からは、平日夕方のローカルニュース番組「NEWSゆうシリーズ」（『[ABC NEWSゆう](../Page/ABC_NEWSゆう.md "wikilink")』→『[NEWSゆう+](https://ja.wikipedia.org/wiki/NEWSゆう+ "wikilink")』）のサブキャスターだった[高橋大作](https://ja.wikipedia.org/wiki/高橋大作 "wikilink")・[乾麻梨子](https://ja.wikipedia.org/wiki/乾麻梨子 "wikilink")が、当番組のメインキャスターに就任。同時に[モノラル制作（モノステレオ放送）から](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")[ステレオ制作（フルステレオ放送）に変更された](../Page/ステレオ放送.md "wikilink")。また、同年3月29日から4月2日には、後座番組『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』のスタジオとクロストークを実施していた。
+2010年3月29日からは、平日夕方のローカルニュース番組「NEWSゆうシリーズ」（『[ABC NEWSゆう](../Page/ABC_NEWSゆう.md "wikilink")』→『[NEWSゆう+](https://ja.wikipedia.org/wiki/NEWSゆう+ "wikilink")』）のサブキャスターだった[高橋大作](../Page/高橋大作.md "wikilink")・[乾麻梨子](../Page/乾麻梨子.md "wikilink")が、当番組のメインキャスターに就任。同時に[モノラル制作（モノステレオ放送）から](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")[ステレオ制作（フルステレオ放送）に変更された](../Page/ステレオ放送.md "wikilink")。また、同年3月29日から4月2日には、後座番組『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』のスタジオとクロストークを実施していた。
 
 2011年10月3日の放送からは、高橋に代わって、後輩アナウンサーで入社3年目の[横山太一](https://ja.wikipedia.org/wiki/横山太一 "wikilink")をメインキャスターに抜擢。高橋は、『NEWSゆう+』から1年半振りに、後継番組『[キャスト](https://ja.wikipedia.org/wiki/キャスト_\(テレビ番組\) "wikilink")』のサブキャスターとして平日夕方のニュース番組へ復帰することになった\[2\]。
 
@@ -54,37 +54,37 @@
 
 #### ニュースキャスター
 
-  - 月曜 - 小谷渉子（2017年4月3日 - 、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")出身・[SAY所属のアナウンサー](https://ja.wikipedia.org/wiki/セイ "wikilink")）
-  - 火・水・木曜 - [市川いずみ](https://ja.wikipedia.org/wiki/市川いずみ "wikilink")（2015年9月28日 - 、[山口朝日放送](../Page/山口朝日放送.md "wikilink")出身・[オフィスキイワード](https://ja.wikipedia.org/wiki/オフィスキイワード "wikilink")所属のアナウンサー、2016年3月までは月曜も担当）
+  - 月曜 - 小谷渉子（2017年4月3日 - 、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")出身・[SAY所属のアナウンサー](../Page/セイ.md "wikilink")）
+  - 火・水・木曜 - [市川いずみ](https://ja.wikipedia.org/wiki/市川いずみ "wikilink")（2015年9月28日 - 、[山口朝日放送](../Page/山口朝日放送.md "wikilink")出身・[オフィスキイワード](../Page/オフィスキイワード.md "wikilink")所属のアナウンサー、2016年3月までは月曜も担当）
       - 朝日放送グループホールディングスがテレビ・ラジオで全国大会を中継する夏の[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")（2016 - 2018年）や、春の[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")（2017年のみ）期間中および前後には、スポーツコーナーで冠企画「市川いずみの甲子園Lovers」を放送するため本来の担当以外の曜日にも出演。
   - 金曜 - 去来川奈央（いさがわ なお、2017年4月6日 - 、[NHK京都放送局](../Page/NHK京都放送局.md "wikilink")契約キャスター出身・[松竹芸能](../Page/松竹芸能.md "wikilink")所属のアナウンサー）
       - 出演開始当初は木・金曜担当。2018年秋から2019年春まで産休。その間、木曜は市川、金曜は小谷が代演した。復帰後は金曜のみの担当に。
 
 #### スポーツキャスター
 
-  - 月・火曜 - [柴田博](https://ja.wikipedia.org/wiki/柴田博 "wikilink")（2010年3月29日 - ）
+  - 月・火曜 - [柴田博](../Page/柴田博.md "wikilink")（2010年3月29日 - ）
   - 水・木・金曜 - 河合康行（SAY所属）
 
 #### 天気キャスター
 
-  - [正木明](https://ja.wikipedia.org/wiki/正木明 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")、番組開始当初からレギュラーで出演、『おはよう朝日です』の天気キャスターを兼務）
+  - [正木明](../Page/正木明.md "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")、番組開始当初からレギュラーで出演、『おはよう朝日です』の天気キャスターを兼務）
   - [羽田優里奈](https://ja.wikipedia.org/wiki/羽田優里奈 "wikilink") [2019年](../Page/2019年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")よりレギュラー｡\[3\]
 
 #### コメンテーター
 
 ##### ニュース
 
-  - 月曜 - [伊藤惇夫](https://ja.wikipedia.org/wiki/伊藤惇夫 "wikilink")（政治ジャーナリスト、2010年3月29日 - ）
+  - 月曜 - [伊藤惇夫](../Page/伊藤惇夫.md "wikilink")（政治ジャーナリスト、2010年3月29日 - ）
   - 火曜 - [小西克哉](../Page/小西克哉.md "wikilink")（国際ジャーナリスト、2016年1月5日 - ）
   - 水曜 - 木原善隆（朝日放送テレビ報道局ニュース情報センター所属、2015年4月2日 - ）
-  - 木曜 - [二木啓孝](https://ja.wikipedia.org/wiki/二木啓孝 "wikilink")（[ジャーナリスト](https://ja.wikipedia.org/wiki/ジャーナリスト "wikilink")、[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")取締役）
-  - 金曜 - [中川謙](https://ja.wikipedia.org/wiki/中川謙 "wikilink")（[帝塚山学院大学](https://ja.wikipedia.org/wiki/帝塚山学院大学 "wikilink")元教授、元[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")編集委員）
+  - 木曜 - [二木啓孝](../Page/二木啓孝.md "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")取締役）
+  - 金曜 - [中川謙](https://ja.wikipedia.org/wiki/中川謙 "wikilink")（[帝塚山学院大学](../Page/帝塚山学院大学.md "wikilink")元教授、元[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")編集委員）
 
 ##### スポーツ
 
   - 月曜 - 井関真（[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")新聞西日本大阪本社 解説委員）
-  - 火曜 - [中邨雄二](https://ja.wikipedia.org/wiki/中邨雄二 "wikilink")（[2018年](../Page/2018年.md "wikilink")4月2日 - ）
-  - 水曜 - [伊藤史隆](https://ja.wikipedia.org/wiki/伊藤史隆 "wikilink")（2018年4月3日 - ）
+  - 火曜 - [中邨雄二](../Page/中邨雄二.md "wikilink")（[2018年](../Page/2018年.md "wikilink")4月2日 - ）
+  - 水曜 - [伊藤史隆](../Page/伊藤史隆.md "wikilink")（2018年4月3日 - ）
   - 木曜 - 寺尾博和（日刊スポーツ新聞西日本大阪本社 編集委員）
   - 金曜 - 高原寿夫（日刊スポーツ新聞西日本大阪本社 運動セクション エディター）
 
@@ -92,7 +92,7 @@
 
 ##### 芸能
 
-  - 月・火曜 - [山崎寛代](https://ja.wikipedia.org/wiki/山崎寛代 "wikilink")（[芸能リポーター](../Page/芸能リポーター.md "wikilink")）
+  - 月・火曜 - [山崎寛代](../Page/山崎寛代.md "wikilink")（[芸能リポーター](../Page/芸能リポーター.md "wikilink")）
   - 水・木曜 - 島田薫（芸能リポーター、2016年4月6日 - ）
   - 金曜 - [二田一比古](https://ja.wikipedia.org/wiki/二田一比古 "wikilink")（芸能ジャーナリスト）
 
@@ -119,26 +119,26 @@
 
 #### キャスター
 
-  - [村田好夫](https://ja.wikipedia.org/wiki/村田好夫 "wikilink")（初代メインキャスター、当時朝日放送アナウンサー、番組開始 - 1996年9月27日）
-  - [平野裕加里](https://ja.wikipedia.org/wiki/平野裕加里 "wikilink")（番組開始 - 1996年3月29日、初代メインキャスター月 - 水担当）
-  - [中村智子](https://ja.wikipedia.org/wiki/中村智子 "wikilink")（当時朝日放送アナウンサー、番組開始 - 1996年9月27日、初代メインキャスター木・金曜担当）
+  - [村田好夫](../Page/村田好夫.md "wikilink")（初代メインキャスター、当時朝日放送アナウンサー、番組開始 - 1996年9月27日）
+  - [平野裕加里](../Page/平野裕加里.md "wikilink")（番組開始 - 1996年3月29日、初代メインキャスター月 - 水担当）
+  - [中村智子](../Page/中村智子.md "wikilink")（当時朝日放送アナウンサー、番組開始 - 1996年9月27日、初代メインキャスター木・金曜担当）
   - [中村恵美子](https://ja.wikipedia.org/wiki/中村恵美子 "wikilink")（スポーツコーナー担当、番組開始 - 1996年9月27日）
   - [原田登貴子](https://ja.wikipedia.org/wiki/原田登貴子 "wikilink")（ゲーム情報コーナー担当）
   - [青山哩彩](https://ja.wikipedia.org/wiki/青山哩彩 "wikilink")（1996年4月1日 - 1996年9月27日、2代目メイン月 - 水担当） - 『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』アシスタント担当後に就任
-  - [西野義和](https://ja.wikipedia.org/wiki/西野義和 "wikilink")（2代目メインキャスター、当時朝日放送アナウンサー）
+  - [西野義和](../Page/西野義和.md "wikilink")（2代目メインキャスター、当時朝日放送アナウンサー）
   - [魚瀬信代](https://ja.wikipedia.org/wiki/魚瀬信代 "wikilink")（3代目メインキャスター）　
   - [上田慶行](https://ja.wikipedia.org/wiki/上田慶行 "wikilink")（3代目メインキャスター、当時朝日放送アナウンサー）
   - [山下真妃](https://ja.wikipedia.org/wiki/山下真妃 "wikilink")（4代目メインキャスター）
-  - [田中花子](https://ja.wikipedia.org/wiki/田中花子 "wikilink")（当時朝日放送アナウンサー）
-  - [関根友実](https://ja.wikipedia.org/wiki/関根友実 "wikilink")（元朝日放送アナウンサーで、退社後初のレギュラー番組）
+  - [田中花子](../Page/田中花子.md "wikilink")（当時朝日放送アナウンサー）
+  - [関根友実](../Page/関根友実.md "wikilink")（元朝日放送アナウンサーで、退社後初のレギュラー番組）
   - [高野直子](../Page/高野直子_\(アナウンサー\).md "wikilink")（当時朝日放送アナウンサー）
-  - [喜多ゆかり](https://ja.wikipedia.org/wiki/喜多ゆかり "wikilink")（朝日放送アナウンサー、2004年10月 - 2005年3月）
+  - [喜多ゆかり](../Page/喜多ゆかり.md "wikilink")（朝日放送アナウンサー、2004年10月 - 2005年3月）
   - [羽谷直子](https://ja.wikipedia.org/wiki/羽谷直子 "wikilink")（当時朝日放送アナウンサー、2007年4月 - 2008年10月31日）
-  - [清水貴之](https://ja.wikipedia.org/wiki/清水貴之 "wikilink")（4代目メインキャスター、当時朝日放送アナウンサー、2001年 - 2010年3月26日）
-  - [小寺右子](https://ja.wikipedia.org/wiki/小寺右子 "wikilink")（朝日放送アナウンサー、2006年4月からメイン - 2010年3月26日）
-  - [藤崎健一郎](https://ja.wikipedia.org/wiki/藤崎健一郎 "wikilink")（朝日放送アナウンサー、火･水曜スポーツキャスター、2009年3月17日 - 2010年3月24日）
-  - [高橋大作](https://ja.wikipedia.org/wiki/高橋大作 "wikilink")（5代目メインキャスター、当時朝日放送アナウンサー、2010年3月29日 - 2011年9月30日）
-  - [乾麻梨子](https://ja.wikipedia.org/wiki/乾麻梨子 "wikilink")（朝日放送アナウンサー、2010年3月29日 - 2014年3月28日）
+  - [清水貴之](../Page/清水貴之.md "wikilink")（4代目メインキャスター、当時朝日放送アナウンサー、2001年 - 2010年3月26日）
+  - [小寺右子](../Page/小寺右子.md "wikilink")（朝日放送アナウンサー、2006年4月からメイン - 2010年3月26日）
+  - [藤崎健一郎](../Page/藤崎健一郎.md "wikilink")（朝日放送アナウンサー、火･水曜スポーツキャスター、2009年3月17日 - 2010年3月24日）
+  - [高橋大作](../Page/高橋大作.md "wikilink")（5代目メインキャスター、当時朝日放送アナウンサー、2010年3月29日 - 2011年9月30日）
+  - [乾麻梨子](../Page/乾麻梨子.md "wikilink")（朝日放送アナウンサー、2010年3月29日 - 2014年3月28日）
   - [山口奈緒美](https://ja.wikipedia.org/wiki/山口奈緒美 "wikilink")（月・火・金曜 → 月 - 水曜ニュースキャスター、フリーアナウンサー・元[NHK契約キャスター](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2015年3月27日まで担当）
   - [桂紗綾](https://ja.wikipedia.org/wiki/桂紗綾 "wikilink")（朝日放送アナウンサー、2009年3月18日 - 2015年9月25日）
   - [斎藤裕美](https://ja.wikipedia.org/wiki/斎藤裕美 "wikilink")（木・金曜ニュースキャスター、元[毎日放送](../Page/毎日放送.md "wikilink")アナウンサーで斎藤真美の実姉、2015年10月1日 - 2017年3月31日）
@@ -146,34 +146,34 @@
 
 #### コメンテーター
 
-  - [山本健治](https://ja.wikipedia.org/wiki/山本健治 "wikilink")（[フリーライター](https://ja.wikipedia.org/wiki/フリーライター "wikilink")、 - 2010年3月15日）
-  - [大谷昭宏](https://ja.wikipedia.org/wiki/大谷昭宏 "wikilink")（[ジャーナリスト](https://ja.wikipedia.org/wiki/ジャーナリスト "wikilink")）
-  - [ベンジャミン・フルフォード](https://ja.wikipedia.org/wiki/古歩道ベンジャミン "wikilink")（[ノンフィクション作家](https://ja.wikipedia.org/wiki/ノンフィクション作家 "wikilink")、- 2008年6月18日）
-  - [ジェフ・バーグランド](https://ja.wikipedia.org/wiki/ジェフ・バーグランド "wikilink")（大学教授）
-  - [若一光司](https://ja.wikipedia.org/wiki/若一光司 "wikilink")（[作家](../Page/作家.md "wikilink")、1996年10月 - 2010年10月1日）
-  - [井上章一](../Page/井上章一.md "wikilink")（[国際日本文化研究センター](https://ja.wikipedia.org/wiki/国際日本文化研究センター "wikilink")教授、- 2015年3月27日）
-  - [伊藤洋一](https://ja.wikipedia.org/wiki/伊藤洋一 "wikilink")（[経済評論家](https://ja.wikipedia.org/wiki/経済評論家 "wikilink")、2010年10月5日 - 2015年9月22日）
+  - [山本健治](../Page/山本健治.md "wikilink")（[フリーライター](https://ja.wikipedia.org/wiki/フリーライター "wikilink")、 - 2010年3月15日）
+  - [大谷昭宏](../Page/大谷昭宏.md "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")）
+  - [ベンジャミン・フルフォード](../Page/古歩道ベンジャミン.md "wikilink")（[ノンフィクション作家](../Page/ノンフィクション作家.md "wikilink")、- 2008年6月18日）
+  - [ジェフ・バーグランド](../Page/ジェフ・バーグランド.md "wikilink")（大学教授）
+  - [若一光司](../Page/若一光司.md "wikilink")（[作家](../Page/作家.md "wikilink")、1996年10月 - 2010年10月1日）
+  - [井上章一](../Page/井上章一.md "wikilink")（[国際日本文化研究センター](../Page/国際日本文化研究センター.md "wikilink")教授、- 2015年3月27日）
+  - [伊藤洋一](../Page/伊藤洋一.md "wikilink")（[経済評論家](../Page/経済評論家.md "wikilink")、2010年10月5日 - 2015年9月22日）
   - [藤井聡](https://ja.wikipedia.org/wiki/藤井聡 "wikilink")（[京都大学](../Page/京都大学.md "wikilink")大学院工学研究科教授、2015年9月29日 - 2015年10月13日）
   - [みといせい子](https://ja.wikipedia.org/wiki/みといせい子 "wikilink")（水・木曜芸能リポーター、2001年10月 - 2016年3月31日）
 
 #### リポーター
 
-  - [別府あゆみ](https://ja.wikipedia.org/wiki/別府あゆみ "wikilink")（2003年3月3日 - 2004年2月26日、上京後も「東京特派員」としてVTR出演〔2004年4月5日 - 2005年1月27日〕）
-  - [井上智栄子](https://ja.wikipedia.org/wiki/井上智栄子 "wikilink") （2004年2月27日 - 2005年3月11日）
+  - [別府あゆみ](../Page/別府あゆみ.md "wikilink")（2003年3月3日 - 2004年2月26日、上京後も「東京特派員」としてVTR出演〔2004年4月5日 - 2005年1月27日〕）
+  - [井上智栄子](../Page/井上智栄子.md "wikilink") （2004年2月27日 - 2005年3月11日）
   - [塩尻奈都子](https://ja.wikipedia.org/wiki/塩尻奈都子 "wikilink")（2005年4月 - 2006年3月30日）
   - [塩崎綾](https://ja.wikipedia.org/wiki/塩崎綾 "wikilink")（2005年2月17日 - 2009年3月13日）
-  - [岩井万実](https://ja.wikipedia.org/wiki/岩井万実 "wikilink")（2006年4月4日 - 2009年3月12日）
+  - [岩井万実](../Page/岩井万実.md "wikilink")（2006年4月4日 - 2009年3月12日）
   - [武田英子](https://ja.wikipedia.org/wiki/武田英子 "wikilink")（2007年4月19日 - 2009年3月11日）
   - [上嶋咲貴](https://ja.wikipedia.org/wiki/上嶋咲貴 "wikilink")（2009年3月16日 - 2009年11月24日）
   - [東奈緒美](https://ja.wikipedia.org/wiki/東奈緒美 "wikilink")（2009年3月17日 - 2010年3月23日）
   - [相沢美紗樹](https://ja.wikipedia.org/wiki/相沢美紗樹 "wikilink")（2010年3月31日- 2014年9月26日）
-  - [神谷ゆう子](https://ja.wikipedia.org/wiki/神谷ゆう子 "wikilink")（2010年4月1日 - 2014年9月23日）
+  - [神谷ゆう子](../Page/神谷ゆう子.md "wikilink")（2010年4月1日 - 2014年9月23日）
   - [河内友里](https://ja.wikipedia.org/wiki/河内友里 "wikilink")（2010年4月2日 - 2010年8月26日）
   - [稲富菜穂](https://ja.wikipedia.org/wiki/稲富菜穂 "wikilink")（2011年4月4日 - 2014年9月25日）
   - [大西亜実](https://ja.wikipedia.org/wiki/大西亜実 "wikilink")（2011年4月5日 - 2014年9月22日）
   - [水島サトリ](https://ja.wikipedia.org/wiki/水島サトリ "wikilink")（2011年4月6日 - 2014年9月24日）
   - [衣笠梨代](https://ja.wikipedia.org/wiki/衣笠梨代 "wikilink")（2011年4月7日 - 2012年3月30日）
-  - [渡辺舞](https://ja.wikipedia.org/wiki/渡辺舞 "wikilink")（2014年9月29日 - 2016年1月15日）
+  - [渡辺舞](../Page/渡辺舞.md "wikilink")（2014年9月29日 - 2016年1月15日）
   - [吉沢心結](https://ja.wikipedia.org/wiki/吉沢心結 "wikilink")（2014年9月30日 - 2015年12月10日）
   - [二村祥絵](https://ja.wikipedia.org/wiki/二村祥絵 "wikilink")（2014年10月1日 - 2016年8月30日）
   - [八田亜矢子](https://ja.wikipedia.org/wiki/八田亜矢子 "wikilink") (2017年4月3日 - 不明)
@@ -216,7 +216,7 @@
 <td><p>5:41</p></td>
 </tr>
 <tr class="odd">
-<td><p>（※5:50 - 6:00は『<a href="https://ja.wikipedia.org/wiki/グッド!モーニング_(テレビ番組)" title="wikilink">グッド!モーニング</a>・5時台』〈<a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>制作。実質的には『<a href="https://ja.wikipedia.org/wiki/ANNニュース" title="wikilink">ANNニュース</a>』のみ。〉のため一旦中断（EPGなどでは5:00から6:45まで本番組と一括りされている）。<br />
+<td><p>（※5:50 - 6:00は『<a href="https://ja.wikipedia.org/wiki/グッド!モーニング_(テレビ番組)" title="wikilink">グッド!モーニング</a>・5時台』〈<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>制作。実質的には『<a href="https://ja.wikipedia.org/wiki/ANNニュース" title="wikilink">ANNニュース</a>』のみ。〉のため一旦中断（EPGなどでは5:00から6:45まで本番組と一括りされている）。<br />
 5:59 - 6:00は自社差し替えを行い、「エビシーみくじ」（後述）を放送する。5:59の時点で横山・斎藤が再び挨拶をする。）</p></td>
 </tr>
 <tr class="even">
@@ -295,7 +295,7 @@
 <!-- end list -->
 
   -
-    前番組『[おはよう天気です](https://ja.wikipedia.org/wiki/おはよう天気です "wikilink")』から続く最新のゲーム紹介のコーナー。
+    前番組『[おはよう天気です](../Page/おはよう天気です.md "wikilink")』から続く最新のゲーム紹介のコーナー。
 
 <!-- end list -->
 
@@ -313,7 +313,7 @@
 ## テーマ曲
 
   - 2003年3月31日 - 2008年6月20日
-      - オープニング（第1部）『楓樹（ふうじゅ）の街』（[CECIL](https://ja.wikipedia.org/wiki/CECIL "wikilink")）
+      - オープニング（第1部）『楓樹（ふうじゅ）の街』（[CECIL](../Page/CECIL.md "wikilink")）
       - オープニング（第2部）『super "shomin" car』（CECIL）
       - アイキャッチ『Let Me Be With You』（[ROUND TABLE featuring Nino](https://ja.wikipedia.org/wiki/ROUND_TABLE_featuring_Nino "wikilink")）
       - エンディング『サーフライダー』（CECIL）
@@ -321,7 +321,7 @@
 <!-- end list -->
 
   - 2008年6月23日 - 2014年3月28日
-      - オープニング（後半→前半）『光朝』（[MONKEY MAJIK](https://ja.wikipedia.org/wiki/MONKEY_MAJIK "wikilink")）
+      - オープニング（後半→前半）『光朝』（[MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")）
       - オープニング（前半→後半）『MORNING - EVENING』（MONKEY MAJIK）
 
 <!-- end list -->
@@ -331,13 +331,13 @@
 
 ## 関連番組『おはようコール早版』
 
-2003年から2005年まで放送していたニュース解説番組。当時のコメンテーターだった大谷・山本・若一やスポーツコメンテーターの井関が一つのテーマについての解説やエピソードを披露する。NHKの『[視点・論点](https://ja.wikipedia.org/wiki/視点・論点 "wikilink")』とは異なり、コメンテーターが進行役のディレクターに話しかける「ほぼ」ひとり喋りの形式で収録。
+2003年から2005年まで放送していたニュース解説番組。当時のコメンテーターだった大谷・山本・若一やスポーツコメンテーターの井関が一つのテーマについての解説やエピソードを披露する。NHKの『[視点・論点](../Page/視点・論点.md "wikilink")』とは異なり、コメンテーターが進行役のディレクターに話しかける「ほぼ」ひとり喋りの形式で収録。
 
 ## 関連項・人物
 
   - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")
   - [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")（コメンテーター登用）
-  - [ABCハウジング](https://ja.wikipedia.org/wiki/ABCハウジング "wikilink")（2013年10月から2014年3月まで、乾・横山のコンビによるテレビ・ラジオCMを放送）
+  - [ABCハウジング](../Page/ABCハウジング.md "wikilink")（2013年10月から2014年3月まで、乾・横山のコンビによるテレビ・ラジオCMを放送）
   - [友野一希](https://ja.wikipedia.org/wiki/友野一希 "wikilink")（[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手、おはようコールファミリーと紹介されている）
 
 ## スタッフ
@@ -352,7 +352,7 @@
 ## 外部リンク
 
   - [おはようコールABC](http://www.asahi.co.jp/call/) - 朝日放送テレビ公式サイト
-  - [おはようコール](https://twitter.com/call_abc)（@call_ABC） - [Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")
+  - [おはようコール](https://twitter.com/call_abc)（@call_ABC） - [Twitter](../Page/Twitter.md "wikilink")
 
 [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:朝日放送テレビの帯番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの帯番組 "wikilink") [Category:朝日放送テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの情報・ワイドショー番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組 "wikilink")
 

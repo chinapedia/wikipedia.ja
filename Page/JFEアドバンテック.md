@@ -7,13 +7,13 @@
 
   - 本社・本社工場(西宮地区)　- [兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")高畑町3-48
   - 本社工場(神戸地区)　- [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[西区井吹台東町](../Page/西区_\(神戸市\).md "wikilink")7-2-3
-  - 東京本社 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[台東区](../Page/台東区.md "wikilink")蔵前2-17-4
-  - 東北支店 - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[青葉区一番町](../Page/青葉区_\(仙台市\).md "wikilink")1-3-1
+  - 東京本社 - [東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")蔵前2-17-4
+  - 東北支店 - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区一番町](../Page/青葉区_\(仙台市\).md "wikilink")1-3-1
   - 名古屋支店 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")名駅3-23-2
   - 中国・四国支店 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")水島川崎通1丁目
-  - 九州支店 - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")博多駅東2-9-25
+  - 九州支店 - [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")博多駅東2-9-25
   - 北海道営業所 - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[西区](../Page/西区_\(札幌市\).md "wikilink")[発寒](../Page/発寒.md "wikilink")10条13丁目1-1
-  - 東日本事業所 - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[千葉市](../Page/千葉市.md "wikilink")[中央区川崎町](../Page/中央区_\(千葉市\).md "wikilink")1
+  - 東日本事業所 - [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[中央区川崎町](../Page/中央区_\(千葉市\).md "wikilink")1
   - 西日本事業所(倉敷) - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")水島川崎通1丁目
   - 西日本事業所(福山) - [広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")鋼菅町1番地
 
@@ -48,7 +48,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）8月 - [ISO9001取得](../Page/ISO_9000.md "wikilink")。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）4月 - 事業部制導入
   - [2004年](../Page/2004年.md "wikilink")（平成16年）[4月1日](../Page/4月1日.md "wikilink") - **JFEアドバンテック株式会社**に社名変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）12月 - [ISO14001認証取得](../Page/ISO_14000.md "wikilink") 。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）12月 - [ISO14001認証取得](../Page/ISO_14000.md "wikilink") 。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）4月 - JFEアレック株式会社と事業統合 。
 
 ## 脚注

@@ -1,19 +1,19 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**アルセナルFC**（, ）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](https://ja.wikipedia.org/wiki/ブエノスアイレス州 "wikilink")[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")の[サランディ](https://ja.wikipedia.org/wiki/サランディ "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**アルセナル・デ・サランディ**（, ）とも呼ばれる。
+**アルセナルFC**（, ）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")の[サランディ](https://ja.wikipedia.org/wiki/サランディ "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**アルセナル・デ・サランディ**（, ）とも呼ばれる。
 
-[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")は[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")の南部郊外にあり、[マタンサ川](https://ja.wikipedia.org/wiki/マタンサ川 "wikilink")でブエノスアイレスと隔てられている。同じアベジャネーダ・パルティードの[アベジャネーダ市には](https://ja.wikipedia.org/wiki/アベジャネーダ_\(ブエノスアイレス州\) "wikilink")[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")と[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ "wikilink")が本拠地を置いている。クラブ名はイングランドの名門[アーセナルFC](../Page/アーセナルFC.md "wikilink")に、クラブカラーは[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")（水色）と[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ "wikilink")（赤）に由来する。
+[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")は[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")の南部郊外にあり、[マタンサ川](https://ja.wikipedia.org/wiki/マタンサ川 "wikilink")でブエノスアイレスと隔てられている。同じアベジャネーダ・パルティードの[アベジャネーダ市には](https://ja.wikipedia.org/wiki/アベジャネーダ_\(ブエノスアイレス州\) "wikilink")[ラシン・クラブ](../Page/ラシン・クラブ.md "wikilink")と[CAインデペンディエンテ](../Page/CAインデペンディエンテ.md "wikilink")が本拠地を置いている。クラブ名はイングランドの名門[アーセナルFC](../Page/アーセナルFC.md "wikilink")に、クラブカラーは[ラシン・クラブ](../Page/ラシン・クラブ.md "wikilink")（水色）と[CAインデペンディエンテ](../Page/CAインデペンディエンテ.md "wikilink")（赤）に由来する。
 
 ## 歴史
 
-[アルゼンチンサッカー協会](https://ja.wikipedia.org/wiki/アルゼンチンサッカー協会 "wikilink") (AFA) 元会長の[フリオ・グロンドーナ](https://ja.wikipedia.org/wiki/フリオ・グロンドーナ "wikilink")（インデペンディエンテのサポーターでもあった）と弟の[エクトル・グロンドーナ](https://ja.wikipedia.org/wiki/エクトル・グロンドーナ "wikilink")によって1957年に創設された。
+[アルゼンチンサッカー協会](../Page/アルゼンチンサッカー協会.md "wikilink") (AFA) 元会長の[フリオ・グロンドーナ](https://ja.wikipedia.org/wiki/フリオ・グロンドーナ "wikilink")（インデペンディエンテのサポーターでもあった）と弟の[エクトル・グロンドーナ](https://ja.wikipedia.org/wiki/エクトル・グロンドーナ "wikilink")によって1957年に創設された。
 
-2006年にスペインの[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")と若手選手の育成を目的とする業務提携を結んだ。2007年には[コパ・スダメリカーナ](https://ja.wikipedia.org/wiki/コパ・スダメリカーナ "wikilink")で優勝し、クラブ史上初となる国際タイトルを獲得。なお、本来のアルセナルのホームスタジアムであるが規定の観客収容人数を満たしていなかったため、急遽[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")のホームスタジアムであるで行われた。この試合の放送で解説を担当した[亘崇詞](https://ja.wikipedia.org/wiki/亘崇詞 "wikilink")によると、アルセナルの選手全員の給料を足しても、クラブ・アメリカの[フェデリコ・インスア](https://ja.wikipedia.org/wiki/フェデリコ・インスア "wikilink")一人の給料に満たないという。2008年には[スルガ銀行チャンピオンシップで](https://ja.wikipedia.org/wiki/Jリーグカップ/コパ・スダメリカーナ王者決定戦 "wikilink")[Jリーグカップ](../Page/Jリーグカップ.md "wikilink")（ナビスコカップ）王者の[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")に勝利して優勝した。2012年の[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")では[ボカ・ジュニアーズ](../Page/ボカ・ジュニアーズ.md "wikilink")（アルゼンチン）、[フルミネンセFC](https://ja.wikipedia.org/wiki/フルミネンセFC "wikilink")（ブラジル）、（ベネズエラ）と同組となったが、ボカとフルミネンセの壁は厚く、2勝（ともにサモラFCから）4敗のグループ3位でグループリーグ敗退となった。クラウスーラ2012では[クリスティアン・カンペストリーニ](https://ja.wikipedia.org/wiki/クリスティアン・カンペストリーニ "wikilink")、[ギジェルモ・ブルディッソ](https://ja.wikipedia.org/wiki/ギジェルモ・ブルディッソ "wikilink")、[フェリクス・レギサモン](https://ja.wikipedia.org/wiki/フェリクス・レギサモン "wikilink")などを擁し、組織力と守備力を武器に上位を保ち続け、第18節では優勝争いのライバルボカ・ジュニアーズに[ラ・ボンボネーラ](../Page/ラ・ボンボネーラ.md "wikilink")で3-0と完勝した\[1\]。[CAティグレ](https://ja.wikipedia.org/wiki/CAティグレ "wikilink")と同勝ち点ながら得失点差で上回り、首位で最終節を迎えると、最終節では[CAベルグラーノ](https://ja.wikipedia.org/wiki/CAベルグラーノ "wikilink")を1-0で下し、リーグ初優勝を決めた\[2\]。
+2006年にスペインの[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")と若手選手の育成を目的とする業務提携を結んだ。2007年には[コパ・スダメリカーナ](../Page/コパ・スダメリカーナ.md "wikilink")で優勝し、クラブ史上初となる国際タイトルを獲得。なお、本来のアルセナルのホームスタジアムであるが規定の観客収容人数を満たしていなかったため、急遽[ラシン・クラブ](../Page/ラシン・クラブ.md "wikilink")のホームスタジアムであるで行われた。この試合の放送で解説を担当した[亘崇詞](../Page/亘崇詞.md "wikilink")によると、アルセナルの選手全員の給料を足しても、クラブ・アメリカの[フェデリコ・インスア](https://ja.wikipedia.org/wiki/フェデリコ・インスア "wikilink")一人の給料に満たないという。2008年には[スルガ銀行チャンピオンシップで](https://ja.wikipedia.org/wiki/Jリーグカップ/コパ・スダメリカーナ王者決定戦 "wikilink")[Jリーグカップ](../Page/Jリーグカップ.md "wikilink")（ナビスコカップ）王者の[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")に勝利して優勝した。2012年の[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")では[ボカ・ジュニアーズ](../Page/ボカ・ジュニアーズ.md "wikilink")（アルゼンチン）、[フルミネンセFC](../Page/フルミネンセFC.md "wikilink")（ブラジル）、（ベネズエラ）と同組となったが、ボカとフルミネンセの壁は厚く、2勝（ともにサモラFCから）4敗のグループ3位でグループリーグ敗退となった。クラウスーラ2012では[クリスティアン・カンペストリーニ](https://ja.wikipedia.org/wiki/クリスティアン・カンペストリーニ "wikilink")、[ギジェルモ・ブルディッソ](https://ja.wikipedia.org/wiki/ギジェルモ・ブルディッソ "wikilink")、[フェリクス・レギサモン](https://ja.wikipedia.org/wiki/フェリクス・レギサモン "wikilink")などを擁し、組織力と守備力を武器に上位を保ち続け、第18節では優勝争いのライバルボカ・ジュニアーズに[ラ・ボンボネーラ](../Page/ラ・ボンボネーラ.md "wikilink")で3-0と完勝した\[1\]。[CAティグレ](https://ja.wikipedia.org/wiki/CAティグレ "wikilink")と同勝ち点ながら得失点差で上回り、首位で最終節を迎えると、最終節では[CAベルグラーノ](https://ja.wikipedia.org/wiki/CAベルグラーノ "wikilink")を1-0で下し、リーグ初優勝を決めた\[2\]。
 
 ## ライバル
 
-アルセナルのライバルは[キルメスAC](https://ja.wikipedia.org/wiki/キルメスAC "wikilink")、[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")、[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ "wikilink")である。
+アルセナルのライバルは[キルメスAC](../Page/キルメスAC.md "wikilink")、[ラシン・クラブ](../Page/ラシン・クラブ.md "wikilink")、[CAインデペンディエンテ](../Page/CAインデペンディエンテ.md "wikilink")である。
 
 ## タイトル
 
@@ -32,7 +32,7 @@
 
 ### 国際タイトル
 
-  - **[コパ・スダメリカーナ](https://ja.wikipedia.org/wiki/コパ・スダメリカーナ "wikilink") : 1回**
+  - **[コパ・スダメリカーナ](../Page/コパ・スダメリカーナ.md "wikilink") : 1回**
       - 2007
   - **[スルガ銀行チャンピオンシップ](https://ja.wikipedia.org/wiki/Jリーグカップ/コパ・スダメリカーナ王者決定戦 "wikilink") : 1回**
       - 2008

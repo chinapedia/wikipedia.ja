@@ -1,19 +1,19 @@
 > この記事は[SAITO](https://ja.wikipedia.org/wiki/SAITO)から翻訳されています。
 
 
-**SAITO**（サイトー、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月9日](../Page/4月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。[覆面レスラー](https://ja.wikipedia.org/wiki/覆面レスラー "wikilink")としての[リングネーム](https://ja.wikipedia.org/wiki/リングネーム "wikilink")は**[スペル・シーサー](https://ja.wikipedia.org/wiki/スペル・シーサー "wikilink")**。本名：**斉藤 義之**（さいとう よしゆき）。
+**SAITO**（サイトー、[1970年](../Page/1970年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。[覆面レスラー](../Page/覆面レスラー.md "wikilink")としての[リングネーム](../Page/リングネーム.md "wikilink")は**[スペル・シーサー](../Page/スペル・シーサー.md "wikilink")**。本名：**斉藤 義之**（さいとう よしゆき）。
 
 ## 経歴
 
 [みちのくプロレス](../Page/みちのくプロレス.md "wikilink")に入門するがデビュー前に退団して[メキシコ](../Page/メキシコ.md "wikilink")へ渡る。
 
-[1994年](../Page/1994年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")、覆面レスラー「[スペル・シーサー](https://ja.wikipedia.org/wiki/スペル・シーサー "wikilink")」としてデビュー。
+[1994年](../Page/1994年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")、覆面レスラー「[スペル・シーサー](../Page/スペル・シーサー.md "wikilink")」としてデビュー。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[闘龍門](../Page/闘龍門.md "wikilink")の1期生として入門してリングネームをSAITOに改名。
 
-[2001年](../Page/2001年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[闘龍門](../Page/闘龍門.md "wikilink")JAPAN[ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink")大会で引退試合が行われた。引退後は闘龍門JAPANのインストラクターに転身。
+[2001年](../Page/2001年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[闘龍門](../Page/闘龍門.md "wikilink")JAPAN[ディファ有明](../Page/ディファ有明.md "wikilink")大会で引退試合が行われた。引退後は闘龍門JAPANのインストラクターに転身。
 
-[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")、闘龍門JAPAN[駒沢オリンピック公園](https://ja.wikipedia.org/wiki/駒沢オリンピック公園 "wikilink")屋内球技場大会でSAITOの弟子としてスペル・シーサーが[ドラゴン・キッド](https://ja.wikipedia.org/wiki/ドラゴン・キッド "wikilink")とタッグを組んで対[望月享](https://ja.wikipedia.org/wiki/横須賀享 "wikilink")&[ダークネス・ドラゴン組戦でデビューしているがシーサーの声がSAITOに似ていることSAITOが過去の活動歴から同一人物疑惑が今も絶えない](https://ja.wikipedia.org/wiki/K-ness. "wikilink")。SAITOは疑惑を否定するため、一夜限りの現役復帰を行ってシーサーと対戦したが、この時のシーサーは別人であったとも言われている。とはいえ、シーサーは[DRAGON GATEオフィシャルブックで正体がSAITOであることを公表している](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
+[12月10日](../Page/12月10日.md "wikilink")、闘龍門JAPAN[駒沢オリンピック公園](../Page/駒沢オリンピック公園.md "wikilink")屋内球技場大会でSAITOの弟子としてスペル・シーサーが[ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")とタッグを組んで対[望月享](../Page/横須賀享.md "wikilink")&[ダークネス・ドラゴン組戦でデビューしているがシーサーの声がSAITOに似ていることSAITOが過去の活動歴から同一人物疑惑が今も絶えない](../Page/K-ness..md "wikilink")。SAITOは疑惑を否定するため、一夜限りの現役復帰を行ってシーサーと対戦したが、この時のシーサーは別人であったとも言われている。とはいえ、シーサーは[DRAGON GATEオフィシャルブックで正体がSAITOであることを公表している](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
 
 ## 得意技
 

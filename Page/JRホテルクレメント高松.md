@@ -5,11 +5,11 @@
 
 旧名称は**全日空ホテルクレメント高松**で、[IHG ANA ホテルズのフランチャイズホテルだったが](https://ja.wikipedia.org/wiki/全日空ホテルズ "wikilink")、IHG側とジェイアール四国ホテル開発側とで戦略の方向性に違いが出てきたため、フランチャイズ契約が切れる2012年3月31日限りで離脱し、翌4月1日に現名称に変更された\[1\]。
 
-2015年4月1日からは、[阪急阪神第一ホテルグループにも加盟している](https://ja.wikipedia.org/wiki/阪急阪神ホテルズ "wikilink")\[2\]。
+2015年4月1日からは、[阪急阪神第一ホテルグループにも加盟している](../Page/阪急阪神ホテルズ.md "wikilink")\[2\]。
 
 ## 概要
 
-[高松港](https://ja.wikipedia.org/wiki/高松港 "wikilink")の近く、[サンポート高松](../Page/サンポート高松.md "wikilink")に位置する四国最大規模のシティホテル。 高さは95mあり、瀬戸内海の島々と高松市街を一望できる。 国際会議場サンポートホール高松を備えた[高松シンボルタワー](https://ja.wikipedia.org/wiki/高松シンボルタワー "wikilink")とデッキで結ばれており、一体となって高松の[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")の役割を担う。
+[高松港](../Page/高松港.md "wikilink")の近く、[サンポート高松](../Page/サンポート高松.md "wikilink")に位置する四国最大規模のシティホテル。 高さは95mあり、瀬戸内海の島々と高松市街を一望できる。 国際会議場サンポートホール高松を備えた[高松シンボルタワー](../Page/高松シンボルタワー.md "wikilink")とデッキで結ばれており、一体となって高松の[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")の役割を担う。
 
 なお、この場所は旧高松駅の[宇高連絡船](../Page/宇高連絡船.md "wikilink")桟橋にあたる。
 
@@ -38,13 +38,13 @@
 
 ## アクセス
 
-  - [高松港](https://ja.wikipedia.org/wiki/高松港 "wikilink") 徒歩2分
-  - [四国旅客鉄道](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")（JR四国）[高松駅](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink") 徒歩2分
+  - [高松港](../Page/高松港.md "wikilink") 徒歩2分
+  - [四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）[高松駅](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink") 徒歩2分
   - [高松琴平電気鉄道](../Page/高松琴平電気鉄道.md "wikilink")（ことでん）[高松築港駅](https://ja.wikipedia.org/wiki/高松築港駅 "wikilink") 徒歩2分
 
 ## 関連項目
 
-  - [JR四国ホテルグループ](https://ja.wikipedia.org/wiki/JR四国ホテルグループ "wikilink")
+  - [JR四国ホテルグループ](../Page/JR四国ホテルグループ.md "wikilink")
 
 ## 脚注
 

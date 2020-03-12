@@ -13,9 +13,9 @@
 
 1.  **Butterfly Kiss** (4:20) \[1\]
       - 作曲：鵜島仁文
-      - [TBS系アニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[RAVE](https://ja.wikipedia.org/wiki/RAVE_\(漫画\) "wikilink")』前期オープニングテーマ（第1話 - 第25話）。なお第25話では挿入歌としても使用された。そのほか、同アニメの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")版である『CR RAVE エンドレスバトル』では、挿入歌として使用されている\[2\]。
+      - [TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[RAVE](../Page/RAVE_\(漫画\).md "wikilink")』前期オープニングテーマ（第1話 - 第25話）。なお第25話では挿入歌としても使用された。そのほか、同アニメの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")版である『CR RAVE エンドレスバトル』では、挿入歌として使用されている\[2\]。
       - [オリコン](../Page/オリコン.md "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に調査した「『キスの歌』カラオケランキング」では、この曲が24位にランクインした（カラオケ[DAMシリーズ全機種の歌唱回数を集計したもの](../Page/DAM_\(カラオケ\).md "wikilink")）\[3\]。
-      - [2013年](../Page/2013年.md "wikilink")に、『RAVE』同様に[真島ヒロ](https://ja.wikipedia.org/wiki/真島ヒロ "wikilink")作の『[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL "wikilink")』の、『RAVE』とのコラボレーション漫画『FAIRY TAIL×RAVE』\[4\]の[OADで](../Page/OVA.md "wikilink")、挿入歌として使用された\[5\]。
+      - [2013年](../Page/2013年.md "wikilink")に、『RAVE』同様に[真島ヒロ](../Page/真島ヒロ.md "wikilink")作の『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")』の、『RAVE』とのコラボレーション漫画『FAIRY TAIL×RAVE』\[4\]の[OADで](../Page/OVA.md "wikilink")、挿入歌として使用された\[5\]。
 2.  **琥珀の揺りかご** (4:41) \[6\]
       - 作曲：米倉千尋
       - TBS系アニメ『RAVE』前期エンディングテーマ（第1話 - 第25話）。

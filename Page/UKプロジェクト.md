@@ -1,7 +1,7 @@
 > この記事は[UK](https://ja.wikipedia.org/wiki/UK)から翻訳されています。
 
 
-**株式会社ユーケープロジェクト**（UK.PROJECT INC.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")\[1\]及び、[芸能事務所](../Page/芸能事務所.md "wikilink")、[音楽出版社](https://ja.wikipedia.org/wiki/音楽出版社 "wikilink")。
+**株式会社ユーケープロジェクト**（UK.PROJECT INC.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レコード会社](../Page/レコード会社.md "wikilink")\[1\]及び、[芸能事務所](../Page/芸能事務所.md "wikilink")、[音楽出版社](https://ja.wikipedia.org/wiki/音楽出版社 "wikilink")。
 
 傘下に多数の[インディーズ](../Page/インディーズ.md "wikilink")[レーベルが存在する](../Page/レコードレーベル.md "wikilink")。
 
@@ -11,17 +11,17 @@
   - 1989年4月、初の作品を発売
   - 1990年9月、[下北沢](../Page/下北沢.md "wikilink")に移転
   - 1991年12月、「**株式会社ユーケープロジェクト**」設立
-  - 1994年、[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（2017年現在の[ユニバーサルミュージック内](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[EMI Records](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")）と契約
-  - 1994年10月、[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")「下北沢[CLUB Que](../Page/CLUB_Que.md "wikilink")」設立
+  - 1994年、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（2017年現在の[ユニバーサルミュージック内](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[EMI Records](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")）と契約
+  - 1994年10月、[ライブハウス](../Page/ライブハウス.md "wikilink")「下北沢[CLUB Que](../Page/CLUB_Que.md "wikilink")」設立
   - 1997年、東芝EMIと契約解消
-  - 1997年4月、CDショップ「[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")」オープン（当初は[スペースシャワーネットワーク](https://ja.wikipedia.org/wiki/スペースシャワーネットワーク "wikilink")の子会社）
+  - 1997年4月、CDショップ「[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")」オープン（当初は[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")の子会社）
   - 1999年11月、移転
   - 2000年、子会社「株式会社ライトエージェント」設立
   - 2002年、子会社「株式会社ハイライン」（ハイラインレコーズの運営を継承）設立
   - 2003年7月、「株式会社ジダイ」設立
-  - 2005年3月、[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")「[Zher the ZOO](https://ja.wikipedia.org/wiki/Zher_the_ZOO "wikilink") YOYOGI」設立
+  - 2005年3月、[ライブハウス](../Page/ライブハウス.md "wikilink")「[Zher the ZOO](https://ja.wikipedia.org/wiki/Zher_the_ZOO "wikilink") YOYOGI」設立
   - 2006年9月、「[風知空知](https://ja.wikipedia.org/wiki/風知空知 "wikilink")」開店
-  - 2008年7月、CDショップ「[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")」閉店
+  - 2008年7月、CDショップ「[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")」閉店
   - 2008年9月、株式会社ジダイを「株式会社ユーケーピーエム」に改称
 
 ## 主な傘下レーベルの所属・元所属アーティスト
@@ -29,54 +29,54 @@
 Aaron field（1997年9月 - ）
 
   - [BENTROOT](https://ja.wikipedia.org/wiki/BENTROOT "wikilink") (1998年〜1999年)
-  - [Caravan](https://ja.wikipedia.org/wiki/Caravan "wikilink") (2003年〜2005年)→[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")→Slow Flow Music
+  - [Caravan](../Page/Caravan.md "wikilink") (2003年〜2005年)→[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")→Slow Flow Music
   - [Crunched Grind](https://ja.wikipedia.org/wiki/Crunched_Grind "wikilink") (1997年〜1999年)
   - [enamel the evening calls](https://ja.wikipedia.org/wiki/enamel_the_evening_calls "wikilink") (2003年)
   - [F.size.free](https://ja.wikipedia.org/wiki/F.size.free "wikilink") (2004年)
-  - [FLIP-FLAP](https://ja.wikipedia.org/wiki/FLIP-FLAP "wikilink") (2001年〜2002年)
-  - [FULLSCRATCH](https://ja.wikipedia.org/wiki/FULLSCRATCH "wikilink") (1998年〜2002年)→Flying High→[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")→[PIZZA OF DEATH RECORDS](https://ja.wikipedia.org/wiki/PIZZA_OF_DEATH_RECORDS "wikilink")/TIGHT RECORDS
+  - [FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink") (2001年〜2002年)
+  - [FULLSCRATCH](https://ja.wikipedia.org/wiki/FULLSCRATCH "wikilink") (1998年〜2002年)→Flying High→[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")→[PIZZA OF DEATH RECORDS](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")/TIGHT RECORDS
   - [LIONOTE.](https://ja.wikipedia.org/wiki/LIONOTE. "wikilink") (2004年〜2009年)
   - [mammy Sino](https://ja.wikipedia.org/wiki/mammy_Sino "wikilink") (2007年〜2008年)
   - [MIX PANTHER](https://ja.wikipedia.org/wiki/MIX_PANTHER "wikilink") (2003年〜2004年)
   - [ORGEL](https://ja.wikipedia.org/wiki/ORGEL "wikilink") (2004年〜2007年)
   - [S★CREATERS](https://ja.wikipedia.org/wiki/S★CREATERS "wikilink") (1999年〜2002年)
   - [SOBUT](https://ja.wikipedia.org/wiki/SOBUT "wikilink") (1996年〜)
-  - [Spinna B-ILL](https://ja.wikipedia.org/wiki/Spinna_B-ILL "wikilink") (2002年〜2009年)
+  - [Spinna B-ILL](../Page/Spinna_B-ILL.md "wikilink") (2002年〜2009年)
       - Spinna B-ill & [The Cavemans](https://ja.wikipedia.org/wiki/The_Cavemans "wikilink") (2002年〜2005年)2005年解散
       - Spinna B-ill meets [Kenji Jammer](https://ja.wikipedia.org/wiki/Kenji_Jammer "wikilink") (2009年)
   - [WRONG SCALE](https://ja.wikipedia.org/wiki/WRONG_SCALE "wikilink") (2000年〜2003年)→K-plan→asian gothic→2009年2月2日解散
   - [薫（くゆら）](https://ja.wikipedia.org/wiki/薫_\(歌手\) "wikilink") (2009年〜2010年)
   - [福廊](https://ja.wikipedia.org/wiki/福廊 "wikilink") (2010年)
-  - [若林ケン](https://ja.wikipedia.org/wiki/若林ケン "wikilink") (2009年〜2010年)
+  - [若林ケン](../Page/若林ケン.md "wikilink") (2009年〜2010年)
 
 ATSUGUA RECORDS（2003年 - ）
 
-  - [COIL](https://ja.wikipedia.org/wiki/COIL "wikilink") (2009年)→[Imperial Records](https://ja.wikipedia.org/wiki/インペリアルレコード_\(日本\) "wikilink")→rhythm zone→sandwich/Atsugua
-      - [岡本定義](https://ja.wikipedia.org/wiki/岡本定義 "wikilink") (2010年)
+  - [COIL](../Page/COIL.md "wikilink") (2009年)→[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink")→rhythm zone→sandwich/Atsugua
+      - [岡本定義](../Page/岡本定義.md "wikilink") (2010年)
   - [Dr.StrangeLove](../Page/Dr.StrangeLove.md "wikilink") (2004年)Superfood Records→[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")→ATSUGUA RECORDS
-  - [FAITH](https://ja.wikipedia.org/wiki/FAITH_\(バンド\) "wikilink") (2017年)→BORDER-LESS RECORDS
+  - [FAITH](../Page/FAITH_\(バンド\).md "wikilink") (2017年)→BORDER-LESS RECORDS
   - [Jeff Peterson](https://ja.wikipedia.org/wiki/Jeff_Peterson "wikilink") (2011年〜2013年)
   - [MAGUMI AND THE BREATHLESS](https://ja.wikipedia.org/wiki/MAGUMI_AND_THE_BREATHLESS "wikilink") (2014年)
   - [mi-gu](https://ja.wikipedia.org/wiki/mi-gu "wikilink") (2003年〜2006年)
-  - [アナム&マキ](https://ja.wikipedia.org/wiki/アナム&マキ "wikilink") (2005年)[Wea](https://ja.wikipedia.org/wiki/ワーナー・ミュージック・ジャパン "wikilink")→HOLE & ROLL→ATSUGUA RECORDS→[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")→RESERVOTION RECORDS→[NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")→2008年12月31日活動休止
+  - [アナム&マキ](../Page/アナム&マキ.md "wikilink") (2005年)[Wea](https://ja.wikipedia.org/wiki/ワーナー・ミュージック・ジャパン "wikilink")→HOLE & ROLL→ATSUGUA RECORDS→[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")→RESERVOTION RECORDS→[NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")→2008年12月31日活動休止
   - [越野竜太](https://ja.wikipedia.org/wiki/越野竜太 "wikilink") (2012年)
   - [長澤知之](../Page/長澤知之.md "wikilink") (2005年〜2017年)→Au(g)tunes
-  - [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink") (2010年)→[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")→[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")→ユニバーサルミュージック
+  - [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink") (2010年)→[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")→[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")→ユニバーサルミュージック
   - [松室政哉](https://ja.wikipedia.org/wiki/松室政哉 "wikilink") (2016年)→ユニバーサルミュージック
-  - [野狐禅](https://ja.wikipedia.org/wiki/野狐禅_\(フォークバンド\) "wikilink") (2009年)→[SPEEDSTAR RECORDS](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")→2009年解散
+  - [野狐禅](../Page/野狐禅_\(フォークバンド\).md "wikilink") (2009年)→[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")→2009年解散
   - [らぞく](https://ja.wikipedia.org/wiki/らぞく "wikilink") (2009年〜)
 
 Beat Surfers（2008年 - ）
 
-  - [BITE THE LUNG](https://ja.wikipedia.org/wiki/BITE_THE_LUNG "wikilink") (2008年)→CITRON RECORDINGS
+  - [BITE THE LUNG](../Page/BITE_THE_LUNG.md "wikilink") (2008年)→CITRON RECORDINGS
   - [COTO](https://ja.wikipedia.org/wiki/COTO "wikilink") (2017年〜)
   - [GalapagosS](https://ja.wikipedia.org/wiki/GalapagosS "wikilink") (2016年)
-  - [HONDALADY](https://ja.wikipedia.org/wiki/HONDALADY "wikilink") (2015年)2018年12月8日活動休止
+  - [HONDALADY](../Page/HONDALADY.md "wikilink") (2015年)2018年12月8日活動休止
   - [NESS](https://ja.wikipedia.org/wiki/NESS "wikilink") (2015年)
   - [Proxyon](https://ja.wikipedia.org/wiki/Proxyon "wikilink") (2016年)
-  - [内田雄一郎](https://ja.wikipedia.org/wiki/内田雄一郎 "wikilink") (2017年〜)
+  - [内田雄一郎](../Page/内田雄一郎.md "wikilink") (2017年〜)
   - [小林写楽](https://ja.wikipedia.org/wiki/小林写楽 "wikilink") (2016年〜)
-  - [中野テルヲ](https://ja.wikipedia.org/wiki/中野テルヲ "wikilink") (2016年〜)
+  - [中野テルヲ](../Page/中野テルヲ.md "wikilink") (2016年〜)
 
 BLUE BALLS RECORDS（2004年 - ）
 
@@ -86,7 +86,7 @@ climb records（2016年 - ）
 
   - [OJI](https://ja.wikipedia.org/wiki/OJI "wikilink") (2016年〜)
 
-**[DAIZAWA RECORDS](https://ja.wikipedia.org/wiki/DAIZAWA_RECORDS "wikilink")**（2001年 - ）
+**[DAIZAWA RECORDS](../Page/DAIZAWA_RECORDS.md "wikilink")**（2001年 - ）
 
   - 該当項目参照
 
@@ -94,26 +94,26 @@ DECKRECレーベル（1999年2月 - ）
 
   - [Gasoline](https://ja.wikipedia.org/wiki/Gasoline "wikilink") (2003年)
   - [Count Phantom](https://ja.wikipedia.org/wiki/Count_Phantom "wikilink") (2016年)
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink") (2000年)
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink") (2000年)
   - [IGUWANNAS](https://ja.wikipedia.org/wiki/IGUWANNAS "wikilink") (2002年〜2009年)
-  - [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink") (1999年〜2000年)→[キューンレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink") (1999年〜2001年)→SPEEDSTAR RECORDS→自主レーベルCHAMP RECORDS
+  - [POLYSICS](../Page/POLYSICS.md "wikilink") (1999年〜2000年)→[キューンレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink") (1999年〜2001年)→SPEEDSTAR RECORDS→自主レーベルCHAMP RECORDS
   - [Switch Trout](https://ja.wikipedia.org/wiki/Switch_Trout "wikilink") (2000年)
   - [THE BUNNIES](https://ja.wikipedia.org/wiki/THE_BUNNIES "wikilink") (2002年)
   - [THE LET'S GO's](https://ja.wikipedia.org/wiki/THE_LET'S_GO's "wikilink") (2016年)→Sazanami Label
   - [THE OUTS](https://ja.wikipedia.org/wiki/THE_OUTS "wikilink") (2004年)
   - [THE MIGHTY MOGULS](https://ja.wikipedia.org/wiki/THE_MIGHTY_MOGULS "wikilink")(ザマイティムガルズ) (2001年)
   - [THE MINNESOTA VOODOO MEN](https://ja.wikipedia.org/wiki/THE_MINNESOTA_VOODOO_MEN "wikilink") (2001年)
-  - [THE NEATBEATS](https://ja.wikipedia.org/wiki/THE_NEATBEATS "wikilink") (2000年〜2001年)
+  - [THE NEATBEATS](../Page/THE_NEATBEATS.md "wikilink") (2000年〜2001年)
   - [THE STRIKES](https://ja.wikipedia.org/wiki/THE_STRIKES "wikilink") (2007年)
-  - [The 5.6.7.8's](https://ja.wikipedia.org/wiki/The_5.6.7.8's "wikilink") (2002年)
+  - [The 5.6.7.8's](../Page/The_5.6.7.8's.md "wikilink") (2002年)
   - [WATUSI ZOMBIE](https://ja.wikipedia.org/wiki/WATUSI_ZOMBIE "wikilink") (2013年)
   - [Yaung Skins](https://ja.wikipedia.org/wiki/Yaung_Skins "wikilink") (2002年)
-  - [我妻三輪子](https://ja.wikipedia.org/wiki/我妻三輪子 "wikilink") (2015年)
+  - [我妻三輪子](../Page/我妻三輪子.md "wikilink") (2015年)
   - [インパスターズ](https://ja.wikipedia.org/wiki/インパスターズ "wikilink") (2002年)
   - [うみのて](https://ja.wikipedia.org/wiki/うみのて "wikilink") (2012年〜2015年)2015年12月24日活動完結
   - [倉内太](https://ja.wikipedia.org/wiki/倉内太 "wikilink") (2012年〜2014年)
-  - [黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink") (2009年)→[Sony Music Associated Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")→[Sony Music Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")→2018年9月30日活動休止
+  - [黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink") (2009年)→[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")→[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")→2018年9月30日活動休止
   - [毛皮のマリーズ](https://ja.wikipedia.org/wiki/毛皮のマリーズ "wikilink") (2006年〜2008年)→JESUS RECORDS→日本コロムビア→2011年12月31日解散
   - [静岡ロックンロール組合](https://ja.wikipedia.org/wiki/静岡ロックンロール組合 "wikilink") (2008年)
   - [住所不定無職](https://ja.wikipedia.org/wiki/住所不定無職 "wikilink") (2011年〜2013年)
@@ -127,7 +127,7 @@ DECKRECレーベル（1999年2月 - ）
 
 FAMIRES RECORDS（2001年 - ）
 
-  - [TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink") (2001年〜)自主レーベル
+  - [TOMOVSKY](../Page/TOMOVSKY.md "wikilink") (2001年〜)自主レーベル
 
 **[RX-RECORDS](https://ja.wikipedia.org/wiki/RX-RECORDS "wikilink")**（2005年 - ）
 
@@ -139,7 +139,7 @@ TV-FREAK RECORDS（1997年7月 - ）
   - [Coquettish](https://ja.wikipedia.org/wiki/Coquettish "wikilink") (2015年)
   - [CRUTCH](https://ja.wikipedia.org/wiki/CRUTCH "wikilink") (2000年)
   - [G.D.FLICKERS](https://ja.wikipedia.org/wiki/G.D.FLICKERS "wikilink") (2004年)
-  - [GELUGUGU](https://ja.wikipedia.org/wiki/GELUGUGU "wikilink") (1998年)→ソニーレコード→[キティMME](https://ja.wikipedia.org/wiki/マーキュリー・レコード "wikilink")→cutting edge→[ネオプレックス](https://ja.wikipedia.org/wiki/ネオプレックス "wikilink")→THREECODE MUSIC
+  - [GELUGUGU](../Page/GELUGUGU.md "wikilink") (1998年)→ソニーレコード→[キティMME](../Page/マーキュリー・レコード.md "wikilink")→cutting edge→[ネオプレックス](../Page/ネオプレックス.md "wikilink")→THREECODE MUSIC
   - [GREST](https://ja.wikipedia.org/wiki/GREST "wikilink") (2000年)
   - [J Navarro & The Traitors](https://ja.wikipedia.org/wiki/J_Navarro_&_The_Traitors "wikilink") (2017年〜)
   - [Lonesome Dove Woodrows](https://ja.wikipedia.org/wiki/Lonesome_Dove_Woodrows "wikilink") (2011年)
@@ -152,7 +152,7 @@ TV-FREAK RECORDS（1997年7月 - ）
   - [THE AUTOCRATICS](https://ja.wikipedia.org/wiki/THE_AUTOCRATICS "wikilink") (2010年〜2012年)
   - [THE CIRCULATORS](https://ja.wikipedia.org/wiki/THE_CIRCULATORS "wikilink") (2003年〜2006年)
   - [The Peacocks](https://ja.wikipedia.org/wiki/w:en:The_Peacocks_\(band\) "wikilink") (2000年〜2004年)
-  - [POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink") (1997年,2000年〜2005年,2015年〜)
+  - [POTSHOT](../Page/POTSHOT.md "wikilink") (1997年,2000年〜2005年,2015年〜)
       - POTSHOT 1997 (2012年)
   - [ROCKET K](https://ja.wikipedia.org/wiki/ROCKET_K "wikilink") (2002年)
   - RYOJI & THE LAST CHORDS (2006年〜)
@@ -165,32 +165,32 @@ TV-FREAK RECORDS（1997年7月 - ）
   - [XARTS](https://ja.wikipedia.org/wiki/XARTS "wikilink") (1998年)
   - [YOUNG PUNCH](https://ja.wikipedia.org/wiki/YOUNG_PUNCH "wikilink") (1997年〜1998年)2002年解散
   - [うつみようこ](https://ja.wikipedia.org/wiki/うつみようこ "wikilink") (2001年〜2002年)
-  - [ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink") (2000年〜2002年,2006年)→BUG ROCK RECORDS→NR RECORDS
+  - [ニューロティカ](../Page/ニューロティカ.md "wikilink") (2000年〜2002年,2006年)→BUG ROCK RECORDS→NR RECORDS
 
 UK.PROJECT inc.
 
   - [54 NUDE HONEYS](https://ja.wikipedia.org/wiki/w:en:54_Nude_Honeys "wikilink") (1998年〜2003年)2007年解散
-  - [BEYONDS](https://ja.wikipedia.org/wiki/BEYONDS "wikilink") (2006年〜2007年)
+  - [BEYONDS](../Page/BEYONDS.md "wikilink") (2006年〜2007年)
   - [BLOODEST SAXOPHONE](https://ja.wikipedia.org/wiki/BLOODEST_SAXOPHONE "wikilink") (2003年)→BLUE BALLS RECORDS
   - [BORIS](../Page/BORIS.md "wikilink") (2002年)
-  - [BURGER NUDS](https://ja.wikipedia.org/wiki/BURGER_NUDS "wikilink") (2017年〜)再結成
+  - [BURGER NUDS](../Page/BURGER_NUDS.md "wikilink") (2017年〜)再結成
   - [DAD MOM GOD](https://ja.wikipedia.org/wiki/DAD_MOM_GOD "wikilink") (2013年)SEXY STONES RECORDS→アリオラジャパン→UK.PROJECT inc.
-  - [DATS](https://ja.wikipedia.org/wiki/DATS "wikilink") (2015年)→RALLYE→[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")
+  - [DATS](https://ja.wikipedia.org/wiki/DATS "wikilink") (2015年)→RALLYE→[SME Records](../Page/エスエムイーレコーズ.md "wikilink")
   - [FOE](https://ja.wikipedia.org/wiki/FOE "wikilink") (2000年)
   - [HATE HONEY](https://ja.wikipedia.org/wiki/HATE_HONEY "wikilink") (1998年)2006年3月25日解散
   - [herpiano](https://ja.wikipedia.org/wiki/herpiano "wikilink") (2012年)
-  - [JUSTY-NASTY](https://ja.wikipedia.org/wiki/JUSTY-NASTY "wikilink") (1993年)ベストアルバム・トリビュートアルバムのみ
+  - [JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink") (1993年)ベストアルバム・トリビュートアルバムのみ
   - [KETTLES](https://ja.wikipedia.org/wiki/KETTLES "wikilink") (2011年〜2013年)
-  - [KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink") (2004年)
+  - [KING BROTHERS](../Page/KING_BROTHERS.md "wikilink") (2004年)
   - [KNOWZ DADA ROAR](https://ja.wikipedia.org/wiki/KNOWZ_DADA_ROAR "wikilink") (2007年)
   - [LASTORDERZ](https://ja.wikipedia.org/wiki/LASTORDERZ "wikilink") (2011年)
   - [MARBLE DIAMOND](https://ja.wikipedia.org/wiki/MARBLE_DIAMOND "wikilink") (2000年〜2002年)
   - [MODERN DOLLZ](https://ja.wikipedia.org/wiki/MODERN_DOLLZ "wikilink") (2002年)
-  - [MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink") (2000年,2015年)
+  - [MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink") (2000年,2015年)
       - [百々和宏](https://ja.wikipedia.org/wiki/百々和宏 "wikilink") (2016年)
   - [odol](https://ja.wikipedia.org/wiki/odol "wikilink") (2015年〜)
-  - [OGRE YOU ASSHOLE](https://ja.wikipedia.org/wiki/OGRE_YOU_ASSHOLE "wikilink")（OYAとの共同制作） (2007年〜2008年)→[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")→[P-VINE](../Page/Pヴァイン.md "wikilink")
-  - [SEAGULL SCREAMING KISS HER KISS HER](https://ja.wikipedia.org/wiki/SEAGULL_SCREAMING_KISS_HER_KISS_HER "wikilink") (2015年)再結成
+  - [OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")（OYAとの共同制作） (2007年〜2008年)→[バップ](../Page/バップ.md "wikilink")→[P-VINE](../Page/Pヴァイン.md "wikilink")
+  - [SEAGULL SCREAMING KISS HER KISS HER](../Page/SEAGULL_SCREAMING_KISS_HER_KISS_HER.md "wikilink") (2015年)再結成
   - [SPARKY](https://ja.wikipedia.org/wiki/SPARKY_\(バンド\) "wikilink") (2002年)
   - [stylus](https://ja.wikipedia.org/wiki/stylus "wikilink") (2004年)
   - [teto](https://ja.wikipedia.org/wiki/teto "wikilink") (2017年〜)
@@ -203,12 +203,12 @@ UK.PROJECT inc.
   - [Tommy & The Bonjaskys](https://ja.wikipedia.org/wiki/Tommy_&_The_Bonjaskys "wikilink") (2008年)
   - [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink") (2008年)→[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")
   - [アポジーズ](https://ja.wikipedia.org/wiki/アポジーズ "wikilink") (1999年)
-  - [有山じゅんじ](https://ja.wikipedia.org/wiki/有山じゅんじ "wikilink") (1990年)
+  - [有山じゅんじ](../Page/有山じゅんじ.md "wikilink") (1990年)
   - [エコエコサイクルズ](https://ja.wikipedia.org/wiki/エコエコサイクルズ "wikilink") (1990年)
   - [おとぎ話](https://ja.wikipedia.org/wiki/おとぎ話_\(バンド\) "wikilink") (2007年〜2010年,2012年)UK.PROJECT inc.→ROSE RECORDS→UK.PROJECT inc.→felicity
-  - [勝手にしやがれ](https://ja.wikipedia.org/wiki/勝手にしやがれ_\(ジャズバンド\) "wikilink") (2001年〜2003年,2012年〜)GRANDE PAPA→エピックレコードジャパン→[tearbridge records](https://ja.wikipedia.org/wiki/tearbridge_records "wikilink")→UK.PROJECT inc.
-      - [武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](https://ja.wikipedia.org/wiki/ウエノコウジ "wikilink") (2011年〜)
-  - [KFK（旧名：カフカ）](https://ja.wikipedia.org/wiki/カフカ_\(バンド\) "wikilink") (2015年)→DAIZAWA RECORDS
+  - [勝手にしやがれ](../Page/勝手にしやがれ_\(ジャズバンド\).md "wikilink") (2001年〜2003年,2012年〜)GRANDE PAPA→エピックレコードジャパン→[tearbridge records](https://ja.wikipedia.org/wiki/tearbridge_records "wikilink")→UK.PROJECT inc.
+      - [武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](../Page/ウエノコウジ.md "wikilink") (2011年〜)
+  - [KFK（旧名：カフカ）](../Page/カフカ_\(バンド\).md "wikilink") (2015年)→DAIZAWA RECORDS
   - [餃子大王](https://ja.wikipedia.org/wiki/餃子大王 "wikilink") (1990年〜1993年,2002年)
   - [ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink") (1997年)
   - [スメルマン](https://ja.wikipedia.org/wiki/スメルマン "wikilink") (2010年)
@@ -216,7 +216,7 @@ UK.PROJECT inc.
   - [つばき](../Page/つばき_\(ロックバンド\).md "wikilink") (2012年〜)
       - つばきフレンズ (2012年,2017年〜)
       - [一色徳保](https://ja.wikipedia.org/wiki/一色徳保 "wikilink") (2015年)2017年5月9日脳腫瘍のため逝去
-  - [渡辺大知](https://ja.wikipedia.org/wiki/渡辺大知 "wikilink")・[峯田和伸](https://ja.wikipedia.org/wiki/峯田和伸 "wikilink")・[岸田繁](../Page/岸田繁.md "wikilink") (2009年)映画『[色即ぜねれいしょん](https://ja.wikipedia.org/wiki/色即ぜねれいしょん "wikilink")』主題歌
+  - [渡辺大知](https://ja.wikipedia.org/wiki/渡辺大知 "wikilink")・[峯田和伸](../Page/峯田和伸.md "wikilink")・[岸田繁](../Page/岸田繁.md "wikilink") (2009年)映画『[色即ぜねれいしょん](https://ja.wikipedia.org/wiki/色即ぜねれいしょん "wikilink")』主題歌
   - [ワタナベイビー](https://ja.wikipedia.org/wiki/ワタナベイビー "wikilink") (2005年)
 
 初恋妄℃学園（2002年12月 - ）
@@ -224,14 +224,14 @@ UK.PROJECT inc.
   - [銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink") (2005年〜)
       - 敏感少年隊 (2006年)
       - 銀杏BOYZと壊れたバイブレーターズ (2010年)
-  - [GOING STEADY](https://ja.wikipedia.org/wiki/GOING_STEADY "wikilink") (2002年〜2003年)2003年1月15日解散
-  - [水中、それは苦しい](https://ja.wikipedia.org/wiki/水中、それは苦しい "wikilink") (2006年)
+  - [GOING STEADY](../Page/GOING_STEADY.md "wikilink") (2002年〜2003年)2003年1月15日解散
+  - [水中、それは苦しい](../Page/水中、それは苦しい.md "wikilink") (2006年)
 
 ## 過去に存在したレーベル
 
 123RECORDS（1996年～2008年）
 
-  - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")（2001年〜2002年）→[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")→VeryApe Records→ポニーキャニオン→キューンレコード→Warszawa-Label
+  - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")（2001年〜2002年）→[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")→VeryApe Records→ポニーキャニオン→キューンレコード→Warszawa-Label
   - [euphoria](https://ja.wikipedia.org/wiki/euphoria_\(バンド\) "wikilink")（2003年〜2008年）
   - [PHUKET FINE](https://ja.wikipedia.org/wiki/PHUKET_FINE "wikilink")（2000年）
   - [organic stereo](https://ja.wikipedia.org/wiki/organic_stereo "wikilink")（2008年）
@@ -240,18 +240,18 @@ UK.PROJECT inc.
 BENTEN LABEL（1997年～2011年）
 
   - [AMPPEZ](https://ja.wikipedia.org/wiki/AMPPEZ "wikilink")（2006年）
-  - [BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(バンド\) "wikilink") (2000年)→EMIミュージック・ジャパン→[ハイ・ウェーブ](https://ja.wikipedia.org/wiki/ハイ・ウェーブ "wikilink")→2009年6月10日解散
+  - [BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(バンド\) "wikilink") (2000年)→EMIミュージック・ジャパン→[ハイ・ウェーブ](../Page/ハイ・ウェーブ.md "wikilink")→2009年6月10日解散
   - [DROOP](https://ja.wikipedia.org/wiki/DROOP "wikilink")（1997年）
   - [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink")（1998年）→[DELICIOUS LABEL](../Page/DELICIOUS_LABEL.md "wikilink")
-  - [Petty Booka](https://ja.wikipedia.org/wiki/Petty_Booka "wikilink")（2008年）
+  - [Petty Booka](../Page/Petty_Booka.md "wikilink")（2008年）
   - [ソープランド揉美山](https://ja.wikipedia.org/wiki/ソープランド揉美山 "wikilink")（2003年）
   - [ロリータ18号](../Page/ロリータ18号.md "wikilink")（1997年〜2011年）
 
 berry records（1997年～2011年）
 
-  - [CECIL](https://ja.wikipedia.org/wiki/CECIL "wikilink")（2000年〜2004年）→2006年実質的活動休止。
+  - [CECIL](../Page/CECIL.md "wikilink")（2000年〜2004年）→2006年実質的活動休止。
   - [GUITAR VADER](https://ja.wikipedia.org/wiki/GUITAR_VADER "wikilink")（2000年〜2001年）
-  - [HARCO](https://ja.wikipedia.org/wiki/青木慶則 "wikilink")（1997年）
+  - [HARCO](../Page/青木慶則.md "wikilink")（1997年）
   - [west clox](https://ja.wikipedia.org/wiki/west_clox "wikilink")（2007年）
   - [アラカキヒロコ](https://ja.wikipedia.org/wiki/アラカキヒロコ "wikilink")（2011年）
 
@@ -272,7 +272,7 @@ EINSTEIN RECORDS（1999年～2009年）
   - [PAIFUKU](https://ja.wikipedia.org/wiki/PAIFUKU "wikilink")（2005年）
   - [SARCASTIC+ZOOKEEPER](https://ja.wikipedia.org/wiki/SARCASTIC+ZOOKEEPER "wikilink")（2005年〜2006年）
   - [SALT30](https://ja.wikipedia.org/wiki/SALT30 "wikilink") (2004年)
-  - [SOFTBALL](https://ja.wikipedia.org/wiki/SOFTBALL "wikilink")（1999年〜2001年）→cutting edge→2003年4月2日解散。
+  - [SOFTBALL](../Page/SOFTBALL.md "wikilink")（1999年〜2001年）→cutting edge→2003年4月2日解散。
   - [Unfinal](https://ja.wikipedia.org/wiki/Unfinal "wikilink")（2001年〜2002年）
   - [秋茜 -AKIAKANE-](https://ja.wikipedia.org/wiki/秋茜_-AKIAKANE- "wikilink")（2004年〜2009年）
   - [自鳴琴](https://ja.wikipedia.org/wiki/自鳴琴_\(バンド\) "wikilink")（2004年）
@@ -286,7 +286,7 @@ GRAPE VILLAGE RECORDS（2003年～2004年）
 
 HATCHERY（2001年）
 
-  - [THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")（2001年）
+  - [THE BOOM](../Page/THE_BOOM.md "wikilink")（2001年）
 
 IFF RECORDINGS（2002年～2010年）
 
@@ -306,10 +306,10 @@ kingdom records（2002年～2012年）
 
 Libra records（1999年5月～2008年）
 
-  - [GOING STEADY](https://ja.wikipedia.org/wiki/GOING_STEADY "wikilink")（1999年〜2002年）→初恋妄℃学園→2003年1月15日解散。
+  - [GOING STEADY](../Page/GOING_STEADY.md "wikilink")（1999年〜2002年）→初恋妄℃学園→2003年1月15日解散。
   - [GREEN MIND](https://ja.wikipedia.org/wiki/GREEN_MIND "wikilink")（2002年）
   - [KOCORO](https://ja.wikipedia.org/wiki/KOCORO "wikilink")
-  - [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")（『2002年〜2006年)→DAIZAWA RECORDS
+  - [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")（『2002年〜2006年)→DAIZAWA RECORDS
   - [Milco](https://ja.wikipedia.org/wiki/Milco "wikilink")（2004年）
   - [No Brain](https://ja.wikipedia.org/wiki/No_Brain "wikilink")（2002年）
   - [Panic Or Reset](https://ja.wikipedia.org/wiki/Panic_Or_Reset "wikilink")（1999年)
@@ -327,7 +327,7 @@ Merienda（2000年～2004年）
 NANOPHONICA（1998年～2009年）
 
   - [Cicada](https://ja.wikipedia.org/wiki/Cicada "wikilink") (2002年)2016年にメジャーデビューした[CICADAとは異なる](https://ja.wikipedia.org/wiki/CICADA_\(日本のバンド\) "wikilink")。
-  - [DMBQ](https://ja.wikipedia.org/wiki/DMBQ "wikilink") (1998年〜2002年)LESS THAN TV→NANOPHONICA→[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")→ツクモガミ
+  - [DMBQ](../Page/DMBQ.md "wikilink") (1998年〜2002年)LESS THAN TV→NANOPHONICA→[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")→ツクモガミ
   - [KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink") (2000年,2009年)
   - [ON OFF](https://ja.wikipedia.org/wiki/ON_OFF "wikilink") (1999年)
   - [POP-OFF TUESDAY](https://ja.wikipedia.org/wiki/POP-OFF_TUESDAY "wikilink") (1998年)
@@ -356,7 +356,7 @@ Oooit Records（1999年 - 2012年）
   - [ネタンダーズ](https://ja.wikipedia.org/wiki/ネタンダーズ "wikilink")（2002年）
   - [ははのきまぐれ](https://ja.wikipedia.org/wiki/ははの気まぐれ_\(バンド\) "wikilink")（2002年〜2005年）
   - [パラダイス・ガラージ](https://ja.wikipedia.org/wiki/パラダイス・ガラージ "wikilink") (2000年)
-  - [双葉双一](https://ja.wikipedia.org/wiki/双葉双一 "wikilink") (2001年〜2012年)
+  - [双葉双一](../Page/双葉双一.md "wikilink") (2001年〜2012年)
   - [は](https://ja.wikipedia.org/wiki/ロビンズ_\(バンド\) "wikilink") (2002年〜2003年)
 
 qoop music（2004年 - 2006年）
@@ -365,10 +365,10 @@ qoop music（2004年 - 2006年）
 
 RICE RECORDS（1991年 - 2005年）
 
-  - [AZUMI](https://ja.wikipedia.org/wiki/AZUMI_\(歌手\) "wikilink") (1992年〜1993年)元wyolicaの[Azumi](https://ja.wikipedia.org/wiki/Azumi "wikilink")とは異なる
+  - [AZUMI](https://ja.wikipedia.org/wiki/AZUMI_\(歌手\) "wikilink") (1992年〜1993年)元wyolicaの[Azumi](../Page/Azumi.md "wikilink")とは異なる
   - [Blues Kid Nyudow & Friend](https://ja.wikipedia.org/wiki/Blues_Kid_Nyudow_&_Friend "wikilink") (1991年)
   - [DEEP & BITES](https://ja.wikipedia.org/wiki/DEEP_&_BITES "wikilink") (1992年)
-  - [有山じゅんじ](https://ja.wikipedia.org/wiki/有山じゅんじ "wikilink") (1991年〜2005年)
+  - [有山じゅんじ](../Page/有山じゅんじ.md "wikilink") (1991年〜2005年)
   - [きたはらいく](https://ja.wikipedia.org/wiki/きたはらいく "wikilink") (2003年)
   - [シガキマサキ](https://ja.wikipedia.org/wiki/シガキマサキ "wikilink") (2004年)
   - [ロッテンハッツ](../Page/ロッテンハッツ.md "wikilink") (1991年)→キューン・ソニーレコード→1994年解散
@@ -395,7 +395,7 @@ STIFFEEN RECORDS（2000年 - 2008年）
   - [NUTS & MILK](https://ja.wikipedia.org/wiki/NUTS_&_MILK "wikilink") (2003年)
   - [SNOTTY](https://ja.wikipedia.org/wiki/SNOTTY "wikilink") (2001年〜2003年)
   - [U CAN'T SAY NO\!](https://ja.wikipedia.org/wiki/U_CAN'T_SAY_NO! "wikilink") (2003年)
-  - [YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink") (2002年)
+  - [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink") (2002年)
 
 STRIKE RECORD（2002年 - 2004年）
 
@@ -403,11 +403,11 @@ STRIKE RECORD（2002年 - 2004年）
 
 TELESCOPE LABEL（1999年 - 2014年）
 
-  - [BURGER NUDS](https://ja.wikipedia.org/wiki/BURGER_NUDS "wikilink") (2002年〜2004年,2014年)
+  - [BURGER NUDS](../Page/BURGER_NUDS.md "wikilink") (2002年〜2004年,2014年)
   - [Goriofix](https://ja.wikipedia.org/wiki/Goriofix "wikilink") (2004年)
   - [hnywo](https://ja.wikipedia.org/wiki/hnywo "wikilink") (2004年)
   - [Messer Schmitt Jr.](https://ja.wikipedia.org/wiki/Messer_Schmitt_Jr. "wikilink") (2002年)
-  - [木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink") (1999年)
+  - [木下理樹](../Page/木下理樹.md "wikilink") (1999年)
 
 TiNSTAR RECORDS（1998年 - 2004年）
 
@@ -416,7 +416,7 @@ TiNSTAR RECORDS（1998年 - 2004年）
   - [FARMSTAY](https://ja.wikipedia.org/wiki/FARMSTAY "wikilink") (2001年〜2003年)
   - [Goggle-A](https://ja.wikipedia.org/wiki/ゴーグルエース "wikilink") (2001年)
   - [LULU'S](https://ja.wikipedia.org/wiki/LULU'S "wikilink") (2000年)
-  - [MOTOCOMPO](https://ja.wikipedia.org/wiki/MOTOCOMPO "wikilink") (1999年)→Flavour of Sound→[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")→WAVEMASTER Artists→2010年活動休止
+  - [MOTOCOMPO](../Page/MOTOCOMPO.md "wikilink") (1999年)→Flavour of Sound→[ポリスター](../Page/ポリスター.md "wikilink")→WAVEMASTER Artists→2010年活動休止
   - [risette](https://ja.wikipedia.org/wiki/risette "wikilink") (1997年〜2002年)→FUTABAMUSIC
   - [SiCCAROLL-Hi](https://ja.wikipedia.org/wiki/SiCCAROLL-Hi "wikilink") (2000年)
   - [Syrup16g](https://ja.wikipedia.org/wiki/Syrup16g "wikilink") (1999年〜2001年)→DAIZAWA RECORDS→日本コロムビア→DAIZAWA RECORDS
@@ -438,12 +438,12 @@ TiNSTAR RECORDS（1998年 - 2004年）
 
 WONDER RELEASE RECORDS（1991年8月 - 2004年）
 
-  - [BEYONDS](https://ja.wikipedia.org/wiki/BEYONDS "wikilink") (1993年)
+  - [BEYONDS](../Page/BEYONDS.md "wikilink") (1993年)
   - [CHUB DU](https://ja.wikipedia.org/wiki/CHUB_DU "wikilink") (2003年〜2004年)
   - [Secret Goldfish](https://ja.wikipedia.org/wiki/Secret_Goldfish "wikilink") (2003年)
   - [SIDE DISH](https://ja.wikipedia.org/wiki/SIDE_DISH "wikilink") (2003年)
   - [Sugar Plant](https://ja.wikipedia.org/wiki/Sugar_Plant "wikilink") (1998年〜2003年)
-  - [VENUS PETER](https://ja.wikipedia.org/wiki/ヴィーナス・ペーター "wikilink") (1991年〜1994年)→K.O.G.A Records
+  - [VENUS PETER](../Page/ヴィーナス・ペーター.md "wikilink") (1991年〜1994年)→K.O.G.A Records
   - [デボネア](https://ja.wikipedia.org/wiki/デボネア "wikilink") (2003年)
 
 YOU & records（2005年 - 2006年）
@@ -451,22 +451,22 @@ YOU & records（2005年 - 2006年）
   - [barbi](https://ja.wikipedia.org/wiki/barbi "wikilink") (2005年〜2006年)
   - [ズクナシ](https://ja.wikipedia.org/wiki/ズクナシ "wikilink") (2005年)
 
-**[風待レコード](https://ja.wikipedia.org/wiki/風待レコード "wikilink")**（2003年 - 2005年）
+**[風待レコード](../Page/風待レコード.md "wikilink")**（2003年 - 2005年）
 
   - 該当項目参照
 
-[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")（1999年 - 2005年）
+[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")（1999年 - 2005年）
 
   - [BANK$](https://ja.wikipedia.org/wiki/BANK$ "wikilink") (2004年)
   - [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") (1999年〜2000年)
-  - [BUNGEE JUMP FESTIVAL](https://ja.wikipedia.org/wiki/BUNGEE_JUMP_FESTIVAL "wikilink") (2000年〜2001年)
+  - [BUNGEE JUMP FESTIVAL](../Page/BUNGEE_JUMP_FESTIVAL.md "wikilink") (2000年〜2001年)
   - [DUSK](https://ja.wikipedia.org/wiki/DUSK "wikilink") (2004年)
   - [FLAMING ECHO](https://ja.wikipedia.org/wiki/FLAMING_ECHO "wikilink") (2005年)
   - [GRiP](https://ja.wikipedia.org/wiki/GRiP "wikilink") (2003年)
-  - [NANANINE](https://ja.wikipedia.org/wiki/NANANINE "wikilink") (2001年〜2002年)
+  - [NANANINE](../Page/NANANINE.md "wikilink") (2001年〜2002年)
   - [サキノハカ](https://ja.wikipedia.org/wiki/サキノハカ "wikilink") (2005年)
-  - [ジァイアントステップ](https://ja.wikipedia.org/wiki/ジァイアントステップ "wikilink") (1999年)
-  - [自由人](https://ja.wikipedia.org/wiki/PhilHarmoUniQue "wikilink") (2004年〜2005年)
+  - [ジァイアントステップ](../Page/ジァイアントステップ.md "wikilink") (1999年)
+  - [自由人](../Page/PhilHarmoUniQue.md "wikilink") (2004年〜2005年)
 
 ミミ・エンタープライズ（2007年 - 2012年）
 
@@ -477,8 +477,8 @@ YOU & records（2005年 - 2006年）
 わがままレコード（2000年 - 2003年）
 
   - [Bambi](https://ja.wikipedia.org/wiki/Bambi_\(バンド\) "wikilink") (2002年)
-  - [オーノキヨフミ](https://ja.wikipedia.org/wiki/オーノキヨフミ "wikilink") (2001年〜2002年)→SPEEDSTAR RECORDS→SONG-CRUX→hei-bon RECORDS
-  - [小山卓治](https://ja.wikipedia.org/wiki/小山卓治 "wikilink") (2000年〜2003年)CBSソニー/ソニーレコード→わがままレコード→プライエイド・レコーズ
+  - [オーノキヨフミ](../Page/オーノキヨフミ.md "wikilink") (2001年〜2002年)→SPEEDSTAR RECORDS→SONG-CRUX→hei-bon RECORDS
+  - [小山卓治](../Page/小山卓治.md "wikilink") (2000年〜2003年)CBSソニー/ソニーレコード→わがままレコード→プライエイド・レコーズ
   - [スプリングベル](https://ja.wikipedia.org/wiki/スプリングベル "wikilink") (2001年〜2002年)
   - [りょう](https://ja.wikipedia.org/wiki/りょう "wikilink") (2002年)
   - [ローザ・パークス](https://ja.wikipedia.org/wiki/ローザ・パークス_\(バンド\) "wikilink") (2002年)→パラシュートレコード→Low-Fi Records
@@ -703,7 +703,7 @@ Aaron field
 <li>HUMANS FOLLY / HONEY SUCKLES</li>
 <li>FACE THE FACTS / Crunched Grind</li>
 <li>CURVES / UP HOLD</li>
-<li>SEE OFF / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>SEE OFF / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>AFTER BURNER / ネリチャギ
 </div>
 </div></li>
@@ -806,7 +806,7 @@ Libra records
 | 2002年09月06日 | WHITE BOARD                             | UKLB-032 |
 |             |                                         |          |
 
-[DAIZAWA RECORDS](https://ja.wikipedia.org/wiki/DAIZAWA_RECORDS "wikilink")
+[DAIZAWA RECORDS](../Page/DAIZAWA_RECORDS.md "wikilink")
 
   - 該当項目参照
 
@@ -826,7 +826,7 @@ UK.PROJECT inc.
 | 2002年07月19日 | DECK IN PARTY 1                                                           | DCRC-46V   |
 | 2002年10月04日 | TRIBUTE TO MODERN DOLLZ                                                   | UKCD-1099  |
 | 2003年07月23日 | GO-GO-SESSIONS                                                            | UKCD-1104  |
-| 2003年12月10日 | [アイデン&ティティ](https://ja.wikipedia.org/wiki/アイデン&ティティ "wikilink")           | UKCD-1109  |
+| 2003年12月10日 | [アイデン&ティティ](../Page/アイデン&ティティ.md "wikilink")                              | UKCD-1109  |
 | 2004年07月02日 | Colors of Life                                                            | UKCOL-1001 |
 | 2006年02月22日 | [SUNSET LIVE](https://ja.wikipedia.org/wiki/サンセットライブ "wikilink") 2005 DVD | UKDV-1116  |
 | 2007年03月21日 | DiGGiN'UP BLUE                                                            | DIG-0001   |
@@ -882,13 +882,13 @@ Oooit Records
 
   - 2011年8月19日@福岡DRUM LOGOS
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")
 
 ### UKFC on the Road 2012
 
   - 2012年7月25日@BIG CAT
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")
 
 <!-- end list -->
 
@@ -900,43 +900,43 @@ Oooit Records
 
   - 2012年8月1日@NIIGATA LOTS
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")
 
 <!-- end list -->
 
   - 2012年8月2日@仙台Rensa
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")
 
 <!-- end list -->
 
   - 2012年8月14日@新木場STUDIO COAST
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")／[RIDDLE](https://ja.wikipedia.org/wiki/RIDDLE "wikilink")／[きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink")／[武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](https://ja.wikipedia.org/wiki/ウエノコウジ "wikilink")／[THE★米騒動](https://ja.wikipedia.org/wiki/THE★米騒動 "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")／[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")／[RIDDLE](https://ja.wikipedia.org/wiki/RIDDLE "wikilink")／[きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink")／[武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](../Page/ウエノコウジ.md "wikilink")／[THE★米騒動](https://ja.wikipedia.org/wiki/THE★米騒動 "wikilink")
 
 <!-- end list -->
 
   - 2012年8月24日@福岡DRUM LOGOS
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")
 
 ### UKFC on the Road 2013
 
   - 2013年8月20日@新木場STUDIO COAST
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／LOST IN TIME／[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")／[つづくバンド](https://ja.wikipedia.org/wiki/つづくバンド "wikilink")／[伊藤文暁](https://ja.wikipedia.org/wiki/伊藤文暁 "wikilink")／[paionia](https://ja.wikipedia.org/wiki/paionia "wikilink")／RIDDLE／[BAZRA](https://ja.wikipedia.org/wiki/BAZRA "wikilink")／片平実／神啓文／石毛輝／片平実／[木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／LOST IN TIME／[POTSHOT](../Page/POTSHOT.md "wikilink")／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")／[つづくバンド](https://ja.wikipedia.org/wiki/つづくバンド "wikilink")／[伊藤文暁](https://ja.wikipedia.org/wiki/伊藤文暁 "wikilink")／[paionia](https://ja.wikipedia.org/wiki/paionia "wikilink")／RIDDLE／[BAZRA](../Page/BAZRA.md "wikilink")／片平実／神啓文／石毛輝／片平実／[木下理樹](../Page/木下理樹.md "wikilink")
 
 <!-- end list -->
 
   - 2013年8月21日@新木場STUDIO COAST
       -
-        出演者:[killing Boy](https://ja.wikipedia.org/wiki/killing_Boy "wikilink")／[OGRE YOU ASSHOLE](https://ja.wikipedia.org/wiki/OGRE_YOU_ASSHOLE "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[五十嵐隆](https://ja.wikipedia.org/wiki/五十嵐隆 "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")／[きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink")／[dip](../Page/Dip_\(バンド\).md "wikilink")／[DAD MOM GOD](https://ja.wikipedia.org/wiki/DAD_MOM_GOD "wikilink")／DJハヤシ／片平実／神啓文／庄村聡泰([\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\])／Shun([TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink"))
+        出演者:[killing Boy](https://ja.wikipedia.org/wiki/killing_Boy "wikilink")／[OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[五十嵐隆](../Page/五十嵐隆.md "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")／[きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink")／[dip](../Page/Dip_\(バンド\).md "wikilink")／[DAD MOM GOD](https://ja.wikipedia.org/wiki/DAD_MOM_GOD "wikilink")／DJハヤシ／片平実／神啓文／庄村聡泰([\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\])／Shun([TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink"))
 
 <!-- end list -->
 
   - 2013年8月22日@新木場STUDIO COAST
       -
-        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[うみのて](https://ja.wikipedia.org/wiki/うみのて "wikilink")／[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[KETTLES](https://ja.wikipedia.org/wiki/KETTLES "wikilink")／[静カニ潜ム日々](https://ja.wikipedia.org/wiki/静カニ潜ム日々 "wikilink")／THE★米騒動／片平実／神啓文／磯部寛之([\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\])／Bunta＆Kuboty([TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink"))
+        出演者:[\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")／[うみのて](https://ja.wikipedia.org/wiki/うみのて "wikilink")／[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[KETTLES](https://ja.wikipedia.org/wiki/KETTLES "wikilink")／[静カニ潜ム日々](https://ja.wikipedia.org/wiki/静カニ潜ム日々 "wikilink")／THE★米騒動／片平実／神啓文／磯部寛之([\[Champagne](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\])／Bunta＆Kuboty([TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink"))
 
 ### UKFC on the Road 2014
 
@@ -954,37 +954,37 @@ Oooit Records
 
   - 2014年8月5日@仙台Rensa
       -
-        出演者:[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")
+        出演者:[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")
 
 <!-- end list -->
 
   - 2014年8月20日@新木場STUDIO COAST
       -
-        出演者:[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")（弾き語り）／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[\[Alexandros](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")（[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")）／[Pee Wee Gaskins](https://ja.wikipedia.org/wiki/Pee_Wee_Gaskins "wikilink")（from Indonesia）／[pirukuru](https://ja.wikipedia.org/wiki/pirukuru "wikilink")／[Helsinki Ramadan Club](https://ja.wikipedia.org/wiki/Helsinki_Ramadan_Club "wikilink")／[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")
+        出演者:[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")（弾き語り）／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")／[\[Alexandros](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[松本素生](../Page/松本素生.md "wikilink")（[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")）／[Pee Wee Gaskins](https://ja.wikipedia.org/wiki/Pee_Wee_Gaskins "wikilink")（from Indonesia）／[pirukuru](https://ja.wikipedia.org/wiki/pirukuru "wikilink")／[Helsinki Ramadan Club](https://ja.wikipedia.org/wiki/Helsinki_Ramadan_Club "wikilink")／[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")
 
 <!-- end list -->
 
   - 2014年8月21日@新木場STUDIO COAST
       -
-        出演者:[\[Alexandros](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink")／[Cettia](https://ja.wikipedia.org/wiki/Cettia "wikilink")／[ウソツキ](https://ja.wikipedia.org/wiki/ウソツキ_\(バンド\) "wikilink")／[MAGUMI AND THE BREATHLESS](https://ja.wikipedia.org/wiki/MAGUMI_AND_THE_BREATHLESS "wikilink")／[勝手にしやがれ](https://ja.wikipedia.org/wiki/勝手にしやがれ_\(ジャズバンド\) "wikilink")
+        出演者:[\[Alexandros](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[POLYSICS](../Page/POLYSICS.md "wikilink")／[きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[ニューロティカ](../Page/ニューロティカ.md "wikilink")／[Cettia](https://ja.wikipedia.org/wiki/Cettia "wikilink")／[ウソツキ](https://ja.wikipedia.org/wiki/ウソツキ_\(バンド\) "wikilink")／[MAGUMI AND THE BREATHLESS](https://ja.wikipedia.org/wiki/MAGUMI_AND_THE_BREATHLESS "wikilink")／[勝手にしやがれ](../Page/勝手にしやがれ_\(ジャズバンド\).md "wikilink")
 
 <!-- end list -->
 
-  - 2014年8月23日@国営讃岐まんのう公園(UKFC on the Road 2014 extra in [MONSTER baSH](https://ja.wikipedia.org/wiki/MONSTER_baSH "wikilink"))
+  - 2014年8月23日@国営讃岐まんのう公園(UKFC on the Road 2014 extra in [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink"))
       -
-        出演者:[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")／[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／Bunta＆Kuboty([TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink"))／DJハヤシ／DJノブ([the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink"))
+        出演者:[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")／[POLYSICS](../Page/POLYSICS.md "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／Bunta＆Kuboty([TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink"))／DJハヤシ／DJノブ([the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink"))
 
 ### UKFC on the Road 2015
 
   - 2015年8月18日@新木場STUDIO COAST
       -
-        出演者:[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")／[Marmozets](https://ja.wikipedia.org/wiki/マーモゼッツ "wikilink") (from UK.) ／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")／[\[Alexandros](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[DATS](https://ja.wikipedia.org/wiki/DATS "wikilink")／[PELICAN FANCLUB](https://ja.wikipedia.org/wiki/PELICAN_FANCLUB "wikilink")／[Cettia](https://ja.wikipedia.org/wiki/Cettia "wikilink")／[LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")
+        出演者:[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")／[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")／[Marmozets](https://ja.wikipedia.org/wiki/マーモゼッツ "wikilink") (from UK.) ／[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")／[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")／[\[Alexandros](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")\]／[asobius](https://ja.wikipedia.org/wiki/asobius "wikilink")／[DATS](https://ja.wikipedia.org/wiki/DATS "wikilink")／[PELICAN FANCLUB](https://ja.wikipedia.org/wiki/PELICAN_FANCLUB "wikilink")／[Cettia](https://ja.wikipedia.org/wiki/Cettia "wikilink")／[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")
 
 <!-- end list -->
 
   - 2015年8月19日@新木場STUDIO COAST
       -
-        出演者:[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")／[キュウソネコカミ](https://ja.wikipedia.org/wiki/キュウソネコカミ "wikilink")／[downy](https://ja.wikipedia.org/wiki/downy "wikilink")／[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](https://ja.wikipedia.org/wiki/ウエノコウジ "wikilink")／[Helsinki Ramadan Club](https://ja.wikipedia.org/wiki/Helsinki_Ramadan_Club "wikilink")／[odol](https://ja.wikipedia.org/wiki/odol "wikilink")／[polly](https://ja.wikipedia.org/wiki/polly "wikilink")／[SPiCYSOL](https://ja.wikipedia.org/wiki/SPiCYSOL "wikilink")／[ウソツキ](https://ja.wikipedia.org/wiki/ウソツキ "wikilink")
+        出演者:[POLYSICS](../Page/POLYSICS.md "wikilink")／[キュウソネコカミ](https://ja.wikipedia.org/wiki/キュウソネコカミ "wikilink")／[downy](https://ja.wikipedia.org/wiki/downy "wikilink")／[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")／[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")／[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")／[武藤昭平](https://ja.wikipedia.org/wiki/武藤昭平 "wikilink") with [ウエノコウジ](../Page/ウエノコウジ.md "wikilink")／[Helsinki Ramadan Club](https://ja.wikipedia.org/wiki/Helsinki_Ramadan_Club "wikilink")／[odol](https://ja.wikipedia.org/wiki/odol "wikilink")／[polly](https://ja.wikipedia.org/wiki/polly "wikilink")／[SPiCYSOL](https://ja.wikipedia.org/wiki/SPiCYSOL "wikilink")／[ウソツキ](https://ja.wikipedia.org/wiki/ウソツキ "wikilink")
 
 ### UKFC on the Road 2016
 

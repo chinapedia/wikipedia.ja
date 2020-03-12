@@ -6,10 +6,10 @@
 ## 収録曲
 
 1.  **FEEL ME**
-      - 作詞：田口俊、作曲：[鵜島仁文](https://ja.wikipedia.org/wiki/鵜島仁文 "wikilink")、編曲：[十川知司](../Page/十川ともじ.md "wikilink")
-      - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")のゲーム「[Revive 〜蘇生〜](https://ja.wikipedia.org/wiki/Revive_〜蘇生〜 "wikilink")」主題歌。
+      - 作詞：田口俊、作曲：[鵜島仁文](../Page/鵜島仁文.md "wikilink")、編曲：[十川知司](../Page/十川ともじ.md "wikilink")
+      - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")のゲーム「[Revive 〜蘇生〜](../Page/Revive_〜蘇生〜.md "wikilink")」主題歌。
       - 4thアルバム『[Colours](../Page/Colours_\(米倉千尋のアルバム\).md "wikilink")』には、アルバムバージョンとして収録されている。
-      - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BEST OF CHIHIROX](../Page/BEST_OF_CHIHIROX.md "wikilink")』には、オリジナルバージョンとして収録されている。
+      - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST OF CHIHIROX](../Page/BEST_OF_CHIHIROX.md "wikilink")』には、オリジナルバージョンとして収録されている。
 2.  **Truth**
       - 作詞・作曲：米倉千尋、編曲：見良津健雄
       - ドリームキャストゲーム「Revive 〜蘇生〜」[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")。

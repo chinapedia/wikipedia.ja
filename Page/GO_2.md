@@ -1,7 +1,7 @@
 > この記事は[GO 2](https://ja.wikipedia.org/wiki/GO_2)から翻訳されています。
 
 
-**GO 2**は、[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")レーベルSCP([STEFANO CASTAGNA PRODUCTION](https://ja.wikipedia.org/wiki/STEFANO_CASTAGNA_PRODUCTION "wikilink"))の所属アーティスト[FASTWAY/DUSTY](https://ja.wikipedia.org/wiki/FASTWAY/DUSTY "wikilink")(本名:Ennio Zanini)と、ACE(本名:Christian Codenotti)が結成したユニット。
+**GO 2**は、[ユーロビート](../Page/ユーロビート.md "wikilink")レーベルSCP([STEFANO CASTAGNA PRODUCTION](https://ja.wikipedia.org/wiki/STEFANO_CASTAGNA_PRODUCTION "wikilink"))の所属アーティスト[FASTWAY/DUSTY](https://ja.wikipedia.org/wiki/FASTWAY/DUSTY "wikilink")(本名:Ennio Zanini)と、ACE(本名:Christian Codenotti)が結成したユニット。
 
 初期にはGO 2\[FASTWAY vs ACE\]と表記されている。
 
@@ -39,9 +39,9 @@
   - PLAY LOUD
       -
         『SUPER EUROBEAT presents INITIAL D BATTLE STAGE 2』収録。
-  - [BLOOD on FIRE](https://ja.wikipedia.org/wiki/BLOOD_on_FIRE "wikilink")
+  - [BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")
       -
-        『SUPER EUROBEAT VOL.181』収録。CHRISTINEとの共演。原曲は[AAAのデビューシングル](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")。
+        『SUPER EUROBEAT VOL.181』収録。CHRISTINEとの共演。原曲は[AAAのデビューシングル](../Page/AAA_\(音楽グループ\).md "wikilink")。
   - NRG
       -
         『SUPER EUROBEAT VOL.181』収録。
@@ -59,7 +59,7 @@
         『SUPER EUROBEAT VOL.197 -KING OF EUROBEAT- 』にノンストップ収録。VOL.202ではロックテイストのHEADRUSH VERSIONも収録された。
   - SUPERSTAR
       -
-        [DJ BOSSとのコラボレーション](https://ja.wikipedia.org/wiki/横田商会_\(DJユニット\) "wikilink")。『SUPER EUROBEAT VOL.199 -COLLABORATION OF EUROBEAT- 』にノンストップ収録。
+        [DJ BOSSとのコラボレーション](../Page/横田商会_\(DJユニット\).md "wikilink")。『SUPER EUROBEAT VOL.199 -COLLABORATION OF EUROBEAT- 』にノンストップ収録。
   - SAMURAI BLUE
       -
         『SUPER EUROBEAT VOL.209』収録。
@@ -81,6 +81,6 @@
   - [SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")
   - [STEFANO CASTAGNA PRODUCTION](https://ja.wikipedia.org/wiki/STEFANO_CASTAGNA_PRODUCTION "wikilink")
   - [頭文字D](../Page/頭文字D.md "wikilink")
-  - [ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")
+  - [ユーロビート](../Page/ユーロビート.md "wikilink")
 
 [Category:SUPER_EUROBEAT](https://ja.wikipedia.org/wiki/Category:SUPER_EUROBEAT "wikilink")

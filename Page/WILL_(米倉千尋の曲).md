@@ -6,10 +6,10 @@
 ## 収録曲
 
 1.  **WILL**
-      - 作詞：米倉千尋・[鵜島仁文](https://ja.wikipedia.org/wiki/鵜島仁文 "wikilink")、作曲：鵜島仁文、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
-      - テレビアニメ「[仙界伝 封神演義](https://ja.wikipedia.org/wiki/封神演義_\(漫画\) "wikilink")」オープニング主題歌。
+      - 作詞：米倉千尋・[鵜島仁文](../Page/鵜島仁文.md "wikilink")、作曲：鵜島仁文、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
+      - テレビアニメ「[仙界伝 封神演義](../Page/封神演義_\(漫画\).md "wikilink")」オープニング主題歌。
       - 4thアルバム『[Colours](../Page/Colours_\(米倉千尋のアルバム\).md "wikilink")』とベストアルバム『[Little Voice](../Page/Little_Voice.md "wikilink")』『[BEST OF CHIHIROX](../Page/BEST_OF_CHIHIROX.md "wikilink")』にも収録されている。
-      - 14thシングル「[陽のあたる場所](https://ja.wikipedia.org/wiki/陽のあたる場所_\(米倉千尋の曲\) "wikilink")」には、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンが収録されている。
+      - 14thシングル「[陽のあたる場所](../Page/陽のあたる場所_\(米倉千尋の曲\).md "wikilink")」には、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンが収録されている。
 2.  **FRIENDS**
       - 作詞・作曲：米倉千尋、編曲：[見良津健雄](../Page/見良津健雄.md "wikilink")
       - テレビアニメ「仙界伝 封神演義」エンディング主題歌。

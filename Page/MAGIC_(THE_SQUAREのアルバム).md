@@ -5,13 +5,13 @@
 
 ## 解説
 
-スクェアにとって5枚目のオリジナルアルバムアルバムにあたる。このアルバムからベーシストが結成時からのメンバーである[中村裕二から](https://ja.wikipedia.org/wiki/中村裕二_\(ベーシスト\) "wikilink")[田中豊雪](https://ja.wikipedia.org/wiki/田中豊雪 "wikilink")に交代した。また、ドラマーもこのアルバムのみ[清水永二](https://ja.wikipedia.org/wiki/清水永二 "wikilink")が担当している。1曲目に収録されているタイトル曲は日本語タイトルはアルバムと同じ「マジック」であるが、英語タイトルは「IT'S MAGIC」となる。カナダで大人気となり、シングルカットされる（日本でもシングル盤が発売される）。また、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[マリーン](https://ja.wikipedia.org/wiki/マリーン "wikilink")がカバーする等、話題となる。7曲目に収録されている「SUNSHINE SUNSHINE」では[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[トランペット](../Page/トランペット.md "wikilink")を演奏している。10曲目の「かわいいテクノ」のナレーションやヴォーカルの一部もタモリが担当しており、その中でタモリは[久米明](../Page/久米明.md "wikilink")の[ものまね](https://ja.wikipedia.org/wiki/ものまね "wikilink")をしている（久米明は当時のキーボーディスト・[久米大作](https://ja.wikipedia.org/wiki/久米大作 "wikilink")の実父である）。
+スクェアにとって5枚目のオリジナルアルバムアルバムにあたる。このアルバムからベーシストが結成時からのメンバーである[中村裕二から](https://ja.wikipedia.org/wiki/中村裕二_\(ベーシスト\) "wikilink")[田中豊雪](../Page/田中豊雪.md "wikilink")に交代した。また、ドラマーもこのアルバムのみ[清水永二](https://ja.wikipedia.org/wiki/清水永二 "wikilink")が担当している。1曲目に収録されているタイトル曲は日本語タイトルはアルバムと同じ「マジック」であるが、英語タイトルは「IT'S MAGIC」となる。カナダで大人気となり、シングルカットされる（日本でもシングル盤が発売される）。また、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[マリーン](../Page/マリーン.md "wikilink")がカバーする等、話題となる。7曲目に収録されている「SUNSHINE SUNSHINE」では[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[トランペット](../Page/トランペット.md "wikilink")を演奏している。10曲目の「かわいいテクノ」のナレーションやヴォーカルの一部もタモリが担当しており、その中でタモリは[久米明](../Page/久米明.md "wikilink")の[ものまね](https://ja.wikipedia.org/wiki/ものまね "wikilink")をしている（久米明は当時のキーボーディスト・[久米大作](../Page/久米大作.md "wikilink")の実父である）。
 
-また、「IT'S MAGIC」は、「TOMORROW'S AFFAIR」「OMENS OF LOVE」「宝島」と同様に吹奏楽版がある。[岩井直溥](https://ja.wikipedia.org/wiki/岩井直溥 "wikilink")編曲、東京佼成ウインドオーケストラの演奏による吹奏楽版が存在する。初出の音源は『New Sounds In Brass'85』（1985年）に収録されている。後に、『ニュー・サウンズ・イン・ブラスベストセレクション Vol.3』(1988年)に収録された。
+また、「IT'S MAGIC」は、「TOMORROW'S AFFAIR」「OMENS OF LOVE」「宝島」と同様に吹奏楽版がある。[岩井直溥](../Page/岩井直溥.md "wikilink")編曲、東京佼成ウインドオーケストラの演奏による吹奏楽版が存在する。初出の音源は『New Sounds In Brass'85』（1985年）に収録されている。後に、『ニュー・サウンズ・イン・ブラスベストセレクション Vol.3』(1988年)に収録された。
 
 ## 収録曲
 
-1.  '''マジック - IT'S MAGIC - '''[リンダ・ヘンリック](https://ja.wikipedia.org/wiki/リンダ・ヘンリック "wikilink")作詞、[安藤まさひろ作曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")
+1.  '''マジック - IT'S MAGIC - '''[リンダ・ヘンリック](https://ja.wikipedia.org/wiki/リンダ・ヘンリック "wikilink")作詞、[安藤まさひろ作曲](../Page/安藤正容.md "wikilink")
 2.  **CHOU CHOW** 安藤まさひろ作曲
 3.  **アイル・ネヴァー・フォゲット・ユー - I'LL NEVER FORGET YOU -** リンダ・ヘンリック作詞、安藤まさひろ作曲
 4.  **リトルマーメイド - LITTLE MERMAID -** 安藤まさひろ作曲

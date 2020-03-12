@@ -15,7 +15,7 @@
 ### CD
 
 1.  THIS IS IT\! YOU'RE THE ONE\! I KNEW IT\! -｢うれしい\!たのしい\!大好き｣ ENGLISH VERSION-
-      - オリジナルは[3rdシングルに収録](https://ja.wikipedia.org/wiki/うれしはずかし朝帰り "wikilink")。
+      - オリジナルは[3rdシングルに収録](../Page/うれしはずかし朝帰り.md "wikilink")。
       - [HondaオデッセイCFソング](../Page/本田技研工業.md "wikilink")（2003年9月～）
 2.  24/7 -ENGLISH VERSION-
       - オリジナルは[28thシングル](https://ja.wikipedia.org/wiki/24/7_-TWENTY_FOUR/SEVEN- "wikilink")、11thアルバム『monkey girl odyssey』に収録。
@@ -26,11 +26,11 @@
 5.  THE FIRST DAY WITHOUT YOU
       - 新曲。後に38thシングル『[大阪LOVER](../Page/大阪LOVER.md "wikilink")』(2007年)のカップリングに日本語バージョンが収録された。
 6.  IT'S ALL ABOUT LOVE
-      - 2002年発売の[30thシングル収録曲で](https://ja.wikipedia.org/wiki/IT'S_ALL_ABOUT_LOVE "wikilink")、このアルバム唯一の既発曲。
+      - 2002年発売の[30thシングル収録曲で](../Page/IT'S_ALL_ABOUT_LOVE.md "wikilink")、このアルバム唯一の既発曲。
 7.  CHRYSALIS OR BUTTERFLY
       - 新曲。
 8.  BEFORE NOW -｢いつのまに｣ ENGLISH VERSION-
-      - オリジナルは[29thシングルに収録](https://ja.wikipedia.org/wiki/いつのまに "wikilink")。
+      - オリジナルは[29thシングルに収録](../Page/いつのまに.md "wikilink")。
 9.  LOVE OVERFLOWS -｢しあわせなからだ｣ ENGLISH VERSION DCT MIX-
       - オリジナルは8thアルバム『[LOVE UNLIMITED∞](../Page/LOVE_UNLIMITED∞.md "wikilink")』に収録。
 10. LOVE LOVE LOVE -ENGLISH VERSION-

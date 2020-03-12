@@ -1,7 +1,7 @@
 > この記事は[BRAIN DRIVE](https://ja.wikipedia.org/wiki/BRAIN_DRIVE)から翻訳されています。
 
 
-**BRAIN DRIVE**（ブレインドライヴ [1991年](../Page/1991年.md "wikilink")-）日本のロック・ユニット。現在は**水田逸人**（**みずた はやと** [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")- 水田**隼渡**（読み同じ）名義も一時使用）のソロ・ユニット。
+**BRAIN DRIVE**（ブレインドライヴ [1991年](../Page/1991年.md "wikilink")-）日本のロック・ユニット。現在は**水田逸人**（**みずた はやと** [1970年](../Page/1970年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")- 水田**隼渡**（読み同じ）名義も一時使用）のソロ・ユニット。
 
 [1992年](../Page/1992年.md "wikilink")メジャーデビュー、[1994年](../Page/1994年.md "wikilink")解散、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")再始動。
 
@@ -9,7 +9,7 @@
 
 メジャーデビュー当初は**水田逸人**と**表野雅信**（**ひょうの まさのぶ**）によるユニットであった。
 
-[1991年](../Page/1991年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ビクター音楽産業からリリースしたダンスコンピレーションアルバム](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")『DANCE 2 NOISE 001』に参加。1992年4月、インディーズレーベル Aja records から『BRAIN WASHING』をリリース。1992年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、ビクター音楽産業内の[XEOインビテーションレーベルからデビューアルバム](../Page/Invitation_\(レーベル\).md "wikilink")『完全驚異』をリリース。
+[1991年](../Page/1991年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ビクター音楽産業からリリースしたダンスコンピレーションアルバム](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")『DANCE 2 NOISE 001』に参加。1992年4月、インディーズレーベル Aja records から『BRAIN WASHING』をリリース。1992年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、ビクター音楽産業内の[XEOインビテーションレーベルからデビューアルバム](../Page/Invitation_\(レーベル\).md "wikilink")『完全驚異』をリリース。
 
 2人ユニットで活動していた当時は、同じXEOレーベル所属の[SOFT BALLETに続く](../Page/SOFT_BALLET.md "wikilink")、ポストSOFT BALLETの一角として[M-AGE](../Page/M-AGE.md "wikilink")などと共に期待された存在であったが、結局はSOFT BALLETよりも早く[1994年](../Page/1994年.md "wikilink")に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")という形で活動を停止する。
 

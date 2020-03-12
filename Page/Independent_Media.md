@@ -1,7 +1,7 @@
 > この記事は[Independent Media](https://ja.wikipedia.org/wiki/Independent_Media)から翻訳されています。
 
 
-**Independent Media** ( = 独立メディア、略称：**IM**）は、[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")に本社を置く[ロシア](../Page/ロシア.md "wikilink")の[出版社](../Page/出版社.md "wikilink")。[1867年](../Page/1867年.md "wikilink")、[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")にて創業し、かつてはIndependent Media Sanoma Magazines（ = 独立メディア・サノマ・マガジンズ、略称：IMSMまたはSanoma）と呼ばれた時期もあった。
+**Independent Media** ( = 独立メディア、略称：**IM**）は、[モスクワ](../Page/モスクワ.md "wikilink")に本社を置く[ロシア](../Page/ロシア.md "wikilink")の[出版社](../Page/出版社.md "wikilink")。[1867年](../Page/1867年.md "wikilink")、[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")にて創業し、かつてはIndependent Media Sanoma Magazines（ = 独立メディア・サノマ・マガジンズ、略称：IMSMまたはSanoma）と呼ばれた時期もあった。
 
 世界最古の歴史（[1867年](../Page/1867年.md "wikilink")創刊）を誇る[女性](../Page/女性.md "wikilink")向けの[ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink") [ハーパース・バザー](https://ja.wikipedia.org/wiki/ハーパース・バザー "wikilink") (Harper's BAZAAR) などの[雑誌](../Page/雑誌.md "wikilink")が編集・発行されている。
 

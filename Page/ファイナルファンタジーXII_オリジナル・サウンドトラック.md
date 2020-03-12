@@ -1,7 +1,7 @@
 > この記事は[XII ](https://ja.wikipedia.org/wiki/XII_)から翻訳されています。
 
 
-『**ファイナルファンタジーXII オリジナル・サウンドトラック**』（ファイナルファンタジートゥエルブ オリジナル・サウンドトラック、FINAL FANTASY XII Original Soundtrack）は、『[FINAL FANTASY XII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")』のサウンドトラックである。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[ソニー・ミュージックディストリビューションからリリースされた](../Page/ソニー・ミュージックマーケティング.md "wikilink")。
+『**ファイナルファンタジーXII オリジナル・サウンドトラック**』（ファイナルファンタジートゥエルブ オリジナル・サウンドトラック、FINAL FANTASY XII Original Soundtrack）は、『[FINAL FANTASY XII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")』のサウンドトラックである。[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[ソニー・ミュージックディストリビューションからリリースされた](../Page/ソニー・ミュージックマーケティング.md "wikilink")。
 
 ## 収録曲
 

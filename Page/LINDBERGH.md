@@ -1,13 +1,13 @@
 > この記事は[LINDBERGH](https://ja.wikipedia.org/wiki/LINDBERGH)から翻訳されています。
 
 
-**LINDBERGH**（**リンドバーグ**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月に次世代業務用汎用[CG基板として発表した](../Page/コンピュータグラフィックス.md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用の[システム基板である](../Page/アーケードゲーム基板.md "wikilink")。
+**LINDBERGH**（**リンドバーグ**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が[2005年](../Page/2005年.md "wikilink")9月に次世代業務用汎用[CG基板として発表した](../Page/コンピュータグラフィックス.md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用の[システム基板である](../Page/アーケードゲーム基板.md "wikilink")。
 
 ## 概要
 
-アーキテクチャは[PCベースで構成されており](../Page/パーソナルコンピュータ.md "wikilink")、[アプリケーション開発が容易である](../Page/アプリケーションソフトウェア.md "wikilink")。アプリケーションは[DVD](../Page/DVD.md "wikilink")で供給される。独自の[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")機能\[1\]で、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の不正な[コピー](../Page/コピー.md "wikilink")を防止することが出来る。[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")には後期のBLUEはWindowsXPEmbeddedだが、それ以外は[Linux](../Page/Linux.md "wikilink")を採用しており、電源投入後に一瞬ではあるが[コンソール](https://ja.wikipedia.org/wiki/コンソール "wikilink")画面が表示される。ゲームマニュアルにはライセンス及び公開が義務付けられた一部ソースコードを入手するためのURLなどが記載されている。
+アーキテクチャは[PCベースで構成されており](../Page/パーソナルコンピュータ.md "wikilink")、[アプリケーション開発が容易である](../Page/アプリケーションソフトウェア.md "wikilink")。アプリケーションは[DVD](../Page/DVD.md "wikilink")で供給される。独自の[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")機能\[1\]で、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の不正な[コピー](../Page/コピー.md "wikilink")を防止することが出来る。[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")には後期のBLUEはWindowsXPEmbeddedだが、それ以外は[Linux](../Page/Linux.md "wikilink")を採用しており、電源投入後に一瞬ではあるが[コンソール](../Page/コンソール.md "wikilink")画面が表示される。ゲームマニュアルにはライセンス及び公開が義務付けられた一部ソースコードを入手するためのURLなどが記載されている。
 
-LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲーム](https://ja.wikipedia.org/wiki/ガンシューティングゲーム "wikilink")の『[ザ・ハウス・オブ・ザ・デッド4](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド4 "wikilink")』を発表。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")から稼働している。さらにいくつかのタイトルがLINDBERGH対応として発表されている（[対応ゲーム参照](https://ja.wikipedia.org/wiki/#対応ゲーム "wikilink")）。LINDBERGH基板最終作は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")発売のメダルゲーム『[アミNo.3](https://ja.wikipedia.org/wiki/アミNo.3 "wikilink")』（アミノサン）である。
+LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲーム](../Page/ガンシューティングゲーム.md "wikilink")の『[ザ・ハウス・オブ・ザ・デッド4](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド4 "wikilink")』を発表。[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")から稼働している。さらにいくつかのタイトルがLINDBERGH対応として発表されている（[対応ゲーム参照](https://ja.wikipedia.org/wiki/#対応ゲーム "wikilink")）。LINDBERGH基板最終作は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")発売のメダルゲーム『[アミNo.3](https://ja.wikipedia.org/wiki/アミNo.3 "wikilink")』（アミノサン）である。
 
 基板の発表と同時にラインナップとして挙げられていたタイトルのうち、『PSY-PHI』（サイファイ）は稼働を目前にして発売中止が発表された。
 
@@ -17,12 +17,12 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
 ## 基板スペック
 
-  - [CPU](../Page/CPU.md "wikilink"):[HTテクノロジ対応](https://ja.wikipedia.org/wiki/同時マルチスレッディング "wikilink") [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium 4プロセッサ](../Page/Pentium_4.md "wikilink") 3.0GHz\[7\]
-    [GPU](../Page/Graphics_Processing_Unit.md "wikilink"):[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")製 256bit幅 GDDR3 [VRAM](../Page/VRAM.md "wikilink")256MB搭載 [AGP接続](../Page/Accelerated_Graphics_Port.md "wikilink")
-    [Vertex](https://ja.wikipedia.org/wiki/Vertex_Shader "wikilink") & [Pixel Shader](https://ja.wikipedia.org/wiki/Pixel_Shader "wikilink") 3.0、2画面同時出力も可能。実機の[ヒートシンク](https://ja.wikipedia.org/wiki/ヒートシンク "wikilink")形状、部品構成は[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")6800Ultraと同じ。
+  - [CPU](../Page/CPU.md "wikilink"):[HTテクノロジ対応](../Page/同時マルチスレッディング.md "wikilink") [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium 4プロセッサ](../Page/Pentium_4.md "wikilink") 3.0GHz\[7\]
+    [GPU](../Page/Graphics_Processing_Unit.md "wikilink"):[NVIDIA](../Page/NVIDIA.md "wikilink")製 256bit幅 GDDR3 [VRAM](../Page/VRAM.md "wikilink")256MB搭載 [AGP接続](../Page/Accelerated_Graphics_Port.md "wikilink")
+    [Vertex](https://ja.wikipedia.org/wiki/Vertex_Shader "wikilink") & [Pixel Shader](https://ja.wikipedia.org/wiki/Pixel_Shader "wikilink") 3.0、2画面同時出力も可能。実機の[ヒートシンク](../Page/ヒートシンク.md "wikilink")形状、部品構成は[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")6800Ultraと同じ。
   - サウンド:3Dオーディオシンセサイザーチップ搭載。最大64音、5.1ch[サラウンド出力対応](https://ja.wikipedia.org/wiki/デジタル音響システム "wikilink")
     入出力:アナログ・デジタル2ポート
-    [S/PDIF](https://ja.wikipedia.org/wiki/S/PDIF "wikilink")（光出力）・[RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")
+    [S/PDIF](https://ja.wikipedia.org/wiki/S/PDIF "wikilink")（光出力）・[RCA端子](../Page/RCA端子.md "wikilink")
     オンボード[LAN](../Page/Local_Area_Network.md "wikilink")
     業務用ゲーム入出力 JVS I/Oコネクタ
     シリアル2ch
@@ -44,14 +44,14 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
 **LINDBERGH**
 
-  - [ザ・ハウス・オブ・ザ・デッド4](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド_4 "wikilink") （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）
-  - [パワースマッシュ3](https://ja.wikipedia.org/wiki/パワースマッシュ#パワースマッシュ3 "wikilink") （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）
+  - [ザ・ハウス・オブ・ザ・デッド4](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド_4 "wikilink") （[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）
+  - [パワースマッシュ3](https://ja.wikipedia.org/wiki/パワースマッシュ#パワースマッシュ3 "wikilink") （[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）
   - [アミー漁](https://ja.wikipedia.org/wiki/アミー漁 "wikilink")（あみーぎょ）（メダルゲーム、2006年4月）
       - [toアミー漁](https://ja.wikipedia.org/wiki/toアミー漁 "wikilink")（とあみーぎょ）（2007年）
       - [アミNo.3](https://ja.wikipedia.org/wiki/アミNo.3 "wikilink")（あみのさん）（2010年）
   - [バーチャファイター5](../Page/バーチャファイター5.md "wikilink")（2006年7月）★
       - 2015年3月をもってオンライン稼働が終了。
-  - [アフターバーナー クライマックス](https://ja.wikipedia.org/wiki/アフターバーナー_\(ゲーム\) "wikilink")（2006年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")）
+  - [アフターバーナー クライマックス](../Page/アフターバーナー_\(ゲーム\).md "wikilink")（2006年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")）
   - [アウトラン2 SDX](../Page/アウトラン2.md "wikilink")（2006年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）
   - [レッツ ゴー ジャングル\!](https://ja.wikipedia.org/wiki/Let's_Go_JUNGLE! "wikilink")（2006年12月）
   - [三国志大戦](https://ja.wikipedia.org/wiki/三国志大戦 "wikilink")シリーズ（初代、ver2.1 若き獅子の鼓動より、[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")）
@@ -70,7 +70,7 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
       - ネットワーク対戦クイズ Answer×Answer2（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）★
       - ネットワーク対戦クイズ Answer×Answer Live\!（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")）★
       - 2015年1月をもってオンライン稼働が終了。
-  - [クラブ マジェスティ](https://ja.wikipedia.org/wiki/クラブ_マジェスティ "wikilink")（メダルゲーム、[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")）
+  - [クラブ マジェスティ](../Page/クラブ_マジェスティ.md "wikilink")（メダルゲーム、[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")）
   - [セガネットワーク対戦麻雀MJ4](../Page/セガネットワーク対戦麻雀MJ4.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")）
       - セガネットワーク対戦麻雀MJ5から使用基板が[RINGEDGE](https://ja.wikipedia.org/wiki/RINGEDGE "wikilink")に変更された。
   - [RAMBO](https://ja.wikipedia.org/wiki/RAMBO_\(アーケードゲーム\) "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")）
@@ -80,7 +80,7 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
   - [DERBY OWNERS CLUB 2008 feel the rush](../Page/DERBY_OWNERS_CLUB.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
       - 2014年12月をもってオンライン稼働が終了。
-  - [WORLD CLUB Champion Football Intercontinental Clubs 2006-2007](https://ja.wikipedia.org/wiki/WORLD_CLUB_Champion_Football "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月](../Page/6月.md "wikilink")）
+  - [WORLD CLUB Champion Football Intercontinental Clubs 2006-2007](../Page/WORLD_CLUB_Champion_Football.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月](../Page/6月.md "wikilink")）
       - INTERCONTINENTAL CLUBS 2010-2011から使用基板が[RINGEDGE](https://ja.wikipedia.org/wiki/RINGEDGE "wikilink")に変更された。
 
 **その他**
@@ -89,7 +89,7 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
 ### 発売中止
 
-  - PSY-PHI - ギリシア文字で「ΨΦ」と書いて読みは「サイファイ」。[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")のみで操作する[対戦格闘ゲーム](https://ja.wikipedia.org/wiki/対戦格闘ゲーム "wikilink")。[鈴木裕](https://ja.wikipedia.org/wiki/鈴木裕 "wikilink")監修。2006年春稼働予定とされていたが、ロケーションテスト時にタッチパネル上で頻繁に高速で指をなぞり続けることで火傷による指の怪我が多発。PL法に抵触することが発覚し、発売中止が発表される（2006年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")下旬）\[8\]。
+  - PSY-PHI - ギリシア文字で「ΨΦ」と書いて読みは「サイファイ」。[タッチパネル](../Page/タッチパネル.md "wikilink")のみで操作する[対戦格闘ゲーム](https://ja.wikipedia.org/wiki/対戦格闘ゲーム "wikilink")。[鈴木裕](https://ja.wikipedia.org/wiki/鈴木裕 "wikilink")監修。2006年春稼働予定とされていたが、ロケーションテスト時にタッチパネル上で頻繁に高速で指をなぞり続けることで火傷による指の怪我が多発。PL法に抵触することが発覚し、発売中止が発表される（2006年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")下旬）\[8\]。
 
 ## 脚注
 

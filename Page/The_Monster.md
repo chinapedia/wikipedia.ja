@@ -9,7 +9,7 @@
 
   - 前作から約1年6ヶ月ぶりのオリジナルアルバム。
   - 「朝がまた来る」のヒットもあり、前作で途切れていた[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を再び記録。現在までオリジナルアルバムとしては最後にミリオンを達成した作品となっている。
-  - 7曲目の「[朝がまた来る](https://ja.wikipedia.org/wiki/朝がまた来る "wikilink")」、12曲目の「三日月」は表記はないものの、シングルとは別バージョンとなっている。
+  - 7曲目の「[朝がまた来る](../Page/朝がまた来る.md "wikilink")」、12曲目の「三日月」は表記はないものの、シングルとは別バージョンとなっている。
   - このアルバムを引っさげて、『史上最強の移動遊園地 DREAMS COME TRUE WONDERLAND 1999 〜春の夢〜』を開催。このツアーは珍しくアルバムの曲順通りに行われた。
 
 ### 収録曲
@@ -17,23 +17,23 @@
 1.  **opening theme〜the monster is coming〜**
       - 作曲・編曲：中村正人
       - 前アルバム「SING OR DIE」のブックレット最終ページ、special thanks最後の一文がモチーフになっている。
-2.  **[なんて恋したんだろ](https://ja.wikipedia.org/wiki/なんて恋したんだろ "wikilink")**
+2.  **[なんて恋したんだろ](../Page/なんて恋したんだろ.md "wikilink")**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
       - 25thシングル。
 3.  **みつばち**
       - 作詞：吉田美和、作曲・編曲：中村正人
 4.  **go on, baby！**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
-      - 30thシングル「[Go On, Baby\! -universal mix-](https://ja.wikipedia.org/wiki/Go_On,_Baby!_-universal_mix- "wikilink")」のカップリングとして収録。
+      - 30thシングル「[Go On, Baby\! -universal mix-](../Page/Go_On,_Baby!_-universal_mix-.md "wikilink")」のカップリングとして収録。
 5.  **キレイキレイ**
       - 作詞・作曲：吉田美和、編曲：中村正人
       - ライブで披露されたのは『WONDERLAND 1999 〜春の夢〜』のみである。
 6.  **make me your own**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
-7.  **[朝がまた来る](https://ja.wikipedia.org/wiki/朝がまた来る "wikilink")**
+7.  **[朝がまた来る](../Page/朝がまた来る.md "wikilink")**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
       - 24thシングル。
-      - イントロに[SEが](https://ja.wikipedia.org/wiki/効果音 "wikilink")、アウトロに[アコギの演奏が加わっている](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")。
+      - イントロに[SEが](../Page/効果音.md "wikilink")、アウトロに[アコギの演奏が加わっている](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")。
 8.  **FUNKA-MONSTER**
       - 作詞：吉田美和、作曲・編曲：中村正人
 9.  **モンキーガール番外編“ガンバレあたし！”**
@@ -45,11 +45,11 @@
       - 作詞：吉田美和、作曲・編曲：中村正人
 12. **三日月**
       - 作詞・作曲：吉田美和、編曲：中村正人
-      - 24thシングル「[朝がまた来る](https://ja.wikipedia.org/wiki/朝がまた来る "wikilink")」のカップリング。
+      - 24thシングル「[朝がまた来る](../Page/朝がまた来る.md "wikilink")」のカップリング。
       - シングルバージョンで最後のノイズ音が3回だったのが4回になっている。
 13. **夢で逢ってるから**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
-      - 25thシングル「[なんて恋したんだろ](https://ja.wikipedia.org/wiki/なんて恋したんだろ "wikilink")」のカップリング。
+      - 25thシングル「[なんて恋したんだろ](../Page/なんて恋したんだろ.md "wikilink")」のカップリング。
 14. **come closer**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
 15. **dragonfly**
@@ -71,7 +71,7 @@
 1.  **Opening Theme 〜the monster is coming〜**
 2.  **No Doubt 〜such sweet love we shared〜**
 3.  **Honey-Bee**
-4.  **[Go On, Baby\!！](https://ja.wikipedia.org/wiki/Go_On,_Baby!_-universal_mix- "wikilink")**
+4.  **[Go On, Baby\!！](../Page/Go_On,_Baby!_-universal_mix-.md "wikilink")**
       - 30thシングルとしてシングルカット。
 5.  **Beautiful Beautiful**
 6.  **Make Me Your Own**
@@ -82,8 +82,8 @@
 10. **Nude Night**
 11. **Crescent Moon**
 12. **See You In My Dreams**
-      - 30thシングル「[Go On, Baby\! -universal mix-](https://ja.wikipedia.org/wiki/Go_On,_Baby!_-universal_mix- "wikilink")」のカップリング。
-      - ミュージックビデオが作られた。（「[Go On, Baby\! -universal mix-](https://ja.wikipedia.org/wiki/Go_On,_Baby!_-universal_mix- "wikilink")」のCD-EXTRA、「[DCT CLIPS V1](https://ja.wikipedia.org/wiki/DCT_CLIPS_V1 "wikilink")」に収録。）
+      - 30thシングル「[Go On, Baby\! -universal mix-](../Page/Go_On,_Baby!_-universal_mix-.md "wikilink")」のカップリング。
+      - ミュージックビデオが作られた。（「[Go On, Baby\! -universal mix-](../Page/Go_On,_Baby!_-universal_mix-.md "wikilink")」のCD-EXTRA、「[DCT CLIPS V1](https://ja.wikipedia.org/wiki/DCT_CLIPS_V1 "wikilink")」に収録。）
 13. **Come Closer**
 14. **Dragonfly**
 
@@ -99,12 +99,12 @@
 ### 収録曲
 
 1.  **opening theme〜the monster is coming〜**
-2.  **[なんて恋したんだろ](https://ja.wikipedia.org/wiki/なんて恋したんだろ "wikilink")**
+2.  **[なんて恋したんだろ](../Page/なんて恋したんだろ.md "wikilink")**
 3.  **みつばち**
 4.  **go on,baby\!**
 5.  **キレイキレイ**
 6.  **make me your own**
-7.  **[朝がまた来る](https://ja.wikipedia.org/wiki/朝がまた来る "wikilink")**
+7.  **[朝がまた来る](../Page/朝がまた来る.md "wikilink")**
 8.  **FUNKA-MONSTER**
 9.  **モンキーガール番外編“ガンバレあたし\!”**
 10. **東京ATLAS**

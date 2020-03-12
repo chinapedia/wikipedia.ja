@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - 前作から約3年ぶりのオリジナルアルバム。[ユニバーサルミュージック移籍後](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、また[西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink")脱退後初のオリジナルアルバムである。
+  - 前作から約3年ぶりのオリジナルアルバム。[ユニバーサルミュージック移籍後](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、また[西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink")脱退後初のオリジナルアルバムである。
   - タイトルはデビュー15周年を記念したものである。
-  - 売り上げは前作を上回っているが、オリコンアルバムチャート最高位が2位と、3rdアルバム『[WONDER 3](../Page/WONDER_3.md "wikilink")』より継続してきた[オリコンアルバムチャートのオリジナルアルバム連続首位記録はここで途切れた](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
-  - 3曲目の「[マスカラまつげ](https://ja.wikipedia.org/wiki/マスカラまつげ "wikilink")」、5曲目の「[ラヴレター](https://ja.wikipedia.org/wiki/ラヴレター "wikilink")」、8曲目の「[OLÁ\! VITÓRIA\!](https://ja.wikipedia.org/wiki/OLA!_VITORIA! "wikilink")」10曲目の「HOLIDAY ～much more than perfect\!～」、12曲目の「[やさしいキスをして](https://ja.wikipedia.org/wiki/やさしいキスをして "wikilink")」は表示はないものの、シングルとは別バージョンとなっている。
+  - 売り上げは前作を上回っているが、オリコンアルバムチャート最高位が2位と、3rdアルバム『[WONDER 3](../Page/WONDER_3.md "wikilink")』より継続してきた[オリコンアルバムチャートのオリジナルアルバム連続首位記録はここで途切れた](../Page/オリコンチャート.md "wikilink")。
+  - 3曲目の「[マスカラまつげ](https://ja.wikipedia.org/wiki/マスカラまつげ "wikilink")」、5曲目の「[ラヴレター](../Page/ラヴレター.md "wikilink")」、8曲目の「[OLÁ\! VITÓRIA\!](../Page/OLA!_VITORIA!.md "wikilink")」10曲目の「HOLIDAY ～much more than perfect\!～」、12曲目の「[やさしいキスをして](../Page/やさしいキスをして.md "wikilink")」は表示はないものの、シングルとは別バージョンとなっている。
   - 初回限定盤と通常盤の2形態で発売。初回限定盤には[DVDが付属したハードカバーブックパッケージ仕様](../Page/DVD-Video.md "wikilink")。
   - このアルバムを引っさげて、『[DREAMS COME TRUE CONCERT TOUR 2005 DIAMOND15](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_CONCERT_TOUR_2005_DIAMOND15 "wikilink")』（1月15日 - 4月27日）、『DREAMS COME TRUE CONCERT TOUR 2005 DIAMOND15 ドリカムの夕べ』（4月7日 - 4月19日）を開催。
 
@@ -22,14 +22,14 @@
 2.  **朝日の洗礼**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - 大ヒット曲「[決戦は金曜日](https://ja.wikipedia.org/wiki/決戦は金曜日 "wikilink")」の続編的作品。そのため、このアルバム内での作曲のクレジットは「もちろん中村正人」 となっている。
-      - [Vodafone 803T](../Page/Vodafone_803T.md "wikilink") [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。メンバー自身も出演。
+      - [Vodafone 803T](../Page/Vodafone_803T.md "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink")。メンバー自身も出演。
 3.  **[マスカラまつげ](https://ja.wikipedia.org/wiki/マスカラまつげ/はじまりのla "wikilink")**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
       - 34thシングル。
       - シングルではフェードアウトだったアウトロがカットアウトになっている。
 4.  **どうぞよろしく**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
-5.  **[ラヴレター](https://ja.wikipedia.org/wiki/ラヴレター "wikilink")**
+5.  **[ラヴレター](../Page/ラヴレター.md "wikilink")**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
       - 36thシングル。
       - シングルではフェードアウトだったアウトロがカットアウトになっている。
@@ -37,7 +37,7 @@
       - 作詞：吉田美和、作曲・編曲：中村正人
 7.  **MUSIC TRANSFERS**
       - 作詞：吉田美和、作曲・編曲：中村正人
-8.  **[OLÁ\! VITÓRIA\!](https://ja.wikipedia.org/wiki/OLA!_VITORIA! "wikilink")**
+8.  **[OLÁ\! VITÓRIA\!](../Page/OLA!_VITORIA!.md "wikilink")**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - 35thシングル。
       - シングルではフェードアウトだったアウトロがカットアウトになっている。
@@ -45,12 +45,12 @@
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
 10. **HOLIDAY ～much more than perfect\!～**
       - 作詞：吉田美和、作曲・編曲：中村正人
-      - 35thシングル「[OLÁ\! VITÓRIA\!](https://ja.wikipedia.org/wiki/OLA!_VITORIA! "wikilink")」のカップリング。
+      - 35thシングル「[OLÁ\! VITÓRIA\!](../Page/OLA!_VITORIA!.md "wikilink")」のカップリング。
       - シングル収録のものより遅くフェードアウトする。
 11. **ヒの字**
       - 作詞・作曲：吉田美和、編曲：中村正人
       - 映画『[アマレット](../Page/アマレット_\(映画\).md "wikilink")』ではドリカムにそっくりな音楽グループ「アマレット」の持ち歌として使用されている。
-12. **[やさしいキスをして](https://ja.wikipedia.org/wiki/やさしいキスをして "wikilink")**
+12. **[やさしいキスをして](../Page/やさしいキスをして.md "wikilink")**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - 33rdシングル。
       - シングルではフェードアウトだったアウトロがカットアウトになっている。

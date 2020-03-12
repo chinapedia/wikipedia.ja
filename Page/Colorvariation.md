@@ -1,17 +1,17 @@
 > この記事は[Colorvariation](https://ja.wikipedia.org/wiki/Colorvariation)から翻訳されています。
 
 
-**Colorvariation**（カラーバリエーション）は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のRHUと[コンポーザーのMotohashi](../Page/作曲家.md "wikilink") Kazumiによって[2000年](../Page/2000年.md "wikilink")に結成された[バンド](../Page/バンド_\(音楽\).md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。エレクトロによる打ち込みを主体に民族音楽や、ラテン音楽、ロックなど幅広い要素が混在するクラブミュージックを演奏する。
+**Colorvariation**（カラーバリエーション）は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のRHUと[コンポーザーのMotohashi](../Page/作曲家.md "wikilink") Kazumiによって[2000年](../Page/2000年.md "wikilink")に結成された[バンド](../Page/バンド_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。エレクトロによる打ち込みを主体に民族音楽や、ラテン音楽、ロックなど幅広い要素が混在するクラブミュージックを演奏する。
 
 ## 概要
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内、[横浜](../Page/横浜市.md "wikilink")、湘南を中心に活動。Club Asia、THE ROOM、LOOP、O-EASTや、SPUTNIKなど様々な[クラブ](../Page/クラブ.md "wikilink")、[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で演奏活動を展開している。
+[東京都](../Page/東京都.md "wikilink")内、[横浜](../Page/横浜市.md "wikilink")、湘南を中心に活動。Club Asia、THE ROOM、LOOP、O-EASTや、SPUTNIKなど様々な[クラブ](../Page/クラブ.md "wikilink")、[ライブハウス](../Page/ライブハウス.md "wikilink")で演奏活動を展開している。
 
 『Color Variation』（2000年、Daiz Records）と『Neue Musik』（2003年、Daiz Records）の2枚のアルバムと1枚のアナログカットを発売している。
 
 2006年には韓国の[イテウォン](https://ja.wikipedia.org/wiki/イテウォン "wikilink")でライブを行うなど、国境を超えて活躍している。
 
-作詞/編曲を担当するMotohashi KazumiはLewis Vuiton名義で「Like a virgin」（[マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")）や「NO,NO,NO」（[デスティニーズ・チャイルド](https://ja.wikipedia.org/wiki/デスティニーズ・チャイルド "wikilink")）のトランスアレンジなどを手掛けている。
+作詞/編曲を担当するMotohashi KazumiはLewis Vuiton名義で「Like a virgin」（[マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")）や「NO,NO,NO」（[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")）のトランスアレンジなどを手掛けている。
 
 ## メディア \[Media\]
 

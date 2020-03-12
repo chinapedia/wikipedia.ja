@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - 前作から約2年7ヶ月ぶりのオリジナルアルバムであり、[東芝EMIで発売した最後のオリジナル](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")・アルバム。同日には[ビデオクリップ集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")『[DCT CLIPS V1](https://ja.wikipedia.org/wiki/DCT_CLIPS_V1 "wikilink")』も同時発売されている。また、このアルバム発売の3ヵ月後に[西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink")が脱退を発表している。
+  - 前作から約2年7ヶ月ぶりのオリジナルアルバムであり、[東芝EMIで発売した最後のオリジナル](../Page/EMIミュージック・ジャパン.md "wikilink")・アルバム。同日には[ビデオクリップ集](../Page/ミュージック・ビデオ.md "wikilink")『[DCT CLIPS V1](https://ja.wikipedia.org/wiki/DCT_CLIPS_V1 "wikilink")』も同時発売されている。また、このアルバム発売の3ヵ月後に[西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink")が脱退を発表している。
   - 猿の尻尾をかたどった携帯ストラップが封入されたクリアケース仕様で、定価も3200円と当時のCDとしては少し高めに設定されていた。
-  - 5曲目の「[SNOW DANCE](https://ja.wikipedia.org/wiki/SNOW_DANCE "wikilink")」、8曲目の「スキスキスー♥」は表示はないものの、シングルとは別バージョンとなっている。
+  - 5曲目の「[SNOW DANCE](../Page/SNOW_DANCE.md "wikilink")」、8曲目の「スキスキスー♥」は表示はないものの、シングルとは別バージョンとなっている。
   - このアルバムを引っさげて、『2002:monkey girl odyssey pp-mix』（1月4日 - 2月17日）、『2002:monkey girl odyssey us-mix』（5月19日 - 5月29日）、『2002:monkey girl odyssey arena-mix』（7月4日 - 9月15日）、『2002:monkey girl odyssey okinawa-mix』（9月20日 - 9月21日）、『2002:monkey girl odyssey west coast-mix』（10月11日 - 10月19日）、『2002:monkey girl odyssey winter fantasia』（12月18日 - 12月21日） を開催。ひとつのアルバムで5ツアーを行うのは最多である。
 
 ## 収録曲
@@ -24,7 +24,7 @@
       - 28thシングル。
 4.  **プライドなんて知らない**
       - 作曲：吉田美和・中村正人、編曲：中村正人・吉田美和
-5.  **[SNOW DANCE](https://ja.wikipedia.org/wiki/SNOW_DANCE "wikilink")**
+5.  **[SNOW DANCE](../Page/SNOW_DANCE.md "wikilink")**
       - 作曲・編曲：中村正人
       - 26thシングル。
       - シングルではフェードアウトだったアウトロがカットアウトになっている。
@@ -35,15 +35,15 @@
       - 歌詞の中にLOVE LOVE LOVEのフレーズが盛り込まれている。
 8.  **スキスキスー♥**
       - 作曲：中村正人・吉田美和、編曲：中村正人
-      - 31stシングル「[いつのまに](https://ja.wikipedia.org/wiki/いつのまに "wikilink")」のカップリング。
+      - 31stシングル「[いつのまに](../Page/いつのまに.md "wikilink")」のカップリング。
       - シングルではフェードアウトだったアウトロがカットアウトになっている。
 9.  **今日この佳き日**
       - 作曲：西川隆宏・吉田美和・中村正人、編曲：中村正人
       - 3人で作曲した最初で最後の楽曲。
-10. **[好きだけじゃだめなんだ](https://ja.wikipedia.org/wiki/好きだけじゃだめなんだ "wikilink")**
+10. **[好きだけじゃだめなんだ](../Page/好きだけじゃだめなんだ.md "wikilink")**
       - 作曲：吉田美和、編曲：中村正人
       - 29thシングル。
-11. **[いつのまに](https://ja.wikipedia.org/wiki/いつのまに "wikilink")-mgo ver.-**
+11. **[いつのまに](../Page/いつのまに.md "wikilink")-mgo ver.-**
       - 作曲：吉田美和・中村正人、編曲：中村正人
       - 31stシングル。
       - イントロがシングルバージョンよりも長くなっている。
@@ -58,8 +58,8 @@
 ## 参加アーティスト
 
   - [中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink") - All Instruments
-  - [吉田美和](https://ja.wikipedia.org/wiki/吉田美和 "wikilink") - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（\#1-13）、[Piano](../Page/ピアノ.md "wikilink")（\#1）
-  - [西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink") - Manipulating（\#1-13）、[Drums](../Page/ドラムセット.md "wikilink")・Guitar Basic Programming（\#9）、[Accordion](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")（\#10）
+  - [吉田美和](../Page/吉田美和.md "wikilink") - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（\#1-13）、[Piano](../Page/ピアノ.md "wikilink")（\#1）
+  - [西川隆宏](https://ja.wikipedia.org/wiki/西川隆宏 "wikilink") - Manipulating（\#1-13）、[Drums](../Page/ドラムセット.md "wikilink")・Guitar Basic Programming（\#9）、[Accordion](../Page/アコーディオン.md "wikilink")（\#10）
 
 **Guest Musicians**
 
@@ -72,7 +72,7 @@
   - ジョン・オーウェス - [Trumpet](../Page/トランペット.md "wikilink")
   - ジム・ハインズ - Trumpet
   - マイケル・デイヴィス - [Trombone](../Page/トロンボーン.md "wikilink")、Bass Trombone
-  - サンドラ・パーク - [Violin](../Page/ヴァイオリン.md "wikilink")、[Concert Master](https://ja.wikipedia.org/wiki/コンサートマスター "wikilink")
+  - サンドラ・パーク - [Violin](../Page/ヴァイオリン.md "wikilink")、[Concert Master](../Page/コンサートマスター.md "wikilink")
   - シャロン・ヤマダ - Violin
   - カレン・ドレフュス - [Viola](../Page/ヴィオラ.md "wikilink")
   - アラン・ステファンスキー - [Cello](../Page/チェロ.md "wikilink")
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - ハイラム・ブロック - Electric Guitar
-  - [大谷幸](https://ja.wikipedia.org/wiki/大谷幸 "wikilink") - Electric Piano
+  - [大谷幸](../Page/大谷幸.md "wikilink") - Electric Piano
   - アンディ・スナイツァー - Saxophone
   - ジョン・オーウェス - Trumpet、[Flugelhorn](../Page/フリューゲルホルン.md "wikilink")
   - ジム・ハインズ - Trumpet、Flugelhorn
@@ -111,7 +111,7 @@
 
 <!-- end list -->
 
-  - ホメロ・ルバンボ - [Spanish Guitar](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")
+  - ホメロ・ルバンボ - [Spanish Guitar](../Page/クラシック・ギター.md "wikilink")
 
 <!-- end list -->
 

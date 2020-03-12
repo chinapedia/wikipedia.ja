@@ -1,7 +1,7 @@
 > この記事は[A.I. Love You!](https://ja.wikipedia.org/wiki/A.I._Love_You!)から翻訳されています。
 
 
-『**A.I. Love You\!**』（アイ・ラブ・ユー！）は、[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月号から[2009年](../Page/2009年.md "wikilink")11月号まで連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加型ゲーム "wikilink")。
+『**A.I. Love You\!**』（アイ・ラブ・ユー！）は、[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）で[2006年](../Page/2006年.md "wikilink")2月号から[2009年](../Page/2009年.md "wikilink")11月号まで連載された[読者参加企画](../Page/読者参加型ゲーム.md "wikilink")。
 
 ## あらすじ
 
@@ -86,7 +86,7 @@
 ### 登場ロボット
 
   - 守璃（まもり）
-    明るくて優しい護衛ロボット。スタイルがよく、真面目だが少々おっちょこちょい。[二丁拳銃](https://ja.wikipedia.org/wiki/二丁拳銃 "wikilink")などの武装系アイテムを多く取得しているほか、楽器演奏をこなすなどパフォーマーとしても優れている。
+    明るくて優しい護衛ロボット。スタイルがよく、真面目だが少々おっちょこちょい。[二丁拳銃](../Page/二丁拳銃.md "wikilink")などの武装系アイテムを多く取得しているほか、楽器演奏をこなすなどパフォーマーとしても優れている。
     主人公に対する呼称は「マスター」。
   - 音夢（ねむ）
     [IQ](../Page/知能指数.md "wikilink")120以上（？）の頭脳派ロボット。いつもぼんやり物思いにふけっている不思議ちゃん。甘いものに目が無い大食いキャラでもある。空飛ぶ本や魔法のステッキなどの一風変わったアイテムを駆使して活躍し、作品世界中で人気の萌えキャラとなっていた。

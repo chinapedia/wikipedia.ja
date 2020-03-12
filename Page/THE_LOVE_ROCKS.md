@@ -1,7 +1,7 @@
 > この記事は[THE LOVE ROCKS](https://ja.wikipedia.org/wiki/THE_LOVE_ROCKS)から翻訳されています。
 
 
-『**THE LOVE ROCKS**』（ザ・ラヴ・ロックス）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")にリリースされた[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")13枚目の[アルバム](../Page/アルバム.md "wikilink")である。
+『**THE LOVE ROCKS**』（ザ・ラヴ・ロックス）は、[2006年](../Page/2006年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")にリリースされた[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")13枚目の[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 概要
 
@@ -51,15 +51,15 @@
       - 作詞：吉田美和、作曲・編曲：中村正人
 11. **空を読む ～album version～**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
-      - 37thシングル「[何度でも](https://ja.wikipedia.org/wiki/何度でも "wikilink")」のカップリング。
+      - 37thシングル「[何度でも](../Page/何度でも.md "wikilink")」のカップリング。
       - アルバムバージョンはイントロ部分が長くなり、2番のアレンジが多少異なる。
-12. **[何度でも](https://ja.wikipedia.org/wiki/何度でも "wikilink") ～album version～**
+12. **[何度でも](../Page/何度でも.md "wikilink") ～album version～**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - アルバムバージョンは、イントロ部分が長くなっている。
       - 37thシングル。
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系ドラマ『[救命病棟24時](https://ja.wikipedia.org/wiki/救命病棟24時 "wikilink")』主題歌（第3シリーズ）
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系ドラマ『[救命病棟24時](../Page/救命病棟24時.md "wikilink")』主題歌（第3シリーズ）
       - 映画『Mayu -ココロの星-』主題歌
-      - [住友生命ブランドパートナー新TVCMソング](https://ja.wikipedia.org/wiki/住友生命保険 "wikilink")
+      - [住友生命ブランドパートナー新TVCMソング](../Page/住友生命保険.md "wikilink")
 13. **SPOON ME, BABY ME**
       - 作詞：吉田美和、作曲：中村正人・吉田美和、編曲：中村正人
       - 吉田美和いわく、アルバム実質最後の曲は「何度でも」であり、この曲はアルバムのエンディングテーマだと語っている。同様に、アルバム実質最初の曲は「PROUD OF YOU」であるとも語っている。

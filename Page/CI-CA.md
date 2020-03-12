@@ -1,11 +1,11 @@
 > この記事は[CI-CA](https://ja.wikipedia.org/wiki/CI-CA)から翻訳されています。
 
 
-**CI-CA**（シーカ）は、[奈良交通](https://ja.wikipedia.org/wiki/奈良交通 "wikilink")・[エヌシーバス](https://ja.wikipedia.org/wiki/エヌシーバス "wikilink")の非接触型[ICカード](../Page/ICカード.md "wikilink")方式による路線バスの[乗車カード](../Page/乗車カード.md "wikilink")の名称である。各種パンフレットではCI-CAプリペイド券と表記されていることが多い。カード裏面に記載の番号のはじめの文字はNKであり、このNKは、奈良交通のローマ字表記である**N**ARA **K**OTSUの頭文字をとったものである。
+**CI-CA**（シーカ）は、[奈良交通](../Page/奈良交通.md "wikilink")・[エヌシーバス](../Page/エヌシーバス.md "wikilink")の非接触型[ICカード](../Page/ICカード.md "wikilink")方式による路線バスの[乗車カード](../Page/乗車カード.md "wikilink")の名称である。各種パンフレットではCI-CAプリペイド券と表記されていることが多い。カード裏面に記載の番号のはじめの文字はNKであり、このNKは、奈良交通のローマ字表記である**N**ARA **K**OTSUの頭文字をとったものである。
 
 ## 概要
 
-奈良交通は全国でも早期にあたる1989年より独自のバスカードを導入していた。2004年12月15日より磁気カードを置き換える目的でICカード化されることになった。バスカードでは対応していなかったが[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")協議会へ加盟し、2007年4月1日より[PiTaPa](../Page/PiTaPa.md "wikilink")とPiTaPaの相互利用先である[ICOCA](../Page/ICOCA.md "wikilink")がCI-CAエリア内で使えるようになった。さらに、2016年4月1日からは、[Kitaca](../Page/Kitaca.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")も使えるようになった。なお、カード名の由来は奈良の名物、[鹿とICカードの](https://ja.wikipedia.org/wiki/ニホンジカ "wikilink")「IC」、CARDの「CA」を掛けたもので公募によって選ばれた。
+奈良交通は全国でも早期にあたる1989年より独自のバスカードを導入していた。2004年12月15日より磁気カードを置き換える目的でICカード化されることになった。バスカードでは対応していなかったが[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")協議会へ加盟し、2007年4月1日より[PiTaPa](../Page/PiTaPa.md "wikilink")とPiTaPaの相互利用先である[ICOCA](../Page/ICOCA.md "wikilink")がCI-CAエリア内で使えるようになった。さらに、2016年4月1日からは、[Kitaca](../Page/Kitaca.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")も使えるようになった。なお、カード名の由来は奈良の名物、[鹿とICカードの](../Page/ニホンジカ.md "wikilink")「IC」、CARDの「CA」を掛けたもので公募によって選ばれた。
 
 ## 歴史
 
@@ -19,7 +19,7 @@
   - 2014年4月1日：定期券割引率、普通券のチャージ額（10％増→14％増）、払戻手数料改訂
   - 2016年4月1日：[Kitaca](../Page/Kitaca.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")のCI-CAエリアでの利用開始
 
-磁気式バスカードは当初[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")で発売を終了する予定だったが、CI-CAの入荷が遅れたため、4ヵ月後の[5月31日](../Page/5月31日.md "wikilink")まで発売終了時期が延期され、その2ヵ月後の[7月31日](../Page/7月31日.md "wikilink")で使用を終了し、カード読取機は撤去された。また、新規発行・継続する[定期券も紙式からIC式に完全移行された](../Page/定期乗車券.md "wikilink")。（ただし、奈良学園～小泉駅・近鉄郡山駅等の一部区間ではいまだに紙式定期が使用されている）なお、磁気式バスカード（普通のみ）からプレミアを含めたCI-CAへの積み替えは[2011年](../Page/2011年.md "wikilink")7月31日まで実施していた。
+磁気式バスカードは当初[2006年](../Page/2006年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")で発売を終了する予定だったが、CI-CAの入荷が遅れたため、4ヵ月後の[5月31日](../Page/5月31日.md "wikilink")まで発売終了時期が延期され、その2ヵ月後の[7月31日](../Page/7月31日.md "wikilink")で使用を終了し、カード読取機は撤去された。また、新規発行・継続する[定期券も紙式からIC式に完全移行された](../Page/定期乗車券.md "wikilink")。（ただし、奈良学園～小泉駅・近鉄郡山駅等の一部区間ではいまだに紙式定期が使用されている）なお、磁気式バスカード（普通のみ）からプレミアを含めたCI-CAへの積み替えは[2011年](../Page/2011年.md "wikilink")7月31日まで実施していた。
 
 ## 購入・チャージ（積み増し）方法
 

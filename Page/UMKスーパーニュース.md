@@ -9,7 +9,7 @@
 
 番組前半は、フジテレビ発の全国ニュース（16:50から18:14まで）を放送している。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")の地上デジタル放送の試験放送開始からハイビジョン制作となり、[2015年](../Page/2015年.md "wikilink")3月30日より、FNN系列の新たな夕方ニュースとして『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』がスタートするも、系列局で唯一番組タイトルを変更せずに継続（これによりFNN系列の平日の夕方ニュース番組では最も最古の長寿番組となる）。ただし、ロゴは『みんなのニュース』に準じた書体と配色の欧文で『**UMK Super News**』表記に変更し、スタジオセットも緑を基調としたデザインにリニューアルした。テーマ曲は『みんなのニュース』各年度と同じものを使用した。
+[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")の地上デジタル放送の試験放送開始からハイビジョン制作となり、[2015年](../Page/2015年.md "wikilink")3月30日より、FNN系列の新たな夕方ニュースとして『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』がスタートするも、系列局で唯一番組タイトルを変更せずに継続（これによりFNN系列の平日の夕方ニュース番組では最も最古の長寿番組となる）。ただし、ロゴは『みんなのニュース』に準じた書体と配色の欧文で『**UMK Super News**』表記に変更し、スタジオセットも緑を基調としたデザインにリニューアルした。テーマ曲は『みんなのニュース』各年度と同じものを使用した。
 
 [2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より、FNN系列の新たな夕方ニュースとして『[プライムニュース イブニング](https://ja.wikipedia.org/wiki/プライムニュース_イブニング "wikilink")』がスタートするも、今回も番組タイトルを変更せずに継続し、放送開始20周年を迎える。同時に放送時間を1分繰り上げ16:49スタートとなった。ロゴは『プライムニュース』に準じた書体と配色に、テーマ曲も同番組と同じもの（タイトルコールなし）再変更された。その後、スタジオセットも緑を基調としたデザインから配色を変えた。
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   - [瀬良有里奈](https://ja.wikipedia.org/wiki/瀬良有里奈 "wikilink")
-  - [福盛和男](https://ja.wikipedia.org/wiki/福盛和男 "wikilink")
+  - [福盛和男](../Page/福盛和男.md "wikilink")
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 ## 過去の出演者
 
-  - [南出雅之](https://ja.wikipedia.org/wiki/南出雅之 "wikilink")（メインキャスター、2007年3月30日まで担当）
+  - [南出雅之](../Page/南出雅之.md "wikilink")（メインキャスター、2007年3月30日まで担当）
   - [高橋巨典](../Page/高橋巨典.md "wikilink")（メインキャスター、2012年3月30日まで担当）
   - [榎木田朱美](../Page/榎木田朱美.md "wikilink")（メインキャスター、2014年3月28日まで担当）
   - [荒尾茉紀](https://ja.wikipedia.org/wiki/荒尾茉紀 "wikilink")（メインキャスター、2019年9月27日まで担当。）
@@ -91,8 +91,8 @@
   - [鶴衛真理](https://ja.wikipedia.org/wiki/鶴衛真理 "wikilink")（スポーツキャスター担当）
   - [利国理砂](https://ja.wikipedia.org/wiki/利国理砂 "wikilink")（スポーツキャスター担当）
   - [増田明美](https://ja.wikipedia.org/wiki/増田明美_\(アナウンサー\) "wikilink")（スポーツキャスター担当）
-  - [池田麻里子](https://ja.wikipedia.org/wiki/池田麻里子 "wikilink")（スポーツキャスター担当、2007年2月1日まで担当）
-  - [首藤真吾](https://ja.wikipedia.org/wiki/首藤真吾 "wikilink")（スポーツキャスター、2012年3月30日まで担当）
+  - [池田麻里子](../Page/池田麻里子.md "wikilink")（スポーツキャスター担当、2007年2月1日まで担当）
+  - [首藤真吾](../Page/首藤真吾.md "wikilink")（スポーツキャスター、2012年3月30日まで担当）
   - 児玉泰一郎（スポーツキャスター、2012年3月28日まで担当）
   - 武田華奈（スポーツキャスター、2014年3月28日まで担当）
   - [迫田訓光](https://ja.wikipedia.org/wiki/s@ko "wikilink")（スポーツキャスター・みやざきふるさと中継、2015年10月30日まで担当）
@@ -158,10 +158,10 @@
 
   - 1970年4月1日開局 - 1975年3月29日 『[UMKローカルニュース](https://ja.wikipedia.org/wiki/UMKローカルニュース "wikilink")』
   - 1975年3月31日 - 1975年9月27日 『[UMKニュース6:45](https://ja.wikipedia.org/wiki/UMKニュース6:45 "wikilink")』
-  - 1975年9月29日 - 1979年9月28日 『[UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")』
-  - 1979年10月1日 - 1988年4月15日 『[UMKニュースレポート](https://ja.wikipedia.org/wiki/UMKニュースレポート "wikilink")』（月-金曜）
-  - 1988年4月18日 - 1992年3月31日 『[UMKニュースリポート](https://ja.wikipedia.org/wiki/UMKニュースリポート "wikilink")』（月-金曜）
-  - 1992年4月1日 - 1997年3月30日 『[UMKスーパータイム](https://ja.wikipedia.org/wiki/UMKスーパータイム "wikilink")』
+  - 1975年9月29日 - 1979年9月28日 『[UMKニュース](../Page/UMKニュース.md "wikilink")』
+  - 1979年10月1日 - 1988年4月15日 『[UMKニュースレポート](../Page/UMKニュースレポート.md "wikilink")』（月-金曜）
+  - 1988年4月18日 - 1992年3月31日 『[UMKニュースリポート](../Page/UMKニュースリポート.md "wikilink")』（月-金曜）
+  - 1992年4月1日 - 1997年3月30日 『[UMKスーパータイム](../Page/UMKスーパータイム.md "wikilink")』
   - 1997年3月31日 - 1998年3月29日 『UMKニュース ザ・ヒューマン』
   - 1998年3月30日 - 現在 『FNN UMKスーパーニュース』（月-金曜）
   - 1998年4月4日 - 2001年4月1日 『UMKスーパーニュース FNN』（週末）
@@ -175,7 +175,7 @@
 
 ## 関連項目
 
-  - [UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")
+  - [UMKニュース](../Page/UMKニュース.md "wikilink")
   - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
   - [みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")

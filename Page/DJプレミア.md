@@ -14,11 +14,11 @@
 
 ## 1990年代
 
-サンプリングした元ネタをさらに細かく切り刻み再構築する「チョップ（Chop）」という技法を開発し、ギャング・スター、ジェルー・ザ・ダマジャ（Jeru the Damaja）、グループホーム（Group Home）、M.O.P.、[ジェイ・Z](https://ja.wikipedia.org/wiki/ジェイ・Z "wikilink")、Big-L、[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")、[ナズ](../Page/ナズ.md "wikilink")、Buckshot Le Fonqueなど数多くのアーティストたちの楽曲を手がけ、ヒップホップ界に一時代を築いた。
+サンプリングした元ネタをさらに細かく切り刻み再構築する「チョップ（Chop）」という技法を開発し、ギャング・スター、ジェルー・ザ・ダマジャ（Jeru the Damaja）、グループホーム（Group Home）、M.O.P.、[ジェイ・Z](../Page/ジェイ・Z.md "wikilink")、Big-L、[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")、[ナズ](../Page/ナズ.md "wikilink")、Buckshot Le Fonqueなど数多くのアーティストたちの楽曲を手がけ、ヒップホップ界に一時代を築いた。
 
 ## 2000年代
 
-自身が所属するギャング・スターのみならず、[クリスティーナ・アギレラ](https://ja.wikipedia.org/wiki/クリスティーナ・アギレラ "wikilink")、アフー・ラ（Afu-Ra）、ロイス・ダ・ファイブ・ナイン（Royce Da 5'9"）、テフロン（Teflon）など、メインストリームや[アンダーグラウンドを問わない精力的な](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\)#文化としてのアンダーグラウンド "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")活動を続ける。また **Year Round Records** というレーベルも立ち上げ、かねてからの念願だった 「自分のレコードレーベルを持つ」 という夢も叶えている。DJプレミアが手がけた楽曲は、[リミックス](../Page/リミックス.md "wikilink")を含めるとおよそ500曲に及ぶ。
+自身が所属するギャング・スターのみならず、[クリスティーナ・アギレラ](../Page/クリスティーナ・アギレラ.md "wikilink")、アフー・ラ（Afu-Ra）、ロイス・ダ・ファイブ・ナイン（Royce Da 5'9"）、テフロン（Teflon）など、メインストリームや[アンダーグラウンドを問わない精力的な](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\)#文化としてのアンダーグラウンド "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")活動を続ける。また **Year Round Records** というレーベルも立ち上げ、かねてからの念願だった 「自分のレコードレーベルを持つ」 という夢も叶えている。DJプレミアが手がけた楽曲は、[リミックス](../Page/リミックス.md "wikilink")を含めるとおよそ500曲に及ぶ。
 ライブでは原曲のまま、生スクラッチを披露する。
 
 ## 公演
@@ -29,7 +29,7 @@
       - 「DJ PREMIER JAPAN TOUR '07」
   - 2010年
       - 「Manhattan Records 30th Anniversary exclusive event DJ Premier VS Pete Rock　- A Legendary DJ Battle」
-          - [ピート・ロック](https://ja.wikipedia.org/wiki/ピート・ロック "wikilink")との対決形式のライブ。
+          - [ピート・ロック](../Page/ピート・ロック.md "wikilink")との対決形式のライブ。
   - 2015年
       - 「DJプレミア with LIVE BAND plays HIPHOP CLASSICS」
           - 初のバンドセットでのライブ。

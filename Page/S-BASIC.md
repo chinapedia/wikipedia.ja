@@ -7,7 +7,7 @@
 
 標準添付のBASICが本体内蔵のMicrosoft系の[ROM-BASIC](../Page/ROM-BASIC.md "wikilink")が殆どだった時代に、MZシリーズでは、システムをROMとして持たない設計ゆえに[テープ](../Page/テープ.md "wikilink")[メディア](../Page/メディア.md "wikilink")で本体に標準添付されていた。
 
-[グラフィックス](https://ja.wikipedia.org/wiki/グラフィックス "wikilink")描画命令など、本体に搭載されている機能をほぼ全て使うことは出来たが、同時期の[Microsoft BASICに比べると](https://ja.wikipedia.org/wiki/Microsoft_BASIC "wikilink")[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")操作用の[関数などの機能が弱く予約語が少なかったため](https://ja.wikipedia.org/wiki/サブルーチン#関数 "wikilink")、同等の処理を行うためにはサブルーチンに分割しなければならないケースもあった。予約語の少なさゆえにマイクロソフト系のBASICに比べると単純な動作についての実行速度は速く、変数は逐次処理されることから、他のBASICの処理系に見られるガベージコレクションは存在せず、フリーエリアも多く取れる傾向にあった。 ベースとなる命令セットは初代機である[MZ-80K](https://ja.wikipedia.org/wiki/MZ-80K "wikilink")に影響も与えた[PET 2001に由来する物である](https://ja.wikipedia.org/wiki/PET_2001 "wikilink")。
+[グラフィックス](https://ja.wikipedia.org/wiki/グラフィックス "wikilink")描画命令など、本体に搭載されている機能をほぼ全て使うことは出来たが、同時期の[Microsoft BASICに比べると](../Page/Microsoft_BASIC.md "wikilink")[文字列](../Page/文字列.md "wikilink")操作用の[関数などの機能が弱く予約語が少なかったため](https://ja.wikipedia.org/wiki/サブルーチン#関数 "wikilink")、同等の処理を行うためにはサブルーチンに分割しなければならないケースもあった。予約語の少なさゆえにマイクロソフト系のBASICに比べると単純な動作についての実行速度は速く、変数は逐次処理されることから、他のBASICの処理系に見られるガベージコレクションは存在せず、フリーエリアも多く取れる傾向にあった。 ベースとなる命令セットは初代機である[MZ-80K](https://ja.wikipedia.org/wiki/MZ-80K "wikilink")に影響も与えた[PET 2001に由来する物である](../Page/PET_2001.md "wikilink")。
 
 音程を制御する[MMLの文法もMicrosoft系の多くが採用した物と異なり](../Page/Music_Macro_Language.md "wikilink")、音長を0〜9の引数で渡し、連符の表現はできない物だった。
 

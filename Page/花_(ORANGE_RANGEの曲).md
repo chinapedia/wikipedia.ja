@@ -1,17 +1,17 @@
 > この記事は[ \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/_\(ORANGE_RANGE\))から翻訳されています。
 
 
-「**花**」（はな）は、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")（平成16年）[10月20日](../Page/10月20日.md "wikilink")に[gr8\! recordsから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+「**花**」（はな）は、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")（平成16年）[10月20日](../Page/10月20日.md "wikilink")に[gr8\! recordsから発売された](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 ## 解説
 
-  - [オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位。以来通算4週1位を獲得（連続ではなく、3週目は1位とは3000枚差で2位）。オリコンシングルチャートの集計開始以来899曲目の1位獲得であった。また、6週連続売り上げ10万枚突破。
+  - [オリコン初登場](../Page/オリコンチャート.md "wikilink")1位。以来通算4週1位を獲得（連続ではなく、3週目は1位とは3000枚差で2位）。オリコンシングルチャートの集計開始以来899曲目の1位獲得であった。また、6週連続売り上げ10万枚突破。
   - 2004年（平成16年）オリコン年間シングル売り上げランキング4位。累計売り上げ枚数では上位3組を抜いている。2005年（平成17年）オリコン年間シングル売り上げランキング21位。
   - ORANGE RANGEのシングルとしては初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")（プラネットの集計及び出荷枚数\[1\]）となり、シングル売上では最大のヒット曲となった。しかし、オリコン集計での売り上げ枚数は99.9万枚でわずかにミリオンに届いていない。
-  - 初出場を果たした『[第55回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")』では同曲ではなく「[ロコローション](https://ja.wikipedia.org/wiki/ロコローション "wikilink")」が選曲された。
+  - 初出場を果たした『[第55回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")』では同曲ではなく「[ロコローション](../Page/ロコローション.md "wikilink")」が選曲された。
   - NAOTOのクレジット欄は｢synthesizer,other instrumental,guitar｣だった。
   - この作品から[レーベルゲートCDではなくなった](../Page/コピーコントロールCD.md "wikilink")。
-  - 第4回[MTV Video Music Awards Japan](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink") 2005 Best Video of the Yearを受賞した。
+  - 第4回[MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink") 2005 Best Video of the Yearを受賞した。
 
 ## 収録曲
 
@@ -19,16 +19,16 @@
 
 1.  **花** \[4:13\]
       -
-        [竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")・[中村獅童主演の映画](../Page/中村獅童_\(2代目\).md "wikilink")『[いま、会いにゆきます](https://ja.wikipedia.org/wiki/いま、会いにゆきます "wikilink")』の主題歌。
+        [竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")・[中村獅童主演の映画](../Page/中村獅童_\(2代目\).md "wikilink")『[いま、会いにゆきます](../Page/いま、会いにゆきます.md "wikilink")』の主題歌。
         「泣けるレンジ」がキャッチコピーの元、作られた。
         初めは、[RYOのソロ曲として](../Page/RYO_\(ORANGE_RANGE\).md "wikilink")『[musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")』に収録する予定だった曲で、RYOが歌詞を書いていた。その際に『最初に書いた歌詞は前向きな感じではなかった』と語っており、のちにシングル化するにあたってYAMATOとHIROKIのそれぞれが前向きなイメージで作詞されたものが使われている。
         HIROKIはレコーディングする際、わざと声を嗄らすために[キムチ](../Page/キムチ.md "wikilink")をいっぱい食べたと語っている。また、レコーディングの最中バイオリニストと意見が食い違いしたため、かなりレコーディングの時間がかかったとも語っている。
         オリコン[カラオケ](../Page/カラオケ.md "wikilink")チャートでは42週連続を含む通算43週1位（2004年11月29日付〜2005年9月12日付、2005年10月10日付）を獲得。42週連続は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の「[ヘビーローテーション](https://ja.wikipedia.org/wiki/ヘビーローテーション_\(曲\) "wikilink")」に抜かれるまでは歴代1位の記録だった。通算43週は「[女々しくて](https://ja.wikipedia.org/wiki/女々しくて "wikilink")」（[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")）「ヘビーローテーション」「[キセキ](https://ja.wikipedia.org/wiki/キセキ_\(GReeeeNの曲\) "wikilink")」（[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")）に次ぐ歴代4位。
         『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』の出場者選考アンケート『[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")』では白組2位（しかし、地元[沖縄でのカウントダウンコンサート優先で出場辞退](../Page/沖縄県.md "wikilink")）。
         秋に発売されたが、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』などの「春うた」ランキングで、上位によくランクインする。
-        『[Squeezed](https://ja.wikipedia.org/wiki/Squeezed "wikilink")』にリミックスバージョンが収録されている。
+        『[Squeezed](../Page/Squeezed.md "wikilink")』にリミックスバージョンが収録されている。
         [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月24日](../Page/11月24日.md "wikilink")に、[Safarii](https://ja.wikipedia.org/wiki/Safarii "wikilink")が同曲をサンプリングした「HANA 〜キミに出逢えたキセキ〜」を発表。
-        PVはオリジナルバージョンとオリジナルに『いま、会いにゆきます』のシーンが挿入されたバージョンの2つ存在し、前者はDVD「[ヴィデヲ・DE・リサイタル](https://ja.wikipedia.org/wiki/ヴィデヲ・DE・リサイタル "wikilink")」、ベストアルバム「[裏 SHOPPING](https://ja.wikipedia.org/wiki/裏_SHOPPING "wikilink")」と「[ALL the SINGLES](https://ja.wikipedia.org/wiki/ALL_the_SINGLES "wikilink")」のそれぞれ初回限定版のDVDに収録されている。後者のPVは[JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")及び[DAM](https://ja.wikipedia.org/wiki/DAM "wikilink")のカラオケ映像で見ることができる。
+        PVはオリジナルバージョンとオリジナルに『いま、会いにゆきます』のシーンが挿入されたバージョンの2つ存在し、前者はDVD「[ヴィデヲ・DE・リサイタル](../Page/ヴィデヲ・DE・リサイタル.md "wikilink")」、ベストアルバム「[裏 SHOPPING](https://ja.wikipedia.org/wiki/裏_SHOPPING "wikilink")」と「[ALL the SINGLES](https://ja.wikipedia.org/wiki/ALL_the_SINGLES "wikilink")」のそれぞれ初回限定版のDVDに収録されている。後者のPVは[JOYSOUND](../Page/JOYSOUND.md "wikilink")及び[DAM](https://ja.wikipedia.org/wiki/DAM "wikilink")のカラオケ映像で見ることができる。
 2.  **花想**
       -
         1曲目とは同じ「花」をテーマにした曲だが、まったく別物のダウナーな曲に仕上がっている。作っている途中でどんどん暗くしていこうという意向で作曲された。
@@ -38,12 +38,12 @@
 
 ## タイアップ
 
-  - 映画「[いま、会いにゆきます](https://ja.wikipedia.org/wiki/いま、会いにゆきます "wikilink")」主題歌 (M-1)
+  - 映画「[いま、会いにゆきます](../Page/いま、会いにゆきます.md "wikilink")」主題歌 (M-1)
   - [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") CMソング (M-1)
 
 ## カバー
 
-  - [大山百合香](https://ja.wikipedia.org/wiki/大山百合香 "wikilink") 『COVERS FOR LOVERS ～Yurika Sings J Love Songs～』1曲目収録（2008年4月23日）
+  - [大山百合香](../Page/大山百合香.md "wikilink") 『COVERS FOR LOVERS ～Yurika Sings J Love Songs～』1曲目収録（2008年4月23日）
   - [SISTER KAYA](https://ja.wikipedia.org/wiki/SISTER_KAYA "wikilink") 『たからものベスト』9曲目収録（2008年9月24日）
   - [DJ SASA with THE ISLANDERS](https://ja.wikipedia.org/wiki/DJ_SASA_with_THE_ISLANDERS "wikilink") 『ラブソンちゅ』1曲目収録（2012年2月8日）
   - [BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink") 『BRIGHT』12曲目収録（2012年3月21日）

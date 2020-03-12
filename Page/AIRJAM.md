@@ -6,15 +6,15 @@
 ## 概要
 
   - [2002年](../Page/2002年.md "wikilink")（平成14年）4月、それまでオンエアされていた「[MOVE ON DATE ×××](https://ja.wikipedia.org/wiki/MOVE_ON_DATE_××× "wikilink")」（13:00 - 16:00）、「[Super Freaks](https://ja.wikipedia.org/wiki/Super_Freaks "wikilink")」（17:00 - 19:55）を統合する形でスタート。開始当時は、「**全国有数の長時間ワイドプログラム**」をうたっていた。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月より、金曜日は独立した番組「'''AIRJAM Friday」に。（本稿では、併せて扱う。）
-  - スタジオはDate fm本社（[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")[本町](../Page/本町_\(仙台市\).md "wikilink")）の第3スタジオ（通称：[銀杏坂スタジオ](https://ja.wikipedia.org/wiki/愛宕上杉通 "wikilink")）
+  - [2005年](../Page/2005年.md "wikilink")4月より、金曜日は独立した番組「'''AIRJAM Friday」に。（本稿では、併せて扱う。）
+  - スタジオはDate fm本社（[仙台市](../Page/仙台市.md "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")[本町](../Page/本町_\(仙台市\).md "wikilink")）の第3スタジオ（通称：[銀杏坂スタジオ](https://ja.wikipedia.org/wiki/愛宕上杉通 "wikilink")）
   - 2007年4月より、木曜日放送分の一部BGMが変更になった。
   - 5年と半年という長い間、Date fmの午後の看板番組として放送されてきたが、[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")をもって月曜 - 木曜の放送と後述のAIRJAM Nightが終了。後番組は「[J-SIDE STATION](https://ja.wikipedia.org/wiki/J-SIDE_STATION "wikilink")」。
   - [2011年](../Page/2011年.md "wikilink")3月11日 14:46に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のためこの日の放送を打ち切り、以降の内容を特別番組に変更した。
 
 ## 放送時間
 
-  - 放送開始 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月：平日 13:00 - 18:30
+  - 放送開始 - [2005年](../Page/2005年.md "wikilink")3月：平日 13:00 - 18:30
   - 2005年4月 - [2007年](../Page/2007年.md "wikilink")9月：月曜 - 木曜 13:30 - 16:25、金曜：13:30 - 18:30
   - 2007年10月 - [2011年](../Page/2011年.md "wikilink")12月：毎週金曜 13:00 - 18:55
   - [2012年](../Page/2012年.md "wikilink")1月 - 現在：毎週金曜 13:00 - 18:30
@@ -54,7 +54,7 @@
   - **14:25**　JAM STAGE \#1
       - ゲストがいる場合はこの時間に出演する\[1\]。
   - **14:50**　JFNラジオショッピング
-  - **14:55**　[MY OLYMPIC α](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")（JFNフルネット）
+  - **14:55**　[MY OLYMPIC α](../Page/MY_OLYMPIC.md "wikilink")（JFNフルネット）
 
 （15時台）
 
@@ -103,7 +103,7 @@
 
   - **14:10**　Datefm Traffic
   - **14:25**　JAM STAGE \#1
-  - **14:50**　[FMラジオショッピング](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink")
+  - **14:50**　[FMラジオショッピング](../Page/FM_Radio_Shopping.md "wikilink")
   - **14:55**　[House of Essnce](https://ja.wikipedia.org/wiki/House_of_Essnce "wikilink")（JFNネット）
 
 （15時台）

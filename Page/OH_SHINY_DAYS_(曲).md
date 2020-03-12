@@ -5,7 +5,7 @@
 
 ## 内容
 
-1枚目のシングル「[LEAVE ME ALONE](https://ja.wikipedia.org/wiki/LEAVE_ME_ALONE "wikilink")」のカップリング「SUMMER DAYS」の歌詞を大幅に変更した楽曲。TWINZER最大のヒット曲で、「SUMMER DAYS」同様、[大塚製薬](../Page/大塚製薬.md "wikilink")「ファイブ・ミニ」CMソング。後に[織田哲郎](../Page/織田哲郎.md "wikilink")がアルバム『[Songs](../Page/Songs_\(織田哲郎のアルバム\).md "wikilink")』にてセルフカバーしており、[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")がコーラスで参加している。また、後にアルバムのタイトル曲となった。なお、カップリングの「THAT'S CRAZY」は生沢がTWINZERとして、初めて作曲を手がけた楽曲である。
+1枚目のシングル「[LEAVE ME ALONE](../Page/LEAVE_ME_ALONE.md "wikilink")」のカップリング「SUMMER DAYS」の歌詞を大幅に変更した楽曲。TWINZER最大のヒット曲で、「SUMMER DAYS」同様、[大塚製薬](../Page/大塚製薬.md "wikilink")「ファイブ・ミニ」CMソング。後に[織田哲郎](../Page/織田哲郎.md "wikilink")がアルバム『[Songs](../Page/Songs_\(織田哲郎のアルバム\).md "wikilink")』にてセルフカバーしており、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")がコーラスで参加している。また、後にアルバムのタイトル曲となった。なお、カップリングの「THAT'S CRAZY」は生沢がTWINZERとして、初めて作曲を手がけた楽曲である。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 <!-- end list -->
 
   - [葉山たけし](../Page/葉山たけし.md "wikilink") - ギター
-  - [上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink") ([WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")) - コーラス
-  - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") ([Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")) - コーラス
+  - [上杉昇](../Page/上杉昇.md "wikilink") ([WANDS](../Page/WANDS.md "wikilink")) - コーラス
+  - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") ([Mi-Ke](../Page/Mi-Ke.md "wikilink")) - コーラス
 
 [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:TWINZERの楽曲](https://ja.wikipedia.org/wiki/Category:TWINZERの楽曲 "wikilink") [Category:炭酸飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:炭酸飲料のコマーシャルソング "wikilink") [Category:小田佳奈子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小田佳奈子が制作した楽曲 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

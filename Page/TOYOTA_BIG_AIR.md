@@ -5,11 +5,11 @@
 
 ## 概要
 
-[国際スノーボード連盟](https://ja.wikipedia.org/wiki/国際スノーボード連盟 "wikilink")（ISF、現在は解散）公認のストレートジャンプコンテストとして、1997年に[真駒内屋外競技場](../Page/真駒内屋外競技場.md "wikilink")（真駒内オープンスタジアム）で第1回大会を開催。[2011年](../Page/2011年.md "wikilink")の第15回大会まで、同スタジアム（[2007年](../Page/2007年.md "wikilink")4月以降の名称は「真駒内[セキスイハイム](https://ja.wikipedia.org/wiki/セキスイハイム "wikilink")スタジアム」）を使用していた。同スタジアムが[札幌オリンピック](https://ja.wikipedia.org/wiki/1972年札幌オリンピック "wikilink")（[1972年](../Page/1972年.md "wikilink")）の開会式に使われていたことから、第1回大会では、同オリンピック以来25年振りに聖火を聖火台で点灯。その一方で、開催年によっては、大会期間中に強風や降雪に見舞われることがあった。
+[国際スノーボード連盟](https://ja.wikipedia.org/wiki/国際スノーボード連盟 "wikilink")（ISF、現在は解散）公認のストレートジャンプコンテストとして、1997年に[真駒内屋外競技場](../Page/真駒内屋外競技場.md "wikilink")（真駒内オープンスタジアム）で第1回大会を開催。[2011年](../Page/2011年.md "wikilink")の第15回大会まで、同スタジアム（[2007年](../Page/2007年.md "wikilink")4月以降の名称は「真駒内[セキスイハイム](../Page/セキスイハイム.md "wikilink")スタジアム」）を使用していた。同スタジアムが[札幌オリンピック](https://ja.wikipedia.org/wiki/1972年札幌オリンピック "wikilink")（[1972年](../Page/1972年.md "wikilink")）の開会式に使われていたことから、第1回大会では、同オリンピック以来25年振りに聖火を聖火台で点灯。その一方で、開催年によっては、大会期間中に強風や降雪に見舞われることがあった。
 
 [2012年](../Page/2012年.md "wikilink")の第16回大会からは、「フルモデルチェンジ」をコンセプトに、風や天候の影響を受けない[札幌ドーム](../Page/札幌ドーム.md "wikilink")で実施。同ドームでの開催期間中は、アリーナ上に高さ36mのストレートジャンプ台を仮設したうえで、5tトラック400台分に相当する量の雪をジャンプ台やランディングゾーン（着地点）に敷き詰めている。
 
-大会は、予選および本戦の2日間にわたって開催。大会期間中には、札幌市内で、参加選手を交えてのライブイベントやフェアウェルパーティーも開かれる。また、第16回大会では、[初音ミク](../Page/初音ミク.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")企画「TOYOTA BIG AIR×初音ミク」を展開。第18回大会（[2014年](../Page/2014年.md "wikilink")）では、北海道初上陸の[ふなっしー](https://ja.wikipedia.org/wiki/ふなっしー "wikilink")（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")の非公認キャラクター）、大会のダイジェスト番組（[後述](https://ja.wikipedia.org/wiki/#放送 "wikilink")）を制作する[北海道テレビ](https://ja.wikipedia.org/wiki/北海道テレビ "wikilink")のキャラクター・[onちゃん](https://ja.wikipedia.org/wiki/onちゃん "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内各地の30体以上の[ゆるキャラ](https://ja.wikipedia.org/wiki/ゆるキャラ "wikilink")による「ご当地キャラクタービーチフラッグ選手権」を競技の合間に札幌ドームで開催した。
+大会は、予選および本戦の2日間にわたって開催。大会期間中には、札幌市内で、参加選手を交えてのライブイベントやフェアウェルパーティーも開かれる。また、第16回大会では、[初音ミク](../Page/初音ミク.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")企画「TOYOTA BIG AIR×初音ミク」を展開。第18回大会（[2014年](../Page/2014年.md "wikilink")）では、北海道初上陸の[ふなっしー](https://ja.wikipedia.org/wiki/ふなっしー "wikilink")（[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")の非公認キャラクター）、大会のダイジェスト番組（[後述](https://ja.wikipedia.org/wiki/#放送 "wikilink")）を制作する[北海道テレビ](https://ja.wikipedia.org/wiki/北海道テレビ "wikilink")のキャラクター・[onちゃん](https://ja.wikipedia.org/wiki/onちゃん "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内各地の30体以上の[ゆるキャラ](../Page/ゆるキャラ.md "wikilink")による「ご当地キャラクタービーチフラッグ選手権」を競技の合間に札幌ドームで開催した。
 
 ## 大会の方式
 
@@ -24,7 +24,7 @@
   - なお上位4人がケガなどで出場できない場合は5位以下の選手が繰り上がり出場する。また、本戦に出場する招待選手がやはりケガなどで出場できない場合も繰り上がり出場となるケースがある。
   - なお、順位同点により、出場選手が確定できない場合は、得点合計の順番に沿って高い選手が上位に扱われ、それでも同点の場合1本のプレーオフ試技を行って最終的な順位を決める。
   - 1本目の試技順は予選の前日に行う抽選により決定。2本目は1本目の成績の下位の選手から順番に行う。但し1本目同点の場合は1本目の試技順に沿って行う。
-  - 2009年からは、札幌市の中心街にある[大通公園](../Page/大通公園.md "wikilink")内に札幌ドームと同様のストレートジャンプ台を設置したうえで、2月上旬の「[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")」期間中に「[PARK AIR](https://ja.wikipedia.org/wiki/白い恋人#白い恋人_PARK_AIR "wikilink")」（[白い恋人](https://ja.wikipedia.org/wiki/白い恋人 "wikilink")の協賛による1次予選会）を実施。この予選会を通過した選手と主催者推薦枠で参加する選手の間で、本戦への出場権を争う形になった。
+  - 2009年からは、札幌市の中心街にある[大通公園](../Page/大通公園.md "wikilink")内に札幌ドームと同様のストレートジャンプ台を設置したうえで、2月上旬の「[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")」期間中に「[PARK AIR](https://ja.wikipedia.org/wiki/白い恋人#白い恋人_PARK_AIR "wikilink")」（[白い恋人](../Page/白い恋人.md "wikilink")の協賛による1次予選会）を実施。この予選会を通過した選手と主催者推薦枠で参加する選手の間で、本戦への出場権を争う形になった。
 
 ### 本戦
 
@@ -47,7 +47,7 @@
 
 ### 賞金
 
-以下は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・第10回大会のもの。但し予選の段階で棄権（失格）となった場合は賞金支給されない。
+以下は[2006年](../Page/2006年.md "wikilink")・第10回大会のもの。但し予選の段階で棄権（失格）となった場合は賞金支給されない。
 
   - 賞金総額10万ドル
   - 優勝2万5000ドル
@@ -68,8 +68,8 @@
   - 第6回（[2002年](../Page/2002年.md "wikilink")）：[ショーン・ホワイト](../Page/ショーン・ホワイト.md "wikilink")（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")） - 当時15歳。
   - 第7回（[2003年](../Page/2003年.md "wikilink")）：ロジャー・ヘルムスタンドセン（[ノルウェー](../Page/ノルウェー.md "wikilink")）
   - 第8回（[2004年](../Page/2004年.md "wikilink")）：マーク・アンドレ・タルト（カナダ）- スーパーファイナルの2本目で、大会史上初めて3回転半の大技を披露。
-  - 第9回（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）：イェロ・エッタラ（[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")）- 第8回大会で準優勝。初めてノックダウン形式を採用したスーパーファイナルの2本目で、「ダブルバックフリップ」の成功によって、当時の大会史上最高得点（277ポイント）を記録。
-  - 第10回（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）：ニコラス・ミューラー（スイス）
+  - 第9回（[2005年](../Page/2005年.md "wikilink")）：イェロ・エッタラ（[フィンランド](../Page/フィンランド.md "wikilink")）- 第8回大会で準優勝。初めてノックダウン形式を採用したスーパーファイナルの2本目で、「ダブルバックフリップ」の成功によって、当時の大会史上最高得点（277ポイント）を記録。
+  - 第10回（[2006年](../Page/2006年.md "wikilink")）：ニコラス・ミューラー（スイス）
   - 第11回（[2007年](../Page/2007年.md "wikilink")）：ケビン・ピアース（アメリカ）- 初めて「さっぽろ雪まつり」の期間中に開催。初出場ながら、スーパーファイナルの2本目で当時の大会史上最高得点（290ポイント）を記録して初優勝。
   - 第12回（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）：アンティ・アウティ（アメリカ）
   - 第13回（[2009年](../Page/2009年.md "wikilink")）：イエロ・エッタラ（フィンランド）- 本戦の開始前に強風が吹き荒れた影響で、当初の予定より2時間遅れで本戦を開始。競技時間を短縮するため、決勝ではトーナメントではなく、急遽ベストポイント方式にルールを変更した。
@@ -87,16 +87,16 @@
 ## 放送
 
   - 地上波テレビでは、大会主催の[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）が、大会と同名のダイジェスト番組を毎年制作。[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")24局ネット・TOYOTAの筆頭提供番組として、大会後に日曜日の深夜枠で放送される。
-      - 北海道や[ウィンタースポーツ](https://ja.wikipedia.org/wiki/ウィンタースポーツ "wikilink")に縁のある著名人を、年替わりでナビゲーターやスペシャルゲストに招くことが特徴。第18回大会のダイジェスト番組（[2014年](../Page/2014年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")放送）では、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")をスペシャルゲストに迎えた。近年の放送では[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")がナビゲーターを務めていたが、2014年のダイジェスト番組では趣向を一新。毎年合宿に臨むほど、スノーボードに対する造詣の深い[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")が、ナビゲーターと平岡・角野へのインタビュアーを務めた。
+      - 北海道や[ウィンタースポーツ](../Page/ウィンタースポーツ.md "wikilink")に縁のある著名人を、年替わりでナビゲーターやスペシャルゲストに招くことが特徴。第18回大会のダイジェスト番組（[2014年](../Page/2014年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")放送）では、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")をスペシャルゲストに迎えた。近年の放送では[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")がナビゲーターを務めていたが、2014年のダイジェスト番組では趣向を一新。毎年合宿に臨むほど、スノーボードに対する造詣の深い[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")が、ナビゲーターと平岡・角野へのインタビュアーを務めた。
       - 過去の主な出演者
-          - [ライセンス](https://ja.wikipedia.org/wiki/ライセンス_\(お笑いコンビ\) "wikilink")・[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
+          - [ライセンス](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")・[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
           - [トータルテンボス](../Page/トータルテンボス.md "wikilink")・[永井大](../Page/永井大.md "wikilink")（[2011年](../Page/2011年.md "wikilink")）
-          - [タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")・[大島麻衣](https://ja.wikipedia.org/wiki/大島麻衣 "wikilink")（[2012年](../Page/2012年.md "wikilink")）
+          - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")・[大島麻衣](../Page/大島麻衣.md "wikilink")（[2012年](../Page/2012年.md "wikilink")）
           - [平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")・[鈴木奈々](https://ja.wikipedia.org/wiki/鈴木奈々 "wikilink")（[2013年](../Page/2013年.md "wikilink")）
-      - 競技の実況については、HTBのアナウンサーが代々担当している（2014年時点では[谷口直樹](https://ja.wikipedia.org/wiki/谷口直樹 "wikilink")）。
-      - 第14回大会（2010年）のダイジェスト番組では、冬季オリンピックに出場した日本人選手では史上最年少のメダリストである[平野歩夢](https://ja.wikipedia.org/wiki/平野歩夢 "wikilink")（ソチオリンピック男子スノーボード・ハーフパイプ種目銀メダリスト）が10歳（当時）で同種目の練習に取り組む模様を、ライセンスによる横根スキー場（[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")）での取材映像を通じて紹介した。もっとも、2014年の時点で、平野には当大会への出場経験がない。
+      - 競技の実況については、HTBのアナウンサーが代々担当している（2014年時点では[谷口直樹](../Page/谷口直樹.md "wikilink")）。
+      - 第14回大会（2010年）のダイジェスト番組では、冬季オリンピックに出場した日本人選手では史上最年少のメダリストである[平野歩夢](https://ja.wikipedia.org/wiki/平野歩夢 "wikilink")（ソチオリンピック男子スノーボード・ハーフパイプ種目銀メダリスト）が10歳（当時）で同種目の練習に取り組む模様を、ライセンスによる横根スキー場（[山形県](../Page/山形県.md "wikilink")）での取材映像を通じて紹介した。もっとも、2014年の時点で、平野には当大会への出場経験がない。
   - [CS](../Page/CS.md "wikilink")では[スカイ・A sports+で放送](../Page/スカイ・エー.md "wikilink")。
-  - またHTBの『[NO MATTER BOARD](https://ja.wikipedia.org/wiki/NO_MATTER_BOARD "wikilink")』でも、大会の舞台裏や同番組枠の招待選手の様子を中心としたダイジェストを放送する。
+  - またHTBの『[NO MATTER BOARD](../Page/NO_MATTER_BOARD.md "wikilink")』でも、大会の舞台裏や同番組枠の招待選手の様子を中心としたダイジェストを放送する。
   - 地元[FM局の](https://ja.wikipedia.org/wiki/FM放送 "wikilink")[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")では、大会のレポートを会場から中継している。
   - [2013年](../Page/2013年.md "wikilink")には、[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")による生配信を実施。[アメーバピグ](https://ja.wikipedia.org/wiki/アメーバピグ "wikilink")でも、Ustreamの配信動画を無料で配信した。
   - [2014年](../Page/2014年.md "wikilink")には、[テレ朝チャンネル2](https://ja.wikipedia.org/wiki/テレ朝チャンネル2 "wikilink")→[BS朝日のリレー形式で本戦を生中継](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")。Ustream・[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")・[YouTubeLiveでは](https://ja.wikipedia.org/wiki/YouTube#YouTube_Live "wikilink")、予選・本戦とも生配信を実施した。
@@ -131,26 +131,26 @@
 
 ## TOYOTA BIG AIR 10th Anniversary CD
 
-TBA第10回大会を記念して[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ユニバーサルミュージックから](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")が発売された（品番：UPCI-1040）。同イベントにパフォーマーとして参加したバンド・音楽アーティストの楽曲や、同イベントにマッチングしているアーティストの楽曲を収録している他、[DVD](../Page/DVD.md "wikilink")では第1回から第9回（2005年）までのダイジェスト映像が収められている。
+TBA第10回大会を記念して[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ユニバーサルミュージックから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")が発売された（品番：UPCI-1040）。同イベントにパフォーマーとして参加したバンド・音楽アーティストの楽曲や、同イベントにマッチングしているアーティストの楽曲を収録している他、[DVD](../Page/DVD.md "wikilink")では第1回から第9回（2005年）までのダイジェスト映像が収められている。
 
 ### 収録曲
 
-1.  **[FREEDOM](https://ja.wikipedia.org/wiki/BUZZING "wikilink")**（[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")）
-2.  **CLEAR**（[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")）
-3.  **KISS MY FINGER**（[SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")）
+1.  **[FREEDOM](https://ja.wikipedia.org/wiki/BUZZING "wikilink")**（[10-FEET](../Page/10-FEET.md "wikilink")）
+2.  **CLEAR**（[POTSHOT](../Page/POTSHOT.md "wikilink")）
+3.  **KISS MY FINGER**（[SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")）
 4.  **Moment I Count**（[BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink")）
-5.  **CAN'T ESCAPE THE CHOCOLATE SYRUP**（[SHAKALABBITS](https://ja.wikipedia.org/wiki/SHAKALABBITS "wikilink")）
+5.  **CAN'T ESCAPE THE CHOCOLATE SYRUP**（[SHAKALABBITS](../Page/SHAKALABBITS.md "wikilink")）
       -
         第8回（2004年）イメージソング。
 6.  **包丁・ハサミ・カッター・ナイフ・ドス・キリ**（[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")）
 7.  **[STAY GOLD](https://ja.wikipedia.org/wiki/Rookie/STAY_GOLD "wikilink")**（[FLOW](../Page/FLOW.md "wikilink")）
       -
         第9回（2005年）イメージソング。
-8.  **ちょ**（[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")）
+8.  **ちょ**（[B-DASH](../Page/B-DASH.md "wikilink")）
       -
         第7回（2003年）イメージソング。
-9.  **Merry Me**（[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")）
-10. **five O'clock at night**（[Kemuri](https://ja.wikipedia.org/wiki/Kemuri "wikilink")）
+9.  **Merry Me**（[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")）
+10. **five O'clock at night**（[Kemuri](../Page/Kemuri.md "wikilink")）
       -
         第6回（2002年）イメージソング。
 

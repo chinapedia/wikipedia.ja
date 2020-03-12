@@ -5,7 +5,7 @@
 
 ## 内容
 
-[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")在籍ラストのオリジナルアルバム。安藤芳彦がこのバンドの専属作詞家状態であった。[ラット等との仕事で知られる](https://ja.wikipedia.org/wiki/ラット_\(バンド\) "wikilink")[ボー・ヒル](https://ja.wikipedia.org/wiki/ボー・ヒル "wikilink")を[プロデューサーに起用](../Page/音楽プロデューサー.md "wikilink")。
+[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")在籍ラストのオリジナルアルバム。安藤芳彦がこのバンドの専属作詞家状態であった。[ラット等との仕事で知られる](../Page/ラット_\(バンド\).md "wikilink")[ボー・ヒル](https://ja.wikipedia.org/wiki/ボー・ヒル "wikilink")を[プロデューサーに起用](../Page/音楽プロデューサー.md "wikilink")。
 
 ## 収録曲
 

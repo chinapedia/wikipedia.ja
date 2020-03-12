@@ -11,29 +11,29 @@
 
 ## 番組の特徴
 
-収録に使用する本社第2[スタジオには](https://ja.wikipedia.org/wiki/スタジオ_\(映像撮影\) "wikilink")、カウンターバーのセットを組んでいた。通常、放送には映らないカメラ後方の部分も含め、縦約18メートル×横約15メートルに渡るスタジオ空間全体に余すことなくセットを建て込んでおり、非常に画期的なセットデザインであったと言われている。業界ではこのスタイルを「**たかじん風**」と呼ばれている。バーのセットは、春夏用の洋風と秋冬用の和風の二つのスタイルがあった。番組を立ち上げる際に、たかじんが「**中途半端なセットは絶対アカン。この番組が成功するか否かはセットにかかっている**」とまで言い切り、読売テレビの社長に直訴し、ローカル番組としては破格とも言える1500万円を掛けたバーのセットを製作させた。この条件が受け入れられたため、はじめは乗り気でなかったたかじんは、断る理由がなくなってしまったと語っている。
+収録に使用する本社第2[スタジオには](../Page/スタジオ_\(映像撮影\).md "wikilink")、カウンターバーのセットを組んでいた。通常、放送には映らないカメラ後方の部分も含め、縦約18メートル×横約15メートルに渡るスタジオ空間全体に余すことなくセットを建て込んでおり、非常に画期的なセットデザインであったと言われている。業界ではこのスタイルを「**たかじん風**」と呼ばれている。バーのセットは、春夏用の洋風と秋冬用の和風の二つのスタイルがあった。番組を立ち上げる際に、たかじんが「**中途半端なセットは絶対アカン。この番組が成功するか否かはセットにかかっている**」とまで言い切り、読売テレビの社長に直訴し、ローカル番組としては破格とも言える1500万円を掛けたバーのセットを製作させた。この条件が受け入れられたため、はじめは乗り気でなかったたかじんは、断る理由がなくなってしまったと語っている。
 
-酒は世界中から取り寄せた本物で、随時200種類以上が用意されていた（たかじんが関西限定ビールのCMに出演していた[アサヒビール](../Page/アサヒビール.md "wikilink")の協力による）。また、[バーテンダー](https://ja.wikipedia.org/wiki/バーテンダー "wikilink")には本職のバーテンダーである[金崎公三](https://ja.wikipedia.org/wiki/金崎公三 "wikilink")（祇園花見小路「アクアマリン」マスター）を起用（後述の復活特番でも出演）。金崎はたかじんとは[祇園](https://ja.wikipedia.org/wiki/祇園 "wikilink")で[弾き語り](../Page/弾き語り.md "wikilink")していた頃からの古い付き合いのあった人物であった（しかも番組の収録は金崎の店の定休日に合わせていた）。このように、番組の至るところに[水商売](https://ja.wikipedia.org/wiki/水商売 "wikilink")（弾き語り）出身のたかじんのこだわりが見られた。
+酒は世界中から取り寄せた本物で、随時200種類以上が用意されていた（たかじんが関西限定ビールのCMに出演していた[アサヒビール](../Page/アサヒビール.md "wikilink")の協力による）。また、[バーテンダー](../Page/バーテンダー.md "wikilink")には本職のバーテンダーである[金崎公三](https://ja.wikipedia.org/wiki/金崎公三 "wikilink")（祇園花見小路「アクアマリン」マスター）を起用（後述の復活特番でも出演）。金崎はたかじんとは[祇園](../Page/祇園.md "wikilink")で[弾き語り](../Page/弾き語り.md "wikilink")していた頃からの古い付き合いのあった人物であった（しかも番組の収録は金崎の店の定休日に合わせていた）。このように、番組の至るところに[水商売](../Page/水商売.md "wikilink")（弾き語り）出身のたかじんのこだわりが見られた。
 
 放送できない発言は「**ガオー**」という編集音が入り、口元に「**ガオー**」と書かれたテロップが貼られる処置が施されていた。これは同局で既に放送されていた『[鶴瓶上岡パペポTV](../Page/鶴瓶上岡パペポTV.md "wikilink")』において、[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")が放送上不適当な言葉を発した際に表示される「マル禁」テロップと、パトカーのような警戒音による**ごまかし**の手法を応用したと言われている。この編集音の「**ガオー**」が番組の名物となり、出演者からは[放送禁止用語](../Page/放送禁止用語.md "wikilink")・[暴言](../Page/暴言.md "wikilink")がでた場合は「ガオー入れといて」と言われるほどに浸透。後にこの番組のDVD-BOXのタイトルの一部にも採用されている。たかじんは収録が進むうちにヘベレケになり、編集音「**ガオー**」なしでは放送できないような発言（いわゆる[放送禁止用語](../Page/放送禁止用語.md "wikilink")またはそれに類する放送上好ましくない発言）、暴言を繰り返した。しかしながら、その過激トークの面白さが評判を呼び、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の日本テレビやその他[NNS系列局でも放送されるようにもなった](../Page/日本テレビネットワーク協議会.md "wikilink")。しかし、過激さによっては、臨時休止を行ったこともある。番組初期には、スタジオ内に[ハリセン](../Page/ハリセン.md "wikilink")が用意されており、「**ガオー**」なしでは放送できないような発言が飛び出すと、たかじん、またはほかの出演者がハリセンで頭をはたくシーンが見られた。
 
-番組は原則として2本撮りで、2本目にはたいがいたかじんは酩酊状態、もしくは泥酔に近い状態にあった。また、収録の1本目と2本目の間に夕飯で鶴橋の焼肉店で飲んでいたこともあり、収録後もさらに飲みにいっていたこともあったと言われている。カラオケセットやギターが用意されており、たかじんや出演者が歌うこともあった。よく番組の最後でたかじんが自分の持ち歌やお気に入りの[ジャズ](../Page/ジャズ.md "wikilink")・[シャンソン](https://ja.wikipedia.org/wiki/シャンソン "wikilink")を歌っていた。稀に「この番組は[乾杯\!トークそんぐ](../Page/乾杯!トークそんぐ.md "wikilink")（同時期に放送された[毎日放送](../Page/毎日放送.md "wikilink")の番組）ではありません」とテロップが流れるくらいカラオケ合戦になったこともある。
+番組は原則として2本撮りで、2本目にはたいがいたかじんは酩酊状態、もしくは泥酔に近い状態にあった。また、収録の1本目と2本目の間に夕飯で鶴橋の焼肉店で飲んでいたこともあり、収録後もさらに飲みにいっていたこともあったと言われている。カラオケセットやギターが用意されており、たかじんや出演者が歌うこともあった。よく番組の最後でたかじんが自分の持ち歌やお気に入りの[ジャズ](../Page/ジャズ.md "wikilink")・[シャンソン](../Page/シャンソン.md "wikilink")を歌っていた。稀に「この番組は[乾杯\!トークそんぐ](../Page/乾杯!トークそんぐ.md "wikilink")（同時期に放送された[毎日放送](../Page/毎日放送.md "wikilink")の番組）ではありません」とテロップが流れるくらいカラオケ合戦になったこともある。
 
-番組のゲストには意図的に、全く異色の組み合わせを起用し、必ず[コント](../Page/コント.md "wikilink")に出演する決まりになっていた。コントの内容はゲストにちなんだものが多い（例・[藤田まこと](../Page/藤田まこと.md "wikilink")が出演した回は[必殺シリーズ](../Page/必殺シリーズ.md "wikilink")のパロディだった）。大半がベタなオチで終わるものであったが、出演者のキャラクターと番組の雰囲気が相俟って、不思議なおかしさを醸し出していた。ショートコントで酒を使って、無謀な飲み物を作って飲ませるということも有名である。[上島竜兵](https://ja.wikipedia.org/wiki/上島竜兵 "wikilink")は燗をして暖められた[ビール](../Page/ビール.md "wikilink")を飲まされ、[ローリー寺西](https://ja.wikipedia.org/wiki/ローリー寺西 "wikilink")は[ウォッカ](../Page/ウォッカ.md "wikilink")に[七味唐辛子](../Page/七味唐辛子.md "wikilink")や[正露丸](https://ja.wikipedia.org/wiki/正露丸 "wikilink")を入れたカクテルを飲まされ卒倒した。しかし、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")が海草入りの酒をストレートに飲んだことがある。
+番組のゲストには意図的に、全く異色の組み合わせを起用し、必ず[コント](../Page/コント.md "wikilink")に出演する決まりになっていた。コントの内容はゲストにちなんだものが多い（例・[藤田まこと](../Page/藤田まこと.md "wikilink")が出演した回は[必殺シリーズ](../Page/必殺シリーズ.md "wikilink")のパロディだった）。大半がベタなオチで終わるものであったが、出演者のキャラクターと番組の雰囲気が相俟って、不思議なおかしさを醸し出していた。ショートコントで酒を使って、無謀な飲み物を作って飲ませるということも有名である。[上島竜兵](../Page/上島竜兵.md "wikilink")は燗をして暖められた[ビール](../Page/ビール.md "wikilink")を飲まされ、[ローリー寺西](https://ja.wikipedia.org/wiki/ローリー寺西 "wikilink")は[ウォッカ](../Page/ウォッカ.md "wikilink")に[七味唐辛子](../Page/七味唐辛子.md "wikilink")や[正露丸](../Page/正露丸.md "wikilink")を入れたカクテルを飲まされ卒倒した。しかし、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")が海草入りの酒をストレートに飲んだことがある。
 
-ツッコミ・解説スーパーを放送開始当初から使用していた（放送開始当時はまだ珍しかった）。この番組では画面中央付近に白い文字で表示していた（使用されていたフォントは[写研](../Page/写研.md "wikilink")の「ナミン」）。常連客として[島田洋七](../Page/島田洋七.md "wikilink")、[ハイヒール・モモコ](https://ja.wikipedia.org/wiki/ハイヒール_\(お笑い\) "wikilink")、[ぜんじろう](../Page/ぜんじろう.md "wikilink")などが度々出演していた。また、バーテンダーの金崎の横で[神田川俊郎](https://ja.wikipedia.org/wiki/神田川俊郎 "wikilink")が料理を作ることもあった。
+ツッコミ・解説スーパーを放送開始当初から使用していた（放送開始当時はまだ珍しかった）。この番組では画面中央付近に白い文字で表示していた（使用されていたフォントは[写研](../Page/写研.md "wikilink")の「ナミン」）。常連客として[島田洋七](../Page/島田洋七.md "wikilink")、[ハイヒール・モモコ](../Page/ハイヒール_\(お笑い\).md "wikilink")、[ぜんじろう](../Page/ぜんじろう.md "wikilink")などが度々出演していた。また、バーテンダーの金崎の横で[神田川俊郎](../Page/神田川俊郎.md "wikilink")が料理を作ることもあった。
 
-2007年に、[QuickJapan](https://ja.wikipedia.org/wiki/QuickJapan "wikilink")や、[オリコンでのインタビューにおいて](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、たかじんは「まずは自分が酔わなければなりません」と、当番組での手法を明かした。
+2007年に、[QuickJapan](https://ja.wikipedia.org/wiki/QuickJapan "wikilink")や、[オリコンでのインタビューにおいて](../Page/オリコンチャート.md "wikilink")、たかじんは「まずは自分が酔わなければなりません」と、当番組での手法を明かした。
 
 2014年、たかじんが他界したときには、読売テレビの番組で当番組の映像が繰り返し放送された。
 
 ## 番組の歴史
 
-第1回のゲストは、[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")と[鳳蘭](https://ja.wikipedia.org/wiki/鳳蘭 "wikilink")で、たかじんが鳳蘭と宝塚で共演した話で盛り上がり落ち着いた雰囲気の放送だった。また、この2人はたかじん本人がブッキングしたという\[1\]。
+第1回のゲストは、[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")と[鳳蘭](../Page/鳳蘭.md "wikilink")で、たかじんが鳳蘭と宝塚で共演した話で盛り上がり落ち着いた雰囲気の放送だった。また、この2人はたかじん本人がブッキングしたという\[1\]。
 
 [1994年](../Page/1994年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")放送で番組最高視聴率25.1%（関西地区）を記録\[2\]。
 
-最終回では[ビートたけし](../Page/ビートたけし.md "wikilink")が出演し、たけしが「最終回やめようよ、俺もやるから」と言い、出演者がこれまでの番組の歴史を振り返りながらしみじみ語った。たかじんが「[東京](../Page/東京_\(やしきたかじんの曲\).md "wikilink")」を歌うと、たけしが[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")の「[壊れかけのRadio](../Page/壊れかけのRadio.md "wikilink")」を歌った。最後は当時たかじんの新曲であった「もしも夢が叶うならば」の[プロモーションビデオが流れ番組の幕を閉じた](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+最終回では[ビートたけし](../Page/ビートたけし.md "wikilink")が出演し、たけしが「最終回やめようよ、俺もやるから」と言い、出演者がこれまでの番組の歴史を振り返りながらしみじみ語った。たかじんが「[東京](../Page/東京_\(やしきたかじんの曲\).md "wikilink")」を歌うと、たけしが[徳永英明](../Page/徳永英明.md "wikilink")の「[壊れかけのRadio](../Page/壊れかけのRadio.md "wikilink")」を歌った。最後は当時たかじんの新曲であった「もしも夢が叶うならば」の[プロモーションビデオが流れ番組の幕を閉じた](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 書籍
 
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   -
-    ゲスト：[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")、[ハイヒールモモコ](https://ja.wikipedia.org/wiki/ハイヒール_\(お笑い\) "wikilink")、[久本雅美](../Page/久本雅美.md "wikilink")、[池乃めだか](../Page/池乃めだか.md "wikilink")
+    ゲスト：[大竹まこと](../Page/大竹まこと.md "wikilink")、[ハイヒールモモコ](../Page/ハイヒール_\(お笑い\).md "wikilink")、[久本雅美](../Page/久本雅美.md "wikilink")、[池乃めだか](../Page/池乃めだか.md "wikilink")
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 <!-- end list -->
 
   -
-    ゲスト：大竹まこと、[沖田浩之](../Page/沖田浩之.md "wikilink")、[羽野晶紀](https://ja.wikipedia.org/wiki/羽野晶紀 "wikilink")、[亀山房代](https://ja.wikipedia.org/wiki/亀山房代 "wikilink")
+    ゲスト：大竹まこと、[沖田浩之](../Page/沖田浩之.md "wikilink")、[羽野晶紀](https://ja.wikipedia.org/wiki/羽野晶紀 "wikilink")、[亀山房代](../Page/亀山房代.md "wikilink")
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   -
-    ゲスト：大竹まこと、[島田洋七](../Page/島田洋七.md "wikilink")、[尾崎直道](https://ja.wikipedia.org/wiki/尾崎直道 "wikilink")
+    ゲスト：大竹まこと、[島田洋七](../Page/島田洋七.md "wikilink")、[尾崎直道](../Page/尾崎直道.md "wikilink")
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 <!-- end list -->
 
   -
-    ゲスト：[梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")、[安岡力也](https://ja.wikipedia.org/wiki/安岡力也 "wikilink")、[桂春之輔](https://ja.wikipedia.org/wiki/桂春之輔 "wikilink")
+    ゲスト：[梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")、[安岡力也](../Page/安岡力也.md "wikilink")、[桂春之輔](https://ja.wikipedia.org/wiki/桂春之輔 "wikilink")
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@
 <!-- end list -->
 
   -
-    ゲスト：[マルシア](../Page/マルシア.md "wikilink")、[安岡力也](https://ja.wikipedia.org/wiki/安岡力也 "wikilink")、[大澄賢也](https://ja.wikipedia.org/wiki/大澄賢也 "wikilink")、[蛭子能収](../Page/蛭子能収.md "wikilink")
+    ゲスト：[マルシア](../Page/マルシア.md "wikilink")、[安岡力也](../Page/安岡力也.md "wikilink")、[大澄賢也](../Page/大澄賢也.md "wikilink")、[蛭子能収](../Page/蛭子能収.md "wikilink")
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 <!-- end list -->
 
   -
-    ゲスト：[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")、[梅沢富美男](https://ja.wikipedia.org/wiki/梅沢富美男 "wikilink")、[遥洋子](https://ja.wikipedia.org/wiki/遥洋子 "wikilink")、島田洋七
+    ゲスト：[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")、[梅沢富美男](../Page/梅沢富美男.md "wikilink")、[遥洋子](https://ja.wikipedia.org/wiki/遥洋子 "wikilink")、島田洋七
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 <!-- end list -->
 
   -
-    ゲスト：[ビートたけし](../Page/ビートたけし.md "wikilink")、[川中美幸](https://ja.wikipedia.org/wiki/川中美幸 "wikilink")、島田洋七
+    ゲスト：[ビートたけし](../Page/ビートたけし.md "wikilink")、[川中美幸](../Page/川中美幸.md "wikilink")、島田洋七
 
 ### 『たかじんnoばぁ〜2 』
 
@@ -131,21 +131,21 @@
 当番組の放送終了から10年3ヶ月後の2007年[10月26日](../Page/10月26日.md "wikilink")に『**たかじんnoばぁ〜 DVD BOX THEガオー\!LEGEND**』と題した3枚組DVD-BOXとして発売された。（発売元:ytv、販売元：東宝）
 
   - 1992年10月10日放送分
-    ゲスト：[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")、[鳳蘭](https://ja.wikipedia.org/wiki/鳳蘭 "wikilink")（放送第1回分）
+    ゲスト：[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")、[鳳蘭](../Page/鳳蘭.md "wikilink")（放送第1回分）
   - 1993年2月6日放送分
     ゲスト：[桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")、遥洋子（収録前まで不仲だったたかじんとざこばが、収録中に和解）
   - 1993年4月3日放送分
     ゲスト：谷村新司、ばんばひろふみ、上田正樹、トミーズ健（谷村に対してトミーズ健が暴言。たかじんが健を叩いたうえでなど便乗）
   - 1993年4月17日放送分
-    [梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")、[安岡力也](https://ja.wikipedia.org/wiki/安岡力也 "wikilink")、[桂春之輔](https://ja.wikipedia.org/wiki/桂春之輔 "wikilink")（梅宮と安岡が「武勇伝」を披露）
+    [梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")、[安岡力也](../Page/安岡力也.md "wikilink")、[桂春之輔](https://ja.wikipedia.org/wiki/桂春之輔 "wikilink")（梅宮と安岡が「武勇伝」を披露）
   - 1993年5月8日・15日放送分
     ゲスト：ビートたけし、川中美幸（トミーズ雅号泣、たかじん熱唱。たけしはノーギャラ出演、宿泊場所確保、大阪の美味しい物を用意するようにと番組側に要求して出演）
   - 1993年11月27日放送分
     [内田裕也](../Page/内田裕也.md "wikilink")、[大島渚](../Page/大島渚.md "wikilink")、安岡力也、[桂きん枝](https://ja.wikipedia.org/wiki/桂きん枝 "wikilink")、[小高紀子](https://ja.wikipedia.org/wiki/小高紀子 "wikilink")（内田は「収録後にたかじんとミナミで飲ませて欲しい」と言う条件を付けて、当番組へ自ら売り込んだ。しかし、たかじんは収録後にその条件を守らなかったため、プロデューサーが内田に責められた）
   - 1994年1月15日放送分
-    ゲスト：[山口美江](https://ja.wikipedia.org/wiki/山口美江 "wikilink")、[野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")、[川藤幸三](https://ja.wikipedia.org/wiki/川藤幸三 "wikilink")、[加藤博一](../Page/加藤博一.md "wikilink")（番組最高視聴率）
+    ゲスト：[山口美江](../Page/山口美江.md "wikilink")、[野々村真](../Page/野々村真.md "wikilink")、[川藤幸三](../Page/川藤幸三.md "wikilink")、[加藤博一](../Page/加藤博一.md "wikilink")（番組最高視聴率）
   - 1994年8月27日放送分
-    ゲスト：[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")、[天地真理](https://ja.wikipedia.org/wiki/天地真理 "wikilink")、[上田哲](https://ja.wikipedia.org/wiki/上田哲 "wikilink")
+    ゲスト：[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")、[天地真理](../Page/天地真理.md "wikilink")、[上田哲](../Page/上田哲.md "wikilink")
   - 1995年1月14日放送分
     ゲスト：[そのまんま東](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")、[坂田利夫](../Page/坂田利夫.md "wikilink")、[松居直美](../Page/松居直美_\(タレント\).md "wikilink")、[朝凪鈴](https://ja.wikipedia.org/wiki/朝凪鈴 "wikilink")
 
@@ -156,21 +156,21 @@
   - 1993年3月6日放送分
     ゲスト：堀内孝雄、桂きん枝、馬淵よしの、ハイヒールモモコ
   - 1993年10月9日放送分
-    ゲスト：[吉川十和子](../Page/君島十和子.md "wikilink")、[藤山直美](https://ja.wikipedia.org/wiki/藤山直美 "wikilink")、ハイヒールモモコ、島田洋七、[リリアン](https://ja.wikipedia.org/wiki/リリアン_\(タレント\) "wikilink")
+    ゲスト：[吉川十和子](../Page/君島十和子.md "wikilink")、[藤山直美](../Page/藤山直美.md "wikilink")、ハイヒールモモコ、島田洋七、[リリアン](../Page/リリアン_\(タレント\).md "wikilink")
   - 1993年11月27日放送分
     ゲスト：[内田裕也](../Page/内田裕也.md "wikilink")、[安岡力也](https://ja.wikipedia.org/wiki/力也 "wikilink")、桂きん枝、ハイヒールモモコ、[小高紀子](https://ja.wikipedia.org/wiki/小高紀子 "wikilink")（現・小高麻友美）
   - 1994年1月29日放送分
-    ゲスト：[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")、[風見しんご](../Page/風見しんご.md "wikilink")、ハイヒールモモコ、[新野新](https://ja.wikipedia.org/wiki/新野新 "wikilink")
+    ゲスト：[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")、[風見しんご](../Page/風見しんご.md "wikilink")、ハイヒールモモコ、[新野新](../Page/新野新.md "wikilink")
   - 1994年3月19日放送分
     ゲスト：[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")、[金田たつえ](https://ja.wikipedia.org/wiki/金田たつえ "wikilink")、[オスマン・サンコン](../Page/オスマン・サンコン.md "wikilink")、[早坂好恵](../Page/早坂好恵.md "wikilink")、[葉山レイコ](../Page/葉山レイコ.md "wikilink")
   - 1994年5月14日放送分
-    ゲスト：[小森和子](https://ja.wikipedia.org/wiki/小森和子 "wikilink")、[角盈男](https://ja.wikipedia.org/wiki/角盈男 "wikilink")、[増田明美](https://ja.wikipedia.org/wiki/増田明美 "wikilink")、[マルシア](../Page/マルシア.md "wikilink")、リリアン
+    ゲスト：[小森和子](../Page/小森和子.md "wikilink")、[角盈男](../Page/角盈男.md "wikilink")、[増田明美](../Page/増田明美.md "wikilink")、[マルシア](../Page/マルシア.md "wikilink")、リリアン
   - 1994年6月11日放送分
-    ゲスト：[ガッツ石松](https://ja.wikipedia.org/wiki/ガッツ石松 "wikilink")、[島木譲二](https://ja.wikipedia.org/wiki/島木譲二 "wikilink")、[根本りつ子](../Page/根本りつ子.md "wikilink")、ハイヒール・モモコ、[井上公造](https://ja.wikipedia.org/wiki/井上公造 "wikilink")、[藤田恵子](https://ja.wikipedia.org/wiki/藤田恵子 "wikilink")
+    ゲスト：[ガッツ石松](../Page/ガッツ石松.md "wikilink")、[島木譲二](../Page/島木譲二.md "wikilink")、[根本りつ子](../Page/根本りつ子.md "wikilink")、ハイヒール・モモコ、[井上公造](../Page/井上公造.md "wikilink")、[藤田恵子](https://ja.wikipedia.org/wiki/藤田恵子 "wikilink")
   - 1996年7月13日放送分（最終回）
-    ゲスト：[ビートたけし](../Page/ビートたけし.md "wikilink")、[加納典明](https://ja.wikipedia.org/wiki/加納典明 "wikilink")、[篠原勝之](https://ja.wikipedia.org/wiki/篠原勝之 "wikilink")、[原久美子](../Page/原久美子.md "wikilink")、[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink")
+    ゲスト：[ビートたけし](../Page/ビートたけし.md "wikilink")、[加納典明](../Page/加納典明.md "wikilink")、[篠原勝之](../Page/篠原勝之.md "wikilink")、[原久美子](../Page/原久美子.md "wikilink")、[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink")
 
-出演者やゲストの傾向を見ると、どちらかといえば[吉本色の強い番組であったが](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、DVDの外箱には「協力・[松竹芸能](../Page/松竹芸能.md "wikilink")」の表記がされている。これは同番組を制作していたテレビ制作会社「ビデオワーク」が松竹芸能の子会社であり、現在は既に解散した後で会社が存在しないため、親会社であった松竹芸能がこれらの権利関係等を引き継いだことによるものと考えられる。また、当時ビデオワークに所属し「たかじんnoばぁ～」の制作に携わっていたスタッフが中心となって後に制作会社「[BOY'S](https://ja.wikipedia.org/wiki/ボーイズ_\(テレビ制作会社\) "wikilink")」が設立され、後述の復活特番など、現在もたかじんが出演する番組の制作に関与した。
+出演者やゲストの傾向を見ると、どちらかといえば[吉本色の強い番組であったが](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、DVDの外箱には「協力・[松竹芸能](../Page/松竹芸能.md "wikilink")」の表記がされている。これは同番組を制作していたテレビ制作会社「ビデオワーク」が松竹芸能の子会社であり、現在は既に解散した後で会社が存在しないため、親会社であった松竹芸能がこれらの権利関係等を引き継いだことによるものと考えられる。また、当時ビデオワークに所属し「たかじんnoばぁ～」の制作に携わっていたスタッフが中心となって後に制作会社「[BOY'S](../Page/ボーイズ_\(テレビ制作会社\).md "wikilink")」が設立され、後述の復活特番など、現在もたかじんが出演する番組の制作に関与した。
 
 ## 復活特番
 
@@ -181,7 +181,7 @@
 
 ### DVD第1弾
 
-[上記のDVD化を記念し](https://ja.wikipedia.org/wiki/#DVD化 "wikilink")、タイトルもDVD-BOXと同じ『**たかじんnoばぁ〜 THEガオー\!LEGEND**』として、[特番として番組が](https://ja.wikipedia.org/wiki/特別番組 "wikilink")11年3か月ぶりに復活し放送された。制作局の読売テレビと[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")での放送日時は、2007年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")の16:05～17:00（[JST](../Page/日本標準時.md "wikilink")）。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
+[上記のDVD化を記念し](https://ja.wikipedia.org/wiki/#DVD化 "wikilink")、タイトルもDVD-BOXと同じ『**たかじんnoばぁ〜 THEガオー\!LEGEND**』として、[特番として番組が](../Page/特別番組.md "wikilink")11年3か月ぶりに復活し放送された。制作局の読売テレビと[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")での放送日時は、2007年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")の16:05～17:00（[JST](../Page/日本標準時.md "wikilink")）。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
 
   - ゲスト
 
@@ -191,7 +191,7 @@
   - [坂田利夫](../Page/坂田利夫.md "wikilink")
   - [かとうかず子](../Page/かとうかず子.md "wikilink")
   - [夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")
-  - [金村義明](https://ja.wikipedia.org/wiki/金村義明 "wikilink")
+  - [金村義明](../Page/金村義明.md "wikilink")
 
 この特番では、レギュラー放送時にセットを建て込んだ読売テレビ第2スタジオではなく、ホテルニューオータニ大阪のラウンジを借りて収録した。また、マネージャー役で出演していた[トミーズ雅](https://ja.wikipedia.org/wiki/トミーズ雅 "wikilink")は出演しておらず、途中から星野が登場した際、オープニングから坂田とカウンターで座っていた金村に対し、たかじんが「師匠（星野）が来たんやから、横座っとる場合ちゃう」と星野をもてなすようにとの発言もあり、この特番でのマネージャー役となった。ちなみに、レギュラー放送時に出演していたバーテンダー・金崎公三は今回の特番にも出演していた。
 
@@ -234,20 +234,20 @@
 
   - [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")
   - [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")
-  - [千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")
+  - [千葉テレビ](../Page/千葉テレビ放送.md "wikilink")
 
 ### DVD第2弾
 
-DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:25～17:30（JST）に放送。ハイビジョン制作。今回は「たかじんnoばぁ〜 THE ガォー！LEGENDII〜オンナだらけスペシャル〜」と題して、ゲストは[宮根誠司](https://ja.wikipedia.org/wiki/宮根誠司 "wikilink")を除いて全て女性であった。
+DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:25～17:30（JST）に放送。ハイビジョン制作。今回は「たかじんnoばぁ〜 THE ガォー！LEGENDII〜オンナだらけスペシャル〜」と題して、ゲストは[宮根誠司](../Page/宮根誠司.md "wikilink")を除いて全て女性であった。
 
   - ゲスト
 
 <!-- end list -->
 
-  - [宮根誠司](https://ja.wikipedia.org/wiki/宮根誠司 "wikilink")
-  - [梶原真弓](https://ja.wikipedia.org/wiki/梶原真弓 "wikilink")
+  - [宮根誠司](../Page/宮根誠司.md "wikilink")
+  - [梶原真弓](../Page/梶原真弓.md "wikilink")
   - [松居直美](../Page/松居直美_\(タレント\).md "wikilink")
-  - [中島史恵](https://ja.wikipedia.org/wiki/中島史恵 "wikilink")
+  - [中島史恵](../Page/中島史恵.md "wikilink")
   - [西川史子](../Page/西川史子.md "wikilink")
   - [中澤裕子](../Page/中澤裕子.md "wikilink")
   - [くまきりあさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")
@@ -341,7 +341,7 @@ DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p>月曜深夜1:05〜2:05</p></td>
 <td></td>
 </tr>
@@ -360,8 +360,8 @@ DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:
   - [トミーズ雅](https://ja.wikipedia.org/wiki/トミーズ雅 "wikilink") - 当番組の初期に[テレビ朝日](../Page/テレビ朝日.md "wikilink")が関東ローカルで放送した同様の番組（『[M10](../Page/M10_\(テレビ番組\).md "wikilink")』金曜日）でも、当番組と同じ役回りでたかじんと共演。
   - [トミーズ健](https://ja.wikipedia.org/wiki/トミーズ健 "wikilink") - 「世界中の酒を仕入れる酒屋の配達員」という設定から、前掛け姿で登場。出演者のトークに割って入ったり、たかじんや相方の雅などからショートコントで弄られたりすることが「お約束」と化していた。
   - [金崎公三](https://ja.wikipedia.org/wiki/金崎公三 "wikilink")（バーテンダー） - 祇園の花見小路にあるバー「アクアマリン」のマスター。たかじんとは、祇園で弾き語りをしていた頃からの知り合いであった。なお、収録中はたかじん・雅の背後でバーテンダーの仕事に徹していたため、トークへ加わることは皆無に近かった。
-  - [大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")（最初の半年間のみ「常連客」役で出演） - 『M10』などの番組でも共演していたが、当番組初期の収録で自身の私生活をめぐる話題をたかじんが執拗に触れたことなどをきっかけに、放送開始の半年後から[テレビ大阪](../Page/テレビ大阪.md "wikilink")の裏番組『大顔面TV』のレギュラーへ転身。以降の出演番組では、たかじんと共演していない。ちなみにたかじんは、大竹が当番組から降板した後も、大竹を挑発するかのような発言を繰り返していた（[参考記事](http://www.asagei.com/13665)）。
-  - [島田洋七](../Page/島田洋七.md "wikilink")（番組中期から「常連客」格で頻繁に出演） - 面識のなかったたかじんから、当番組のプロデューサーを通じて、番組や自身の先行きに関する不安を相談されたことをきっかけに出演を開始。たかじんや雅から再三にわたって「話の9割以上は嘘や」と呆れられるほど、トークでは「作り話を重ねるお調子者」というキャラクターを存分に発揮していた。その一方で、たかじんからのリクエストをきっかけに、旧知のビートたけしを当番組へ出演させた（[参考記事](http://www.asagei.com/19811)）。ただし、[埼玉県選挙区](../Page/埼玉県選挙区.md "wikilink")からの出馬で落選した[第17回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第17回参議院議員通常選挙 "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）の前後には、[公職選挙法](https://ja.wikipedia.org/wiki/公職選挙法 "wikilink")などとの兼ね合いで当番組への登場を控えている。
+  - [大竹まこと](../Page/大竹まこと.md "wikilink")（最初の半年間のみ「常連客」役で出演） - 『M10』などの番組でも共演していたが、当番組初期の収録で自身の私生活をめぐる話題をたかじんが執拗に触れたことなどをきっかけに、放送開始の半年後から[テレビ大阪](../Page/テレビ大阪.md "wikilink")の裏番組『大顔面TV』のレギュラーへ転身。以降の出演番組では、たかじんと共演していない。ちなみにたかじんは、大竹が当番組から降板した後も、大竹を挑発するかのような発言を繰り返していた（[参考記事](http://www.asagei.com/13665)）。
+  - [島田洋七](../Page/島田洋七.md "wikilink")（番組中期から「常連客」格で頻繁に出演） - 面識のなかったたかじんから、当番組のプロデューサーを通じて、番組や自身の先行きに関する不安を相談されたことをきっかけに出演を開始。たかじんや雅から再三にわたって「話の9割以上は嘘や」と呆れられるほど、トークでは「作り話を重ねるお調子者」というキャラクターを存分に発揮していた。その一方で、たかじんからのリクエストをきっかけに、旧知のビートたけしを当番組へ出演させた（[参考記事](http://www.asagei.com/19811)）。ただし、[埼玉県選挙区](../Page/埼玉県選挙区.md "wikilink")からの出馬で落選した[第17回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第17回参議院議員通常選挙 "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）の前後には、[公職選挙法](../Page/公職選挙法.md "wikilink")などとの兼ね合いで当番組への登場を控えている。
 
 ## スタッフ
 
@@ -375,11 +375,11 @@ DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:
   - コント作 : 東野博昭、[上田信彦](../Page/上田信彦.md "wikilink")、[長川千佳子](../Page/長川千佳子.md "wikilink")、鹿島我
   - 技術 : 岸田功、野村武史、橋本喜隆、坂口拓磨、菊川雄士（YTV）
   - 照明 : 廣江貞雄（YTV）、関東電機（現:[ハートス](https://ja.wikipedia.org/wiki/ハートス "wikilink")）
-  - 音効 : 青地瑛久（[サウンドエフェクト](https://ja.wikipedia.org/wiki/サウンドエフェクト "wikilink")）
+  - 音効 : 青地瑛久（[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")）
   - VTR編集 : 南方裕之（YTV）
   - MA : 飯野龍秋
   - 美術 : [伊藤大樹](https://ja.wikipedia.org/wiki/伊藤大樹 "wikilink")（YTV）
-  - 大道具 : [つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")
+  - 大道具 : [つむら工芸](../Page/つむら工芸.md "wikilink")
   - 小道具 : [高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")
   - 衣裳 : [東京衣裳](https://ja.wikipedia.org/wiki/東京衣裳 "wikilink")
   - メイク : A.I.C
@@ -389,7 +389,7 @@ DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:
   - プロデューサー : 岩渕輝義（YTV） ※後にチーフプロデューサー
   - チーフプロデューサー : [松井守](https://ja.wikipedia.org/wiki/松井守 "wikilink")→[有川寛](https://ja.wikipedia.org/wiki/有川寛 "wikilink")→岩渕輝義（YTV）、村田弘道（ビデオワーク）
   - 協力 : [アサヒビール](../Page/アサヒビール.md "wikilink") ※当時、たかじんが[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")で発売されていた地域限定[ビール](../Page/ビール.md "wikilink")「**生一丁**」のCMに出演していた。
-  - 制作協力 : [P.I.S](https://ja.wikipedia.org/wiki/P.I.S "wikilink")
+  - 制作協力 : [P.I.S](../Page/P.I.S.md "wikilink")
   - 制作 : ビデオワーク
   - 制作著作 : よみうりテレビ
 
@@ -417,11 +417,11 @@ DVD第2弾発売を記念した特番が読売テレビで2008年7月20日の16:
   - デスク：佐野直子、百瀬和代、瀧野侑子
   - コンテンツ：弘中謙、田中和美、乙部恭子、読売テレビエンタープライズ
   - 特別協力：[東宝](../Page/東宝.md "wikilink")株式会社
-  - 協力：[P.I.S](https://ja.wikipedia.org/wiki/P.I.S "wikilink")
+  - 協力：[P.I.S](../Page/P.I.S.md "wikilink")
   - 演出：松山源一（BOY'S）
   - プロデューサー：吉川秀和（ytv）、相原康司、三浦真理子（BOY'S）
   - チーフプロデューサー：木谷俊樹（ytv）
-  - 制作協力：[BOY'S](https://ja.wikipedia.org/wiki/ボーイズ_\(テレビ制作会社\) "wikilink")
+  - 制作協力：[BOY'S](../Page/ボーイズ_\(テレビ制作会社\).md "wikilink")
   - 制作著作：ytv 50th(読売テレビ50周年ロゴ）
 
 ## 脚注

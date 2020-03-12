@@ -1,11 +1,11 @@
 > この記事は[EVE The Fatal Attraction](https://ja.wikipedia.org/wiki/EVE_The_Fatal_Attraction)から翻訳されています。
 
 
-『'''EVE The Fatal Attraction '''』（イブ ザ フェイタル アトラクション）は、[ゲームビレッジ](https://ja.wikipedia.org/wiki/ゲームビレッジ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。1作目『[EVE burst error](https://ja.wikipedia.org/wiki/EVE_burst_error "wikilink")』の4年後が舞台。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。主に「EVE TFA」と略される。
+『'''EVE The Fatal Attraction '''』（イブ ザ フェイタル アトラクション）は、[ゲームビレッジ](https://ja.wikipedia.org/wiki/ゲームビレッジ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。1作目『[EVE burst error](../Page/EVE_burst_error.md "wikilink")』の4年後が舞台。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。主に「EVE TFA」と略される。
 
-[2001年](../Page/2001年.md "wikilink")9月に[PlayStation版が発売された後](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+[2001年](../Page/2001年.md "wikilink")9月に[PlayStation版が発売された後](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
-元になったゲームは以下で詳述する「[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ "wikilink")」の3作目にあたる『**ADAM THE DOUBLE FACTOR**』であり、併せて記述する。
+元になったゲームは以下で詳述する「[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")」の3作目にあたる『**ADAM THE DOUBLE FACTOR**』であり、併せて記述する。
 
 ## 概要
 
@@ -31,21 +31,21 @@
 
   - **天城 小次郎**（あまぎ こじろう）[声](../Page/声優.md "wikilink")：不明/[子安武人](../Page/子安武人.md "wikilink")
   - **法条 まりな**（ほうじょう まりな）声：不明/[三石琴乃](../Page/三石琴乃.md "wikilink")
-  - **桂木 弥生**（かつらぎ やよい）声：不明/[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
-  - **氷室 恭子**（ひむろ きょうこ）声：不明/[松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")
+  - **桂木 弥生**（かつらぎ やよい）声：不明/[本多知恵子](../Page/本多知恵子.md "wikilink")
+  - **氷室 恭子**（ひむろ きょうこ）声：不明/[松井菜桜子](../Page/松井菜桜子.md "wikilink")
   - **甲野 三郎**（こうの さぶろう）声：不明/[野沢那智](../Page/野沢那智.md "wikilink")
-  - **安藤 左衛門**（あんどう さえもん）声：不明/[西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
-  - **安藤 美佳**（あんどう みか）声：不明/[高木礼子](https://ja.wikipedia.org/wiki/高木礼子 "wikilink")
+  - **安藤 左衛門**（あんどう さえもん）声：不明/[西村知道](../Page/西村知道.md "wikilink")
+  - **安藤 美佳**（あんどう みか）声：不明/[高木礼子](../Page/高木礼子.md "wikilink")
   - **安藤 美紀**（あんどう みき）声：不明/高木礼子
-  - **栗栖野 亜美**（くるすの あみ）声：不明/[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+  - **栗栖野 亜美**（くるすの あみ）声：不明/[玉川紗己子](../Page/玉川砂記子.md "wikilink")
   - **藤井 ユカ**（ふじい - ）声：不明/[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
   - **美村 貴史**（みむら たかし）声：不明/[鈴村健一](../Page/鈴村健一.md "wikilink")
-  - **ブレード** 声：不明/[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
-  - **高千穂 唯**（たかちほ ゆい）声：不明/[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")
+  - **ブレード** 声：不明/[長嶝高士](../Page/長嶝高士.md "wikilink")
+  - **高千穂 唯**（たかちほ ゆい）声：不明/[かかずゆみ](../Page/かかずゆみ.md "wikilink")
   - **アドリア・エスコヴェート** 声：不明/[中西祐美子](https://ja.wikipedia.org/wiki/中西祐美子 "wikilink")
-  - **デビッド・ジョーンズ** 声：不明/[大倉正章](https://ja.wikipedia.org/wiki/大倉正章 "wikilink")
+  - **デビッド・ジョーンズ** 声：不明/[大倉正章](../Page/大倉正章.md "wikilink")
   - **プリーチャー** 声：不明/[若本規夫](../Page/若本規夫.md "wikilink")
-  - **六条 夕子**（ろくじょう ゆうこ）声：不明/[内川藍維](https://ja.wikipedia.org/wiki/内川藍維 "wikilink")
+  - **六条 夕子**（ろくじょう ゆうこ）声：不明/[内川藍維](../Page/内川藍維.md "wikilink")
   - **ウォーレン・ヒルツ** 声：不明/[橋本昌也](https://ja.wikipedia.org/wiki/橋本昌也 "wikilink")
   - **エドワード・シュミット** 声：不明/[佐間功](https://ja.wikipedia.org/wiki/佐間功 "wikilink")
 

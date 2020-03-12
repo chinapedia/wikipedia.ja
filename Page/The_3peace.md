@@ -7,7 +7,7 @@
 
   - [原広明](https://ja.wikipedia.org/wiki/原広明 "wikilink")HRK（ボーカル&ギター、ex.[KING BEES](https://ja.wikipedia.org/wiki/KING_BEES "wikilink")）
   - 永野かおり（ベース、ex.[SOUL FLOWER UNION](https://ja.wikipedia.org/wiki/SOUL_FLOWER_UNION "wikilink")）
-  - [梶原徹也](../Page/梶原徹也.md "wikilink")（ドラム、ex.[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）
+  - [梶原徹也](../Page/梶原徹也.md "wikilink")（ドラム、ex.[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")）
 
 ## バイオグラフィー
 

@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - 日本発売のオリジナルアルバムとしては、2001年発売の「[LOVE & EMOTION VOL.2](https://ja.wikipedia.org/wiki/LOVE_&_EMOTION_VOL.2 "wikilink")」以来約3年振り。
-  - 松田聖子が自身のアルバムで1番気に入っているという1982年5月21日発表のアルバム「[Pineapple](../Page/Pineapple_\(アルバム\).md "wikilink")」の第2弾を作りたい、という思いから制作をスタートしたという。[プロデューサー](../Page/プロデューサー.md "wikilink")は[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")。
+  - 日本発売のオリジナルアルバムとしては、2001年発売の「[LOVE & EMOTION VOL.2](../Page/LOVE_&_EMOTION_VOL.2.md "wikilink")」以来約3年振り。
+  - 松田聖子が自身のアルバムで1番気に入っているという1982年5月21日発表のアルバム「[Pineapple](../Page/Pineapple_\(アルバム\).md "wikilink")」の第2弾を作りたい、という思いから制作をスタートしたという。[プロデューサー](../Page/プロデューサー.md "wikilink")は[原田真二](../Page/原田真二.md "wikilink")。
   - 先行シングル「[逢いたい](../Page/逢いたい_\(松田聖子の曲\).md "wikilink")」とその[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「風色のKiss」がアルバム・バージョンで収録された（2004年5月26日）。
   - オリコンのアルバムヒットチャートでベストテン入りを果たしたことにより、女性ヴォーカルのベストテン入りアルバム数が39作となり松任谷由実並んで歴代1位になった。
-  - [DVD](../Page/DVD.md "wikilink")が付いた初回限定盤と、CDのみの通常盤がある。CDジャケットがそれぞれ異なる。DVDは、シングル「[Call me](../Page/Call_me_\(松田聖子の曲\).md "wikilink")」（2003年6月4日）の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")と、リクエスト・ベストアルバム「Best of Best 13（27）」（2004年4月14日）に収録された「あなたに逢いたくて2004」のミュージック・ビデオが収録されている。また、抽選でグアム旅行が当たる応募はがきが封入。
+  - [DVD](../Page/DVD.md "wikilink")が付いた初回限定盤と、CDのみの通常盤がある。CDジャケットがそれぞれ異なる。DVDは、シングル「[Call me](../Page/Call_me_\(松田聖子の曲\).md "wikilink")」（2003年6月4日）の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")と、リクエスト・ベストアルバム「Best of Best 13（27）」（2004年4月14日）に収録された「あなたに逢いたくて2004」のミュージック・ビデオが収録されている。また、抽選でグアム旅行が当たる応募はがきが封入。
   - 旅行当選者には、松田聖子が当日ソニーミュージック乃木坂ビルで見送ってくれる「Enjoy the Sunshine\! 今度は聖子がお見送り」キャンペーン付き。前年のシングル「Call me」での「Call meでMeet me」キャンペーンに続き、ファンとの直接交流が実現した。
-  - 本作は[レーベルゲート](https://ja.wikipedia.org/wiki/レーベルゲート "wikilink")CDとして発売された。レーベルゲート仕様のオリジナルアルバムは当作品のみである。
+  - 本作は[レーベルゲート](../Page/レーベルゲート.md "wikilink")CDとして発売された。レーベルゲート仕様のオリジナルアルバムは当作品のみである。
 
 ## 収録曲
 
@@ -45,11 +45,11 @@
 
 ## 関連項目
 
-  - [大京](https://ja.wikipedia.org/wiki/大京 "wikilink")ライオンズマンション
+  - [大京](../Page/大京.md "wikilink")ライオンズマンション
   - アルバム「[Pineapple](../Page/Pineapple_\(アルバム\).md "wikilink")」
 
 ## 関連人物
 
-  - [原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")
+  - [原田真二](../Page/原田真二.md "wikilink")
 
 [Category:松田聖子のアルバム](https://ja.wikipedia.org/wiki/Category:松田聖子のアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")

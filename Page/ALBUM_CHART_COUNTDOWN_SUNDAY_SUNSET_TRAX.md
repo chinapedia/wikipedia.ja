@@ -25,11 +25,11 @@
 <!-- end list -->
 
   -
-    18:30-19:00に「[TRD Driver's Meeting](https://ja.wikipedia.org/wiki/Driver's_Meeting "wikilink")」、19:00-19:30に「[RIKO 2000](https://ja.wikipedia.org/wiki/RIKO_2000 "wikilink")」（後に「[RIKO STYLE](https://ja.wikipedia.org/wiki/RIKO_STYLE "wikilink")」に改題、2001年3月末で終了）がスタートしたため時間短縮となり、以降番組終了まで変更されることはなかった。
+    18:30-19:00に「[TRD Driver's Meeting](../Page/Driver's_Meeting.md "wikilink")」、19:00-19:30に「[RIKO 2000](https://ja.wikipedia.org/wiki/RIKO_2000 "wikilink")」（後に「[RIKO STYLE](https://ja.wikipedia.org/wiki/RIKO_STYLE "wikilink")」に改題、2001年3月末で終了）がスタートしたため時間短縮となり、以降番組終了まで変更されることはなかった。
 
 ## [ナビゲーター](../Page/ラジオパーソナリティ.md "wikilink")
 
-  - [大和良子](https://ja.wikipedia.org/wiki/大和良子 "wikilink") （1998年4月-2000年3月）
+  - [大和良子](../Page/大和良子.md "wikilink") （1998年4月-2000年3月）
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   -
-    同局ではこの番組でナビゲーターデビュー。この番組終了後は「[CROSS AFTERNOON SHOW RADIO GOO](https://ja.wikipedia.org/wiki/CROSS_AFTERNOON_SHOW_RADIO_GOO "wikilink")」のナビゲーターを務めた。現在は同局からの仕事を離れている。
+    同局ではこの番組でナビゲーターデビュー。この番組終了後は「[CROSS AFTERNOON SHOW RADIO GOO](../Page/CROSS_AFTERNOON_SHOW_RADIO_GOO.md "wikilink")」のナビゲーターを務めた。現在は同局からの仕事を離れている。
 
 ## コーナー
 

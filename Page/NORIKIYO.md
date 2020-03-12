@@ -11,7 +11,7 @@
 ## 略歴
 
   - [1979年](../Page/1979年.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")に生まれる。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")、DJ ISSO（SD JUNKSTA）によるミックスCD「CONCRETE GREEN」シリーズに参加。
+  - [2006年](../Page/2006年.md "wikilink")、[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")、DJ ISSO（SD JUNKSTA）によるミックスCD「CONCRETE GREEN」シリーズに参加。
   - [2007年](../Page/2007年.md "wikilink")、自身初のソロアルバム「EXIT」を発売した。アルバムでは[Bach Logicや](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink")[I-DeA](../Page/I-DeA.md "wikilink")といったトラックメーカーからの楽曲提供の他、K-NERO名義のトラックも使用している。アルバム「EXIT」は「THE SOURCE」誌による「BEST OF JAPANESE RAP 2007」にて第三位に、また、日本語ラップWEBマガジン「COMPASS」では「年間最優秀アルバム」に選出された。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、2ndアルバム『OUTLET BLUES』を発表。
   - [2009年](../Page/2009年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")、出演者を投票により決める「PEOPLE'S CHOICE」に選ばれ、[B BOY PARK 2009に出演](../Page/B_BOY_PARK.md "wikilink")。
@@ -27,7 +27,7 @@
   - [2013年](../Page/2013年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")、これまでの客演曲をまとめたMIX CD『Another Locus \~Mixed By DJ DEFLO\~』を発売。
   - [2013年](../Page/2013年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、4thアルバム『花水木』を発表。
   - [2014年](../Page/2014年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")、5thアルバム『雲と泥と手』を発表。
-  - [2014年](../Page/2014年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")、6thアルバム『如雨露』を発表。
+  - [2014年](../Page/2014年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")、6thアルバム『如雨露』を発表。
   - [2015年](../Page/2015年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")、作品集アルバムとして『実験的断片集』を発表。
   - 2017年3月31日、7thアルバム『Bouquet』を発表。
   - 2018年9月28日、8thアルバム『馬鹿と鋏と』を発表。
@@ -36,9 +36,9 @@
 
 ## 人物
 
-かつては**K-NERO**名義で活動。自身が作成したトラックの[クレジットにK](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")-NEROを使用。
+かつては**K-NERO**名義で活動。自身が作成したトラックの[クレジットにK](../Page/クレジットタイトル.md "wikilink")-NEROを使用。
 
-かつて[クラブ](../Page/クラブ.md "wikilink")で喧嘩した際に相手に怪我を負わせたために[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")を呼ばれ、逮捕される事を回避する為にトイレにあった[ダクト](../Page/ダクト.md "wikilink")からクラブの外へ脱出を図り、高さ4階の位置から飛び降りる。その結果、背骨と両足を骨折し入院。医師には「一生[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")を覚悟してください」と言われるも、歩けるまでに回復するが、右足の裏の半分くらいは感覚がその後もないと述べている\[1\]。
+かつて[クラブ](../Page/クラブ.md "wikilink")で喧嘩した際に相手に怪我を負わせたために[警察](../Page/警察.md "wikilink")を呼ばれ、逮捕される事を回避する為にトイレにあった[ダクト](../Page/ダクト.md "wikilink")からクラブの外へ脱出を図り、高さ4階の位置から飛び降りる。その結果、背骨と両足を骨折し入院。医師には「一生[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")を覚悟してください」と言われるも、歩けるまでに回復するが、右足の裏の半分くらいは感覚がその後もないと述べている\[1\]。
 
 ## ディスコグラフィ
 
@@ -585,20 +585,20 @@ ZAKAI限定500枚</p></td>
   - 「夢の屍 (It's over) \[feat. NORIKIYO\]」 4WD 『CLOCK WORK』 (2010年7月21日)
   - 「STAY STRONG (feat. NORIKIYO, [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink") & DAG FORCE)」 BOMBRUSH\! (2010年11月17日)
   - 「BRIGHTEST HOPE (feat. NORIKIYO)」 [サイプレス上野とロベルト吉野](https://ja.wikipedia.org/wiki/サイプレス上野とロベルト吉野 "wikilink") 『YOKOHAMA LAUGHTER』 (2011年9月14日)
-  - 「Beats & Rhyme」 [MACCHO](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink"), NORIKIYO, [般若](https://ja.wikipedia.org/wiki/般若_\(ラッパー\) "wikilink") & [DABO](https://ja.wikipedia.org/wiki/DABO "wikilink") 『Manhattan Records The Exclusives Japanese Hip Hop Hits 2』 (2011年11月23日)
+  - 「Beats & Rhyme」 [MACCHO](../Page/OZROSAURUS.md "wikilink"), NORIKIYO, [般若](../Page/般若_\(ラッパー\).md "wikilink") & [DABO](../Page/DABO.md "wikilink") 『Manhattan Records The Exclusives Japanese Hip Hop Hits 2』 (2011年11月23日)
   - 「STAND HARD (REMIX) (feat. [SIMON](https://ja.wikipedia.org/wiki/SIMON_\(ラッパー\) "wikilink"), NORIKIYO, [AKLO](https://ja.wikipedia.org/wiki/AKLO "wikilink") & Y's)」 [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink") 『In My Shoes (Bonus Track Version)』 (2012年3月7日)
   - 「WE SHINE (SPREAD DA SHINE pt. 2) \[feat. NORIKIYO, "E"qual, JAZEE MINOR BCDM meets BINK\! 『NUMBER.8』 (2012年4月18日)
   - 「Lights & Shadow (feat. NORIKIYO)」 [AKLO](https://ja.wikipedia.org/wiki/AKLO "wikilink") 『THE PACKAGE』 (2012年9月5日)
   - 「HEAT OVER HERE (Remix) \[feat. NORIKIYO, [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink"), Y'S, [SIMON](https://ja.wikipedia.org/wiki/SIMON_\(ラッパー\) "wikilink") & YOUNG HASTLE\]」 [AKLO](https://ja.wikipedia.org/wiki/AKLO "wikilink") 『RE-PACKAGE EP』 (2012年10月24日)
   - 「PAPER, PAPER... (feat. NORIKIYO)」 BRON-K 『松風』 (2012年11月29日)
   - 「Akage No Fantastic (feat. NORIKIYO & BRON-K)」 ONE-LAW 『MISTY』 (2013年3月20日)
-  - 「歌の終わる日まで (feat NORIKIYO)」 [般若](https://ja.wikipedia.org/wiki/般若_\(ラッパー\) "wikilink") 『コンサート』 (2013年7月17日)
+  - 「歌の終わる日まで (feat NORIKIYO)」 [般若](../Page/般若_\(ラッパー\).md "wikilink") 『コンサート』 (2013年7月17日)
   - 「アトラクション (feat. [サイプレス上野](https://ja.wikipedia.org/wiki/サイプレス上野とロベルト吉野 "wikilink") & NORIKIYO)」 WATT a.k.a. ヨッテルブッテル (2013年10月30日)
   - 「一網打尽 (REMIX) feat. NORIKIYO, [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink") & [漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink")」 [遊戯](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink") 『一網打尽 (REMIX)』 (2014年8月13日)
-  - 「Cryptid (feat. [SKY-HI](https://ja.wikipedia.org/wiki/日高光啓 "wikilink"), [D.O](../Page/D.O.md "wikilink"), [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink"), [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink") & NORIKIYO)」 『BULLMOOSE presents FLOATIN' LAB II』 (2015年1月28日)
+  - 「Cryptid (feat. [SKY-HI](../Page/日高光啓.md "wikilink"), [D.O](../Page/D.O.md "wikilink"), [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink"), [L-VOKAL](../Page/L-VOKAL.md "wikilink") & NORIKIYO)」 『BULLMOOSE presents FLOATIN' LAB II』 (2015年1月28日)
   - 「アチチチ (feat. NORIKIYO)」 [菊地一谷 (QN)](https://ja.wikipedia.org/wiki/菊地一谷 "wikilink") 『CONCRETE CLEAN 千秋楽』 (2015年3月18日)
   - 「のり弁」 [DJみそしるとMCごはん](https://ja.wikipedia.org/wiki/DJみそしるとMCごはん "wikilink") 『ジャスタジイ』 (2015年4月22日) ※シャウトで参加
-  - 「Backbone (feat. [般若](https://ja.wikipedia.org/wiki/般若_\(ラッパー\) "wikilink") & NORIKIYO)」 [ZORN](https://ja.wikipedia.org/wiki/ZORN "wikilink") 『The Downtown』 (2015年5月13日)
+  - 「Backbone (feat. [般若](../Page/般若_\(ラッパー\).md "wikilink") & NORIKIYO)」 [ZORN](https://ja.wikipedia.org/wiki/ZORN "wikilink") 『The Downtown』 (2015年5月13日)
   - 「Y.T.Y.K (feat. NORIKIYO)」 COZALU the MITTRIBE 『CHAIN DAYS the EP』 (2015年5月20日)
 
 ## ミュージックビデオ

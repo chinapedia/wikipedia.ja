@@ -7,9 +7,9 @@
 
 ## 概要
 
-壽屋の[キャラクタープラキット参入のシリーズ第一弾](https://ja.wikipedia.org/wiki/キャラクターモデル "wikilink")。安全基準に寄らないシャープなエッジや、細かなパーツ分割による色分けはこのシリーズで確立された。一方で、初期においては[ポリスチレン](https://ja.wikipedia.org/wiki/ポリスチレン "wikilink")製プラ同士の接続を全面に使用したことによる負荷への弱さ、[ポリキャップ](../Page/ポリキャップ.md "wikilink")割れの発生による深刻な保持力の不足と可動の制限が指摘された。現在では改善が見られ、初期のキットの幾つかはリニューアルされている。
+壽屋の[キャラクタープラキット参入のシリーズ第一弾](https://ja.wikipedia.org/wiki/キャラクターモデル "wikilink")。安全基準に寄らないシャープなエッジや、細かなパーツ分割による色分けはこのシリーズで確立された。一方で、初期においては[ポリスチレン](../Page/ポリスチレン.md "wikilink")製プラ同士の接続を全面に使用したことによる負荷への弱さ、[ポリキャップ](../Page/ポリキャップ.md "wikilink")割れの発生による深刻な保持力の不足と可動の制限が指摘された。現在では改善が見られ、初期のキットの幾つかはリニューアルされている。
 
-シリーズはおよそ20 mサイズ、いわゆる[リアルロボット](https://ja.wikipedia.org/wiki/リアルロボット "wikilink")サイズの機体を1/144スケール、[スーパーロボット](https://ja.wikipedia.org/wiki/スーパーロボット "wikilink")等それ以上のサイズの機体をノンスケールでリリースするS.R.G-Sシリーズと、リアルロボットサイズの機体を1/100スケールで立体化するEO-techシリーズに二分される。
+シリーズはおよそ20 mサイズ、いわゆる[リアルロボット](../Page/リアルロボット.md "wikilink")サイズの機体を1/144スケール、[スーパーロボット](../Page/スーパーロボット.md "wikilink")等それ以上のサイズの機体をノンスケールでリリースするS.R.G-Sシリーズと、リアルロボットサイズの機体を1/100スケールで立体化するEO-techシリーズに二分される。
 
 [電飾機構を搭載した](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")1/100アルトアイゼンや、50 m級の機体であるダイゼンガーを1/144スケールでリリースする等、コトブキヤのキャラクターキットの中でも特に意欲的なラインナップが特徴となっている。
 
@@ -403,7 +403,7 @@
 <td><p>S.R.G-S-007[Limited Ver.]</p></td>
 <td><p>RTX-011RT <a href="https://ja.wikipedia.org/wiki/ヒュッケバイン#ヒュッケバインMk-III_トロンベ" title="wikilink">ヒュッケバインMk-IIIトロンベ</a></p></td>
 <td><p>1/144</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/電撃ホビーマガジン" title="wikilink">電撃ホビーマガジン</a>誌上通販限定</p></td>
+<td><p><a href="../Page/電撃ホビーマガジン.md" title="wikilink">電撃ホビーマガジン</a>誌上通販限定</p></td>
 </tr>
 <tr class="odd">
 <td><p>S.R.G-S-005[Limited Ver.]</p></td>
@@ -500,7 +500,7 @@
 
 ## 絶版商品
 
-2006年末に、[ヒュッケバイン](../Page/ヒュッケバイン.md "wikilink")シリーズの全ての商品が店頭在庫のみの販売となり、絶版扱いとなった。また、2006年12月に発売された1/144スケールのヒュッケバインMk-IIとヒュッケバインボクサーについては、初回限定生産品とされた。テレビアニメ『[スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")』など、他メディアでも似たような事例が発生しているが、公式なアナウンスが無いため理由は一切不明。
+2006年末に、[ヒュッケバイン](../Page/ヒュッケバイン.md "wikilink")シリーズの全ての商品が店頭在庫のみの販売となり、絶版扱いとなった。また、2006年12月に発売された1/144スケールのヒュッケバインMk-IIとヒュッケバインボクサーについては、初回限定生産品とされた。テレビアニメ『[スーパーロボット大戦OG -ディバイン・ウォーズ-](../Page/スーパーロボット大戦OG_-ディバイン・ウォーズ-.md "wikilink")』など、他メディアでも似たような事例が発生しているが、公式なアナウンスが無いため理由は一切不明。
 
 ## 一部キットの製品価格改定
 
@@ -510,13 +510,13 @@
 
 ## 関連項目
 
-  - [スーパーロボット大戦ORIGINAL GENERATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION "wikilink")
-  - [スーパーロボット大戦ORIGINAL GENERATION2](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION2 "wikilink")
-  - [スーパーロボット大戦OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ORIGINAL_GENERATIONS "wikilink")
+  - [スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")
+  - [スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")
+  - [スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")
   - [スーパーロボット大戦OG外伝](../Page/スーパーロボット大戦OG外伝.md "wikilink")
   - [スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")
   - [第2次スーパーロボット大戦Z](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦Z "wikilink")
-  - [魔装機神シリーズ](https://ja.wikipedia.org/wiki/魔装機神シリーズ "wikilink")
+  - [魔装機神シリーズ](../Page/魔装機神シリーズ.md "wikilink")
 
 ## 外部リンク
 

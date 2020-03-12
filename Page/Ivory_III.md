@@ -1,11 +1,11 @@
 > この記事は[Ivory III](https://ja.wikipedia.org/wiki/Ivory_III)から翻訳されています。
 
 
-『**Ivory III**』（アイボリー・スリー）は、2004年6月16日に発売された[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")の6枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**Ivory III**』（アイボリー・スリー）は、2004年6月16日に発売された[今井美樹](../Page/今井美樹.md "wikilink")の6枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-所属する東芝EMIで発表した楽曲以外に、[フォーライフや](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")でリリースされた曲も収録されている。また、一般的なベストアルバムのように過去のシングルやアルバムをそのまま収録したものばかりではなく、[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")や[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を加えたり、ライブ音源の採用などの試みもなされている。また、本人の歌唱以外にも一曲目に[千住明](../Page/千住明.md "wikilink")によるインストゥルメンタル曲が収録されている。
+所属する東芝EMIで発表した楽曲以外に、[フォーライフや](../Page/フォーライフミュージックエンタテイメント.md "wikilink")[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")でリリースされた曲も収録されている。また、一般的なベストアルバムのように過去のシングルやアルバムをそのまま収録したものばかりではなく、[セルフカバー](../Page/セルフカバー.md "wikilink")や[リミックス](../Page/リミックス.md "wikilink")を加えたり、ライブ音源の採用などの試みもなされている。また、本人の歌唱以外にも一曲目に[千住明](../Page/千住明.md "wikilink")によるインストゥルメンタル曲が収録されている。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
       -
         千住明による新たな編曲の元、セルフカバーを行った。
 3.  **PIECE OF MY WISH 2000 Mix**
-      - 作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲：[上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲：[上田知華](../Page/上田知華.md "wikilink")、編曲：[佐藤準](../Page/佐藤準.md "wikilink")
     <!-- end list -->
       -
         [Blooming Ivoryのリミックス版をそのまま収録している](https://ja.wikipedia.org/wiki/Blooming_Ivory "wikilink")。
@@ -51,7 +51,7 @@
 13. **ホントの気持ち**
       - 作詞・作曲：布袋寅泰、編曲：河野圭
 14. **瞳がほほえむから 2004 New Rec.**
-      - 作詞：岩里祐穂、作曲：上田知華、編曲：[武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")
+      - 作詞：岩里祐穂、作曲：上田知華、編曲：[武部聡志](../Page/武部聡志.md "wikilink")
     <!-- end list -->
       -
         武部聡志による新たな編曲の元、セルフカバーを行った。[大阪ガス](../Page/大阪ガス.md "wikilink")のCMで使用された\[1\]楽曲はこの新録を使っている。

@@ -9,7 +9,7 @@
 2、40kt(W7) | 弾頭=核分裂兵器（インプロージョン方式） | 直径=30.5インチ(Mark 7)
 30.5インチ(W7) | 長さ=183インチ(Mark 7)
 54.8-56インチ(W7) | 重量=1,645-1,700ポンド(Mark 7)
-900-1,100ポンド(W7) }} **Mark 7**とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")が開発した最初の[戦術核兵器](https://ja.wikipedia.org/wiki/戦術核兵器 "wikilink")である。弾頭部は**W7**とも呼称され、多目的戦術核兵器として開発され[爆弾](../Page/爆弾.md "wikilink")としてだけでなく[ミサイル](../Page/ミサイル.md "wikilink")などの[核弾頭](../Page/核弾頭.md "wikilink")としても使用された。また、[トール](../Page/トール.md "wikilink")との通称もあった。
+900-1,100ポンド(W7) }} **Mark 7**とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")が開発した最初の[戦術核兵器](../Page/戦術核兵器.md "wikilink")である。弾頭部は**W7**とも呼称され、多目的戦術核兵器として開発され[爆弾](../Page/爆弾.md "wikilink")としてだけでなく[ミサイル](../Page/ミサイル.md "wikilink")などの[核弾頭](../Page/核弾頭.md "wikilink")としても使用された。また、[トール](../Page/トール.md "wikilink")との通称もあった。
 
 LABS（Low-Altitude Bombing System、高速度からのズーム上昇中に爆弾をリリースして「投げ上げて爆撃する」（[:en:Toss bombing](https://ja.wikipedia.org/wiki/:en:Toss_bombing "wikilink")）ことにより離脱時間を確保することなどを軸とした、低高度侵入と核爆撃後の生存を成立させる攻撃法）が検討された最初の兵器でもある。Mark 7は[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")に行われた[核実験](https://ja.wikipedia.org/wiki/核実験 "wikilink")である[バスター・ジャングル作戦](https://ja.wikipedia.org/wiki/バスター・ジャングル作戦 "wikilink")(Operation Buster-Jangle)において、実弾頭の試験が行われている。
 

@@ -1,7 +1,7 @@
 > この記事は[Far Eastern Tribe Records](https://ja.wikipedia.org/wiki/Far_Eastern_Tribe_Records)から翻訳されています。
 
 
-**Far Eastern Tribe Records**（ファー・イースタン・トライブ・レコーズ）は、かつてレコード会社、[ユニバーサルミュージックの邦楽レーベルのひとつで](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、2006年7月に立ち上げられたレーベルであった。
+**Far Eastern Tribe Records**（ファー・イースタン・トライブ・レコーズ）は、かつてレコード会社、[ユニバーサルミュージックの邦楽レーベルのひとつで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、2006年7月に立ち上げられたレーベルであった。
 
 ユニバーサルのレーベル中でも先鋭的なレーベルであり、元々所属していたアーティストは一切移籍させずにレーベルが誕生したのは同社史上初。
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a><br />
+<td><p><a href="../Page/RIZE.md" title="wikilink">RIZE</a><br />
 RIZE with <a href="https://ja.wikipedia.org/wiki/市原隼人" title="wikilink">隼人</a></p></td>
 <td><p>ライズ<br />
 ライズウィズはやと</p></td>
@@ -45,7 +45,7 @@ RIZE with <a href="https://ja.wikipedia.org/wiki/市原隼人" title="wikilink">
 <td><p>Village Againに移籍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SAKURA_(歌手)" title="wikilink">SAKURA</a></p></td>
+<td><p><a href="../Page/SAKURA_(歌手).md" title="wikilink">SAKURA</a></p></td>
 <td><p>サクラ</p></td>
 <td><p>2007年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/sakura/74579527">リンク</a></p></td>
@@ -73,14 +73,14 @@ RIZE with <a href="https://ja.wikipedia.org/wiki/市原隼人" title="wikilink">
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GICODE" title="wikilink">GICODE</a></p></td>
+<td><p><a href="../Page/GICODE.md" title="wikilink">GICODE</a></p></td>
 <td><p>ジーアイコード</p></td>
 <td><p>2009年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/gicode/305234203">リンク</a></p></td>
 <td><p>活動停止</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/吉川晃司" title="wikilink">吉川晃司</a></p></td>
+<td><p><a href="../Page/吉川晃司.md" title="wikilink">吉川晃司</a></p></td>
 <td><p>きっかわこうじ</p></td>
 <td><p>2009年〜2012年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/吉川晃司/76051515">リンク</a></p></td>
@@ -247,16 +247,16 @@ PRIMARY COLOR RECORDZ
 | [Micro](../Page/Micro.md "wikilink")                                | マイクロ   | 2007年〜2009年 | [リンク](https://itunes.apple.com/jp/artist/micro/61815759)    | Def Techメンバーソロ     |
 | [NAO](https://ja.wikipedia.org/wiki/NAO_\(シンガーソングライター\) "wikilink") | ナオ     | 2007年〜2009年 | [リンク](https://itunes.apple.com/jp/artist/nao/266140491)     |                    |
 | [Spontania](../Page/Spontania.md "wikilink")                        | スポンテニア | 2007年〜2011年 | [リンク](https://itunes.apple.com/jp/artist/スポンテニア/220159291)  | 活動停止               |
-| [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")         | エルボーカル | 2008年       | [リンク](https://itunes.apple.com/jp/artist/l-vokal/260591978) | MATENRO RECORDSに移籍 |
+| [L-VOKAL](../Page/L-VOKAL.md "wikilink")                            | エルボーカル | 2008年       | [リンク](https://itunes.apple.com/jp/artist/l-vokal/260591978) | MATENRO RECORDSに移籍 |
 | [N@H](https://ja.wikipedia.org/wiki/N@H "wikilink")                 | ノア     | 2012年       |                                                             |                    |
 |                                                                     |        |             |                                                             |                    |
 
 SunFlower WorldWide Recordz
 
-| アーティスト名                                           | 読み  | 所属期間        | iTunes                                                 |
-| ------------------------------------------------- | --- | ----------- | ------------------------------------------------------ |
-| [日華](https://ja.wikipedia.org/wiki/日華 "wikilink") | にっか | 2006年〜2008年 | [リンク](https://itunes.apple.com/jp/artist/日華/286702368) |
-|                                                   |     |             |                                                        |
+| アーティスト名                        | 読み  | 所属期間        | iTunes                                                 |
+| ------------------------------ | --- | ----------- | ------------------------------------------------------ |
+| [日華](../Page/日華.md "wikilink") | にっか | 2006年〜2008年 | [リンク](https://itunes.apple.com/jp/artist/日華/286702368) |
+|                                |     |             |                                                        |
 
 ## コンピレーションアルバム・サウンドトラック
 
@@ -283,11 +283,11 @@ SunFlower WorldWide Recordz
 <li><a href="../Page/LADY_LOVE.md" title="wikilink">LADY LOVE</a> / RIZE</li>
 <li><a href="https://ja.wikipedia.org/wiki/Why_I&#39;m_Me" title="wikilink">Why I'm Me</a> “The Reason Why I'm Me" / RIZE</li>
 <li>Positivity / Spontania</li>
-<li><a href="https://ja.wikipedia.org/wiki/真夏のオリオン_(INFINITY16の曲)" title="wikilink">真夏のオリオン</a> / INFINITY16 welcomez MINMI &amp; <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/真夏のオリオン_(INFINITY16の曲)" title="wikilink">真夏のオリオン</a> / INFINITY16 welcomez MINMI &amp; <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/“HANA唄”" title="wikilink">“HANA唄”</a> / Micro</li>
 <li>万歳 / L-VOKAL</li>
-<li>Break your self feat.ラッパ我リヤ / RIZE feat.<a href="https://ja.wikipedia.org/wiki/ラッパ我リヤ" title="wikilink">ラッパ我リヤ</a></li>
-<li>STEP UP feat.KREVA / L-VOKAL feat.<a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li>Break your self feat.ラッパ我リヤ / RIZE feat.<a href="../Page/ラッパ我リヤ.md" title="wikilink">ラッパ我リヤ</a></li>
+<li>STEP UP feat.KREVA / L-VOKAL feat.<a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li>海からいつ戻る / Micro</li>
 <li>イノセント少年BOYYY feat.AYUSE KOZUE / SONPUB feat.<a href="https://ja.wikipedia.org/wiki/AYUSE_KOZUE" title="wikilink">AYUSE KOZUE</a></li>
 <li>LUV / MUNEHIRO</li>
@@ -302,15 +302,15 @@ SunFlower WorldWide Recordz
 <td><p>UMCF-1031</p></td>
 <td><ol>
 <li>真夏のオリオン / INFINITY16 welcomez MINMI,10-FEET</li>
-<li>HURRY HOME(<a href="https://ja.wikipedia.org/wiki/そばにいるね_(青山テルマの曲)" title="wikilink">そばにいるね</a>) / <a href="https://ja.wikipedia.org/wiki/スライ&amp;ロビー" title="wikilink">SLY &amp; ROBBIE</a> feat.LADY TRAFFIC,SoulJa &amp; CHANTELLE</li>
+<li>HURRY HOME(<a href="../Page/そばにいるね_(青山テルマの曲).md" title="wikilink">そばにいるね</a>) / <a href="../Page/スライ&amp;ロビー.md" title="wikilink">SLY &amp; ROBBIE</a> feat.LADY TRAFFIC,SoulJa &amp; CHANTELLE</li>
 <li><a href="../Page/Lifetime_Respect.md" title="wikilink">Lifetime Respect</a> / <a href="https://ja.wikipedia.org/wiki/三木道三" title="wikilink">三木道三</a></li>
 <li>うまれたての瞳 / MOOMIN</li>
 <li>トモダチの証 / <a href="https://ja.wikipedia.org/wiki/TAK-Z" title="wikilink">TAK-Z</a></li>
-<li>Lovin' you feat.ACO / <a href="../Page/RUDEBWOY_FACE.md" title="wikilink">RUDEBWOY FACE</a> feat.<a href="https://ja.wikipedia.org/wiki/ACO" title="wikilink">ACO</a></li>
+<li>Lovin' you feat.ACO / <a href="../Page/RUDEBWOY_FACE.md" title="wikilink">RUDEBWOY FACE</a> feat.<a href="../Page/ACO.md" title="wikilink">ACO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/線香花火_(INFINITY16の曲)" title="wikilink">線香花火</a> / INFINITY16 welcomez GOKI</li>
 <li>LETTER / <a href="../Page/KENTY-GROSS.md" title="wikilink">KENTY GROSS</a></li>
 <li>星のラブレター / MINMI feat.PETER MAN</li>
-<li>DOKO / <a href="https://ja.wikipedia.org/wiki/KEN-U" title="wikilink">KEN-U</a></li>
+<li>DOKO / <a href="../Page/KEN-U.md" title="wikilink">KEN-U</a></li>
 <li>さよならを言う前に / <a href="https://ja.wikipedia.org/wiki/lecca" title="wikilink">lecca</a></li>
 <li>LUV / MUNEHIRO</li>
 <li>DESTINY feat.MISON-B (maruhiproject mix) / BES feat.MISON-B</li>
@@ -333,7 +333,7 @@ SunFlower WorldWide Recordz
 <li>すき / <a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a></li>
 <li>アゲ↑ラブ / <a href="https://ja.wikipedia.org/wiki/Juliet_(音楽ユニット)" title="wikilink">Juliet</a></li>
 <li>“HANABI" / Spontania</li>
-<li>Unchain my heart feat.May J. / <a href="https://ja.wikipedia.org/wiki/WISE" title="wikilink">WISE</a> feat.May J.</li>
+<li>Unchain my heart feat.May J. / <a href="../Page/WISE.md" title="wikilink">WISE</a> feat.May J.</li>
 <li>同じ空みつめてるあなたに / Spontania feat.<a href="../Page/AZU.md" title="wikilink">AZU</a></li>
 <li>Cinderella Story / <a href="https://ja.wikipedia.org/wiki/青山テルマ" title="wikilink">青山テルマ</a></li>
 </ol></td>
@@ -365,13 +365,13 @@ SunFlower WorldWide Recordz
 <td><p><a href="https://ja.wikipedia.org/wiki/NEVERMIND_TRIBUTE" title="wikilink">NEVERMIND TRIBUTE</a></p></td>
 <td><p>UMCF-1072</p></td>
 <td><ol>
-<li>Smells Like Teen Spirit / <a href="https://ja.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a></li>
+<li>Smells Like Teen Spirit / <a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></li>
 <li>In Bloom / <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a></li>
-<li>Come As You Are / <a href="https://ja.wikipedia.org/wiki/BACK_DROP_BOMB" title="wikilink">BACK DROP BOMB</a></li>
-<li>Breed / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li>Come As You Are / <a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a></li>
+<li>Breed / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li>Lithium / <a href="https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION" title="wikilink">MAN WITH A MISSION</a></li>
 <li>Polly / <a href="https://ja.wikipedia.org/wiki/大橋トリオ" title="wikilink">大橋トリオ</a></li>
-<li>Territorial Pissings / <a href="https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet" title="wikilink">9mm Parabellum Bullet</a></li>
+<li>Territorial Pissings / <a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li>Drain You / <a href="https://ja.wikipedia.org/wiki/→Pia-no-jaC←" title="wikilink">→Pia-no-jaC←</a></li>
 <li>Lounge Act / <a href="https://ja.wikipedia.org/wiki/FOUR_MINUTES_TIL_MIDNIGHT" title="wikilink">FOUR MINUTES TIL MIDNIGHT</a></li>
 <li>Stay Away / <a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a></li>

@@ -12,8 +12,8 @@ LabVIEW は、機能や入出力関係、データフローが直感的に把握
 ## 関連項目
 
   - [データフロー言語](https://ja.wikipedia.org/wiki/データフロー言語 "wikilink")
-  - [ビジュアルプログラミング言語](https://ja.wikipedia.org/wiki/ビジュアルプログラミング言語 "wikilink")
-  - [NAG数値計算ライブラリ](https://ja.wikipedia.org/wiki/NAG数値計算ライブラリ "wikilink")
+  - [ビジュアルプログラミング言語](../Page/ビジュアルプログラミング言語.md "wikilink")
+  - [NAG数値計算ライブラリ](../Page/NAG数値計算ライブラリ.md "wikilink")
 
 ## 脚注
 

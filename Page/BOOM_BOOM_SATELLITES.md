@@ -1,7 +1,7 @@
 > この記事は[BOOM BOOM SATELLITES](https://ja.wikipedia.org/wiki/BOOM_BOOM_SATELLITES)から翻訳されています。
 
 
-**BOOM BOOM SATELLITES**（ブンブンサテライツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックユニット](../Page/ロック_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")のレーベル[R\&Sレコーズ](https://ja.wikipedia.org/wiki/R&Sレコーズ "wikilink")からデビュー。後に日本では[gr8\!recordsからデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+**BOOM BOOM SATELLITES**（ブンブンサテライツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックユニット](../Page/ロック_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")のレーベル[R\&Sレコーズ](../Page/R&Sレコーズ.md "wikilink")からデビュー。後に日本では[gr8\!recordsからデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 2016年10月9日、ボーカルの川島が逝去。2017年6月18日、新木場STUDIO COASTにてラストライブを開催した。
 
@@ -12,20 +12,20 @@
 **川島 道行**（かわしま みちゆき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")）- [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink") 、[ギター](../Page/ギター.md "wikilink")
 
   -
-    [岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[女優の](../Page/俳優.md "wikilink")[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")と結婚。[2007年](../Page/2007年.md "wikilink")1月30日に長女誕生。[2011年](../Page/2011年.md "wikilink")10月20日に次女誕生。
+    [岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[女優の](../Page/俳優.md "wikilink")[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")と結婚。[2007年](../Page/2007年.md "wikilink")1月30日に長女誕生。[2011年](../Page/2011年.md "wikilink")10月20日に次女誕生。
     [2016年](../Page/2016年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")、脳腫瘍（後述）により47歳で逝去\[1\]。
 
-**中野 雅之**（なかの まさゆき、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+**中野 雅之**（なかの まさゆき、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
 
   -
-    [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型は[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。2015年のアルバム『SHINE LIKE A BILLION SUNS』の発表に伴い、日本人で初めて[Mastered for iTunesの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")と認定される\[2\]。
+    [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型は[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。2015年のアルバム『SHINE LIKE A BILLION SUNS』の発表に伴い、日本人で初めて[Mastered for iTunesの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")と認定される\[2\]。
 
 ### サポートメンバー
 
-**平井 直樹**（ひらい なおき、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月24日](../Page/11月24日.md "wikilink") - ） - ドラム
+**平井 直樹**（ひらい なおき、[1970年](../Page/1970年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - ） - ドラム
 
   -
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2009年](../Page/2009年.md "wikilink")までサポートドラムを務める。現在[Jackson vibeのメンバー](https://ja.wikipedia.org/wiki/Jackson_vibe "wikilink")。三浦カオルによるエレクトリック・オルタナティブ・ロックバンド「oak」 の旧ドラマー。
+    [東京都](../Page/東京都.md "wikilink")出身。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2009年](../Page/2009年.md "wikilink")までサポートドラムを務める。現在[Jackson vibeのメンバー](../Page/Jackson_vibe.md "wikilink")。三浦カオルによるエレクトリック・オルタナティブ・ロックバンド「oak」 の旧ドラマー。
 
 **福田 洋子**（yoko）（ふくだ ようこ、[1977年](../Page/1977年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink") - ） - [ドラム](../Page/ドラムセット.md "wikilink")
 
@@ -39,19 +39,19 @@
 
 ## 概要
 
-ビッグ・ビートにカテゴライズされるがギター、ベース、ドラムは生演奏など現在はより[ロックに近いサウンドとなっている](../Page/ロック_\(音楽\).md "wikilink")。ユニット名は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のバンド、[ジグ・ジグ・スパトニック](https://ja.wikipedia.org/wiki/ジグ・ジグ・スパトニック "wikilink")のアルバム『[Dress for Excess](https://ja.wikipedia.org/wiki/:en:Dress_for_Excess "wikilink")』の曲名から。
+ビッグ・ビートにカテゴライズされるがギター、ベース、ドラムは生演奏など現在はより[ロックに近いサウンドとなっている](../Page/ロック_\(音楽\).md "wikilink")。ユニット名は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のバンド、[ジグ・ジグ・スパトニック](../Page/ジグ・ジグ・スパトニック.md "wikilink")のアルバム『[Dress for Excess](https://ja.wikipedia.org/wiki/:en:Dress_for_Excess "wikilink")』の曲名から。
 
 ## 影響
 
-音楽のルーツとして、中野は音楽好きの父の影響で聴いていた[マイルス・デイビス](https://ja.wikipedia.org/wiki/マイルス・デイビス "wikilink")による映画『[死刑台のエレベーター](../Page/死刑台のエレベーター.md "wikilink")』サントラ、川島は幼少時ハイになった曲「[快傑ライオン丸](https://ja.wikipedia.org/wiki/快傑ライオン丸 "wikilink")」・「[風雲ライオン丸](https://ja.wikipedia.org/wiki/風雲ライオン丸 "wikilink")」、高校時代に聴いた[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")「[Space Oddity](https://ja.wikipedia.org/wiki/スペイス・オディティ_\(曲\) "wikilink")」をあげている。また、川島は[キリング・ジョーク](https://ja.wikipedia.org/wiki/キリング・ジョーク "wikilink")や[エイリアン・セックス・フィエンド](https://ja.wikipedia.org/wiki/エイリアン・セックス・フィエンド "wikilink")などをはじめとするイギリスのパンクのコピーバンドが、バンドを始めるきっかけだったと語っている\[3\]。また、[プライマル・スクリーム](https://ja.wikipedia.org/wiki/プライマル・スクリーム "wikilink")からの影響もあったという。
+音楽のルーツとして、中野は音楽好きの父の影響で聴いていた[マイルス・デイビス](https://ja.wikipedia.org/wiki/マイルス・デイビス "wikilink")による映画『[死刑台のエレベーター](../Page/死刑台のエレベーター.md "wikilink")』サントラ、川島は幼少時ハイになった曲「[快傑ライオン丸](../Page/快傑ライオン丸.md "wikilink")」・「[風雲ライオン丸](../Page/風雲ライオン丸.md "wikilink")」、高校時代に聴いた[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")「[Space Oddity](https://ja.wikipedia.org/wiki/スペイス・オディティ_\(曲\) "wikilink")」をあげている。また、川島は[キリング・ジョーク](../Page/キリング・ジョーク.md "wikilink")や[エイリアン・セックス・フィエンド](https://ja.wikipedia.org/wiki/エイリアン・セックス・フィエンド "wikilink")などをはじめとするイギリスのパンクのコピーバンドが、バンドを始めるきっかけだったと語っている\[3\]。また、[プライマル・スクリーム](../Page/プライマル・スクリーム.md "wikilink")からの影響もあったという。
 
 アニメとタイアップも多いが、中野雅之はアニメを観る方だといい、[押井守](../Page/押井守.md "wikilink")の「[GHOST IN THE SHELL / 攻殻機動隊](https://ja.wikipedia.org/wiki/GHOST_IN_THE_SHELL_/_攻殻機動隊 "wikilink")」と「[イノセンス](../Page/イノセンス.md "wikilink")」が好き。
 
 ## 来歴
 
-同じ大学に通ったことがきっかけで知り合う。 二人とも同じJAZZバーで働き、当時川島はチーフをしていた。繁忙期に一度、キレた川島にピザを投げつけられたと中野が語っている。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[田中フミヤ](https://ja.wikipedia.org/wiki/田中フミヤ "wikilink")主宰[とれまレコード](https://ja.wikipedia.org/wiki/とれまレコード "wikilink")傘下のUNTITLED RECORDS第1弾コンピレーションCDに楽曲提供し音源デビュー。その後ベルギーの[R\&Sレコーズ](https://ja.wikipedia.org/wiki/R&Sレコーズ "wikilink")でリリースされたシングルをきっかけに、ヨーロッパの誌は「[ケミカル・ブラザーズ](https://ja.wikipedia.org/wiki/ケミカル・ブラザーズ "wikilink")、[プロディジー](https://ja.wikipedia.org/wiki/プロディジー "wikilink")以来の衝撃」と報じた。
+同じ大学に通ったことがきっかけで知り合う。 二人とも同じJAZZバーで働き、当時川島はチーフをしていた。繁忙期に一度、キレた川島にピザを投げつけられたと中野が語っている。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[田中フミヤ](../Page/田中フミヤ.md "wikilink")主宰[とれまレコード](https://ja.wikipedia.org/wiki/とれまレコード "wikilink")傘下のUNTITLED RECORDS第1弾コンピレーションCDに楽曲提供し音源デビュー。その後ベルギーの[R\&Sレコーズ](../Page/R&Sレコーズ.md "wikilink")でリリースされたシングルをきっかけに、ヨーロッパの誌は「[ケミカル・ブラザーズ](../Page/ケミカル・ブラザーズ.md "wikilink")、[プロディジー](../Page/プロディジー.md "wikilink")以来の衝撃」と報じた。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、R\&Sレコーズからデビューアルバムをリリース。6つのヨーロッパ大型フェスに出演後、帰国。その後[Mobyと](https://ja.wikipedia.org/wiki/モービー "wikilink")3か月間の[アメリカツアーを行い](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、その後、[ガービッジ](../Page/ガービッジ.md "wikilink")などの多くのアーティストからリミックス依頼を受ける。[2004年](../Page/2004年.md "wikilink")には長篇アニメーション映画『[アップルシード](../Page/アップルシード.md "wikilink")』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")に楽曲を提供。メインテーマも担当した。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、R\&Sレコーズからデビューアルバムをリリース。6つのヨーロッパ大型フェスに出演後、帰国。その後[Mobyと](../Page/モービー.md "wikilink")3か月間の[アメリカツアーを行い](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、その後、[ガービッジ](../Page/ガービッジ.md "wikilink")などの多くのアーティストからリミックス依頼を受ける。[2004年](../Page/2004年.md "wikilink")には長篇アニメーション映画『[アップルシード](../Page/アップルシード.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")に楽曲を提供。メインテーマも担当した。
 
 ### 川島の闘病と活動終了
 
@@ -121,15 +121,15 @@ SRJL-1051~52:アナログ盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FULL_OF_ELEVATING_PLEASURES" title="wikilink">FULL OF ELEVATING PLEASURES</a></strong></p></td>
 <td><p>SRCP-386</p></td>
 <td><p>オリコン最高20位、登場回数9回</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月17日.md" title="wikilink">5月17日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a>(期間生産限定盤)</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月17日.md" title="wikilink">5月17日</a><br />
+<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a>(期間生産限定盤)</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ON_(アルバム)" title="wikilink">ON</a></strong></p></td>
 <td><p>SRCP-404:期間生産限定盤<br />
 SRCP-401:通常盤</p></td>
@@ -185,7 +185,7 @@ SRCL-8690:通常盤</p></td>
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -514,7 +514,7 @@ SRCL-9108:通常盤</p></td>
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -522,7 +522,7 @@ SRCL-9108:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p><strong>FUJI ROCK FESTIVAL'05 LIVE CUTS</strong></p></td>
 <td><p>SRBP-4</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -650,7 +650,7 @@ SRBP-1365/6（初回生産限定）</p></td>
 ### 海外盤
 
 1.  7 IGNITIONS / AUTO RE-BIRTH（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")）
-2.  PHOTON Commin' 2 a phase（[2003年](../Page/2003年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")）
+2.  PHOTON Commin' 2 a phase（[2003年](../Page/2003年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")）
 
 ### その他
 
@@ -706,13 +706,13 @@ SRCP-371</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年7月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a> シングル『<strong><a href="../Page/Shade.md" title="wikilink">Shade</a></strong>』</p></td>
+<td><p><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a> シングル『<strong><a href="../Page/Shade.md" title="wikilink">Shade</a></strong>』</p></td>
 <td><p>VICL-35692</p></td>
 <td><p>リミックス参加（曲は「Shade」）</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年07月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a> アルバム『<strong><a href="https://ja.wikipedia.org/wiki/SAMPLE_BANG!" title="wikilink">SAMPLE BANG!</a></strong>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a> アルバム『<strong><a href="../Page/SAMPLE_BANG!.md" title="wikilink">SAMPLE BANG!</a></strong>』</p></td>
 <td><p>VICL-61888</p></td>
 <td><p>リミックス参加（曲は「SHAKE」）</p></td>
 </tr>
@@ -724,7 +724,7 @@ SRCP-371</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年12月21日</p></td>
-<td><p>オムニバス『<strong><a href="https://ja.wikipedia.org/wiki/TOYOTA_BIG_AIR" title="wikilink">TOYOTA BIG AIR</a> 10th Anniversary</strong>』</p></td>
+<td><p>オムニバス『<strong><a href="../Page/TOYOTA_BIG_AIR.md" title="wikilink">TOYOTA BIG AIR</a> 10th Anniversary</strong>』</p></td>
 <td><p>UPCI-1040</p></td>
 <td><p>4.Moment I Count</p></td>
 </tr>
@@ -844,29 +844,29 @@ SVWC-7834</p></td>
 
 ## タイアップ
 
-  - 「FOGBOUND」 - PS2 [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")『[リッジレーサーV](https://ja.wikipedia.org/wiki/リッジレーサーV "wikilink")』オープニング、レース中BGM
+  - 「FOGBOUND」 - PS2 [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")『[リッジレーサーV](../Page/リッジレーサーV.md "wikilink")』オープニング、レース中BGM
   - 「On The Painted Desert」 - PS2 ナムコ『リッジレーサーV』エンディング
-  - 「BLINK」 - [フジテレビ系列ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[陰陽師☆安倍晴明〜王都妖奇譚〜](https://ja.wikipedia.org/wiki/陰陽師☆安倍晴明〜王都妖奇譚〜 "wikilink")』主題歌
-  - 「Moment I Count」 - HDDプレーヤー「[iriver](https://ja.wikipedia.org/wiki/iriver "wikilink")」CMソング / 日本テレビ系『[不幸の法則](https://ja.wikipedia.org/wiki/不幸の法則 "wikilink")』オープニングテーマ
+  - 「BLINK」 - [フジテレビ系列ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[陰陽師☆安倍晴明〜王都妖奇譚〜](../Page/陰陽師☆安倍晴明〜王都妖奇譚〜.md "wikilink")』主題歌
+  - 「Moment I Count」 - HDDプレーヤー「[iriver](https://ja.wikipedia.org/wiki/iriver "wikilink")」CMソング / 日本テレビ系『[不幸の法則](../Page/不幸の法則.md "wikilink")』オープニングテーマ
   - 「ANTHEM」 - 映画『[アップルシード](../Page/アップルシード.md "wikilink")』劇中歌
   - 「BUMP OVER HILLS」 - 映画『[アップルシード](../Page/アップルシード.md "wikilink")』劇中歌
   - 「DIVE FOR YOU」 - 映画『[アップルシード](../Page/アップルシード.md "wikilink")』主題歌
   - 「UNDERDOG」- 映画『[アップルシード](../Page/アップルシード.md "wikilink")』劇中歌
-  - 「PILL」 - [メナードジュピエルCMソング](https://ja.wikipedia.org/wiki/日本メナード化粧品 "wikilink")
-  - 「Kick It Out」 - [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ウォータリングキスミントガム」CMソング / 日本テレビ系『[太田光の私が総理大臣になったら…秘書田中。](https://ja.wikipedia.org/wiki/太田光の私が総理大臣になったら…秘書田中。 "wikilink")』オープニングテーマ / NHK BS1『[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink")』オープニングテーマ / 「日産自動車[X-TRAIL](https://ja.wikipedia.org/wiki/X-TRAIL "wikilink")」CMソング/「[GANTZ](https://ja.wikipedia.org/wiki/GANTZ_\(映画\) "wikilink")」プロモーション映像テーマ / [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink") [レノファ山口FC](https://ja.wikipedia.org/wiki/レノファ山口FC "wikilink") 選手紹介時BGM / アーケード [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")『[jubeat knit](https://ja.wikipedia.org/wiki/jubeat "wikilink")』収録曲 / [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")『[グルーヴコースター](https://ja.wikipedia.org/wiki/グルーヴコースター "wikilink")』収録曲
-  - 「DRESS LIKE AN ANGEL」 - 舞台[TEAM NACS第](https://ja.wikipedia.org/wiki/TEAM_NACS "wikilink")9回公演『ミハル』劇中歌
+  - 「PILL」 - [メナードジュピエルCMソング](../Page/日本メナード化粧品.md "wikilink")
+  - 「Kick It Out」 - [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ウォータリングキスミントガム」CMソング / 日本テレビ系『[太田光の私が総理大臣になったら…秘書田中。](../Page/太田光の私が総理大臣になったら…秘書田中。.md "wikilink")』オープニングテーマ / NHK BS1『[Jリーグタイム](../Page/Jリーグタイム.md "wikilink")』オープニングテーマ / 「日産自動車[X-TRAIL](https://ja.wikipedia.org/wiki/X-TRAIL "wikilink")」CMソング/「[GANTZ](https://ja.wikipedia.org/wiki/GANTZ_\(映画\) "wikilink")」プロモーション映像テーマ / [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink") [レノファ山口FC](../Page/レノファ山口FC.md "wikilink") 選手紹介時BGM / アーケード [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")『[jubeat knit](https://ja.wikipedia.org/wiki/jubeat "wikilink")』収録曲 / [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")『[グルーヴコースター](https://ja.wikipedia.org/wiki/グルーヴコースター "wikilink")』収録曲
+  - 「DRESS LIKE AN ANGEL」 - 舞台[TEAM NACS第](../Page/TEAM_NACS.md "wikilink")9回公演『ミハル』劇中歌
   - 「GIRL」 - 映画『[デスノート the Last name](https://ja.wikipedia.org/wiki/デスノート_\(映画\)#後編 "wikilink")』Special Trailer Music /「[GANTZ](https://ja.wikipedia.org/wiki/GANTZ_\(映画\) "wikilink")」プロモーション映像テーマ
-  - 「WHAT GOES ROUND COMES AROUND」 - [クライスラー](../Page/クライスラー.md "wikilink")「[ダッジ](https://ja.wikipedia.org/wiki/ダッジ "wikilink")ブランド」CMソング
+  - 「WHAT GOES ROUND COMES AROUND」 - [クライスラー](../Page/クライスラー.md "wikilink")「[ダッジ](../Page/ダッジ.md "wikilink")ブランド」CMソング
   - 「EASY ACTION」 - 映画『[ベクシル 2077日本鎖国](../Page/ベクシル_2077日本鎖国.md "wikilink")』劇中歌
   - 「FIENDS」 - 映画『[ベクシル 2077日本鎖国](../Page/ベクシル_2077日本鎖国.md "wikilink")』劇中歌
   - 「MORNING AFTER」 - ホンダ『エアウェイブ「ON AIR/街」編 』
   - 「SHUT UP AND EXPLODE」 - アニメ『[亡念のザムド](https://ja.wikipedia.org/wiki/亡念のザムド "wikilink")』PS3版オープニングテーマ
-  - 「4 A MOMENT OF SILENCE」 - [ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")『[ダークナイト](https://ja.wikipedia.org/wiki/ダークナイト "wikilink")』劇中曲
+  - 「4 A MOMENT OF SILENCE」 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")『[ダークナイト](https://ja.wikipedia.org/wiki/ダークナイト "wikilink")』劇中曲
   - 「Scatterin' Monkey」 - 映画『[ピンポン](../Page/ピンポン_\(漫画\).md "wikilink")』劇中歌 / ワーナー・ブラザース『[ダークナイト](https://ja.wikipedia.org/wiki/ダークナイト "wikilink")』劇中曲 / 映画「[YAMAKASI](https://ja.wikipedia.org/wiki/YAMAKASI "wikilink")」劇中曲
   - 「BACK ON MY FEET」 - アニメ『[亡念のザムド](https://ja.wikipedia.org/wiki/亡念のザムド "wikilink")』テレビ版オープニングテーマ
   - 「BLEED」 ‐ [ACジャパン](../Page/ACジャパン.md "wikilink")「エイズ予防財団」2011年度支援キャンペーン 「断言できない」CMソング\[11\]
-  - 「Drifter -test run-」 - [ソニー・エリクソン（現・ソニーモバイル）](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")『[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[OCT](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")） [Xperia acro IS11S](https://ja.wikipedia.org/wiki/IS11S "wikilink")』 EZWebメール対応後CMソング
-  - 「BROKEN MIRROR」- OVA 「[機動戦士ガンダムUC](https://ja.wikipedia.org/wiki/機動戦士ガンダムUC "wikilink")」episode5「黒いユニコーン」主題歌
+  - 「Drifter -test run-」 - [ソニー・エリクソン（現・ソニーモバイル）](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")『[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[OCT](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")） [Xperia acro IS11S](https://ja.wikipedia.org/wiki/IS11S "wikilink")』 EZWebメール対応後CMソング
+  - 「BROKEN MIRROR」- OVA 「[機動戦士ガンダムUC](../Page/機動戦士ガンダムUC.md "wikilink")」episode5「黒いユニコーン」主題歌
   - 「ONLY BLOOD」 - 映画『[MONSTERZ モンスターズ](https://ja.wikipedia.org/wiki/MONSTERZ_モンスターズ "wikilink")』Special Trailer Music
   - 「BACK IN BLACK」 - アニメ『[ニンジャスレイヤー フロムアニメイシヨン](https://ja.wikipedia.org/wiki/ニンジャスレイヤー "wikilink")』テーマ曲
   - 「LAY YOUR HANDS ON ME」 - アニメ「[キズナイーバー](https://ja.wikipedia.org/wiki/キズナイーバー "wikilink")」オープニングテーマ
@@ -887,7 +887,7 @@ SVWC-7834</p></td>
   - 2011年12月26日・28日 - FRONT CHAPTER
   - 2012年03月22日-06月23日（6公演） - BRANDNEW CHAPTER ―GARDEN OF DELIGHT―
       -
-        w/[9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")/[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")/[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")
+        w/[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")/[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")/[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")
   - 2012年12月06日-12月11日（3公演） - Pre Release Party「"EMBRACE" The 15th Pre Release QUATTRO Premium Party」
   - 2013年01月22日-05月03日（26公演） - BOOM BOOM SATELLITES EMBRACE TOUR 2013
   - 2014年03月12日-03月30日（4公演） - TOUR 2014 STARTING OVER
@@ -936,7 +936,7 @@ SVWC-7834</p></td>
   - 2010年08月14日 - RISING SUN ROCK FESTIVAL 2010 in EZO
   - 2010年08月28日 - SPACE SHOWER SWEET LOVE SHOWER 2010 -15th ANNIVERSARY-
   - 2010年08月29日 - RUSH BALL 2010
-  - 2011年07月17日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES. "wikilink")2011
+  - 2011年07月17日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2011
   - 2011年08月12日 - SONICMANIA 2011
   - 2011年09月21日 - [凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink") presents "トキニ雨\#13 〜Tornado Edition〜"
   - 2012年03月17日 - ヘリオス・グルーヴィーナイト vol.21
@@ -953,10 +953,10 @@ SVWC-7834</p></td>
   - 2014年04月26日 - ARABAKI ROCK FEST.14
   - 2014年05月04日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2014
   - 2014年05月05日 - VIVA LA ROCK
-  - 2014年05月22日 - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") x BOOM BOOM SATELLITES
+  - 2014年05月22日 - [RIZE](../Page/RIZE.md "wikilink") x BOOM BOOM SATELLITES
   - 2014年07月02日 - EX THEATER PREMIUM LIVE SERIES GO LIVE VOL.2
   - 2014年07月03日 - NippoN RockS
-  - 2014年08月07日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") presents GG14
+  - 2014年08月07日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") presents GG14
   - 2014年08月09日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年08月15日 - RISING SUN ROCK FESTIVAL 2014 in EZO
   - 2014年08月17日 - SUMMER SONIC 2014

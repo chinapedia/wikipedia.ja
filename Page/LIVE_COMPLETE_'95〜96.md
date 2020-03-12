@@ -1,13 +1,13 @@
 > この記事は[LIVE COMPLETE \'9596](https://ja.wikipedia.org/wiki/LIVE_COMPLETE_\'9596)から翻訳されています。
 
 
-**LIVE COMPLETE '95〜'96**（ライブ・コンプリート・ナインティーンナインティファイブ〜ナインティーンナインティシックス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+**LIVE COMPLETE '95〜'96**（ライブ・コンプリート・ナインティーンナインティファイブ〜ナインティーンナインティシックス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
-[1996年](../Page/1996年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスよりリリースされた。
+[1996年](../Page/1996年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から1996年に行われた公演の中から抜粋して収録されている。全2枚組。
 
-リリース当初は20万枚の完全生産限定盤であったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に、24ビット・デジタル・リマスタリング化された上で、プライスダウンして再リリースされた。
+リリース当初は20万枚の完全生産限定盤であったが、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に、24ビット・デジタル・リマスタリング化された上で、プライスダウンして再リリースされた。
 
 ## 解説
 
@@ -17,10 +17,10 @@
 
 ## リリース履歴
 
-| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")                                  | 規格                                    | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                                                                            |
-| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ---- | ----------------------------------------------------------------------------- |
-| 1   | [1996年](../Page/1996年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")                | [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレス | [CD](../Page/コンパクトディスク.md "wikilink") | TOCT-9600〜1                                           | 4位   | 完全生産限定盤、[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様             |
-| 2   | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink") | 東芝EMI／エキスプレス                                                            | CD                                    | TOCT-25964〜5                                          | \-   | 24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、デジパック仕様 |
+| No. | 日付                                                                         | [レーベル](../Page/レコードレーベル.md "wikilink")               | 規格                                    | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                                                                |
+| --- | -------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------- | ---------------------------------- | ---- | ----------------------------------------------------------------- |
+| 1   | [1996年](../Page/1996年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレス | [CD](../Page/コンパクトディスク.md "wikilink") | TOCT-9600〜1                        | 4位   | 完全生産限定盤、[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様 |
+| 2   | [2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")     | 東芝EMI／エキスプレス                                         | CD                                    | TOCT-25964〜5                       | \-   | 24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、デジパック仕様        |
 
 ## 収録曲
 
@@ -56,20 +56,20 @@
 
 ### Live '95 "いつかの少年"
 
-  - **長渕剛** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、[アコースティック・ピアノ](../Page/ピアノ.md "wikilink")、[ブルース・ハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
-  - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - アコースティック・ギター、[フラットマンドリン](https://ja.wikipedia.org/wiki/フラットマンドリン "wikilink")
+  - **長渕剛** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、[アコースティック・ピアノ](../Page/ピアノ.md "wikilink")、[ブルース・ハープ](../Page/ハーモニカ.md "wikilink")
+  - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - アコースティック・ギター、[フラットマンドリン](../Page/フラットマンドリン.md "wikilink")
   - **浜田良美** - アコースティック・ギター、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 ### Live '96 "KAZOKU"
 
-長渕剛のツアーでキーボードを担当するのは、嘗ては[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")、現在は[国吉良一](https://ja.wikipedia.org/wiki/国吉良一 "wikilink")でほぼ決まっているが、このツアーのみエルトン永田（永田一郎）が務めている。また、[矢島賢](../Page/矢島賢.md "wikilink")が帯同した最後のツアーでもある。
+長渕剛のツアーでキーボードを担当するのは、嘗ては[中西康晴](../Page/中西康晴.md "wikilink")、現在は[国吉良一](../Page/国吉良一.md "wikilink")でほぼ決まっているが、このツアーのみエルトン永田（永田一郎）が務めている。また、[矢島賢](../Page/矢島賢.md "wikilink")が帯同した最後のツアーでもある。
 
   - **長渕剛** - [ギター](../Page/ギター.md "wikilink")、ブルース・ハープ
   - **島村英二** - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - **岡沢章** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **岡沢章** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **笛吹利明** - アコースティック・ギター
   - **[矢島賢](../Page/矢島賢.md "wikilink")** - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
-  - **エルトン永田** - [キーボード (楽器)](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - **エルトン永田** - [キーボード (楽器)](../Page/キーボード_\(楽器\).md "wikilink")
   - **浜田良美** - ギター、コーラス
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[ \(DC\)](https://ja.wikipedia.org/wiki/_\(DC\))から翻訳されています。
 
 
-**ザ・フラッシュ**（）は、[DCコミックス](https://ja.wikipedia.org/wiki/DCコミックス "wikilink")の出版する[アメリカン・コミックス](https://ja.wikipedia.org/wiki/アメリカン・コミックス "wikilink")に登場する架空の[スーパーヒーロー](https://ja.wikipedia.org/wiki/スーパーヒーロー "wikilink")、及びコミックのタイトル。胸に[稲妻のマークのついた真紅のコスチュームを身にまとい](https://ja.wikipedia.org/wiki/雷#稲妻 "wikilink")、超スピードで疾走する。
+**ザ・フラッシュ**（）は、[DCコミックス](../Page/DCコミックス.md "wikilink")の出版する[アメリカン・コミックス](../Page/アメリカン・コミックス.md "wikilink")に登場する架空の[スーパーヒーロー](../Page/スーパーヒーロー.md "wikilink")、及びコミックのタイトル。胸に[稲妻のマークのついた真紅のコスチュームを身にまとい](https://ja.wikipedia.org/wiki/雷#稲妻 "wikilink")、超スピードで疾走する。
 
 ## 概要
 
@@ -50,7 +50,7 @@
 
 本名：**バーソロミュー・ヘンリー・"バリー"・アレン**。本拠地はセントラル・シティ。[1956年](../Page/1956年.md "wikilink")10月の『ショーケース』4号で初登場した。
 
-警察の化学班で働いていたバリー・アレンは、実験室で雷に打たれ、無数の薬品を浴びたことをきっかけに超高速で走る能力を得た。コミックで憧れていたフラッシュ（初代）にちなんで自らフラッシュを名乗り、クライムファイターとしての活動を始める。[ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ "wikilink")（JLA）創立メンバーの一人。
+警察の化学班で働いていたバリー・アレンは、実験室で雷に打たれ、無数の薬品を浴びたことをきっかけに超高速で走る能力を得た。コミックで憧れていたフラッシュ（初代）にちなんで自らフラッシュを名乗り、クライムファイターとしての活動を始める。[ジャスティス・リーグ](../Page/ジャスティス・リーグ.md "wikilink")（JLA）創立メンバーの一人。
 
 「[クライシス・オン・インフィニット・アース](https://ja.wikipedia.org/wiki/クライシス・オン・インフィニット・アース "wikilink")」事件の際に、アンチモニターの計画を食い止めるため、[反物質](../Page/反物質.md "wikilink")砲の内部に降り、反物質の流れを逆転させることに成功するが、全生命力を燃やしつくして死亡。彼の人知れぬ活躍により、多次元宇宙崩壊の危機は回避された。だが、「[インフィニット・クライシス](https://ja.wikipedia.org/wiki/インフィニット・クライシス "wikilink")」事件において、バリーは命を落としたのではなくスピードフォースの存在する別次元に封じ込められていたことが判明、そして「[ファイナル・クライシス](https://ja.wikipedia.org/wiki/ファイナル・クライシス "wikilink")」事件で別次元からの帰還を果たし、ヒーロー活動を再開する。
 
@@ -71,15 +71,15 @@
     演 - エズラ・ミラー、日本語吹替 - 小林親弘
     キャプテン・ブーメランの紹介シーンで登場。強盗殺人を行っていたキャプテン・ブーメランを投獄した。
   - 映画『[ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ_\(映画\) "wikilink")』
-    演 - エズラ・ミラー、日本語吹替 - [細谷佳正](https://ja.wikipedia.org/wiki/細谷佳正 "wikilink")
+    演 - エズラ・ミラー、日本語吹替 - [細谷佳正](../Page/細谷佳正.md "wikilink")
   - ドラマ『[超音速ヒーロー ザ・フラッシュ](https://ja.wikipedia.org/wiki/#『超音速ヒーロー_ザ・フラッシュ』 "wikilink")』
     演 - [ジョン・ウェズリー・シップ](https://ja.wikipedia.org/wiki/ジョン・ウェズリー・シップ "wikilink")
     主人公。能力を得る場面から描かれる。
   - ドラマ『[THE FLASH/フラッシュ](https://ja.wikipedia.org/wiki/THE_FLASH/フラッシュ "wikilink")』
-    演 - [グラント・ガスティン](https://ja.wikipedia.org/wiki/グラント・ガスティン "wikilink")、日本語吹替 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    演 - [グラント・ガスティン](https://ja.wikipedia.org/wiki/グラント・ガスティン "wikilink")、日本語吹替 - [福山潤](../Page/福山潤.md "wikilink")
     主人公。『[ARROW/アロー](https://ja.wikipedia.org/wiki/ARROW/アロー "wikilink")』第2シーズン第8話「来訪者」にもゲスト出演。
   - アニメ『[バットマン:ブレイブ&ボールド](https://ja.wikipedia.org/wiki/バットマン:ブレイブ&ボールド "wikilink")』
-    声 - [アラン・テュディック](https://ja.wikipedia.org/wiki/アラン・テュディック "wikilink")、日本語吹替 - [佐藤拓也](https://ja.wikipedia.org/wiki/佐藤拓也_\(声優\) "wikilink")
+    声 - [アラン・テュディック](../Page/アラン・テュディック.md "wikilink")、日本語吹替 - [佐藤拓也](https://ja.wikipedia.org/wiki/佐藤拓也_\(声優\) "wikilink")
     プロフェッサー・ズームとの戦いの末に死亡したと思われていたが、未来でプロフェッサー・ズーム（リバースフラッシュ）に捕まっていた。
   - アニメ『[ヤング・ジャスティス](https://ja.wikipedia.org/wiki/ヤング・ジャスティス_\(アニメ\) "wikilink")』
     声 - [ケビン・マイケル・リチャードソン](../Page/ケビン・マイケル・リチャードソン.md "wikilink")/[ジェームズ・アーノルド・テイラー](https://ja.wikipedia.org/wiki/ジェームズ・アーノルド・テイラー "wikilink")
@@ -118,11 +118,11 @@
 
   - ドラマ『[THE FLASH/フラッシュ](https://ja.wikipedia.org/wiki/THE_FLASH/フラッシュ "wikilink")』
     演 - キーナン・ロンズデール、日本語吹替 - [村瀬歩](https://ja.wikipedia.org/wiki/村瀬歩 "wikilink")
-  - アニメ『[スーパーマン](https://ja.wikipedia.org/wiki/スーパーマン_\(アニメ\) "wikilink")』
-    声 - [チャーリー・シュラッター](https://ja.wikipedia.org/wiki/チャーリー・シュラッター "wikilink")、日本語吹替 - [山野井仁](https://ja.wikipedia.org/wiki/山野井仁 "wikilink")
+  - アニメ『[スーパーマン](../Page/スーパーマン_\(アニメ\).md "wikilink")』
+    声 - [チャーリー・シュラッター](https://ja.wikipedia.org/wiki/チャーリー・シュラッター "wikilink")、日本語吹替 - [山野井仁](../Page/山野井仁.md "wikilink")
     3代目フラッシュとしてシーズン2の第4話「世界一速い男」にゲスト出演。
   - アニメ『[ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ_\(アニメ\) "wikilink")』
-    声 - [マイケル・ローゼンバウム](https://ja.wikipedia.org/wiki/マイケル・ローゼンバウム "wikilink")、日本語吹替 - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    声 - [マイケル・ローゼンバウム](https://ja.wikipedia.org/wiki/マイケル・ローゼンバウム "wikilink")、日本語吹替 - [千葉進歩](../Page/千葉進歩.md "wikilink")
     3代目フラッシュとしてレギュラーメンバーで登場。
   - アニメ『[ジャスティス・リーグ・アンリミテッド](https://ja.wikipedia.org/wiki/ジャスティス・リーグ・アンリミテッド "wikilink")』
     声 - [マイケル・ローゼンバウム](https://ja.wikipedia.org/wiki/マイケル・ローゼンバウム "wikilink")
@@ -130,11 +130,11 @@
   - アニメ『[バットマン:ブレイブ&ボールド](https://ja.wikipedia.org/wiki/バットマン:ブレイブ&ボールド "wikilink")』
     声 - [ハンター・パリッシュ](https://ja.wikipedia.org/wiki/ハンター・パリッシュ "wikilink")、日本語吹替 - [井口祐一](https://ja.wikipedia.org/wiki/井口祐一 "wikilink")
     キッド・フラッシュとしてゲスト出演。
-  - アニメ『[ティーン・タイタンズ](https://ja.wikipedia.org/wiki/ティーン・タイタンズ_\(アニメ\) "wikilink")』
-    声 - [マイケル・ローゼンバウム](https://ja.wikipedia.org/wiki/マイケル・ローゼンバウム "wikilink")、日本語吹替 - [井上剛](https://ja.wikipedia.org/wiki/井上剛_\(声優\) "wikilink")
+  - アニメ『[ティーン・タイタンズ](../Page/ティーン・タイタンズ_\(アニメ\).md "wikilink")』
+    声 - [マイケル・ローゼンバウム](https://ja.wikipedia.org/wiki/マイケル・ローゼンバウム "wikilink")、日本語吹替 - [井上剛](../Page/井上剛_\(声優\).md "wikilink")
     キッド・フラッシュとしてゲスト出演。
   - アニメ『[ヤング・ジャスティス](https://ja.wikipedia.org/wiki/ヤング・ジャスティス_\(アニメ\) "wikilink")』
-    声 - [ジェイソン・スピサック](https://ja.wikipedia.org/wiki/ジェイソン・スピサック "wikilink")、日本語吹替 - [前野智昭](https://ja.wikipedia.org/wiki/前野智昭 "wikilink")
+    声 - [ジェイソン・スピサック](https://ja.wikipedia.org/wiki/ジェイソン・スピサック "wikilink")、日本語吹替 - [前野智昭](../Page/前野智昭.md "wikilink")
     キッド・フラッシュとしてレギュラー出演している。アルティミス（[グリーンアロー](https://ja.wikipedia.org/wiki/グリーンアロー "wikilink")の[サイドキック](https://ja.wikipedia.org/wiki/サイドキック "wikilink")）の恋人になる。
 
 ## 4代目フラッシュ
@@ -151,7 +151,7 @@
 
 <small>4代目フラッシュの映像作品</small>
 
-  - ドラマ『[ヤング・スーパーマン](https://ja.wikipedia.org/wiki/ヤング・スーパーマン "wikilink")』
+  - ドラマ『[ヤング・スーパーマン](../Page/ヤング・スーパーマン.md "wikilink")』
     演 - [カイル・ガルナー](https://ja.wikipedia.org/wiki/カイル・ガルナー "wikilink")
     シーズン4第5話「世界一速い男」(原題：*RUN*)にバートが登場。シーズン6第11話「正義の同盟」(原題：*JUSTICE*)では**インパルス**と名乗っている。
   - アニメ『[ヤング・ジャスティス](https://ja.wikipedia.org/wiki/ヤング・ジャスティス_\(アニメ\) "wikilink")』
@@ -166,11 +166,11 @@
     本名：バート・アレン2世。
   - 3代目キッド・フラッシュ
     本名：アイリス・ウェスト2世。(Iris West Ⅱ)
-    初出は1996年の『[キングダム・カム](https://ja.wikipedia.org/wiki/キングダム・カム_\(コミック\) "wikilink")』。3代目フラッシュであるウォーリーの娘。
+    初出は1996年の『[キングダム・カム](../Page/キングダム・カム_\(コミック\).md "wikilink")』。3代目フラッシュであるウォーリーの娘。
 
 ## 能力
 
-フラッシュのように超高速移動を能力とするヒーローたちは「**スピードスター**」と呼ばれる。DCコミックスにおけるスピードスターたちの高速移動は、単純な身体能力ではないとされている。DCコミックスのスピードスターたちは**[スピードフォース](https://ja.wikipedia.org/wiki/#スピードフォース "wikilink")**にアクセスすることで、無尽蔵な運動エネルギーを引き出して高速移動を行っている([マーベル・コミック](https://ja.wikipedia.org/wiki/マーベル・コミック "wikilink")のスピードスターの場合は、彼らの純粋な身体能力である。例：『X-メン』の[クイックシルバー](https://ja.wikipedia.org/wiki/クイックシルバー_\(マーベル・コミック\) "wikilink"))。
+フラッシュのように超高速移動を能力とするヒーローたちは「**スピードスター**」と呼ばれる。DCコミックスにおけるスピードスターたちの高速移動は、単純な身体能力ではないとされている。DCコミックスのスピードスターたちは**[スピードフォース](https://ja.wikipedia.org/wiki/#スピードフォース "wikilink")**にアクセスすることで、無尽蔵な運動エネルギーを引き出して高速移動を行っている([マーベル・コミック](../Page/マーベル・コミック.md "wikilink")のスピードスターの場合は、彼らの純粋な身体能力である。例：『X-メン』の[クイックシルバー](https://ja.wikipedia.org/wiki/クイックシルバー_\(マーベル・コミック\) "wikilink"))。
 
 この原理を発見したのは、3代目フラッシュだった\[9\]。このリンクを強化することで彼は[光速](../Page/光速.md "wikilink")で走れるようになり、歴代フラッシュ最速となっている\[10\]。
 
@@ -240,7 +240,7 @@
   - **[フラッシュポイント](https://ja.wikipedia.org/wiki/フラッシュポイント_\(DCコミックス\) "wikilink")** (ISBN 978-4863323841)
       - [ヴィレッジブックス](../Page/ヴィレッジブックス.md "wikilink")刊\[11\]、2012年5月19日発売。
   - **フラッシュ：新たなる挑戦（THE NEW 52\!）**(ISBN 978-4796875394)
-      - [小学館集英社プロダクション](https://ja.wikipedia.org/wiki/小学館集英社プロダクション "wikilink")刊\[12\]、2015年03月06日発売。
+      - [小学館集英社プロダクション](../Page/小学館集英社プロダクション.md "wikilink")刊\[12\]、2015年03月06日発売。
   - **フラッシュ：ローグズの逆襲（THE NEW 52\!）**(ISBN 978-4796875844)
       - 小学館集英社プロダクション刊\[13\]、2016年03月16日発売。
   - **フラッシュ：グロッドの脅威（THE NEW 52\!）**(ISBN 978-4796876209)
@@ -263,14 +263,14 @@
 
 ### 映画
 
-2014年、[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")企画での映画化作品の制作が決定し、主人公のバリー・アレン役を[エズラ・ミラー](https://ja.wikipedia.org/wiki/エズラ・ミラー "wikilink")が演じる\[20\]。
+2014年、[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")企画での映画化作品の制作が決定し、主人公のバリー・アレン役を[エズラ・ミラー](https://ja.wikipedia.org/wiki/エズラ・ミラー "wikilink")が演じる\[20\]。
 
 ### ビデオムービー
 
   - 『最新・最強・最速のヒーロー / ザ・フラッシュ』(The FLASH、1990年)
     監督ロバート・イスコブ、出演[ジョン・ウェズリー・シップ](https://ja.wikipedia.org/wiki/ジョン・ウェズリー・シップ "wikilink")、[アマンダ・ペイズ](https://ja.wikipedia.org/wiki/アマンダ・ペイズ "wikilink")
   - 『ザ・フラッシュ2』 (The FLASH II Revenge of the Trickster、1991年)
-    監督ダニー・ビルソン、出演ジョン・ウェズリー・シップ、アマンダ・ペイズ、[マーク・ハミル](https://ja.wikipedia.org/wiki/マーク・ハミル "wikilink")、[ディック・ミラー](https://ja.wikipedia.org/wiki/ディック・ミラー "wikilink")
+    監督ダニー・ビルソン、出演ジョン・ウェズリー・シップ、アマンダ・ペイズ、[マーク・ハミル](../Page/マーク・ハミル.md "wikilink")、[ディック・ミラー](https://ja.wikipedia.org/wiki/ディック・ミラー "wikilink")
   - 『ザ・フラッシュ3』 (The FLASH III Deadly Nightshade、1992年)
     監督ブルース・ビルソン、出演ジョン・ウェズリー・シップ、アマンダ・ペイズ
 
@@ -329,7 +329,7 @@
 
 ### ドラマ
 
-  - [ヤング・スーパーマン](https://ja.wikipedia.org/wiki/ヤング・スーパーマン "wikilink")（原題：*Smallville*、2001年-2011年）
+  - [ヤング・スーパーマン](../Page/ヤング・スーパーマン.md "wikilink")（原題：*Smallville*、2001年-2011年）
 
   - [ARROW/アロー](https://ja.wikipedia.org/wiki/ARROW/アロー "wikilink")（原題：*Arrow*、2012年-現在）
 
@@ -341,17 +341,17 @@
 
 ### アニメ
 
-  - [スーパーマン](https://ja.wikipedia.org/wiki/スーパーマン_\(アニメ\) "wikilink") (1996年-2000年)
+  - [スーパーマン](../Page/スーパーマン_\(アニメ\).md "wikilink") (1996年-2000年)
 
   - [ジャスティス・リーグ](https://ja.wikipedia.org/wiki/ジャスティス・リーグ_\(アニメ\) "wikilink") (2001年-2004年)
 
   - [ジャスティス・リーグ・アンリミテッド](https://ja.wikipedia.org/wiki/ジャスティス・リーグ・アンリミテッド "wikilink") (2004年-2006年)
 
-  - [ザ・バットマン](https://ja.wikipedia.org/wiki/ザ・バットマン "wikilink") (2004年-2008年)
+  - [ザ・バットマン](../Page/ザ・バットマン.md "wikilink") (2004年-2008年)
 
   - [バットマン:ブレイブ&ボールド](https://ja.wikipedia.org/wiki/バットマン:ブレイブ&ボールド "wikilink") (2008年-2011年)
 
-  - [ティーン・タイタンズ](https://ja.wikipedia.org/wiki/ティーン・タイタンズ_\(アニメ\) "wikilink") (2003年-現在)
+  - [ティーン・タイタンズ](../Page/ティーン・タイタンズ_\(アニメ\).md "wikilink") (2003年-現在)
 
   - [ヤング・ジャスティス](https://ja.wikipedia.org/wiki/ヤング・ジャスティス_\(アニメ\) "wikilink") (2010年-現在)
 

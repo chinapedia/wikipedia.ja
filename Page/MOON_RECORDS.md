@@ -1,7 +1,7 @@
 > この記事は[MOON RECORDS](https://ja.wikipedia.org/wiki/MOON_RECORDS)から翻訳されています。
 
 
-**MOON RECORDS**（ムーン・レコード）は、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")の[社内カンパニー](https://ja.wikipedia.org/wiki/社内カンパニー "wikilink")にあたる[レコードレーベル](../Page/レコードレーベル.md "wikilink")の一つ。現在は実質的に[山下達郎](../Page/山下達郎.md "wikilink")・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")夫妻のプライベートレーベルと化している。
+**MOON RECORDS**（ムーン・レコード）は、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")の[社内カンパニー](../Page/社内カンパニー.md "wikilink")にあたる[レコードレーベル](../Page/レコードレーベル.md "wikilink")の一つ。現在は実質的に[山下達郎](../Page/山下達郎.md "wikilink")・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")夫妻のプライベートレーベルと化している。
 
 ## 歴史
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）のディレクター[小杉理宇造](https://ja.wikipedia.org/wiki/小杉理宇造 "wikilink")が総勢16名で独立。[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")創立者（当時・社長）[村井邦彦](https://ja.wikipedia.org/wiki/村井邦彦 "wikilink")、[ヤナセ](https://ja.wikipedia.org/wiki/ヤナセ "wikilink")会長・[梁瀬次郎](../Page/梁瀬次郎.md "wikilink")の支援を受け、アルファレコードの関連会社、「**アルファ・ムーン**株式会社」として創業。山下達郎は役員兼・所属ミュージシャンとして、設立に深く関わっている。
+  - [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）のディレクター[小杉理宇造](../Page/小杉理宇造.md "wikilink")が総勢16名で独立。[アルファレコード](../Page/アルファレコード.md "wikilink")創立者（当時・社長）[村井邦彦](../Page/村井邦彦.md "wikilink")、[ヤナセ](../Page/ヤナセ.md "wikilink")会長・[梁瀬次郎](../Page/梁瀬次郎.md "wikilink")の支援を受け、アルファレコードの関連会社、「**アルファ・ムーン**株式会社」として創業。山下達郎は役員兼・所属ミュージシャンとして、設立に深く関わっている。
 
 <!-- end list -->
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - 米[ワーナー・ミュージック・グループ](https://ja.wikipedia.org/wiki/ワーナー・ミュージック・グループ "wikilink")傘下となり、同時に[尾崎豊](https://ja.wikipedia.org/wiki/尾崎豊 "wikilink")や[HOUND DOGが所属する](../Page/HOUND_DOG.md "wikilink")、[マザーエンタープライズ](https://ja.wikipedia.org/wiki/マザーエンタープライズ "wikilink")傘下のレコード会社「**マザーアンドチルドレン**」と合併し、新たにGARLANDレーベルを社内に発足（[THE BLUE HEARTS等が所属](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）、この三つのレーベル名（Moon・Mother\&Children・Garland）の頭文字を取って社名を**エム・エム・ジー株式会社**(**MMG**) とする。同時にMMGは[アトランティック・レコード](https://ja.wikipedia.org/wiki/アトランティック・レコード "wikilink")の日本盤の発売権を獲得。ムーン・レコードはMMGのレーベルの一つとなる。
+  - 米[ワーナー・ミュージック・グループ](../Page/ワーナー・ミュージック・グループ.md "wikilink")傘下となり、同時に[尾崎豊](../Page/尾崎豊.md "wikilink")や[HOUND DOGが所属する](../Page/HOUND_DOG.md "wikilink")、[マザーエンタープライズ](https://ja.wikipedia.org/wiki/マザーエンタープライズ "wikilink")傘下のレコード会社「**マザーアンドチルドレン**」と合併し、新たにGARLANDレーベルを社内に発足（[THE BLUE HEARTS等が所属](../Page/THE_BLUE_HEARTS.md "wikilink")）、この三つのレーベル名（Moon・Mother\&Children・Garland）の頭文字を取って社名を**エム・エム・ジー株式会社**(**MMG**) とする。同時にMMGは[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")の日本盤の発売権を獲得。ムーン・レコードはMMGのレーベルの一つとなる。
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - 山下達郎のシングル「[ヘロン](https://ja.wikipedia.org/wiki/ヘロン_\(山下達郎の曲\) "wikilink")」より、イーストウエスト・ジャパンから親会社である[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")にムーン・レコードの発売元が移管。
+  - 山下達郎のシングル「[ヘロン](https://ja.wikipedia.org/wiki/ヘロン_\(山下達郎の曲\) "wikilink")」より、イーストウエスト・ジャパンから親会社である[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")にムーン・レコードの発売元が移管。
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - タイム・ワーナーが音楽部門を分離・売却。それに伴い、ワーナー エンターテイメント ジャパンも音楽ソフト部門を[株式会社ワーナーミュージック・ジャパンとして分離](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。ムーン・レコードはレーベルとして存続。
+  - タイム・ワーナーが音楽部門を分離・売却。それに伴い、ワーナー エンターテイメント ジャパンも音楽ソフト部門を[株式会社ワーナーミュージック・ジャパンとして分離](../Page/ワーナーミュージック・ジャパン.md "wikilink")。ムーン・レコードはレーベルとして存続。
 
 ## 所属アーティスト
 

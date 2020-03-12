@@ -1,13 +1,13 @@
 > この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
 
 
-**GE三洋クレジット**（ジーイーさんようクレジット）は、かつて存在した米[ゼネラル・エレクトリック](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink")（GE）系の法人金融会社・[GEフィナンシャルサービス](https://ja.wikipedia.org/wiki/GEフィナンシャルサービス "wikilink")株式会社の一事業部門。[リース](../Page/リース.md "wikilink")・[割賦販売](https://ja.wikipedia.org/wiki/割賦販売 "wikilink")などの事業を行う。現在は[日本GE](https://ja.wikipedia.org/wiki/日本GE "wikilink")株式会社の法人金融部門「GEキャピタル」に統合。
+**GE三洋クレジット**（ジーイーさんようクレジット）は、かつて存在した米[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")（GE）系の法人金融会社・[GEフィナンシャルサービス](https://ja.wikipedia.org/wiki/GEフィナンシャルサービス "wikilink")株式会社の一事業部門。[リース](../Page/リース.md "wikilink")・[割賦販売](../Page/割賦販売.md "wikilink")などの事業を行う。現在は[日本GE](https://ja.wikipedia.org/wiki/日本GE "wikilink")株式会社の法人金融部門「GEキャピタル」に統合。
 
 ## 概説
 
-前身は[三洋電機](../Page/三洋電機.md "wikilink")の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")・**三洋電機クレジット株式会社**。三洋電機の上場子会社であったが[2007年](../Page/2007年.md "wikilink")に[TOB](https://ja.wikipedia.org/wiki/TOB "wikilink")により買収されてGEのグループ会社となり\[1\]、翌[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、**GE三洋クレジット株式会社**に社名変更。その後[2009年](../Page/2009年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に、同じGE系列のGEフィナンシャルサービス株式会社に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")され、同社の一部門となった\[2\]。そしてGEフィナンシャルサービスも、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")にGEの日本法人である[日本GE](https://ja.wikipedia.org/wiki/日本GE "wikilink")株式会社に吸収合併され、GE三洋クレジット部門もGEキャピタルに統合された。
+前身は[三洋電機](../Page/三洋電機.md "wikilink")の[子会社](../Page/子会社.md "wikilink")・**三洋電機クレジット株式会社**。三洋電機の上場子会社であったが[2007年](../Page/2007年.md "wikilink")に[TOB](https://ja.wikipedia.org/wiki/TOB "wikilink")により買収されてGEのグループ会社となり\[1\]、翌[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、**GE三洋クレジット株式会社**に社名変更。その後[2009年](../Page/2009年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に、同じGE系列のGEフィナンシャルサービス株式会社に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")され、同社の一部門となった\[2\]。そしてGEフィナンシャルサービスも、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")にGEの日本法人である[日本GE](https://ja.wikipedia.org/wiki/日本GE "wikilink")株式会社に吸収合併され、GE三洋クレジット部門もGEキャピタルに統合された。
 
-元々は[三洋電機](../Page/三洋電機.md "wikilink")の家電製品の月販部門として発足したが、1990年代後半には[個人事業主](https://ja.wikipedia.org/wiki/個人事業主 "wikilink")・[中小企業](../Page/中小企業.md "wikilink")を主な対象とした電気機器や[カーリース](../Page/カーリース.md "wikilink")などのリース業、子会社の三洋倶楽部を通じた[商工ローン](https://ja.wikipedia.org/wiki/商工ローン "wikilink")の取扱いが過半を占めており、[三井住友トラスト・パナソニックファイナンス](https://ja.wikipedia.org/wiki/三井住友トラスト・パナソニックファイナンス "wikilink")や[ソニーファイナンス](https://ja.wikipedia.org/wiki/ソニーファイナンス "wikilink")など一般消費者向けのクレジットカードを取り扱うメーカー系信販とは売り上げ構成が異なっていた。三洋電機グループの中では高収益を上げていた。
+元々は[三洋電機](../Page/三洋電機.md "wikilink")の家電製品の月販部門として発足したが、1990年代後半には[個人事業主](../Page/個人事業主.md "wikilink")・[中小企業](../Page/中小企業.md "wikilink")を主な対象とした電気機器や[カーリース](../Page/カーリース.md "wikilink")などのリース業、子会社の三洋倶楽部を通じた[商工ローン](https://ja.wikipedia.org/wiki/商工ローン "wikilink")の取扱いが過半を占めており、[三井住友トラスト・パナソニックファイナンス](https://ja.wikipedia.org/wiki/三井住友トラスト・パナソニックファイナンス "wikilink")や[ソニーファイナンス](https://ja.wikipedia.org/wiki/ソニーファイナンス "wikilink")など一般消費者向けのクレジットカードを取り扱うメーカー系信販とは売り上げ構成が異なっていた。三洋電機グループの中では高収益を上げていた。
 
 ## 主な事業
 
@@ -19,18 +19,18 @@
 
 ## 沿革
 
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")4月　**三洋電機クレジット株式会社**設立（本社　[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")）
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")4月　**三洋電機クレジット株式会社**設立（本社　[大阪府](../Page/大阪府.md "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")）
   - [1992年](../Page/1992年.md "wikilink")　中央リソグラ印刷子会社化（後に三洋リソグラ印刷に商号変更）
-  - [1994年](../Page/1994年.md "wikilink")　本社を[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[中央区に移転](../Page/中央区_\(大阪市\).md "wikilink")
+  - [1994年](../Page/1994年.md "wikilink")　本社を[大阪市](../Page/大阪市.md "wikilink")[中央区に移転](../Page/中央区_\(大阪市\).md "wikilink")
   - [1996年](../Page/1996年.md "wikilink")　[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")2部上場
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")2部上場
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　[東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")　三洋倶楽部設立
   - [1999年](../Page/1999年.md "wikilink")　東証、大証1部上場　三洋レンテック設立
   - [2000年](../Page/2000年.md "wikilink")　三洋ファイナンシャルテクノロジー、三洋カーシステム、三洋ビジネスプランニング、シー・シー・エー設立。
   - [2002年](../Page/2002年.md "wikilink")　三洋レンテック・三洋ビジネスプラニングが合併し、三洋ビジネスプラニングになる。三洋ビジネスプラニングが三洋リソグラ印刷を吸収合併。シー・シー・エーを解散。
   - [2004年](../Page/2004年.md "wikilink")　三洋メディカルパートナーズ解散
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月　三洋電機再建の一環で、[ゴールドマンサックス](https://ja.wikipedia.org/wiki/ゴールドマンサックス "wikilink")らに対する[第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")を行い、筆頭株主が三洋電機からゴールドマンサックスとなる。　
-  - [2007年](../Page/2007年.md "wikilink")5月　[TOBなど一連の手続きを経て](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")、[ゼネラル・エレクトリック](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink")の100%出資子会社であるSTVパートナーズの子会社（97.15%）となり、東証・大証上場廃止。[定款変更](https://ja.wikipedia.org/wiki/定款変更 "wikilink")などを行い、株式を全部取得条項付にした後、11月にSTVパートナーズ以外の株主が[端株](https://ja.wikipedia.org/wiki/端株 "wikilink")になるよう株式の取得と交付が行われ、同社が[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")化。
+  - [2005年](../Page/2005年.md "wikilink")12月　三洋電機再建の一環で、[ゴールドマンサックス](https://ja.wikipedia.org/wiki/ゴールドマンサックス "wikilink")らに対する[第三者割当増資](../Page/第三者割当増資.md "wikilink")を行い、筆頭株主が三洋電機からゴールドマンサックスとなる。　
+  - [2007年](../Page/2007年.md "wikilink")5月　[TOBなど一連の手続きを経て](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")、[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")の100%出資子会社であるSTVパートナーズの子会社（97.15%）となり、東証・大証上場廃止。[定款変更](https://ja.wikipedia.org/wiki/定款変更 "wikilink")などを行い、株式を全部取得条項付にした後、11月にSTVパートナーズ以外の株主が[端株](../Page/端株.md "wikilink")になるよう株式の取得と交付が行われ、同社が[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")化。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月1日　**GE三洋クレジット株式会社**に社名変更
   - 2008年8月1日　三洋ビジネスプランニング、三洋カーシステムを吸収合併
   - [2009年](../Page/2009年.md "wikilink")1月1日　[GEフィナンシャルサービス](https://ja.wikipedia.org/wiki/GEフィナンシャルサービス "wikilink")株式会社に吸収合併され、会社解散\[3\]。同社の一事業「GE三洋クレジット」となった。GE三洋クレジット株式会社の[遠山卓治](https://ja.wikipedia.org/wiki/遠山卓治 "wikilink")社長は、GEフィナンシャルサービス株式会社の共同社長に就任。
@@ -48,7 +48,7 @@
 
   - [三洋電機](../Page/三洋電機.md "wikilink") - かつての親会社。
   - [三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink") - 買収先として名前が挙がるが、最終的に交渉決裂した\[4\]。
-  - [NOVA](https://ja.wikipedia.org/wiki/NOVA "wikilink") - 受講料のクレジット契約に関して、取扱店取引を行っていた\[5\]。
+  - [NOVA](../Page/NOVA.md "wikilink") - 受講料のクレジット契約に関して、取扱店取引を行っていた\[5\]。
 
 ## 脚注
 

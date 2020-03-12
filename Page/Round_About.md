@@ -1,7 +1,7 @@
 > この記事は[Round About](https://ja.wikipedia.org/wiki/Round_About)から翻訳されています。
 
 
-『**Round About**』（ラウンド・アバウト）は、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**Round About**』（ラウンド・アバウト）は、[SEAMO](../Page/SEAMO.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -20,7 +20,7 @@
 4.  **Hey Boy, Hey Girl feat. [BoA](../Page/BoA.md "wikilink")**
     (作詞：Naoki Takada / 作曲：Naoki Takada & Shintaro "Growth" Izutsu / 編曲：Shintaro "Growth" Izutsu)
       -
-        [TBS系列](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』エンディングテーマ
+        [TBS系列](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』エンディングテーマ
 5.  **君のとなり**
     (作詞：Naoki Takada / 作曲：Naoki Takada & Shintaro "Growth" Izutsu / 編曲：Shintaro "Growth" Izutsu)
 6.  **[Cry Baby](https://ja.wikipedia.org/wiki/Cry_Baby_\(SEAMO\) "wikilink")**

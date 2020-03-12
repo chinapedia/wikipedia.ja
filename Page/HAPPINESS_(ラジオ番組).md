@@ -9,7 +9,7 @@
 
 ## ナビゲーター
 
-  - [宮本絢子](https://ja.wikipedia.org/wiki/宮本絢子 "wikilink")（2007年10月-2010年9月）
+  - [宮本絢子](../Page/宮本絢子.md "wikilink")（2007年10月-2010年9月）
 
 <!-- end list -->
 
@@ -26,9 +26,9 @@
 番組終了時点
 
   - 9:20-9:45 NEW STYLES
-  - 10:00-10:30 [KAGOME](https://ja.wikipedia.org/wiki/カゴメ "wikilink") TASTE OF LIFE
+  - 10:00-10:30 [KAGOME](../Page/カゴメ.md "wikilink") TASTE OF LIFE
   - 11:10-11:20 [DIANA Shoes](https://ja.wikipedia.org/wiki/DIANA_Shoes "wikilink") ON FASHION
-  - 11:40-12:30 [CHINTAI](../Page/CHINTAI.md "wikilink") [TOKYO-GRAPH](https://ja.wikipedia.org/wiki/TOKYO-GRAPH "wikilink") / ナビゲーター:[シトウレイ](https://ja.wikipedia.org/wiki/シトウレイ "wikilink")
+  - 11:40-12:30 [CHINTAI](../Page/CHINTAI.md "wikilink") [TOKYO-GRAPH](https://ja.wikipedia.org/wiki/TOKYO-GRAPH "wikilink") / ナビゲーター:[シトウレイ](../Page/シトウレイ.md "wikilink")
 
 ### 過去のコーナー
 
@@ -70,7 +70,7 @@
 
   - BE HAPPY\!\!
   - SHOW ME\!
-  - [SHÛKAN CHINTAI](../Page/CHINTAI.md "wikilink") presents [TIME FOR BRUNCH](https://ja.wikipedia.org/wiki/TIME_FOR_BRUNCH "wikilink")
+  - [SHÛKAN CHINTAI](../Page/CHINTAI.md "wikilink") presents [TIME FOR BRUNCH](../Page/TIME_FOR_BRUNCH.md "wikilink")
 
 <!-- end list -->
 

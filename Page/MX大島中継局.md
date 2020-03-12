@@ -1,7 +1,7 @@
 > この記事は[MX](https://ja.wikipedia.org/wiki/MX)から翻訳されています。
 
 
-**MX大島中継局**（エムエックスおおしまちゅうけいきょく）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[大島町](../Page/大島町.md "wikilink")（[伊豆大島](../Page/伊豆大島.md "wikilink")）に置かれていた[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（TOKYO MX）の[中継局](../Page/中継局.md "wikilink")である。
+**MX大島中継局**（エムエックスおおしまちゅうけいきょく）は、[東京都](../Page/東京都.md "wikilink")[大島町](../Page/大島町.md "wikilink")（[伊豆大島](../Page/伊豆大島.md "wikilink")）に置かれていた[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（TOKYO MX）の[中継局](../Page/中継局.md "wikilink")である。
 
 本項では島内にあるMX単独中継局である大島岡田と大島泉津の両中継局についても併せて記述する。
 
@@ -19,8 +19,8 @@
 <tbody>
 <tr class="odd">
 <td><p>放送局名</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></td>

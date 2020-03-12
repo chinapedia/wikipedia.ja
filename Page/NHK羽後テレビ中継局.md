@@ -16,15 +16,15 @@
 <tbody>
 <tr class="odd">
 <td><p>放送局名</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></td>
 <td><p><a href="../Page/偏光.md" title="wikilink">偏波面</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育テレビ</a></p></td>
 <td><p>4ch</p></td>
 <td><p>映像3W<br />
 /音声750mW</p></td>
@@ -35,7 +35,7 @@
 <td><p>垂直偏波</p></td>
 </tr>
 <tr class="odd">
-<td><p>NHK秋田<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合テレビ</a></p></td>
+<td><p>NHK秋田<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合テレビ</a></p></td>
 <td><p>6ch</p></td>
 <td><p>映像9.1W<br />
 /音声2.3W</p></td>

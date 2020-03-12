@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - 「[Another Days](https://ja.wikipedia.org/wiki/Another_Days "wikilink")」、「[Because of you](../Page/Because_of_you_\(w-inds.の曲\).md "wikilink")」に続く、シングルでの3度目の[オリコン週間チャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得曲。
+  - 「[Another Days](../Page/Another_Days.md "wikilink")」、「[Because of you](../Page/Because_of_you_\(w-inds.の曲\).md "wikilink")」に続く、シングルでの3度目の[オリコン週間チャート](../Page/オリコンチャート.md "wikilink")1位獲得曲。
   - [タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")及び詞中での"SUPER LOVER"は、“運命のひと”、“最後の恋人”といった意味合いが含まれている。
-  - メインボーカルは[橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")だが、Dメロには[緒方龍一](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")のソロパートも存在している。
-  - [イタリア](../Page/イタリア.md "wikilink")の[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『Disco De Oro』に収録されているDJ Spavento「Super Lover」が原曲。
+  - メインボーカルは[橘慶太](../Page/橘慶太.md "wikilink")だが、Dメロには[緒方龍一](../Page/緒方龍一.md "wikilink")のソロパートも存在している。
+  - [イタリア](../Page/イタリア.md "wikilink")の[ディスコ](../Page/ディスコ.md "wikilink")[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『Disco De Oro』に収録されているDJ Spavento「Super Lover」が原曲。
   - 2003年5月26日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
-  - 2003年11月22日[Ayu ready?に出演](https://ja.wikipedia.org/wiki/Ayu_ready? "wikilink")。
+  - 2003年11月22日[Ayu ready?に出演](../Page/Ayu_ready?.md "wikilink")。
 
 ## 収録曲
 
@@ -25,10 +25,10 @@
 
 ## タイアップ
 
-  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[あんグラ☆NOW\!](https://ja.wikipedia.org/wiki/あんたにグラッツェ! "wikilink")』2003年5月度エンディングテーマ
+  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[あんグラ☆NOW\!](../Page/あんたにグラッツェ!.md "wikilink")』2003年5月度エンディングテーマ
 
 ## 関連項目
 
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
 
 [Category:W-inds.の楽曲](https://ja.wikipedia.org/wiki/Category:W-inds.の楽曲 "wikilink") [Category:shungo.が制作した楽曲](https://ja.wikipedia.org/wiki/Category:shungo.が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

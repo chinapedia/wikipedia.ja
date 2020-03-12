@@ -18,7 +18,7 @@
 毎週月曜〜金曜 25:00〜25:15に放送中。
 
   - aki金曜「URAGAO」DJ:aki
-  - [神山みさ](https://ja.wikipedia.org/wiki/神山みさ "wikilink")木曜「ドリーム☆騎士」DJ:神山みさ
+  - [神山みさ](../Page/神山みさ.md "wikilink")木曜「ドリーム☆騎士」DJ:神山みさ
   - [RUIDO](https://ja.wikipedia.org/wiki/RUIDO "wikilink")水曜「RUIDO CHANNEL」DJ:RYO
   - [表参道FAB](https://ja.wikipedia.org/wiki/表参道FAB "wikilink")火曜「ミュージックストリーム」DJ:戸田和雅子、スロウロリス(偶数月)、SHUUBI(奇数月)
   - [MySpace](https://ja.wikipedia.org/wiki/MySpace "wikilink")月曜「マイスペーストライアル」DJ:aki
@@ -34,8 +34,8 @@
 毎週火曜日23:00〜23:30
 
   - [PureBOYS](https://ja.wikipedia.org/wiki/PureBOYS "wikilink") 「ピュア☆ラジ」23:00〜23:15
-  - [Kra](https://ja.wikipedia.org/wiki/Kra "wikilink") 「Kraのケラリズム！－音楽？何それ？美味いの？」23:15〜23:30
-  - [雅](https://ja.wikipedia.org/wiki/雅 "wikilink")MYV「Whassup, NIPPON \!? 」～2008.3終了
+  - [Kra](../Page/Kra.md "wikilink") 「Kraのケラリズム！－音楽？何それ？美味いの？」23:15〜23:30
+  - [雅](../Page/雅.md "wikilink")MYV「Whassup, NIPPON \!? 」～2008.3終了
 
 ## 終了
 
@@ -48,7 +48,7 @@
   - 26:30〜　キンモクセイ「いい歌！NIPPON\!\!」
   - 26:50〜　[木村竜蔵](https://ja.wikipedia.org/wiki/木村竜蔵 "wikilink")「竜門 -ドラゴンゲート-」
   - 27:10〜　aki「URAGAO」
-  - 27:30〜　[神山みさ](https://ja.wikipedia.org/wiki/神山みさ "wikilink")「Dream☆騎士 (ドリーム・ナイト)」
+  - 27:30〜　[神山みさ](../Page/神山みさ.md "wikilink")「Dream☆騎士 (ドリーム・ナイト)」
   - 27:50〜　[RUIDO](https://ja.wikipedia.org/wiki/RUIDO "wikilink")「RUIDO CHANNEL」
   - 28:10〜　表参道FAB「ミュージック・ストリーム」（月変わりで[Ri-Sa.J](https://ja.wikipedia.org/wiki/Ri-Sa.J "wikilink")、[SHUUBI](https://ja.wikipedia.org/wiki/SHUUBI "wikilink")は前半、[戸田和雅子](https://ja.wikipedia.org/wiki/戸田和雅子 "wikilink")と[スロウロリス](https://ja.wikipedia.org/wiki/スロウロリス "wikilink")は後半を担当する。）
 

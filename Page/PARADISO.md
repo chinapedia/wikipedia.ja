@@ -5,9 +5,9 @@
 
 ## 概要
 
-改題を繰り返しながら7年半続いたJ-WAVE初の金曜午後のワイド番組『[e-STATION](https://ja.wikipedia.org/wiki/e-STATION "wikilink")』シリーズに替わって放送開始。初代ナビゲーターの[南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")は前月まで『[HOLA\! DOMINGO](https://ja.wikipedia.org/wiki/HOLA!_DOMINGO "wikilink")』を担当していたが、平日昼のレギュラー番組を担当するのは『[VIVA\! ACCESS](https://ja.wikipedia.org/wiki/VIVA!_ACCESS "wikilink")』以来となった。番組のコンセプトは「働くあなたを応援します！」。
+改題を繰り返しながら7年半続いたJ-WAVE初の金曜午後のワイド番組『[e-STATION](https://ja.wikipedia.org/wiki/e-STATION "wikilink")』シリーズに替わって放送開始。初代ナビゲーターの[南美布](../Page/南美布.md "wikilink")は前月まで『[HOLA\! DOMINGO](../Page/HOLA!_DOMINGO.md "wikilink")』を担当していたが、平日昼のレギュラー番組を担当するのは『[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink")』以来となった。番組のコンセプトは「働くあなたを応援します！」。
 
-2009年7月からは同局運営のインターネットラジオ・[Brandnew J](https://ja.wikipedia.org/wiki/Brandnew_J "wikilink") での[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")も行われていたが、こちらは2011年4月1日（金曜） 02:00 をもって終了した。
+2009年7月からは同局運営のインターネットラジオ・[Brandnew J](../Page/Brandnew_J.md "wikilink") での[サイマル放送](../Page/サイマル放送.md "wikilink")も行われていたが、こちらは2011年4月1日（金曜） 02:00 をもって終了した。
 
 ## 放送時間
 
@@ -18,8 +18,8 @@
 
 ## ナビゲーター
 
-  - [南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")（2007年10月5日 - 2010年3月26日）
-  - [岡田マリア](https://ja.wikipedia.org/wiki/岡田マリア "wikilink")（2010年4月2日 - 2011年6月24日）
+  - [南美布](../Page/南美布.md "wikilink")（2007年10月5日 - 2010年3月26日）
+  - [岡田マリア](../Page/岡田マリア.md "wikilink")（2010年4月2日 - 2011年6月24日）
   - [板井麻衣子](https://ja.wikipedia.org/wiki/板井麻衣子 "wikilink")（2011年7月1日 - 2016年9月30日）
 
 ## コーナー
@@ -30,7 +30,7 @@
   - 13:05 [Panasonic Beauty](https://ja.wikipedia.org/wiki/パナソニック "wikilink") SPARKLE YOUR LIFE
   - 13:40 [CHOYA](../Page/チョーヤ梅酒.md "wikilink") NATURAL FEEL
   - 14:10 CINEMA CIRCLE ナビゲーター：大倉眞一郎
-  - 14:40 [CITIZEN](https://ja.wikipedia.org/wiki/シチズン時計 "wikilink") GIRLS SPECIAL
+  - 14:40 [CITIZEN](../Page/シチズン時計.md "wikilink") GIRLS SPECIAL
   - 15:10 TOKYO GOURMET MAP
   - 15:30 [Eastspring Investments](https://ja.wikipedia.org/wiki/イーストスプリング・インベストメンツ "wikilink") ASIA NOW\!
 

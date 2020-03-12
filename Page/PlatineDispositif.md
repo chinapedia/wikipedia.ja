@@ -6,7 +6,7 @@
 ## 作品
 
   - DicingKnight.（2004年5月）
-    [トップビュー](https://ja.wikipedia.org/wiki/トップビュー "wikilink")型[アクションゲーム](../Page/アクションゲーム.md "wikilink")。公式では「戦略的はらぺこアクション」とされている。[ワンダースワンカラー](https://ja.wikipedia.org/wiki/ワンダースワンカラー "wikilink")・[スワンクリスタル](https://ja.wikipedia.org/wiki/スワンクリスタル "wikilink")専用ソフトで、同ハード最終ソフト。[ワンダーウィッチ](https://ja.wikipedia.org/wiki/ワンダーウィッチ "wikilink")でのソフトコンテスト「WWGP2002」\[1\]。でグランプリを受賞した作品をベースとしている。
+    [トップビュー](https://ja.wikipedia.org/wiki/トップビュー "wikilink")型[アクションゲーム](../Page/アクションゲーム.md "wikilink")。公式では「戦略的はらぺこアクション」とされている。[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")・[スワンクリスタル](../Page/スワンクリスタル.md "wikilink")専用ソフトで、同ハード最終ソフト。[ワンダーウィッチ](../Page/ワンダーウィッチ.md "wikilink")でのソフトコンテスト「WWGP2002」\[1\]。でグランプリを受賞した作品をベースとしている。
   - Gundemonium（2003年9月）
     [横スクロール型シューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム#横スクロールシューティング "wikilink")。公式ではGundeadliGneの解説において「爆速横スクロールSTG」とされている。[Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
   - ジャバウォックの花嫁（2004年3月）
@@ -14,7 +14,7 @@
     現在はオンラインリリース版が公開されている\[2\]。
   - GundeadliGne（2004年8月）
     [横スクロール型シューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム#横スクロールシューティング "wikilink")。[Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。「Gundemonium」の続編。「ガンデッドライン」と読む。
-    2011年9月に「Gundemonium Recollection」「ヒトガタハッパ」とともに[Steam](https://ja.wikipedia.org/wiki/Steam "wikilink")で配信された。
+    2011年9月に「Gundemonium Recollection」「ヒトガタハッパ」とともに[Steam](../Page/Steam.md "wikilink")で配信された。
   - メイドさんを右に（2004年12月）
     横スクロール型[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
     2020年に、家庭用ゲーム機向けのリメイク版『メイドさんを右にミ☆』が発売される予定である\[3\]。
@@ -27,8 +27,8 @@
     STARLEAF YO（2006年2月）
     [縦スクロール型](https://ja.wikipedia.org/wiki/シューティングゲーム#縦スクロールシューティング "wikilink")[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")ゲーム。[Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。公式サイトの雑記「WORDSLOG」にて配布。「ヒトガタハッパ」の外伝的作品。「STARLEAF」のバージョンアップ版が「STARLEAF Z」、さらに「Z」のバージョンアップ版が「STARLEAF YO」である。現在は「YO」のみオンラインリリース\[5\]で入手可能。
   - チェルシーさんは7の魔神をブッ殺さねばならない。（2006年8月）
-    [サイドビュー](https://ja.wikipedia.org/wiki/サイドビュー "wikilink")型[アクションゲーム](../Page/アクションゲーム.md "wikilink")。公式では「探索型アクションっぽい時間いじりゲーム」と紹介されている。[Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[コミックマーケット](../Page/コミックマーケット.md "wikilink")（以下C）70にて初頒布。通称「[チェルのブ](https://ja.wikipedia.org/wiki/チェルノブ "wikilink")」。
-    2013年9月に[Steam](https://ja.wikipedia.org/wiki/Steam "wikilink")で配信される。メディアスケープによって2016年8月に[PlayStation Vita版が](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、10月に[PlayStation 4版がそれぞれ配信された](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。
+    [サイドビュー](https://ja.wikipedia.org/wiki/サイドビュー "wikilink")型[アクションゲーム](../Page/アクションゲーム.md "wikilink")。公式では「探索型アクションっぽい時間いじりゲーム」と紹介されている。[Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[コミックマーケット](../Page/コミックマーケット.md "wikilink")（以下C）70にて初頒布。通称「[チェルのブ](../Page/チェルノブ.md "wikilink")」。
+    2013年9月に[Steam](../Page/Steam.md "wikilink")で配信される。メディアスケープによって2016年8月に[PlayStation Vita版が](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、10月に[PlayStation 4版がそれぞれ配信された](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。
   - だんデらいよん（2006年12月）
     [Windows専用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。公式では「スターダストアクションゲーム」と紹介されている。[自機](../Page/自機.md "wikilink")を[マウスで操作する](../Page/マウス_\(コンピュータ\).md "wikilink")。C71にて初頒布。
   - Gundemonium Recollection（2007年8月）
@@ -77,9 +77,9 @@
 
   - 商業作品
 
-:\* Adobe Photoshopで描くデジタル・イラストレーション（[工学社](https://ja.wikipedia.org/wiki/工学社 "wikilink")刊、2001年3月）
+:\* Adobe Photoshopで描くデジタル・イラストレーション（[工学社](../Page/工学社.md "wikilink")刊、2001年3月）
 
-:\* 狼面司祭（ビーストプリースト） 1～3巻 （[秋津透](https://ja.wikipedia.org/wiki/秋津透 "wikilink")著、[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊） - 表紙・挿絵を担当。
+:\* 狼面司祭（ビーストプリースト） 1～3巻 （[秋津透](../Page/秋津透.md "wikilink")著、[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊） - 表紙・挿絵を担当。
 
   - 同人作品 （PlatineDispositif 以外）
 

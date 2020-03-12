@@ -1,11 +1,11 @@
 > この記事は[GAME JOCKEY](https://ja.wikipedia.org/wiki/GAME_JOCKEY)から翻訳されています。
 
 
-『**GAME JOCKEY**』（ゲームジョッキー）は、[2003年](../Page/2003年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた[アルファ放送制作](https://ja.wikipedia.org/wiki/アルファ放送制作 "wikilink")製作の[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[ゲーム番組](https://ja.wikipedia.org/wiki/ゲーム番組 "wikilink")）である。
+『**GAME JOCKEY**』（ゲームジョッキー）は、[2003年](../Page/2003年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた[アルファ放送制作](https://ja.wikipedia.org/wiki/アルファ放送制作 "wikilink")製作の[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）である。
 
 ## 概要
 
-土曜7時台に放送されていた『[ゲームEX](../Page/ゲームEX.md "wikilink")』の後継番組で、同番組から引き続き[林家たい平](https://ja.wikipedia.org/wiki/林家たい平 "wikilink")がメイン司会を務めていた。地上波ではテレビ東京のみで放送されていたが、その一方で[ネット配信](../Page/ネット配信.md "wikilink")も行われていた。
+土曜7時台に放送されていた『[ゲームEX](../Page/ゲームEX.md "wikilink")』の後継番組で、同番組から引き続き[林家たい平](../Page/林家たい平.md "wikilink")がメイン司会を務めていた。地上波ではテレビ東京のみで放送されていたが、その一方で[ネット配信](../Page/ネット配信.md "wikilink")も行われていた。
 
 地上波で放送されたアルファ放送制作のゲーム番組としては最後の番組であり、後継番組の『[GAME Jockey II](../Page/GAME_JOCKEY2.md "wikilink")』は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送された。
 
@@ -19,17 +19,17 @@
 
 ## 司会
 
-  - [林家たい平](https://ja.wikipedia.org/wiki/林家たい平 "wikilink")
-  - [宇恵さやか](https://ja.wikipedia.org/wiki/宇恵さやか "wikilink")
-  - [林家いっ平](https://ja.wikipedia.org/wiki/林家三平_\(2代目\) "wikilink")
+  - [林家たい平](../Page/林家たい平.md "wikilink")
+  - [宇恵さやか](../Page/宇恵さやか.md "wikilink")
+  - [林家いっ平](../Page/林家三平_\(2代目\).md "wikilink")
 
 ## 関連項目
 
 同じくアルファ放送制作のゲーム番組で、『GAME Jockey II』以外はテレビ東京で放送されていた。
 
-  - [ファミっ子大作戦](https://ja.wikipedia.org/wiki/ファミっ子大作戦 "wikilink")
-  - [ファミっ子大集合](https://ja.wikipedia.org/wiki/ファミっ子大集合 "wikilink")
-  - [Theゲームパワー](https://ja.wikipedia.org/wiki/Theゲームパワー "wikilink")
+  - [ファミっ子大作戦](../Page/ファミっ子大作戦.md "wikilink")
+  - [ファミっ子大集合](../Page/ファミっ子大集合.md "wikilink")
+  - [Theゲームパワー](../Page/Theゲームパワー.md "wikilink")
   - [ゲーム王国](../Page/ゲーム王国.md "wikilink")
   - [ゲームEX](../Page/ゲームEX.md "wikilink")
   - [GAME Jockey II](../Page/GAME_JOCKEY2.md "wikilink")

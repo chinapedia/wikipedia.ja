@@ -1,7 +1,7 @@
 > この記事は[EquAL pRayer 2 aLL](https://ja.wikipedia.org/wiki/EquAL_pRayer_2_aLL)から翻訳されています。
 
 
-『**EquAL pRayer 2 aLL**』（イコール・プレイヤー・トゥ・オール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[アヤビエの](https://ja.wikipedia.org/wiki/彩冷える "wikilink")2nd[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")に発売された。
+『**EquAL pRayer 2 aLL**』（イコール・プレイヤー・トゥ・オール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[アヤビエの](../Page/彩冷える.md "wikilink")2nd[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に発売された。
 
 ## 概要
 

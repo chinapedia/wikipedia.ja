@@ -1,13 +1,13 @@
 > この記事は[NEW AKINA ](https://ja.wikipedia.org/wiki/NEW_AKINA_)から翻訳されています。
 
 
-『**NEW AKINA エトランゼ**』（ニュー・アキナ エトランゼ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の4枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。このアルバムは1983年8月10日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12580, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8080)。
+『**NEW AKINA エトランゼ**』（ニュー・アキナ エトランゼ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の4枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1983年8月10日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12580, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8080)。
 
 ## 背景
 
-『NEW AKINA エトランゼ』は、1983年発表の2枚目となる通算4作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")で、前スタジオ・アルバム『[ファンタジー〈幻想曲〉](https://ja.wikipedia.org/wiki/ファンタジー〈幻想曲〉 "wikilink")』からおよそ5か月ぶりの1983年8月10日に、[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12580)と[CT](../Page/コンパクトカセット.md "wikilink") (LKF-8080)の2形態で同時発売された\[1\]\[2\]\[3\]。
+『NEW AKINA エトランゼ』は、1983年発表の2枚目となる通算4作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、前スタジオ・アルバム『[ファンタジー〈幻想曲〉](../Page/ファンタジー〈幻想曲〉.md "wikilink")』からおよそ5か月ぶりの1983年8月10日に、[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12580)と[CT](../Page/コンパクトカセット.md "wikilink") (LKF-8080)の2形態で同時発売された\[1\]\[2\]\[3\]。
 
-同年9月28日には[CD](../Page/コンパクトディスク.md "wikilink") (35XL-15)でも発売された。さらに同年11月30日には、[スーパーディスクLP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (SDM-15010)でも発売された。このアルバムの帯コピーは、「**ヨーロッパ・レコーディング、撮影、そして新しい作家との出逢い。明菜2年目の歴史がここから始まる。**」であった\[4\]。新たな作家陣には、[阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")、[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")、[谷村新司](../Page/谷村新司.md "wikilink")、[細野晴臣](../Page/細野晴臣.md "wikilink")、[横浜銀蝿](https://ja.wikipedia.org/wiki/横浜銀蝿 "wikilink")を迎えた\[5\]\[6\]\[7\]\[8\]。
+同年9月28日には[CD](../Page/コンパクトディスク.md "wikilink") (35XL-15)でも発売された。さらに同年11月30日には、[スーパーディスクLP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (SDM-15010)でも発売された。このアルバムの帯コピーは、「**ヨーロッパ・レコーディング、撮影、そして新しい作家との出逢い。明菜2年目の歴史がここから始まる。**」であった\[4\]。新たな作家陣には、[阿木燿子](../Page/阿木燿子.md "wikilink")、[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")、[谷村新司](../Page/谷村新司.md "wikilink")、[細野晴臣](../Page/細野晴臣.md "wikilink")、[横浜銀蝿](../Page/横浜銀蝿.md "wikilink")を迎えた\[5\]\[6\]\[7\]\[8\]。
 
 本作は[シングル](../Page/シングル.md "wikilink")楽曲が未収録となっている\[9\]\[10\]。
 
@@ -15,7 +15,7 @@
 
 本作を引っ提げての全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")RAINBOW SHOWERが開催され、本作発売前の1983年7月23日より行われた\[17\]\[18\]。
 
-本作リリース後の1983年10月12日には、ヨーロッパで収録された本作の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")『[NEW AKINA エトランゼ 中森明菜 in ヨーロッパ](https://ja.wikipedia.org/wiki/NEW_AKINA_エトランゼ_中森明菜_in_ヨーロッパ "wikilink")』がリリースされた\[19\]\[20\]。後に、本作収録の3曲目である「少しだけスキャンダル」が、1984年9月7日から10月26日にかけて放送された[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系連続テレビドラマ](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")『**[瑠璃色ゼネレーション](https://ja.wikipedia.org/wiki/瑠璃色ゼネレーション "wikilink")**』の主題歌に起用された\[21\]\[22\]。
+本作リリース後の1983年10月12日には、ヨーロッパで収録された本作の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")『[NEW AKINA エトランゼ 中森明菜 in ヨーロッパ](../Page/NEW_AKINA_エトランゼ_中森明菜_in_ヨーロッパ.md "wikilink")』がリリースされた\[19\]\[20\]。後に、本作収録の3曲目である「少しだけスキャンダル」が、1984年9月7日から10月26日にかけて放送された[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系連続テレビドラマ](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")『**[瑠璃色ゼネレーション](https://ja.wikipedia.org/wiki/瑠璃色ゼネレーション "wikilink")**』の主題歌に起用された\[21\]\[22\]。
 
 ## 批評
 
@@ -23,7 +23,7 @@
 
 ## 評価
 
-『NEW AKINA エトランゼ』は、[オリコン週間LPチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1983年8月22日付で初登場し、最高順位1位を記録した\[25\]\[26\]。以降、翌週の1983年8月29日付まで2週連続となる1位を獲得した\[27\]。同チャートの100位以内においては、計16週に渡ってランクインしている\[28\]。またカセット盤もオリコンの週間カセットチャートで最高順位1位を記録し、同チャートの100位以内には計19週に渡りランクインした\[29\]。1983年度の年間アルバムチャートでは、10位を記録した。更にこのアルバムは、1983年に行われた[第25回日本レコード大賞](https://ja.wikipedia.org/wiki/第25回日本レコード大賞 "wikilink")にて、83アルバム・ベスト10を受賞した\[30\]。
+『NEW AKINA エトランゼ』は、[オリコン週間LPチャートの](../Page/オリコンチャート.md "wikilink")1983年8月22日付で初登場し、最高順位1位を記録した\[25\]\[26\]。以降、翌週の1983年8月29日付まで2週連続となる1位を獲得した\[27\]。同チャートの100位以内においては、計16週に渡ってランクインしている\[28\]。またカセット盤もオリコンの週間カセットチャートで最高順位1位を記録し、同チャートの100位以内には計19週に渡りランクインした\[29\]。1983年度の年間アルバムチャートでは、10位を記録した。更にこのアルバムは、1983年に行われた[第25回日本レコード大賞](https://ja.wikipedia.org/wiki/第25回日本レコード大賞 "wikilink")にて、83アルバム・ベスト10を受賞した\[30\]。
 
 ## 収録曲
 
@@ -36,41 +36,41 @@
   - 「さよならね」
       - ドラムス - 渡嘉敷祐一
       - ベース - 岡沢章
-      - エレクトリック・ギター - [今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")、吉野藤丸
-      - アコースティック・ギター - [吉川忠英](https://ja.wikipedia.org/wiki/吉川忠英 "wikilink")
+      - エレクトリック・ギター - [今剛](../Page/今剛.md "wikilink")、吉野藤丸
+      - アコースティック・ギター - [吉川忠英](../Page/吉川忠英.md "wikilink")
       - キーボード - 山田秀俊
       - パーカッション - 石井宏太郎
       - ストリングス - 多アンサンブル
   - 「ヴィーナス誕生」
-      - ドラムス - [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
+      - ドラムス - [島村英二](../Page/島村英二.md "wikilink")
       - ベース - 長岡道夫
-      - エレクトリック・ギター - [矢島賢](https://ja.wikipedia.org/wiki/矢島賢 "wikilink")
+      - エレクトリック・ギター - [矢島賢](../Page/矢島賢.md "wikilink")
       - キーボード - 山田秀俊
       - パーカッション - 鳴島英治
       - ストリングス - 多アンサンブル
       - ハープ - 山川恵子
       - バックヴォーカル - コーポレイション・スリー、バズ
   - 「少しだけスキャンダル」
-      - ドラムス、ベース、ギター、ピアノ - [横浜銀蝿](https://ja.wikipedia.org/wiki/横浜銀蝿 "wikilink")、牧田バンド
+      - ドラムス、ベース、ギター、ピアノ - [横浜銀蝿](../Page/横浜銀蝿.md "wikilink")、牧田バンド
       - エレクトリック・ギター - 矢島賢
       - キーボード - 山田秀俊
       - パーカッション - 菅原裕紀
-      - トランペット - [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")、吉田憲治
+      - トランペット - [数原晋](../Page/数原晋.md "wikilink")、吉田憲治
       - トロンボーン - 新井英治、岡田澄雄
   - 「感傷紀行」
       - ドラムス - 岡本敦男
-      - ベース - [渡辺直樹](https://ja.wikipedia.org/wiki/渡辺直樹_\(ミュージシャン\) "wikilink")
+      - ベース - [渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")
       - エレクトリック・ギター - 矢島賢
       - アコースティック・ギター - 谷康一
       - キーボード - 山田秀俊
       - パーカッション - 鳴島英治
       - ストリングス - 多アンサンブル
   - 「ルネサンス -優しさで変えて-」
-      - ドラムス - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")
+      - ドラムス - [山木秀夫](../Page/山木秀夫.md "wikilink")
       - ベース - 高水健司
       - エレクトリック・ギター - [北島健二](../Page/北島健二.md "wikilink")、矢島賢
       - アコースティック・ギター - 谷康一
-      - キーボード - 富樫春生、[倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")
+      - キーボード - 富樫春生、[倉田信雄](../Page/倉田信雄.md "wikilink")
       - パーカッション - 鳴島英治
       - ストリングス - 多アンサンブル
       - バックヴォーカル - [イブ](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")
@@ -95,7 +95,7 @@
       - ドラムス - 滝本季延
       - ベース - 杉本和弥
       - エレクトリック・ギター - 矢島賢、高島政晴
-      - アコースティック・ギター - [安田裕美](https://ja.wikipedia.org/wiki/安田裕美 "wikilink")
+      - アコースティック・ギター - [安田裕美](../Page/安田裕美.md "wikilink")
       - キーボード - 山田秀俊
       - パーカッション - 鳴島英治
       - トランペット - 数原晋
@@ -115,7 +115,7 @@
   - ディレクター: [島田雄三](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")
   - ミキサー: 菊池功
   - アシスタント・ミキサー: [草柳俊一](https://ja.wikipedia.org/wiki/草柳俊一 "wikilink")
-  - フォトグラファー: [渡辺達生](https://ja.wikipedia.org/wiki/渡辺達生 "wikilink")
+  - フォトグラファー: [渡辺達生](../Page/渡辺達生.md "wikilink")
   - スタイリスト: 高橋まりい
   - デザイナー: 持田恭男
   - プロモーター: 田中良明

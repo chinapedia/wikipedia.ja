@@ -1,7 +1,7 @@
 > この記事は[Lempel-Ziv-Markov chain-Algorithm](https://ja.wikipedia.org/wiki/Lempel-Ziv-Markov_chain-Algorithm)から翻訳されています。
 
 
-*[Lempel](https://ja.wikipedia.org/wiki/エイブラハム・レンペル "wikilink")-[Ziv](https://ja.wikipedia.org/wiki/ジェイコブ・ジヴ "wikilink")-[Markov chain](https://ja.wikipedia.org/wiki/マルコフ連鎖 "wikilink")-[Algorithm](../Page/アルゴリズム.md "wikilink")*（略して**LZMA**）は、[2001年](../Page/2001年.md "wikilink")から開発されている[データ圧縮](../Page/データ圧縮.md "wikilink")アルゴリズムで、[7-Zip](https://ja.wikipedia.org/wiki/7-Zip "wikilink")アーカイバの[7z](../Page/7z.md "wikilink")フォーマットや[XZ Utilsの](https://ja.wikipedia.org/wiki/XZ_Utils "wikilink")[xzフォーマットで使用されている](https://ja.wikipedia.org/wiki/xz_\(ファイルフォーマット\) "wikilink")。LZMAは、[LZ77](https://ja.wikipedia.org/wiki/LZ77 "wikilink")に少々類似したを使用し、通常[bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")以上の高い圧縮率と伸張速度、および最大4 [GBのサイズ可変な圧縮辞書を特徴とする](../Page/ギガバイト.md "wikilink")。
+*[Lempel](https://ja.wikipedia.org/wiki/エイブラハム・レンペル "wikilink")-[Ziv](https://ja.wikipedia.org/wiki/ジェイコブ・ジヴ "wikilink")-[Markov chain](../Page/マルコフ連鎖.md "wikilink")-[Algorithm](../Page/アルゴリズム.md "wikilink")*（略して**LZMA**）は、[2001年](../Page/2001年.md "wikilink")から開発されている[データ圧縮](../Page/データ圧縮.md "wikilink")アルゴリズムで、[7-Zip](../Page/7-Zip.md "wikilink")アーカイバの[7z](../Page/7z.md "wikilink")フォーマットや[XZ Utilsの](../Page/XZ_Utils.md "wikilink")[xzフォーマットで使用されている](https://ja.wikipedia.org/wiki/xz_\(ファイルフォーマット\) "wikilink")。LZMAは、[LZ77](https://ja.wikipedia.org/wiki/LZ77 "wikilink")に少々類似したを使用し、通常[bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")以上の高い圧縮率と伸張速度、および最大4 [GBのサイズ可変な圧縮辞書を特徴とする](../Page/ギガバイト.md "wikilink")。
 
 **LZMA2**は、圧縮されていないデータとLZMAデータの両方を含むことができ、複数の異なるLZMAエンコーディングパラメータを含むことができる単純なコンテナ形式である。 LZMA2は、任意にスケーラブルなマルチスレッドの圧縮と展開と、部分的に非圧縮データの効率的な圧縮をサポートする。
 
@@ -27,7 +27,7 @@ LZMA2データを含むことができる[xz](https://ja.wikipedia.org/wiki/xz "
 
 ## LZMA SDK
 
-LZMAを圧縮・伸長するためのSDKが公開されている[1](http://sevenzip.sourceforge.jp/sdk.html)。 ドキュメント、サンプル、[ヘッダファイル](https://ja.wikipedia.org/wiki/ヘッダファイル "wikilink")、[ソースコード](../Page/ソースコード.md "wikilink")などを含む。 ライセンスはバージョン4.62以降[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")となった。 [C++](../Page/C++.md "wikilink")、[ANSI-C](../Page/C言語.md "wikilink")、[C\#](https://ja.wikipedia.org/wiki/C_sharp "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で実装されている。 伸長アルゴリズムは全ての[32ビット](https://ja.wikipedia.org/wiki/32ビット "wikilink")[CPU](../Page/CPU.md "wikilink")で実装可能であり、制約をつければ[16ビット](https://ja.wikipedia.org/wiki/16ビット "wikilink")CPUでも実装可能である。
+LZMAを圧縮・伸長するためのSDKが公開されている[1](http://sevenzip.sourceforge.jp/sdk.html)。 ドキュメント、サンプル、[ヘッダファイル](../Page/ヘッダファイル.md "wikilink")、[ソースコード](../Page/ソースコード.md "wikilink")などを含む。 ライセンスはバージョン4.62以降[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")となった。 [C++](../Page/C++.md "wikilink")、[ANSI-C](../Page/C言語.md "wikilink")、[C\#](https://ja.wikipedia.org/wiki/C_sharp "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で実装されている。 伸長アルゴリズムは全ての[32ビット](../Page/32ビット.md "wikilink")[CPU](../Page/CPU.md "wikilink")で実装可能であり、制約をつければ[16ビット](../Page/16ビット.md "wikilink")CPUでも実装可能である。
 
 ### 速度
 
@@ -36,15 +36,15 @@ LZMAを圧縮・伸長するためのSDKが公開されている[1](http://seven
 
 ## 7-Zipリファレンス実装
 
-LZMAのリファレンス実装は、[7z](../Page/7z.md "wikilink")や[7-Zip](https://ja.wikipedia.org/wiki/7-Zip "wikilink")ツールセットの一部に含まれる。ソースコードは[GNU LGPLライセンスで配布されている](../Page/GNU_Lesser_General_Public_License.md "wikilink")。
+LZMAのリファレンス実装は、[7z](../Page/7z.md "wikilink")や[7-Zip](../Page/7-Zip.md "wikilink")ツールセットの一部に含まれる。ソースコードは[GNU LGPLライセンスで配布されている](../Page/GNU_Lesser_General_Public_License.md "wikilink")。
 
 [オープンソース](../Page/オープンソース.md "wikilink")のリファレンス実装であるLZMA圧縮[ライブラリ](../Page/ライブラリ.md "wikilink")は、 [C++](../Page/C++.md "wikilink")で記述されていて、以下の特性がある。
 
   - 圧縮速度: 2GHz [CPU](../Page/CPU.md "wikilink")で約1MB/[秒](../Page/秒.md "wikilink")
   - 伸長速度: 2GHz CPUで10\~20MB/秒
-  - [マルチスレッドと](../Page/スレッド_\(コンピュータ\).md "wikilink")[Pentium 4マイクロプロセッサの](../Page/Pentium_4.md "wikilink")[ハイパースレッディング機能をサポート](https://ja.wikipedia.org/wiki/ハイパースレッディング・テクノロジー "wikilink")
+  - [マルチスレッドと](../Page/スレッド_\(コンピュータ\).md "wikilink")[Pentium 4マイクロプロセッサの](../Page/Pentium_4.md "wikilink")[ハイパースレッディング機能をサポート](../Page/ハイパースレッディング・テクノロジー.md "wikilink")
 
-7-Zip実装には、[ハッシュチェイン](https://ja.wikipedia.org/wiki/ハッシュチェイン "wikilink")、[二分木](https://ja.wikipedia.org/wiki/二分木 "wikilink")、[基数木](https://ja.wikipedia.org/wiki/基数木 "wikilink")を辞書検索アルゴリズムの基礎とする、複数の変種がある。
+7-Zip実装には、[ハッシュチェイン](https://ja.wikipedia.org/wiki/ハッシュチェイン "wikilink")、[二分木](../Page/二分木.md "wikilink")、[基数木](../Page/基数木.md "wikilink")を辞書検索アルゴリズムの基礎とする、複数の変種がある。
 
 LZMAの伸長専用コードは[C言語](../Page/C言語.md "wikilink")で記述されていて、通常5kB前後にコンパイルされる。また、伸長に必要なRAMの量は、主に圧縮時のスライド窓の大きさによって決定する。小さいコードサイズと、辞書を小さくすることにより比較的少量になるメモリ消費量は、LZMA伸長アルゴリズムをアプリケーションに[組み込むのに適するものとしている](../Page/組み込みシステム.md "wikilink")。
 
@@ -54,11 +54,11 @@ LZMAの伸長専用コードは[C言語](../Page/C言語.md "wikilink")で記述
 
 ソースコードには、広範囲で[Microsoft Windows特有の機能が使用され](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、しかも分離されていない。このため、リファレンス実装が[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であるにもかかわらず、[UNIX](../Page/UNIX.md "wikilink")互換用バージョンが登場するまでに時間がかかった。
 
-現在、[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")プラットフォームで動く移植版が2つある:
+現在、[Unix系](../Page/Unix系.md "wikilink")プラットフォームで動く移植版が2つある:
 
-  - [p7zip](http://sourceforge.net/projects/p7zip/)、これは[7-Zip](https://ja.wikipedia.org/wiki/7-Zip "wikilink")の[7z](../Page/7z.md "wikilink")と[7za](https://ja.wikipedia.org/wiki/7za "wikilink")コマンドラインツールの移植版である。p7zipは、標準[7z](../Page/7z.md "wikilink")アーカイブストリームを生成する。これはLZMAに組み合せることができる追加フィルタで使用されている。フィルタは、たとえば、実行ファイルのジャンプやサブルーチン呼び出し命令の相対アドレス前処理などである。
+  - [p7zip](http://sourceforge.net/projects/p7zip/)、これは[7-Zip](../Page/7-Zip.md "wikilink")の[7z](../Page/7z.md "wikilink")と[7za](https://ja.wikipedia.org/wiki/7za "wikilink")コマンドラインツールの移植版である。p7zipは、標準[7z](../Page/7z.md "wikilink")アーカイブストリームを生成する。これはLZMAに組み合せることができる追加フィルタで使用されている。フィルタは、たとえば、実行ファイルのジャンプやサブルーチン呼び出し命令の相対アドレス前処理などである。
   - [LZMA Utils](http://tukaani.org/lzma/)、これはLZMAコード*だけ*からなる移植版である。これは生のLZMAストリームを、[gzip](https://ja.wikipedia.org/wiki/gzip "wikilink")や[bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")圧縮ユーティリティと同様に扱えるように設計されている。`lzma`ツールで、[.tar](https://ja.wikipedia.org/wiki/.tar "wikilink")のように複数のファイルをアーカイブできる。出力は、ヘッダ情報のない生のLZMAである。現在ではXZ Utilsがメインストリームとなり、LZMA Utilsの開発は終息している。
-  - [XZ Embedded](http://tukaani.org/xz/embedded.html)、XZ Utilsの伸張コードだけを抜き出して整理したライブラリで、主に[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")カーネルのブート時に使用する前提で設計されている。但し、他の独自のシステムにも容易に移植可能となっている。
+  - [XZ Embedded](http://tukaani.org/xz/embedded.html)、XZ Utilsの伸張コードだけを抜き出して整理したライブラリで、主に[Linux](../Page/Linux.md "wikilink")カーネルのブート時に使用する前提で設計されている。但し、他の独自のシステムにも容易に移植可能となっている。
 
 注意：7-ZipとLZMAで生成されるLZMAストリームは異なる。つまり非互換である。基本的に、一方のツールで生成したファイルはもう一方で扱うことはできない。ただし7-Zipはバージョン4.58でLZMAストリームの伸張をサポートした。7-Zipは非圧縮時のファイルサイズを含む[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")ヘッダエントリを付加するが、LZMA Utilsではこれがない。
 

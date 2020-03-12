@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - このアルバムから森山公一（[オセロケッツ](https://ja.wikipedia.org/wiki/オセロケッツ "wikilink")）が参加、他に[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")、[石川よしひろ](../Page/石川よしひろ.md "wikilink")が参加している。
-  - コーラスには大滝裕子、斎藤久美（AMAZONS）、[有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")、[羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")が参加している。
+  - このアルバムから森山公一（[オセロケッツ](../Page/オセロケッツ.md "wikilink")）が参加、他に[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")、[石川よしひろ](../Page/石川よしひろ.md "wikilink")が参加している。
+  - コーラスには大滝裕子、斎藤久美（AMAZONS）、[有賀啓雄](../Page/有賀啓雄.md "wikilink")、[羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")が参加している。
   - ジャケットはオレンジ色の花畑に佇む写真となっている。
   - 「小指」は本作からの先行シングル、カップリングの「OPEN ARMS」は未収録である。
 
@@ -27,7 +27,7 @@
 7.  **Funky Kitchen〜スローフードのすすめ〜**
       - 作詞・作曲：渡辺美里、編曲：有賀啓雄
 8.  **天使がいるのを知っているかい**
-      - 作詞・作曲：[大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")、編曲：有賀啓雄
+      - 作詞・作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：有賀啓雄
 9.  **ONE MORE KISS**
       - 作詞：渡辺美里、作曲：[石川よしひろ](../Page/石川よしひろ.md "wikilink")、編曲：有賀啓雄
 10. **7 colours**

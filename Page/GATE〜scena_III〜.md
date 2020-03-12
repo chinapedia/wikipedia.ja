@@ -6,15 +6,15 @@
 ## 解説
 
   - 「世界旅行」をテーマにしたアルバム。
-  - 初回限定盤のみスリーブケース仕様で、12thシングル「[Perseus-ペルセウス-](https://ja.wikipedia.org/wiki/Perseus-ペルセウス- "wikilink")」のリ・アレンジ・ヴァージョン「Perseus-ペルセウス-（HEAVENS WiRE vs. TRI-HEDGE RMX）」がボーナストラックとして収録されている。
-  - 9thシングル「いつの日にか…」、10thシングル「[赤い砂漠の伝説](https://ja.wikipedia.org/wiki/赤い砂漠の伝説 "wikilink")」はリアレンジが成され、「GATE version」として収録。
+  - 初回限定盤のみスリーブケース仕様で、12thシングル「[Perseus-ペルセウス-](../Page/Perseus-ペルセウス-.md "wikilink")」のリ・アレンジ・ヴァージョン「Perseus-ペルセウス-（HEAVENS WiRE vs. TRI-HEDGE RMX）」がボーナストラックとして収録されている。
+  - 9thシングル「いつの日にか…」、10thシングル「[赤い砂漠の伝説](../Page/赤い砂漠の伝説.md "wikilink")」はリアレンジが成され、「GATE version」として収録。
   - 「月影のエデンへ」は、10thシングル「赤い砂漠の伝説」の続編。
   - 「J.U.M.P」は、島谷ひとみの「ライブでこういう曲を唄いたい」というリクエストから製作された。
 
 ## 収録曲
 
-1.  **overture〜[Perseus-ペルセウス-](https://ja.wikipedia.org/wiki/Perseus-ペルセウス- "wikilink")**
-      - 作詞:[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")/作曲:迫茂樹/編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+1.  **overture〜[Perseus-ペルセウス-](../Page/Perseus-ペルセウス-.md "wikilink")**
+      - 作詞:[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")/作曲:迫茂樹/編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       -
         12thシングル。
@@ -23,20 +23,20 @@
 3.  **C'est la vie\!**
       - 作詞:上田起士/作曲:森元康介/編曲:[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
 4.  **トラキアの女**
-      - 作詞・作曲・編曲:[BULGE](https://ja.wikipedia.org/wiki/BULGE "wikilink")
-5.  **[赤い砂漠の伝説](https://ja.wikipedia.org/wiki/赤い砂漠の伝説 "wikilink")(GATE version)**
-      - 作詞:[小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink")/作曲:[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")/編曲:田辺恵二
+      - 作詞・作曲・編曲:[BULGE](../Page/BULGE.md "wikilink")
+5.  **[赤い砂漠の伝説](../Page/赤い砂漠の伝説.md "wikilink")(GATE version)**
+      - 作詞:[小幡英之](../Page/小幡英之.md "wikilink")/作曲:[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")/編曲:田辺恵二
     <!-- end list -->
       -
         10thシングル。
 6.  **HARVEST MOON**
-      - 作詞・作曲・編曲:[田村信二](https://ja.wikipedia.org/wiki/田村信二 "wikilink")
+      - 作詞・作曲・編曲:[田村信二](../Page/田村信二.md "wikilink")
 7.  **ミラージュ〜BOY,I am a girl〜**
       - 作詞:MIZUE/作曲・編曲:DREAMFIELD
 8.  **bella flor**
-      - 作詞・作曲・編曲:[酒井ミキオ](https://ja.wikipedia.org/wiki/酒井ミキオ "wikilink")
+      - 作詞・作曲・編曲:[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
 9.  **Take me home**
-      - 作詞:六ツ見純代/作曲:浅田直/編曲:[宮永治郎](https://ja.wikipedia.org/wiki/宮永治郎 "wikilink")
+      - 作詞:六ツ見純代/作曲:浅田直/編曲:[宮永治郎](../Page/宮永治郎.md "wikilink")
 10. **[元気を出して](https://ja.wikipedia.org/wiki/元気を出して#島谷ひとみのカバー・シングル "wikilink")**
       - 作詞・作曲:[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")/編曲:大野宏明
     <!-- end list -->
@@ -45,9 +45,9 @@
 11. **月影のエデンへ**
       - 作詞:小幡英之/作曲:酒井ミキオ/編曲:田辺恵二
 12. **J.U.M.P**
-      - 作詞:[阿閉真琴](https://ja.wikipedia.org/wiki/阿閉真琴 "wikilink")/作曲・編曲:[宮崎歩](https://ja.wikipedia.org/wiki/宮崎歩 "wikilink")
-13. **[いつの日にか…](https://ja.wikipedia.org/wiki/いつの日にか… "wikilink")(GATE version)**
-      - 作詞・作曲:酒井ミキオ/編曲:酒井ミキオ・[上野圭一](https://ja.wikipedia.org/wiki/上野圭市 "wikilink")
+      - 作詞:[阿閉真琴](https://ja.wikipedia.org/wiki/阿閉真琴 "wikilink")/作曲・編曲:[宮崎歩](../Page/宮崎歩.md "wikilink")
+13. **[いつの日にか…](../Page/いつの日にか….md "wikilink")(GATE version)**
+      - 作詞・作曲:酒井ミキオ/編曲:酒井ミキオ・[上野圭一](../Page/上野圭市.md "wikilink")
     <!-- end list -->
       -
         9thシングル。

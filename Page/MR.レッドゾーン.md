@@ -1,7 +1,7 @@
 > この記事は[MR.](https://ja.wikipedia.org/wiki/MR.)から翻訳されています。
 
 
-**MR.レッドゾーン**（みすたーれっどぞーん）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月3日](../Page/1月3日.md "wikilink")24:55～25:55に[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。　
+**MR.レッドゾーン**（みすたーれっどぞーん）は、[2007年](../Page/2007年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")24:55～25:55に[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[特別番組](../Page/特別番組.md "wikilink")。　
 
 ## 概要
 
@@ -9,12 +9,12 @@
 
 ## 出演者
 
-  - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](https://ja.wikipedia.org/wiki/河本準一 "wikilink")・[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")）
-  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")（[山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")・[柴田英嗣](https://ja.wikipedia.org/wiki/柴田英嗣 "wikilink")）
-  - [スピードワゴン](../Page/スピードワゴン.md "wikilink")（[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")・[小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")）
-  - [ブラックマヨネーズ](https://ja.wikipedia.org/wiki/ブラックマヨネーズ "wikilink")（[小杉竜一](https://ja.wikipedia.org/wiki/小杉竜一 "wikilink")・[吉田敬](https://ja.wikipedia.org/wiki/吉田敬 "wikilink")）
-  - [東京ダイナマイト](https://ja.wikipedia.org/wiki/東京ダイナマイト "wikilink")（[ハチミツ二郎](https://ja.wikipedia.org/wiki/ハチミツ二郎 "wikilink")・[松田大輔](https://ja.wikipedia.org/wiki/松田大輔 "wikilink")）
-  - [チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")・[福田充徳](../Page/福田充徳.md "wikilink")）
+  - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")・[井上聡](../Page/井上聡.md "wikilink")）
+  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")（[山崎弘也](../Page/山崎弘也.md "wikilink")・[柴田英嗣](../Page/柴田英嗣.md "wikilink")）
+  - [スピードワゴン](../Page/スピードワゴン.md "wikilink")（[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")・[小沢一敬](../Page/小沢一敬.md "wikilink")）
+  - [ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")（[小杉竜一](../Page/小杉竜一.md "wikilink")・[吉田敬](../Page/吉田敬.md "wikilink")）
+  - [東京ダイナマイト](../Page/東京ダイナマイト.md "wikilink")（[ハチミツ二郎](../Page/ハチミツ二郎.md "wikilink")・[松田大輔](../Page/松田大輔.md "wikilink")）
+  - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")・[福田充徳](../Page/福田充徳.md "wikilink")）
 
 ## 内容
 
@@ -24,7 +24,7 @@
 
 ### おもしろ荘
 
-  - 架空のアパート「おもしろ荘」を舞台に、そこに住む貧乏のため実家に帰れない芸人たちに、それぞれのお母さんが送ってきた面白い小包を紹介する。アンタッチャブルの山崎（木彫りの熊と無洗米と股引と昔山崎がやっていた番組のキャラクターグッズ）、チュートリアルの福田（ペンギンのヘルメットとスパゲティー屋のヘラと現金112円）、東京ダイナマイトの松田（シーフード味のカップ麺とネタ帳）、次長課長の河本（[老眼鏡](https://ja.wikipedia.org/wiki/老眼鏡 "wikilink")とバナナロールと[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")のサインボールと雑誌や新聞記事が貼られたアルバム）、ブラックマヨネーズの小杉（クリスマス用のサンタ人形と長靴詰めのお菓子とシャケフレークの瓶詰めと育毛剤とパーティー用クラッカー）、スピードワゴンの井戸田の母親から届いた。井戸田は義母（[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")である[安達祐実](https://ja.wikipedia.org/wiki/安達祐実 "wikilink")の[母親](https://ja.wikipedia.org/wiki/母親 "wikilink")・[安達有里](https://ja.wikipedia.org/wiki/安達有里 "wikilink")）からで、彼女のヌード写真集だった。
+  - 架空のアパート「おもしろ荘」を舞台に、そこに住む貧乏のため実家に帰れない芸人たちに、それぞれのお母さんが送ってきた面白い小包を紹介する。アンタッチャブルの山崎（木彫りの熊と無洗米と股引と昔山崎がやっていた番組のキャラクターグッズ）、チュートリアルの福田（ペンギンのヘルメットとスパゲティー屋のヘラと現金112円）、東京ダイナマイトの松田（シーフード味のカップ麺とネタ帳）、次長課長の河本（[老眼鏡](https://ja.wikipedia.org/wiki/老眼鏡 "wikilink")とバナナロールと[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のサインボールと雑誌や新聞記事が貼られたアルバム）、ブラックマヨネーズの小杉（クリスマス用のサンタ人形と長靴詰めのお菓子とシャケフレークの瓶詰めと育毛剤とパーティー用クラッカー）、スピードワゴンの井戸田の母親から届いた。井戸田は義母（[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")である[安達祐実](../Page/安達祐実.md "wikilink")の[母親](../Page/母親.md "wikilink")・[安達有里](../Page/安達有里.md "wikilink")）からで、彼女のヌード写真集だった。
 
 ### あんたが大賞授賞式
 
@@ -66,7 +66,7 @@
 ## スタッフ
 
   - [プロデューサー](../Page/プロデューサー.md "wikilink")：[清水宏泰](../Page/清水宏泰.md "wikilink")
-  - [ディレクター](../Page/ディレクター.md "wikilink")：[谷口大二](https://ja.wikipedia.org/wiki/谷口大二 "wikilink")
+  - [ディレクター](../Page/ディレクター.md "wikilink")：[谷口大二](../Page/谷口大二.md "wikilink")
   - 製作著作：フジテレビ
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:かつて存在したフジテレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したフジテレビの年末年始特番 "wikilink")

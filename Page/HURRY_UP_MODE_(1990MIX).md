@@ -1,7 +1,7 @@
 > この記事は[HURRY UP MODE \(1990MIX\)](https://ja.wikipedia.org/wiki/HURRY_UP_MODE_\(1990MIX\))から翻訳されています。
 
 
-『**HURRY UP MODE (1990MIX)**』（ハリー・アップ・モード ナインティーン・ナインティ・ミックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のインディーズレーベルでリリースされたファースト[アルバム](../Page/アルバム.md "wikilink")の復刻版。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")に[ビクター音楽産業の](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")[Invitationレーベルよりリリースされた](https://ja.wikipedia.org/wiki/Invitation_\(レーベル\) "wikilink")。
+『**HURRY UP MODE (1990MIX)**』（ハリー・アップ・モード ナインティーン・ナインティ・ミックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のインディーズレーベルでリリースされたファースト[アルバム](../Page/アルバム.md "wikilink")の復刻版。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ビクター音楽産業の](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
 
 ## 解説
 
@@ -18,7 +18,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -26,8 +26,8 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント" title="wikilink">ビクター音楽産業</a>／<a href="https://ja.wikipedia.org/wiki/Invitation_(レーベル)" title="wikilink">Invitation</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/JVCケンウッド・ビクターエンタテインメント.md" title="wikilink">ビクター音楽産業</a>／<a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>VICL-3 (CD)<br />
@@ -48,7 +48,7 @@ VICL-60965（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
 <td><p>ビクターエンタテインメント／Invitation</p></td>
 <td><p>CD</p></td>
 <td><p>VICL-62545</p></td>
@@ -62,10 +62,10 @@ VICL-60965（通常盤）</p></td>
 
 ## 参加ミュージシャン
 
-  - **[ATSUSHI](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - **[HISASHI](https://ja.wikipedia.org/wiki/今井寿 "wikilink")** - [ギター](../Page/ギター.md "wikilink")
-  - **[HIDE](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")** - ギター
-  - **[U-TA](https://ja.wikipedia.org/wiki/樋口豊_\(ミュージシャン\) "wikilink")** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - **[TOLL](https://ja.wikipedia.org/wiki/ヤガミトール "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - **[ATSUSHI](../Page/櫻井敦司.md "wikilink")** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **[HISASHI](../Page/今井寿.md "wikilink")** - [ギター](../Page/ギター.md "wikilink")
+  - **[HIDE](../Page/星野英彦.md "wikilink")** - ギター
+  - **[U-TA](../Page/樋口豊_\(ミュージシャン\).md "wikilink")** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - **[TOLL](../Page/ヤガミトール.md "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 [Category:BUCK-TICKのアルバム](https://ja.wikipedia.org/wiki/Category:BUCK-TICKのアルバム "wikilink") [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:ビクターインビテーションのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターインビテーションのアルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink")

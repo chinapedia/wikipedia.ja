@@ -1,13 +1,13 @@
 > この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
 
 
-**NBA最優秀選手賞**（さいゆうしゅうせんしゅしょう、）は、[NBA](../Page/NBA.md "wikilink")でレギュラーシーズンに最も活躍した選手 (MVP) に授与される賞。レギュラーシーズン終了直後に[ジャーナリスト](https://ja.wikipedia.org/wiki/ジャーナリスト "wikilink")ら（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者などの関係者）およびファン投票枠による投票によって選出される\[1\]。プレイオフ以後の最優秀選手には、「[NBAファイナル最優秀選手賞](https://ja.wikipedia.org/wiki/NBAファイナル最優秀選手賞 "wikilink")」が設けられている\[2\]。
+**NBA最優秀選手賞**（さいゆうしゅうせんしゅしょう、）は、[NBA](../Page/NBA.md "wikilink")でレギュラーシーズンに最も活躍した選手 (MVP) に授与される賞。レギュラーシーズン終了直後に[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")ら（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者などの関係者）およびファン投票枠による投票によって選出される\[1\]。プレイオフ以後の最優秀選手には、「[NBAファイナル最優秀選手賞](https://ja.wikipedia.org/wiki/NBAファイナル最優秀選手賞 "wikilink")」が設けられている\[2\]。
 
-初選出は1955-56シーズンの[ボブ・ペティット](https://ja.wikipedia.org/wiki/ボブ・ペティット "wikilink")。最多選出は6回の受賞を果たした[カリーム・アブドゥル＝ジャバー](https://ja.wikipedia.org/wiki/カリーム・アブドゥル＝ジャバー "wikilink")で\[3\]、神様と謳われる[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")は、[ビル・ラッセル](https://ja.wikipedia.org/wiki/ビル・ラッセル "wikilink")と並んで第2位の5回\[4\] 。連続受賞はビル・ラッセル、ウィルト・チェンバレン、ラリー・バードの3名が記録した3年連続。
+初選出は1955-56シーズンの[ボブ・ペティット](../Page/ボブ・ペティット.md "wikilink")。最多選出は6回の受賞を果たした[カリーム・アブドゥル＝ジャバー](../Page/カリーム・アブドゥル＝ジャバー.md "wikilink")で\[3\]、神様と謳われる[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")は、[ビル・ラッセル](../Page/ビル・ラッセル.md "wikilink")と並んで第2位の5回\[4\] 。連続受賞はビル・ラッセル、ウィルト・チェンバレン、ラリー・バードの3名が記録した3年連続。
 
-2000-01シーズン以前の受賞者は全て「[バスケットボール殿堂](https://ja.wikipedia.org/wiki/バスケットボール殿堂 "wikilink")」入りを果たしている。また、規定にはないが、いずれもシーズン50勝以上を記録したチームから選出されており、1つの目安になっている。また、レギュラーシーズンの最多勝利チーム、もしくは最高勝率チームから選出されるという規定も存在しないが、1987-88シーズンのマイケル・ジョーダン以降の受賞者はすべて最低でも地区優勝以上のチーム成績を収めたチームの在籍者である。
+2000-01シーズン以前の受賞者は全て「[バスケットボール殿堂](../Page/バスケットボール殿堂.md "wikilink")」入りを果たしている。また、規定にはないが、いずれもシーズン50勝以上を記録したチームから選出されており、1つの目安になっている。また、レギュラーシーズンの最多勝利チーム、もしくは最高勝率チームから選出されるという規定も存在しないが、1987-88シーズンのマイケル・ジョーダン以降の受賞者はすべて最低でも地区優勝以上のチーム成績を収めたチームの在籍者である。
 
-2015-16シーズン受賞者の[ステフィン・カリー](https://ja.wikipedia.org/wiki/ステフィン・カリー "wikilink")が131票全てで1位票を獲得するという、史上初全会一致で選出された。過去の最高投票率は1999-2000シーズンの[シャキール・オニール](https://ja.wikipedia.org/wiki/シャキール・オニール "wikilink")と2012-13シーズンの[レブロン・ジェームズ](https://ja.wikipedia.org/wiki/レブロン・ジェームズ "wikilink")が1票だけ逃した120票（当時は全121票）の99.8%だった。また2014-15シーズンまでは匿名投票だったが2015-16シーズンより廃止となった。
+2015-16シーズン受賞者の[ステフィン・カリー](https://ja.wikipedia.org/wiki/ステフィン・カリー "wikilink")が131票全てで1位票を獲得するという、史上初全会一致で選出された。過去の最高投票率は1999-2000シーズンの[シャキール・オニール](../Page/シャキール・オニール.md "wikilink")と2012-13シーズンの[レブロン・ジェームズ](../Page/レブロン・ジェームズ.md "wikilink")が1票だけ逃した120票（当時は全121票）の99.8%だった。また2014-15シーズンまでは匿名投票だったが2015-16シーズンより廃止となった。
 
 2016-17シーズン受賞者の[ラッセル・ウェストブルック](https://ja.wikipedia.org/wiki/ラッセル・ウェストブルック "wikilink")が史上初のシーズン平均トリプルダブルでの選出となった。1961-62シーズンのオスカー・ロバートソンはシーズン平均トリプルダブルを達成したがMVP受賞はビル・ラッセルであった。
 
@@ -24,20 +24,20 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ボブ・ペティット" title="wikilink">ボブ・ペティット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ホークス" title="wikilink">セントルイス・ホークス</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ボブ・ペティット.md" title="wikilink">ボブ・ペティット</a></p></td>
+<td><p><a href="../Page/アトランタ・ホークス.md" title="wikilink">セントルイス・ホークス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ボブ・クージー" title="wikilink">ボブ・クージー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・セルティックス" title="wikilink">ボストン・セルティックス</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ボブ・クージー.md" title="wikilink">ボブ・クージー</a></p></td>
+<td><p><a href="../Page/ボストン・セルティックス.md" title="wikilink">ボストン・セルティックス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ビル・ラッセル" title="wikilink">ビル・ラッセル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・セルティックス" title="wikilink">ボストン・セルティックス</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ビル・ラッセル.md" title="wikilink">ビル・ラッセル</a></p></td>
+<td><p><a href="../Page/ボストン・セルティックス.md" title="wikilink">ボストン・セルティックス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -48,7 +48,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ウィルト・チェンバレン" title="wikilink">ウィルト・チェンバレン</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ウィルト・チェンバレン.md" title="wikilink">ウィルト・チェンバレン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンステイト・ウォリアーズ" title="wikilink">フィラデルフィア・ウォリアーズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
@@ -72,7 +72,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/オスカー・ロバートソン" title="wikilink">オスカー・ロバートソン</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/オスカー・ロバートソン.md" title="wikilink">オスカー・ロバートソン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シンシナティ・ロイヤルズ" title="wikilink">シンシナティ・ロイヤルズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
@@ -85,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p>|style="background-color:#FFFF99"| ウィルト・チェンバレン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・セブンティシクサーズ" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
@@ -102,32 +102,32 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ウェス・アンセルド" title="wikilink">ウェス・アンセルド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・ウィザーズ" title="wikilink">ボルティモア・ブレッツ</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ウェス・アンセルド.md" title="wikilink">ウェス・アンセルド</a></p></td>
+<td><p><a href="../Page/ワシントン・ウィザーズ.md" title="wikilink">ボルティモア・ブレッツ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ウィリス・リード" title="wikilink">ウィリス・リード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・ニックス" title="wikilink">ニューヨーク・ニックス</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ウィリス・リード.md" title="wikilink">ウィリス・リード</a></p></td>
+<td><p><a href="../Page/ニューヨーク・ニックス.md" title="wikilink">ニューヨーク・ニックス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/カリーム・アブドゥル＝ジャバー" title="wikilink">ルー・アルシンダー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー・バックス" title="wikilink">ミルウォーキー・バックス</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/カリーム・アブドゥル＝ジャバー.md" title="wikilink">ルー・アルシンダー</a></p></td>
+<td><p><a href="../Page/ミルウォーキー・バックス.md" title="wikilink">ミルウォーキー・バックス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/カリーム・アブドゥル＝ジャバー" title="wikilink">カリーム・アブドゥル＝ジャバー<br />
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/カリーム・アブドゥル＝ジャバー.md" title="wikilink">カリーム・アブドゥル＝ジャバー<br />
 （ルー・アルシンダーから改名）</a></p></td>
 <td><p>ミルウォーキー・バックス</p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/デイブ・コーウェンス" title="wikilink">デイブ・コーウェンス</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/デイブ・コーウェンス.md" title="wikilink">デイブ・コーウェンス</a></p></td>
 <td><p>ボストン・セルティックス</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -140,7 +140,7 @@
 </tr>
 <tr class="even">
 <td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ボブ・マカドゥー" title="wikilink">ボブ・マカドゥー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・クリッパーズ" title="wikilink">バッファロー・ブレーブス</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・クリッパーズ.md" title="wikilink">バッファロー・ブレーブス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -157,14 +157,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/ビル・ウォルトン" title="wikilink">ビル・ウォルトン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・トレイルブレイザーズ" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ビル・ウォルトン.md" title="wikilink">ビル・ウォルトン</a></p></td>
+<td><p><a href="../Page/ポートランド・トレイルブレイザーズ.md" title="wikilink">ポートランド・トレイルブレイザーズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/モーゼス・マローン" title="wikilink">モーゼス・マローン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ" title="wikilink">ヒューストン・ロケッツ</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/モーゼス・マローン.md" title="wikilink">モーゼス・マローン</a></p></td>
+<td><p><a href="../Page/ヒューストン・ロケッツ.md" title="wikilink">ヒューストン・ロケッツ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="odd">
 <td><p>|style="background-color:#FFFF99"| <a href="../Page/マイケル・ジョーダン.md" title="wikilink">マイケル・ジョーダン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ブルズ" title="wikilink">シカゴ・ブルズ</a></p></td>
+<td><p><a href="../Page/シカゴ・ブルズ.md" title="wikilink">シカゴ・ブルズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -247,19 +247,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/チャールズ・バークレー" title="wikilink">チャールズ・バークレー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェニックス・サンズ" title="wikilink">フェニックス・サンズ</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/チャールズ・バークレー.md" title="wikilink">チャールズ・バークレー</a></p></td>
+<td><p><a href="../Page/フェニックス・サンズ.md" title="wikilink">フェニックス・サンズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/アキーム・オラジュワン" title="wikilink">アキーム・オラジュワン</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/アキーム・オラジュワン.md" title="wikilink">アキーム・オラジュワン</a></p></td>
 <td><p>ヒューストン・ロケッツ</p></td>
 <td><p>1[5]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/デビッド・ロビンソン" title="wikilink">デビッド・ロビンソン</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/デビッド・ロビンソン.md" title="wikilink">デビッド・ロビンソン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サンアントニオ・スパーズ" title="wikilink">サンアントニオ・スパーズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
@@ -271,8 +271,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/カール・マローン" title="wikilink">カール・マローン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユタ・ジャズ" title="wikilink">ユタ・ジャズ</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/カール・マローン.md" title="wikilink">カール・マローン</a></p></td>
+<td><p><a href="../Page/ユタ・ジャズ.md" title="wikilink">ユタ・ジャズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -289,19 +289,19 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/シャキール・オニール" title="wikilink">シャキール・オニール</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/シャキール・オニール.md" title="wikilink">シャキール・オニール</a></p></td>
 <td><p>ロサンゼルス・レイカーズ</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#FFFF99"| <a href="https://ja.wikipedia.org/wiki/アレン・アイバーソン" title="wikilink">アレン・アイバーソン</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/アレン・アイバーソン.md" title="wikilink">アレン・アイバーソン</a></p></td>
 <td><p>フィラデルフィア・セブンティシクサーズ</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:"| <a href="https://ja.wikipedia.org/wiki/ティム・ダンカン" title="wikilink">ティム・ダンカン</a></p></td>
+<td><p>|style="background-color:"| <a href="../Page/ティム・ダンカン.md" title="wikilink">ティム・ダンカン</a></p></td>
 <td><p>サンアントニオ・スパーズ</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -313,14 +313,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:"| <a href="https://ja.wikipedia.org/wiki/ケビン・ガーネット" title="wikilink">ケビン・ガーネット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ティンバーウルブズ" title="wikilink">ミネソタ・ティンバーウルブズ</a></p></td>
+<td><p>|style="background-color:"| <a href="../Page/ケビン・ガーネット.md" title="wikilink">ケビン・ガーネット</a></p></td>
+<td><p><a href="../Page/ミネソタ・ティンバーウルブズ.md" title="wikilink">ミネソタ・ティンバーウルブズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ナッシュ" title="wikilink">スティーブ・ナッシュ</a></p></td>
+<td><p><a href="../Page/スティーブ・ナッシュ.md" title="wikilink">スティーブ・ナッシュ</a></p></td>
 <td><p>フェニックス・サンズ</p></td>
 <td><p>1</p></td>
 </tr>
@@ -331,20 +331,20 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:"| <a href="https://ja.wikipedia.org/wiki/ダーク・ノヴィツキー" title="wikilink">ダーク・ノヴィツキー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダラス・マーベリックス" title="wikilink">ダラス・マーベリックス</a></p></td>
+<td><p>|style="background-color:"| <a href="../Page/ダーク・ノヴィツキー.md" title="wikilink">ダーク・ノヴィツキー</a></p></td>
+<td><p><a href="../Page/ダラス・マーベリックス.md" title="wikilink">ダラス・マーベリックス</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:"| <a href="https://ja.wikipedia.org/wiki/コービー・ブライアント" title="wikilink">コービー・ブライアント</a></p></td>
+<td><p>|style="background-color:"| <a href="../Page/コービー・ブライアント.md" title="wikilink">コービー・ブライアント</a></p></td>
 <td><p>ロサンゼルス・レイカーズ</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:#aaffff"| <a href="https://ja.wikipedia.org/wiki/レブロン・ジェームズ" title="wikilink">レブロン・ジェームズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリーブランド・キャバリアーズ" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
+<td><p>|style="background-color:#aaffff"| <a href="../Page/レブロン・ジェームズ.md" title="wikilink">レブロン・ジェームズ</a></p></td>
+<td><p><a href="../Page/クリーブランド・キャバリアーズ.md" title="wikilink">クリーブランド・キャバリアーズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -362,7 +362,7 @@
 </tr>
 <tr class="odd">
 <td><p>|style="background-color:#aaffff"| レブロン・ジェームズ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイアミ・ヒート" title="wikilink">マイアミ・ヒート</a></p></td>
+<td><p><a href="../Page/マイアミ・ヒート.md" title="wikilink">マイアミ・ヒート</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
@@ -373,14 +373,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:#aaffff"| <a href="https://ja.wikipedia.org/wiki/ケビン・デュラント" title="wikilink">ケビン・デュラント</a></p></td>
+<td><p>|style="background-color:#aaffff"| <a href="../Page/ケビン・デュラント.md" title="wikilink">ケビン・デュラント</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オクラホマシティ・サンダー" title="wikilink">オクラホマシティ・サンダー</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>|style="background-color:#aaffff"| <a href="https://ja.wikipedia.org/wiki/ステフィン・カリー" title="wikilink">ステフィン・カリー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンステート・ウォリアーズ" title="wikilink">ゴールデンステート・ウォリアーズ</a></p></td>
+<td><p><a href="../Page/ゴールデンステート・ウォリアーズ.md" title="wikilink">ゴールデンステート・ウォリアーズ</a></p></td>
 <td><p>1[6]</p></td>
 <td></td>
 </tr>

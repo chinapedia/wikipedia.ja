@@ -7,7 +7,7 @@
 
   - \- 中型株25銘柄で構成。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月4日算出開始。主な銘柄として、[シグニファイ](https://ja.wikipedia.org/wiki/シグニファイ "wikilink")、[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")、[BAMグループ](https://ja.wikipedia.org/wiki/BAMグループ "wikilink")、[フグロ](https://ja.wikipedia.org/wiki/フグロ "wikilink")、[ロイヤル・ボスカリス・ウエストミンスター](https://ja.wikipedia.org/wiki/ロイヤル・ボスカリス・ウエストミンスター "wikilink")、[SBMオフショア](https://ja.wikipedia.org/wiki/SBMオフショア "wikilink")、[ベーロルドハファー](https://ja.wikipedia.org/wiki/ベーロルドハファー "wikilink")等。
 
-  - \- 小型株25銘柄で構成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月2日算出開始。主な銘柄として、[ハンター・ダグラス](https://ja.wikipedia.org/wiki/ハンター・ダグラス "wikilink")、[ボルス](https://ja.wikipedia.org/wiki/ボルス "wikilink")等。
+  - \- 小型株25銘柄で構成。[2005年](../Page/2005年.md "wikilink")3月2日算出開始。主な銘柄として、[ハンター・ダグラス](../Page/ハンター・ダグラス.md "wikilink")、[ボルス](../Page/ボルス.md "wikilink")等。
 
   - \- ユーロネクスト・アムステルダム全株指数。大型・中型・小型株を含む120以上の銘柄で構成。
 

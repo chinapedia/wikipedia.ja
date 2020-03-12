@@ -3,7 +3,7 @@
 
 『**OL蔡桃桂**』（オーエルさいとうけい）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[RIVERの](../Page/RIVER_\(漫画家\).md "wikilink")[OL](../Page/OL.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
-[Yahoo\!奇摩](https://ja.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")（台湾の[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")）にて、2003年6月16日より連載されている[4コマ漫画](../Page/4コマ漫画.md "wikilink")である。Yahoo\!奇摩は2008年8月1日で漫画のネット配信サービスを終了しており、現在のところ連載開始から2008年7月末までの作品をネット上で見ることはできない。同年8月1日以降発表された作品は作者のサイト[river's 543および](https://ja.wikipedia.org/wiki/river's_543 "wikilink")[River Comic Studioに掲載されている](https://ja.wikipedia.org/wiki/River_Comic_Studio "wikilink")。
+[Yahoo\!奇摩](https://ja.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")（台湾の[Yahoo\!](../Page/Yahoo!.md "wikilink")）にて、2003年6月16日より連載されている[4コマ漫画](../Page/4コマ漫画.md "wikilink")である。Yahoo\!奇摩は2008年8月1日で漫画のネット配信サービスを終了しており、現在のところ連載開始から2008年7月末までの作品をネット上で見ることはできない。同年8月1日以降発表された作品は作者のサイト[river's 543および](https://ja.wikipedia.org/wiki/river's_543 "wikilink")[River Comic Studioに掲載されている](https://ja.wikipedia.org/wiki/River_Comic_Studio "wikilink")。
 
 [単行本](../Page/単行本.md "wikilink")は現在第3集まで出版されている。
 
@@ -36,7 +36,7 @@
   - 小惠（沙拉百恵）
     [水族館](../Page/水族館.md "wikilink")に居た[人面魚](https://ja.wikipedia.org/wiki/人面魚 "wikilink")。羅伯斯と恋仲にある。水族館から脱出し、海底に住む蛸の魔法使いの力で人間となり沙拉百恵と名乗る。人間となった後は業務課で働く。地上は乾燥しているので金魚鉢を被っていることが多い。
   - 貓洱多（24）
-    会計課のOL。[猫が好きで](https://ja.wikipedia.org/wiki/ネコ "wikilink")、行動も猫のようになってきている。
+    会計課のOL。[猫が好きで](../Page/ネコ.md "wikilink")、行動も猫のようになってきている。
 
 なお登場人物の名前は、すべて台湾[小吃](https://ja.wikipedia.org/wiki/小吃 "wikilink")などの食品の名前と同音か近い音になっている。
 

@@ -1,11 +1,11 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ミジョナリオスFC** () は、[コロンビア](../Page/コロンビア.md "wikilink")の首都[ボゴタ](https://ja.wikipedia.org/wiki/ボゴタ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**ミジョナリオスFC** () は、[コロンビア](../Page/コロンビア.md "wikilink")の首都[ボゴタ](../Page/ボゴタ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-1937年にクラブは創設。1950年代初頭に[アルフレッド・ディ・ステファノ](../Page/アルフレッド・ディ・ステファノ.md "wikilink")らのスター選手をアルゼンチンの[CAリーベル・プレート](https://ja.wikipedia.org/wiki/CAリーベル・プレート "wikilink")から獲得し、破壊的な攻撃力で席巻した事から、当時世界最強のクラブの一つと云われた。
+1937年にクラブは創設。1950年代初頭に[アルフレッド・ディ・ステファノ](../Page/アルフレッド・ディ・ステファノ.md "wikilink")らのスター選手をアルゼンチンの[CAリーベル・プレート](../Page/CAリーベル・プレート.md "wikilink")から獲得し、破壊的な攻撃力で席巻した事から、当時世界最強のクラブの一つと云われた。
 
-同じボゴタを本拠地とする[インデペンディエンテ・サンタフェ](https://ja.wikipedia.org/wiki/インデペンディエンテ・サンタフェ "wikilink")、そして、[アトレティコ・ナシオナル](https://ja.wikipedia.org/wiki/アトレティコ・ナシオナル "wikilink")、[アメリカ・デ・カリ](https://ja.wikipedia.org/wiki/アメリカ・デ・カリ "wikilink")、[デポルティーボ・カリ](../Page/デポルティーボ・カリ.md "wikilink")とライバル関係にある。サンタフェとのダービーは、エル・クラシコ・キャピタル（首都のダービー）と呼ばれている。
+同じボゴタを本拠地とする[インデペンディエンテ・サンタフェ](https://ja.wikipedia.org/wiki/インデペンディエンテ・サンタフェ "wikilink")、そして、[アトレティコ・ナシオナル](../Page/アトレティコ・ナシオナル.md "wikilink")、[アメリカ・デ・カリ](https://ja.wikipedia.org/wiki/アメリカ・デ・カリ "wikilink")、[デポルティーボ・カリ](../Page/デポルティーボ・カリ.md "wikilink")とライバル関係にある。サンタフェとのダービーは、エル・クラシコ・キャピタル（首都のダービー）と呼ばれている。
 
 ## 名称
 
@@ -28,7 +28,7 @@
 
   - **[ラ・ペケーニャ・コパ・デル・ムンド](https://ja.wikipedia.org/wiki/ラ・ペケーニャ・コパ・デル・ムンド "wikilink")：1回**
       - 1953
-  - **[コパ・メルコノルテ](https://ja.wikipedia.org/wiki/コパ・メルコノルテ "wikilink")：1回**
+  - **[コパ・メルコノルテ](../Page/コパ・メルコノルテ.md "wikilink")：1回**
       - 2001
   - **[コパ・シモン・ボリバル](https://ja.wikipedia.org/wiki/コパ・シモン・ボリバル "wikilink")：1回**
       - 1972
@@ -59,7 +59,7 @@
 
 ## 歴代所属選手
 
-  - [カルロス・バルデラマ](https://ja.wikipedia.org/wiki/カルロス・バルデラマ "wikilink") 1986-1992, 1994-1997
+  - [カルロス・バルデラマ](../Page/カルロス・バルデラマ.md "wikilink") 1986-1992, 1994-1997
 
   - [アルノルド・イグアラン](https://ja.wikipedia.org/wiki/アルノルド・イグアラン "wikilink") 1987-1989, 1990-1994
 

@@ -11,7 +11,7 @@
 
 一定期間内に一国内で発生した[付加価値](../Page/付加価値.md "wikilink")の総量のことをGDPといい、この数値が増加すれば[経済](../Page/経済.md "wikilink")は[発展していると見なされるが](../Page/経済発展.md "wikilink")、これはつまり、「より多くの付加価値が生産されれば、それだけ経済は成長している」と考えているということである。
 
-しかし、この考え方には欠点もある。例えば、[森林開発](https://ja.wikipedia.org/wiki/森林開発 "wikilink")が行われると[木材](../Page/木材.md "wikilink")・[パルプ](https://ja.wikipedia.org/wiki/パルプ "wikilink")生産や住宅建設などがGDPを押し上げるが、[土壌流出](https://ja.wikipedia.org/wiki/土壌流出 "wikilink")など[環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")が起こっても、GDPには何の影響もない。このような矛盾に対して、[1980年代](../Page/1980年代.md "wikilink")後半から[環境問題](../Page/環境問題.md "wikilink")に対する取り組みが強化されたことで、現行のGDPの算出方式を変えようという声が出始めた。そこで代わりにグリーンGDPが考え出される。
+しかし、この考え方には欠点もある。例えば、[森林開発](https://ja.wikipedia.org/wiki/森林開発 "wikilink")が行われると[木材](../Page/木材.md "wikilink")・[パルプ](../Page/パルプ.md "wikilink")生産や住宅建設などがGDPを押し上げるが、[土壌流出](https://ja.wikipedia.org/wiki/土壌流出 "wikilink")など[環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")が起こっても、GDPには何の影響もない。このような矛盾に対して、[1980年代](../Page/1980年代.md "wikilink")後半から[環境問題](../Page/環境問題.md "wikilink")に対する取り組みが強化されたことで、現行のGDPの算出方式を変えようという声が出始めた。そこで代わりにグリーンGDPが考え出される。
 
 ## 問題点
 
@@ -27,6 +27,6 @@
 
   - [環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")
   - [排出権取引](https://ja.wikipedia.org/wiki/排出権取引 "wikilink")
-  - [環境アセスメント](https://ja.wikipedia.org/wiki/環境アセスメント "wikilink")
+  - [環境アセスメント](../Page/環境アセスメント.md "wikilink")
 
 [Category:経済](https://ja.wikipedia.org/wiki/Category:経済 "wikilink") [Category:指標順の一覧](https://ja.wikipedia.org/wiki/Category:指標順の一覧 "wikilink")

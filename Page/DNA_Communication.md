@@ -1,7 +1,7 @@
 > この記事は[DNA Communication](https://ja.wikipedia.org/wiki/DNA_Communication)から翻訳されています。
 
 
-『**DNA Communication**』（ディーエヌエー・コミュニケーション） は、[1989年](../Page/1989年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[オリジナルアルバム](../Page/アルバム.md "wikilink")。
+『**DNA Communication**』（ディーエヌエー・コミュニケーション） は、[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[オリジナルアルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 2012年現在収録時間がオリジナルアルバム中最長である。そのため本作の[LP盤](https://ja.wikipedia.org/wiki/LP盤 "wikilink")は2枚組になっている。
 
-歌詞ブックレットには[山川健一](https://ja.wikipedia.org/wiki/山川健一 "wikilink")によるコラム「神々に宛てたDNA」掲載。CDのブックレットでは、LPの面の区切りと同じ曲間ページ（たとえば「Nervous Breakdown」と「19 -nineteen-」の歌詞ページの間など）に前述のコラムの一部が記載されている。なおブックレットでは本作タイトル表記は『DÑĀ Communication』となっている（Dは中に点がある）。
+歌詞ブックレットには[山川健一](../Page/山川健一.md "wikilink")によるコラム「神々に宛てたDNA」掲載。CDのブックレットでは、LPの面の区切りと同じ曲間ページ（たとえば「Nervous Breakdown」と「19 -nineteen-」の歌詞ページの間など）に前述のコラムの一部が記載されている。なおブックレットでは本作タイトル表記は『DÑĀ Communication』となっている（Dは中に点がある）。
 
 ## 収録曲
 
@@ -25,16 +25,16 @@
 2.  **悲しみが消える時 -you are the rock-**
 
       -
-        のちに再録されて、「[100億のLove Story](https://ja.wikipedia.org/wiki/100億のLove_Story "wikilink")」のカップリングに収録。
+        のちに再録されて、「[100億のLove Story](../Page/100億のLove_Story.md "wikilink")」のカップリングに収録。
 
 3.
 
     <li value="4">
 
-    **[19 -nineteen-](https://ja.wikipedia.org/wiki/19_\(nineteen\) "wikilink")**
+    **[19 -nineteen-](../Page/19_\(nineteen\).md "wikilink")**
 
       -
-        ニューテイク。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の『[THE ALFEE THE BEST](https://ja.wikipedia.org/wiki/THE_ALFEE_THE_BEST "wikilink")』にも収録された。
+        ニューテイク。[1991年](../Page/1991年.md "wikilink")の『[THE ALFEE THE BEST](../Page/THE_ALFEE_THE_BEST.md "wikilink")』にも収録された。
 
 4.
 
@@ -52,7 +52,7 @@
     **High-Heel Resistance**
 
       -
-        [1989年](../Page/1989年.md "wikilink")、[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")のイメージソングとして使用された。
+        [1989年](../Page/1989年.md "wikilink")、[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")のイメージソングとして使用された。
 
 6.
 
@@ -67,17 +67,17 @@
 
       -
         [高見沢俊彦](../Page/高見沢俊彦.md "wikilink")が[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")に提供した「さよならが言えなくて…」（アルバム『シンシアリー・ユアーズ』に収録）の詞を英語に改めてセルフカヴァーしたもの。但し、歌詞は原曲の直訳ではない。
-        日本テレビ系番組『[巨泉のこんなモノいらない\!?](https://ja.wikipedia.org/wiki/巨泉のこんなモノいらない!? "wikilink")』後期エンディングテーマ。
+        日本テレビ系番組『[巨泉のこんなモノいらない\!?](../Page/巨泉のこんなモノいらない!?.md "wikilink")』後期エンディングテーマ。
 
 8.  **Loving You**
 
       -
         [高砂殿](https://ja.wikipedia.org/wiki/高砂殿 "wikilink")のCM曲として使われた。
 
-9.  **[Faith Of Love](https://ja.wikipedia.org/wiki/FAITH_OF_LOVE "wikilink")**
+9.  **[Faith Of Love](../Page/FAITH_OF_LOVE.md "wikilink")**
 
       -
-        [東映](../Page/東映.md "wikilink")映画『[将軍家光の乱心 激突](https://ja.wikipedia.org/wiki/将軍家光の乱心_激突 "wikilink")』テーマソング
+        [東映](../Page/東映.md "wikilink")映画『[将軍家光の乱心 激突](../Page/将軍家光の乱心_激突.md "wikilink")』テーマソング
 
 ## 再発売
 
@@ -93,14 +93,14 @@
   - 高見沢俊彦：Electric Guitar, Guitar Synthesizer
   - [坂崎幸之助](../Page/坂崎幸之助.md "wikilink")：Acoustic Guitar
   - [桜井賢](../Page/桜井賢.md "wikilink")：Electric Bass
-  - [菊地圭介](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink")：Keyboards
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")：Drums
+  - [菊地圭介](../Page/菊地圭介.md "wikilink")：Keyboards
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")：Drums
 
 <!-- end list -->
 
   - 武部聡志：Keyboards
   - [そうる透](../Page/そうる透.md "wikilink")：Drums
-  - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")：Drums
+  - [山木秀夫](../Page/山木秀夫.md "wikilink")：Drums
   - 浦田恵司：Synthesizer Operator
   - [森達彦](https://ja.wikipedia.org/wiki/森達彦 "wikilink")：Synthesizer Operator
   - [大竹徹夫](https://ja.wikipedia.org/wiki/大竹徹夫 "wikilink")：Synthesizer Operator
@@ -126,6 +126,6 @@
 
 ## 関連項目
 
-  - [1989年の音楽](https://ja.wikipedia.org/wiki/1989年の音楽 "wikilink")　
+  - [1989年の音楽](../Page/1989年の音楽.md "wikilink")　
 
 [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:THE_ALFEEのアルバム](https://ja.wikipedia.org/wiki/Category:THE_ALFEEのアルバム "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink")

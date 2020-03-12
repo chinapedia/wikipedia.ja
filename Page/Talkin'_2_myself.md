@@ -11,18 +11,18 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 ### CD
 
 1.  **talkin' 2 myself "original mix"**　
       -
-        [作曲](../Page/作曲.md "wikilink")：[Yuta Nakano](https://ja.wikipedia.org/wiki/中野雄太 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[LUMIX](https://ja.wikipedia.org/wiki/LUMIX "wikilink") FX33」[TV-CFソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[Yuta Nakano](../Page/中野雄太.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") FX33」[TV-CFソング](../Page/コマーシャルソング.md "wikilink")
 2.  **decision "original mix"**　
       -
         作曲・編曲：Yuta Nakano
-        [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink")
 3.  **[fated](https://ja.wikipedia.org/wiki/glitter/fated "wikilink") "Orchestra version"**
 4.  **talkin' 2 myself "original mix -instrumental-"**
 5.  **decision "original mix -instrumental-"**

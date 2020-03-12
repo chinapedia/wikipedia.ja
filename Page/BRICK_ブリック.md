@@ -1,9 +1,9 @@
 > この記事は[BRICK ](https://ja.wikipedia.org/wiki/BRICK_)から翻訳されています。
 
 
-『**BRICK ブリック**』（原題：*BRICK*）は、[2005年の](https://ja.wikipedia.org/wiki/2005年の映画 "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。高校生が女子生徒の死の真相に迫る[ミステリー](https://ja.wikipedia.org/wiki/ミステリー映画 "wikilink")・[サスペンス映画](../Page/サスペンス映画.md "wikilink")。
+『**BRICK ブリック**』（原題：*BRICK*）は、[2005年の](../Page/2005年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。高校生が女子生徒の死の真相に迫る[ミステリー](https://ja.wikipedia.org/wiki/ミステリー映画 "wikilink")・[サスペンス映画](../Page/サスペンス映画.md "wikilink")。
 
-若手の[ライアン・ジョンソン](https://ja.wikipedia.org/wiki/ライアン・ジョンソン "wikilink")が監督を務め、[サンダンス映画祭](https://ja.wikipedia.org/wiki/サンダンス映画祭 "wikilink")審査員特別賞はじめ、多くの賞を受賞した。[ジョゼフ・ゴードン＝レヴィット](https://ja.wikipedia.org/wiki/ジョゼフ・ゴードン＝レヴィット "wikilink")主演。
+若手の[ライアン・ジョンソン](https://ja.wikipedia.org/wiki/ライアン・ジョンソン "wikilink")が監督を務め、[サンダンス映画祭](../Page/サンダンス映画祭.md "wikilink")審査員特別賞はじめ、多くの賞を受賞した。[ジョゼフ・ゴードン＝レヴィット](https://ja.wikipedia.org/wiki/ジョゼフ・ゴードン＝レヴィット "wikilink")主演。
 
 ## ストーリー
 
@@ -15,22 +15,22 @@
 
   - ブレンダン - [ジョセフ・ゴードン＝レヴィット](https://ja.wikipedia.org/wiki/ジョセフ・ゴードン＝レヴィット "wikilink")
   - ブレイン - [マット・オリアリー](https://ja.wikipedia.org/wiki/マット・オリアリー "wikilink")
-  - エミリー - [エミリー・デ・レイヴィン](https://ja.wikipedia.org/wiki/エミリー・デ・レイヴィン "wikilink")
+  - エミリー - [エミリー・デ・レイヴィン](../Page/エミリー・デ・レイヴィン.md "wikilink")
   - ローラ - [ノラ・ザヘットナー](https://ja.wikipedia.org/wiki/ノラ・ザヘットナー "wikilink")
-  - ピン - [ルーカス・ハース](https://ja.wikipedia.org/wiki/ルーカス・ハース "wikilink")
+  - ピン - [ルーカス・ハース](../Page/ルーカス・ハース.md "wikilink")
   - タグ - [ノア・フレイス](https://ja.wikipedia.org/wiki/ノア・フレイス "wikilink")
-  - トゥルーマン副教頭 - [リチャード・ラウンドトゥリー](https://ja.wikipedia.org/wiki/リチャード・ラウンドトゥリー "wikilink")
+  - トゥルーマン副教頭 - [リチャード・ラウンドトゥリー](../Page/リチャード・ラウンドトゥリー.md "wikilink")
   - カーラ - [ミーガン・グッド](https://ja.wikipedia.org/wiki/ミーガン・グッド "wikilink")
   - ブラッド - [ブライアン・ホワイト](https://ja.wikipedia.org/wiki/ブライアン・ホワイト "wikilink")
   - ドード - [ノア・セガン](https://ja.wikipedia.org/wiki/ノア・セガン "wikilink")
 
 ## 製作
 
-この映画は、[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")郊外の高校で女子生徒の死の謎を追う、高校生らの会話が中心となっている。監督の[ライアン・ジョンソン](https://ja.wikipedia.org/wiki/ライアン・ジョンソン "wikilink")は、[ハードボイルド](../Page/ハードボイルド.md "wikilink")・[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")作品の作家としてしられる[ダシール・ハメット](../Page/ダシール・ハメット.md "wikilink")の著書から、[プロット](https://ja.wikipedia.org/wiki/プロット "wikilink")、キャラクター構成、対話などの影響を受け、本作の脚本を書いた\[1\]。 ジョンソンは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[ギャング映画](https://ja.wikipedia.org/wiki/ギャング映画 "wikilink")『[ミラーズ・クロッシング](../Page/ミラーズ・クロッシング.md "wikilink")』での、[コーエン兄弟](../Page/コーエン兄弟.md "wikilink")のインタビューを通じてハメットの作品を発見した。彼はまず『[血の収穫](https://ja.wikipedia.org/wiki/血の収穫 "wikilink")』（*Red Harvest*）を読み、続いて『[マルタの鷹](https://ja.wikipedia.org/wiki/マルタの鷹 "wikilink")』（*The Maltese Falcon*）、『[ガラスの鍵](https://ja.wikipedia.org/wiki/ガラスの鍵 "wikilink")』（*The Glass Key*）を読んだ。後者の作品はコーエン兄弟が影響を受けていた\[2\]。
+この映画は、[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")郊外の高校で女子生徒の死の謎を追う、高校生らの会話が中心となっている。監督の[ライアン・ジョンソン](https://ja.wikipedia.org/wiki/ライアン・ジョンソン "wikilink")は、[ハードボイルド](../Page/ハードボイルド.md "wikilink")・[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")作品の作家としてしられる[ダシール・ハメット](../Page/ダシール・ハメット.md "wikilink")の著書から、[プロット](https://ja.wikipedia.org/wiki/プロット "wikilink")、キャラクター構成、対話などの影響を受け、本作の脚本を書いた\[1\]。 ジョンソンは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[ギャング映画](https://ja.wikipedia.org/wiki/ギャング映画 "wikilink")『[ミラーズ・クロッシング](../Page/ミラーズ・クロッシング.md "wikilink")』での、[コーエン兄弟](../Page/コーエン兄弟.md "wikilink")のインタビューを通じてハメットの作品を発見した。彼はまず『[血の収穫](../Page/血の収穫.md "wikilink")』（*Red Harvest*）を読み、続いて『[マルタの鷹](../Page/マルタの鷹.md "wikilink")』（*The Maltese Falcon*）、『[ガラスの鍵](https://ja.wikipedia.org/wiki/ガラスの鍵 "wikilink")』（*The Glass Key*）を読んだ。後者の作品はコーエン兄弟が影響を受けていた\[2\]。
 
 ### 撮影
 
-ジョンソンは映画の予算として約45万ドルを取得した後、[2003年](../Page/2003年.md "wikilink")から[プロダクション](https://ja.wikipedia.org/wiki/プロダクション "wikilink")を開始した\[3\]。 この映画は20日間で撮影されたが、ジョンソンは事前に台本を洗練し、3か月間俳優たちとリハーサルを行っていた\[4\]。 ジョンソンは[ジョゼフ・ゴードン＝レヴィット](https://ja.wikipedia.org/wiki/ジョゼフ・ゴードン＝レヴィット "wikilink")を[Manic](https://ja.wikipedia.org/wiki/w:Manic "wikilink")（2001年の映画、日本未公開）という映画を見て知り、若い俳優をキャスティングしたいと思っていたためオファーした。ジョンソンは俳優陣にハメット作品を読んでもらうように勧めたが、彼らの演技に影響を与えたくなかったため、[ノワール映画は見ないようにさせた](../Page/フィルム・ノワール.md "wikilink")。 代わりに『[アパートの鍵貸します](../Page/アパートの鍵貸します.md "wikilink")』（*The Apartment*）など、[ビリー・ワイルダー](https://ja.wikipedia.org/wiki/ビリー・ワイルダー "wikilink")の[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")のような映画を見せたという。 また[視覚効果](https://ja.wikipedia.org/wiki/視覚効果 "wikilink")についてジョンソンは、[セルジオ・レオーネ](https://ja.wikipedia.org/wiki/セルジオ・レオーネ "wikilink")のスパゲッティ・ウェスタン映画\[5\]や、[渡辺信一郎](https://ja.wikipedia.org/wiki/渡辺信一郎 "wikilink")の『[カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")』などの影響を受けたことを挙げた\[6\]。
+ジョンソンは映画の予算として約45万ドルを取得した後、[2003年](../Page/2003年.md "wikilink")から[プロダクション](https://ja.wikipedia.org/wiki/プロダクション "wikilink")を開始した\[3\]。 この映画は20日間で撮影されたが、ジョンソンは事前に台本を洗練し、3か月間俳優たちとリハーサルを行っていた\[4\]。 ジョンソンは[ジョゼフ・ゴードン＝レヴィット](https://ja.wikipedia.org/wiki/ジョゼフ・ゴードン＝レヴィット "wikilink")を[Manic](https://ja.wikipedia.org/wiki/w:Manic "wikilink")（2001年の映画、日本未公開）という映画を見て知り、若い俳優をキャスティングしたいと思っていたためオファーした。ジョンソンは俳優陣にハメット作品を読んでもらうように勧めたが、彼らの演技に影響を与えたくなかったため、[ノワール映画は見ないようにさせた](../Page/フィルム・ノワール.md "wikilink")。 代わりに『[アパートの鍵貸します](../Page/アパートの鍵貸します.md "wikilink")』（*The Apartment*）など、[ビリー・ワイルダー](../Page/ビリー・ワイルダー.md "wikilink")の[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")のような映画を見せたという。 また[視覚効果](https://ja.wikipedia.org/wiki/視覚効果 "wikilink")についてジョンソンは、[セルジオ・レオーネ](../Page/セルジオ・レオーネ.md "wikilink")のスパゲッティ・ウェスタン映画\[5\]や、[渡辺信一郎](https://ja.wikipedia.org/wiki/渡辺信一郎 "wikilink")の『[カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")』などの影響を受けたことを挙げた\[6\]。
 
 ### 公開
 
@@ -61,7 +61,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/サンダンス映画祭" title="wikilink">サンダンス映画祭</a></p></td>
+<td><p><a href="../Page/サンダンス映画祭.md" title="wikilink">サンダンス映画祭</a></p></td>
 <td><p>特別審査員賞：ドラマ部門</p></td>
 <td><p>ライアン・ジョンソン</p></td>
 <td></td>
@@ -85,7 +85,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/シッチェス・カタロニア国際映画祭" title="wikilink">シッチェス・カタロニア国際映画祭</a></p></td>
+<td><p><a href="../Page/シッチェス・カタロニア国際映画祭.md" title="wikilink">シッチェス・カタロニア国際映画祭</a></p></td>
 <td><p>シチズンケイン賞：監督部門</p></td>
 <td><p>ライアン・ジョンソン</p></td>
 <td></td>
@@ -139,7 +139,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/インディペンデント・スピリット賞" title="wikilink">インディペンデント・スピリット賞</a></p></td>
+<td><p><a href="../Page/インディペンデント・スピリット賞.md" title="wikilink">インディペンデント・スピリット賞</a></p></td>
 <td><p>ジョン・カサヴェテス賞</p></td>
 <td><p>ライアン・ジョンソン<br />
 ラム・バーグマン<br />

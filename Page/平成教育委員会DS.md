@@ -1,11 +1,11 @@
 > この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
 
 
-『**平成教育委員会DS**』（へいせいきょういくいいんかいDS）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（現・[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。
+『**平成教育委員会DS**』（へいせいきょういくいいんかいDS）は、[2006年](../Page/2006年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（現・[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。
 
 ## 概要
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")までレギュラー番組として、そして[2000年](../Page/2000年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")からは年数回の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")として、[フジテレビ系列で放送される人気](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")の[平成教育委員会](../Page/平成教育委員会.md "wikilink")をモチーフにして製作されたクイズ形式の1人用ゲームソフトである。
+[1991年](../Page/1991年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")までレギュラー番組として、そして[2000年](../Page/2000年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")からは年数回の[特別番組](../Page/特別番組.md "wikilink")として、[フジテレビ系列で放送される人気](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")の[平成教育委員会](../Page/平成教育委員会.md "wikilink")をモチーフにして製作されたクイズ形式の1人用ゲームソフトである。
 
 有名中学校の[入試](https://ja.wikipedia.org/wiki/入試 "wikilink")問題などの教養問題が2000問以上収録されている。
 
@@ -15,7 +15,7 @@
 
 ### 授業
 
-曜日ごとに決められた時間割で、[国語](../Page/国語.md "wikilink")や[算数](https://ja.wikipedia.org/wiki/算数 "wikilink")、[社会](../Page/社会.md "wikilink")、[理科](../Page/理科.md "wikilink")の問題を教科ごとに解いていくモードである。問題によっては例題やヒント、解説がついてくる。 実際のテレビ番組と同様に、たけし先生が司会役、勉強小僧がや助手役、[たけし軍団](../Page/たけし軍団.md "wikilink")が解答者役になって登場してくる。またプレイする時間帯や日付によっては、たけし先生のコメントが変わる。 一定回数授業を受けると、それまでの問題を応用する形で、「模擬テスト」が行われる。模擬テストでは例題やヒントはなく、正解や解説は示されない。
+曜日ごとに決められた時間割で、[国語](../Page/国語.md "wikilink")や[算数](../Page/算数.md "wikilink")、[社会](../Page/社会.md "wikilink")、[理科](../Page/理科.md "wikilink")の問題を教科ごとに解いていくモードである。問題によっては例題やヒント、解説がついてくる。 実際のテレビ番組と同様に、たけし先生が司会役、勉強小僧がや助手役、[たけし軍団](../Page/たけし軍団.md "wikilink")が解答者役になって登場してくる。またプレイする時間帯や日付によっては、たけし先生のコメントが変わる。 一定回数授業を受けると、それまでの問題を応用する形で、「模擬テスト」が行われる。模擬テストでは例題やヒントはなく、正解や解説は示されない。
 
 ### 復習テスト
 
@@ -23,7 +23,7 @@
 
 ### 1分テスト
 
-制限時間1分間に、○×の2択問題を10問連続で解答する。問題は国語、算数、理科、社会の他、[音楽](../Page/音楽.md "wikilink")や[美術](https://ja.wikipedia.org/wiki/美術 "wikilink")などに関するものまで幅広い。
+制限時間1分間に、○×の2択問題を10問連続で解答する。問題は国語、算数、理科、社会の他、[音楽](../Page/音楽.md "wikilink")や[美術](../Page/美術.md "wikilink")などに関するものまで幅広い。
 
 ### 連続問題
 
@@ -40,8 +40,8 @@
 ## その他
 
   - 各モードで良い成績を残すと、「たけし落とし」とよばれるたけし人形のパーツを手に入れることができる。
-  - 一部にテレビ番組内でも使用されている[マリオブラザーズ](../Page/マリオブラザーズ.md "wikilink")、[スーパーマリオブラザーズ](../Page/スーパーマリオブラザーズ.md "wikilink")、[スーパーマリオブラザーズ3](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ3 "wikilink")の[BGMが任天堂のライセンスを取得して使用されている](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
-  - 発売前に、後継番組の[熱血\!平成教育学院](https://ja.wikipedia.org/wiki/熱血!平成教育学院 "wikilink")の[CMなどで宣伝されていた](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+  - 一部にテレビ番組内でも使用されている[マリオブラザーズ](../Page/マリオブラザーズ.md "wikilink")、[スーパーマリオブラザーズ](../Page/スーパーマリオブラザーズ.md "wikilink")、[スーパーマリオブラザーズ3](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ3 "wikilink")の[BGMが任天堂のライセンスを取得して使用されている](../Page/バックグラウンドミュージック.md "wikilink")。
+  - 発売前に、後継番組の[熱血\!平成教育学院](../Page/熱血!平成教育学院.md "wikilink")の[CMなどで宣伝されていた](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## 関連項目
 

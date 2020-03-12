@@ -5,7 +5,7 @@
 
 ## 来歴
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[ミスコリア](https://ja.wikipedia.org/wiki/ミスコリア "wikilink")とモデル出身のメンバー、ハニョン、ユナ、ヨノ、スアで、韓国初の4人組女性[トロット](../Page/トロット.md "wikilink")歌手グループとしてデビュー。
+  - [2005年](../Page/2005年.md "wikilink")、[ミスコリア](https://ja.wikipedia.org/wiki/ミスコリア "wikilink")とモデル出身のメンバー、ハニョン、ユナ、ヨノ、スアで、韓国初の4人組女性[トロット](../Page/トロット.md "wikilink")歌手グループとしてデビュー。
   - [2009年](../Page/2009年.md "wikilink")、メンバーを総入れ替えし、スヨン、ガヨン、セミ、ユミ、ウンビョル（元[A-Force](https://ja.wikipedia.org/wiki/A-Force "wikilink")）の5人組になった\[1\]。
   - [2013年](../Page/2013年.md "wikilink")、さらにメンバーを総入れ替えし、ラヒ、リカ、ラニ、ソンハ、ユジュ、リウォン、ジウォン、ジウン、アユルの9人組として活動開始。\[2\]
 

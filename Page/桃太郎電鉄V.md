@@ -1,7 +1,7 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-『**桃太郎電鉄V**』（ももたろうでんてつブイ）は、[ハドソン](../Page/ハドソン.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に発売した[PlayStation用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[ボードゲーム](../Page/ボードゲーム.md "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第9作である。副題は「**ハルマゲド〜ン襲来の巻**\[1\]」。
+『**桃太郎電鉄V**』（ももたろうでんてつブイ）は、[ハドソン](../Page/ハドソン.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に発売した[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ボードゲーム](../Page/ボードゲーム.md "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第9作である。副題は「**ハルマゲド〜ン襲来の巻**\[1\]」。
 
 ## 概要
 
@@ -17,8 +17,8 @@
   - 本作より、[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")のマップの形が大幅に変わる。
   - 本作のみ、ボンビラス星のマップが「右側からスタートして左側に向かう」というものになっている（他の作品では全て「手前からスタートして奥に向かう」マップである）。ただしマス数や分岐数などは他の作品と全く変わっていない。
   - 本作のみ、1999年の発売にちなんで「世紀末イベント」が登場。「カードがすべて伏字になる」「物件以外の駅が黒く隠される」「目的地が隠し目的地になる」のうちのどれかが起きる。
-  - 本作のみ、1地方の物件をすべて破壊する「ハルマゲド〜ン」が登場。巨大な遮光器形[土偶](https://ja.wikipedia.org/wiki/土偶 "wikilink")の姿をしていて、名前は[ハルマゲドン](../Page/ハルマゲドン.md "wikilink")のパロディ。
-  - 本作では、物件を独占すると自然災害や「ハルマゲド〜ン」「ドジラ」などを完全に防ぐ[シェルター](https://ja.wikipedia.org/wiki/シェルター "wikilink")を建設することができる（建設費は当該駅の物件総額の1/2）。ただし、シェルターは資産に計上されない。また何らかの理由で物件を手放すことにより独占が崩れるとシェルターは廃棄される。
+  - 本作のみ、1地方の物件をすべて破壊する「ハルマゲド〜ン」が登場。巨大な遮光器形[土偶](../Page/土偶.md "wikilink")の姿をしていて、名前は[ハルマゲドン](../Page/ハルマゲドン.md "wikilink")のパロディ。
+  - 本作では、物件を独占すると自然災害や「ハルマゲド〜ン」「ドジラ」などを完全に防ぐ[シェルター](../Page/シェルター.md "wikilink")を建設することができる（建設費は当該駅の物件総額の1/2）。ただし、シェルターは資産に計上されない。また何らかの理由で物件を手放すことにより独占が崩れるとシェルターは廃棄される。
   - 『DX』以降、シリーズ恒例となっているゲストボンビーは、本作及び次の『X』では登場していない。
   - 本作のみ、所持金が一番多いプレイヤーに女ねずみ小僧が現れることがある。所持金の半分を他のプレイヤーに渡す。スリの銀次が出てこないプラス駅にも出現してくる。
   - 本作では、運賃改正が3回行われ、カードの値段は最終的にゲーム開始時の8倍になる。
@@ -26,9 +26,9 @@
   - 本作では、ウインドウのカラー・デザインを選べる。カレンダーの大きさを小さくしたり、画面自体を省略できる。なおこの機能は『2010』で復活した。
   - 本作では、特別ルールで戦う「バラエティゲーム」の種類が増加。
   - 本作より、特定の地域に停車するとランダムで出現してカードをくれる「ペペペマン」が初登場。説明文では「なんて意味が無いんだ\!」という説明が入る通り、使いこなすことが難しいカードが多い。
-  - [アリtoキリギリス](https://ja.wikipedia.org/wiki/アリtoキリギリス "wikilink")、[吉野紗香](https://ja.wikipedia.org/wiki/吉野紗香 "wikilink")、[浅草キッド](../Page/浅草キッド.md "wikilink")などの桃鉄愛好家の有名人が、ゲーム中にPBSスタジオの客として登場する。通常ゲームと上記のバラエティゲームでは客の面子も異なる。
+  - [アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")、[吉野紗香](../Page/吉野紗香.md "wikilink")、[浅草キッド](../Page/浅草キッド.md "wikilink")などの桃鉄愛好家の有名人が、ゲーム中にPBSスタジオの客として登場する。通常ゲームと上記のバラエティゲームでは客の面子も異なる。
   - 初登場のカード：千載一遇カード、虎につばさカード、☆に願いをカード、やきみそカード、カード交換カードなど
-  - 『[7](https://ja.wikipedia.org/wiki/桃太郎電鉄7 "wikilink")』に続き[デジキューブ](../Page/デジキューブ.md "wikilink")提携の[コンビニ併売タイトル](../Page/コンビニエンスストア.md "wikilink")2作目としてリリースした。
+  - 『[7](../Page/桃太郎電鉄7.md "wikilink")』に続き[デジキューブ](../Page/デジキューブ.md "wikilink")提携の[コンビニ併売タイトル](../Page/コンビニエンスストア.md "wikilink")2作目としてリリースした。
   - 本作のみ、桃太郎と夜叉姫の服装が月ごとに変化する。また、ニュース画面や目的地ルーレット画面でアニメーションする。
 
 ## 桃太郎ランド
@@ -48,7 +48,7 @@
   - 銀河鉄道ゲーム
     宇宙空間に浮かぶ銀河鉄道の列車を全て連結し、障害物にぶつからないように駅に入る。
   - 赤鬼福笑い、桃太郎福笑い、ボンビーの福笑い
-    顔のパーツを正位置に合わせる[福笑い](https://ja.wikipedia.org/wiki/福笑い "wikilink")。正位置に近いほど点数が増える。上から初級・中級・上級。
+    顔のパーツを正位置に合わせる[福笑い](../Page/福笑い.md "wikilink")。正位置に近いほど点数が増える。上から初級・中級・上級。
   - 月面救助ゲーム
     宇宙空間に浮かぶ宇宙飛行士を隕石を避けながら宇宙船ですべて救出、月面基地に送り届ける。
   - 射的ゲーム
@@ -62,7 +62,7 @@
   - どっちでSHOW
     左右二つの家を複数のキャラが移動した後、質問されたキャラがどちらにいるかを当てる。問題が進むごとに新しいキャラが入り、最終的には14人になる。
   - まとあてゲーム
-    上記の射的ゲームとは別物。こちらは的が固定され、暗闇の中で移動するスポットライトが当たった的に矢を射る。『[新桃太郎伝説](https://ja.wikipedia.org/wiki/新桃太郎伝説 "wikilink")』にも同様のミニゲームが存在した。
+    上記の射的ゲームとは別物。こちらは的が固定され、暗闇の中で移動するスポットライトが当たった的に矢を射る。『[新桃太郎伝説](../Page/新桃太郎伝説.md "wikilink")』にも同様のミニゲームが存在した。
   - 列島縦断ゲーム
     ひたすらボタンを連打して列車を進め、鹿児島駅から札幌駅を目指す。途中で中断することも可能で、その場合はチェックポイントの駅から再スタートとなる。
   - 桃太郎パズル
@@ -127,16 +127,16 @@
   - **[北見](../Page/北見駅.md "wikilink")**（初登場）
   - [網走](../Page/網走駅.md "wikilink")
   - **[釧路](../Page/釧路駅.md "wikilink")**
-  - [池田](https://ja.wikipedia.org/wiki/池田駅_\(北海道\) "wikilink")
-  - [トマム](https://ja.wikipedia.org/wiki/占冠駅 "wikilink")
+  - [池田](../Page/池田駅_\(北海道\).md "wikilink")
+  - [トマム](../Page/占冠駅.md "wikilink")
   - [富良野](../Page/富良野駅.md "wikilink")
-  - [夕張](https://ja.wikipedia.org/wiki/夕張駅 "wikilink")'''
+  - [夕張](../Page/夕張駅.md "wikilink")'''
   - [札幌](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")
-  - **[小樽](https://ja.wikipedia.org/wiki/小樽駅 "wikilink")**
+  - **[小樽](../Page/小樽駅.md "wikilink")**
   - [ニセコ](../Page/ニセコ駅.md "wikilink")
   - [襟裳](../Page/えりも町.md "wikilink")
-  - [登別](https://ja.wikipedia.org/wiki/登別駅 "wikilink")
-  - [長万部](https://ja.wikipedia.org/wiki/長万部駅 "wikilink")
+  - [登別](../Page/登別駅.md "wikilink")
+  - [長万部](../Page/長万部駅.md "wikilink")
   - **[函館](https://ja.wikipedia.org/wiki/函館駅 "wikilink")**
   - **[青森](../Page/青森駅.md "wikilink")**
   - [弘前](../Page/弘前駅.md "wikilink")
@@ -170,11 +170,11 @@
   - [湯沢](../Page/湯沢駅.md "wikilink")
   - [甲府](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")
   - [小淵沢](https://ja.wikipedia.org/wiki/小淵沢駅 "wikilink")
-  - [清里](https://ja.wikipedia.org/wiki/清里駅 "wikilink")
+  - [清里](../Page/清里駅.md "wikilink")
   - [長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")
   - [軽井沢](../Page/軽井沢駅.md "wikilink")
   - [松本](https://ja.wikipedia.org/wiki/松本駅 "wikilink")
-  - [白馬](https://ja.wikipedia.org/wiki/白馬駅 "wikilink")
+  - [白馬](../Page/白馬駅.md "wikilink")
   - [熱海](https://ja.wikipedia.org/wiki/熱海駅 "wikilink")
   - [静岡](../Page/静岡駅.md "wikilink")
   - [浜松](https://ja.wikipedia.org/wiki/浜松駅 "wikilink")
@@ -187,7 +187,7 @@
   - [敦賀](https://ja.wikipedia.org/wiki/敦賀駅 "wikilink")
   - [松阪](../Page/松阪駅.md "wikilink")
   - **[伊勢](../Page/伊勢市駅.md "wikilink")**
-  - **[新宮](https://ja.wikipedia.org/wiki/新宮駅 "wikilink")**
+  - **[新宮](../Page/新宮駅.md "wikilink")**
   - **[伊賀上野](../Page/伊賀上野駅.md "wikilink")**（初登場）
   - [長浜](https://ja.wikipedia.org/wiki/長浜駅 "wikilink")
   - [近江八幡](https://ja.wikipedia.org/wiki/近江八幡駅 "wikilink")（初登場）
@@ -210,7 +210,7 @@
   - **[出雲](https://ja.wikipedia.org/wiki/出雲市駅 "wikilink")**
   - **[広島](https://ja.wikipedia.org/wiki/広島駅 "wikilink")**
   - [萩](../Page/萩駅.md "wikilink")
-  - [下関](https://ja.wikipedia.org/wiki/下関駅 "wikilink")
+  - [下関](../Page/下関駅.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")
   - [徳島](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")
   - **[高知](https://ja.wikipedia.org/wiki/高知駅 "wikilink")**
@@ -220,8 +220,8 @@
   - [有田](https://ja.wikipedia.org/wiki/有田駅 "wikilink")
   - [佐世保](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")
   - **[長崎](../Page/長崎駅.md "wikilink")**
-  - [別府](https://ja.wikipedia.org/wiki/別府駅_\(大分県\) "wikilink")
-  - [湯布院](https://ja.wikipedia.org/wiki/由布院駅 "wikilink")
+  - [別府](../Page/別府駅_\(大分県\).md "wikilink")
+  - [湯布院](../Page/由布院駅.md "wikilink")
   - [大分](https://ja.wikipedia.org/wiki/大分駅 "wikilink")
   - **[熊本](https://ja.wikipedia.org/wiki/熊本駅 "wikilink")**
   - **[宮崎](https://ja.wikipedia.org/wiki/宮崎駅 "wikilink")**
@@ -239,12 +239,12 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [根室](../Page/根室駅.md "wikilink")
-  - [浦河](https://ja.wikipedia.org/wiki/浦河駅 "wikilink")
+  - [浦河](../Page/浦河駅.md "wikilink")
   - [名寄](../Page/名寄駅.md "wikilink")
-  - [恐山](https://ja.wikipedia.org/wiki/恐山 "wikilink")
-  - [遠野](https://ja.wikipedia.org/wiki/遠野駅 "wikilink")
-  - [釜石](https://ja.wikipedia.org/wiki/釜石駅 "wikilink")（初登場）
-  - [大船渡](https://ja.wikipedia.org/wiki/大船渡駅 "wikilink")（初登場）
+  - [恐山](../Page/恐山.md "wikilink")
+  - [遠野](../Page/遠野駅.md "wikilink")
+  - [釜石](../Page/釜石駅.md "wikilink")（初登場）
+  - [大船渡](../Page/大船渡駅.md "wikilink")（初登場）
   - [石巻](../Page/石巻駅.md "wikilink")（初登場）
   - [女川](../Page/女川駅.md "wikilink")（初登場）
   - [日光](../Page/日光駅.md "wikilink")
@@ -259,13 +259,13 @@
 
   - [輪島](https://ja.wikipedia.org/wiki/輪島駅 "wikilink")
   - [マキノ](https://ja.wikipedia.org/wiki/マキノ駅 "wikilink")
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲駅 "wikilink")
+  - [尾鷲](../Page/尾鷲駅.md "wikilink")
   - [田辺](https://ja.wikipedia.org/wiki/田辺駅 "wikilink")
   - [倉吉](../Page/倉吉駅.md "wikilink")
   - [浜田](../Page/浜田駅.md "wikilink")
   - [新居浜](https://ja.wikipedia.org/wiki/新居浜駅 "wikilink")
-  - [中村](https://ja.wikipedia.org/wiki/中村駅 "wikilink")
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂駅 "wikilink")
+  - [中村](../Page/中村駅.md "wikilink")
+  - [高千穂](../Page/高千穂駅.md "wikilink")
   - [指宿](https://ja.wikipedia.org/wiki/指宿駅 "wikilink")
   - [日南](https://ja.wikipedia.org/wiki/日南駅 "wikilink")（初登場）
   - [日向](../Page/日向.md "wikilink")
@@ -283,9 +283,9 @@
 
 ### ワープ駅（4駅）
 
-  - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧駅 "wikilink")
+  - [苫小牧](../Page/苫小牧駅.md "wikilink")
   - [館山](https://ja.wikipedia.org/wiki/館山駅 "wikilink")
-  - [室戸](https://ja.wikipedia.org/wiki/室戸岬 "wikilink")
+  - [室戸](../Page/室戸岬.md "wikilink")
   - [阿蘇](https://ja.wikipedia.org/wiki/阿蘇駅 "wikilink")
 
 ## スリの銀次の変装

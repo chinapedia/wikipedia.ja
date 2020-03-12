@@ -1,13 +1,13 @@
 > この記事は[UX](https://ja.wikipedia.org/wiki/UX)から翻訳されています。
 
 
-**UボートX型** (U-Boot-Klasse X) は[ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍 "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。XA及びXBの二つの型があるが、XAは設計図上のみの艦であり、実戦に用いられたのはXBの方である。
+**UボートX型** (U-Boot-Klasse X) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。XA及びXBの二つの型があるが、XAは設計図上のみの艦であり、実戦に用いられたのはXBの方である。
 
 ## 概要
 
 [機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")敷設用の潜水艦として、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の[UE型潜水艦](https://ja.wikipedia.org/wiki/UE型潜水艦 "wikilink")を参考に設計された。XA型は[1937年](../Page/1937年.md "wikilink")に設計だけが行われ、これよりやや小型のXB型が量産型として[キールで建造されることとなった](https://ja.wikipedia.org/wiki/キール_\(ドイツ\) "wikilink")。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")から就役が始まり、[1944年](../Page/1944年.md "wikilink")までに8隻が就役し、6隻が撃沈を被った。
 
-機雷の敷設のため戦闘には不向きな設計で、[魚雷発射管](https://ja.wikipedia.org/wiki/魚雷発射管 "wikilink")は2基が艦尾に設置されており、66個の機雷を機雷敷設筒に搭載することができた。
+機雷の敷設のため戦闘には不向きな設計で、[魚雷発射管](../Page/魚雷発射管.md "wikilink")は2基が艦尾に設置されており、66個の機雷を機雷敷設筒に搭載することができた。
 
 XB型の1隻であるU-219は[日本海軍に接収され](../Page/大日本帝国海軍.md "wikilink")[伊505となった](https://ja.wikipedia.org/wiki/伊号第五百五潜水艦 "wikilink")。
 

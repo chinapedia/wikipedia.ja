@@ -1,7 +1,7 @@
 > この記事は[Interstage Shunsaku Data Manager](https://ja.wikipedia.org/wiki/Interstage_Shunsaku_Data_Manager)から翻訳されています。
 
 
-**Interstage Shunsaku Data Manager**とは、[富士通](../Page/富士通.md "wikilink")の[ネイティブXMLデータベース](https://ja.wikipedia.org/wiki/ネイティブXMLデータベース "wikilink")製品。同社の[Interstage](../Page/Interstage.md "wikilink")シリーズの中のIntegration系製品に相当する。2005年12月現在の最新のバージョンはV7。以下の説明ではとくに注記のない限りV7製品について記述する。
+**Interstage Shunsaku Data Manager**とは、[富士通](../Page/富士通.md "wikilink")の[ネイティブXMLデータベース](../Page/ネイティブXMLデータベース.md "wikilink")製品。同社の[Interstage](../Page/Interstage.md "wikilink")シリーズの中のIntegration系製品に相当する。2005年12月現在の最新のバージョンはV7。以下の説明ではとくに注記のない限りV7製品について記述する。
 
 ## 概要
 
@@ -13,7 +13,7 @@ Shunsakuの特徴としてインデックスレスであるためインデック
 
 Shunsakuはディレクタサーバ、サーチサーバの二階層の構造になっており、ディレクタサーバが検索要求を管理し、一般に複数設置するサーチサーバが実際の検索を行うことで、管理の容易さと信頼性やスケーラビリティを可能にする工夫を行っている。運用中にサーチサーバがハードウェア障害などで停止した場合でも、自動縮退によって運用が継続されるようになっているのである。また、サーチサーバの増設もデータを自動的に再配置するので容易に行うことができる。
 
-ディレクタサーバには[Solaris](../Page/Solaris.md "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、サーチサーバにはLinuxおよびWindows版が存在する。ディレクタサーバとサーチサーバのOSはあわせる必要がある。（Solarisディレクタサーバの場合はサーチサーバにはLinuxを利用する）
+ディレクタサーバには[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、サーチサーバにはLinuxおよびWindows版が存在する。ディレクタサーバとサーチサーバのOSはあわせる必要がある。（Solarisディレクタサーバの場合はサーチサーバにはLinuxを利用する）
 
 ### 検索性能
 
@@ -23,7 +23,7 @@ SIGMA検索アルゴリズムにより、複数の検索要求を複数条件の
 
 ### 他DBとの連携
 
-Shunsakuは入力データとXMLとの対応を定義したマッピングデータを用意することで、他データベースや[CSV形式のデータを](../Page/Comma-Separated_Values.md "wikilink")[XML形式のデータに変換して格納することができる](../Page/Extensible_Markup_Language.md "wikilink")。対応データベースは[Symfoware Server](https://ja.wikipedia.org/wiki/Symfoware_Server "wikilink")、[PowerGRES Plus](https://ja.wikipedia.org/wiki/PowerGRES_Plus "wikilink")、[Oracle Database](../Page/Oracle_Database.md "wikilink")、[Microsoft SQL Serverなどが利用できる](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。
+Shunsakuは入力データとXMLとの対応を定義したマッピングデータを用意することで、他データベースや[CSV形式のデータを](../Page/Comma-Separated_Values.md "wikilink")[XML形式のデータに変換して格納することができる](../Page/Extensible_Markup_Language.md "wikilink")。対応データベースは[Symfoware Server](../Page/Symfoware_Server.md "wikilink")、[PowerGRES Plus](https://ja.wikipedia.org/wiki/PowerGRES_Plus "wikilink")、[Oracle Database](../Page/Oracle_Database.md "wikilink")、[Microsoft SQL Serverなどが利用できる](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。
 
 同じ富士通製品であるSymfoware Serverとは特に連携性が良く、SymfowareのレベルがEnterprise Edition以上ならコマンド一行でShunsakuに適したXML形式でデータ抽出を行うことができる。
 

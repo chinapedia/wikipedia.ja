@@ -7,9 +7,9 @@
 
 メジャーデビューをきっかけに、バンド名を「SOIL\&HEMP SESSIONS」から「SOIL&"PIMP"SESSIONS」に改名。**SOIL**は「塵、埃、土壌、大地」を、**PIMP**は「伊達男」を表す\[1\]。**SOIL**が土壌というどこか暖かいニュアンスであるのに対して**PIMP**というのは国によっては[放送禁止用語](../Page/放送禁止用語.md "wikilink")扱いになるような言葉であるが、陰影的で人工的で、よく言えば煌びやかなものという反対の意味を指しており、通常であればあり得ない組み合わせだが、ひとつのバンドに相反するふたつのエッセンスが存在しているということを象徴しており、彼らの音楽の重要なエッセンスに共通するものである\[2\]。
 
-[DJが主体であったクラブシーンにライブを持ち込んだパイオニアとして知られ](../Page/ディスクジョッキー.md "wikilink")、ライブを中心とした活動を身上としている\[3\]。確かな演奏力とクールな雰囲気を漂わせながらもラフでエンターテイメント性にあふれた既存のジャズとは大きく異なるスタイルは「爆音ジャズ」と評される\[4\]\[5\]。メンバー自らは「デスジャズ (Death JAZZ)」と称している\[6\]。近年では[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[劇伴](https://ja.wikipedia.org/wiki/劇伴 "wikilink")なども手がけている\[7\]。
+[DJが主体であったクラブシーンにライブを持ち込んだパイオニアとして知られ](../Page/ディスクジョッキー.md "wikilink")、ライブを中心とした活動を身上としている\[3\]。確かな演奏力とクールな雰囲気を漂わせながらもラフでエンターテイメント性にあふれた既存のジャズとは大きく異なるスタイルは「爆音ジャズ」と評される\[4\]\[5\]。メンバー自らは「デスジャズ (Death JAZZ)」と称している\[6\]。近年では[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[劇伴](../Page/劇伴.md "wikilink")なども手がけている\[7\]。
 
-2007年に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の大型[音楽フェスティバル](https://ja.wikipedia.org/wiki/音楽祭 "wikilink")「[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")」に初出演。日本人アーティストとしては[CORNELIUS](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")に続く3組目で、出演したJAZZ WORLDステージはそれまでの日本人アーティストが出演してきた中では最大規模のステージだった\[8\]。
+2007年に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の大型[音楽フェスティバル](../Page/音楽祭.md "wikilink")「[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")」に初出演。日本人アーティストとしては[CORNELIUS](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")に続く3組目で、出演したJAZZ WORLDステージはそれまでの日本人アーティストが出演してきた中では最大規模のステージだった\[8\]。
 
 2016年の[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")[閉会式のフラッグハンドオーバーセレモニーでは](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピックの閉会式#五輪旗の引き継ぎ式 "wikilink")、使用された楽曲「ちちんぷいぷい (Manipulate the time)」の演奏を担当\[9\]。
 
@@ -19,13 +19,13 @@
 
   - **社長**（しゃちょう、本名：久嶋識史、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月18日](../Page/1月18日.md "wikilink") - 、[福井県](../Page/福井県.md "wikilink")[武生市](../Page/武生市.md "wikilink")出身） - [アジテーター](https://ja.wikipedia.org/wiki/アジテーター "wikilink")担当。ドラマ『[ハングリー\!](https://ja.wikipedia.org/wiki/ハングリー! "wikilink")』に本人役で出演。
   - **タブゾンビ**（たぶぞんび、本名：椨智紹、[1977年](../Page/1977年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink") - 、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身） - [トランペット](../Page/トランペット.md "wikilink")担当。名前は[ロブ・ゾンビ](https://ja.wikipedia.org/wiki/ロブ・ゾンビ "wikilink")に由来。[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の楽曲「[TIE TONGUE feat. Miyachi, Tabu Zombie](https://ja.wikipedia.org/wiki/ANTI_ANTI_GENERATION "wikilink")」（[2018年](../Page/2018年.md "wikilink")）に参加した。
-  - **丈青**（じょうせい、本名：佐藤丈青、[1975年](../Page/1975年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - 、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[佐伯区](../Page/佐伯区.md "wikilink")出身）[ピアノ](../Page/ピアノ.md "wikilink")、[キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。ピアノソロアルバムを2枚発表\[11\]。2010年から2012年まで[菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")主宰の[ビッグバンド](https://ja.wikipedia.org/wiki/ビッグバンド "wikilink")「[dCprG](https://ja.wikipedia.org/wiki/dCprG "wikilink")」に所属（2012年12月のライブをもって脱退）。
-  - **秋田ゴールドマン**（あきたごーるどまん、本名：秋田紀彰、1977年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - 、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身） - [ウッドベース担当](../Page/コントラバス.md "wikilink")。
+  - **丈青**（じょうせい、本名：佐藤丈青、[1975年](../Page/1975年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - 、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[佐伯区](../Page/佐伯区.md "wikilink")出身）[ピアノ](../Page/ピアノ.md "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。ピアノソロアルバムを2枚発表\[11\]。2010年から2012年まで[菊地成孔](../Page/菊地成孔.md "wikilink")主宰の[ビッグバンド](../Page/ビッグバンド.md "wikilink")「[dCprG](https://ja.wikipedia.org/wiki/dCprG "wikilink")」に所属（2012年12月のライブをもって脱退）。
+  - **秋田ゴールドマン**（あきたごーるどまん、本名：秋田紀彰、1977年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - 、[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身） - [ウッドベース担当](../Page/コントラバス.md "wikilink")。
   - **みどりん**（本名：緑川直人、1978年[1月30日](../Page/1月30日.md "wikilink") - 、[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")出身） - [ドラム担当](../Page/ドラムセット.md "wikilink")。
 
 ### 元メンバー
 
-  - **元晴**（もとはる、本名：深田元晴、[1973年](../Page/1973年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[名寄市](../Page/名寄市.md "wikilink")出身） - [サックス担当](../Page/サクソフォーン.md "wikilink")。2016年10月に脱退\[12\]\[13\]。2010年から[三宅洋平](https://ja.wikipedia.org/wiki/三宅洋平 "wikilink")率いるバンド「（仮）ALBATRUS」のメンバー。2016年から巽朗が率いるバンド「SPEAK NO EVIL」のメンバー。2018年から[冷牟田竜之](https://ja.wikipedia.org/wiki/冷牟田竜之 "wikilink")率いる[スカ](../Page/スカ.md "wikilink")・[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")「MORE THE MAN」のメンバー。
+  - **元晴**（もとはる、本名：深田元晴、[1973年](../Page/1973年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[名寄市](../Page/名寄市.md "wikilink")出身） - [サックス担当](../Page/サクソフォーン.md "wikilink")。2016年10月に脱退\[12\]\[13\]。2010年から[三宅洋平](https://ja.wikipedia.org/wiki/三宅洋平 "wikilink")率いるバンド「（仮）ALBATRUS」のメンバー。2016年から巽朗が率いるバンド「SPEAK NO EVIL」のメンバー。2018年から[冷牟田竜之](https://ja.wikipedia.org/wiki/冷牟田竜之 "wikilink")率いる[スカ](../Page/スカ.md "wikilink")・[ユニット](../Page/音楽ユニット.md "wikilink")「MORE THE MAN」のメンバー。
 
 ## 派生グループ
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - [アシッドジャズ](https://ja.wikipedia.org/wiki/アシッドジャズ "wikilink")の生みの親でTalkin' Loudレーベルを主宰する[ジャイルス・ピーターソン](https://ja.wikipedia.org/wiki/ジャイルス・ピーターソン "wikilink")が自身の[BBCの番組で](../Page/英国放送協会.md "wikilink")、偶然手にした彼らの音源を4週にわたってオンエア。番組出演とUKでのショーを直接オファーした\[19\]。UKでのショーと時を同じくして、ドイツ、カナダ、北欧などのジャズシーンで話題となり、海外ツアーを実施\[20\]。
+  - [アシッドジャズ](../Page/アシッドジャズ.md "wikilink")の生みの親でTalkin' Loudレーベルを主宰する[ジャイルス・ピーターソン](../Page/ジャイルス・ピーターソン.md "wikilink")が自身の[BBCの番組で](../Page/英国放送協会.md "wikilink")、偶然手にした彼らの音源を4週にわたってオンエア。番組出演とUKでのショーを直接オファーした\[19\]。UKでのショーと時を同じくして、ドイツ、カナダ、北欧などのジャズシーンで話題となり、海外ツアーを実施\[20\]。
   - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、BBC RADIO1が毎年主催する“WORLDWIDE AWARDS 2005”にて『John Peel Play More Jazz Award』を受賞\[21\]。また、同アワードのトラック・オブ・ザ・イヤー、セッション・オブ・ザ・イヤーの2部門にも3位にノミネートされる\[22\]。
 
 <!-- end list -->
@@ -120,9 +120,9 @@
 
 <!-- end list -->
 
-  - 3月、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")と[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でライブを行う。3月2日にベトナム・[ハノイ](https://ja.wikipedia.org/wiki/ハノイ "wikilink")で開催される野外ライブ「TOKYO JAZZ CLUB」のメインアクトを務め、3月4、5日にマレーシア・[クアラルンプール](../Page/クアラルンプール.md "wikilink")のUniversiti Teknologi Maraにてライブ＆ワークショップを行う。
+  - 3月、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")と[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でライブを行う。3月2日にベトナム・[ハノイ](../Page/ハノイ.md "wikilink")で開催される野外ライブ「TOKYO JAZZ CLUB」のメインアクトを務め、3月4、5日にマレーシア・[クアラルンプール](../Page/クアラルンプール.md "wikilink")のUniversiti Teknologi Maraにてライブ＆ワークショップを行う。
   - 3月25日、東京・渋谷ヒカリエ東急シアターオーブで行われた「JAZZ WEEK TOKYO 2013」で「SOIL&"PIMP"BIG BAND」を再編成。福原美穂がゲスト出演。
-  - 4月24日、[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")をフィーチャリングゲストに迎えたシングル「ジャズィ・カンヴァセイション」[タワーレコード](../Page/タワーレコード.md "wikilink")限定でリリース。
+  - 4月24日、[RHYMESTER](../Page/RHYMESTER.md "wikilink")をフィーチャリングゲストに迎えたシングル「ジャズィ・カンヴァセイション」[タワーレコード](../Page/タワーレコード.md "wikilink")限定でリリース。
   - 6月26日、「SOIL & "PIMP" SESSIONSと椎名林檎」名義でコラボシングル「殺し屋危機一髪」をリリース。
 
 <!-- end list -->
@@ -131,7 +131,7 @@
 
 <!-- end list -->
 
-  - 7月17日から放送の[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系[木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")「[昼顔〜平日午後3時の恋人たち〜](https://ja.wikipedia.org/wiki/昼顔〜平日午後3時の恋人たち〜 "wikilink")」の主題歌に、コラボした一青窈のシングル「[他人の関係 feat. SOIL&"PIMP"SESSIONS](https://ja.wikipedia.org/wiki/他人の関係#一青窈のシングル "wikilink")」が採用される。
+  - 7月17日から放送の[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系[木曜劇場](../Page/木曜劇場.md "wikilink")「[昼顔〜平日午後3時の恋人たち〜](https://ja.wikipedia.org/wiki/昼顔〜平日午後3時の恋人たち〜 "wikilink")」の主題歌に、コラボした一青窈のシングル「[他人の関係 feat. SOIL&"PIMP"SESSIONS](https://ja.wikipedia.org/wiki/他人の関係#一青窈のシングル "wikilink")」が採用される。
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - 6月13日から放送の[WOWOW](../Page/WOWOW.md "wikilink")で放送の[時代劇](../Page/時代劇.md "wikilink")『[連続ドラマW](https://ja.wikipedia.org/wiki/連続ドラマW "wikilink") [ふたがしら](https://ja.wikipedia.org/wiki/ふたがしら "wikilink")』の音楽（[劇伴](https://ja.wikipedia.org/wiki/劇伴 "wikilink")とメインテーマ）を担当\[25\]。
+  - 6月13日から放送の[WOWOW](../Page/WOWOW.md "wikilink")で放送の[時代劇](../Page/時代劇.md "wikilink")『[連続ドラマW](https://ja.wikipedia.org/wiki/連続ドラマW "wikilink") [ふたがしら](https://ja.wikipedia.org/wiki/ふたがしら "wikilink")』の音楽（[劇伴](../Page/劇伴.md "wikilink")とメインテーマ）を担当\[25\]。
   - 6月下旬から7月にかけて、2度目の「グラストンベリー・フェスティバル」を含むヨーロッパツアー\[26\] を行う。
 
 <!-- end list -->
@@ -158,7 +158,7 @@
 <!-- end list -->
 
   - 4月、ワンマンライブ「PUMP IT UP」で活動を再開\[29\]。6月、丈青が右手の薬指の伸筋腱断裂・化膿性腱鞘炎と診断されたことを受け、開催が予定されていたJ.A.Mのツアーの中止となり、SOIL出演のイベント「[THE CAMP BOOK](https://ja.wikipedia.org/wiki/THE_CAMP_BOOK "wikilink") 2017」には丈青の代役に[伊澤一葉](../Page/伊澤一葉.md "wikilink")を立てて対応\[30\]。
-  - 7月14日から放送の[TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")「[ハロー張りネズミ](https://ja.wikipedia.org/wiki/ハロー張りネズミ "wikilink")」の主題歌に、[野田洋次郎](https://ja.wikipedia.org/wiki/野田洋次郎 "wikilink")（[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")）とのコラボレーション曲「ユメマカセ feat.Yojiro Noda」が採用。またドラマのサウンドトラックも制作する。
+  - 7月14日から放送の[TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")「[ハロー張りネズミ](https://ja.wikipedia.org/wiki/ハロー張りネズミ "wikilink")」の主題歌に、[野田洋次郎](https://ja.wikipedia.org/wiki/野田洋次郎 "wikilink")（[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")）とのコラボレーション曲「ユメマカセ feat.Yojiro Noda」が採用。またドラマのサウンドトラックも制作する。
   - 11月17日より、ビクターエンタテインメントに所属する他のアーティストと共に[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")にて楽曲の配信をスタート。
 
 <!-- end list -->
@@ -167,17 +167,17 @@
 
 <!-- end list -->
 
-  - 5月9日、2年ぶりのオリジナルアルバム『DAPPER』をリリース。[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")をフィーチャーしたアルバムのリードトラック「comrade feat.三浦大知」を先行配信。
+  - 5月9日、2年ぶりのオリジナルアルバム『DAPPER』をリリース。[三浦大知](../Page/三浦大知.md "wikilink")をフィーチャーしたアルバムのリードトラック「comrade feat.三浦大知」を先行配信。
 
 ## 関連アーティスト
 
-  - [Azumi](https://ja.wikipedia.org/wiki/Azumi "wikilink") - 社長がアルバム『CARNIVAL』収録の「Crazy Days feat. ILMARI (RIP SLYME)」をサウンドプロデュース。1stソロアルバム『ぴあのとあずみ』に丈青、カバーアルバム『NEW STANDARD』収録の「[うる星やつらのテーマ 〜ラムのラブソング〜](../Page/ラムのラブソング.md "wikilink")」のカバーに元晴、タブゾンビが参加。みどりんがライブサポート。
+  - [Azumi](../Page/Azumi.md "wikilink") - 社長がアルバム『CARNIVAL』収録の「Crazy Days feat. ILMARI (RIP SLYME)」をサウンドプロデュース。1stソロアルバム『ぴあのとあずみ』に丈青、カバーアルバム『NEW STANDARD』収録の「[うる星やつらのテーマ 〜ラムのラブソング〜](../Page/ラムのラブソング.md "wikilink")」のカバーに元晴、タブゾンビが参加。みどりんがライブサポート。
 
   - [雨のパレード](https://ja.wikipedia.org/wiki/雨のパレード "wikilink") - アルバム『Reason of Black Color』収録の「Hometown」にタブゾンビがフィーチャリングで参加。
 
   - Shun Ikegai（[Yahyel](https://ja.wikipedia.org/wiki/Yahyel "wikilink")） - アルバム『DAPPER』にゲストボーカルとして迎える。
 
-  - [伊澤一葉](../Page/伊澤一葉.md "wikilink")（[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")、[あっぱ](../Page/あっぱ.md "wikilink")、ex.[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")） - バンド・katsina sessionでタブゾンビが活動を共にする他、丈青が負傷した際にはSOILのサポートメンバーを務めた\[31\]。
+  - [伊澤一葉](../Page/伊澤一葉.md "wikilink")（[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")、[あっぱ](../Page/あっぱ.md "wikilink")、ex.[東京事変](../Page/東京事変.md "wikilink")） - バンド・katsina sessionでタブゾンビが活動を共にする他、丈青が負傷した際にはSOILのサポートメンバーを務めた\[31\]。
 
   - [井出靖](https://ja.wikipedia.org/wiki/井出靖 "wikilink") - アルバム『LATE NIGHT BLUES』に元晴が参加。
 
@@ -191,11 +191,11 @@
 
   - [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink") - アルバム『ATTA』にタブゾンビが参加。
 
-  - [Awich](https://ja.wikipedia.org/wiki/Awich "wikilink") - アルバム『8』にタブゾンビが参加。アルバム『DAPPER』にゲストボーカルとして迎える。SOILの全国ツアーにゲストアーティストとして出演。
+  - [Awich](../Page/Awich.md "wikilink") - アルバム『8』にタブゾンビが参加。アルバム『DAPPER』にゲストボーカルとして迎える。SOILの全国ツアーにゲストアーティストとして出演。
 
   - [EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink") - アルバム『DAPPER』にゲストボーカルとして迎える。SOILの全国ツアーにゲストアーティストとして出演。
 
-  - [大沢伸一](https://ja.wikipedia.org/wiki/大沢伸一 "wikilink")（[MONDO GROSSO](https://ja.wikipedia.org/wiki/MONDO_GROSSO "wikilink")） - MONDO GROSSOのライブアルバム『The European Expedition』の発売20周年を記念したトリビュートライブに元晴、タブゾンビが参加。
+  - [大沢伸一](../Page/大沢伸一.md "wikilink")（[MONDO GROSSO](../Page/MONDO_GROSSO.md "wikilink")） - MONDO GROSSOのライブアルバム『The European Expedition』の発売20周年を記念したトリビュートライブに元晴、タブゾンビが参加。
 
   - [太田剣](../Page/太田剣.md "wikilink")
 
@@ -207,7 +207,7 @@
 
   - [柏倉隆史](https://ja.wikipedia.org/wiki/toe#メンバー "wikilink")（the HIATUS、[toe](https://ja.wikipedia.org/wiki/toe "wikilink")） - バンド・katsina sessionのメンバーとして、タブゾンビと共に活動。
 
-  - [katokunnlee](https://ja.wikipedia.org/wiki/katokunnlee "wikilink") - 社長、タブゾンビ、みどりんがサポート。katokunnleeの[ジャズ](../Page/ジャズ.md "wikilink")・[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[pLAYA](https://ja.wikipedia.org/wiki/pLAYA "wikilink")にも参加。
+  - [katokunnlee](https://ja.wikipedia.org/wiki/katokunnlee "wikilink") - 社長、タブゾンビ、みどりんがサポート。katokunnleeの[ジャズ](../Page/ジャズ.md "wikilink")・[ユニット](../Page/音楽ユニット.md "wikilink")・[pLAYA](https://ja.wikipedia.org/wiki/pLAYA "wikilink")にも参加。
 
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink") - 加山を中心に結成されたロック・バンド・[THE King ALL STARSにタブゾンビが参加](https://ja.wikipedia.org/wiki/THE_King_ALL_STARS "wikilink")。
 
@@ -215,23 +215,23 @@
 
   - [Nao Kawamura](https://ja.wikipedia.org/wiki/Nao_Kawamura "wikilink") - アルバム『DAPPER』にゲストボーカルとして迎える。SOILの全国ツアーにゲストアーティストとして出演。
 
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink") - シングル「恋するBAILA BAILA」の[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")に収録の「One in a million (SOIL&"PIMP"ver.)」のアレンジと演奏を担当。
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink") - シングル「恋するBAILA BAILA」の[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")に収録の「One in a million (SOIL&"PIMP"ver.)」のアレンジと演奏を担当。
 
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink") - アルバム『[Koizumi Chansonnier](https://ja.wikipedia.org/wiki/Koizumi_Chansonnier "wikilink")』に参加。
 
   - [quasimode](https://ja.wikipedia.org/wiki/quasimode "wikilink") - アルバムにタブゾンビが参加。ジョイントライブで共演。リーダーでピアニストの平戸祐介の1stソロアルバム『Speak Own Words』に元晴が参加。
 
-  - グザヴィエ・ボワイエ（[タヒチ80](https://ja.wikipedia.org/wiki/タヒチ80 "wikilink")） - アルバム『BLACK TRACK』に彼をボーカルに迎えた「In2 My Soul」を収録。
+  - グザヴィエ・ボワイエ（[タヒチ80](../Page/タヒチ80.md "wikilink")） - アルバム『BLACK TRACK』に彼をボーカルに迎えた「In2 My Soul」を収録。
 
   - cro-magnon - アルバム『4U』にタブゾンビが参加。13人編成のcro-magnon Orchestraにタブゾンビ、元晴が参加。
 
-  - [GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink") - 「[TUTTI](../Page/TUTTI.md "wikilink")」にタブゾンビが参加。
+  - [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") - 「[TUTTI](../Page/TUTTI.md "wikilink")」にタブゾンビが参加。
 
   - [COMA-CHI](../Page/COMA-CHI.md "wikilink") - レコーディングに元晴が参加。
 
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink") - アルバム『ARE YOU READY?』に秋田ゴールドマンが参加。
+  - [斉藤和義](../Page/斉藤和義.md "wikilink") - アルバム『ARE YOU READY?』に秋田ゴールドマンが参加。
 
-  - [在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink") - [ジェームス・ブラウン](https://ja.wikipedia.org/wiki/ジェームス・ブラウン "wikilink")のトリビュートライブで共演。
+  - [在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink") - [ジェームス・ブラウン](../Page/ジェームス・ブラウン.md "wikilink")のトリビュートライブで共演。
 
   - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink") - アルバム『How's it going?』に参加。
 
@@ -239,7 +239,7 @@
 
   - [シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink") - アルバム『LOVE CHANGES THE WORLD』に元晴、タブゾンビが参加。
 
-  - [椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink") - バックバンドのEvil Vibrationsにタブゾンビが参加。椎名を中心に結成されたバンド・[Dezille Brothersをタブゾンビと元晴がサポート](https://ja.wikipedia.org/wiki/Dezille_Brothers "wikilink")\[32\]。
+  - [椎名純平](../Page/椎名純平.md "wikilink") - バックバンドのEvil Vibrationsにタブゾンビが参加。椎名を中心に結成されたバンド・[Dezille Brothersをタブゾンビと元晴がサポート](https://ja.wikipedia.org/wiki/Dezille_Brothers "wikilink")\[32\]。
 
   - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink") - 現行メンバーで活動する前のアマチュア時代からの付き合いで、メジャーデビューする際にした「ボーカルが必要なときは最初に私とやろうね」という約束を守って「[カリソメ乙女 (DEATH JAZZ ver.)](../Page/カリソメ乙女.md "wikilink")」でコラボレーションを実現\[33\]。SOILのライブにゲストアーティストとして出演。アルバム『[三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")』にSOILとJ.A.Mが参加。アルバム『6』と『CIRCLES』にゲストボーカルとして迎える。J.A.Mやみどりんがソロのライブをサポート。[リオデジャネイロオリンピックの閉会式](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピックの閉会式 "wikilink")のフラッグハンドオーバーセレモニーで音楽監督の椎名の楽曲を演奏。
 
@@ -247,19 +247,19 @@
 
   - [ジェロ](../Page/ジェロ.md "wikilink") - 演歌/歌謡曲のカバーアルバム『カバーズ』収録の「[君恋し](../Page/君恋し.md "wikilink")」の演奏を担当。
 
-  - [JiLL-Decoy association](https://ja.wikipedia.org/wiki/JiLL-Decoy_association "wikilink") - アルバム『ジルデコIII』に元晴、タブゾンビが参加。
+  - [JiLL-Decoy association](../Page/JiLL-Decoy_association.md "wikilink") - アルバム『ジルデコIII』に元晴、タブゾンビが参加。
 
   - [シンリズム](https://ja.wikipedia.org/wiki/シンリズム "wikilink") - 1stアルバム『NEW RHYTHM』にタブゾンビが参加。
 
   - [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink") - アルバム『[Wildflower & Cover Songs:Complete Best 'TRACK 3'](https://ja.wikipedia.org/wiki/Wildflower_&_Cover_Songs:Complete_Best_'TRACK_3' "wikilink")』Disc2の洋楽カバーベスト収録の「Bitch」にタブゾンビ、元晴が参加。楽曲「Fall」に秋田ゴールドマンとみどりんが参加。
 
-  - [Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink") - 「[SCOOBIE DO](https://ja.wikipedia.org/wiki/SCOOBIE_DO_\(Scoobie_Doのアルバム\) "wikilink")」「[Funk-a-lismo\!](https://ja.wikipedia.org/wiki/Funk-a-lismo!_\(Scoobie_Doのアルバム\) "wikilink")」にタブゾンビ、元晴が参加。
+  - [Scoobie Do](../Page/Scoobie_Do.md "wikilink") - 「[SCOOBIE DO](https://ja.wikipedia.org/wiki/SCOOBIE_DO_\(Scoobie_Doのアルバム\) "wikilink")」「[Funk-a-lismo\!](https://ja.wikipedia.org/wiki/Funk-a-lismo!_\(Scoobie_Doのアルバム\) "wikilink")」にタブゾンビ、元晴が参加。
 
   - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") - シングル「[From Noon Till Dawn](https://ja.wikipedia.org/wiki/From_Noon_Till_Dawn "wikilink")」にタブゾンビが参加。
 
-  - [セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink") - 4thアルバム『セカイイチ』に元晴、タブゾンビが参加。
+  - [セカイイチ](../Page/セカイイチ.md "wikilink") - 4thアルバム『セカイイチ』に元晴、タブゾンビが参加。
 
-  - [蔦谷好位置](https://ja.wikipedia.org/wiki/蔦谷好位置 "wikilink") - EOR（ENTITY OF RUDE）のメンバーとして、タブゾンビと共に活動。
+  - [蔦谷好位置](../Page/蔦谷好位置.md "wikilink") - EOR（ENTITY OF RUDE）のメンバーとして、タブゾンビと共に活動。
 
   - [Dj KENTARO](../Page/Dj_KENTARO.md "wikilink") - アルバム『6』、『CIRCLES』にゲストとして迎える。
 
@@ -269,15 +269,15 @@
 
   - [TWEEDEES](https://ja.wikipedia.org/wiki/TWEEDEES "wikilink") - 1stアルバム『The Sound Sounds.』収録の「あなたにはがっかり」にみどりんが参加。
 
-  - [東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink") - レコーディングやライブサポートにメンバーが参加。
+  - [東京事変](../Page/東京事変.md "wikilink") - レコーディングやライブサポートにメンバーが参加。
 
   - [tricot](https://ja.wikipedia.org/wiki/tricot "wikilink") - 自主企画イベントに参加。
 
-  - [長岡亮介](../Page/長岡亮介_\(ギタリスト\).md "wikilink")（[ペトロールズ](https://ja.wikipedia.org/wiki/ペトロールズ "wikilink")、ex.[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")） - アルバム『BLACK TRACK』に彼をボーカルに迎えた「Connected feat. Nagaoka Ryosuke」を収録する一方、SOILも長岡のバンド・ペトロールズの[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")に参加。長岡もギター&ボーカルでSOILのライブに参加。
+  - [長岡亮介](../Page/長岡亮介_\(ギタリスト\).md "wikilink")（[ペトロールズ](https://ja.wikipedia.org/wiki/ペトロールズ "wikilink")、ex.[東京事変](../Page/東京事変.md "wikilink")） - アルバム『BLACK TRACK』に彼をボーカルに迎えた「Connected feat. Nagaoka Ryosuke」を収録する一方、SOILも長岡のバンド・ペトロールズの[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")に参加。長岡もギター&ボーカルでSOILのライブに参加。
 
   - [中村達也](https://ja.wikipedia.org/wiki/中村達也 "wikilink") - EOR（ENTITY OF RUDE）のメンバーとして、タブゾンビと共に活動。
 
-  - [七尾旅人](https://ja.wikipedia.org/wiki/七尾旅人 "wikilink") - アルバム『CIRCLES』にゲストとして迎える。
+  - [七尾旅人](../Page/七尾旅人.md "wikilink") - アルバム『CIRCLES』にゲストとして迎える。
 
   - Nia Andrews - アルバム『BLACK TRACK』に彼女をボーカルに迎えた「By Your Side」を収録。
 
@@ -285,9 +285,9 @@
 
   - [ノラ・ジョーンズ](https://ja.wikipedia.org/wiki/ノラ・ジョーンズ "wikilink") - 来日時にみどりんがライブをサポート\[34\]。
 
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink") - 「[夢見る宇宙](https://ja.wikipedia.org/wiki/夢見る宇宙 "wikilink")」にタブゾンビ、元晴が参加。
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink") - 「[夢見る宇宙](https://ja.wikipedia.org/wiki/夢見る宇宙 "wikilink")」にタブゾンビ、元晴が参加。
 
-  - [ハナレグミ](https://ja.wikipedia.org/wiki/ハナレグミ "wikilink") - ジョイントライブで共演。アルバム『オアシス』収録の「オアシス」にみどりんが参加。
+  - [ハナレグミ](../Page/ハナレグミ.md "wikilink") - ジョイントライブで共演。アルバム『オアシス』収録の「オアシス」にみどりんが参加。
 
   - Bambu - アルバム『BLACK TRACK』に彼をラップに迎えた「By Your Side」を収録。
 
@@ -299,11 +299,11 @@
 
   - [福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink") - コラボレーション楽曲を発表。アルバム『CIRCLES』にゲストボーカルとして参加。ライブサポートにみどりんが参加。
 
-  - [藤巻亮太](https://ja.wikipedia.org/wiki/藤巻亮太 "wikilink") - レコーディングやライブサポートにタブゾンビが参加。
+  - [藤巻亮太](../Page/藤巻亮太.md "wikilink") - レコーディングやライブサポートにタブゾンビが参加。
 
   - [藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink") - レコーディングやライブサポートに秋田ゴールドマンが参加。
 
-  - [PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink") - ジョイントライブで共演。
+  - [PE'Z](../Page/PE'Z.md "wikilink") - ジョイントライブで共演。
 
   - [ペトロールズ](https://ja.wikipedia.org/wiki/ペトロールズ "wikilink") - トリビュート盤『[WHERE, WHO, WHAT IS PETROLZ?](https://ja.wikipedia.org/wiki/WHERE,_WHO,_WHAT_IS_PETROLZ? "wikilink")』に参加、楽曲「ホロウェイ」をカバーする。
 
@@ -317,25 +317,25 @@
 
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") - SOILのライブにゲストアーティストとして出演。アルバム『CIRCLES』にゲストボーカルとして迎える。
 
-  - [Polaris](https://ja.wikipedia.org/wiki/Polaris_\(バンド\) "wikilink") - アルバム『Music』にみどりんが参加。
+  - [Polaris](../Page/Polaris_\(バンド\).md "wikilink") - アルバム『Music』にみどりんが参加。
 
   - [マイア・ヒラサワ](https://ja.wikipedia.org/wiki/マイア・ヒラサワ "wikilink") - コラボシングル「MOVIN' feat.Maia Hirasawa」を発表。
 
   - [MANNISH BOYS](https://ja.wikipedia.org/wiki/MANNISH_BOYS "wikilink") - レコーディングにタブゾンビが参加。
 
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink") - アルバム『HIT』に収録の「Rise Up feat. SOIL&"PIMP"SESSIONS」をプロデュース。コラボレーション曲「comrade feat. 三浦大知」を発表（アルバム『DAPPER』収録）。
+  - [三浦大知](../Page/三浦大知.md "wikilink") - アルバム『HIT』に収録の「Rise Up feat. SOIL&"PIMP"SESSIONS」をプロデュース。コラボレーション曲「comrade feat. 三浦大知」を発表（アルバム『DAPPER』収録）。
 
   - [三宅洋平](https://ja.wikipedia.org/wiki/三宅洋平 "wikilink") - 元晴が三宅洋平、小林眞樹（B）、PEACE-K（Dr, Perc）、越野竜太（G / らぞく）とともにバンド「（仮）ALBATRUS」を結成。
 
-  - [MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink") - 2012年のJAPAN JAMで初共演。SOILのライブにゲストアーティストとして出演。アルバム『CIRCLES』にゲストとして迎える。
+  - [MIYAVI](../Page/MIYAVI.md "wikilink") - 2012年のJAPAN JAMで初共演。SOILのライブにゲストアーティストとして出演。アルバム『CIRCLES』にゲストとして迎える。
 
-  - [向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink") - [宮藤官九郎](../Page/宮藤官九郎.md "wikilink")が監督・脚本を務めた映画「[中学生円山](https://ja.wikipedia.org/wiki/中学生円山 "wikilink")」の音楽を手掛けた向井が映画のためのコラボ曲「中学生円山のテーマ」をタブゾンビ、元晴と制作。
+  - [向井秀徳](../Page/向井秀徳.md "wikilink") - [宮藤官九郎](../Page/宮藤官九郎.md "wikilink")が監督・脚本を務めた映画「[中学生円山](https://ja.wikipedia.org/wiki/中学生円山 "wikilink")」の音楽を手掛けた向井が映画のためのコラボ曲「中学生円山のテーマ」をタブゾンビ、元晴と制作。
 
   - [山本加津彦](https://ja.wikipedia.org/wiki/山本加津彦 "wikilink")
 
   - [矢野沙織](../Page/矢野沙織.md "wikilink") - アルバム『Bubble Bubble Bebop』に元晴、タブゾンビが参加。
 
-  - [YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink") - 「[あいつによろしく](https://ja.wikipedia.org/wiki/あいつによろしく "wikilink")」にタブゾンビ、元晴が参加。
+  - [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink") - 「[あいつによろしく](https://ja.wikipedia.org/wiki/あいつによろしく "wikilink")」にタブゾンビ、元晴が参加。
 
   - [U-zhaan](https://ja.wikipedia.org/wiki/U-zhaan "wikilink") - アルバム『CIRCLES』にゲストとして迎える。
 
@@ -345,7 +345,7 @@
 
   - \- アルバム『CIRCLES』にゲストとして迎える。
 
-  - [ライムスター](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") - 2011年の[MEET THE WORLD BEATでの共演をきっかけにツーマンライブやイベントなどを行う](../Page/MEET_THE_WORLD_BEAT.md "wikilink")\[35\]。
+  - [ライムスター](../Page/RHYMESTER.md "wikilink") - 2011年の[MEET THE WORLD BEATでの共演をきっかけにツーマンライブやイベントなどを行う](../Page/MEET_THE_WORLD_BEAT.md "wikilink")\[35\]。
 
   - ラリー・ブラウン（グレイ・レヴァレンド） - J.A.Mのアルバムにゲストとして迎える。
 
@@ -388,7 +388,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
 <td><p><strong>Crush!</strong></p></td>
 <td><p>VICL-35950</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -484,7 +484,7 @@ VICL-36657:通常盤</p></td>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></td>
-<td><p><strong>ジャズィ・カンヴァセイション feat. <a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a></strong></p></td>
+<td><p><strong>ジャズィ・カンヴァセイション feat. <a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></strong></p></td>
 <td><p>NCS-868</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -521,7 +521,7 @@ VICL-36657:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>表nothin' 裏girl</strong></p></td>
 <td><p>NCS-884</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -591,7 +591,7 @@ VICL-36657:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p><strong>PIMP MASTER</strong></p></td>
 <td><p>VICL-61566</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -622,7 +622,7 @@ VICL-36657:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>1st mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td><p><strong>SUMMER GODDESS</strong></p></td>
 <td><p>VICL-61696</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -644,7 +644,7 @@ VICL-36657:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p><strong>PIMP OF THE YEAR</strong></p></td>
 <td><p>VICL-61891:初回限定盤<br />
 VICL-61892:通常盤</p></td>
@@ -835,11 +835,11 @@ VICL-64049:通常盤</p></td>
 <li>殺し屋危機一髪 / SOIL&amp;"PIMP"SESSIONS と椎名林檎 [2:35]</li>
 <li>Summer Love / SOIL&amp;"PIMP"SESSIONS feat. <a href="https://ja.wikipedia.org/wiki/ホセ・ジェイムズ" title="wikilink">José James</a> [4:09]</li>
 <li>Bon Bon Villa / SOIL&amp;"PIMP"BIG BAND feat. <a href="https://ja.wikipedia.org/wiki/福原美穂" title="wikilink">福原美穂</a> [4:30]</li>
-<li>Light Blue Soldier / SOIL&amp;"PIMP"SESSIONS feat. <a href="https://ja.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a> [4:46]</li>
+<li>Light Blue Soldier / SOIL&amp;"PIMP"SESSIONS feat. <a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a> [4:46]</li>
 <li>Iceburn / SOIL&amp;"PIMP"SESSIONS feat. DJ KENTARO [3:35]</li>
 <li>Ananta / SOIL&amp;"PIMP"SESSIONS feat. <a href="https://ja.wikipedia.org/wiki/U-zhaan" title="wikilink">U-zhaan</a> [5:23]</li>
 <li>記憶の旅 / SOIL&amp;"PIMP"SESSIONS feat. <a href="https://ja.wikipedia.org/wiki/RYAT" title="wikilink">RYAT</a> [4:58]</li>
-<li>Frog in the World! / SOIL&amp;"PIMP"SESSIONS feat. <a href="https://ja.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a> [2:37]</li>
+<li>Frog in the World! / SOIL&amp;"PIMP"SESSIONS feat. <a href="../Page/七尾旅人.md" title="wikilink">七尾旅人</a> [2:37]</li>
 <li>Hey Tagger, I'm Here / SOIL&amp;"PIMP"SESSIONS feat. <a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a> [5:18]</li>
 <li>殺し屋危機一髪 (DEATH JAZZ ver.) / SOIL&amp;"PIMP"SESSIONS と椎名林檎(初回盤ボーナストラック)</li>
 </ol></td>
@@ -1059,14 +1059,14 @@ VICL-64953:通常盤</p></td>
 
 ### 配信限定
 
-| 発売日                                                                                                            | タイトル                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")                  | **[カリソメ乙女 (DEATH JAZZ ver.)](../Page/カリソメ乙女.md "wikilink")**                                                                       |
-| [2009年](../Page/2009年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")                                         | **Paraiso**                                                                                                                        |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") | **Live Session EP (iTunes Exclusive)**                                                                                             |
-| [2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")                                       | **[MY FOOLISH HEART〜Crazy in Shibuya〜](https://ja.wikipedia.org/wiki/MY_FOOLISH_HEART_\(SOIL&"PIMP"SESSIONSと椎名林檎の曲\) "wikilink")** |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")                  | **LIVE AT ROPPONGI 14th NOV.2010**                                                                                                 |
-|                                                                                                                |                                                                                                                                    |
+| 発売日                                                                                           | タイトル                                                                                                                               |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [2006年](../Page/2006年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")                    | **[カリソメ乙女 (DEATH JAZZ ver.)](../Page/カリソメ乙女.md "wikilink")**                                                                       |
+| [2009年](../Page/2009年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")                        | **Paraiso**                                                                                                                        |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")   | **Live Session EP (iTunes Exclusive)**                                                                                             |
+| [2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")                      | **[MY FOOLISH HEART〜Crazy in Shibuya〜](https://ja.wikipedia.org/wiki/MY_FOOLISH_HEART_\(SOIL&"PIMP"SESSIONSと椎名林檎の曲\) "wikilink")** |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **LIVE AT ROPPONGI 14th NOV.2010**                                                                                                 |
+|                                                                                               |                                                                                                                                    |
 
 ### DVD
 
@@ -1084,7 +1084,7 @@ VICL-64953:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><strong>LIVE in LONDON+</strong></p></td>
 <td><p>VIBL-315</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1181,11 +1181,11 @@ VIBL-405:通常盤</p></td>
 
 ### バンドスコア
 
-| 発売日                                                                                         | タイトル                                       |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月28日](../Page/8月28日.md "wikilink") | **SOIL&"PIMP"SESSIONS SELECTION**          |
-| [2009年](../Page/2009年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")                    | **SOIL&"PIMP"SESSIONS SELECTION VOLUME 2** |
-|                                                                                             |                                            |
+| 発売日                                                                      | タイトル                                       |
+| ------------------------------------------------------------------------ | ------------------------------------------ |
+| [2006年](../Page/2006年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") | **SOIL&"PIMP"SESSIONS SELECTION**          |
+| [2009年](../Page/2009年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") | **SOIL&"PIMP"SESSIONS SELECTION VOLUME 2** |
+|                                                                          |                                            |
 
 ### 参加作品
 
@@ -1316,7 +1316,7 @@ TOCT-27091</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年05月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/杏子_(ミュージシャン)" title="wikilink">杏子</a>「<a href="https://ja.wikipedia.org/wiki/恋するBAILA_BAILA" title="wikilink">恋するBAILA BAILA</a>」</strong></p></td>
+<td><p><strong><a href="../Page/杏子_(ミュージシャン).md" title="wikilink">杏子</a>「<a href="https://ja.wikipedia.org/wiki/恋するBAILA_BAILA" title="wikilink">恋するBAILA BAILA</a>」</strong></p></td>
 <td><p>AUCL-157<br />
 AUCL-159</p></td>
 <td><p>2.One in a million（SOIL&amp;“PIMP”ver.）</p></td>
@@ -1552,13 +1552,13 @@ VICL-64766</p></td>
 ## タイアップ
 
   - 「Crush\!」 - [TBS系TV](../Page/TBSテレビ.md "wikilink")「格闘王」エンディングテーマ
-  - 「SAHARA」 - [伊藤園](https://ja.wikipedia.org/wiki/伊藤園 "wikilink")「W」COFFEE CMソング
+  - 「SAHARA」 - [伊藤園](../Page/伊藤園.md "wikilink")「W」COFFEE CMソング
   - 「Pro-seed」 - NHK「トップランナー」2007年度オープニングテーマ
   - 「カリソメ乙女(DEATH JAZZ ver.)」 - [映画](../Page/映画.md "wikilink")「[さくらん](../Page/さくらん.md "wikilink")」主題歌（2007年）
   - 「COME ON BABY」 - 「副島さんとピンカラ殺生S」名義による映画「[菅井君と家族石 THE MOVIE](../Page/菅井君と家族石.md "wikilink")」の主題歌（2008年）
-  - 「Fantastic Planet」 - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[ハリアー](https://ja.wikipedia.org/wiki/トヨタ・ハリアー "wikilink")」CMソング（2008年）
+  - 「Fantastic Planet」 - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[ハリアー](../Page/トヨタ・ハリアー.md "wikilink")」CMソング（2008年）
   - 「Paraiso」 - [フジテレビ系深夜アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ミチコとハッチン](../Page/ミチコとハッチン.md "wikilink")」オープニングテーマ（2008年）
-  - 「Go Next\!」「Storm」 - [ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")「Prodino」CMソング
+  - 「Go Next\!」「Storm」 - [ケンウッド](../Page/ケンウッド.md "wikilink")「Prodino」CMソング
   - 「[他人の関係 feat. SOIL&"PIMP"SESSIONS](https://ja.wikipedia.org/wiki/他人の関係#一青窈のシングル "wikilink")」 - フジテレビ系木曜劇場「昼顔〜平日午後3時の恋人たち〜」の主題歌（2014年）
   - 「THEME FROM "FUTAGASHIRA"」 - WOWOWの時代劇「連続ドラマW ふたがしら」のメインテーマ（2015年）
   - 「SEKAI」 - フジテレビ系「ボクシングフェス2015〜[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")＆[八重樫東](../Page/八重樫東.md "wikilink")ダブル世界戦〜」中継テーマソング（2015年）
@@ -1570,8 +1570,8 @@ VICL-64766</p></td>
 ### テレビ
 
   - STUDIO GROWN - タブゾンビのみ
-  - [シネマ通信](https://ja.wikipedia.org/wiki/シネマ通信 "wikilink")に楽曲が多用されている。
-  - 2006年7月9日 [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[トップランナー](https://ja.wikipedia.org/wiki/トップランナー "wikilink")に出演。
+  - [シネマ通信](../Page/シネマ通信.md "wikilink")に楽曲が多用されている。
+  - 2006年7月9日 [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[トップランナー](../Page/トップランナー.md "wikilink")に出演。
   - 2006年11月7日 - 2010年3月26日 （株）洋楽（[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")、[BSフジ](../Page/BSフジ.md "wikilink")） - 社長のみ
   - 2006年12月8日 [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に「[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")×SOIL&"PIMP"SESSIONS」として出演。
   - 2007年2月17日 [さくらん](../Page/さくらん.md "wikilink")極彩色ワンダーランドツアー！にナレーターとして社長出演。
@@ -1604,7 +1604,7 @@ VICL-64766</p></td>
         w/[ギターウルフ](../Page/ギターウルフ.md "wikilink") / [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")
   - 2013年 - 10th Anniversary\! LIVE CIRCLES
       -
-        w/[BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") / [MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")
+        w/[BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") / [MIYAVI](../Page/MIYAVI.md "wikilink")
   - 2014年 - SOIL& "PIMP" SESSIONS presents "CLUB CIRCUS"
       -
         w/(仮)ALBATRUS / J.A.M / 松浦俊夫 presents HEX
@@ -1658,7 +1658,7 @@ VICL-64766</p></td>
 
 <div class="NavHead" style="text-align: center;">
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+[2005年](../Page/2005年.md "wikilink")
 
 </div>
 
@@ -1677,7 +1677,7 @@ VICL-64766</p></td>
 
 <div class="NavHead" style="text-align: center;">
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+[2006年](../Page/2006年.md "wikilink")
 
 </div>
 
@@ -1686,7 +1686,7 @@ VICL-64766</p></td>
   - 07月02日 - [SOCIETY OF THE CITIZENS](https://ja.wikipedia.org/wiki/SOCIETY_OF_THE_CITIZENS "wikilink")
   - 08月06日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006
   - 10月08日 - 朝霧JAM 2006
-  - 12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07 -WEST-
+  - 12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07 -WEST-
   - 12月31日 - COUNTDOWN JAPAN 06/07
 
 </div>
@@ -1725,7 +1725,7 @@ VICL-64766</p></td>
 
 <div class="NavContent" style="text-align: left;">
 
-  - 01月27日 - [NO MATTER LIVE](https://ja.wikipedia.org/wiki/NO_MATTER_BOARD "wikilink") 2008
+  - 01月27日 - [NO MATTER LIVE](../Page/NO_MATTER_BOARD.md "wikilink") 2008
   - 08月02日 - ROCK IN JAPAN FESTIVAL 2008
   - 08月24日 - SOCIETY OF THE CITIZENS vol.2
   - 12月31日 - COUNTDOWN JAPAN 08/09
@@ -1831,7 +1831,7 @@ VICL-64766</p></td>
   - 03月16日 - ヘリオス・グルーヴィーナイト vol.22
   - 05月06日 - TOKYO M.A.P.S
   - 05月18日 - GREENROOM FESTIVAL '13
-  - 07月15日 - 「ベストバウト Vol. 1」[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") vs SOIL&"PIMP"SESSIONS
+  - 07月15日 - 「ベストバウト Vol. 1」[RHYMESTER](../Page/RHYMESTER.md "wikilink") vs SOIL&"PIMP"SESSIONS
   - 07月20日 - JOIN ALIVE 2013
   - 07月26日 - FUJI ROCK FESTIVAL '13
   - 08月02日 - ROCK IN JAPAN FESTIVAL 2013
@@ -1893,7 +1893,7 @@ VICL-64766</p></td>
 
   - 04月11日 - SYNCHRONICITY'15 -10th Anniversary\!\!-
   - 04月26日 - ARABAKI ROCK FEST.15
-  - 04月27日 - 映画「[ジェームス・ブラウン](https://ja.wikipedia.org/wiki/ジェームス・ブラウン "wikilink")〜最高の魂(ソウル)を持つ男〜」公開記念 JB Tribute LIVE
+  - 04月27日 - 映画「[ジェームス・ブラウン](../Page/ジェームス・ブラウン.md "wikilink")〜最高の魂(ソウル)を持つ男〜」公開記念 JB Tribute LIVE
   - 04月29日 - 豊洲野音CARNIVAL
   - 05月10日 - RHYMESTER Presents 人間交差点 2015
   - 05月31日 - 揖斐川ワンダーピクニック
@@ -1907,7 +1907,7 @@ VICL-64766</p></td>
   - 09月05日 - TOKYO METROPOLITAN CAMP 2015
   - 09月27日 - Blue Note JAZZ FESTIVAL in JAPAN
   - 10月04日 - 旅祭2015
-  - 12月05日 - [YOUR SONG IS GOODの超](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink")2日間 2015
+  - 12月05日 - [YOUR SONG IS GOODの超](../Page/YOUR_SONG_IS_GOOD.md "wikilink")2日間 2015
   - 12月12日 - [Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink") The Blow Your Mind vo.1
   - 12月29日 - ボクシングフェス2015
 

@@ -7,7 +7,7 @@
 
 スーパーファミコンでは最後の作品となった今作は、この時点での桃太郎電鉄シリーズの集大成であるともいえる。本作では、ロムカセットの容量が前作 (『[スーパーDX](../Page/スーパー桃太郎電鉄DX.md "wikilink")』) の1.5倍になり、[SPC7110](https://ja.wikipedia.org/wiki/SPC7110 "wikilink")と呼ばれる特殊チップが搭載された。「ボンビラス星」「運賃改正」など後のシリーズ作品で定番となった要素が多数登場しているのも本作の特徴である。その他にもゲームバランスが一部変化しているが、ゲームの基本的なルールは前作『スーパーDX』と同じであり、作中のルール説明の際にも、その旨をキャスターの桃太郎が語っている。そのため、前作までに登場したイベントの多くや、ゲストボンビー「コマルン」が引き続き登場している。
 
-[さくまあきら](https://ja.wikipedia.org/wiki/さくまあきら "wikilink")によれば、本作のタイトルの「HAPPY」とは「**ハッピーエンド**」の意味が込められており、当初、桃太郎電鉄シリーズは本作で制作を終了する予定であったという\[1\]。しかし、本作の発売後もシリーズは継続し、1年後に『[桃太郎電鉄7](https://ja.wikipedia.org/wiki/桃太郎電鉄7 "wikilink")』がプレイステーションで発売されることになる。
+[さくまあきら](../Page/さくまあきら.md "wikilink")によれば、本作のタイトルの「HAPPY」とは「**ハッピーエンド**」の意味が込められており、当初、桃太郎電鉄シリーズは本作で制作を終了する予定であったという\[1\]。しかし、本作の発売後もシリーズは継続し、1年後に『[桃太郎電鉄7](../Page/桃太郎電鉄7.md "wikilink")』がプレイステーションで発売されることになる。
 
 ## 前作からの変更点
 
@@ -34,15 +34,15 @@
           - 「新潜水艦カード」を使用した時に「海底カード売り場」に立ち寄れることがある。「海底カード売り場」では主に希少価値の高いカードが販売されている。
       - 「ばちあたりカード」「豪速球カード」などの新カードが登場している。
       - 「運賃改正」イベントが復活。今作では、8年目以降にカードの価格が倍になる\[6\]。
-  - 今作のみ、[高知にフェリー乗り場が登場している](https://ja.wikipedia.org/wiki/高知港 "wikilink")。
-  - 声優の[横山智佐](https://ja.wikipedia.org/wiki/横山智佐 "wikilink")が夜叉姫の声で出演している。
+  - 今作のみ、[高知にフェリー乗り場が登場している](../Page/高知港.md "wikilink")。
+  - 声優の[横山智佐](../Page/横山智佐.md "wikilink")が夜叉姫の声で出演している。
       - 目的地ルーレットや決算の順位発表画面などの特定のシーンでボタンを押した際に「がんばってね」「ファイト\!」などの短いセリフ音声が流れる。
   - 今作では、最初から目的地のグループが2つに分かれている。16か所のうち6か所が、一巡するごとに入れ替わる。
   - 「ワープ駅」の移動先を、自由に指定できるようになった。
   - [長野オリンピック](https://ja.wikipedia.org/wiki/長野オリンピック "wikilink")にちなんだ物件・イベントが追加される。
   - ゲーム終了時の3賞のうち「工業王」が廃止され、代わりに「水産王」が登場。
 
-これらの変更点は、[ジャンプ放送局](https://ja.wikipedia.org/wiki/ジャンプ放送局 "wikilink")の常連投稿戦士によって考えられたものも多い。スタッフロールに常連のペンネームが多数掲載されている。
+これらの変更点は、[ジャンプ放送局](../Page/ジャンプ放送局.md "wikilink")の常連投稿戦士によって考えられたものも多い。スタッフロールに常連のペンネームが多数掲載されている。
 
 ## 登場駅
 
@@ -56,15 +56,15 @@
   - [旭川](../Page/旭川駅.md "wikilink")
   - [網走](../Page/網走駅.md "wikilink")
   - **[釧路](../Page/釧路駅.md "wikilink")**
-  - [池田](https://ja.wikipedia.org/wiki/池田駅_\(北海道\) "wikilink")
+  - [池田](../Page/池田駅_\(北海道\).md "wikilink")
   - [トマム](../Page/トマム駅.md "wikilink")
   - [富良野](../Page/富良野駅.md "wikilink")
   - **[札幌](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")**
-  - [小樽](https://ja.wikipedia.org/wiki/小樽駅 "wikilink")
+  - [小樽](../Page/小樽駅.md "wikilink")
   - [ニセコ](../Page/ニセコ駅.md "wikilink")
   - **[襟裳](https://ja.wikipedia.org/wiki/日勝線 "wikilink")**
-  - [登別](https://ja.wikipedia.org/wiki/登別駅 "wikilink")
-  - [長万部](https://ja.wikipedia.org/wiki/長万部駅 "wikilink")
+  - [登別](../Page/登別駅.md "wikilink")
+  - [長万部](../Page/長万部駅.md "wikilink")
   - [函館](https://ja.wikipedia.org/wiki/函館駅 "wikilink")
   - **[青森](../Page/青森駅.md "wikilink")**
   - [弘前](../Page/弘前駅.md "wikilink")
@@ -95,21 +95,21 @@
   - [湯沢](../Page/越後湯沢駅.md "wikilink")
   - [甲府](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")
   - [小淵沢](https://ja.wikipedia.org/wiki/小淵沢駅 "wikilink")
-  - [清里](https://ja.wikipedia.org/wiki/清里駅 "wikilink")
+  - [清里](../Page/清里駅.md "wikilink")
   - [長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")
   - [軽井沢](../Page/軽井沢駅.md "wikilink")
   - [松本](https://ja.wikipedia.org/wiki/松本駅 "wikilink")
-  - [白馬](https://ja.wikipedia.org/wiki/白馬駅 "wikilink")
+  - [白馬](../Page/白馬駅.md "wikilink")
   - [熱海](https://ja.wikipedia.org/wiki/熱海駅 "wikilink")
   - [静岡](../Page/静岡駅.md "wikilink")
-  - [木曽](https://ja.wikipedia.org/wiki/木曽福島駅 "wikilink")
+  - [木曽](../Page/木曽福島駅.md "wikilink")
   - [浜松](https://ja.wikipedia.org/wiki/浜松駅 "wikilink")
   - **[名古屋](../Page/名古屋駅.md "wikilink")**
   - [高山](https://ja.wikipedia.org/wiki/高山駅 "wikilink")
   - [岐阜](https://ja.wikipedia.org/wiki/岐阜駅 "wikilink")
   - [松阪](../Page/松阪駅.md "wikilink")
   - [伊勢](../Page/伊勢市駅.md "wikilink")
-  - **[新宮](https://ja.wikipedia.org/wiki/新宮駅 "wikilink")**
+  - **[新宮](../Page/新宮駅.md "wikilink")**
   - [富山](https://ja.wikipedia.org/wiki/富山駅 "wikilink")
   - **[金沢](https://ja.wikipedia.org/wiki/金沢駅 "wikilink")**
   - [敦賀](https://ja.wikipedia.org/wiki/敦賀駅 "wikilink")
@@ -133,7 +133,7 @@
   - **[出雲](https://ja.wikipedia.org/wiki/出雲市駅 "wikilink")**
   - [広島](https://ja.wikipedia.org/wiki/広島駅 "wikilink")
   - [萩](../Page/萩駅.md "wikilink")
-  - [下関](https://ja.wikipedia.org/wiki/下関駅 "wikilink")
+  - [下関](../Page/下関駅.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")
   - [徳島](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")
   - **[高知](https://ja.wikipedia.org/wiki/高知駅 "wikilink")**
@@ -144,8 +144,8 @@
   - [有田](https://ja.wikipedia.org/wiki/有田駅 "wikilink")
   - [佐世保](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")
   - **[長崎](../Page/長崎駅.md "wikilink")**
-  - [別府](https://ja.wikipedia.org/wiki/別府駅_\(大分県\) "wikilink")
-  - [湯布院](https://ja.wikipedia.org/wiki/由布院駅 "wikilink")（初登場）
+  - [別府](../Page/別府駅_\(大分県\).md "wikilink")
+  - [湯布院](../Page/由布院駅.md "wikilink")（初登場）
   - [大分](https://ja.wikipedia.org/wiki/大分駅 "wikilink")
   - [熊本](https://ja.wikipedia.org/wiki/熊本駅 "wikilink")
   - [宮崎](https://ja.wikipedia.org/wiki/宮崎駅 "wikilink")
@@ -154,7 +154,7 @@
   - [グアム](https://ja.wikipedia.org/wiki/グアム空港 "wikilink")
   - **[ハワイ](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")**
   - [サイパン](https://ja.wikipedia.org/wiki/サイパン空港 "wikilink")
-  - [秋田沖](https://ja.wikipedia.org/wiki/八橋油田 "wikilink")（イベントで出現）
+  - [秋田沖](../Page/八橋油田.md "wikilink")（イベントで出現）
 
 </div>
 
@@ -163,13 +163,13 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [根室](../Page/根室駅.md "wikilink")
-  - [恐山](https://ja.wikipedia.org/wiki/恐山 "wikilink")
-  - [遠野](https://ja.wikipedia.org/wiki/遠野駅 "wikilink")
-  - [宮古](https://ja.wikipedia.org/wiki/宮古駅 "wikilink")
-  - [陸前高田](https://ja.wikipedia.org/wiki/陸前高田駅 "wikilink")
-  - [新島](https://ja.wikipedia.org/wiki/新島空港 "wikilink")
+  - [恐山](../Page/恐山.md "wikilink")
+  - [遠野](../Page/遠野駅.md "wikilink")
+  - [宮古](../Page/宮古駅.md "wikilink")
+  - [陸前高田](../Page/陸前高田駅.md "wikilink")
+  - [新島](../Page/新島空港.md "wikilink")
   - [下田](../Page/下田駅.md "wikilink")
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲駅 "wikilink")
+  - [尾鷲](../Page/尾鷲駅.md "wikilink")
 
 </div>
 
@@ -178,8 +178,8 @@
   - [輪島](https://ja.wikipedia.org/wiki/輪島駅 "wikilink")
   - [田辺](https://ja.wikipedia.org/wiki/田辺駅 "wikilink")
   - [新居浜](https://ja.wikipedia.org/wiki/新居浜駅 "wikilink")
-  - [中村](https://ja.wikipedia.org/wiki/中村駅 "wikilink")
-  - [高千穂](https://ja.wikipedia.org/wiki/高千穂駅 "wikilink")
+  - [中村](../Page/中村駅.md "wikilink")
+  - [高千穂](../Page/高千穂駅.md "wikilink")
   - [指宿](https://ja.wikipedia.org/wiki/指宿駅 "wikilink")
   - [エロマンガ](https://ja.wikipedia.org/wiki/イロマンゴ島 "wikilink")
 
@@ -194,9 +194,9 @@
 
 ### ワープ駅（4駅）
 
-  - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧駅 "wikilink")
+  - [苫小牧](../Page/苫小牧駅.md "wikilink")
   - [館山](https://ja.wikipedia.org/wiki/館山駅 "wikilink")
-  - [室戸](https://ja.wikipedia.org/wiki/室戸岬 "wikilink")
+  - [室戸](../Page/室戸岬.md "wikilink")
   - [阿蘇](https://ja.wikipedia.org/wiki/阿蘇駅 "wikilink")
 
 ## その他

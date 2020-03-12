@@ -1,7 +1,7 @@
 > この記事は[JNN ](https://ja.wikipedia.org/wiki/JNN_)から翻訳されています。
 
 
-『**JNN九州・沖縄ドキュメント ムーブ**』（ジェイエヌエヌきゅうしゅう・おきなわドキュメント ムーブ）は、[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[九州](https://ja.wikipedia.org/wiki/九州地方 "wikilink")・[沖縄の](../Page/沖縄県.md "wikilink")[ブロックネット](https://ja.wikipedia.org/wiki/ブロックネット "wikilink")（[e-JNN](https://ja.wikipedia.org/wiki/e-JNN "wikilink")）で放送されている[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。
+『**JNN九州・沖縄ドキュメント ムーブ**』（ジェイエヌエヌきゅうしゅう・おきなわドキュメント ムーブ）は、[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[九州](https://ja.wikipedia.org/wiki/九州地方 "wikilink")・[沖縄の](../Page/沖縄県.md "wikilink")[ブロックネット](../Page/ブロックネット.md "wikilink")（[e-JNN](https://ja.wikipedia.org/wiki/e-JNN "wikilink")）で放送されている[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。
 
 ## 概要
 
@@ -42,7 +42,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td><p>TBS系列<br />
 <a href="https://ja.wikipedia.org/wiki/e-JNN" title="wikilink">e-JNN</a>加盟</p></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>25:50-26:20<br />
 （月1:50-2:20）</p></td>
 <td><p>20時間35分遅れ</p></td>

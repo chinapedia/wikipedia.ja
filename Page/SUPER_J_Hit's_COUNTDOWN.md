@@ -18,13 +18,13 @@
 <!-- end list -->
 
   -
-    13:00 - 16:30（[野球中継時は短縮](https://ja.wikipedia.org/wiki/CBCドラゴンズナイター "wikilink")）
+    13:00 - 16:30（[野球中継時は短縮](../Page/CBCドラゴンズナイター.md "wikilink")）
 
 ## 出演者
 
   - [平野裕加里](../Page/平野裕加里.md "wikilink")
   - [大石邦彦](../Page/大石邦彦.md "wikilink")(CBCアナウンサー)
-  - [チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")(ロケ担当)
+  - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")(ロケ担当)
       - [徳井義実](../Page/徳井義実.md "wikilink")
       - [福田充徳](../Page/福田充徳.md "wikilink")
 

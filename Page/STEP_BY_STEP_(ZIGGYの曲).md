@@ -17,7 +17,7 @@
 
 1.  **STEP BY STEP**
       -
-        作詞、作曲：[森重樹一](https://ja.wikipedia.org/wiki/森重樹一 "wikilink")　編曲：[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
+        作詞、作曲：[森重樹一](../Page/森重樹一.md "wikilink")　編曲：[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
         [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』第1期エンディングテーマ
 2.  **HAPPY END**
       -
@@ -27,7 +27,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">エンディングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a><br />
 <a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/1月8日.md" title="wikilink">1月8日</a> - <a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
 </tr>
 <tr class="even">

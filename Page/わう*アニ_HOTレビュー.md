@@ -5,9 +5,9 @@
 
 ## 番組内容
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月2日よりWOWOWのインターネットラジオ[AZステーション](https://ja.wikipedia.org/wiki/AZステーション "wikilink")で配信していたが、2008年6月のAZステーション終了以後は独自ブログから配信していた。
+[2006年](../Page/2006年.md "wikilink")5月2日よりWOWOWのインターネットラジオ[AZステーション](https://ja.wikipedia.org/wiki/AZステーション "wikilink")で配信していたが、2008年6月のAZステーション終了以後は独自ブログから配信していた。
 
-毎週水曜日更新だったが、2008年10月8日から隔週更新。[WOWOWアニメ](https://ja.wikipedia.org/wiki/WOWOWアニメ "wikilink")についての話題を中心にしているが、アニメ業界全般についての言及もあり、番組冒頭での紹介の通り「実は意外と何でもありな」[アニラジ](../Page/アニラジ.md "wikilink")番組。WOWOWアニメ作品の出演声優やスタッフをゲストに迎えることもあった。
+毎週水曜日更新だったが、2008年10月8日から隔週更新。[WOWOWアニメ](../Page/WOWOWアニメ.md "wikilink")についての話題を中心にしているが、アニメ業界全般についての言及もあり、番組冒頭での紹介の通り「実は意外と何でもありな」[アニラジ](../Page/アニラジ.md "wikilink")番組。WOWOWアニメ作品の出演声優やスタッフをゲストに迎えることもあった。
 
 3代目女性パーソナリティの[木川絵里子](https://ja.wikipedia.org/wiki/木川絵里子 "wikilink")が体調不良により番組を降板してからは代理のパーソナリティを固定せず、毎回ゲストパーソナリティと小林による番組進行となった。
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - [小林治](https://ja.wikipedia.org/wiki/小林治_\(ライター\) "wikilink")
+  - [小林治](../Page/小林治_\(ライター\).md "wikilink")
 
 <!-- end list -->
 
@@ -33,13 +33,13 @@
 <!-- end list -->
 
   - [原田まり](https://ja.wikipedia.org/wiki/原田まり "wikilink")（第10回まで ）
-  - [谷井あすか](https://ja.wikipedia.org/wiki/谷井あすか "wikilink")（第13回から第103回まで）
-  - [木川絵理子](https://ja.wikipedia.org/wiki/木川絵理子 "wikilink")（第104回から第126回まで）
+  - [谷井あすか](../Page/谷井あすか.md "wikilink")（第13回から第103回まで）
+  - [木川絵理子](../Page/木川絵理子.md "wikilink")（第104回から第126回まで）
 
 ## 関連項目
 
   - [AZステーション](https://ja.wikipedia.org/wiki/AZステーション "wikilink")
-  - [WOWOWアニメ](https://ja.wikipedia.org/wiki/WOWOWアニメ "wikilink")
+  - [WOWOWアニメ](../Page/WOWOWアニメ.md "wikilink")
 
 ## 外部リンク
 

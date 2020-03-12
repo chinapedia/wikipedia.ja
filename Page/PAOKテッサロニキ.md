@@ -1,13 +1,13 @@
 > この記事は[PAOK](https://ja.wikipedia.org/wiki/PAOK)から翻訳されています。
 
 
-**PAOKテッサロニキ**（パオク・テッサロニキ、）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の都市[テッサロニキ](https://ja.wikipedia.org/wiki/テッサロニキ "wikilink")に本拠地を置く総合スポーツクラブ。**PAOKサロニカ**と表記されることもある。PAOKとはPanthessalonikios Athlitikos Omilos Konstantinoupoliton（）の略で、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")を含む[バスケットボール](../Page/バスケットボール.md "wikilink")、[バレーボール](https://ja.wikipedia.org/wiki/バレーボール "wikilink")、[水泳](../Page/水泳.md "wikilink")など総合スポーツクラブである。
+**PAOKテッサロニキ**（パオク・テッサロニキ、）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の都市[テッサロニキ](../Page/テッサロニキ.md "wikilink")に本拠地を置く総合スポーツクラブ。**PAOKサロニカ**と表記されることもある。PAOKとはPanthessalonikios Athlitikos Omilos Konstantinoupoliton（）の略で、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")を含む[バスケットボール](../Page/バスケットボール.md "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")、[水泳](../Page/水泳.md "wikilink")など総合スポーツクラブである。
 
-前身は[1875年](../Page/1875年.md "wikilink")に[コンスタンチノープルに創設されたスポーツクラブ](https://ja.wikipedia.org/wiki/コンスタンティノポリス "wikilink")、**ヘルメス**(*Hermes*)。[1926年](../Page/1926年.md "wikilink")、[希土戦争の影響により本拠地が](https://ja.wikipedia.org/wiki/希土戦争_\(1919年-1922年\) "wikilink")[テッサロニキ](https://ja.wikipedia.org/wiki/テッサロニキ "wikilink")に移転され、名称も現在のものに改名された。同年、PAOK FCとしてサッカークラブも新たに創設された。
+前身は[1875年](../Page/1875年.md "wikilink")に[コンスタンチノープルに創設されたスポーツクラブ](https://ja.wikipedia.org/wiki/コンスタンティノポリス "wikilink")、**ヘルメス**(*Hermes*)。[1926年](../Page/1926年.md "wikilink")、[希土戦争の影響により本拠地が](../Page/希土戦争_\(1919年-1922年\).md "wikilink")[テッサロニキ](../Page/テッサロニキ.md "wikilink")に移転され、名称も現在のものに改名された。同年、PAOK FCとしてサッカークラブも新たに創設された。
 
 ## サッカー
 
-[ギリシャ・スーパーリーグ](https://ja.wikipedia.org/wiki/ギリシャ・スーパーリーグ "wikilink")に所属している。リーグ優勝は過去2度あるが、近年はカップ戦のタイトルのみに留まっている。テッサロニキはギリシャ第2の都市なので、[アテネ](../Page/アテネ.md "wikilink")を本拠地とするチームとの対戦は盛りあがる。北部ギリシャの人気チームで熱狂的なファンを持ち、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")の調査ではギリシャ国内のサッカーファンのうち9％がクラブを支持している\[1\]。
+[ギリシャ・スーパーリーグ](../Page/ギリシャ・スーパーリーグ.md "wikilink")に所属している。リーグ優勝は過去2度あるが、近年はカップ戦のタイトルのみに留まっている。テッサロニキはギリシャ第2の都市なので、[アテネ](../Page/アテネ.md "wikilink")を本拠地とするチームとの対戦は盛りあがる。北部ギリシャの人気チームで熱狂的なファンを持ち、[2007年](../Page/2007年.md "wikilink")の調査ではギリシャ国内のサッカーファンのうち9％がクラブを支持している\[1\]。
 
 2006-07シーズンはシーズン6位という成績を残し[UEFAカップ出場権を手に入れたが](../Page/UEFAヨーロッパリーグ.md "wikilink")、手続きの不備により出場資格を失っている。
 
@@ -46,7 +46,7 @@
 </tr>
 <tr class="even">
 <td><p>1959-60</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ギリシャ・スーパーリーグ" title="wikilink">アルファ・エスニキ</a></p></td>
+<td><p><a href="../Page/ギリシャ・スーパーリーグ.md" title="wikilink">アルファ・エスニキ</a></p></td>
 <td><p><strong>7位</strong></p></td>
 </tr>
 <tr class="odd">
@@ -292,7 +292,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006-07</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ギリシャ・スーパーリーグ" title="wikilink">ギリシャ・スーパーリーグ</a></p></td>
+<td><p><a href="../Page/ギリシャ・スーパーリーグ.md" title="wikilink">ギリシャ・スーパーリーグ</a></p></td>
 <td><p><strong>6位</strong></p></td>
 </tr>
 <tr class="even">
@@ -418,7 +418,7 @@
 
 ## 現所属メンバー
 
-\[3\]    ([第3主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))              ([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+\[3\]    ([第3主将](../Page/主将.md "wikilink"))              ([第2主将](../Page/主将.md "wikilink"))
 
 ### ローン移籍選手
 
@@ -434,11 +434,11 @@
 
   - [オレグ・ブロヒン](../Page/オレグ・ブロヒン.md "wikilink") 1993-1994
 
-  - [アリー・ハーン](https://ja.wikipedia.org/wiki/アリー・ハーン "wikilink") 1994-1995
+  - [アリー・ハーン](../Page/アリー・ハーン.md "wikilink") 1994-1995
 
   - [オレグ・ブロヒン](../Page/オレグ・ブロヒン.md "wikilink") 1997-1998
 
-  - [アリー・ハーン](https://ja.wikipedia.org/wiki/アリー・ハーン "wikilink") 1999
+  - [アリー・ハーン](../Page/アリー・ハーン.md "wikilink") 1999
 
   - [フェルナンド・サントス](https://ja.wikipedia.org/wiki/フェルナンド・サントス_\(ポルトガルのサッカー選手\) "wikilink") 2007-2010
 
@@ -454,7 +454,7 @@
 
   - [ゲオルギオス・ゲオルギアディス](https://ja.wikipedia.org/wiki/ゲオルギオス・ゲオルギアディス "wikilink") 2014-2015
 
-  - [イゴール・トゥドール](https://ja.wikipedia.org/wiki/イゴール・トゥドール "wikilink") 2015-2016
+  - [イゴール・トゥドール](../Page/イゴール・トゥドール.md "wikilink") 2015-2016
 
   - [ヴラディミル・イヴィッチ](https://ja.wikipedia.org/wiki/ヴラディミル・イヴィッチ "wikilink") 2016-2017
 
@@ -466,15 +466,15 @@
 
 ## 歴代所属選手
 
-  - [テオドロス・ザゴラキス](https://ja.wikipedia.org/wiki/テオドロス・ザゴラキス "wikilink") 1993-1998、2005-2007
+  - [テオドロス・ザゴラキス](../Page/テオドロス・ザゴラキス.md "wikilink") 1993-1998、2005-2007
 
   - [ヨアンニス・オッカス](https://ja.wikipedia.org/wiki/ヨアンニス・オッカス "wikilink") 2000-2003
 
-  - [セルジオ・コンセイソン](https://ja.wikipedia.org/wiki/セルジオ・コンセイソン "wikilink") 2008-2009
+  - [セルジオ・コンセイソン](../Page/セルジオ・コンセイソン.md "wikilink") 2008-2009
 
   - [ブルーノ・チリッロ](https://ja.wikipedia.org/wiki/ブルーノ・チリッロ "wikilink") 2009-2012
 
-  - [パブロ・ガルシア](https://ja.wikipedia.org/wiki/パブロ・ガルシア "wikilink") 2009-2014.1
+  - [パブロ・ガルシア](../Page/パブロ・ガルシア.md "wikilink") 2009-2014.1
 
   - [ゴルドン・シルデンフェルト](https://ja.wikipedia.org/wiki/ゴルドン・シルデンフェルト "wikilink") 2013
 
@@ -482,7 +482,7 @@
 
 ## バスケットボール
 
-[ギリシャA1バスケットボールリーグ](https://ja.wikipedia.org/wiki/ギリシャA1バスケットボールリーグ "wikilink")に所属している。リーグ優勝は過去に2度あるが、2000年代に入ってから低迷が続いている。
+[ギリシャA1バスケットボールリーグ](../Page/ギリシャA1バスケットボールリーグ.md "wikilink")に所属している。リーグ優勝は過去に2度あるが、2000年代に入ってから低迷が続いている。
 
 ### 国内タイトル
 
@@ -500,52 +500,52 @@
 
 ### 過去の成績
 
-| |シーズン         | |[ギリシャ・バスケットリーグ](https://ja.wikipedia.org/wiki/ギリシャA1バスケットボールリーグ "wikilink") | |[ギリシャ・カップ](https://ja.wikipedia.org/wiki/ギリシャ・バスケットボールカップ "wikilink") |
-| ------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **1981-82**   | bgcolor= \#CD7F32|3位                                                         | bgcolor= silver|準優勝                                                    |
-| **1982-83**   | bgcolor= silver|2位                                                           | ベスト4                                                                   |
-| **1983-84**   | bgcolor= \#CD7F32|3位                                                         | bgcolor= gold|優勝                                                       |
-| **1984-85**   | bgcolor= silver|2位                                                           | ベスト4                                                                   |
-| **1985-86**   | 5位                                                                           | ベスト16                                                                  |
-| **1986-87**   | bgcolor= \#CD7F32|3位                                                         | ベスト16                                                                  |
-| **1987-88**   | bgcolor= silver|2位                                                           | ベスト8                                                                   |
-| **1988-89**   | bgcolor= silver|2位                                                           | bgcolor= silver|準優勝                                                    |
-| **1989-90**   | bgcolor= silver|2位                                                           | bgcolor= silver|準優勝                                                    |
-| **1990-91**   | bgcolor= silver|2位                                                           | bgcolor= silver|準優勝                                                    |
-| **1991-92**   | bgcolor= gold|1位                                                             | ベスト4                                                                   |
-| **1992-93**   | bgcolor= \#CD7F32|3位                                                         | ベスト8                                                                   |
-| **1993-94**   | bgcolor= silver|2位                                                           | ベスト4                                                                   |
-| **1994-95**   | 4位                                                                           | bgcolor= gold|優勝                                                       |
-| **1995-96**   | 4位                                                                           | ベスト16                                                                  |
-| **1996-97**   | bgcolor= \#CD7F32|3位                                                         | ベスト16                                                                  |
-| **1997-98**   | bgcolor= silver|2位                                                           | ベスト16                                                                  |
-| **1998-99**   | bgcolor= \#CD7F32|3位                                                         | bgcolor= gold|優勝                                                       |
-| **1999-2000** | bgcolor= silver|2位                                                           | ベスト16                                                                  |
-| **2000-01**   | 8位                                                                           | ベスト8                                                                   |
-| **2001-02**   | 8位                                                                           | ベスト16                                                                  |
-| **2002-03**   | 7位                                                                           | ベスト16                                                                  |
-| **2003-04**   | 6位                                                                           | ベスト16                                                                  |
-| **2004-05**   | 6位                                                                           | ベスト4                                                                   |
-| **2005-06**   | 6位                                                                           | ベスト4                                                                   |
-| **2006-07**   | 6位                                                                           | ベスト8                                                                   |
-| **2007-08**   | 12位                                                                          | ベスト8                                                                   |
-| **2008-09**   | 7位                                                                           | ベスト16                                                                  |
-| **2009-10**   | 5位                                                                           | ベスト8                                                                   |
-| **2010-11**   | bgcolor= \#CD7F32|3位                                                         | ベスト4                                                                   |
-| **2011-12**   | 8位                                                                           | ベスト4                                                                   |
-| **2012-13**   | 5位                                                                           | ベスト16                                                                  |
-| **2013-14**   | bgcolor= \#CD7F32|3位                                                         | ベスト16                                                                  |
-| **2014-15**   | bgcolor= \#CD7F32|3位                                                         | ベスト4                                                                   |
-| **2015-16**   | 5位                                                                           | ベスト4                                                                   |
-| **2016-17**   | 5位                                                                           | ベスト8                                                                   |
+| |シーズン         | |[ギリシャ・バスケットリーグ](../Page/ギリシャA1バスケットボールリーグ.md "wikilink") | |[ギリシャ・カップ](https://ja.wikipedia.org/wiki/ギリシャ・バスケットボールカップ "wikilink") |
+| ------------- | --------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **1981-82**   | bgcolor= \#CD7F32|3位                                      | bgcolor= silver|準優勝                                                    |
+| **1982-83**   | bgcolor= silver|2位                                        | ベスト4                                                                   |
+| **1983-84**   | bgcolor= \#CD7F32|3位                                      | bgcolor= gold|優勝                                                       |
+| **1984-85**   | bgcolor= silver|2位                                        | ベスト4                                                                   |
+| **1985-86**   | 5位                                                        | ベスト16                                                                  |
+| **1986-87**   | bgcolor= \#CD7F32|3位                                      | ベスト16                                                                  |
+| **1987-88**   | bgcolor= silver|2位                                        | ベスト8                                                                   |
+| **1988-89**   | bgcolor= silver|2位                                        | bgcolor= silver|準優勝                                                    |
+| **1989-90**   | bgcolor= silver|2位                                        | bgcolor= silver|準優勝                                                    |
+| **1990-91**   | bgcolor= silver|2位                                        | bgcolor= silver|準優勝                                                    |
+| **1991-92**   | bgcolor= gold|1位                                          | ベスト4                                                                   |
+| **1992-93**   | bgcolor= \#CD7F32|3位                                      | ベスト8                                                                   |
+| **1993-94**   | bgcolor= silver|2位                                        | ベスト4                                                                   |
+| **1994-95**   | 4位                                                        | bgcolor= gold|優勝                                                       |
+| **1995-96**   | 4位                                                        | ベスト16                                                                  |
+| **1996-97**   | bgcolor= \#CD7F32|3位                                      | ベスト16                                                                  |
+| **1997-98**   | bgcolor= silver|2位                                        | ベスト16                                                                  |
+| **1998-99**   | bgcolor= \#CD7F32|3位                                      | bgcolor= gold|優勝                                                       |
+| **1999-2000** | bgcolor= silver|2位                                        | ベスト16                                                                  |
+| **2000-01**   | 8位                                                        | ベスト8                                                                   |
+| **2001-02**   | 8位                                                        | ベスト16                                                                  |
+| **2002-03**   | 7位                                                        | ベスト16                                                                  |
+| **2003-04**   | 6位                                                        | ベスト16                                                                  |
+| **2004-05**   | 6位                                                        | ベスト4                                                                   |
+| **2005-06**   | 6位                                                        | ベスト4                                                                   |
+| **2006-07**   | 6位                                                        | ベスト8                                                                   |
+| **2007-08**   | 12位                                                       | ベスト8                                                                   |
+| **2008-09**   | 7位                                                        | ベスト16                                                                  |
+| **2009-10**   | 5位                                                        | ベスト8                                                                   |
+| **2010-11**   | bgcolor= \#CD7F32|3位                                      | ベスト4                                                                   |
+| **2011-12**   | 8位                                                        | ベスト4                                                                   |
+| **2012-13**   | 5位                                                        | ベスト16                                                                  |
+| **2013-14**   | bgcolor= \#CD7F32|3位                                      | ベスト16                                                                  |
+| **2014-15**   | bgcolor= \#CD7F32|3位                                      | ベスト4                                                                   |
+| **2015-16**   | 5位                                                        | ベスト4                                                                   |
+| **2016-17**   | 5位                                                        | ベスト8                                                                   |
 
 ### 歴代所属選手
 
-  - [プレドラグ・ストヤコヴィッチ](https://ja.wikipedia.org/wiki/プレドラグ・ストヤコヴィッチ "wikilink") 1994-1998
+  - [プレドラグ・ストヤコヴィッチ](../Page/プレドラグ・ストヤコヴィッチ.md "wikilink") 1994-1998
 
   - [ルーカス・マブロケファリディス](https://ja.wikipedia.org/wiki/ルーカス・マブロケファリディス "wikilink") 2001-2006
 
-  - [ヴィクター・アレクサンダー](https://ja.wikipedia.org/wiki/ヴィクター・アレクサンダー "wikilink") 1999-2000
+  - [ヴィクター・アレクサンダー](../Page/ヴィクター・アレクサンダー.md "wikilink") 1999-2000
 
 ## バレーボール
 
@@ -579,13 +579,13 @@
 
 ### 歴代所属選手
 
-  - [ウラジミール・グルビッチ](https://ja.wikipedia.org/wiki/ウラジミール・グルビッチ "wikilink")　2002-2003
+  - [ウラジミール・グルビッチ](../Page/ウラジミール・グルビッチ.md "wikilink")　2002-2003
 
-  - [ジュラ・メシュテル](https://ja.wikipedia.org/wiki/ジュラ・メシュテル "wikilink") 2005-2006
+  - [ジュラ・メシュテル](../Page/ジュラ・メシュテル.md "wikilink") 2005-2006
 
   - [プラメン・コンスタンティノフ](https://ja.wikipedia.org/wiki/プラメン・コンスタンティノフ "wikilink") 2001-2002
 
-  - [加藤陽一](https://ja.wikipedia.org/wiki/加藤陽一 "wikilink") 2003
+  - [加藤陽一](../Page/加藤陽一.md "wikilink") 2003
 
 ## 出典・脚注
 

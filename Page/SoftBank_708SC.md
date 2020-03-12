@@ -6,29 +6,29 @@
 ## 主なサービス・機能
 
   - ミュージックプレイヤー　[AAC](../Page/AAC.md "wikilink")方式に対応。
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [マルチリンガル](https://ja.wikipedia.org/wiki/マルチリンガル "wikilink")　日本語・韓国語・英語表示に対応。
   - ドキュメントビューアー
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-| [S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")                           |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
-| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")                                |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
+| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")             |
 
 **横型QVGA液晶のため、S\!アプリに非対応。**
 
 ## 特徴
 
-なんと言っても[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式で**世界最薄**の厚さ約8.4mmである。この薄さ（スーツの胸ポケットにも収まる）からなる傑出した携帯性と、中間色のカラーバリエーションから、メーカーはこの708SCをビジネスマン向けの端末と位置づけていた。ディスプレイのサイズは1.9インチと小さい方ではあるが、メーカーが『[ランドスケープ](https://ja.wikipedia.org/wiki/ランドスケープ "wikilink")型液晶』と名づけた横型になっており、メールや[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")の閲覧やカメラ撮影の際に便利である。また、なだらかな曲線を巧妙に織り交ぜた筐体デザインのため、同じストレート端末でも、完全な[直方体](https://ja.wikipedia.org/wiki/直方体 "wikilink")デザインの[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[D703i](../Page/D703i.md "wikilink")と違って手に馴染みやすい。しかし、[905SHや](https://ja.wikipedia.org/wiki/Vodafone_905SH "wikilink")[911SHのようなワイド対応S](https://ja.wikipedia.org/wiki/SoftBank_911SH "wikilink")\!アプリ対応という仕様にして欲しかったという意見もある。
+なんと言っても[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式で**世界最薄**の厚さ約8.4mmである。この薄さ（スーツの胸ポケットにも収まる）からなる傑出した携帯性と、中間色のカラーバリエーションから、メーカーはこの708SCをビジネスマン向けの端末と位置づけていた。ディスプレイのサイズは1.9インチと小さい方ではあるが、メーカーが『[ランドスケープ](../Page/ランドスケープ.md "wikilink")型液晶』と名づけた横型になっており、メールや[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")の閲覧やカメラ撮影の際に便利である。また、なだらかな曲線を巧妙に織り交ぜた筐体デザインのため、同じストレート端末でも、完全な[直方体](https://ja.wikipedia.org/wiki/直方体 "wikilink")デザインの[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[D703i](../Page/D703i.md "wikilink")と違って手に馴染みやすい。しかし、[905SHや](../Page/Vodafone_905SH.md "wikilink")[911SHのようなワイド対応S](../Page/SoftBank_911SH.md "wikilink")\!アプリ対応という仕様にして欲しかったという意見もある。
 
 ## 付属品
 
   - 電池パック
-  - 急速[充電器](https://ja.wikipedia.org/wiki/充電器 "wikilink")
+  - 急速[充電器](../Page/充電器.md "wikilink")
   - ステレオイヤホンマイク
   - [USBケーブル](../Page/ユニバーサル・シリアル・バス.md "wikilink")
   - ユーティリティーソフトウェア

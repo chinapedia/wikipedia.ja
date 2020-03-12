@@ -13,7 +13,7 @@
   - Close Up\!
   - おいしい IH Cooking
   - チャレンジクイズ（クロスワード）
-  - [ぶんでんでんこ](https://ja.wikipedia.org/wiki/でんこちゃん "wikilink")（[内田春菊](https://ja.wikipedia.org/wiki/内田春菊 "wikilink")作。[4コマ漫画](../Page/4コマ漫画.md "wikilink")）
+  - [ぶんでんでんこ](../Page/でんこちゃん.md "wikilink")（[内田春菊](../Page/内田春菊.md "wikilink")作。[4コマ漫画](../Page/4コマ漫画.md "wikilink")）
 
 ## 沿革
 
@@ -23,7 +23,7 @@
 
 ## 配布方法
 
-東京電力の営業部に[電話](../Page/電話.md "wikilink")・[ファックス](https://ja.wikipedia.org/wiki/ファックス "wikilink")・[郵便](https://ja.wikipedia.org/wiki/郵便 "wikilink")・[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")でそれぞれ郵送の申し込み者に配布する。また、東京電力の各事業所の窓口、[電力館](https://ja.wikipedia.org/wiki/電力館 "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")で配布する。希望者には[ダイレクトメール](https://ja.wikipedia.org/wiki/ダイレクトメール "wikilink")で配布している。（電話による申込）
+東京電力の営業部に[電話](../Page/電話.md "wikilink")・[ファックス](https://ja.wikipedia.org/wiki/ファックス "wikilink")・[郵便](https://ja.wikipedia.org/wiki/郵便 "wikilink")・[インターネット](../Page/インターネット.md "wikilink")でそれぞれ郵送の申し込み者に配布する。また、東京電力の各事業所の窓口、[電力館](https://ja.wikipedia.org/wiki/電力館 "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")で配布する。希望者には[ダイレクトメール](../Page/ダイレクトメール.md "wikilink")で配布している。（電話による申込）
 
 ## 脚注
 

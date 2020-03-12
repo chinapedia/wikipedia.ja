@@ -10,26 +10,26 @@
 ### 30000番台
 
   - 30001 - 30009
-    [JR貨物リース](https://ja.wikipedia.org/wiki/JR貨物リース "wikilink")所有。[コキ71積載限定](https://ja.wikipedia.org/wiki/JR貨物コキ71形貨車 "wikilink")。4両はコキ71試作車と同時に、JR貨物籍のM20A形コンテナとして製造されている。
+    [JR貨物リース](https://ja.wikipedia.org/wiki/JR貨物リース "wikilink")所有。[コキ71積載限定](../Page/JR貨物コキ71形貨車.md "wikilink")。4両はコキ71試作車と同時に、JR貨物籍のM20A形コンテナとして製造されている。
 
 <File:UM20A-30002----①> 【元、ＪＲ貨物リース】Containers of Japan Rail.jpg|**UM20A-30002 JR貨物リース所有。 ※このコンテナは最大四台積載できる。** <File:UM20A-30004----②> 【元、ＪＲ貨物リース】Containers of Japan Rail.jpg|**UM20A-30004 JR貨物リース所有。 ※このコンテナは最大四台積載できる。** <File:UM20A-30006----①> 【元、ＪＲ貨物リース】Containers of Japan Rail.jpg|**UM20A-30006 JR貨物リース所有。 ※このコンテナは最大五台積載できる。**
 
   - 30010 - 30017
     [ジェイアールエフ・エンジニアリング所有](https://ja.wikipedia.org/wiki/JRF.E "wikilink")。コキ71積載限定
   - 30018 - 30037
-    [日本石油輸送](https://ja.wikipedia.org/wiki/日本石油輸送 "wikilink")所有。総重量13.5t。
+    [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有。総重量13.5t。
     ※ 回送返空時は二段重ね積みが可能。
 
 <File:UM20A-30021> 【ＪＯＴ日本石油輸送】Containers of Japan Rail.jpg|**UM20A-30021 日本石油輸送所有。** <File:UM20A-30027----③> 【ＪＯＴ日本石油輸送】Containers of Japan Rail.jpg|**UM20A-30027 日本石油輸送所有。** <File:UM20A-30027----①> 【ＪＯＴ日本石油輸送】Containers of Japan Rail.jpg |**UM20A-30027 日本石油輸送所有。**
 
   - 30038 - 30040
-    [JR東日本が保有するコンテナ](../Page/東日本旅客鉄道.md "wikilink")。駅のエレベータ設置工事時などに[コキ100系に積載されることがある](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車 "wikilink")。
-    全高3,000mm（規格外）、総重量9.5t。緑色で側板がなく、灰色の屋根がある。全高が規格外のため、[コキ50000系列には積載できない](https://ja.wikipedia.org/wiki/国鉄コキ50000形貨車 "wikilink")。また屋根の形状の関係から、[トップリフター](https://ja.wikipedia.org/wiki/トップリフター "wikilink")が使用できない。
+    [JR東日本が保有するコンテナ](../Page/東日本旅客鉄道.md "wikilink")。駅のエレベータ設置工事時などに[コキ100系に積載されることがある](../Page/JR貨物コキ100系貨車.md "wikilink")。
+    全高3,000mm（規格外）、総重量9.5t。緑色で側板がなく、灰色の屋根がある。全高が規格外のため、[コキ50000系列には積載できない](../Page/国鉄コキ50000形貨車.md "wikilink")。また屋根の形状の関係から、[トップリフター](../Page/トップリフター.md "wikilink")が使用できない。
 
 ### 38000番台
 
   - 38001 - 38007
-    [山九](https://ja.wikipedia.org/wiki/山九 "wikilink")所有。
+    [山九](../Page/山九.md "wikilink")所有。
 
 <File:UM20A-38006----①> 【山九】Containers of Japan Rail.jpg|**UM20A-38006 山九所有。**
 

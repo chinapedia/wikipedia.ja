@@ -1,7 +1,7 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-『**首都高バトルX**』（しゅとこうバトルテン\[1\]）は、[元気が](https://ja.wikipedia.org/wiki/元気_\(ゲーム会社\) "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した[Xbox 360用](../Page/Xbox_360.md "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")で、[首都高バトルシリーズ](https://ja.wikipedia.org/wiki/首都高バトルシリーズ "wikilink")の1作。
+『**首都高バトルX**』（しゅとこうバトルテン\[1\]）は、[元気が](../Page/元気_\(ゲーム会社\).md "wikilink")[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した[Xbox 360用](../Page/Xbox_360.md "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")で、[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")の1作。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ## 登場車両
 
-今作では登場車種が大幅に減少しており、ライバルが使用しているカスタムカーを除くと購入できる車は15種類のみ。また、前作同様に[ホンダの車は収録されていない](../Page/本田技研工業.md "wikilink")。また、前作まで[日産自動車](../Page/日産自動車.md "wikilink")の車両に搭乗していたボスクラスのライバルが、今作では他社のクルマに搭乗している。[アザーカー](../Page/アザーカー.md "wikilink")は、『[首都高バトル0](https://ja.wikipedia.org/wiki/首都高バトル0 "wikilink")』同様に様々な一般車両が登場する。
+今作では登場車種が大幅に減少しており、ライバルが使用しているカスタムカーを除くと購入できる車は15種類のみ。また、前作同様に[ホンダの車は収録されていない](../Page/本田技研工業.md "wikilink")。また、前作まで[日産自動車](../Page/日産自動車.md "wikilink")の車両に搭乗していたボスクラスのライバルが、今作では他社のクルマに搭乗している。[アザーカー](../Page/アザーカー.md "wikilink")は、『[首都高バトル0](../Page/首都高バトル0.md "wikilink")』同様に様々な一般車両が登場する。
 
   - [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")
     [RX-8](../Page/マツダ・RX-8.md "wikilink") Type S(SE3P)
@@ -43,7 +43,7 @@
     [CROWN](https://ja.wikipedia.org/wiki/トヨタ・クラウン#12代目_S18#型（2003年_-_2008年） "wikilink") ATHLETE(GRS184)
     [CELSIOR](https://ja.wikipedia.org/wiki/トヨタ・セルシオ#3代目_F30型（2000年_-_2006年） "wikilink")(UCF30)
     [ARISTO](https://ja.wikipedia.org/wiki/トヨタ・アリスト#2代目_JZS160\(S300\)/JZS161\(V300\)（1997年-2005年） "wikilink") V300(JZS161)
-    **[SPRINTER TRUENO](https://ja.wikipedia.org/wiki/トヨタ・スプリンタートレノ#4代目_AE85/86型（1983年_-_1987年） "wikilink") GT-APEX([AE86](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink"))**
+    **[SPRINTER TRUENO](https://ja.wikipedia.org/wiki/トヨタ・スプリンタートレノ#4代目_AE85/86型（1983年_-_1987年） "wikilink") GT-APEX([AE86](../Page/トヨタ・AE86.md "wikilink"))**
     **[COROLLA LEVIN](https://ja.wikipedia.org/wiki/トヨタ・カローラレビン#4代目（AE85/AE86型、1983年-1987年） "wikilink") GT-APEX(AE86)**
 
 ※**太字**はカスタムカー、およびCPU専用車としてのみの登場。

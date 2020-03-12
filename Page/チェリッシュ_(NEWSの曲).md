@@ -15,7 +15,7 @@
       -
         作詞・作曲・編曲：[福士健太郎](https://ja.wikipedia.org/wiki/福士健太郎 "wikilink")
     <!-- end list -->
-      - [TBC](https://ja.wikipedia.org/wiki/TBCグループ "wikilink")『Good News』CMソング
+      - [TBC](../Page/TBCグループ.md "wikilink")『Good News』CMソング
 2.  **Party Time**
       -
         作詞：[zopp](https://ja.wikipedia.org/wiki/zopp "wikilink")、作曲：Henric Uhrbom,Julius Bengtsson,Anders Bergstrom、編曲：[中西亮輔](../Page/中西亮輔.md "wikilink")

@@ -11,7 +11,7 @@
 
 [WYSIWYG](../Page/WYSIWYG.md "wikilink")による[ブラウザ上でのワープロ文書作成が可能](../Page/ウェブブラウザ.md "wikilink")。
 
-ファイルは[Microsoft Word形式](../Page/Microsoft_Word.md "wikilink") (.doc)、[リッチテキスト](https://ja.wikipedia.org/wiki/Rich_Text_Format "wikilink") (.rtf)、[ODF](../Page/OpenDocument.md "wikilink") (.odt)、[PDF](../Page/Portable_Document_Format.md "wikilink") (.pdf)、[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink") (.txt)、[HTML形式](../Page/HyperText_Markup_Language.md "wikilink") (.html) で保存できる。
+ファイルは[Microsoft Word形式](../Page/Microsoft_Word.md "wikilink") (.doc)、[リッチテキスト](../Page/Rich_Text_Format.md "wikilink") (.rtf)、[ODF](../Page/OpenDocument.md "wikilink") (.odt)、[PDF](../Page/Portable_Document_Format.md "wikilink") (.pdf)、[テキストファイル](../Page/テキストファイル.md "wikilink") (.txt)、[HTML形式](../Page/HyperText_Markup_Language.md "wikilink") (.html) で保存できる。
 
 ドキュメントのサイズは最大1,024,000文字、ページ数やフォントサイズは関係なく、50MBまで\[1\]。
 
@@ -19,13 +19,13 @@ Google ドキュメントから直接[ブログ](../Page/ブログ.md "wikilink"
 
 ## スプレッドシート
 
-ファイルは[Microsoft Excel形式](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")(.xls)、[CSVファイル](../Page/Comma-Separated_Values.md "wikilink")(.csv)、[ODS](../Page/OpenDocument.md "wikilink")(.ods)、[PDF](../Page/Portable_Document_Format.md "wikilink")(.pdf)、[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")(.txt)、[HTML形式](../Page/HyperText_Markup_Language.md "wikilink")(.html)で保存できる。
+ファイルは[Microsoft Excel形式](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")(.xls)、[CSVファイル](../Page/Comma-Separated_Values.md "wikilink")(.csv)、[ODS](../Page/OpenDocument.md "wikilink")(.ods)、[PDF](../Page/Portable_Document_Format.md "wikilink")(.pdf)、[テキストファイル](../Page/テキストファイル.md "wikilink")(.txt)、[HTML形式](../Page/HyperText_Markup_Language.md "wikilink")(.html)で保存できる。
 
 スプレッドシートのサイズは200万セル\[2\]。1シートあたり256列まで。アップロード出来るスプレッドシートファイルの最大サイズは20MB。
 
 ## プレゼンテーション
 
-ローカルでの利用に必要なファイル一式を納めた[ZIPファイルとしてダウンロード可能](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")。[Microsoft PowerPoint形式](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink") (.ppt) のファイルを読み込める。2008年4月から PowerPoint 形式での保存にも対応した。
+ローカルでの利用に必要なファイル一式を納めた[ZIPファイルとしてダウンロード可能](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")。[Microsoft PowerPoint形式](../Page/Microsoft_PowerPoint.md "wikilink") (.ppt) のファイルを読み込める。2008年4月から PowerPoint 形式での保存にも対応した。
 
 ## 図形編集
 
@@ -33,7 +33,7 @@ Google ドキュメントから直接[ブログ](../Page/ブログ.md "wikilink"
 
 ## 歴史
 
-ワードプロセッサ機能はUpstartle社によって開発されたWritelyという製品を元としている（Upstartle社は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")にGoogleによって買収された）。一方、スプレッドシートは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")にGoogleが[ベータ版](../Page/ベータ版.md "wikilink")として公開。同年[10月11日](../Page/10月11日.md "wikilink")にワードプロセッサとスプレッドシートが統合され Google Docs & Spreadsheets となった。[2007年](../Page/2007年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")にプレゼンテーション機能が追加され、Google ドキュメントに改名された。[2009年](../Page/2009年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")、ベータ版表記が外れて正式版となった。\[3\]
+ワードプロセッサ機能はUpstartle社によって開発されたWritelyという製品を元としている（Upstartle社は[2006年](../Page/2006年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")にGoogleによって買収された）。一方、スプレッドシートは[2006年](../Page/2006年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")にGoogleが[ベータ版](../Page/ベータ版.md "wikilink")として公開。同年[10月11日](../Page/10月11日.md "wikilink")にワードプロセッサとスプレッドシートが統合され Google Docs & Spreadsheets となった。[2007年](../Page/2007年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")にプレゼンテーション機能が追加され、Google ドキュメントに改名された。[2009年](../Page/2009年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")、ベータ版表記が外れて正式版となった。\[3\]
 
   - 2006年3月 - Google、Upstartle社を買収
   - 2006年6月 - 「Google Spreadsheets」ベータ版公開

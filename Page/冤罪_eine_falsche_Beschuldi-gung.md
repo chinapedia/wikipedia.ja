@@ -5,7 +5,7 @@
 
 ## あらすじ
 
-時代は[フランス革命](../Page/フランス革命.md "wikilink")、[ナポレオン](https://ja.wikipedia.org/wiki/ナポレオン "wikilink")時代の後。主人公の[少年](../Page/少年.md "wikilink")ガイズは[万引き](../Page/万引き.md "wikilink")をした罪で逮捕されるが、その過程で身に覚えの無い[殺人](../Page/殺人.md "wikilink")の罪をきせられ、暴力の応酬が交錯する[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")へと送りこまれる。理不尽な[拷問](../Page/拷問.md "wikilink")や堀の仲間から受ける辱めの日々の中、再び自由を取り戻すことへの思いだけが彼の支えであった。
+時代は[フランス革命](../Page/フランス革命.md "wikilink")、[ナポレオン](https://ja.wikipedia.org/wiki/ナポレオン "wikilink")時代の後。主人公の[少年](../Page/少年.md "wikilink")ガイズは[万引き](../Page/万引き.md "wikilink")をした罪で逮捕されるが、その過程で身に覚えの無い[殺人](../Page/殺人.md "wikilink")の罪をきせられ、暴力の応酬が交錯する[刑務所](../Page/刑務所.md "wikilink")へと送りこまれる。理不尽な[拷問](../Page/拷問.md "wikilink")や堀の仲間から受ける辱めの日々の中、再び自由を取り戻すことへの思いだけが彼の支えであった。
 
 ## ゲーム内容
 
@@ -32,7 +32,7 @@
     我が物顔で刑務所を歩く囚人の一人。他の囚人を性欲の捌け口に使うなどしており、ガイズはあやうくデューラに犯されずに済むものの、結局彼をはじめとするその仲間たちに好き放題の玩具にされてしまう。12月9日生まれ。O型。
   - エバ
     声：[一条和矢](../Page/一条和矢.md "wikilink")
-    [政治犯](https://ja.wikipedia.org/wiki/政治犯 "wikilink")として捕まっている元[記者](../Page/記者.md "wikilink")の男。刑務所内ではガイズの兄貴分のような役割を演ずる。過去にルスカとの関わりがある。8月10日生まれ。B型。
+    [政治犯](../Page/政治犯.md "wikilink")として捕まっている元[記者](../Page/記者.md "wikilink")の男。刑務所内ではガイズの兄貴分のような役割を演ずる。過去にルスカとの関わりがある。8月10日生まれ。B型。
   - ヴァルイーダ
     声：[羽吹梨里](../Page/羽吹梨里.md "wikilink")
     何を言ってもまともな答えをしない幽霊のような側面と、豊富な知識と分析力を兼ね備えた姿を持つ、[二重人格を負う元](https://ja.wikipedia.org/wiki/多重人格 "wikilink")[軍人](../Page/軍人.md "wikilink")。軍法裁判のもと、刑務所に留置されている。10月1日生まれ。A型。
@@ -53,7 +53,7 @@
 
 ## 音楽使用問題
 
-本作では発売当初から、使用されている音楽に[盗作](../Page/盗作.md "wikilink")疑惑が起こり、話題となった。後日、無断使用であったことが判明し、[作曲家](../Page/作曲家.md "wikilink")の[末村謙之輔](../Page/末村謙之輔.md "wikilink")と原[著作者](https://ja.wikipedia.org/wiki/著作者 "wikilink")との和解が成立したが、この結果、その後にリリース予定であった『[帝国千戦記](https://ja.wikipedia.org/wiki/帝国千戦記 "wikilink")』は[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")の使用を中止し、[BGMの仕様を変更するに到った](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")\[1\]。
+本作では発売当初から、使用されている音楽に[盗作](../Page/盗作.md "wikilink")疑惑が起こり、話題となった。後日、無断使用であったことが判明し、[作曲家](../Page/作曲家.md "wikilink")の[末村謙之輔](../Page/末村謙之輔.md "wikilink")と原[著作者](../Page/著作者.md "wikilink")との和解が成立したが、この結果、その後にリリース予定であった『[帝国千戦記](../Page/帝国千戦記.md "wikilink")』は[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")の使用を中止し、[BGMの仕様を変更するに到った](../Page/バックグラウンドミュージック.md "wikilink")\[1\]。
 
 ## オリジナルアニメ
 

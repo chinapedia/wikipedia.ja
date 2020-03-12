@@ -13,7 +13,7 @@
 
 その一方で時期を同じくしたバイクブームや各バイク雑誌のキャンペーンもあり、[スズキ](../Page/スズキ_\(企業\).md "wikilink")[RG250や](https://ja.wikipedia.org/wiki/スズキ・RG#RG250 "wikilink")[カワサキ](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")[Z250FTなど他社が](https://ja.wikipedia.org/wiki/カワサキ・Z250FT "wikilink")250cc専用設計モデルを投入した。
 
-当時の本田技研工業は、250ccクラス主力として[ホークを製造販売していたものの](https://ja.wikipedia.org/wiki/ホンダ・ホーク "wikilink")400ccモデルと共用車体であったことから[車両重量は](https://ja.wikipedia.org/wiki/乾燥重量 "wikilink")180kg\[1\]にも達しており、他社の専用設計モデルに走行性能で優位性を保てないと判断し本モデルの開発に着手した。
+当時の本田技研工業は、250ccクラス主力として[ホークを製造販売していたものの](../Page/ホンダ・ホーク.md "wikilink")400ccモデルと共用車体であったことから[車両重量は](https://ja.wikipedia.org/wiki/乾燥重量 "wikilink")180kg\[1\]にも達しており、他社の専用設計モデルに走行性能で優位性を保てないと判断し本モデルの開発に着手した。
 
 ## 車両解説
 
@@ -26,7 +26,7 @@
 <!-- end list -->
 
   - フラットハンドル装備のType1とアップハンドル装備のType2の2モデルを設定\[3\]。
-  - [マフラーはデュアル](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")パイプから続く左右2本出しとした。
+  - [マフラーはデュアル](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")パイプから続く左右2本出しとした。
   - オプションにビキニカウル\[4\]を設定。
   - 標準現金価格\\298,000
 
@@ -48,7 +48,7 @@
   - エンジン本体の黒塗装を廃止。
   - ハンドルをType1から10mmアップのセミフラットタイプのみとし、全幅750mm・全高1,070mmとなる。
   - [フロントサスペンションをセミエア式に改良](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")。
-  - [ヘッドライトをH](https://ja.wikipedia.org/wiki/前照灯 "wikilink")4[ハロゲンバルブ](../Page/ハロゲンランプ.md "wikilink")（60/55w）へ変更。
+  - [ヘッドライトをH](../Page/前照灯.md "wikilink")4[ハロゲンバルブ](../Page/ハロゲンランプ.md "wikilink")（60/55w）へ変更。
   - フロント[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")をデュアルピストンキャリパーへ変更。
   - 燃料タンクデザインを変更し容量を12→13Lへ増加。
   - シートカウルにロック付コンパートメントボックスを追加。

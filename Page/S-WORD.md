@@ -1,11 +1,11 @@
 > この記事は[S-WORD](https://ja.wikipedia.org/wiki/S-WORD)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:S-WORDアー写.jpg "wikilink") **S-WORD**（スウォード、本名：下村 善正（しもむらよしまさ）、[1975年](../Page/1975年.md "wikilink")10月24日 - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")出身。叔父は日本の法学者の[下村康正](https://ja.wikipedia.org/wiki/下村康正 "wikilink")。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:S-WORDアー写.jpg "wikilink") **S-WORD**（スウォード、本名：下村 善正（しもむらよしまさ）、[1975年](../Page/1975年.md "wikilink")10月24日 - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")出身。叔父は日本の法学者の[下村康正](https://ja.wikipedia.org/wiki/下村康正 "wikilink")。
 
 ## 概要・人物
 
-しわがれた渋い声が特徴。MC名の由来は、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")と[小田原城](https://ja.wikipedia.org/wiki/小田原城 "wikilink")に行ったときに、城内に飾られてあった[日本刀](../Page/日本刀.md "wikilink")を見て名付けられた。後に[MURO](../Page/MURO.md "wikilink")によってSとWの間にハイフンが付け足された。歌詞に当て字や記号を用いる事もある。[NITRO MICROPHONE UNDERGROUNDの楽曲や客演した曲ではフック](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")（サビ）を担当することが多く、ラップのときも音階を重視して歌う事が多い。[ONE PIECE愛好者](../Page/ONE_PIECE.md "wikilink")。
+しわがれた渋い声が特徴。MC名の由来は、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")と[小田原城](https://ja.wikipedia.org/wiki/小田原城 "wikilink")に行ったときに、城内に飾られてあった[日本刀](../Page/日本刀.md "wikilink")を見て名付けられた。後に[MURO](../Page/MURO.md "wikilink")によってSとWの間にハイフンが付け足された。歌詞に当て字や記号を用いる事もある。[NITRO MICROPHONE UNDERGROUNDの楽曲や客演した曲ではフック](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")（サビ）を担当することが多く、ラップのときも音階を重視して歌う事が多い。[ONE PIECE愛好者](../Page/ONE_PIECE.md "wikilink")。
 
 ### ファッション関連
 
@@ -44,13 +44,13 @@
       - 初の全国ソロツアー『KROSS OVA’JAPAN TOUR』を開催。
       - [ブリトニー・スピアーズ](../Page/ブリトニー・スピアーズ.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演でのフロントアクトに出演し、クリスティーナ・ミリアンと共演。
       - [JAY-Zの初来日公演でのフロントアクトに出演](../Page/ジェイ・Z.md "wikilink")。
-      - [DOUBLEの楽曲](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")・ライブでの客演や、[椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink")との共演を行った。
+      - [DOUBLEの楽曲](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")・ライブでの客演や、[椎名純平](../Page/椎名純平.md "wikilink")との共演を行った。
       - 12月18日、ミニアルバム『FORTUNE』をリリース。『ONE PIECE』収録曲のリミックスと新曲。ミュージックビデオやツアー映像などを収録したDVDも付属されている。
 
 <!-- end list -->
 
   - [2003年](../Page/2003年.md "wikilink")
-      - 4月2日、3rdシングル「FIGHT FOR YOUR RIGHT」を発売。[ビースティ・ボーイズ](https://ja.wikipedia.org/wiki/ビースティ・ボーイズ "wikilink")をカバー。
+      - 4月2日、3rdシングル「FIGHT FOR YOUR RIGHT」を発売。[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")をカバー。
       - 6月11日、4thシングル「WRAP MUZIK」を発売。[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")が楽曲を提供した。
       - 7月16日、2ndアルバム『STARILL WARZ』をリリース。アメリカのトラックメーカーJUST BLAZEや、プロデューサーRASHAD SMITHなど海外プロデューサーも楽曲を提供し、自身初となるニューヨークでのレコーディングを経験する。
       - [PlayStation 2の格闘ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・ソフト「Def Jam Vendetta」にゲーム・キャラクターとして登場。
@@ -61,11 +61,11 @@
       - クリスティーナ・ミリアンのシングル「Dip it low」のリミックスに客演。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")での同シングルのミュージックビデオ撮影にも参加。
       - コンピレーション・アルバム『Def Jamaica』の「ANYTHING GOES/WAYNE WONDER <small>feat. CNN(CAPONE\&N.O.R.E.) & LEXXUS & S-WORD</small>」に参加。
       - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のヒップホップグループLazy Mutha Fuckaの中心メンバーでありプロデューサーでもあるDBF（陳匡榮）のソロアルバム『UNBREAKABLE』への参加など海外のアーティストとのコラボレーションも積極的に果たす。
-      - 9月22日発売の[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系アニメ『[サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")』サウンド・トラック『impression』の楽曲「日出ズルSTYLE」に[FORCE OF NATURE](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink") feat.[SUIKEN](../Page/SUIKEN.md "wikilink") & S-WORDとして参加。
+      - 9月22日発売の[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系アニメ『[サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")』サウンド・トラック『impression』の楽曲「日出ズルSTYLE」に[FORCE OF NATURE](../Page/四街道ネイチャー.md "wikilink") feat.[SUIKEN](../Page/SUIKEN.md "wikilink") & S-WORDとして参加。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 7月20日、SUIKENとのユニット**SUIKEN×S-WORD**による2枚組アルバム『HYBRID LINK』をリリース。ミュージックビデオ撮影とともに、初のロサンゼルスでのレコーディング。
       - 音楽レーベル『NITRICH』、「NITRAID」を擁するアパレル『UNDERGROUND』、また自身のパーソナル活動を支える『DISCOVERYONE.ENTERPRISE』の3つの会社を立ち上げ、各会社の企画・運営・経営に携わる。『NITRAID』では、年2回の展示会を行っていた。
 
@@ -85,7 +85,7 @@
   - [2015年](../Page/2015年.md "wikilink")
       - NITRO MICROPHONE UNDERGROUNDのメンバーでもあるMACKA-CHIN、SUIKEN、DABOと共にユニット**東京弐拾伍時**を結成。この名義でミニアルバム『TOKYO 25:00』をリリース\[2\]。
   - [2020年](../Page/2020年.md "wikilink")
-      - 1月30日、[TSUTAYA O-EASTで開催されたワンマンライブ](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")「LIVE20」を持って、NITRO MICROPHONE UNDERGROUNDを脱退。
+      - 1月30日、[TSUTAYA O-EASTで開催されたワンマンライブ](../Page/Shibuya_O-EAST.md "wikilink")「LIVE20」を持って、NITRO MICROPHONE UNDERGROUNDを脱退。
 
 ## ディスコグラフィ
 
@@ -255,10 +255,10 @@
 <dt></dt>
 <dd>作詞：S-WORD／作曲：ADAM HOROVITZ・ADAM MATHANIEL・RICK RUBIN／編曲：D.O.I.
 </dd>
-<dd><a href="https://ja.wikipedia.org/wiki/ビースティ・ボーイズ" title="wikilink">ビースティ・ボーイズ</a>のカバー
+<dd><a href="../Page/ビースティ・ボーイズ.md" title="wikilink">ビースティ・ボーイズ</a>のカバー
 </dd>
 </dl></li>
-<li>Devil May Kry feat.<a href="https://ja.wikipedia.org/wiki/HI-D" title="wikilink">HI-D</a> [3:39]
+<li>Devil May Kry feat.<a href="../Page/HI-D.md" title="wikilink">HI-D</a> [3:39]
 <dl>
 <dt></dt>
 <dd>作詞：S-WORD・HI-D／作曲：DJ YAS／編曲：D.O.I.
@@ -380,7 +380,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>7月20日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>7月20日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>HYBRID LINK</p>
@@ -414,7 +414,7 @@
 <li>SUSW ONE[3:18]</li>
 </ol>
 <p># YES YES</p></td>
-<td><p>feat.<a href="https://ja.wikipedia.org/wiki/Tina" title="wikilink">Tina</a>[4:46]</p>
+<td><p>feat.<a href="../Page/Tina.md" title="wikilink">Tina</a>[4:46]</p>
 <ol>
 <li>RAIDBACK WEEKEND feat.HI-D[5:12]</li>
 <li>OUTRO[0:44]</li>
@@ -497,12 +497,12 @@
 
 | 楽曲名                        | アーティスト                                                                                                                                                                                                                                                                                               | 収録作品                         |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **WEEKEND FUNK \#7**       | [MURO](../Page/MURO.md "wikilink") <small>feat. [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX_\(ミュージシャン\) "wikilink"), S-WORD, BOO, [G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN "wikilink"), TINE, RED VAN WINKLE</small>                                                              |                              |
+| **WEEKEND FUNK \#7**       | [MURO](../Page/MURO.md "wikilink") <small>feat. [GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX_\(ミュージシャン\) "wikilink"), S-WORD, BOO, [G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink"), TINE, RED VAN WINKLE</small>                                                                                 |                              |
 | **BROTHER OF RISING FUNK** | [BOO](../Page/BOO_\(歌手\).md "wikilink") <small>feat. GORE-TEX, S-WORD</small>                                                                                                                                                                                                                        |                              |
 | **悪戯**                     | [DELI](../Page/DELI.md "wikilink") <small>feat. GORE-TEX, SUIKEN, S-WORD, DABO</small>                                                                                                                                                                                                               |                              |
 | **煙立つ東京**                  | [DJ OASIS](../Page/DJ_OASIS.md "wikilink") <small>feat. S-WORD, DABO</small>                                                                                                                                                                                                                         | 東京砂漠                         |
 | **カモフラ**                   | [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink") <small>feat. S-WORD</small>                                                                                                                                                                                                                       |                              |
-| **無情 (DJ WATARAI REMIX)**  | [椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink") <small>feat. S-WORD</small>                                                                                                                                                                                                                    |                              |
+| **無情 (DJ WATARAI REMIX)**  | [椎名純平](../Page/椎名純平.md "wikilink") <small>feat. S-WORD</small>                                                                                                                                                                                                                                       |                              |
 | **4 MINUTES OF YELL**      | DELI <small>feat. S-WORD</small>                                                                                                                                                                                                                                                                     | DELTA EXPRESS LIKE ILLUSION  |
 | **適当強盗 a.k.a 春夏秋冬**        | [MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink") <small>feat. S-WORD, XBS, DABO, [BIGZAM](https://ja.wikipedia.org/wiki/BIGZAM "wikilink"), GORE-TEX, SUIKEN, DELI</small>                                                                                                                             | CHIN ATTACK                  |
 | **090**                    | [NUMB](https://ja.wikipedia.org/wiki/Numb_\(バンド\) "wikilink") × S-WORD                                                                                                                                                                                                                               |                              |
@@ -510,21 +510,21 @@
 | **W STEAL**                | MURO <small>feat. SUIKEN, S-WORD</small>                                                                                                                                                                                                                                                             | Sweeeet Baaad A\*s Encounter |
 | **YOU GOT TO PART 2**      | DOUBLE <small>feat. S-WORD</small>                                                                                                                                                                                                                                                                   |                              |
 | **東京湾中毒**                  | MACKA-CHIN <small>feat. S-WORD</small>                                                                                                                                                                                                                                                               |                              |
-| **ココ東京**                   | [AQUARIUS](https://ja.wikipedia.org/wiki/AQUARIUS_\(音楽ユニット\) "wikilink") <small>feat. [BIG-O](../Page/SHAKKAZOMBIE.md "wikilink"), DABO, S-WORD</small>                                                                                                                                              |                              |
-| **シャボン玉 remix**            | DELI, [MIKRIS](../Page/MIKRIS.md "wikilink"), MACKA-CHIN <small>feat. [Tina](https://ja.wikipedia.org/wiki/Tina "wikilink"), S-WORD</small>                                                                                                                                                          |                              |
+| **ココ東京**                   | [AQUARIUS](../Page/AQUARIUS_\(音楽ユニット\).md "wikilink") <small>feat. [BIG-O](../Page/SHAKKAZOMBIE.md "wikilink"), DABO, S-WORD</small>                                                                                                                                                                 |                              |
+| **シャボン玉 remix**            | DELI, [MIKRIS](../Page/MIKRIS.md "wikilink"), MACKA-CHIN <small>feat. [Tina](../Page/Tina.md "wikilink"), S-WORD</small>                                                                                                                                                                             |                              |
 | **EXTRA NEGOTIATION Pt.2** | [XBS](../Page/XBS.md "wikilink") <small>feat. S-WORD</small>                                                                                                                                                                                                                                         |                              |
 | **ANYTHING GOES (REMIX)**  | [CNN(CAPONE & N.O.R.E.)](https://ja.wikipedia.org/wiki/:en:Capone-N-Noreaga "wikilink") <small>feat. [WAYNE WONDER](https://ja.wikipedia.org/wiki/ウェイン・ワンダー "wikilink") & LEXXUS, S-WORD</small>                                                                                                     |                              |
 | **DIP IT LOW**             | [CHRISTINA MILIAN](../Page/クリスティーナ・ミリアン.md "wikilink") <small>feat. S-WORD</small>                                                                                                                                                                                                                   |                              |
 | **GODZILRAH**              | S-WORD + DUB SQUAD                                                                                                                                                                                                                                                                                   |                              |
-| **日出ズルSTYLE**              | [FORCE OF NATURE](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink") <small>feat. SUIKEN & S-WORD</small>                                                                                                                                                                                            |                              |
+| **日出ズルSTYLE**              | [FORCE OF NATURE](../Page/四街道ネイチャー.md "wikilink") <small>feat. SUIKEN & S-WORD</small>                                                                                                                                                                                                               |                              |
 | **美ら**                     | [MABO](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND#MABO "wikilink") <small>feat. SUIKEN & S-WORD</small>                                                                                                                                                                              |                              |
 | **SOUND of SAVAGE\!**      | MURO <small>feat. GORE-TEX, SUIKEN, S-WORD, KASHI DA HANDSOME, GORIKI, JOE-CHO, HIKO</small>                                                                                                                                                                                                         |                              |
-| **I'm here**               | [YAKKO](https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS "wikilink") <small>feat. DABO, S-WORD</small>                                                                                                                                                                                   |                              |
+| **I'm here**               | [YAKKO](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink") <small>feat. DABO, S-WORD</small>                                                                                                                                                                                                      |                              |
 | **REAL TOKYO SHIT**        | MURO <small>feat. S-WORD</small>                                                                                                                                                                                                                                                                     |                              |
 | **Midnight Dancehall**     | Mr.Itagaki a.k.a. Ita-Cho <small>feat. S-WORD, BUTCHER</small>                                                                                                                                                                                                                                       |                              |
 | **OHH CHILD**              | AQUARIUS <small>feat. S-WORD etc</small>                                                                                                                                                                                                                                                             |                              |
 | **東京弐拾伍時**                 | [DABO](../Page/DABO.md "wikilink"), MACKA-CHIN, SUIKEN & S-WORD                                                                                                                                                                                                                                      |                              |
-| **SEASON4**                | [DJ Deckstream](../Page/DJ_Deckstream.md "wikilink") <small>feat. S-WORD & [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")</small>                                                                                                                                         | DRESS CODE                   |
+| **SEASON4**                | [DJ Deckstream](../Page/DJ_Deckstream.md "wikilink") <small>feat. S-WORD & [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink")</small>                                                                                                                                                            | DRESS CODE                   |
 | **THE BLACK ONE**          | DJ SOULJAH Feat. [2WIN](https://ja.wikipedia.org/wiki/2WIN "wikilink") ([T-PABLOW](https://ja.wikipedia.org/wiki/T-PABLOW "wikilink") & [YZERR](https://ja.wikipedia.org/wiki/YZERR "wikilink")), WIZE ([TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")), S-WORD (NITRO MICROPHONE UNDERGROUND) | Be My Guest                  |
 
 ## 出典

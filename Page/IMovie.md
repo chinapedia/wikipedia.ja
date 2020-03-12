@@ -1,7 +1,7 @@
 > この記事は[IMovie](https://ja.wikipedia.org/wiki/IMovie)から翻訳されています。
 
 
- **iMovie**（アイムービー）とは、[アップルの](../Page/アップル_\(企業\).md "wikilink")「[iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")」に含まれる[ビデオ編集ソフト](https://ja.wikipedia.org/wiki/ビデオ編集ソフト "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月、バージョン5となる**iMovie HD**にて、コンシューマ向けソフトとしては初めて[HDVフォーマットに対応した](https://ja.wikipedia.org/wiki/High_Definition_Video "wikilink")。2010年からiOS版も配布されている。
+ **iMovie**（アイムービー）とは、[アップルの](../Page/アップル_\(企業\).md "wikilink")「[iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")」に含まれる[ビデオ編集ソフト](https://ja.wikipedia.org/wiki/ビデオ編集ソフト "wikilink")である。[2005年](../Page/2005年.md "wikilink")1月、バージョン5となる**iMovie HD**にて、コンシューマ向けソフトとしては初めて[HDVフォーマットに対応した](https://ja.wikipedia.org/wiki/High_Definition_Video "wikilink")。2010年からiOS版も配布されている。
 
 画像ファイル、映像ファイル、オーディオファイルを用い作った映像を、様々なファイル形式で出力する事が出来る。[FireWireや](../Page/IEEE_1394.md "wikilink")[USB経由で接続された](../Page/ユニバーサル・シリアル・バス.md "wikilink")[デジタルビデオカメラ](https://ja.wikipedia.org/wiki/デジタルビデオカメラ "wikilink")から映像を取り込む事も出来る。
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - iMovie HD 5.0 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")
+  - iMovie HD 5.0 - [2005年](../Page/2005年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - iMovie HD 6.0 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月10日](../Page/1月10日.md "wikilink")
+  - iMovie HD 6.0 - [2006年](../Page/2006年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")
 
 <!-- end list -->
 

@@ -12,22 +12,22 @@
 ### 解散時まで在籍したメンバー
 
   - RYOJI（ボーカル/リーダー）
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[1974年](../Page/1974年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")生まれ。A型。身長178cm、体重61kg（2003年時）。小学生の時は剣道少年だったが、兄とバンドブーム（第1期インディーズブームと[イカ天の間の時期](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")）の影響で音楽に目覚める。
+    [東京都](../Page/東京都.md "wikilink")出身。[1974年](../Page/1974年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")生まれ。A型。身長178cm、体重61kg（2003年時）。小学生の時は剣道少年だったが、兄とバンドブーム（第1期インディーズブームと[イカ天の間の時期](../Page/三宅裕司のいかすバンド天国.md "wikilink")）の影響で音楽に目覚める。
   - SATOSHI（ギター）1997年5月加入
-    本名は塚谷諭。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[1976年](../Page/1976年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")生まれ。B型。身長169.5cm、体重59 - 60.5kg（2003年時）。[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")卒。出生地は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")でC級コピーライターの[糸井重里](../Page/糸井重里.md "wikilink")と同じマンションに両親と暮らしていたが、祖父母のいる新横浜へ引越した。小学6年か中学1年の時に母の弟からアコースティックギターをもらった事とイカ天の影響で音楽に目覚める。ファーストアルバムレコーディング時のメンバー（[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")と掛け持ちのメンバー）が契約上の問題のために脱退した後に紹介でPOTSHOTに加入。
+    本名は塚谷諭。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[1976年](../Page/1976年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")生まれ。B型。身長169.5cm、体重59 - 60.5kg（2003年時）。[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")卒。出生地は[東京都](../Page/東京都.md "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")でC級コピーライターの[糸井重里](../Page/糸井重里.md "wikilink")と同じマンションに両親と暮らしていたが、祖父母のいる新横浜へ引越した。小学6年か中学1年の時に母の弟からアコースティックギターをもらった事とイカ天の影響で音楽に目覚める。ファーストアルバムレコーディング時のメンバー（[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")と掛け持ちのメンバー）が契約上の問題のために脱退した後に紹介でPOTSHOTに加入。
   - MITCHY（トランペット）1999年4月加入
-    [山口県](../Page/山口県.md "wikilink")[豊浦郡](../Page/豊浦郡.md "wikilink")出身。1974年12月29日生まれ。A型。身長178cm、体重60kg（2003年時）。[相愛大学](https://ja.wikipedia.org/wiki/相愛大学 "wikilink")卒。小学生の時はスポーツ万能で、スポーツ選手を目指していたが、小学校の運動会で行ったマーチングバンドの練習時にトランペットで遊んだ経験もあったため、中学校で吹奏楽部に入部してトランペットを本格的に始める。知人であった横綱イチバンのトロンボーンの人が、CHUCKYの電話番号を知っていたため、連絡し、POTSHOTに加入。
+    [山口県](../Page/山口県.md "wikilink")[豊浦郡](../Page/豊浦郡.md "wikilink")出身。1974年12月29日生まれ。A型。身長178cm、体重60kg（2003年時）。[相愛大学](../Page/相愛大学.md "wikilink")卒。小学生の時はスポーツ万能で、スポーツ選手を目指していたが、小学校の運動会で行ったマーチングバンドの練習時にトランペットで遊んだ経験もあったため、中学校で吹奏楽部に入部してトランペットを本格的に始める。知人であった横綱イチバンのトロンボーンの人が、CHUCKYの電話番号を知っていたため、連絡し、POTSHOTに加入。
   - CHUCKY（トロンボーン）1997年4月加入　当初加入時にはトランペットで参加
-    [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[千葉市](../Page/千葉市.md "wikilink")出身。[1973年](../Page/1973年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")生まれ。B型。身長161cm、体重59～61kg（2003年時）。[東海大学付属高校](https://ja.wikipedia.org/wiki/東海大学付属高校 "wikilink")卒。小学校では少年野球、中学ではサッカー部と音楽とは無縁な生活をしていたが、高校1年の時にクラスの吹奏楽部員からトランペットをもらう。休み時間に学校のベランダで練習していたところ、阪神ファンの友達に「トランペットが吹けるイイところがあるから」と球場に連れていかれ、[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の応援団に入団。RYOJIとは以前から知り合いで、[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")と掛け持ちのメンバーが脱退した時にNUMAと共にPOTSHOTに誘われる。1997年の4月から8月はトランペットをライブで吹いていたが、経験が少なかったためかあまり吹けず、8月下旬からのライブには参加できなくなった。しかし、どうしてもPOTSHOTを辞めたくなかったため、8月29日からトロンボーンを練習し、10月に再加入する。
+    [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")出身。[1973年](../Page/1973年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")生まれ。B型。身長161cm、体重59～61kg（2003年時）。[東海大学付属高校](https://ja.wikipedia.org/wiki/東海大学付属高校 "wikilink")卒。小学校では少年野球、中学ではサッカー部と音楽とは無縁な生活をしていたが、高校1年の時にクラスの吹奏楽部員からトランペットをもらう。休み時間に学校のベランダで練習していたところ、阪神ファンの友達に「トランペットが吹けるイイところがあるから」と球場に連れていかれ、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の応援団に入団。RYOJIとは以前から知り合いで、[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")と掛け持ちのメンバーが脱退した時にNUMAと共にPOTSHOTに誘われる。1997年の4月から8月はトランペットをライブで吹いていたが、経験が少なかったためかあまり吹けず、8月下旬からのライブには参加できなくなった。しかし、どうしてもPOTSHOTを辞めたくなかったため、8月29日からトロンボーンを練習し、10月に再加入する。
   - ICHIKAWA（ベース）1999年5月（3rd ALBUMレコーディング時）加入
-    元[THE STREET BEATS](../Page/THE_STREET_BEATS.md "wikilink")、[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")。[広島県](../Page/広島県.md "wikilink")出身。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")生まれ。A型。身長167cm、体重60kg（2003年時）。小学校からサッカーをしていたが、中学の頃にツッパリに。高校の頃にサッカー部の先輩と対立し、退部。高校にいたギターが出来る友人がベースを探していたので、ベースを始める。高校卒業後、THE STREET BEATSの ØKIに誘われてTHE STREET BEATSに加入したが、メジャーデビューとともに脱退。その後再加入するが、91年に再脱退。1年後に[榊原秀樹](https://ja.wikipedia.org/wiki/榊原秀樹 "wikilink")と[高橋まこと](https://ja.wikipedia.org/wiki/高橋まこと "wikilink")、ジミーの3人とGEENAを結成するが、後に解散。さらに2年後にKOBAYASHIからPOTSHOTに誘われ、サポートで3rdアルバムの作成とライブに参加。後に正式に加入。
+    元[THE STREET BEATS](../Page/THE_STREET_BEATS.md "wikilink")、[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")。[広島県](../Page/広島県.md "wikilink")出身。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")生まれ。A型。身長167cm、体重60kg（2003年時）。小学校からサッカーをしていたが、中学の頃にツッパリに。高校の頃にサッカー部の先輩と対立し、退部。高校にいたギターが出来る友人がベースを探していたので、ベースを始める。高校卒業後、THE STREET BEATSの ØKIに誘われてTHE STREET BEATSに加入したが、メジャーデビューとともに脱退。その後再加入するが、91年に再脱退。1年後に[榊原秀樹](https://ja.wikipedia.org/wiki/榊原秀樹 "wikilink")と[高橋まこと](../Page/高橋まこと.md "wikilink")、ジミーの3人とGEENAを結成するが、後に解散。さらに2年後にKOBAYASHIからPOTSHOTに誘われ、サポートで3rdアルバムの作成とライブに参加。後に正式に加入。
   - KOBAYASHI（ドラム）1998年4月にサポートで参加-1998年6月に正式に加入
-    本名は[小林雅之](https://ja.wikipedia.org/wiki/小林雅之 "wikilink")。元[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[東久留米市](../Page/東久留米市.md "wikilink")出身。[1965年](../Page/1965年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")生まれ。B型。身長174cm、体重64kg（2003年時）。実家は[ひばりヶ丘団地](https://ja.wikipedia.org/wiki/ひばりヶ丘団地 "wikilink")と[滝山団地](https://ja.wikipedia.org/wiki/滝山団地 "wikilink")。[自由学園](https://ja.wikipedia.org/wiki/自由学園 "wikilink")という幼稚園から大学まである学校に通う。中学時代に寮の先輩がバンドをしていた影響で、ドラムを始める。[森純太](https://ja.wikipedia.org/wiki/森純太 "wikilink")が[伊藤毅とバンドをやっていたので参加](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")。後に[宮田和弥](https://ja.wikipedia.org/wiki/宮田和弥 "wikilink")も参加し、[JUN SKY WALKER(S)結成](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。1997年7月に解散。11月に結婚。1998年4月に[UKプロジェクト](../Page/UKプロジェクト.md "wikilink")の北島からPOTSHOTを紹介され、サポートとして参加。6月に正式に加入。
+    本名は[小林雅之](https://ja.wikipedia.org/wiki/小林雅之 "wikilink")。元[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[東久留米市](../Page/東久留米市.md "wikilink")出身。[1965年](../Page/1965年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")生まれ。B型。身長174cm、体重64kg（2003年時）。実家は[ひばりヶ丘団地](https://ja.wikipedia.org/wiki/ひばりヶ丘団地 "wikilink")と[滝山団地](https://ja.wikipedia.org/wiki/滝山団地 "wikilink")。[自由学園](https://ja.wikipedia.org/wiki/自由学園 "wikilink")という幼稚園から大学まである学校に通う。中学時代に寮の先輩がバンドをしていた影響で、ドラムを始める。[森純太](https://ja.wikipedia.org/wiki/森純太 "wikilink")が[伊藤毅とバンドをやっていたので参加](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")。後に[宮田和弥](../Page/宮田和弥.md "wikilink")も参加し、[JUN SKY WALKER(S)結成](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。1997年7月に解散。11月に結婚。1998年4月に[UKプロジェクト](../Page/UKプロジェクト.md "wikilink")の北島からPOTSHOTを紹介され、サポートとして参加。6月に正式に加入。
 
 ### 過去に在籍したことのあるメンバー
 
   - YOSHITO（ベース）結成時から参加-1999年2月脱退
-    脱退後は[YOUNG PUNCH](https://ja.wikipedia.org/wiki/YOUNG_PUNCH "wikilink")、[Yield](https://ja.wikipedia.org/wiki/Yield "wikilink")、[PENPALS](https://ja.wikipedia.org/wiki/PENPALS "wikilink")、[REVERSLOW](https://ja.wikipedia.org/wiki/REVERSLOW "wikilink")へ
+    脱退後は[YOUNG PUNCH](https://ja.wikipedia.org/wiki/YOUNG_PUNCH "wikilink")、[Yield](https://ja.wikipedia.org/wiki/Yield "wikilink")、[PENPALS](../Page/PENPALS.md "wikilink")、[REVERSLOW](https://ja.wikipedia.org/wiki/REVERSLOW "wikilink")へ
 
   - TAKA（ギター）結成時から参加-1997年（1st ALBUMレコーディング後）脱退
     VINYL（1996年に[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")に改名）と掛け持ちでの参加
@@ -145,7 +145,7 @@
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>She Is Cute</strong></p></td>
 <td><p>TV-044</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -246,7 +246,7 @@
 </tr>
 <tr class="even">
 <td><p>11th</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>9 to 5</strong></p></td>
 <td><p>TV-078</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -526,7 +526,7 @@
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><strong>POTSHOT BEAT GOES ON</strong></p></td>
 <td><p>TV-087</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -558,7 +558,7 @@
 </tr>
 <tr class="odd">
 <td><p>ベスト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td><p><strong>POTSHOT FOREVER -BEST AND RARITIES-</strong></p></td>
 <td><p>TV-088-089</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -793,7 +793,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td><p><strong>POTSHOT FINAL LIVE 2005.9.30「SKAPUNK STARS LAST STAND」</strong></p></td>
 <td><p>TV-090</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -945,7 +945,7 @@ You don't know(live) / Mike Park with POTSHOT<br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/5月26日.md" title="wikilink">5月26日</a></p></td>
-<td><p><strong>NEW ROTE'KA TRIBUTE(<a href="https://ja.wikipedia.org/wiki/GELUGUGU" title="wikilink">GELUGUGU</a>/POTSHOT)</strong></p></td>
+<td><p><strong>NEW ROTE'KA TRIBUTE(<a href="../Page/GELUGUGU.md" title="wikilink">GELUGUGU</a>/POTSHOT)</strong></p></td>
 <td><p>TV-040</p></td>
 <td><p>2. ・・・to be HARLEM<br />
 4. DRINKIN' BOYS</p></td>
@@ -981,7 +981,7 @@ You don't know(live) / Mike Park with POTSHOT<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS" title="wikilink">THE BLUE HEARTSトリビュートアルバム</a>「<a href="../Page/THE_BLUE_HEARTS_2002_TRIBUTE.md" title="wikilink">THE BLUE HEARTS 2002 TRIBUTE</a>」「<a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS_TRIBUTE_2005_EDITION" title="wikilink">THE BLUE HEARTS TRIBUTE 2005 EDITION</a>」</strong></p></td>
+<td><p><strong><a href="../Page/THE_BLUE_HEARTS.md" title="wikilink">THE BLUE HEARTSトリビュートアルバム</a>「<a href="../Page/THE_BLUE_HEARTS_2002_TRIBUTE.md" title="wikilink">THE BLUE HEARTS 2002 TRIBUTE</a>」「<a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS_TRIBUTE_2005_EDITION" title="wikilink">THE BLUE HEARTS TRIBUTE 2005 EDITION</a>」</strong></p></td>
 <td><p>ISJP-1006</p></td>
 <td><p>ともに「キスしてほしい（トゥー･トゥー･トゥー）」</p></td>
 <td><p>Universal</p></td>
@@ -1038,7 +1038,7 @@ You don't know(live) / Mike Park with POTSHOT<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ニューロティカ" title="wikilink">ニューロティカ</a>トリビュートアルバム「<a href="../Page/A.I_COMPANY.md" title="wikilink">A.I COMPANY</a>」</strong></p></td>
+<td><p><strong><a href="../Page/ニューロティカ.md" title="wikilink">ニューロティカ</a>トリビュートアルバム「<a href="../Page/A.I_COMPANY.md" title="wikilink">A.I COMPANY</a>」</strong></p></td>
 <td><p>VICL-61359</p></td>
 <td><p>DISC2-09.青春 III / POTSHOT featuring YOKO UTSUMI</p></td>
 <td><p>Victor Entertainment</p></td>
@@ -1058,28 +1058,28 @@ You don't know(live) / Mike Park with POTSHOT<br />
 <td><p>Victor Entertainment</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong>TIGER HOLE RANGE 2</strong></p></td>
 <td><p>THCA-045</p></td>
 <td><p>2. CALIFORNIA SUN</p></td>
 <td><p>TIGER HOLE CHOICE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><strong>TOYOTA BIG AIR 10th anniversary</strong></p></td>
 <td><p>UPCI-1040</p></td>
 <td><p>2.CLEAR</p></td>
 <td><p>Island</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
 <td><p><strong>ROCK is LOFT Purple Disc ～SHINJUKU LOFT 30th Anniversary～</strong></p></td>
 <td><p>UPCH-1495</p></td>
 <td><p>14.CLEAR</p></td>
 <td><p>Polydor</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
 <td><p><strong>10 YEARS OF BLOOD SWEAT AND TEARS</strong></p></td>
 <td><p>SIWI-59</p></td>
 <td><p>19.Radio</p></td>
@@ -1147,8 +1147,8 @@ You don't know(live) / Mike Park with POTSHOT<br />
   - [スカコア](../Page/スカコア.md "wikilink")
   - [pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")
   - [MU330](https://ja.wikipedia.org/wiki/MU330 "wikilink")
-  - [スーサイド・マシーンズ](https://ja.wikipedia.org/wiki/スーサイド・マシーンズ "wikilink")
-  - [ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink")
+  - [スーサイド・マシーンズ](../Page/スーサイド・マシーンズ.md "wikilink")
+  - [ニューロティカ](../Page/ニューロティカ.md "wikilink")
   - [175R](../Page/175R.md "wikilink")
   - [DOBERMAN](../Page/DOBERMAN.md "wikilink")
 

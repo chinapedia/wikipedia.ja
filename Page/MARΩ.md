@@ -1,9 +1,9 @@
 > この記事は[MAR](https://ja.wikipedia.org/wiki/MAR)から翻訳されています。
 
 
-『**MÄRΩ**』（メルオメガ）は、漫画[星野倖一郎](https://ja.wikipedia.org/wiki/星野倖一郎 "wikilink")・原案[安西信行](../Page/安西信行.md "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）誌上において、2006年39号から2007年28号まで連載された。単行本は全4巻が小学館（少年サンデーコミックス）から刊行された。
+『**MÄRΩ**』（メルオメガ）は、漫画[星野倖一郎](../Page/星野倖一郎.md "wikilink")・原案[安西信行](../Page/安西信行.md "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）誌上において、2006年39号から2007年28号まで連載された。単行本は全4巻が小学館（少年サンデーコミックス）から刊行された。
 
-安西の漫画『[MÄR](https://ja.wikipedia.org/wiki/MAR_\(漫画\) "wikilink")』の世界の6年後を描いた続編。設定内容は『MÄR』を受け継いでいるが、安西は原案のみで、漫画は星野が担当している。
+安西の漫画『[MÄR](../Page/MAR_\(漫画\).md "wikilink")』の世界の6年後を描いた続編。設定内容は『MÄR』を受け継いでいるが、安西は原案のみで、漫画は星野が担当している。
 
 ## 登場人物
 

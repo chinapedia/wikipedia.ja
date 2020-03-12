@@ -5,7 +5,7 @@
 
 ## 作品概要
 
-[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[GBA用ゲームソフト](../Page/ゲームボーイアドバンス.md "wikilink")『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以後『OG1』）をベースとした作品。群像劇であった『OG1』を主人公のリュウセイ視点で練り直したうえで、コメディ要素をほとんど排除し、シリアスな[リアルロボット](https://ja.wikipedia.org/wiki/リアルロボット "wikilink")アニメといった作風\[1\]になっている。登場するロボットは3DCGで描かれている。
+[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[GBA用ゲームソフト](../Page/ゲームボーイアドバンス.md "wikilink")『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以後『OG1』）をベースとした作品。群像劇であった『OG1』を主人公のリュウセイ視点で練り直したうえで、コメディ要素をほとんど排除し、シリアスな[リアルロボット](../Page/リアルロボット.md "wikilink")アニメといった作風\[1\]になっている。登場するロボットは3DCGで描かれている。
 
 テレビ放送は第25話をもって終了したが、第26話がDVD最終巻に収録されている。2007年2月23日からDVDが発売され、奇数巻のみ通常版のほかに彩色済みアクションフィギュアが同梱されたLimited Editionが発売された\[2\]。
 
@@ -27,37 +27,37 @@
 
 :\* **ライディース・F・ブランシュタイン**：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
 
-:\* **アヤ・コバヤシ**：[冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+:\* **アヤ・コバヤシ**：[冬馬由美](../Page/冬馬由美.md "wikilink")
 
-:\* **イングラム・プリスケン**：[古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")
+:\* **イングラム・プリスケン**：[古澤徹](../Page/古澤徹.md "wikilink")
 
   - ATXチーム
 
-:\* **キョウスケ・ナンブ**：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+:\* **キョウスケ・ナンブ**：[森川智之](../Page/森川智之.md "wikilink")
 
-:\* **エクセレン・ブロウニング**：[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")
+:\* **エクセレン・ブロウニング**：[水谷優子](../Page/水谷優子.md "wikilink")
 
-:\* **ブルックリン・ラックフィールド**：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+:\* **ブルックリン・ラックフィールド**：[杉田智和](../Page/杉田智和.md "wikilink")
 
   - ハガネ
 
-:\* **ダイテツ・ミナセ**：[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
+:\* **ダイテツ・ミナセ**：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
 
-:\* **テツヤ・オノデラ**：[堀川仁](https://ja.wikipedia.org/wiki/堀川仁 "wikilink")
+:\* **テツヤ・オノデラ**：[堀川仁](../Page/堀川仁.md "wikilink")
 
-:\* **エイタ・ナダカ**：[田中大文](https://ja.wikipedia.org/wiki/田中大文 "wikilink")
+:\* **エイタ・ナダカ**：[田中大文](../Page/田中大文.md "wikilink")
 
-:\* **リオ・メイロン**：[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+:\* **リオ・メイロン**：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
 
-:\* **イルムガルト・カザハラ**：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
+:\* **イルムガルト・カザハラ**：[堀内賢雄](../Page/堀内賢雄.md "wikilink")
 
-:\* **ラトゥーニ・スゥボータ**：[平井理子](https://ja.wikipedia.org/wiki/平井理子 "wikilink")
+:\* **ラトゥーニ・スゥボータ**：[平井理子](../Page/平井理子.md "wikilink")
 
-:\* **ジャーダ・ベネルディ**：[奥田啓人](https://ja.wikipedia.org/wiki/奥田啓人 "wikilink")
+:\* **ジャーダ・ベネルディ**：[奥田啓人](../Page/奥田啓人.md "wikilink")
 
-:\* **ガーネット・サンディ**：[佐久間紅美](https://ja.wikipedia.org/wiki/佐久間紅美 "wikilink")
+:\* **ガーネット・サンディ**：[佐久間紅美](../Page/佐久間紅美.md "wikilink")
 
-:\* **クスハ・ミズハ**：[高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+:\* **クスハ・ミズハ**：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
 
 :\* **リョウト・ヒカワ**：[小林由美子](../Page/小林由美子.md "wikilink")
 
@@ -67,11 +67,11 @@
 
 :\* **レフィーナ・エンフィールド**：[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")
 
-:\* **ショーン・ウェブリー**：[田中完](https://ja.wikipedia.org/wiki/田中完 "wikilink")
+:\* **ショーン・ウェブリー**：[田中完](../Page/田中完.md "wikilink")
 
-:\* **ユン・ヒョジン**：[河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")
+:\* **ユン・ヒョジン**：[河原木志穂](../Page/河原木志穂.md "wikilink")
 
-:\* **カチーナ・タラスク**：[矢口アサミ](https://ja.wikipedia.org/wiki/矢口アサミ "wikilink")
+:\* **カチーナ・タラスク**：[矢口アサミ](../Page/矢口アサミ.md "wikilink")
 
 :\* **ラッセル・バーグマン**：[青木崇](https://ja.wikipedia.org/wiki/青木崇 "wikilink")
 
@@ -79,43 +79,43 @@
 
   - 連邦その他
 
-:\* **レイカー・ランドルフ**：[清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")
+:\* **レイカー・ランドルフ**：[清川元夢](../Page/清川元夢.md "wikilink")
 
-:\* **サカエ・タカナカ**：[鈴木琢磨](https://ja.wikipedia.org/wiki/鈴木琢磨 "wikilink")
+:\* **サカエ・タカナカ**：[鈴木琢磨](../Page/鈴木琢磨.md "wikilink")
 
 :\* **ハンス・ヴィーパー**：[枡谷裕](https://ja.wikipedia.org/wiki/枡谷裕 "wikilink")
 
-:\* **カイ・キタムラ**：[西前忠久](https://ja.wikipedia.org/wiki/西前忠久 "wikilink")
+:\* **カイ・キタムラ**：[西前忠久](../Page/西前忠久.md "wikilink")
 
 :\* **ハルマ・キド**：[中多和宏](https://ja.wikipedia.org/wiki/中多和宏 "wikilink")
 
-:\* **カーク・ハミル**：[風間勇刀](https://ja.wikipedia.org/wiki/風間勇刀 "wikilink")
+:\* **カーク・ハミル**：[風間勇刀](../Page/風間勇刀.md "wikilink")
 
 :\* **ロバート・ハジメ・オオミヤ**：[桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")
 
-:\* **ケンゾウ・コバヤシ**：[麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")
+:\* **ケンゾウ・コバヤシ**：[麦人](../Page/麦人.md "wikilink")
 
-:\* **ノーマン・スレイ**：[大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+:\* **ノーマン・スレイ**：[大林隆介](../Page/大林隆介.md "wikilink")
 
 :\* **カール・シュトレーゼマン**：[亀井三郎](../Page/亀井三郎.md "wikilink")
 
 :\* **アルバート・グレイ**：[をはり万造](../Page/をはり万造.md "wikilink")
 
-:\* **ニブハル・ムブハル**：[石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
+:\* **ニブハル・ムブハル**：[石井康嗣](../Page/石井康嗣.md "wikilink")
 
   - ディバイン・クルセイダーズ
 
-:\* **ビアン・ゾルダーク**：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+:\* **ビアン・ゾルダーク**：[飯塚昭三](../Page/飯塚昭三.md "wikilink")
 
 :\* **シュウ・シラカワ**：[子安武人](../Page/子安武人.md "wikilink")
 
-:\* **アードラー・コッホ**：[山下啓介](https://ja.wikipedia.org/wiki/山下啓介 "wikilink")
+:\* **アードラー・コッホ**：[山下啓介](../Page/山下啓介.md "wikilink")
 
-:\* **エルザム・V・ブランシュタイン**：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+:\* **エルザム・V・ブランシュタイン**：[稲田徹](../Page/稲田徹.md "wikilink")
 
-:\* **テンペスト・ホーカー**：[中博史](https://ja.wikipedia.org/wiki/中博史 "wikilink")
+:\* **テンペスト・ホーカー**：[中博史](../Page/中博史.md "wikilink")
 
-:\* **トーマス・プラット**：[宇垣秀成](https://ja.wikipedia.org/wiki/宇垣秀成 "wikilink")
+:\* **トーマス・プラット**：[宇垣秀成](../Page/宇垣秀成.md "wikilink")
 
 :\* **テンザン・ナカジマ**：[川津泰彦](https://ja.wikipedia.org/wiki/川津泰彦 "wikilink")
 
@@ -123,7 +123,7 @@
 
 :\* **ツグミ・タカクラ**：[長谷川知子](../Page/長谷川知子.md "wikilink")
 
-:\* **スレイ・プレスティ**：[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")
+:\* **スレイ・プレスティ**：[長沢美樹](../Page/長沢美樹.md "wikilink")
 
   - コロニー統合軍
 
@@ -131,9 +131,9 @@
 
 :\* **リリー・ユンカース**：[吉田美保](../Page/吉田美保.md "wikilink")
 
-:\* **ゼンガー・ゾンボルト**：[小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")
+:\* **ゼンガー・ゾンボルト**：[小野健一](../Page/小野健一_\(声優\).md "wikilink")
 
-:\* **ユーリア・ハインケル**：[手塚ちはる](https://ja.wikipedia.org/wiki/手塚ちはる "wikilink")
+:\* **ユーリア・ハインケル**：[手塚ちはる](../Page/手塚ちはる.md "wikilink")
 
 :\* **レオナ・ガーシュタイン**：[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")
 
@@ -141,9 +141,9 @@
 
 :\* **レビ・トーラー**：[折笠愛](../Page/折笠愛.md "wikilink")
 
-:\* **アタッド・シャムラン**：[中澤やよい](https://ja.wikipedia.org/wiki/中澤やよい "wikilink")
+:\* **アタッド・シャムラン**：[中澤やよい](../Page/中澤やよい.md "wikilink")
 
-:\* **ヴィレッタ・バディム**：[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
+:\* **ヴィレッタ・バディム**：[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")
 
   - その他
 
@@ -159,34 +159,34 @@
 
 :\* **シャイン・ハウゼン**：[貝原怜奈](../Page/貝原怜奈.md "wikilink")
 
-:\* **ジョイス・ルダール**：[平野俊隆](https://ja.wikipedia.org/wiki/平野俊隆 "wikilink")
+:\* **ジョイス・ルダール**：[平野俊隆](../Page/平野俊隆.md "wikilink")
 
 :\* **ユキコ・ダテ**：[佐久間レイ](../Page/佐久間レイ.md "wikilink")
 
-:\* **ソフィア・ネート**：[土井美加](https://ja.wikipedia.org/wiki/土井美加 "wikilink")
+:\* **ソフィア・ネート**：[土井美加](../Page/土井美加.md "wikilink")
 
-:\* **仮面の男**：[乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+:\* **仮面の男**：[乃村健次](../Page/乃村健次.md "wikilink")
 
-:\* **クォヴレー・ゴードン**：[泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")
+:\* **クォヴレー・ゴードン**：[泰勇気](../Page/泰勇気.md "wikilink")
 
 ## スタッフ
 
   - 原作 - SRプロデュースチーム
-  - 監督 - [角銅博之](https://ja.wikipedia.org/wiki/角銅博之 "wikilink")
-  - 監修・シリーズ構成 - [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+  - 監督 - [角銅博之](../Page/角銅博之.md "wikilink")
+  - 監修・シリーズ構成 - [寺田貴信](../Page/寺田貴信.md "wikilink")
   - キャラクター原案 - [河野さち子](../Page/河野さち子.md "wikilink")（シー・ピー・トムズ）
   - キャラクターデザイン - [池田裕治](https://ja.wikipedia.org/wiki/池田裕治 "wikilink")
   - セットデザイン - コレサワシゲユキ
-  - メカデザイン - [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")、[宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")、[大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")、斉藤和衛、小野聖二、青木健太、大輪充、杉浦俊朗、藤井大誠、金丸仁、土屋英憲、守谷淳一
+  - メカデザイン - [カトキハジメ](../Page/カトキハジメ.md "wikilink")、[宮武一貴](../Page/宮武一貴.md "wikilink")、[大河原邦男](../Page/大河原邦男.md "wikilink")、斉藤和衛、小野聖二、青木健太、大輪充、杉浦俊朗、藤井大誠、金丸仁、土屋英憲、守谷淳一
   - 美術監督 - 加藤賢司
   - 色彩設計 - 大槻浩司
   - 撮影監督 - [水谷貴哉](../Page/水谷貴哉.md "wikilink")
   - 編集 - [伊藤潤一](https://ja.wikipedia.org/wiki/伊藤潤一 "wikilink")
   - 音響監督 - [高寺たけし](../Page/高寺たけし.md "wikilink")
   - 音楽 - [平野義久](https://ja.wikipedia.org/wiki/平野義久 "wikilink")、鶴山尚史、[花岡拓也](https://ja.wikipedia.org/wiki/花岡拓也 "wikilink")
-  - プロデューサー - [森本浩二](https://ja.wikipedia.org/wiki/森本浩二 "wikilink")、[東不可止](https://ja.wikipedia.org/wiki/東不可止 "wikilink")、大澤信博
+  - プロデューサー - [森本浩二](https://ja.wikipedia.org/wiki/森本浩二 "wikilink")、[東不可止](../Page/東不可止.md "wikilink")、大澤信博
   - アニメーションプロデューサー - [岩佐がく](../Page/岩佐岳.md "wikilink")
-  - アニメーション制作 - [OLM TEAM IWASA](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")
+  - アニメーション制作 - [OLM TEAM IWASA](../Page/オー・エル・エム.md "wikilink")
   - 製作 - SRWOG PROJECT
 
 ## 主題歌
@@ -195,7 +195,7 @@
 
 :; 「Break Out」（第1話 - 第17話、第24 - 25話）
 
-:: 歌 - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink") / 作詞・作曲 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink") / 編曲 - 須藤賢一
+:: 歌 - [JAM Project](../Page/JAM_Project.md "wikilink") / 作詞・作曲 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 編曲 - 須藤賢一
 
 :; 「RISING FORCE」（第18話 - 第23話）
 
@@ -224,7 +224,7 @@
   -
 
       -
-        歌 - JAM Project / 作詞 - 奥井雅美、[きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink") / 作曲・編曲 - 河野陽吾
+        歌 - JAM Project / 作詞 - 奥井雅美、[きただにひろし](../Page/きただにひろし.md "wikilink") / 作曲・編曲 - 河野陽吾
 
 ## 各話リスト
 
@@ -244,7 +244,7 @@
 <td><p>1</p></td>
 <td><p>鋼鉄の亡霊</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/滝晃一" title="wikilink">滝晃一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角銅博之" title="wikilink">角銅博之</a></p></td>
+<td><p><a href="../Page/角銅博之.md" title="wikilink">角銅博之</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺正彦" title="wikilink">渡辺正彦</a></p></td>
 <td><p>津熊健徳</p></td>
 </tr>
@@ -275,7 +275,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>彼方よりの客</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/寺田貴信" title="wikilink">寺田貴信</a></p></td>
+<td><p><a href="../Page/寺田貴信.md" title="wikilink">寺田貴信</a></p></td>
 <td><p>角銅博之</p></td>
 <td><p>青柳宏宜</p></td>
 <td><p>小山知洋</p></td>
@@ -283,7 +283,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>蒼い魔神</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯田馬之介" title="wikilink">飯田馬之介</a></p></td>
+<td><p><a href="../Page/飯田馬之介.md" title="wikilink">飯田馬之介</a></p></td>
 <td><p>渡辺正彦</p></td>
 <td><p>池上太郎</p></td>
 <td></td>
@@ -477,7 +477,7 @@
 <td><p>木曜 26時28分 - 26時58分</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>2006年10月10日 - 2007年4月3日</p></td>
 <td><p>火曜 26時23分 - 26時53分</p></td>
@@ -513,7 +513,7 @@
 ## コミック版
 
   - 『スーパーロボット大戦OG -ディバイン・ウォーズ-』
-    『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』2006年10月号（2006年8月発売）より2009年9月号（2009年7月発売）まで連載。コミックス全6巻。作者は[木村明広](https://ja.wikipedia.org/wiki/木村明広 "wikilink")。
+    『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』2006年10月号（2006年8月発売）より2009年9月号（2009年7月発売）まで連載。コミックス全6巻。作者は[木村明広](../Page/木村明広.md "wikilink")。
     1.  ISBN 978-4-8402-3788-8
     2.  ISBN 978-4-8402-3961-5
     3.  ISBN 978-4-8402-4101-4
@@ -521,7 +521,7 @@
     5.  ISBN 978-4-04-867631-1
     6.  ISBN 978-4-04-868111-7
   - 『スーパーロボット大戦OG -ディバイン・ウォーズ- Record of ATX』
-    『[電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")』2007年3月号（2007年1月発売）より2011年1月号（2010年11月発売）まで連載。コミックスは全5巻。作者は[八房龍之助](../Page/八房龍之助.md "wikilink")。
+    『[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』2007年3月号（2007年1月発売）より2011年1月号（2010年11月発売）まで連載。コミックスは全5巻。作者は[八房龍之助](../Page/八房龍之助.md "wikilink")。
     『OG1』の主人公の一人であったキョウスケの視点で『ディバイン・ウォーズ』を描いたサイドストーリー。2008年12月号（単行本2巻）にてコロニー統合軍との戦いを描いた第1部が完結。連載が好評だったことをうけ\[8\]、2009年3月号（単行本3巻）からはそれ以降の展開を描く第2部が開始されている。第1部はハガネと合流しコロニー統合軍と決着をつけるなど『ディバイン・ウォーズ』に倣った展開だった（ただし、その展開はアニメと大幅に異なる）が、第2部からはゲーム版同様に、リュウセイ視点だった『ディバイン・ウォーズ』とは異なる独自のストーリーが展開されている。2011年2月号（2010年12月発売）からは続編『[スーパーロボット大戦OG -ジ・インスペクター- Record of ATX](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター-#コミック版 "wikilink")』の連載が始まった。
     1.  2007年12月17日発売 ISBN 978-4-8402-4155-7
     2.  2008年12月17日発売 ISBN 978-4-04-867498-0
@@ -533,9 +533,9 @@
 
   - スパロボOGネットラジオ うますぎWAVE
 
-    メインパーソナリティ：[遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink")（歌手 [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")）/[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")（声優）
+    メインパーソナリティ：[遠藤正明](../Page/遠藤正明.md "wikilink")（歌手 [JAM Project](../Page/JAM_Project.md "wikilink")）/[杉田智和](../Page/杉田智和.md "wikilink")（声優）
 
-    隔週出演：[相沢舞](https://ja.wikipedia.org/wiki/相沢舞 "wikilink")（声優）/[斉藤梨絵](../Page/斉藤梨絵.md "wikilink")（声優）
+    隔週出演：[相沢舞](../Page/相沢舞.md "wikilink")（声優）/[斉藤梨絵](../Page/斉藤梨絵.md "wikilink")（声優）
 
 ## 関連商品
 
@@ -547,7 +547,7 @@
 ### CD
 
   - スーパーロボット大戦OG ディバイン・ウォーズ オリジナルサウンドトラック Vol.1
-    2006年12月21日発売 [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+    2006年12月21日発売 [ランティス](../Page/ランティス.md "wikilink")
   - スーパーロボット大戦OG ディバイン・ウォーズ オリジナルサウンドトラック Vol.2
     2007年3月7日発売 ランティス
 

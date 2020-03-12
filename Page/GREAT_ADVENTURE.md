@@ -1,11 +1,11 @@
 > この記事は[GREAT ADVENTURE](https://ja.wikipedia.org/wiki/GREAT_ADVENTURE)から翻訳されています。
 
 
-**GREAT ADVENTURE**（グレイト・アドベンチャー）は北[埼玉](https://ja.wikipedia.org/wiki/埼玉 "wikilink")で結成された[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2005年[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")([RESERVOIR RECORDS](https://ja.wikipedia.org/wiki/RESERVOIR_RECORDS "wikilink"))よりメジャーデビュー。2008年活動休止。
+**GREAT ADVENTURE**（グレイト・アドベンチャー）は北[埼玉](https://ja.wikipedia.org/wiki/埼玉 "wikilink")で結成された[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2005年[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")([RESERVOIR RECORDS](https://ja.wikipedia.org/wiki/RESERVOIR_RECORDS "wikilink"))よりメジャーデビュー。2008年活動休止。
 
 ## 概要・来歴
 
-  - [カサビアン](https://ja.wikipedia.org/wiki/カサビアン "wikilink")、[ザ・ミュージック](../Page/ザ・ミュージック.md "wikilink")の日本公演オープニングアクトをつとめたことがある。
+  - [カサビアン](../Page/カサビアン.md "wikilink")、[ザ・ミュージック](../Page/ザ・ミュージック.md "wikilink")の日本公演オープニングアクトをつとめたことがある。
   - MCでは片言の日本語を使う。
 
 カサビアンのオープニングを務めた時は、カサビアンの情報が少なく、最初に登場したgreatadventureも全くMCをせず、歌詞も英語な為、ずっとgreatadventureのことをカサビアンだと思って聞いていた観客が多かった。

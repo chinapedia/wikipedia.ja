@@ -5,9 +5,9 @@
 
 ## 概要
 
-2001年結成。[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")などが所属するインディーズレーベル[apart.RECORDS](https://ja.wikipedia.org/wiki/apart.RECORDS "wikilink")より「気晴らし重要だ」をリリース。2005年ユニバーサルシグマより「男はバカなのか俺がバカなのか」でメジャーデビュー。[イロメロミックス](https://ja.wikipedia.org/wiki/イロメロミックス "wikilink")のCMで起用され、[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")などでスマッシュヒット。下北沢のライブハウスから大型野外イベントなど多数出演。
+2001年結成。[PE'Z](../Page/PE'Z.md "wikilink")などが所属するインディーズレーベル[apart.RECORDS](https://ja.wikipedia.org/wiki/apart.RECORDS "wikilink")より「気晴らし重要だ」をリリース。2005年ユニバーサルシグマより「男はバカなのか俺がバカなのか」でメジャーデビュー。[イロメロミックス](https://ja.wikipedia.org/wiki/イロメロミックス "wikilink")のCMで起用され、[USEN](../Page/USEN.md "wikilink")などでスマッシュヒット。下北沢のライブハウスから大型野外イベントなど多数出演。
 
-メジャーデビュー後3枚のシングルのジャケットと[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")に[130R](https://ja.wikipedia.org/wiki/130R "wikilink")の[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")が起用されている。[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の監督は[竹中直人](../Page/竹中直人.md "wikilink")主演の映画『[男はソレを我慢できない](../Page/男はソレを我慢できない.md "wikilink")』、『[海でのはなし。](https://ja.wikipedia.org/wiki/海でのはなし。 "wikilink")』などの映画監督・脚本家[大宮エリー](../Page/大宮エリー.md "wikilink")が務めている。
+メジャーデビュー後3枚のシングルのジャケットと[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")に[130R](../Page/130R.md "wikilink")の[板尾創路](../Page/板尾創路.md "wikilink")が起用されている。[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の監督は[竹中直人](../Page/竹中直人.md "wikilink")主演の映画『[男はソレを我慢できない](../Page/男はソレを我慢できない.md "wikilink")』、『[海でのはなし。](../Page/海でのはなし。.md "wikilink")』などの映画監督・脚本家[大宮エリー](../Page/大宮エリー.md "wikilink")が務めている。
 
 2009年4月に音楽性の違いからベースのたくが脱退。二人となった後も、ライブ活動を続けていたが、同年9月にMALCOでのライブ活動の休止を宣言。現在はソロ活動へと移行している。
 
@@ -24,7 +24,7 @@
 
 ### 過去のメンバー
 
-  - 松浦たく (まつうら - 、[1月12日](../Page/1月12日.md "wikilink") - ) [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 松浦たく (まつうら - 、[1月12日](../Page/1月12日.md "wikilink") - ) [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 2009年4月脱退
 
@@ -91,7 +91,7 @@
 </tbody>
 </table>
 
-  - ここまでの3作品は、[dwango.jpイロメロミックスCMタイアップソング](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")。
+  - ここまでの3作品は、[dwango.jpイロメロミックスCMタイアップソング](../Page/ドワンゴ.md "wikilink")。
 
 ### アルバム
 

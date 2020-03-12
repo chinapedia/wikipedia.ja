@@ -5,7 +5,7 @@
 
 ## 解説
 
-タイトルは、タイアップにもなった[2006 FIFAワールドカップ日本代表の](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")が名付け親ということで、選手と一体となった応援歌として親しまれた。
+タイトルは、タイアップにもなった[2006 FIFAワールドカップ日本代表の](../Page/サッカー日本代表.md "wikilink")[中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")が名付け親ということで、選手と一体となった応援歌として親しまれた。
 
 当初は初回盤A・初回盤B・通常盤初回プレス・通常盤の4形態での発売が予定されていたが、初回盤Cの発売が急遽決定したため、5種類での発売となった。
 
@@ -30,7 +30,7 @@
       - 7thアルバム「5 AHEAD」収録曲のライブバージョン
 4.  **[君を想うとき](https://ja.wikipedia.org/wiki/君を想うとき/Oh!_Heaven "wikilink")**（Live version）※※※
       -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")
+        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")
     <!-- end list -->
       - 15thシングルの1曲目のライブバージョン
 5.  Get Your Dream（Backing Track）

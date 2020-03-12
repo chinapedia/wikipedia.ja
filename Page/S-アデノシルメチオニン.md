@@ -1,25 +1,25 @@
 > この記事は[S-](https://ja.wikipedia.org/wiki/S-)から翻訳されています。
 
 
-***S*-アデノシルメチオニン**（*S*‐adenosylmethionine、**SAM**、[SAM-e](https://ja.wikipedia.org/wiki/w:SAM-e "wikilink")）とは、[アデノシン](https://ja.wikipedia.org/wiki/アデノシン "wikilink")と[メチオニン](https://ja.wikipedia.org/wiki/メチオニン "wikilink")とから生体内で合成される生体内物質である。補欠分子族の一種でメチル基供与体として作用する。**活性メチオニン**（active methionine）とも呼ばれる。略号はSAMまたはAdoMet。
+***S*-アデノシルメチオニン**（*S*‐adenosylmethionine、**SAM**、[SAM-e](https://ja.wikipedia.org/wiki/w:SAM-e "wikilink")）とは、[アデノシン](../Page/アデノシン.md "wikilink")と[メチオニン](https://ja.wikipedia.org/wiki/メチオニン "wikilink")とから生体内で合成される生体内物質である。補欠分子族の一種でメチル基供与体として作用する。**活性メチオニン**（active methionine）とも呼ばれる。略号はSAMまたはAdoMet。
 
-アデノシンとメチオニンとはメチルスルホニウム結合を介して連結しているが、このメチルスルホニウム結合は[高エネルギー結合](https://ja.wikipedia.org/wiki/高エネルギー結合 "wikilink")であり、このメチル基が[コリン](https://ja.wikipedia.org/wiki/コリン_\(栄養素\) "wikilink")・[クレアチニン](https://ja.wikipedia.org/wiki/クレアチニン "wikilink")などのメチル化合物生成に利用される。メチル基を失った*S*-アデノシルメチオニンは[S-アデノシル-L-ホモシステイン](https://ja.wikipedia.org/wiki/S-アデノシル-L-ホモシステイン "wikilink")（SAH）となる。
+アデノシンとメチオニンとはメチルスルホニウム結合を介して連結しているが、このメチルスルホニウム結合は[高エネルギー結合](https://ja.wikipedia.org/wiki/高エネルギー結合 "wikilink")であり、このメチル基が[コリン](../Page/コリン_\(栄養素\).md "wikilink")・[クレアチニン](../Page/クレアチニン.md "wikilink")などのメチル化合物生成に利用される。メチル基を失った*S*-アデノシルメチオニンは[S-アデノシル-L-ホモシステイン](https://ja.wikipedia.org/wiki/S-アデノシル-L-ホモシステイン "wikilink")（SAH）となる。
 
-動物では[肝臓](../Page/肝臓.md "wikilink")においてメチオニントランスアデニラーゼによりL‐メチオニンとATPから生成される。S-アデノシルメチオニンは[ポリアミン](https://ja.wikipedia.org/wiki/ポリアミン "wikilink")代謝の重要な中間体であり、脱炭酸反応によりアミノプロピル体となった後、[プトレシン](https://ja.wikipedia.org/wiki/プトレシン "wikilink")に付加すると[スペルミジン](https://ja.wikipedia.org/wiki/スペルミジン "wikilink")が生成する。スペルミジンはアミノブチル基に付加して[スペルミン](https://ja.wikipedia.org/wiki/スペルミン "wikilink")となる。
+動物では[肝臓](../Page/肝臓.md "wikilink")においてメチオニントランスアデニラーゼによりL‐メチオニンとATPから生成される。S-アデノシルメチオニンは[ポリアミン](../Page/ポリアミン.md "wikilink")代謝の重要な中間体であり、脱炭酸反応によりアミノプロピル体となった後、[プトレシン](https://ja.wikipedia.org/wiki/プトレシン "wikilink")に付加すると[スペルミジン](https://ja.wikipedia.org/wiki/スペルミジン "wikilink")が生成する。スペルミジンはアミノブチル基に付加して[スペルミン](../Page/スペルミン.md "wikilink")となる。
 
 植物においては、*S*-アデノシルメチオニンからシクロプロパンカルボン酸を経由して[植物ホルモン](../Page/植物ホルモン.md "wikilink")である[エチレン](../Page/エチレン.md "wikilink")が産生する。
 
 ## 治療上の使用
 
-[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")では、SAMはSAM-eのマーケティング名の下で栄養[サプリメント](https://ja.wikipedia.org/wiki/サプリメント "wikilink")として販売されている。（またSAMEやSAMeの綴り:「sam ee」あるいは「Sammy」と発音される） SAMはまた、ロシア、イタリアおよびドイツでは、Gumbaral、Samyr、Adomet、HeptralやAdmethionineの商標で、認可された処方薬として販売されている。
+[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")では、SAMはSAM-eのマーケティング名の下で栄養[サプリメント](../Page/サプリメント.md "wikilink")として販売されている。（またSAMEやSAMeの綴り:「sam ee」あるいは「Sammy」と発音される） SAMはまた、ロシア、イタリアおよびドイツでは、Gumbaral、Samyr、Adomet、HeptralやAdmethionineの商標で、認可された処方薬として販売されている。
 
 複数の臨床試験を含むいくつかの研究では、定期的にSAMを摂取することで、[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")\[1\]\[2\]\[3\]、[肝疾患](https://ja.wikipedia.org/wiki/肝疾患 "wikilink")、[変形性関節症の痛みと闘う助けとなる可能性が示唆されている](https://ja.wikipedia.org/wiki/関節炎 "wikilink")\[4\]。他のすべての適応症はまだ証明されていない。
 
 2016年のシステマティックレビューではうつ病に対する使用の研究はあるが質の高い証拠は見つからなかった\[5\]。
 
-アメリカでのSAMの治療上の使用は、[ダイエタリー・サプリメントとしての人気を得て](https://ja.wikipedia.org/wiki/サプリメント "wikilink")、とりわけ1994年の[栄養補助食品健康教育法](https://ja.wikipedia.org/wiki/栄養補助食品健康教育法 "wikilink")が制定された後に増加した。この法律はサプリメントとしてのSAMの販売を許可し、従って[アメリカ食品医薬品局](https://ja.wikipedia.org/wiki/アメリカ食品医薬品局 "wikilink")(FDA)の薬としての規制上の要件を回避した。
+アメリカでのSAMの治療上の使用は、[ダイエタリー・サプリメントとしての人気を得て](../Page/サプリメント.md "wikilink")、とりわけ1994年の[栄養補助食品健康教育法](https://ja.wikipedia.org/wiki/栄養補助食品健康教育法 "wikilink")が制定された後に増加した。この法律はサプリメントとしてのSAMの販売を許可し、従って[アメリカ食品医薬品局](../Page/アメリカ食品医薬品局.md "wikilink")(FDA)の薬としての規制上の要件を回避した。
 
-まず、一連の証拠は、内因性のSAMの異常な低値は[アルツハイマー病](https://ja.wikipedia.org/wiki/アルツハイマー病 "wikilink")（AD）の進行に重要な役割を果たすかもしれないことを示唆し、したがってSAMはADの治療での治療可能性を秘めているかもしれない。しかしさらなる研究では、この影響はおそらく[ビタミンB12](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")欠乏に起因し、B12の非存在下で1炭素の転送を（[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")とともに）行うことができないことに起因する神経学的欠陥の結果であることを示した。SAMの深刻な低レベルは、[脳脊髄液](https://ja.wikipedia.org/wiki/脳脊髄液 "wikilink")\[6\]及び検査されたAD患者の全ての脳の部位で見つかった。\[7\]
+まず、一連の証拠は、内因性のSAMの異常な低値は[アルツハイマー病](https://ja.wikipedia.org/wiki/アルツハイマー病 "wikilink")（AD）の進行に重要な役割を果たすかもしれないことを示唆し、したがってSAMはADの治療での治療可能性を秘めているかもしれない。しかしさらなる研究では、この影響はおそらく[ビタミンB12](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")欠乏に起因し、B12の非存在下で1炭素の転送を（[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")とともに）行うことができないことに起因する神経学的欠陥の結果であることを示した。SAMの深刻な低レベルは、[脳脊髄液](../Page/脳脊髄液.md "wikilink")\[6\]及び検査されたAD患者の全ての脳の部位で見つかった。\[7\]
 
 SAMeは変性性関節炎の治療で研究されてきた。SAMeは変形性関節症に伴う痛みを軽減する。最適な服用量はまだ決定されていないが、SAMeでは非ステロイド抗炎症剤と同程度の効果が現れる。続く研究はこれらの研究結果を裏付ける理由となる。\[8\]
 
@@ -27,7 +27,7 @@ SAMeは変性性関節炎の治療で研究されてきた。SAMeは変形性関
 
 ### 経口形態
 
-経口のSAMは、腸溶性錠剤（400-1000ミリグラム）の摂取の3～5時間後にピーク血漿濃度に達する。半減期は約100分である。\[9\]変性性関節炎の治療に十分な効果に達するために、1か月までを必要とするかもしない\[10\]。構造不安定性のため、SAMの安定した塩形態は経口薬として使用するために必須である。メリーランド大学は一般に用いられる塩類を一覧にする:[トシル基](https://ja.wikipedia.org/wiki/トシル基 "wikilink")、[:en:butanedisulfonate](https://ja.wikipedia.org/wiki/:en:butanedisulfonate "wikilink")、[:en:disulfate tosylate](https://ja.wikipedia.org/wiki/:en:disulfate_tosylate "wikilink")、[:en:disulfate ditosylate](https://ja.wikipedia.org/wiki/:en:disulfate_ditosylate "wikilink")、そして[:en:disulfate monotosylate](https://ja.wikipedia.org/wiki/:en:disulfate_monotosylate "wikilink")。\[11\]
+経口のSAMは、腸溶性錠剤（400-1000ミリグラム）の摂取の3～5時間後にピーク血漿濃度に達する。半減期は約100分である。\[9\]変性性関節炎の治療に十分な効果に達するために、1か月までを必要とするかもしない\[10\]。構造不安定性のため、SAMの安定した塩形態は経口薬として使用するために必須である。メリーランド大学は一般に用いられる塩類を一覧にする:[トシル基](../Page/トシル基.md "wikilink")、[:en:butanedisulfonate](https://ja.wikipedia.org/wiki/:en:butanedisulfonate "wikilink")、[:en:disulfate tosylate](https://ja.wikipedia.org/wiki/:en:disulfate_tosylate "wikilink")、[:en:disulfate ditosylate](https://ja.wikipedia.org/wiki/:en:disulfate_ditosylate "wikilink")、そして[:en:disulfate monotosylate](https://ja.wikipedia.org/wiki/:en:disulfate_monotosylate "wikilink")。\[11\]
 
 2008年にFDAが義務付けた（GMPs）の到来で、製造業者はの自社製品のラベルに記載されているものを包含することを裏付ける必要がある。この目的を達成するかどうかは疑問視された。この検査は、適切に製造されパッケージされたSAMは、3年以上の品質保持期限を有することを示した:しかしながら、ほとんどの製造ラベルは2年間の品質保持期限である。
 
@@ -37,25 +37,25 @@ SAMのbutanedisulfonate塩が、より安定するか吸収されやすいとい
 
 SAMは空腹時に最も吸収される\[15\]。ホイルかホイルのブリスターパックでパッケージされたは、安定性を高め吸収性を向上させる。SAMは劣化を防ぐために涼しく乾燥した場所で保存すべきである。\[16\]
 
-治療的な投与量は400[ミリグラム](https://ja.wikipedia.org/wiki/ミリグラム "wikilink")/日から1600ミリグラム/日の範囲で、いくつかの事例ではより高容量が用いられた。\[17\]\[18\] [選択的セロトニン再取り込み阻害薬](https://ja.wikipedia.org/wiki/選択的セロトニン再取り込み阻害薬 "wikilink")(SSRI)に無反応の大うつ病性障害の患者73名に、[二重盲検](https://ja.wikipedia.org/wiki/二重盲検 "wikilink")の[ランダム化比較試験](https://ja.wikipedia.org/wiki/ランダム化比較試験 "wikilink")で、6週間にわたり抗うつ剤の処方に加え800ミリグラムのSAMを1日2回摂取したところ、応答率36.1%・寛解率25.8%と[偽薬](https://ja.wikipedia.org/wiki/偽薬 "wikilink")群に比較して有意な差が得られた。\[19\]メタアナリシスを含むいくつかの研究で、抗うつ薬とSAM単体の投与で応答率や効果の大きさがおよそ同等であることを示している。 一部の医師は、よくない副作用をもたらすことなく軽度のうつ病を治療するために、50～200ミリグラム/日の範囲の低用量を推奨する。\[20\]
+治療的な投与量は400[ミリグラム](https://ja.wikipedia.org/wiki/ミリグラム "wikilink")/日から1600ミリグラム/日の範囲で、いくつかの事例ではより高容量が用いられた。\[17\]\[18\] [選択的セロトニン再取り込み阻害薬](https://ja.wikipedia.org/wiki/選択的セロトニン再取り込み阻害薬 "wikilink")(SSRI)に無反応の大うつ病性障害の患者73名に、[二重盲検](https://ja.wikipedia.org/wiki/二重盲検 "wikilink")の[ランダム化比較試験](https://ja.wikipedia.org/wiki/ランダム化比較試験 "wikilink")で、6週間にわたり抗うつ剤の処方に加え800ミリグラムのSAMを1日2回摂取したところ、応答率36.1%・寛解率25.8%と[偽薬](../Page/偽薬.md "wikilink")群に比較して有意な差が得られた。\[19\]メタアナリシスを含むいくつかの研究で、抗うつ薬とSAM単体の投与で応答率や効果の大きさがおよそ同等であることを示している。 一部の医師は、よくない副作用をもたらすことなく軽度のうつ病を治療するために、50～200ミリグラム/日の範囲の低用量を推奨する。\[20\]
 
 ### 有害作用
 
-消化器疾患、および[不安](https://ja.wikipedia.org/wiki/不安 "wikilink")がSAMの摂取により生じる場合がある\[21\]。長期的な影響は不明である。SAMは弱いDNA[アルキル化](https://ja.wikipedia.org/wiki/アルキル化 "wikilink")剤である。\[22\]
+消化器疾患、および[不安](../Page/不安.md "wikilink")がSAMの摂取により生じる場合がある\[21\]。長期的な影響は不明である。SAMは弱いDNA[アルキル化](../Page/アルキル化.md "wikilink")剤である。\[22\]
 
 ### 起こり得る副作用
 
-一度SAMがコリンにメチル基を提供すると、クレアチン、カルニチン、DNA、転移リボ核酸、ノルアドレナリンおよび他の化合物の生成の際にS-アデノシル-ホモシステイン（SAH）に変換される。通常の状況の下では、[ホモシステイン](https://ja.wikipedia.org/wiki/ホモシステイン "wikilink")は[ビタミンB6](../Page/ビタミンB6.md "wikilink")、[ビタミンB12](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")、[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")（SAMの主な補因子）が存在する状態で、最終的にはメチオニン、SAM、またはシステイン、グルタチオン、その他の有用物質に変換されて出てくる。これらのビタミンが十分な量が存在しない場合、SAMはしっかりと分解しないことがある。結果として、十分な利益が得られず、またホモシステインが危険なレベルに増加する可能性がある。小さな研究はホモシステイン・レベル上のSAMの一貫した影響を示していないが、しかし、より多くの研究が必要である。\[23\]\[24\]
+一度SAMがコリンにメチル基を提供すると、クレアチン、カルニチン、DNA、転移リボ核酸、ノルアドレナリンおよび他の化合物の生成の際にS-アデノシル-ホモシステイン（SAH）に変換される。通常の状況の下では、[ホモシステイン](../Page/ホモシステイン.md "wikilink")は[ビタミンB6](../Page/ビタミンB6.md "wikilink")、[ビタミンB12](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")、[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")（SAMの主な補因子）が存在する状態で、最終的にはメチオニン、SAM、またはシステイン、グルタチオン、その他の有用物質に変換されて出てくる。これらのビタミンが十分な量が存在しない場合、SAMはしっかりと分解しないことがある。結果として、十分な利益が得られず、またホモシステインが危険なレベルに増加する可能性がある。小さな研究はホモシステイン・レベル上のSAMの一貫した影響を示していないが、しかし、より多くの研究が必要である。\[23\]\[24\]
 
-高レベルのホモシステインは[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")（動脈の硬化や狭窄）と結びついており、同様に心臓発作、脳卒中、肝臓の損傷、場合によりアルツハイマー病のリスクの増加させる。したがって、SAMと一緒にしばしばビタミンBサプリメントが飲まれる。これらのビタミンはホモシステインを他の有用な化合物へ代謝させるのを助ける。\[25\] SAMの副作用が[不眠症](https://ja.wikipedia.org/wiki/不眠症 "wikilink")であるという別の報告がある:したがってサプリメントは多くの場合午前中に飲まれる。\[26\]軽度の副作用の他の報告では、食欲不振、便秘、悪心、口渇、発汗、および不安・神経過敏を含んでいるが、これらの副作用はプラセボ比較試験でプラセボ群中でもおよそ同じ発生率で生じる。一部の利用者はわずか50ミリグラム/日で不安の増加を報告している。\[27\]
+高レベルのホモシステインは[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")（動脈の硬化や狭窄）と結びついており、同様に心臓発作、脳卒中、肝臓の損傷、場合によりアルツハイマー病のリスクの増加させる。したがって、SAMと一緒にしばしばビタミンBサプリメントが飲まれる。これらのビタミンはホモシステインを他の有用な化合物へ代謝させるのを助ける。\[25\] SAMの副作用が[不眠症](../Page/不眠症.md "wikilink")であるという別の報告がある:したがってサプリメントは多くの場合午前中に飲まれる。\[26\]軽度の副作用の他の報告では、食欲不振、便秘、悪心、口渇、発汗、および不安・神経過敏を含んでいるが、これらの副作用はプラセボ比較試験でプラセボ群中でもおよそ同じ発生率で生じる。一部の利用者はわずか50ミリグラム/日で不安の増加を報告している。\[27\]
 
 ### 躁病の誘導
 
-SAMに関する広範囲なMEDLINE検索で、ケーガンは非経口のSAMで治療された15の治療から1人の患者の[躁病](https://ja.wikipedia.org/wiki/躁病 "wikilink")の誘導を発見した。同じレビューで、リピンスキーは、双極性障害（計9のうつ病患者の調査であった）の2人の患者に躁病の明らかな誘導を発見した。\[28\]躁も鬱も、[寛解](https://ja.wikipedia.org/wiki/寛解 "wikilink")の後でさえも[せん妄](https://ja.wikipedia.org/wiki/せん妄 "wikilink")を引き起こす可能性があり、命にかかわる状態となりえる。\[29\] 抗うつ薬は概して、躁鬱病の人に躁病あるいは[軽躁病](https://ja.wikipedia.org/wiki/軽躁病 "wikilink")を誘発する懸念がある。\[30\]
+SAMに関する広範囲なMEDLINE検索で、ケーガンは非経口のSAMで治療された15の治療から1人の患者の[躁病](../Page/躁病.md "wikilink")の誘導を発見した。同じレビューで、リピンスキーは、双極性障害（計9のうつ病患者の調査であった）の2人の患者に躁病の明らかな誘導を発見した。\[28\]躁も鬱も、[寛解](https://ja.wikipedia.org/wiki/寛解 "wikilink")の後でさえも[せん妄](../Page/せん妄.md "wikilink")を引き起こす可能性があり、命にかかわる状態となりえる。\[29\] 抗うつ薬は概して、躁鬱病の人に躁病あるいは[軽躁病](https://ja.wikipedia.org/wiki/軽躁病 "wikilink")を誘発する懸念がある。\[30\]
 
 ### 相互作用および禁忌
 
-SAMは[インスリン抵抗性](https://ja.wikipedia.org/wiki/インスリン抵抗性 "wikilink")を減らす。\[31\]このことは[経口血糖降下薬](https://ja.wikipedia.org/wiki/経口血糖降下薬 "wikilink")と併用されたとき、[低血糖](https://ja.wikipedia.org/wiki/低血糖 "wikilink")につながる可能性がある。
+SAMは[インスリン抵抗性](../Page/インスリン抵抗性.md "wikilink")を減らす。\[31\]このことは[経口血糖降下薬](../Page/経口血糖降下薬.md "wikilink")と併用されたとき、[低血糖](https://ja.wikipedia.org/wiki/低血糖 "wikilink")につながる可能性がある。
 
 ## 関連項目
 

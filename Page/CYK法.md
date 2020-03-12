@@ -1,9 +1,9 @@
 > この記事は[CYK](https://ja.wikipedia.org/wiki/CYK)から翻訳されています。
 
 
-**CYK法**（）は、ある[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")が与えられた[文脈自由文法](../Page/文脈自由文法.md "wikilink")で生成できるかを決め、生成できる場合の生成方法を求める[アルゴリズム](../Page/アルゴリズム.md "wikilink")である。CYK は **Cocke-Younger-Kasami** の略（それぞれ、RISCの先駆と言われる[801などでも知られる](https://ja.wikipedia.org/wiki/IBM_801 "wikilink")[ジョン・コック](https://ja.wikipedia.org/wiki/ジョン・コック "wikilink")、Daniel Younger、[嵩忠雄](https://ja.wikipedia.org/wiki/嵩忠雄 "wikilink")である）。文脈自由文法の[構文解析](../Page/構文解析.md "wikilink")手法と捉えることもできる。このアルゴリズムは一種の[動的計画法](https://ja.wikipedia.org/wiki/動的計画法 "wikilink")である。
+**CYK法**（）は、ある[文字列](../Page/文字列.md "wikilink")が与えられた[文脈自由文法](../Page/文脈自由文法.md "wikilink")で生成できるかを決め、生成できる場合の生成方法を求める[アルゴリズム](../Page/アルゴリズム.md "wikilink")である。CYK は **Cocke-Younger-Kasami** の略（それぞれ、RISCの先駆と言われる[801などでも知られる](../Page/IBM_801.md "wikilink")[ジョン・コック](../Page/ジョン・コック.md "wikilink")、Daniel Younger、[嵩忠雄](https://ja.wikipedia.org/wiki/嵩忠雄 "wikilink")である）。文脈自由文法の[構文解析](../Page/構文解析.md "wikilink")手法と捉えることもできる。このアルゴリズムは一種の[動的計画法](../Page/動的計画法.md "wikilink")である。
 
-標準的なCYK法は、[チョムスキー標準形](https://ja.wikipedia.org/wiki/チョムスキー標準形 "wikilink")で書かれた文脈自由文法で定義される言語を認識する。任意の文脈自由文法をチョムスキー標準形に書き換えるのはそれほど困難ではないので、CYK法は任意の文脈自由文法の認識に使うことができる。CYK法を拡張してチョムスキー標準形で書かれていない文脈自由文法を扱うようにすることも可能である。これにより性能は向上するが、アルゴリズムを理解することは難しくなる。
+標準的なCYK法は、[チョムスキー標準形](../Page/チョムスキー標準形.md "wikilink")で書かれた文脈自由文法で定義される言語を認識する。任意の文脈自由文法をチョムスキー標準形に書き換えるのはそれほど困難ではないので、CYK法は任意の文脈自由文法の認識に使うことができる。CYK法を拡張してチョムスキー標準形で書かれていない文脈自由文法を扱うようにすることも可能である。これにより性能は向上するが、アルゴリズムを理解することは難しくなる。
 
 CYK法の最悪時間計算量は [Θ](../Page/ランダウの記号.md "wikilink")(n<sup>3</sup>) であり、*n* は解析対象の文字列の長さである。従って、CYK法は任意の文脈自由言語を認識できる最も効率的なアルゴリズムの1つである。ただし、文脈自由言語の特定のサブセットについて、より効率の良いアルゴリズムが他に存在する。
 
@@ -49,17 +49,17 @@ CYK テーブル
 
 このアルゴリズムを、文が言語に含まれるかどうかを決定するだけでなく、[構文木](https://ja.wikipedia.org/wiki/構文木 "wikilink")を構築するよう拡張するには、構文木のノードをブーリアンの代わりに配列の要素として格納すればよい。認識しようとする文法は曖昧な場合があるので、ノードのリストを格納する必要がある（可能な解釈からひとつだけ選べばよい場合はその限りではない）。従って、結果として複数の構文木が得られる。別の方式としては、*backpointers* と呼ばれる第二のテーブル B\[n,n,r\] を使う方式もある。
 
-[加重文脈自由文法](https://ja.wikipedia.org/wiki/加重文脈自由文法 "wikilink")や[確率文脈自由文法](https://ja.wikipedia.org/wiki/確率文脈自由文法 "wikilink")を使って文字列の構文解析をするよう拡張することも可能である。この場合、加重や確率はテーブル P にブーリアンの代わりに格納される。すなわち、P\[i,j,A\] は i から長さ j の並びが A から生成される最小加重（または最大確率）を格納する。さらにアルゴリズムを拡張すれば、あらゆる加重（確率）の構文木を列挙できる。
+[加重文脈自由文法](https://ja.wikipedia.org/wiki/加重文脈自由文法 "wikilink")や[確率文脈自由文法](../Page/確率文脈自由文法.md "wikilink")を使って文字列の構文解析をするよう拡張することも可能である。この場合、加重や確率はテーブル P にブーリアンの代わりに格納される。すなわち、P\[i,j,A\] は i から長さ j の並びが A から生成される最小加重（または最大確率）を格納する。さらにアルゴリズムを拡張すれば、あらゆる加重（確率）の構文木を列挙できる。
 
 ## 関連項目
 
-  - [チャートパーサ](https://ja.wikipedia.org/wiki/チャートパーサ "wikilink") - [アーリー法](https://ja.wikipedia.org/wiki/アーリー法 "wikilink")
+  - [チャートパーサ](https://ja.wikipedia.org/wiki/チャートパーサ "wikilink") - [アーリー法](../Page/アーリー法.md "wikilink")
   - [GLR法](../Page/GLR法.md "wikilink")
   - [パックラット構文解析](https://ja.wikipedia.org/wiki/パックラット構文解析 "wikilink")
 
 ## 参考文献
 
-  - [John Cocke](https://ja.wikipedia.org/wiki/ジョン・コック "wikilink") and Jacob T. Schwartz (1970). Programming languages and their compilers: Preliminary notes. Technical report, Courant Institute of Mathematical Sciences, New York University.
+  - [John Cocke](../Page/ジョン・コック.md "wikilink") and Jacob T. Schwartz (1970). Programming languages and their compilers: Preliminary notes. Technical report, Courant Institute of Mathematical Sciences, New York University.
   - T. Kasami (1965). An efficient recognition and syntax-analysis algorithm for context-free languages. Scientific report AFCRL-65-758, Air Force Cambridge Research Lab, Bedford, MA.
   - Daniel H. Younger (1967). Recognition and parsing of context-free languages in time *n*<sup>3</sup>. *Information and Control* 10(2): 189–208.
 

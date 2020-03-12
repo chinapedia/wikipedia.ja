@@ -1,7 +1,7 @@
 > この記事は[SSX TRICKY](https://ja.wikipedia.org/wiki/SSX_TRICKY)から翻訳されています。
 
 
-『**SSX TRICKY**』は、[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")より発売された[スノーボード](../Page/スノーボード.md "wikilink")アクションゲーム。
+『**SSX TRICKY**』は、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")より発売された[スノーボード](../Page/スノーボード.md "wikilink")アクションゲーム。
 
 ## 概要
 
@@ -29,7 +29,7 @@
 
 ## 主題歌
 
-  - It’s tricky/[Run-D.M.C.](https://ja.wikipedia.org/wiki/Run-D.M.C. "wikilink")
+  - It’s tricky/[Run-D.M.C.](../Page/Run-D.M.C..md "wikilink")
 
 ## コース
 

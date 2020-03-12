@@ -1,17 +1,17 @@
 > この記事は[AKATSUKI project](https://ja.wikipedia.org/wiki/AKATSUKI_project)から翻訳されています。
 
 
-**AKATSUKI project**（アカツキプロジェクト）は[声優](../Page/声優.md "wikilink")・[瀬水暁](../Page/瀬水暁.md "wikilink")が主宰する[劇団](https://ja.wikipedia.org/wiki/劇団 "wikilink")・エンターテインメントユニット
+**AKATSUKI project**（アカツキプロジェクト）は[声優](../Page/声優.md "wikilink")・[瀬水暁](../Page/瀬水暁.md "wikilink")が主宰する[劇団](../Page/劇団.md "wikilink")・エンターテインメントユニット
 
 舞台公演だけでなく、ボイスドラマや映像作品など、表現の分野の中で幅広い活動を行っている。
 
 ## 沿革
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[声優](../Page/声優.md "wikilink")の[瀬水暁](../Page/瀬水暁.md "wikilink")が、[田中まりか](https://ja.wikipedia.org/wiki/田中まりか "wikilink")らとともに結成。
+[2005年](../Page/2005年.md "wikilink")、[声優](../Page/声優.md "wikilink")の[瀬水暁](../Page/瀬水暁.md "wikilink")が、[田中まりか](https://ja.wikipedia.org/wiki/田中まりか "wikilink")らとともに結成。
 
 同年8月に、1st IMPACT『ときどきスタッカート♪』、12月に、2nd IMPACT『\*恋華\*』を行う。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月には公式サイト上でwebラジオ『もうすぐ夜明け\!AKATSUKI radio\!』を配信開始。
+[2006年](../Page/2006年.md "wikilink")10月には公式サイト上でwebラジオ『もうすぐ夜明け\!AKATSUKI radio\!』を配信開始。
 
 同年12月に、3rd IMPACT『夜明けの晩に…』を行う。
 
@@ -21,7 +21,7 @@
 
 同年12月から公式サイト上でwebラジオ『AKATSUKI wave\!』を配信開始。
 
-同年12月に[田中まりか](https://ja.wikipedia.org/wiki/田中まりか "wikilink")、[白土麻子](https://ja.wikipedia.org/wiki/白土麻子 "wikilink")、[紺野なる](https://ja.wikipedia.org/wiki/紺野なる "wikilink")の3人による[声優](../Page/声優.md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")『[あっぷあっぷ](https://ja.wikipedia.org/wiki/あっぷあっぷ "wikilink")』が活動を開始。
+同年12月に[田中まりか](https://ja.wikipedia.org/wiki/田中まりか "wikilink")、[白土麻子](https://ja.wikipedia.org/wiki/白土麻子 "wikilink")、[紺野なる](https://ja.wikipedia.org/wiki/紺野なる "wikilink")の3人による[声優](../Page/声優.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")『[あっぷあっぷ](https://ja.wikipedia.org/wiki/あっぷあっぷ "wikilink")』が活動を開始。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月に[新宿](../Page/新宿.md "wikilink")にてAKATSUKI projectぷろでゅーす「がちゃがちゃBar　UpUp↑」がオープン。
 
@@ -113,22 +113,22 @@
 
 ## 公演に出演経験のある声優
 
-  - [柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
-  - [中尾良平](https://ja.wikipedia.org/wiki/中尾良平 "wikilink")
+  - [柴田秀勝](../Page/柴田秀勝.md "wikilink")
+  - [中尾良平](../Page/中尾良平.md "wikilink")
   - [小林美奈](https://ja.wikipedia.org/wiki/小林美奈 "wikilink")
-  - [宮澤正](https://ja.wikipedia.org/wiki/宮澤正 "wikilink")
-  - [吉田真弓](https://ja.wikipedia.org/wiki/吉田真弓_\(声優\) "wikilink")
+  - [宮澤正](../Page/宮澤正.md "wikilink")
+  - [吉田真弓](../Page/吉田真弓_\(声優\).md "wikilink")
   - [若本規夫](../Page/若本規夫.md "wikilink")
 
 ## 関連項目
 
   - [RME](../Page/RME.md "wikilink")
-  - [青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")
+  - [青二プロダクション](../Page/青二プロダクション.md "wikilink")
   - [ぷろだくしょんバオバブ](../Page/ぷろだくしょんバオバブ.md "wikilink")
-  - [ケッケコーポレーション](https://ja.wikipedia.org/wiki/ケッケコーポレーション "wikilink")
+  - [ケッケコーポレーション](../Page/ケッケコーポレーション.md "wikilink")
   - [アイムエンタープライズ](../Page/アイムエンタープライズ.md "wikilink")
-  - [シグマ・セブン](https://ja.wikipedia.org/wiki/シグマ・セブン "wikilink")
-  - [プロダクション・エース](https://ja.wikipedia.org/wiki/プロダクション・エース "wikilink")
+  - [シグマ・セブン](../Page/シグマ・セブン.md "wikilink")
+  - [プロダクション・エース](../Page/プロダクション・エース.md "wikilink")
   - [あっぷあっぷ](https://ja.wikipedia.org/wiki/あっぷあっぷ "wikilink")
 
 ## 外部リンク

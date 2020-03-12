@@ -44,7 +44,7 @@
   - 山口陽太郎
     DF（左サイドバック）。背番号6。茂木と同学年。小学生時代の茂木の友人。ロベルト・カルロスのようなFKを蹴れる選手。周囲から孤立しているカルロスのたった一人の友人。
   - カルロス
-    FW。背番号10。ブラジル出身。フォーリャセッカという大きく変化するシュートや、[エラシコ](https://ja.wikipedia.org/wiki/エラシコ "wikilink")や[ラボーナ](https://ja.wikipedia.org/wiki/ラボーナ "wikilink")といった難易度の高いテクニックも操れる選手。ブラジル時代の経験から人間不信に陥り、不遜かつ敵対的な性格になるが、同じチームの陽太郎とだけは仲が良い（カルロスも陽太郎に対しては友情を抱いている）。
+    FW。背番号10。ブラジル出身。フォーリャセッカという大きく変化するシュートや、[エラシコ](https://ja.wikipedia.org/wiki/エラシコ "wikilink")や[ラボーナ](../Page/ラボーナ.md "wikilink")といった難易度の高いテクニックも操れる選手。ブラジル時代の経験から人間不信に陥り、不遜かつ敵対的な性格になるが、同じチームの陽太郎とだけは仲が良い（カルロスも陽太郎に対しては友情を抱いている）。
 
 #### 神武
 
@@ -82,6 +82,6 @@
 
 ## 関連項目
 
-  - [八咫烏](https://ja.wikipedia.org/wiki/八咫烏 "wikilink")
+  - [八咫烏](../Page/八咫烏.md "wikilink")
 
 [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:漫画作品_や](https://ja.wikipedia.org/wiki/Category:漫画作品_や "wikilink") [Category:月刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年マガジンの漫画作品 "wikilink")

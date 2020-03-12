@@ -1,15 +1,15 @@
 > この記事は[Au DOWNLOAD MUSIC CHART](https://ja.wikipedia.org/wiki/Au_DOWNLOAD_MUSIC_CHART)から翻訳されています。
 
 
-『**au DOWNLOAD MUSIC CHART**』（エーユーダウンロードミュージックチャート）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")まで毎週日曜日に[JFN系列](../Page/全国FM放送協議会.md "wikilink")37局で放送していた音楽チャート番組。提供は[KDDI](../Page/KDDI.md "wikilink")の一社。パーソナリティは[杉崎美香](https://ja.wikipedia.org/wiki/杉崎美香 "wikilink")。
+『**au DOWNLOAD MUSIC CHART**』（エーユーダウンロードミュージックチャート）は、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")まで毎週日曜日に[JFN系列](../Page/全国FM放送協議会.md "wikilink")37局で放送していた音楽チャート番組。提供は[KDDI](../Page/KDDI.md "wikilink")の一社。パーソナリティは[杉崎美香](https://ja.wikipedia.org/wiki/杉崎美香 "wikilink")。
 
 ## 番組概要
 
-この番組では各コンテンツプロバイダー（[auなどの](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")[着うた](../Page/着うた.md "wikilink")および[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")に限らず、パソコンの[音楽配信](../Page/音楽配信.md "wikilink")も含まれる）のダウンロードチャートと番組リスナーからのリクエストを加えた番組独自の集計で「今聞きたい、持ち歩きたい\!」曲をコンセプトに放送してきた。
+この番組では各コンテンツプロバイダー（[auなどの](../Page/Au_\(携帯電話\).md "wikilink")[着うた](../Page/着うた.md "wikilink")および[着うたフル](../Page/着うたフル.md "wikilink")に限らず、パソコンの[音楽配信](../Page/音楽配信.md "wikilink")も含まれる）のダウンロードチャートと番組リスナーからのリクエストを加えた番組独自の集計で「今聞きたい、持ち歩きたい\!」曲をコンセプトに放送してきた。
 
-また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")にJFN系列で放送された「[SUPER GRAND COUNTDOWN 2005](https://ja.wikipedia.org/wiki/カウントダウンステーション#SUPER_GRAND_COUNTDOWN "wikilink")」の中で16時 - 17時50分に番組の年間チャートを発表。通常ネットされていない[レディオキューブ FM三重へもネットされた](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")。以後毎年「SUPER GRAND COUNTDOWN」で年間チャートを放送するようになる。
+また、[2005年](../Page/2005年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")にJFN系列で放送された「[SUPER GRAND COUNTDOWN 2005](https://ja.wikipedia.org/wiki/カウントダウンステーション#SUPER_GRAND_COUNTDOWN "wikilink")」の中で16時 - 17時50分に番組の年間チャートを発表。通常ネットされていない[レディオキューブ FM三重へもネットされた](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")。以後毎年「SUPER GRAND COUNTDOWN」で年間チャートを放送するようになる。
 
-開始当初は前身の「[KDDI PRIME TIME RADIO](https://ja.wikipedia.org/wiki/KDDI_PRIME_TIME_RADIO "wikilink")」を引き継いだ12時 - 13時20分の放送で、[FMぐんまでは](../Page/エフエム群馬.md "wikilink")12時59分に[飛び降りたため](https://ja.wikipedia.org/wiki/飛び降り_\(放送\) "wikilink")（12時59分頃に独自に提供クレジットを入れて終了）、トップ3が聞けなかったが、2006年4月から番組自体が12時 - 12時55分に放送時間が短縮されたため、FMぐんまでも全編聴けるようになった。
+開始当初は前身の「[KDDI PRIME TIME RADIO](../Page/KDDI_PRIME_TIME_RADIO.md "wikilink")」を引き継いだ12時 - 13時20分の放送で、[FMぐんまでは](../Page/エフエム群馬.md "wikilink")12時59分に[飛び降りたため](https://ja.wikipedia.org/wiki/飛び降り_\(放送\) "wikilink")（12時59分頃に独自に提供クレジットを入れて終了）、トップ3が聞けなかったが、2006年4月から番組自体が12時 - 12時55分に放送時間が短縮されたため、FMぐんまでも全編聴けるようになった。
 
 放送は基本的に[東京](../Page/東京.md "wikilink")・[渋谷](../Page/渋谷.md "wikilink")の[スペイン坂](../Page/スペイン坂.md "wikilink")スタジオからだが、月1回[原宿](../Page/原宿.md "wikilink")にあるKDDIデザイニングスタジオから放送してきた。年末の「[SUPER GRAND COUNTDOWN](https://ja.wikipedia.org/wiki/カウントダウンステーション#SUPER_GRAND_COUNTDOWN "wikilink")」の場合はTOKYO FM本社からの放送となった。
 
@@ -17,8 +17,8 @@
 
 ## DJ
 
-  - [ANNA](https://ja.wikipedia.org/wiki/ANNA "wikilink")：2005年4月 - 2006年12月、2007年4月 - 2008年3月
-  - [江藤麻由](https://ja.wikipedia.org/wiki/江藤麻由 "wikilink")：2007年1 - 3月（ANNAの産休代行）
+  - [ANNA](../Page/ANNA.md "wikilink")：2005年4月 - 2006年12月、2007年4月 - 2008年3月
+  - [江藤麻由](../Page/江藤麻由.md "wikilink")：2007年1 - 3月（ANNAの産休代行）
   - [杉崎美香](https://ja.wikipedia.org/wiki/杉崎美香 "wikilink")：2008年4月 - 9月
 
 ## コーナー
@@ -31,12 +31,12 @@
 
 ## 年間ダウンロードチャート第1位獲得曲
 
-| 年度                                                       | 曲名                                                                             | 歌手名                                                                                                                   |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")  | [Dreamland](https://ja.wikipedia.org/wiki/Dreamland_\(BENNIE_Kの曲\) "wikilink") | [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")                                                         |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")  | [A Perfect Sky](../Page/A_Perfect_Sky.md "wikilink")                           | [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")                                                   |
-| [2007年](../Page/2007年.md "wikilink")                     | [愛唄](../Page/愛唄.md "wikilink")                                                 | [GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")                                                           |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")※ | [そばにいるね](../Page/そばにいるね_\(青山テルマの曲\).md "wikilink")                             | [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")feat.[Soulja](https://ja.wikipedia.org/wiki/Soulja "wikilink") |
+| 年度                                                       | 曲名                                                          | 歌手名                                                                                                                   |
+| -------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [2005年](../Page/2005年.md "wikilink")                     | [Dreamland](../Page/Dreamland_\(BENNIE_Kの曲\).md "wikilink") | [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")                                                         |
+| [2006年](../Page/2006年.md "wikilink")                     | [A Perfect Sky](../Page/A_Perfect_Sky.md "wikilink")        | [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")                                                   |
+| [2007年](../Page/2007年.md "wikilink")                     | [愛唄](../Page/愛唄.md "wikilink")                              | [GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")                                                           |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")※ | [そばにいるね](../Page/そばにいるね_\(青山テルマの曲\).md "wikilink")          | [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")feat.[Soulja](https://ja.wikipedia.org/wiki/Soulja "wikilink") |
 
 ※注 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は次番組「[au ONAIR MUSIC CHART](https://ja.wikipedia.org/wiki/au_ONAIR_MUSIC_CHART "wikilink")」（[10月5日](../Page/10月5日.md "wikilink") - ）に引継ぎのため[同番組の年間ランキングに加算](https://ja.wikipedia.org/wiki/au_ONAIR_MUSIC_CHART#年間ビビッと!ランキング第1位獲得曲 "wikilink")。
 
@@ -68,7 +68,7 @@
 
   - [RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")
   - [FMぐんま](../Page/エフエム群馬.md "wikilink")
-  - [FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")
+  - [FM長野](../Page/長野エフエム放送.md "wikilink")
 
 <!-- end list -->
 
@@ -76,10 +76,10 @@
 
 <!-- end list -->
 
-  - [FM-NIIGATA](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")
+  - [FM-NIIGATA](../Page/エフエムラジオ新潟.md "wikilink")
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink")
   - [HELLO FIVE](../Page/エフエム石川.md "wikilink")
-  - [FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink")
+  - [FM福井](../Page/福井エフエム放送.md "wikilink")
 
 <!-- end list -->
 

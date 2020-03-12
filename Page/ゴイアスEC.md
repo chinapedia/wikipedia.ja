@@ -1,11 +1,11 @@
 > この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
 
 
-**ゴイアスEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ゴイアス州](https://ja.wikipedia.org/wiki/ゴイアス州 "wikilink")[ゴイアニア](https://ja.wikipedia.org/wiki/ゴイアニア "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**ゴイアスEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ゴイアス州](../Page/ゴイアス州.md "wikilink")[ゴイアニア](../Page/ゴイアニア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
-[1943年](../Page/1943年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")創設\[1\]。1973年に初めて[ブラジル全国選手権セリエAに昇格した](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ "wikilink")。2005年の全国選手権セリエAをクラブ史上最高順位の3位で終え、2006年は[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")に初出場した。
+[1943年](../Page/1943年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")創設\[1\]。1973年に初めて[ブラジル全国選手権セリエAに昇格した](../Page/カンピオナート・ブラジレイロ.md "wikilink")。2005年の全国選手権セリエAをクラブ史上最高順位の3位で終え、2006年は[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")に初出場した。
 
 [ゴイアス州選手権では最多](https://ja.wikipedia.org/wiki/カンピオナート・ゴイアーノ "wikilink")26回\[2\]の優勝回数を誇る。
 
@@ -57,19 +57,19 @@
 
 ## 歴代所属選手
 
-### [GK](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")
+### [GK](../Page/ゴールキーパー_\(サッカー\).md "wikilink")
 
   - [レナン](https://ja.wikipedia.org/wiki/レナン・ブリト・ソアレス "wikilink") 2013-
 
 ### [DF](../Page/ディフェンダー_\(サッカー\).md "wikilink")
 
-  - [アウグスト](https://ja.wikipedia.org/wiki/アウグスト・ペドロ・デ・ソウザ "wikilink") 1992-1996
+  - [アウグスト](../Page/アウグスト・ペドロ・デ・ソウザ.md "wikilink") 1992-1996
 
   - [アンドレ・クルス](https://ja.wikipedia.org/wiki/アンドレ・クルス "wikilink") 2002-2003, 2004
 
 ### [MF](../Page/ミッドフィールダー.md "wikilink")
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
 ## 脚注
 

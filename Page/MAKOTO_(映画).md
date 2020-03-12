@@ -1,11 +1,11 @@
 > この記事は[MAKOTO \(\)](https://ja.wikipedia.org/wiki/MAKOTO_\(\))から翻訳されています。
 
 
-『**MAKOTO**』（まこと）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[日本映画](../Page/日本映画.md "wikilink")で、[郷田マモラ](../Page/郷田マモラ.md "wikilink")による同名の漫画『[MAKOTO](https://ja.wikipedia.org/wiki/MAKOTO "wikilink")』の映画化作品。ジャンルは[オカルト](../Page/オカルト.md "wikilink")・[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")。
+『**MAKOTO**』（まこと）は、[2005年](../Page/2005年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")で、[郷田マモラ](../Page/郷田マモラ.md "wikilink")による同名の漫画『[MAKOTO](https://ja.wikipedia.org/wiki/MAKOTO "wikilink")』の映画化作品。ジャンルは[オカルト](../Page/オカルト.md "wikilink")・[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")。
 
-また、『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』シリーズなどで有名な人気脚本家・[君塚良一](https://ja.wikipedia.org/wiki/君塚良一 "wikilink")の初監督作品である。
+また、『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』シリーズなどで有名な人気脚本家・[君塚良一](../Page/君塚良一.md "wikilink")の初監督作品である。
 
-上映時間115分。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")日本公開。配給は[松竹](../Page/松竹.md "wikilink")。DVD 「MAKOTO」[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")。
+上映時間115分。[2005年](../Page/2005年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")日本公開。配給は[松竹](../Page/松竹.md "wikilink")。DVD 「MAKOTO」[2005年](../Page/2005年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。[バップ](../Page/バップ.md "wikilink")。
 
 ## ストーリー
 
@@ -21,15 +21,15 @@
   - 撮影：[林淳一郎](https://ja.wikipedia.org/wiki/林淳一郎 "wikilink")
   - 編集：[菊池純一](https://ja.wikipedia.org/wiki/菊池純一_\(編集技師\) "wikilink")
   - 音楽：[川井憲次](../Page/川井憲次.md "wikilink")、[河口恭吾](../Page/河口恭吾.md "wikilink")
-  - プロデューサー：[水田伸生](https://ja.wikipedia.org/wiki/水田伸生 "wikilink")、下田淳行
+  - プロデューサー：[水田伸生](../Page/水田伸生.md "wikilink")、下田淳行
   - 制作協力：ツインズジャパン
   - 配給：[松竹](../Page/松竹.md "wikilink")
-  - 製作：『MAKOTO』[製作委員会](../Page/製作委員会方式.md "wikilink")（[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")、[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")、[日本出版販売](https://ja.wikipedia.org/wiki/日本出版販売 "wikilink")、[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")、[カルチュア・パブリッシャーズ](https://ja.wikipedia.org/wiki/カルチュア・パブリッシャーズ "wikilink")、松竹、ツインズジャパン）
+  - 製作：『MAKOTO』[製作委員会](../Page/製作委員会方式.md "wikilink")（[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")、[バップ](../Page/バップ.md "wikilink")、[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")、[日本出版販売](../Page/日本出版販売.md "wikilink")、[ぴあ](../Page/ぴあ.md "wikilink")、[カルチュア・パブリッシャーズ](https://ja.wikipedia.org/wiki/カルチュア・パブリッシャーズ "wikilink")、松竹、ツインズジャパン）
 
 ## キャスト
 
   - 白川真言：[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")
-  - 白川絵梨：[和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")
+  - 白川絵梨：[和久井映見](../Page/和久井映見.md "wikilink")
   - 四条優：[哀川翔](../Page/哀川翔.md "wikilink")
   - 中江桃子：[室井滋](https://ja.wikipedia.org/wiki/室井滋 "wikilink")
   - 坂下久美：[ベッキー](../Page/ベッキー.md "wikilink")
@@ -37,8 +37,8 @@
   - 橋本の妹：[三輪ひとみ](../Page/三輪ひとみ.md "wikilink")
   - 高見の妻：[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")
   - 野田泉：[河合美智子](https://ja.wikipedia.org/wiki/河合美智子 "wikilink")
-  - 村山純一：[佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
-  - 桂田文江：[中島啓江](https://ja.wikipedia.org/wiki/中島啓江 "wikilink")
+  - 村山純一：[佐野史郎](../Page/佐野史郎.md "wikilink")
+  - 桂田文江：[中島啓江](../Page/中島啓江.md "wikilink")
   - ギャラリーオーナー：[小堺一機](../Page/小堺一機.md "wikilink")
   - 高見耕一：[武田鉄矢](../Page/武田鉄矢.md "wikilink")
 

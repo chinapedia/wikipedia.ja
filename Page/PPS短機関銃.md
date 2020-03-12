@@ -7,15 +7,15 @@
 
 ## 開発
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")当時、[ソ連軍では](../Page/赤軍.md "wikilink")[PPSh-41](https://ja.wikipedia.org/wiki/PPSh-41 "wikilink")短機関銃を採用して大量配備を開始していた。だがPPShに不満がなかったわけではなく、偵察兵や戦車兵、工兵や通信兵などから重量や携帯性の面から使いづらいと批判があり、また、軍当局もPPSh-41の生産が軌道に乗ると、やや材料を浪費していると考えるようになる\[1\]。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")当時、[ソ連軍では](../Page/赤軍.md "wikilink")[PPSh-41](../Page/PPSh-41.md "wikilink")短機関銃を採用して大量配備を開始していた。だがPPShに不満がなかったわけではなく、偵察兵や戦車兵、工兵や通信兵などから重量や携帯性の面から使いづらいと批判があり、また、軍当局もPPSh-41の生産が軌道に乗ると、やや材料を浪費していると考えるようになる\[1\]。
 
 [1942年](../Page/1942年.md "wikilink")、軍当局は、あらゆる悪条件下で使用可能で、PPSh-41よりコンパクトで扱いやすく、銃重量2.5 - 3kg、厚さ2 - 3.3mmの鋼板の[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")によって製造可能で、高炭素鋼を使用しない短機関銃の開発を要求する\[2\]。
 
-この要求に対し、[アレクセイ・スダエフ](https://ja.wikipedia.org/wiki/アレクセイ・スダエフ "wikilink")、[ゲオルギー・シュパーギン](https://ja.wikipedia.org/wiki/ゲオルギー・シュパーギン "wikilink")、[ヴァシーリー・デグチャリョーフ](https://ja.wikipedia.org/wiki/ヴァシーリー・デグチャレフ "wikilink")、コロビン、ルカヴィシュニコフら銃技師は、それぞれデザインを提出し1942年の初めにテストが行われた。最初の試験では折り畳み式[銃床](https://ja.wikipedia.org/wiki/銃床 "wikilink")を持ったデグチャレフの設計は評価されたものの、実射テストで通過したものはなかった。第2試験でスダエフの設計案が優れていると判断され、採用となった\[3\]。これがPPS（後のPPS-42）である。
+この要求に対し、[アレクセイ・スダエフ](https://ja.wikipedia.org/wiki/アレクセイ・スダエフ "wikilink")、[ゲオルギー・シュパーギン](https://ja.wikipedia.org/wiki/ゲオルギー・シュパーギン "wikilink")、[ヴァシーリー・デグチャリョーフ](https://ja.wikipedia.org/wiki/ヴァシーリー・デグチャレフ "wikilink")、コロビン、ルカヴィシュニコフら銃技師は、それぞれデザインを提出し1942年の初めにテストが行われた。最初の試験では折り畳み式[銃床](../Page/銃床.md "wikilink")を持ったデグチャレフの設計は評価されたものの、実射テストで通過したものはなかった。第2試験でスダエフの設計案が優れていると判断され、採用となった\[3\]。これがPPS（後のPPS-42）である。
 
 ## PPS-42
 
-PPS-42は、PPSとしては初期に生産された短機関銃である。[シンプル・ブローバック方式を採用し](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")、[オープン・ボルトから撃発サイクルがスタートする](https://ja.wikipedia.org/wiki/:en:open_bolt "wikilink")。スダエフは[PPSh-41](https://ja.wikipedia.org/wiki/PPSh-41 "wikilink")の問題点とされた携行性を改善し、PPSをスマートな外見の優れた製品に仕上げている。
+PPS-42は、PPSとしては初期に生産された短機関銃である。[シンプル・ブローバック方式を採用し](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")、[オープン・ボルトから撃発サイクルがスタートする](https://ja.wikipedia.org/wiki/:en:open_bolt "wikilink")。スダエフは[PPSh-41](../Page/PPSh-41.md "wikilink")の問題点とされた携行性を改善し、PPSをスマートな外見の優れた製品に仕上げている。
 
 PPSh-41と同様にヒンジ固定された上下2分割のレシーバ（機関部）を持ち、上部レシーバは銃身放熱カバーと一体となっている。銃身放熱カバーは銃身を囲み、空気抜きの丸穴が設けられているが、銃身の下側だけは覆われておらず開放されている。銃身放熱カバーの先端には板曲げ加工で成形された[マズルブレーキ](../Page/マズルブレーキ.md "wikilink")が取り付けられ、その作用方向は前方となっている。レシーバの全長を長く取る事で連射レートをPPSh-41の900 - 1000発/分から、700発/分まで抑制しており、命中精度が高まったうえ、弾薬節約にもなった。
 
@@ -45,15 +45,15 @@ PPS-43は、[1943年](../Page/1943年.md "wikilink")にソ連軍が採用したP
 
 レニングラード（現・[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")のヨーロッパにおける[独ソ戦](../Page/独ソ戦.md "wikilink")において最大規模の包囲戦がおこなわれた都市である。独ソ戦開始後、進撃を続けてきたドイツ軍は[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にこの都市を包囲した。
 
-市街地は[ドイツ軍に完全に包囲され](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")、外部からの補給も困難となったソ連軍守備隊は、町にある兵器工場をフル活用し、現地にて小火器の生産を行うことにより火器の不足を解決しようとした。
+市街地は[ドイツ軍に完全に包囲され](../Page/ドイツ国防軍.md "wikilink")、外部からの補給も困難となったソ連軍守備隊は、町にある兵器工場をフル活用し、現地にて小火器の生産を行うことにより火器の不足を解決しようとした。
 
 PPS-42は、1942年7月にレニングラード造兵廠で生産を開始し、135000丁が造られ、国家防衛委員会にサンプルが提出された。当初は生産手段の関係上、レニングラード造兵廠での生産で、スダエフ自身が製造管理していたが、後にヴォスコフ器具工場（セストレック）で、生産工程が整備され、1942年12月に、同工場で大量生産され、レニングラードの守備隊に支給された\[7\]。
 
-軽く頑丈で扱いやすいPPS-42は現地の守備隊に歓迎され、[レニングラード包囲戦](https://ja.wikipedia.org/wiki/レニングラード包囲戦 "wikilink")がソ連の勝利に終わると、PPSは愛国キャンペーンの格好の素材として使われた。
+軽く頑丈で扱いやすいPPS-42は現地の守備隊に歓迎され、[レニングラード包囲戦](../Page/レニングラード包囲戦.md "wikilink")がソ連の勝利に終わると、PPSは愛国キャンペーンの格好の素材として使われた。
 
-[1943年](../Page/1943年.md "wikilink")にはPPS-42の改良型であるPPS-43がソ連軍に採用された。だが、既にPPSh-41が戦線に大量配備されていたことから、大量に生産・配備されることは無かった。1945年までに、100万丁近く生産された。主にコマンド部隊、戦車兵、偵察兵、スキー部隊と[パルチザン](https://ja.wikipedia.org/wiki/パルチザン "wikilink")等で使用された。5分教えれば使いこなせ、その性能により、兵からは好評であった\[8\]。
+[1943年](../Page/1943年.md "wikilink")にはPPS-42の改良型であるPPS-43がソ連軍に採用された。だが、既にPPSh-41が戦線に大量配備されていたことから、大量に生産・配備されることは無かった。1945年までに、100万丁近く生産された。主にコマンド部隊、戦車兵、偵察兵、スキー部隊と[パルチザン](../Page/パルチザン.md "wikilink")等で使用された。5分教えれば使いこなせ、その性能により、兵からは好評であった\[8\]。
 
-戦後、[AK-47](../Page/AK-47.md "wikilink")の採用で退役したPPS-43は[東側諸国](https://ja.wikipedia.org/wiki/東側諸国 "wikilink")に供給されたほか、[中国やフィンランドでもPPS](../Page/中華人民共和国.md "wikilink")-43のコピーが生産された。
+戦後、[AK-47](../Page/AK-47.md "wikilink")の採用で退役したPPS-43は[東側諸国](../Page/東側諸国.md "wikilink")に供給されたほか、[中国やフィンランドでもPPS](../Page/中華人民共和国.md "wikilink")-43のコピーが生産された。
 
 [朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")では[サプレッサー](../Page/サプレッサー.md "wikilink")を取り付けて消音化されたPPS-43が中国軍遊撃部隊によって多用され、米軍・韓国軍に大きな損害を与えている。当時の米国製防弾チョッキでは防御できない貫通力も知られていた。
 
@@ -70,7 +70,7 @@ PPS-42は、1942年7月にレニングラード造兵廠で生産を開始し、
   - MP-709(r)
     ドイツ軍に[鹵獲](../Page/鹵獲.md "wikilink")された際のPPSモデルの呼称名。
   - M/44
-    [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")で製造されたPPS-43のコピー。[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")を使用し、ストレート形状の箱型弾倉、または[スオミM1931](https://ja.wikipedia.org/wiki/スオミM1931 "wikilink")のドラム式弾倉を使用出来る。
+    [フィンランド](../Page/フィンランド.md "wikilink")で製造されたPPS-43のコピー。[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")を使用し、ストレート形状の箱型弾倉、または[スオミM1931](https://ja.wikipedia.org/wiki/スオミM1931 "wikilink")のドラム式弾倉を使用出来る。
   - UX-51/53/59
     [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")が製造したM/44のコピー、[西ドイツ国境警備隊に採用された](https://ja.wikipedia.org/wiki/連邦国境警備隊 "wikilink")。
   - 54式衝鋒槍
@@ -89,10 +89,10 @@ PPS-42は、1942年7月にレニングラード造兵廠で生産を開始し、
 
   - 『[ハムナプトラ3 呪われた皇帝の秘宝](https://ja.wikipedia.org/wiki/ハムナプトラ3_呪われた皇帝の秘宝 "wikilink")』
     中盤の[雪山](https://ja.wikipedia.org/wiki/雪山 "wikilink")の[戦闘](../Page/戦闘.md "wikilink")で、主人公リック・オコーネルの息子アレックス・オコーネルがPPS-43を使用。
-  - 『[ポリス・ストーリー3](https://ja.wikipedia.org/wiki/ポリス・ストーリー3 "wikilink")』
-    [刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")を警備する[中国警察がPPS](https://ja.wikipedia.org/wiki/中華人民共和国人民警察 "wikilink")-43を所持。
-  - 『[ワンス・アンド・フォーエバー](https://ja.wikipedia.org/wiki/ワンス・アンド・フォーエバー "wikilink")』
-    冒頭の[ベトミン](../Page/ベトミン.md "wikilink")対[フランス軍](https://ja.wikipedia.org/wiki/フランス軍 "wikilink")のシーンでベトミンが携行。
+  - 『[ポリス・ストーリー3](../Page/ポリス・ストーリー3.md "wikilink")』
+    [刑務所](../Page/刑務所.md "wikilink")を警備する[中国警察がPPS](https://ja.wikipedia.org/wiki/中華人民共和国人民警察 "wikilink")-43を所持。
+  - 『[ワンス・アンド・フォーエバー](../Page/ワンス・アンド・フォーエバー.md "wikilink")』
+    冒頭の[ベトミン](../Page/ベトミン.md "wikilink")対[フランス軍](../Page/フランス軍.md "wikilink")のシーンでベトミンが携行。
 
 ### ゲーム
 
@@ -108,11 +108,11 @@ PPS-42は、1942年7月にレニングラード造兵廠で生産を開始し、
 
 ## 関連項目
 
-  - [銃の部品](https://ja.wikipedia.org/wiki/銃の部品 "wikilink")
+  - [銃の部品](../Page/銃の部品.md "wikilink")
   - [独ソ戦](../Page/独ソ戦.md "wikilink")
   - [鹵獲](../Page/鹵獲.md "wikilink")
-  - [M3サブマシンガン](https://ja.wikipedia.org/wiki/M3サブマシンガン "wikilink")
-  - [ステン短機関銃](https://ja.wikipedia.org/wiki/ステン短機関銃 "wikilink")
+  - [M3サブマシンガン](../Page/M3サブマシンガン.md "wikilink")
+  - [ステン短機関銃](../Page/ステン短機関銃.md "wikilink")
   - [短機関銃・PDW等一覧](https://ja.wikipedia.org/wiki/短機関銃・PDW等一覧 "wikilink")
 
 [Category:短機関銃](https://ja.wikipedia.org/wiki/Category:短機関銃 "wikilink") [Category:ソ連・ロシアの小火器](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの小火器 "wikilink") [Category:7.62mm銃](https://ja.wikipedia.org/wiki/Category:7.62mm銃 "wikilink")
@@ -120,7 +120,7 @@ PPS-42は、1942年7月にレニングラード造兵廠で生産を開始し、
 1.  ガリレオ出版『グランドパワー』1月号別冊 第2次大戦 ソ連軍陸戦兵器
 2.
 3.
-4.  折り畳み式ストックという発想は、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")が開発していた[MP38/MP40短機関銃から影響を受けたものと思われる](https://ja.wikipedia.org/wiki/MP40 "wikilink")。ただし、折り畳む方向はレシーバ上部で、レシーバ下部に収まるMP40とは逆である。
+4.  折り畳み式ストックという発想は、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")が開発していた[MP38/MP40短機関銃から影響を受けたものと思われる](../Page/MP40.md "wikilink")。ただし、折り畳む方向はレシーバ上部で、レシーバ下部に収まるMP40とは逆である。
 5.
 6.  同様のアイデアは日本の[89式小銃](https://ja.wikipedia.org/wiki/89式小銃 "wikilink")でも採用されている。
 7.

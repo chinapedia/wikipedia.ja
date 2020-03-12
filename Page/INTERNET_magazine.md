@@ -1,13 +1,13 @@
 > この記事は[INTERNET magazine](https://ja.wikipedia.org/wiki/INTERNET_magazine)から翻訳されています。
 
 
-**iNTERNET magazine**（**インターネット マガジン**）は、[インプレス](https://ja.wikipedia.org/wiki/インプレス "wikilink")発行の[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")情報誌。 1994年9月創刊、2006年3月休刊。
+**iNTERNET magazine**（**インターネット マガジン**）は、[インプレス](../Page/インプレス.md "wikilink")発行の[インターネット](../Page/インターネット.md "wikilink")情報誌。 1994年9月創刊、2006年3月休刊。
 
 2007年7月にウェブサイト「All-in-One INTERNET magazine 2.0」として活動を再開し、その後ウェブサイトの名称変更・長期更新休止・キュレーションサイト化などを経て、2017年10月からは創刊当時の編集長により『[INTERNET Watch](https://ja.wikipedia.org/wiki/INTERNET_Watch "wikilink")』内で「iNTERNET magazine Reboot」コーナーとして運営されている。
 
 ## 概要
 
-創刊当時、日本ではインターネットの商用化が始まったばかりであったため、インターネットを普及させることを目的として創刊。 創刊時のコンセプトイメージは「[月刊アスキー](https://ja.wikipedia.org/wiki/月刊アスキー "wikilink")」のようなパソコン総合雑誌で、「日本のインターネットの父」とも呼ばれる[村井純](../Page/村井純.md "wikilink")のアドバイスを元に、内容は実用的な情報が7割、啓蒙的な内容が2割、社会的な話題が1割という配分にしていた\[1\]。インターネット接続に必要なソフトウェアを収録したCD-ROMを毎号付録にしていた。 その後、インターネット普及に従い、編集方針を「一般の人たちがインターネットを活用するために必要な情報を提供する」というものに転換。
+創刊当時、日本ではインターネットの商用化が始まったばかりであったため、インターネットを普及させることを目的として創刊。 創刊時のコンセプトイメージは「[月刊アスキー](../Page/月刊アスキー.md "wikilink")」のようなパソコン総合雑誌で、「日本のインターネットの父」とも呼ばれる[村井純](../Page/村井純.md "wikilink")のアドバイスを元に、内容は実用的な情報が7割、啓蒙的な内容が2割、社会的な話題が1割という配分にしていた\[1\]。インターネット接続に必要なソフトウェアを収録したCD-ROMを毎号付録にしていた。 その後、インターネット普及に従い、編集方針を「一般の人たちがインターネットを活用するために必要な情報を提供する」というものに転換。
 
 2003年には、インターネット普及のための役割は十分達成したとして、3月号から誌名に「2nd STAGE」という副題を付加して「**iNTERNET magazine　2nd STAGE**」と名乗り、誌面刷新した。
 
@@ -27,9 +27,9 @@
   - 2007年7月 - ウェブサイト「All-in-One INTERNET magazine 2.0」としてリニューアル
   - 2011年9月 - 「IMPRESS INNOVATION LAB」としてリニューアル
   - 2013年9月 - 予告・事後報告なしで3年間の更新休止に入る
-  - 2016年10月 - ITニュースの[キュレーションサイトとして更新再開](https://ja.wikipedia.org/wiki/まとめサイト "wikilink")\[3\]
+  - 2016年10月 - ITニュースの[キュレーションサイトとして更新再開](../Page/まとめサイト.md "wikilink")\[3\]
   - 2017年10月 - 「[INTERNET Watch](https://ja.wikipedia.org/wiki/INTERNET_Watch "wikilink")」内の「iNTERNET magazine Reboot」コーナーとしてリニューアル\[4\]
-  - 2017年11月 - 1号限りで「iNTERNET magazine Reboot」として、紙の書籍（[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")）・[電子書籍](../Page/電子書籍.md "wikilink")で復刊\[5\]
+  - 2017年11月 - 1号限りで「iNTERNET magazine Reboot」として、紙の書籍（[ムック](../Page/ムック_\(出版\).md "wikilink")）・[電子書籍](../Page/電子書籍.md "wikilink")で復刊\[5\]
 
 ## 参考文献
 

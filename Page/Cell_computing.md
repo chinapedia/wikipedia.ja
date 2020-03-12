@@ -1,15 +1,15 @@
 > この記事は[Cell computing](https://ja.wikipedia.org/wiki/Cell_computing)から翻訳されています。
 
 
-**cell computing**(セル・コンピューティング)は過去に行われていた[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")の1つ。[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")が提供していたサービスであるが、収益の見通しが立たなかったため[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に終了した。
+**cell computing**(セル・コンピューティング)は過去に行われていた[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")の1つ。[NTTデータ](../Page/NTTデータ.md "wikilink")が提供していたサービスであるが、収益の見通しが立たなかったため[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に終了した。
 
-[BOINCプラットフォームが使われていた](https://ja.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing "wikilink")。 一般[PC所有者に登録してもらい](../Page/パーソナルコンピュータ.md "wikilink")、分散コンピューティング技術を用いて、PCの遊休計算能力を利用する。当初はユーザが稼働させたコンピュータ資源に対し与えられるポイントを、商品等へ交換できるようにする計画があったが、実現はしなかった。また、そのPCの利用者に対する広告メディアとしての意味合いもあった。
+[BOINCプラットフォームが使われていた](../Page/Berkeley_Open_Infrastructure_for_Network_Computing.md "wikilink")。 一般[PC所有者に登録してもらい](../Page/パーソナルコンピュータ.md "wikilink")、分散コンピューティング技術を用いて、PCの遊休計算能力を利用する。当初はユーザが稼働させたコンピュータ資源に対し与えられるポイントを、商品等へ交換できるようにする計画があったが、実現はしなかった。また、そのPCの利用者に対する広告メディアとしての意味合いもあった。
 
 ## 提供されていたプロジェクト
 
-**CHRONOS（クロノス）** [ヒトゲノム](../Page/ヒトゲノム.md "wikilink")の解析が終わったため、次の段階として、その順番を長さ順に並び替えるとどんな法則性があるのか、その法則性に則ると、どんな[遺伝子疾患](https://ja.wikipedia.org/wiki/遺伝子疾患 "wikilink")が発現するのか、などについて調査するプロジェクト。
+**CHRONOS（クロノス）** [ヒトゲノム](../Page/ヒトゲノム.md "wikilink")の解析が終わったため、次の段階として、その順番を長さ順に並び替えるとどんな法則性があるのか、その法則性に則ると、どんな[遺伝子疾患](../Page/遺伝子疾患.md "wikilink")が発現するのか、などについて調査するプロジェクト。
 
-**sekigahara（セキガハラ）** 高精細度[CG映像の研究の一環として](../Page/コンピュータグラフィックス.md "wikilink")、群集[シミュレーション](../Page/シミュレーション.md "wikilink")ツールや、分散コンピューティングを利用する[レンダリングソフトの開発を目的とするプロジェクト](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")。
+**sekigahara（セキガハラ）** 高精細度[CG映像の研究の一環として](../Page/コンピュータグラフィックス.md "wikilink")、群集[シミュレーション](../Page/シミュレーション.md "wikilink")ツールや、分散コンピューティングを利用する[レンダリングソフトの開発を目的とするプロジェクト](../Page/レンダリング_\(コンピュータ\).md "wikilink")。
 
 **HD-Animation（エイチ・ディ アニメーション）** 30秒間の[フルハイビジョン映像を製作する実証実験を行い](https://ja.wikipedia.org/wiki/フルハイビジョン#解像度 "wikilink")、その製作された映像の一般公開を目指すプロジェクト。
 
@@ -31,7 +31,7 @@
   - [分散コンピューティング](../Page/分散コンピューティング.md "wikilink")
   - [グリッド・コンピューティング](../Page/グリッド・コンピューティング.md "wikilink")
   - [BOINC](https://ja.wikipedia.org/wiki/BOINC "wikilink")
-  - [Team2ch](https://ja.wikipedia.org/wiki/Team2ch "wikilink")
+  - [Team2ch](../Page/Team2ch.md "wikilink")
 
 ## 外部リンク
 

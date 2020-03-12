@@ -1,17 +1,17 @@
 > この記事は[Au IC](https://ja.wikipedia.org/wiki/Au_IC)から翻訳されています。
 
 
-**au ICカード**（エーユー アイシーカード）は、[auブランドを展開する](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の、[第3.5世代移動通信システム](../Page/第3.5世代移動通信システム.md "wikilink") (3.5G) サービスの[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink") (後のau 3G) の多くの端末や[第3.9世代移動通信システム](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink") (LTE) サービスの[au 4G LTEで採用されている](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")[R-UIMカード](https://ja.wikipedia.org/wiki/R-UIMカード "wikilink")である (ただし、「au Nano IC Card 04 (VoLTE)」および「au Nano IC Card 04 LE」については、**R-UIMカードではなく**、[UIMカード](../Page/UIMカード.md "wikilink")である。理由は後述）。KDDIテクノロジーおよび[大日本印刷](https://ja.wikipedia.org/wiki/大日本印刷 "wikilink")、[シュルンベルジェ](../Page/シュルンベルジェ.md "wikilink")セマが共同開発した。
+**au ICカード**（エーユー アイシーカード）は、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の、[第3.5世代移動通信システム](../Page/第3.5世代移動通信システム.md "wikilink") (3.5G) サービスの[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink") (後のau 3G) の多くの端末や[第3.9世代移動通信システム](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink") (LTE) サービスの[au 4G LTEで採用されている](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")[R-UIMカード](https://ja.wikipedia.org/wiki/R-UIMカード "wikilink")である (ただし、「au Nano IC Card 04 (VoLTE)」および「au Nano IC Card 04 LE」については、**R-UIMカードではなく**、[UIMカード](../Page/UIMカード.md "wikilink")である。理由は後述）。KDDIテクノロジーおよび[大日本印刷](../Page/大日本印刷.md "wikilink")、[シュルンベルジェ](../Page/シュルンベルジェ.md "wikilink")セマが共同開発した。
 
 ## 概要
 
-[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMAカード→ドコモUIMカード](https://ja.wikipedia.org/wiki/ドコモUIMカード "wikilink") ([FOMA](../Page/FOMA.md "wikilink")・[Xi](https://ja.wikipedia.org/wiki/Xi_\(携帯電話\) "wikilink"))、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3G USIMカード](../Page/SoftBank_3G_USIMカード.md "wikilink") ([SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink"))、[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")の[EM chipといった](../Page/EM_chip.md "wikilink")、他社で用いられている[UIMカード](../Page/UIMカード.md "wikilink")と同じく[電話番号](../Page/電話番号.md "wikilink")などの情報が書き込まれている。R-UIMカードを挿しかえることで海外で使用する[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")携帯端末（[グローバルパスポートGSM](../Page/グローバルパスポートGSM.md "wikilink")）などで自分の電話番号を使用できる。
+[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMAカード→ドコモUIMカード](../Page/ドコモUIMカード.md "wikilink") ([FOMA](../Page/FOMA.md "wikilink")・[Xi](https://ja.wikipedia.org/wiki/Xi_\(携帯電話\) "wikilink"))、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3G USIMカード](../Page/SoftBank_3G_USIMカード.md "wikilink") ([SoftBank 3G](../Page/SoftBank_3G.md "wikilink"))、[イー・モバイル](../Page/イー・モバイル.md "wikilink")の[EM chipといった](../Page/EM_chip.md "wikilink")、他社で用いられている[UIMカード](../Page/UIMカード.md "wikilink")と同じく[電話番号](../Page/電話番号.md "wikilink")などの情報が書き込まれている。R-UIMカードを挿しかえることで海外で使用する[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")携帯端末（[グローバルパスポートGSM](../Page/グローバルパスポートGSM.md "wikilink")）などで自分の電話番号を使用できる。
 
-現在製造は[大日本印刷](https://ja.wikipedia.org/wiki/大日本印刷 "wikilink")と[ジェムアルト](https://ja.wikipedia.org/wiki/ジェムアルト "wikilink")が担当している。なお、端子仕様についてはver.001とMicro02が旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")日本法人、ver.002が旧日本[ジェムプラス](../Page/ジェムプラス.md "wikilink")がそれぞれ策定したものである。
+現在製造は[大日本印刷](../Page/大日本印刷.md "wikilink")と[ジェムアルト](../Page/ジェムアルト.md "wikilink")が担当している。なお、端子仕様についてはver.001とMicro02が旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")日本法人、ver.002が旧日本[ジェムプラス](../Page/ジェムプラス.md "wikilink")がそれぞれ策定したものである。
 
 ## 機能制限
 
-UIMカードを用いる他社のシステムと異なる点として、[フィーチャーフォンや一部を除く](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")3G[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")では、一つの端末につき一つのUIMカードしか利用できない点があげられる。そういった端末では、最初に挿入・起動されたau ICカードでのみ使用でき、このカードが挿入されていない場合、あるいはすでに端末に登録されているものとは異なるau ICカードが挿入されている場合、機能制限がかかる。制限される機能には、電話の発着信・[EZweb](../Page/EZweb.md "wikilink")・[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")（キャリアメール）および[Cメール](https://ja.wikipedia.org/wiki/Cメール "wikilink")の送受信、[GPS機能といった通信機能すべてと](../Page/グローバル・ポジショニング・システム.md "wikilink")、[EZアプリや一部の](https://ja.wikipedia.org/wiki/BREW "wikilink")[EZ Felica](https://ja.wikipedia.org/wiki/EZ_Felica "wikilink") ([おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink"))、[LISMO Player](https://ja.wikipedia.org/wiki/LISMO "wikilink")（またはau Music Player）による音楽 ([着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")・[着うたフルプラス](https://ja.wikipedia.org/wiki/着うたフルプラス "wikilink"))や[LISMO Videoを含む](../Page/LISMO_Video.md "wikilink")[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")等の再生・データフォルダ内の著作権保護データの再生などがある。ただし、LTE/VoLTE端末ではこのような機能制限はかからない。
+UIMカードを用いる他社のシステムと異なる点として、[フィーチャーフォンや一部を除く](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")3G[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")では、一つの端末につき一つのUIMカードしか利用できない点があげられる。そういった端末では、最初に挿入・起動されたau ICカードでのみ使用でき、このカードが挿入されていない場合、あるいはすでに端末に登録されているものとは異なるau ICカードが挿入されている場合、機能制限がかかる。制限される機能には、電話の発着信・[EZweb](../Page/EZweb.md "wikilink")・[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")（キャリアメール）および[Cメール](../Page/Cメール.md "wikilink")の送受信、[GPS機能といった通信機能すべてと](../Page/グローバル・ポジショニング・システム.md "wikilink")、[EZアプリや一部の](../Page/BREW.md "wikilink")[EZ Felica](https://ja.wikipedia.org/wiki/EZ_Felica "wikilink") ([おサイフケータイ](../Page/おサイフケータイ.md "wikilink"))、[LISMO Player](../Page/LISMO.md "wikilink")（またはau Music Player）による音楽 ([着うたフル](../Page/着うたフル.md "wikilink")・[着うたフルプラス](https://ja.wikipedia.org/wiki/着うたフルプラス "wikilink"))や[LISMO Videoを含む](../Page/LISMO_Video.md "wikilink")[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")等の再生・データフォルダ内の著作権保護データの再生などがある。ただし、LTE/VoLTE端末ではこのような機能制限はかからない。
 
 一度 au ICカードを装着して起動された端末に別のau ICカードを挿して使用する場合は、使用前にauショップなどでの変更手続き（『ロッククリア』と呼ばれる；有料・[消費税](../Page/消費税.md "wikilink")込2160円/回）が必要である\[1\]。この制限があるため、端末を一時的に借りて使うことはできない\[2\]。この仕様について[KDDI](../Page/KDDI.md "wikilink")は「たとえば携帯を盗まれた場合、どのSIMカードを差してもそのまま端末が使えることを防ぐための措置」としている\[3\]。この制限は端末についてのものであり、1つのカードを複数の端末で使うことは可能である。例えば、au ICカード対応機種同士で機種変更をした場合、変更前の端末はそのままau ICカードを差し替えて利用できる。ただし、いったん[au ICカードに対応しないスマートフォンを経由した機種変更の場合](https://ja.wikipedia.org/wiki/au_ICカード#au_ICカードに対応しないスマートフォン "wikilink")、以前のau ICカード対応機種は古いSIMカードに対してひも付いているため、auショップ等の店頭においてロッククリアの手続きが必要となる。
 
@@ -174,7 +174,7 @@ MVNOに対応する機種か否かは、各MVNO事業者のホームページに
 
 新規契約時にauから貸与されるカード。なお「通常カード」の名称は正式名称ではない。
 
-カードは[ジェムアルト](https://ja.wikipedia.org/wiki/ジェムアルト "wikilink")製、[大日本印刷](https://ja.wikipedia.org/wiki/大日本印刷 "wikilink")製、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")製、[ギーゼッケ アンド デブリエント製があり](https://ja.wikipedia.org/wiki/ギーゼッケ_アンド_デブリエント "wikilink")、紙製の台紙に製造元の記載がある。
+カードは[ジェムアルト](../Page/ジェムアルト.md "wikilink")製、[大日本印刷](../Page/大日本印刷.md "wikilink")製、[東芝](../Page/東芝.md "wikilink")製、[ギーゼッケ アンド デブリエント製があり](https://ja.wikipedia.org/wiki/ギーゼッケ_アンド_デブリエント "wikilink")、紙製の台紙に製造元の記載がある。
 
 製造元でICCIDが異なり、カード番号の先頭の数字により以下のとおりとなっている。
 
@@ -187,7 +187,7 @@ MVNOに対応する機種か否かは、各MVNO事業者のホームページに
 
   - mini SIMカード
       - ver.001 - IC面はオレンジの地に白で「au by KDDI」のロゴが描かれている。ICの反対の面は 白地で黒色でICCIDが刻まれている。[NFCサービスの認証に対応していないことからNFC対応機種ではNFC機能が利用できないが](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")、3G・WiMAX通信やその他の機能は利用可能である。このためNFCを利用するには後述のver.002への交換が必要である。ジェムアルト製の端子仕様は旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")のもの。
-      - ver.002 - IC面の色が茶色と白のストライプの地にオレンジで「au by KDDI」のロゴが描かれている。N800MHz帯 (新800MHz・Band Class 0 Band Subclass 2) の周波数帯に対応していない[W32H](https://ja.wikipedia.org/wiki/W32H "wikilink")、[W32S](https://ja.wikipedia.org/wiki/W32S "wikilink")、[W41H](https://ja.wikipedia.org/wiki/W41H "wikilink")、[W41S](https://ja.wikipedia.org/wiki/W41S "wikilink")、[W41CA](https://ja.wikipedia.org/wiki/W41CA "wikilink")、[W42CA](https://ja.wikipedia.org/wiki/W42CA "wikilink")、[W42H](https://ja.wikipedia.org/wiki/W42H "wikilink")、[W43CA](https://ja.wikipedia.org/wiki/W43CA "wikilink")、[W43H](https://ja.wikipedia.org/wiki/W43H "wikilink")、[W43K](https://ja.wikipedia.org/wiki/W43K "wikilink")では使用できない (挿入起動後に端末自体が使用不能になるトラブルがW42H、W43Hで確認されている)。これらの機種は2012年7月22日以後通信が利用できなくなった。
+      - ver.002 - IC面の色が茶色と白のストライプの地にオレンジで「au by KDDI」のロゴが描かれている。N800MHz帯 (新800MHz・Band Class 0 Band Subclass 2) の周波数帯に対応していない[W32H](../Page/W32H.md "wikilink")、[W32S](../Page/W32S.md "wikilink")、[W41H](../Page/W41H.md "wikilink")、[W41S](../Page/W41S.md "wikilink")、[W41CA](../Page/W41CA.md "wikilink")、[W42CA](../Page/W42CA.md "wikilink")、[W42H](../Page/W42H.md "wikilink")、[W43CA](../Page/W43CA.md "wikilink")、[W43H](../Page/W43H.md "wikilink")、[W43K](../Page/W43K.md "wikilink")では使用できない (挿入起動後に端末自体が使用不能になるトラブルがW42H、W43Hで確認されている)。これらの機種は2012年7月22日以後通信が利用できなくなった。
       - au IC Card 02 (3G) - auが現行ロゴになったのにも併せて、ICCIDが刻まれている箇所除きカード表裏とも色はオレンジで、その裏面にauの現行ロゴと[3G](https://ja.wikipedia.org/wiki/3G "wikilink")と①が書かれている物に変更された。仕様はver.002と変わらない。
   - micro SIM カード
       - micro au ICカード (Micro 02) - ver.002を元にしたサイズ違いのカードで、上記のmicro au ICカードを用いる機種専用である。
@@ -209,7 +209,7 @@ MVNOに対応する機種か否かは、各MVNO事業者のホームページに
 
 ### 保守用カード
 
-auショップや[PiPit](https://ja.wikipedia.org/wiki/PiPit "wikilink")、[トヨタレンタリース](https://ja.wikipedia.org/wiki/トヨタレンタリース "wikilink")、トヨタ純正部品共販店を含む[トヨタの各](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[ディーラーなどの販売店に常備されている](https://ja.wikipedia.org/wiki/自動車ディーラー "wikilink")。このカードはSIMロックレベル2の影響を受けず、どのau携帯電話でも利用できるため、ICカードの故障切り分けなどに利用される。なお、このカードにも電話番号が記録されており、発着信等も可能。IC面はオレンジの地で上記と同様のロゴが描かれており、一部、灰色地で「保守用」と書かれている。ICの反対の面はICCIDが刻まれている他、小さい四角い枠の中に「保守用」と刻まれている。micro SIMタイプやNano SIMタイプ(LTE用/VoLTE用)の保守用カードも常備されているが、もともとLTE/VoLTE端末はSIMカードを差し替えても利用が可能なため、通常のICカードと同一のものが流用されている。
+auショップや[PiPit](https://ja.wikipedia.org/wiki/PiPit "wikilink")、[トヨタレンタリース](../Page/トヨタレンタリース.md "wikilink")、トヨタ純正部品共販店を含む[トヨタの各](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[ディーラーなどの販売店に常備されている](../Page/自動車ディーラー.md "wikilink")。このカードはSIMロックレベル2の影響を受けず、どのau携帯電話でも利用できるため、ICカードの故障切り分けなどに利用される。なお、このカードにも電話番号が記録されており、発着信等も可能。IC面はオレンジの地で上記と同様のロゴが描かれており、一部、灰色地で「保守用」と書かれている。ICの反対の面はICCIDが刻まれている他、小さい四角い枠の中に「保守用」と刻まれている。micro SIMタイプやNano SIMタイプ(LTE用/VoLTE用)の保守用カードも常備されているが、もともとLTE/VoLTE端末はSIMカードを差し替えても利用が可能なため、通常のICカードと同一のものが流用されている。
 
 ## ギャラリー
 
@@ -249,13 +249,13 @@ SIM本体 (大日本印刷製) <File:Au> nanosim volte 9 裏.JPG|au Nano IC Card
 
 ## 関連項目
 
-  - [SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")
+  - [SIMカード](../Page/SIMカード.md "wikilink")
   - [UIMカード](../Page/UIMカード.md "wikilink")
-  - [ドコモUIMカード](https://ja.wikipedia.org/wiki/ドコモUIMカード "wikilink")
+  - [ドコモUIMカード](../Page/ドコモUIMカード.md "wikilink")
   - [SoftBank 3G USIMカード](../Page/SoftBank_3G_USIMカード.md "wikilink")
   - [EM chip](../Page/EM_chip.md "wikilink")
   - [情報セキュリティ](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")
-  - [EZ FeliCa](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")
+  - [EZ FeliCa](../Page/EZ_FeliCa.md "wikilink")
   - [国際ローミング](../Page/ローミング.md "wikilink")
   - [グローバルパスポートGSM](../Page/グローバルパスポートGSM.md "wikilink")
   - [ぷりペイド](https://ja.wikipedia.org/wiki/ぷりペイド "wikilink")
@@ -269,12 +269,12 @@ SIM本体 (大日本印刷製) <File:Au> nanosim volte 9 裏.JPG|au Nano IC Card
   -
   - [ITmediaモバイル：auの「au ICカード」でできること](https://www.itmedia.co.jp/mobile/articles/0507/13/news035.html)
 
-  - [au、SIMカード対応端末を9月発売](https://k-tai.watch.impress.co.jp/cda/article/news_toppage/24763.html)([インプレス](https://ja.wikipedia.org/wiki/インプレス "wikilink") [ケータイWatch](https://ja.wikipedia.org/wiki/Impress_Watch "wikilink"))
+  - [au、SIMカード対応端末を9月発売](https://k-tai.watch.impress.co.jp/cda/article/news_toppage/24763.html)([インプレス](../Page/インプレス.md "wikilink") [ケータイWatch](../Page/Impress_Watch.md "wikilink"))
 
 [Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:国際ローミング](https://ja.wikipedia.org/wiki/Category:国際ローミング "wikilink") [Category:ICカード](https://ja.wikipedia.org/wiki/Category:ICカード "wikilink")
 
 1.
-2.  例外として、[SIRIUS α IS06(PTI06)などのスマートフォンに限りSIMの制限はない](https://ja.wikipedia.org/wiki/IS06 "wikilink")。[CDMA2000 1x系の通信方式であるため](../Page/CDMA2000_1x.md "wikilink")[W-CDMA](../Page/W-CDMA.md "wikilink")系の通信方式を採用したキャリア（[ドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")等）の端末は利用できない。
+2.  例外として、[SIRIUS α IS06(PTI06)などのスマートフォンに限りSIMの制限はない](https://ja.wikipedia.org/wiki/IS06 "wikilink")。[CDMA2000 1x系の通信方式であるため](../Page/CDMA2000_1x.md "wikilink")[W-CDMA](../Page/W-CDMA.md "wikilink")系の通信方式を採用したキャリア（[ドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[イー・モバイル](../Page/イー・モバイル.md "wikilink")等）の端末は利用できない。
 3.
 4.
 5.
@@ -288,7 +288,7 @@ SIM本体 (大日本印刷製) <File:Au> nanosim volte 9 裏.JPG|au Nano IC Card
 13. iPad mini 4/iPad ProはSIMロックを解除することでau Nano IC Card (LTE)でも利用できる。
 14. 前述のau Nano IC Card (LTE)対応機種およびau Nano IC Card 04 (VoLTE)対応機種
 15. ISW11MにはSIMスロットを搭載しているが、これはW-CDMAエリア専用で通常は利用できない。
-16. 本機は[CDMA 1X](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink") ([CDMA2000 1xMC](https://ja.wikipedia.org/wiki/CDMA2000_1xMC "wikilink")) 専用のGPS搭載[携帯型位置情報ツールなので](https://ja.wikipedia.org/wiki/マシンツーマシン "wikilink")、当然ながらau ICカードに非対応となっている。
+16. 本機は[CDMA 1X](../Page/CDMA_1X.md "wikilink") ([CDMA2000 1xMC](https://ja.wikipedia.org/wiki/CDMA2000_1xMC "wikilink")) 専用のGPS搭載[携帯型位置情報ツールなので](https://ja.wikipedia.org/wiki/マシンツーマシン "wikilink")、当然ながらau ICカードに非対応となっている。
 17. SIMフリー化したLGL22にmineo VoLTE契約のSIMを入れると電話番号、ICCID等のSIM情報は読めている為
 18. iOS8.3以上へのアップデートとキャリア設定のアップデートが必要。ネットワーク設定オプションへの申し込みが必要。
 19. 設定が必要。

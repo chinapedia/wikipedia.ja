@@ -5,13 +5,13 @@
 
 ## 概要
 
-[オリコン週間](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[シングル](../Page/シングル.md "wikilink")チャートにて、自己最高となる初登場4位を記録した。初回限定盤と通常盤の2種類がリリースされ、初回限定盤には「being」の[ミュージック・ビデオを収録したDVDが同封されている](https://ja.wikipedia.org/wiki/プロモーション・ビデオ "wikilink")。2曲とも、3rdアルバム『[UZU-MAKI](https://ja.wikipedia.org/wiki/UZU-MAKI "wikilink")』に収録されている。ただし、「雪華の神話」はバージョン違いである。シングルの「being」、テレビアニメ『[灼眼のシャナ](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の後期[オープニングテーマとして使われたテレビサイズの](https://ja.wikipedia.org/wiki/主題歌 "wikilink")「being」、DVD特典の「being SHANAversion」とそれぞれイントロの異なる3バージョンが存在する。
+[オリコン週間](../Page/オリコンチャート.md "wikilink")[シングル](../Page/シングル.md "wikilink")チャートにて、自己最高となる初登場4位を記録した。初回限定盤と通常盤の2種類がリリースされ、初回限定盤には「being」の[ミュージック・ビデオを収録したDVDが同封されている](https://ja.wikipedia.org/wiki/プロモーション・ビデオ "wikilink")。2曲とも、3rdアルバム『[UZU-MAKI](../Page/UZU-MAKI.md "wikilink")』に収録されている。ただし、「雪華の神話」はバージョン違いである。シングルの「being」、テレビアニメ『[灼眼のシャナ](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の後期[オープニングテーマとして使われたテレビサイズの](../Page/主題歌.md "wikilink")「being」、DVD特典の「being SHANAversion」とそれぞれイントロの異なる3バージョンが存在する。
 
 ## 収録曲
 
 1.  **being** \[4:47\]
       -
-        作詞・作曲：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
+        作詞・作曲：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
           - [毎日放送](../Page/毎日放送.md "wikilink")系テレビアニメ『[灼眼のシャナ](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』後期オープニングテーマ
           - [パケットラジオ](https://ja.wikipedia.org/wiki/パケットラジオ "wikilink")『KOTOKOのトコトコ探検記』オープニング・エンディングテーマ
 2.  **雪華の神話** \[6:23\]

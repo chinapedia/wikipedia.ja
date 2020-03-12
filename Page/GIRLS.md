@@ -1,7 +1,7 @@
 > この記事は[GIRLS](https://ja.wikipedia.org/wiki/GIRLS)から翻訳されています。
 
 
-『**GIRLS**』（ガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**GIRLS**』（ガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](../Page/SOPHIA.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

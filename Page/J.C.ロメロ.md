@@ -1,19 +1,19 @@
 > この記事は[J.C.](https://ja.wikipedia.org/wiki/J.C.)から翻訳されています。
 
 
-**フアン・カルロス・ロメロ**（**Juan Carlos Romero**, [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[プエルトリコ](../Page/プエルトリコ.md "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。左投両打。
+**フアン・カルロス・ロメロ**（**Juan Carlos Romero**, [1976年](../Page/1976年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[プエルトリコ](../Page/プエルトリコ.md "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。左投両打。
 
 ## 経歴
 
 ### プロ入りとツインズ時代
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/1997年のMLBドラフト "wikilink")21巡目で[ミネソタ・ツインズ](https://ja.wikipedia.org/wiki/ミネソタ・ツインズ "wikilink")から指名を受け、プロ入り。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/1997年のMLBドラフト "wikilink")21巡目で[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")から指名を受け、プロ入り。
 
-に[同年のパンアメリカン競技大会の](https://ja.wikipedia.org/wiki/1999年のパンアメリカ競技大会 "wikilink")[野球アメリカ合衆国代表](../Page/野球アメリカ合衆国代表.md "wikilink")に選出されている\[1\]。9月15日に[テキサス・レンジャーズ](https://ja.wikipedia.org/wiki/テキサス・レンジャーズ "wikilink")戦でメジャーデビュー（結果は1.1回を投げて被安打1、無失点）。
+に[同年のパンアメリカン競技大会の](https://ja.wikipedia.org/wiki/1999年のパンアメリカ競技大会 "wikilink")[野球アメリカ合衆国代表](../Page/野球アメリカ合衆国代表.md "wikilink")に選出されている\[1\]。9月15日に[テキサス・レンジャーズ](../Page/テキサス・レンジャーズ.md "wikilink")戦でメジャーデビュー（結果は1.1回を投げて被安打1、無失点）。
 
 と翌は先発もしたが、2年とも負け越し、防御率6点台オーバーなどと、結果は思わしくなかった。
 
-からはリリーフに転向。[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")2位、[ナショナルリーグ](../Page/ナショナルリーグ.md "wikilink")を合わせても4位となる81試合に登板した。それでいて防御率1.89の好成績。一躍球界トップレベルの投手となった。この年のオフ、[日米野球](https://ja.wikipedia.org/wiki/日米野球 "wikilink")の[MLB選抜で来日した](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
+からはリリーフに転向。[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")2位、[ナショナルリーグ](../Page/ナショナルリーグ.md "wikilink")を合わせても4位となる81試合に登板した。それでいて防御率1.89の好成績。一躍球界トップレベルの投手となった。この年のオフ、[日米野球](../Page/日米野球.md "wikilink")の[MLB選抜で来日した](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
 
 は、コントロールが定まらず、防御率は5.00まで跳ね上がった。それでも73試合登板はアメリカンリーグ6位の好記録。
 
@@ -23,17 +23,17 @@
 
 ### エンゼルス時代
 
-開幕前の3月に開催された[第1回ワールド・ベースボール・クラシック(WBC)の](https://ja.wikipedia.org/wiki/2006_ワールド・ベースボール・クラシック "wikilink")[プエルトリコ代表に選出された](../Page/2006_ワールド・ベースボール・クラシック・プエルトリコ代表.md "wikilink")。
+開幕前の3月に開催された[第1回ワールド・ベースボール・クラシック(WBC)の](../Page/2006_ワールド・ベースボール・クラシック.md "wikilink")[プエルトリコ代表に選出された](../Page/2006_ワールド・ベースボール・クラシック・プエルトリコ代表.md "wikilink")。
 
-シーズンでは[ロサンゼルス・エンゼルスで](https://ja.wikipedia.org/wiki/ロサンゼルス・エンゼルス・オブ・アナハイム "wikilink")65試合に登板。
+シーズンでは[ロサンゼルス・エンゼルスで](../Page/ロサンゼルス・エンゼルス・オブ・アナハイム.md "wikilink")65試合に登板。
 
 ### フィリーズ時代
 
-は[ボストン・レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")、6月22日からは[フィラデルフィア・フィリーズ](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")で合計74試合に登板し、防御率1.92の好成績を残した。四球がやや多く、2006年のように冴えない結果に終わることもあるが、それでも2002年からの2007年6年間で年平均72.5試合に投げている。
+は[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")、6月22日からは[フィラデルフィア・フィリーズ](../Page/フィラデルフィア・フィリーズ.md "wikilink")で合計74試合に登板し、防御率1.92の好成績を残した。四球がやや多く、2006年のように冴えない結果に終わることもあるが、それでも2002年からの2007年6年間で年平均72.5試合に投げている。
 
 は自己最多タイの81試合に登板、自身初体験の[ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")で2勝を挙げ、チームの世界一に貢献。しかし、薬物検査で陽性反応が出たため、翌年の開幕から50試合の出場停止処分が科され、年俸が125万ドル削減された。
 
-開幕前の3月に開催された[第2回WBCの](https://ja.wikipedia.org/wiki/2009_ワールド・ベースボール・クラシック "wikilink")[プエルトリコ代表に選出され](https://ja.wikipedia.org/wiki/2009_ワールド・ベースボール・クラシック・プエルトリコ代表 "wikilink")、2大会連続2度目の選出となった。
+開幕前の3月に開催された[第2回WBCの](../Page/2009_ワールド・ベースボール・クラシック.md "wikilink")[プエルトリコ代表に選出され](https://ja.wikipedia.org/wiki/2009_ワールド・ベースボール・クラシック・プエルトリコ代表 "wikilink")、2大会連続2度目の選出となった。
 
 シーズンでは出場停止明け後も故障に苦しみ、例年得意としていた左打者にも被打率.308と打ち込まれた。
 
@@ -43,15 +43,15 @@
 
 ### フィリーズ退団後
 
-2011年6月29日に[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ.md "wikilink")とマイナー契約を結んだが7月14日に再び解雇され、[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")とマイナー契約を結ぶ。8月9日に解雇され、13日に[コロラド・ロッキーズ](https://ja.wikipedia.org/wiki/コロラド・ロッキーズ "wikilink")と契約した。12月15日に[セントルイス・カージナルス](https://ja.wikipedia.org/wiki/セントルイス・カージナルス "wikilink")とマイナー契約を結ぶ。
+2011年6月29日に[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ.md "wikilink")とマイナー契約を結んだが7月14日に再び解雇され、[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")とマイナー契約を結ぶ。8月9日に解雇され、13日に[コロラド・ロッキーズ](../Page/コロラド・ロッキーズ.md "wikilink")と契約した。12月15日に[セントルイス・カージナルス](../Page/セントルイス・カージナルス.md "wikilink")とマイナー契約を結ぶ。
 
-は開幕ロースター入りするが、11試合の登板で5月14日にカージナルスを解雇となり、23日に[ボルチモア・オリオールズ](https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ "wikilink")とマイナー契約。7月10日に解雇となり、21日に[クリーブランド・インディアンス](https://ja.wikipedia.org/wiki/クリーブランド・インディアンス "wikilink")とマイナー契約を結ぶ。8月13日にトレードで再びオリオールズに移籍しメジャーで5試合に登板するが、27日に解雇となる。
+は開幕ロースター入りするが、11試合の登板で5月14日にカージナルスを解雇となり、23日に[ボルチモア・オリオールズ](../Page/ボルチモア・オリオールズ.md "wikilink")とマイナー契約。7月10日に解雇となり、21日に[クリーブランド・インディアンス](../Page/クリーブランド・インディアンス.md "wikilink")とマイナー契約を結ぶ。8月13日にトレードで再びオリオールズに移籍しメジャーで5試合に登板するが、27日に解雇となる。
 
 3月に開催された[第3回WBCの](https://ja.wikipedia.org/wiki/2013_ワールド・ベースボール・クラシック "wikilink")[プエルトリコ代表に選出され](https://ja.wikipedia.org/wiki/2013_ワールド・ベースボール・クラシック・プエルトリコ代表 "wikilink")、3大会連続3度目の選出となった。3月22日にワシントン・ナショナルズとマイナー契約を結んだ\[2\]\[3\]。6月1日に自由契約となり、7日にインディアンスとマイナー契約を結ぶ。
 
-は所属球団がなく、は[メキシカンリーグ](https://ja.wikipedia.org/wiki/メキシカンリーグ "wikilink")の[プエブラ・パロッツ](https://ja.wikipedia.org/wiki/プエブラ・パロッツ "wikilink")と契約。5試合に登板後、4月15日に出場登録を外れ、6月30日に独立リーグ・[アトランティックリーグ](https://ja.wikipedia.org/wiki/アトランティックリーグ "wikilink")の[ロングアイランド・ダックス](https://ja.wikipedia.org/wiki/ロングアイランド・ダックス "wikilink")と契約。
+は所属球団がなく、は[メキシカンリーグ](../Page/メキシカンリーグ.md "wikilink")の[プエブラ・パロッツ](https://ja.wikipedia.org/wiki/プエブラ・パロッツ "wikilink")と契約。5試合に登板後、4月15日に出場登録を外れ、6月30日に独立リーグ・[アトランティックリーグ](../Page/アトランティックリーグ.md "wikilink")の[ロングアイランド・ダックス](https://ja.wikipedia.org/wiki/ロングアイランド・ダックス "wikilink")と契約。
 
-2月8日に[第4回WBCの](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック "wikilink")[プエルトリコ代表に選出され](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック・プエルトリコ代表 "wikilink")、4大会連続4度目の選出となった\[4\]。3月22日の決勝[アメリカ合衆国戦に敗戦し](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック・アメリカ合衆国代表 "wikilink")、2大会連続で準優勝となった\[5\]。オフにはドミニカ共和国の[ウィンターリーグ](https://ja.wikipedia.org/wiki/ウィンターリーグ "wikilink")に参加。
+2月8日に[第4回WBCの](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック "wikilink")[プエルトリコ代表に選出され](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック・プエルトリコ代表 "wikilink")、4大会連続4度目の選出となった\[4\]。3月22日の決勝[アメリカ合衆国戦に敗戦し](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック・アメリカ合衆国代表 "wikilink")、2大会連続で準優勝となった\[5\]。オフにはドミニカ共和国の[ウィンターリーグ](../Page/ウィンターリーグ.md "wikilink")に参加。
 
 ## 成績
 
@@ -61,7 +61,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ツインズ" title="wikilink">MIN</a></p></td>
+<td><p><a href="../Page/ミネソタ・ツインズ.md" title="wikilink">MIN</a></p></td>
 <td><p>5</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・エンゼルス・オブ・アナハイム" title="wikilink">LAA</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・エンゼルス・オブ・アナハイム.md" title="wikilink">LAA</a></p></td>
 <td><p>65</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -285,7 +285,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・レッドソックス" title="wikilink">BOS</a></p></td>
+<td><p><a href="../Page/ボストン・レッドソックス.md" title="wikilink">BOS</a></p></td>
 <td><p>23</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -312,7 +312,7 @@
 <td><p>1.95</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ" title="wikilink">PHI</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・フィリーズ.md" title="wikilink">PHI</a></p></td>
 <td><p>51</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -480,7 +480,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/コロラド・ロッキーズ" title="wikilink">COL</a></p></td>
+<td><p><a href="../Page/コロラド・ロッキーズ.md" title="wikilink">COL</a></p></td>
 <td><p>12</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -537,7 +537,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・カージナルス" title="wikilink">STL</a></p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">STL</a></p></td>
 <td><p>11</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -564,7 +564,7 @@
 <td><p>2.00</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ" title="wikilink">BAL</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ.md" title="wikilink">BAL</a></p></td>
 <td><p>5</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -685,7 +685,7 @@
 ## 関連項目
 
   - [メジャーリーグベースボールの選手一覧 R](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_R "wikilink")
-  - [プエルトリコ出身のメジャーリーグベースボール選手一覧](https://ja.wikipedia.org/wiki/プエルトリコ出身のメジャーリーグベースボール選手一覧 "wikilink")
+  - [プエルトリコ出身のメジャーリーグベースボール選手一覧](../Page/プエルトリコ出身のメジャーリーグベースボール選手一覧.md "wikilink")
   - [メジャーリーグベースボールのドーピング問題](https://ja.wikipedia.org/wiki/メジャーリーグベースボールのドーピング問題 "wikilink")
 
 ## 外部リンク

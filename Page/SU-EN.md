@@ -1,11 +1,11 @@
 > この記事は[SU-EN](https://ja.wikipedia.org/wiki/SU-EN)から翻訳されています。
 
 
-**SU-EN**（**スーエン**、スエン、Su-En、Su-en） 本名：**スザンナ・オーケルンド**（、）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[振付師](https://ja.wikipedia.org/wiki/振付師 "wikilink")（[コレオグラファー](https://ja.wikipedia.org/wiki/コレオグラファー "wikilink")）、[舞踏家](https://ja.wikipedia.org/wiki/舞踏家 "wikilink")、[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")。スウェーデンにて**スーエン舞踏カンパニー**（）を主宰\[1\]
+**SU-EN**（**スーエン**、スエン、Su-En、Su-en） 本名：**スザンナ・オーケルンド**（、）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[振付師](../Page/振付師.md "wikilink")（[コレオグラファー](https://ja.wikipedia.org/wiki/コレオグラファー "wikilink")）、[舞踏家](../Page/舞踏家.md "wikilink")、[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")。スウェーデンにて**スーエン舞踏カンパニー**（）を主宰\[1\]
 
 ## バイオグラフィー
 
-1966年11月1日スウェーデン生まれ、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[芸術](../Page/芸術.md "wikilink")[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")を学んだ\[2\]。日本文化に深く関心を持ち[舞踏](https://ja.wikipedia.org/wiki/舞踏 "wikilink")に傾倒、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1994年](../Page/1994年.md "wikilink")の間、日本に滞在。[日本舞踊](https://ja.wikipedia.org/wiki/日本舞踊 "wikilink")の出雲流を学び、舞踏の創始者・[土方巽](https://ja.wikipedia.org/wiki/土方巽 "wikilink")の舞踏を唯一継承する[友惠しづね](https://ja.wikipedia.org/wiki/友惠しづね "wikilink")と[白桃房](https://ja.wikipedia.org/wiki/白桃房 "wikilink")に入門、研究生として5年間におよび[友惠しづね](https://ja.wikipedia.org/wiki/友惠しづね "wikilink")に[舞踏](https://ja.wikipedia.org/wiki/舞踏 "wikilink")の手解きを授かる。[1989年](../Page/1989年.md "wikilink")舞踏グループ「グノーム」に主幹メンバーとして参加。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")スーエン独舞公演「風の蝶」(タイニイアリス・新宿)にて旗揚げ、スーエンとしてのソロ活動を始めた。以後、[ボディアート](https://ja.wikipedia.org/wiki/ボディアート "wikilink")、[パフォーマンスアート](https://ja.wikipedia.org/wiki/パフォーマンスアート "wikilink")の分野で、スウェーデンを中心にヨーロッパ、アメリカ、ロシア、など世界各国にて広く活動している\[3\]。
+1966年11月1日スウェーデン生まれ、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[芸術](../Page/芸術.md "wikilink")[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")を学んだ\[2\]。日本文化に深く関心を持ち[舞踏](https://ja.wikipedia.org/wiki/舞踏 "wikilink")に傾倒、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1994年](../Page/1994年.md "wikilink")の間、日本に滞在。[日本舞踊](../Page/日本舞踊.md "wikilink")の出雲流を学び、舞踏の創始者・[土方巽](../Page/土方巽.md "wikilink")の舞踏を唯一継承する[友惠しづね](../Page/友惠しづね.md "wikilink")と[白桃房](https://ja.wikipedia.org/wiki/白桃房 "wikilink")に入門、研究生として5年間におよび[友惠しづね](../Page/友惠しづね.md "wikilink")に[舞踏](https://ja.wikipedia.org/wiki/舞踏 "wikilink")の手解きを授かる。[1989年](../Page/1989年.md "wikilink")舞踏グループ「グノーム」に主幹メンバーとして参加。[1992年](../Page/1992年.md "wikilink")スーエン独舞公演「風の蝶」(タイニイアリス・新宿)にて旗揚げ、スーエンとしてのソロ活動を始めた。以後、[ボディアート](../Page/ボディアート.md "wikilink")、[パフォーマンスアート](../Page/パフォーマンスアート.md "wikilink")の分野で、スウェーデンを中心にヨーロッパ、アメリカ、ロシア、など世界各国にて広く活動している\[3\]。
 
 ## コレオグラフィー
 
@@ -19,25 +19,25 @@
   - [天乃宇受美](https://ja.wikipedia.org/wiki/天乃宇受美 "wikilink")
   - [入沢サタ緋呼](https://ja.wikipedia.org/wiki/入沢サタ緋呼 "wikilink")
   - [加賀谷早苗](https://ja.wikipedia.org/wiki/加賀谷早苗 "wikilink")
-  - [柿崎順一](https://ja.wikipedia.org/wiki/柿崎順一 "wikilink")
-  - [友惠しづね](https://ja.wikipedia.org/wiki/友惠しづね "wikilink")
-  - [土方巽](https://ja.wikipedia.org/wiki/土方巽 "wikilink")
+  - [柿崎順一](../Page/柿崎順一.md "wikilink")
+  - [友惠しづね](../Page/友惠しづね.md "wikilink")
+  - [土方巽](../Page/土方巽.md "wikilink")
   - [マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")
   - [リチャード・ハート](https://ja.wikipedia.org/wiki/リチャード・ハート "wikilink")
 
 ## 関連事項
 
-  - [暗黒舞踏](https://ja.wikipedia.org/wiki/暗黒舞踏 "wikilink")
-  - [コンテンポラリー・ダンス](https://ja.wikipedia.org/wiki/コンテンポラリー・ダンス "wikilink")
+  - [暗黒舞踏](../Page/暗黒舞踏.md "wikilink")
+  - [コンテンポラリー・ダンス](../Page/コンテンポラリー・ダンス.md "wikilink")
   - [コレオグラファー](https://ja.wikipedia.org/wiki/コレオグラファー "wikilink")
   - [コレオグラフ](https://ja.wikipedia.org/wiki/コレオグラフ "wikilink")
-  - [ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")
+  - [ダンス](../Page/ダンス.md "wikilink")
   - [振付家](https://ja.wikipedia.org/wiki/振付家 "wikilink")
   - [白桃房](https://ja.wikipedia.org/wiki/白桃房 "wikilink")
   - [舞踏](https://ja.wikipedia.org/wiki/舞踏 "wikilink")
   - [舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")
-  - [ボディアート](https://ja.wikipedia.org/wiki/ボディアート "wikilink")
-  - [パフォーマンスアート](https://ja.wikipedia.org/wiki/パフォーマンスアート "wikilink")
+  - [ボディアート](../Page/ボディアート.md "wikilink")
+  - [パフォーマンスアート](../Page/パフォーマンスアート.md "wikilink")
 
 ## 脚注
 

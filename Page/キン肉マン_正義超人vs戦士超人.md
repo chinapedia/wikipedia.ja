@@ -1,13 +1,13 @@
 > この記事は[ vs](https://ja.wikipedia.org/wiki/_vs)から翻訳されています。
 
 
-『**キン肉マン 正義超人vs戦士超人**』（キンにくマン せいぎちょうじんたいせんしちょうじん）は、[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")枠内で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に公開された[劇場版アニメの最終第](../Page/アニメーション映画.md "wikilink")7作。[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[キン肉マン](../Page/キン肉マン.md "wikilink")』を原作とする。上映時間は51分。
+『**キン肉マン 正義超人vs戦士超人**』（キンにくマン せいぎちょうじんたいせんしちょうじん）は、[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")枠内で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に公開された[劇場版アニメの最終第](../Page/アニメーション映画.md "wikilink")7作。[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[キン肉マン](../Page/キン肉マン.md "wikilink")』を原作とする。上映時間は51分。
 
 テレビアニメ版『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』放送終了後に放映された。
 
 ## 概要
 
-観客動員数164万人\[1\]。基本ストーリーは[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の読み切り漫画『[デスゲーム](https://ja.wikipedia.org/wiki/ゆでたまごの読み切り作品一覧#デスゲーム "wikilink")』を基にしている。「夢の超人タッグ編」ラストで、空中で爆散したと思われた[ネプチューンマン](https://ja.wikipedia.org/wiki/ネプチューンマン "wikilink")が生きていて、[キン肉マンに協力する](../Page/キン肉スグル.md "wikilink")。しかしながらネプチューンマンは戦士超人（後述）であったとする設定であり、原作とそれを下敷きにしたテレビアニメとはパラレル・ワールド関係にある。
+観客動員数164万人\[1\]。基本ストーリーは[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の読み切り漫画『[デスゲーム](https://ja.wikipedia.org/wiki/ゆでたまごの読み切り作品一覧#デスゲーム "wikilink")』を基にしている。「夢の超人タッグ編」ラストで、空中で爆散したと思われた[ネプチューンマン](../Page/ネプチューンマン.md "wikilink")が生きていて、[キン肉マンに協力する](../Page/キン肉スグル.md "wikilink")。しかしながらネプチューンマンは戦士超人（後述）であったとする設定であり、原作とそれを下敷きにしたテレビアニメとはパラレル・ワールド関係にある。
 
 ## あらすじ
 
@@ -27,24 +27,24 @@
 インモラ島を守る戦うことが生き甲斐の残虐超人たち。自分たちが宇宙一強いと自認している。総大将であるビッグシンジョーのもと、密かに全宇宙制服を目論む。
 
   - ビッグシンジョー
-    ビッグ・シンジョウとも表記\[2\]。戦士超人軍団の総大将。邪悪な心で全宇宙征服を夢見ている。ネプチューンマンと指導者の座を争った過去を持つ。催眠術を使ってミートを操り、正義超人の得意技を聞き出した。七重の塔最上階でキン肉マンと闘い、[新キン肉バスターにより倒されるも気絶した振りをし](https://ja.wikipedia.org/wiki/キン肉バスター "wikilink")、そこへ現れたゲオルグの設計図を奪い逃亡を図る。ネプチューンマンのマグネット・パワーにより動きを封じられ、キン肉マンとネプチューンマンのクロス・ボンバーを受けKO。最後はゲオルグ共々、ネプチューンマンの自爆の道連れとなり爆死。同時に七重の塔も大爆発して果てた。
+    ビッグ・シンジョウとも表記\[2\]。戦士超人軍団の総大将。邪悪な心で全宇宙征服を夢見ている。ネプチューンマンと指導者の座を争った過去を持つ。催眠術を使ってミートを操り、正義超人の得意技を聞き出した。七重の塔最上階でキン肉マンと闘い、[新キン肉バスターにより倒されるも気絶した振りをし](../Page/キン肉バスター.md "wikilink")、そこへ現れたゲオルグの設計図を奪い逃亡を図る。ネプチューンマンのマグネット・パワーにより動きを封じられ、キン肉マンとネプチューンマンのクロス・ボンバーを受けKO。最後はゲオルグ共々、ネプチューンマンの自爆の道連れとなり爆死。同時に七重の塔も大爆発して果てた。
     膝からの光線「ビッグ・シン・オーラ」と竜巻を発生させ相手を切り刻む「シンジョウ・サイクロン」が必殺技。
     ネプチューンマンとの関係は悪いわけではないらしく、終盤では二人してチビキャラになってやり取りを行うコメディチックな姿も見られた。
 
 <!-- end list -->
 
   - ミョウオウ
-    ミョウオーとも表記\[3\]。七重の塔1階の番人。口から炎を吐くことができる。[テリーマン](https://ja.wikipedia.org/wiki/テリーマン "wikilink")と闘う。テリーマンを技で圧倒し、周りの火の海にし脱出しようとするが、立ち上がったテリーマンのカーフ・ブランディングにより鉄柱にたたきつけられ敗北する。
+    ミョウオーとも表記\[3\]。七重の塔1階の番人。口から炎を吐くことができる。[テリーマン](../Page/テリーマン.md "wikilink")と闘う。テリーマンを技で圧倒し、周りの火の海にし脱出しようとするが、立ち上がったテリーマンのカーフ・ブランディングにより鉄柱にたたきつけられ敗北する。
 
 <!-- end list -->
 
   - センジュカーン
-    センジュ・カーンとも表記\[4\]。七重の塔2階の番人。実際の[千手観音](https://ja.wikipedia.org/wiki/千手観音 "wikilink")のように8本の腕を持つ。[ブロッケンJr.](https://ja.wikipedia.org/wiki/ブロッケンJr. "wikilink")と闘う。8本の腕でブロッケンJr.を締め付けるが、攻撃を受け切ったブロッケンのベルリンの赤い雨により腕をすべて切断され敗北する。
+    センジュ・カーンとも表記\[4\]。七重の塔2階の番人。実際の[千手観音](../Page/千手観音.md "wikilink")のように8本の腕を持つ。[ブロッケンJr.](../Page/ブロッケンJr..md "wikilink")と闘う。8本の腕でブロッケンJr.を締め付けるが、攻撃を受け切ったブロッケンのベルリンの赤い雨により腕をすべて切断され敗北する。
 
 <!-- end list -->
 
   - トーホーテーン
-    トウホーテンとも表記\[5\]。七重の塔3階の番人。2本の長い牙と象のような鼻をもった超人。[ウォーズマン](https://ja.wikipedia.org/wiki/ウォーズマン "wikilink")と闘う。ウォーズマンのスクリュードライバーを口で受け止め、胸に鼻先の角を突き刺しウォーズマンの身動きを取れなくするが、高笑いしているうちにベアークローを胸に投げつけられ敗北する。
+    トウホーテンとも表記\[5\]。七重の塔3階の番人。2本の長い牙と象のような鼻をもった超人。[ウォーズマン](../Page/ウォーズマン.md "wikilink")と闘う。ウォーズマンのスクリュードライバーを口で受け止め、胸に鼻先の角を突き刺しウォーズマンの身動きを取れなくするが、高笑いしているうちにベアークローを胸に投げつけられ敗北する。
 
 <!-- end list -->
 
@@ -54,15 +54,15 @@
 <!-- end list -->
 
   - マゴラカス
-    七重の塔5階の番人。頭に4つの目と9本の角を持つ。[バッファローマン](https://ja.wikipedia.org/wiki/バッファローマン "wikilink")と闘う。ハリケーン・ミキサーを受け止めるほどのパワーを誇り、頭部の9本の角でバッファローマンの胸を刺すが、バッファローマンがロングホーンをブーメランのように投げつけ、それを脳天に食らい敗北した。
+    七重の塔5階の番人。頭に4つの目と9本の角を持つ。[バッファローマン](../Page/バッファローマン.md "wikilink")と闘う。ハリケーン・ミキサーを受け止めるほどのパワーを誇り、頭部の9本の角でバッファローマンの胸を刺すが、バッファローマンがロングホーンをブーメランのように投げつけ、それを脳天に食らい敗北した。
 
 <!-- end list -->
 
   - ザ・コンゴー
-    七重の塔6階の番人。[ロビンマスク](https://ja.wikipedia.org/wiki/ロビンマスク "wikilink")と闘う。左腕が鞭のようになっており、それでロビンのタワーブリッジを破り、ロビンを締め付けるが、これを利用した体当たりにより塔の外まで飛ばされ倒される。
+    七重の塔6階の番人。[ロビンマスク](../Page/ロビンマスク.md "wikilink")と闘う。左腕が鞭のようになっており、それでロビンのタワーブリッジを破り、ロビンを締め付けるが、これを利用した体当たりにより塔の外まで飛ばされ倒される。
     後の連載作品『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』の「特別編 〜倫敦の若大将\!〜」にてテリーマンの持っていたメモに彼の名前があり、出身地は日本であることが判明している\[6\]。
 
-このほか大勢の部下が登場するが、[リキシマン](https://ja.wikipedia.org/wiki/ウルフマン_\(キン肉マン\) "wikilink")、[ジェロニモにより倒され](https://ja.wikipedia.org/wiki/ジェロニモ_\(キン肉マン\) "wikilink")、大半は地割れが発生した際に海に沈められていた。
+このほか大勢の部下が登場するが、[リキシマン](../Page/ウルフマン_\(キン肉マン\).md "wikilink")、[ジェロニモにより倒され](../Page/ジェロニモ_\(キン肉マン\).md "wikilink")、大半は地割れが発生した際に海に沈められていた。
 
 ### そのほかの超人
 
@@ -78,36 +78,36 @@
 
   - [キン肉マン](../Page/キン肉スグル.md "wikilink") - [神谷明](../Page/神谷明.md "wikilink")
   - [ミート君](../Page/アレキサンドリア・ミート.md "wikilink") - [松島みのり](../Page/松島みのり.md "wikilink")
-  - 中野さん - [はせさん治](https://ja.wikipedia.org/wiki/はせさん治 "wikilink")
-  - ナチグロン、キン骨オババ - [山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")
-  - [キン肉大王](https://ja.wikipedia.org/wiki/キン肉真弓 "wikilink")、[ネプチューンマン](https://ja.wikipedia.org/wiki/ネプチューンマン "wikilink") - [岸野一彦](https://ja.wikipedia.org/wiki/岸野一彦 "wikilink")
-  - キン肉王妃 - [山口奈々](https://ja.wikipedia.org/wiki/山口奈々 "wikilink")
-  - [大会委員長](https://ja.wikipedia.org/wiki/ハラボテ・マッスル "wikilink")、ニオーマン - [北川米彦](https://ja.wikipedia.org/wiki/北川米彦 "wikilink")
-  - [テリーマン](https://ja.wikipedia.org/wiki/テリーマン "wikilink")、ペーパー - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
-  - [ウォーズマン](https://ja.wikipedia.org/wiki/ウォーズマン "wikilink") - [堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
-  - [ジェロニモ](https://ja.wikipedia.org/wiki/ジェロニモ_\(キン肉マン\) "wikilink") - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
-  - [ロビンマスク](https://ja.wikipedia.org/wiki/ロビンマスク "wikilink")、ビッグシンジョー - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - 中野さん - [はせさん治](../Page/はせさん治.md "wikilink")
+  - ナチグロン、キン骨オババ - [山本圭子](../Page/山本圭子.md "wikilink")
+  - [キン肉大王](https://ja.wikipedia.org/wiki/キン肉真弓 "wikilink")、[ネプチューンマン](../Page/ネプチューンマン.md "wikilink") - [岸野一彦](../Page/岸野一彦.md "wikilink")
+  - キン肉王妃 - [山口奈々](../Page/山口奈々.md "wikilink")
+  - [大会委員長](https://ja.wikipedia.org/wiki/ハラボテ・マッスル "wikilink")、ニオーマン - [北川米彦](../Page/北川米彦.md "wikilink")
+  - [テリーマン](../Page/テリーマン.md "wikilink")、ペーパー - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
+  - [ウォーズマン](../Page/ウォーズマン.md "wikilink") - [堀秀行](../Page/堀秀行.md "wikilink")
+  - [ジェロニモ](../Page/ジェロニモ_\(キン肉マン\).md "wikilink") - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
+  - [ロビンマスク](../Page/ロビンマスク.md "wikilink")、ビッグシンジョー - [郷里大輔](../Page/郷里大輔.md "wikilink")
   - [ラーメンマン](../Page/ラーメンマン.md "wikilink")、マゴラカス - [銀河万丈](../Page/銀河万丈.md "wikilink")
-  - [バッファローマン](https://ja.wikipedia.org/wiki/バッファローマン "wikilink")、イワオ、グレートウコン2世 - [佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
-  - [リキシマン](https://ja.wikipedia.org/wiki/ウルフマン_\(キン肉マン\) "wikilink")、死刑執行人 - [広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
-  - [ブロッケンJr.](https://ja.wikipedia.org/wiki/ブロッケンJr. "wikilink")、与作さん - [水鳥鉄夫](../Page/水鳥鐵夫.md "wikilink")
-  - [キン骨マン](https://ja.wikipedia.org/wiki/キン骨マン "wikilink")、トーホーテーン - [二又一成](../Page/二又一成.md "wikilink")
-  - 五分刈刑事、ザ・コンゴー - [戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
+  - [バッファローマン](../Page/バッファローマン.md "wikilink")、イワオ、グレートウコン2世 - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
+  - [リキシマン](../Page/ウルフマン_\(キン肉マン\).md "wikilink")、死刑執行人 - [広瀬正志](../Page/広瀬正志.md "wikilink")
+  - [ブロッケンJr.](../Page/ブロッケンJr..md "wikilink")、与作さん - [水鳥鉄夫](../Page/水鳥鐵夫.md "wikilink")
+  - [キン骨マン](../Page/キン骨マン.md "wikilink")、トーホーテーン - [二又一成](../Page/二又一成.md "wikilink")
+  - 五分刈刑事、ザ・コンゴー - [戸谷公次](../Page/戸谷公次.md "wikilink")
   - 翔野ナツ子、[ダイアナ王妃](../Page/ダイアナ_\(プリンセス・オブ・ウェールズ\).md "wikilink") - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
-  - 二階堂マリ - [中島千里](https://ja.wikipedia.org/wiki/中島千里 "wikilink")
-  - ミョウオウ - [田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")
-  - センジュカーン - [平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")
+  - 二階堂マリ - [中島千里](../Page/中島千里.md "wikilink")
+  - ミョウオウ - [田中和実](../Page/田中和実.md "wikilink")
+  - センジュカーン - [平野正人](../Page/平野正人.md "wikilink")
   - ギャルA - 木下朋枝
-  - ギャルB - [松井摩味](https://ja.wikipedia.org/wiki/摩味 "wikilink")
+  - ギャルB - [松井摩味](../Page/摩味.md "wikilink")
   - 鉄仮面 - [大塚周夫](../Page/大塚周夫.md "wikilink")
 
 ## スタッフ
 
-  - 製作総指揮：[今田智憲](https://ja.wikipedia.org/wiki/今田智憲 "wikilink")
+  - 製作総指揮：[今田智憲](../Page/今田智憲.md "wikilink")
   - 企画：田宮武
   - 原作：[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")
   - 脚本：[山崎晴哉](../Page/山崎晴哉.md "wikilink")
-  - 音楽：[風戸慎介](https://ja.wikipedia.org/wiki/川辺真 "wikilink")
+  - 音楽：[風戸慎介](../Page/川辺真.md "wikilink")
   - 撮影監督：玉川芳行
   - 編集：祖田冨美夫
   - 録音：市川修
@@ -132,20 +132,20 @@
   - 記録：原芳子
   - 助監督：[浅田裕二](https://ja.wikipedia.org/wiki/浅田裕二 "wikilink")
   - 製作進行：城田佳和、和田裕一
-  - 録音スタジオ：[タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")
-  - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映ラボ・テック "wikilink")
+  - 録音スタジオ：[タバック](../Page/タバック.md "wikilink")
+  - 現像：[東映化学](../Page/東映ラボ・テック.md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ - 『キン肉マン旋風(センセーション)』
-    歌 - [串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink") / 作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - [芹澤廣明](https://ja.wikipedia.org/wiki/芹澤廣明 "wikilink") / 編曲 - [京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink")
+    歌 - [串田アキラ](../Page/串田アキラ.md "wikilink") / 作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - [芹澤廣明](../Page/芹澤廣明.md "wikilink") / 編曲 - [京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink")
   - エンディングテーマ - 『キン肉マン倶楽部』
     歌 - 神谷明 / 作詞 - 森雪之丞 / 作曲 - 芹澤廣明 / 編曲 - 京田誠一
 
 ## 同時上映
 
-  - [ゲゲゲの鬼太郎 激突\!\!異次元妖怪の大反乱](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_激突!!異次元妖怪の大反乱 "wikilink")
-  - [ドラゴンボール 神龍の伝説](https://ja.wikipedia.org/wiki/ドラゴンボール_神龍の伝説 "wikilink")
+  - [ゲゲゲの鬼太郎 激突\!\!異次元妖怪の大反乱](../Page/ゲゲゲの鬼太郎_激突!!異次元妖怪の大反乱.md "wikilink")
+  - [ドラゴンボール 神龍の伝説](../Page/ドラゴンボール_神龍の伝説.md "wikilink")
 
 ## 映像ソフト
 

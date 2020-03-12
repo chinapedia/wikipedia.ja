@@ -1,25 +1,25 @@
 > この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
 
 
-**トヨタ・F型エンジン**（トヨタ・Fがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（[1981年](../Page/1981年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")56年〉以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")名義）がかつて製造していた[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。
+**トヨタ・F型エンジン**（トヨタ・Fがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（[1981年](../Page/1981年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")56年〉以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")名義）がかつて製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。
 
-[初代B型に代わるバス](https://ja.wikipedia.org/wiki/トヨタ・B型エンジン_\(初代\) "wikilink")、トラック用高速エンジンとして[1949年](../Page/1949年.md "wikilink")（昭和24年）に登場。基本的にはB型のボアを拡大して[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")を増大し、各部を強化したエンジンシリーズである。
+[初代B型に代わるバス](../Page/トヨタ・B型エンジン_\(初代\).md "wikilink")、トラック用高速エンジンとして[1949年](../Page/1949年.md "wikilink")（昭和24年）に登場。基本的にはB型のボアを拡大して[排気量](../Page/排気量.md "wikilink")を増大し、各部を強化したエンジンシリーズである。
 
-本来の大型車両用のほか、[特殊用途自動車](https://ja.wikipedia.org/wiki/特殊用途自動車 "wikilink")用シャーシの[パトロールカー](https://ja.wikipedia.org/wiki/パトロールカー "wikilink")や[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")にも特殊高出力エンジンとして搭載され、[四輪駆動](../Page/四輪駆動.md "wikilink")車[トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")のエンジンとしても用いられて成功を収めた。
+本来の大型車両用のほか、[特殊用途自動車](https://ja.wikipedia.org/wiki/特殊用途自動車 "wikilink")用シャーシの[パトロールカー](../Page/パトロールカー.md "wikilink")や[救急車](../Page/救急車.md "wikilink")にも特殊高出力エンジンとして搭載され、[四輪駆動](../Page/四輪駆動.md "wikilink")車[トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")のエンジンとしても用いられて成功を収めた。
 
-基本レイアウトはトヨタ創業当初に[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")エンジンをコピーした[初代A型エンジン](../Page/トヨタ・A型エンジン_\(初代\).md "wikilink")（[1935年](../Page/1935年.md "wikilink")〈昭和10年〉）にまで遡ることができるほど古いものであるが、改良を重ねながら現在でもトヨタフォークリフト用エンジンとして生産が続けられており、トヨタではもちろんのこと、日本国内で市販向け生産されるエンジンとしても現役最古のエンジンシリーズである。 　
+基本レイアウトはトヨタ創業当初に[シボレー](../Page/シボレー.md "wikilink")エンジンをコピーした[初代A型エンジン](../Page/トヨタ・A型エンジン_\(初代\).md "wikilink")（[1935年](../Page/1935年.md "wikilink")〈昭和10年〉）にまで遡ることができるほど古いものであるが、改良を重ねながら現在でもトヨタフォークリフト用エンジンとして生産が続けられており、トヨタではもちろんのこと、日本国内で市販向け生産されるエンジンとしても現役最古のエンジンシリーズである。 　
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
 [1949年](../Page/1949年.md "wikilink")10月登場
 
-[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")
+[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")
 
-[水冷](https://ja.wikipedia.org/wiki/水冷 "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")
+[水冷](../Page/水冷.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[OHV](../Page/OHV.md "wikilink")
 
 ### F - 3,900cc
 
@@ -106,9 +106,9 @@
 
 ### 3F - 4,000cc
 
-2Fの小型化と高速化のため、[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")の丈が短くなり、ストロークが減らされた。軽量化や内部のフリクション低減も同時に行われた。
+2Fの小型化と高速化のため、[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")の丈が短くなり、ストロークが減らされた。軽量化や内部のフリクション低減も同時に行われた。
 
-[バルブタイミング](https://ja.wikipedia.org/wiki/バルブタイミング "wikilink")の変更や[フライホイール](https://ja.wikipedia.org/wiki/フライホイール "wikilink")の軽量化もあり、低速では扱い辛くなる。
+[バルブタイミング](https://ja.wikipedia.org/wiki/バルブタイミング "wikilink")の変更や[フライホイール](../Page/フライホイール.md "wikilink")の軽量化もあり、低速では扱い辛くなる。
 
   - ランドクルーザー60系（1984年11月-1990年1月 海外FJ62G・V、国内FJ62V）
   - ランドクルーザー70系（1984年11月-1992年?月）
@@ -140,11 +140,11 @@
 
 ## 関連項目
 
-  - [トヨタ・B型エンジン (初代)](https://ja.wikipedia.org/wiki/トヨタ・B型エンジン_\(初代\) "wikilink")
-  - [トヨタ・FZエンジン](https://ja.wikipedia.org/wiki/トヨタ・FZエンジン "wikilink") - 後継機種
+  - [トヨタ・B型エンジン (初代)](../Page/トヨタ・B型エンジン_\(初代\).md "wikilink")
+  - [トヨタ・FZエンジン](../Page/トヨタ・FZエンジン.md "wikilink") - 後継機種
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 ## 外部リンク
 

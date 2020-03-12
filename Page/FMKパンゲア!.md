@@ -1,13 +1,13 @@
 > この記事は[FMK!](https://ja.wikipedia.org/wiki/FMK!)から翻訳されています。
 
 
-**FMK パンゲア\!**（エフエムケイ パンゲア\!）は、FMK[エフエム熊本](../Page/エフエム熊本.md "wikilink")で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から、毎週月曜 - 木曜の11:30 - 14:35（[JST](../Page/日本標準時.md "wikilink")）に放送している午後の[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。
+**FMK パンゲア\!**（エフエムケイ パンゲア\!）は、FMK[エフエム熊本](../Page/エフエム熊本.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から、毎週月曜 - 木曜の11:30 - 14:35（[JST](../Page/日本標準時.md "wikilink")）に放送している午後の[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
 ## 概要
 
-前番組で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から10年に渡って放送された『[お昼もGAMADAS](https://ja.wikipedia.org/wiki/お昼もGAMADAS "wikilink")』を引き継ぐ形で開始。曜日によって構成が全く違い、その曜日によって独立した番組のように聞こえる。
+前番組で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から10年に渡って放送された『[お昼もGAMADAS](../Page/お昼もGAMADAS.md "wikilink")』を引き継ぐ形で開始。曜日によって構成が全く違い、その曜日によって独立した番組のように聞こえる。
 
-2007年の番組オープニングや番組宣伝の[BGMとして](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")[菅野よう子](../Page/菅野よう子.md "wikilink")の「[ヤキトリ](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_O.S.T. "wikilink")」が使用されていた。
+2007年の番組オープニングや番組宣伝の[BGMとして](../Page/バックグラウンドミュージック.md "wikilink")[菅野よう子](../Page/菅野よう子.md "wikilink")の「[ヤキトリ](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_O.S.T. "wikilink")」が使用されていた。
 
 [2018年](../Page/2018年.md "wikilink")、日本民間放送連盟賞（連盟賞）ラジオ生ワイド部門で優秀賞を受賞。
 
@@ -17,17 +17,17 @@
 
 2019年4月現在。
 
-  - 月曜日 - [MEG](https://ja.wikipedia.org/wiki/MEG_\(ディスクジョッキー\) "wikilink")＆[英太郎](https://ja.wikipedia.org/wiki/英太郎 "wikilink")ほか
-  - 火曜日 - [中華首藤](https://ja.wikipedia.org/wiki/中華首藤 "wikilink")＆[マッキー](https://ja.wikipedia.org/wiki/マッキー_\(熊本ローカルタレント\) "wikilink")
-  - 水曜日 - [黒木よしひろ](https://ja.wikipedia.org/wiki/黒木よしひろ "wikilink")＆[松田結花](https://ja.wikipedia.org/wiki/松田結花 "wikilink")
-  - 木曜日 - [永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")＆[寺野茜](https://ja.wikipedia.org/wiki/寺野茜 "wikilink")
+  - 月曜日 - [MEG](../Page/MEG_\(ディスクジョッキー\).md "wikilink")＆[英太郎](../Page/英太郎.md "wikilink")ほか
+  - 火曜日 - [中華首藤](../Page/中華首藤.md "wikilink")＆[マッキー](https://ja.wikipedia.org/wiki/マッキー_\(熊本ローカルタレント\) "wikilink")
+  - 水曜日 - [黒木よしひろ](../Page/黒木よしひろ.md "wikilink")＆[松田結花](https://ja.wikipedia.org/wiki/松田結花 "wikilink")
+  - 木曜日 - [永松ケンシ](../Page/永松ケンシ.md "wikilink")＆[寺野茜](https://ja.wikipedia.org/wiki/寺野茜 "wikilink")
 
 ### 過去
 
   - [前園絵吏](https://ja.wikipedia.org/wiki/前園絵吏 "wikilink")（水曜日担当、2007年4月 - 2008年3月）
-  - [立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")（火曜日担当、2007年4月 - 2008年9月）
+  - [立山律子](../Page/立山律子.md "wikilink")（火曜日担当、2007年4月 - 2008年9月）
   - 渡辺ひとみ（木曜日担当、2007年4月 - 2009年3月）
-  - [かなぶんや](https://ja.wikipedia.org/wiki/かなぶんや "wikilink")（木曜日担当、2007年4月 - 2013年3月）
+  - [かなぶんや](../Page/かなぶんや.md "wikilink")（木曜日担当、2007年4月 - 2013年3月）
   - [野田亜紅](https://ja.wikipedia.org/wiki/野田亜紅 "wikilink")（木曜日担当、2009年4月 - 2013年3月）
   - [真猿](https://ja.wikipedia.org/wiki/真猿_\(熊本ローカルタレント\) "wikilink")（火曜日担当、2008年10月 - 2009年3月）
   - [水上清乃](https://ja.wikipedia.org/wiki/水上清乃 "wikilink")（水曜日担当、2008年3月 - 2018年9月）
@@ -44,7 +44,7 @@
       - （月曜） - PANGEAトピックス
       - （水曜） - エキスパート平野のマイホームクリニック
       - （木曜） - 木パンch
-  - 11:55 - [JFNニュース](https://ja.wikipedia.org/wiki/JFNニュース "wikilink")
+  - 11:55 - [JFNニュース](../Page/JFNニュース.md "wikilink")
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - 13:00 - [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")（JFN[ネット番組](https://ja.wikipedia.org/wiki/ネット番組 "wikilink")）
+  - 13:00 - [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")（JFN[ネット番組](../Page/ネット番組.md "wikilink")）
   - 13:30 - 日替わり企画
       - 月曜 - 時事ダイアリー
       - 火曜 - 中華、お騒がせします

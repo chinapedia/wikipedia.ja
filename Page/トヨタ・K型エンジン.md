@@ -1,23 +1,23 @@
 > この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
 
 
-**トヨタ・K型エンジン**（トヨタ・Kがたエンジン）は、[1966年](../Page/1966年.md "wikilink")（昭和41年）から[2013年](../Page/2013年.md "wikilink")（平成25年）まで製造されていた[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")。
+**トヨタ・K型エンジン**（トヨタ・Kがたエンジン）は、[1966年](../Page/1966年.md "wikilink")（昭和41年）から[2013年](../Page/2013年.md "wikilink")（平成25年）まで製造されていた[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。
 
-長期に渡って生産が続けられていたがその後、自動車用は最終的に平成20年排出ガス規制に適応することができず、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")を以って生産終了となったが、一方の[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製の[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")「プチランナーG」用の5K型に限り、作業車用・産業用として2013年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで継続生産されていた。
+長期に渡って生産が続けられていたがその後、自動車用は最終的に平成20年排出ガス規制に適応することができず、[2007年](../Page/2007年.md "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")を以って生産終了となったが、一方の[豊田自動織機](../Page/豊田自動織機.md "wikilink")製の[フォークリフト](../Page/フォークリフト.md "wikilink")「プチランナーG」用の5K型に限り、作業車用・産業用として2013年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで継続生産されていた。
 
 ## 概要
 
-原型は1966年に初代（KE10型）[カローラ用のエンジンとして開発され](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")、競合する[日産・サニー](../Page/日産・サニー.md "wikilink")用エンジンの[日産・A型エンジン](https://ja.wikipedia.org/wiki/日産・A型エンジン "wikilink")シリーズが当初3ベアリング式を採用していたのに対し、設計段階から5[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")式が採用されている\[1\]。
+原型は1966年に初代（KE10型）[カローラ用のエンジンとして開発され](../Page/トヨタ・カローラ.md "wikilink")、競合する[日産・サニー](../Page/日産・サニー.md "wikilink")用エンジンの[日産・A型エンジン](https://ja.wikipedia.org/wiki/日産・A型エンジン "wikilink")シリーズが当初3ベアリング式を採用していたのに対し、設計段階から5[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")式が採用されている\[1\]。
 
-構造自体はほぼ同期に登場した日産A型シリーズ同様、シンプルな[ターンフロー](https://ja.wikipedia.org/wiki/ターンフロー "wikilink")（カウンターフロー）式[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")機構ながらカムシャフト位置を[ハイマウントカムシャフト](https://ja.wikipedia.org/wiki/ハイマウントカムシャフト "wikilink")タイプとして、高速化に対処している。コンパクトかつ低重心で軽量なうえ、信頼性や耐久性に秀でており、初代カローラが発売された当時では、小型車用エンジンとして高い水準の性能を備えていた。
+構造自体はほぼ同期に登場した日産A型シリーズ同様、シンプルな[ターンフロー](https://ja.wikipedia.org/wiki/ターンフロー "wikilink")（カウンターフロー）式[OHV](../Page/OHV.md "wikilink")機構ながらカムシャフト位置を[ハイマウントカムシャフト](https://ja.wikipedia.org/wiki/ハイマウントカムシャフト "wikilink")タイプとして、高速化に対処している。コンパクトかつ低重心で軽量なうえ、信頼性や耐久性に秀でており、初代カローラが発売された当時では、小型車用エンジンとして高い水準の性能を備えていた。
 
-初代カローラ開発時にはコスト低減のために、[トヨエース等の小型トラック用とも汎用されていた旧世代エンジンの](../Page/トヨタ・トヨエース.md "wikilink")[P型を流用する案もあったが](https://ja.wikipedia.org/wiki/トヨタ・P型エンジン "wikilink")、カローラ開発チームの主査であった[長谷川龍雄](https://ja.wikipedia.org/wiki/長谷川龍雄 "wikilink")は「**そんな旧型の重いエンジンでは高速化時代に対応できない**」とP型流用案を一蹴、高速（高回転）・小型・軽量型の新エンジンであるK型を開発させたと自ら証言している。K型は当初1,000cc級エンジンとして設計されていたが、カローラ市販化が間近になった時期に至って営業側の強力な要請で排気量増大が求められ、急遽、突貫作業で1,077ccへの設計変更が行われて、「**プラス100ccの余裕**」という初代カローラのキャッチコピーを生んだという逸話が知られる。
+初代カローラ開発時にはコスト低減のために、[トヨエース等の小型トラック用とも汎用されていた旧世代エンジンの](../Page/トヨタ・トヨエース.md "wikilink")[P型を流用する案もあったが](../Page/トヨタ・P型エンジン.md "wikilink")、カローラ開発チームの主査であった[長谷川龍雄](https://ja.wikipedia.org/wiki/長谷川龍雄 "wikilink")は「**そんな旧型の重いエンジンでは高速化時代に対応できない**」とP型流用案を一蹴、高速（高回転）・小型・軽量型の新エンジンであるK型を開発させたと自ら証言している。K型は当初1,000cc級エンジンとして設計されていたが、カローラ市販化が間近になった時期に至って営業側の強力な要請で排気量増大が求められ、急遽、突貫作業で1,077ccへの設計変更が行われて、「**プラス100ccの余裕**」という初代カローラのキャッチコピーを生んだという逸話が知られる。
 
-以後、カローラ（初代〜4代目）や[パブリカ](../Page/トヨタ・パブリカ.md "wikilink")（2代目のみ）、[スターレット](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")（初代・2代目）、[ライトエース](https://ja.wikipedia.org/wiki/トヨタ・ライトエース "wikilink")（初代〜5代目）などを中心としたトヨタの小型車用エンジンの主力として広範囲に用いられた。その優れた信頼性と素性ゆえに自動車用途はもとより、フォークリフトなどの作業用車両や一部の産業用エンジンなどの用途にも幅広く使用された。
+以後、カローラ（初代〜4代目）や[パブリカ](../Page/トヨタ・パブリカ.md "wikilink")（2代目のみ）、[スターレット](../Page/トヨタ・スターレット.md "wikilink")（初代・2代目）、[ライトエース](../Page/トヨタ・ライトエース.md "wikilink")（初代〜5代目）などを中心としたトヨタの小型車用エンジンの主力として広範囲に用いられた。その優れた信頼性と素性ゆえに自動車用途はもとより、フォークリフトなどの作業用車両や一部の産業用エンジンなどの用途にも幅広く使用された。
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 生産期間
 
@@ -34,7 +34,7 @@
   - 出力：60ps/6,000rpm
   - トルク：8.5kg·m/3,800rpm
   - 搭載車種（車両型式）
-      - （初）初代[カローラ](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")（KE10） - ※ ハイデラックス、SL以外
+      - （初）初代[カローラ](../Page/トヨタ・カローラ.md "wikilink")（KE10） - ※ ハイデラックス、SL以外
       - 初代カローラ[4ドアセダン](../Page/セダン.md "wikilink")（KE10-F） - ※ ハイデラックス以外
       - 初代カローラバン（KE16V）
       - 初代カローラスプリンター（KE15）
@@ -63,7 +63,7 @@
   - トルク：9.0kg·m/4,600rpm
   - 搭載車種（車両型式）
       - （初）初代カローラSL（KE10-S）
-      - （初）初代[カローラスプリンターSL](https://ja.wikipedia.org/wiki/トヨタ・スプリンター "wikilink")（KE15-S）
+      - （初）初代[カローラスプリンターSL](../Page/トヨタ・スプリンター.md "wikilink")（KE15-S）
       - 2代目[パブリカ](../Page/トヨタ・パブリカ.md "wikilink")1100SL（KP31-S）
 
 ### 2K
@@ -78,7 +78,7 @@
   - トルク：7.9kg·m/4,000rpm
   - 搭載車種（車両型式）
       - （初）2代目パブリカ（KP30 / KP36 / KP36V）
-      - 初代[パブリカスターレット](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")（KP40 / KP42）
+      - 初代[パブリカスターレット](../Page/トヨタ・スターレット.md "wikilink")（KP40 / KP42）
       - 2代目スターレット（輸出仕様）（KP60）
 
 ### 3K
@@ -92,12 +92,12 @@
   - 搭載車種（車両型式）
       - （初）初代カローラ（KE11 / KE11-F / KE18V）
       - 初代カローラスプリンター（KE17）
-      - 2代目カローラ/[スプリンター](https://ja.wikipedia.org/wiki/トヨタ・スプリンター "wikilink")（KE20 / KE25）（KE26V（ - 75,11））
+      - 2代目カローラ/[スプリンター](../Page/トヨタ・スプリンター.md "wikilink")（KE20 / KE25）（KE26V（ - 75,11））
       - 2代目パブリカ（KP31 / KP37 / KP37V）
-      - 初代[パブリカスターレット](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")（KP42 / KP47）\[2\]
+      - 初代[パブリカスターレット](../Page/トヨタ・スターレット.md "wikilink")（KP42 / KP47）\[2\]
       - 初代ライトエース（KM10）
       - 初代タウンエースバン（KR10）
-      - 初代[ダイハツ・シャルマン](https://ja.wikipedia.org/wiki/ダイハツ・シャルマン "wikilink")／シャルマンバン（前期型・最初期モデル）
+      - 初代[ダイハツ・シャルマン](../Page/ダイハツ・シャルマン.md "wikilink")／シャルマンバン（前期型・最初期モデル）
 
 ### 3K-D
 
@@ -157,9 +157,9 @@
 
 ### 3K-U
 
-[昭和51年度排出ガス規制適合](https://ja.wikipedia.org/wiki/1976年 "wikilink") (B)
+[昭和51年度排出ガス規制適合](../Page/1976年.md "wikilink") (B)
 
-  - 種類：OHV 8バルブ シングルキャブレター 酸化[触媒](../Page/触媒.md "wikilink") [TTC-C](https://ja.wikipedia.org/wiki/トヨタトータルクリーンシステム "wikilink")（トヨタ触媒方式）
+  - 種類：OHV 8バルブ シングルキャブレター 酸化[触媒](../Page/触媒.md "wikilink") [TTC-C](../Page/トヨタトータルクリーンシステム.md "wikilink")（トヨタ触媒方式）
   - 排気量：1.166L
   - 内径×行程：75.0×66.0(mm)
   - 圧縮比：9.0
@@ -201,7 +201,7 @@
   - トルク：10.5kg·m/3,600rpm
   - 搭載車種（車両型式）
       - （初）3代目カローラ（KE55）/ スプリンター（KE65）
-      - 2代目[スターレット](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")（KP61（ - 81.8））
+      - 2代目[スターレット](../Page/トヨタ・スターレット.md "wikilink")（KP61（ - 81.8））
       - 4代目カローラ / スプリンター（KE70）
       - 初代ダイハツ・シャルマン（後期型）
 
@@ -216,7 +216,7 @@
   - 出力：74ps/5,600rpm
   - トルク：10.7kg·m/3,600rpm
   - 搭載車種（車両型式）
-      - 2代目[スターレット](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")（KP61（81,8 -））
+      - 2代目[スターレット](../Page/トヨタ・スターレット.md "wikilink")（KP61（81,8 -））
       - 4代目カローラ / スプリンター（KE70 / KE73G）
       - 2代目ダイハツ・シャルマン
 
@@ -245,10 +245,10 @@
       - 2代目スターレットバン（KP61V）
       - 2代目パブリカピックアップ（KP39）
       - 4代目カローラバン（KE71V / KE72V）
-      - 初代[ライトエース](https://ja.wikipedia.org/wiki/トヨタ・ライトエース "wikilink")（KM11）
+      - 初代[ライトエース](../Page/トヨタ・ライトエース.md "wikilink")（KM11）
       - 2代目ライトエース（KM20 / KM21）
       - 3代目ライトエース（KM35V）（KM50）
-      - 初代[タウンエースバン](https://ja.wikipedia.org/wiki/トヨタ・タウンエース "wikilink")（KR11）
+      - 初代[タウンエースバン](../Page/トヨタ・タウンエース.md "wikilink")（KR11）
       - 2代目タウンエースバン（KR26V）
       - 初代ダイハツ・シャルマンバン（後期型）
 
@@ -267,7 +267,7 @@
       - 3代目[カリーナバン](../Page/トヨタ・カリーナ.md "wikilink")（KA67V）
       - 7代目[コロナバン](../Page/トヨタ・コロナ.md "wikilink")（KT147V）
       - 3代目ライトエース（KM31V / KM36V）（KM51（ - 97,04））
-      - 初代[デリボーイ](https://ja.wikipedia.org/wiki/トヨタ・デリボーイ "wikilink")（KXC10V）
+      - 初代[デリボーイ](../Page/トヨタ・デリボーイ.md "wikilink")（KXC10V）
 
 ### 5K-U
 
@@ -291,10 +291,10 @@
   - 出力：70ps/4,800rpm
   - トルク：11.7kg·m/3,200rpm
   - 搭載車種（車両型式）
-      - 1t系15型後期～16型（[小松フォークリフト](https://ja.wikipedia.org/wiki/小松フォークリフト "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
-      - 5FG（[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
-      - 6FG（[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
-      - 7FG（[豊田自動織機](https://ja.wikipedia.org/wiki/豊田自動織機 "wikilink")製・[フォークリフト](https://ja.wikipedia.org/wiki/フォークリフト "wikilink")）
+      - 1t系15型後期～16型（[小松フォークリフト](https://ja.wikipedia.org/wiki/小松フォークリフト "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
+      - 5FG（[豊田自動織機](../Page/豊田自動織機.md "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
+      - 6FG（[豊田自動織機](../Page/豊田自動織機.md "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
+      - 7FG（[豊田自動織機](../Page/豊田自動織機.md "wikilink")製・[フォークリフト](../Page/フォークリフト.md "wikilink")）
       - 5代目ライトエースバン/3代目タウンエースバン（KR41V）
       - 3代目ライトエーストラック（KM51（97,04 - ））
 
@@ -318,7 +318,7 @@
   - 出力：60kW(82ps)/4,800rpm
   - トルク：142N·m(14.5kg·m)/2,800rpm
   - 搭載車種（車両型式）
-      - （初）5代目[ライトエースバン](https://ja.wikipedia.org/wiki/トヨタ・ライトエース "wikilink") / 3代目[タウンエースバン](https://ja.wikipedia.org/wiki/トヨタ・タウンエース "wikilink")（KR42V（98,10 - ））（KR51V）
+      - （初）5代目[ライトエースバン](../Page/トヨタ・ライトエース.md "wikilink") / 3代目[タウンエースバン](../Page/トヨタ・タウンエース.md "wikilink")（KR42V（98,10 - ））（KR51V）
       - （初）4代目ライトエーストラック / 4代目タウンエーストラック（KM70 / 80系）
 
 ## 脚注
@@ -328,8 +328,8 @@
 ## 関連項目
 
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
   - [日産・A型エンジン](https://ja.wikipedia.org/wiki/日産・A型エンジン "wikilink")
   - [三菱・KE4系・KE6系エンジン](https://ja.wikipedia.org/wiki/三菱・KE4系・KE6系エンジン "wikilink")
   - [三菱・4G4系エンジン](https://ja.wikipedia.org/wiki/三菱・4G4系エンジン "wikilink")
@@ -337,7 +337,7 @@
 
 ## 外部リンク
 
-  - [プチランナーG](http://www.toyota-lf.com/product/petit_runner_g.html)（[トヨタL\&F](https://ja.wikipedia.org/wiki/トヨタL&F "wikilink")）
+  - [プチランナーG](http://www.toyota-lf.com/product/petit_runner_g.html)（[トヨタL\&F](../Page/トヨタL&F.md "wikilink")）
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")
 

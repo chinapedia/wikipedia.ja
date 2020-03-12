@@ -1,7 +1,7 @@
 > この記事は[papipo!](https://ja.wikipedia.org/wiki/papipo!)から翻訳されています。
 
 
-**キッズケータイpapipo\!**（キッズケータイ パピポ）とは、[バンダイ](../Page/バンダイ.md "wikilink")と[ウィルコム](../Page/ウィルコム.md "wikilink")の共同開発により[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月](../Page/6月.md "wikilink")に正式に販売が開始された[W-SIM](https://ja.wikipedia.org/wiki/W-SIM "wikilink")に対応した[PHS](../Page/PHS.md "wikilink")音声端末。ウィルコム向けに供給するだけではなく、バンダイからも直接販売される[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製端末である。
+**キッズケータイpapipo\!**（キッズケータイ パピポ）とは、[バンダイ](../Page/バンダイ.md "wikilink")と[ウィルコム](../Page/ウィルコム.md "wikilink")の共同開発により[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")に正式に販売が開始された[W-SIM](../Page/W-SIM.md "wikilink")に対応した[PHS](../Page/PHS.md "wikilink")音声端末。ウィルコム向けに供給するだけではなく、バンダイからも直接販売される[サードパーティー](../Page/サードパーティー.md "wikilink")製端末である。
 
 ## 概要
 
@@ -11,11 +11,11 @@
 
 バンダイが本機専用サイト「キッズスタジオ」を用意し、Eメールを含むデータ通信は全て、このサイトを用いて行う形式だった。なお、キッズスタジオは、2009年9月30日にコンテンツの追加が停止し、2010年9月30日18時限りでサービス終了した\[1\]。そのため現在は、通話以外の通信機能は一切利用できない。カメラの画像も撮影しても外部に保存出来なくなった。
 
-販売はウィルコムだけでなく、バンダイの販売網も利用し、玩具流通でも販売されている。ただし、購入に際して回線契約が必須であること、加えて本人確認が厳密化されたこともあり、[トミーの](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")「ファーストモバイル」シリーズや[セガトイズ](https://ja.wikipedia.org/wiki/セガトイズ "wikilink")の「P-tomo」など、かつて玩具流通で販売されていたプリペイド携帯・PHSに比べ取扱店は少なく、[トイザらス](../Page/トイザらス.md "wikilink")など一部に限られている。
+販売はウィルコムだけでなく、バンダイの販売網も利用し、玩具流通でも販売されている。ただし、購入に際して回線契約が必須であること、加えて本人確認が厳密化されたこともあり、[トミーの](../Page/タカラトミー.md "wikilink")「ファーストモバイル」シリーズや[セガトイズ](../Page/セガトイズ.md "wikilink")の「P-tomo」など、かつて玩具流通で販売されていたプリペイド携帯・PHSに比べ取扱店は少なく、[トイザらス](../Page/トイザらス.md "wikilink")など一部に限られている。
 
-なお、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")・[19日に](../Page/3月19日.md "wikilink")[アクアシティお台場](https://ja.wikipedia.org/wiki/アクアシティお台場 "wikilink")で開催の「[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")スタイルデビューイベント」にて先行予約販売が行われ、正式販売開始以前の3月下旬から4月上旬に、購入者の元に届けられた。
+なお、[2006年](../Page/2006年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")・[19日に](../Page/3月19日.md "wikilink")[アクアシティお台場](../Page/アクアシティお台場.md "wikilink")で開催の「[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")スタイルデビューイベント」にて先行予約販売が行われ、正式販売開始以前の3月下旬から4月上旬に、購入者の元に届けられた。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")、バンダイ提供の[少女層を対象にしたドラマ](https://ja.wikipedia.org/wiki/児童向けドラマ "wikilink")『[チョコミミ](https://ja.wikipedia.org/wiki/チョコミミ "wikilink")』に登場した。
+[2007年](../Page/2007年.md "wikilink")、バンダイ提供の[少女層を対象にしたドラマ](https://ja.wikipedia.org/wiki/児童向けドラマ "wikilink")『[チョコミミ](../Page/チョコミミ.md "wikilink")』に登場した。
 
 ### 主な機能
 
@@ -26,7 +26,7 @@
   - [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")
     バンダイが提供する子供専用サイト「キッズスタジオ」にアクセスを限定していた。メールの文中に挿入されるURLやメールアドレス、電話番号にもアクセスできない仕組みだった。
   - [Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")
-    4種類のゲームがプリセットされている。「IQナンバー」、「IQ漢検」、「つなげてカラーピクチャー」は全モデルに、「フォーチュンロット占い」は女の子向けモデルのみに、「スピードギア」が男の子向けモデルのみに搭載。また、papipo\!からのみアクセスできる専用サイト「こちらBスタジオ！」から、別途アプリケーションのダウンロードも可能だったが、前述の通り現在は不可能となっている。なお、Javaは[MIDP 2.0に近い独自仕様](https://ja.wikipedia.org/wiki/Mobile_Information_Device_Profile "wikilink")。
+    4種類のゲームがプリセットされている。「IQナンバー」、「IQ漢検」、「つなげてカラーピクチャー」は全モデルに、「フォーチュンロット占い」は女の子向けモデルのみに、「スピードギア」が男の子向けモデルのみに搭載。また、papipo\!からのみアクセスできる専用サイト「こちらBスタジオ！」から、別途アプリケーションのダウンロードも可能だったが、前述の通り現在は不可能となっている。なお、Javaは[MIDP 2.0に近い独自仕様](../Page/Mobile_Information_Device_Profile.md "wikilink")。
   - 赤外線通信
     papipo\!同士のみの通信に対応。
   - 安心モード

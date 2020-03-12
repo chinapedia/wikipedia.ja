@@ -3,7 +3,7 @@
 
 『**RISE FROM LAIR**』（ライズフロムレア）は、[PLAYSTATION 3専用の](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
-[ハリウッド](../Page/ハリウッド.md "wikilink")映画のノウハウが注ぎ込まれ、ハリウッドのアートディレクターやサウンドでは『[シン・シティ](https://ja.wikipedia.org/wiki/シン・シティ "wikilink")』『[チキン・リトル](https://ja.wikipedia.org/wiki/チキン・リトル "wikilink")』『[パッション](../Page/パッション_\(2004年の映画\).md "wikilink")』等の[ジョン・デブニー](https://ja.wikipedia.org/wiki/ジョン・デブニー "wikilink")が担当。
+[ハリウッド](../Page/ハリウッド.md "wikilink")映画のノウハウが注ぎ込まれ、ハリウッドのアートディレクターやサウンドでは『[シン・シティ](../Page/シン・シティ.md "wikilink")』『[チキン・リトル](../Page/チキン・リトル.md "wikilink")』『[パッション](../Page/パッション_\(2004年の映画\).md "wikilink")』等の[ジョン・デブニー](../Page/ジョン・デブニー.md "wikilink")が担当。
 
 ## 概要
 
@@ -19,11 +19,11 @@
 
 ### アシリア帝国
 
-  - ロン（[声優](../Page/声優.md "wikilink")：[加瀬康之](https://ja.wikipedia.org/wiki/加瀬康之 "wikilink")）
+  - ロン（[声優](../Page/声優.md "wikilink")：[加瀬康之](../Page/加瀬康之.md "wikilink")）
 
 本作の主人公。 貧しい家庭に生まれたが、懸命な努力を重ねて、名誉あるスカイガードとなった。 突如始まったモーカイ族の侵攻に、仲間たちと共に立ち向かう。
 
-  - ジェヴォン（[声優](../Page/声優.md "wikilink")：[咲野俊介](https://ja.wikipedia.org/wiki/咲野俊介 "wikilink")）
+  - ジェヴォン（[声優](../Page/声優.md "wikilink")：[咲野俊介](../Page/咲野俊介.md "wikilink")）
 
 アシリア帝国のスカイガード仲間。 ロンとは古くからのつきあいがある、幼馴染。 偵察任務中に軽口をたたくなどいい加減でおちゃらけた性格だが、確かな実力を持っている。
 
@@ -39,7 +39,7 @@
 
 スカイガードのメンバーの一人。 最初の襲撃で単身アタ・カイに立ち向かい、戦死する。
 
-  - 預言者（[声優](../Page/声優.md "wikilink")：[内田直哉](https://ja.wikipedia.org/wiki/内田直哉 "wikilink")）
+  - 預言者（[声優](../Page/声優.md "wikilink")：[内田直哉](../Page/内田直哉.md "wikilink")）
 
 アシリア帝国での宗教的トップ。 モーカイ族を敵視し、近頃の火山活動等はその機械文明に対する神の怒りだとした。 彼らを殲滅するためにローデンを利用し戦乱の引き金を引く。
 
@@ -63,9 +63,9 @@
 
 ## 関連情報
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")、[PLAYSTATION Storeにて](https://ja.wikipedia.org/wiki/PlayStation_Store "wikilink")[ハイビジョン（720p）画質のショートプロモーションビデオと](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送#750p.2F720p "wikilink")、メイキングビデオハイライト〜前編〜 が配信された。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月28日](../Page/8月28日.md "wikilink")、PLAYSTATION Storeにて[フルハイビジョン（1080p）画質のフルプロモーションビデオが配信された](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送#1125p.2F1080p "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月11日](../Page/10月11日.md "wikilink") - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")、推定販売数2万6119本（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")調べ）
+  - [2007年](../Page/2007年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")、[PLAYSTATION Storeにて](../Page/PlayStation_Store.md "wikilink")[ハイビジョン（720p）画質のショートプロモーションビデオと](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送#750p.2F720p "wikilink")、メイキングビデオハイライト〜前編〜 が配信された。
+  - [2007年](../Page/2007年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")、PLAYSTATION Storeにて[フルハイビジョン（1080p）画質のフルプロモーションビデオが配信された](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送#1125p.2F1080p "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")、推定販売数2万6119本（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")調べ）
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")、アナログパッチ・追加ドラゴンの無料アップデータが配信開始。
 
 ## スタッフ

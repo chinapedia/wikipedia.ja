@@ -6,10 +6,10 @@
 ## 来歴
 
   - 高校時代からギターと作曲を開始し、同級生とともにユニット「タフ・ガール」を結成。地元での路上ライブやCDの自主制作などを行う。高校卒業とともにユニットを解散し、単身福岡に移る。2007年5月に「CHERRY LYDER」名義での初シングルをリリース。
-  - [ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")[阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")がプロデューサー
-  - 2007年4月1日　[阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink")「四ツ葉の森（上）ABERRATION」ツアー東京公演（＠Shibuya-BOXX）に参加。
-  - [SPEEDSTAR RECORDS](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")15周年「LIVE SPEEDSTAR EXPRESS 〜15歳の初体験（はつたいけん）〜」（2007/11/8）にオープニング・アクトとして出演決定
-  - 2007年11月7日に[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")[SPEEDSTAR RECORDSより](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")「NAMUKINガール」でメジャーデビュー
+  - [ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")[阿部義晴](../Page/阿部義晴.md "wikilink")がプロデューサー
+  - 2007年4月1日　[阿部義晴](../Page/阿部義晴.md "wikilink")「四ツ葉の森（上）ABERRATION」ツアー東京公演（＠Shibuya-BOXX）に参加。
+  - [SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")15周年「LIVE SPEEDSTAR EXPRESS 〜15歳の初体験（はつたいけん）〜」（2007/11/8）にオープニング・アクトとして出演決定
+  - 2007年11月7日に[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")[SPEEDSTAR RECORDSより](../Page/SPEEDSTAR_RECORDS.md "wikilink")「NAMUKINガール」でメジャーデビュー
 
 <!-- end list -->
 
@@ -18,10 +18,10 @@
 ### メンバー
 
   - [阿部義晴☆ポルチーニ。](../Page/阿部義晴☆ポルチーニ。.md "wikilink")
-  - [阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink") (Vo & Pf & Guitar)
+  - [阿部義晴](../Page/阿部義晴.md "wikilink") (Vo & Pf & Guitar)
   - [外薗雄一](https://ja.wikipedia.org/wiki/外薗雄一 "wikilink") (Drums)
-  - [木内健](https://ja.wikipedia.org/wiki/木内健 "wikilink") (Guitar & HAMMOND)
-  - [高橋"Jr."知治](https://ja.wikipedia.org/wiki/高橋"Jr."知治 "wikilink") (Bass & Harmonica)
+  - [木内健](../Page/木内健.md "wikilink") (Guitar & HAMMOND)
+  - [高橋"Jr."知治](../Page/高橋"Jr."知治.md "wikilink") (Bass & Harmonica)
   - [西園寺瞳](https://ja.wikipedia.org/wiki/西園寺瞳 "wikilink") from 氣志團 (Guitar) ）
 
 2009年以降、事実上音楽活動を停止。

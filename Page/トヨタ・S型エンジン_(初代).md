@@ -1,15 +1,15 @@
 > この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
 
 
-**トヨタ・S型エンジン**（トヨタ・Sがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。
+**トヨタ・S型エンジン**（トヨタ・Sがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。
 
-トヨタはシボレーエンジンをベースとしたトヨタ最初のエンジン[A型](../Page/トヨタ・A型エンジン_\(初代\).md "wikilink")（1935年-）から一貫して動弁機構は[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")を採用してきており伝統ともいえるものだったが、本エンジンでは[フラットヘッド（サイドバルブ、SV）となり](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")、動弁機構としてはある種の「先祖返り」となった。 本エンジンの開発は[1945年](../Page/1945年.md "wikilink")9月頃に設計着手、[翌年](../Page/1946年.md "wikilink")3月頃に設計完了、同年9月に現物完成と、[戦後混乱期](https://ja.wikipedia.org/wiki/戦後混乱期 "wikilink")の資材や設備が欠乏する状況下において、簡易さと堅実さが要求されたため、サイドバルブとせざるを得なかったためである。本エンジン以降にトヨタではサイドバルブエンジンは作られなかったため、本エンジンがトヨタで唯一のサイドバルブエンジンとなる。\[1\]
+トヨタはシボレーエンジンをベースとしたトヨタ最初のエンジン[A型](../Page/トヨタ・A型エンジン_\(初代\).md "wikilink")（1935年-）から一貫して動弁機構は[OHV](../Page/OHV.md "wikilink")を採用してきており伝統ともいえるものだったが、本エンジンでは[フラットヘッド（サイドバルブ、SV）となり](../Page/サイドバルブ.md "wikilink")、動弁機構としてはある種の「先祖返り」となった。 本エンジンの開発は[1945年](../Page/1945年.md "wikilink")9月頃に設計着手、[翌年](../Page/1946年.md "wikilink")3月頃に設計完了、同年9月に現物完成と、[戦後混乱期](../Page/戦後混乱期.md "wikilink")の資材や設備が欠乏する状況下において、簡易さと堅実さが要求されたため、サイドバルブとせざるを得なかったためである。本エンジン以降にトヨタではサイドバルブエンジンは作られなかったため、本エンジンがトヨタで唯一のサイドバルブエンジンとなる。\[1\]
 
-各部の構造は英国[フォードが](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")[1932](../Page/1932年.md "wikilink") - [1937年](../Page/1937年.md "wikilink")に製造したベビーフォード（[:en:Ford Model Y](https://ja.wikipedia.org/wiki/:en:Ford_Model_Y "wikilink")）、主要諸元と性能は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[アドラーが](https://ja.wikipedia.org/wiki/アドラー_\(自動車メーカー\) "wikilink")[1936](../Page/1936年.md "wikilink") - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")に製造したトランプ・ジュニア（[:en:Adler Trumpf Junior](https://ja.wikipedia.org/wiki/:en:Adler_Trumpf_Junior "wikilink")）のエンジンを[リバースエンジニアリング](https://ja.wikipedia.org/wiki/リバースエンジニアリング "wikilink")し参考にしている。
+各部の構造は英国[フォードが](../Page/フォード・モーター.md "wikilink")[1932](../Page/1932年.md "wikilink") - [1937年](../Page/1937年.md "wikilink")に製造したベビーフォード（[:en:Ford Model Y](https://ja.wikipedia.org/wiki/:en:Ford_Model_Y "wikilink")）、主要諸元と性能は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[アドラーが](https://ja.wikipedia.org/wiki/アドラー_\(自動車メーカー\) "wikilink")[1936](../Page/1936年.md "wikilink") - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")に製造したトランプ・ジュニア（[:en:Adler Trumpf Junior](https://ja.wikipedia.org/wiki/:en:Adler_Trumpf_Junior "wikilink")）のエンジンを[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")し参考にしている。
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 
 
@@ -17,9 +17,9 @@
 
 [1947年](../Page/1947年.md "wikilink")10月登場
 
-[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")
+[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")
 
-[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[SV（サイドバルブ）](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")
+[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[SV（サイドバルブ）](../Page/サイドバルブ.md "wikilink")
 
 ### S - 1000cc
 
@@ -41,7 +41,7 @@
 
 ## 搭載車種
 
-  - （初）[トヨペットSA型](https://ja.wikipedia.org/wiki/トヨペット・SA型小型乗用車 "wikilink")（トヨタ初の量産小型乗用車）
+  - （初）[トヨペットSA型](../Page/トヨペット・SA型小型乗用車.md "wikilink")（トヨタ初の量産小型乗用車）
   - （初）トヨペットSB型小型トラック
   - トヨペットSC型
   - トヨペットSD型
@@ -60,8 +60,8 @@
 ## 関連項目
 
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")
 

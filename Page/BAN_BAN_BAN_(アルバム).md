@@ -7,11 +7,11 @@
 
 初回生産盤はPV3曲、ライブ演奏10曲入りのDVDが付属。
 
-2007年春に[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")ライブ「[BIG BAN](https://ja.wikipedia.org/wiki/LIVE_IN_SHIBUKO_"BIG_BAN_BUZZ" "wikilink")」及びアルバムツアー「TOUCH THE MUSIC TOUR」を開催。
+2007年春に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")ライブ「[BIG BAN](https://ja.wikipedia.org/wiki/LIVE_IN_SHIBUKO_"BIG_BAN_BUZZ" "wikilink")」及びアルバムツアー「TOUCH THE MUSIC TOUR」を開催。
 
 ジャケットは[浅川英郎](https://ja.wikipedia.org/wiki/浅川英郎 "wikilink")による撮影。モデルの女の子は[加治彩也香](https://ja.wikipedia.org/wiki/加治彩也香 "wikilink")。アルバム解説文は[いとうせいこう](../Page/いとうせいこう.md "wikilink")。
 
-コマーシャルには[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")が出演。
+コマーシャルには[ダイノジ](../Page/ダイノジ.md "wikilink")が出演。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
 3.  **[LONE STAR (album ver.)](https://ja.wikipedia.org/wiki/LONE_STAR "wikilink")** (3:41)
     （作詞・作曲:永友聖也・久保田光太郎　編曲：久保田光太郎・キャプテンストライダム）
       - 7thシングル
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[天保異聞 妖奇士](https://ja.wikipedia.org/wiki/天保異聞_妖奇士 "wikilink")』第2期オープニングテーマ
+      - [TBS系](../Page/TBSテレビ.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[天保異聞 妖奇士](../Page/天保異聞_妖奇士.md "wikilink")』第2期オープニングテーマ
     <!-- end list -->
       -
         アルバムバージョンで、シングルバージョンとはイントロの入り方が異なる。ベストアルバム『[ベストロリー](https://ja.wikipedia.org/wiki/ベストロリー "wikilink")』にはシングル・バージョンで収録されている。
@@ -38,7 +38,7 @@
       -
         アルバムバージョンでの収録。
 6.  **[風船ガム](https://ja.wikipedia.org/wiki/風船ガム_\(曲\) "wikilink")** (4:15)
-    （作詞：[松本隆](../Page/松本隆.md "wikilink")　作曲:永友聖也　編曲：[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")・キャプテンストライダム）
+    （作詞：[松本隆](../Page/松本隆.md "wikilink")　作曲:永友聖也　編曲：[笹路正徳](../Page/笹路正徳.md "wikilink")・キャプテンストライダム）
       - 5thシングル。
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[アニメ](../Page/アニメ.md "wikilink")『[銀魂](../Page/銀魂_\(アニメ\).md "wikilink")』第1期エンディングテーマ
     <!-- end list -->
@@ -69,10 +69,10 @@
 
 **2006.9.23 EAGLE NIGHT テーマ・ソウルフル**
 
-1.  [犬の生活](https://ja.wikipedia.org/wiki/ブッコロリー "wikilink")
+1.  [犬の生活](../Page/ブッコロリー.md "wikilink")
 2.  [フランクフルト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink")
-3.  [ブッコロリー](https://ja.wikipedia.org/wiki/ブッコロリー "wikilink")
-4.  [影の無い男](https://ja.wikipedia.org/wiki/ブッコロリー "wikilink")
+3.  [ブッコロリー](../Page/ブッコロリー.md "wikilink")
+4.  [影の無い男](../Page/ブッコロリー.md "wikilink")
 
 **2006.10.22 SHARK NIGHT テーマ・バンドロック**
 
@@ -96,7 +96,7 @@
         曲のイメージに合わせ、70年代のPV風に撮影。
 3.  **LONE STAR** （ディレクター・[スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")）
       -
-        曲の疾走感やスピード感を障害物競走で再現したというもの。障害物競走のシーンは[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[習志野市](../Page/習志野市.md "wikilink")の袖ヶ浦団地内に所在するショッピングセンターで撮影された。また、「[アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")」のオマージュと思わせるシーンも存在する\[3\]。
+        曲の疾走感やスピード感を障害物競走で再現したというもの。障害物競走のシーンは[千葉県](../Page/千葉県.md "wikilink")[習志野市](../Page/習志野市.md "wikilink")の袖ヶ浦団地内に所在するショッピングセンターで撮影された。また、「[アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")」のオマージュと思わせるシーンも存在する\[3\]。
 
 ## ライブ映像作品
 

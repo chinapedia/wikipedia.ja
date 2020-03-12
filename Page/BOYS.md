@@ -1,7 +1,7 @@
 > この記事は[BOYS](https://ja.wikipedia.org/wiki/BOYS)から翻訳されています。
 
 
-『**BOYS**』（ボーイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**BOYS**』（ボーイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](../Page/SOPHIA.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

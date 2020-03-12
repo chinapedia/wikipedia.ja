@@ -1,7 +1,7 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-**トヨタ・D型エンジン**（トヨタ・Dがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
+**トヨタ・D型エンジン**（トヨタ・Dがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
 
 トヨタ初のディーゼルエンジン。
 
@@ -11,7 +11,7 @@
 
 予燃焼室式[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")
 
-[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")
+[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[OHV](../Page/OHV.md "wikilink")
 
 ### D - 5,900cc
 
@@ -34,10 +34,10 @@
 
 ## 関連項目
 
-  - [トヨタディーゼル店](https://ja.wikipedia.org/wiki/トヨタディーゼル店 "wikilink")
+  - [トヨタディーゼル店](../Page/トヨタディーゼル店.md "wikilink")
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 ## 外部リンク
 

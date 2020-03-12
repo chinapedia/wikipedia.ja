@@ -12,9 +12,9 @@
 
 1.  **think of U**
       - 作詞：Crystal Kay、西尾佐栄子／作曲：[Michico](https://ja.wikipedia.org/wiki/Michico "wikilink")、[T-Kura](https://ja.wikipedia.org/wiki/T-Kura "wikilink")／編曲：T-Kura
-      - [NTT DoCoMo 九州CMソング](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ・ドコモ九州 "wikilink")
+      - [NTT DoCoMo 九州CMソング](../Page/エヌ・ティ・ティ・ドコモ九州.md "wikilink")
 2.  **Attitude**
-      - 作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")／作曲・編曲：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")
+      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")／作曲・編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
       - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[パラッパラッパー](https://ja.wikipedia.org/wiki/パラッパラッパー#アニメ "wikilink")」オープニングテーマ
 3.  **think of U（remix）**
       - 編曲：HIDEA

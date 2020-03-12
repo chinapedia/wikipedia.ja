@@ -1,19 +1,19 @@
 > この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
 
 
-**ファミマTカード** (Famima T Card) は、株式会社[ファミリーマート](../Page/ファミリーマート.md "wikilink")（ファミマ）が[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")株式会社 (CCC) と提携して発行する[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")である。クレジット機能付きのカードは、[ポケットカード](https://ja.wikipedia.org/wiki/ポケットカード "wikilink")株式会社（吸収合併前：[ファミマクレジット](https://ja.wikipedia.org/wiki/ファミマクレジット "wikilink")株式会社）とも提携している。
+**ファミマTカード** (Famima T Card) は、株式会社[ファミリーマート](../Page/ファミリーマート.md "wikilink")（ファミマ）が[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")株式会社 (CCC) と提携して発行する[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")である。クレジット機能付きのカードは、[ポケットカード](../Page/ポケットカード.md "wikilink")株式会社（吸収合併前：[ファミマクレジット](../Page/ファミマクレジット.md "wikilink")株式会社）とも提携している。
 
 ## 概要
 
-ファミマが従来から発行していた「ファミマカード」に[Tポイント](https://ja.wikipedia.org/wiki/Tポイント "wikilink")サービスを追加することでリニューアルし、[2007年](../Page/2007年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")から発行を開始した\[1\]。なお、ファミマTカード導入前の2007年[3月31日](../Page/3月31日.md "wikilink")までは競合相手の[ローソン](../Page/ローソン.md "wikilink")でTポイントサービスが実施されていた。
+ファミマが従来から発行していた「ファミマカード」に[Tポイント](../Page/Tポイント.md "wikilink")サービスを追加することでリニューアルし、[2007年](../Page/2007年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")から発行を開始した\[1\]。なお、ファミマTカード導入前の2007年[3月31日](../Page/3月31日.md "wikilink")までは競合相手の[ローソン](../Page/ローソン.md "wikilink")でTポイントサービスが実施されていた。
 
-ファミマクレジットと[ポケットカード](https://ja.wikipedia.org/wiki/ポケットカード "wikilink")株式会社が2004年2月に資本・業務提携を行って以降は、クレジット機能を有するカードに関してはポケットカードが発行・審査・[信用保証](https://ja.wikipedia.org/wiki/信用保証 "wikilink")を担うようになった。
+ファミマクレジットと[ポケットカード](../Page/ポケットカード.md "wikilink")株式会社が2004年2月に資本・業務提携を行って以降は、クレジット機能を有するカードに関してはポケットカードが発行・審査・[信用保証](https://ja.wikipedia.org/wiki/信用保証 "wikilink")を担うようになった。
 
 さらに、2012年4月12日の[取締役会](https://ja.wikipedia.org/wiki/取締役会 "wikilink")において、親会社であるポケットカードにファミマクレジットが吸収合併されることを表明した\[2\]。その後、システム統合の準備期間を経て2012年9月15日を以て両社は合併し、以降は発行元がポケットカードとなっている。
 
 ## 種類
 
-ファミマTカードには、次の3種類のカードがある。クレジット機能なしカードおよび、JCBクレジットカードは[Tマネーのチャージ及び利用ができる](https://ja.wikipedia.org/wiki/Tポイント "wikilink")。
+ファミマTカードには、次の3種類のカードがある。クレジット機能なしカードおよび、JCBクレジットカードは[Tマネーのチャージ及び利用ができる](../Page/Tポイント.md "wikilink")。
 
 クレジット機能付きカード発行会社の変更や、他社の共通ポイント制度開始、Tポイント・Tサイト運営のCCCとYahoo\!との提携、クレジット機能なしカードの発行対象の拡大、ブランドデビットカードの導入などで当初より諸々の点で制度は大きく変わっている。
 
@@ -21,7 +21,7 @@
 
 ### クレジット機能付きカード
 
-[ポケットカード](https://ja.wikipedia.org/wiki/ポケットカード "wikilink")株式会社がファミマ及びCCCと提携し発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。ファミマ各店以外に[JCB加盟店でも利用する事が可能](../Page/ジェーシービー.md "wikilink")。[リボルビング払い](https://ja.wikipedia.org/wiki/リボルビング払い "wikilink")専用カードである\[3\]。
+[ポケットカード](../Page/ポケットカード.md "wikilink")株式会社がファミマ及びCCCと提携し発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。ファミマ各店以外に[JCB加盟店でも利用する事が可能](../Page/ジェーシービー.md "wikilink")。[リボルビング払い](../Page/リボルビング払い.md "wikilink")専用カードである\[3\]。
 
 2014年6月までは高校生を除く18歳以上の者は、ファミマTカードを申し込む場合はクレジット機能付きカードへの申込みが前提となっていた。
 
@@ -29,7 +29,7 @@
 
 当初の発行会社であるファミマクレジットから現在のポケットカードでも、ネット申し込みであれば本人確認資料の提出が不要である（代わりに配送が本人限定郵便(特定事項伝達型)となり、それで代える）。紙の申込書（郵送申し込み）はファミリーマート店頭で受け取るか、ウェブサイトか電話によって請求できる。
 
-2011年11月中旬までは、電子マネーを経由させる事なく、直接ファミリーマート店頭で利用する事ができる唯一の（かつ、クレジットカードが使える他社コンビニチェーンでも利用可能な）クレジットカードであった\[4\]。2011年11月下旬からは全国のファミリーマート店舗で[JCB](../Page/ジェーシービー.md "wikilink")、[VISA](https://ja.wikipedia.org/wiki/Visa "wikilink")、[MasterCard](../Page/マスターカード.md "wikilink")、[American Express](../Page/アメリカン・エキスプレス.md "wikilink")、[Diners Clubの](../Page/ダイナースクラブ.md "wikilink")5ブランド（加えて一部店舗では、2012年1月中旬より[銀聯カードの取り扱いを開始](https://ja.wikipedia.org/wiki/中国銀聯#銀聯カード "wikilink")[1](http://www.family.co.jp/company/news_releases/2011/110822_2.html)）のクレジットカード支払いができるようになり、ファミリーマートでの優位性はやや薄れる形となっている。
+2011年11月中旬までは、電子マネーを経由させる事なく、直接ファミリーマート店頭で利用する事ができる唯一の（かつ、クレジットカードが使える他社コンビニチェーンでも利用可能な）クレジットカードであった\[4\]。2011年11月下旬からは全国のファミリーマート店舗で[JCB](../Page/ジェーシービー.md "wikilink")、[VISA](../Page/Visa.md "wikilink")、[MasterCard](../Page/マスターカード.md "wikilink")、[American Express](../Page/アメリカン・エキスプレス.md "wikilink")、[Diners Clubの](../Page/ダイナースクラブ.md "wikilink")5ブランド（加えて一部店舗では、2012年1月中旬より[銀聯カードの取り扱いを開始](https://ja.wikipedia.org/wiki/中国銀聯#銀聯カード "wikilink")[1](http://www.family.co.jp/company/news_releases/2011/110822_2.html)）のクレジットカード支払いができるようになり、ファミリーマートでの優位性はやや薄れる形となっている。
 
 ### クレジット機能なしカード
 
@@ -47,7 +47,7 @@
 
 #### 2014年7月5日から2019年5月31日まで
 
-2014年7月5日から2019年5月31日の間は店頭でファミマTカードの即時発行が出来るようになった。ただし、利用者登録を行わない場合、ポイント利用やTマネーなど一部機能が制限される。利用者登録は店頭の[Famiポート](https://ja.wikipedia.org/wiki/Famiポート "wikilink")でもできるが、インターネットで利用者を登録するには、[Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink") IDが必要になる。
+2014年7月5日から2019年5月31日の間は店頭でファミマTカードの即時発行が出来るようになった。ただし、利用者登録を行わない場合、ポイント利用やTマネーなど一部機能が制限される。利用者登録は店頭の[Famiポート](../Page/Famiポート.md "wikilink")でもできるが、インターネットで利用者を登録するには、[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink") IDが必要になる。
 
 このカードにはカードの有効期限が設けられてなく、通常のTカードと同じように会員名を裏面に自署する必要がある。裏面には有効期限を記載する欄があるが、TSUTAYAのレンタル会員登録をした時のみ使用される。
 
@@ -63,7 +63,7 @@
 
 2018年11月発行分からはVISAのタッチ決済機能の付いたICカードが発行されていたが、ファミリーマート店頭ではタッチ決済は利用できない。また、ICチップにはキャッシュカード機能が搭載されていないため、国内ATMでの預金取引は従来通り磁気ストライプでの取引となる。
 
-なお、ファミリーマート店頭には一部店舗を除いて[コンビニATM](../Page/コンビニATM.md "wikilink")として[イーネット](../Page/イーネット.md "wikilink")ATM・[ゆうちょ銀行](https://ja.wikipedia.org/wiki/ゆうちょ銀行 "wikilink")ATM・[BankTime](../Page/BankTime.md "wikilink")のうちいずれかが設置されているが、BankTimeはジャパンネット銀行と提携していないため、BankTimeのATMでは本カードを利用しての入出金はできない。
+なお、ファミリーマート店頭には一部店舗を除いて[コンビニATM](../Page/コンビニATM.md "wikilink")として[イーネット](../Page/イーネット.md "wikilink")ATM・[ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")ATM・[BankTime](../Page/BankTime.md "wikilink")のうちいずれかが設置されているが、BankTimeはジャパンネット銀行と提携していないため、BankTimeのATMでは本カードを利用しての入出金はできない。
 
 ### 情報について
 
@@ -101,7 +101,7 @@
 ファミマで利用した場合にポイントが貯まる。ポイントは、利用日の3日後に加算される。
 
   - ショッピングポイント
-    ファミマでの会計の際にカードを提示すると、支払方法に拘わらず会計金額200円（税込・値引前）につき1ポイント貯まる。但し、[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")、[切手](../Page/切手.md "wikilink")、[葉書](https://ja.wikipedia.org/wiki/葉書 "wikilink")、[収入印紙](https://ja.wikipedia.org/wiki/収入印紙 "wikilink")、[公共料金](../Page/公共料金.md "wikilink")、[電子マネー](../Page/電子マネー.md "wikilink")へのチャージ、[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink") (toto) などはポイントの付与の対象とならない。値引前の会計金額に対して付与されるため、「今お得」によるキャンペーン適用商品や無料商品引換券などのクーポン券による値引きであっても値引前の会計が200円以上であればポイントが付与される。
+    ファミマでの会計の際にカードを提示すると、支払方法に拘わらず会計金額200円（税込・値引前）につき1ポイント貯まる。但し、[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")、[切手](../Page/切手.md "wikilink")、[葉書](https://ja.wikipedia.org/wiki/葉書 "wikilink")、[収入印紙](../Page/収入印紙.md "wikilink")、[公共料金](../Page/公共料金.md "wikilink")、[電子マネー](../Page/電子マネー.md "wikilink")へのチャージ、[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink") (toto) などはポイントの付与の対象とならない。値引前の会計金額に対して付与されるため、「今お得」によるキャンペーン適用商品や無料商品引換券などのクーポン券による値引きであっても値引前の会計が200円以上であればポイントが付与される。
     後述の「ファミランク」導入に伴うサービス内容の見直しに伴い、これまで100円（税込・値引前）につき1ポイントだったポイントレートが、2014年7月5日からはポイントレートが200円（税込・値引前）に引き上げられた。2019年9月4日をもって「ファミランク」は終了したが、ポイントレートの変更はない。
   - クレジットポイント
     ファミマでの会計の際にクレジット機能付きのクレジット払い場合、200円（税込）につき1ポイント貯まる。ファミマTカードiDを利用して支払った場合も同様にクレジットポイントが貯まる。ショッピングポイントの付与対象外となる商品の一部も、クレジットポイントの付与対象となる\[8\]。
@@ -165,9 +165,9 @@ Yahoo\! JAPANのアカウントにファミマTカードの登録がされてい
 
 ### ファミマTカードiD
 
-[株式会社NTTドコモの](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[iDに対応した](https://ja.wikipedia.org/wiki/ID_\(クレジット決済サービス\) "wikilink")「ファミマTカードiD」を利用する事が出来る。ファミリーマート店頭で利用する際には支払いの際に本電子マネーを利用することによって別途カードの提示をすることなくファミマTカードの特典を受けることができる。
+[株式会社NTTドコモの](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[iDに対応した](../Page/ID_\(クレジット決済サービス\).md "wikilink")「ファミマTカードiD」を利用する事が出来る。ファミリーマート店頭で利用する際には支払いの際に本電子マネーを利用することによって別途カードの提示をすることなくファミマTカードの特典を受けることができる。
 
-サービス開始当初は利用するにはNTTドコモの[携帯電話](../Page/携帯電話.md "wikilink")（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")）が必要であったが、[Apple Pay対応のデバイス](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink")(iPhone・Apple Watchなど)利用者はキャリアに関係なく利用可能となった。
+サービス開始当初は利用するにはNTTドコモの[携帯電話](../Page/携帯電話.md "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")）が必要であったが、[Apple Pay対応のデバイス](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink")(iPhone・Apple Watchなど)利用者はキャリアに関係なく利用可能となった。
 
 おサイフケータイでの申込は携帯電話からの申込のみ受付対応。ただし、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")メールに審査結果等の通知がくるため、ドメイン拒否設定をしている場合には解除する必要がある。Apple Payでの利用はApple Payのアプリからクレジット機能付きのファミマTカードを読み込むことで利用が可能になる。
 
@@ -177,13 +177,13 @@ Yahoo\! JAPANのアカウントにファミマTカードの登録がされてい
 
 ### プリペイド式電子マネー
 
-JCBカード扱いで、交通系の[モバイルSuica](https://ja.wikipedia.org/wiki/モバイルSuica "wikilink")・[SMART ICOCA](https://ja.wikipedia.org/wiki/SMART_ICOCA "wikilink")・[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")、流通系の[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")に対応。 おサイフケータイや券売機でのチャージは、レジ経由の場合と異なり通常ショッピングに準ずるクレジットポイントが貯まる。
+JCBカード扱いで、交通系の[モバイルSuica](../Page/モバイルSuica.md "wikilink")・[SMART ICOCA](../Page/SMART_ICOCA.md "wikilink")・[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")、流通系の[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")に対応。 おサイフケータイや券売機でのチャージは、レジ経由の場合と異なり通常ショッピングに準ずるクレジットポイントが貯まる。
 
 ## 限定カード
 
 ### 初音ミク・デザインカード
 
-2013年6月11日から2013年11月30日までの期間限定で、[初音ミク](https://ja.wikipedia.org/wiki/初音ミク "wikilink")デザインのファミマTカードが登場した。クレジット機能付きとなしのカードで、異なった初音ミクのデザインとなっている。どちらも、イラストレーターぷちでびる氏によって描かれている。本カードの会員限定の特典として、初音ミクスペシャルアイテムや会員専用イベントへ応募できる。サービス登録料が525円かかる。
+2013年6月11日から2013年11月30日までの期間限定で、[初音ミク](../Page/初音ミク.md "wikilink")デザインのファミマTカードが登場した。クレジット機能付きとなしのカードで、異なった初音ミクのデザインとなっている。どちらも、イラストレーターぷちでびる氏によって描かれている。本カードの会員限定の特典として、初音ミクスペシャルアイテムや会員専用イベントへ応募できる。サービス登録料が525円かかる。
 
 ## ファミマTカード移行準備
 
@@ -203,15 +203,15 @@ JCBカード扱いで、交通系の[モバイルSuica](https://ja.wikipedia.org
   - ファミリーマートでの買い物では、クレジットポイントが「100円あたり1ポイント」付いた。
   - ファミリーマート以外での買い物では、JCBクレジットポイントが「100円あたり0.3ポイント」付いた。
   - 火曜日・土曜日の「カードの日」は「全商品が5%引き」だった。
-  - キャッシングローンの年利が[グレーゾーン](https://ja.wikipedia.org/wiki/グレーゾーン金利 "wikilink")（27.8%）であった。
+  - キャッシングローンの年利が[グレーゾーン](../Page/グレーゾーン金利.md "wikilink")（27.8%）であった。
   - [ICチップ](https://ja.wikipedia.org/wiki/ICチップ "wikilink")が付いていた\[15\]\[16\]。
 
 ## 脚注
 
 ## 関連項目
 
-  - [ローソンパス](https://ja.wikipedia.org/wiki/ローソンパス "wikilink")
-  - [Tポイント](https://ja.wikipedia.org/wiki/Tポイント "wikilink")
+  - [ローソンパス](../Page/ローソンパス.md "wikilink")
+  - [Tポイント](../Page/Tポイント.md "wikilink")
 
 ## 外部リンク
 
@@ -222,7 +222,7 @@ JCBカード扱いで、交通系の[モバイルSuica](https://ja.wikipedia.org
 1.
 2.
 3.  支払額を利用額以上に増額設定して、実質的に一括払いとする事も可能。
-4.  これ以前にも[iD](https://ja.wikipedia.org/wiki/iD "wikilink")・[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")・[Suica](../Page/Suica.md "wikilink")・[WAON](../Page/WAON.md "wikilink")等との連携で間接的に利用できるものは多数存在していたが、発行会社によってはそもそもこれらに対応していなかったり、対応していても別途[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")や[カードリーダー/ライター等が必要などのハードルが存在していた](https://ja.wikipedia.org/wiki/PaSoRi "wikilink")。
+4.  これ以前にも[iD](https://ja.wikipedia.org/wiki/iD "wikilink")・[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")・[Suica](../Page/Suica.md "wikilink")・[WAON](../Page/WAON.md "wikilink")等との連携で間接的に利用できるものは多数存在していたが、発行会社によってはそもそもこれらに対応していなかったり、対応していても別途[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")や[カードリーダー/ライター等が必要などのハードルが存在していた](../Page/PaSoRi.md "wikilink")。
 5.  [Visaブランド付Tカード　Tマネーサービスの利用停止について](http://tsite.jp/r/cpn/card/notice/index.html?utm_source=tsite&utm_medium=shorturl&utm_campaign=00248こ79) Tサイト
 6.
 7.

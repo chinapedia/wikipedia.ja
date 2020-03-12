@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")から[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")まで幅広いジャンルの曲を収録している。
+  - [プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")から[ユーロビート](../Page/ユーロビート.md "wikilink")まで幅広いジャンルの曲を収録している。
   - 10曲目の「take me higher」は、本来シングルとしてリリースされる予定だった。
   - 初回盤はmoveオリジナル特製カー・エンブレム・ステッカー封入。特殊パッケージ仕様。
   - 3曲目「around the world」と4曲目「Rage your dream」はアニメ「[頭文字D](../Page/頭文字D.md "wikilink")」のOPおよびEDとしてそれぞれ起用されており、その他の楽曲も7曲目の「BLOWIN' WIND」以外は挿入歌として使用されている。
@@ -16,7 +16,7 @@
 1.  **World of move**
 2.  **Bust the Future Wall \[move into the rockin' beat\]**
       -
-        [プレイステーションゲーム](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『[JGTC -ALL JAPAN GRAND TOURING CAR CHAMPIONSHIP-](https://ja.wikipedia.org/wiki/JGTC_-ALL_JAPAN_GRAND_TOURING_CAR_CHAMPIONSHIP- "wikilink")』イメージソング
+        [プレイステーションゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[JGTC -ALL JAPAN GRAND TOURING CAR CHAMPIONSHIP-](https://ja.wikipedia.org/wiki/JGTC_-ALL_JAPAN_GRAND_TOURING_CAR_CHAMPIONSHIP- "wikilink")』イメージソング
 3.  **[around the world](https://ja.wikipedia.org/wiki/around_the_world_\(m.o.v.eの曲\) "wikilink")**
 4.  **[Rage your dream](../Page/Rage_your_dream.md "wikilink")**
 5.  **Wanna fly to be wild**

@@ -5,19 +5,19 @@
 
 ## 概要
 
-自身にとって、CDシングルで[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")からの最後のリリース作品である（2008年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売の次作『雨傘/あきれるくらい 僕らは願おう』より[ジェイ・ストーム](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")へと移籍）。
+自身にとって、CDシングルで[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")からの最後のリリース作品である（2008年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売の次作『雨傘/あきれるくらい 僕らは願おう』より[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")へと移籍）。
 
 2006年にスタートした「本格的な[歌謡ロック](../Page/ロック_\(音楽\).md "wikilink")」をテーマにした作品としては4作目となるシングル。
 
-当初の発売日は[11月21日](../Page/11月21日.md "wikilink")だったが、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の「[Keep the faith](https://ja.wikipedia.org/wiki/Keep_the_faith "wikilink")」の発売日と重なってしまったため11月28日に変更された。
+当初の発売日は[11月21日](../Page/11月21日.md "wikilink")だったが、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の「[Keep the faith](../Page/Keep_the_faith.md "wikilink")」の発売日と重なってしまったため11月28日に変更された。
 
-初動は前作とほぼ変わらない枚数であったが、「[宙船/do\! do\! do\!](https://ja.wikipedia.org/wiki/宙船/do!_do!_do! "wikilink")」以来、1年3ヶ月ぶりの[オリコンシングルチャート首位を獲得](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
+初動は前作とほぼ変わらない枚数であったが、「[宙船/do\! do\! do\!](https://ja.wikipedia.org/wiki/宙船/do!_do!_do! "wikilink")」以来、1年3ヶ月ぶりの[オリコンシングルチャート首位を獲得](../Page/オリコンチャート.md "wikilink")。
 
 TOKIOがこの年リリースした「[ひかりのまち/ラン・フリー(スワン・ダンスを君と)](https://ja.wikipedia.org/wiki/ひかりのまち/ラン・フリー\(スワン・ダンスを君と\) "wikilink")」、「[本日、未熟者/Over Drive](https://ja.wikipedia.org/wiki/本日、未熟者/Over_Drive "wikilink")」ではデイリーチャートで初日首位をとっているため、3作とも初日は首位をとっていることになった。
 
 [第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")歌唱曲。
 
-[長渕剛](../Page/長渕剛.md "wikilink")による[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")バージョンが、長渕のアルバム『[FRIENDS](https://ja.wikipedia.org/wiki/FRIENDS_\(長渕剛のアルバム\) "wikilink")』に収録されている。但し、タイトルは「青春」の漢字表記のみとなっている。
+[長渕剛](../Page/長渕剛.md "wikilink")による[セルフカバー](../Page/セルフカバー.md "wikilink")バージョンが、長渕のアルバム『[FRIENDS](https://ja.wikipedia.org/wiki/FRIENDS_\(長渕剛のアルバム\) "wikilink")』に収録されている。但し、タイトルは「青春」の漢字表記のみとなっている。
 
 ## 収録曲
 
@@ -27,9 +27,9 @@ TOKIOがこの年リリースした「[ひかりのまち/ラン・フリー(ス
 
 1.  **青春** <small>**SEI SYuN**</small>
       -
-        作詞・作曲：[長渕剛](../Page/長渕剛.md "wikilink")、編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+        作詞・作曲：[長渕剛](../Page/長渕剛.md "wikilink")、編曲：[船山基紀](../Page/船山基紀.md "wikilink")
     <!-- end list -->
-      - [長瀬智也](../Page/長瀬智也.md "wikilink")主演 [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")『[歌姫](https://ja.wikipedia.org/wiki/歌姫_\(劇作品\) "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [長瀬智也](../Page/長瀬智也.md "wikilink")主演 [TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")『[歌姫](../Page/歌姫_\(劇作品\).md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **キマジメ**　
       -
         作詞・作曲：[コダマックス](../Page/コダマセントラルステーション.md "wikilink")、編曲：[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")

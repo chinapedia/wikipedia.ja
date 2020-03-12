@@ -1,7 +1,7 @@
 > この記事は[CROSS SUNDAY SUBJECT](https://ja.wikipedia.org/wiki/CROSS_SUNDAY_SUBJECT)から翻訳されています。
 
 
-**CROSS SUNDAY SUBJECT**（クロス・サンデー・サブジェクト）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")。放送時間は毎週[日曜日](../Page/日曜日.md "wikilink")7:00-9:30([JST](../Page/日本標準時.md "wikilink"))。北九州（本社）第2スタジオからの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。[ナビゲーターは](../Page/ラジオパーソナリティ.md "wikilink")[鶴田弥生](../Page/鶴田弥生.md "wikilink")。加えて、数人の[コメンテーター](../Page/コメンテーター.md "wikilink")が登場する。
+**CROSS SUNDAY SUBJECT**（クロス・サンデー・サブジェクト）は、[CROSS FMで放送されていた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")。放送時間は毎週[日曜日](../Page/日曜日.md "wikilink")7:00-9:30([JST](../Page/日本標準時.md "wikilink"))。北九州（本社）第2スタジオからの[生放送](../Page/生放送.md "wikilink")。[ナビゲーターは](../Page/ラジオパーソナリティ.md "wikilink")[鶴田弥生](../Page/鶴田弥生.md "wikilink")。加えて、数人の[コメンテーター](../Page/コメンテーター.md "wikilink")が登場する。
 
 ## 概要
 
@@ -13,7 +13,7 @@
   - [鶴田弥生](../Page/鶴田弥生.md "wikilink")
       -
         この番組のメインナビゲーター。同局では前番組「[CROSS SUNDAY VIEWS](../Page/CROSS_SUNDAY_VIEWS.md "wikilink")」から引き続き担当。
-  - [長谷川弘志](https://ja.wikipedia.org/wiki/長谷川弘志 "wikilink")
+  - [長谷川弘志](../Page/長谷川弘志.md "wikilink")
       -
         この番組ではレギュラーコメンテーターを務める。以前「長谷川ひろし」の名で[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を務めていた。また同局ではここ数年、コメンテーターとして他の番組で出演していた。
 

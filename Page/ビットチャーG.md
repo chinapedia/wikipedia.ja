@@ -1,7 +1,7 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-**ビットチャーG**は[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")から発売されていた小型[ラジコンカー](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")。関連商品として、ビットレーサーがある。
+**ビットチャーG**は[タカラトミー](../Page/タカラトミー.md "wikilink")から発売されていた小型[ラジコンカー](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")。関連商品として、ビットレーサーがある。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 [2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")には、グレードアップした「スーパービットチャーG」が発売された。 同時走行台数が4台から6台になった。また、アンテナが伸縮式に変更された。 ボディ、シャーシ、コントローラーが変更されているため、ビットチャーGとの互換性は無い。
 
-2004年12月に[エアロアールシー](https://ja.wikipedia.org/wiki/エアロアールシー "wikilink")が発売された後は、新製品が発売されなくなり終息した。
+2004年12月に[エアロアールシー](../Page/エアロアールシー.md "wikilink")が発売された後は、新製品が発売されなくなり終息した。
 
 <File:BIT> CHAR-G_NISSAN-GLORIA_front.jpg|グロリア（フロント・改造箇所有り） <File:BIT> CHAR-G_NISSAN-GLORIA_rear.jpg|グロリア（リア・改造箇所有り） <File:BIT> CHAR-G_chassis.jpg|シャーシ（45MHz） <File:BIT> CHAR-G_controller_front.jpg|コントローラー（スケルトンタイプ・正面） <File:BIT> CHAR-G_controller_rear.jpg|コントローラー（スケルトンタイプ・裏面）
 
@@ -21,11 +21,11 @@
 
   - G-01　[ホンダ S2000](../Page/ホンダ・S2000.md "wikilink")（シルバー）
   - G-02　ホンダS2000（イエロー）
-  - G-03　[日産 スカイラインGT-R](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")（R34・ブルー）
+  - G-03　[日産 スカイラインGT-R](../Page/日産・スカイライン.md "wikilink")（R34・ブルー）
   - G-04　日産 スカイラインGT-R（R34・ホワイト）
   - G-05　[マツダ RX-7](../Page/マツダ・RX-7.md "wikilink")（FD3S・レッド）
   - G-06　マツダ RX-7（FD3S・イエロー）
-  - G-07　[トヨタ セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")（ブラック）
+  - G-07　[トヨタ セリカ](../Page/トヨタ・セリカ.md "wikilink")（ブラック）
   - G-08　トヨタ セリカ（シルバー）
   - G-09　[トヨタ スプリンタートレノ](../Page/トヨタ・スプリンタートレノ.md "wikilink")（AE86）　チューンナップボックス
       - セット内容：車（ボディ2種類）、コントローラ、モーター、セッティングパーツ、情景パーツ
@@ -43,9 +43,9 @@
   - G-18　[三菱 ランサーエボリューションVII](../Page/三菱・ランサーエボリューション.md "wikilink")（レッド）
   - G-19　三菱 ランサーエボリューションVII（イエロー）
   - G-21　[ホンダ NSX-R](../Page/ホンダ・NSX.md "wikilink")
-  - G-22　[トヨタ スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")
-  - G-24　[日産 フェアレディZ](https://ja.wikipedia.org/wiki/日産・フェアレディZ "wikilink")
-  - G-26　[フォルクスワーゲン ニュービートル](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ニュービートル "wikilink")
+  - G-22　[トヨタ スープラ](../Page/トヨタ・スープラ.md "wikilink")
+  - G-24　[日産 フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")
+  - G-26　[フォルクスワーゲン ニュービートル](../Page/フォルクスワーゲン・ニュービートル.md "wikilink")
 
 ### ビットレーサー／ビットチャージー共通ボディセット
 

@@ -3,7 +3,7 @@
 
 **UFC 1: The Beginning**（ユーエフシー・ワン：ザ・ビギニング）\[1\]は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1993年](../Page/1993年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")、[コロラド州](../Page/コロラド州.md "wikilink")[デンバー](../Page/デンバー.md "wikilink")のマクニコルス・スポーツ・アリーナで開催された。
 
-大会では[キックボクサー](https://ja.wikipedia.org/wiki/キックボクサー "wikilink")の[パトリック・スミス](https://ja.wikipedia.org/wiki/パトリック・スミス "wikilink")、ケビン・ローズイヤー、[極真空手](https://ja.wikipedia.org/wiki/極真空手 "wikilink")の[ジェラルド・ゴルドー](https://ja.wikipedia.org/wiki/ジェラルド・ゴルドー "wikilink")、[伝統派空手](https://ja.wikipedia.org/wiki/伝統派空手 "wikilink")のジーン・フレジャー、プロレスラーの[ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink")、[力士の](../Page/相撲.md "wikilink")[テイラ・トゥリ](https://ja.wikipedia.org/wiki/テイラ・トゥリ "wikilink")（元・高見州）、[プロボクサー](../Page/プロボクサー.md "wikilink")の[アート・ジマーソン](https://ja.wikipedia.org/wiki/アート・ジマーソン "wikilink")、[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")家の[ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink")という8名の選手によるノールールトーナメントが行われ、後の総合格闘技界に多大な影響を与えた。
+大会では[キックボクサー](https://ja.wikipedia.org/wiki/キックボクサー "wikilink")の[パトリック・スミス](../Page/パトリック・スミス.md "wikilink")、ケビン・ローズイヤー、[極真空手](https://ja.wikipedia.org/wiki/極真空手 "wikilink")の[ジェラルド・ゴルドー](../Page/ジェラルド・ゴルドー.md "wikilink")、[伝統派空手](../Page/伝統派空手.md "wikilink")のジーン・フレジャー、プロレスラーの[ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink")、[力士の](../Page/相撲.md "wikilink")[テイラ・トゥリ](https://ja.wikipedia.org/wiki/テイラ・トゥリ "wikilink")（元・高見州）、[プロボクサー](../Page/プロボクサー.md "wikilink")の[アート・ジマーソン](../Page/アート・ジマーソン.md "wikilink")、[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")家の[ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink")という8名の選手によるノールールトーナメントが行われ、後の総合格闘技界に多大な影響を与えた。
 
 ## ルール
 
@@ -24,7 +24,7 @@
 ### トーナメント1回戦
 
   - 第1試合 UFC 1トーナメント 1回戦 5分無制限R
-    ○  [ジェラルド・ゴルドー](https://ja.wikipedia.org/wiki/ジェラルド・ゴルドー "wikilink") vs.  [テイラ・トゥリ](https://ja.wikipedia.org/wiki/テイラ・トゥリ "wikilink") ×
+    ○  [ジェラルド・ゴルドー](../Page/ジェラルド・ゴルドー.md "wikilink") vs.  [テイラ・トゥリ](https://ja.wikipedia.org/wiki/テイラ・トゥリ "wikilink") ×
     1R 0:26 TKO（レフェリーストップ：顔面蹴り）
     ※ゴルドーが準決勝進出。
   - 第2試合 UFC 1トーナメント 1回戦 5分無制限R
@@ -32,33 +32,33 @@
     1R 4:20 TKO（タオル投入：踏みつけ）
     ※ローズイヤーが準決勝進出。
   - 第3試合 UFC 1トーナメント 1回戦 5分無制限R
-    ○  [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink") vs.  [アート・ジマーソン](https://ja.wikipedia.org/wiki/アート・ジマーソン "wikilink") ×
+    ○  [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink") vs.  [アート・ジマーソン](../Page/アート・ジマーソン.md "wikilink") ×
     1R 2:11 ギブアップ
     ※ホイスが準決勝進出。
   - 第4試合 UFC 1トーナメント 1回戦 5分無制限R
-    ○  [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink") vs.  [パトリック・スミス](https://ja.wikipedia.org/wiki/パトリック・スミス "wikilink") ×
-    1R 1:49 [ヒールホールド](https://ja.wikipedia.org/wiki/ヒールホールド "wikilink")
+    ○  [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink") vs.  [パトリック・スミス](../Page/パトリック・スミス.md "wikilink") ×
+    1R 1:49 [ヒールホールド](../Page/ヒールホールド.md "wikilink")
     ※シャムロックが準決勝進出。
 
 ### トーナメント準決勝・リザーブマッチ
 
   - 第5試合 UFC 1トーナメント 準決勝 5分無制限R
-    ○  [ジェラルド・ゴルドー](https://ja.wikipedia.org/wiki/ジェラルド・ゴルドー "wikilink") vs.  ケビン・ローズイヤー ×
+    ○  [ジェラルド・ゴルドー](../Page/ジェラルド・ゴルドー.md "wikilink") vs.  ケビン・ローズイヤー ×
     1R 0:59 TKO（タオル投入：肘打ち）
     ※ゴルドーが決勝進出。
   - 第6試合 UFC 1トーナメント 準決勝 5分無制限R
-    ○  [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink") vs.  [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink") ×
-    1R 0:57 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink") vs.  [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink") ×
+    1R 0:57 [チョークスリーパー](../Page/裸絞.md "wikilink")
     ※ホイスが決勝進出。
   - 第7試合 UFC 1トーナメント リザーブマッチ 5分無制限R
-    ○  [ジェイソン・デルーシア](https://ja.wikipedia.org/wiki/ジェイソン・デルーシア "wikilink") vs.  トレント・ジェンキンス ×
-    1R 0:52 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [ジェイソン・デルーシア](../Page/ジェイソン・デルーシア.md "wikilink") vs.  トレント・ジェンキンス ×
+    1R 0:52 [チョークスリーパー](../Page/裸絞.md "wikilink")
 
 ### トーナメント決勝戦
 
   - 第8試合 UFC 1トーナメント 決勝戦 5分無制限R
-    ○  [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink") vs.  [ジェラルド・ゴルドー](https://ja.wikipedia.org/wiki/ジェラルド・ゴルドー "wikilink") ×
-    1R 1:44 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink") vs.  [ジェラルド・ゴルドー](../Page/ジェラルド・ゴルドー.md "wikilink") ×
+    1R 1:44 [チョークスリーパー](../Page/裸絞.md "wikilink")
     ※ホイスがトーナメント優勝。
 
 ## 脚注
@@ -66,7 +66,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -14,7 +14,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/水素化ホウ素ナトリウム" title="wikilink">水素化ホウ素ナトリウム</a>に対するファイア・ダイアモンド表示</p></td>
+<td><p><a href="../Page/水素化ホウ素ナトリウム.md" title="wikilink">水素化ホウ素ナトリウム</a>に対するファイア・ダイアモンド表示</p></td>
 </tr>
 </tbody>
 </table>
@@ -37,10 +37,10 @@
 
 ### 赤 - 燃焼性
 
-  - **4.**  常温常圧下で急速または完全に気化するか、空気中に素早く分散して燃焼するもの（例：[アセチレン](../Page/アセチレン.md "wikilink")、[プロパン](https://ja.wikipedia.org/wiki/プロパン "wikilink")、[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")ガス）。[自然発火性物質](https://ja.wikipedia.org/wiki/自然発火性物質 "wikilink")を含む。[引火点](https://ja.wikipedia.org/wiki/引火点 "wikilink")は22.8℃未満である。
+  - **4.**  常温常圧下で急速または完全に気化するか、空気中に素早く分散して燃焼するもの（例：[アセチレン](../Page/アセチレン.md "wikilink")、[プロパン](https://ja.wikipedia.org/wiki/プロパン "wikilink")、[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")ガス）。[自然発火性物質](../Page/自然発火性物質.md "wikilink")を含む。[引火点](../Page/引火点.md "wikilink")は22.8℃未満である。
   - **3.**  ほぼ全ての温度状況で引火しうる液体・固体（浮遊粒子を含む）（例：[ガソリン](../Page/ガソリン.md "wikilink")、[アセトン](../Page/アセトン.md "wikilink")）。引火点が22.8℃未満で、沸点が37.8℃以上の液体であるか、引火点が22.8℃以上37.8℃未満である。
   - **2.**  引火までに適度に加熱されるか比較的高い周辺温度に置かれることを必要とするもの（例：[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")、紙、[硫黄](../Page/硫黄.md "wikilink")）。および加熱なしに引火する浮遊粒子の多く。引火点は37.8℃以上93.3℃未満である。
-  - **1.**  あらゆる周囲温度のもとで、引火までにかなりの予熱を必要とするもの（例：[鉱油](https://ja.wikipedia.org/wiki/鉱油 "wikilink")、[アンモニア](../Page/アンモニア.md "wikilink")）。加熱なしに引火する浮遊粒子の一部を含む。引火点は93.3℃以上である。
+  - **1.**  あらゆる周囲温度のもとで、引火までにかなりの予熱を必要とするもの（例：[鉱油](../Page/鉱油.md "wikilink")、[アンモニア](../Page/アンモニア.md "wikilink")）。加熱なしに引火する浮遊粒子の一部を含む。引火点は93.3℃以上である。
   - **0.**  典型的な火災状態で燃焼しないもの（例：[四塩化炭素](https://ja.wikipedia.org/wiki/四塩化炭素 "wikilink")）。コンクリート、石、砂のような本質的に燃焼しないものを含む。空気中で820℃に5分間さらされても燃焼しない。
 
 ### 黄 - 不安定性
@@ -56,20 +56,20 @@
 白い区画には記号がいくつか示されることがある。ただし、下記のうちNFPA 704規格で公式に定められているのは'<s>W</s>'と'OXY'のみである。
 
   - '<s>W</s>' - [水](../Page/水.md "wikilink")と異常・危険な反応を起こす（例：[セシウム](https://ja.wikipedia.org/wiki/セシウム "wikilink")、[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")）
-  - 'OX' または 'OXY' - [酸化剤](../Page/酸化剤.md "wikilink")（例：[過塩素酸カリウム](https://ja.wikipedia.org/wiki/過塩素酸カリウム "wikilink")、[過酸化水素](../Page/過酸化水素.md "wikilink")）
-  - 'COR' または [25px](https://ja.wikipedia.org/wiki/ファイル:Hazard_C.svg "wikilink") - [腐食](https://ja.wikipedia.org/wiki/腐食 "wikilink")性（例：[硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")、[水酸化カリウム](../Page/水酸化カリウム.md "wikilink")）
-      - 'ACID' で[強酸](../Page/強酸.md "wikilink")、'ALK' で[強塩基](https://ja.wikipedia.org/wiki/強塩基 "wikilink")を明示する場合もある。
+  - 'OX' または 'OXY' - [酸化剤](../Page/酸化剤.md "wikilink")（例：[過塩素酸カリウム](../Page/過塩素酸カリウム.md "wikilink")、[過酸化水素](../Page/過酸化水素.md "wikilink")）
+  - 'COR' または [25px](https://ja.wikipedia.org/wiki/ファイル:Hazard_C.svg "wikilink") - [腐食](../Page/腐食.md "wikilink")性（例：[硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")、[水酸化カリウム](../Page/水酸化カリウム.md "wikilink")）
+      - 'ACID' で[強酸](../Page/強酸.md "wikilink")、'ALK' で[強塩基](../Page/強塩基.md "wikilink")を明示する場合もある。
   - 'BIO' または [25px](https://ja.wikipedia.org/wiki/ファイル:International_Biohazard_Warning_Symbol.svg "wikilink") - [バイオハザード](../Page/バイオハザード.md "wikilink")（例：[天然痘](../Page/天然痘.md "wikilink")ウイルス）
   - '☢' または [25px](https://ja.wikipedia.org/wiki/ファイル:Radioactive.svg "wikilink") - [放射性物質](../Page/放射性物質.md "wikilink")であることを示す[放射能標識](https://ja.wikipedia.org/wiki/放射能#放射能標識 "wikilink")（例：[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")）
   - 'POI'または、[25px](https://ja.wikipedia.org/wiki/ファイル:Skull_and_Crossbones.svg "wikilink") - [毒](../Page/毒.md "wikilink")・猛毒\[2\]
   - [25px](https://ja.wikipedia.org/wiki/ファイル:Hazard_E.svg "wikilink") - 爆発物\[3\]
   - 'CRYO' - [極低温](https://ja.wikipedia.org/wiki/低温物理学 "wikilink")
-  - 'SA' - [窒息](https://ja.wikipedia.org/wiki/窒息 "wikilink")剤、窒息ガス
-  - 'P' - [重合反応](https://ja.wikipedia.org/wiki/重合反応 "wikilink")を起こすもの
+  - 'SA' - [窒息](../Page/窒息.md "wikilink")剤、窒息ガス
+  - 'P' - [重合反応](../Page/重合反応.md "wikilink")を起こすもの
 
 ## 関連項目
 
-  - [危険物](https://ja.wikipedia.org/wiki/危険物 "wikilink")
+  - [危険物](../Page/危険物.md "wikilink")
   - [:en:HMIS Color Bar](https://ja.wikipedia.org/wiki/:en:HMIS_Color_Bar "wikilink")
   - [:en:Hazchem](https://ja.wikipedia.org/wiki/:en:Hazchem "wikilink")
 

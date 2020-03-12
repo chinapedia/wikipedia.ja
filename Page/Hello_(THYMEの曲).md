@@ -13,7 +13,7 @@
 1.  Hello
       -
         作詞：thyme／作曲：清水哲平／編曲：清水哲平・星野孝文
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』[9月](../Page/9月.md "wikilink")のパワープレイ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』[9月](../Page/9月.md "wikilink")のパワープレイ
         [CBCラジオ](../Page/CBCラジオ.md "wikilink")『[さゆりんの音楽楽園](../Page/さゆりんの音楽楽園.md "wikilink")』エンディングテーマ
         CBCラジオ『さゆりんの音楽楽園＋』エンディングテーマ
 2.  Drive

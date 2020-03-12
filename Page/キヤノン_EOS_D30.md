@@ -13,24 +13,24 @@
 
   - 形式：フォーカルプレーンシャッター式一眼レフレックスAF･AEデジタルカメラ
   - 記憶媒体：[コンパクトフラッシュ](../Page/コンパクトフラッシュ.md "wikilink")（Type I, II準拠）、[マイクロドライブ](../Page/マイクロドライブ.md "wikilink")
-  - [レンズマウント](https://ja.wikipedia.org/wiki/レンズマウント "wikilink")：[キヤノンEFマウント](https://ja.wikipedia.org/wiki/キヤノンEFマウント "wikilink")（EF-Sレンズ使用不可）
-  - [撮像素子](../Page/固体撮像素子.md "wikilink")：[APS-Cサイズ](https://ja.wikipedia.org/wiki/APS-Cサイズ "wikilink")高感度・高解像度大型単板[CMOSセンサー](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")（15.1×22.7mm）
+  - [レンズマウント](../Page/レンズマウント.md "wikilink")：[キヤノンEFマウント](../Page/キヤノンEFマウント.md "wikilink")（EF-Sレンズ使用不可）
+  - [撮像素子](../Page/固体撮像素子.md "wikilink")：[APS-Cサイズ](../Page/APS-Cサイズ.md "wikilink")高感度・高解像度大型単板[CMOSセンサー](../Page/CMOSイメージセンサ.md "wikilink")（15.1×22.7mm）
   - 有効[画素数](../Page/ピクセル.md "wikilink")：約311万画素（総画素数325万画素）
-  - [ホワイトバランス](https://ja.wikipedia.org/wiki/ホワイトバランス "wikilink")：オート、マニュアル
-  - [ファインダー](https://ja.wikipedia.org/wiki/ファインダー "wikilink")
+  - [ホワイトバランス](../Page/ホワイトバランス.md "wikilink")：オート、マニュアル
+  - [ファインダー](../Page/ファインダー.md "wikilink")
       - 形式：ペンタプリズム使用、アイレベル式
       - 視野率：上下左右95%
       - 倍率：0.88倍
   - 測光方式：35分割SPC使用・TTL開放測光（評価測光、部分測光、中央部重点平均測光）
-  - [露出制御方式](https://ja.wikipedia.org/wiki/露出_\(写真\) "wikilink")：プログラムAE（シフト付）、シャッター優先AE、絞り優先AE、自動深度優先AE
+  - [露出制御方式](../Page/露出_\(写真\).md "wikilink")：プログラムAE（シフト付）、シャッター優先AE、絞り優先AE、自動深度優先AE
   - 感度：ISO100～1600
   - 露出補正：1/2,1/3ステップ、±2段
   - [フォーカス](https://ja.wikipedia.org/wiki/フォーカス "wikilink")：オート、TTL二次結像位相差検出方式（測距点3点）
-  - [シャッター](https://ja.wikipedia.org/wiki/シャッター_\(カメラ\) "wikilink")
+  - [シャッター](../Page/シャッター_\(カメラ\).md "wikilink")
       - 形式：縦走りフォーカルプレーン式・全速電子制御シャッター
       - シャッター速度：1/4000～30秒（1/x段ステップ）、バルブ、X=1/200秒
       - 連続撮影速度・枚数：最高3コマ／秒、8枚
-  - [フラッシュ](https://ja.wikipedia.org/wiki/エレクトロニックフラッシュ "wikilink")
+  - [フラッシュ](../Page/エレクトロニックフラッシュ.md "wikilink")
       - 対応フラッシュ：EOS用スピードライト
       - 内蔵フラッシュ：[ガイドナンバー](https://ja.wikipedia.org/wiki/ガイドナンバー "wikilink")12（ISO100相当・m）
       - 調光方式：E-TTL自動調光
@@ -45,7 +45,7 @@
 
 ## 参考文献
 
-  - PC Watch（[Impress Watch](https://ja.wikipedia.org/wiki/Impress_Watch "wikilink")）によるレビュー
+  - PC Watch（[Impress Watch](../Page/Impress_Watch.md "wikilink")）によるレビュー
 
 <!-- end list -->
 

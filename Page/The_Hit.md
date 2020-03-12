@@ -15,13 +15,13 @@
 | --------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------- | --------------------- | ------ |
 | [兵庫県](../Page/兵庫県.md "wikilink")                    | **[サンテレビ](../Page/サンテレビジョン.md "wikilink")（制作局）**          | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")      | 水曜 22:00 - 22:30\[1\] |        |
 |                                                     |                                                           |                                                                      |                       |        |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink") | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 火曜 22:00 - 22:30                                                     | 7日遅れ                  |        |
+| [埼玉県](../Page/埼玉県.md "wikilink")                    | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 火曜 22:00 - 22:30                                                     | 7日遅れ                  |        |
 | [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink") | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink") | 土曜 18:30 - 19:00                                                     | 10日遅れ                 |        |
 | [愛媛県](../Page/愛媛県.md "wikilink")                    | [あいテレビ](../Page/あいテレビ.md "wikilink")                      | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") | 火曜 25:33 - 26:03      | 13日遅れ  |
 
 ## 出演者
 
-  - [磯部公彦](https://ja.wikipedia.org/wiki/磯部公彦 "wikilink")（[まるむし商店](https://ja.wikipedia.org/wiki/まるむし商店 "wikilink")）（司会）
+  - [磯部公彦](https://ja.wikipedia.org/wiki/磯部公彦 "wikilink")（[まるむし商店](../Page/まるむし商店.md "wikilink")）（司会）
   - [福本文幸](https://ja.wikipedia.org/wiki/福本文幸 "wikilink")（解説）
 
 ### ヒットギャルズ (リポーター)
@@ -32,7 +32,7 @@
 
 ## 過去の出演者
 
-  - [菊元俊文](https://ja.wikipedia.org/wiki/菊元俊文 "wikilink")
+  - [菊元俊文](../Page/菊元俊文.md "wikilink")
   - [清水盛三](../Page/清水盛三.md "wikilink")
   - [前田由紀子](https://ja.wikipedia.org/wiki/前田由紀子 "wikilink")（アシスタント）
 

@@ -1,44 +1,44 @@
 > この記事は[UFC 50](https://ja.wikipedia.org/wiki/UFC_50)から翻訳されています。
 
 
-**UFC 50: The War of '04**（ユーエフシー・フィフティ：ザ・ウォー・オブ・オーフォー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2004年](../Page/2004年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[アトランティックシティ](https://ja.wikipedia.org/wiki/アトランティックシティ "wikilink")の[ボードウォーク・ホール](https://ja.wikipedia.org/wiki/ボードウォーク・ホール "wikilink")で開催された。
+**UFC 50: The War of '04**（ユーエフシー・フィフティ：ザ・ウォー・オブ・オーフォー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2004年](../Page/2004年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[アトランティックシティ](../Page/アトランティックシティ.md "wikilink")の[ボードウォーク・ホール](../Page/ボードウォーク・ホール.md "wikilink")で開催された。
 
 ## 大会概要
 
-[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink")の王座剥奪以来空位となっていたUFC世界ウェルター級王座決定戦では元王者[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")が、キャリア7戦全勝の[ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")を降し、2度目の王座戴冠を果たした。
+[BJ・ペン](../Page/BJ・ペン.md "wikilink")の王座剥奪以来空位となっていたUFC世界ウェルター級王座決定戦では元王者[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")が、キャリア7戦全勝の[ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")を降し、2度目の王座戴冠を果たした。
 
-メインイベントでは[ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")と[ガイ・メッツァー](https://ja.wikipedia.org/wiki/ガイ・メッツァー "wikilink")の対戦が予定されていたが、メッツァーがメディカルチェックをパスできなかったため、対戦相手が[パトリック・コーテ](https://ja.wikipedia.org/wiki/パトリック・コーテ "wikilink")に変更された\[1\]。
+メインイベントでは[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")と[ガイ・メッツァー](../Page/ガイ・メッツァー.md "wikilink")の対戦が予定されていたが、メッツァーがメディカルチェックをパスできなかったため、対戦相手が[パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink")に変更された\[1\]。
 
-キャリア5戦全勝の[パトリック・コーテ](https://ja.wikipedia.org/wiki/パトリック・コーテ "wikilink")がUFCデビュー。
+キャリア5戦全勝の[パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink")がUFCデビュー。
 
 ## 試合結果
 
 ### プレリミナリィカード
 
   - 第1試合 ライトヘビー級 5分3R
-    ○  [トラヴィス・ルター](https://ja.wikipedia.org/wiki/トラヴィス・ルター "wikilink") vs.  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") ×
+    ○  [トラヴィス・ルター](../Page/トラヴィス・ルター.md "wikilink") vs.  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") ×
     2R 0:43 KO（右ストレート）
   - 第2試合 ミドル級 5分3R
-    ○  [アイヴァン・サラベリー](https://ja.wikipedia.org/wiki/アイヴァン・サラベリー "wikilink") vs.  トニー・フリックランド ×
+    ○  [アイヴァン・サラベリー](../Page/アイヴァン・サラベリー.md "wikilink") vs.  トニー・フリックランド ×
     1R 1:36 胴絞め
 
 ### メインカード
 
   - 第3試合 ミドル級 5分3R
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  [ロビー・ローラー](../Page/ロビー・ローラー.md "wikilink") ×
-    1R 2:22 [三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")
+    1R 2:22 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第4試合 ウェルター級 5分3R
     ○  [フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink") vs.  [ヘナート・ヴェリッシモ](https://ja.wikipedia.org/wiki/ヘナート・ヴェリッシモ "wikilink") ×
     2R 2:11 TKO（レフェリーストップ：グラウンドの肘打ち）
   - 第5試合 UFC世界ウェルター級王座決定戦 5分5R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink") ×
-    1R 4:59 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") ×
+    1R 4:59 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
     ※ヒューズが王座獲得に成功。
   - 第6試合 ミドル級 5分3R
     ○  [リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink") vs.  [ホルヘ・リベラ](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(格闘家\) "wikilink") ×
-    3R 4:28 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    3R 4:28 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第7試合 ライトヘビー級 5分3R
-    ○  [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink") vs.  [パトリック・コーテ](https://ja.wikipedia.org/wiki/パトリック・コーテ "wikilink") ×
+    ○  [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink") vs.  [パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink") ×
     3R終了 判定3-0（30-27、30-26、30-26）
 
 ## 脚注
@@ -46,7 +46,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

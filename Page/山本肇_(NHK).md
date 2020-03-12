@@ -1,15 +1,15 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-**山本 肇**（やまもと はじめ、1940年 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")）は、元[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[解説委員](https://ja.wikipedia.org/wiki/NHK解説委員室 "wikilink")。
+**山本 肇**（やまもと はじめ、1940年 - [2006年](../Page/2006年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")）は、元[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[解説委員](../Page/NHK解説委員室.md "wikilink")。
 
 ## 生涯
 
-[静岡県](../Page/静岡県.md "wikilink")[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")出身。[京都大学](../Page/京都大学.md "wikilink")[法学部](https://ja.wikipedia.org/wiki/法学部 "wikilink")を卒業後NHK入局。報道局社会部[記者](../Page/記者.md "wikilink")、[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、解説主幹、地元[静岡放送局長を務めた](https://ja.wikipedia.org/wiki/NHK静岡放送局 "wikilink")。
+[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")出身。[京都大学](../Page/京都大学.md "wikilink")[法学部](../Page/法学部.md "wikilink")を卒業後NHK入局。報道局社会部[記者](../Page/記者.md "wikilink")、[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、解説主幹、地元[静岡放送局長を務めた](../Page/NHK静岡放送局.md "wikilink")。
 
-1994年、第31回[ギャラクシー賞](https://ja.wikipedia.org/wiki/ギャラクシー賞 "wikilink")・テレビ部門個人賞を受賞\[1\]。
+1994年、第31回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")・テレビ部門個人賞を受賞\[1\]。
 
-NHKを定年退職した後、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に静岡県文化財団副理事長に就任。[静岡県コンベンションアーツセンター](https://ja.wikipedia.org/wiki/静岡県コンベンションアーツセンター "wikilink")「グランシップ」の館長も務め、教育、文化、地域振興などの分野で活躍した。2006年10月29日に66歳で死去。
+NHKを定年退職した後、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に静岡県文化財団副理事長に就任。[静岡県コンベンションアーツセンター](../Page/静岡県コンベンションアーツセンター.md "wikilink")「グランシップ」の館長も務め、教育、文化、地域振興などの分野で活躍した。2006年10月29日に66歳で死去。
 
 ## 過去の出演番組
 

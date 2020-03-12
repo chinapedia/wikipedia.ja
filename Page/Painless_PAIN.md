@@ -7,7 +7,7 @@
 
   - この楽曲から6thアルバム「[BOULDER](../Page/BOULDER.md "wikilink")」に至るまで、ロックテイストを前面に押し出した楽曲を集中的に製作。大幅なイメージチェンジとなった。
   - CDの音量が小さく、聞き取りづらかった事からファンの間で物議を醸した。
-  - 「[10th Anniversary MEGA BEST](https://ja.wikipedia.org/wiki/10th_Anniversary_MEGA_BEST "wikilink")」において、リマスタリングにより大幅な音質変更があった。
+  - 「[10th Anniversary MEGA BEST](../Page/10th_Anniversary_MEGA_BEST.md "wikilink")」において、リマスタリングにより大幅な音質変更があった。
 
 ## 収録曲
 
@@ -29,6 +29,6 @@
 
 ## 関連項目
 
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
 
 [Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")

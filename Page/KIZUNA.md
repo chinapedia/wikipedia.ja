@@ -81,7 +81,7 @@ K.A.Oプロモーションより発売。
   -
     ライブドラマイベントの模様を収録。[真東砂波](https://ja.wikipedia.org/wiki/真東砂波 "wikilink")の「[FAKE](../Page/FAKE_\(漫画\).md "wikilink")」と合同。
 
-[マリン・エンタテインメント](https://ja.wikipedia.org/wiki/マリン・エンタテインメント "wikilink")より発売。
+[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")より発売。
 
   - 絆 -KIZUNA- YOU'RE ALL...（1998年3月5日発売）
   - 絆 -KIZUNA-II（2000年12月20日発売）
@@ -168,9 +168,9 @@ K.A.Oプロモーションより発売。
 
 :\* 原作 - こだか和麻
 
-:\* 監督・脚本・演出・絵コンテ - [やまざきかずお](https://ja.wikipedia.org/wiki/やまざきかずお "wikilink")
+:\* 監督・脚本・演出・絵コンテ - [やまざきかずお](../Page/やまざきかずお.md "wikilink")
 
-:\* キャラクターデザイン・作画監督 - [山本佐和子](https://ja.wikipedia.org/wiki/山本佐和子 "wikilink")
+:\* キャラクターデザイン・作画監督 - [山本佐和子](../Page/山本佐和子.md "wikilink")
 
 :\* 美術監督 - 源太景季
 
@@ -184,13 +184,13 @@ K.A.Oプロモーションより発売。
 
 :\* 音響監督 - 藤山房伸
 
-:\* 音響プロデューサー - [飯塚康一](https://ja.wikipedia.org/wiki/飯塚康一 "wikilink")
+:\* 音響プロデューサー - [飯塚康一](../Page/飯塚康一.md "wikilink")
 
 :\* プロデューサー - 川崎とも子、浅賀孝郎
 
-:\* アニメーション制作 - [ゼクシズ](https://ja.wikipedia.org/wiki/ゼクシズ "wikilink")
+:\* アニメーション制作 - [ゼクシズ](../Page/ゼクシズ.md "wikilink")
 
-:\* 製作 - [ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")
+:\* 製作 - [ケイエスエス](../Page/ケイエスエス.md "wikilink")
 
   -
 

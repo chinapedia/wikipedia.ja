@@ -1,7 +1,7 @@
 > この記事は[Aphasia](https://ja.wikipedia.org/wiki/Aphasia)から翻訳されています。
 
 
-**aphasia**（アフェイジア）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成された[ハードロック](../Page/ハードロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。バンド名の由来は[ヨーロッパの](https://ja.wikipedia.org/wiki/ヨーロッパ_\(バンド\) "wikilink")2ndアルバム『WINGS OF TOMORROW』に収録されているインストゥルメンタル曲のタイトルからで、意味は「失語症」である。
+**aphasia**（アフェイジア）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成された[ハードロック](../Page/ハードロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。バンド名の由来は[ヨーロッパの](../Page/ヨーロッパ_\(バンド\).md "wikilink")2ndアルバム『WINGS OF TOMORROW』に収録されているインストゥルメンタル曲のタイトルからで、意味は「失語症」である。
 
 ## メンバー
 

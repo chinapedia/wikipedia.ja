@@ -6,7 +6,7 @@
 ## 概要
 
   - アニメ「[頭文字D](../Page/頭文字D.md "wikilink") Fourth Stage」のエンディングテーマ。（ACT1～ACT10まで）
-  - [PVは冬を意識した物にする為](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、豪雪の中でロケを行った。
+  - [PVは冬を意識した物にする為](../Page/ミュージック・ビデオ.md "wikilink")、豪雪の中でロケを行った。
 
 ## 収録曲
 
@@ -38,6 +38,6 @@
 ## 関連項目
 
   - [頭文字D](../Page/頭文字D.md "wikilink")
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
 [Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")

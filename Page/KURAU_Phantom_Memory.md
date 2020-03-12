@@ -1,7 +1,7 @@
 > この記事は[KURAU Phantom Memory](https://ja.wikipedia.org/wiki/KURAU_Phantom_Memory)から翻訳されています。
 
 
-『**KURAU Phantom Memory**』（クラウ ファントムメモリー）は、[2004年](../Page/2004年.md "wikilink")に放送された[アニメ](../Page/アニメ.md "wikilink")作品。[2110年](https://ja.wikipedia.org/wiki/2110年 "wikilink")の[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")と[月](https://ja.wikipedia.org/wiki/月 "wikilink")を舞台にクラウとクリスマスの、リナクスとのかかわりを描く。漫画版は[講談社](../Page/講談社.md "wikilink")「[月刊マガジンZ](https://ja.wikipedia.org/wiki/月刊マガジンZ "wikilink")」に連載され、ノベライズ版が[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")・[MF文庫J](../Page/MF文庫J.md "wikilink")より発売された。
+『**KURAU Phantom Memory**』（クラウ ファントムメモリー）は、[2004年](../Page/2004年.md "wikilink")に放送された[アニメ](../Page/アニメ.md "wikilink")作品。[2110年](https://ja.wikipedia.org/wiki/2110年 "wikilink")の[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")と[月](https://ja.wikipedia.org/wiki/月 "wikilink")を舞台にクラウとクリスマスの、リナクスとのかかわりを描く。漫画版は[講談社](../Page/講談社.md "wikilink")「[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")」に連載され、ノベライズ版が[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")・[MF文庫J](../Page/MF文庫J.md "wikilink")より発売された。
 
 ## ストーリー
 
@@ -20,20 +20,20 @@
     声 - [小林美佐](https://ja.wikipedia.org/wiki/小林美佐 "wikilink")
     クラウが22歳の時に、彼女の体の中から生まれた少女。彼女と「対」のリナクスで、容姿は12歳の頃のクラウと似ている。周囲には「クラウの妹」と称している。クラウと比べ、運動神経は劣るが、家事全般を得意とする。
   - 天箕創（あまみ はじめ）
-    声 - [小形満](https://ja.wikipedia.org/wiki/小形満 "wikilink")
+    声 - [小形満](../Page/小形満.md "wikilink")
     クラウの父親で、次世代エネルギーの研究者。10年前の事故で、リナクス人間となった娘・クラウに衝撃を受け、当初は彼女を受け入れられずにいたが、次第に愛情が芽生え、彼女を受け入れられるようになる。市瀬がクラウに被検を強要し、これを嫌がったクラウが突如リナクスを発したことで、左腕を失った。ＧＰＯに追われるようになったクラウたちを守るようにダグに依頼する。
   - ダグ
-    声 - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")
+    声 - [志村知幸](../Page/志村知幸.md "wikilink")
     ある目的で、クラウを監視するエージェント。身長190cmの大柄な体格の男性。妻子がいるが、現在別居中。元GPO警部で、アヤカの上司だった。後にクラウを助けるようになる。
   - アヤカ
-    声 - [甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")
+    声 - [甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
     GPOに属する女性警察官。リナクスの力を持つクラウを危険人物とみなし、彼女を捕獲しようとしている。冷酷かつ執拗にクラウたちを追いかけるが、これにはある理由がある。
     物語終盤、自身の家族を殺された真犯人が分かり、ＧＰＯに不信感を持ち、真実を知るためにクラウたちと協力関係を結ぶ。
   - ウォン
-    声 - [古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")
+    声 - [古澤徹](../Page/古澤徹.md "wikilink")
     GPOの警視正。アヤカの上司。アヤカの家族が殺された事件からＧＰＯ上層部に不信感を持ち、クラウたちを捕えるという命令に背きつつ、上層部を探っていた。その動きを掴まれ、拘束される。
   - 市瀬（いちせ）
-    声 - [飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+    声 - [飛田展男](../Page/飛田展男.md "wikilink")
     月面の施設で天箕博士と研究を行うチームの一人。リナクス人間となったクラウの身体能力の高さを奇跡と呼んだ。
 
 ## 用語集
@@ -57,8 +57,8 @@
 
 ## スタッフ
 
-  - 原作 - [BONES](https://ja.wikipedia.org/wiki/ボンズ_\(アニメ制作会社\) "wikilink")
-  - 監督 - [入江泰浩](https://ja.wikipedia.org/wiki/入江泰浩 "wikilink")
+  - 原作 - [BONES](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")
+  - 監督 - [入江泰浩](../Page/入江泰浩.md "wikilink")
   - シリーズ構成 - 吉永亜矢
   - キャラクターデザイン - 尾崎智美
   - メカニックデザイン - [鈴木雅久](../Page/鈴木雅久.md "wikilink")
@@ -67,15 +67,15 @@
   - 色彩設計 - 歌川律子
   - 撮影監督 - 大神洋一
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
-  - 音楽 - [勝木ゆかり](https://ja.wikipedia.org/wiki/勝木ゆかり "wikilink") ([S.E.N.S.](https://ja.wikipedia.org/wiki/S.E.N.S. "wikilink"))
-  - プロデューサー - [南雅彦](https://ja.wikipedia.org/wiki/南雅彦 "wikilink")、堀内麻紀、佐々木史朗、中嶋嘉美、[シュレック・ヘドウィック](https://ja.wikipedia.org/wiki/シュレック・ヘドウィック "wikilink")
-  - 制作 - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")
-  - 製作 - [ボンズ](https://ja.wikipedia.org/wiki/ボンズ_\(アニメ制作会社\) "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[ビッグショット](../Page/ビッグショット_\(広告代理店\).md "wikilink")
+  - 音楽 - [勝木ゆかり](https://ja.wikipedia.org/wiki/勝木ゆかり "wikilink") ([S.E.N.S.](../Page/S.E.N.S..md "wikilink"))
+  - プロデューサー - [南雅彦](../Page/南雅彦.md "wikilink")、堀内麻紀、佐々木史朗、中嶋嘉美、[シュレック・ヘドウィック](https://ja.wikipedia.org/wiki/シュレック・ヘドウィック "wikilink")
+  - 制作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")
+  - 製作 - [ボンズ](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[ビッグショット](../Page/ビッグショット_\(広告代理店\).md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ「懐かしい宇宙（うみ）」
-    作詞・作曲 - [新居昭乃](https://ja.wikipedia.org/wiki/新居昭乃 "wikilink") / 編曲 - [保刈久明](https://ja.wikipedia.org/wiki/保刈久明 "wikilink")
+    作詞・作曲 - [新居昭乃](../Page/新居昭乃.md "wikilink") / 編曲 - [保刈久明](https://ja.wikipedia.org/wiki/保刈久明 "wikilink")
   - エンディングテーマ「Moonlight」
     作詞・作曲・編曲 - [勝木ゆかり](https://ja.wikipedia.org/wiki/勝木ゆかり "wikilink")(S.E.N.S.)
 
@@ -99,7 +99,7 @@
 <td><p>1st Reaction</p></td>
 <td><p>広い世界へ…</p></td>
 <td><p>吉永亜矢</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/入江泰浩" title="wikilink">入江泰浩</a></p></td>
+<td><p><a href="../Page/入江泰浩.md" title="wikilink">入江泰浩</a></p></td>
 <td><p>伊藤岳史</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ねこまたや" title="wikilink">ねこまたや</a></p></td>
 <td><p><strong>2004年</strong><br />
@@ -119,7 +119,7 @@
 <tr class="odd">
 <td><p>3rd Reaction</p></td>
 <td><p>追う者たち</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田雅彦" title="wikilink">太田雅彦</a></p></td>
+<td><p><a href="../Page/太田雅彦.md" title="wikilink">太田雅彦</a></p></td>
 <td><p>堀川耕一</p></td>
 <td><p>7月8日</p></td>
 <td></td>
@@ -181,8 +181,8 @@
 <td><p>9th Reaction</p></td>
 <td><p>天使が消えた街</p></td>
 <td><p>吉永亜矢</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/須永司" title="wikilink">須永司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森山雄治" title="wikilink">森山雄治</a></p></td>
+<td><p><a href="../Page/須永司.md" title="wikilink">須永司</a></p></td>
+<td><p><a href="../Page/森山雄治.md" title="wikilink">森山雄治</a></p></td>
 <td><p>神戸洋行<br />
 ねこまたや</p></td>
 <td><p>8月26日</p></td>
@@ -256,7 +256,7 @@
 <td><p>16th Reaction</p></td>
 <td><p>丘の上の墓標</p></td>
 <td><p>須永司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/迫井政行" title="wikilink">迫井政行</a></p></td>
+<td><p><a href="../Page/迫井政行.md" title="wikilink">迫井政行</a></p></td>
 <td><p>李時旼</p></td>
 <td><p>10月20日</p></td>
 <td></td>
@@ -298,7 +298,7 @@
 <td><p>20th Reaction</p></td>
 <td><p>窓をひらいて</p></td>
 <td><p>吉永亜矢</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
 <td><p>阿保孝雄</p></td>
 <td><p>石田可奈</p></td>
 <td><p>ねこまたや</p></td>
@@ -309,8 +309,8 @@
 <td><p>凍りついた河</p></td>
 <td><p>鈴木やすゆき</p></td>
 <td><p>須永司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川元利浩" title="wikilink">川元利浩</a><br />
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/川元利浩.md" title="wikilink">川元利浩</a><br />
 小平佳幸</p></td>
 <td><p>11月24日</p></td>
 <td></td>
@@ -320,7 +320,7 @@
 <td><p>闇に瞬く</p></td>
 <td><p>吉永亜矢</p></td>
 <td><p>安田賢司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅野宏紀" title="wikilink">菅野宏紀</a><br />
+<td><p><a href="../Page/菅野宏紀.md" title="wikilink">菅野宏紀</a><br />
 <a href="../Page/高橋久美子_(アニメーター).md" title="wikilink">高橋久美子</a></p></td>
 <td><p>12月1日</p></td>
 <td></td>
@@ -353,15 +353,15 @@
 
 ## 放送時期
 
-  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")：2004年[6月24日](../Page/6月24日.md "wikilink") - 2004年[12月15日](../Page/12月15日.md "wikilink") / 木曜26時12分 - 26時42分→(10月より)水曜26時12分 - 26時42分
-  - [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")：2004年[7月22日](../Page/7月22日.md "wikilink") - / 11時00分 -
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")：2004年[6月24日](../Page/6月24日.md "wikilink") - 2004年[12月15日](../Page/12月15日.md "wikilink") / 木曜26時12分 - 26時42分→(10月より)水曜26時12分 - 26時42分
+  - [アニマックス](../Page/アニマックス.md "wikilink")：2004年[7月22日](../Page/7月22日.md "wikilink") - / 11時00分 -
 
 ## 脚注
 
 ## 関連項目
 
-  - [テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/テレビ朝日系アニメ "wikilink")
-  - [深夜アニメ一覧](https://ja.wikipedia.org/wiki/深夜アニメ一覧 "wikilink")
+  - [テレビ朝日系アニメ](../Page/テレビ朝日系アニメ.md "wikilink")
+  - [深夜アニメ一覧](../Page/深夜アニメ一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[A PLACE IN THE SUN](https://ja.wikipedia.org/wiki/A_PLACE_IN_THE_SUN)から翻訳されています。
 
 
-『**A PLACE IN THE SUN**』(ア・プレイス・イン・ザ・サン)は、1994年9月2日に発売された[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")の8枚目のオリジナルアルバム。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")）。
+『**A PLACE IN THE SUN**』(ア・プレイス・イン・ザ・サン)は、1994年9月2日に発売された[今井美樹](../Page/今井美樹.md "wikilink")の8枚目のオリジナルアルバム。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。
 
 ## 解説
 
@@ -14,17 +14,17 @@
 2.  **Martiniqueの海風**
       - 作詞：今井美樹、作曲・編曲：[坂本龍一](../Page/坂本龍一.md "wikilink")
 3.  **[輝く街で](https://ja.wikipedia.org/wiki/Miss_You_\(今井美樹の曲\) "wikilink")**
-      - 作詞: 今井美樹、作曲: [上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲：小森茂生
+      - 作詞: 今井美樹、作曲: [上田知華](../Page/上田知華.md "wikilink")、編曲：小森茂生
     <!-- end list -->
       -
         10作目のシングルカップリング。
 4.  **[Miss You](https://ja.wikipedia.org/wiki/Miss_You_\(今井美樹の曲\) "wikilink")**
-      - 作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲・編曲：布袋寅泰
+      - 作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         10作目のシングルとして1994年7月18日にリリースされている。
 5.  **彼はもう来ないでしょう**
-      - 作詞：岩里祐穂、作曲：[柿原朱美](https://ja.wikipedia.org/wiki/Ak_\(シンガーソングライター\) "wikilink")、編曲：松浦晃久
+      - 作詞：岩里祐穂、作曲：[柿原朱美](../Page/Ak_\(シンガーソングライター\).md "wikilink")、編曲：松浦晃久
 6.  **Silent blue**
       - 作詞：今井美樹、作曲・編曲：小森茂生
 7.  **sweet love, sweet pain**

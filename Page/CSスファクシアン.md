@@ -1,13 +1,13 @@
 > この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
 
 
-**CSスファクシアン**（, ）は、[チュニジア](../Page/チュニジア.md "wikilink")の東部、[スファックス県](https://ja.wikipedia.org/wiki/スファックス県 "wikilink")の県都[スファックス](../Page/スファックス.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**CSスファクシアン**（, ）は、[チュニジア](../Page/チュニジア.md "wikilink")の東部、[スファックス県](../Page/スファックス県.md "wikilink")の県都[スファックス](../Page/スファックス.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
 クラブは[1928年](../Page/1928年.md "wikilink")に**クラブ・チュニジアン** (*Club Tunisien*) として創設された。当時のユニフォームは緑と赤のストライプだった。[1947年](../Page/1947年.md "wikilink")にチュニジア1部リーグに初昇格。[1962年](../Page/1962年.md "wikilink")に**CSスファクシアン**に改称され、ユニフォームも現在の白と黒のストライプに変わった。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[CAFカップ決勝でセネガルの](https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ "wikilink")[ASCジャンヌダルク](https://ja.wikipedia.org/wiki/ASCジャンヌダルク "wikilink")を破って優勝。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[CAFチャンピオンズリーグ](https://ja.wikipedia.org/wiki/CAFチャンピオンズリーグ "wikilink")決勝ではエジプトの[アル・アハリ](https://ja.wikipedia.org/wiki/アル・アハリ "wikilink")に2-1で敗れた。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[CAFカップ決勝でセネガルの](../Page/CAFコンフェデレーションカップ.md "wikilink")[ASCジャンヌダルク](https://ja.wikipedia.org/wiki/ASCジャンヌダルク "wikilink")を破って優勝。[2006年](../Page/2006年.md "wikilink")の[CAFチャンピオンズリーグ](../Page/CAFチャンピオンズリーグ.md "wikilink")決勝ではエジプトの[アル・アハリ](../Page/アル・アハリ.md "wikilink")に2-1で敗れた。
 
 ## タイトル
 
@@ -40,7 +40,7 @@
 
 ### 国際タイトル
 
-  - **[CAFカップ/CAFコンフェデレーションズカップ](https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ "wikilink")：4回**
+  - **[CAFカップ/CAFコンフェデレーションズカップ](../Page/CAFコンフェデレーションカップ.md "wikilink")：4回**
 
 <!-- end list -->
 
@@ -58,11 +58,11 @@
 
 ## 歴代監督
 
-  - [エックハルト・クラウツン](https://ja.wikipedia.org/wiki/エックハルト・クラウツン "wikilink") 1997, 1997-1999
+  - [エックハルト・クラウツン](../Page/エックハルト・クラウツン.md "wikilink") 1997, 1997-1999
 
   - [ミシェル・デカステル](https://ja.wikipedia.org/wiki/ミシェル・デカステル "wikilink") 2004-2006, 2007-2008
 
-  - [ラインハルト・シュトゥンプ](https://ja.wikipedia.org/wiki/ラインハルト・シュトゥンプ "wikilink") 2011
+  - [ラインハルト・シュトゥンプ](../Page/ラインハルト・シュトゥンプ.md "wikilink") 2011
 
   - [ルート・クロル](https://ja.wikipedia.org/wiki/ルート・クロル "wikilink") 2012-2013
 

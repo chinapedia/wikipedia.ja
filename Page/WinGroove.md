@@ -1,9 +1,9 @@
 > この記事は[WinGroove](https://ja.wikipedia.org/wiki/WinGroove)から翻訳されています。
 
 
-**WinGroove**（ウイングルーヴ）とは、[Windowsで動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シェアウェア](../Page/シェアウェア.md "wikilink")の[ソフトウェア・シンセサイザー](https://ja.wikipedia.org/wiki/ソフトウェア・シンセサイザー "wikilink")である。
+**WinGroove**（ウイングルーヴ）とは、[Windowsで動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シェアウェア](../Page/シェアウェア.md "wikilink")の[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")である。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に初めてリリースされ、MIDIに対応した[サウンドカード](https://ja.wikipedia.org/wiki/サウンドカード "wikilink")や[ハードウェア](../Page/ハードウェア.md "wikilink")音源がなくともMIDIの演奏ができるという特徴を持つ。また、独自のMIDI音源を備えており、一部のWindowsに標準で添付されている[Microsoft GS Wavetable SW Synthよりも多様な音を出すことができる](../Page/Microsoft_GS_Wavetable_SW_Synth.md "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に初めてリリースされ、MIDIに対応した[サウンドカード](../Page/サウンドカード.md "wikilink")や[ハードウェア](../Page/ハードウェア.md "wikilink")音源がなくともMIDIの演奏ができるという特徴を持つ。また、独自のMIDI音源を備えており、一部のWindowsに標準で添付されている[Microsoft GS Wavetable SW Synthよりも多様な音を出すことができる](../Page/Microsoft_GS_Wavetable_SW_Synth.md "wikilink")。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にリリースされたWinGroove version 0.9Fシリーズに、インターネット上で不正に出回っているIDとパスワードを入力すると、ハードディスクの内容を消去したり、[ファイルシステム](../Page/ファイルシステム.md "wikilink")を破壊するプログラム（[ロジックボム](https://ja.wikipedia.org/wiki/コンピュータウイルス#ロジックボム（爆弾） "wikilink")）が実行されるという機能が含まれていた。この問題は当時[ニュースサイトで取り上げられるなど大きな話題となった](../Page/ウェブサイト.md "wikilink")。作者は不正使用対策のテストバージョンを誤って配布したものと説明している。
 

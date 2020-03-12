@@ -1,7 +1,7 @@
 > この記事は[HBC!](https://ja.wikipedia.org/wiki/HBC!)から翻訳されています。
 
 
-'''HBCミュージックナイター「フルカウント\!」 '''は、[HBCラジオ](../Page/HBCラジオ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")からプロ野球のオフシーズンに[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")している[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+'''HBCミュージックナイター「フルカウント\!」 '''は、[HBCラジオ](../Page/HBCラジオ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")からプロ野球のオフシーズンに[生放送](../Page/生放送.md "wikilink")している[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 放送時間
 
@@ -41,7 +41,7 @@
 
 ## 概要
 
-同局のプロ野球中継「[HBCファイターズナイター](https://ja.wikipedia.org/wiki/HBCファイターズナイター "wikilink")」の実況アナウンサーと若手女性パーソナリティーが曜日代わりにパーソナリティーを務める、音楽バラエティ番組。リクエストなども含め、音楽はすべてフルコーラス放送する。
+同局のプロ野球中継「[HBCファイターズナイター](../Page/HBCファイターズナイター.md "wikilink")」の実況アナウンサーと若手女性パーソナリティーが曜日代わりにパーソナリティーを務める、音楽バラエティ番組。リクエストなども含め、音楽はすべてフルコーラス放送する。
 
 番組冒頭の決め台詞は「この番組はファイターズ中継の実況アナウンサーと若手女性アナウンサー、もしくはパーソナリティが野球のオフシーズンにお届けする期間限定プログラム」。 なお、この時間帯ではかつて1973年から1983年まで音楽ランキング番組「ジャンボとケロ子のHBCベスト100マラソンランキング」が生放送されていた。 2012年10月からは「Music Delivery BAN BAN RADIO！」時間移動の為、2012年3月に終了。 なお、2014年10月から2016年3月までの土曜日10時からはかつて「フルカウント」でパーソナリティを務めていた水野よしまさと佐藤舞による「水野よしまさ　サタデーフルサウンド」が放送されていた。「サタデー〜」は1980年〜1990年代の曲をフルコーラスで放送、なおかつメールアドレスも同じな事から、事実上「フルカウント」の後継番組とも言える。
 
@@ -52,18 +52,18 @@
 ### パーソナリティー（2019年度）
 
   - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
-  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [卓田和広](../Page/卓田和広.md "wikilink")
   - [山内要一](../Page/山内要一.md "wikilink")
-  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [渕上紘行](../Page/渕上紘行.md "wikilink")
 
 以上4名から1人が担当曜日を定めずに放送。
 
 ### パーソナリティー（2018年度）
 
   - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
-  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [卓田和広](../Page/卓田和広.md "wikilink")
   - [山内要一](../Page/山内要一.md "wikilink")
-  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [渕上紘行](../Page/渕上紘行.md "wikilink")
   - [矢萩尚太郎](https://ja.wikipedia.org/wiki/矢萩尚太郎 "wikilink")
 
 以上5名から1人が担当曜日を定めずに放送。
@@ -71,9 +71,9 @@
 ### パーソナリティー（2017年度）
 
   - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
-  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [卓田和広](../Page/卓田和広.md "wikilink")
   - [山内要一](../Page/山内要一.md "wikilink")
-  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [渕上紘行](../Page/渕上紘行.md "wikilink")
   - [矢萩尚太郎](https://ja.wikipedia.org/wiki/矢萩尚太郎 "wikilink")
   - [水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")
 
@@ -84,9 +84,9 @@
 ### パーソナリティー（2016年度）
 
   - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
-  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [卓田和広](../Page/卓田和広.md "wikilink")
   - [山内要一](../Page/山内要一.md "wikilink")
-  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [渕上紘行](../Page/渕上紘行.md "wikilink")
   - [矢萩尚太郎](https://ja.wikipedia.org/wiki/矢萩尚太郎 "wikilink")
 
 以上5名から1人が担当曜日を定めずに放送。また、金曜日はHBC野球解説者をゲストに迎えて放送する。
@@ -94,9 +94,9 @@
 ### パーソナリティー（2011年度）
 
   - (火)[水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")、佐藤舞
-  - (水)[川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")、[浦本可奈子](https://ja.wikipedia.org/wiki/浦本可奈子 "wikilink")
-  - (木)[卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")、[佐藤彩](../Page/佐藤彩.md "wikilink")
-  - (金)[渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")、[MAYU](https://ja.wikipedia.org/wiki/MAYU_\(パーソナリティ\) "wikilink")
+  - (水)[川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")、[浦本可奈子](../Page/浦本可奈子.md "wikilink")
+  - (木)[卓田和広](../Page/卓田和広.md "wikilink")、[佐藤彩](../Page/佐藤彩.md "wikilink")
+  - (金)[渕上紘行](../Page/渕上紘行.md "wikilink")、[MAYU](https://ja.wikipedia.org/wiki/MAYU_\(パーソナリティ\) "wikilink")
 
 ### パーソナリティー（2010年度）
 
@@ -117,7 +117,7 @@
   - (火)川畑恒一、若林聖子
   - (水)川畑恒一、[星りな](https://ja.wikipedia.org/wiki/星りな "wikilink")
   - (木)卓田和広、MAYU
-  - (金)[山内要一](../Page/山内要一.md "wikilink")、[伊藤沙菜](https://ja.wikipedia.org/wiki/伊藤沙菜 "wikilink")
+  - (金)[山内要一](../Page/山内要一.md "wikilink")、[伊藤沙菜](../Page/伊藤沙菜.md "wikilink")
 
 ### パーソナリティー（2007年度）
 
@@ -146,9 +146,9 @@
 ## 関連番組
 
   - [プチフル\!](https://ja.wikipedia.org/wiki/プチフル! "wikilink")
-  - [ファイターズDEナイト\!](https://ja.wikipedia.org/wiki/ファイターズDEナイト! "wikilink")
+  - [ファイターズDEナイト\!](../Page/ファイターズDEナイト!.md "wikilink")
   - [Kakiiin](../Page/Kakiiin.md "wikilink")
-  - [HBCファイターズナイター](https://ja.wikipedia.org/wiki/HBCファイターズナイター "wikilink")
+  - [HBCファイターズナイター](../Page/HBCファイターズナイター.md "wikilink")
   - HBCミュージックナイター「フルカウント\!」女子会スペシャル（2011年3月19日19:00 - 20:00 JST放送。DJ:佐藤舞、MAYU）
 
 ## 脚注
@@ -159,4 +159,4 @@
 
 [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:北海道放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:北海道放送のラジオ帯番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
 
-1.  第1部と第2部の間は「[ミュージックギフト〜音楽・地球号](https://ja.wikipedia.org/wiki/ミュージックギフト〜音楽・地球号 "wikilink")」（[文化放送](../Page/文化放送.md "wikilink")制作）を放送。
+1.  第1部と第2部の間は「[ミュージックギフト〜音楽・地球号](../Page/ミュージックギフト〜音楽・地球号.md "wikilink")」（[文化放送](../Page/文化放送.md "wikilink")制作）を放送。

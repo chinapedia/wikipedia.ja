@@ -1,7 +1,7 @@
 > この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
 
 
-『**Qでん百科**』（キューでんひゃっか）は、[九州](../Page/九州.md "wikilink")地方の[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")7局で放送された[テレビ西日本](../Page/テレビ西日本.md "wikilink")製作の[生活情報番組](https://ja.wikipedia.org/wiki/生活情報番組 "wikilink")。[九州電力](../Page/九州電力.md "wikilink")の一社提供。
+『**Qでん百科**』（キューでんひゃっか）は、[九州](../Page/九州.md "wikilink")地方の[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")7局で放送された[テレビ西日本](../Page/テレビ西日本.md "wikilink")製作の[生活情報番組](../Page/生活情報番組.md "wikilink")。[九州電力](../Page/九州電力.md "wikilink")の一社提供。
 
 番組は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")放送分をもって終了（[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")のみ1日遅れの[3月29日](../Page/3月29日.md "wikilink")に終了）。替わって同年4月14日からは、同じく九州電力提供のミニ番組『[探Qサイエンス](https://ja.wikipedia.org/wiki/探Qサイエンス "wikilink")』が放送された。
 
@@ -13,7 +13,7 @@
 
 ## スタッフ
 
-  - 制作 - [VSQ](https://ja.wikipedia.org/wiki/VSQ "wikilink")
+  - 制作 - [VSQ](../Page/VSQ.md "wikilink")
   - 著作 - テレビ西日本
 
 ## 放送局
@@ -29,7 +29,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td><p>金曜 11:05 - 11:20<br />
 金曜 11:00 - 11:15 （番組終了時）</p></td>
@@ -66,7 +66,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
 <td><p>金曜 11:10 - 11:25</p></td>
 <td></td>

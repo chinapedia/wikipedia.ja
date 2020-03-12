@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[声優](../Page/声優.md "wikilink")の[清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")と[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")。
-  - さる偉い人より「一時間お任せします」とだけ言われ、番組の内容作りや進行は2人に「**[丸投げ](https://ja.wikipedia.org/wiki/丸投げ "wikilink")**」されている。
+  - [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[声優](../Page/声優.md "wikilink")の[清水香里](../Page/清水香里.md "wikilink")と[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")。
+  - さる偉い人より「一時間お任せします」とだけ言われ、番組の内容作りや進行は2人に「**[丸投げ](../Page/丸投げ.md "wikilink")**」されている。
   - コーナーごとの明確なタイムテーブルも決められておらず、番組の進行はほぼ2人のトークによって左右される。
-  - 放送開始後、最初の[改編期](../Page/改編期.md "wikilink")が迫った2007年12月から「**STOP\! 打ち切り**」という[スローガン](https://ja.wikipedia.org/wiki/スローガン "wikilink")を掲げている。あるリスナーよりこのスローガンを呼び掛けるための[ブログパーツ](https://ja.wikipedia.org/wiki/ブログパーツ "wikilink")も作られ、[番組の公式ホームページ](http://anitama.com/marunage/index.html)で配布されている。
+  - 放送開始後、最初の[改編期](../Page/改編期.md "wikilink")が迫った2007年12月から「**STOP\! 打ち切り**」という[スローガン](../Page/スローガン.md "wikilink")を掲げている。あるリスナーよりこのスローガンを呼び掛けるための[ブログパーツ](https://ja.wikipedia.org/wiki/ブログパーツ "wikilink")も作られ、[番組の公式ホームページ](http://anitama.com/marunage/index.html)で配布されている。
   - パーソナリティ2人のイメージを、リスナーが具現化し誕生した「まるなげどん」という番組マスコットキャラクターがある。
   - [ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")は、さまざまなトーンの声で「まるなげ」とささやく（もしくは叫ぶ）もの。いくつかのバージョンがあるが、BGMは全て共通で、基本的にどちらか一人が声を発する。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月下旬に公式ホームページが更新され、番組の説明も「丸投げ」から「番組も内容も中身も全てその日暮らし」、「自由な熱血系爆裂トーク番組」となった。
@@ -58,7 +58,7 @@
   - オープニング
     パーソナリティ2人によるトーク（主に近況報告）で番組は始まる。ある程度話に区切りがついた時点で、「*そんなこんなで清水香里と植田佳奈がお送りする60分*」というくだりと番組名のコールが入り、ようやくオープニングテーマが流される。
     ちなみに、ゲストがいてもこの流れはお決まりで、自己紹介は基本的に番組名がコールされるまでできない（第20回、2008年2月16日放送分より）。
-    最後に締めとして、[提供アナウンス風に清水が](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")「この番組は○○○のラジオ関西東京支社からお送りします」と読み上げる。
+    最後に締めとして、[提供アナウンス風に清水が](../Page/提供クレジット.md "wikilink")「この番組は○○○のラジオ関西東京支社からお送りします」と読み上げる。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 <!-- end list -->
 
   - うわさのナツコボット
-    2人と親交が深い[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")の言いそうなセリフをリスナーから[大喜利](https://ja.wikipedia.org/wiki/大喜利 "wikilink")形式で募集する。
+    2人と親交が深い[桑谷夏子](../Page/桑谷夏子.md "wikilink")の言いそうなセリフをリスナーから[大喜利](../Page/大喜利.md "wikilink")形式で募集する。
     2人が「言いそう」と感じた時は「ボッときた」となり、[Twitter](../Page/Twitter.md "wikilink")に作成された[botアカウントに採用される](https://ja.wikipedia.org/wiki/Twitter#その他 "wikilink")。
 
 <!-- end list -->
@@ -169,9 +169,9 @@
 <tbody>
 <tr class="odd">
 <td><p>第1回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/眼鏡キャラクター" title="wikilink">メガネ声優</a></p></td>
+<td><p><a href="../Page/眼鏡キャラクター.md" title="wikilink">メガネ声優</a></p></td>
 <td><p><a href="../Page/藤原啓治.md" title="wikilink">藤原啓治</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/門脇舞以" title="wikilink">門脇舞以</a> [3]</p></td>
+<td><p><a href="../Page/門脇舞以.md" title="wikilink">門脇舞以</a> [3]</p></td>
 <td><p>2008年4月12日（第28回）放送分</p></td>
 </tr>
 <tr class="even">
@@ -185,19 +185,19 @@
 <td><p>第3回</p></td>
 <td><p>声優<a href="https://ja.wikipedia.org/wiki/宣材写真" title="wikilink">フォトジェニック</a></p></td>
 <td><p><a href="../Page/鈴村健一.md" title="wikilink">鈴村健一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柚木涼香" title="wikilink">柚木涼香</a></p></td>
+<td><p><a href="../Page/柚木涼香.md" title="wikilink">柚木涼香</a></p></td>
 <td><p>2008年5月3日（第31回）放送分[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>第4回</p></td>
 <td><p><a href="../Page/マゾヒズム.md" title="wikilink">ドM声優</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩田光央" title="wikilink">岩田光央</a></p></td>
+<td><p><a href="../Page/岩田光央.md" title="wikilink">岩田光央</a></p></td>
 <td><p><strong>清水香里</strong></p></td>
 <td><p>2008年5月10日（第32回）放送分</p></td>
 </tr>
 <tr class="odd">
 <td><p>第5回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リアクション芸人" title="wikilink">体当たり声優</a></p></td>
+<td><p><a href="../Page/リアクション芸人.md" title="wikilink">体当たり声優</a></p></td>
 <td><p><a href="../Page/小野坂昌也.md" title="wikilink">小野坂昌也</a></p></td>
 <td><p><strong>清水香里</strong></p></td>
 <td><p>2008年5月17日（第33回）放送分</p></td>
@@ -212,36 +212,36 @@
 <tr class="odd">
 <td><p>第7回</p></td>
 <td><p>声優<a href="https://ja.wikipedia.org/wiki/麻雀#雀士" title="wikilink">雀士</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中田譲治" title="wikilink">中田譲治</a><br />
-<a href="https://ja.wikipedia.org/wiki/小山剛志" title="wikilink">小山剛志</a></p></td>
+<td><p><a href="../Page/中田譲治.md" title="wikilink">中田譲治</a><br />
+<a href="../Page/小山剛志.md" title="wikilink">小山剛志</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小清水亜美" title="wikilink">小清水亜美</a><br />
 <strong>植田佳奈</strong>[5]</p></td>
 <td><p>2008年5月31日（第35回）放送分</p></td>
 </tr>
 <tr class="even">
 <td><p>第8回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天然ボケ" title="wikilink">天然声優</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉田智和" title="wikilink">杉田智和</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井裕佳梨" title="wikilink">福井裕佳梨</a></p></td>
+<td><p><a href="../Page/天然ボケ.md" title="wikilink">天然声優</a></p></td>
+<td><p><a href="../Page/杉田智和.md" title="wikilink">杉田智和</a></p></td>
+<td><p><a href="../Page/福井裕佳梨.md" title="wikilink">福井裕佳梨</a></p></td>
 <td><p>2008年6月7日（第36回）放送分</p></td>
 </tr>
 <tr class="odd">
 <td><p>第9回</p></td>
 <td><p><a href="../Page/ブログ.md" title="wikilink">ブロガー声優</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小山剛志" title="wikilink">小山剛志</a></p></td>
+<td><p><a href="../Page/小山剛志.md" title="wikilink">小山剛志</a></p></td>
 <td><p><a href="../Page/浅野真澄.md" title="wikilink">浅野真澄</a></p></td>
 <td><p>2008年6月21日（第38回）放送分</p></td>
 </tr>
 <tr class="even">
 <td><p>第10回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/酒豪" title="wikilink">酒豪</a>声優</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳥海浩輔" title="wikilink">鳥海浩輔</a></p></td>
+<td><p><a href="../Page/酒豪.md" title="wikilink">酒豪</a>声優</p></td>
+<td><p><a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a></p></td>
 <td><p><a href="../Page/大原さやか.md" title="wikilink">大原さやか</a></p></td>
 <td><p>2008年6月28日（第39回）放送分</p></td>
 </tr>
 <tr class="odd">
 <td><p>第11回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/着物" title="wikilink">着物</a>・<a href="https://ja.wikipedia.org/wiki/浴衣" title="wikilink">浴衣</a>・<a href="../Page/和服.md" title="wikilink">和服</a>声優</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/着物" title="wikilink">着物</a>・<a href="../Page/浴衣.md" title="wikilink">浴衣</a>・<a href="../Page/和服.md" title="wikilink">和服</a>声優</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小山力也" title="wikilink">小山力也</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/能登麻美子" title="wikilink">能登麻美子</a></p></td>
 <td><p>2008年7月12日（第41回）放送分</p></td>
@@ -276,7 +276,7 @@
 <!-- end list -->
 
   - ルビーに呼びかけ → ○○に呼びかけ
-    当初は『まるなげ♪』の後に放送される番組『[ルビーにくちづけ](https://ja.wikipedia.org/wiki/ルビーにくちづけ "wikilink")』（[文化放送](../Page/文化放送.md "wikilink")制作）へ呼びかけを行うエンディングのコーナーだったが、現在は[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")枠内放送の番組対象を拡大して呼びかけを行っている。
+    当初は『まるなげ♪』の後に放送される番組『[ルビーにくちづけ](../Page/ルビーにくちづけ.md "wikilink")』（[文化放送](../Page/文化放送.md "wikilink")制作）へ呼びかけを行うエンディングのコーナーだったが、現在は[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")枠内放送の番組対象を拡大して呼びかけを行っている。
     放送開始以来、後番組ということで番組の告知をし、またたびたび呼びかけをしていたにもかかわらず、まったく返事がないということで、第13回（2007年12月29日放送）よりコーナー化された。それ以前には『ルビーにくちづけ』以外に『[工口×工口](../Page/工口×工口.md "wikilink")』等にも呼びかけをしていたことがある。
     第14回で『まるなげ♪』『ルビーにくちづけ』両番組のリスナーを通じて初めてきた返答は「無視します」だった。[関俊彦](../Page/関俊彦.md "wikilink")・[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")の2人曰く、「どちらかが根負けするまで無視する」とのこと（『ルビーにくちづけ』より）。その後も呼びかけを続けたが返事はなく、ついには呼びかけ対象を変更し、『[集まれ昌鹿野編集部](https://ja.wikipedia.org/wiki/集まれ昌鹿野編集部 "wikilink")』（ヤングに呼びかけ）、『[週刊\!アニたま水曜日](https://ja.wikipedia.org/wiki/週刊!アニたま金曜日 "wikilink")』（アニすいに呼びかけ）など、現在はとりあえず呼びかけに返事をくれる番組探し状態である。
 
@@ -318,12 +318,12 @@
   - 第8回（2007年11月24日）放送分は、収録が予定されていた日にラジオ関西東京支社の置かれているビル全体で総点検が実施される都合により、収録開始時点から1時間30分後にはビル全体が停電してしまうという状況の中で収録された。本来なら他のスタジオを借りるはずが、番組に予算がないことに加え、番組の対応策は、植田の所属事務所であるアイムエンタープライズに役者のオファーではなく収録の間借りをオファーといったものをはじめ、都内にある声優事務所を巡りながら収録、ゲスト出演してもらう代わりにそのゲストの自宅を収録の間借りオファーなど、突拍子もない提案もあったが結局、収録は予定通り東京支社内スタジオでの収録となった。
   - 暗いエピソードが多いということで、植田が清水に「ブラック清水」とあだ名を付けた。後に上層部発案企画「まるなげ♪ジェンガ」で「ニックネームを付ける」という指令に、植田から「ブラックボーダー香里」とニックネームが付けられたが清水は「ピンクボーダー香里」を要望するも、「ピンクは私だぞ」と植田が抑えたため、清水がふっと零した言葉「パステル」を生天目が推したことから、清水自身も納得し「パステル香里にする」と自ら決定した。
   - 番組の企画として、「番組に何かしてくれるというリスナー」を条件に、「抽選で5名にオリジナルのイモ判が押された年賀状をプレゼント」として、募集したところ、応募者は3名だった。後日、「提案するかわりに欲しい。」と希望してきた1名にもプレゼントされた。
-  - 番組中、[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")の話をしていたら、リスナーが生天目の出演するラジオにメールを送って報告し、後日、その返事を番組に報告してきたことがある。
+  - 番組中、[生天目仁美](../Page/生天目仁美.md "wikilink")の話をしていたら、リスナーが生天目の出演するラジオにメールを送って報告し、後日、その返事を番組に報告してきたことがある。
   - （年末年始が近づき）改編期の話をしていたところ、リスナーをも交えた「打ち切り」の話になり、番組の現状を踏まえて「STOP\! 打ち切り」というスローガンが生まれた。なお、このスローガンは『工口×工口』でも、諏訪部が話に出したことがある（こちらは春の改編期の話である）。
   - リスナーから贈り物がよく届く。これまでに、各地方の特産品（[米](../Page/米.md "wikilink")やお菓子など）、[ワイン](../Page/ワイン.md "wikilink")や[リキュール](../Page/リキュール.md "wikilink")、清水が収集しているご当地キューピーストラップなどが届いている（中には[裏番組リスナーや贈り物を買いに行ったと思われるリスナーもいる](../Page/田村ゆかりのいたずら黒うさぎ.md "wikilink")）。
       - パーソナリティの2人がリスナーに「お米がほしい」と要望していたら、2007年12月15日（第11回）の放送までに複数のリスナーから計27kgの米が届いた。その後、2007年12月22日（第12回）の放送分でスタッフが炊飯器を持ち込み、本番中は炊き立てのごはんを食べながら進行した。また、ごはんだけでは寂しいということで、後にパーソナリティーやスタッフが持ち込んだおかず（リスナーからの贈られた物も含む）も添えられるようになった。それ以来、番組収録間際までごはんを食べるのが恒例化し、「ざぎん\[7\]食堂」と称しオープニング内でその日は何を食べたか紹介している。さらに、2010年7月10日放送分からは、公式サイト上でメニューが写真付きで紹介されるようになった。ちなみに届いたお米の一部はスタッフが持ち帰ったが、2008年2月16日（第20回）の放送時点でもごはんを食べており、このときゲストとして出演した生天目も食べていた（なお、生天目は出演するまで、スタジオでごはんを食べていることを冗談だと思っていたようである）。
       - パーソナリティーの2人が話題にしていたテレビ番組([闇のカルテ](https://ja.wikipedia.org/wiki/外科医_鳩村周五郎 "wikilink"))を見逃した時、録画したリスナーに対してダビングして送るように要望したこともある。実際に届いたが、著作権侵害に当たるからか何が届いたかは詳しく言えないと発言していた。
-  - 2007年12月29日（第13回）の放送分では「今週のまるなげ♪急上昇曲」のコーナーで、[福井裕佳梨](https://ja.wikipedia.org/wiki/福井裕佳梨 "wikilink")の「Rain Of Love」を紹介をする際、リスナーの要望により「カニフラワー」と叫び、知らずに『[福井裕佳梨・川本成のカニフラワー](../Page/福井裕佳梨・川本成のカニフラワー.md "wikilink")』のラジオ番組の宣伝をし、更にリスナーの曲のリクエストに応えて「Rain Of Love」の曲を流したことがある（この時は[ネット配信](../Page/ネット配信.md "wikilink")版でも「Rain Of Love」の曲が流れた）。
+  - 2007年12月29日（第13回）の放送分では「今週のまるなげ♪急上昇曲」のコーナーで、[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")の「Rain Of Love」を紹介をする際、リスナーの要望により「カニフラワー」と叫び、知らずに『[福井裕佳梨・川本成のカニフラワー](../Page/福井裕佳梨・川本成のカニフラワー.md "wikilink")』のラジオ番組の宣伝をし、更にリスナーの曲のリクエストに応えて「Rain Of Love」の曲を流したことがある（この時は[ネット配信](../Page/ネット配信.md "wikilink")版でも「Rain Of Love」の曲が流れた）。
   - 第21回（2008年2月23日）では、権利者である茅原実里がゲストで来ていたため、「まるなげ♪宣伝部」「今週のまるなげ♪急上昇曲」の各コーナーで1曲ずつ放送され、番組開始以来初めて曲が2度放送された。
   - 二人が共演した作品『[魔法少女リリカルなのはシリーズ](../Page/魔法少女リリカルなのはシリーズ.md "wikilink")』の話が番組内で度々話されている。また、同作品シリーズで共演した声優、特に[ヴォルケンリッター](../Page/ヴォルケンリッター.md "wikilink")（チーム・ヴォルケン）をゲストに呼ぶという提案がパーソナリティとリスナーから度々挙がっているものの、現在の時点では構想だけに留まっている。ちなみに『なのは』のアニラジである『[RADIOアニメロミックス ラジオStrikerS](https://ja.wikipedia.org/wiki/魔法少女リリカルなのは_The_MOVIE_1st#ラジオ番組 "wikilink")』は、関西地方では[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")における裏番組であり、当番組内でも話題に上がることがある。
   - 番組のラジオCDの制作は、ほとんど突発的なものだったようで、発売を告知しながらもCDタイトルや一般販売時期は未定・未発表状態であった（後に[アニたまSHOP](http://anitama-shop.jp/)での紹介に誤植があったことも発覚し訂正とお詫びがなされた）。CDタイトルは「今週のまるなげ♪急上昇曲」内で複数の候補の中からダーツによって決められた（なお、候補の中には『**チアルーガ\!**』も当然の如く含まれていた）。
@@ -333,25 +333,25 @@
   - 2011年7月30日放送分にて、放送200回を迎えた。スポンサーがついていない番組がここまで続くのは珍しいらしく、清水と植田自身が「すごいことだ」と驚く様子が放送された。
   - 清水と植田のコンビは『ラジオ番組表2011秋(三才ブックス刊)』の「好きなDJランキング」にて448票を獲得し、第3位となった。同誌の編集者は、「とある日を境に投票が増えて驚きました」と清水に漏らしている。これは、本番組内における投票の呼びかけに応じたリスナーが、大挙して2人に投票した結果であると考えられる。
   - 2011年11月20日の「神戸マラソン折り返しまつり」にて3回目の公開録音が予定されていたが、強風のため中止となった。植田は後日の放送にて、「はずれクジを引く人も意外と持っていると思う」と前向きに捉えていた。これに対して清水は、「まるなげ初の王道の公開録音をやろうとしたことがいけなかった。神様が怒りの強風を吹かせた」と述べている。
-  - [BIGLOBE](https://ja.wikipedia.org/wiki/BIGLOBE "wikilink")が運営する『[アニメワン](../Page/アニメワン.md "wikilink")』内の「アニメランキングメーカー」において「おススメの声優webラジオ（現在放送版）」というランキングが作成され、本番組は投票総数419票のうち54票を獲得して第1位となった。
+  - [BIGLOBE](../Page/BIGLOBE.md "wikilink")が運営する『[アニメワン](../Page/アニメワン.md "wikilink")』内の「アニメランキングメーカー」において「おススメの声優webラジオ（現在放送版）」というランキングが作成され、本番組は投票総数419票のうち54票を獲得して第1位となった。
 
 ## ゲスト
 
-  - 第20回：[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+  - 第20回：[生天目仁美](../Page/生天目仁美.md "wikilink")
   - 第21回：[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")
-  - 第52,76回：[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")
+  - 第52,76回：[桑谷夏子](../Page/桑谷夏子.md "wikilink")
   - 第60回：[斎賀みつき](../Page/斎賀みつき.md "wikilink")
-  - 第63回：[鹿野優以](https://ja.wikipedia.org/wiki/鹿野優以 "wikilink")
-  - 第73回：[高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
-  - 第104,121回：[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")
+  - 第63回：[鹿野優以](../Page/鹿野優以.md "wikilink")
+  - 第73回：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
+  - 第104,121回：[後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")
   - 第140回：[伊藤かな恵](../Page/伊藤かな恵.md "wikilink")
   - 第220回：[利根健太郎](https://ja.wikipedia.org/wiki/利根健太郎 "wikilink")、[佐倉綾音](https://ja.wikipedia.org/wiki/佐倉綾音 "wikilink")
 
 ## 公開録音
 
-  - [2009年](../Page/2009年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [神戸国際会議場 メインホール](https://ja.wikipedia.org/wiki/神戸国際交流会館 "wikilink")
-  - [2011年](../Page/2011年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [神戸新聞松方ホール](https://ja.wikipedia.org/wiki/神戸情報文化ビル "wikilink")
-  - 2011年[11月20日](../Page/11月20日.md "wikilink")（中止） - [神戸マラソン](https://ja.wikipedia.org/wiki/神戸マラソン "wikilink") [折り返しまつり会場](https://ja.wikipedia.org/wiki/舞子公園 "wikilink")
+  - [2009年](../Page/2009年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [神戸国際会議場 メインホール](../Page/神戸国際交流会館.md "wikilink")
+  - [2011年](../Page/2011年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [神戸新聞松方ホール](../Page/神戸情報文化ビル.md "wikilink")
+  - 2011年[11月20日](../Page/11月20日.md "wikilink")（中止） - [神戸マラソン](https://ja.wikipedia.org/wiki/神戸マラソン "wikilink") [折り返しまつり会場](../Page/舞子公園.md "wikilink")
 
 <!-- end list -->
 
@@ -392,7 +392,7 @@
 <!-- end list -->
 
   -
-    出演者： パステル香里（Cv:清水香里）、司会者、かなこ、からこ、カナ猫（Cv:植田佳奈）、純次ママ（Cv:[間島淳司](https://ja.wikipedia.org/wiki/間島淳司 "wikilink")）
+    出演者： パステル香里（Cv:清水香里）、司会者、かなこ、からこ、カナ猫（Cv:植田佳奈）、純次ママ（Cv:[間島淳司](../Page/間島淳司.md "wikilink")）
 
 ### ラジオCD
 
@@ -486,9 +486,9 @@
   - [N±](https://ja.wikipedia.org/wiki/N± "wikilink")
   - [N's](https://ja.wikipedia.org/wiki/N's "wikilink")
   - [魔法少女リリカルなのはシリーズ](../Page/魔法少女リリカルなのはシリーズ.md "wikilink")
-  - [乃木坂春香の秘密](https://ja.wikipedia.org/wiki/乃木坂春香の秘密 "wikilink")
-  - [桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")
-  - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+  - [乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")
+  - [桑谷夏子](../Page/桑谷夏子.md "wikilink")
+  - [生天目仁美](../Page/生天目仁美.md "wikilink")
   - [アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")
 
 ## 外部リンク
@@ -498,7 +498,7 @@
   -
 [Category:アニたまどっとコム](https://ja.wikipedia.org/wiki/Category:アニたまどっとコム "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
 
-1.  近畿地方における裏番組としては、『[RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")』・『[田村ゆかりのいたずら黒うさぎ](../Page/田村ゆかりのいたずら黒うさぎ.md "wikilink")』・『[コードギアス るるくるステーション](https://ja.wikipedia.org/wiki/コードギアス_るるくるステーション "wikilink")』・『[もっともゴチャ・まぜっ\!](https://ja.wikipedia.org/wiki/ゴチャ・まぜっ!火曜日_\(2011年から2014年まで\) "wikilink")』（「1時またぎ」時代のみ）、テレビも含めると『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』の第1部（「1時半またぎ」時代のみ）が該当する。
+1.  近畿地方における裏番組としては、『[RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")』・『[田村ゆかりのいたずら黒うさぎ](../Page/田村ゆかりのいたずら黒うさぎ.md "wikilink")』・『[コードギアス るるくるステーション](https://ja.wikipedia.org/wiki/コードギアス_るるくるステーション "wikilink")』・『[もっともゴチャ・まぜっ\!](https://ja.wikipedia.org/wiki/ゴチャ・まぜっ!火曜日_\(2011年から2014年まで\) "wikilink")』（「1時またぎ」時代のみ）、テレビも含めると『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』の第1部（「1時半またぎ」時代のみ）が該当する。
 2.  ただし「もっともゴチャ・まぜっ\!」聞くことについては「[植田がよゐこにお世話になっている](../Page/よゐこ部.md "wikilink")」という理由で「まるなげ」の録音やインターネットの視聴を認めている。
 3.  収録中、受賞記念として本人にお知らせの電話をかけたが出られなかったため、収録後に清水がメールで改めて伝えた。
 4.  2008年4月26日（第30回）放送分で発表する予定だったが、票数が少ないため発表を延期した。しかし、今度は票がバラけたため、最終的にパーソナリティーによる選出となった。

@@ -8,7 +8,7 @@
   - アルバムタイトルは、「最後のインストゥルメンタルを除いた9曲の小さな曲達」という意味で付けられた\[1\]。
   - 小室哲哉プロデュース最後の作品。
   - デビュー当初の華原を小室は「短距離選手」と捉えていたが、デビューから今まで取れるものは全部獲得してきた華原を見て「長距離ランナーになりかかっている、だから1回純粋な目線で立ち返ってみよう」というテーマを立てた。小室はそれを「色んな意味でこのアルバムは華原のリニューアルに近い」とコメントした\[2\]。
-  - 華原は「『[LOVE BRACE](https://ja.wikipedia.org/wiki/LOVE_BRACE "wikilink")』『[storytelling](https://ja.wikipedia.org/wiki/storytelling "wikilink")』とつながりつつ、曲自体は優しい曲、強い曲、悲しい曲が入っている。それぞれがシングルになってもおかしくない。そういう意味で9つの世界がある」と解釈している\[3\]。
+  - 華原は「『[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")』『[storytelling](https://ja.wikipedia.org/wiki/storytelling "wikilink")』とつながりつつ、曲自体は優しい曲、強い曲、悲しい曲が入っている。それぞれがシングルになってもおかしくない。そういう意味で9つの世界がある」と解釈している\[3\]。
   - 音色のコンセプトは「流行り物はなるべく避けて、普遍的なポップスまで持っていく」「『見通しの良い景色が見えてきたら、自然とゆったりして来た』という見え方のするサウンド」を目指した\[4\]。
   - ワーナーミュージックジャパン移籍後初のアルバム。
   - 初回限定盤はロゴ入り特殊パッケージ仕様でフォトブック付き。
@@ -52,9 +52,9 @@
 
   - [松尾和博](https://ja.wikipedia.org/wiki/松尾和博 "wikilink") - [ギター](../Page/ギター.md "wikilink")(\#1,2,3,4,5,6,8,9)
   - [木村建](https://ja.wikipedia.org/wiki/木村建 "wikilink") - ギター(\#2,4,5,6,8)
-  - [Carmine Rojas](https://ja.wikipedia.org/wiki/:en:Carmine_Rojas "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")(\#2,3,5,6)
+  - [Carmine Rojas](https://ja.wikipedia.org/wiki/:en:Carmine_Rojas "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")(\#2,3,5,6)
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") - ベース(\#1)
-  - [阿部薫](https://ja.wikipedia.org/wiki/阿部薫_\(ドラマー\) "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")(\#1)、[ドラムス](../Page/ドラムセット.md "wikilink")(\#2,3,6,9)
+  - [阿部薫](../Page/阿部薫_\(ドラマー\).md "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")(\#1)、[ドラムス](../Page/ドラムセット.md "wikilink")(\#2,3,6,9)
   - [中野周一](https://ja.wikipedia.org/wiki/中野周一 "wikilink") - ドラムス(\#4)
 
 ## アルバム曲タイアップ
@@ -63,21 +63,21 @@
   - **needs somebody's love**
   - **tumblin' dice album version**
       -
-        [JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」CFソング （自身出演）
+        [JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CFソング （自身出演）
 
 <!-- end list -->
 
   - **here we are album version**
       -
-        [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\) "wikilink")「[ランデヴー](https://ja.wikipedia.org/wiki/ランデヴー_\(テレビドラマ\) "wikilink")」主題歌
+        [TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")「[ランデヴー](../Page/ランデヴー_\(テレビドラマ\).md "wikilink")」主題歌
 
 ## 脚注
 
 [Category:華原朋美のアルバム](https://ja.wikipedia.org/wiki/Category:華原朋美のアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink")
 
-1.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](https://ja.wikipedia.org/wiki/CD&DLでーた "wikilink")」1998年12月5日号「華原朋美 新作『nine cubes』発表 いろんな思いを詰め込んで…」16P-17Pより。
+1.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1998年12月5日号「華原朋美 新作『nine cubes』発表 いろんな思いを詰め込んで…」16P-17Pより。
 2.
-3.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](https://ja.wikipedia.org/wiki/月刊カドカワ "wikilink")」1999年1月号「華原朋美 "永遠の愛"はあるよね?私は信じてます。」62P-65Pより。
+3.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](../Page/月刊カドカワ.md "wikilink")」1999年1月号「華原朋美 "永遠の愛"はあるよね?私は信じてます。」62P-65Pより。
 4.
 5.
 6.

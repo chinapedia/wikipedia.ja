@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[どうぶつの森+](https://ja.wikipedia.org/wiki/どうぶつの森+ "wikilink")』をベースにし日本国外の文化に合わせて作成された『[Animal Crossing](https://ja.wikipedia.org/wiki/:en:Animal_Crossing "wikilink")』に多少の追加要素を含めて日本で発売された作品である。そのため、前作までにあった日本ならではのイベントが一部削除され、代わりに日本国外のイベントが追加されている。
+『[どうぶつの森+](../Page/どうぶつの森+.md "wikilink")』をベースにし日本国外の文化に合わせて作成された『[Animal Crossing](https://ja.wikipedia.org/wiki/:en:Animal_Crossing "wikilink")』に多少の追加要素を含めて日本で発売された作品である。そのため、前作までにあった日本ならではのイベントが一部削除され、代わりに日本国外のイベントが追加されている。
 
 ## 過去作品との違い
 
@@ -16,13 +16,13 @@
   - [SDカードアダプタを使って写真を保存することができるようになった](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#周辺機器 "wikilink")。
   - 住民が風邪をひくなどの要素が増えた
   - 住人に対して自らお手伝いを頼むことができなくなった
-  - 村長（コトブキ）の帽子がベレットから[シルクハット](https://ja.wikipedia.org/wiki/シルクハット "wikilink")になった
+  - 村長（コトブキ）の帽子がベレットから[シルクハット](../Page/シルクハット.md "wikilink")になった
 
 ### 施設
 
   - 「おやしろ」が「願いの泉」に変わった。
   - お店の看板などの表記が英語になった。
-  - [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")を用いなくても島へ行けるようになった（但し、ゲームを進めてたぬきちから購入する必要がある。）
+  - [ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")を用いなくても島へ行けるようになった（但し、ゲームを進めてたぬきちから購入する必要がある。）
   - [オブジェ](https://ja.wikipedia.org/wiki/オブジェ "wikilink")を置く事ができるようになった。
   - 閉店中のたぬきちの店を無理やり開くことができるようになった（但し、その日が福引デーや店が改装中の場合は開けない。それ以外の場合でも開けられないことがある）。
 
@@ -34,7 +34,7 @@
 
 ## ゲームボーイアドバンスを用いる要素
 
-[GBAケーブル](https://ja.wikipedia.org/wiki/GBAケーブル "wikilink")を用いて[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")本体と[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")を接続することで、以下のようなことが出来る。
+[GBAケーブル](../Page/GBAケーブル.md "wikilink")を用いて[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")本体と[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")を接続することで、以下のようなことが出来る。
 
   - **願いの泉**
       - [カードeリーダー+を使って新しい住人を呼ぶことができる](https://ja.wikipedia.org/wiki/カードe#カードeリーダーとカードeリーダー+ "wikilink")。
@@ -67,6 +67,6 @@
 
   - [どうぶつの森e+](http://www.nintendo.co.jp/ngc/gaej/) - 公式ホームページ
   - [あたらしい楽しさがいっぱい！ 「どうぶつの森e+」がついにその姿をあらわす\!\!](https://www.nintendo.co.jp/nom/0306/index.html) - Nintendo Online Magazine 2003年6月号
-  - [大貫さんと日笠さんの、ふたりで「どうぶつの森e+」！！](http://www.1101.com/nintendo/doubutsu_no_mori_eplus/01.html) - ほぼ日刊イトイ新聞（音楽家の[大貫妙子](https://ja.wikipedia.org/wiki/大貫妙子 "wikilink")と手相観の[日笠雅水](https://ja.wikipedia.org/wiki/日笠雅水 "wikilink")へのインタビュー）
+  - [大貫さんと日笠さんの、ふたりで「どうぶつの森e+」！！](http://www.1101.com/nintendo/doubutsu_no_mori_eplus/01.html) - ほぼ日刊イトイ新聞（音楽家の[大貫妙子](../Page/大貫妙子.md "wikilink")と手相観の[日笠雅水](https://ja.wikipedia.org/wiki/日笠雅水 "wikilink")へのインタビュー）
 
 [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:どうぶつの森](https://ja.wikipedia.org/wiki/Category:どうぶつの森 "wikilink")

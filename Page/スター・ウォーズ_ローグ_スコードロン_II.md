@@ -1,15 +1,15 @@
 > この記事は[   II](https://ja.wikipedia.org/wiki/___II)から翻訳されています。
 
 
-『**スター・ウォーズ ローグ スコードロン II**』（スター・ウォーズ ローグ スコードロン ツー）はエレクトロニック・アーツ・スクウェア（現[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")）より発売された[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。原題は『Star Wars Rogue Squadron II: Rogue Leader』。
+『**スター・ウォーズ ローグ スコードロン II**』（スター・ウォーズ ローグ スコードロン ツー）はエレクトロニック・アーツ・スクウェア（現[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")）より発売された[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。原題は『Star Wars Rogue Squadron II: Rogue Leader』。
 
 ## 概要
 
-『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』の[世界](../Page/世界.md "wikilink")を再現した[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")であり、[銀河帝国打倒のため](https://ja.wikipedia.org/wiki/銀河帝国_\(スター・ウォーズ\) "wikilink")[反乱同盟軍として](https://ja.wikipedia.org/wiki/スター・ウォーズ登場組織一覧 "wikilink")[宇宙船](../Page/宇宙船.md "wikilink")を駆使する[ルーク・スカイウォーカー](../Page/ルーク・スカイウォーカー.md "wikilink")と[ウェッジ・アンティリーズ](https://ja.wikipedia.org/wiki/ウェッジ・アンティリーズ "wikilink")の指揮する[ローグ中隊](https://ja.wikipedia.org/wiki/ローグ中隊 "wikilink")を操ることができる。
+『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』の[世界](../Page/世界.md "wikilink")を再現した[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")であり、[銀河帝国打倒のため](../Page/銀河帝国_\(スター・ウォーズ\).md "wikilink")[反乱同盟軍として](../Page/スター・ウォーズ登場組織一覧.md "wikilink")[宇宙船](../Page/宇宙船.md "wikilink")を駆使する[ルーク・スカイウォーカー](../Page/ルーク・スカイウォーカー.md "wikilink")と[ウェッジ・アンティリーズ](https://ja.wikipedia.org/wiki/ウェッジ・アンティリーズ "wikilink")の指揮する[ローグ中隊](https://ja.wikipedia.org/wiki/ローグ中隊 "wikilink")を操ることができる。
 
 『[エピソード4/新たなる希望](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』、『[エピソード5/帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』、『[エピソード6/ジェダイの帰還](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")』にて繰り広げられた戦闘、有名どころでは[ホスの戦い](https://ja.wikipedia.org/wiki/ホスの戦い "wikilink")などが舞台となっている。また、いくつかの舞台は90年代の小説やコミックに基づいている。
 
-本作は、『[スター・ウォーズ 出撃\! ローグ中隊](https://ja.wikipedia.org/wiki/スター・ウォーズ_出撃!_ローグ中隊 "wikilink")』の続編として開発された。本ゲームは大幅に改善された映像表現、僚機への作戦指示が特徴である。本ゲームには[タトゥイーン](https://ja.wikipedia.org/wiki/タトゥイーン "wikilink")にある悪名高いベガーズ峡谷が[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル "wikilink")として登場する。『出撃\! ローグ中隊』では「デススターの排気口」として登場する[ヤヴィンの戦い](https://ja.wikipedia.org/wiki/ヤヴィンの戦い "wikilink")が第1面として登場する。ニンテンドー ゲームキューブのパワーを活かしたホスの戦いもある。その他にも映画3部作で有名な[エンドアの戦い](https://ja.wikipedia.org/wiki/エンドアの戦い "wikilink")は、あらゆるゲームの中でも、最も広大な戦場、最も戦場の雰囲気にあふれた、最も挑戦的なステージである。また本作はニンテンドー ゲームキューブでは数少ない[バンプマッピング](https://ja.wikipedia.org/wiki/バンプマッピング "wikilink")と高度なマルチテクスチャリング効果を利用したゲームである。世界で初めて[ドルビーラボラトリーズ](../Page/ドルビーラボラトリーズ.md "wikilink")のドルビープロロジックIIリアルタイムエンコーダを採用したゲームでもある\[1\]。
+本作は、『[スター・ウォーズ 出撃\! ローグ中隊](../Page/スター・ウォーズ_出撃!_ローグ中隊.md "wikilink")』の続編として開発された。本ゲームは大幅に改善された映像表現、僚機への作戦指示が特徴である。本ゲームには[タトゥイーン](https://ja.wikipedia.org/wiki/タトゥイーン "wikilink")にある悪名高いベガーズ峡谷が[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル "wikilink")として登場する。『出撃\! ローグ中隊』では「デススターの排気口」として登場する[ヤヴィンの戦い](https://ja.wikipedia.org/wiki/ヤヴィンの戦い "wikilink")が第1面として登場する。ニンテンドー ゲームキューブのパワーを活かしたホスの戦いもある。その他にも映画3部作で有名な[エンドアの戦い](https://ja.wikipedia.org/wiki/エンドアの戦い "wikilink")は、あらゆるゲームの中でも、最も広大な戦場、最も戦場の雰囲気にあふれた、最も挑戦的なステージである。また本作はニンテンドー ゲームキューブでは数少ない[バンプマッピング](../Page/バンプマッピング.md "wikilink")と高度なマルチテクスチャリング効果を利用したゲームである。世界で初めて[ドルビーラボラトリーズ](../Page/ドルビーラボラトリーズ.md "wikilink")のドルビープロロジックIIリアルタイムエンコーダを採用したゲームでもある\[1\]。
 
 一方で、全体的なステージ数が減少。さらに、ローグ中隊メンバーについても（前作では名前や来歴、写真まで紹介されていたにもかかわらず）本作品ではほとんど登場しない（ホスの戦いで、ルークやウェッジの砲手を務めたダク・ラルターやウェス・ジャンソンも、セリフ中に名前が呼ばれるのみ）。
 
@@ -193,19 +193,19 @@
 
 ## キャスト
 
-  - [ルーク・スカイウォーカー](../Page/ルーク・スカイウォーカー.md "wikilink")：[ボブ・バーゲン](https://ja.wikipedia.org/wiki/ボブ・バーゲン "wikilink")/[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
-  - [ウェッジ・アンティリーズ](https://ja.wikipedia.org/wiki/ウェッジ・アンティリーズ "wikilink")：デニス・ローソン/[坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
-  - [ビッグス・ダークライター](https://ja.wikipedia.org/wiki/ビッグス・ダークライター "wikilink")：[トム・ケニー](https://ja.wikipedia.org/wiki/トム・ケニー "wikilink")/[高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
-  - [レイア・オーガナ](https://ja.wikipedia.org/wiki/レイア・オーガナ "wikilink")：[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
-  - [ハン・ソロ](../Page/ハン・ソロ.md "wikilink")：[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")
+  - [ルーク・スカイウォーカー](../Page/ルーク・スカイウォーカー.md "wikilink")：[ボブ・バーゲン](https://ja.wikipedia.org/wiki/ボブ・バーゲン "wikilink")/[飛田展男](../Page/飛田展男.md "wikilink")
+  - [ウェッジ・アンティリーズ](https://ja.wikipedia.org/wiki/ウェッジ・アンティリーズ "wikilink")：デニス・ローソン/[坪井智浩](../Page/坪井智浩.md "wikilink")
+  - [ビッグス・ダークライター](https://ja.wikipedia.org/wiki/ビッグス・ダークライター "wikilink")：[トム・ケニー](../Page/トム・ケニー.md "wikilink")/[高塚正也](../Page/高塚正也.md "wikilink")
+  - [レイア・オーガナ](../Page/レイア・オーガナ.md "wikilink")：[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")
+  - [ハン・ソロ](../Page/ハン・ソロ.md "wikilink")：[菅生隆之](../Page/菅生隆之.md "wikilink")
   - [ダース・ベイダー](../Page/ダース・ベイダー.md "wikilink")：スコット・ローレンス/[銀河万丈](../Page/銀河万丈.md "wikilink")
-  - [ランド・カルリジアン](https://ja.wikipedia.org/wiki/ランド・カルリジアン "wikilink")：オッバ・ババタンド/[安原義人](../Page/安原義人.md "wikilink")
-  - [オビ＝ワン・ケノービ](https://ja.wikipedia.org/wiki/オビ＝ワン・ケノービ "wikilink")：デヴィッド・デイヴィス/[大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")
+  - [ランド・カルリジアン](../Page/ランド・カルリジアン.md "wikilink")：オッバ・ババタンド/[安原義人](../Page/安原義人.md "wikilink")
+  - [オビ＝ワン・ケノービ](../Page/オビ＝ワン・ケノービ.md "wikilink")：デヴィッド・デイヴィス/[大木民夫](../Page/大木民夫.md "wikilink")
   - フリゲート艦リデンプション艦長：ライン・マクリーン/[塩田朋子](../Page/塩田朋子.md "wikilink")
-  - [アクバー提督](../Page/アクバー提督.md "wikilink")：ピーター・マコネル/[阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+  - [アクバー提督](../Page/アクバー提督.md "wikilink")：ピーター・マコネル/[阪脩](../Page/阪脩.md "wikilink")
   - [C-3PO](../Page/C-3PO.md "wikilink")：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")（日本語版のミッションブリーフィングと機体説明も担当）
-  - クリックス・メイディーン：[トム・ケイン](https://ja.wikipedia.org/wiki/トム・ケイン_\(声優\) "wikilink")/[谷口節](https://ja.wikipedia.org/wiki/谷口節 "wikilink")
-  - ジャン・ドドンナ：[小島敏彦](https://ja.wikipedia.org/wiki/小島敏彦 "wikilink")
+  - クリックス・メイディーン：[トム・ケイン](../Page/トム・ケイン_\(声優\).md "wikilink")/[谷口節](../Page/谷口節.md "wikilink")
+  - ジャン・ドドンナ：[小島敏彦](../Page/小島敏彦.md "wikilink")
 
 ## 備考
 

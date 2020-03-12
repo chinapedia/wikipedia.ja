@@ -6,27 +6,27 @@
 ## 概要
 
   - 1997年の番組改編によりスタート、以来7年間に亘る長寿番組であった。放送回数は1823回を数えた。
-  - 当初は2時間番組としてスタートしたが、翌年3時間番組に拡大。この番組の知名度が上がるとともに、ナビゲーターのTOGGYも一躍[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の人気タレントになった。
+  - 当初は2時間番組としてスタートしたが、翌年3時間番組に拡大。この番組の知名度が上がるとともに、ナビゲーターのTOGGYも一躍[福岡県](../Page/福岡県.md "wikilink")の人気タレントになった。
   - この番組の名物は、ナビゲーターがリスナーに目覚ましがわりに電話をする「ウェイクアップコール」。ナビゲーターのTOGGYが「上からどうぞ」と言って電話に出た女性のスリーサイズを聞くというスタイルが多くのリスナーの支持を受け、数多くの女性リスナーが登場した。（もちろん快く思わないリスナーもいた。）番組審議会からは番組の進行、テンポの良さではお墨付きをもらったものの、このコーナーに対して「朝の番組にはふさわしくない」「女性のスリーサイズを聞くのはいかがなものか」とクレームがつけられることもしばしばあった。
   - 番組の愛称は番組名の頭文字をとって「**DMD**」。[2000年](../Page/2000年.md "wikilink")3月頃から始まった[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")受付でも、アカウントは「DMD」が使用された。（以下、番組のことを説明する際も「DMD」と略す）
-  - 2000年4月～2000年9月の間の金曜日は10時間番組「[CROSS GO\!GO\! FRID@Y](https://ja.wikipedia.org/wiki/CROSS_GO!GO!_FRID@Y "wikilink") 」に「**PART 1 DMD WEEKEND CHANNEL FEATURNIG TOGGY**」として組み込まれた。番組は通常とほぼ同内容だったが、「CROSS GO\! GO\! FRID@Y」のジングルも流れたり、メールアドレスもこの番組とDMDの2つで受け付けたりした。
-  - 番組の最後の1年間となった[2003年](../Page/2003年.md "wikilink")4月～2004年4月の1年間は「**[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")**」のタイトルで5時間番組として放送された。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、福岡在局の民放ラジオ4局合同企画、制作された「[天神ラジオパラダイス ラジオ黄金時代](https://ja.wikipedia.org/wiki/天神ラジオパラダイス "wikilink")」に合わせ、1日限りの復活放送を7:00～12:00で行った。この日の放送は北九州本社第1スタジオからではなく、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")の天神きらめき通りスタジオから生放送された。
+  - 2000年4月～2000年9月の間の金曜日は10時間番組「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink") 」に「**PART 1 DMD WEEKEND CHANNEL FEATURNIG TOGGY**」として組み込まれた。番組は通常とほぼ同内容だったが、「CROSS GO\! GO\! FRID@Y」のジングルも流れたり、メールアドレスもこの番組とDMDの2つで受け付けたりした。
+  - 番組の最後の1年間となった[2003年](../Page/2003年.md "wikilink")4月～2004年4月の1年間は「**[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")**」のタイトルで5時間番組として放送された。
+  - [2006年](../Page/2006年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、福岡在局の民放ラジオ4局合同企画、制作された「[天神ラジオパラダイス ラジオ黄金時代](../Page/天神ラジオパラダイス.md "wikilink")」に合わせ、1日限りの復活放送を7:00～12:00で行った。この日の放送は北九州本社第1スタジオからではなく、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")の天神きらめき通りスタジオから生放送された。
 
 ## ナビゲーター
 
-  - [TOGGY](https://ja.wikipedia.org/wiki/F.King_Toggy "wikilink")
+  - [TOGGY](../Page/F.King_Toggy.md "wikilink")
 
 ### TOGGY休暇時にピンチヒッターを務めたナビゲーター
 
-  - [永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")
-  - [立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")
-  - [YUYA](https://ja.wikipedia.org/wiki/YUYA "wikilink")
+  - [永松ケンシ](../Page/永松ケンシ.md "wikilink")
+  - [立山律子](../Page/立山律子.md "wikilink")
+  - [YUYA](../Page/YUYA.md "wikilink")
   - [MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")
   - [鈴木麻由](https://ja.wikipedia.org/wiki/鈴木麻由 "wikilink")
-  - [吉村昌広](https://ja.wikipedia.org/wiki/吉村昌広 "wikilink")
-  - [八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")
-  - [ルーシー](https://ja.wikipedia.org/wiki/ルーシー "wikilink")
+  - [吉村昌広](../Page/吉村昌広.md "wikilink")
+  - [八木徹](../Page/八木徹.md "wikilink")
+  - [ルーシー](../Page/ルーシー.md "wikilink")
 
 ## 放送時間
 
@@ -35,13 +35,13 @@
   - 1998年4月～2000年3月
     毎週月曜日～金曜日 7:00～10:00
   - 2000年4月～2000年9月
-    毎週月曜日～[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 7:00～10:00
-    この時期の金曜日は「**[CROSS GO\!GO\! FRID@Y](https://ja.wikipedia.org/wiki/CROSS_GO!GO!_FRID@Y "wikilink") PART 1 DMD WEEKEND CHANNEL FEATURNIG TOGGY**」のタイトルで放送された。タイムテーブル上では別番組扱いであった。
+    毎週月曜日～[木曜日](../Page/木曜日.md "wikilink") 7:00～10:00
+    この時期の金曜日は「**[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink") PART 1 DMD WEEKEND CHANNEL FEATURNIG TOGGY**」のタイトルで放送された。タイムテーブル上では別番組扱いであった。
   - 2000年10月～2003年3月
     毎週月曜日～金曜日 7:00～10:00
   - 2003年4月～2004年4月
     毎週月曜日～金曜日 7:00～12:00
-    「**[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")**」のタイトルで放送された。
+    「**[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")**」のタイトルで放送された。
 
 ## 主なコーナー
 
@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-    毎朝届いているニュースから3本のヘッドラインを紹介、最後は前日の円相場（[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")[外国為替市場](https://ja.wikipedia.org/wiki/外国為替市場 "wikilink")が休みの場合は[ロンドン](../Page/ロンドン.md "wikilink")外国為替市場の円相場）を紹介した。祝日の放送のときはこのコーナーを放送しないときもあった。
+    毎朝届いているニュースから3本のヘッドラインを紹介、最後は前日の円相場（[ニューヨーク](../Page/ニューヨーク.md "wikilink")[外国為替市場](../Page/外国為替市場.md "wikilink")が休みの場合は[ロンドン](../Page/ロンドン.md "wikilink")外国為替市場の円相場）を紹介した。祝日の放送のときはこのコーナーを放送しないときもあった。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 <!-- end list -->
 
   -
-    前日に行われたスポーツの結果を紹介。番組では特に福岡ダイエーホークス（現・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）と[直方市](https://ja.wikipedia.org/wiki/直方市 "wikilink")出身の力士[魁皇を重点的に放送した](https://ja.wikipedia.org/wiki/魁皇博之 "wikilink")。
+    前日に行われたスポーツの結果を紹介。番組では特に福岡ダイエーホークス（現・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）と[直方市](../Page/直方市.md "wikilink")出身の力士[魁皇を重点的に放送した](../Page/魁皇博之.md "wikilink")。
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 <!-- end list -->
 
   -
-    [ホークスタウン](https://ja.wikipedia.org/wiki/ホークスタウン "wikilink")の提供コーナー。提供クレジットの紹介はなかった。月曜日〜木曜日は福岡ダイエーホークス（現・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の情報を紹介し、Jポップソングを紹介、金曜日はホークスタウンの広報担当者がホークスタウン情報を電話で紹介した。
+    [ホークスタウン](../Page/ホークスタウン.md "wikilink")の提供コーナー。提供クレジットの紹介はなかった。月曜日〜木曜日は福岡ダイエーホークス（現・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の情報を紹介し、Jポップソングを紹介、金曜日はホークスタウンの広報担当者がホークスタウン情報を電話で紹介した。
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@
 
 <!-- end list -->
 
-  - [レトロ・フューチャー](https://ja.wikipedia.org/wiki/レトロフューチャー "wikilink")・アワー (9:00〜9:40)
+  - [レトロ・フューチャー](../Page/レトロフューチャー.md "wikilink")・アワー (9:00〜9:40)
 
 <!-- end list -->
 
@@ -194,7 +194,7 @@
 <!-- end list -->
 
   -
-    2002年10月から放送。元ネタは「[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")」。1分間に10問の問題に次々に答え、間違った時点で終了。1問目は必ず「TOGGYさん」が正解となる問題が出題され、10問全問正解すると「ハワイ旅行」がプレゼントされる（事になっている）。開始当初は3〜4人のリスナーに電話で登場してもらったが、2002年4月からは15分の短縮コーナーとなり毎週1人のみの登場となった。しかしコーナー自体が非常に好評だったため、2003年3月31日からの「[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")」では「タイムアタック」に改題され毎日放送されるようになった。
+    2002年10月から放送。元ネタは「[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")」。1分間に10問の問題に次々に答え、間違った時点で終了。1問目は必ず「TOGGYさん」が正解となる問題が出題され、10問全問正解すると「ハワイ旅行」がプレゼントされる（事になっている）。開始当初は3〜4人のリスナーに電話で登場してもらったが、2002年4月からは15分の短縮コーナーとなり毎週1人のみの登場となった。しかしコーナー自体が非常に好評だったため、2003年3月31日からの「[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")」では「タイムアタック」に改題され毎日放送されるようになった。
 
 <!-- end list -->
 
@@ -203,7 +203,7 @@
 <!-- end list -->
 
   -
-    2002年4月から2年間放送。CROSS FMホームページ上に、番組専用の[掲示板](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")「TOGGY'S WEB COMMUNITY」を設置。7:10頃、その日のテーマを発表、[新日鉄が提供するこの時間帯にその書き込みを紹介した](../Page/新日本製鐵.md "wikilink")。またこの30分間は「オトナの音楽」と称して[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[ヒーリングミュージック](https://ja.wikipedia.org/wiki/ヒーリングミュージック "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")などリラックス出来る音楽を紹介した。
+    2002年4月から2年間放送。CROSS FMホームページ上に、番組専用の[掲示板](../Page/電子掲示板.md "wikilink")「TOGGY'S WEB COMMUNITY」を設置。7:10頃、その日のテーマを発表、[新日鉄が提供するこの時間帯にその書き込みを紹介した](../Page/新日本製鐵.md "wikilink")。またこの30分間は「オトナの音楽」と称して[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[ヒーリングミュージック](https://ja.wikipedia.org/wiki/ヒーリングミュージック "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")などリラックス出来る音楽を紹介した。
 
 <!-- end list -->
 
@@ -212,7 +212,7 @@
 <!-- end list -->
 
   -
-    2002年4月から放送。「クイズで音楽」の意のとおり、音楽クイズ。答えの分かったリスナーを電話で募集し、電話で答えてもらい当たったリスナーにプレゼントを贈った。違う3曲を同時に放送してその3曲の曲名と演奏者名を答えてもらう「スリーソングクイズ」がよく放送された。「[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")」では10時台に放送された。
+    2002年4月から放送。「クイズで音楽」の意のとおり、音楽クイズ。答えの分かったリスナーを電話で募集し、電話で答えてもらい当たったリスナーにプレゼントを贈った。違う3曲を同時に放送してその3曲の曲名と演奏者名を答えてもらう「スリーソングクイズ」がよく放送された。「[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")」では10時台に放送された。
 
 <!-- end list -->
 
@@ -221,21 +221,21 @@
 <!-- end list -->
 
   -
-    2002年4月から放送。「ウェイクアップコール」の変形版。主婦のリスナーに電話で登場してもらい、その生活の極上さを自慢してもらう。「[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")」では10時台に放送された。
+    2002年4月から放送。「ウェイクアップコール」の変形版。主婦のリスナーに電話で登場してもらい、その生活の極上さを自慢してもらう。「[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")」では10時台に放送された。
 
 ## エピソードなど
 
   - [ケイソン](https://ja.wikipedia.org/wiki/ケイソン "wikilink")とのインタビューでは海辺で素潜りなどを楽しみながら収録したものを放送するなど、多趣味なTOGGYの才能を生かした面も多く見られた。
-  - [ナガハタゼンジ](https://ja.wikipedia.org/wiki/ナガハタゼンジ "wikilink")は1999年にリリースしたアルバム「Wonderful World」の中で「**digital morning drive**」という曲を発表し、TOGGYを驚かせ、喜ばせた。ナガハタはこのアルバムのリリース直前でTOGGYに「今度のアルバム、期待しててくださいね」的な発言をしていたらしい。この曲は番組内でも数回放送された。
+  - [ナガハタゼンジ](../Page/ナガハタゼンジ.md "wikilink")は1999年にリリースしたアルバム「Wonderful World」の中で「**digital morning drive**」という曲を発表し、TOGGYを驚かせ、喜ばせた。ナガハタはこのアルバムのリリース直前でTOGGYに「今度のアルバム、期待しててくださいね」的な発言をしていたらしい。この曲は番組内でも数回放送された。
   - この番組の初代アシスタント・ディレクターを務めていた[江川裕史](https://ja.wikipedia.org/wiki/江川裕史 "wikilink")はその後上京し、[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")としてデビュー、デビュー後しばらくの間この番組によくゲスト出演した。
   - 番組が終了した2004年4月2日の夜、TOGGYは[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内でこの番組の通夜・告別式を行い、その喪主を務めた。
 
 ## 関連項目
 
   - [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")
-  - [CROSS GO\!GO\! FRID@Y](https://ja.wikipedia.org/wiki/CROSS_GO!GO!_FRID@Y "wikilink")
-  - [CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")
-  - [CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T. "wikilink")
+  - [CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")
+  - [CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")
+  - [CATEGORY T.T.](../Page/CATEGORY_T.T..md "wikilink")
   - [TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")
 
 [Category:CROSS_FMの帯番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの帯番組 "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink")

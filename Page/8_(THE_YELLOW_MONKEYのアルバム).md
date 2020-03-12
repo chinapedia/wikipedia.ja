@@ -1,12 +1,12 @@
 > この記事は[8 \(THE YELLOW MONKEY\)](https://ja.wikipedia.org/wiki/8_\(THE_YELLOW_MONKEY\))から翻訳されています。
 
 
-『**8**』（ハチ）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[THE YELLOW MONKEYの](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")8枚目のオリジナルアルバム。[2000年](../Page/2000年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+『**8**』（ハチ）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[THE YELLOW MONKEYの](../Page/THE_YELLOW_MONKEY.md "wikilink")8枚目のオリジナルアルバム。[2000年](../Page/2000年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 解説
 
-  - 前作『[PUNCH DRUNKARD](https://ja.wikipedia.org/wiki/PUNCH_DRUNKARD "wikilink")』から約2年4か月ぶりとなるアルバム。前作から8枚のシングルをリリース（シングルカットを含む）しており、アルバムリリースまでの期間は自身最長となった。
-  - 113本に及んだ「PUNCHDRUNKARD TOUR」とそれに伴う休養期間の後、バンド史上初めて外部のプロデューサーを起用して制作されたコラボレーションシングル3作、「SPRING TOUR」、[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")のセルフプロデュースシングル『パール』を経てイエローモンキーのサウンドは変貌を遂げるが、これには否定的なファンもいた\[1\]。
+  - 前作『[PUNCH DRUNKARD](../Page/PUNCH_DRUNKARD.md "wikilink")』から約2年4か月ぶりとなるアルバム。前作から8枚のシングルをリリース（シングルカットを含む）しており、アルバムリリースまでの期間は自身最長となった。
+  - 113本に及んだ「PUNCHDRUNKARD TOUR」とそれに伴う休養期間の後、バンド史上初めて外部のプロデューサーを起用して制作されたコラボレーションシングル3作、「SPRING TOUR」、[吉井和哉](../Page/吉井和哉.md "wikilink")のセルフプロデュースシングル『パール』を経てイエローモンキーのサウンドは変貌を遂げるが、これには否定的なファンもいた\[1\]。
   - 吉井は本作について、「テーマやコンセプトは特にない」としており\[2\]、廣瀬は「この一年の試行錯誤をしつつできたものを綺麗に整えて出したというよりは、やってきた軌跡をそのまま出した部分が強い。ドキュメント性が強いアルバム」と語っている\[3\]。
   - タイトルの由来は8枚目のオリジナルアルバムであることと、「SPRING TOUR」から続くテーマである「[蜂](../Page/ハチ.md "wikilink")」とのダブルミーニング。
   - ジャケットのビジュアルは、「ゼロから新しいものを作るのではなく、既存の説得力のある作品を使いたい」というリクエストをもとに、アートディレクターの[原神一](https://ja.wikipedia.org/wiki/原神一 "wikilink")が提示したもの。ドラムの菊地は「何点か候補を出してくれたもののうち、この少年の写真が圧倒的に強かった」と語っており\[4\]、吉井は「アルバムとは関係ないが、それが象徴していて1つの生命体みたいな感じ」と語っている\[5\]。
@@ -19,7 +19,7 @@
 
 1.  **ジュディ**
       -
-        「メカラ ウロコ・8」でも1曲目に演奏された。[PVも作られている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        「メカラ ウロコ・8」でも1曲目に演奏された。[PVも作られている](../Page/ミュージック・ビデオ.md "wikilink")。
 2.  **サイキック No.9**
       -
         「SPRING TOUR」にて先行披露されていた曲。アルバムに先駆けて22ndシングル『パール』にはライブバージョンが収録された。吉井和哉のライブアルバム『[Dragon head Miracle](https://ja.wikipedia.org/wiki/Dragon_head_Miracle "wikilink")』にも収録されている。吉井曰く「[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")と[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")をインチキくさい感じでやろうと思って作った」\[7\]。
@@ -58,8 +58,8 @@
         19thシングル。シングル収録バージョンとはボーカル及び各楽器のミックスが異なる。
 14. **峠**
       -
-        ボーカル以外は2000年5月15日に[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")[文理学部](https://ja.wikipedia.org/wiki/文理学部 "wikilink")でゲリラライブを行った後のリハーサルでの一発録りのテイクが使用されている\[14\]。吉井曰く「30代の僕が作った曲ではベスト3に入る曲」\[15\]。
-        曲の終了後、約5秒の無音部分の後に[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")として、約40秒間『人類最後の日』の続きが収録されている。
+        ボーカル以外は2000年5月15日に[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")[文理学部](../Page/文理学部.md "wikilink")でゲリラライブを行った後のリハーサルでの一発録りのテイクが使用されている\[14\]。吉井曰く「30代の僕が作った曲ではベスト3に入る曲」\[15\]。
+        曲の終了後、約5秒の無音部分の後に[隠しトラック](../Page/隠しトラック.md "wikilink")として、約40秒間『人類最後の日』の続きが収録されている。
 
 ### 初回限定盤ボーナスCD
 
@@ -76,7 +76,7 @@
 
   - 吉井和哉 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
   - 菊地英昭 - ギター
-  - 廣瀬洋一 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 廣瀬洋一 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 菊地英二 - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - 森俊之 - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、リズム・プログラミング
+  - 森俊之 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、リズム・プログラミング
 
 <!-- end list -->
 
@@ -171,7 +171,7 @@
 <!-- end list -->
 
   - 森俊之 - キーボード/プログラミング
-  - [弦一徹ストリングス](https://ja.wikipedia.org/wiki/落合徹也 "wikilink") - ストリングス
+  - [弦一徹ストリングス](../Page/落合徹也.md "wikilink") - ストリングス
   - 村山達哉 - 弦編曲
 
 <!-- end list -->
@@ -222,7 +222,7 @@
 
 1.  ROCKIN'ON JAPAN 2000年5月号
 2.
-3.  [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")（2000年8月5日放送）
+3.  [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")（2000年8月5日放送）
 4.
 5.
 6.
@@ -232,6 +232,6 @@
 10. 8・バンドスコア「メンバーによる各曲別アドバイス」
 11.
 12. 8・バンドスコア「メンバーによる各曲別アドバイス」
-13. [MUSICA](https://ja.wikipedia.org/wiki/MUSICA "wikilink") 2009年4月号
+13. [MUSICA](../Page/MUSICA.md "wikilink") 2009年4月号
 14. ROCKIN'ON JAPAN 2000年8月号
 15. 8・バンドスコア「メンバーによる各曲別アドバイス」

@@ -1,7 +1,7 @@
 > この記事は[Azure moon](https://ja.wikipedia.org/wiki/Azure_moon)から翻訳されています。
 
 
-「**azure moon**」（アズール ムーン）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")29th[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された。
+「**azure moon**」（アズール ムーン）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")29th[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された。
 
 ## 解説
 
@@ -10,14 +10,14 @@
 ## 収録曲
 
 1.  **azure moon**
-    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[HIKARI](https://ja.wikipedia.org/wiki/HIKARI "wikilink") / 編曲：HIKARI & Every Little Thing / ストリングスアレンジ：Masafumi "Massy" Hayashi）
+    （作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[HIKARI](../Page/HIKARI.md "wikilink") / 編曲：HIKARI & Every Little Thing / ストリングスアレンジ：Masafumi "Massy" Hayashi）
       -
         [日本テレビ系全国ネット](../Page/日本テレビ放送網.md "wikilink")「[クイズ発見バラエティー イッテQ\!](../Page/クイズ発見バラエティー_イッテQ!.md "wikilink")」3月エンディングテーマ
-        日本テレビ系全国ネット「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」3月POWER PLAY
-2.  **[ソラアイ](https://ja.wikipedia.org/wiki/ソラアイ "wikilink") (20051211 version)**
+        日本テレビ系全国ネット「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」3月POWER PLAY
+2.  **[ソラアイ](../Page/ソラアイ.md "wikilink") (20051211 version)**
     （作詞：持田香織 / 作曲：HIKARI / 編曲：Yasunari "Nam-Nam" Nakamura）
       -
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[長崎](https://ja.wikipedia.org/wiki/長崎市 "wikilink")・[浦上天主堂で行われたクリスマスアコースティックライブ](https://ja.wikipedia.org/wiki/カトリック浦上教会 "wikilink")「Every Little Thing X'mas Acoustic Live at 浦上天主堂 〜愛の謳〜」にて披露された　26thシングルのライブ音源。なお、ライブ映像は7thアルバム『[Crispy Park](https://ja.wikipedia.org/wiki/Crispy_Park "wikilink")』の初回限定盤のDVDに収録されている。
+        [2005年](../Page/2005年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[長崎](../Page/長崎市.md "wikilink")・[浦上天主堂で行われたクリスマスアコースティックライブ](https://ja.wikipedia.org/wiki/カトリック浦上教会 "wikilink")「Every Little Thing X'mas Acoustic Live at 浦上天主堂 〜愛の謳〜」にて披露された　26thシングルのライブ音源。なお、ライブ映像は7thアルバム『[Crispy Park](../Page/Crispy_Park.md "wikilink")』の初回限定盤のDVDに収録されている。
 3.  **azure moon (Instrumental)**
 
 ## 収録アルバム
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - 『[Crispy Park](https://ja.wikipedia.org/wiki/Crispy_Park "wikilink")』
+  - 『[Crispy Park](../Page/Crispy_Park.md "wikilink")』
   - 『[14 message 〜every ballad songs 2〜](../Page/14_message_〜every_ballad_songs_2〜.md "wikilink")』
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 〜MORE COMPLETE〜](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』

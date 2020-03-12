@@ -1,7 +1,7 @@
 > この記事は[ FRACTIONS OF THE EARTH](https://ja.wikipedia.org/wiki/_FRACTIONS_OF_THE_EARTH)から翻訳されています。
 
 
-『**ガイスターズ FRACTIONS OF THE EARTH**』は、[2001年](../Page/2001年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系において毎週土曜日の朝7時30分から8時00分に放送された、[韓国の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[張棕根](https://ja.wikipedia.org/wiki/張棕根 "wikilink")原作による日韓合作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全26話。
+『**ガイスターズ FRACTIONS OF THE EARTH**』は、[2001年](../Page/2001年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系において毎週土曜日の朝7時30分から8時00分に放送された、[韓国の](../Page/大韓民国.md "wikilink")[張棕根](https://ja.wikipedia.org/wiki/張棕根 "wikilink")原作による日韓合作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全26話。
 
 『劇場版ガイスターズ』も2002年[8月17日](../Page/8月17日.md "wikilink")から公開されていた。内容は総集編。上映時間は100分。
 
@@ -10,50 +10,50 @@
 ## 登場人物
 
   - ディーン・ホノス（声：[関智一](../Page/関智一.md "wikilink")）
-  - アルキオン・ファーマ（声：[遠近孝一](https://ja.wikipedia.org/wiki/遠近孝一 "wikilink")）
+  - アルキオン・ファーマ（声：[遠近孝一](../Page/遠近孝一.md "wikilink")）
   - シャイ・タンナ（声：[半場友恵](../Page/半場友恵.md "wikilink")）
-  - クリス・ウェスタ（声：[細野雅世](https://ja.wikipedia.org/wiki/細野雅世 "wikilink")）
-  - ビクトル・デキウス（声：[小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")）
-  - レオン・ウィルトス（声：[松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")）
-  - イナムナ・ユーノ（声：[横尾まり](https://ja.wikipedia.org/wiki/横尾まり "wikilink")）
+  - クリス・ウェスタ（声：[細野雅世](../Page/細野雅世.md "wikilink")）
+  - ビクトル・デキウス（声：[小西克幸](../Page/小西克幸.md "wikilink")）
+  - レオン・ウィルトス（声：[松本大](../Page/松本大_\(声優\).md "wikilink")）
+  - イナムナ・ユーノ（声：[横尾まり](../Page/横尾まり.md "wikilink")）
   - エレシア・ユーノ（声：[白石文子](../Page/白石文子.md "wikilink")）
-  - ノーマン・ウェスタ（声：[中嶋聡彦](https://ja.wikipedia.org/wiki/中嶋聡彦 "wikilink")）
-  - ドミドカ・ムルキア（声：[島香裕](https://ja.wikipedia.org/wiki/島香裕 "wikilink")）
+  - ノーマン・ウェスタ（声：[中嶋聡彦](../Page/中嶋聡彦.md "wikilink")）
+  - ドミドカ・ムルキア（声：[島香裕](../Page/島香裕.md "wikilink")）
   - ピーラ（声：[渡辺ゆみ子](https://ja.wikipedia.org/wiki/渡辺みゆ "wikilink")）
-  - ウルバ・シャマレル（声：[江川央生](https://ja.wikipedia.org/wiki/江川央生 "wikilink")）
-  - マリィ（声：[幸田夏穂](https://ja.wikipedia.org/wiki/幸田夏穂 "wikilink")）
-  - ラン・フィール（声：[佐藤しのぶ](https://ja.wikipedia.org/wiki/佐藤しのぶ_\(声優\) "wikilink")）
+  - ウルバ・シャマレル（声：[江川央生](../Page/江川央生.md "wikilink")）
+  - マリィ（声：[幸田夏穂](../Page/幸田夏穂.md "wikilink")）
+  - ラン・フィール（声：[佐藤しのぶ](../Page/佐藤しのぶ_\(声優\).md "wikilink")）
   - カリカル・シャマレル（声：[大竹宏](../Page/大竹宏.md "wikilink")）
-  - ジャハーン・デカン（声：[塚田正昭](https://ja.wikipedia.org/wiki/塚田正昭 "wikilink")）
-  - サモラ・キュリオ（声：[丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")）
-  - ファラズダク・モシャ（声：[仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")）
+  - ジャハーン・デカン（声：[塚田正昭](../Page/塚田正昭.md "wikilink")）
+  - サモラ・キュリオ（声：[丸山詠二](../Page/丸山詠二.md "wikilink")）
+  - ファラズダク・モシャ（声：[仲野裕](../Page/仲野裕.md "wikilink")）
   - グシ・ハミ（声：[掛川裕彦](../Page/掛川裕彦.md "wikilink")）
-  - ランバルト・フィデス（声：[郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")）
-  - ガ・ンジャ（声：[水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink")）
-  - ダビ・ハズル（声：[室園丈裕](https://ja.wikipedia.org/wiki/室園丈裕 "wikilink")）
-  - マグナス・ソル（声：[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")）
-  - ネプトス・サラキア（声：[大川透](https://ja.wikipedia.org/wiki/大川透 "wikilink")）
+  - ランバルト・フィデス（声：[郷里大輔](../Page/郷里大輔.md "wikilink")）
+  - ガ・ンジャ（声：[水野龍司](../Page/水野龍司.md "wikilink")）
+  - ダビ・ハズル（声：[室園丈裕](../Page/室園丈裕.md "wikilink")）
+  - マグナス・ソル（声：[中田譲治](../Page/中田譲治.md "wikilink")）
+  - ネプトス・サラキア（声：[大川透](../Page/大川透.md "wikilink")）
   - エフォロス・ブボナ（声：島香裕）
-  - アダモントス・メロナ（声：[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")）
+  - アダモントス・メロナ（声：[梁田清之](../Page/梁田清之.md "wikilink")）
   - リリティーナ・ソスピタ（声：[児玉孝子](https://ja.wikipedia.org/wiki/児玉孝子 "wikilink")）
-  - シヴァージ（声：[西川幾雄](https://ja.wikipedia.org/wiki/西川幾雄 "wikilink")）
+  - シヴァージ（声：[西川幾雄](../Page/西川幾雄.md "wikilink")）
   - ネーニィア（声：[栗田かおり](https://ja.wikipedia.org/wiki/栗田かおり "wikilink")）
-  - ラレス・ウェスタ（声：[千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")）
-  - カタリナ・ウェスタ（声：[竹村叔子](https://ja.wikipedia.org/wiki/竹村叔子 "wikilink")）
+  - ラレス・ウェスタ（声：[千葉進歩](../Page/千葉進歩.md "wikilink")）
+  - カタリナ・ウェスタ（声：[竹村叔子](../Page/竹村叔子.md "wikilink")）
   - ウォルカヌス（声：大川透）
-  - イオン（声：[栗山浩一](https://ja.wikipedia.org/wiki/栗山浩一_\(声優\) "wikilink")）
-  - アンテ（声：[粟津貴嗣](https://ja.wikipedia.org/wiki/粟津貴嗣 "wikilink")）
+  - イオン（声：[栗山浩一](../Page/栗山浩一_\(声優\).md "wikilink")）
+  - アンテ（声：[粟津貴嗣](../Page/粟津貴嗣.md "wikilink")）
   - クーマ（声：松本大）
   - ハッチ（声：中嶋聡彦）
   - ヤージ（声：江川央生）
   - キタン（声：栗山浩一）
   - エガティス・ナムソス（声：梁田清之）
-  - ニキアス・サラキア（声：[園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")）
+  - ニキアス・サラキア（声：[園部啓一](../Page/園部啓一.md "wikilink")）
   - ゾロ（声：掛川裕彦）
   - ラン・フィール（声：佐藤しのぶ）
   - ロンタイ・シャマレル（声：[児玉孝子](https://ja.wikipedia.org/wiki/児玉孝子 "wikilink")）
-  - ワカニャ・シャマレル（声：[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")）
-  - マリアデギ・モチ（声：[岡本嘉子](https://ja.wikipedia.org/wiki/岡本嘉子 "wikilink")）
+  - ワカニャ・シャマレル（声：[折笠富美子](../Page/折笠富美子.md "wikilink")）
+  - マリアデギ・モチ（声：[岡本嘉子](../Page/岡本嘉子.md "wikilink")）
   - ラーラ・ツツイラ（声：鶴西真悟）
   - カッツ・シャマレル（声：栗田かおり）
   - ターラ・シャマレル（声：細野雅世）
@@ -61,14 +61,14 @@
   - オディオン・ホノス（声：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
   - ノーナ・ホノス（声：[根谷美智子](../Page/根谷美智子.md "wikilink")）
   - カティウス・ユーノ（声：幸田夏穂）
-  - セルア・エガティス（声：[永迫舞](https://ja.wikipedia.org/wiki/永迫舞 "wikilink")）
+  - セルア・エガティス（声：[永迫舞](../Page/永迫舞.md "wikilink")）
 
 ## スタッフ
 
   - 原作 - 張棕根
   - 監督 - 伊藤浩二
   - シリーズ構成 - 安達成彦
-  - キャラクターデザイン - ゴトウマサユキ、[今泉賢一](https://ja.wikipedia.org/wiki/今泉賢一 "wikilink")
+  - キャラクターデザイン - ゴトウマサユキ、[今泉賢一](../Page/今泉賢一.md "wikilink")
   - 総作画監督 - 今泉賢一
   - コンセプトデザイン - 李榮優
   - メカニックデザイン - 伊藤浩二
@@ -79,14 +79,14 @@
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
   - 企画 - 成澤章（グルーヴ）
   - プロデューサー - 金岡英司（テレビ大阪）、高城一典（読売広告社）、尾川匠（グルーヴ）、梅原勝（プラム）
-  - 製作 - [テレビ大阪](../Page/テレビ大阪.md "wikilink")、[読売広告社](https://ja.wikipedia.org/wiki/読売広告社 "wikilink")、プラム
+  - 製作 - [テレビ大阪](../Page/テレビ大阪.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")、プラム
 
 ## 主題歌
 
   - オープニングテーマ「HOLD ON」（第1 - 13話）
     作詞・作曲 - 伊藤理枝 / 編曲 - [大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") / 歌 - WILD PEACH
   - オープニングテーマ「WINGS」（第14 - 26話）
-    作詞 - ゆめな / 作曲・編曲 - [西田昌史](https://ja.wikipedia.org/wiki/西田昌史 "wikilink") / 歌 - [横須賀ゆめな](../Page/横須賀ゆめな.md "wikilink")
+    作詞 - ゆめな / 作曲・編曲 - [西田昌史](../Page/西田昌史.md "wikilink") / 歌 - [横須賀ゆめな](../Page/横須賀ゆめな.md "wikilink")
   - エンディングテーマ「True Answer」
     作詞 - 西暁准 / 作曲・編曲 - [MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink") / 歌 - [Joelle](https://ja.wikipedia.org/wiki/Joelle "wikilink")
 

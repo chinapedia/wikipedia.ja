@@ -1,26 +1,26 @@
 > この記事は[CROSS GO!GO! FRID@Y](https://ja.wikipedia.org/wiki/CROSS_GO!GO!_FRID@Y)から翻訳されています。
 
 
-『**CROSS GO\!GO\! FRID@Y**』（クロス・ゴーゴー・フライデー）は、2000年4月から同年9月まで[エフエム九州](../Page/エフエム九州.md "wikilink") (CROSS FM) で放送されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。
+『**CROSS GO\!GO\! FRID@Y**』（クロス・ゴーゴー・フライデー）は、2000年4月から同年9月まで[エフエム九州](../Page/エフエム九州.md "wikilink") (CROSS FM) で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
 ## 概要
 
-CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、「**ノンストップエンターテイメント＆バラエティプログラム**」と銘打たれていた。放送時間は毎週金曜 7:00 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。CROSS FM[北九州本社第](https://ja.wikipedia.org/wiki/北九州市 "wikilink")1スタジオからの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](../Page/ディスクジョッキー.md "wikilink")、「**ノンストップエンターテイメント＆バラエティプログラム**」と銘打たれていた。放送時間は毎週金曜 7:00 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。CROSS FM[北九州本社第](https://ja.wikipedia.org/wiki/北九州市 "wikilink")1スタジオからの[生放送](../Page/生放送.md "wikilink")。
 
-番組は、大きく分けて3部構成となっていた。7:00 - 10:00に放送の「PART 1」では、月曜 - 木曜の同じ時間帯に放送されていた『[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")』と同じ内容を放送。また13:00 - 17:00に放送の「PART 3」は、かつてこの時間帯に放送されていた『[RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC "wikilink")』の内容を引き継いだパートとなっていた。
+番組は、大きく分けて3部構成となっていた。7:00 - 10:00に放送の「PART 1」では、月曜 - 木曜の同じ時間帯に放送されていた『[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")』と同じ内容を放送。また13:00 - 17:00に放送の「PART 3」は、かつてこの時間帯に放送されていた『[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")』の内容を引き継いだパートとなっていた。
 
 ## ナビゲーター
 
   - [TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")（7:00 - 12:00）
-  - [信川竜太](https://ja.wikipedia.org/wiki/信川竜太 "wikilink")（10:00 - 17:00）
-  - [立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")（13:00 - 17:00）
+  - [信川竜太](../Page/信川竜太.md "wikilink")（10:00 - 17:00）
+  - [立山律子](../Page/立山律子.md "wikilink")（13:00 - 17:00）
 
 ## 放送内容
 
 ### PART 1 DMD WEEKEND CHANNEL FEATURING TOGGY（7:00-10:00）
 
   - この3時間のナビゲーターはTOGGY。
-  - 7:00-9:00は[月曜日](../Page/月曜日.md "wikilink")-[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")の「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」と同内容を放送、逆に言えばこの3時間は同番組の金曜版であったが、タイムテーブル上は別番組扱いとなった。
+  - 7:00-9:00は[月曜日](../Page/月曜日.md "wikilink")-[木曜日](../Page/木曜日.md "wikilink")の「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」と同内容を放送、逆に言えばこの3時間は同番組の金曜版であったが、タイムテーブル上は別番組扱いとなった。
 
 #### 9時台の主なコーナー
 
@@ -54,7 +54,7 @@ CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](
 <!-- end list -->
 
   -
-    「[車](../Page/自動車.md "wikilink")」をキーコンセプトとして、車に関する情報やドライヴ・ミュージックを紹介。コーナー内では[MINEサーキット](https://ja.wikipedia.org/wiki/MINEサーキット "wikilink")で行われるレース情報も紹介した。
+    「[車](../Page/自動車.md "wikilink")」をキーコンセプトとして、車に関する情報やドライヴ・ミュージックを紹介。コーナー内では[MINEサーキット](../Page/MINEサーキット.md "wikilink")で行われるレース情報も紹介した。
     このコーナーはTOGGY1人で進行し、信川竜太は出演しなかった。
     スポンサーはPENZOIL（「ペンズオイル」、[アメリカの自動車オイルのブランド](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")）。提供クレジットは英語で紹介された。
     このコーナーのみ、専用のジングル「PENZOIL POWER OF ROCK CROSS FM」（コーラスによるもの）が制作され、放送時に使用された。
@@ -77,7 +77,7 @@ CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](
   -
     ウェディングソングと、スポンサーである「[鞘ヶ谷](https://ja.wikipedia.org/wiki/鞘ヶ谷 "wikilink")ハーブガーデン 光と風の教会」（[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[戸畑区](../Page/戸畑区.md "wikilink")）及び「[新門司マリーナ](https://ja.wikipedia.org/wiki/新門司マリーナ "wikilink") 海と太陽の教会」（[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")）で式を挙げるカップルを紹介した。
     コーナータイトルは立山律子、提供クレジットは信川竜太が読み上げたものがジングル化され使用された。
-    2000年10月からは後番組「[SMOOTH CHANNEL](https://ja.wikipedia.org/wiki/SMOOTH_CHANNEL "wikilink")」に引き継がれた。
+    2000年10月からは後番組「[SMOOTH CHANNEL](../Page/SMOOTH_CHANNEL.md "wikilink")」に引き継がれた。
 
 ### PART 3 FIGHTING CHANNEL FEATURING RYUTA NOBUKAWA & RITSUKO TATEYAMA（13:00-17:00）
 
@@ -102,8 +102,8 @@ CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](
   -
     スポンサーはタイ国政府観光庁と[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内のホテル・リッツファイブ。
     [タイ国の観光スポットや](../Page/タイ王国.md "wikilink")、観光に関する情報を紹介するコーナーだが、この番組ではタイ国周辺でヒットしている曲を紹介した後、タイ国政府観光庁からのお知らせを紹介して、信川竜太が「WELCOME TO THAILAND\!」と言ってコーナーを締めていた。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」内で放送された。
-    2000年10月からは後番組「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」に引き継がれた。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」内で放送された。
+    2000年10月からは後番組「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -122,8 +122,8 @@ CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](
 
   -
     スポンサーである[JR九州から届く旅の情報](../Page/九州旅客鉄道.md "wikilink")、列車の情報を紹介した。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」内で放送された。
-    2000年10月からは後番組「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」に引き継がれた。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」内で放送された。
+    2000年10月からは後番組「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -133,8 +133,8 @@ CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](
 
   -
     スポンサーである[西日本新聞](../Page/西日本新聞.md "wikilink")に掲載された記事、トピックスを紹介した。
-    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE "wikilink")」内で「**PARADISE CAFE**」というコーナータイトルで放送された。
-    2000年10月からは後番組「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」に引き継がれた。
+    このコーナーは月曜日-金曜日を通じて放送され、月曜日-木曜日は「[HAKATA PARADISE](../Page/HAKATA_PARADISE.md "wikilink")」内で「**PARADISE CAFE**」というコーナータイトルで放送された。
+    2000年10月からは後番組「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -143,9 +143,9 @@ CROSS FM初の[ナビゲーターがリレーで番組を担当した番組で](
 <!-- end list -->
 
   -
-    スポンサーである[ワーナー・マイカル・シネマズ](https://ja.wikipedia.org/wiki/ワーナー・マイカル・シネマズ "wikilink")の大野城・上峰・戸畑3館で上映される映画の情報を紹介した。
+    スポンサーである[ワーナー・マイカル・シネマズ](../Page/ワーナー・マイカル・シネマズ.md "wikilink")の大野城・上峰・戸畑3館で上映される映画の情報を紹介した。
     このコーナーのみ、提供クレジットは立山律子が英語で読み上げた。
-    2000年10月からは後番組「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」に引き継がれた。
+    2000年10月からは後番組「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 

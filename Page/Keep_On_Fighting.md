@@ -9,17 +9,17 @@
 
 本作以前にリリースされたシングル「[静かなるアフガン](https://ja.wikipedia.org/wiki/静かなるアフガン "wikilink")」（[2002年](../Page/2002年.md "wikilink")）は収録されず、先行シングルとして「[しあわせになろうよ](../Page/しあわせになろうよ.md "wikilink")」（2003年）が収録された。また、本作収録曲の「人生はラ・ラ・ラ」は、[森進一](../Page/森進一.md "wikilink")への提供曲「[狼たちの遠吠え](https://ja.wikipedia.org/wiki/狼たちの遠吠え "wikilink")」のカップリング曲として森による歌唱バージョンが収録された。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得した。
 
 ## 背景
 
-ベストアルバム『[BEST〜風〜](https://ja.wikipedia.org/wiki/BEST〜風〜 "wikilink")』（[2002年](../Page/2002年.md "wikilink")）、『[BEST〜空〜](https://ja.wikipedia.org/wiki/BEST〜空〜 "wikilink")』を2002年6月26日にリリース後、長渕は9月7日の自身の46歳の誕生日に単独公演として[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")で「LIVE 2002.9.7 IN 横浜スタジアム」を開催した\[1\]\[2\]\[3\]。11月26日には[ビートたけし](../Page/ビートたけし.md "wikilink")の著書を原作とした[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『少年』（2002年）内の一話、「おかめさん」にてトラックドライバー役で出演\[4\]、長渕の主演以外での出演は、テレビドラマでは『王貞治物語　我が青春の甲子園』（[1982年](../Page/1982年.md "wikilink")）以来20年ぶり、映画を含めると『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）以来16年ぶりとなった。
+ベストアルバム『[BEST〜風〜](../Page/BEST〜風〜.md "wikilink")』（[2002年](../Page/2002年.md "wikilink")）、『[BEST〜空〜](../Page/BEST〜空〜.md "wikilink")』を2002年6月26日にリリース後、長渕は9月7日の自身の46歳の誕生日に単独公演として[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")で「LIVE 2002.9.7 IN 横浜スタジアム」を開催した\[1\]\[2\]\[3\]。11月26日には[ビートたけし](../Page/ビートたけし.md "wikilink")の著書を原作とした[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『少年』（2002年）内の一話、「おかめさん」にてトラックドライバー役で出演\[4\]、長渕の主演以外での出演は、テレビドラマでは『王貞治物語　我が青春の甲子園』（[1982年](../Page/1982年.md "wikilink")）以来20年ぶり、映画を含めると『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）以来16年ぶりとなった。
 
-4月2日には横浜スタジアムライブの模様を収録したライブビデオ『9.7 in 横浜スタジアム LIVE 2002』をリリース、その他に4月から9月にかけて[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組『[長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン](https://ja.wikipedia.org/wiki/長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン "wikilink")』が放送され、メインパーソナリティーとして出演した。
+4月2日には横浜スタジアムライブの模様を収録したライブビデオ『9.7 in 横浜スタジアム LIVE 2002』をリリース、その他に4月から9月にかけて[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組『[長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン](../Page/長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン.md "wikilink")』が放送され、メインパーソナリティーとして出演した。
 
-5月1日には先行シングルとなる「[しあわせになろうよ](../Page/しあわせになろうよ.md "wikilink")」をリリース、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位2位、登場回数88回となり、売り上げは約30万枚とヒット曲となった。
+5月1日には先行シングルとなる「[しあわせになろうよ](../Page/しあわせになろうよ.md "wikilink")」をリリース、[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位2位、登場回数88回となり、売り上げは約30万枚とヒット曲となった。
 
-その他、この頃には空手道団体の極真会館から分派した[新極真会](https://ja.wikipedia.org/wiki/新極真会 "wikilink")の発足に際し、同会の会歌「新極真会の歌」を製作、同曲は10月5日に[東京体育館](https://ja.wikipedia.org/wiki/東京体育館 "wikilink")にて開催された「第8回全世界空手道選手権大会」の入場者にのみCDで配布されていたが、入場者以外からの問い合わせが殺到したため一般販売する形となった\[5\]。
+その他、この頃には空手道団体の極真会館から分派した[新極真会](../Page/新極真会.md "wikilink")の発足に際し、同会の会歌「新極真会の歌」を製作、同曲は10月5日に[東京体育館](../Page/東京体育館.md "wikilink")にて開催された「第8回全世界空手道選手権大会」の入場者にのみCDで配布されていたが、入場者以外からの問い合わせが殺到したため一般販売する形となった\[5\]。
 
 ## 音楽性
 
@@ -33,15 +33,15 @@
 
 ## プロモーション
 
-本作収録曲の内、先行シングルとしてリリースされた「しあわせになろうよ」のみ[PVが製作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+本作収録曲の内、先行シングルとしてリリースされた「しあわせになろうよ」のみ[PVが製作されている](../Page/ミュージック・ビデオ.md "wikilink")。
 
 また、本作に関するテレビ出演は、2003年4月25日に[テレビ朝日系音楽番組](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - ）に初出演し、「しあわせになろうよ」を演奏した\[8\]。
 
-また、5月1日にNHKの番組としては11年半ぶりとなる[NHK総合音楽番組](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[夢・音楽館](https://ja.wikipedia.org/wiki/夢・音楽館 "wikilink")』（2003年）に出演し、「勇気の花」、「He･La-He･La」、「とんぼ」、「しあわせになろうよ」を演奏\[9\]、6月15日には[日本テレビ系](../Page/日本テレビ系列.md "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")『[おしゃれカンケイ](https://ja.wikipedia.org/wiki/おしゃれカンケイ "wikilink")』（[1994年](../Page/1994年.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）に初出演し「しあわせになろうよ」を演奏、12月31日には第41回NHK紅白歌合戦以来13年ぶりとなるNHK総合音楽番組『[第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")』（2003年）に出演、「しあわせになろうよ」を演奏した他、自身が提供した[森進一](../Page/森進一.md "wikilink")の曲「[狼たちの遠吠え](https://ja.wikipedia.org/wiki/狼たちの遠吠え "wikilink")」（2003年）ではギター演奏とバックコーラスを行った\[10\]\[11\]。
+また、5月1日にNHKの番組としては11年半ぶりとなる[NHK総合音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[夢・音楽館](../Page/夢・音楽館.md "wikilink")』（2003年）に出演し、「勇気の花」、「He･La-He･La」、「とんぼ」、「しあわせになろうよ」を演奏\[9\]、6月15日には[日本テレビ系](../Page/日本テレビ系列.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")『[おしゃれカンケイ](../Page/おしゃれカンケイ.md "wikilink")』（[1994年](../Page/1994年.md "wikilink") - [2005年](../Page/2005年.md "wikilink")）に初出演し「しあわせになろうよ」を演奏、12月31日には第41回NHK紅白歌合戦以来13年ぶりとなるNHK総合音楽番組『[第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")』（2003年）に出演、「しあわせになろうよ」を演奏した他、自身が提供した[森進一](../Page/森進一.md "wikilink")の曲「[狼たちの遠吠え](https://ja.wikipedia.org/wiki/狼たちの遠吠え "wikilink")」（2003年）ではギター演奏とバックコーラスを行った\[10\]\[11\]。
 
 ## ツアー
 
-本作を受けてのコンサートツアーは「LIVE 2003 KEEP ON FIGHTING野外Live Tour」と題し、2003年[7月19日](../Page/7月19日.md "wikilink")の大阪[WTCオープンエアスタジアム](https://ja.wikipedia.org/wiki/WTCオープンエアスタジアム "wikilink")を皮切りに、8月16日の[鹿児島県立鴨池野球場](https://ja.wikipedia.org/wiki/鹿児島県立鴨池野球場 "wikilink")まで野外ライブのみで4都市全4公演が行われ\[12\]\[13\]\[14\]、8月10日の[横浜赤レンガパークの模様を収録したライブDVD](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")『Keep On Fighting LIVE 2003 夏』を11月26日にリリースした。
+本作を受けてのコンサートツアーは「LIVE 2003 KEEP ON FIGHTING野外Live Tour」と題し、2003年[7月19日](../Page/7月19日.md "wikilink")の大阪[WTCオープンエアスタジアム](https://ja.wikipedia.org/wiki/WTCオープンエアスタジアム "wikilink")を皮切りに、8月16日の[鹿児島県立鴨池野球場](../Page/鹿児島県立鴨池野球場.md "wikilink")まで野外ライブのみで4都市全4公演が行われ\[12\]\[13\]\[14\]、8月10日の[横浜赤レンガパークの模様を収録したライブDVD](../Page/横浜赤レンガ倉庫.md "wikilink")『Keep On Fighting LIVE 2003 夏』を11月26日にリリースした。
 
 さらに同年には「LIVE 2003 KEEP ON FIGHTING」と題し、9月13日のハーモニーホール座間を皮切りに、12月17日の[沖縄コンベンションセンター](../Page/沖縄コンベンションセンター.md "wikilink")まで29都市全29公演が行われた\[15\]\[16\]。
 
@@ -67,7 +67,7 @@
 
 ## チャート成績
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位、登場回数51回となり、売り上げ枚数は約24万枚となった。また、この結果によって長渕は男性アーティスト初のオリジナルフルアルバム首位通算10作目獲得となった。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位、登場回数51回となり、売り上げ枚数は約24万枚となった。また、この結果によって長渕は男性アーティスト初のオリジナルフルアルバム首位通算10作目獲得となった。
 
 ## 収録曲
 
@@ -81,7 +81,7 @@
 2.  **Keep On Fighting**
       -
         長渕流ヒップホップを目指した曲。[DJ DRAGONなどが参加している](../Page/DJ_DRAGON.md "wikilink")。
-        サビの部分は[クイーンの](../Page/クイーン_\(バンド\).md "wikilink")[ウィ・ウィル・ロック・ユー](https://ja.wikipedia.org/wiki/ウィ・ウィル・ロック・ユー "wikilink")を参考にしている。
+        サビの部分は[クイーンの](../Page/クイーン_\(バンド\).md "wikilink")[ウィ・ウィル・ロック・ユー](../Page/ウィ・ウィル・ロック・ユー.md "wikilink")を参考にしている。
 3.  **LANIKAI**
       -
         ラニカイとは、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")にある名所、カイルア・ラニカイ・ビーチの事を指す。歌詞中に登場する「ワタル」とは、長渕の長男である航（わたる）君。
@@ -100,7 +100,7 @@
         タイトル通り鹿児島県の[桜島](../Page/桜島.md "wikilink")を歌っている。2004年の桜島オールナイトコンサート以降、ライブで演奏される際には、曲に合わせて観客が両手を上げて左右に揺らすのが定番となっている。
 10. **しあわせになろうよ**
       -
-        36枚目の[シングル](../Page/シングル.md "wikilink")曲。アカペラグループのINSPiによるコーラスアレンジ。この年の年末に、実に13年ぶりに[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")』に出場し、この曲を演奏した。後に[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")らと共に、『しあわせになろうよ'04』として再リリースしている。
+        36枚目の[シングル](../Page/シングル.md "wikilink")曲。アカペラグループのINSPiによるコーラスアレンジ。この年の年末に、実に13年ぶりに[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出場し、この曲を演奏した。後に[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")らと共に、『しあわせになろうよ'04』として再リリースしている。
 
 ## スタッフ・クレジット
 
@@ -111,30 +111,30 @@
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")（1,5,7,8曲目）
   - 高橋ゲタ夫 - エレクトリックベース（3曲目）
   - 大本政智 - エレクトリックベース（9,10曲目）
-  - 長渕剛 - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（1,2,7,8,9曲目）、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（3曲目）、[ウクレレ](../Page/ウクレレ.md "wikilink")（6曲目）、[ブルース・ハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")（2,6,7,8曲目）
-  - 笛吹利明 - アコースティック・ギター（2,4,8曲目）、エレクトリックギター（5曲目）、[フラットマンドリン](https://ja.wikipedia.org/wiki/フラットマンドリン "wikilink")（5,7,8曲目）、[チャランゴ](https://ja.wikipedia.org/wiki/チャランゴ "wikilink")（5曲目）
+  - 長渕剛 - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（1,2,7,8,9曲目）、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（3曲目）、[ウクレレ](../Page/ウクレレ.md "wikilink")（6曲目）、[ブルース・ハープ](../Page/ハーモニカ.md "wikilink")（2,6,7,8曲目）
+  - 笛吹利明 - アコースティック・ギター（2,4,8曲目）、エレクトリックギター（5曲目）、[フラットマンドリン](../Page/フラットマンドリン.md "wikilink")（5,7,8曲目）、[チャランゴ](../Page/チャランゴ.md "wikilink")（5曲目）
   - 角田順 - エレクトリックギター（1,4,5,7,9,10曲目）
   - 福原将宣 - エレクトリックギター（3曲目）
   - 駒沢裕城 - [ペダルスチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")（7曲目）
-  - 池田雅彦 - [バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")（7曲目）
+  - 池田雅彦 - [バンジョー](../Page/バンジョー.md "wikilink")（7曲目）
   - 国吉良一 - シンセサイザー（1,3,4,5,8曲目）、[アコースティックピアノ](../Page/ピアノ.md "wikilink")（8,10曲目）
   - 津垣博通 - ピアノ（3曲目）
   - [エルトン永田](https://ja.wikipedia.org/wiki/エルトン永田 "wikilink") - ピアノ（9曲目）
   - [DJ DRAGON](../Page/DJ_DRAGON.md "wikilink") & DJ MASAMI - [スクラッチ](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")（2曲目）
-  - [ペッカー](https://ja.wikipedia.org/wiki/橋田正人 "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")（3曲目）
+  - [ペッカー](../Page/橋田正人.md "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")（3曲目）
   - [浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink") - パーカッション（5,8曲目）
   - [ジェイク・H・コンセプション](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink") - [アルト・サックス](../Page/サクソフォーン.md "wikilink")（1,9曲目）
   - 佐々木史郎 - [トランペット](../Page/トランペット.md "wikilink")（3曲目）
   - 鈴木明男 - テナー・サックス（3曲目）
-  - [高桑英世](https://ja.wikipedia.org/wiki/高桑英世 "wikilink")\[23\] - [ケーナ](https://ja.wikipedia.org/wiki/ケーナ "wikilink")（5曲目）
+  - [高桑英世](https://ja.wikipedia.org/wiki/高桑英世 "wikilink")\[23\] - [ケーナ](../Page/ケーナ.md "wikilink")（5曲目）
   - 小池弘之 - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")（4曲目）
   - 堀沢真己 - [チェロ](../Page/チェロ.md "wikilink")（4曲目）
   - 篠崎グループ - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")（10曲目）
   - The MUGIFUMI - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（1,5曲目）
-  - [INSPi](https://ja.wikipedia.org/wiki/INSPi "wikilink") - コーラス（10曲目）
+  - [INSPi](../Page/INSPi.md "wikilink") - コーラス（10曲目）
   - 山根麻衣 - バックアップボーカル（2,3,9曲目）
   - [坪倉唯子](../Page/坪倉唯子.md "wikilink") - バックアップボーカル（2,3,9曲目）
-  - 中山信彦 - [シンセサイザー・プログラマー](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")（1,2,3,4,5,8,9,10曲目）
+  - 中山信彦 - [シンセサイザー・プログラマー](../Page/ミュージックシーケンサー.md "wikilink")（1,2,3,4,5,8,9,10曲目）
 
 ### スタッフ
 

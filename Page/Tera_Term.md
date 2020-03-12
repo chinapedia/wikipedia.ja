@@ -1,7 +1,7 @@
 > この記事は[Tera Term](https://ja.wikipedia.org/wiki/Tera_Term)から翻訳されています。
 
 
-**Tera Term**（テラターム）は、元々は物理学者の寺西 高（てらにし たかし）によって開発・公開され、現在ではTeraTerm Projectによって[修正BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")（[オープンソースソフトウェア](https://ja.wikipedia.org/wiki/オープンソースソフトウェア "wikilink")）でサポートされているリモートログオン[クライアントである](../Page/クライアント_\(コンピュータ\).md "wikilink")。
+**Tera Term**（テラターム）は、元々は物理学者の寺西 高（てらにし たかし）によって開発・公開され、現在ではTeraTerm Projectによって[修正BSDライセンス](../Page/BSDライセンス.md "wikilink")（[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")）でサポートされているリモートログオン[クライアントである](../Page/クライアント_\(コンピュータ\).md "wikilink")。
 
 本[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、[SSH](../Page/Secure_Shell.md "wikilink")・[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")・[シリアルの各](../Page/シリアルポート.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応し、[Microsoft Windowsで使用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
@@ -9,7 +9,7 @@
 
 ### オリジナルの開発・公開
 
-寺西高によるオリジナルは、1994年から1998年にかけて開発された。 [16ビット](../Page/16ビット.md "wikilink")版の**Tera Term**と[32ビット](../Page/32ビット.md "wikilink")版の**Tera Term Pro**が有り（以降では明記しない限りは16ビット版と32ビット版を明確に区別せずに**Tera Term**と記述する）、telnetによる[リモートホスト](https://ja.wikipedia.org/wiki/リモートホスト "wikilink")への接続と、シリアルポートでの接続を可能とし、[マクロを備えているのが特徴であった](../Page/マクロ言語.md "wikilink")。
+寺西高によるオリジナルは、1994年から1998年にかけて開発された。 [16ビット](../Page/16ビット.md "wikilink")版の**Tera Term**と[32ビット](../Page/32ビット.md "wikilink")版の**Tera Term Pro**が有り（以降では明記しない限りは16ビット版と32ビット版を明確に区別せずに**Tera Term**と記述する）、telnetによる[リモートホスト](../Page/リモートホスト.md "wikilink")への接続と、シリアルポートでの接続を可能とし、[マクロを備えているのが特徴であった](../Page/マクロ言語.md "wikilink")。
 
 [XMODEM](../Page/XMODEM.md "wikilink")や[ZMODEM](https://ja.wikipedia.org/wiki/ZMODEM "wikilink")などの[バイナリ転送プロトコル](../Page/バイナリ転送プロトコル.md "wikilink")もサポートしており、[パソコン通信](../Page/パソコン通信.md "wikilink")や[UNIX](../Page/UNIX.md "wikilink")への[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")に好く使われていた。 [組み込み分野では](../Page/組み込みシステム.md "wikilink")[ハードウェア](../Page/ハードウェア.md "wikilink")に[シリアルポート](../Page/シリアルポート.md "wikilink")で接続し、機器の試験のためにマクロ機能が利用されることも多かった。
 
@@ -21,13 +21,13 @@
 
 ### 派生版の登場
 
-ソースコードが公開されているため、その後に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")対応版・[ローカライズ版](../Page/国際化と地域化.md "wikilink")・[プロキシ](https://ja.wikipedia.org/wiki/プロキシ "wikilink")対応版・半透明化に対応した版などの派生版が登場した。 しかし、主開発者が不在であることや派生版を再配布するためには原作者の許可が必要だったことなどを理由として、**Tera Term**の開発を第三者が引き継ぐことが難しい状況が続いた。
+ソースコードが公開されているため、その後に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")対応版・[ローカライズ版](../Page/国際化と地域化.md "wikilink")・[プロキシ](../Page/プロキシ.md "wikilink")対応版・半透明化に対応した版などの派生版が登場した。 しかし、主開発者が不在であることや派生版を再配布するためには原作者の許可が必要だったことなどを理由として、**Tera Term**の開発を第三者が引き継ぐことが難しい状況が続いた。
 
-当時において、[セキュリティに関する需要が高まっていく中で](../Page/コンピュータセキュリティ.md "wikilink")、セキュリティ上の脆弱性があるとされているtelnetやSSH1は利用されなくなっていった。 当時は**TTSSH**がSSH2に対応しておらず、また、SSH2に対応していた派生版としてはAyera Technologiesによる**TeraTerm Pro Web**が有るがソースコードが(現在においても)開示されていないため、[PuTTY](https://ja.wikipedia.org/wiki/PuTTY "wikilink")等に[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")を奪われていった。
+当時において、[セキュリティに関する需要が高まっていく中で](../Page/コンピュータセキュリティ.md "wikilink")、セキュリティ上の脆弱性があるとされているtelnetやSSH1は利用されなくなっていった。 当時は**TTSSH**がSSH2に対応しておらず、また、SSH2に対応していた派生版としてはAyera Technologiesによる**TeraTerm Pro Web**が有るがソースコードが(現在においても)開示されていないため、[PuTTY](../Page/PuTTY.md "wikilink")等に[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")を奪われていった。
 
 ### SSH2対応とオープンソース化
 
-[平田豊](https://ja.wikipedia.org/wiki/平田豊_\(ソフトウェア開発者、ライター\) "wikilink")\[1\]を中心とするTeraTerm Projectによって、2004年3月に**Tera Term**への[パッチ](https://ja.wikipedia.org/wiki/パッチ "wikilink")という形態で[UTF-8](../Page/UTF-8.md "wikilink")サポート版が作成され、同年8月にはSSH2に対応した**TTSSH**が[ベータ版](../Page/ベータ版.md "wikilink")として公開された。
+[平田豊](https://ja.wikipedia.org/wiki/平田豊_\(ソフトウェア開発者、ライター\) "wikilink")\[1\]を中心とするTeraTerm Projectによって、2004年3月に**Tera Term**への[パッチ](../Page/パッチ.md "wikilink")という形態で[UTF-8](../Page/UTF-8.md "wikilink")サポート版が作成され、同年8月にはSSH2に対応した**TTSSH**が[ベータ版](../Page/ベータ版.md "wikilink")として公開された。
 
 同年9月に、寺西高に連絡が取れて、TeraTerm Projectが正式な開発とバイナリ再配布の許可を取得した。 更に、修正BSDライセンスの下で、**TTSSH2**を取り込んで**UTF-8 TeraTerm Pro with TTSSH2**としてオープンソース化された。
 
@@ -45,16 +45,16 @@
 
   - [Secure Shell](../Page/Secure_Shell.md "wikilink")
 
-      - [OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH "wikilink")
-      - [WinSCP](https://ja.wikipedia.org/wiki/WinSCP "wikilink")
+      - [OpenSSH](../Page/OpenSSH.md "wikilink")
+      - [WinSCP](../Page/WinSCP.md "wikilink")
       - [RLogin](https://ja.wikipedia.org/wiki/RLogin "wikilink")
-      - [PuTTY](https://ja.wikipedia.org/wiki/PuTTY "wikilink")
-      - [Poderosa](https://ja.wikipedia.org/wiki/Poderosa "wikilink")
+      - [PuTTY](../Page/PuTTY.md "wikilink")
+      - [Poderosa](../Page/Poderosa.md "wikilink")
 
   -
   - [Telnet](../Page/Telnet.md "wikilink")
 
-  - [端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")
+  - [端末エミュレータ](../Page/端末エミュレータ.md "wikilink")
 
   - [XMODEM](../Page/XMODEM.md "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[WHO](https://ja.wikipedia.org/wiki/WHO)から翻訳されています。
 
 
-**WHO分類**（ダブリューエイチオーぶんるい）とは、ヒトの[腫瘍](https://ja.wikipedia.org/wiki/腫瘍 "wikilink")の[組織型](https://ja.wikipedia.org/wiki/組織型 "wikilink")分類のための国際的な標準規約である。正式には[世界保健機関](../Page/世界保健機関.md "wikilink") (**WHO**)の下部組織である[国際がん研究機関](https://ja.wikipedia.org/wiki/国際がん研究機関 "wikilink")（The International Agency for Research on Cancer、略称IARC）が定めた腫瘍分類の規約である。
+**WHO分類**（ダブリューエイチオーぶんるい）とは、ヒトの[腫瘍](../Page/腫瘍.md "wikilink")の[組織型](../Page/組織型.md "wikilink")分類のための国際的な標準規約である。正式には[世界保健機関](../Page/世界保健機関.md "wikilink") (**WHO**)の下部組織である[国際がん研究機関](../Page/国際がん研究機関.md "wikilink")（The International Agency for Research on Cancer、略称IARC）が定めた腫瘍分類の規約である。
 
 IARCでは[癌](https://ja.wikipedia.org/wiki/癌 "wikilink")予防の促進と、標準的な診断、治療の普及を目的に活動している。世界各国での腫瘍性疾患の発生状況を把握し、診断法や治療成績についての比較研究を推進するためには、各国での腫瘍性疾患の病理診断基準がまちまちでは不都合が生ずる。このため世界各国の腫瘍病理や腫瘍遺伝学の専門家を集め、標準的な腫瘍の分類法を策定する作業が定期的に行われている。その成果を病理アトラスとして刊行し普及のために有償で各国に提供している。このアトラスは伝統的に青い装丁の本であったため[ブルーブック](https://ja.wikipedia.org/wiki/ブルーブック "wikilink")とも呼ばれる。各腫瘍ごとに病理学的分類を標準化し、ICD-Oに基づくコード番号を定めることで腫瘍性疾患の発生状況や国際的な臨床研究の比較が容易になった。国際的医学雑誌へ投稿を行う場合、最新のWHO分類に依拠することが推奨される。
 

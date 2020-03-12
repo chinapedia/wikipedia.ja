@@ -1,9 +1,9 @@
 > この記事は[LIVE\'89](https://ja.wikipedia.org/wiki/LIVE\'89)から翻訳されています。
 
 
-『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスよりリリースされた。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。
 
 ## 解説
 
@@ -13,10 +13,10 @@
 
 ## リリース履歴
 
-| No. | 日付                                                                                          | [レーベル](../Page/レコードレーベル.md "wikilink")                                  | 規格                                                                        | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                                                                    |
-| --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------- | ---- | --------------------------------------------------------------------- |
-| 1   | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") | [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレス | [CD](../Page/コンパクトディスク.md "wikilink")・[CT](../Page/カセットテープ.md "wikilink") | TOCT-5630〜1 (CD)・TOTT-5630〜1 (CT)                     | 1位   |                                                                       |
-| 2   | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")   | 東芝EMI／エキスプレス                                                            | CD                                                                        | TOCT-25962〜3                                          | \-   | 24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink") |
+| No. | 日付                                                                                          | [レーベル](../Page/レコードレーベル.md "wikilink")               | 規格                                                                        | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                                                 |
+| --- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------- | ---- | -------------------------------------------------- |
+| 1   | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレス | [CD](../Page/コンパクトディスク.md "wikilink")・[CT](../Page/カセットテープ.md "wikilink") | TOCT-5630〜1 (CD)・TOTT-5630〜1 (CT)  | 1位   |                                                    |
+| 2   | [2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")                      | 東芝EMI／エキスプレス                                         | CD                                                                        | TOCT-25962〜3                       | \-   | 24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink") |
 
 ## 収録曲
 
@@ -25,16 +25,16 @@
 ### DISC-1
 
 1.  **くそったれの人生**
-2.  **[泣いてチンピラ](https://ja.wikipedia.org/wiki/泣いてチンピラ "wikilink")**
-3.  **[ろくなもんじゃねえ](https://ja.wikipedia.org/wiki/ろくなもんじゃねえ "wikilink")**
+2.  **[泣いてチンピラ](../Page/泣いてチンピラ.md "wikilink")**
+3.  **[ろくなもんじゃねえ](../Page/ろくなもんじゃねえ.md "wikilink")**
 4.  **ほんまにうち寂しかったんよ**
 5.  **He・la-He・la**
 6.  **[巡恋歌](../Page/巡恋歌.md "wikilink")**
 7.  **シェリー**
 8.  **[激愛](https://ja.wikipedia.org/wiki/激愛 "wikilink")**
-9.  **[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")**
+9.  **[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")**
       -
-        ほぼ聴衆によって歌われている。後にこのライブ・バージョンがベスト・アルバム『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録された。
+        ほぼ聴衆によって歌われている。後にこのライブ・バージョンがベスト・アルバム『[いつかの少年](../Page/いつかの少年.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録された。
 10. **素顔**
 11. **碑**
 12. **いつかの少年**
@@ -43,14 +43,14 @@
 
 1.  **GO STRAIGHT**
 2.  **プン プン プン**
-3.  **[SUPER STAR](https://ja.wikipedia.org/wiki/SUPER_STAR "wikilink")**
+3.  **[SUPER STAR](../Page/SUPER_STAR.md "wikilink")**
 4.  **明け方までにはケリがつく**
 5.  **裸足のまんまで**
 6.  **DON'T CRY MY LOVE**
       -
-        冒頭に長渕の[MCが入っている](https://ja.wikipedia.org/wiki/司会 "wikilink")。
-7.  **[勇次](https://ja.wikipedia.org/wiki/勇次 "wikilink")**
-8.  **[とんぼ](https://ja.wikipedia.org/wiki/とんぼ_\(長渕剛の曲\) "wikilink")**
+        冒頭に長渕の[MCが入っている](../Page/司会.md "wikilink")。
+7.  **[勇次](../Page/勇次.md "wikilink")**
+8.  **[とんぼ](../Page/とんぼ_\(長渕剛の曲\).md "wikilink")**
 9.  **STAY DREAM**
 10. **昭和**
 
@@ -61,7 +61,7 @@
   - **長渕剛** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
   - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - アコースティック・ギター
   - **[矢島賢](../Page/矢島賢.md "wikilink")** - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
-  - **[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")** - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - **[中西康晴](../Page/中西康晴.md "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - **浜田良美** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 ## 外部リンク

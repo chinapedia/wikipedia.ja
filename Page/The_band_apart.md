@@ -12,13 +12,13 @@
   - 1998年頃から現在のバンド名となり、本格的な活動を開始。バンド名は[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")の映画プロダクション、「A Band Apart」に由来する。
   - 1999年前期には1st Demoを製作、後期には2nd Demoを製作。共に順調に販売を重ねる。
   - 2001年、[Limited Recordsから](https://ja.wikipedia.org/wiki/Limited_Records "wikilink")「FOOL PROOF」、2002年に「Eric.W」をリリース。
-  - 2003年、1stアルバム「[K.AND HIS BIKE](https://ja.wikipedia.org/wiki/K.AND_HIS_BIKE "wikilink")」をリリース後、自身の運営するasian gothic labelから活動をすることとなる。
+  - 2003年、1stアルバム「[K.AND HIS BIKE](../Page/K.AND_HIS_BIKE.md "wikilink")」をリリース後、自身の運営するasian gothic labelから活動をすることとなる。
   - 2004年、独立後第一弾となるシングル「RECOGINIZE ep」をリリースし、限定15,000枚を即完売させる。
   - 2005年、2ndアルバム「[quake and brook](https://ja.wikipedia.org/wiki/quake_and_brook "wikilink")」をリリース。オリコン最高位5位を獲得。
   - 2006年、3rdアルバム｢[alfred and cavity](https://ja.wikipedia.org/wiki/alfred_and_cavity "wikilink")｣をリリース。オリコン最高位9位を獲得。12月23日、"smooth like butter tour final"を両国国技館で開催。
   - 2007年、盟友バンドである[MOCK ORANGEと共に初のアメリカツアーを敢行](https://ja.wikipedia.org/wiki/MOCK_ORANGE "wikilink")。
   - 2008年、4thアルバム「[Adze of penguin](https://ja.wikipedia.org/wiki/Adze_of_penguin "wikilink")」をリリース。オリコン最高位7位を獲得。7月13日、“4th album Adze of penguin”release live SMOOTH LIKE BUTTER TOUR FINAL”を幕張メッセイベントホールで開催。
-  - 2011年、5thアルバム「[Scent of August](https://ja.wikipedia.org/wiki/Scent_of_August "wikilink")」をリリース。オリコン最高位12位を獲得。6月17日、日本武道館で[ASPARAGUS](https://ja.wikipedia.org/wiki/ASPARAGUS "wikilink")とのツーマンライブ『SMOOTH LIKE BUTTER』が開催。
+  - 2011年、5thアルバム「[Scent of August](https://ja.wikipedia.org/wiki/Scent_of_August "wikilink")」をリリース。オリコン最高位12位を獲得。6月17日、日本武道館で[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")とのツーマンライブ『SMOOTH LIKE BUTTER』が開催。
   - 2013年、6thアルバム「[街の14景](https://ja.wikipedia.org/wiki/街の14景 "wikilink")」をリリース。オリコン最高位13位を獲得。
   - 2015年、7thアルバム「[謎のオープンワールド](https://ja.wikipedia.org/wiki/謎のオープンワールド "wikilink")」をリリース。オリコン最高位13位を獲得。
 
@@ -28,12 +28,12 @@
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。
     <!-- end list -->
       - 血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長は185cm。
-      - ギターは[ギブソン・SG](https://ja.wikipedia.org/wiki/ギブソン・SG "wikilink")→[フェンダー・ジャガー](../Page/フェンダー・ジャガー.md "wikilink")→[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")→[フェンダー・テレキャスター](../Page/フェンダー・テレキャスター.md "wikilink")→ナビゲーター・テレキャスター→[フェンダー・ジャズマスター](https://ja.wikipedia.org/wiki/フェンダー・ジャズマスター "wikilink")→[ESP](https://ja.wikipedia.org/wiki/イーエスピー "wikilink")・ストラトキャスタータイプを使用。
+      - ギターは[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")→[フェンダー・ジャガー](../Page/フェンダー・ジャガー.md "wikilink")→[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")→[フェンダー・テレキャスター](../Page/フェンダー・テレキャスター.md "wikilink")→ナビゲーター・テレキャスター→[フェンダー・ジャズマスター](../Page/フェンダー・ジャズマスター.md "wikilink")→[ESP](../Page/イーエスピー.md "wikilink")・ストラトキャスタータイプを使用。
       - 結成当初はベースボーカルだったが、原にパートの交換を提案しギターへ転向した。
-      - [ソウルの影響を指摘されることもあるが](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、本人は「曲の雰囲気に合わせていたら自然にこうなった」という旨の発言をしている。メタルのコピーをやっていたときは[ジェイムズ・ヘットフィールド](https://ja.wikipedia.org/wiki/ジェイムズ・ヘットフィールド "wikilink")の真似をし、無理にしゃがれ[声](../Page/声.md "wikilink")で歌っていた。
+      - [ソウルの影響を指摘されることもあるが](../Page/ソウルミュージック.md "wikilink")、本人は「曲の雰囲気に合わせていたら自然にこうなった」という旨の発言をしている。メタルのコピーをやっていたときは[ジェイムズ・ヘットフィールド](../Page/ジェイムズ・ヘットフィールド.md "wikilink")の真似をし、無理にしゃがれ[声](../Page/声.md "wikilink")で歌っていた。
       - 複雑な[コードの](../Page/和音.md "wikilink")[カッティングや](https://ja.wikipedia.org/wiki/ミュート_\(ギター\)#カッティング "wikilink")[オブリガート](https://ja.wikipedia.org/wiki/オブリガート "wikilink")的な[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")も、歌いながら弾きこなす。
       - 19～20歳の頃は[地元](https://ja.wikipedia.org/wiki/地元 "wikilink")のライブハウスに弾き語りで出演し、オリジナルの日本語曲などを歌っていたこともある。近年では[bloodthirsty butchersの吉村秀樹の](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")や、荒井自身による企画などでアコースティックライブを行っている。これらのライブではthe band apartの楽曲を[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンで演奏するほかに、上述の日本語曲も披露されている。また、[山下達郎](../Page/山下達郎.md "wikilink")や[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")などのカバーが演奏されたこともある。
-      - 映画好きであり、[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")も好んで聴く。以前、[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")の[GBEV](https://ja.wikipedia.org/wiki/GBEV "wikilink")で映画のコラムを連載していた。
+      - 映画好きであり、[サウンドトラック](../Page/サウンドトラック.md "wikilink")も好んで聴く。以前、[フリーペーパー](../Page/フリーペーパー.md "wikilink")の[GBEV](https://ja.wikipedia.org/wiki/GBEV "wikilink")で映画のコラムを連載していた。
       - 元[ラガーマン](../Page/ラグビー.md "wikilink")。現在でも屈強な肉体を誇っている。
       - 2013年8月21日に初のソロアルバム『sparklers』をリリース。オリジナル曲に含め、the band apartの[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")から「photograph」「K.and his bike」を日本語でカバーしている。
       - The Yasuno N°5 Groupメンバーとしても活動。
@@ -45,7 +45,7 @@
     <!-- end list -->
       - ギターは[モズライト](https://ja.wikipedia.org/wiki/モズライト "wikilink")マークI及びマークIVを使用。
 
-      - [速弾き](https://ja.wikipedia.org/wiki/速弾き "wikilink")や特殊奏法を取り入れたテクニカルなプレイが特徴。メタル好きなこともあってか、[スウィープや](https://ja.wikipedia.org/wiki/スウィープ奏法 "wikilink")[タッピング](https://ja.wikipedia.org/wiki/タッピング "wikilink")を多用する。
+      - [速弾き](../Page/速弾き.md "wikilink")や特殊奏法を取り入れたテクニカルなプレイが特徴。メタル好きなこともあってか、[スウィープや](https://ja.wikipedia.org/wiki/スウィープ奏法 "wikilink")[タッピング](https://ja.wikipedia.org/wiki/タッピング "wikilink")を多用する。
 
       - 。
 
@@ -58,9 +58,9 @@
 <!-- end list -->
 
   - **原 昌和**（はら まさかず）
-      - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
     <!-- end list -->
-      - ベースは[Rickenbacker](https://ja.wikipedia.org/wiki/Rickenbacker "wikilink")・4003→[MUSICMAN](https://ja.wikipedia.org/wiki/MUSICMAN "wikilink")・STINGRAY→[Fender](https://ja.wikipedia.org/wiki/Fender "wikilink")・American Deluxe Jazz Bass→[ESP](https://ja.wikipedia.org/wiki/イーエスピー "wikilink")・AMAZEを、アンプは[オレンジを使用](../Page/オレンジ_\(楽器メーカー\).md "wikilink")。ベースの弦は[Warwick](https://ja.wikipedia.org/wiki/Warwick "wikilink") RED LABELを使用とのこと。(2007/04/25発売のDVD [Stanley on the 2nd floor内の冊子にて](https://ja.wikipedia.org/wiki/Stanley_on_the_2nd_floor "wikilink")。また、冊子内で原は「弦は安けりゃ安いほどいい」と語っている。)エフェクターは使用せず、チューナーは[BOSS](https://ja.wikipedia.org/wiki/ボス_\(企業\) "wikilink")・TU-2を使用する。
+      - ベースは[Rickenbacker](https://ja.wikipedia.org/wiki/Rickenbacker "wikilink")・4003→[MUSICMAN](https://ja.wikipedia.org/wiki/MUSICMAN "wikilink")・STINGRAY→[Fender](https://ja.wikipedia.org/wiki/Fender "wikilink")・American Deluxe Jazz Bass→[ESP](../Page/イーエスピー.md "wikilink")・AMAZEを、アンプは[オレンジを使用](../Page/オレンジ_\(楽器メーカー\).md "wikilink")。ベースの弦は[Warwick](https://ja.wikipedia.org/wiki/Warwick "wikilink") RED LABELを使用とのこと。(2007/04/25発売のDVD [Stanley on the 2nd floor内の冊子にて](https://ja.wikipedia.org/wiki/Stanley_on_the_2nd_floor "wikilink")。また、冊子内で原は「弦は安けりゃ安いほどいい」と語っている。)エフェクターは使用せず、チューナーは[BOSS](../Page/ボス_\(企業\).md "wikilink")・TU-2を使用する。
 
       - 最も影響を受けた[ベーシスト](../Page/ベーシスト.md "wikilink")は[クリス・スクワイア](../Page/クリス・スクワイア.md "wikilink")。ゴリッとしたベース音と、[リズム](../Page/リズム.md "wikilink")からオブリガートまで多彩な役割を果たすフレージングが特徴。また見かけによらずハイトーンな歌声を持ち、コーラスで荒井のボーカルを支えている。
 
@@ -79,29 +79,29 @@
   - **木暮 栄一**（こぐれ えいいち）
       - [ドラムス](../Page/ドラムセット.md "wikilink")。
     <!-- end list -->
-      - [ドラムセット](../Page/ドラムセット.md "wikilink")はdw、[スネアドラム](../Page/スネアドラム.md "wikilink")は[カノウプス](../Page/カノウプス.md "wikilink")のZelkova hs-1465、[ドラムスティック](https://ja.wikipedia.org/wiki/ドラムスティック "wikilink")はpro-markを使用。ちなみにCDをリリースするようになってからも、数年間自前のドラムセットを持っていなかった。
-      - 個性の強い[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")をまとめ上げる細やかなドラミングが特徴。リズムパターンの引き出しが多く、ディスコライクな[四つ打ち](https://ja.wikipedia.org/wiki/四つ打ち "wikilink")、[フュージョン風の](../Page/フュージョン_\(音楽\).md "wikilink")[16ビート](https://ja.wikipedia.org/wiki/16ビート "wikilink")、[ラテンリズムなど幅広く叩きこなす](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")。
-      - 3rdアルバムからは[ジャムブロック](https://ja.wikipedia.org/wiki/ジャムブロック "wikilink")、[カウベル](https://ja.wikipedia.org/wiki/カウベル "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")、[ヴィブラスラップ](https://ja.wikipedia.org/wiki/ヴィブラスラップ "wikilink")など様々な[パーカッション](../Page/パーカッション.md "wikilink")を導入し、[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")に新たな彩りを与えた。
+      - [ドラムセット](../Page/ドラムセット.md "wikilink")はdw、[スネアドラム](../Page/スネアドラム.md "wikilink")は[カノウプス](../Page/カノウプス.md "wikilink")のZelkova hs-1465、[ドラムスティック](../Page/ドラムスティック.md "wikilink")はpro-markを使用。ちなみにCDをリリースするようになってからも、数年間自前のドラムセットを持っていなかった。
+      - 個性の強い[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")をまとめ上げる細やかなドラミングが特徴。リズムパターンの引き出しが多く、ディスコライクな[四つ打ち](https://ja.wikipedia.org/wiki/四つ打ち "wikilink")、[フュージョン風の](../Page/フュージョン_\(音楽\).md "wikilink")[16ビート](https://ja.wikipedia.org/wiki/16ビート "wikilink")、[ラテンリズムなど幅広く叩きこなす](../Page/ラテン音楽.md "wikilink")。
+      - 3rdアルバムからは[ジャムブロック](https://ja.wikipedia.org/wiki/ジャムブロック "wikilink")、[カウベル](../Page/カウベル.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")、[ヴィブラスラップ](../Page/ヴィブラスラップ.md "wikilink")など様々な[パーカッション](../Page/パーカッション.md "wikilink")を導入し、[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")に新たな彩りを与えた。
       - [高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")の頃一時期、親の仕事の都合でカナダに住んでいた。そのこともあって英語が得意である。
       - かつては、メタル好きのメンバーの中で唯一[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[オルタナティブ・ミュージック](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")を好んで聴いていた。しかし年月と共にメンバー間の音楽の好みは共通性が強くなり、現在では木暮もメタルを聴くようである。
       - バンドを始めた当初、メタルをやるのに嫌気が差し、しばらくバンドを脱退する。ちなみに当時は[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")になりたかったらしく、クラブのイベントによく参加していた。「そのときの映像を見ると飛び降りたくなる」らしい。
       - 公式HPのDiaryをほぼ一人で更新し続けている。このDiaryは一部で「月刊コグレ」と呼ばれている。
-      - 絵が得意で、[Tシャツ](https://ja.wikipedia.org/wiki/Tシャツ "wikilink")、CDジャケットのデザインや、DVDのブックレットでその腕を披露している。
+      - 絵が得意で、[Tシャツ](../Page/Tシャツ.md "wikilink")、CDジャケットのデザインや、DVDのブックレットでその腕を披露している。
       - The Yasuno N°5 Groupメンバーとしても活動。
 
-演奏時の立ち位置は荒井が[右](https://ja.wikipedia.org/wiki/右 "wikilink")側、川崎がセンター、原が左側、木暮が後ろと、[4ピース](https://ja.wikipedia.org/wiki/4ピース "wikilink")バンドとしては珍しくボーカルがセンターに立たない[スタイル](https://ja.wikipedia.org/wiki/スタイル "wikilink")を取っている。これはメンバーの「誰かがメインとかではなく、4人が同列の関係に見えるといい」という思いが反映されたものである。
+演奏時の立ち位置は荒井が[右](https://ja.wikipedia.org/wiki/右 "wikilink")側、川崎がセンター、原が左側、木暮が後ろと、[4ピース](https://ja.wikipedia.org/wiki/4ピース "wikilink")バンドとしては珍しくボーカルがセンターに立たない[スタイル](../Page/スタイル.md "wikilink")を取っている。これはメンバーの「誰かがメインとかではなく、4人が同列の関係に見えるといい」という思いが反映されたものである。
 
 メンバー仲が良く、「バンドをしたから仲が良くなったんじゃなくて、仲の良い奴等でバンドをやっている」「音楽は4人が仲良くなるための手段ともいえる」「解散しても[友達](https://ja.wikipedia.org/wiki/友達 "wikilink")のままでいられる」と語っている。
 
 ## 備考
 
-  - ロックに限らず、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")、[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")、[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")など、多くのジャンルの音楽を独自に消化、吸収したサウンドが持ち味。
-  - 曲作りにはメンバー全員が参加する。各自が持ってきたネタ（[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")やコード進行、メロディなど）を全員で膨らませていくパターンが主で、メロディは荒井が、リードギターのパートは川崎と原が担当することが多い。また、メロディは各パートが[完成](https://ja.wikipedia.org/wiki/完成 "wikilink")してから最後に乗せられることも多い。
+  - ロックに限らず、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")、[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")、[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")など、多くのジャンルの音楽を独自に消化、吸収したサウンドが持ち味。
+  - 曲作りにはメンバー全員が参加する。各自が持ってきたネタ（[リフ](../Page/リフ.md "wikilink")やコード進行、メロディなど）を全員で膨らませていくパターンが主で、メロディは荒井が、リードギターのパートは川崎と原が担当することが多い。また、メロディは各パートが[完成](https://ja.wikipedia.org/wiki/完成 "wikilink")してから最後に乗せられることも多い。
   - 歌詞は「Scent of August」までの楽曲は全て英詞で、[日常](https://ja.wikipedia.org/wiki/日常 "wikilink")生活を散文的に切り取ったような描写や少年期への想いを歌ったものが中心である。作詞は木暮と荒井が担当している。二人のどちらが書いた詞なのかは歌詞カードの字体で判断することができる。メンバーの友人であるジョージ・ボッドマン（[TURTLE ISLAND](https://ja.wikipedia.org/wiki/TURTLE_ISLAND "wikilink")）が、文法・表現・発音などの面においてアドバイザーを務めており、ジョージは一部の楽曲で作詞も手がけている。「2012e.p.」以降は一転して[日本語](../Page/日本語.md "wikilink")詞の楽曲を発表しており、全英詞の楽曲は見られなくなった。
-  - 曲作りは音源リリースの時期が決定してから集中的に行われることが多い。そのため、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")の際も曲作りに追われ[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")を行えずに本番に望むのが恒例となってしまっている。「[K.AND HIS BIKE](https://ja.wikipedia.org/wiki/K.AND_HIS_BIKE "wikilink")」のレコーディングの際、曲作りが酷く行き詰まったため気分転換にスーパーに行ったところ、疲れ果てた顔で[饅頭](../Page/饅頭.md "wikilink")を眺める原に荒井が突然「まーちゃん（原の愛称）、これ買ってブン投げねえ？」と提案した。原は「コイツも限界だな…」と思ったが、結局二人で饅頭を買い地面に思いきり叩きつけた。すると、てっきり潰れて飛び散るかと思われた饅頭は「ぽすっ」と鈍くバウンドした。それを見た瞬間に曲がひらめいた、という意味不明な[エピソード](https://ja.wikipedia.org/wiki/エピソード "wikilink")を原がDVD「Eric the Fool Recognized His Bike Quakes」で語っている。またレコーディングの初めの頃は、スタジオに入っても曲作りもせず[レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")などを演奏したりして一日を過ごすこともあったらしい。
-  - [プロモーションビデオはメンバーがシルエットになっていたり遠景になっていたりと](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、匿名性の強いものが多い。なお、「coral reef」のプロモーションビデオはバンド名の由来である[A Band Apartによって制作された](https://ja.wikipedia.org/wiki/A_Band_Apart "wikilink")。
+  - 曲作りは音源リリースの時期が決定してから集中的に行われることが多い。そのため、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")の際も曲作りに追われ[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")を行えずに本番に望むのが恒例となってしまっている。「[K.AND HIS BIKE](../Page/K.AND_HIS_BIKE.md "wikilink")」のレコーディングの際、曲作りが酷く行き詰まったため気分転換にスーパーに行ったところ、疲れ果てた顔で[饅頭](../Page/饅頭.md "wikilink")を眺める原に荒井が突然「まーちゃん（原の愛称）、これ買ってブン投げねえ？」と提案した。原は「コイツも限界だな…」と思ったが、結局二人で饅頭を買い地面に思いきり叩きつけた。すると、てっきり潰れて飛び散るかと思われた饅頭は「ぽすっ」と鈍くバウンドした。それを見た瞬間に曲がひらめいた、という意味不明な[エピソード](https://ja.wikipedia.org/wiki/エピソード "wikilink")を原がDVD「Eric the Fool Recognized His Bike Quakes」で語っている。またレコーディングの初めの頃は、スタジオに入っても曲作りもせず[レイジ・アゲインスト・ザ・マシーン](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink")などを演奏したりして一日を過ごすこともあったらしい。
+  - [プロモーションビデオはメンバーがシルエットになっていたり遠景になっていたりと](../Page/ミュージック・ビデオ.md "wikilink")、匿名性の強いものが多い。なお、「coral reef」のプロモーションビデオはバンド名の由来である[A Band Apartによって制作された](https://ja.wikipedia.org/wiki/A_Band_Apart "wikilink")。
   - 「quake and brook」ツアー最終日の夕方、アルバムタイトルの如く大地震が起き、開演時刻を大幅に遅らせるというハプニングがあった。交通網も[麻痺](../Page/麻痺.md "wikilink")してしまったため、会場にたどり着けない人やもう間に合わないと諦めて帰る人もいた。
-  - ディズニーコンピレーションで共演した[BEAT CRUSADERSと親交が深い](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")。ヒダカトオルは自身のアルバムと同時期にリリースされた「[quake and brook](https://ja.wikipedia.org/wiki/quake_and_brook "wikilink")」もしきりに宣伝していた。BEAT CRUSADERSの「MUSICRUSADERS」の初回盤でも荒井と原の名前が登場する。
+  - ディズニーコンピレーションで共演した[BEAT CRUSADERSと親交が深い](../Page/BEAT_CRUSADERS.md "wikilink")。ヒダカトオルは自身のアルバムと同時期にリリースされた「[quake and brook](https://ja.wikipedia.org/wiki/quake_and_brook "wikilink")」もしきりに宣伝していた。BEAT CRUSADERSの「MUSICRUSADERS」の初回盤でも荒井と原の名前が登場する。
   - アメリカのバンド[MOCK ORANGEとは非常に親交が深い](https://ja.wikipedia.org/wiki/MOCK_ORANGE "wikilink")。2001年にMOCK ORANGEが来日した際、彼らの作品を愛聴していたthe band apartが連絡先を交換し、日本での合同ツアーをオファーした。突然の誘いに最初は戸惑ったMOCK側だったが、送られてきた音源を聴いて好感を持ち、2003年のツアーで共演が実現した。ツアーを通じ両バンドは交流を深め、互いの音楽だけでなく人間性もリスペクトしあう間柄となった。続く2004年の再共演を経てMOCK ORANGEは[asian gothic labelに加入](https://ja.wikipedia.org/wiki/asian_gothic_label "wikilink")。2006年には両バンドによるスプリットシングルをリリース。2007年には日本とアメリカで合同ツアーを行った。the band apartとMOCK ORANGEの関係について原は｢俺達の合言葉は『アイ・ワズ・ゲイ』だから。俺達はゲイじゃないけど、それくらい愛し合っていこうぜって」という発言をしている。
 
 ## ディスコグラフィー
@@ -181,7 +181,7 @@
 </tr>
 <tr class="even">
 <td><p>スプリット</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月17日.md" title="wikilink">5月17日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月17日.md" title="wikilink">5月17日</a></p></td>
 <td><p><strong>DANIELS E.P.</strong></p></td>
 <td><p>ASG-006</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -389,7 +389,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/K.AND_HIS_BIKE" title="wikilink">K.AND HIS BIKE</a></p></td>
+<td><p><a href="../Page/K.AND_HIS_BIKE.md" title="wikilink">K.AND HIS BIKE</a></p></td>
 <td><p>LTDC-055<br />
 ASG-014:再発<br />
 ASG-014S:完全生産限定盤</p></td>
@@ -417,7 +417,7 @@ ASG-014S:完全生産限定盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/quake_and_brook" title="wikilink">quake and brook</a></p></td>
 <td><p>ASG-003<br />
 ASG-003S:完全生産限定盤</p></td>
@@ -449,7 +449,7 @@ ASG-003S:完全生産限定盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/alfred_and_cavity" title="wikilink">alfred and cavity</a></p></td>
 <td><p>ASG-007<br />
 ASG-007S:完全生産限定盤</p></td>
@@ -636,7 +636,7 @@ ASG-011:通常盤</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p>村田シゲ(<a href="https://ja.wikipedia.org/wiki/□□□" title="wikilink">□□□</a>),一瀬正和(<a href="https://ja.wikipedia.org/wiki/ASPARAGUS" title="wikilink">ASPARAGUS</a>/<a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a>)が参加<br />
+<td><p>村田シゲ(<a href="../Page/□□□.md" title="wikilink">□□□</a>),一瀬正和(<a href="../Page/ASPARAGUS.md" title="wikilink">ASPARAGUS</a>/<a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a>)が参加<br />
 荒井岳史ソロフルアルバム<br />
 オリコン最高51位</p></td>
 </tr>
@@ -800,7 +800,7 @@ asg-03502</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
 <td><p><strong>Eric the Fool Recognized His Bike Quakes</strong></p></td>
 <td><p>ASG-005</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1062,13 +1062,13 @@ asg-03502</p></td>
   - STYLE OF LimitedII （2002年7月24日）
       -
         「ANARQ」収録。
-  - [DIVE INTO DISNEY](https://ja.wikipedia.org/wiki/DIVE_INTO_DISNEY "wikilink") （2002年10月30日）
+  - [DIVE INTO DISNEY](../Page/DIVE_INTO_DISNEY.md "wikilink") （2002年10月30日）
       -
-        「[WHEN YOU WISH UPON A STAR](https://ja.wikipedia.org/wiki/星に願いを "wikilink")」（映画『[ピノキオ](https://ja.wikipedia.org/wiki/ピノキオ_\(1940年の映画\) "wikilink")』からのカバー）収録。
+        「[WHEN YOU WISH UPON A STAR](../Page/星に願いを.md "wikilink")」（映画『[ピノキオ](../Page/ピノキオ_\(1940年の映画\).md "wikilink")』からのカバー）収録。
   - WHEN YOU WISH UPON A STAR （2003年10月1日）
       -
         「WHEN YOU WISH UPON A STAR」（映画『ピノキオ』からのカバー）収録。
-  - [MOSH PIT ON DISNEY](https://ja.wikipedia.org/wiki/MOSH_PIT_ON_DISNEY "wikilink") （2004年7月28日）
+  - [MOSH PIT ON DISNEY](../Page/MOSH_PIT_ON_DISNEY.md "wikilink") （2004年7月28日）
       -
         「GIVE A LITTLE WHISTLE」収録。
   - BACKYARD SESSIONS \#001 （2006年4月7日） - [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink")

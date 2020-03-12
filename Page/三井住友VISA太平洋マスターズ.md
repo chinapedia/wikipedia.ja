@@ -1,25 +1,25 @@
 > この記事は[VISA](https://ja.wikipedia.org/wiki/VISA)から翻訳されています。
 
 
-**三井住友VISA太平洋マスターズ**（みついすみともビザたいへいようマスターズ）は、[日本ゴルフツアー機構](https://ja.wikipedia.org/wiki/日本ゴルフツアー機構 "wikilink")公認による[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[三井住友カード](../Page/三井住友カード.md "wikilink")、[太平洋クラブ](https://ja.wikipedia.org/wiki/太平洋クラブ "wikilink")（2011年で一時撤退後、2016年に復帰）\[1\]、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が主催、[VJA](https://ja.wikipedia.org/wiki/VJA "wikilink")、[三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/三井住友フィナンシャルグループ "wikilink")が特別協賛する。
+**三井住友VISA太平洋マスターズ**（みついすみともビザたいへいようマスターズ）は、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")公認による[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[三井住友カード](../Page/三井住友カード.md "wikilink")、[太平洋クラブ](../Page/太平洋クラブ.md "wikilink")（2011年で一時撤退後、2016年に復帰）\[1\]、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が主催、[VJA](../Page/VJA.md "wikilink")、[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")が特別協賛する。
 
 ## 概要
 
-毎年[11月](../Page/11月.md "wikilink")第2週\[2\]に、[静岡県](../Page/静岡県.md "wikilink")[御殿場市](../Page/御殿場市.md "wikilink")にある太平洋クラブ御殿場コースを舞台に開かれている\[3\]。ただし2001年は同地で[WGC](https://ja.wikipedia.org/wiki/世界ゴルフ選手権 "wikilink")[ワールドカップ開催のため](https://ja.wikipedia.org/wiki/ワールドカップ_\(ゴルフ\) "wikilink")9月に開催された。
+毎年[11月](../Page/11月.md "wikilink")第2週\[2\]に、[静岡県](../Page/静岡県.md "wikilink")[御殿場市](../Page/御殿場市.md "wikilink")にある太平洋クラブ御殿場コースを舞台に開かれている\[3\]。ただし2001年は同地で[WGC](../Page/世界ゴルフ選手権.md "wikilink")[ワールドカップ開催のため](../Page/ワールドカップ_\(ゴルフ\).md "wikilink")9月に開催された。
 
-太平洋クラブ単独主催時代は「**太平洋クラブマスターズ**」（1972年～1978年、1981年～1985年）、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")がスポンサーとなり「**東芝太平洋マスターズ**」（1979年、1980年）、[VISAが主催に加わり](../Page/三井住友カード.md "wikilink")「**VISA太平洋クラブマスターズ**」（1986年～1992年）→「**住友VISA太平洋マスターズ**」（1993年～2000年）と幾度も大会名が変更されていたが2001年大会より現大会名となる。
+太平洋クラブ単独主催時代は「**太平洋クラブマスターズ**」（1972年～1978年、1981年～1985年）、[東芝](../Page/東芝.md "wikilink")がスポンサーとなり「**東芝太平洋マスターズ**」（1979年、1980年）、[VISAが主催に加わり](../Page/三井住友カード.md "wikilink")「**VISA太平洋クラブマスターズ**」（1986年～1992年）→「**住友VISA太平洋マスターズ**」（1993年～2000年）と幾度も大会名が変更されていたが2001年大会より現大会名となる。
 
-過去の大会では、[1996年](../Page/1996年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて[リー・ウエストウッド](../Page/リー・ウエストウッド.md "wikilink")（[イングランド](../Page/イングランド.md "wikilink")）が大会3連覇を達成したことがある。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ダレン・クラーク](../Page/ダレン・クラーク.md "wikilink")（[北アイルランド](../Page/北アイルランド.md "wikilink")）が大会連覇を達成した。
+過去の大会では、[1996年](../Page/1996年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて[リー・ウエストウッド](../Page/リー・ウエストウッド.md "wikilink")（[イングランド](../Page/イングランド.md "wikilink")）が大会3連覇を達成したことがある。[2005年](../Page/2005年.md "wikilink")には[ダレン・クラーク](../Page/ダレン・クラーク.md "wikilink")（[北アイルランド](../Page/北アイルランド.md "wikilink")）が大会連覇を達成した。
 
 [2019年](../Page/2019年.md "wikilink")現在、賞金総額2億円、優勝賞金4000万円\[4\]。優勝者には副賞として[BMW](../Page/BMW.md "wikilink")が贈呈される\[5\]が、アマチュア選手が優勝した場合は大会規定に基づき、賞金・賞品は贈呈されず、プロの最上位者に贈呈される\[6\]。なお、ホールインワン300万円はプロ・アマ関係なしに贈呈される。
 
-この大会と、翌週の「[ダンロップフェニックストーナメント](https://ja.wikipedia.org/wiki/ダンロップフェニックストーナメント "wikilink")」、そして翌々週の「[カシオワールドオープンゴルフトーナメント](https://ja.wikipedia.org/wiki/カシオワールドオープンゴルフトーナメント "wikilink")」の3試合を「インターナショナルツアー（**International Tour**）」と銘打って行われている（ちなみにその3試合はすべて[TBS系列が放送している](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）。以前は3試合全部優勝した場合はグランドボーナスとして1億円、うち2試合優勝すればゴールドボーナスとして2000万円が贈呈され、グランドボーナス・ゴールドボーナスの該当者がいない場合には3試合のポイント合計で一番ポイントが高かった選手にポイントボーナスとして1000万円が贈呈される「インターナショナルツアー賞金」があったが、現在は廃止されている。
+この大会と、翌週の「[ダンロップフェニックストーナメント](../Page/ダンロップフェニックストーナメント.md "wikilink")」、そして翌々週の「[カシオワールドオープンゴルフトーナメント](../Page/カシオワールドオープンゴルフトーナメント.md "wikilink")」の3試合を「インターナショナルツアー（**International Tour**）」と銘打って行われている（ちなみにその3試合はすべて[TBS系列が放送している](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）。以前は3試合全部優勝した場合はグランドボーナスとして1億円、うち2試合優勝すればゴールドボーナスとして2000万円が贈呈され、グランドボーナス・ゴールドボーナスの該当者がいない場合には3試合のポイント合計で一番ポイントが高かった選手にポイントボーナスとして1000万円が贈呈される「インターナショナルツアー賞金」があったが、現在は廃止されている。
 
-ちょうどこの時期は欧米ツアーは実質オフシーズンであり、これまで多くの名選手が出場してきたが、近年は同週に[中国で開催される](../Page/中華人民共和国.md "wikilink")[欧州PGAツアー](https://ja.wikipedia.org/wiki/欧州PGAツアー "wikilink")・[アジアンツアー](https://ja.wikipedia.org/wiki/アジアンツアー "wikilink")共催の「[HSBCチャンピオンズ](https://ja.wikipedia.org/wiki/HSBCチャンピオンズ "wikilink")」にトップ選手が多く出場する傾向がある（近年のトップ選手はこの時期は「HSBCチャンピオンズ」と翌週の「ダンロップフェニックス」両方もしくはどちらか一方に出場している場合が多い）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")については有力招待選手は[トレバー・イメルマン](https://ja.wikipedia.org/wiki/トレバー・イメルマン "wikilink")と[今田竜二](https://ja.wikipedia.org/wiki/今田竜二 "wikilink")の2名にとどまり、こうした上述の傾向に歯止めをかけることができなかった。
+ちょうどこの時期は欧米ツアーは実質オフシーズンであり、これまで多くの名選手が出場してきたが、近年は同週に[中国で開催される](../Page/中華人民共和国.md "wikilink")[欧州PGAツアー](https://ja.wikipedia.org/wiki/欧州PGAツアー "wikilink")・[アジアンツアー](https://ja.wikipedia.org/wiki/アジアンツアー "wikilink")共催の「[HSBCチャンピオンズ](https://ja.wikipedia.org/wiki/HSBCチャンピオンズ "wikilink")」にトップ選手が多く出場する傾向がある（近年のトップ選手はこの時期は「HSBCチャンピオンズ」と翌週の「ダンロップフェニックス」両方もしくはどちらか一方に出場している場合が多い）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")については有力招待選手は[トレバー・イメルマン](https://ja.wikipedia.org/wiki/トレバー・イメルマン "wikilink")と[今田竜二](../Page/今田竜二.md "wikilink")の2名にとどまり、こうした上述の傾向に歯止めをかけることができなかった。
 
 2012年1月に主催者の一つである太平洋クラブが[民事再生法](../Page/民事再生法.md "wikilink")を申請して再生手続きに入ったことからスポンサー・会場の変更を含め、大会が実施されるかどうか懸念されていた\[7\]が、名称と会場はそのままながら、太平洋クラブが主催から撤退する以外は予定通り開催された。なお太平洋クラブは2016年に主催者に復帰した\[8\]。
 
-なお、三井住友カードと太平洋クラブとは、旧[住友銀行](../Page/住友銀行.md "wikilink")の関係により遠縁である。[平和相互銀行](https://ja.wikipedia.org/wiki/平和相互銀行 "wikilink")を参照。
+なお、三井住友カードと太平洋クラブとは、旧[住友銀行](../Page/住友銀行.md "wikilink")の関係により遠縁である。[平和相互銀行](../Page/平和相互銀行.md "wikilink")を参照。
 
 ## 大会歴代優勝者
 
@@ -73,7 +73,7 @@
 <td><p></p></td>
 <td><p>279 (−5)</p></td>
 <td><p>2打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青木功" title="wikilink">青木功</a></p></td>
+<td><p><a href="../Page/青木功.md" title="wikilink">青木功</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
@@ -121,7 +121,7 @@
 <td><p></p></td>
 <td><p>278 (−10)</p></td>
 <td><p>3打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/倉本昌弘" title="wikilink">倉本昌弘</a></p></td>
+<td><p><a href="../Page/倉本昌弘.md" title="wikilink">倉本昌弘</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
@@ -153,7 +153,7 @@
 <td><p></p></td>
 <td><p>274 (−14)</p></td>
 <td><p>2打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・ネルソン" title="wikilink">ラリー・ネルソン</a>[10]</p></td>
+<td><p><a href="../Page/ラリー・ネルソン.md" title="wikilink">ラリー・ネルソン</a>[10]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
@@ -161,12 +161,12 @@
 <td><p></p></td>
 <td><p>276 (−12)</p></td>
 <td><p>1打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・ワトソン" title="wikilink">トム・ワトソン</a>[11]</p></td>
+<td><p><a href="../Page/トム・ワトソン.md" title="wikilink">トム・ワトソン</a>[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 <td><p>第16回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セベ・バレステロス" title="wikilink">セベ・バレステロス</a></p></td>
+<td><p><a href="../Page/セベ・バレステロス.md" title="wikilink">セベ・バレステロス</a></p></td>
 <td><p>281 (−7)</p></td>
 <td><p>3打差</p></td>
 <td><p>船渡川育宏[12]</p></td>
@@ -174,11 +174,11 @@
 <tr class="even">
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
 <td><p>第17回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・マリア・オラサバル" title="wikilink">ホセ・マリア・オラサバル</a></p></td>
+<td><p><a href="../Page/ホセ・マリア・オラサバル.md" title="wikilink">ホセ・マリア・オラサバル</a></p></td>
 <td><p>203 (-13)*</p></td>
 <td><p>3打差</p></td>
 <td><p>青木功<br />
- <a href="https://ja.wikipedia.org/wiki/尾崎直道" title="wikilink">尾崎直道</a></p></td>
+ <a href="../Page/尾崎直道.md" title="wikilink">尾崎直道</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
@@ -186,7 +186,7 @@
 <td><p>270 (−18)</p></td>
 <td><p>5打差</p></td>
 <td><p>尾崎将司<br />
- <a href="https://ja.wikipedia.org/wiki/ベルンハルト・ランガー" title="wikilink">ベルンハルト・ランガー</a></p></td>
+ <a href="../Page/ベルンハルト・ランガー.md" title="wikilink">ベルンハルト・ランガー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -195,7 +195,7 @@
 <td><p></p></td>
 <td><p>272 (−16)</p></td>
 <td><p>2打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子柱憲" title="wikilink">金子柱憲</a>[13]</p></td>
+<td><p><a href="../Page/金子柱憲.md" title="wikilink">金子柱憲</a>[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
@@ -237,7 +237,7 @@
 <td><p><a href="../Page/リー・ウエストウッド.md" title="wikilink">リー・ウエストウッド</a></p></td>
 <td><p>206 (-10)*</p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コスタンティノ・ロッカ" title="wikilink">コスタンティノ・ロッカ</a><br />
+<td><p><a href="../Page/コスタンティノ・ロッカ.md" title="wikilink">コスタンティノ・ロッカ</a><br />
  [18]</p></td>
 </tr>
 <tr class="even">
@@ -269,17 +269,17 @@
 <tr class="odd">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td><p>第28回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊沢利光" title="wikilink">伊沢利光</a></p></td>
+<td><p><a href="../Page/伊沢利光.md" title="wikilink">伊沢利光</a></p></td>
 <td><p>274 (−14)</p></td>
 <td><p>1打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/深堀圭一郎" title="wikilink">深堀圭一郎</a>[22]</p></td>
+<td><p><a href="../Page/深堀圭一郎.md" title="wikilink">深堀圭一郎</a>[22]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td><p>第29回</p></td>
 <td><p>270 (−18)</p></td>
 <td><p>2打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮里優作" title="wikilink">宮里優作</a>（当時アマチュア）<br />
+<td><p><a href="../Page/宮里優作.md" title="wikilink">宮里優作</a>（当時アマチュア）<br />
  </p></td>
 <td></td>
 </tr>
@@ -294,7 +294,7 @@
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p>第31回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/室田淳" title="wikilink">室田淳</a></p></td>
+<td><p><a href="../Page/室田淳.md" title="wikilink">室田淳</a></p></td>
 <td><p>272 (−16)</p></td>
 <td><p>6打差</p></td>
 <td><p><a href="../Page/ベン・カーティス.md" title="wikilink">ベン・カーティス</a><br />
@@ -311,15 +311,15 @@
  リー・ウエストウッド[25]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>第33回</p></td>
 <td><p>270 (−18)</p></td>
 <td><p>2打差</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/立山光広" title="wikilink">立山光広</a>[26]</p></td>
+<td><p><a href="../Page/立山光広.md" title="wikilink">立山光広</a>[26]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p>第34回</p></td>
 <td><p>中嶋常幸</p></td>
 <td><p>275 (-13)</p></td>
@@ -337,10 +337,10 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p>第36回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/片山晋呉" title="wikilink">片山晋呉</a></p></td>
+<td><p><a href="../Page/片山晋呉.md" title="wikilink">片山晋呉</a></p></td>
 <td><p>272 (−16)</p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今野康晴" title="wikilink">今野康晴</a>[29]</p></td>
+<td><p><a href="../Page/今野康晴.md" title="wikilink">今野康晴</a>[29]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
@@ -378,12 +378,12 @@
 <tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p>第41回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷原秀人" title="wikilink">谷原秀人</a></p></td>
+<td><p><a href="../Page/谷原秀人.md" title="wikilink">谷原秀人</a></p></td>
 <td><p>275 (−13}</p></td>
 <td><p>1打差</p></td>
 <td><p>石川遼<br />
  <br />
- <a href="https://ja.wikipedia.org/wiki/近藤智弘" title="wikilink">近藤智弘</a></p></td>
+ <a href="../Page/近藤智弘.md" title="wikilink">近藤智弘</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
@@ -450,15 +450,15 @@
 
 テレビ中継は、大会を主催するTBSの製作で、3日目・最終日を[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")28局ネットで放送する（3日目は生中継、最終日は中継録画）\[38\]。過去には、大会2日目をTBSローカルで放送した年もある。
 
-また[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")でも2日目から（年によって初日から）中継を行うほか、2011年はCS放送の[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")で、予選ラウンドの中継も行う。
+また[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")でも2日目から（年によって初日から）中継を行うほか、2011年はCS放送の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で、予選ラウンドの中継も行う。
 
 更に、本選の前日に行われるプロ・アマトーナメントを、TBSと[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")にて放送する。
 
-2010年には、[ゴルフネットワーク](https://ja.wikipedia.org/wiki/ゴルフネットワーク "wikilink")「LIVEスペシャル（現在は[とことん1番ホール生中継](https://ja.wikipedia.org/wiki/とことん1番ホール生中継 "wikilink")）」が放送された。
+2010年には、[ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")「LIVEスペシャル（現在は[とことん1番ホール生中継](https://ja.wikipedia.org/wiki/とことん1番ホール生中継 "wikilink")）」が放送された。
 
 ## 住友VISA太平洋クラブレディース
 
-この男子の大会と同様に、三井住友カード（VISAジャパン協会）・太平洋クラブ・東京放送の主催により[日本女子プロゴルフ協会](https://ja.wikipedia.org/wiki/日本女子プロゴルフ協会 "wikilink")公認の女子プロゴルフトーナメントも1998年から開催された。男子の大会とは異なり、会場を固定せずに行われていたがわずか3回開催されただけで2000年をもって打ち切りとなった。2000年実績、賞金総額6000万円、優勝賞金1080万円\[39\]。
+この男子の大会と同様に、三井住友カード（VISAジャパン協会）・太平洋クラブ・東京放送の主催により[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認の女子プロゴルフトーナメントも1998年から開催された。男子の大会とは異なり、会場を固定せずに行われていたがわずか3回開催されただけで2000年をもって打ち切りとなった。2000年実績、賞金総額6000万円、優勝賞金1080万円\[39\]。
 
 本大会終了後の2001年は太平洋クラブ単独で大会名を『太平洋クラブレディースレーベンカップ』に変更して開催したが、その年限りで終了している\[40\]。
 
@@ -488,7 +488,7 @@
 <td><p>1999年</p></td>
 <td><p>安井純子[42]</p></td>
 <td><p>-6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p>ラ・ヴィスタゴルフリゾート</p></td>
 <td></td>
 </tr>
@@ -522,9 +522,9 @@
 
 1.
 2.  大会初期の1972年から1978年までは10月開催だった。
-3.  大会初期の1972年から1976年までは、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")の総武カントリークラブ総武コースで開催されていた。
+3.  大会初期の1972年から1976年までは、[千葉県](../Page/千葉県.md "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")の総武カントリークラブ総武コースで開催されていた。
 4.
-5.  旧住友銀行時代からの関係で過去には[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")製の車が贈呈されていたが、その後マツダが[フォードの傘下に入った事](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")（現在は資本関係は解消され、技術協力のみとなっている）によりBMWに変更された。
+5.  旧住友銀行時代からの関係で過去には[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")製の車が贈呈されていたが、その後マツダが[フォードの傘下に入った事](../Page/フォード・モーター.md "wikilink")（現在は資本関係は解消され、技術協力のみとなっている）によりBMWに変更された。
 6.
 7.  [11月「三井住友－」開催結論出ず／国内男子](http://www.sanspo.com/golf/news/20120508/jgt12050805010000-n1.html) - [サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")、2012年5月8日配信
 8.  [2016年大会要領](http://msvt-masters.jp/about.html) - 三井住友VISA太平洋マスターズ公式サイト、2016年11月10日閲覧

@@ -3,7 +3,7 @@
 
 『**NIPPONアイドル探偵団**』（にっぽんアイドルたんていだん）は、[1988年](../Page/1988年.md "wikilink")から発売されていた日本の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[名鑑](https://ja.wikipedia.org/wiki/名鑑 "wikilink")。ランキング形式を採っていた。
 
-雑誌『[すッぴん](https://ja.wikipedia.org/wiki/すっぴん_\(雑誌\) "wikilink")』などで毎月連載されていた『アイドル探偵団』の年間バージョンで、現在は携帯･パソコンのWEB上でも毎月のデータや情報を公開している。著者で、アイドル[評論家](../Page/評論家.md "wikilink")の[北川昌弘](https://ja.wikipedia.org/wiki/北川昌弘 "wikilink")を中心に関係者が選んだ独自のランキングとなっている。（興りは氏の立ち上げた「といれっと・ぺいぱあ」でのランキング）
+雑誌『[すッぴん](https://ja.wikipedia.org/wiki/すっぴん_\(雑誌\) "wikilink")』などで毎月連載されていた『アイドル探偵団』の年間バージョンで、現在は携帯･パソコンのWEB上でも毎月のデータや情報を公開している。著者で、アイドル[評論家](../Page/評論家.md "wikilink")の[北川昌弘](../Page/北川昌弘.md "wikilink")を中心に関係者が選んだ独自のランキングとなっている。（興りは氏の立ち上げた「といれっと・ぺいぱあ」でのランキング）
 
 ここで扱っているアイドルというのは、[歌手](../Page/歌手.md "wikilink")・[女優](../Page/俳優.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")・[スポーツ選手](https://ja.wikipedia.org/wiki/スポーツ選手 "wikilink")・[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")など様々なジャンルで活躍し、**メディアに登場している**女性のこと。
 
@@ -20,7 +20,7 @@
 
   - 1990年なし
   - 第3回 1991年 [鈴木保奈美](https://ja.wikipedia.org/wiki/鈴木保奈美 "wikilink")
-  - 第4回 1992年 [和久井映見](https://ja.wikipedia.org/wiki/和久井映見 "wikilink")
+  - 第4回 1992年 [和久井映見](../Page/和久井映見.md "wikilink")
   - 第5回 1993年 [牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")
   - 第6回 1994年 [内田有紀](../Page/内田有紀.md "wikilink")
   - 第7回 1995年 [常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")
@@ -42,14 +42,14 @@
 ### 第1回 1988年
 
   - [工藤静香](../Page/工藤静香.md "wikilink")
-  - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - [中山美穂](../Page/中山美穂.md "wikilink")
   - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
   - [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")
-  - [小川範子](https://ja.wikipedia.org/wiki/小川範子 "wikilink")
+  - [小川範子](../Page/小川範子.md "wikilink")
   - [後藤久美子](../Page/後藤久美子.md "wikilink")
   - 宮沢りえ
   - [石田ひかり](../Page/石田ひかり.md "wikilink")
-  - [富田靖子](https://ja.wikipedia.org/wiki/富田靖子 "wikilink")
+  - [富田靖子](../Page/富田靖子.md "wikilink")
 
 ### 第2回 1989年
 
@@ -93,7 +93,7 @@
   - 石田ひかり
   - 中山美穂
   - 和久井映見
-  - [細川ふみえ](https://ja.wikipedia.org/wiki/細川ふみえ "wikilink")
+  - [細川ふみえ](../Page/細川ふみえ.md "wikilink")
   - [石田ゆり子](../Page/石田ゆり子.md "wikilink")
   - [高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink")
   - 宮沢りえ
@@ -153,7 +153,7 @@
   - [奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")
   - 榎本加奈子
   - 酒井美紀
-  - [松本恵](https://ja.wikipedia.org/wiki/松本恵 "wikilink")（現:[松本莉緒](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")）
+  - [松本恵](https://ja.wikipedia.org/wiki/松本恵 "wikilink")（現:[松本莉緒](../Page/松本莉緒.md "wikilink")）
   - ともさかりえ
   - [遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")
   - [佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")
@@ -168,7 +168,7 @@
   - 木村佳乃
   - [稲森いずみ](https://ja.wikipedia.org/wiki/稲森いずみ "wikilink")
   - 中谷美紀
-  - [藤原紀香](https://ja.wikipedia.org/wiki/藤原紀香 "wikilink")
+  - [藤原紀香](../Page/藤原紀香.md "wikilink")
   - [松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")
 
 ### 第12回 2000年
@@ -203,7 +203,7 @@
   - 深田恭子
   - [鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")
   - 田中麗奈
-  - [星野真里](https://ja.wikipedia.org/wiki/星野真里 "wikilink")
+  - [星野真里](../Page/星野真里.md "wikilink")
   - 仲間由紀恵
   - [米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")
 

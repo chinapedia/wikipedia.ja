@@ -11,15 +11,15 @@ U字ロックは、U字型部品と棒状部品の[金属](../Page/金属.md "wi
 
 自転車の場合であれば、移動不可能な構造物とフレームとをU字ロックにより連結しての使用が前提となる。ホイールと連結する事も可能ではあるが、自転車の場合はホイールの取り外しが容易であり、車体そのものも運搬が可能な重量である事から、車輪に対して（特に前輪に対して）の使用では充分な防犯性は期待できない。
 
-原型は、[南京錠](https://ja.wikipedia.org/wiki/南京錠 "wikilink")とされている。大型化に伴い現在のD字ロックの形状となる。
+原型は、[南京錠](../Page/南京錠.md "wikilink")とされている。大型化に伴い現在のD字ロックの形状となる。
 
 ファイル:BicycleAmsterdamNederland.jpg|橋の欄干と自転車のフレームをU字ロックで連結した例 ファイル:StolenBike-FrontWheel.jpg|前輪にU字ロックを掛けた結果、前輪を残して盗まれた例
 
 ## 製品の多様化
 
-ロックを破壊する方法が[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")サイトを通じて広まり、必ずしも安全といえる用具ではなくなった。しかし、[窃盗](https://ja.wikipedia.org/wiki/窃盗 "wikilink")行為への抑止や犯行に要する時間を長引かせる目的においては、依然として効果をもつ防犯用具である。また、工具では破壊できない高硬度の金属を材質に使った製品や、振動を与えるとブザーが鳴るアラーム機能を搭載した製品、破壊に対抗する超硬度[鋼](../Page/鋼.md "wikilink")を用いた製品など多様化も進んでいる。
+ロックを破壊する方法が[インターネット](../Page/インターネット.md "wikilink")サイトを通じて広まり、必ずしも安全といえる用具ではなくなった。しかし、[窃盗](../Page/窃盗.md "wikilink")行為への抑止や犯行に要する時間を長引かせる目的においては、依然として効果をもつ防犯用具である。また、工具では破壊できない高硬度の金属を材質に使った製品や、振動を与えるとブザーが鳴るアラーム機能を搭載した製品、破壊に対抗する超硬度[鋼](../Page/鋼.md "wikilink")を用いた製品など多様化も進んでいる。
 
-ホイールではなく、[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")に掛ける小型のU字ロックも存在する。このタイプは[ブレーキローター](https://ja.wikipedia.org/wiki/ブレーキローター "wikilink")の軽量穴に掛けるため「ディスクロック」とも呼ばれる\[4\]。なお、ディスクロックには、ローターの放熱穴に通す専用設計がなされた極小型の特殊錠もあり、このタイプは形状的にもU字ロックとは呼ばれない\[5\]。
+ホイールではなく、[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")に掛ける小型のU字ロックも存在する。このタイプは[ブレーキローター](../Page/ブレーキローター.md "wikilink")の軽量穴に掛けるため「ディスクロック」とも呼ばれる\[4\]。なお、ディスクロックには、ローターの放熱穴に通す専用設計がなされた極小型の特殊錠もあり、このタイプは形状的にもU字ロックとは呼ばれない\[5\]。
 
 ## 脚注
 
@@ -27,10 +27,10 @@ U字ロックは、U字型部品と棒状部品の[金属](../Page/金属.md "wi
 
 ## 関連項目
 
-  - [自転車盗](https://ja.wikipedia.org/wiki/自転車盗 "wikilink")
+  - [自転車盗](../Page/自転車盗.md "wikilink")
   - [二輪車盗](https://ja.wikipedia.org/wiki/二輪車盗 "wikilink")
-  - [南京錠](https://ja.wikipedia.org/wiki/南京錠 "wikilink")
-  - [イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")
+  - [南京錠](../Page/南京錠.md "wikilink")
+  - [イモビライザー](../Page/イモビライザー.md "wikilink")
   - [ケーブルロック](https://ja.wikipedia.org/wiki/ケーブルロック "wikilink")（[Cable lock](https://ja.wikipedia.org/wiki/w:Cable_lock "wikilink")）
 
 [Category:オートバイ](https://ja.wikipedia.org/wiki/Category:オートバイ "wikilink") [Category:自転車用品](https://ja.wikipedia.org/wiki/Category:自転車用品 "wikilink") [Category:錠前](https://ja.wikipedia.org/wiki/Category:錠前 "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[DIAMOND WAVE](https://ja.wikipedia.org/wiki/DIAMOND_WAVE)から翻訳されています。
 
 
-『**DIAMOND WAVE**』（ダイアモンド・ウェーヴ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発売された[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の6作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**DIAMOND WAVE**』（ダイアモンド・ウェーヴ）は、[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発売された[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の6作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
-シングル曲「[Diamond Wave](https://ja.wikipedia.org/wiki/Diamond_Wave "wikilink")」、「[ベスト オブ ヒーロー](https://ja.wikipedia.org/wiki/ベスト_オブ_ヒーロー "wikilink")」、「[Growing of my heart](https://ja.wikipedia.org/wiki/Growing_of_my_heart "wikilink")」が収録されている。
+シングル曲「[Diamond Wave](../Page/Diamond_Wave.md "wikilink")」、「[ベスト オブ ヒーロー](../Page/ベスト_オブ_ヒーロー.md "wikilink")」、「[Growing of my heart](../Page/Growing_of_my_heart.md "wikilink")」が収録されている。
 
 ## 解説
 
@@ -11,14 +11,14 @@
   - 倉木としては初となる2種類の限定盤・DVD特典・期間限定[Blogなどの試みが行われた](../Page/ブログ.md "wikilink")。
   - 最初は[DVDが付いた](../Page/DVD-Video.md "wikilink")『初回限定盤』、[CDのみの](../Page/コンパクトディスク.md "wikilink")『通常盤』が発売された。その後[8月11日](../Page/8月11日.md "wikilink")に通常盤の限定仕様盤として、裏[ジャケットとブックレットが異なる](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")『通常盤LIMITED EDITION』が発売され、形態は3種類ある。
   - メインのジャケットとCDに収録される音源、デジパック仕様である点は3種類は全て共通。ただし裏ジャケットは全て異なっている。
-  - 期間限定Blogは**DIAMOND WEB**というタイトルで、通常版とシングル「[Diamond Wave](https://ja.wikipedia.org/wiki/Diamond_Wave "wikilink")」に記載されているパスワードが必要な裏Blogの2種類が存在した。共に倉木本人ではなくスタッフによって更新され、通常版では倉木の活動のニュース、裏Blogではアルバムの制作秘話などが紹介されていた。
+  - 期間限定Blogは**DIAMOND WEB**というタイトルで、通常版とシングル「[Diamond Wave](../Page/Diamond_Wave.md "wikilink")」に記載されているパスワードが必要な裏Blogの2種類が存在した。共に倉木本人ではなくスタッフによって更新され、通常版では倉木の活動のニュース、裏Blogではアルバムの制作秘話などが紹介されていた。
 
 ## 収録曲
 
 全作詞：倉木麻衣
 
-1.  **[Diamond Wave](https://ja.wikipedia.org/wiki/Diamond_Wave "wikilink")** – 4:55
-      - 作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+1.  **[Diamond Wave](../Page/Diamond_Wave.md "wikilink")** – 4:55
+      - 作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
         24thシングルであり、アルバム表題曲。ライブではタオルを使ったパフォーマンスが行われる。日本テレビ『スポーツうるぐす』テーマソング。
@@ -27,7 +27,7 @@
     <!-- end list -->
       -
         [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")風の作品。歌詞に自身の名前が登場する。
-3.  **[ベスト オブ ヒーロー](https://ja.wikipedia.org/wiki/ベスト_オブ_ヒーロー "wikilink")** – 4:14
+3.  **[ベスト オブ ヒーロー](../Page/ベスト_オブ_ヒーロー.md "wikilink")** – 4:14
       - 作曲・編曲：徳永暁人
     <!-- end list -->
       -
@@ -36,8 +36,8 @@
       - 作曲・編曲：[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")
     <!-- end list -->
       -
-        Julietとは「[ロミオとジュリエット](../Page/ロミオとジュリエット.md "wikilink")」のジュリエットのこと。[GARNET CROWの岡本仁志が作曲した楽曲は](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月リリースのシングル「[P.S♡MY SUNSHINE](https://ja.wikipedia.org/wiki/P.S_MY_SUNSHINE "wikilink")」以来2回目。
-5.  **[Growing of my heart](https://ja.wikipedia.org/wiki/Growing_of_my_heart "wikilink")** – 4:25
+        Julietとは「[ロミオとジュリエット](../Page/ロミオとジュリエット.md "wikilink")」のジュリエットのこと。[GARNET CROWの岡本仁志が作曲した楽曲は](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[2005年](../Page/2005年.md "wikilink")6月リリースのシングル「[P.S♡MY SUNSHINE](../Page/P.S_MY_SUNSHINE.md "wikilink")」以来2回目。
+5.  **[Growing of my heart](../Page/Growing_of_my_heart.md "wikilink")** – 4:25
       - 作曲：[大野愛果](../Page/大野愛果.md "wikilink")、編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
     <!-- end list -->
       -
@@ -56,7 +56,7 @@
       - 作曲：大野愛果、編曲：葉山たけし
     <!-- end list -->
       -
-        歌詞の一部には[百人一首](../Page/百人一首.md "wikilink")の1つ*「天つ風 雲のかよひ路 吹きとぢよ をとめの姿 しばしとどめむ（[僧正遍昭](https://ja.wikipedia.org/wiki/僧正遍昭 "wikilink")）」*と、[新古今集](https://ja.wikipedia.org/wiki/新古今集 "wikilink")に収録されている*「道のべに清水流るる柳かげしばしとてこそ立ちどまりつれ（[西行](../Page/西行.md "wikilink")法師）」*の2つの和歌が入っている。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」オープニングテーマ。
+        歌詞の一部には[百人一首](../Page/百人一首.md "wikilink")の1つ*「天つ風 雲のかよひ路 吹きとぢよ をとめの姿 しばしとどめむ（[僧正遍昭](https://ja.wikipedia.org/wiki/僧正遍昭 "wikilink")）」*と、[新古今集](https://ja.wikipedia.org/wiki/新古今集 "wikilink")に収録されている*「道のべに清水流るる柳かげしばしとてこそ立ちどまりつれ（[西行](../Page/西行.md "wikilink")法師）」*の2つの和歌が入っている。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」オープニングテーマ。
 9.  **今 君とここに** – 4:26
       - 作曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")、編曲：Day Track
 10. **Cherish the day** – 4:06
@@ -68,7 +68,7 @@
       - 作曲：大野愛果
     <!-- end list -->
       -
-        24thシングル「[Diamond Wave](https://ja.wikipedia.org/wiki/Diamond_Wave "wikilink")」の[カップリング曲である](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「SAFEST PLACE」をアレンジした曲。アカペラと倉木のコーラスを重ね合わせた作品。倉木は「50人の倉木麻衣が歌っている」と表現している。
+        24thシングル「[Diamond Wave](../Page/Diamond_Wave.md "wikilink")」の[カップリング曲である](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「SAFEST PLACE」をアレンジした曲。アカペラと倉木のコーラスを重ね合わせた作品。倉木は「50人の倉木麻衣が歌っている」と表現している。
 
 ## DVD収録内容
 

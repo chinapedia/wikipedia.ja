@@ -7,11 +7,11 @@
 
 ### 放送開始の経緯
 
-この時間枠で放送されていた「[極楽とんぼの吠え魂](../Page/極楽とんぼの吠え魂.md "wikilink")」が[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")の不祥事の責任をとる形で終了した為、秋[改編](../Page/改編.md "wikilink")までの[つなぎ番組](../Page/つなぎ番組.md "wikilink")としてスタートした。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")〜[9月](../Page/9月.md "wikilink")末まで放送された。「[JUNK](../Page/JUNK.md "wikilink")」と3時から放送している「[JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink")」を担当しているパーソナリティ（例外あり）が2組ずつ担当した。
+この時間枠で放送されていた「[極楽とんぼの吠え魂](../Page/極楽とんぼの吠え魂.md "wikilink")」が[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")の不祥事の責任をとる形で終了した為、秋[改編](../Page/改編.md "wikilink")までの[つなぎ番組](../Page/つなぎ番組.md "wikilink")としてスタートした。[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")〜[9月](../Page/9月.md "wikilink")末まで放送された。「[JUNK](../Page/JUNK.md "wikilink")」と3時から放送している「[JUNK2](../Page/JUNK2.md "wikilink")」を担当しているパーソナリティ（例外あり）が2組ずつ担当した。
 
 ### 番組内容
 
-放送時間は毎週[金曜日](../Page/金曜日.md "wikilink")の深夜25:00〜27:00で、原則[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。 毎回パーソナリティが違う為、ネタ募集のコーナー等は無い。[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から送られてくる質問に答えたり、パーソナリティ同士の昔話やプライベート話等を中心に放送していた。
+放送時間は毎週[金曜日](../Page/金曜日.md "wikilink")の深夜25:00〜27:00で、原則[生放送](../Page/生放送.md "wikilink")。 毎回パーソナリティが違う為、ネタ募集のコーナー等は無い。[リスナー](../Page/リスナー.md "wikilink")から送られてくる質問に答えたり、パーソナリティ同士の昔話やプライベート話等を中心に放送していた。
 
 ## 担当パーソナリティ
 
@@ -22,25 +22,25 @@
   - 2006年8月4日　[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink") / [スピードワゴン](../Page/スピードワゴン.md "wikilink")
       - スピードワゴンがまだ別のコンビの時、名古屋吉本に所属していた関係で、その時代から知り合い。
   - 2006年8月11日　[波田陽区](../Page/波田陽区.md "wikilink") / [ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")
-      - ビビる大木はJUNKとは無関係だが、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属の先輩後輩。また、「[ビビる大木のオールナイトニッポン](https://ja.wikipedia.org/wiki/ビビる大木のオールナイトニッポン "wikilink")」を担当していた[放送作家](../Page/放送作家.md "wikilink")がその後、「[波田陽区の中までテキーラ\!](https://ja.wikipedia.org/wiki/波田陽区の中までテキーラ! "wikilink")」をも担当した。他にも[オークラ](../Page/オークラ.md "wikilink")もいる。
-  - 2006年8月18日　[片桐仁](../Page/片桐仁.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")）と[本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")監督、[トータス松本](../Page/トータス松本.md "wikilink")（[ウルフルズ](../Page/ウルフルズ.md "wikilink")）、[Z3](https://ja.wikipedia.org/wiki/Z3 "wikilink")（ムロツヨシ、与座嘉秋、川岡大次郎）
-      - 片桐自身も出演した映画「[UDON](../Page/UDON.md "wikilink")」つながりによる。同作品の監督・[本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")と共演者のトータス松本、Z3
-  - 2006年8月25日　[カンニング竹山](https://ja.wikipedia.org/wiki/カンニング竹山 "wikilink") / アンタッチャブル [山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")
+      - ビビる大木はJUNKとは無関係だが、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属の先輩後輩。また、「[ビビる大木のオールナイトニッポン](../Page/ビビる大木のオールナイトニッポン.md "wikilink")」を担当していた[放送作家](../Page/放送作家.md "wikilink")がその後、「[波田陽区の中までテキーラ\!](https://ja.wikipedia.org/wiki/波田陽区の中までテキーラ! "wikilink")」をも担当した。他にも[オークラ](../Page/オークラ.md "wikilink")もいる。
+  - 2006年8月18日　[片桐仁](../Page/片桐仁.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")）と[本広克行](../Page/本広克行.md "wikilink")監督、[トータス松本](../Page/トータス松本.md "wikilink")（[ウルフルズ](../Page/ウルフルズ.md "wikilink")）、[Z3](https://ja.wikipedia.org/wiki/Z3 "wikilink")（ムロツヨシ、与座嘉秋、川岡大次郎）
+      - 片桐自身も出演した映画「[UDON](../Page/UDON.md "wikilink")」つながりによる。同作品の監督・[本広克行](../Page/本広克行.md "wikilink")と共演者のトータス松本、Z3
+  - 2006年8月25日　[カンニング竹山](../Page/カンニング竹山.md "wikilink") / アンタッチャブル [山崎弘也](../Page/山崎弘也.md "wikilink")
       - **スペシャルウィーク1週目**。プライベートでも仲の良い、カンニング竹山とアンタッチャブル山崎、“竹山崎”（竹山は2005年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")で[山崎邦正](https://ja.wikipedia.org/wiki/山崎邦正 "wikilink")と「竹山崎」というコンビを組んで出場しているが、これとは無関係）が、真面目に、適当に、送る120分。
   - 2006年9月1日　[爆笑問題](../Page/爆笑問題.md "wikilink") / [伊集院光](../Page/伊集院光.md "wikilink")
       - **スペシャルウィーク2週目**。JUNKでも最大級の人気を誇る番組同士が共演。爆笑問題は「検索ちゃん」に出演している関係で、午前1時から1時15分までラジオには登場せず。
   - 2006年9月8日　[笑い飯](../Page/笑い飯.md "wikilink") / [友近](../Page/友近.md "wikilink")
       - 大阪吉本の先輩・後輩。友近は「検索ちゃん」に出演していた関係で、午前1時から1時15分までラジオには登場せず。
-  - 2006年9月15日　[エレキコミック](https://ja.wikipedia.org/wiki/エレキコミック "wikilink") / [キャイ〜ン](../Page/キャイ〜ン.md "wikilink")
-      - キャイ〜ンは以前TBSラジオで「[ヤンマガ伝説キャイ〜ンDAあ゛〜ん](https://ja.wikipedia.org/wiki/ヤンマガ伝説キャイ〜ンDAあ゛〜ん "wikilink")」（[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")提供）のパーソナリティを務めていた。
-  - 2006年9月22日　[スピードワゴン](../Page/スピードワゴン.md "wikilink") / [タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")
-      - タカアンドトシは、2週間後から「火曜[JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink") [タカアンドトシのケチャケチャラジオ](https://ja.wikipedia.org/wiki/タカアンドトシのケチャケチャラジオ "wikilink")」が始まることが決まっていた。
-  - 2006年9月29日　[蛍原徹](../Page/蛍原徹.md "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")） / [柴田英嗣](https://ja.wikipedia.org/wiki/柴田英嗣 "wikilink") （[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）
+  - 2006年9月15日　[エレキコミック](../Page/エレキコミック.md "wikilink") / [キャイ〜ン](../Page/キャイ〜ン.md "wikilink")
+      - キャイ〜ンは以前TBSラジオで「[ヤンマガ伝説キャイ〜ンDAあ゛〜ん](../Page/ヤンマガ伝説キャイ〜ンDAあ゛〜ん.md "wikilink")」（[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")提供）のパーソナリティを務めていた。
+  - 2006年9月22日　[スピードワゴン](../Page/スピードワゴン.md "wikilink") / [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")
+      - タカアンドトシは、2週間後から「火曜[JUNK2](../Page/JUNK2.md "wikilink") [タカアンドトシのケチャケチャラジオ](https://ja.wikipedia.org/wiki/タカアンドトシのケチャケチャラジオ "wikilink")」が始まることが決まっていた。
+  - 2006年9月29日　[蛍原徹](../Page/蛍原徹.md "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")） / [柴田英嗣](../Page/柴田英嗣.md "wikilink") （[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）
       - 蛍原は、相方である宮迫が「検索ちゃん」に出演している関係で、午前1時から1時15分までラジオには登場せず。
 
 ## 番組コーナー
 
-基本的に番組オリジナルコーナーは無いが、2組のパーソナリティそれぞれが担当する番組（[JUNK](../Page/JUNK.md "wikilink")と[JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink")）の名物コーナーを披露しあう場合があった。（第1・2回放送）過去に放送して好評だったネタを再度使っている場合が多かった。
+基本的に番組オリジナルコーナーは無いが、2組のパーソナリティそれぞれが担当する番組（[JUNK](../Page/JUNK.md "wikilink")と[JUNK2](../Page/JUNK2.md "wikilink")）の名物コーナーを披露しあう場合があった。（第1・2回放送）過去に放送して好評だったネタを再度使っている場合が多かった。
 
 ## ポッドキャスト
 
@@ -48,15 +48,15 @@ JUNK、JUNK2では[ポッドキャスト配信を積極的に行っているが]
 
 ## エピソード
 
-  - 2006年7月28日、[太田プロ](https://ja.wikipedia.org/wiki/太田プロ "wikilink")預かりの女性お笑いコンビ、[麦芽](../Page/麦芽_\(お笑い\).md "wikilink")（[小出真保](https://ja.wikipedia.org/wiki/小出真保 "wikilink")、[鈴木奈都](https://ja.wikipedia.org/wiki/鈴木奈都 "wikilink")）が大物ゲストとして登場。プロダクションと正式に契約をしていない超新人コンビだが、ボケ担当の小出が『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』と『[アンタッチャブルのシカゴマンゴ](https://ja.wikipedia.org/wiki/アンタッチャブルのシカゴマンゴ "wikilink")』のADである中山と交際していることからコネで出演を果たす。
-  - 2006年8月4日、[スピードワゴン](../Page/スピードワゴン.md "wikilink")の[小沢一敬](https://ja.wikipedia.org/wiki/小沢一敬 "wikilink")が『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）で[熊澤枝里子](../Page/熊澤枝里子.md "wikilink")と、この日の日中にデート。ハニカミプランで「小沢が熊沢にラジオを通して告白する」とあったため、相方の[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")や[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")に邪魔をされながらも何とか実行した。
-  - 2006年8月11日、[JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink")の火曜を担当している[波田陽区](../Page/波田陽区.md "wikilink")と、[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の経験のある[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")が担当した。随所で大木が先輩風を吹かせ、波田が萎縮する場面もあった。終了15分前には同じ所属事務所の[ザブングルが出演して告知をして帰った](https://ja.wikipedia.org/wiki/ザブングル_\(お笑い\) "wikilink")。
+  - 2006年7月28日、[太田プロ](https://ja.wikipedia.org/wiki/太田プロ "wikilink")預かりの女性お笑いコンビ、[麦芽](../Page/麦芽_\(お笑い\).md "wikilink")（[小出真保](../Page/小出真保.md "wikilink")、[鈴木奈都](../Page/鈴木奈都.md "wikilink")）が大物ゲストとして登場。プロダクションと正式に契約をしていない超新人コンビだが、ボケ担当の小出が『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』と『[アンタッチャブルのシカゴマンゴ](../Page/アンタッチャブルのシカゴマンゴ.md "wikilink")』のADである中山と交際していることからコネで出演を果たす。
+  - 2006年8月4日、[スピードワゴン](../Page/スピードワゴン.md "wikilink")の[小沢一敬](../Page/小沢一敬.md "wikilink")が『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）で[熊澤枝里子](../Page/熊澤枝里子.md "wikilink")と、この日の日中にデート。ハニカミプランで「小沢が熊沢にラジオを通して告白する」とあったため、相方の[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")や[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")に邪魔をされながらも何とか実行した。
+  - 2006年8月11日、[JUNK2](../Page/JUNK2.md "wikilink")の火曜を担当している[波田陽区](../Page/波田陽区.md "wikilink")と、[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の経験のある[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")が担当した。随所で大木が先輩風を吹かせ、波田が萎縮する場面もあった。終了15分前には同じ所属事務所の[ザブングルが出演して告知をして帰った](https://ja.wikipedia.org/wiki/ザブングル_\(お笑い\) "wikilink")。
   - 2006年8月18日、[映画](../Page/映画.md "wikilink")『[UDON](../Page/UDON.md "wikilink")』の製作が[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")にもかかわらず、[TBSラジオで監督と出演者が映画の話題を中心に放送するという前代未聞の番組になった](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")。主演の[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")が番組に出演していない理由を、出演者たちは「多忙」、「体が弱いから」と様々に述べた。
-  - 2006年8月25日、[レイティング](../Page/レイティング.md "wikilink")（[聴取率](../Page/聴取率.md "wikilink")調査）週間だったため、「自分たちでいいのか？」と弱気な発言も聞かれた。しかし、冒頭から[カンニング竹山の下ネタを](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")[山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")が連発した。
+  - 2006年8月25日、[レイティング](../Page/レイティング.md "wikilink")（[聴取率](../Page/聴取率.md "wikilink")調査）週間だったため、「自分たちでいいのか？」と弱気な発言も聞かれた。しかし、冒頭から[カンニング竹山の下ネタを](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")[山崎弘也](../Page/山崎弘也.md "wikilink")が連発した。
   - 2006年9月1日、『[爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")』同様、録音による放送となった。[爆笑問題](../Page/爆笑問題.md "wikilink")が登場する1時15分までは、[伊集院光](../Page/伊集院光.md "wikilink")が一人で放送。爆笑問題が事務所移籍問題等で仕事が無かった時期の裏話を披露した。両者が大いに盛り上がり、当然ながら交流戦の中でリスナーからの注目度が最も高かった。今後スペシャルウィークで放送されることが予告されるが、いつになるかは不明。
   - 2006年9月8日、友近の得意なモノマネでの下ネタの話や3人が出会った当時の話などが放送された。ツッコミがいないので、トークはほぼボケ合戦になった。
   - 2006年9月15日、スポンサーが『[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』なのに[天野が](../Page/天野ひろゆき.md "wikilink")『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』の名前を言ってしまい、しどろもどろになる場面があった（昔キャイ〜ンが担当していたラジオ番組が、『週刊ヤングマガジン』の一社提供だったため話題になった）。内容は、キャイ〜ンのデビュー当時のエピソード、[ウドの熟女好き話](../Page/ウド鈴木.md "wikilink")、4人の初恋の話、天野が薦めるアニメ、漫画の話などといったものだった。エレキコミックが3時台のJUNK2にも引き続き出演するということもあって、キャイ〜ンもオープニングに少し出演した（エレキコミックがラジオブースに向かっている間は、[ラーメンズ](../Page/ラーメンズ.md "wikilink")の片桐が一人で担当した）。
   - 2006年9月29日、ゲストとして、[インパルスの堤下が出演した](https://ja.wikipedia.org/wiki/インパルス_\(お笑い\) "wikilink")。
-  - この「JUNK 交流戦スペシャル」の評判がよかったことを受け、ラジオ的なイベントを展開したかった[池田卓生](https://ja.wikipedia.org/wiki/池田卓生 "wikilink")が2008年秋時点でJUNKのパーソナリティとなっている8人を集めた座談会形式の企画「JUNK座談会スペシャル2008」を実施し、その模様を約2時間に収め期間限定にて有料配信を行っている（TBSラジオフリーマガジン「954press」2009年2月号より）。
+  - この「JUNK 交流戦スペシャル」の評判がよかったことを受け、ラジオ的なイベントを展開したかった[池田卓生](../Page/池田卓生.md "wikilink")が2008年秋時点でJUNKのパーソナリティとなっている8人を集めた座談会形式の企画「JUNK座談会スペシャル2008」を実施し、その模様を約2時間に収め期間限定にて有料配信を行っている（TBSラジオフリーマガジン「954press」2009年2月号より）。
 
 [Category:JUNK](https://ja.wikipedia.org/wiki/Category:JUNK "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

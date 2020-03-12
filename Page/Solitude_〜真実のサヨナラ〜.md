@@ -1,7 +1,7 @@
 > この記事は[Solitude ](https://ja.wikipedia.org/wiki/Solitude_)から翻訳されています。
 
 
-「**solitude 〜真実のサヨナラ〜**」（ソリチュード ほんとうのサヨナラ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**solitude 〜真実のサヨナラ〜**」（ソリチュード ほんとうのサヨナラ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -13,15 +13,15 @@
 
 ### 作詞曲のクレジット
 
-発売当初、表題曲の作詞・曲者の“K.Dino”が誰であるかは不明であったが、同年末から[2003年](../Page/2003年.md "wikilink")に掛けて行われた[コンサート](https://ja.wikipedia.org/wiki/演奏会 "wikilink")『KinKi Kids DOME F Concert 〜Fun Fan Forever〜』の[1月1日](../Page/1月1日.md "wikilink")公演にて、正体が[堂本光一](../Page/堂本光一.md "wikilink")であることが明かされた。また、この日は光一の誕生日でもある。
+発売当初、表題曲の作詞・曲者の“K.Dino”が誰であるかは不明であったが、同年末から[2003年](../Page/2003年.md "wikilink")に掛けて行われた[コンサート](../Page/演奏会.md "wikilink")『KinKi Kids DOME F Concert 〜Fun Fan Forever〜』の[1月1日](../Page/1月1日.md "wikilink")公演にて、正体が[堂本光一](../Page/堂本光一.md "wikilink")であることが明かされた。また、この日は光一の誕生日でもある。
 
-“K.Dino”の「Dino」とは、光一が没頭する[F1のチーム](../Page/フォーミュラ1.md "wikilink")・[フェラーリ](../Page/フェラーリ.md "wikilink")の創業者、[エンツォ・フェラーリ](../Page/エンツォ・フェラーリ.md "wikilink")の息子である[アルフレード・フェラーリ](https://ja.wikipedia.org/wiki/アルフレード・フェラーリ "wikilink")の[愛称](../Page/愛称.md "wikilink")“ディーノ”から取られている。本人曰く、「[イニシャル](https://ja.wikipedia.org/wiki/イニシャル "wikilink")の“K.D”だと堂本光一だと判ってしまうので、Dの部分をフェラーリ創業者の息子の愛称を取ってDinoとした」とのこと。更に「名前はすごく適当に付けた」そうである。
+“K.Dino”の「Dino」とは、光一が没頭する[F1のチーム](../Page/フォーミュラ1.md "wikilink")・[フェラーリ](../Page/フェラーリ.md "wikilink")の創業者、[エンツォ・フェラーリ](../Page/エンツォ・フェラーリ.md "wikilink")の息子である[アルフレード・フェラーリ](../Page/アルフレード・フェラーリ.md "wikilink")の[愛称](../Page/愛称.md "wikilink")“ディーノ”から取られている。本人曰く、「[イニシャル](../Page/イニシャル.md "wikilink")の“K.D”だと堂本光一だと判ってしまうので、Dの部分をフェラーリ創業者の息子の愛称を取ってDinoとした」とのこと。更に「名前はすごく適当に付けた」そうである。
 
 また、作詞作曲のクレジットに本名を載せなかったのは、「本人が作ったものだと、ファンは思い入れを強くして聞いてしまうだろうし、それ以外の人には偏見を持たれることもある。この曲は、先入観無しで聞いて欲しかった」というのが理由である。そのため、雑誌等のインタビューでも、この曲について聞かれるときのコメントには非常に苦労したそうである。
 
 ## チャート成績
 
-[オリコン週間ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週21.4万枚を売り上げ、初登場1位を獲得した。CD累計売上は32.8万枚（オリコン調べ）を記録した\[1\]。
+[オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初週21.4万枚を売り上げ、初登場1位を獲得した。CD累計売上は32.8万枚（オリコン調べ）を記録した\[1\]。
 
 ## 収録曲
 
@@ -30,7 +30,7 @@
 1.  **solitude 〜真実のサヨナラ〜**
       -
         （作詞・作曲：[K.Dino](../Page/堂本光一.md "wikilink") / 編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")）
-        [堂本光一](../Page/堂本光一.md "wikilink")出演の[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")『[リモート](https://ja.wikipedia.org/wiki/リモート#テレビドラマ "wikilink")』主題歌。
+        [堂本光一](../Page/堂本光一.md "wikilink")出演の[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[リモート](https://ja.wikipedia.org/wiki/リモート#テレビドラマ "wikilink")』主題歌。
         今作以前に発表された2人の共作の楽曲は「[好きになってく 愛してく](https://ja.wikipedia.org/wiki/好きになってく_愛してく/KinKiのやる気まんまんソング "wikilink")」と「[愛のかたまり](https://ja.wikipedia.org/wiki/Hey!_みんな元気かい?#初回盤_収録曲 "wikilink")」の2曲があるが、どちらか1人が作詞作曲した楽曲はこれが初である<ref group="注">作詞のみでは[B albumに](https://ja.wikipedia.org/wiki/B_album#収録曲 "wikilink")[堂本剛](../Page/堂本剛.md "wikilink")が作詞をした「ずっと抱きしめたい」が収録されている[B album](http://www.johnnys-net.jp/pageid=discoDetail&dataId=593) - Johnny's net また、今作の表題曲が収録されている[F albumにこちらも剛がKinKi](https://ja.wikipedia.org/wiki/F_album#収録曲 "wikilink") Kidsの楽曲としては初めて作詞作曲した「ひらひら」が収録されている[F album](http://www.johnnys-net.jp/page?id=discoDetail&dataId=588)
 
 `- Johnny's net`</ref>`。また、イントロが存在せずいきなり歌いだしに入る点、曲の終わりがフェードアウトする点のどちらもシングルA面では唯一の楽曲である`\[2\]`。`
@@ -57,8 +57,8 @@
 ## 収録アルバム
 
   - **solitude 〜真実のサヨナラ〜**
-      - [F album](https://ja.wikipedia.org/wiki/F_album "wikilink")
-      - [KinKi Single Selection II](https://ja.wikipedia.org/wiki/KinKi_Single_Selection_II "wikilink")
+      - [F album](../Page/F_album.md "wikilink")
+      - [KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")
       - [The BEST](https://ja.wikipedia.org/wiki/The_BEST_\(KinKi_Kidsのアルバム\) "wikilink")
 
 ## 脚注
@@ -78,4 +78,4 @@
 [Category:楽曲_そ](https://ja.wikipedia.org/wiki/Category:楽曲_そ "wikilink") [Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:堂本光一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:堂本光一が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:日本テレビ土曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ土曜ドラマの主題歌 "wikilink")
 
 1.  [KinKi Kids、デビュー時の“苦難”乗り越えて受賞\!](http://www.oricon.co.jp/news/22611/full/) オリコン 2015年12月25日閲覧
-2.  [`F``   ``albumには曲がカットアウトで終わるバージョンが収録されている`](https://ja.wikipedia.org/wiki/F_album "wikilink")`。`
+2.  [`F``   ``albumには曲がカットアウトで終わるバージョンが収録されている`](../Page/F_album.md "wikilink")`。`

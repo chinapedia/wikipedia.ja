@@ -1,17 +1,17 @@
 > この記事は[DIMM](https://ja.wikipedia.org/wiki/DIMM)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Kingston_KVR266X64C25-256_with_Nanya_NT5DS32M8AT-7K.jpg "wikilink") **DIMM**（Dual Inline Memory Module、ディム）は、複数の[DRAMチップを](../Page/Dynamic_Random_Access_Memory.md "wikilink")[プリント基板](../Page/プリント基板.md "wikilink")上に搭載したメモリ[モジュール](../Page/モジュール.md "wikilink")のことを指し、[コンピュータ](../Page/コンピュータ.md "wikilink")の[主記憶](https://ja.wikipedia.org/wiki/主記憶 "wikilink")として利用される。また、そのピン配置や電気的特性を規定したDIMM[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")のこと。従来の[SIMM](../Page/SIMM.md "wikilink")(Single Inline Memory Module)では表裏の対向する2つの端子に同一の[信号](https://ja.wikipedia.org/wiki/信号 "wikilink")が出ているのに対して、DIMMでは異なる信号が出ていることからDIMMと呼ばれる。2007年現在、DIMMと言った場合、多くの[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[ワークステーション](../Page/ワークステーション.md "wikilink")で使用可能な[SDRAM](https://ja.wikipedia.org/wiki/SDRAM "wikilink")を搭載したものを指す。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Kingston_KVR266X64C25-256_with_Nanya_NT5DS32M8AT-7K.jpg "wikilink") **DIMM**（Dual Inline Memory Module、ディム）は、複数の[DRAMチップを](../Page/Dynamic_Random_Access_Memory.md "wikilink")[プリント基板](../Page/プリント基板.md "wikilink")上に搭載したメモリ[モジュール](../Page/モジュール.md "wikilink")のことを指し、[コンピュータ](../Page/コンピュータ.md "wikilink")の[主記憶](https://ja.wikipedia.org/wiki/主記憶 "wikilink")として利用される。また、そのピン配置や電気的特性を規定したDIMM[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")のこと。従来の[SIMM](../Page/SIMM.md "wikilink")(Single Inline Memory Module)では表裏の対向する2つの端子に同一の[信号](https://ja.wikipedia.org/wiki/信号 "wikilink")が出ているのに対して、DIMMでは異なる信号が出ていることからDIMMと呼ばれる。2007年現在、DIMMと言った場合、多くの[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[ワークステーション](../Page/ワークステーション.md "wikilink")で使用可能な[SDRAM](../Page/SDRAM.md "wikilink")を搭載したものを指す。
 
 ## 規格
 
 DIMM規格は[JEDEC](https://ja.wikipedia.org/wiki/JEDEC "wikilink")(Joint Electron Device Engineering Council)で[標準化](../Page/標準化.md "wikilink")が行われており、搭載されるSDRAMチップの種類毎に多種の規格が存在する。また、「DIMM」という名称は、メモリ基板を挿す[スロット](https://ja.wikipedia.org/wiki/スロット "wikilink")（[ソケット](https://ja.wikipedia.org/wiki/ソケット "wikilink")）のことを指している場合もあるが厳密には誤用であり、これらは「DIMMスロット」や「DIMMソケット」と呼ぶのが正確である。
 
-基本的にDIMM[インタフェースは](../Page/インタフェース_\(情報技術\).md "wikilink")[アドレス](https://ja.wikipedia.org/wiki/メモリアドレス "wikilink")、[データ](../Page/データ.md "wikilink")、制御信号からなっており、一般的に[PC用は](../Page/パーソナルコンピュータ.md "wikilink")64bitデータのDIMMが使用されるが、高信頼性が求められる[サーバ](../Page/サーバ.md "wikilink")では[ECC](../Page/誤り検出訂正.md "wikilink") 8bitを付加した72bitデータのDIMMが使用される。
+基本的にDIMM[インタフェースは](../Page/インタフェース_\(情報技術\).md "wikilink")[アドレス](../Page/メモリアドレス.md "wikilink")、[データ](../Page/データ.md "wikilink")、制御信号からなっており、一般的に[PC用は](../Page/パーソナルコンピュータ.md "wikilink")64bitデータのDIMMが使用されるが、高信頼性が求められる[サーバ](../Page/サーバ.md "wikilink")では[ECC](../Page/誤り検出訂正.md "wikilink") 8bitを付加した72bitデータのDIMMが使用される。
 
 ## 種類と互換性
 
-DIMMの形態は大きく分けて**Unbuffered DIMM (UDIMM)**、**Buffered (Registered) DIMM**、**Fully Buffered DIMM (FB-DIMM)** の3種類が存在し、これらはインタフェースが異なり、規格上の[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")は無い。また、各DIMM内でも[DDR2や](../Page/DDR2_SDRAM.md "wikilink")[DDR3といった違いやECC付き](../Page/DDR3_SDRAM.md "wikilink")／無し、SDRAMの動作速度（アクセス・タイミング）の上限値や動作電圧範囲、などによって細かな規格に分かれており、同一種別間では概ね上位互換性が保たれている。実効[転送速度](https://ja.wikipedia.org/wiki/転送速度 "wikilink")と接続可能なモジュール数はトレードオフの関係にある。
+DIMMの形態は大きく分けて**Unbuffered DIMM (UDIMM)**、**Buffered (Registered) DIMM**、**Fully Buffered DIMM (FB-DIMM)** の3種類が存在し、これらはインタフェースが異なり、規格上の[互換性](../Page/互換性.md "wikilink")は無い。また、各DIMM内でも[DDR2や](../Page/DDR2_SDRAM.md "wikilink")[DDR3といった違いやECC付き](../Page/DDR3_SDRAM.md "wikilink")／無し、SDRAMの動作速度（アクセス・タイミング）の上限値や動作電圧範囲、などによって細かな規格に分かれており、同一種別間では概ね上位互換性が保たれている。実効[転送速度](https://ja.wikipedia.org/wiki/転送速度 "wikilink")と接続可能なモジュール数はトレードオフの関係にある。
 
 ### Unbuffered DIMM
 
@@ -21,15 +21,15 @@ DIMMの形態は大きく分けて**Unbuffered DIMM (UDIMM)**、**Buffered (Regi
 
 ### Buffered DIMM
 
-アドレス信号と制御信号を、DIMM基板上のレジスタード・[バッファ](https://ja.wikipedia.org/wiki/バッファ "wikilink") (Registered buffer) と呼ばれるICで一旦受けて整形増幅してから、各SDRAMチップに分配するDIMM規格である。データ信号はバッファされない。Registered DIMMとも呼ばれる。
+アドレス信号と制御信号を、DIMM基板上のレジスタード・[バッファ](../Page/バッファ.md "wikilink") (Registered buffer) と呼ばれるICで一旦受けて整形増幅してから、各SDRAMチップに分配するDIMM規格である。データ信号はバッファされない。Registered DIMMとも呼ばれる。
 
-バッファの存在により、アドレス信号線と制御信号線の電気的負荷は1モジュール当り1ICだけの負荷となり、1つのチャンネル当り多くのモジュールが接続可能となる。数GBから数十GBといった主記憶容量を必要とする[サーバ](../Page/サーバ.md "wikilink")に向いている。なお、一旦バッファで受けることから、Unbuffered DIMMと[アクセス](https://ja.wikipedia.org/wiki/アクセス "wikilink")タイミングが異なる。例えばリード(READ)の際は、実際にSDRAMチップへ通知されるアドレス、制御信号がバッファにより1[クロック](../Page/クロック.md "wikilink")遅れることから、見かけ上DIMMからのデータの出力がUnbuffered DIMMと比べて1クロック遅くなる。
+バッファの存在により、アドレス信号線と制御信号線の電気的負荷は1モジュール当り1ICだけの負荷となり、1つのチャンネル当り多くのモジュールが接続可能となる。数GBから数十GBといった主記憶容量を必要とする[サーバ](../Page/サーバ.md "wikilink")に向いている。なお、一旦バッファで受けることから、Unbuffered DIMMと[アクセス](../Page/アクセス.md "wikilink")タイミングが異なる。例えばリード(READ)の際は、実際にSDRAMチップへ通知されるアドレス、制御信号がバッファにより1[クロック](../Page/クロック.md "wikilink")遅れることから、見かけ上DIMMからのデータの出力がUnbuffered DIMMと比べて1クロック遅くなる。
 
 DDR2, DDR3 とSDRAMチップが高速化してきたため、バッファされていないデータ信号線の過重な負荷や[ノイズ](../Page/ノイズ.md "wikilink")耐性の不足が顕在化しており、高速動作させるためにはあまり多くのDIMMは接続できなくなっている。
 
 ### Fully Buffered DIMM
 
-FB-DIMM(Fully Buffered DIMM)はアドレス、データ、制御信号の全てを一旦DIMM基板上の[AMB](https://ja.wikipedia.org/wiki/AMB "wikilink")(high-speed Advanced Memory Buffer)と呼ばれるバッファ内蔵の専用コントローラ・チップで受ける形態のDIMMである。CPU／チップセット側とは、[PCI Express](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")(PCIe)に似た少ピンの高速[シリアル・インタフェースで接続される](../Page/シリアルポート.md "wikilink")。従来のDIMMはスタブのあるバス接続によって複数のモジュールが共有接続されていたが、FB-DIMMでは隣り同士がPoint-to-Point接続によって拡張される[デイジーチェーン](https://ja.wikipedia.org/wiki/デイジーチェーン "wikilink")による接続方式となっている。
+FB-DIMM(Fully Buffered DIMM)はアドレス、データ、制御信号の全てを一旦DIMM基板上の[AMB](https://ja.wikipedia.org/wiki/AMB "wikilink")(high-speed Advanced Memory Buffer)と呼ばれるバッファ内蔵の専用コントローラ・チップで受ける形態のDIMMである。CPU／チップセット側とは、[PCI Express](../Page/PCI_Express.md "wikilink")(PCIe)に似た少ピンの高速[シリアル・インタフェースで接続される](../Page/シリアルポート.md "wikilink")。従来のDIMMはスタブのあるバス接続によって複数のモジュールが共有接続されていたが、FB-DIMMでは隣り同士がPoint-to-Point接続によって拡張される[デイジーチェーン](https://ja.wikipedia.org/wiki/デイジーチェーン "wikilink")による接続方式となっている。
 
 従来のDIMMに比べチップセット（またはCPU）側の信号が減らされており、アドレス、制御、3.2 - 4.0GHzで駆動される上り用14レーン／下り用10レーンの24組の高速データ信号線（合計48本\[1\]）を含む全69端子で構成される\[2\]。各信号線の伝送動作などはPCIeに近いが\[3\]、通常はPCIeよりも短い伝送距離でもあり、各信号は[8b/10b](https://ja.wikipedia.org/wiki/8b/10b "wikilink")方式のようなクロックは重畳されていない。サーバ機などでの実使用環境では、ライトに比べてリードの比率が圧倒的に高いため、ライト方向とリード方向で信号本数が異なる非対称になっている\[4\]。
 

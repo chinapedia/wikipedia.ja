@@ -5,7 +5,7 @@
 
 身長146cm、体重46kg。
 
-本名、生年月日、出身地、血液型は非公開。[アルシオン](../Page/アルシオン.md "wikilink")のライセンスナンバー59。正体不明のマスク娘は自称18歳。かつて[LLPWに所属していた和田部美穂の親友を名乗っていた](https://ja.wikipedia.org/wiki/LLPW-X "wikilink")\[1\]。
+本名、生年月日、出身地、血液型は非公開。[アルシオン](../Page/アルシオン.md "wikilink")のライセンスナンバー59。正体不明のマスク娘は自称18歳。かつて[LLPWに所属していた和田部美穂の親友を名乗っていた](../Page/LLPW-X.md "wikilink")\[1\]。
 
 アルシオン→[AtoZ](../Page/AtoZ.md "wikilink")→フリー→[M'sと団体を移籍し](https://ja.wikipedia.org/wiki/M's_Style "wikilink")、リングネームをBaby-AからBaby-Mに変えた。
 
@@ -13,7 +13,7 @@
 
   - [2001年](../Page/2001年.md "wikilink")
 
-:\* [11月25日](../Page/11月25日.md "wikilink")、千葉・東京ベイNKホールにおいて、対[PIKO](https://ja.wikipedia.org/wiki/コマンド・ボリショイ "wikilink")、[PIKA](https://ja.wikipedia.org/wiki/PIKA "wikilink")組にてBaby-Aのリングネームで[アルシオン](../Page/アルシオン.md "wikilink")からデビュー。デビュー戦のパートナーは[チャパリータASARI](https://ja.wikipedia.org/wiki/チャパリータASARI "wikilink")であった。
+:\* [11月25日](../Page/11月25日.md "wikilink")、千葉・東京ベイNKホールにおいて、対[PIKO](../Page/コマンド・ボリショイ.md "wikilink")、[PIKA](https://ja.wikipedia.org/wiki/PIKA "wikilink")組にてBaby-Aのリングネームで[アルシオン](../Page/アルシオン.md "wikilink")からデビュー。デビュー戦のパートナーは[チャパリータASARI](../Page/チャパリータASARI.md "wikilink")であった。
 
   - [2002年](../Page/2002年.md "wikilink")
 
@@ -23,7 +23,7 @@
 
 :\* [8月25日](../Page/8月25日.md "wikilink")、[東京流通センター](https://ja.wikipedia.org/wiki/東京流通センター "wikilink")アールンホールにおいて、[noki-Aと対戦](../Page/AKINO_\(プロレスラー\).md "wikilink")。敗れる。
 
-:\* [9月12日](../Page/9月12日.md "wikilink")、東京・後楽園ホールにおいて、[救世忍者乱丸](https://ja.wikipedia.org/wiki/救世忍者乱丸 "wikilink")と対戦。敗れる。
+:\* [9月12日](../Page/9月12日.md "wikilink")、東京・後楽園ホールにおいて、[救世忍者乱丸](../Page/救世忍者乱丸.md "wikilink")と対戦。敗れる。
 
 :\* [10月7日](../Page/10月7日.md "wikilink")、東京・後楽園ホールにおいて、[ポリスウ〜マン](https://ja.wikipedia.org/wiki/ポリスウ〜マン "wikilink")と対戦。敗れる。
 
@@ -37,17 +37,17 @@
 
   - [2004年](../Page/2004年.md "wikilink")
 
-:\* [3月28日](../Page/3月28日.md "wikilink")、東京・後楽園ホールにおいて、[賀川照子](https://ja.wikipedia.org/wiki/賀川照子 "wikilink")と組んで、[MARU](https://ja.wikipedia.org/wiki/MARU "wikilink")、[斎藤啓子](https://ja.wikipedia.org/wiki/斎藤啓子 "wikilink")組と対戦。賀川がMARUに敗れる。
+:\* [3月28日](../Page/3月28日.md "wikilink")、東京・後楽園ホールにおいて、[賀川照子](../Page/賀川照子.md "wikilink")と組んで、[MARU](../Page/MARU.md "wikilink")、[斎藤啓子](https://ja.wikipedia.org/wiki/斎藤啓子 "wikilink")組と対戦。賀川がMARUに敗れる。
 
-:\* [4月4日](../Page/4月4日.md "wikilink")、東京・ディファ有明において、[倉垣翼](https://ja.wikipedia.org/wiki/倉垣翼 "wikilink")と対戦。敗れる。
+:\* [4月4日](../Page/4月4日.md "wikilink")、東京・ディファ有明において、[倉垣翼](../Page/倉垣翼.md "wikilink")と対戦。敗れる。
 
-:\* [6月8日](../Page/6月8日.md "wikilink")、東京・北沢タウンホールにおいて、[吉田万里子](https://ja.wikipedia.org/wiki/吉田万里子_\(プロレスラー\) "wikilink")、[大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")と組んで、魔界魔女1号、魔界魔女2号、魔界魔女3号組と対戦。Baby組が勝利。
+:\* [6月8日](../Page/6月8日.md "wikilink")、東京・北沢タウンホールにおいて、[吉田万里子](../Page/吉田万里子_\(プロレスラー\).md "wikilink")、[大向美智子](../Page/大向美智子.md "wikilink")と組んで、魔界魔女1号、魔界魔女2号、魔界魔女3号組と対戦。Baby組が勝利。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
-:\* [2月11日](../Page/2月11日.md "wikilink")、「EX格闘美」において、Baby-M、[風香](../Page/風香.md "wikilink")、[木村ネネ](https://ja.wikipedia.org/wiki/木村ネネ "wikilink")組対[ダイナマイト・関西](../Page/ダイナマイト・関西.md "wikilink")の3対1変則マッチで、最後はスプラッシュ・マウンテンで敗れる。
+:\* [2月11日](../Page/2月11日.md "wikilink")、「EX格闘美」において、Baby-M、[風香](../Page/風香.md "wikilink")、[木村ネネ](../Page/木村ネネ.md "wikilink")組対[ダイナマイト・関西](../Page/ダイナマイト・関西.md "wikilink")の3対1変則マッチで、最後はスプラッシュ・マウンテンで敗れる。
 
-:\* [5月20日](../Page/5月20日.md "wikilink")、東京・新木場1stRINGにおいて、[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")と組んで[栗原あゆみ](https://ja.wikipedia.org/wiki/栗原あゆみ "wikilink")、[木村響子](../Page/木村響子.md "wikilink")組と対戦。アジャが栗原に勝つ。
+:\* [5月20日](../Page/5月20日.md "wikilink")、東京・新木場1stRINGにおいて、[アジャ・コング](../Page/アジャ・コング.md "wikilink")と組んで[栗原あゆみ](../Page/栗原あゆみ.md "wikilink")、[木村響子](../Page/木村響子.md "wikilink")組と対戦。アジャが栗原に勝つ。
 
 :\* [5月21日](../Page/5月21日.md "wikilink")、バトルスフィア東京（666-Triplesix-Vol.8怨霊十執念記念興行）において、バトルロイヤルに出場。
 
@@ -57,9 +57,9 @@
 
 :\* [7月17日](../Page/7月17日.md "wikilink")、格闘美～Festa～特別企画において、チャイナ服のコスプレを披露。同大会、救世忍者乱丸、闘牛・空と組んで、MARU、斎藤啓子、渋谷シュウ組と対戦。空がMARUからタックルで勝利。
 
-:\* [8月7日](../Page/8月7日.md "wikilink")、M's Style「Mab～夢を支配Ⅴ～」のワンデータッグトーナメントに[ダイナマイト・関西](../Page/ダイナマイト・関西.md "wikilink")と組み出場。1回戦の相手の[植松寿絵](https://ja.wikipedia.org/wiki/植松寿絵 "wikilink")、[輝優優](https://ja.wikipedia.org/wiki/輝優優 "wikilink")組の場外リングアウトによって負けてしまう。
+:\* [8月7日](../Page/8月7日.md "wikilink")、M's Style「Mab～夢を支配Ⅴ～」のワンデータッグトーナメントに[ダイナマイト・関西](../Page/ダイナマイト・関西.md "wikilink")と組み出場。1回戦の相手の[植松寿絵](../Page/植松寿絵.md "wikilink")、[輝優優](../Page/輝優優.md "wikilink")組の場外リングアウトによって負けてしまう。
 
-:\* [8月26日](../Page/8月26日.md "wikilink")、後楽園ホール（LLPW 華激ルネッサンス2005）において、[立野記代](../Page/立野記代.md "wikilink")25周年記念27人参加バトルロイヤルに出場。最後、Baby-M、[ジャンボ堀](https://ja.wikipedia.org/wiki/ジャンボ堀 "wikilink")、立野記代の3選手が残り、Babyが堀を丸め込んでフォール勝ちしたが、立野に丸め返されて負ける。
+:\* [8月26日](../Page/8月26日.md "wikilink")、後楽園ホール（LLPW 華激ルネッサンス2005）において、[立野記代](../Page/立野記代.md "wikilink")25周年記念27人参加バトルロイヤルに出場。最後、Baby-M、[ジャンボ堀](../Page/ジャンボ堀.md "wikilink")、立野記代の3選手が残り、Babyが堀を丸め込んでフォール勝ちしたが、立野に丸め返されて負ける。
 
 :\* [8月28日](../Page/8月28日.md "wikilink")、格闘美～Festa～において、全員参加バトルロイヤルに出場。
 
@@ -69,9 +69,9 @@
 
 :\* [12月6日](../Page/12月6日.md "wikilink")、後楽園ホール（LLPW 華激レジェンド2005）において、[ジャガー横田](https://ja.wikipedia.org/wiki/ジャガー横田 "wikilink")と組んで、[ハーレー斉藤](../Page/ハーレー斉藤.md "wikilink")、[井上貴子組と対戦](../Page/井上貴子_\(プロレスラー\).md "wikilink")。ハーレーのフィッシャーマンズバスターで敗れる。
 
-:\* [12月23日](../Page/12月23日.md "wikilink")、後楽園ホールにおいて、Baby-M、[MIKAMI](../Page/MIKAMI.md "wikilink")組対[GAMI](https://ja.wikipedia.org/wiki/GAMI "wikilink")、[ディック東郷](https://ja.wikipedia.org/wiki/ディック東郷 "wikilink")組のカードでBaby-MがGAMIからフォール勝ちして引退する。現役生活は4年間であった。
+:\* [12月23日](../Page/12月23日.md "wikilink")、後楽園ホールにおいて、Baby-M、[MIKAMI](../Page/MIKAMI.md "wikilink")組対[GAMI](../Page/GAMI.md "wikilink")、[ディック東郷](../Page/ディック東郷.md "wikilink")組のカードでBaby-MがGAMIからフォール勝ちして引退する。現役生活は4年間であった。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 :\* [9月12日](../Page/9月12日.md "wikilink")、東京・新木場1stRING（未来メモリアル～For The Future～）において、受け付けを担当した。
 
@@ -93,11 +93,11 @@
   - 格闘美\&EXPERT 2005.Jun～Mar「Baby-M、風香、木村ネネ対ダイナマイト・関西」（JDスター）
   - 格闘美Fasta「全員参加バトルロイヤルほか」（JDスター）
   - M's Style NEW STYLE SYSTEM「引退試合ほか」（QUEST）
-  - [Lady'sゴングVol](https://ja.wikipedia.org/wiki/RINGSTARS "wikilink").85 SPECIAL DVD「レディース・ゴング　オリジナルムービー内「M」本動画版（プライベート映像）」（[日本スポーツ出版社](https://ja.wikipedia.org/wiki/日本スポーツ出版社 "wikilink")）
+  - [Lady'sゴングVol](https://ja.wikipedia.org/wiki/RINGSTARS "wikilink").85 SPECIAL DVD「レディース・ゴング　オリジナルムービー内「M」本動画版（プライベート映像）」（[日本スポーツ出版社](../Page/日本スポーツ出版社.md "wikilink")）
   - PREFECT ARSION～アルシオンの6年間の軌跡～「Baby-M、チャパリータASARI組対PIKO、PIKA組ほか」（QUEST）
 
 ## 脚注
 
 [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:アルシオンに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:アルシオンに所属したプロレスラー "wikilink") [Category:覆面レスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラー "wikilink")
 
-1.  [栗原あゆみ七周年](http://ameblo.jp/egoist5/entry-11225421249.html) [大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")オフィシャルブログ「EgoistのEGO日記」 2012年4月17日
+1.  [栗原あゆみ七周年](http://ameblo.jp/egoist5/entry-11225421249.html) [大向美智子](../Page/大向美智子.md "wikilink")オフィシャルブログ「EgoistのEGO日記」 2012年4月17日

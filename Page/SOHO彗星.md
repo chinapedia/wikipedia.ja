@@ -12,7 +12,7 @@ SOHO彗星についての総論は
 
 ## SOHO周期彗星
 
-通常、[周期彗星](https://ja.wikipedia.org/wiki/周期彗星 "wikilink")は2回目の[回帰](https://ja.wikipedia.org/wiki/回帰 "wikilink")が確認された段階で番号登録されるが、SOHO彗星に関しては似た軌道を持つ彗星が多くLASCOの観測精度も悪いため、4回目の回帰まで待つことになっている。
+通常、[周期彗星](../Page/周期彗星.md "wikilink")は2回目の[回帰](https://ja.wikipedia.org/wiki/回帰 "wikilink")が確認された段階で番号登録されるが、SOHO彗星に関しては似た軌道を持つ彗星が多くLASCOの観測精度も悪いため、4回目の回帰まで待つことになっている。
 
 ### 番号登録周期彗星
 
@@ -1480,7 +1480,7 @@ SOHO彗星についての総論は
   - C/2004 H6 (SWAN)
   - C/2004 V13 (SWAN)
   - [C/2005 P3 (SWAN)](https://ja.wikipedia.org/wiki/SWAN彗星_\(C/2005_P3\) "wikilink")
-  - [P/2005 T4 (SWAN)](https://ja.wikipedia.org/wiki/SWAN彗星_\(P/2005_T4\) "wikilink") - [短周期彗星](https://ja.wikipedia.org/wiki/短周期彗星 "wikilink")
+  - [P/2005 T4 (SWAN)](https://ja.wikipedia.org/wiki/SWAN彗星_\(P/2005_T4\) "wikilink") - [短周期彗星](../Page/短周期彗星.md "wikilink")
   - C/2006 M4 (SWAN) - 4等級まで増光した肉眼彗星。
   - C/2011 Q4 (SWAN)
   - C/2012 E2 (SWAN)

@@ -1,14 +1,14 @@
 > この記事は[WHIP](https://ja.wikipedia.org/wiki/WHIP)から翻訳されています。
 
 
-**WHIP**（Walks plus Hits per Inning Pitched、「投球回あたり与四球・被安打数合計」）とは、[野球](../Page/野球.md "wikilink")における[投手](../Page/投手.md "wikilink")の成績評価項目の1つで、1[投球回](https://ja.wikipedia.org/wiki/投球回 "wikilink")あたり何人の走者を出したかを表す数値。与[四球](../Page/四球.md "wikilink")数と被[安打](https://ja.wikipedia.org/wiki/安打 "wikilink")数を足した数値を[投球回](https://ja.wikipedia.org/wiki/投球回 "wikilink")で割ることで求められる（[死球](../Page/死球.md "wikilink")や[失策](https://ja.wikipedia.org/wiki/失策 "wikilink")など、安打や四球以外による出塁は数えない）。[米大リーグや](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[台湾プロ野球では](../Page/中華職業棒球大聯盟.md "wikilink")、WHIPは[防御率](../Page/防御率.md "wikilink")などとともに公式に記録・公開されている指標である（[日本プロ野球](../Page/日本プロ野球.md "wikilink")では非採用）。一方で、WHIPは他の多くの統計の副産物であるとして、投手を評価する際に基本的に無視されるべきであるという指摘もある\[1\]。
+**WHIP**（Walks plus Hits per Inning Pitched、「投球回あたり与四球・被安打数合計」）とは、[野球](../Page/野球.md "wikilink")における[投手](../Page/投手.md "wikilink")の成績評価項目の1つで、1[投球回](../Page/投球回.md "wikilink")あたり何人の走者を出したかを表す数値。与[四球](../Page/四球.md "wikilink")数と被[安打](https://ja.wikipedia.org/wiki/安打 "wikilink")数を足した数値を[投球回](../Page/投球回.md "wikilink")で割ることで求められる（[死球](../Page/死球.md "wikilink")や[失策](../Page/失策.md "wikilink")など、安打や四球以外による出塁は数えない）。[米大リーグや](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[台湾プロ野球では](../Page/中華職業棒球大聯盟.md "wikilink")、WHIPは[防御率](../Page/防御率.md "wikilink")などとともに公式に記録・公開されている指標である（[日本プロ野球](../Page/日本プロ野球.md "wikilink")では非採用）。一方で、WHIPは他の多くの統計の副産物であるとして、投手を評価する際に基本的に無視されるべきであるという指摘もある\[1\]。
 
 ## 概要
 
   -
     **WHIP = (与四球 + 被安打) ÷ 投球回**
 
-一般に[先発投手](https://ja.wikipedia.org/wiki/先発投手 "wikilink")であれば1.00未満なら球界を代表する[エース](../Page/エース.md "wikilink")とされ、1.20未満ならエース級、逆に1.40を上回ると問題であると言われる。また、ショートリリーフの投手の場合、投球イニングが少なく、ワンポイントとしてイニングの途中で交替することが多いため、自分の残した走者を後続投手が返すか否かで[防御率](../Page/防御率.md "wikilink")が大きく変わってくる。そのため、WHIPはショートリリーフの投手の評価により適している\[2\]。
+一般に[先発投手](../Page/先発投手.md "wikilink")であれば1.00未満なら球界を代表する[エース](../Page/エース.md "wikilink")とされ、1.20未満ならエース級、逆に1.40を上回ると問題であると言われる。また、ショートリリーフの投手の場合、投球イニングが少なく、ワンポイントとしてイニングの途中で交替することが多いため、自分の残した走者を後続投手が返すか否かで[防御率](../Page/防御率.md "wikilink")が大きく変わってくる。そのため、WHIPはショートリリーフの投手の評価により適している\[2\]。
 
 ### 問題点
 
@@ -16,9 +16,9 @@
 
 ### 記録
 
-[日本球界においては](../Page/日本プロ野球.md "wikilink")、WHIPは公式記録となっていない。任意に集計したシーズン記録では、[景浦將](https://ja.wikipedia.org/wiki/景浦將 "wikilink")（[大阪](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")）が1リーグ時代の[1936年](../Page/1936年.md "wikilink")秋季に記録した0.72が最高である2リーグ制後では、[村山実](../Page/村山実.md "wikilink")（[阪神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")）が[1959年](../Page/1959年.md "wikilink")に記録した0.748が最高である。なお、村山は通算WHIPの[NPB記録](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（0.95）も持っている（通算2000投球回以上）。
+[日本球界においては](../Page/日本プロ野球.md "wikilink")、WHIPは公式記録となっていない。任意に集計したシーズン記録では、[景浦將](../Page/景浦將.md "wikilink")（[大阪](../Page/阪神タイガース.md "wikilink")）が1リーグ時代の[1936年](../Page/1936年.md "wikilink")秋季に記録した0.72が最高である2リーグ制後では、[村山実](../Page/村山実.md "wikilink")（[阪神](../Page/阪神タイガース.md "wikilink")）が[1959年](../Page/1959年.md "wikilink")に記録した0.748が最高である。なお、村山は通算WHIPの[NPB記録](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（0.95）も持っている（通算2000投球回以上）。
 
-アメリカの[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")や台湾の[中華職業棒球大聯盟](../Page/中華職業棒球大聯盟.md "wikilink")などでは公式記録となっている。メジャーリーグのシーズン記録は[ペドロ・マルティネス](https://ja.wikipedia.org/wiki/ペドロ・マルティネス "wikilink")（[レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")）が[2000年](../Page/2000年.md "wikilink")に記録した0.74である（規定投球回数以上）。
+アメリカの[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")や台湾の[中華職業棒球大聯盟](../Page/中華職業棒球大聯盟.md "wikilink")などでは公式記録となっている。メジャーリーグのシーズン記録は[ペドロ・マルティネス](../Page/ペドロ・マルティネス.md "wikilink")（[レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")）が[2000年](../Page/2000年.md "wikilink")に記録した0.74である（規定投球回数以上）。
 
 ## 評価基準
 
@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [野球の各種記録](https://ja.wikipedia.org/wiki/野球の各種記録 "wikilink")
+  - [野球の各種記録](../Page/野球の各種記録.md "wikilink")
 
 [Category:ピッチング](https://ja.wikipedia.org/wiki/Category:ピッチング "wikilink") [Category:頭字語](https://ja.wikipedia.org/wiki/Category:頭字語 "wikilink")
 

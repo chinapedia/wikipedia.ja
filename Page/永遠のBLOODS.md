@@ -1,7 +1,7 @@
 > この記事は[BLOODS](https://ja.wikipedia.org/wiki/BLOODS)から翻訳されています。
 
 
-「**永遠のBLOODS**」（えいえんのブラッズ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**永遠のBLOODS**」（えいえんのブラッズ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 ## チャート成績
 
-[オリコン週間ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週24.5万枚を売り上げ、初登場1位を獲得した。CD累計売上は36.2万枚（オリコン調べ）を記録した\[1\]。
+[オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初週24.5万枚を売り上げ、初登場1位を獲得した。CD累計売上は36.2万枚（オリコン調べ）を記録した\[1\]。
 
 ## 収録曲
 
@@ -17,12 +17,12 @@
 
 1.  **永遠のBLOODS**
       -
-        （作詞：[浅田信一](../Page/浅田信一.md "wikilink") / 作曲：[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink") / 編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink") / ストリングスアレンジ：[村山達哉](https://ja.wikipedia.org/wiki/村山達哉 "wikilink")）
-        [堂本光一](../Page/堂本光一.md "wikilink")出演の[日本コカ・コーラ](../Page/コカ・コーラ.md "wikilink")『No Reason\! Coca-Cola 2003』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        （作詞：[浅田信一](../Page/浅田信一.md "wikilink") / 作曲：[堂島孝平](../Page/堂島孝平.md "wikilink") / 編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink") / ストリングスアレンジ：[村山達哉](https://ja.wikipedia.org/wiki/村山達哉 "wikilink")）
+        [堂本光一](../Page/堂本光一.md "wikilink")出演の[日本コカ・コーラ](../Page/コカ・コーラ.md "wikilink")『No Reason\! Coca-Cola 2003』[CMソング](../Page/コマーシャルソング.md "wikilink")。
         出版者：ジャニーズ出版
 2.  **Funky Party**
       -
-        （作詞：[Satomi](../Page/Satomi.md "wikilink") / 作曲：[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink") / 編曲：[柿崎洋一郎](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")）
+        （作詞：[Satomi](../Page/Satomi.md "wikilink") / 作曲：[久保田利伸](../Page/久保田利伸.md "wikilink") / 編曲：[柿崎洋一郎](../Page/柿崎洋一郎.md "wikilink")）
         作曲を担当した久保田は後に38枚目シングル「[The Red Light](https://ja.wikipedia.org/wiki/The_Red_Light "wikilink")」を提供した。\[2\]
         出版者：ジャニーズ出版
 3.  **永遠のBLOODS (Backing Track)**
@@ -42,7 +42,7 @@
   - 永遠のBLOODS
     ・[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")([Keyboards](https://ja.wikipedia.org/wiki/Keyboards "wikilink"))
     ・[林部直樹](../Page/林部直樹.md "wikilink")([Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink"))
-    ・[種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink")([Bass](https://ja.wikipedia.org/wiki/Bass "wikilink"))
+    ・[種子田健](../Page/種子田健.md "wikilink")([Bass](https://ja.wikipedia.org/wiki/Bass "wikilink"))
     ・河村徹([Drums](https://ja.wikipedia.org/wiki/Drums "wikilink"))
     ・村山/桐山ストリングス([Strings](https://ja.wikipedia.org/wiki/Strings "wikilink"))
     ・田中耕作、[KinKi Kids](../Page/KinKi_Kids.md "wikilink")([Backing Vocals](https://ja.wikipedia.org/wiki/コーラス "wikilink"))
@@ -51,7 +51,7 @@
 
   - **永遠のBLOODS**
       - [G album -24/7-](https://ja.wikipedia.org/wiki/G_album_-24/7- "wikilink") - シングルとは異なるバージョンで収録されている。
-      - [KinKi Single Selection II](https://ja.wikipedia.org/wiki/KinKi_Single_Selection_II "wikilink")
+      - [KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")
       - [The BEST](https://ja.wikipedia.org/wiki/The_BEST_\(KinKi_Kidsのアルバム\) "wikilink")
 
 ## 脚注

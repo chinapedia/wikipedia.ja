@@ -1,7 +1,7 @@
 > この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
 
 
-**TOKYO温度**（とうきょうおんど）は、株式会社[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")〜[8月31日](../Page/8月31日.md "wikilink")まで実施した[サポーター参加型企画である](https://ja.wikipedia.org/wiki/ウェザーニューズのサポーター参加型企画 "wikilink")。
+**TOKYO温度**（とうきょうおんど）は、株式会社[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")が[2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")〜[8月31日](../Page/8月31日.md "wikilink")まで実施した[サポーター参加型企画である](https://ja.wikipedia.org/wiki/ウェザーニューズのサポーター参加型企画 "wikilink")。
 
 [2007年](../Page/2007年.md "wikilink")度は、**東京感測**（とうきょうかんそく）と名称を変えて、企画を行っている。
 

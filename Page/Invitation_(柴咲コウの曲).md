@@ -23,7 +23,7 @@
         （作詞：柴咲コウ 作曲：[藤谷一郎](https://ja.wikipedia.org/wiki/藤谷一郎 "wikilink") 編曲：[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")）
 3.  **シフォンブルーのカーテン**
       -
-        （作詞：柴咲コウ 作曲：Jin Nakamura 編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+        （作詞：柴咲コウ 作曲：Jin Nakamura 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
 4.  **invitation （Backing Track）**
       -
         （作曲：Jin Nakamura 編曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink")）
@@ -60,4 +60,4 @@
 
 [Category:柴咲コウの楽曲](https://ja.wikipedia.org/wiki/Category:柴咲コウの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:Jin_Nakamuraが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Jin_Nakamuraが制作した楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
-1.  [「invitationだね〜沖縄でね」](https://twitter.com/ko_shibasaki/status/610492849151324160) - Twitter 柴咲のコメント付きリツイート。元ツイートは[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")社長で、柴咲コウの初代マネージャー藤下良司理事長。
+1.  [「invitationだね〜沖縄でね」](https://twitter.com/ko_shibasaki/status/610492849151324160) - Twitter 柴咲のコメント付きリツイート。元ツイートは[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")社長で、柴咲コウの初代マネージャー藤下良司理事長。

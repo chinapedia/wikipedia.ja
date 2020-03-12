@@ -1,7 +1,7 @@
 > この記事は[BEST first things](https://ja.wikipedia.org/wiki/BEST_first_things)から翻訳されています。
 
 
-『**BEST 〜first things〜**』（ベスト ファーストシングス）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**BEST 〜first things〜**』（ベスト ファーストシングス）は、[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 解説
 
@@ -35,7 +35,7 @@
 4.  **[COLOR OF SOUL](../Page/COLOR_OF_SOUL.md "wikilink")**
       -
         3rdシングル
-5.  **[So Into You](https://ja.wikipedia.org/wiki/So_Into_You "wikilink")**
+5.  **[So Into You](../Page/So_Into_You.md "wikilink")**
       -
         4thシングル
 6.  **[love across the ocean](https://ja.wikipedia.org/wiki/love_across_the_ocean "wikilink")**

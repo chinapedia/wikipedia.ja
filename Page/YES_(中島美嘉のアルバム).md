@@ -1,16 +1,16 @@
 > この記事は[YES \(\)](https://ja.wikipedia.org/wiki/YES_\(\))から翻訳されています。
 
 
-『**YES**』（イエス）は、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の4枚目のオリジナル・フルアルバム。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。
+『**YES**』（イエス）は、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の4枚目のオリジナル・フルアルバム。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。
 
 ## 概要
 
-  - 2005年3月発売の前作『[MUSIC](https://ja.wikipedia.org/wiki/MUSIC_\(中島美嘉のアルバム\) "wikilink")』の後、ベストアルバム『[BEST](https://ja.wikipedia.org/wiki/BEST_\(中島美嘉のアルバム\) "wikilink")』やNANA starring MIKA NAKASHIMA名義での『[THE END](../Page/THE_END_\(NANA_starring_MIKA_NAKASHIMAのアルバム\).md "wikilink")』を経て、2年ぶりのオリジナル・アルバムとなった。
+  - 2005年3月発売の前作『[MUSIC](../Page/MUSIC_\(中島美嘉のアルバム\).md "wikilink")』の後、ベストアルバム『[BEST](../Page/BEST_\(中島美嘉のアルバム\).md "wikilink")』やNANA starring MIKA NAKASHIMA名義での『[THE END](../Page/THE_END_\(NANA_starring_MIKA_NAKASHIMAのアルバム\).md "wikilink")』を経て、2年ぶりのオリジナル・アルバムとなった。
   - [シングル](../Page/シングル.md "wikilink")「[素直なまま](https://ja.wikipedia.org/wiki/素直なまま "wikilink")」が同時発売され、このアルバムにも収録されている。
-  - 先行シングル「CRY NO MORE」「ALL HANDS TOGETHER」「MY SUGAR CAT」「見えない星」に加え、シングルのカップリング曲「BLACK & BLUE」、「WHAT A WONDERFUL WORLD」（[ルイ・アームストロング](../Page/ルイ・アームストロング.md "wikilink")のカヴァー）、「I LOVE YOU」（[尾崎豊](https://ja.wikipedia.org/wiki/尾崎豊 "wikilink")のカヴァー）が収録されている。
+  - 先行シングル「CRY NO MORE」「ALL HANDS TOGETHER」「MY SUGAR CAT」「見えない星」に加え、シングルのカップリング曲「BLACK & BLUE」、「WHAT A WONDERFUL WORLD」（[ルイ・アームストロング](../Page/ルイ・アームストロング.md "wikilink")のカヴァー）、「I LOVE YOU」（[尾崎豊](../Page/尾崎豊.md "wikilink")のカヴァー）が収録されている。
   - 上記シングルの合間に発売されたNANA starring MIKA NAKASHIMA名義の「[一色](https://ja.wikipedia.org/wiki/一色_\(中島美嘉の曲\) "wikilink")」は未収録となった。また「MY SUGAR CAT」のカップリング曲「恋しくて」、「素直なまま」のカップリング曲「FEVER」は未収録となった。
-  - 初回限定盤には中島美嘉としては初めてDVDが付属する。6曲の[ビデオクリップに加え](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")「WHAT A WONDERFUL WORLD」のライブ映像が収録される。シングル曲のうち「素直なまま」のビデオクリップは収録されていない。
-  - [フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")4夜連続ドラマ『[翼の折れた天使たち](https://ja.wikipedia.org/wiki/翼の折れた天使たち "wikilink")』（2007年[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink") - [3月1日](../Page/3月1日.md "wikilink")放送）で、アルバム収録曲「汚れた花」「JOY」「THE DIVIDING LINE」が挿入歌として使用された。
+  - 初回限定盤には中島美嘉としては初めてDVDが付属する。6曲の[ビデオクリップに加え](../Page/ミュージック・ビデオ.md "wikilink")「WHAT A WONDERFUL WORLD」のライブ映像が収録される。シングル曲のうち「素直なまま」のビデオクリップは収録されていない。
+  - [フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")4夜連続ドラマ『[翼の折れた天使たち](../Page/翼の折れた天使たち.md "wikilink")』（2007年[2月26日](../Page/2月26日.md "wikilink") - [3月1日](../Page/3月1日.md "wikilink")放送）で、アルバム収録曲「汚れた花」「JOY」「THE DIVIDING LINE」が挿入歌として使用された。
   - 2007年4月から7月に全国ツアーが開催された。初回限定盤購入者はツアーの追加公演の特別先行予約が可能となる特典があった。
 
 ## 収録曲
@@ -18,11 +18,11 @@
   - CD
     {|class=wikitable
 
-\! \!曲名 \!作詞者 \!作曲者 \!編曲者 \!時間 |- |01 |**[I LOVE YOU（Album Ver.）](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(尾崎豊の曲\) "wikilink")** |colspan=2|
+\! \!曲名 \!作詞者 \!作曲者 \!編曲者 \!時間 |- |01 |**[I LOVE YOU（Album Ver.）](../Page/I_LOVE_YOU_\(尾崎豊の曲\).md "wikilink")** |colspan=2|
 
 <center>
 
-[尾崎豊](https://ja.wikipedia.org/wiki/尾崎豊 "wikilink")
+[尾崎豊](../Page/尾崎豊.md "wikilink")
 
 </center>
 
@@ -34,11 +34,11 @@
 
 </center>
 
-|4:22 |- |02 |**[見えない星](https://ja.wikipedia.org/wiki/見えない星 "wikilink")** |colspan=2|
+|4:22 |- |02 |**[見えない星](../Page/見えない星.md "wikilink")** |colspan=2|
 
 <center>
 
-[長瀬弘樹](https://ja.wikipedia.org/wiki/長瀬弘樹 "wikilink")
+[長瀬弘樹](../Page/長瀬弘樹.md "wikilink")
 
 </center>
 
@@ -46,7 +46,7 @@
 
 <center>
 
-[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
 
 </center>
 
@@ -54,7 +54,7 @@
 
 <center>
 
-[RYOJI](https://ja.wikipedia.org/wiki/Ryoji "wikilink")
+[RYOJI](../Page/Ryoji.md "wikilink")
 
 </center>
 
@@ -62,7 +62,7 @@
 
 <center>
 
-[YANAGIMAN](https://ja.wikipedia.org/wiki/YANAGIMAN "wikilink")
+[YANAGIMAN](../Page/YANAGIMAN.md "wikilink")
 
 </center>
 
@@ -70,7 +70,7 @@
 
 <center>
 
-[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")
+[康珍化](../Page/康珍化.md "wikilink")
 
 </center>
 
@@ -86,7 +86,7 @@ Lensei
 
 <center>
 
-[河野伸](https://ja.wikipedia.org/wiki/河野伸 "wikilink")
+[河野伸](../Page/河野伸.md "wikilink")
 
 </center>
 
@@ -127,7 +127,7 @@ SOUL OF SOUTH
 
 <center>
 
-[岡野泰也](https://ja.wikipedia.org/wiki/岡野泰也 "wikilink")
+[岡野泰也](../Page/岡野泰也.md "wikilink")
 
 </center>
 
@@ -216,7 +216,7 @@ COLDFEET
 
 <center>
 
-[五島良子](https://ja.wikipedia.org/wiki/五島良子 "wikilink")
+[五島良子](../Page/五島良子.md "wikilink")
 
 </center>
 
@@ -256,7 +256,7 @@ COLDFEET
 
 <center>
 
-[Gajin](https://ja.wikipedia.org/wiki/Gajin "wikilink")
+[Gajin](../Page/Gajin.md "wikilink")
 
 </center>
 
@@ -272,7 +272,7 @@ COLDFEET
 
 <center>
 
-[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")
+[宮沢和史](../Page/宮沢和史.md "wikilink")
 
 </center>
 
@@ -292,7 +292,7 @@ COLDFEET
 
 </center>
 
-|6:20 |- |14 |**[WHAT A WONDERFUL WORLD](https://ja.wikipedia.org/wiki/この素晴らしき世界 "wikilink")** |colspan=2|
+|6:20 |- |14 |**[WHAT A WONDERFUL WORLD](../Page/この素晴らしき世界.md "wikilink")** |colspan=2|
 
 <center>
 
@@ -318,18 +318,18 @@ Dr. kyOn
 
 ## タイアップ
 
-| 曲名                   | タイアップ                                                                                                                                                                                 |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| I LOVE YOU           | [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") 「[Tanto CUSTOM](https://ja.wikipedia.org/wiki/ダイハツ・タント "wikilink")」 CMソング                                                       |
-| 見えない星                | [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[ハケンの品格](https://ja.wikipedia.org/wiki/ハケンの品格 "wikilink")』 主題歌                                                                            |
-| 素直なまま                | [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「春のキャンペーン『桜の約束』篇」CMソング                                                                                                       |
-| CRY NO MORE          | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBSアニメ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+ "wikilink")』エンディングテーマ |
-| DANCE WITH THE DEVIL | [カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")「KATE」CMソング                                                                                                                |
-| BLACK & BLUE         |                                                                                                                                                                                       |
-| MY SUGAR CAT         |                                                                                                                                                                                       |
-| JOY                  | [フジテレビ系テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[翼の折れた天使たち](https://ja.wikipedia.org/wiki/翼の折れた天使たち#2007年版 "wikilink")』挿入歌                                          |
-| THE DIVIDING LINE    |                                                                                                                                                                                       |
-| 汚れた花                 |                                                                                                                                                                                       |
+| 曲名                   | タイアップ                                                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| I LOVE YOU           | [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") 「[Tanto CUSTOM](../Page/ダイハツ・タント.md "wikilink")」 CMソング                                    |
+| 見えない星                | [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[ハケンの品格](../Page/ハケンの品格.md "wikilink")』 主題歌                                                         |
+| 素直なまま                | [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「春のキャンペーン『桜の約束』篇」CMソング                                                                 |
+| CRY NO MORE          | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBSアニメ](../Page/TBSテレビ.md "wikilink")『[BLOOD+](../Page/BLOOD+.md "wikilink")』エンディングテーマ |
+| DANCE WITH THE DEVIL | [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「KATE」CMソング                                                                                             |
+| BLACK & BLUE         |                                                                                                                                                 |
+| MY SUGAR CAT         |                                                                                                                                                 |
+| JOY                  | [フジテレビ系テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[翼の折れた天使たち](https://ja.wikipedia.org/wiki/翼の折れた天使たち#2007年版 "wikilink")』挿入歌    |
+| THE DIVIDING LINE    |                                                                                                                                                 |
+| 汚れた花                 |                                                                                                                                                 |
 
 ## 外部リンク
 

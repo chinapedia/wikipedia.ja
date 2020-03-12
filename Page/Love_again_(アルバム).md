@@ -13,7 +13,7 @@
 
 ミキシングするときのイメージは「ボーカルを前面に出さず、3人がそこに並んでいる」感じを出すようにした\[5\]。
 
-ノークレジットだが、音色作りにMARCが参加している。MARCは「完全分業制の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")から、共同作業の[バンドへと一歩踏み込めた](../Page/バンド_\(音楽\).md "wikilink")」と語っている\[6\]。
+ノークレジットだが、音色作りにMARCが参加している。MARCは「完全分業制の[音楽ユニット](../Page/音楽ユニット.md "wikilink")から、共同作業の[バンドへと一歩踏み込めた](../Page/バンド_\(音楽\).md "wikilink")」と語っている\[6\]。
 
 アルバムのための曲として、MARCは「G9」という楽曲を制作した。内容は「[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")の様なイントロで始まり、途中で[オアシスの様な調子になり](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[ニルヴァーナの雰囲気で終わる](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")」展開だったが、収録されなかった\[7\]。
 
@@ -63,7 +63,7 @@
 11. **[Wanderin' Destiny](../Page/Wanderin'_Destiny.md "wikilink")**
       -
         11枚目のシングル
-        [TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[青い鳥](https://ja.wikipedia.org/wiki/青い鳥_\(テレビドラマ\) "wikilink")」主題歌
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[青い鳥](../Page/青い鳥_\(テレビドラマ\).md "wikilink")」主題歌
         内容がシングル収録と多少異なり小室のコーラスやシーケンスが追加されている。一部では\[album version\]と表記されている。
         シングル盤より落ち込み過ぎないようにアレンジされた\[22\]。
 12. **creatures**

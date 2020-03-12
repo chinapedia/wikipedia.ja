@@ -1,11 +1,11 @@
 > この記事は[GB2](https://ja.wikipedia.org/wiki/GB2)から翻訳されています。
 
 
-『**ボンバーマンGB2**』は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](https://ja.wikipedia.org/wiki/ボンバーマンシリーズ "wikilink")第3作目。
+『**ボンバーマンGB2**』は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](../Page/ボンバーマンシリーズ.md "wikilink")第3作目。
 
 欧米では前作が『WARIO BLAST』として発売されたため、本作は「2」表記の無い『**BOMBERMAN GB**』として発売された。
 
-本作は、1996年7月21日に発売されたゲームボーイ用ソフト『[ボンバーマンコレクション](https://ja.wikipedia.org/wiki/ボンバーマンコレクション "wikilink")』にて、『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』と『[ボンバーマンGB](../Page/ボンバーマンGB.md "wikilink")』と共に再録されている。
+本作は、1996年7月21日に発売されたゲームボーイ用ソフト『[ボンバーマンコレクション](../Page/ボンバーマンコレクション.md "wikilink")』にて、『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』と『[ボンバーマンGB](../Page/ボンバーマンGB.md "wikilink")』と共に再録されている。
 
 ## プロローグ
 
@@ -80,7 +80,7 @@
 
 ## バトルモード
 
-[スーパーゲームボーイ](https://ja.wikipedia.org/wiki/スーパーゲームボーイ "wikilink")対応で4人同時対戦ができる。尚、ゲームボーイでも[パスワード](https://ja.wikipedia.org/wiki/パスワード "wikilink")を『5656』と入力すれば対戦が可能（相手はCOMのみ）。ステージとその中身は以下の通り。
+[スーパーゲームボーイ](../Page/スーパーゲームボーイ.md "wikilink")対応で4人同時対戦ができる。尚、ゲームボーイでも[パスワード](../Page/パスワード.md "wikilink")を『5656』と入力すれば対戦が可能（相手はCOMのみ）。ステージとその中身は以下の通り。
 
   - ステージ1
     特に何も仕掛けのないステージ。

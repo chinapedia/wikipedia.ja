@@ -1,7 +1,7 @@
 > この記事は[HIROKO TANIYAMA \'70S](https://ja.wikipedia.org/wiki/HIROKO_TANIYAMA_\'70S)から翻訳されています。
 
 
-『**HIROKO TANIYAMA '70S**』（ヒロコ タニヤマ セブンティーズ）は、[谷山浩子](../Page/谷山浩子.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**HIROKO TANIYAMA '70S**』（ヒロコ タニヤマ セブンティーズ）は、[谷山浩子](../Page/谷山浩子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 年代別コレクションシリーズの第1弾で、本作では谷山がキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）で2回目のデビューを果たした[1975年](../Page/1975年.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")までの[1970年代](../Page/1970年代.md "wikilink")にリリースされた曲の中から選曲されている。
 
@@ -31,6 +31,6 @@
 
   - 作詞: [谷山浩子](../Page/谷山浩子.md "wikilink")（2を除く全曲）、泉明子（2）
   - 作曲: 谷山浩子（全曲）
-  - 編曲: [萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")（1）、[ジャン・ムージィ](https://ja.wikipedia.org/wiki/ジャン・ムージィ "wikilink")（2,12）、[クニ河内](https://ja.wikipedia.org/wiki/クニ河内 "wikilink")・[戸塚修](https://ja.wikipedia.org/wiki/戸塚修 "wikilink")（3）、[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")（4）、[小野崎孝輔](https://ja.wikipedia.org/wiki/小野崎孝輔 "wikilink")（5）、谷山浩子（6,10）、[ジーノ・メスコリ](https://ja.wikipedia.org/wiki/ジーノ・メスコリ "wikilink")（7）、[福井竣](https://ja.wikipedia.org/wiki/福井竣 "wikilink")（8）、[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")（9）、[山川恵津子](https://ja.wikipedia.org/wiki/山川恵津子 "wikilink")（11）
+  - 編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")（1）、[ジャン・ムージィ](https://ja.wikipedia.org/wiki/ジャン・ムージィ "wikilink")（2,12）、[クニ河内](../Page/クニ河内.md "wikilink")・[戸塚修](../Page/戸塚修.md "wikilink")（3）、[船山基紀](../Page/船山基紀.md "wikilink")（4）、[小野崎孝輔](https://ja.wikipedia.org/wiki/小野崎孝輔 "wikilink")（5）、谷山浩子（6,10）、[ジーノ・メスコリ](https://ja.wikipedia.org/wiki/ジーノ・メスコリ "wikilink")（7）、[福井竣](https://ja.wikipedia.org/wiki/福井竣 "wikilink")（8）、[瀬尾一三](../Page/瀬尾一三.md "wikilink")（9）、[山川恵津子](../Page/山川恵津子.md "wikilink")（11）
 
 [Category:谷山浩子のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:谷山浩子のベスト・アルバム "wikilink") [Category:1999年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のベスト・アルバム "wikilink")

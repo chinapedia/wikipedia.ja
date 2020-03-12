@@ -1,7 +1,7 @@
 > この記事は[Sugar\&Spice](https://ja.wikipedia.org/wiki/Sugar\&Spice)から翻訳されています。
 
 
-**Sugar\&Spice**（シュガーアンドスパイス）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[三田に本拠を構える](https://ja.wikipedia.org/wiki/三田_\(東京都港区\) "wikilink")[モデル事務所](https://ja.wikipedia.org/wiki/モデル事務所 "wikilink")及び[芸能事務所](../Page/芸能事務所.md "wikilink")である。
+**Sugar\&Spice**（シュガーアンドスパイス）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[三田に本拠を構える](../Page/三田_\(東京都港区\).md "wikilink")[モデル事務所](https://ja.wikipedia.org/wiki/モデル事務所 "wikilink")及び[芸能事務所](../Page/芸能事務所.md "wikilink")である。
 
 ## 主な事業
 
@@ -21,7 +21,7 @@
   - [杉山仁](https://ja.wikipedia.org/wiki/杉山仁 "wikilink")
   - [オリベット・テイラー・翔](https://ja.wikipedia.org/wiki/オリベット・テイラー・翔 "wikilink")
   - [山口隼人](https://ja.wikipedia.org/wiki/山口隼人_\(Sugar&Spice\) "wikilink")
-  - [ティム・レビット](https://ja.wikipedia.org/wiki/ティム・レビット "wikilink")（黒川ティムという名で[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")にも所属）
+  - [ティム・レビット](https://ja.wikipedia.org/wiki/ティム・レビット "wikilink")（黒川ティムという名で[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")にも所属）
   - ヴィンセント エリクソン
   - アダム
   - 央シャバジアン
@@ -34,13 +34,13 @@
 
 ### 女性
 
-  - [篠原麻里](https://ja.wikipedia.org/wiki/篠原麻里 "wikilink")
+  - [篠原麻里](../Page/篠原麻里.md "wikilink")
   - [篠原美紀](https://ja.wikipedia.org/wiki/篠原美紀 "wikilink")
   - [田牧そら](https://ja.wikipedia.org/wiki/田牧そら "wikilink")
   - [夢子](https://ja.wikipedia.org/wiki/夢子 "wikilink")
   - [寺西美柚](https://ja.wikipedia.org/wiki/寺西美柚 "wikilink")
-  - [中田絢千](https://ja.wikipedia.org/wiki/中田絢千 "wikilink")
-  - [細川藍](https://ja.wikipedia.org/wiki/細川藍 "wikilink")
+  - [中田絢千](../Page/中田絢千.md "wikilink")
+  - [細川藍](../Page/細川藍.md "wikilink")
   - [アヤカ・ウィルソン](https://ja.wikipedia.org/wiki/アヤカ・ウィルソン "wikilink")
   - [アリエル](https://ja.wikipedia.org/wiki/アリエル_\(タレント\) "wikilink")
   - [リンカ・オーエン](https://ja.wikipedia.org/wiki/リンカ・オーエン "wikilink")
@@ -59,15 +59,15 @@
 
 ## 過去の所属タレント
 
-  - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")
+  - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")
   - エリザベスマリー
   - [エリザベス・ハードキャッスル](https://ja.wikipedia.org/wiki/エリザベス・ハードキャッスル "wikilink")
   - [大野愛友佳](https://ja.wikipedia.org/wiki/大野愛友佳 "wikilink")
-  - [小原裕貴](https://ja.wikipedia.org/wiki/小原裕貴_\(1996年生のタレント\) "wikilink")
+  - [小原裕貴](../Page/小原裕貴_\(1996年生のタレント\).md "wikilink")
   - [志村玲那](../Page/志村玲那.md "wikilink")
-  - [中村友里子](https://ja.wikipedia.org/wiki/中村友里子 "wikilink")
+  - [中村友里子](../Page/中村友里子.md "wikilink")
   - [橋本くるみ](../Page/橋本来留美.md "wikilink")
-  - [三吉彩花](https://ja.wikipedia.org/wiki/三吉彩花 "wikilink")
+  - [三吉彩花](../Page/三吉彩花.md "wikilink")
   - [森田彩華](../Page/森田彩華.md "wikilink")
 
 ## 外部リンク

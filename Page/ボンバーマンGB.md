@@ -1,11 +1,11 @@
 > この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
 
 
-『**ボンバーマンGB**』は、[1994年](../Page/1994年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](https://ja.wikipedia.org/wiki/ボンバーマンシリーズ "wikilink")第2作目。
+『**ボンバーマンGB**』は、[1994年](../Page/1994年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](../Page/ボンバーマンシリーズ.md "wikilink")第2作目。
 
-海外では『**[Wario Blast: Featuring Bomberman\!](https://ja.wikipedia.org/wiki/:en:Wario_Blast "wikilink")**』のタイトルで任天堂より販売され、[ワリオ](../Page/ワリオ.md "wikilink")がプレイヤーキャラクターに追加されている\[1\]。これに伴い次作『[ボンバーマンGB2](https://ja.wikipedia.org/wiki/ボンバーマンGB2 "wikilink")』が代わりに『BOMBERMAN GB』のタイトルで発売されている。
+海外では『**[Wario Blast: Featuring Bomberman\!](https://ja.wikipedia.org/wiki/:en:Wario_Blast "wikilink")**』のタイトルで任天堂より販売され、[ワリオ](../Page/ワリオ.md "wikilink")がプレイヤーキャラクターに追加されている\[1\]。これに伴い次作『[ボンバーマンGB2](../Page/ボンバーマンGB2.md "wikilink")』が代わりに『BOMBERMAN GB』のタイトルで発売されている。
 
-本作は、1996年7月21日に発売されたゲームボーイ用ソフト『[ボンバーマンコレクション](https://ja.wikipedia.org/wiki/ボンバーマンコレクション "wikilink")』にて、『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』と『[ボンバーマンGB2](https://ja.wikipedia.org/wiki/ボンバーマンGB2 "wikilink")』と共に再録されている。
+本作は、1996年7月21日に発売されたゲームボーイ用ソフト『[ボンバーマンコレクション](../Page/ボンバーマンコレクション.md "wikilink")』にて、『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』と『[ボンバーマンGB2](../Page/ボンバーマンGB2.md "wikilink")』と共に再録されている。
 
 ## ノーマルゲーム
 
@@ -66,7 +66,7 @@
 
 ## バトルゲーム
 
-3本先取制で制限時間内に決着がつかなかった場合は引き分けとなる。バトルステージや特殊アイテムを所持するかどうかの設定ができる。なお、対戦には[スーパーゲームボーイ](https://ja.wikipedia.org/wiki/スーパーゲームボーイ "wikilink")を用いる。
+3本先取制で制限時間内に決着がつかなかった場合は引き分けとなる。バトルステージや特殊アイテムを所持するかどうかの設定ができる。なお、対戦には[スーパーゲームボーイ](../Page/スーパーゲームボーイ.md "wikilink")を用いる。
 
 ## 脚注
 

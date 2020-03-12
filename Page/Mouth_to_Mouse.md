@@ -1,7 +1,7 @@
 > この記事は[Mouth to Mouse](https://ja.wikipedia.org/wiki/Mouth_to_Mouse)から翻訳されています。
 
 
-『**Mouth To Mouse**』（マウス トゥ マウス）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた、[Syrup 16gの累計](https://ja.wikipedia.org/wiki/Syrup_16g "wikilink")5枚目、メジャー4作目のアルバムである。
+『**Mouth To Mouse**』（マウス トゥ マウス）は、[2004年](../Page/2004年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた、[Syrup 16gの累計](../Page/Syrup_16g.md "wikilink")5枚目、メジャー4作目のアルバムである。
 
 ## 収録曲
 
@@ -9,11 +9,11 @@
 2.  **[リアル](https://ja.wikipedia.org/wiki/リアル_\(Syrup16gの曲\) "wikilink") 〈album Ver.〉**
       - 3rdシングル。
       - [bloodthirsty butchersの吉村秀樹がフィードバックギターで参加している](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")。
-      - ライブで過去に数回[VOLA & THE ORIENTAL MACHINEのメンバーを交えて演奏された](https://ja.wikipedia.org/wiki/VOLA_&_THE_ORIENTAL_MACHINE "wikilink")。
+      - ライブで過去に数回[VOLA & THE ORIENTAL MACHINEのメンバーを交えて演奏された](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")。
 3.  **うお座 〈album mix〉**
       - 3rdシングル「リアル」のカップリング曲。
       - 特定の人物を指したものではなく、五十嵐の周囲にうお座の子はいないらしい。
-4.  **[パープルムカデ](https://ja.wikipedia.org/wiki/パープルムカデ "wikilink") 〈album mix〉**
+4.  **[パープルムカデ](../Page/パープルムカデ.md "wikilink") 〈album mix〉**
       - 彼らにとって初めてのシングル曲である。PVは、本物のムカデがのた打ち回る映像が使われている。
 5.  **[My Song](https://ja.wikipedia.org/wiki/My_Song_\(Syrup16gの曲\) "wikilink")**
       - 2ndシングル。
@@ -32,7 +32,7 @@
 11. **希望**
 12. **メリモ**
 13. **ハミングバード**
-      - 5thシングル「I・N・M」のカップリング曲。曲中で歌われている40万の[ギブソンのアコギというのは](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink")、この曲のタイトルでもあり、実際に楽曲で演奏されている[ハミングバードというギターの事である](https://ja.wikipedia.org/wiki/ギブソン・ハミングバード "wikilink")。
+      - 5thシングル「I・N・M」のカップリング曲。曲中で歌われている40万の[ギブソンのアコギというのは](../Page/ギブソン_\(楽器メーカー\).md "wikilink")、この曲のタイトルでもあり、実際に楽曲で演奏されている[ハミングバードというギターの事である](../Page/ギブソン・ハミングバード.md "wikilink")。
 14. **Your eyes closed**
       - 五十嵐曰く「斬新の一曲」。
 15. **リアル 〈single Ver.〉**

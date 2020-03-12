@@ -1,12 +1,12 @@
 > この記事は[CRBANK](https://ja.wikipedia.org/wiki/CRBANK)から翻訳されています。
 
 
-**CRばくばくBANK**（-ばくばくばんく）は、[2001年](../Page/2001年.md "wikilink")3月に[テクモ](../Page/テクモ.md "wikilink")（現・[コーエーテクモウェーブ](https://ja.wikipedia.org/wiki/コーエーテクモウェーブ "wikilink")）が開発し、[マルホンが発売した](https://ja.wikipedia.org/wiki/マルホン工業 "wikilink")[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。
+**CRばくばくBANK**（-ばくばくばんく）は、[2001年](../Page/2001年.md "wikilink")3月に[テクモ](../Page/テクモ.md "wikilink")（現・[コーエーテクモウェーブ](https://ja.wikipedia.org/wiki/コーエーテクモウェーブ "wikilink")）が開発し、[マルホンが発売した](../Page/マルホン工業.md "wikilink")[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。
 
 ## 特徴
 
   - 女性銀行員が主人公。いわゆる[萌え](../Page/萌え.md "wikilink")系の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機で、主人公のギンコが人気を集めた。また、実機に登場しないキャラクターの設定がある。
-  - 1/2[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ。
+  - 1/2[確率変動](../Page/確率変動.md "wikilink")タイプ。
   - 絵柄は紙幣・貨幣をモチーフとしている。硬貨絵柄以外が確変絵柄。当時登場したばかりの[弐千円札](https://ja.wikipedia.org/wiki/弐千円札 "wikilink")も絵柄にある。
   - 液晶演出にギンコが仕事と遊びを繰り返す法則性があり、法則崩れで期待度がアップする。
 
@@ -49,7 +49,7 @@
 
 ## 豆知識
 
-  - 『[スイングゴルフ パンヤ](https://ja.wikipedia.org/wiki/スイングゴルフ_パンヤ "wikilink")』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月、[テクモ](../Page/テクモ.md "wikilink")、[ニンテンドーWii](https://ja.wikipedia.org/wiki/ニンテンドーWii "wikilink")版ゲームソフト）に本機の主人公、桃山ギンコが登場するとテクモより発表されており、ギンコがゴルフをするイラストも公開されている\[1\]。しかし、実際に発売されたソフトのマニュアルではギンコの記載はない。
+  - 『[スイングゴルフ パンヤ](../Page/スイングゴルフ_パンヤ.md "wikilink")』（[2006年](../Page/2006年.md "wikilink")12月、[テクモ](../Page/テクモ.md "wikilink")、[ニンテンドーWii](https://ja.wikipedia.org/wiki/ニンテンドーWii "wikilink")版ゲームソフト）に本機の主人公、桃山ギンコが登場するとテクモより発表されており、ギンコがゴルフをするイラストも公開されている\[1\]。しかし、実際に発売されたソフトのマニュアルではギンコの記載はない。
 
 ## 脚注
 

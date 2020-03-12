@@ -1,7 +1,7 @@
 > この記事は[EXCITING SATURDAY \(NACK5\)](https://ja.wikipedia.org/wiki/EXCITING_SATURDAY_\(NACK5\))から翻訳されています。
 
 
-**EXCITING SATURDAY**（エキサイティング サタデー）は[NACK5の](../Page/エフエムナックファイブ.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に開局以来続いていた[サタデー・オン・ザ・ウエーの終了をうけスタート](https://ja.wikipedia.org/wiki/SATURDAY_ON_THE_WAY_\(NACK5\) "wikilink")。[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[堀江ゆかり](https://ja.wikipedia.org/wiki/堀江ゆかり "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")。
+**EXCITING SATURDAY**（エキサイティング サタデー）は[NACK5の](../Page/エフエムナックファイブ.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に開局以来続いていた[サタデー・オン・ザ・ウエーの終了をうけスタート](https://ja.wikipedia.org/wiki/SATURDAY_ON_THE_WAY_\(NACK5\) "wikilink")。[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[堀江ゆかり](../Page/堀江ゆかり.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")。
 この番組は約5時間の長時間番組で（スタート当初は8:00 - 11:00の3時間）、[音楽](../Page/音楽.md "wikilink")、[映画](../Page/映画.md "wikilink")、お出かけなど多彩な情報が満載の番組である。また、番組内には豪華な顔ぶれがパーソナリティを務めるミニ番組もある。リスナーからのメッセージとリクエストを募集している（メッセージテーマはOPで発表される）。 2012年9月29日終了。
 
 ## 放送時間
@@ -33,8 +33,8 @@
   - 10:04　コーナー番組「**ADVANCE　EARTH**」（[今井ちひろ](../Page/今井ちひろ.md "wikilink"))
   - 10:15　NACK5 TRAFFIC
   - 10:17　NACK5 WEATHER
-  - 10:20　コーナー番組「KAT-TUN 亀梨和也のHANG OUT」（[亀梨和也](https://ja.wikipedia.org/wiki/亀梨和也 "wikilink")）
-  - 11:05　コーナー番組「BE-MAX presents 稲川龍男 HAPPY SALON」（[稲川龍男](https://ja.wikipedia.org/wiki/稲川龍男 "wikilink")・[南美希子](https://ja.wikipedia.org/wiki/南美希子 "wikilink")）
+  - 10:20　コーナー番組「KAT-TUN 亀梨和也のHANG OUT」（[亀梨和也](../Page/亀梨和也.md "wikilink")）
+  - 11:05　コーナー番組「BE-MAX presents 稲川龍男 HAPPY SALON」（[稲川龍男](https://ja.wikipedia.org/wiki/稲川龍男 "wikilink")・[南美希子](../Page/南美希子.md "wikilink")）
       - 2012年6月2日スタート。BE-MAXシリーズの[メディキューブ](https://ja.wikipedia.org/wiki/メディキューブ "wikilink")がスポンサー。後々番組（「[PUNCH de ドーヨゥ?〜遊びの王様〜](https://ja.wikipedia.org/wiki/PUNCH_de_ドーヨゥ?〜遊びの王様〜 "wikilink")」）放送途中の2013年5月25日で番組終了。
   - 11:25　NACK5 TRAFFIC
   - 11:40　ライオンズレポート（プロ野球春季キャンプ中・シーズン中のみ）
@@ -46,10 +46,10 @@
       -
         [JAさいたま提供](../Page/さいたま農業協同組合.md "wikilink")。「暮らしのとなりが産地です。」をキャッチフレーズに、埼玉県の“今が旬”の農産物の紹介と、野菜の扱い方や簡単レシピなども紹介する。また、リスナーに野菜に関するクイズを出題している。
         好きな野菜とその食べ方に関するメッセージの募集もしており、月最後のOAでそのメッセージを読んでいる。
-        過去にはリスナーから「食」や「農」に関する質問メールの募集を行っており、JAさいたま主催の[作文](https://ja.wikipedia.org/wiki/作文 "wikilink")コンクールで入賞した作文の朗読をしたこともある。
+        過去にはリスナーから「食」や「農」に関する質問メールの募集を行っており、JAさいたま主催の[作文](../Page/作文.md "wikilink")コンクールで入賞した作文の朗読をしたこともある。
   - ライオンズレポート
       -
-        11:40頃 - [サタデー&サンデーライオンズのライオンズナビゲーター](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")）・[吉野麻子](https://ja.wikipedia.org/wiki/吉野麻子 "wikilink")（2005年～2011年度は[千代綾香](https://ja.wikipedia.org/wiki/千代綾香 "wikilink")が、2012年度は[工藤むつみ](https://ja.wikipedia.org/wiki/工藤むつみ "wikilink")）が[プロ野球](https://ja.wikipedia.org/wiki/プロ野球 "wikilink")球団の[西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")の試合直前の最新情報を伝える。
+        11:40頃 - [サタデー&サンデーライオンズのライオンズナビゲーター](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")）・[吉野麻子](../Page/吉野麻子.md "wikilink")（2005年～2011年度は[千代綾香](../Page/千代綾香.md "wikilink")が、2012年度は[工藤むつみ](https://ja.wikipedia.org/wiki/工藤むつみ "wikilink")）が[プロ野球](../Page/プロ野球.md "wikilink")球団の[西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")の試合直前の最新情報を伝える。
 
 ## 終了コーナー
 
@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-    [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[戸田市](../Page/戸田市.md "wikilink")にある彩湖の情報を中心とした地域情報のコーナー。
+    [埼玉県](../Page/埼玉県.md "wikilink")[戸田市](../Page/戸田市.md "wikilink")にある彩湖の情報を中心とした地域情報のコーナー。
 
 <!-- end list -->
 
@@ -96,13 +96,13 @@
 
   -
     ※2011年9月終了。
-    [イオンの商品やイベントを紹介していた](../Page/イオン_\(企業\).md "wikilink")。[イオンショッピングセンターの提供で](https://ja.wikipedia.org/wiki/イオングループのショッピングセンター一覧 "wikilink")、イオン北戸田ショッピングセンター（現・[イオンモール北戸田](https://ja.wikipedia.org/wiki/イオンモール北戸田 "wikilink")）、イオン浦和美園ショッピングセンター（現・[イオンモール浦和美園](https://ja.wikipedia.org/wiki/イオンモール浦和美園 "wikilink")）、イオン与野ショッピングセンター（現・[イオンモール与野](https://ja.wikipedia.org/wiki/イオンモール与野 "wikilink")）から中継することもあった。
+    [イオンの商品やイベントを紹介していた](../Page/イオン_\(企業\).md "wikilink")。[イオンショッピングセンターの提供で](https://ja.wikipedia.org/wiki/イオングループのショッピングセンター一覧 "wikilink")、イオン北戸田ショッピングセンター（現・[イオンモール北戸田](../Page/イオンモール北戸田.md "wikilink")）、イオン浦和美園ショッピングセンター（現・[イオンモール浦和美園](../Page/イオンモール浦和美園.md "wikilink")）、イオン与野ショッピングセンター（現・[イオンモール与野](../Page/イオンモール与野.md "wikilink")）から中継することもあった。
 
 -----
 
   - 漢那憲哉 PET & PETS\!（11:30 - 11:55 漢那憲哉）
-  - 大村正樹 EXICITING RESEARCH（8:15 - 8:35 [大村正樹](https://ja.wikipedia.org/wiki/大村正樹 "wikilink")）
-  - [ファンファンサッカー](https://ja.wikipedia.org/wiki/ファンファンサッカー "wikilink")（[大野勢太郎](../Page/大野勢太郎.md "wikilink")）
+  - 大村正樹 EXICITING RESEARCH（8:15 - 8:35 [大村正樹](../Page/大村正樹.md "wikilink")）
+  - [ファンファンサッカー](../Page/ファンファンサッカー.md "wikilink")（[大野勢太郎](../Page/大野勢太郎.md "wikilink")）
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 
 <!-- end list -->
 
-  - F1 EXPRESS（[鈴木亜久里](https://ja.wikipedia.org/wiki/鈴木亜久里 "wikilink")→[井出有治](https://ja.wikipedia.org/wiki/井出有治 "wikilink")）
+  - F1 EXPRESS（[鈴木亜久里](../Page/鈴木亜久里.md "wikilink")→[井出有治](../Page/井出有治.md "wikilink")）
 
 <!-- end list -->
 
@@ -143,13 +143,13 @@
 <!-- end list -->
 
   -
-    (毎年[インディジャパン300](https://ja.wikipedia.org/wiki/インディジャパン300 "wikilink")の開催2か月ほど前から開催日まで放送される)
+    (毎年[インディジャパン300](../Page/インディジャパン300.md "wikilink")の開催2か月ほど前から開催日まで放送される)
 
 <!-- end list -->
 
   -   - 2012年度は[GOGOMONZ](https://ja.wikipedia.org/wiki/GOGOMONZ "wikilink")の木曜日15:05-15:20で放送されたが、9月中の放送となった。（当初は10月11日まで放送する予定だった。）
 
-  - [相田翔子 SOUND STROLL](https://ja.wikipedia.org/wiki/地中海_SOUND_STROLL "wikilink")（9:30 - 10:00 [飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")・[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")→飯田圭織・[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")→相田翔子→相田翔子・飯田圭織）
+  - [相田翔子 SOUND STROLL](../Page/地中海_SOUND_STROLL.md "wikilink")（9:30 - 10:00 [飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")・[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")→飯田圭織・[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")→相田翔子→相田翔子・飯田圭織）
 
 <!-- end list -->
 
@@ -167,7 +167,7 @@
 
 <!-- end list -->
 
-  - 嵐・JUN STYLE（10:20 - 10:50 [松本潤](../Page/松本潤.md "wikilink")　[嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")）
+  - 嵐・JUN STYLE（10:20 - 10:50 [松本潤](../Page/松本潤.md "wikilink")　[嵐](../Page/嵐_\(グループ\).md "wikilink")）
 
 <!-- end list -->
 

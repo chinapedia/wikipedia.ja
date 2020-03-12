@@ -1,15 +1,15 @@
 > この記事は[Juiced](https://ja.wikipedia.org/wiki/Juiced)から翻訳されています。
 
 
-『**Juiced〜チューンドカー伝説〜**』（ジュースド チューンドカーでんせつ、欧米版タイトル*Juiced* ）はアメリカ[THQ](https://ja.wikipedia.org/wiki/THQ "wikilink")より発売されたカー[レースゲーム](../Page/レースゲーム.md "wikilink")。欧米では2005年6月に[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox用が発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。
+『**Juiced〜チューンドカー伝説〜**』（ジュースド チューンドカーでんせつ、欧米版タイトル*Juiced* ）はアメリカ[THQ](../Page/THQ.md "wikilink")より発売されたカー[レースゲーム](../Page/レースゲーム.md "wikilink")。欧米では2005年6月に[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox用が発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。
 
-日本ではセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から[プレイステーション2用が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")発売。
+日本ではセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から[プレイステーション2用が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[2006年](../Page/2006年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")発売。
 
 ## 解説
 
-『[ニード・フォー・スピード アンダーグラウンド](../Page/ニード・フォー・スピード_アンダーグラウンド.md "wikilink")』シリーズと同じくクルマを[スポーツコンパクト](https://ja.wikipedia.org/wiki/スポーツコンパクト "wikilink")にチューンできるのが特徴。
+『[ニード・フォー・スピード アンダーグラウンド](../Page/ニード・フォー・スピード_アンダーグラウンド.md "wikilink")』シリーズと同じくクルマを[スポーツコンパクト](../Page/スポーツコンパクト.md "wikilink")にチューンできるのが特徴。
 
-また、[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")や[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")などがメーカー公認で100種類以上登場しているため、1台の改造パターンは**7兆5千億通り**にもなる。
+また、[エアロパーツ](../Page/エアロパーツ.md "wikilink")や[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")などがメーカー公認で100種類以上登場しているため、1台の改造パターンは**7兆5千億通り**にもなる。
 
 ## ゲームモード
 
@@ -27,16 +27,16 @@
 
 ## 登場車両
 
-  - [アキュラ](https://ja.wikipedia.org/wiki/アキュラ "wikilink")
+  - [アキュラ](../Page/アキュラ.md "wikilink")
       - [NSX（NA1）](../Page/ホンダ・NSX.md "wikilink")
-      - [RSXタイプS](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")
-      - [インテグラタイプR'99](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")
+      - [RSXタイプS](../Page/ホンダ・インテグラ.md "wikilink")
+      - [インテグラタイプR'99](../Page/ホンダ・インテグラ.md "wikilink")
   - [ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")
       - [CR-X（EF8）](../Page/ホンダ・CR-X.md "wikilink")
       - [NSX（NA1）](../Page/ホンダ・NSX.md "wikilink")
       - [S2000（AP1）](../Page/ホンダ・S2000.md "wikilink")
-      - [インテグラタイプR'99](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")
-      - [インテグラタイプR（DC5）](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")
+      - [インテグラタイプR'99](../Page/ホンダ・インテグラ.md "wikilink")
+      - [インテグラタイプR（DC5）](../Page/ホンダ・インテグラ.md "wikilink")
       - [シビックDX](../Page/ホンダ・シビック.md "wikilink")
       - [シビックタイプR（EP3）](../Page/ホンダ・シビック.md "wikilink")
       - [プレリュード VT（BB1）](../Page/ホンダ・プレリュード.md "wikilink")
@@ -49,11 +49,11 @@
   - [日産](../Page/日産自動車.md "wikilink")
       - [300Z](../Page/日産・フェアレディZ.md "wikilink")
       - [350Z](../Page/日産・フェアレディZ.md "wikilink")
-      - [スカイラインGT-R（BNR34）](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")
+      - [スカイラインGT-R（BNR34）](../Page/日産・スカイライン.md "wikilink")
   - [三菱](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")
-      - [FTO（DE3A）](https://ja.wikipedia.org/wiki/三菱・FTO "wikilink")
+      - [FTO（DE3A）](../Page/三菱・FTO.md "wikilink")
       - [3000GT](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")
-      - [エクリプスGSX（D32A）](https://ja.wikipedia.org/wiki/三菱・エクリプス "wikilink")
+      - [エクリプスGSX（D32A）](../Page/三菱・エクリプス.md "wikilink")
       - [ランサーエボリューションVI](../Page/三菱・ランサーエボリューション.md "wikilink")
       - [ランサーエボリューションVIII](../Page/三菱・ランサーエボリューション.md "wikilink")
   - [スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")
@@ -61,40 +61,40 @@
       - [インプレッサ22B STi（GC8）](../Page/スバル・インプレッサ.md "wikilink")
   - [トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")
       - [MR-S](../Page/トヨタ・MR-S.md "wikilink")
-      - [MR2（SW20）](https://ja.wikipedia.org/wiki/トヨタ・MR2 "wikilink")
+      - [MR2（SW20）](../Page/トヨタ・MR2.md "wikilink")
       - [カローラ1.6](../Page/トヨタ・カローラ.md "wikilink")
       - [スープラ（JZA80）](../Page/トヨタ・スープラ.md "wikilink")
-      - [セリカSS-I（ST202）](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
-      - [セリカSS-II（ZZT231）](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
-  - [フォード](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")
-      - [2003フォーカスSVT](https://ja.wikipedia.org/wiki/フォード・フォーカス "wikilink")
-      - [2004フォーカスZTS](https://ja.wikipedia.org/wiki/フォード・フォーカス "wikilink")
-      - ['67マスタング](https://ja.wikipedia.org/wiki/フォード・マスタング "wikilink")
-      - [マスタング99GT](https://ja.wikipedia.org/wiki/フォード・マスタング "wikilink")
+      - [セリカSS-I（ST202）](../Page/トヨタ・セリカ.md "wikilink")
+      - [セリカSS-II（ZZT231）](../Page/トヨタ・セリカ.md "wikilink")
+  - [フォード](../Page/フォード・モーター.md "wikilink")
+      - [2003フォーカスSVT](../Page/フォード・フォーカス.md "wikilink")
+      - [2004フォーカスZTS](../Page/フォード・フォーカス.md "wikilink")
+      - ['67マスタング](../Page/フォード・マスタング.md "wikilink")
+      - [マスタング99GT](../Page/フォード・マスタング.md "wikilink")
       - [ファルコンXR8](https://ja.wikipedia.org/wiki/フォード・ファルコン "wikilink")
   - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
-      - [MX-5（NA8C）](https://ja.wikipedia.org/wiki/マツダ・ロードスター "wikilink")
+      - [MX-5（NA8C）](../Page/マツダ・ロードスター.md "wikilink")
       - [RX-7（FD3S）](../Page/マツダ・RX-7.md "wikilink")
       - [RX-8](../Page/マツダ・RX-8.md "wikilink")
   - [フィアット](../Page/フィアット.md "wikilink")
-      - [プント1.8HGT](https://ja.wikipedia.org/wiki/フィアット・プント "wikilink")
-  - [ボクスホール](https://ja.wikipedia.org/wiki/ボクスホール "wikilink")
+      - [プント1.8HGT](../Page/フィアット・プント.md "wikilink")
+  - [ボクスホール](../Page/ボクスホール.md "wikilink")
       - [コルサSri1.8i16V](../Page/オペル・コルサ.md "wikilink")
-  - [シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")
-      - [コルベットZO6](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")
-      - [コルベットスティングレイ](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")
+  - [シボレー](../Page/シボレー.md "wikilink")
+      - [コルベットZO6](../Page/シボレー・コルベット.md "wikilink")
+      - [コルベットスティングレイ](../Page/シボレー・コルベット.md "wikilink")
       - [カマロ Z28 '69](../Page/シボレー・カマロ.md "wikilink")
       - [カマロ（最終型）](../Page/シボレー・カマロ.md "wikilink")
   - [ダッジ](../Page/ダッジ.md "wikilink")
       - [SRT-4](../Page/クライスラー・ネオン.md "wikilink")
       - [ネオンR/T](../Page/クライスラー・ネオン.md "wikilink")
-      - [1969チャージャーR/T](https://ja.wikipedia.org/wiki/ダッジ・チャージャー "wikilink")
-      - [バイパーGTS](https://ja.wikipedia.org/wiki/ダッジ・バイパー "wikilink")
-  - [ポンティアック](https://ja.wikipedia.org/wiki/ポンティアック "wikilink")
+      - [1969チャージャーR/T](../Page/ダッジ・チャージャー.md "wikilink")
+      - [バイパーGTS](../Page/ダッジ・バイパー.md "wikilink")
+  - [ポンティアック](../Page/ポンティアック.md "wikilink")
       - [ファイアーバード](../Page/ポンティアック・ファイヤーバード.md "wikilink")
   - [ルノー](../Page/ルノー.md "wikilink")
       - [クリオ・スポール2.0 16V](../Page/ルノー・クリオ.md "wikilink")
-  - [ホールデン](https://ja.wikipedia.org/wiki/ホールデン_\(自動車\) "wikilink")
+  - [ホールデン](../Page/ホールデン_\(自動車\).md "wikilink")
       - [モナーロCV8](https://ja.wikipedia.org/wiki/ホールデン・モナーロ "wikilink")
 
 ## サウンド

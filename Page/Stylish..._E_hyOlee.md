@@ -1,7 +1,7 @@
 > この記事は[Stylish... E hyOlee](https://ja.wikipedia.org/wiki/Stylish..._E_hyOlee)から翻訳されています。
 
 
-**stylish... E hyOlee**（スティリッシュ イー ヒョリ）は、[2003年](../Page/2003年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")にリリースされた[韓国の](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")グループ[Fin. K.L.のメンバー](https://ja.wikipedia.org/wiki/Fin._K.L. "wikilink")、[イ・ヒョリ](https://ja.wikipedia.org/wiki/イ・ヒョリ "wikilink")のファーストアルバム。
+**stylish... E hyOlee**（スティリッシュ イー ヒョリ）は、[2003年](../Page/2003年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")にリリースされた[韓国の](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")グループ[Fin. K.L.のメンバー](https://ja.wikipedia.org/wiki/Fin._K.L. "wikilink")、[イ・ヒョリ](../Page/イ・ヒョリ.md "wikilink")のファーストアルバム。
 
 ## 概要
 

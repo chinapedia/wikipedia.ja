@@ -1,11 +1,11 @@
 > この記事は[So loving](https://ja.wikipedia.org/wiki/So_loving)から翻訳されています。
 
 
-『**so loving**』（ソー ラビング）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")に[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")から発売された。
+『**so loving**』（ソー ラビング）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")から発売された。
 
 ## 概要
 
-『[Fly Ladybird fly](https://ja.wikipedia.org/wiki/Fly_Ladybird_fly "wikilink")』から7ヶ月ぶりとなるアルバムで、オリジナルアルバムとしては『[ミントと口笛](../Page/ミントと口笛.md "wikilink")』以来のサード・アルバム。2ndシングル「love letter」の表題曲が収録されており、シングル曲が収録されるのは初となる。
+『[Fly Ladybird fly](../Page/Fly_Ladybird_fly.md "wikilink")』から7ヶ月ぶりとなるアルバムで、オリジナルアルバムとしては『[ミントと口笛](../Page/ミントと口笛.md "wikilink")』以来のサード・アルバム。2ndシングル「love letter」の表題曲が収録されており、シングル曲が収録されるのは初となる。
 
 初回特典はスリーブ仕様となっている。
 
@@ -21,7 +21,7 @@ CDジャーナルは、「ロリロリな顔と体型そのままのロリロリ
 
   - [Piano](../Page/ピアノ.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：難波正司
   - [Guitars](../Page/ギター.md "wikilink")：間宮工、松原正樹
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：KUMA原田
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：KUMA原田
   - [Drums](../Page/ドラムセット.md "wikilink")：[山木秀夫](../Page/山木秀夫.md "wikilink")
   - [Synthesizer](../Page/シンセサイザー.md "wikilink") Operator：杉本洋祐
 
@@ -35,17 +35,17 @@ CDジャーナルは、「ロリロリな顔と体型そのままのロリロリ
 
 **SOMEDAY**
 
-  - Keyboards & Guitars：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - Keyboards & Guitars：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
   - Guitars：古川望
   - Piano：丸尾めぐみ
-  - Bass：[沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink")
+  - Bass：[沖山優司](../Page/沖山優司.md "wikilink")
   - Drums：山木秀夫
   - Synthesizer Operator：[橋本由香利](../Page/橋本由香利.md "wikilink")
 
 **オレンジと観覧車**
 
   - Guitars：[小倉昌浩](https://ja.wikipedia.org/wiki/小倉昌浩 "wikilink")
-  - Keyboards：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - Keyboards：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
 
 **いつもの帰り道**
 
@@ -53,7 +53,7 @@ CDジャーナルは、「ロリロリな顔と体型そのままのロリロリ
   - Guitars：[斉藤誠](https://ja.wikipedia.org/wiki/斉藤誠 "wikilink")
   - Bass：沖山優司
   - Piano & [Organ](../Page/オルガン.md "wikilink") & Keyboards：河合代介
-  - [Vibraphone](https://ja.wikipedia.org/wiki/ヴィブラフォン "wikilink")：香取良彦
+  - [Vibraphone](../Page/ヴィブラフォン.md "wikilink")：香取良彦
 
 **星空にお祈り**
 

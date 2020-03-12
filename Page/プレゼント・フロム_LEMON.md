@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）誌上において[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")33号から同年51号まで連載、「[超機動員ヴァンダー](../Page/超機動員ヴァンダー.md "wikilink")」の次となる桂正和3本目の連載作品。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink") (JC) より全2巻。[1994年](../Page/1994年.md "wikilink")にはジャンプコミックスセレクションよりワイド版が全2巻で、[2001年](../Page/2001年.md "wikilink")には集英社文庫より1冊にまとめられた文庫版が発売されている。JC版ではアイドルを扱った作品である事から[レコード](../Page/レコード.md "wikilink")や[カセットの形態に倣って](../Page/コンパクトカセット.md "wikilink")1巻を「SIDE-A」、2巻を「SIDE-B」としている。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）誌上において[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")33号から同年51号まで連載、「[超機動員ヴァンダー](../Page/超機動員ヴァンダー.md "wikilink")」の次となる桂正和3本目の連載作品。単行本は[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink") (JC) より全2巻。[1994年](../Page/1994年.md "wikilink")にはジャンプコミックスセレクションよりワイド版が全2巻で、[2001年](../Page/2001年.md "wikilink")には集英社文庫より1冊にまとめられた文庫版が発売されている。JC版ではアイドルを扱った作品である事から[レコード](../Page/レコード.md "wikilink")や[カセットの形態に倣って](../Page/コンパクトカセット.md "wikilink")1巻を「SIDE-A」、2巻を「SIDE-B」としている。
 
 父親の遺志を継ぎ歌手となる事を夢見る少年が、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")としてデビューし成功していく様を描く。
 
@@ -62,7 +62,7 @@
 
 著者は全て[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")。特記のない限り[集英社](../Page/集英社.md "wikilink")発行。
 
-  - 新書版〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉
+  - 新書版〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉
     1.  1988年3月15日発行 ISBN 4088710614
     2.  1988年7月15日発行 ISBN 4088710622
   - ワイド版（発行：ホーム社・発売：集英社）〈ジャンプコミックスセレクション〉
@@ -77,7 +77,7 @@
   - [アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")
   - [超機動員ヴァンダー](../Page/超機動員ヴァンダー.md "wikilink") - 前の連載作品。
   - [電影少女](../Page/電影少女.md "wikilink") - 次の連載作品。
-  - [桂正和コレクション](https://ja.wikipedia.org/wiki/桂正和コレクション "wikilink") - VOL.2に同時期の短編が収録されている。
+  - [桂正和コレクション](../Page/桂正和コレクション.md "wikilink") - VOL.2に同時期の短編が収録されている。
 
 [Category:桂正和](https://ja.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:音楽漫画](https://ja.wikipedia.org/wiki/Category:音楽漫画 "wikilink") [Category:アイドルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした漫画作品 "wikilink")
 

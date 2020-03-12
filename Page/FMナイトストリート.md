@@ -15,7 +15,7 @@
 
 後に、番組に出演していたパーソナリティーの一人である[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")が語ったところによると、最初の目的は「FMでも[深夜放送](../Page/深夜放送.md "wikilink")をやろう、AMに対するアンチテーゼとして、FMでもトーク主体の深夜番組をやろう。」というものであったとされる。
 さらに「人気が出た暁には、[キー局にもネットされることを目指そう](../Page/エフエム東京.md "wikilink")」という目標もあったようだが、実際にこの番組の人気が上がった頃、目標であった**キー局**であるTOKYO FMでは、当番組をネットせず、自前で同じトーク主体の新番組（「[スーパーFMマガジン](../Page/スーパーFMマガジン.md "wikilink") NORU SORU」など）を立ち上げてしまい、一部FMの局のネット乗換が起こったという「オチ」がついてしまった。
-それだけでなく、1994年3月一杯で終了後は、25〜26時台はTOKYO FM・JFNCが共同制作する新番組「[ラジ王](../Page/ラジ王.md "wikilink")」に吸収・統合され、24時台は「JET STREAM」のネットが拡大する結果となった。また、27〜30時台は「[まんたんMUSIC](https://ja.wikipedia.org/wiki/まんたんMUSIC "wikilink")」になったが、こちらは放送開始半年後にTOKYO FMでの一部時間のネットを開始した。
+それだけでなく、1994年3月一杯で終了後は、25〜26時台はTOKYO FM・JFNCが共同制作する新番組「[ラジ王](../Page/ラジ王.md "wikilink")」に吸収・統合され、24時台は「JET STREAM」のネットが拡大する結果となった。また、27〜30時台は「[まんたんMUSIC](../Page/まんたんMUSIC.md "wikilink")」になったが、こちらは放送開始半年後にTOKYO FMでの一部時間のネットを開始した。
 
 なお、番組の立ち上げには当時[ラジオプレス](https://ja.wikipedia.org/wiki/ラジオプレス "wikilink")社代表であった[ドン上野](https://ja.wikipedia.org/wiki/ドン上野 "wikilink")が関わり、以後番組終了までプロデューサーという立場で見守っていくこととなった。
 
@@ -99,7 +99,7 @@
 <td><p>哀川翔</p></td>
 <td><p>倉橋ルイ子</p></td>
 <td><p>赤坂泰彦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋田正人" title="wikilink">ペッカー</a></p></td>
+<td><p><a href="../Page/橋田正人.md" title="wikilink">ペッカー</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1989.04</p></td>
@@ -140,8 +140,8 @@
   - 月曜：[村田和人](../Page/村田和人.md "wikilink")（1988年10月～1988年12月）
   - 火曜：[市川光興](https://ja.wikipedia.org/wiki/市川光興 "wikilink")（開始～1985年9月）
   - 火曜：[太田裕美](../Page/太田裕美.md "wikilink")（1985年10月～1988年9月）
-  - 火曜：[ケラ](https://ja.wikipedia.org/wiki/ケラリーノ・サンドロヴィッチ "wikilink")（1988年10月～同年12月）
-  - 水曜：[萩原健太](https://ja.wikipedia.org/wiki/萩原健太 "wikilink")（開始～1985年9月）
+  - 火曜：[ケラ](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink")（1988年10月～同年12月）
+  - 水曜：[萩原健太](../Page/萩原健太.md "wikilink")（開始～1985年9月）
   - 水曜：[伊藤銀次](../Page/伊藤銀次.md "wikilink")（1985年10月～1988年12月）
   - 木曜：[市川光興](https://ja.wikipedia.org/wiki/市川光興 "wikilink")（開始～1985年9月）
   - 木曜：[アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")（1985年10月～1986年3月）
@@ -153,12 +153,12 @@
 #### PAJAMA PRESS (1989年1月から)
 
   - 月曜：哀川翔（1989年1月～1992年3月）
-  - 月曜：[長友仍世](https://ja.wikipedia.org/wiki/長友仍世 "wikilink")（[infix](https://ja.wikipedia.org/wiki/infix "wikilink")）（1992年4月～1994年3月 → 「[ラジ王](../Page/ラジ王.md "wikilink")」へ続投）
+  - 月曜：[長友仍世](../Page/長友仍世.md "wikilink")（[infix](https://ja.wikipedia.org/wiki/infix "wikilink")）（1992年4月～1994年3月 → 「[ラジ王](../Page/ラジ王.md "wikilink")」へ続投）
   - 火曜：倉橋ルイ子（1989年1月～同年3月）
   - 火曜：[相澤元気](https://ja.wikipedia.org/wiki/あいざわ元気 "wikilink")（1989年4月～1994年3月）
   - 水曜：赤坂泰彦（1989年1月～1994年3月）
-  - 木曜：[ペッカー](https://ja.wikipedia.org/wiki/橋田正人 "wikilink")（1989年1月～同年3月）
-  - 木曜：[関口誠人](https://ja.wikipedia.org/wiki/関口誠人 "wikilink")（1989年4月～1993年3月）
+  - 木曜：[ペッカー](../Page/橋田正人.md "wikilink")（1989年1月～同年3月）
+  - 木曜：[関口誠人](../Page/関口誠人.md "wikilink")（1989年4月～1993年3月）
   - 木曜：[ささきたまみ](https://ja.wikipedia.org/wiki/ささきたまみ "wikilink")（[SEAGULLS](https://ja.wikipedia.org/wiki/SEAGULLS "wikilink")）（1993年4月～1994年3月）
 
 ### 第2部
@@ -303,37 +303,37 @@
   - 火曜：[高樹沙耶](https://ja.wikipedia.org/wiki/益戸育江 "wikilink")（1988年4月～同年6月）
   - 火曜：[倉橋ルイ子](../Page/倉橋ルイ子.md "wikilink")（1988年7月～同年12月）
   - 水曜：[畠山久](https://ja.wikipedia.org/wiki/畠山久 "wikilink")（1988年4月～同年9月）
-  - 木曜：[ペッカー](https://ja.wikipedia.org/wiki/橋田正人 "wikilink")（1988年4月～同年12月）
-  - 金曜：[陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink")（1988年4月～同年9月、1988年10月からは水曜2部へ）
+  - 木曜：[ペッカー](../Page/橋田正人.md "wikilink")（1988年4月～同年12月）
+  - 金曜：[陣内大蔵](../Page/陣内大蔵.md "wikilink")（1988年4月～同年9月、1988年10月からは水曜2部へ）
   - 金曜：[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")（1988年10月～同年12月）
 
 #### PURE MUSIC (1989年1月から)
 
   - 月曜：[笹野みちる](../Page/笹野みちる.md "wikilink")（1989年1月～同年6月）
-  - 月曜：[チャカ](https://ja.wikipedia.org/wiki/チャカ "wikilink")（[PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink")）（1989年7月～1991年3月）
+  - 月曜：[チャカ](https://ja.wikipedia.org/wiki/チャカ "wikilink")（[PSY・S](../Page/PSY・S.md "wikilink")）（1989年7月～1991年3月）
   - 月曜：[大塚純子](../Page/大塚純子.md "wikilink")（1991年4月～1992年3月）
   - 月曜：[山口洋](https://ja.wikipedia.org/wiki/山口洋 "wikilink")（[ヒートウェイブ](https://ja.wikipedia.org/wiki/ヒートウェイブ "wikilink")）（1992年4月～1994年3月）
-  - 火曜：[ケラ](https://ja.wikipedia.org/wiki/ケラリーノ・サンドロヴィッチ "wikilink")（1989年1月～1990年9月）
-  - 火曜：[ローリー寺西](https://ja.wikipedia.org/wiki/ROLLY "wikilink")（[すかんち](https://ja.wikipedia.org/wiki/すかんち "wikilink")）（1990年10月～同年12月）
+  - 火曜：[ケラ](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink")（1989年1月～1990年9月）
+  - 火曜：[ローリー寺西](../Page/ROLLY.md "wikilink")（[すかんち](../Page/すかんち.md "wikilink")）（1990年10月～同年12月）
   - 火曜：[ダイナマイト・マリ](https://ja.wikipedia.org/wiki/ダイナマイト・マリ "wikilink")（[NORMA JEAN](../Page/NORMA_JEAN_\(日本\).md "wikilink")）（1991年1月～同年3月）
   - 火曜：[博多めぐみ](https://ja.wikipedia.org/wiki/博多めぐみ "wikilink")（当時[バビロン大王](https://ja.wikipedia.org/wiki/バビロン大王 "wikilink")、元[米米CLUB](../Page/米米CLUB.md "wikilink")）（1991年4月～同年9月）
   - 火曜：[東京パノラママンボボーイズ](../Page/東京パノラママンボボーイズ.md "wikilink")（1991年10月～1992年3月）
   - 火曜：[トータス松本](../Page/トータス松本.md "wikilink")（[ウルフルズ](../Page/ウルフルズ.md "wikilink")）（1992年4月～同年9月）
   - 火曜：[佐藤伸治](../Page/佐藤伸治.md "wikilink")（[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")）（1992年10月～1994年3月）
-  - 水曜：[陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink")（1989年1月～1993年3月）
+  - 水曜：[陣内大蔵](../Page/陣内大蔵.md "wikilink")（1989年1月～1993年3月）
   - 水曜：[藤本恭子](https://ja.wikipedia.org/wiki/後藤恭子 "wikilink")（1993年4月～1994年3月）
   - 木曜：[伊藤銀次](../Page/伊藤銀次.md "wikilink")（1989年1月～1993年3月）
   - 木曜：[加藤ひさし](https://ja.wikipedia.org/wiki/加藤ひさし "wikilink")（[ザ・コレクターズ](../Page/ザ・コレクターズ.md "wikilink")）（1993年4月～1994年3月）
 
 ## ネット局
 
-  - 1987年10月　[FM青森](../Page/エフエム青森.md "wikilink")、[FM岩手](../Page/エフエム岩手.md "wikilink")（金×）、[FM秋田](../Page/エフエム秋田.md "wikilink")、[FM群馬](../Page/エフエム群馬.md "wikilink")（24:00～）、[FM新潟](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")（金×）、[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（24:00～）、[FM富山](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")（金×）、[FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink")（金×）、[FM山陰](../Page/エフエム山陰.md "wikilink")（金×）、[FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（木金×）、[FM中九州](../Page/エフエム熊本.md "wikilink")、[FM宮崎](../Page/エフエム宮崎.md "wikilink")（木金×）、[FM沖縄](../Page/エフエム沖縄.md "wikilink")（木金×）
+  - 1987年10月　[FM青森](../Page/エフエム青森.md "wikilink")、[FM岩手](../Page/エフエム岩手.md "wikilink")（金×）、[FM秋田](../Page/エフエム秋田.md "wikilink")、[FM群馬](../Page/エフエム群馬.md "wikilink")（24:00～）、[FM新潟](../Page/エフエムラジオ新潟.md "wikilink")（金×）、[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（24:00～）、[FM富山](../Page/富山エフエム放送.md "wikilink")（金×）、[FM福井](../Page/福井エフエム放送.md "wikilink")（金×）、[FM山陰](../Page/エフエム山陰.md "wikilink")（金×）、[FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（木金×）、[FM中九州](../Page/エフエム熊本.md "wikilink")、[FM宮崎](../Page/エフエム宮崎.md "wikilink")（木金×）、[FM沖縄](../Page/エフエム沖縄.md "wikilink")（木金×）
   - 1988年4月　FM青森、FM岩手（金25×）、FM秋田（全曜日26時まで）、FM群馬（24:00～）、FM新潟（全曜日27時まで）、FM三重（24:00～27:00）、FM富山（金25×）、FM福井（金25×）、FM山陰（全曜日27時から）、FM山口（金25×）、☆[FM香川](../Page/エフエム香川.md "wikilink")（全曜日27時まで）、FM中九州（全曜日26時まで）、FM宮崎（月～木26時まで、金26～29時）、FM沖縄（月～水26時まで）
 
 （以下、放送枠変更があった局のみ掲載）
 
   - 1988年8月　☆[FM富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")（金×）
-  - 1988年10月　FM秋田（月～木25～27時、金26～27時）、FM富士（月～木フルネット、金27時から）、☆[FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")（全曜日27時まで）、FM山陰（フルネット化）、FM山口（木金25×）、FM中九州（フルネット化）
+  - 1988年10月　FM秋田（月～木25～27時、金26～27時）、FM富士（月～木フルネット、金27時から）、☆[FM長野](../Page/長野エフエム放送.md "wikilink")（全曜日27時まで）、FM山陰（フルネット化）、FM山口（木金25×）、FM中九州（フルネット化）
   - 1989年4月　☆[FM山形](../Page/エフエム山形.md "wikilink")、FM新潟（木26×）、FM福井（木25×）、FM山口（木25×）
   - 1989年10月　FM岩手（木25×）、FM富山（木25×）、FM富士（全曜日24時から）、FM新潟（フルネット化）、FM福井（フルネット化）、FM山口（水木25×）
   - 1990年4月　FM富山（水木25×）、☆[FM石川](../Page/エフエム石川.md "wikilink")（全曜日26時まで）、FM福井（月～水26時から、木26:30から）、FM三重（フルネット化）、FM中九州（全曜日26時から）、FM沖縄（全曜日26時から）
@@ -357,16 +357,16 @@
   - [FM25時](https://ja.wikipedia.org/wiki/FM25時 "wikilink")
   - [スーパーFMマガジン](../Page/スーパーFMマガジン.md "wikilink") - 当番組の末期に所謂「Aライン」で競合していた番組
   - [ラジ王](../Page/ラジ王.md "wikilink") - JFNのA・Bラインで別々に放送されていた深夜番組の統合第1弾となった番組
-  - [まんたんMUSIC](https://ja.wikipedia.org/wiki/まんたんMUSIC "wikilink")
-  - [G1 Grouper](https://ja.wikipedia.org/wiki/G1_Grouper "wikilink")
+  - [まんたんMUSIC](../Page/まんたんMUSIC.md "wikilink")
+  - [G1 Grouper](../Page/G1_Grouper.md "wikilink")
   - [KADOKAWA電波マガジン](../Page/KADOKAWA電波マガジン.md "wikilink")
   - [DEEPER STREET](../Page/DEEPER_STREET.md "wikilink")
-  - [ラジオ黄金時代](https://ja.wikipedia.org/wiki/ラジオ黄金時代 "wikilink")
+  - [ラジオ黄金時代](../Page/ラジオ黄金時代.md "wikilink")
   - [やまだひさしのラジアンリミテッドDX](../Page/やまだひさしのラジアンリミテッドDX.md "wikilink")
-  - [BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")
+  - [BPR5000](../Page/BPR5000.md "wikilink")
   - [しんドル](../Page/しんドル.md "wikilink")
-  - [IR3（IR3se,IR3 JAPAN）](https://ja.wikipedia.org/wiki/IR3_JAPAN "wikilink")
-  - [WANTED\!](https://ja.wikipedia.org/wiki/WANTED! "wikilink")
-  - [ミッドナイトランブラー](https://ja.wikipedia.org/wiki/ミッドナイトランブラー "wikilink")
+  - [IR3（IR3se,IR3 JAPAN）](../Page/IR3_JAPAN.md "wikilink")
+  - [WANTED\!](../Page/WANTED!.md "wikilink")
+  - [ミッドナイトランブラー](../Page/ミッドナイトランブラー.md "wikilink")
 
 [Category:1984年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のラジオ番組_\(日本\) "wikilink") [Category:深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:深夜ラジオ番組 "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink")

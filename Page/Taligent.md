@@ -7,7 +7,7 @@
 
 アップル社内で進められていた次世代OS "Pink" のプロジェクトを引き継ぎ、[PowerPC](../Page/PowerPC.md "wikilink")を搭載したオープンアーキテクチャ（[PReP](https://ja.wikipedia.org/wiki/PReP "wikilink")、後に[CHRP](https://ja.wikipedia.org/wiki/CHRP "wikilink")）マシン、[Kaleida](https://ja.wikipedia.org/wiki/Kaleida_Labs "wikilink"), ScriptXと呼ばれた次世代開発環境とセットで、[AIM連合](https://ja.wikipedia.org/wiki/AIM連合 "wikilink")の次世代環境として計画されていた\[6\]。
 
-タリジェントOSは、完全に[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")のOSで、[マイクロカーネル](https://ja.wikipedia.org/wiki/マイクロカーネル "wikilink")を採用して[PowerPC](../Page/PowerPC.md "wikilink")や[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")などのCPU上で稼働し、[AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")、 [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink")、[Mac OSなどのパーソナリティ](../Page/Classic_Mac_OS.md "wikilink")（マイクロカーネル上の互換環境）も同時に稼働できるとされた。また[IBM Workplace OS上で稼働するパーソナリティ](https://ja.wikipedia.org/wiki/IBM_Workplace_OS "wikilink")(OS)の1つともされた。
+タリジェントOSは、完全に[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")のOSで、[マイクロカーネル](https://ja.wikipedia.org/wiki/マイクロカーネル "wikilink")を採用して[PowerPC](../Page/PowerPC.md "wikilink")や[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")などのCPU上で稼働し、[AIX](../Page/AIX.md "wikilink")、 [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink")、[Mac OSなどのパーソナリティ](../Page/Classic_Mac_OS.md "wikilink")（マイクロカーネル上の互換環境）も同時に稼働できるとされた。また[IBM Workplace OS上で稼働するパーソナリティ](https://ja.wikipedia.org/wiki/IBM_Workplace_OS "wikilink")(OS)の1つともされた。
 
 |           |         |      |            |       |
 | --------- | ------- | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@
 | マイクロカーネル  |         |      |            |       |
 | インテル(x86) | PowerPC |      |            |       |
 
-のちにタリジェントOSは、フレームワーク**CommonPoint**の開発に変更され、1994年に発表された\[7\]。CommonPointは[C++](../Page/C++.md "wikilink")で開発され、 [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink"), [HP-UX](../Page/HP-UX.md "wikilink"), [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink"), [Windows NTに対応した](../Page/Microsoft_Windows_NT.md "wikilink")。
+のちにタリジェントOSは、フレームワーク**CommonPoint**の開発に変更され、1994年に発表された\[7\]。CommonPointは[C++](../Page/C++.md "wikilink")で開発され、 [AIX](../Page/AIX.md "wikilink"), [HP-UX](../Page/HP-UX.md "wikilink"), [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink"), [Windows NTに対応した](../Page/Microsoft_Windows_NT.md "wikilink")。
 
 1996年にタリジェントはIBMに吸収され、プロジェクトは中止された\[8\]\[9\]。IBMはCommonPointを1997年に販売終了した\[10\]。タリジェントの開発していたフレームワークの一部は、IBMオープンクラスライブラリ(IOCL)や、JDK ([Java Development Kit](../Page/Java_Development_Kit.md "wikilink"))の国際化対応部分などに引き継がれた。
 
@@ -25,7 +25,7 @@
 
 ## 関連項目
 
-  - [OPENSTEP](https://ja.wikipedia.org/wiki/OPENSTEP "wikilink")
+  - [OPENSTEP](../Page/OPENSTEP.md "wikilink")
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
   - [AIM連合](https://ja.wikipedia.org/wiki/AIM連合 "wikilink")
   - [IBM Workplace OS](https://ja.wikipedia.org/wiki/IBM_Workplace_OS "wikilink")

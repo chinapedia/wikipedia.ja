@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[ルーク篁](../Page/ルーク篁.md "wikilink")（元・[聖飢魔II](../Page/聖飢魔II.md "wikilink")）を中心に、[雷電湯澤](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink")（[RX](../Page/RX_\(バンド\).md "wikilink")、元・聖飢魔II）と[MASAKI](../Page/MASAKI_\(ベーシスト\).md "wikilink")（[アニメタル](https://ja.wikipedia.org/wiki/アニメタル "wikilink")）のトリオ・バンドとして結成される。
+[ルーク篁](../Page/ルーク篁.md "wikilink")（元・[聖飢魔II](../Page/聖飢魔II.md "wikilink")）を中心に、[雷電湯澤](../Page/雷電湯澤.md "wikilink")（[RX](../Page/RX_\(バンド\).md "wikilink")、元・聖飢魔II）と[MASAKI](../Page/MASAKI_\(ベーシスト\).md "wikilink")（[アニメタル](../Page/アニメタル.md "wikilink")）のトリオ・バンドとして結成される。
 技巧派揃いのバンドであるが、苛烈なテクニカルプレイの応酬ではなく、あくまでメロディアスでポップなハードロックを志向している。
 ボーカルはルーク篁が務めているが、ルーク本人は元々ボーカリストを他人に頼もうとしており、散々探し回ったが結局見つからず自分が歌うことになったという。
 
@@ -14,8 +14,8 @@
 ## ラインナップ
 
   - [ルーク篁](../Page/ルーク篁.md "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
-  - [雷電湯澤](https://ja.wikipedia.org/wiki/雷電湯澤 "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-  - [MASAKI](../Page/MASAKI_\(ベーシスト\).md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [雷電湯澤](../Page/雷電湯澤.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [MASAKI](../Page/MASAKI_\(ベーシスト\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ## ディスコグラフィ
 

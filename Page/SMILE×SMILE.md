@@ -1,7 +1,7 @@
 > この記事は[SMILESMILE](https://ja.wikipedia.org/wiki/SMILESMILE)から翻訳されています。
 
 
-『**SMILE×SMILE**』（スマイル スマイル）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")から発売された。
+『**SMILE×SMILE**』（スマイル スマイル）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 批評
 
-CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")・トレッソンらが提供したスウェディシュ・ポップな表情から、[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")や[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")らが作りあげたセンチメンタルな姿まで、一人の女性の悲喜な姿を軽やかに描いた逸品」と評した\[1\]。
+CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")・トレッソンらが提供したスウェディシュ・ポップな表情から、[堂島孝平](../Page/堂島孝平.md "wikilink")や[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")らが作りあげたセンチメンタルな姿まで、一人の女性の悲喜な姿を軽やかに描いた逸品」と評した\[1\]。
 
 ## 収録内容
 
@@ -19,11 +19,11 @@ CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/
 
 **君といたmemory**
 
-  - [Guitars](../Page/ギター.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：[加藤みちあき](https://ja.wikipedia.org/wiki/加藤みちあき "wikilink")
-  - [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：美久月千春
+  - [Guitars](../Page/ギター.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：[加藤みちあき](../Page/加藤みちあき.md "wikilink")
+  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：美久月千春
   - [Drums](../Page/ドラムセット.md "wikilink")：[佐野康夫](../Page/佐野康夫.md "wikilink")
-  - [Piano](../Page/ピアノ.md "wikilink")：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
-  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹グループ](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")
+  - [Piano](../Page/ピアノ.md "wikilink")：[中西康晴](../Page/中西康晴.md "wikilink")
+  - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[弦一徹グループ](../Page/落合徹也.md "wikilink")
 
 **My best friend**
 
@@ -63,7 +63,7 @@ CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/
 
 **Dream**
 
-  - Guitars & Keyboards & Chorus：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - Guitars & Keyboards & Chorus：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
   - Chorus：一木有佳子
 
 **聴かせてよ君の声 〜S×S version〜**
@@ -71,7 +71,7 @@ CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/
   - Piano：[細海魚](https://ja.wikipedia.org/wiki/細海魚 "wikilink")
   - Bass：入江太郎
   - Drums：矢部浩
-  - Guitars & [Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")：鈴木"CHiBUN"智文
+  - Guitars & [Programming](../Page/ミュージックシーケンサー.md "wikilink")：鈴木"CHiBUN"智文
   - Chorus：メガスマコーラス隊
 
 ## タイアップ

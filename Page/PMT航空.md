@@ -1,7 +1,7 @@
 > この記事は[PMT](https://ja.wikipedia.org/wiki/PMT)から翻訳されています。
 
 
-**PMT航空**（PMT air、Progress MulTi Air）は[カンボジア](https://ja.wikipedia.org/wiki/カンボジア "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。
+**PMT航空**（PMT air、Progress MulTi Air）は[カンボジア](../Page/カンボジア.md "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。
 
 2009年4月9日付けのカンボジアデイリー紙によると、同社は2007年6月の事故で取り消された営業免許を再び取得するべく当局と折衝中だとのこと。なお、同社のMD-83型機はシェムリアップ空港の沖止めスポットへ放置されている事が確認できる。（2009年4月14日現在）
 
@@ -18,22 +18,22 @@
   - 国内線
       - [プノンペン](../Page/プノンペン国際空港.md "wikilink") 〜 [シェムリアップ](../Page/シェムリアップ国際空港.md "wikilink")
       - プノンペン 〜 ラタナキリ
-      - シェムリアップ 〜 [シアヌークビル](https://ja.wikipedia.org/wiki/シアヌークビル "wikilink")
+      - シェムリアップ 〜 [シアヌークビル](../Page/シアヌークビル.md "wikilink")
 
 <!-- end list -->
 
   - 国際線
       - シェムリアップ 〜 [ハノイ](../Page/ノイバイ国際空港.md "wikilink")
       - シェムリアップ 〜 [ソウル/仁川](https://ja.wikipedia.org/wiki/仁川国際空港 "wikilink")
-      - シェムリアップ 〜 [釜山](https://ja.wikipedia.org/wiki/金海国際空港 "wikilink")
+      - シェムリアップ 〜 [釜山](../Page/金海国際空港.md "wikilink")
 
 ## 保有機材
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PMTair_20060914_Phnom_Penh.jpg "wikilink")
 
   - [MD-83型機](../Page/マクドネル・ダグラス_MD-80.md "wikilink") 1機
-  - [ボーイング737](https://ja.wikipedia.org/wiki/ボーイング737 "wikilink")-200型機 1機
-  - [アントノフ](https://ja.wikipedia.org/wiki/O・K・アントーノウ記念航空科学技術複合体 "wikilink") [An-12型機](../Page/An-12_\(航空機\).md "wikilink") 2機
+  - [ボーイング737](../Page/ボーイング737.md "wikilink")-200型機 1機
+  - [アントノフ](../Page/O・K・アントーノウ記念航空科学技術複合体.md "wikilink") [An-12型機](../Page/An-12_\(航空機\).md "wikilink") 2機
 
 ## 事故
 

@@ -1,9 +1,9 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-『**B型の彼氏**』（ビーがたのかれし、原題：B, 英題：*My Boyfriend is Type B*）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に公開された[韓国映画](../Page/韓国映画.md "wikilink")。
+『**B型の彼氏**』（ビーがたのかれし、原題：B, 英題：*My Boyfriend is Type B*）は、[2005年](../Page/2005年.md "wikilink")に公開された[韓国映画](../Page/韓国映画.md "wikilink")。
 
-わがままな[B型の男と小心者の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型の女の子の斬新な](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[ラブストーリー](https://ja.wikipedia.org/wiki/ラブストーリー "wikilink")を描いた[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")ドラマ。
+わがままな[B型の男と小心者の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型の女の子の斬新な](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[ラブストーリー](../Page/ラブストーリー.md "wikilink")を描いた[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")ドラマ。
 
 [血液型による偏見を助長させる映画とも言われるが](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、映画を最後まで観た人にはわかるように、実際には血液型に振り回される人々について描いた作品である。
 
@@ -36,7 +36,7 @@
 
   - [血液型占い](../Page/血液型占い.md "wikilink")
   - [血液型性格分類](https://ja.wikipedia.org/wiki/血液型性格分類 "wikilink")
-  - [ステレオタイプ](https://ja.wikipedia.org/wiki/ステレオタイプ "wikilink")
+  - [ステレオタイプ](../Page/ステレオタイプ.md "wikilink")
 
 ## 外部リンク
 

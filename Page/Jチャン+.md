@@ -7,7 +7,7 @@
 
 ### 2012年3月9日まで
 
-  - 16:53から18:17までは東京発（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』を、18:18からの10分間は[ブロックネット](https://ja.wikipedia.org/wiki/ブロックネット "wikilink")番組の『[スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")』をネットするため、2時間ある番組枠のうちローカル部分は18:28から18:55の30分弱に限られる。[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")の[EPGでは](../Page/電子番組ガイド.md "wikilink")17:54から18:28までが『ANNスーパーJチャンネル』、その他が『KKBスーパーJチャンネル』と扱われている。『九州・沖縄』をネットしていることから、2012年3月9日までは県内他民放局よりローカル部分の開始時間が10分ほど遅かった。
+  - 16:53から18:17までは東京発（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』を、18:18からの10分間は[ブロックネット](../Page/ブロックネット.md "wikilink")番組の『[スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")』をネットするため、2時間ある番組枠のうちローカル部分は18:28から18:55の30分弱に限られる。[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")の[EPGでは](../Page/電子番組ガイド.md "wikilink")17:54から18:28までが『ANNスーパーJチャンネル』、その他が『KKBスーパーJチャンネル』と扱われている。『九州・沖縄』をネットしていることから、2012年3月9日までは県内他民放局よりローカル部分の開始時間が10分ほど遅かった。
 
 ### 2012年3月12日から
 
@@ -68,14 +68,14 @@
 <td><p>2000</p></td>
 <td><center>
 <p><a href="https://ja.wikipedia.org/wiki/馬場雄二_(アナウンサー)" title="wikilink">馬場雄二</a><br />
-<a href="https://ja.wikipedia.org/wiki/池上美弥子" title="wikilink">池上美弥子</a></p></td>
+<a href="../Page/池上美弥子.md" title="wikilink">池上美弥子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
 <td><p>2002.12</p></td>
 <td><center>
 <p>馬場雄二<br />
-<a href="https://ja.wikipedia.org/wiki/若林芽育" title="wikilink">若林芽育</a></p>
+<a href="../Page/若林芽育.md" title="wikilink">若林芽育</a></p>
 </center></td>
 </tr>
 <tr class="even">
@@ -163,7 +163,7 @@
 <td><p>2017.7.31</p></td>
 <td><p>2017.9.1</p></td>
 <td><center>
-<p><a href="https://ja.wikipedia.org/wiki/村川裕" title="wikilink">村川裕</a><br />
+<p><a href="../Page/村川裕.md" title="wikilink">村川裕</a><br />
 <a href="../Page/中西可奈.md" title="wikilink">中西可奈</a></p>
 </center></td>
 </tr>
@@ -314,7 +314,7 @@
 ### 土曜日・日曜日の放送
 
   - 土曜日・日曜日のニュースについては、2003年3月までは日曜日のみ『スーパーJチャンネル』内に内包されていた。場合によっては全国の天気予報を流さず、エンディングについては東京発の[天気予報](../Page/天気予報.md "wikilink")を放送せずに終わってしまうということもあった（エンディングスポンサーベースの6秒間は東京発をネット）。
-      - 2012年10月までは土曜日・日曜日ともに17:55からの『[KKBニュース](https://ja.wikipedia.org/wiki/KKBニュース "wikilink")』に分離して放送しているため、フルネットで観ることができたが、2012年11月から両曜日ともに当番組に再内包、17:47もしくは17:50からの放送となった。移動後もテロップは『KKBニュース』のものをしばらくの間は使用していた。2015年4月5日から[報道ステーション SUNDAYが夕方に移動](https://ja.wikipedia.org/wiki/報道ステーション_SUNDAY "wikilink")、日曜のみ同番組のローカル枠として放送するようになった。
+      - 2012年10月までは土曜日・日曜日ともに17:55からの『[KKBニュース](../Page/KKBニュース.md "wikilink")』に分離して放送しているため、フルネットで観ることができたが、2012年11月から両曜日ともに当番組に再内包、17:47もしくは17:50からの放送となった。移動後もテロップは『KKBニュース』のものをしばらくの間は使用していた。2015年4月5日から[報道ステーション SUNDAYが夕方に移動](https://ja.wikipedia.org/wiki/報道ステーション_SUNDAY "wikilink")、日曜のみ同番組のローカル枠として放送するようになった。
   - 2016年10月8日から『スーパーJチャンネル』土曜第1部のフルネットを開始した。
 
 ### その他

@@ -1,11 +1,11 @@
 > この記事は[HOLD ON ME!](https://ja.wikipedia.org/wiki/HOLD_ON_ME!)から翻訳されています。
 
 
-「**抱いてHOLD ON ME\!**」（だいてホールド オン ミー\!）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")に[zetimaより発売された](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")。
+「**抱いてHOLD ON ME\!**」（だいてホールド オン ミー\!）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")に[zetimaより発売された](../Page/アップフロントワークス.md "wikilink")。
 
 ## 概要
 
-前作「[サマーナイトタウン](../Page/サマーナイトタウン.md "wikilink")」より4か月ぶりのリリース。モーニング娘。として初の[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位の曲である\[1\]。『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』出身アーティストとしても初のオリコンシングルチャート1位となった\[2\]。オリコンカラオケチャートでは8週連続1位を記録した。本作で『[第49回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦 "wikilink")』に出場し、紅白歌合戦初出場を果たした\[3\]。作詞・作曲を担当した[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")はこの曲について「完璧に作れた」と話している。
+前作「[サマーナイトタウン](../Page/サマーナイトタウン.md "wikilink")」より4か月ぶりのリリース。モーニング娘。として初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位の曲である\[1\]。『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』出身アーティストとしても初のオリコンシングルチャート1位となった\[2\]。オリコンカラオケチャートでは8週連続1位を記録した。本作で『[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』に出場し、紅白歌合戦初出場を果たした\[3\]。作詞・作曲を担当した[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")はこの曲について「完璧に作れた」と話している。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に全国6か所のマルチビジョンを使って行われた\[4\]初披露イベントは、全国計で約13500人を動員した\[5\]。
 
@@ -13,11 +13,11 @@
 
 本作のプロモーションを兼ねた[イベント](../Page/イベント.md "wikilink")[映画](../Page/映画.md "wikilink")『[モーニング刑事。抱いてHOLD ON ME\!](../Page/モーニング刑事。抱いてHOLD_ON_ME!.md "wikilink")』が[8月18日](../Page/8月18日.md "wikilink")より公開され\[7\]、同作のエンディングテーマ\[8\]に使用された。サウンドトラック盤には『[モーニング刑事。抱いてHOLD ON ME\!](https://ja.wikipedia.org/wiki/モーニング刑事。抱いてHOLD_ON_ME!_\(アルバム\) "wikilink") 』に「抱いて HOLD ON ME\! (Sexy Long Version)」という別アレンジで収録された。
 
-大サビには[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")による「**ねえ、笑って**」というセリフが入っている。この部分について後に「つんく♂さんの強いこだわりで、海に向かって何時間も練習させられた。」と語っている\[9\]。また、プロモーションで出演した、[TBS](../Page/TBSテレビ.md "wikilink")[系の音楽番組](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』において、[PVでのこのセリフの部分で全然笑っていなかったことで](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、MCの[石橋貴明](../Page/石橋貴明.md "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）にいじられた\[10\]。
+大サビには[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")による「**ねえ、笑って**」というセリフが入っている。この部分について後に「つんく♂さんの強いこだわりで、海に向かって何時間も練習させられた。」と語っている\[9\]。また、プロモーションで出演した、[TBS](../Page/TBSテレビ.md "wikilink")[系の音楽番組](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』において、[PVでのこのセリフの部分で全然笑っていなかったことで](../Page/ミュージック・ビデオ.md "wikilink")、MCの[石橋貴明](../Page/石橋貴明.md "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）にいじられた\[10\]。
 
-別バージョンの音源を加えた12cm盤が[2004年](../Page/2004年.md "wikilink")12月15日に発売された『[モーニング娘。EARLY SINGLE BOX](https://ja.wikipedia.org/wiki/モーニング娘。EARLY_SINGLE_BOX "wikilink")』に収録され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月2日には同じものがシングルとして発売された。
+別バージョンの音源を加えた12cm盤が[2004年](../Page/2004年.md "wikilink")12月15日に発売された『[モーニング娘。EARLY SINGLE BOX](https://ja.wikipedia.org/wiki/モーニング娘。EARLY_SINGLE_BOX "wikilink")』に収録され、[2005年](../Page/2005年.md "wikilink")3月2日には同じものがシングルとして発売された。
 
-日本テレビの『[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』内コーナー「[ランキングキャラクターライブ](https://ja.wikipedia.org/wiki/ウリナリコントライブのコント一覧 "wikilink")」では当時の男性レギュラー全員によるコント「モーニング息子。」のネタとして歌われた。また、「ランキングキャラクターライブ」の後々作「ウリナリライブ 2001（2002）」によるコント「新モーニング息子。」でも歌われていたが、後に11枚目のシングルである「[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")」を歌う事になった。なお、この時は[堀部圭亮](../Page/堀部圭亮.md "wikilink")と[よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")の2人はレギュラーを卒業しており、変わりに[大竹一樹](https://ja.wikipedia.org/wiki/大竹一樹 "wikilink")（[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")）・[ゴルゴ松本](https://ja.wikipedia.org/wiki/ゴルゴ松本 "wikilink")（[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")）・[坂本ちゃん](https://ja.wikipedia.org/wiki/坂本ちゃん "wikilink")の3人が新メンバーとして登場した。
+日本テレビの『[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』内コーナー「[ランキングキャラクターライブ](../Page/ウリナリコントライブのコント一覧.md "wikilink")」では当時の男性レギュラー全員によるコント「モーニング息子。」のネタとして歌われた。また、「ランキングキャラクターライブ」の後々作「ウリナリライブ 2001（2002）」によるコント「新モーニング息子。」でも歌われていたが、後に11枚目のシングルである「[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")」を歌う事になった。なお、この時は[堀部圭亮](../Page/堀部圭亮.md "wikilink")と[よゐこ](../Page/よゐこ.md "wikilink")の2人はレギュラーを卒業しており、変わりに[大竹一樹](../Page/大竹一樹.md "wikilink")（[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")）・[ゴルゴ松本](../Page/ゴルゴ松本.md "wikilink")（[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")）・[坂本ちゃん](../Page/坂本ちゃん.md "wikilink")の3人が新メンバーとして登場した。
 
 ## 収録曲
 
@@ -54,9 +54,9 @@
 ## 参加ミュージシャン
 
   - GEMI TAYLOR - [ギター](../Page/ギター.md "wikilink")(1,4)
-  - 前嶋康明 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")(1,4)
+  - 前嶋康明 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")(1,4)
   - つんく - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(1,4)
-  - 常見和秀 - [マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")(4)
+  - 常見和秀 - [マニピュレーター](../Page/マニピュレーター.md "wikilink")(4)
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[AERIS](https://ja.wikipedia.org/wiki/AERIS)から翻訳されています。
 
 
-『**AERIS**』（エアリス）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")に[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")から発売された。
+『**AERIS**』（エアリス）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の4枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")に[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")から発売された。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 **introduction for you**
 
-  - [Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")：[長谷川智樹](https://ja.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - [Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
   - [Violin](../Page/ヴァイオリン.md "wikilink")：[桑野聖](https://ja.wikipedia.org/wiki/桑野聖 "wikilink")
   - [Cello](../Page/チェロ.md "wikilink")：四家卯大
 
@@ -52,13 +52,13 @@
 
 **ひとりの夜**
 
-  - Piano：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Piano：[中西康晴](../Page/中西康晴.md "wikilink")
   - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：小池弘行カルテット
 
 **Steal on Sunday**
 
   - Electric Guitar & Keyboards：CHiBUN
-  - Chorus：[新居昭乃](https://ja.wikipedia.org/wiki/新居昭乃 "wikilink")、前田康美
+  - Chorus：[新居昭乃](../Page/新居昭乃.md "wikilink")、前田康美
 
 **あこがれ**
 

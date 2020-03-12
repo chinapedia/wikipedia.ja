@@ -5,34 +5,34 @@
 [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
 [UNIX](../Page/UNIX.md "wikilink")
 [Android](../Page/Android.md "wikilink")
-[Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")
-[Symbian OS](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")
+[Windows Mobile](../Page/Windows_Mobile.md "wikilink")
+[Symbian OS](../Page/Symbian_OS.md "wikilink")
 [Windows Embedded Compact](../Page/Microsoft_Windows_Embedded_CE.md "wikilink") | 種別 = リモートログオン[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink") | ライセンス = [MIT License](../Page/MIT_License.md "wikilink")\[1\] | 公式サイト = [PuTTY: A Free Telnet/SSH Client](https://www.chiark.greenend.org.uk/~sgtatham/putty/index.html) }}
 
 **PuTTY**(パティ)はSimon Tathamが[MIT Licence](https://ja.wikipedia.org/wiki/MIT_Licence "wikilink")\[2\]([オープンソース](../Page/オープンソース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")[ライセンス](../Page/ライセンス.md "wikilink")の一種)で開発·公開しているリモートログオン[クライアントである](../Page/クライアント_\(コンピュータ\).md "wikilink")。
 
 ## 特徴
 
-本[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、下記の機能を有し、[SSH](../Page/Secure_Shell.md "wikilink")·SSH2·[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")·[rlogin](https://ja.wikipedia.org/wiki/rlogin "wikilink")·[TCP](../Page/Transmission_Control_Protocol.md "wikilink")·[シリアルポート](../Page/シリアルポート.md "wikilink")([RS-232](../Page/RS-232.md "wikilink")·[RS-422](https://ja.wikipedia.org/wiki/RS-422 "wikilink")·[RS-485](https://ja.wikipedia.org/wiki/RS-485 "wikilink"))の各[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応している。 また、[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")の成果も有って、[Windowsのみならず](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[UNIX](../Page/UNIX.md "wikilink")系から[Android](../Page/Android.md "wikilink")や[Windows Mobileまで](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")、更には[Symbian OSや](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink")[Windows Embedded Compactも含めて](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")、様々な[OSに移植されている](../Page/オペレーティングシステム.md "wikilink")。
+本[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、下記の機能を有し、[SSH](../Page/Secure_Shell.md "wikilink")·SSH2·[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")·[rlogin](https://ja.wikipedia.org/wiki/rlogin "wikilink")·[TCP](../Page/Transmission_Control_Protocol.md "wikilink")·[シリアルポート](../Page/シリアルポート.md "wikilink")([RS-232](../Page/RS-232.md "wikilink")·[RS-422](https://ja.wikipedia.org/wiki/RS-422 "wikilink")·[RS-485](https://ja.wikipedia.org/wiki/RS-485 "wikilink"))の各[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応している。 また、[サードパーティー](../Page/サードパーティー.md "wikilink")の成果も有って、[Windowsのみならず](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[UNIX](../Page/UNIX.md "wikilink")系から[Android](../Page/Android.md "wikilink")や[Windows Mobileまで](../Page/Windows_Mobile.md "wikilink")、更には[Symbian OSや](../Page/Symbian_OS.md "wikilink")[Windows Embedded Compactも含めて](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")、様々な[OSに移植されている](../Page/オペレーティングシステム.md "wikilink")。
 
   - [ポートフォワーディング機能](../Page/ポート_\(コンピュータネットワーク\).md "wikilink")([X11](https://ja.wikipedia.org/wiki/X11 "wikilink")フォワードを含む)
-  - [VT102の粗完全な](https://ja.wikipedia.org/wiki/VT100 "wikilink")[エミュレーション及び](../Page/エミュレータ.md "wikilink")[xterm](https://ja.wikipedia.org/wiki/xterm "wikilink")やECMA-48端末の制御シーケンスの多くのサポート
-  - 詳細なオプション([暗号](../Page/暗号.md "wikilink")化や[認証](../Page/認証.md "wikilink")に関する設定や[トンネリング](https://ja.wikipedia.org/wiki/トンネリング "wikilink")など)
+  - [VT102の粗完全な](../Page/VT100.md "wikilink")[エミュレーション及び](../Page/エミュレータ.md "wikilink")[xterm](https://ja.wikipedia.org/wiki/xterm "wikilink")やECMA-48端末の制御シーケンスの多くのサポート
+  - 詳細なオプション([暗号](../Page/暗号.md "wikilink")化や[認証](../Page/認証.md "wikilink")に関する設定や[トンネリング](../Page/トンネリング.md "wikilink")など)
   - 接続先毎に異なる設定を保存できる
-  - [SCPや](../Page/Secure_copy.md "wikilink")[SFTP](https://ja.wikipedia.org/wiki/SFTP "wikilink")の[コマンドラインクライアント](https://ja.wikipedia.org/wiki/コマンドラインインタプリタ "wikilink")[ユーティリティの付属](https://ja.wikipedia.org/wiki/ユーティリティソフトウェア "wikilink")
+  - [SCPや](../Page/Secure_copy.md "wikilink")[SFTP](https://ja.wikipedia.org/wiki/SFTP "wikilink")の[コマンドラインクライアント](../Page/コマンドラインインタプリタ.md "wikilink")[ユーティリティの付属](../Page/ユーティリティソフトウェア.md "wikilink")
       - **Plink**: 各[プロトコル](../Page/プロトコル.md "wikilink")(ssh·telnet·rlogin)での接続を司るコマンドラインツール
-      - **PuTTY**: [バックエンドにPlinkを用いて](https://ja.wikipedia.org/wiki/バックグラウンド_\(ソフトウェア\) "wikilink")[サーバーへの接続を行う](https://ja.wikipedia.org/wiki/リモートホスト "wikilink")[CUIツール](../Page/キャラクタユーザインタフェース.md "wikilink") (PuTTY本体)
+      - **PuTTY**: [バックエンドにPlinkを用いて](https://ja.wikipedia.org/wiki/バックグラウンド_\(ソフトウェア\) "wikilink")[サーバーへの接続を行う](../Page/リモートホスト.md "wikilink")[CUIツール](../Page/キャラクタユーザインタフェース.md "wikilink") (PuTTY本体)
           - **PuTTYtel**: telnetとrloginのみ可能なCUIツール
-      - **PSCP**: SSHまたはSSH2のサーバーとSCPで[ファイルを遣り取りする](../Page/ファイル_\(コンピュータ\).md "wikilink")[コマンドライン](https://ja.wikipedia.org/wiki/テキストユーザインタフェース "wikilink")[ツール](https://ja.wikipedia.org/wiki/ツール "wikilink")
+      - **PSCP**: SSHまたはSSH2のサーバーとSCPで[ファイルを遣り取りする](../Page/ファイル_\(コンピュータ\).md "wikilink")[コマンドライン](https://ja.wikipedia.org/wiki/テキストユーザインタフェース "wikilink")[ツール](../Page/ツール.md "wikilink")
       - **PSFTP**: SSH2サーバーとファイルをSFTPで対話的に遣り取りするコマンドラインツール
-      - **PuTTYgen**: SSHでの[暗号](../Page/暗号.md "wikilink")[通信に必要な](https://ja.wikipedia.org/wiki/データ通信 "wikilink")[RSA暗号](../Page/RSA暗号.md "wikilink")や[DSAによる](https://ja.wikipedia.org/wiki/Digital_Signature_Algorithm "wikilink")[公開鍵を作成する](../Page/公開鍵暗号.md "wikilink")
-      - **Pageant**: SSH認証を行う[デーモン](https://ja.wikipedia.org/wiki/デーモン_\(ソフトウェア\) "wikilink")(PuTTY·PSCP·PSFTP·Plinkを内部的に使用する)
+      - **PuTTYgen**: SSHでの[暗号](../Page/暗号.md "wikilink")[通信に必要な](../Page/データ通信.md "wikilink")[RSA暗号](../Page/RSA暗号.md "wikilink")や[DSAによる](https://ja.wikipedia.org/wiki/Digital_Signature_Algorithm "wikilink")[公開鍵を作成する](../Page/公開鍵暗号.md "wikilink")
+      - **Pageant**: SSH認証を行う[デーモン](../Page/デーモン_\(ソフトウェア\).md "wikilink")(PuTTY·PSCP·PSFTP·Plinkを内部的に使用する)
 
 更に、**PuTTY PRIVATE PATCHES**や**PuTTYrv**のように、オリジナルのPuTTYを基に[機能追加された版が幾つか存在する](https://ja.wikipedia.org/wiki/patch "wikilink")。
 
 ### 複数接続
 
-PuTTYを内部で多重起動して同時に複数の端末に接続できるユーティリティとして、**SuperPutty**や**PuTTYTabManager**が利用されている。 これらは、[タブ化され各ウィンドウペインをドッキング自在な](../Page/タブ_\(GUI\).md "wikilink")[ユーザーインターフェイスを持ち](../Page/ユーザインタフェース.md "wikilink")、一つの[ウィンドウ](../Page/ウィンドウ.md "wikilink")内で複数接続から[セッション管理まで実行できるので](https://ja.wikipedia.org/wiki/セッション_\(コンピュータ\) "wikilink")[ユーザビリティ](https://ja.wikipedia.org/wiki/ユーザビリティ "wikilink")に優れる。 ただし、これらはPuTTYのラッパー として機能するので、単独での利用はできずPuTTYを組み合わせて用いられる。 SuperPuttyは、バックグラウンドでPuTTYと供にPSCPや[WinSCP](https://ja.wikipedia.org/wiki/WinSCP "wikilink")および[FileZilla](https://ja.wikipedia.org/wiki/FileZilla "wikilink")を連携させて、SuperPuttyの[GUIユーザーインターフェイスからSCPやSFTPによるファイルを遣り取りでき](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、また、[リモートデスクトップ](https://ja.wikipedia.org/wiki/リモートデスクトップ "wikilink")クライアントである[TightVNC](https://ja.wikipedia.org/wiki/TightVNC "wikilink")を組み合わせれば、SSHポートフォワーディングを介した[VNC接続を行える](https://ja.wikipedia.org/wiki/Virtual_Network_Computing "wikilink")。
+PuTTYを内部で多重起動して同時に複数の端末に接続できるユーティリティとして、**SuperPutty**や**PuTTYTabManager**が利用されている。 これらは、[タブ化され各ウィンドウペインをドッキング自在な](../Page/タブ_\(GUI\).md "wikilink")[ユーザーインターフェイスを持ち](../Page/ユーザインタフェース.md "wikilink")、一つの[ウィンドウ](../Page/ウィンドウ.md "wikilink")内で複数接続から[セッション管理まで実行できるので](https://ja.wikipedia.org/wiki/セッション_\(コンピュータ\) "wikilink")[ユーザビリティ](../Page/ユーザビリティ.md "wikilink")に優れる。 ただし、これらはPuTTYのラッパー として機能するので、単独での利用はできずPuTTYを組み合わせて用いられる。 SuperPuttyは、バックグラウンドでPuTTYと供にPSCPや[WinSCP](../Page/WinSCP.md "wikilink")および[FileZilla](https://ja.wikipedia.org/wiki/FileZilla "wikilink")を連携させて、SuperPuttyの[GUIユーザーインターフェイスからSCPやSFTPによるファイルを遣り取りでき](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、また、[リモートデスクトップ](https://ja.wikipedia.org/wiki/リモートデスクトップ "wikilink")クライアントである[TightVNC](https://ja.wikipedia.org/wiki/TightVNC "wikilink")を組み合わせれば、SSHポートフォワーディングを介した[VNC接続を行える](../Page/Virtual_Network_Computing.md "wikilink")。
 
 ### 派生版
 
@@ -40,7 +40,7 @@ PuTTYから[派生した](../Page/フォーク_\(ソフトウェア開発\).md "
 
 ### PuTTYを内包しているもの
 
-SSHクライアントの一種である[mRemoteNG](https://ja.wikipedia.org/wiki/mRemoteNG "wikilink")や[Solar-PuTTY](https://ja.wikipedia.org/wiki/Solar-PuTTY "wikilink")では、パッケージにPuTTYの機能拡張版が含まれている。 また、VT220の[エミュレーターの一種である](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")[IVTは](https://ja.wikipedia.org/wiki/IVT_\(端末エミュレータ\) "wikilink")、PuTTYのコードを含んでいおり\[3\]、リモートログオンクライアントとしても利用できる。
+SSHクライアントの一種である[mRemoteNG](https://ja.wikipedia.org/wiki/mRemoteNG "wikilink")や[Solar-PuTTY](https://ja.wikipedia.org/wiki/Solar-PuTTY "wikilink")では、パッケージにPuTTYの機能拡張版が含まれている。 また、VT220の[エミュレーターの一種である](../Page/端末エミュレータ.md "wikilink")[IVTは](https://ja.wikipedia.org/wiki/IVT_\(端末エミュレータ\) "wikilink")、PuTTYのコードを含んでいおり\[3\]、リモートログオンクライアントとしても利用できる。
 
 [Cygwin](../Page/Cygwin.md "wikilink")や[MSYS](../Page/MSYS.md "wikilink")では、PuTTYを基に\[4\]、**[mintty](https://ja.wikipedia.org/wiki/mintty "wikilink")**が独立して開発されている。 [Xming](https://ja.wikipedia.org/wiki/Xming "wikilink")はPuTTYをサポートしており、[パッケージにはPuTTYのplink](../Page/パッケージソフトウェア.md "wikilink").exeも含まれている。
 
@@ -66,9 +66,9 @@ Androidで動作する[Mobile SSHでは](https://ja.wikipedia.org/wiki/Mobile_SS
       - [SCP](../Page/Secure_copy.md "wikilink")
       - [SFTP](https://ja.wikipedia.org/wiki/SFTP "wikilink")
 
-[実装](https://ja.wikipedia.org/wiki/実装 "wikilink")
+[実装](../Page/実装.md "wikilink")
 
-  - [OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH "wikilink")
+  - [OpenSSH](../Page/OpenSSH.md "wikilink")
   - [Bitvise SSH Server](https://ja.wikipedia.org/wiki/Bitvise_SSH_Server "wikilink") [Bitvise SSH Client](https://ja.wikipedia.org/wiki/Bitvise_SSH_Client "wikilink")
   - [FileZilla](https://ja.wikipedia.org/wiki/FileZilla "wikilink")
 
@@ -78,14 +78,14 @@ Androidで動作する[Mobile SSHでは](https://ja.wikipedia.org/wiki/Mobile_SS
   - [mRemoteNG](https://ja.wikipedia.org/wiki/mRemoteNG "wikilink")
       - [mRemote](https://ja.wikipedia.org/wiki/mRemote "wikilink")
   - [RLogin](https://ja.wikipedia.org/wiki/RLogin "wikilink")
-  - [Poderosa](https://ja.wikipedia.org/wiki/Poderosa "wikilink") (【元】Terminal Emulator VaraTerm)
+  - [Poderosa](../Page/Poderosa.md "wikilink") (【元】Terminal Emulator VaraTerm)
   - [Tera Term](../Page/Tera_Term.md "wikilink")
   - [Bitvise SSH Client](https://ja.wikipedia.org/wiki/Bitvise_SSH_Client "wikilink")
   - [MobaXterm](https://ja.wikipedia.org/wiki/MobaXterm "wikilink")
   - [Xshell](https://ja.wikipedia.org/wiki/Xshell "wikilink")
   - [SmarTTY](https://ja.wikipedia.org/wiki/SmarTTY "wikilink")
   - [JuiceSSH](https://ja.wikipedia.org/wiki/JuiceSSH "wikilink")
-  - [WinSCP](https://ja.wikipedia.org/wiki/WinSCP "wikilink")
+  - [WinSCP](../Page/WinSCP.md "wikilink")
   - [Tunnelier](https://ja.wikipedia.org/wiki/Tunnelier "wikilink")
 
 PuTTY内包
@@ -114,15 +114,15 @@ PuTTY内包
 <!-- end list -->
 
   -   - [PuTTY PRIVATE PATCHES](http://ice.hotmint.com/putty/index.html) (開発版PuTTY & ごった煮版 & 各種patch)
-          - [D2D/DW PuTTY](https://ice.hotmint.com/putty/d2ddw.html) (開発版PuTTY & ごった煮版 & 各種patch & [Direct2D](https://ja.wikipedia.org/wiki/Direct2D "wikilink")および[DirectWrite](https://ja.wikipedia.org/wiki/DirectWrite "wikilink")での[レンダリング](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink"))
+          - [D2D/DW PuTTY](https://ice.hotmint.com/putty/d2ddw.html) (開発版PuTTY & ごった煮版 & 各種patch & [Direct2D](https://ja.wikipedia.org/wiki/Direct2D "wikilink")および[DirectWrite](https://ja.wikipedia.org/wiki/DirectWrite "wikilink")での[レンダリング](../Page/レンダリング_\(コンピュータ\).md "wikilink"))
 
 <!-- end list -->
 
   -   - [PuTTYrv](http://www.ranvis.com/putty) [(GitHub リポジトリ)](https://github.com/ranvis/putty) (【元】**PuTTY-ranvis**) (安定版PuTTY & ごった煮版 & 各種patch)
       - [PuTTYjp](http://hp.vector.co.jp/authors/VA024651/PuTTYkj.html) ([日本語](../Page/日本語.md "wikilink")対応 & [フォント](../Page/フォント.md "wikilink")変更)
-      - [PuTTY-url](http://ryara.net/putty-url/index.html) ([URL](../Page/Uniform_Resource_Locator.md "wikilink")[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")の[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")化)
+      - [PuTTY-url](http://ryara.net/putty-url/index.html) ([URL](../Page/Uniform_Resource_Locator.md "wikilink")[文字列](../Page/文字列.md "wikilink")の[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")化)
       - puttywincrypt [(SourceForge リポジトリ)](https://sourceforge.net/projects/puttywincrypt/) [(Google リポジトリ)](https://code.google.com/p/puttywincrypt/) ([スマートカードおよび](../Page/ICカード.md "wikilink")[Wincrypt](https://ja.wikipedia.org/wiki/Wincrypt "wikilink")への対応)
-      - [PuTTY](http://jakub.kotrla.net/putty/index.html) ([ウクライナ語](../Page/ウクライナ語.md "wikilink")·[イタリア語](../Page/イタリア語.md "wikilink")·[ポーランド語](../Page/ポーランド語.md "wikilink")·[タイ語](../Page/タイ語.md "wikilink")·[ウズベク語](https://ja.wikipedia.org/wiki/ウズベク語 "wikilink")·[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")·[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")·[フィンランド語](../Page/フィンランド語.md "wikilink")対応およびファイルへの設定情報保存)
+      - [PuTTY](http://jakub.kotrla.net/putty/index.html) ([ウクライナ語](../Page/ウクライナ語.md "wikilink")·[イタリア語](../Page/イタリア語.md "wikilink")·[ポーランド語](../Page/ポーランド語.md "wikilink")·[タイ語](../Page/タイ語.md "wikilink")·[ウズベク語](../Page/ウズベク語.md "wikilink")·[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")·[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")·[フィンランド語](../Page/フィンランド語.md "wikilink")対応およびファイルへの設定情報保存)
       - [PuTTY](https://www.putty.sk/)
       - [PuTTY JP XTrans](https://web.archive.org/web/20060116095616/http://www.withe.ne.jp/~kabocha/softs/putty/) (安定版PuTTY & ごった煮版 & 背景透過) (開発中止)
       - [PuTTYどこでもハック版](http://ncl.sakura.ne.jp/doc/ja/software/dkdmputty-readme.html) (PuTTY & ごった煮版 & 非固定幅フォントや組込み日本語フォントへの対応など) (開発中止)
@@ -153,7 +153,7 @@ PuTTY内包
           - [iPuTTY](https://kldp.net/iputty/) [(GitHub リポジトリ)](https://github.com/iPuTTY/iPuTTY) [(Bitbucket リポジトリ)](https://bitbucket.org/daybreaker/iputty/src/default/) ([朝鮮語](../Page/朝鮮語.md "wikilink")対応) (開発中止)
               - [dputty](https://web.archive.org/web/20140606082857/https://dev.daybreaker.info/dputty) [(リポジトリ)](http://svn.daybreaker.info/dputty/) (朝鮮語対応) (開発中止)
 
-[マニュアル](https://ja.wikipedia.org/wiki/マニュアル "wikilink")
+[マニュアル](../Page/マニュアル.md "wikilink")
 
   - [PuTTY User Manual](https://tartarus.org/~simon/putty-snapshots/htmldoc/index.html)
 
@@ -207,7 +207,7 @@ PuTTY内包
 
   - [MTPuTTY](http://www.ttyplus.com/index.html) (開発中止)
 
-[MUD](https://ja.wikipedia.org/wiki/MUD "wikilink")対応
+[MUD](../Page/MUD.md "wikilink")対応
 
   - [PowTTY](http://www.elvenrunes.com/powtty/) (開発中止)
   - [DF Client](https://web.archive.org/web/20140104124115/http://www.dforces.net/client/) (開発中止)

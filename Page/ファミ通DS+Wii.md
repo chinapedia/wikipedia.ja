@@ -7,7 +7,7 @@
 
 ### ファミ通64+
 
-[1999年](../Page/1999年.md "wikilink")、『**ファミ通64+**』（ロクヨンプラス）の雑誌名で創刊。編集長は、現在『週刊ファミ通』編集長の[バカタール加藤](https://ja.wikipedia.org/wiki/加藤克明 "wikilink")。
+[1999年](../Page/1999年.md "wikilink")、『**ファミ通64+**』（ロクヨンプラス）の雑誌名で創刊。編集長は、現在『週刊ファミ通』編集長の[バカタール加藤](../Page/加藤克明.md "wikilink")。
 
 ### ファミ通64+アドバンス
 
@@ -15,17 +15,17 @@
 
 ### ファミ通キューブ+アドバンス
 
-[2001年](../Page/2001年.md "wikilink")9月の[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")発売に伴い10月号で『**ファミ通キューブ+アドバンス**』に誌名変更。これにより[NINTENDO64](../Page/NINTENDO64.md "wikilink")の話題を出さなくなる。[2002年](../Page/2002年.md "wikilink")12月号では諸般の事情により発売中止となっていた『[大乱闘スマッシュブラザーズDX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズDX "wikilink")』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")が本誌付録に。編集長は水間勇一になる。
+[2001年](../Page/2001年.md "wikilink")9月の[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")発売に伴い10月号で『**ファミ通キューブ+アドバンス**』に誌名変更。これにより[NINTENDO64](../Page/NINTENDO64.md "wikilink")の話題を出さなくなる。[2002年](../Page/2002年.md "wikilink")12月号では諸般の事情により発売中止となっていた『[大乱闘スマッシュブラザーズDX](../Page/大乱闘スマッシュブラザーズDX.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")が本誌付録に。編集長は水間勇一になる。
 
 ### ファミ通DS+キューブ&アドバンス
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月号より[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")の話題を内容に追加し『**ファミ通DS+キューブ&アドバンス**』に誌名変更。表紙や内容の傾向がいっそう低年齢向けになる。
+[2006年](../Page/2006年.md "wikilink")5月号より[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")の話題を内容に追加し『**ファミ通DS+キューブ&アドバンス**』に誌名変更。表紙や内容の傾向がいっそう低年齢向けになる。
 
 ### ファミ通DS+Wii
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月号から[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")発売に伴い早くも『**ファミ通DS+Wii**』に誌名変更の上、ゲームキューブとゲームボーイアドバンスの話題が本誌内容から外される。
+[2006年](../Page/2006年.md "wikilink")12月号から[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")発売に伴い早くも『**ファミ通DS+Wii**』に誌名変更の上、ゲームキューブとゲームボーイアドバンスの話題が本誌内容から外される。
 
-2006年10月までは、本誌は『[デンゲキニンテンドーDS](https://ja.wikipedia.org/wiki/デンゲキニンテンドーDS "wikilink")』と共に、低年齢層向けの任天堂誌として見られてきた。しかし、『デンゲキニンテンドーDS』を出版している[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")は、2006年10月から新たに、大人でも楽しめる『DENGEKI DS Style』（のち『[電撃DS\&Wii](https://ja.wikipedia.org/wiki/電撃DS&Wii "wikilink")』）を発刊。また、[毎日コミュニケーションズ](https://ja.wikipedia.org/wiki/毎日コミュニケーションズ "wikilink")が発刊している『[ニンテンドードリーム](https://ja.wikipedia.org/wiki/ニンテンドードリーム "wikilink")』は、依然として全年齢向けの内容であるため、結果として、本誌の出版元である[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")は、任天堂専門誌では3社の中で唯一、低年齢層向け雑誌のみ発刊している状態となった。
+2006年10月までは、本誌は『[デンゲキニンテンドーDS](https://ja.wikipedia.org/wiki/デンゲキニンテンドーDS "wikilink")』と共に、低年齢層向けの任天堂誌として見られてきた。しかし、『デンゲキニンテンドーDS』を出版している[メディアワークス](../Page/メディアワークス.md "wikilink")は、2006年10月から新たに、大人でも楽しめる『DENGEKI DS Style』（のち『[電撃DS\&Wii](https://ja.wikipedia.org/wiki/電撃DS&Wii "wikilink")』）を発刊。また、[毎日コミュニケーションズ](https://ja.wikipedia.org/wiki/毎日コミュニケーションズ "wikilink")が発刊している『[ニンテンドードリーム](../Page/ニンテンドードリーム.md "wikilink")』は、依然として全年齢向けの内容であるため、結果として、本誌の出版元である[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")は、任天堂専門誌では3社の中で唯一、低年齢層向け雑誌のみ発刊している状態となった。
 
 2007年8月21日発売の10月号で創刊100号を達成。
 
@@ -60,7 +60,7 @@
 ### 強力連載人気ゲーム大集合
 
   - [わいわいカービィひろば](https://ja.wikipedia.org/wiki/カービィシリーズ "wikilink")
-  - [ポケモン情報局Ver.2](https://ja.wikipedia.org/wiki/ポケットモンスター "wikilink")
+  - [ポケモン情報局Ver.2](../Page/ポケットモンスター.md "wikilink")
   - [ドラ盛](../Page/ドラゴンクエスト.md "wikilink")
   - [トモコレライフ](https://ja.wikipedia.org/wiki/トモダチコレクション "wikilink")
   - [マンスリーマリオマガジン（MMM）](../Page/マリオシリーズ.md "wikilink")
@@ -72,7 +72,7 @@
 
   - [ロックマン](https://ja.wikipedia.org/wiki/ロックマン "wikilink")ナビケーション
   - [love love　ピクミン](https://ja.wikipedia.org/wiki/ピクミン "wikilink")
-  - [ゼルダでおしゃべり](https://ja.wikipedia.org/wiki/ゼルダの伝説 "wikilink")
+  - [ゼルダでおしゃべり](../Page/ゼルダの伝説.md "wikilink")
 
 ## ファミ2コミック
 
@@ -80,17 +80,17 @@
 
 ### 主な連載作品
 
-  - [星のカービィ カービィとデデデのプププ日記](https://ja.wikipedia.org/wiki/星のカービィ_カービィとデデデのプププ日記 "wikilink")（[路みちる](https://ja.wikipedia.org/wiki/路みちる "wikilink")→[まつやま登](../Page/まつやま登.md "wikilink")）
+  - [星のカービィ カービィとデデデのプププ日記](../Page/星のカービィ_カービィとデデデのプププ日記.md "wikilink")（[路みちる](https://ja.wikipedia.org/wiki/路みちる "wikilink")→[まつやま登](../Page/まつやま登.md "wikilink")）
   - [太鼓の達人 どんとかつの時空大冒険](https://ja.wikipedia.org/wiki/太鼓の達人_毎日がお祭り日和_\(漫画\) "wikilink")（[神楽つな](../Page/神楽つな.md "wikilink")）
 
 ### 過去の連載作品
 
   - [ゴー\!\!ゴー\!\!マリオカート](https://ja.wikipedia.org/wiki/ゴー!!ゴー!!マリオカート "wikilink")（[おぎのしん](../Page/おぎのしん.md "wikilink")）
   - [ぎもん?かいけつ\!水マリオ](https://ja.wikipedia.org/wiki/ぎもん?かいけつ!水マリオ "wikilink")（[おぎのひとし](https://ja.wikipedia.org/wiki/おぎのひとし "wikilink")）
-  - [ピーチの大冒険\!?](https://ja.wikipedia.org/wiki/ピーチの大冒険!? "wikilink")（[すぎやまかずみ](https://ja.wikipedia.org/wiki/すぎやまかずみ "wikilink")）
-  - [ロックマンゼクス](https://ja.wikipedia.org/wiki/ロックマンゼクス "wikilink")（おぎのしん）
-  - [超操縦メカ MG](https://ja.wikipedia.org/wiki/超操縦メカ_MG "wikilink")（[蜂文太](../Page/蜂文太.md "wikilink")）
-  - [カードファイターズDS](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ "wikilink")（[高内優向](https://ja.wikipedia.org/wiki/高内優向 "wikilink")）
+  - [ピーチの大冒険\!?](../Page/ピーチの大冒険!?.md "wikilink")（[すぎやまかずみ](https://ja.wikipedia.org/wiki/すぎやまかずみ "wikilink")）
+  - [ロックマンゼクス](../Page/ロックマンゼクス.md "wikilink")（おぎのしん）
+  - [超操縦メカ MG](../Page/超操縦メカ_MG.md "wikilink")（[蜂文太](../Page/蜂文太.md "wikilink")）
+  - [カードファイターズDS](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")（[高内優向](https://ja.wikipedia.org/wiki/高内優向 "wikilink")）
   - 川のぬし釣り　こもれびの谷せせらぎの詩（[まつやまいぐさ](https://ja.wikipedia.org/wiki/まつやまいぐさ "wikilink")）
   - [くりきん ナノアイランドストーリー](../Page/くりきん_ナノアイランドストーリー.md "wikilink")（[鵺りつき](https://ja.wikipedia.org/wiki/鵺りつき "wikilink")）
   - [ぼくとシムのまち](../Page/ぼくとシムのまち.md "wikilink")（藤丸あお）

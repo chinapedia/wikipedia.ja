@@ -1,15 +1,15 @@
 > この記事は[TEAM 44 BLOX](https://ja.wikipedia.org/wiki/TEAM_44_BLOX)から翻訳されています。
 
 
-**TEAM 44 BLOX**（**チームフォーティフォーブロックス**、稀に**フォーフォーブロックス**とも）は、[DELI](../Page/DELI.md "wikilink")、[YAKKO](https://ja.wikipedia.org/wiki/YAKKO "wikilink")、[MIKRIS](https://ja.wikipedia.org/wiki/MIKRIS "wikilink")、[MARS MANIEの](https://ja.wikipedia.org/wiki/MARS_MANIE "wikilink")4人を中心とした[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")・クルー。
+**TEAM 44 BLOX**（**チームフォーティフォーブロックス**、稀に**フォーフォーブロックス**とも）は、[DELI](../Page/DELI.md "wikilink")、[YAKKO](https://ja.wikipedia.org/wiki/YAKKO "wikilink")、[MIKRIS](../Page/MIKRIS.md "wikilink")、[MARS MANIEの](https://ja.wikipedia.org/wiki/MARS_MANIE "wikilink")4人を中心とした[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")・クルー。
 
 ## 来歴
 
 44 BLOXが形成されるきっかけとなったのは2000年前後で、[YAKKO](https://ja.wikipedia.org/wiki/YAKKO "wikilink")が千葉の県ナンバー44にBLOCK（地区）を組み合わせてTEAM 44 BLOXと名付けた。初期メンバーは[YAKKO](https://ja.wikipedia.org/wiki/YAKKO "wikilink")の他にDJ TOMIKEN、MAILMAN、DJ MASAKAZ、DJ VEGASなどである。その後、千葉近辺で活動しているラッパーも加わり今にいたる。
 
-活動が本格化したのは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")。7月から11月にかけて中心メンバー4人がTEAM 44 BLOX名義での全国ツアーを敢行する。また9月にはBLASTの裏表紙にTEAM 44 BLOXとして広告を打つ。新発売の作品の宣伝が多いこの雑誌の裏表紙にまだ作品をリリースしていないアーティストが広告を出すのは異例のことであった。
+活動が本格化したのは[2005年](../Page/2005年.md "wikilink")。7月から11月にかけて中心メンバー4人がTEAM 44 BLOX名義での全国ツアーを敢行する。また9月にはBLASTの裏表紙にTEAM 44 BLOXとして広告を打つ。新発売の作品の宣伝が多いこの雑誌の裏表紙にまだ作品をリリースしていないアーティストが広告を出すのは異例のことであった。
 
-そして、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には前年のツアーの模様を収めた[DVD](../Page/DVD.md "wikilink")をリリースすると共に遂にTEAM 44 BLOXとして発音源「BLOCK BUSTER」をリリースした。この作品では、彼らが推進してきたもうひとつのプロジェクトで[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")沿線のヒップホップ・アーティスト達の集合体であるJBLが44 BLOXと融合している。そのため、MARS MANIEの相方でMARS MANIEと共に[AQUARIUSのミックス](https://ja.wikipedia.org/wiki/AQUARIUS_\(音楽ユニット\) "wikilink")・テープやアルバムに参加していたKEN WHEEL、水戸市をレペゼンする[LUNCH TIME SPEAXのMC](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink")2人、同じく[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身ながらMR.OMERIの主宰するコンピレーションに参加し、最近では[SD JUNKSTAや](https://ja.wikipedia.org/wiki/SD_JUNKSTA "wikilink")[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")を擁する[SCARSとの交流も盛んなESSENCIALの二人など](https://ja.wikipedia.org/wiki/SCARS_\(グループ\) "wikilink")、多彩なアーティストが参加し、17人のMCを抱える大所帯になっている。
+そして、[2006年](../Page/2006年.md "wikilink")には前年のツアーの模様を収めた[DVD](../Page/DVD.md "wikilink")をリリースすると共に遂にTEAM 44 BLOXとして発音源「BLOCK BUSTER」をリリースした。この作品では、彼らが推進してきたもうひとつのプロジェクトで[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")沿線のヒップホップ・アーティスト達の集合体であるJBLが44 BLOXと融合している。そのため、MARS MANIEの相方でMARS MANIEと共に[AQUARIUSのミックス](../Page/AQUARIUS_\(音楽ユニット\).md "wikilink")・テープやアルバムに参加していたKEN WHEEL、水戸市をレペゼンする[LUNCH TIME SPEAXのMC](../Page/LUNCH_TIME_SPEAX.md "wikilink")2人、同じく[茨城県](../Page/茨城県.md "wikilink")出身ながらMR.OMERIの主宰するコンピレーションに参加し、最近では[SD JUNKSTAや](https://ja.wikipedia.org/wiki/SD_JUNKSTA "wikilink")[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")を擁する[SCARSとの交流も盛んなESSENCIALの二人など](https://ja.wikipedia.org/wiki/SCARS_\(グループ\) "wikilink")、多彩なアーティストが参加し、17人のMCを抱える大所帯になっている。
 
 ## メンバー
 
@@ -17,10 +17,10 @@
 
 ### ラッパー
 
-  - DELI a.k.a.DON ADELITA:[1975年](../Page/1975年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")生まれ/血液型;A/MATSUDO(千葉県[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink"))出身/[NITRO MICROPHONE UNDERGROUND及びAQUARIUSのメンバー](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")/TICATICA PRODUCTION主宰、NITRICH所属
+  - DELI a.k.a.DON ADELITA:[1975年](../Page/1975年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")生まれ/血液型;A/MATSUDO(千葉県[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink"))出身/[NITRO MICROPHONE UNDERGROUND及びAQUARIUSのメンバー](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")/TICATICA PRODUCTION主宰、NITRICH所属
   - DABO a.k.a.SIR FUDATZKEE:1975年[1月6日](../Page/1月6日.md "wikilink")生まれ/血液型;AかO/NODA(千葉県[野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink"))出身/NITRO MICROPHONE UNDERGROUNDのメンバー/BABYMARIO PRO主宰
   - JBM a.k.a. JOKY BIG MONSTER:[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")生まれ/血液型;B/CHIBA(千葉県)出身/TOP BLLOWのメンバー
-  - TORA a.k.a.GORETEX,MR.NICE G 13:1975年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")生まれ/血液型;?/MAD(千葉県出身？)/[NITRO MICROPHONE UNDERGROUNDのメンバー](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")/NITRICH所属
+  - TORA a.k.a.GORETEX,MR.NICE G 13:1975年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")生まれ/血液型;?/MAD(千葉県出身？)/[NITRO MICROPHONE UNDERGROUNDのメンバー](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")/NITRICH所属
   - MIKRIS a.k.a.MAD SKILL,THE DOG,MAD DOG:[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")生まれ/血液型;A/CHIBA(千葉県)出身/THE DOGのメンバー/TICITICA PRODUCTION所属
   - SESAME:[1979年](../Page/1979年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")生まれGREENPARK(千葉県[千葉市](../Page/千葉市.md "wikilink")[緑区](../Page/緑区_\(千葉市\).md "wikilink"))出身/THE DOGのメンバー
       - 以前はDELIの影響を感じさせる高音ラップをしていたが、今回はスタイルを変えているようだ。
@@ -28,7 +28,7 @@
   - JAH GOD a.k.a.EARTH:[1976年](../Page/1976年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")生まれ/血液型;B/ONLY JAH KNOW(千葉県出身？)/HOT CONNECTION及びDA.BONGZのメンバー/TONGARIYAMA PRO所属
       - 2004年～2005年ごろにYOHEYから改名。
   - BASS:詳細未詳（HOT CONNECTIONのメンバー）
-  - MARS MANIE a.k.a.HOODSTAR:[1977年](../Page/1977年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")生まれ/血液型;O/STONEHILL([茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[石岡市](../Page/石岡市.md "wikilink"))出身/FULL CONTACTのメンバー/FC MUZIK所属
+  - MARS MANIE a.k.a.HOODSTAR:[1977年](../Page/1977年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")生まれ/血液型;O/STONEHILL([茨城県](../Page/茨城県.md "wikilink")[石岡市](../Page/石岡市.md "wikilink"))出身/FULL CONTACTのメンバー/FC MUZIK所属
   - KEN WHEEL a.k.a.HOOD LEGEND:1977年[10月16日](../Page/10月16日.md "wikilink")生まれ/血液型;A/BG(茨城県？)出身/FULL CONTACTのメンバー/FC MUZIK所属
   - GOCCI:[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")生まれ/血液型;B/MITO(茨城県[水戸市](../Page/水戸市.md "wikilink"))出身/LUNCH TIME SPEAXのメンバー/SLUG TUNE所属
   - TADS A.C.:[1975年](../Page/1975年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")生まれ/血液型;AB/MTC(茨城県水戸市)出身/LUNCH TIME SPEAXのメンバー/SLUG TUNE所属

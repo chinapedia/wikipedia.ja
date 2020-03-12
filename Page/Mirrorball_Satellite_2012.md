@@ -11,14 +11,14 @@
 
 さらに、[the tripod e.p.に収録されている](https://ja.wikipedia.org/wiki/the_tripod_e.p. "wikilink")「flo jack」の英語版「theme from flo jack」も収録。
 
-後に発売されるファーストアルバム『[Planet Shining](https://ja.wikipedia.org/wiki/Planet_Shining "wikilink")』（2000年）には「Mirroball Satellite 2012」および「too much sense」は収録されていない。
+後に発売されるファーストアルバム『[Planet Shining](../Page/Planet_Shining.md "wikilink")』（2000年）には「Mirroball Satellite 2012」および「too much sense」は収録されていない。
 
 ## 収録曲
 
 1.  **Mirrorball Satellite 2012**
 2.  **too much sense**
 3.  Mirrorball Satellite 2012(SRATM Remix by [Towa Tei](https://ja.wikipedia.org/wiki/Towa_Tei "wikilink"))
-      - [Towa Teiによるリミックス](https://ja.wikipedia.org/wiki/Towa_Tei "wikilink")、後に発売するリミックスアルバム『[The Replacement Percussionists](https://ja.wikipedia.org/wiki/The_Replacement_Percussionists "wikilink")』（2000年）に収録
+      - [Towa Teiによるリミックス](https://ja.wikipedia.org/wiki/Towa_Tei "wikilink")、後に発売するリミックスアルバム『[The Replacement Percussionists](../Page/The_Replacement_Percussionists.md "wikilink")』（2000年）に収録
 4.  too much sense(DJ Alamo remix)
       - こちらのリミックスはアルバム未収録
 5.  theme from flo jack

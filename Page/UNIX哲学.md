@@ -1,7 +1,7 @@
 > この記事は[UNIX](https://ja.wikipedia.org/wiki/UNIX)から翻訳されています。
 
 
-**UNIX哲学**とは、[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発に関する文化的な規範と哲学的アプローチのまとまりであり、[UNIX](../Page/UNIX.md "wikilink") [OSの開発者たちの](../Page/オペレーティングシステム.md "wikilink")[経験](https://ja.wikipedia.org/wiki/経験 "wikilink")に基づくものとされている。 その内容は、発言者によって異なるが、以下の点に留意が必要である。
+**UNIX哲学**とは、[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発に関する文化的な規範と哲学的アプローチのまとまりであり、[UNIX](../Page/UNIX.md "wikilink") [OSの開発者たちの](../Page/オペレーティングシステム.md "wikilink")[経験](../Page/経験.md "wikilink")に基づくものとされている。 その内容は、発言者によって異なるが、以下の点に留意が必要である。
 
   - いずれもUNIXが開発された1971年から10年以上が経過してからなされた発言である
   - 発言者には、UNIX開発との関わり合いが希薄な人物も含まれている
@@ -24,7 +24,7 @@
 
 （注意: これは直接にはUNIX哲学ではない。強い結びつきのあるC言語についての記述ではあるが。現在英語版のこの記事には、この節に対応する節はない）
 
-[ロブ・パイク](https://ja.wikipedia.org/wiki/ロブ・パイク "wikilink")は *Notes on Programming in C* \[1\]の中で、以下のようなルールをプログラミングの格言として提案している。これはまたUNIX哲学のポイントとも共通点がある。
+[ロブ・パイク](../Page/ロブ・パイク.md "wikilink")は *Notes on Programming in C* \[1\]の中で、以下のようなルールをプログラミングの格言として提案している。これはまたUNIX哲学のポイントとも共通点がある。
 
   - ルール1: プログラムがどこで時間を消費することになるか知ることはできない。ボトルネックは驚くべき箇所で起こるものである。したがって、どこがボトルネックなのかをはっきりさせるまでは、推測を行ったり、スピードハックをしてはならない。Rule 1. You can't tell where a program is going to spend its time. Bottlenecks occur in surprising places, so don't try to second guess and put in a speed hack until you've proven that's where the bottleneck is.
   - ルール2: 計測すべし。計測するまでは速度のための調整をしてはならない。コードの一部が残りを圧倒しないのであれば、なおさらである。Rule 2. Measure. Don't tune for speed until you've measured, and even then don't unless one part of the code overwhelms the rest.
@@ -33,7 +33,7 @@
   - ルール5: データはすべてを決定づける。もし、正しいデータ構造を選び、ものごとをうまく構成すれば、アルゴリズムはほとんどいつも自明のものになるだろう。プログラミングの中心は、アルゴリズムではなくデータ構造にある。Rule 5. Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self­evident. Data structures, not algorithms, are central to programming.
   - ルール6: ルール6は存在しない。Rule 6. There is no Rule 6.
 
-パイクのルール1と2は、[ドナルド・クヌース](../Page/ドナルド・クヌース.md "wikilink")が述べた格言「早すぎる最適化は諸悪の根源である」を言い換えたものである（[最適化 (情報工学)\#最適化する時期も参照](https://ja.wikipedia.org/wiki/最適化_\(情報工学\)#最適化する時期 "wikilink")）。[ケン・トンプソン](../Page/ケン・トンプソン.md "wikilink")はパイクのルール3と4を「疑いがあるときは[総当たり](https://ja.wikipedia.org/wiki/力まかせ探索 "wikilink")（brute force）を使え」と言い換えている。ルール3と4はデザイン哲学[KISSの例である](https://ja.wikipedia.org/wiki/KISS原則 "wikilink")。ルール5は[フレッド・ブルックスが以前に](https://ja.wikipedia.org/wiki/フレデリック・ブルックス "wikilink")「[人月の神話](https://ja.wikipedia.org/wiki/人月の神話 "wikilink")」の中で述べている。ジョン・ベントレーの *[Programming Pearls](https://ja.wikipedia.org/wiki/:en:Programming_Pearls "wikilink")* は同じデザイン原則について述べた章を含んでいる。ルール5はしばしば「スマートなデータを使うつまらないコードを書け」と短縮され、また「データ構造が十分に良いものなら、それを扱うアルゴリズムは平凡であるべきだ」というガイドラインの実例でもある。ルール6は[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")の「ブルース・スケッチ」を愉快に参照しているだけのものだ。Cの文字列では最後の1バイトが[ヌル文字](https://ja.wikipedia.org/wiki/ヌル文字 "wikilink")であり、したがってその文字列の長さを示すことになる。
+パイクのルール1と2は、[ドナルド・クヌース](../Page/ドナルド・クヌース.md "wikilink")が述べた格言「早すぎる最適化は諸悪の根源である」を言い換えたものである（[最適化 (情報工学)\#最適化する時期も参照](https://ja.wikipedia.org/wiki/最適化_\(情報工学\)#最適化する時期 "wikilink")）。[ケン・トンプソン](../Page/ケン・トンプソン.md "wikilink")はパイクのルール3と4を「疑いがあるときは[総当たり](../Page/力まかせ探索.md "wikilink")（brute force）を使え」と言い換えている。ルール3と4はデザイン哲学[KISSの例である](https://ja.wikipedia.org/wiki/KISS原則 "wikilink")。ルール5は[フレッド・ブルックスが以前に](../Page/フレデリック・ブルックス.md "wikilink")「[人月の神話](../Page/人月の神話.md "wikilink")」の中で述べている。ジョン・ベントレーの *[Programming Pearls](https://ja.wikipedia.org/wiki/:en:Programming_Pearls "wikilink")* は同じデザイン原則について述べた章を含んでいる。ルール5はしばしば「スマートなデータを使うつまらないコードを書け」と短縮され、また「データ構造が十分に良いものなら、それを扱うアルゴリズムは平凡であるべきだ」というガイドラインの実例でもある。ルール6は[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")の「ブルース・スケッチ」を愉快に参照しているだけのものだ。Cの文字列では最後の1バイトが[ヌル文字](https://ja.wikipedia.org/wiki/ヌル文字 "wikilink")であり、したがってその文字列の長さを示すことになる。
 
 ## ガンカーズ: UNIXの哲学
 
@@ -43,7 +43,7 @@
 2.  各プログラムが一つのことをうまくやるようにせよ。
 3.  できる限り早く原型（プロトタイプ）を作れ。
 4.  効率よりも移植しやすさを選べ。
-5.  単純な[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")にデータを格納せよ。
+5.  単純な[テキストファイル](../Page/テキストファイル.md "wikilink")にデータを格納せよ。
 6.  ソフトウェアを梃子(てこ)として利用せよ。
 7.  効率と移植性を高めるために[シェルスクリプト](../Page/シェルスクリプト.md "wikilink")を利用せよ。
 8.  拘束的なユーザーインターフェースは作るな。
@@ -70,7 +70,7 @@
 5.  沈黙は金なり。
 6.  並行性を考えよ。
 7.  部分の集積は全体よりも大きい。
-8.  [90パーセントの解決を模索せよ](https://ja.wikipedia.org/wiki/パレートの法則 "wikilink")。
+8.  [90パーセントの解決を模索せよ](../Page/パレートの法則.md "wikilink")。
 9.  より悪いことは、より良いことだ。
 10. 階層的に考えよ。
 
@@ -88,7 +88,7 @@
 
 [エリック・S・レイモンドは著書](../Page/エリック・レイモンド.md "wikilink")『The Art of UNIX Programming』\[3\]の中で、UNIX哲学を "Keep it Simple, Stupid" （[KISS原則](https://ja.wikipedia.org/wiki/KISS原則 "wikilink")、「シンプルでつまらないものに保て」）という、広く使われている工学哲学として要約した。そしてレイモンドは、彼がいかにこの総体的な哲学がUNIXの文化的規範として適用されていると信じているか述べている。だが以下のルールに深刻に違反した例が実際のUNIXの実践において簡単に発見できるのも驚くべきことではない。
 
-  - [モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")性のルール
+  - [モジュール](../Page/モジュール.md "wikilink")性のルール
     クリーンなインターフェースで接続されるシンプルなパーツを書け。
   - 明瞭さのルール
     明瞭さは独創性よりも良い。
@@ -106,7 +106,7 @@
     頑丈さは透明性とシンプルさから生まれる。
   - 代表のルール
     知識をデータに織り込め。するとプログラムのロジックをつまらなくて頑丈なものにできる。
-  - [最小限の驚きのルール](https://ja.wikipedia.org/wiki/驚き最小の原則 "wikilink")
+  - [最小限の驚きのルール](../Page/驚き最小の原則.md "wikilink")
     インターフェースデザインにおいては、常に驚きが最小限であるようにせよ。
   - 沈黙のルール
     余計な出力をすべきではない。他の開発者にとってただ邪魔なだけである。
@@ -117,7 +117,7 @@
   - 生成のルール
     hand-hacking\[4\]は避けよ。プログラムを書けるときに、プログラムを書くためにプログラムを書け。
   - [最適化のルール](../Page/最適化_\(情報工学\).md "wikilink")
-    洗練させる前に原型（[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")）を作れ。最適化する前に原型が動くようにせよ。
+    洗練させる前に原型（[プロトタイプ](../Page/プロトタイプ.md "wikilink")）を作れ。最適化する前に原型が動くようにせよ。
   - 多様性のルール
     あらゆる「ただ一つの本当の方法」という主張は信じるな。
   - 拡張性のルール
@@ -171,7 +171,7 @@ GNU以前に1983年にはすでにロブ・パイクによる、Unixの基本的
 
 ## 参照
 
-  - *[The Unix Programming Environment](http://cm.bell-labs.com/cm/cs/upe/)* by [Brian Kernighan](../Page/ブライアン・カーニハン.md "wikilink") and [Rob Pike](https://ja.wikipedia.org/wiki/ロブ・パイク "wikilink"), 1984
+  - *[The Unix Programming Environment](http://cm.bell-labs.com/cm/cs/upe/)* by [Brian Kernighan](../Page/ブライアン・カーニハン.md "wikilink") and [Rob Pike](../Page/ロブ・パイク.md "wikilink"), 1984
   - [*Notes on Programming in C*](http://www.lysator.liu.se/c/pikestyle.html), Rob Pike, September 21, 1989
   - *UNIXの1/4世紀*, Peter H. Salus, Addison-Wesley, May 31, 1994 (ISBN 0-201-54777-5、ISBN 4756136591)
   - [*Philosophy*](http://www.faqs.org/docs/artu/philosophychapter.html) — from [*The Art of Unix Programming*](http://www.catb.org/~esr/writings/taoup), Eric S. Raymond, Addison-Wesley, September 17, 2003 (ISBN 0-13-142901-9、ISBN 4756149480)

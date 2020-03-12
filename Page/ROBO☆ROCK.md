@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - ニラサワ エツロウ - [中山祐一朗](https://ja.wikipedia.org/wiki/中山祐一朗 "wikilink")
+  - ニラサワ エツロウ - [中山祐一朗](../Page/中山祐一朗.md "wikilink")
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - キリコ - [美波](https://ja.wikipedia.org/wiki/美波 "wikilink")
+  - キリコ - [美波](../Page/美波.md "wikilink")
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - コウ - [本多章一](https://ja.wikipedia.org/wiki/本多章一 "wikilink")
+  - コウ - [本多章一](../Page/本多章一.md "wikilink")
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - イブセ - [遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
+  - イブセ - [遠藤憲一](../Page/遠藤憲一.md "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 
 <!-- end list -->
 
-  - αトム - [鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink")
+  - αトム - [鮎貝健](../Page/鮎貝健.md "wikilink")
 
 <!-- end list -->
 
@@ -78,16 +78,16 @@
 
 <!-- end list -->
 
-  - 熟女下着マニアの依頼人 - [我修院達也](https://ja.wikipedia.org/wiki/我修院達也 "wikilink")
-  - 土星のニュースキャスター - [村松利史](https://ja.wikipedia.org/wiki/村松利史 "wikilink")
-  - 女装マニアのドリンカー - [山本浩司](https://ja.wikipedia.org/wiki/山本浩司_\(俳優\) "wikilink")
+  - 熟女下着マニアの依頼人 - [我修院達也](../Page/我修院達也.md "wikilink")
+  - 土星のニュースキャスター - [村松利史](../Page/村松利史.md "wikilink")
+  - 女装マニアのドリンカー - [山本浩司](../Page/山本浩司_\(俳優\).md "wikilink")
   - キリコにカモられたタトゥー少年 - [岡田将生](https://ja.wikipedia.org/wiki/岡田将生 "wikilink")
-  - タタラジマ博士 - [うえだ峻](https://ja.wikipedia.org/wiki/うえだ峻 "wikilink")
+  - タタラジマ博士 - [うえだ峻](../Page/うえだ峻.md "wikilink")
   - [佐伯新](https://ja.wikipedia.org/wiki/佐伯新 "wikilink")
 
 ## 主題歌
 
-  - [ザ・クロマニヨンズ](https://ja.wikipedia.org/wiki/ザ・クロマニヨンズ "wikilink")「東京ジョニー ギター」
+  - [ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")「東京ジョニー ギター」
 
 ## スタッフ
 
@@ -112,7 +112,7 @@
 
 ## 主な評価
 
-公開時はムービーウォーカー試写ランキングで2位、ぴあ満足度で『[ミッドナイトイーグル](https://ja.wikipedia.org/wiki/ミッドナイトイーグル "wikilink")』に続き2位、映画生活ランキングでは『[ヘアスプレー](https://ja.wikipedia.org/wiki/ヘアスプレー "wikilink")』に続き3位を記録、同時期に公開された映画群の中で高い評価を残した。漫画家の[永井豪](../Page/永井豪.md "wikilink")、ミュージシャンの[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")ほか、『[スタートレック](../Page/スタートレック.md "wikilink")』の脚本家である[デヴィッド・B・カレン](https://ja.wikipedia.org/wiki/デヴィッド・B・カレン "wikilink")やアニメーション監督の[河森正治](../Page/河森正治.md "wikilink")などから賞賛を得ている。
+公開時はムービーウォーカー試写ランキングで2位、ぴあ満足度で『[ミッドナイトイーグル](https://ja.wikipedia.org/wiki/ミッドナイトイーグル "wikilink")』に続き2位、映画生活ランキングでは『[ヘアスプレー](../Page/ヘアスプレー.md "wikilink")』に続き3位を記録、同時期に公開された映画群の中で高い評価を残した。漫画家の[永井豪](../Page/永井豪.md "wikilink")、ミュージシャンの[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")ほか、『[スタートレック](../Page/スタートレック.md "wikilink")』の脚本家である[デヴィッド・B・カレン](https://ja.wikipedia.org/wiki/デヴィッド・B・カレン "wikilink")やアニメーション監督の[河森正治](../Page/河森正治.md "wikilink")などから賞賛を得ている。
 
 ## 外部リンク
 

@@ -1,13 +1,13 @@
 > この記事は[D.C.P.S.  ](https://ja.wikipedia.org/wiki/D.C.P.S.__)から翻訳されています。
 
 
-『**D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション**』はPCゲーム『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜 "wikilink")』の[PS2用コンシューマー移植版である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月14日](../Page/7月14日.md "wikilink")には廉価版『D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション KADOKAWA THE Best』が発売された。
+『**D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション**』はPCゲーム『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』の[PS2用コンシューマー移植版である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")には廉価版『D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション KADOKAWA THE Best』が発売された。
 
 本作品の追加要素をそのままにPSP版へと移植した**D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル**、18禁リメイク版となる**D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション**についても本項目で扱う。
 
 ## 概要
 
-原画は[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")、[影崎夕那](https://ja.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那・影山由多）、igul、[たにはらなつき](https://ja.wikipedia.org/wiki/たにはらなつき "wikilink")、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")、[みつまむ](../Page/蜜桃まむ.md "wikilink")。シナリオは[まり](https://ja.wikipedia.org/wiki/まり_\(シナリオライター\) "wikilink")、御巫紫苑、長嶋日出晴、[鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")、鈴木達也。
+原画は[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](https://ja.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那・影山由多）、igul、[たにはらなつき](../Page/たにはらなつき.md "wikilink")、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")、[みつまむ](../Page/蜜桃まむ.md "wikilink")。シナリオは[まり](https://ja.wikipedia.org/wiki/まり_\(シナリオライター\) "wikilink")、御巫紫苑、長嶋日出晴、[鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")、鈴木達也。
 
 [初音島](https://ja.wikipedia.org/wiki/初音島 "wikilink")という1年中桜が咲きつづける不思議な島の風見学園に、手のひらから和菓子を生み出し、他人の夢を垣間見てしまうという二つの能力を持った男子生徒を主人公とした「こそばゆい学園恋愛アドベンチャー」である。
 
@@ -24,7 +24,7 @@
 
 ## D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル
 
-**D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル**は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売されたPSP用恋愛アドベンチャーゲーム。D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション（および[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")）を[PlayStation Portableに移植したもの](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。本編に使用されている文字は[リョービ](https://ja.wikipedia.org/wiki/リョービ "wikilink")製のフォントを使用している。なお、移植実作業は[アルカディア・プロジェクト](https://ja.wikipedia.org/wiki/アルカディア・プロジェクト "wikilink")によるものとなっており、開発元がサーカスとアルカディア・プロジェクトの連名となっている。
+**D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル**は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売されたPSP用恋愛アドベンチャーゲーム。D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション（および[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")）を[PlayStation Portableに移植したもの](../Page/PlayStation_Portable.md "wikilink")。本編に使用されている文字は[リョービ](../Page/リョービ.md "wikilink")製のフォントを使用している。なお、移植実作業は[アルカディア・プロジェクト](https://ja.wikipedia.org/wiki/アルカディア・プロジェクト "wikilink")によるものとなっており、開発元がサーカスとアルカディア・プロジェクトの連名となっている。
 
 基本的にはD.C.P.S. 〜ダ・カーポ〜 プラスシチュエーションからの変更はないが、ことりが本校制服時に帽子を被っていなかったり、美咲の頭のリボンがなかったりなど、グラフィックに一部ミスがある。
 
@@ -37,7 +37,7 @@
   - エンディングテーマ「Dream 〜The ally of〜」
       - 作詞：tororo、作曲・編曲：[長田直之](https://ja.wikipedia.org/wiki/長田直之 "wikilink")、歌：[rino](https://ja.wikipedia.org/wiki/rino "wikilink")
   - エンディングテーマ「[Dream 〜The other side〜](https://ja.wikipedia.org/wiki/crystal_〜サーカス_ヴォーカルコレクション〜 "wikilink")」
-      - 作詞：tororo、作曲：東隆行、編曲：[飯塚昌明](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")、歌：yozuca\*
+      - 作詞：tororo、作曲：東隆行、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")、歌：yozuca\*
   - 挿入歌「Eternal love 〜眩しい季節〜」
       - 作詞・作曲：rino、編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")、歌：rino
   - 挿入歌「[Small Cherry 〜promised bell〜](https://ja.wikipedia.org/wiki/crystal_〜サーカス_ヴォーカルコレクション〜 "wikilink")」
@@ -60,16 +60,16 @@
     :\* 色彩設計 - 岩井田洋
     :\* 撮影監督 - 近藤靖尚
     :\* 編集 - 田熊純
-    :\* 音響監督 - [菊田浩巳](https://ja.wikipedia.org/wiki/菊田浩巳 "wikilink")
+    :\* 音響監督 - [菊田浩巳](../Page/菊田浩巳.md "wikilink")
     :\* 音楽 - 猫野こめっと（彗星堂）
     :\* プロデューサー - 横田浩一郎、湯口静夫、川崎とも子
-    :\* アニメーション制作 - [ZEXCS](https://ja.wikipedia.org/wiki/ゼクシズ "wikilink")
+    :\* アニメーション制作 - [ZEXCS](../Page/ゼクシズ.md "wikilink")
     :\* 監督 - [ウシロシンジ](https://ja.wikipedia.org/wiki/後信治 "wikilink")
     :\* 製作 - D.C.I\&II P.S.P.製作委員会
       - 各話リスト
         {| class="wikitable"
 
-|- \!話数\!\!サブタイトル\!\!絵コンテ\!\!演出\!\!作画監督\!\!原画\!\!第二原画 |- |1||音夢||rowspan="2"|ウシロシンジ||rowspan="2"|徳本善信||rowspan="2"|臼田美夫||[村中博美](https://ja.wikipedia.org/wiki/村中博美 "wikilink")
+|- \!話数\!\!サブタイトル\!\!絵コンテ\!\!演出\!\!作画監督\!\!原画\!\!第二原画 |- |1||音夢||rowspan="2"|ウシロシンジ||rowspan="2"|徳本善信||rowspan="2"|臼田美夫||[村中博美](../Page/村中博美.md "wikilink")
 仁井学||高柳佳幸
 kaisen
 和風アニメーション
@@ -92,7 +92,7 @@ A.I |- |2||ことり||臼田美夫|| |- |3||音姫||rowspan="2" colspan="2" styl
 
 『プラスシチュエーション』からの主な変更点は以下のとおり。
 
-  - [天枷美春](https://ja.wikipedia.org/wiki/天枷美春 "wikilink")の[声優](../Page/声優.md "wikilink")変更
+  - [天枷美春](../Page/天枷美春.md "wikilink")の[声優](../Page/声優.md "wikilink")変更
   - 『プラスシチュエーション』から登場したキャラとの[Hシーン追加](https://ja.wikipedia.org/wiki/性行為 "wikilink")
   - 新規挿入歌「BELIEVE」（作詞・作曲：rino、編曲：大久保薫、歌：yozurino\*）追加。また、挿入歌「そよ風のハーモニー」の歌が堀江由衣からrinoに変更。
 
@@ -100,7 +100,7 @@ A.I |- |2||ことり||臼田美夫|| |- |3||音姫||rowspan="2" colspan="2" styl
 
 #### 初回限定版
 
-[2004年](../Page/2004年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にCDとDVDで同時に発売。DVD版/CD版ともに3点の特典物が同梱されている。また、予約特典として『[ランブリングエンジェル](https://ja.wikipedia.org/wiki/ランブリングエンジェル "wikilink")』の和泉子のプロモーションカード（非売品）が貰えた。
+[2004年](../Page/2004年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にCDとDVDで同時に発売。DVD版/CD版ともに3点の特典物が同梱されている。また、予約特典として『[ランブリングエンジェル](../Page/ランブリングエンジェル.md "wikilink")』の和泉子のプロモーションカード（非売品）が貰えた。
 
   - D.C.P.C.メモリアルトランプ
     本編のCGを絵柄とした円形のトランプカード。素材はプラスチック。
@@ -115,13 +115,13 @@ A.I |- |2||ことり||臼田美夫|| |- |3||音姫||rowspan="2" colspan="2" styl
 
 #### 感謝ぱっく
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にCDとDVDで同時に発売。2点の特典物を含む。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にCDとDVDで同時に発売。2点の特典物を含む。
 
   - memories DISK
     内容：
     1.  D.C.先行版『[D.C.〜ダ・カーポ〜 in 聖夜のアルティメットバトル](https://ja.wikipedia.org/wiki/アルキメデスのわすれもの#「D.C._〜ダ・カーポ〜」in聖夜のアルティメットバトル "wikilink")』
           -
-            ファンディスク『[アルキメデスのわすれもの](https://ja.wikipedia.org/wiki/アルキメデスのわすれもの "wikilink")』に収録された先行版の再収録。
+            ファンディスク『[アルキメデスのわすれもの](../Page/アルキメデスのわすれもの.md "wikilink")』に収録された先行版の再収録。
     2.  D.C.体験版
           -
             雑誌やイベントなどで配布された体験版
@@ -134,11 +134,11 @@ A.I |- |2||ことり||臼田美夫|| |- |3||音姫||rowspan="2" colspan="2" styl
     5.  その他サーカスムービー集
           -
             収録作品：
-              - 『[すくみず 〜フェチ☆になるもんっ\!〜](https://ja.wikipedia.org/wiki/すくみず_〜フェチ☆になるもんっ!〜 "wikilink")』オープニングムービーおよびデモムービー
+              - 『[すくみず 〜フェチ☆になるもんっ\!〜](../Page/すくみず_〜フェチ☆になるもんっ!〜.md "wikilink")』オープニングムービーおよびデモムービー
               - 『[水夏 〜おー・157章〜](../Page/水夏.md "wikilink")』オープニングムービー
               - 『[水夏 〜SUIKA〜](../Page/水夏.md "wikilink")』オープニングムービー
-              - 『[Infantaria](https://ja.wikipedia.org/wiki/Infantaria "wikilink")XP』オープニングムービー
-              - 『[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](https://ja.wikipedia.org/wiki/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜 "wikilink")』オープニングムービー
+              - 『[Infantaria](../Page/Infantaria.md "wikilink")XP』オープニングムービー
+              - 『[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](../Page/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜.md "wikilink")』オープニングムービー
             他
   - memories BOOK
     今までのD.C.を振り返るプチ豪華イラスト集。[亜星マコ](https://ja.wikipedia.org/wiki/亜星マコ "wikilink")、くま坂らま男による書き下ろし4コマ漫画入り。
@@ -147,7 +147,7 @@ A.I |- |2||ことり||臼田美夫|| |- |3||音姫||rowspan="2" colspan="2" styl
 
 #### パラダイムノベルス
 
-ゲーム本編にほぼ忠実なノベライズ版。 原作：[サーカス](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、著：雑賀匡、出版：[パラダイム](https://ja.wikipedia.org/wiki/パラダイム_\(出版社\) "wikilink")
+ゲーム本編にほぼ忠実なノベライズ版。 原作：[サーカス](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、著：雑賀匡、出版：[パラダイム](../Page/パラダイム_\(出版社\).md "wikilink")
 
   - D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション 胡ノ宮環編　ISBN 4-89490-737-2
   - D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション 月城アリス編　ISBN 4-89490-745-3
@@ -158,7 +158,7 @@ A.I |- |2||ことり||臼田美夫|| |- |3||音姫||rowspan="2" colspan="2" styl
 
 #### ファミ通文庫
 
-サイドストーリー。以下括弧内は主役キャラ。 著：岡崎いずみ、イラスト：[みけおう](https://ja.wikipedia.org/wiki/みけおう "wikilink")、出版：[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")（[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")）
+サイドストーリー。以下括弧内は主役キャラ。 著：岡崎いずみ、イラスト：[みけおう](../Page/みけおう.md "wikilink")、出版：[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")（[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")）
 
   - D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション 桜の螺旋　ISBN 4-7577-2040-8 （朝倉音夢）
   - D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション 桜の交錯　ISBN 4-7577-2202-8 （芳乃さくら）

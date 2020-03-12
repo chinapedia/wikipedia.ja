@@ -1,14 +1,14 @@
 > この記事は[LOVE \& TRUTH](https://ja.wikipedia.org/wiki/LOVE_\&_TRUTH)から翻訳されています。
 
 
-「**LOVE & TRUTH**」（ラヴ・アンド・トゥルース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[STUDIOSEVEN Recordingsよりリリースした](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")10作目の[シングル](../Page/シングル.md "wikilink")。
+「**LOVE & TRUTH**」（ラヴ・アンド・トゥルース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[STUDIOSEVEN Recordingsよりリリースした](../Page/ソニー・ミュージックレコーズ.md "wikilink")10作目の[シングル](../Page/シングル.md "wikilink")。
 
-初回限定盤には、「Closed Note Ver.」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を収録。
+初回限定盤には、「Closed Note Ver.」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録。
 [キャッチコピー](../Page/キャッチコピー.md "wikilink")は「"あいのうた"を聴かせてほしい」。
 
 ## 概要
 
-前作「[My Generation/Understand](https://ja.wikipedia.org/wiki/My_Generation/Understand "wikilink")」から約3ヶ月半ぶりとなったシングル。この曲がリリースされる2ヶ月以上前の[7月19日](../Page/7月19日.md "wikilink")には、[JFN](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink")・[TOKYO FM](../Page/エフエム東京.md "wikilink")「[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」内の自身が[DJを務める](../Page/ディスクジョッキー.md "wikilink")「[YUI LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#YUI_LOCKS!（木曜日） "wikilink")」にて先行オンエアされた。 初回限定盤には映画バージョンのミュージック・ビデオが収録されているが、YUI本人は登場していない。
+前作「[My Generation/Understand](https://ja.wikipedia.org/wiki/My_Generation/Understand "wikilink")」から約3ヶ月半ぶりとなったシングル。この曲がリリースされる2ヶ月以上前の[7月19日](../Page/7月19日.md "wikilink")には、[JFN](../Page/全国FM放送協議会.md "wikilink")・[TOKYO FM](../Page/エフエム東京.md "wikilink")「[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」内の自身が[DJを務める](../Page/ディスクジョッキー.md "wikilink")「[YUI LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#YUI_LOCKS!（木曜日） "wikilink")」にて先行オンエアされた。 初回限定盤には映画バージョンのミュージック・ビデオが収録されているが、YUI本人は登場していない。
 
 前作に続き初登場1位を獲得し、自身最高の初動売上を記録した。
 
@@ -18,9 +18,9 @@ CD
 
 1.  **LOVE & TRUTH**
       -
-        作詞・作曲：YUI、編曲：[northa+](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")
+        作詞・作曲：YUI、編曲：[northa+](../Page/鈴木Daichi秀行.md "wikilink")
     <!-- end list -->
-      - [映画](../Page/映画.md "wikilink")『[クローズド・ノート](https://ja.wikipedia.org/wiki/クローズド・ノート "wikilink")』の主題歌。[原作](../Page/原作.md "wikilink")と[台本](../Page/台本.md "wikilink")を読み、書き下ろしたミディアムテンポの[バラード](../Page/バラード.md "wikilink")。読み終えた後、「自分が[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")として残しておきたい世界観がはっきりと見えてきた」と話し、少しの迷いもなく一気に書き上げた。映画サイドとの打ち合わせでこの曲は強すぎるので別曲を作り直してほしいと言われるが、冷静なYUIが「この曲は映画の中でこそ生きる」と言い切り主題歌に決定した\[1\]。
+      - [映画](../Page/映画.md "wikilink")『[クローズド・ノート](../Page/クローズド・ノート.md "wikilink")』の主題歌。[原作](../Page/原作.md "wikilink")と[台本](../Page/台本.md "wikilink")を読み、書き下ろしたミディアムテンポの[バラード](../Page/バラード.md "wikilink")。読み終えた後、「自分が[主題歌](../Page/主題歌.md "wikilink")として残しておきたい世界観がはっきりと見えてきた」と話し、少しの迷いもなく一気に書き上げた。映画サイドとの打ち合わせでこの曲は強すぎるので別曲を作り直してほしいと言われるが、冷静なYUIが「この曲は映画の中でこそ生きる」と言い切り主題歌に決定した\[1\]。
       - 間奏のギターソロは本人が担当している。
 2.  **Jam**
       -

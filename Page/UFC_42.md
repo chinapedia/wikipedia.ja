@@ -1,13 +1,13 @@
 > この記事は[UFC 42](https://ja.wikipedia.org/wiki/UFC_42)から翻訳されています。
 
 
-**UFC 42: Sudden Impact**（ユーエフシー・フォーティトゥー：サドゥン・インパクト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2003年](../Page/2003年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ](../Page/マイアミ.md "wikilink")の[アメリカン・エアラインズ・アリーナ](https://ja.wikipedia.org/wiki/アメリカン・エアラインズ・アリーナ "wikilink")で開催された。
+**UFC 42: Sudden Impact**（ユーエフシー・フォーティトゥー：サドゥン・インパクト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2003年](../Page/2003年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ](../Page/マイアミ.md "wikilink")の[アメリカン・エアラインズ・アリーナ](../Page/アメリカン・エアラインズ・アリーナ.md "wikilink")で開催された。
 
 ## 大会概要
 
-メインイベントの世界ウェルター級タイトルマッチでは王者[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")が、キャリア20戦無敗の挑戦者[ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink")を降し、4度目の王座防衛に成功した。
+メインイベントの世界ウェルター級タイトルマッチでは王者[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")が、キャリア20戦無敗の挑戦者[ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink")を降し、4度目の王座防衛に成功した。
 
-[UCC世界ヘビー級王者ショーン](https://ja.wikipedia.org/wiki/TKO_\(格闘技団体\) "wikilink")・アルバレス、UCC世界ミドル級王者[デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink")、UCC世界ライト級王者[ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink")、キャリア12戦無敗の[リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")、11戦全勝のリッチ・クランキルトン、6戦全勝の[KOTC世界ウェルター級王者ロミー](https://ja.wikipedia.org/wiki/King_of_the_Cage "wikilink")・アラム、6戦全勝の[HOOKnSHOOT](https://ja.wikipedia.org/wiki/HOOKnSHOOT "wikilink")世界フェザー級王者[エルメス・フランカ](https://ja.wikipedia.org/wiki/エルメス・フランカ "wikilink")がUFCデビュー。
+[UCC世界ヘビー級王者ショーン](../Page/TKO_\(格闘技団体\).md "wikilink")・アルバレス、UCC世界ミドル級王者[デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink")、UCC世界ライト級王者[ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink")、キャリア12戦無敗の[リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink")、11戦全勝のリッチ・クランキルトン、6戦全勝の[KOTC世界ウェルター級王者ロミー](https://ja.wikipedia.org/wiki/King_of_the_Cage "wikilink")・アラム、6戦全勝の[HOOKnSHOOT](https://ja.wikipedia.org/wiki/HOOKnSHOOT "wikilink")世界フェザー級王者[エルメス・フランカ](../Page/エルメス・フランカ.md "wikilink")がUFCデビュー。
 
 ## 試合結果
 
@@ -15,12 +15,12 @@
 
   - 第1試合 ミドル級 5分3R
     ○  [デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink") vs.  [マーク・ウィアー](../Page/マーク・ウィアー.md "wikilink") ×
-    1R 3:55 KO（[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 3:55 KO（[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 ライト級 5分3R
-    ○  [エルメス・フランカ](https://ja.wikipedia.org/wiki/エルメス・フランカ "wikilink") vs.  リッチ・クランキルトン ×
+    ○  [エルメス・フランカ](../Page/エルメス・フランカ.md "wikilink") vs.  リッチ・クランキルトン ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第3試合 ライト級 5分3R
-    ○  [ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink") vs.  [須藤元気](https://ja.wikipedia.org/wiki/須藤元気 "wikilink") ×
+    ○  [ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink") vs.  [須藤元気](../Page/須藤元気.md "wikilink") ×
     3R終了 判定3-0（29-28、29-28、29-28）
 
 ### メインカード
@@ -38,7 +38,7 @@
     ○  ピート・スプラット vs.  [ロビー・ローラー](../Page/ロビー・ローラー.md "wikilink") ×
     2R 2:28 ギブアップ（右足の負傷）
   - 第8試合 UFC世界ウェルター級タイトルマッチ 5分5R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink") ×
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink") ×
     5R終了 判定3-0（48-45、48-47、49-46）
     ※ヒューズが王座の4度目の防衛に成功。
 
@@ -47,7 +47,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
 > この記事は[UFC Fight Night: Stevenson vs. Guillard](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Stevenson_vs._Guillard)から翻訳されています。
 
 
-**UFC Fight Night: Stevenson vs. Guillard**（ユーエフシー・ファイトナイト：スティーブンソン・ヴァーサス・ギラード、別名**UFC Fight Night 9**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・パールで開催された](https://ja.wikipedia.org/wiki/パームス "wikilink")。
+**UFC Fight Night: Stevenson vs. Guillard**（ユーエフシー・ファイトナイト：スティーブンソン・ヴァーサス・ギラード、別名**UFC Fight Night 9**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・パールで開催された](../Page/パームス.md "wikilink")。
 
 本大会ではサブタイトルの通り、[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")と[メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink")のライト級戦がメインイベントとして行われた。なお、大会はSpikeにより全米およびカナダへ無料放送された。
 
 ## 大会概要
 
-本大会では、[チアゴ・タバレス](https://ja.wikipedia.org/wiki/チアゴ・タバレス "wikilink")、[小谷直之](https://ja.wikipedia.org/wiki/小谷直之 "wikilink")、[ホアン・"ジュカオン"・カルネイロ](../Page/ホアン・カルネイロ.md "wikilink")、ジャスティン・マッコーリーがUFCに初参戦。
+本大会では、[チアゴ・タバレス](../Page/チアゴ・タバレス.md "wikilink")、[小谷直之](../Page/小谷直之.md "wikilink")、[ホアン・"ジュカオン"・カルネイロ](../Page/ホアン・カルネイロ.md "wikilink")、ジャスティン・マッコーリーがUFCに初参戦。
 
-メインイベントでは、[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")が[メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink")に一本勝ち。また、元[PRIDEヘビー級王者](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink")がリングサイドにて[ダナ・ホワイト](../Page/ダナ・ホワイト.md "wikilink")社長とともに大会を観戦。
+メインイベントでは、[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")が[メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink")に一本勝ち。また、元[PRIDEヘビー級王者](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink")がリングサイドにて[ダナ・ホワイト](../Page/ダナ・ホワイト.md "wikilink")社長とともに大会を観戦。
 
 第8試合は[フランク・ミア](../Page/フランク・ミア.md "wikilink")の負傷欠場により、ジャスティン・マッコーリーが出場した。
 
@@ -18,35 +18,35 @@
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [チアゴ・タバレス](https://ja.wikipedia.org/wiki/チアゴ・タバレス "wikilink") vs.  [小谷直之](https://ja.wikipedia.org/wiki/小谷直之 "wikilink") ×
+    ○  [チアゴ・タバレス](../Page/チアゴ・タバレス.md "wikilink") vs.  [小谷直之](../Page/小谷直之.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第2試合 ウェルター級 5分3R
-    ○  [ホアン・"ジュカオン"・カルネイロ](../Page/ホアン・カルネイロ.md "wikilink") vs.  [リッチ・クレメンティ](https://ja.wikipedia.org/wiki/リッチ・クレメンティ "wikilink") ×
+    ○  [ホアン・"ジュカオン"・カルネイロ](../Page/ホアン・カルネイロ.md "wikilink") vs.  [リッチ・クレメンティ](../Page/リッチ・クレメンティ.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第3試合 ウェルター級 5分3R
-    ○  [弘中邦佳](https://ja.wikipedia.org/wiki/弘中邦佳 "wikilink") vs.  フォレスト・ペッツ ×
+    ○  [弘中邦佳](../Page/弘中邦佳.md "wikilink") vs.  フォレスト・ペッツ ×
     3R終了 判定3-0（30-27、30-27、29-28）
   - 第4試合 ライト級 5分3R
     ○  [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink") vs.  ネイト・モーア ×
-    1R 2:58 [アキレス腱固め](https://ja.wikipedia.org/wiki/アキレス腱固め "wikilink")
+    1R 2:58 [アキレス腱固め](../Page/アキレス腱固め.md "wikilink")
   - 第5試合 ウェルター級 5分3R
-    ○  ドリュー・フィケット vs.  [中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎 "wikilink") ×
+    ○  ドリュー・フィケット vs.  [中村K太郎](../Page/中村K太郎.md "wikilink") ×
     3R終了 判定3-0（30-26、29-26、29-26）
   - 第6試合 ライトヘビー級 5分3R
-    ○  [ウィウソン・ゴヴェイア](https://ja.wikipedia.org/wiki/ウィウソン・ゴヴェイア "wikilink") vs.  [セス・ペトルゼリ](https://ja.wikipedia.org/wiki/セス・ペトルゼリ "wikilink") ×
-    2R 0:39 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    ○  [ウィウソン・ゴヴェイア](https://ja.wikipedia.org/wiki/ウィウソン・ゴヴェイア "wikilink") vs.  [セス・ペトルゼリ](../Page/セス・ペトルゼリ.md "wikilink") ×
+    2R 0:39 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
 
 ### メインカード
 
   - 第7試合 ライト級 5分3R
-    ○  [ケニー・フロリアン](https://ja.wikipedia.org/wiki/ケニー・フロリアン "wikilink") vs.  [三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink") ×
-    3R 3:57 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [ケニー・フロリアン](../Page/ケニー・フロリアン.md "wikilink") vs.  [三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink") ×
+    3R 3:57 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第8試合 ヘビー級 5分3R
-    ○  ジャスティン・マッコーリー vs.  [アントニー・ハードンク](https://ja.wikipedia.org/wiki/アントニー・ハードンク "wikilink") ×
+    ○  ジャスティン・マッコーリー vs.  [アントニー・ハードンク](../Page/アントニー・ハードンク.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第9試合 ライト級 5分3R
     ○  [ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink") vs.  [メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink") ×
-    1R 0:27 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 0:27 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
 
 ### 各賞
 

@@ -1,9 +1,9 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:S_orbit.png "wikilink") **s軌道**（エスきどう、）とは、[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")を構成している[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[軌道の](https://ja.wikipedia.org/wiki/電子軌道 "wikilink")1つ。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:S_orbit.png "wikilink") **s軌道**（エスきどう、）とは、[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")を構成している[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[軌道の](../Page/電子軌道.md "wikilink")1つ。
 
-[方位量子数](https://ja.wikipedia.org/wiki/方位量子数 "wikilink")は0であり、全ての[電子殻](https://ja.wikipedia.org/wiki/電子殻 "wikilink")（[主量子数](https://ja.wikipedia.org/wiki/主量子数 "wikilink")）について球状の一つの軌道のみが存在する。各電子殻（主量子数）のs軌道は主量子数の大きさから「1s軌道」（K殻）、「2s軌道」（L殻）・・・(以下続く)のように呼ばれ、1つのs軌道には[スピン角運動量](https://ja.wikipedia.org/wiki/スピン角運動量 "wikilink")の[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")と合わせて最大で2つの電子が存在する。
+[方位量子数](https://ja.wikipedia.org/wiki/方位量子数 "wikilink")は0であり、全ての[電子殻](../Page/電子殻.md "wikilink")（[主量子数](https://ja.wikipedia.org/wiki/主量子数 "wikilink")）について球状の一つの軌道のみが存在する。各電子殻（主量子数）のs軌道は主量子数の大きさから「1s軌道」（K殻）、「2s軌道」（L殻）・・・(以下続く)のように呼ばれ、1つのs軌道には[スピン角運動量](https://ja.wikipedia.org/wiki/スピン角運動量 "wikilink")の[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")と合わせて最大で2つの電子が存在する。
 
 例えば[基底状態](https://ja.wikipedia.org/wiki/基底状態 "wikilink")の[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")原子は1s軌道に1個の電子が存在しており、[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")原子は1s軌道に2個の電子を取って[閉殻構造](https://ja.wikipedia.org/wiki/閉殻構造 "wikilink")となっている。s軌道の電子は[Sブロック元素](https://ja.wikipedia.org/wiki/Sブロック元素 "wikilink")の物性に関わっている。
 
@@ -11,7 +11,7 @@ s軌道のsはsharpに由来する。[ナトリウム](https://ja.wikipedia.org/
 
 ## 結合・混成軌道
 
-s軌道は[p軌道](https://ja.wikipedia.org/wiki/p軌道 "wikilink")や[d軌道](https://ja.wikipedia.org/wiki/d軌道 "wikilink")と[混成軌道](https://ja.wikipedia.org/wiki/混成軌道 "wikilink")を作る。
+s軌道は[p軌道](https://ja.wikipedia.org/wiki/p軌道 "wikilink")や[d軌道](https://ja.wikipedia.org/wiki/d軌道 "wikilink")と[混成軌道](../Page/混成軌道.md "wikilink")を作る。
 
 s軌道同士、s軌道とsp混成軌道、s軌道とp軌道の結合は[σ結合](https://ja.wikipedia.org/wiki/σ結合 "wikilink")を形成する。
 

@@ -1,7 +1,7 @@
 > この記事は[Make](https://ja.wikipedia.org/wiki/Make)から翻訳されています。
 
 
-は、[プログラムの](../Page/プログラム_\(コンピュータ\).md "wikilink")[ビルド作業を自動化するツール](https://ja.wikipedia.org/wiki/ビルド_\(ソフトウェア\) "wikilink")。[コンパイル](../Page/コンパイラ.md "wikilink")、[リンク](https://ja.wikipedia.org/wiki/リンケージエディタ "wikilink")、[インストール](../Page/インストール.md "wikilink")等のルールを記述したテキストファイル (makefile) に従って、これらの作業を自動的に行う。
+は、[プログラムの](../Page/プログラム_\(コンピュータ\).md "wikilink")[ビルド作業を自動化するツール](https://ja.wikipedia.org/wiki/ビルド_\(ソフトウェア\) "wikilink")。[コンパイル](../Page/コンパイラ.md "wikilink")、[リンク](../Page/リンケージエディタ.md "wikilink")、[インストール](../Page/インストール.md "wikilink")等のルールを記述したテキストファイル (makefile) に従って、これらの作業を自動的に行う。
 
 ## 機能
 
@@ -9,7 +9,7 @@
 
 [UNIX](../Page/UNIX.md "wikilink")系[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、ソースコードの形で配布されることがある。そのビルド作業にはほぼ必須のツールといえる（ごくまれにmakeを使わないソフトウェアも存在する）。
 
-なお、makeはプログラムコードのビルド以外の用途にも使用可能である。例えば、[LaTeX](../Page/LaTeX.md "wikilink")のソースファイルから[DVI形式のファイルを生成する作業などにも使用することができる](https://ja.wikipedia.org/wiki/DVI_\(ファイルフォーマット\) "wikilink")。[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")の簡略化にも使うこともできる。
+なお、makeはプログラムコードのビルド以外の用途にも使用可能である。例えば、[LaTeX](../Page/LaTeX.md "wikilink")のソースファイルから[DVI形式のファイルを生成する作業などにも使用することができる](https://ja.wikipedia.org/wiki/DVI_\(ファイルフォーマット\) "wikilink")。[バッチ処理](../Page/バッチ処理.md "wikilink")の簡略化にも使うこともできる。
 
 ## 歴史
 
@@ -34,8 +34,8 @@ makeには互換性のない亜種が存在する。同様のツールとして[
 
 ## 関連項目
 
-  - [Apache Maven](https://ja.wikipedia.org/wiki/Apache_Maven "wikilink") - Java用のプロジェクト管理ツール
-  - [Apache Ant](https://ja.wikipedia.org/wiki/Apache_Ant "wikilink") - Java用のmake
+  - [Apache Maven](../Page/Apache_Maven.md "wikilink") - Java用のプロジェクト管理ツール
+  - [Apache Ant](../Page/Apache_Ant.md "wikilink") - Java用のmake
   - [SCons](https://ja.wikipedia.org/wiki/SCons "wikilink") - makeの代替ユーティリティ
   - [Ninja](https://ja.wikipedia.org/wiki/Ninja_\(ソフトウェア\) "wikilink") - makeの代替ユーティリティ
   - [CMake](https://ja.wikipedia.org/wiki/CMake "wikilink") - クロスプラットフォームでオープンソースなビルドシステム

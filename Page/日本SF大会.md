@@ -27,7 +27,7 @@
 
 ### 参加費
 
-日本SF大会の参加費は大会のスタイル（合宿費用を含むかどうか等）により大きく異なる。一般参加者の**本登録**費用は大会にもよるが1万〜3万円以上、**予備登録**は5000円前後。[SF作家](https://ja.wikipedia.org/wiki/SF作家 "wikilink")などの関係者は一般参加者とは別に委員会から招待されることもある。
+日本SF大会の参加費は大会のスタイル（合宿費用を含むかどうか等）により大きく異なる。一般参加者の**本登録**費用は大会にもよるが1万〜3万円以上、**予備登録**は5000円前後。[SF作家](../Page/SF作家.md "wikilink")などの関係者は一般参加者とは別に委員会から招待されることもある。
 
 なお早期に参加申込みをする場合のほうが安価に設定されていることが多い。
 
@@ -64,23 +64,23 @@
   - ディーラーズルーム
     SFに関連した古本や復刻版、アイテム、フィギュア、同人誌の販売を行う。次回以降の日本SF大会の参加申込み受付けや、その他イベントの受付を行う場合もある。
   - PX
-    大会期間中に参加者に対して軽食や飲料（アルコール類を含む）の提供を行う場所。PXの意味は米軍の基地などで売店の事をPX（Post exchange）と称していた事による（日本語では[酒保](https://ja.wikipedia.org/wiki/酒保 "wikilink")（しゅほ））。主に合宿型大会で行われる企画である。
+    大会期間中に参加者に対して軽食や飲料（アルコール類を含む）の提供を行う場所。PXの意味は米軍の基地などで売店の事をPX（Post exchange）と称していた事による（日本語では[酒保](../Page/酒保.md "wikilink")（しゅほ））。主に合宿型大会で行われる企画である。
   - 飲食店
-    大会期間中に参加者に対して軽食や飲料（アルコール類を含む）の提供を行う。SFに因んで[マッドサイエンティスト](../Page/マッドサイエンティスト.md "wikilink")の研究室をイメージさせる演出がなされることがある（スタッフが[白衣](https://ja.wikipedia.org/wiki/白衣 "wikilink")と[メガネ](https://ja.wikipedia.org/wiki/メガネ "wikilink")着用で「ハカセ」と呼ばれる）。主に「カフェ・サイファイティーク」や「理系機構」というサークルが自主企画として行っている。
+    大会期間中に参加者に対して軽食や飲料（アルコール類を含む）の提供を行う。SFに因んで[マッドサイエンティスト](../Page/マッドサイエンティスト.md "wikilink")の研究室をイメージさせる演出がなされることがある（スタッフが[白衣](../Page/白衣.md "wikilink")と[メガネ](https://ja.wikipedia.org/wiki/メガネ "wikilink")着用で「ハカセ」と呼ばれる）。主に「カフェ・サイファイティーク」や「理系機構」というサークルが自主企画として行っている。
   - [新聞](../Page/新聞.md "wikilink")発行
     **時刊新聞**が主力である。他に**時間報**等がある。会場の一角に執筆編集スペースと[リソグラフ](https://ja.wikipedia.org/wiki/リソグラフ "wikilink")を設置し、時刊新聞は各企画の進行中は名前通り1時間に1号、ときにはそれ以上刊行されている。掲載されているのは各分科会で起きた椿事や著名なゲストの来訪、分科会の予告と宣伝、参加中のファンやゲストによるコメントやイラストである（告知等も載るメディアであるが、実行委員会とは独立して運営されている）。
   - ファン同士の交流
     SF大会は見知らぬ他人同士が知り合うための場でもあり、遠隔地に離れ離れとなった知人と顔を合わせる場でもある。
   - 日本SFファングループ連合会議定期総会
     全国から参加した加盟SFファングループが、その大会で発行される星雲賞各賞の承認、翌々年の日本SF大会開催地決定などを行う。
-  - [暗黒星雲賞](https://ja.wikipedia.org/wiki/暗黒星雲賞 "wikilink")への投票
+  - [暗黒星雲賞](../Page/暗黒星雲賞.md "wikilink")への投票
     大会が開催されている会場内で行なわれたことになら何でも投票できる投票内容無制限の投票が開催期間中行なえる。組織票その他の不正手段を講じることが許されている。会場となったホテルや旅館の食事・対応が良いと、そこの女将が投票され受賞したり、単に天候が受賞することがある。
   - 各種賞の発表・授与
     閉幕式で行われる（一部は開幕式で行われることもある）。各種賞については下記参照。
   - キッズルーム（キッズコン）
     親子で参加する参加者が増えたために子供が遊ぶために設けられたコーナー。
   - 食事
-    大会として実行される場合とされない場合があるが、地方での場合、重要視されることがある。参加者の目の前で「牛の丸焼き」や「マグロの解体ショー」、「[マンガ肉](https://ja.wikipedia.org/wiki/マンガ肉 "wikilink")の会食」などが催された事もある。
+    大会として実行される場合とされない場合があるが、地方での場合、重要視されることがある。参加者の目の前で「牛の丸焼き」や「マグロの解体ショー」、「[マンガ肉](../Page/マンガ肉.md "wikilink")の会食」などが催された事もある。
   - 移動
     大会が首都圏から離れた場所等で開催される場合等、実行委員会あるいは有志の企画として、大会会場への移動手段が用意される場合がある。この場合、借切りないしは一部借切りを図るため、大会参加者のプレ企画あるいはプレ宴会会場の様相を示すことがある。過去には、船・鉄道・バス等各種の交通手段を借り切って行われた例がある。
   - 合宿
@@ -97,12 +97,12 @@
 ## 日本SF大会席上で授与される主な賞
 
   - [星雲賞](../Page/星雲賞.md "wikilink")
-  - [暗黒星雲賞](https://ja.wikipedia.org/wiki/暗黒星雲賞 "wikilink")
+  - [暗黒星雲賞](../Page/暗黒星雲賞.md "wikilink")
   - SFファンジン大賞
       - その1年間に発行された[ファンジン](https://ja.wikipedia.org/wiki/ファンジン "wikilink")およびその掲載作品を対象とする年次の賞（[1982年](../Page/1982年.md "wikilink")〜[2003年](../Page/2003年.md "wikilink")）。
-  - [柴野拓美](https://ja.wikipedia.org/wiki/柴野拓美 "wikilink")賞
+  - [柴野拓美](../Page/柴野拓美.md "wikilink")賞
       - 日本[SFファンダム](https://ja.wikipedia.org/wiki/SFファンダム "wikilink")に対し大きな貢献があった人物に与えられる賞（柴野拓美個人で選定）。
-  - [センス・オブ・ジェンダー賞](https://ja.wikipedia.org/wiki/センス・オブ・ジェンダー賞 "wikilink")
+  - [センス・オブ・ジェンダー賞](../Page/センス・オブ・ジェンダー賞.md "wikilink")
   - ベスト地球・海洋SF賞
 
 ## 日本SF大会の歴史
@@ -110,7 +110,7 @@
 ### 1960年代
 
   - [1962年](../Page/1962年.md "wikilink")
-      - 開催地：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")
+      - 開催地：[東京都](../Page/東京都.md "wikilink")
       - 愛称：MEG-CON
       - 開催日：1962年5月27日
       - 開催場所：[目黒公会堂](https://ja.wikipedia.org/wiki/目黒公会堂 "wikilink")清水記念館
@@ -122,7 +122,7 @@
       - 開催場所：毎日ホール
       - 参加者：約300名
   - [1964年](../Page/1964年.md "wikilink")
-      - 開催地：[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")
+      - 開催地：[大阪市](../Page/大阪市.md "wikilink")
       - 愛称：[DAICON](https://ja.wikipedia.org/wiki/DAICON "wikilink")
       - 開催日：1964年7月25日〜26日
       - 開催場所：府立厚生会館
@@ -131,7 +131,7 @@
       - 開催地：東京都
       - 愛称：TOKON 2
       - 開催日：1965年8月28日〜29日
-      - 開催場所：日本学生会館・[科学技術館](https://ja.wikipedia.org/wiki/科学技術館 "wikilink")
+      - 開催場所：日本学生会館・[科学技術館](../Page/科学技術館.md "wikilink")
       - 参加者：約400名
   - [1966年](../Page/1966年.md "wikilink")
       - 開催地：[名古屋市](../Page/名古屋市.md "wikilink")
@@ -149,25 +149,25 @@
       - 開催地：東京都
       - 愛称：TOKON 4
       - 開催日：1968年8月31日〜9月1日
-      - 開催場所：洋服会館・[岩波ホール](https://ja.wikipedia.org/wiki/岩波ホール "wikilink")
+      - 開催場所：洋服会館・[岩波ホール](../Page/岩波ホール.md "wikilink")
       - 参加者：約250名
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")
       - 開催地：[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")
       - 愛称：KYUKON
       - 開催日：1969年8月23日〜24日
-      - 開催場所：熊本 [杖立温泉](https://ja.wikipedia.org/wiki/杖立温泉 "wikilink")たしろ屋旅館
+      - 開催場所：熊本 [杖立温泉](../Page/杖立温泉.md "wikilink")たしろ屋旅館
       - 参加者：約93名
 
 ### 1970年代
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")
+  - [1970年](../Page/1970年.md "wikilink")
       - 開催地：東京都
       - 愛称：TOKON 5
       - 開催日：1970年8月22日〜23日
       - 開催場所：洋服会館・岩波ホール
       - 参加者：約250名
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")
-      - 開催地：[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")
+      - 開催地：[大阪市](../Page/大阪市.md "wikilink")
       - 愛称：DAICON 2
       - 開催日：1971年8月21日〜22日
       - 開催場所：[大阪府立青少年会館](https://ja.wikipedia.org/wiki/大阪府立青少年会館 "wikilink")・教育会館
@@ -185,7 +185,7 @@
       - 開催場所：[支笏湖](../Page/支笏湖.md "wikilink")畔オコタン
       - 参加者：約80名
   - [1974年](../Page/1974年.md "wikilink")
-      - 開催地：[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")
+      - 開催地：[京都府](../Page/京都府.md "wikilink")
       - 愛称：MIYACON
       - 開催日：1974年8月3日〜4日
       - 開催場所：京都教育文化センター
@@ -194,16 +194,16 @@
       - 開催地：[神戸市](../Page/神戸市.md "wikilink")
       - 愛称：SHINCON
       - 開催日：1975年8月22日〜24日
-      - 開催場所：[神戸文化ホール](https://ja.wikipedia.org/wiki/神戸文化ホール "wikilink")
+      - 開催場所：[神戸文化ホール](../Page/神戸文化ホール.md "wikilink")
       - 参加者：約1000名
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")
+  - [1976年](../Page/1976年.md "wikilink")
       - 開催地：東京都
       - 愛称：TOKON 6
       - 開催日：1976年8月14日15日
       - 開催場所：[日本経済新聞](../Page/日本経済新聞.md "wikilink")ビルホール
       - 参加者：約700名
   - [1977年](../Page/1977年.md "wikilink")
-      - 開催地：[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")
+      - 開催地：[横浜市](../Page/横浜市.md "wikilink")
       - 愛称：HINCON
       - 開催日：1977年8月27日〜28日
       - 開催場所：横浜産業貿易センター
@@ -229,7 +229,7 @@
       - 開催日：1980年8月9日〜10日
       - 開催場所：[浅草公会堂](https://ja.wikipedia.org/wiki/浅草公会堂 "wikilink")
       - 参加者：約1300名
-  - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")
+  - [1981年](../Page/1981年.md "wikilink")
       - 開催地：大阪市
       - 愛称：DAICON 3
       - 開催日：1981年8月22日〜23日
@@ -251,16 +251,16 @@
       - 開催地：北海道
       - 愛称：EZOCON 2
       - 開催日：1984年8月27日〜29日
-      - 開催場所：[定山渓](https://ja.wikipedia.org/wiki/定山渓 "wikilink")ホテル
+      - 開催場所：[定山渓](../Page/定山渓.md "wikilink")ホテル
       - 参加者：約1000名
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
       - 開催地：[新潟県](../Page/新潟県.md "wikilink")
       - 愛称：GATACON special 夏祭り
       - 開催日：1985年8月3日〜4日
-      - 開催場所：[弥彦温泉](https://ja.wikipedia.org/wiki/弥彦温泉 "wikilink")総合文化センター及び周辺の旅館・ホテル
+      - 開催場所：[弥彦温泉](../Page/弥彦温泉.md "wikilink")総合文化センター及び周辺の旅館・ホテル
       - 参加者：約1300名
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
-      - 開催地：[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")
+      - 開催地：[大阪府](../Page/大阪府.md "wikilink")
       - 愛称：DAICON 5
       - 開催日：1986年8月23日〜24日
       - 開催場所：[吹田市文化会館](https://ja.wikipedia.org/wiki/吹田市文化会館 "wikilink")メイシアター
@@ -275,13 +275,13 @@
       - 開催地：[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")
       - 愛称：MiG-CON
       - 開催日：1988年8月27日〜28日
-      - 開催場所：[水上温泉](https://ja.wikipedia.org/wiki/水上温泉 "wikilink") ホテル松の井
+      - 開催場所：[水上温泉](../Page/水上温泉.md "wikilink") ホテル松の井
       - 参加者：約1200名
   - [1989年](../Page/1989年.md "wikilink")
       - 開催地：[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")
       - 愛称：DAINA CON EX
       - 開催日：1989年8月19日〜20日
-      - 開催場所：[三谷温泉](https://ja.wikipedia.org/wiki/三谷温泉 "wikilink") 松風園・明山荘・ふきぬき
+      - 開催場所：[三谷温泉](../Page/三谷温泉.md "wikilink") 松風園・明山荘・ふきぬき
       - 参加者：約1600名
 
 ### 1990年代
@@ -290,15 +290,15 @@
       - 開催地：東京都
       - 愛称：TOKON 9
       - 開催日：1990年8月18日〜19日
-      - 開催場所：浅草公会堂・[ビューホテル](https://ja.wikipedia.org/wiki/浅草ビューホテル "wikilink")
+      - 開催場所：浅草公会堂・[ビューホテル](../Page/浅草ビューホテル.md "wikilink")
       - 参加者：約1000名
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")
+  - [1991年](../Page/1991年.md "wikilink")
       - 開催地：[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")
       - 愛称：i-CON
       - 開催日：1991年7月26日〜28日
       - 開催場所：ルネス金沢・金沢市文化センター
       - 参加者：約1500名
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")
+  - [1992年](../Page/1992年.md "wikilink")
       - 開催地：横浜市
       - 愛称：HAMACON
       - 開催日：1992年8月21日〜23日
@@ -308,7 +308,7 @@
       - 開催地：大阪市
       - 愛称：DAICON 6
       - 開催日：1993年8月21日〜22日
-      - 開催場所：[大阪国際交流センター](https://ja.wikipedia.org/wiki/大阪国際交流センター "wikilink")・吉野旅館
+      - 開催場所：[大阪国際交流センター](../Page/大阪国際交流センター.md "wikilink")・吉野旅館
       - 参加者：約1600名
   - [1994年](../Page/1994年.md "wikilink")
       - 開催地：[沖縄県](../Page/沖縄県.md "wikilink")
@@ -320,7 +320,7 @@
       - 開催地：[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")
       - 愛称：はまなこん
       - 開催日：1995年8月19日〜20日
-      - 開催場所：[アクトシティ浜松](https://ja.wikipedia.org/wiki/アクトシティ浜松 "wikilink")
+      - 開催場所：[アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")
       - 参加者：約1500名
   - [1996年](../Page/1996年.md "wikilink")
       - 開催地：[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")
@@ -338,7 +338,7 @@
       - 開催地：名古屋市
       - 愛称：CAPRICON 1
       - 開催日：1998年8月29日〜30日
-      - 開催場所：[名古屋国際会議場](https://ja.wikipedia.org/wiki/名古屋国際会議場 "wikilink")
+      - 開催場所：[名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink")
       - 参加者：約1100名
   - [1999年](../Page/1999年.md "wikilink")
       - 開催地：[長野県](../Page/長野県.md "wikilink")
@@ -356,7 +356,7 @@
       - 開催場所：パシフィコ横浜
       - 参加者：約1600名
   - [2001年](../Page/2001年.md "wikilink")
-      - 開催地：[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")
+      - 開催地：[千葉県](../Page/千葉県.md "wikilink")
       - 愛称：未来国際会議
       - 開催日：2001年8月18日〜19日
       - 開催場所：[幕張メッセ](../Page/幕張メッセ.md "wikilink")
@@ -365,7 +365,7 @@
       - 開催地：[島根県](../Page/島根県.md "wikilink")
       - 愛称：ゆ〜こん
       - 開催日：2002年7月13日〜14日
-      - 開催場所：[玉造温泉](https://ja.wikipedia.org/wiki/玉造温泉 "wikilink") ホテル玉泉・松の湯・ゆーゆ
+      - 開催場所：[玉造温泉](../Page/玉造温泉.md "wikilink") ホテル玉泉・松の湯・ゆーゆ
       - 参加者：約920名
   - [2003年](../Page/2003年.md "wikilink")
       - 開催地：[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")
@@ -373,27 +373,27 @@
       - 開催日：2003年7月19日〜21日
       - 開催場所：[塩原温泉](https://ja.wikipedia.org/wiki/塩原温泉 "wikilink") ホテルニュー塩原
       - 参加者：約930名
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")
+  - [2004年](../Page/2004年.md "wikilink")
       - 開催地：[岐阜市](../Page/岐阜市.md "wikilink")
       - 愛称：G-CON
       - 開催日：2004年8月21日〜22日
-      - 開催場所：[長良川国際会議場](https://ja.wikipedia.org/wiki/長良川国際会議場 "wikilink")
+      - 開催場所：[長良川国際会議場](../Page/長良川国際会議場.md "wikilink")
       - 参加者：約1200名
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 開催地：横浜市
       - 愛称：HAMACON 2
       - 開催日：2005年7月16日〜17日
       - 開催場所：パシフィコ横浜
       - 参加者：約1800名
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 開催地：[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")
       - 愛称：みちのくSF祭ずんこん
       - 開催日：2006年7月8日〜9日
-      - 開催場所：[松島町](https://ja.wikipedia.org/wiki/松島町 "wikilink") ホテル壮観
+      - 開催場所：[松島町](../Page/松島町.md "wikilink") ホテル壮観
       - 参加者：約800名
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - 開催地：横浜市
-      - 愛称：[Nippon 2007](https://ja.wikipedia.org/wiki/第65回世界SF大会 "wikilink")（世界SF大会・[ワールドコン](../Page/ワールドコン.md "wikilink")との共催）
+      - 愛称：[Nippon 2007](../Page/第65回世界SF大会.md "wikilink")（世界SF大会・[ワールドコン](../Page/ワールドコン.md "wikilink")との共催）
       - 開催日：2007年8月30日〜9月3日
       - 開催場所：パシフィコ横浜
       - 参加者：約3400名
@@ -415,12 +415,12 @@
       - 開催地：東京都
       - 愛称：2010TOKON10
       - 開催日：2010年8月7日〜8日
-      - 開催場所：[江戸川区](https://ja.wikipedia.org/wiki/江戸川区 "wikilink") タワーホール船堀
+      - 開催場所：[江戸川区](../Page/江戸川区.md "wikilink") タワーホール船堀
   - [2011年](../Page/2011年.md "wikilink")
-      - 開催地：[静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")
+      - 開催地：[静岡市](../Page/静岡市.md "wikilink")
       - 愛称：ドンブラコンL
       - 開催日：2011年9月3日〜4日
-      - 開催場所：[グランシップ](https://ja.wikipedia.org/wiki/静岡県コンベンションアーツセンター "wikilink")
+      - 開催場所：[グランシップ](../Page/静岡県コンベンションアーツセンター.md "wikilink")
   - [2012年](../Page/2012年.md "wikilink")
       - 開催地：[夕張市](../Page/夕張市.md "wikilink")
       - 愛称：Varicon2012
@@ -430,12 +430,12 @@
       - 開催地：[広島県](../Page/広島県.md "wikilink")
       - 愛称：こいこん
       - 開催日：2013年7月20日〜21日
-      - 開催場所：[アステールプラザ](https://ja.wikipedia.org/wiki/アステールプラザ "wikilink")
+      - 開催場所：[アステールプラザ](../Page/アステールプラザ.md "wikilink")
   - [2014年](../Page/2014年.md "wikilink")
       - 開催地：[つくば市](../Page/つくば市.md "wikilink")
       - 愛称：なつこん
       - 開催日：2014年7月19日〜20日
-      - 開催場所：[つくば国際会議場](https://ja.wikipedia.org/wiki/つくば国際会議場 "wikilink")
+      - 開催場所：[つくば国際会議場](../Page/つくば国際会議場.md "wikilink")
   - [2015年](../Page/2015年.md "wikilink")
       - 開催地：[米子市](../Page/米子市.md "wikilink")
       - 愛称：米魂（こめこん）
@@ -450,17 +450,17 @@
       - 開催地：[静岡県](../Page/静岡県.md "wikilink")
       - 愛称：ドンブラコンLL
       - 開催日：2017年8月27日〜28日
-      - 開催場所：[グランシップ](https://ja.wikipedia.org/wiki/静岡県コンベンションアーツセンター "wikilink")
+      - 開催場所：[グランシップ](../Page/静岡県コンベンションアーツセンター.md "wikilink")
   - [2018年](../Page/2018年.md "wikilink")
       - 開催地：[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")
       - 愛称：ジュラコン
       - 開催日：2018年7月21日〜22日
       - 開催場所：[水上温泉ホテル聚楽](https://ja.wikipedia.org/wiki/水上温泉ホテル聚楽 "wikilink")
   - [2019年](../Page/2019年.md "wikilink")
-      - 開催地：[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")
+      - 開催地：[埼玉県](../Page/埼玉県.md "wikilink")
       - 愛称：Sci-con / 彩こん
       - 開催日：2019年7月27日〜28日
-      - 開催場所：[大宮ソニックシティ](https://ja.wikipedia.org/wiki/大宮ソニックシティ "wikilink")
+      - 開催場所：[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")
 
 ### 2020年代
 
@@ -473,12 +473,12 @@
 ## 関連項目
 
   - [星雲賞](../Page/星雲賞.md "wikilink")
-  - [暗黒星雲賞](https://ja.wikipedia.org/wiki/暗黒星雲賞 "wikilink")
-  - [センス・オブ・ジェンダー賞](https://ja.wikipedia.org/wiki/センス・オブ・ジェンダー賞 "wikilink")
+  - [暗黒星雲賞](../Page/暗黒星雲賞.md "wikilink")
+  - [センス・オブ・ジェンダー賞](../Page/センス・オブ・ジェンダー賞.md "wikilink")
   - [SF大会](../Page/SF大会.md "wikilink")
   - [ワールドコン](../Page/ワールドコン.md "wikilink")
-  - [日本トンデモ本大賞](https://ja.wikipedia.org/wiki/日本トンデモ本大賞 "wikilink")・[と学会](https://ja.wikipedia.org/wiki/と学会 "wikilink")
-  - [DAICON FILM](https://ja.wikipedia.org/wiki/DAICON_FILM "wikilink")
+  - [日本トンデモ本大賞](../Page/日本トンデモ本大賞.md "wikilink")・[と学会](../Page/と学会.md "wikilink")
+  - [DAICON FILM](../Page/DAICON_FILM.md "wikilink")
 
 ## 外部リンク
 

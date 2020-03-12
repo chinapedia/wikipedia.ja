@@ -1,7 +1,7 @@
 > この記事は[DES](https://ja.wikipedia.org/wiki/DES)から翻訳されています。
 
 
-[3des-overall-view.png](https://ja.wikipedia.org/wiki/File:3des-overall-view.png "fig:3des-overall-view.png") **トリプルDES**（**トリプルデス、**[英語](../Page/英語.md "wikilink"): **Triple DES**、**3DES**）とは、[共通鍵](https://ja.wikipedia.org/wiki/共通鍵 "wikilink")[ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")である[DESを](https://ja.wikipedia.org/wiki/Data_Encryption_Standard "wikilink")3回施す[暗号](../Page/暗号.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")。正式名称は**Triple Data Encryption Algorithm**(**TDEA**、**Triple DEA**)。時代の流れに伴い、鍵長56ビットのDESでは[総当たり攻撃](https://ja.wikipedia.org/wiki/総当たり攻撃 "wikilink")への耐性が低くなったことから、これを補う目的で考案された。
+[3des-overall-view.png](https://ja.wikipedia.org/wiki/File:3des-overall-view.png "fig:3des-overall-view.png") **トリプルDES**（**トリプルデス、**[英語](../Page/英語.md "wikilink"): **Triple DES**、**3DES**）とは、[共通鍵](https://ja.wikipedia.org/wiki/共通鍵 "wikilink")[ブロック暗号](../Page/ブロック暗号.md "wikilink")である[DESを](../Page/Data_Encryption_Standard.md "wikilink")3回施す[暗号](../Page/暗号.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")。正式名称は**Triple Data Encryption Algorithm**(**TDEA**、**Triple DEA**)。時代の流れに伴い、鍵長56ビットのDESでは[総当たり攻撃](../Page/総当たり攻撃.md "wikilink")への耐性が低くなったことから、これを補う目的で考案された。
 
 ## 概要
 
@@ -13,8 +13,8 @@
 ただし
 
   -
-    P ... [平文](https://ja.wikipedia.org/wiki/平文 "wikilink")
-    C ... [暗号文](https://ja.wikipedia.org/wiki/暗号文 "wikilink")
+    P ... [平文](../Page/平文.md "wikilink")
+    C ... [暗号文](../Page/暗号文.md "wikilink")
     k<sub>i</sub> ... 鍵 \#i
     encrypt, decrypt ... DES
 
@@ -42,7 +42,7 @@
 
 ## 安全性
 
-一般的にトリプルDESでは3つの異なる鍵(Keying option 1)を用いて168ビットの鍵長を持っているが、中間一致攻撃により安全性は112ビット相当となる。2つの異なる鍵(Keying option 2)を用いる場合は112ビットの鍵長を持っているが、[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")または既知平文攻撃により安全性は80ビット相当となる。112ビットであっても総当たりには相当なコンピュータパワーが必要となるため、トリプルDESの暗号解読は未だ現実的ではないが、[アメリカ国立標準技術研究所](https://ja.wikipedia.org/wiki/アメリカ国立標準技術研究所 "wikilink")は2030年までの使用を推奨している。
+一般的にトリプルDESでは3つの異なる鍵(Keying option 1)を用いて168ビットの鍵長を持っているが、中間一致攻撃により安全性は112ビット相当となる。2つの異なる鍵(Keying option 2)を用いる場合は112ビットの鍵長を持っているが、[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")または既知平文攻撃により安全性は80ビット相当となる。112ビットであっても総当たりには相当なコンピュータパワーが必要となるため、トリプルDESの暗号解読は未だ現実的ではないが、[アメリカ国立標準技術研究所](../Page/アメリカ国立標準技術研究所.md "wikilink")は2030年までの使用を推奨している。
 
 ## 実利用
 
@@ -71,7 +71,7 @@ DESと同じアルゴリズムで簡単に実装できることから、ICカー
 
 ## 関連項目
 
-  - [DES](https://ja.wikipedia.org/wiki/Data_Encryption_Standard "wikilink") - [DES-X](https://ja.wikipedia.org/wiki/DES-X "wikilink")
+  - [DES](../Page/Data_Encryption_Standard.md "wikilink") - [DES-X](https://ja.wikipedia.org/wiki/DES-X "wikilink")
   - [暗号](../Page/暗号.md "wikilink")
   - [暗号理論](../Page/暗号理論.md "wikilink")
   - [多重暗号](https://ja.wikipedia.org/wiki/多重暗号 "wikilink") / [カスケード暗号](https://ja.wikipedia.org/wiki/カスケード暗号 "wikilink")

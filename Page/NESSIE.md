@@ -6,11 +6,11 @@
 最終的に以下の暗号が採用された\[1\]。
 
   - ブロック暗号
-      - [MISTY1](https://ja.wikipedia.org/wiki/MISTY1 "wikilink") - [三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")
+      - [MISTY1](https://ja.wikipedia.org/wiki/MISTY1 "wikilink") - [三菱電機](../Page/三菱電機.md "wikilink")
 
-      - [Camellia](https://ja.wikipedia.org/wiki/Camellia "wikilink") - 三菱電機、[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")
+      - [Camellia](../Page/Camellia.md "wikilink") - 三菱電機、[NTT](../Page/日本電信電話.md "wikilink")
 
-      - \- [ジェムプラス](https://ja.wikipedia.org/wiki/ジェムプラス "wikilink")
+      - \- [ジェムプラス](../Page/ジェムプラス.md "wikilink")
 
       - Rijndael - 米国[AESでも採用](../Page/Advanced_Encryption_Standard.md "wikilink")
   - 公開鍵暗号
@@ -22,18 +22,18 @@
   - [メッセージ認証符号](https://ja.wikipedia.org/wiki/メッセージ認証符号 "wikilink")および[暗号学的ハッシュ関数](https://ja.wikipedia.org/wiki/暗号学的ハッシュ関数 "wikilink")
       - [Two-Track-MAC](https://ja.wikipedia.org/wiki/Two-Track-MAC "wikilink") - K.U.Leuven、debis AG
 
-      - \- [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[ネバダ大学リノ校](https://ja.wikipedia.org/wiki/ネバダ大学リノ校 "wikilink")、[IBM](../Page/IBM.md "wikilink") Research Laboratory、[イスラエル工科大学](https://ja.wikipedia.org/wiki/イスラエル工科大学 "wikilink")、[カリフォルニア大学デービス校](https://ja.wikipedia.org/wiki/カリフォルニア大学デービス校 "wikilink")
+      - \- [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[ネバダ大学リノ校](https://ja.wikipedia.org/wiki/ネバダ大学リノ校 "wikilink")、[IBM](../Page/IBM.md "wikilink") Research Laboratory、[イスラエル工科大学](https://ja.wikipedia.org/wiki/イスラエル工科大学 "wikilink")、[カリフォルニア大学デービス校](../Page/カリフォルニア大学デービス校.md "wikilink")
 
       - [CBC-MAC](https://ja.wikipedia.org/wiki/CBC-MAC "wikilink")
 
-      - [HMAC](https://ja.wikipedia.org/wiki/HMAC "wikilink")
+      - [HMAC](../Page/HMAC.md "wikilink")
 
       - [Whirlpool](https://ja.wikipedia.org/wiki/Whirlpool_\(ハッシュ関数\) "wikilink") - Scopus Tecnologia S.A.、K.U.Leuven
 
       - [SHA-2](https://ja.wikipedia.org/wiki/SHA-2 "wikilink")56、SHA-384、SHA-512
   - デジタル署名
       - [ECDSA](https://ja.wikipedia.org/wiki/楕円曲線DSA "wikilink") - Certicom
-      - [RSA-PSS](https://ja.wikipedia.org/wiki/PKCS "wikilink") - [RSA](https://ja.wikipedia.org/wiki/RSAセキュリティ "wikilink") Laboratories
+      - [RSA-PSS](../Page/PKCS.md "wikilink") - [RSA](../Page/RSAセキュリティ.md "wikilink") Laboratories
       - [SFLASH](https://ja.wikipedia.org/wiki/SFLASH "wikilink") - Schlumberger
   - Identification schemes
       - GPS-auth - École Normale Supérieure、France Télécom、La Poste
@@ -42,7 +42,7 @@
 
   - [暗号理論](../Page/暗号理論.md "wikilink")
   - [Advanced Encryption Standard](../Page/Advanced_Encryption_Standard.md "wikilink")
-  - [CRYPTREC](https://ja.wikipedia.org/wiki/CRYPTREC "wikilink")
+  - [CRYPTREC](../Page/CRYPTREC.md "wikilink")
 
 ## 脚注欄
 

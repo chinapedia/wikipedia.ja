@@ -1,7 +1,7 @@
 > この記事は[BLACK BOTTOM BRASS BAND](https://ja.wikipedia.org/wiki/BLACK_BOTTOM_BRASS_BAND)から翻訳されています。
 
 
-**BLACK BOTTOM BRASS BAND**（ブラック･ボトム･ブラス･バンド）は[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の[ニューオリンズ・ブラスバンド](https://ja.wikipedia.org/wiki/ニューオリンズ・ブラスバンド "wikilink")である。[1993年](../Page/1993年.md "wikilink")結成。
+**BLACK BOTTOM BRASS BAND**（ブラック･ボトム･ブラス･バンド）は[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の[ニューオリンズ・ブラスバンド](../Page/ニューオリンズ・ブラスバンド.md "wikilink")である。[1993年](../Page/1993年.md "wikilink")結成。
 
 ## メンバー
 
@@ -10,11 +10,11 @@
   - **IGGY** （イギー、**本名：梅口敦史** [1973年](../Page/1973年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）
       - [テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")担当。兵庫県[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")出身。血液型はA型。
   - **YUTA919** （ユウタ、**本名：志村優太** [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月13日](../Page/4月13日.md "wikilink") - ）
-      - [トランペット](../Page/トランペット.md "wikilink")担当。元[スカポンタス](https://ja.wikipedia.org/wiki/スカポンタス "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身。[和歌山県](../Page/和歌山県.md "wikilink")[海南市](../Page/海南市.md "wikilink")育ち。血液型はAB型。
-  - **SEIYA** （セイヤ、**本名：横田誓哉** [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ）
+      - [トランペット](../Page/トランペット.md "wikilink")担当。元[スカポンタス](../Page/スカポンタス.md "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身。[和歌山県](../Page/和歌山県.md "wikilink")[海南市](../Page/海南市.md "wikilink")育ち。血液型はAB型。
+  - **SEIYA** （セイヤ、**本名：横田誓哉** [1991年](../Page/1991年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ）
       - [スネアドラム](../Page/スネアドラム.md "wikilink")担当。[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")出身。
   - **ANTON** （アントン、**本名：川嶋浩司** [1972年](../Page/1972年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）
-      - [バスドラム](https://ja.wikipedia.org/wiki/バスドラム "wikilink")、[ドラム担当](../Page/ドラムセット.md "wikilink")。[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")出身。血液型はB型。
+      - [バスドラム](../Page/バスドラム.md "wikilink")、[ドラム担当](../Page/ドラムセット.md "wikilink")。[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")出身。血液型はB型。
   - **TAMOTSU** （タモツ、**本名：山根有** [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月19日](../Page/3月19日.md "wikilink") - ）
       - [スーザフォン](../Page/スーザフォン.md "wikilink")担当。兵庫県神戸市出身。血液型はA型。
       - [1999年](../Page/1999年.md "wikilink")8月加入。
@@ -22,7 +22,7 @@
 ### 元メンバー
 
   - **MITCH** （ミッチ、**本名：安田充** [1974年](../Page/1974年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - ）
-      - [トランペット](../Page/トランペット.md "wikilink")担当、リーダー。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")出身。血液型はA型。
+      - [トランペット](../Page/トランペット.md "wikilink")担当、リーダー。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身。血液型はA型。
       - [2000年](../Page/2000年.md "wikilink")、脱退。
   - **DcCOY** （デッコイ）
       - [スーザフォン](../Page/スーザフォン.md "wikilink")担当。
@@ -31,7 +31,7 @@
       - [2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、脱退。
   - **OJI** （オージ、**本名：木村純士** [1973年](../Page/1973年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - ）
       - [スネアドラム](../Page/スネアドラム.md "wikilink")担当。兵庫県[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")出身。血液型はAB型。旧芸名**JUN**（ジュン）。
-      - [2013年](../Page/2013年.md "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")、脱退。
+      - [2013年](../Page/2013年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")、脱退。
   - **MONKY** （モンキー、**本名：家永慎也** [1973年](../Page/1973年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink") - ）
       - [アルトサックス](https://ja.wikipedia.org/wiki/アルトサックス "wikilink")・[バリトンサックス](https://ja.wikipedia.org/wiki/バリトンサックス "wikilink")担当。兵庫県神戸市出身。血液型はA型。
       - [2019年](../Page/2019年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")、脱退。
@@ -156,14 +156,14 @@
 <ol>
 <li>Let's Make It Happy !</li>
 <li>サボテン・ガール</li>
-<li>Sync ! feat.<a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a></li>
+<li>Sync ! feat.<a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a></li>
 <li>Can You Feel It ?</li>
 <li>Magic Hand</li>
 <li>Just enjoy yourself</li>
-<li>こたえは風の中 feat.<a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a></li>
+<li>こたえは風の中 feat.<a href="../Page/Leyona.md" title="wikilink">Leyona</a></li>
 <li>Lighting Wolf</li>
 <li>ISLANDS</li>
-<li>ガンボdeチャンプルーfeat.<a href="https://ja.wikipedia.org/wiki/BEGIN_(バンド)" title="wikilink">BEGIN</a></li>
+<li>ガンボdeチャンプルーfeat.<a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGIN</a></li>
 <li>Wang li</li>
 <li>Made up mind</li>
 <li>オゥ パッキャラマ</li>
@@ -289,7 +289,7 @@ VICL-62091:通常盤</p></td>
 <td><p>CD</p>
 <ol>
 <li>Paraiso!</li>
-<li>Screamers High featuring <a href="https://ja.wikipedia.org/wiki/ウルフルケイスケ" title="wikilink">ウルフルケイスケ</a></li>
+<li>Screamers High featuring <a href="../Page/ウルフルケイスケ.md" title="wikilink">ウルフルケイスケ</a></li>
 <li>桜と太陽</li>
 <li>Precious Ones featuring <a href="https://ja.wikipedia.org/wiki/森俊之" title="wikilink">森俊之</a></li>
 <li>GATO</li>
@@ -492,17 +492,17 @@ VICL-62091:通常盤</p></td>
 <p>#It’s So easy</p></td>
 <td><p>/ <a href="../Page/トータス松本.md" title="wikilink">トータス松本</a></p>
 <ol>
-<li>月がかっこいい / <a href="https://ja.wikipedia.org/wiki/甲本ヒロト" title="wikilink">甲本ヒロト</a>,<a href="https://ja.wikipedia.org/wiki/三宅伸治" title="wikilink">三宅伸治</a></li>
-<li>Sync! / <a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a></li>
-<li>ガンボ de チャンプルー / <a href="https://ja.wikipedia.org/wiki/BEGIN_(バンド)" title="wikilink">BEGIN</a></li>
-<li>Moving Higher / <a href="https://ja.wikipedia.org/wiki/井手麻理子" title="wikilink">井手麻理子</a>,<a href="https://ja.wikipedia.org/wiki/會田茂一" title="wikilink">會田茂一</a></li>
-<li>涙のパレード / <a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
+<li>月がかっこいい / <a href="../Page/甲本ヒロト.md" title="wikilink">甲本ヒロト</a>,<a href="../Page/三宅伸治.md" title="wikilink">三宅伸治</a></li>
+<li>Sync! / <a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a></li>
+<li>ガンボ de チャンプルー / <a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGIN</a></li>
+<li>Moving Higher / <a href="https://ja.wikipedia.org/wiki/井手麻理子" title="wikilink">井手麻理子</a>,<a href="../Page/會田茂一.md" title="wikilink">會田茂一</a></li>
+<li>涙のパレード / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li>MONDAY DATE / <a href="https://ja.wikipedia.org/wiki/カーミット・ラフィンズ" title="wikilink">カーミット・ラフィンズ</a></li>
 <li>Beautiful / <a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></li>
 <li>Can’t stop lovin’ you / <a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>,<a href="https://ja.wikipedia.org/wiki/日之内エミ" title="wikilink">日之内エミ</a></li>
 <li>助けて!フラワーマン / トータス松本</li>
-<li>こたえは風の中 / <a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a></li>
-<li>Jesus on the Main Line / <a href="https://ja.wikipedia.org/wiki/ボー・ドリス" title="wikilink">ボー・ドリス</a>,<a href="https://ja.wikipedia.org/wiki/ワイルド・マグノリアス" title="wikilink">ワイルド・マグノリアス</a>,<a href="https://ja.wikipedia.org/wiki/マーヴァ・ライト" title="wikilink">マーヴァ・ライト</a></li>
+<li>こたえは風の中 / <a href="../Page/Leyona.md" title="wikilink">Leyona</a></li>
+<li>Jesus on the Main Line / <a href="https://ja.wikipedia.org/wiki/ボー・ドリス" title="wikilink">ボー・ドリス</a>,<a href="../Page/ワイルド・マグノリアス.md" title="wikilink">ワイルド・マグノリアス</a>,<a href="https://ja.wikipedia.org/wiki/マーヴァ・ライト" title="wikilink">マーヴァ・ライト</a></li>
 <li>Re-華香るある日 / <a href="https://ja.wikipedia.org/wiki/クラムボン" title="wikilink">クラムボン</a></li>
 </ol>
 <p>#be free</p></td>
@@ -513,7 +513,7 @@ VICL-62091:通常盤</p></td>
 <td><p><strong>HARVEST</strong></p></td>
 <td><p>PCCA-04106</p></td>
 <td><ol>
-<li>助けて! フラワーマン featuringトータス松本Lyrics &amp; Music by <a href="https://ja.wikipedia.org/wiki/BO_GUMBOS" title="wikilink">BO GUMBOS</a></li>
+<li>助けて! フラワーマン featuringトータス松本Lyrics &amp; Music by <a href="../Page/BO_GUMBOS.md" title="wikilink">BO GUMBOS</a></li>
 <li>WAKE UP BLUES Music by IGGY</li>
 <li>ストロベリー・ダンス・アワー Music by MONKY</li>
 <li>Paraiso! Music by MONKY</li>
@@ -651,7 +651,7 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996年9月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パティ・オースティン" title="wikilink">パティ・オースティン</a>『JUKEBOX DREAMS』</p></td>
+<td><p><a href="../Page/パティ・オースティン.md" title="wikilink">パティ・オースティン</a>『JUKEBOX DREAMS』</p></td>
 <td><p>PCCY-00882</p></td>
 <td><p>15. Kiss</p></td>
 </tr>
@@ -675,7 +675,7 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000年4月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Leyona" title="wikilink">Leyona</a>『Town to Town』</p></td>
+<td><p><a href="../Page/Leyona.md" title="wikilink">Leyona</a>『Town to Town』</p></td>
 <td><p>ESCB-2128</p></td>
 <td></td>
 </tr>
@@ -694,13 +694,13 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2001年3月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KYON" title="wikilink">KYON</a>『VIVA ROZINANTE！』（<a href="https://ja.wikipedia.org/wiki/向井荒太の動物日記_〜愛犬ロシナンテの災難〜" title="wikilink">向井荒太の動物日記 〜愛犬ロシナンテの災難〜サウンドトラック</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/KYON" title="wikilink">KYON</a>『VIVA ROZINANTE！』（<a href="../Page/向井荒太の動物日記_〜愛犬ロシナンテの災難〜.md" title="wikilink">向井荒太の動物日記 〜愛犬ロシナンテの災難〜サウンドトラック</a>)</p></td>
 <td><p>CRCP-20268</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2001年7月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>『<a href="https://ja.wikipedia.org/wiki/FIVE_(RIP_SLYMEのアルバム)" title="wikilink">FIVE</a>』</p></td>
+<td><p><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>『<a href="../Page/FIVE_(RIP_SLYMEのアルバム).md" title="wikilink">FIVE</a>』</p></td>
 <td><p>MQJN-16</p></td>
 <td><p>5. ジャッジメント／feat. BLACK BOTTOM BRASS BAND&amp;KYON</p></td>
 </tr>
@@ -744,7 +744,7 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年5月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>『<a href="https://ja.wikipedia.org/wiki/ASTROMANTIC" title="wikilink">ASTROMANTIC</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>『<a href="../Page/ASTROMANTIC.md" title="wikilink">ASTROMANTIC</a>』</p></td>
 <td><p>RZCD-45123</p></td>
 <td><p>16. 宇宙のウオウオ／m-flo♥BOY-KEN &amp; Black Bottom Brass Band</p></td>
 </tr>
@@ -768,7 +768,7 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年7月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Yellow_Cherry" title="wikilink">Yellow Cherry</a>『My Roots』</p></td>
+<td><p><a href="../Page/Yellow_Cherry.md" title="wikilink">Yellow Cherry</a>『My Roots』</p></td>
 <td><p>BTRCD-002</p></td>
 <td><p>5. クラブで踊ろう／feat. Black Bottom Brass Band</p></td>
 </tr>
@@ -781,7 +781,7 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年11月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スカポンタス" title="wikilink">スカポンタス</a>『GO!GO!SWINGIN' SANTA CLAUS』</p></td>
+<td><p><a href="../Page/スカポンタス.md" title="wikilink">スカポンタス</a>『GO!GO!SWINGIN' SANTA CLAUS』</p></td>
 <td><p>VICL-61779</p></td>
 <td><p>1.GO!GO! SWINGIN'SANTA CLAUS feat.BLACK BOTTOM BRASS BAND and マーキ</p></td>
 </tr>
@@ -811,13 +811,13 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年9月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三宅伸治" title="wikilink">三宅伸治</a>『<a href="https://ja.wikipedia.org/wiki/つづく" title="wikilink">つづく</a>』</p></td>
+<td><p><a href="../Page/三宅伸治.md" title="wikilink">三宅伸治</a>『<a href="../Page/つづく.md" title="wikilink">つづく</a>』</p></td>
 <td><p>NFCD-27050B</p></td>
 <td><p>1. 月がかっこいい</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年2月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エイジアエンジニア" title="wikilink">エイジアエンジニア</a>『Remix &amp; Live』</p></td>
+<td><p><a href="../Page/エイジアエンジニア.md" title="wikilink">エイジアエンジニア</a>『Remix &amp; Live』</p></td>
 <td><p>RZCD-45814B</p></td>
 <td><p>自由に歩いて愛して <BLACK BOTTOM BRASS BAND REMIX></p></td>
 </tr>
@@ -859,7 +859,7 @@ VICL-62091:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年6月26日</p></td>
-<td><p>DJ<a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a>『DJやついいちろう1』</p></td>
+<td><p>DJ<a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a>『DJやついいちろう1』</p></td>
 <td><p>VICL-63348</p></td>
 <td><p>It's So easy</p></td>
 </tr>
@@ -884,7 +884,7 @@ KSCL-1475</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年9月30日</p></td>
-<td><p>DJ<a href="https://ja.wikipedia.org/wiki/松本素生" title="wikilink">松本素生</a>『<a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX 2</a>』</p></td>
+<td><p>DJ<a href="../Page/松本素生.md" title="wikilink">松本素生</a>『<a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX 2</a>』</p></td>
 <td><p>VICL-63399</p></td>
 <td><p>Let's make it happy!</p></td>
 </tr>
@@ -896,7 +896,7 @@ KSCL-1475</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年6月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a>『<a href="https://ja.wikipedia.org/wiki/マジックディスク" title="wikilink">マジックディスク</a>』</p></td>
+<td><p><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a>『<a href="https://ja.wikipedia.org/wiki/マジックディスク" title="wikilink">マジックディスク</a>』</p></td>
 <td><p>KSCL-1610<br />
 KSCL-1612<br />
 KSJL-6154</p></td>
@@ -904,7 +904,7 @@ KSJL-6154</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年12月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>『<a href="https://ja.wikipedia.org/wiki/BAD_TIMES" title="wikilink">BAD TIMES</a>』</p></td>
+<td><p><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>『<a href="https://ja.wikipedia.org/wiki/BAD_TIMES" title="wikilink">BAD TIMES</a>』</p></td>
 <td><p>WPZL-30246<br />
 WPCL-10888</p></td>
 <td><p>ジャッジメント (feat.BLACK BOTTOM BRASS BAND &amp; KYON)</p></td>
@@ -923,19 +923,19 @@ WPCL-10888</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年7月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/綾戸智恵" title="wikilink">綾戸智恵</a>『Picture in a Frame』</p></td>
+<td><p><a href="../Page/綾戸智恵.md" title="wikilink">綾戸智恵</a>『Picture in a Frame』</p></td>
 <td><p>MYDO-001</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年9月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Scoobie_Do" title="wikilink">Scoobie Do</a>『<a href="https://ja.wikipedia.org/wiki/結晶_(SCOOBIE_DOのアルバム)" title="wikilink">結晶</a>』</p></td>
+<td><p><a href="../Page/Scoobie_Do.md" title="wikilink">Scoobie Do</a>『<a href="https://ja.wikipedia.org/wiki/結晶_(SCOOBIE_DOのアルバム)" title="wikilink">結晶</a>』</p></td>
 <td><p>HICC-3808</p></td>
 <td><p>「月に手を伸ばせ」「あなたを教えて」（演奏）</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年3月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BEGIN_(バンド)" title="wikilink">BEGIN</a>『15th ANNIVERSARY CONCERT-Wonderful Tonight- at 武道館 25周年記念盤』</p></td>
+<td><p><a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGIN</a>『15th ANNIVERSARY CONCERT-Wonderful Tonight- at 武道館 25周年記念盤』</p></td>
 <td><p>TEBI-15336</p></td>
 <td><p>TORNADO SPECIAL (BLACK BOTTOM BRASS BAND 登場)</p></td>
 </tr>
@@ -953,7 +953,7 @@ WPCL-10888</p></td>
 |                                                       |                         |
 | ----------------------------------------------------- | ----------------------- |
 | **監督**                                                | **曲名**                  |
-| [池田剛](https://ja.wikipedia.org/wiki/池田剛 "wikilink")   | 「Beautiful」             |
+| [池田剛](../Page/池田剛.md "wikilink")                      | 「Beautiful」             |
 | [熊田憲康](https://ja.wikipedia.org/wiki/熊田憲康 "wikilink") | 「Can't stop lovin' you」 |
 |                                                       |                         |
 
@@ -969,9 +969,9 @@ WPCL-10888</p></td>
   - 2006年8月26日 - WINDBLOW
   - 2007年8月25日 - WINDBLOW
   - 2007年9月22日 - 三宅伸治 デビュー20周年LIVE 「BACKしよう」
-  - 2008年4月26日 - [ARABAKI ROCK FEST.](https://ja.wikipedia.org/wiki/ARABAKI_ROCK_FEST. "wikilink")08
+  - 2008年4月26日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")08
   - 2008年8月30日 - WINDBLOW
-  - 2008年12月24日 - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")'s X'mas Party
+  - 2008年12月24日 - [Leyona](../Page/Leyona.md "wikilink")'s X'mas Party
   - 2009年5月31日 - GREENROOM FESTIVAL '09
   - 2009年8月9日 - 宮城うたの日コンサートin七ヶ浜
   - 2009年8月30日 - WINDBLOW
@@ -1007,7 +1007,7 @@ WPCL-10888</p></td>
   - 2015年7月7日 - MUZAランチタイムコンサート/MUZAナイトコンサート 7月
   - 2015年7月11日 - FOR座REST 2015
   - 2015年8月23日 - ホットフィールド2015
-  - 2015年9月27日 - BLACK BOTTOM BRASS BAND×[綾戸智恵](https://ja.wikipedia.org/wiki/綾戸智恵 "wikilink")
+  - 2015年9月27日 - BLACK BOTTOM BRASS BAND×[綾戸智恵](../Page/綾戸智恵.md "wikilink")
   - 2015年10月31日 - 豊洲野音CARNIVAL ～InterFM897 開局記念～
   - 2015年12月29日・30日 - Chicken Death Lock 2015'
   - 2016年4月15日 - BLACK BOTTOM BRASS BAND feat 綾戸智恵
@@ -1018,19 +1018,19 @@ WPCL-10888</p></td>
 ## 関連項目
 
   - [武田真治](../Page/武田真治.md "wikilink")
-  - [上田正樹](https://ja.wikipedia.org/wiki/上田正樹 "wikilink")
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
-  - [ザ・カルチャータイム](https://ja.wikipedia.org/wiki/ザ・カルチャータイム "wikilink")
+  - [上田正樹](../Page/上田正樹.md "wikilink")
+  - [斉藤和義](../Page/斉藤和義.md "wikilink")
+  - [ザ・カルチャータイム](../Page/ザ・カルチャータイム.md "wikilink")
   - [スーパーベースボール (テレビ朝日系列)](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")
   - [トータス松本](../Page/トータス松本.md "wikilink")
   - [浜村淳](../Page/浜村淳.md "wikilink")
-  - [BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")
-  - [MUSIC9](https://ja.wikipedia.org/wiki/MUSIC9 "wikilink")
+  - [BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")
+  - [MUSIC9](../Page/MUSIC9.md "wikilink")
   - [MONGOL800](../Page/MONGOL800.md "wikilink")
-  - [ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")
-  - [Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")
+  - [ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")
+  - [Leyona](../Page/Leyona.md "wikilink")
   - [ソウル・フラワー・ユニオン](https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン "wikilink")
-  - [ASIAN KUNG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")
+  - [ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")
 
 ## 外部リンク
 

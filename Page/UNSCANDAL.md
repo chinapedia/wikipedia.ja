@@ -6,9 +6,9 @@
 ## メンバー
 
   - スズーキタカユキ
-    ヴォーカル、トランペット担当。[2月15日](../Page/2月15日.md "wikilink")生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。A型
+    ヴォーカル、トランペット担当。[2月15日](../Page/2月15日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身。A型
   - ハカマカンペー
-    ベース担当、[6月8日](../Page/6月8日.md "wikilink")生まれ、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。O型
+    ベース担当、[6月8日](../Page/6月8日.md "wikilink")生まれ、[千葉県](../Page/千葉県.md "wikilink")出身。O型
     「[MAGUMI AND THE BREATHLESS](https://ja.wikipedia.org/wiki/MAGUMI_AND_THE_BREATHLESS "wikilink")」のメンバーとしても活動中。
   - kozzz
     ギター担当、[7月5日](../Page/7月5日.md "wikilink")生まれ、[兵庫県](../Page/兵庫県.md "wikilink")出身。A型
@@ -21,17 +21,17 @@
   - 結成当時は4人組で、現在も残っているメンバーはスズーキタカユキだけである。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")、音楽雑誌[PATiPATiロックンロール](https://ja.wikipedia.org/wiki/PATiPATiロックンロール "wikilink")主催「[SUPER BADをぶっ飛ばせ](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")」というコンテストにメンバー全員東京在住なのに、なぜか仙台大会に出場。パチロク賞受賞。
   - 結成から4年間ぐらいはメンバー交代が激しく、なかなか定着しなかった。1994年7月に加入したハカマカンペーは8代目ベーシストである。（加入当初の名前は袴塚ジョンソン2世）
-  - 1995年末に六本木ベルベットでのカウントダウンイベントに、[LA-PPISCH](https://ja.wikipedia.org/wiki/LA-PPISCH "wikilink")、[Kemuri](https://ja.wikipedia.org/wiki/Kemuri "wikilink")等と共に出演。
+  - 1995年末に六本木ベルベットでのカウントダウンイベントに、[LA-PPISCH](https://ja.wikipedia.org/wiki/LA-PPISCH "wikilink")、[Kemuri](../Page/Kemuri.md "wikilink")等と共に出演。
   - 1996年11月コンピレーションCD「LIVE BAND REMIX EAST WEST」に参加、「SUPER HIT」「羊たちの深刻」の2曲収録。これがUNSCANDAL初のCD音源である。kozzzは当時、同アルバムに参加した[快速バビロントレイン](https://ja.wikipedia.org/wiki/快速バビロントレイン "wikilink")のメンバーだった。
   - 1997年頃よりLA-PPISCH・[MAGUMI](https://ja.wikipedia.org/wiki/MAGUMI "wikilink")主催イベント『ミクスチャーナイト』にレギュラー出演。渋谷FMのラジオ番組『JAM and JAM』『Rock On The Rord』にレギュラー出演。
   - 1998年夏にジャッキー天野が加入。
   - 1999年9月にマキシシングル『UNSCANDAL UNO』でインディーズCDデビュー。12月に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[FACTORY](https://ja.wikipedia.org/wiki/FACTORY "wikilink")」出演。
-  - 2002年、[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「[YOKOHAMA MUSIC AWARD](https://ja.wikipedia.org/wiki/YOKOHAMA_MUSIC_AWARD "wikilink")」第6期グランプリ受賞。
+  - 2002年、[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")「[YOKOHAMA MUSIC AWARD](../Page/YOKOHAMA_MUSIC_AWARD.md "wikilink")」第6期グランプリ受賞。
   - [新潟万代ビルボードプレイス](https://ja.wikipedia.org/wiki/新潟万代ビルボードプレイス "wikilink")2002夏と2003冬のBP SALE CM曲とナレーションを担当。
   - 2003年、LA-PPISCH全国ライブツアーのうち8ヶ所のフロントアクトを務める。
-  - 2004年元旦にkozzz加入。10月、TVアニメ「[スクールランブル](https://ja.wikipedia.org/wiki/スクールランブル_\(アニメ\) "wikilink")」オープニングテーマ曲「[スクランブル](https://ja.wikipedia.org/wiki/スクランブル_\(堀江由衣_with_UNSCANDALの曲\) "wikilink")」リリース。
-  - 2005年2月、[キングレコード](../Page/キングレコード.md "wikilink")・[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")からアルバムメジャーリリース。映画「[魁\!\!クロマティ高校 THE☆MOVIE](https://ja.wikipedia.org/wiki/魁!!クロマティ高校#映画版 "wikilink")」のエンディングテーマ曲「GORI-LLA(原題「宇宙猿人ゴリなのだ」)」を担当。
-  - 2005年公開の映画「[鍵がない](https://ja.wikipedia.org/wiki/鍵がない "wikilink")」（脚本・監督：[山田英治](https://ja.wikipedia.org/wiki/山田英治 "wikilink")、主演：[つぐみ](https://ja.wikipedia.org/wiki/つぐみ_\(女優\) "wikilink")、[大森南朋](../Page/大森南朋.md "wikilink")）に出演。
+  - 2004年元旦にkozzz加入。10月、TVアニメ「[スクールランブル](../Page/スクールランブル_\(アニメ\).md "wikilink")」オープニングテーマ曲「[スクランブル](../Page/スクランブル_\(堀江由衣_with_UNSCANDALの曲\).md "wikilink")」リリース。
+  - 2005年2月、[キングレコード](../Page/キングレコード.md "wikilink")・[スターチャイルド](../Page/スターチャイルド.md "wikilink")からアルバムメジャーリリース。映画「[魁\!\!クロマティ高校 THE☆MOVIE](https://ja.wikipedia.org/wiki/魁!!クロマティ高校#映画版 "wikilink")」のエンディングテーマ曲「GORI-LLA(原題「宇宙猿人ゴリなのだ」)」を担当。
+  - 2005年公開の映画「[鍵がない](https://ja.wikipedia.org/wiki/鍵がない "wikilink")」（脚本・監督：[山田英治](https://ja.wikipedia.org/wiki/山田英治 "wikilink")、主演：[つぐみ](../Page/つぐみ_\(女優\).md "wikilink")、[大森南朋](../Page/大森南朋.md "wikilink")）に出演。
   - 2008年4月よりサポートSax.にKemuriのコバヤシケンが参加。
   - 2008年11月スノーボードDVD「First Children Movie 11 シュリハ」に楽曲参加。
   - 2009年8月コバヤシケン休業にともない、9月よりサポートTp.にamagonが参加。
@@ -153,7 +153,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><strong>UNSCANDAL</strong></p></td>
 <td><p>KICS-1162</p></td>
 <td><p>#1.2.3</p></td>
@@ -175,7 +175,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st mini</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td><p><strong>sweet</strong></p></td>
 <td><p>DLCP-2057</p></td>
 <td><ol>
@@ -221,7 +221,7 @@
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 <td><p><strong>Mixture Night 2002 1</strong></p></td>
 <td><p>BECA-5002</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レピッシュ" title="wikilink">レピッシュ</a>・<a href="https://ja.wikipedia.org/wiki/MAGUMI" title="wikilink">MAGUMI</a>が主催するイベント「MIXTURE NIGHT」のライブ盤。<br />
+<td><p><a href="../Page/レピッシュ.md" title="wikilink">レピッシュ</a>・<a href="https://ja.wikipedia.org/wiki/MAGUMI" title="wikilink">MAGUMI</a>が主催するイベント「MIXTURE NIGHT」のライブ盤。<br />
 「毒イチゴォ～」「空を見上げちゃってさ」「有能なBoys」の3曲がライブ収録されている。</p></td>
 </tr>
 <tr class="odd">
@@ -243,12 +243,12 @@
 <td><p>「ライフ」が収録されたコンピレーションCD。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/スクランブル_(堀江由衣_with_UNSCANDALの曲)" title="wikilink">スクランブル</a></strong></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
+<td><p><strong><a href="../Page/スクランブル_(堀江由衣_with_UNSCANDALの曲).md" title="wikilink">スクランブル</a></strong></p></td>
 <td><p>KICM-93085<br />
 KICM-3085</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/堀江由衣" title="wikilink">堀江由衣</a>がメインボーカルで、楽曲提供・演奏コーラスをUNSCANDALが担当した。<br />
-アニメ『<a href="https://ja.wikipedia.org/wiki/スクールランブル_(アニメ)" title="wikilink">スクールランブル</a>』のオープニングテーマ曲として使われた。</p></td>
+アニメ『<a href="../Page/スクールランブル_(アニメ).md" title="wikilink">スクールランブル</a>』のオープニングテーマ曲として使われた。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年07月06日</p></td>

@@ -1,11 +1,11 @@
 > この記事は[AKAI EWI](https://ja.wikipedia.org/wiki/AKAI_EWI)から翻訳されています。
 
 
-**EWIシリーズ**（アカイ・イーウィ・シリーズ）は[AKAI professionalの](https://ja.wikipedia.org/wiki/AKAI_professional "wikilink")[ウインドシンセサイザー](https://ja.wikipedia.org/wiki/ウインドシンセサイザー "wikilink")の型番・商品名。[ヤマハ・WXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・WXシリーズ "wikilink")と並んで、ウインドシンセサイザーの代名詞的に用いられていた。
+**EWIシリーズ**（アカイ・イーウィ・シリーズ）は[AKAI professionalの](../Page/AKAI_professional.md "wikilink")[ウインドシンセサイザー](../Page/ウインドシンセサイザー.md "wikilink")の型番・商品名。[ヤマハ・WXシリーズ](../Page/ヤマハ・WXシリーズ.md "wikilink")と並んで、ウインドシンセサイザーの代名詞的に用いられていた。
 
 [ナイル・スタイナー](https://ja.wikipedia.org/wiki/ナイル・スタイナー "wikilink")が製作したスタイナーホーン（[トランペット](../Page/トランペット.md "wikilink")タイプの[ウィンドシンセサイザー](https://ja.wikipedia.org/wiki/ウィンドシンセサイザー "wikilink")で、EVI1000の原型）であり、独特のコントロール体系を持っていたために人気を博した。その優れた表現力に[木管楽器](../Page/木管楽器.md "wikilink")奏者が注目、木管楽器タイプのコントローラーの製作をスタイナーに依頼し、完成させたものがEWI1000の原型である。当初は完全ハンドメイドであったが人気が出たために生産が追いつかなくなり、AKAIがライセンスを買い取り、EWI1000として製品化した。
 
-[マイケル・ブレッカー](https://ja.wikipedia.org/wiki/マイケル・ブレッカー "wikilink")や[伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")も開発に携わった。[T-SQUARE](../Page/T-SQUARE.md "wikilink")の歴代[サクソフォーン](../Page/サクソフォーン.md "wikilink")奏者（伊東たけし、[本田雅人](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")、[宮崎隆睦](https://ja.wikipedia.org/wiki/宮崎隆睦 "wikilink")）が使用していることで知られている。
+[マイケル・ブレッカー](../Page/マイケル・ブレッカー.md "wikilink")や[伊東たけし](../Page/伊東たけし.md "wikilink")も開発に携わった。[T-SQUARE](../Page/T-SQUARE.md "wikilink")の歴代[サクソフォーン](../Page/サクソフォーン.md "wikilink")奏者（伊東たけし、[本田雅人](../Page/本田雅人.md "wikilink")、[宮崎隆睦](../Page/宮崎隆睦.md "wikilink")）が使用していることで知られている。
 
 ## 概要
 
@@ -19,17 +19,17 @@
 
   - EWI1000/EWV2000
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売。キーの付いた金属製の細長い直方体の箱に吹き口を取って付けたようなデザインで、息が抜けなかった。
-    音源のEWV2000はラックマウントタイプの[アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")で、[トランペット](../Page/トランペット.md "wikilink")型の[EVI](https://ja.wikipedia.org/wiki/EVI "wikilink")（イーヴィ）でも使用された。
+    音源のEWV2000はラックマウントタイプの[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")で、[トランペット](../Page/トランペット.md "wikilink")型の[EVI](https://ja.wikipedia.org/wiki/EVI "wikilink")（イーヴィ）でも使用された。
   - EWI3000/EWI3000m
     [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売。スマートなデザインとなり、ポルタメントスイッチがアースプレートの隣からオクターブローラーの隣に移動した。また、本体の底面から息が抜けるように改良された。
-    音源であるEWI3000mは完全2系統の[アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")。EWV2000とは違い、平置き型の形態を採る。
+    音源であるEWI3000mは完全2系統の[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")。EWV2000とは違い、平置き型の形態を採る。
   - X355i
-    [ヘッドセット](https://ja.wikipedia.org/wiki/ヘッドセット "wikilink")タイプのブレスセンサー。EWIシリーズの音源に接続し、[MIDI](../Page/MIDI.md "wikilink")[キーボードなどで音程を指定しつつ](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、管楽器のようなニュアンスを演奏に付与できる。
+    [ヘッドセット](https://ja.wikipedia.org/wiki/ヘッドセット "wikilink")タイプのブレスセンサー。EWIシリーズの音源に接続し、[MIDI](../Page/MIDI.md "wikilink")[キーボードなどで音程を指定しつつ](../Page/キーボード_\(楽器\).md "wikilink")、管楽器のようなニュアンスを演奏に付与できる。
   - EWI3020/EWI3020m/EWI3030m
-    [1994年](../Page/1994年.md "wikilink")発売。コントローラーはEWI3000と形態は変わらないが、色が違い、また[ケーブル](https://ja.wikipedia.org/wiki/ケーブル "wikilink")の[クランプ](https://ja.wikipedia.org/wiki/クランプ "wikilink")部分がケーブルへのストレスを与えにくく改良されている。EWI3020mがアナログ音源、EWI3030mがPCM音源。形態はラックマウントタイプに戻された。コントローラーが小さく取り回しが良い、3020mのアナログ発振の音色が良い等発売から20年近く経った現在でも根強い人気があるが、独自規格のケーブルが断線してコントローラーが使えなくなったり、本体のバックアップ用電池が切れる等(交換は可能)の理由でセットで使用できる個体が年々減少している。しかし音源部自体はEWI4000又は5000をMIDI接続すると使用できる。
+    [1994年](../Page/1994年.md "wikilink")発売。コントローラーはEWI3000と形態は変わらないが、色が違い、また[ケーブル](../Page/ケーブル.md "wikilink")の[クランプ](https://ja.wikipedia.org/wiki/クランプ "wikilink")部分がケーブルへのストレスを与えにくく改良されている。EWI3020mがアナログ音源、EWI3030mがPCM音源。形態はラックマウントタイプに戻された。コントローラーが小さく取り回しが良い、3020mのアナログ発振の音色が良い等発売から20年近く経った現在でも根強い人気があるが、独自規格のケーブルが断線してコントローラーが使えなくなったり、本体のバックアップ用電池が切れる等(交換は可能)の理由でセットで使用できる個体が年々減少している。しかし音源部自体はEWI4000又は5000をMIDI接続すると使用できる。
   - EWI4000s
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")発売。EWIシリーズ初の乾電池駆動・音源内蔵モデル。アースプレートがポルタメントスイッチの反対側にも追加された。音色調整以外のコントロール部分は本体に集約されている。またMIDI OUT端子に外部音源を接続することでコントローラー本体から直接MIDI機器を操作出来る。
-    内蔵された音源は従来の[アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")ではなく、DSPによるアナログモデリング音源。プリセットとしてあらかじめ100音色（実際には80音色）が内蔵されているが、付属のエディタソフトを使ってPC上にて音色を作成し、保存することが可能となっている。音源を搭載した事でLINE OUT端子にスピーカーを繋くだけで演奏が可能だが、市販のワイヤレスシステムを用いればケーブルレス化も出来る。
+    [2006年](../Page/2006年.md "wikilink")発売。EWIシリーズ初の乾電池駆動・音源内蔵モデル。アースプレートがポルタメントスイッチの反対側にも追加された。音色調整以外のコントロール部分は本体に集約されている。またMIDI OUT端子に外部音源を接続することでコントローラー本体から直接MIDI機器を操作出来る。
+    内蔵された音源は従来の[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")ではなく、DSPによるアナログモデリング音源。プリセットとしてあらかじめ100音色（実際には80音色）が内蔵されているが、付属のエディタソフトを使ってPC上にて音色を作成し、保存することが可能となっている。音源を搭載した事でLINE OUT端子にスピーカーを繋くだけで演奏が可能だが、市販のワイヤレスシステムを用いればケーブルレス化も出来る。
     発売発表を前後して発生した出来事のため、同じEWI4000sでもファーストロット・セカンドロットでは外観が一部変更されている。ファーストロットEWI4000sは50本作成されたが販売店の総本山とも言うべき店舗がファーストロットEWI4000sをあえて取り扱わなかったため一般にはファーストロットEWI4000sの存在はあまり知られていない。ファーストロットはヘアライン仕上げ（むしろ鏡面に近い）、セカンドロット以降はサンドブラスト仕上げとなっている。生産コスト及び手入れのし易さでサンドブラスト仕上げとなったと推定される。
     発売後OSのバージョンが随時更新され改良が進んでいる。現在はVer2.40。
     [2013年](../Page/2013年.md "wikilink")、外装を白に変更したEWI4000swが発売された。
@@ -56,7 +56,7 @@
 
 ## 関連項目
 
-  - [ウインドシンセサイザー](https://ja.wikipedia.org/wiki/ウインドシンセサイザー "wikilink")
-  - [AKAI professional](https://ja.wikipedia.org/wiki/AKAI_professional "wikilink")
+  - [ウインドシンセサイザー](../Page/ウインドシンセサイザー.md "wikilink")
+  - [AKAI professional](../Page/AKAI_professional.md "wikilink")
 
 [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:管楽器](https://ja.wikipedia.org/wiki/Category:管楽器 "wikilink") [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink")

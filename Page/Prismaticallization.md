@@ -1,9 +1,9 @@
 > この記事は[Prismaticallization](https://ja.wikipedia.org/wiki/Prismaticallization)から翻訳されています。
 
 
-『**Prismaticallization**』（プリズマティカリゼーション）は、[PlayStation用の](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。開発元の[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")は「サークレイト（circulate: 循環する）・アドベンチャー」と称している。「[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")」の一作とされる。
+『**Prismaticallization**』（プリズマティカリゼーション）は、[PlayStation用の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。開発元の[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")は「サークレイト（circulate: 循環する）・アドベンチャー」と称している。「[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")」の一作とされる。
 
-1999年にPlayStationで発売され、2000年に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")に移植された。また、2002年には[サクセスから](https://ja.wikipedia.org/wiki/サクセス_\(ゲーム会社\) "wikilink")[SuperLite1500シリーズとして再発売された](https://ja.wikipedia.org/wiki/SuperLiteシリーズ "wikilink")。2007年8月30日には[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")用ソフトとして配信されている。
+1999年にPlayStationで発売され、2000年に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")に移植された。また、2002年には[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite1500シリーズとして再発売された](../Page/SuperLiteシリーズ.md "wikilink")。2007年8月30日には[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")用ソフトとして配信されている。
 
 ## 概要
 
@@ -15,11 +15,11 @@
 
 ## ストーリー
 
-主人公・射場荘司は、高校3年生。幼馴染みの同級生・明美に誘われて、夏休みを避暑地の[ペンション](https://ja.wikipedia.org/wiki/ペンション "wikilink")で過ごすことになった。
+主人公・射場荘司は、高校3年生。幼馴染みの同級生・明美に誘われて、夏休みを避暑地の[ペンション](../Page/ペンション.md "wikilink")で過ごすことになった。
 
 荘司は人生に明確な目的が持てず苦しみながらも、苦悩するインテリ青年という自己像に酔うばかりで、何も行動を起こさず怠惰に過ごしている。ペンションで出会うヒロインたちも、一見幸福そうではあるものの内面にはそれぞれに苦しみを抱えているが、荘司はその兆候を見過ごし、彼女たちの苦しみも終わらない。
 
-荘司は、ペンションの近くの森で[プリズム](../Page/プリズム.md "wikilink")のような形状の不思議なオブジェを偶然拾う。このオブジェにより、荘司たちは同じ一日(約 24時間)が、いつ終わるとも知れず繰り返される循環に囚われる（基本的には当初は自覚はない。プレイヤーキャラクターの荘司が[既視感](https://ja.wikipedia.org/wiki/既視感 "wikilink")を感じている、とプレイヤーには提示される）。
+荘司は、ペンションの近くの森で[プリズム](../Page/プリズム.md "wikilink")のような形状の不思議なオブジェを偶然拾う。このオブジェにより、荘司たちは同じ一日(約 24時間)が、いつ終わるとも知れず繰り返される循環に囚われる（基本的には当初は自覚はない。プレイヤーキャラクターの荘司が[既視感](../Page/既視感.md "wikilink")を感じている、とプレイヤーには提示される）。
 
 オブジェの影響により、繰り返される一日は、しかしどこか少しずつ違ってゆく。循環から解放される（ゲームとしてはエンディングを迎える）日はやってくるのだろうか。
 
@@ -81,13 +81,13 @@
       - 作詞・作曲・編曲 : koyo / ヴォーカル : Water Clock
   - エンディングテーマ : **With you**
       - 作詞 : 室伏恵、作曲・編曲 : 木川良弘 / ヴォーカル : Water Clock
-  - 発売 : [アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")
+  - 発売 : [アークシステムワークス](../Page/アークシステムワークス.md "wikilink")
 
 ## 関連商品
 
-  - 『電撃G's PREMIUM Vol.2 プリズマティカリゼーション ビジュアル&完全攻略オフィシャルコレクターズブック』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）
-      - 美少女ゲーム専門誌『[電撃G'sマガジン](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』責任編集による攻略本。題名どおりに多数のイラストを収録している。
-  - 『プリズマティカリゼーション ヴォーカル\&BGM集』（[バンダイ・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink") / APCM-5155）
+  - 『電撃G's PREMIUM Vol.2 プリズマティカリゼーション ビジュアル&完全攻略オフィシャルコレクターズブック』（[メディアワークス](../Page/メディアワークス.md "wikilink")）
+      - 美少女ゲーム専門誌『[電撃G'sマガジン](../Page/電撃G's_magazine.md "wikilink")』責任編集による攻略本。題名どおりに多数のイラストを収録している。
+  - 『プリズマティカリゼーション ヴォーカル\&BGM集』（[バンダイ・ミュージックエンタテインメント](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink") / APCM-5155）
       - 主題歌とBGMを収めたCD。ブックレットには描きおろしも含めて、やはり多数のイラストが収録されている。
 
 ## 類似の作品
@@ -95,8 +95,8 @@
   - [この世の果てで恋を唄う少女YU-NO](../Page/この世の果てで恋を唄う少女YU-NO.md "wikilink")
   - [infinity](https://ja.wikipedia.org/wiki/infinity_\(ゲーム\) "wikilink")
   - [涼宮ハルヒの並列](https://ja.wikipedia.org/wiki/涼宮ハルヒの並列 "wikilink")
-  - [恋はデジャ・ブ](https://ja.wikipedia.org/wiki/恋はデジャ・ブ "wikilink")（基本設定が酷似している）
-  - [そう、あたしたちはこんなにも理不尽な世界に生きているのだらよ](https://ja.wikipedia.org/wiki/そう、あたしたちはこんなにも理不尽な世界に生きているのだらよ "wikilink")（「記憶管理モード」が本作のシステムの発展系に当たる）
+  - [恋はデジャ・ブ](../Page/恋はデジャ・ブ.md "wikilink")（基本設定が酷似している）
+  - [そう、あたしたちはこんなにも理不尽な世界に生きているのだらよ](../Page/そう、あたしたちはこんなにも理不尽な世界に生きているのだらよ.md "wikilink")（「記憶管理モード」が本作のシステムの発展系に当たる）
 
 ## 脚注
 
@@ -111,4 +111,4 @@
 1.  太田出版『超クソゲーVR』（多根清史、阿部弘樹、箭本進一著）100ページから103ページ。
 2.  未読のメッセージであっても読み飛ばすよう設定し、読み飛ばしの操作をすれば読み飛ばせるが、ここでのストーリーに後の展開のヒントもあるので初回プレイではおすすめしない。
 3.
-4.  [チャイニーズリング](https://ja.wikipedia.org/wiki/チャイニーズリング "wikilink")のようでもある。
+4.  [チャイニーズリング](../Page/チャイニーズリング.md "wikilink")のようでもある。

@@ -1,7 +1,7 @@
 > この記事は[HARD WAY TOUR 1991](https://ja.wikipedia.org/wiki/HARD_WAY_TOUR_1991)から翻訳されています。
 
 
-『**HARD WAY TOUR 1991**』(ハード・ウェイ・ツアー・ナインティーンナインティワン)は[SHOW-YA](https://ja.wikipedia.org/wiki/SHOW-YA "wikilink")の2枚目のライブアルバム。
+『**HARD WAY TOUR 1991**』(ハード・ウェイ・ツアー・ナインティーンナインティワン)は[SHOW-YA](../Page/SHOW-YA.md "wikilink")の2枚目のライブアルバム。
 
 ## 内容
 
@@ -11,11 +11,11 @@
 
 1.  **METALLIC WOMAN**
       -
-        作詞:[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink") 作曲:[五十嵐美貴](https://ja.wikipedia.org/wiki/五十嵐美貴 "wikilink")
+        作詞:[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink") 作曲:[五十嵐美貴](../Page/五十嵐美貴.md "wikilink")
 2.  **LIFE IS DANCING**
       -
-        作詞:安藤芳彦 作曲:[角田美喜](https://ja.wikipedia.org/wiki/角田美喜 "wikilink")・[仙波さとみ](https://ja.wikipedia.org/wiki/仙波さとみ "wikilink")
-3.  **[私は嵐](https://ja.wikipedia.org/wiki/私は嵐 "wikilink")**
+        作詞:安藤芳彦 作曲:[角田美喜](https://ja.wikipedia.org/wiki/角田美喜 "wikilink")・[仙波さとみ](../Page/仙波さとみ.md "wikilink")
+3.  **[私は嵐](../Page/私は嵐.md "wikilink")**
       -
         作詞:安藤芳彦 作曲:寺田恵子
 4.  **BLUE ROSE BLUES**
@@ -36,15 +36,15 @@
 9.  **Fairy**
       -
         作詞:寺田恵子 作曲:五十嵐美貴
-10. **[ギャンブリング](https://ja.wikipedia.org/wiki/ギャンブリング "wikilink")**
+10. **[ギャンブリング](../Page/ギャンブリング.md "wikilink")**
       -
         作詞:安藤芳彦 作曲:五十嵐美貴
-11. **[限界LOVERS](https://ja.wikipedia.org/wiki/限界LOVERS "wikilink")**
+11. **[限界LOVERS](../Page/限界LOVERS.md "wikilink")**
       -
         作詞:安藤芳彦 作曲:寺田恵子・五十嵐美貴
 
 ## 関連項目
 
-  - [SHOW-YA](https://ja.wikipedia.org/wiki/SHOW-YA "wikilink")
+  - [SHOW-YA](../Page/SHOW-YA.md "wikilink")
 
 [Category:1991年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1991年のライブ・アルバム "wikilink") [Category:SHOW-YAのアルバム](https://ja.wikipedia.org/wiki/Category:SHOW-YAのアルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")

@@ -5,7 +5,7 @@
 
 ## 解説
 
-当時としては珍しくトリプルジャケットが採用された全20曲収録の2枚組アルバム\[1\]である。**10代の邦楽アーティスト（リリース当時渡辺は19歳）が2枚組のCDアルバムをリリースしたのは史上初**のことである。[月刊明星のインタビュー記事で](https://ja.wikipedia.org/wiki/Myojo "wikilink")「アルバム制作時に良い楽曲がたくさん集まったので全部収録して2枚組で発売しようという話が出たから」と語っている。
+当時としては珍しくトリプルジャケットが採用された全20曲収録の2枚組アルバム\[1\]である。**10代の邦楽アーティスト（リリース当時渡辺は19歳）が2枚組のCDアルバムをリリースしたのは史上初**のことである。[月刊明星のインタビュー記事で](../Page/Myojo.md "wikilink")「アルバム制作時に良い楽曲がたくさん集まったので全部収録して2枚組で発売しようという話が出たから」と語っている。
 
 1枚目の「**HERE**」は赤を基調としたデザイン、2枚目の「**THERE**」は緑を基調としたデザインでそれぞれ10曲ずつが収録されている。「Steppin' Now」では渡辺が初めて作曲を手掛けた。
 
@@ -19,14 +19,14 @@
 
 ### HERE
 
-1.  **[Long Night](https://ja.wikipedia.org/wiki/Long_Night "wikilink")**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+1.  **[Long Night](../Page/Long_Night.md "wikilink")**
+      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  **天使にかまれる**
       - 作詞：渡辺美里、作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：大村雅朗・小室哲哉
-3.  **[My Revolution](https://ja.wikipedia.org/wiki/My_Revolution "wikilink")**
-      - 作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")、作曲：小室哲哉、編曲：大村雅朗
+3.  **[My Revolution](../Page/My_Revolution.md "wikilink")**
+      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")、作曲：小室哲哉、編曲：大村雅朗
 4.  **そばにいるよ**
-      - 作詞：[神沢礼江](https://ja.wikipedia.org/wiki/神沢礼江 "wikilink")、作曲：小室哲哉、編曲：大村雅朗
+      - 作詞：[神沢礼江](../Page/神沢礼江.md "wikilink")、作曲：小室哲哉、編曲：大村雅朗
 5.  **素敵になりたい**\[Album Version\]
       - 作詞：神沢礼江、作曲：岡村靖幸、編曲：大村雅朗
     <!-- end list -->
@@ -65,7 +65,7 @@
       - 作詞：渡辺美里、作曲：[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")、編曲：大村雅朗
 7.  **A Happy Ending**
       - 作詞：川村真澄、作曲：岡村靖幸、編曲：大村雅朗
-8.  **[Teenage Walk](https://ja.wikipedia.org/wiki/Teenage_Walk "wikilink")**
+8.  **[Teenage Walk](../Page/Teenage_Walk.md "wikilink")**
       - 作詞：神沢礼江、作曲：小室哲哉、編曲：大村雅朗
 9.  **嵐ヶ丘**
       - 作詞：渡辺美里、作曲：小室哲哉、編曲：大村雅朗・小室哲哉
@@ -126,13 +126,13 @@
 
 ### HERE
 
-**[Long Night](https://ja.wikipedia.org/wiki/Long_Night "wikilink")**
+**[Long Night](../Page/Long_Night.md "wikilink")**
 
-  - Drums : [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")
+  - Drums : [山木秀夫](../Page/山木秀夫.md "wikilink")
   - Bass : [高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")
   - Acoustic piano & Keyboards : [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
-  - Electric Guitar : [今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")
-  - Synthesizer Operator : [松武秀樹](https://ja.wikipedia.org/wiki/松武秀樹 "wikilink")
+  - Electric Guitar : [今剛](../Page/今剛.md "wikilink")
+  - Synthesizer Operator : [松武秀樹](../Page/松武秀樹.md "wikilink")
   - Timpany : 金山功
   - Chorus : [Eve](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink"), The others
 
@@ -142,17 +142,17 @@
   - Bass : 高水健司
   - A. Piano : 西本明
   - Synthesizers : 西本明, [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-  - E. Guitar : [清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink"), 今剛
+  - E. Guitar : [清水信之](../Page/清水信之.md "wikilink"), 今剛
   - Synthesizer Operator : 松武秀樹, 迫田到
 
-**[My Revolution](https://ja.wikipedia.org/wiki/My_Revolution "wikilink")**
+**[My Revolution](../Page/My_Revolution.md "wikilink")**
 
-  - Drums : [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
+  - Drums : [島村英二](../Page/島村英二.md "wikilink")
   - Bass : 高水健司
   - Keyboards : 西本明
-  - Electric Guitar : [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")
+  - Electric Guitar : [松原正樹](../Page/松原正樹.md "wikilink")
   - Synthesizer Operator : 迫田到
-  - Chorus : [楠木勇有行](https://ja.wikipedia.org/wiki/楠木勇有行 "wikilink"), [木戸泰弘](https://ja.wikipedia.org/wiki/木戸やすひろ "wikilink")
+  - Chorus : [楠木勇有行](https://ja.wikipedia.org/wiki/楠木勇有行 "wikilink"), [木戸泰弘](../Page/木戸やすひろ.md "wikilink")
 
 **そばにいるよ**
 
@@ -160,7 +160,7 @@
   - Synthesizer Operator : [浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")
   - Chorus : [MISATO](../Page/渡辺美里.md "wikilink"), [山田秀俊](https://ja.wikipedia.org/wiki/山田秀俊 "wikilink")
 
-**[素敵になりたい](https://ja.wikipedia.org/wiki/Teenage_Walk "wikilink")**
+**[素敵になりたい](../Page/Teenage_Walk.md "wikilink")**
 
   - Drums : 山木秀夫
   - Bass : 高水健司
@@ -168,7 +168,7 @@
   - E. Guitar : 松原正樹
   - Synthesizer Operator : [森達彦](https://ja.wikipedia.org/wiki/森達彦 "wikilink"), 迫田到 & 浦田恵司
   - Saxophone : [Jake H. Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
-  - Trumpet : [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink"), 林健一郎
+  - Trumpet : [数原晋](../Page/数原晋.md "wikilink"), 林健一郎
   - Trombone : 西山健治
   - Chorus : MISATO, 岡村靖幸
 
@@ -177,7 +177,7 @@
   - Drums : 山木秀夫
   - Bass : [浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")
   - Keyboards : 西本明
-  - E. Guitar : [佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink"), 松原正樹
+  - E. Guitar : [佐橋佳幸](../Page/佐橋佳幸.md "wikilink"), 松原正樹
   - Synthesizer Operator : 浦田恵司
   - Chorus : MISATO, [Frank Simms](https://ja.wikipedia.org/wiki/:en:Frank_Simms "wikilink"), Peter Hewlett
 
@@ -223,7 +223,7 @@
   - Synthesizer Operator : 浦田恵司
   - Chorus : MISATO, Eve
 
-**[みつめていたい (Restin' In Your Room)](https://ja.wikipedia.org/wiki/My_Revolution "wikilink")**
+**[みつめていたい (Restin' In Your Room)](../Page/My_Revolution.md "wikilink")**
 
   - Drums : 山木秀夫
   - Bass : 高水健司
@@ -236,12 +236,12 @@
 
   - Drums : 山木秀夫
   - Bass : 高水健司
-  - Keyboards : 西本明, [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - Keyboards : 西本明, [大村雅朗](../Page/大村雅朗.md "wikilink")
   - E. Guitar : 今剛
   - Synthesizer Operator : 浦田恵司, 松武秀樹
   - Chorus : 木戸泰弘
 
-**[雨よ降らないで](https://ja.wikipedia.org/wiki/Long_Night "wikilink")**
+**[雨よ降らないで](../Page/Long_Night.md "wikilink")**
 
   - Drums : 山木秀夫
   - Bass : 高水健司
@@ -273,7 +273,7 @@
   - Saxophone Solo : Jake H. Conception
   - Chorus : MISATO, Eve, [浜田良美](https://ja.wikipedia.org/wiki/浜田良美 "wikilink")
 
-**[Teenage Walk](https://ja.wikipedia.org/wiki/Teenage_Walk "wikilink")**
+**[Teenage Walk](../Page/Teenage_Walk.md "wikilink")**
 
   - Drums : 山木秀夫
   - Bass : 高水健司
@@ -290,13 +290,13 @@
   - E. Guitar : 佐橋佳幸, 松原正樹
   - Synthesizer Operator : 松武秀樹, 迫田到
   - Chorus : MISATO, TM NETWORK
-  - Saxophone & Horns Arrangement : [中村哲](https://ja.wikipedia.org/wiki/中村哲_\(作曲家\) "wikilink")
+  - Saxophone & Horns Arrangement : [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
   - Trumpet : 兼崎“Don-pei”順一
   - Trombone : 早川隆章
 
 **Lovin' you**
 
-  - Drums : [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
+  - Drums : [青山純](../Page/青山純.md "wikilink")
   - Bass : 浅田孟
   - A. Piano & Hammond Organ : 西本明
   - E. Guitar : 佐橋佳幸, 今剛
@@ -310,7 +310,7 @@
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:1986年のアルバム](https://ja.wikipedia.org/wiki/Category:1986年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1986年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  この様な形態でのケースは黎明期でもあったが、本作以前にリリースされた2枚組作品は例として、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")『[KAMAKURA](https://ja.wikipedia.org/wiki/KAMAKURA "wikilink")』、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")『[J.BOY](https://ja.wikipedia.org/wiki/J.BOY "wikilink")』（どちらも前年に既発）と渡辺の3組のみとなっている。
+1.  この様な形態でのケースは黎明期でもあったが、本作以前にリリースされた2枚組作品は例として、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")『[KAMAKURA](../Page/KAMAKURA.md "wikilink")』、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")『[J.BOY](https://ja.wikipedia.org/wiki/J.BOY "wikilink")』（どちらも前年に既発）と渡辺の3組のみとなっている。
 2.
 3.
 4.

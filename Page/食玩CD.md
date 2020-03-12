@@ -1,7 +1,7 @@
 > この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
 
 
-**食玩CD**（しょくがんシーディー）は、[スナック菓子](https://ja.wikipedia.org/wiki/スナック菓子 "wikilink")・[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")菓子等のパッケージの中に[音楽CD](../Page/コンパクトディスク.md "wikilink")（[CD-ROM](../Page/CD-ROM.md "wikilink")）を入れて販売している商品の形態である。
+**食玩CD**（しょくがんシーディー）は、[スナック菓子](../Page/スナック菓子.md "wikilink")・[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")菓子等のパッケージの中に[音楽CD](../Page/コンパクトディスク.md "wikilink")（[CD-ROM](../Page/CD-ROM.md "wikilink")）を入れて販売している商品の形態である。
 
 ## 解説
 
@@ -11,9 +11,9 @@
 
 ## 影響
 
-食玩CDブームが起こった2003年、1月〜11月の8センチCDの生産枚数が[日本レコード協会](https://ja.wikipedia.org/wiki/日本レコード協会 "wikilink")調べで1709万5000枚と前年同期の2倍以上を記録した\[3\]。
+食玩CDブームが起こった2003年、1月〜11月の8センチCDの生産枚数が[日本レコード協会](../Page/日本レコード協会.md "wikilink")調べで1709万5000枚と前年同期の2倍以上を記録した\[3\]。
 
-食玩CDに採用されたアーティストの[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")の売上が伸びるという影響もあった。2003年、[キャンディーズ](../Page/キャンディーズ.md "wikilink")は前年の1.5倍、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")は3倍、[久保田早紀は](https://ja.wikipedia.org/wiki/久米小百合 "wikilink")4倍以上の売上を記録した\[4\]。
+食玩CDに採用されたアーティストの[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の売上が伸びるという影響もあった。2003年、[キャンディーズ](../Page/キャンディーズ.md "wikilink")は前年の1.5倍、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")は3倍、[久保田早紀は](../Page/久米小百合.md "wikilink")4倍以上の売上を記録した\[4\]。
 
 ## 食玩CDを発売した実績のあるメーカーと商品
 
@@ -23,32 +23,32 @@
 
 2004年10月25日発売\[5\]
 
-  - 「いとしのマックス（マックス・ア・ゴーゴー）」[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")／[クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")with荒木一郎
-  - 「GO\!GO\!レンタカー」[田辺靖雄](https://ja.wikipedia.org/wiki/田辺靖雄 "wikilink")&[中尾ミエ](https://ja.wikipedia.org/wiki/中尾ミエ "wikilink")／[ゴーグル・エース](https://ja.wikipedia.org/wiki/ゴーグル・エース "wikilink")
-  - 「[ZenZenブルース](https://ja.wikipedia.org/wiki/あなたの心に#あなたの心に（中山千夏） "wikilink")」[中山千夏](https://ja.wikipedia.org/wiki/中山千夏 "wikilink")／[渚ようこ](https://ja.wikipedia.org/wiki/渚ようこ "wikilink")
+  - 「いとしのマックス（マックス・ア・ゴーゴー）」[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")／[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")with荒木一郎
+  - 「GO\!GO\!レンタカー」[田辺靖雄](../Page/田辺靖雄.md "wikilink")&[中尾ミエ](../Page/中尾ミエ.md "wikilink")／[ゴーグル・エース](https://ja.wikipedia.org/wiki/ゴーグル・エース "wikilink")
+  - 「[ZenZenブルース](https://ja.wikipedia.org/wiki/あなたの心に#あなたの心に（中山千夏） "wikilink")」[中山千夏](../Page/中山千夏.md "wikilink")／[渚ようこ](../Page/渚ようこ.md "wikilink")
   - 「[五ひきの仔ブタとチャールストン](https://ja.wikipedia.org/wiki/五匹のこぶたとチャールストン "wikilink")」[森山加代子](https://ja.wikipedia.org/wiki/森山加代子 "wikilink")／[Umekichi](https://ja.wikipedia.org/wiki/Umekichi "wikilink")
   - 「[サン・トワ・マミー](https://ja.wikipedia.org/wiki/サン・トワ・マミー "wikilink")」[越路吹雪](../Page/越路吹雪.md "wikilink")／[夜のストレンジャーズ](https://ja.wikipedia.org/wiki/夜のストレンジャーズ "wikilink")
-  - 「[本牧ブルース](https://ja.wikipedia.org/wiki/本牧ブルース "wikilink")」[ザ・ゴールデン・カップス](https://ja.wikipedia.org/wiki/ザ・ゴールデン・カップス "wikilink")／[ザ・ヤング](https://ja.wikipedia.org/wiki/ザ・ヤング "wikilink")
-  - 「[恋のバカンス](https://ja.wikipedia.org/wiki/恋のバカンス_\(曲\) "wikilink")」[ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")／[スーツケースローズ](https://ja.wikipedia.org/wiki/スーツケースローズ "wikilink")
-  - 「[恋をしようよジェニー](https://ja.wikipedia.org/wiki/恋をしようよジェニー "wikilink")」[ザ・カーナビーツ](https://ja.wikipedia.org/wiki/ザ・カーナビーツ "wikilink")／[ザ・キャプテンズ](https://ja.wikipedia.org/wiki/ザ・キャプテンズ "wikilink")
-  - 「[ひょっこりひょうたん島](https://ja.wikipedia.org/wiki/ひょっこりひょうたん島#主題歌 "wikilink")」[前川陽子](https://ja.wikipedia.org/wiki/前川陽子 "wikilink")&[ヤング・フレッシュ](https://ja.wikipedia.org/wiki/ヤング・フレッシュ "wikilink")／[花団](https://ja.wikipedia.org/wiki/花団 "wikilink")
-  - 「[帰って来たヨッパライ](https://ja.wikipedia.org/wiki/帰って来たヨッパライ "wikilink")」[ザ・フォーク・クルセイダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセイダーズ "wikilink")／[ミルクティース](https://ja.wikipedia.org/wiki/ミルクティース "wikilink")
+  - 「[本牧ブルース](https://ja.wikipedia.org/wiki/本牧ブルース "wikilink")」[ザ・ゴールデン・カップス](../Page/ザ・ゴールデン・カップス.md "wikilink")／[ザ・ヤング](https://ja.wikipedia.org/wiki/ザ・ヤング "wikilink")
+  - 「[恋のバカンス](../Page/恋のバカンス_\(曲\).md "wikilink")」[ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")／[スーツケースローズ](https://ja.wikipedia.org/wiki/スーツケースローズ "wikilink")
+  - 「[恋をしようよジェニー](https://ja.wikipedia.org/wiki/恋をしようよジェニー "wikilink")」[ザ・カーナビーツ](../Page/ザ・カーナビーツ.md "wikilink")／[ザ・キャプテンズ](../Page/ザ・キャプテンズ.md "wikilink")
+  - 「[ひょっこりひょうたん島](https://ja.wikipedia.org/wiki/ひょっこりひょうたん島#主題歌 "wikilink")」[前川陽子](../Page/前川陽子.md "wikilink")&[ヤング・フレッシュ](../Page/ヤング・フレッシュ.md "wikilink")／[花団](https://ja.wikipedia.org/wiki/花団 "wikilink")
+  - 「[帰って来たヨッパライ](../Page/帰って来たヨッパライ.md "wikilink")」[ザ・フォーク・クルセイダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセイダーズ "wikilink")／[ミルクティース](https://ja.wikipedia.org/wiki/ミルクティース "wikilink")
   - 「[砂に消えた涙](https://ja.wikipedia.org/wiki/砂に消えた涙 "wikilink")」[弘田三枝子](https://ja.wikipedia.org/wiki/弘田三枝子 "wikilink")／[メトロ・トリップ](https://ja.wikipedia.org/wiki/メトロ・トリップ "wikilink")
-  - 「[ブルー・ライト・ヨコハマ](https://ja.wikipedia.org/wiki/ブルー・ライト・ヨコハマ "wikilink")」[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")／[ザ・シロップ](https://ja.wikipedia.org/wiki/ザ・シロップ "wikilink")
+  - 「[ブルー・ライト・ヨコハマ](../Page/ブルー・ライト・ヨコハマ.md "wikilink")」[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")／[ザ・シロップ](https://ja.wikipedia.org/wiki/ザ・シロップ "wikilink")
 
 ### ブルボン
 
 #### The Audition
 
-2000年10月発売。元[ZONEのTOMOKA](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")（当時は[西村朝香](https://ja.wikipedia.org/wiki/西村朝香 "wikilink")）などが参加し、オーディションという名目で商品化され、購入者は10人の中から3人を選出し、同封のハガキに書いて投票して選出し、アイドルグループとしてCDデビューするという趣旨であった。結果、澤亜沙美、待島佐和子、西村朝香の3人が選ばれ**チュエル's**として2001年5月9日に「風と光とうたと」を発売する\[6\]。グループ名はブルボンの新製品「チュエル」にちなみ、「風と光とうたと」も「チュエル」の[CMソングに起用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。 [ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント "wikilink")の所属者が多数オーディションに参加しており選ばれた3人は全員ランタイム所属者であった。規格番号はTDDD 903\*\*であり[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニーミュージック "wikilink")制作。 **参加アーティスト** (番号はエントリーナンバー)
+2000年10月発売。元[ZONEのTOMOKA](../Page/ZONE_\(バンド\).md "wikilink")（当時は[西村朝香](../Page/西村朝香.md "wikilink")）などが参加し、オーディションという名目で商品化され、購入者は10人の中から3人を選出し、同封のハガキに書いて投票して選出し、アイドルグループとしてCDデビューするという趣旨であった。結果、澤亜沙美、待島佐和子、西村朝香の3人が選ばれ**チュエル's**として2001年5月9日に「風と光とうたと」を発売する\[6\]。グループ名はブルボンの新製品「チュエル」にちなみ、「風と光とうたと」も「チュエル」の[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。 [ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")の所属者が多数オーディションに参加しており選ばれた3人は全員ランタイム所属者であった。規格番号はTDDD 903\*\*であり[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニーミュージック "wikilink")制作。 **参加アーティスト** (番号はエントリーナンバー)
 
 1.  [澤亜沙美](https://ja.wikipedia.org/wiki/澤亜沙美 "wikilink")
-2.  [奈良安由加](https://ja.wikipedia.org/wiki/奈良安由加 "wikilink") (後に[MARIAに加入する](https://ja.wikipedia.org/wiki/MARIA_\(バンド\) "wikilink")**あゆか**)
+2.  [奈良安由加](https://ja.wikipedia.org/wiki/奈良安由加 "wikilink") (後に[MARIAに加入する](../Page/MARIA_\(バンド\).md "wikilink")**あゆか**)
 3.  [待島佐和子](https://ja.wikipedia.org/wiki/待島佐和子 "wikilink")
 4.  [佐久間あず沙](https://ja.wikipedia.org/wiki/佐久間あず沙 "wikilink")
 5.  [成田望美](https://ja.wikipedia.org/wiki/成田望美 "wikilink")
 6.  [田中友可里](https://ja.wikipedia.org/wiki/田中友可里 "wikilink")
-7.  [西村朝香](https://ja.wikipedia.org/wiki/西村朝香 "wikilink") (後にZONEに加入する**TOMOKA**)
+7.  [西村朝香](../Page/西村朝香.md "wikilink") (後にZONEに加入する**TOMOKA**)
 8.  [外山恵梨](https://ja.wikipedia.org/wiki/外山恵梨 "wikilink")
 9.  [安岡彩花](https://ja.wikipedia.org/wiki/安岡彩花 "wikilink")
 10. [山下いづ美](https://ja.wikipedia.org/wiki/山下いづ美 "wikilink")
@@ -59,13 +59,13 @@
 
   - [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") - 「[夢の途中](https://ja.wikipedia.org/wiki/夢の途中_\(来生たかおのアルバム\) "wikilink")」
   - [ザ・キングトーンズ](https://ja.wikipedia.org/wiki/ザ・キングトーンズ "wikilink") - 「[グッド・ナイト・ベイビー](https://ja.wikipedia.org/wiki/グッド・ナイト・ベイビー "wikilink")」
-  - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink") - 「[また逢う日まで](https://ja.wikipedia.org/wiki/また逢う日まで_\(尾崎紀世彦の曲\) "wikilink")」
-  - [欧陽菲菲](https://ja.wikipedia.org/wiki/欧陽菲菲 "wikilink") - 「[ラヴ・イズ・オーヴァー](https://ja.wikipedia.org/wiki/ラヴ・イズ・オーヴァー "wikilink")」
-  - [もんた&ブラザース](https://ja.wikipedia.org/wiki/もんたよしのり "wikilink") - 「[ダンシング・オールナイト](https://ja.wikipedia.org/wiki/ダンシング・オールナイト "wikilink")」
-  - [加藤登紀子](https://ja.wikipedia.org/wiki/加藤登紀子 "wikilink") - 「ひとり寝の子守唄」
-  - [C-C-B](https://ja.wikipedia.org/wiki/C-C-B "wikilink") - 「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」
+  - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink") - 「[また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")」
+  - [欧陽菲菲](../Page/欧陽菲菲.md "wikilink") - 「[ラヴ・イズ・オーヴァー](https://ja.wikipedia.org/wiki/ラヴ・イズ・オーヴァー "wikilink")」
+  - [もんた&ブラザース](https://ja.wikipedia.org/wiki/もんたよしのり "wikilink") - 「[ダンシング・オールナイト](../Page/ダンシング・オールナイト.md "wikilink")」
+  - [加藤登紀子](../Page/加藤登紀子.md "wikilink") - 「ひとり寝の子守唄」
+  - [C-C-B](../Page/C-C-B.md "wikilink") - 「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」
   - [小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink") - 「さらば青春」
-  - [喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")&チャンプルーズ - 「[花〜すべての人の心に花を〜](https://ja.wikipedia.org/wiki/花〜すべての人の心に花を〜 "wikilink")」
+  - [喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")&チャンプルーズ - 「[花〜すべての人の心に花を〜](../Page/花〜すべての人の心に花を〜.md "wikilink")」
 
 #### J'sポップスの巨人たち
 
@@ -75,28 +75,28 @@
       -
         2003年10月28日より、日本全国で順次発売
     <!-- end list -->
-      - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") - 「[結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")」「[旅の宿](https://ja.wikipedia.org/wiki/旅の宿_\(よしだたくろうの曲\) "wikilink")」
-      - [はしだのりひことクライマックス](https://ja.wikipedia.org/wiki/はしだのりひことクライマックス "wikilink") - 「[花嫁](https://ja.wikipedia.org/wiki/花嫁 "wikilink")」/ [はしだのりひことシューベルツ](https://ja.wikipedia.org/wiki/はしだのりひことシューベルツ "wikilink") - 「[風](https://ja.wikipedia.org/wiki/風_\(曖昧さ回避\) "wikilink")」
-      - [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink") - 「[17才](https://ja.wikipedia.org/wiki/17才_\(南沙織の曲\) "wikilink")」「[潮風のメロディ](https://ja.wikipedia.org/wiki/潮風のメロディ "wikilink")」
-      - [甲斐バンド](https://ja.wikipedia.org/wiki/甲斐バンド "wikilink") - 「[HERO（ヒーローになる時、それは今）](https://ja.wikipedia.org/wiki/HERO（ヒーローになる時、それは今） "wikilink")」「[安奈](https://ja.wikipedia.org/wiki/安奈 "wikilink")」
-      - [渡辺真知子](https://ja.wikipedia.org/wiki/渡辺真知子 "wikilink") - 「[かもめが翔んだ日](https://ja.wikipedia.org/wiki/かもめが翔んだ日 "wikilink")」「[唇よ、熱く君を語れ](https://ja.wikipedia.org/wiki/唇よ、熱く君を語れ "wikilink")」
+      - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") - 「[結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")」「[旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")」
+      - [はしだのりひことクライマックス](https://ja.wikipedia.org/wiki/はしだのりひことクライマックス "wikilink") - 「[花嫁](https://ja.wikipedia.org/wiki/花嫁 "wikilink")」/ [はしだのりひことシューベルツ](../Page/はしだのりひことシューベルツ.md "wikilink") - 「[風](../Page/風_\(曖昧さ回避\).md "wikilink")」
+      - [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink") - 「[17才](../Page/17才_\(南沙織の曲\).md "wikilink")」「[潮風のメロディ](../Page/潮風のメロディ.md "wikilink")」
+      - [甲斐バンド](../Page/甲斐バンド.md "wikilink") - 「[HERO（ヒーローになる時、それは今）](https://ja.wikipedia.org/wiki/HERO（ヒーローになる時、それは今） "wikilink")」「[安奈](https://ja.wikipedia.org/wiki/安奈 "wikilink")」
+      - [渡辺真知子](../Page/渡辺真知子.md "wikilink") - 「[かもめが翔んだ日](https://ja.wikipedia.org/wiki/かもめが翔んだ日 "wikilink")」「[唇よ、熱く君を語れ](https://ja.wikipedia.org/wiki/唇よ、熱く君を語れ "wikilink")」
       - [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink") - 「[異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")」「オレンジ・エアメール・スペシャル」
-      - [南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink") - 「[モンロー・ウォーク](https://ja.wikipedia.org/wiki/モンロー・ウォーク "wikilink")」「[スローなブギにしてくれ](https://ja.wikipedia.org/wiki/スローなブギにしてくれ "wikilink")」
-      - [ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink") - 「[五番街のマリーへ](https://ja.wikipedia.org/wiki/五番街のマリーへ "wikilink")」「[ジョニィへの伝言](https://ja.wikipedia.org/wiki/ジョニィへの伝言 "wikilink")」
-      - [さだまさし](../Page/さだまさし.md "wikilink") - 「[線香花火](https://ja.wikipedia.org/wiki/線香花火_\(さだまさしの曲\) "wikilink")」「[秋桜](https://ja.wikipedia.org/wiki/秋桜_\(山口百恵の曲\) "wikilink")」
+      - [南佳孝](../Page/南佳孝.md "wikilink") - 「[モンロー・ウォーク](https://ja.wikipedia.org/wiki/モンロー・ウォーク "wikilink")」「[スローなブギにしてくれ](../Page/スローなブギにしてくれ.md "wikilink")」
+      - [ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink") - 「[五番街のマリーへ](../Page/五番街のマリーへ.md "wikilink")」「[ジョニィへの伝言](../Page/ジョニィへの伝言.md "wikilink")」
+      - [さだまさし](../Page/さだまさし.md "wikilink") - 「[線香花火](https://ja.wikipedia.org/wiki/線香花火_\(さだまさしの曲\) "wikilink")」「[秋桜](../Page/秋桜_\(山口百恵の曲\).md "wikilink")」
   - 80'sポップス編
       -
         2003年12月16日より、日本全国で順次発売\[8\]
     <!-- end list -->
-      - [チェッカーズ](../Page/チェッカーズ.md "wikilink") - 「[星屑のステージ](https://ja.wikipedia.org/wiki/星屑のステージ "wikilink")」「[ジュリアに傷心](https://ja.wikipedia.org/wiki/ジュリアに傷心 "wikilink")」
-      - [レベッカ](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink") - 「[フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")」「[RASPBERRY DREAM](https://ja.wikipedia.org/wiki/RASPBERRY_DREAM "wikilink")」
-      - [中村あゆみ](https://ja.wikipedia.org/wiki/中村あゆみ "wikilink") - 「[翼の折れたエンジェル](https://ja.wikipedia.org/wiki/翼の折れたエンジェル "wikilink")」「[ちょっとやそっとじゃCAN'T GET LOVE](https://ja.wikipedia.org/wiki/ちょっとやそっとじゃCAN'T_GET_LOVE "wikilink")」
+      - [チェッカーズ](../Page/チェッカーズ.md "wikilink") - 「[星屑のステージ](../Page/星屑のステージ.md "wikilink")」「[ジュリアに傷心](../Page/ジュリアに傷心.md "wikilink")」
+      - [レベッカ](../Page/レベッカ_\(バンド\).md "wikilink") - 「[フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")」「[RASPBERRY DREAM](https://ja.wikipedia.org/wiki/RASPBERRY_DREAM "wikilink")」
+      - [中村あゆみ](../Page/中村あゆみ.md "wikilink") - 「[翼の折れたエンジェル](../Page/翼の折れたエンジェル.md "wikilink")」「[ちょっとやそっとじゃCAN'T GET LOVE](../Page/ちょっとやそっとじゃCAN'T_GET_LOVE.md "wikilink")」
       - [杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/杉山清貴&オメガトライブ "wikilink") - 「[ふたりの夏物語](https://ja.wikipedia.org/wiki/ふたりの夏物語 "wikilink")」「[ガラスのPALM TREE](https://ja.wikipedia.org/wiki/FIRST_FINALE#収録曲 "wikilink")」
-      - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 「[セカンド・ラブ](https://ja.wikipedia.org/wiki/セカンド・ラブ_\(曲\) "wikilink")」「[少女A](https://ja.wikipedia.org/wiki/少女A "wikilink")」
-      - [一風堂](https://ja.wikipedia.org/wiki/一風堂_\(バンド\) "wikilink")/[土屋昌巳](../Page/土屋昌巳.md "wikilink") - 「[すみれ September Love](https://ja.wikipedia.org/wiki/すみれ_September_Love "wikilink")」「東京バレエ（TOKYO BALLET）」
-      - [TM NETWORK](../Page/TM_NETWORK.md "wikilink") - 「[Get Wild](https://ja.wikipedia.org/wiki/Get_Wild "wikilink")」「[Be Together](https://ja.wikipedia.org/wiki/BE_TOGETHER "wikilink")」
-      - [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink") - 「[オリビアを聴きながら](https://ja.wikipedia.org/wiki/オリビアを聴きながら "wikilink")」「[天使のウィンク](https://ja.wikipedia.org/wiki/天使のウィンク "wikilink")」
-      - [本田美奈子](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - 「[1986年のマリリン](https://ja.wikipedia.org/wiki/1986年のマリリン "wikilink")」「[Oneway Generation](https://ja.wikipedia.org/wiki/Oneway_Generation "wikilink")」
+      - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 「[セカンド・ラブ](../Page/セカンド・ラブ_\(曲\).md "wikilink")」「[少女A](../Page/少女A.md "wikilink")」
+      - [一風堂](../Page/一風堂_\(バンド\).md "wikilink")/[土屋昌巳](../Page/土屋昌巳.md "wikilink") - 「[すみれ September Love](../Page/すみれ_September_Love.md "wikilink")」「東京バレエ（TOKYO BALLET）」
+      - [TM NETWORK](../Page/TM_NETWORK.md "wikilink") - 「[Get Wild](../Page/Get_Wild.md "wikilink")」「[Be Together](../Page/BE_TOGETHER.md "wikilink")」
+      - [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink") - 「[オリビアを聴きながら](https://ja.wikipedia.org/wiki/オリビアを聴きながら "wikilink")」「[天使のウィンク](../Page/天使のウィンク.md "wikilink")」
+      - [本田美奈子](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - 「[1986年のマリリン](../Page/1986年のマリリン.md "wikilink")」「[Oneway Generation](../Page/Oneway_Generation.md "wikilink")」
 
 #### その他
 
@@ -126,24 +126,24 @@
 
 2003年6月発売。累計で600万個以上を販売した\[12\]（2003年12月時点）。
 
-  - [キャンディーズ](../Page/キャンディーズ.md "wikilink") - 「[ハートのエースが出てこない](https://ja.wikipedia.org/wiki/ハートのエースが出てこない "wikilink")」
-  - [太田裕美](../Page/太田裕美.md "wikilink") - 「[木綿のハンカチーフ](https://ja.wikipedia.org/wiki/木綿のハンカチーフ "wikilink")」
-  - [桑名正博](https://ja.wikipedia.org/wiki/桑名正博 "wikilink") - 「[セクシャルバイオレットNo.1](https://ja.wikipedia.org/wiki/セクシャルバイオレットNo.1 "wikilink")」
+  - [キャンディーズ](../Page/キャンディーズ.md "wikilink") - 「[ハートのエースが出てこない](../Page/ハートのエースが出てこない.md "wikilink")」
+  - [太田裕美](../Page/太田裕美.md "wikilink") - 「[木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")」
+  - [桑名正博](../Page/桑名正博.md "wikilink") - 「[セクシャルバイオレットNo.1](../Page/セクシャルバイオレットNo.1.md "wikilink")」
   - [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink") - 「[恋のフーガ](../Page/恋のフーガ.md "wikilink")」
-  - [ザ・タイガース](../Page/ザ・タイガース.md "wikilink") - 「[銀河のロマンス](https://ja.wikipedia.org/wiki/花の首飾り "wikilink")」
-  - [アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink") - 「[ひなげしの花](https://ja.wikipedia.org/wiki/ひなげしの花 "wikilink")」
-  - [アン・ルイス](https://ja.wikipedia.org/wiki/アン・ルイス "wikilink") - 「[六本木心中](https://ja.wikipedia.org/wiki/六本木心中 "wikilink")」
-  - [フィンガー5](https://ja.wikipedia.org/wiki/フィンガー5 "wikilink") - 「[学園天国](https://ja.wikipedia.org/wiki/学園天国_\(曲\) "wikilink")」
-  - [石川ひとみ](https://ja.wikipedia.org/wiki/石川ひとみ "wikilink") - 「[まちぶせ](https://ja.wikipedia.org/wiki/まちぶせ "wikilink")」
-  - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink") - 「[君は薔薇より美しい](https://ja.wikipedia.org/wiki/君は薔薇より美しい "wikilink")」
-  - [桑江知子](https://ja.wikipedia.org/wiki/桑江知子 "wikilink") - 「[私のハートはストップモーション](https://ja.wikipedia.org/wiki/私のハートはストップモーション "wikilink")」
-  - [ガロ](../Page/ガロ_\(フォークグループ\).md "wikilink") - 「[学生街の喫茶店](https://ja.wikipedia.org/wiki/学生街の喫茶店 "wikilink")」
-  - [YMO](../Page/イエロー・マジック・オーケストラ.md "wikilink") - 「[ライディーン](https://ja.wikipedia.org/wiki/ライディーン_\(YMOの曲\) "wikilink")」
-  - [山下久美子](https://ja.wikipedia.org/wiki/山下久美子 "wikilink") - 「[赤道小町ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」
+  - [ザ・タイガース](../Page/ザ・タイガース.md "wikilink") - 「[銀河のロマンス](../Page/花の首飾り.md "wikilink")」
+  - [アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink") - 「[ひなげしの花](../Page/ひなげしの花.md "wikilink")」
+  - [アン・ルイス](../Page/アン・ルイス.md "wikilink") - 「[六本木心中](https://ja.wikipedia.org/wiki/六本木心中 "wikilink")」
+  - [フィンガー5](../Page/フィンガー5.md "wikilink") - 「[学園天国](../Page/学園天国_\(曲\).md "wikilink")」
+  - [石川ひとみ](../Page/石川ひとみ.md "wikilink") - 「[まちぶせ](../Page/まちぶせ.md "wikilink")」
+  - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink") - 「[君は薔薇より美しい](../Page/君は薔薇より美しい.md "wikilink")」
+  - [桑江知子](../Page/桑江知子.md "wikilink") - 「[私のハートはストップモーション](https://ja.wikipedia.org/wiki/私のハートはストップモーション "wikilink")」
+  - [ガロ](../Page/ガロ_\(フォークグループ\).md "wikilink") - 「[学生街の喫茶店](../Page/学生街の喫茶店.md "wikilink")」
+  - [YMO](../Page/イエロー・マジック・オーケストラ.md "wikilink") - 「[ライディーン](../Page/ライディーン_\(YMOの曲\).md "wikilink")」
+  - [山下久美子](../Page/山下久美子.md "wikilink") - 「[赤道小町ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」
   - [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") - 「[Goodbye Day](https://ja.wikipedia.org/wiki/来生たかお関連作品#シングル "wikilink")」
-  - [井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink") - 「[傷だらけの天使](https://ja.wikipedia.org/wiki/傷だらけの天使 "wikilink")」
-  - [サーカス](https://ja.wikipedia.org/wiki/サーカス_\(歌手\) "wikilink") - 「[Mr.サマータイム](https://ja.wikipedia.org/wiki/Mr.サマータイム "wikilink")」
-  - [松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink") - 「[愛のメモリー](https://ja.wikipedia.org/wiki/愛のメモリー_\(曲\) "wikilink")」
+  - [井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink") - 「[傷だらけの天使](../Page/傷だらけの天使.md "wikilink")」
+  - [サーカス](../Page/サーカス_\(歌手\).md "wikilink") - 「[Mr.サマータイム](https://ja.wikipedia.org/wiki/Mr.サマータイム "wikilink")」
+  - [松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink") - 「[愛のメモリー](../Page/愛のメモリー_\(曲\).md "wikilink")」
 
 <!-- end list -->
 
@@ -151,33 +151,33 @@
 
 <!-- end list -->
 
-  - [アン・ルイス](https://ja.wikipedia.org/wiki/アン・ルイス "wikilink") - 「恋のブギ・ウギ・トレイン」
-  - [キャンディーズ](../Page/キャンディーズ.md "wikilink") - 「[危い土曜日](https://ja.wikipedia.org/wiki/危い土曜日 "wikilink")」
-  - [ザ・タイガース](../Page/ザ・タイガース.md "wikilink") - 「[花の首飾り](https://ja.wikipedia.org/wiki/花の首飾り "wikilink")」
-  - [三木聖子](https://ja.wikipedia.org/wiki/三木聖子 "wikilink") - 「[まちぶせ](https://ja.wikipedia.org/wiki/まちぶせ "wikilink")」
+  - [アン・ルイス](../Page/アン・ルイス.md "wikilink") - 「恋のブギ・ウギ・トレイン」
+  - [キャンディーズ](../Page/キャンディーズ.md "wikilink") - 「[危い土曜日](../Page/危い土曜日.md "wikilink")」
+  - [ザ・タイガース](../Page/ザ・タイガース.md "wikilink") - 「[花の首飾り](../Page/花の首飾り.md "wikilink")」
+  - [三木聖子](../Page/三木聖子.md "wikilink") - 「[まちぶせ](../Page/まちぶせ.md "wikilink")」
 
 ##### 第2弾
 
 2004年2月発売。
 
-  - [沢田研二](../Page/沢田研二.md "wikilink") - 「[勝手にしやがれ](https://ja.wikipedia.org/wiki/勝手にしやがれ_\(沢田研二の曲\) "wikilink")」
+  - [沢田研二](../Page/沢田研二.md "wikilink") - 「[勝手にしやがれ](../Page/勝手にしやがれ_\(沢田研二の曲\).md "wikilink")」
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink") - 「[お嫁においで](https://ja.wikipedia.org/wiki/お嫁においで "wikilink")」
-  - [八神純子](https://ja.wikipedia.org/wiki/八神純子 "wikilink") - 「[想い出のスクリーン](https://ja.wikipedia.org/wiki/想い出のスクリーン "wikilink")」
-  - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink") - 「[モニカ](https://ja.wikipedia.org/wiki/モニカ_\(曲\) "wikilink")」
+  - [八神純子](../Page/八神純子.md "wikilink") - 「[想い出のスクリーン](https://ja.wikipedia.org/wiki/想い出のスクリーン "wikilink")」
+  - [吉川晃司](../Page/吉川晃司.md "wikilink") - 「[モニカ](../Page/モニカ_\(曲\).md "wikilink")」
   - [矢野顕子](../Page/矢野顕子.md "wikilink") - 「[春咲小紅](https://ja.wikipedia.org/wiki/春咲小紅 "wikilink")」
-  - [ハイ・ファイ・セット](https://ja.wikipedia.org/wiki/ハイ・ファイ・セット "wikilink") - 「[フィーリング](https://ja.wikipedia.org/wiki/愛のフィーリング#ハイ・ファイ・セット版「フィーリング」 "wikilink")」
-  - [辺見マリ](https://ja.wikipedia.org/wiki/辺見マリ "wikilink") - 「[経験](https://ja.wikipedia.org/wiki/経験_\(辺見マリの曲\) "wikilink")」
-  - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 「[スローモーション](https://ja.wikipedia.org/wiki/スローモーション_\(中森明菜の曲\) "wikilink")」
-  - [チェッカーズ](../Page/チェッカーズ.md "wikilink") - 「[ギザギザハートの子守唄](https://ja.wikipedia.org/wiki/ギザギザハートの子守唄 "wikilink")」
-  - [アリス](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink") - 「[冬の稲妻](https://ja.wikipedia.org/wiki/冬の稲妻 "wikilink")」
-  - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink") - 「[時をかける少女](https://ja.wikipedia.org/wiki/時をかける少女_\(曲\) "wikilink")」
-  - [グレープ](https://ja.wikipedia.org/wiki/グレープ_\(ユニット\) "wikilink") - 「[精霊流し](https://ja.wikipedia.org/wiki/精霊流し_\(曲\) "wikilink")」
+  - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink") - 「[フィーリング](https://ja.wikipedia.org/wiki/愛のフィーリング#ハイ・ファイ・セット版「フィーリング」 "wikilink")」
+  - [辺見マリ](../Page/辺見マリ.md "wikilink") - 「[経験](https://ja.wikipedia.org/wiki/経験_\(辺見マリの曲\) "wikilink")」
+  - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 「[スローモーション](../Page/スローモーション_\(中森明菜の曲\).md "wikilink")」
+  - [チェッカーズ](../Page/チェッカーズ.md "wikilink") - 「[ギザギザハートの子守唄](../Page/ギザギザハートの子守唄.md "wikilink")」
+  - [アリス](../Page/アリス_\(フォークグループ\).md "wikilink") - 「[冬の稲妻](../Page/冬の稲妻.md "wikilink")」
+  - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink") - 「[時をかける少女](../Page/時をかける少女_\(曲\).md "wikilink")」
+  - [グレープ](../Page/グレープ_\(ユニット\).md "wikilink") - 「[精霊流し](../Page/精霊流し_\(曲\).md "wikilink")」
   - [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink") - 「[マイピュアレディ](https://ja.wikipedia.org/wiki/マイピュアレディ "wikilink")」
-  - [大橋純子](https://ja.wikipedia.org/wiki/大橋純子 "wikilink") - 「[たそがれマイ・ラブ](https://ja.wikipedia.org/wiki/たそがれマイ・ラブ "wikilink")」
+  - [大橋純子](../Page/大橋純子.md "wikilink") - 「[たそがれマイ・ラブ](https://ja.wikipedia.org/wiki/たそがれマイ・ラブ "wikilink")」
   - オリジナルサントラ盤「[太陽にほえろ！](https://ja.wikipedia.org/wiki/太陽にほえろ!#サウンドトラック・ディスコグラフィー "wikilink")」
-  - [坂本九](../Page/坂本九.md "wikilink") - 「[見上げてごらん夜の星を](https://ja.wikipedia.org/wiki/見上げてごらん夜の星を_\(曲\) "wikilink")」
-  - [ダウン・タウン・ブギウギ・バンド](https://ja.wikipedia.org/wiki/ダウン・タウン・ブギウギ・バンド "wikilink") - 「[港のヨーコ・ヨコハマ・ヨコスカ](https://ja.wikipedia.org/wiki/港のヨーコ・ヨコハマ・ヨコスカ "wikilink")」
-  - [松山千春](../Page/松山千春.md "wikilink") - 「[季節の中で](https://ja.wikipedia.org/wiki/季節の中で "wikilink")」
+  - [坂本九](../Page/坂本九.md "wikilink") - 「[見上げてごらん夜の星を](../Page/見上げてごらん夜の星を_\(曲\).md "wikilink")」
+  - [ダウン・タウン・ブギウギ・バンド](../Page/ダウン・タウン・ブギウギ・バンド.md "wikilink") - 「[港のヨーコ・ヨコハマ・ヨコスカ](https://ja.wikipedia.org/wiki/港のヨーコ・ヨコハマ・ヨコスカ "wikilink")」
+  - [松山千春](../Page/松山千春.md "wikilink") - 「[季節の中で](../Page/季節の中で.md "wikilink")」
   - [サディスティックミカバンド](https://ja.wikipedia.org/wiki/サディスティックミカバンド "wikilink") - 「[タイムマシンにおねがい](https://ja.wikipedia.org/wiki/タイムマシンにおねがい "wikilink")」
   - [植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink") - 「[ハイそれまでヨ](https://ja.wikipedia.org/wiki/ハイそれまでヨ "wikilink")」
 
@@ -188,10 +188,10 @@
 <!-- end list -->
 
   - 原田知世 - 「時をかける少女」（ジャケット違い）
-  - [ハイ・ファイ・セット](https://ja.wikipedia.org/wiki/ハイ・ファイ・セット "wikilink") - 「[卒業写真](https://ja.wikipedia.org/wiki/卒業写真_\(荒井由実の曲\)#ハイ・ファイ・セットのシングル "wikilink")」
-  - [沢田研二](../Page/沢田研二.md "wikilink") - 「[時の過ぎゆくままに](https://ja.wikipedia.org/wiki/時の過ぎゆくままに "wikilink")」
+  - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink") - 「[卒業写真](https://ja.wikipedia.org/wiki/卒業写真_\(荒井由実の曲\)#ハイ・ファイ・セットのシングル "wikilink")」
+  - [沢田研二](../Page/沢田研二.md "wikilink") - 「[時の過ぎゆくままに](../Page/時の過ぎゆくままに.md "wikilink")」
   - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") - 「[イメージの詩](https://ja.wikipedia.org/wiki/イメージの詩 "wikilink")」
-  - [子門真人](https://ja.wikipedia.org/wiki/子門真人 "wikilink") - 「[およげ！たいやきくん](../Page/およげ!たいやきくん.md "wikilink")」
+  - [子門真人](../Page/子門真人.md "wikilink") - 「[およげ！たいやきくん](../Page/およげ!たいやきくん.md "wikilink")」
 
 #### タイムスリップグリコ　グループサウンズ編
 
@@ -219,7 +219,7 @@
 
 [2003年](../Page/2003年.md "wikilink")の阪神タイガース戦の実況と元[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")アナウンサー、[植草貞夫](../Page/植草貞夫.md "wikilink")\[13\]のナレーションを収録。地域限定販売。
 
-  - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")チョコ＜逆転劇場＞
+  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")チョコ＜逆転劇場＞
       -
         2003年11月4日発売\[14\]
   - 阪神タイガースチョコ＜逆転劇場＞完結編
@@ -251,7 +251,7 @@
 
   - [歌のアルバム](https://ja.wikipedia.org/wiki/ロッテ歌のアルバム "wikilink")（ガーナミルクチョコレートのミニ版入り）
       -
-        2004年発売。司会を務めていた[玉置宏](https://ja.wikipedia.org/wiki/玉置宏 "wikilink")のナレーション（食玩CDの制作に合わせて新規収録）と放送当時の歌謡曲を1曲収録。
+        2004年発売。司会を務めていた[玉置宏](../Page/玉置宏.md "wikilink")のナレーション（食玩CDの制作に合わせて新規収録）と放送当時の歌謡曲を1曲収録。
 
 ### バンダイ
 
@@ -260,7 +260,7 @@
         第1弾 - 2003年9月発売\[18\]。累計で200万個を販売\[19\]（2003年12月時点）。
         第2弾 - 2004年2月発売\[20\]
         第3弾 - 2004年5月発売\[21\]
-        食玩ではないが、『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")』2004年6月号付録の鎌田直純・山路ゆう子「幸せの予感」（『[未来少年コナン](https://ja.wikipedia.org/wiki/未来少年コナン "wikilink")』エンディングテーマ）のCDも、ジャケット裏面が本シリーズと同形態であった。
+        食玩ではないが、『[アニメージュ](../Page/アニメージュ.md "wikilink")』2004年6月号付録の鎌田直純・山路ゆう子「幸せの予感」（『[未来少年コナン](../Page/未来少年コナン.md "wikilink")』エンディングテーマ）のCDも、ジャケット裏面が本シリーズと同形態であった。
   - お菓子CD ドラえもんヒット曲集
       -
         2004年2月発売\[22\]
@@ -293,7 +293,7 @@
 
 ### トミー
 
-  - [稲川淳二](https://ja.wikipedia.org/wiki/稲川淳二 "wikilink")のこわい話
+  - [稲川淳二](../Page/稲川淳二.md "wikilink")のこわい話
       -
         2004年発売
 
@@ -301,14 +301,14 @@
 
   - BOSSオリジナルCD
       -
-        2003年9月発売。[BOSSコーヒー](https://ja.wikipedia.org/wiki/BOSSコーヒー "wikilink")「深煎りSuper」「仕事中」「休憩中」の6缶パックに付属したCD。累計で100万個を販売\[25\]（2003年12月時点）。
+        2003年9月発売。[BOSSコーヒー](../Page/BOSSコーヒー.md "wikilink")「深煎りSuper」「仕事中」「休憩中」の6缶パックに付属したCD。累計で100万個を販売\[25\]（2003年12月時点）。
   - 懐かしのCD
       -
         2004年に実施された「WHISKY\&MUSICキャンペーン」の期間中、[ウイスキー](../Page/ウイスキー.md "wikilink")に付属したCD\[26\]。
 
 ### 日本コカ・コーラ
 
-[ジョージアのキャンペーンCD](https://ja.wikipedia.org/wiki/ジョージア_\(缶コーヒー\) "wikilink")。
+[ジョージアのキャンペーンCD](../Page/ジョージア_\(缶コーヒー\).md "wikilink")。
 
   - 洋楽ベストヒッツ70's-80's
       -

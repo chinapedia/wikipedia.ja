@@ -1,9 +1,9 @@
 > この記事は[DJ\&](https://ja.wikipedia.org/wiki/DJ\&)から翻訳されています。
 
 
-[Thejazzyjeff.jpg](https://ja.wikipedia.org/wiki/File:Thejazzyjeff.jpg "fig:Thejazzyjeff.jpg") [Will_Smith_2011.jpg](https://ja.wikipedia.org/wiki/File:Will_Smith_2011.jpg "fig:Will_Smith_2011.jpg") **DJ・ジャジー・ジェフ&ザ・フレッシュ・プリンス**（**DJ Jazzy Jeff & the Fresh Prince**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の人気[ラップ](../Page/ラップ.md "wikilink")/[ヒップホップ](../Page/ヒップホップ.md "wikilink")・デュオ。 基本的に、ジャジー・ジェフがDJ、バックトラック（音楽）を担当、フレッシュ・プリンス（[ウィル・スミス](https://ja.wikipedia.org/wiki/ウィル・スミス "wikilink")）がラップ（作詞も）を担当している。
+[Thejazzyjeff.jpg](https://ja.wikipedia.org/wiki/File:Thejazzyjeff.jpg "fig:Thejazzyjeff.jpg") [Will_Smith_2011.jpg](https://ja.wikipedia.org/wiki/File:Will_Smith_2011.jpg "fig:Will_Smith_2011.jpg") **DJ・ジャジー・ジェフ&ザ・フレッシュ・プリンス**（**DJ Jazzy Jeff & the Fresh Prince**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の人気[ラップ](../Page/ラップ.md "wikilink")/[ヒップホップ](../Page/ヒップホップ.md "wikilink")・デュオ。 基本的に、ジャジー・ジェフがDJ、バックトラック（音楽）を担当、フレッシュ・プリンス（[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")）がラップ（作詞も）を担当している。
 
-シングル"Parents Just Don't Understand"（邦題：ティーンエイジャーの主張）で注目を集めた。その後、[グラミー賞](../Page/グラミー賞.md "wikilink")を受賞。来日も果たす。フレッシュ・プリンスはテレビドラマにも主演。お茶の間スターとなり、のちに本名の[ウィル・スミス](https://ja.wikipedia.org/wiki/ウィル・スミス "wikilink")として映画界でも成功を収める。
+シングル"Parents Just Don't Understand"（邦題：ティーンエイジャーの主張）で注目を集めた。その後、[グラミー賞](../Page/グラミー賞.md "wikilink")を受賞。来日も果たす。フレッシュ・プリンスはテレビドラマにも主演。お茶の間スターとなり、のちに本名の[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")として映画界でも成功を収める。
 
 「大ネタ使い」「軟弱」との見方もあり、特にウィル・スミス時代は[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")に歌詞の中で攻撃されたりもした。しかし、オールド・スクールとニュー・スクールの中間に位置し、"Summertime\!"、"Boom\! Shake the Room"など、親しみやすく楽しいラップで多くの人に受け入れられた功績は大きい。
 
@@ -88,7 +88,7 @@
 
 ## 関連項目
 
-  - [ウィル・スミス](https://ja.wikipedia.org/wiki/ウィル・スミス "wikilink")
-      - [Men in Black](https://ja.wikipedia.org/wiki/:en:Men_in_Black_\(song\) "wikilink") - 映画『[メン・イン・ブラック](https://ja.wikipedia.org/wiki/メン・イン・ブラック_\(映画\) "wikilink")』の主題歌
+  - [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")
+      - [Men in Black](https://ja.wikipedia.org/wiki/:en:Men_in_Black_\(song\) "wikilink") - 映画『[メン・イン・ブラック](../Page/メン・イン・ブラック_\(映画\).md "wikilink")』の主題歌
 
 [Category:アメリカ合衆国のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヒップホップ・グループ "wikilink") [Category:グラミー賞受賞者](https://ja.wikipedia.org/wiki/Category:グラミー賞受賞者 "wikilink")

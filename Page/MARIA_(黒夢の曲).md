@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[MOVE](../Page/ダイハツ・ムーヴ.md "wikilink") aerodown CUSTOM」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - 歌詞が掲載されていない。これは当時「カラオケで歌って欲しくない」のと、1ヶ月後に出るアルバムにどうせ歌詞が収録されるから、という理由であった。歌詞の代わりに本作の広告とアルバム『**[CORKSCREW](https://ja.wikipedia.org/wiki/CORKSCREW "wikilink")**』 (アルバムタイトルは伏せられていた) の発売予告が掲載されていたが、この段階では【「[少年](https://ja.wikipedia.org/wiki/少年_\(黒夢の曲\) "wikilink")」「MARIA」を含む全**15曲**収録】だった。(後に正式に発売された際には、14曲収録となった。)
+  - [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[MOVE](../Page/ダイハツ・ムーヴ.md "wikilink") aerodown CUSTOM」[CMソング](../Page/コマーシャルソング.md "wikilink")。
+  - 歌詞が掲載されていない。これは当時「カラオケで歌って欲しくない」のと、1ヶ月後に出るアルバムにどうせ歌詞が収録されるから、という理由であった。歌詞の代わりに本作の広告とアルバム『**[CORKSCREW](../Page/CORKSCREW.md "wikilink")**』 (アルバムタイトルは伏せられていた) の発売予告が掲載されていたが、この段階では【「[少年](../Page/少年_\(黒夢の曲\).md "wikilink")」「MARIA」を含む全**15曲**収録】だった。(後に正式に発売された際には、14曲収録となった。)
   - 初回盤はジャケットサイズのステッカーが2枚貼られており、これをはがすとメンバーの写真が出てくる。
 
 ## 収録曲

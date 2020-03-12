@@ -5,17 +5,17 @@
 
 ## 概要
 
-1997年10月10日に[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")のこけら落とし公演として初演された\[1\]。[星出豊](https://ja.wikipedia.org/wiki/星出豊 "wikilink")指揮、[東京交響楽団](https://ja.wikipedia.org/wiki/東京交響楽団 "wikilink")による。初演時には、 [天皇](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")・[皇后が臨席して鑑賞した](../Page/上皇后美智子.md "wikilink")（天覧公演）。
+1997年10月10日に[新国立劇場](../Page/新国立劇場.md "wikilink")のこけら落とし公演として初演された\[1\]。[星出豊](https://ja.wikipedia.org/wiki/星出豊 "wikilink")指揮、[東京交響楽団](../Page/東京交響楽団.md "wikilink")による。初演時には、 [天皇](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")・[皇后が臨席して鑑賞した](../Page/上皇后美智子.md "wikilink")（天覧公演）。
 
 この初演は團自身が指揮する予定であったが、[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")に[急性心筋梗塞](https://ja.wikipedia.org/wiki/急性心筋梗塞 "wikilink")を起こし、10月9日に退院するまで約1か月間入院した\[2\]。そのため、初演の指揮は断念した。ただし、公演冒頭の『[君が代](../Page/君が代.md "wikilink")』の演奏は團が指揮した。
 
 ## 登場人物
 
   - [建〈タケル〉](../Page/ヤマトタケル.md "wikilink")（[バス](../Page/バス_\(声域\).md "wikilink")）：倭の国、忍代別天皇の皇子、小碓
-  - [弟橘姫〈オトタチバナヒメ〉](https://ja.wikipedia.org/wiki/弟橘媛 "wikilink")（[ソプラノ](../Page/ソプラノ.md "wikilink")）：建の妻
+  - [弟橘姫〈オトタチバナヒメ〉](../Page/弟橘媛.md "wikilink")（[ソプラノ](../Page/ソプラノ.md "wikilink")）：建の妻
   - 火焚翁〈ヒタキノオキナ〉（バス）：建の従者
   - [忍代別天皇〈オシロワケノミカド〉](../Page/景行天皇.md "wikilink")（[テノール](../Page/テノール.md "wikilink")）：倭の王、建の父、倭姫の兄
-  - [倭姫〈ヤマトヒメ〉](https://ja.wikipedia.org/wiki/倭姫命 "wikilink")：建の叔母、忍代別天皇の妹
+  - [倭姫〈ヤマトヒメ〉](../Page/倭姫命.md "wikilink")：建の叔母、忍代別天皇の妹
   - 吉備〈キビ〉：[吉備武彦](https://ja.wikipedia.org/wiki/吉備武彦 "wikilink")〈キビノタケヒコ〉、忍代別天皇の使者（密偵）
   - 大伴〈オオトモ〉：[大伴武日](https://ja.wikipedia.org/wiki/大伴武日 "wikilink")連〈オオトモノタケヒノムラジ〉、倭の兵士
   - 尾足〈オタリ〉：駿河の国造〈スルガノクニノミヤツコ〉

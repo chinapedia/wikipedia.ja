@@ -6,7 +6,7 @@
 ## 概要
 
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")」 エンディングテーマ (この番組の企画で一度、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")の2人が1995 TOUR feminism PART1初日[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月10日](../Page/5月10日.md "wikilink") [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")でのライブで白夢として前説を披露した事がある)。
-  - 「DANCE 2 GARNET (toy version)」は『[亡骸を…](https://ja.wikipedia.org/wiki/亡骸を… "wikilink")』に収録されていた楽曲のリメイク。
+  - 「DANCE 2 GARNET (toy version)」は『[亡骸を…](../Page/亡骸を….md "wikilink")』に収録されていた楽曲のリメイク。
 
 ## 収録曲
 

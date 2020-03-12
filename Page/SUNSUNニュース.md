@@ -23,10 +23,10 @@
 
 ## 21時前のニュース枠
 
-21時前に放送されている[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")番組枠について記す。
+21時前に放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組枠について記す。
 
   - SUNSUNニュース&お天気
-    『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")』→『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』のローカル差し替えタイトル。開局以来、2015年3月29日まで放送されていた。
+    『[FNNニュース](../Page/FNNニュース・明日の天気.md "wikilink")』→『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』のローカル差し替えタイトル。開局以来、2015年3月29日まで放送されていた。
     なお、[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から1年間、昼下がりにも『FNNレインボー発』が放送されていたが、高知さんさんテレビでは夜とは異なり、タイトルを改変せずに放送されていた（前身番組である『[FNNニュース3:50](../Page/FNNニュース3:50.md "wikilink")』も同様の措置）。
 
 <!-- end list -->
@@ -59,9 +59,9 @@
 
 ## 関連項目
 
-  - [SUNSUNスーパータイム](https://ja.wikipedia.org/wiki/SUNSUNスーパータイム "wikilink")
+  - [SUNSUNスーパータイム](../Page/SUNSUNスーパータイム.md "wikilink")
   - [SUNSUNザ・ヒューマン](https://ja.wikipedia.org/wiki/SUNSUNザ・ヒューマン "wikilink")
-  - [SUNSUNスーパーニュース](https://ja.wikipedia.org/wiki/SUNSUNスーパーニュース "wikilink")
+  - [SUNSUNスーパーニュース](../Page/SUNSUNスーパーニュース.md "wikilink")
   - [SUNSUN みんなのニュース](https://ja.wikipedia.org/wiki/SUNSUN_みんなのニュース "wikilink")
 
 ## 脚注

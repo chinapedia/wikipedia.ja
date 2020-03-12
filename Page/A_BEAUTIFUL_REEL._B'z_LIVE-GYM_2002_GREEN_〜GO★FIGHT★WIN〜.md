@@ -1,26 +1,26 @@
 > この記事は[A BEAUTIFUL REEL. B\'z LIVE-GYM 2002 GREEN GOFIGHTWIN](https://ja.wikipedia.org/wiki/A_BEAUTIFUL_REEL._B\'z_LIVE-GYM_2002_GREEN_GOFIGHTWIN)から翻訳されています。
 
 
-『**a BEAUTIFUL REEL. B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜**』（ア・ビューティフル・リール・ビーズ・ライブジム・ツーサウザンドツー・グリーン・ゴー・ファイト・ウィン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")[B'z](../Page/B'z.md "wikilink")が、[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")にリリースした、7作目の映像作品（VHSとしては7作目、DVDとしては5作目）。
+『**a BEAUTIFUL REEL. B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜**』（ア・ビューティフル・リール・ビーズ・ライブジム・ツーサウザンドツー・グリーン・ゴー・ファイト・ウィン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が、[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")にリリースした、7作目の映像作品（VHSとしては7作目、DVDとしては5作目）。
 
 ## 演奏
 
 ### メンバー
 
-  - [松本孝弘](https://ja.wikipedia.org/wiki/松本孝弘 "wikilink")：[ギター](../Page/ギター.md "wikilink")・[プロデュース](../Page/音楽プロデューサー.md "wikilink")
+  - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")・[プロデュース](../Page/音楽プロデューサー.md "wikilink")
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
 
 ### サポート・メンバー
 
-  - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink")：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-  - [ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [シェーン・ガラース](https://ja.wikipedia.org/wiki/シェーン・ガラース "wikilink") ：[ドラム](../Page/ドラムセット.md "wikilink")
+  - [増田隆宣](../Page/増田隆宣.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [ビリー・シーン](../Page/ビリー・シーン.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink") ：[ドラム](../Page/ドラムセット.md "wikilink")
 
 ## 内容
 
-全国70万人を動員した「B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜」から、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")の模様を中心に収録。[ワールドカップ直後だったこともあり](../Page/2002_FIFAワールドカップ.md "wikilink")、同大会で使用されたスタジアムでの公演が多い。また、[Mr. Bigのベーシスト](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")、[ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink")が参加したことも話題となった。前半から中盤にかけては、曲間でバックステージやリハなどのドキュメンタリー映像が挿入されている。
+全国70万人を動員した「B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜」から、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")の模様を中心に収録。[ワールドカップ直後だったこともあり](../Page/2002_FIFAワールドカップ.md "wikilink")、同大会で使用されたスタジアムでの公演が多い。また、[Mr. Bigのベーシスト](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")、[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加したことも話題となった。前半から中盤にかけては、曲間でバックステージやリハなどのドキュメンタリー映像が挿入されている。
 
-DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi Angel](https://ja.wikipedia.org/wiki/太陽のKomachi_Angel "wikilink")」、ホール公演では「[ながい愛](https://ja.wikipedia.org/wiki/Brotherhood_\(B'zのアルバム\) "wikilink")」と「[Calling](https://ja.wikipedia.org/wiki/Calling_\(B'zの曲\) "wikilink")」、「[銀の翼で翔べ](https://ja.wikipedia.org/wiki/Brotherhood_\(B'zのアルバム\) "wikilink")」も演奏されていた（ドキュメントシーンで一部収録）。
+DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」、ホール公演では「[ながい愛](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」と「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」、「[銀の翼で翔べ](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」も演奏されていた（ドキュメントシーンで一部収録）。
 
 ## 収録映像曲
 
@@ -32,7 +32,7 @@ DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi A
 2.  **[STAY GREEN 〜未熟な旅はとまらない〜](https://ja.wikipedia.org/wiki/GREEN_\(B'zのアルバム\)#収録曲 "wikilink")**
       -
         本ツアーのメインタイトルナンバー。イントロで、シェーンの腕にマーカーで書かれた、各会場ごと（横浜・名古屋・福岡・札幌・静岡・大分・新潟・浪速・広島の順序）の名前が映る。
-3.  **[ZERO](https://ja.wikipedia.org/wiki/ZERO_\(B'zの曲\) "wikilink")**
+3.  **[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")**
       -
         「B'z SHOWCASE 2002 "SAPPORO DEVIL"」(Zepp Sapporo)の模様から始まり、「B'zのSHOWCASEにようこそ\!」と叫び、恒例の「B'zのLIVE-GYMにようこそ\!」はイントロ中となる。途中で大分・静岡・広島公演の映像をフィーチャー。ギターソロ以降はカットされ、リハーサル風景に切り替わる。
 4.  **[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")**
@@ -53,41 +53,41 @@ DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi A
 9.  **[恋心 (KOI-GOKORO)](https://ja.wikipedia.org/wiki/ZERO_\(B'zの曲\)#収録曲 "wikilink")**
       -
         センターステージで演奏。アコースティック・バージョンで披露された。演奏前には稲葉が「LOVE横浜」と言い、MCも一部収録されている。
-10. **[裸足の女神](https://ja.wikipedia.org/wiki/裸足の女神 "wikilink")**
+10. **[裸足の女神](../Page/裸足の女神.md "wikilink")**
       -
         アコースティック・バージョンで演奏。映像は、横浜公演でのリハーサル模様がメイン。一部にネガフィルムの静止画像が差し込まれている。その後、アリーナを歩いてメインステージに移動する。
 11. **[DEVIL](https://ja.wikipedia.org/wiki/DEVIL_\(B'zのアルバム\)#収録曲 "wikilink")**
       -
-        ステージの前方や後方から炎が吹き上がり、人型に組まれた11体の巨大[トラス](https://ja.wikipedia.org/wiki/トラス "wikilink")『ロックマン』からも火花が吹き上がった。また、曲のエンディングから[増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink")によるキーボードのソロ演奏に入る。
+        ステージの前方や後方から炎が吹き上がり、人型に組まれた11体の巨大[トラス](../Page/トラス.md "wikilink")『ロックマン』からも火花が吹き上がった。また、曲のエンディングから[増田隆宣](../Page/増田隆宣.md "wikilink")によるキーボードのソロ演奏に入る。
 12. **[Everlasting](https://ja.wikipedia.org/wiki/GREEN_\(B'zのアルバム\)#収録曲 "wikilink")**
-13. **[FIREBALL](https://ja.wikipedia.org/wiki/FIREBALL_\(B'zの曲\) "wikilink")**
+13. **[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")**
       -
         シェーンのドラムソロからイントロへ。曲のラストで稲葉が倍音シャウトを披露。アウトロの松本のギターと同時に、『ロックマン』が稼働し、ライトアップされるとともに両手両足を大きく広げる。
-14. **[Liar\! Liar\!](https://ja.wikipedia.org/wiki/Liar!_Liar! "wikilink")**
+14. **[Liar\! Liar\!](../Page/Liar!_Liar!.md "wikilink")**
       -
         イントロで『ロックマン』のヘッドライトが左から右、右から左へと流れるように点灯するが、左から4番目のロックマンだけ点灯しないという不具合も見られる。
-15. **[さまよえる蒼い弾丸](https://ja.wikipedia.org/wiki/さまよえる蒼い弾丸 "wikilink")**
-16. **[ギリギリchop](https://ja.wikipedia.org/wiki/ギリギリchop "wikilink")**
+15. **[さまよえる蒼い弾丸](../Page/さまよえる蒼い弾丸.md "wikilink")**
+16. **[ギリギリchop](../Page/ギリギリchop.md "wikilink")**
       -
         ビリーのベースソロからイントロへ。
 17. **[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")**
       -
         恒例となっている曲のラストの3連発ジャンプは、このツアーから始まった。
-18. **[熱き鼓動の果て](https://ja.wikipedia.org/wiki/熱き鼓動の果て "wikilink")**
+18. **[熱き鼓動の果て](../Page/熱き鼓動の果て.md "wikilink")**
       -
-        ここからアンコール。演奏前にアルバム『[GREEN](https://ja.wikipedia.org/wiki/GREEN_\(B'zのアルバム\) "wikilink")』のタイトルについてのMCがある。2コーラス目から「マジカDEオンステージ」の特別賞に選ばれたファン達が、ステージ後ろに登場する。
+        ここからアンコール。演奏前にアルバム『[GREEN](../Page/GREEN_\(B'zのアルバム\).md "wikilink")』のタイトルについてのMCがある。2コーラス目から「マジカDEオンステージ」の特別賞に選ばれたファン達が、ステージ後ろに登場する。
 19. **[juice](https://ja.wikipedia.org/wiki/juice_\(B'zの曲\) "wikilink")**
       -
         千秋楽の9月9日大阪ドーム公演の映像とシンクロさせている。イントロと間奏では稲葉が観客とともにツアーグッズである[笛](../Page/笛.md "wikilink")を吹く。間奏の[コール&レスポンス](https://ja.wikipedia.org/wiki/コール&レスポンス "wikilink")の合間に松本とビリーの掛け合いがある。
 
-エンディング曲として、退場曲として流された「[New Message](https://ja.wikipedia.org/wiki/IT'S_SHOWTIME!! "wikilink")」（当時未発表）と「STAY GREEN〜未熟な旅はとまらない〜」のデモバージョンが使用される。
+エンディング曲として、退場曲として流された「[New Message](../Page/IT'S_SHOWTIME!!.md "wikilink")」（当時未発表）と「STAY GREEN〜未熟な旅はとまらない〜」のデモバージョンが使用される。
 
 ### DISC 2（DVDのみ）
 
 1.  B'z LIVE-GYM 2002 "Rock n' California Roll" San Diego - Los Angeles - Tokyo
       -
         B'z初のアメリカ公演のダイジェスト。リハーサルの模様も収録されている。サンディエゴ公演では未発表曲の「Logic」が少し聴くことが出来る。
-        追加公演となった[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")での「銀の翼で翔べ」のライブ映像（2コーラス目まで）が収録されている。
+        追加公演となった[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")での「銀の翼で翔べ」のライブ映像（2コーラス目まで）が収録されている。
 2.  B'z LIVE-GYM 2002 "GREEN" ～GO★FIGHT★WIN～ Leftovers
       -
         ステージ制作の様子を収めた「THE PASS」、実際のツアーで抽選により本番前のステージ上を見学できた「マジカDEオンステージ」、ライブショットを収めた「BEAUTIFUL CUTS」を収録。

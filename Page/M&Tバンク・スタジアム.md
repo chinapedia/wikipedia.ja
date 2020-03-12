@@ -1,9 +1,9 @@
 > この記事は[M\&T](https://ja.wikipedia.org/wiki/M\&T)から翻訳されています。
 
 
-**M\&Tバンク・スタジアム**（*M\&T Bank Stadium*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")にある[スタジアム](https://ja.wikipedia.org/wiki/スタジアム "wikilink")。1998年開場。
+**M\&Tバンク・スタジアム**（*M\&T Bank Stadium*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にある[スタジアム](../Page/スタジアム.md "wikilink")。1998年開場。
 
-主に[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")と[ラクロス](../Page/ラクロス.md "wikilink")に使用されている。アメフトでは、開場以来[NFL](../Page/NFL.md "wikilink")[ボルチモア・レイブンズ](https://ja.wikipedia.org/wiki/ボルチモア・レイブンズ "wikilink")が本拠地にしている。ラクロスでは、[MLLボルチモア](https://ja.wikipedia.org/wiki/メジャーリーグラクロス "wikilink")・ベイホークス（現:[ワシントン・ベイホークス](https://ja.wikipedia.org/wiki/ワシントン・ベイホークス "wikilink")）が2002年に当スタジアムを本拠地としていたほか、[NCAAの試合が度々開催されている](https://ja.wikipedia.org/wiki/全米大学体育協会 "wikilink")。
+主に[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")と[ラクロス](../Page/ラクロス.md "wikilink")に使用されている。アメフトでは、開場以来[NFL](../Page/NFL.md "wikilink")[ボルチモア・レイブンズ](../Page/ボルチモア・レイブンズ.md "wikilink")が本拠地にしている。ラクロスでは、[MLLボルチモア](https://ja.wikipedia.org/wiki/メジャーリーグラクロス "wikilink")・ベイホークス（現:[ワシントン・ベイホークス](https://ja.wikipedia.org/wiki/ワシントン・ベイホークス "wikilink")）が2002年に当スタジアムを本拠地としていたほか、[NCAAの試合が度々開催されている](../Page/全米大学体育協会.md "wikilink")。
 
 ## スタジアムのデザイン
 
@@ -15,15 +15,15 @@
 
 ## 歴史
 
-1998年の開場時、スタジアム名は**レイブンズ・スタジアム・アット・カムデン・ヤーズ**（*Ravens Stadium at Camden Yards*）だった。“カムデン・ヤーズ”とは、かつてこの地にあった操車場の名前である。当スタジアムに隣接する[オリオール・パーク・アット・カムデン・ヤーズ](https://ja.wikipedia.org/wiki/オリオール・パーク・アット・カムデン・ヤーズ "wikilink")の名も、これに由来する。
+1998年の開場時、スタジアム名は**レイブンズ・スタジアム・アット・カムデン・ヤーズ**（*Ravens Stadium at Camden Yards*）だった。“カムデン・ヤーズ”とは、かつてこの地にあった操車場の名前である。当スタジアムに隣接する[オリオール・パーク・アット・カムデン・ヤーズ](../Page/オリオール・パーク・アット・カムデン・ヤーズ.md "wikilink")の名も、これに由来する。
 
 1999年、[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")の[PSIネット](https://ja.wikipedia.org/wiki/PSIネット "wikilink")が[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を20年1億500万ドルで取得したため、スタジアム名が**PSIネット・スタジアム**（*PSINet Stadium*）へ変更された。しかしPSIネットが2002年に倒産したため、スタジアム名は以前のものに戻された。
 
-同年9月11日、ボルチモア・コルツ（現:[インディアナポリス・コルツ](https://ja.wikipedia.org/wiki/インディアナポリス・コルツ "wikilink")）で[クォーターバック](https://ja.wikipedia.org/wiki/クォーターバック "wikilink")を務めていた[ジョニー・ユナイタス](https://ja.wikipedia.org/wiki/ジョニー・ユナイタス "wikilink")が死去した。スタジアムにユナイタスの名を冠するよう求める声がファンや地元市民の間で高まったが、Maryland Stadium Authorityとレイブンズは新たなネーミング・スポンサーを募集することにした\[1\]。
+同年9月11日、ボルチモア・コルツ（現:[インディアナポリス・コルツ](../Page/インディアナポリス・コルツ.md "wikilink")）で[クォーターバック](../Page/クォーターバック.md "wikilink")を務めていた[ジョニー・ユナイタス](https://ja.wikipedia.org/wiki/ジョニー・ユナイタス "wikilink")が死去した。スタジアムにユナイタスの名を冠するよう求める声がファンや地元市民の間で高まったが、Maryland Stadium Authorityとレイブンズは新たなネーミング・スポンサーを募集することにした\[1\]。
 
 2003年、15年7500万ドルの契約で[M\&Tバンク](https://ja.wikipedia.org/wiki/M&Tバンク "wikilink")が新たなスポンサーに決定した。当スタジアムの命名権には、携帯電話事業大手の[スプリント・ネクステル](https://ja.wikipedia.org/wiki/スプリント・ネクステル "wikilink")や、自動車販売大手の[カーマックス](https://ja.wikipedia.org/wiki/カーマックス "wikilink")も興味を示していた\[2\]。
 
-[2015年の](https://ja.wikipedia.org/wiki/2015年のNFL "wikilink")[NFLドラフト](https://ja.wikipedia.org/wiki/NFLドラフト "wikilink")に合わせて4月30日にイベント開催が予定されていたが、警察に逮捕された黒人男性が死亡したことに伴い、4月27日深夜に暴動が起きたため、イベントは中止された\[3\]。
+[2015年の](https://ja.wikipedia.org/wiki/2015年のNFL "wikilink")[NFLドラフト](../Page/NFLドラフト.md "wikilink")に合わせて4月30日にイベント開催が予定されていたが、警察に逮捕された黒人男性が死亡したことに伴い、4月27日深夜に暴動が起きたため、イベントは中止された\[3\]。
 
 ## 脚注
 

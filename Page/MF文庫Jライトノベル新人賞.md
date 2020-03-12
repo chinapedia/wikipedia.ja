@@ -24,12 +24,12 @@
 
 ## 選考委員
 
-  - 第0回（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")） - 第3回（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")）
-    [冲方丁](../Page/冲方丁.md "wikilink")・[桑島由一](https://ja.wikipedia.org/wiki/桑島由一 "wikilink")・[榊一郎](../Page/榊一郎.md "wikilink")・[清水マリコ](https://ja.wikipedia.org/wiki/清水マリコ "wikilink")・MF文庫J編集部
+  - 第0回（[2004年](../Page/2004年.md "wikilink")） - 第3回（[2007年](../Page/2007年.md "wikilink")）
+    [冲方丁](../Page/冲方丁.md "wikilink")・[桑島由一](../Page/桑島由一.md "wikilink")・[榊一郎](../Page/榊一郎.md "wikilink")・[清水マリコ](https://ja.wikipedia.org/wiki/清水マリコ "wikilink")・MF文庫J編集部
   - 第4回（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")） - 第5回（[2009年](../Page/2009年.md "wikilink")）
-    桑島由一・清水マリコ・[ヤマグチノボル](https://ja.wikipedia.org/wiki/ヤマグチノボル "wikilink")・MF文庫J編集部
+    桑島由一・清水マリコ・[ヤマグチノボル](../Page/ヤマグチノボル.md "wikilink")・MF文庫J編集部
   - 第6回（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
-    [日日日](https://ja.wikipedia.org/wiki/日日日 "wikilink")・[築地俊彦](https://ja.wikipedia.org/wiki/築地俊彦 "wikilink")・[西野かつみ](https://ja.wikipedia.org/wiki/西野かつみ "wikilink")・[三浦勇雄](https://ja.wikipedia.org/wiki/三浦勇雄 "wikilink")・ヤマグチノボル・MF文庫J編集部
+    [日日日](../Page/日日日.md "wikilink")・[築地俊彦](../Page/築地俊彦.md "wikilink")・[西野かつみ](https://ja.wikipedia.org/wiki/西野かつみ "wikilink")・[三浦勇雄](https://ja.wikipedia.org/wiki/三浦勇雄 "wikilink")・ヤマグチノボル・MF文庫J編集部
   - 第7回（[2011年](../Page/2011年.md "wikilink")） - 第8回（[2012年](../Page/2012年.md "wikilink")）
     日日日・西野かつみ・三浦勇雄・MF文庫J編集部・映像事業部
   - 第9回（[2013年](../Page/2013年.md "wikilink")） - 第10回（[2014年](../Page/2014年.md "wikilink")）
@@ -41,7 +41,7 @@
   - 第14回（[2018年](../Page/2018年.md "wikilink")） - 第15回（[2019年](../Page/2019年.md "wikilink")）
     さがら総・志瑞祐・[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(作家\) "wikilink")・三浦勇雄・MF文庫J編集部
   - 第16回（[2020年](../Page/2020年.md "wikilink")） -
-    [榎宮祐](https://ja.wikipedia.org/wiki/榎宮祐 "wikilink")・さがら総・志瑞祐・鈴木大輔・三浦勇雄・MF文庫J編集部
+    [榎宮祐](../Page/榎宮祐.md "wikilink")・さがら総・志瑞祐・鈴木大輔・三浦勇雄・MF文庫J編集部
 
 ## 入賞作品一覧
 
@@ -61,20 +61,20 @@
 <tbody>
 <tr class="odd">
 <td><p>第0回[1]<br />
-（<a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a>）</p></td>
+（<a href="../Page/2004年.md" title="wikilink">2004年</a>）</p></td>
 <td><p>優秀賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホーンテッド!" title="wikilink">ホーンテッド！</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平坂読" title="wikilink">平坂読</a></p></td>
+<td><p><a href="../Page/ホーンテッド!.md" title="wikilink">ホーンテッド！</a></p></td>
+<td><p><a href="../Page/平坂読.md" title="wikilink">平坂読</a></p></td>
 </tr>
 <tr class="even">
 <td><p>佳作</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/世界最大のこびと" title="wikilink">世界最大のこびと</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/羽田奈緒子" title="wikilink">羽田奈緒子</a></p></td>
+<td><p><a href="../Page/羽田奈緒子.md" title="wikilink">羽田奈緒子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第1回[2]<br />
-（<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>）</p></td>
+（<a href="../Page/2005年.md" title="wikilink">2005年</a>）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>自己中戦艦2年3組<br />
 （<a href="https://ja.wikipedia.org/wiki/青葉くんとウチュウ・ジン" title="wikilink">青葉くんとウチュウ・ジン</a>）</p></td>
@@ -83,13 +83,13 @@
 </tr>
 <tr class="even">
 <td><p>佳作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネクラ少女は黒魔法で恋をする" title="wikilink">ネクラ少女は黒魔法で恋をする</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊谷雅人" title="wikilink">熊谷雅人</a></p></td>
+<td><p><a href="../Page/ネクラ少女は黒魔法で恋をする.md" title="wikilink">ネクラ少女は黒魔法で恋をする</a></p></td>
+<td><p><a href="../Page/熊谷雅人.md" title="wikilink">熊谷雅人</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>彼女はこん、とかわいく咳をして<br />
-（<a href="https://ja.wikipedia.org/wiki/かのこん" title="wikilink">かのこん</a>）</p></td>
+（<a href="../Page/かのこん.md" title="wikilink">かのこん</a>）</p></td>
 <td><p>名波薫2号<br />
 （<a href="https://ja.wikipedia.org/wiki/西野かつみ" title="wikilink">西野かつみ</a>）</p></td>
 <td></td>
@@ -104,8 +104,8 @@
 <tr class="odd">
 <td><p>編集長<br />
 特別賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/蟲と眼球シリーズ" title="wikilink">蟲と眼球とテディベア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日日日" title="wikilink">日日日</a></p></td>
+<td><p><a href="../Page/蟲と眼球シリーズ.md" title="wikilink">蟲と眼球とテディベア</a></p></td>
+<td><p><a href="../Page/日日日.md" title="wikilink">日日日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -113,18 +113,18 @@
 特別賞</p></td>
 <td><p>ロックスミス! カルナの冒険<br />
 （<a href="https://ja.wikipedia.org/wiki/魔法鍵師カルナの冒険" title="wikilink">魔法鍵師カルナの冒険</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/月見草平" title="wikilink">月見草平</a></p></td>
+<td><p><a href="../Page/月見草平.md" title="wikilink">月見草平</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/上等。シリーズ" title="wikilink">クリスマス上等。</a></p></td>
+<td><p><a href="../Page/上等。シリーズ.md" title="wikilink">クリスマス上等。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三浦勇雄" title="wikilink">三浦勇雄</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>どっちがネットアイドル？<br />
-（<a href="https://ja.wikipedia.org/wiki/彼女はミサイル" title="wikilink">彼女はミサイル</a>）</p></td>
+（<a href="../Page/彼女はミサイル.md" title="wikilink">彼女はミサイル</a>）</p></td>
 <td><p>周藤氷努<br />
 （<a href="https://ja.wikipedia.org/wiki/須堂項" title="wikilink">須堂項</a>）</p></td>
 <td></td>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="odd">
 <td><p>第2回<br />
-（<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>）</p></td>
+（<a href="../Page/2006年.md" title="wikilink">2006年</a>）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>暗闇にヤギをさがして<br />
 （<a href="https://ja.wikipedia.org/wiki/暗闇にヤギを探して" title="wikilink">暗闇にヤギを探して</a>）</p></td>
@@ -149,20 +149,20 @@
 <td><p>World's tale 〜a girl meets the boy〜<br />
 （<a href="https://ja.wikipedia.org/wiki/悠久展望台のカイ" title="wikilink">悠久展望台のカイ</a>）</p></td>
 <td><p>矢塚<br />
-（<a href="https://ja.wikipedia.org/wiki/早矢塚かつや" title="wikilink">早矢塚かつや</a>）</p></td>
+（<a href="../Page/早矢塚かつや.md" title="wikilink">早矢塚かつや</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第3回<br />
-（<a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>）</p></td>
+（<a href="../Page/2007年.md" title="wikilink">2007年</a>）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>地方都市伝説大全<br />
 （[[ギャルゴ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アストロノト!" title="wikilink">アストロノト!</a></p></td>
+<td><p><a href="../Page/アストロノト!.md" title="wikilink">アストロノト!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/赤松中学" title="wikilink">赤松中学</a></p></td>
 <td></td>
 <td></td>
@@ -679,7 +679,7 @@
 （<a href="../Page/2019年.md" title="wikilink">2019年</a>）</p></td>
 <td><p>最優秀賞</p></td>
 <td><p>探偵はもう、死んでいる<br />
-（<a href="https://ja.wikipedia.org/wiki/探偵はもう、死んでいる。" title="wikilink">探偵はもう、死んでいる。</a>）</p></td>
+（<a href="../Page/探偵はもう、死んでいる。.md" title="wikilink">探偵はもう、死んでいる。</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/二語十" title="wikilink">二語十</a></p></td>
 </tr>
 <tr class="odd">
@@ -729,7 +729,7 @@
 
 ## 関連項目
 
-  - [文学賞の一覧](https://ja.wikipedia.org/wiki/文学賞の一覧 "wikilink")
+  - [文学賞の一覧](../Page/文学賞の一覧.md "wikilink")
 
 ## 外部リンク
 
@@ -738,6 +738,6 @@
 [Category:MF文庫J](https://ja.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:KADOKAWA主催の賞](https://ja.wikipedia.org/wiki/Category:KADOKAWA主催の賞 "wikilink") [Category:ライトノベルの文学賞](https://ja.wikipedia.org/wiki/Category:ライトノベルの文学賞 "wikilink") [Category:2004年開始のイベント](https://ja.wikipedia.org/wiki/Category:2004年開始のイベント "wikilink")
 
 1.  2004年7月の新人賞創設以前に編集部へ投稿された作品が対象。
-2.  この回だけ「編集長特別賞」が存在するのは、賞の選考途中に日日日が『[ちーちゃんは悠久の向こう](https://ja.wikipedia.org/wiki/ちーちゃんは悠久の向こう "wikilink")』（[新風舎](https://ja.wikipedia.org/wiki/新風舎 "wikilink")）で作家デビューしたため、応募規定（「他社でデビュー経験のない新人に限る」）から外れてしまうことに対する特別措置である。
-3.  第1回[スクウェア・エニックスライトノベル大賞](https://ja.wikipedia.org/wiki/スクウェア・エニックスライトノベル大賞 "wikilink")（入選）・第2回[メガミノベル大賞](https://ja.wikipedia.org/wiki/メガミノベル大賞 "wikilink")（金賞）と同時受賞だが、刊行順は本作が最初であった。
+2.  この回だけ「編集長特別賞」が存在するのは、賞の選考途中に日日日が『[ちーちゃんは悠久の向こう](../Page/ちーちゃんは悠久の向こう.md "wikilink")』（[新風舎](../Page/新風舎.md "wikilink")）で作家デビューしたため、応募規定（「他社でデビュー経験のない新人に限る」）から外れてしまうことに対する特別措置である。
+3.  第1回[スクウェア・エニックスライトノベル大賞](https://ja.wikipedia.org/wiki/スクウェア・エニックスライトノベル大賞 "wikilink")（入選）・第2回[メガミノベル大賞](../Page/メガミノベル大賞.md "wikilink")（金賞）と同時受賞だが、刊行順は本作が最初であった。
 4.  [作者より刊行を辞退したい旨の申し入れがありました。](http://www.mediafactory.co.jp/bunkoj/rookie/ann08)

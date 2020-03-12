@@ -8,15 +8,15 @@
   - シングル曲では「[Memory 青春の光](../Page/Memory_青春の光.md "wikilink")」以来のマイナー調ミディアムナンバーで、前作までとは異なり[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")中心のサウンドとなる。
   - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")在籍最後のシングルである。センター、メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は[安倍なつみ](../Page/安倍なつみ.md "wikilink")と後藤で、安倍に[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")・後藤に[紺野あさ美](../Page/紺野あさ美.md "wikilink")がペアとなる。間奏には[マイクを逆手に持ち変えて](../Page/マイクロフォン.md "wikilink")、メンバー全員が1フレーズを担当する[ラップ](../Page/ラップ.md "wikilink")がある。
   - [2002年](../Page/2002年.md "wikilink")7月7日の『[FNS27時間テレビ](../Page/FNS27時間テレビ.md "wikilink")』で、放送前の新曲記者会見での報道関係者向けライブに続き、テレビ初披露された。
-  - [シルク・ドゥ・ソレイユ](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")が演じた『キダム2002』のイメージソング。
+  - [シルク・ドゥ・ソレイユ](../Page/シルク・ドゥ・ソレイユ.md "wikilink")が演じた『キダム2002』のイメージソング。
   - 後に6期メンバー追加[オーディション](../Page/オーディション.md "wikilink")の課題曲になった。
-  - 歌番組では、メンバー全員に[キスマークのボディ](https://ja.wikipedia.org/wiki/接吻 "wikilink")[シール](https://ja.wikipedia.org/wiki/シール "wikilink")が、それぞれ異なる位置に張られていた。
-  - [PVには](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、これまでのモーニング娘。のシングル曲のジャケットが並べられた中を歩くシーンがあり、他にもこれまでのモーニング娘。のシングル曲の衣装や過去に受賞したトロフィーなどの映像が挿入されるなどである。
+  - 歌番組では、メンバー全員に[キスマークのボディ](https://ja.wikipedia.org/wiki/接吻 "wikilink")[シール](../Page/シール.md "wikilink")が、それぞれ異なる位置に張られていた。
+  - [PVには](../Page/ミュージック・ビデオ.md "wikilink")、これまでのモーニング娘。のシングル曲のジャケットが並べられた中を歩くシーンがあり、他にもこれまでのモーニング娘。のシングル曲の衣装や過去に受賞したトロフィーなどの映像が挿入されるなどである。
   - ジャケット裏はタイトル[ロゴを含めて表ジャケットの後姿のデザインとなっている](../Page/ロゴタイプ.md "wikilink")。
   - 後藤卒業後の後藤のパートは、6期加入前は[加護亜依](../Page/加護亜依.md "wikilink")、6期加入後は[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")が担当した。
   - 後に、[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")はディナーショーや、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』にてセルフカバーした。
   - [2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売されたコンピレーションアルバム『[つんく♂ベスト作品集(上)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜](../Page/つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜.md "wikilink")』に収録されており、付属のブックレットにはこの曲のパート割りが記載されている。
-  - 文学研究者の[石原千秋](https://ja.wikipedia.org/wiki/石原千秋 "wikilink")の談話によれば、石原は「Do it\! Now」の歌詞はほとんどが「愛」「夢」などの決まり文句（[クリシェ](../Page/クリシェ.md "wikilink")）によって構成されているが、後半で唐突に登場する「[原宿](../Page/原宿.md "wikilink")」という[固有名詞](https://ja.wikipedia.org/wiki/固有名詞 "wikilink")の存在により、この曲を聴く少女にこれが自分のことを歌っているのだと感じさせることができるのだと解説している\[1\]。
+  - 文学研究者の[石原千秋](../Page/石原千秋.md "wikilink")の談話によれば、石原は「Do it\! Now」の歌詞はほとんどが「愛」「夢」などの決まり文句（[クリシェ](../Page/クリシェ.md "wikilink")）によって構成されているが、後半で唐突に登場する「[原宿](../Page/原宿.md "wikilink")」という[固有名詞](https://ja.wikipedia.org/wiki/固有名詞 "wikilink")の存在により、この曲を聴く少女にこれが自分のことを歌っているのだと感じさせることができるのだと解説している\[1\]。
 
 ## 収録曲
 
@@ -58,4 +58,4 @@
       -
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink")
 
-1.  [石原千秋](https://ja.wikipedia.org/wiki/石原千秋 "wikilink") 『Jポップの作詞術』 [日本放送出版協会](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")、2005年、98頁。ISBN 978-4140881644。
+1.  [石原千秋](../Page/石原千秋.md "wikilink") 『Jポップの作詞術』 [日本放送出版協会](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")、2005年、98頁。ISBN 978-4140881644。

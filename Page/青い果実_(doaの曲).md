@@ -5,19 +5,19 @@
 
 ## 概要
 
-[吉本大樹](https://ja.wikipedia.org/wiki/吉本大樹 "wikilink")が初めてA面の曲の作詞を手がけた。現在までの所、吉本がA面曲の作詞を担当した唯一の作品である。
+[吉本大樹](../Page/吉本大樹.md "wikilink")が初めてA面の曲の作詞を手がけた。現在までの所、吉本がA面曲の作詞を担当した唯一の作品である。
 
-前作「[英雄](https://ja.wikipedia.org/wiki/英雄_\(doaの曲\) "wikilink")」に続き、[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[ウルトラマンネクサス](https://ja.wikipedia.org/wiki/ウルトラマンネクサス "wikilink")』の第2期オープニングテーマになっており、2番が使われている。1枚目のシングル「[火ノ鳥のように](../Page/火ノ鳥のように.md "wikilink")」同様、2番以降でテンポが上がる。
+前作「[英雄](../Page/英雄_\(doaの曲\).md "wikilink")」に続き、[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[ウルトラマンネクサス](../Page/ウルトラマンネクサス.md "wikilink")』の第2期オープニングテーマになっており、2番が使われている。1枚目のシングル「[火ノ鳥のように](../Page/火ノ鳥のように.md "wikilink")」同様、2番以降でテンポが上がる。
 
-[プロモーションビデオは初のカラーでのPVであり](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、冒頭ではタイトル通り、洋梨などがこぼれるシーンがある。
+[プロモーションビデオは初のカラーでのPVであり](../Page/ミュージック・ビデオ.md "wikilink")、冒頭ではタイトル通り、洋梨などがこぼれるシーンがある。
 
 ## 収録曲
 
-全作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+全作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 
 1.  **青い果実**
       -
-        作詞：[吉本大樹](https://ja.wikipedia.org/wiki/吉本大樹 "wikilink")
+        作詞：[吉本大樹](../Page/吉本大樹.md "wikilink")
 2.  **Sexyest Girl**
       -
         作詞：吉本大樹

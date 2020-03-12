@@ -3,7 +3,7 @@
 
 **Z団**（ゼットだん）とは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の音源をリミックスする目的のユニット。
 
-[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[エロティカ・セブン](../Page/エロティカ・セブン.md "wikilink")」が当時最大のセールスを記録した直後に\[1\]、『サザンオールスターズの[マスター音源を](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")[奪った](https://ja.wikipedia.org/wiki/窃盗 "wikilink")』と公表する団体が表れる。サザンオールスターズの過去の音源をリミックスした作品を[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に[CDを発売するという情報以外](../Page/コンパクトディスク.md "wikilink")、レコードショップに内容や名前などは明かされなかったため、ファンの人達が長い列を作って買う騒ぎとなった\[2\]。結局CDのクレジットなどに[歌詞](../Page/歌詞.md "wikilink")や使用曲などの情報などは一切載っておらず、『江ノ島』というリミックス作品1枚を発売するのみで自然消滅という形になっている。サザンオールスターズのマスター音源を盗んで製作したというのは “ネタ” であり、[ビクターの企画の](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")1つである。
+[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[エロティカ・セブン](../Page/エロティカ・セブン.md "wikilink")」が当時最大のセールスを記録した直後に\[1\]、『サザンオールスターズの[マスター音源を](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")[奪った](../Page/窃盗.md "wikilink")』と公表する団体が表れる。サザンオールスターズの過去の音源をリミックスした作品を[9月8日](../Page/9月8日.md "wikilink")に[CDを発売するという情報以外](../Page/コンパクトディスク.md "wikilink")、レコードショップに内容や名前などは明かされなかったため、ファンの人達が長い列を作って買う騒ぎとなった\[2\]。結局CDのクレジットなどに[歌詞](../Page/歌詞.md "wikilink")や使用曲などの情報などは一切載っておらず、『江ノ島』というリミックス作品1枚を発売するのみで自然消滅という形になっている。サザンオールスターズのマスター音源を盗んで製作したというのは “ネタ” であり、[ビクターの企画の](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")1つである。
 
 ## 作品
 
@@ -11,9 +11,9 @@
 
 <!-- end list -->
 
-  - [江ノ島 Southern All Stars Golden Hits Medley](https://ja.wikipedia.org/wiki/江ノ島_Southern_All_Stars_Golden_Hits_Medley "wikilink")（[1993年](../Page/1993年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")にCD盤発売。同年[8月21日](../Page/8月21日.md "wikilink")にLP盤発売）
+  - [江ノ島 Southern All Stars Golden Hits Medley](../Page/江ノ島_Southern_All_Stars_Golden_Hits_Medley.md "wikilink")（[1993年](../Page/1993年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")にCD盤発売。同年[8月21日](../Page/8月21日.md "wikilink")にLP盤発売）
       -
-        この1枚のみを発表して以来作品の発売はない。リミックスアルバムとしての発売であるが、収録内容や収録曲数が1曲のみであることから、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では[シングル](../Page/シングル.md "wikilink")扱いになっている。現在サザンの[公式サイト](http://sas-fan.net/mob/sear/searLis.php?site=SAS&ima=1640&cd=A&ct=Plan&so=rdy2desc&gr=one&arti=A000227)でもサザンの企画アルバムとして扱われている。
+        この1枚のみを発表して以来作品の発売はない。リミックスアルバムとしての発売であるが、収録内容や収録曲数が1曲のみであることから、[オリコンチャート](../Page/オリコンチャート.md "wikilink")では[シングル](../Page/シングル.md "wikilink")扱いになっている。現在サザンの[公式サイト](http://sas-fan.net/mob/sear/searLis.php?site=SAS&ima=1640&cd=A&ct=Plan&so=rdy2desc&gr=one&arti=A000227)でもサザンの企画アルバムとして扱われている。
 
 ## 脚注
 

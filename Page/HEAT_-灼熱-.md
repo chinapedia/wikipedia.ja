@@ -1,18 +1,18 @@
 > この記事は[HEAT --](https://ja.wikipedia.org/wiki/HEAT_--)から翻訳されています。
 
 
-『**HEAT-灼熱-**』（ヒート しゃくねつ）は、[武論尊](../Page/武論尊.md "wikilink")原作、[池上遼一](../Page/池上遼一.md "wikilink")作画の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた。単行本は全17巻（小学館ビッグコミックス）。[2004年](../Page/2004年.md "wikilink")2月に映画化された。第47回（平成13年度）[小学館漫画賞](https://ja.wikipedia.org/wiki/小学館漫画賞 "wikilink")受賞。
+『**HEAT-灼熱-**』（ヒート しゃくねつ）は、[武論尊](../Page/武論尊.md "wikilink")原作、[池上遼一](../Page/池上遼一.md "wikilink")作画の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた。単行本は全17巻（小学館ビッグコミックス）。[2004年](../Page/2004年.md "wikilink")2月に映画化された。第47回（平成13年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")受賞。
 
 ## 漫画
 
 ### ストーリー
 
-[新宿](../Page/新宿.md "wikilink")[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")に突然現れた男、唐沢辰巳。わずか2日で[ホストクラブ](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")を乗っ取り、[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")や[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")、そして外国[マフィア](../Page/マフィア.md "wikilink")をも相手に立ち向かう唐沢は、次第に周りの人々を惹きつけて行く。
+[新宿](../Page/新宿.md "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")に突然現れた男、唐沢辰巳。わずか2日で[ホストクラブ](../Page/ホストクラブ.md "wikilink")を乗っ取り、[警察](../Page/警察.md "wikilink")や[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")、そして外国[マフィア](../Page/マフィア.md "wikilink")をも相手に立ち向かう唐沢は、次第に周りの人々を惹きつけて行く。
 
 ### 登場人物
 
   - 唐沢辰巳（からさわ たつみ）
-    主人公。ホストクラブ『新宿租界』オーナー。祖父は大城金吾。背中に[鶴](https://ja.wikipedia.org/wiki/鶴 "wikilink")の[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")を持つ。少年時代は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で過ごし、新宿に現れる前はアメリカでロシアンマフィアを1人で壊滅させていた\[1\]。旅行中に中谷里見（後述）を助けた影響で恋に落ち、後に結婚。第13巻で金（キム）たちを守れなかった影響によるショックで[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")に自首、約5年間、刑務所ですごしていたこともある。一時期髪型を変えていた。
+    主人公。ホストクラブ『新宿租界』オーナー。祖父は大城金吾。背中に[鶴](https://ja.wikipedia.org/wiki/鶴 "wikilink")の[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")を持つ。少年時代は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で過ごし、新宿に現れる前はアメリカでロシアンマフィアを1人で壊滅させていた\[1\]。旅行中に中谷里見（後述）を助けた影響で恋に落ち、後に結婚。第13巻で金（キム）たちを守れなかった影響によるショックで[警察](../Page/警察.md "wikilink")に自首、約5年間、刑務所ですごしていたこともある。一時期髪型を変えていた。
   - 伊丹（いたみ）
     [闇金融](../Page/闇金融.md "wikilink")『伊丹商事』社長。現役の[東大生](https://ja.wikipedia.org/wiki/東京大学 "wikilink")。無担保で金を借りに来た唐沢と出会い、やがて資金援助を担当するようになる。ハッキングに長け、情報収集を得意とする。一時歌舞伎町を牛耳って唐沢と敵対するようになるが、後に和解して再び行動を共にするようになる。
   - 金（キム）
@@ -26,7 +26,7 @@
   - ハン
     韓国の組織のボス。唐沢を裏切り、父親であるハン先生から追放された\[3\]。
   - 村雨（むらさめ）
-    広域暴力団「関西山王会」関東総本部長。「村雨組」組長。長髪に眼鏡の男。唐沢のライバルであり、心が通じ合った仲でもある。尾形市造の妻尾形佳乃にほれた影響で市造を殺そうとしたこともある。第14巻で何者かによって殺される。山王会は[池上遼一](../Page/池上遼一.md "wikilink")の代表作の一つ『[サンクチュアリ](https://ja.wikipedia.org/wiki/サンクチュアリ_\(漫画\) "wikilink")』（史村翔（武論尊の別名義）原作）にも登場する。
+    広域暴力団「関西山王会」関東総本部長。「村雨組」組長。長髪に眼鏡の男。唐沢のライバルであり、心が通じ合った仲でもある。尾形市造の妻尾形佳乃にほれた影響で市造を殺そうとしたこともある。第14巻で何者かによって殺される。山王会は[池上遼一](../Page/池上遼一.md "wikilink")の代表作の一つ『[サンクチュアリ](../Page/サンクチュアリ_\(漫画\).md "wikilink")』（史村翔（武論尊の別名義）原作）にも登場する。
   - 藤巻（ふじまき）
     「関西山王会」総本部長。組のナンバー3。48歳。「藤巻組」組長。13歳から山王会構成員になったことが発覚（第4巻）。非関西弁のかなりの巨漢で、ロリコン。一時期は唐沢と対立するも、歌舞伎町での偵察を経て次第に唐沢と距離を縮めてゆき、やがて唐沢とは盟友となる。ダンテと伊丹の歌舞伎町支配によって勢いはすっかり衰え、癌に患かってしまったが、唐沢の復活によって勢いを取り戻す。勝男（後述）の義父でもある。
   - 石倉（いしくら）
@@ -44,7 +44,7 @@
   - 八木沢涼
     今泉の死後に配属された新副署長。羅を射殺した犯人でもある。17歳の少年有動界と手を結ぶが、後に裏切る。16～17歳のときに父の目の前で[強姦](../Page/強姦.md "wikilink")されたことがある。最期は有動によって射殺される（第13巻）。
   - 城島陸
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[副都知事](https://ja.wikipedia.org/wiki/副都知事 "wikilink")。35歳（第10巻）。最初は敵だったが、後に唐沢の仲間になる。美樹という妹がいる。
+    [東京都](../Page/東京都.md "wikilink")[副都知事](https://ja.wikipedia.org/wiki/副都知事 "wikilink")。35歳（第10巻）。最初は敵だったが、後に唐沢の仲間になる。美樹という妹がいる。
   - 勝男
     藤巻の義理の息子で、藤巻組構成員でもある。養父（藤巻）を極端すぎるほど敬っている。ある事件をきっかけに村雨を殺そうとしたこともある。
   - 進藤優香
@@ -74,7 +74,7 @@
   - アソシエイトプロデューサー：[林由恵](https://ja.wikipedia.org/wiki/林由恵 "wikilink")
   - 監督：[横井健司](https://ja.wikipedia.org/wiki/横井健司 "wikilink")
   - 助監督：[中村章](https://ja.wikipedia.org/wiki/中村章 "wikilink")
-  - 脚本：[伊藤秀裕](https://ja.wikipedia.org/wiki/伊藤秀裕 "wikilink")、[江良至](https://ja.wikipedia.org/wiki/江良至 "wikilink")
+  - 脚本：[伊藤秀裕](../Page/伊藤秀裕.md "wikilink")、[江良至](https://ja.wikipedia.org/wiki/江良至 "wikilink")
   - 撮影：[今井裕二](https://ja.wikipedia.org/wiki/今井裕二 "wikilink")
   - 照明：[内原真也](https://ja.wikipedia.org/wiki/内原真也 "wikilink")
   - 録音：[沼田和夫](https://ja.wikipedia.org/wiki/沼田和夫 "wikilink")
@@ -90,22 +90,22 @@
 ### 出演
 
   - 唐沢辰巳：[笠原紳司](../Page/笠原紳司.md "wikilink")
-  - キム：[吉岡毅志](https://ja.wikipedia.org/wiki/吉岡毅志 "wikilink")
-  - 石倉：[白竜](https://ja.wikipedia.org/wiki/白竜_\(俳優\) "wikilink")
-  - 村雨：[宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")
-  - 栗木：[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
-  - 藤巻：[菅田俊](https://ja.wikipedia.org/wiki/菅田俊 "wikilink")
+  - キム：[吉岡毅志](../Page/吉岡毅志.md "wikilink")
+  - 石倉：[白竜](../Page/白竜_\(俳優\).md "wikilink")
+  - 村雨：[宇梶剛士](../Page/宇梶剛士.md "wikilink")
+  - 栗木：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
+  - 藤巻：[菅田俊](../Page/菅田俊.md "wikilink")
   - 羅：[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
   - 優香：[岡田めぐみ](https://ja.wikipedia.org/wiki/岡田めぐみ_\(女優\) "wikilink")
-  - 新子：[勝村美香](https://ja.wikipedia.org/wiki/勝村美香 "wikilink")
-  - 伊丹：[袴田吉彦](https://ja.wikipedia.org/wiki/袴田吉彦 "wikilink")
+  - 新子：[勝村美香](../Page/勝村美香.md "wikilink")
+  - 伊丹：[袴田吉彦](../Page/袴田吉彦.md "wikilink")
   - 広東人経営者：[山本竜二](../Page/山本竜二.md "wikilink")
 
 ### HEAT-灼熱- 製作委員会
 
   - [カルチュア・パブリッシャーズ](https://ja.wikipedia.org/wiki/カルチュア・パブリッシャーズ "wikilink")
   - [小学館](../Page/小学館.md "wikilink")（中村隆宏、粂田昌志、後藤昌弘、志波秀宇、秋本輝夫、杉山千絵、石橋嘉仁、相澤弘、森田康夫）
-  - [ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")(配給)
+  - [ケイエスエス](../Page/ケイエスエス.md "wikilink")(配給)
   - [日テレ](../Page/日本テレビ放送網.md "wikilink")
   - [バイオタイド](https://ja.wikipedia.org/wiki/バイオタイド "wikilink")
   - [クライムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/クライムミュージックエンタテインメント "wikilink")

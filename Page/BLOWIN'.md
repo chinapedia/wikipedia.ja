@@ -1,7 +1,7 @@
 > この記事は[BLOWIN\'](https://ja.wikipedia.org/wiki/BLOWIN\')から翻訳されています。
 
 
-「**BLOWIN**'」(ブローウィン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")の10作目の[シングル](../Page/シングル.md "wikilink")。
+「**BLOWIN**'」(ブローウィン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の10作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にリマスタリング、12cm化で再発売された。なお、リマスタリングに際し、上記とは違い曲間が存在するようになっている。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")にて2週連続1位を獲得。初動で58.7万枚を売り上げ、累計売上は176万3970枚を記録している\[2\]。オリコン集計では3作目、[日本レコード協会](../Page/日本レコード協会.md "wikilink")からは初のミリオンセラー認定を受けた。最終的に、B'zのシングルでは3番目の売上を記録した\[3\]。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")にて2週連続1位を獲得。初動で58.7万枚を売り上げ、累計売上は176万3970枚を記録している\[2\]。オリコン集計では3作目、[日本レコード協会](../Page/日本レコード協会.md "wikilink")からは初のミリオンセラー認定を受けた。最終的に、B'zのシングルでは3番目の売上を記録した\[3\]。
 
 ## 収録曲
 
@@ -19,26 +19,26 @@
       -
         デジタルビートとギターロックが融合された[ナンバーで](https://ja.wikipedia.org/wiki/楽曲 "wikilink")、ツアー中に制作された曲である。
         [サビ](../Page/サビ.md "wikilink")に入る直前に[飛行機](../Page/飛行機.md "wikilink")のジェット音のような音が入っているが、これは[シンセサイザー](../Page/シンセサイザー.md "wikilink")の音を逆回転させたもの\[4\]。
-        [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[B'z The Best "Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")』の投票では2位を、「"[B'z LIVE-GYM The Final Pleasure](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")"で聴きたい1曲」の投票では1位を獲得した。
+        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の投票では2位を、「"[B'z LIVE-GYM The Final Pleasure](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")"で聴きたい1曲」の投票では1位を獲得した。
         ライブの定番曲であり、演奏されるときはラストサビがアレンジされ[アウトロ](../Page/アウトロ.md "wikilink")で「BLOWIN' IN THE WIND」と掛け合いをするのが定番になっている。『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にはそのライブアレンジに近い形で再録されている。
-        [オリジナル・アルバムには未収録となり](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、ベスト・アルバムにのみ収録されている。
+        [オリジナル・アルバムには未収録となり](../Page/スタジオ・アルバム.md "wikilink")、ベスト・アルバムにのみ収録されている。
 2.  **TIME** (4:56)
       -
         1992年に行われたツアー『[B'z LIVE-GYM Pleasure '92 "TIME"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』のタイトルとなった曲。
         2nd beatにも関わらずライブでよく演奏される曲であり、特に90年代のライブではバラードの定番曲として演奏されていた。2000年以降も度々演奏されている。
-        [オリジナル・アルバム未収録であるものの](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、ベスト・アルバム『[B'z The Best "Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")』投票では5位となり収録されているほか、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にも収録されており、[2nd beatの曲では最多の](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")3作のアルバムに収録されている(B'z以外のアルバムを含めると「[ONE](https://ja.wikipedia.org/wiki/ギリギリchop "wikilink")」が『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』の主題歌集3作を含めた5作に収録)。
-        ソングレスバージョンは[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』オープニングテーマとなった。稲葉はこの歌詞を「自分の思い出の風景を切り取ったもの」と語っており、歌詞中に出てくる「港が見渡せる丘」は[横浜市](../Page/横浜市.md "wikilink")の[港の見える丘公園](https://ja.wikipedia.org/wiki/港の見える丘公園 "wikilink")がモデルであるといわれている\[5\]。
+        [オリジナル・アルバム未収録であるものの](../Page/スタジオ・アルバム.md "wikilink")、ベスト・アルバム『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』投票では5位となり収録されているほか、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にも収録されており、[2nd beatの曲では最多の](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")3作のアルバムに収録されている(B'z以外のアルバムを含めると「[ONE](../Page/ギリギリchop.md "wikilink")」が『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』の主題歌集3作を含めた5作に収録)。
+        ソングレスバージョンは[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』オープニングテーマとなった。稲葉はこの歌詞を「自分の思い出の風景を切り取ったもの」と語っており、歌詞中に出てくる「港が見渡せる丘」は[横浜市](../Page/横浜市.md "wikilink")の[港の見える丘公園](../Page/港の見える丘公園.md "wikilink")がモデルであるといわれている\[5\]。
 
 ## タイアップ
 
-  - [カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")「[ポテトチップス](../Page/ポテトチップス.md "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") (\#1)
+  - [カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")「[ポテトチップス](../Page/ポテトチップス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)
   - [テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』オープニングテーマ (\#2)
 
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink"):全曲編曲
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):全曲編曲
   - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink") (\#2)
   - [B+U+M](https://ja.wikipedia.org/wiki/B'z_#B+U+M "wikilink")
 
@@ -46,14 +46,14 @@
 
 '''BLOWIN' '''
 
-  - [B'z The Best "Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")
+  - [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")
   - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink") (ULTRA Treasure Style)
   - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink") (TV STYLE)
   - [B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")
 
 **TIME**
 
-  - [B'z The Best "Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")
+  - [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")
   - [The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")
   - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")
   - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink") (TV STYLE)
@@ -98,7 +98,7 @@
 
 ## 関連項目
 
-  - [1992年の音楽](https://ja.wikipedia.org/wiki/1992年の音楽 "wikilink")
+  - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
   - [ミリオンセラー](../Page/ミリオンセラー.md "wikilink")
 
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:1992年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1992年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:風を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:風を題材とした楽曲 "wikilink")

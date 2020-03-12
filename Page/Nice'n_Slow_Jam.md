@@ -13,7 +13,7 @@
 ## 収録曲
 
 1.  **[sha la la](https://ja.wikipedia.org/wiki/sha_la_la "wikilink")**
-    作詞:小林夏海、S.O.S.　作曲・編曲:[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+    作詞:小林夏海、S.O.S.　作曲・編曲:[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
 2.  **introduction (voice over Vaughn Harper)**
     作曲・編曲:S.O.S.
 3.  **[Nice'n Slow](../Page/Nice'n_Slow.md "wikilink") (S.O.S. edition)**

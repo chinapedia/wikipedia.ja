@@ -1,7 +1,7 @@
 > この記事は[Wish \(\)](https://ja.wikipedia.org/wiki/Wish_\(\))から翻訳されています。
 
 
-『**Wish**』（ウィッシュ）は、[CLAMP](https://ja.wikipedia.org/wiki/CLAMP "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ミステリーDX](../Page/ミステリーDX.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）1995年11月号から1998年7月号まで連載された。全23話＋Extraが3話。単行本は全4巻。なおCLAMP作品の作画は主にもこな（当時は**もこなあぱぱ**）が担当するが、本作では猫井椿（当時は**猫井みっく**）が担当している。
+『**Wish**』（ウィッシュ）は、[CLAMP](../Page/CLAMP.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ミステリーDX](../Page/ミステリーDX.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）1995年11月号から1998年7月号まで連載された。全23話＋Extraが3話。単行本は全4巻。なおCLAMP作品の作画は主にもこな（当時は**もこなあぱぱ**）が担当するが、本作では猫井椿（当時は**猫井みっく**）が担当している。
 
 1997年にアニメーションクリップが制作され、その内容は2007年に発売された、CLAMP15周年記念アルバム「CLAMPAZAR」のDVDで確認することが出来る。
 
@@ -25,7 +25,7 @@
     とても現実的な人で、当初、琥珀に出会ったときも「願い事は自分で叶えるものだ」とまで言ってのけたほど。外見は黒燿に似ている。
     琥珀に「1人では叶えられない願い」を告げた後のある夜、琥珀と共に外出していて急に倒れ、息を引き取る。
   - 紅榴（こうりゅう）
-    琥珀をいじめるのが大好きな[悪魔](../Page/悪魔.md "wikilink")で[魔王](https://ja.wikipedia.org/wiki/魔王 "wikilink")の甥っ子。地上では日が昇ると体が小さくなってしまう。瑠璃（るり）と破璃（はり）という猫の[使い魔](../Page/使い魔.md "wikilink")がいる。瑠璃と破璃が言うには、琥珀をいじめるのはいわゆる「好きな子いじめ」だという。本人はそのことを全力否定しているが、琥珀が琇一郎と一緒にいるのを見て、腹を立てているところをみると、あながち間違いではないらしい。琥珀からは非常に嫌われており、100年後でも鬱陶しがられている。
+    琥珀をいじめるのが大好きな[悪魔](../Page/悪魔.md "wikilink")で[魔王](../Page/魔王.md "wikilink")の甥っ子。地上では日が昇ると体が小さくなってしまう。瑠璃（るり）と破璃（はり）という猫の[使い魔](../Page/使い魔.md "wikilink")がいる。瑠璃と破璃が言うには、琥珀をいじめるのはいわゆる「好きな子いじめ」だという。本人はそのことを全力否定しているが、琥珀が琇一郎と一緒にいるのを見て、腹を立てているところをみると、あながち間違いではないらしい。琥珀からは非常に嫌われており、100年後でも鬱陶しがられている。
     ただ眠っていた琥珀とは違い、100年間修行し続けたため、100年後には昼間でも通常の姿を保てるようになっている。
     普段から低血圧だが、従兄弟の黒燿の寝床では、夕方まで寝ていたらしい。
   - 翡翠（ひすい）
@@ -47,7 +47,7 @@
   - 透輝（とうき）
     気難しいことで有名な、四天使長の一人で[水](../Page/水.md "wikilink")を司る水天使。地天使・藍晶に惚れられているが、悪い気はしていないらしい。無愛想で面倒くさがりではあるが、琥珀のことは気にかけており、神様に連れ戻すようにと命令されたときは、他の天使に任せてもいいのに、自ら連れ戻しに人間界に降り立った。しっかりしているように見えるが、実は押しに弱く、しつこいのは嫌いらしい。四天使長の中では最も幼く見える。
   - 藍晶（らんしょう）
-    四天使長の一人で[大地を司る地天使](https://ja.wikipedia.org/wiki/土壌 "wikilink")。水天使・透輝が好きでしつこく好きだと言い張っているらしい。やたら長い後ろ髪を1本の三つ編みにしている。穏やかで優しい性格。しかし、ヒステリックになっているときの榴輝を透輝に押し付けていったりするあたりはちゃっかりしているといえる。普段はその榴輝のストッパー役。
+    四天使長の一人で[大地を司る地天使](../Page/土壌.md "wikilink")。水天使・透輝が好きでしつこく好きだと言い張っているらしい。やたら長い後ろ髪を1本の三つ編みにしている。穏やかで優しい性格。しかし、ヒステリックになっているときの榴輝を透輝に押し付けていったりするあたりはちゃっかりしているといえる。普段はその榴輝のストッパー役。
     ラジオドラマではアンティークショップを営む青年に変身し、琥珀を見守る。また、蛍が歌っていた曲が流れるオルゴールを琥珀に渡す。
   - 榴輝（りゅうき）
     四天使長の一人で[火](../Page/火.md "wikilink")を司る火天使。誰よりも翡翠のことが好きで、翡翠が失踪したときは自ら探しに行こうとしたほど。火天使だけあって普段から感情の起伏が激しく、翡翠のことになるとそれがさらに倍増される。翡翠が黒燿と駆け落ちしたことを知ったときは悲しみもしたが、それが翡翠の意志であり、翡翠が幸せになるならと身を引く。しかし、黒燿のことは大嫌いらしい。
@@ -56,7 +56,7 @@
 
 ### 栩堂家
 
-『[合法ドラッグ](https://ja.wikipedia.org/wiki/合法ドラッグ_\(漫画\) "wikilink")』の主人公・風疾の姓も「栩堂」だが、『Wish』の栩堂家との関係は不明。
+『[合法ドラッグ](../Page/合法ドラッグ_\(漫画\).md "wikilink")』の主人公・風疾の姓も「栩堂」だが、『Wish』の栩堂家との関係は不明。
 
   - 栩堂 周丞（くどう しゅうすけ）
     琇一郎の父で、藤の木の精である蛍を見つけて名前を与え、結婚した。琇一郎とは血のつながりはないらしい。琇一郎が高校2年の時に、飛行機事故で亡くなる。
@@ -98,16 +98,16 @@
 
   - 琥珀 - [小西寛子](../Page/小西寛子.md "wikilink")
   - 栩堂琇一郎 - [一条和矢](../Page/一条和矢.md "wikilink")
-  - 紅榴 - [今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink")
-  - 翡翠 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
-  - 黒燿 - [小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+  - 紅榴 - [今井由香](../Page/今井由香.md "wikilink")
+  - 翡翠 - [井上喜久子](../Page/井上喜久子.md "wikilink")
+  - 黒燿 - [小杉十郎太](../Page/小杉十郎太.md "wikilink")
   - 瑠璃 - [大谷育江](../Page/大谷育江.md "wikilink")
   - 破璃 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
-  - 園村隆司（藍晶） - [安井邦彦](https://ja.wikipedia.org/wiki/安井邦彦 "wikilink")
+  - 園村隆司（藍晶） - [安井邦彦](../Page/安井邦彦.md "wikilink")
 
 ### 音楽（ドラマCD）
 
-  - 音楽 - [片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")（ALI PROJECT）
+  - 音楽 - [片倉三起也](../Page/片倉三起也.md "wikilink")（ALI PROJECT）
   - 主題歌 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")「[Wish](https://ja.wikipedia.org/wiki/Wish_\(ALI_PROJECTの曲\) "wikilink")」
   - 挿入歌 - ALI PROJECT 「[夢のあとに après un réve](https://ja.wikipedia.org/wiki/Wish_\(ALI_PROJECTの曲\) "wikilink")」
       - 琇一郎の母、蛍の子守唄として登場する。
@@ -125,7 +125,7 @@
 
   - オープニング「[Wish](https://ja.wikipedia.org/wiki/Wish_\(ALI_PROJECTの曲\) "wikilink")」
   - エンディング「エンジェル･エッグの作り方〜for Ruri & Hari」
-      - 共に作詞 - [宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink") / 作曲 - [片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink") / 歌 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")
+      - 共に作詞 - [宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink") / 作曲 - [片倉三起也](../Page/片倉三起也.md "wikilink") / 歌 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")
 
 ### スタッフ
 
@@ -133,16 +133,16 @@
   - 企画 - 大川七瀬
   - プロデューサー - 五十嵐さつき
   - キャラクター原案 - 猫井みっく
-  - 監修 - [りんたろう](https://ja.wikipedia.org/wiki/りんたろう "wikilink")
+  - 監修 - [りんたろう](../Page/りんたろう.md "wikilink")
   - キャラクターデザイン・作画監督 - [阿部恒](https://ja.wikipedia.org/wiki/阿部恒 "wikilink")
   - オープニング絵コンテ - もこなあぱぱ
   - エンディング絵コンテ - 遠藤卓司、[入好さとる](../Page/入好さとる.md "wikilink")
   - 美術監督 - 上原伸一
   - 撮影監督 - 山口仁
-  - 音響監督 - [本田保則](https://ja.wikipedia.org/wiki/本田保則 "wikilink")、[鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音響監督 - [本田保則](../Page/本田保則.md "wikilink")、[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音響制作 - アーツプロ（寺尾恵子）
   - 監督 - 遠藤卓司
-  - 制作プロデューサー - [丸山正雄](../Page/丸山正雄.md "wikilink")（[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")）、[池口和彦](https://ja.wikipedia.org/wiki/池口和彦 "wikilink")（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")）
+  - 制作プロデューサー - [丸山正雄](../Page/丸山正雄.md "wikilink")（[マッドハウス](../Page/マッドハウス.md "wikilink")）、[池口和彦](../Page/池口和彦.md "wikilink")（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")）
   - 制作 - CLAMP CO;LTD、SHELTY CO.,LTD
 
 ## 書籍

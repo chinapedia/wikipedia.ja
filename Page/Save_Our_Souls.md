@@ -8,7 +8,7 @@
   - 前作から約一年ぶりのオリジナルアルバム。[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")をプロデューサーに迎えた。
   - 当時同じプロデューサーであった関係から本作では[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")とのコラボレーションが実現している。
   - また、タイトルはあえてS.O.S.（グループの愛称名）になるように考えられている。
-  - 『[Key of Love](https://ja.wikipedia.org/wiki/Key_of_Love "wikilink")』から本作までに発売されたシングルのうち「[sha la la](https://ja.wikipedia.org/wiki/sha_la_la "wikilink")」、「[潮騒](../Page/潮騒_\(Skoop_On_Somebodyの曲\).md "wikilink")」は企画盤『[Nice'n Slow Jam](https://ja.wikipedia.org/wiki/Nice'n_Slow_Jam "wikilink")』に前倒しで収録されたために未収録となっている。
+  - 『[Key of Love](https://ja.wikipedia.org/wiki/Key_of_Love "wikilink")』から本作までに発売されたシングルのうち「[sha la la](https://ja.wikipedia.org/wiki/sha_la_la "wikilink")」、「[潮騒](../Page/潮騒_\(Skoop_On_Somebodyの曲\).md "wikilink")」は企画盤『[Nice'n Slow Jam](../Page/Nice'n_Slow_Jam.md "wikilink")』に前倒しで収録されたために未収録となっている。
   - ボーナストラックの「You are so beautiful」 ([Joe Cockerのカバー](https://ja.wikipedia.org/wiki/Joe_Cocker "wikilink"))は本来収録予定ではなかったものの、ドラマで使用されたことで問い合わせが殺到し急遽初回盤のみ特典ディスクに収録された。
   - 「[a tomorrowsong](https://ja.wikipedia.org/wiki/a_tomorrowsong "wikilink")」のみ松尾潔プロデュースではないため、ボーナストラックとして収録されている。
   - アナログ盤も存在する。
@@ -26,7 +26,7 @@
 4.  **TAKE's Interlude〜Discipline of S.O.S.〜**
     作詞:松尾潔、S.O.S.　作曲・編曲:S.O.S.
 5.  **[ぼくが地球を救う〜Sounds Of Spirit〜](../Page/ぼくが地球を救う〜Sounds_Of_Spirit〜.md "wikilink") (Album Mix)**
-    作詞:松尾潔、S.O.S.　作曲:S.O.S.　編曲:[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
+    作詞:松尾潔、S.O.S.　作曲:S.O.S.　編曲:[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")
 6.  **On the Red Carpet**
     作詞:松尾潔　作曲・編曲:S.O.S.
 7.  **Long for You**
@@ -48,7 +48,7 @@
 15. **8.13〜Anniversary〜**
     作詞・作曲・編曲:S.O.S.
 16. **[atomorrowsong](https://ja.wikipedia.org/wiki/a_tomorrowsong "wikilink")**
-    作詞:松尾潔、S.O.S.　作曲・編曲:[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+    作詞:松尾潔、S.O.S.　作曲・編曲:[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
 17. **You are so beautiful** ※
     作詞・作曲・編曲:Fisher Bruce Carlton & Preston Billy
 

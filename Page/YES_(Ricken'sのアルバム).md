@@ -55,7 +55,7 @@ CDジャーナルは「軽さと重さが面白いバランスになってグイ
 ## 関連項目
 
   - [エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
 
 [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:Ricken'sのアルバム](https://ja.wikipedia.org/wiki/Category:Ricken'sのアルバム "wikilink")
 

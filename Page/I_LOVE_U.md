@@ -1,15 +1,15 @@
 > この記事は[I LOVE U](https://ja.wikipedia.org/wiki/I_LOVE_U)から翻訳されています。
 
 
-『**I  U**』（アイ ラブ ユー）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の12枚目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+『**I  U**』（アイ ラブ ユー）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の12枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
 前作『[シフクノオト](../Page/シフクノオト.md "wikilink")』から約1年半ぶりのアルバム。
 
-4曲A面シングル「[四次元 Four Dimensions](https://ja.wikipedia.org/wiki/四次元_Four_Dimensions "wikilink")」の中では「ヨーイドン」のみが未収録で、「[Sign](https://ja.wikipedia.org/wiki/Sign_\(Mr.Childrenの曲\) "wikilink")」のカップリング曲「妄想満月」「こんな風にひどく蒸し暑い日」も未収録となっている。
+4曲A面シングル「[四次元 Four Dimensions](../Page/四次元_Four_Dimensions.md "wikilink")」の中では「ヨーイドン」のみが未収録で、「[Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")」のカップリング曲「妄想満月」「こんな風にひどく蒸し暑い日」も未収録となっている。
 
-ジャケットは『[深海](https://ja.wikipedia.org/wiki/深海_\(アルバム\) "wikilink")』以来のアクリルケース入りで、デザインは[原稿用紙](../Page/原稿用紙.md "wikilink")の上に表題が記され、"  "の部分は潰れた[トマト](../Page/トマト.md "wikilink")で表現されている。歌詞カードには文字の配列によって模られた曲に関連する絵が載っているが、「靴ひも」だけは普通に載っている。歌詞カードをケースに入れた状態で黒いケースを取り外すと、巨大な"I  U"の文字が現れる。アートディレクターは[丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")。
+ジャケットは『[深海](../Page/深海_\(アルバム\).md "wikilink")』以来のアクリルケース入りで、デザインは[原稿用紙](../Page/原稿用紙.md "wikilink")の上に表題が記され、"  "の部分は潰れた[トマト](../Page/トマト.md "wikilink")で表現されている。歌詞カードには文字の配列によって模られた曲に関連する絵が載っているが、「靴ひも」だけは普通に載っている。歌詞カードをケースに入れた状態で黒いケースを取り外すと、巨大な"I  U"の文字が現れる。アートディレクターは[丹下紘希](../Page/丹下紘希.md "wikilink")。
 
 桜井は「[Bank BandではなくMr](../Page/Bank_Band.md "wikilink").Childrenだから鳴らせる音を求めた」と語り、「衝動を鳴らしたかった」「思いや言葉を理由をつけたりせずにただそのまま叫びたかった」と語っている。
 
@@ -20,8 +20,8 @@
 1.  **Worlds end** \[5:32\]
       -
         後にベストアルバム「[Mr.Children 2005-2010 ＜macro＞](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")」にも収録され、ベストアルバムのプロモーションで出演した[2012年](../Page/2012年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では「[365日](https://ja.wikipedia.org/wiki/SENSE_\(アルバム\)#収録曲 "wikilink")」と共にテレビ初披露された。
-        本作のアルバム曲で唯一[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が制作されている。監督は[丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")。[2009年](../Page/2009年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")発売の『TANGE KOKI VIDEO COLLECTION』と先述のベストアルバムの初回限定盤に収録されている。
-        [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")[藤浪晋太郎](https://ja.wikipedia.org/wiki/藤浪晋太郎 "wikilink")打席時登場曲（2014年）。
+        本作のアルバム曲で唯一[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されている。監督は[丹下紘希](../Page/丹下紘希.md "wikilink")。[2009年](../Page/2009年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")発売の『TANGE KOKI VIDEO COLLECTION』と先述のベストアルバムの初回限定盤に収録されている。
+        [阪神タイガース](../Page/阪神タイガース.md "wikilink")[藤浪晋太郎](https://ja.wikipedia.org/wiki/藤浪晋太郎 "wikilink")打席時登場曲（2014年）。
         歌詞カードの配列は地球と飛行機雲。
 2.  **Monster** \[3:59\]
       -
@@ -41,7 +41,7 @@
         歌詞カードの配列は花と地面。
 6.  **靴ひも** \[4:25\]
       -
-        間奏などに聞こえる[効果音](https://ja.wikipedia.org/wiki/効果音 "wikilink")は[ねじ](../Page/ねじ.md "wikilink")を巻く音である。
+        間奏などに聞こえる[効果音](../Page/効果音.md "wikilink")は[ねじ](../Page/ねじ.md "wikilink")を巻く音である。
         本作のライブツアー「[MR.CHILDREN DOME TOUR 2005 "I {{unicode](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_♥_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink")」のグッズとして、靴ひもをかたどった[携帯ストラップ](https://ja.wikipedia.org/wiki/携帯ストラップ "wikilink")が販売された。
         歌詞カードは靴ひもの写真の隣に普通に配列されている。
 7.  **CANDY** \[4:45\]
@@ -52,7 +52,7 @@
       -
         27thシングルの3曲目。
         歌詞カードの配列はスニーカー。
-9.  **[Sign](https://ja.wikipedia.org/wiki/Sign_\(Mr.Childrenの曲\) "wikilink")** \[5:22\]
+9.  **[Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")** \[5:22\]
       -
         26thシングル。
         歌詞カードの配列は樹木。
@@ -90,7 +90,7 @@
   - [四家卯大](https://ja.wikipedia.org/wiki/四家卯大 "wikilink")ストリングス：Strings (1.4.7.9.12)
   - [山本拓夫](../Page/山本拓夫.md "wikilink")：Sax (8)
   - [西村浩二](https://ja.wikipedia.org/wiki/西村浩二 "wikilink")：Trumpet (8.13)
-  - [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")：Trombone (13)
+  - [村田陽一](../Page/村田陽一.md "wikilink")：Trombone (13)
 
 ## 脚注
 

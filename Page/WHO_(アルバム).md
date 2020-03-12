@@ -5,7 +5,7 @@
 
 ## 内容
 
-作詞・作曲は奇数番号は佐々木収が、偶数番号は石田匠が手がけている。なお、石田が手がけた、「ふさわしい場所」は[The Kaleidoscope時代に製作して](https://ja.wikipedia.org/wiki/The_Kaleidoscope "wikilink")、CMソングに使われるものの、CD化することはなかったが、Ricken'sとしてのリメイク作である。1,2,11,12はシングル収録作品である。
+作詞・作曲は奇数番号は佐々木収が、偶数番号は石田匠が手がけている。なお、石田が手がけた、「ふさわしい場所」は[The Kaleidoscope時代に製作して](../Page/The_Kaleidoscope.md "wikilink")、CMソングに使われるものの、CD化することはなかったが、Ricken'sとしてのリメイク作である。1,2,11,12はシングル収録作品である。
 
 ## 批評
 
@@ -39,9 +39,9 @@ CDジャーナルは「楽曲やアレンジのソフトウェア的部分は80'
 
 ## 関連項目
 
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
   - [エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
-  - [SCRIPT](https://ja.wikipedia.org/wiki/SCRIPT "wikilink")
+  - [SCRIPT](../Page/SCRIPT.md "wikilink")
 
 [Category:Ricken'sのアルバム](https://ja.wikipedia.org/wiki/Category:Ricken'sのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink")
 

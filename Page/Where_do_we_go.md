@@ -6,7 +6,7 @@
 ## 概要
 
   - 現Skoop On SomebodyがSKOOP名義で発表した最後のアルバム。
-  - ゲストミュージシャンには[coba](https://ja.wikipedia.org/wiki/coba "wikilink")や[本田雅人](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")、[DJ FUMIYAらが参加している](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")。
+  - ゲストミュージシャンには[coba](https://ja.wikipedia.org/wiki/coba "wikilink")や[本田雅人](../Page/本田雅人.md "wikilink")、[DJ FUMIYAらが参加している](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")。
   - この作品が最後になるかもしれないという背水の陣で製作された。
 
 ## 収録曲

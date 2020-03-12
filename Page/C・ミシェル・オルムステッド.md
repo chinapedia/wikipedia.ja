@@ -3,7 +3,7 @@
 
 **C・ミシェル・オルムステッド**（C. Michelle Olmstead）はアメリカ人の女性[天文学者](../Page/天文学者.md "wikilink") ([1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - 、[Washington, D.C.](../Page/ワシントンD.C..md "wikilink"), USA.)である。
 
-彼女は[小惑星](../Page/小惑星.md "wikilink")を数多く発見した。また[周期彗星](https://ja.wikipedia.org/wiki/周期彗星 "wikilink")127P/[ホルト・オルムステッド彗星](https://ja.wikipedia.org/wiki/ホルト・オルムステッド彗星 "wikilink")の共同発見者でもあり、小惑星[(3287) オルムステッドは彼女の名が付けられている](https://ja.wikipedia.org/wiki/オルムステッド_\(小惑星\) "wikilink")。
+彼女は[小惑星](../Page/小惑星.md "wikilink")を数多く発見した。また[周期彗星](../Page/周期彗星.md "wikilink")127P/[ホルト・オルムステッド彗星](https://ja.wikipedia.org/wiki/ホルト・オルムステッド彗星 "wikilink")の共同発見者でもあり、小惑星[(3287) オルムステッドは彼女の名が付けられている](https://ja.wikipedia.org/wiki/オルムステッド_\(小惑星\) "wikilink")。
 
 |                                                                         |                                                                                               |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |

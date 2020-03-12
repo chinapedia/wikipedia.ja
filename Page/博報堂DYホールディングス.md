@@ -1,13 +1,13 @@
 > この記事は[DY](https://ja.wikipedia.org/wiki/DY)から翻訳されています。
 
 
-**株式会社博報堂DYホールディングス**（はくほうどうディーワイホールディングス、Hakuhodo DY Holdings Incorporated）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、[広告代理店](https://ja.wikipedia.org/wiki/広告代理店 "wikilink")の[持株会社](../Page/持株会社.md "wikilink")。
+**株式会社博報堂DYホールディングス**（はくほうどうディーワイホールディングス、Hakuhodo DY Holdings Incorporated）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、[広告代理店](../Page/広告代理店.md "wikilink")の[持株会社](../Page/持株会社.md "wikilink")。
 
-国内[広告](../Page/広告.md "wikilink")業界2位の[広告代理店](https://ja.wikipedia.org/wiki/広告代理店 "wikilink")グループである。[2003年](../Page/2003年.md "wikilink")10月に[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")、[大広](https://ja.wikipedia.org/wiki/大広 "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")の3社の株式移転により設立、完全親会社となった。
+国内[広告](../Page/広告.md "wikilink")業界2位の[広告代理店](../Page/広告代理店.md "wikilink")グループである。[2003年](../Page/2003年.md "wikilink")10月に[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")、[大広](../Page/大広.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")の3社の株式移転により設立、完全親会社となった。
 
 ## 歴史
 
-[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に株式移転により、株式会社博報堂DYホールディングスが設立された。[2003年](../Page/2003年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")、[大広](https://ja.wikipedia.org/wiki/大広 "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")のメディア事業を統合、[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")を設立した。
+[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に株式移転により、株式会社博報堂DYホールディングスが設立された。[2003年](../Page/2003年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")、[大広](../Page/大広.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")のメディア事業を統合、[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")を設立した。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")　本社事務所およびグループ企業本社事務所を、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")に移転。
 
@@ -29,11 +29,11 @@ AD+VENTUREを利用して、2014年に起業された会社を以下に挙げる
 ## 関連グループ企業
 
   - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")（米[オムニコム・グループ傘下の](https://ja.wikipedia.org/wiki/:en:Omnicom_Group "wikilink")[TBWAと合弁会社を持つ](https://ja.wikipedia.org/wiki/:en:TBWA "wikilink")）
-  - [大広](https://ja.wikipedia.org/wiki/大広 "wikilink")（米[インターパブリック・グループと業務提携](https://ja.wikipedia.org/wiki/:en:Interpublic "wikilink")）
+  - [大広](../Page/大広.md "wikilink")（米[インターパブリック・グループと業務提携](https://ja.wikipedia.org/wiki/:en:Interpublic "wikilink")）
   - [読売広告社](../Page/読売広告社.md "wikilink")
   - [D.A.コンソーシアムホールディングス](https://ja.wikipedia.org/wiki/D.A.コンソーシアムホールディングス "wikilink")
-  - [博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")
-      - [博報堂DYミュージック&ピクチャーズ](https://ja.wikipedia.org/wiki/博報堂DYミュージック&ピクチャーズ "wikilink")（旧東芝エンタテインメント）
+  - [博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")
+      - [博報堂DYミュージック&ピクチャーズ](../Page/博報堂DYミュージック&ピクチャーズ.md "wikilink")（旧東芝エンタテインメント）
 
 ## 出典・脚注
 

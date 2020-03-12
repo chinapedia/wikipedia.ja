@@ -13,7 +13,7 @@
 
 ※本項に記述されている曲順はCDアルバム版のもの 全作詞・作曲：つんく
 
-1.  '''[ザ☆ピ〜ス\!](https://ja.wikipedia.org/wiki/ザ☆ピ〜ス! "wikilink") (Complete Version) '''
+1.  '''[ザ☆ピ〜ス\!](../Page/ザ☆ピ〜ス!.md "wikilink") (Complete Version) '''
       -
         編曲：[ダンス☆マン](../Page/ダンス☆マン.md "wikilink")　ホーンアレンジ：川松久芳
         12thシングルのアルバムバージョン。シングルバージョンよりエンディングが長い。
@@ -24,7 +24,7 @@
       -
         編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")　ホーンアレンジ：小林正弘
         13thシングルのロングバージョン。
-        曲冒頭に約3分間のCDドラマが追加され、当時[市井紗耶香 in CUBIC-CROSSのメンバーだったたいせー](https://ja.wikipedia.org/wiki/市井紗耶香_in_CUBIC-CROSS "wikilink")（現在の[たいせい](https://ja.wikipedia.org/wiki/たいせい "wikilink")）がガードマン役で出演している。
+        曲冒頭に約3分間のCDドラマが追加され、当時[市井紗耶香 in CUBIC-CROSSのメンバーだったたいせー](../Page/市井紗耶香_in_CUBIC-CROSS.md "wikilink")（現在の[たいせい](../Page/たいせい.md "wikilink")）がガードマン役で出演している。
 4.  **初めてのロックコンサート**
       -
         歌：[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")、[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")。
@@ -37,7 +37,7 @@
       -
         編曲：ダンス☆マン
         14thシングル。
-7.  '''[でっかい宇宙に愛がある](https://ja.wikipedia.org/wiki/ザ☆ピ〜ス! "wikilink") (Album Version) '''
+7.  '''[でっかい宇宙に愛がある](../Page/ザ☆ピ〜ス!.md "wikilink") (Album Version) '''
       -
         編曲：鈴木俊介
         12thシングルカップリングのアルバムバージョン。
@@ -55,7 +55,7 @@
         編曲：ダンス☆マン　ホーンアレンジ：川松久芳
 11. **好きな先輩**
       -
-        編曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
+        編曲：[高橋諭一](../Page/高橋諭一.md "wikilink")
         5期メンバーの4名による楽曲。
 12. **[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")（13人 Version）**
       -
@@ -64,7 +64,7 @@
 13. **なんにも言わずに I LOVE YOU**
       -
         編曲：小西貴雄
-        後に石川梨華らによる[美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")が[ラストシングルとしてカバーした](https://ja.wikipedia.org/wiki/なんにも言わずに_I_LOVE_YOU "wikilink")。
+        後に石川梨華らによる[美勇伝](../Page/美勇伝.md "wikilink")が[ラストシングルとしてカバーした](https://ja.wikipedia.org/wiki/なんにも言わずに_I_LOVE_YOU "wikilink")。
 
 ## 参加メンバー
 
@@ -76,8 +76,8 @@
 
 ## 参加ミュージシャン
 
-  - [桑野信義](https://ja.wikipedia.org/wiki/桑野信義 "wikilink")：トランペット
-  - [渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink")：キーボード
+  - [桑野信義](../Page/桑野信義.md "wikilink")：トランペット
+  - [渡部チェル](../Page/渡部チェル.md "wikilink")：キーボード
   - [稲葉貴子](../Page/稲葉貴子.md "wikilink")：コーラス
 
 <!-- end list -->
@@ -88,8 +88,8 @@
       - 徳永友美 - [バイオリン](../Page/ヴァイオリン.md "wikilink")
       - [山本拓夫](../Page/山本拓夫.md "wikilink") - [クラリネット](../Page/クラリネット.md "wikilink")&サックス
       - [橋本慎](https://ja.wikipedia.org/wiki/Sin_\(音楽プロデューサー\) "wikilink") - 追加プログラミング
-      - [たいせー](https://ja.wikipedia.org/wiki/たいせい "wikilink") - [ガードマン](https://ja.wikipedia.org/wiki/ガードマン "wikilink")
-      - つんく - [MC](https://ja.wikipedia.org/wiki/司会 "wikilink")
+      - [たいせー](../Page/たいせい.md "wikilink") - [ガードマン](https://ja.wikipedia.org/wiki/ガードマン "wikilink")
+      - つんく - [MC](../Page/司会.md "wikilink")
 
 ## 楽譜
 
@@ -105,4 +105,4 @@
 
 [Category:モーニング娘。のアルバム](https://ja.wikipedia.org/wiki/Category:モーニング娘。のアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  [モー娘。・タンポポ・嶋大輔などアナログ化。タワレコ限定レコード（AV Watch）](https://av.watch.impress.co.jp/docs/news/1173750.html) - [インプレス](https://ja.wikipedia.org/wiki/インプレス "wikilink") 2019年3月8日
+1.  [モー娘。・タンポポ・嶋大輔などアナログ化。タワレコ限定レコード（AV Watch）](https://av.watch.impress.co.jp/docs/news/1173750.html) - [インプレス](../Page/インプレス.md "wikilink") 2019年3月8日

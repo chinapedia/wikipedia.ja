@@ -3,7 +3,7 @@
 
 **MID都市開発株式会社**（エムアイディとしかいはつ、*MID Urban Development Co., Ltd.*）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置いていた](../Page/北区_\(大阪市\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[不動産会社](../Page/不動産会社.md "wikilink")である。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）に[経営破綻](https://ja.wikipedia.org/wiki/経営破綻 "wikilink")した[松下興産](../Page/松下興産.md "wikilink")の不動産部門を前身とし、[2009年](../Page/2009年.md "wikilink")（平成21年）以降、[関西電力](../Page/関西電力.md "wikilink")の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")となり、[2016年](../Page/2016年.md "wikilink")（平成28年）に関電不動産（現・関電不動産開発）に吸収合併され消滅した。
+[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）に[経営破綻](https://ja.wikipedia.org/wiki/経営破綻 "wikilink")した[松下興産](../Page/松下興産.md "wikilink")の不動産部門を前身とし、[2009年](../Page/2009年.md "wikilink")（平成21年）以降、[関西電力](../Page/関西電力.md "wikilink")の[子会社](../Page/子会社.md "wikilink")となり、[2016年](../Page/2016年.md "wikilink")（平成28年）に関電不動産（現・関電不動産開発）に吸収合併され消滅した。
 
 ## 概要
 
@@ -13,15 +13,15 @@ MID都市開発は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page
 
 ## 沿革
 
-[松下興産](../Page/松下興産.md "wikilink")が開発した[和歌山マリーナシティ](https://ja.wikipedia.org/wiki/和歌山マリーナシティ "wikilink")の運営会社として、1999年（平成11年）4月に和歌山ロイヤルパインズ株式会社として設立された。
+[松下興産](../Page/松下興産.md "wikilink")が開発した[和歌山マリーナシティ](../Page/和歌山マリーナシティ.md "wikilink")の運営会社として、1999年（平成11年）4月に和歌山ロイヤルパインズ株式会社として設立された。
 
 松下グループの不動産会社であった[松下興産](../Page/松下興産.md "wikilink")は自社開発したホテルや[妙高パインバレーなどリゾートに対する過剰投資などから債務超過を脱することができず](https://ja.wikipedia.org/wiki/アパリゾート上越妙高 "wikilink")、2005年（平成17年）3月に筆頭株主のエートス・キャピタル主導により[新旧分離](https://ja.wikipedia.org/wiki/新旧分離 "wikilink")処理が行われることとなった。
 
 松下興産(初代)の事業のうちオフィスビル事業など採算が見込まれる部門についてのみ譲渡を受けることになり、社名を和歌山ロイヤルパインズから「松下興産(2代目)」に変更。同年[9月30日](../Page/9月30日.md "wikilink")には**MID都市開発株式会社**に商号変更した。松下興産(初代)は豊秀興産へ社名変更し、妙高パインバレーを[アパグループ](../Page/アパグループ.md "wikilink")に売却後、同年9月30日に特別清算開始決定をうけ事実上倒産した。
 
-2006年（平成18年）2月、本社をそれまでの大阪府[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")から大阪市北区[堂島](https://ja.wikipedia.org/wiki/堂島 "wikilink")の[アクア堂島](https://ja.wikipedia.org/wiki/アクア堂島 "wikilink")東館に移転\[1\]。2008年（平成20年）[2月14日](../Page/2月14日.md "wikilink")、[東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場予定だったが、上場を延期\[2\]。
+2006年（平成18年）2月、本社をそれまでの大阪府[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")から大阪市北区[堂島](../Page/堂島.md "wikilink")の[アクア堂島](https://ja.wikipedia.org/wiki/アクア堂島 "wikilink")東館に移転\[1\]。2008年（平成20年）[2月14日](../Page/2月14日.md "wikilink")、[東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場予定だったが、上場を延期\[2\]。
 
-2009年（平成21年）10月20日、エートス・キャピタルがそれまで8割程度保有していたMID都市開発の株式を、[かんでんグループに売却する計画があると発表](../Page/関西電力.md "wikilink")、翌2009年（平成21年）12月にMIDおよびその子会社（以下「MIDグループ」）は[関西電力](../Page/関西電力.md "wikilink")の[連結子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")となった。
+2009年（平成21年）10月20日、エートス・キャピタルがそれまで8割程度保有していたMID都市開発の株式を、[かんでんグループに売却する計画があると発表](../Page/関西電力.md "wikilink")、翌2009年（平成21年）12月にMIDおよびその子会社（以下「MIDグループ」）は[関西電力](../Page/関西電力.md "wikilink")の[連結子会社](../Page/連結子会社.md "wikilink")となった。
 
 2016年（平成28年）4月1日、関電不動産（現 [関電不動産開発](https://ja.wikipedia.org/wiki/関電不動産開発 "wikilink")）に吸収合併され消滅した。
 
@@ -46,7 +46,7 @@ MID都市開発は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page
 <!-- end list -->
 
   - オフィス　64％
-  - [リテール](https://ja.wikipedia.org/wiki/リテール "wikilink")　29％
+  - [リテール](../Page/リテール.md "wikilink")　29％
   - その他　7％
 
 ## 開発戸建住宅地
@@ -60,7 +60,7 @@ MID都市開発は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page
   - ロジェアレーズ宝塚中山（兵庫県宝塚市）
   - パナタウン[桜ヶ丘](https://ja.wikipedia.org/wiki/桜ヶ丘 "wikilink")
   - ナショナル住宅伊川谷宅地開発（神戸市）
-  - ガーデンシティ舞多聞「ロジェ・プラネの丘」（神戸市垂水区、[新星和不動産と](https://ja.wikipedia.org/wiki/大林新星和不動産 "wikilink")）
+  - ガーデンシティ舞多聞「ロジェ・プラネの丘」（神戸市垂水区、[新星和不動産と](../Page/大林新星和不動産.md "wikilink")）
   - ロジェアレーズ豊中岡町（大阪府豊中市）
 
 ## 関連企業
@@ -72,9 +72,9 @@ MID都市開発は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page
 ### かつての関連企業
 
   - [松下興産](../Page/松下興産.md "wikilink")（2005年に[新旧分離](https://ja.wikipedia.org/wiki/新旧分離 "wikilink")のうえ豊秀興産に商号変更し[特別清算](https://ja.wikipedia.org/wiki/特別清算 "wikilink")）
-  - MIDツーリスト（旧・松下旅行、現・[エムハートツーリスト](https://ja.wikipedia.org/wiki/エムハートツーリスト "wikilink")　[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink")より[日本旅行](../Page/日本旅行.md "wikilink")グループ）
+  - MIDツーリスト（旧・松下旅行、現・[エムハートツーリスト](https://ja.wikipedia.org/wiki/エムハートツーリスト "wikilink")　[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")より[日本旅行](../Page/日本旅行.md "wikilink")グループ）
   - MIDホールディングス（2007年4月、MID都市開発と合併、MIDグループ[持株会社](../Page/持株会社.md "wikilink")）
-  - MIDクリエイト（2007年8月、MIDプロパティマネジメントと合併、[OBP内イベントホール管理](https://ja.wikipedia.org/wiki/大阪ビジネスパーク "wikilink")）
+  - MIDクリエイト（2007年8月、MIDプロパティマネジメントと合併、[OBP内イベントホール管理](../Page/大阪ビジネスパーク.md "wikilink")）
   - [ロイヤルパインズ](https://ja.wikipedia.org/wiki/ロイヤルパインズ "wikilink")株式会社（2004年に松下興産から株式譲渡され、エートス・キャピタル直下となる。）
 
 ## 脚注

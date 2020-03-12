@@ -7,20 +7,20 @@
 
 ### 現在のメンバー
 
-  - [宮田和弥](https://ja.wikipedia.org/wiki/宮田和弥 "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）ほとんどの楽曲で作詞を担当。元[ジェット機](../Page/ジェット機_\(バンド\).md "wikilink")
-  - [森純太](https://ja.wikipedia.org/wiki/森純太 "wikilink")（[ギター](../Page/ギター.md "wikilink")）[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。同じく作曲を担当。元BARBIE ATTACK DOLL(S)、[Ai+BAND](https://ja.wikipedia.org/wiki/Ai+BAND "wikilink")
-  - [寺岡呼人](../Page/寺岡呼人.md "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）現在は、音楽プロデューサー兼ソロ・ミュージシャン。女優の[白川和子](../Page/白川和子.md "wikilink")の甥。
-  - [小林雅之](https://ja.wikipedia.org/wiki/小林雅之 "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）元[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")
+  - [宮田和弥](../Page/宮田和弥.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）ほとんどの楽曲で作詞を担当。元[ジェット機](../Page/ジェット機_\(バンド\).md "wikilink")
+  - [森純太](https://ja.wikipedia.org/wiki/森純太 "wikilink")（[ギター](../Page/ギター.md "wikilink")）[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。同じく作曲を担当。元BARBIE ATTACK DOLL(S)、[Ai+BAND](../Page/Ai+BAND.md "wikilink")
+  - [寺岡呼人](../Page/寺岡呼人.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）現在は、音楽プロデューサー兼ソロ・ミュージシャン。女優の[白川和子](../Page/白川和子.md "wikilink")の甥。
+  - [小林雅之](https://ja.wikipedia.org/wiki/小林雅之 "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）元[POTSHOT](../Page/POTSHOT.md "wikilink")
 
 ### 過去に在籍したメンバー
 
-  - [伊藤毅](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）　\[1980(結成) - 1988(デビュー前)、1993(寺岡脱退) - 1997(解散)\]
+  - [伊藤毅](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）　\[1980(結成) - 1988(デビュー前)、1993(寺岡脱退) - 1997(解散)\]
 
 ## 略歴
 
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[自由学園](https://ja.wikipedia.org/wiki/自由学園 "wikilink")の学生だった宮田和弥(Vo)、森純太(G)、伊藤毅(B)、小林雅之(Dr)によって結成
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代後半、[ホコ天で人気を得る](https://ja.wikipedia.org/wiki/歩行者天国 "wikilink")。
-  - [1988年](../Page/1988年.md "wikilink")、2月に伊藤が脱退し、伊藤はその後、[THE STREET BEATSに加入](../Page/THE_STREET_BEATS.md "wikilink")→脱退し、[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")に加入し、中島みゆきなどの[ディレクター](../Page/ディレクター.md "wikilink")として活動する。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代後半、[ホコ天で人気を得る](../Page/歩行者天国.md "wikilink")。
+  - [1988年](../Page/1988年.md "wikilink")、2月に伊藤が脱退し、伊藤はその後、[THE STREET BEATSに加入](../Page/THE_STREET_BEATS.md "wikilink")→脱退し、[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")に加入し、中島みゆきなどの[ディレクター](../Page/ディレクター.md "wikilink")として活動する。
   - 1988年、弟がメンバー達の後輩だったことでJ(S)Wを知り、スタッフとして協力していた寺岡呼人が新しくベーシストとして加入。同年[5月21日](../Page/5月21日.md "wikilink")[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりミニアルバム『[全部このままで](https://ja.wikipedia.org/wiki/全部このままで "wikilink")』でメジャーデビュー。
   - [1989年](../Page/1989年.md "wikilink")、日比谷野外音楽堂(4/23)での初ワンマンは豪雨に見舞われ、これよりJ(S)Wの野音に雨はつきものとなった。同年[6月21日](../Page/6月21日.md "wikilink")発売のアルバム『[歩いていこう](https://ja.wikipedia.org/wiki/歩いていこう_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")』がオリコンチャート3位を獲得する。この年、[日本武道館](../Page/日本武道館.md "wikilink")でライブを行う。
   - 1989年、2月に大阪城ホール、名古屋レインボーホール、日本武道館(2/26,27,28)でアリーナライブを行う。同年行われた名古屋で中京テレビのイベント「夢浪漫」で無料ライブを庄内緑地にて行う。このライブには2万人ものファンが詰め掛けた。
@@ -29,19 +29,19 @@
   - [1991年](../Page/1991年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に発売したアルバム『[START](https://ja.wikipedia.org/wiki/START_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")』が初のアルバムオリコンチャート1位を獲得する。同年3月と4月に東京での8日間、渋谷公会堂(3/27，28，29，4/16，17，18）、日比谷野外音楽堂(4/13，14）でライブを行う。同年11月には、6thアルバム『[TOO BAD](https://ja.wikipedia.org/wiki/TOO_BAD "wikilink")』リリース。
   - [1992年](../Page/1992年.md "wikilink")、日本武道館4日間（3/11、12、13、16）、名古屋市民会館5日間（3/18、20、25、26、27）、大阪城ホール（3/31）で行われたライブはすべてSOLD OUT。同年10月　7thアルバム『[STAR BLUE](https://ja.wikipedia.org/wiki/STAR_BLUE "wikilink")』リリース。
   - [1993年](../Page/1993年.md "wikilink")、毎年恒例の春の日比谷野外音楽堂でのライブ開催（4/3、4）、今回は“2DAYS 50 SONS”と題して2日間で50曲（実際は51曲）ダブリ無しで演奏。この野音でJ(S)Wとしての“1年間ライブ休業”を発表。同年9月に寺岡脱退。同年11月に初期メンバーの伊藤が再加入。寺岡はその後、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")などへの楽曲提供、[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")、[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")、[藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")などの[プロデュースを行いつつ](../Page/音楽プロデューサー.md "wikilink")、ソロ・ミュージシャンとして活動する。
-  - [1994年](../Page/1994年.md "wikilink")、レコード会社を[EPIC・ソニーレコードに移籍](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。同年5月8thアルバム『[DAYS](https://ja.wikipedia.org/wiki/DAYS_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")』リリース
+  - [1994年](../Page/1994年.md "wikilink")、レコード会社を[EPIC・ソニーレコードに移籍](../Page/エピックレコードジャパン.md "wikilink")。同年5月8thアルバム『[DAYS](https://ja.wikipedia.org/wiki/DAYS_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")』リリース
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月、9thアルバム『[nine](https://ja.wikipedia.org/wiki/nine_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")』リリース
   - [1996年](../Page/1996年.md "wikilink")7月、10thアルバム『[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")』リリース
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月に解散を発表し、最後のベストアルバム『MY GENERATION』をリリース。解散ツアー「HELLO」を行い、最終日である[6月14日](../Page/6月14日.md "wikilink")[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブにて解散した。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")(詳しいソロの活動については各個人の項目を参照)
-      - 宮田和弥は、ソロ名義で2枚のアルバムを発表したのち、[ユニコーンの川西幸一らと共に新バンド](https://ja.wikipedia.org/wiki/UNICORN "wikilink")「ジェット機」を結成。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2006年](../Page/2006年.md "wikilink")(詳しいソロの活動については各個人の項目を参照)
+      - 宮田和弥は、ソロ名義で2枚のアルバムを発表したのち、[ユニコーンの川西幸一らと共に新バンド](../Page/UNICORN.md "wikilink")「ジェット機」を結成。
       - 森純太は、プロデュース業やAi Bandなどを経て、自身がフロントを務めるバンド「BARBIE ATTACK DOLL(S)」を結成。
-      - 伊藤毅は、再びディレクターとしての活動をしつつ、宮田のソロライヴにベーシストとして参加するなどしていた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には自身が参加していたバンド[THE VANILAを再結成する](https://ja.wikipedia.org/wiki/THE_VANILA "wikilink")。
-      - 小林雅之は、[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")への加入→解散後はフリーのドラマーとして活動し、妻の実家である塗装会社で勤務している。
+      - 伊藤毅は、再びディレクターとしての活動をしつつ、宮田のソロライヴにベーシストとして参加するなどしていた。[2006年](../Page/2006年.md "wikilink")には自身が参加していたバンド[THE VANILAを再結成する](https://ja.wikipedia.org/wiki/THE_VANILA "wikilink")。
+      - 小林雅之は、[POTSHOT](../Page/POTSHOT.md "wikilink")への加入→解散後はフリーのドラマーとして活動し、妻の実家である塗装会社で勤務している。
   - [2007年](../Page/2007年.md "wikilink")
       - 5月、小林の呼びかけで寺岡、森、宮田の4人で食事をしたところ話が盛り上がり久しぶりにとバンドを再結成、世話になった渋谷La.mama25周年と名古屋E.L.L30周年記念ということもありJUN SKY WALKER(S)の2夜限り再結成ライヴが実現した。
       - [9月2日](../Page/9月2日.md "wikilink")、解散以来10年ぶりに再結成することを発表した。宮田、森、寺岡、小林のメンバー構成で11月から神戸を皮切りに4ヶ所で「J(S)W 20th ANNIVERSARY PRE FESTIVAL」を行う。
-      - [9月20日](../Page/9月20日.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列にて放送された『[アメトーーーーーーク懐かしテレビ&アニメものまね高速ベロSP](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")』にゲスト出演し、番組内にてスタジオライブを披露し、「[歩いていこう](../Page/歩いていこう_\(JUN_SKY_WALKER\(S\)の曲\).md "wikilink")」・「全部このままで」の2曲を演奏した。さらに、9月27日放送の『アメトーーク\!』にて20日のスペシャルでの未公開映像を放送し、「MY GENERATION」を演奏していたところも放映された。
+      - [9月20日](../Page/9月20日.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列にて放送された『[アメトーーーーーーク懐かしテレビ&アニメものまね高速ベロSP](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")』にゲスト出演し、番組内にてスタジオライブを披露し、「[歩いていこう](../Page/歩いていこう_\(JUN_SKY_WALKER\(S\)の曲\).md "wikilink")」・「全部このままで」の2曲を演奏した。さらに、9月27日放送の『アメトーーク\!』にて20日のスペシャルでの未公開映像を放送し、「MY GENERATION」を演奏していたところも放映された。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 1月、寺岡呼人が主催の音楽イベント「Golden Circle Vol.11」出演。
       - 2月 - 5月、J(S)W 20th ANNIVERSARY TOUR "MY GENERATION"で全国32箇所のライブハウスを回った。ツアーファイナルは東京渋谷のC.C.LEMON HALL（33公演目）。
@@ -59,18 +59,18 @@
       - 1月、再録ベストアルバム『[B(S)T](https://ja.wikipedia.org/wiki/B\(S\)T "wikilink")』をリリース。
       - 2月 - 4月、ライブツアー「JUN SKY WALKER(S) TOUR 2012 “B(S)T”〜完全復活〜」を開催。ツアーファイナルは、[4月28日](../Page/4月28日.md "wikilink")に[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")で迎えた\[2\]。
       - 4月、16年ぶりのオリジナルアルバム『[LOST\&FOUND](https://ja.wikipedia.org/wiki/LOST&FOUND "wikilink")』をリリース。
-      - 6月 - 7月、ライブツアー「J(S)W TOUR 2012 “LOST\&FOUND” FIRST STAGE」を開催\[3\]。ツアーファイナルは、[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")で迎えた\[4\]。
+      - 6月 - 7月、ライブツアー「J(S)W TOUR 2012 “LOST\&FOUND” FIRST STAGE」を開催\[3\]。ツアーファイナルは、[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で迎えた\[4\]。
       - 11月、ライブツアー「TOUR 2012 “LOST\&FOUND” SECOND STAGE」を開催\[5\]。
       - 12月、TSUTAYAレンタル限定CD「[マザー/BEAUTIFUL WORLD](https://ja.wikipedia.org/wiki/マザー/BEAUTIFUL_WORLD "wikilink")」をリリース\[6\]。
   - [2013年](../Page/2013年.md "wikilink")
       - 1月、シングル「[虹](https://ja.wikipedia.org/wiki/虹_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")」をリリース。同曲は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系[アニメ](../Page/アニメ.md "wikilink")『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』エンディングテーマに起用された\[7\]。
       - 2月、オリジナルアルバム『[FLAGSHIP](https://ja.wikipedia.org/wiki/FLAGSHIP "wikilink")』をリリース\[8\]。
       - 3月 - 5月、ライブツアー「J(S)W 25th TOUR 〜Anniversary〜」を開催\[9\]。
-      - [5月21日](../Page/5月21日.md "wikilink")、 25周年スペシャルライブ「〜この日から僕らは歩いてきた〜　J(S)W 25周年スペシャルライブ」を[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で開催\[10\]。当日は、オリジナルメンバーの伊藤毅、デビュー前から親交のある[ニューロティカ](https://ja.wikipedia.org/wiki/ニューロティカ "wikilink")やメンバーが尊敬する[子供ばんど](https://ja.wikipedia.org/wiki/子供ばんど "wikilink")の[うじきつよし](../Page/うじきつよし.md "wikilink")をゲストに迎えた\[11\]。
+      - [5月21日](../Page/5月21日.md "wikilink")、 25周年スペシャルライブ「〜この日から僕らは歩いてきた〜　J(S)W 25周年スペシャルライブ」を[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で開催\[10\]。当日は、オリジナルメンバーの伊藤毅、デビュー前から親交のある[ニューロティカ](../Page/ニューロティカ.md "wikilink")やメンバーが尊敬する[子供ばんど](https://ja.wikipedia.org/wiki/子供ばんど "wikilink")の[うじきつよし](../Page/うじきつよし.md "wikilink")をゲストに迎えた\[11\]。
   - [2014年](../Page/2014年.md "wikilink")
       - [1月11日](../Page/1月11日.md "wikilink")、「25TH ANNIVERSARY LIVE BEST of JUN SKY WALKER(S)」を日本武道館で開催\[12\]。武道館公演は、2011年10月にユニコーンと対バンライブを行っているが、単独では活動再開後初となる\[13\]。
   - 2017年
-      - [ドリーミュージック](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")に移籍を発表\[14\]。
+      - [ドリーミュージック](../Page/ドリーミュージック.md "wikilink")に移籍を発表\[14\]。
 
 <!-- end list -->
 
@@ -179,22 +179,22 @@
 
 ### シングル
 
-| \#   | 発売日         | タイトル                                                                                     | レーベル                                                             | 備考                                                                                                                          |
-| ---- | ----------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1st  | 1988年11月10日 | **[すてきな夜空](https://ja.wikipedia.org/wiki/すてきな夜空 "wikilink")**                            | TOY'S FACTORY                                                    |                                                                                                                             |
-| 2nd  | 1989年6月21日  | **[歩いていこう](../Page/歩いていこう_\(JUN_SKY_WALKER\(S\)の曲\).md "wikilink")**                     | TOY'S FACTORY                                                    | [PanasonicヘッドフォンステレオCM](https://ja.wikipedia.org/wiki/パナソニック "wikilink")(CMにも出演)                                            |
-| 3rd  | 1989年11月21日 | **[白いクリスマス](https://ja.wikipedia.org/wiki/白いクリスマス "wikilink")**                          | TOY'S FACTORY                                                    |                                                                                                                             |
-| 4th  | 1991年1月21日  | **[START](../Page/START_\(JUN_SKY_WALKER\(S\)の曲\).md "wikilink")**                       | TOY'S FACTORY                                                    | [ローソン](../Page/ローソン.md "wikilink")CM                                                                                        |
-| 5th  | 1991年10月25日 | **[つめこんだHAPPY](https://ja.wikipedia.org/wiki/つめこんだHAPPY "wikilink")**                    | TOY'S FACTORY                                                    | [ローソン](../Page/ローソン.md "wikilink")CM                                                                                        |
-| 6th  | 1992年1月15日  | **[だから自由はここにある](https://ja.wikipedia.org/wiki/だから自由はここにある "wikilink")**                  | TOY'S FACTORY                                                    |                                                                                                                             |
-| 7th  | 1992年10月21日 | '''[メッセージ](https://ja.wikipedia.org/wiki/メッセージ_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink") ''' | TOY'S FACTORY                                                    | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[クイズ\!年の差なんて](../Page/クイズ!年の差なんて.md "wikilink")』エンディングテーマ       |
-| 8th  | 1993年3月11日  | **[君が輝きつづけるように](https://ja.wikipedia.org/wiki/君が輝きつづけるように "wikilink")**                  | TOY'S FACTORY                                                    | [HONDA](../Page/本田技研工業.md "wikilink")「トゥディ」CM                                                                               |
-| 9th  | 1994年4月21日  | **[100%無敵](https://ja.wikipedia.org/wiki/100%無敵 "wikilink")**                            | EPIC SONY                                                        | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[BSヤングバトル](https://ja.wikipedia.org/wiki/BSヤングバトル "wikilink")』テーマソング |
-| 10th | 1995年4月1日   | **[さらば愛しき危険たちよ](https://ja.wikipedia.org/wiki/さらば愛しき危険たちよ "wikilink")**                  | EPIC SONY                                                        | [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")カセット「New AD」CM                                                           |
-| 11th | 1996年6月21日  | **[愛しい人よ](https://ja.wikipedia.org/wiki/愛しい人よ "wikilink")**                              | EPIC SONY                                                        |                                                                                                                             |
-| 12th | 2008年9月10日  | **[青春](https://ja.wikipedia.org/wiki/青春_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**          | TOY'S FACTORY                                                    |                                                                                                                             |
-| 13th | 2013年1月30日  | **[虹](https://ja.wikipedia.org/wiki/虹_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**            | [IVY Records](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink") | フジテレビ系アニメ『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』エンディングテーマ。また、同アニメには2013年2月17日放送分でメンバー全員で声優として出演した\[18\]。      |
-|      |             |                                                                                          |                                                                  |                                                                                                                             |
+| \#   | 発売日         | タイトル                                                                                     | レーベル                                                             | 備考                                                                                                                     |
+| ---- | ----------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1st  | 1988年11月10日 | **[すてきな夜空](https://ja.wikipedia.org/wiki/すてきな夜空 "wikilink")**                            | TOY'S FACTORY                                                    |                                                                                                                        |
+| 2nd  | 1989年6月21日  | **[歩いていこう](../Page/歩いていこう_\(JUN_SKY_WALKER\(S\)の曲\).md "wikilink")**                     | TOY'S FACTORY                                                    | [PanasonicヘッドフォンステレオCM](https://ja.wikipedia.org/wiki/パナソニック "wikilink")(CMにも出演)                                       |
+| 3rd  | 1989年11月21日 | **[白いクリスマス](https://ja.wikipedia.org/wiki/白いクリスマス "wikilink")**                          | TOY'S FACTORY                                                    |                                                                                                                        |
+| 4th  | 1991年1月21日  | **[START](../Page/START_\(JUN_SKY_WALKER\(S\)の曲\).md "wikilink")**                       | TOY'S FACTORY                                                    | [ローソン](../Page/ローソン.md "wikilink")CM                                                                                   |
+| 5th  | 1991年10月25日 | **[つめこんだHAPPY](https://ja.wikipedia.org/wiki/つめこんだHAPPY "wikilink")**                    | TOY'S FACTORY                                                    | [ローソン](../Page/ローソン.md "wikilink")CM                                                                                   |
+| 6th  | 1992年1月15日  | **[だから自由はここにある](https://ja.wikipedia.org/wiki/だから自由はここにある "wikilink")**                  | TOY'S FACTORY                                                    |                                                                                                                        |
+| 7th  | 1992年10月21日 | '''[メッセージ](https://ja.wikipedia.org/wiki/メッセージ_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink") ''' | TOY'S FACTORY                                                    | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[クイズ\!年の差なんて](../Page/クイズ!年の差なんて.md "wikilink")』エンディングテーマ  |
+| 8th  | 1993年3月11日  | **[君が輝きつづけるように](https://ja.wikipedia.org/wiki/君が輝きつづけるように "wikilink")**                  | TOY'S FACTORY                                                    | [HONDA](../Page/本田技研工業.md "wikilink")「トゥディ」CM                                                                          |
+| 9th  | 1994年4月21日  | **[100%無敵](https://ja.wikipedia.org/wiki/100%無敵 "wikilink")**                            | EPIC SONY                                                        | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[BSヤングバトル](../Page/BSヤングバトル.md "wikilink")』テーマソング               |
+| 10th | 1995年4月1日   | **[さらば愛しき危険たちよ](https://ja.wikipedia.org/wiki/さらば愛しき危険たちよ "wikilink")**                  | EPIC SONY                                                        | [TDK](../Page/TDK.md "wikilink")カセット「New AD」CM                                                                         |
+| 11th | 1996年6月21日  | **[愛しい人よ](https://ja.wikipedia.org/wiki/愛しい人よ "wikilink")**                              | EPIC SONY                                                        |                                                                                                                        |
+| 12th | 2008年9月10日  | **[青春](https://ja.wikipedia.org/wiki/青春_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**          | TOY'S FACTORY                                                    |                                                                                                                        |
+| 13th | 2013年1月30日  | **[虹](https://ja.wikipedia.org/wiki/虹_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**            | [IVY Records](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink") | フジテレビ系アニメ『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』エンディングテーマ。また、同アニメには2013年2月17日放送分でメンバー全員で声優として出演した\[18\]。 |
+|      |             |                                                                                          |                                                                  |                                                                                                                        |
 
 #### TSUTAYAレンタル限定CD
 
@@ -537,7 +537,7 @@ HEAVY DRINKERS名義で発売。</p></td>
 <tr class="even">
 <td><p>2012年7月10日</p></td>
 <td><p><strong>ARENA37℃ 1988‐1993 !</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/音楽専科社" title="wikilink">音楽専科社</a></p></td>
+<td><p><a href="../Page/音楽専科社.md" title="wikilink">音楽専科社</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月21日</p></td>
@@ -571,13 +571,13 @@ CDとして発表されたもののみ。
 <tbody>
 <tr class="odd">
 <td><p>デス・ダイヤー<br />
-（<a href="https://ja.wikipedia.org/wiki/ジグソー" title="wikilink">ジグソー</a>）</p></td>
+（<a href="../Page/ジグソー.md" title="wikilink">ジグソー</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/白いクリスマス" title="wikilink">白いクリスマス</a></p></td>
 <td><p>アルバム（V.A）『英語ヴァージョンで聴く J-POP クリスマス ソング スーパーヒッツ』（1991/10/23）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ベンチャーズ" title="wikilink">THE VENTURES</a></p></td>
+<td><p><a href="../Page/ザ・ベンチャーズ.md" title="wikilink">THE VENTURES</a></p></td>
 <td><p>君が輝き続けるように</p></td>
 <td><p>アルバム（'93来日記念盤）『THE VENTURES PLAY MEGA HITS ザ・ベンチャーズ プレイ・大ヒット決定盤』（1993/07/07）</p></td>
 <td></td>
@@ -589,21 +589,21 @@ CDとして発表されたもののみ。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Whiteberry" title="wikilink">Whiteberry</a></p></td>
+<td><p><a href="../Page/Whiteberry.md" title="wikilink">Whiteberry</a></p></td>
 <td><p>声がなくなるまで</p></td>
 <td><p>Maxiシングル『声がなくなるまで』（2002/11/27）<br />
 ベストアルバム『<a href="../Page/GOLDEN☆BEST_Whiteberry.md" title="wikilink">GOLDEN☆BEST Whiteberry</a>』（2008/08/27）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Ai+BAND" title="wikilink">Ai</a>(Ai+BAND)</p></td>
+<td><p><a href="../Page/Ai+BAND.md" title="wikilink">Ai</a>(Ai+BAND)</p></td>
 <td><p>すてきな夜空</p></td>
 <td><p>Maxiシングル『すてきな夜空』（2003/3/26）<br />
 アルバム『Hello! We are AI+BAND</p></td>
 <td><p>』（2003/08/20）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PANG" title="wikilink">PANG</a></p></td>
+<td><p><a href="../Page/PANG.md" title="wikilink">PANG</a></p></td>
 <td><p>すてきな夜空</p></td>
 <td><p>アルバム『ペゾラ』（2003/06/18）</p></td>
 <td></td>
@@ -682,12 +682,12 @@ CDとして発表されたもののみ。
   - [田村淳](../Page/田村淳.md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）
     学生時代はジュンスカのコピーバンドも組んでいた。2008年には、彼がボーカルを務めるビジュアル系バンド「[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")」として、寺岡呼人主催のイベント「[Golden Circle Vol.12](https://ja.wikipedia.org/wiki/Golden_Circle_Vol.12 "wikilink")」にて共演した。
   - [土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")
-    2007年の秋に放送された『[アメトーーク](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")』の47年生まれ芸人のコーナーでジュンスカファンを公言している。学生時代は森純太のレスポールギターに憧れていたが、値段が高い為、代わりにグレコのギターを購入したとの事。現在そのギターは[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")の[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")が持っているとの事。
+    2007年の秋に放送された『[アメトーーク](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")』の47年生まれ芸人のコーナーでジュンスカファンを公言している。学生時代は森純太のレスポールギターに憧れていたが、値段が高い為、代わりにグレコのギターを購入したとの事。現在そのギターは[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")の[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")が持っているとの事。
   - [伊藤英明](../Page/伊藤英明.md "wikilink")
     JUN SKY WALKER(S) MY GENERATIONツアーのDVDに付いていたパンフレット式のブックレットにコメントが寄せられている。再結成ライブも見に行った模様。また最近では、宮田和弥のソロツアー東京公演に花束が贈られている。
   - [浅野忠信](../Page/浅野忠信.md "wikilink")
     学生時代コピーしていた事もあるとの事。2008年の[Golden Circle Vol.11東京公演にシークレットゲストとして参加した](https://ja.wikipedia.org/wiki/Golden_Circle_Vol.11 "wikilink")。
-  - [千秋](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")
+  - [千秋](../Page/千秋_\(タレント\).md "wikilink")
     再結成ライブの渋谷ラ・ママ公演を見に行ったり、その当時、自身のブログでもジュンスカの事を書いている。
   - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
     ヒット以前にジュンスカライブに前座で出ていた事もあった。また、ボーカルの[桜井和寿](../Page/桜井和寿.md "wikilink")自身はベースの寺岡とは仲が良く、たびたび「[Golden Circle](https://ja.wikipedia.org/wiki/Golden_Circle "wikilink")」にも桜井自身がゲストとして参加している。そして桜井と小林武史が中心となって結成した「[Bank Band](../Page/Bank_Band.md "wikilink")」で、「休みの日｣をカバーしている。
@@ -724,7 +724,7 @@ CDとして発表されたもののみ。
 13.
 14.
 15.
-16. [再結成の理由、ラストライブ ボーカル、宮田和弥が20年目のジュンスカを語る](http://www.pia.co.jp/interview/jun_sky_walker/) [ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink") 2008年8月7日付
+16. [再結成の理由、ラストライブ ボーカル、宮田和弥が20年目のジュンスカを語る](http://www.pia.co.jp/interview/jun_sky_walker/) [ぴあ](../Page/ぴあ.md "wikilink") 2008年8月7日付
 17.
 18. [アニメ「トリコ」にメンバーが自身の役で出演！](http://junskywalkers.jp/information/index.php?e=230) - 公式サイト
 19.

@@ -1,11 +1,11 @@
 > この記事は[  The Peace Plan to Save the World](https://ja.wikipedia.org/wiki/__The_Peace_Plan_to_Save_the_World)から翻訳されています。
 
 
-『**ナイトウィザード 魔法大戦 〜The Peace Plan to Save the World〜**』（ナイトウィザード まほうたいせん ザ ピース プラン トゥ セーブ ザ ワールド）は、[2004年](../Page/2004年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[RUNEより発売された](https://ja.wikipedia.org/wiki/ルーン_\(ゲーム会社\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフト。初回限定版は書きおろしパッケージオリジナルBOX仕様で、miniアルバム（OPフルコーラスVer収録）とキャラクターブックが付属する。
+『**ナイトウィザード 魔法大戦 〜The Peace Plan to Save the World〜**』（ナイトウィザード まほうたいせん ザ ピース プラン トゥ セーブ ザ ワールド）は、[2004年](../Page/2004年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[RUNEより発売された](../Page/ルーン_\(ゲーム会社\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフト。初回限定版は書きおろしパッケージオリジナルBOX仕様で、miniアルバム（OPフルコーラスVer収録）とキャラクターブックが付属する。
 
 ## 概要
 
-[菊池たけし](https://ja.wikipedia.org/wiki/菊池たけし "wikilink")・[F.E.A.R.の共著である](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")『[ナイトウィザード](../Page/ナイトウィザード.md "wikilink")』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊）の関連作品だが、[18禁ゲーム](https://ja.wikipedia.org/wiki/18禁ゲーム "wikilink")故か、F.E.A.R.の公式サイトには本作についてのアナウンスは無い（『[エンゼルギア](https://ja.wikipedia.org/wiki/エンゼルギア "wikilink")』と、やはりRUNE発売である『[ANGEL-CORE](https://ja.wikipedia.org/wiki/ANGEL-CORE "wikilink")』の場合と同様。F.E.A.R配信のウェブラジオ「ナイトウィザード通信（現・[ふぃあ通](https://ja.wikipedia.org/wiki/ふぃあ通 "wikilink")）」内で当ゲームのＢＧＭが使用されていた時機もある）
+[菊池たけし](../Page/菊池たけし.md "wikilink")・[F.E.A.R.の共著である](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")『[ナイトウィザード](../Page/ナイトウィザード.md "wikilink")』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")刊）の関連作品だが、[18禁ゲーム](https://ja.wikipedia.org/wiki/18禁ゲーム "wikilink")故か、F.E.A.R.の公式サイトには本作についてのアナウンスは無い（『[エンゼルギア](https://ja.wikipedia.org/wiki/エンゼルギア "wikilink")』と、やはりRUNE発売である『[ANGEL-CORE](https://ja.wikipedia.org/wiki/ANGEL-CORE "wikilink")』の場合と同様。F.E.A.R配信のウェブラジオ「ナイトウィザード通信（現・[ふぃあ通](../Page/ふぃあ通.md "wikilink")）」内で当ゲームのＢＧＭが使用されていた時機もある）
 
 戦闘は全てカードバトル形式で行われる。
 
@@ -35,7 +35,7 @@
   - 理理＝御鶴木＝ラファイエット（りり＝みつるぎ＝ - ） 声優：[高奈ゆか](../Page/高奈ゆか.md "wikilink")
     魔剣使い。
     優の命を狙って転校して来た。魔剣・クヴァルディースガルムを操る。
-  - 夜ノ森 風音（よのもり かざね） 声優：[文月かな](https://ja.wikipedia.org/wiki/文月かな "wikilink")
+  - 夜ノ森 風音（よのもり かざね） 声優：[文月かな](../Page/文月かな.md "wikilink")
     忍者。
     優の妹で、重度のお兄ちゃん娘。優とは離れて暮らしている。
   - 細 セイム（ささら - ） 声優：[大花どん](../Page/大花どん.md "wikilink")
@@ -75,7 +75,7 @@
 ## スタッフ
 
   - ディレクター：ゆうき夜
-  - 原画：[うろたん](https://ja.wikipedia.org/wiki/うろたん "wikilink")
+  - 原画：[うろたん](../Page/うろたん.md "wikilink")
   - シナリオ：尾之上咲太
 
 ## 音楽
@@ -111,7 +111,7 @@
 
 ## 雑記
 
-本作発売後にテーブルトークRPG版『ナイトウィザード』で追加された設定には、本作と矛盾する部分が数多くある。『ナイトウィザード』第一版の関連作品を総括した[TRPGサプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")『オーバーナイト』でも本作の記述がないため、現在では、本作はテーブルトークRPG版とは直接的に繋がっていない[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")作品のような扱いになっている。
+本作発売後にテーブルトークRPG版『ナイトウィザード』で追加された設定には、本作と矛盾する部分が数多くある。『ナイトウィザード』第一版の関連作品を総括した[TRPGサプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")『オーバーナイト』でも本作の記述がないため、現在では、本作はテーブルトークRPG版とは直接的に繋がっていない[パラレルワールド](../Page/パラレルワールド.md "wikilink")作品のような扱いになっている。
 
 ## 外部リンク
 

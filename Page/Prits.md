@@ -1,18 +1,18 @@
 > この記事は[Prits](https://ja.wikipedia.org/wiki/Prits)から翻訳されています。
 
 
-**Prits**（プリッツ）は、[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")、[望月久代](../Page/望月久代.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、[水樹奈々](../Page/水樹奈々.md "wikilink")による[声優ユニット](../Page/声優ユニット.md "wikilink")。アニメ『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』から誕生した声優ユニットとして知られる。メンバーの仲の良さも有名であった。
+**Prits**（プリッツ）は、[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[望月久代](../Page/望月久代.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、[水樹奈々](../Page/水樹奈々.md "wikilink")による[声優ユニット](../Page/声優ユニット.md "wikilink")。アニメ『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』から誕生した声優ユニットとして知られる。メンバーの仲の良さも有名であった。
 
 ## メンバー
 
-  - [桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")（くわたに なつこ、1978年8月8日 - ）
+  - [桑谷夏子](../Page/桑谷夏子.md "wikilink")（くわたに なつこ、1978年8月8日 - ）
   - [望月久代](../Page/望月久代.md "wikilink")（もちづき ひさよ、1978年4月27日 - ）
   - [小林由美子](../Page/小林由美子.md "wikilink")（こばやし ゆみこ、1979年6月18日 - ）
   - [水樹奈々](../Page/水樹奈々.md "wikilink")（みずき なな、1980年1月21日 - ）
 
 ## 経歴
 
-Pritsは、『[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2001秋』2日目（2001年10月13日開催）の[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")主催イベント、[ラジオ](../Page/ラジオ.md "wikilink")番組『[シスター・プリンセス〜お兄ちゃんといっしょ](../Page/シスター・プリンセス〜お兄ちゃんといっしょ.md "wikilink")』公開録音（パーソナリティ：[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")、[望月久代](../Page/望月久代.md "wikilink")/[文化放送](../Page/文化放送.md "wikilink")）にてユニットの結成が正式発表された。このステージイベントではユニット名である“Prits（プリッツ）”の由来を、『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の呼び名でもある「シスプリ」の“プリ”から名付けられたというエピソードがメンバーより紹介された。また、ステージイベントの最後に行われたミニライブでは、Pritsのメンバーにより『シスター・プリンセス』の楽曲のひとつである『乙女心は万華鏡 -kaleidoscope-』の特別バージョンが披露されている。Pritsはその後、2002年1月1日に3か月連続リリースの第1弾として発売されたマキシシングル『[Sakura Revolution](https://ja.wikipedia.org/wiki/Sakura_Revolution "wikilink")』でCDデビューを果たしている。
+Pritsは、『[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")2001秋』2日目（2001年10月13日開催）の[メディアワークス](../Page/メディアワークス.md "wikilink")主催イベント、[ラジオ](../Page/ラジオ.md "wikilink")番組『[シスター・プリンセス〜お兄ちゃんといっしょ](../Page/シスター・プリンセス〜お兄ちゃんといっしょ.md "wikilink")』公開録音（パーソナリティ：[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[望月久代](../Page/望月久代.md "wikilink")/[文化放送](../Page/文化放送.md "wikilink")）にてユニットの結成が正式発表された。このステージイベントではユニット名である“Prits（プリッツ）”の由来を、『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の呼び名でもある「シスプリ」の“プリ”から名付けられたというエピソードがメンバーより紹介された。また、ステージイベントの最後に行われたミニライブでは、Pritsのメンバーにより『シスター・プリンセス』の楽曲のひとつである『乙女心は万華鏡 -kaleidoscope-』の特別バージョンが披露されている。Pritsはその後、2002年1月1日に3か月連続リリースの第1弾として発売されたマキシシングル『[Sakura Revolution](https://ja.wikipedia.org/wiki/Sakura_Revolution "wikilink")』でCDデビューを果たしている。
 
 Pritsとしてのライブ活動は、2002年春に開催された[STARCHILD FESTIVAL 2002 春が初めてである](https://ja.wikipedia.org/wiki/STARCHILD_FESTIVAL#2002_春 "wikilink")。なお、2002年のクリスマスに唯一のアルバム『[cherry blossom](https://ja.wikipedia.org/wiki/cherry_blossom_\(Pritsのアルバム\) "wikilink")』の発売を最後に活動は行われておらず、事実上の解散状態となっている\[1\]。ただ、現在でも4人の仲はよく、小林の結婚式には全員出席して祝った。
 
@@ -28,7 +28,7 @@ Pritsとしてのライブ活動は、2002年春に開催された[STARCHILD FES
   - Pritsの妹分として、声優の[伊藤靖子](https://ja.wikipedia.org/wiki/伊藤靖子 "wikilink")、[長谷川静香](https://ja.wikipedia.org/wiki/長谷川静香 "wikilink")、[又吉愛](../Page/又吉愛.md "wikilink")による「[Puppy's](../Page/Puppy's.md "wikilink")」（パピーズ）が結成されている。
   - 声優情報誌『hm<sup>3</sup> SPECIAL』（音楽専科社刊）の創刊号で表紙を飾っている。
   - 『STARCHILD FESTIVAL 2002 春』では、ユニット活動の感想を次のように述べている。桑谷「エクセレントです」、水樹「エレガントです」、小林「スイートです」、望月「ビューティフルです」。
-  - 文化放送のラジオ番組『[電撃G's Radio](https://ja.wikipedia.org/wiki/電撃G's_Radio "wikilink")』の音楽作品、『[電撃G's Radio コンピレーションミニアルバム「Gラジ音楽部](https://ja.wikipedia.org/wiki/Gラジ音楽部 "wikilink")』にPritsの楽曲が収録されている。
+  - 文化放送のラジオ番組『[電撃G's Radio](../Page/電撃G's_Radio.md "wikilink")』の音楽作品、『[電撃G's Radio コンピレーションミニアルバム「Gラジ音楽部](https://ja.wikipedia.org/wiki/Gラジ音楽部 "wikilink")』にPritsの楽曲が収録されている。
   - テレビ番組『[アニメ声優でおめでとう](https://ja.wikipedia.org/wiki/アニメ声優でおめでとう "wikilink")』の企画として「お正月と言えば」という題目で次のように書き初めを行っている。小林“衤畐袋”（福の字の部首をころもへんに書き間違える）、桑谷“ビーフストロガノフ”、水樹“かずのこ”、望月“お年玉<small>下さい</small>♥”。
   - ファーストシングル『Sakura Revolution』は、文化放送のラジオ番組『[SOMETHING DREAMS マルチメディアカウントダウン](../Page/SOMETHING_DREAMS_マルチメディアカウントダウン.md "wikilink")』で2週連続の第1位を記録した。
   - シングルCDのジャケットは、同じ日に3枚分すべて撮影された。
@@ -144,18 +144,18 @@ Pritsとしてのライブ活動は、2002年春に開催された[STARCHILD FES
 
 ## 書籍・雑誌
 
-  - hm<sup>3</sup>（vol.23 / [音楽専科社](https://ja.wikipedia.org/wiki/音楽専科社 "wikilink")）
+  - hm<sup>3</sup>（vol.23 / [音楽専科社](../Page/音楽専科社.md "wikilink")）
   - hm<sup>3</sup> SPECIAL（vol.1、vol.5 / 音楽専科社）
   - [VOiCE ANIMAGE](https://ja.wikipedia.org/wiki/VOiCE_ANIMAGE "wikilink")（vol.40 / [徳間書店](../Page/徳間書店.md "wikilink")）
   - [VOICE NEWTYPE](https://ja.wikipedia.org/wiki/VOICE_NEWTYPE "wikilink")（vol.3 / [角川書店](../Page/角川書店.md "wikilink")）
-  - [声優グランプリ](../Page/声優グランプリ.md "wikilink")（2002年2月、3月、4月号 / [主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")）
+  - [声優グランプリ](../Page/声優グランプリ.md "wikilink")（2002年2月、3月、4月号 / [主婦の友社](../Page/主婦の友社.md "wikilink")）
 
 ## 脚注
 
 ## 関連項目
 
   - [シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")
-  - [スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")
+  - [スターチャイルド](../Page/スターチャイルド.md "wikilink")
   - [キングレコード](../Page/キングレコード.md "wikilink")
   - [Puppy's](../Page/Puppy's.md "wikilink")
 

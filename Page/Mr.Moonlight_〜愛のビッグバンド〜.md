@@ -19,21 +19,21 @@
       -
         編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")、ホーンアレンジ：[小林正弘](../Page/小林正弘.md "wikilink")
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『[アイドルをさがせ\!](../Page/アイドルをさがせ!.md "wikilink")』のオープニングテーマ
-        2001年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から放送される[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")「[e-kara](https://ja.wikipedia.org/wiki/e-kara "wikilink")」[CMソングに起用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")\[1\]。
-        曲調はつんく♂によると「ダンス[ロカビリー](https://ja.wikipedia.org/wiki/ロカビリー "wikilink")[ビッグバンド](https://ja.wikipedia.org/wiki/ビッグバンド "wikilink")曲」とのこと。
+        2001年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から放送される[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")「[e-kara](https://ja.wikipedia.org/wiki/e-kara "wikilink")」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")\[1\]。
+        曲調はつんく♂によると「ダンス[ロカビリー](../Page/ロカビリー.md "wikilink")[ビッグバンド](../Page/ビッグバンド.md "wikilink")曲」とのこと。
         [吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")がセンターポジションを務めている。メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は吉澤、[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")の3人だけ（その他の[ソロパートは新垣の冒頭](../Page/ソロ_\(音楽\).md "wikilink")1フレーズのみ。[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")や[歌番組](https://ja.wikipedia.org/wiki/歌番組 "wikilink")ではこれを5期メンバーの4人が交代で担当した）で、その他のメンバーはサビのバックコーラスを担当する。
-        当初テレビ番組等での歌披露において、吉澤とその両脇を固める安倍、後藤の3人は男装していた。[宝塚の男役を意識した衣装](../Page/宝塚歌劇団.md "wikilink")、[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")であり、間奏中に吉澤から宝塚娘役にあたる[小川麻琴](../Page/小川麻琴.md "wikilink")へのセリフがある。
-        アルバム『[4th「いきまっしょい\!」](https://ja.wikipedia.org/wiki/4th「いきまっしょい!」 "wikilink")』ではロングバージョンとして、曲の前に2分55秒の[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")風[プロローグ](https://ja.wikipedia.org/wiki/プロローグ "wikilink")が追加された。
-        [2003年](../Page/2003年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")の『[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")』（[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")放送）の初回放送においてモーニング娘。と宝塚歌劇団との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")によりこの曲を歌った。その際この曲の振り付けを行った[夏まゆみ](https://ja.wikipedia.org/wiki/夏まゆみ "wikilink")はこの曲に関して「宝塚を意識している」「テーマは目指せ宝塚」と発言した。コラボレーションに参加した宝塚歌劇団側の人間は、この曲に関して「宝塚ではありえない曲調」と語った。なお、卒業した後藤のパートを担当したのは、当時宝塚歌劇団員だった[樹里咲穂](https://ja.wikipedia.org/wiki/樹里咲穂 "wikilink")。
+        当初テレビ番組等での歌披露において、吉澤とその両脇を固める安倍、後藤の3人は男装していた。[宝塚の男役を意識した衣装](../Page/宝塚歌劇団.md "wikilink")、[ダンス](../Page/ダンス.md "wikilink")であり、間奏中に吉澤から宝塚娘役にあたる[小川麻琴](../Page/小川麻琴.md "wikilink")へのセリフがある。
+        アルバム『[4th「いきまっしょい\!」](../Page/4th「いきまっしょい!」.md "wikilink")』ではロングバージョンとして、曲の前に2分55秒の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")風[プロローグ](https://ja.wikipedia.org/wiki/プロローグ "wikilink")が追加された。
+        [2003年](../Page/2003年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")の『[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")』（[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")放送）の初回放送においてモーニング娘。と宝塚歌劇団との[コラボレーション](../Page/コラボレーション.md "wikilink")によりこの曲を歌った。その際この曲の振り付けを行った[夏まゆみ](../Page/夏まゆみ.md "wikilink")はこの曲に関して「宝塚を意識している」「テーマは目指せ宝塚」と発言した。コラボレーションに参加した宝塚歌劇団側の人間は、この曲に関して「宝塚ではありえない曲調」と語った。なお、卒業した後藤のパートを担当したのは、当時宝塚歌劇団員だった[樹里咲穂](../Page/樹里咲穂.md "wikilink")。
         [2004年](../Page/2004年.md "wikilink")に[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")がアルバム『[TAKE1](../Page/TAKE1.md "wikilink")』にて、セルフカバーした。
         [ドリームモーニング娘。](https://ja.wikipedia.org/wiki/ドリームモーニング娘。 "wikilink")がこの曲を歌う際は、参加していない後藤のパートは[中澤裕子](../Page/中澤裕子.md "wikilink")が担当した。
         メインボーカルを務めた3人が全員卒業した後にこの曲が歌われる際は、リーダーとなった[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")が一人で男役（メインボーカル）を務めた（高橋は2011年9月30日に卒業）。
-        [2001年](../Page/2001年.md "wikilink")の『[紅白歌合戦](../Page/第52回NHK紅白歌合戦.md "wikilink")』では、「Mr. Moonlight〜愛こそがザ☆ピ〜ス\!〜」として、途中に「[ザ☆ピ〜ス\!](https://ja.wikipedia.org/wiki/ザ☆ピ〜ス! "wikilink")」をはさむ形で歌った。ちなみにこの紅白を始め、年末の音楽番組では、男役3人もドレスを着ていることが多かった。
+        [2001年](../Page/2001年.md "wikilink")の『[紅白歌合戦](../Page/第52回NHK紅白歌合戦.md "wikilink")』では、「Mr. Moonlight〜愛こそがザ☆ピ〜ス\!〜」として、途中に「[ザ☆ピ〜ス\!](../Page/ザ☆ピ〜ス!.md "wikilink")」をはさむ形で歌った。ちなみにこの紅白を始め、年末の音楽番組では、男役3人もドレスを着ていることが多かった。
 2.  **ポップコーンラブ\!**
       -
-        編曲：[河野伸](https://ja.wikipedia.org/wiki/河野伸 "wikilink")
-        元々は[2000年](../Page/2000年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にスタートした番組『[MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）のテーマ曲として作られた曲であり、番組のMCだったモーニング娘。（当時10人）と[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")の2人による振り付けも存在した。
-3.  Mr.Moonlight 〜愛のビッグバンド〜（[Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）
+        編曲：[河野伸](../Page/河野伸.md "wikilink")
+        元々は[2000年](../Page/2000年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にスタートした番組『[MUSIX\!](../Page/MUSIX!.md "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）のテーマ曲として作られた曲であり、番組のMCだったモーニング娘。（当時10人）と[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")の2人による振り付けも存在した。
+3.  Mr.Moonlight 〜愛のビッグバンド〜（[Instrumental](../Page/器楽曲.md "wikilink")）
 
 ## 参加メンバー
 
@@ -47,14 +47,14 @@
 
   - [佐野康夫](../Page/佐野康夫.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")(1)
   - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベースギター "wikilink")(1)
-  - 鈴木俊介 - [ギター](../Page/ギター.md "wikilink")&[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")(1)
+  - 鈴木俊介 - [ギター](../Page/ギター.md "wikilink")&[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")(1)
   - [山本拓夫](../Page/山本拓夫.md "wikilink") - [サックス](https://ja.wikipedia.org/wiki/サキソフォン "wikilink")(1,2)
-  - 塚崎陽平 - [タンバリン](https://ja.wikipedia.org/wiki/タンバリン "wikilink")(1)
+  - 塚崎陽平 - [タンバリン](../Page/タンバリン.md "wikilink")(1)
   - モーニンググランドオーケストラ - [ブラス](../Page/金管楽器.md "wikilink")(1)
   - つんく - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(1,2)、手拍子&足拍子(1)
   - JP'S - コーラス&手拍子&足拍子(1)
   - 木村万作 - ドラム(2)
-  - [沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink") - ベース(2)
+  - [沖山優司](../Page/沖山優司.md "wikilink") - ベース(2)
   - [稲葉政裕](https://ja.wikipedia.org/wiki/稲葉政裕 "wikilink") - ギター(2)
   - 河野伸 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")&プログラミング(2)
   - 西村浩二 - [トランペット](../Page/トランペット.md "wikilink")(2)
@@ -63,7 +63,7 @@
 
 ## カバー
 
-  - [今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")、[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")、[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink") - 2011年発売のアルバム『[THE IDOLM@STER STATION\!\!\! THIRD TRAVEL WANTED](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")』に収録。
+  - [今井麻美](../Page/今井麻美.md "wikilink")、[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")、[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink") - 2011年発売のアルバム『[THE IDOLM@STER STATION\!\!\! THIRD TRAVEL WANTED](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")』に収録。
 
 ## 脚注
 

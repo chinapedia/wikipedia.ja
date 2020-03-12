@@ -1,7 +1,7 @@
 > この記事は[CLAMP IN WONDERLAND](https://ja.wikipedia.org/wiki/CLAMP_IN_WONDERLAND)から翻訳されています。
 
 
-『**CLAMP IN WONDERLAND**』（くらんぷ いん わんだーらんど）は、[1994年](../Page/1994年.md "wikilink")に[CLAMP](https://ja.wikipedia.org/wiki/CLAMP "wikilink")自身が企画・製作を担当したオリジナルアニメーションクリップである。
+『**CLAMP IN WONDERLAND**』（くらんぷ いん わんだーらんど）は、[1994年](../Page/1994年.md "wikilink")に[CLAMP](../Page/CLAMP.md "wikilink")自身が企画・製作を担当したオリジナルアニメーションクリップである。
 
 2007年に第2作として「**CLAMP IN WONDERLAND2 1995〜2006**」が制作され、本作と共にDVDに収録された。
 
@@ -33,7 +33,7 @@
 
 :\*皇昴流 / 桜塚星史郎 / 皇北都
 
-  - [CLAMP学園探偵団](https://ja.wikipedia.org/wiki/CLAMP学園探偵団 "wikilink")
+  - [CLAMP学園探偵団](../Page/CLAMP学園探偵団.md "wikilink")
 
 :\*妹之山残 / 鷹村蘇芳 / 伊集院玲 / 梓夜凪砂
 
@@ -41,7 +41,7 @@
 
 :\*春香（チュニャン） / 夢龍（ムロン）
 
-  - [不思議の国の美幸ちゃん](https://ja.wikipedia.org/wiki/不思議の国の美幸ちゃん "wikilink")
+  - [不思議の国の美幸ちゃん](../Page/不思議の国の美幸ちゃん.md "wikilink")
 
 :\*美幸 / スケートボードに乗ったバニーさん / 他、『鏡の国の美幸ちゃん』を含む登場人物
 
@@ -69,7 +69,7 @@
 
 :\*桃生小鳥
 
-  - [XXXHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")
+  - [XXXHOLiC](../Page/XXXHOLiC.md "wikilink")
 
 :\*壱原侑子 / 四月一日君尋 / 百目鬼静 / マルダシ / モロダシ / [モコナ](../Page/モコナ.md "wikilink")＝モドキ
 
@@ -93,7 +93,7 @@
 
 :\*琴子 / すもも / ちぃ / フレイヤ / 本須和秀樹
 
-  - [合法ドラッグ](https://ja.wikipedia.org/wiki/合法ドラッグ_\(漫画\) "wikilink")
+  - [合法ドラッグ](../Page/合法ドラッグ_\(漫画\).md "wikilink")
 
 :\*栩堂風疾 / 火群陸王 / 斎峨 / 花蛍
 
@@ -101,7 +101,7 @@
 
 :\*旭ひなた / 麻生史郎
 
-  - [ANGELIC LAYER](https://ja.wikipedia.org/wiki/ANGELIC_LAYER "wikilink")
+  - [ANGELIC LAYER](../Page/ANGELIC_LAYER.md "wikilink")
 
 :\*ヒカル / 鈴原みさき / 小林虎太郎 / 三原一郎 / 主要人物の天使
 
@@ -109,7 +109,7 @@
 
 :\*スウ / 琉・F・和彦
 
-  - [ツバサ-RESERVoir CHRoNiCLE-](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE- "wikilink")
+  - [ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")
 
 :\*サクラ / 小狼 / ファイ / 黒鋼
 
@@ -117,11 +117,11 @@
 
   - 第1作
 
-:\*原作・オリジナルキャラクターデザイン - [CLAMP](https://ja.wikipedia.org/wiki/CLAMP "wikilink")
+:\*原作・オリジナルキャラクターデザイン - [CLAMP](../Page/CLAMP.md "wikilink")
 
 :\*企画 - 大川七瀬
 
-:\*監督・絵コンテ - [浅香守生](https://ja.wikipedia.org/wiki/浅香守生 "wikilink")
+:\*監督・絵コンテ - [浅香守生](../Page/浅香守生.md "wikilink")
 
 :\*ストーリーボード - 五十嵐さつき、大川七瀬、もこなあぱぱ、猫井みっく
 
@@ -131,7 +131,7 @@
 
 :\*プロデューサー - 五十嵐さつき
 
-:\*製作プロデューサー - 沢登昌樹、[池口和彦](https://ja.wikipedia.org/wiki/池口和彦 "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")
+:\*製作プロデューサー - 沢登昌樹、[池口和彦](../Page/池口和彦.md "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")
 
 :\*協力 - CLAMP研究所、CLAMP研究所･秘書室、SHELTY Co., Ltd.
 
@@ -155,7 +155,7 @@
 
 :\*制作プロデューサー - 丸山正雄、鹿野郁子
 
-:\*アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+:\*アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
 
 :\*製作 - パイロテクニスト
 
@@ -185,7 +185,7 @@
   -
 
       -
-        作詞 - 伊藤利恵子 / 作曲 - 北川勝利 / 編曲 - [ROUND TABLE](https://ja.wikipedia.org/wiki/ROUND_TABLE "wikilink") / 歌 - [ROUND TABLE featuring Nino](https://ja.wikipedia.org/wiki/ROUND_TABLE_featuring_Nino "wikilink")
+        作詞 - 伊藤利恵子 / 作曲 - 北川勝利 / 編曲 - [ROUND TABLE](../Page/ROUND_TABLE.md "wikilink") / 歌 - [ROUND TABLE featuring Nino](https://ja.wikipedia.org/wiki/ROUND_TABLE_featuring_Nino "wikilink")
 
 上記4曲が収録されたCDが発売された。
 

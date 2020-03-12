@@ -7,15 +7,15 @@
 
 \[\mbox{EXPSPACE} = \bigcup_{k\in\mathbb{N}} \mbox{DSPACE}(2^{n^k})\]
 
-**EXPSPACE**完全な決定問題とは、**EXPSPACE** に属し、かつ全ての **EXPSPACE** に属する問題を[多項式時間多対一還元によってその問題に帰着させることができる場合を指す](https://ja.wikipedia.org/wiki/多項式時間変換 "wikilink")。換言すれば、多項式時間[アルゴリズム](../Page/アルゴリズム.md "wikilink")によって、ある問題から別の問題へ解を変えずに変換可能である。**EXPSPACE**完全問題は、**EXPSPACE**の中でも最も難しい問題とされる。
+**EXPSPACE**完全な決定問題とは、**EXPSPACE** に属し、かつ全ての **EXPSPACE** に属する問題を[多項式時間多対一還元によってその問題に帰着させることができる場合を指す](../Page/多項式時間変換.md "wikilink")。換言すれば、多項式時間[アルゴリズム](../Page/アルゴリズム.md "wikilink")によって、ある問題から別の問題へ解を変えずに変換可能である。**EXPSPACE**完全問題は、**EXPSPACE**の中でも最も難しい問題とされる。
 
-**EXPSPACE** は **[PSPACE](https://ja.wikipedia.org/wiki/PSPACE "wikilink")**、**[NP](../Page/NP.md "wikilink")**、**[P](https://ja.wikipedia.org/wiki/P_\(計算複雑性理論\) "wikilink")** を真に包含する。また、**[EXPTIME](https://ja.wikipedia.org/wiki/EXPTIME "wikilink")** をも真に包含すると考えられている。
+**EXPSPACE** は **[PSPACE](https://ja.wikipedia.org/wiki/PSPACE "wikilink")**、**[NP](../Page/NP.md "wikilink")**、**[P](../Page/P_\(計算複雑性理論\).md "wikilink")** を真に包含する。また、**[EXPTIME](https://ja.wikipedia.org/wiki/EXPTIME "wikilink")** をも真に包含すると考えられている。
 
-**EXPSPACE**完全な問題の例として、2つの[正規表現](../Page/正規表現.md "wikilink")が異なる言語を表現しているかどうかの決定問題がある。このとき、その表現は4つの演算子（和集合、連結、[クリーネ閉包](https://ja.wikipedia.org/wiki/クリーネ閉包 "wikilink")（ゼロ個以上のコピー）、平方（2つのコピー））に制限される。
+**EXPSPACE**完全な問題の例として、2つの[正規表現](../Page/正規表現.md "wikilink")が異なる言語を表現しているかどうかの決定問題がある。このとき、その表現は4つの演算子（和集合、連結、[クリーネ閉包](../Page/クリーネ閉包.md "wikilink")（ゼロ個以上のコピー）、平方（2つのコピー））に制限される。
 
 クリーネ閉包を除くと、この問題は **[NEXPTIME](https://ja.wikipedia.org/wiki/NEXPTIME "wikilink")**完全となる。これは **[EXPTIME](https://ja.wikipedia.org/wiki/EXPTIME "wikilink")**完全に似ているが、決定性ではなく[非決定性チューリング機械](https://ja.wikipedia.org/wiki/非決定性チューリング機械 "wikilink")で定義される。
 
-また[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、L. Berman は[実数](../Page/実数.md "wikilink")の[加法](https://ja.wikipedia.org/wiki/加法 "wikilink")と比較（[乗法](https://ja.wikipedia.org/wiki/乗法 "wikilink")は含まない）についての[一階述語論理](https://ja.wikipedia.org/wiki/一階述語論理 "wikilink")式の評価問題が **EXPSPACE** であることを示した。
+また[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、L. Berman は[実数](../Page/実数.md "wikilink")の[加法](../Page/加法.md "wikilink")と比較（[乗法](../Page/乗法.md "wikilink")は含まない）についての[一階述語論理](../Page/一階述語論理.md "wikilink")式の評価問題が **EXPSPACE** であることを示した。
 
 ## 参考文献
 

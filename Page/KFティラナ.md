@@ -110,9 +110,9 @@
 <tbody>
 <tr class="odd">
 <td><p>1965-66</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1965-66" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1965-66.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キルマーノックFC" title="wikilink">キルマーノック</a></p></td>
+<td><p><a href="../Page/キルマーノックFC.md" title="wikilink">キルマーノック</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-1</p></td>
@@ -120,7 +120,7 @@
 </tr>
 <tr class="even">
 <td><p>1966-67</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1966-67" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1966-67.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァシャシュSC" title="wikilink">ヴォレレンガ</a></p></td>
 <td><p>(w/o)</p></td>
@@ -132,7 +132,7 @@
 <td><p>1969-70</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1969-70" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンダール・リエージュ" title="wikilink">スタンダール・リエージュ</a></p></td>
+<td><p><a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''1-4</p></td>
@@ -142,7 +142,7 @@
 <td><p>1970-71</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1970-71" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-4</p></td>
@@ -160,7 +160,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>(w/o)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
@@ -190,7 +190,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルメFF" title="wikilink">マルメFF</a></p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>0-3</p></td>
 <td><p>0-0</p></td>
 <td><p>'''0-3</p></td>
@@ -220,7 +220,7 @@
 </tr>
 <tr class="even">
 <td><p>1989-90</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1989-90" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1989-90.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スリマ・ワンダラーズFC" title="wikilink">スリマ・ワンダラーズ</a></p></td>
 <td><p>5-0</p></td>
@@ -250,7 +250,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレンビーIF" title="wikilink">ブレンビーIF</a></p></td>
+<td><p><a href="../Page/ブレンビーIF.md" title="wikilink">ブレンビーIF</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''0-4</p></td>
@@ -332,7 +332,7 @@
 <td><p>2003-04</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2003-04.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・トビリシ" title="wikilink">ディナモ・トビリシ</a></p></td>
+<td><p><a href="../Page/FCディナモ・トビリシ.md" title="wikilink">ディナモ・トビリシ</a></p></td>
 <td><p>3-0</p></td>
 <td><p>0-3</p></td>
 <td><p>'''3-3<br />
@@ -341,7 +341,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラーツァーAK" title="wikilink">グラーツァーAK</a></p></td>
+<td><p><a href="../Page/グラーツァーAK.md" title="wikilink">グラーツァーAK</a></p></td>
 <td><p>1-5</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-7</p></td>
@@ -351,7 +351,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCホメリ" title="wikilink">ホメリ</a></p></td>
 <td><p>0-1</p></td>
@@ -371,7 +371,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2005-06" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2005-06.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NDゴリツァ" title="wikilink">ゴリツァ</a></p></td>
 <td><p>3-0</p></td>
@@ -381,7 +381,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAソフィア" title="wikilink">CSKA</a></p></td>
+<td><p><a href="../Page/PFC_CSKAソフィア.md" title="wikilink">CSKA</a></p></td>
 <td><p>0-2</p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-4</p></td>
@@ -442,7 +442,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCユトレヒト" title="wikilink">ユトレヒト</a></p></td>
+<td><p><a href="../Page/FCユトレヒト.md" title="wikilink">ユトレヒト</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1-5</p></td>
@@ -484,7 +484,7 @@
 <td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-5</p></td>

@@ -1,9 +1,9 @@
 > この記事は[ HIPHOP](https://ja.wikipedia.org/wiki/_HIPHOP)から翻訳されています。
 
 
-『**サムライチャンプルー**』は、[グラスホッパー・マニファクチュア](https://ja.wikipedia.org/wiki/グラスホッパー・マニファクチュア "wikilink")が開発し、[バンダイ](../Page/バンダイ.md "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売した[プレイステーション2専用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
+『**サムライチャンプルー**』は、[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")が開発し、[バンダイ](../Page/バンダイ.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売した[プレイステーション2専用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
 
-アニメーション作品『[サムライチャンプルー](https://ja.wikipedia.org/wiki/サムライチャンプルー "wikilink")』のメディアミックス作品のひとつ。脚本は[グラスホッパー・マニファクチュア](https://ja.wikipedia.org/wiki/グラスホッパー・マニファクチュア "wikilink")：[須田剛一](https://ja.wikipedia.org/wiki/須田剛一 "wikilink")が担当。[日本画](https://ja.wikipedia.org/wiki/日本画 "wikilink")、[グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ "wikilink")、[コラージュ](../Page/コラージュ.md "wikilink")、[ポップアート](https://ja.wikipedia.org/wiki/ポップアート "wikilink")などを導入した先鋭的演出が取り入れられた作品になっている。
+アニメーション作品『[サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")』のメディアミックス作品のひとつ。脚本は[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")：[須田剛一](../Page/須田剛一.md "wikilink")が担当。[日本画](../Page/日本画.md "wikilink")、[グラフィティ](../Page/グラフィティ.md "wikilink")、[コラージュ](../Page/コラージュ.md "wikilink")、[ポップアート](../Page/ポップアート.md "wikilink")などを導入した先鋭的演出が取り入れられた作品になっている。
 
 ## 物語
 
@@ -16,46 +16,46 @@
   - ジン
     [居合いを基調とした正統派の剣術を使う](https://ja.wikipedia.org/wiki/抜刀術 "wikilink")。幻の剣術・無住心剣術の門弟であり、若くして師を凌ぐとも言われた天才であった。しかし、ある事件がきっかけとなり道場を出奔。以来、流浪の身となる。
   - フウ
-    いつも明るく好奇心旺盛で、世話好き。そして、数限りないアルバイトを転々としている女の子。袖に[モモンガ](https://ja.wikipedia.org/wiki/モモンガ "wikilink")の「モモさん」を飼っている。
+    いつも明るく好奇心旺盛で、世話好き。そして、数限りないアルバイトを転々としている女の子。袖に[モモンガ](../Page/モモンガ.md "wikilink")の「モモさん」を飼っている。
   - 鶴巻ウォルソ
-    体術を取り入れた[二刀流](https://ja.wikipedia.org/wiki/二刀流 "wikilink")の使い手で、父の後を継ぎ「古き血の者」の党首となった若者。一族の伝統的な暮らしを守ろうとするが、存亡の危機に面している。
+    体術を取り入れた[二刀流](../Page/二刀流.md "wikilink")の使い手で、父の後を継ぎ「古き血の者」の党首となった若者。一族の伝統的な暮らしを守ろうとするが、存亡の危機に面している。
 
 ## キャスト
 
-  - ムゲン：[中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
-  - ジン：[佐藤銀平](https://ja.wikipedia.org/wiki/佐藤銀平 "wikilink")
+  - ムゲン：[中井和哉](../Page/中井和哉.md "wikilink")
+  - ジン：[佐藤銀平](../Page/佐藤銀平.md "wikilink")
   - フウ：[川澄綾子](../Page/川澄綾子.md "wikilink")
   - のこぎり万蔵：[石塚運昇](../Page/石塚運昇.md "wikilink")
-  - ナレーション：[丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")
+  - ナレーション：[丸山詠二](../Page/丸山詠二.md "wikilink")
   - 鶴巻ウォルソ：[石田彰](../Page/石田彰.md "wikilink")
   - ノチユ：[こやまきみこ](../Page/こやまきみこ.md "wikilink")
   - レイ：[緒方愛香](https://ja.wikipedia.org/wiki/緒方愛香 "wikilink")
-  - ランケ：[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
-  - 飛脚の日出吉：[新垣樽助](https://ja.wikipedia.org/wiki/新垣樽助 "wikilink")
+  - ランケ：[中田譲治](../Page/中田譲治.md "wikilink")
+  - 飛脚の日出吉：[新垣樽助](../Page/新垣樽助.md "wikilink")
   - 蛇使いのユウ：[成田紗矢香](../Page/成田紗矢香.md "wikilink")
-  - 易師：[丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")
-  - アントニオーニ：[堀川仁](https://ja.wikipedia.org/wiki/堀川仁 "wikilink")
-  - ブリキン：[樫井笙人](https://ja.wikipedia.org/wiki/樫井笙人 "wikilink")
-  - 大鬼：[石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
-  - 白水鬼：[最上嗣生](https://ja.wikipedia.org/wiki/最上嗣生 "wikilink")
-  - 黒土鬼：[岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
+  - 易師：[丸山詠二](../Page/丸山詠二.md "wikilink")
+  - アントニオーニ：[堀川仁](../Page/堀川仁.md "wikilink")
+  - ブリキン：[樫井笙人](../Page/樫井笙人.md "wikilink")
+  - 大鬼：[石井康嗣](../Page/石井康嗣.md "wikilink")
+  - 白水鬼：[最上嗣生](../Page/最上嗣生.md "wikilink")
+  - 黒土鬼：[岸祐二](../Page/岸祐二.md "wikilink")
   - 碧木鬼：[彩乃木崇之](https://ja.wikipedia.org/wiki/彩乃木崇之 "wikilink")
-  - 緑木鬼：[風間勇刀](https://ja.wikipedia.org/wiki/風間勇刀 "wikilink")
-  - 白金鬼：[室園丈裕](https://ja.wikipedia.org/wiki/室園丈裕 "wikilink")
-  - 赤金鬼：[坂口候一](https://ja.wikipedia.org/wiki/坂口候一 "wikilink")
-  - 白土鬼：[朝倉栄介](https://ja.wikipedia.org/wiki/朝倉栄介 "wikilink")
-  - 黄土鬼：[佐々木誠二](https://ja.wikipedia.org/wiki/佐々木誠二 "wikilink")
-  - 紫火鬼：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
-  - 魔女：[沢海陽子](https://ja.wikipedia.org/wiki/沢海陽子 "wikilink")
-  - 倉田漸馬之介：[中多和宏](https://ja.wikipedia.org/wiki/中田和宏 "wikilink")
+  - 緑木鬼：[風間勇刀](../Page/風間勇刀.md "wikilink")
+  - 白金鬼：[室園丈裕](../Page/室園丈裕.md "wikilink")
+  - 赤金鬼：[坂口候一](../Page/坂口候一.md "wikilink")
+  - 白土鬼：[朝倉栄介](../Page/朝倉栄介.md "wikilink")
+  - 黄土鬼：[佐々木誠二](../Page/佐々木誠二.md "wikilink")
+  - 紫火鬼：[稲田徹](../Page/稲田徹.md "wikilink")
+  - 魔女：[沢海陽子](../Page/沢海陽子.md "wikilink")
+  - 倉田漸馬之介：[中多和宏](../Page/中田和宏.md "wikilink")
   - 飛松風雅：[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
   - 椿組長：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - 薔薇石：[小野坂昌也](../Page/小野坂昌也.md "wikilink")
-  - 花岡：[梅津秀行](https://ja.wikipedia.org/wiki/梅津秀行 "wikilink")
+  - 花岡：[梅津秀行](../Page/梅津秀行.md "wikilink")
   - 月幸：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
-  - 僧侶：[石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
-  - クンネニシ：[鈴木れい子](https://ja.wikipedia.org/wiki/鈴木れい子 "wikilink")
-  - 隠密衆：[小原雅一](https://ja.wikipedia.org/wiki/小原雅一 "wikilink")
+  - 僧侶：[石井康嗣](../Page/石井康嗣.md "wikilink")
+  - クンネニシ：[鈴木れい子](../Page/鈴木れい子.md "wikilink")
+  - 隠密衆：[小原雅一](../Page/小原雅一.md "wikilink")
   - タイトルアイキャッチ：[天田真人](https://ja.wikipedia.org/wiki/天田真人 "wikilink")
   - ボスザル：石塚運昇
   - サルノスケ：小野坂昌也
@@ -72,12 +72,12 @@
 
 ## サウンドトラック
 
-[サイトロン・デジタルコンテンツ](https://ja.wikipedia.org/wiki/サイトロン・デジタルコンテンツ "wikilink")より発売。([ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")販売)
+[サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より発売。([ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")販売)
 
   - 「SAMURAI CHAMPLOO ORIGINAL SOUND TRACK」
       -
         2006年3月1日発売(SCDC-00507)
-        ゲームサウンドCD、作曲、アレンジ - [高田雅史](https://ja.wikipedia.org/wiki/高田雅史 "wikilink")
+        ゲームサウンドCD、作曲、アレンジ - [高田雅史](../Page/高田雅史.md "wikilink")
 
 ## 外部リンク
 

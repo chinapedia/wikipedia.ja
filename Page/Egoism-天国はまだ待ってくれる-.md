@@ -1,7 +1,7 @@
 > この記事は[Egoism--](https://ja.wikipedia.org/wiki/Egoism--)から翻訳されています。
 
 
-『**egoism-天国はまだ待ってくれる-**』（エゴイズム てんごくはまだまってくれる ）は[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")の11枚目のアルバム。
+『**egoism-天国はまだ待ってくれる-**』（エゴイズム てんごくはまだまってくれる ）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の11枚目のアルバム。
 
 ## 内容
 
@@ -19,20 +19,20 @@
 
 1.  **時代が女の味方なら**
       -
-        作曲:[鈴木キサブロー](https://ja.wikipedia.org/wiki/鈴木キサブロー "wikilink") 編曲:[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作曲:[鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink") 編曲:[若草恵](../Page/若草恵.md "wikilink")
 2.  **[優しい女には毒がある](https://ja.wikipedia.org/wiki/優しい女には毒がある "wikilink")**
       -
         作曲:坂本洋 編曲:若草恵
 3.  **はぐれた背中**
       -
-        作詞:[来生えつこ](https://ja.wikipedia.org/wiki/来生えつこ "wikilink") 作曲:[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") 編曲:若草恵
+        作詞:[来生えつこ](../Page/来生えつこ.md "wikilink") 作曲:[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") 編曲:若草恵
         「優しい女には毒がある」のカップリング曲。
 4.  **冷たい炎**
       -
-        作曲:坂本洋 編曲:[芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink")
+        作曲:坂本洋 編曲:[芳野藤丸](../Page/芳野藤丸.md "wikilink")
 5.  **エゴイズム**
       -
-        作曲:坂本洋 編曲:[川村栄二](https://ja.wikipedia.org/wiki/川村栄二 "wikilink")
+        作曲:坂本洋 編曲:[川村栄二](../Page/川村栄二.md "wikilink")
 6.  **遊び慣れてる大人のように**
       -
         作曲:川上明彦 編曲:川村栄二
@@ -53,8 +53,8 @@
 
 ## 関連項目
 
-  - [やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")
+  - [やしきたかじん](../Page/やしきたかじん.md "wikilink")
 
 [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:やしきたかじんのアルバム](https://ja.wikipedia.org/wiki/Category:やしきたかじんのアルバム "wikilink")
 
-1.  [角岡伸彦](https://ja.wikipedia.org/wiki/角岡伸彦 "wikilink")『ゆめいらんかね　やしきたかじん伝』小学館、2014年、178-179頁。ISBN 978-4-09-389752-5
+1.  [角岡伸彦](../Page/角岡伸彦.md "wikilink")『ゆめいらんかね　やしきたかじん伝』小学館、2014年、178-179頁。ISBN 978-4-09-389752-5

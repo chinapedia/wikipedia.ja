@@ -17,7 +17,7 @@
 
 ### シングル
 
-1.  [愛しているのに Bye Bye Love](https://ja.wikipedia.org/wiki/愛しているのに_Bye_Bye_Love "wikilink")（1994年3月1日）
+1.  [愛しているのに Bye Bye Love](../Page/愛しているのに_Bye_Bye_Love.md "wikilink")（1994年3月1日）
 
 ### アルバム
 

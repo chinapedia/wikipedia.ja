@@ -1,7 +1,7 @@
 > この記事は[ICHIZU \(\)](https://ja.wikipedia.org/wiki/ICHIZU_\(\))から翻訳されています。
 
 
-**ICHIZU**（イチズ）は[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")の7枚目のアルバム。
+**ICHIZU**（イチズ）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の7枚目のアルバム。
 
 ## 内容
 
@@ -19,13 +19,13 @@
         作詞・作曲:伊藤薫 編曲:川村栄二
 3.  **It's Crazy Love**
       -
-        作詞:真名杏樹 作曲:[泰葉](https://ja.wikipedia.org/wiki/泰葉 "wikilink") 編曲:林有三
-4.  **[ICHIZU](https://ja.wikipedia.org/wiki/ICHIZU "wikilink")**
+        作詞:真名杏樹 作曲:[泰葉](../Page/泰葉.md "wikilink") 編曲:林有三
+4.  **[ICHIZU](../Page/ICHIZU.md "wikilink")**
       -
         作詞・作曲・編曲:鹿紋太郎
 5.  **決心**
       -
-        作詞・作曲:鹿紋太郎 編曲:[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作詞・作曲:鹿紋太郎 編曲:[若草恵](../Page/若草恵.md "wikilink")
 6.  **摩天楼物語（ストーリー）**
       -
         作詞:真名杏樹 作曲:泰葉 編曲:林有三

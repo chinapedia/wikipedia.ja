@@ -1,15 +1,15 @@
 > この記事は[ \(Every Little Thing\)](https://ja.wikipedia.org/wiki/_\(Every_Little_Thing\))から翻訳されています。
 
 
-『**愛のカケラ**』（あいのかけら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[2000年](../Page/2000年.md "wikilink")[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")に発売した16th[シングル](../Page/シングル.md "wikilink")。
+『**愛のカケラ**』（あいのかけら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[2000年](../Page/2000年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に発売した16th[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-前作「[Rescue me/Smile Again](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」より4ヶ月振りのリリースであり、前作は[リカット](https://ja.wikipedia.org/wiki/リカット "wikilink")シングルであったため、純粋な新曲としては本作が2人体制で最初のシングルとなる。元メンバーの[五十嵐充](../Page/五十嵐充.md "wikilink")に代わり本作から4thアルバム『[4 FORCE](https://ja.wikipedia.org/wiki/4_FORCE "wikilink")』までのアレンジには桑島幻矢が関わっている（一部例外もあり）。
+前作「[Rescue me/Smile Again](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」より4ヶ月振りのリリースであり、前作は[リカット](../Page/リカット.md "wikilink")シングルであったため、純粋な新曲としては本作が2人体制で最初のシングルとなる。元メンバーの[五十嵐充](../Page/五十嵐充.md "wikilink")に代わり本作から4thアルバム『[4 FORCE](../Page/4_FORCE.md "wikilink")』までのアレンジには桑島幻矢が関わっている（一部例外もあり）。
 
 本作の歌詞はメンバーの一人だった五十嵐が脱退した当時の持田の心境が反映されたものとなっており、持田は当時の事を振り返って「何が正解で、何をもって終わりとなるのか、本当に分からないなと思いました。本当に頑張っていきたい一心で書いた曲だと思う。」と語っている。\[1\]
 
-この曲で年末の[NHK紅白歌合戦に出場](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦 "wikilink")（対戦相手は2回目となる[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")で「[ブルースカイブルー](https://ja.wikipedia.org/wiki/ブルースカイブルー "wikilink")」）。
+この曲で年末の[NHK紅白歌合戦に出場](../Page/第51回NHK紅白歌合戦.md "wikilink")（対戦相手は2回目となる[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")で「[ブルースカイブルー](../Page/ブルースカイブルー.md "wikilink")」）。
 
 [若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")が後年[曲名と作曲者が同じ楽曲を発表しているが](https://ja.wikipedia.org/wiki/愛のカケラ_\(若槻千夏の曲\) "wikilink")、曲自体は全く別のものである（同名異曲を同じ作曲者が作曲した例）。
 
@@ -17,8 +17,8 @@
 
 1.  **愛のカケラ**
       -
-        作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[多胡邦夫](https://ja.wikipedia.org/wiki/多胡邦夫 "wikilink") / 編曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")、桑島幻矢
-          - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「マシェリ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")\[2\]
+        作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink")、桑島幻矢
+          - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「マシェリ」[CMソング](../Page/コマーシャルソング.md "wikilink")\[2\]
 2.  **愛のカケラ 〜Steppin' Hard Enough Mix〜**
       -
         リミックス：[SPASM](https://ja.wikipedia.org/wiki/渥美尚樹 "wikilink")
@@ -33,10 +33,10 @@
 
 <!-- end list -->
 
-  - 『[4 FORCE](https://ja.wikipedia.org/wiki/4_FORCE "wikilink")』
-  - 『[Every Ballad Songs](https://ja.wikipedia.org/wiki/Every_Ballad_Songs "wikilink")』
-  - 『[Every Best Single 2](https://ja.wikipedia.org/wiki/Every_Best_Single_2 "wikilink")』
-  - 『[ACOUSTIC:LATTE](https://ja.wikipedia.org/wiki/ACOUSTIC:LATTE "wikilink")』※アレンジ、新録音して収録
+  - 『[4 FORCE](../Page/4_FORCE.md "wikilink")』
+  - 『[Every Ballad Songs](../Page/Every_Ballad_Songs.md "wikilink")』
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』
+  - 『[ACOUSTIC:LATTE](../Page/ACOUSTIC:LATTE.md "wikilink")』※アレンジ、新録音して収録
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 〜MORE COMPLETE〜](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』
 

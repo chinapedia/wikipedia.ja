@@ -19,10 +19,10 @@
 
 1.  **sure**
       - 作曲・編曲：Every Little Thing
-      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[バーチャルガール](https://ja.wikipedia.org/wiki/バーチャルガール_\(テレビドラマ\) "wikilink")』主題歌
+      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[バーチャルガール](../Page/バーチャルガール_\(テレビドラマ\).md "wikilink")』主題歌
 2.  **switch**
-      - 作曲・編曲：[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")
-      - ギターの伊藤が、[インスト曲以外では初めて作曲した](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+      - 作曲・編曲：[伊藤一朗](../Page/伊藤一朗.md "wikilink")
+      - ギターの伊藤が、[インスト曲以外では初めて作曲した](../Page/器楽曲.md "wikilink")。
 3.  sure ([Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink"))
 4.  switch (Instrumental)
 
@@ -33,8 +33,8 @@
 <!-- end list -->
 
   - 『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』※Orchestra versionとして収録
-  - 『[Every Ballad Songs](https://ja.wikipedia.org/wiki/Every_Ballad_Songs "wikilink")』
-  - 『[Every Best Single 2](https://ja.wikipedia.org/wiki/Every_Best_Single_2 "wikilink")』
+  - 『[Every Ballad Songs](../Page/Every_Ballad_Songs.md "wikilink")』
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 ～MORE COMPLETE～](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜#Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』
 

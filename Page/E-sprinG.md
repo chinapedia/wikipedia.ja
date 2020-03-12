@@ -1,7 +1,7 @@
 > この記事は[E-sprinG](https://ja.wikipedia.org/wiki/E-sprinG)から翻訳されています。
 
 
-**株式会社 E-sprinG**（いーすぷりんぐ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。主に[声優](../Page/声優.md "wikilink")のマネージメントを行っている。[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")に[スタジオ藍丸](https://ja.wikipedia.org/wiki/スタジオ藍丸 "wikilink")の声優事業部として設立され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月に法人化。
+**株式会社 E-sprinG**（いーすぷりんぐ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。主に[声優](../Page/声優.md "wikilink")のマネージメントを行っている。[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")に[スタジオ藍丸](https://ja.wikipedia.org/wiki/スタジオ藍丸 "wikilink")の声優事業部として設立され、[2006年](../Page/2006年.md "wikilink")7月に法人化。
 
 ## 所属声優
 
@@ -40,7 +40,7 @@
   - [岩元絵美](https://ja.wikipedia.org/wiki/岩元絵美 "wikilink")
   - [上村薫子](https://ja.wikipedia.org/wiki/上村薫子 "wikilink")
   - [生方佐知](https://ja.wikipedia.org/wiki/生方佐知 "wikilink")
-  - [大垣理香](https://ja.wikipedia.org/wiki/大垣理香 "wikilink")
+  - [大垣理香](../Page/大垣理香.md "wikilink")
   - [功刀未瑞規](https://ja.wikipedia.org/wiki/功刀未瑞規 "wikilink")
   - [野上さゆき](https://ja.wikipedia.org/wiki/野上さゆき "wikilink")
   - [原あくび](https://ja.wikipedia.org/wiki/原あくび "wikilink")（旧名：原阿久美）
@@ -70,7 +70,7 @@
 
 ## かつて所属していた主な声優
 
-  - [一色まゆ](https://ja.wikipedia.org/wiki/一色まゆ "wikilink")（現所属：[アーツビジョン](https://ja.wikipedia.org/wiki/アーツビジョン "wikilink")）
+  - [一色まゆ](https://ja.wikipedia.org/wiki/一色まゆ "wikilink")（現所属：[アーツビジョン](../Page/アーツビジョン.md "wikilink")）
   - [入江健夫](https://ja.wikipedia.org/wiki/入江健夫 "wikilink")（フリー）
   - [大本命](https://ja.wikipedia.org/wiki/大本命 "wikilink")
   - [花藤蓮](https://ja.wikipedia.org/wiki/花藤蓮 "wikilink")（現所属：[ぷろだくしょんバオバブ](../Page/ぷろだくしょんバオバブ.md "wikilink")）
@@ -79,10 +79,10 @@
   - [白石充](https://ja.wikipedia.org/wiki/白石充 "wikilink")
   - [すみのひろし](https://ja.wikipedia.org/wiki/すみのひろし "wikilink")（フリー）
   - [高津麻都香](https://ja.wikipedia.org/wiki/高津麻都香 "wikilink")（現所属：CROSS CALL）
-  - [根本央紀](https://ja.wikipedia.org/wiki/根本央紀 "wikilink")
-  - [二宮圭美](https://ja.wikipedia.org/wiki/二宮圭美 "wikilink")（引退）
+  - [根本央紀](../Page/根本央紀.md "wikilink")
+  - [二宮圭美](../Page/二宮圭美.md "wikilink")（引退）
   - [平野佳奈](https://ja.wikipedia.org/wiki/平野佳奈 "wikilink")（病気療養の為休業）
-  - [美々](https://ja.wikipedia.org/wiki/美々 "wikilink")（現所属：[ケンユウオフィス](https://ja.wikipedia.org/wiki/ケンユウオフィス "wikilink")）
+  - [美々](https://ja.wikipedia.org/wiki/美々 "wikilink")（現所属：[ケンユウオフィス](../Page/ケンユウオフィス.md "wikilink")）
   - [森本73子](https://ja.wikipedia.org/wiki/森本73子 "wikilink")（現所属：[マウスプロモーション](../Page/マウスプロモーション.md "wikilink")）
   - [山本留里佳](https://ja.wikipedia.org/wiki/山本留里佳 "wikilink")（現所属：CROSS CALL代表取締役）
 

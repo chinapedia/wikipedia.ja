@@ -5,9 +5,9 @@
 
 ## 解説
 
-前作「[UNTITLED 4 ballads](https://ja.wikipedia.org/wiki/UNTITLED_4_ballads "wikilink")」より約3ヶ月振りのシングル。曲名の由来は愛人を**握りしめる**という意味からである。ジャケットのイメージは持田が青空の下、草原を自転車で走っているというものである。
+前作「[UNTITLED 4 ballads](../Page/UNTITLED_4_ballads.md "wikilink")」より約3ヶ月振りのシングル。曲名の由来は愛人を**握りしめる**という意味からである。ジャケットのイメージは持田が青空の下、草原を自転車で走っているというものである。
 
-[CD EXTRA仕様になっているため](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")、[CCCDではない](../Page/コピーコントロールCD.md "wikilink")。
+[CD EXTRA仕様になっているため](../Page/CD_EXTRA.md "wikilink")、[CCCDではない](../Page/コピーコントロールCD.md "wikilink")。
 
 CD EXTRAには期間限定特設サイト（[2003年](../Page/2003年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")まで）、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")のみ[avexの音楽配信サービス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「@MUSIC」（現・[mu-mo](https://ja.wikipedia.org/wiki/mu-mo "wikilink")ミュージック）のサイトにアクセスできるコンテンツが収録されている。
 
@@ -17,7 +17,7 @@ CD EXTRAには期間限定特設サイト（[2003年](../Page/2003年.md "wikili
 
 1.  **Grip\!**
       -
-        (作曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink")、編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")）
+        (作曲：[原一博](../Page/原一博.md "wikilink")、編曲：[HΛL](../Page/HΛL.md "wikilink")）
         [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列アニメ](../Page/日本テレビ放送網.md "wikilink")『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』オープニングテーマ。
         TVアニメに流れているものはシングルバージョンとはボーカルとミックスが若干異なっている。
 
@@ -25,7 +25,7 @@ CD EXTRAには期間限定特設サイト（[2003年](../Page/2003年.md "wikili
 
 1.  **ゆらゆら**
       -
-        (作曲：[多胡邦夫](https://ja.wikipedia.org/wiki/多胡邦夫 "wikilink")、編曲：[大谷靖夫](https://ja.wikipedia.org/wiki/大谷靖夫 "wikilink")、[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")、[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")）
+        (作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink")、編曲：[大谷靖夫](../Page/大谷靖夫.md "wikilink")、[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")、[伊藤一朗](../Page/伊藤一朗.md "wikilink")）
         映画「[犬夜叉 鏡の中の夢幻城](https://ja.wikipedia.org/wiki/犬夜叉_鏡の中の夢幻城 "wikilink")」主題歌。
         Every Little Thing名義のアルバムには未収録であるが、アニメ「犬夜叉」の主題歌集である『BEST OF INUYASHA 百花繚乱 -犬夜叉 テーマ全集-』と『犬夜叉 ベストソング ヒストリー』の2作でのみ「Grip\!」と共に収録されている。
 2.  Grip\! ([Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink"))
@@ -37,8 +37,8 @@ CD EXTRAには期間限定特設サイト（[2003年](../Page/2003年.md "wikili
 
 <!-- end list -->
 
-  - 『[Many Pieces](https://ja.wikipedia.org/wiki/Many_Pieces "wikilink")』
-  - 『[Every Best Single 2](https://ja.wikipedia.org/wiki/Every_Best_Single_2 "wikilink")』
+  - 『[Many Pieces](../Page/Many_Pieces.md "wikilink")』
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 〜MORE COMPLETE〜](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』
 

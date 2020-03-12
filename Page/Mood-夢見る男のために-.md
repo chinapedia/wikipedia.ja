@@ -1,7 +1,7 @@
 > この記事は[Mood--](https://ja.wikipedia.org/wiki/Mood--)から翻訳されています。
 
 
-『**Mood-夢見る男のために-**』（ムード ゆめみるおとこのために）は、[1993年](../Page/1993年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")通算10作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**Mood-夢見る男のために-**』（ムード ゆめみるおとこのために）は、[1993年](../Page/1993年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された[やしきたかじん](../Page/やしきたかじん.md "wikilink")通算10作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -13,11 +13,11 @@
 
 1.  **見えない糸**
       -
-        作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲：[川村栄二](https://ja.wikipedia.org/wiki/川村栄二 "wikilink")
+        作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[都志見隆](../Page/都志見隆.md "wikilink")、編曲：[川村栄二](../Page/川村栄二.md "wikilink")
         「さよならが言えるまで」のカップリング曲。
 2.  **いとしい想い**
       -
-        作詞：及川眠子、作曲：坂本洋、編曲：[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        作詞：及川眠子、作曲：坂本洋、編曲：[若草恵](../Page/若草恵.md "wikilink")
 3.  **心はいつも**
       -
         作詞：及川眠子、作曲：やしきたかじん、編曲：若草恵
@@ -35,7 +35,7 @@
         作詞：及川眠子、作曲：坂本洋、編曲：若草恵
 8.  **ムード**
       -
-        作詞：[来生えつこ](https://ja.wikipedia.org/wiki/来生えつこ "wikilink")、作曲：[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")、編曲：川村栄二
+        作詞：[来生えつこ](../Page/来生えつこ.md "wikilink")、作曲：[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")、編曲：川村栄二
 9.  **待っているから**
       -
         作詞：来生えつこ、作曲：来生たかお、編曲：若草恵
@@ -47,4 +47,4 @@
 
 [Category:やしきたかじんのアルバム](https://ja.wikipedia.org/wiki/Category:やしきたかじんのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:ポリスターのアルバム](https://ja.wikipedia.org/wiki/Category:ポリスターのアルバム "wikilink")
 
-1.  [角岡伸彦](https://ja.wikipedia.org/wiki/角岡伸彦 "wikilink")『ゆめいらんかね　やしきたかじん伝』小学館、2014年、178-179頁。ISBN 978-4-09-389752-5
+1.  [角岡伸彦](../Page/角岡伸彦.md "wikilink")『ゆめいらんかね　やしきたかじん伝』小学館、2014年、178-179頁。ISBN 978-4-09-389752-5

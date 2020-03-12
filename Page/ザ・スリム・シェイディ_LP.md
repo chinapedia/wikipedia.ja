@@ -1,13 +1,13 @@
 > この記事は[ LP](https://ja.wikipedia.org/wiki/_LP)から翻訳されています。
 
 
-**The Slim Shady LP**は[アメリカ出身の白人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[エミネムのファースト](https://ja.wikipedia.org/wiki/EMINEM "wikilink")・[アルバム](../Page/アルバム.md "wikilink")で、[1999年](../Page/1999年.md "wikilink")に[ドクター・ドレー](https://ja.wikipedia.org/wiki/ドクター・ドレー "wikilink")率いる[アフターマス・エンターテインメント](../Page/アフターマス・エンターテインメント.md "wikilink")からのリリースされた。
+**The Slim Shady LP**は[アメリカ出身の白人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[エミネムのファースト](https://ja.wikipedia.org/wiki/EMINEM "wikilink")・[アルバム](../Page/アルバム.md "wikilink")で、[1999年](../Page/1999年.md "wikilink")に[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")率いる[アフターマス・エンターテインメント](../Page/アフターマス・エンターテインメント.md "wikilink")からのリリースされた。
 
 ## 解説
 
 このアルバムは、[2000年](../Page/2000年.md "wikilink")の[グラミー賞](../Page/グラミー賞.md "wikilink")のベスト・ラップ・アルバム部門と、収録曲「My Name Is」によるラップ・ソロ・パフォーマンス部門の受賞で二冠を達成した。
 
-『ローリング・ストーン誌が選ぶオールタイム・ベストアルバム500』に於いて、275位にランクイン\[1\]。「Just Don't Give A Fuck」の[サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")には[2パック](https://ja.wikipedia.org/wiki/2パック "wikilink")が参加している\[2\]。
+『ローリング・ストーン誌が選ぶオールタイム・ベストアルバム500』に於いて、275位にランクイン\[1\]。「Just Don't Give A Fuck」の[サビ](../Page/サビ.md "wikilink")には[2パック](../Page/2パック.md "wikilink")が参加している\[2\]。
 
 ## 収録曲
 

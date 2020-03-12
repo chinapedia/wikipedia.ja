@@ -1,48 +1,48 @@
 > この記事は[VERSUS \(\)](https://ja.wikipedia.org/wiki/VERSUS_\(\))から翻訳されています。
 
 
-『**VERSUS**』（ヴァーサス）は、[2001年製作の](https://ja.wikipedia.org/wiki/2001年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[監督は](../Page/映画監督.md "wikilink")[北村龍平](../Page/北村龍平.md "wikilink")。[ゾンビ](../Page/ゾンビ.md "wikilink")、[ガンアクション](../Page/銃.md "wikilink")、[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")、[ブレードバトルというB級アクションの定番素材を組み合わせた](https://ja.wikipedia.org/wiki/チャンバラ "wikilink")[サンプリング映画](https://ja.wikipedia.org/wiki/サンプリング映画 "wikilink")。インディーズ製作としては高レベルな映像技術が注目をあつめた。
+『**VERSUS**』（ヴァーサス）は、[2001年製作の](../Page/2001年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[監督は](../Page/映画監督.md "wikilink")[北村龍平](../Page/北村龍平.md "wikilink")。[ゾンビ](../Page/ゾンビ.md "wikilink")、[ガンアクション](../Page/銃.md "wikilink")、[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")、[ブレードバトルというB級アクションの定番素材を組み合わせた](../Page/チャンバラ.md "wikilink")[サンプリング映画](https://ja.wikipedia.org/wiki/サンプリング映画 "wikilink")。インディーズ製作としては高レベルな映像技術が注目をあつめた。
 
 ## ストーリー
 
-囚人番号KSC2-303は、[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")に[護送される最中](https://ja.wikipedia.org/wiki/護送車 "wikilink")、とある組織に所属していた囚人仲間とともに脱走を果たす。しかし集合地点に居合わせた組織の[ヤクザ](../Page/ヤクザ.md "wikilink")達は、早る二人に「待て」という。
+囚人番号KSC2-303は、[警察](../Page/警察.md "wikilink")に[護送される最中](https://ja.wikipedia.org/wiki/護送車 "wikilink")、とある組織に所属していた囚人仲間とともに脱走を果たす。しかし集合地点に居合わせた組織の[ヤクザ](../Page/ヤクザ.md "wikilink")達は、早る二人に「待て」という。
 
-やがて「ボスがつれて来いといった」女の処遇を巡って、ヤクザ達と険悪になった脱獄囚はヤクザから銃を奪い、一人を射殺する。*しかし、射殺されたはずのヤクザは突如立ち上がり、[脱獄](https://ja.wikipedia.org/wiki/脱獄 "wikilink")囚と仲間のヤクザ達に襲い掛かった……。*
+やがて「ボスがつれて来いといった」女の処遇を巡って、ヤクザ達と険悪になった脱獄囚はヤクザから銃を奪い、一人を射殺する。*しかし、射殺されたはずのヤクザは突如立ち上がり、[脱獄](../Page/脱獄.md "wikilink")囚と仲間のヤクザ達に襲い掛かった……。*
 
-背後に広がる、死者を蘇らせる**「黄泉がえりの森」**に女を連れて飛び込む脱獄囚と、それを追うヤクザ達。脱獄囚とヤクザとの、ヤクザ達が殺して遺棄してきた死者たち・ヤクザの裏切り者が呼んだ暗殺者たち・囚人を護送していた[刑事](https://ja.wikipedia.org/wiki/刑事 "wikilink")たちを巻き込んだ血みどろの乱戦が始まった。
+背後に広がる、死者を蘇らせる**「黄泉がえりの森」**に女を連れて飛び込む脱獄囚と、それを追うヤクザ達。脱獄囚とヤクザとの、ヤクザ達が殺して遺棄してきた死者たち・ヤクザの裏切り者が呼んだ暗殺者たち・囚人を護送していた[刑事](../Page/刑事.md "wikilink")たちを巻き込んだ血みどろの乱戦が始まった。
 
 次々と地中から蘇る死者達、死んだそばから[ゾンビ](../Page/ゾンビ.md "wikilink")となってふたたび襲い掛かるヤクザや暗殺者達との激闘の末、女とともに生きのびた脱獄囚の目の前に、組織のリーダーを務める謎の男が現れる。二人と女を結ぶ数百年前の因縁に導かれた二人は刀を取り、数百年越しの戦いに決着をつける。
 
 ## スタッフ
 
   - 監督：[北村龍平](../Page/北村龍平.md "wikilink")
-  - 脚本：北村龍平 [山口雄大](https://ja.wikipedia.org/wiki/山口雄大 "wikilink")
+  - 脚本：北村龍平 [山口雄大](../Page/山口雄大.md "wikilink")
   - プロデューサー：[進啓士郎](https://ja.wikipedia.org/wiki/進啓士郎 "wikilink")
   - アソシエイト・プロデューサー：[高橋信之](https://ja.wikipedia.org/wiki/高橋信之_\(映画プロデューサー\) "wikilink")
-  - 撮影：[古谷巧](https://ja.wikipedia.org/wiki/古谷巧 "wikilink")
-  - 編集：[掛須秀一](https://ja.wikipedia.org/wiki/掛須秀一 "wikilink")
+  - 撮影：[古谷巧](../Page/古谷巧.md "wikilink")
+  - 編集：[掛須秀一](../Page/掛須秀一.md "wikilink")
   - 特殊メイク：[仲谷進](https://ja.wikipedia.org/wiki/仲谷進 "wikilink")
-  - アクション監督：[下村勇二](https://ja.wikipedia.org/wiki/下村勇二 "wikilink")
+  - アクション監督：[下村勇二](../Page/下村勇二.md "wikilink")
   - 音楽：[森野宣彦](https://ja.wikipedia.org/wiki/森野宣彦 "wikilink")
-  - 津軽三味線：[吉田健一](https://ja.wikipedia.org/wiki/吉田兄弟 "wikilink")
+  - 津軽三味線：[吉田健一](../Page/吉田兄弟.md "wikilink")
   - 総合プロデューサー&プロデュース：[西村秀雄& WEVCO Produce Company](https://ja.wikipedia.org/wiki/西村秀雄&_WEVCO_Produce_Company "wikilink")
 
 ## キャスト
 
 当て書きで、役名が一切決められておらず、脚本も役名ではなく役者の名前で書かれていた。（）はDVDで表記されているもの。
 
-  - [坂口拓](https://ja.wikipedia.org/wiki/坂口拓 "wikilink")……囚人番号KSC2-303（ダークヒーロー）
+  - [坂口拓](../Page/坂口拓.md "wikilink")……囚人番号KSC2-303（ダークヒーロー）
   - [榊英雄](../Page/榊英雄.md "wikilink")……全てを知る不死身の男、ヤクザのリーダー（全てを知る男）
   - [三坂知絵子](https://ja.wikipedia.org/wiki/三坂知絵子 "wikilink")……記憶のない女
-  - [松田賢二](https://ja.wikipedia.org/wiki/松田賢二 "wikilink")……ナイフ使いのバイセクシャルのヤクザ(レザボア)
+  - [松田賢二](../Page/松田賢二.md "wikilink")……ナイフ使いのバイセクシャルのヤクザ(レザボア)
   - [大場一史](https://ja.wikipedia.org/wiki/大場一史 "wikilink")……ナイフ使いと懇ろのメガネのヤクザ (レザボア、ガンマニア)
   - [松本実](https://ja.wikipedia.org/wiki/松本実 "wikilink")……チビで小心なヤクザ（レザボア、赤顔、チビ）
   - [新井雄一郎](https://ja.wikipedia.org/wiki/新井雄一郎 "wikilink")……不死身の男にただ1人忠誠を誓うヤクザ（レザボア）
   - [片山武宏](https://ja.wikipedia.org/wiki/片山武宏 "wikilink")……赤い髪の暗殺者（アサシンズ）
-  - [吉原歩](https://ja.wikipedia.org/wiki/霧島れいか "wikilink")……二挺拳銃の暗殺者（アサシンズ）
+  - [吉原歩](../Page/霧島れいか.md "wikilink")……二挺拳銃の暗殺者（アサシンズ）
   - [浅井星光](https://ja.wikipedia.org/wiki/浅井星光 "wikilink")……空手使いの暗殺者（アサシンズ、赤毛）
   - [谷門進士](https://ja.wikipedia.org/wiki/谷門進士 "wikilink")……異様な雰囲気の刑事（必殺処刑コップ）
-  - [増本庄一郎](https://ja.wikipedia.org/wiki/増本庄一郎 "wikilink")……右手を切断される刑事（必殺処刑コップ）
+  - [増本庄一郎](../Page/増本庄一郎.md "wikilink")……右手を切断される刑事（必殺処刑コップ）
   - [古宮基成](https://ja.wikipedia.org/wiki/古宮基成 "wikilink")……組織への手引きをした脱獄囚
   - [渡部遼介](https://ja.wikipedia.org/wiki/渡部遼介 "wikilink")……KSC2-303に射殺されたヤクザのサブ・リーダー
   - [上赤俊朗](https://ja.wikipedia.org/wiki/上赤俊朗 "wikilink")……冒頭で惨殺される侍（侍）
@@ -51,7 +51,7 @@
 
   - 当初は『[ダウン・トゥ・ヘル](https://ja.wikipedia.org/wiki/ダウン・トゥ・ヘル "wikilink")』の続編を撮るつもりで撮影していたが、だんだんアイディアなどが浮かんできて『VERSUS』という題名になった。そのためスタッフジャンパーも、初期構想のタイトルであった『Down 2 Hell』と書かれたものが使われた。
   - 制作費は3000万円という低予算。
-  - 本作で主演の[坂口拓](https://ja.wikipedia.org/wiki/坂口拓 "wikilink")は撮影中に肋骨を折り、銃のスライドを口で引くシーンで歯が欠けるというアクシデントにあった。しかし第2班監督の[山口雄大](https://ja.wikipedia.org/wiki/山口雄大 "wikilink")は「ウソだと思います。彼はそういうトリックがうまいから」と語っている。
+  - 本作で主演の[坂口拓](../Page/坂口拓.md "wikilink")は撮影中に肋骨を折り、銃のスライドを口で引くシーンで歯が欠けるというアクシデントにあった。しかし第2班監督の[山口雄大](../Page/山口雄大.md "wikilink")は「ウソだと思います。彼はそういうトリックがうまいから」と語っている。
   - 東京国際ファンタスティック映画祭2000
   - ジェラルメール国際ファンタスティック映画祭2001（フランス）
       - ワールドプレミア上映
@@ -70,7 +70,7 @@
       - 北米プレミア上映
   - シッチェス国際ファンタスティック映画祭（スペイン）などその他。
   - [新藤兼人賞](https://ja.wikipedia.org/wiki/新藤兼人賞 "wikilink")2001・銀賞授賞
-  - 本作の監督[北村龍平](../Page/北村龍平.md "wikilink")は、[山口雄大](https://ja.wikipedia.org/wiki/山口雄大 "wikilink")監督の自主制作映画『手鼻三吉と2（トゥワイス）志郎が往く』で[坂口拓](https://ja.wikipedia.org/wiki/坂口拓 "wikilink")の笑顔を見て「なんていい笑顔をするんだ\!早くこのバカ面野郎を連れて来い\!」と言ったという。
+  - 本作の監督[北村龍平](../Page/北村龍平.md "wikilink")は、[山口雄大](../Page/山口雄大.md "wikilink")監督の自主制作映画『手鼻三吉と2（トゥワイス）志郎が往く』で[坂口拓](../Page/坂口拓.md "wikilink")の笑顔を見て「なんていい笑顔をするんだ\!早くこのバカ面野郎を連れて来い\!」と言ったという。
   - 劇中の坂口拓と松田賢二の殺陣で使われているナイフは本物。最初は銀紙で包んだ偽物を使っていたが第2班監督の山口雄大が「『VERSUS』を見るお客さんがこれ銀紙だとわかるんじゃないかな？」と不安になり、結局本物を使うことになった。坂口本人も「本物でも大丈夫ですよ」と語っていたが内心ドキドキしていたという。
   - 昼間だったシーンが突然、夜や夕方になる等、シーンの繋がりが無視されている箇所があるが、監督自らの意思によるものである。
   - フランスでは上赤俊朗が演じた、戦国時代にゾンビと闘っていた侍と坂口拓が同一人物であると勘違いされ、上赤俊朗の姿が大きく写ったポスターが制作された。

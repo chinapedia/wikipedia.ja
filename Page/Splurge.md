@@ -1,13 +1,13 @@
 > この記事は[Splurge](https://ja.wikipedia.org/wiki/Splurge)から翻訳されています。
 
 
-『**Splurge**』（スプラージ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の9枚目の[アルバム](../Page/アルバム.md "wikilink")。 デビュー10周年記念アルバム。
+『**Splurge**』（スプラージ）は、[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の9枚目の[アルバム](../Page/アルバム.md "wikilink")。 デビュー10周年記念アルバム。
 
 ## 収録曲
 
 1.  **Radio Tokyo**
       -
-        作詞・作曲・プロデュース・ギター・ベース・コーラス：[Butch Walker](https://ja.wikipedia.org/wiki/ブッチ・ウォーカー "wikilink")
+        作詞・作曲・プロデュース・ギター・ベース・コーラス：[Butch Walker](../Page/ブッチ・ウォーカー.md "wikilink")
         ドラム：Darren Dodd
 2.  **ナイスバディ**
       -
@@ -15,30 +15,30 @@
         ギター：Carrick Moore Gerety、ベース：John Fields、ドラム：Mikey McCormack
           - 「はじまりのうた」のカップリング曲。
           - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[ムーヴラテ](../Page/ダイハツ・ムーヴ.md "wikilink")」CMソング（「洗車の前に、まず洗顔」篇）
-3.  **[Tokyo I'm On My Way](https://ja.wikipedia.org/wiki/Tokyo_I'm_On_My_Way "wikilink")**
+3.  **[Tokyo I'm On My Way](../Page/Tokyo_I'm_On_My_Way.md "wikilink")**
       -
-        作詞・作曲：[Dexter Holland](https://ja.wikipedia.org/wiki/デクスター・ホーランド "wikilink")　プロデュース：[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
-        ギター：[小名川高弘](https://ja.wikipedia.org/wiki/小名川高弘 "wikilink")、ベース：亀田誠治、ドラム：[村石雅行](https://ja.wikipedia.org/wiki/村石雅行 "wikilink")
+        作詞・作曲：[Dexter Holland](../Page/デクスター・ホーランド.md "wikilink")　プロデュース：[亀田誠治](../Page/亀田誠治.md "wikilink")
+        ギター：[小名川高弘](../Page/小名川高弘.md "wikilink")、ベース：亀田誠治、ドラム：[村石雅行](../Page/村石雅行.md "wikilink")
 4.  **Shall We Dance?**
       -
         作詞：PUFFY　作曲・プロデュース・ギター・ベース：Butch Walker
         ドラム：Darren Dodd
-          - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")「[Hi Hi PUFFY部](https://ja.wikipedia.org/wiki/Hi_Hi_PUFFY部 "wikilink")」オープニングテーマ
+          - [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[Hi Hi PUFFY部](../Page/Hi_Hi_PUFFY部.md "wikilink")」オープニングテーマ
 5.  **恋のエチュード**
       -
         作詞・作曲：[草野正宗](../Page/草野マサムネ.md "wikilink")　プロデュース・ベース：[根岸孝旨](../Page/根岸孝旨.md "wikilink")
         ギター・コーラス：[奥田民生](../Page/奥田民生.md "wikilink")、ドラム：[古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")、キーボード：柴田俊文
-          - 『[愛のしるし](https://ja.wikipedia.org/wiki/愛のしるし "wikilink")』以来となる[スピッツの草野正宗提供曲](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")。
+          - 『[愛のしるし](../Page/愛のしるし.md "wikilink")』以来となる[スピッツの草野正宗提供曲](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")。
           - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[ムーヴラテ](../Page/ダイハツ・ムーヴ.md "wikilink")」CMソング（「デラックスリラックス」篇）
 6.  **女マシンガン**
       -
-        作詞・シャウト：セイジ（[ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")）　作曲・プロデュース・ギター・パーカッション：[Jon Spencer](https://ja.wikipedia.org/wiki/ジョン・スペンサー "wikilink")
+        作詞・シャウト：セイジ（[ギターウルフ](../Page/ギターウルフ.md "wikilink")）　作曲・プロデュース・ギター・パーカッション：[Jon Spencer](https://ja.wikipedia.org/wiki/ジョン・スペンサー "wikilink")
         ギター：Matt Verta Ray、Chris Maxwell、ベース：Simon Chardiet、ドラム：Phil Hernandez
 7.  **Sunday in the park**
       -
         作詞・作曲・プロデュース：Charley Drayton, [奥田民生](../Page/奥田民生.md "wikilink")
         ギター：奥田民生、ベース[小原礼](../Page/小原礼.md "wikilink")、ドラム：Charley Drayton
-8.  **[モグラライク](https://ja.wikipedia.org/wiki/モグラライク "wikilink")**
+8.  **[モグラライク](../Page/モグラライク.md "wikilink")**
       -
         作詞・作曲・プロデュース・全楽器・コーラス：奥田民生
           - TBS系野球中継「[ザ・プロ野球](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")」テーマ曲
@@ -55,28 +55,28 @@
           - [三井不動産](../Page/三井不動産.md "wikilink")「三井アウトレットパーク」CMソング
 11. **モグラ**
       -
-        作詞・作曲：[甲本ヒロト](https://ja.wikipedia.org/wiki/甲本ヒロト "wikilink")　プロデュース・ベース・プログラミング：[上田ケンジ](https://ja.wikipedia.org/wiki/上田ケンジ "wikilink")
-        ギター：[杉本恭一](https://ja.wikipedia.org/wiki/レピッシュ "wikilink")、ドラム：[クハラカズユキ](https://ja.wikipedia.org/wiki/クハラカズユキ "wikilink")、オルガン・シンセ：[十川知司](../Page/十川ともじ.md "wikilink")
+        作詞・作曲：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")　プロデュース・ベース・プログラミング：[上田ケンジ](../Page/上田ケンジ.md "wikilink")
+        ギター：[杉本恭一](../Page/レピッシュ.md "wikilink")、ドラム：[クハラカズユキ](../Page/クハラカズユキ.md "wikilink")、オルガン・シンセ：[十川知司](../Page/十川ともじ.md "wikilink")
     <!-- end list -->
       - 「モグラライク」のカップリング曲。
 12. **らくだの国**
       -
-        作詞・作曲・プロデュース・全楽器：[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
+        作詞・作曲・プロデュース・全楽器：[斉藤和義](../Page/斉藤和義.md "wikilink")
           - [吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")ソロ曲
 13. **Security Blanket**
       -
-        作詞：[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")　作曲・プロデュース・ギター・コーラス：[横山健](https://ja.wikipedia.org/wiki/横山健 "wikilink")
+        作詞：[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")　作曲・プロデュース・ギター・コーラス：[横山健](../Page/横山健.md "wikilink")
         ベース：Serge Verkhovsky、ドラム：Duncan Redmonds
           - 大貫亜美ソロ曲
-14. **[はじまりのうた](https://ja.wikipedia.org/wiki/はじまりのうた_\(PUFFYの曲\) "wikilink")**
+14. **[はじまりのうた](../Page/はじまりのうた_\(PUFFYの曲\).md "wikilink")**
       -
         作詞：PUFFY　作曲：Andy Sturmer, Bleu　プロデュース・全楽器：Andy Sturmer
           - 映画「[劇場版ポケットモンスターアドバンスジェネレーション ミュウと波導の勇者ルカリオ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスターアドバンスジェネレーション_ミュウと波導の勇者ルカリオ "wikilink")」主題歌
 15. **Basket Case (Bonus Track)**
       -
-        作詞：[Billy Armstrong](https://ja.wikipedia.org/wiki/ビリー・ジョー・アームストロング "wikilink")　作曲：Billy Armstrong, Michael Pitchard, Frank Wright
-        ギター：柳沢二三男、ベース：[木下裕晴](https://ja.wikipedia.org/wiki/木下裕晴 "wikilink")、ドラム：[古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")、キーボード：藤本純一
-          - [グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")のカバー
+        作詞：[Billy Armstrong](../Page/ビリー・ジョー・アームストロング.md "wikilink")　作曲：Billy Armstrong, Michael Pitchard, Frank Wright
+        ギター：柳沢二三男、ベース：[木下裕晴](../Page/木下裕晴.md "wikilink")、ドラム：[古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")、キーボード：藤本純一
+          - [グリーン・デイ](../Page/グリーン・デイ.md "wikilink")のカバー
 
 ### US版
 
@@ -106,7 +106,7 @@
 
 ## その他
 
-  - 「恋のエチュード」（M-5）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")「DRIVIN' J-POP for love & joy」の8曲目にも収録されている。
+  - 「恋のエチュード」（M-5）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「DRIVIN' J-POP for love & joy」の8曲目にも収録されている。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[SPORTSSTAR!!](https://ja.wikipedia.org/wiki/SPORTSSTAR!!)から翻訳されています。
 
 
-**Monday SPORTS Entertainment ビビる大木のSPORTS☆STAR\!\!**（マンデースポーツエンターテイメント ビビるおおきのスポーツスター）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで1年間放送された。
+**Monday SPORTS Entertainment ビビる大木のSPORTS☆STAR\!\!**（マンデースポーツエンターテイメント ビビるおおきのスポーツスター）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで1年間放送された。
 
 ## 概要
 
@@ -9,12 +9,12 @@
 
 オープニングの大木の挨拶は、もちろん「こんばん**み**」である。
 
-レギュラー放送終了後の2008年[7月6日](../Page/7月6日.md "wikilink")、「[北京オリンピック金メダルへの道スペシャル](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")\!」と題する2時間の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")を放送した。
+レギュラー放送終了後の2008年[7月6日](../Page/7月6日.md "wikilink")、「[北京オリンピック金メダルへの道スペシャル](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")\!」と題する2時間の[特別番組](../Page/特別番組.md "wikilink")を放送した。
 
 ## 出演者
 
   - [ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink") （[お笑いタレント](../Page/お笑いタレント.md "wikilink")）
-  - [生島淳](https://ja.wikipedia.org/wiki/生島淳 "wikilink") （[スポーツ](../Page/スポーツ.md "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")）
+  - [生島淳](../Page/生島淳.md "wikilink") （[スポーツ](../Page/スポーツ.md "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")）
 
 ## 放送時間
 

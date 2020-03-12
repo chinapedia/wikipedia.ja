@@ -1,7 +1,7 @@
 > この記事は[DTrace](https://ja.wikipedia.org/wiki/DTrace)から翻訳されています。
 
 
-**DTrace**（ダイナミックトレース）とは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")が開発し[Solaris](../Page/Solaris.md "wikilink") 10および[OpenSolaris](https://ja.wikipedia.org/wiki/OpenSolaris "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")(プレビュー実装)に搭載されているシステム情報取得機能である。
+**DTrace**（ダイナミックトレース）とは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")が開発し[Solaris](../Page/Solaris.md "wikilink") 10および[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")(プレビュー実装)に搭載されているシステム情報取得機能である。
 
 ## 概要
 

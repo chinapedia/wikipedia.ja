@@ -1,24 +1,24 @@
 > この記事は[ONE PIECE ](https://ja.wikipedia.org/wiki/ONE_PIECE_)から翻訳されています。
 
 
-**ONE PIECE 麦わら劇場**（ワンピース むぎわらげきじょう）は、[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE "wikilink")』における[番外編](https://ja.wikipedia.org/wiki/番外編 "wikilink")。
+**ONE PIECE 麦わら劇場**（ワンピース むぎわらげきじょう）は、[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』における[番外編](https://ja.wikipedia.org/wiki/番外編 "wikilink")。
 
 ## 概要
 
 『ONE PIECE』における番外編で、数ページの短編である。
 
-「**麦わら劇場**」と題のつく最初のものは、第304話「長い島の冒険」に付属した、4ページのオールカラー漫画「海の音楽会」である。その後、総集編に3ページのおまけ漫画として『REPORT TIME』が掲載される。この作品を皮切りに、総集編におまけ漫画5話が掲載され、これらが[アニメ化される際](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")、「麦わら劇場」というシリーズ名が付けられた。なお、『SPACE TIME』以降の話はアニメ化されていない。
+「**麦わら劇場**」と題のつく最初のものは、第304話「長い島の冒険」に付属した、4ページのオールカラー漫画「海の音楽会」である。その後、総集編に3ページのおまけ漫画として『REPORT TIME』が掲載される。この作品を皮切りに、総集編におまけ漫画5話が掲載され、これらが[アニメ化される際](../Page/ONE_PIECE_\(アニメ\).md "wikilink")、「麦わら劇場」というシリーズ名が付けられた。なお、『SPACE TIME』以降の話はアニメ化されていない。
 
-5編は力を抜いたような[デフォルメ](https://ja.wikipedia.org/wiki/デフォルメ "wikilink")タッチで描かれており、これは『ONE PIECE BLUE』に掲載された『[ルフィ海賊団の四コマ劇場](https://ja.wikipedia.org/wiki/#ルフィ海賊団の四コマ劇場 "wikilink")』の画風とも似ている。
+5編は力を抜いたような[デフォルメ](../Page/デフォルメ.md "wikilink")タッチで描かれており、これは『ONE PIECE BLUE』に掲載された『[ルフィ海賊団の四コマ劇場](https://ja.wikipedia.org/wiki/#ルフィ海賊団の四コマ劇場 "wikilink")』の画風とも似ている。
 
 ## 一覧
 
 『REPORT TIME』から『SPACE TIME』までは『ONE PIECE YELLOW』に収録されている。
 
   - 『CHOPPER MAN』麦わら劇場 その1
-    『ONE PIECE総集編 6TH LOG "ARABASTA"』掲載。[チョッパーマン](https://ja.wikipedia.org/wiki/チョッパーマン "wikilink")を参照。
+    『ONE PIECE総集編 6TH LOG "ARABASTA"』掲載。[チョッパーマン](../Page/チョッパーマン.md "wikilink")を参照。
   - 『REPORT TIME』麦わら劇場 その2
-    『ONE PIECE総集編 2ND LOG "SANJI"』掲載。[サンジ](https://ja.wikipedia.org/wiki/サンジ "wikilink")が麦わらの一味の仲間になるまでの、[ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")・[ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")・[ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")・[ウソップ](https://ja.wikipedia.org/wiki/ウソップ "wikilink")の食生活をリポート。
+    『ONE PIECE総集編 2ND LOG "SANJI"』掲載。[サンジ](../Page/サンジ.md "wikilink")が麦わらの一味の仲間になるまでの、[ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")・[ゾロ](../Page/ロロノア・ゾロ.md "wikilink")・[ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")・[ウソップ](../Page/ウソップ.md "wikilink")の食生活をリポート。
   - 『OBAHAN TIME』麦わら劇場 その3
     『ONE PIECE総集編 3RD LOG "NAMI"』掲載。麦わらの一味のメンバーが、オバハンとなって登場。
   - 『仁義ないTIME』麦わら劇場 その4
@@ -58,7 +58,7 @@
   - ルフィ崎（るふぃざき）
     「今日のこんだて」には肉料理しか書いていない。おまけにサラダは野菜抜き、みそ汁は汁抜きである。[煎餅](../Page/煎餅.md "wikilink")が大好き。
   - ゾロ山（ぞろやま）
-    [刺身](../Page/刺身.md "wikilink")を作ろうとして一緒に[台所](../Page/台所.md "wikilink")と[醤油](https://ja.wikipedia.org/wiki/醤油 "wikilink")の瓶も切ってしまう。
+    [刺身](../Page/刺身.md "wikilink")を作ろうとして一緒に[台所](../Page/台所.md "wikilink")と[醤油](../Page/醤油.md "wikilink")の瓶も切ってしまう。
   - チョパ森（ちょぱもり）
     「スーパーイソフラボン」の試食コーナーにご飯を持参して設置されている試食品を食べまくる迷惑なトナカイ。食品にジャムを大量に付けたがるほどの甘党。
   - サンジ田（さんじだ）
@@ -96,9 +96,9 @@
 ### MONSTER TIME
 
   - ロデューサ
-    直接目を合わせた相手を石に変える、[ゴーゴンという怪物](../Page/ゴルゴーン.md "wikilink")。そのため普段は[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")を着用。
+    直接目を合わせた相手を石に変える、[ゴーゴンという怪物](../Page/ゴルゴーン.md "wikilink")。そのため普段は[サングラス](../Page/サングラス.md "wikilink")を着用。
   - ウソッパカ
-    弓を持っている[ケンタウロス](../Page/ケンタウロス.md "wikilink")。[角笛](https://ja.wikipedia.org/wiki/角笛 "wikilink")を作るために「幻の角」を探している。
+    弓を持っている[ケンタウロス](../Page/ケンタウロス.md "wikilink")。[角笛](../Page/角笛.md "wikilink")を作るために「幻の角」を探している。
   - ルギャオ
     幻の魚を釣ろうとしている[ドラゴン](../Page/ドラゴン.md "wikilink")。頭に「幻の角」を生やしている。
   - チョパーケン

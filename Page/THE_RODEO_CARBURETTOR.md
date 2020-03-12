@@ -6,9 +6,9 @@
 ## 略歴
 
   - 2001年7月結成。
-  - 2005年[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")よりメジャーデビュー。
-  - 同年秋、イギリスで開催された音楽見本市「IN THE CITY」に参加。日本からの他の参加者は[DMBQ](https://ja.wikipedia.org/wiki/DMBQ "wikilink")及び[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")。
-  - 2006年 「SXSW 2006」参加を皮切りに、[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")、[STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink")、[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")等と共に「JAPAN NITE」と銘うったUSツアーを敢行。
+  - 2005年[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")よりメジャーデビュー。
+  - 同年秋、イギリスで開催された音楽見本市「IN THE CITY」に参加。日本からの他の参加者は[DMBQ](../Page/DMBQ.md "wikilink")及び[PE'Z](../Page/PE'Z.md "wikilink")。
+  - 2006年 「SXSW 2006」参加を皮切りに、[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")、[STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")、[PE'Z](../Page/PE'Z.md "wikilink")等と共に「JAPAN NITE」と銘うったUSツアーを敢行。
   - 同年秋、「IN THE CITY」に再び参加する。
   - 2010年11月26日(金)下北沢SHELTERでのライブを以って活動を休止した。
 
@@ -39,7 +39,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/meaningful/Precious_EP" title="wikilink">meaningful/Precious EP</a></strong></p></td>
 <td><p>ESCL-5010</p></td>
 <td><p>kowalski<br />
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/glare" title="wikilink">glare</a></strong></p></td>
 <td><p>ESCL-5012</p></td>
 <td><p>kowalski<br />
@@ -280,7 +280,7 @@
 | [Mitch Ikeda](https://ja.wikipedia.org/wiki/Mitch_Ikeda "wikilink") | 「[meaningful](https://www.youtube.com/watch?v=eNLVdZCURCU)」                                                                              |
 | [井上雅貴](https://ja.wikipedia.org/wiki/井上雅貴 "wikilink")               | 「[Kick up a shindy](https://www.youtube.com/watch?v=9kAwFJ-YVO8)」                                                                        |
 | [上野コオイチ](https://ja.wikipedia.org/wiki/上野コオイチ "wikilink")           | 「[BLACKXXX](https://www.youtube.com/watch?v=jyr0ANzIhuY)」「[John-Blaze](https://www.youtube.com/watch?v=tYMcBA5atL0)」「John-Blaze (ver.2)」 |
-| [島田大介](https://ja.wikipedia.org/wiki/島田大介 "wikilink")               | 「Outblaze」「[Precious](https://www.youtube.com/watch?v=-BQf1MGzXBk)」「[glare](https://www.youtube.com/watch?v=8gU4Suphlrg)」                |
+| [島田大介](../Page/島田大介.md "wikilink")                                  | 「Outblaze」「[Precious](https://www.youtube.com/watch?v=-BQf1MGzXBk)」「[glare](https://www.youtube.com/watch?v=8gU4Suphlrg)」                |
 | [中井篤志](https://ja.wikipedia.org/wiki/中井篤志 "wikilink")               | 「[Heavy Beauty](https://www.youtube.com/watch?v=5Y9qGXwqqpk)」                                                                            |
 | [深津昌和](https://ja.wikipedia.org/wiki/深津昌和 "wikilink")               | 「Speed of flow」                                                                                                                          |
 | [宮野敏一](https://ja.wikipedia.org/wiki/宮野敏一 "wikilink")               | 「God of Hell」                                                                                                                            |
@@ -291,7 +291,7 @@
 
   - 2007年08月17日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2007 in EZO
   - 2007年08月26日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2007 ～遊び心～
-  - 2007年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 07/08
+  - 2007年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 07/08
   - 2008年08月03日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2008年08月24日 - Sky Jamboree 2008 ～笑顔～
   - 2009年05月10日 - BEA presents F-X 2009

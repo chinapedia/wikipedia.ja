@@ -1,7 +1,7 @@
 > この記事は[Let Love Lead The Way](https://ja.wikipedia.org/wiki/Let_Love_Lead_The_Way)から翻訳されています。
 
 
-「**Let Love Lead The Way**」（レット ラヴ リード ザ ウェイ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の女性歌手グループ、[スパイス・ガールズ](https://ja.wikipedia.org/wiki/スパイス・ガールズ "wikilink")の[バラード](../Page/バラード.md "wikilink")調の曲。ダブルAサイドとして「[Holler](../Page/Holler.md "wikilink")」と共にリリースされた。
+「**Let Love Lead The Way**」（レット ラヴ リード ザ ウェイ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の女性歌手グループ、[スパイス・ガールズ](../Page/スパイス・ガールズ.md "wikilink")の[バラード](../Page/バラード.md "wikilink")調の曲。ダブルAサイドとして「[Holler](../Page/Holler.md "wikilink")」と共にリリースされた。
 
 ## 曲について
 
@@ -34,25 +34,25 @@
 
 ## チャート
 
-| チャート                                                        | 順位  |
-| :---------------------------------------------------------- | :-- |
-| [オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink") | 2   |
-| [UK](https://ja.wikipedia.org/wiki/イギリス "wikilink")         | 1   |
-| [アイルランド](../Page/アイルランド.md "wikilink")                      | 3   |
-| [イタリア](../Page/イタリア.md "wikilink")                          | 3   |
-| [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")         | 4   |
-| U.S [ビルボード](../Page/ビルボード.md "wikilink")                    | 107 |
-| U.S ホットダンス・クラブプレイ                                           | 31  |
-| [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")       | 44  |
-| [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")         | 17  |
-| [オーストリア](../Page/オーストリア.md "wikilink")                      | 24  |
-| [ニュージーランド](../Page/ニュージーランド.md "wikilink")                  | 2   |
-| [スイス](../Page/スイス.md "wikilink")                            | 15  |
-| [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")     | 1   |
-| [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")   | 8   |
-| [ノルウェー](../Page/ノルウェー.md "wikilink")                        | 4   |
-| [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")   | 6   |
-|                                                             |     |
+| チャート                                                      | 順位  |
+| :-------------------------------------------------------- | :-- |
+| [オーストラリア](../Page/オーストラリア.md "wikilink")                  | 2   |
+| [UK](https://ja.wikipedia.org/wiki/イギリス "wikilink")       | 1   |
+| [アイルランド](../Page/アイルランド.md "wikilink")                    | 3   |
+| [イタリア](../Page/イタリア.md "wikilink")                        | 3   |
+| [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")       | 4   |
+| U.S [ビルボード](../Page/ビルボード.md "wikilink")                  | 107 |
+| U.S ホットダンス・クラブプレイ                                         | 31  |
+| [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")     | 44  |
+| [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")       | 17  |
+| [オーストリア](../Page/オーストリア.md "wikilink")                    | 24  |
+| [ニュージーランド](../Page/ニュージーランド.md "wikilink")                | 2   |
+| [スイス](../Page/スイス.md "wikilink")                          | 15  |
+| [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")   | 1   |
+| [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink") | 8   |
+| [ノルウェー](../Page/ノルウェー.md "wikilink")                      | 4   |
+| [フィンランド](../Page/フィンランド.md "wikilink")                    | 6   |
+|                                                           |     |
 
 UKでの売り上げ23万枚
 

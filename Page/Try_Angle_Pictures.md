@@ -3,7 +3,7 @@
 
 **Try Angle Pictures**（トライアングルピクチャーズ、通称TAP、[1999年](../Page/1999年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に結成）は、メッセージ映画製作を主眼とする[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")発信の自主映画製作団体である。
 
-[大阪経済大学](https://ja.wikipedia.org/wiki/大阪経済大学 "wikilink")48代映画研究部の新鋭達（在学中は、関西[ヌーヴェル・ヴァーグ](https://ja.wikipedia.org/wiki/ヌーヴェル・ヴァーグ "wikilink")と名乗る）が中心となり、人間や人生の真意を追求した演出と表現においての[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")性を融合させた映画の作風を特徴とする。
+[大阪経済大学](../Page/大阪経済大学.md "wikilink")48代映画研究部の新鋭達（在学中は、関西[ヌーヴェル・ヴァーグ](https://ja.wikipedia.org/wiki/ヌーヴェル・ヴァーグ "wikilink")と名乗る）が中心となり、人間や人生の真意を追求した演出と表現においての[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")性を融合させた映画の作風を特徴とする。
 
 現在では、映画製作のみならず、音楽PV・Live映像・演劇撮影・インスタレーション映像など幅広いジャンルの制作を行っている。
 

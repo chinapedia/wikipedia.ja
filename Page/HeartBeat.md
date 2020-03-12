@@ -11,9 +11,9 @@
 
 3人以外はクレジットでの役名の表記が無い
 
-  - 美咲 香織：[奈良沙緒理](https://ja.wikipedia.org/wiki/奈良沙緒理 "wikilink")
-  - 竹内 愛美：[金田美香](https://ja.wikipedia.org/wiki/金田美香 "wikilink")
-  - 橘 渚：[平田裕香](https://ja.wikipedia.org/wiki/平田裕香 "wikilink")
+  - 美咲 香織：[奈良沙緒理](../Page/奈良沙緒理.md "wikilink")
+  - 竹内 愛美：[金田美香](../Page/金田美香.md "wikilink")
+  - 橘 渚：[平田裕香](../Page/平田裕香.md "wikilink")
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
   - 製作著作:[円谷映像](https://ja.wikipedia.org/wiki/円谷映像 "wikilink")
   - 企画制作:[MEDIX-BRAIN](https://ja.wikipedia.org/wiki/MEDIX-BRAIN "wikilink")
-  - 脚本:岡野勇気（1、2、11、12）、[キム・テグワン](https://ja.wikipedia.org/wiki/キム・テグワン "wikilink")（3、8、13）、新間章正（4、5）、林民夫（6、7、10）、[清水厚](https://ja.wikipedia.org/wiki/清水厚 "wikilink")（9）
+  - 脚本:岡野勇気（1、2、11、12）、[キム・テグワン](https://ja.wikipedia.org/wiki/キム・テグワン "wikilink")（3、8、13）、新間章正（4、5）、林民夫（6、7、10）、[清水厚](../Page/清水厚.md "wikilink")（9）
   - 監督:[キム・テグワン](https://ja.wikipedia.org/wiki/キム・テグワン "wikilink")（1、4、5、10、13）、清水厚（2、3、8、9）、広田幹夫（6、7）、小貫英樹（11、12）
   - エグゼクティブ・プロデューサー：金山昇一
   - チーフ・プロデューサー:淵上幸一郎

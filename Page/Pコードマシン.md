@@ -3,7 +3,7 @@
 
 **pコードマシン**とは、[プロセッサ](../Page/プロセッサ.md "wikilink")の一種であるが、ハードウェアではなくソフトウェアで、すなわち[エミュレータや](../Page/エミュレータ_\(コンピュータ\).md "wikilink")[仮想機械](../Page/仮想機械.md "wikilink")のような[インタプリタ](../Page/インタプリタ.md "wikilink")型の[プログラムで実装されることを目的としたものであり](../Page/プログラム_\(コンピュータ\).md "wikilink")、p-code と呼ばれる[中間コード](https://ja.wikipedia.org/wiki/中間コード "wikilink")を解釈実行する。この用語は、そのような仕様一般を指すこともあるが、多くの仕様はそれぞれ個々の名称を持っている。特に[UCSD Pascalの](../Page/UCSD_Pascal.md "wikilink") p-Machine を指すことが多い。「p」の意味については、[Pascal](../Page/Pascal.md "wikilink")処理系の場合はPascalの頭文字ともされるが、他言語の場合はpseudo（[マイクロソフトのサポート情報](http://support.microsoft.com/kb/229415/en-us)を参照）やportable\[1\]などとされる。
 
-このコンセプトは1966年ごろ、[BCPL](https://ja.wikipedia.org/wiki/BCPL "wikilink")のや[ニクラウス・ヴィルト](https://ja.wikipedia.org/wiki/ニクラウス・ヴィルト "wikilink")ののPとして実装されたのが最初であるが、pコード (p-code) と呼ばれるようになったのは1970年代初期であった。pコードを生成する初期の[コンパイラ](../Page/コンパイラ.md "wikilink")としては、1973年、Nori、Ammann、Jensen、Hageli、Jacobi が開発した Pascal-P コンパイラと\[2\]、ヴィルトが1975年に開発した Pascal-S コンパイラがある。
+このコンセプトは1966年ごろ、[BCPL](../Page/BCPL.md "wikilink")のや[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")ののPとして実装されたのが最初であるが、pコード (p-code) と呼ばれるようになったのは1970年代初期であった。pコードを生成する初期の[コンパイラ](../Page/コンパイラ.md "wikilink")としては、1973年、Nori、Ammann、Jensen、Hageli、Jacobi が開発した Pascal-P コンパイラと\[2\]、ヴィルトが1975年に開発した Pascal-S コンパイラがある。
 
 ソースコードからコンパイラの[コード生成](https://ja.wikipedia.org/wiki/コード生成 "wikilink")によってpコードが生成され、そのpコードはpコードマシンのエミュレータ、言い換えればインタプリタによって解釈実行される。商業的に十分意味があるとみて、pコードを直接実行するハードウェアが実装された例もある（例えば、[Pascal MicroEngine](https://ja.wikipedia.org/wiki/:en:Pascal_MicroEngine "wikilink")）。
 
@@ -28,7 +28,7 @@ pコードの最大の欠点は実行速度が遅い点だが、[実行時コン
 
 ### アーキテクチャ
 
-pコードマシンは[スタックマシン](https://ja.wikipedia.org/wiki/スタックマシン "wikilink")であり、ほとんどの命令がスタックからオペランドを持ってきて、結果をスタックに戻す。例えば、add 命令はスタックの先頭2要素を取り出し、加算結果をスタックに戻す。一部の命令は即値オペランドを持つ。Pascalと同様、pコードも型があり、ブーリアン(b)、文字(c)、整数(i)、実数(r)、集合(s)、ポインタ(a)が最初から用意されている。
+pコードマシンは[スタックマシン](../Page/スタックマシン.md "wikilink")であり、ほとんどの命令がスタックからオペランドを持ってきて、結果をスタックに戻す。例えば、add 命令はスタックの先頭2要素を取り出し、加算結果をスタックに戻す。一部の命令は即値オペランドを持つ。Pascalと同様、pコードも型があり、ブーリアン(b)、文字(c)、整数(i)、実数(r)、集合(s)、ポインタ(a)が最初から用意されている。
 
 以下に簡単な命令を示す。命令名、実行前のスタック状態、実行後のスタック状態、解説の順に並んでいる。
 
@@ -101,7 +101,7 @@ PCレジスタはコード領域で現在実行中の命令を指している。
 
 ## 例
 
-[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")、[ニクラウス・ヴィルト](https://ja.wikipedia.org/wiki/ニクラウス・ヴィルト "wikilink")は単純なpコードマシンを自著 *Algorithms + Data Structures = Programs* で定義した。このマシンには3つのレジスタがある。プログラムカウンタ(p)、[スタックベースレジスタ](https://ja.wikipedia.org/wiki/コールスタック "wikilink")(b)、[スタック](../Page/スタック.md "wikilink")ポインタ(t) である。8種類の命令があり、うち1種 (opr) は複数の形式がある。
+[1976年](../Page/1976年.md "wikilink")、[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")は単純なpコードマシンを自著 *Algorithms + Data Structures = Programs* で定義した。このマシンには3つのレジスタがある。プログラムカウンタ(p)、[スタックベースレジスタ](https://ja.wikipedia.org/wiki/コールスタック "wikilink")(b)、[スタック](../Page/スタック.md "wikilink")ポインタ(t) である。8種類の命令があり、うち1種 (opr) は複数の形式がある。
 
 このマシンのコードは以下のようになる (Pascal):
 

@@ -1,23 +1,23 @@
 > この記事は[ \( IN db\)](https://ja.wikipedia.org/wiki/_\(_IN_db\))から翻訳されています。
 
 
-『**いつも心に太陽を**』（いつもこころにたいようを）は、[三枝夕夏 IN dbの](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")10枚目のシングル。
+『**いつも心に太陽を**』（いつもこころにたいようを）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")10枚目のシングル。
 
 ## 概要
 
   - シングル3ヶ月連続リリースの第3弾である。
-  - [三枝夕夏](https://ja.wikipedia.org/wiki/三枝夕夏 "wikilink")が初めて作曲を手がけた。三枝曰く、出世作とのこと。これをきっかけとして、シンガーソングライターとしての幅も広げつつある。
+  - [三枝夕夏](../Page/三枝夕夏.md "wikilink")が初めて作曲を手がけた。三枝曰く、出世作とのこと。これをきっかけとして、シンガーソングライターとしての幅も広げつつある。
   - [オリコン](../Page/オリコン.md "wikilink")デイリーランキングでは、初登場7位にランクインした。
 
 ## 収録曲
 
-全作詞：[三枝夕夏](https://ja.wikipedia.org/wiki/三枝夕夏 "wikilink")
+全作詞：[三枝夕夏](../Page/三枝夕夏.md "wikilink")
 
 1.  **いつも心に太陽を**
       -
-        作曲：三枝夕夏、編曲：[小澤正澄](https://ja.wikipedia.org/wiki/小澤正澄 "wikilink")
+        作曲：三枝夕夏、編曲：[小澤正澄](../Page/小澤正澄.md "wikilink")
     <!-- end list -->
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ウルトラマンネクサス](https://ja.wikipedia.org/wiki/ウルトラマンネクサス "wikilink")』初代エンディングテーマ
+      - [TBS系](../Page/TBSテレビ.md "wikilink")『[ウルトラマンネクサス](../Page/ウルトラマンネクサス.md "wikilink")』初代エンディングテーマ
 2.  **最後のキスは氷のように冷たかった**
       -
         作曲：五大ゆり、編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
@@ -30,8 +30,8 @@
 
 **いつも心に太陽を**
 
-  - [U-ka saegusa IN db II](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_II "wikilink")
-  - [三枝夕夏 IN d-best 〜Smile\&Tears〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_d-best_〜Smile&Tears〜 "wikilink")
+  - [U-ka saegusa IN db II](../Page/U-ka_saegusa_IN_db_II.md "wikilink")
+  - [三枝夕夏 IN d-best 〜Smile\&Tears〜](../Page/三枝夕夏_IN_d-best_〜Smile&Tears〜.md "wikilink")
   - [U-ka saegusa IN db Final Best](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_Final_Best "wikilink")
 
 **最後のキスは氷のように冷たかった**

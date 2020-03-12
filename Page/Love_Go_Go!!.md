@@ -5,17 +5,17 @@
 
 ## 解説
 
-  - 前作『[ハダカノココロ](../Page/ハダカノココロ.md "wikilink")』から2年のブランクを経てリリースされた。また今作と同時にデビュー15周年を記念した2枚組のベストアルバム『[Sweet 15th Diamond](https://ja.wikipedia.org/wiki/Sweet_15th_Diamond "wikilink")』もリリースされている。
-  - また前作まで[小坂洋二](https://ja.wikipedia.org/wiki/小坂洋二 "wikilink")と共同でプロデュースを担当していたが、同年小坂がエピックレコードを退社したため、渡辺本人のセルフプロデュースとなり、サウンドプロデュースを[有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")が担当している。
-  - 「ラブ♥ゴーゴー\!\!」ではコーラスに女優の[羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")が参加している（シングル「素顔」が主題歌になった映画『[F (エフ)](https://ja.wikipedia.org/wiki/F_\(エフ\) "wikilink")』に羽田が出演していた事が縁）。他には有賀啓雄、[山本拓夫](https://ja.wikipedia.org/wiki/山本拓夫 "wikilink")、[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")が参加。
-  - 「ホームラン・ラン・ラン」は[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")アナウンサーの[斉藤一美](https://ja.wikipedia.org/wiki/斉藤一美 "wikilink")による実況中継を挿入している。
+  - 前作『[ハダカノココロ](../Page/ハダカノココロ.md "wikilink")』から2年のブランクを経てリリースされた。また今作と同時にデビュー15周年を記念した2枚組のベストアルバム『[Sweet 15th Diamond](../Page/Sweet_15th_Diamond.md "wikilink")』もリリースされている。
+  - また前作まで[小坂洋二](../Page/小坂洋二.md "wikilink")と共同でプロデュースを担当していたが、同年小坂がエピックレコードを退社したため、渡辺本人のセルフプロデュースとなり、サウンドプロデュースを[有賀啓雄](../Page/有賀啓雄.md "wikilink")が担当している。
+  - 「ラブ♥ゴーゴー\!\!」ではコーラスに女優の[羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")が参加している（シングル「素顔」が主題歌になった映画『[F (エフ)](https://ja.wikipedia.org/wiki/F_\(エフ\) "wikilink")』に羽田が出演していた事が縁）。他には有賀啓雄、[山本拓夫](../Page/山本拓夫.md "wikilink")、[葛城哲哉](../Page/葛城哲哉.md "wikilink")が参加。
+  - 「ホームラン・ラン・ラン」は[文化放送](../Page/文化放送.md "wikilink")アナウンサーの[斉藤一美](../Page/斉藤一美.md "wikilink")による実況中継を挿入している。
   - 「荒ぶる胸のシンバル鳴らせ」は後にシングルカットされた。
-  - 「こぶし」は[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")がアルバム『[Life](https://ja.wikipedia.org/wiki/Life_\(木根尚登のアルバム\) "wikilink")』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）にてセルフカバーしている。
+  - 「こぶし」は[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")がアルバム『[Life](https://ja.wikipedia.org/wiki/Life_\(木根尚登のアルバム\) "wikilink")』（[2005年](../Page/2005年.md "wikilink")）にてセルフカバーしている。
 
 ## 収録曲
 
 1.  **ラブ♥ゴーゴー\!\!**
-      - 作詞：渡辺美里、作曲：[石井妥師](https://ja.wikipedia.org/wiki/石井妥師 "wikilink")、編曲：有賀啓雄
+      - 作詞：渡辺美里、作曲：[石井妥師](../Page/石井妥師.md "wikilink")、編曲：有賀啓雄
 2.  **Lovers universe**
       - 作詞・作曲：渡辺美里、編曲：有賀啓雄
 3.  **あなたのすきな歌**

@@ -1,17 +1,17 @@
 > この記事は[Shabon songs](https://ja.wikipedia.org/wiki/Shabon_songs)から翻訳されています。
 
 
-『**shabon songs**』（シャボン・ソングス）は、[安藤裕子の](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")5枚目（ただし、前作までは「○○ [FULL ALBUM](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")」との表記であったが、今作からは単に「3rd ALBUM」と表記されるようになった。）の[アルバム](../Page/アルバム.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売。発売元は[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
+『**shabon songs**』（シャボン・ソングス）は、[安藤裕子の](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink")5枚目（ただし、前作までは「○○ [FULL ALBUM](../Page/スタジオ・アルバム.md "wikilink")」との表記であったが、今作からは単に「3rd ALBUM」と表記されるようになった。）の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売。発売元は[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に発表された『[Merry Andrew](../Page/Merry_Andrew.md "wikilink")』以来、約1年ぶりとなるアルバム。[シングル](../Page/シングル.md "wikilink")2作を含む全12曲での構成。
+[2006年](../Page/2006年.md "wikilink")に発表された『[Merry Andrew](../Page/Merry_Andrew.md "wikilink")』以来、約1年ぶりとなるアルバム。[シングル](../Page/シングル.md "wikilink")2作を含む全12曲での構成。
 
 通常盤のほか、初回限定特殊パッケージ（ジャケット違い）及び初回限定生産盤（[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")）の2タイプでのリリースとなった。初回盤付属のDVDには、前年行われた『Tour“Merry Andrew”』の模様から数曲セレクトしたものを収録している。3パターンにおいて、収録曲の相違は無い。
 
-また、[タワーレコード](../Page/タワーレコード.md "wikilink")・[HMV](../Page/HMV.md "wikilink")・[TSUTAYA](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")・[新星堂](https://ja.wikipedia.org/wiki/新星堂 "wikilink")では、先着限定で店舗別に4パターンのオリジナルポストカードを封入(店頭販売のみ)。HMVでは、初回盤のみオンライン購入限定で、購入特典としてオリジナル壁紙をダウンロードできる。
+また、[タワーレコード](../Page/タワーレコード.md "wikilink")・[HMV](../Page/HMV.md "wikilink")・[TSUTAYA](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")・[新星堂](../Page/新星堂.md "wikilink")では、先着限定で店舗別に4パターンのオリジナルポストカードを封入(店頭販売のみ)。HMVでは、初回盤のみオンライン購入限定で、購入特典としてオリジナル壁紙をダウンロードできる。
 
-作品としては、前作より若干[バンド形態の楽曲が増す傾向にある](../Page/バンド_\(音楽\).md "wikilink")。発売週の[オリコンデイリーチャートでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を記録し、週間チャートでは当時の自己最高位の6位を記録した。
+作品としては、前作より若干[バンド形態の楽曲が増す傾向にある](../Page/バンド_\(音楽\).md "wikilink")。発売週の[オリコンデイリーチャートでは](../Page/オリコンチャート.md "wikilink")3位を記録し、週間チャートでは当時の自己最高位の6位を記録した。
 
 ## 収録曲
 
@@ -22,13 +22,13 @@
 3.  **TEXAS**
     (作詞:安藤裕子　作曲:安藤裕子 / 山本隆二　編曲:山本隆二)
       -
-        前年発売の5thシングル。[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")DX [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        前年発売の5thシングル。[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")DX [CMソング](../Page/コマーシャルソング.md "wikilink")。
 4.  **シャボン ボウル**
     (作詞・作曲:安藤裕子　編曲:山本隆二)
 5.  **SUCRE HECACHA**
     (作詞・作曲:安藤裕子　編曲:山本隆二)
 6.  **よいこのクルマ**
-    (作詞:安藤裕子　作曲:[宮川弾](https://ja.wikipedia.org/wiki/宮川弾 "wikilink")　編曲・管編曲:山本隆二)
+    (作詞:安藤裕子　作曲:[宮川弾](../Page/宮川弾.md "wikilink")　編曲・管編曲:山本隆二)
 7.  **絵になるお話**
     (作詞・作曲:安藤裕子　編曲:山本隆二)
 8.  **“I”novel.**
@@ -42,11 +42,11 @@
 11. **Little Babe**
     (作詞・作曲:安藤裕子　編曲:山本隆二)
       -
-        [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")「Harmony with the Earth」使用曲。[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")と[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のみで構成された弾き語り的ナンバー。
+        [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")「Harmony with the Earth」使用曲。[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")と[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のみで構成された弾き語り的ナンバー。
 12. **唄い前夜**
     (作詞・作曲:安藤裕子　編曲・管編曲:山本隆二)
       -
-        アルバムのリード曲として[PVも製作された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        アルバムのリード曲として[PVも製作された](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## 参加ミュージシャン
 
@@ -56,19 +56,19 @@
 
   - 手を休めてガラス玉
       - 山本タカシ:[acoustic](../Page/アコースティック・ギター.md "wikilink") & [electric guitar](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
-      - [沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink"):[bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+      - [沖山優司](../Page/沖山優司.md "wikilink"):[bass](../Page/ベース_\(弦楽器\).md "wikilink")
       - 佐野康夫:[drums](../Page/ドラムセット.md "wikilink")
-      - 山本隆二:[piano](../Page/ピアノ.md "wikilink"), [organ](../Page/オルガン.md "wikilink") & [keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+      - 山本隆二:[piano](../Page/ピアノ.md "wikilink"), [organ](../Page/オルガン.md "wikilink") & [keyboards](../Page/キーボード_\(楽器\).md "wikilink")
   - 雨唄
       - 山本タカシ:acoustic & electric guitar
       - 岡雄三:bass
-      - [沼澤尚](https://ja.wikipedia.org/wiki/沼澤尚 "wikilink"):drums
+      - [沼澤尚](../Page/沼澤尚.md "wikilink"):drums
       - Latyr Sy:[percussions](../Page/打楽器.md "wikilink")
       - 山本隆二:piano, organ & [programming](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
   - TEXAS
       - 山本タカシ:acoustic & electric guitar
       - 沖山優司:bass
-      - 矢部浩志 ([カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(バンド\) "wikilink")):drums
+      - 矢部浩志 ([カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")):drums
       - 山本隆二:piano, organ, keyboards & [glocken](https://ja.wikipedia.org/wiki/鉄琴 "wikilink")
   - シャボン ボウル
       - 岡雄三:bass
@@ -116,7 +116,7 @@
       - 沖山優司:bass
       - 波多江健:drums
       - 西村浩二:flugel horn
-      - [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink"):trombone
+      - [村田陽一](../Page/村田陽一.md "wikilink"):trombone
       - 山本拓夫:tenor sax
       - 山本隆二:piano, organ, keyboards
 

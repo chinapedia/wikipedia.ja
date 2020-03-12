@@ -1,21 +1,21 @@
 > この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
 
 
-**TBSテレビ系列夕方ニュース枠**（ティービーエステレビけいれつゆうがたニュースわく）は、[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")をはじめとする[JNN系列で](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎日夕方に放送されている報道番組の枠のことである。
+**TBSテレビ系列夕方ニュース枠**（ティービーエステレビけいれつゆうがたニュースわく）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")をはじめとする[JNN系列で](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎日夕方に放送されている報道番組の枠のことである。
 
-この枠の最大の特徴は、[2009年](../Page/2009年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")まで**[副音声による](../Page/音声多重放送.md "wikilink")[二ヶ国語放送を実施](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")**していたことである\[1\]\[2\]\[3\]。
+この枠の最大の特徴は、[2009年](../Page/2009年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")まで**[副音声による](../Page/音声多重放送.md "wikilink")[二ヶ国語放送を実施](../Page/2か国語放送.md "wikilink")**していたことである\[1\]\[2\]\[3\]。
 
 ## 放送枠の歴史
 
-1959年8月のJNN発足より『[JNNテレビ夕刊](https://ja.wikipedia.org/wiki/JNNテレビ夕刊 "wikilink")』が開始され、次いで1962年10月に開始した『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』で現在に至るテレビニュースの原型を築き上げる。
+1959年8月のJNN発足より『[JNNテレビ夕刊](../Page/JNNテレビ夕刊.md "wikilink")』が開始され、次いで1962年10月に開始した『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』で現在に至るテレビニュースの原型を築き上げる。
 
-1970年代より『ニュースコープ』直前の18時台前半において、『[山陽TVイブニングニュース](https://ja.wikipedia.org/wiki/山陽TVイブニングニュース "wikilink")』（[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")）を皮切りに系列各局が制作するローカルワイドニュース番組が次々と開始される。（東京放送 『[テレポートTBS6](https://ja.wikipedia.org/wiki/テレポートTBS6 "wikilink")』、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[MBSナウ](../Page/MBSナウ.md "wikilink")』等）
+1970年代より『ニュースコープ』直前の18時台前半において、『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")』（[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")）を皮切りに系列各局が制作するローカルワイドニュース番組が次々と開始される。（東京放送 『[テレポートTBS6](../Page/テレポートTBS6.md "wikilink")』、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[MBSナウ](../Page/MBSナウ.md "wikilink")』等）
 
 1984年10月改編で、『ニュースコープ』は放送時間を19:20までの50分枠に拡大し、特集やスポーツニュースの導入なども行う。その後1987年10月改編で22時台に『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を新設する都合などから19時終了に戻る。一方で他局が全国版とローカル版の複合型編成を導入するのに対し、TBS系ではローカル版→全国版の流れを維持していた。しかし時代の流れには逆らえず、1989年4月には首都圏ローカル版『テレポート6』でも全国ニュースを取り扱い、同年10月1日に開局した[テレビユー山形](../Page/テレビユー山形.md "wikilink")でもネットされることになる。\[4\]
 
-1990年4月改編で、『ニュースコープ』とローカルニュース枠を反転・統合した1時間番組『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』が開始。その後地方局で[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")ブームが起き、首都圏でも『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）のように夕方ニュースを2時間化するケースが増える。しかし1996年の[TBSビデオ問題](https://ja.wikipedia.org/wiki/TBSビデオ問題 "wikilink")を背景としたワイドショー型報道への反省や、首都圏では元来17時台に放送しているドラマ再放送が安定していることから、全国レベルでの時間拡大はしばらく見送られる。
+1990年4月改編で、『ニュースコープ』とローカルニュース枠を反転・統合した1時間番組『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』が開始。その後地方局で[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")ブームが起き、首都圏でも『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）のように夕方ニュースを2時間化するケースが増える。しかし1996年の[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")を背景としたワイドショー型報道への反省や、首都圏では元来17時台に放送しているドラマ再放送が安定していることから、全国レベルでの時間拡大はしばらく見送られる。
 
-2005年4月の[TBS平日ワイド大改編](https://ja.wikipedia.org/wiki/TBS平日ワイド大改編 "wikilink")により午後の情報番組『[ジャスト](https://ja.wikipedia.org/wiki/ジャスト_\(情報番組\) "wikilink")』が廃枠され、これに代わるものとして他局同様の2時間ワイド番組『[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")』が開始される。ニュース枠は『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』として内包される。
+2005年4月の[TBS平日ワイド大改編](../Page/TBS平日ワイド大改編.md "wikilink")により午後の情報番組『[ジャスト](https://ja.wikipedia.org/wiki/ジャスト_\(情報番組\) "wikilink")』が廃枠され、これに代わるものとして他局同様の2時間ワイド番組『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』が開始される。ニュース枠は『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』として内包される。
 
 2009年4月改編で更なる大改編が行われ、17:50 - 19:50枠で『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』が開始される。本番組より番組名にネットワーク名の「JNN」がついていない。半年後の10月には18:40 - 19:50に短縮し、2010年3月で終了し、19時台から撤退。一方でテコ入れ策として同年10月に新設したローカルセールス枠の前座番組『[イブニングワイド](https://ja.wikipedia.org/wiki/イブニングワイド "wikilink")』は好調で、2010年4月改編より『イブニングワイド』をベースとした報道・情報番組『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』へ統廃合され、全国枠は18時台前半に戻った。
 
@@ -37,12 +37,12 @@
 
 ### 平日
 
-  - [JNNテレビ夕刊](https://ja.wikipedia.org/wiki/JNNテレビ夕刊 "wikilink")（1959年8月 - 1962年9月28日）
+  - [JNNテレビ夕刊](../Page/JNNテレビ夕刊.md "wikilink")（1959年8月 - 1962年9月28日）
   - [JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")\[5\]（1962年10月1日 - 1990年3月30日）
-      - [TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース "wikilink")（1962年10月 - 1975年10月3日） - ローカルニュース枠。
-      - [テレポートTBS6](https://ja.wikipedia.org/wiki/テレポートTBS6 "wikilink")（1975年10月6日 - 1990年3月30日） - 同上。
+      - [TBSニュース](../Page/TBSニュース.md "wikilink")（1962年10月 - 1975年10月3日） - ローカルニュース枠。
+      - [テレポートTBS6](../Page/テレポートTBS6.md "wikilink")（1975年10月6日 - 1990年3月30日） - 同上。
   - [JNNニュースの森](../Page/JNNニュースの森.md "wikilink")（1990年4月2日 - 2005年3月25日） - TBSでは上記2番組を統合。
-  - [JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")（全国ネット）・[イブニング・ファイブ](https://ja.wikipedia.org/wiki/イブニング・ファイブ "wikilink")（TBSなど一部の系列局のみ\[6\]）（2005年3月28日 - 2009年3月27日）
+  - [JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")（全国ネット）・[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")（TBSなど一部の系列局のみ\[6\]）（2005年3月28日 - 2009年3月27日）
   - [総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")\[7\]（2009年3月30日 - 2010年3月26日）
       - [イブニングワイド](https://ja.wikipedia.org/wiki/イブニングワイド "wikilink")（2009年9月28日 - 2010年3月26日） - 任意ネット枠。
   - [Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")（2010年3月29日 - ） - 一部の放送局では上記2番組を統合。
@@ -96,13 +96,13 @@
 
 ## 関連項目
 
-  - [JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧 "wikilink")
+  - [JNN夕方ローカルニュース一覧](../Page/JNN夕方ローカルニュース一覧.md "wikilink")
   - [TBSテレビ系列朝ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列朝ニュース枠 "wikilink")
   - [TBSテレビ系列昼ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列昼ニュース枠 "wikilink")
   - [TBSテレビ系列深夜ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列深夜ニュース枠 "wikilink")
-  - [日本テレビ系列夕方ニュース枠](https://ja.wikipedia.org/wiki/日本テレビ系列夕方ニュース枠 "wikilink")
-  - [テレビ朝日系列夕方ニュース枠](https://ja.wikipedia.org/wiki/テレビ朝日系列夕方ニュース枠 "wikilink")
-  - [テレビ東京系列夕方ニュース枠](https://ja.wikipedia.org/wiki/テレビ東京系列夕方ニュース枠 "wikilink")
+  - [日本テレビ系列夕方ニュース枠](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")
+  - [テレビ朝日系列夕方ニュース枠](../Page/テレビ朝日系列夕方ニュース枠.md "wikilink")
+  - [テレビ東京系列夕方ニュース枠](../Page/テレビ東京系列夕方ニュース枠.md "wikilink")
   - [フジテレビ系列夕方ニュース枠](../Page/フジテレビ系列夕方ニュース枠.md "wikilink")
 
 [Category:TBSのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:TBSのニュース・報道番組 "wikilink") [Category:テレビ放送枠](https://ja.wikipedia.org/wiki/Category:テレビ放送枠 "wikilink")

@@ -16,7 +16,7 @@ StAXは、その中間の手法として設計された。StAXの考え方では
 
 ## 起源
 
-StAXは、互換性のない多数のpull型XML APIにその起源を持つ。これらAPIのうち最も有名なXMLPULLの作者（Stefan HausteinとAleksandr Slominski）と、その他のAPIの作者である[BEAシステムズ](../Page/BEAシステムズ.md "wikilink")や[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[サン](../Page/サン・マイクロシステムズ.md "wikilink")、[Breeze Factor](http://www.breezefactor.com/)、[ジェームズ・クラークの協働により誕生した](https://ja.wikipedia.org/wiki/ジェームズ・クラーク_\(ソフトウェア技術者\) "wikilink")。
+StAXは、互換性のない多数のpull型XML APIにその起源を持つ。これらAPIのうち最も有名なXMLPULLの作者（Stefan HausteinとAleksandr Slominski）と、その他のAPIの作者である[BEAシステムズ](../Page/BEAシステムズ.md "wikilink")や[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[サン](../Page/サン・マイクロシステムズ.md "wikilink")、[Breeze Factor](http://www.breezefactor.com/)、[ジェームズ・クラークの協働により誕生した](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")。
 
 ## 例
 
@@ -86,9 +86,9 @@ JSR-173の最終仕様、V1.0より（フェアユースに基づき使用）
 
 JavaでXMLを構文解析するための他の方法としては、以下のものがある。
 
-  - [VTD-XML](https://ja.wikipedia.org/wiki/VTD-XML "wikilink") ランダムアクセスと[XPathをサポートする新しい非抽出型XML処理モデル](https://ja.wikipedia.org/wiki/XML_Path_Language "wikilink")
+  - [VTD-XML](https://ja.wikipedia.org/wiki/VTD-XML "wikilink") ランダムアクセスと[XPathをサポートする新しい非抽出型XML処理モデル](../Page/XML_Path_Language.md "wikilink")
   - [DOM](../Page/Document_Object_Model.md "wikilink") Document Object Model
-  - [JAXB](https://ja.wikipedia.org/wiki/Java_Architecture_for_XML_Binding "wikilink") Java XML Binding API
+  - [JAXB](../Page/Java_Architecture_for_XML_Binding.md "wikilink") Java XML Binding API
   - [SAX](../Page/Simple_API_for_XML.md "wikilink") push方式のXML API
   - [Javolution](https://ja.wikipedia.org/wiki/Javolution "wikilink") は、StAXに似たリアルタイムの[実装](http://www.javolution.org/api/javolution/xml/stream/package-summary.html)を提供する。（Stringといった）オブジェクトを生成せずに済み、メモリ使用量やガベージコレクションにも悪影響がない（注: 普通のStAX実装でオブジェクトの生成を減らすためには、ルックアップテーブルを用意して頻繁に使用されるStringオブジェクトを取り出し、再利用する必要がある）。
 

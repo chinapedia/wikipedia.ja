@@ -1,13 +1,13 @@
 > この記事は[URALA](https://ja.wikipedia.org/wiki/URALA)から翻訳されています。
 
 
-『**月刊URALA**』（げっかんウララ）は、株式会社ウララコミュニケーションズが発行する[福井県](../Page/福井県.md "wikilink")の[タウン情報誌](https://ja.wikipedia.org/wiki/タウン情報誌 "wikilink")。
+『**月刊URALA**』（げっかんウララ）は、株式会社ウララコミュニケーションズが発行する[福井県](../Page/福井県.md "wikilink")の[タウン情報誌](../Page/タウン情報誌.md "wikilink")。
 
 ## 概要
 
 [1988年](../Page/1988年.md "wikilink")に創刊した[月刊のタウン情報誌で](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")、創刊準備号\[1\]を経て同年の10月号から刊行されている。毎月25日発売で、創刊号は1988年[9月25日](../Page/9月25日.md "wikilink")に発売した。現在の定価は630円。
 
-雑誌名のURALA（ウララ）は、私達（うららぁ）という意味の[福井弁](https://ja.wikipedia.org/wiki/福井弁 "wikilink")である。現在の雑誌名の[ロゴタイプ](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")は、[2003年](../Page/2003年.md "wikilink")1月号から使用されている\[2\]。
+雑誌名のURALA（ウララ）は、私達（うららぁ）という意味の[福井弁](../Page/福井弁.md "wikilink")である。現在の雑誌名の[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")は、[2003年](../Page/2003年.md "wikilink")1月号から使用されている\[2\]。
 
 ## 紙面
 
@@ -43,7 +43,7 @@
 
 ## 共同発行誌
 
-  - Rural\[14\]（ルーラル）：ウララコミュニケーションズをはじめとする[北信越地方](https://ja.wikipedia.org/wiki/北信越地方 "wikilink")の[出版社](../Page/出版社.md "wikilink")による共同発行誌。2016年に創刊。まちなみカントリープレス（[長野県](../Page/長野県.md "wikilink")・KURA、雑誌発売元）、ジョイフルタウン（[新潟県](../Page/新潟県.md "wikilink")・月刊にいがた）、[シー・エー・ピー](https://ja.wikipedia.org/wiki/シー・エー・ピー "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[月刊タウン情報とやま](https://ja.wikipedia.org/wiki/月刊タウン情報とやま "wikilink")）、ストアインク（[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")・Favo）と共同で編集を行っている。
+  - Rural\[14\]（ルーラル）：ウララコミュニケーションズをはじめとする[北信越地方](../Page/北信越地方.md "wikilink")の[出版社](../Page/出版社.md "wikilink")による共同発行誌。2016年に創刊。まちなみカントリープレス（[長野県](../Page/長野県.md "wikilink")・KURA、雑誌発売元）、ジョイフルタウン（[新潟県](../Page/新潟県.md "wikilink")・月刊にいがた）、[シー・エー・ピー](https://ja.wikipedia.org/wiki/シー・エー・ピー "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[月刊タウン情報とやま](https://ja.wikipedia.org/wiki/月刊タウン情報とやま "wikilink")）、ストアインク（[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")・Favo）と共同で編集を行っている。
 
 ## 発売地域
 
@@ -56,7 +56,7 @@
 
 ## 関連項目
 
-  - [タウン情報誌](https://ja.wikipedia.org/wiki/タウン情報誌 "wikilink")
+  - [タウン情報誌](../Page/タウン情報誌.md "wikilink")
 
 ## 外部リンク
 

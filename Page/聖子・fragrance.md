@@ -1,7 +1,7 @@
 > この記事は[fragrance](https://ja.wikipedia.org/wiki/fragrance)から翻訳されています。
 
 
-『**聖子・fragrance**』（せいこ・フレグランス）は、[松田聖子](../Page/松田聖子.md "wikilink")の最初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1981年](../Page/1981年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。
+『**聖子・fragrance**』（せいこ・フレグランス）は、[松田聖子](../Page/松田聖子.md "wikilink")の最初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。
 
 ## 解説
 
@@ -14,19 +14,19 @@
 
 ### Side A
 
-1.  **[裸足の季節](https://ja.wikipedia.org/wiki/裸足の季節 "wikilink")**
-2.  **[Squall](https://ja.wikipedia.org/wiki/SQUALL_\(松田聖子のアルバム\) "wikilink")**
+1.  **[裸足の季節](../Page/裸足の季節.md "wikilink")**
+2.  **[Squall](../Page/SQUALL_\(松田聖子のアルバム\).md "wikilink")**
 3.  **True Love 〜そっとくちづけて〜**
 4.  **[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")**
 5.  **[Sailing](https://ja.wikipedia.org/wiki/Silhouette "wikilink")**
 6.  **あ・な・たの手紙**
-7.  **[夏の扉](https://ja.wikipedia.org/wiki/夏の扉 "wikilink")**
+7.  **[夏の扉](../Page/夏の扉.md "wikilink")**
 
 ### Side B
 
-1.  **[白いパラソル](https://ja.wikipedia.org/wiki/白いパラソル "wikilink")**
-2.  **[Only My Love](https://ja.wikipedia.org/wiki/North_Wind_\(アルバム\) "wikilink")**
-3.  **[チェリーブラッサム](https://ja.wikipedia.org/wiki/チェリーブラッサム "wikilink")**
+1.  **[白いパラソル](../Page/白いパラソル.md "wikilink")**
+2.  **[Only My Love](../Page/North_Wind_\(アルバム\).md "wikilink")**
+3.  **[チェリーブラッサム](../Page/チェリーブラッサム.md "wikilink")**
 4.  **花時計咲いた**
 5.  **Eighteen**
 6.  **[風は秋色](https://ja.wikipedia.org/wiki/風は秋色/Eighteen "wikilink")**

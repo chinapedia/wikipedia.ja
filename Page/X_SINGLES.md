@@ -1,13 +1,13 @@
 > この記事は[X SINGLES](https://ja.wikipedia.org/wiki/X_SINGLES)から翻訳されています。
 
 
-『**X SINGLES**』（エックス・シングルス）は、[Xの最初の](../Page/X_JAPAN.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[Ki/oon Sony Recordsより発売](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**X SINGLES**』（エックス・シングルス）は、[Xの最初の](../Page/X_JAPAN.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[Ki/oon Sony Recordsより発売](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
 X時代の6枚の[シングル](../Page/シングル.md "wikilink")を、カップリング曲も含めてリリース順に収録されたシングルコレクションである。シングルバーションの曲やライブバージョンの曲、アルバム未収録曲もあり、このアルバムにて初収録となる楽曲が多い。
 
-2014年9月24日、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")や[エルヴィス・コステロ](https://ja.wikipedia.org/wiki/エルヴィス・コステロ "wikilink")などの作品も手掛けたBob Ludwingによってリマスタリングが施され、[Blu-spec CD2仕様で](https://ja.wikipedia.org/wiki/ブルースペックCD#Blu-spec_CD2 "wikilink")[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")／[キューンミュージック](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")レーベルより再発売された\[1\]。また同日に、[ハイレゾが](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")[ソニー・ミュージックダイレクト](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")より配信開始された\[2\]。
+2014年9月24日、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")や[エルヴィス・コステロ](../Page/エルヴィス・コステロ.md "wikilink")などの作品も手掛けたBob Ludwingによってリマスタリングが施され、[Blu-spec CD2仕様で](https://ja.wikipedia.org/wiki/ブルースペックCD#Blu-spec_CD2 "wikilink")[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")／[キューンミュージック](../Page/キューンミュージック.md "wikilink")レーベルより再発売された\[1\]。また同日に、[ハイレゾが](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より配信開始された\[2\]。
 
 ## 収録曲
 

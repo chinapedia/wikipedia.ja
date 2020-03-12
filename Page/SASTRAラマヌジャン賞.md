@@ -5,13 +5,13 @@
 
 ## 受賞者の一覧
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
-      - [マンジュル・バルガヴァ](https://ja.wikipedia.org/wiki/マンジュル・バルガヴァ "wikilink")（Manjul Bhargava）[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
+      - [マンジュル・バルガヴァ](../Page/マンジュル・バルガヴァ.md "wikilink")（Manjul Bhargava）[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")
       - カナン・サウンダララジャン（Kannan Soundararajan）[インド](../Page/インド.md "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
-      - [テレンス・タオ](https://ja.wikipedia.org/wiki/テレンス・タオ "wikilink")（Terence Tao，陶哲軒）[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
-      - [ベン・グリーン](https://ja.wikipedia.org/wiki/ベン・グリーン "wikilink")（Ben Grenn）[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
+      - [テレンス・タオ](../Page/テレンス・タオ.md "wikilink")（Terence Tao，陶哲軒）[オーストラリア](../Page/オーストラリア.md "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
+      - [ベン・グリーン](../Page/ベン・グリーン.md "wikilink")（Ben Grenn）[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - アクシャイ・ヴェンカテッシュ（Akshay Venkatesh）オーストラリア
   - [2009年](../Page/2009年.md "wikilink")

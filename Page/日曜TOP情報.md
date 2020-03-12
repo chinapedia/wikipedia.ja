@@ -10,7 +10,7 @@
 
 ## ナレーション
 
-  - [坪井章子](https://ja.wikipedia.org/wiki/坪井章子 "wikilink")
+  - [坪井章子](../Page/坪井章子.md "wikilink")
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 
 ## 放送時間
 
-  - [日曜](../Page/日曜日.md "wikilink") 7:30 - 8:00 （1986年4月6日 - 1992年3月29日、[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")）
+  - [日曜](../Page/日曜日.md "wikilink") 7:30 - 8:00 （1986年4月6日 - 1992年3月29日、[生放送](../Page/生放送.md "wikilink")）
   - 日曜 6:45 - 7:15 （1992年4月5日 - 1994年3月27日、生放送）
 
 [Category:フジテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのニュース・報道番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink")

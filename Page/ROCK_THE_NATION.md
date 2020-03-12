@@ -1,7 +1,7 @@
 > この記事は[ROCK THE NATION](https://ja.wikipedia.org/wiki/ROCK_THE_NATION)から翻訳されています。
 
 
-『**ROCK THE NATION**』（ロック・ザ・ネイション）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[秋田県](../Page/秋田県.md "wikilink")、[岩手県](../Page/岩手県.md "wikilink")、[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")、[福島県](../Page/福島県.md "wikilink")の東北6県と[広島県](../Page/広島県.md "wikilink")の[FMラジオ局で放送中の音楽番組](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")。[ハード・ロック](https://ja.wikipedia.org/wiki/ハード・ロック "wikilink") / [ヘヴィ・メタル](https://ja.wikipedia.org/wiki/ヘヴィ・メタル "wikilink")が中心。DJは[伊藤政則](https://ja.wikipedia.org/wiki/伊藤政則 "wikilink")。番組制作は宮城県の[Date fm](../Page/エフエム仙台.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に放送開始。
+『**ROCK THE NATION**』（ロック・ザ・ネイション）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[秋田県](../Page/秋田県.md "wikilink")、[岩手県](../Page/岩手県.md "wikilink")、[山形県](../Page/山形県.md "wikilink")、[福島県](../Page/福島県.md "wikilink")の東北6県と[広島県](../Page/広島県.md "wikilink")の[FMラジオ局で放送中の音楽番組](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")。[ハード・ロック](https://ja.wikipedia.org/wiki/ハード・ロック "wikilink") / [ヘヴィ・メタル](https://ja.wikipedia.org/wiki/ヘヴィ・メタル "wikilink")が中心。DJは[伊藤政則](../Page/伊藤政則.md "wikilink")。番組制作は宮城県の[Date fm](../Page/エフエム仙台.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に放送開始。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 | 放送対象地域                                              | 放送局名                                                   | 放送日時          | 備考      |
 | --------------------------------------------------- | ------------------------------------------------------ | ------------- | ------- |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [エフエム仙台](../Page/エフエム仙台.md "wikilink")（Date fm）★       | 25:00 - 26:00 | **製作局** |
-| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink") | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station） | 24:00 - 25:00 |         |
+| [山形県](../Page/山形県.md "wikilink")                    | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station） | 24:00 - 25:00 |         |
 | [福島県](../Page/福島県.md "wikilink")                    | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）★        |               |         |
 | [岩手県](../Page/岩手県.md "wikilink")                    | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）★      | 25:00 - 26:00 |         |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）★           | 26:00 - 27:00 |         |
@@ -35,8 +35,8 @@
 
 ## 番組の内容
 
-  - オープニングは[Paul Gilbertの](https://ja.wikipedia.org/wiki/Paul_Gilbert "wikilink")[アルバム](../Page/アルバム.md "wikilink")、Burning Organの国内盤に[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録されている『Masa Ito』が使用されその曲が流れた後[Joe Satrianiのアルバム](https://ja.wikipedia.org/wiki/Joe_Satriani "wikilink")、The Extremistに収録されている『Motorcycle Driver』が流れ、その曲に乗せながら伊藤の話が始まる。また番組の途中でも同アルバムから『Friends』が使用されている。
-  - [リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からの[リクエスト](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")、質問、ライヴの感想などの[メール](https://ja.wikipedia.org/wiki/メール "wikilink")と[ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")を中心に進められる。
+  - オープニングは[Paul Gilbertの](https://ja.wikipedia.org/wiki/Paul_Gilbert "wikilink")[アルバム](../Page/アルバム.md "wikilink")、Burning Organの国内盤に[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されている『Masa Ito』が使用されその曲が流れた後[Joe Satrianiのアルバム](https://ja.wikipedia.org/wiki/Joe_Satriani "wikilink")、The Extremistに収録されている『Motorcycle Driver』が流れ、その曲に乗せながら伊藤の話が始まる。また番組の途中でも同アルバムから『Friends』が使用されている。
+  - [リスナー](../Page/リスナー.md "wikilink")からの[リクエスト](../Page/リクエスト番組.md "wikilink")、質問、ライヴの感想などの[メール](https://ja.wikipedia.org/wiki/メール "wikilink")と[ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")を中心に進められる。
   - サンプラーCD、輸入盤CD、Tシャツなどのプレゼント企画が多い。尚、プレゼントに当選したリスナーの名前はすべてスタッフがチェックしており、お礼や感想のメール、ハガキを送らなかった人には二度とプレゼントは当たらない。
   - 恒例企画としてリクエスト特集、来日ライヴ音源特集がある。
   - 不定期ながら、レコード会社の担当ディレクターが自社アーティストの宣伝のために番組に登場することがある。
@@ -44,7 +44,7 @@
 ## その他
 
   - 番組のオンエア・リストをホームページ上で確認できるのは、Date fmのみ。
-  - 番組の収録は[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")で行われている。
+  - 番組の収録は[東京](../Page/東京.md "wikilink")で行われている。
   - 番組の[ホームページ](../Page/ホームページ.md "wikilink")はない。
   - 仙台で番組のイベントを開催したこともある。
   - 当番組のネット局は全局とも[Heavy Metal Syndicateを放送していた](../Page/Heavy_Metal_Syndicate.md "wikilink")。

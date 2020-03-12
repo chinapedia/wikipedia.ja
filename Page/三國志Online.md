@@ -1,19 +1,19 @@
 > この記事は[Online](https://ja.wikipedia.org/wiki/Online)から翻訳されています。
 
 
-『**三國志 Online**』は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社のシミュレーションゲーム『[三國志](https://ja.wikipedia.org/wiki/三國志シリーズ "wikilink")』シリーズの世界観をベースに開発・運営していた[MMORPG](../Page/MMORPG.md "wikilink")である。『三On』とも\[1\]。シリーズ初の12歳以上対象作品\[2\]。2010年7月19日をもってサービスを終了した。
+『**三國志 Online**』は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社のシミュレーションゲーム『[三國志](../Page/三國志シリーズ.md "wikilink")』シリーズの世界観をベースに開発・運営していた[MMORPG](../Page/MMORPG.md "wikilink")である。『三On』とも\[1\]。シリーズ初の12歳以上対象作品\[2\]。2010年7月19日をもってサービスを終了した。
 
 [Windows用としてコーエーより](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")『[信長の野望Internet](../Page/信長の野望Internet.md "wikilink")』『[三國志Internet](https://ja.wikipedia.org/wiki/三國志Internet "wikilink")』『アプサラス』『[三國志Battlefield](https://ja.wikipedia.org/wiki/三國志Battlefield "wikilink")』『[信長の野望Online](../Page/信長の野望Online.md "wikilink")』『[大航海時代Online](../Page/大航海時代Online.md "wikilink")』『真・三國無双Online（旧：真・三國無双BB）』に続き、8番目に開発されたオンラインゲーム。
 
 ## 概要
 
-後漢末期から三国時代までの中国大陸を舞台としたMMORPG。プレイヤーは[司馬徽](https://ja.wikipedia.org/wiki/司馬徽 "wikilink")が村長を務める荊州の「水鏡村」から旅立つ一人の若者となり、各々の生き方で魏・呉・蜀の三国が鎬を削る世界に身を投じる。最大で500人対500人の、千人規模のRvRが実現可能な『合戦』が売りとなっていた\[3\]。
+後漢末期から三国時代までの中国大陸を舞台としたMMORPG。プレイヤーは[司馬徽](../Page/司馬徽.md "wikilink")が村長を務める荊州の「水鏡村」から旅立つ一人の若者となり、各々の生き方で魏・呉・蜀の三国が鎬を削る世界に身を投じる。最大で500人対500人の、千人規模のRvRが実現可能な『合戦』が売りとなっていた\[3\]。
 
 ## 所属サーバーの選択
 
 プレイヤーはサーバーを選択してプレイするが、サーバーによって内容に違いはなかった。
 
-  - [泰山](https://ja.wikipedia.org/wiki/泰山 "wikilink")
+  - [泰山](../Page/泰山.md "wikilink")
   - [黄河](../Page/黄河.md "wikilink")
   - [廬山](../Page/廬山.md "wikilink")
 
@@ -93,7 +93,7 @@
 
 #### [蜀](https://ja.wikipedia.org/wiki/蜀 "wikilink")
 
-  - 本拠地 [益州](https://ja.wikipedia.org/wiki/益州 "wikilink")
+  - 本拠地 [益州](../Page/益州.md "wikilink")
   - 都市[成都](https://ja.wikipedia.org/wiki/成都 "wikilink")
 
 ### 部曲
@@ -188,7 +188,7 @@
         15:00に正式サービスを開始
   - 2008年4月24日
       -
-        [ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")でのサービス提供を開始
+        [ハンゲーム](../Page/ハンゲーム.md "wikilink")でのサービス提供を開始
   - 2010年5月13日
       -
         サービスを終了することを発表\[5\]

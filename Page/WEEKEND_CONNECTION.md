@@ -1,7 +1,7 @@
 > この記事は[WEEKEND CONNECTION](https://ja.wikipedia.org/wiki/WEEKEND_CONNECTION)から翻訳されています。
 
 
-**WEEKEND CONNECTION**（ウィークエンド・コネクション）は2000年4月から2003年3月まで[J-WAVE](../Page/J-WAVE.md "wikilink")で土曜午前中に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。 [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")終了。後番組は[SLOW MORNING](https://ja.wikipedia.org/wiki/SLOW_MORNING "wikilink")。
+**WEEKEND CONNECTION**（ウィークエンド・コネクション）は2000年4月から2003年3月まで[J-WAVE](../Page/J-WAVE.md "wikilink")で土曜午前中に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。 [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")終了。後番組は[SLOW MORNING](../Page/SLOW_MORNING.md "wikilink")。
 
 ## 概要
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [KEY COFFEE METROPOLITAN CAFE](https://ja.wikipedia.org/wiki/KEY_COFFEE_METROPOLITAN_CAFE "wikilink")　(8:40-9:20)
+  - [KEY COFFEE METROPOLITAN CAFE](../Page/KEY_COFFEE_METROPOLITAN_CAFE.md "wikilink")　(8:40-9:20)
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   -
-    これまで[秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")ナビゲートの独自番組であったものを内包化したもの。ニューヨークの人気FM局のDJにより、1960～80年代のヒット曲とニューヨークの話題を送る。
+    これまで[秀島史香](../Page/秀島史香.md "wikilink")ナビゲートの独自番組であったものを内包化したもの。ニューヨークの人気FM局のDJにより、1960～80年代のヒット曲とニューヨークの話題を送る。
 
 ## 外部リンク
 

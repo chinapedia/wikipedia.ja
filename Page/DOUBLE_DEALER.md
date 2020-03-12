@@ -1,18 +1,18 @@
 > この記事は[DOUBLE DEALER](https://ja.wikipedia.org/wiki/DOUBLE_DEALER)から翻訳されています。
 
 
-**DOUBLE DEALER**（ダブルディーラー）は、[Concerto Moonの](../Page/Concerto_Moon.md "wikilink")[島紀史](../Page/島紀史.md "wikilink")（G）と[SABER TIGERの](https://ja.wikipedia.org/wiki/SABER_TIGER "wikilink")[下山武徳](../Page/下山武徳.md "wikilink")（Vo）によって[2000年](../Page/2000年.md "wikilink")に結成されたヘヴィメタルバンド。
+**DOUBLE DEALER**（ダブルディーラー）は、[Concerto Moonの](../Page/Concerto_Moon.md "wikilink")[島紀史](../Page/島紀史.md "wikilink")（G）と[SABER TIGERの](../Page/SABER_TIGER.md "wikilink")[下山武徳](../Page/下山武徳.md "wikilink")（Vo）によって[2000年](../Page/2000年.md "wikilink")に結成されたヘヴィメタルバンド。
 
 ## 来歴
 
   - 1999年、Concerto Moon を活動休止させた島紀史と下山武徳の二人を中心としたプロジェクトとして結成。
   - 2000年6月、デビューアルバム『DOUBLE DEALER』をリリース。初回盤には[梶山章](https://ja.wikipedia.org/wiki/梶山章 "wikilink")参加の「Fire Drake」を収録。8月には東名阪ツアーが行われた。
-  - 2000年秋頃、[シンフォニー・エックス](https://ja.wikipedia.org/wiki/シンフォニー・エックス "wikilink")らとヨーロッパツアーを行う。
+  - 2000年秋頃、[シンフォニー・エックス](../Page/シンフォニー・エックス.md "wikilink")らとヨーロッパツアーを行う。
   - 2001年、2ndアルバム『DERIDE ON THE TOP』をリリース。
   - 2002年、島、下山がそれぞれのバンドに戻るため活動休止。
   - 2005年、活動再開。8月に3rdアルバム『FATE＆DESTINY』をリリース。
   - 2007年、4thアルバム「DESERT OF LOST SOULS」を最後に解散が決定。
-  - [2015年](../Page/2015年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")、[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink") PROLOGUE3 "HEADSTRONG FES."にて、一夜限りの再結成。
+  - [2015年](../Page/2015年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")、[ANTHEM](../Page/ANTHEM.md "wikilink") PROLOGUE3 "HEADSTRONG FES."にて、一夜限りの再結成。
 
 ## メンバー
 
@@ -83,9 +83,9 @@
 
 ## 関連項目
 
-  - [SABER TIGER](https://ja.wikipedia.org/wiki/SABER_TIGER "wikilink")
+  - [SABER TIGER](../Page/SABER_TIGER.md "wikilink")
   - [Concerto Moon](../Page/Concerto_Moon.md "wikilink")
-  - [ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")
-  - [広瀬和生](https://ja.wikipedia.org/wiki/広瀬和生 "wikilink")
+  - [ANTHEM](../Page/ANTHEM.md "wikilink")
+  - [広瀬和生](../Page/広瀬和生.md "wikilink")
 
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink")

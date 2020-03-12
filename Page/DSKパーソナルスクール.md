@@ -1,7 +1,7 @@
 > この記事は[DSK](https://ja.wikipedia.org/wiki/DSK)から翻訳されています。
 
 
-**DSKパーソナルスクール**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社をおくディーエスケー株式会社が、全国16校を展開する大学受験の[学習塾](../Page/学習塾.md "wikilink")・[予備校](../Page/予備校.md "wikilink")である。1987年1月設立\[1\]。
+**DSKパーソナルスクール**は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社をおくディーエスケー株式会社が、全国16校を展開する大学受験の[学習塾](../Page/学習塾.md "wikilink")・[予備校](../Page/予備校.md "wikilink")である。1987年1月設立\[1\]。
 
 最盛期には全国に40校を展開し、平成7年8月期の売上は約70億円であった。[個人情報保護法](https://ja.wikipedia.org/wiki/個人情報保護法 "wikilink")の制定で電話での勧誘が困難になったことや、[少子化](https://ja.wikipedia.org/wiki/少子化 "wikilink")の影響などで生徒が減少、平成24年3月期の売り上げは約13億1000万円まで減少した\[2\]。
 

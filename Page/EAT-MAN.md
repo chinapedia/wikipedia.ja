@@ -1,9 +1,9 @@
 > この記事は[EAT-MAN](https://ja.wikipedia.org/wiki/EAT-MAN)から翻訳されています。
 
 
-『**EAT-MAN**』（イートマン）は、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")に『[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")』にて連載された[吉富昭仁](https://ja.wikipedia.org/wiki/吉富昭仁 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。単行本は全19巻で、第15巻（MOLE）はすべて書き下ろしのストーリーとなっている。世界一の冒険屋（報酬を受けて殺し以外の依頼を引き受ける特殊職）として知られる男ボルト・クランクを[狂言回し](../Page/狂言回し.md "wikilink")とした一話から数話完結の連作ストーリーからなる一連の作品。
+『**EAT-MAN**』（イートマン）は、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")に『[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")』にて連載された[吉富昭仁](../Page/吉富昭仁.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。単行本は全19巻で、第15巻（MOLE）はすべて書き下ろしのストーリーとなっている。世界一の冒険屋（報酬を受けて殺し以外の依頼を引き受ける特殊職）として知られる男ボルト・クランクを[狂言回し](../Page/狂言回し.md "wikilink")とした一話から数話完結の連作ストーリーからなる一連の作品。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")および[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にはアニメ化されている。また、アニメ1作目の一部の楽曲を収録したサウンドトラックCD付きの「SOUND ART BOOK」に単行本未収録のセリフ無しマンガが収録されている。『[月刊少年シリウス](https://ja.wikipedia.org/wiki/月刊少年シリウス "wikilink")』2014年7月号からは新シリーズ「EAT-MAN THE MAIN DISH」が2019年8月号まで連載された。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")および[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にはアニメ化されている。また、アニメ1作目の一部の楽曲を収録したサウンドトラックCD付きの「SOUND ART BOOK」に単行本未収録のセリフ無しマンガが収録されている。『[月刊少年シリウス](../Page/月刊少年シリウス.md "wikilink")』2014年7月号からは新シリーズ「EAT-MAN THE MAIN DISH」が2019年8月号まで連載された。
 
 ## ボルト・クランクの描写
 
@@ -15,11 +15,11 @@
 
 作中において彼の出自は全くの謎で、当人ですら語らない部分であるが、受けた依頼は必ず遂行する、信頼できる男である。また一切年をとらず、長い時間の中で不変の姿をしているが、不死ではないとされている。
 
-漫画版とEAT-MANアニメ版（'98を除く）ではかなり性格が違い、前者では時折見せる眼差しは悲しそうな眼であり、理不尽な依頼をする依頼人を契約に則る形で裏切ったり、たとえ敵対者であろうともその本質が善良であるならば、契約に則る形で見逃してやったりと、かなり優しい性格である。吉富昭仁のもう一つの代表作である「[RAY](https://ja.wikipedia.org/wiki/RAY_\(漫画\) "wikilink")」にゲストとして登場したことがある。一方、後者であるアニメ版では時折見せる眼差しは薄い紫色をした爬虫類のような冷たい眼で、理不尽な依頼であろうとも必ず遂行し、場合によっては殺しを行ったりと、ある意味では冷酷な完璧主義者である。また、いきなり奇声を上げたり、不気味に笑ったりするなど、かなりの奇行が多い。
+漫画版とEAT-MANアニメ版（'98を除く）ではかなり性格が違い、前者では時折見せる眼差しは悲しそうな眼であり、理不尽な依頼をする依頼人を契約に則る形で裏切ったり、たとえ敵対者であろうともその本質が善良であるならば、契約に則る形で見逃してやったりと、かなり優しい性格である。吉富昭仁のもう一つの代表作である「[RAY](../Page/RAY_\(漫画\).md "wikilink")」にゲストとして登場したことがある。一方、後者であるアニメ版では時折見せる眼差しは薄い紫色をした爬虫類のような冷たい眼で、理不尽な依頼であろうとも必ず遂行し、場合によっては殺しを行ったりと、ある意味では冷酷な完璧主義者である。また、いきなり奇声を上げたり、不気味に笑ったりするなど、かなりの奇行が多い。
 
 ### 原作での描写
 
-出自については断片的であるが、原作中で明かされている。特に、最終巻（Vol.19）ではボルトがいったい何者で、どういった存在なのかについて描かれており、彼自身が[デウス・エクス・マキナ](https://ja.wikipedia.org/wiki/デウス・エクス・マキナ "wikilink")のような絶対の存在として世界を作り、物語を回していた可能性が示されている。ただ、各々の話では、彼自身は前述した特殊な能力を除けば、多少身体能力が超人的な程度の、人間的な存在（怪我をすれば血を流しもする）として描かれている。また、彼と似たような経験をしてきたことを匂わせる、レオンという人物も存在する。
+出自については断片的であるが、原作中で明かされている。特に、最終巻（Vol.19）ではボルトがいったい何者で、どういった存在なのかについて描かれており、彼自身が[デウス・エクス・マキナ](../Page/デウス・エクス・マキナ.md "wikilink")のような絶対の存在として世界を作り、物語を回していた可能性が示されている。ただ、各々の話では、彼自身は前述した特殊な能力を除けば、多少身体能力が超人的な程度の、人間的な存在（怪我をすれば血を流しもする）として描かれている。また、彼と似たような経験をしてきたことを匂わせる、レオンという人物も存在する。
 
 「ボルト・クランク」という名前について、作者サイドでは単行本中にて「ボルトを食べるから、ボルトでいいんじゃない」と決めたと述べている。劇中では「ボルト・クランク」は**偽名**であり、作者と同じ理由からとある人物が名付けたあだ名のようなものを、彼が名乗り続けているだけに過ぎない（付けられた際には「センスが無い」と評している）。なお作中では、ファーストネームとラストネームは別々の命名者となっている。本名は不明だが、そのあだ名のファーストネーム側をつけた人物は知っている様子が伺える。ただし、前述の通り彼が世界を作り、それを繰り返しているような描写があるため、その「本名」ですら本当の名前で無い可能性もある。
 
@@ -48,7 +48,7 @@
   - ドイル・ウルフスター
     通称ドイル。とても**美人**な、ハードの**兄**。一流の男性冒険屋だが、常に女装しており、はたからは女性にしか見えないほど。甘さが残る弟とは違い、敵対者は確実に始末するなど、真のプロである。初登場は14巻。
   - ロバート
-    普段は冴えない**小柄で太った中年のオヤジ**の男性冒険屋で妻子持ち。実は驚異的な身体能力の持ち主で、「スライガー」という[ヒーロー](https://ja.wikipedia.org/wiki/ヒーロー "wikilink")のコスチュームに着替えて変身（変装？）し、格好に恥じない超人的な俊敏さと豪腕で敵を打ちのめす。近年ではすっかり太ってしまった（120kgもある）が、ヒーローとしての美学を持ち、決めゼリフを発するなどしている。地元ではヒーローとして人気があり、それに目をつけた悪党に美貌の妻をさらわれたのをきっかけに冒険屋を廃業していた。妻に焚き付けられダイエットのために冒険屋を再開するも、成果はほとんど見られない（チャック曰く「お前の脂肪は筋肉になっちまった」）。娘も（普通の）冒険屋になった。初登場は13巻。
+    普段は冴えない**小柄で太った中年のオヤジ**の男性冒険屋で妻子持ち。実は驚異的な身体能力の持ち主で、「スライガー」という[ヒーロー](../Page/ヒーロー.md "wikilink")のコスチュームに着替えて変身（変装？）し、格好に恥じない超人的な俊敏さと豪腕で敵を打ちのめす。近年ではすっかり太ってしまった（120kgもある）が、ヒーローとしての美学を持ち、決めゼリフを発するなどしている。地元ではヒーローとして人気があり、それに目をつけた悪党に美貌の妻をさらわれたのをきっかけに冒険屋を廃業していた。妻に焚き付けられダイエットのために冒険屋を再開するも、成果はほとんど見られない（チャック曰く「お前の脂肪は筋肉になっちまった」）。娘も（普通の）冒険屋になった。初登場は13巻。
   - チャック
     普段は宿屋の主人の、自称「**楽しけりゃなんでもいい屋**」。ボルトと背格好が似ているため、何度か彼の格好をして代役をつとめたことがある。チャラチャラしたお気楽な性格だが、女ったらしではなく探査機のコアとなり肉体を失ってしまった恋人だけを愛し続ける一途で純粋な性格。人がいるかいないかを聞かれるたび、必ず「いらん！」と答える。初登場は16巻。
   - テロメア
@@ -66,7 +66,7 @@
 
 ## 書誌情報
 
-  - 吉富昭仁 『EAT-MAN』[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")《[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")》、全19巻
+  - 吉富昭仁 『EAT-MAN』[メディアワークス](../Page/メディアワークス.md "wikilink")《[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")》、全19巻
 
 <!-- end list -->
 
@@ -138,28 +138,28 @@
 
 また、ボルトが食したものを再生するエフェクトが**「生える」**ではなく**「グローブの掌にある宝石のようなもので転送」**のように変更されている。
 
-東芝デジタルフロンティア（現：[博報堂DYミュージック&ピクチャーズ](https://ja.wikipedia.org/wiki/博報堂DYミュージック&ピクチャーズ "wikilink")）より[DVD](../Page/DVD.md "wikilink")全3巻が発売され、これをまとめたDVD-BOX版も2001年に限定発売された。
+東芝デジタルフロンティア（現：[博報堂DYミュージック&ピクチャーズ](../Page/博報堂DYミュージック&ピクチャーズ.md "wikilink")）より[DVD](../Page/DVD.md "wikilink")全3巻が発売され、これをまとめたDVD-BOX版も2001年に限定発売された。
 
 #### 声の出演
 
-  - ボルト・クランク - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
+  - ボルト・クランク - [江原正士](../Page/江原正士.md "wikilink")
   - キュレネ・ガルポ - [久川綾](../Page/久川綾.md "wikilink")
-  - アレサ・ルーベルト - [佐々木優子](https://ja.wikipedia.org/wiki/佐々木優子 "wikilink")
-  - アニーナ・ファイザル - [岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥 "wikilink")
-  - ジャスティン - 小林さやか（現：[相田さやか](https://ja.wikipedia.org/wiki/相田さやか "wikilink")）
-  - ドナ - [雨蘭咲木子](https://ja.wikipedia.org/wiki/雨蘭咲木子 "wikilink")
-  - リリ・スワンソン - [山像かおり](https://ja.wikipedia.org/wiki/山像かおり "wikilink")
-  - シリル・ドゥ - [相沢恵子](https://ja.wikipedia.org/wiki/相沢恵子 "wikilink")
-  - タチアナ・コズイレフ - [土井美加](https://ja.wikipedia.org/wiki/土井美加 "wikilink")
-  - シェリー - [藤枝成子](https://ja.wikipedia.org/wiki/藤枝成子 "wikilink")
-  - マルディー・ガーツ - [水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")
-  - ジェシカ - [弥生みつき](https://ja.wikipedia.org/wiki/弥生みつき "wikilink")
-  - ラティシア - [日野由利加](https://ja.wikipedia.org/wiki/日野由利加 "wikilink")
+  - アレサ・ルーベルト - [佐々木優子](../Page/佐々木優子.md "wikilink")
+  - アニーナ・ファイザル - [岡本麻弥](../Page/岡本麻弥.md "wikilink")
+  - ジャスティン - 小林さやか（現：[相田さやか](../Page/相田さやか.md "wikilink")）
+  - ドナ - [雨蘭咲木子](../Page/雨蘭咲木子.md "wikilink")
+  - リリ・スワンソン - [山像かおり](../Page/山像かおり.md "wikilink")
+  - シリル・ドゥ - [相沢恵子](../Page/相沢恵子.md "wikilink")
+  - タチアナ・コズイレフ - [土井美加](../Page/土井美加.md "wikilink")
+  - シェリー - [藤枝成子](../Page/藤枝成子.md "wikilink")
+  - マルディー・ガーツ - [水谷優子](../Page/水谷優子.md "wikilink")
+  - ジェシカ - [弥生みつき](../Page/弥生みつき.md "wikilink")
+  - ラティシア - [日野由利加](../Page/日野由利加.md "wikilink")
 
 #### スタッフ
 
-  - 原作 - [吉富昭仁](https://ja.wikipedia.org/wiki/吉富昭仁 "wikilink")
-  - 監督・シリーズ構成 - [真下耕一](https://ja.wikipedia.org/wiki/真下耕一 "wikilink")
+  - 原作 - [吉富昭仁](../Page/吉富昭仁.md "wikilink")
+  - 監督・シリーズ構成 - [真下耕一](../Page/真下耕一.md "wikilink")
   - キャラクターデザイン - 村田俊治
   - メカデザイン - 伊藤浩二
   - 美術監督 - 石垣努
@@ -170,13 +170,13 @@
   - 音響監督 - 松川陸
   - プロデューサー - 杉田敦
   - アニメーションプロデューサー - 白井勝也
-  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
-  - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[創通](https://ja.wikipedia.org/wiki/創通 "wikilink")映像
+  - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
+  - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[創通](../Page/創通.md "wikilink")映像
 
 #### 主題歌
 
   - オープニングテーマ「[小さな恋のメロディ](https://ja.wikipedia.org/wiki/小さな恋のメロディ_\(筋肉少女帯の曲\) "wikilink")」
-    作詞 - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink") / 作曲 - [橘高文彦](../Page/橘高文彦.md "wikilink")\&King-Show / 編曲 - King-Show / 歌 - [筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")
+    作詞 - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink") / 作曲 - [橘高文彦](../Page/橘高文彦.md "wikilink")\&King-Show / 編曲 - King-Show / 歌 - [筋肉少女帯](../Page/筋肉少女帯.md "wikilink")
   - エンディングテーマ「WALK THIS WAY」
     作詞 - 岡本早由 / 作曲・編曲 - 小泉洋 / 歌 - FIELDS
 
@@ -198,7 +198,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>ガラスの壁</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真下耕一" title="wikilink">真下耕一</a></p></td>
+<td><p><a href="../Page/真下耕一.md" title="wikilink">真下耕一</a></p></td>
 <td><p>村田俊治</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></strong><br />
 <a href="../Page/1月9日.md" title="wikilink">1月9日</a></p></td>
@@ -208,7 +208,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>滅びゆく者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/面出明美" title="wikilink">面出明美</a></p></td>
+<td><p><a href="../Page/面出明美.md" title="wikilink">面出明美</a></p></td>
 <td><p>真下耕一</p></td>
 <td><p>山内富夫</p></td>
 <td><p>河南正昭</p></td>
@@ -217,8 +217,8 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>約束の部屋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松井亜弥" title="wikilink">松井亜弥</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだひでひと" title="wikilink">うえだひでひと</a></p></td>
+<td><p><a href="../Page/松井亜弥.md" title="wikilink">松井亜弥</a></p></td>
+<td><p><a href="../Page/うえだひでひと.md" title="wikilink">うえだひでひと</a></p></td>
 <td><p>吉本毅</p></td>
 <td><p>東出太</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a></p></td>
@@ -226,20 +226,20 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>同業のよしみ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/冨岡淳広" title="wikilink">冨岡淳広</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷田部勝義" title="wikilink">谷田部勝義</a></p></td>
+<td><p><a href="../Page/冨岡淳広.md" title="wikilink">冨岡淳広</a></p></td>
+<td><p><a href="../Page/谷田部勝義.md" title="wikilink">谷田部勝義</a></p></td>
 <td><p>山内富夫</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柳沢テツヤ" title="wikilink">柳沢哲也</a></p></td>
+<td><p><a href="../Page/柳沢テツヤ.md" title="wikilink">柳沢哲也</a></p></td>
 <td><p><a href="../Page/1月30日.md" title="wikilink">1月30日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>雨、そのあと</p></td>
 <td><p>面出明美</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
 <td><p>織田美浩</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平田智浩" title="wikilink">平田智浩</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -257,7 +257,7 @@
 <td><p>冨岡淳広</p></td>
 <td><p>平田智浩</p></td>
 <td><p>吉本毅</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本憲生" title="wikilink">松本憲生</a></p></td>
+<td><p><a href="../Page/松本憲生.md" title="wikilink">松本憲生</a></p></td>
 <td><p><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
 </tr>
 <tr class="even">
@@ -310,7 +310,7 @@
 
 ### EAT-MAN'98
 
-1998年にテレビ東京系にて放送された。ほとんどが原作に沿ったストーリーで構成されている。ボルトのサングラスは黒色。音楽に関しては、[今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、[MAGICが担当している](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink")。
+1998年にテレビ東京系にて放送された。ほとんどが原作に沿ったストーリーで構成されている。ボルトのサングラスは黒色。音楽に関しては、[今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、[MAGICが担当している](../Page/マジック_\(バンド\).md "wikilink")。
 
 ボルトの再生エフェクトも前作とは違い、原作通り「生える」ようになっている。
 
@@ -318,21 +318,21 @@
 
 #### 声の出演（'98）
 
-  - ボルト・クランク - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
+  - ボルト・クランク - [江原正士](../Page/江原正士.md "wikilink")
   - ハード - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
-  - エイミー - [玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+  - エイミー - [玉川紗己子](../Page/玉川砂記子.md "wikilink")
 
 #### スタッフ（'98）
 
   - 原作 - 吉富昭仁
-  - 監督 - [川瀬敏文](https://ja.wikipedia.org/wiki/川瀬敏文 "wikilink")
+  - 監督 - [川瀬敏文](../Page/川瀬敏文.md "wikilink")
   - キャラクターデザイン - [今掛勇](../Page/今掛勇.md "wikilink")
   - メカニックデザイン - やまだたかひろ、[石垣純哉](../Page/石垣純哉.md "wikilink")
   - 美術監督 - 石垣努
   - 色彩設計 - 松本真司
   - 撮影監督 - 渡邊英俊
   - 編集 - 森田清次
-  - 音楽 - [YU IMAI](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、[MAGIC](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink")、[BLACK CATS](https://ja.wikipedia.org/wiki/BLACK_CATS "wikilink")
+  - 音楽 - [YU IMAI](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、[MAGIC](../Page/マジック_\(バンド\).md "wikilink")、[BLACK CATS](https://ja.wikipedia.org/wiki/BLACK_CATS "wikilink")
   - 音響監督 - [斯波重治](../Page/斯波重治.md "wikilink")
   - アニメーション制作 - スタジオディーン
   - 製作 - PROJECT EAT-MAN'98
@@ -340,7 +340,7 @@
 #### 主題歌（'98）
 
   - オープニングテーマ「[バーニング・ブルー](https://ja.wikipedia.org/wiki/バーニング・ブルー "wikilink")」
-    作詞・作曲 - [上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink") / 編曲 - [今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、[MAGIC](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink") / 歌 - MAGIC
+    作詞・作曲 - [上澤津孝](../Page/上澤津孝.md "wikilink") / 編曲 - [今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、[MAGIC](../Page/マジック_\(バンド\).md "wikilink") / 歌 - MAGIC
   - エンディングテーマ「旅人」
     作詞・作曲 - 上澤津孝 / 編曲 - 今井裕、MAGIC / 歌 - MAGIC
   - 挿入歌「[BLACK CATS](https://ja.wikipedia.org/wiki/BLACK_CATS_\(曲\) "wikilink")」
@@ -365,7 +365,7 @@
 <td><p>1</p></td>
 <td><p>BYE BYE AIMIE（前編）</p></td>
 <td><p>野本拓</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川瀬敏文" title="wikilink">川瀬敏文</a></p></td>
+<td><p><a href="../Page/川瀬敏文.md" title="wikilink">川瀬敏文</a></p></td>
 <td><p>清水明</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/つなきあき" title="wikilink">つなきあき</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></strong><br />
@@ -428,7 +428,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>AMBROSIAN DAYS the FINAL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/冨岡淳広" title="wikilink">冨岡淳広</a></p></td>
+<td><p><a href="../Page/冨岡淳広.md" title="wikilink">冨岡淳広</a></p></td>
 <td><p>青木康直</p></td>
 <td><p>笠原彰</p></td>
 <td><p><a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
@@ -476,8 +476,8 @@
 
 ## 小説版
 
-  - 『EAT-MAN 殺しの遺伝子』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、1999年4月10日、ISBN 4-07-311421-2）
-      - 1997年版アニメで監督・演出・脚本を担当した[真下耕一](https://ja.wikipedia.org/wiki/真下耕一 "wikilink")書き下ろしの小説。1997年版アニメの世界観を共有しており、そこから続いて登場するキャラクターが多い。アニメ第1話「ガラスの壁」のゲストキャラクター、キュレネ・ガルボの視点で書かれている。
+  - 『EAT-MAN 殺しの遺伝子』（[メディアワークス](../Page/メディアワークス.md "wikilink")、1999年4月10日、ISBN 4-07-311421-2）
+      - 1997年版アニメで監督・演出・脚本を担当した[真下耕一](../Page/真下耕一.md "wikilink")書き下ろしの小説。1997年版アニメの世界観を共有しており、そこから続いて登場するキャラクターが多い。アニメ第1話「ガラスの壁」のゲストキャラクター、キュレネ・ガルボの視点で書かれている。
 
 ## 脚注
 

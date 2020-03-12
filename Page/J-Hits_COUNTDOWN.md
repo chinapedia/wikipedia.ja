@@ -1,17 +1,17 @@
 > この記事は[J-Hits COUNTDOWN](https://ja.wikipedia.org/wiki/J-Hits_COUNTDOWN)から翻訳されています。
 
 
-**J-Hits COUNTDOWN**（ジェイ・ヒッツ カウントダウン）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月から[2016年](../Page/2016年.md "wikilink")3月まで放送した[火曜会制作のJ](../Page/地方民間放送共同制作協議会.md "wikilink")-POPヒットチャート番組。
+**J-Hits COUNTDOWN**（ジェイ・ヒッツ カウントダウン）は、[2006年](../Page/2006年.md "wikilink")4月から[2016年](../Page/2016年.md "wikilink")3月まで放送した[火曜会制作のJ](../Page/地方民間放送共同制作協議会.md "wikilink")-POPヒットチャート番組。
 
 ## 概要
 
-この番組は2006年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送された「[SUPER COUNTDOWN 10](https://ja.wikipedia.org/wiki/SUPER_COUNTDOWN_10 "wikilink")」の後継番組で、放送開始から[聖教新聞社](../Page/聖教新聞社.md "wikilink")が[単独提供していたが](../Page/一社提供.md "wikilink")、2013年3月をもって撤退。同番組と「[全国歌謡ベストテン](https://ja.wikipedia.org/wiki/全国歌謡ベストテン "wikilink")」の流れを吸い出し、最新のシングル[CDランキングを始め](../Page/コンパクトディスク.md "wikilink")、様々な音楽情報を伝える。前番組は[文化放送](../Page/文化放送.md "wikilink")の**『[FRIDAY SUPER COUNTDOWN 50](https://ja.wikipedia.org/wiki/スパカン! "wikilink")』のチャート**をそのまま利用したが、今番組は**全く別の独自ランキング**である。番組テーマ曲は[ナニワエキスプレス](../Page/ナニワエキスプレス.md "wikilink")の「REDZONE」が使用されていた。
+この番組は2006年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送された「[SUPER COUNTDOWN 10](../Page/SUPER_COUNTDOWN_10.md "wikilink")」の後継番組で、放送開始から[聖教新聞社](../Page/聖教新聞社.md "wikilink")が[単独提供していたが](../Page/一社提供.md "wikilink")、2013年3月をもって撤退。同番組と「[全国歌謡ベストテン](../Page/全国歌謡ベストテン.md "wikilink")」の流れを吸い出し、最新のシングル[CDランキングを始め](../Page/コンパクトディスク.md "wikilink")、様々な音楽情報を伝える。前番組は[文化放送](../Page/文化放送.md "wikilink")の**『[FRIDAY SUPER COUNTDOWN 50](../Page/スパカン!.md "wikilink")』のチャート**をそのまま利用したが、今番組は**全く別の独自ランキング**である。番組テーマ曲は[ナニワエキスプレス](../Page/ナニワエキスプレス.md "wikilink")の「REDZONE」が使用されていた。
 
 当番組の制作の背景には、前番組「SUPER COUNTDOWN 10」を制作委託していた文化放送が撤退したため（いわゆる「FRIDAY SUPER COUNTDOWN 50」の放送にシフトし）、火曜会ネット局持ち回りで新たなる歌謡番組を作ろう、という思惑が挙げられている。
 
 パーソナリティーは火曜会加盟局所属の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")や[キャスター](../Page/ニュースキャスター.md "wikilink")、[DJらが](../Page/ディスクジョッキー.md "wikilink")1ヶ月毎交代で担当。なお、この番組は火曜会加盟局の交互制作番組でもある。その為か各地方・郷土の話題もトークの中に出てくる。また、ランキング以外で、各放送局がおすすめしている最新の注目曲1曲も番組で紹介する。毎月2名様（2013年3月30日・31日放送分まで毎週抽選で1名様）に番組オリジナルクオカード2000円分が貰える。
 
-なお、この番組は2016年3月をもって終了した。これにより[1962年](../Page/1962年.md "wikilink")に『全国歌謡ベストテン』から続いた[ランキング番組](https://ja.wikipedia.org/wiki/ランキング番組 "wikilink")（[カウントダウン番組](https://ja.wikipedia.org/wiki/カウントダウン番組 "wikilink")）は54年の歴史に幕を閉じた。
+なお、この番組は2016年3月をもって終了した。これにより[1962年](../Page/1962年.md "wikilink")に『全国歌謡ベストテン』から続いた[ランキング番組](https://ja.wikipedia.org/wiki/ランキング番組 "wikilink")（[カウントダウン番組](../Page/カウントダウン番組.md "wikilink")）は54年の歴史に幕を閉じた。
 
 後番組は名曲の年代をキーワードにして選曲した『[音楽☆とらのアナ](https://ja.wikipedia.org/wiki/音楽☆とらのアナ "wikilink")』を放送開始。
 
@@ -32,7 +32,7 @@
 
   -
     ◇…ワンコーラスのみオンエア ◆…フルコーラスにてオンエア
-    提供アナウンスは、同じ聖教新聞提供の[JRN系の情報番組](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")「[日本列島ほっと通信](https://ja.wikipedia.org/wiki/日本列島ほっと通信 "wikilink")」でも使われている。
+    提供アナウンスは、同じ聖教新聞提供の[JRN系の情報番組](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")「[日本列島ほっと通信](../Page/日本列島ほっと通信.md "wikilink")」でも使われている。
 
 ## ネット局と放送時間
 
@@ -59,7 +59,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a>（YBC）</p></td>
 <td><p>土曜 22:00 - 22:30</p></td>
 <td></td>
@@ -86,7 +86,7 @@
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a>（BSS）[3]</p></td>
 <td><p>土曜 23:00 - 23:30</p></td>
-<td><p>後番組は『<a href="https://ja.wikipedia.org/wiki/アーティストBOX" title="wikilink">アーティストBOX</a>』（第1・第3・第5）、<br />
+<td><p>後番組は『<a href="../Page/アーティストBOX.md" title="wikilink">アーティストBOX</a>』（第1・第3・第5）、<br />
 『<a href="https://ja.wikipedia.org/wiki/伊東歌詞太郎" title="wikilink">伊東歌詞太郎</a>の僕だけのロックスター☆ラジオ』（第2・第4）を放送。</p></td>
 </tr>
 <tr class="odd">
@@ -120,9 +120,9 @@
 <td><p>後番組は『<a href="https://ja.wikipedia.org/wiki/コシノジュンコ_MASACA" title="wikilink">コシノジュンコ MASACA</a>』を放送。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a>・<a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
+<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a>・<a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a><br />
-<a href="https://ja.wikipedia.org/wiki/KBS滋賀" title="wikilink">KBS滋賀</a></p></td>
+<a href="../Page/KBS滋賀.md" title="wikilink">KBS滋賀</a></p></td>
 <td><p>日曜 18:30 - 19:00[5]</p></td>
 <td></td>
 </tr>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a>（RBC）</p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a>（RBC）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -191,7 +191,7 @@
 
 ### 過去
 
-  - [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink")
+  - [茨城放送](../Page/茨城放送.md "wikilink")
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")\[8\]
 

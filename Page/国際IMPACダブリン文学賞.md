@@ -9,10 +9,10 @@
 
   - 候補作:
       - [ジョン・バンヴィル](https://ja.wikipedia.org/wiki/ジョン・バンヴィル "wikilink"), *Ghosts*
-      - [V・S・ナイポール](https://ja.wikipedia.org/wiki/V・S・ナイポール "wikilink"), *A Way In The World*
+      - [V・S・ナイポール](../Page/V・S・ナイポール.md "wikilink"), *A Way In The World*
       - [セース・ノーテボーム](https://ja.wikipedia.org/wiki/セース・ノーテボーム "wikilink"), *The Following Story*（日本語訳『これから話す物語』ISBN 410533901X）
       - [コニー パルメン](https://ja.wikipedia.org/wiki/コニー_パルメン "wikilink"), *The Laws* (日本語訳『天使の法則』ISBN 478971165X)
-      - [ジョゼ・サラマーゴ](https://ja.wikipedia.org/wiki/ジョゼ・サラマーゴ "wikilink"), *The Gospel According To Jesus Christ*
+      - [ジョゼ・サラマーゴ](../Page/ジョゼ・サラマーゴ.md "wikilink"), *The Gospel According To Jesus Christ*
       - Jane Urquhart, *Away*
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [ハビエル・マリアス](https://ja.wikipedia.org/wiki/ハビエル・マリアス "wikilink"), *A Heart So White*（日本語訳『[白い心臓](https://ja.wikipedia.org/wiki/白い心臓 "wikilink")』ISBN 4062095831）
@@ -20,7 +20,7 @@
   - 候補作:
       - [シャーマン・アレクシー](https://ja.wikipedia.org/wiki/シャーマン・アレクシー "wikilink"), *Reservation Blues*（日本語訳『リザベーション・ブルース』 ISBN 978-4488016234）
       - [ロヒントン・ミストリー](https://ja.wikipedia.org/wiki/ロヒントン・ミストリー "wikilink"), *A Fine Balance*
-      - [ズオン・トゥー・フォン](https://ja.wikipedia.org/wiki/ズオン・トゥー・フォン "wikilink"), *Novel Without A Name*
+      - [ズオン・トゥー・フォン](../Page/ズオン・トゥー・フォン.md "wikilink"), *Novel Without A Name*
       - [アントニオ・タブッキ](../Page/アントニオ・タブッキ.md "wikilink"), *Declares Pereira*'（日本語訳『供述によるとペレイラは…』ISBN 978-4560071342）
       - [ラーシュ・グスタフソン](https://ja.wikipedia.org/wiki/ラーシュ・グスタフソン "wikilink"), *A Tiller's Afternoon*
       - A. J. Verdelle, *The Good Negress*
@@ -29,7 +29,7 @@
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [ヘルタ・ミュラー](https://ja.wikipedia.org/wiki/ヘルタ・ミュラー "wikilink"), *The Land of Green Plums* (日本語訳『心獣』ISBN 978-4384052336)
 
   - 候補作:
-      - [マーガレット・アトウッド](https://ja.wikipedia.org/wiki/マーガレット・アトウッド "wikilink"), *Alias Grace* (日本語訳『またの名をグレイス』ISBN 978-4000248051)
+      - [マーガレット・アトウッド](../Page/マーガレット・アトウッド.md "wikilink"), *Alias Grace* (日本語訳『またの名をグレイス』ISBN 978-4000248051)
       - [アンドレ・ ブリンク](https://ja.wikipedia.org/wiki/アンドレ・_ブリンク "wikilink"), *Imaginings of Sand*
       - [デヴィッド・ダビディーン](https://ja.wikipedia.org/wiki/デヴィッド・ダビディーン "wikilink"), *The Counting House*
       - [デヴィッド・フォスター](https://ja.wikipedia.org/wiki/デヴィッド・フォスター_\(小説家\) "wikilink"), *The Glade within the Grove*
@@ -57,8 +57,8 @@
       - Jackie Kay, *Trumpet*
       - Colum McCann, *This Side of Brightness*
       - [アリス・マクダーモット](https://ja.wikipedia.org/wiki/アリス・マクダーモット "wikilink"), *Charming Billy*
-      - [トニ・モリスン](https://ja.wikipedia.org/wiki/トニ・モリスン "wikilink"), *Paradise*（日本語訳『パラダイス』 ISBN 4152082038）
-      - [フィリップ・ロス](https://ja.wikipedia.org/wiki/フィリップ・ロス "wikilink"), *I Married a Communist*
+      - [トニ・モリスン](../Page/トニ・モリスン.md "wikilink"), *Paradise*（日本語訳『パラダイス』 ISBN 4152082038）
+      - [フィリップ・ロス](../Page/フィリップ・ロス.md "wikilink"), *I Married a Communist*
 
 [2001年](../Page/2001年.md "wikilink") - [アリステア・マクラウド](https://ja.wikipedia.org/wiki/アリステア・マクラウド "wikilink"), *No Great Mischief*（日本語訳『彼方なる歌に耳を澄ませよ』ISBN 4105900455）
 
@@ -69,17 +69,17 @@
       - [ヴィクトル・ペレーヴィン](../Page/ヴィクトル・ペレーヴィン.md "wikilink"), *Buddha's Little Finger*
       - Colm Tóibín, *The Blackwater Lightship*
 
-[2002年](../Page/2002年.md "wikilink") - [ミシェル・ウエルベック](https://ja.wikipedia.org/wiki/ミシェル・ウエルベック "wikilink"), *The Elementary Particles (Atomised)*（フランス語作品より翻訳、日本語訳『[素粒子](https://ja.wikipedia.org/wiki/素粒子_\(小説\) "wikilink")』ISBN 4480421777）
+[2002年](../Page/2002年.md "wikilink") - [ミシェル・ウエルベック](../Page/ミシェル・ウエルベック.md "wikilink"), *The Elementary Particles (Atomised)*（フランス語作品より翻訳、日本語訳『[素粒子](https://ja.wikipedia.org/wiki/素粒子_\(小説\) "wikilink")』ISBN 4480421777）
 
   - 候補作:
       - [ピーター・ケアリー](https://ja.wikipedia.org/wiki/ピーター・ケアリー "wikilink"), *True History of the Kelly Gang* (日本語訳『ケリー・ギャングの真実の歴史』ISBN 978-4152085238)
-      - [マーガレット・アトウッド](https://ja.wikipedia.org/wiki/マーガレット・アトウッド "wikilink"), *The Blind Assassin* (日本語訳『[昏き目の暗殺者](https://ja.wikipedia.org/wiki/昏き目の暗殺者 "wikilink")』ISBN 4152083875)
+      - [マーガレット・アトウッド](../Page/マーガレット・アトウッド.md "wikilink"), *The Blind Assassin* (日本語訳『[昏き目の暗殺者](https://ja.wikipedia.org/wiki/昏き目の暗殺者 "wikilink")』ISBN 4152083875)
       - [マイケル・コリンズ](https://ja.wikipedia.org/wiki/マイケル・コリンズ_\(小説家\) "wikilink"), *The Keepers of Truth*
       - Helen DeWitt, *The Last Samurai*
-      - [カルロス・フエンテス](https://ja.wikipedia.org/wiki/カルロス・フエンテス "wikilink"), *The Years with Laura Diaz*'
+      - [カルロス・フエンテス](../Page/カルロス・フエンテス.md "wikilink"), *The Years with Laura Diaz*'
       - Antoni Libera, *Madame*
 
-[2003年](../Page/2003年.md "wikilink") - [オルハン・パムク](https://ja.wikipedia.org/wiki/オルハン・パムク "wikilink"), *My Name is Red*（日本語訳『[わたしの名は紅](https://ja.wikipedia.org/wiki/わたしの名は紅 "wikilink")』ISBN 4894344092）
+[2003年](../Page/2003年.md "wikilink") - [オルハン・パムク](../Page/オルハン・パムク.md "wikilink"), *My Name is Red*（日本語訳『[わたしの名は紅](https://ja.wikipedia.org/wiki/わたしの名は紅 "wikilink")』ISBN 4894344092）
 
   - 候補作:
       - Dennis Bock, *The Ash Garden*
@@ -93,7 +93,7 @@
 [2004年](../Page/2004年.md "wikilink") - [タハール・ベン＝ジェルーン](https://ja.wikipedia.org/wiki/タハール・ベン＝ジェルーン "wikilink"), *This Blinding absence of light*（フランス語作品より翻訳、日本語訳『あやまちの夜』 ISBN 4314008830）
 
   - 候補作:
-      - [ポール・オースター](https://ja.wikipedia.org/wiki/ポール・オースター "wikilink"), *The Book of Illusions* （日本語訳『幻影の書』ISBN 978-4102451144）
+      - [ポール・オースター](../Page/ポール・オースター.md "wikilink"), *The Book of Illusions* （日本語訳『幻影の書』ISBN 978-4102451144）
       - [ウィリアム・ボイド](https://ja.wikipedia.org/wiki/ウィリアム・ボイド_\(作家\) "wikilink"), *Any Human Heart*
       - [サンドラ・シスネロス](https://ja.wikipedia.org/wiki/サンドラ・シスネロス "wikilink"), *Caramelo*
       - [ジェフリー・ユージェニデス](https://ja.wikipedia.org/wiki/ジェフリー・ユージェニデス "wikilink"), *Middlesex* (日本語訳『ミドルセックス』ISBN 4152085541)
@@ -103,7 +103,7 @@
       - [アティーク・ラヒーミー](https://ja.wikipedia.org/wiki/アティーク・ラヒーミー "wikilink"), *Earth and Ashes* (ダリ語作品より翻訳)
       - [オルガ・トカルチュク](https://ja.wikipedia.org/wiki/オルガ・トカルチュク "wikilink"), *House of Day, House of Night* (ポーランド語作品より翻訳、日本語訳『昼の家、夜の家』 ISBN 978-4560090121)
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [エドワード・P・ジョーンズ](https://ja.wikipedia.org/wiki/エドワード・P・ジョーンズ "wikilink"), *The Known World*
+[2005年](../Page/2005年.md "wikilink") - [エドワード・P・ジョーンズ](https://ja.wikipedia.org/wiki/エドワード・P・ジョーンズ "wikilink"), *The Known World*
 
   - 候補作:
       - [ダイアン・アウェーバック](https://ja.wikipedia.org/wiki/ダイアン・アウェーバック "wikilink"), *Gardening at Night*
@@ -116,7 +116,7 @@
       - [フランシス・イタニ](https://ja.wikipedia.org/wiki/フランシス・イタニ "wikilink"), *Deafening* （日本語訳『遠い音』ISBN 978-4105900489）
       - [ジョナサン・レセム](https://ja.wikipedia.org/wiki/ジョナサン・レセム "wikilink"), *The Fortress of Solitude*（日本語訳 『孤独の要塞』ISBN 978-4152089380）
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - [コルム・トビーン](https://ja.wikipedia.org/wiki/コルム・トビーン "wikilink"), *The Master*
+[2006年](../Page/2006年.md "wikilink") - [コルム・トビーン](https://ja.wikipedia.org/wiki/コルム・トビーン "wikilink"), *The Master*
 
   - 候補作:
 
@@ -154,7 +154,7 @@
 
 :\* [コーマック・マッカーシー](../Page/コーマック・マッカーシー.md "wikilink"), (日本語訳『血と暴力の国』ISBN 978-4-594-05461-8)
 
-:\* [サルマン・ラシュディ](https://ja.wikipedia.org/wiki/サルマン・ラシュディ "wikilink"), *Shalimar the Clown*
+:\* [サルマン・ラシュディ](../Page/サルマン・ラシュディ.md "wikilink"), *Shalimar the Clown*
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - Rawi Hage, *De Niro's Game*
 
@@ -258,7 +258,7 @@
 
   - 候補作:
 
-:\* [ミシェル・ウエルベック](https://ja.wikipedia.org/wiki/ミシェル・ウエルベック "wikilink"), *The Map and the Territory* (日本語訳『地図と領土』ISBN 978-4-480-83206-1)
+:\* [ミシェル・ウエルベック](../Page/ミシェル・ウエルベック.md "wikilink"), *The Map and the Territory* (日本語訳『地図と領土』ISBN 978-4-480-83206-1)
 
 :\* [:en:Andrew Miller (novelist)](https://ja.wikipedia.org/wiki/:en:Andrew_Miller_\(novelist\) "wikilink"), *Pure*
 
@@ -354,11 +354,11 @@
 
 :\* [:en:Chinelo Okparanta](https://ja.wikipedia.org/wiki/:en:Chinelo_Okparanta "wikilink"), *Under the Udala Trees*(フランス語作品より翻訳)
 
-:\* [オルハン・パムク](https://ja.wikipedia.org/wiki/オルハン・パムク "wikilink"), *A Strangeness in My Mind*(トルコ語作品より翻訳、日本語訳『僕の違和感』ISBN 978-4152095985)
+:\* [オルハン・パムク](../Page/オルハン・パムク.md "wikilink"), *A Strangeness in My Mind*(トルコ語作品より翻訳、日本語訳『僕の違和感』ISBN 978-4152095985)
 
 :\* [:en:Robert Seethaler](https://ja.wikipedia.org/wiki/:en:Robert_Seethaler "wikilink"), *A Whole Lif*(ドイツ語作品より翻訳)
 
-:\* [ハンヤ・ヤナギハラ](https://ja.wikipedia.org/wiki/ハンヤ・ヤナギハラ "wikilink"), *A Little Lifer*
+:\* [ハンヤ・ヤナギハラ](../Page/ハンヤ・ヤナギハラ.md "wikilink"), *A Little Lifer*
 
 [2018年](../Page/2018年.md "wikilink") - [:en:Mike McCormack (writer)](https://ja.wikipedia.org/wiki/:en:Mike_McCormack_\(writer\) "wikilink"), *Solar Bone*
 

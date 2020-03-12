@@ -11,8 +11,8 @@
 
 1.  **Happy Days** (03:46)
       -
-        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「第24回[全国高等学校クイズ選手権](https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権 "wikilink")」テーマソング。[マイクではなく](../Page/マイクロフォン.md "wikilink")、ボイスフィルターをかけた[拡声器を通して歌っている](https://ja.wikipedia.org/wiki/メガホン "wikilink")。
-        [NHK衛星第2テレビ](https://ja.wikipedia.org/wiki/NHK衛星第2テレビ "wikilink")の[衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")枠内で放送された『[絶対少年](https://ja.wikipedia.org/wiki/絶対少年 "wikilink")』の登場人物、谷川希紗の[着メロ](https://ja.wikipedia.org/wiki/着メロ "wikilink")として使用されている。
+        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「第24回[全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")」テーマソング。[マイクではなく](../Page/マイクロフォン.md "wikilink")、ボイスフィルターをかけた[拡声器を通して歌っている](../Page/メガホン.md "wikilink")。
+        [NHK衛星第2テレビ](https://ja.wikipedia.org/wiki/NHK衛星第2テレビ "wikilink")の[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")枠内で放送された『[絶対少年](../Page/絶対少年.md "wikilink")』の登場人物、谷川希紗の[着メロ](https://ja.wikipedia.org/wiki/着メロ "wikilink")として使用されている。
 2.  **星くず** (03:48)
 3.  Happy Days (Instrumental) (03:46)
 4.  星くず (Instrumental) (03:48)
@@ -23,7 +23,7 @@
 
 ## 収録アルバム
 
-  - 『[LOVE JAM](https://ja.wikipedia.org/wiki/LOVE_JAM "wikilink")』（\#1）
+  - 『[LOVE JAM](../Page/LOVE_JAM.md "wikilink")』（\#1）
   - 『[愛 am BEST](../Page/愛_am_BEST.md "wikilink")』（\#1）
   - 『[a-box NEO](https://ja.wikipedia.org/wiki/a-box_NEO "wikilink")』（DISC-4・\#2）
 

@@ -3,7 +3,7 @@
 
 『**TUGUMI**』（つぐみ）は、[吉本ばなな](../Page/吉本ばなな.md "wikilink")の代表作である[青春小説](https://ja.wikipedia.org/wiki/青春小説 "wikilink")。英題は*Goodbye Tsugumi*。
 
-1990年に『**つぐみ**』のタイトルで[市川準](https://ja.wikipedia.org/wiki/市川準 "wikilink")監督によって映画化された。
+1990年に『**つぐみ**』のタイトルで[市川準](../Page/市川準.md "wikilink")監督によって映画化された。
 
 ## 概要
 
@@ -73,13 +73,13 @@
 
 ## 映画
 
-『**つぐみ**』というタイトルで1990年に映画化された。[松竹](../Page/松竹.md "wikilink")製作。監督は[市川準](https://ja.wikipedia.org/wiki/市川準 "wikilink")。
+『**つぐみ**』というタイトルで1990年に映画化された。[松竹](../Page/松竹.md "wikilink")製作。監督は[市川準](../Page/市川準.md "wikilink")。
 
-生まれつき体が弱くわがままに育てられたつぐみと周囲の人々のひと夏の出来事が描かれている。[静岡県](../Page/静岡県.md "wikilink")[賀茂郡](../Page/賀茂郡.md "wikilink")[松崎町](https://ja.wikipedia.org/wiki/松崎町 "wikilink")で撮影が行われた。[市川準](https://ja.wikipedia.org/wiki/市川準 "wikilink")監督にとっては初めて東京以外を舞台とした作品である\[9\]。
+生まれつき体が弱くわがままに育てられたつぐみと周囲の人々のひと夏の出来事が描かれている。[静岡県](../Page/静岡県.md "wikilink")[賀茂郡](../Page/賀茂郡.md "wikilink")[松崎町](../Page/松崎町.md "wikilink")で撮影が行われた。[市川準](../Page/市川準.md "wikilink")監督にとっては初めて東京以外を舞台とした作品である\[9\]。
 
 1990年[キネマ旬報ベストテン](https://ja.wikipedia.org/wiki/キネマ旬報ベストテン "wikilink")第9位、読者選出第5位。
 
-本作が主演映画2作目となった[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")は、本作品で[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")新人賞など各映画賞を総なめにした。
+本作が主演映画2作目となった[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")は、本作品で[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")新人賞など各映画賞を総なめにした。
 
 ### 映画あらすじ
 
@@ -90,47 +90,47 @@
 [thumb](https://ja.wikipedia.org/wiki/画像:Ryokankajitora.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:tuguminoyado.jpg "wikilink")\]\]
 
   - つぐみ - [牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")
-  - まりあ（つぐみの従姉妹） - [中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")
+  - まりあ（つぐみの従姉妹） - [中嶋朋子](../Page/中嶋朋子.md "wikilink")
   - 陽子（つぐみの姉） - [白島靖代](../Page/白島靖代.md "wikilink")
   - 恭一 - [真田広之](../Page/真田広之.md "wikilink")
-  - 正（つぐみの父） - [安田伸](https://ja.wikipedia.org/wiki/安田伸 "wikilink")
-  - 政子（つぐみの母） - [渡辺美佐子](https://ja.wikipedia.org/wiki/渡辺美佐子 "wikilink")
-  - まりあの父 - [あがた森魚](https://ja.wikipedia.org/wiki/あがた森魚 "wikilink")
+  - 正（つぐみの父） - [安田伸](../Page/安田伸.md "wikilink")
+  - 政子（つぐみの母） - [渡辺美佐子](../Page/渡辺美佐子.md "wikilink")
+  - まりあの父 - [あがた森魚](../Page/あがた森魚.md "wikilink")
   - まりあの母 - [高橋節子](https://ja.wikipedia.org/wiki/高橋節子 "wikilink")
   - 恭一の兄 - [財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")
   - ケーキ屋店長 - [高橋源一郎](../Page/高橋源一郎.md "wikilink")
-  - 医師 - [下條正巳](https://ja.wikipedia.org/wiki/下條正巳 "wikilink")
-  - 不良グループのリーダー - [吹越満](https://ja.wikipedia.org/wiki/吹越満 "wikilink")
+  - 医師 - [下條正巳](../Page/下條正巳.md "wikilink")
+  - 不良グループのリーダー - [吹越満](../Page/吹越満.md "wikilink")
 
 ### スタッフ
 
-  - 監督・脚本 - [市川準](https://ja.wikipedia.org/wiki/市川準 "wikilink")
+  - 監督・脚本 - [市川準](../Page/市川準.md "wikilink")
   - 製作 - [奥山和由](../Page/奥山和由.md "wikilink")、[後藤亘](https://ja.wikipedia.org/wiki/後藤亘 "wikilink")、[鍋島壽夫](https://ja.wikipedia.org/wiki/鍋島壽夫 "wikilink")
   - プロデューサー - [久保修](https://ja.wikipedia.org/wiki/久保修 "wikilink")、[吉田多喜男](https://ja.wikipedia.org/wiki/吉田多喜男 "wikilink")
   - 原作 - [吉本ばなな](../Page/吉本ばなな.md "wikilink")『TUGUMI』
   - 撮影 - [川上皓市](https://ja.wikipedia.org/wiki/川上皓市 "wikilink")
   - 美術 - [正田俊一郎](https://ja.wikipedia.org/wiki/正田俊一郎 "wikilink")
   - 照明 - [磯崎英範](https://ja.wikipedia.org/wiki/磯崎英範 "wikilink")
-  - 音楽 - [板倉文](https://ja.wikipedia.org/wiki/板倉文 "wikilink")
+  - 音楽 - [板倉文](../Page/板倉文.md "wikilink")
   - 主題歌 - [小川美潮](../Page/小川美潮.md "wikilink")「おかしな午後」
   - 編集 - [荒川鎮雄](https://ja.wikipedia.org/wiki/荒川鎮雄 "wikilink")
   - スタイリスト - [下田眞知子](https://ja.wikipedia.org/wiki/下田眞知子 "wikilink")
-  - 助監督 - [月野木隆](https://ja.wikipedia.org/wiki/月野木隆 "wikilink")
+  - 助監督 - [月野木隆](../Page/月野木隆.md "wikilink")
   - スチール - [笹田和俊](https://ja.wikipedia.org/wiki/笹田和俊 "wikilink")
   - 製作デスク - [片岡公生](https://ja.wikipedia.org/wiki/片岡公生 "wikilink")
-  - 製作 - [松竹富士](https://ja.wikipedia.org/wiki/松竹富士 "wikilink")、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")、[山田洋行](https://ja.wikipedia.org/wiki/山田洋行 "wikilink")ライトヴィジョン
+  - 製作 - [松竹富士](../Page/松竹富士.md "wikilink")、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")、[山田洋行](../Page/山田洋行.md "wikilink")ライトヴィジョン
 
 ### 受賞歴
 
-  - 第15回[報知映画賞](https://ja.wikipedia.org/wiki/報知映画賞 "wikilink")監督賞
-  - 第45回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")監督賞
+  - 第15回[報知映画賞](../Page/報知映画賞.md "wikilink")監督賞
+  - 第45回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")監督賞
   - 第14回[山路ふみ子映画賞](https://ja.wikipedia.org/wiki/山路ふみ子映画賞 "wikilink")新人女優賞（[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")）
-  - 第15回[報知映画賞](https://ja.wikipedia.org/wiki/報知映画賞 "wikilink")新人賞（牧瀬里穂）
-  - 第3回[日刊スポーツ映画大賞新人賞](https://ja.wikipedia.org/wiki/日刊スポーツ映画大賞・石原裕次郎賞 "wikilink")（牧瀬里穂）
-  - 第45回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")スポニチグランプリ新人賞（牧瀬里穂）
+  - 第15回[報知映画賞](../Page/報知映画賞.md "wikilink")新人賞（牧瀬里穂）
+  - 第3回[日刊スポーツ映画大賞新人賞](../Page/日刊スポーツ映画大賞・石原裕次郎賞.md "wikilink")（牧瀬里穂）
+  - 第45回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")スポニチグランプリ新人賞（牧瀬里穂）
   - 第12回[ヨコハマ映画祭](../Page/ヨコハマ映画祭.md "wikilink")最優秀新人賞（牧瀬里穂）
   - 第33回[ブルーリボン賞新人賞](../Page/ブルーリボン賞_\(映画\).md "wikilink")（牧瀬里穂）
-  - 第64回[キネマ旬報](https://ja.wikipedia.org/wiki/キネマ旬報 "wikilink")ベストテン新人女優賞（牧瀬里穂）
+  - 第64回[キネマ旬報](../Page/キネマ旬報.md "wikilink")ベストテン新人女優賞（牧瀬里穂）
   - [第14回日本アカデミー賞](https://ja.wikipedia.org/wiki/第14回日本アカデミー賞 "wikilink")優秀主演女優賞、新人俳優賞（牧瀬里穂）
 
 ### 映像ソフト

@@ -9,22 +9,22 @@
 
 ## メンバー
 
-メインボーカルは[渡辺美香](../Page/渡辺美香.md "wikilink")・[丹野みどり](https://ja.wikipedia.org/wiki/丹野みどり "wikilink")・[住田都史子](../Page/住田都史子.md "wikilink")の3人。コーラスはリリースされた曲で異なるため[後述](https://ja.wikipedia.org/wiki/Love_Power_Beauty#シングル "wikilink")。
+メインボーカルは[渡辺美香](../Page/渡辺美香.md "wikilink")・[丹野みどり](../Page/丹野みどり.md "wikilink")・[住田都史子](../Page/住田都史子.md "wikilink")の3人。コーラスはリリースされた曲で異なるため[後述](https://ja.wikipedia.org/wiki/Love_Power_Beauty#シングル "wikilink")。
 
 ## シングル
 
-いずれも[ゼティマから発売され](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")、CBC制作のローカル番組（[ユーガッタ\!CBC](https://ja.wikipedia.org/wiki/ユーガッタ!CBC "wikilink")、[スジナシなど](https://ja.wikipedia.org/wiki/鶴瓶のスジナシ! "wikilink")）のエンディングで使用された。
+いずれも[ゼティマから発売され](../Page/アップフロントワークス.md "wikilink")、CBC制作のローカル番組（[ユーガッタ\!CBC](../Page/ユーガッタ!CBC.md "wikilink")、[スジナシなど](../Page/鶴瓶のスジナシ!.md "wikilink")）のエンディングで使用された。
 
-  - Din Don Dan（作詞：[まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink")、作曲：たいせー）
+  - Din Don Dan（作詞：[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")、作曲：たいせー）
       - 発売日：[1999年](../Page/1999年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")
-      - コーラス：[重松和世](../Page/重松和世.md "wikilink")・[加藤小百合](https://ja.wikipedia.org/wiki/加藤小百合 "wikilink")・[加藤由香](https://ja.wikipedia.org/wiki/加藤由香 "wikilink")・[和田あい](../Page/和田あい.md "wikilink")・[大橋麻美子](https://ja.wikipedia.org/wiki/大橋麻美子 "wikilink")
+      - コーラス：[重松和世](../Page/重松和世.md "wikilink")・[加藤小百合](https://ja.wikipedia.org/wiki/加藤小百合 "wikilink")・[加藤由香](../Page/加藤由香.md "wikilink")・[和田あい](../Page/和田あい.md "wikilink")・[大橋麻美子](../Page/大橋麻美子.md "wikilink")
   - Cool Bless Cool（作詞：まこと、作曲：たいせー）
       - 発売日：[1999年](../Page/1999年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")
-      - コーラス：[萩野朋美](https://ja.wikipedia.org/wiki/萩野朋美 "wikilink")・[丸山蘭那](https://ja.wikipedia.org/wiki/丸山蘭那 "wikilink")
+      - コーラス：[萩野朋美](https://ja.wikipedia.org/wiki/萩野朋美 "wikilink")・[丸山蘭那](../Page/丸山蘭那.md "wikilink")
 
 ## 関連項目
 
-  - [燃えよドラゴンズ\!](https://ja.wikipedia.org/wiki/燃えよドラゴンズ! "wikilink")2000
+  - [燃えよドラゴンズ\!](../Page/燃えよドラゴンズ!.md "wikilink")2000
       - メインボーカルは[板東英二](../Page/板東英二.md "wikilink")。渡辺・丹野・住田・加藤（小）・大橋・丸山の6人がコーラス（CBCアナウンサーズ）として参加。
 
 ## 外部リンク

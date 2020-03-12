@@ -24,8 +24,8 @@
   - [2001年](../Page/2001年.md "wikilink") *An ordinary day in an unusual place*
   - [2003年](../Page/2003年.md "wikilink") *The Ultimate Hand on the Torch*
   - [2004年](../Page/2004年.md "wikilink") *Us3*
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") *Questions*
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") *Schizophonic*
+  - [2005年](../Page/2005年.md "wikilink") *Questions*
+  - [2006年](../Page/2006年.md "wikilink") *Schizophonic*
   - [2007年](../Page/2007年.md "wikilink") *Say What\!?*
   - [2009年](../Page/2009年.md "wikilink") *stop. think. run*
 

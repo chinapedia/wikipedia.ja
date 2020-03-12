@@ -1,12 +1,12 @@
 > この記事は[TETs5](https://ja.wikipedia.org/wiki/TETs5)から翻訳されています。
 
 
-**TETs5**（テーツ・ピヤーチ、）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の[ハルキウ](https://ja.wikipedia.org/wiki/ハルキウ "wikilink")に位置する[火力発電所](../Page/火力発電所.md "wikilink")である。この発電所には高さ330 mの[煙突](https://ja.wikipedia.org/wiki/煙突 "wikilink")がある。これは、世界で13番目の高さである。
+**TETs5**（テーツ・ピヤーチ、）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の[ハルキウ](../Page/ハルキウ.md "wikilink")に位置する[火力発電所](../Page/火力発電所.md "wikilink")である。この発電所には高さ330 mの[煙突](../Page/煙突.md "wikilink")がある。これは、世界で13番目の高さである。
 
 ## 関連項目
 
   - [火力発電所](../Page/火力発電所.md "wikilink")
-  - [煙突](https://ja.wikipedia.org/wiki/煙突 "wikilink")
+  - [煙突](../Page/煙突.md "wikilink")
 
 ## 外部リンク
 

@@ -5,27 +5,27 @@
 
 ## 概要
 
-[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")の特殊部隊第22連隊（通称SAS）に所属する「レッドチーム」の隊員が、テロ等の緊急事態に出動し、命がけのミッションに挑む姿を描いたアクション・ドラマである。元SAS隊員もスタッフに加わったというリアリズムが見もの。英国のITV1局で2002年から放送されて大ヒットし、シリーズ化された。日本では[WOWOW](../Page/WOWOW.md "wikilink")で放送され、[ドラMAX アリーナ (旧：クラビット･アリーナ)でも配信されていた](https://ja.wikipedia.org/wiki/ドラMAX_アリーナ_\(旧：クラビット･アリーナ\) "wikilink")。2008年8月より[スーパー\!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")にて全話放送され、それまで未放送だった「ジャスト・ア・ターゲット」も字幕にて放送された。
+[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")の特殊部隊第22連隊（通称SAS）に所属する「レッドチーム」の隊員が、テロ等の緊急事態に出動し、命がけのミッションに挑む姿を描いたアクション・ドラマである。元SAS隊員もスタッフに加わったというリアリズムが見もの。英国のITV1局で2002年から放送されて大ヒットし、シリーズ化された。日本では[WOWOW](../Page/WOWOW.md "wikilink")で放送され、[ドラMAX アリーナ (旧：クラビット･アリーナ)でも配信されていた](https://ja.wikipedia.org/wiki/ドラMAX_アリーナ_\(旧：クラビット･アリーナ\) "wikilink")。2008年8月より[スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")にて全話放送され、それまで未放送だった「ジャスト・ア・ターゲット」も字幕にて放送された。
 
 発売、レンタルされている作品にはタイトルネームのみが記載されているため、制作順番に見るためには事前の下調べが必要だったが、現在ではシーズンごとのボックスセットがあるため、問題は解消されている。
 
 ## キャスト
 
-  - ヘンノ・ガルビー上級[軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")（レッドチーム・リーダー）：[ロス・ケンプ](https://ja.wikipedia.org/wiki/ロス・ケンプ "wikilink")/[大塚明夫](../Page/大塚明夫.md "wikilink")
-  - ジェイミー・ダウ[伍長](https://ja.wikipedia.org/wiki/伍長 "wikilink")：ジェイミー・ドレイブン/[阪口周平](https://ja.wikipedia.org/wiki/阪口周平 "wikilink")
-  - ピート・トワムリー伍長（後に軍曹）：トニー・クラン/[小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")
-  - リッキー・マン伍長：ダニー・スパーニ/[伊丸岡篤](https://ja.wikipedia.org/wiki/伊丸岡篤 "wikilink")
-  - ジェム・ポイントン伍長：[エリオット・コーワン](https://ja.wikipedia.org/wiki/エリオット・コーワン "wikilink")/[石井真](https://ja.wikipedia.org/wiki/石井真 "wikilink")
+  - ヘンノ・ガルビー上級[軍曹](../Page/軍曹.md "wikilink")（レッドチーム・リーダー）：[ロス・ケンプ](https://ja.wikipedia.org/wiki/ロス・ケンプ "wikilink")/[大塚明夫](../Page/大塚明夫.md "wikilink")
+  - ジェイミー・ダウ[伍長](../Page/伍長.md "wikilink")：ジェイミー・ドレイブン/[阪口周平](../Page/阪口周平.md "wikilink")
+  - ピート・トワムリー伍長（後に軍曹）：トニー・クラン/[小野大輔](../Page/小野大輔.md "wikilink")
+  - リッキー・マン伍長：ダニー・スパーニ/[伊丸岡篤](../Page/伊丸岡篤.md "wikilink")
+  - ジェム・ポイントン伍長：[エリオット・コーワン](https://ja.wikipedia.org/wiki/エリオット・コーワン "wikilink")/[石井真](../Page/石井真.md "wikilink")
   - アレックス・レオナルド伍長：[センディル・ラママーシー](https://ja.wikipedia.org/wiki/センディル・ラママーシー "wikilink")/[柴田創一郎](../Page/柴田創一郎.md "wikilink")
   - サム・レオナルド伍長：アンソニー・ホーウェル
   - キャロライン・ウォルシュ[大尉](../Page/大尉.md "wikilink")：アレックス・レイド/[細野雅世](../Page/細野雅世.md "wikilink")
   - ドッツィ・ドーニー[中尉](../Page/中尉.md "wikilink")（後に大尉 レッド・チーム指揮官）：[ジェイミー・バンバー](https://ja.wikipedia.org/wiki/ジェイミー・バンバー "wikilink")/渡辺秀雄
   - イアン・マカルウィン大尉（レッド・チーム指揮官）：リチャード・アーミテージ
-  - パトリック・フレミング大尉（レッド・チーム指揮官）：サム・カリス/[石上裕一](https://ja.wikipedia.org/wiki/石上裕一 "wikilink")
+  - パトリック・フレミング大尉（レッド・チーム指揮官）：サム・カリス/[石上裕一](../Page/石上裕一.md "wikilink")
   - ミック・シャープ伍長：ロレンス・フォックス
   - ルイス・ホフマン伍長：クリストファー・フォックス/[櫛田泰道](../Page/櫛田泰道.md "wikilink")
   - レベッカ・ギャラガー伍長（軍曹）：ヘザー・ピース/[小野涼子](../Page/小野涼子.md "wikilink")
-  - デイブ・ウールストン伍長：ルイス・ダコスタ・ジョンソン/[黒田崇矢](https://ja.wikipedia.org/wiki/黒田崇矢 "wikilink")
+  - デイブ・ウールストン伍長：ルイス・ダコスタ・ジョンソン/[黒田崇矢](../Page/黒田崇矢.md "wikilink")
   - エド・ダイアー伍長：リーアム・ガリガン
   - フィン・ヤンガー伍長：ジェイミー・ミチエ/[大須賀純](../Page/大須賀純.md "wikilink")
   - アイダン・デンプシー[大佐](../Page/大佐.md "wikilink")（連隊長）：マイルズ・アンダーソン/[納谷六朗](../Page/納谷六朗.md "wikilink")
@@ -33,7 +33,7 @@
   - ショーン・スミス上級軍曹（ブルー・チーム・リーダー）：デレク・ホーン
   - ボックス500（[MI5](https://ja.wikipedia.org/wiki/MI5 "wikilink")職員）：[トビアス・メンジーズ](https://ja.wikipedia.org/wiki/トビアス・メンジーズ "wikilink")
   - プルー・バンクス（MI5職員）：ルーシー・アクハースト
-  - キャシー・クラプトン（MI5職員）：ハンナ・イェランド/[沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")
+  - キャシー・クラプトン（MI5職員）：ハンナ・イェランド/[沢城みゆき](../Page/沢城みゆき.md "wikilink")
   - ホーキン将軍：ドナルド・サンプター
 
 ## タイトル

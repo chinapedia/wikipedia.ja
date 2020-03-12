@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**秋田FCカンビアーレ**（あきたエフシーカンビアーレ、'' Akita FC Cambiare''）は、[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")をホームタウンとする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[東北社会人サッカーリーグ](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")
+**秋田FCカンビアーレ**（あきたエフシーカンビアーレ、'' Akita FC Cambiare''）は、[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")をホームタウンとする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")
 
 ## 概要
 
@@ -18,21 +18,21 @@
   - [2002年](../Page/2002年.md "wikilink")-東北社会人リーグ2部昇格。
   - [2003年](../Page/2003年.md "wikilink")-東北社会人リーグ2部北リーグで優勝。
   - [2004年](../Page/2004年.md "wikilink")-東北社会人リーグ1部昇格。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")-東北社会人リーグ2部に降格。秋田市役所サッカー部を吸収統合する形で、チーム名を現名称に変更しクラブチーム化。
+  - [2005年](../Page/2005年.md "wikilink")-東北社会人リーグ2部に降格。秋田市役所サッカー部を吸収統合する形で、チーム名を現名称に変更しクラブチーム化。
 
 ### 秋田市役所サッカー部
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")-東北社会人リーグ1部優勝。
   - [2001年](../Page/2001年.md "wikilink")-東北社会人リーグ2部北リーグ優勝。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")-元市役所メンバー数名が足利工務店河辺FCへ（チーム統合で市役所サッカー部が廃部する形に）。
+  - [2005年](../Page/2005年.md "wikilink")-元市役所メンバー数名が足利工務店河辺FCへ（チーム統合で市役所サッカー部が廃部する形に）。
 
 ### FC秋田カンビアーレ→秋田FCカンビアーレ
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")-東北社会人リーグ2部北リーグ優勝。
+  - [2006年](../Page/2006年.md "wikilink")-東北社会人リーグ2部北リーグ優勝。
       - 2部優勝決定戦で[古河電池FC](https://ja.wikipedia.org/wiki/古河電池FC "wikilink")に敗れ、1部自動昇格を逃す。
       - 1部最下位の[新日鐵釜石と入替戦を行うが](https://ja.wikipedia.org/wiki/新日鐵釜石サッカー部 "wikilink")、2試合引き分けで昇格を逃す。
   - [2007年](../Page/2007年.md "wikilink")-東北社会人リーグ2部北リーグ優勝。
-      - 2部優勝決定戦で[ビアンコーネ福島](https://ja.wikipedia.org/wiki/ビアンコーネ福島 "wikilink")に勝利し、1部自動昇格を決めた。
+      - 2部優勝決定戦で[ビアンコーネ福島](../Page/ビアンコーネ福島.md "wikilink")に勝利し、1部自動昇格を決めた。
   - [2009年](../Page/2009年.md "wikilink")
       - 2月28日、スポーツ振興による地域活性化を狙い、2012年までの[JFL昇格](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")、2016年の[J2参入を目指すことを表明](../Page/日本プロサッカーリーグ.md "wikilink")。
       - 10月7日 同シーズン限りで廃部となる[TDKサッカー部](https://ja.wikipedia.org/wiki/TDKサッカー部 "wikilink")を母体として設立される[ブラウブリッツ秋田](../Page/ブラウブリッツ秋田.md "wikilink")と「独立２クラブ間強化策」構想を発表\[1\]。
@@ -47,23 +47,23 @@
 
 ### チーム成績
 
-|                                                                       |                                                                |        |    |    |    |    |    |    |      |      |                                                     |
-| --------------------------------------------------------------------- | -------------------------------------------------------------- | ------ | -- | -- | -- | -- | -- | -- | ---- | ---- | --------------------------------------------------- |
-| 年度                                                                    | 所属                                                             | 順位     | 勝点 | 試合 | 勝  | 分  | 敗  | 得点 | 失点   | 差    | 監督                                                  |
-| [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\) "wikilink") | [東北](https://ja.wikipedia.org/wiki/東北社会人サッカーリーグ "wikilink")2部北 | **優勝** | 40 | 14 | 13 | 1  | 0  | 46 | 14   | 32   | [光田徹](https://ja.wikipedia.org/wiki/光田徹 "wikilink") |
-| [2007](https://ja.wikipedia.org/wiki/2007年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                                         | 32     | 14 | 10 | 2  | 2  | 46 | 13 | 33   | 堀井郁夫 |                                                     |
-| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                                           | 4位     | 23 | 14 | 7  | 2  | 5  | 18 | 24   | \-6  |                                                     |
-| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ "wikilink")          | 5位                                                             | 17     | 14 | 5  | 2  | 7  | 17 | 43 | \-26 |      |                                                     |
-| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\) "wikilink") | 5位                                                             | 13     | 14 | 3  | 4  | 7  | 26 | 33 | \-7  | 照井寿和 |                                                     |
-| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | 4位                                                             | 19     | 12 | 6  | 1  | 5  | 56 | 29 | 27   | 加藤淳  |                                                     |
-| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | 4位                                                             | 16     | 12 | 5  | 1  | 6  | 21 | 36 | \-15 |      |                                                     |
-| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | 10位                                                            | 13     | 18 | 3  | 4  | 11 | 19 | 57 | \-38 |      |                                                     |
-| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | 7位                                                             | 20     | 18 | 6  | 2  | 10 | 27 | 57 | \-30 |      |                                                     |
-| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | 10位                                                            | 6      | 18 | 1  | 3  | 14 | 18 | 95 | \-77 |      |                                                     |
-| [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | 東北2部北                                                          | 2位     | 44 | 18 | 14 | 2  | 2  | 57 | 18   | 39   |                                                     |
-| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                                         | 41     | 18 | 13 | 2  | 3  | 58 | 22 | 36   |      |                                                     |
-| [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                                           | 7位     | 18 | 22 | 7  | 1  | 10 | 24 | 36   | \-12 | 菊池広之                                                |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") |                                                                |        |    |    |    |    |    |    |      |      |                                                     |
+|                                                                       |                                             |        |    |    |    |    |    |    |      |      |                                                     |
+| --------------------------------------------------------------------- | ------------------------------------------- | ------ | -- | -- | -- | -- | -- | -- | ---- | ---- | --------------------------------------------------- |
+| 年度                                                                    | 所属                                          | 順位     | 勝点 | 試合 | 勝  | 分  | 敗  | 得点 | 失点   | 差    | 監督                                                  |
+| [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\) "wikilink") | [東北](../Page/東北社会人サッカーリーグ.md "wikilink")2部北 | **優勝** | 40 | 14 | 13 | 1  | 0  | 46 | 14   | 32   | [光田徹](https://ja.wikipedia.org/wiki/光田徹 "wikilink") |
+| [2007](https://ja.wikipedia.org/wiki/2007年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                      | 32     | 14 | 10 | 2  | 2  | 46 | 13 | 33   | 堀井郁夫 |                                                     |
+| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                        | 4位     | 23 | 14 | 7  | 2  | 5  | 18 | 24   | \-6  |                                                     |
+| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ "wikilink")          | 5位                                          | 17     | 14 | 5  | 2  | 7  | 17 | 43 | \-26 |      |                                                     |
+| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\) "wikilink") | 5位                                          | 13     | 14 | 3  | 4  | 7  | 26 | 33 | \-7  | 照井寿和 |                                                     |
+| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | 4位                                          | 19     | 12 | 6  | 1  | 5  | 56 | 29 | 27   | 加藤淳  |                                                     |
+| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | 4位                                          | 16     | 12 | 5  | 1  | 6  | 21 | 36 | \-15 |      |                                                     |
+| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | 10位                                         | 13     | 18 | 3  | 4  | 11 | 19 | 57 | \-38 |      |                                                     |
+| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | 7位                                          | 20     | 18 | 6  | 2  | 10 | 27 | 57 | \-30 |      |                                                     |
+| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | 10位                                         | 6      | 18 | 1  | 3  | 14 | 18 | 95 | \-77 |      |                                                     |
+| [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | 東北2部北                                       | 2位     | 44 | 18 | 14 | 2  | 2  | 57 | 18   | 39   |                                                     |
+| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                      | 41     | 18 | 13 | 2  | 3  | 58 | 22 | 36   |      |                                                     |
+| [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                        | 7位     | 18 | 22 | 7  | 1  | 10 | 24 | 36   | \-12 | 菊池広之                                                |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") |                                             |        |    |    |    |    |    |    |      |      |                                                     |
 
 ## 所属選手・スタッフ
 
@@ -136,7 +136,7 @@
 <td><p><strong>DF</strong></p></td>
 <td><p><strong>6</strong></p></td>
 <td><p>上村和也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尚美学園大学" title="wikilink">尚美学園大学</a></p></td>
+<td><p><a href="../Page/尚美学園大学.md" title="wikilink">尚美学園大学</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -163,7 +163,7 @@
 <tr class="odd">
 <td><p><strong>29</strong></p></td>
 <td><p>飯塚颯太</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田県立新屋高等学校" title="wikilink">新屋高校</a></p></td>
+<td><p><a href="../Page/秋田県立新屋高等学校.md" title="wikilink">新屋高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -178,7 +178,7 @@
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>2</strong></p></td>
 <td><p>児玉賢哉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルビレックス新潟シンガポール" title="wikilink">アルビレックス新潟シンガポール</a></p></td>
+<td><p><a href="../Page/アルビレックス新潟シンガポール.md" title="wikilink">アルビレックス新潟シンガポール</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -219,14 +219,14 @@
 <tr class="odd">
 <td><p><strong>16</strong></p></td>
 <td><p>田近晴登</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田市立秋田商業高等学校" title="wikilink">秋田商業高校</a></p></td>
+<td><p><a href="../Page/秋田市立秋田商業高等学校.md" title="wikilink">秋田商業高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>17</strong></p></td>
 <td><p>大山悠斗</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田県立新屋高等学校" title="wikilink">新屋高校</a></p></td>
+<td><p><a href="../Page/秋田県立新屋高等学校.md" title="wikilink">新屋高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -247,7 +247,7 @@
 <tr class="odd">
 <td><p><strong>24</strong></p></td>
 <td><p><a href="../Page/鈴木健児.md" title="wikilink">鈴木健児</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/栃木シティフットボールクラブ" title="wikilink">栃木ウーヴァFC</a></p></td>
+<td><p><a href="../Page/栃木シティフットボールクラブ.md" title="wikilink">栃木ウーヴァFC</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -269,7 +269,7 @@
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>4</strong></p></td>
 <td><p>鈴木賢</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JAPANサッカーカレッジ" title="wikilink">CUPS聖籠</a></p></td>
+<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">CUPS聖籠</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

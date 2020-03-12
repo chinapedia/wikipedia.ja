@@ -5,9 +5,9 @@
 
 ## 概要
 
-1998年3月30日放送開始当初は放送開始時刻を「FNNスーパーニュース」と揃えていたが、開始時刻が30分繰り上がった[1999年](../Page/1999年.md "wikilink")4月1日以降も放送時間の変更は受けず、FNN系列全局ネットパート（17:54）からの放送開始となっていた。2002年度は平日のみ、前座の「[できたてGopan](https://ja.wikipedia.org/wiki/Gopan "wikilink")」と[事実上コンプレックスとなった](../Page/コンプレックス_\(番組形式\).md "wikilink")「**FNN KTNスーパーニュースGopan**」と改題して放送したが、2003年に元のタイトルに戻る。
+1998年3月30日放送開始当初は放送開始時刻を「FNNスーパーニュース」と揃えていたが、開始時刻が30分繰り上がった[1999年](../Page/1999年.md "wikilink")4月1日以降も放送時間の変更は受けず、FNN系列全局ネットパート（17:54）からの放送開始となっていた。2002年度は平日のみ、前座の「[できたてGopan](../Page/Gopan.md "wikilink")」と[事実上コンプレックスとなった](../Page/コンプレックス_\(番組形式\).md "wikilink")「**FNN KTNスーパーニュースGopan**」と改題して放送したが、2003年に元のタイトルに戻る。
 
-17時台のネットを開始したのは放送10年目に入った2007年4月2日からであった。その後、2009年10月2日～2010年10月1日までの約1年間は金曜日のみ非ネット（「**できたてGopan**」を改編した「**金よう夕Gopan**」の放送開始に伴う）となり、一旦は全曜日ネットに戻ったものの、2011年4月12日～2011年9月30日までの半年間は「**生活てれび スーパーGopan**」に内包して冒頭の16:53～17:07頃までの部分ネットに移行し、2011年10月3日～2013年3月22日までの約2年間は平日の全曜日が非ネット（「生活てれび スーパーGopan」の完全ローカル番組化に伴う）となった。そして、臨時ネットとして組まれた2013年3月25日放送分から17時台のネットを再開し、平日版の放送終了日である2015年3月27日まで続けられた。その際、フジテレビでは2013年4月1日放送分から開始時刻を16:30に繰り上げたが、KTNでは「[Gopan](https://ja.wikipedia.org/wiki/Gopan "wikilink")」が放送される関係で放送時間の繰り上げは行われなかった。同年9月30日放送分からフジテレビ側で開始時刻の繰り下げが行われたため、以降は16:52:30の「スーパーニュース」開始冒頭のオープニングが流れるようになった。
+17時台のネットを開始したのは放送10年目に入った2007年4月2日からであった。その後、2009年10月2日～2010年10月1日までの約1年間は金曜日のみ非ネット（「**できたてGopan**」を改編した「**金よう夕Gopan**」の放送開始に伴う）となり、一旦は全曜日ネットに戻ったものの、2011年4月12日～2011年9月30日までの半年間は「**生活てれび スーパーGopan**」に内包して冒頭の16:53～17:07頃までの部分ネットに移行し、2011年10月3日～2013年3月22日までの約2年間は平日の全曜日が非ネット（「生活てれび スーパーGopan」の完全ローカル番組化に伴う）となった。そして、臨時ネットとして組まれた2013年3月25日放送分から17時台のネットを再開し、平日版の放送終了日である2015年3月27日まで続けられた。その際、フジテレビでは2013年4月1日放送分から開始時刻を16:30に繰り上げたが、KTNでは「[Gopan](../Page/Gopan.md "wikilink")」が放送される関係で放送時間の繰り上げは行われなかった。同年9月30日放送分からフジテレビ側で開始時刻の繰り下げが行われたため、以降は16:52:30の「スーパーニュース」開始冒頭のオープニングが流れるようになった。
 
 また、2012年10月からは特集コーナーのタイトルを、「FNNスーパーニュース」と同じ「**スーパー特報**」として放送されていた（「FNNスーパーニュース」での「スーパー特報」と異なり、長崎県内のニュースや話題を扱う）。
 
@@ -18,7 +18,7 @@
 ### 平日版
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") 月曜日 - 金曜日 17:55 - 18:55
-  - 2000年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") 月曜日 - 金曜日 17:54 - 18:55（第1期）
+  - 2000年[4月3日](../Page/4月3日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") 月曜日 - 金曜日 17:54 - 18:55（第1期）
   - [2003年](../Page/2003年.md "wikilink")3月31日 - [2007年](../Page/2007年.md "wikilink")3月30日 月曜日 - 金曜日 17:54 - 19:00（第2期）
   - 2007年[4月2日](../Page/4月2日.md "wikilink") - 2007年[9月28日](../Page/9月28日.md "wikilink") 月曜日 - 金曜日 16:55 - 19:00
   - 2007年[10月1日](../Page/10月1日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") 月曜日 - 金曜日 16:53 - 19:00（第1期）
@@ -51,7 +51,7 @@
       - 長崎県内ローカルニュース（トップ項目）
       - 項目紹介（2項目、スーパー特報の内容）
       - 長崎県内ローカルニュース、スーパー特報
-      - [提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")、CM
+      - [提供クレジット](../Page/提供クレジット.md "wikilink")、CM
       - 日替わりコーナー（月:Get's V、火:長崎昭和時代、水、木:木曜スポ★カル、金）
   - 18:35頃-18:40 [天気予報](../Page/天気予報.md "wikilink")（早出し天気）
   - 18:40-18:51.15 えなみゼミ（スポーツ）・ニュース（東京からの任意ネット25局、途中CM入り2回）
@@ -76,17 +76,17 @@
 
 **平日**
 
-  - [松本祐明](https://ja.wikipedia.org/wiki/松本祐明 "wikilink")
+  - [松本祐明](../Page/松本祐明.md "wikilink")
   - [西野みゆき](https://ja.wikipedia.org/wiki/西野みゆき "wikilink")（『KTNザ・ヒューマン』から続投、第1期）
-  - [森千夏](https://ja.wikipedia.org/wiki/長岡千夏 "wikilink")（『KTNスーパーニュースGopan』から続投、第2期）
-  - [山本圭介](https://ja.wikipedia.org/wiki/山本圭介_\(アナウンサー\) "wikilink")
+  - [森千夏](../Page/長岡千夏.md "wikilink")（『KTNスーパーニュースGopan』から続投、第2期）
+  - [山本圭介](../Page/山本圭介_\(アナウンサー\).md "wikilink")
   - [増田さと子](https://ja.wikipedia.org/wiki/増田さと子 "wikilink")
   - [川波美幸](https://ja.wikipedia.org/wiki/川波美幸 "wikilink")
   - [春山恵理](../Page/春山恵理.md "wikilink")
   - [河波貴大](https://ja.wikipedia.org/wiki/河波貴大 "wikilink")
   - [円田智子](https://ja.wikipedia.org/wiki/円田智子 "wikilink")
-  - [吉井誠](https://ja.wikipedia.org/wiki/吉井誠 "wikilink")
-  - [伊賀透浩](https://ja.wikipedia.org/wiki/伊賀透浩 "wikilink")（現:[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")アナウンサー）
+  - [吉井誠](../Page/吉井誠.md "wikilink")
+  - [伊賀透浩](../Page/伊賀透浩.md "wikilink")（現:[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")アナウンサー）
   - [磯部翔](https://ja.wikipedia.org/wiki/磯部翔 "wikilink")（現在も、KTN夕方のニュースを担当している。）
   - [本田舞](https://ja.wikipedia.org/wiki/本田舞 "wikilink")
 
@@ -99,7 +99,7 @@
   - [箕浦聖弓](../Page/箕浦聖弓.md "wikilink")
   - [藤井敬子](https://ja.wikipedia.org/wiki/藤井敬子 "wikilink")
   - [弘中香](https://ja.wikipedia.org/wiki/黒木香_\(アナウンサー\) "wikilink")
-  - [矢内環](https://ja.wikipedia.org/wiki/矢内環 "wikilink")
+  - [矢内環](../Page/矢内環.md "wikilink")
   - [神野友美](https://ja.wikipedia.org/wiki/神野友美 "wikilink")
 
 ## 関連項目
@@ -112,8 +112,8 @@
 
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")4月1日開局 - 1981年3月31日 『KTNニュース』
   - [1981年](../Page/1981年.md "wikilink")4月1日 - 1984年9月28日 『[KTNニュース6:30](https://ja.wikipedia.org/wiki/KTNニュース6:30 "wikilink")』
-  - [1984年](../Page/1984年.md "wikilink")10月1日 - 1989年4月2日 『[ニュースワイドKTN](https://ja.wikipedia.org/wiki/ニュースワイドKTN "wikilink")』
-  - [1989年](../Page/1989年.md "wikilink")4月3日 - 1997年3月30日 『[KTNスーパータイム](https://ja.wikipedia.org/wiki/KTNスーパータイム "wikilink")』
+  - [1984年](../Page/1984年.md "wikilink")10月1日 - 1989年4月2日 『[ニュースワイドKTN](../Page/ニュースワイドKTN.md "wikilink")』
+  - [1989年](../Page/1989年.md "wikilink")4月3日 - 1997年3月30日 『[KTNスーパータイム](../Page/KTNスーパータイム.md "wikilink")』
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月31日 - 1998年3月29日 『[KTNザ・ヒューマン](https://ja.wikipedia.org/wiki/KTNザ・ヒューマン "wikilink")』
   - 1998年3月30日 - 2002年3月29日 『KTNスーパーニュース FNN』（第1期、平日）
   - 1998年4月4日 - 2001年4月1日 『KTNスーパーニュース FNN』（週末）

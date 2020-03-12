@@ -1,7 +1,7 @@
 > この記事は[PIKANCHI](https://ja.wikipedia.org/wiki/PIKANCHI)から翻訳されています。
 
 
-「**PIKA☆NCHI**」（ピカンチ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[J Stormから発売された](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+「**PIKA☆NCHI**」（ピカンチ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 前2作でも用いられた、「低価格（525円）」「8cmシングル」というフォーマットを踏襲する形で発売されたが、この試みは今作が最後となっている。2008年に「[ナイスな心意気](../Page/ナイスな心意気.md "wikilink")」と共に再発盤が発売された。
 
-[PVの監督は](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[堤幸彦](../Page/堤幸彦.md "wikilink")が手掛けている。
+[PVの監督は](../Page/ミュージック・ビデオ.md "wikilink")、[堤幸彦](../Page/堤幸彦.md "wikilink")が手掛けている。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
 
 1.  **PIKA☆NCHI** \[4:51\]
       -
-        作詞：相田毅、作曲：谷本新、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：相田毅、作曲：谷本新、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 嵐主演 映画『[ピカ☆ンチ LIFE IS HARDだけどHAPPY](https://ja.wikipedia.org/wiki/ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY "wikilink")』主題歌
       - 嵐主演 映画『[ピカ☆★☆ンチ LIFE IS HARD たぶんHAPPY](https://ja.wikipedia.org/wiki/ピカ☆★☆ンチ_LIFE_IS_HARD_たぶんHAPPY "wikilink")』エンディング・テーマ
@@ -27,7 +27,7 @@
         [2009年](../Page/2009年.md "wikilink")開催「[ARASHI Anniversary Tour 5×10](https://ja.wikipedia.org/wiki/ARASHI_Anniversary_Tour_5×10 "wikilink")」にて、相葉がソロ曲として披露した。
 2.  **道** \[0:56\]
       -
-        作詞：[河原雅彦](https://ja.wikipedia.org/wiki/河原雅彦 "wikilink")、作曲・編曲：[辻陽](../Page/辻陽.md "wikilink")
+        作詞：[河原雅彦](../Page/河原雅彦.md "wikilink")、作曲・編曲：[辻陽](../Page/辻陽.md "wikilink")
     <!-- end list -->
       - 嵐主演 映画『ピカ☆ンチ LIFE IS HARDだけどHAPPY』挿入歌
 3.  PIKA☆NCHI（オリジナル・カラオケ）

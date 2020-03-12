@@ -5,7 +5,7 @@
 
 ## 特徴
 
-無色またはわずかに黄色がかった液体であり、水や[酢酸エチル](https://ja.wikipedia.org/wiki/酢酸エチル "wikilink")、[クロロホルム](../Page/クロロホルム.md "wikilink")、[ベンゼン](../Page/ベンゼン.md "wikilink")、低級[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")や低級[ケトン](../Page/ケトン.md "wikilink")といったさまざまな溶媒と混ざり合うことができる。[ジメチルホルムアミド](https://ja.wikipedia.org/wiki/ジメチルホルムアミド "wikilink") (DMF) や[ジメチルアセトアミド](https://ja.wikipedia.org/wiki/ジメチルアセトアミド "wikilink") (DMA)、[ジメチルスルホキシド](https://ja.wikipedia.org/wiki/ジメチルスルホキシド "wikilink") (DMSO)、[アセトニトリル](https://ja.wikipedia.org/wiki/アセトニトリル "wikilink") 等と同じく[非プロトン性極性溶媒に属する](https://ja.wikipedia.org/wiki/溶媒 "wikilink")。
+無色またはわずかに黄色がかった液体であり、水や[酢酸エチル](../Page/酢酸エチル.md "wikilink")、[クロロホルム](../Page/クロロホルム.md "wikilink")、[ベンゼン](../Page/ベンゼン.md "wikilink")、低級[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")や低級[ケトン](../Page/ケトン.md "wikilink")といったさまざまな溶媒と混ざり合うことができる。[ジメチルホルムアミド](https://ja.wikipedia.org/wiki/ジメチルホルムアミド "wikilink") (DMF) や[ジメチルアセトアミド](../Page/ジメチルアセトアミド.md "wikilink") (DMA)、[ジメチルスルホキシド](../Page/ジメチルスルホキシド.md "wikilink") (DMSO)、[アセトニトリル](../Page/アセトニトリル.md "wikilink") 等と同じく[非プロトン性極性溶媒に属する](https://ja.wikipedia.org/wiki/溶媒 "wikilink")。
 
 ## 製法
 
@@ -15,7 +15,7 @@
 
 高い溶解性を持つため、特に[高分子化学](../Page/高分子化学.md "wikilink")の分野を中心に様々な物質に対する溶媒として用いられる。また各種繊維やレジン樹脂、金属皮膜プラスチックの表面処理時の溶媒や、ペンキはがし剤としても用いられる。
 
-*N*-メチル-2-ピロリドンとその誘導体は農薬や医薬品、繊維助剤、可塑剤、安定化剤、特殊インクなどの[中間体](https://ja.wikipedia.org/wiki/中間体 "wikilink")として用いられることもある。また[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")の前駆体でもある。ゴムの分野では[スチレン・ブタジエンゴム](../Page/スチレン・ブタジエンゴム.md "wikilink") (SBR) [ラテックス](https://ja.wikipedia.org/wiki/ラテックス "wikilink")製品に用いられ、エレクトロニクス産業においては[プリント基板](../Page/プリント基板.md "wikilink")の製作に用いられる。
+*N*-メチル-2-ピロリドンとその誘導体は農薬や医薬品、繊維助剤、可塑剤、安定化剤、特殊インクなどの[中間体](https://ja.wikipedia.org/wiki/中間体 "wikilink")として用いられることもある。また[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")の前駆体でもある。ゴムの分野では[スチレン・ブタジエンゴム](../Page/スチレン・ブタジエンゴム.md "wikilink") (SBR) [ラテックス](../Page/ラテックス.md "wikilink")製品に用いられ、エレクトロニクス産業においては[プリント基板](../Page/プリント基板.md "wikilink")の製作に用いられる。
 
 ## 関連項目
 

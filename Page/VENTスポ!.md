@@ -1,7 +1,7 @@
 > この記事は[VENT!](https://ja.wikipedia.org/wiki/VENT!)から翻訳されています。
 
 
-『**VENTスポ\!**』（ヴァンスポ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")で毎週日曜日に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[テレビ番組](../Page/テレビ番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")の応援が主目的である。
+『**VENTスポ\!**』（ヴァンスポ）は、[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")で毎週日曜日に[生放送](../Page/生放送.md "wikilink")されていた[テレビ番組](../Page/テレビ番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")の応援が主目的である。
 
 ## 概要
 
@@ -18,13 +18,13 @@
 
 以下、代理と過去の出演者の項目を含め、**太字**は山梨放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。
 
-  - **[前田真宏](https://ja.wikipedia.org/wiki/前田真宏_\(アナウンサー\) "wikilink")**（キャスター）
+  - **[前田真宏](../Page/前田真宏_\(アナウンサー\).md "wikilink")**（キャスター）
   - **[石河茉美](../Page/石河茉美.md "wikilink")**（キャスター、2006年5月28日放送分から出演、ニュースコーナーも担当していた。VTRナレーションを担当することもある）
-  - **[中島そよか](https://ja.wikipedia.org/wiki/中島そよか "wikilink")**（リポーター、2008年4月6日放送分から出演）
-  - **[横内洋樹](https://ja.wikipedia.org/wiki/横内洋樹 "wikilink")**（リポーター、2008年4月6日放送分から出演）
+  - **[中島そよか](../Page/中島そよか.md "wikilink")**（リポーター、2008年4月6日放送分から出演）
+  - **[横内洋樹](../Page/横内洋樹.md "wikilink")**（リポーター、2008年4月6日放送分から出演）
   - **[中込真理子](https://ja.wikipedia.org/wiki/中込真理子 "wikilink")**（リポーター、2008年4月6日放送分から出演）
-  - **[櫻井和明](https://ja.wikipedia.org/wiki/櫻井和明 "wikilink")**（VTRナレーション、VF甲府のホーム戦が日曜夜の場合は中継も担当）
-  - **[酒井康宜](https://ja.wikipedia.org/wiki/酒井康宜 "wikilink")**（VTRナレーション、一部コーナー担当）
+  - **[櫻井和明](../Page/櫻井和明.md "wikilink")**（VTRナレーション、VF甲府のホーム戦が日曜夜の場合は中継も担当）
+  - **[酒井康宜](../Page/酒井康宜.md "wikilink")**（VTRナレーション、一部コーナー担当）
 
 ### 途中降板した出演者
 
@@ -32,15 +32,15 @@
   - [火災報知器](../Page/火災報知器_\(お笑いコンビ\).md "wikilink")（スペシャルサポーター。2006年5月28日放送分からは主にVTRでの出演）
       - [小林知之](https://ja.wikipedia.org/wiki/小林知之 "wikilink")
       - [高松信太郎](https://ja.wikipedia.org/wiki/高松信太郎 "wikilink")
-  - **[吉岡秀樹](https://ja.wikipedia.org/wiki/吉岡秀樹 "wikilink")**（2007年3月まで出演、ニュースコーナー担当）
-  - **[富田智美](https://ja.wikipedia.org/wiki/富田智美 "wikilink")**（2007年6月まで出演、VTRナレーション、一部コーナー担当）
+  - **[吉岡秀樹](../Page/吉岡秀樹.md "wikilink")**（2007年3月まで出演、ニュースコーナー担当）
+  - **[富田智美](../Page/富田智美.md "wikilink")**（2007年6月まで出演、VTRナレーション、一部コーナー担当）
   - [羽中田昌](../Page/羽中田昌.md "wikilink")（コメンテーター、2006年10月1日 - 2007年12月23日)
 
 ### 代理出演者
 
 以下は、ニュースコーナーを吉岡秀樹が担当していた当時のニュースコーナーの代理である。
 
-  - **[植田有紀子](https://ja.wikipedia.org/wiki/植田有紀子 "wikilink")**
+  - **[植田有紀子](../Page/植田有紀子.md "wikilink")**
   - **横内洋樹**
 
 ### キャラクター
@@ -89,7 +89,7 @@ FIFAワールドカップ開催期間中など、Jリーグの試合が無い場
 
 ### 大木語録
 
-ヴァンフォーレ甲府の[大木武](https://ja.wikipedia.org/wiki/大木武 "wikilink")監督（当時）の発言の一部を紹介するコーナー。2006年5月28日以降は放送されていなかったが、同年7月23日放送分で復活した。キャスターの前田に対して復活を望むメールが2通届いたために復活させたとのこと。
+ヴァンフォーレ甲府の[大木武](../Page/大木武.md "wikilink")監督（当時）の発言の一部を紹介するコーナー。2006年5月28日以降は放送されていなかったが、同年7月23日放送分で復活した。キャスターの前田に対して復活を望むメールが2通届いたために復活させたとのこと。
 
 ### 羽中田昌のアイ
 
@@ -109,7 +109,7 @@ FIFAワールドカップ開催期間中など、Jリーグの試合が無い場
 
 ### VENTスポ\!青春アミーゴ
 
-山梨県内の中学・高校・大学の部活動やVF甲府のジュニアユースなどを紹介するコーナー。2006年5月28日放送分から実施。テーマ曲は[修二と彰](https://ja.wikipedia.org/wiki/修二と彰 "wikilink")の[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")。開始当初は火災報知器の2人が担当していた。
+山梨県内の中学・高校・大学の部活動やVF甲府のジュニアユースなどを紹介するコーナー。2006年5月28日放送分から実施。テーマ曲は[修二と彰](../Page/修二と彰.md "wikilink")の[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")。開始当初は火災報知器の2人が担当していた。
 
 ### スポーツキッズ列伝
 

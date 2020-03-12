@@ -64,8 +64,8 @@
 <li>生年月日：</li>
 <li>血液型：B</li>
 <li>身長：183cm</li>
-<li>出身地：<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://ja.wikipedia.org/wiki/軍浦市" title="wikilink">軍浦市</a>[11]</li>
-<li>学歴：<a href="https://ja.wikipedia.org/wiki/成均館大学校" title="wikilink">成均館大学校</a>演技芸術学科在学[12]</li>
+<li>出身地：<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/軍浦市.md" title="wikilink">軍浦市</a>[11]</li>
+<li>学歴：<a href="../Page/成均館大学校.md" title="wikilink">成均館大学校</a>演技芸術学科在学[12]</li>
 <li>ポジション：センター、サブボーカル、ビジュアル</li>
 <li>愛称:顔天才(얼굴천재) チャドゥンチ(차둠칫)</li>
 </ul></td>
@@ -97,7 +97,7 @@
 <li>生年月日：</li>
 <li>血液型：O</li>
 <li>身長：177cm</li>
-<li>出身地：<a href="../Page/慶尚南道.md" title="wikilink">慶尚南道</a><a href="https://ja.wikipedia.org/wiki/晋州市_(慶尚南道)" title="wikilink">晋州市</a>[17]</li>
+<li>出身地：<a href="../Page/慶尚南道.md" title="wikilink">慶尚南道</a><a href="../Page/晋州市_(慶尚南道).md" title="wikilink">晋州市</a>[17]</li>
 <li>学歴：翰林芸能芸術高等学校卒業[18]</li>
 <li>ポジション：メインダンサー、リードラッパー</li>
 <li>愛称:パク ミニョク</li>
@@ -432,7 +432,7 @@ mini album</strong></span></p></td>
 2.
 3.  김하진 [［My Name］아스트로（1）MJ 라키 문빈](http://tenasia.hankyung.com/archives/688889)  10asia/[韓国経済新聞](https://ja.wikipedia.org/wiki/韓国経済新聞 "wikilink") 2015.9.23付記事
 4.  손민지 [［아이돌 고향을 찾아서①］우리 고향 아이돌 누가 있을까](http://sports.khan.co.kr/entertainment/sk_index.html?art_id=201706230815003&sec_id=540301&pt=nv)  [スポーツ京郷](https://ja.wikipedia.org/wiki/スポーツ京郷 "wikilink") 2017.6.23付記事
-5.  이미현 [［취중돌②］아스트로 차은우 "모든 게 느린 진진, '키우는 맛' 있어요"](http://news.joins.com/article/21844538)  [中央日報](https://ja.wikipedia.org/wiki/中央日報 "wikilink") 2017.8.15付記事（オリジナル: [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ_\(韓国\) "wikilink")）
+5.  이미현 [［취중돌②］아스트로 차은우 "모든 게 느린 진진, '키우는 맛' 있어요"](http://news.joins.com/article/21844538)  [中央日報](../Page/中央日報.md "wikilink") 2017.8.15付記事（オリジナル: [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ_\(韓国\) "wikilink")）
 6.  김하진 [［My Name］아스트로（2）윤산하 진진 차은우](http://tenasia.hankyung.com/archives/688939)  10asia/韓国経済新聞 2015.9.23付記事
 7.
 8.

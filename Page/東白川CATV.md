@@ -1,12 +1,12 @@
 > この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
 
 
-**東白川CATV**（ひがししらかわシーエーティーヴィ）は、[岐阜県](../Page/岐阜県.md "wikilink")[加茂郡](../Page/加茂郡.md "wikilink")[東白川村](https://ja.wikipedia.org/wiki/東白川村 "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
+**東白川CATV**（ひがししらかわシーエーティーヴィ）は、[岐阜県](../Page/岐阜県.md "wikilink")[加茂郡](../Page/加茂郡.md "wikilink")[東白川村](../Page/東白川村.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）頃 - 加入申込み受付開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+  - [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）頃 - 加入申込み受付開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 既存のテレビ共聴施設と有線放送電話が廃止される。
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 開局（[FMラジオ](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")・[BSアナログ](https://ja.wikipedia.org/wiki/日本における衛星放送#アナログによる衛星放送 "wikilink")・[地上アナログ](../Page/NTSC.md "wikilink")・[地上デジタル放送の再送信](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、[IP告知放送](https://ja.wikipedia.org/wiki/IP放送#IP告知放送 "wikilink")、村内[有線電話](../Page/有線放送電話.md "wikilink")、[インターネット接続サービス](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")）
           -
@@ -21,13 +21,13 @@
 
 ## サービスエリア
 
-  - [岐阜県](../Page/岐阜県.md "wikilink")[加茂郡](../Page/加茂郡.md "wikilink")[東白川村](https://ja.wikipedia.org/wiki/東白川村 "wikilink")
+  - [岐阜県](../Page/岐阜県.md "wikilink")[加茂郡](../Page/加茂郡.md "wikilink")[東白川村](../Page/東白川村.md "wikilink")
 
 ## ケーブルテレビサービス
 
 ### テレビ局
 
-  - 「画質・HD」欄が"●"、「画質・SD」欄が"○"のチャンネルは、通常はハイビジョン、マルチ編成時は16:9の[画角情報が付与された標準画質](https://ja.wikipedia.org/wiki/画角情報_\(テレビ放送\) "wikilink")。
+  - 「画質・HD」欄が"●"、「画質・SD」欄が"○"のチャンネルは、通常はハイビジョン、マルチ編成時は16:9の[画角情報が付与された標準画質](../Page/画角情報_\(テレビ放送\).md "wikilink")。
   - 「画質・HD」欄が空欄、「画質・SD」欄が"○"のチャンネルは、16:9の画角情報が付与された標準画質。
 
 #### 地上デジタル放送
@@ -48,7 +48,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -159,7 +159,7 @@ ID</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -355,7 +355,7 @@ ID</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>83.6</strong></p></td>
-<td><p><strong>NHK岐阜<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></strong></p></td>
+<td><p><strong>NHK岐阜<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -372,8 +372,8 @@ ID</a></p></td>
 ## インターネット接続サービス
 
   - 基本加入が前提となる。
-  - 回線速度：30Mbps（下り、[ベストエフォート](https://ja.wikipedia.org/wiki/ベストエフォート "wikilink")値）
-  - [HUBを用いて](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")4台までの[ネットワーク機器を](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")に接続可能。
+  - 回線速度：30Mbps（下り、[ベストエフォート](../Page/ベストエフォート.md "wikilink")値）
+  - [HUBを用いて](../Page/ハブ_\(ネットワーク機器\).md "wikilink")4台までの[ネットワーク機器を](../Page/コンピュータネットワーク.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")に接続可能。
 
 <!-- end list -->
 
@@ -394,7 +394,7 @@ ID</a></p></td>
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
   - [ホームターミナル](https://ja.wikipedia.org/wiki/ホームターミナル "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")

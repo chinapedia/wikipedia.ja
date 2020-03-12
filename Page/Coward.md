@@ -1,11 +1,11 @@
 > この記事は[Coward](https://ja.wikipedia.org/wiki/Coward)から翻訳されています。
 
 
-『**Coward**』（カワード）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")にリリースされた[ENDLICHERI☆ENDLICHERIの](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")（堂本剛のソロアルバムとしては通算3枚目）。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。 __TOC__
+『**Coward**』（カワード）は、[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")にリリースされた[ENDLICHERI☆ENDLICHERIの](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")（堂本剛のソロアルバムとしては通算3枚目）。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。 __TOC__
 
 ## 解説
 
-本作は、**ENDLICHERI☆ENDLICHERI**の名義でソロプロジェクトを展開することとなって以降、初となるオリジナルアルバムである。名義の由来や活動の概要などは[堂本剛\#244 ENDLI-x (ENDLICHERI☆ENDLICHERI)の項を参照のこと](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")。堂本のソロ作品としては[2004年](../Page/2004年.md "wikilink")のアルバム『[\[síː\]](https://ja.wikipedia.org/wiki/Si_\(アルバム\) "wikilink")』以来2年ぶりとなる。
+本作は、**ENDLICHERI☆ENDLICHERI**の名義でソロプロジェクトを展開することとなって以降、初となるオリジナルアルバムである。名義の由来や活動の概要などは[堂本剛\#244 ENDLI-x (ENDLICHERI☆ENDLICHERI)の項を参照のこと](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")。堂本のソロ作品としては[2004年](../Page/2004年.md "wikilink")のアルバム『[\[síː\]](../Page/Si_\(アルバム\).md "wikilink")』以来2年ぶりとなる。
 
 ソロ名義で発売した前2作のアルバムと同じく、本作でも独特の世界観や[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")を基調としたサウンド、独創的な[歌詞](../Page/歌詞.md "wikilink")などが生かされている。また、全体的に曲の演奏時間が長く、5分を超えるものはもちろん、6分から7分になるものまである。そのため、収録曲は全12曲(通常盤は13曲)であるが、それに対し収録時間が70分近いものと、収録曲数に対しては長めになっている。
 
@@ -13,14 +13,14 @@
 
 タイトル『Coward』は[英語](../Page/英語.md "wikilink")で臆病者と言った意味があり、プロジェクトネームの由来でもある熱帯魚“[ポリプテルス](https://ja.wikipedia.org/wiki/ポリプテルス "wikilink")・エンドリケリー・エンドリケリー”が臆病な魚であることや、堂本自身そう感じている部分があり、今作のタイトルを名付けるに至った。
 
-初回生産限定盤はスペシャルブックレット、ワイドジュエルケース付きの他、シングル「ソメイヨシノ」の[PVを収録した](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD](../Page/DVD-Video.md "wikilink")、剛がデザインしたエンドリケリー・エンドリケリーの組み立て式紙模型キットを封入。通常盤はジャケット違いで、ボーナストラック「美しく在る為に」を追加収録している。同日発売の[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")のアルバムとは僅差で首位を獲得した。（約1800枚差）
+初回生産限定盤はスペシャルブックレット、ワイドジュエルケース付きの他、シングル「ソメイヨシノ」の[PVを収録した](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD-Video.md "wikilink")、剛がデザインしたエンドリケリー・エンドリケリーの組み立て式紙模型キットを封入。通常盤はジャケット違いで、ボーナストラック「美しく在る為に」を追加収録している。同日発売の[WaT](../Page/WaT.md "wikilink")のアルバムとは僅差で首位を獲得した。（約1800枚差）
 
 ## 収録曲
 
 1.  **ENDLICHERI☆ENDLICHERI**(4'38")
     (作曲:[ENDLICHERI☆ENDLICHERI](../Page/堂本剛.md "wikilink"))
       -
-        インスト曲。[コンピューター・オペレーションが多用された楽曲](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")。全体的に打ち込み音が使われており、アルバム1曲目としてのインパクトは十分な[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")感漂う作品。生楽器は主にエレキギターのみである。2008年10月より自身が出演している「[堂本剛の正直しんどい](https://ja.wikipedia.org/wiki/堂本剛の正直しんどい "wikilink")」のオープニングテーマに起用された。
+        インスト曲。[コンピューター・オペレーションが多用された楽曲](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")。全体的に打ち込み音が使われており、アルバム1曲目としてのインパクトは十分な[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")感漂う作品。生楽器は主にエレキギターのみである。2008年10月より自身が出演している「[堂本剛の正直しんどい](../Page/堂本剛の正直しんどい.md "wikilink")」のオープニングテーマに起用された。
 2.  **故意**(6'49")
     (作詞・作曲:ENDLICHERI☆ENDLICHERI)
       -
@@ -44,7 +44,7 @@
 7.  **Chance Comes Knocking.**(3'33")
     (作曲:ENDLICHERI☆ENDLICHERI)
       -
-        形式上はインストだが、剛の歌唱や[コーラスパートも収録されている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。基本的に歌詞はないが、後のシングル「[The Rainbow Star](https://ja.wikipedia.org/wiki/The_Rainbow_Star "wikilink")」でも使われるテンポの良いブラスや、パワフルなコーラスが収録されているアップテンポな楽曲に仕上がっている。
+        形式上はインストだが、剛の歌唱や[コーラスパートも収録されている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。基本的に歌詞はないが、後のシングル「[The Rainbow Star](../Page/The_Rainbow_Star.md "wikilink")」でも使われるテンポの良いブラスや、パワフルなコーラスが収録されているアップテンポな楽曲に仕上がっている。
 8.  **御伽噺**(5'30")
     (作詞・作曲:ENDLICHERI☆ENDLICHERI)
       -
@@ -52,7 +52,7 @@
 9.  **Six Pack**(4'59")
     (作詞・作曲:ENDLICHERI☆ENDLICHERI)
       -
-        本作のリードトラック。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で「ソメイヨシノ」での出演後、再登場し初披露された。
+        本作のリードトラック。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で「ソメイヨシノ」での出演後、再登場し初披露された。
 10. **[ソメイヨシノ (album version)](../Page/ソメイヨシノ_\(曲\).md "wikilink")**(7'00")
     (作詞・作曲:ENDLICHERI☆ENDLICHERI)
       -

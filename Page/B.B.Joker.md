@@ -1,11 +1,11 @@
 > この記事は[B.B.Joker](https://ja.wikipedia.org/wiki/B.B.Joker)から翻訳されています。
 
 
-**B.B.Joker**（ビー・ビー・ジョーカー）は、少女[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")作品。作者は[にざかな](https://ja.wikipedia.org/wiki/にざかな "wikilink")。にざが原作、かなが作画を担当している。オムニバス形式でありながら、所々シリーズ化されている作品でもある。
+**B.B.Joker**（ビー・ビー・ジョーカー）は、少女[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")作品。作者は[にざかな](../Page/にざかな.md "wikilink")。にざが原作、かなが作画を担当している。オムニバス形式でありながら、所々シリーズ化されている作品でもある。
 
 ## 概要
 
-[白泉社](../Page/白泉社.md "wikilink")[LaLa](../Page/LaLa.md "wikilink")にて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけての5年間にわたって連載。全5巻+ファンブックが発売。本項ではLaLaでの本連載のほか、増刊号[LaLa DXでの](https://ja.wikipedia.org/wiki/LaLa_DX "wikilink")『B.B.Joker Selection』 、[別冊花とゆめ](https://ja.wikipedia.org/wiki/別冊花とゆめ "wikilink")での『メロメロ』 、他単行本に掲載されている、[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")などに載った単発読切も、基本的には同様にB.B.Jokerとして扱う。
+[白泉社](../Page/白泉社.md "wikilink")[LaLa](../Page/LaLa.md "wikilink")にて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけての5年間にわたって連載。全5巻+ファンブックが発売。本項ではLaLaでの本連載のほか、増刊号[LaLa DXでの](../Page/LaLa_DX.md "wikilink")『B.B.Joker Selection』 、[別冊花とゆめ](../Page/別冊花とゆめ.md "wikilink")での『メロメロ』 、他単行本に掲載されている、[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")などに載った単発読切も、基本的には同様にB.B.Jokerとして扱う。
 
 タイトルの由来は、“人生の**Joker**（ババ）を引いた瞬間を、**B**lack＆**B**itterに描く。”意味から来ている。
 
@@ -29,7 +29,7 @@
 ### 修
 
   - 沖津修（おきつ しゅう）
-    24歳。通称・修（しゅう）さん。1万人の女性と付き合った、クールなナンパ男。恐ろしく天然で、しばしば大失敗をかます憎めない性格。週末になると全裸で帰ってくる。時代劇マニアで、[水戸黄門の視聴は欠かさない](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink")。童貞(?)。「沖津君Perfect」の主役（沖津雅俊）の兄であり、彼と2人暮らししている。私服姿の長谷川貴裕を一目見て、男と見抜いた唯一の人物。赤が好き。[9月25日](../Page/9月25日.md "wikilink")生まれ、AB型。
+    24歳。通称・修（しゅう）さん。1万人の女性と付き合った、クールなナンパ男。恐ろしく天然で、しばしば大失敗をかます憎めない性格。週末になると全裸で帰ってくる。時代劇マニアで、[水戸黄門の視聴は欠かさない](../Page/水戸黄門_\(パナソニック_ドラマシアター\).md "wikilink")。童貞(?)。「沖津君Perfect」の主役（沖津雅俊）の兄であり、彼と2人暮らししている。私服姿の長谷川貴裕を一目見て、男と見抜いた唯一の人物。赤が好き。[9月25日](../Page/9月25日.md "wikilink")生まれ、AB型。
   - 坂本圭（さかもと けい）
     21歳、修の付き人。修に憧れ、崇拝している男。時には修よりモテる[うっかり八兵衛](https://ja.wikipedia.org/wiki/うっかり八兵衛 "wikilink")的存在。[7月28日](../Page/7月28日.md "wikilink")生まれ。
   - 甲斐リュウジ（かい リュウジ）
@@ -38,11 +38,11 @@
 ### 長谷川物語
 
   - 長谷川貴裕（はせがわ たかひろ）
-    16歳。男でもうっかり惚れる程の女顔で、あだ名はオカマ。自分の女顔が非常に[コンプレックス](../Page/コンプレックス.md "wikilink")である。[大山倍達](https://ja.wikipedia.org/wiki/大山倍達 "wikilink")を尊敬、男らしさを目指しつつも、空回りすることが多い。彼の姉と妹も瓜二つ。[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")生まれ。
+    16歳。男でもうっかり惚れる程の女顔で、あだ名はオカマ。自分の女顔が非常に[コンプレックス](../Page/コンプレックス.md "wikilink")である。[大山倍達](../Page/大山倍達.md "wikilink")を尊敬、男らしさを目指しつつも、空回りすることが多い。彼の姉と妹も瓜二つ。[4月3日](../Page/4月3日.md "wikilink")生まれ。
   - 澤井伸一（さわい しんいち）
     16歳、長谷川の友人。長谷川に恋心を寄せる（彼の姉や妹には全く何も感じない）自分に悩んでいる。家は貧乏。[フレディ・マーキュリー](../Page/フレディ・マーキュリー.md "wikilink")を尊敬している。[9月12日](../Page/9月12日.md "wikilink")生まれ。
   - 桜井彩（さくらい あや）
-    16歳、長谷川の友人。長谷川に対して、どこか倒錯した恋心 を抱いている。尊敬する人は[神取忍](https://ja.wikipedia.org/wiki/神取忍 "wikilink")。[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")生まれ。
+    16歳、長谷川の友人。長谷川に対して、どこか倒錯した恋心 を抱いている。尊敬する人は[神取忍](../Page/神取忍.md "wikilink")。[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")生まれ。
 
 ### 夫婦な二人 / 双子な二人
 
@@ -53,7 +53,7 @@
   - 伊藤明日香（いとう あすか）&伊藤友朗（いとう ともろう）
     二卵性の夫婦双子。姉は生まれてから1年ほど人目のつかない場所に隠されていた。母親の胎教のおかげで、齢0歳にして人生を悟りきっている。2人とも母親似であり、[2月26日](../Page/2月26日.md "wikilink")生まれ。
   - 伊藤忠次（いとう ただつぐ）
-    57歳。賢司の父親で、[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")在住。定年間近の公務員。今日子に弱みを握られているらしく、彼女に従順。
+    57歳。賢司の父親で、[仙台市](../Page/仙台市.md "wikilink")在住。定年間近の公務員。今日子に弱みを握られているらしく、彼女に従順。
 
 ### 生物
 
@@ -118,7 +118,7 @@
 ### 走っている二人
 
   - 黒髪の男&茶髪の男
-    常に走っている、2人の大学生。黒髪の男は走りながらのボケ役であり、茶髪の男はそれのツッコミ役である。『B.B.J』の中でも屈指の古株キャラクターでありながら、名前がない。黒髪の男と美紀はメル友関係。黒髪の男は[4月1日](../Page/4月1日.md "wikilink")生まれで[間寛平](../Page/間寛平.md "wikilink")を、茶髪の男は[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")生まれで[瀬古利彦](https://ja.wikipedia.org/wiki/瀬古利彦 "wikilink")を尊敬している。
+    常に走っている、2人の大学生。黒髪の男は走りながらのボケ役であり、茶髪の男はそれのツッコミ役である。『B.B.J』の中でも屈指の古株キャラクターでありながら、名前がない。黒髪の男と美紀はメル友関係。黒髪の男は[4月1日](../Page/4月1日.md "wikilink")生まれで[間寛平](../Page/間寛平.md "wikilink")を、茶髪の男は[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")生まれで[瀬古利彦](../Page/瀬古利彦.md "wikilink")を尊敬している。
 
 ## 単行本
 
@@ -133,8 +133,8 @@
 
 ## 関連項目
 
-  - [にざかな](https://ja.wikipedia.org/wiki/にざかな "wikilink")
+  - [にざかな](../Page/にざかな.md "wikilink")
   - [LaLa](../Page/LaLa.md "wikilink")
-  - [4ジゲン](https://ja.wikipedia.org/wiki/4ジゲン "wikilink")
+  - [4ジゲン](../Page/4ジゲン.md "wikilink")
 
 [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:白泉社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:白泉社の漫画雑誌 "wikilink") [Category:オムニバス漫画](https://ja.wikipedia.org/wiki/Category:オムニバス漫画 "wikilink")

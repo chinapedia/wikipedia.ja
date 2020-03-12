@@ -1,7 +1,7 @@
 > この記事は[ValueOne](https://ja.wikipedia.org/wiki/ValueOne)から翻訳されています。
 
 
-**ValueOne**（バリューワン）は、[NECから](../Page/日本電気.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで発売されていた[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")。コンセプトは「シンプルPC」。
+**ValueOne**（バリューワン）は、[NECから](../Page/日本電気.md "wikilink")[2005年](../Page/2005年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで発売されていた[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")。コンセプトは「シンプルPC」。
 
 低価格パソコンとして発売され、余計な[アプリケーションや](../Page/アプリケーションソフトウェア.md "wikilink")[Microsoft Officeのバンドルや](../Page/Microsoft_Office.md "wikilink")[ディスプレイを添付しなくしたことで低価格での販売が実現した](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")。 ただ、低価格の割には大容量の[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")や[RAID](../Page/RAID.md "wikilink")対応[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")。 さらには[デュアルコア](https://ja.wikipedia.org/wiki/デュアルコア "wikilink")[CPU](../Page/CPU.md "wikilink")などを搭載している。 大手家電量販店などでは他社のディスプレイとセットで販売されていることも多い。
 

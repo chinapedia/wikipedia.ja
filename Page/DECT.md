@@ -7,11 +7,11 @@
 
 規格はデジタルコードレス電話向けに開発されたが、[IMT-2000](https://ja.wikipedia.org/wiki/IMT-2000 "wikilink")の要求事項をも満たすため、国際的には[携帯電話](../Page/携帯電話.md "wikilink")の技術的条件の一種である（IMT-FT）。
 
-[欧州](../Page/ヨーロッパ.md "wikilink")・[オーストラリア](../Page/オーストラリア.md "wikilink")・[南米](../Page/南アメリカ.md "wikilink")・[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")諸国で使用されている。
+[欧州](../Page/ヨーロッパ.md "wikilink")・[オーストラリア](../Page/オーストラリア.md "wikilink")・[南米](../Page/南アメリカ.md "wikilink")・[アジア](../Page/アジア.md "wikilink")諸国で使用されている。
 
-日本では、2010年（平成22年）10月26日に[総務](../Page/総務省.md "wikilink")[省令](https://ja.wikipedia.org/wiki/省令 "wikilink")のデジタルコードレス電話の[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")の技術基準が改正\[1\]\[2\]され、技術的条件の[告示](https://ja.wikipedia.org/wiki/告示 "wikilink")が制定\[3\]された。また、2011年（平成23年）3月に[電波産業会](https://ja.wikipedia.org/wiki/電波産業会 "wikilink")（ARIB）も標準規格\[4\]を策定した。
+日本では、2010年（平成22年）10月26日に[総務](../Page/総務省.md "wikilink")[省令](../Page/省令.md "wikilink")のデジタルコードレス電話の[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")の技術基準が改正\[1\]\[2\]され、技術的条件の[告示](../Page/告示.md "wikilink")が制定\[3\]された。また、2011年（平成23年）3月に[電波産業会](../Page/電波産業会.md "wikilink")（ARIB）も標準規格\[4\]を策定した。
 
-日本国内での発音は「デクト」。[無線LAN](../Page/無線LAN.md "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")）使用周波数である2.4GHz帯（[ISMバンド](../Page/ISMバンド.md "wikilink")）と被らないため、[混信](https://ja.wikipedia.org/wiki/混信 "wikilink")の影響が少ない特徴を持つ。
+日本国内での発音は「デクト」。[無線LAN](../Page/無線LAN.md "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")）使用周波数である2.4GHz帯（[ISMバンド](../Page/ISMバンド.md "wikilink")）と被らないため、[混信](../Page/混信.md "wikilink")の影響が少ない特徴を持つ。
 
 ## 技術的条件
 
@@ -20,23 +20,23 @@
   - 搬送波：間隔 1782[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")・伝送速度 1152k[b/s](../Page/ビット毎秒.md "wikilink")・多重化チャネル数 12
   - [変調方式](../Page/変調方式.md "wikilink")：[GMSK](https://ja.wikipedia.org/wiki/最小偏移変調 "wikilink")
   - [音](../Page/音.md "wikilink")声[符号化方式](../Page/符号化方式.md "wikilink")：32kb/s ADPCM（[G.726](https://ja.wikipedia.org/wiki/G.726 "wikilink")）
-  - [データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")：[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")・[パケット通信](../Page/パケット通信.md "wikilink")（[ISDN](../Page/ISDN.md "wikilink")と共通の[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")を元にしたLAPC）
+  - [データ通信](../Page/データ通信.md "wikilink")：[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")・[パケット通信](../Page/パケット通信.md "wikilink")（[ISDN](../Page/ISDN.md "wikilink")と共通の[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")を元にしたLAPC）
   - セル半径：25 - 100m
-  - トラフィック密度：10000[アーラン](https://ja.wikipedia.org/wiki/アーラン "wikilink")/km<sup>2</sup>
+  - トラフィック密度：10000[アーラン](../Page/アーラン.md "wikilink")/km<sup>2</sup>
 
 ## 用途
 
   - 家庭用デジタルコードレス電話として[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")に接続。
   - ホームセキュリティ関連機器と電話機との連携。
-  - 事業所向けの[内線電話](https://ja.wikipedia.org/wiki/内線電話 "wikilink")に多数の自営[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を設置して使用。
-  - 屋外で[電気通信事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")の基地局と接続し、[移動体通信](https://ja.wikipedia.org/wiki/移動体通信 "wikilink")として利用。
-  - 需要の少ない地域においての[公衆交換電話網](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")の代替。
+  - 事業所向けの[内線電話](../Page/内線電話.md "wikilink")に多数の自営[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を設置して使用。
+  - 屋外で[電気通信事業者](../Page/電気通信事業者.md "wikilink")の基地局と接続し、[移動体通信](../Page/移動体通信.md "wikilink")として利用。
+  - 需要の少ない地域においての[公衆交換電話網](../Page/公衆交換電話網.md "wikilink")の代替。
   - [GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")とのデュアルモード[端末](../Page/端末.md "wikilink")による国際[ローミング](../Page/ローミング.md "wikilink")。
-  - いくつかの無線[チャネルを束ねて](https://ja.wikipedia.org/wiki/チャンネル "wikilink")[無線アクセス](https://ja.wikipedia.org/wiki/無線アクセス "wikilink")に利用。
+  - いくつかの無線[チャネルを束ねて](https://ja.wikipedia.org/wiki/チャンネル "wikilink")[無線アクセス](../Page/無線アクセス.md "wikilink")に利用。
 
 ## 次世代DECT
 
-次世代DECTとも呼ばれる[CAT-iq](https://ja.wikipedia.org/wiki/:en:CAT-iq "wikilink")（）は、自営通信（家庭、事業所など）向けに高品質音声 （[VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")）やインターネットとの接続性を提供する。ブロードバンド回線に接続された[ホームゲートウェイ](https://ja.wikipedia.org/wiki/ホームゲートウェイ "wikilink")等を親機とする。これまでコードレス電話市場にて培われた低コスト性、低消費電力性からセンサーネットワークに向けた仕様の制定も進行している。
+次世代DECTとも呼ばれる[CAT-iq](https://ja.wikipedia.org/wiki/:en:CAT-iq "wikilink")（）は、自営通信（家庭、事業所など）向けに高品質音声 （[VoIP](../Page/VoIP.md "wikilink")）やインターネットとの接続性を提供する。ブロードバンド回線に接続された[ホームゲートウェイ](https://ja.wikipedia.org/wiki/ホームゲートウェイ "wikilink")等を親機とする。これまでコードレス電話市場にて培われた低コスト性、低消費電力性からセンサーネットワークに向けた仕様の制定も進行している。
 
 アプリケーションは音声ストリーミングや内線通話、ビデオ会議など、[無線LAN](../Page/無線LAN.md "wikilink")が苦手としていた分野を想定しており、既に普及しているPCやゲーム機等の無線LANによる通信の置き換えを狙ったものではない\[5\]。IPベースのホームゲートウェイをベースとして[Fixed Mobile Convergenceの一種とも捉えられている](https://ja.wikipedia.org/wiki/Fixed_Mobile_Convergence "wikilink")。また、日本国内においては[Next Generation Networkとの絡みもある](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")。
 
@@ -61,7 +61,7 @@
 
 ## 関連項目
 
-  - [移動体通信](https://ja.wikipedia.org/wiki/移動体通信 "wikilink")：規格の比較
+  - [移動体通信](../Page/移動体通信.md "wikilink")：規格の比較
 
   - [PHS](../Page/PHS.md "wikilink")
 
@@ -79,8 +79,8 @@
 
 [Category:携帯電話の通信規格](https://ja.wikipedia.org/wiki/Category:携帯電話の通信規格 "wikilink")
 
-1.  平成22年総務省令第93号による[電波法施行規則](https://ja.wikipedia.org/wiki/電波法施行規則 "wikilink")改正
-2.  平成22年総務省令第94号による[無線設備規則](https://ja.wikipedia.org/wiki/無線設備規則 "wikilink")改正
+1.  平成22年総務省令第93号による[電波法施行規則](../Page/電波法施行規則.md "wikilink")改正
+2.  平成22年総務省令第94号による[無線設備規則](../Page/無線設備規則.md "wikilink")改正
 3.  [平成22年総務省告示第389号 無線設備規則第49条の8の2第1項第1号イただし書等の規定に基づく時分割多元接続方式狭帯域デジタルコードレス電話の無線局等に使用する無線設備の技術的条件等](http://www.tele.soumu.go.jp/horei/reiki_honbun/a72ab15411.html)（総務省電波利用ホームページ 総務省電波関係法令集）
 4.  ARIB STD-T101 時分割多元接続方式広帯域デジタルコードレス電話の無線局の無線設備
 5.   総務省 - 情報通信審議会 - 会議資料

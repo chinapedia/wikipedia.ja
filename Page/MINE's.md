@@ -5,7 +5,7 @@
 
 ## 概要
 
-同社のチューニングコンピューター「[Mine's VX-ROM](https://ja.wikipedia.org/wiki/Mine's_VX-ROM "wikilink")」は同社代表取締役の[新倉通蔵](https://ja.wikipedia.org/wiki/新倉通蔵 "wikilink")が直接開発しており、その開発体制も[筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")をメインにプロ[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")がテスターとして開発に参加している。また、英ダイナミック社製ダンパーをベースとした車高調キットや吸排気・剛性系パーツなどでも知られる。
+同社のチューニングコンピューター「[Mine's VX-ROM](https://ja.wikipedia.org/wiki/Mine's_VX-ROM "wikilink")」は同社代表取締役の[新倉通蔵](https://ja.wikipedia.org/wiki/新倉通蔵 "wikilink")が直接開発しており、その開発体制も[筑波サーキット](../Page/筑波サーキット.md "wikilink")をメインにプロ[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")がテスターとして開発に参加している。また、英ダイナミック社製ダンパーをベースとした車高調キットや吸排気・剛性系パーツなどでも知られる。
 
 BNR32型から開発を続けていた為、GT-Rシリーズのノウハウが豊富で、デモカーは常にストリートクラス上位に位置している。 そのためこれらの実績により、[日産から発売](../Page/日産自動車.md "wikilink")1ヶ月前にBNR34GT-Rが納車されていた(BNR34発表日には既にチューニングを施されたR34がオートサロンで展示されていた。当時出展していたのは、NISMO、BLITZ、JUNオート、そしてMine\`sである。また、Mine\`sは唯一N1仕様だった)。
 

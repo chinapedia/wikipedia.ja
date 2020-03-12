@@ -12,7 +12,7 @@
   -
 
       -
-        [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")のボーカル増子直純は実兄。[ボアダムス](https://ja.wikipedia.org/wiki/ボアダムス "wikilink")などでも活動
+        [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")のボーカル増子直純は実兄。[ボアダムス](../Page/ボアダムス.md "wikilink")などでも活動
 
 左利き、札幌北郷出身
 
@@ -70,7 +70,7 @@
   -
 
       -
-        現在は[ロマンポルシェ。](https://ja.wikipedia.org/wiki/ロマンポルシェ。 "wikilink")として活動中
+        現在は[ロマンポルシェ。](../Page/ロマンポルシェ。.md "wikilink")として活動中
 
 ## 略歴
 
@@ -79,14 +79,14 @@
   - [1999年](../Page/1999年.md "wikilink")、PARCO/Colombiaと契約しメジャーデビュー。
   - [2002年](../Page/2002年.md "wikilink")、[avex traxと契約](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - [2004年](../Page/2004年.md "wikilink")6月、ドラムスの吉村由加が脱退し、西浦真奈（チャイナ）が正式加入。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 米Estrus/Touch And Goと契約し全米デビュー。
       - 同年11月の米国ツアー中、相手側の一方的な追突事故により西浦真奈が急逝、他メンバーも病院で治療を受ける。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月、ex.[KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")、[巨人ゆえにデカイ](https://ja.wikipedia.org/wiki/巨人ゆえにデカイ "wikilink")の和田晋侍が正式に新ドラマーとして加入。
+  - [2006年](../Page/2006年.md "wikilink")2月、ex.[KING BROTHERS](../Page/KING_BROTHERS.md "wikilink")、[巨人ゆえにデカイ](https://ja.wikipedia.org/wiki/巨人ゆえにデカイ "wikilink")の和田晋侍が正式に新ドラマーとして加入。
 
 ## DMBQ以外の活動
 
-増子真二は他にソロ・アーティストとして、また、音楽／サブカルチャー系のライターとしても活動。メンバーによる別ユニットとして**トン平&ビショップ**（増子+松居）、**[Hydro-Guru](https://ja.wikipedia.org/wiki/Hydro-Guru "wikilink")**（増子+吉村）としての活動も行っている。
+増子真二は他にソロ・アーティストとして、また、音楽／サブカルチャー系のライターとしても活動。メンバーによる別ユニットとして**トン平&ビショップ**（増子+松居）、**[Hydro-Guru](../Page/Hydro-Guru.md "wikilink")**（増子+吉村）としての活動も行っている。
 
 トン平&ビショップは「麻薬時代」、「JEANS REVOLUTION」、「あの世でダンス」など、DMBQの活動とは一線を画した内容の作品を発表している。最初に活動の話をもちかけたのは松居からで、自ら突然「ビショップ」を名乗り、「トン平」役を増子に無理矢理押し付け結成された。活動は不定期。
 
@@ -253,7 +253,7 @@
 <td><p><strong>DMBQ Resonated</strong></p></td>
 <td><p>QTCY-74003</p></td>
 <td><ol>
-<li>"Clockwise" (Shut Up'n' Hear My Guitar Mix) Remix by <a href="https://ja.wikipedia.org/wiki/Buffalo_Daughter" title="wikilink">Buffalo Daughter</a></li>
+<li>"Clockwise" (Shut Up'n' Hear My Guitar Mix) Remix by <a href="../Page/Buffalo_Daughter.md" title="wikilink">Buffalo Daughter</a></li>
 <li>"Speed-Beat" (Re-mix) Remix by L?K?O</li>
 <li>"Girl Cream" (完全頭NOレボ龍ション Mix) Remix by Tompei &amp; Bishop</li>
 <li>"Clockwise" (Re-mix) Remix by EY∃ (<a href="https://ja.wikipedia.org/wiki/BOREDOMS" title="wikilink">BOREDOMS</a>)</li>
@@ -453,16 +453,16 @@ DMBQ vs HYSTERIC GLAMOUR名義</p></td>
 <td><ol>
 <li>wax&amp;wane / <a href="https://ja.wikipedia.org/wiki/fOUL" title="wikilink">fOUL</a></li>
 <li>コウモリ / <a href="https://ja.wikipedia.org/wiki/MOGA_THE_/5" title="wikilink">MOGA THE \5</a></li>
-<li>横隔膜節 / <a href="https://ja.wikipedia.org/wiki/あぶらだこ" title="wikilink">あぶらだこ</a></li>
+<li>横隔膜節 / <a href="../Page/あぶらだこ.md" title="wikilink">あぶらだこ</a></li>
 <li>as karma goes / <a href="../Page/NAHT.md" title="wikilink">NAHT</a></li>
-<li>海の原 / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>海の原 / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>曇天と面影 / <a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
 <li>サムライブルー / <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
 <li><strong>極東最前線のテーマ / DMBQ</strong></li>
 <li>TOKYO FREEZE / <a href="https://ja.wikipedia.org/wiki/NUMBER_GIRL" title="wikilink">NUMBER GIRL</a></li>
 <li>引越し / <a href="https://ja.wikipedia.org/wiki/ピジョンズ" title="wikilink">ピジョンズ</a></li>
 <li>Floating cub / <a href="https://ja.wikipedia.org/wiki/squashed_cubs" title="wikilink">squashed cubs</a></li>
-<li>さよなら文鳥 / <a href="https://ja.wikipedia.org/wiki/Bloodthirsty_butchers" title="wikilink">Bloodthirsty butchers</a></li>
+<li>さよなら文鳥 / <a href="../Page/Bloodthirsty_butchers.md" title="wikilink">Bloodthirsty butchers</a></li>
 </ol></td>
 <td><p>坂本商店</p></td>
 </tr>
@@ -477,17 +477,17 @@ DMBQ vs HYSTERIC GLAMOUR名義</p></td>
 <li>Volunteered Slavery / SSTKCQ(STAND SATAN TATSUO KUROKAWA COSMIC QUINTET)</li>
 <li>BLUES / Howling Guitar</li>
 <li><strong>Baby, I Love You So / DMBQ</strong></li>
-<li>Mellow Down Easy / <a href="https://ja.wikipedia.org/wiki/デキシード・ザ・エモンズ" title="wikilink">デキシード・ザ・エモンズ</a></li>
+<li>Mellow Down Easy / <a href="../Page/デキシード・ザ・エモンズ.md" title="wikilink">デキシード・ザ・エモンズ</a></li>
 <li>白のブルース / 首狩族</li>
-<li>I Just Want To Make Love To You / <a href="https://ja.wikipedia.org/wiki/ギターウルフ" title="wikilink">ギターウルフ</a></li>
+<li>I Just Want To Make Love To You / <a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a></li>
 <li>I ain't got long / Tsuki No Wa</li>
 <li>Bend～Serene / OTOMO YOSHIHIDE'S NEW JAZZ QUINTET</li>
-<li>The Great Grand Father / <a href="https://ja.wikipedia.org/wiki/SEAGULL_SCREAMING_KISS_HER_KISS_HER" title="wikilink">SEAGULL SCREAMING KISS HER KISS HER</a></li>
+<li>The Great Grand Father / <a href="../Page/SEAGULL_SCREAMING_KISS_HER_KISS_HER.md" title="wikilink">SEAGULL SCREAMING KISS HER KISS HER</a></li>
 <li>I Just Want To Make Love To You / <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a> Blues Project</li>
 <li>KINDHEARTED WOMAN BLUES / Bossston Cruising Mania</li>
 <li>I'm A King Beeeee....××× / Ahh! Folly Jet</li>
 <li>Homage to Charlie Patton / ComboPiano</li>
-<li>SOME HAPPY DAYS / <a href="https://ja.wikipedia.org/wiki/栗コーダーカルテット" title="wikilink">栗コーダーカルテット</a></li>
+<li>SOME HAPPY DAYS / <a href="../Page/栗コーダーカルテット.md" title="wikilink">栗コーダーカルテット</a></li>
 </ol></td>
 <td><p>P-VINE</p></td>
 </tr>
@@ -498,16 +498,16 @@ DMBQ vs HYSTERIC GLAMOUR名義</p></td>
 <td><p>BFCA-83510<br />
 TYCN-80015</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/so_many_people" title="wikilink">so many people</a> / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
-<li>さらば青春 / <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
-<li><a href="../Page/孤独な太陽_(エレファントカシマシの曲).md" title="wikilink">孤独な太陽</a> / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/so_many_people" title="wikilink">so many people</a> / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
+<li>さらば青春 / <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
+<li><a href="../Page/孤独な太陽_(エレファントカシマシの曲).md" title="wikilink">孤独な太陽</a> / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/孤独な旅人" title="wikilink">孤独な旅人</a> / <a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/浮雲男" title="wikilink">浮雲男</a> (Takkyu's Japp Tekno ppopp Mix) / <a href="../Page/石野卓球.md" title="wikilink">石野卓球</a></li>
 <li><strong>星の砂 / DMBQ</strong></li>
 <li>男餓鬼道空っ風 / <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
-<li>遁世 (白昼夢ver.) / <a href="https://ja.wikipedia.org/wiki/Syrup_16g" title="wikilink">Syrup 16g</a></li>
+<li>遁世 (白昼夢ver.) / <a href="../Page/Syrup_16g.md" title="wikilink">Syrup 16g</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/男は行く" title="wikilink">男は行く</a> / <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
-<li>星の降るような夜に / <a href="https://ja.wikipedia.org/wiki/BAZRA" title="wikilink">BAZRA</a></li>
+<li>星の降るような夜に / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
 <li><a href="../Page/悲しみの果て.md" title="wikilink">悲しみの果て</a> / <a href="https://ja.wikipedia.org/wiki/銀杏BOYZ" title="wikilink">銀杏BOYZ</a></li>
 </ol></td>
 <td><p>フェイスレコーズ</p></td>
@@ -520,19 +520,19 @@ TYCN-80015</p></td>
 <li>Death or Glory / AGGRESSICE DOGS feat.<a href="../Page/間寛平.md" title="wikilink">間寛平</a></li>
 <li><strong>THIS IS RADIO CLASH / DMBQ</strong></li>
 <li>STAY FREE / <a href="../Page/DOMINO88.md" title="wikilink">DOMINO88</a></li>
-<li>London Calling / THE <a href="https://ja.wikipedia.org/wiki/GELUGUGU" title="wikilink">GELUGUGU</a></li>
-<li>Should I Stay or Should I Go / <a href="https://ja.wikipedia.org/wiki/ギターウルフ" title="wikilink">ギターウルフ</a></li>
-<li>Presure Drop / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
-<li>CLASH CITY ROCKERS / <a href="https://ja.wikipedia.org/wiki/LOOSELY" title="wikilink">LOOSELY</a></li>
+<li>London Calling / THE <a href="../Page/GELUGUGU.md" title="wikilink">GELUGUGU</a></li>
+<li>Should I Stay or Should I Go / <a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a></li>
+<li>Presure Drop / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
+<li>CLASH CITY ROCKERS / <a href="../Page/LOOSELY.md" title="wikilink">LOOSELY</a></li>
 <li>WHITE RIOT / <a href="https://ja.wikipedia.org/wiki/MOLMOTT" title="wikilink">MOLMOTT</a></li>
-<li>Janie Jones/Death Is Astar(Medley) / <a href="https://ja.wikipedia.org/wiki/ニューロティカ" title="wikilink">ニューロティカ</a></li>
-<li>Police On My Back / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
-<li>I Fought The Law / <a href="https://ja.wikipedia.org/wiki/PENPALS" title="wikilink">PENPALS</a></li>
-<li>RUDIE CAN'T FAIL / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
+<li>Janie Jones/Death Is Astar(Medley) / <a href="../Page/ニューロティカ.md" title="wikilink">ニューロティカ</a></li>
+<li>Police On My Back / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
+<li>I Fought The Law / <a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
+<li>RUDIE CAN'T FAIL / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li>THE GUNS OF BRIXTON / <a href="https://ja.wikipedia.org/wiki/pre-school" title="wikilink">pre-school</a></li>
 <li>THE STAR CLUB-1997 / <a href="../Page/THE_STAR_CLUB.md" title="wikilink">THE STAR CLUB</a></li>
 <li>COMPLETE CONTROL / <a href="https://ja.wikipedia.org/wiki/THE_STRUMMERS" title="wikilink">THE STRUMMERS</a></li>
-<li>Brand New Cadillac / <a href="https://ja.wikipedia.org/wiki/VooDoo_Hawaiians" title="wikilink">VooDoo Hawaiians</a></li>
+<li>Brand New Cadillac / <a href="../Page/VooDoo_Hawaiians.md" title="wikilink">VooDoo Hawaiians</a></li>
 <li>London's Burning / <a href="../Page/YKZ.md" title="wikilink">YKZ</a></li>
 </ol></td>
 <td><p>Sony Records</p></td>
@@ -546,36 +546,36 @@ TYCN-80015</p></td>
 <li>ノット・サティスファイド / <a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a></li>
 <li>C.M.C. / <a href="https://ja.wikipedia.org/wiki/THE_ROOSTERS" title="wikilink">THE ROOSTERS</a></li>
 <li>非常線をぶち破れ / <a href="https://ja.wikipedia.org/wiki/TH_eROCKERS" title="wikilink">TH eROCKERS</a></li>
-<li>ロマンチスト / <a href="https://ja.wikipedia.org/wiki/ザ・スターリン" title="wikilink">ザ・スターリン</a></li>
+<li>ロマンチスト / <a href="../Page/ザ・スターリン.md" title="wikilink">ザ・スターリン</a></li>
 <li>コミック雑誌なんか要らない / <a href="../Page/頭脳警察.md" title="wikilink">頭脳警察</a></li>
-<li>魂こがして / <a href="https://ja.wikipedia.org/wiki/ARB_(バンド)" title="wikilink">ARB</a></li>
-<li>TWO PUNKS / <a href="https://ja.wikipedia.org/wiki/THE_MODS" title="wikilink">THE MODS</a></li>
+<li>魂こがして / <a href="../Page/ARB_(バンド).md" title="wikilink">ARB</a></li>
+<li>TWO PUNKS / <a href="../Page/THE_MODS.md" title="wikilink">THE MODS</a></li>
 <li>BLACKGUARD ANGEL / <a href="../Page/THE_STAR_CLUB.md" title="wikilink">THE STAR CLUB</a></li>
-<li>GERONIMO / <a href="https://ja.wikipedia.org/wiki/GASTUNK" title="wikilink">GASTUNK</a></li>
+<li>GERONIMO / <a href="../Page/GASTUNK.md" title="wikilink">GASTUNK</a></li>
 <li>SO PASSION / <a href="https://ja.wikipedia.org/wiki/THE_RYDERS" title="wikilink">THE RYDERS</a></li>
 <li>Get The Glory / <a href="../Page/LAUGHIN&#39;_NOSE.md" title="wikilink">LAUGHIN' NOSE</a></li>
 <li>ストレンジ カメレオン""STRANGE VERSION"" / <a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a></li>
 <li>WALL / <a href="../Page/BALZAC.md" title="wikilink">BALZAC</a></li>
 <li>スモーキンビリー / <a href="../Page/THEE_MICHELLE_GUN_ELEPHANT.md" title="wikilink">THEE MICHELLE GUN ELEPHANT</a></li>
-<li>肉のうた / <a href="https://ja.wikipedia.org/wiki/The_ピーズ" title="wikilink">The ピーズ</a></li>
+<li>肉のうた / <a href="../Page/The_ピーズ.md" title="wikilink">The ピーズ</a></li>
 </ol>
 <p>DISC2</p>
 <ol>
-<li>ANSWER FOR... / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
-<li>神KAMI-UTA歌 / <a href="https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS" title="wikilink">THE MAD CAPSULE MARKETS</a></li>
+<li>ANSWER FOR... / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
+<li>神KAMI-UTA歌 / <a href="../Page/THE_MAD_CAPSULE_MARKETS.md" title="wikilink">THE MAD CAPSULE MARKETS</a></li>
 <li>FILTER CONVERSATION / <a href="https://ja.wikipedia.org/wiki/WRENCH" title="wikilink">WRENCH</a></li>
 <li>CRUNCH / <a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a></li>
 <li>I can't explain / <a href="../Page/BEYONDS.md" title="wikilink">BEYONDS</a></li>
 <li>サンザン / <a href="https://ja.wikipedia.org/wiki/bloodthirsty_butchers" title="wikilink">bloodthirsty butchers</a></li>
-<li>サニー / <a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li>サニー / <a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li>OMOIDE IN MY HEAD / <a href="../Page/ナンバーガール.md" title="wikilink">ナンバーガール</a></li>
 <li>夏の日の午後 / <a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
-<li>FIRE STARTER / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>FIRE STARTER / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li><strong>Boom-run Rock / DMBQ</strong></li>
-<li>Mo' Funky / <a href="https://ja.wikipedia.org/wiki/ズボンズ" title="wikilink">ズボンズ</a></li>
-<li>ダーティーな世界(Put your head) / <a href="https://ja.wikipedia.org/wiki/HiGE" title="wikilink">髭(HiGE)</a></li>
-<li>きらり / <a href="https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND" title="wikilink">GOING UNDER GROUND</a></li>
-<li>そのぬくもりに用がある / <a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li>Mo' Funky / <a href="../Page/ズボンズ.md" title="wikilink">ズボンズ</a></li>
+<li>ダーティーな世界(Put your head) / <a href="../Page/HiGE.md" title="wikilink">髭(HiGE)</a></li>
+<li>きらり / <a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
+<li>そのぬくもりに用がある / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 </ol></td>
 <td><p>SPEEDSTAR</p></td>
 </tr>
@@ -586,15 +586,15 @@ TYCN-80015</p></td>
 <td><ol>
 <li>エルマー・エレベーター(Basement Tape) / <a href="../Page/甲本ヒロト.md" title="wikilink">甲本ヒロト</a></li>
 <li>ロケットにのって / <a href="https://ja.wikipedia.org/wiki/bloodthirsty_butchers" title="wikilink">bloodthirsty butchers</a></li>
-<li>E.S.P. / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
-<li>シークレット・ダンス / <a href="https://ja.wikipedia.org/wiki/真島昌利" title="wikilink">真島昌利</a></li>
+<li>E.S.P. / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
+<li>シークレット・ダンス / <a href="../Page/真島昌利.md" title="wikilink">真島昌利</a></li>
 <li>コンクリート・アニマルズ / <a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
-<li>Burning Farm <a href="https://ja.wikipedia.org/wiki/ズボンズ" title="wikilink">ズボンズ</a></li>
-<li>Tortoise Brand Pot Cleaner's Theme / <a href="https://ja.wikipedia.org/wiki/二階堂和美" title="wikilink">二階堂和美</a></li>
-<li>ミラクルズ / <a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li>Burning Farm <a href="../Page/ズボンズ.md" title="wikilink">ズボンズ</a></li>
+<li>Tortoise Brand Pot Cleaner's Theme / <a href="../Page/二階堂和美.md" title="wikilink">二階堂和美</a></li>
+<li>ミラクルズ / <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li><strong>Buddha's Fac / DMBQ</strong></li>
 <li>エルマー・エレベーター / 甲本ヒロト</li>
-<li>Insect Collector / <a href="https://ja.wikipedia.org/wiki/山本精一" title="wikilink">山本精一</a></li>
+<li>Insect Collector / <a href="../Page/山本精一.md" title="wikilink">山本精一</a></li>
 </ol></td>
 <td><p>P-VINE</p></td>
 </tr>
@@ -604,12 +604,12 @@ TYCN-80015</p></td>
 <td><p>AVCF-22939</p></td>
 <td><ol>
 <li>ブライアン・ジョーンズ / <a href="https://ja.wikipedia.org/wiki/ムッシュかまやつ" title="wikilink">ムッシュかまやつ</a></li>
-<li>Golden Stone / <a href="https://ja.wikipedia.org/wiki/ザ・コレクターズ" title="wikilink">ザ・コレクターズ</a></li>
+<li>Golden Stone / <a href="../Page/ザ・コレクターズ.md" title="wikilink">ザ・コレクターズ</a></li>
 <li>Like A Broken Stone(Yes,I'm Free) / <a href="../Page/NORTHERN_BRIGHT.md" title="wikilink">NORTHERN BRIGHT</a></li>
 <li>My dear / <a href="https://ja.wikipedia.org/wiki/土屋アンナ" title="wikilink">土屋アンナ</a></li>
 <li><strong>うまいこといえない / DMBQ</strong></li>
-<li>メルヘンダイバー / <a href="https://ja.wikipedia.org/wiki/BOO_BEE_BENZ" title="wikilink">BOO BEE BENZ</a></li>
-<li>Tonight / <a href="https://ja.wikipedia.org/wiki/UNDER_THE_COUNTER" title="wikilink">UNDER THE COUNTER</a></li>
+<li>メルヘンダイバー / <a href="../Page/BOO_BEE_BENZ.md" title="wikilink">BOO BEE BENZ</a></li>
+<li>Tonight / <a href="../Page/UNDER_THE_COUNTER.md" title="wikilink">UNDER THE COUNTER</a></li>
 <li>狼の好物は迷える子羊 / <a href="https://ja.wikipedia.org/wiki/チョウ・ヒョンレ" title="wikilink">チョウ・ヒョンレ</a></li>
 </ol></td>
 <td><p>avex rush</p></td>
@@ -647,15 +647,15 @@ TYCN-80015</p></td>
   - 2003年06月14日 - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink") "BATTLE IN KOBE"
   - 2003年08月03日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2003
   - 2003年08月15日 - RISING SUN ROCK FESTIVAL 2003 in EZO
-  - 2003年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 03/04
+  - 2003年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 03/04
   - 2006年01月31日 - UFO CLUB 10th Anniversary PARTY
   - 2006年07月29日 - [AOMORI ROCK FESTIVAL](../Page/AOMORI_ROCK_FESTIVAL.md "wikilink") '06 〜夏の魔物〜
   - 2006年08月18日 - RISING SUN ROCK FESTIVAL 2006 in EZO
-  - 2007年02月02日 - [DIENOJI](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") ROCK FESTIVAL VOLUME 2
+  - 2007年02月02日 - [DIENOJI](../Page/ダイノジ.md "wikilink") ROCK FESTIVAL VOLUME 2
   - 2008年09月21日 - AOMORI ROCK FESTIVAL '08 〜夏の魔物〜
   - 2009年06月07日 - GASOLINE ROCK FESTIVAL 09
   - 2014年10月05日 - OTONOTANI 2014
-  - 2014年12月28日 - [ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")\&DUM-DUM presents 『宇宙戦艦ミソノFEVER』
+  - 2014年12月28日 - [ギターウルフ](../Page/ギターウルフ.md "wikilink")\&DUM-DUM presents 『宇宙戦艦ミソノFEVER』
   - 2016年09月24日 - ロッケンロー★サミット2016～道玄坂邪道六弦頂上決戦～
 
 ## 出典

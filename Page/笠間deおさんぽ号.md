@@ -1,17 +1,17 @@
 > この記事は[de](https://ja.wikipedia.org/wiki/de)から翻訳されています。
 
 
-**笠間deおさんぽ号**（かさま で おさんぽごう）は、かつて[2012年](../Page/2012年.md "wikilink")まで[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が、[上野駅](https://ja.wikipedia.org/wiki/上野駅 "wikilink") - [笠間駅](https://ja.wikipedia.org/wiki/笠間駅 "wikilink")間を[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")・[水戸線](https://ja.wikipedia.org/wiki/水戸線 "wikilink")経由で運行していた[臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")である\[1\]。
+**笠間deおさんぽ号**（かさま で おさんぽごう）は、かつて[2012年](../Page/2012年.md "wikilink")まで[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が、[上野駅](https://ja.wikipedia.org/wiki/上野駅 "wikilink") - [笠間駅](../Page/笠間駅.md "wikilink")間を[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")・[水戸線](https://ja.wikipedia.org/wiki/水戸線 "wikilink")経由で運行していた[臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")である\[1\]。
 
 ## 運行概況
 
-例年、[笠間市](https://ja.wikipedia.org/wiki/笠間市 "wikilink")の観光シーズンである春の[大型連休](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")（陶炎祭開催時期）に運行される。2008年までは11月上旬（匠のまつり・笠間の菊まつり開催時期）にも運行されていた。
+例年、[笠間市](../Page/笠間市.md "wikilink")の観光シーズンである春の[大型連休](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")（陶炎祭開催時期）に運行される。2008年までは11月上旬（匠のまつり・笠間の菊まつり開催時期）にも運行されていた。
 
 運行[ダイヤの兼ね合いで](../Page/ダイヤグラム.md "wikilink")、土浦駅終着の[普通列車の運転区間を延長する形を取っている](https://ja.wikipedia.org/wiki/常磐線#地域輸送 "wikilink")。上野駅から15両編成で運転する場合は水戸寄り先頭5両が当該列車として運転され、上野寄り10両は土浦駅で切り離しされる。
 
 [2013年](../Page/2013年.md "wikilink")は、[友部駅](../Page/友部駅.md "wikilink")から陶炎祭会場への無料バスが、笠間駅から[茨城交通](../Page/茨城交通.md "wikilink")による陶炎祭会場への臨時便が運行されるようになり\[2\]、2012年5月3日の運転を最後に、以降は運転されていない。
 
-[2014年](../Page/2014年.md "wikilink")は、友部 - 笠間間に**快速「笠間ひまつり号」**が陶炎祭開催中に4往復、上野方面からの「[フレッシュひたち](../Page/ひたち_\(列車\).md "wikilink")」に接続するような形で運行された（快速運転で、途中の[宍戸駅](https://ja.wikipedia.org/wiki/宍戸駅 "wikilink")は通過）。
+[2014年](../Page/2014年.md "wikilink")は、友部 - 笠間間に**快速「笠間ひまつり号」**が陶炎祭開催中に4往復、上野方面からの「[フレッシュひたち](../Page/ひたち_\(列車\).md "wikilink")」に接続するような形で運行された（快速運転で、途中の[宍戸駅](../Page/宍戸駅.md "wikilink")は通過）。
 
 **停車駅**
 

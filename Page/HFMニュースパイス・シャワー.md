@@ -3,7 +3,7 @@
 
 **HFMニュースパイス・シャワー**（エイチエフエム - ）は、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[広島FMで放送された](../Page/広島エフエム放送.md "wikilink")、朝のワイド[番組](../Page/ラジオ番組.md "wikilink")。
 
-2003年3月末までは、8:21-10:30までの放送だった。2003年4月からは1時間拡大し、7:30からの放送となり、この時間に放送されている交通情報、「アンデルセンサウンドブレックファースト」、「HEADLINE NEWS & HIROSHIMA」、「トヨタモーニングシャッフル」はこの番組に内包される形となったが、枠拡大からわずか半年後に番組は終了した。後枠は「[GOOD MORNING](https://ja.wikipedia.org/wiki/GOOD_MORNING_\(広島エフエム放送\) "wikilink")」（2005年9月に終了）。
+2003年3月末までは、8:21-10:30までの放送だった。2003年4月からは1時間拡大し、7:30からの放送となり、この時間に放送されている交通情報、「アンデルセンサウンドブレックファースト」、「HEADLINE NEWS & HIROSHIMA」、「トヨタモーニングシャッフル」はこの番組に内包される形となったが、枠拡大からわずか半年後に番組は終了した。後枠は「[GOOD MORNING](../Page/GOOD_MORNING_\(広島エフエム放送\).md "wikilink")」（2005年9月に終了）。
 
 当番組終了と同時に、「HEADLINE NEWS & HIROSHIMA」は「GOOD MORNING NEWS」に、「トヨタモーニングシャッフル」は「TOYOTA GOOD SPORTS」に変わった。
 
@@ -27,17 +27,17 @@
 
   - 7:30 オープニングヘッドライン～トラフィックインフォメーション＜提供：[Audi観音](https://ja.wikipedia.org/wiki/アウディ "wikilink")＞
   - 7:35 アンデルセン・サウンドブレックファースト＜提供：[アンデルセン](../Page/アンデルセン_\(製パン\).md "wikilink")＞
-  - 7:45 HEADLINE NEWS & HIROSHIMA＜提供：[広島トヨタ](https://ja.wikipedia.org/wiki/トヨタ店 "wikilink")＞
+  - 7:45 HEADLINE NEWS & HIROSHIMA＜提供：[広島トヨタ](../Page/トヨタ店.md "wikilink")＞
   - 7:50 トヨタ・モーニングシャッフル＜提供：[トヨタディーラー](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")＞
   - 8:00 SUZUKI今日のキーナンバー＜提供：[SUZUKI](https://ja.wikipedia.org/wiki/SUZUKI "wikilink")＞
   - 8:10 メルセデス・ベンツスーパーコラム＜提供：[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")＞
-  - 8:19 トラフィックインフォメーション＜提供：[ヤナセ](https://ja.wikipedia.org/wiki/ヤナセ "wikilink")中国＞
+  - 8:19 トラフィックインフォメーション＜提供：[ヤナセ](../Page/ヤナセ.md "wikilink")中国＞
   - 8:20 TODAY'S SHOWER＜提供：広島[スバル](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")＞
   - 8:30 ニュース
   - 8:40 トラフィックインフォメーション+ウェザーレポート＜提供：[アレーゼ広島](../Page/アルファロメオ.md "wikilink")･福山･新山口＞
   - 8:45 ひろしまCITY情報＜提供：[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")＞
   - 8:55 献血情報
-  - 9:00 トラフィックインフォメーション+ウェザーレポート＜提供：[にしき堂](https://ja.wikipedia.org/wiki/にしき堂 "wikilink")＞
+  - 9:00 トラフィックインフォメーション+ウェザーレポート＜提供：[にしき堂](../Page/にしき堂.md "wikilink")＞
   - 9:06 ヘッドラインニュース
   - 9:30 トラフィックインフォメーション+ウェザーレポート
   - 9:35 [テレマートラジオショッピング](https://ja.wikipedia.org/wiki/テレマートラジオショッピング "wikilink")

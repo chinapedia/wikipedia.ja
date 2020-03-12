@@ -15,8 +15,8 @@
 #### [テレビ局](../Page/テレビジョン放送局.md "wikilink")
 
   - 「コース」欄の"●"は視聴可能、"○"はオプション契約で視聴可能、"ー"は視聴不可能なチャンネルを表す。
-  - 「コース」欄の"◎"は、地上アナログ放送受信可能なテレビ等でのみ、視聴可能（デジタル[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")（STB）では視聴不可）。
-  - 「画質・HD」欄が"●"、「画質・SD」欄が"○"のチャンネルは、通常はハイビジョン、マルチ編成時は16:9の[画角情報が付与された標準画質](https://ja.wikipedia.org/wiki/画角情報_\(テレビ放送\) "wikilink")。
+  - 「コース」欄の"◎"は、地上アナログ放送受信可能なテレビ等でのみ、視聴可能（デジタル[セットトップボックス](../Page/セットトップボックス.md "wikilink")（STB）では視聴不可）。
+  - 「画質・HD」欄が"●"、「画質・SD」欄が"○"のチャンネルは、通常はハイビジョン、マルチ編成時は16:9の[画角情報が付与された標準画質](../Page/画角情報_\(テレビ放送\).md "wikilink")。
   - 放送を休止しているチャンネル、臨時放送用チャンネルについては、記載していない。
 
 ##### [地上デジタル放送](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")
@@ -36,7 +36,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -154,7 +154,7 @@ ID</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -416,7 +416,7 @@ ID</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
 <td><p>放送種別</p></td>
 <td><p>画質</p></td>
 <td><p>ⓓ<br />
@@ -617,20 +617,20 @@ ID</a></p></td>
   -
     FMラジオの再送信のみ。外部アンテナ端子が付いているFMラジオ・チューナ等に接続することにより、聴取可能。
 
-| 周波数                                                       | 放送局                                                                                                                                                                  |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 81.8[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") | [FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")                                                                                                            |
-| 82.8MHz                                                   | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[長野](https://ja.wikipedia.org/wiki/NHK長野放送局 "wikilink")[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |
+| 周波数                                                       | 放送局                                                                                                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 81.8[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") | [FM長野](../Page/長野エフエム放送.md "wikilink")                                                                                         |
+| 82.8MHz                                                   | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[長野](../Page/NHK長野放送局.md "wikilink")[FM](../Page/NHK-FM放送.md "wikilink") |
 
 ## [インターネット接続サービス](https://ja.wikipedia.org/wiki/インターネットプロバイダ "wikilink")
 
   -
-    [長野県協同電算](https://ja.wikipedia.org/wiki/長野県協同電算 "wikilink")の運営するJANISネットにより、サービスが提供されている。詳細は[当該サイト](http://www.iiyama-catv.ne.jp/custom.html)参照
+    [長野県協同電算](../Page/長野県協同電算.md "wikilink")の運営するJANISネットにより、サービスが提供されている。詳細は[当該サイト](http://www.iiyama-catv.ne.jp/custom.html)参照
 
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [長野県協同電算](https://ja.wikipedia.org/wiki/長野県協同電算 "wikilink")
+  - [長野県協同電算](../Page/長野県協同電算.md "wikilink")
   - [信越トライウォーク](https://ja.wikipedia.org/wiki/信越トライウォーク "wikilink")（[信越地方](../Page/信越地方.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")8局が共同制作している[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")）
 
 ## 外部リンク

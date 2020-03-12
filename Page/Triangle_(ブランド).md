@@ -32,9 +32,9 @@
   - 2003年[12月5日](../Page/12月5日.md "wikilink") - [保母さんちゅ\!](https://ja.wikipedia.org/wiki/保母さんちゅ! "wikilink")
   - [2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [魔法戦士スイートナイツ 〜メッツァー叛乱〜](../Page/魔法戦士スイートナイツ.md "wikilink")2
   - 2004年[10月15日](../Page/10月15日.md "wikilink") - [いもうと観察日記2](https://ja.wikipedia.org/wiki/いもうと観察日記2 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [光臨天使エンシェル・レナ](https://ja.wikipedia.org/wiki/光臨天使エンシェル・レナ "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [光臨天使エンシェル・レナ](https://ja.wikipedia.org/wiki/光臨天使エンシェル・レナ "wikilink")
   - 2005年[5月27日](../Page/5月27日.md "wikilink") - [魔法戦士スイートナイツ コンプリートDISC](../Page/魔法戦士スイートナイツ.md "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [AXIA](https://ja.wikipedia.org/wiki/AXIA_\(ゲーム\) "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [AXIA](https://ja.wikipedia.org/wiki/AXIA_\(ゲーム\) "wikilink")
   - 2006年[11月24日](../Page/11月24日.md "wikilink") - [やっぱり妹がすきっ\!](https://ja.wikipedia.org/wiki/やっぱり妹がすきっ! "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [魔法戦士シンフォニックナイツ](../Page/魔法戦士シンフォニックナイツ.md "wikilink")
   - 2007年[9月28日](../Page/9月28日.md "wikilink") - [魔法戦士エリクシルナイツ](../Page/魔法戦士エリクシルナイツ.md "wikilink")

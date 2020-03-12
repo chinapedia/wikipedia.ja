@@ -5,7 +5,7 @@
 
 USENIXは本来技術団体として始まったが、商業的関心が高まるとともにいくつかのグループが並行して始まった。例えばSTUG (Software Tools Users Group) は[Unix系](../Page/Unix系.md "wikilink")ツールと非Unix系[OSとの](../Page/オペレーティングシステム.md "wikilink")[インタフェースについての技術グループ](../Page/インタフェース_\(情報技術\).md "wikilink")、USENIX/usr/groupは商業志向のユーザーグループである。
 
-USENIXには[システムアドミニストレータ](https://ja.wikipedia.org/wiki/システムアドミニストレータ "wikilink")のための技術グループ **SAGE** がある。
+USENIXには[システムアドミニストレータ](../Page/システムアドミニストレータ.md "wikilink")のための技術グループ **SAGE** がある。
 
 毎年、いくつかの会議やワークショップを開催している。例えば、[USENIX Symposium on Operating Systems Design and Implementation](https://ja.wikipedia.org/wiki/:en:USENIX_Symposium_on_Operating_Systems_Design_and_Implementation "wikilink") (OSDI)、USENIX Symposium on Networked Systems Design and Implementation (NSDI)、[USENIX Annual Technical Conference](https://ja.wikipedia.org/wiki/:en:USENIX_Annual_Technical_Conference "wikilink")、USENIX Conference on File and Storage Technologies (FAST)、[Large Installation System Administration Conference](https://ja.wikipedia.org/wiki/:en:Large_Installation_System_Administration_Conference "wikilink") （LISA。SAGEとの共催、システム管理に関する会議）などがある。
 
@@ -63,11 +63,11 @@ USENIXには[システムアドミニストレータ](https://ja.wikipedia.org/w
       - [マット・ブレイズ](https://ja.wikipedia.org/wiki/マット・ブレイズ "wikilink") （[暗号](../Page/暗号.md "wikilink")や[情報セキュリティ](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")の研究者）
       - [ジョン・ホール](https://ja.wikipedia.org/wiki/ジョン・ホール_\(プログラマ\) "wikilink")
       - Geoff Halprin
-      - [マーシャル・カーク・マキュージック](https://ja.wikipedia.org/wiki/マーシャル・カーク・マキュージック "wikilink")
+      - [マーシャル・カーク・マキュージック](../Page/マーシャル・カーク・マキュージック.md "wikilink")
 
 ## 2002年 - 2004年の役員
 
-  - 会長: [マーシャル・カーク・マキュージック](https://ja.wikipedia.org/wiki/マーシャル・カーク・マキュージック "wikilink") （[Unix File Systemなどの開発者](https://ja.wikipedia.org/wiki/Unix_File_System "wikilink")）
+  - 会長: [マーシャル・カーク・マキュージック](../Page/マーシャル・カーク・マキュージック.md "wikilink") （[Unix File Systemなどの開発者](../Page/Unix_File_System.md "wikilink")）
   - 副会長: Michael B. Jones
   - 書記: Peter Honeyman
   - 会計: Lois Bennett
@@ -110,7 +110,7 @@ USENIXには[システムアドミニストレータ](https://ja.wikipedia.org/w
 
 ## 関連項目
 
-  - [マーシャル・カーク・マキュージック](https://ja.wikipedia.org/wiki/マーシャル・カーク・マキュージック "wikilink")
+  - [マーシャル・カーク・マキュージック](../Page/マーシャル・カーク・マキュージック.md "wikilink")
   - [UNIX](../Page/UNIX.md "wikilink")
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[AQUARIUS \(\)](https://ja.wikipedia.org/wiki/AQUARIUS_\(\))から翻訳されています。
 
 
-**AQUARIUS**（アクエリアス）は、[NITRO MICROPHONE UNDERGROUNDの](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")[DELI](../Page/DELI.md "wikilink")と[YAKKO](https://ja.wikipedia.org/wiki/YAKKO "wikilink")による[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2003年](../Page/2003年.md "wikilink")と[2007年](../Page/2007年.md "wikilink")にAQUARIUS名義で作品が発表された。メンバーは2人とも[水瓶座である](../Page/宝瓶宮.md "wikilink")。
+**AQUARIUS**（アクエリアス）は、[NITRO MICROPHONE UNDERGROUNDの](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")[DELI](../Page/DELI.md "wikilink")と[YAKKO](https://ja.wikipedia.org/wiki/YAKKO "wikilink")による[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2003年](../Page/2003年.md "wikilink")と[2007年](../Page/2007年.md "wikilink")にAQUARIUS名義で作品が発表された。メンバーは2人とも[水瓶座である](../Page/宝瓶宮.md "wikilink")。
 
 ## ディスコグラフィ
 
@@ -68,7 +68,7 @@
 
 ### その他
 
-  - [キングギドラ](https://ja.wikipedia.org/wiki/KGDR "wikilink")「友情(AQUARIUS Remix feat.DELI)」
+  - [キングギドラ](../Page/KGDR.md "wikilink")「友情(AQUARIUS Remix feat.DELI)」
 
 ## 外部リンク
 

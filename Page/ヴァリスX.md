@@ -1,7 +1,7 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-『**ヴァリスX**』（ヴァリスクロス）は、日本の[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月より[日本テレネットが運営していたダウンロード販売サイト](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")[BB5.jp](https://ja.wikipedia.org/wiki/BB5.jp "wikilink")などで5部作として販売され、後に[CD-ROM](../Page/CD-ROM.md "wikilink")媒体のパッケージ版も販売された。
+『**ヴァリスX**』（ヴァリスクロス）は、日本の[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")2月より[日本テレネットが運営していたダウンロード販売サイト](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")[BB5.jp](https://ja.wikipedia.org/wiki/BB5.jp "wikilink")などで5部作として販売され、後に[CD-ROM](../Page/CD-ROM.md "wikilink")媒体のパッケージ版も販売された。
 
 制作は[イーアンツ](../Page/イーアンツ.md "wikilink")。原画を[川合正起](https://ja.wikipedia.org/wiki/川合正起 "wikilink")が、シナリオを[きもとべなたかが担当した](https://ja.wikipedia.org/wiki/刀部智己 "wikilink")。
 
@@ -50,7 +50,7 @@
     3サイズ B83 W59 H85
     元は暗黒界の人間だが、優子に手を貸す少女。明るく好奇心旺盛で人懐っこい性格のため、子供っぽく見られることも少なくない。ログレスの部下グラメスに対して憧れを持っている。クラスは戦士。
   - ヴァリア
-    声：[韮井叶](https://ja.wikipedia.org/wiki/韮井叶 "wikilink")
+    声：[韮井叶](../Page/韮井叶.md "wikilink")
     夢幻界（ヴァニティ）の女王。ログレスの侵攻を阻止すべく、優子を夢幻界に召喚する。
   - 魔王ログレス
     声：[谷俊介](https://ja.wikipedia.org/wiki/谷俊介 "wikilink")

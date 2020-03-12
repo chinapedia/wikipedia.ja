@@ -1,7 +1,7 @@
 > この記事は[ BUSHIN](https://ja.wikipedia.org/wiki/_BUSHIN)から翻訳されています。
 
 
-『'''武心 BUSHIN '''』（ぶしん）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")14号から[2007年](../Page/2007年.md "wikilink")12号まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』で連載されていた[柔道](../Page/柔道.md "wikilink")を題材とした漫画。作者は[万乗大智](../Page/万乗大智.md "wikilink")。全5巻。
+『'''武心 BUSHIN '''』（ぶしん）は、[2006年](../Page/2006年.md "wikilink")14号から[2007年](../Page/2007年.md "wikilink")12号まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』で連載されていた[柔道](../Page/柔道.md "wikilink")を題材とした漫画。作者は[万乗大智](../Page/万乗大智.md "wikilink")。全5巻。
 
 ## ストーリー
 
@@ -34,7 +34,7 @@
 ### 武心館
 
   - 五条橋四郎（ごじょうばし しろう）
-    武心館[大将](https://ja.wikipedia.org/wiki/大将 "wikilink")兼主将。相当な実力の持ち主で[警護](https://ja.wikipedia.org/wiki/警護 "wikilink")柔術も使える。流星との死闘以外一度も畳に手がついたことがないという。入門の真の目的は嵐から警護柔術を習い父に復讐するため。冷静沈着で熱くなることはほとんどない。兄に殺し屋を仕向けられたことがある。現在は日本におらず、海外で忙しい生活を送っている。
+    武心館[大将](../Page/大将.md "wikilink")兼主将。相当な実力の持ち主で[警護](https://ja.wikipedia.org/wiki/警護 "wikilink")柔術も使える。流星との死闘以外一度も畳に手がついたことがないという。入門の真の目的は嵐から警護柔術を習い父に復讐するため。冷静沈着で熱くなることはほとんどない。兄に殺し屋を仕向けられたことがある。現在は日本におらず、海外で忙しい生活を送っている。
   - 葵一希（あおい かずき）
     武心館副将でナンバー2的存在。五条橋をよく[補佐](https://ja.wikipedia.org/wiki/補佐 "wikilink")する理解者。警護柔術も使える。五条橋と同じく冷静沈着で頭脳明晰。寝技が嫌い。
   - 大上勉（おおがみ つとむ）
@@ -73,7 +73,7 @@
 
 ## 単行本
 
-1.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")発売 ISBN 4091205593
+1.  [2006年](../Page/2006年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")発売 ISBN 4091205593
 2.  2006年[10月18日](../Page/10月18日.md "wikilink")発売 ISBN 4091206492
 3.  2006年[12月16日](../Page/12月16日.md "wikilink")発売 ISBN 4091207073
 4.  [2007年](../Page/2007年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売 ISBN 4091210082

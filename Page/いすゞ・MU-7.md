@@ -7,9 +7,9 @@
 
 D-MAXをベースとして2002年に販売を開始した。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月9日に、大幅改良されたD-MAXとともに発表された。
+[2006年](../Page/2006年.md "wikilink")8月9日に、大幅改良されたD-MAXとともに発表された。
 
-2013年11月に後継車種となる[MU-Xが発表されたが](https://ja.wikipedia.org/wiki/いすゞ・MU-X "wikilink")、2013年にLCV事業会社「いすゞモーターズインディア」が設立された[インド](../Page/インド.md "wikilink")ではMU-7の[ノックダウン生産](https://ja.wikipedia.org/wiki/ノックダウン生産 "wikilink")と販売が行われている\[1\]。
+2013年11月に後継車種となる[MU-Xが発表されたが](https://ja.wikipedia.org/wiki/いすゞ・MU-X "wikilink")、2013年にLCV事業会社「いすゞモーターズインディア」が設立された[インド](../Page/インド.md "wikilink")ではMU-7の[ノックダウン生産](../Page/ノックダウン生産.md "wikilink")と販売が行われている\[1\]。
 
 ## 車名の由来
 
@@ -25,7 +25,7 @@ D-MAXをベースとして2002年に販売を開始した。
 ## 関連項目
 
   - [いすゞ](https://ja.wikipedia.org/wiki/いすゞ "wikilink")
-  - [いすゞ・ウィザード](https://ja.wikipedia.org/wiki/いすゞ・ウィザード "wikilink")
+  - [いすゞ・ウィザード](../Page/いすゞ・ウィザード.md "wikilink")
   - [いすゞ・D-MAX](../Page/いすゞ・D-MAX.md "wikilink")
   - [いすゞ・MU-X](https://ja.wikipedia.org/wiki/いすゞ・MU-X "wikilink")
 

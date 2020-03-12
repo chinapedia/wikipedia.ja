@@ -8,11 +8,11 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/バーデン＝ヴュルテンベルク州" title="wikilink">バーデン＝ヴュルテンベルク州</a></p></td>
+<td><p><a href="../Page/バーデン＝ヴュルテンベルク州.md" title="wikilink">バーデン＝ヴュルテンベルク州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バイエルン州" title="wikilink">バイエルン州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルリン" title="wikilink">ベルリン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブランデンブルク州" title="wikilink">ブランデンブルク州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレーメン" title="wikilink">ブレーメン</a></p></td>
+<td><p><a href="../Page/ブランデンブルク州.md" title="wikilink">ブランデンブルク州</a></p></td>
+<td><p><a href="../Page/ブレーメン.md" title="wikilink">ブレーメン</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -23,9 +23,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ハンブルク.md" title="wikilink">ハンブルク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘッセン州" title="wikilink">ヘッセン州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニーダーザクセン州" title="wikilink">ニーダーザクセン州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メクレンブルク＝フォアポンメルン州" title="wikilink">メクレンブルク＝フォアポンメルン州</a></p></td>
+<td><p><a href="../Page/ヘッセン州.md" title="wikilink">ヘッセン州</a></p></td>
+<td><p><a href="../Page/ニーダーザクセン州.md" title="wikilink">ニーダーザクセン州</a></p></td>
+<td><p><a href="../Page/メクレンブルク＝フォアポンメルン州.md" title="wikilink">メクレンブルク＝フォアポンメルン州</a></p></td>
 <td><p><a href="../Page/ノルトライン＝ヴェストファーレン州.md" title="wikilink">ノルトライン＝ヴェストファーレン州</a></p></td>
 </tr>
 <tr class="even">
@@ -36,11 +36,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ラインラント＝プファルツ州" title="wikilink">ラインラント＝プファルツ州</a></p></td>
+<td><p><a href="../Page/ラインラント＝プファルツ州.md" title="wikilink">ラインラント＝プファルツ州</a></p></td>
 <td><p><a href="../Page/ザールラント州.md" title="wikilink">ザールラント州</a></p></td>
 <td><p><a href="../Page/ザクセン州.md" title="wikilink">ザクセン州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザクセン＝アンハルト州" title="wikilink">ザクセン＝アンハルト州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シュレースヴィヒ＝ホルシュタイン州" title="wikilink">シュレースヴィヒ＝ホルシュタイン州</a></p></td>
+<td><p><a href="../Page/ザクセン＝アンハルト州.md" title="wikilink">ザクセン＝アンハルト州</a></p></td>
+<td><p><a href="../Page/シュレースヴィヒ＝ホルシュタイン州.md" title="wikilink">シュレースヴィヒ＝ホルシュタイン州</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -74,7 +74,7 @@
   - [ミュンヘン](../Page/ミュンヘン.md "wikilink")
   - [ハンブルク](../Page/ハンブルク.md "wikilink")
   - [フランクフルト・アム・マイン](../Page/フランクフルト・アム・マイン.md "wikilink")
-  - [ブレーメン](https://ja.wikipedia.org/wiki/ブレーメン "wikilink")
+  - [ブレーメン](../Page/ブレーメン.md "wikilink")
   - [デュッセルドルフ](https://ja.wikipedia.org/wiki/デュッセルドルフ "wikilink")
   - [ケルン](../Page/ケルン.md "wikilink")
   - [エッセン](https://ja.wikipedia.org/wiki/エッセン "wikilink")

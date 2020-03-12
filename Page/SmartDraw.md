@@ -1,7 +1,7 @@
 > この記事は[SmartDraw](https://ja.wikipedia.org/wiki/SmartDraw)から翻訳されています。
 
 
-**SmartDraw**はSmartDraw.comによるビジネスグラフィックスソフトウェア。 SmartDrawは[フローチャート](../Page/フローチャート.md "wikilink")、、[ガントチャート](https://ja.wikipedia.org/wiki/ガントチャート "wikilink")、[年表](../Page/年表.md "wikilink")、[間取図](https://ja.wikipedia.org/wiki/間取図 "wikilink")、[マインドマップ](../Page/マインドマップ.md "wikilink")、[概念地図](https://ja.wikipedia.org/wiki/概念地図 "wikilink")などといった[ビジネスグラフィックス](https://ja.wikipedia.org/wiki/ビジネスグラフィックス "wikilink")の作成に向いている。
+**SmartDraw**はSmartDraw.comによるビジネスグラフィックスソフトウェア。 SmartDrawは[フローチャート](../Page/フローチャート.md "wikilink")、、[ガントチャート](../Page/ガントチャート.md "wikilink")、[年表](../Page/年表.md "wikilink")、[間取図](https://ja.wikipedia.org/wiki/間取図 "wikilink")、[マインドマップ](../Page/マインドマップ.md "wikilink")、[概念地図](https://ja.wikipedia.org/wiki/概念地図 "wikilink")などといった[ビジネスグラフィックス](https://ja.wikipedia.org/wiki/ビジネスグラフィックス "wikilink")の作成に向いている。
 
 加えて、SmartDrawでは法律と医療の2つの業界専門ソリューションが提供されている。
 

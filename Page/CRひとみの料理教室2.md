@@ -1,12 +1,12 @@
 > この記事は[CR2](https://ja.wikipedia.org/wiki/CR2)から翻訳されています。
 
 
-**CRひとみの料理教室2**（-ひとみのりょうりきょうしつ2-）は、[2001年](../Page/2001年.md "wikilink")7月に[タイヨーエレック](https://ja.wikipedia.org/wiki/タイヨーエレック "wikilink")が開発、発売した料理が趣味の女性「ひとみ」を主人公とした[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。
+**CRひとみの料理教室2**（-ひとみのりょうりきょうしつ2-）は、[2001年](../Page/2001年.md "wikilink")7月に[タイヨーエレック](../Page/タイヨーエレック.md "wikilink")が開発、発売した料理が趣味の女性「ひとみ」を主人公とした[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。
 
 ## 特徴
 
   - いわゆる[萌え](../Page/萌え.md "wikilink")系の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
-  - 1/2[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ。
+  - 1/2[確率変動](../Page/確率変動.md "wikilink")タイプ。
   - キャラクター設定などは、テレビ番組『[料理の鉄人](../Page/料理の鉄人.md "wikilink")』をパロディとしたもの。
   - 大当たりアタッカー内に[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")がデザインしてある。
   - 裏モノの存在やセット打法が多く噂された機種でもある。
@@ -33,10 +33,10 @@
     主人公。20歳。身長167cm、体重48kg。B86 W57 H84。料理が趣味。エプロンの下にはなぜか何も着ていない。
   - 毛 沢山（もう たくさん）
     中華料理人。黄色い服を着ている。
-    氏名は中国人革命家の[毛沢東](../Page/毛沢東.md "wikilink")から採られているが、人物像は中華の鉄人として知られる[陳建一](https://ja.wikipedia.org/wiki/陳建一 "wikilink")がモデル。
+    氏名は中国人革命家の[毛沢東](../Page/毛沢東.md "wikilink")から採られているが、人物像は中華の鉄人として知られる[陳建一](../Page/陳建一.md "wikilink")がモデル。
   - 庄内川 土左衛門（しょうないがわ どざえもん）
     和食料理人。青い服を着ている。
-    人物像は和の初代鉄人として知られる[道場六三郎](https://ja.wikipedia.org/wiki/道場六三郎 "wikilink")がモデル。
+    人物像は和の初代鉄人として知られる[道場六三郎](../Page/道場六三郎.md "wikilink")がモデル。
   - ムッシュ 腐乱スープ（むっしゅ ふらんすーぷ）
     洋食料理人。赤い服を着ている。
     人物像はフレンチの第2代鉄人として知られる[坂井宏行](../Page/坂井宏行.md "wikilink")がモデル。

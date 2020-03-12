@@ -1,7 +1,7 @@
 > この記事は[NOISY](https://ja.wikipedia.org/wiki/NOISY)から翻訳されています。
 
 
-**NOISY**（ノイジー、本名：**大田宏** - おおた ひろし、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[延岡市](https://ja.wikipedia.org/wiki/延岡市 "wikilink")出身。[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**NOISY**（ノイジー、本名：**大田宏** - おおた ひろし、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[延岡市](../Page/延岡市.md "wikilink")出身。[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 略歴
 
@@ -13,7 +13,7 @@
 
 **ベース**\[1\]
 
-  - [ESP](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") ACHO -BAKUSOU TENSHI-
+  - [ESP](../Page/イーエスピー.md "wikilink") ACHO -BAKUSOU TENSHI-
   - ESP ACHO -キャサリン-
   - ESP ACHO -メルティ-
   - ESP NOISY IS MY LOVE -Rabbit Dog-
@@ -27,7 +27,7 @@
 
 ## DUSTAR-3
 
-**DUSTAR-3**(ダスタースリー)は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にNOISYとHIMAWARI(共に元SEX MACHINEGUNS)、YUKI(元[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink"))とで結成。3人がそれぞれボーカルを分担していくスタイルをとっている。
+**DUSTAR-3**(ダスタースリー)は、[2004年](../Page/2004年.md "wikilink")にNOISYとHIMAWARI(共に元SEX MACHINEGUNS)、YUKI(元[Λucifer](../Page/Λucifer.md "wikilink"))とで結成。3人がそれぞれボーカルを分担していくスタイルをとっている。
 
 ### メンバー
 
@@ -86,7 +86,7 @@
 ## 関連項目
 
   - [SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")
-  - [Anchang](https://ja.wikipedia.org/wiki/Anchang "wikilink")
+  - [Anchang](../Page/Anchang.md "wikilink")
   - [CIRCUIT.V.PANTHER](https://ja.wikipedia.org/wiki/CIRCUIT.V.PANTHER "wikilink")
   - [YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")
   -

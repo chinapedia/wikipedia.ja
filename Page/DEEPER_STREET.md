@@ -5,9 +5,9 @@
 
 ## 概要
 
-「[G1 Grouper](https://ja.wikipedia.org/wiki/G1_Grouper "wikilink")」、「[まんたんMUSIC](https://ja.wikipedia.org/wiki/まんたんMUSIC "wikilink")」が終了し、深夜枠を一新させてのスタート。本番組の前の25時台には「[KADOKAWA電波マガジン](../Page/KADOKAWA電波マガジン.md "wikilink")」が放送されていた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月に、「[スーパーFMマガジン SORU](../Page/スーパーFMマガジン.md "wikilink")・NORU」「[ラジ王](../Page/ラジ王.md "wikilink")」でパーソナリティを務めていた[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")が約3年ぶりにJFN系の深夜枠に帰って来た時は話題となった。同年10月に26時台を本番組枠から外し、それぞれが単独番組となったのに伴い、27:00 - 29:00の枠となった。
+「[G1 Grouper](../Page/G1_Grouper.md "wikilink")」、「[まんたんMUSIC](../Page/まんたんMUSIC.md "wikilink")」が終了し、深夜枠を一新させてのスタート。本番組の前の25時台には「[KADOKAWA電波マガジン](../Page/KADOKAWA電波マガジン.md "wikilink")」が放送されていた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月に、「[スーパーFMマガジン SORU](../Page/スーパーFMマガジン.md "wikilink")・NORU」「[ラジ王](../Page/ラジ王.md "wikilink")」でパーソナリティを務めていた[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")が約3年ぶりにJFN系の深夜枠に帰って来た時は話題となった。同年10月に26時台を本番組枠から外し、それぞれが単独番組となったのに伴い、27:00 - 29:00の枠となった。
 
-1999年3月に終了、一部のパーソナリティは次番組「[ラジオ黄金時代](https://ja.wikipedia.org/wiki/ラジオ黄金時代 "wikilink")」に引き継がれた。
+1999年3月に終了、一部のパーソナリティは次番組「[ラジオ黄金時代](../Page/ラジオ黄金時代.md "wikilink")」に引き継がれた。
 
 ## パーソナリティ
 
@@ -24,15 +24,15 @@
 
 **水曜日**
 
-  - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）「ヒーリング・ラジオ\!」（1997年10月 - 1998年3月・26:00 - 29:00　→1998年4月 - 同年9月・26:00 - 28:00　※←前番組「G1グルーパー」からの続投）
-      - [三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")（1997年10月 - 1998年3月・真矢と共演）
+  - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）「ヒーリング・ラジオ\!」（1997年10月 - 1998年3月・26:00 - 29:00　→1998年4月 - 同年9月・26:00 - 28:00　※←前番組「G1グルーパー」からの続投）
+      - [三重野瞳](../Page/三重野瞳.md "wikilink")（1997年10月 - 1998年3月・真矢と共演）
   - 「[しんドル](../Page/しんドル.md "wikilink")」（1998年4月 - 同年9月・28:00 - 29:00　→1998年10月からは水曜深夜26:00 - 27:00に移動し単独番組に）
   - [ふかわりょう](../Page/ふかわりょう.md "wikilink")（1998年10月 - 1999年3月・27:00 - 29:00　→「ラジオ黄金時代」に続行）
 
 **木曜日**
 
   - [椎名へきる](../Page/椎名へきる.md "wikilink")「マルチメディア・バラエティ」（1997年10月 - 1998年3月・26:00 - 28:00）（※「KADOKAWA電波マガジン」から引き続き出演・前番組「G1グルーパー」からの続投）
-  - [浅川悠](../Page/浅川悠.md "wikilink")・[オフサイド大西](../Page/オフサイド大西.md "wikilink")（1997年10月 - 1998年3月・28:00 - 29:00　→1998年4月 - 同年9月・26:00 - 29:00　→1998年10月 - 1999年3月・27:00 - 29:00）- 詳細は[DEEPER STREET木曜日を参照](https://ja.wikipedia.org/wiki/DEEPER_STREET木曜日 "wikilink")。
+  - [浅川悠](../Page/浅川悠.md "wikilink")・[オフサイド大西](../Page/オフサイド大西.md "wikilink")（1997年10月 - 1998年3月・28:00 - 29:00　→1998年4月 - 同年9月・26:00 - 29:00　→1998年10月 - 1999年3月・27:00 - 29:00）- 詳細は[DEEPER STREET木曜日を参照](../Page/DEEPER_STREET木曜日.md "wikilink")。
 
 ## 26時台の単独番組 (1998年10月 - 1999年3月)
 
@@ -40,11 +40,11 @@
 
   - 月曜日・・・「CHAGEのTreasure Box」
   - 火曜日・・・
-      - （26:00 - 26:30）「[氷上](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")・[丹下のトラブルチョコレート](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")」
+      - （26:00 - 26:30）「[氷上](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")・[丹下のトラブルチョコレート](../Page/丹下桜.md "wikilink")」
       - （26:30 - 27:00）「[清水和彦](https://ja.wikipedia.org/wiki/清水和彦 "wikilink")のMUSIC EATER」（1998年10月 - 同年12月）
       - （26:30 - 27:00）「高円寺ホワイトハウス」（1999年1月 - 同年3月）
   - 水曜日・・・「しんドル」
-  - 木曜日・・・「[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")のスパイラル・ワールド」
+  - 木曜日・・・「[千葉繁](../Page/千葉繁.md "wikilink")のスパイラル・ワールド」
 
 ## 備考
 

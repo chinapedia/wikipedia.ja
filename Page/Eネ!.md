@@ -1,13 +1,13 @@
 > この記事は[E!](https://ja.wikipedia.org/wiki/E!)から翻訳されています。
 
 
-『**Eネ\!**』（イーネ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）が毎週土曜6:15 - 6:25に放送している、製作に関与する[映画](../Page/映画.md "wikilink")・演劇や美術展などの[イベント](../Page/イベント.md "wikilink")・[DVDビデオ](https://ja.wikipedia.org/wiki/DVDビデオ "wikilink")・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")番組・[アニメーション映画](../Page/アニメーション映画.md "wikilink")などを週替わりで特集しながら紹介する、[インフォマーシャル](https://ja.wikipedia.org/wiki/インフォマーシャル "wikilink")型の[番組宣伝](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")・PR番組である。『[エンタ姫](https://ja.wikipedia.org/wiki/エンタ姫 "wikilink")』の後継にあたる。
+『**Eネ\!**』（イーネ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）が毎週土曜6:15 - 6:25に放送している、製作に関与する[映画](../Page/映画.md "wikilink")・演劇や美術展などの[イベント](../Page/イベント.md "wikilink")・[DVDビデオ](https://ja.wikipedia.org/wiki/DVDビデオ "wikilink")・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")番組・[アニメーション映画](../Page/アニメーション映画.md "wikilink")などを週替わりで特集しながら紹介する、[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")型の[番組宣伝](../Page/番組宣伝.md "wikilink")・PR番組である。『[エンタ姫](https://ja.wikipedia.org/wiki/エンタ姫 "wikilink")』の後継にあたる。
 
 ## 概要
 
 ### 放送内容
 
-テレビ東京絡みの番組・映画・イベント・DVDソフトを紹介するPR番組である。時期によっては、PRではなく『[TX-V 女子アナなび](https://ja.wikipedia.org/wiki/TX-V "wikilink")』や時間尺にあわせた[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")を放送している。
+テレビ東京絡みの番組・映画・イベント・DVDソフトを紹介するPR番組である。時期によっては、PRではなく『[TX-V 女子アナなび](https://ja.wikipedia.org/wiki/TX-V "wikilink")』や時間尺にあわせた[ミニ番組](../Page/ミニ番組.md "wikilink")を放送している。
 
 ### 放送時間
 
@@ -15,7 +15,7 @@
 
 ## 番組の歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")、土曜・日曜深夜の番組として放送開始。放送時間は土曜深夜26:40 - 26:50（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで）、日曜深夜26:30 - 26:40（2010年[3月28日](../Page/3月28日.md "wikilink")まで）。
+  - [2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")、土曜・日曜深夜の番組として放送開始。放送時間は土曜深夜26:40 - 26:50（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで）、日曜深夜26:30 - 26:40（2010年[3月28日](../Page/3月28日.md "wikilink")まで）。
   - 2005年[4月11日](../Page/4月11日.md "wikilink")からは平日朝にも放送。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月から土曜・日曜深夜版は平日深夜放送の『[A×A ダブルエー](https://ja.wikipedia.org/wiki/A×A_ダブルエー "wikilink")』と姉妹番組の関係となる。
   - 2008年[9月26日](../Page/9月26日.md "wikilink")をもって、平日朝版は一旦終了。
@@ -53,8 +53,8 @@
   - 編集：岩崎一博
   - マルチオーディオ：伊東謙二
   - 音効：太田省吾
-  - タイトル：[筧昌也](https://ja.wikipedia.org/wiki/筧昌也 "wikilink")
-  - 協力：[コールツプロダクション](https://ja.wikipedia.org/wiki/コールツプロダクション "wikilink")、[テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")
+  - タイトル：[筧昌也](../Page/筧昌也.md "wikilink")
+  - 協力：[コールツプロダクション](https://ja.wikipedia.org/wiki/コールツプロダクション "wikilink")、[テクノマックス](../Page/テクノマックス.md "wikilink")
   - コンテンツ事務局：岩花太郎、井口晴之、安井美紀子
   - デスク：波戸ゆかり
   - ディレクター：木田慎也
@@ -64,7 +64,7 @@
 
 ## 土・日曜日深夜、平日朝広報番組枠の推移
 
-  - 土日深夜（日曜日には『[シブスタ袋とじ](https://ja.wikipedia.org/wiki/シブスタ_S.B.S.T "wikilink")』も放送されていた）
+  - 土日深夜（日曜日には『[シブスタ袋とじ](../Page/シブスタ_S.B.S.T.md "wikilink")』も放送されていた）
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
 <!-- end list -->
 
   -
-    エンタ姫 → Eネ\!（『[朝は楽しく\!スマイルサプリメント](https://ja.wikipedia.org/wiki/朝は楽しく!スマイルサプリメント "wikilink")』 → 『[朝はビタミン\!](https://ja.wikipedia.org/wiki/朝はビタミン! "wikilink")』に内包） → 『[E morning](https://ja.wikipedia.org/wiki/E_morning "wikilink")』第2部のコーナー「エンタメの扉」（当枠から『Eネ\!』の名称が消滅）・Eネ\!
+    エンタ姫 → Eネ\!（『[朝は楽しく\!スマイルサプリメント](../Page/朝は楽しく!スマイルサプリメント.md "wikilink")』 → 『[朝はビタミン\!](../Page/朝はビタミン!.md "wikilink")』に内包） → 『[E morning](https://ja.wikipedia.org/wiki/E_morning "wikilink")』第2部のコーナー「エンタメの扉」（当枠から『Eネ\!』の名称が消滅）・Eネ\!
 
 （参考）
 

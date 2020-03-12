@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-  - **三宅健** - [三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink") ： 月見学園高校1年生
+  - **三宅健** - [三宅健](../Page/三宅健.md "wikilink") ： 月見学園高校1年生
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - **岡田准一** - [岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")
+  - **岡田准一** - [岡田准一](../Page/岡田准一.md "wikilink")
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - **井ノ原快彦** - [井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")
+  - **井ノ原快彦** - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - **坂本昌行** - [坂本昌行](https://ja.wikipedia.org/wiki/坂本昌行 "wikilink") ： 月見学園高校2年生
+  - **坂本昌行** - [坂本昌行](../Page/坂本昌行.md "wikilink") ： 月見学園高校2年生
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
 
 <!-- end list -->
 
-  - **長野博** - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink") ： 月見学園高校2年生
+  - **長野博** - [長野博](../Page/長野博.md "wikilink") ： 月見学園高校2年生
 
 <!-- end list -->
 
@@ -100,13 +100,13 @@
 
 ### 取り巻く人々
 
-  - [佐野瑞樹](https://ja.wikipedia.org/wiki/佐野瑞樹_\(俳優\) "wikilink")…ライバル高校のエース・佐野瑞樹
-  - [もたいまさこ](https://ja.wikipedia.org/wiki/もたいまさこ "wikilink")…元月見高校バレー部キャプテン・伝説の名アタッカー朝丘こずえ
-  - [岡田可愛](https://ja.wikipedia.org/wiki/岡田可愛 "wikilink")…元月見高校バレー部副キャプテン・鮎原ユミ
-  - [萩原流行](https://ja.wikipedia.org/wiki/萩原流行 "wikilink")…バレー部を見守る謎の男。実は林の父親。
+  - [佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")…ライバル高校のエース・佐野瑞樹
+  - [もたいまさこ](../Page/もたいまさこ.md "wikilink")…元月見高校バレー部キャプテン・伝説の名アタッカー朝丘こずえ
+  - [岡田可愛](../Page/岡田可愛.md "wikilink")…元月見高校バレー部副キャプテン・鮎原ユミ
+  - [萩原流行](../Page/萩原流行.md "wikilink")…バレー部を見守る謎の男。実は林の父親。
   - [川崎愛](../Page/橋本愛_\(1978年生\).md "wikilink")…生徒会長、月見高校バレー部マネージャー・川崎愛
   - [山口ゆか](https://ja.wikipedia.org/wiki/山口ゆか "wikilink")…ラクロス部だがバレー部を応援する月見高校2年生・ゆか
-  - [U-turn](https://ja.wikipedia.org/wiki/U-turn "wikilink")…お好み焼き屋の店員
+  - [U-turn](../Page/U-turn.md "wikilink")…お好み焼き屋の店員
       - [対馬盛浩](https://ja.wikipedia.org/wiki/対馬盛浩 "wikilink")
       - [土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")
   - [赤坂泰彦](../Page/赤坂泰彦.md "wikilink")…全国高校バレーボール選手権実況
@@ -114,7 +114,7 @@
 
 ## スタッフ
 
-  - 監督：[今関あきよし](https://ja.wikipedia.org/wiki/今関あきよし "wikilink")
+  - 監督：[今関あきよし](../Page/今関あきよし.md "wikilink")
   - 脚本：飯田まち子、下等ひろき
   - 企画：[秋元康](../Page/秋元康.md "wikilink")
   - オープニングテーマ 「[MUSIC FOR THE PEOPLE](https://ja.wikipedia.org/wiki/MUSIC_FOR_THE_PEOPLE#収録曲 "wikilink")」[V6](../Page/V6_\(グループ\).md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[AYAKASHI](https://ja.wikipedia.org/wiki/AYAKASHI)から翻訳されています。
 
 
-『**AYAKASHI**』（アヤカシ）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[CROSSNET](../Page/CROSSNET.md "wikilink")から発売された[伝奇](https://ja.wikipedia.org/wiki/伝奇 "wikilink")バトル[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")に後日談となる『**AYAKASHI H**（アヤカシ えいち）』が発売。[TVアニメ化や漫画化もされている](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
+『**AYAKASHI**』（アヤカシ）は[2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[CROSSNET](../Page/CROSSNET.md "wikilink")から発売された[伝奇](https://ja.wikipedia.org/wiki/伝奇 "wikilink")バトル[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に後日談となる『**AYAKASHI H**（アヤカシ えいち）』が発売。[TVアニメ化や漫画化もされている](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
 
 ## スタッフ
 
@@ -43,16 +43,16 @@
     主人公。以前は曲がったことを許さない正義感溢れる少年だったが、とある事件により物事を斜に見るひねくれた少年となってしまっている。
     TVアニメ版では性格が破綻しており、その思考と行動はシーンによってバラバラになってしまっている。
   - 夜明エイム（よあけ エイム）
-    声：[カンザキカナリ](https://ja.wikipedia.org/wiki/カンザキカナリ "wikilink") / [水樹奈々](../Page/水樹奈々.md "wikilink")
+    声：[カンザキカナリ](../Page/カンザキカナリ.md "wikilink") / [水樹奈々](../Page/水樹奈々.md "wikilink")
     悠の前に突然現れた少女。感情が極めて平坦であり、悠が疑問をぶつけてもそのほとんどに答えない。唯一二体のアヤカシを使うことが出来る。
   - 薬師寺陽愛（やくしじ ひめ）
-    声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink") / [松来未祐](../Page/松来未祐.md "wikilink")
+    声：[安玖深音](../Page/安玖深音.md "wikilink") / [松来未祐](../Page/松来未祐.md "wikilink")
     悠の幼馴染。面倒見が良く、クラスでも人気がある。胸が大きい。無気力になってしまった悠に何とかして元に戻ってもらいたいと考えている。フィールドホッケー部に所属している。
   - パム・ウェルヌ・アサクラ
-    声：[三園あすか](https://ja.wikipedia.org/wiki/三園あすか "wikilink") / [清水愛](../Page/清水愛.md "wikilink")
+    声：[三園あすか](../Page/三園あすか.md "wikilink") / [清水愛](../Page/清水愛.md "wikilink")
     フランス人とのハーフ。性格は極めて無垢。あまりの純真さに善悪の区別すらついていない。悠を殺すことで悠を手に入れようと考えている危険な[ゴスロリ少女](../Page/ゴシック・アンド・ロリータ.md "wikilink")。
   - 夏原織江（なつはら おりえ）
-    声：[北都南](../Page/北都南.md "wikilink") / [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+    声：[北都南](../Page/北都南.md "wikilink") / [野川さくら](../Page/野川さくら.md "wikilink")
     いつも「何か」を探している少女。記憶すら失っており、その「何か」すら覚えていないが、それでも探し続けている。実は化猫のアヤカシ。
   - 真田アンズ（さなだ あんず）
     声：[大野まりな](../Page/大野まりな.md "wikilink") / なし
@@ -62,10 +62,10 @@
 ### 敵対者
 
   - “彼”（かれ）
-    声：[鉄仮面](https://ja.wikipedia.org/wiki/鉄仮面_\(声優\) "wikilink") / [杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    声：[鉄仮面](https://ja.wikipedia.org/wiki/鉄仮面_\(声優\) "wikilink") / [杉田智和](../Page/杉田智和.md "wikilink")
     アヤカシと人間の共存を唱える組織の長である青年。足が不自由で車椅子生活を送っている。また、TVアニメ版ではオロチに食われている節がある。
   - 夜明アキノ（よあけ アキノ）
-    声：[一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink") / [雪野五月](../Page/ゆきのさつき.md "wikilink")
+    声：[一色ヒカル](../Page/一色ヒカル.md "wikilink") / [雪野五月](../Page/ゆきのさつき.md "wikilink")
     “彼”に付き従う女性。彼こそが唯一の真実であり、“彼”を裏切る者は誰であろうと許さない。名字で分かるとおりエイムの姉。
 
 ### 『AYAKASHI H』から登場
@@ -74,7 +74,7 @@
     声：[鳩野比奈](../Page/鳩野比奈.md "wikilink")
     アヤカシ使いと対立する組織「皇霊会」の幹部の少女。。判子集めが趣味。
   - 咲守八重（さきもり やえ）
-    声：[日向裕羅](https://ja.wikipedia.org/wiki/日向裕羅 "wikilink")
+    声：[日向裕羅](../Page/日向裕羅.md "wikilink")
     菊理の従者の少女。。小柄な体に似合わず怪力を持っている。
   - 刑部克己（おさかべ かつみ）
     声：[富士爆発](../Page/富士爆発.md "wikilink")
@@ -86,13 +86,13 @@
     声：なし / 野川さくら
     悠と陽愛の幼馴染だった少女。2年前のある事故で亡くなっている。
   - 花井のり子（はない のりこ）
-    声：[柚木かなめ](../Page/柚木かなめ.md "wikilink") / [真堂圭](https://ja.wikipedia.org/wiki/真堂圭 "wikilink")
+    声：[柚木かなめ](../Page/柚木かなめ.md "wikilink") / [真堂圭](../Page/真堂圭.md "wikilink")
     陽愛の親友。噂話が好き。
   - 梶原平馬（かじはら ひょうま）
     声：[神宮帝](https://ja.wikipedia.org/wiki/神宮帝 "wikilink") / [寺井智之](https://ja.wikipedia.org/wiki/寺井智之 "wikilink")
     [関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")を喋る先輩。陽愛にちょっかいをよくかけたりする。
   - 前川彰夫（まえかわあきお）
-    声：[黒田鉄雄](https://ja.wikipedia.org/wiki/黒田鉄雄 "wikilink") / [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")
+    声：[黒田鉄雄](https://ja.wikipedia.org/wiki/黒田鉄雄 "wikilink") / [浪川大輔](../Page/浪川大輔.md "wikilink")
     ジャージ姿のだらしない印象の男。“彼”と行動を共にしているが敵味方ともつかない行動を繰り返す。TVアニメ版では普通の青年となっており容姿が異なる。
 
 ### アヤカシ
@@ -140,9 +140,9 @@
 
 ## テレビアニメ
 
-[2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")から[AT-Xで](../Page/アニメシアターX.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月からは[独立UHF局などの](../Page/全国独立放送協議会.md "wikilink")[ローカル局](https://ja.wikipedia.org/wiki/ローカル局 "wikilink")でそれぞれ放送された。全12話。AT-Xでは視聴年齢制限を設けており、地上波では一部のシーンに修正が施されている。
+[2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")から[AT-Xで](../Page/アニメシアターX.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月からは[独立UHF局などの](../Page/全国独立放送協議会.md "wikilink")[ローカル局](../Page/ローカル局.md "wikilink")でそれぞれ放送された。全12話。AT-Xでは視聴年齢制限を設けており、地上波では一部のシーンに修正が施されている。
 
-[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")のアナウンスを制作側で入れている関係で（ナレーションはエイム役の[水樹奈々](../Page/水樹奈々.md "wikilink")）、本編中CMが流れないAT-Xでも「**この番組はご覧のスポンサーの提供でお送りします（ました）**」とアナウンスされる（スポンサーのテロップは表示されない）。
+[提供クレジット](../Page/提供クレジット.md "wikilink")のアナウンスを制作側で入れている関係で（ナレーションはエイム役の[水樹奈々](../Page/水樹奈々.md "wikilink")）、本編中CMが流れないAT-Xでも「**この番組はご覧のスポンサーの提供でお送りします（ました）**」とアナウンスされる（スポンサーのテロップは表示されない）。
 
 使用BGMはほとんど原作から流用されている。
 
@@ -165,16 +165,16 @@
   - 音響監督 - [飯田里樹](https://ja.wikipedia.org/wiki/飯田里樹 "wikilink")
   - 音楽 - [細井聡司](../Page/細井聡司.md "wikilink")
   - プロデューサー - 佐久間大介、吉沼忍、北澤幸子、山崎明日香、田所達也、越田昌樹
-  - エグゼクティブプロデューサー - 赤松智、岩崎篤志、[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")、榎善教、三上康博、木村健吾、武村哲司、池上克明
+  - エグゼクティブプロデューサー - 赤松智、岩崎篤志、[志倉千代丸](../Page/志倉千代丸.md "wikilink")、榎善教、三上康博、木村健吾、武村哲司、池上克明
   - チーフプロデューサー - 池田義広
   - アニメーションプロデューサー - 青木清光
-  - アニメーション制作 - [東京キッズ](https://ja.wikipedia.org/wiki/東京キッズ "wikilink")
+  - アニメーション制作 - [東京キッズ](../Page/東京キッズ.md "wikilink")
   - 製作 - 「AYAKASHI」製作委員会（[ガンホー・ワークス](../Page/ガンホー・ワークス.md "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、[5pb.](../Page/5pb..md "wikilink")、[エノキフイルム](../Page/エノキフイルム.md "wikilink")、エー・ティー・エックス、東京キッズ、[東京電化](https://ja.wikipedia.org/wiki/東京電化 "wikilink")、[オーガニック](https://ja.wikipedia.org/wiki/オーガニック "wikilink")）
 
 ### 主題歌
 
   - オープニングテーマ「cloudier sky」
-    作詞・作曲 - [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 編曲 - [磯江俊道](https://ja.wikipedia.org/wiki/磯江俊道 "wikilink") / 歌 - [彩音](../Page/彩音.md "wikilink")
+    作詞・作曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲 - [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 - [彩音](../Page/彩音.md "wikilink")
   - エンディングテーマ「篝火」
     作詞 - [奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲 - Monta / 編曲 - 市川淳 / 歌 - [KAORI](../Page/KAORI..md "wikilink")
   - 挿入歌「砂の城」（11話）
@@ -327,8 +327,8 @@ T.K ANIMATION</p></td>
 視聴年齢制限あり</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレビ</a></p></td>
 <td><p>2008年<a href="../Page/1月6日.md" title="wikilink">1月6日</a> - <a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
 <td><p>日曜 24:30 - 25:00</p></td>
 <td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立UHF系列</a></p></td>
@@ -343,7 +343,7 @@ T.K ANIMATION</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2008年<a href="../Page/1月8日.md" title="wikilink">1月8日</a> - <a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
 <td><p>火曜 25:30 - 26:00</p></td>
@@ -367,7 +367,7 @@ T.K ANIMATION</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレ玉</a></p></td>
 <td><p>2008年<a href="../Page/1月11日.md" title="wikilink">1月11日</a> - <a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td><p>金曜 25:30 - 26:00</p></td>
@@ -382,11 +382,11 @@ AT-Xでは2007年12月2日と8日に、第1話と第2話が先行放送された
 ### インターネットラジオ
 
   - [未祐とさくらのAYAKASHI R](https://ja.wikipedia.org/wiki/未祐とさくらのAYAKASHI_R "wikilink")
-      - 2008年1月5日より、[メディファクラジオ](../Page/メディファクラジオ.md "wikilink")と[アニスタ.TV](../Page/アニスタ.TV.md "wikilink")で配信されているラジオ。パーソナリティは[松来未祐](../Page/松来未祐.md "wikilink")（薬師寺陽愛役）と[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")（夏原織江役）。
+      - 2008年1月5日より、[メディファクラジオ](../Page/メディファクラジオ.md "wikilink")と[アニスタ.TV](../Page/アニスタ.TV.md "wikilink")で配信されているラジオ。パーソナリティは[松来未祐](../Page/松来未祐.md "wikilink")（薬師寺陽愛役）と[野川さくら](../Page/野川さくら.md "wikilink")（夏原織江役）。
 
 ## 漫画版
 
-[月刊マガジンZ](https://ja.wikipedia.org/wiki/月刊マガジンZ "wikilink")にて金子ツトム脚本・[かのえゆうし](https://ja.wikipedia.org/wiki/かのえゆうし "wikilink")作画による漫画版が連載された。ストーリーは漫画独自の物となっており、原作やアニメ版とは違うストーリーである。
+[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")にて金子ツトム脚本・[かのえゆうし](https://ja.wikipedia.org/wiki/かのえゆうし "wikilink")作画による漫画版が連載された。ストーリーは漫画独自の物となっており、原作やアニメ版とは違うストーリーである。
 
 第1話では、“彼”を主人公とした過去の話となっており、主人公の久坂悠は第2話からの登場となっている。
 
@@ -399,7 +399,7 @@ AT-Xでは2007年12月2日と8日に、第1話と第2話が先行放送された
 
 <!-- end list -->
 
-  - AYAKASHI OFFICIAL GRAPHIC WORKS（[FOX出版](https://ja.wikipedia.org/wiki/FOX出版 "wikilink")発行） 2006年7月22日発売
+  - AYAKASHI OFFICIAL GRAPHIC WORKS（[FOX出版](../Page/FOX出版.md "wikilink")発行） 2006年7月22日発売
   - アンソロジーコミック AYAKASHI H（[オークス発行](../Page/オークス_\(出版社\).md "wikilink")） 2006年11月25日発売
 
 <!-- end list -->
@@ -420,7 +420,7 @@ AT-Xでは2007年12月2日と8日に、第1話と第2話が先行放送された
   - Cloudier sky（OP主題歌）/歌：[彩音](../Page/彩音.md "wikilink") 2008年1月25日発売
   - 篝火（ED主題歌）/歌：[KAORI](../Page/KAORI..md "wikilink") 2008年2月27日発売
   - Characters Vol.1 蒼き光の果て/歌：夜明エイム（[水樹奈々](../Page/水樹奈々.md "wikilink")） 2008年2月8日発売
-  - Characters Vol.2 それだけで…よかった。/歌：牧原和泉（[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")） 2008年2月8日発売
+  - Characters Vol.2 それだけで…よかった。/歌：牧原和泉（[野川さくら](../Page/野川さくら.md "wikilink")） 2008年2月8日発売
   - Characters Vol.3 メトロノーム/歌：薬師寺陽愛（[松来未祐](../Page/松来未祐.md "wikilink")） 2008年2月8日発売
   - Characters Vol.4 little heavenly princess/歌：パム・ウェルヌ・アサクラ（[清水愛](../Page/清水愛.md "wikilink")） 2008年2月27日発売
   - Characters Vol.5 I will follow You/歌：夜明アキノ（[雪野五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")） 2008年3月5日発売
@@ -439,7 +439,7 @@ AT-Xでは2007年12月2日と8日に、第1話と第2話が先行放送された
 
 ## 関連項目
 
-  - [UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧 "wikilink")
+  - [UHFアニメ一覧](../Page/UHFアニメ一覧.md "wikilink")
 
 ## 外部リンク
 

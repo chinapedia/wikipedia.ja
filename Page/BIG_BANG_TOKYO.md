@@ -23,8 +23,8 @@
 
   - [橋本克彦](https://ja.wikipedia.org/wiki/橋本克彦 "wikilink")・[川口雅代](../Page/川口雅代.md "wikilink")（1992.4 - 1992.9）
   - 橋本克彦・[鈴木聰美](https://ja.wikipedia.org/wiki/鈴木聰美 "wikilink")（1992.10 - 1993.3）
-  - [大橋俊夫](https://ja.wikipedia.org/wiki/大橋俊夫 "wikilink")・鈴木聰美（1993.4 - 1994.4／月 - 木）
-  - [飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")・[ミッチェル スティングレイ](https://ja.wikipedia.org/wiki/ミッチェル_スティングレイ "wikilink")（1993.4 - 1994.4／金）
+  - [大橋俊夫](../Page/大橋俊夫.md "wikilink")・鈴木聰美（1993.4 - 1994.4／月 - 木）
+  - [飯星景子](../Page/飯星景子.md "wikilink")・[ミッチェル スティングレイ](https://ja.wikipedia.org/wiki/ミッチェル_スティングレイ "wikilink")（1993.4 - 1994.4／金）
   - 大橋俊夫・[芝尚子](https://ja.wikipedia.org/wiki/芝尚子 "wikilink")（1994.5 - 1994.11）
   - 大橋俊夫・[斉木洋子](../Page/斉木洋子.md "wikilink")（1994.12 - 1995.3）
 
@@ -44,13 +44,13 @@
 
   - 7:30～7:40　BIG BANG FORCAST
   - 7:40〜7:55 BIG BANG CULTURE
-  - 8:00～8:10　[MISAWA](https://ja.wikipedia.org/wiki/ミサワホーム "wikilink") FROM CITY TO CITY（JFN各局からの生中継リポート・[FM群馬](../Page/エフエム群馬.md "wikilink")、[FM三重を除く全国ネット枠](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")）
+  - 8:00～8:10　[MISAWA](../Page/ミサワホーム.md "wikilink") FROM CITY TO CITY（JFN各局からの生中継リポート・[FM群馬](../Page/エフエム群馬.md "wikilink")、[FM三重を除く全国ネット枠](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")）
   - 8:10～8:20　[MBJ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink") NEXT ONE（FMぐんま、FM三重を除く全国ネット枠）
   - 8:20～8:50　オール電リク BIG BANG HIT ZONE（リクエストやFAXメッセージを中心としたゾーン、聴取率調査週間には電話リクエスト企画が放送された。
-  - 8:55～9:00　エンディング（後続番組「[FMソフィア](https://ja.wikipedia.org/wiki/FMソフィア "wikilink")」のパーソナリティー・[坂上みき](https://ja.wikipedia.org/wiki/坂上みき "wikilink")とのフリートーク。時に暴露トークなど大騒ぎの中番組が終了することも）
+  - 8:55～9:00　エンディング（後続番組「[FMソフィア](https://ja.wikipedia.org/wiki/FMソフィア "wikilink")」のパーソナリティー・[坂上みき](../Page/坂上みき.md "wikilink")とのフリートーク。時に暴露トークなど大騒ぎの中番組が終了することも）
 
 ## 様々な企画展開
 
-  - 聴取率調査週間ではリクエストゾーンに、当時夕方で放送されていた「[カタクリコ・ホットライン](https://ja.wikipedia.org/wiki/カタクリコホットライン・ゴールドラッシュ "wikilink")」のDJだった、[鈴木しょう治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink") ・[今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink") コンビ、市川博樹([DJ ARCHE](https://ja.wikipedia.org/wiki/ARCHE "wikilink"))・[小田靜枝](https://ja.wikipedia.org/wiki/小田靜枝 "wikilink") コンビが登場して電リク企画が放送された(1992年)。
+  - 聴取率調査週間ではリクエストゾーンに、当時夕方で放送されていた「[カタクリコ・ホットライン](https://ja.wikipedia.org/wiki/カタクリコホットライン・ゴールドラッシュ "wikilink")」のDJだった、[鈴木しょう治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink") ・[今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink") コンビ、市川博樹([DJ ARCHE](../Page/ARCHE.md "wikilink"))・[小田靜枝](https://ja.wikipedia.org/wiki/小田靜枝 "wikilink") コンビが登場して電リク企画が放送された(1992年)。
 
 [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:1992年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のラジオ番組_\(日本\) "wikilink")

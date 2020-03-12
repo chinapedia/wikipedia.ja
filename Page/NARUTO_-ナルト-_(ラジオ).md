@@ -5,14 +5,14 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで『**オー\!NARUTOニッポン**』として[ラジオ大阪製作で](../Page/大阪放送.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")にて放送開始。テレビアニメの主人公[うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")役の[竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")とマンスリーパーソナリティーの声優（月替わり）による番組である。2007年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以降、アニメのタイトル変更に伴い『**NARUTO Radio 疾風迅雷**』と番組名を変更。同時にコーナーもリニューアルされた。
+[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで『**オー\!NARUTOニッポン**』として[ラジオ大阪製作で](../Page/大阪放送.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")にて放送開始。テレビアニメの主人公[うずまきナルト](../Page/うずまきナルト.md "wikilink")役の[竹内順子](../Page/竹内順子.md "wikilink")とマンスリーパーソナリティーの声優（月替わり）による番組である。2007年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以降、アニメのタイトル変更に伴い『**NARUTO Radio 疾風迅雷**』と番組名を変更。同時にコーナーもリニューアルされた。
 
 『オー\!NARUTOニッポン』時代は、最後の週にマンスリーパーソナリティーが仕切る『オー\!○○○ニッポン』が放送された。
 現在の『NARUTO Radio 疾風迅雷』においても、マンスリーパーソナリティが無茶振りで番組を仕切る回が2008年 - 2009年頃に復活し、『○○○ Radio 疾風迅雷』のタイトルで2週目に放送されている。（いずれも○○○にはキャラクターの名前が入る。）
 
 ## 投稿におけるルール
 
-この番組では、ネタ（[はがき](https://ja.wikipedia.org/wiki/はがき "wikilink")または[メール](../Page/電子メール.md "wikilink")）が採用される毎にランクがアップしていく公共電波を使用した「選抜試験」方式をとっており、リスナーはまず忍者学校（アカデミー）に在籍する候補生（**「アカデミー生」**）としてスタート。ネタが1回採用される毎に、（アカデミー生から積算して）2回以上で**「下忍」**、10回以上で**「中忍」**、30回以上で**「上忍」**へと昇格し、同番組の収録スタジオへ招待される。ちなみに2007年10月放送分にて**「上忍」**昇格のリスナー第1号\[1\]が誕生、2008年2月放送分にて収録スタジオに招待された\[2\]。そして**「上忍」**達成後、リスナーは再び**「アカデミー生」**に戻る（併せて、ペンネーム等も変更しなければならない）。
+この番組では、ネタ（[はがき](../Page/はがき.md "wikilink")または[メール](../Page/電子メール.md "wikilink")）が採用される毎にランクがアップしていく公共電波を使用した「選抜試験」方式をとっており、リスナーはまず忍者学校（アカデミー）に在籍する候補生（**「アカデミー生」**）としてスタート。ネタが1回採用される毎に、（アカデミー生から積算して）2回以上で**「下忍」**、10回以上で**「中忍」**、30回以上で**「上忍」**へと昇格し、同番組の収録スタジオへ招待される。ちなみに2007年10月放送分にて**「上忍」**昇格のリスナー第1号\[1\]が誕生、2008年2月放送分にて収録スタジオに招待された\[2\]。そして**「上忍」**達成後、リスナーは再び**「アカデミー生」**に戻る（併せて、ペンネーム等も変更しなければならない）。
 
 ## 歴代のマンスリーパーソナリティー
 
@@ -38,7 +38,7 @@
 <td><p>-</p></td>
 <td><p><a href="../Page/くじら_(声優).md" title="wikilink">くじら</a><br />
 （<a href="https://ja.wikipedia.org/wiki/大蛇丸_(NARUTO)" title="wikilink">大蛇丸役</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小杉十郎太" title="wikilink">小杉十郎太</a><br />
+<td><p><a href="../Page/小杉十郎太.md" title="wikilink">小杉十郎太</a><br />
 （<a href="https://ja.wikipedia.org/wiki/猿飛アスマ" title="wikilink">猿飛アスマ</a>役）</p></td>
 <td><p><a href="../Page/勝生真沙子.md" title="wikilink">勝生真沙子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/綱手_(NARUTO)" title="wikilink">五代目火影 千手綱手役</a>）<br />
@@ -77,11 +77,11 @@
 <tr class="odd">
 <td><p>3月</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神奈延年" title="wikilink">神奈延年</a><br />
+<td><p><a href="../Page/神奈延年.md" title="wikilink">神奈延年</a><br />
 （<a href="https://ja.wikipedia.org/wiki/薬師カブト" title="wikilink">薬師カブト</a>役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江原正士" title="wikilink">江原正士</a><br />
+<td><p><a href="../Page/江原正士.md" title="wikilink">江原正士</a><br />
 （<a href="https://ja.wikipedia.org/wiki/マイト・ガイ" title="wikilink">マイト・ガイ</a>役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田貴子" title="wikilink">本田貴子</a><br />
+<td><p><a href="../Page/本田貴子.md" title="wikilink">本田貴子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#特別上忍" title="wikilink">みたらしアンコ役</a>）</p></td>
 <td><p>杉山紀彰<br />
 （うちはサスケ役）</p></td>
@@ -95,11 +95,11 @@
 <tr class="even">
 <td><p>4月</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村千絵" title="wikilink">中村千絵</a><br />
+<td><p><a href="../Page/中村千絵.md" title="wikilink">中村千絵</a><br />
 （<a href="https://ja.wikipedia.org/wiki/春野サクラ" title="wikilink">春野サクラ</a>役）</p></td>
 <td><p>中村千絵<br />
 （春野サクラ役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柚木涼香" title="wikilink">柚木涼香</a><br />
+<td><p><a href="../Page/柚木涼香.md" title="wikilink">柚木涼香</a><br />
 （<a href="https://ja.wikipedia.org/wiki/山中いの" title="wikilink">山中いの</a>役）</p></td>
 <td><p>井上和彦<br />
 （はたけカカシ役）</p></td>
@@ -113,15 +113,15 @@
 <tr class="odd">
 <td><p>5月</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉山紀彰" title="wikilink">杉山紀彰</a><br />
-（<a href="https://ja.wikipedia.org/wiki/うちはサスケ" title="wikilink">うちはサスケ</a>役）</p></td>
+<td><p><a href="../Page/杉山紀彰.md" title="wikilink">杉山紀彰</a><br />
+（<a href="../Page/うちはサスケ.md" title="wikilink">うちはサスケ</a>役）</p></td>
 <td><p>杉山紀彰<br />
 （うちはサスケ役）</p></td>
 <td><p>遠近孝一<br />
 （日向ネジ役）</p></td>
 <td><p>石川英郎<br />
 （うちはイタチ役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日野聡" title="wikilink">日野聡</a><br />
+<td><p><a href="../Page/日野聡.md" title="wikilink">日野聡</a><br />
 （<a href="https://ja.wikipedia.org/wiki/サイ_(NARUTO)" title="wikilink">サイ役</a>）</p></td>
 <td><p>森久保祥太郎<br />
 （奈良シカマル役）</p></td>
@@ -133,7 +133,7 @@
 <tr class="even">
 <td><p>6月</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤健太郎_(声優)" title="wikilink">伊藤健太郎</a><br />
+<td><p><a href="../Page/伊藤健太郎_(声優).md" title="wikilink">伊藤健太郎</a><br />
 （<a href="https://ja.wikipedia.org/wiki/秋道チョウジ" title="wikilink">秋道チョウジ</a>役）</p></td>
 <td><p>森久保祥太郎<br />
 （奈良シカマル役）</p></td>
@@ -141,23 +141,23 @@
 （ロック・リー役）</p></td>
 <td><p><a href="../Page/檀臣幸.md" title="wikilink">檀臣幸</a><br />
 （<a href="https://ja.wikipedia.org/wiki/暁_(NARUTO)#干柿鬼鮫（ほしがき_キサメ）" title="wikilink">干柿鬼鮫役</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/根本圭子" title="wikilink">根本圭子</a><br />
+<a href="../Page/根本圭子.md" title="wikilink">根本圭子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#シズネ" title="wikilink">シズネ役</a>）</p></td>
 <td><p><a href="../Page/平田広明.md" title="wikilink">平田広明</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#中忍" title="wikilink">不知火ゲンマ役</a>）</p></td>
 <td><p><a href="../Page/かないみか.md" title="wikilink">かないみか</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#三尾出現の章" title="wikilink">幽鬼丸役</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀内賢雄" title="wikilink">堀内賢雄</a><br />
+<td><p><a href="../Page/堀内賢雄.md" title="wikilink">堀内賢雄</a><br />
 （<a href="https://ja.wikipedia.org/wiki/暁_(NARUTO)#ペイン六道" title="wikilink">ペイン/男</a>・<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#二代目火影" title="wikilink">二代目火影役</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳥海浩輔" title="wikilink">鳥海浩輔</a><br />
+<td><p><a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a><br />
 （犬塚キバ役）</p></td>
 <td><p>石田彰<br />
 （<a href="https://ja.wikipedia.org/wiki/我愛羅" title="wikilink">我愛羅</a>役）<br />
-<a href="https://ja.wikipedia.org/wiki/浅野まゆみ" title="wikilink">浅野まゆみ</a><br />
+<a href="../Page/浅野まゆみ.md" title="wikilink">浅野まゆみ</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#抜け忍" title="wikilink">白役</a>）(SP)</p></td>
 <td><p>中村千絵<br />
 （春野サクラ役）<br />
@@ -169,24 +169,24 @@
 （油女シノ役）<br />
 水樹奈々<br />
 （日向ヒナタ役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高木渉" title="wikilink">高木渉</a><br />
+<td><p><a href="../Page/高木渉.md" title="wikilink">高木渉</a><br />
 （<a href="https://ja.wikipedia.org/wiki/暁_(NARUTO)#仮面の男_/_うちはオビト）" title="wikilink">トビ役</a>）<br />
 井上和彦<br />
 （はたけカカシ役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森川智之" title="wikilink">森川智之</a><br />
+<td><p><a href="../Page/森川智之.md" title="wikilink">森川智之</a><br />
 （<a href="https://ja.wikipedia.org/wiki/波風ミナト" title="wikilink">波風ミナト</a>・<a href="https://ja.wikipedia.org/wiki/音の五人衆#君麻呂" title="wikilink">君麻呂役</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>8月</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/甲斐田裕子" title="wikilink">甲斐田裕子</a><br />
+<td><p><a href="../Page/甲斐田裕子.md" title="wikilink">甲斐田裕子</a><br />
 （[[劇場版_NARUTO_-ナルト-_大活劇!雪姫忍法帖だってばよ</p></td>
 <td><p>|富士風雪絵]]役）[4]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加瀬康之" title="wikilink">加瀬康之</a><br />
+<td><p><a href="../Page/加瀬康之.md" title="wikilink">加瀬康之</a><br />
 （<a href="https://ja.wikipedia.org/wiki/カンクロウ" title="wikilink">カンクロウ</a>役）[5]</p></td>
 <td><p>井上和彦<br />
 （はたけカカシ役）[6]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤村歩" title="wikilink">藤村歩</a><br />
+<td><p><a href="../Page/藤村歩.md" title="wikilink">藤村歩</a><br />
 （<a href="../Page/劇場版_NARUTO_-ナルト-_疾風伝.md" title="wikilink">紫苑役</a>）</p></td>
 <td><p><a href="../Page/くまいもとこ.md" title="wikilink">くまいもとこ</a><br />
 （<a href="../Page/劇場版_NARUTO_-ナルト-_疾風伝_絆.md" title="wikilink">アマル役</a>）</p></td>
@@ -215,9 +215,9 @@
 <td><p>10月</p></td>
 <td><p><a href="../Page/石田彰.md" title="wikilink">石田彰</a><br />
 （<a href="https://ja.wikipedia.org/wiki/我愛羅" title="wikilink">我愛羅</a>役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遠近孝一" title="wikilink">遠近孝一</a><br />
+<td><p><a href="../Page/遠近孝一.md" title="wikilink">遠近孝一</a><br />
 （<a href="https://ja.wikipedia.org/wiki/日向ネジ" title="wikilink">日向ネジ</a>役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大塚芳忠" title="wikilink">大塚芳忠</a><br />
+<td><p><a href="../Page/大塚芳忠.md" title="wikilink">大塚芳忠</a><br />
 （<a href="https://ja.wikipedia.org/wiki/自来也_(NARUTO)" title="wikilink">自来也役</a>）</p></td>
 <td><p>江原正士<br />
 （マイト・ガイ役）<br />
@@ -238,18 +238,18 @@
 <tr class="odd">
 <td><p>11月</p></td>
 <td><p><a href="../Page/井上和彦_(声優).md" title="wikilink">井上和彦</a><br />
-（<a href="https://ja.wikipedia.org/wiki/はたけカカシ" title="wikilink">はたけカカシ</a>役）<br />
+（<a href="../Page/はたけカカシ.md" title="wikilink">はたけカカシ</a>役）<br />
 <a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a><br />
 （<a href="https://ja.wikipedia.org/wiki/テマリ" title="wikilink">テマリ</a>役）(SP)</p></td>
 <td><p><a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#日向ヒナタ" title="wikilink">日向ヒナタ役</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川田紳司" title="wikilink">川田紳司</a><br />
+<td><p><a href="../Page/川田紳司.md" title="wikilink">川田紳司</a><br />
 （油女シノ役）</p></td>
 <td><p>鳥海浩輔<br />
 （犬塚キバ役）</p></td>
 <td><p>中村千絵<br />
 （春野サクラ役）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/てらそままさき" title="wikilink">てらそままさき</a><br />
+<td><p><a href="../Page/てらそままさき.md" title="wikilink">てらそままさき</a><br />
 （<a href="https://ja.wikipedia.org/wiki/暁_(NARUTO)#飛段" title="wikilink">飛段役</a>）</p></td>
 <td><p>日野聡<br />
 （サイ役）</p></td>
@@ -296,7 +296,7 @@
 <!-- end list -->
 
   - △（さんかく）ボタン長押し
-    [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[ナルティメットアクセル3](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_ナルティメットヒーロー "wikilink")』のプレイ中における操作方法に因んで、リスナーが「チャクラ不足」になった時、どんな方法で「チャクラを回復」させるか、その「エネルギー源」を紹介するというコーナー。2010年1月放送分よりスタート。
+    [PSP](../Page/PlayStation_Portable.md "wikilink")『[ナルティメットアクセル3](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")』のプレイ中における操作方法に因んで、リスナーが「チャクラ不足」になった時、どんな方法で「チャクラを回復」させるか、その「エネルギー源」を紹介するというコーナー。2010年1月放送分よりスタート。
 
 <!-- end list -->
 
@@ -443,7 +443,7 @@
 <!-- end list -->
 
   - 伝説のカモ・綱手姫の丁半[チンチロリン](../Page/チンチロリン.md "wikilink")（2006年1月）
-    [丁半](https://ja.wikipedia.org/wiki/丁半 "wikilink")博打を行い、所持金10両を増やせられた方が勝ちというゲーム。但し、負けた方には私物をリスナーにプレゼントしなければならないという条件が課せられた。
+    [丁半](../Page/丁半.md "wikilink")博打を行い、所持金10両を増やせられた方が勝ちというゲーム。但し、負けた方には私物をリスナーにプレゼントしなければならないという条件が課せられた。
 
 <!-- end list -->
 
@@ -473,7 +473,7 @@
 <!-- end list -->
 
   - 旬を食い尽くせ\!秋の味覚狩りの旅\!（2006年9月）
-    『オー\!NARUTOニッポン』放送150回を記念して、番組スタッフが秋の味覚でおもてなしをしてくれるコーナー。但し条件としてスタッフが用意した4つのきまぐれメニューを1つずつ頂き、[彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink")（グルメレポーター）さながらの美味しいコメントをしなければならない。
+    『オー\!NARUTOニッポン』放送150回を記念して、番組スタッフが秋の味覚でおもてなしをしてくれるコーナー。但し条件としてスタッフが用意した4つのきまぐれメニューを1つずつ頂き、[彦摩呂](../Page/彦摩呂.md "wikilink")（グルメレポーター）さながらの美味しいコメントをしなければならない。
 
 <!-- end list -->
 
@@ -487,7 +487,7 @@
 
 <!-- end list -->
 
-  - テマリの[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")の部屋へようこそ（2006年12月）
+  - テマリの[紫](../Page/紫.md "wikilink")の部屋へようこそ（2006年12月）
     リスナーが体験した不思議な[神秘体験](https://ja.wikipedia.org/wiki/神秘体験 "wikilink")を紹介するコーナー。因みにこの企画は当時マンパを務めた朴璐美が過去に不思議な体験をしたことなどから急遽決まったという。
 
 <!-- end list -->
@@ -503,7 +503,7 @@
 ## 最終回
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")放送分にて、『オー\!NARUTOニッポン』時代から7年以上に渡って放送されてきた『NARUTO Radio 疾風迅雷』が「[アニプレックスアワー](../Page/アニプレックスアワー.md "wikilink")」の終了に伴い、同年12月いっぱいで終了する事が発表された。
-最終回ではエンディングにてスタッフから竹内へ労いの[拍手](https://ja.wikipedia.org/wiki/拍手 "wikilink")と[花束が贈られた](../Page/ブーケ.md "wikilink")。
+最終回ではエンディングにてスタッフから竹内へ労いの[拍手](../Page/拍手.md "wikilink")と[花束が贈られた](../Page/ブーケ.md "wikilink")。
 
 ## 脚注
 
@@ -515,7 +515,7 @@
 
 ## 放送時間
 
-  - 番組は「[アニプレックス](../Page/アニプレックス.md "wikilink")アワー」として、「[BLEACH “B” STATION](https://ja.wikipedia.org/wiki/BLEACH_“B”_STATION "wikilink")」と交互に放送されていた。
+  - 番組は「[アニプレックス](../Page/アニプレックス.md "wikilink")アワー」として、「[BLEACH “B” STATION](../Page/BLEACH_“B”_STATION.md "wikilink")」と交互に放送されていた。
 
 ## 関連項目
 
@@ -533,5 +533,5 @@
 2.  但し、スタジオまでの交通費はリスナー負担。
 3.  キャラクターソング担当プロデューサーとして
 4.  [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")（劇場版第1弾・テーマ曲担当）
-5.  SPとして、[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")（[テムジン役](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大激突!幻の地底遺跡だってばよ "wikilink")）
-6.  SPとして、中村千絵（春野サクラ役）・[池田恭祐](https://ja.wikipedia.org/wiki/池田恭祐 "wikilink")（[ツキヒカル役](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ "wikilink")）
+5.  SPとして、[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")（[テムジン役](../Page/劇場版_NARUTO_-ナルト-_大激突!幻の地底遺跡だってばよ.md "wikilink")）
+6.  SPとして、中村千絵（春野サクラ役）・[池田恭祐](../Page/池田恭祐.md "wikilink")（[ツキヒカル役](../Page/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ.md "wikilink")）

@@ -11,7 +11,7 @@
 
 ### 設立の背景
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月に日本の[入国管理法](https://ja.wikipedia.org/wiki/入国管理法 "wikilink")が改正されたことにより、日本国外に住む[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")の日本国内での就労が許されたことによって、日本への[出稼ぎ](https://ja.wikipedia.org/wiki/出稼ぎ "wikilink")労働者が増加し、ひいては、日本に住む[日系ブラジル人](../Page/日系ブラジル人.md "wikilink")が増加したことが、設立時の時代背景となっている。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月に日本の[入国管理法](https://ja.wikipedia.org/wiki/入国管理法 "wikilink")が改正されたことにより、日本国外に住む[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")の日本国内での就労が許されたことによって、日本への[出稼ぎ](../Page/出稼ぎ.md "wikilink")労働者が増加し、ひいては、日本に住む[日系ブラジル人](../Page/日系ブラジル人.md "wikilink")が増加したことが、設立時の時代背景となっている。
 
 創業者の東海林正和は、[1960年](../Page/1960年.md "wikilink")にブラジルに移民した当時、現地で発行されていた日本語新聞に助けられた経験から、そうした時代背景を踏まえ、日本においてポルトガル語新聞を発行することを着想した。
 
@@ -19,13 +19,13 @@
 
 ### 日本
 
-[1993年](../Page/1993年.md "wikilink")に、ポルトガル語新聞『Jornal Tudo Bem』を創刊し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月にはポルトガル語の無料誌『Gambare\!』の発行を開始した。
+[1993年](../Page/1993年.md "wikilink")に、ポルトガル語新聞『Jornal Tudo Bem』を創刊し、[2005年](../Page/2005年.md "wikilink")9月にはポルトガル語の無料誌『Gambare\!』の発行を開始した。
 
 社名は**JBC出版社**(**JB Communication**)。
 
 ### ブラジル
 
-[日本の文化](https://ja.wikipedia.org/wiki/日本の文化 "wikilink")を紹介する出版事業を展開しており、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月に月刊誌『Made in Japan』を創刊した。ブラジルにおいて日本文化を紹介するという異色さから、当初この雑誌は出版社側からも短命に終わると思われていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月には通巻100号を達成している。
+[日本の文化](../Page/日本の文化.md "wikilink")を紹介する出版事業を展開しており、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月に月刊誌『Made in Japan』を創刊した。ブラジルにおいて日本文化を紹介するという異色さから、当初この雑誌は出版社側からも短命に終わると思われていたが、[2006年](../Page/2006年.md "wikilink")1月には通巻100号を達成している。
 
 独自編集の雑誌、書籍のほか、日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のポルトガル語翻訳版の発行を手がけており、ブラジルにおいて、最大の漫画出版社でもある。
 
@@ -33,7 +33,7 @@
 
 ## 漫画の発行
 
-同社は[2001年](../Page/2001年.md "wikilink")に、『[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚- "wikilink")』で、ブラジルにおけるポルトガル語翻訳版漫画の出版事業に参入した。
+同社は[2001年](../Page/2001年.md "wikilink")に、『[るろうに剣心 -明治剣客浪漫譚-](../Page/るろうに剣心_-明治剣客浪漫譚-.md "wikilink")』で、ブラジルにおけるポルトガル語翻訳版漫画の出版事業に参入した。
 
 キャッチフレーズは“***Mangá é a nossa língua\!***”(漫画は僕らの共通語！).
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚- "wikilink") (題名 "*Samurai X*")
+  - [るろうに剣心 -明治剣客浪漫譚-](../Page/るろうに剣心_-明治剣客浪漫譚-.md "wikilink") (題名 "*Samurai X*")
   - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")
   - [魔法騎士レイアース](../Page/魔法騎士レイアース.md "wikilink")
   - [電影少女](../Page/電影少女.md "wikilink")
@@ -79,7 +79,7 @@
 
   - [BASTARD\!\! -暗黒の破壊神-](../Page/BASTARD!!_-暗黒の破壊神-.md "wikilink") \*18禁指定
   - [カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")
-  - [銃夢](https://ja.wikipedia.org/wiki/銃夢 "wikilink")
+  - [銃夢](../Page/銃夢.md "wikilink")
 
 <!-- end list -->
 
@@ -91,8 +91,8 @@
   - 4月 [フルーツバスケット](../Page/フルーツバスケット_\(漫画\).md "wikilink")
   - 6月 [おねがい☆ティーチャー](../Page/おねがい☆ティーチャー.md "wikilink")
   - 6月 [東京BABYLON](../Page/東京BABYLON.md "wikilink")
-  - 8月 [MOUSE](https://ja.wikipedia.org/wiki/MOUSE_\(漫画\) "wikilink") \*18禁指定。[あかほりさとる](../Page/あかほりさとる.md "wikilink")作品
-  - 10月 [ANGELIC LAYER](https://ja.wikipedia.org/wiki/ANGELIC_LAYER "wikilink")
+  - 8月 [MOUSE](../Page/MOUSE_\(漫画\).md "wikilink") \*18禁指定。[あかほりさとる](../Page/あかほりさとる.md "wikilink")作品
+  - 10月 [ANGELIC LAYER](../Page/ANGELIC_LAYER.md "wikilink")
 
 <!-- end list -->
 
@@ -101,9 +101,9 @@
 <!-- end list -->
 
   - 1月 [魔法先生ネギま\!](https://ja.wikipedia.org/wiki/魔法先生ネギま! "wikilink")
-  - 3月 [XXXHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")
-  - 4月 [ツバサ-RESERVoir CHRoNiCLE-](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE- "wikilink")
-  - 7月 [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")
+  - 3月 [XXXHOLiC](../Page/XXXHOLiC.md "wikilink")
+  - 4月 [ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")
+  - 7月 [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")
   - 8月 [神秘の世界エルハザード](../Page/神秘の世界エルハザード.md "wikilink")
   - 8月 [.hack//黄昏の腕輪伝説](https://ja.wikipedia.org/wiki/.hack/黄昏の腕輪伝説 "wikilink")
 
@@ -113,7 +113,7 @@
 
 <!-- end list -->
 
-  - 1月 [鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師 "wikilink")
+  - 1月 [鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")
   - 4月 [リアルバウトハイスクール](../Page/召喚教師リアルバウトハイスクール.md "wikilink") (題名"*Samurai girl*")
 
 <!-- end list -->
@@ -122,7 +122,7 @@
 
 <!-- end list -->
 
-  - 1月 [未来日記](https://ja.wikipedia.org/wiki/未来日記_\(漫画\) "wikilink") (題名"*Diário do futuro*")
+  - 1月 [未来日記](../Page/未来日記_\(漫画\).md "wikilink") (題名"*Diário do futuro*")
   - 2月 [Another](https://ja.wikipedia.org/wiki/Another "wikilink")
   - 3月 [レベルE](../Page/レベルE.md "wikilink")
   - 4月 [ラブひな](../Page/ラブひな.md "wikilink")
@@ -144,8 +144,8 @@
 <!-- end list -->
 
   - 2月 [BTOOOM\!](https://ja.wikipedia.org/wiki/BTOOOM! "wikilink")
-  - 3月 [未来日記モザイク](https://ja.wikipedia.org/wiki/未来日記_\(漫画\) "wikilink") (題名"*Diário do futuro: Mosaic*")
-  - 4月 [未来日記パラドックス](https://ja.wikipedia.org/wiki/未来日記_\(漫画\) "wikilink") (題名"*Diário do futuro: Paradox*")
+  - 3月 [未来日記モザイク](../Page/未来日記_\(漫画\).md "wikilink") (題名"*Diário do futuro: Mosaic*")
+  - 4月 [未来日記パラドックス](../Page/未来日記_\(漫画\).md "wikilink") (題名"*Diário do futuro: Paradox*")
   - 4月 [美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")
   - 5月 [予告犯](https://ja.wikipedia.org/wiki/予告犯 "wikilink") (題名"*Prophecy*")
   - 6月 [惑星のさみだれ](../Page/惑星のさみだれ.md "wikilink") (題名"*Lúcifer e o martelo*")
@@ -156,7 +156,7 @@
   - 10月 [地球の放課後](https://ja.wikipedia.org/wiki/地球の放課後 "wikilink") (題名"*After school of the earth*")
   - 10月 [Tom Sawyer](https://ja.wikipedia.org/wiki/Tom_Sawyer "wikilink")
   - 10月 [幽☆遊☆白書](../Page/幽☆遊☆白書.md "wikilink") (再発行)
-  - 11月 [きみにしか聞こえない](https://ja.wikipedia.org/wiki/きみにしか聞こえない_CALLING_YOU "wikilink") (題名"*Só você pode ouvir*")
+  - 11月 [きみにしか聞こえない](../Page/きみにしか聞こえない_CALLING_YOU.md "wikilink") (題名"*Só você pode ouvir*")
   - 11月 [ソウルイーターノット\!](https://ja.wikipedia.org/wiki/ソウルイーターノット! "wikilink")
   - 12月 [All You Need Is Kill](../Page/All_You_Need_Is_Kill.md "wikilink")
 
@@ -179,15 +179,15 @@
   - 5月 [ちょびっツ](../Page/ちょびっツ.md "wikilink") (再発行) (予定)
   - 6月 [コードネームはセーラーV](../Page/コードネームはセーラーV.md "wikilink") (予定)
   - [Wish](../Page/Wish_\(漫画\).md "wikilink") (予定)
-  - [ビタミン](https://ja.wikipedia.org/wiki/ビタミン_\(漫画\) "wikilink") (予定)
+  - [ビタミン](../Page/ビタミン_\(漫画\).md "wikilink") (予定)
   - [Ghost in the Shell](../Page/攻殻機動隊.md "wikilink") (予定)
-  - [EDEN 〜It's an Endless World\!〜](https://ja.wikipedia.org/wiki/EDEN_〜It's_an_Endless_World!〜 "wikilink") (予定)
+  - [EDEN 〜It's an Endless World\!〜](../Page/EDEN_〜It's_an_Endless_World!〜.md "wikilink") (予定)
   - [テラフォーマーズ](https://ja.wikipedia.org/wiki/テラフォーマーズ "wikilink") (予定)
   - [キルラキル](https://ja.wikipedia.org/wiki/キルラキル "wikilink") (予定)
   - [Another (ライトノベル)](https://ja.wikipedia.org/wiki/Another "wikilink") (予定)
   - [続・星守る犬](https://ja.wikipedia.org/wiki/星守る犬 "wikilink") (予定)
   - [ZETMAN](../Page/ZETMAN.md "wikilink") (予定)
-  - 12月 [AKIRA](https://ja.wikipedia.org/wiki/アキラ "wikilink") (予定)
+  - 12月 [AKIRA](../Page/アキラ.md "wikilink") (予定)
 
 ### 特徴
 
@@ -201,9 +201,9 @@
 
 ### 評価
 
-同国の漫画出版における一方の雄で、完結後も大きな人気を博す『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』や『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』、あるいは、[手塚治虫](../Page/手塚治虫.md "wikilink")の『[ブッダ](https://ja.wikipedia.org/wiki/ブッダ_\(漫画\) "wikilink")』、[井上雄彦](../Page/井上雄彦.md "wikilink")の『[バガボンド](../Page/バガボンド.md "wikilink")』、『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』などを手がけるコンラッド社や、『[ベルセルク](../Page/ベルセルク_\(漫画\).md "wikilink")』を手がけるパニーニ社と比べると、軽い作品を手がけることが多く、その点では批判的な意見もあれば、方向性の違いに理解を示した好意的な意見もあり、評価が分かれる。
+同国の漫画出版における一方の雄で、完結後も大きな人気を博す『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』や『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』、あるいは、[手塚治虫](../Page/手塚治虫.md "wikilink")の『[ブッダ](../Page/ブッダ_\(漫画\).md "wikilink")』、[井上雄彦](../Page/井上雄彦.md "wikilink")の『[バガボンド](../Page/バガボンド.md "wikilink")』、『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』などを手がけるコンラッド社や、『[ベルセルク](../Page/ベルセルク_\(漫画\).md "wikilink")』を手がけるパニーニ社と比べると、軽い作品を手がけることが多く、その点では批判的な意見もあれば、方向性の違いに理解を示した好意的な意見もあり、評価が分かれる。
 
-しかしながら、翻訳版漫画の発行を始めた当初から2006年現在まで[CLAMP](https://ja.wikipedia.org/wiki/CLAMP "wikilink")の作品をほぼ途切れなく出版し続けており、この点についてはファンから批判を浴びることが多く、同社公式サイトの掲示板でもマンネリとの声が少なくなかった（公式サイトの掲示板は2006年4月に閉鎖）。
+しかしながら、翻訳版漫画の発行を始めた当初から2006年現在まで[CLAMP](../Page/CLAMP.md "wikilink")の作品をほぼ途切れなく出版し続けており、この点についてはファンから批判を浴びることが多く、同社公式サイトの掲示板でもマンネリとの声が少なくなかった（公式サイトの掲示板は2006年4月に閉鎖）。
 
 ## 外部リンク
 

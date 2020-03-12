@@ -5,26 +5,26 @@
 
 ## 解説
 
-  - リリース前にCMソングとしてオンエアされ、BoAの日本での知名度を高めるきっかけとなった。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5位を記録し、自身初のトップ10入りを果たす。また、発売直後のオリコンデイリーチャートでは過去に発売された3枚のシングルと[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")とのコラボレーションシングルの計4枚のシングルがランキングに再浮上した。
-  - 後に同年3月13日に発売された1stアルバム『[LISTEN TO MY HEART](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\) "wikilink")』はオリコン初登場1位、ミリオンヒットを記録した。
+  - リリース前にCMソングとしてオンエアされ、BoAの日本での知名度を高めるきっかけとなった。[オリコン初登場](../Page/オリコンチャート.md "wikilink")5位を記録し、自身初のトップ10入りを果たす。また、発売直後のオリコンデイリーチャートでは過去に発売された3枚のシングルと[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")とのコラボレーションシングルの計4枚のシングルがランキングに再浮上した。
+  - 後に同年3月13日に発売された1stアルバム『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』はオリコン初登場1位、ミリオンヒットを記録した。
   - [第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")にて金賞を受賞した。
 
 ## 収録曲
 
 1.  **LISTEN TO MY HEART**
-      - 作詞：[渡辺なつみ](https://ja.wikipedia.org/wiki/渡辺なつみ_\(作詞家\) "wikilink")／作曲・編曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink")
-      - この曲の韓国語版は「K-Pop Selection」及び自身の韓国での2集「[No.1](https://ja.wikipedia.org/wiki/No.1_\(BoAのアルバム\) "wikilink")」や2.5集「[MIRACLE](https://ja.wikipedia.org/wiki/MIRACLE_\(BoAのアルバム\) "wikilink")」に収録されている。
+      - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲・編曲：[原一博](../Page/原一博.md "wikilink")
+      - この曲の韓国語版は「K-Pop Selection」及び自身の韓国での2集「[No.1](../Page/No.1_\(BoAのアルバム\).md "wikilink")」や2.5集「[MIRACLE](../Page/MIRACLE_\(BoAのアルバム\).md "wikilink")」に収録されている。
 2.  **Snow White**
-      - 作詞：海老根祐子／作曲：川本盛文／編曲：[原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
+      - 作詞：海老根祐子／作曲：川本盛文／編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 3.  **LISTEN TO MY HEART（English Version）**
 4.  LISTEN TO MY HEART（Instrumental）
 5.  Snow White（Instrumental）
 
 ## 収録アルバム
 
-  - 1stアルバム『**[LISTEN TO MY HEART](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\) "wikilink")**』（M-1）
-  - ベストアルバム『**[BEST OF SOUL](https://ja.wikipedia.org/wiki/BEST_OF_SOUL "wikilink")**』（M-1）
-  - スペシャルアルバム『**[Next World](https://ja.wikipedia.org/wiki/Next_World "wikilink")**』（M-3）
+  - 1stアルバム『**[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")**』（M-1）
+  - ベストアルバム『**[BEST OF SOUL](../Page/BEST_OF_SOUL.md "wikilink")**』（M-1）
+  - スペシャルアルバム『**[Next World](../Page/Next_World.md "wikilink")**』（M-3）
   - CD-BOXアルバム「**[a-box NEO](https://ja.wikipedia.org/wiki/a-box_NEO "wikilink")**」（DISC-4、M-4）
 
 ## タイアップ

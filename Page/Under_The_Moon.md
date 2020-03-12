@@ -1,7 +1,7 @@
 > この記事は[Under The Moon](https://ja.wikipedia.org/wiki/Under_The_Moon)から翻訳されています。
 
 
-『**Under The Moon**』（アンダー・ザ・ムーン）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[シュガービーンズから発売された女性向け](../Page/ウィルプラス.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。また、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")にファンディスク『**Under The Moon 〜つきいろ絵本〜**』が発売された。さらに、[2009年](../Page/2009年.md "wikilink")6月25日に[PlayStation 2への移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Under The Moon 〜クレセント〜**』が[ディンプル](https://ja.wikipedia.org/wiki/ディンプル "wikilink")より発売された。
+『**Under The Moon**』（アンダー・ザ・ムーン）は、[2006年](../Page/2006年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[シュガービーンズから発売された女性向け](../Page/ウィルプラス.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。また、[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にファンディスク『**Under The Moon 〜つきいろ絵本〜**』が発売された。さらに、[2009年](../Page/2009年.md "wikilink")6月25日に[PlayStation 2への移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Under The Moon 〜クレセント〜**』が[ディンプル](https://ja.wikipedia.org/wiki/ディンプル "wikilink")より発売された。
 
 ## ストーリー
 
@@ -22,28 +22,28 @@
 ※キャストはPC版 / PS2版の順。特に表記のない場合は同様。PS2版の声優はユナンを除いてによる。
 
   - アーシェ
-    [声](../Page/声優.md "wikilink")：[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink") / [櫻井浩美](https://ja.wikipedia.org/wiki/櫻井浩美 "wikilink")
+    [声](../Page/声優.md "wikilink")：[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink") / [櫻井浩美](../Page/櫻井浩美.md "wikilink")
     本作の主人公。青み掛かった銀髪に紅い大きなリボンをしている。かなりの美少女。魔王の愛娘でありながら魔力が低く魔王を襲名できずにいる。父である魔王の溺愛のため周りに男性が居ない環境で育ってきており魔界では珍しい程に異性に対して免疫がない。純粋無垢な性格だが自分の感情に素直な為、若干我侭。
     ずっと城の外に出た事が無かった為世間知らずな一面を持つ。反面、周囲に突っ込みを入れたり、いざという時はしっかりした面も見せる。好きなものはイチゴ。実は魔王候補の双子とは過去に面識があるが二人の事は魔王から記憶操作を受けており覚えていない。またその影響の為魔力が極端に低くなってしまっている。同じ夢を見ては起きると泣いているという事が度々ある。
     見た目は少女だが実年齢は100歳以上。紅い大きなリボンには特別な思い入れがありずっとつけている。
     魔王の弱点として命を狙われる事も多かったため、それを危惧した魔王が腕のたつレニ、セイジュの二人がアーシェ付き護衛になった事が3人の出会いである。そこでレニと相思相愛になるが、魔王の逆鱗に触れ、レニ、セイジュは魔界を追放される。
   - レニ
-    声:[杉崎和哉](https://ja.wikipedia.org/wiki/杉崎和哉 "wikilink") / [谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")
+    声:[杉崎和哉](../Page/杉崎和哉.md "wikilink") / [谷山紀章](../Page/谷山紀章.md "wikilink")
     魔王候補の双子の兄。漆黒の髪に青い瞳を持つ。容姿はいいためもてるが女性に対しての態度はかなり冷たく1度肉体関係を持った女性は2度と抱かない主義。アーシェに対しても冷たく当たるが時折優しさも見せる。ツンデレ。魔王の座には興味を示さない。過去にアーシェと相思相愛の関係になるもののその事実が魔王に知れたことによって引き離され魔界を追放されている。紅いリボンは彼が彼女に送った贈り物である。
   - セイジュ
-    声：[浅野要二](https://ja.wikipedia.org/wiki/浅野要二 "wikilink") / [遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+    声：[浅野要二](../Page/浅野要二.md "wikilink") / [遊佐浩二](../Page/遊佐浩二.md "wikilink")
     魔王候補の双子の弟。青味がかった黒髪に緑の瞳を持つ。兄同様女性にもてるが一人に執着はしない。レニほど冷淡な印象はないものの、逆に普段の優しさの中に冷たさが垣間見えるなど実は兄よりずっと複雑で屈折した性格。何でも器用にこなせるが実は兄に対し激しい劣等感を持っている。レニと同じく、魔王の座には興味がない。
   - カイル
-    声：[萩道彦](https://ja.wikipedia.org/wiki/萩道彦 "wikilink") / 猫カイル：[吉田愛理](https://ja.wikipedia.org/wiki/吉田愛理 "wikilink")
+    声：[萩道彦](../Page/萩道彦.md "wikilink") / 猫カイル：[吉田愛理](../Page/吉田愛理.md "wikilink")
     アーシェの使い魔。本来は魔王の使い魔なのだが、人型をとらない事を条件に頼み込んでアーシェ付きにしてもらった。魔界では[ケット・シー](https://ja.wikipedia.org/wiki/ケット・シー "wikilink")として羽の生えた猫のような姿をしていた。しかし人間界に来てからは事情により本来の銀髪の青年の姿をしている。因みに人型になっても魔物なので羽・耳・尻尾は隠せない。性格はドジで慌て者だが気が優しく真面目。不慣れな世界に戸惑っているアーシェを常に温かく見守っている。趣味は料理。実は魔物の国では身分の高い名門の貴族出身。
   - 天宮 瀬名（あまみや せな）
-    声：[空野太陽](https://ja.wikipedia.org/wiki/空野太陽 "wikilink") / [岸尾だいすけ](../Page/岸尾だいすけ.md "wikilink")
+    声：[空野太陽](../Page/空野太陽.md "wikilink") / [岸尾だいすけ](../Page/岸尾だいすけ.md "wikilink")
     アーシェのクラスメイト。金色に近い茶髪に琥珀色の瞳。軽い性格で女の子が好きで誰にでも声をかけている。初めて会った日からアーシェを気に入りよく傍にいるため、レニやセイジュにはよく思われていない。
   - 謎の男
-    声：[安芸怜須ケン](https://ja.wikipedia.org/wiki/安芸怜須ケン "wikilink") / [浜田賢二](https://ja.wikipedia.org/wiki/浜田賢二 "wikilink")
+    声：[安芸怜須ケン](https://ja.wikipedia.org/wiki/安芸怜須ケン "wikilink") / [浜田賢二](../Page/浜田賢二.md "wikilink")
     アーシェが人間界で最初に出会った人物。黒い髪と赤い瞳を持つ吸血鬼。包容力のある豪快かつ大人な男性。アーシェの危機には助けてくれるが、その言動や正体は謎。名前は無いと言う為、アーシェ自ら**ゼロ**と名前を付ける。前作『[Love☆Drops～みらくる同居物語](https://ja.wikipedia.org/wiki/Love☆Drops_〜みらくる同居物語〜 "wikilink")』に登場のユーゴとは兄弟関係である。
   - ユナン
-    声：[プログレス](https://ja.wikipedia.org/wiki/プログレス_\(声優\) "wikilink") / [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    声：[プログレス](../Page/プログレス_\(声優\).md "wikilink") / [千葉進歩](../Page/千葉進歩.md "wikilink")
     隠しキャラとして本作に登場。悪魔だが金に近い茶色の髪。
   - 魔王
     声：[浜五郎](https://ja.wikipedia.org/wiki/浜五郎 "wikilink")
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - Under The Moon [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink") 『あの月の下で』
+  - Under The Moon [ドラマCD](../Page/ドラマCD.md "wikilink") 『あの月の下で』
       - 2007年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売、L.Field (LadyBug Field)
   - Under The Moon 主題歌マキシシングル 「Under The Moon/This Love」
       - 2007年1月26日発売、L.Field (LadyBug Field)

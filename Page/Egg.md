@@ -1,13 +1,13 @@
 > この記事は[Egg](https://ja.wikipedia.org/wiki/Egg)から翻訳されています。
 
 
-『**egg**』（エッグ）は、[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")が刊行する女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[ギャル](https://ja.wikipedia.org/wiki/ギャル "wikilink")系雑誌。
+『**egg**』（エッグ）は、[大洋図書](../Page/大洋図書.md "wikilink")が刊行する女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[ギャル](../Page/ギャル.md "wikilink")系雑誌。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、創刊。[2014年](../Page/2014年.md "wikilink")7月号でいったん休刊。[2018年](../Page/2018年.md "wikilink")、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[SNS](https://ja.wikipedia.org/wiki/SNS "wikilink")を軸に『web版egg』として復活。[2019年](../Page/2019年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、復刊号を発売\[1\]。
 
 ## 歴史
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）、[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")より創刊した。発行人は、同社でディスコ情報誌『HEAVEN'S DOOR』などを手がけた中川一晃。中川編集長は、創刊からミリオン出版が大洋図書に吸収された後も、編集長職を10年以上務め上げた。一部で、クリエイティブディレクターの[米原康正](https://ja.wikipedia.org/wiki/米原康正 "wikilink")が『egg』の創刊者となっているが、当時は外注スタッフであった\[2\]。当時の[渋谷](../Page/渋谷.md "wikilink")女子高生のリアルを切り取り、以後のギャル文化に大きな影響を与えた。なお当時は、女子高生、[ルーズソックス](https://ja.wikipedia.org/wiki/ルーズソックス "wikilink")、[コギャル](https://ja.wikipedia.org/wiki/コギャル "wikilink")、[へそ出しルック](https://ja.wikipedia.org/wiki/へそ出しルック "wikilink")、[小室サウンド](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[PHS](../Page/PHS.md "wikilink")などが流行した\[3\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）、[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")より創刊した。発行人は、同社でディスコ情報誌『HEAVEN'S DOOR』などを手がけた中川一晃。中川編集長は、創刊からミリオン出版が大洋図書に吸収された後も、編集長職を10年以上務め上げた。一部で、クリエイティブディレクターの[米原康正](https://ja.wikipedia.org/wiki/米原康正 "wikilink")が『egg』の創刊者となっているが、当時は外注スタッフであった\[2\]。当時の[渋谷](../Page/渋谷.md "wikilink")女子高生のリアルを切り取り、以後のギャル文化に大きな影響を与えた。なお当時は、女子高生、[ルーズソックス](../Page/ルーズソックス.md "wikilink")、[コギャル](https://ja.wikipedia.org/wiki/コギャル "wikilink")、[へそ出しルック](https://ja.wikipedia.org/wiki/へそ出しルック "wikilink")、[小室サウンド](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[PHS](../Page/PHS.md "wikilink")などが流行した\[3\]。
 
 [2014年](../Page/2014年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")発売の7月号で休刊となると報じられる\[4\]\[5\]。
 
@@ -17,8 +17,8 @@
 
 ## 企画
 
-  - [1996年](../Page/1996年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[HIM](https://ja.wikipedia.org/wiki/HIM_\(音楽プロジェクト\) "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、本誌と連動企画のガールズユニット**[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")**が結成され、シングル「[AS TIME GOES BY](https://ja.wikipedia.org/wiki/AS_TIME_GOES_BY "wikilink")」で[Sony Recordsよりデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、『egg』の人気[読者モデル](https://ja.wikipedia.org/wiki/読者モデル "wikilink")だったCHIKAを中心に、AKI、HIROの3人で「[deeps](https://ja.wikipedia.org/wiki/deeps "wikilink")」が結成され、シングル「Love is Real」でデビュー。
+  - [1996年](../Page/1996年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、本誌と連動企画のガールズユニット**[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")**が結成され、シングル「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY.md "wikilink")」で[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、『egg』の人気[読者モデル](../Page/読者モデル.md "wikilink")だったCHIKAを中心に、AKI、HIROの3人で「[deeps](https://ja.wikipedia.org/wiki/deeps "wikilink")」が結成され、シングル「Love is Real」でデビュー。
 
 ## モデル
 
@@ -28,9 +28,9 @@
   - [あやかてぃーん（石山彩花）](https://ja.wikipedia.org/wiki/石山彩花 "wikilink")
   - [もも（伊藤桃々）](https://ja.wikipedia.org/wiki/伊藤桃々 "wikilink")
   - [きぃりぷ（鈴木綺麗）](https://ja.wikipedia.org/wiki/鈴木綺麗 "wikilink")
-  - [あいみ（松葉愛海）](https://ja.wikipedia.org/wiki/松葉愛海 "wikilink")
+  - [あいみ（松葉愛海）](../Page/松葉愛海.md "wikilink")
   - [なぎ（高澤凪）](https://ja.wikipedia.org/wiki/高澤凪 "wikilink")
-  - [まぁみ（小田愛実）](https://ja.wikipedia.org/wiki/小田愛実 "wikilink")
+  - [まぁみ（小田愛実）](../Page/小田愛実.md "wikilink")
   - [みりちゃむ（大木美里亜）](https://ja.wikipedia.org/wiki/大木美里亜 "wikilink")
   - [ゆずは（雨宮由乙花）](https://ja.wikipedia.org/wiki/雨宮由乙花 "wikilink")
   - [ももあ（瀬戸ももあ）](https://ja.wikipedia.org/wiki/瀬戸ももあ "wikilink")
@@ -92,7 +92,7 @@
 
 ## 参考文献
 
-  - [西田善太](https://ja.wikipedia.org/wiki/西田善太 "wikilink") 編集 「GIRL'S CULTURE-ギャルが日本を救う\!?-」『[BRUTUS](https://ja.wikipedia.org/wiki/BRUTUS "wikilink")』5月1日号、[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")、2009年。
+  - [西田善太](../Page/西田善太.md "wikilink") 編集 「GIRL'S CULTURE-ギャルが日本を救う\!?-」『[BRUTUS](../Page/BRUTUS.md "wikilink")』5月1日号、[マガジンハウス](../Page/マガジンハウス.md "wikilink")、2009年。
   - **egg** 毎月1日発売
 
 ## 外部リンク

@@ -1,9 +1,9 @@
 > この記事は[1 vs. 100](https://ja.wikipedia.org/wiki/1_vs._100)から翻訳されています。
 
 
-『**1 vs. 100**』は、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")や[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など、世界各国で放送されている[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。オリジナル版は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の『**Eén Tegen Honderd**』。
+『**1 vs. 100**』は、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")や[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など、世界各国で放送されている[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。オリジナル版は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の『**Eén Tegen Honderd**』。
 
-現在、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では未放送であるが、世界各国で放送が広がりつつある。アメリカでは、[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で金曜日の午後8時に放送されていた。
+現在、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では未放送であるが、世界各国で放送が広がりつつある。アメリカでは、[NBC](../Page/NBC.md "wikilink")で金曜日の午後8時に放送されていた。
 
 ## 基本ルール
 

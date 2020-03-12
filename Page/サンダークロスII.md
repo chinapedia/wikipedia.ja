@@ -1,17 +1,17 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**サンダークロスII**』(*THUNDER CROSS II*)は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")（当時は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）の[アーケード版横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、『[サンダークロス](https://ja.wikipedia.org/wiki/サンダークロス "wikilink")』の続編（以下、前作を『I』と呼ぶ）。2017年現在、家庭用ゲーム機には未移植となっている。
+『**サンダークロスII**』(*THUNDER CROSS II*)は、[1991年](../Page/1991年.md "wikilink")に[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")（当時は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）の[アーケード版横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、『[サンダークロス](../Page/サンダークロス.md "wikilink")』の続編（以下、前作を『I』と呼ぶ）。2017年現在、家庭用ゲーム機には未移植となっている。
 
 ## 概要
 
 『I』にて殲滅したはずの敵を再び倒すことが目的となる。「O」と書かれたアイテムを取得することによりオプションが自機の上下に2つずつ（合計4つ）装着できること、そのオプションをボタン操作で間隔を自由に変えられるの『I』のシステムを踏襲しているが、本作ではオプションと自機を重ね合わせることが可能になった。
 
-『[XEXEX](https://ja.wikipedia.org/wiki/XEXEX "wikilink")』と同時期のリリースであるが、当時は『ユーズド・ゲームズ』その他で後に「シューティングゲーム冬の時代」と評された、[格闘ゲーム](https://ja.wikipedia.org/wiki/格闘ゲーム "wikilink")全盛期にあたる時期だったためあまりヒットはしなかった。
+『[XEXEX](../Page/XEXEX.md "wikilink")』と同時期のリリースであるが、当時は『ユーズド・ゲームズ』その他で後に「シューティングゲーム冬の時代」と評された、[格闘ゲーム](https://ja.wikipedia.org/wiki/格闘ゲーム "wikilink")全盛期にあたる時期だったためあまりヒットはしなかった。
 
 本作のプレイヤーの機体は1P（ブルーサンダー2）と2P（レッドサンダー2）とでは垂直尾翼の位置と枚数が異なる。1P側の機体はコックピット部分の後ろに1枚、2P側の機体は左右の補助エンジン部分に2枚付いている。
 
-本作の音楽は[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")のメタルユーキ（[斎藤幹雄](https://ja.wikipedia.org/wiki/斎藤幹雄 "wikilink")）が担当している。効果音はメタルユーキが[テクモ](../Page/テクモ.md "wikilink")在籍時代に担当した『[雷牙](https://ja.wikipedia.org/wiki/雷牙 "wikilink")』からの流用が多い。曲も本作のステージ2の曲「Kartus Part2」が『雷牙』3面の曲「Kartus」、本作のステージ4の曲「Dog Fight III」が『[スーパースターフォース](https://ja.wikipedia.org/wiki/スーパースターフォース "wikilink")』0316年・0001年の曲「Dog Fight」、『雷牙』5面の曲「Dog Fight II」のそれぞれアレンジとなっている（正確にはリアレンジではなく、「曲のコンセプトが一緒なので、同タイトルにナンバリングした」とのこと）。本作のBGMを収録したCD『KONAMI GAME MUSIC COLLECTION VOL.4』ライナーノーツでは、「グラディウスシリーズを重戦車に例えるならばサンダークロスはスポーティ・カーにあたるので違いを出した。またボスの曲に前作のイメージを取り入れた。」などと書いている。
+本作の音楽は[コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink")のメタルユーキ（[斎藤幹雄](../Page/斎藤幹雄.md "wikilink")）が担当している。効果音はメタルユーキが[テクモ](../Page/テクモ.md "wikilink")在籍時代に担当した『[雷牙](../Page/雷牙.md "wikilink")』からの流用が多い。曲も本作のステージ2の曲「Kartus Part2」が『雷牙』3面の曲「Kartus」、本作のステージ4の曲「Dog Fight III」が『[スーパースターフォース](https://ja.wikipedia.org/wiki/スーパースターフォース "wikilink")』0316年・0001年の曲「Dog Fight」、『雷牙』5面の曲「Dog Fight II」のそれぞれアレンジとなっている（正確にはリアレンジではなく、「曲のコンセプトが一緒なので、同タイトルにナンバリングした」とのこと）。本作のBGMを収録したCD『KONAMI GAME MUSIC COLLECTION VOL.4』ライナーノーツでは、「グラディウスシリーズを重戦車に例えるならばサンダークロスはスポーティ・カーにあたるので違いを出した。またボスの曲に前作のイメージを取り入れた。」などと書いている。
 
 ## パワーアップ
 
@@ -417,9 +417,9 @@ SPROUTS LAYBER
 
 ## 関連作品
 
-  - [スペースマンボウ](https://ja.wikipedia.org/wiki/スペースマンボウ "wikilink") - 前作の移植作として企画されたが、都合上ほぼ別システムになった[MSX2](../Page/MSX2.md "wikilink")版シューティング。当ゲームのボスの攻撃が一部、本作に流用された。
+  - [スペースマンボウ](../Page/スペースマンボウ.md "wikilink") - 前作の移植作として企画されたが、都合上ほぼ別システムになった[MSX2](../Page/MSX2.md "wikilink")版シューティング。当ゲームのボスの攻撃が一部、本作に流用された。
   - [セクシーパロディウス](https://ja.wikipedia.org/wiki/セクシーパロディウス "wikilink") - 本作の1面BGM"Air Battle = THUNDER CROSS II"の一部がスペシャルステージBGMとして用いられている。さらに同ステージのボス「セクシー成人」が本作4面のボス「Dinosaur Jr.」と酷似した攻撃をしてくる。
-  - [オトメディウス](https://ja.wikipedia.org/wiki/オトメディウス "wikilink")G - ダウンロードコンテンツの1つであるBGM集「エモン・5パック」にて本作の一部のBGMがアレンジされて使用されているほか、メタルユーキもアレンジャーとして参加している。
+  - [オトメディウス](../Page/オトメディウス.md "wikilink")G - ダウンロードコンテンツの1つであるBGM集「エモン・5パック」にて本作の一部のBGMがアレンジされて使用されているほか、メタルユーキもアレンジャーとして参加している。
 
 ## 外部リンク
 

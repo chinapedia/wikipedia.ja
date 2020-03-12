@@ -3,12 +3,12 @@
 
 **RiRi**（りり、[1988年](../Page/1988年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+[東京都](../Page/東京都.md "wikilink")出身。
 
 ## プロフィール
 
-  - [身長](https://ja.wikipedia.org/wiki/身長 "wikilink")：153cm
-  - [スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：B 85cm（Fカップ）、W 57cm、H 83cm　
+  - [身長](../Page/身長.md "wikilink")：153cm
+  - [スリーサイズ](../Page/スリーサイズ.md "wikilink")：B 85cm（Fカップ）、W 57cm、H 83cm　
   - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
   - [星座](../Page/星座.md "wikilink")：[みずがめ座](../Page/みずがめ座.md "wikilink")
   - 趣味：[カラオケ](../Page/カラオケ.md "wikilink")、[ショッピング](https://ja.wikipedia.org/wiki/ショッピング "wikilink")
@@ -16,18 +16,18 @@
 
 ## 略歴
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月に『ザ・デビュー\!\!18歳の好奇心』で[クリスタル映像](https://ja.wikipedia.org/wiki/クリスタル映像 "wikilink")よりAV[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月に『初セル』で[MOODYZ](https://ja.wikipedia.org/wiki/MOODYZ "wikilink")よりセルデビュー。
+  - [2006年](../Page/2006年.md "wikilink")10月に『ザ・デビュー\!\!18歳の好奇心』で[クリスタル映像](../Page/クリスタル映像.md "wikilink")よりAV[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")3月に『初セル』で[MOODYZ](../Page/MOODYZ.md "wikilink")よりセルデビュー。
 
 ## 作品
 
 ### アダルトビデオ
 
-  - ザ・デビュー\!\!18歳の好奇心 RiRi（2006年10月27日、[クリスタル映像](https://ja.wikipedia.org/wiki/クリスタル映像 "wikilink")）
+  - ザ・デビュー\!\!18歳の好奇心 RiRi（2006年10月27日、[クリスタル映像](../Page/クリスタル映像.md "wikilink")）
   - 妹なのに痴女なんです RiRi（2006年11月24日、クリスタル映像）
   - コスプレ召使い RiRi（2006年12月22日、クリスタル映像）
   - 変態志願 RiRi（2007年1月26日、クリスタル映像）
-  - 初セル（2007年3月1日、[MOODYZ](https://ja.wikipedia.org/wiki/MOODYZ "wikilink")）
+  - 初セル（2007年3月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）
   - 愛撫と濃厚セックス（2007年4月13日、MOODYZ）
   - 極10人乱交（2007年5月13日、MOODYZ）
   - 真性中出し（2007年6月13日、MOODYZ）

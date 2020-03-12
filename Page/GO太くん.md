@@ -1,15 +1,15 @@
 > この記事は[GO](https://ja.wikipedia.org/wiki/GO)から翻訳されています。
 
 
-**GO太くん**（ごーたくん）は、[五稜郭タワー](https://ja.wikipedia.org/wiki/五稜郭タワー "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")の[公式](../Page/公式.md "wikilink")イメージ[キャラクター](../Page/キャラクター.md "wikilink")。
+**GO太くん**（ごーたくん）は、[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")の[公式](../Page/公式.md "wikilink")イメージ[キャラクター](../Page/キャラクター.md "wikilink")。
 
 ## 概要
 
-  - 新[五稜郭タワー](https://ja.wikipedia.org/wiki/五稜郭タワー "wikilink")開業を記念して、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")のグランドオープンにあわせてデビューしたものである。
-  - 身体は新五稜郭タワーの形を擬人化した風貌で、頭頂部は展望台と同じ五角形をしており[避雷針](https://ja.wikipedia.org/wiki/避雷針 "wikilink")がついている。
+  - 新[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")開業を記念して、[2006年](../Page/2006年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")のグランドオープンにあわせてデビューしたものである。
+  - 身体は新五稜郭タワーの形を擬人化した風貌で、頭頂部は展望台と同じ五角形をしており[避雷針](../Page/避雷針.md "wikilink")がついている。
   - 2006年の4月から5月にかけて全国からデザインを公募、応募総数644点の中から最優秀賞を決定。
   - デザイン公募の最優秀賞には、新潟県在住の方のデザインが選ばれる。
-  - 「GO太くん」の愛称は地元の[函館市](../Page/函館市.md "wikilink")、[北斗市](https://ja.wikipedia.org/wiki/北斗市 "wikilink")、[七飯町](https://ja.wikipedia.org/wiki/七飯町 "wikilink")の小学生から募集。
+  - 「GO太くん」の愛称は地元の[函館市](../Page/函館市.md "wikilink")、[北斗市](../Page/北斗市.md "wikilink")、[七飯町](../Page/七飯町.md "wikilink")の小学生から募集。
   - 愛称は、応募総数110点の中から函館市在住の小学4年生によるものが選ばれる。
   - 愛称の意味は、GOはレッツゴーの「ゴー」と五稜郭の「ご」、「太」はタワーの「タ」。
   - オリジナルグッズは、五稜郭タワー売店と五稜郭タワー公式サイトのみで発売中。
@@ -20,47 +20,47 @@
 ## プロフィール
 
   - 名前：GO太くん
-  - 生年月日：（ちなみに同日は[五稜郭タワー](https://ja.wikipedia.org/wiki/五稜郭タワー "wikilink")の創業記念日）
+  - 生年月日：（ちなみに同日は[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")の創業記念日）
   - 性別：男の子
   - 身長：107メートル
   - 体重：1,200トン
   - 性格：陽気で明るい働き者
-  - チャームポイント：頭の上にある[避雷針](https://ja.wikipedia.org/wiki/避雷針 "wikilink")と[航空灯](https://ja.wikipedia.org/wiki/航空灯 "wikilink")
+  - チャームポイント：頭の上にある[避雷針](../Page/避雷針.md "wikilink")と[航空灯](https://ja.wikipedia.org/wiki/航空灯 "wikilink")
   - 趣味：[タワー](https://ja.wikipedia.org/wiki/タワー "wikilink")めぐり・カフェを楽しむ・[五稜郭](../Page/五稜郭.md "wikilink")と[函館市](../Page/函館市.md "wikilink")街の展望
   - 特技：[LED](https://ja.wikipedia.org/wiki/LED "wikilink")で時報を知らせること
   - 好きなタイプ：明るい人
-  - 好きな曲：[星に願いを](https://ja.wikipedia.org/wiki/星に願いを "wikilink")
+  - 好きな曲：[星に願いを](../Page/星に願いを.md "wikilink")
   - 好きな食べ物：[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")
   - 好きな言葉：まごころ
-  - 憧れの人：[武田斐三郎](https://ja.wikipedia.org/wiki/武田斐三郎 "wikilink")
+  - 憧れの人：[武田斐三郎](../Page/武田斐三郎.md "wikilink")
   - お友達：
-      - [テレビ父さん](https://ja.wikipedia.org/wiki/テレビ父さん "wikilink")（[さっぽろテレビ塔](../Page/さっぽろテレビ塔.md "wikilink")）
-      - [ぽ〜とくん](https://ja.wikipedia.org/wiki/ぽ〜とくん "wikilink")（[千葉ポートタワー](https://ja.wikipedia.org/wiki/千葉ポートタワー "wikilink")）
-      - [ノッポン](https://ja.wikipedia.org/wiki/ノッポン "wikilink")ブラザーズ（[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")）
-      - [のっぴ⤴](https://ja.wikipedia.org/wiki/のっぴ⤴ "wikilink")（[東山スカイタワー](https://ja.wikipedia.org/wiki/東山スカイタワー "wikilink")）
-      - [ミズリン](https://ja.wikipedia.org/wiki/ミズリン "wikilink")（[ツインアーチ138](https://ja.wikipedia.org/wiki/ツインアーチ138 "wikilink")）
+      - [テレビ父さん](../Page/テレビ父さん.md "wikilink")（[さっぽろテレビ塔](../Page/さっぽろテレビ塔.md "wikilink")）
+      - [ぽ〜とくん](https://ja.wikipedia.org/wiki/ぽ〜とくん "wikilink")（[千葉ポートタワー](../Page/千葉ポートタワー.md "wikilink")）
+      - [ノッポン](../Page/ノッポン.md "wikilink")ブラザーズ（[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")）
+      - [のっぴ⤴](https://ja.wikipedia.org/wiki/のっぴ⤴ "wikilink")（[東山スカイタワー](../Page/東山スカイタワー.md "wikilink")）
+      - [ミズリン](https://ja.wikipedia.org/wiki/ミズリン "wikilink")（[ツインアーチ138](../Page/ツインアーチ138.md "wikilink")）
       - [ビリケン](../Page/ビリケン.md "wikilink")さん（[通天閣](../Page/通天閣.md "wikilink")）
-      - [たわわちゃん](https://ja.wikipedia.org/wiki/たわわちゃん "wikilink")（[京都タワー](https://ja.wikipedia.org/wiki/京都タワー "wikilink")）
-      - [キャプテンタワー君](https://ja.wikipedia.org/wiki/キャプテンタワー君 "wikilink")（[神戸ポートタワー](https://ja.wikipedia.org/wiki/神戸ポートタワー "wikilink")）
+      - [たわわちゃん](../Page/たわわちゃん.md "wikilink")（[京都タワー](../Page/京都タワー.md "wikilink")）
+      - [キャプテンタワー君](https://ja.wikipedia.org/wiki/キャプテンタワー君 "wikilink")（[神戸ポートタワー](../Page/神戸ポートタワー.md "wikilink")）
       - [そららちゃん](https://ja.wikipedia.org/wiki/そららちゃん "wikilink")（[空中庭園展望台](https://ja.wikipedia.org/wiki/空中庭園展望台 "wikilink")）
-      - [フータくん](https://ja.wikipedia.org/wiki/フータくん "wikilink")（[福岡タワー](https://ja.wikipedia.org/wiki/福岡タワー "wikilink")）
-      - [タワーくん](https://ja.wikipedia.org/wiki/タワーくん "wikilink")（プレイパーク[ゴールドタワー](https://ja.wikipedia.org/wiki/ゴールドタワー "wikilink")）
+      - [フータくん](../Page/フータくん.md "wikilink")（[福岡タワー](../Page/福岡タワー.md "wikilink")）
+      - [タワーくん](https://ja.wikipedia.org/wiki/タワーくん "wikilink")（プレイパーク[ゴールドタワー](../Page/ゴールドタワー.md "wikilink")）
       - [ゆめたん](https://ja.wikipedia.org/wiki/ゆめたん "wikilink")（[海峡ゆめタワー](https://ja.wikipedia.org/wiki/海峡ゆめタワー "wikilink")）
       - [トリピー](https://ja.wikipedia.org/wiki/トリピー "wikilink")（[夢みなとタワー](https://ja.wikipedia.org/wiki/夢みなとタワー "wikilink")）
-      - [別府三太郎](https://ja.wikipedia.org/wiki/別府三太郎 "wikilink")（[別府タワー](https://ja.wikipedia.org/wiki/別府タワー "wikilink")）
+      - [別府三太郎](https://ja.wikipedia.org/wiki/別府三太郎 "wikilink")（[別府タワー](../Page/別府タワー.md "wikilink")）
   - 夢：[タワー](https://ja.wikipedia.org/wiki/タワー "wikilink")界のスターになる
-  - 座右の銘：[一期一会](https://ja.wikipedia.org/wiki/一期一会 "wikilink")
-  - 好きな場所：エレベーターホールとか[アトリウム](https://ja.wikipedia.org/wiki/アトリウム "wikilink")
+  - 座右の銘：[一期一会](../Page/一期一会.md "wikilink")
+  - 好きな場所：エレベーターホールとか[アトリウム](../Page/アトリウム.md "wikilink")
 
 ## 主なメディア・イベント出演
 
 **2012年**
 
-  - [12月3日](../Page/12月3日.md "wikilink") - 放送された[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")の番組「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」の「長崎VS函館の夜景戦争　村上とマツコに函館市民が夜景を見せたいと言っている件」で、[函館山](https://ja.wikipedia.org/wiki/函館山 "wikilink")からの中継（ロケ）という形でGO太くんが出演。\[1\]
+  - [12月3日](../Page/12月3日.md "wikilink") - 放送された[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")の番組「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」の「長崎VS函館の夜景戦争　村上とマツコに函館市民が夜景を見せたいと言っている件」で、[函館山](../Page/函館山.md "wikilink")からの中継（ロケ）という形でGO太くんが出演。\[1\]
 
 **2013年**
 
-  - [10月26日](../Page/10月26日.md "wikilink")〜[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - 苫小牧青年会議所創立60周年イベント「北海道ご当地サミットinとまこまい」に参加。\[2\]
+  - [10月26日](../Page/10月26日.md "wikilink")〜[10月27日](../Page/10月27日.md "wikilink") - 苫小牧青年会議所創立60周年イベント「北海道ご当地サミットinとまこまい」に参加。\[2\]
 
 **2014年**
 
@@ -68,9 +68,9 @@
 
 **2016年**
 
-  - [1月30日](../Page/1月30日.md "wikilink") - 放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の番組「北陸・青森・函館へ\!パパママ&女子会の旅」の「温泉満喫の旅★女子会:青森・函館　女磨きの旅」で、[五稜郭タワー](https://ja.wikipedia.org/wiki/五稜郭タワー "wikilink")の展望台にてＧＯ太くんが、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[杉原杏璃](https://ja.wikipedia.org/wiki/杉原杏璃 "wikilink")と出演。\[4\]
-  - [3月3日](../Page/3月3日.md "wikilink")〜[3月4日](../Page/3月4日.md "wikilink") - [そごう徳島店](https://ja.wikipedia.org/wiki/そごう徳島店 "wikilink")「春の北海道物産展」にＧＯ太くんが登場。\[5\]
-  - [3月11日](../Page/3月11日.md "wikilink")〜[3月13日](../Page/3月13日.md "wikilink") - 公益社団法人[青森県観光連盟](https://ja.wikipedia.org/wiki/青森県観光連盟 "wikilink")主催のイベント「つながる青森・みなみ北海道フェア in [アスパム](https://ja.wikipedia.org/wiki/青森県観光物産館アスパム "wikilink")」にＧＯ太くんが、あおもり観光マスコットキャラクターの[いくべぇ](https://ja.wikipedia.org/wiki/いくべぇ "wikilink")と一緒に登場。\[6\]
+  - [1月30日](../Page/1月30日.md "wikilink") - 放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の番組「北陸・青森・函館へ\!パパママ&女子会の旅」の「温泉満喫の旅★女子会:青森・函館　女磨きの旅」で、[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")の展望台にてＧＯ太くんが、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[杉原杏璃](../Page/杉原杏璃.md "wikilink")と出演。\[4\]
+  - [3月3日](../Page/3月3日.md "wikilink")〜[3月4日](../Page/3月4日.md "wikilink") - [そごう徳島店](../Page/そごう徳島店.md "wikilink")「春の北海道物産展」にＧＯ太くんが登場。\[5\]
+  - [3月11日](../Page/3月11日.md "wikilink")〜[3月13日](../Page/3月13日.md "wikilink") - 公益社団法人[青森県観光連盟](https://ja.wikipedia.org/wiki/青森県観光連盟 "wikilink")主催のイベント「つながる青森・みなみ北海道フェア in [アスパム](../Page/青森県観光物産館アスパム.md "wikilink")」にＧＯ太くんが、あおもり観光マスコットキャラクターの[いくべぇ](https://ja.wikipedia.org/wiki/いくべぇ "wikilink")と一緒に登場。\[6\]
   - [6月26日](../Page/6月26日.md "wikilink") - [交野市](../Page/交野市.md "wikilink")おりひめの駅運営委員会主催「交野いきいきマルシェおりひめの駅 with キャラパ in KATANO」にＧＯ太くんが登場。\[7\]
   - [10月10日](../Page/10月10日.md "wikilink") - [青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")文化観光交流施設・[ねぶたの家ワ・ラッセ主催](https://ja.wikipedia.org/wiki/ねぶたの家_ワ・ラッセ "wikilink")「あおもりマスコットキャラ 秋の体育祭 in ワ・ラッセ」に特別ゲストとして登場。\[8\]
 

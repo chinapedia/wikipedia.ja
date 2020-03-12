@@ -1,15 +1,15 @@
 > この記事は[DRAGON QUEST IV --](https://ja.wikipedia.org/wiki/DRAGON_QUEST_IV_--)から翻訳されています。
 
 
-『**DRAGON QUEST IV外伝 -地獄の迷宮-**』（ドラゴンクエストフォーがいでん じごくのめいきゅう）は、原作 - [三条陸](https://ja.wikipedia.org/wiki/三条陸 "wikilink")、漫画 - [稲田浩司](../Page/稲田浩司.md "wikilink")、監修 - [堀井雄二](../Page/堀井雄二.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[集英社](../Page/集英社.md "wikilink")『[月刊少年ジャンプ](https://ja.wikipedia.org/wiki/月刊少年ジャンプ "wikilink")』の[2001年](../Page/2001年.md "wikilink")12月号と[2002年](../Page/2002年.md "wikilink")1月号に掲載された。前編と後編による全2話。
+『**DRAGON QUEST IV外伝 -地獄の迷宮-**』（ドラゴンクエストフォーがいでん じごくのめいきゅう）は、原作 - [三条陸](../Page/三条陸.md "wikilink")、漫画 - [稲田浩司](../Page/稲田浩司.md "wikilink")、監修 - [堀井雄二](../Page/堀井雄二.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[集英社](../Page/集英社.md "wikilink")『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』の[2001年](../Page/2001年.md "wikilink")12月号と[2002年](../Page/2002年.md "wikilink")1月号に掲載された。前編と後編による全2話。
 
-[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現・[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink")』をもとにした[外伝](https://ja.wikipedia.org/wiki/外伝 "wikilink")作品である。
+[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現・[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink")』をもとにした[外伝](../Page/外伝.md "wikilink")作品である。
 
 ## 概要
 
-『ドラゴンクエストIV 導かれし者たち』の[PlayStation版の発売に合わせ](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")\[1\]、1989年から1996年にかけて『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』に連載され人気を博した『[DRAGON QUEST -ダイの大冒険-](https://ja.wikipedia.org/wiki/DRAGON_QUEST_-ダイの大冒険- "wikilink")』の作者である両名によって描かれた。
+『ドラゴンクエストIV 導かれし者たち』の[PlayStation版の発売に合わせ](../Page/PlayStation_\(ゲーム機\).md "wikilink")\[1\]、1989年から1996年にかけて『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』に連載され人気を博した『[DRAGON QUEST -ダイの大冒険-](../Page/DRAGON_QUEST_-ダイの大冒険-.md "wikilink")』の作者である両名によって描かれた。
 
-原作の主人公（勇者）たちが第5章でアッテムトの町を訪れる時期に相当する物語だが、本作の主人公は勇者たちとは別にその世界を冒険している人物である。主人公のギィンと相棒のプラナは、のちに『月刊少年ジャンプ』2002年4月号より連載が開始される三条・稲田の作品『[冒険王ビィト](https://ja.wikipedia.org/wiki/冒険王ビィト "wikilink")』の主人公[ビィトと](https://ja.wikipedia.org/wiki/冒険王ビィトの登場人物#ビィト "wikilink")、そのパートナーである[ポアラの雛型となっている](https://ja.wikipedia.org/wiki/冒険王ビィトの登場人物#ポアラ "wikilink")\[2\]。
+原作の主人公（勇者）たちが第5章でアッテムトの町を訪れる時期に相当する物語だが、本作の主人公は勇者たちとは別にその世界を冒険している人物である。主人公のギィンと相棒のプラナは、のちに『月刊少年ジャンプ』2002年4月号より連載が開始される三条・稲田の作品『[冒険王ビィト](../Page/冒険王ビィト.md "wikilink")』の主人公[ビィトと](https://ja.wikipedia.org/wiki/冒険王ビィトの登場人物#ビィト "wikilink")、そのパートナーである[ポアラの雛型となっている](https://ja.wikipedia.org/wiki/冒険王ビィトの登場人物#ポアラ "wikilink")\[2\]。
 
 ## モンスターバスター
 
@@ -17,7 +17,7 @@
 
 モンスターバスターには誰でもなることができる。バスターの証である「魔石」で倒したモンスターを転送することでそのモンスターに応じた経験値やゴールドを得ることができ、経験値が一定の値まで溜まるとレベルが上がる。基本的にレベルが高いほど強い戦士と言えるが、なかには低レベルでも高レベルの者より高い実力を持つ者も存在する。システムを取り仕切っている者は作中では明言されていないが、謎の人物がギィンの戦闘記録を教会で入手する場面がある。
 
-『ダイの大冒険』本編中ではオミットしていた「[経験値](../Page/経験値.md "wikilink")・[レベル](https://ja.wikipedia.org/wiki/レベル_\(ロールプレイングゲーム\) "wikilink")」と「敵を倒してゴールドを獲る」概念を明文化したシステムである\[3\]。
+『ダイの大冒険』本編中ではオミットしていた「[経験値](../Page/経験値.md "wikilink")・[レベル](../Page/レベル_\(ロールプレイングゲーム\).md "wikilink")」と「敵を倒してゴールドを獲る」概念を明文化したシステムである\[3\]。
 
 ## ストーリー
 
@@ -45,7 +45,7 @@
 
 集英社刊、ジャンプ・コミックス。2002年8月7日初版、ISBN 4-08-873309-6。
 
-三条・稲田両名の1990年の作品である『[DQI秘伝 竜王バリバリ隊](https://ja.wikipedia.org/wiki/DQI秘伝_竜王バリバリ隊 "wikilink")』も同時に収録している。
+三条・稲田両名の1990年の作品である『[DQI秘伝 竜王バリバリ隊](../Page/DQI秘伝_竜王バリバリ隊.md "wikilink")』も同時に収録している。
 
 その後、『ドラゴンクエスト』誕生25周年を記念して[2011年](../Page/2011年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に集英社ジャンプリミックスから発売された『ドラゴンクエスト作品集Vol.1 地獄の迷宮』に両作品とも再録されている。
 

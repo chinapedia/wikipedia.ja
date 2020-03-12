@@ -1,9 +1,9 @@
 > この記事は[NOVAde!\?](https://ja.wikipedia.org/wiki/NOVAde!\?)から翻訳されています。
 
 
-『**NOVAうさぎのゲームで留学\!?**』（のばうさぎのゲームでりゅうがく）は、[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")稼働開始。
+『**NOVAうさぎのゲームで留学\!?**』（のばうさぎのゲームでりゅうがく）は、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")稼働開始。
 
-本ゲームのジャンルは、ミニゲームを通して楽しみながら英語の学習ができる"[エデュテイメント](https://ja.wikipedia.org/wiki/エデュテイメント "wikilink")ゲーム"。英会話スクール大手の[NOVA](https://ja.wikipedia.org/wiki/NOVA "wikilink")とコラボレートしており、問題の監修のみならず、同社の人気キャラクター「[NOVAうさぎ](https://ja.wikipedia.org/wiki/NOVAうさぎ "wikilink")」がタイトルに採用されたりゲーム中の随所に登場する。
+本ゲームのジャンルは、ミニゲームを通して楽しみながら英語の学習ができる"[エデュテイメント](https://ja.wikipedia.org/wiki/エデュテイメント "wikilink")ゲーム"。英会話スクール大手の[NOVA](../Page/NOVA.md "wikilink")とコラボレートしており、問題の監修のみならず、同社の人気キャラクター「[NOVAうさぎ](../Page/NOVAうさぎ.md "wikilink")」がタイトルに採用されたりゲーム中の随所に登場する。
 
 ## 筐体概要
 
@@ -63,11 +63,11 @@
 
 ## その他
 
-  - 2006年2月の[AOUアミューズメントエキスポにて初お披露目](https://ja.wikipedia.org/wiki/全日本アミューズメント施設営業者協会連合会 "wikilink")。その時のタイトルは「ゲーセン留学」（仮称）だった。その後2回の[ロケテスト](https://ja.wikipedia.org/wiki/ロケテスト "wikilink")を経て同年10月の正式稼働に至る。
+  - 2006年2月の[AOUアミューズメントエキスポにて初お披露目](../Page/全日本アミューズメント施設営業者協会連合会.md "wikilink")。その時のタイトルは「ゲーセン留学」（仮称）だった。その後2回の[ロケテスト](https://ja.wikipedia.org/wiki/ロケテスト "wikilink")を経て同年10月の正式稼働に至る。
   - e-AMUSEMENT PASSは、最初の認証さえ終わればしまっても問題ない。またコンティニュー時に再び認証を行う必要もない。
   - 初期出荷時の問題数は5,000問以上とのこと。稼働後も随時配信が行われている。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")には本作の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版である「NOVAうさぎのゲームde留学\!?DS」が発売された。ゲーム内容は業務用に準ずるが、低年齢層にもアピールするために、より難易度を下げた「こどもモード」等のオリジナル要素も用意される。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")に[NOVA](https://ja.wikipedia.org/wiki/NOVA "wikilink")会社側の経営破綻により、アーケード版の稼動が自粛されている所が多い。また、DS版の販売も自粛している所があり、発売から間もないが既に[レア](https://ja.wikipedia.org/wiki/レア "wikilink")商品になりかかっている。
+  - [2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")には本作の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版である「NOVAうさぎのゲームde留学\!?DS」が発売された。ゲーム内容は業務用に準ずるが、低年齢層にもアピールするために、より難易度を下げた「こどもモード」等のオリジナル要素も用意される。
+  - [2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に[NOVA](../Page/NOVA.md "wikilink")会社側の経営破綻により、アーケード版の稼動が自粛されている所が多い。また、DS版の販売も自粛している所があり、発売から間もないが既に[レア](https://ja.wikipedia.org/wiki/レア "wikilink")商品になりかかっている。
 
 ## 脚注
 
@@ -83,4 +83,4 @@
   -
 [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:E-AMUSEMENT](https://ja.wikipedia.org/wiki/Category:E-AMUSEMENT "wikilink") [Category:サービスを終了したオンラインゲーム](https://ja.wikipedia.org/wiki/Category:サービスを終了したオンラインゲーム "wikilink") [Category:ミニゲーム集](https://ja.wikipedia.org/wiki/Category:ミニゲーム集 "wikilink") [Category:2006年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアーケードゲーム "wikilink") [Category:英語教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:英語教育ソフトウェア "wikilink")
 
-1.  2007年10月29日に、『[オトメディウス](https://ja.wikipedia.org/wiki/オトメディウス "wikilink")』へのコンバージョンキットがリリースされた。
+1.  2007年10月29日に、『[オトメディウス](../Page/オトメディウス.md "wikilink")』へのコンバージョンキットがリリースされた。

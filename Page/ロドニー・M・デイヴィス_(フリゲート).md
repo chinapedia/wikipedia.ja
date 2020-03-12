@@ -14,13 +14,13 @@
 | その後:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | モットー:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-**ロドニー・M・デイヴィス** (, FFG-60) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink")の50番艦。艦名は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")での英雄的行動で戦死し、[名誉勲章](../Page/名誉勲章.md "wikilink")を受章した[ロドニー・M・デイヴィス](https://ja.wikipedia.org/wiki/ロドニー・M・デイヴィス "wikilink")[軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")(1942 - 1967)に因む。
+**ロドニー・M・デイヴィス** (, FFG-60) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のミサイル[フリゲート](../Page/フリゲート.md "wikilink")。[オリバー・ハザード・ペリー級ミサイルフリゲート](../Page/オリバー・ハザード・ペリー級ミサイルフリゲート.md "wikilink")の50番艦。艦名は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")での英雄的行動で戦死し、[名誉勲章](../Page/名誉勲章.md "wikilink")を受章した[ロドニー・M・デイヴィス](https://ja.wikipedia.org/wiki/ロドニー・M・デイヴィス "wikilink")[軍曹](../Page/軍曹.md "wikilink")(1942 - 1967)に因む。
 
 ## 艦歴
 
 ロドニー・M・デイヴィスは[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンペドロの](https://ja.wikipedia.org/wiki/サンペドロ_\(カリフォルニア州\) "wikilink")[トッド・パシフィック造船所](../Page/トッド・パシフィック造船所.md "wikilink")で1982年10月28日に起工する。1986年1月11日に進水し、1987年5月9日に就役した。
 
-ロドニー・M・デイヴィスは第15駆逐戦隊に配属され、[横須賀を母港とした](https://ja.wikipedia.org/wiki/横須賀港 "wikilink")。2005年の時点でロドニー・M・デイヴィスは[ワシントン州](../Page/ワシントン州.md "wikilink")[エヴェレットを母港とし](https://ja.wikipedia.org/wiki/エバレット_\(ワシントン州\) "wikilink")、第9駆逐戦隊に所属した。2015年1月23日退役。
+ロドニー・M・デイヴィスは第15駆逐戦隊に配属され、[横須賀を母港とした](../Page/横須賀港.md "wikilink")。2005年の時点でロドニー・M・デイヴィスは[ワシントン州](../Page/ワシントン州.md "wikilink")[エヴェレットを母港とし](../Page/エバレット_\(ワシントン州\).md "wikilink")、第9駆逐戦隊に所属した。2015年1月23日退役。
 
 ## 関連項目
 

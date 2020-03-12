@@ -1,7 +1,7 @@
 > この記事は[PSYENCE](https://ja.wikipedia.org/wiki/PSYENCE)から翻訳されています。
 
 
-『**PSYENCE**』（サイエンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")のソロ2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。1996年9月2日に発売された。
+『**PSYENCE**』（サイエンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")のソロ2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。1996年9月2日に発売された。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 初回盤はケース入りで[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")、[グリーン](../Page/緑.md "wikilink")、[イエローの](../Page/黄色.md "wikilink")3パターンがリリースされた。
+  - 初回盤はケース入りで[ピンク](../Page/ピンク.md "wikilink")、[グリーン](../Page/緑.md "wikilink")、[イエローの](../Page/黄色.md "wikilink")3パターンがリリースされた。
 
 <!-- end list -->
 
@@ -19,11 +19,11 @@
 
 ## 参加ミュージシャン
 
-  - hide - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [I.N.A](https://ja.wikipedia.org/wiki/I.N.A "wikilink") - [プログラミング](https://ja.wikipedia.org/wiki/打ち込み "wikilink")
+  - hide - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [I.N.A](../Page/I.N.A.md "wikilink") - [プログラミング](https://ja.wikipedia.org/wiki/打ち込み "wikilink")
   - 金内孝史 - ベース (\#3, \#10)
-  - [宮脇“JOE”知史](https://ja.wikipedia.org/wiki/宮脇“JOE”知史 "wikilink") ([ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")) - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - 柳田英輝 ([ZEPPET STORE](https://ja.wikipedia.org/wiki/ZEPPET_STORE "wikilink")) - ドラムス (\#7, \#11)
+  - [宮脇“JOE”知史](../Page/宮脇“JOE”知史.md "wikilink") ([ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")) - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - 柳田英輝 ([ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink")) - ドラムス (\#7, \#11)
   - エリック・ウェストフォール - [ピアノ](../Page/ピアノ.md "wikilink")
 
 ## 出典

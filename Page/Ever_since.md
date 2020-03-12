@@ -14,11 +14,11 @@
 
 1.  **ever since** (6:03)
       -
-        作曲：奥田俊作 / 編曲：[松岡モトキ](https://ja.wikipedia.org/wiki/松岡モトキ "wikilink")
-        フジテレビ系ドラマ「[ビッグマネー\!〜浮世の沙汰は株しだい〜](https://ja.wikipedia.org/wiki/ビッグマネー!〜浮世の沙汰は株しだい〜 "wikilink")」主題歌
+        作曲：奥田俊作 / 編曲：[松岡モトキ](../Page/松岡モトキ.md "wikilink")
+        フジテレビ系ドラマ「[ビッグマネー\!〜浮世の沙汰は株しだい〜](../Page/ビッグマネー!〜浮世の沙汰は株しだい〜.md "wikilink")」主題歌
 2.  **How do you do?** (4:45)
       -
-        作曲：[Shine](https://ja.wikipedia.org/wiki/原田真二 "wikilink") / 編曲：Shine・Taigo Sato・[Naoki Tanabe](https://ja.wikipedia.org/wiki/NAOKI-T "wikilink")
+        作曲：[Shine](../Page/原田真二.md "wikilink") / 編曲：Shine・Taigo Sato・[Naoki Tanabe](../Page/NAOKI-T.md "wikilink")
         [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「パナップ」CMソング
 3.  **ever since (backtracks)** (6:00)
 

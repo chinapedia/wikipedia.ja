@@ -1,7 +1,7 @@
 > この記事は[Sequence Palladium](https://ja.wikipedia.org/wiki/Sequence_Palladium)から翻訳されています。
 
 
-『**Sequence Palladium**』（シークエンス・パラディウム）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[工画堂スタジオ](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")より発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[戦術シミュレーションゲームである](../Page/ウォー・シミュレーションゲーム.md "wikilink")。開発はうさぎさんちーむによる。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月に[XP対応版で](../Page/Microsoft_Windows_XP.md "wikilink")、サントラCDやイラスト集などの特典が多数同梱されている「シークエンス・パラディウム愛蔵版」が発売された。**「シーパラ」「SP」**と略して称される事もある。関連商品として、デスクトップアクセサリーとサウンドウェアを収録したシークエンス･パラディウム マニアキットがある。
+『**Sequence Palladium**』（シークエンス・パラディウム）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[戦術シミュレーションゲームである](../Page/ウォー・シミュレーションゲーム.md "wikilink")。開発はうさぎさんちーむによる。[2006年](../Page/2006年.md "wikilink")4月に[XP対応版で](../Page/Microsoft_Windows_XP.md "wikilink")、サントラCDやイラスト集などの特典が多数同梱されている「シークエンス・パラディウム愛蔵版」が発売された。**「シーパラ」「SP」**と略して称される事もある。関連商品として、デスクトップアクセサリーとサウンドウェアを収録したシークエンス･パラディウム マニアキットがある。
 
 ## ゲームシステム
 
@@ -23,11 +23,11 @@
 
   - パラスィート（愛称/属性）※パラスィートのみ声あり
 
-:\* ジルメア･チェルトリーゼ（ジル/風）: [菊池志穂](https://ja.wikipedia.org/wiki/菊池志穂 "wikilink")
+:\* ジルメア･チェルトリーゼ（ジル/風）: [菊池志穂](../Page/菊池志穂.md "wikilink")
 
 :\* ラシュペル･フォン･グラメール（ラシュペル/火）：[野上ゆかな](../Page/ゆかな.md "wikilink")
 
-:\* ドナメール･クラスカエン（ドナ/地）: [冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+:\* ドナメール･クラスカエン（ドナ/地）: [冬馬由美](../Page/冬馬由美.md "wikilink")
 
 :\* ユリエル･エイブラム（ユリエル/火）: [大谷育江](../Page/大谷育江.md "wikilink")
 
@@ -37,7 +37,7 @@
 
 :\* エレミア･クロスターノイブルク（エレミー/水）: [岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")
 
-:\* ティファティス･エペリッド（ティファ/地）: [吉田愛理](https://ja.wikipedia.org/wiki/吉田愛理 "wikilink")
+:\* ティファティス･エペリッド（ティファ/地）: [吉田愛理](../Page/吉田愛理.md "wikilink")
 
 :\* クリスティン･ファークロス（クリスティン/風）: [石毛佐和](../Page/石毛佐和.md "wikilink")
 
@@ -45,15 +45,15 @@
 
 :\* アトワイス･マーベランシャ（アトワイス/水）: [高宮翔子](https://ja.wikipedia.org/wiki/高宮翔子 "wikilink")
 
-:\* キッス･フレイピット（キッス/火）: [今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink")
+:\* キッス･フレイピット（キッス/火）: [今井由香](../Page/今井由香.md "wikilink")
 
-:\* リナリー･ピュアハート（リナリー/風）: [岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥 "wikilink")
+:\* リナリー･ピュアハート（リナリー/風）: [岡本麻弥](../Page/岡本麻弥.md "wikilink")
 
 :\* メル･シャローム･メルティ（メル/水）: [黒田玲子](https://ja.wikipedia.org/wiki/黒田玲子 "wikilink")
 
-:\* チェルニー･ウィンプリム（チェルニー/風）: [谷井あすか](https://ja.wikipedia.org/wiki/谷井あすか "wikilink")
+:\* チェルニー･ウィンプリム（チェルニー/風）: [谷井あすか](../Page/谷井あすか.md "wikilink")
 
-:\* ラ･ミ（ラミ/火）: [永野愛](https://ja.wikipedia.org/wiki/永野愛 "wikilink")
+:\* ラ･ミ（ラミ/火）: [永野愛](../Page/永野愛.md "wikilink")
 
 ## 外部リンク
 

@@ -7,7 +7,7 @@
 
   - キャッチコピーは「これまで、そしてここから。」。
   - シングル曲を中心に構成された、FOD初のベストアルバム。シングルリリースのなかった「[digitaglam FOD VI](https://ja.wikipedia.org/wiki/digitaglam_FOD_VI "wikilink")」からは、「9.9.9」が収録されている。また「最後の想い」は未発表曲である。
-  - 彼らはこのアルバムを最後に、デビュー以来のレーベルだった[EPICソニーレコードを離れる事になる](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+  - 彼らはこのアルバムを最後に、デビュー以来のレーベルだった[EPICソニーレコードを離れる事になる](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
       -
         1stシングル。
 2.  **[FREAKS](../Page/FENCE_OF_DEFENSE_II.md "wikilink")**
-      - 作詞：[K.INOJO](https://ja.wikipedia.org/wiki/K.INOJO "wikilink")　作曲：西村麻聡　編曲：FENCE OF DEFENSE
+      - 作詞：[K.INOJO](../Page/K.INOJO.md "wikilink")　作曲：西村麻聡　編曲：FENCE OF DEFENSE
     <!-- end list -->
       -
         3rdシングル。
@@ -60,7 +60,7 @@
       - 作詞：RYO　作曲：西村麻聡　編曲：FENCE OF DEFENSE
     <!-- end list -->
       -
-        12thシングル。ちなみにこの曲が『[横山光輝 三国志](https://ja.wikipedia.org/wiki/横山光輝_三国志 "wikilink")』のOPとして流れた際、スタッフロールには実際にはRYOは作詞を手がけたが、RYOは作曲者としてクレジットされていた。
+        12thシングル。ちなみにこの曲が『[横山光輝 三国志](../Page/横山光輝_三国志.md "wikilink")』のOPとして流れた際、スタッフロールには実際にはRYOは作詞を手がけたが、RYOは作曲者としてクレジットされていた。
 11. **[もう一度EMOTION](../Page/SPEED_OF_LOVE.md "wikilink")**
       -
         14thシングル。

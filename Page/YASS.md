@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[廿日市高校](https://ja.wikipedia.org/wiki/広島県立廿日市高等学校 "wikilink")、[広島経済大学](https://ja.wikipedia.org/wiki/広島経済大学 "wikilink")出身。ロックバンド「[LORAN](https://ja.wikipedia.org/wiki/LORAN_\(ロックバンド\) "wikilink")」（ローラン）のヴォーカルとして[FUN HOUSEよりデビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")。 ソロ活動では[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")のツアーサポートメンバーを経て、[路上ライブ](https://ja.wikipedia.org/wiki/路上ライブ "wikilink")の手売りのみで[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")などのワンマンライブを成功させたことから「ストリートのカリスマ」と呼ばれる。路上ミュージシャンによるイベント、代々木ハードフォークジャンボリーをプロデュース。 テレビ朝日系列全国放送の深夜番組、「[ストリートファイターズ](https://ja.wikipedia.org/wiki/ストリートファイターズ "wikilink")」に発足から携わり、番組ナビゲーターや音楽プロデューサーも務める。
+[廿日市高校](../Page/広島県立廿日市高等学校.md "wikilink")、[広島経済大学](https://ja.wikipedia.org/wiki/広島経済大学 "wikilink")出身。ロックバンド「[LORAN](https://ja.wikipedia.org/wiki/LORAN_\(ロックバンド\) "wikilink")」（ローラン）のヴォーカルとして[FUN HOUSEよりデビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")。 ソロ活動では[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")のツアーサポートメンバーを経て、[路上ライブ](../Page/路上ライブ.md "wikilink")の手売りのみで[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")などのワンマンライブを成功させたことから「ストリートのカリスマ」と呼ばれる。路上ミュージシャンによるイベント、代々木ハードフォークジャンボリーをプロデュース。 テレビ朝日系列全国放送の深夜番組、「[ストリートファイターズ](../Page/ストリートファイターズ.md "wikilink")」に発足から携わり、番組ナビゲーターや音楽プロデューサーも務める。
 
 2006年、LORANを復活させ11年振りのフルアルバム「THE LORAN」をリリース。
 
@@ -13,7 +13,7 @@
 
 2014年、アムリタレコードを設立。
 
-2018年2月、[陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink")＆YASS「月に証した」を配信。
+2018年2月、[陣内大蔵](../Page/陣内大蔵.md "wikilink")＆YASS「月に証した」を配信。
 
 現在、ソロシンガーソングライター、ロックバンドLORANのヴォーカルを務めるほか、[サスケをプロデュースしている](../Page/サスケ_\(埼玉県出身のデュオ\).md "wikilink")。
 
@@ -32,7 +32,7 @@
 5.  夢に見た丘へ（2005年） FAN CLUB 限定無料配布
 6.  Happy X'mas Day（2005年 BOSS-0002） 3rd
       -
-        [パキスタン地震の被害にあった子供たちの為に作られたチャリティーCD](https://ja.wikipedia.org/wiki/パキスタン地震_\(2005年\) "wikilink")。
+        [パキスタン地震の被害にあった子供たちの為に作られたチャリティーCD](../Page/パキスタン地震_\(2005年\).md "wikilink")。
 
 ### アルバム
 
@@ -45,7 +45,7 @@
 
 #### ライブ・アルバム
 
-1.  YASS ワンマンLIVE-赤坂BLITZ-（1999年 CCR-00120） 1999年7月19日[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")ワンマンLIVEの模様を収録。
+1.  YASS ワンマンLIVE-赤坂BLITZ-（1999年 CCR-00120） 1999年7月19日[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")ワンマンLIVEの模様を収録。
 
 ### DVD
 
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - [THE STREET FIGHTERS](https://ja.wikipedia.org/wiki/ストリートファイターズ "wikilink")（2002年テレビ朝日系全国24局ネット音楽情報番組） ナビゲーター
+  - [THE STREET FIGHTERS](../Page/ストリートファイターズ.md "wikilink")（2002年テレビ朝日系全国24局ネット音楽情報番組） ナビゲーター
   - テレビ版『浮気なストリッパー』（2014年1月11日、RCCテレビ） アーティスト役
 
 <!-- end list -->

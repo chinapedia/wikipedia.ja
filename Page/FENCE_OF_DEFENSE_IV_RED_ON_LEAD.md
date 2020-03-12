@@ -6,13 +6,13 @@
 ## 解説
 
   - キャッチコピーは**「"NEO"ハードロック宣言」**。ドライな、肩の力を抜いた作品を作りたいというコンセプトのもと、[ハード・ロック](https://ja.wikipedia.org/wiki/ハード・ロック "wikilink")のテイストがふんだんに取り入れられた。ジャケットもこれまでのダークな色合いから一転して赤一色となった。
-  - その反面、『LITTLE BIRD』のように[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")と[パーカッション](../Page/パーカッション.md "wikilink")のみによる曲や、『LOVE CLASH』のような[サイケデリックな曲もある](https://ja.wikipedia.org/wiki/サイケデリック・ロック "wikilink")。この作品で初めて[北島健二](../Page/北島健二.md "wikilink")が、『LET ME IN YOU』、『ROCK DESERT』の2曲を提供している。
-  - 『MAGRITTE DANCE』の[カップリング](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")『STAY OR GO』は、オリジナルアルバムには収録されていないが、2007年にリリースされた[ベストアルバムに収録された](https://ja.wikipedia.org/wiki/GREAT_FREAKERS_BEST_〜FENCE_OF_DEFENSE_1987-2007〜 "wikilink")。
+  - その反面、『LITTLE BIRD』のように[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")と[パーカッション](../Page/パーカッション.md "wikilink")のみによる曲や、『LOVE CLASH』のような[サイケデリックな曲もある](../Page/サイケデリック・ロック.md "wikilink")。この作品で初めて[北島健二](../Page/北島健二.md "wikilink")が、『LET ME IN YOU』、『ROCK DESERT』の2曲を提供している。
+  - 『MAGRITTE DANCE』の[カップリング](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")『STAY OR GO』は、オリジナルアルバムには収録されていないが、2007年にリリースされた[ベストアルバムに収録された](../Page/GREAT_FREAKERS_BEST_〜FENCE_OF_DEFENSE_1987-2007〜.md "wikilink")。
 
 ## 参加ミュージシャン
 
   - [小泉洋](https://ja.wikipedia.org/wiki/小泉洋 "wikilink")、[白田朗](https://ja.wikipedia.org/wiki/白田郎 "wikilink")、[堀内孝太郎](https://ja.wikipedia.org/wiki/堀内孝太郎 "wikilink")、[古川隆](https://ja.wikipedia.org/wiki/古川隆 "wikilink") ： シンセサイザーオペレーター
-  - [坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink") ： コーラス
+  - [坪倉唯子](../Page/坪倉唯子.md "wikilink") ： コーラス
 
 ## 収録曲
 

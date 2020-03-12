@@ -1,7 +1,7 @@
 > この記事は[MxPx](https://ja.wikipedia.org/wiki/MxPx)から翻訳されています。
 
 
-**MxPx**（**エムエックスピーエックス**）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")に、マイク・ヘレーラ（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）、トム・ウィスニウスキー（[ギター](../Page/ギター.md "wikilink")）、ユーリ・ルーリー（[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink"))ら高校の同級生3人で結成された[パンク・ロック](../Page/パンク・ロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。メンバー全員[クリスチャン](https://ja.wikipedia.org/wiki/クリスチャン "wikilink")なので[歌詞](../Page/歌詞.md "wikilink")などにもそれが反映されている。
+**MxPx**（**エムエックスピーエックス**）は、[1992年](../Page/1992年.md "wikilink")に、マイク・ヘレーラ（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、トム・ウィスニウスキー（[ギター](../Page/ギター.md "wikilink")）、ユーリ・ルーリー（[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink"))ら高校の同級生3人で結成された[パンク・ロック](../Page/パンク・ロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。メンバー全員[クリスチャン](https://ja.wikipedia.org/wiki/クリスチャン "wikilink")なので[歌詞](../Page/歌詞.md "wikilink")などにもそれが反映されている。
 
 バンド名のMはMagnified、PはPlaidを表す。それを略してM.P.としていたが、ドラムのユーリが.の代わりにxを書いた時、「かっこいい！」と盛り上がったので、MxPxになった。
 
@@ -16,7 +16,7 @@
 
 ## 来歴
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")7月6日に、当時高校生の同級生で結成された。
+  - [1992年](../Page/1992年.md "wikilink")7月6日に、当時高校生の同級生で結成された。
   - [1994年](../Page/1994年.md "wikilink")に、1st Album『Pokinatcha』をリリース。レーベル最高売り上げを記録する。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に2nd Album『Teenage Politics』をリリースしプロモーションのため初来日する。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に3rd Album 『Life In General』がヒット。
@@ -24,10 +24,10 @@
   - [1999年](../Page/1999年.md "wikilink")に『At the Show』の初ライブアルバムをリリース。
   - [2001年](../Page/2001年.md "wikilink")に[SUMMER SONICに初出演](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")。
   - [2003年](../Page/2003年.md "wikilink")に、3rd Album『Before　Everything & After』をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に、SideOneDummyに入り『Panic』をリリース。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[PUNKSPRING](https://ja.wikipedia.org/wiki/PUNKSPRING "wikilink")に出演。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に、Tooth & Nailに戻り、『Pokinatcha』をプロデュースしたAaron Sprinkleがまた『Secret Weapon』をリリース。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2回目の[SUMMER SONICに出演](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")に、SideOneDummyに入り『Panic』をリリース。
+  - [2006年](../Page/2006年.md "wikilink")、[PUNKSPRING](https://ja.wikipedia.org/wiki/PUNKSPRING "wikilink")に出演。
+  - [2007年](../Page/2007年.md "wikilink")に、Tooth & Nailに戻り、『Pokinatcha』をプロデュースしたAaron Sprinkleがまた『Secret Weapon』をリリース。
+  - [2007年](../Page/2007年.md "wikilink")2回目の[SUMMER SONICに出演](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")。
 
 ## アルバム
 
@@ -111,7 +111,7 @@
 
 ### 企画盤
 
-  - オン・ザ・カヴァーII　(2009年3月4日発売のカバー曲集。[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")「[リンダリンダ](https://ja.wikipedia.org/wiki/リンダリンダ "wikilink")」も収録されている)
+  - オン・ザ・カヴァーII　(2009年3月4日発売のカバー曲集。[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")「[リンダリンダ](../Page/リンダリンダ.md "wikilink")」も収録されている)
 
 ### EP
 

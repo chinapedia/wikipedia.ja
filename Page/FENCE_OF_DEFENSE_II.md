@@ -12,7 +12,7 @@
 1.  **PROX-IM'I-TY**
       - 作曲:西村麻聡　編曲:FENCE OF DEFENSE
 2.  **LIGHTHOUSE**
-      - 作詞:[K.INOJO](https://ja.wikipedia.org/wiki/K.INOJO "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE
+      - 作詞:[K.INOJO](../Page/K.INOJO.md "wikilink")　作曲:西村麻聡　編曲:FENCE OF DEFENSE
 3.  **FREAKS**
       - 作詞:K.INOJO 作曲:西村麻聡 編曲:FENCE OF DEFENSE
     <!-- end list -->

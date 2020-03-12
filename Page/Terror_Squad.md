@@ -1,15 +1,15 @@
 > この記事は[Terror Squad](https://ja.wikipedia.org/wiki/Terror_Squad)から翻訳されています。
 
 
-**TERROR SQUAD**(テラー スクワッド)は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")結成。日本の[インディーズ](../Page/インディーズ.md "wikilink")レーベルワールドカオス(WORLD CHAOS)から2枚の[アルバム](../Page/アルバム.md "wikilink")をリリースしている。海外の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループに[同名のグループが存在するが](../Page/テラー・スクワッド.md "wikilink")、こちらの方が先にTERROR SQUADの冠を持っていた。
+**TERROR SQUAD**(テラー スクワッド)は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")結成。日本の[インディーズ](../Page/インディーズ.md "wikilink")レーベルワールドカオス(WORLD CHAOS)から2枚の[アルバム](../Page/アルバム.md "wikilink")をリリースしている。海外の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループに[同名のグループが存在するが](../Page/テラー・スクワッド.md "wikilink")、こちらの方が先にTERROR SQUADの冠を持っていた。
 
 ## 概要
 
 [ボーカルの宇田川](../Page/歌手.md "wikilink")、[ギターの大関を中心に](../Page/ギタリスト.md "wikilink")1992年に結成。数回のメンバーチェンジ（活動停止）という困難を乗り越え、[1999年](../Page/1999年.md "wikilink")にベース不在のまま1stアルバムをリリースしている。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[ドラムの藤岡](https://ja.wikipedia.org/wiki/ドラマー "wikilink")、[2000年](../Page/2000年.md "wikilink")に[ベースの前川が加入し](../Page/ベーシスト.md "wikilink")、現在のメンバーで固定となる。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")発売の2ndアルバムより、結成時からアートワークを担当していた画家の川口と、[サックス担当兼ビデオ撮影の木村がメンバーとして登録されたが後に脱落する](../Page/サクソフォーン.md "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[ドラムの藤岡](../Page/ドラマー.md "wikilink")、[2000年](../Page/2000年.md "wikilink")に[ベースの前川が加入し](../Page/ベーシスト.md "wikilink")、現在のメンバーで固定となる。[2006年](../Page/2006年.md "wikilink")発売の2ndアルバムより、結成時からアートワークを担当していた画家の川口と、[サックス担当兼ビデオ撮影の木村がメンバーとして登録されたが後に脱落する](../Page/サクソフォーン.md "wikilink")。
 
-[2001年](../Page/2001年.md "wikilink")と[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")には2週間に及ぶヨーロッパツアーを成功させている他、近年では[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")など、活動範囲は更に広がっている。[2017年](../Page/2017年.md "wikilink")に[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でのライブも控えている。
+[2001年](../Page/2001年.md "wikilink")と[2007年](../Page/2007年.md "wikilink")には2週間に及ぶヨーロッパツアーを成功させている他、近年では[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など、活動範囲は更に広がっている。[2017年](../Page/2017年.md "wikilink")に[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でのライブも控えている。
 
 ## メンバー
 

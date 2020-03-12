@@ -1,18 +1,18 @@
 > この記事は[Ivory II](https://ja.wikipedia.org/wiki/Ivory_II)から翻訳されています。
 
 
-『**Ivory II**』（アイボリー・ツー）は、[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")の2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")）。
+『**Ivory II**』（アイボリー・ツー）は、[今井美樹](../Page/今井美樹.md "wikilink")の2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。
 
 ## 解説
 
-前のベストアルバム『*[Ivory](../Page/Ivory_\(アルバム\).md "wikilink")*』以降にリリースされたアルバム『*[retour](https://ja.wikipedia.org/wiki/retour "wikilink")*』『*[Lluvia](../Page/Lluvia.md "wikilink")*』『*[flow into space](https://ja.wikipedia.org/wiki/flow_into_space "wikilink")*』の中に収録されている楽曲とシングル「*[PIECE OF MY WISH](https://ja.wikipedia.org/wiki/PIECE_OF_MY_WISH "wikilink")*」「*[Blue Moon Blue](https://ja.wikipedia.org/wiki/Blue_Moon_Blue "wikilink")*」「*[Bluebird](https://ja.wikipedia.org/wiki/Bluebird_\(今井美樹の曲\) "wikilink")*」の中からセレクトされている。尚、選曲は本人が行なっている\[1\]。
+前のベストアルバム『*[Ivory](../Page/Ivory_\(アルバム\).md "wikilink")*』以降にリリースされたアルバム『*[retour](https://ja.wikipedia.org/wiki/retour "wikilink")*』『*[Lluvia](../Page/Lluvia.md "wikilink")*』『*[flow into space](https://ja.wikipedia.org/wiki/flow_into_space "wikilink")*』の中に収録されている楽曲とシングル「*[PIECE OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")*」「*[Blue Moon Blue](https://ja.wikipedia.org/wiki/Blue_Moon_Blue "wikilink")*」「*[Bluebird](https://ja.wikipedia.org/wiki/Bluebird_\(今井美樹の曲\) "wikilink")*」の中からセレクトされている。尚、選曲は本人が行なっている\[1\]。
 
 累計売上は120万枚\[2\]。
 
 ## 収録曲
 
 1.  **retour**
-      - 作詞：今井美樹、作曲：[柿原朱美](https://ja.wikipedia.org/wiki/ak_\(シンガーソングライター\) "wikilink")、編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞：今井美樹、作曲：[柿原朱美](https://ja.wikipedia.org/wiki/ak_\(シンガーソングライター\) "wikilink")、編曲：[佐藤準](../Page/佐藤準.md "wikilink")
       - [三洋電機](../Page/三洋電機.md "wikilink")CMソング
       - アルバム『[retour](https://ja.wikipedia.org/wiki/retour "wikilink")』に収録
 2.  **夢の夜**
@@ -22,10 +22,10 @@
       - 作詞：今井美樹、作曲・編曲：佐藤準
       - アルバム『retour』に収録
 4.  **幸せになりたい**
-      - 作詞・作曲：[上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲：佐藤準
+      - 作詞・作曲：[上田知華](../Page/上田知華.md "wikilink")、編曲：佐藤準
       - アルバム『retour』に収録
 5.  **雨にキッスの花束を**
-      - 作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲：[KAN](../Page/KAN.md "wikilink")、編曲：佐藤準
+      - 作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲：[KAN](../Page/KAN.md "wikilink")、編曲：佐藤準
       - [読売テレビ系アニメーション](../Page/讀賣テレビ放送.md "wikilink")『[YAWARA\!](../Page/YAWARA!.md "wikilink")』2代目オープニングテーマ
       - アルバム『retour』に収録
 6.  **Tea For Two**
@@ -35,9 +35,9 @@
 7.  **半袖**
       - 作詞：岩里祐穂、作曲：上田知華、編曲：佐藤準
       - アルバム『retour』に収録
-8.  **[PIECE OF MY WISH](https://ja.wikipedia.org/wiki/PIECE_OF_MY_WISH "wikilink")**
+8.  **[PIECE OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")**
       - 作詞：岩里祐穂、作曲：上田知華、編曲：佐藤準
-      - 7thシングル、本人主演のドラマ『[あしたがあるから](https://ja.wikipedia.org/wiki/あしたがあるから "wikilink")』主題歌、オリジナルアルバム未収録曲
+      - 7thシングル、本人主演のドラマ『[あしたがあるから](../Page/あしたがあるから.md "wikilink")』主題歌、オリジナルアルバム未収録曲
 9.  **[Bluebird](https://ja.wikipedia.org/wiki/Bluebird_\(今井美樹の曲\) "wikilink")**
       - 作詞：岩里祐穂、作曲・編曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
       - 9thシングル、TBS系『[世界ふしぎ発見\!](https://ja.wikipedia.org/wiki/世界ふしぎ発見! "wikilink")』エンディングテーマ、オリジナルアルバム未収録曲

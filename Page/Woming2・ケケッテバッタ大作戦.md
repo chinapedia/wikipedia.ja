@@ -7,11 +7,11 @@
 
 鳴り物入りでスタートした前番組『[Woming](../Page/Woming.md "wikilink")』が低視聴率だったため、想定視聴者層や番組コンセプトを練り直し、新たな「[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")」としてスタート。『Woming』とは違い、客入れもやめ、ゲストも毎週は迎えず、スタジオセットも後に控えた「Aスタジオ改修工事」をネタとしたラフなものとなった。Aスタジオの改修工事終了後最初の放送からはセットも新たにした。
 
-この番組は『Woming』よりは視聴率も上向き、好評だったとされるが、1994年秋から平日夕方枠で『[静岡○ごとワイド](https://ja.wikipedia.org/wiki/まるごと "wikilink")』の開始が決定したことにともない、制作部の制作能力などを考え、この枠からの撤退が決まり、わずか半年で終了となった。
+この番組は『Woming』よりは視聴率も上向き、好評だったとされるが、1994年秋から平日夕方枠で『[静岡○ごとワイド](../Page/まるごと.md "wikilink")』の開始が決定したことにともない、制作部の制作能力などを考え、この枠からの撤退が決まり、わずか半年で終了となった。
 
 ## 出演者
 
-  - [芹澤名人](https://ja.wikipedia.org/wiki/芹澤名人 "wikilink") - メインMC
+  - [芹澤名人](../Page/芹澤名人.md "wikilink") - メインMC
   - [西村育子](https://ja.wikipedia.org/wiki/西村育子 "wikilink")（当時静岡第一テレビアナウンサー） - メインMC
   - [マイケル・ロイド](https://ja.wikipedia.org/wiki/マイケル・ロイド "wikilink")（英会話講師・静岡のローカルタレント） - 番組レギュラー
   - [車田由美](https://ja.wikipedia.org/wiki/車田由美 "wikilink")（タレント） - セミレギュラー

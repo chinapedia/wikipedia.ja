@@ -5,7 +5,7 @@
 
 ## ゲーム概要
 
-プレイヤーは[離陸](https://ja.wikipedia.org/wiki/離陸 "wikilink")、[着陸](https://ja.wikipedia.org/wiki/着陸 "wikilink")を行うことがゲームの目的である。
+プレイヤーは[離陸](../Page/離陸.md "wikilink")、[着陸](../Page/着陸.md "wikilink")を行うことがゲームの目的である。
 
 ## ゲームモード
 
@@ -24,7 +24,7 @@
   - [小松空港](https://ja.wikipedia.org/wiki/小松空港 "wikilink")
   - [名古屋空港](../Page/名古屋飛行場.md "wikilink")（現在の名古屋飛行場）
   - [関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")
-  - [広島西飛行場](https://ja.wikipedia.org/wiki/広島西飛行場 "wikilink")
+  - [広島西飛行場](../Page/広島西飛行場.md "wikilink")
   - [松山空港](../Page/松山空港.md "wikilink")
   - [福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")
   - [那覇空港](../Page/那覇空港.md "wikilink")
@@ -33,7 +33,7 @@
 
 **最初からあるもの**
 
-  - [ジェットストリームスーパー31](https://ja.wikipedia.org/wiki/ハンドレページ_ジェットストリーム "wikilink")（[ジェイエア](https://ja.wikipedia.org/wiki/ジェイエア "wikilink")機）（初級者用）
+  - [ジェットストリームスーパー31](../Page/ハンドレページ_ジェットストリーム.md "wikilink")（[ジェイエア](../Page/ジェイエア.md "wikilink")機）（初級者用）
   - [ボーイング767-300](https://ja.wikipedia.org/wiki/ボーイング767#767-300 "wikilink")（中級者用）
   - [ボーイング747-400](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink")（[-300も可](https://ja.wikipedia.org/wiki/ボーイング747#747-300型 "wikilink")）（上級者用）
 
@@ -47,11 +47,11 @@
 
 ## ミニゲーム
 
-ゲーム中で一定の条件を満たすことにより、「[トーイングカーでGO](https://ja.wikipedia.org/wiki/トラクター#トラクターと呼ばれる他の車両 "wikilink")\!」「[マーシャラー](https://ja.wikipedia.org/wiki/マーシャラー "wikilink")でSTOP\!」を遊ぶことができるようになる。[PocketStation](../Page/PocketStation.md "wikilink")に「空ちゃんのドリンクサービス」をダウンロードすることもできる（こちらは条件はない）。
+ゲーム中で一定の条件を満たすことにより、「[トーイングカーでGO](https://ja.wikipedia.org/wiki/トラクター#トラクターと呼ばれる他の車両 "wikilink")\!」「[マーシャラー](../Page/マーシャラー.md "wikilink")でSTOP\!」を遊ぶことができるようになる。[PocketStation](../Page/PocketStation.md "wikilink")に「空ちゃんのドリンクサービス」をダウンロードすることもできる（こちらは条件はない）。
 
 ## 続編
 
-  - [ジェットでGO\!2](https://ja.wikipedia.org/wiki/ジェットでGO!2 "wikilink")（[2002年](../Page/2002年.md "wikilink")）
-  - [ジェットでGO\!ポケット](https://ja.wikipedia.org/wiki/ジェットでGO!ポケット "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - [ジェットでGO\!2](../Page/ジェットでGO!2.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）
+  - [ジェットでGO\!ポケット](../Page/ジェットでGO!ポケット.md "wikilink")（[2005年](../Page/2005年.md "wikilink")）
 
 [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:タイトーのゲームソフト](https://ja.wikipedia.org/wiki/Category:タイトーのゲームソフト "wikilink") [Category:フライトシミュレーション](https://ja.wikipedia.org/wiki/Category:フライトシミュレーション "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink")

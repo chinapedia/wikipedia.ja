@@ -24,9 +24,9 @@
 1.  **IN LONDON**
       - 作曲:北島健二/西村麻聡/山田亘　編曲:FENCE OF DEFENSE
 2.  **SHOCK\!\!**
-      - 作詞:[山本英美](https://ja.wikipedia.org/wiki/山本英美 "wikilink")　作曲:北島健二/西村麻聡/山田亘　編曲:FENCE OF DEFENSE
+      - 作詞:[山本英美](../Page/山本英美.md "wikilink")　作曲:北島健二/西村麻聡/山田亘　編曲:FENCE OF DEFENSE
 3.  **そんなのないぜ**
-      - 作詞:[大塚純子](https://ja.wikipedia.org/wiki/大塚純子 "wikilink")/早咲めぐみ　作曲:北島健二/西村麻聡/山田亘　編曲:FENCE OF DEFENSE
+      - 作詞:[大塚純子](../Page/大塚純子.md "wikilink")/早咲めぐみ　作曲:北島健二/西村麻聡/山田亘　編曲:FENCE OF DEFENSE
     <!-- end list -->
       -
         後に北島がソロアルバム「WILD FLOWeR」（[1999年](../Page/1999年.md "wikilink")）で「Feel the Rhythm」としてリメイクしている。

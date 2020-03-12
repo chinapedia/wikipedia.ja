@@ -1,11 +1,11 @@
 > この記事は[Lluvia](https://ja.wikipedia.org/wiki/Lluvia)から翻訳されています。
 
 
-『**Lluvia**』（ジュビア。スペイン語で「雨」を意味する）は、[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")の6枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")）。
+『**Lluvia**』（ジュビア。スペイン語で「雨」を意味する）は、[今井美樹](../Page/今井美樹.md "wikilink")の6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。
 
 ## 解説
 
-[1988年](../Page/1988年.md "wikilink")の『[Bewith](../Page/Bewith.md "wikilink")』以来、自身2作目の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。 大ヒットした前作『[retour](https://ja.wikipedia.org/wiki/retour "wikilink")』に続き[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")がサウンドプロデュースを手がける。
+[1988年](../Page/1988年.md "wikilink")の『[Bewith](../Page/Bewith.md "wikilink")』以来、自身2作目の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。 大ヒットした前作『[retour](https://ja.wikipedia.org/wiki/retour "wikilink")』に続き[佐藤準](../Page/佐藤準.md "wikilink")がサウンドプロデュースを手がける。
 
 シングルタイトル曲が収録されていないオリジナルアルバムは異例であったがミリオンに迫る売り上げとなった。
 
@@ -14,9 +14,9 @@
 ## 収録曲
 
 1.  **SATELLITE HOUR**
-      - 作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲：MAYUMI、編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲：MAYUMI、編曲：[佐藤準](../Page/佐藤準.md "wikilink")
 2.  **ひとりになってみよう**
-      - 作詞・作曲：[上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲：佐藤準
+      - 作詞・作曲：[上田知華](../Page/上田知華.md "wikilink")、編曲：佐藤準
 3.  **夢の夜**
       - 作詞：今井美樹、作曲：山口美央子、編曲：佐藤準
     <!-- end list -->
@@ -28,7 +28,7 @@
       - 作詞：岩里祐穂、作曲・編曲：佐藤準
 6.  **Tea For Two**
       - 作詞・作曲:[TOM JOBIM](../Page/アントニオ・カルロス・ジョビン.md "wikilink")、訳詞:今井美樹\[1\]
-      - シングル「[PIECE OF MY WISH](https://ja.wikipedia.org/wiki/PIECE_OF_MY_WISH "wikilink")」のカップリング曲として後にシングルカット
+      - シングル「[PIECE OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")」のカップリング曲として後にシングルカット
 7.  **Lluvia**
       - 作詞：今井美樹、作曲：MAYUMI、編曲：佐藤準
 8.  **笑顔**

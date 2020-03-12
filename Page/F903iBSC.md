@@ -5,7 +5,7 @@
 
 ## 概要
 
-情報漏洩対策及び業務外利用対策を重視する法人向けとして、[F903i](https://ja.wikipedia.org/wiki/F903i "wikilink")をベースにカメラなど各種機能を撤去したモデルである。法人専用モデルのため、個人での購入はできない。「BSC」は**B**usiness **S**e**c**ulityの略。F903iから撤去されたものは次のとおり。
+情報漏洩対策及び業務外利用対策を重視する法人向けとして、[F903i](../Page/F903i.md "wikilink")をベースにカメラなど各種機能を撤去したモデルである。法人専用モデルのため、個人での購入はできない。「BSC」は**B**usiness **S**e**c**ulityの略。F903iから撤去されたものは次のとおり。
 
   - カメラ
       -
@@ -24,14 +24,14 @@
 
 ## 歴史
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月22日](../Page/1月22日.md "wikilink") - [技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink") (TELEC) 通過
-  - 2007年[2月15日](../Page/2月15日.md "wikilink") - [電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink") (JATE)通過
+  - [2007年](../Page/2007年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - [技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink") (TELEC) 通過
+  - 2007年[2月15日](../Page/2月15日.md "wikilink") - [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE)通過
   - 2007年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - 開発を発表。
   - 2007年[3月19日](../Page/3月19日.md "wikilink") - 発売開始
 
 ## 関連項目
 
-  - [F905iBiz](https://ja.wikipedia.org/wiki/F905iBiz "wikilink")
+  - [F905iBiz](../Page/F905iBiz.md "wikilink")
   - [F-06A](https://ja.wikipedia.org/wiki/F-06A "wikilink")
   - [F-10B](https://ja.wikipedia.org/wiki/F-10B "wikilink")
 

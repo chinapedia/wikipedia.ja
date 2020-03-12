@@ -5,19 +5,19 @@
 
 ## 解説
 
-  - 「**未来**（2235年）」をテーマに制作された初の[コンセプト・アルバム](https://ja.wikipedia.org/wiki/コンセプト・アルバム "wikilink")で、アルバムに描かれたストーリーは同時期に[CBSソニー出版から発売された同名のストーリーブックに著述されている](../Page/ソニー・マガジンズ.md "wikilink")。楽曲の幾つかは1つのテーマに沿った組曲となっている。
+  - 「**未来**（2235年）」をテーマに制作された初の[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")で、アルバムに描かれたストーリーは同時期に[CBSソニー出版から発売された同名のストーリーブックに著述されている](../Page/ソニー・マガジンズ.md "wikilink")。楽曲の幾つかは1つのテーマに沿った組曲となっている。
   - 初めてストリングス、生ブラスを取り入れ、初のバラード曲、メンバー、マニピュレーター以外のゲストミュージシャンを起用した。
-  - 「セイラ」のカップリング曲、「BACK TO THE EDGE」は、オリジナルアルバムには収録されていなかったが、2007年にリリースされた[ベストアルバムに収録された](https://ja.wikipedia.org/wiki/GREAT_FREAKERS_BEST_〜FENCE_OF_DEFENSE_1987-2007〜 "wikilink")。
+  - 「セイラ」のカップリング曲、「BACK TO THE EDGE」は、オリジナルアルバムには収録されていなかったが、2007年にリリースされた[ベストアルバムに収録された](../Page/GREAT_FREAKERS_BEST_〜FENCE_OF_DEFENSE_1987-2007〜.md "wikilink")。
 
 ## 参加ミュージシャン
 
   - [小泉洋](https://ja.wikipedia.org/wiki/小泉洋 "wikilink")、白田朗：シンセサイザーオペレーター
-  - [金子飛鳥](https://ja.wikipedia.org/wiki/金子飛鳥 "wikilink")グループ：ストリングス
-  - [溝口肇](https://ja.wikipedia.org/wiki/溝口肇 "wikilink")：ストリングスアレンジメント
+  - [金子飛鳥](../Page/金子飛鳥.md "wikilink")グループ：ストリングス
+  - [溝口肇](../Page/溝口肇.md "wikilink")：ストリングスアレンジメント
   - [平原まこと](../Page/平原まこと.md "wikilink")：サクスフォン
   - [荒木俊夫](https://ja.wikipedia.org/wiki/荒木俊夫 "wikilink")：トランペット
   - [清岡太郎](https://ja.wikipedia.org/wiki/清岡太郎 "wikilink")：トロンボーン
-  - [中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")：ピアノ
+  - [中西康晴](../Page/中西康晴.md "wikilink")：ピアノ
   - [木村誠](https://ja.wikipedia.org/wiki/木村誠_\(パーカッション奏者\) "wikilink")：パーカッション
   - [CINDY](../Page/CINDY.md "wikilink")：コーラス、コーラスアレンジメント
   - [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink")：コーラス
@@ -34,17 +34,17 @@
     3.  **III) THE DANGEROUS OPERA BEGINS**
           - 作詞[CHRIS MOSDELL](https://ja.wikipedia.org/wiki/クリス・モズデル "wikilink") 作曲:西村麻聡 編曲:FENCE OF DEFENSE
 2.  **DATA NO.6**
-      - 作詞:[K.INOJO](https://ja.wikipedia.org/wiki/K.INOJO "wikilink") 作曲:西村麻聡 編曲:FENCE OF DEFENSE
+      - 作詞:[K.INOJO](../Page/K.INOJO.md "wikilink") 作曲:西村麻聡 編曲:FENCE OF DEFENSE
     <!-- end list -->
       -
-        [ガイナックス](https://ja.wikipedia.org/wiki/ガイナックス "wikilink")によって、この楽曲のビデオクリップがアニメーションで制作されており、業界初の「シングル・ビデオ」として発売されている。このビデオクリップは、先の武道館の公演の際ステージのスクリーンで公開され、その後の全国ツアーでも同曲の演奏に合わせて上映されていた。また、武道館公演はアンコールを除く全曲がライブビデオとして発売されている(2009年DVD化)。
+        [ガイナックス](../Page/ガイナックス.md "wikilink")によって、この楽曲のビデオクリップがアニメーションで制作されており、業界初の「シングル・ビデオ」として発売されている。このビデオクリップは、先の武道館の公演の際ステージのスクリーンで公開され、その後の全国ツアーでも同曲の演奏に合わせて上映されていた。また、武道館公演はアンコールを除く全曲がライブビデオとして発売されている(2009年DVD化)。
 3.  **LAND OF THE LIAR**
       - 作詞:FENCE OF DEFENSE 作曲:西村麻聡 編曲:FENCE OF DEFENSE
 4.  **SARA**
       - 作詞:FENCE OF DEFENSE 作曲:西村麻聡 編曲:FENCE OF DEFENSE
     <!-- end list -->
       -
-        本作と同時発売となった5thシングル。[読売テレビ系アニメーション](../Page/讀賣テレビ放送.md "wikilink")『[シティーハンター2](https://ja.wikipedia.org/wiki/シティーハンター_\(アニメ\) "wikilink")』の第2期オープニングテーマに起用され、彼らにとって初のスマッシュヒットとなった。ちなみに、一度レコーディングした後に、「シティーハンター2」のタイアップが決まった為、歌詞が変更になった。
+        本作と同時発売となった5thシングル。[読売テレビ系アニメーション](../Page/讀賣テレビ放送.md "wikilink")『[シティーハンター2](../Page/シティーハンター_\(アニメ\).md "wikilink")』の第2期オープニングテーマに起用され、彼らにとって初のスマッシュヒットとなった。ちなみに、一度レコーディングした後に、「シティーハンター2」のタイアップが決まった為、歌詞が変更になった。
 5.  **HONEY MONEY**
       - 作詞:K.INOJO 作曲:西村麻聡 編曲:FENCE OF DEFENSE
 6.  **AGAIN**

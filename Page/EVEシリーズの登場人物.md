@@ -13,9 +13,9 @@
 
 </div>
 
-**EVEシリーズの登場人物**（イヴシリーズのとうじょうじんぶつ）は、[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ "wikilink")に登場する[架空](../Page/架空.md "wikilink")の人物。
+**EVEシリーズの登場人物**（イヴシリーズのとうじょうじんぶつ）は、[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")に登場する[架空](../Page/架空.md "wikilink")の人物。
 
-以下、第1作目『[EVE burst error](https://ja.wikipedia.org/wiki/EVE_burst_error "wikilink")』は原作/SS版/Win95版も含めて**be**、『EVE burst error PLUS』と『EVE』は**PLUS**と**PLUS18禁**および**PLUSシリーズ**、『burst error EVE the 1st.』は**1st**、『EVE burst error R』は**R**、第2作目『[EVE The Lost One](https://ja.wikipedia.org/wiki/EVE_The_Lost_One "wikilink")』はリメイクの『The Lost One Last Chapter of Eve』も含めて**TLO**、第3&5作目『ADAM THE DOUBLE FACTOR』と『[EVE The Fatal Attraction](../Page/EVE_The_Fatal_Attraction.md "wikilink")』は**ADAM**と**TFA**、第4作目『[EVE ZERO](../Page/EVE_ZERO.md "wikilink")』は**ZERO**、第6作目『[EVE new generation](https://ja.wikipedia.org/wiki/EVE_new_generation "wikilink")』と『EVE 〜new generation X〜』は**ng**と**ngX**、第7作目『[EVE rebirth terror](https://ja.wikipedia.org/wiki/EVE_rebirth_terror "wikilink")』は**rt**のように略記する。
+以下、第1作目『[EVE burst error](../Page/EVE_burst_error.md "wikilink")』は原作/SS版/Win95版も含めて**be**、『EVE burst error PLUS』と『EVE』は**PLUS**と**PLUS18禁**および**PLUSシリーズ**、『burst error EVE the 1st.』は**1st**、『EVE burst error R』は**R**、第2作目『[EVE The Lost One](https://ja.wikipedia.org/wiki/EVE_The_Lost_One "wikilink")』はリメイクの『The Lost One Last Chapter of Eve』も含めて**TLO**、第3&5作目『ADAM THE DOUBLE FACTOR』と『[EVE The Fatal Attraction](../Page/EVE_The_Fatal_Attraction.md "wikilink")』は**ADAM**と**TFA**、第4作目『[EVE ZERO](../Page/EVE_ZERO.md "wikilink")』は**ZERO**、第6作目『[EVE new generation](../Page/EVE_new_generation.md "wikilink")』と『EVE 〜new generation X〜』は**ng**と**ngX**、第7作目『[EVE rebirth terror](https://ja.wikipedia.org/wiki/EVE_rebirth_terror "wikilink")』は**rt**のように略記する。
 
 さらに総称する場合は、1作目では『PLUSシリーズ』『1st』『R』も含めての**beシリーズ**、3&5作目では**TFAシリーズ**、6作目では『EVE雀』も含めての**ngシリーズ**などと称する。
 
@@ -42,16 +42,16 @@
 :\*[声](../Page/声.md "wikilink")：[子安武人](../Page/子安武人.md "wikilink")\[2\]（be/PLUS/R/ZERO/TLO/TFA/ng）/十文字隼人\[3\]（PLUS18禁）/不明（ADAM）/[ワッショイ太郎](https://ja.wikipedia.org/wiki/ワッショイ太郎 "wikilink")（ngX/EVE雀）
 
   -
-    『beシリーズ』『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』における[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")の一人で、『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
+    『beシリーズ』『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』における[主人公](../Page/主人公.md "wikilink")の一人で、『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
     前髪で目が隠れ\[4\]、長髪であるのがトレードマーク。驚異的な推理力を持つ名探偵だが、デスクワークは苦手で、捜査も頭を使うというより探偵としてのカンを頼りにし、数々の難事件を解決している。
-    かつては養父の桂木源三郎に代わって探偵業界でも有名な実績を誇る「桂木探偵事務所」の所長代理を務めており、その娘の桂木弥生とは姉弟同然に育ちながら恋人関係にもなっていたが、源三郎の不正を告発した事で源三郎は逮捕され、小次郎も桂木探偵事務所を辞職し恋人だった弥生とも別れ、[埠頭](https://ja.wikipedia.org/wiki/埠頭 "wikilink")の倉庫街にある12番倉庫\[5\] を改装して「あまぎ探偵事務所」を開業した。ただし依頼内容の殆どは浮気調査やペット探しばかりであり、家計も火の車同然だった頃に『be』の事件に関ることになった。現在は初および唯一の所員として[氷室恭子を雇っている](https://ja.wikipedia.org/wiki/#レギュラー・準レギュラー "wikilink")。好物は[シチュー](https://ja.wikipedia.org/wiki/シチュー "wikilink")。
+    かつては養父の桂木源三郎に代わって探偵業界でも有名な実績を誇る「桂木探偵事務所」の所長代理を務めており、その娘の桂木弥生とは姉弟同然に育ちながら恋人関係にもなっていたが、源三郎の不正を告発した事で源三郎は逮捕され、小次郎も桂木探偵事務所を辞職し恋人だった弥生とも別れ、[埠頭](../Page/埠頭.md "wikilink")の倉庫街にある12番倉庫\[5\] を改装して「あまぎ探偵事務所」を開業した。ただし依頼内容の殆どは浮気調査やペット探しばかりであり、家計も火の車同然だった頃に『be』の事件に関ることになった。現在は初および唯一の所員として[氷室恭子を雇っている](https://ja.wikipedia.org/wiki/#レギュラー・準レギュラー "wikilink")。好物は[シチュー](../Page/シチュー.md "wikilink")。
     推理中は冷徹なイメージが強く、実際に他人を見下してしまいがちな言動を取ることもあるが、根は優しく正義感の強い性格だが、基本はお調子者かつ女好きで[猥談](../Page/猥談.md "wikilink")を好み、性欲にも流されやすくほぼ全シリーズで弥生や氷室を含め多くの女性と[肉体関係](https://ja.wikipedia.org/wiki/性行為 "wikilink")（未遂も含め）を持つ。しかし本質的に女性に優しい性格からか、恨みを買う事は殆ど無く、むしろ男の甲斐性として受け入れられてしまう事もある、ある種の得な人物。ただし、自分の意のままに生きる事を望む一匹狼な気質の持ち主で、他者から縛られて生きる事には嫌悪感を示している。弥生との関係が完全に修復しないのも、彼女が自分を束縛する傾向が強いからだと思われる。もっとも、小次郎自身も自身の女性関係の派手さについては強く自覚しており、『ng』では弥生にもっと誠実で真面目な男と付き合うべきだと諭してもいる。性行為では[サディズム](../Page/サディズム.md "wikilink")の気があるのか、「言え」「やれ」 などの命令口調になる時がある。
     父親の天城健は、[遺伝子工学](../Page/遺伝子工学.md "wikilink")者で、「XTORT（エクストート）」と呼ばれる研究に着手していたが、小次郎の中学生時代にXTORTの独占を目論む者達の陰謀によって小次郎の母と共に殺されてしまい、小次郎は天涯孤独の身となっていた所を健の知人である探偵の桂木源三郎に拾われ、探偵としてのノウハウを学ぶ。この事もあって、小次郎が父の生み出したXTORTと重要な関わりを持つ御堂真弥子と出会うのは、ある意味で逃れる事の許されない運命であったのかもしれない。
     『TFAシリーズ』では[安藤左衛門との縁により](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")[マシンピストル](https://ja.wikipedia.org/wiki/マシンピストル "wikilink")の[ステアーTMP](../Page/ステアーTMP.md "wikilink")、外車の[アルファロメオ・デュエットを所有している](../Page/アルファロメオ・スパイダー.md "wikilink")。
     ゲーム雑誌の人気投票では1位になった\[6\]。
       - 『1st』での設定
     :\*年齢：24歳
-    :\*声：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    :\*声：[杉田智和](../Page/杉田智和.md "wikilink")
 
 <!-- end list -->
 
@@ -69,25 +69,25 @@
 
 :\*生年月日：[5月5日](../Page/5月5日.md "wikilink")（be）/[1月25日](../Page/1月25日.md "wikilink")（TLO）
 
-:\*[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：B89 W59 H85（PLUS/R）/B92 W60 H90（TLO）/B89 W59 H85(86)\[7\]（ADAM）
+:\*[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B89 W59 H85（PLUS/R）/B92 W60 H90（TLO）/B89 W59 H85(86)\[7\]（ADAM）
 
 :\*愛銃：[ベレッタM1919](../Page/ベレッタM1915.md "wikilink")\[8\]・初期型\[9\]（自称「イクイク」）
 
 :\*声：[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")（be/TLO）/[三石琴乃](../Page/三石琴乃.md "wikilink")（PLUS/R/ZERO\[10\]/TFA/ng）/如月美琴（PLUS18禁）/不明（ADAM）/[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")（ngX/EVE雀）
 
   -
-    『beシリーズ』『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』における[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")の一人で、『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
+    『beシリーズ』『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』における[主人公](../Page/主人公.md "wikilink")の一人で、『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
     元警視庁公安第六課所属の捜査官（ZERO）で、現在は内閣調査室（JCIA\[11\]）に所属する1級捜査員。
     いつもは明るくいい加減で、がさつな性格をしているが、甲野曰く色々な人間に頼られ好かれる気質の持ち主であるらしい。小次郎の恋人である弥生とは、アメリカでの留学中に知り合い、以降親友として付き合っており、当時は弥生が[FBIに入る事を目標としていたのに対して](../Page/連邦捜査局.md "wikilink")、自身は[CIAに入る事を目標としていた](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")。任務達成及び検挙率が99パーセントを誇るスーパーエージェントであるが、任務のためには命令無視や規律違反も辞さないという、上司にしてみればもっとも扱いにくいタイプ。実際上層部もまりなのことをかなり問題児扱いしているらしいが、甲野本部長のことだけは信頼している。[ヘロイン](../Page/ヘロイン.md "wikilink")・[シンジケート](https://ja.wikipedia.org/wiki/シンジケート "wikilink")のスパイに機密を漏らしてしまった事でアメリカに[左遷](https://ja.wikipedia.org/wiki/左遷 "wikilink")されていたが、元上司である甲野の根回しによって何とか帰国を許された。その甲野とは、高校に入ったばかりの時に出会っていたが、その時は今とは打って変わって絶対に笑わない性格をしており、常に父親と行動を共にしていたとされている。
     『be』の**[御堂真弥子](https://ja.wikipedia.org/wiki/#レギュラー・準レギュラー "wikilink")**との出会いはその後のまりなの人生に大きな影響を与えることとなった。小次郎については弥生から色々と聞いてはいたが、初めて知り合ったのは『be』の事件で、以降奇妙なコンビ関係となっている。『be』以降は一時第一線を退いて教官職に就き、桐野杏子や見城陽一といったエージェントを育て上げる。しかし『TFAシリーズ』からは再び第一線に復帰した。
-    趣味は恋愛。しかし男性不信が長く[初体験は](../Page/処女.md "wikilink")『be』から約2年前の22歳の時でカレッジの[助教授](https://ja.wikipedia.org/wiki/助教授 "wikilink")との[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")だったことを明かした際は、真弥子に「意外‥‥。」と驚かれている。アメリカ在住の頃は婚約者がいたが手切れ金を残されての一方的な破局を迎えており、後にまりなは「男運が無く、いつも何らかの理由で駄目になってしまう」という[ジンクス](https://ja.wikipedia.org/wiki/ジンクス "wikilink")を抱くようになった。『be』では鈴木源三郎と恋に落ち婚約までに至るが、わずか翌日に死別という形で実ることはなかった。以上の交際歴からも分かる通り好みのタイプは渋い[中年](https://ja.wikipedia.org/wiki/中年 "wikilink")系と公言しているが、『ADAM』では平井、『EVE雀』では（ゲームのルール上に過ぎないが）小次郎など同年代とも肉体関係を持っている。弥生からは「まりなは[キス魔](https://ja.wikipedia.org/wiki/接吻 "wikilink")」と言われており、『be』の原作では真弥子、『ADAM』では[藤井ユカといった同性とも](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")[ペッティング](https://ja.wikipedia.org/wiki/ペッティング "wikilink")に及んでいる\[12\]。[性感帯](https://ja.wikipedia.org/wiki/性感帯 "wikilink")は[胸](https://ja.wikipedia.org/wiki/バスト "wikilink")\[13\]。
+    趣味は恋愛。しかし男性不信が長く[初体験は](../Page/処女.md "wikilink")『be』から約2年前の22歳の時でカレッジの[助教授](https://ja.wikipedia.org/wiki/助教授 "wikilink")との[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")だったことを明かした際は、真弥子に「意外‥‥。」と驚かれている。アメリカ在住の頃は婚約者がいたが手切れ金を残されての一方的な破局を迎えており、後にまりなは「男運が無く、いつも何らかの理由で駄目になってしまう」という[ジンクス](../Page/ジンクス.md "wikilink")を抱くようになった。『be』では鈴木源三郎と恋に落ち婚約までに至るが、わずか翌日に死別という形で実ることはなかった。以上の交際歴からも分かる通り好みのタイプは渋い[中年](../Page/中年.md "wikilink")系と公言しているが、『ADAM』では平井、『EVE雀』では（ゲームのルール上に過ぎないが）小次郎など同年代とも肉体関係を持っている。弥生からは「まりなは[キス魔](https://ja.wikipedia.org/wiki/接吻 "wikilink")」と言われており、『be』の原作では真弥子、『ADAM』では[藤井ユカといった同性とも](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")[ペッティング](../Page/ペッティング.md "wikilink")に及んでいる\[12\]。[性感帯](https://ja.wikipedia.org/wiki/性感帯 "wikilink")は[胸](../Page/バスト.md "wikilink")\[13\]。
     後付けでシナリオライターも異なるが、『TFAシリーズ』では他者には言えない暗い過去を背負っていることになっており、自身のみならず両親も共に諜報員で、母親が防衛庁の陸幕二部のエージェントで、父親は内調の情報官を務め、甲野の上司であった時期もあるが、彼は自らのコネクションを利用して裏で麻薬ビジネスを行ってもいた。そんな中、日本が旧ソビエトと情報戦を繰り広げていた時期に、カウンター･インテリジェンスの為にあえて逃していた旧ソビエトのスパイ達をまりなの母親が次々と挙げてしまった事で、父親はソビエト側が提示してきた母親の暗殺を阻止するどころか、黙認だけでなくお膳立てまでして母親を北条家のボディ・ガードに暗殺させ、父親はソ連を経由する麻薬の入手ルートを確立している。当時のまりなの年齢は10歳で、しかも母親は自身の目の前で蜂の巣にされる形で殺されており、この時に植えつけられたトラウマから、一時期薬漬けだった時期もあり、その麻薬でさえも、父親が自らの裏のビジネスで入手したものであった。それから数年後の高校時代には、まりなもまた父親のサイドビジネスの手伝いをさせられ、殺し以外の犯罪ならば何でもやっていたとさえ言われている。しかし、父親の裏切りによる母親の暗殺の真実を知ってしまったまりなは、父親だけでなく関係者や密輸ルートも憎む様になり、麻薬取引の場で父親や関係者を抹殺、密輸に使われた漁船も跡形も無く燃やしている。この時に行った父親殺しが、最初の殺人となっている。それ以降のまりなの行動の数々には、不可解な点も見られている事が、甲野の独自の調査で明らかになっている。父親を含む麻薬密売の関係者を抹殺した後、アメリカの大学に留学すべく渡米しているが、それと同時期にアメリカには安くて純度の高いロシア、中国産となる新種の麻薬がもたらされており、甲野は母親の仇討ちでは無く、麻薬の独占権を得る為に父親を殺したのではないかと予想している。また、まりなは留学先の大学で知り合った桂木弥生と親友関係になり、男関係もかなり派手なものになっていたが、その関係を持った対象者は会社役員や政府関係者にも及んでおり、しかも年輩が多かった。それから日本に帰国した後は、国家公務員試験を合格した所謂キャリア組となっているが、何故か公安の一捜査員を希望していたとされている。公安時代は非常にクリーンであったのに対し、内調のエージェントになってからは、使途不明金増加、諸外国における不動産所持等といった変化も現れ始めている。甲野はそれらがあくまでも諜報活動で必要なものだと信じて疑わず、まりな自身も任務において怠りは無かったのだが、逆にそこが不気味であるとも評されている。エージェントとしての人脈も幅広く、アメリカ大手銀行役員、石油会社役員、航空機メーカー役員等、層々たるメンバーがおり、イタリア系、ユダヤ系の人種が殆どを占めていたが、中にはロシア系や華僑が混ざっており、彼らの方が古くからの交流があったという。他にも、内調の任務以外で、まりなが海外で密かに設立させていた現地法人の存在や、内調の知らない銀行口座も海外で多数存在する等、まりなの行動に関しては数々の謎があり、細かく見たらキリが無いとまでされている。さすがにこれらの話一切を甲野から聞かされた小次郎も驚いてはいるが、同時にまりなが何らかの目的で不可解な行動をとっていると判断してもいる。まりなが麻薬密売ルートを確保するブラックマーケットの実力者である事に関しては事実となっている。また父親が母親の暗殺を計画し、まりなが父親を殺した事自体が、父親自身がまりなを一流の諜報員にする為に仕組んでいた事であった事実が『TFA』のエピローグにてまりな自身の独白で語られている。
     余談だが、原作『burst error』の[ボックスアートと](https://ja.wikipedia.org/wiki/w:Box_art "wikilink")『R』のメインビジュアルで持っている銃はベレッタM1919ではなく、[サプレッサー](../Page/サプレッサー.md "wikilink")を装着した[イングラムという短機関銃である](https://ja.wikipedia.org/wiki/イングラムM10 "wikilink")。
     ゲーム雑誌の人気投票では3位になった\[14\]。
       - 『1st』での設定
     :\*年齢：25歳
     :\*愛銃：[SIG SAUER P230カスタム](../Page/SIG_SAUER_P230.md "wikilink")
-    :\*声：[遠藤綾](https://ja.wikipedia.org/wiki/遠藤綾 "wikilink")
+    :\*声：[遠藤綾](../Page/遠藤綾.md "wikilink")
 
 ## レギュラー・準レギュラー
 
@@ -103,7 +103,7 @@
 
 :\*スリーサイズ：B85\[15\]/B83 W56 H83（PLUS/R）\[16\]/B83 W56 H83(84)\[17\]（ADAM）
 
-:\*声：[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")（be/PLUS/R/ZERO/TFA/ng）→[行成とあ](https://ja.wikipedia.org/wiki/行成とあ "wikilink")（rebirth terror）/日下千鶴（PLUS18禁）/不明（ADAM）/[かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")（ngX/EVE雀）
+:\*声：[本多知恵子](../Page/本多知恵子.md "wikilink")（be/PLUS/R/ZERO/TFA/ng）→[行成とあ](https://ja.wikipedia.org/wiki/行成とあ "wikilink")（rebirth terror）/日下千鶴（PLUS18禁）/不明（ADAM）/[かわしまりの](../Page/かわしまりの.md "wikilink")（ngX/EVE雀）
 
   -
     『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』にも登場。
@@ -132,19 +132,19 @@
 
 :\*生年月日：[12月24日](../Page/12月24日.md "wikilink")（TLO）
 
-:\*声：[松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")（be/PLUS/R/TLO/TFA/ng）/神月あおい（PLUS18禁）/不明（ADAM）/[藤森ゆき奈](../Page/藤森ゆき奈.md "wikilink")（ngX/EVE雀）
+:\*声：[松井菜桜子](../Page/松井菜桜子.md "wikilink")（be/PLUS/R/TLO/TFA/ng）/神月あおい（PLUS18禁）/不明（ADAM）/[藤森ゆき奈](../Page/藤森ゆき奈.md "wikilink")（ngX/EVE雀）
 
   -
     『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』にも登場。
-    EVEの生みの親である[剣乃ゆきひろの過去作](https://ja.wikipedia.org/wiki/菅野ひろゆき "wikilink")『**[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』でのキャラクターと同一人物で、教育監視機構の女性エージェント。
+    EVEの生みの親である[剣乃ゆきひろの過去作](../Page/菅野ひろゆき.md "wikilink")『**[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』でのキャラクターと同一人物で、教育監視機構の女性エージェント。
     エージェントとしては優秀だが、高圧的な部分があり、対象外である事件や他人の[プライバシー](../Page/プライバシー.md "wikilink")に関してまで勝手にでしゃばる悪い癖があり、甲野にその事を注意された事もあった。また、キャリア志向やエリート意識も強く、エージェント時代はキャリアに関する拘りを見せ、後輩だと思い込んでいたまりなに対しても、見下している節が強かった。外見は非常に若く見えるが、実はまりなよりも年上。
     エール外国人学校ディレクターであるストールマン・孔にかかった公金横領疑惑の調査の為、同校に生徒として潜入していたが、調査の過程において、別件で同校に派遣されたまりなの要人護衛任務を優先する必要性から、捜査の打ち切りを強制されてしまう。面子を潰されてしまった氷室は納得がいかなかった為、事件中に知り合った探偵の小次郎と行動を共にして、孔の周囲で起きている暗殺者・テラーに関する事件を追いかける事になる。
-    身内である公安データベースへの[クラッキング](../Page/クラッキング_\(コンピューター用語\).md "wikilink")、エルディア[大使館](https://ja.wikipedia.org/wiki/大使館 "wikilink")への潜入などの無茶な手段を用いてまで真実に近付こうとしたが、その中で政府が陰謀に加担している事実に直面し自身の[公僕](https://ja.wikipedia.org/wiki/公僕 "wikilink")としての存在に疑問を抱く。しかし、そんな氷室なりの悩みを肯定し、以前に付き合っていた彼氏とは正反対に自分のことを魅力的だと熱弁する小次郎と話す内、弥生という女性がいることは分かっているものの肉体関係の一線を越えた（コンシューマー移植版では[キスまで](https://ja.wikipedia.org/wiki/接吻 "wikilink")）氷室は、小次郎に明確な愛情を抱くようになり、監視機構を退職しあまぎ探偵事務所へ転職する事を認めさせ、小次郎の公私におけるパートナーとなった。
-    続篇のシリーズではかなりの[ヤキモチ](https://ja.wikipedia.org/wiki/ヤキモチ "wikilink")妬きであり、美人にデレデレしている小次郎を鋭い目で睨み付けたり、[ヒールで足を踏みつける](../Page/ハイヒール.md "wikilink")。私生活にだらしない小次郎に、几帳面な氷室は相性が良いのかもしれないが、氷室が小次郎に提供する食事は、いつも[ジャンクフード](../Page/ジャンクフード.md "wikilink")であるという欠点もある。大の[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")フェチ及び[廃墟](https://ja.wikipedia.org/wiki/廃墟 "wikilink")フェチ。
+    身内である公安データベースへの[クラッキング](../Page/クラッキング_\(コンピューター用語\).md "wikilink")、エルディア[大使館](../Page/大使館.md "wikilink")への潜入などの無茶な手段を用いてまで真実に近付こうとしたが、その中で政府が陰謀に加担している事実に直面し自身の[公僕](https://ja.wikipedia.org/wiki/公僕 "wikilink")としての存在に疑問を抱く。しかし、そんな氷室なりの悩みを肯定し、以前に付き合っていた彼氏とは正反対に自分のことを魅力的だと熱弁する小次郎と話す内、弥生という女性がいることは分かっているものの肉体関係の一線を越えた（コンシューマー移植版では[キスまで](https://ja.wikipedia.org/wiki/接吻 "wikilink")）氷室は、小次郎に明確な愛情を抱くようになり、監視機構を退職しあまぎ探偵事務所へ転職する事を認めさせ、小次郎の公私におけるパートナーとなった。
+    続篇のシリーズではかなりの[ヤキモチ](https://ja.wikipedia.org/wiki/ヤキモチ "wikilink")妬きであり、美人にデレデレしている小次郎を鋭い目で睨み付けたり、[ヒールで足を踏みつける](../Page/ハイヒール.md "wikilink")。私生活にだらしない小次郎に、几帳面な氷室は相性が良いのかもしれないが、氷室が小次郎に提供する食事は、いつも[ジャンクフード](../Page/ジャンクフード.md "wikilink")であるという欠点もある。大の[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")フェチ及び[廃墟](../Page/廃墟.md "wikilink")フェチ。
       - 『1st』での設定
     :\*年齢：18歳
     :\*職業：エルディア国際学校・生徒
-    :\*声：[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")
+    :\*声：[今井麻美](../Page/今井麻美.md "wikilink")
       -
         好奇心旺盛な子供ないし中学生にしか見えない女生徒。
 
@@ -162,16 +162,16 @@
 
 :\*愛銃：[コルト・コンバットコマンダー](https://ja.wikipedia.org/wiki/コルト・コンバットコマンダー "wikilink")
 
-:\*声：[野沢那智](../Page/野沢那智.md "wikilink")（be/PLUS/R/ZERO/TLO/TFA/ng）→ [内田直哉](https://ja.wikipedia.org/wiki/内田直哉 "wikilink")（rebirth terror）/オイリーはな（PLUS18禁）/不明（ADAM）/魚田明（ngX）
+:\*声：[野沢那智](../Page/野沢那智.md "wikilink")（be/PLUS/R/ZERO/TLO/TFA/ng）→ [内田直哉](../Page/内田直哉.md "wikilink")（rebirth terror）/オイリーはな（PLUS18禁）/不明（ADAM）/魚田明（ngX）
 
   -
     『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』にも登場。
-    まりな直属の上司でまりなからは「本部長」と呼ばれている。気色悪いオネエ言葉が特徴の自称「[ダンディ](https://ja.wikipedia.org/wiki/ダンディ "wikilink")中年」。まりなとは古い付き合いであるため、まりなの問題行為は、ある程度目を瞑ってくれるありがたい存在。正式な階級や役職はその都度変わるのでこの呼び方は便宜上の物のようだが、それがすっかり定着して今に至っている。警視庁時代には「カミソリ甲野」と呼ばれていた切れ者だった彼は、後に美作らの同意のもと、まりなたち腹心を連れて内閣調査室を設立した。
+    まりな直属の上司でまりなからは「本部長」と呼ばれている。気色悪いオネエ言葉が特徴の自称「[ダンディ](../Page/ダンディ.md "wikilink")中年」。まりなとは古い付き合いであるため、まりなの問題行為は、ある程度目を瞑ってくれるありがたい存在。正式な階級や役職はその都度変わるのでこの呼び方は便宜上の物のようだが、それがすっかり定着して今に至っている。警視庁時代には「カミソリ甲野」と呼ばれていた切れ者だった彼は、後に美作らの同意のもと、まりなたち腹心を連れて内閣調査室を設立した。
     しかし、『TLO』時に、身内から犯罪者を出してしまった事で立場が悪くなり、『TFA』時にはJCIAの傘下に取りこまれてしまうが、あの時に決意した「自立した日本を作る」という意志を今なお持ち続けて日々の任務に勤しんでいる。
     ちなみに妻帯者でありながら、香川美純と[愛人](../Page/愛人.md "wikilink")関係にある。趣味は盆栽いじりと年寄りくさい。
       - 『1st』での設定
     :\*年齢：46歳
-    :\*声：[園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")
+    :\*声：[園部啓一](../Page/園部啓一.md "wikilink")
 
 <!-- end list -->
 
@@ -192,7 +192,7 @@
   -
     『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』にも登場。
     海外版では***Kanomi Shibata***\[22\]。週刊誌関係のルポライター。大型の[カメラ](../Page/カメラ.md "wikilink")と[眼鏡](../Page/眼鏡.md "wikilink")が特徴。口調は男っぽく、一人称が「ボク」であるいわゆる[ボクっ娘](https://ja.wikipedia.org/wiki/ボクっ娘 "wikilink")。小次郎とは、桂木探偵事務所時代からの付き合いであり、[漫才](../Page/漫才.md "wikilink")のような会話を行ういわゆる腐れ縁。着やせするタイプであるらしく、子供っぽい外見に反してスタイルは良い。情報や依頼を提供したり、新しい特ダネをもらったりしているが、小次郎が引き受けた依頼のギャラをすっぱ抜く等、ちゃっかりした面もある。実は、小次郎に密かに想いを寄せていたのだが、弥生の存在もあって、その気持ちを打ち明けられずにいた。
-    『ZERO』で小次郎が関わった事件は元々は茜が提供した依頼が発端。一方、小次郎がエルディアに関わるきっかけとなる絵画創作依頼は茜がとってきたものではなく、桂木探偵事務所の乗っ取りを企てる二階堂が仕組んでいた事であり、当時仕事を干され行き詰っていた茜の事情を知る二階堂からの誘いに乗り、数回の肉体関係（コンシューマー移植版では話術を飴・暴力を鞭に例える上下関係）を結びながら共謀して小次郎の捜査状況をリークしていた。そしてエルディア共和国の[国璽](../Page/国璽.md "wikilink")の半分を隠し持っていた茜は、ディーブによって捕らわれ凄惨な[凌辱](https://ja.wikipedia.org/wiki/凌辱 "wikilink")による[拷問](../Page/拷問.md "wikilink")（移植版では殴打）を受ける事となるが、同じく囚われた小次郎と共に駆けつけてきた源三郎に助け出され、その後[麻薬](../Page/麻薬.md "wikilink")の解毒剤による[幻覚](https://ja.wikipedia.org/wiki/幻覚 "wikilink")の副作用にもがき苦しむ小次郎からも[暴行](https://ja.wikipedia.org/wiki/暴行 "wikilink")を受けるが、無抵抗に徹し[全ての行為を受け入れることで](../Page/和姦.md "wikilink")（移植版では[抱擁](https://ja.wikipedia.org/wiki/抱擁 "wikilink")）小次郎の精神的安定を取り戻させた。
+    『ZERO』で小次郎が関わった事件は元々は茜が提供した依頼が発端。一方、小次郎がエルディアに関わるきっかけとなる絵画創作依頼は茜がとってきたものではなく、桂木探偵事務所の乗っ取りを企てる二階堂が仕組んでいた事であり、当時仕事を干され行き詰っていた茜の事情を知る二階堂からの誘いに乗り、数回の肉体関係（コンシューマー移植版では話術を飴・暴力を鞭に例える上下関係）を結びながら共謀して小次郎の捜査状況をリークしていた。そしてエルディア共和国の[国璽](../Page/国璽.md "wikilink")の半分を隠し持っていた茜は、ディーブによって捕らわれ凄惨な[凌辱](https://ja.wikipedia.org/wiki/凌辱 "wikilink")による[拷問](../Page/拷問.md "wikilink")（移植版では殴打）を受ける事となるが、同じく囚われた小次郎と共に駆けつけてきた源三郎に助け出され、その後[麻薬](../Page/麻薬.md "wikilink")の解毒剤による[幻覚](../Page/幻覚.md "wikilink")の副作用にもがき苦しむ小次郎からも[暴行](https://ja.wikipedia.org/wiki/暴行 "wikilink")を受けるが、無抵抗に徹し[全ての行為を受け入れることで](../Page/和姦.md "wikilink")（移植版では[抱擁](https://ja.wikipedia.org/wiki/抱擁 "wikilink")）小次郎の精神的安定を取り戻させた。
     本人曰く[菜食主義](../Page/菜食主義.md "wikilink")者であるらしく、[野菜](../Page/野菜.md "wikilink")しか食べない。
       - 『1st』での設定
     :\*年齢：22歳
@@ -210,10 +210,10 @@
 
 :\*身長：180センチ（PLUS）
 
-:\*声：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")/秋田邦彦（PLUS18禁）
+:\*声：[飯塚昭三](../Page/飯塚昭三.md "wikilink")/秋田邦彦（PLUS18禁）
 
   -
-    英名表記は***Glen***\[23\]。『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』にも登場。源三郎や小次郎と付き合いの長い裏世界の情報屋。ドレッドヘアーにニット帽を被り、MDウォークマンを耳につけていると、一見すると陽気な[DJを思い浮かばせる外見だが](../Page/ディスクジョッキー.md "wikilink")、情報屋としての腕は確かである（『PLUS』では、ドレッドヘアーでは無くなっている）。[バーボン・ウイスキー](https://ja.wikipedia.org/wiki/バーボン・ウイスキー "wikilink")を愛飲する。金さえ払えば、銃器等を取り寄せる事も出来、小次郎愛用のグロック22もまた、グレンが仕入れたものである。情報屋だけあって警察等はやはり苦手なようで、『ZERO』等に登場した美作も、グレンにとっては逆らえない存在のようである。
+    英名表記は***Glen***\[23\]。『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』にも登場。源三郎や小次郎と付き合いの長い裏世界の情報屋。ドレッドヘアーにニット帽を被り、MDウォークマンを耳につけていると、一見すると陽気な[DJを思い浮かばせる外見だが](../Page/ディスクジョッキー.md "wikilink")、情報屋としての腕は確かである（『PLUS』では、ドレッドヘアーでは無くなっている）。[バーボン・ウイスキー](../Page/バーボン・ウイスキー.md "wikilink")を愛飲する。金さえ払えば、銃器等を取り寄せる事も出来、小次郎愛用のグロック22もまた、グレンが仕入れたものである。情報屋だけあって警察等はやはり苦手なようで、『ZERO』等に登場した美作も、グレンにとっては逆らえない存在のようである。
     『ZERO』『be』双方において、小次郎に情報を提供しているが、『be』では多額の報奨金に目が眩んだ結果、小次郎と対立していたディーブにも情報を流すという二重リークを行っており、結局それが裏世界の情報屋にとっての掟を破る事になって、最後は口封じのため[シルディに背後から撃たれて殺された](https://ja.wikipedia.org/wiki/#burst_errorシリーズ "wikilink")。
       - 『1st』での設定
     :\*声：[川原慶久](../Page/川原慶久.md "wikilink")
@@ -232,14 +232,14 @@
 
 :\*スリーサイズ：B79 W52 H80（PLUS/R）
 
-:\*声：[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")/[AYA](../Page/AYA_\(声優\).md "wikilink")（PLUS18禁）
+:\*声：[水谷優子](../Page/水谷優子.md "wikilink")/[AYA](../Page/AYA_\(声優\).md "wikilink")（PLUS18禁）
 
   -
     『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』にも登場。
     英名表記は**''Prisia Lem Clime***\[25\]。海外版では***Patricia Curtis**''\[26\]。日本での王位継承事件の際、不良達に絡まれていた所を小次郎に助けられ、そのまま小次郎に保護を受けていた。敬虔な[イスラム教](../Page/イスラム教.md "wikilink")徒。家事を得意としているが、明るく振舞いすぎて空回りしたり、時おり奇抜な行動を見せる等、周囲を困惑させるも多かった。瞳の色は左が青、右が金である[オッドアイ](https://ja.wikipedia.org/wiki/オッドアイ "wikilink")。その正体は、[中東](../Page/中東.md "wikilink")の小国エルディア共和国の女王候補で、前国王の姪にあたる。御堂に命を狙われていたプリシアは、自らを支持してくれるストールマンに[暗示](https://ja.wikipedia.org/wiki/暗示 "wikilink")をかけてもらい、**プリン**（海外版では***[Puddin'](../Page/プディング.md "wikilink")***\[27\]）というプリシア王女の側近の別人格で行動していた。という若さであるものの、女王即位後は責務と自覚をはっきりと持ち、『TLO』の際には[新薬](https://ja.wikipedia.org/wiki/新薬 "wikilink")ADDの解放を宣言する等、国内外を問わずその政治的手腕が高評価をうける。『TFA』では日本との国交強化のために訪日した。初恋の相手でもある小次郎に守ってもらった事を今でも忘れられないらしく、一人でいる時には、しばしば「プリン」としての自分に戻り、自らにとって運命の人である小次郎の事を思い出すなど、女王即位後も性格はあまり変わっていないようである。『TFA』で小次郎と再会した際にも、ためらわず小次郎に抱き付く等、小次郎の事になると周りが見えなくなってしまうようだ。小次郎とは[風呂](../Page/風呂.md "wikilink")で裸の付き合い（混浴）をした関係。
       - 『1st』での設定
     :\*年齢：20歳
-    :\*声：[長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")
+    :\*声：[長谷川明子](../Page/長谷川明子.md "wikilink")
       -
         料理・洗濯がかなり上手。自由気ままな振る舞いが見られ、その性格は御付のメイド・ネルのお墨付き。
 
@@ -261,12 +261,12 @@
 
 :\*スリーサイズ：B77 W52 H79（PLUS/R）
 
-:\*声：[岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥 "wikilink")/[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")（PLUS/R）/[Ruru](https://ja.wikipedia.org/wiki/Ruru "wikilink")（PLUS18禁）
+:\*声：[岡本麻弥](../Page/岡本麻弥.md "wikilink")/[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")（PLUS/R）/[Ruru](https://ja.wikipedia.org/wiki/Ruru "wikilink")（PLUS18禁）
 
   -
     『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
     エール外国人学校に通うエルディア国駐日[大使](https://ja.wikipedia.org/wiki/大使 "wikilink")の令嬢。[糖尿病](../Page/糖尿病.md "wikilink")を患っており、[インスリン](../Page/インスリン.md "wikilink")を常用している。身辺警護のために派遣されたまりなを最初は毛嫌いしていたが、自らの性の体験談すら厭わないでプライベートな話をしたり、時には本気で怒り、[愛撫に訴えてまで](../Page/手マン.md "wikilink")（コンシューマー移植版では[共感](../Page/共感.md "wikilink")）元気付けようとしてくれる明け透けな人柄に触れる内、いつの間にか忘れてしまう“笑顔”を取り戻させてくれるまりなに心を開いていく。
-    その正体は、プリシアの[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を利用して複製した[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")に前エルディア国王とアクアの記憶の一部を移植した、有機ヒューマノイド「**μ-101**」（海外版では**A101**）であり、1年間に培養液で急速に現在の姿まで成長させた。そのため、[骨格](https://ja.wikipedia.org/wiki/骨格 "wikilink")レベルに至るまでプリシアと同一の肉体を有しており、インスリンと称されて飲んでいた薬品は、前国王の記憶を繋ぎとめておくための薬品であった。前国王のみではなくアクアの記憶も移植されていることで、自分が前国王と妾の間に生まれて娘だと思い込まされており、王権派への復讐心から自らが女王になろうとしていた御堂とアクアの[操り人形](https://ja.wikipedia.org/wiki/操り人形 "wikilink")であった。前国王の人格が支配している間の真弥子は気絶に近い状態になっており、その間に行われた“処断”（[殺人](../Page/殺人.md "wikilink")）の自覚症状は全く無かったが、その精神バランスの崩壊は進行を続け次第に日常生活に支障が出始める。
+    その正体は、プリシアの[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を利用して複製した[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")に前エルディア国王とアクアの記憶の一部を移植した、有機ヒューマノイド「**μ-101**」（海外版では**A101**）であり、1年間に培養液で急速に現在の姿まで成長させた。そのため、[骨格](../Page/骨格.md "wikilink")レベルに至るまでプリシアと同一の肉体を有しており、インスリンと称されて飲んでいた薬品は、前国王の記憶を繋ぎとめておくための薬品であった。前国王のみではなくアクアの記憶も移植されていることで、自分が前国王と妾の間に生まれて娘だと思い込まされており、王権派への復讐心から自らが女王になろうとしていた御堂とアクアの[操り人形](https://ja.wikipedia.org/wiki/操り人形 "wikilink")であった。前国王の人格が支配している間の真弥子は気絶に近い状態になっており、その間に行われた“処断”（[殺人](../Page/殺人.md "wikilink")）の自覚症状は全く無かったが、その精神バランスの崩壊は進行を続け次第に日常生活に支障が出始める。
     アクアを殺害した直後、真弥子は鏡に映った自分の姿に驚愕する。激しい頭痛と嘔吐が襲いパニックに陥りかけるが、防衛本能なのかアクアとは仲違いして別れたと記憶することで平常心を取り戻す。そして真弥子は天城小次郎に求婚し、手元にあった国璽の権利を放棄しプリシアへ王位を託した。
     その後、御堂から真実を聞かされた真弥子は記憶が飛ぶ中で御堂を殺害してしまう。半狂乱となった真弥子は機関室に迷い込み小次郎に引き止められ我に返るが、小次郎・まりな・プリシア達と共に船倉に閉じ込められてしまう。
     救助を待つ内に前国王の記憶を消失させた真弥子は、最後には全員を救うべく自ら犠牲になるのだった。
@@ -321,7 +321,7 @@
     公安の内務監査官。駐日エルディア大使・御堂から外務省経由でまりなの御堂真弥子護衛任務に不手際があったとしてこれを監査することになるが、元から破天驚なまりなの事は快く思っていなかった。
     見た目通りプライドが高く、キツめな性格の持ち主。また、デスクワーク重視の職業のため、現場の現状に対する理解力は薄い。まりなへの敵視の原因は、まりなの上司である甲野との不倫関係にある事で、。
       - 『1st』での設定
-    :\*声：[城雅子](https://ja.wikipedia.org/wiki/城雅子 "wikilink")
+    :\*声：[城雅子](../Page/城雅子.md "wikilink")
 
 <!-- end list -->
 
@@ -345,10 +345,10 @@
     『be』にて、不正を行っていた事を小次郎に突き止められ刑務所に服役していたが、後に刑務所に火を放ち逃走。表沙汰ではその時焼死ということになっており、娘の弥生にもそのまま死んだことにして会おうとはしなかった。その後、**鈴木源三郎**という偽名で、弥生の腹違いの姉妹でもあるシリアのサポートを受けつつ行動し、職業も「サンプラス生命保険」のセールスマンと偽り、まりなと接触。彼女と行動を共にし、恋愛関係を経て婚約関係にまで至っている。また、小次郎と茜が危機に瀕した際にも、彼の元に現れており、麻薬を打たれた小次郎に解毒剤と行方の判らなくなった国璽の一部を与え、自らに関する真相を明かしている。
     源三郎が今まで不可解な行動に出ていたのは自身の過去に原因がある。実は源三郎はエルディア共和国旧情報部に所属していた過去があり、当時は「エルディア情報部の中心である三人の東洋人の一人」として、実行部隊「テラー」の隊長を務めていた。
     エルディアを御堂やディーブらと共に影から支え、「Cプロジェクト」の発案を行ったが、自らの計画の末に生み出された有機ヒューマノイドを目の当たりにした時に、その非道なエゴに嫌気が差して情報部から脱退。祖国の日本に帰国し、のち探偵事務所を開くことになったのである（このエルディアにいた時期に、エルディア人の女性と関係を持って生まれたのが、シリア・フラットである）。しかし、エルディアの機密を知っている源三郎を現在も裏で活動を続けている情報部が見逃すはずもなく、日本にまで刺客が現れ始めたことで、源三郎はワザと不正行為を行い、小次郎に暴かせることによって刑務所に服役し、更には刑務所に火を放つことでエルディア情報部に自分が死んだと思わせていたのである。鈴木源三郎と名乗ってからは、エルディアに二重スパイとして残したシリアと連絡を取り合って、御堂やディーブと決着をつけるために行動。ちなみに、人相を変えるために、髭を生やしていた。
-    沈み行く豪華客船「[トリスタン](https://ja.wikipedia.org/wiki/トリスタン "wikilink")号」の中でシリアの亡骸と運命を共にする。最後まで、弥生の名を叫び続けていた。
+    沈み行く豪華客船「[トリスタン](../Page/トリスタン.md "wikilink")号」の中でシリアの亡骸と運命を共にする。最後まで、弥生の名を叫び続けていた。
       - 『1st』での設定
     :\*年齢：52歳
-    :\*声：[麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")
+    :\*声：[麦人](../Page/麦人.md "wikilink")
 
 ## burst errorシリーズ
 
@@ -370,7 +370,7 @@
 
 :\*趣味：体を鍛えること（SS版）
 
-:\*声：[高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")/一条沙希（PLUS18禁）
+:\*声：[高乃麗](../Page/高乃麗.md "wikilink")/一条沙希（PLUS18禁）
 
   -
     英名表記は***Siria Flatte***\[29\]。海外版では***Natasha McLean***\[30\]。エール外国人学校にて[アラビア語](../Page/アラビア語.md "wikilink")の授業を担当する謎の女性。出身がエルディアである事以外の詳しい詳細は不明となっており、小次郎やまりなの行く先々に現れては、何かと助言や忠告をする。[巨乳](../Page/巨乳.md "wikilink")の持ち主であるが激しい[コンプレックス](../Page/コンプレックス.md "wikilink")を抱いており、その事を指摘されると怒る。真弥子からはそれなりに信頼を得ている。
@@ -397,11 +397,11 @@
 
 :\*スリーサイズ：B85 W58 H82（PLUS/R）
 
-:\*声：[むたあきこ](https://ja.wikipedia.org/wiki/むたあきこ "wikilink")/吉永あゆり\[32\]（PLUS18禁）
+:\*声：[むたあきこ](../Page/むたあきこ.md "wikilink")/吉永あゆり\[32\]（PLUS18禁）
 
   -
-    EVEの生みの親である[剣乃ゆきひろの過去作](https://ja.wikipedia.org/wiki/菅野ひろゆき "wikilink")『**[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』の[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")で、私立雨宮学園に通う高校2年生（17歳）だったキャラクターと同一人物。現在では当時の事件で知り合った佐久間裕一と婚約関係になっており、アメリカに赴任しているため遠距離生活中。
-    本来は大学院生だがエール外国人学校には教育実習生として赴任。大学での専攻は古美術史方面で、当の広美本人も古美術に目が無い。普段はエール外国人学校所有の[図書館](../Page/図書館.md "wikilink")勤務であり、教育実習生としては[美術](https://ja.wikipedia.org/wiki/美術 "wikilink")を担当。誰にでも笑顔で優しく接する大人の女性であるが、やや子供っぽい振る舞いや仕草をする面も。かつてはウェーブがかったロングヘアーだったが、ボブカットにするつもりが失敗して現在の髪型になってしまったことを気にしており、まりなにからかわれたりもした。
+    EVEの生みの親である[剣乃ゆきひろの過去作](../Page/菅野ひろゆき.md "wikilink")『**[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』の[ヒロイン](../Page/ヒロイン.md "wikilink")で、私立雨宮学園に通う高校2年生（17歳）だったキャラクターと同一人物。現在では当時の事件で知り合った佐久間裕一と婚約関係になっており、アメリカに赴任しているため遠距離生活中。
+    本来は大学院生だがエール外国人学校には教育実習生として赴任。大学での専攻は古美術史方面で、当の広美本人も古美術に目が無い。普段はエール外国人学校所有の[図書館](../Page/図書館.md "wikilink")勤務であり、教育実習生としては[美術](../Page/美術.md "wikilink")を担当。誰にでも笑顔で優しく接する大人の女性であるが、やや子供っぽい振る舞いや仕草をする面も。かつてはウェーブがかったロングヘアーだったが、ボブカットにするつもりが失敗して現在の髪型になってしまったことを気にしており、まりなにからかわれたりもした。
     図書館にイスラム紋様の絵画を調べに来た小次郎に快く協力し、絵画に関する情報を調べた。
     上述の高校時代の事件から、エール外国人学校にディレクターの脱税調査のため潜入して来て再会する事になった氷室に陰で情報提供していたが、広美本人はディレクターのストールマン・孔に対して好意的に見ていた。
     『TLO』の直前にあたるCDドラマではエルディア大使館傘下の研究施設に勤務。そこで悩み事を抱える上司に小次郎と氷室を紹介したりもしている。
@@ -431,7 +431,7 @@
         ロイス・御堂 (ロイス みどう)
     :\*職業：エルディア国外務省所属駐日大使
     :\*年齢：48歳
-    :\*声：[太田哲治](https://ja.wikipedia.org/wiki/太田哲治 "wikilink")
+    :\*声：[太田哲治](../Page/太田哲治.md "wikilink")
       -
         英名表記は***Louis Midou***。慎重174cm。東洋人系帰化エルディア人。元の国籍は日本。前国王政権下では外務大臣を務めるが、崩御後は大臣職を退き在日大使として来日。
 
@@ -451,7 +451,7 @@
 
 :\*生年月日：[1月2日](../Page/1月2日.md "wikilink")
 
-:\*声：[茶風林](https://ja.wikipedia.org/wiki/茶風林 "wikilink")/邪風林\[35\]（PLUS18禁）
+:\*声：[茶風林](../Page/茶風林.md "wikilink")/邪風林\[35\]（PLUS18禁）
 
   -
     英名表記は***Stoleman Ko***\[36\]\[37\]。エール外国人学校の校長（ディレクター）を務める[東洋人](https://ja.wikipedia.org/wiki/東洋人 "wikilink")の男性。長らくの間、旅行中との事で行方不明になっていたが、小次郎が絵画捜索の依頼を受けた2日後、夜の自宅にて、喉元をサバイバルナイフで切り裂かれた死体の状態で小次郎に発見された。彼の殺害現場を目撃した小次郎と氷室はこれをきっかけに協力体制をとるようになる。
@@ -464,7 +464,7 @@
       - 『1st』での設定
         孔雲樵（こう　うんしょう）
     :\*職業：エルディア国際学校・校長
-    :\*声：[河本邦弘](https://ja.wikipedia.org/wiki/河本邦弘 "wikilink")
+    :\*声：[河本邦弘](../Page/河本邦弘.md "wikilink")
 
 <!-- end list -->
 
@@ -488,7 +488,7 @@
     小次郎の話した事実を突き止めるべくプリンセス・ホテルにて御堂と落ち合うが、意見の対立と同時に真弥子に前国王の人格が眠っていた事を知る。前国王の人格に乗っ取られた真弥子に襲われ、部下を失い孤立したディーブは、そこへ現れたまりなを気絶させて捕らえ、国外から脱出するべく茜から手に入れた国璽を所有したままトリスタン号に乗り込む。
     しかし、結局は御堂と前国王に人格を支配された真弥子に追い詰められたようで、前国王の手によって処刑される結末となった。
       - 『1st』での設定
-    :\*声：[河本邦弘](https://ja.wikipedia.org/wiki/河本邦弘 "wikilink")
+    :\*声：[河本邦弘](../Page/河本邦弘.md "wikilink")
       -
         元チャイニーズマフィア。
 
@@ -506,7 +506,7 @@
 
 :\*スリーサイズ：B84 W58 H83（PLUS/R）
 
-:\*声：[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")/[深井晴花](https://ja.wikipedia.org/wiki/深井晴花 "wikilink")（PLUS18禁）
+:\*声：[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")/[深井晴花](https://ja.wikipedia.org/wiki/深井晴花 "wikilink")（PLUS18禁）
 
   -
     英名表記は***Aqua Royd***\[41\]。海外版では***Amanda Steele Lloyd***\[42\]。エルディアより来日してきた30代前半の女性で、御堂と意見が対立していた小次郎とショットバーで出会った。
@@ -712,7 +712,7 @@
 
 :\*職業：内閣調査室所属捜査官
 
-:\*声：[池田昌子](https://ja.wikipedia.org/wiki/池田昌子 "wikilink")
+:\*声：[池田昌子](../Page/池田昌子.md "wikilink")
 
   -
     『[TFA](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』にも登場。
@@ -752,7 +752,7 @@
 
 :\*職業：警視庁鑑識課所属
 
-:\*声：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+:\*声：[飛田展男](../Page/飛田展男.md "wikilink")
 
   -
     警視庁鑑識課に勤務する検死官。死体を愛好する変わり者で最も美しい死体は髑髏だと公言する。普段はボーッとしていて気楽な毎日を過ごしているが、鋭い分析力を持ち、犯人の心理や犯行の動機を割り出しまりなに助言する。
@@ -763,7 +763,7 @@
 
 :\*職業：中学生
 
-:\*声：[吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
+:\*声：[吉野裕行](../Page/吉野裕行.md "wikilink")
 
   -
 
@@ -784,7 +784,7 @@
 
 :\*職業：ガイギー製薬研究所所長
 
-:\*声：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
+:\*声：[堀内賢雄](../Page/堀内賢雄.md "wikilink")
 
   -
     トアの父親。ガイギー社の研究総責任者であり、日本に研究員として留学してきた。
@@ -805,7 +805,7 @@
 
 :\*職業：[帝都大学](https://ja.wikipedia.org/wiki/帝都大学 "wikilink")図書館司書
 
-:\*声：[横尾まり](https://ja.wikipedia.org/wiki/横尾まり "wikilink")
+:\*声：[横尾まり](../Page/横尾まり.md "wikilink")
 
   -
 
@@ -815,7 +815,7 @@
 
 :\*職業：仁科組若頭
 
-:\*声：[政宗一成](https://ja.wikipedia.org/wiki/政宗一成 "wikilink")
+:\*声：[政宗一成](../Page/政宗一成.md "wikilink")
 
   -
 
@@ -825,7 +825,7 @@
 
 :\*職業：葉室財閥総帥/自由公民党党首
 
-:\*声：[筈見純](https://ja.wikipedia.org/wiki/筈見純 "wikilink")
+:\*声：[筈見純](../Page/筈見純.md "wikilink")
 
   -
 
@@ -884,7 +884,7 @@
 
 :\*職業：内閣情報調査室所属捜査官
 
-:\*声：[今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink") / [大橋彩香](https://ja.wikipedia.org/wiki/大橋彩香 "wikilink")（rebirth terror）
+:\*声：[今井由香](../Page/今井由香.md "wikilink") / [大橋彩香](https://ja.wikipedia.org/wiki/大橋彩香 "wikilink")（rebirth terror）
 
   -
 
@@ -904,7 +904,7 @@
 
 :\*職業：学生
 
-:\*声：[陶山章央](https://ja.wikipedia.org/wiki/陶山章央 "wikilink")
+:\*声：[陶山章央](../Page/陶山章央.md "wikilink")
 
   -
 
@@ -934,7 +934,7 @@
 
 :\*職業：学生
 
-:\*声：[宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
+:\*声：[宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
 
   -
 
@@ -954,7 +954,7 @@
 
 :\*職業：学生
 
-:\*声：[菊池志穂](https://ja.wikipedia.org/wiki/菊池志穂 "wikilink")
+:\*声：[菊池志穂](../Page/菊池志穂.md "wikilink")
 
   -
 
@@ -964,7 +964,7 @@
 
 :\*職業：「ルカンシェ」店主
 
-:\*声：[横尾まり](https://ja.wikipedia.org/wiki/横尾まり "wikilink")
+:\*声：[横尾まり](../Page/横尾まり.md "wikilink")
 
   -
 
@@ -994,7 +994,7 @@
 
 :\*職業：アメリカ国防省大佐
 
-:\*声：[宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")
+:\*声：[宝亀克寿](../Page/宝亀克寿.md "wikilink")
 
   -
 
@@ -1004,7 +1004,7 @@
 
 :\*職業：アルタイル・コーポレーション社長
 
-:\*声：[榊原良子](https://ja.wikipedia.org/wiki/榊原良子 "wikilink")
+:\*声：[榊原良子](../Page/榊原良子.md "wikilink")
 
   -
 
@@ -1034,7 +1034,7 @@
 
 :\*職業：エルディア国大司教
 
-:\*声：[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")
+:\*声：[小林清志](../Page/小林清志.md "wikilink")
 
 ## The Fatal Attractionシリーズ
 
@@ -1044,7 +1044,7 @@
 
 :\*職業：安藤商事社長
 
-:\*声：[西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+:\*声：[西村知道](../Page/西村知道.md "wikilink")
 
   -
 
@@ -1052,7 +1052,7 @@
 
 :\*性別：女
 
-:\*声：[高木礼子](https://ja.wikipedia.org/wiki/高木礼子 "wikilink")
+:\*声：[高木礼子](../Page/高木礼子.md "wikilink")
 
   -
 
@@ -1060,7 +1060,7 @@
 
 :\*性別：女
 
-:\*声：[高木礼子](https://ja.wikipedia.org/wiki/高木礼子 "wikilink")
+:\*声：[高木礼子](../Page/高木礼子.md "wikilink")
 
   -
 
@@ -1070,7 +1070,7 @@
 
 :\*職業：安藤商事社長秘書
 
-:\*声：[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+:\*声：[玉川紗己子](../Page/玉川砂記子.md "wikilink")
 
   -
 
@@ -1098,9 +1098,9 @@
 
 :\*性別：男
 
-:\*職業：元[SEALS](https://ja.wikipedia.org/wiki/SEALS "wikilink")隊員で現在は[殺し屋](https://ja.wikipedia.org/wiki/殺し屋 "wikilink")
+:\*職業：元[SEALS](https://ja.wikipedia.org/wiki/SEALS "wikilink")隊員で現在は[殺し屋](../Page/殺し屋.md "wikilink")
 
-:\*声：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+:\*声：[長嶝高士](../Page/長嶝高士.md "wikilink")
 
   -
 
@@ -1108,7 +1108,7 @@
 
 :\*性別：女
 
-:\*声：[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")
+:\*声：[かかずゆみ](../Page/かかずゆみ.md "wikilink")
 
   -
 
@@ -1126,7 +1126,7 @@
 
 :\*職業：F\&D通商経営者
 
-:\*声：[大倉正章](https://ja.wikipedia.org/wiki/大倉正章 "wikilink")
+:\*声：[大倉正章](../Page/大倉正章.md "wikilink")
 
   -
 
@@ -1144,7 +1144,7 @@
 
 :\*性別：女
 
-:\*声：[内川藍維](https://ja.wikipedia.org/wiki/内川藍維 "wikilink")
+:\*声：[内川藍維](../Page/内川藍維.md "wikilink")
 
   -
 
@@ -1192,7 +1192,7 @@
 
 :\*職業：GPA日本支局編集局社会部部長
 
-:\*声：[中田和宏](https://ja.wikipedia.org/wiki/中田和宏 "wikilink")/[東慎](https://ja.wikipedia.org/wiki/東慎 "wikilink")
+:\*声：[中田和宏](../Page/中田和宏.md "wikilink")/[東慎](https://ja.wikipedia.org/wiki/東慎 "wikilink")
 
   -
     日銀幹部にまつわる黒い噂を追っており、警察に追われるまりなの手助けをなにかとしてくれる。36年前にわが子を殺された辛い経験を持っている。
@@ -1203,7 +1203,7 @@
 
 :\*職業：内閣調査室(JCIA)所属
 
-:\*声：[甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")/[甲賀忍](https://ja.wikipedia.org/wiki/甲賀忍 "wikilink")
+:\*声：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")/[甲賀忍](https://ja.wikipedia.org/wiki/甲賀忍 "wikilink")
 
   -
     まりなの同僚ということになるが2人の関係は険悪。かつて1度だけ、まりなとパートナーを組んでいた。以来、2人の間には深い溝が存在する。
@@ -1225,7 +1225,7 @@
 
 :\*職業：情報屋
 
-:\*声：[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")/[カンザキカナリ](https://ja.wikipedia.org/wiki/カンザキカナリ "wikilink")
+:\*声：[生天目仁美](../Page/生天目仁美.md "wikilink")/[カンザキカナリ](../Page/カンザキカナリ.md "wikilink")
 
   -
     小次郎が親しくしている腕利きの情報屋。中央公園の粗末な小屋に住んでいる。小次郎は彼女のことを愛着を込めて「サブロク」と呼んでいる。ホームレスでいるのが不思議ともいえる並ならぬ美貌と容姿の持ち主だが、風呂嫌いで臭いため小次郎は無関心。
@@ -1236,7 +1236,7 @@
 
 :\*職業：NPO団体ブラー総帥
 
-:\*声：[さとうあい](https://ja.wikipedia.org/wiki/さとうあい "wikilink")
+:\*声：[さとうあい](../Page/さとうあい.md "wikilink")
 
   -
     デボラ製薬、ブラーの創始者であり総帥でもある老婆。元々は遺伝子工学の権威でにもあった。旧姓は矢枝でエフィの母親。2つの組織を操り、壮大な計画を実現しようとしている。
@@ -1254,7 +1254,7 @@
 
   - 大隈 朋義（おおくま ともよし）
 
-:\*声：[保村真](https://ja.wikipedia.org/wiki/保村真 "wikilink")/[丸山壮史](../Page/丸山壮史.md "wikilink")
+:\*声：[保村真](../Page/保村真.md "wikilink")/[丸山壮史](../Page/丸山壮史.md "wikilink")
 
 :\*性別：男
 
@@ -1281,7 +1281,7 @@
 
   - 大五郎（だいごろう）
 
-:\*声：[大畑伸太郎](https://ja.wikipedia.org/wiki/大畑伸太郎 "wikilink")/[鈴村和泉](https://ja.wikipedia.org/wiki/鈴村和泉 "wikilink")
+:\*声：[大畑伸太郎](../Page/大畑伸太郎.md "wikilink")/[鈴村和泉](https://ja.wikipedia.org/wiki/鈴村和泉 "wikilink")
 
   -
     倉庫街の片隅に捨てられていた子犬を小次郎が拾って養っている。[ミニチュアシュナウザー](https://ja.wikipedia.org/wiki/ミニチュアシュナウザー "wikilink")。小次郎曰く、自分の名前と足して2で割ると名探偵の名前になるとか。
@@ -1313,7 +1313,7 @@
 5.  小次郎の 「左奥の倉庫が、俺様の探偵事務所だ。」 という台詞のほか、『TFAシリーズ』 でのドアの横に貼付されているプレート、停車しているアルファロメオ・デュエットの位置などで明かされている。なお、『SS/Win95版be』 では同社の過去作 『[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")』 との共通設定である 「日本教育監視機構」 の略称 「JES」 のペイントやプレートが付いているというお遊びが見られる。
 6.  『[電撃セガサターン](https://ja.wikipedia.org/wiki/電撃セガサターン "wikilink")』 Vol.1、キャラクター人気ランキング。
 7.  『ADAM』 オンラインマニュアルが前者、()の後者が[Getchu.comでの表記](https://ja.wikipedia.org/wiki/#参考文献 "wikilink")。
-8.  装弾数の設定にはゆれや矛盾があり、『be』 の原作では10発撃って 「9発全弾撃っちゃったわ‥‥。」 、SS版では発砲とテキスト共に13発、Win95版では共に12発、PLUSシリーズでは[二丁拳銃](https://ja.wikipedia.org/wiki/二丁拳銃 "wikilink")だが一丁で12発撃って 「残りが心許ないわ‥‥。」 、『R』では12発撃って「マズいわね、もう実弾の残りが心許ないわ‥‥。」となっている。
+8.  装弾数の設定にはゆれや矛盾があり、『be』 の原作では10発撃って 「9発全弾撃っちゃったわ‥‥。」 、SS版では発砲とテキスト共に13発、Win95版では共に12発、PLUSシリーズでは[二丁拳銃](../Page/二丁拳銃.md "wikilink")だが一丁で12発撃って 「残りが心許ないわ‥‥。」 、『R』では12発撃って「マズいわね、もう実弾の残りが心許ないわ‥‥。」となっている。
 9.  『EVE burst error ［イヴ］ 原画&設定資料集』 ソフトバンク、76頁。[弾倉安全装置が付いていなかったモデルのことで](https://ja.wikipedia.org/wiki/銃の部品#例：拳銃 "wikilink")、『be』 6日の廃ビルでのガンアクションが可能だった理由になっている（PLUSシリーズでは演出が変わったため初期型以外でも関係なくなっている）。
 10. このキャスト変更について「EVE ZERO SOUNDSTRCK＆FM-EVE」で「仕事のし過ぎ」「声が枯れた」という視聴者に対して、法条まりなは「変声機（もしくは変声期）」と答えている。
 11. 『ADAM』 オンラインマニュアル。
@@ -1345,7 +1345,7 @@
 37.
 38.
 39.
-40. これに合わせて、小次郎が使う蔑称は「*[Fat](https://ja.wikipedia.org/wiki/デブ "wikilink")*」になっている。
+40. これに合わせて、小次郎が使う蔑称は「*[Fat](../Page/デブ.md "wikilink")*」になっている。
 41. 『EVE burst error SPECIAL TRADING CARD』イマジニア、全99種（1パック12枚入り）。
 42.
 43.

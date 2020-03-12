@@ -1,13 +1,13 @@
 > この記事は[Smorgas](https://ja.wikipedia.org/wiki/Smorgas)から翻訳されています。
 
 
-**smorgas**（スモーガス）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**smorgas**（スモーガス）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 経歴
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、アイニを中心に、来門、SENSHO1500、[河辺真](https://ja.wikipedia.org/wiki/河辺真 "wikilink")、[あらきゆうこ](https://ja.wikipedia.org/wiki/あらきゆうこ "wikilink")により結成。
   - [1999年](../Page/1999年.md "wikilink")、ミニアルバム「smorgas」リリース。
-  - [2001年](../Page/2001年.md "wikilink")、[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりシングル「ゴンドワナへの旅」でメジャーデビュー。あらきがコーネリアスのサポート参加のためsmorgasでの活動を休止し、そのまま脱退。
+  - [2001年](../Page/2001年.md "wikilink")、[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりシングル「ゴンドワナへの旅」でメジャーデビュー。あらきがコーネリアスのサポート参加のためsmorgasでの活動を休止し、そのまま脱退。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、来門が大麻所持容疑に逮捕されるという報道され、バンドは無期限の活動休止となる。
 
 <!-- end list -->
@@ -121,7 +121,7 @@
 <td><ol>
 <li>ゴンドワナへの旅[4:28]（作詞：来門／作曲：アイニ／編曲：smorgas）</li>
 <li>clover[4:20]（作詞・作曲：アイニ／編曲：smorgas）</li>
-<li>ワイバーン(swollen pickle mix)remixed by yuka honda from <a href="https://ja.wikipedia.org/wiki/チボ・マット" title="wikilink">CIBO MATTO</a>[4:29]</li>
+<li>ワイバーン(swollen pickle mix)remixed by yuka honda from <a href="../Page/チボ・マット.md" title="wikilink">CIBO MATTO</a>[4:29]</li>
 </ol></td>
 <td><p>オリコン最高78位</p></td>
 </tr>
@@ -228,7 +228,7 @@
 <li>TACAO</li>
 <li>L.M.B（DJ.ainee eq records MIX）</li>
 </ol></td>
-<td><p>「smorgas vs <a href="https://ja.wikipedia.org/wiki/妄走族" title="wikilink">妄走族</a>」名義</p></td>
+<td><p>「smorgas vs <a href="../Page/妄走族.md" title="wikilink">妄走族</a>」名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
@@ -280,7 +280,7 @@ SGLP-1:LP</p></td>
 <li>O.T.R.I[0:48]（作曲・編曲：アイニ）</li>
 <li><a href="../Page/虹の彼方に.md" title="wikilink">Over The Rainbow</a>[2:53]（作曲：ハロルド・アーレン／編曲：smorgas）
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ジュディ・ガーランド" title="wikilink">ジュディ・ガーランド</a>のカバー</li>
+<li><a href="../Page/ジュディ・ガーランド.md" title="wikilink">ジュディ・ガーランド</a>のカバー</li>
 </ul></li>
 <li>clover[isometsic mix]remixed by parabona[5:19]</li>
 </ol></td>
@@ -336,7 +336,7 @@ SGLP-1:LP</p></td>
 <td><ol>
 <li>Freak into The Music[5:24]（作詞：来門・アイニ／作曲：アイニ／編曲：smorgas）
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」オープニングテーマ</li>
+<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」オープニングテーマ</li>
 </ul></li>
 <li>眞天狼ファング[4:54]（作詞：来門・アイニ／作曲：アイニ／編曲：smorgas）</li>
 <li>サウンドアスリート[4:19]（作詞：来門・アイニ／作曲：アイニ／編曲：smorgas）</li>
@@ -687,7 +687,7 @@ DISC2-2.pitiful emotional picture. -データスピーカー electro remix-</p><
 </tr>
 <tr class="odd">
 <td><p>2012年10月03日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杏子_(ミュージシャン)" title="wikilink">杏子</a><strong>「Sky's My Limit」</strong></p></td>
+<td><p><a href="../Page/杏子_(ミュージシャン).md" title="wikilink">杏子</a><strong>「Sky's My Limit」</strong></p></td>
 <td><p>AUCL-98<br />
 AUCL-100</p></td>
 <td><p>3.悲しきは… feat.来門</p></td>

@@ -1,9 +1,9 @@
 > この記事は[Espacenet](https://ja.wikipedia.org/wiki/Espacenet)から翻訳されています。
 
 
-**Espacenet**（エスパスネット）は、[欧州特許庁](../Page/欧州特許庁.md "wikilink")及び[欧州特許条約](../Page/欧州特許条約.md "wikilink")加盟国の[特許庁](../Page/特許庁.md "wikilink")が提供する、[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")及び特許出願の検索のための無料のオンライン・サービスである。かつては**esp@cenet**と表記された\[1\]。
+**Espacenet**（エスパスネット）は、[欧州特許庁](../Page/欧州特許庁.md "wikilink")及び[欧州特許条約](../Page/欧州特許条約.md "wikilink")加盟国の[特許庁](../Page/特許庁.md "wikilink")が提供する、[特許](../Page/特許.md "wikilink")及び特許出願の検索のための無料のオンライン・サービスである。かつては**esp@cenet**と表記された\[1\]。
 
-1998年10月にサービスを開始\[2\]。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")より[日本語](../Page/日本語.md "wikilink")の検索ページが正式に利用可能になった。
+1998年10月にサービスを開始\[2\]。[2006年](../Page/2006年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")より[日本語](../Page/日本語.md "wikilink")の検索ページが正式に利用可能になった。
 
 European Patent Register\[3\]等と連携し、最新の審査状況や出願に関する書類（[包袋](https://ja.wikipedia.org/wiki/包袋 "wikilink")）を入手することができる。
 

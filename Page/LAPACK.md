@@ -1,11 +1,11 @@
 > この記事は[LAPACK](https://ja.wikipedia.org/wiki/LAPACK)から翻訳されています。
 
 
-**LAPACK** (Linear Algebra PACKage) [数値線形代数](https://ja.wikipedia.org/wiki/数値線形代数 "wikilink")のための[数値解析ソフトウェア](https://ja.wikipedia.org/wiki/数値解析ソフトウェア "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")で、[線型方程式や](../Page/線型方程式系.md "wikilink")[線型最小二乗問題](../Page/最小二乗法.md "wikilink")、[固有値](../Page/固有値.md "wikilink")問題、[特異値問題等を数値的に解くために利用される](https://ja.wikipedia.org/wiki/特異値分解 "wikilink")。本ライブラリは[複素数](../Page/複素数.md "wikilink")または[実数](../Page/実数.md "wikilink")を成分とする行列を扱うことが可能であり、[LU分解](https://ja.wikipedia.org/wiki/LU分解 "wikilink")や[コレスキー分解](https://ja.wikipedia.org/wiki/コレスキー分解 "wikilink")、[QR分解](https://ja.wikipedia.org/wiki/QR分解 "wikilink")、[シュア分解](https://ja.wikipedia.org/wiki/シュア分解 "wikilink")等の[行列の分解](https://ja.wikipedia.org/wiki/行列の分解 "wikilink")を行うための[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")を含む。サブルーチンは[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink")版と[倍精度](https://ja.wikipedia.org/wiki/倍精度 "wikilink")版が提供される。のLAPACKの初版は[FORTRAN 77](https://ja.wikipedia.org/wiki/FORTRAN#FORTRAN_77 "wikilink") で実装されていたが、現在は[Fortran 90が用いられている](https://ja.wikipedia.org/wiki/FORTRAN#Fortran_90 "wikilink")。LAPACK 3.4.0からはC言語インターフェースであるLAPACKEが統合され、[C言語](../Page/C言語.md "wikilink")や[C++](../Page/C++.md "wikilink")からの利用が容易になった。
+**LAPACK** (Linear Algebra PACKage) [数値線形代数](https://ja.wikipedia.org/wiki/数値線形代数 "wikilink")のための[数値解析ソフトウェア](https://ja.wikipedia.org/wiki/数値解析ソフトウェア "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")で、[線型方程式や](../Page/線型方程式系.md "wikilink")[線型最小二乗問題](../Page/最小二乗法.md "wikilink")、[固有値](../Page/固有値.md "wikilink")問題、[特異値問題等を数値的に解くために利用される](../Page/特異値分解.md "wikilink")。本ライブラリは[複素数](../Page/複素数.md "wikilink")または[実数](../Page/実数.md "wikilink")を成分とする行列を扱うことが可能であり、[LU分解](../Page/LU分解.md "wikilink")や[コレスキー分解](../Page/コレスキー分解.md "wikilink")、[QR分解](../Page/QR分解.md "wikilink")、[シュア分解](https://ja.wikipedia.org/wiki/シュア分解 "wikilink")等の[行列の分解](https://ja.wikipedia.org/wiki/行列の分解 "wikilink")を行うための[サブルーチン](../Page/サブルーチン.md "wikilink")を含む。サブルーチンは[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink")版と[倍精度](https://ja.wikipedia.org/wiki/倍精度 "wikilink")版が提供される。のLAPACKの初版は[FORTRAN 77](https://ja.wikipedia.org/wiki/FORTRAN#FORTRAN_77 "wikilink") で実装されていたが、現在は[Fortran 90が用いられている](https://ja.wikipedia.org/wiki/FORTRAN#Fortran_90 "wikilink")。LAPACK 3.4.0からはC言語インターフェースであるLAPACKEが統合され、[C言語](../Page/C言語.md "wikilink")や[C++](../Page/C++.md "wikilink")からの利用が容易になった。
 
-LAPACKは[LINPACK](../Page/LINPACK.md "wikilink")および[EISPACK](https://ja.wikipedia.org/wiki/EISPACK "wikilink")の後継と見做されている。ただし、LINPACKの設計が開発当時近代的であった共有メモリ型[ベクトルコンピュータを意識したものであるのに対して](../Page/ベクトル計算機.md "wikilink")、本ライブラリの設計は[キャッシュを用いた](https://ja.wikipedia.org/wiki/キャッシュ_\(コンピュータシステム\) "wikilink")[アーキテクチャを有する](../Page/コンピュータ・アーキテクチャ.md "wikilink")、より近代的なコンピュータを意識したものである。LAPACKはLINPACK同様に[BLAS](https://ja.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms "wikilink")（Basic Linear Algebra Subprograms、基本線型代数サブプログラム群）ライブラリ上に構築されている。LAPACKは後に分散メモリ型のコンピュータ向けにやへと拡張された。
+LAPACKは[LINPACK](../Page/LINPACK.md "wikilink")および[EISPACK](https://ja.wikipedia.org/wiki/EISPACK "wikilink")の後継と見做されている。ただし、LINPACKの設計が開発当時近代的であった共有メモリ型[ベクトルコンピュータを意識したものであるのに対して](../Page/ベクトル計算機.md "wikilink")、本ライブラリの設計は[キャッシュを用いた](../Page/キャッシュ_\(コンピュータシステム\).md "wikilink")[アーキテクチャを有する](../Page/コンピュータ・アーキテクチャ.md "wikilink")、より近代的なコンピュータを意識したものである。LAPACKはLINPACK同様に[BLAS](https://ja.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms "wikilink")（Basic Linear Algebra Subprograms、基本線型代数サブプログラム群）ライブラリ上に構築されている。LAPACKは後に分散メモリ型のコンピュータ向けにやへと拡張された。
 
-LAPACKは[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")で提供される[オープンソース](../Page/オープンソース.md "wikilink")ソフトウェアである。
+LAPACKは[BSDライセンス](../Page/BSDライセンス.md "wikilink")で提供される[オープンソース](../Page/オープンソース.md "wikilink")ソフトウェアである。
 
 ## サブルーチン
 
@@ -14,7 +14,7 @@ LAPACKは[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "
 LAPACKのサブルーチンは以下の三種類に大別される。
 
   - ドライバルーチン（driver routines）:LAPACKが扱うことが可能な問題を解くためのルーチン。 問題の例として[線型方程式系](../Page/線型方程式系.md "wikilink")を解く問題や[対称行列](../Page/対称行列.md "wikilink")の[固有値](../Page/固有値.md "wikilink")問題などが挙げられる。利用者の要請に合致する機能のドライバルーチンが存在する場合にはそのルーチンの利用が推奨される。
-    計算ルーチン（computational routines）: 問題を解くために必要な計算タスクを実行するためのルーチン。LAPACKのドライバルーチンは計算ルーチンを連続的に呼び出すことで問題を解く。計算タスクの例として行列を[LU分解](https://ja.wikipedia.org/wiki/LU分解 "wikilink")することや[対称行列](../Page/対称行列.md "wikilink")を[三重対角行列](https://ja.wikipedia.org/wiki/三重対角行列 "wikilink")に変換することなどが挙げられる。前者は線型方程式系を解くために、そして後者は対称行列の固有値問題を解くために必要である。利用者の要請に合致するドライバルーチンが存在しない場合は計算ルーチンを組み合わせて問題を解くことになる。
+    計算ルーチン（computational routines）: 問題を解くために必要な計算タスクを実行するためのルーチン。LAPACKのドライバルーチンは計算ルーチンを連続的に呼び出すことで問題を解く。計算タスクの例として行列を[LU分解](../Page/LU分解.md "wikilink")することや[対称行列](../Page/対称行列.md "wikilink")を[三重対角行列](https://ja.wikipedia.org/wiki/三重対角行列 "wikilink")に変換することなどが挙げられる。前者は線型方程式系を解くために、そして後者は対称行列の固有値問題を解くために必要である。利用者の要請に合致するドライバルーチンが存在しない場合は計算ルーチンを組み合わせて問題を解くことになる。
     補助ルーチン（auxiliary routines）: 補助的に利用されるルーチン。ブロックアルゴリズム内部で利用される計算タスクの一部を実行するものや、[BLASの機能をわずかに拡張したものが含まれる](https://ja.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms "wikilink")。
 
 ### 命名規則
@@ -218,8 +218,8 @@ C言語では慣用のrow-major orderingな行列を計算させる場合、LAPA
   - [LAWNs (LAPACK Working Notes)](http://www.netlib.org/lapack/lawns/) LAPACKの実装に関する文献集
   - [LAPACKサンプルプログラム集](http://www.nag-j.co.jp/lapack/) [NAGによるサンプルプログラム集](https://ja.wikipedia.org/wiki/Numerical_Algorithms_Group "wikilink")
   - [PLASMA](http://icl.cs.utk.edu/plasma/) Parallel Linear Algebra for Scalable Multi-core Architectures、BLAS上に構築された[ホモジニアスマルチコア向けの線型計算ライブラリ](https://ja.wikipedia.org/wiki/マルチコア#ホモジニアスとヘテロジニアス "wikilink")
-  - [CULA](http://www.culatools.com/) [NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")の[CUDA](https://ja.wikipedia.org/wiki/CUDA "wikilink")対応[GPU上で動作する線型計算ライブラリ](../Page/Graphics_Processing_Unit.md "wikilink")
-  - [MAGMA](http://icl.cs.utk.edu/magma/) Matrix Algebra on GPU and Multicore Architectures、LAPACKのサブセットで[マルチコア](https://ja.wikipedia.org/wiki/マルチコア "wikilink")[CPU](../Page/CPU.md "wikilink")と[GPUのハイブリッドアーキテクチャ向け](../Page/Graphics_Processing_Unit.md "wikilink")
+  - [CULA](http://www.culatools.com/) [NVIDIA](../Page/NVIDIA.md "wikilink")の[CUDA](../Page/CUDA.md "wikilink")対応[GPU上で動作する線型計算ライブラリ](../Page/Graphics_Processing_Unit.md "wikilink")
+  - [MAGMA](http://icl.cs.utk.edu/magma/) Matrix Algebra on GPU and Multicore Architectures、LAPACKのサブセットで[マルチコア](../Page/マルチコア.md "wikilink")[CPU](../Page/CPU.md "wikilink")と[GPUのハイブリッドアーキテクチャ向け](../Page/Graphics_Processing_Unit.md "wikilink")
   - [The MPACK; Multiple precision arithmetic BLAS and LAPACK](http://mplapack.sourceforge.net/) 多倍長精度版のBLAS/LAPACK
   - 「BLAS，LAPACK チュートリアル」 MPACKの開発者によるチュートリアル
       - [パート1 （簡単な使い方とプログラミング）](http://www.jsces.org/Issue/Journal/pdf/nakata-0411.pdf)

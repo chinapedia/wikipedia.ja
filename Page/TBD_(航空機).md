@@ -1,19 +1,19 @@
 > この記事は[TBD \(\)](https://ja.wikipedia.org/wiki/TBD_\(\))から翻訳されています。
 
 
-**TBD デヴァステイター**（*Douglas TBD Devastator* ）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")前期に使用した主力[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")（[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")）である。本機は[アメリカ初の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[艦載](https://ja.wikipedia.org/wiki/艦載機 "wikilink")[単葉](https://ja.wikipedia.org/wiki/単葉 "wikilink")[金属](../Page/金属.md "wikilink")機でもある。
+**TBD デヴァステイター**（*Douglas TBD Devastator* ）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")前期に使用した主力[雷撃機](../Page/雷撃機.md "wikilink")（[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")）である。本機は[アメリカ初の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[艦載](https://ja.wikipedia.org/wiki/艦載機 "wikilink")[単葉](https://ja.wikipedia.org/wiki/単葉 "wikilink")[金属](../Page/金属.md "wikilink")機でもある。
 
 愛称は**デヴァステイター**。「荒廃させるもの、破壊者」の意である。また、日本語で読む際には**デバステーター**などとも表記されることがある。
 
 ## 概要
 
-TBDは、計画中の新型[空母](../Page/航空母艦.md "wikilink")（後の[ヨークタウン級航空母艦](../Page/ヨークタウン級航空母艦.md "wikilink")）に搭載される次期艦上雷撃・[爆撃機として](../Page/艦上爆撃機.md "wikilink")[ダグラス社に対して](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")[1934年](../Page/1934年.md "wikilink")に開発が依頼された機体で、[1935年](../Page/1935年.md "wikilink")に初飛行し、[1937年](../Page/1937年.md "wikilink")に就役を開始した。
+TBDは、計画中の新型[空母](../Page/航空母艦.md "wikilink")（後の[ヨークタウン級航空母艦](../Page/ヨークタウン級航空母艦.md "wikilink")）に搭載される次期艦上雷撃・[爆撃機として](../Page/艦上爆撃機.md "wikilink")[ダグラス社に対して](../Page/ダグラス・エアクラフト.md "wikilink")[1934年](../Page/1934年.md "wikilink")に開発が依頼された機体で、[1935年](../Page/1935年.md "wikilink")に初飛行し、[1937年](../Page/1937年.md "wikilink")に就役を開始した。
 
-完成当時は世界最高水準を誇る[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")と言われており、性能面でも運用にあたって問題はなく、非常に完成度の高い機体ではあったが、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")が始まったときには最高速度が300km/hしか出せないこの雷撃機はすでに時代遅れになっており、[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[零式艦上戦闘機](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")などに多数が[撃墜](../Page/撃墜.md "wikilink")された。中でも[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")では、[機動部隊](https://ja.wikipedia.org/wiki/機動部隊 "wikilink")の直掩任務に就いていた零戦に迎撃されて大半が[魚雷](../Page/魚雷.md "wikilink")を投下する前に撃墜された上、魚雷投下に成功ないし魚雷を投棄して帰投しようとした機体も追撃を受け、4機を除き未帰還となり装備部隊は完膚なきまでの損害を蒙った。（しかし、結果的にそれが囮となり、後続の[SBD ドーントレス隊の活躍につながった](https://ja.wikipedia.org/wiki/SBD_\(航空機\) "wikilink")） 。 それでも[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")では[祥鳳を](https://ja.wikipedia.org/wiki/祥鳳_\(空母\) "wikilink")[撃沈](../Page/撃沈.md "wikilink")するなど、海戦初期の[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")航空戦力の一端を担った。
+完成当時は世界最高水準を誇る[雷撃機](../Page/雷撃機.md "wikilink")と言われており、性能面でも運用にあたって問題はなく、非常に完成度の高い機体ではあったが、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")が始まったときには最高速度が300km/hしか出せないこの雷撃機はすでに時代遅れになっており、[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[零式艦上戦闘機](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")などに多数が[撃墜](../Page/撃墜.md "wikilink")された。中でも[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")では、[機動部隊](../Page/機動部隊.md "wikilink")の直掩任務に就いていた零戦に迎撃されて大半が[魚雷](../Page/魚雷.md "wikilink")を投下する前に撃墜された上、魚雷投下に成功ないし魚雷を投棄して帰投しようとした機体も追撃を受け、4機を除き未帰還となり装備部隊は完膚なきまでの損害を蒙った。（しかし、結果的にそれが囮となり、後続の[SBD ドーントレス隊の活躍につながった](../Page/SBD_\(航空機\).md "wikilink")） 。 それでも[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")では[祥鳳を](../Page/祥鳳_\(空母\).md "wikilink")[撃沈](../Page/撃沈.md "wikilink")するなど、海戦初期の[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")航空戦力の一端を担った。
 
 これを機会にTBDを装備していた[部隊](../Page/部隊.md "wikilink")は再建にあたって後継機の[TBF アヴェンジャー雷撃機を装備し](../Page/TBF_\(航空機\).md "wikilink")、[大西洋](../Page/大西洋.md "wikilink")方面でもTBFにその座を譲り、[1942年](../Page/1942年.md "wikilink")中頃から序々に第一線から退き、[1944年](../Page/1944年.md "wikilink")には全機が引退した。
 
-ファイル:XTBD-1 NAN11-78.jpg|[試作型](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink") XTBD-1 ファイル:TBD-1A NAN11-78.jpg|[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")を装着した試作[水上機](../Page/水上機.md "wikilink")型 TBD-1A ファイル:AL-78 Pasewalk (15235926346).jpg|[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")、[ハワイより出撃するTBDの編隊](../Page/ハワイ州.md "wikilink")
+ファイル:XTBD-1 NAN11-78.jpg|[試作型](../Page/プロトタイプ.md "wikilink") XTBD-1 ファイル:TBD-1A NAN11-78.jpg|[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")を装着した試作[水上機](../Page/水上機.md "wikilink")型 TBD-1A ファイル:AL-78 Pasewalk (15235926346).jpg|[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")、[ハワイより出撃するTBDの編隊](../Page/ハワイ州.md "wikilink")
 
 ## 諸元(TBD-1)
 
@@ -62,9 +62,9 @@ TBDは、計画中の新型[空母](../Page/航空母艦.md "wikilink")（後の
 
 
 
-  - [雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")
+  - [雷撃機](../Page/雷撃機.md "wikilink")
   - [TBF アヴェンジャー](../Page/TBF_\(航空機\).md "wikilink")
   - [XTB2D](../Page/XTB2D_\(航空機\).md "wikilink")
-  - [九九式艦上爆撃機](https://ja.wikipedia.org/wiki/九九式艦上爆撃機 "wikilink")
+  - [九九式艦上爆撃機](../Page/九九式艦上爆撃機.md "wikilink")
 
 [Category:アメリカ合衆国の爆撃機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の爆撃機 "wikilink") [Category:艦載機](https://ja.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:ダグラスの航空機](https://ja.wikipedia.org/wiki/Category:ダグラスの航空機 "wikilink")

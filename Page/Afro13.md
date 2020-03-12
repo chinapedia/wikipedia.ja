@@ -1,7 +1,7 @@
 > この記事は[Afro13](https://ja.wikipedia.org/wiki/Afro13)から翻訳されています。
 
 
-**Afro13**(アフロサーティーン)とは、ゲームシナリオライターである演出家・[佐々木智広](https://ja.wikipedia.org/wiki/佐々木智広 "wikilink")が、[劇団☆新感線](../Page/劇団☆新感線.md "wikilink")に所属する[中谷さとみ](https://ja.wikipedia.org/wiki/中谷さとみ "wikilink")と[タイソン大屋](https://ja.wikipedia.org/wiki/タイソン大屋 "wikilink")と共に、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月](../Page/9月.md "wikilink")に京都で結成したユニット。記念すべき1st Liveは、1998年12月18日～20日[京都大学](../Page/京都大学.md "wikilink")吉田寮食堂にて行われた『宇宙人のお兄ちゃんはドロドロ満月星人や』。
+**Afro13**(アフロサーティーン)とは、ゲームシナリオライターである演出家・[佐々木智広](https://ja.wikipedia.org/wiki/佐々木智広 "wikilink")が、[劇団☆新感線](../Page/劇団☆新感線.md "wikilink")に所属する[中谷さとみ](../Page/中谷さとみ.md "wikilink")と[タイソン大屋](https://ja.wikipedia.org/wiki/タイソン大屋 "wikilink")と共に、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月](../Page/9月.md "wikilink")に京都で結成したユニット。記念すべき1st Liveは、1998年12月18日～20日[京都大学](../Page/京都大学.md "wikilink")吉田寮食堂にて行われた『宇宙人のお兄ちゃんはドロドロ満月星人や』。
 
 ## 略歴
 

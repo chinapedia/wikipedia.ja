@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の[長谷川純](https://ja.wikipedia.org/wiki/長谷川純 "wikilink")、[加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")（後に[NEWSとしてデビュー](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）、[東新良和](https://ja.wikipedia.org/wiki/東新良和 "wikilink")が出演したSFコメディドラマ。
+[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の[長谷川純](../Page/長谷川純.md "wikilink")、[加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")（後に[NEWSとしてデビュー](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）、[東新良和](../Page/東新良和.md "wikilink")が出演したSFコメディドラマ。
 
 あからさまに着ぐるみのような宇宙人が登場するが、それは宇宙服で、中には別の姿があるという、チープさを逆手に取った設定が妙な味を出していた。
 

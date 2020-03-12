@@ -3,7 +3,7 @@
 
 **KAORI**（かおり、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月8日](../Page/5月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[レースクイーン](../Page/レースクイーン.md "wikilink")、元[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")。
 
-[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。
+[千葉県](../Page/千葉県.md "wikilink")出身。
 
 ## 略歴
 
@@ -11,9 +11,9 @@
 
 [2000年](../Page/2000年.md "wikilink")に「[5ZIGEN](https://ja.wikipedia.org/wiki/5ZIGEN "wikilink")」、[2001年](../Page/2001年.md "wikilink")に「シグマテックレーシング」のレースクィーンとなったのをきっかけに、雑誌の[グラビアで注目される](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")。
 
-2001年9月に写真集『bé cat』、[ビデオ](https://ja.wikipedia.org/wiki/イメージビデオ "wikilink")『森嶋かおり』で本格デビュー。
+2001年9月に写真集『bé cat』、[ビデオ](../Page/イメージビデオ.md "wikilink")『森嶋かおり』で本格デビュー。
 
-[2002年](../Page/2002年.md "wikilink")より**KAORI**の芸名を名乗り、その後はセクシーグラビアや[イメージDVDで人気を呼ぶ](https://ja.wikipedia.org/wiki/イメージビデオ "wikilink")。 他には、『[Se-女\!](https://ja.wikipedia.org/wiki/Se-女! "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）などの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")や、[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")『略奪〜マネークラッシュ』（[2004年](../Page/2004年.md "wikilink")）などに出演。 尚、実際の生年は1975年だが\[1\]、からプロフィールの年齢を3歳若く公表するようになった。
+[2002年](../Page/2002年.md "wikilink")より**KAORI**の芸名を名乗り、その後はセクシーグラビアや[イメージDVDで人気を呼ぶ](../Page/イメージビデオ.md "wikilink")。 他には、『[Se-女\!](https://ja.wikipedia.org/wiki/Se-女! "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）などの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")や、[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")『略奪〜マネークラッシュ』（[2004年](../Page/2004年.md "wikilink")）などに出演。 尚、実際の生年は1975年だが\[1\]、からプロフィールの年齢を3歳若く公表するようになった。
 
 [2009年](../Page/2009年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[MUTEKI](https://ja.wikipedia.org/wiki/MUTEKI "wikilink")から[AVデビュー](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。
 
@@ -66,7 +66,7 @@
   - JUICY MANGOSTEEN（2006年10月20日、竹書房）
   - ふたり曼荼羅（2006年11月24日、ぶんか社）共演:[名波はるか](../Page/名波はるか.md "wikilink")
   - 艶尻（2007年2月23日、ぶんか社）
-  - EX VIRGIN（2007年5月25日→発売中止、[英知出版](https://ja.wikipedia.org/wiki/英知出版 "wikilink")）
+  - EX VIRGIN（2007年5月25日→発売中止、[英知出版](../Page/英知出版.md "wikilink")）
   - ALL IN KAORI（2007年9月30日、BNS）
   - 哀しみのファンタスティックワイフ 〜希望という名の絶望〜 （2007年10月7日、ATTACK ZONE）共演:名波はるか
   - 濡れ時間（2007年12月25日、[ゴマブックス](../Page/ゴマブックス.md "wikilink")）
@@ -93,7 +93,7 @@
   - VIP HIP SEX（2010年6月1日、MUTEKI）
   - Bitch\!（2010年7月1日、MUTEKI）
   - 乱交（2010年10月1日、MUTEKI）
-  - 本番解禁（2010年12月7日、[プレミアム](https://ja.wikipedia.org/wiki/プレミアム_\(アダルトビデオ\) "wikilink")）
+  - 本番解禁（2010年12月7日、[プレミアム](../Page/プレミアム_\(アダルトビデオ\).md "wikilink")）
   - 淫・女尻スペシャル（2011年1月7日、プレミアム）
   - 悩殺ノーパン女教師（2011年4月7日、プレミアム）
   - 3D美画裸 〜BIERA〜（2011年5月7日、プレミアム）
@@ -196,7 +196,7 @@
 
   - PV - Private Venus（2002年6月10日発売／2002年6月25日発行、[ワニブックス](../Page/ワニブックス.md "wikilink")）　ISBN 4-8470-2683-7　撮影: HIDETO
   - liquid body　（2002年10月3日発売 / 2002年9月30日発行、エム・ウェーブ）　ISBN 4-901219-38-3　撮影: HIDETO
-  - vibes（2002年11月22日発売 / 2002年12月6日発行、[バウハウス](https://ja.wikipedia.org/wiki/バウハウス_\(出版\) "wikilink")）　ISBN 4-89461-929-6　撮影: HIDETO、[西川和久](https://ja.wikipedia.org/wiki/西川和久 "wikilink")
+  - vibes（2002年11月22日発売 / 2002年12月6日発行、[バウハウス](https://ja.wikipedia.org/wiki/バウハウス_\(出版\) "wikilink")）　ISBN 4-89461-929-6　撮影: HIDETO、[西川和久](../Page/西川和久.md "wikilink")
   - INSOMNIA（2003年5月20日発売 / 2003年5月27日発行、[竹書房](../Page/竹書房.md "wikilink")）　ISBN 4-8124-1191-2　撮影: [上野勇](https://ja.wikipedia.org/wiki/上野勇 "wikilink")
   - 妄想遊戯（2003年11月17日発売 / 2003年12月1日発行、[ぶんか社](../Page/ぶんか社.md "wikilink")）　ISBN 4-8211-2585-4　撮影: [小塚毅之](https://ja.wikipedia.org/wiki/小塚毅之 "wikilink")
   - 妄想曼荼羅（2004年7月21日発売 / 2004年8月10日発行、ぶんか社）　ISBN 4-8211-2626-5　撮影: HIDETO
@@ -211,7 +211,7 @@
 
 ## 関連項目
 
-  - [着エロ](https://ja.wikipedia.org/wiki/着エロ "wikilink")
+  - [着エロ](../Page/着エロ.md "wikilink")
 
 ## 外部リンク
 

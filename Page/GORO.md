@@ -7,7 +7,7 @@
 
   - 毎月第2・第4木曜日発売の月2回刊であった。
   - 女性[グラビアや](https://ja.wikipedia.org/wiki/グラビア写真 "wikilink")[新車情報](../Page/自動車.md "wikilink")、女性の口説き方のノウハウ、漫画まで多彩な情報を詰め込んだ内容となっていた。このため、[1970年代](../Page/1970年代.md "wikilink")～[1980年代](../Page/1980年代.md "wikilink")の若者の流行や風俗、考え方を知る上で貴重な資料となっている。
-  - [篠山紀信](../Page/篠山紀信.md "wikilink")の[激写](https://ja.wikipedia.org/wiki/激写 "wikilink")シリーズは、この雑誌に掲載されていたものである。
+  - [篠山紀信](../Page/篠山紀信.md "wikilink")の[激写](../Page/激写.md "wikilink")シリーズは、この雑誌に掲載されていたものである。
   - 毎号、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")のポスターが付属していた。
 
 ## 歴史
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [激写](https://ja.wikipedia.org/wiki/激写 "wikilink")
+  - [激写](../Page/激写.md "wikilink")
   - [実験人形ダミー・オスカー](https://ja.wikipedia.org/wiki/実験人形ダミー・オスカー "wikilink")
 
 [Category:日本の雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の雑誌_\(休廃刊\) "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:1974年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1974年創刊の雑誌 "wikilink") [Category:1992年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1992年休廃刊の雑誌 "wikilink")

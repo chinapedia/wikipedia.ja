@@ -8,7 +8,7 @@
   - TAYLOW
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。1981年ニューロン参加～1982年the原爆オナニーズへ。もともとはミック松尾と[THE STAR CLUBのマネージャーをしていた](../Page/THE_STAR_CLUB.md "wikilink")。
   - EDDIE
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。1982年ニューロン加入～the原爆オナニーズへ。元THE STAR CLUB。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。1982年ニューロン加入～the原爆オナニーズへ。元THE STAR CLUB。
   - SHINOBU
     [ギター](../Page/ギター.md "wikilink")担当。2001年12月加入。元ASHES。
   - JOHNNY
@@ -17,7 +17,7 @@
 ### 旧メンバー
 
   - 良次雄（オリジナルメンバー）
-    ボーカル、ギター担当。1983年[THE STALIN加入の為上京するが数ヶ月で解散](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")。そのまま東京にOXYDOLLのNON、GUNを呼び[TATSUYAとの](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")4人で[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")(Genbaku OxyDoll)をスタートした。
+    ボーカル、ギター担当。1983年[THE STALIN加入の為上京するが数ヶ月で解散](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")。そのまま東京にOXYDOLLのNON、GUNを呼び[TATSUYAとの](../Page/中村達也_\(ドラマー\).md "wikilink")4人で[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")(Genbaku OxyDoll)をスタートした。
   - 大口ミキオ（オリジナルメンバー）
     ドラムス担当。1982年12月脱退。
   - Hiko（オリジナルメンバー）
@@ -28,8 +28,8 @@
     ドラムス担当。1983年加入。1985年頭に失踪。
   - SHIGEKI
     ギター担当。1983年加入。2001年12月海外転勤の為脱退。
-  - [TATSUYA](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")（永久メンバー）
-    ドラムス担当。1982年に良次雄と出会いOXYDOLLから加入するがライブを1回した後突如ミチロウが駆けつけてきて2人は[THE STALINへ引き抜かれる](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")。その後[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")、MASTURBATION、[NICKEY & THE WARRIORSを経て](../Page/NICKEY_&_THE_WARRIORS.md "wikilink")1985年5月に再加入を果たしたが更に[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")、[Blankey Jet Cityを経て現在](https://ja.wikipedia.org/wiki/Blankey_Jet_City "wikilink")[LOSALIOS](https://ja.wikipedia.org/wiki/LOSALIOS "wikilink")、[FRICTIONで活動](../Page/フリクション_\(バンド\).md "wikilink")。
+  - [TATSUYA](../Page/中村達也_\(ドラマー\).md "wikilink")（永久メンバー）
+    ドラムス担当。1982年に良次雄と出会いOXYDOLLから加入するがライブを1回した後突如ミチロウが駆けつけてきて2人は[THE STALINへ引き抜かれる](https://ja.wikipedia.org/wiki/THE_STALIN "wikilink")。その後[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")、MASTURBATION、[NICKEY & THE WARRIORSを経て](../Page/NICKEY_&_THE_WARRIORS.md "wikilink")1985年5月に再加入を果たしたが更に[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、[THE GOD](https://ja.wikipedia.org/wiki/THE_GOD "wikilink")、[Blankey Jet Cityを経て現在](https://ja.wikipedia.org/wiki/Blankey_Jet_City "wikilink")[LOSALIOS](../Page/LOSALIOS.md "wikilink")、[FRICTIONで活動](../Page/フリクション_\(バンド\).md "wikilink")。
   - [KEN](../Page/横山健.md "wikilink")（永久メンバー）
     ギター担当。2002年10月加入。2004年脱退。
   - SHINJI
@@ -102,12 +102,12 @@
 
 ## 関連項目
 
-  - [愛知県出身の人物一覧](https://ja.wikipedia.org/wiki/愛知県出身の人物一覧 "wikilink")
-  - [アルケミーレコード](https://ja.wikipedia.org/wiki/アルケミーレコード "wikilink")
+  - [愛知県出身の人物一覧](../Page/愛知県出身の人物一覧.md "wikilink")
+  - [アルケミーレコード](../Page/アルケミーレコード.md "wikilink")
   - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
   - [ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")
   - [THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")
-  - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")
+  - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")
   - [PIZZA OF DEATH RECORDS](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")
 
 ## 外部リンク

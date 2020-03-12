@@ -1,7 +1,7 @@
 > この記事は[ in USA](https://ja.wikipedia.org/wiki/_in_USA)から翻訳されています。
 
 
-**宮里藍のビッグゴルフ in USA**（みやざとあい　- イン・ユーエスーエー）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放映された[ゴルフ](../Page/ゴルフ.md "wikilink")番組である。
+**宮里藍のビッグゴルフ in USA**（みやざとあい　- イン・ユーエスーエー）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放映された[ゴルフ](../Page/ゴルフ.md "wikilink")番組である。
 
 ## 番組概要
 
@@ -12,7 +12,7 @@
 
   - ホステス:宮里藍選手
   - 進行:[岩瀬恵子](https://ja.wikipedia.org/wiki/岩瀬恵子 "wikilink")
-  - 解説:[岡本綾子](https://ja.wikipedia.org/wiki/岡本綾子 "wikilink")選手
+  - 解説:[岡本綾子](../Page/岡本綾子.md "wikilink")選手
   - 聞き手:[植草朋樹](../Page/植草朋樹.md "wikilink")（テレビ東京　第1戦のみ） → [根岸朗](../Page/根岸朗.md "wikilink")（第2戦以後）
 
 ## 対戦記録
@@ -20,19 +20,19 @@
   - 第1戦（2006年4月2日 - 5月7日放送分）
       - 宮里藍選手：4,000USドル
       - [ローラ・デービース](https://ja.wikipedia.org/wiki/ローラ・デービース "wikilink")選手：7,000USドル
-      - [カリー・ウェブ](https://ja.wikipedia.org/wiki/カリー・ウェブ "wikilink")選手：7,000USドル
+      - [カリー・ウェブ](../Page/カリー・ウェブ.md "wikilink")選手：7,000USドル
   - 第2戦（2006年5月14日 - 6月18日放送分）
       - 宮里藍選手
       - [ルイーズ・スターレ](https://ja.wikipedia.org/wiki/ルイーズ・スターレ "wikilink")選手
       - [ブリタニー・キング](https://ja.wikipedia.org/wiki/ブリタニー・キング "wikilink")選手
   - 第3戦（2006年6月25日 - 7月30日放送分）
       - 宮里藍選手
-      - [パク・セリ選手](https://ja.wikipedia.org/wiki/朴セリ "wikilink")
+      - [パク・セリ選手](../Page/朴セリ.md "wikilink")
       - [ロサレス](https://ja.wikipedia.org/wiki/ロサレス "wikilink")選手
 
 ## 番組提供スポンサー
 
-  - [提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")は番組開始当初、[三菱電機](../Page/三菱電機.md "wikilink")と[久光製薬](https://ja.wikipedia.org/wiki/久光製薬 "wikilink")の部分はカラー表示（後期に絨毯付き）だったが、後期に三菱電機・久光製薬の部分はVTRに挿入しており、三菱・久光以外のスポンサーはテレビ東京出ししている。
+  - [提供クレジット](../Page/提供クレジット.md "wikilink")は番組開始当初、[三菱電機](../Page/三菱電機.md "wikilink")と[久光製薬](../Page/久光製薬.md "wikilink")の部分はカラー表示（後期に絨毯付き）だったが、後期に三菱電機・久光製薬の部分はVTRに挿入しており、三菱・久光以外のスポンサーはテレビ東京出ししている。
   - 2006年10月より三菱電機が筆頭スポンサーに久光製薬など複数社提供枠になっている。
 
 ## 外部リンク

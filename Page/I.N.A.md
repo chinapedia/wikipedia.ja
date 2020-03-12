@@ -1,7 +1,7 @@
 > この記事は[I.N.A](https://ja.wikipedia.org/wiki/I.N.A)から翻訳されています。
 
 
-**I.N.A**（いな、[1964年](../Page/1964年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）は、日本の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[プログラマー](https://ja.wikipedia.org/wiki/プログラマーの一覧 "wikilink")、[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")。本名は稲田和彦（いなだ かずひこ）。
+**I.N.A**（いな、[1964年](../Page/1964年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）は、日本の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[プログラマー](../Page/プログラマーの一覧.md "wikilink")、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")。本名は稲田和彦（いなだ かずひこ）。
 
 ## 概略
 
@@ -9,7 +9,7 @@
 
 X JAPANのマニピュレーター、レコーディングエンジニアを務めるかたわら、X JAPANギタリスト[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")のソロのツアーメンバー「[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide#ツアーメンバー "wikilink")」の一員として、またhideの全ての楽曲の共同プロデューサーとして活動。hideのライブでは[パーカッション](../Page/パーカッション.md "wikilink")とマニピュレーターを担当。
 
-また、[zilchへの参加](https://ja.wikipedia.org/wiki/hide#zilch "wikilink")、HIDEの死後には[HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink")、[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")と[Dope HEADzを結成](../Page/Dope_HEADz.md "wikilink")。音楽プロデュースをメインに、アレンジ、リミックス、[DJなど幅広い活動をおこなっている](../Page/ディスクジョッキー.md "wikilink")。
+また、[zilchへの参加](https://ja.wikipedia.org/wiki/hide#zilch "wikilink")、HIDEの死後には[HEATH](../Page/HEATH.md "wikilink")、[PATA](../Page/PATA.md "wikilink")と[Dope HEADzを結成](../Page/Dope_HEADz.md "wikilink")。音楽プロデュースをメインに、アレンジ、リミックス、[DJなど幅広い活動をおこなっている](../Page/ディスクジョッキー.md "wikilink")。
 
 ## X JAPAN、HIDE、hideとの関係
 
@@ -40,13 +40,13 @@ hideのツアーメンバーでもあるINAだが、元々はXのレコーディ
   - 2002年 DopeHEADz『PLANET OF THE Dope **』**（全収録曲共同プロデュース・プログラミング他）
   - 2003年 [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink") 『[Shock of Love](https://ja.wikipedia.org/wiki/Shock_of_Love "wikilink")』 （サウンドプロデュース・編曲・プログラミング）
   - 2006年 [cherry filter](https://ja.wikipedia.org/wiki/cherry_filter "wikilink") 『[PEACE N' ROCK N' ROLL](https://ja.wikipedia.org/wiki/PEACE_N'_ROCK_N'_ROLL "wikilink")』 （「Revolution A.D」「PEACE N' ROCK N' ROLL」「Madonna of the WAR」プロデュース・編曲・プログラミング）
-  - 2006年 [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") 『[ピンク スパイダー](../Page/ピンク_スパイダー.md "wikilink")』 （プロデュース・プログラミング）
+  - 2006年 [RIZE](../Page/RIZE.md "wikilink") 『[ピンク スパイダー](../Page/ピンク_スパイダー.md "wikilink")』 （プロデュース・プログラミング）
   - 2006年 RIZE 『[KAMI/heiwa](https://ja.wikipedia.org/wiki/KAMI/heiwa "wikilink")』 （プロデュース・プログラミング）
   - 2006年 RIZE 『[ALTERNA](https://ja.wikipedia.org/wiki/ALTERNA "wikilink")』 （全収録曲プロデュース・プログラミング）
   - 2006年 [cherry filter](https://ja.wikipedia.org/wiki/cherry_filter "wikilink") 『REWIND』 （「Wadatsumi no Ki」プロデュース・編曲・プログラミング）
-  - 2007年 [ONE OK ROCK](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink") 『[エトセトラ](https://ja.wikipedia.org/wiki/エトセトラ_\(曲\) "wikilink")』 （「後悔役に立たず」プロデュース・編曲・プログラミング・デジタル編集）
+  - 2007年 [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink") 『[エトセトラ](https://ja.wikipedia.org/wiki/エトセトラ_\(曲\) "wikilink")』 （「後悔役に立たず」プロデュース・編曲・プログラミング・デジタル編集）
   - 2007年 ONE OK ROCK 『[ゼイタクビョウ](https://ja.wikipedia.org/wiki/ゼイタクビョウ "wikilink")』 （「Lujo」プロデュース・編曲・プログラミング・デジタル編集）
-  - 2007年 [DuelJewel](https://ja.wikipedia.org/wiki/DuelJewel "wikilink") 『[BULLET](https://ja.wikipedia.org/wiki/BULLET "wikilink")』 （「華唄～桜華繚乱～」「BULLET×STAR」「ライムドロップスo」「マイノリティコンプレックス」サウンドプロデュース・編曲・プログラミング・デジタル編集）
+  - 2007年 [DuelJewel](../Page/DuelJewel.md "wikilink") 『[BULLET](https://ja.wikipedia.org/wiki/BULLET "wikilink")』 （「華唄～桜華繚乱～」「BULLET×STAR」「ライムドロップスo」「マイノリティコンプレックス」サウンドプロデュース・編曲・プログラミング・デジタル編集）
   - 2013年 hide TRIBUTE V -PSYBORG ROCK SPIRITS-（全収録曲プロデュース・リミックス）
   - 2013年 hide TRIBUTE VII -ROCK SPIRITS-（「ピンクスパイダー」プロデュース・編曲・プログラミング・デジタル編集）
   - 2014年 hide 『[子 ギャル](https://ja.wikipedia.org/wiki/子_ギャル "wikilink")』 （全収録曲共同プロデュース・プログラミング）
@@ -70,7 +70,7 @@ hideのツアーメンバーでもあるINAだが、元々はXのレコーディ
 
 <!-- end list -->
 
-  - 2006年 [AcQuA-E.P.](https://ja.wikipedia.org/wiki/AcQuA-E.P. "wikilink") 『[Didn’t See Us Coming](https://ja.wikipedia.org/wiki/Didn’t_See_Us_Coming "wikilink")』 （「REMEMBER」「ONE REASON」作曲・編曲・プログラミング・デジタル編集）
+  - 2006年 [AcQuA-E.P.](../Page/AcQuA-E.P..md "wikilink") 『[Didn’t See Us Coming](https://ja.wikipedia.org/wiki/Didn’t_See_Us_Coming "wikilink")』 （「REMEMBER」「ONE REASON」作曲・編曲・プログラミング・デジタル編集）
   - 2009年 [THE REBOOT](https://ja.wikipedia.org/wiki/THE_REBOOT "wikilink") 『[協定世界時](https://ja.wikipedia.org/wiki/協定世界時_\(THE_REBOOT\) "wikilink")』 （「Breakin' Prisoner～破壊踊因～」「歌舞伎祭～KABUKI PARTY～」作曲・編曲・プログラミング・ギター）
   - 2011年 Fan+コンテンツ、3Dオーディオドラマ『歴メン 土方歳三』（オリジナルサウンドトラック）
   - 2012年 misc 『QUEEN BEE』（全収録曲作曲・編曲・プロデュース・プログラミング・デジタル編集・ミックス）
@@ -79,14 +79,14 @@ hideのツアーメンバーでもあるINAだが、元々はXのレコーディ
 
 ### アレンジ、リミックス
 
-  - 2004年 [ソ・テジ](https://ja.wikipedia.org/wiki/ソ・テジ "wikilink") 『[Issue](https://ja.wikipedia.org/wiki/Issue "wikilink")』 （全収録曲編曲・プログラミング・デジタル編集）
+  - 2004年 [ソ・テジ](../Page/ソ・テジ.md "wikilink") 『[Issue](https://ja.wikipedia.org/wiki/Issue "wikilink")』 （全収録曲編曲・プログラミング・デジタル編集）
   - 2006年 [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』 （「[HIGH PRESSURE](../Page/HIGH_PRESSURE.md "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")」「[魔弾 〜Der Freischütz〜](https://ja.wikipedia.org/wiki/魔弾_〜Der_Freischütz〜/LOVE_SAVER "wikilink")」編曲・プログラミング・デジタル編集）
-  - 2008年 [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") 『[K.O.](https://ja.wikipedia.org/wiki/K.O._\(RIZE\) "wikilink")』 （「風」編曲・プログラミング・デジタル編集）
+  - 2008年 [RIZE](../Page/RIZE.md "wikilink") 『[K.O.](https://ja.wikipedia.org/wiki/K.O._\(RIZE\) "wikilink")』 （「風」編曲・プログラミング・デジタル編集）
   - 2011年 hide ROCKミュージカル『ピンクスパイダー』（全曲編曲・音楽監督）
   - 2012年 [アリス十番](https://ja.wikipedia.org/wiki/アリス十番 "wikilink") 『真・アドベンチャー』（編曲・プログラミング・オールインスト）
   - 2012年 [アリス十番](https://ja.wikipedia.org/wiki/アリス十番 "wikilink") 『シンデレラ』（編曲・プログラミング・オールインスト）
   - 2012年 [スチームガールズ](https://ja.wikipedia.org/wiki/スチームガールズ "wikilink") 『未来ノヒカリ』（編曲・プログラミング・オールインスト）
-  - 2012年 [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink") 『[Run to the Sun/Walk with Dream](https://ja.wikipedia.org/wiki/Run_to_the_Sun/Walk_with_Dreams "wikilink")』（「Run to the Sun」リミックス）
+  - 2012年 [Dragon Ash](../Page/Dragon_Ash.md "wikilink") 『[Run to the Sun/Walk with Dream](https://ja.wikipedia.org/wiki/Run_to_the_Sun/Walk_with_Dreams "wikilink")』（「Run to the Sun」リミックス）
   - 2013年 [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『[UNDER:COVER2](https://ja.wikipedia.org/wiki/UNDER:COVER_2 "wikilink")』 （「[Burnin' X'mas](https://ja.wikipedia.org/wiki/Burnin'_X'mas "wikilink")」編曲・プログラミング・デジタル編集）
   - 2013年 hide TRIBUTE VII -ROCK SPIRITS-（「MISERY GLAY remixed by INA」編曲・プログラミング・デジタル編集）
   - 2013年 [defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink") 『brilliant』（「Masquerade - Im+Moral MIX -」リミックス）
@@ -94,9 +94,9 @@ hideのツアーメンバーでもあるINAだが、元々はXのレコーディ
 ### レコーディング参加
 
   - 1993年 [X JAPAN](../Page/X_JAPAN.md "wikilink") 『[ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink")』 （プログラミング）
-  - 1993年 [ISSAY](https://ja.wikipedia.org/wiki/DER_ZIBET "wikilink") 『FLOWERS』 （「いとしのマックス」プログラミング）
+  - 1993年 [ISSAY](../Page/DER_ZIBET.md "wikilink") 『FLOWERS』 （「いとしのマックス」プログラミング）
   - 1996年 X JAPAN 『[Forever Love](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink")』 （「Last Mix」プログラミング・レコーディングエンジニア）
-  - 1996年 X JAPAN 『[DAHLIA](https://ja.wikipedia.org/wiki/DAHLIA_\(アルバム\) "wikilink")』 （「[DAHLIA](../Page/DAHLIA_\(X_JAPANの曲\).md "wikilink")」、「SCARS」、「DRAIN」プログラミング・レコーディングエンジニア）
+  - 1996年 X JAPAN 『[DAHLIA](../Page/DAHLIA_\(アルバム\).md "wikilink")』 （「[DAHLIA](../Page/DAHLIA_\(X_JAPANの曲\).md "wikilink")」、「SCARS」、「DRAIN」プログラミング・レコーディングエンジニア）
   - 1998年 X JAPAN 『[THE LAST SONG](../Page/THE_LAST_SONG.md "wikilink")』 （レコーディングエンジニア）
   - 1998年 zilch 『３・２・１』 （全収録曲プログラミング・デジタル編集）
   - 1999年 [D.I.E.](../Page/D.I.E..md "wikilink") 『[PROGRESSIVE](https://ja.wikipedia.org/wiki/PROGRESSIVE "wikilink")』 （全収録曲プログラミング・デジタル編集）

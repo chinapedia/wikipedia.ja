@@ -1,7 +1,7 @@
 > この記事は[BLOOD+ ORIGINAL SOUNDTRACK 1](https://ja.wikipedia.org/wiki/BLOOD+_ORIGINAL_SOUNDTRACK_1)から翻訳されています。
 
 
-**BLOOD+ ORIGINAL SOUNDTRACK 1**（ブラッドプラス オリジナル サウンドトラック 1）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[アニプレックス](../Page/アニプレックス.md "wikilink")（[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）よりリリースされた[BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+ "wikilink")の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。
+**BLOOD+ ORIGINAL SOUNDTRACK 1**（ブラッドプラス オリジナル サウンドトラック 1）は、[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[アニプレックス](../Page/アニプレックス.md "wikilink")（[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）よりリリースされた[BLOOD+](../Page/BLOOD+.md "wikilink")の[サウンドトラック](../Page/サウンドトラック.md "wikilink")。
 
 ## 概要
 

@@ -9,25 +9,25 @@
 
   - [DK PDF](https://www.microsoft.com/store/apps/9NVQQ9KXS9NW) - 無料。 Viewer, 檢索, 倂合, 分割, 翻訳, UWP Version
 
-  - [Brava Reader](http://www.bravaviewer.jp/products/reader/) - PDF、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、[XPSおよびCSFファイルに対応したビューア](https://ja.wikipedia.org/wiki/XML_Paper_Specification "wikilink")。
+  - [Brava Reader](http://www.bravaviewer.jp/products/reader/) - PDF、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、[XPSおよびCSFファイルに対応したビューア](../Page/XML_Paper_Specification.md "wikilink")。
 
   - [CubePDF](https://ja.wikipedia.org/wiki/CubePDF "wikilink") Viewer
 
   - [Dioretsa](http://umappshare.ninpou.jp/jp/Software/Dioretsa/Dioretsa.html) - タブでPDFファイルを管理するタブ型PDFビューア（[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")専用）。
 
-  - [Evince](https://ja.wikipedia.org/wiki/Evince "wikilink") - [GNOME](../Page/GNOME.md "wikilink")デスクトップ環境向けのドキュメントビューア。
+  - [Evince](../Page/Evince.md "wikilink") - [GNOME](../Page/GNOME.md "wikilink")デスクトップ環境向けのドキュメントビューア。
 
   - [eXPert PDF Reader](http://www.visagesoft.com/products/pdfreader/) - フリーのPDFビューア。
 
   - [Foxit Reader](../Page/Foxit_Reader.md "wikilink") / Foxit MobilePDF - 無料。
 
-  - [Google ドキュメント](https://ja.wikipedia.org/wiki/Google_ドキュメント "wikilink") - PDFをHTMLへ変換して表示できる[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")。
+  - [Google ドキュメント](../Page/Google_ドキュメント.md "wikilink") - PDFをHTMLへ変換して表示できる[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")。
 
   - [GSview](../Page/Ghostscript.md "wikilink") - [Ghostscript](../Page/Ghostscript.md "wikilink")をバックエンドに使用するビューア&コンバーター。
 
   - \- PDFで[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")用に[スライドショー](../Page/スライドショー.md "wikilink")表示するソフトウェア。
 
-  - [KPDF](https://ja.wikipedia.org/wiki/KPDF "wikilink") - [KDE](../Page/KDE.md "wikilink")デスクトップ環境向けのPDFビューア。
+  - [KPDF](../Page/KPDF.md "wikilink") - [KDE](../Page/KDE.md "wikilink")デスクトップ環境向けのPDFビューア。
 
   - \- オープンソースのシンプルなPDFビューア。
 
@@ -43,13 +43,13 @@
 
   - \- macOS向けのオープンソースなPDFビューア
 
-  - \- PDF、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、TXTおよび[DjVu](https://ja.wikipedia.org/wiki/DjVu "wikilink")に対応したビューア。
+  - \- PDF、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、TXTおよび[DjVu](../Page/DjVu.md "wikilink")に対応したビューア。
 
   - \- オープンソースのシンプルなPDFビューア。
 
   - [Xpdf](https://ja.wikipedia.org/wiki/Xpdf "wikilink") - オープンソースのPDFビューア。
 
-  - [プレビュー](https://ja.wikipedia.org/wiki/プレビュー_\(ソフトウェア\) "wikilink") - macOSに付属するアプリケーション。
+  - [プレビュー](../Page/プレビュー_\(ソフトウェア\).md "wikilink") - macOSに付属するアプリケーション。
 
   - リーダー - [Windowsストア](https://ja.wikipedia.org/wiki/Windowsストア "wikilink")アプリ。
 
@@ -90,9 +90,9 @@
   -
   - [JUST PDF［データ変換］［作成］［作成・編集］［作成・高度編集］](https://ja.wikipedia.org/wiki/JUST_PDF "wikilink")（[ジャストシステム](../Page/ジャストシステム.md "wikilink")） - ニュアンスコミュニケーションズジャパンの[OEM](../Page/OEM.md "wikilink")。
 
-  - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") - OSの標準機能としてPDFの出力機能を備えている。また、OS標準の画像閲覧ソフト[プレビューではアノテーション機能を搭載](https://ja.wikipedia.org/wiki/プレビュー_\(ソフトウェア\) "wikilink")（[Quartz](../Page/Quartz.md "wikilink")を参照）。
+  - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") - OSの標準機能としてPDFの出力機能を備えている。また、OS標準の画像閲覧ソフト[プレビューではアノテーション機能を搭載](../Page/プレビュー_\(ソフトウェア\).md "wikilink")（[Quartz](../Page/Quartz.md "wikilink")を参照）。
 
-  - [Microsoft Office](../Page/Microsoft_Office.md "wikilink") 2007 - 無償配布の"2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS"の導入により、PDF出力機能と[XPS出力機能に対応する](https://ja.wikipedia.org/wiki/XML_Paper_Specification "wikilink")。
+  - [Microsoft Office](../Page/Microsoft_Office.md "wikilink") 2007 - 無償配布の"2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS"の導入により、PDF出力機能と[XPS出力機能に対応する](../Page/XML_Paper_Specification.md "wikilink")。
 
   - [Microsoft Office](../Page/Microsoft_Office.md "wikilink") 2010,2013,2016,2019 - PDF出力機能とXPS出力機能を標準で備えている。
 
@@ -108,7 +108,7 @@
 
   - [アウトライナー](https://ja.wikipedia.org/wiki/アウトライナー "wikilink")（[アンテナハウス](../Page/アンテナハウス.md "wikilink")）
 
-  - [いきなりPDF](https://ja.wikipedia.org/wiki/いきなりPDF "wikilink")シリーズ（[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")） -　ニュアンスコミュニケーションズの[OEM](../Page/OEM.md "wikilink")。
+  - [いきなりPDF](https://ja.wikipedia.org/wiki/いきなりPDF "wikilink")シリーズ（[ソースネクスト](../Page/ソースネクスト.md "wikilink")） -　ニュアンスコミュニケーションズの[OEM](../Page/OEM.md "wikilink")。
 
   - [逆PDF Back to Office](https://ja.wikipedia.org/wiki/逆PDF_Back_to_Office "wikilink")（[メディアカイト販売](https://ja.wikipedia.org/wiki/メディアカイト販売 "wikilink")）
 
@@ -122,7 +122,7 @@
 
   - [Apache OpenOffice](https://ja.wikipedia.org/wiki/Apache_OpenOffice "wikilink") - PDF出力機能を標準で備えている。
 
-  - [Common Unix Printing System](https://ja.wikipedia.org/wiki/Common_Unix_Printing_System "wikilink") - [Unix系](../Page/Unix系.md "wikilink")OSで印刷形式としてPDF出力が選べる。
+  - [Common Unix Printing System](../Page/Common_Unix_Printing_System.md "wikilink") - [Unix系](../Page/Unix系.md "wikilink")OSで印刷形式としてPDF出力が選べる。
 
   - [CopperPDF](http://copper-pdf.com/) - HTML, SVG, 画像ファイルからPDFを作成できる。
 
@@ -132,7 +132,7 @@
 
   - [Ghostscript](../Page/Ghostscript.md "wikilink") - [PostScript](../Page/PostScript.md "wikilink")ファイルからPDFファイルを作成できる。
 
-  - [Inkscape](https://ja.wikipedia.org/wiki/Inkscape "wikilink") - PDFを直接編集できる。また、出力形式としてPDFを選べる。
+  - [Inkscape](../Page/Inkscape.md "wikilink") - PDFを直接編集できる。また、出力形式としてPDFを選べる。
 
   - [JasperReports](https://ja.wikipedia.org/wiki/JasperReports "wikilink") - PDF出力機能を標準で備えている帳票作成ツール。
 
@@ -144,7 +144,7 @@
 
   - \- PDF編集CUIツール。PDFの結合・分割・暗号化・パスワード設定などができる。
 
-  - [Scribus](https://ja.wikipedia.org/wiki/Scribus "wikilink") - [DTP](../Page/DTP.md "wikilink")アプリケーションで、PDFを作成できる。
+  - [Scribus](../Page/Scribus.md "wikilink") - [DTP](../Page/DTP.md "wikilink")アプリケーションで、PDFを作成できる。
 
 ### フリーウェア
 
@@ -159,7 +159,7 @@
 
 ### XMLドキュメントからPDFファイルを作成する
 
-次のソフトウェアは[マークアップ言語](../Page/マークアップ言語.md "wikilink")XMLの応用技術である[XSL-FOを利用し](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink")、[XMLドキュメントからPDFファイルを作成する](../Page/Extensible_Markup_Language.md "wikilink")。
+次のソフトウェアは[マークアップ言語](../Page/マークアップ言語.md "wikilink")XMLの応用技術である[XSL-FOを利用し](../Page/XSL_Formatting_Objects.md "wikilink")、[XMLドキュメントからPDFファイルを作成する](../Page/Extensible_Markup_Language.md "wikilink")。
 
   - [AH Formatter](https://ja.wikipedia.org/wiki/AH_Formatter "wikilink")（[アンテナハウス](../Page/アンテナハウス.md "wikilink")） - [XSL Formatterの後継](../Page/XSL_Formatter.md "wikilink")
   - [Apache FOP](../Page/Apache_FOP.md "wikilink")（[Apache XML Graphicsプロジェクト](../Page/Apache_XML_Graphics.md "wikilink")）
@@ -174,11 +174,11 @@
 
   - （[Solid Documents](http://www.soliddocuments.com/ja/)）
 
-  - [いきなりPDF to Data](https://ja.wikipedia.org/wiki/いきなりPDF_to_Data "wikilink")（[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")）
+  - [いきなりPDF to Data](https://ja.wikipedia.org/wiki/いきなりPDF_to_Data "wikilink")（[ソースネクスト](../Page/ソースネクスト.md "wikilink")）
 
 ## PDFファイルをプログラムから扱うためのライブラリ
 
-  - [AlivePDF](https://ja.wikipedia.org/wiki/AlivePDF "wikilink") - ActionScript3.0でPDFファイルを作成可能にするライブラリ。[MIT License](https://ja.wikipedia.org/wiki/MIT_License "wikilink")。
+  - [AlivePDF](https://ja.wikipedia.org/wiki/AlivePDF "wikilink") - ActionScript3.0でPDFファイルを作成可能にするライブラリ。[MIT License](../Page/MIT_License.md "wikilink")。
 
   - [Antenna House PDF Tool](https://ja.wikipedia.org/wiki/Antenna_House_PDF_Tool "wikilink")（[アンテナハウス](../Page/アンテナハウス.md "wikilink")） - COM、C++、Java、[.NET](https://ja.wikipedia.org/wiki/.NET "wikilink")などの[プログラム言語](https://ja.wikipedia.org/wiki/プログラム言語 "wikilink")からPDFファイルを作成したりしおり・注釈の追加・変更・削除、透かしの付加、セキュリティ設定変更を可能にする開発ツール。
 

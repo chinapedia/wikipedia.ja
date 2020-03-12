@@ -1,25 +1,25 @@
 > この記事は[R-One KAT-TUN](https://ja.wikipedia.org/wiki/R-One_KAT-TUN)から翻訳されています。
 
 
-**R-One KAT-TUN**（アールワン カトゥーン）とは、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[上田竜也](https://ja.wikipedia.org/wiki/上田竜也 "wikilink")と[中丸雄一](https://ja.wikipedia.org/wiki/中丸雄一 "wikilink")の二人が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")のラジオ番組。
+**R-One KAT-TUN**（アールワン カトゥーン）とは、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[上田竜也](../Page/上田竜也.md "wikilink")と[中丸雄一](../Page/中丸雄一.md "wikilink")の二人が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")のラジオ番組。
 
 ## 概要
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")より放送開始。文化放送『[レコメン\!](../Page/レコメン!.md "wikilink")』内で、毎週水曜日24:00 - 24:30の間放送されていた。
-  - 2007年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から放送時間が毎週火曜の同時刻に変更された。これは、KAT-TUNの初冠番組である[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")[カートゥンKAT-TUN](../Page/カートゥンKAT-TUN.md "wikilink")の放送開始に伴うもの。この時の番組移行に伴い、コーナーが大幅にリニューアルされた。
+  - [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より放送開始。文化放送『[レコメン\!](../Page/レコメン!.md "wikilink")』内で、毎週水曜日24:00 - 24:30の間放送されていた。
+  - 2007年[4月3日](../Page/4月3日.md "wikilink")から放送時間が毎週火曜の同時刻に変更された。これは、KAT-TUNの初冠番組である[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")[カートゥンKAT-TUN](../Page/カートゥンKAT-TUN.md "wikilink")の放送開始に伴うもの。この時の番組移行に伴い、コーナーが大幅にリニューアルされた。
   - 稀にKAT-TUNの他メンバーからコメント等が届く。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")の放送では、2人が『レコメン\!』にゲストとして登場したこともあり生放送で行われた。
+  - [2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")の放送では、2人が『レコメン\!』にゲストとして登場したこともあり生放送で行われた。
   - 2009年の5月にKAT-TUNが東京ドームでコンサートを行った際、その楽屋で番組収録を行った。その回には[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")がゲスト出演した。
   - 2011年10月から放送時間が毎週月曜の同時刻に変更された。
   - 2012年3月26日に放送終了（第312回目）。
-  - 後継番組は上田を外し[田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")と[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")を加えた[KAT-TUNのがつーん](https://ja.wikipedia.org/wiki/KAT-TUNのがつーん "wikilink")（2012年4月2日開始）。
+  - 後継番組は上田を外し[田中聖](../Page/田中聖.md "wikilink")と[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")を加えた[KAT-TUNのがつーん](https://ja.wikipedia.org/wiki/KAT-TUNのがつーん "wikilink")（2012年4月2日開始）。
 
 ### 過去・放送されていたコーナー
 
   - R-Oneバトル
     「R-One宣言」の発展コーナー。リスナー2人に電話を繋ぎ、「自分が一番だと思う自慢」に関してリスナー同士が直接対決を行う。
   - アルティメットハンター対決
-    「ハンターチャンス」の発展コーナー。リスナーが上田チームと中丸チームに分かれ、PK方式で相手を笑わせる対決を行う。三回負けると[罰ゲーム](https://ja.wikipedia.org/wiki/罰ゲーム "wikilink")が決定する。
+    「ハンターチャンス」の発展コーナー。リスナーが上田チームと中丸チームに分かれ、PK方式で相手を笑わせる対決を行う。三回負けると[罰ゲーム](../Page/罰ゲーム.md "wikilink")が決定する。
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
   - 反省会（毎週）
     コーナーの最後の2分くらいで上田・中丸が互いにその日の放送での反省点をあげる。中丸から上田へのダメだしが多い。
   - いっしょに話そうゲゲゲのゲ（隔週）
-    リスナーが[中丸雄一](https://ja.wikipedia.org/wiki/中丸雄一 "wikilink")、[上田竜也](https://ja.wikipedia.org/wiki/上田竜也 "wikilink")に電話で悩みを相談するコーナー。相談が殺到し電話で対処出来ない場合は、「2人で話そうゲゲゲのゲ」として一度に数件の相談を解決する。
+    リスナーが[中丸雄一](../Page/中丸雄一.md "wikilink")、[上田竜也](../Page/上田竜也.md "wikilink")に電話で悩みを相談するコーナー。相談が殺到し電話で対処出来ない場合は、「2人で話そうゲゲゲのゲ」として一度に数件の相談を解決する。
   - R-One宣言（毎週）
     リスナーの「自分が一番だと思うこと」を紹介するコーナー。
   - リスナーリサーチ 上丸対決（不定期）
@@ -50,7 +50,7 @@
   - ハンターチャンス（毎週）
     身の回りで起こった面白い出来事を報告する。いかに上田を笑わせられるかがポイント。
   - 内緒の質問
-    上田・中丸がリスナーの質問に答えるコーナー。但し質問部分は公表されず、その回答のみが放送される。ちなみに、[K太郎は毎回内緒の質問の質問部分を探ろうとしている](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")。
+    上田・中丸がリスナーの質問に答えるコーナー。但し質問部分は公表されず、その回答のみが放送される。ちなみに、[K太郎は毎回内緒の質問の質問部分を探ろうとしている](../Page/砂山圭大郎.md "wikilink")。
   - ロケットスタートのコーナー　
     番組に勢いをつけるために、ロケットメールを発表する。ロケットスタートできるかは、上田くんが判定する。
   - 上田・中丸　相談したりされたり（旧：相談してきました）
@@ -64,7 +64,7 @@
     KAT-TUNに対する嘘か本当なのか分からない「微妙な噂」を紹介するコーナー。
   - 竜也上田の盛り上がる話
     上田が盛り上がる話のネタをリスナーから募集し紹介するコーナー。
-    コーナー名は[人志松本のすべらない話](https://ja.wikipedia.org/wiki/人志松本のすべらない話 "wikilink")のパロディ。
+    コーナー名は[人志松本のすべらない話](../Page/人志松本のすべらない話.md "wikilink")のパロディ。
   - 上田講師のスパルタ恋愛塾
     「大人の恋愛の悩み」を電話で解決するコーナー。
   - 中丸おじいちゃんのお説教
@@ -75,10 +75,10 @@
 
 ## ゲスト
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")：[K太郎](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")：[K太郎](../Page/砂山圭大郎.md "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")：[亀梨和也](../Page/亀梨和也.md "wikilink")
   - 2007年[7月31日](../Page/7月31日.md "wikilink")：K太郎(mail-one KAT-TUNの途中から)
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")：[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink") [田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")：[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink") [田中聖](../Page/田中聖.md "wikilink")
 
 ## その他
 

@@ -17,7 +17,7 @@
 
 2015年には「[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")」 ウィンターソングボトルキャンペーンの1曲として、[コカ・コーラ ゼロに登場した](../Page/コカ・コーラ_ゼロ.md "wikilink")\[5\]。
 
-2018年1月5日からは西武鉄道グループの[プリンスホテル](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink")が展開するプリンススノーリゾートキャンペーンの『SKI\!PRINCE\!AGAIN\!』テーマのCMソングに使われた。この起用はこの曲が発売されたJR SKISKIの時代を過ごした若者たちがその後40代〜50代の大人になった今、スキー場のワクワク感を思い出す演出となっている。いわばオマージュのようなCMである。
+2018年1月5日からは西武鉄道グループの[プリンスホテル](../Page/プリンスホテル.md "wikilink")が展開するプリンススノーリゾートキャンペーンの『SKI\!PRINCE\!AGAIN\!』テーマのCMソングに使われた。この起用はこの曲が発売されたJR SKISKIの時代を過ごした若者たちがその後40代〜50代の大人になった今、スキー場のワクワク感を思い出す演出となっている。いわばオマージュのようなCMである。
 
 ## 収録曲
 
@@ -25,8 +25,8 @@
       -
         作詞・作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・MIX：Dave Ford
     <!-- end list -->
-      - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[JR Ski Ski](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-      - [プリンスホテル](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink") 「[ski\! prince\! again\!](https://ja.wikipedia.org/wiki/ski!_prince!_again! "wikilink")」CMソング
+      - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[JR Ski Ski](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+      - [プリンスホテル](../Page/プリンスホテル.md "wikilink") 「[ski\! prince\! again\!](https://ja.wikipedia.org/wiki/ski!_prince!_again! "wikilink")」CMソング
 2.  **DEPARTURES (EXTENDED MIX)**
 3.  **DEPARTURES (INSTRUMENTAL)**
 
@@ -44,13 +44,13 @@
 
 ## カバー
 
-音源として発売された[カバー](../Page/カバー.md "wikilink")楽曲を挙げる（[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")を含む）。
+音源として発売された[カバー](../Page/カバー.md "wikilink")楽曲を挙げる（[セルフカバー](../Page/セルフカバー.md "wikilink")を含む）。
 
   - [globe](https://ja.wikipedia.org/wiki/globe "wikilink") - ベスト盤『[Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")』（2002/12/26）に「DEPARTURES（ARRIVAL version）」として
   - [デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - アルバム『[GIRLS' ROCK 〜Tiara〜](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_〜Tiara〜 "wikilink")』（[魔暦](../Page/魔暦.md "wikilink")11年/2009/2/11）
   - [Spontania](../Page/Spontania.md "wikilink") - シングル『DEPARTURES』（2010/11/10）、アルバム『スポンテニア』（2010/12/15）
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink") - シングル『[PARADISE/Endless Fighters](https://ja.wikipedia.org/wiki/PARADISE/Endless_Fighters "wikilink")』ジャケットCのみ（2010/11/17）、アルバム『[Buzz Communication](https://ja.wikipedia.org/wiki/Buzz_Communication "wikilink")』mu-moショップ限定盤のみ（2011/2/16）
-  - 赤木りえ（[フルート](../Page/フルート.md "wikilink")） - [インストゥルメンタルアルバム](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")『Feel the Earth 〜ワールドビート・スタンダード〜』（2012/5/23）\[6\]
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink") - シングル『[PARADISE/Endless Fighters](https://ja.wikipedia.org/wiki/PARADISE/Endless_Fighters "wikilink")』ジャケットCのみ（2010/11/17）、アルバム『[Buzz Communication](https://ja.wikipedia.org/wiki/Buzz_Communication "wikilink")』mu-moショップ限定盤のみ（2011/2/16）
+  - 赤木りえ（[フルート](../Page/フルート.md "wikilink")） - [インストゥルメンタルアルバム](../Page/器楽曲.md "wikilink")『Feel the Earth 〜ワールドビート・スタンダード〜』（2012/5/23）\[6\]
   - [ダイアナ・ガーネット](https://ja.wikipedia.org/wiki/ダイアナ・ガーネット "wikilink") - アルバム『[COVER☆GIRL](https://ja.wikipedia.org/wiki/COVER☆GIRL "wikilink")』（2013/11/27）\[7\]
   - [華原朋美](../Page/華原朋美.md "wikilink") - アルバム『[MEMORIES -Kahara Covers-](https://ja.wikipedia.org/wiki/MEMORIES_-Kahara_Covers- "wikilink")』（2014/3/21）
   - [hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録\[8\]。
@@ -63,7 +63,7 @@
 1.  ソニー・マガジンズ刊「WHAT's IN?」1996年5月号87P-89Pより。
 2.
 3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『PATi PATi』1996年4月号より。
-4.  [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号124Pより。
+4.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号124Pより。
 5.  [「コカ･コーラ」 ウィンターソングボトルキャンペーン 11月2日（月）からスタート](http://www.cocacola.co.jp/press-center/press-release/news-20151028) 日本コカ・コーラ株式会社 2015年10月28日
 6.  [the Earth 〜ワールドビート・スタンダード〜](http://www.jvcmusic.co.jp/-/Discography/A010090/VICL-63877.html%7CFeel)　ビクターエンタテインメントによるページ
 7.   ダイアナガーネット|url=[https://www.oricon.co.jp/prof/600745/products/1047349/1/|website=ORICON](https://www.oricon.co.jp/prof/600745/products/1047349/1/%7Cwebsite=ORICON) NEWS|accessdate=2019-09-05}}

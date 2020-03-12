@@ -1,7 +1,7 @@
 > この記事は[You Never Know](https://ja.wikipedia.org/wiki/You_Never_Know)から翻訳されています。
 
 
-『**You Never Know**』（ユー・ネバー・ノウ）は[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")のアルバム。
+『**You Never Know**』（ユー・ネバー・ノウ）は[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")のアルバム。
 
 ## 内容
 
@@ -17,7 +17,7 @@ CDジャーナルは「リズム先行のサウンドが主流の時代にメロ
 
 1.  **君がいない**
       -
-        作詞:栗林誠一郎 編曲:栗林誠一郎・[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞:栗林誠一郎 編曲:栗林誠一郎・[明石昌夫](../Page/明石昌夫.md "wikilink")
         1991年7月に[TUNE'S](../Page/TUNE'S.md "wikilink")（当時はTUNE's Blues Band名義）、1993年2月に[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が歌詞を一部変更してリリースした（ZARD版は作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")となっている）。
 2.  **誰のためでもない夜**
       -
@@ -51,7 +51,7 @@ CDジャーナルは「リズム先行のサウンドが主流の時代にメロ
   - [青木智仁](../Page/青木智仁.md "wikilink") - ベース
   - [青山純](../Page/青山純.md "wikilink") - ドラム
   - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - ドラム
-  - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink") - サックス
+  - [勝田一樹](../Page/勝田一樹.md "wikilink") - サックス
   - 明石昌夫 - ベース、シンセサイザー
 
 ## 脚注
@@ -59,10 +59,10 @@ CDジャーナルは「リズム先行のサウンドが主流の時代にメロ
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [BMGビクター](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+  - [BMGビクター](../Page/VERMILLION_RECORDS.md "wikilink")
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")
 
 [Category:栗林誠一郎のアルバム](https://ja.wikipedia.org/wiki/Category:栗林誠一郎のアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:長戸大幸プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:長戸大幸プロデュースのアルバム "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[KT-1 \(\)](https://ja.wikipedia.org/wiki/KT-1_\(\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=KAI KT-1「雄飛」 | 画像=画像:Demonstration Flight of ROKAF New Light Trainer KT-1 'Woongbi'.jpg | キャプション=KT-1 | 用途=基本[練習機](https://ja.wikipedia.org/wiki/練習機 "wikilink")・[COIN機](https://ja.wikipedia.org/wiki/COIN機 "wikilink") | 分類= | 設計者=[大韓民国国防科学研究所](../Page/国防科学研究所_\(大韓民国\).md "wikilink") | 製造者=[韓国航空宇宙産業](https://ja.wikipedia.org/wiki/韓国航空宇宙産業 "wikilink")（KAI） | 運用者 more=
+{{ Infobox 航空機 | 名称=KAI KT-1「雄飛」 | 画像=画像:Demonstration Flight of ROKAF New Light Trainer KT-1 'Woongbi'.jpg | キャプション=KT-1 | 用途=基本[練習機](../Page/練習機.md "wikilink")・[COIN機](../Page/COIN機.md "wikilink") | 分類= | 設計者=[大韓民国国防科学研究所](../Page/国防科学研究所_\(大韓民国\).md "wikilink") | 製造者=[韓国航空宇宙産業](https://ja.wikipedia.org/wiki/韓国航空宇宙産業 "wikilink")（KAI） | 運用者 more=
 \*\*（[大韓民国空軍](https://ja.wikipedia.org/wiki/大韓民国空軍 "wikilink")）
 
   -   - （[インドネシア空軍](https://ja.wikipedia.org/wiki/インドネシア空軍 "wikilink")）
@@ -10,11 +10,11 @@
 
       - （[ペルー空軍](https://ja.wikipedia.org/wiki/ペルー空軍 "wikilink")）
 
-| 初飛行年月日=[1991年](../Page/1991年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") | 生産数= | 生産開始年月日=[1999年](../Page/1999年.md "wikilink") | 運用開始年月日=[2000年](../Page/2000年.md "wikilink") | 退役年月日= | 運用状況=運用中 | ユニットコスト= }} **KT-1「雄飛」**（ウンビ、）は、[大韓民国](../Page/大韓民国.md "wikilink")で開発された基本[練習機](https://ja.wikipedia.org/wiki/練習機 "wikilink")である。
+| 初飛行年月日=[1991年](../Page/1991年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") | 生産数= | 生産開始年月日=[1999年](../Page/1999年.md "wikilink") | 運用開始年月日=[2000年](../Page/2000年.md "wikilink") | 退役年月日= | 運用状況=運用中 | ユニットコスト= }} **KT-1「雄飛」**（ウンビ、）は、[大韓民国](../Page/大韓民国.md "wikilink")で開発された基本[練習機](../Page/練習機.md "wikilink")である。
 
 ## 開発
 
-[1988年](../Page/1988年.md "wikilink")、[大韓民国空軍](https://ja.wikipedia.org/wiki/大韓民国空軍 "wikilink")が運用中の[ジェット中等練習機](../Page/ジェット機.md "wikilink")[T-37 トゥイートと](https://ja.wikipedia.org/wiki/T-37_\(航空機\) "wikilink")[レシプロ](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[プロペラ初等練習機](https://ja.wikipedia.org/wiki/プロペラ機 "wikilink")[T-41 メスカレロが老朽化を迎え](https://ja.wikipedia.org/wiki/T-41_\(練習機\) "wikilink")、代替機の調達が懸案となった。当初は[PC-7 Mk.IIの導入を計画したが主翼下パイロンをなくすなど一部能力を削減した機体の販売しか認められなかったため](https://ja.wikipedia.org/wiki/ピラタス_PC-7 "wikilink")、韓国政府は韓国における航空産業自立の一環として後継機を国内開発することを決め、**KTX-1**の名で開発が始まった\[1\]。
+[1988年](../Page/1988年.md "wikilink")、[大韓民国空軍](https://ja.wikipedia.org/wiki/大韓民国空軍 "wikilink")が運用中の[ジェット中等練習機](../Page/ジェット機.md "wikilink")[T-37 トゥイートと](../Page/T-37_\(航空機\).md "wikilink")[レシプロ](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[プロペラ初等練習機](https://ja.wikipedia.org/wiki/プロペラ機 "wikilink")[T-41 メスカレロが老朽化を迎え](https://ja.wikipedia.org/wiki/T-41_\(練習機\) "wikilink")、代替機の調達が懸案となった。当初は[PC-7 Mk.IIの導入を計画したが主翼下パイロンをなくすなど一部能力を削減した機体の販売しか認められなかったため](https://ja.wikipedia.org/wiki/ピラタス_PC-7 "wikilink")、韓国政府は韓国における航空産業自立の一環として後継機を国内開発することを決め、**KTX-1**の名で開発が始まった\[1\]。
 
 設計は国防科学研究所が行ない、[大宇工業](https://ja.wikipedia.org/wiki/大宇工業 "wikilink")が試作を行った。
 
@@ -24,9 +24,9 @@
 
 単発ターボプロップ機であり、低翼単葉、タンデム複座など機体の外形は現代のプロペラ練習機としては標準的なものである。
 
-主翼は低翼配置・直線翼であり、大型の風防を装備している。ジェット練習機のT-37の後継でもあったため、[プラット・アンド・ホイットニー・カナダ](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー・カナダ "wikilink")社製の[ターボプロップエンジン](https://ja.wikipedia.org/wiki/ターボプロップエンジン "wikilink")は950軸馬力と強力であり、[マーチンベーカーMk](https://ja.wikipedia.org/wiki/マーチンベーカー・エアクラフト "wikilink")16LF[射出座席](../Page/射出座席.md "wikilink")や[エアブレーキも装備している](../Page/空力ブレーキ.md "wikilink")。このため機体規模は同じエンジンを搭載する[PC-9に近くなっている](https://ja.wikipedia.org/wiki/ピラタス_PC-9 "wikilink")。
+主翼は低翼配置・直線翼であり、大型の風防を装備している。ジェット練習機のT-37の後継でもあったため、[プラット・アンド・ホイットニー・カナダ](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー・カナダ "wikilink")社製の[ターボプロップエンジン](../Page/ターボプロップエンジン.md "wikilink")は950軸馬力と強力であり、[マーチンベーカーMk](https://ja.wikipedia.org/wiki/マーチンベーカー・エアクラフト "wikilink")16LF[射出座席](../Page/射出座席.md "wikilink")や[エアブレーキも装備している](../Page/空力ブレーキ.md "wikilink")。このため機体規模は同じエンジンを搭載する[PC-9に近くなっている](https://ja.wikipedia.org/wiki/ピラタス_PC-9 "wikilink")。
 
-主翼にはパイロンを装備することが可能で、爆弾やロケット弾など各種武装を搭載することによって[COIN機](https://ja.wikipedia.org/wiki/COIN機 "wikilink")としても運用が可能である。
+主翼にはパイロンを装備することが可能で、爆弾やロケット弾など各種武装を搭載することによって[COIN機](../Page/COIN機.md "wikilink")としても運用が可能である。
 
 ## 運用
 
@@ -45,7 +45,7 @@
   - 全幅：10.60m
   - 全高：3.74m
   - 自重：2.1t
-  - エンジン：[プラット&ホイットニー・カナダ PT6A-62](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー・カナダ_PT6 "wikilink") [ターボプロップエンジン](https://ja.wikipedia.org/wiki/ターボプロップエンジン "wikilink") 1基（推力：950軸馬力）
+  - エンジン：[プラット&ホイットニー・カナダ PT6A-62](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー・カナダ_PT6 "wikilink") [ターボプロップエンジン](../Page/ターボプロップエンジン.md "wikilink") 1基（推力：950軸馬力）
   - 最大速度：574km/h\[7\]（648km/hという資料もある\[8\]）
   - 航続距離：1,668km
   - 最高高度：11,000m以上\[9\]
@@ -57,11 +57,11 @@
   - KT-1
     基本型の初等練習機。
   - KA-1
-    KT-1を元にした[COIN機](https://ja.wikipedia.org/wiki/COIN機 "wikilink")で当初はKO-1と呼ばれていた。主翼に計4箇所のパイロンがあり、増槽、爆弾など各種武装を装備可能。
+    KT-1を元にした[COIN機](../Page/COIN機.md "wikilink")で当初はKO-1と呼ばれていた。主翼に計4箇所のパイロンがあり、増槽、爆弾など各種武装を装備可能。
   - KT-1B
     インドネシア空軍向けの改良型。
   - KT-1C
-    電子機器改良型。カナダのCMC エレクトロニクス社製の[グラスコックピット](https://ja.wikipedia.org/wiki/グラスコックピット "wikilink")や電子装備を搭載。軽攻撃型KO-1Cも開発中で、対麻薬戦用機としての売込みが予定されている。
+    電子機器改良型。カナダのCMC エレクトロニクス社製の[グラスコックピット](../Page/グラスコックピット.md "wikilink")や電子装備を搭載。軽攻撃型KO-1Cも開発中で、対麻薬戦用機としての売込みが予定されている。
   - KT-1T
     トルコ空軍向け練習機。
   - KT-1P
@@ -87,5 +87,5 @@
 5.  <https://www.flightglobal.com/news/articles/pictures-korea-air-force-academy-to-obtain-23-kai-kc-100s-399300/>
 6.  <http://flyteam.jp/news/article/55490>
 7.
-8.  「[世界に誇る韓国の最新兵器（下）](http://www.chosunonline.com/article/20070527000013)」[2007年](../Page/2007年.md "wikilink")5月27日付『[朝鮮日報](https://ja.wikipedia.org/wiki/朝鮮日報 "wikilink")』
+8.  「[世界に誇る韓国の最新兵器（下）](http://www.chosunonline.com/article/20070527000013)」[2007年](../Page/2007年.md "wikilink")5月27日付『[朝鮮日報](../Page/朝鮮日報.md "wikilink")』
 9.

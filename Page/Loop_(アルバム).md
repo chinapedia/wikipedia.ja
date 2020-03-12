@@ -1,7 +1,7 @@
 > この記事は[Loop \(\)](https://ja.wikipedia.org/wiki/Loop_\(\))から翻訳されています。
 
 
-**Loop**（ループ）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー2ndアルバム。[2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に[東芝EMIから発売](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。メジャー4thシングル「[Slow View](../Page/Slow_View.md "wikilink")」、5thシングル「[リピート](../Page/リピート_\(ACIDMANの曲\).md "wikilink")」収録（プレデビューシングルの三部作もカウント）。
+**Loop**（ループ）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー2ndアルバム。[2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に[東芝EMIから発売](../Page/EMIミュージック・ジャパン.md "wikilink")。メジャー4thシングル「[Slow View](../Page/Slow_View.md "wikilink")」、5thシングル「[リピート](../Page/リピート_\(ACIDMANの曲\).md "wikilink")」収録（プレデビューシングルの三部作もカウント）。
 
 ## 収録曲
 

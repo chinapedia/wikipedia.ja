@@ -3,13 +3,13 @@
 
 「**Big Star Blues (ビッグスターの悲劇)**」（ビッグ・スター・ブルース ビッグスターのひげき）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
 
 ## 背景・アートワーク
 
-前作から7ヶ月という間隔をあけてのリリース。本作は収録[アルバム](../Page/アルバム.md "wikilink")『[ステレオ太陽族](https://ja.wikipedia.org/wiki/ステレオ太陽族 "wikilink")』の先行シングルである。
+前作から7ヶ月という間隔をあけてのリリース。本作は収録[アルバム](../Page/アルバム.md "wikilink")『[ステレオ太陽族](../Page/ステレオ太陽族.md "wikilink")』の先行シングルである。
 
-ジャケットは[赤](../Page/赤.md "wikilink")色の背景に[学生服](https://ja.wikipedia.org/wiki/学生服 "wikilink")を着た桑田が、両[目](../Page/目.md "wikilink")を[指](../Page/指.md "wikilink")で吊り上げている。
+ジャケットは[赤](../Page/赤.md "wikilink")色の背景に[学生服](../Page/学生服.md "wikilink")を着た桑田が、両[目](../Page/目.md "wikilink")を[指](../Page/指.md "wikilink")で吊り上げている。
 
 ## チャート成績
 
@@ -25,9 +25,9 @@
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ）
       -
         [映画](../Page/映画.md "wikilink")『[モーニング・ムーンは粗雑に](https://ja.wikipedia.org/wiki/モーニング・ムーンは粗雑に "wikilink")』主題歌。
-        歌詞には[ダスティン・ホフマン](https://ja.wikipedia.org/wiki/ダスティン・ホフマン "wikilink")、[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")である[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")、そしてジョン・レノンを射殺した[マーク・チャップマン](https://ja.wikipedia.org/wiki/マーク・チャップマン "wikilink")の名前が登場する。
-        1989年発売のシングル「[フリフリ'65](https://ja.wikipedia.org/wiki/フリフリ'65 "wikilink")」のカップリング曲として『[真夏の夜の夢 1988大復活祭](https://ja.wikipedia.org/wiki/真夏の夜の夢_大復活祭 "wikilink")』の[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")公演の音源が収録されている。
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した際に「[みんなのうた](../Page/みんなのうた_\(サザンオールスターズの曲\).md "wikilink")」と共に披露した曲でもある\[3\]。
+        歌詞には[ダスティン・ホフマン](../Page/ダスティン・ホフマン.md "wikilink")、[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")である[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")、そしてジョン・レノンを射殺した[マーク・チャップマン](../Page/マーク・チャップマン.md "wikilink")の名前が登場する。
+        1989年発売のシングル「[フリフリ'65](../Page/フリフリ'65.md "wikilink")」のカップリング曲として『[真夏の夜の夢 1988大復活祭](https://ja.wikipedia.org/wiki/真夏の夜の夢_大復活祭 "wikilink")』の[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")公演の音源が収録されている。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した際に「[みんなのうた](../Page/みんなのうた_\(サザンオールスターズの曲\).md "wikilink")」と共に披露した曲でもある\[3\]。
 2.  **朝方ムーンライト** (3:34)
     （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
       -
@@ -36,9 +36,9 @@
 ## 参加ミュージシャン
 
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink"):[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Guitar](../Page/ギター.md "wikilink")(\#1,2)
-  - [大森隆志](https://ja.wikipedia.org/wiki/大森隆志 "wikilink"):[Guitar](../Page/リードギター.md "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(\#1,2)
+  - [大森隆志](../Page/大森隆志.md "wikilink"):[Guitar](../Page/リードギター.md "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(\#1,2)
   - [原由子](../Page/原由子.md "wikilink"):Vocal, [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")(\#1,2)
-  - [関口和之](../Page/関口和之.md "wikilink"):[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink"), Chorus(\#1,2)
+  - [関口和之](../Page/関口和之.md "wikilink"):[Bass](../Page/ベース_\(弦楽器\).md "wikilink"), Chorus(\#1,2)
   - [松田弘](../Page/松田弘.md "wikilink"):[Drums](../Page/ドラムセット.md "wikilink"), Chorus(\#1,2)
   - [野沢秀行](../Page/野沢秀行.md "wikilink"):[Percussion](../Page/打楽器.md "wikilink"), Chorus(\#1,2)
 
@@ -46,12 +46,12 @@
 
 ※斜字は廃盤作品。
 
-  - [ステレオ太陽族](https://ja.wikipedia.org/wiki/ステレオ太陽族 "wikilink") (\#1,2)
+  - [ステレオ太陽族](../Page/ステレオ太陽族.md "wikilink") (\#1,2)
   - *[SOUTHERN ALL STARS BEST ONE '82](../Page/SOUTHERN_ALL_STARS_BEST_ONE_'82.md "wikilink")* (\#1)
-  - [バラッド '77〜'82](https://ja.wikipedia.org/wiki/バラッド_'77〜'82 "wikilink") (\#2)
+  - [バラッド '77〜'82](../Page/バラッド_'77〜'82.md "wikilink") (\#2)
   - *[Shout\!](../Page/Shout!.md "wikilink")* (\#2)
-  - *[すいか SOUTHERN ALL STARS SPECIAL 61SONGS](https://ja.wikipedia.org/wiki/すいか_SOUTHERN_ALL_STARS_SPECIAL_61SONGS "wikilink")* (\#1,2)
-  - [フリフリ'65](https://ja.wikipedia.org/wiki/フリフリ'65 "wikilink") (\#1) ※<small>(ライブバージョン)</small>
+  - *[すいか SOUTHERN ALL STARS SPECIAL 61SONGS](../Page/すいか_SOUTHERN_ALL_STARS_SPECIAL_61SONGS.md "wikilink")* (\#1,2)
+  - [フリフリ'65](../Page/フリフリ'65.md "wikilink") (\#1) ※<small>(ライブバージョン)</small>
 
 ## 脚注
 

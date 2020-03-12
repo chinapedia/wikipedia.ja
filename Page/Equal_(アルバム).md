@@ -1,13 +1,13 @@
 > この記事は[Equal \(\)](https://ja.wikipedia.org/wiki/Equal_\(\))から翻訳されています。
 
 
-『**equal**』（イコール）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー3枚目のアルバム。[2004年](../Page/2004年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。メジャー6枚目のシングル「[水写](../Page/水写.md "wikilink")」、7枚目のシングル「[equal e.p.](https://ja.wikipedia.org/wiki/equal_e.p. "wikilink")」を収録している（プレデビューシングルの三部作もカウント）。
+『**equal**』（イコール）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー3枚目のアルバム。[2004年](../Page/2004年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。メジャー6枚目のシングル「[水写](../Page/水写.md "wikilink")」、7枚目のシングル「[equal e.p.](https://ja.wikipedia.org/wiki/equal_e.p. "wikilink")」を収録している（プレデビューシングルの三部作もカウント）。
 
 ## 解説
 
-  - アルバムのコンセプトは当時、大木伸夫（vocal, guitar）が愛読していた[素粒子論](https://ja.wikipedia.org/wiki/素粒子論 "wikilink")と[手塚治虫](../Page/手塚治虫.md "wikilink")の漫画『[ブッダ](https://ja.wikipedia.org/wiki/ブッダ_\(漫画\) "wikilink")』に影響を受けている。
+  - アルバムのコンセプトは当時、大木伸夫（vocal, guitar）が愛読していた[素粒子論](https://ja.wikipedia.org/wiki/素粒子論 "wikilink")と[手塚治虫](../Page/手塚治虫.md "wikilink")の漫画『[ブッダ](../Page/ブッダ_\(漫画\).md "wikilink")』に影響を受けている。
   - テーマは「平等」「反戦」などだが、それらをただ掲げるのではなく、心に留めておいてほしいというコメントをしている。
-  - このアルバムのPV集「[Scene of equal](../Page/Scene_of_equal.md "wikilink")」に収録されたショートフィルム『彩-SAI-（前編）』『廻る、巡る、その核へ』（ディレクター：[西郡勲](https://ja.wikipedia.org/wiki/西郡勲 "wikilink")）は、第8回[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink")アニメーション部門優秀賞を受賞した。
+  - このアルバムのPV集「[Scene of equal](../Page/Scene_of_equal.md "wikilink")」に収録されたショートフィルム『彩-SAI-（前編）』『廻る、巡る、その核へ』（ディレクター：[西郡勲](../Page/西郡勲.md "wikilink")）は、第8回[文化庁メディア芸術祭](../Page/文化庁メディア芸術祭.md "wikilink")アニメーション部門優秀賞を受賞した。
 
 ## 収録曲
 
@@ -29,7 +29,7 @@
         「[水写](../Page/水写.md "wikilink")」収録曲。
 6.  **彩－SAI－（前編）**(3:24)
       -
-        「水写」収録曲。インスト。[西郡勲](https://ja.wikipedia.org/wiki/西郡勲 "wikilink")監督の[PVが製作されている](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。
+        「水写」収録曲。インスト。[西郡勲](../Page/西郡勲.md "wikilink")監督の[PVが製作されている](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。
 7.  **彩－SAI－（後編）**(5:40)
       -
         前編を引き継いで始まる。前編のPVに影響されて作詞された曲。
@@ -39,7 +39,7 @@
 9.  **colors of the wind**(4:35)
       -
         作詞：SCHWARTZ STEPHEN LAURENCE、作曲：MENKEN ALAN
-        『[MOSH PIT ON DISNEY](https://ja.wikipedia.org/wiki/MOSH_PIT_ON_DISNEY "wikilink")』提供曲。映画『[ポカホンタス](https://ja.wikipedia.org/wiki/ポカホンタス_\(1995年の映画\) "wikilink")』劇中歌のカバー。
+        『[MOSH PIT ON DISNEY](../Page/MOSH_PIT_ON_DISNEY.md "wikilink")』提供曲。映画『[ポカホンタス](https://ja.wikipedia.org/wiki/ポカホンタス_\(1995年の映画\) "wikilink")』劇中歌のカバー。
         当初は本作に収録される予定ではなかったが、出来が良かったため収録となった。
 10. **migration 10<sup>64</sup>**（マイグレーションじゅうのろくじゅうよんじょう）(5:55)
       -

@@ -5,7 +5,7 @@
 
 ## 内容
 
-[TBS](../Page/TBSテレビ.md "wikilink")『BODY』、[チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")『[MU-GEN](https://ja.wikipedia.org/wiki/MU-GEN "wikilink")』エンディングテーマ。3曲入りシングルは現時点で最後である。
+[TBS](../Page/TBSテレビ.md "wikilink")『BODY』、[チバテレビ](../Page/千葉テレビ放送.md "wikilink")『[MU-GEN](../Page/MU-GEN.md "wikilink")』エンディングテーマ。3曲入りシングルは現時点で最後である。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 
 ## 参加ミュージシャン
 
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")([DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")) - ギター(\#1)
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")([DIMENSION](../Page/DIMENSION.md "wikilink")) - ギター(\#1)
   - [大賀好修](../Page/大賀好修.md "wikilink")([nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")) - ギター(\#2)
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink") - ギター(\#3)
 

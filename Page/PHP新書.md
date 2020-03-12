@@ -5,40 +5,40 @@
 
 ## ベストセラー
 
-  - 頭がいい人、悪い人の話し方（[樋口裕一](https://ja.wikipedia.org/wiki/樋口裕一 "wikilink")）
-  - 女性の品格（[坂東眞理子](https://ja.wikipedia.org/wiki/坂東眞理子 "wikilink")）
+  - 頭がいい人、悪い人の話し方（[樋口裕一](../Page/樋口裕一.md "wikilink")）
+  - 女性の品格（[坂東眞理子](../Page/坂東眞理子.md "wikilink")）
 
 ## 刊行書一覧
 
 ### あ行
 
   - [愛と幸せの妖精 ぷりんてぃん](../Page/愛の妖精ぷりんてぃん.md "wikilink")（[未女子日女](https://ja.wikipedia.org/wiki/未女子日女 "wikilink")）
-  - 頭がいい人、悪い人の〈言い訳〉術（[樋口裕一](https://ja.wikipedia.org/wiki/樋口裕一 "wikilink")）
-  - [頭がいい人、悪い人の話し方](https://ja.wikipedia.org/wiki/頭がいい人、悪い人の話し方 "wikilink")（[樋口裕一](https://ja.wikipedia.org/wiki/樋口裕一 "wikilink")）
+  - 頭がいい人、悪い人の〈言い訳〉術（[樋口裕一](../Page/樋口裕一.md "wikilink")）
+  - [頭がいい人、悪い人の話し方](https://ja.wikipedia.org/wiki/頭がいい人、悪い人の話し方 "wikilink")（[樋口裕一](../Page/樋口裕一.md "wikilink")）
   - イケメン幕末史（[小日向えり](https://ja.wikipedia.org/wiki/小日向えり_\(タレント\) "wikilink")）
   - いのちを救う先端技術（[久保田博南](https://ja.wikipedia.org/wiki/久保田博南 "wikilink")）
   - 乙女の絵画案内（[和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink")）
 
 ### か行
 
-  - かけひきの科学（[唐津一](https://ja.wikipedia.org/wiki/唐津一 "wikilink")）
+  - かけひきの科学（[唐津一](../Page/唐津一.md "wikilink")）
   - 官僚の責任（[古賀茂明](https://ja.wikipedia.org/wiki/古賀茂明 "wikilink")）
 
 ### さ行
 
   - 「市民」とは誰か（[佐伯啓思](../Page/佐伯啓思.md "wikilink")）
-  - ストレス知らずの対話術（[齋藤孝](https://ja.wikipedia.org/wiki/齋藤孝_\(教育学者\) "wikilink")）
-  - 女性の品格（[坂東眞理子](https://ja.wikipedia.org/wiki/坂東眞理子 "wikilink")）
+  - ストレス知らずの対話術（[齋藤孝](../Page/齋藤孝_\(教育学者\).md "wikilink")）
+  - 女性の品格（[坂東眞理子](../Page/坂東眞理子.md "wikilink")）
   - 「説明責任」とは何か（井之上喬）
 
 ### た行
 
   - 〈対話〉のない社会（[中島義道](https://ja.wikipedia.org/wiki/中島義道 "wikilink")）
   - 知識人の生態（[西部邁](../Page/西部邁.md "wikilink")）
-  - 知性の磨きかた（[林望](https://ja.wikipedia.org/wiki/林望 "wikilink")）
+  - 知性の磨きかた（[林望](../Page/林望.md "wikilink")）
   - 中国人の宗教・道教とは何か（[松本浩一](https://ja.wikipedia.org/wiki/松本浩一 "wikilink")）
-  - 中国は社会主義で幸せになったのか（[北村稔](https://ja.wikipedia.org/wiki/北村稔 "wikilink")）
-  - 投手論（[吉井理人](https://ja.wikipedia.org/wiki/吉井理人 "wikilink")）
+  - 中国は社会主義で幸せになったのか（[北村稔](../Page/北村稔.md "wikilink")）
+  - 投手論（[吉井理人](../Page/吉井理人.md "wikilink")）
   - 豊臣秀次（[小和田哲男](../Page/小和田哲男.md "wikilink")）
 
 ### な行
@@ -55,7 +55,7 @@
   - 藩と日本人（[武光誠](https://ja.wikipedia.org/wiki/武光誠 "wikilink")）
   - ほんとうは日本に憧れる中国人（[王敏](https://ja.wikipedia.org/wiki/王敏 "wikilink")）
   - 人は誰もがリーダーである（[平尾誠二](../Page/平尾誠二.md "wikilink")）
-  - ひらめきの導火線（[茂木健一郎](https://ja.wikipedia.org/wiki/茂木健一郎 "wikilink")）
+  - ひらめきの導火線（[茂木健一郎](../Page/茂木健一郎.md "wikilink")）
   - ヒラリーとライス〜アメリカを動かす女たちの素顔〜（[岸本祐紀子](https://ja.wikipedia.org/wiki/岸本祐紀子 "wikilink")）
 
 ### ま行
@@ -65,7 +65,7 @@
 ### や行
 
   - 養生訓に学ぶ（[立川昭二](../Page/立川昭二.md "wikilink")）
-  - 養老孟司の〈逆さメガネ〉（[養老孟司](https://ja.wikipedia.org/wiki/養老孟司 "wikilink")）
+  - 養老孟司の〈逆さメガネ〉（[養老孟司](../Page/養老孟司.md "wikilink")）
 
 ### ら行
 

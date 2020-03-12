@@ -1,7 +1,7 @@
 > この記事は[UNHAPPY](https://ja.wikipedia.org/wiki/UNHAPPY)から翻訳されています。
 
 
-『**小野坂・伊福部のUNHAPPY**』（おのさか・いふくべのアンハッピー）は、[声優](../Page/声優.md "wikilink")の[小野坂昌也](../Page/小野坂昌也.md "wikilink")と[放送作家](../Page/放送作家.md "wikilink")の[伊福部崇](https://ja.wikipedia.org/wiki/伊福部崇 "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[文化放送](../Page/文化放送.md "wikilink")、[BBQR](../Page/BBQR.md "wikilink")等で放送されている。
+『**小野坂・伊福部のUNHAPPY**』（おのさか・いふくべのアンハッピー）は、[声優](../Page/声優.md "wikilink")の[小野坂昌也](../Page/小野坂昌也.md "wikilink")と[放送作家](../Page/放送作家.md "wikilink")の[伊福部崇](../Page/伊福部崇.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[文化放送](../Page/文化放送.md "wikilink")、[BBQR](../Page/BBQR.md "wikilink")等で放送されている。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 番組内容
 
-メインパーソナリティである[小野坂昌也](../Page/小野坂昌也.md "wikilink")、[伊福部崇](https://ja.wikipedia.org/wiki/伊福部崇 "wikilink")の他にも[榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")、[鷲崎健](https://ja.wikipedia.org/wiki/鷲崎健 "wikilink")の両名を加えた合計4人によって様々な歌を作るというのが基本スタイルであったが、ギャラの問題から[榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")は「シンディ」、[鷲崎健](https://ja.wikipedia.org/wiki/鷲崎健 "wikilink")は「T・G（健君のギターの略）」と呼ばれていた。 トークは小野坂の暴走が非常に目立ち、明らかにコレと分かる編集点が随所に存在していたが、小野坂自身も使えない部分は自覚していたようで、「はい、ということでここまでの話は使えないんですけどね」と収録中に発言していたらしい。 番組中期は曲作りだけでなくミニドラマなども行なわれ、ボケと突込みがアドリブで交錯する凄まじい内容となっていた。 UNHAPPYで製作された曲は2枚のCDに収録されたほか、[榎本温子のらじお・む～](https://ja.wikipedia.org/wiki/榎本温子のらじお・む～ "wikilink")を始めとする様々な番組で使用された。
+メインパーソナリティである[小野坂昌也](../Page/小野坂昌也.md "wikilink")、[伊福部崇](../Page/伊福部崇.md "wikilink")の他にも[榎本温子](../Page/榎本温子.md "wikilink")、[鷲崎健](../Page/鷲崎健.md "wikilink")の両名を加えた合計4人によって様々な歌を作るというのが基本スタイルであったが、ギャラの問題から[榎本温子](../Page/榎本温子.md "wikilink")は「シンディ」、[鷲崎健](../Page/鷲崎健.md "wikilink")は「T・G（健君のギターの略）」と呼ばれていた。 トークは小野坂の暴走が非常に目立ち、明らかにコレと分かる編集点が随所に存在していたが、小野坂自身も使えない部分は自覚していたようで、「はい、ということでここまでの話は使えないんですけどね」と収録中に発言していたらしい。 番組中期は曲作りだけでなくミニドラマなども行なわれ、ボケと突込みがアドリブで交錯する凄まじい内容となっていた。 UNHAPPYで製作された曲は2枚のCDに収録されたほか、[榎本温子のらじお・む～](https://ja.wikipedia.org/wiki/榎本温子のらじお・む～ "wikilink")を始めとする様々な番組で使用された。
 
 ### 番組タイトル
 
@@ -36,8 +36,8 @@
 ## 関連項目
 
   - [小野坂昌也](../Page/小野坂昌也.md "wikilink")
-  - [伊福部崇](https://ja.wikipedia.org/wiki/伊福部崇 "wikilink")
-  - [榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
-  - [鷲崎健](https://ja.wikipedia.org/wiki/鷲崎健 "wikilink")
+  - [伊福部崇](../Page/伊福部崇.md "wikilink")
+  - [榎本温子](../Page/榎本温子.md "wikilink")
+  - [鷲崎健](../Page/鷲崎健.md "wikilink")
 
 [Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:BBQR](https://ja.wikipedia.org/wiki/Category:BBQR "wikilink")

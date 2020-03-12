@@ -1,13 +1,13 @@
 > この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
 
 
-『**BS名作アニメ劇場**』（ビーエスめいさくアニメげきじょう）は、[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")（BS2）で放送された[アニメ](../Page/アニメ.md "wikilink")番組枠である。愛称は「**母と子の名作アニメ劇場**」である。[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まで放映されていた。
+『**BS名作アニメ劇場**』（ビーエスめいさくアニメげきじょう）は、[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2）で放送された[アニメ](../Page/アニメ.md "wikilink")番組枠である。愛称は「**母と子の名作アニメ劇場**」である。[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まで放映されていた。
 
 ## 概要
 
-主に[日本アニメーション](https://ja.wikipedia.org/wiki/日本アニメーション "wikilink")が制作した「[世界名作劇場](../Page/世界名作劇場.md "wikilink")」シリーズや[東京ムービー](../Page/東京ムービー.md "wikilink")などのアニメ制作会社が制作した俗に言う名作アニメを放送する。一時期、海外アニメも一部放送した。BSアナログ（BSアナログ11ch）・BSデジタル（BSデジタル102ch）放送の両方で受信可能であった。
+主に[日本アニメーション](../Page/日本アニメーション.md "wikilink")が制作した「[世界名作劇場](../Page/世界名作劇場.md "wikilink")」シリーズや[東京ムービー](../Page/東京ムービー.md "wikilink")などのアニメ制作会社が制作した俗に言う名作アニメを放送する。一時期、海外アニメも一部放送した。BSアナログ（BSアナログ11ch）・BSデジタル（BSデジタル102ch）放送の両方で受信可能であった。
 
-同じくBS2で放送の『[衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")』とは姉妹関係にある。[2003年](../Page/2003年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")からは昼にも放送枠が設けられ、1日2回放送された（放送作品は別）。永らく2つの放送枠が設けられ、様々な作品が放送されたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで「午前枠」にて放送（再放送扱い）された『[海のトリトン](https://ja.wikipedia.org/wiki/海のトリトン "wikilink")』をもって、**「午前枠」は廃止**され、「昼枠」についても、週当たりの放送曜日のうち、**木曜日分が廃止**された。これにより、番組開始以来、14年に亘って放送された「午前枠」（放送時間は変動あり）が放送終了となった。
+同じくBS2で放送の『[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")』とは姉妹関係にある。[2003年](../Page/2003年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")からは昼にも放送枠が設けられ、1日2回放送された（放送作品は別）。永らく2つの放送枠が設けられ、様々な作品が放送されたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで「午前枠」にて放送（再放送扱い）された『[海のトリトン](../Page/海のトリトン.md "wikilink")』をもって、**「午前枠」は廃止**され、「昼枠」についても、週当たりの放送曜日のうち、**木曜日分が廃止**された。これにより、番組開始以来、14年に亘って放送された「午前枠」（放送時間は変動あり）が放送終了となった。
 
 長らく続いた本枠であるが、2010年度をもって終了した\[1\]。
 
@@ -40,24 +40,24 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>- <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></td>
+<td><p>- <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 <td><p>月 - 木曜 9:00 - 9:25</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2003年<a href="../Page/4月7日.md" title="wikilink">4月7日</a> - <a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
+<td><p>2003年<a href="../Page/4月7日.md" title="wikilink">4月7日</a> - <a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
 <td><p>【午前枠】月 - 木曜 9:20 - 9:45<br />
 【昼枠】月 - 木曜 12:35 - 13:00</p></td>
 <td><p>昼枠を新設。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> - 2006年3月31日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> - 2006年3月31日</p></td>
 <td><p>【午前枠】月 - 木曜 9:20 - 9:45、金曜 9:00 - 9:25<br />
 【昼枠】月 - 木曜 12:35 - 13:00</p></td>
 <td><p>午前枠が金曜日にも拡大。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>4月3日 - <a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>3月</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>4月3日 - <a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>3月</p></td>
 <td><p>【午前枠】月 - 木曜 10:20 - 10:45<br />
 【昼枠】月 - 木曜 12:35 - 13:00</p></td>
 <td><p>金曜日午前枠が廃止。</p></td>
@@ -82,7 +82,7 @@
           -
             また朝のNHKニュースの放送時間の延長により、繰り下げとなることがある。
         <!-- end list -->
-          - [国会中継](https://ja.wikipedia.org/wiki/国会中継 "wikilink")
+          - [国会中継](../Page/国会中継.md "wikilink")
           - 海外ドラマの2話分再放送、または[棋戦](https://ja.wikipedia.org/wiki/棋戦 "wikilink")中継にともなう繰り下げ再放送
           - 「BS夏休み（冬休み・春休み）アニメ特選」
   - 昼枠
@@ -97,7 +97,7 @@
     <!-- end list -->
       -
 
-        はこうした場合、ほとんど放送休止となる。ただ例えば[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月放送の『[名犬ジョリィ](https://ja.wikipedia.org/wiki/名犬ジョリィ "wikilink")』が7分遅れて12時42分 - 13時07分、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")放送の『[南の虹のルーシー](https://ja.wikipedia.org/wiki/南の虹のルーシー "wikilink")』が正午のニュースの2分延長と『BSおかあさんといっしょ ファミリーコンサート』の放送で12時47分 - 13時12分の放送となった。概して後番組が[大相撲中継](https://ja.wikipedia.org/wiki/大相撲中継 "wikilink")のように放送時刻の融通の利きやすいものであれば、（予告の有無にかかわらず）繰り下げとなりやすい。
+        はこうした場合、ほとんど放送休止となる。ただ例えば[2005年](../Page/2005年.md "wikilink")11月放送の『[名犬ジョリィ](../Page/名犬ジョリィ.md "wikilink")』が7分遅れて12時42分 - 13時07分、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")放送の『[南の虹のルーシー](../Page/南の虹のルーシー.md "wikilink")』が正午のニュースの2分延長と『BSおかあさんといっしょ ファミリーコンサート』の放送で12時47分 - 13時12分の放送となった。概して後番組が[大相撲中継](../Page/大相撲中継.md "wikilink")のように放送時刻の融通の利きやすいものであれば、（予告の有無にかかわらず）繰り下げとなりやすい。
   - 夏休み拡大スペシャル
       -
         月 - 金曜 9時00分 - 9時50分（午前枠のみ。昼枠は通常放送）
@@ -126,7 +126,7 @@
 
   - [赤毛のアン](../Page/赤毛のアン_\(アニメ\).md "wikilink")\[3\]
   - [家なき子](../Page/家なき子_\(アニメ\).md "wikilink")\[4\]
-  - [母をたずねて三千里](https://ja.wikipedia.org/wiki/母をたずねて三千里 "wikilink")
+  - [母をたずねて三千里](../Page/母をたずねて三千里.md "wikilink")
 
 <!-- end list -->
 
@@ -134,10 +134,10 @@
 
 <!-- end list -->
 
-  - [愛の若草物語](https://ja.wikipedia.org/wiki/愛の若草物語 "wikilink")
-  - [私のあしながおじさん](https://ja.wikipedia.org/wiki/私のあしながおじさん "wikilink")
+  - [愛の若草物語](../Page/愛の若草物語.md "wikilink")
+  - [私のあしながおじさん](../Page/私のあしながおじさん.md "wikilink")
   - [牧場の少女カトリ](../Page/牧場の少女カトリ.md "wikilink")
-  - [小公子セディ](https://ja.wikipedia.org/wiki/小公子セディ "wikilink")
+  - [小公子セディ](../Page/小公子セディ.md "wikilink")
 
 <!-- end list -->
 
@@ -145,10 +145,10 @@
 
 <!-- end list -->
 
-  - [わたしとわたし ふたりのロッテ](https://ja.wikipedia.org/wiki/わたしとわたし_ふたりのロッテ "wikilink")
-  - [トム・ソーヤーの冒険](https://ja.wikipedia.org/wiki/トム・ソーヤーの冒険_\(アニメ\) "wikilink")
-  - [小公女セーラ](https://ja.wikipedia.org/wiki/小公女セーラ "wikilink")
-  - [名犬ジョリィ](https://ja.wikipedia.org/wiki/名犬ジョリィ "wikilink")
+  - [わたしとわたし ふたりのロッテ](../Page/わたしとわたし_ふたりのロッテ.md "wikilink")
+  - [トム・ソーヤーの冒険](../Page/トム・ソーヤーの冒険_\(アニメ\).md "wikilink")
+  - [小公女セーラ](../Page/小公女セーラ.md "wikilink")
+  - [名犬ジョリィ](../Page/名犬ジョリィ.md "wikilink")
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@
 
   - [アルプスの少女ハイジ](../Page/アルプスの少女ハイジ_\(アニメ\).md "wikilink")
   - [ペリーヌ物語](../Page/ペリーヌ物語.md "wikilink")
-  - [南の虹のルーシー](https://ja.wikipedia.org/wiki/南の虹のルーシー "wikilink")
+  - [南の虹のルーシー](../Page/南の虹のルーシー.md "wikilink")
 
 <!-- end list -->
 
@@ -166,10 +166,10 @@
 
 <!-- end list -->
 
-  - [愛少女ポリアンナ物語](https://ja.wikipedia.org/wiki/愛少女ポリアンナ物語 "wikilink")
-  - [若草物語 ナンとジョー先生](https://ja.wikipedia.org/wiki/若草物語_ナンとジョー先生 "wikilink")
-  - [大草原の小さな天使 ブッシュベイビー](https://ja.wikipedia.org/wiki/大草原の小さな天使_ブッシュベイビー "wikilink")
-  - [アルプス物語 わたしのアンネット](https://ja.wikipedia.org/wiki/アルプス物語_わたしのアンネット "wikilink")
+  - [愛少女ポリアンナ物語](../Page/愛少女ポリアンナ物語.md "wikilink")
+  - [若草物語 ナンとジョー先生](../Page/若草物語_ナンとジョー先生.md "wikilink")
+  - [大草原の小さな天使 ブッシュベイビー](../Page/大草原の小さな天使_ブッシュベイビー.md "wikilink")
+  - [アルプス物語 わたしのアンネット](../Page/アルプス物語_わたしのアンネット.md "wikilink")
 
 <!-- end list -->
 
@@ -177,10 +177,10 @@
 
 <!-- end list -->
 
-  - [トラップ一家物語](https://ja.wikipedia.org/wiki/トラップ一家物語 "wikilink")
-  - [宝島](https://ja.wikipedia.org/wiki/宝島 "wikilink")
-  - 〔S〕[ロミオの青い空](https://ja.wikipedia.org/wiki/ロミオの青い空 "wikilink")
-  - 〔S〕[家なき子レミ](https://ja.wikipedia.org/wiki/家なき子レミ "wikilink")
+  - [トラップ一家物語](../Page/トラップ一家物語.md "wikilink")
+  - [宝島](../Page/宝島.md "wikilink")
+  - 〔S〕[ロミオの青い空](../Page/ロミオの青い空.md "wikilink")
+  - 〔S〕[家なき子レミ](../Page/家なき子レミ.md "wikilink")
 
 <!-- end list -->
 
@@ -188,9 +188,9 @@
 
 <!-- end list -->
 
-  - 〔S〕[名犬ラッシー](https://ja.wikipedia.org/wiki/名犬ラッシー_\(世界名作劇場\) "wikilink")
-  - [私のあしながおじさん](https://ja.wikipedia.org/wiki/私のあしながおじさん "wikilink")
-  - [あらいぐまラスカル](https://ja.wikipedia.org/wiki/あらいぐまラスカル "wikilink")
+  - 〔S〕[名犬ラッシー](../Page/名犬ラッシー_\(世界名作劇場\).md "wikilink")
+  - [私のあしながおじさん](../Page/私のあしながおじさん.md "wikilink")
+  - [あらいぐまラスカル](../Page/あらいぐまラスカル.md "wikilink")
   - [オズの魔法使い](https://ja.wikipedia.org/wiki/オズの魔法使い_\(テレビアニメ\) "wikilink")
 
 <!-- end list -->
@@ -201,7 +201,7 @@
 
   - 母をたずねて三千里（2回目）
   - [ニルスのふしぎな旅](../Page/ニルスのふしぎな旅.md "wikilink")\[5\]
-  - [アニメ三銃士](https://ja.wikipedia.org/wiki/アニメ三銃士 "wikilink")
+  - [アニメ三銃士](../Page/アニメ三銃士.md "wikilink")
 
 <!-- end list -->
 
@@ -221,8 +221,8 @@
 <!-- end list -->
 
   - ペリーヌ物語（2回目）
-  - 〔B〕[ウォーターシップ・ダウンのうさぎたち](https://ja.wikipedia.org/wiki/ウォーターシップ・ダウンのうさぎたち "wikilink")\[6\]
-  - 〔S〕ロミオの青い空（2回目・[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")放送終了）
+  - 〔B〕[ウォーターシップ・ダウンのうさぎたち](../Page/ウォーターシップ・ダウンのうさぎたち.md "wikilink")\[6\]
+  - 〔S〕ロミオの青い空（2回目・[2006年](../Page/2006年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")放送終了）
   - 名犬ジョリィ（2回目・2006年[8月21日](../Page/8月21日.md "wikilink")放送終了）
 
 <!-- end list -->
@@ -242,9 +242,9 @@
 
 <!-- end list -->
 
-  - [家族ロビンソン漂流記 ふしぎな島のフローネ](https://ja.wikipedia.org/wiki/家族ロビンソン漂流記_ふしぎな島のフローネ "wikilink")（2007年[7月25日](../Page/7月25日.md "wikilink")放送終了）
-  - [名探偵ホームズ](https://ja.wikipedia.org/wiki/名探偵ホームズ "wikilink")（2008年[4月1日](../Page/4月1日.md "wikilink")放送終了）
-  - [山ねずみロッキーチャック](https://ja.wikipedia.org/wiki/山ねずみロッキーチャック "wikilink")（2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")放送終了）
+  - [家族ロビンソン漂流記 ふしぎな島のフローネ](../Page/家族ロビンソン漂流記_ふしぎな島のフローネ.md "wikilink")（2007年[7月25日](../Page/7月25日.md "wikilink")放送終了）
+  - [名探偵ホームズ](../Page/名探偵ホームズ.md "wikilink")（2008年[4月1日](../Page/4月1日.md "wikilink")放送終了）
+  - [山ねずみロッキーチャック](../Page/山ねずみロッキーチャック.md "wikilink")（2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")放送終了）
 
 <!-- end list -->
 
@@ -264,7 +264,7 @@
 <!-- end list -->
 
   - 小公女セーラ（2回目・2009年[7月22日](../Page/7月22日.md "wikilink")放送終了）
-  - [海のトリトン](https://ja.wikipedia.org/wiki/海のトリトン "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月放送終了）\[7\]
+  - [海のトリトン](../Page/海のトリトン.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月放送終了）\[7\]
   - トラップ一家物語（2回目・2009年[12月17日](../Page/12月17日.md "wikilink")放送終了）
   - 私のあしながおじさん（2回目・2010年[3月18日](../Page/3月18日.md "wikilink")放送終了）
 
@@ -274,7 +274,7 @@
 
 <!-- end list -->
 
-  - 〔D・S〕[風の少女エミリー](https://ja.wikipedia.org/wiki/風の少女エミリー "wikilink")（2010年[5月25日](../Page/5月25日.md "wikilink")放送終了）
+  - 〔D・S〕[風の少女エミリー](../Page/風の少女エミリー.md "wikilink")（2010年[5月25日](../Page/5月25日.md "wikilink")放送終了）
   - トム・ソーヤーの冒険（2回目・2010年[10月5日](../Page/10月5日.md "wikilink")放送終了）\[8\]
   - ペリーヌ物語（3回目・2011年[2月14日](../Page/2月14日.md "wikilink")放送終了）\[9\]
 
@@ -282,8 +282,8 @@
 
   - 放送時間が25分と限られるため、[1980年代](../Page/1980年代.md "wikilink")前半より前に制作された作品ではオープニング・エンディングの一部や次回予告、CM挿入時の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")などがカットされる場合がある\[10\]。
   - 名作系のみ放送する枠であり、地上波ではめったに放送しない作品を放送する枠という意味で。
-  - [フジテレビで本放送された作品が多く扱われ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（半数以上を占める）、とりわけ『世界名作劇場』が再放送されることが多い。では『[七つの海のティコ](https://ja.wikipedia.org/wiki/七つの海のティコ "wikilink")』のみ放送がないが、『[衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")』で[2000年](../Page/2000年.md "wikilink")に[放送](../Page/放送.md "wikilink")済みである。姉妹番組である『衛星アニメ劇場』と合わせると、[日本アニメーション](https://ja.wikipedia.org/wiki/日本アニメーション "wikilink")の『（旧）世界名作劇場』シリーズをすべて網羅・放送した（再開された部分は除く）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度の放送作品のうち、『[ピーターパンの冒険](https://ja.wikipedia.org/wiki/ピーターパンの冒険 "wikilink")』は午前枠では再放送されなかった。これは前の放送作品『[アルプスの少女ハイジ](../Page/アルプスの少女ハイジ_\(アニメ\).md "wikilink")』が国会中継などによる度々の放送休止で午前枠での再放送期間が長引き、さらに次の昼枠での放送作品『[赤毛のアン](../Page/赤毛のアン_\(アニメ\).md "wikilink")』がすでに放送を終えて午前枠での再放送対象となったためである。同様の事情で、[2007年](../Page/2007年.md "wikilink")度放送作品では『[家族ロビンソン漂流記 ふしぎな島のフローネ](https://ja.wikipedia.org/wiki/家族ロビンソン漂流記_ふしぎな島のフローネ "wikilink")』が、2008年度放送作品では『[南の虹のルーシー](https://ja.wikipedia.org/wiki/南の虹のルーシー "wikilink")』が再放送されなかった。
+  - [フジテレビで本放送された作品が多く扱われ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（半数以上を占める）、とりわけ『世界名作劇場』が再放送されることが多い。では『[七つの海のティコ](../Page/七つの海のティコ.md "wikilink")』のみ放送がないが、『[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")』で[2000年](../Page/2000年.md "wikilink")に[放送](../Page/放送.md "wikilink")済みである。姉妹番組である『衛星アニメ劇場』と合わせると、[日本アニメーション](../Page/日本アニメーション.md "wikilink")の『（旧）世界名作劇場』シリーズをすべて網羅・放送した（再開された部分は除く）。
+  - [2006年](../Page/2006年.md "wikilink")度の放送作品のうち、『[ピーターパンの冒険](../Page/ピーターパンの冒険.md "wikilink")』は午前枠では再放送されなかった。これは前の放送作品『[アルプスの少女ハイジ](../Page/アルプスの少女ハイジ_\(アニメ\).md "wikilink")』が国会中継などによる度々の放送休止で午前枠での再放送期間が長引き、さらに次の昼枠での放送作品『[赤毛のアン](../Page/赤毛のアン_\(アニメ\).md "wikilink")』がすでに放送を終えて午前枠での再放送対象となったためである。同様の事情で、[2007年](../Page/2007年.md "wikilink")度放送作品では『[家族ロビンソン漂流記 ふしぎな島のフローネ](../Page/家族ロビンソン漂流記_ふしぎな島のフローネ.md "wikilink")』が、2008年度放送作品では『[南の虹のルーシー](../Page/南の虹のルーシー.md "wikilink")』が再放送されなかった。
   - BSアナログ放送では、2008年5月1日から「*BS2*」のロゴ表示の下に「**アナログ**」と表示されるようになった。尚、BSアナログ放送では**[レターボックス](https://ja.wikipedia.org/wiki/レターボックス "wikilink")**サイズにて放送がされた。
   - BSデジタル放送では4:3（SD）にて制作された作品は**4:3のスタンダードサイズ**で放送される。これは16:9の[ハイビジョン](../Page/ハイビジョン.md "wikilink")で制作された作品が番組開始当初から、永らく放送されたことがないためであったが、2010年3月から放送された「風の少女エミリー」において、当作品枠としては初の「ハイビジョン制作」作品が放送された（標準画質に[ダウンコンバート](https://ja.wikipedia.org/wiki/ダウンコンバート "wikilink")）。以降、本枠最終作品となる「ペリーヌ物語」までハイビジョン素材を用いた16:9サイズで放送された。
 
@@ -296,10 +296,10 @@
 ## 関連項目
 
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）
-  - [NHK衛星放送番組一覧](https://ja.wikipedia.org/wiki/NHK衛星放送番組一覧 "wikilink")
+  - [NHK衛星放送番組一覧](../Page/NHK衛星放送番組一覧.md "wikilink")
   - [NHK BSプレミアム アニメタイム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム_アニメタイム "wikilink")
-  - [瑞鷹 (アニメ製作会社)](https://ja.wikipedia.org/wiki/瑞鷹_\(アニメ製作会社\) "wikilink")
-  - [トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")
+  - [瑞鷹 (アニメ製作会社)](../Page/瑞鷹_\(アニメ製作会社\).md "wikilink")
+  - [トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
   - [キョクイチ東京ムービー](https://ja.wikipedia.org/wiki/キョクイチ東京ムービー "wikilink")
   - [東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")
   - [東宝](../Page/東宝.md "wikilink")
@@ -312,9 +312,9 @@
   - 番組で放送された作品の本放送系列
     ;国内
 
-:\*[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+:\*[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
 
-:\*[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（NHK）
+:\*[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（NHK）
 
 :\*[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")･[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）
 
@@ -339,10 +339,10 @@
 1.
 2.  『BS名作アニメ劇場』の前番組に当たる番組。
 3.  当作品枠、最初の放送作品。
-4.  放送当時、フジテレビにおいて、日本アニメーション制作版「[家なき子レミ](https://ja.wikipedia.org/wiki/家なき子レミ "wikilink")」が、本放映されていた。尚、当作品枠でも、2001年に放送された。
+4.  放送当時、フジテレビにおいて、日本アニメーション制作版「[家なき子レミ](../Page/家なき子レミ.md "wikilink")」が、本放映されていた。尚、当作品枠でも、2001年に放送された。
 5.  初の「昼枠」での放送作品。
 6.  まで唯一の海外作品。
 7.  最後の「午前枠」での放送作品。
-8.  HDリマスター版素材を初使用して放送された。　[アスペクト比が](https://ja.wikipedia.org/wiki/画面アスペクト比 "wikilink")16:9に編集されている。
+8.  HDリマスター版素材を初使用して放送された。　[アスペクト比が](../Page/画面アスペクト比.md "wikilink")16:9に編集されている。
 9.  今作もHDリマスター版素材をアスペクト比16:9で放送。本作がBS名作アニメ劇場枠の最後の作品となった。
-10. 例えば『[南の虹のルーシー](https://ja.wikipedia.org/wiki/南の虹のルーシー "wikilink")』の場合、オープニング（「原作」とクレジットされる部分）とエンディングの出だしの部分が5 - 10秒ほどカットされた。そのため、オープニングは本来のものに比べ1フレーズほど短い。
+10. 例えば『[南の虹のルーシー](../Page/南の虹のルーシー.md "wikilink")』の場合、オープニング（「原作」とクレジットされる部分）とエンディングの出だしの部分が5 - 10秒ほどカットされた。そのため、オープニングは本来のものに比べ1フレーズほど短い。

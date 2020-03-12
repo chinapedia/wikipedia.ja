@@ -1,7 +1,7 @@
 > この記事は[Don\'t Look Back \(\)](https://ja.wikipedia.org/wiki/Don\'t_Look_Back_\(\))から翻訳されています。
 
 
-『**Don't Look Back**』（ドント・ルック・バック）は、[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")の2枚目のアルバム。収録曲のうち表題曲を含む2曲を、先行して同名のシングルとしてリリースしている。本記事ではアルバムとシングルの双方について記述する。
+『**Don't Look Back**』（ドント・ルック・バック）は、[川島だりあ](../Page/川島だりあ.md "wikilink")の2枚目のアルバム。収録曲のうち表題曲を含む2曲を、先行して同名のシングルとしてリリースしている。本記事ではアルバムとシングルの双方について記述する。
 
 ## アルバムの概要
 
@@ -28,9 +28,9 @@
 
 ## シングルの概要
 
-[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")の2枚目のシングル。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はBJDL-1009、再発売後はZADL-2010。
+[川島だりあ](../Page/川島だりあ.md "wikilink")の2枚目のシングル。[規格品番](../Page/規格品番.md "wikilink")はBJDL-1009、再発売後はZADL-2010。
 
-川島が[倉田冬樹](../Page/倉田冬樹.md "wikilink")と初めて共同で手がけたシングル。以降、「[悲しき自由の果てに](../Page/悲しき自由の果てに.md "wikilink")」を除いて共同で手がけている。[ビージンから発売された当初の](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はBJDL-1002であった。[1993年](../Page/1993年.md "wikilink")に再発売してからの規格品番ははZADL-2008である。表題曲は後に、「[LEGEND of 90's J-ROCK「LIVE BEST & CLIPS」](https://ja.wikipedia.org/wiki/LEGEND_of_90's_J-ROCK「LIVE_BEST_&_CLIPS」 "wikilink")」にて、収録される\[2\]。
+川島が[倉田冬樹](../Page/倉田冬樹.md "wikilink")と初めて共同で手がけたシングル。以降、「[悲しき自由の果てに](../Page/悲しき自由の果てに.md "wikilink")」を除いて共同で手がけている。[ビージンから発売された当初の](../Page/ZAIN_RECORDS.md "wikilink")[規格品番](../Page/規格品番.md "wikilink")はBJDL-1002であった。[1993年](../Page/1993年.md "wikilink")に再発売してからの規格品番ははZADL-2008である。表題曲は後に、「[LEGEND of 90's J-ROCK「LIVE BEST & CLIPS」](https://ja.wikipedia.org/wiki/LEGEND_of_90's_J-ROCK「LIVE_BEST_&_CLIPS」 "wikilink")」にて、収録される\[2\]。
 
 ## 収録曲
 
@@ -41,8 +41,8 @@
   - 松原秀樹 - ベース
   - [山口昌人](../Page/山口昌人.md "wikilink") - ドラム
   - [岡本郭男](../Page/岡本郭男.md "wikilink") - ドラム
-  - [小野塚晃](../Page/小野塚晃.md "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - キーボード
-  - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink") - キーボード
+  - [小野塚晃](../Page/小野塚晃.md "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - キーボード
+  - [増田隆宣](../Page/増田隆宣.md "wikilink") - キーボード
 
 ## 脚注
 

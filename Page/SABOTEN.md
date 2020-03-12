@@ -782,7 +782,7 @@ SRCL-6493:通常盤</p></td>
 <li>BEER / <a href="https://ja.wikipedia.org/wiki/UP-WARD" title="wikilink">UP-WARD</a></li>
 <li>THE PAIN STILL LINGERS ON / <a href="https://ja.wikipedia.org/wiki/69BUG" title="wikilink">69BUG</a></li>
 <li>GET IT OVER / <a href="https://ja.wikipedia.org/wiki/Radiant_Heat" title="wikilink">Radiant Heat</a></li>
-<li>朝焼け / <a href="https://ja.wikipedia.org/wiki/THE_BOOGIE_JACK" title="wikilink">THE BOOGIE JACK</a></li>
+<li>朝焼け / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
 <li>雨あられ / <a href="https://ja.wikipedia.org/wiki/Beautiful_Sunday" title="wikilink">Beautiful Sunday</a></li>
 <li>ドレッドパンツロックス / <a href="https://ja.wikipedia.org/wiki/Monkey&#39;s_Foot_Point" title="wikilink">Monkey's Foot Point</a></li>
 <li>fly / <a href="https://ja.wikipedia.org/wiki/Suger_Hill" title="wikilink">Suger Hill</a></li>
@@ -813,13 +813,13 @@ SRCL-6493:通常盤</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>It's a human road / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
+<li>It's a human road / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
 <li>夏みかん / ジャパハリネット</li>
-<li>レコード (45回転バージョン) / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
+<li>レコード (45回転バージョン) / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
 <li>ロージー / HIGHWAY61</li>
 <li>立ちあがれ / <a href="../Page/FOOT_STAMP.md" title="wikilink">FOOT STAMP</a></li>
 <li>かけがえのない人へ / FOOT STAMP</li>
-<li>心臓直結系ラブソング / <a href="https://ja.wikipedia.org/wiki/THE_イナズマ戦隊" title="wikilink">THE イナズマ戦隊</a></li>
+<li>心臓直結系ラブソング / <a href="../Page/THE_イナズマ戦隊.md" title="wikilink">THE イナズマ戦隊</a></li>
 <li>俺の青春 / THE イナズマ戦隊</li>
 <li>ドーテー / <a href="../Page/オナニーマシーン.md" title="wikilink">オナニーマシーン</a></li>
 <li>ドーテー島 / オナニーマシーン</li>
@@ -827,7 +827,7 @@ SRCL-6493:通常盤</p></td>
 <li>いい人どまり / セックスマシーン</li>
 <li><strong>アバンチュール / SABOTEN</strong></li>
 <li><strong>夢工場 / SABOTEN</strong></li>
-<li>大きな夢と愛の下で (予告編) / <a href="https://ja.wikipedia.org/wiki/ウエスタンヒーロー" title="wikilink">ウエスタンヒーロー</a></li>
+<li>大きな夢と愛の下で (予告編) / <a href="../Page/ウエスタンヒーロー.md" title="wikilink">ウエスタンヒーロー</a></li>
 <li>タイトル未定 / ウエスタンヒーロー</li>
 <li>ドングリ / <a href="https://ja.wikipedia.org/wiki/ナイチン×ギャル" title="wikilink">ナイチン×ギャル</a></li>
 <li>星空のワルツ / ナイチン×ギャル
@@ -850,7 +850,7 @@ SRCL-6493:通常盤</p></td>
 <li>ALL YOU WANTED / <a href="https://ja.wikipedia.org/wiki/STUCK_INSIDE" title="wikilink">STUCK INSIDE</a></li>
 <li>STAND BY ME / <a href="https://ja.wikipedia.org/wiki/BIG_HOUSE" title="wikilink">BIG HOUSE</a></li>
 <li>I FOUNGHT THE LAW / <a href="https://ja.wikipedia.org/wiki/SHACHI" title="wikilink">SHACHI</a></li>
-<li>MIGHTY WINGS / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>MIGHTY WINGS / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>NOWHERE NEAR / <a href="https://ja.wikipedia.org/wiki/DONUT_MAN" title="wikilink">DONUT MAN</a></li>
 <li>BE MY BABY / <a href="https://ja.wikipedia.org/wiki/MIX_MARKET" title="wikilink">MIX MARKET</a></li>
 <li>夢を勝ちとろう / <a href="https://ja.wikipedia.org/wiki/OXYDOL" title="wikilink">OXYDOL</a></li>
@@ -924,19 +924,19 @@ SRCL-5599</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>BLITZKRIEG BOP / <a href="https://ja.wikipedia.org/wiki/ELVIS_JUNKIES" title="wikilink">ELVIS JUNKIES</a></li>
-<li>晩秋 / <a href="https://ja.wikipedia.org/wiki/ガガガSP" title="wikilink">ガガガSP</a></li>
-<li>クソッタレ解放区〜クソッタレ2〜 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>晩秋 / <a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a></li>
+<li>クソッタレ解放区〜クソッタレ2〜 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>恋のABC / <a href="../Page/オナニーマシーン.md" title="wikilink">オナニーマシーン</a></li>
-<li>CHERRY BLOSSOM / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li>CHERRY BLOSSOM / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li><strong>百獣ノ王 / SABOTEN</strong></li>
 <li>仲間の歌 / <a href="../Page/ザ・マスミサイル.md" title="wikilink">ザ・マスミサイル</a></li>
-<li>物憂げ世情 / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
-<li>遥か彼方 / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>Letter / <a href="https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE" title="wikilink">Yum!Yum!ORANGE</a></li>
+<li>物憂げ世情 / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
+<li>遥か彼方 / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>Letter / <a href="../Page/Yum!Yum!ORANGE.md" title="wikilink">Yum!Yum!ORANGE</a></li>
 <li>反逆の日々 / <a href="https://ja.wikipedia.org/wiki/THE_LILAC" title="wikilink">THE LILAC</a></li>
 <li>イロアセナイヨヲニ / <a href="https://ja.wikipedia.org/wiki/MINIMUM_WAGE" title="wikilink">MINIMUM WAGE</a></li>
-<li>そのぬくもりに用がある / <a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></li>
+<li>そのぬくもりに用がある / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li>Start Walkin' / <a href="https://ja.wikipedia.org/wiki/3.6_MILK" title="wikilink">3.6 MILK</a></li>
 <li>キリキリマイ / <a href="../Page/ORANGE_RANGE.md" title="wikilink">ORANGE RANGE</a></li>
 <li>What is Love? / <a href="https://ja.wikipedia.org/wiki/ネコベッド" title="wikilink">ネコベッド</a></li>
@@ -996,7 +996,7 @@ SRCL-5599</p></td>
 <li>WITHOUT YOU / Shamrock Street</li>
 <li>ジョニー・ママミヤ・カリフォニア〜ジョニー鉄パイプ II〜 / <a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモン</a></li>
 <li>ヘルシー・ボブ / マキシマム ザ ホルモン</li>
-<li>クレーターストーリー / <a href="https://ja.wikipedia.org/wiki/THE_BOOGIE_JACK" title="wikilink">THE BOOGIE JACK</a></li>
+<li>クレーターストーリー / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
 <li>マイロード / THE BOOGIE JACK
 </div>
 </div></li>
@@ -1019,7 +1019,7 @@ SRCL-5599</p></td>
 <td><p>|ピノキオ]] / <a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a></p>
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/つぼみ_(MARIAの曲)" title="wikilink">つぼみ</a> / <a href="../Page/MARIA_(バンド).md" title="wikilink">MARIA</a></li>
-<li><a href="../Page/ユラユラ.md" title="wikilink">ユラユラ</a> / <a href="https://ja.wikipedia.org/wiki/Hearts_Grow" title="wikilink">Hearts Grow</a></li>
+<li><a href="../Page/ユラユラ.md" title="wikilink">ユラユラ</a> / <a href="../Page/Hearts_Grow.md" title="wikilink">Hearts Grow</a></li>
 <li><strong>シナリオ / SABOTEN</strong></li>
 </ol>
 <p># [[Hero's_Come_Back</p></td>
@@ -1058,17 +1058,17 @@ SRCL-5599</p></td>
 <li>THE LETTER TO THE PRESIDENT / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
 <li>ALL BEGAN TO HURRY / <a href="https://ja.wikipedia.org/wiki/GLEAM_GARDEN" title="wikilink">GLEAM GARDEN</a></li>
 <li>ARE YOU STRAIGHT EDGE? / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
-<li>Fire / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
-<li>remains / <a href="https://ja.wikipedia.org/wiki/HOLSTEIN" title="wikilink">HOLSTEIN</a></li>
+<li>Fire / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
+<li>remains / <a href="../Page/HOLSTEIN.md" title="wikilink">HOLSTEIN</a></li>
 <li>AREA47 / <a href="https://ja.wikipedia.org/wiki/IDOL_PUNCH" title="wikilink">IDOL PUNCH</a></li>
 <li>Situation / <a href="https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS" title="wikilink">ISCREAM 7 SHOWERS</a></li>
 <li>Identity war / <a href="https://ja.wikipedia.org/wiki/Jr.MONSTER" title="wikilink">Jr.MONSTER</a></li>
 <li>フルクライマックス / <a href="https://ja.wikipedia.org/wiki/kamomekamome" title="wikilink">kamomekamome</a></li>
 <li>概念 / <a href="https://ja.wikipedia.org/wiki/LAST_TARGET" title="wikilink">LAST TARGET</a></li>
 <li>HORSE WITH A KAPPA FACE / <a href="https://ja.wikipedia.org/wiki/LIVE_CLEAN_STAY_YOUNG" title="wikilink">LIVE CLEAN STAY YOUNG</a></li>
-<li>あらしの夜に… / <a href="https://ja.wikipedia.org/wiki/THE_LOCAL_ART" title="wikilink">THE LOCAL ART</a></li>
+<li>あらしの夜に… / <a href="../Page/THE_LOCAL_ART.md" title="wikilink">THE LOCAL ART</a></li>
 <li>cycled promises / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li>足跡 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>足跡 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>INSTANT FOOD CHAIN / <a href="https://ja.wikipedia.org/wiki/MEATBUNS" title="wikilink">MEATBUNS</a></li>
 <li>JUSTICE / <a href="https://ja.wikipedia.org/wiki/M.G.T" title="wikilink">M.G.T</a></li>
 <li>Here Comes May Again / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>
@@ -1151,7 +1151,7 @@ ADVE-1004T:限定盤</p></td>
 <li>B.O.M.B. / <a href="https://ja.wikipedia.org/wiki/Song_Riders" title="wikilink">Song Riders</a></li>
 <li>サイエンティストは死んだ / <a href="https://ja.wikipedia.org/wiki/THE_UNIQUE_STAR" title="wikilink">THE UNIQUE STAR</a></li>
 <li>a burning bullet / <a href="../Page/LAST_ALLIANCE.md" title="wikilink">LAST ALLIANCE</a></li>
-<li>砂男 / <a href="https://ja.wikipedia.org/wiki/THEラブ人間" title="wikilink">THEラブ人間</a></li>
+<li>砂男 / <a href="../Page/THEラブ人間.md" title="wikilink">THEラブ人間</a></li>
 <li>北極星 / <a href="https://ja.wikipedia.org/wiki/忘れらんねえよ" title="wikilink">忘れらんねえよ</a></li>
 <li>Nothing / <a href="https://ja.wikipedia.org/wiki/ALL_OFF" title="wikilink">ALL OFF</a></li>
 <li><strong>カゾエウタ〜HARDCORE CITY 門真編〜 / SABOTEN</strong></li>
@@ -1159,10 +1159,10 @@ ADVE-1004T:限定盤</p></td>
 <p># Hey You</p></td>
 <td><p>/ <a href="https://ja.wikipedia.org/wiki/ピアノゾンビ" title="wikilink">ピアノゾンビ</a></p>
 <ol>
-<li>Familiarize / <a href="https://ja.wikipedia.org/wiki/ROTTENGRAFFTY" title="wikilink">ROTTENGRAFFTY</a></li>
+<li>Familiarize / <a href="../Page/ROTTENGRAFFTY.md" title="wikilink">ROTTENGRAFFTY</a></li>
 <li>THE ROLE / <a href="../Page/長澤知之.md" title="wikilink">長澤知之</a></li>
 <li>RIDE ON MY JET / <a href="../Page/THE_STREET_BEATS.md" title="wikilink">THE STREET BEATS</a></li>
-<li>ROCKAWAY / <a href="https://ja.wikipedia.org/wiki/THE_MODS" title="wikilink">THE MODS</a>
+<li>ROCKAWAY / <a href="../Page/THE_MODS.md" title="wikilink">THE MODS</a>
 </div>
 </div></li>
 </ol></td>
@@ -1202,14 +1202,14 @@ ADVE-1004T:限定盤</p></td>
 
   - 2012年〜2013年 - SABOTEN WHITE POOL 観光TOUR
       -
-        w/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink")/[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink")/[NOA](https://ja.wikipedia.org/wiki/NOA "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[PAN](../Page/PAN_\(バンド\).md "wikilink")/[SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")
+        w/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink")/[GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink")/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[NOA](https://ja.wikipedia.org/wiki/NOA "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[PAN](../Page/PAN_\(バンド\).md "wikilink")/[SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")
   - 2013年 - SABOTEN presents AFRICAN NIGHT 2013 THE暴年会
   - 2014年 - SABOTEN 傑作集を選んだ1億3千万人に挨拶TOUR
       -
-        w/[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")/PAN/[SUNDAYS](https://ja.wikipedia.org/wiki/SUNDAYS "wikilink")/dustbox/OVER ARM THROW/[STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink")/[ZOMBIESTARZ](https://ja.wikipedia.org/wiki/ZOMBIESTARZ "wikilink")/[AT-FIELD](https://ja.wikipedia.org/wiki/AT-FIELD "wikilink")/[BACKLIFT](https://ja.wikipedia.org/wiki/BACKLIFT "wikilink")/GOOD4NOTHING/[Northern19](../Page/Northern19.md "wikilink")/[Reboot](https://ja.wikipedia.org/wiki/Reboot "wikilink")/SECRET 7 LINE/[SHIMA](https://ja.wikipedia.org/wiki/SHIMA "wikilink")/[sunmarine](https://ja.wikipedia.org/wiki/sunmarine "wikilink")/[swapping18](https://ja.wikipedia.org/wiki/swapping18 "wikilink")/[THE BOOGIE BACK](https://ja.wikipedia.org/wiki/THE_BOOGIE_BACK "wikilink")/[THE LOCAL ART](https://ja.wikipedia.org/wiki/THE_LOCAL_ART "wikilink")/[The Well Wells](https://ja.wikipedia.org/wiki/The_Well_Wells "wikilink")/[UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink")/[とびこ](https://ja.wikipedia.org/wiki/とびこ "wikilink")/[スパイク](https://ja.wikipedia.org/wiki/スパイク "wikilink")
+        w/[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")/PAN/[SUNDAYS](https://ja.wikipedia.org/wiki/SUNDAYS "wikilink")/dustbox/OVER ARM THROW/[STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")/[ZOMBIESTARZ](https://ja.wikipedia.org/wiki/ZOMBIESTARZ "wikilink")/[AT-FIELD](https://ja.wikipedia.org/wiki/AT-FIELD "wikilink")/[BACKLIFT](https://ja.wikipedia.org/wiki/BACKLIFT "wikilink")/GOOD4NOTHING/[Northern19](../Page/Northern19.md "wikilink")/[Reboot](https://ja.wikipedia.org/wiki/Reboot "wikilink")/SECRET 7 LINE/[SHIMA](https://ja.wikipedia.org/wiki/SHIMA "wikilink")/[sunmarine](https://ja.wikipedia.org/wiki/sunmarine "wikilink")/[swapping18](https://ja.wikipedia.org/wiki/swapping18 "wikilink")/[THE BOOGIE BACK](https://ja.wikipedia.org/wiki/THE_BOOGIE_BACK "wikilink")/[THE LOCAL ART](../Page/THE_LOCAL_ART.md "wikilink")/[The Well Wells](https://ja.wikipedia.org/wiki/The_Well_Wells "wikilink")/[UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink")/[とびこ](https://ja.wikipedia.org/wiki/とびこ "wikilink")/[スパイク](../Page/スパイク.md "wikilink")
   - 2014年 - SABOTEN presents AFRICAN NIGHT SPECIAL
       -
-        w/[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")/[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")/[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/AT-FIELD/[POT](https://ja.wikipedia.org/wiki/POT "wikilink")/[POLKADOT](https://ja.wikipedia.org/wiki/POLKADOT "wikilink")
+        w/[B-DASH](../Page/B-DASH.md "wikilink")/[ガガガSP](../Page/ガガガSP.md "wikilink")/[サンボマスター](../Page/サンボマスター.md "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/AT-FIELD/[POT](https://ja.wikipedia.org/wiki/POT "wikilink")/[POLKADOT](https://ja.wikipedia.org/wiki/POLKADOT "wikilink")
   - 2014年12月12日・26日 - SABOTEN 傑作集を選んだ1億3千万人に挨拶TOUR FINAL ONE MAN
   - 2015年05月16日 - SABOTEN presents AFRICAN NIGHT NAGOYA〜SABOTEN DVD RELEASE PARTY〜
       -
@@ -1247,7 +1247,7 @@ ADVE-1004T:限定盤</p></td>
   - 2011年08月06日 - 八食サマーフリーライブ 2011
   - 2011年09月23日 - MASTER COLISEUM'11
   - 2012年02月05日 - [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") pre.THICK FESTIVAL 2012
-  - 2012年03月18日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink") "RIGHT NOW TOUR 2012"
+  - 2012年03月18日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink") "RIGHT NOW TOUR 2012"
   - 2012年05月05日 - COMIN'KOBE12
   - 2012年05月09日 - SSMC 2012
   - 2012年06月09日 - ジャングル☆ライブ
@@ -1257,7 +1257,7 @@ ADVE-1004T:限定盤</p></td>
   - 2012年10月21日 - タワーレコード難波店10周年記念イベント「ミナミの10王〜ロックの匂いがしよるでぇッ\!〜」
   - 2012年10月28日 - rockey presents "7stars vol.1
   - 2012年11月08日 - カントリーロードツアー2012
-  - 2012年12月16日 - [B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink") 結成15周年ツアー 「か・・かか・・・・かぺぺぺ・・・」
+  - 2012年12月16日 - [B-DASH](../Page/B-DASH.md "wikilink") 結成15周年ツアー 「か・・かか・・・・かぺぺぺ・・・」
   - 2012年12月27日 - [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") 50 PUSH\!\! ALL AROUND JAPAN TOUR 2012裏ファイナル 神戸太陽と虎2DAYS
   - 2013年03月24日 - SECRET 7 LINE pre.THICK FESTIVAL 2013 "KILL 'EM ALL KIDZ"
   - 2013年04月29日 - COMIN'KOBE 2013
@@ -1298,7 +1298,7 @@ ADVE-1004T:限定盤</p></td>
   - 2015年03月14日 - TENJIN ONTAQ 天神音たく
   - 2015年03月16日・17日・18日 - FACE IT\!\!
   - 2015年03月22日 - SAKAI MEETING 2015
-  - 2015年03月28日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 全国行脚ツアー2015 「ガガガを聴いたらコンニチワ\!\!」
+  - 2015年03月28日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 全国行脚ツアー2015 「ガガガを聴いたらコンニチワ\!\!」
   - 2015年04月16日 - [SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink") presents Dr.Martens
   - 2015年04月19日 - EGG BRAIN LIVE "THANXXX"
   - 2015年04月25日 - [ザ・サイレンズ](https://ja.wikipedia.org/wiki/ザ・サイレンズ "wikilink") presents"京極ランチタイムvol.34〜「RAINBOW」リリースツアーファイナル〜"

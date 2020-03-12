@@ -1,7 +1,7 @@
 > この記事は[SWEET PUNKS](https://ja.wikipedia.org/wiki/SWEET_PUNKS)から翻訳されています。
 
 
-**SWEET PUNKS**(スイート・パンクス)は[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")の3作目のアルバム。
+**SWEET PUNKS**(スイート・パンクス)は[ZYYG](../Page/ZYYG.md "wikilink")の3作目のアルバム。
 
 ## 作品の解説
 
@@ -23,11 +23,11 @@
         9thシングル
 7.  **BORN TO BE COOL**
 8.  **SERIOUS**
-9.  **[Something(album ver.)](https://ja.wikipedia.org/wiki/Something_\(ZYYGの曲\) "wikilink")**
+9.  **[Something(album ver.)](../Page/Something_\(ZYYGの曲\).md "wikilink")**
       -
         8thシングル
 10. **LADY MOON**
-11. **[この情熱のそばで](https://ja.wikipedia.org/wiki/この情熱のそばで "wikilink")**
+11. **[この情熱のそばで](../Page/この情熱のそばで.md "wikilink")**
       -
         10thシングル
 
@@ -40,13 +40,13 @@
 
 ## ゲストコーラス
 
-  - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")（[TWINZER](../Page/TWINZER.md "wikilink")）
-  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[BAAD](https://ja.wikipedia.org/wiki/BAAD "wikilink")）
-  - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")（[FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink")）
+  - [生沢佑一](../Page/生沢佑一.md "wikilink")（[TWINZER](../Page/TWINZER.md "wikilink")）
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[BAAD](../Page/BAAD.md "wikilink")）
+  - [川島だりあ](../Page/川島だりあ.md "wikilink")（[FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink")）
 
 ## 関連項目
 
-  - [ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")
+  - [ZYYG](../Page/ZYYG.md "wikilink")
       - [高山征輝](../Page/高山征輝.md "wikilink")
       - [後藤康二](../Page/後藤康二.md "wikilink")
       - [加藤直樹](https://ja.wikipedia.org/wiki/加藤直樹_\(ベーシスト\) "wikilink")

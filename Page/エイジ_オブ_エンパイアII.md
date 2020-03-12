@@ -1,7 +1,7 @@
 > この記事は[  II](https://ja.wikipedia.org/wiki/__II)から翻訳されています。
 
 
-**エイジ オブ エンパイア II: エイジ オブ キング**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が発売している[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")ゲームで、[『エイジ オブ エンパイア』シリーズの第二作目である](https://ja.wikipedia.org/wiki/エイジ_オブ_エンパイア_シリーズ "wikilink")。前作同様時代の進化を扱っているが、今作は[暗黒時代](https://ja.wikipedia.org/wiki/暗黒時代 "wikilink")から[中世](../Page/中世.md "wikilink")を4つ（暗黒の時代、領主の時代、城主の時代及び帝王の時代）に分けている。アメリカでの発売は[1999年](../Page/1999年.md "wikilink")。数々の賞を受賞しており、名作としての評価が高い。[PlayStation 2にも移殖され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売を行い、日本でも発売された。[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版の移殖はキャンセルされている。
+**エイジ オブ エンパイア II: エイジ オブ キング**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が発売している[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")ゲームで、[『エイジ オブ エンパイア』シリーズの第二作目である](../Page/エイジ_オブ_エンパイア_シリーズ.md "wikilink")。前作同様時代の進化を扱っているが、今作は[暗黒時代](../Page/暗黒時代.md "wikilink")から[中世](../Page/中世.md "wikilink")を4つ（暗黒の時代、領主の時代、城主の時代及び帝王の時代）に分けている。アメリカでの発売は[1999年](../Page/1999年.md "wikilink")。数々の賞を受賞しており、名作としての評価が高い。[PlayStation 2にも移殖され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売を行い、日本でも発売された。[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版の移殖はキャンセルされている。
 
 前作同様歴史に基づいたシングルプレイとインターネット対戦の両方ができる。また前作との相違点として、各文明が固有のユニットとテクノロジーを有し、それによって各文明の個性がさらに際立ったものとなった。
 
@@ -27,26 +27,26 @@
 
 ### 覇者たちの光陰（拡張パック）
 
-  - [エルシッド](https://ja.wikipedia.org/wiki/エル・シッド "wikilink")
-  - [アッティラ](https://ja.wikipedia.org/wiki/アッティラ "wikilink")
+  - [エルシッド](../Page/エル・シッド.md "wikilink")
+  - [アッティラ](../Page/アッティラ.md "wikilink")
   - [モクテスマ](../Page/クアウテモック.md "wikilink")
   - 覇者たちの戦い（\*はゲーム上には登場しない歴史上の人物）
-      - [トゥール](https://ja.wikipedia.org/wiki/トゥール・ポワティエ間の戦い "wikilink")（[カール・マルテル](https://ja.wikipedia.org/wiki/カール・マルテル "wikilink")）
+      - [トゥール](../Page/トゥール・ポワティエ間の戦い.md "wikilink")（[カール・マルテル](../Page/カール・マルテル.md "wikilink")）
       - [葡萄の地](https://ja.wikipedia.org/wiki/ヴィンランドサガ "wikilink")（[赤毛のエリック](https://ja.wikipedia.org/wiki/赤毛のエリック "wikilink")）
-      - [ヘースティングス](https://ja.wikipedia.org/wiki/ヘイスティングズの戦い "wikilink")（[ウィリアム1世](../Page/ウィリアム1世_\(イングランド王\).md "wikilink")）
+      - [ヘースティングス](../Page/ヘイスティングズの戦い.md "wikilink")（[ウィリアム1世](../Page/ウィリアム1世_\(イングランド王\).md "wikilink")）
       - [マンジケルト](https://ja.wikipedia.org/wiki/マンツィケルトの戦い "wikilink")（\*[アルプ・アルスラーン](../Page/アルプ・アルスラーン.md "wikilink")）
       - [アザンクール](../Page/アジャンクールの戦い.md "wikilink")（[ヘンリー5世](https://ja.wikipedia.org/wiki/ヘンリー5世 "wikilink")）
       - [レパント](../Page/レパントの海戦.md "wikilink")（\*[ドン・フアン・デ・アウストリア](../Page/ドン・フアン・デ・アウストリア.md "wikilink")）
       - [本能寺](../Page/山崎の戦い.md "wikilink")（[織田信長](../Page/織田信長.md "wikilink")・\*[羽柴秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")）
-      - [露梁](https://ja.wikipedia.org/wiki/露梁海戦 "wikilink")（[李舜臣](../Page/李舜臣.md "wikilink")・\*[元均](https://ja.wikipedia.org/wiki/元均 "wikilink")）
+      - [露梁](../Page/露梁海戦.md "wikilink")（[李舜臣](../Page/李舜臣.md "wikilink")・\*[元均](../Page/元均.md "wikilink")）
 
 ### The Forgotten (HD版 拡張パック)
 
-  - [アラリック](https://ja.wikipedia.org/wiki/アラリック1世 "wikilink")
-  - [ドラキュラ](https://ja.wikipedia.org/wiki/ヴラド・ツェペシュ "wikilink")
+  - [アラリック](../Page/アラリック1世.md "wikilink")
+  - [ドラキュラ](../Page/ヴラド・ツェペシュ.md "wikilink")
   - [バーリ](../Page/バーリ.md "wikilink")
-  - [スフォルツァ](https://ja.wikipedia.org/wiki/フランチェスコ・スフォルツァ "wikilink")
-  - [エル・ドラド](https://ja.wikipedia.org/wiki/エル・ドラード "wikilink")
+  - [スフォルツァ](../Page/フランチェスコ・スフォルツァ.md "wikilink")
+  - [エル・ドラド](../Page/エル・ドラード.md "wikilink")
   - [プリトヴィラージャ](https://ja.wikipedia.org/wiki/プリトヴィラージャ "wikilink")
 
 ### The African Kingdoms (HD版 拡張パック)
@@ -60,22 +60,22 @@
 
   - [ガジャ・マダ](https://ja.wikipedia.org/wiki/ガジャ・マダ "wikilink")
   - [スーリヤヴァルマン1世](https://ja.wikipedia.org/wiki/スーリヤヴァルマン1世 "wikilink")
-  - [バインナウン](https://ja.wikipedia.org/wiki/バインナウン "wikilink")
-  - [黎利](https://ja.wikipedia.org/wiki/黎利 "wikilink")
+  - [バインナウン](../Page/バインナウン.md "wikilink")
+  - [黎利](../Page/黎利.md "wikilink")
 
 ## 登場する文明
 
 ### エイジ オブ キング
 
-  - [ケルト](../Page/ケルト人.md "wikilink") 固有ユニット-[ウォードレイダー](https://ja.wikipedia.org/wiki/ウォードレイダー "wikilink")（移動速度の速い歩兵）
+  - [ケルト](../Page/ケルト人.md "wikilink") 固有ユニット-[ウォードレイダー](../Page/ウォードレイダー.md "wikilink")（移動速度の速い歩兵）
 
 <!-- end list -->
 
-  - [ゴート](https://ja.wikipedia.org/wiki/ゴート族 "wikilink") 固有ユニット-[ハスカール](../Page/ハスカール.md "wikilink")（間接防御の高い歩兵）
+  - [ゴート](../Page/ゴート族.md "wikilink") 固有ユニット-[ハスカール](../Page/ハスカール.md "wikilink")（間接防御の高い歩兵）
 
 <!-- end list -->
 
-  - [サラセン](../Page/サラセン人.md "wikilink") 固有ユニット-[マムルーク](https://ja.wikipedia.org/wiki/マムルーク "wikilink")（投剣で攻撃する駱駝騎兵）
+  - [サラセン](../Page/サラセン人.md "wikilink") 固有ユニット-[マムルーク](../Page/マムルーク.md "wikilink")（投剣で攻撃する駱駝騎兵）
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - [中国](https://ja.wikipedia.org/wiki/中国 "wikilink") 固有ユニット-[連弩兵](https://ja.wikipedia.org/wiki/弩#連射性能 "wikilink")（連続攻撃ができる弓兵）
+  - [中国](../Page/中国.md "wikilink") 固有ユニット-[連弩兵](https://ja.wikipedia.org/wiki/弩#連射性能 "wikilink")（連続攻撃ができる弓兵）
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 
 <!-- end list -->
 
-  - [ビザンティン](https://ja.wikipedia.org/wiki/東ローマ "wikilink") 固有ユニット-[カタフラクト](https://ja.wikipedia.org/wiki/カタフラクト "wikilink")（歩兵に強い騎兵）
+  - [ビザンティン](https://ja.wikipedia.org/wiki/東ローマ "wikilink") 固有ユニット-[カタフラクト](../Page/カタフラクト.md "wikilink")（歩兵に強い騎兵）
 
 <!-- end list -->
 
@@ -107,11 +107,11 @@
 
 <!-- end list -->
 
-  - [ブリトン](https://ja.wikipedia.org/wiki/イギリス "wikilink") 固有ユニット-[ロングボウ](https://ja.wikipedia.org/wiki/ロングボウ "wikilink")（射程の長い弓兵）
+  - [ブリトン](https://ja.wikipedia.org/wiki/イギリス "wikilink") 固有ユニット-[ロングボウ](../Page/ロングボウ.md "wikilink")（射程の長い弓兵）
 
 <!-- end list -->
 
-  - [ペルシア](../Page/ペルシア.md "wikilink") 固有ユニット-[エレファント](https://ja.wikipedia.org/wiki/戦象 "wikilink")（耐久力・攻撃力が高く動きの遅い騎兵）
+  - [ペルシア](../Page/ペルシア.md "wikilink") 固有ユニット-[エレファント](../Page/戦象.md "wikilink")（耐久力・攻撃力が高く動きの遅い騎兵）
 
 <!-- end list -->
 
@@ -119,11 +119,11 @@
 
 ### 覇者たちの光陰（拡張パック）
 
-  - [朝鮮](https://ja.wikipedia.org/wiki/朝鮮 "wikilink") 固有ユニット-[戦車](https://ja.wikipedia.org/wiki/チャリオット "wikilink")、[亀甲船](https://ja.wikipedia.org/wiki/亀甲船 "wikilink")（耐久力の高い砲船）
+  - [朝鮮](../Page/朝鮮.md "wikilink") 固有ユニット-[戦車](../Page/チャリオット.md "wikilink")、[亀甲船](../Page/亀甲船.md "wikilink")（耐久力の高い砲船）
 
 <!-- end list -->
 
-  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink") 固有ユニット-[コンキスタドール](../Page/コンキスタドール.md "wikilink")（[騎馬の鉄砲兵](https://ja.wikipedia.org/wiki/竜騎兵 "wikilink")）、[宣教師](../Page/宣教師.md "wikilink")（[ロバ](../Page/ロバ.md "wikilink")に乗った聖職者）
+  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink") 固有ユニット-[コンキスタドール](../Page/コンキスタドール.md "wikilink")（[騎馬の鉄砲兵](../Page/竜騎兵.md "wikilink")）、[宣教師](../Page/宣教師.md "wikilink")（[ロバ](../Page/ロバ.md "wikilink")に乗った聖職者）
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - [インカ](../Page/インカ帝国.md "wikilink") 固有ユニット-カマヤック（射程を持った槍兵）[スリンガー](https://ja.wikipedia.org/wiki/投石器 "wikilink")（歩兵に強い射手）
+  - [インカ](../Page/インカ帝国.md "wikilink") 固有ユニット-カマヤック（射程を持った槍兵）[スリンガー](../Page/投石器.md "wikilink")（歩兵に強い射手）
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@
 
 <!-- end list -->
 
-  - [マジャール](https://ja.wikipedia.org/wiki/マジャル人 "wikilink") 固有ユニット-マジャールハサー（作成速度が低く耐久力・攻撃力が高い騎兵）
+  - [マジャール](../Page/マジャル人.md "wikilink") 固有ユニット-マジャールハサー（作成速度が低く耐久力・攻撃力が高い騎兵）
 
 <!-- end list -->
 
@@ -162,7 +162,7 @@
   - [ベルベル](https://ja.wikipedia.org/wiki/ベルベル "wikilink") 固有ユニット-ジェニトゥール（騎乗散兵）らくだ弓騎兵（弓騎兵に強い弓騎兵）
   - [マリ](../Page/マリ.md "wikilink") 固有ユニット-グベト（[投斧で攻撃する歩兵](https://ja.wikipedia.org/wiki/フランキスカ "wikilink")）
   - [エチオピア](https://ja.wikipedia.org/wiki/エチオピア "wikilink") 固有ユニット-ショーテルウォリア（コストが少なく短時間で作成できる歩兵）
-  - [ポルトガル](../Page/ポルトガル.md "wikilink") 固有ユニット-[オルガン砲](https://ja.wikipedia.org/wiki/オルガン砲 "wikilink")（砲弾を一斉発射する砲撃兵器）[キャラベル船](https://ja.wikipedia.org/wiki/キャラベル船 "wikilink")（貫通性能のある矢を発射する軍船）
+  - [ポルトガル](../Page/ポルトガル.md "wikilink") 固有ユニット-[オルガン砲](https://ja.wikipedia.org/wiki/オルガン砲 "wikilink")（砲弾を一斉発射する砲撃兵器）[キャラベル船](../Page/キャラベル船.md "wikilink")（貫通性能のある矢を発射する軍船）
 
 ### Rise of the Rajas (HD版 拡張パック)
 
@@ -177,20 +177,20 @@
 
   - [歩兵](../Page/歩兵.md "wikilink")
       - [民兵](../Page/民兵.md "wikilink") - 軍兵 - [長剣剣士](../Page/ロングソード.md "wikilink") - [重剣剣士](../Page/ツーハンデッドソード.md "wikilink") - [近衛剣士](https://ja.wikipedia.org/wiki/衛士 "wikilink")
-      - [槍](../Page/槍.md "wikilink")兵 - [長槍兵](../Page/パイク.md "wikilink") - [矛槍兵](https://ja.wikipedia.org/wiki/ハルバード "wikilink")(\*)
+      - [槍](../Page/槍.md "wikilink")兵 - [長槍兵](../Page/パイク.md "wikilink") - [矛槍兵](../Page/ハルバード.md "wikilink")(\*)
       - [イーグルウォリア](../Page/鷲の戦士.md "wikilink")(\*) - 重装[イーグルウォリア](../Page/鷲の戦士.md "wikilink")(\*\*) - エリート[イーグルウォリア](../Page/鷲の戦士.md "wikilink")(\*)
       - [コンドッティエーレ](../Page/コンドッティエーレ.md "wikilink")(\*\*)
   - 射手
       - 弓兵 - [石弓](https://ja.wikipedia.org/wiki/石弓 "wikilink")兵 - 重石弓兵
-      - [散兵](https://ja.wikipedia.org/wiki/散兵 "wikilink") - 精鋭[散兵](https://ja.wikipedia.org/wiki/散兵 "wikilink")
-      - [弓騎兵](https://ja.wikipedia.org/wiki/弓騎兵 "wikilink") - 重[弓騎兵](https://ja.wikipedia.org/wiki/弓騎兵 "wikilink")
+      - [散兵](../Page/散兵.md "wikilink") - 精鋭[散兵](../Page/散兵.md "wikilink")
+      - [弓騎兵](../Page/弓騎兵.md "wikilink") - 重[弓騎兵](../Page/弓騎兵.md "wikilink")
       - [砲撃手](../Page/火縄銃.md "wikilink")
-  - [騎兵](https://ja.wikipedia.org/wiki/騎兵 "wikilink")
-      - [斥候](https://ja.wikipedia.org/wiki/斥候 "wikilink") - [騎兵](https://ja.wikipedia.org/wiki/騎兵 "wikilink") - [ハサー](https://ja.wikipedia.org/wiki/ハサー "wikilink")(\*)
+  - [騎兵](../Page/騎兵.md "wikilink")
+      - [斥候](https://ja.wikipedia.org/wiki/斥候 "wikilink") - [騎兵](../Page/騎兵.md "wikilink") - [ハサー](https://ja.wikipedia.org/wiki/ハサー "wikilink")(\*)
       - [騎士](../Page/騎士.md "wikilink") - [重騎士](https://ja.wikipedia.org/wiki/重騎士 "wikilink") - [近衛騎士](../Page/パラディン.md "wikilink")
       - [らくだ騎兵](https://ja.wikipedia.org/wiki/ラクダ騎兵 "wikilink") - 重装らくだ騎兵
-  - [攻城兵器](https://ja.wikipedia.org/wiki/攻城兵器 "wikilink")
-      - [投石器](https://ja.wikipedia.org/wiki/カタパルト_\(投石機\) "wikilink") - 改良型[投石器](https://ja.wikipedia.org/wiki/カタパルト_\(投石機\) "wikilink") - 破城[投石器](https://ja.wikipedia.org/wiki/カタパルト_\(投石機\) "wikilink")
+  - [攻城兵器](../Page/攻城兵器.md "wikilink")
+      - [投石器](../Page/カタパルト_\(投石機\).md "wikilink") - 改良型[投石器](../Page/カタパルト_\(投石機\).md "wikilink") - 破城[投石器](../Page/カタパルト_\(投石機\).md "wikilink")
       - [破城槌](../Page/破城槌.md "wikilink") - 強化破城槌 - 改良強化破城槌
       - [大砲](../Page/射石砲.md "wikilink")
       - [スコーピオン](../Page/バリスタ_\(兵器\).md "wikilink") - ヘビースコーピオン
@@ -202,9 +202,9 @@
       - [キャノンガリオン船](../Page/カノン砲.md "wikilink") - 機動キャノンガリオン船
   - その他
       - [王](../Page/王.md "wikilink")
-      - [聖職者](https://ja.wikipedia.org/wiki/聖職者 "wikilink")
+      - [聖職者](../Page/聖職者.md "wikilink")
       - 町の人
-      - [聖職者](https://ja.wikipedia.org/wiki/聖職者 "wikilink")
+      - [聖職者](../Page/聖職者.md "wikilink")
       - 荷馬車
       - [漁船](../Page/漁船.md "wikilink")
       - 交易貨物船
@@ -251,7 +251,7 @@
   - AIシステムの強化\[1\]
   - ゲームの解像度オプション追加(4Kディスプレイ等にも対応)
   - ウィンドウモードの追加
-  - [AoMや](https://ja.wikipedia.org/wiki/エイジ_オブ_ミソロジー "wikilink")[LoLなどに代表される観戦機能](https://ja.wikipedia.org/wiki/League_of_Legends "wikilink")(シークバーはない)
+  - [AoMや](../Page/エイジ_オブ_ミソロジー.md "wikilink")[LoLなどに代表される観戦機能](https://ja.wikipedia.org/wiki/League_of_Legends "wikilink")(シークバーはない)
   - リプレイ再生速度の向上
   - オンライン対戦時の通信安定性向上
   - 復元したゲームのリプレイが閲覧可能

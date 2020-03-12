@@ -1,35 +1,35 @@
 > この記事は[DMH17](https://ja.wikipedia.org/wiki/DMH17)から翻訳されています。
 
 
-[thumbのDMH](https://ja.wikipedia.org/wiki/ファイル:JNR_DMH17C_engine\(DMU_Type_Kiha_20's\).jpg "wikilink")17Cエンジン。中央に燃料噴射ポンプが設置されている。出力軸となる左側に新潟コンバータDF115A液体変速機を装備。[碓氷峠鉄道文化むら](../Page/碓氷峠鉄道文化むら.md "wikilink")にて撮影\]\] **DMH17系エンジン**（DMH17けいエンジン）とは、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の[気動車](../Page/気動車.md "wikilink")・[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")に搭載されていた[直列8気筒](https://ja.wikipedia.org/wiki/直列8気筒 "wikilink")、副室式[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
+[thumbのDMH](https://ja.wikipedia.org/wiki/ファイル:JNR_DMH17C_engine\(DMU_Type_Kiha_20's\).jpg "wikilink")17Cエンジン。中央に燃料噴射ポンプが設置されている。出力軸となる左側に新潟コンバータDF115A液体変速機を装備。[碓氷峠鉄道文化むら](../Page/碓氷峠鉄道文化むら.md "wikilink")にて撮影\]\] **DMH17系エンジン**（DMH17けいエンジン）とは、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の[気動車](../Page/気動車.md "wikilink")・[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")に搭載されていた[直列8気筒](../Page/直列8気筒.md "wikilink")、副室式[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Air_compressor\(JNR_Type_C-600\).jpg "wikilink")  名称は、DMがディーゼルエンジンであること (Diesel Motor)、Hは8気筒であること（アルファベットの8番目）、17は総[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")が17[リットル](../Page/リットル.md "wikilink")であることを表す。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）以降[1960年代](../Page/1960年代.md "wikilink")末まで、国鉄の気動車用標準ディーゼルエンジンの一つとしてこれを搭載した気動車が大量に製作され、日本全国で使用された。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Air_compressor\(JNR_Type_C-600\).jpg "wikilink")  名称は、DMがディーゼルエンジンであること (Diesel Motor)、Hは8気筒であること（アルファベットの8番目）、17は総[排気量](../Page/排気量.md "wikilink")が17[リットル](../Page/リットル.md "wikilink")であることを表す。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）以降[1960年代](../Page/1960年代.md "wikilink")末まで、国鉄の気動車用標準ディーゼルエンジンの一つとしてこれを搭載した気動車が大量に製作され、日本全国で使用された。
 
-基本設計は[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")前に行なわれていたもので、重量の割に出力は十分でなく、設計の古さから[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")や始動性も芳しくなかったが、このエンジンを基軸とした[標準化](https://ja.wikipedia.org/wiki/標準化 "wikilink")が優先して推進されたことや、DMH17系に代わる軽量で高効率な大出力エンジンがなかなか実用化されなかったこともあり、このエンジンを搭載した気動車は、一般用から特急用に至るまで長期量産されることになり、同時期に新製された私鉄向け気動車にも搭載された。
+基本設計は[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")前に行なわれていたもので、重量の割に出力は十分でなく、設計の古さから[燃費](../Page/燃費.md "wikilink")や始動性も芳しくなかったが、このエンジンを基軸とした[標準化](../Page/標準化.md "wikilink")が優先して推進されたことや、DMH17系に代わる軽量で高効率な大出力エンジンがなかなか実用化されなかったこともあり、このエンジンを搭載した気動車は、一般用から特急用に至るまで長期量産されることになり、同時期に新製された私鉄向け気動車にも搭載された。
 
-国鉄のものについては、[分割民営化後](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")[JR](../Page/JR.md "wikilink")旅客各社に継承されたが、本州3社に継承されたものの一部は[カミンズ](https://ja.wikipedia.org/wiki/カミンズ "wikilink")社や[小松製作所](https://ja.wikipedia.org/wiki/小松製作所 "wikilink")、[新潟鐵工所](https://ja.wikipedia.org/wiki/新潟鐵工所 "wikilink")製の軽量低燃費で出力の大きい新型の機関への交換が進められ、また老朽化による搭載車そのものの[廃車も進んだ](https://ja.wikipedia.org/wiki/廃車_\(鉄道\) "wikilink")。
+国鉄のものについては、[分割民営化後](../Page/国鉄分割民営化.md "wikilink")[JR](../Page/JR.md "wikilink")旅客各社に継承されたが、本州3社に継承されたものの一部は[カミンズ](../Page/カミンズ.md "wikilink")社や[小松製作所](../Page/小松製作所.md "wikilink")、[新潟鐵工所](../Page/新潟鐵工所.md "wikilink")製の軽量低燃費で出力の大きい新型の機関への交換が進められ、また老朽化による搭載車そのものの[廃車も進んだ](../Page/廃車_\(鉄道\).md "wikilink")。
 
-[私鉄](../Page/私鉄.md "wikilink")への譲渡車や私鉄の自社発注車でも廃車や新型エンジンへの交換が進み、DMH17系エンジン搭載車は大幅に減少しつつある。このエンジン、特に縦型機関の独特のサウンド（三連符を刻む[空気圧縮機と](https://ja.wikipedia.org/wiki/圧縮機 "wikilink")「コロンコロン」「カランカラン」と表現される特徴的な軽みのある[アイドル音](https://ja.wikipedia.org/wiki/アイドリング "wikilink")、加速時の噴射音やエンジンそのものの激しい唸りなど）を聞く機会も非常に少なくなってきているが、[小湊鐵道キハ200形気動車](https://ja.wikipedia.org/wiki/小湊鐵道キハ200形気動車 "wikilink")は2020年時点でも全車に本原動機が搭載されており、営業車ではたいへん貴重である。 {{-}}
+[私鉄](../Page/私鉄.md "wikilink")への譲渡車や私鉄の自社発注車でも廃車や新型エンジンへの交換が進み、DMH17系エンジン搭載車は大幅に減少しつつある。このエンジン、特に縦型機関の独特のサウンド（三連符を刻む[空気圧縮機と](../Page/圧縮機.md "wikilink")「コロンコロン」「カランカラン」と表現される特徴的な軽みのある[アイドル音](../Page/アイドリング.md "wikilink")、加速時の噴射音やエンジンそのものの激しい唸りなど）を聞く機会も非常に少なくなってきているが、[小湊鐵道キハ200形気動車](https://ja.wikipedia.org/wiki/小湊鐵道キハ200形気動車 "wikilink")は2020年時点でも全車に本原動機が搭載されており、営業車ではたいへん貴重である。 {{-}}
 
 ## 歴史
 
-ルーツは[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")及び民間メーカーの協力により[1932年](../Page/1932年.md "wikilink")（昭和7年）度に設計された定格100馬力の6気筒[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")、[GMF13形エンジン](https://ja.wikipedia.org/wiki/GMF13形エンジン "wikilink")である。[鉄道省キハ41000形に搭載されたこのエンジンをベースに](https://ja.wikipedia.org/wiki/国鉄キハ04形気動車 "wikilink")8気筒化したものが[キハ42000形用の](https://ja.wikipedia.org/wiki/国鉄キハ07形気動車 "wikilink")150PSガソリンエンジン・[GMH17形エンジン](https://ja.wikipedia.org/wiki/GMH17形エンジン "wikilink")（[1935年](../Page/1935年.md "wikilink")（昭和10年））である。
+ルーツは[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")及び民間メーカーの協力により[1932年](../Page/1932年.md "wikilink")（昭和7年）度に設計された定格100馬力の6気筒[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")、[GMF13形エンジン](https://ja.wikipedia.org/wiki/GMF13形エンジン "wikilink")である。[鉄道省キハ41000形に搭載されたこのエンジンをベースに](../Page/国鉄キハ04形気動車.md "wikilink")8気筒化したものが[キハ42000形用の](../Page/国鉄キハ07形気動車.md "wikilink")150PSガソリンエンジン・[GMH17形エンジン](https://ja.wikipedia.org/wiki/GMH17形エンジン "wikilink")（[1935年](../Page/1935年.md "wikilink")（昭和10年））である。
 
-この時代から、ディーゼルエンジンがガソリンエンジンに比して経済性に勝ることは認知されており、鉄道省でも[1935年](../Page/1935年.md "wikilink")（昭和10年）頃から気動車用ディーゼル機関の開発が試みられた。1935年以降、GMF13形・GMH17形エンジンと同等スペックのディーゼルエンジン開発が計画され、当時高速ディーゼルエンジン開発に取り組んでいた[新潟鐵工所](https://ja.wikipedia.org/wiki/新潟鐵工所 "wikilink")、[池貝](https://ja.wikipedia.org/wiki/池貝 "wikilink")製作所、[三菱造船の各社競作により試作が行われた](../Page/三菱重工業.md "wikilink")。各社のエンジンはほぼ同クラスの性能・サイズであったが、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")構造などには差異があり、新潟LH8形、池貝8HSD13形はいずれも[渦流室式](https://ja.wikipedia.org/wiki/燃焼室#福室式 "wikilink")、三菱8150形は[直噴式で](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")、[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")の相互互換性は無かった。試作エンジンは当時の標準型機械式気動車に搭載され、試験が繰り返された。
+この時代から、ディーゼルエンジンがガソリンエンジンに比して経済性に勝ることは認知されており、鉄道省でも[1935年](../Page/1935年.md "wikilink")（昭和10年）頃から気動車用ディーゼル機関の開発が試みられた。1935年以降、GMF13形・GMH17形エンジンと同等スペックのディーゼルエンジン開発が計画され、当時高速ディーゼルエンジン開発に取り組んでいた[新潟鐵工所](../Page/新潟鐵工所.md "wikilink")、[池貝](../Page/池貝.md "wikilink")製作所、[三菱造船の各社競作により試作が行われた](../Page/三菱重工業.md "wikilink")。各社のエンジンはほぼ同クラスの性能・サイズであったが、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")構造などには差異があり、新潟LH8形、池貝8HSD13形はいずれも[渦流室式](https://ja.wikipedia.org/wiki/燃焼室#福室式 "wikilink")、三菱8150形は[直噴式で](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")、[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")の相互互換性は無かった。試作エンジンは当時の標準型機械式気動車に搭載され、試験が繰り返された。
 
 この結果を基に、鉄道省と各車両メーカーによる共同の基本設計が進められ、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）には完了したものの、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")の[開戦](https://ja.wikipedia.org/wiki/開戦 "wikilink")と燃料事情の悪化により、量産化・実用化開発は中断した。
 
-[終戦](https://ja.wikipedia.org/wiki/終戦 "wikilink")後、気動車用として早急に実用に供しうる高速ディーゼルエンジンが求められたことから、旧式ではあるが既に基本設計や部分試作が済んでおり、資料や試作部品も残存していたこの直列8気筒エンジンが、再度実用化開発の対象とされた。
+[終戦](../Page/終戦.md "wikilink")後、気動車用として早急に実用に供しうる高速ディーゼルエンジンが求められたことから、旧式ではあるが既に基本設計や部分試作が済んでおり、資料や試作部品も残存していたこの直列8気筒エンジンが、再度実用化開発の対象とされた。
 
 （第二次世界大戦中の急速な技術進歩によって、開発再開の時点ですでに旧式化していた。1955年に東急車輛製造が[台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")（台鉄）向けに製造した[DR2500型気動車にはカミンズ製NHRBS](https://ja.wikipedia.org/wiki/台湾鉄路管理局DR2500型気動車 "wikilink")-600エンジン（[機械加給](../Page/スーパーチャージャー.md "wikilink")12.2L　300HP＠2100）搭載）
 
-[1950年](../Page/1950年.md "wikilink")（昭和25年）から本格的に量産に向けた改良設計・製作を再開し、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）2月にDMH17形エンジンが完成した。初めてこのエンジンを搭載したのは、元ガソリンカーのエンジン換装車であるキハ42013である（当時の経緯については[キハ07形の項に詳しい](https://ja.wikipedia.org/wiki/国鉄キハ07形気動車 "wikilink")）。続いてこれを6気筒に縮小した[DMF13型エンジン（初代）も作られた](https://ja.wikipedia.org/wiki/DMF13系エンジン_\(初代\) "wikilink")。　
+[1950年](../Page/1950年.md "wikilink")（昭和25年）から本格的に量産に向けた改良設計・製作を再開し、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）2月にDMH17形エンジンが完成した。初めてこのエンジンを搭載したのは、元ガソリンカーのエンジン換装車であるキハ42013である（当時の経緯については[キハ07形の項に詳しい](../Page/国鉄キハ07形気動車.md "wikilink")）。続いてこれを6気筒に縮小した[DMF13型エンジン（初代）も作られた](https://ja.wikipedia.org/wiki/DMF13系エンジン_\(初代\) "wikilink")。　
 
 当初は縦形シリンダーで定格出力は150[馬力](../Page/馬力.md "wikilink")であったが、適宜改良され、出力は[1958年](../Page/1958年.md "wikilink")（昭和33年）までに180馬力まで向上した。しかし、エンジンの天地寸法が大きいうえ、客室内に[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")点検（主に[グロープラグ](../Page/グロープラグ.md "wikilink")の点検と[バルブ回りの整備](https://ja.wikipedia.org/wiki/ポペットバルブ#ポペットバルブのメンテナンス "wikilink")）用の蓋を設けねばならず、低床化と騒音・油臭対策が必要となる[キハ80系の開発にあたり](https://ja.wikipedia.org/wiki/国鉄キハ80系気動車 "wikilink")、横形（水平シリンダー形）に再設計された。それが[1960年](../Page/1960年.md "wikilink")（昭和35年）開発のDMH17Hで、型式名末尾の「H」は水平 (Horizontal) を意味する\[1\]。以後[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）までの約10年間、国鉄気動車の標準型エンジンとして大量に製作された。
 
-DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）以降、[私鉄](../Page/私鉄.md "wikilink")が導入した気動車にも広く採用されたほか、気動車や[客車](../Page/客車.md "wikilink")のサービス電源用[発電](https://ja.wikipedia.org/wiki/発電 "wikilink")エンジンとして、また[DD11形のような小型の機関車や](https://ja.wikipedia.org/wiki/国鉄DD11形ディーゼル機関車 "wikilink")、動力の必要な[事業用](https://ja.wikipedia.org/wiki/事業用車 "wikilink")[貨車](../Page/貨車.md "wikilink")等にも搭載された実績がある。完全な新製車両でこの系列のエンジンを搭載して製造された最後の事例は、[1977年](../Page/1977年.md "wikilink")（昭和52年）製の[小湊鉄道キハ200形気動車](https://ja.wikipedia.org/wiki/小湊鉄道キハ200形気動車 "wikilink")最終増備車2両で、DMH17Cを搭載していた。
+DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）以降、[私鉄](../Page/私鉄.md "wikilink")が導入した気動車にも広く採用されたほか、気動車や[客車](../Page/客車.md "wikilink")のサービス電源用[発電](https://ja.wikipedia.org/wiki/発電 "wikilink")エンジンとして、また[DD11形のような小型の機関車や](../Page/国鉄DD11形ディーゼル機関車.md "wikilink")、動力の必要な[事業用](../Page/事業用車.md "wikilink")[貨車](../Page/貨車.md "wikilink")等にも搭載された実績がある。完全な新製車両でこの系列のエンジンを搭載して製造された最後の事例は、[1977年](../Page/1977年.md "wikilink")（昭和52年）製の[小湊鉄道キハ200形気動車](../Page/小湊鉄道キハ200形気動車.md "wikilink")最終増備車2両で、DMH17Cを搭載していた。
 
 [2016年](../Page/2016年.md "wikilink")（平成28年）1月現在でも、ごく少数が現役の気動車用エンジンとして実働している。
 
@@ -40,7 +40,7 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
   - DMH17A
     予燃焼室式に変更、160馬力。電気式気動車であるキハ44000形用のため、発電機との組み合わせを前提として端部の設計を変更。
   - DMH17B
-    [インジェクター](https://ja.wikipedia.org/wiki/インジェクター "wikilink")の噴口数を4個から3個に変更、170馬力。キハ44500形用として設計され、TC2液体変速機との組み合わせに備えて端部の設計が再々変更された。また後に設計されたDF115液体変速機に対応する際には、TC2用と別種の[フライホイール](https://ja.wikipedia.org/wiki/フライホイール "wikilink")が用意され、交換可能とされた。
+    [インジェクター](https://ja.wikipedia.org/wiki/インジェクター "wikilink")の噴口数を4個から3個に変更、170馬力。キハ44500形用として設計され、TC2液体変速機との組み合わせに備えて端部の設計が再々変更された。また後に設計されたDF115液体変速機に対応する際には、TC2用と別種の[フライホイール](../Page/フライホイール.md "wikilink")が用意され、交換可能とされた。
   - DMH17B1
     予燃焼室、圧縮比の変更、プランジャー直径を8mmから9mmに変更、180馬力。振興造機のみの製造。
   - DMH17BX
@@ -48,7 +48,7 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
   - DMH17C
     プランジャー直径を8mmから9mmに変更、180馬力。
   - DMH17C-G
-    発電セット用機関としたもの。[皇室用460](https://ja.wikipedia.org/wiki/皇室用客車#460形（460～463） "wikilink")、[マヤ20の一次車に搭載される](https://ja.wikipedia.org/wiki/国鉄20系客車#マヤ20形 "wikilink")。[負荷](https://ja.wikipedia.org/wiki/負荷 "wikilink")の急変動時にも一定の回転数を保つため、[調速機](https://ja.wikipedia.org/wiki/調速機 "wikilink")を備える。
+    発電セット用機関としたもの。[皇室用460](https://ja.wikipedia.org/wiki/皇室用客車#460形（460～463） "wikilink")、[マヤ20の一次車に搭載される](https://ja.wikipedia.org/wiki/国鉄20系客車#マヤ20形 "wikilink")。[負荷](https://ja.wikipedia.org/wiki/負荷 "wikilink")の急変動時にも一定の回転数を保つため、[調速機](../Page/調速機.md "wikilink")を備える。
   - DMH17S
     小型機関車用[過給器付](../Page/ターボチャージャー.md "wikilink")。
   - DMH17S-G
@@ -62,14 +62,14 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
 
 ## その他
 
-  - 量産型エンジンの製造は、振興造機（現・[神鋼造機](https://ja.wikipedia.org/wiki/神鋼造機 "wikilink")）、新潟鐵工所（現・[IHI原動機](https://ja.wikipedia.org/wiki/IHI原動機 "wikilink")）、[池貝](https://ja.wikipedia.org/wiki/池貝 "wikilink")製作所、新三菱重工（現・[三菱重工業](../Page/三菱重工業.md "wikilink")）、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")（現・[ダイハツディーゼル](https://ja.wikipedia.org/wiki/ダイハツディーゼル "wikilink")）による。
-  - 気動車用として組み合わされる変速機は、[振興造機TC2系または](https://ja.wikipedia.org/wiki/国鉄キハ44500形気動車#TC-2形液体変速機 "wikilink")[新潟コンバータDF115系](https://ja.wikipedia.org/wiki/国鉄キハ44500形気動車#DF115形液体変速機 "wikilink")[液体変速機が標準であった](https://ja.wikipedia.org/wiki/トルクコンバータ "wikilink")。いずれも200PS級のエンジン容量に対応可能で、DMH17系に適合した性能であった。他には機械式変速機と組み合わせられた事例もあり、私鉄気動車や機関車などでは別形式の液体変速機を用いた少数例もある。
-  - [エンジンオイル](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")容量は車種によって異なるが、50リットル前後。
-  - [冷却水容量は車種によって異なるが](https://ja.wikipedia.org/wiki/水冷 "wikilink")、約300 - 400リットル。
-  - 2個の[スターターモーターや予熱栓](https://ja.wikipedia.org/wiki/セルモーター "wikilink")（グロープラグ）も備えるが、燃焼室の表面積が大きいため始動性が悪く、特に冬季などは冷却水の凍結防止の見地から、運転時・滞泊中を問わず24時間エンジンを回し続けていることが多かった。[寒冷時再始動が極めて困難であるだけでなく](https://ja.wikipedia.org/wiki/冷間始動 "wikilink")、1958年以降製造の一部形式で冷却水を車内暖房熱源としていたことにもよる。
+  - 量産型エンジンの製造は、振興造機（現・[神鋼造機](../Page/神鋼造機.md "wikilink")）、新潟鐵工所（現・[IHI原動機](https://ja.wikipedia.org/wiki/IHI原動機 "wikilink")）、[池貝](../Page/池貝.md "wikilink")製作所、新三菱重工（現・[三菱重工業](../Page/三菱重工業.md "wikilink")）、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")（現・[ダイハツディーゼル](../Page/ダイハツディーゼル.md "wikilink")）による。
+  - 気動車用として組み合わされる変速機は、[振興造機TC2系または](https://ja.wikipedia.org/wiki/国鉄キハ44500形気動車#TC-2形液体変速機 "wikilink")[新潟コンバータDF115系](https://ja.wikipedia.org/wiki/国鉄キハ44500形気動車#DF115形液体変速機 "wikilink")[液体変速機が標準であった](../Page/トルクコンバータ.md "wikilink")。いずれも200PS級のエンジン容量に対応可能で、DMH17系に適合した性能であった。他には機械式変速機と組み合わせられた事例もあり、私鉄気動車や機関車などでは別形式の液体変速機を用いた少数例もある。
+  - [エンジンオイル](../Page/エンジンオイル.md "wikilink")容量は車種によって異なるが、50リットル前後。
+  - [冷却水容量は車種によって異なるが](../Page/水冷.md "wikilink")、約300 - 400リットル。
+  - 2個の[スターターモーターや予熱栓](../Page/セルモーター.md "wikilink")（グロープラグ）も備えるが、燃焼室の表面積が大きいため始動性が悪く、特に冬季などは冷却水の凍結防止の見地から、運転時・滞泊中を問わず24時間エンジンを回し続けていることが多かった。[寒冷時再始動が極めて困難であるだけでなく](../Page/冷間始動.md "wikilink")、1958年以降製造の一部形式で冷却水を車内暖房熱源としていたことにもよる。
   - DMH機関の低出力が早くから問題になっていたため、国鉄では1954年から1955年にかけて出力増大策として[ルーツ式スーパーチャージャーによる過給を検討](../Page/スーパーチャージャー.md "wikilink")、エンジンメーカー協力で試験された。ベースエンジンをDMH17Bとし、定格出力は無過給の160HPから200HPに向上を図った。振興造機、ダイハツの2社がイギリス・ゴッドフレー製、新潟鐵工は日立製のルーツ過給機を装備してキハ45000に搭載、25‰登り勾配での均衡速度を5ノッチ時に23km/hから36km/hに向上させる成績を挙げた\[2\]。だが1956年まで勾配路線の[日光線](https://ja.wikipedia.org/wiki/日光線 "wikilink")で気動車エンジンとして運用した成績は芳しくなく、本命たる気動車用DMHエンジンには制式採用されなかった。DMHエンジンの過給機は、後年、少数の私鉄機関車や発電用モデルで限定的に採用されるに留まった。
   - 国鉄でのDMH17系は排気管過熱事故を多発させ、これを防ぐ見地から1960年代以降、全出力状態での運転は5分間に制限された。液体式気動車でエンジンが全出力となるのは[主幹制御器](https://ja.wikipedia.org/wiki/主幹制御器 "wikilink")の「5ノッチ」段階であり、この運用制限は俗に「5ノッチ・5分」と言われた。乗務員は連続勾配などでの運転では、頃合いを見て回転を落とさねばならなかった。
-  - JR東日本からDMH17系エンジンが一掃されたのは、[1988年](../Page/1988年.md "wikilink")（昭和63年）3月、[キハ58系気動車改造の](../Page/国鉄キハ58系気動車.md "wikilink")[ジョイフルトレイン「アルカディア」が](https://ja.wikipedia.org/wiki/サロンエクスプレスアルカディア "wikilink")[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")で臨時列車として運転中、エンジン発火事故を起こしたのがきっかけである（死者はなかったが、気動車1両が全焼により廃車）。これに伴い、JR東日本はDMH17系エンジン搭載車について、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）までに新型[エンジンへの置き換えを終えた](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")。
+  - JR東日本からDMH17系エンジンが一掃されたのは、[1988年](../Page/1988年.md "wikilink")（昭和63年）3月、[キハ58系気動車改造の](../Page/国鉄キハ58系気動車.md "wikilink")[ジョイフルトレイン「アルカディア」が](https://ja.wikipedia.org/wiki/サロンエクスプレスアルカディア "wikilink")[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")で臨時列車として運転中、エンジン発火事故を起こしたのがきっかけである（死者はなかったが、気動車1両が全焼により廃車）。これに伴い、JR東日本はDMH17系エンジン搭載車について、[1992年](../Page/1992年.md "wikilink")（平成4年）までに新型[エンジンへの置き換えを終えた](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")。
       - 当時の[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")会長・山下勇（[1911年](../Page/1911年.md "wikilink")（明治44年） - [1994年](../Page/1994年.md "wikilink")（平成6年））は、元・[三井造船](https://ja.wikipedia.org/wiki/三井造船 "wikilink")会長で鉄道業界人ではなかったものの、戦前に船舶エンジンの開発に携わったことのある技術者であった。アルカディア事故の報告を受けた山下は、すぐさま事故原因の一つとおぼしいDMH17Hエンジンの設計図を取り寄せさせ、図面を見るなり「これは戦前のエンジンではないか。まだこんなエンジンを使っていたのか\!?」と驚愕したという（DMH17H自体は1960年の開発ではあるが、原設計の多くはそれ以前のDMHエンジンからの改設計であり、山下がまさに現役のエンジニアであった当時のエンジンの特徴を備えていた）。同様な火災事故の発生を危惧した山下ら首脳陣は、すぐにエンジン更新の指示を発し、短期間でDMHエンジンの置き換えが完了した\[3\]。
 
 ## 諸元
@@ -112,29 +112,29 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
 
 ### 旧国鉄→JRグループ
 
-  - [国鉄キハ07形気動車](https://ja.wikipedia.org/wiki/国鉄キハ07形気動車 "wikilink")
+  - [国鉄キハ07形気動車](../Page/国鉄キハ07形気動車.md "wikilink")
   - [国鉄キハ44000系気動車](https://ja.wikipedia.org/wiki/日本の電気式気動車#国鉄キハ44000形 "wikilink")
   - [国鉄キハ44500形気動車](../Page/国鉄キハ44500形気動車.md "wikilink")
   - [国鉄キハ08系気動車](../Page/国鉄キハ08系気動車.md "wikilink")
   - [国鉄キハ10系気動車](../Page/国鉄キハ10系気動車.md "wikilink")
   - [国鉄キハ20系気動車](../Page/国鉄キハ20系気動車.md "wikilink")
   - [国鉄キハ35系気動車](../Page/国鉄キハ35系気動車.md "wikilink")
-  - [国鉄キハ37形気動車](https://ja.wikipedia.org/wiki/国鉄キハ37形気動車 "wikilink")
+  - [国鉄キハ37形気動車](../Page/国鉄キハ37形気動車.md "wikilink")
   - [国鉄キハ45系気動車](../Page/国鉄キハ45系気動車.md "wikilink")
   - [国鉄キハ55系気動車](../Page/国鉄キハ55系気動車.md "wikilink")
   - [国鉄キハ56系気動車](../Page/国鉄キハ56系気動車.md "wikilink")
   - [国鉄キハ57系気動車](../Page/国鉄キハ57系気動車.md "wikilink")
   - [国鉄キハ58系気動車](../Page/国鉄キハ58系気動車.md "wikilink")
   - [国鉄キハ80系気動車](https://ja.wikipedia.org/wiki/国鉄キハ80系気動車 "wikilink")
-  - [国鉄DD11形ディーゼル機関車](https://ja.wikipedia.org/wiki/国鉄DD11形ディーゼル機関車 "wikilink")
+  - [国鉄DD11形ディーゼル機関車](../Page/国鉄DD11形ディーゼル機関車.md "wikilink")
 
 ### 私鉄各社
 
 注 : 譲渡車、機関換装車を除く
 
   - DMH17
-      - [羽後交通](https://ja.wikipedia.org/wiki/羽後交通 "wikilink") : キハ1形
-      - [鹿児島交通](https://ja.wikipedia.org/wiki/鹿児島交通 "wikilink") : [キハ100形](https://ja.wikipedia.org/wiki/鹿児島交通枕崎線#使用車両 "wikilink")
+      - [羽後交通](../Page/羽後交通.md "wikilink") : キハ1形
+      - [鹿児島交通](../Page/鹿児島交通.md "wikilink") : [キハ100形](https://ja.wikipedia.org/wiki/鹿児島交通枕崎線#使用車両 "wikilink")
       - [加越能鉄道](https://ja.wikipedia.org/wiki/加越能鉄道 "wikilink") : [キハ15001](https://ja.wikipedia.org/wiki/加越能鉄道加越線#車両 "wikilink")
       - [関東鉄道](../Page/関東鉄道.md "wikilink") : [キハ42002](https://ja.wikipedia.org/wiki/関東鉄道常総線#過去の車両 "wikilink")
       - [熊延鉄道](https://ja.wikipedia.org/wiki/熊延鉄道 "wikilink") : ヂハ200形
@@ -148,19 +148,19 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
       - [小湊鉄道](https://ja.wikipedia.org/wiki/小湊鉄道 "wikilink") : キハ6100形
       - [島原鉄道](https://ja.wikipedia.org/wiki/島原鉄道 "wikilink") : [キハ4500形、キハ20形](https://ja.wikipedia.org/wiki/島原鉄道#車両 "wikilink")
       -
-      - [羽幌炭礦鉄道](https://ja.wikipedia.org/wiki/羽幌炭礦鉄道 "wikilink") : [キハ1001](https://ja.wikipedia.org/wiki/羽幌炭礦鉄道#気動車 "wikilink")
-      - 夕張鉄道 : [キハ250形](https://ja.wikipedia.org/wiki/夕張鉄道キハ250形気動車 "wikilink")
-      - [留萠鉄道](https://ja.wikipedia.org/wiki/留萠鉄道 "wikilink") : ケハ502、[キハ1000形](https://ja.wikipedia.org/wiki/留萠鉄道#車両 "wikilink")
+      - [羽幌炭礦鉄道](../Page/羽幌炭礦鉄道.md "wikilink") : [キハ1001](https://ja.wikipedia.org/wiki/羽幌炭礦鉄道#気動車 "wikilink")
+      - 夕張鉄道 : [キハ250形](../Page/夕張鉄道キハ250形気動車.md "wikilink")
+      - [留萠鉄道](../Page/留萠鉄道.md "wikilink") : ケハ502、[キハ1000形](https://ja.wikipedia.org/wiki/留萠鉄道#車両 "wikilink")
   - DMH17B1
-      - [小田急電鉄](../Page/小田急電鉄.md "wikilink") : [キハ5000形、キハ5100形](https://ja.wikipedia.org/wiki/小田急キハ5000形気動車 "wikilink")
+      - [小田急電鉄](../Page/小田急電鉄.md "wikilink") : [キハ5000形、キハ5100形](../Page/小田急キハ5000形気動車.md "wikilink")
   - DMH17BX
       - 茨城交通 : ケハ402
       - [三井芦別鉄道](https://ja.wikipedia.org/wiki/三井芦別鉄道 "wikilink") : キハ100形
-      - 夕張鉄道 : [キハ300形](https://ja.wikipedia.org/wiki/夕張鉄道キハ300形気動車 "wikilink")
+      - 夕張鉄道 : [キハ300形](../Page/夕張鉄道キハ300形気動車.md "wikilink")
       - [雄別鉄道](https://ja.wikipedia.org/wiki/雄別鉄道 "wikilink") : キハ49200Y形、キハ100形
   - DMH17S
       - 羽後交通 : DC1、DC2
-      - [小名浜臨港鉄道](https://ja.wikipedia.org/wiki/福島臨海鉄道 "wikilink") : DD351
+      - [小名浜臨港鉄道](../Page/福島臨海鉄道.md "wikilink") : DD351
       - 留萠鉄道 : DD201
   - DMH17SB
       - 小名浜臨港鉄道 : DD352、DD353、DD451
@@ -169,8 +169,8 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
       - [岡山臨港鉄道](https://ja.wikipedia.org/wiki/岡山臨港鉄道 "wikilink") : [103](https://ja.wikipedia.org/wiki/岡山臨港鉄道#ディーゼル機関車 "wikilink")
       - 小名浜臨港鉄道 : DD1、DD2、DB253
       - 加越能鉄道 : キハ180形
-      - 関東鉄道 : キハ532形、キハ700形、[キハ0形](https://ja.wikipedia.org/wiki/関東鉄道キハ0形気動車 "wikilink")
-      - 小湊鉄道 : [キハ5800形](https://ja.wikipedia.org/wiki/小湊鉄道キハ5800形気動車 "wikilink")、[キハ200形](https://ja.wikipedia.org/wiki/小湊鉄道キハ200形気動車 "wikilink")
+      - 関東鉄道 : キハ532形、キハ700形、[キハ0形](../Page/関東鉄道キハ0形気動車.md "wikilink")
+      - 小湊鉄道 : [キハ5800形](https://ja.wikipedia.org/wiki/小湊鉄道キハ5800形気動車 "wikilink")、[キハ200形](../Page/小湊鉄道キハ200形気動車.md "wikilink")
       - [上武鉄道](https://ja.wikipedia.org/wiki/上武鉄道 "wikilink") : DB102
       - 島原鉄道 : [キハ26形、キハ55形](https://ja.wikipedia.org/wiki/国鉄キハ55系気動車#島原鉄道キハ26形・キハ55形 "wikilink")
       - 津軽鉄道 : キハ24000形、[DD351](https://ja.wikipedia.org/wiki/津軽鉄道DD350形ディーゼル機関車 "wikilink")
@@ -184,7 +184,7 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
   - DMH17H
       - 関東鉄道 : キハ800形、キハ900形
       - [同和鉱業小坂製錬](https://ja.wikipedia.org/wiki/小坂製錬小坂線 "wikilink") : [キハ2100形](https://ja.wikipedia.org/wiki/同和鉱業キハ2100形気動車 "wikilink")
-      - [名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink") : [キハ8000系](https://ja.wikipedia.org/wiki/名鉄キハ8000系気動車 "wikilink")
+      - [名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink") : [キハ8000系](../Page/名鉄キハ8000系気動車.md "wikilink")
       - [富士急行](../Page/富士急行.md "wikilink") : [キハ58形](https://ja.wikipedia.org/wiki/国鉄キハ58系気動車#富士急行のキハ58系 "wikilink")
 
 ## ギャラリー
@@ -197,10 +197,10 @@ DMH17系エンジンは[1952年](../Page/1952年.md "wikilink")（昭和27年）
 
   - [気動車](../Page/気動車.md "wikilink")
   - [ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")
-  - [日本の気動車史](https://ja.wikipedia.org/wiki/日本の気動車史 "wikilink")
+  - [日本の気動車史](../Page/日本の気動車史.md "wikilink")
 
 [Category:鉄道車両のエンジン](https://ja.wikipedia.org/wiki/Category:鉄道車両のエンジン "wikilink")
 
 1.  もっとも水平シリンダー型のDMH17系機関 (DMH17H) は、これに先立ち、既に[1954年](../Page/1954年.md "wikilink")（昭和29年）時点で振興造機により、[日本車輌製造](../Page/日本車輌製造.md "wikilink")本店が12両を製造した[インド](../Page/インド.md "wikilink")国鉄[1000mm軌間向け液体式気動車用として](https://ja.wikipedia.org/wiki/軌間#軌間の一覧 "wikilink")180ps形が製造されていた記録がある（西尾源太郎『気動車行進曲』[鉄道ピクトリアル](../Page/鉄道ピクトリアル.md "wikilink")50号、1955年9月）。これは該当車両が、723mmという小径[車輪を用いていたことによる低床構造への対処であったと見られる](https://ja.wikipedia.org/wiki/輪軸_\(鉄道車両\) "wikilink")。
 2.  吉田正一（鉄道技術研究所）「過給機付ディーゼル動車試験の概要」（『交通技術』1955年8月号　p13-16）に基づく。
-3.  [山之内秀一郎](https://ja.wikipedia.org/wiki/山之内秀一郎 "wikilink") 『JRはなぜ変われたか』 毎日新聞社、2008年、ISBN 978-4-620-31832-5。
+3.  [山之内秀一郎](../Page/山之内秀一郎.md "wikilink") 『JRはなぜ変われたか』 毎日新聞社、2008年、ISBN 978-4-620-31832-5。

@@ -9,9 +9,9 @@
 
 [2001年](../Page/2001年.md "wikilink")、SCARLET結成。当初は大手レコード会社から声をかけられたが契約には至らなかった。その後は不定期のライブを中心に活動。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")6月2日、ミニ[アルバム](../Page/アルバム.md "wikilink")『scarlet EP』で[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。同年8月25日に1枚目のアルバム『sheepsleep』が、翌年7月には初の[シングル](../Page/シングル.md "wikilink")「summer high」が発表された。
+[2004年](../Page/2004年.md "wikilink")6月2日、ミニ[アルバム](../Page/アルバム.md "wikilink")『scarlet EP』で[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。同年8月25日に1枚目のアルバム『sheepsleep』が、翌年7月には初の[シングル](../Page/シングル.md "wikilink")「summer high」が発表された。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、YAMAHA・CREAGEとの契約が終了。その後は[インディーズ](../Page/インディーズ.md "wikilink")で活動する中、林は[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")のイベントライブ、ツアーのサポートベーシストとなる。ライブ限定で販売された自主制作の「pastel demoシリーズ」は完売。
+[2006年](../Page/2006年.md "wikilink")、YAMAHA・CREAGEとの契約が終了。その後は[インディーズ](../Page/インディーズ.md "wikilink")で活動する中、林は[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")のイベントライブ、ツアーのサポートベーシストとなる。ライブ限定で販売された自主制作の「pastel demoシリーズ」は完売。
 
 [2014年](../Page/2014年.md "wikilink")12月28日、解散を発表した。メンバーの意向によりラストライブは開催されなかった\[1\]。
 
@@ -19,12 +19,12 @@
 
   - **橋本洋介**（はしもと ようすけ、[12月20日](../Page/12月20日.md "wikilink")生）
       -
-        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[東京都](../Page/東京都.md "wikilink")出身。
         [村上春樹](../Page/村上春樹.md "wikilink")を愛読する。自宅では亀を飼っており、愛称は「亀吉」。
   - **[林束紗](https://ja.wikipedia.org/wiki/林束紗 "wikilink")**（はやし たばさ、[4月30日](../Page/4月30日.md "wikilink") 生）
       -
-        ボーカル、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。東京都出身。妹が1人いる\[2\]。
-        [浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")、[清春](https://ja.wikipedia.org/wiki/清春 "wikilink")、[LoVendoЯ](https://ja.wikipedia.org/wiki/LoVendoЯ "wikilink")などのサポートベースとしても活動。
+        ボーカル、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。東京都出身。妹が1人いる\[2\]。
+        [浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")、[清春](../Page/清春.md "wikilink")、[LoVendoЯ](https://ja.wikipedia.org/wiki/LoVendoЯ "wikilink")などのサポートベースとしても活動。
   - **宗村つとむ**（むねむら つとむ、[8月14日](../Page/8月14日.md "wikilink")生）
       -
         [ドラムス担当](../Page/ドラムセット.md "wikilink")。東京都出身。

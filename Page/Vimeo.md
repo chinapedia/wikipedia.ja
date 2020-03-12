@@ -1,9 +1,9 @@
 > この記事は[Vimeo](https://ja.wikipedia.org/wiki/Vimeo)から翻訳されています。
 
 
-**Vimeo**（ヴィメオ、）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[11月](../Page/11月.md "wikilink")に開始したクリエイター向け[動画共有サイト](https://ja.wikipedia.org/wiki/動画共有サイト "wikilink")。「video」（ビデオ）と「me」（私）の意味と、「movie」（*映画）*という言葉のアナグラムである。
+**Vimeo**（ヴィメオ、）は、[2004年](../Page/2004年.md "wikilink")[11月](../Page/11月.md "wikilink")に開始したクリエイター向け[動画共有サイト](https://ja.wikipedia.org/wiki/動画共有サイト "wikilink")。「video」（ビデオ）と「me」（私）の意味と、「movie」（*映画）*という言葉のアナグラムである。
 
-メディア・インターネット会社の[IAC](https://ja.wikipedia.org/wiki/:en:IAC_\(company\) "wikilink")/InterActiveCorpの子会社となっており、本社を[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")にある[IACビル](https://ja.wikipedia.org/wiki/IACビル "wikilink")に置く。
+メディア・インターネット会社の[IAC](https://ja.wikipedia.org/wiki/:en:IAC_\(company\) "wikilink")/InterActiveCorpの子会社となっており、本社を[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニューヨーク](../Page/ニューヨーク.md "wikilink")にある[IACビル](https://ja.wikipedia.org/wiki/IACビル "wikilink")に置く。
 
 ## 歴史
 
@@ -35,11 +35,11 @@ Vimeoは2004年11月に、[ジェイコブ・ロドウィック](https://ja.wiki
 
 ## 内容
 
-Vimeo には、プロからアマチュアまでの[パフォーマンスアート](https://ja.wikipedia.org/wiki/パフォーマンスアート "wikilink")集団、[インディーズ映画監督](https://ja.wikipedia.org/wiki/自主映画 "wikilink")、[映像作家](https://ja.wikipedia.org/wiki/映像作家 "wikilink")、[写真家](../Page/写真家.md "wikilink")、[デザイナー](../Page/デザイナー.md "wikilink")、[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")、[コメディアン](../Page/コメディアン.md "wikilink")、[芸術家](../Page/芸術家.md "wikilink")などがメンバーとして多数アカウントを持っている。たとえば、ニューヨークを拠点に街中で大人数の即興パフォーマンスを仕掛ける集団「Improv Everywhere」（インプロヴ・エヴリウェア）\[13\]が新たな作品を発表する際、同集団のサーバーにアクセスが殺到するのを避けるために長い間Vimeoを利用してきた（2008年以後は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に移っている）。写真家[ノア・カリーナ](https://ja.wikipedia.org/wiki/ノア・カリナ "wikilink")（Noah Kalina）が学生時代から毎日撮ってきた自分の顔写真をつないだ映像「everyday」はネットや全米の新聞で話題になったが、これももとはVimeoに投稿された\[14\]。コメディアン・俳優のクリステン・シャール（Kristen Schaal）やレジー・ワッツ（Reggie Watts）も自分の映像をアップロードし、自らのプロモーションにも活用している。同じく IAC/InterActiveCorp 社の子会社となっているコメディー映像投稿サイト、CollegeHumor の人気シリーズ映像である「Jake and Amir」もVimeo出身である。
+Vimeo には、プロからアマチュアまでの[パフォーマンスアート](../Page/パフォーマンスアート.md "wikilink")集団、[インディーズ映画監督](../Page/自主映画.md "wikilink")、[映像作家](../Page/映像作家.md "wikilink")、[写真家](../Page/写真家.md "wikilink")、[デザイナー](../Page/デザイナー.md "wikilink")、[アニメーター](../Page/アニメーター.md "wikilink")、[コメディアン](../Page/コメディアン.md "wikilink")、[芸術家](../Page/芸術家.md "wikilink")などがメンバーとして多数アカウントを持っている。たとえば、ニューヨークを拠点に街中で大人数の即興パフォーマンスを仕掛ける集団「Improv Everywhere」（インプロヴ・エヴリウェア）\[13\]が新たな作品を発表する際、同集団のサーバーにアクセスが殺到するのを避けるために長い間Vimeoを利用してきた（2008年以後は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に移っている）。写真家[ノア・カリーナ](../Page/ノア・カリナ.md "wikilink")（Noah Kalina）が学生時代から毎日撮ってきた自分の顔写真をつないだ映像「everyday」はネットや全米の新聞で話題になったが、これももとはVimeoに投稿された\[14\]。コメディアン・俳優のクリステン・シャール（Kristen Schaal）やレジー・ワッツ（Reggie Watts）も自分の映像をアップロードし、自らのプロモーションにも活用している。同じく IAC/InterActiveCorp 社の子会社となっているコメディー映像投稿サイト、CollegeHumor の人気シリーズ映像である「Jake and Amir」もVimeo出身である。
 
-[ブリトニー・スピアーズ](https://ja.wikipedia.org/wiki/ブリトニー・スピアーズ "wikilink")、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")、[ナイン・インチ・ネイルズ](https://ja.wikipedia.org/wiki/ナイン・インチ・ネイルズ "wikilink")、[モービー](https://ja.wikipedia.org/wiki/モービー "wikilink")、[ベック](https://ja.wikipedia.org/wiki/ベック_\(歌手\) "wikilink")、[プラシーボ](https://ja.wikipedia.org/wiki/プラシーボ_\(バンド\) "wikilink")、[リッケ・リー](https://ja.wikipedia.org/wiki/リッケ・リー "wikilink")（Lykke Li）、[ロイクソップ](https://ja.wikipedia.org/wiki/ロイクソップ "wikilink")、[デヴィン・ザ・デュード](https://ja.wikipedia.org/wiki/デヴィン・ザ・デュード "wikilink")（Devin the Dude）といったミュージシャンもアカウントを持ち、自分たちの新しい[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の発表に使用している。また[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")米大統領も、高精細の動画をVimeoにアップロードしている。
+[ブリトニー・スピアーズ](../Page/ブリトニー・スピアーズ.md "wikilink")、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[モービー](../Page/モービー.md "wikilink")、[ベック](../Page/ベック_\(歌手\).md "wikilink")、[プラシーボ](../Page/プラシーボ_\(バンド\).md "wikilink")、[リッケ・リー](https://ja.wikipedia.org/wiki/リッケ・リー "wikilink")（Lykke Li）、[ロイクソップ](https://ja.wikipedia.org/wiki/ロイクソップ "wikilink")、[デヴィン・ザ・デュード](https://ja.wikipedia.org/wiki/デヴィン・ザ・デュード "wikilink")（Devin the Dude）といったミュージシャンもアカウントを持ち、自分たちの新しい[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の発表に使用している。また[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")米大統領も、高精細の動画をVimeoにアップロードしている。
 
-2010年10月にはニューヨーク市[チェルシー地区の映画館で](https://ja.wikipedia.org/wiki/チェルシー_\(ニューヨーク\) "wikilink")、Vimeoに投稿される動画による[フィルムフェスティバルを開催し](../Page/映画祭.md "wikilink")、シンポジウムや「Vimeo Awards」の授賞式を行っている\[15\]\[16\]。
+2010年10月にはニューヨーク市[チェルシー地区の映画館で](../Page/チェルシー_\(ニューヨーク\).md "wikilink")、Vimeoに投稿される動画による[フィルムフェスティバルを開催し](../Page/映画祭.md "wikilink")、シンポジウムや「Vimeo Awards」の授賞式を行っている\[15\]\[16\]。
 
 ## 動画
 
@@ -47,7 +47,7 @@ Vimeoは商業作品の転載、ゲームのプレイ動画\[17\]、ポルノ映
 
 ### 映像の画質
 
-2007年10月17日、Vimeo は、有効画素数1280x720/フレーム （720p）の高精細（HD）動画の受け入れを開始し、一般向け[動画共有サイト](https://ja.wikipedia.org/wiki/動画共有サイト "wikilink")で初めてHDをサポートするサイトになった。当時は、HDでアップロードされた動画は、720/24p [VP6](https://ja.wikipedia.org/wiki/VP6 "wikilink") [Flash Video](https://ja.wikipedia.org/wiki/Flash_Video "wikilink") に変換されていた。2008年3月、Vimeo はHDサービスのアップグレードを行い、30 frame/s（1秒30フレーム）までの動画をサポートすると発表したが、いくつかのプラットフォームではAdobe Flash playerがこうしたHD動画を完全に再生できず、多くのユーザーが不便を訴えたため、1カ月でもとの24 frame/s へと戻している。
+2007年10月17日、Vimeo は、有効画素数1280x720/フレーム （720p）の高精細（HD）動画の受け入れを開始し、一般向け[動画共有サイト](https://ja.wikipedia.org/wiki/動画共有サイト "wikilink")で初めてHDをサポートするサイトになった。当時は、HDでアップロードされた動画は、720/24p [VP6](../Page/VP6.md "wikilink") [Flash Video](../Page/Flash_Video.md "wikilink") に変換されていた。2008年3月、Vimeo はHDサービスのアップグレードを行い、30 frame/s（1秒30フレーム）までの動画をサポートすると発表したが、いくつかのプラットフォームではAdobe Flash playerがこうしたHD動画を完全に再生できず、多くのユーザーが不便を訴えたため、1カ月でもとの24 frame/s へと戻している。
 
 HDでない動画は最大30 frame/sでエンコードされ、競合する動画共有サービスに比べて非常に高いビットレートを実現している。有料ユーザーでないユーザーは週に500MBまでの動画、および週に1本までのHD動画をアップロードできる（1週間以内にHD動画をさらにアップロードした場合、強制的にSDにエンコードされる）。
 
@@ -117,7 +117,7 @@ Vimeo Plusプランに、Mevoアプリを通してのみにライブ配信制限
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")、Vimeo は[ゲームのプレイ動画をもはや受け容れないと発表した](../Page/コンピュータゲーム.md "wikilink")。コミュニティ・ディレクターのブレイク・ホイットマン（Blake Whitman）は「ゲーム動画は、Vimeoにある他のジャンルの動画に比べて、長時間でサイズも大きくなるという性質をもともと持っている。過去数カ月、トランスコードの待ち時間が長くなっていた最大かつ唯一の理由はゲーム動画である」と述べている\[39\]。
 
-それまでにアップロードされていたゲーム動画は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")に削除され、以後の新規アップロードはこの規定で投稿できない。ただし、ゲーム動画やゲームエンジンを利用して作った、独自のストーリーをもつ[マシニマ](https://ja.wikipedia.org/wiki/マシニマ "wikilink")動画は、この限りではなく、削除もされていない\[40\]。
+それまでにアップロードされていたゲーム動画は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")に削除され、以後の新規アップロードはこの規定で投稿できない。ただし、ゲーム動画やゲームエンジンを利用して作った、独自のストーリーをもつ[マシニマ](../Page/マシニマ.md "wikilink")動画は、この限りではなく、削除もされていない\[40\]。
 
 ## 検閲
 
@@ -128,7 +128,7 @@ Vimeoは[中華人民共和国](../Page/中華人民共和国.md "wikilink")、[
 ## 関連項目
 
   - [Google Cloud Platform](https://ja.wikipedia.org/wiki/Google_Cloud_Platform "wikilink")
-  - [アカマイ・テクノロジーズ](https://ja.wikipedia.org/wiki/アカマイ・テクノロジーズ "wikilink")
+  - [アカマイ・テクノロジーズ](../Page/アカマイ・テクノロジーズ.md "wikilink")
 
 ## 外部リンク
 

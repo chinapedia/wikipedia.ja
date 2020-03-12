@@ -1,16 +1,16 @@
 > この記事は[G-FIVE](https://ja.wikipedia.org/wiki/G-FIVE)から翻訳されています。
 
 
-**超速戦士G-FIVE**（**ちょうそくせんしジーファイブ**）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を中心に活躍している[ローカルヒーロー](https://ja.wikipedia.org/wiki/ローカルヒーロー "wikilink")。
+**超速戦士G-FIVE**（**ちょうそくせんしジーファイブ**）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を中心に活躍している[ローカルヒーロー](../Page/ローカルヒーロー.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")より、[群馬テレビ](../Page/群馬テレビ.md "wikilink")制作の[特撮](../Page/特撮.md "wikilink")テレビドラマ作品となった。
+[2006年](../Page/2006年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")より、[群馬テレビ](../Page/群馬テレビ.md "wikilink")制作の[特撮](../Page/特撮.md "wikilink")テレビドラマ作品となった。
 
 ## 概要
 
-  - 群馬県の環境の維持発展のために、活動している[ローカルヒーロー](https://ja.wikipedia.org/wiki/ローカルヒーロー "wikilink")である。数多くのイベントにも参加し、群馬県内の幼稚園・保育園、イベント会場などで活動している。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[桐生市](https://ja.wikipedia.org/wiki/桐生市 "wikilink")の商店街がその活動に共感し、商店街をG-FIVEロードと改名した。
+  - 群馬県の環境の維持発展のために、活動している[ローカルヒーロー](../Page/ローカルヒーロー.md "wikilink")である。数多くのイベントにも参加し、群馬県内の幼稚園・保育園、イベント会場などで活動している。
+  - [2007年](../Page/2007年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[桐生市](../Page/桐生市.md "wikilink")の商店街がその活動に共感し、商店街をG-FIVEロードと改名した。
   - エグゼクティブプロデューサー兼音楽を担当した砂長弘人の発案によって群馬県で初めてのローカルヒーロードラマを13ヶ月間、群馬テレビで放送。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")より群馬観光特使に任命される。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")より群馬観光特使に任命される。
   - 群馬県警察・群馬県防犯協会より、「安全安心なまちづくり特別広報員」を拝命
   - 群馬県薬務課より、「薬物乱用防止 特命エージェンシー」を拝命
   - 群馬県廃棄物リサイクル課より、「特命産廃Gメン」を拝命
@@ -40,10 +40,10 @@
       - [赤城山](../Page/赤城山.md "wikilink")で誕生した鳥が変身した姿。勇気と正義感を前面に出し、シャープな動きを心がけて表現している。
       - キャッチコピーは「義理人情に厚い 正義の戦士」。
   - ハルナブルー
-      - [榛名山](https://ja.wikipedia.org/wiki/榛名山 "wikilink")で誕生した鳥が変身した姿。力強さとガッツある行動、でも有り余った元気を出し過ぎて、おっちょこちょいな面も。
+      - [榛名山](../Page/榛名山.md "wikilink")で誕生した鳥が変身した姿。力強さとガッツある行動、でも有り余った元気を出し過ぎて、おっちょこちょいな面も。
       - キャッチコピーは「閃光輝く稲妻のパワーを持つ 力の戦士」。
   - ミョウギイエロー
-      - [妙義山](https://ja.wikipedia.org/wiki/妙義山 "wikilink")で誕生した鳥が変身した姿。普段は優しいが怒らせると怖い。また男性を心と行動で支える群馬の女性を表現している。
+      - [妙義山](../Page/妙義山.md "wikilink")で誕生した鳥が変身した姿。普段は優しいが怒らせると怖い。また男性を心と行動で支える群馬の女性を表現している。
       - キャッチコピーは「かかあ天下の度胸と優しい心を持つ 愛の戦士」。
   - 上州源龍
       - 群馬県の源流をイメージし、水鳥が変身した姿。余分な動きをせず冷静な判断と行動を表現している。
@@ -54,7 +54,7 @@
 
 ### その他
 
-  - 鶴野つばさ（[綾川ゆんまお](https://ja.wikipedia.org/wiki/綾川ゆんまお "wikilink")）
+  - 鶴野つばさ（[綾川ゆんまお](../Page/綾川ゆんまお.md "wikilink")）
   - 悪のボス（越康広）
   - ニュースキャスター（佐藤功介）
   - ダイヤ（NATSU）
@@ -84,7 +84,7 @@
 
 ### 声優
 
-  - アカギレッド：[佐山裕亮](https://ja.wikipedia.org/wiki/佐山裕亮 "wikilink")
+  - アカギレッド：[佐山裕亮](../Page/佐山裕亮.md "wikilink")
   - ハルナブルー：今井浩之→古木峡也
   - ミョウギイエロー：河井尚子→紫木あかり
   - 上州源龍：中原一樹
@@ -95,7 +95,7 @@
 
 ## 特撮テレビドラマ
 
-[群馬テレビ](../Page/群馬テレビ.md "wikilink")で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")まで、毎週土曜日の18:40 - 18:50（JST、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは18:45 - 18:55、第2週以降は第1週放送分の再放送）に放送していた。全13話。
+[群馬テレビ](../Page/群馬テレビ.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")まで、毎週土曜日の18:40 - 18:50（JST、[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは18:45 - 18:55、第2週以降は第1週放送分の再放送）に放送していた。全13話。
 
 ## スタッフ
 
@@ -103,7 +103,7 @@
   - プロデューサー：井上毅
   - 監督：木川淳一（1話のみ）、野口広光(2話～)
   - 脚本：木川淳一（1話のみ）、原田光規(2話～)、野口広光（9話～）
-  - アクション監督：木川淳一（1話のみ）、[清水一哉](https://ja.wikipedia.org/wiki/清水一哉 "wikilink")(2～8話)
+  - アクション監督：木川淳一（1話のみ）、[清水一哉](../Page/清水一哉.md "wikilink")(2～8話)
   - 殺陣師：[岡和輝](https://ja.wikipedia.org/wiki/岡和輝 "wikilink")(10話～)
   - 撮影・編集：野口広光
   - ヘアメイク：松井久美

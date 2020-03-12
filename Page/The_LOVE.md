@@ -1,7 +1,7 @@
 > この記事は[The LOVE](https://ja.wikipedia.org/wiki/The_LOVE)から翻訳されています。
 
 
-**The LOVE**（ザ・ラヴ）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[博多](../Page/博多.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**The LOVE**（ザ・ラヴ）は、[福岡県](../Page/福岡県.md "wikilink")[博多](../Page/博多.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## メンバー
 
@@ -11,14 +11,14 @@
 
 ## 略歴
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")、[博多](../Page/博多.md "wikilink")にて結成。
+  - [1992年](../Page/1992年.md "wikilink")、[博多](../Page/博多.md "wikilink")にて結成。
   - [1994年](../Page/1994年.md "wikilink")、「[ヤマハ・ミュージック・クエスト](../Page/ヤマハ・ミュージック・クエスト.md "wikilink")」第3回日本大会レコードメーカー協賛社賞受賞。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、「ヤマハ・ミュージック・クエスト」第4回日本大会優秀賞受賞。
   - [1996年](../Page/1996年.md "wikilink")、CX系「[P-STOCK](https://ja.wikipedia.org/wiki/P-STOCK "wikilink")」にて2nd stockに選ばれ、[DIVER'S Labelより](https://ja.wikipedia.org/wiki/DIVER'S_Label "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")デビュー。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[RCAアリオラジャパンよりメジャーデビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
   - [2001年](../Page/2001年.md "wikilink")、インディーズで活動開始。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、[BMG JAPANより再デビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、再びインディーズで活動を開始。
+  - [2004年](../Page/2004年.md "wikilink")、[BMG JAPANより再デビュー](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")、再びインディーズで活動を開始。
   - [2009年](../Page/2009年.md "wikilink")、活動休止、平がソロデビュー。
   - [2011年](../Page/2011年.md "wikilink")、「別冊UTA-KAI vol.44」で活動を再開。
 

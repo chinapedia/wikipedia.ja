@@ -1,9 +1,9 @@
 > この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
 
 
-**大集合NEO**（だいしゅうごうねお）とは、株式会社[オープンドア](https://ja.wikipedia.org/wiki/オープンドア "wikilink")が運営する[携帯電話](../Page/携帯電話.md "wikilink")向けの[ゲーム](../Page/ゲーム.md "wikilink")サイト兼[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")。
+**大集合NEO**（だいしゅうごうねお）とは、株式会社[オープンドア](https://ja.wikipedia.org/wiki/オープンドア "wikilink")が運営する[携帯電話](../Page/携帯電話.md "wikilink")向けの[ゲーム](../Page/ゲーム.md "wikilink")サイト兼[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月にサービスを開始した。2012年の会員数は240万人以上。 2015年3月18日にサービスを終了。
+[2006年](../Page/2006年.md "wikilink")8月にサービスを開始した。2012年の会員数は240万人以上。 2015年3月18日にサービスを終了。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ## 対応機種
 
-[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（[FOMA](../Page/FOMA.md "wikilink")70x･90xシリーズ）、[au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")(WIN機種※W21H･W11K･W11Hを除く)、[SoftBank](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")(FLASH対応機種)
+[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（[FOMA](../Page/FOMA.md "wikilink")70x･90xシリーズ）、[au](../Page/Au_\(携帯電話\).md "wikilink")(WIN機種※W21H･W11K･W11Hを除く)、[SoftBank](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")(FLASH対応機種)
 
   -
     ※ゲームによっては非対応の場合もある。

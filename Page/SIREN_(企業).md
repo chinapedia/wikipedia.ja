@@ -5,7 +5,7 @@
 
 ## 概要
 
-2004年12月設立した会社で、かつて[Rioに在籍していたメンバーが中心となって設立した会社である](https://ja.wikipedia.org/wiki/Rio_\(オーディオ\) "wikilink")。設立当初は、GoVideo社のRave-MPシリーズやiloのMP3プレイヤーの開発、製造を行っていたが、2006年、自社ブランドで展開するようになった。日本では、2006年6月にA-MAX Technology Japan社の[SIGNEO](https://ja.wikipedia.org/wiki/SIGNEO "wikilink")ブランドの後釜として設立された。このため、本国の製品は殆ど発売されていない。2007年5月25日には[iriver japanに営業権を譲渡し日本法人は解散となった](../Page/アイリバー.md "wikilink")。
+2004年12月設立した会社で、かつて[Rioに在籍していたメンバーが中心となって設立した会社である](../Page/Rio_\(オーディオ\).md "wikilink")。設立当初は、GoVideo社のRave-MPシリーズやiloのMP3プレイヤーの開発、製造を行っていたが、2006年、自社ブランドで展開するようになった。日本では、2006年6月にA-MAX Technology Japan社の[SIGNEO](../Page/SIGNEO.md "wikilink")ブランドの後釜として設立された。このため、本国の製品は殆ど発売されていない。2007年5月25日には[iriver japanに営業権を譲渡し日本法人は解散となった](../Page/アイリバー.md "wikilink")。
 
 ## 日本での主な製品一覧
 
@@ -50,8 +50,8 @@
 
 ## 関連項目
 
-  - [Rio](https://ja.wikipedia.org/wiki/Rio_\(オーディオ\) "wikilink")
-  - [SIGNEO](https://ja.wikipedia.org/wiki/SIGNEO "wikilink")
+  - [Rio](../Page/Rio_\(オーディオ\).md "wikilink")
+  - [SIGNEO](../Page/SIGNEO.md "wikilink")
   - [iriver](../Page/アイリバー.md "wikilink")
 
 ## 外部リンク

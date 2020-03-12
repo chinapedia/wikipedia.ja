@@ -1,7 +1,7 @@
 > この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
 
 
-**メイ** (MAY) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")」に登場する架空の人物。担当声優は[こおろぎさとみ](https://ja.wikipedia.org/wiki/こおろぎさとみ "wikilink")。
+**メイ** (MAY) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。担当声優は[こおろぎさとみ](../Page/こおろぎさとみ.md "wikilink")。
 
 ## 概要
 
@@ -9,9 +9,9 @@
 
 <!-- end list -->
 
-  - ギアによって滅びたといわれる[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の数少ない生き残りの少女であり、[ジョニーに拾われてから](../Page/ジョニー_\(GUILTY_GEAR\).md "wikilink")[空賊](https://ja.wikipedia.org/wiki/空賊 "wikilink")「ジェリーフィッシュ快賊団」の一員となる。快賊団のリーダーであるジョニーの事を考えると目の前が見えなくなり、「ジョニーと全人類を天秤にかけてもジョニーの方が重い」というほどの恋愛暴走娘。
+  - ギアによって滅びたといわれる[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の数少ない生き残りの少女であり、[ジョニーに拾われてから](../Page/ジョニー_\(GUILTY_GEAR\).md "wikilink")[空賊](../Page/空賊.md "wikilink")「ジェリーフィッシュ快賊団」の一員となる。快賊団のリーダーであるジョニーの事を考えると目の前が見えなくなり、「ジョニーと全人類を天秤にかけてもジョニーの方が重い」というほどの恋愛暴走娘。
   - 性格は明朗快活。幼い容姿と立ち振る舞いだが、精神的にはしっかりしている。新たに快賊団に入団した[ディズィー](../Page/ディズィー.md "wikilink")を妹分のように可愛がるなど、面倒見が良い面も見せる。
-  - 見た目によらず、[錨](https://ja.wikipedia.org/wiki/錨 "wikilink")を軽々と持ち上げるほどの怪力である。また日本人の中でも特に重要な存在らしく、GGXXのストーリーモードでは驚異的な力の片鱗を覗かせている。
+  - 見た目によらず、[錨](../Page/錨.md "wikilink")を軽々と持ち上げるほどの怪力である。また日本人の中でも特に重要な存在らしく、GGXXのストーリーモードでは驚異的な力の片鱗を覗かせている。
   - 服装は海賊帽を身に着け、シリーズを通してオレンジと黒を基調としたノースリーブのデザイン。『Xrd』では、ノースリーブが[ヘソ出し](https://ja.wikipedia.org/wiki/ヘソ出し "wikilink")になり、これまで履いていた黒タイツが7分丈のズボンへ変更されるなどのマイナーチェンジが施された。
   - 「はげ」が嫌いで、見えなくても近くにあるだけで寒気がするらしい（ファウストなど）。
   - 年齢不詳だが本人は知っているらしく『Xrd』で[チップに教えて驚かれている](../Page/チップ・ザナフ.md "wikilink")。
@@ -120,7 +120,7 @@ GOLDモードでは「拍手で迎えてください」が常時MAXの2倍値と
   - ;デラックス五所川原ボンバー
 
       -
-        傷だらけの[鯱](https://ja.wikipedia.org/wiki/鯱 "wikilink")「五所川原さん」を召喚して突撃させる技。
+        傷だらけの[鯱](../Page/鯱.md "wikilink")「五所川原さん」を召喚して突撃させる技。
 
   - グレート山田アタック \[GGX\~\]
     自分の背後側の画面端からピンクの[クジラ](../Page/クジラ.md "wikilink")「山田さん」を召喚してぶつける技。
@@ -158,7 +158,7 @@ GOLDモードでは「拍手で迎えてください」が常時MAXの2倍値と
   - ミストファイナーなどの必殺技はジョニーの見よう見まね。放つ際「ジョニー直伝」と叫ぶが、ジョニーは教えたつもりはない。
   - ステージ背景の快賊団のメンバーの外見はモチーフがある作品が多く、『GGXX』～『＃RELOAD』では「[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")」、『ΛCORE』では『[涼宮ハルヒの憂鬱](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱 "wikilink")』、『Λ CORE PLUS R』では『[魔法少女まどか☆マギカ](https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカ "wikilink")』の女性キャラクター達となっている。
   - メイが勝利した後に登場する団員は親友のエイプリル。他の団員も一撃必殺時に続々と登場している。シリーズに共通して一撃必殺技を締める巨体の女性は料理長のリープであったが、『Xrd』から別の一撃必殺に変更された。
-  - 『GGXX\#R』([PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink"))のオマケ特典映像の中で、字幕はあるが唯一日本語で喋っている事が確認できる（他の登場キャラクターは全員字幕で英語になっている）。
+  - 『GGXX\#R』([PSP](../Page/PlayStation_Portable.md "wikilink"))のオマケ特典映像の中で、字幕はあるが唯一日本語で喋っている事が確認できる（他の登場キャラクターは全員字幕で英語になっている）。
   - 技の一つである「MU・RO・HU・SHI」の元ネタは、ハンマー投げ元日本代表の「[室伏広治](../Page/室伏広治.md "wikilink")」である。
 
 ## 参考資料
@@ -168,8 +168,8 @@ GOLDモードでは「拍手で迎えてください」が常時MAXの2倍値と
 
 ## 関連項目
 
-  - [GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[FINAL FANTASY XITHE OUT OF ORDERS](https://ja.wikipedia.org/wiki/FINAL_FANTASY_XITHE_OUT_OF_ORDERS)から翻訳されています。
 
 
-『**FINAL FANTASY XI〜THE OUT OF ORDERS〜**』（ファイナルファンタジーイレブン〜ジ アウトオブオーダーズ〜）は、[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")による日本国産の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")（[MMORPG](../Page/MMORPG.md "wikilink")）：『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")（以下『FFXI』）』 を原作とした漫画作品である。作画はキム・ビョンジン、原作はキム・ソンジェ。スクウェア・エニックス発行の[青年漫画](../Page/青年漫画.md "wikilink")[雑誌](../Page/雑誌.md "wikilink") 『[ヤングガンガン](https://ja.wikipedia.org/wiki/ヤングガンガン "wikilink")（以下『YG』）』 の創刊号（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")発売）より看板作品と銘打たれて連載を開始したが、その後わずか3回で連載を中止した。
+『**FINAL FANTASY XI〜THE OUT OF ORDERS〜**』（ファイナルファンタジーイレブン〜ジ アウトオブオーダーズ〜）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")による日本国産の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")（[MMORPG](../Page/MMORPG.md "wikilink")）：『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")（以下『FFXI』）』 を原作とした漫画作品である。作画はキム・ビョンジン、原作はキム・ソンジェ。スクウェア・エニックス発行の[青年漫画](../Page/青年漫画.md "wikilink")[雑誌](../Page/雑誌.md "wikilink") 『[ヤングガンガン](../Page/ヤングガンガン.md "wikilink")（以下『YG』）』 の創刊号（[2004年](../Page/2004年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")発売）より看板作品と銘打たれて連載を開始したが、その後わずか3回で連載を中止した。
 
 作者名からわかるように[韓国人](https://ja.wikipedia.org/wiki/韓国人 "wikilink")作家を起用しているのだが、その[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")では当時 『FFXI』 の正式サービス自体が開始されておらず、YG創刊前の告知の際にも作者自身が執筆に当たり 「世界観を把握するのに奮闘中」 といったコメントを残している。
 

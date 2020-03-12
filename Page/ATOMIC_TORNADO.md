@@ -9,7 +9,7 @@
 
 ### 現在のメンバー
 
-  - 大舘義直 (おおだち よしなお, 5月10日, A型, [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身) - リードギター
+  - 大舘義直 (おおだち よしなお, 5月10日, A型, [埼玉県](../Page/埼玉県.md "wikilink")出身) - リードギター
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - 大舘寛幸 (おおだち ひろゆき, 10月16日, A型, [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身) - ベース
+  - 大舘寛幸 (おおだち ひろゆき, 10月16日, A型, [埼玉県](../Page/埼玉県.md "wikilink")出身) - ベース
 
 <!-- end list -->
 
@@ -27,12 +27,12 @@
 
 <!-- end list -->
 
-  - 大内優 (おおうち ゆう, 12月3日, B型, [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身) - ドラム
+  - 大内優 (おおうち ゆう, 12月3日, B型, [大阪府](../Page/大阪府.md "wikilink")出身) - ドラム
 
 <!-- end list -->
 
   -
-    愛称はChaly（ちゃり）。中学、高校時代は大阪代表の体操選手。本人曰く「ドラムアスリートを目指す」。 ドラムセットはYAMAHA、スティック・シンバルは[ジルジャン](https://ja.wikipedia.org/wiki/ジルジャン "wikilink")を使用。
+    愛称はChaly（ちゃり）。中学、高校時代は大阪代表の体操選手。本人曰く「ドラムアスリートを目指す」。 ドラムセットはYAMAHA、スティック・シンバルは[ジルジャン](../Page/ジルジャン.md "wikilink")を使用。
 
 <!-- end list -->
 
@@ -41,11 +41,11 @@
 <!-- end list -->
 
   -
-    [ランディ・ローズ](https://ja.wikipedia.org/wiki/ランディ・ローズ "wikilink")、[ザック・ワイルド](https://ja.wikipedia.org/wiki/ザック・ワイルド "wikilink")に影響されており、正統的で情熱に溢れるプレイが得意。MI JAPAN TOKYO GIT-DXインストラクターでもある。使用ギターは[ナビゲーターN](https://ja.wikipedia.org/wiki/イーエスピー "wikilink")[LP](https://ja.wikipedia.org/wiki/レスポール "wikilink")-380LTD（[ピックアップはフロント](https://ja.wikipedia.org/wiki/ピックアップ_\(楽器\) "wikilink")：[セイモア・ダンカン](https://ja.wikipedia.org/wiki/セイモア・ダンカン "wikilink")SH-2、リア：SH-4）。
+    [ランディ・ローズ](../Page/ランディ・ローズ.md "wikilink")、[ザック・ワイルド](../Page/ザック・ワイルド.md "wikilink")に影響されており、正統的で情熱に溢れるプレイが得意。MI JAPAN TOKYO GIT-DXインストラクターでもある。使用ギターは[ナビゲーターN](../Page/イーエスピー.md "wikilink")[LP](https://ja.wikipedia.org/wiki/レスポール "wikilink")-380LTD（[ピックアップはフロント](../Page/ピックアップ_\(楽器\).md "wikilink")：[セイモア・ダンカン](../Page/セイモア・ダンカン.md "wikilink")SH-2、リア：SH-4）。
 
 ### 過去のメンバー
 
-  - 土屋陽輔 (つちや ようすけ, 9月27日, B型, [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身) - ボーカル
+  - 土屋陽輔 (つちや ようすけ, 9月27日, B型, [茨城県](../Page/茨城県.md "wikilink")出身) - ボーカル
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 ## 関連項目
 
-  - [New Space Order](https://ja.wikipedia.org/wiki/New_Space_Order "wikilink") - 陽輔、優也が[FLASHノベルに楽曲を提供](../Page/Adobe_Flash.md "wikilink")。
+  - [New Space Order](../Page/New_Space_Order.md "wikilink") - 陽輔、優也が[FLASHノベルに楽曲を提供](../Page/Adobe_Flash.md "wikilink")。
 
 ## 外部リンク
 

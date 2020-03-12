@@ -1,13 +1,13 @@
 > この記事は[i](https://ja.wikipedia.org/wiki/i)から翻訳されています。
 
 
-**魔法のiらんど文庫**（まほうのあいらんどぶんこ）は、[携帯電話](../Page/携帯電話.md "wikilink")向け無料[ウェブサイト](../Page/ウェブサイト.md "wikilink")提供スペース・[魔法のiらんど](https://ja.wikipedia.org/wiki/魔法のiらんど "wikilink")に投稿された[ケータイ小説](https://ja.wikipedia.org/wiki/ケータイ小説 "wikilink")の中で特に人気が高い作品を再録・出版していた[文庫本](../Page/文庫本.md "wikilink")レーベル。後年は書下ろし作品を出版することも増えた。[2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")創刊。
+**魔法のiらんど文庫**（まほうのあいらんどぶんこ）は、[携帯電話](../Page/携帯電話.md "wikilink")向け無料[ウェブサイト](../Page/ウェブサイト.md "wikilink")提供スペース・[魔法のiらんど](../Page/魔法のiらんど.md "wikilink")に投稿された[ケータイ小説](../Page/ケータイ小説.md "wikilink")の中で特に人気が高い作品を再録・出版していた[文庫本](../Page/文庫本.md "wikilink")レーベル。後年は書下ろし作品を出版することも増えた。[2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")創刊。
 
 刊行当初は特殊紙をカバーに使用していた。また、カバーデザインは2010年代初期から中期にかけて変更されている。
 
 創刊当初から休刊まで魔法のiらんど単行本という単行本サブレーベルも存在した。
 
-発行は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")であるが、同社のレーベル・[電撃文庫](../Page/電撃文庫.md "wikilink")と直接の関連性はなく、装丁や[ハードカバー](https://ja.wikipedia.org/wiki/ハードカバー "wikilink")版を並行して刊行する販売方式に見られるように、[ライトノベル](../Page/ライトノベル.md "wikilink")よりは一般文芸に近い位置付けが為されている（ただし、[電撃文庫](../Page/電撃文庫.md "wikilink")でも『[図書館戦争](https://ja.wikipedia.org/wiki/図書館戦争 "wikilink")』などのハードカバー版の発売は存在している）。
+発行は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")であるが、同社のレーベル・[電撃文庫](../Page/電撃文庫.md "wikilink")と直接の関連性はなく、装丁や[ハードカバー](https://ja.wikipedia.org/wiki/ハードカバー "wikilink")版を並行して刊行する販売方式に見られるように、[ライトノベル](../Page/ライトノベル.md "wikilink")よりは一般文芸に近い位置付けが為されている（ただし、[電撃文庫](../Page/電撃文庫.md "wikilink")でも『[図書館戦争](../Page/図書館戦争.md "wikilink")』などのハードカバー版の発売は存在している）。
 
 [2018年](../Page/2018年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")以後、刊行されていない。
 
@@ -72,7 +72,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/そして世界は全て変わる" title="wikilink">そして世界は全て変わる</a></p></td>
 <td><p>2011年8月</p></td>
 <td><p>表紙モデル:<a href="https://ja.wikipedia.org/wiki/鈴木勝大_(俳優)" title="wikilink">鈴木勝大</a><br />
-　　　　　　　<a href="https://ja.wikipedia.org/wiki/伊藤梨沙子" title="wikilink">伊藤梨沙子</a></p></td>
+　　　　　　　<a href="../Page/伊藤梨沙子.md" title="wikilink">伊藤梨沙子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>稲森遙香</p></td>
@@ -159,7 +159,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Saori" title="wikilink">Saori</a></p></td>
+<td><p><a href="../Page/Saori.md" title="wikilink">Saori</a></p></td>
 <td><p>翡翠と天青の物語</p></td>
 <td><p>2007年10月</p></td>
 <td><p>-</p></td>
@@ -204,7 +204,7 @@
 <td><p>白川愛理</p></td>
 <td><p>イケない課外授業</p></td>
 <td><p>2012年11月</p></td>
-<td><p>表紙挿画：<a href="https://ja.wikipedia.org/wiki/ひのもとめぐ" title="wikilink">ひのもとめぐ</a>る</p></td>
+<td><p>表紙挿画：<a href="../Page/ひのもとめぐ.md" title="wikilink">ひのもとめぐ</a>る</p></td>
 </tr>
 <tr class="odd">
 <td><p>星</p></td>
@@ -239,9 +239,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ツムギ_(ケータイ小説家)" title="wikilink">ツムギ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/泣き顔にKISS" title="wikilink">泣き顔にKISS</a></p></td>
+<td><p><a href="../Page/泣き顔にKISS.md" title="wikilink">泣き顔にKISS</a></p></td>
 <td><p>2009年4月</p></td>
-<td><p>表紙挿画:<a href="https://ja.wikipedia.org/wiki/マインドウェイブ" title="wikilink">Baby Jam</a></p></td>
+<td><p>表紙挿画:<a href="../Page/マインドウェイブ.md" title="wikilink">Baby Jam</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ツムギ</p></td>
@@ -274,7 +274,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ナナセ" title="wikilink">ナナセ</a></p></td>
+<td><p><a href="../Page/ナナセ.md" title="wikilink">ナナセ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/片翼の瞳" title="wikilink">片翼の瞳</a></p></td>
 <td><p>2008年1月</p></td>
 <td><p>-</p></td>
@@ -472,8 +472,8 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/結衣_(ケータイ小説家)" title="wikilink">結衣</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/あいつ等だけのお姫様!?" title="wikilink">あいつ等だけのお姫様!?</a></p></td>
+<td><p><a href="../Page/結衣_(ケータイ小説家).md" title="wikilink">結衣</a></p></td>
+<td><p><a href="../Page/あいつ等だけのお姫様!?.md" title="wikilink">あいつ等だけのお姫様!?</a></p></td>
 <td><p>2007年10月</p></td>
 <td><p>表紙挿画:<a href="https://ja.wikipedia.org/wiki/上条衿" title="wikilink">上条衿</a></p></td>
 </tr>
@@ -543,7 +543,7 @@
 
   - 季節ごとの恋をテーマにした書きおろしオムニバス。
 
-:\* 冬恋 4つのバレンタイン・ラブ（2008年1月25日） [ナナセ](https://ja.wikipedia.org/wiki/ナナセ "wikilink")、美由、ももしろ、[結衣](https://ja.wikipedia.org/wiki/結衣_\(ケータイ小説家\) "wikilink")
+:\* 冬恋 4つのバレンタイン・ラブ（2008年1月25日） [ナナセ](../Page/ナナセ.md "wikilink")、美由、ももしろ、[結衣](../Page/結衣_\(ケータイ小説家\).md "wikilink")
 
 :\* 夏恋 ビター編 4つのラブ・コレクション （2008年7月25日） 梅谷百、kuku、ナナセ、元田 有
 
@@ -565,7 +565,7 @@
 
 :\*最強オオカミくんのとなり。（2017年11月25日）春川こばと、岬、美那、花子、七星ドミノ - 第2弾テーマ「不良ラブ」
 
-:\*涙の先で君に会いたい（2017年12月25日）[美嘉](../Page/美嘉.md "wikilink")、[べあ姫](https://ja.wikipedia.org/wiki/べあ姫 "wikilink")、[ナナセ](https://ja.wikipedia.org/wiki/ナナセ "wikilink")、[椿ハナ](https://ja.wikipedia.org/wiki/椿ハナ "wikilink")、結城モカ - 第3弾テーマ「泣けるラブ」
+:\*涙の先で君に会いたい（2017年12月25日）[美嘉](../Page/美嘉.md "wikilink")、[べあ姫](https://ja.wikipedia.org/wiki/べあ姫 "wikilink")、[ナナセ](../Page/ナナセ.md "wikilink")、[椿ハナ](https://ja.wikipedia.org/wiki/椿ハナ "wikilink")、結城モカ - 第3弾テーマ「泣けるラブ」
 
 :\*本当の恋を教えてやる（2018年1月25日）ココア\*、ユウ、藤崎りく、一宮梨華、水月まこと - 第4弾テーマ「大人ラブ」
 

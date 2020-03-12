@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CRサクラ大戦**（シーアールサクラたいせん）は、[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[サクラ大戦](https://ja.wikipedia.org/wiki/サクラ大戦 "wikilink")のタイアップ機。
+**CRサクラ大戦**（シーアールサクラたいせん）は、[サミー](../Page/サミー.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[サクラ大戦](../Page/サクラ大戦.md "wikilink")のタイアップ機。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に発売された『**ぱちんこCRサクラ大戦2**』についても説明する。
 
@@ -25,7 +25,7 @@
 ### ゲーム機
 
   - [セガから](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[PS2のソフトゲームで発売した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『実戦パチンコ必勝法！ CRサクラ大戦』にてプレイが可能である。
-  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてプレイが可能である。
+  - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
 
 ## ぱちんこCRサクラ大戦2
 
@@ -62,11 +62,11 @@
 
 ## 外部リンク
 
-  - [CRサクラ大戦](https://web.archive.org/web/20100302142144/http://www.fields.biz/catalog/crsakura/) - [フィールズ](https://ja.wikipedia.org/wiki/フィールズ_\(企業\) "wikilink") - 消滅（2010年03月02日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [CRサクラ大戦](https://web.archive.org/web/20100302142144/http://www.fields.biz/catalog/crsakura/) - [フィールズ](../Page/フィールズ_\(企業\).md "wikilink") - 消滅（2010年03月02日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-  - [CRサクラ大戦](https://www.sammy.co.jp/japanese/product/pachinko/cr_sakura/index.html) - [サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")
+  - [CRサクラ大戦](https://www.sammy.co.jp/japanese/product/pachinko/cr_sakura/index.html) - [サミー](../Page/サミー.md "wikilink")
 
-  - \- [サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")
+  - \- [サミー](../Page/サミー.md "wikilink")
 
   - [サクラ大戦.com ゲームタイトル紹介](https://www.sakura-taisen.com/archives/game/databace/cr_sakura.html) - [PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
 

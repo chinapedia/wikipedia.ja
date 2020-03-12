@@ -1,21 +1,21 @@
 > この記事は[TOKMA](https://ja.wikipedia.org/wiki/TOKMA)から翻訳されています。
 
 
-**TOKMA**（**トクマ**、[1966年](../Page/1966年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックミュージシャン](../Page/ロック_\(音楽\).md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。本名：椙杜 徳馬（すぎのもり とくま）。
+**TOKMA**（**トクマ**、[1966年](../Page/1966年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックミュージシャン](../Page/ロック_\(音楽\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。本名：椙杜 徳馬（すぎのもり とくま）。
 
 ## 来歴
 
-[1966年](../Page/1966年.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")にて出生。白金小学校卒業。[1979年](../Page/1979年.md "wikilink")[青山学院中等部に入学し](https://ja.wikipedia.org/wiki/青山学院中等部・高等部 "wikilink")、[青山学院大学](https://ja.wikipedia.org/wiki/青山学院大学 "wikilink")に進学。大学在学中には、[西村喜廣](https://ja.wikipedia.org/wiki/西村喜廣 "wikilink")の[自主映画](https://ja.wikipedia.org/wiki/自主映画 "wikilink")で[蓮舫](../Page/蓮舫.md "wikilink")と共演している。また、在学中にバンド活動を開始。[1989年](../Page/1989年.md "wikilink")同大学[経済学部](../Page/経済学部.md "wikilink")経済学科卒業後に、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に渡る。その後帰国し、サラリーマンとして[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")に勤務するも退社、音楽活動に専念した\[1\]。
+[1966年](../Page/1966年.md "wikilink")、[東京都](../Page/東京都.md "wikilink")にて出生。白金小学校卒業。[1979年](../Page/1979年.md "wikilink")[青山学院中等部に入学し](https://ja.wikipedia.org/wiki/青山学院中等部・高等部 "wikilink")、[青山学院大学](../Page/青山学院大学.md "wikilink")に進学。大学在学中には、[西村喜廣](https://ja.wikipedia.org/wiki/西村喜廣 "wikilink")の[自主映画](../Page/自主映画.md "wikilink")で[蓮舫](../Page/蓮舫.md "wikilink")と共演している。また、在学中にバンド活動を開始。[1989年](../Page/1989年.md "wikilink")同大学[経済学部](../Page/経済学部.md "wikilink")経済学科卒業後に、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に渡る。その後帰国し、サラリーマンとして[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")に勤務するも退社、音楽活動に専念した\[1\]。
 
-以来、曲作りを続け、1stシングルCD『Oh！Angelina』をインディーズ発売、これが[1996年](../Page/1996年.md "wikilink")に[メジャーデビューを果たす](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ザック・ワイルド](https://ja.wikipedia.org/wiki/ザック・ワイルド "wikilink")（[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")）と[マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")が参加した2ndシングル「LOVE」、ロサンゼルスでのレコーディング。 この時期、楽曲「555」がCS番組に[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")に起用される。
+以来、曲作りを続け、1stシングルCD『Oh！Angelina』をインディーズ発売、これが[1996年](../Page/1996年.md "wikilink")に[メジャーデビューを果たす](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ザック・ワイルド](../Page/ザック・ワイルド.md "wikilink")（[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")）と[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")が参加した2ndシングル「LOVE」、ロサンゼルスでのレコーディング。 この時期、楽曲「555」がCS番組に[タイアップ](../Page/タイアップ.md "wikilink")に起用される。
 
-[2004年](../Page/2004年.md "wikilink")には[スズキ自動車](../Page/スズキ_\(企業\).md "wikilink")『[エリオ](https://ja.wikipedia.org/wiki/エリオ "wikilink")』のテレビ[コマーシャルのタイアップも務めた](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+[2004年](../Page/2004年.md "wikilink")には[スズキ自動車](../Page/スズキ_\(企業\).md "wikilink")『[エリオ](https://ja.wikipedia.org/wiki/エリオ "wikilink")』のテレビ[コマーシャルのタイアップも務めた](../Page/コマーシャルメッセージ.md "wikilink")。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月公開の映画『[ピューと吹く\!ジャガー THE MOVIE](../Page/ピューと吹く!ジャガー.md "wikilink")』に珍楽器楽団として、バンドメンバーと共に出演をした。
 
 [2009年](../Page/2009年.md "wikilink")に映画『[ボディ・ジャック](https://ja.wikipedia.org/wiki/ボディ・ジャック "wikilink")』の挿入歌『さらば！ボディ・ジャック』とエンディング『SUN CHILD』を担当、また同作品に幽霊役で出演を務める。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月から[2011年](../Page/2011年.md "wikilink")3月まで放送された[SHIBUYA-FMの番組](https://ja.wikipedia.org/wiki/東京コミュニケーション放送 "wikilink")「ロッカーTOKMAのハッピートレイン」で3ヶ月間DJを務めるなど、各種メディアで活動。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月から[2011年](../Page/2011年.md "wikilink")3月まで放送された[SHIBUYA-FMの番組](../Page/東京コミュニケーション放送.md "wikilink")「ロッカーTOKMAのハッピートレイン」で3ヶ月間DJを務めるなど、各種メディアで活動。
 
 [2017年](../Page/2017年.md "wikilink")11月11日 アルバムCD「ソルフェジオ」をリリース。
 
@@ -27,7 +27,7 @@
 
 [2012年](../Page/2012年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")に、国有化されて間もない尖閣諸島に上陸した\[2\]\[3\]\[4\]（[日本人活動家尖閣諸島上陸事件](https://ja.wikipedia.org/wiki/日本人活動家尖閣諸島上陸事件 "wikilink") 参照）。
 
-この行為に対し[9月28日](../Page/9月28日.md "wikilink")、[沖縄県警察](https://ja.wikipedia.org/wiki/沖縄県警察 "wikilink")[八重山警察署](https://ja.wikipedia.org/wiki/八重山警察署 "wikilink")は[軽犯罪法](../Page/軽犯罪法.md "wikilink")違反容疑で[那覇地方検察庁](../Page/那覇地方検察庁.md "wikilink")石垣支部に[書類送検](https://ja.wikipedia.org/wiki/書類送検 "wikilink")したが\[5\]\[6\]、[不起訴](https://ja.wikipedia.org/wiki/不起訴 "wikilink")処分となった。\[7\]不起訴となったものの、軽犯罪法違反で書類送検されたことに政治的な問題意識を感じ、政治家を志すようになった。
+この行為に対し[9月28日](../Page/9月28日.md "wikilink")、[沖縄県警察](../Page/沖縄県警察.md "wikilink")[八重山警察署](https://ja.wikipedia.org/wiki/八重山警察署 "wikilink")は[軽犯罪法](../Page/軽犯罪法.md "wikilink")違反容疑で[那覇地方検察庁](../Page/那覇地方検察庁.md "wikilink")石垣支部に[書類送検](../Page/書類送検.md "wikilink")したが\[5\]\[6\]、[不起訴](https://ja.wikipedia.org/wiki/不起訴 "wikilink")処分となった。\[7\]不起訴となったものの、軽犯罪法違反で書類送検されたことに政治的な問題意識を感じ、政治家を志すようになった。
 
 その後、2012年10月に[幸福実現党](https://ja.wikipedia.org/wiki/幸福実現党 "wikilink")青年局長に就任し、[11月7日](../Page/11月7日.md "wikilink")に[東京都知事選挙への立候補表明した](https://ja.wikipedia.org/wiki/2012年東京都知事選挙 "wikilink")。\[8\]\[9\]。
 
@@ -41,9 +41,9 @@
 
 ## 家族 親族
 
-  - 父方の曾祖父　[砂田重政](https://ja.wikipedia.org/wiki/砂田重政 "wikilink")（1955年自民党結党時の鳩山一郎内閣・防衛庁長官、自由民主党総務会長〔2代目〕）
+  - 父方の曾祖父　[砂田重政](../Page/砂田重政.md "wikilink")（1955年自民党結党時の鳩山一郎内閣・防衛庁長官、自由民主党総務会長〔2代目〕）
   - 父方の祖父　[椙杜正太郎](https://ja.wikipedia.org/wiki/椙杜正太郎 "wikilink")（通産省官僚、東京帝大卒、終戦時の内閣事務官）\[14\]
-  - 父方の伯母　[犬丸純子](https://ja.wikipedia.org/wiki/犬丸純子 "wikilink")（元・[芝パークホテル](https://ja.wikipedia.org/wiki/芝パークホテル "wikilink")社長で実業家[犬丸二郎](https://ja.wikipedia.org/wiki/犬丸二郎 "wikilink")（[犬丸徹三](https://ja.wikipedia.org/wiki/犬丸徹三 "wikilink")の子））の妻）\[15\]
+  - 父方の伯母　[犬丸純子](https://ja.wikipedia.org/wiki/犬丸純子 "wikilink")（元・[芝パークホテル](../Page/芝パークホテル.md "wikilink")社長で実業家[犬丸二郎](https://ja.wikipedia.org/wiki/犬丸二郎 "wikilink")（[犬丸徹三](../Page/犬丸徹三.md "wikilink")の子））の妻）\[15\]
   - 母方の祖父　[吉田彦太郎](https://ja.wikipedia.org/wiki/吉田彦太郎 "wikilink")（のちに吉田裕彦）」（戦前の大手日刊紙[やまと新聞](https://ja.wikipedia.org/wiki/やまと新聞 "wikilink")　副社長、社長を歴任）\[16\]　
 
 ## 作品
@@ -157,7 +157,7 @@
 
 ## メディア出演・掲載など
 
-  - [SHIBUYA-FM](https://ja.wikipedia.org/wiki/東京コミュニケーション放送 "wikilink") - 「ロッカーTOKMAのハッピートレイン」\[17\]
+  - [SHIBUYA-FM](../Page/東京コミュニケーション放送.md "wikilink") - 「ロッカーTOKMAのハッピートレイン」\[17\]
   - YouTube TOKMA尖閣上陸後の記者会見 - 「TOKMA 尖閣上陸」\[18\]
   - [ウォール・ストリート・ジャーナル](../Page/ウォール・ストリート・ジャーナル.md "wikilink")　尖閣特集WEB記事\[19\]
   - [尖閣ロック](https://ja.wikipedia.org/wiki/尖閣ロック "wikilink") 舞台挨拶\[20\]
@@ -185,7 +185,7 @@
 1.  [TOKMA オフィシャルサイト](http://www.tokma.com/band.html)
 2.  [尖閣上陸の日本人は地域政党員　石垣島に帰港、思い語る　社会面 2012年9月18日21時7分](http://www.asahi.com/national/update/0918/SEB201209180036.html)朝日新聞 2012年9月18日閲覧
 3.  [尖閣に上陸した日本人は幸福実現党・党員シンガー|尖閣に上陸した日本人は幸福実現党・党員シンガー 2012年9月19日](http://dailycult.blogspot.jp/2012/09/blog-post_5024.html) - やや日刊カルト新聞 2012年11月8日閲覧
-4.  雑誌「[FLASH](https://ja.wikipedia.org/wiki/FLASH_\(写真週刊誌\) "wikilink")」2012年10月9日号（9月25日発売）p10 - 12「尖閣上陸男」直撃\!その意外な正体
+4.  雑誌「[FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")」2012年10月9日号（9月25日発売）p10 - 12「尖閣上陸男」直撃\!その意外な正体
 5.  [尖閣無許可上陸の2人を書類送検…立件は初めて](http://www.yomiuri.co.jp/national/news/20120928-OYT1T01028.htm) YOMIURI ONLINE 2012年9月28日閲覧
 6.
 7.  [尖閣に許可なく上陸、政治団体代表らを不起訴](http://news.infoseek.co.jp/article/20121220_yol_oyt1t01240)

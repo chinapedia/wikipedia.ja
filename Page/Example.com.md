@@ -3,7 +3,7 @@
 
 **example.com**, **example.net**, **example.org**, **example.edu**は、[ソフトウェアドキュメンテーション](../Page/ソフトウェアドキュメンテーション.md "wikilink")や[ドメイン名](../Page/ドメイン名.md "wikilink")の[例示](https://ja.wikipedia.org/wiki/例示 "wikilink")のために予約されている[セカンドレベルドメイン](https://ja.wikipedia.org/wiki/セカンドレベルドメイン "wikilink")である。
 
-[.com](https://ja.wikipedia.org/wiki/.com "wikilink"), [.net](https://ja.wikipedia.org/wiki/.net "wikilink"), [.org](https://ja.wikipedia.org/wiki/.org "wikilink")のセカンドレベルドメイン"example"は、1999年に RFC 2606 第3章にて[Internet Engineering Task Force](../Page/Internet_Engineering_Task_Force.md "wikilink") (IETF) によって予約された\[1\]。[.edu](https://ja.wikipedia.org/wiki/.edu "wikilink")のセカンドレベルドメイン "example" は、2000年に[Internet Corporation for Assigned Names and Numbers](https://ja.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers "wikilink") (ICANN) によって予約された。
+[.com](https://ja.wikipedia.org/wiki/.com "wikilink"), [.net](../Page/.net.md "wikilink"), [.org](../Page/.org.md "wikilink")のセカンドレベルドメイン"example"は、1999年に RFC 2606 第3章にて[Internet Engineering Task Force](../Page/Internet_Engineering_Task_Force.md "wikilink") (IETF) によって予約された\[1\]。[.edu](../Page/.edu.md "wikilink")のセカンドレベルドメイン "example" は、2000年に[Internet Corporation for Assigned Names and Numbers](https://ja.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers "wikilink") (ICANN) によって予約された。
 
 これらのドメイン名が予約されていることによって、マニュアルやソフトウェア構成のサンプルでこれらのドメインを使用することが可能である。すなわち、エンドユーザーがサンプルの設定や例示をそのまま使用してしまったとしても、第三者に悪影響が及ばないことが保障されている。これらのドメイン名は、ICANNによって管理されている[Webサーバ](../Page/Webサーバ.md "wikilink")のIPv4およびIPv6の[IPアドレス](../Page/IPアドレス.md "wikilink")に解決され、[DNSSECを使用してデジタル署名されている](https://ja.wikipedia.org/wiki/DNS_Security_Extensions "wikilink")。DNSでは、各サンプルドメインのサードレベルドメイン "www" が定義されており、親ドメインと同じIPアドレスに解決される。
 
@@ -13,7 +13,7 @@
 
   - [.example](https://ja.wikipedia.org/wiki/.example "wikilink") - 同様の目的で予約された[トップレベルドメイン](../Page/トップレベルドメイン.md "wikilink")
   - [トップレベルドメイン\#予約済みのドメイン](https://ja.wikipedia.org/wiki/トップレベルドメイン#予約済みのドメイン "wikilink")
-  - [メタ構文変数](https://ja.wikipedia.org/wiki/メタ構文変数 "wikilink")
+  - [メタ構文変数](../Page/メタ構文変数.md "wikilink")
 
 ## 外部リンク
 

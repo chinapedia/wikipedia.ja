@@ -1,7 +1,7 @@
 > この記事は[HARD-BOILED CITY](https://ja.wikipedia.org/wiki/HARD-BOILED_CITY)から翻訳されています。
 
 
-『**HARD-BOILED CITY**』（ハードボイルド・シティー）は、[2001年](../Page/2001年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")にリリースされた、ロックバンド[ARBの](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")15枚目のアルバムである。
+『**HARD-BOILED CITY**』（ハードボイルド・シティー）は、[2001年](../Page/2001年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")15枚目のアルバムである。
 
 ## 収録曲
 

@@ -19,7 +19,7 @@
 8.  **約束**
 9.  **Shane**
 10. **My Heart Belongs To Daddy**
-      - [Cole Porterが手がけたミュージカル](https://ja.wikipedia.org/wiki/コール・ポーター "wikilink")『[Leave It to Me\!（英語版）](https://ja.wikipedia.org/wiki/:en:Leave_It_to_Me! "wikilink")』の楽曲「[My Heart Belongs to Daddy（英語版）](https://ja.wikipedia.org/wiki/:en:My_Heart_Belongs_to_Daddy "wikilink")」（原曲歌唱：[Mary Martin（英語版）](https://ja.wikipedia.org/wiki/:en:Mary_Martin "wikilink")）のカヴァー。
+      - [Cole Porterが手がけたミュージカル](../Page/コール・ポーター.md "wikilink")『[Leave It to Me\!（英語版）](https://ja.wikipedia.org/wiki/:en:Leave_It_to_Me! "wikilink")』の楽曲「[My Heart Belongs to Daddy（英語版）](https://ja.wikipedia.org/wiki/:en:My_Heart_Belongs_to_Daddy "wikilink")」（原曲歌唱：[Mary Martin（英語版）](https://ja.wikipedia.org/wiki/:en:Mary_Martin "wikilink")）のカヴァー。
 11. **[MY EYES](../Page/MY_EYES.md "wikilink")**
 
 <!-- end list -->

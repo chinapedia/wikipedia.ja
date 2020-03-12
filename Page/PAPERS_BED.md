@@ -1,7 +1,7 @@
 > この記事は[PAPERS BED](https://ja.wikipedia.org/wiki/PAPERS_BED)から翻訳されています。
 
 
-『**PAPERS BED**』（ペーパーズ・ベッド）は、[1988年](../Page/1988年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")にリリースされた、ロックバンド[ARBの](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")11枚目のアルバムである。
+『**PAPERS BED**』（ペーパーズ・ベッド）は、[1988年](../Page/1988年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")11枚目のアルバムである。
 
 [浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink") ([Bass](../Page/エレクトリックベース.md "wikilink")) 加入後最初のアルバムである。 前2作では打ち込みなども多様してきたが、本作では再びバンドサウンドに回帰している。
 

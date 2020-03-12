@@ -3,13 +3,13 @@
 
 『**光と影**』（ひかりとかげ）は、日本の女性歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の7枚目のアルバム。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[R and Cよりリリースされた](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[R and Cよりリリースされた](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
 
 特典として「**光と影 New York Sessions**」と題した[DVD](../Page/DVD.md "wikilink")（収録時間24分）が付いてくる。
 
 ## 解説
 
-単身[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")に渡り、現地のミュージシャン達とレコーディングした作品。
+単身[ニューヨーク](../Page/ニューヨーク.md "wikilink")に渡り、現地のミュージシャン達とレコーディングした作品。
 
 ## 収録曲
 

@@ -3,7 +3,7 @@
 
 「**touch me, kiss me**」（タッチ・ミー、キス・ミー）は、日本の女性歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の楽曲で、13枚目のシングル。[2002年](../Page/2002年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に発売。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
-表題曲は、[東宝](../Page/東宝.md "wikilink")配給映画『[明日があるさ THE MOVIE](https://ja.wikipedia.org/wiki/明日があるさ_THE_MOVIE "wikilink")』エンディングテーマ及び、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』AX POWER PLAY\#016）。カップリング曲「I do」は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009_\(アニメ\) "wikilink")』エンディングテーマ。
+表題曲は、[東宝](../Page/東宝.md "wikilink")配給映画『[明日があるさ THE MOVIE](https://ja.wikipedia.org/wiki/明日があるさ_THE_MOVIE "wikilink")』エンディングテーマ及び、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY\#016）。カップリング曲「I do」は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009_\(アニメ\) "wikilink")』エンディングテーマ。
 
 ## 収録曲
 

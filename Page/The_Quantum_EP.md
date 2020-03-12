@@ -5,11 +5,11 @@
 
 ## 解説
 
-アルバム『[Planet Shining](https://ja.wikipedia.org/wiki/Planet_Shining "wikilink")』（2000年）からのシングルカット。カップリングの「One Sugar Dream」は雑誌[BRUTUS](https://ja.wikipedia.org/wiki/BRUTUS "wikilink")との共同企画の曲で、お洒落な曲になっている。7月1日発売のBRUTUSには別バージョンの収録されたCDが付録として付いていた。
+アルバム『[Planet Shining](../Page/Planet_Shining.md "wikilink")』（2000年）からのシングルカット。カップリングの「One Sugar Dream」は雑誌[BRUTUS](../Page/BRUTUS.md "wikilink")との共同企画の曲で、お洒落な曲になっている。7月1日発売のBRUTUSには別バージョンの収録されたCDが付録として付いていた。
 
-「Quantum Leap (DJ Watarai Remix)」は原曲と全く異なる雰囲気となっている。またm-floの公式サイトで『[The Intergalactic Collection 〜ギャラコレ〜](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_〜ギャラコレ〜 "wikilink")』([2003年](../Page/2003年.md "wikilink")) では、曲名が「Quantum Leap Ⅱ」になっている。 カップリング曲の「One Sugar Dream」は『[Planet Shining](https://ja.wikipedia.org/wiki/Planet_Shining "wikilink")』には未収録であったが、後に発売されたベストアルバム『[The Intergalactic Collection 〜ギャラコレ〜](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_〜ギャラコレ〜 "wikilink")』に収録された。さらに『[m-flo inside -WORKS BEST II-](https://ja.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_II- "wikilink")』([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")) のディスク2にも[Ryohei](https://ja.wikipedia.org/wiki/Ryohei "wikilink")がヴォーカルとして歌っているバージョンが収録されている（[Ryohei](https://ja.wikipedia.org/wiki/Ryohei "wikilink")のシングル『you said...』〈2006年)〉のカップリングにも「One Sugar Dream」のカバーが収録されている）。
+「Quantum Leap (DJ Watarai Remix)」は原曲と全く異なる雰囲気となっている。またm-floの公式サイトで『[The Intergalactic Collection 〜ギャラコレ〜](../Page/The_Intergalactic_Collection_〜ギャラコレ〜.md "wikilink")』([2003年](../Page/2003年.md "wikilink")) では、曲名が「Quantum Leap Ⅱ」になっている。 カップリング曲の「One Sugar Dream」は『[Planet Shining](../Page/Planet_Shining.md "wikilink")』には未収録であったが、後に発売されたベストアルバム『[The Intergalactic Collection 〜ギャラコレ〜](../Page/The_Intergalactic_Collection_〜ギャラコレ〜.md "wikilink")』に収録された。さらに『[m-flo inside -WORKS BEST II-](https://ja.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_II- "wikilink")』([2006年](../Page/2006年.md "wikilink")) のディスク2にも[Ryohei](../Page/Ryohei.md "wikilink")がヴォーカルとして歌っているバージョンが収録されている（[Ryohei](../Page/Ryohei.md "wikilink")のシングル『you said...』〈2006年)〉のカップリングにも「One Sugar Dream」のカバーが収録されている）。
 
-またリミックスアルバム『[EXPO防衛ロボット GRAN SONIK](https://ja.wikipedia.org/wiki/EXPO防衛ロボット_GRAN_SONIK "wikilink")』（2001年） に[小西康陽](../Page/小西康陽.md "wikilink")がリミックスを手掛けた「One Sugar Dream \[Readymade pot-pourri of the beats\] by KONISHI yasuharu」が収録されている。
+またリミックスアルバム『[EXPO防衛ロボット GRAN SONIK](../Page/EXPO防衛ロボット_GRAN_SONIK.md "wikilink")』（2001年） に[小西康陽](../Page/小西康陽.md "wikilink")がリミックスを手掛けた「One Sugar Dream \[Readymade pot-pourri of the beats\] by KONISHI yasuharu」が収録されている。
 
 ## 収録曲
 

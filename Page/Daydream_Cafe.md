@@ -5,12 +5,12 @@
 
 ## 概要
 
-タイトル曲は[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[人気者でいこう\!](https://ja.wikipedia.org/wiki/人気者でいこう! "wikilink")』エンディングテーマに起用された。累計売上は1.0万枚を記録\[1\]。レコーディングにはギタリストとして[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")が参加している。1stアルバム『[CRAVING](https://ja.wikipedia.org/wiki/CRAVING "wikilink")』には、オリジナルと共に、[浅倉大介](../Page/浅倉大介.md "wikilink")がリミックスを手掛けた「Daydream Cafe (DA MIX)」が収録されている。
+タイトル曲は[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")』エンディングテーマに起用された。累計売上は1.0万枚を記録\[1\]。レコーディングにはギタリストとして[葛城哲哉](../Page/葛城哲哉.md "wikilink")が参加している。1stアルバム『[CRAVING](../Page/CRAVING.md "wikilink")』には、オリジナルと共に、[浅倉大介](../Page/浅倉大介.md "wikilink")がリミックスを手掛けた「Daydream Cafe (DA MIX)」が収録されている。
 
 ## 収録曲
 
 1.  **Daydream Cafe**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
 2.  **Daydream Cafe** (Nightdream Mix by Y・F)
       - 作詞：井上秋緒　作曲：浅倉大介　編曲：[福田裕彦](https://ja.wikipedia.org/wiki/福田裕彦 "wikilink")
 3.  **Daydream Cafe** (Original Backing Track)

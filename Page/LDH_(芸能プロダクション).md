@@ -7,11 +7,11 @@
 
 ## 沿革
 
-[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")、当時の規定であった会社設立の際の資本金300万円を、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の初期メンバー6人が50万円ずつ出資し「エグザイルエンタテイメント有限会社」を設立\[1\]。リーダーの[HIROが代表取締役社長を務めていた](https://ja.wikipedia.org/wiki/五十嵐広行 "wikilink")。
+[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")、当時の規定であった会社設立の際の資本金300万円を、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の初期メンバー6人が50万円ずつ出資し「エグザイルエンタテイメント有限会社」を設立\[1\]。リーダーの[HIROが代表取締役社長を務めていた](../Page/五十嵐広行.md "wikilink")。
 
 [2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")、上記の事務所と、HIROの友人である森雅貴らが経営していたモデル事務所「株式会社スリーポイント」が合併し「**株式会社LDH**」を設立。HIROが代表取締役社長、森が代表取締役副社長に就任\[2\]。以降、芸能事務所以外の事業も展開した。
 
-[2017年](../Page/2017年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、「**株式会社LDH JAPAN**」に商号変更し、森が代表取締役CEOに就任\[3\]。海外拠点なども新設された\[4\]\[5\]。
+[2017年](../Page/2017年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、「**株式会社LDH JAPAN**」に商号変更し、森が代表取締役CEOに就任\[3\]。海外拠点なども新設された\[4\]\[5\]。
 
 ## 所属
 
@@ -24,13 +24,13 @@
   - [THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")
   - [FANTASTICS from EXILE TRIBE](https://ja.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE "wikilink")
   - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink")
-  - [DEEP](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")
+  - [DEEP](../Page/DEEP_\(歌手グループ\).md "wikilink")
   - [DEEP SQUAD](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\)#DEEP_SQUAD "wikilink")
-  - [DOBERMAN INFINITY](https://ja.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")
+  - [DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink")
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")
-  - [Dream Ami](https://ja.wikipedia.org/wiki/Dream_Ami "wikilink")
-  - [Dream Shizuka](https://ja.wikipedia.org/wiki/Dream_Shizuka "wikilink")
-  - [Happiness](https://ja.wikipedia.org/wiki/Happiness_\(グループ\) "wikilink")
+  - [Dream Ami](../Page/Dream_Ami.md "wikilink")
+  - [Dream Shizuka](../Page/Dream_Shizuka.md "wikilink")
+  - [Happiness](../Page/Happiness_\(グループ\).md "wikilink")
   - [スダンナユズユリー](https://ja.wikipedia.org/wiki/スダンナユズユリー "wikilink")
   - 重留真波
   - [PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")
@@ -38,9 +38,9 @@
   - [DJ DARUMA](https://ja.wikipedia.org/wiki/DJ_DARUMA "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [HONEST BOYZ](https://ja.wikipedia.org/wiki/HONEST_BOYZ "wikilink")
-  - [MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")
+  - [MIYAVI](../Page/MIYAVI.md "wikilink")
   - [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")
-  - [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")
+  - [JAY'ED](../Page/JAY'ED.md "wikilink")
   - [Leola](https://ja.wikipedia.org/wiki/Leola "wikilink")
   - [青柳翔](https://ja.wikipedia.org/wiki/青柳翔 "wikilink")
   - [CRAZY四角形](https://ja.wikipedia.org/wiki/八木将康 "wikilink")
@@ -53,22 +53,22 @@
 
 **俳優**
 
-  - [RIKACO](https://ja.wikipedia.org/wiki/RIKACO "wikilink")
-  - [音月桂](https://ja.wikipedia.org/wiki/音月桂 "wikilink")
-  - [長谷部優](https://ja.wikipedia.org/wiki/長谷部優 "wikilink")
+  - [RIKACO](../Page/RIKACO.md "wikilink")
+  - [音月桂](../Page/音月桂.md "wikilink")
+  - [長谷部優](../Page/長谷部優.md "wikilink")
   - [水野絵梨奈](https://ja.wikipedia.org/wiki/水野絵梨奈 "wikilink")
   - [杉ありさ](https://ja.wikipedia.org/wiki/杉ありさ "wikilink")
-  - [城戸愛莉](https://ja.wikipedia.org/wiki/城戸愛莉 "wikilink")
+  - [城戸愛莉](../Page/城戸愛莉.md "wikilink")
   - [石井杏奈](https://ja.wikipedia.org/wiki/石井杏奈_\(E-girls\) "wikilink")
   - 平川結月
   - 黒谷磨世
-  - [近江谷太朗](https://ja.wikipedia.org/wiki/近江谷太朗 "wikilink")
+  - [近江谷太朗](../Page/近江谷太朗.md "wikilink")
   - [平沼紀久](https://ja.wikipedia.org/wiki/平沼紀久 "wikilink")
-  - [天野浩成](https://ja.wikipedia.org/wiki/天野浩成 "wikilink")
-  - [黒川恭佑](https://ja.wikipedia.org/wiki/黒川恭佑 "wikilink")
-  - [早乙女太一](https://ja.wikipedia.org/wiki/早乙女太一 "wikilink")
-  - [増本庄一郎](https://ja.wikipedia.org/wiki/増本庄一郎 "wikilink")
-  - [勝矢](https://ja.wikipedia.org/wiki/勝矢 "wikilink")
+  - [天野浩成](../Page/天野浩成.md "wikilink")
+  - [黒川恭佑](../Page/黒川恭佑.md "wikilink")
+  - [早乙女太一](../Page/早乙女太一.md "wikilink")
+  - [増本庄一郎](../Page/増本庄一郎.md "wikilink")
+  - [勝矢](../Page/勝矢.md "wikilink")
   - [野杁俊希](https://ja.wikipedia.org/wiki/野杁俊希 "wikilink")
   - [青柳翔](https://ja.wikipedia.org/wiki/青柳翔 "wikilink")
   - [秋山真太郎](https://ja.wikipedia.org/wiki/秋山真太郎 "wikilink")
@@ -82,14 +82,14 @@
 
 **タレント**
 
-  - [山口五和](https://ja.wikipedia.org/wiki/山口五和 "wikilink")
-  - [長塚智広](https://ja.wikipedia.org/wiki/長塚智広 "wikilink")
-  - [LISA](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")
+  - [山口五和](../Page/山口五和.md "wikilink")
+  - [長塚智広](../Page/長塚智広.md "wikilink")
+  - [LISA](../Page/LISA_\(歌手\).md "wikilink")
 
 **モデル**
 
   - [佐田真由美](../Page/佐田真由美.md "wikilink")
-  - [岩堀せり](https://ja.wikipedia.org/wiki/岩堀せり "wikilink")
+  - [岩堀せり](../Page/岩堀せり.md "wikilink")
   - [大屋夏南](https://ja.wikipedia.org/wiki/大屋夏南 "wikilink")
   - [佐原モニカ](https://ja.wikipedia.org/wiki/佐原モニカ "wikilink")
   - [テイラー鈴木](https://ja.wikipedia.org/wiki/テイラー鈴木 "wikilink")
@@ -103,12 +103,12 @@
   - [栗原恵](https://ja.wikipedia.org/wiki/栗原恵 "wikilink")
   - [渡辺一平](https://ja.wikipedia.org/wiki/渡辺一平 "wikilink")
   - [ZEN](https://ja.wikipedia.org/wiki/ZEN_\(パルクール\) "wikilink")
-  - [アンジェラ・磨紀・バーノン](https://ja.wikipedia.org/wiki/アンジェラ・磨紀・バーノン "wikilink")
+  - [アンジェラ・磨紀・バーノン](../Page/アンジェラ・磨紀・バーノン.md "wikilink")
   - 小川直久
   - 小川幸男
   - 吉田輝幸
-  - [高谷裕之](https://ja.wikipedia.org/wiki/高谷裕之 "wikilink")
-  - [岡見勇信](https://ja.wikipedia.org/wiki/岡見勇信 "wikilink")
+  - [高谷裕之](../Page/高谷裕之.md "wikilink")
+  - [岡見勇信](../Page/岡見勇信.md "wikilink")
 
 **スペシャリスト**
 
@@ -116,14 +116,14 @@
   - 表誠治
   - DJ KIRA
   - 田中亮介
-  - [SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")
+  - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")
   - [武村八重子](https://ja.wikipedia.org/wiki/武村八重子 "wikilink")
   - 木村圭児
   - 郷田季恵子
   - PATO
   - SEVA
   - [樫田正剛](https://ja.wikipedia.org/wiki/樫田正剛 "wikilink")
-  - [渡辺啓](https://ja.wikipedia.org/wiki/渡辺啓 "wikilink")
+  - [渡辺啓](../Page/渡辺啓.md "wikilink")
   - [錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")
   - MC USK
 
@@ -131,17 +131,17 @@
 
 *グループ離脱者はグループのページを参照*
 
-  - [PARADISE GO\!\! GO\!\!](https://ja.wikipedia.org/wiki/PARADISE_GO!!_GO!! "wikilink")
-  - [RATHER UNIQUE](https://ja.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")
-  - [三箇一稔](https://ja.wikipedia.org/wiki/三箇一稔 "wikilink")
+  - [PARADISE GO\!\! GO\!\!](../Page/PARADISE_GO!!_GO!!.md "wikilink")
+  - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")
+  - [三箇一稔](../Page/三箇一稔.md "wikilink")
   - [中崎祐衣](https://ja.wikipedia.org/wiki/中崎祐衣 "wikilink")
-  - [NEVER LAND/warp-generation](https://ja.wikipedia.org/wiki/NEVER_LAND_\(ヒップホップユニット\) "wikilink")
+  - [NEVER LAND/warp-generation](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink")
   - [川根来音](https://ja.wikipedia.org/wiki/川根来音 "wikilink")
   - [CASSIS](https://ja.wikipedia.org/wiki/sherry "wikilink")
   - [NaNa](https://ja.wikipedia.org/wiki/NaNa_\(歌手\) "wikilink")
   - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")
-  - [原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
-  - [CEYREN](https://ja.wikipedia.org/wiki/CEYREN "wikilink")
+  - [原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
+  - [CEYREN](../Page/CEYREN.md "wikilink")
   - [香子](https://ja.wikipedia.org/wiki/香子 "wikilink")
   - [小林夏子](https://ja.wikipedia.org/wiki/永夏子 "wikilink")
   - [ia](https://ja.wikipedia.org/wiki/ia "wikilink")
@@ -150,22 +150,22 @@
   - [中野唯花](https://ja.wikipedia.org/wiki/中野唯花 "wikilink")
   - [吉田セイラ](https://ja.wikipedia.org/wiki/吉田セイラ "wikilink")
   - [磯村洋祐](https://ja.wikipedia.org/wiki/磯村洋祐 "wikilink")
-  - [桐島ローランド](https://ja.wikipedia.org/wiki/桐島ローランド "wikilink")
+  - [桐島ローランド](../Page/桐島ローランド.md "wikilink")
   - [谷中敦](https://ja.wikipedia.org/wiki/谷中敦 "wikilink")
   - [岸洋佑](https://ja.wikipedia.org/wiki/岸洋佑 "wikilink")
   - [上田眞央](https://ja.wikipedia.org/wiki/上田眞央 "wikilink")
   - [長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")
-  - [JONTE](https://ja.wikipedia.org/wiki/JONTE "wikilink")
+  - [JONTE](../Page/JONTE.md "wikilink")
   - [BREATHE](https://ja.wikipedia.org/wiki/BREATHE "wikilink")
   - [春川恭亮](https://ja.wikipedia.org/wiki/春川恭亮 "wikilink")
-  - [マシコタツロウ](https://ja.wikipedia.org/wiki/マシコタツロウ "wikilink")
-  - [桃生亜希子](https://ja.wikipedia.org/wiki/桃生亜希子 "wikilink")
+  - [マシコタツロウ](../Page/マシコタツロウ.md "wikilink")
+  - [桃生亜希子](../Page/桃生亜希子.md "wikilink")
   - [塩ノ谷早耶香](https://ja.wikipedia.org/wiki/塩ノ谷早耶香 "wikilink")
   - [Dream](../Page/Dream_\(音楽ユニット\).md "wikilink")
   - [松本理沙](https://ja.wikipedia.org/wiki/松本理沙 "wikilink")
   - [ShuuKaRen](https://ja.wikipedia.org/wiki/ShuuKaRen "wikilink")
   - [Flower](https://ja.wikipedia.org/wiki/Flower_\(グループ\) "wikilink")
-  - [神田瀧夢](https://ja.wikipedia.org/wiki/神田瀧夢 "wikilink")
+  - [神田瀧夢](../Page/神田瀧夢.md "wikilink")
   - [NOMA](https://ja.wikipedia.org/wiki/NOMA_\(モデル\) "wikilink")
 
 ## グループ会社
@@ -176,7 +176,7 @@
 
 ### LDH kitchen
 
-**株式会社LDH kitchen**（エルディーエイチ キッチン）は、日本の[飲食店](https://ja.wikipedia.org/wiki/飲食店 "wikilink")運営会社。2008年設立。2020年現在、13店舗展開している\[8\]。 {{-}}
+**株式会社LDH kitchen**（エルディーエイチ キッチン）は、日本の[飲食店](../Page/飲食店.md "wikilink")運営会社。2008年設立。2020年現在、13店舗展開している\[8\]。 {{-}}
 
 ### expg
 
@@ -184,7 +184,7 @@
 
 ### LDH pictures
 
-**株式会社LDH pictures**（エルディーエイチ ピクチャーズ）は、日本の[映画配給会社](https://ja.wikipedia.org/wiki/映画配給会社 "wikilink")。2016年4月27日、新規事業として設立。LDHのプロジェクトを取り扱う「LDH PICTURES」、LDH所属アーティストの[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")や[ライブビューイング](https://ja.wikipedia.org/wiki/ライブビューイング "wikilink")など[非映画コンテンツ](https://ja.wikipedia.org/wiki/非映画コンテンツ "wikilink")を取り扱う「HI-STREET PICTURES」、海外買い付け作品など様々なジャンルを取り扱う「HIGH BROW CINEMA」の3つの配給レーベルから構成されている\[9\]。 {{-}}
+**株式会社LDH pictures**（エルディーエイチ ピクチャーズ）は、日本の[映画配給会社](https://ja.wikipedia.org/wiki/映画配給会社 "wikilink")。2016年4月27日、新規事業として設立。LDHのプロジェクトを取り扱う「LDH PICTURES」、LDH所属アーティストの[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")や[ライブビューイング](../Page/ライブビューイング.md "wikilink")など[非映画コンテンツ](https://ja.wikipedia.org/wiki/非映画コンテンツ "wikilink")を取り扱う「HI-STREET PICTURES」、海外買い付け作品など様々なジャンルを取り扱う「HIGH BROW CINEMA」の3つの配給レーベルから構成されている\[9\]。 {{-}}
 
 ### LDH models
 
@@ -193,7 +193,7 @@
 **LDH JAPAN**
 
   - [佐田真由美](../Page/佐田真由美.md "wikilink")
-  - [岩堀せり](https://ja.wikipedia.org/wiki/岩堀せり "wikilink")
+  - [岩堀せり](../Page/岩堀せり.md "wikilink")
   - [大屋夏南](https://ja.wikipedia.org/wiki/大屋夏南 "wikilink")
   - [佐原モニカ](https://ja.wikipedia.org/wiki/佐原モニカ "wikilink")
   - [テイラー鈴木](https://ja.wikipedia.org/wiki/テイラー鈴木 "wikilink")
@@ -203,8 +203,8 @@
 
 **過去**
 
-  - [山口いづみ](https://ja.wikipedia.org/wiki/山口いづみ_\(ファッションモデル\) "wikilink")（JB SECTION）
-  - [仲川希良](https://ja.wikipedia.org/wiki/仲川希良 "wikilink")（JB SECTION）
+  - [山口いづみ](../Page/山口いづみ_\(ファッションモデル\).md "wikilink")（JB SECTION）
+  - [仲川希良](../Page/仲川希良.md "wikilink")（JB SECTION）
 
 {{-}}
 
@@ -234,12 +234,12 @@
 ## 不祥事
 
   - 申告漏れ
-    2010年3月、[東京国税局](https://ja.wikipedia.org/wiki/東京国税局 "wikilink")の[税務調査](https://ja.wikipedia.org/wiki/税務調査 "wikilink")を受け、2009年3月期までの2年間で約3億円の申告漏れを指摘され修正申告した\[14\]\[15\]。また、2018年7月にも東京国税局の税務調査を受け、2017年3月期までの4年間で約3億円の申告漏れを指摘され修正申告した\[16\]\[17\]。
+    2010年3月、[東京国税局](../Page/東京国税局.md "wikilink")の[税務調査](https://ja.wikipedia.org/wiki/税務調査 "wikilink")を受け、2009年3月期までの2年間で約3億円の申告漏れを指摘され修正申告した\[14\]\[15\]。また、2018年7月にも東京国税局の税務調査を受け、2017年3月期までの4年間で約3億円の申告漏れを指摘され修正申告した\[16\]\[17\]。
 
 <!-- end list -->
 
   - 労働基準法違反
-    2019年4月、上限を超える[時間外労働](https://ja.wikipedia.org/wiki/時間外労働 "wikilink")を従業員にさせた等として、[労働基準監督署](https://ja.wikipedia.org/wiki/労働基準監督署 "wikilink")から[是正勧告](https://ja.wikipedia.org/wiki/是正勧告 "wikilink")を受けていたことが分かった\[18\]。2014年1月にはEXILEのメンバーのマネージャーを中心とする複数の従業員の[労働時間](https://ja.wikipedia.org/wiki/労働時間 "wikilink")が月に400-500時間に及んだとして、2018年2月にはマネージャーの残業時間が[三六協定で定めた上限を超えていたとして](https://ja.wikipedia.org/wiki/時間外労働#三六協定 "wikilink")、それぞれ勧告を受けていた\[19\]。
+    2019年4月、上限を超える[時間外労働](../Page/時間外労働.md "wikilink")を従業員にさせた等として、[労働基準監督署](../Page/労働基準監督署.md "wikilink")から[是正勧告](https://ja.wikipedia.org/wiki/是正勧告 "wikilink")を受けていたことが分かった\[18\]。2014年1月にはEXILEのメンバーのマネージャーを中心とする複数の従業員の[労働時間](https://ja.wikipedia.org/wiki/労働時間 "wikilink")が月に400-500時間に及んだとして、2018年2月にはマネージャーの残業時間が[三六協定で定めた上限を超えていたとして](https://ja.wikipedia.org/wiki/時間外労働#三六協定 "wikilink")、それぞれ勧告を受けていた\[19\]。
 
 ## 脚注
 

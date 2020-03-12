@@ -1,11 +1,11 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-[Bangkok_Baiyoke_Tower.jpg](https://ja.wikipedia.org/wiki/File:Bangkok_Baiyoke_Tower.jpg "fig:Bangkok_Baiyoke_Tower.jpg") **バイヨーク・タワー2**(,)は、[タイの首都である](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")にある[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。高さ304m、85階層を誇り、タイでは[マハナコン](https://ja.wikipedia.org/wiki/マハナコン "wikilink")(314m)の次に高く、二番目に高い建造物となる。アメリカの不動産会社[Emporisのランキング](http://www.emporis.com/statistics/worlds-tallest-buildings)では世界第106位。1～2階は衣料品を中心とするショップが並び、3～14階は駐車場スペース、17階より上はバイヨークスカイホテルとなっており、77階に[展望台](https://ja.wikipedia.org/wiki/展望台 "wikilink")が、76階と78階にスカイレストランがある。
+[Bangkok_Baiyoke_Tower.jpg](https://ja.wikipedia.org/wiki/File:Bangkok_Baiyoke_Tower.jpg "fig:Bangkok_Baiyoke_Tower.jpg") **バイヨーク・タワー2**(,)は、[タイの首都である](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")にある[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。高さ304m、85階層を誇り、タイでは[マハナコン](https://ja.wikipedia.org/wiki/マハナコン "wikilink")(314m)の次に高く、二番目に高い建造物となる。アメリカの不動産会社[Emporisのランキング](http://www.emporis.com/statistics/worlds-tallest-buildings)では世界第106位。1～2階は衣料品を中心とするショップが並び、3～14階は駐車場スペース、17階より上はバイヨークスカイホテルとなっており、77階に[展望台](../Page/展望台.md "wikilink")が、76階と78階にスカイレストランがある。
 
 ## 歴史
 
-[1980年代](../Page/1980年代.md "wikilink")後半に[パンルート・バイヨーク](https://ja.wikipedia.org/wiki/パンルート・バイヨーク "wikilink")により計画された。その後[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[バイヨーク・タワー](https://ja.wikipedia.org/wiki/バイヨーク・タワー "wikilink")の建設を経て、オーストラリアとの合弁で正式に[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")正式に着工。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に完成した。その二年後、タワー上部にアンテナが設置され、バイヨークスカイホテルのウェブサイトでは309mと公表されていたが、[高層ビル・都市居住協議会](https://ja.wikipedia.org/wiki/高層ビル・都市居住協議会 "wikilink")はアンテナなしでの高さである304mが正しいとした。バイヨーク・ホテルが入居したのは[1999年](../Page/1999年.md "wikilink")ごろとなる。
+[1980年代](../Page/1980年代.md "wikilink")後半に[パンルート・バイヨーク](https://ja.wikipedia.org/wiki/パンルート・バイヨーク "wikilink")により計画された。その後[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[バイヨーク・タワー](https://ja.wikipedia.org/wiki/バイヨーク・タワー "wikilink")の建設を経て、オーストラリアとの合弁で正式に[1992年](../Page/1992年.md "wikilink")正式に着工。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に完成した。その二年後、タワー上部にアンテナが設置され、バイヨークスカイホテルのウェブサイトでは309mと公表されていたが、[高層ビル・都市居住協議会](https://ja.wikipedia.org/wiki/高層ビル・都市居住協議会 "wikilink")はアンテナなしでの高さである304mが正しいとした。バイヨーク・ホテルが入居したのは[1999年](../Page/1999年.md "wikilink")ごろとなる。
 
 タワー上部のアンテナはタイの民放、[iTV](../Page/ITV_\(タイ\).md "wikilink") (現在、タイの公共放送局ThaiPBS)のものである。
 

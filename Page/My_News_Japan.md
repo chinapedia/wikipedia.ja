@@ -1,11 +1,11 @@
 > この記事は[My News Japan](https://ja.wikipedia.org/wiki/My_News_Japan)から翻訳されています。
 
 
-**My News Japan**は、株式会社MyNewsJapanが運営する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")[ニュース](../Page/ニュース.md "wikilink")[ウェブサイト](../Page/ウェブサイト.md "wikilink")。個人起点のオンラインジャーナリズムを標榜し\[1\]、「現場主義」「誰もが情報発信者」を謳っている。
+**My News Japan**は、株式会社MyNewsJapanが運営する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インターネット](../Page/インターネット.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")[ウェブサイト](../Page/ウェブサイト.md "wikilink")。個人起点のオンラインジャーナリズムを標榜し\[1\]、「現場主義」「誰もが情報発信者」を謳っている。
 
 ## 概要
 
-元[日本経済新聞](../Page/日本経済新聞.md "wikilink")[記者](https://ja.wikipedia.org/wiki/記者 "wikilink")の[渡邉正裕](https://ja.wikipedia.org/wiki/渡邉正裕 "wikilink")（[1972年](../Page/1972年.md "wikilink") -）が運営会社の[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")を務め、また65%の[株式](../Page/株式.md "wikilink")を保有している。[2002年](../Page/2002年.md "wikilink")からベータ版として運営されていたが、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に法人化され正式発足した。渡邉正裕の経歴：日経新聞の記者、IBMのコンサルタントを経て独立。
+元[日本経済新聞](../Page/日本経済新聞.md "wikilink")[記者](../Page/記者.md "wikilink")の[渡邉正裕](https://ja.wikipedia.org/wiki/渡邉正裕 "wikilink")（[1972年](../Page/1972年.md "wikilink") -）が運営会社の[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")を務め、また65%の[株式](../Page/株式.md "wikilink")を保有している。[2002年](../Page/2002年.md "wikilink")からベータ版として運営されていたが、[2004年](../Page/2004年.md "wikilink")に法人化され正式発足した。渡邉正裕の経歴：日経新聞の記者、IBMのコンサルタントを経て独立。
 
 原則として出版に耐えうる内容を編集、掲載しており、2008年までに7冊が単行本として発売されている。
 

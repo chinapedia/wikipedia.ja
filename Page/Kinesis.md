@@ -1,17 +1,17 @@
 > この記事は[Kinesis](https://ja.wikipedia.org/wiki/Kinesis)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Kinesis-Contoured_Keyboard_Classic-1.jpg "wikilink") **Kinesis**（キネシス）は、主に[キーボードなどを製造](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、販売している[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")の[企業](../Page/企業.md "wikilink")。下記のような[人間工学](https://ja.wikipedia.org/wiki/人間工学 "wikilink")に基づいて設計された製品を販売している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Kinesis-Contoured_Keyboard_Classic-1.jpg "wikilink") **Kinesis**（キネシス）は、主に[キーボードなどを製造](../Page/キーボード_\(コンピュータ\).md "wikilink")、販売している[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")の[企業](../Page/企業.md "wikilink")。下記のような[人間工学](../Page/人間工学.md "wikilink")に基づいて設計された製品を販売している。
 
 ## Kinesis Contoured Keyboard
 
 従来の一般的なキーボードの配列は、[タイプライター](../Page/タイプライター.md "wikilink")を元に設計されているため、それぞれの列がレンガの塀の様に少しずつずれているが、電気的なスイッチの集合であるコンピュータ用キーボードではその必然性がない。Contoured Keyboardの配列は歴史的な経緯を引きずらずに、人間工学に基づいて設計された[エルゴノミクスキーボード](https://ja.wikipedia.org/wiki/エルゴノミクスキーボード "wikilink")である。
 
-キーは[どんぶりの底のような](https://ja.wikipedia.org/wiki/丼 "wikilink")、くぼんだ形状にキーがそれぞれの指の長さに合わせて立体的に配置され、打鍵するための移動距離を最小限としている。また[エンター](https://ja.wikipedia.org/wiki/エンターキー "wikilink")、[スペース](https://ja.wikipedia.org/wiki/スペースキー "wikilink")、[コントロール](https://ja.wikipedia.org/wiki/コントロールキー "wikilink")、[オルタネート](https://ja.wikipedia.org/wiki/Altキー "wikilink")、[デリート](https://ja.wikipedia.org/wiki/削除キー "wikilink")、[バックスペース](https://ja.wikipedia.org/wiki/バックスペース "wikilink")キー等、頻繁に使うキーが、従来のキーボードでは活用されることの少ない親指で押せる位置にあり、入力効率を高めている。
+キーは[どんぶりの底のような](https://ja.wikipedia.org/wiki/丼 "wikilink")、くぼんだ形状にキーがそれぞれの指の長さに合わせて立体的に配置され、打鍵するための移動距離を最小限としている。また[エンター](https://ja.wikipedia.org/wiki/エンターキー "wikilink")、[スペース](https://ja.wikipedia.org/wiki/スペースキー "wikilink")、[コントロール](../Page/コントロールキー.md "wikilink")、[オルタネート](https://ja.wikipedia.org/wiki/Altキー "wikilink")、[デリート](https://ja.wikipedia.org/wiki/削除キー "wikilink")、[バックスペース](https://ja.wikipedia.org/wiki/バックスペース "wikilink")キー等、頻繁に使うキーが、従来のキーボードでは活用されることの少ない親指で押せる位置にあり、入力効率を高めている。
 
-ホームポジションの8つのキートップは形状（円形にえぐれている）と色が他のキーと異なり、ホームポジションマーカの役割を果たしている。[ファンクションキー](https://ja.wikipedia.org/wiki/ファンクションキー "wikilink")などの最上段の列以外のキーは製のメカニカルスイッチである「Cherry MX 茶軸」または「Cherry MX 赤軸」が使用されている。
+ホームポジションの8つのキートップは形状（円形にえぐれている）と色が他のキーと異なり、ホームポジションマーカの役割を果たしている。[ファンクションキー](../Page/ファンクションキー.md "wikilink")などの最上段の列以外のキーは製のメカニカルスイッチである「Cherry MX 茶軸」または「Cherry MX 赤軸」が使用されている。
 
-内部に書き換え可能なフラッシュメモリを備えており、[QWERTY配列](../Page/QWERTY配列.md "wikilink")と[Dvorak配列](https://ja.wikipedia.org/wiki/Dvorak配列 "wikilink")を切り替えたり、任意のキーをハードウェアでリマップすることが可能である\[1\]。
+内部に書き換え可能なフラッシュメモリを備えており、[QWERTY配列](../Page/QWERTY配列.md "wikilink")と[Dvorak配列](../Page/Dvorak配列.md "wikilink")を切り替えたり、任意のキーをハードウェアでリマップすることが可能である\[1\]。
 
 専用のフットスイッチ（3ペダルと1ペダル）が販売されており、踏んでいる間だけ数字キーを有効にしたり、本体と同じようにハードウェアレベルでリマップができる。
 
@@ -27,11 +27,11 @@
 
 ### 利用
 
-Kinesisのキーボードは、タイピストやプログラマーなど長時間タイプしている人、のような怪我に対する高いリスクがあるか苦しんでいる人によって使われる。またハードウェアレベルで[Dvorak配列](https://ja.wikipedia.org/wiki/Dvorak配列 "wikilink")に対応しているため、[Dvorak配列](https://ja.wikipedia.org/wiki/Dvorak配列 "wikilink")に慣れ親しんだ人の選択肢にもなっている。
+Kinesisのキーボードは、タイピストやプログラマーなど長時間タイプしている人、のような怪我に対する高いリスクがあるか苦しんでいる人によって使われる。またハードウェアレベルで[Dvorak配列](../Page/Dvorak配列.md "wikilink")に対応しているため、[Dvorak配列](../Page/Dvorak配列.md "wikilink")に慣れ親しんだ人の選択肢にもなっている。
 
-[ハーバード大学医学大学院](https://ja.wikipedia.org/wiki/ハーバード大学医学大学院 "wikilink")教授である[分子病理疫学者の](https://ja.wikipedia.org/wiki/:en:Molecular_pathological_epidemiology "wikilink")[荻野周史](https://ja.wikipedia.org/wiki/荻野周史 "wikilink")は、Kinesisのキーボードを愛用し、[Dvorak配列](https://ja.wikipedia.org/wiki/Dvorak配列 "wikilink")に独自に改良を加えた" modified Dvorak"を開発、仕事の効率化に成功したと述べている\[4\]。
+[ハーバード大学医学大学院](../Page/ハーバード大学医学大学院.md "wikilink")教授である[分子病理疫学者の](https://ja.wikipedia.org/wiki/:en:Molecular_pathological_epidemiology "wikilink")[荻野周史](https://ja.wikipedia.org/wiki/荻野周史 "wikilink")は、Kinesisのキーボードを愛用し、[Dvorak配列](../Page/Dvorak配列.md "wikilink")に独自に改良を加えた" modified Dvorak"を開発、仕事の効率化に成功したと述べている\[4\]。
 
-[親指シフト](https://ja.wikipedia.org/wiki/親指シフト "wikilink")の専用キーボードではないが、親指の位置に[ページアップなどのキーが複数あるため](https://ja.wikipedia.org/wiki/ページアップキーとページダウンキー "wikilink")、[スキャンコード](https://ja.wikipedia.org/wiki/スキャンコード "wikilink")変更ソフトと組み合わせることで代用品とすることが出来る。
+[親指シフト](../Page/親指シフト.md "wikilink")の専用キーボードではないが、親指の位置に[ページアップなどのキーが複数あるため](https://ja.wikipedia.org/wiki/ページアップキーとページダウンキー "wikilink")、[スキャンコード](../Page/スキャンコード.md "wikilink")変更ソフトと組み合わせることで代用品とすることが出来る。
 
 ### 類似した製品
 

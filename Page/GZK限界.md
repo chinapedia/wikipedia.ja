@@ -5,7 +5,7 @@
 
 ## 解説
 
-予想とは 4×10<sup>19</sup>eV以上の宇宙線は1.5億[光年](../Page/光年.md "wikilink")程度の間に必ず4×10<sup>19</sup>eV以下になるというものである。しかし、[オーマイゴッド粒子](https://ja.wikipedia.org/wiki/オーマイゴッド粒子 "wikilink")や1990年から1997年に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙線研究所が[山梨県](../Page/山梨県.md "wikilink")[明野村](https://ja.wikipedia.org/wiki/明野村 "wikilink")に設置した明野広域空気シャワーアレイ(Akeno Giant Air Shower Array;AGASA)\[2\]での観測によりこの限界値を超えた高エネルギー宇宙線が観測され、飛来方向にはエネルギー源となる天体は発見されなかった\[3\]。AGASAの観測結果から高エネルギー宇宙線の到来頻度は 100km 辺り1年間1個程度\[4\]。
+予想とは 4×10<sup>19</sup>eV以上の宇宙線は1.5億[光年](../Page/光年.md "wikilink")程度の間に必ず4×10<sup>19</sup>eV以下になるというものである。しかし、[オーマイゴッド粒子](https://ja.wikipedia.org/wiki/オーマイゴッド粒子 "wikilink")や1990年から1997年に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙線研究所が[山梨県](../Page/山梨県.md "wikilink")[明野村](../Page/明野村.md "wikilink")に設置した明野広域空気シャワーアレイ(Akeno Giant Air Shower Array;AGASA)\[2\]での観測によりこの限界値を超えた高エネルギー宇宙線が観測され、飛来方向にはエネルギー源となる天体は発見されなかった\[3\]。AGASAの観測結果から高エネルギー宇宙線の到来頻度は 100km 辺り1年間1個程度\[4\]。
 
 この謎を解明するために2008年から[ユタ州](../Page/ユタ州.md "wikilink")に建設された観測施設により[テレスコープアレイ実験](https://ja.wikipedia.org/wiki/テレスコープアレイ実験 "wikilink")が行わている\[5\]。
 

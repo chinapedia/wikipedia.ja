@@ -5,12 +5,12 @@
 
 ## 概要
 
-タイトル曲は[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』エンディングテーマに起用された。累計売上は1.6万枚を記録\[1\]。レコーディングにはギタリストとして[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")が参加しており、[小日向歩](https://ja.wikipedia.org/wiki/小日向歩 "wikilink")がカップリング曲「Powder Veil (ayumi obinata mix)」のリミックスを手掛けている。
+タイトル曲は[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』エンディングテーマに起用された。累計売上は1.6万枚を記録\[1\]。レコーディングにはギタリストとして[葛城哲哉](../Page/葛城哲哉.md "wikilink")が参加しており、[小日向歩](https://ja.wikipedia.org/wiki/小日向歩 "wikilink")がカップリング曲「Powder Veil (ayumi obinata mix)」のリミックスを手掛けている。
 
 ## 収録曲
 
 1.  **Powder Veil**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
 2.  **Powder Veil** (sangria mix)
 3.  **Powder Veil** (original backing track)
 4.  **Powder Veil** (ayumi obinata mix)

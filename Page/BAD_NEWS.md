@@ -1,16 +1,16 @@
 > この記事は[BAD NEWS](https://ja.wikipedia.org/wiki/BAD_NEWS)から翻訳されています。
 
 
-『**BAD NEWS**』（バッド・ニュース）は、ロックバンド[ARB](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")（アレキサンダー・ラグタイム・バンド）の2枚目のアルバム。1980年にリリースされた。
+『**BAD NEWS**』（バッド・ニュース）は、ロックバンド[ARB](../Page/ARB_\(バンド\).md "wikilink")（アレキサンダー・ラグタイム・バンド）の2枚目のアルバム。1980年にリリースされた。
 
 ## 収録曲
 
 1.  **乾いた花**
       -
-        （作詞・作曲：[石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")　編曲：ARB）
+        （作詞・作曲：[石橋凌](../Page/石橋凌.md "wikilink")　編曲：ARB）
 2.  **ノクターン・クラブ**
       -
-        （作詞：石橋凌　作曲：[田中一郎](https://ja.wikipedia.org/wiki/田中一郎_\(ミュージシャン\) "wikilink")　編曲：ARB）
+        （作詞：石橋凌　作曲：[田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")　編曲：ARB）
 3.  **お前はいつも女だった**
       -
         （作詞・作曲：石橋凌　編曲：ARB）

@@ -1,9 +1,9 @@
 > この記事は[Spotlight \(Fayray\)](https://ja.wikipedia.org/wiki/Spotlight_\(Fayray\))から翻訳されています。
 
 
-「**Spotlight**」（スポットライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の楽曲で、19枚目のシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")に発売。発売元は[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
+「**Spotlight**」（スポットライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の楽曲で、19枚目のシングル。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に発売。発売元は[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
 
-表題曲は、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[鬼嫁日記](https://ja.wikipedia.org/wiki/鬼嫁日記 "wikilink")』挿入歌。
+表題曲は、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[鬼嫁日記](../Page/鬼嫁日記.md "wikilink")』挿入歌。
 
 ## 収録曲
 

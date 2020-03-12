@@ -6,8 +6,8 @@
 ## 概要
 
   - [1993年](../Page/1993年.md "wikilink")[11月](../Page/11月.md "wikilink")に[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")の休養に伴い、ビーイングの映像管理部門を分社化して設立される。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に放送されたドラマ『[ガラスの仮面](../Page/ガラスの仮面.md "wikilink")』のビデオ発売を皮切りに、ビーイング系アーティストの映像作品及び『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』などタイアップ関連作品を発売するレーベルとして始動する事となる。
-  - 現在は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に親会社であるビーイングに吸収合併され、発売・販売元がBeing名義となっている。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に放送されたドラマ『[ガラスの仮面](../Page/ガラスの仮面.md "wikilink")』のビデオ発売を皮切りに、ビーイング系アーティストの映像作品及び『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』などタイアップ関連作品を発売するレーベルとして始動する事となる。
+  - 現在は[2007年](../Page/2007年.md "wikilink")に親会社であるビーイングに吸収合併され、発売・販売元がBeing名義となっている。
   - ビーイングの吸収によりビーイング系アーティストは個々のレーベルで映像作品を発売するようになった。
 
 ## 主な発売作品
@@ -23,18 +23,18 @@
 <!-- end list -->
 
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")
-      - [LIVE 2004 〜en〜](https://ja.wikipedia.org/wiki/LIVE_2004_〜en〜 "wikilink")（VHS/DVD 2004年12月22日）
+      - [LIVE 2004 〜en〜](../Page/LIVE_2004_〜en〜.md "wikilink")（VHS/DVD 2004年12月22日）
 
 <!-- end list -->
 
-  - [TMG](https://ja.wikipedia.org/wiki/TMG_\(バンド\) "wikilink")
+  - [TMG](../Page/TMG_\(バンド\).md "wikilink")
       - [Dodge The Bullet](https://ja.wikipedia.org/wiki/Dodge_The_Bullet "wikilink")（VHS/DVD 2004年12月15日）
 
 <!-- end list -->
 
   - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
-      - [What a beautiful moment](https://ja.wikipedia.org/wiki/What_a_beautiful_moment "wikilink")　2005年6月8日
-      - [ZARD Le Portfolio 1991-2006](https://ja.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")　2006年10月25日
+      - [What a beautiful moment](../Page/What_a_beautiful_moment.md "wikilink")　2005年6月8日
+      - [ZARD Le Portfolio 1991-2006](../Page/ZARD_Le_Portfolio_1991-2006.md "wikilink")　2006年10月25日
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [B'z](../Page/B'z.md "wikilink")
       - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")
-  - [TMG](https://ja.wikipedia.org/wiki/TMG_\(バンド\) "wikilink")
+  - [TMG](../Page/TMG_\(バンド\).md "wikilink")
   - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")

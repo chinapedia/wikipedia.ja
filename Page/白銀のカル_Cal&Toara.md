@@ -1,9 +1,9 @@
 > この記事は[ Cal\&Toara](https://ja.wikipedia.org/wiki/_Cal\&Toara)から翻訳されています。
 
 
-『**白銀のカル Cal\&Toara**』（しろがねのカル カル・アンド・トアラ）は、[竹内なおゆき](https://ja.wikipedia.org/wiki/竹内なおゆき "wikilink")：作・[駒都えーじ](https://ja.wikipedia.org/wiki/駒都えーじ "wikilink")：画の小説作品。『[コンプティーク](../Page/コンプティーク.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月号から8月号まで連載された。
+『**白銀のカル Cal\&Toara**』（しろがねのカル カル・アンド・トアラ）は、[竹内なおゆき](../Page/竹内なおゆき.md "wikilink")：作・[駒都えーじ](../Page/駒都えーじ.md "wikilink")：画の小説作品。『[コンプティーク](../Page/コンプティーク.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）[2007年](../Page/2007年.md "wikilink")1月号から8月号まで連載された。
 
-[工画堂スタジオ](https://ja.wikipedia.org/wiki/工画堂スタジオ "wikilink")・[くまさんちーむ](https://ja.wikipedia.org/wiki/くまさんちーむ "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")「[蒼い海のトリスティア](https://ja.wikipedia.org/wiki/蒼い海のトリスティア "wikilink")」「[蒼い空のネオスフィア](https://ja.wikipedia.org/wiki/蒼い空のネオスフィア "wikilink")」と共通の世界観を有する[Deep-Blueシリーズ](https://ja.wikipedia.org/wiki/Deep-Blueシリーズ "wikilink")の一作品。
+[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")・[くまさんちーむ](https://ja.wikipedia.org/wiki/くまさんちーむ "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")「[蒼い海のトリスティア](../Page/蒼い海のトリスティア.md "wikilink")」「[蒼い空のネオスフィア](../Page/蒼い空のネオスフィア.md "wikilink")」と共通の世界観を有する[Deep-Blueシリーズ](../Page/Deep-Blueシリーズ.md "wikilink")の一作品。
 
 ## ストーリー
 
@@ -23,7 +23,7 @@
 
 ## 関連項目
 
-  - [暁のアマネカと蒼い巨神](https://ja.wikipedia.org/wiki/暁のアマネカと蒼い巨神 "wikilink")
+  - [暁のアマネカと蒼い巨神](../Page/暁のアマネカと蒼い巨神.md "wikilink")
 
 ## 外部リンク
 

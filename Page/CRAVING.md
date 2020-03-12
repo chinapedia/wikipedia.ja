@@ -5,14 +5,14 @@
 
 ## 概要
 
-オリコン最高位10位にランクインし、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の作品ではシングル、アルバムを通じて初のトップ10入りを果たした。累計売上は7.6万枚を記録\[1\]。収録曲「[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")」は後にシングルカットされた。「UNTOUCHABLE GIRLS」は[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の9thシングル「[THUNDERBIRD](https://ja.wikipedia.org/wiki/THUNDERBIRD_\(T.M.Revolutionの曲\) "wikilink")」のカップリング曲「アンタッチャブルGirls」のカバー。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
+オリコン最高位10位にランクインし、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の作品ではシングル、アルバムを通じて初のトップ10入りを果たした。累計売上は7.6万枚を記録\[1\]。収録曲「[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")」は後にシングルカットされた。「UNTOUCHABLE GIRLS」は[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の9thシングル「[THUNDERBIRD](https://ja.wikipedia.org/wiki/THUNDERBIRD_\(T.M.Revolutionの曲\) "wikilink")」のカップリング曲「アンタッチャブルGirls」のカバー。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
 ## 収録曲
 
 1.  **in four～Love　Always，**
       - 作曲/編曲：[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")
 2.  **[太陽のグラヴィティー](../Page/太陽のグラヴィティー.md "wikilink")**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲/編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲/編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
 3.  **Neon Tetra**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
 4.  **[Daydream Cafe](../Page/Daydream_Cafe.md "wikilink")**
@@ -22,7 +22,7 @@
 6.  **[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
 7.  **[YURA・YURA～Vibration](https://ja.wikipedia.org/wiki/YURA・YURA～Vibration "wikilink")**
-      - 作詞：井上秋緒　作曲/編曲：浅倉大介　ブラスアレンジ：[数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")
+      - 作詞：井上秋緒　作曲/編曲：浅倉大介　ブラスアレンジ：[数原晋](../Page/数原晋.md "wikilink")
 8.  **UNTOUCHABLE GIRLS**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
 9.  **[Powder Veil](../Page/Powder_Veil.md "wikilink")**
@@ -34,13 +34,13 @@
 ## 参加ミュージシャン
 
   - プログラミング&キーボード：[浅倉大介](../Page/浅倉大介.md "wikilink")（M-2,3,4,5,6,7,8,9,10,11）
-  - ギター：[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")（M-2,3,4,7,9）
-  - ギター：[是永巧一](https://ja.wikipedia.org/wiki/是永巧一 "wikilink")（M-10）
+  - ギター：[葛城哲哉](../Page/葛城哲哉.md "wikilink")（M-2,3,4,7,9）
+  - ギター：[是永巧一](../Page/是永巧一.md "wikilink")（M-10）
   - ピアノ：[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")（M-1）
   - サックス：[ボブ・ザング](https://ja.wikipedia.org/wiki/ボブ・ザング "wikilink")（M-7）
-  - トランペット：[数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")（M-7）
+  - トランペット：[数原晋](../Page/数原晋.md "wikilink")（M-7）
   - コーラス：浅倉大介（M-2,4,6）
-  - コーラス：[坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink")（M-2）
+  - コーラス：[坪倉唯子](../Page/坪倉唯子.md "wikilink")（M-2）
   - コーラス：[斉藤久美](https://ja.wikipedia.org/wiki/斉藤久美 "wikilink")（M-3,4,5,6,8,9,10）
   - コーラス：[吉川智子](https://ja.wikipedia.org/wiki/吉川智子 "wikilink")（M-3）
   - コーラス：[大滝裕子](https://ja.wikipedia.org/wiki/大滝裕子 "wikilink")（M-3）

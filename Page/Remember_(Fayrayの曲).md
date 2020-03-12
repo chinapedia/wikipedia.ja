@@ -7,14 +7,14 @@
 
 ## 解説
 
-アルバム『[白い花](https://ja.wikipedia.org/wiki/白い花_\(アルバム\) "wikilink")』（2003年）には、[小林哲](https://ja.wikipedia.org/wiki/小林哲 "wikilink")が編曲を担当した別バージョンが収録された。カップリング曲「Private　Eyes」は、[ダリル・ホール&ジョン・オーツ](https://ja.wikipedia.org/wiki/ダリル・ホール&ジョン・オーツ "wikilink")が1981年に発表した曲のカバー。
+アルバム『[白い花](../Page/白い花_\(アルバム\).md "wikilink")』（2003年）には、[小林哲](../Page/小林哲.md "wikilink")が編曲を担当した別バージョンが収録された。カップリング曲「Private　Eyes」は、[ダリル・ホール&ジョン・オーツ](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink")が1981年に発表した曲のカバー。
 
 ## 収録曲
 
 1.  Remember
       -
         （作詞・作曲：[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")／編曲：[春川仁志](https://ja.wikipedia.org/wiki/春川仁志 "wikilink")）
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink") 2002[横浜国際女子駅伝](https://ja.wikipedia.org/wiki/横浜国際女子駅伝 "wikilink")イメージソング
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink") 2002[横浜国際女子駅伝](../Page/横浜国際女子駅伝.md "wikilink")イメージソング
 2.  Private　Eyes
       -
         （作詞・作曲：Daryl Hall、Warren Pash、Sara Allen、Janna Allen／編曲：春川仁志）

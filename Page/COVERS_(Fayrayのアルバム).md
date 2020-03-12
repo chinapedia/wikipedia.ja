@@ -3,24 +3,24 @@
 
 『**COVERS**』（カバーズ）は、日本の女性歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の6枚目のアルバム。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")に[R and Cよりリリースされた](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")に[R and Cよりリリースされた](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
 
 ## 解説
 
-[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")自身の友人や知り合いを集め、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")でレコーディングされた作品。[マーク・リボー](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")、[ショーン・レノン](https://ja.wikipedia.org/wiki/ショーン・レノン "wikilink")、[54-71](https://ja.wikipedia.org/wiki/54-71 "wikilink")らが演奏で参加している。
+[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")自身の友人や知り合いを集め、[ニューヨーク](../Page/ニューヨーク.md "wikilink")でレコーディングされた作品。[マーク・リボー](https://ja.wikipedia.org/wiki/マーク・リボー "wikilink")、[ショーン・レノン](../Page/ショーン・レノン.md "wikilink")、[54-71](../Page/54-71.md "wikilink")らが演奏で参加している。
 
 ## 収録曲
 
 1.  **Heaven**
       - [ザ・サイケデリック・ファーズ](https://ja.wikipedia.org/wiki/ザ・サイケデリック・ファーズ "wikilink")のカバー。
 2.  **[Dreams](https://ja.wikipedia.org/wiki/ドリームス_\(フリートウッド・マックの曲\) "wikilink")**
-      - [フリートウッド・マック](https://ja.wikipedia.org/wiki/フリートウッド・マック "wikilink")のカバー。
+      - [フリートウッド・マック](../Page/フリートウッド・マック.md "wikilink")のカバー。
 3.  **Angel**
       - [ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")のカバー。
 4.  **[The First Time Ever I Saw Your Face](https://ja.wikipedia.org/wiki/愛は面影の中に "wikilink")**
-      - [ロバータ・フラック](https://ja.wikipedia.org/wiki/ロバータ・フラック "wikilink")のカバー。
+      - [ロバータ・フラック](../Page/ロバータ・フラック.md "wikilink")のカバー。
 5.  **I Wanna Be Free**
-      - [モンキーズ](https://ja.wikipedia.org/wiki/モンキーズ "wikilink")のカバー。
+      - [モンキーズ](../Page/モンキーズ.md "wikilink")のカバー。
 6.  **Tiny Dancer**
       - [エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")のカバー。
 7.  **This Is Love**
@@ -28,9 +28,9 @@
 8.  **Moonchild**
       - [キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")のカバー。
 9.  **I Believe In You**
-      - [ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング "wikilink")のカバー。
+      - [ニール・ヤング](../Page/ニール・ヤング.md "wikilink")のカバー。
 10. **The Wind**
-      - [キャット・スティーヴンス](https://ja.wikipedia.org/wiki/キャット・スティーヴンス "wikilink")のカバー。
+      - [キャット・スティーヴンス](../Page/キャット・スティーヴンス.md "wikilink")のカバー。
     <!-- end list -->
       -
         シークレット・トラックにMy Foolish Heartを収録。

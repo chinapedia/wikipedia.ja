@@ -7,15 +7,15 @@
 
 ## 解説
 
-アルバム『[白い花](https://ja.wikipedia.org/wiki/白い花_\(アルバム\) "wikilink")』（2003年）には、[大賀好修](../Page/大賀好修.md "wikilink")が編曲を担当した別バージョンが収録された。
+アルバム『[白い花](../Page/白い花_\(アルバム\).md "wikilink")』（2003年）には、[大賀好修](../Page/大賀好修.md "wikilink")が編曲を担当した別バージョンが収録された。
 
 ## 収録曲
 
 1.  Over
       -
-        （作詞・作曲：[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")／編曲：[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")）
+        （作詞・作曲：[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")／編曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")）
         [カネボウ](../Page/クラシエホールディングス.md "wikilink")「KATE」CMソング
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[倫敦音楽館 Lon-mu](https://ja.wikipedia.org/wiki/倫敦音楽館_Lon-mu "wikilink")」エンディングテーマ
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[倫敦音楽館 Lon-mu](../Page/倫敦音楽館_Lon-mu.md "wikilink")」エンディングテーマ
 2.  I Touch Myself
       -
         （作詞・作曲：Billy Steinberg, Tom Kelly, Mark McEntee, Christina Amphlett／編曲：佐橋佳幸）

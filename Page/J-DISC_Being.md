@@ -1,17 +1,17 @@
 > この記事は[J-DISC Being](https://ja.wikipedia.org/wiki/J-DISC_Being)から翻訳されています。
 
 
-**J-DISC Being**（ジェイディスクビーイング）は、かつて存在した[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、主に[ビーイング](../Page/ビーイング.md "wikilink")グループが発売する音楽ソフトの販売を担当する企業であった。
+**J-DISC Being**（ジェイディスクビーイング）は、かつて存在した[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、主に[ビーイング](../Page/ビーイング.md "wikilink")グループが発売する音楽ソフトの販売を担当する企業であった。
 
 2007年にビーイングが当社とB-Gram RECORDSとVERMILLION RECORDSを事実上吸収した。
 
 ## 沿革
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月12日](https://ja.wikipedia.org/wiki/1月12日 "wikilink")- 東京都港区六本木に設立（設立当時の社名はJ-DISC）
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月12日](../Page/1月12日.md "wikilink")- 東京都港区六本木に設立（設立当時の社名はJ-DISC）
 
 <!-- end list -->
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [B-Gram RECORDSに関する企画](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")・販売を開始
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [B-Gram RECORDSに関する企画](../Page/B-Gram_RECORDS.md "wikilink")・販売を開始
 
 <!-- end list -->
 
@@ -19,15 +19,15 @@
 
 <!-- end list -->
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [ZAIN RECORDSに関する企画](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")・販売を開始
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [ZAIN RECORDSに関する企画](../Page/ZAIN_RECORDS.md "wikilink")・販売を開始
 
 <!-- end list -->
 
-  - [1996年](../Page/1996年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - Rooms RECORDS（現[VERMILLION RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")）に関する企画・販売を開始
+  - [1996年](../Page/1996年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - Rooms RECORDS（現[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）に関する企画・販売を開始
 
 <!-- end list -->
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月1日](../Page/9月1日.md "wikilink") - [Amemura O-town Recordに関する企画](https://ja.wikipedia.org/wiki/Amemura_O-town_Record "wikilink")・販売を開始
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月1日](../Page/9月1日.md "wikilink") - [Amemura O-town Recordに関する企画](../Page/Amemura_O-town_Record.md "wikilink")・販売を開始
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [NORTHERN MUSICに関する企画](https://ja.wikipedia.org/wiki/NORTHERN_MUSIC "wikilink")・販売を開始
+  - [2007年](../Page/2007年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [NORTHERN MUSICに関する企画](../Page/NORTHERN_MUSIC.md "wikilink")・販売を開始
 
 <!-- end list -->
 
@@ -48,14 +48,14 @@
 ## 企画・販売を担当していた企業
 
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
-  - [B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")
+  - [B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")
       - ZAIN RECORDS
-      - [NORTHERN MUSIC](https://ja.wikipedia.org/wiki/NORTHERN_MUSIC "wikilink")
-  - [VERMILLION RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")
-  - [B-VISION](https://ja.wikipedia.org/wiki/B-VISION "wikilink")
+      - [NORTHERN MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")
+  - [VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")
+  - [B-VISION](../Page/B-VISION.md "wikilink")
   - [TENT HOUSE](https://ja.wikipedia.org/wiki/TENT_HOUSE "wikilink")（インディーズレーベル）
 
-上記以外に、[株式会社レイズイン（REY'S IN）系インディーズレーベルの販売も行っていた](https://ja.wikipedia.org/wiki/レイズイン "wikilink")。
+上記以外に、[株式会社レイズイン（REY'S IN）系インディーズレーベルの販売も行っていた](../Page/レイズイン.md "wikilink")。
 
   - [サウストゥノースレコーズ](https://ja.wikipedia.org/wiki/サウストゥノースレコーズ "wikilink")
       - South to North Records
@@ -63,7 +63,7 @@
 
 ## 参考文献
 
-  - リクナビ「[リクナビ：株式会社　ジェイディスク ビーイング](http://www.rikunabi2007.com/RN/cgi-bin/KDBG00100.cgi?SEDAI_CD=07&KOKYAKU_ID=1541745001&MAGIC=)」　[リクナビ](https://ja.wikipedia.org/wiki/リクナビ "wikilink")、2006年5月12日。
+  - リクナビ「[リクナビ：株式会社　ジェイディスク ビーイング](http://www.rikunabi2007.com/RN/cgi-bin/KDBG00100.cgi?SEDAI_CD=07&KOKYAKU_ID=1541745001&MAGIC=)」　[リクナビ](../Page/リクナビ.md "wikilink")、2006年5月12日。
 
 ## 関連項目
 

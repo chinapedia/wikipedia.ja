@@ -1,13 +1,13 @@
 > この記事は[A.R.B.](https://ja.wikipedia.org/wiki/A.R.B.)から翻訳されています。
 
 
-『**A.R.B.**』は、ロックバンド[ARB](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")（アレキサンダー・ラグタイム・バンド）の1枚目のアルバム。1979年発表。
+『**A.R.B.**』は、ロックバンド[ARB](../Page/ARB_\(バンド\).md "wikilink")（アレキサンダー・ラグタイム・バンド）の1枚目のアルバム。1979年発表。
 
 ## 収録曲
 
 1.  **ワイルド・ローティーン・ガール**
       -
-        （作詞・作曲：[石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")　編曲：ARB）
+        （作詞・作曲：[石橋凌](../Page/石橋凌.md "wikilink")　編曲：ARB）
 2.  **悲歌（エレジー）**
       -
         （作詞・作曲：ENMA　編曲：ARB）

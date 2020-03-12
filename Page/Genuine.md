@@ -26,6 +26,6 @@
 
       -
         全作詞・作曲：Fayray（M-10 CHRIS STEIN / DEBORAH HARRY）
-        全編曲：[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")（M-10 Remixed by [森俊彦](https://ja.wikipedia.org/wiki/森俊彦 "wikilink")）
+        全編曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")（M-10 Remixed by [森俊彦](https://ja.wikipedia.org/wiki/森俊彦 "wikilink")）
 
 [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink") [Category:アンティノスレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アンティノスレコードのアルバム "wikilink") [Category:Fayrayのアルバム](https://ja.wikipedia.org/wiki/Category:Fayrayのアルバム "wikilink")

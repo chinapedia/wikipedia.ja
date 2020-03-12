@@ -9,11 +9,11 @@
 
   - 1915年 - SIAI(Società Idrovolanti Alta Italia)として設立。
   - 1920年 - サヴォイア航空機製造株式会社 (Società Anonima Costruzioni Aeronautiche Savoia) を吸収して、SIAI-サヴォイア (SIAI-Savoia) となる。
-  - 1922年 - [コーリ出身の技師アレッサンドロ](https://ja.wikipedia.org/wiki/コーリ_\(ラティーナ県\) "wikilink")・マルケッティが参加。
+  - 1922年 - [コーリ出身の技師アレッサンドロ](../Page/コーリ_\(ラティーナ県\).md "wikilink")・マルケッティが参加。
   - 1937年 - 同名他社との混同を避け、マルケッティの名を附して、サヴォイア・マルケッティ (Savoia-Marchetti) とした。
   - 1944年 - SIAI-マルケッティと改称。
-  - 1983年 - 大株主であった[アグスタ](https://ja.wikipedia.org/wiki/アグスタ "wikilink")に吸収される。
-  - 1997年 - アエルマッキ（現在は[アレーニア・アエルマッキ](https://ja.wikipedia.org/wiki/アレーニア・アエルマッキ "wikilink")）の一部門となった。
+  - 1983年 - 大株主であった[アグスタ](../Page/アグスタ.md "wikilink")に吸収される。
+  - 1997年 - アエルマッキ（現在は[アレーニア・アエルマッキ](../Page/アレーニア・アエルマッキ.md "wikilink")）の一部門となった。
 
 ## 主な製品
 
@@ -54,14 +54,14 @@
   - S.M.76
   - S.M.77
   - S.78
-  - [S.M.79](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_SM.79 "wikilink")
+  - [S.M.79](../Page/サヴォイア・マルケッティ_SM.79.md "wikilink")
   - S.80
-  - [S.M.81](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_SM.81 "wikilink")
+  - [S.M.81](../Page/サヴォイア・マルケッティ_SM.81.md "wikilink")
   - S.M.82
   - S.M.83
   - S.84
-  - [S.M.84](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_SM.84 "wikilink")
-  - [S.M.85](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_SM.85 "wikilink")
+  - [S.M.84](../Page/サヴォイア・マルケッティ_SM.84.md "wikilink")
+  - [S.M.85](../Page/サヴォイア・マルケッティ_SM.85.md "wikilink")
   - S.M.86
   - S.M.87
   - S.M.88

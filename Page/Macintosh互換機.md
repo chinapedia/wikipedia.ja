@@ -1,7 +1,7 @@
 > この記事は[Macintosh](https://ja.wikipedia.org/wiki/Macintosh)から翻訳されています。
 
 
-**Macintosh互換機**（マッキントッシュごかんき）は、[アップルの](../Page/アップル_\(企業\).md "wikilink")[Mac OSを搭載し](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")と[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")を有する[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。**Mac OS互換機**、**マック・クローン**とも呼ばれる。
+**Macintosh互換機**（マッキントッシュごかんき）は、[アップルの](../Page/アップル_\(企業\).md "wikilink")[Mac OSを搭載し](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")と[互換性](../Page/互換性.md "wikilink")を有する[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。**Mac OS互換機**、**マック・クローン**とも呼ばれる。
 
 広義ではアップルの[ライセンス](../Page/ライセンス.md "wikilink")を受けているか否かにかかわらずMacintoshの互換機全般を指し、狭義では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃にかけてアップルのライセンスを受けて発売されたMacintoshの互換機を指す。本項では後者について説明する。
 
@@ -15,7 +15,7 @@
 
 1995年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")には[米国でパワーコンピューティング](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") ([Power Computing](https://ja.wikipedia.org/wiki/:en:Power_Computing "wikilink")) とラディウス ([Radius](https://ja.wikipedia.org/wiki/:en:Radius_\(computer\) "wikilink")) がMacintosh互換機を発売。その後、米国では[モトローラ](../Page/モトローラ.md "wikilink")\[1\]、デイスターデジタル（[DayStar Digital](https://ja.wikipedia.org/wiki/:en:DayStar_Digital "wikilink")）、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[UMAX](https://ja.wikipedia.org/wiki/UMAX "wikilink")からもMacintosh互換機が発売された。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては、1995年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")が初の互換機を発売。IBMからサブライセンスを受けUMAXからロジックボードの提供を受けた[アキア](https://ja.wikipedia.org/wiki/アキア "wikilink")\[2\]からも互換機が発売されたほか、モトローラ、ラディウス、デイスターデジタル、UMAXも日本市場へ参入した。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては、1995年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")が初の互換機を発売。IBMからサブライセンスを受けUMAXからロジックボードの提供を受けた[アキア](../Page/アキア.md "wikilink")\[2\]からも互換機が発売されたほか、モトローラ、ラディウス、デイスターデジタル、UMAXも日本市場へ参入した。
 
 各社から発売された製品は、マルチプロセッサーモデル、音質に力を入れたモデルなどの多彩なものであった。しかしながら、この頃にはMacintoshも十分に安価になっており、互換機の価格面でのアドバンテージはさほど大きなものではなかった。
 
@@ -29,10 +29,10 @@
 
 ## 主要な互換機メーカー
 
-  - [アキア](https://ja.wikipedia.org/wiki/アキア "wikilink")：MicroBook Powerシリーズ - [省スペースパソコン](https://ja.wikipedia.org/wiki/省スペースパソコン "wikilink")
+  - [アキア](../Page/アキア.md "wikilink")：MicroBook Powerシリーズ - [省スペースパソコン](../Page/省スペースパソコン.md "wikilink")
   - デイスターデジタル ([DayStar Digital](https://ja.wikipedia.org/wiki/:en:DayStar_Digital "wikilink"))：Genesis MPシリーズ - マルチ・プロセッサーモデル
   - [モトローラ](../Page/モトローラ.md "wikilink")：StarMaxシリーズ
-  - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")：[MPCシリーズ](https://ja.wikipedia.org/wiki/MPC_\(パーソナルコンピュータ\) "wikilink") - 高音質なスピーカーを搭載
+  - [パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")：[MPCシリーズ](../Page/MPC_\(パーソナルコンピュータ\).md "wikilink") - 高音質なスピーカーを搭載
   - [MaxxBoxx](https://ja.wikipedia.org/wiki/MaxxBoxx "wikilink")
   - パワーコンピューティング ([Power Computing](https://ja.wikipedia.org/wiki/:en:Power_Computing "wikilink"))：PowerTower Pro、PowerCenter、PowerBaseシリーズ
   - ラディウス ([Radius](https://ja.wikipedia.org/wiki/:en:Radius_\(computer\) "wikilink"))：System 100、System 81/110 - 画像処理やDTPに特化

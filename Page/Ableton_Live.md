@@ -1,7 +1,7 @@
 > この記事は[Ableton Live](https://ja.wikipedia.org/wiki/Ableton_Live)から翻訳されています。
 
 
-**Ableton Live**（エイブルトン ライヴ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のAbleton社による[Macintosh](../Page/Macintosh.md "wikilink")と[Windows用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デスクトップオーディオワークステーションソフトウェア](https://ja.wikipedia.org/wiki/デジタル・オーディオ・ワークステーション "wikilink")。最新のメジャーリリースはバージョン10。競合類似ソフトと同様に、MIDIシーケンスデータとオーディオデータの両方を扱うことができる。[Steinberg](https://ja.wikipedia.org/wiki/Steinberg "wikilink")の[VST](https://ja.wikipedia.org/wiki/VST "wikilink")プラグイン規格に準拠しており（ただしVST3.0以降には未対応）、サードパーティのプラグインシンセサイザーやプラグインエフェクターを導入して機能を拡張させることができる。
+**Ableton Live**（エイブルトン ライヴ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のAbleton社による[Macintosh](../Page/Macintosh.md "wikilink")と[Windows用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デスクトップオーディオワークステーションソフトウェア](../Page/デジタル・オーディオ・ワークステーション.md "wikilink")。最新のメジャーリリースはバージョン10。競合類似ソフトと同様に、MIDIシーケンスデータとオーディオデータの両方を扱うことができる。[Steinberg](https://ja.wikipedia.org/wiki/Steinberg "wikilink")の[VST](https://ja.wikipedia.org/wiki/VST "wikilink")プラグイン規格に準拠しており（ただしVST3.0以降には未対応）、サードパーティのプラグインシンセサイザーやプラグインエフェクターを導入して機能を拡張させることができる。
 
 ## 概要
 
@@ -13,9 +13,9 @@ Ableton LiveのパッケージはSuite、Standard、そして機能限定版のI
 
 ## 歴史
 
-Ableton Liveは、[C++](../Page/C++.md "wikilink")で書かれ、商業ソフトウェアのひとつとして2001年に最初のバージョンがリリースされた。よく言われるようにLiveは[Max/MSP](https://ja.wikipedia.org/wiki/Max/MSP "wikilink")で[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")されたわけではないが、オーディオデバイスのいくつかのモデルに用いられた\[1\]。
+Ableton Liveは、[C++](../Page/C++.md "wikilink")で書かれ、商業ソフトウェアのひとつとして2001年に最初のバージョンがリリースされた。よく言われるようにLiveは[Max/MSP](https://ja.wikipedia.org/wiki/Max/MSP "wikilink")で[プロトタイプ](../Page/プロトタイプ.md "wikilink")されたわけではないが、オーディオデバイスのいくつかのモデルに用いられた\[1\]。
 
-2009年4月に8がリリースされ、バージョン8.4から[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Macintosh](../Page/Macintosh.md "wikilink")ともに64ビットにも対応した（但し一部の機能に制限がある\[2\]）。2013年3月に約4年ぶりのバージョンアップとなる9が発売された。[Cycling '74が開発していた信号処理ソフトウェアMAXとの連携を深めるため](https://ja.wikipedia.org/wiki/Cycling_'74 "wikilink")、上位エディションのSuite 9ではMAXの機能限定版であるMAX for Liveが提供されるようになった。また[AKAI Professionalとの協業によるパッドハードウェアコントローラのPushにも対応した](https://ja.wikipedia.org/wiki/AKAI_professional "wikilink")（Pushはその後、独自開発のPush2に置き換わった）。
+2009年4月に8がリリースされ、バージョン8.4から[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Macintosh](../Page/Macintosh.md "wikilink")ともに64ビットにも対応した（但し一部の機能に制限がある\[2\]）。2013年3月に約4年ぶりのバージョンアップとなる9が発売された。[Cycling '74が開発していた信号処理ソフトウェアMAXとの連携を深めるため](https://ja.wikipedia.org/wiki/Cycling_'74 "wikilink")、上位エディションのSuite 9ではMAXの機能限定版であるMAX for Liveが提供されるようになった。また[AKAI Professionalとの協業によるパッドハードウェアコントローラのPushにも対応した](../Page/AKAI_professional.md "wikilink")（Pushはその後、独自開発のPush2に置き換わった）。
 
 2018年3月に5年ぶりのバージョンアップとなる10が発売された。以前からAbleton Liveと密接な関係にあった[Cycling '74を](https://ja.wikipedia.org/wiki/Cycling_'74 "wikilink")2017年7月に吸収したことで、MAXとの統合がより深化している。Push2の対応機能がより豊富になった。上位版のSuiteでは、新しいソフトウェアシンセサイザーのWavetableや、コンボリューションリバーブを利用できるようになった。
 
@@ -45,7 +45,7 @@ Ableton Liveは、[C++](../Page/C++.md "wikilink")で書かれ、商業ソフト
 
 ## 関連項目
 
-  - [ミュージックシーケンサー](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - [ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")
   - [デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")
 
 ## 外部リンク

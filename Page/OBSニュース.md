@@ -1,7 +1,7 @@
 > この記事は[OBS](https://ja.wikipedia.org/wiki/OBS)から翻訳されています。
 
 
-『**OBSニュース**』（オービーエスニュース）は、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")で放送されている[大分合同新聞](../Page/大分合同新聞.md "wikilink")協力の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まではOBSラジオのみで放送されていたが、[OBSニュースライン](https://ja.wikipedia.org/wiki/OBSニュースライン "wikilink")終了に伴い翌30日よりOBSテレビでもスポットニュースに限り、同タイトルでの放送が再開された。
+『**OBSニュース**』（オービーエスニュース）は、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")で放送されている[大分合同新聞](../Page/大分合同新聞.md "wikilink")協力の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まではOBSラジオのみで放送されていたが、[OBSニュースライン](../Page/OBSニュースライン.md "wikilink")終了に伴い翌30日よりOBSテレビでもスポットニュースに限り、同タイトルでの放送が再開された。
 
 ## テレビ
 
@@ -38,7 +38,7 @@
   - このオープニング映像は平日15時台および土日夕方のニュースにおいて用いられる。また、金・土・日21時台オープニングはタイトルロゴの静止画のみが出現。
   - JNN NEWSに内包される場合のスポットニュースでは全国パート終了後、上段にOBS（3代目正式ロゴ）、下段にNEWSと表記された静止画が数秒間掲出された後、本編に入る（これと似たケースは過去に別の[JNN系列局でも実施していた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）。
   - 2010年以降、カラースキームは[OBSイブニングニュース](https://ja.wikipedia.org/wiki/OBSイブニングニュース "wikilink")と同様に白と黄緑を使用する。ただし見出しテロップに若干の違いが見られるほか、出演者表示などはJNN仕様のものをそのまま流用している。
-      - [総力報道\!THE NEWSが放送されていた](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")2009年度、JNN系列局の一部においては、各ニュース番組にて使用する[テロップを](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[TBSと同一デザインのもの](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")（紺・イエロー基調）に統一していたが、出演者、見出しテロップに限ればOBSテレビではデザインのベースこそ類似しながらも、メインカラーには水色・グレーを基調としたOBS独自の仕様となっていた。
+      - [総力報道\!THE NEWSが放送されていた](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")2009年度、JNN系列局の一部においては、各ニュース番組にて使用する[テロップを](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[TBSと同一デザインのもの](../Page/TBSテレビ.md "wikilink")（紺・イエロー基調）に統一していたが、出演者、見出しテロップに限ればOBSテレビではデザインのベースこそ類似しながらも、メインカラーには水色・グレーを基調としたOBS独自の仕様となっていた。
   - 2013年4月以降のテロップは「[JNNニュース](../Page/JNNニュース.md "wikilink")」と同一の仕様となっている。
   - 平日15時台のニュースの最後では、当日の「OBSイブニングニュース」で放送予定の内容が紹介される。
 
@@ -85,7 +85,7 @@
 
 ## 関連項目
 
-  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[TGM \(\)](https://ja.wikipedia.org/wiki/TGM_\(\))から翻訳されています。
 
 
-**TGM**（**Tunis-Goulette-Marsa**）は、[チュニジア](../Page/チュニジア.md "wikilink")の首都[チュニス](https://ja.wikipedia.org/wiki/チュニス "wikilink")とその郊外を結ぶ鉄道路線である。チュニス市内から、[カルタゴ](../Page/カルタゴ.md "wikilink")遺跡や[シディ・ブ・サイド](https://ja.wikipedia.org/wiki/シディ・ブ・サイド "wikilink")などの観光地への安価で便利な交通機関としても親しまれている\[1\]。
+**TGM**（**Tunis-Goulette-Marsa**）は、[チュニジア](../Page/チュニジア.md "wikilink")の首都[チュニス](../Page/チュニス.md "wikilink")とその郊外を結ぶ鉄道路線である。チュニス市内から、[カルタゴ](../Page/カルタゴ.md "wikilink")遺跡や[シディ・ブ・サイド](https://ja.wikipedia.org/wiki/シディ・ブ・サイド "wikilink")などの観光地への安価で便利な交通機関としても親しまれている\[1\]。
 
 ## 路線データ
 

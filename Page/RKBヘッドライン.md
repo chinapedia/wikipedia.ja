@@ -9,7 +9,7 @@
 
 以前の題名は毎正時に『**RKB毎日ニュース**』、30分が『**RKBヘッドライン**』であったが後に統合され、現在は7時・正午（12時）・17時が『**RKBラジオニュース**』、それ以外の毎正時は『**RKBヘッドライン**』という形に改まった。
 
-オープニングに、以前は『[爆れつハンター](../Page/爆れつハンター.md "wikilink")』のオープニング曲「[What's Up Guys?](https://ja.wikipedia.org/wiki/What's_Up_Guys? "wikilink")」のアウトロ部分が使われていたが、現在は『Larry Dunn Orchestra』の『Jahop』が使われている。
+オープニングに、以前は『[爆れつハンター](../Page/爆れつハンター.md "wikilink")』のオープニング曲「[What's Up Guys?](../Page/What's_Up_Guys?.md "wikilink")」のアウトロ部分が使われていたが、現在は『Larry Dunn Orchestra』の『Jahop』が使われている。
 
 ### テレビ
 
@@ -19,7 +19,7 @@
 
 ### 取材範囲
 
-テレビのローカルニュースでは[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")のみならず[佐賀県](../Page/佐賀県.md "wikilink")のニュースも一部取材・報道している（佐賀県にある県域テレビ局は[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（SAGA TV/sts）と[NHK佐賀のみ](../Page/NHK佐賀放送局.md "wikilink")。[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）・[NHK福岡以外の在福局](../Page/NHK福岡放送局.md "wikilink")=RKB・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）・[福岡放送](../Page/福岡放送.md "wikilink")（FBS）・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")は佐賀県のニュースも一部取材・報道）。
+テレビのローカルニュースでは[福岡県](../Page/福岡県.md "wikilink")のみならず[佐賀県](../Page/佐賀県.md "wikilink")のニュースも一部取材・報道している（佐賀県にある県域テレビ局は[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（SAGA TV/sts）と[NHK佐賀のみ](../Page/NHK佐賀放送局.md "wikilink")。[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）・[NHK福岡以外の在福局](../Page/NHK福岡放送局.md "wikilink")=RKB・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）・[福岡放送](../Page/福岡放送.md "wikilink")（FBS）・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")は佐賀県のニュースも一部取材・報道）。
 
 ラジオでは、佐賀県内ニュースを[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")・[NRN系列で全国報道する際の取材担当局はRKBや九州朝日放送ではなく](../Page/全国ラジオネットワーク.md "wikilink")、[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")となっている。
 
@@ -122,7 +122,7 @@ RKBラジオの公式タイムテーブルに基づく。
 
 **夕方**
 
-  - 土曜 17:44頃 - 17:49頃（『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』に[内包](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")）
+  - 土曜 17:44頃 - 17:49頃（『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』に[内包](../Page/つなぎ番組.md "wikilink")）
   - 日曜 17:45 - 17:54 （『Nスタ』に内包）
 
 **深夜**
@@ -137,7 +137,7 @@ RKBラジオの公式タイムテーブルに基づく。
 
 ## 関連項目
 
-  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
 ## 外部リンク

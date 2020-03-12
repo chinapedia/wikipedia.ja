@@ -1,14 +1,14 @@
 > この記事は[ANOTHER LIFE](https://ja.wikipedia.org/wiki/ANOTHER_LIFE)から翻訳されています。
 
 
-**ANOTHER LIFE**（**アナザーライフ**）は、[SHUのデビューシングル](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")。
+**ANOTHER LIFE**（**アナザーライフ**）は、[SHUのデビューシングル](../Page/池森秀一.md "wikilink")。
 
 ## 解説
 
-  - リリース当時は「R\&B系期待の大型新人」として、正体を明かしていなかった。これは本人の「[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")のヴォーカリストという先入観を抜いて聴いて欲しい」という意図による。ただしインナーフォトで（分かりにくくなってはいるが）顔が確認でき、c/wに同バンドの[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")が参加していた。後にDEENのFC会報で正式に正体を語った。
+  - リリース当時は「R\&B系期待の大型新人」として、正体を明かしていなかった。これは本人の「[DEEN](../Page/DEEN.md "wikilink")のヴォーカリストという先入観を抜いて聴いて欲しい」という意図による。ただしインナーフォトで（分かりにくくなってはいるが）顔が確認でき、c/wに同バンドの[田川伸治](../Page/田川伸治.md "wikilink")が参加していた。後にDEENのFC会報で正式に正体を語った。
   - DEENも参加した日韓共同アルバム「PROJECT 2002 The Monsters」に韓国の歌手Positionとのデュエット「For You」を収録して後は、SHU名義による活動はない。
-  - なお「ANOTHER LIFE」は韓国映画「[猟奇的な彼女](https://ja.wikipedia.org/wiki/猟奇的な彼女 "wikilink")」にDEEN名義による英語版が使用され、韓国版のサントラと『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』に収録されている。
-  - 「YOU MAKE FEEL BRAND NEW」は[スタイリスティックス](https://ja.wikipedia.org/wiki/スタイリスティックス "wikilink")のカヴァー曲。
+  - なお「ANOTHER LIFE」は韓国映画「[猟奇的な彼女](../Page/猟奇的な彼女.md "wikilink")」にDEEN名義による英語版が使用され、韓国版のサントラと『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』に収録されている。
+  - 「YOU MAKE FEEL BRAND NEW」は[スタイリスティックス](../Page/スタイリスティックス.md "wikilink")のカヴァー曲。
 
 ## 収録曲
 
@@ -41,14 +41,14 @@
 
 ## タイアップ
 
-  - TBS系全国ネット 『[オフレコ\!](https://ja.wikipedia.org/wiki/オフレコ! "wikilink")』エンディングテーマ。
+  - TBS系全国ネット 『[オフレコ\!](../Page/オフレコ!.md "wikilink")』エンディングテーマ。
 
 ## 関連項目
 
-  - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")
+  - [TBS](../Page/TBSテレビ.md "wikilink")
   - [BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")
   - [RCAアリオラジャパン](https://ja.wikipedia.org/wiki/RCAアリオラジャパン "wikilink")
-  - [BERG レーベル](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink")
+  - [BERG レーベル](../Page/BERG_レーベル.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
 [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

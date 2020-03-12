@@ -1,7 +1,7 @@
 > この記事は[Cue!!](https://ja.wikipedia.org/wiki/Cue!!)から翻訳されています。
 
 
-『**うさぎちゃんでCue \!\!**』（うさぎちゃんでキュー）は、[佐野タカシ](https://ja.wikipedia.org/wiki/佐野タカシ "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")。[ヤングキングアワーズ](https://ja.wikipedia.org/wiki/ヤングキングアワーズ "wikilink")（[少年画報社](../Page/少年画報社.md "wikilink")）で連載された。
+『**うさぎちゃんでCue \!\!**』（うさぎちゃんでキュー）は、[佐野タカシ](../Page/佐野タカシ.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")。[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")（[少年画報社](../Page/少年画報社.md "wikilink")）で連載された。
 
 ## アニメ
 
@@ -14,17 +14,17 @@
   - 観月深紅 - [川澄綾子](../Page/川澄綾子.md "wikilink")
   - 猫井コーシュカ - [根谷美智子](../Page/根谷美智子.md "wikilink")
   - 弁天の丁 - [中尾隆聖](../Page/中尾隆聖.md "wikilink")
-  - じっちゃん - [城山堅](https://ja.wikipedia.org/wiki/城山堅 "wikilink")
-  - かあさん - [佐久間紅美](https://ja.wikipedia.org/wiki/佐久間紅美 "wikilink")
-  - 影 - [千田光男](https://ja.wikipedia.org/wiki/千田光男 "wikilink")
+  - じっちゃん - [城山堅](../Page/城山堅.md "wikilink")
+  - かあさん - [佐久間紅美](../Page/佐久間紅美.md "wikilink")
+  - 影 - [千田光男](../Page/千田光男.md "wikilink")
 
 ### スタッフ
 
   - 監督 - [吉田徹](../Page/吉田徹.md "wikilink")　
   - 助監督 - ずいぎょうえいご
-  - 脚本 - [平野秀朗](https://ja.wikipedia.org/wiki/平野秀朗 "wikilink")　
-  - キャラクターデザイン・オープニング作画監督 - [木村貴宏](https://ja.wikipedia.org/wiki/木村貴宏 "wikilink")　
-  - 絵コンテ - 吉田徹（第1巻）、[もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")（第2巻）、大島康弘（第3巻）
+  - 脚本 - [平野秀朗](../Page/平野秀朗.md "wikilink")　
+  - キャラクターデザイン・オープニング作画監督 - [木村貴宏](../Page/木村貴宏.md "wikilink")　
+  - 絵コンテ - 吉田徹（第1巻）、[もりやまゆうじ](../Page/森山雄治.md "wikilink")（第2巻）、大島康弘（第3巻）
   - 演出 - もりやまゆうじ（第1巻）、吉田徹（第2巻）、大島康弘（第3巻）
   - 作画監督 - もりやまゆうじ（第1巻）、中本尚子（第2巻）、大島康弘（第3巻）
   - 美術監督 - 佐藤寛子　
@@ -33,17 +33,17 @@
   - 撮影監督 - 安津畑隆　
   - 編集 - [小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")　
   - 音楽 - [上田益](https://ja.wikipedia.org/wiki/上田益 "wikilink")
-  - 音響監督 - [高桑一](https://ja.wikipedia.org/wiki/高桑一 "wikilink")
-  - 音響プロデューサー - [飯塚康一](https://ja.wikipedia.org/wiki/飯塚康一 "wikilink")
+  - 音響監督 - [高桑一](../Page/高桑一.md "wikilink")
+  - 音響プロデューサー - [飯塚康一](../Page/飯塚康一.md "wikilink")
   - プロデューサー - 乱交太郎
   - アニメーション制作プロデューサー - 榎本歩光
-  - アニメーション制作 - [カオスプロジェクト](https://ja.wikipedia.org/wiki/カオスプロジェクト "wikilink")
+  - アニメーション制作 - [カオスプロジェクト](../Page/カオスプロジェクト.md "wikilink")
   - 企画・製作 - MISTY MOON
 
 ### 主題歌
 
   - オープニングテーマ「もう一度エナジー」
-    作詞 - [及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink") / 作曲 - [chihiro](https://ja.wikipedia.org/wiki/chihiro "wikilink") / 編曲 - 上田益 / 歌 - [五條真由美](https://ja.wikipedia.org/wiki/五條真由美 "wikilink")
+    作詞 - [及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink") / 作曲 - [chihiro](https://ja.wikipedia.org/wiki/chihiro "wikilink") / 編曲 - 上田益 / 歌 - [五條真由美](../Page/五條真由美.md "wikilink")
   - エンディングテーマ「想いをあなたに」
     作詞 - 及川眠子 / 作曲 - [前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") / 編曲 - 上田益 / 歌 - [茂呂田かおる](../Page/茂呂田かおる.md "wikilink")
 

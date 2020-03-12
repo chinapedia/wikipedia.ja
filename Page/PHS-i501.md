@@ -7,7 +7,7 @@
 
 ## 歴史
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")：[電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink") （設計認証番号A06-0585001）
+  - [2007年](../Page/2007年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")：[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink") （設計認証番号A06-0585001）
   - 2007年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")：[テレコムエンジニアリングセンター](https://ja.wikipedia.org/wiki/テレコムエンジニアリングセンター "wikilink")による[技術基準適合証明の工事設計認証](https://ja.wikipedia.org/wiki/技術基準適合証明#工事設計認証 "wikilink") （工事設計認証番号001JXAA1155）
 
 ## 仕様
@@ -17,7 +17,7 @@
   - 重量：77g
   - 連続通話時間：約300分
   - 連続待受時間：約300時間
-  - [充電](https://ja.wikipedia.org/wiki/充電 "wikilink")時間：約3時間
+  - [充電](../Page/充電.md "wikilink")時間：約3時間
   - USB Cable
   - ディスプレイ：2インチTFT[液晶](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")
   - カラー：65536色

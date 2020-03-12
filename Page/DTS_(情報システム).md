@@ -1,7 +1,7 @@
 > この記事は[DTS \(\)](https://ja.wikipedia.org/wiki/DTS_\(\))から翻訳されています。
 
 
-**株式会社DTS**（ディーティーエス、）は、 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、独立系のシステムインテグレーターである。金融・通信向けの開発実績や強みを持っている。[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")第一部上場（証券コード:9682）。
+**株式会社DTS**（ディーティーエス、）は、 [東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、独立系のシステムインテグレーターである。金融・通信向けの開発実績や強みを持っている。[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部上場（証券コード:9682）。
 
 ## 沿革
 
@@ -13,9 +13,9 @@
   - [1999年](../Page/1999年.md "wikilink")9月 - 東京証券取引所市場第一部に上場。
   - [2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - データリンクス株式会社の株式取得による子会社化。
   - [2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 「株式会社データ通信システム」から「株式会社DTS」に社名変更。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[6月](../Page/6月.md "wikilink") - 港区新橋六丁目に本社新館完成、移転。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 中京地区での営業拠点として、名古屋市中区に中京支社を開設。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink") - 日本SE株式会社の株式取得による子会社化。
+  - [2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink") - 港区新橋六丁目に本社新館完成、移転。
+  - [2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 中京地区での営業拠点として、名古屋市中区に中京支社を開設。
+  - [2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink") - 日本SE株式会社の株式取得による子会社化。
   - [2014年](../Page/2014年.md "wikilink")4月 - アートシステム株式会社及び横河ディジタルコンピュータ株式会社の株式取得による子会社化。
   - [2017年](../Page/2017年.md "wikilink")4月 - 子会社の横河ディジタルコンピュータ株式会社がアートシステム株式会社を吸収合併し、株式会社DTSインサイトに商号変更。
   - 2017年8月 - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")上場であった子会社のデータリンクス株式会社を[株式交換](../Page/株式交換.md "wikilink")により完全子会社化。

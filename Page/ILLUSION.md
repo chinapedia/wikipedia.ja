@@ -3,17 +3,17 @@
 
 **ILLUSION**（イリュージョン）とは、株式会社[アイワン](https://ja.wikipedia.org/wiki/アイワン "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドの1つである。略して「イリュ」と呼ばれることもある。
 
-1992年に[ハート電子産業](https://ja.wikipedia.org/wiki/ハート電子産業 "wikilink")の新ブランドとして発足後、1996年に株式会社アイワンが設立された。ハート電子産業から独立したメーカーとして株式会社[インターハート](https://ja.wikipedia.org/wiki/インターハート "wikilink")がある。 “視覚的エンターテイメント”としての意味合いがブランド名の由来にある\[1\]。
+1992年に[ハート電子産業](https://ja.wikipedia.org/wiki/ハート電子産業 "wikilink")の新ブランドとして発足後、1996年に株式会社アイワンが設立された。ハート電子産業から独立したメーカーとして株式会社[インターハート](../Page/インターハート.md "wikilink")がある。 “視覚的エンターテイメント”としての意味合いがブランド名の由来にある\[1\]。
 
 設立当初は、一般的なアダルトゲームを作成していたが、1995年5月18日に初の[3DCGアダルトゲーム](../Page/3次元コンピュータグラフィックス.md "wikilink")『監禁』を発売、1997年2月14日に発売された『魔界』より、キャラクターや背景などに3DCGを多用する様になり、2001年8月24日発売の『[INTERACT PLAY VR](https://ja.wikipedia.org/wiki/INTERACT_PLAY_VR "wikilink")』以降の作品から、ユーザーのPC上でのリアルタイム描画の3DCGを主に扱う様になっている。これらのことより3DCGブランドとして知られる様になった。
 
 また、主人公になりきって直接操作、体感するタイプのゲームジャンルの製作も多く、2017年2月に発売された[仮想現実](https://ja.wikipedia.org/wiki/仮想現実 "wikilink")ゲーム『[VRカノジョ](https://ja.wikipedia.org/wiki/VRカノジョ "wikilink")』のヒットでも知られるようになった。同年7月には『VRカノジョ』に関連した[ハッカソン](https://ja.wikipedia.org/wiki/ハッカソン "wikilink")が開かれたほか、VRコンテンツを中心に扱うブランド「ILLUSION VR」（のちのIVR）の設立が発表された\[2\]。
 
-イリュージョンコアやイリュージョンプロ、Vision、MOTION、Dreams、mixwill soft、[TEATIME](https://ja.wikipedia.org/wiki/TEATIME "wikilink")、FULLTIMEといった多くの姉妹ブランドが存在していたが、現在活動しているのはILLUSIONとIVRのみである。なお、TEATIMEとFULLTIMEについては、公式ホームページのトップページに姉妹ブランドとしてリンクされている。
+イリュージョンコアやイリュージョンプロ、Vision、MOTION、Dreams、mixwill soft、[TEATIME](../Page/TEATIME.md "wikilink")、FULLTIMEといった多くの姉妹ブランドが存在していたが、現在活動しているのはILLUSIONとIVRのみである。なお、TEATIMEとFULLTIMEについては、公式ホームページのトップページに姉妹ブランドとしてリンクされている。
 
 ## 作品一覧
 
-姉妹ブランドのVision、MOTION、Dreams、mixwill softも説明する。TEATIMEとFULLTIMEは[TEATIME](https://ja.wikipedia.org/wiki/TEATIME "wikilink")を参照。☆は**非**3DCG作品。
+姉妹ブランドのVision、MOTION、Dreams、mixwill softも説明する。TEATIMEとFULLTIMEは[TEATIME](../Page/TEATIME.md "wikilink")を参照。☆は**非**3DCG作品。
 
 ### ILLUSION
 
@@ -44,13 +44,13 @@
   - 2001年1月12日 - 〜リバーシブルフェイス〜 尾行２(ロットアップ)
   - 2001年3月9日 - ですぶら運動会 〜イシスの逆襲〜(ロットアップ)
   - 2001年6月29日 - レクイエムハーツ 〜監禁〜(ロットアップ)
-  - 2002年4月19日 - [Battle Raper](https://ja.wikipedia.org/wiki/バトルレイパー "wikilink")(ロットアップ)(DL終了)
+  - 2002年4月19日 - [Battle Raper](../Page/バトルレイパー.md "wikilink")(ロットアップ)(DL終了)
   - 2002年9月13日 - DES BLOOD4 〜LOST ALONE〜(ロットアップ)
   - 2003年3月28日 - DBVR(ロットアップ)(DL終了)
   - 2004年1月30日 - 尾行3(ロットアップ)
   - 2004年6月25日 - A-GA 〜激動の惑星〜(ロットアップ)
   - 2004年11月26日 - [人工少女2](https://ja.wikipedia.org/wiki/人工少女#人工少女2 "wikilink")(ロットアップ)(DL終了)
-  - 2005年4月22日 - [Battle RaperII 〜THE GAME〜](https://ja.wikipedia.org/wiki/バトルレイパー "wikilink")
+  - 2005年4月22日 - [Battle RaperII 〜THE GAME〜](../Page/バトルレイパー.md "wikilink")
   - 2005年11月25日 - おっぱいスライダー2(ロットアップ)(DL終了)
   - 2006年4月21日 - [レイプレイ](https://ja.wikipedia.org/wiki/レイプレイ "wikilink")
   - 2006年9月29日 - [Sexyビーチ3](https://ja.wikipedia.org/wiki/Sexyビーチ#Sexyビーチ3 "wikilink")(ロットアップ)(DL終了)
@@ -110,7 +110,7 @@
   - 2018年8月1日\[5\] - Vカツ（[バーチャルキャスト](https://ja.wikipedia.org/wiki/バーチャルキャスト "wikilink")、[バーチャルYoutuber](https://ja.wikipedia.org/wiki/バーチャルYoutuber "wikilink")支援ソフト、コイカツと非互換性）
   - 2018年8月1日\[6\] - つんつんVR
   - 夏予定 - VRカノジョSUMMER VACATION
-  - 2020年初頭予定\[7\] - [VRカレシ](https://ja.wikipedia.org/wiki/VRカレシ "wikilink")
+  - 2020年初頭予定\[7\] - [VRカレシ](../Page/VRカレシ.md "wikilink")
 
 ### Vision
 
@@ -140,7 +140,7 @@
   - 2000年6月9日 - DANCING CAT's
   - 2000年11月3日 - INTERACT PLAY(ロットアップ)
   - 2001年8月24日 - INTERACT PLAY VR
-  - 2002年4月19日 - [バトルレイパー](https://ja.wikipedia.org/wiki/バトルレイパー "wikilink")
+  - 2002年4月19日 - [バトルレイパー](../Page/バトルレイパー.md "wikilink")
   - 2003年7月11日 - [Sexyビーチ2](https://ja.wikipedia.org/wiki/Sexyビーチ#Sexyビーチ2 "wikilink")
       - 2003年9月12日 - [ちくちくビーチ 〜みんな大好き〜](https://ja.wikipedia.org/wiki/Sexyビーチ#Sexyビーチ2 "wikilink")
 
@@ -162,7 +162,7 @@
 
 ## 問題
 
-2006年に発売された[レイプレイ](https://ja.wikipedia.org/wiki/レイプレイ "wikilink")に対し、2009年2月に[Amazon.com](../Page/Amazon.com.md "wikilink")でディーラーズ販売([Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")における[マーケットプレイス](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonマーケットプレイス "wikilink")）されていた本作を[イギリス国会議員の](https://ja.wikipedia.org/wiki/イギリスの議会 "wikilink")[キース・ヴァズ](https://ja.wikipedia.org/wiki/キース・ヴァズ "wikilink")が自らの不祥事の話題をそらす為に取り上げ\[9\]\[10\] Amazon.comでの販売が中止となった。この段階では日本国内での報道は一部の海外ゲーム系ニュースサイトに限られていた\[11\]が、同年5月には[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラディカル・フェミニズム](https://ja.wikipedia.org/wiki/ラディカル・フェミニズム "wikilink")団体「イクオリティ・ナウ」が日本での販売中止を求める抗議活動を起こし日本国内でも大々的に報道された。同団体は会員3万人に、日本政府の要人らに向けた「性暴力ゲーム」規制要求の抗議文を出すよう呼びかけている\[12\]。
+2006年に発売された[レイプレイ](https://ja.wikipedia.org/wiki/レイプレイ "wikilink")に対し、2009年2月に[Amazon.com](../Page/Amazon.com.md "wikilink")でディーラーズ販売([Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")における[マーケットプレイス](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonマーケットプレイス "wikilink")）されていた本作を[イギリス国会議員の](../Page/イギリスの議会.md "wikilink")[キース・ヴァズ](https://ja.wikipedia.org/wiki/キース・ヴァズ "wikilink")が自らの不祥事の話題をそらす為に取り上げ\[9\]\[10\] Amazon.comでの販売が中止となった。この段階では日本国内での報道は一部の海外ゲーム系ニュースサイトに限られていた\[11\]が、同年5月には[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラディカル・フェミニズム](https://ja.wikipedia.org/wiki/ラディカル・フェミニズム "wikilink")団体「イクオリティ・ナウ」が日本での販売中止を求める抗議活動を起こし日本国内でも大々的に報道された。同団体は会員3万人に、日本政府の要人らに向けた「性暴力ゲーム」規制要求の抗議文を出すよう呼びかけている\[12\]。
 
 ## 脚注
 
@@ -176,10 +176,10 @@
 
 ## 関連項目
 
-  - [Team IMPUL](https://ja.wikipedia.org/wiki/ホシノインパル "wikilink") - スポンサー。
+  - [Team IMPUL](../Page/ホシノインパル.md "wikilink") - スポンサー。
   - [ハート電子産業](https://ja.wikipedia.org/wiki/ハート電子産業 "wikilink") - アイワンの前身。
-  - [インターハート](https://ja.wikipedia.org/wiki/インターハート "wikilink") - アイワンと同じくハート電子産業から独立したアダルトゲームメーカー。
-  - [TEATIME](https://ja.wikipedia.org/wiki/TEATIME "wikilink") - 姉妹ブランド。
+  - [インターハート](../Page/インターハート.md "wikilink") - アイワンと同じくハート電子産業から独立したアダルトゲームメーカー。
+  - [TEATIME](../Page/TEATIME.md "wikilink") - 姉妹ブランド。
 
 ## 外部リンク
 

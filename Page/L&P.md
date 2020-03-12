@@ -1,7 +1,7 @@
 > この記事は[L\&P](https://ja.wikipedia.org/wiki/L\&P)から翻訳されています。
 
 
-**L\&P**は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")が主催する[チャリティー](https://ja.wikipedia.org/wiki/チャリティー "wikilink")ライブイベントである。
+**L\&P**は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")が主催する[チャリティー](../Page/チャリティー.md "wikilink")ライブイベントである。
 
 ## 概要
 
@@ -9,13 +9,13 @@
 
 [DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")のTakutoが中学時代に、アフリカの病院に車椅子を買う資金を寄付するためのチャリティーライブを行い、その時の喜びがL\&Pを企画した動機となっている。
 
-イベントの最後に演奏される[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")と[Lime Aliveによる](https://ja.wikipedia.org/wiki/Lime_Alive "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")曲「World」がL\&Pの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")である。
+イベントの最後に演奏される[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")と[Lime Aliveによる](https://ja.wikipedia.org/wiki/Lime_Alive "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")曲「World」がL\&Pの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")である。
 
 ## 過去のイベント
 
 ### L\&P Vol.0(新宿MARZ)
 
-2007年3月9日に、新宿の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")[MARZ](https://ja.wikipedia.org/wiki/MARZ "wikilink")で行われた。これが初のL\&Pである。
+2007年3月9日に、新宿の[ライブハウス](../Page/ライブハウス.md "wikilink")[MARZ](https://ja.wikipedia.org/wiki/MARZ "wikilink")で行われた。これが初のL\&Pである。
 
   - 出演者
       - [DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")
@@ -30,13 +30,13 @@
 
 ### L\&P Vol.1(原宿ASTRO HALL)
 
-2007年8月31日に、原宿の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")[Astro Hallで行われた](https://ja.wikipedia.org/wiki/Astro_Hall "wikilink")。
+2007年8月31日に、原宿の[ライブハウス](../Page/ライブハウス.md "wikilink")[Astro Hallで行われた](https://ja.wikipedia.org/wiki/Astro_Hall "wikilink")。
 
   - 出演者
       - [DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")
       - [Lime Alive](https://ja.wikipedia.org/wiki/Lime_Alive "wikilink")
       - [Spyritus](https://ja.wikipedia.org/wiki/Spyritus "wikilink")
-      - [CO-KEY](https://ja.wikipedia.org/wiki/CO-KEY "wikilink")
+      - [CO-KEY](../Page/CO-KEY.md "wikilink")
       - [ICHI](https://ja.wikipedia.org/wiki/ICHI "wikilink")（オープニングアクト）
   - 関連物
       - L\&Pリストバンド(緑と黒を販売し、寄付)

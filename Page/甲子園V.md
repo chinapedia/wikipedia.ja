@@ -1,11 +1,11 @@
 > この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
 
 
-[甲子園 (ゲーム)](https://ja.wikipedia.org/wiki/甲子園_\(ゲーム\) "wikilink") \> 甲子園V
+[甲子園 (ゲーム)](../Page/甲子園_\(ゲーム\).md "wikilink") \> 甲子園V
 
-**甲子園V**（こうしえん5）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[魔法から発売された](https://ja.wikipedia.org/wiki/魔法_\(ゲーム会社\) "wikilink")[プレイステーション用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。魔法が開発の高校野球ゲーム[甲子園シリーズの第](https://ja.wikipedia.org/wiki/甲子園_\(ゲーム\) "wikilink")5作である。
+**甲子園V**（こうしえん5）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[魔法から発売された](../Page/魔法_\(ゲーム会社\).md "wikilink")[プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。魔法が開発の高校野球ゲーム[甲子園シリーズの第](../Page/甲子園_\(ゲーム\).md "wikilink")5作である。
 
-2011年3月25日に[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")（GA）として配信開始（配信元は[ガンホー・オンライン・エンターテイメント](https://ja.wikipedia.org/wiki/ガンホー・オンライン・エンターテイメント "wikilink")）。
+2011年3月25日に[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")（GA）として配信開始（配信元は[ガンホー・オンライン・エンターテイメント](../Page/ガンホー・オンライン・エンターテイメント.md "wikilink")）。
 
 ## 概要
 

@@ -1,20 +1,20 @@
 > この記事は[BoA THE LIVE 2006 --](https://ja.wikipedia.org/wiki/BoA_THE_LIVE_2006_--)から翻訳されています。
 
 
-**BoA THE LIVE 2006 -裏ボア…聴かせ系-**（ボア・ザ・ライブ2006 うらボア きかせけい）は、2006年に開催された[韓国出身の女性歌手である](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[BoA](../Page/BoA.md "wikilink")のライブツアーである。ここでは、同ライブツアー終了後に開催された**「BoA THE LIVE 2006“20th Birthday”」**及び**「SHIDAX presents“Winter Love”X'mas LIVE」**についても記述する。
+**BoA THE LIVE 2006 -裏ボア…聴かせ系-**（ボア・ザ・ライブ2006 うらボア きかせけい）は、2006年に開催された[韓国出身の女性歌手である](../Page/大韓民国.md "wikilink")[BoA](../Page/BoA.md "wikilink")のライブツアーである。ここでは、同ライブツアー終了後に開催された**「BoA THE LIVE 2006“20th Birthday”」**及び**「SHIDAX presents“Winter Love”X'mas LIVE」**についても記述する。
 
 ## 日程・開催地
 
 BoA THE LIVE 2006 -裏ボア…聴かせ系-
 
-1.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")：ZEPP NAGOYA
+1.  [2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")：ZEPP NAGOYA
 2.  2006年[9月30日](../Page/9月30日.md "wikilink")：ZEPP NAGOYA
 3.  2006年[10月7日](../Page/10月7日.md "wikilink")：ZEPP FUKUOKA
 4.  2006年[10月8日](../Page/10月8日.md "wikilink")：ZEPP FUKUOKA
-5.  2006年[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")：ZEPP OSAKA
+5.  2006年[10月13日](../Page/10月13日.md "wikilink")：ZEPP OSAKA
 6.  2006年[10月14日](../Page/10月14日.md "wikilink")：ZEPP OSAKA
 7.  2006年[10月17日](../Page/10月17日.md "wikilink")：ZEPP TOKYO
-8.  2006年[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")：ZEPP TOKYO
+8.  2006年[10月18日](../Page/10月18日.md "wikilink")：ZEPP TOKYO
 9.  2006年[10月21日](../Page/10月21日.md "wikilink")：ZEPP SENDAI
 10. 2006年[10月22日](../Page/10月22日.md "wikilink")：ZEPP SENDAI
 11. 2006年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")：ZEPP SAPPORO

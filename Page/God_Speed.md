@@ -1,7 +1,7 @@
 > この記事は[God Speed](https://ja.wikipedia.org/wiki/God_Speed)から翻訳されています。
 
 
-『**God Speed**』（ゴッド・スピード）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の11th[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[evolutionから発売された](https://ja.wikipedia.org/wiki/ドワンゴ・エージー・エンタテインメント "wikilink")。
+『**God Speed**』（ゴッド・スピード）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の11th[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[evolutionから発売された](https://ja.wikipedia.org/wiki/ドワンゴ・エージー・エンタテインメント "wikilink")。
 
 ## 概要
 
@@ -9,18 +9,18 @@
 
 ## 収録曲
 
-（全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：奥井雅美）
+（全[作詞](../Page/作詞.md "wikilink")：奥井雅美）
 
 1.  **wild cat**
       - [作曲](../Page/作曲.md "wikilink")：[IPPEI](https://ja.wikipedia.org/wiki/IPPEI "wikilink")、[編曲](../Page/編曲.md "wikilink")：[Nils](https://ja.wikipedia.org/wiki/Nils "wikilink")
 2.  **SUBLIMINAL**
       - 作曲・編曲：[Monta](https://ja.wikipedia.org/wiki/Monta "wikilink")
 3.  **God Speed**
-      - 作曲：Monta、編曲：[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")
+      - 作曲：Monta、編曲：[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")
 4.  **[蜜-mitsu-](https://ja.wikipedia.org/wiki/蜜-mitsu- "wikilink")**
       - 作曲：奥井雅美、編曲：Monta
 5.  **Red**
-      - 作曲：奥井雅美、編曲：[鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink")
+      - 作曲：奥井雅美、編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")
 6.  **Last Sun**
       - 作曲・編曲：[上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")
 7.  **Timeliness**
@@ -38,9 +38,9 @@
 
 ## タイアップ
 
-| 曲名       | タイアップ                                                                                                                                                                                                                                                                                                            | 備考                                                                 |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 蜜-mitsu- | [DVDドラマ](../Page/オリジナルビデオ.md "wikilink")『[RAY](https://ja.wikipedia.org/wiki/RAY_\(漫画\) "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[アニメTV](https://ja.wikipedia.org/wiki/アニメTV "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") | 32nd[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。      |
-| Gift     | DVDドラマ『Gift』主題歌                                                                                                                                                                                                                                                                                                  | 33rdシングルの[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。 |
+| 曲名       | タイアップ                                                                                                                                                                                                                                | 備考                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| 蜜-mitsu- | [DVDドラマ](../Page/オリジナルビデオ.md "wikilink")『[RAY](../Page/RAY_\(漫画\).md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[アニメTV](../Page/アニメTV.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink") | 32nd[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。      |
+| Gift     | DVDドラマ『Gift』主題歌                                                                                                                                                                                                                      | 33rdシングルの[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。 |
 
 [Category:奥井雅美のアルバム](https://ja.wikipedia.org/wiki/Category:奥井雅美のアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:ドワンゴのアルバム](https://ja.wikipedia.org/wiki/Category:ドワンゴのアルバム "wikilink")

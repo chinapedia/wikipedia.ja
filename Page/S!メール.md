@@ -1,17 +1,17 @@
 > この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
 
 
-**S\!メール**（エス！メール）とは、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が自社の携帯電話向けに提供する[MMS機能の名称であり](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")、[SoftBank 3G向け](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")に付随するサービスの一つである。
+**S\!メール**（エス！メール）とは、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が自社の携帯電話向けに提供する[MMS機能の名称であり](../Page/マルチメディアメッセージングサービス.md "wikilink")、[SoftBank 3G向け](../Page/SoftBank_3G.md "wikilink")[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")に付随するサービスの一つである。
 
 ## 概要
 
 [S\!ベーシックパック](https://ja.wikipedia.org/wiki/S!ベーシックパック "wikilink")内の1機能であり、S\!ベーシックパックを契約をすることにより利用が可能。
 
-独自のプッシュ型Eメールを採用する競合他社とは違い、国際標準的なMMS(マルチメディアメッセージングサービス)そのものである。そのため、ファイル添付や長文が可能な高機能メールでありながらソフトバンクモバイル内や、海外電気通信事業者のMMS対応携帯電話とは電話番号のみでのメッセージ送受信が可能である。また、同時に[電子メール](../Page/電子メール.md "wikilink")アドレスも付加される事により×××@softbank.ne.jpドメインでの[プッシュ型電子メール](https://ja.wikipedia.org/wiki/プッシュ型電子メール "wikilink")サービスとしても利用することができる。また、×××@i.softbank.jpドメインなどもある。
+独自のプッシュ型Eメールを採用する競合他社とは違い、国際標準的なMMS(マルチメディアメッセージングサービス)そのものである。そのため、ファイル添付や長文が可能な高機能メールでありながらソフトバンクモバイル内や、海外電気通信事業者のMMS対応携帯電話とは電話番号のみでのメッセージ送受信が可能である。また、同時に[電子メール](../Page/電子メール.md "wikilink")アドレスも付加される事により×××@softbank.ne.jpドメインでの[プッシュ型電子メール](../Page/プッシュ型電子メール.md "wikilink")サービスとしても利用することができる。また、×××@i.softbank.jpドメインなどもある。
 
-ボーダフォン時代は、単に**[MMS](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")**と呼ばれていたが、ソフトバンクモバイルに社名変更後は、**S\!メール**となった。
+ボーダフォン時代は、単に**[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")**と呼ばれていたが、ソフトバンクモバイルに社名変更後は、**S\!メール**となった。
 
-現在は、全角30,000文字程度の送受信が可能となり、一部機種では、最大2[MBの添付の送受信が可能となっている](https://ja.wikipedia.org/wiki/メガバイト "wikilink")。[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")には写真や動画のほかに、[Wordや](../Page/Microsoft_Word.md "wikilink")[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")なども可能となっている。また通常のEメールをケータイメールと同じような感覚で送受信したりすることも可能になった。「カメラ付きケータイ」と共に、写メールやムービー写メールなどを大手3社の中で初めて開始した。
+現在は、全角30,000文字程度の送受信が可能となり、一部機種では、最大2[MBの添付の送受信が可能となっている](../Page/メガバイト.md "wikilink")。[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")には写真や動画のほかに、[Wordや](../Page/Microsoft_Word.md "wikilink")[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")なども可能となっている。また通常のEメールをケータイメールと同じような感覚で送受信したりすることも可能になった。「カメラ付きケータイ」と共に、写メールやムービー写メールなどを大手3社の中で初めて開始した。
 
 メールの種類は、S\!メール（MMS）の他に、[SMSもあるが](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")、分類としては別のものである。
 
@@ -35,10 +35,10 @@ S\!メール・SMS比較
 <!-- end list -->
 
   -
-    同社では、ボーダフォン時代から[3G機種のメール添付容量を](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")300KBとしていたが、2009年春モデルから最大1MBまでの添付ファイルを送受信することが可能になった。その後の2009年秋冬モデルからは2MBまでの添付ファイルを送受信することが可能になった。
+    同社では、ボーダフォン時代から[3G機種のメール添付容量を](../Page/SoftBank_3G.md "wikilink")300KBとしていたが、2009年春モデルから最大1MBまでの添付ファイルを送受信することが可能になった。その後の2009年秋冬モデルからは2MBまでの添付ファイルを送受信することが可能になった。
       - 大容量の写真やムービーは圧縮され1MBに収める機能や従来の300KBまでしか受信できない機種向けに300KB以下に抑える機能もある。
       - 300KBのメールを作成するか1MBのメールを作成するか決めることができる。
-    ※ 当然であるが、1-2MB相当の[ファイルを添付すると](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")[パケット](../Page/パケット.md "wikilink")通信料も増えることになる。
+    ※ 当然であるが、1-2MB相当の[ファイルを添付すると](../Page/ファイル_\(コンピュータ\).md "wikilink")[パケット](../Page/パケット.md "wikilink")通信料も増えることになる。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ S\!メール・SMS比較
 <!-- end list -->
 
   -
-    2008年の春モデルから順次対応し、特殊な設定をすれば、[Yahoo\!メール](https://ja.wikipedia.org/wiki/Yahoo!メール "wikilink")などを受信することもできる。
+    2008年の春モデルから順次対応し、特殊な設定をすれば、[Yahoo\!メール](../Page/Yahoo!メール.md "wikilink")などを受信することもできる。
       - ケータイにパソコンのメールを受信できる機能。
 
 ## メールアドレス
@@ -95,7 +95,7 @@ S\!メール・SMS比較
 
   - [SoftBank (携帯電話)](../Page/SoftBank_\(携帯電話\).md "wikilink")
   - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")
-  - [プッシュ型電子メール](https://ja.wikipedia.org/wiki/プッシュ型電子メール "wikilink")
+  - [プッシュ型電子メール](../Page/プッシュ型電子メール.md "wikilink")
   - [iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")
   - [iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")
 

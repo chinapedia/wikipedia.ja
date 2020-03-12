@@ -1,7 +1,7 @@
 > この記事は[METCO](https://ja.wikipedia.org/wiki/METCO)から翻訳されています。
 
 
-**METCO**（*Metropolitan Council for Educational Opportunity*）**事業**は、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")の[教育省](https://ja.wikipedia.org/wiki/教育省 "wikilink")が行う[ボストン](../Page/ボストン.md "wikilink")を拠点とする取り組みである。ボストン市や[スプリングフィールド市の](https://ja.wikipedia.org/wiki/スプリングフィールド_\(マサチューセッツ州\) "wikilink")[インナーシティ](https://ja.wikipedia.org/wiki/インナーシティ "wikilink")に暮らす家庭に対して、その子供たちを[郊外](https://ja.wikipedia.org/wiki/郊外 "wikilink")の[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")に通うことができるように支援を行っている。
+**METCO**（*Metropolitan Council for Educational Opportunity*）**事業**は、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")の[教育省](https://ja.wikipedia.org/wiki/教育省 "wikilink")が行う[ボストン](../Page/ボストン.md "wikilink")を拠点とする取り組みである。ボストン市や[スプリングフィールド市の](../Page/スプリングフィールド_\(マサチューセッツ州\).md "wikilink")[インナーシティ](../Page/インナーシティ.md "wikilink")に暮らす家庭に対して、その子供たちを[郊外](../Page/郊外.md "wikilink")の[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")に通うことができるように支援を行っている。
 
 ボストンで[強制バス通学が始まるよりも](../Page/差別撤廃に向けたバス通学.md "wikilink")、かなり前の段階の[1966年](../Page/1966年.md "wikilink")に独自の取り組みが行われていた。現在、METCO事業を通じて、30の[学区にまたがる](../Page/アメリカ合衆国の学区.md "wikilink")3000人の子供たちの支援が行われている。これは、アメリカ国内では、5箇所でしか実施されていない独自のバス通学事業の1つである。
 

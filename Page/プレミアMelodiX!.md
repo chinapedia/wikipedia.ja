@@ -1,23 +1,23 @@
 > この記事は[MelodiX!](https://ja.wikipedia.org/wiki/MelodiX!)から翻訳されています。
 
 
-**プレミアMelodiX\!**（プレミアメロディックス）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）で毎週火曜 2:50 - 3:20（月曜深夜）に放送中の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。
+**プレミアMelodiX\!**（プレミアメロディックス）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）で毎週火曜 2:50 - 3:20（月曜深夜）に放送中の[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 ここでは前身番組である『**月刊MelodiX\!**』（げっかんメロディックス）についても述べる。
 
 ## 概要
 
-  - 2001年4月3日に『[MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")』の姉妹番組『MelodiX\!』としてスタート。当初は毎週火曜日の深夜に放送していたが、『MUSIX\!』が火曜日に移動したことにともない、2002年10月から月1回原則土曜深夜の放送となった。
-  - なお、2008年4月に「[スポパラ](https://ja.wikipedia.org/wiki/バラエティ7 "wikilink")」枠で、『[ありえへん∞世界](https://ja.wikipedia.org/wiki/ありえへん∞世界 "wikilink")』放送開始までの[つなぎ番組](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")として『号外Melodix\!』が放送された。
+  - 2001年4月3日に『[MUSIX\!](../Page/MUSIX!.md "wikilink")』の姉妹番組『MelodiX\!』としてスタート。当初は毎週火曜日の深夜に放送していたが、『MUSIX\!』が火曜日に移動したことにともない、2002年10月から月1回原則土曜深夜の放送となった。
+  - なお、2008年4月に「[スポパラ](../Page/バラエティ7.md "wikilink")」枠で、『[ありえへん∞世界](../Page/ありえへん∞世界.md "wikilink")』放送開始までの[つなぎ番組](../Page/つなぎ番組.md "wikilink")として『号外Melodix\!』が放送された。
 
 ### 『プレミアMelodix\!』としてリニューアル
 
-  - 2012年12月22日を以って『月刊MelodiX\!』としての放送を終了し、2013年1月7日から月曜26:50に移動した上で『プレミアMelodix\!』としてリニューアル。それに従い実に10年3ヶ月ぶりに毎週放送に切り替えられた。時間変更後も[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")は続投する。
+  - 2012年12月22日を以って『月刊MelodiX\!』としての放送を終了し、2013年1月7日から月曜26:50に移動した上で『プレミアMelodix\!』としてリニューアル。それに従い実に10年3ヶ月ぶりに毎週放送に切り替えられた。時間変更後も[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")は続投する。
 
 ### MelodiX\!スペシャル
 
   - 2018年12月27日23時20分～28日1時25分に初のスペシャルが「MelodiX\!スペシャル2018」として放送された。MCは南海キャンディーズと[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")。
-  - 2019年12月28日23時25分～29日0時55分に「[大正製薬](https://ja.wikipedia.org/wiki/大正製薬 "wikilink")Presents MelodiX\!スペシャル2019」として放送された。MCは南海キャンディーズ、番組アシスタントにテレビ東京アナウンサーの[森香澄](https://ja.wikipedia.org/wiki/森香澄 "wikilink")\[1\]。
+  - 2019年12月28日23時25分～29日0時55分に「[大正製薬](../Page/大正製薬.md "wikilink")Presents MelodiX\!スペシャル2019」として放送された。MCは南海キャンディーズ、番組アシスタントにテレビ東京アナウンサーの[森香澄](../Page/森香澄.md "wikilink")\[1\]。
 
 ## 出演者
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 南海キャンディーズ（[山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")・[山崎静代](https://ja.wikipedia.org/wiki/山崎静代 "wikilink")）
+  - 南海キャンディーズ（[山里亮太](../Page/山里亮太.md "wikilink")・[山崎静代](../Page/山崎静代.md "wikilink")）
 
 #### 過去
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [椎名法子](https://ja.wikipedia.org/wiki/椎名法子 "wikilink")（shiina）
+  - [椎名法子](../Page/椎名法子.md "wikilink")（shiina）
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[井上苑子](https://ja.wikipedia.org/wiki/井上苑子 "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink")、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")、[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")、[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")、[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、[フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、[朝日奈央](https://ja.wikipedia.org/wiki/朝日奈央 "wikilink")
+  - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[井上苑子](https://ja.wikipedia.org/wiki/井上苑子 "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink")、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")、[DA PUMP](../Page/DA_PUMP.md "wikilink")、[TRF](../Page/TRF.md "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")、[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、[フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、[朝日奈央](../Page/朝日奈央.md "wikilink")
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[感覚ピエロ](https://ja.wikipedia.org/wiki/感覚ピエロ "wikilink")、[氣志團](../Page/氣志團.md "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")、[Creepy Nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")、[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")、[SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")、[青春高校3年C組](https://ja.wikipedia.org/wiki/青春高校3年C組 "wikilink")アイドル部、[中元みずき](https://ja.wikipedia.org/wiki/中元みずき "wikilink")、乃木坂46、[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")、[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")、[PENICILLIN](https://ja.wikipedia.org/wiki/PENICILLIN "wikilink")、[森山直太朗](../Page/森山直太朗.md "wikilink")、[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
+  - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[感覚ピエロ](https://ja.wikipedia.org/wiki/感覚ピエロ "wikilink")、[氣志團](../Page/氣志團.md "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")、[Creepy Nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")、[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")、[SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")、[青春高校3年C組](https://ja.wikipedia.org/wiki/青春高校3年C組 "wikilink")アイドル部、[中元みずき](https://ja.wikipedia.org/wiki/中元みずき "wikilink")、乃木坂46、[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")、[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")、[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")、[森山直太朗](../Page/森山直太朗.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")
   - ロケVTR出演…[May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")
 
 ## ネット局
@@ -104,7 +104,7 @@
 
 ## スタッフ
 
-  - ナレーション：[服部潤](https://ja.wikipedia.org/wiki/服部潤 "wikilink")、[山崎岳彦](https://ja.wikipedia.org/wiki/山崎岳彦 "wikilink")
+  - ナレーション：[服部潤](../Page/服部潤.md "wikilink")、[山崎岳彦](https://ja.wikipedia.org/wiki/山崎岳彦 "wikilink")
   - 構成：小高弘嗣、佐藤しっかり
   - TD：近藤剛史（以前はカメラ）
   - SD：吉田健吾（以前はSW）
@@ -118,19 +118,19 @@
   - アクリル装飾：是安弘樹
   - メイク：[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
   - 楽器：石井ゆか（サンフォニックス）
-  - ビジュアルコンセプト：[ニイルセン](https://ja.wikipedia.org/wiki/ニイルセン "wikilink")（途中から）
+  - ビジュアルコンセプト：[ニイルセン](../Page/ニイルセン.md "wikilink")（途中から）
   - CG：山口剛史（ALEX）
   - VTR編集：望月和哉（スタイルゼロ）
   - MA：高橋知世（テクノマックスビデオセンター）
   - 音効：吉田塁
   - TK：伊藤美紀
-  - 技術協力：[テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")、[テレビ東京アート](https://ja.wikipedia.org/wiki/テレビ東京アート "wikilink")、[TAMCO](https://ja.wikipedia.org/wiki/タムコ "wikilink")
+  - 技術協力：[テクノマックス](../Page/テクノマックス.md "wikilink")、[テレビ東京アート](../Page/テレビ東京アート.md "wikilink")、[TAMCO](../Page/タムコ.md "wikilink")
   - AP：野中優（以前はデスク）
   - アシスタントディレクター：石川千紗希、麓いずみ
   - ディレクター：村田知佳、齋藤恵介、渡邊麗、穂苅雄太、渡邉陸、持山勇太
   - プロデューサー：星俊一、福本俊二（福本→以前はディレクター►総合演出）、佐々木洋
   - 総合演出：朝比奈諒、宇賀神敬行（共に以前はディレクター）
-  - 制作協力：[テレビ東京ミュージック](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink")
+  - 制作協力：[テレビ東京ミュージック](../Page/テレビ東京ミュージック.md "wikilink")
   - 製作著作：テレビ東京
 
 ### 過去のスタッフ
@@ -142,8 +142,8 @@
   - カメラ：高村和隆、野瀬一成、丸山真平、吉田健吾、田中圭介
   - 音声：窪田佳光、臼本泰一
   - 照明：小林瑞雪、山崎康紀、和気義幸、新谷初、塚生崇
-  - [バリライト](https://ja.wikipedia.org/wiki/バリライト "wikilink")：安達浩也
-  - ロケ技術：[元木宏](https://ja.wikipedia.org/wiki/元木宏 "wikilink")（[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")）、成岡正之、林将史（共にZORA）
+  - [バリライト](../Page/バリライト.md "wikilink")：安達浩也
+  - ロケ技術：[元木宏](../Page/元木宏.md "wikilink")（[八峯テレビ](../Page/八峯テレビ.md "wikilink")）、成岡正之、林将史（共にZORA）
   - 美術制作：小越敏彦
   - デザイン：小堺健司、金森明日香、小野清菜、小谷恵
   - 大道具：岡澤晋
@@ -168,7 +168,7 @@
 
 ## 備考
 
-2011年[6月12日](../Page/6月12日.md "wikilink")、番組の収録中に[ぴゅあふる](https://ja.wikipedia.org/wiki/ぴゅあふる "wikilink")の[綾川小麦](https://ja.wikipedia.org/wiki/綾川小麦 "wikilink")がスタジオの端にある溝に転落し、骨折で全治1か月のけがを負う。また、綾川を支えようとした[藤崎麻美](https://ja.wikipedia.org/wiki/藤崎麻美 "wikilink")も足を[捻挫](https://ja.wikipedia.org/wiki/捻挫 "wikilink")し、全治1週間と診断された。目が回った状態で、4メートル先にある[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")を取りに行くという内容のゲームの最中に起きた事故で、テレビ東京は同年[6月25日](../Page/6月25日.md "wikilink")に予定していたこのゲームの放送を見合わせるとした\[3\]。
+2011年[6月12日](../Page/6月12日.md "wikilink")、番組の収録中に[ぴゅあふる](https://ja.wikipedia.org/wiki/ぴゅあふる "wikilink")の[綾川小麦](https://ja.wikipedia.org/wiki/綾川小麦 "wikilink")がスタジオの端にある溝に転落し、骨折で全治1か月のけがを負う。また、綾川を支えようとした[藤崎麻美](https://ja.wikipedia.org/wiki/藤崎麻美 "wikilink")も足を[捻挫](../Page/捻挫.md "wikilink")し、全治1週間と診断された。目が回った状態で、4メートル先にある[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")を取りに行くという内容のゲームの最中に起きた事故で、テレビ東京は同年[6月25日](../Page/6月25日.md "wikilink")に予定していたこのゲームの放送を見合わせるとした\[3\]。
 
 ## 脚注
 

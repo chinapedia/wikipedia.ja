@@ -1,23 +1,23 @@
 > この記事は[NSD \(\)](https://ja.wikipedia.org/wiki/NSD_\(\))から翻訳されています。
 
 
-**株式会社NSD**（エヌエスディー）は、日本の[システムインテグレーター](https://ja.wikipedia.org/wiki/システムインテグレーター "wikilink")（[独立系](https://ja.wikipedia.org/wiki/ISV "wikilink")）。[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")第一部上場。
+**株式会社NSD**（エヌエスディー）は、日本の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[独立系](https://ja.wikipedia.org/wiki/ISV "wikilink")）。[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部上場。
 
 ## 沿革
 
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")東区(現:[中央区](../Page/中央区_\(大阪市\).md "wikilink"))に「株式会社日本システムディベロップメント」設立。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - [東京](https://ja.wikipedia.org/wiki/東京 "wikilink")営業所を[東京都港区に設置](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [大阪市](../Page/大阪市.md "wikilink")東区(現:[中央区](../Page/中央区_\(大阪市\).md "wikilink"))に「株式会社日本システムディベロップメント」設立。
+  - [1970年](../Page/1970年.md "wikilink") - [東京](../Page/東京.md "wikilink")営業所を[東京都港区に設置](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。
   - [1981年](../Page/1981年.md "wikilink") - 大阪・東京2本社制を採用。
   - [1988年](../Page/1988年.md "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")市場第二部に上場。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") - 通商産業省(現:[経済産業省](../Page/経済産業省.md "wikilink"))から[システムインテグレーター](https://ja.wikipedia.org/wiki/システムインテグレーター "wikilink")の認定
+  - [1991年](../Page/1991年.md "wikilink") - 通商産業省(現:[経済産業省](../Page/経済産業省.md "wikilink"))から[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")の認定
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 大阪証券取引所市場第一部に上場。
-  - [1999年](../Page/1999年.md "wikilink") - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")市場第一部に上場。
+  - [1999年](../Page/1999年.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に上場。
   - [2001年](../Page/2001年.md "wikilink") - NSD AMERICA INC. を米国カリフォルニア州に設立。
-  - [2002年](../Page/2002年.md "wikilink") - [(財)日本情報処理開発協会から](https://ja.wikipedia.org/wiki/日本情報処理開発協会 "wikilink")[プライバシーマーク](https://ja.wikipedia.org/wiki/プライバシーマーク "wikilink")の使用許諾を取得。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") - 本店ビルを[大阪市中央区に建設し本店移転](../Page/中央区_\(大阪市\).md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 本社を東京本社に一元化。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") - 本店を東京都新宿区に移転。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") - 大阪証券取引所上場廃止。
+  - [2002年](../Page/2002年.md "wikilink") - [(財)日本情報処理開発協会から](https://ja.wikipedia.org/wiki/日本情報処理開発協会 "wikilink")[プライバシーマーク](../Page/プライバシーマーク.md "wikilink")の使用許諾を取得。
+  - [2004年](../Page/2004年.md "wikilink") - 本店ビルを[大阪市中央区に建設し本店移転](../Page/中央区_\(大阪市\).md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink") - 本社を東京本社に一元化。
+  - [2007年](../Page/2007年.md "wikilink") - 本店を東京都新宿区に移転。
+  - [2007年](../Page/2007年.md "wikilink") - 大阪証券取引所上場廃止。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - NSDに社名変更。
   - [2013年](../Page/2013年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink") - 本社を東京都千代田区に移転。
   - [2017年](../Page/2017年.md "wikilink") - 採用管理システムのジャパンジョブポスティングサービスを買収（2018年にNMシステムズが吸収合併し、ステラスとなる）。

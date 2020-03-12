@@ -1,7 +1,7 @@
 > この記事は[ NEXT DOOR](https://ja.wikipedia.org/wiki/_NEXT_DOOR)から翻訳されています。
 
 
-『**夢の扉 〜NEXT DOOR〜**』（ゆめのとびら ネクストドア）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[2004年](../Page/2004年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")まで、毎週[日曜日](../Page/日曜日.md "wikilink")の18時30分から19時（[JST](../Page/日本標準時.md "wikilink")）に放送された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。
+『**夢の扉 〜NEXT DOOR〜**』（ゆめのとびら ネクストドア）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[2004年](../Page/2004年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")まで、毎週[日曜日](../Page/日曜日.md "wikilink")の18時30分から19時（[JST](../Page/日本標準時.md "wikilink")）に放送された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。
 
 [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組であり、番組開始前に[カウキャッチャーとして](../Page/カウキャッチャー_\(放送\).md "wikilink")1分間同グループのCMが放送された。
 
@@ -20,7 +20,7 @@
   - [宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")（[女優](../Page/俳優.md "wikilink")、放送開始 - [2007年](../Page/2007年.md "wikilink")9月30日）
   - [長峰由紀](../Page/長峰由紀.md "wikilink")（[TBSアナウンサー](../Page/TBSテレビ.md "wikilink")、2007年10月7日 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月28日）
   - [出水麻衣](https://ja.wikipedia.org/wiki/出水麻衣 "wikilink")（TBSアナウンサー、2010年4月4日 - 終了まで）
-  - [堀井美香](https://ja.wikipedia.org/wiki/堀井美香 "wikilink")（TBSアナウンサー、2010年8月29日 - 終了まで）
+  - [堀井美香](../Page/堀井美香.md "wikilink")（TBSアナウンサー、2010年8月29日 - 終了まで）
 
 ### ドリームナビゲーター
 
@@ -35,22 +35,22 @@
   - [雨宮朋絵](../Page/雨宮朋絵.md "wikilink")
   - [飯野めぐみ](../Page/飯野めぐみ.md "wikilink")
   - [井上碧](../Page/井上碧.md "wikilink")
-  - [今村恵子](https://ja.wikipedia.org/wiki/今村恵子 "wikilink")
+  - [今村恵子](../Page/今村恵子.md "wikilink")
   - [上原美佐](https://ja.wikipedia.org/wiki/上原美佐_\(1983年生\) "wikilink")
   - [内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")
-  - [映美くらら](https://ja.wikipedia.org/wiki/映美くらら "wikilink")
-  - [遠藤みずき](https://ja.wikipedia.org/wiki/遠藤みずき "wikilink")
-  - [大石里紗](https://ja.wikipedia.org/wiki/大石里沙 "wikilink")
-  - [大櫛エリカ](https://ja.wikipedia.org/wiki/大櫛エリカ "wikilink")
+  - [映美くらら](../Page/映美くらら.md "wikilink")
+  - [遠藤みずき](../Page/遠藤みずき.md "wikilink")
+  - [大石里紗](../Page/大石里沙.md "wikilink")
+  - [大櫛エリカ](../Page/大櫛エリカ.md "wikilink")
   - [大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")
   - [大島久美子](https://ja.wikipedia.org/wiki/大島久美子 "wikilink")
   - [大多月乃](https://ja.wikipedia.org/wiki/大多月乃 "wikilink")
-  - [岡まゆみ](https://ja.wikipedia.org/wiki/岡まゆみ "wikilink")
-  - [緒川たまき](https://ja.wikipedia.org/wiki/緒川たまき "wikilink")
+  - [岡まゆみ](../Page/岡まゆみ.md "wikilink")
+  - [緒川たまき](../Page/緒川たまき.md "wikilink")
   - [小川奈那](https://ja.wikipedia.org/wiki/小川奈那 "wikilink")
-  - [小倉隆史](https://ja.wikipedia.org/wiki/小倉隆史 "wikilink")
-  - [梶原真弓](https://ja.wikipedia.org/wiki/梶原真弓 "wikilink")
-  - [海保知里](https://ja.wikipedia.org/wiki/海保知里 "wikilink")
+  - [小倉隆史](../Page/小倉隆史.md "wikilink")
+  - [梶原真弓](../Page/梶原真弓.md "wikilink")
+  - [海保知里](../Page/海保知里.md "wikilink")
   - [和希沙也](https://ja.wikipedia.org/wiki/和希沙也 "wikilink")
   - [桂亜沙美](../Page/桂亜沙美.md "wikilink")
 
@@ -63,24 +63,24 @@
   - [川田亜子](https://ja.wikipedia.org/wiki/川田亜子 "wikilink")
   - [河村和奈](../Page/河村和奈.md "wikilink")
   - [貫地谷しほり](https://ja.wikipedia.org/wiki/貫地谷しほり "wikilink")
-  - [小林恵美](https://ja.wikipedia.org/wiki/小林恵美 "wikilink")
-  - [木村綾子](https://ja.wikipedia.org/wiki/木村綾子 "wikilink")
+  - [小林恵美](../Page/小林恵美.md "wikilink")
+  - [木村綾子](../Page/木村綾子.md "wikilink")
   - [木村郁美](../Page/木村郁美.md "wikilink")
   - [京野ことみ](https://ja.wikipedia.org/wiki/京野ことみ "wikilink")
-  - [久遠さやか](https://ja.wikipedia.org/wiki/久遠さやか "wikilink")
+  - [久遠さやか](../Page/久遠さやか.md "wikilink")
   - [小西美帆](../Page/小西美帆.md "wikilink")
   - [近藤しづか](../Page/近藤しづか.md "wikilink")
   - [紺谷みえこ](../Page/紺谷みえこ.md "wikilink")
-  - [阪本麻美](https://ja.wikipedia.org/wiki/阪本麻美 "wikilink")
+  - [阪本麻美](../Page/阪本麻美.md "wikilink")
   - [嵯峨百合子](https://ja.wikipedia.org/wiki/嵯峨百合子 "wikilink")
-  - [さくら](https://ja.wikipedia.org/wiki/さくら_\(タレント\) "wikilink")
-  - [佐倉真衣](https://ja.wikipedia.org/wiki/佐倉真衣 "wikilink")
+  - [さくら](../Page/さくら_\(タレント\).md "wikilink")
+  - [佐倉真衣](../Page/佐倉真衣.md "wikilink")
   - [早良めぐみ](../Page/早良めぐみ.md "wikilink")
-  - [塩山みさこ](https://ja.wikipedia.org/wiki/塩山みさこ "wikilink")
+  - [塩山みさこ](../Page/塩山みさこ.md "wikilink")
   - [品川景子](../Page/品川景子.md "wikilink")
   - [庄司麻衣](../Page/庄司麻衣.md "wikilink")
-  - [高田万由子](https://ja.wikipedia.org/wiki/高田万由子 "wikilink")
-  - [龍田梨恵](https://ja.wikipedia.org/wiki/龍田梨恵 "wikilink")
+  - [高田万由子](../Page/高田万由子.md "wikilink")
+  - [龍田梨恵](../Page/龍田梨恵.md "wikilink")
 
 </div>
 
@@ -90,24 +90,24 @@
   - [田中有紀美](../Page/田中有紀美.md "wikilink")
   - [田中律子](https://ja.wikipedia.org/wiki/田中律子 "wikilink")
   - [玉井美輪](https://ja.wikipedia.org/wiki/玉井美輪 "wikilink")
-  - [玉城ちはる](https://ja.wikipedia.org/wiki/玉城ちはる "wikilink")
+  - [玉城ちはる](../Page/玉城ちはる.md "wikilink")
   - [田丸麻紀](../Page/田丸麻紀.md "wikilink")
   - [豊原愛](https://ja.wikipedia.org/wiki/豊原愛 "wikilink")
-  - [内藤陽子](https://ja.wikipedia.org/wiki/内藤陽子 "wikilink")
+  - [内藤陽子](../Page/内藤陽子.md "wikilink")
   - [永井大](../Page/永井大.md "wikilink")
   - [中園友乃](../Page/中園友乃.md "wikilink")
   - [中田有紀](https://ja.wikipedia.org/wiki/中田有紀_\(アナウンサー\) "wikilink")
   - [仲代奈緒](https://ja.wikipedia.org/wiki/仲代奈緒 "wikilink")
-  - [中森友香](https://ja.wikipedia.org/wiki/中森友香 "wikilink")
+  - [中森友香](../Page/中森友香.md "wikilink")
   - [新妻さとこ](https://ja.wikipedia.org/wiki/新妻さとこ "wikilink")
-  - [西山繭子](https://ja.wikipedia.org/wiki/西山繭子 "wikilink")
+  - [西山繭子](../Page/西山繭子.md "wikilink")
   - [原沙知絵](https://ja.wikipedia.org/wiki/原沙知絵 "wikilink")
   - [原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")
-  - [平田弥里](https://ja.wikipedia.org/wiki/平田弥里 "wikilink")
-  - [平田裕香](https://ja.wikipedia.org/wiki/平田裕香 "wikilink")
-  - [広重玲子](https://ja.wikipedia.org/wiki/広重玲子 "wikilink")
+  - [平田弥里](../Page/平田弥里.md "wikilink")
+  - [平田裕香](../Page/平田裕香.md "wikilink")
+  - [広重玲子](../Page/広重玲子.md "wikilink")
   - [藤井美菜](../Page/藤井美菜.md "wikilink")
-  - [藤谷文子](https://ja.wikipedia.org/wiki/藤谷文子 "wikilink")
+  - [藤谷文子](../Page/藤谷文子.md "wikilink")
   - [藤村知可](../Page/藤村知可.md "wikilink")
 
 </div>
@@ -115,21 +115,21 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [藤森夕子](https://ja.wikipedia.org/wiki/藤森夕子 "wikilink")
-  - [堀井美香](https://ja.wikipedia.org/wiki/堀井美香 "wikilink")
+  - [堀井美香](../Page/堀井美香.md "wikilink")
   - [堀越のり](../Page/堀越のり.md "wikilink")
   - [益子梨恵](../Page/益子梨恵.md "wikilink")
-  - [松下恵](https://ja.wikipedia.org/wiki/松下恵 "wikilink")
+  - [松下恵](../Page/松下恵.md "wikilink")
   - [松田洋昌](https://ja.wikipedia.org/wiki/松田洋昌 "wikilink")
   - [松原渓](../Page/松原渓.md "wikilink")
-  - [松本英子](https://ja.wikipedia.org/wiki/松本英子_\(歌手\) "wikilink")
-  - [松本まりか](https://ja.wikipedia.org/wiki/松本まりか "wikilink")
+  - [松本英子](../Page/松本英子_\(歌手\).md "wikilink")
+  - [松本まりか](../Page/松本まりか.md "wikilink")
   - [馬渕英俚可](https://ja.wikipedia.org/wiki/馬渕英俚可 "wikilink")
   - [水木ゆうな](../Page/水木ゆうな.md "wikilink")
   - [宮越かおり](https://ja.wikipedia.org/wiki/宮越かおり "wikilink")
-  - [民部良子](https://ja.wikipedia.org/wiki/民部良子 "wikilink")
-  - [村井美樹](https://ja.wikipedia.org/wiki/村井美樹 "wikilink")
+  - [民部良子](../Page/民部良子.md "wikilink")
+  - [村井美樹](../Page/村井美樹.md "wikilink")
   - [村松えり](../Page/村松えり.md "wikilink")
-  - [山内あゆ](https://ja.wikipedia.org/wiki/山内あゆ "wikilink")
+  - [山内あゆ](../Page/山内あゆ.md "wikilink")
   - [山川恵里佳](../Page/山川恵里佳.md "wikilink")
   - [山口紗弥加](https://ja.wikipedia.org/wiki/山口紗弥加 "wikilink")
   - [山口日記](https://ja.wikipedia.org/wiki/日記_\(タレント\) "wikilink")（現・日記）
@@ -186,19 +186,19 @@
 | 9   | 2004年[12月12日](../Page/12月12日.md "wikilink")                                                 | [福井栄治](https://ja.wikipedia.org/wiki/福井栄治 "wikilink")                                                                       | [日本の食産業に革命を起こしたい](http://www.tbs.co.jp/yumetobi/backnumber/20041212.html)                                |
 | 10  | 2004年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                              | [西直樹](https://ja.wikipedia.org/wiki/西直樹 "wikilink")                                                                         | [世界の空と、人々の笑顔を風船で演出する](http://www.tbs.co.jp/yumetobi/backnumber/20041219.html)                            |
 | 11  | 2004年[12月26日](../Page/12月26日.md "wikilink")                                                 | [渡邊美樹](https://ja.wikipedia.org/wiki/渡邉美樹 "wikilink")                                                                       | [一人でも多くの夢追い人を世の中に送り出したい](http://www.tbs.co.jp/yumetobi/backnumber/20041226.html)                         |
-| 12  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")   | [澤功](https://ja.wikipedia.org/wiki/澤功 "wikilink")                                                                           | [すべての和風旅館が外国人観光客をもてなしている観光立国・日本をつくりたい](http://www.tbs.co.jp/yumetobi/backnumber/20050109.html)           |
+| 12  | [2005年](../Page/2005年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")                      | [澤功](https://ja.wikipedia.org/wiki/澤功 "wikilink")                                                                           | [すべての和風旅館が外国人観光客をもてなしている観光立国・日本をつくりたい](http://www.tbs.co.jp/yumetobi/backnumber/20050109.html)           |
 | 13  | 2005年[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")                                | [庄司正](https://ja.wikipedia.org/wiki/庄司正 "wikilink")                                                                         | [ドレスの概念を覆し、安価なドレスを提供したい](http://www.tbs.co.jp/yumetobi/backnumber/20050116.html)                         |
 | 14  | 2005年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")                                | [坂東元](https://ja.wikipedia.org/wiki/坂東元 "wikilink")                                                                         | [動物本来の姿を子供たちに見て欲しい Part1](http://www.tbs.co.jp/yumetobi/backnumber/20050123.html)                        |
 | 15  | 2005年[1月30日](../Page/1月30日.md "wikilink")                                                   | 坂東元                                                                                                                         | [動物本来の姿を子供たちに見て欲しい Part2](http://www.tbs.co.jp/yumetobi/backnumber/20050130.html)                        |
-| 16  | 2005年[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")                                  | [水野俊平](../Page/水野俊平.md "wikilink")                                                                                          | [韓国語教育を通じて日韓文化交流の架け橋になりたい](http://www.tbs.co.jp/yumetobi/backnumber/20050206.html)                       |
+| 16  | 2005年[2月6日](../Page/2月6日.md "wikilink")                                                     | [水野俊平](../Page/水野俊平.md "wikilink")                                                                                          | [韓国語教育を通じて日韓文化交流の架け橋になりたい](http://www.tbs.co.jp/yumetobi/backnumber/20050206.html)                       |
 | 17  | 2005年[2月13日](../Page/2月13日.md "wikilink")                                                   | [袖山卓也](https://ja.wikipedia.org/wiki/袖山卓也 "wikilink")                                                                       | [高齢化する日本の将来を明るいものにしたい](http://www.tbs.co.jp/yumetobi/backnumber/20050213.html)                           |
 | 18  | 2005年[2月20日](../Page/2月20日.md "wikilink")                                                   | [天野彰](https://ja.wikipedia.org/wiki/天野彰 "wikilink")                                                                         | [地震から、命を救う家を作りたい](http://www.tbs.co.jp/yumetobi/backnumber/20050220.html)                                |
 | 19  | 2005年[2月27日](../Page/2月27日.md "wikilink")                                                   | [福島孝徳](../Page/福島孝徳.md "wikilink")                                                                                          | [世界に通用する脳外科医を育成したい](http://www.tbs.co.jp/yumetobi/backnumber/20050227.html)                              |
 | 20  | 2005年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")                                  | [廣瀬満雄](https://ja.wikipedia.org/wiki/廣瀬満雄 "wikilink")                                                                       | [本当に安全なパン作りを広め、食べた人が幸せになってもらいたい Part1](http://www.tbs.co.jp/yumetobi/backnumber/20050306.html)           |
 | 21  | 2005年[3月13日](../Page/3月13日.md "wikilink")                                                   | 廣瀬満雄                                                                                                                        | [本当に安全なパン作りを広め、食べた人が幸せになってもらいたい Part2](http://www.tbs.co.jp/yumetobi/backnumber/20050313.html)           |
 | 22  | 2005年[3月20日](../Page/3月20日.md "wikilink")                                                   | [関勝則](https://ja.wikipedia.org/wiki/関勝則 "wikilink")                                                                         | [流氷を調査することで、地球温暖化の現状を伝えたい](http://www.tbs.co.jp/yumetobi/backnumber/20050320.html)                       |
-| 23  | 2005年[3月27日](../Page/3月27日.md "wikilink")                                                   | [大平貴之](https://ja.wikipedia.org/wiki/大平貴之 "wikilink")                                                                       | [リアルな星空を見せて、本当の星空を取り戻したい](http://www.tbs.co.jp/yumetobi/backnumber/20050327.html)                        |
-| 24  | 2005年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")                                  | [長谷川竹彦](https://ja.wikipedia.org/wiki/長谷川竹彦 "wikilink")                                                                     | [子ども達に本当の乳製品を味わって欲しい](http://www.tbs.co.jp/yumetobi/backnumber/20050403.html)                            |
+| 23  | 2005年[3月27日](../Page/3月27日.md "wikilink")                                                   | [大平貴之](../Page/大平貴之.md "wikilink")                                                                                          | [リアルな星空を見せて、本当の星空を取り戻したい](http://www.tbs.co.jp/yumetobi/backnumber/20050327.html)                        |
+| 24  | 2005年[4月3日](../Page/4月3日.md "wikilink")                                                     | [長谷川竹彦](https://ja.wikipedia.org/wiki/長谷川竹彦 "wikilink")                                                                     | [子ども達に本当の乳製品を味わって欲しい](http://www.tbs.co.jp/yumetobi/backnumber/20050403.html)                            |
 | 25  | 2005年[4月10日](../Page/4月10日.md "wikilink")                                                   | [遠藤秀一](../Page/遠藤秀一.md "wikilink")                                                                                          | [『TUVALU』のことを世界中の人に伝えたい Part 1](http://www.tbs.co.jp/yumetobi/backnumber/20050410.html)                  |
 | 26  | 2005年[4月17日](../Page/4月17日.md "wikilink")                                                   | 遠藤秀一                                                                                                                        | [『TUVALU』のことを世界中の人に伝えたい Part 2](http://www.tbs.co.jp/yumetobi/backnumber/20050417.html)                  |
 | 27  | 2005年[4月24日](../Page/4月24日.md "wikilink")                                                   | [中野隆次](https://ja.wikipedia.org/wiki/中野隆次 "wikilink")                                                                       | [大阪の町工場、そこで理想の自転車を作りたい](http://www.tbs.co.jp/yumetobi/backnumber/20050424.html)                          |
@@ -211,7 +211,7 @@
 | 34  | 2005年[6月12日](../Page/6月12日.md "wikilink")                                                   | [杉林仁一](https://ja.wikipedia.org/wiki/杉林仁一 "wikilink")                                                                       | [東京の伝統芸能を守り広めたい](http://www.tbs.co.jp/yumetobi/backnumber/20050612.html)                                 |
 | 35  | 2005年[6月19日](../Page/6月19日.md "wikilink")                                                   | [木村宗慎](https://ja.wikipedia.org/wiki/木村宗慎 "wikilink")                                                                       | [日本の伝統文化である茶道を守り、世界中にこの素晴らしさを広めたい](http://www.tbs.co.jp/yumetobi/backnumber/20050619.html)               |
 | 36  | 2005年[6月26日](../Page/6月26日.md "wikilink")                                                   | [芳賀望](https://ja.wikipedia.org/wiki/芳賀望 "wikilink")                                                                         | [日本にバレエ文化を広めたい](http://www.tbs.co.jp/yumetobi/backnumber/20050626.html)                                  |
-| 37  | 2005年[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")                                  | [吉村正](https://ja.wikipedia.org/wiki/吉村正 "wikilink")                                                                         | [自然なお産を経験してもらい、少子化に悩む日本を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20050703.html)                    |
+| 37  | 2005年[7月3日](../Page/7月3日.md "wikilink")                                                     | [吉村正](https://ja.wikipedia.org/wiki/吉村正 "wikilink")                                                                         | [自然なお産を経験してもらい、少子化に悩む日本を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20050703.html)                    |
 | 38  | 2005年[7月10日](../Page/7月10日.md "wikilink")                                                   | [進藤晃](https://ja.wikipedia.org/wiki/進藤晃 "wikilink")                                                                         | [一頭でも多くの災害救助犬を育て、一人でも多くの命を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20050710.html)                  |
 | 39  | 2005年[7月17日](../Page/7月17日.md "wikilink")                                                   | [廣中邦充](../Page/廣中邦充.md "wikilink")                                                                                          | [心の傷を負った少年少女をさせ、新たに親を親らしく教えたい Part1](http://www.tbs.co.jp/yumetobi/backnumber/20050717.html)             |
 | 40  | 2005年[7月24日](../Page/7月24日.md "wikilink")                                                   | 廣中邦充                                                                                                                        | [心の傷を負った少年少女をさせ、新たに親を親らしく教えたい Part2](http://www.tbs.co.jp/yumetobi/backnumber/20050724.html)             |
@@ -221,7 +221,7 @@
 | 44  | 2005年[8月21日](../Page/8月21日.md "wikilink")                                                   | [佐藤俊明](https://ja.wikipedia.org/wiki/佐藤俊明 "wikilink")                                                                       | [溶岩パネルを開発してゆき、ヒートアイランドを緩和して行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20050821.html)                 |
 | 45  | 2005年[8月28日](../Page/8月28日.md "wikilink")                                                   | [大野睦](https://ja.wikipedia.org/wiki/大野睦 "wikilink")                                                                         | [屋久島の自然を守り、永遠の残すために闘う女性ガイド Part1](http://www.tbs.co.jp/yumetobi/backnumber/20050828.html)                |
 | 46  | 2005年[9月4日](../Page/9月4日.md "wikilink")                                                     | 大野睦                                                                                                                         | [屋久島の自然を守り、永遠の残すために闘う女性ガイド Part2](http://www.tbs.co.jp/yumetobi/backnumber/20050904.html)                |
-| 47  | 2005年[9月11日](../Page/9月11日.md "wikilink")                                                   | [渡邊美樹](https://ja.wikipedia.org/wiki/渡邊美樹 "wikilink")・[岡野雅行](https://ja.wikipedia.org/wiki/岡野雅行_\(会社社長\) "wikilink")        | [『夢の扉』の新たな扉を開く](http://www.tbs.co.jp/yumetobi/backnumber/20050911.html)                                  |
+| 47  | 2005年[9月11日](../Page/9月11日.md "wikilink")                                                   | [渡邊美樹](https://ja.wikipedia.org/wiki/渡邊美樹 "wikilink")・[岡野雅行](../Page/岡野雅行_\(会社社長\).md "wikilink")                           | [『夢の扉』の新たな扉を開く](http://www.tbs.co.jp/yumetobi/backnumber/20050911.html)                                  |
 | 48  | 2005年[9月18日](../Page/9月18日.md "wikilink")                                                   | [広部俊明](https://ja.wikipedia.org/wiki/広部俊明 "wikilink")                                                                       | [海底探検で人類のルーツを探り、未来への架け橋になりたい](http://www.tbs.co.jp/yumetobi/backnumber/20050918.html)                    |
 | 49  | 2005年[9月25日](../Page/9月25日.md "wikilink")                                                   | [朴喜子](https://ja.wikipedia.org/wiki/朴喜子 "wikilink")                                                                         | [耳の不自由な人たちに、明るい未来を提供したい](http://www.tbs.co.jp/yumetobi/backnumber/20050925.html)                         |
 | 50  | 2005年[10月2日](../Page/10月2日.md "wikilink")                                                   | [伊藤健治](https://ja.wikipedia.org/wiki/伊藤健治 "wikilink")                                                                       | [新たなる挑戦に向かい、ソロモン諸島を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20051002.html)                         |
@@ -237,7 +237,7 @@
 | 59  | 2005年[12月11日](../Page/12月11日.md "wikilink")                                                 | [兼光治](https://ja.wikipedia.org/wiki/兼光治 "wikilink")                                                                         | [日本から世界一のジーンズを作り、繊維の町・岡山を復活させたい](http://www.tbs.co.jp/yumetobi/backnumber/20051211.html)                 |
 | 60  | 2005年[12月18日](../Page/12月18日.md "wikilink")                                                 | [外山雅章](https://ja.wikipedia.org/wiki/外山雅章 "wikilink")                                                                       | [自分の持つ心臓外科の最新技術を世界に広めていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20051218.html)                      |
 | 61  | 2005年[12月25日](../Page/12月25日.md "wikilink")                                                 | [山中修](https://ja.wikipedia.org/wiki/山中修 "wikilink")                                                                         | [ホームレスにも夢と生きがいを与えていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20051225.html)                          |
-| 62  | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月8日](../Page/1月8日.md "wikilink")   | [椎名勝巳](https://ja.wikipedia.org/wiki/椎名勝巳 "wikilink")                                                                       | [障害を抱える人たちに、海の無重力の世界でリハビリを](http://www.tbs.co.jp/yumetobi/backnumber/20060108.html)                      |
+| 62  | [2006年](../Page/2006年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")                      | [椎名勝巳](https://ja.wikipedia.org/wiki/椎名勝巳 "wikilink")                                                                       | [障害を抱える人たちに、海の無重力の世界でリハビリを](http://www.tbs.co.jp/yumetobi/backnumber/20060108.html)                      |
 | 63  | 2006年[1月15日](../Page/1月15日.md "wikilink")                                                   | [束田進也](https://ja.wikipedia.org/wiki/束田進也 "wikilink")                                                                       | [最新技術を活かし、地震をいち早く察知して被害を防ぎたい](http://www.tbs.co.jp/yumetobi/backnumber/20060115.html)                    |
 | 64  | 2006年[1月22日](../Page/1月22日.md "wikilink")                                                   | [柿沼博彦](../Page/柿沼博彦.md "wikilink")                                                                                          | [道路と鉄路を両走行可能な車両を開発し、廃止路線を復活させたい](http://www.tbs.co.jp/yumetobi/backnumber/20060122.html)                 |
 | 65  | 2006年[1月29日](../Page/1月29日.md "wikilink")                                                   | [大川照夫](https://ja.wikipedia.org/wiki/大川照夫 "wikilink")                                                                       | [欠陥住宅にメスを入れ、住み良い居住空間を拡げたい](http://www.tbs.co.jp/yumetobi/backnumber/20060129.html)                       |
@@ -251,13 +251,13 @@
 | 73  | 2006年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")                                | [小原玲](https://ja.wikipedia.org/wiki/小原玲 "wikilink")                                                                         | [流氷が育む生命を次の世代にも繋げていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20060326.html)                          |
 | 74  | 2006年[4月2日](../Page/4月2日.md "wikilink")                                                     | [勝俣悦子](https://ja.wikipedia.org/wiki/勝俣悦子 "wikilink")                                                                       | [海獣と生き、日本では一般的でない海獣ドクターを育てて行きたい Part1](http://www.tbs.co.jp/yumetobi/backnumber/20060402.html)           |
 | 75  | 2006年[4月9日](../Page/4月9日.md "wikilink")                                                     | 勝俣悦子                                                                                                                        | [海獣と生き、日本では一般的でない海獣ドクターを育てて行きたい Part2](http://www.tbs.co.jp/yumetobi/backnumber/20060409.html)           |
-| 76  | 2006年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")                                | [小林稔蔵](https://ja.wikipedia.org/wiki/小林稔蔵 "wikilink")                                                                       | [樹木の病気を治療して寿命を延ばし、大切な樹木を残していきたい](http://www.tbs.co.jp/yumetobi/backnumber/20060416.html)                 |
+| 76  | 2006年[4月16日](../Page/4月16日.md "wikilink")                                                   | [小林稔蔵](https://ja.wikipedia.org/wiki/小林稔蔵 "wikilink")                                                                       | [樹木の病気を治療して寿命を延ばし、大切な樹木を残していきたい](http://www.tbs.co.jp/yumetobi/backnumber/20060416.html)                 |
 | 77  | 2006年[4月23日](../Page/4月23日.md "wikilink")                                                   | [雨宮清](https://ja.wikipedia.org/wiki/雨宮清 "wikilink")                                                                         | [世界中に埋められた地雷を全てなくしたい Part1](http://www.tbs.co.jp/yumetobi/backnumber/20060423.html)                      |
 | 78  | 2006年[4月30日](../Page/4月30日.md "wikilink")                                                   | 雨宮清                                                                                                                         | [世界中に埋められた地雷を全てなくしたい Part2](http://www.tbs.co.jp/yumetobi/backnumber/20060430.html)                      |
 | 79  | 2006年[5月7日](../Page/5月7日.md "wikilink")                                                     | [渡邉洋子](https://ja.wikipedia.org/wiki/渡邉洋子 "wikilink")                                                                       | [病気や怪我に苦しむ犬をリハビリで助けたい](http://www.tbs.co.jp/yumetobi/backnumber/20060507.html)                           |
 | 80  | 2006年[5月14日](../Page/5月14日.md "wikilink")                                                   | [塩田政利](https://ja.wikipedia.org/wiki/塩田政利 "wikilink")                                                                       | [ガラス塗料で建築物の長寿命化・無害化を成し遂げたい](http://www.tbs.co.jp/yumetobi/backnumber/20060514.html)                      |
 | 81  | 2006年[5月21日](../Page/5月21日.md "wikilink")                                                   | [松尾隆](https://ja.wikipedia.org/wiki/松尾隆 "wikilink")                                                                         | [動かせない手足を自分の意思で動かせるようにしたい](http://www.tbs.co.jp/yumetobi/backnumber/20060521.html)                       |
-| 82  | 2006年[5月28日](../Page/5月28日.md "wikilink")                                                   | [藤原清美](https://ja.wikipedia.org/wiki/藤原清美 "wikilink")                                                                       | [スポーツ文化の素晴らしさを、日本を問わず世界に拡げて行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20060528.html)                 |
+| 82  | 2006年[5月28日](../Page/5月28日.md "wikilink")                                                   | [藤原清美](../Page/藤原清美.md "wikilink")                                                                                          | [スポーツ文化の素晴らしさを、日本を問わず世界に拡げて行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20060528.html)                 |
 | 83  | 2006年[6月4日](../Page/6月4日.md "wikilink")                                                     | [堀昌司](https://ja.wikipedia.org/wiki/堀昌司 "wikilink")                                                                         | [平面スピーカーの技術で、音を楽しみ、世界中の騒音をなくしたい](http://www.tbs.co.jp/yumetobi/backnumber/20060604.html)                 |
 | 84  | 2006年[6月11日](../Page/6月11日.md "wikilink")                                                   | [佐藤悠二](https://ja.wikipedia.org/wiki/佐藤悠二 "wikilink")                                                                       | [人間の病気を犬が発見し、癌予防を進めたい](http://www.tbs.co.jp/yumetobi/backnumber/20060611.html)                           |
 | 85  | 2006年[6月18日](../Page/6月18日.md "wikilink")                                                   | [臼井二美男](https://ja.wikipedia.org/wiki/臼井二美男 "wikilink")                                                                     | [脚を失った人たちの一人でも多くの人へ「走る喜び」を与えたい Part1](http://www.tbs.co.jp/yumetobi/backnumber/20060618.html)            |
@@ -293,13 +293,13 @@
 | 115 | 2007年[2月4日](../Page/2月4日.md "wikilink")                                                     | [大島秀斗](https://ja.wikipedia.org/wiki/大島秀斗 "wikilink")・[吉沢伸夫](https://ja.wikipedia.org/wiki/吉沢伸夫 "wikilink")                 | [新たな建築素材を使い、地球と人に優しい家を建てたい](http://www.tbs.co.jp/yumetobi/backnumber/20070204.html)                      |
 | 116 | 2007年[2月11日](../Page/2月11日.md "wikilink")                                                   | [与座聡](https://ja.wikipedia.org/wiki/与座聡 "wikilink")                                                                         | [世界に形成外科の技術で笑顔を輪を広げたい](http://www.tbs.co.jp/yumetobi/backnumber/20070211.html)                           |
 | 117 | 2007年[2月18日](../Page/2月18日.md "wikilink")                                                   | [石井幹子](../Page/石井幹子.md "wikilink")                                                                                          | [街に美しいあかりを灯し、人々の心をライトアップしたい](http://www.tbs.co.jp/yumetobi/backnumber/20070218.html)                     |
-| 118 | 2007年[2月25日](../Page/2月25日.md "wikilink")                                                   | [渡邊剛](https://ja.wikipedia.org/wiki/渡邊剛 "wikilink")                                                                         | [天使の手と呼ばれる医療技術で心臓病を治し続けたい](http://www.tbs.co.jp/yumetobi/backnumber/20070225.html)                       |
+| 118 | 2007年[2月25日](../Page/2月25日.md "wikilink")                                                   | [渡邊剛](../Page/渡邊剛.md "wikilink")                                                                                            | [天使の手と呼ばれる医療技術で心臓病を治し続けたい](http://www.tbs.co.jp/yumetobi/backnumber/20070225.html)                       |
 | 119 | 2007年[3月4日](../Page/3月4日.md "wikilink")                                                     | [吉岡大祐](https://ja.wikipedia.org/wiki/吉岡大祐 "wikilink")                                                                       | [医療が根付くまで、僕の鍼で貧しい人々を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20070304.html)                        |
 | 120 | 2007年[3月11日](../Page/3月11日.md "wikilink")                                                   | [赤星隆幸](https://ja.wikipedia.org/wiki/赤星隆幸 "wikilink")                                                                       | [独自技術で失明の恐怖に怯える人々を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20070311.html)                          |
 | 121 | 2007年[3月18日](../Page/3月18日.md "wikilink")                                                   | [エリザベス・オリバー](https://ja.wikipedia.org/wiki/エリザベス・オリバー "wikilink")                                                           | [1頭でも多くの動物の命を守りたい](http://www.tbs.co.jp/yumetobi/backnumber/20070318.html)                               |
 | 122 | 2007年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")                                | [桑山正成](https://ja.wikipedia.org/wiki/桑山正成 "wikilink")                                                                       | [白血病やガンを患った未婚女性の回復後の人生を豊かにしてあげたい](http://www.tbs.co.jp/yumetobi/backnumber/20070325.html)                |
 | 123 | 2007年[4月1日](../Page/4月1日.md "wikilink")                                                     | [遠藤秀一](../Page/遠藤秀一.md "wikilink")                                                                                          | [『TUVALU』のことを世界中の人に伝えて行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20070401.html)                      |
-| 124 | 2007年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")                                  | [小林宏](../Page/小林宏_\(工学者\).md "wikilink")                                                                                    | [人工筋肉で、来るべき高齢化社会を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20070408.html)                           |
+| 124 | 2007年[4月8日](../Page/4月8日.md "wikilink")                                                     | [小林宏](../Page/小林宏_\(工学者\).md "wikilink")                                                                                    | [人工筋肉で、来るべき高齢化社会を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20070408.html)                           |
 | 125 | 2007年[4月15日](../Page/4月15日.md "wikilink")                                                   | [風祭喜一](https://ja.wikipedia.org/wiki/風祭喜一 "wikilink")                                                                       | [視覚障害者にスポーツの楽しさを取り戻させたい](http://www.tbs.co.jp/yumetobi/backnumber/20070415.html)                         |
 | 126 | 2007年[4月22日](../Page/4月22日.md "wikilink")                                                   | [長谷川順一](https://ja.wikipedia.org/wiki/長谷川順一 "wikilink")                                                                     | [災害に遭い、困っている人たちを助けたい](http://www.tbs.co.jp/yumetobi/backnumber/20070422.html)                            |
 | 127 | 2007年[4月29日](../Page/4月29日.md "wikilink")                                                   | [秋山利輝](https://ja.wikipedia.org/wiki/秋山利輝 "wikilink")                                                                       | [新たな、日本伝統の家具職人を育てて行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20070429.html)                          |
@@ -330,7 +330,7 @@
 | 152 | 2007年[11月18日](../Page/11月18日.md "wikilink")                                                 | [松藤展和](https://ja.wikipedia.org/wiki/松藤展和 "wikilink")                                                                       | [地盤沈下や災害で傾いた家屋を素早く直す工法を確立したい](http://www.tbs.co.jp/yumetobi/backnumber/20071118.html)                    |
 | 153 | 2007年[11月25日](../Page/11月25日.md "wikilink")                                                 | [溝口俊夫](https://ja.wikipedia.org/wiki/溝口俊夫 "wikilink")                                                                       | [野生動物と人間の共生を確立させたい](http://www.tbs.co.jp/yumetobi/backnumber/20071125.html)                              |
 | 154 | 2007年[12月2日](../Page/12月2日.md "wikilink")                                                   | 溝口俊夫                                                                                                                        | [野生動物と人間の共生を確立させたい Part II](http://www.tbs.co.jp/yumetobi/backnumber/20071202.html)                      |
-| 155 | 2007年[12月9日](../Page/12月9日.md "wikilink")                                                   | [早川一光](https://ja.wikipedia.org/wiki/早川一光 "wikilink")                                                                       | [訪問医療を通じて、高齢者の悩みを解消したい](http://www.tbs.co.jp/yumetobi/backnumber/20071209.html)                          |
+| 155 | 2007年[12月9日](../Page/12月9日.md "wikilink")                                                   | [早川一光](../Page/早川一光.md "wikilink")                                                                                          | [訪問医療を通じて、高齢者の悩みを解消したい](http://www.tbs.co.jp/yumetobi/backnumber/20071209.html)                          |
 | 156 | 2007年[12月16日](../Page/12月16日.md "wikilink")                                                 | [岡田貴彦](https://ja.wikipedia.org/wiki/岡田貴彦 "wikilink")                                                                       | [天然マグロを守るため、クロマグロ完全養殖に挑む](http://www.tbs.co.jp/yumetobi/backnumber/20071216.html)                        |
 | 157 | 2007年[12月23日](../Page/12月23日.md "wikilink")                                                 | [岡田豊](../Page/岡田豊.md "wikilink")                                                                                            | [離島の人たちの健康を守って行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20071223.html)                              |
 | 158 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月6日](../Page/1月6日.md "wikilink")   | 岡田豊                                                                                                                         | [離島の人たちの健康を守って行きたい Part II](http://www.tbs.co.jp/yumetobi/backnumber/20080106.html)                      |
@@ -400,10 +400,10 @@
 | 222 | 2009年[4月12日](../Page/4月12日.md "wikilink")                                                   | [生田幸士](https://ja.wikipedia.org/wiki/生田幸士 "wikilink")                                                                       | [マイクロロボットを現代医療に役立てたい](http://www.tbs.co.jp/yumetobi/backnumber/20090412.html)                            |
 | 223 | 2009年[4月19日](../Page/4月19日.md "wikilink")                                                   | [菱川良夫](https://ja.wikipedia.org/wiki/菱川良夫 "wikilink")                                                                       | [粒子線治療法をがん治療法として普及させたい](http://www.tbs.co.jp/yumetobi/backnumber/20090419.html)                          |
 | 224 | 2009年[4月26日](../Page/4月26日.md "wikilink")                                                   | [秋冨慎司](https://ja.wikipedia.org/wiki/秋冨慎司 "wikilink")                                                                       | [突然の災害から人命を救って行きたい Part I](http://www.tbs.co.jp/yumetobi/backnumber/20090426.html)                       |
-| 225 | 2009年[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")                                  | 秋冨慎司                                                                                                                        | [突然の災害から人命を救って行きたい Part II](http://www.tbs.co.jp/yumetobi/backnumber/20090503.html)                      |
+| 225 | 2009年[5月3日](../Page/5月3日.md "wikilink")                                                     | 秋冨慎司                                                                                                                        | [突然の災害から人命を救って行きたい Part II](http://www.tbs.co.jp/yumetobi/backnumber/20090503.html)                      |
 | 226 | 2009年[5月10日](../Page/5月10日.md "wikilink")                                                   | [山田啓次](https://ja.wikipedia.org/wiki/山田啓次 "wikilink")                                                                       | [ものづくり好きな生徒を多く育てたい](http://www.tbs.co.jp/yumetobi/backnumber/20090510.html)                              |
 | 227 | 2009年[5月17日](../Page/5月17日.md "wikilink")                                                   | [遠藤秀一](../Page/遠藤秀一.md "wikilink")                                                                                          | [海に沈む島を何とか救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20090517.html)                                  |
-| 228 | 2009年[5月24日](../Page/5月24日.md "wikilink")                                                   | [高井治](https://ja.wikipedia.org/wiki/高井治 "wikilink")                                                                         | [超はっ水技術を、世の中に役立てていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20090524.html)                           |
+| 228 | 2009年[5月24日](../Page/5月24日.md "wikilink")                                                   | [高井治](../Page/高井治.md "wikilink")                                                                                            | [超はっ水技術を、世の中に役立てていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20090524.html)                           |
 | 229 | 2009年[5月31日](../Page/5月31日.md "wikilink")                                                   | [小林久隆](https://ja.wikipedia.org/wiki/小林久隆 "wikilink")・[浦野泰照](https://ja.wikipedia.org/wiki/浦野泰照 "wikilink")                 | [がん細胞を光らせ、再発を防ぎたい](http://www.tbs.co.jp/yumetobi/backnumber/20090531.html)                               |
 | 230 | 2009年[6月7日](../Page/6月7日.md "wikilink")                                                     | [辻本誠](https://ja.wikipedia.org/wiki/辻本誠 "wikilink")                                                                         | [人に優しい霧で暑い夏を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20090607.html)                                |
 | 231 | 2009年[6月14日](../Page/6月14日.md "wikilink")                                                   | [清水ウメ子](https://ja.wikipedia.org/wiki/清水ウメ子 "wikilink")                                                                     | [非行や引きこもりになった生徒を学校に行かせたい](http://www.tbs.co.jp/yumetobi/backnumber/20090614.html)                        |
@@ -425,10 +425,10 @@
 | 247 | 2009年[10月11日](../Page/10月11日.md "wikilink")                                                 | [佐野恵一](https://ja.wikipedia.org/wiki/佐野恵一 "wikilink")                                                                       | [バリアフリー社会を確立していきたい](http://www.tbs.co.jp/yumetobi/backnumber/20091011.html)                              |
 | 248 | 2009年[10月18日](../Page/10月18日.md "wikilink")                                                 | [能澤公擴](https://ja.wikipedia.org/wiki/能澤公擴 "wikilink")                                                                       | [大切な資源を無駄にしないようリサイクルしたい](http://www.tbs.co.jp/yumetobi/backnumber/20091018.html)                         |
 | 249 | 2009年[10月25日](../Page/10月25日.md "wikilink")                                                 | [越智光夫](https://ja.wikipedia.org/wiki/越智光夫 "wikilink")                                                                       | [軟骨を再生する技術を高めて膝の障害を無くしていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20091025.html)                     |
-| 250 | 2009年[11月1日](../Page/11月1日.md "wikilink")                                                   | [若林克彦](https://ja.wikipedia.org/wiki/若林克彦 "wikilink")                                                                       | [事故の起きない精巧なナットを作って行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20091101.html)                          |
+| 250 | 2009年[11月1日](../Page/11月1日.md "wikilink")                                                   | [若林克彦](../Page/若林克彦.md "wikilink")                                                                                          | [事故の起きない精巧なナットを作って行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20091101.html)                          |
 | 251 | 2009年[11月8日](../Page/11月8日.md "wikilink")                                                   | [片山一平](https://ja.wikipedia.org/wiki/片山一平 "wikilink")                                                                       | [高校生の力で世界遺産を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20091108.html)                                |
 | 252 | 2009年[11月15日](../Page/11月15日.md "wikilink")                                                 | [林基弘](https://ja.wikipedia.org/wiki/林基弘 "wikilink")                                                                         | [ガンマナイフを遠隔操作で行い助かる命を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20091115.html)                        |
-| 253 | 2009年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")                              | [桑原豊](https://ja.wikipedia.org/wiki/桑原豊 "wikilink")                                                                         | [自らの理念を浸透させ、更なるビジネスを展開させたい](http://www.tbs.co.jp/yumetobi/backnumber/20091122.html)                      |
+| 253 | 2009年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")                              | [桑原豊](../Page/桑原豊.md "wikilink")                                                                                            | [自らの理念を浸透させ、更なるビジネスを展開させたい](http://www.tbs.co.jp/yumetobi/backnumber/20091122.html)                      |
 | 254 | 2009年[11月29日](../Page/11月29日.md "wikilink")                                                 | [糸魚川辰男](https://ja.wikipedia.org/wiki/糸魚川辰男 "wikilink")                                                                     | [新たな人材を育成し、多くの命を救って行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20091129.html)                         |
 | 255 | 2009年[12月6日](../Page/12月6日.md "wikilink")                                                   | [鈴木直樹](https://ja.wikipedia.org/wiki/鈴木直樹 "wikilink")                                                                       | [バーチャル医療システムで、未来の医学を現実にしたい](http://www.tbs.co.jp/yumetobi/backnumber/20091206.html)                      |
 | 256 | 2009年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")                              | [稲田博史](https://ja.wikipedia.org/wiki/稲田博史 "wikilink")                                                                       | [LEDを利用して日本の漁業を救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20091213.html)                             |
@@ -436,7 +436,7 @@
 | 258 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月10日](../Page/1月10日.md "wikilink") | [星野佳路](https://ja.wikipedia.org/wiki/星野佳路 "wikilink")                                                                       | [京都から日本の旅館の素晴らしさを海外に向けて発信していきたい](http://www.tbs.co.jp/yumetobi/backnumber/20100110.html)                 |
 | 259 | 2010年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")                                | [舘内端](../Page/舘内端.md "wikilink")                                                                                            | [持続可能な車社会を実現したい](http://www.tbs.co.jp/yumetobi/backnumber/20100117.html)                                 |
 | 260 | 2010年[1月24日](../Page/1月24日.md "wikilink")                                                   | [白木学](https://ja.wikipedia.org/wiki/白木学 "wikilink")                                                                         | [世界最小モーターを開発してあらゆる製品の小型化に役立てたい](http://www.tbs.co.jp/yumetobi/backnumber/20100124.html)                  |
-| 261 | 2010年[1月31日](../Page/1月31日.md "wikilink")                                                   | [広瀬茂男](https://ja.wikipedia.org/wiki/広瀬茂男 "wikilink")                                                                       | [水中ロボット開発で人命救助に役立てたい](http://www.tbs.co.jp/yumetobi/backnumber/20100131.html)                            |
+| 261 | 2010年[1月31日](../Page/1月31日.md "wikilink")                                                   | [広瀬茂男](../Page/広瀬茂男.md "wikilink")                                                                                          | [水中ロボット開発で人命救助に役立てたい](http://www.tbs.co.jp/yumetobi/backnumber/20100131.html)                            |
 | 262 | 2010年[2月7日](../Page/2月7日.md "wikilink")                                                     | [豊重哲郎](https://ja.wikipedia.org/wiki/豊重哲郎 "wikilink")                                                                       | [行政に頼らず、活性化する村づくりを進めて行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20100207.html)                       |
 | 263 | 2010年[2月14日](../Page/2月14日.md "wikilink")                                                   | [小宮山栄](https://ja.wikipedia.org/wiki/小宮山栄 "wikilink")                                                                       | [鏡を利用して役に立つ製品を作っていきたい](http://www.tbs.co.jp/yumetobi/backnumber/20100214.html)                           |
 | 264 | 2010年[2月21日](../Page/2月21日.md "wikilink")                                                   | [岡田貴彦](https://ja.wikipedia.org/wiki/岡田貴彦 "wikilink")                                                                       | [養殖マグロを安定供給して行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20100221.html)                               |
@@ -487,22 +487,22 @@
 | 309 | 2011年[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")                                | [林﨑良英](https://ja.wikipedia.org/wiki/林﨑良英 "wikilink")                                                                       | [自分の体を予め理解して、自分で病気を早期発見できるシステムを作りたい](http://www.tbs.co.jp/yumetobi/backnumber/20110116.html)             |
 | 310 | 2011年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")                                | [岡島麻衣子](https://ja.wikipedia.org/wiki/岡島麻衣子 "wikilink")                                                                     | [ハイテク産業を地元の食材で救いたい](http://www.tbs.co.jp/yumetobi/backnumber/20110123.html)                              |
 | 311 | 2011年[1月30日](../Page/1月30日.md "wikilink")                                                   | [駒崎弘樹](https://ja.wikipedia.org/wiki/駒崎弘樹 "wikilink")                                                                       | [育児環境を改善し、仕事と育児の両立が当たり前の社会を実現したい](http://www.tbs.co.jp/yumetobi/backnumber/20110130.html)                |
-| 312 | 2011年[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")                                  | [新宅光男](https://ja.wikipedia.org/wiki/新宅光男 "wikilink")                                                                       | [足元から身体を健康にし、日本を元気にしたい](http://www.tbs.co.jp/yumetobi/backnumber/20110206.html)                          |
+| 312 | 2011年[2月6日](../Page/2月6日.md "wikilink")                                                     | [新宅光男](https://ja.wikipedia.org/wiki/新宅光男 "wikilink")                                                                       | [足元から身体を健康にし、日本を元気にしたい](http://www.tbs.co.jp/yumetobi/backnumber/20110206.html)                          |
 | 313 | 2011年[2月13日](../Page/2月13日.md "wikilink")                                                   | [斎藤充](https://ja.wikipedia.org/wiki/斎藤充 "wikilink")                                                                         | [骨質という考えを取り入れ、新たな骨の治療法を確立したい](http://www.tbs.co.jp/yumetobi/backnumber/20110213.html)                    |
 | 314 | 2011年[2月20日](../Page/2月20日.md "wikilink")                                                   | [庄司日出夫](https://ja.wikipedia.org/wiki/庄司日出夫 "wikilink")                                                                     | [英語で保育をし、教育を改革、未来の国際人を育てたい](http://www.tbs.co.jp/yumetobi/backnumber/20110220.html)                      |
 | 315 | 2011年[2月27日](../Page/2月27日.md "wikilink")                                                   | [岸利治](https://ja.wikipedia.org/wiki/岸利治 "wikilink")                                                                         | [自己治癒能力を持ったコンクリートを開発し、修復のない建造物を造り出して行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20110227.html)        |
 | 316 | 2011年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")                                  | [速水浩平](https://ja.wikipedia.org/wiki/速水浩平 "wikilink")                                                                       | [振動の力をあらゆるエネルギーに変えて行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20110306.html)                         |
 | 317 | 2011年[3月20日](../Page/3月20日.md "wikilink")                                                   | [小池英樹](https://ja.wikipedia.org/wiki/小池英樹 "wikilink")                                                                       | [ディスプレイ技術を向上して、究極の使いやすい次世代コンピュータをつくって行きたい](http://www.tbs.co.jp/yumetobi/backnumber/20110320.html)       |
 | 318 | 2011年[3月27日](../Page/3月27日.md "wikilink")                                                   | [牛場潤一](https://ja.wikipedia.org/wiki/牛場潤一 "wikilink")                                                                       | [最新テクノロジーを活かしたリハビリテーション医療を確立したい](http://www.tbs.co.jp/yumetobi/backnumber/20110327.html)                 |
-| 319 | 2011年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")                                  | [五十嵐里香](https://ja.wikipedia.org/wiki/五十嵐里香 "wikilink")                                                                     | [看護師としての立場で地域医療の向上に貢献したい](http://www.tbs.co.jp/yumetobi/backnumber/20110403.html)                        |
+| 319 | 2011年[4月3日](../Page/4月3日.md "wikilink")                                                     | [五十嵐里香](https://ja.wikipedia.org/wiki/五十嵐里香 "wikilink")                                                                     | [看護師としての立場で地域医療の向上に貢献したい](http://www.tbs.co.jp/yumetobi/backnumber/20110403.html)                        |
 
 放送一覧表
 
 ## 放送休止
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")以降は[世界陸上開催の時期は世界陸上中継で放送休止となる](https://ja.wikipedia.org/wiki/世界陸上選手権 "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")は『[最強の男は誰だ\!壮絶筋肉バトル\!\!スポーツマンNo.1決定戦](../Page/最強の男は誰だ!壮絶筋肉バトル!!スポーツマンNo.1決定戦.md "wikilink")XXXI』を放送のため、休止。
-  - 2006年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")は[プロ野球](../Page/プロ野球.md "wikilink")[サンヨーオールスターゲームの第](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")2戦中継（7月22日は降雨中止となったため）のため、放送休止となった。
+  - [2006年](../Page/2006年.md "wikilink")以降は[世界陸上開催の時期は世界陸上中継で放送休止となる](https://ja.wikipedia.org/wiki/世界陸上選手権 "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")は『[最強の男は誰だ\!壮絶筋肉バトル\!\!スポーツマンNo.1決定戦](../Page/最強の男は誰だ!壮絶筋肉バトル!!スポーツマンNo.1決定戦.md "wikilink")XXXI』を放送のため、休止。
+  - 2006年[7月23日](../Page/7月23日.md "wikilink")は[プロ野球](../Page/プロ野球.md "wikilink")[サンヨーオールスターゲームの第](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")2戦中継（7月22日は降雨中止となったため）のため、放送休止となった。
   - 2006年[12月31日](../Page/12月31日.md "wikilink")は『[K-1 PREMIUM 2006 Dynamite\!\!](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2006_Dynamite!! "wikilink")』を放送のため、休止。
   - [2007年](../Page/2007年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")は『[第49回 輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第49回日本レコード大賞 "wikilink")』を放送のため、休止。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")は『[THE世界遺産](https://ja.wikipedia.org/wiki/THE世界遺産 "wikilink")』の開始記念1時間スペシャルを放送し、休止となった。

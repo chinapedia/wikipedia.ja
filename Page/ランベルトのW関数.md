@@ -12,19 +12,19 @@
 
 函数  は[単射](../Page/単射.md "wikilink")ではないから、[関係](../Page/二項関係.md "wikilink")  は（ を除いて）[多価である](https://ja.wikipedia.org/wiki/多価函数 "wikilink")。仮に実数値の  に注意を制限するとすれば、複素変数  は実変数  に取り換えられ、関係の定義域は区間  に限られ、また開区間  上で二価の函数になる。さらに制約条件として  を追加すれば一価函数  が定義されて、 および  を得る。それと同時に、下側の枝は  であって、 と書かれる。これは  から  まで単調減少する。
 
-ランベルト  関係は[初等函数](https://ja.wikipedia.org/wiki/初等函数 "wikilink")では表すことができない\[1\]。ランベルト  は[組合せ論](https://ja.wikipedia.org/wiki/組合せ論 "wikilink")において有用で、例えば[木の数え上げに用いられる](../Page/木_\(数学\).md "wikilink")。指数函数を含む様々な方程式（例えば[プランク分布](https://ja.wikipedia.org/wiki/プランクの法則 "wikilink")、[ボーズ–アインシュタイン分布](https://ja.wikipedia.org/wiki/ボース分布関数 "wikilink")、[フェルミ–ディラック分布などの最大値](../Page/フェルミ分布関数.md "wikilink")）を解くのに用いられ、また のような の解としても生じる。[生化学](../Page/生化学.md "wikilink")において、また特に[酵素動力学において](../Page/酵素反応速度論.md "wikilink")、[ミカエリス–メンテン動力学の経時動力学解析に対する閉じた形の解はランベルト](https://ja.wikipedia.org/wiki/ミカエリス・メンテン式 "wikilink")  函数によって記述される。
+ランベルト  関係は[初等函数](https://ja.wikipedia.org/wiki/初等函数 "wikilink")では表すことができない\[1\]。ランベルト  は[組合せ論](https://ja.wikipedia.org/wiki/組合せ論 "wikilink")において有用で、例えば[木の数え上げに用いられる](../Page/木_\(数学\).md "wikilink")。指数函数を含む様々な方程式（例えば[プランク分布](https://ja.wikipedia.org/wiki/プランクの法則 "wikilink")、[ボーズ–アインシュタイン分布](https://ja.wikipedia.org/wiki/ボース分布関数 "wikilink")、[フェルミ–ディラック分布などの最大値](../Page/フェルミ分布関数.md "wikilink")）を解くのに用いられ、また のような の解としても生じる。[生化学](../Page/生化学.md "wikilink")において、また特に[酵素動力学において](../Page/酵素反応速度論.md "wikilink")、[ミカエリス–メンテン動力学の経時動力学解析に対する閉じた形の解はランベルト](../Page/ミカエリス・メンテン式.md "wikilink")  函数によって記述される。
 
 [thumbは](https://ja.wikipedia.org/wiki/file:Product_Log.jpg "wikilink")  を端点に持つ。この図では、点  における色相を  の[偏角で](https://ja.wikipedia.org/wiki/偏角_\(複素解析\) "wikilink")、輝度を  の[絶対値](https://ja.wikipedia.org/wiki/絶対値 "wikilink")で決定している。\]\]
 
 ## 用語について
 
-[Diagram_of_the_real_branches_of_the_Lambert_W_function.png](https://ja.wikipedia.org/wiki/File:Diagram_of_the_real_branches_of_the_Lambert_W_function.png "fig:Diagram_of_the_real_branches_of_the_Lambert_W_function.png") ランベルト -函数は[ヨハン・ハインリヒ・ランベルト](https://ja.wikipedia.org/wiki/ヨハン・ハインリヒ・ランベルト "wikilink")に因んで名づけられた。[Digital Library of Mathematical Functions](https://ja.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions "wikilink") では主枝  を , 分枝  は  と書いている。ここでの表記の規約（つまり ）はランベルト  に関する標準的な参考文献\[2\]に従った。
+[Diagram_of_the_real_branches_of_the_Lambert_W_function.png](https://ja.wikipedia.org/wiki/File:Diagram_of_the_real_branches_of_the_Lambert_W_function.png "fig:Diagram_of_the_real_branches_of_the_Lambert_W_function.png") ランベルト -函数は[ヨハン・ハインリヒ・ランベルト](../Page/ヨハン・ハインリヒ・ランベルト.md "wikilink")に因んで名づけられた。[Digital Library of Mathematical Functions](https://ja.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions "wikilink") では主枝  を , 分枝  は  と書いている。ここでの表記の規約（つまり ）はランベルト  に関する標準的な参考文献\[2\]に従った。
 
 ## 歴史
 
 ランベルトは初め「ランベルトの超越方程式」に関連して1758年に考察した\[3\]。これは[レオンハルト・オイラー](../Page/レオンハルト・オイラー.md "wikilink")の1783年の  の特別な場合を論じた論文\[4\]に繋がる。
 
-ランベルト -函数は、特殊化された応用において、十年程度毎に「再発見」されてきた。1993年には、等電荷に対する量子力学的（物理学における基本問題）の厳密解をランベルト -函数が与えることが報告されたとき、コーレスら計算機代数システム[Maple](https://ja.wikipedia.org/wiki/Maple "wikilink")の開発者たちはライブラリを精査して、この函数が自然界に遍く存在することを発見した\[5\]\[6\]。
+ランベルト -函数は、特殊化された応用において、十年程度毎に「再発見」されてきた。1993年には、等電荷に対する量子力学的（物理学における基本問題）の厳密解をランベルト -函数が与えることが報告されたとき、コーレスら計算機代数システム[Maple](../Page/Maple.md "wikilink")の開発者たちはライブラリを精査して、この函数が自然界に遍く存在することを発見した\[5\]\[6\]。
 
 ## 微分積分学
 
@@ -71,7 +71,7 @@
 
 W_0 (x) = \\sum_{n=1}^\\infty \\frac{(-n)^{n-1}}{n\!}\\ x^n = x - x^2 + \\frac{3}{2}x^3 - \\frac{8}{3}x^4 + \\frac{125}{24}x^5 - \\cdots </math>
 
-[ダランベールの収束判定法](https://ja.wikipedia.org/wiki/ダランベールの収束判定法 "wikilink")によると、[収束半径](https://ja.wikipedia.org/wiki/収束半径 "wikilink")は  である。この級数の定める函数は、[区間](../Page/区間_\(数学\).md "wikilink") }}に沿ってを入れれば、ガウス平面の全域で定義される[正則函数](https://ja.wikipedia.org/wiki/正則函数 "wikilink")に延長することができる。この正則函数をランベルト  函数の[主値](https://ja.wikipedia.org/wiki/主値 "wikilink")と定める。
+[ダランベールの収束判定法](../Page/ダランベールの収束判定法.md "wikilink")によると、[収束半径](../Page/収束半径.md "wikilink")は  である。この級数の定める函数は、[区間](../Page/区間_\(数学\).md "wikilink") }}に沿ってを入れれば、ガウス平面の全域で定義される[正則函数](https://ja.wikipedia.org/wiki/正則函数 "wikilink")に延長することができる。この正則函数をランベルト  函数の[主値](https://ja.wikipedia.org/wiki/主値 "wikilink")と定める。
 
 が十分大きければ、 は漸近的に
 
@@ -101,7 +101,7 @@ W_0 (x) = \\sum_{n=1}^\\infty \\frac{(-n)^{n-1}}{n\!}\\ x^n = x - x^2 + \\frac{3
 
 ### 整数冪・複素数冪の展開
 
-の整数乗もまた  において単純なテイラー級数（あるいは[ローラン級数](https://ja.wikipedia.org/wiki/ローラン級数 "wikilink")）展開を持つ。例えば
+の整数乗もまた  において単純なテイラー級数（あるいは[ローラン級数](../Page/ローラン級数.md "wikilink")）展開を持つ。例えば
 
   -
     \(W_0(x)^2 = \sum_{n=2}^\infty \frac{-2(-n)^{n-3}}{(n-2)!}\ x^n = x^2-2x^3+4x^4-\frac{25}{3}x^5+18x^6- \cdots.\)
@@ -132,7 +132,7 @@ W_0 (x) = \\sum_{n=1}^\\infty \\frac{(-n)^{n-1}}{n\!}\\ x^n = x - x^2 + \\frac{3
 
 \[W(0) = 0\]
 
-\[W(1) = \Omega=\frac{1}{\displaystyle \int_{-\infty}^{+\infty}\frac{dt}{(e^t-t)^2+\pi^2}}-1\approx 0.56714329\dots\] ([オメガ定数](https://ja.wikipedia.org/wiki/オメガ定数 "wikilink"))
+\[W(1) = \Omega=\frac{1}{\displaystyle \int_{-\infty}^{+\infty}\frac{dt}{(e^t-t)^2+\pi^2}}-1\approx 0.56714329\dots\] ([オメガ定数](../Page/オメガ定数.md "wikilink"))
 
 \[W(1) = e^{-W(1)} = -\ln W(1)\]
 

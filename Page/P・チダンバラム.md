@@ -1,23 +1,23 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-**P・チダンバラム**（ப. சிதம்பரம் : P. Chidambaram ; チダンバラム・パラニヤッパン、パラニヤッパンは[父名](https://ja.wikipedia.org/wiki/インド人の名前 "wikilink")。சிதம்பரம் பலனியப்பன் : Chidambaram Palaniyappan）は、[タミル人](https://ja.wikipedia.org/wiki/タミル人 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。[インド](../Page/インド.md "wikilink")政府の[財務大臣](https://ja.wikipedia.org/wiki/財務大臣 "wikilink")を務めた。
+**P・チダンバラム**（ப. சிதம்பரம் : P. Chidambaram ; チダンバラム・パラニヤッパン、パラニヤッパンは[父名](../Page/インド人の名前.md "wikilink")。சிதம்பரம் பலனியப்பன் : Chidambaram Palaniyappan）は、[タミル人](../Page/タミル人.md "wikilink")の[政治家](../Page/政治家.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。[インド](../Page/インド.md "wikilink")政府の[財務大臣](../Page/財務大臣.md "wikilink")を務めた。
 
 ## 生涯
 
 ### 出自及び学歴
 
-[インド](../Page/インド.md "wikilink")の[タミル・ナードゥ州](https://ja.wikipedia.org/wiki/タミル・ナードゥ州 "wikilink")[シヴァガンガイ県](../Page/シヴァガンガイ県.md "wikilink")カーナードゥカーッターンにて、[1945年](../Page/1945年.md "wikilink")9月16日に生まれた。
+[インド](../Page/インド.md "wikilink")の[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")[シヴァガンガイ県](../Page/シヴァガンガイ県.md "wikilink")カーナードゥカーッターンにて、[1945年](../Page/1945年.md "wikilink")9月16日に生まれた。
 
 [マドラス大学](https://ja.wikipedia.org/wiki/マドラス大学 "wikilink")を卒業して[科学](../Page/科学.md "wikilink")[学士](../Page/学士.md "wikilink")号（B.Sc.）および[法学](../Page/法学.md "wikilink")学士号（B.L.）を取得し、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")にて[経営学修士](../Page/経営学修士.md "wikilink")号（M.B.A.）を取得した。
 
 ### 政治家としての経歴
 
-左翼政治家として出発し、[1984年](../Page/1984年.md "wikilink")にタミル・ナードゥ州の[シヴァガンガイ](https://ja.wikipedia.org/wiki/シヴァガンガイ "wikilink")選挙区から[インド下院選挙に出馬して初当選](https://ja.wikipedia.org/wiki/ローク・サバー "wikilink")。
+左翼政治家として出発し、[1984年](../Page/1984年.md "wikilink")にタミル・ナードゥ州の[シヴァガンガイ](../Page/シヴァガンガイ.md "wikilink")選挙区から[インド下院選挙に出馬して初当選](https://ja.wikipedia.org/wiki/ローク・サバー "wikilink")。
 
-[ラジーヴ・ガンディー](https://ja.wikipedia.org/wiki/ラジーヴ・ガンディー "wikilink")政権のもと、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1989年](../Page/1989年.md "wikilink")の間、タミル・ナードゥ州内閣の商業担当相として、[国民会議派](https://ja.wikipedia.org/wiki/国民会議派 "wikilink")による経済改革に参画した。[1991年](../Page/1991年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")には、[ナラシンハ・ラーオ](https://ja.wikipedia.org/wiki/ナラシンハ・ラーオ "wikilink")政権のもとで再びタミル・ナードゥ州内閣の商業担当相となった。
+[ラジーヴ・ガンディー](../Page/ラジーヴ・ガンディー.md "wikilink")政権のもと、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1989年](../Page/1989年.md "wikilink")の間、タミル・ナードゥ州内閣の商業担当相として、[国民会議派](https://ja.wikipedia.org/wiki/国民会議派 "wikilink")による経済改革に参画した。[1991年](../Page/1991年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")には、[ナラシンハ・ラーオ](../Page/ナラシンハ・ラーオ.md "wikilink")政権のもとで再びタミル・ナードゥ州内閣の商業担当相となった。
 
-[1996年](../Page/1996年.md "wikilink")、国民会議派が[全インド・アンナー・ドラーヴィダ進歩同盟と連携するにあたって同党から離脱し](https://ja.wikipedia.org/wiki/全インド・アンナー・ドラーヴィダ進歩党 "wikilink")、[統一戦線](../Page/統一戦線.md "wikilink")に参加した[タミル州国民会議](https://ja.wikipedia.org/wiki/タミル州国民会議 "wikilink")に参じ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")までインド[財務大臣](https://ja.wikipedia.org/wiki/財務大臣 "wikilink")を務めた。
+[1996年](../Page/1996年.md "wikilink")、国民会議派が[全インド・アンナー・ドラーヴィダ進歩同盟と連携するにあたって同党から離脱し](../Page/全インド・アンナー・ドラーヴィダ進歩党.md "wikilink")、[統一戦線](../Page/統一戦線.md "wikilink")に参加した[タミル州国民会議](https://ja.wikipedia.org/wiki/タミル州国民会議 "wikilink")に参じ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")までインド[財務大臣](../Page/財務大臣.md "wikilink")を務めた。
 
 [2001年](../Page/2001年.md "wikilink")、タミル州国民会議派を離脱し、独自の政党[国民会議民主党](https://ja.wikipedia.org/wiki/国民会議民主党 "wikilink")を組織する。その後同党はインド国民会議派に吸収され、[2004年連邦下院選挙ではチダンバラムはインド国民会議派の有力候補となって](https://ja.wikipedia.org/wiki/2004年インド総選挙 "wikilink")、シヴァガンガイ選挙区から当選した。
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [タミル・ナードゥ州](https://ja.wikipedia.org/wiki/タミル・ナードゥ州 "wikilink")
+  - [タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")
   - [タミル・ナードゥの政治](https://ja.wikipedia.org/wiki/タミル・ナードゥの政治 "wikilink")
 
 ## 外部リンク

@@ -3,13 +3,13 @@
 
 「**appears**」（アピアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の11th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売\[2\]。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に**Ayu**名義で発売。
+[2000年](../Page/2000年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売\[2\]。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](../Page/2005年.md "wikilink")に**Ayu**名義で発売。
 
 ## 解説
 
 2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』と同時発売の30万枚完全限定生産シングル。
 
-[オリコン週間シングルランキングでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Addicted To You](https://ja.wikipedia.org/wiki/Addicted_To_You "wikilink")」が1位を獲得したため、阻ばれて最高2位を記録した。前作から続いた2作連続1位にはならなかったが、本作のCD累計売上枚数は31万枚（オリコン調べ）を記録した。
+[オリコン週間シングルランキングでは](../Page/オリコンチャート.md "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Addicted To You](../Page/Addicted_To_You.md "wikilink")」が1位を獲得したため、阻ばれて最高2位を記録した。前作から続いた2作連続1位にはならなかったが、本作のCD累計売上枚数は31万枚（オリコン調べ）を記録した。
 
 [2001年](../Page/2001年.md "wikilink")には、[アメリカで表題曲の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リミックス](../Page/リミックス.md "wikilink")がアナログ盤としてavex usaより発売されている\[3\]。
 
@@ -21,18 +21,18 @@
 
 初回生産限定盤には、縦長デジパック透明スリーヴ仕様、特設サイトアクセスカードが封入されている\[5\]。
 
-本リリースに先駆け、自身の誕生日にあたる[10月2日](../Page/10月2日.md "wikilink")にこれまでに発表されたデビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から最新アルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』の間にリリースされた、100曲以上の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")においてフル尺で一挙解禁された\[6\]ほか、本リリース同日には、今作に収録されている「TO BE」と「appears」から2本のリリックビデオが公開された\[7\]。また10月11日には、本アルバムDISC1収録の全16曲がリマスター音源の配信が先行として行われた\[8\]。
+本リリースに先駆け、自身の誕生日にあたる[10月2日](../Page/10月2日.md "wikilink")にこれまでに発表されたデビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から最新アルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』の間にリリースされた、100曲以上の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")においてフル尺で一挙解禁された\[6\]ほか、本リリース同日には、今作に収録されている「TO BE」と「appears」から2本のリリックビデオが公開された\[7\]。また10月11日には、本アルバムDISC1収録の全16曲がリマスター音源の配信が先行として行われた\[8\]。
 
 ## 収録曲
 
 ### CD
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 1.  **appears "99 Greeting Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [花王](../Page/花王.md "wikilink")「[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink")・[オーブ](../Page/AUBE_\(化粧品\).md "wikilink") クリスマス」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [花王](../Page/花王.md "wikilink")「[ソフィーナ](../Page/ソフィーナ.md "wikilink")・[オーブ](../Page/AUBE_\(化粧品\).md "wikilink") クリスマス」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **appears "Scud Filter Mix"**
 3.  **appears "Dub's Eurotech Remix"**
 4.  **[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink") "[Ferry 'System F' Corsten](../Page/フェリー・コーステン.md "wikilink") dub mix"**
@@ -44,7 +44,7 @@
 10. **immature "[JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink") Original CM Version"**
       -
         作曲：Kazuhito Kikuchi / 編曲：Keisuke Kikuchi
-        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」CMソング
+        [日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング
 11. **appears "99 Greeting Mix" -Instrumental-**
 12. **immature "JT Original CM Version" -Instrumental-**
 
@@ -113,7 +113,7 @@
   - **appears**
       - 『[LOVEppears](../Page/LOVEppears.md "wikilink")』(アルバムバージョン)
       - 『[A BEST](../Page/A_BEST.md "wikilink")』(アルバムバージョン)
-      - 『[A BALLADS](https://ja.wikipedia.org/wiki/A_BALLADS "wikilink")』(HAL'S Progress)
+      - 『[A BALLADS](../Page/A_BALLADS.md "wikilink")』(HAL'S Progress)
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』(アルバムバージョン)
       - 『[WINTER BALLAD SELECTION](https://ja.wikipedia.org/wiki/WINTER_BALLAD_SELECTION "wikilink")』
   - **immature**
@@ -121,13 +121,13 @@
 
 ## appears (Ayuの曲)
 
-「**appears**」（アピアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")5th[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
+「**appears**」（アピアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")5th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
 
 ### 解説
 
 Ayu（浜崎あゆみ）がヨーロッパで発売した5thシングル。[Armin van BuurenやKyau](https://ja.wikipedia.org/wiki/アーミン・ヴァン・ブーレン "wikilink") & Albertらが[リミックス](../Page/リミックス.md "wikilink")を手がけた。
 
-[2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](https://ja.wikipedia.org/wiki/Cyber_TRANCE_presents_ayu_trance "wikilink")』に収録されている「appears "Armin Van Buuren remix"」は未収録。
+[2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』に収録されている「appears "Armin Van Buuren remix"」は未収録。
 
 ### 収録曲
 

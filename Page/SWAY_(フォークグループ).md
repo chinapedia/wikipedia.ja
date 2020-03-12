@@ -1,15 +1,15 @@
 > この記事は[SWAY \(\)](https://ja.wikipedia.org/wiki/SWAY_\(\))から翻訳されています。
 
 
-**SWAY**（スウェイ）は、[1980年代](../Page/1980年代.md "wikilink")後半から[2000年代](../Page/2000年代.md "wikilink")初め頃にかけて活動した日本の女性[フォークデュオ](https://ja.wikipedia.org/wiki/フォークデュオ "wikilink")である。
+**SWAY**（スウェイ）は、[1980年代](../Page/1980年代.md "wikilink")後半から[2000年代](../Page/2000年代.md "wikilink")初め頃にかけて活動した日本の女性[フォークデュオ](../Page/フォークデュオ.md "wikilink")である。
 
 ## 来歴
 
-**杉山加奈**と**堀部雅子**の2人が当初「さそり座」の名で結成した。2人が中学2年生の時、自作曲「窓ガラスのへのへのもへじ」が第28回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")（ポプコン）で優秀曲賞を受賞し、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")2月、[ポリドールから同曲でデビューした](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。同曲は[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")40位で、3万6000枚以上を売り上げた。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の「おいでブランコリー」は第17回[世界歌謡祭](https://ja.wikipedia.org/wiki/世界歌謡祭 "wikilink")で金賞した。この時は高校生であった。同年、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』に「[最後のシュート](../Page/最後のシュート.md "wikilink")」を提供した。これは引退試合で敗れた[バスケットボール](../Page/バスケットボール.md "wikilink")部員の心象を歌いあげたものである。
+**杉山加奈**と**堀部雅子**の2人が当初「さそり座」の名で結成した。2人が中学2年生の時、自作曲「窓ガラスのへのへのもへじ」が第28回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")（ポプコン）で優秀曲賞を受賞し、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")2月、[ポリドールから同曲でデビューした](../Page/ポリドール・レコード.md "wikilink")。同曲は[オリコン最高](../Page/オリコンチャート.md "wikilink")40位で、3万6000枚以上を売り上げた。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の「おいでブランコリー」は第17回[世界歌謡祭](../Page/世界歌謡祭.md "wikilink")で金賞した。この時は高校生であった。同年、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に「[最後のシュート](../Page/最後のシュート.md "wikilink")」を提供した。これは引退試合で敗れた[バスケットボール](../Page/バスケットボール.md "wikilink")部員の心象を歌いあげたものである。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に自主製作CD『チャイム』を発表した後、事務所を変わったことを機に「SWAY」と改名、2枚のCDアルバム、1枚のシングル、2冊のCDブックを発表した。[フォーク調の歌唱法](../Page/フォークソング.md "wikilink")、低声部（堀部）が主にリードをとり高声部（杉山）が[3度と](../Page/音程.md "wikilink")[オブリガート](https://ja.wikipedia.org/wiki/オブリガート "wikilink")を付けていくスタイルで、さまざまな断面での[青年期](https://ja.wikipedia.org/wiki/青年期 "wikilink")の心象風景を歌い、地味ながらある程度の人気があった。「ある日突然」はTVバラエティ番組『[うれしたのし大好き](https://ja.wikipedia.org/wiki/うれしたのし大好き "wikilink")』のエンディングにも使われた。最初のCDブック『風の子フータ』ではストーリー、挿絵、音楽全てをSWAY自身が手掛けた。1991年から1992年にかけて、[NHK名古屋FMの](../Page/NHK名古屋放送局.md "wikilink")『[FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")』でDJを担当した。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に自主製作CD『チャイム』を発表した後、事務所を変わったことを機に「SWAY」と改名、2枚のCDアルバム、1枚のシングル、2冊のCDブックを発表した。[フォーク調の歌唱法](../Page/フォークソング.md "wikilink")、低声部（堀部）が主にリードをとり高声部（杉山）が[3度と](../Page/音程.md "wikilink")[オブリガート](https://ja.wikipedia.org/wiki/オブリガート "wikilink")を付けていくスタイルで、さまざまな断面での[青年期](../Page/青年期.md "wikilink")の心象風景を歌い、地味ながらある程度の人気があった。「ある日突然」はTVバラエティ番組『[うれしたのし大好き](../Page/うれしたのし大好き.md "wikilink")』のエンディングにも使われた。最初のCDブック『風の子フータ』ではストーリー、挿絵、音楽全てをSWAY自身が手掛けた。1991年から1992年にかけて、[NHK名古屋FMの](../Page/NHK名古屋放送局.md "wikilink")『[FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")』でDJを担当した。
 
-ところが、堀部が結婚引退することになり、改名以降アレンジとプロデュースを担当してきた「3人目のSWAY」こと**丸尾めぐみ**が1999年以降ボーカルとしても参加した。ソングブック『[夢のクレヨン王国](https://ja.wikipedia.org/wiki/夢のクレヨン王国 "wikilink")』等に参加し、ライブも継続して行った。2000年に『[おジャ魔女どれみ♯(しゃーぷっ)](https://ja.wikipedia.org/wiki/おジャ魔女どれみ#『おジャ魔女どれみ♯（しゃーぷっ）』 "wikilink")』のエンディングの「声をきかせて」と「耳をすませて」をメンバー2人で製作した。杉山が結婚にともない[タイに渡ったため](../Page/タイ王国.md "wikilink")、以後は活動停止状態となっている。
+ところが、堀部が結婚引退することになり、改名以降アレンジとプロデュースを担当してきた「3人目のSWAY」こと**丸尾めぐみ**が1999年以降ボーカルとしても参加した。ソングブック『[夢のクレヨン王国](../Page/夢のクレヨン王国.md "wikilink")』等に参加し、ライブも継続して行った。2000年に『[おジャ魔女どれみ♯(しゃーぷっ)](https://ja.wikipedia.org/wiki/おジャ魔女どれみ#『おジャ魔女どれみ♯（しゃーぷっ）』 "wikilink")』のエンディングの「声をきかせて」と「耳をすませて」をメンバー2人で製作した。杉山が結婚にともない[タイに渡ったため](../Page/タイ王国.md "wikilink")、以後は活動停止状態となっている。
 
 ## ディスコグラフィー
 
@@ -50,7 +50,7 @@
       - 作詞・作曲：杉山加奈／編曲：[丸尾恵](https://ja.wikipedia.org/wiki/丸尾恵 "wikilink")
     <!-- end list -->
       -
-        [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[うれしたのし大好き](https://ja.wikipedia.org/wiki/うれしたのし大好き "wikilink")」エンディングソング
+        [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[うれしたのし大好き](../Page/うれしたのし大好き.md "wikilink")」エンディングソング
   - 太陽の下の一瞬／川べりの風景（1994年1月21日）
       - 作詞・作曲：杉山加奈／編曲：[野口義修](https://ja.wikipedia.org/wiki/野口義修 "wikilink")
   - 風の子フータ／草ぶえと麦わら帽子（1994年8月21日）
@@ -70,7 +70,7 @@
     2.  風から生まれた（作詞・作曲：杉山加奈／編曲：[六川正彦](https://ja.wikipedia.org/wiki/六川正彦 "wikilink")・丸尾恵）
     3.  [最後のシュート](../Page/最後のシュート.md "wikilink")（作詞・作曲：杉山加奈／編曲：丸尾恵）
           -
-            [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』(1987年)放送曲
+            [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』(1987年)放送曲
     4.  霧の中で（作詞・作曲：杉山加奈／編曲：丸尾恵）
     5.  モシモシ（作詞・作曲：杉山加奈／編曲：六川正彦）
     6.  ある日突然（作詞・作曲：杉山加奈／編曲：丸尾恵）
@@ -114,7 +114,7 @@
       - ありのままに
     <!-- end list -->
       -
-        東映動画制作『[夢のクレヨン王国](https://ja.wikipedia.org/wiki/夢のクレヨン王国 "wikilink")』エンディングテーマ
+        東映動画制作『[夢のクレヨン王国](../Page/夢のクレヨン王国.md "wikilink")』エンディングテーマ
 
 ## ラジオ
 

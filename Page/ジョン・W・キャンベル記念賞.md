@@ -9,7 +9,7 @@
 
 候補作の決定後、選考委員の議論により受賞作を決定する。2009年の委員は8名、2010年と2011年は9名だった。選考委員は1位、2位、3位という形で3作品まで選考し、発表する。
 
-授賞式は従来様々な場所で行われてきたが、1979年から[カンザス大学](https://ja.wikipedia.org/wiki/カンザス大学 "wikilink")の [Center for the Study of Science Fiction](https://ja.wikipedia.org/wiki/:en:Center_for_the_Study_of_Science_Fiction "wikilink") (CSSF) が毎年開催する [Campbell Conference](https://ja.wikipedia.org/wiki/:en:Campbell_Conference_\(science_fiction\) "wikilink") で行うようになった。そこでは、SFの創作、イラストレーション、出版、教育、批評などのカンファレンスが開催され、この賞の授賞式がクライマックスとなっている。受賞作家はカンファレンスだけでなく、その前の2週間開催されるSF作家ワークショップにも参加することがある\[2\]。
+授賞式は従来様々な場所で行われてきたが、1979年から[カンザス大学](../Page/カンザス大学.md "wikilink")の [Center for the Study of Science Fiction](https://ja.wikipedia.org/wiki/:en:Center_for_the_Study_of_Science_Fiction "wikilink") (CSSF) が毎年開催する [Campbell Conference](https://ja.wikipedia.org/wiki/:en:Campbell_Conference_\(science_fiction\) "wikilink") で行うようになった。そこでは、SFの創作、イラストレーション、出版、教育、批評などのカンファレンスが開催され、この賞の授賞式がクライマックスとなっている。受賞作家はカンファレンスだけでなく、その前の2週間開催されるSF作家ワークショップにも参加することがある\[2\]。
 
 ### 選考委員
 
@@ -132,7 +132,7 @@
 <td><p>1984</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新しい太陽の書" title="wikilink">独裁者の城塞</a></p></td>
 <td><p><em>The Citadel of the Autarch</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジーン・ウルフ" title="wikilink">ジーン・ウルフ</a></p></td>
+<td><p><a href="../Page/ジーン・ウルフ.md" title="wikilink">ジーン・ウルフ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985</p></td>
@@ -156,7 +156,7 @@
 <td><p>1988</p></td>
 <td><p>リンカーンの夢</p></td>
 <td><p><em>Lincoln's Dreams</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コニー・ウィリス" title="wikilink">コニー・ウィリス</a></p></td>
+<td><p><a href="../Page/コニー・ウィリス.md" title="wikilink">コニー・ウィリス</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1989</p></td>
@@ -317,7 +317,7 @@
 <tr class="even">
 <td><p>夢幻諸島から</p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/:en:The_Islanders_(novel)" title="wikilink">The Islanders</a></em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・プリースト" title="wikilink">クリストファー・プリースト</a></p></td>
+<td><p><a href="../Page/クリストファー・プリースト.md" title="wikilink">クリストファー・プリースト</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

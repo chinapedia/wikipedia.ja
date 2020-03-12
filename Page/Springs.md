@@ -1,7 +1,7 @@
 > この記事は[Springs](https://ja.wikipedia.org/wiki/Springs)から翻訳されています。
 
 
-**Springs**（スプリングス）は、[伊藤彩華](../Page/マリア_\(日本の歌手\).md "wikilink")、[平野綾](../Page/平野綾.md "wikilink")、[吉田有希による](../Page/吉田有希_\(アイドル\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。所属事務所は[スペースクラフト](../Page/スペースクラフト.md "wikilink")、所属レコード会社は東芝EMI（現・[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）だった。
+**Springs**（スプリングス）は、[伊藤彩華](../Page/マリア_\(日本の歌手\).md "wikilink")、[平野綾](../Page/平野綾.md "wikilink")、[吉田有希による](../Page/吉田有希_\(アイドル\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属事務所は[スペースクラフト](../Page/スペースクラフト.md "wikilink")、所属レコード会社は東芝EMI（現・[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）だった。
 
 ## 概要
 
@@ -15,17 +15,17 @@
 
 ## 経歴
 
-  - ユニット名が決まらないまま、[2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")にテレビ番組『深夜戦隊ガリンペロ』のエンディングテーマ「[DOWN TOWN](https://ja.wikipedia.org/wiki/DOWN_TOWN "wikilink")」（[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー）でCDデビューする。そのため、本来はユニット名が決まっていないことを指す「ユニット名未定」という言葉がそのままアーティスト名としてクレジットされていた。
+  - ユニット名が決まらないまま、[2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")にテレビ番組『深夜戦隊ガリンペロ』のエンディングテーマ「[DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")」（[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー）でCDデビューする。そのため、本来はユニット名が決まっていないことを指す「ユニット名未定」という言葉がそのままアーティスト名としてクレジットされていた。
   - テレビ番組『深夜戦隊ガリンペロ』内でユニット名を募集していたが、2003年[2月15日](../Page/2月15日.md "wikilink")深夜の放送で、[お笑いコンビ](../Page/お笑いタレント.md "wikilink")「[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")」の独断により「Springs」と命名される。
 
 ## 作品
 
 ### シングル
 
-  - [DOWN TOWN](https://ja.wikipedia.org/wiki/DOWN_TOWN "wikilink")（2003年1月22日） - [シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー。
+  - [DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")（2003年1月22日） - [シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー。
   - [木枯しに抱かれて](../Page/木枯しに抱かれて_\(小泉今日子の曲\).md "wikilink")（2003年2月26日） - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")のカバー。
-  - [Raspberry Dream](https://ja.wikipedia.org/wiki/RASPBERRY_DREAM "wikilink")（2003年3月26日） - [レベッカのカバー](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")。
-  - [Identified](https://ja.wikipedia.org/wiki/Identified "wikilink")（2003年9月3日） - 初のオリジナル曲、アニメ『[爆転シュート ベイブレードGレボリューション](https://ja.wikipedia.org/wiki/爆転シュート_ベイブレード_\(アニメ\) "wikilink")』の主題歌。
+  - [Raspberry Dream](https://ja.wikipedia.org/wiki/RASPBERRY_DREAM "wikilink")（2003年3月26日） - [レベッカのカバー](../Page/レベッカ_\(バンド\).md "wikilink")。
+  - [Identified](https://ja.wikipedia.org/wiki/Identified "wikilink")（2003年9月3日） - 初のオリジナル曲、アニメ『[爆転シュート ベイブレードGレボリューション](../Page/爆転シュート_ベイブレード_\(アニメ\).md "wikilink")』の主題歌。
 
 ### アルバム
 
@@ -33,13 +33,13 @@
     1.  DOWN TOWN - [シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー。
     2.  木枯しに抱かれて - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")のカバー。
     3.  [赤いスイートピー](../Page/赤いスイートピー.md "wikilink") - [松田聖子](../Page/松田聖子.md "wikilink")のカバー。
-    4.  [TIMEシャワーに射たれて](https://ja.wikipedia.org/wiki/TIMEシャワーに射たれて… "wikilink") - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")のカバー。
+    4.  [TIMEシャワーに射たれて](https://ja.wikipedia.org/wiki/TIMEシャワーに射たれて… "wikilink") - [久保田利伸](../Page/久保田利伸.md "wikilink")のカバー。
     5.  お嫁に行きたい - [真璃子](../Page/真璃子.md "wikilink")のカバー。
     6.  [雨](../Page/雨_\(森高千里の曲\).md "wikilink") - [森高千里](../Page/森高千里.md "wikilink")のカバー。
     7.  [春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink") - [松任谷由実](../Page/松任谷由実.md "wikilink")のカバー。
     8.  あゝ無情 - [アン・ルイス](../Page/アン・ルイス.md "wikilink")のカバー。
     9.  [好きになって、よかった](https://ja.wikipedia.org/wiki/好きになって、よかった "wikilink") - [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")のカバー。
-    10. Raspberry Dream（Album mix） - [レベッカのカバー](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")。
+    10. Raspberry Dream（Album mix） - [レベッカのカバー](../Page/レベッカ_\(バンド\).md "wikilink")。
 
 ### 映像作品
 

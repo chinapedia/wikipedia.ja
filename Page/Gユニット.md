@@ -1,15 +1,15 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-**Gユニット**（G-Unit）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")[クイーンズ](https://ja.wikipedia.org/wiki/クイーンズ "wikilink")で結成された[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。
+**Gユニット**（G-Unit）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")[クイーンズ](https://ja.wikipedia.org/wiki/クイーンズ "wikilink")で結成された[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。
 
-[50セント](https://ja.wikipedia.org/wiki/50セント "wikilink")を中心にロイド・バンクス（Lloyd Banks）、トニー・イエイヨー（Tony Yayo）3人で結成された。 ゲリラ・ユニットの略。トラックメイカーのシャー・マニー・XL（Sha Money XL）らも含まれる。[ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")スタ[ラップ](../Page/ラップ.md "wikilink")を特徴とする。 [2003年](../Page/2003年.md "wikilink")に[ドクター・ドレー](https://ja.wikipedia.org/wiki/ドクター・ドレー "wikilink")や[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")などをプロデューサーに迎えた1stアルバム「Beg for Mercy」をリリース。
+[50セント](../Page/50セント.md "wikilink")を中心にロイド・バンクス（Lloyd Banks）、トニー・イエイヨー（Tony Yayo）3人で結成された。 ゲリラ・ユニットの略。トラックメイカーのシャー・マニー・XL（Sha Money XL）らも含まれる。[ギャング](../Page/ギャング.md "wikilink")スタ[ラップ](../Page/ラップ.md "wikilink")を特徴とする。 [2003年](../Page/2003年.md "wikilink")に[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")や[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")などをプロデューサーに迎えた1stアルバム「Beg for Mercy」をリリース。
 
 現在50セントをCEOとするInterscope Records傘下のG-Unit Recordsを設立している。
 
 ## アーティスト
 
-  - [50セント](https://ja.wikipedia.org/wiki/50セント "wikilink") (50 Cent)
+  - [50セント](../Page/50セント.md "wikilink") (50 Cent)
   - [ロイド・バンクス](../Page/ロイド・バンクス.md "wikilink") (Lloyd Banks)
   - [トニー・イエイヨー](../Page/トニー・イエイヨー.md "wikilink") (Tony Yayo)
   - [ヤング・バック](https://ja.wikipedia.org/wiki/ヤング・バック "wikilink")(Young Buck)
@@ -34,7 +34,7 @@
 
   - リル・スクラッピー（Lil' Scrappy）- BME Recordings
   - フリーウェイ（Freeway）- Roc-A-fella Records
-  - [LL・クール・J](https://ja.wikipedia.org/wiki/LL・クール・J "wikilink") （LL Cool J）- Def Jam Recording
+  - [LL・クール・J](../Page/LL・クール・J.md "wikilink") （LL Cool J）- Def Jam Recording
 
 ### DJ・プロデューサー
 
@@ -119,7 +119,7 @@
 
 ## 音楽活動以外の活動
 
-音楽活動以外の活動に[G-Unit Clothingというファッションブランドと](https://ja.wikipedia.org/wiki/G-Unit_Clothing "wikilink")[Reebokと提携した](../Page/リーボック.md "wikilink")[G-Unit Collectionを発表している](https://ja.wikipedia.org/wiki/G-Unit_Collection "wikilink")。また、G-UnitがThe Gameとのビーフ時に立ち上げた募金団体[The G-Unity Foundationや](https://ja.wikipedia.org/wiki/The_G-Unity_Foundation "wikilink")、近年ではコンドームブランド、[50セント](https://ja.wikipedia.org/wiki/50セント "wikilink")個人は俳優業、自伝出版、そしてG-Unit Booksなどの書籍出版のビジネスを展開をしている。
+音楽活動以外の活動に[G-Unit Clothingというファッションブランドと](https://ja.wikipedia.org/wiki/G-Unit_Clothing "wikilink")[Reebokと提携した](../Page/リーボック.md "wikilink")[G-Unit Collectionを発表している](https://ja.wikipedia.org/wiki/G-Unit_Collection "wikilink")。また、G-UnitがThe Gameとのビーフ時に立ち上げた募金団体[The G-Unity Foundationや](https://ja.wikipedia.org/wiki/The_G-Unity_Foundation "wikilink")、近年ではコンドームブランド、[50セント](../Page/50セント.md "wikilink")個人は俳優業、自伝出版、そしてG-Unit Booksなどの書籍出版のビジネスを展開をしている。
 
 ## 出典
 

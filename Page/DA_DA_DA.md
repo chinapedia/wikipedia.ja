@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **DA DA DA**
-      - 作詞：北原愛子／作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：北原愛子／作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  **戻れないあの日**
       - 作詞：北原愛子／作曲・編曲：徳永暁人
 3.  **会いたい 会えない**
@@ -25,8 +25,8 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
   - [サンデージャポン](https://ja.wikipedia.org/wiki/サンデージャポン "wikilink")
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")
 
 [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:北原愛子の楽曲](https://ja.wikipedia.org/wiki/Category:北原愛子の楽曲 "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

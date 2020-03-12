@@ -1,7 +1,7 @@
 > この記事は[AVANTIA](https://ja.wikipedia.org/wiki/AVANTIA)から翻訳されています。
 
 
-**株式会社AVANTIA**（アバンティア、）は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[瑞穂区](https://ja.wikipedia.org/wiki/瑞穂区 "wikilink")に本社を置く[不動産会社](../Page/不動産会社.md "wikilink")。中部エリアのほか関西エリアでも手広く事業を展開している。
+**株式会社AVANTIA**（アバンティア、）は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[瑞穂区](../Page/瑞穂区.md "wikilink")に本社を置く[不動産会社](../Page/不動産会社.md "wikilink")。中部エリアのほか関西エリアでも手広く事業を展開している。
 
 ## 沿革
 
@@ -11,7 +11,7 @@
   - 2003年 - 株式会社巨勢工務店および巨勢雄株式会社（後のサンヨーベストホーム関西株式会社）を子会社化\[4\]。
   - [2004年](../Page/2004年.md "wikilink") - 東京証券取引所、名古屋証券取引所各1部上場\[5\]。
   - 2004年 - 子会社のサンヨーベストホーム株式会社を存続会社とし同じく子会社のサンヨーライフネット株式会社を[吸収合併](../Page/合併_\(企業\).md "wikilink")\[6\]。
-  - [2007年](../Page/2007年.md "wikilink") - 子会社のジェイテクノ株式会社が安藤技建株式会社および有限会社安藤建機から[吸収分割](https://ja.wikipedia.org/wiki/吸収分割 "wikilink")により[事業譲受](https://ja.wikipedia.org/wiki/事業譲渡 "wikilink")。\[7\]。
+  - [2007年](../Page/2007年.md "wikilink") - 子会社のジェイテクノ株式会社が安藤技建株式会社および有限会社安藤建機から[吸収分割](https://ja.wikipedia.org/wiki/吸収分割 "wikilink")により[事業譲受](../Page/事業譲渡.md "wikilink")。\[7\]。
   - [2009年](../Page/2009年.md "wikilink") - 子会社のサンヨーベストホーム株式会社を存続会社とし同じく子会社のサンヨーコンサルタント株式会社を吸収合併\[8\]。
   - [2011年](../Page/2011年.md "wikilink") - 子会社の株式会社巨勢工務店を存続会社とし同じく子会社のサンヨーベストホーム関西株式会社を吸収合併\[9\]。
   - [2013年](../Page/2013年.md "wikilink") - 株式会社宇戸平工務店を子会社化\[10\]\[11\]。

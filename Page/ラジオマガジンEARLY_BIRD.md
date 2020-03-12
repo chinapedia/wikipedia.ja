@@ -18,7 +18,7 @@
 
 ### 過去
 
-  - [根本宣彦](https://ja.wikipedia.org/wiki/根本宣彦 "wikilink")（TBCアナウンサー、開始～2008年9月）
+  - [根本宣彦](../Page/根本宣彦.md "wikilink")（TBCアナウンサー、開始～2008年9月）
   - 桜井志保（開始当初）
   - 黒田典子（～2004年9月）
 
@@ -32,7 +32,7 @@
       - コメンテーター
           - 第1週　[さとう宗幸](../Page/さとう宗幸.md "wikilink")（歌手）
           - 第2週　飯渕由美（仙台市地域活動栄養士会 介護食研究グループ代表・健康プランニングI主宰）
-          - 第3週　[青島健太](https://ja.wikipedia.org/wiki/青島健太 "wikilink")（スポーツライター）
+          - 第3週　[青島健太](../Page/青島健太.md "wikilink")（スポーツライター）
           - 第4週　[毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")（タレント）
   - 交通情報（7時42分）
   - 交通指導取締情報 （7時45分）
@@ -48,11 +48,11 @@
   - 天気予報（9時5分）
   - 仙台市民だより（9時07分）
   - きょうから一週間あなたの運勢（9時12分）
-      - 以前は『[梨元勝](https://ja.wikipedia.org/wiki/梨元勝 "wikilink")の芸能界ここだけの噂』を放送していたが梨元氏が亡くなったためコーナーは終了した。
+      - 以前は『[梨元勝](../Page/梨元勝.md "wikilink")の芸能界ここだけの噂』を放送していたが梨元氏が亡くなったためコーナーは終了した。
 
 ## 番組へのアクセス
 
-  - [ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")・[手紙](https://ja.wikipedia.org/wiki/手紙 "wikilink")：[〒](https://ja.wikipedia.org/wiki/〒 "wikilink")980-8668 TBCラジオ「ラジオマガジンEARLY BIRD」各コーナー宛て
+  - [ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")・[手紙](../Page/手紙.md "wikilink")：[〒](https://ja.wikipedia.org/wiki/〒 "wikilink")980-8668 TBCラジオ「ラジオマガジンEARLY BIRD」各コーナー宛て
   - [FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")：022-305-1088
   - [Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")　bird@1260.jp
 

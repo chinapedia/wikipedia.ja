@@ -14,7 +14,7 @@
         作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")　編曲：シャ乱Q
 2.  **SWEET and SWEET**
       -
-        作詞:[まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink")　作曲:[はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink")　編曲：シャ乱Q
+        作詞:[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")　作曲:[はたけ](../Page/はたけ.md "wikilink")　編曲：シャ乱Q
 3.  **NICE BOY\!(inst.)**
 
 ## 収録アルバム
@@ -32,9 +32,9 @@
 
   - [シャ乱Q](../Page/シャ乱Q.md "wikilink")
       - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")
-      - [はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink")
-      - [まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink")
-      - [たいせい](https://ja.wikipedia.org/wiki/たいせい "wikilink")
+      - [はたけ](../Page/はたけ.md "wikilink")
+      - [まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")
+      - [たいせい](../Page/たいせい.md "wikilink")
       - [しゅう](../Page/しゅう.md "wikilink")
 
 [Category:シャ乱Qの楽曲](https://ja.wikipedia.org/wiki/Category:シャ乱Qの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
 
 
-株式会社**京王ITソリューションズ**（けいおうあいてぃそりゅーしょんず・英語表記：KEIO INFORMATION TECHNOLOGY SOLUTIONS Co.,Ltd）は、光ファイバーケーブルの賃貸窓口業務、コンサルタント事業、無線LANの技術的バックアップ、業務用アプリケーションソフトの設計・開発・運用、ネットワーク（イントラネット、インターネット）の設計開発・導入、ハウジングサービス・ホスティングサービス、パソコン・プリンター等機器の購入斡旋および導入の手伝いを執り行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。[京王グループ](https://ja.wikipedia.org/wiki/京王グループ "wikilink")に属する。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[調布市](../Page/調布市.md "wikilink")小島町。東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[幡ヶ谷](https://ja.wikipedia.org/wiki/幡ヶ谷 "wikilink")にシステムセンターが所在する。
+株式会社**京王ITソリューションズ**（けいおうあいてぃそりゅーしょんず・英語表記：KEIO INFORMATION TECHNOLOGY SOLUTIONS Co.,Ltd）は、光ファイバーケーブルの賃貸窓口業務、コンサルタント事業、無線LANの技術的バックアップ、業務用アプリケーションソフトの設計・開発・運用、ネットワーク（イントラネット、インターネット）の設計開発・導入、ハウジングサービス・ホスティングサービス、パソコン・プリンター等機器の購入斡旋および導入の手伝いを執り行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。[京王グループ](../Page/京王グループ.md "wikilink")に属する。本社は[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")小島町。東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[幡ヶ谷](../Page/幡ヶ谷.md "wikilink")にシステムセンターが所在する。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 <!-- end list -->
 
   - [2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")　[京王電鉄](../Page/京王電鉄.md "wikilink")の100％子会社として「**株式会社京王ネットワークコミュニケーションズ**」設立。
-  - 2001年[5月25日](../Page/5月25日.md "wikilink")　[第一種電気通信事業の許可を受ける](https://ja.wikipedia.org/wiki/電気通信事業 "wikilink")。
+  - 2001年[5月25日](../Page/5月25日.md "wikilink")　[第一種電気通信事業の許可を受ける](../Page/電気通信事業.md "wikilink")。
   - [2004年](../Page/2004年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")　[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")株式会社と相互接続開始。
 
 <!-- end list -->
@@ -42,7 +42,7 @@
 
 ## 関連項目
 
-  - [京王グループ](https://ja.wikipedia.org/wiki/京王グループ "wikilink")
+  - [京王グループ](../Page/京王グループ.md "wikilink")
   - [京王電鉄](../Page/京王電鉄.md "wikilink")
 
 ## 外部リンク

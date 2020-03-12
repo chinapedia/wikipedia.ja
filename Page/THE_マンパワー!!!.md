@@ -1,7 +1,7 @@
 > この記事は[THE !!!](https://ja.wikipedia.org/wiki/THE_!!!)から翻訳されています。
 
 
-「**THE マンパワー\!\!\!**」（ザ マンパワー\!\!\!）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[zetima](https://ja.wikipedia.org/wiki/zetima "wikilink")から発売された。
+「**THE マンパワー\!\!\!**」（ザ マンパワー\!\!\!）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[zetima](https://ja.wikipedia.org/wiki/zetima "wikilink")から発売された。
 
 ## 概要
 
@@ -40,8 +40,8 @@
   - 松原憲 - プログラミング(1)
   - つんく♂ - コーラス(1,2)
   - 鈴木俊介 - プログラミング&ギター(2)
-  - [ファンキー末吉](https://ja.wikipedia.org/wiki/ファンキー末吉 "wikilink") - ドラム(2)
-  - [江川ほーじん](https://ja.wikipedia.org/wiki/江川ほーじん "wikilink") - ベース(2)
+  - [ファンキー末吉](../Page/ファンキー末吉.md "wikilink") - ドラム(2)
+  - [江川ほーじん](../Page/江川ほーじん.md "wikilink") - ベース(2)
 
 ## 脚注
 

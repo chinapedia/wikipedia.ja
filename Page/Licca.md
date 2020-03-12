@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")、[リカちゃん](../Page/リカちゃん.md "wikilink")生誕35周年を記念して、[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")所属の[酒井彩名](https://ja.wikipedia.org/wiki/酒井彩名 "wikilink")、[あびる優](../Page/あびる優.md "wikilink")、[木南晴夏](https://ja.wikipedia.org/wiki/木南晴夏 "wikilink")の3人で結成された\[1\]、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）公認・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")プロデュースの期間限定ユニットである。
+[2002年](../Page/2002年.md "wikilink")、[リカちゃん](../Page/リカちゃん.md "wikilink")生誕35周年を記念して、[ホリプロ](../Page/ホリプロ.md "wikilink")所属の[酒井彩名](../Page/酒井彩名.md "wikilink")、[あびる優](../Page/あびる優.md "wikilink")、[木南晴夏](https://ja.wikipedia.org/wiki/木南晴夏 "wikilink")の3人で結成された\[1\]、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）公認・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")プロデュースの期間限定ユニットである。
 
 タカラ側としては[男性](../Page/男性.md "wikilink")層に対してリカちゃんの認知度を高める、ホリプロ側としては女性歌手グループを補強する狙いで結成された\[2\]。
 
@@ -18,17 +18,17 @@
           -
             作詞：蛭間弘／作曲・編曲：[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
         <!-- end list -->
-          - NTV系「ピンパパ」エンディングテーマ/CTV・NTV系「[ろみひー](https://ja.wikipedia.org/wiki/ろみひー "wikilink")」エンディングテーマ
+          - NTV系「ピンパパ」エンディングテーマ/CTV・NTV系「[ろみひー](../Page/ろみひー.md "wikilink")」エンディングテーマ
     2.  get back ～ele-funk mix～\[4:20\]
     3.  get back ～neut mix～\[4:27\]
     4.  get back ～instrumental～\[4:59\]
 2.  GOOD LOVE（2002年[7月17日](../Page/7月17日.md "wikilink")）オリコン97位
     1.  GOOD LOVE\[4:19\]
           -
-            作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")／作曲・編曲：[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")
+            作詞：[川村真澄](../Page/川村真澄.md "wikilink")／作曲・編曲：[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")
     2.  1・2 CHECK\!\[4:24\]
           -
-            作詞：[斉藤哲也](https://ja.wikipedia.org/wiki/斉藤哲也 "wikilink")／作曲・編曲：[荒木真樹彦](https://ja.wikipedia.org/wiki/荒木真樹彦 "wikilink")
+            作詞：[斉藤哲也](https://ja.wikipedia.org/wiki/斉藤哲也 "wikilink")／作曲・編曲：[荒木真樹彦](../Page/荒木真樹彦.md "wikilink")
     3.  GOOD LOVE (instrumental)\[4:16\]
 3.  夢みるシャンソン人形〜今度逢うときはもっと〜（[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）オリコン圏外
     1.  [夢みるシャンソン人形](../Page/夢見るシャンソン人形.md "wikilink")〜今度逢うときはもっと〜\[3:07\]

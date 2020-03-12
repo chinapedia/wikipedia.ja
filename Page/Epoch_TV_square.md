@@ -5,12 +5,12 @@
 
 ## 出演者
 
-  - [バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")（[設楽統](../Page/設楽統.md "wikilink")、[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")）
+  - [バナナマン](../Page/バナナマン.md "wikilink")（[設楽統](../Page/設楽統.md "wikilink")、[日村勇紀](../Page/日村勇紀.md "wikilink")）
   - [おぎやはぎ](../Page/おぎやはぎ.md "wikilink")（[小木博明](https://ja.wikipedia.org/wiki/小木博明 "wikilink")、[矢作兼](../Page/矢作兼.md "wikilink")）
 
 ## 第1期
 
-[2003年](../Page/2003年.md "wikilink")4月から6月まで放送。[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")の一室を舞台に、4人の男([バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")、[おぎやはぎ](../Page/おぎやはぎ.md "wikilink"))の日常を描いたワン[シチュエーション・コメディ](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")である。全12話。登場人物の名前はそれぞれの演者と同名になっている。また、実際は違うが、年齢設定は全員同い年（29～30歳）という事になっている。また、シチュエーション・コメディ番組としては珍しく、最後までレギュラー陣のみが出演し、ゲスト出演者は1人もいなかった。
+[2003年](../Page/2003年.md "wikilink")4月から6月まで放送。[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")の一室を舞台に、4人の男([バナナマン](../Page/バナナマン.md "wikilink")、[おぎやはぎ](../Page/おぎやはぎ.md "wikilink"))の日常を描いたワン[シチュエーション・コメディ](../Page/シチュエーション・コメディ.md "wikilink")である。全12話。登場人物の名前はそれぞれの演者と同名になっている。また、実際は違うが、年齢設定は全員同い年（29～30歳）という事になっている。また、シチュエーション・コメディ番組としては珍しく、最後までレギュラー陣のみが出演し、ゲスト出演者は1人もいなかった。
 
 ### キャラクター
 
@@ -61,7 +61,7 @@
 
   - 4月からの3ヶ月間の放送終了後、7月から9月にかけて再放送が行われていた。
   - 放送時には[ローソン](../Page/ローソン.md "wikilink")とのタイアップ企画として、ローソンカードの会員限定でスタジオ観覧希望の応募ができた。
-  - 主題歌は[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")の「[楽しい夜更し](https://ja.wikipedia.org/wiki/NIAGARA_MOON "wikilink")」。
+  - 主題歌は[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")の「[楽しい夜更し](../Page/NIAGARA_MOON.md "wikilink")」。
   - 2005年2月12日・13日に[ザ・ガーデンホール](https://ja.wikipedia.org/wiki/ザ・ガーデンホール "wikilink")で行われた[宇田川フリーコースターズ](https://ja.wikipedia.org/wiki/宇田川フリーコースターズ "wikilink")による単独ライブ「epoch conte square 〜second〜」にて、本作11話後の事実上の続編となるコントが披露された。なお、このライブ及びこの回で披露されたコントは2017年現在DVD化された事はない。
 
 ## 第2期 ～ 教え ～
@@ -74,7 +74,7 @@
 
 ## DVD
 
-  - epoch TV square Vol.1～3 （[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")）
+  - epoch TV square Vol.1～3 （[バップ](../Page/バップ.md "wikilink")）
   - epoch TV square 「教え」 Vol.1～2 （バップ）
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:BS日テレのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:BS日テレのバラエティ番組の歴史 "wikilink") [Category:バナナマン](https://ja.wikipedia.org/wiki/Category:バナナマン "wikilink") [Category:おぎやはぎ](https://ja.wikipedia.org/wiki/Category:おぎやはぎ "wikilink")

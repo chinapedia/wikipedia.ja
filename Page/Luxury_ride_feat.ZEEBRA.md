@@ -1,11 +1,11 @@
 > この記事は[Luxury ride feat.ZEEBRA](https://ja.wikipedia.org/wiki/Luxury_ride_feat.ZEEBRA)から翻訳されています。
 
 
-「**Luxury ride feat.ZEEBRA**」（ラグジュアリー・ライド フィーチャリング・ジブラ）は、ボーカルユニット[Foxxi misQの](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")にリリースした通算4枚目のシングル。
+「**Luxury ride feat.ZEEBRA**」（ラグジュアリー・ライド フィーチャリング・ジブラ）は、ボーカルユニット[Foxxi misQの](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")にリリースした通算4枚目のシングル。
 
 ## 解説
 
-  - 前作より4ヶ月ぶりのシングルで、1stアルバム『[GLOSS](https://ja.wikipedia.org/wiki/GLOSS "wikilink")』からの先行シングル。年始よりレコーディングが行われていたとみられる\[1\]が、この時期での発売となった。
+  - 前作より4ヶ月ぶりのシングルで、1stアルバム『[GLOSS](../Page/GLOSS.md "wikilink")』からの先行シングル。年始よりレコーディングが行われていたとみられる\[1\]が、この時期での発売となった。
   - 初回限定盤の「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink")」と、通常盤の「CDのみ」の2形態で発売。ジャケット・収録曲は同一。
   - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink") [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")がゲスト参加。これまでのシングルも実質的にはフィーチャリング作品であったが、タイトルにフィーチャリング相手の名前が表記されるのはこれが初となる。家族・友人等と過ごす時に感じる「心の豊かさ」を大切にしていこうというテーマの基唄われているミディアムアップナンバー。
   - c/wの「NAKED」には[FU-TENのMC](https://ja.wikipedia.org/wiki/瘋癲 "wikilink") B-BANDJが参加。これまでになくPOPな曲調である。
@@ -15,9 +15,9 @@
 
 ### CD
 
-1.  Luxury ride feat.ZEEBRA（作詞：[Shoko Fujibayashi](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink") 作曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")）
+1.  Luxury ride feat.ZEEBRA（作詞：[Shoko Fujibayashi](../Page/藤林聖子.md "wikilink") 作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")）
       -
-        [CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") 5月度オープニングテーマ
+        [CDTV](../Page/COUNT_DOWN_TV.md "wikilink") 5月度オープニングテーマ
 2.  NAKED（作詞：Shoko Fujibayashi 作曲：Face 2 fAKE）
 3.  Luxury ride feat.ZEEBRA［[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink") REMIX］
       -

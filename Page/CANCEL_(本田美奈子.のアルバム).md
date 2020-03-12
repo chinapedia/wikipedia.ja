@@ -9,13 +9,13 @@
 
 <!-- end list -->
 
-  - 1曲目「キャンセル」には[ゲイリー・ムーア](https://ja.wikipedia.org/wiki/ゲイリー・ムーア "wikilink")がギターで参加、また6曲を編曲しているガイ・フレッチャーは[ロキシー・ミュージック](https://ja.wikipedia.org/wiki/ロキシー・ミュージック "wikilink")の元メンバー（1981～1983）で、当時は[ダイアー・ストレイツ](../Page/ダイアー・ストレイツ.md "wikilink")に在籍していた。
-  - 3曲、6曲目はそれぞれ[カジャグーグー](https://ja.wikipedia.org/wiki/カジャグーグー "wikilink")のメンバーだったニックとリマールが作曲。
-  - 4曲を編曲している[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")は[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")、[アリス等のプロデュースの他](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")[T-SQUARE](../Page/T-SQUARE.md "wikilink") のメンバー（後に脱退）としてアルバム『[GRAVITY](https://ja.wikipedia.org/wiki/GRAVITY_\(T-SQUAREのアルバム\) "wikilink")』に参加。
-  - 7曲目のルーレットは[クイーンの](../Page/クイーン_\(バンド\).md "wikilink")[ジョン・ディーコン](https://ja.wikipedia.org/wiki/ジョン・ディーコン "wikilink")が作曲。
-  - 写真集「キャンセル」によれば9曲目の作曲者ウィリアム・ロビンソンは[モータウン](../Page/モータウン.md "wikilink") で活躍した[スモーキー・ロビンソン](https://ja.wikipedia.org/wiki/スモーキー・ロビンソン "wikilink")（**William 'Smokey' Robinson, Jr.**）と考えられる。
+  - 1曲目「キャンセル」には[ゲイリー・ムーア](../Page/ゲイリー・ムーア.md "wikilink")がギターで参加、また6曲を編曲しているガイ・フレッチャーは[ロキシー・ミュージック](../Page/ロキシー・ミュージック.md "wikilink")の元メンバー（1981～1983）で、当時は[ダイアー・ストレイツ](../Page/ダイアー・ストレイツ.md "wikilink")に在籍していた。
+  - 3曲、6曲目はそれぞれ[カジャグーグー](../Page/カジャグーグー.md "wikilink")のメンバーだったニックとリマールが作曲。
+  - 4曲を編曲している[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")は[河村隆一](../Page/河村隆一.md "wikilink")、[アリス等のプロデュースの他](../Page/アリス_\(フォークグループ\).md "wikilink")[T-SQUARE](../Page/T-SQUARE.md "wikilink") のメンバー（後に脱退）としてアルバム『[GRAVITY](https://ja.wikipedia.org/wiki/GRAVITY_\(T-SQUAREのアルバム\) "wikilink")』に参加。
+  - 7曲目のルーレットは[クイーンの](../Page/クイーン_\(バンド\).md "wikilink")[ジョン・ディーコン](../Page/ジョン・ディーコン.md "wikilink")が作曲。
+  - 写真集「キャンセル」によれば9曲目の作曲者ウィリアム・ロビンソンは[モータウン](../Page/モータウン.md "wikilink") で活躍した[スモーキー・ロビンソン](../Page/スモーキー・ロビンソン.md "wikilink")（**William 'Smokey' Robinson, Jr.**）と考えられる。
   - 同アルバム収録曲によるビデオクリップ集「DANGEROUS BOND STREET」も作成された。
-  - 参考：既発シングル…「[HELP](https://ja.wikipedia.org/wiki/HELP_\(本田美奈子.の曲\) "wikilink")／TOKYO GIRL」「[the Cross -愛の十字架-](https://ja.wikipedia.org/wiki/the_Cross_-愛の十字架- "wikilink")／HEARTBEAT AWAY」
+  - 参考：既発シングル…「[HELP](../Page/HELP_\(本田美奈子.の曲\).md "wikilink")／TOKYO GIRL」「[the Cross -愛の十字架-](https://ja.wikipedia.org/wiki/the_Cross_-愛の十字架- "wikilink")／HEARTBEAT AWAY」
 
 ## 収録曲
 

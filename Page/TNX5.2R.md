@@ -1,13 +1,13 @@
 > この記事は[TNX5.2R](https://ja.wikipedia.org/wiki/TNX5.2R)から翻訳されています。
 
 
-**TNX5.2R**とは、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）より発売中の1/8スケールの[グローエンジン](../Page/グローエンジン.md "wikilink")を動力とする[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")ビッグフット・モデル。発売は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")。先代「[TNX](https://ja.wikipedia.org/wiki/TNX_\(タミヤ\) "wikilink")」に搭載されていた18クラスエンジンを32クラスにスープアップし、足回りのリファインと高性能スタッドスパイクタイヤを標準装備とするなど、先代TNXと比較してかなりホットな味付けが施されている。完成済みキットとしてのリリースで、キット価格は￥71.190。
+**TNX5.2R**とは、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）より発売中の1/8スケールの[グローエンジン](../Page/グローエンジン.md "wikilink")を動力とする[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")ビッグフット・モデル。発売は[2006年](../Page/2006年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")。先代「[TNX](../Page/TNX_\(タミヤ\).md "wikilink")」に搭載されていた18クラスエンジンを32クラスにスープアップし、足回りのリファインと高性能スタッドスパイクタイヤを標準装備とするなど、先代TNXと比較してかなりホットな味付けが施されている。完成済みキットとしてのリリースで、キット価格は￥71.190。
 
-  - 搭載されるグローエンジンは2サイクル方式、約5.2ccの[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")を持つ「FR-32FX」。1/8サイズの単気筒エンジン搭載[モンスタートラック](https://ja.wikipedia.org/wiki/モンスタートラック "wikilink")モデルとしては最大の排気量を誇る。エンジン後部にシャフト[スターター](https://ja.wikipedia.org/wiki/スターター "wikilink")システムを設け、これを付属の専用ハンディスターターにより駆動させてエンジンを起動する。
+  - 搭載されるグローエンジンは2サイクル方式、約5.2ccの[排気量](../Page/排気量.md "wikilink")を持つ「FR-32FX」。1/8サイズの単気筒エンジン搭載[モンスタートラック](../Page/モンスタートラック.md "wikilink")モデルとしては最大の排気量を誇る。エンジン後部にシャフト[スターター](../Page/スターター.md "wikilink")システムを設け、これを付属の専用ハンディスターターにより駆動させてエンジンを起動する。
 
 <!-- end list -->
 
-  - [ガラス繊維](../Page/ガラス繊維.md "wikilink")強化[ポリアミド樹脂](https://ja.wikipedia.org/wiki/ポリアミド樹脂 "wikilink")製のメイン[フレームに](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\) "wikilink")2.5mm厚[ジュラルミン](../Page/ジュラルミン.md "wikilink")製フラットパンを袈装した複合構造フレームは先代「TNX」そのままであるが、足回りは先代では[オプション](https://ja.wikipedia.org/wiki/オプション "wikilink")設定となっていた[ボール](https://ja.wikipedia.org/wiki/ボール "wikilink")ピボット[ハブ](https://ja.wikipedia.org/wiki/ハブ_\(機械\) "wikilink")[キャリア](../Page/キャリア.md "wikilink")構造の[ダブルウィッシュボーン](https://ja.wikipedia.org/wiki/ダブルウィッシュボーン "wikilink")独立懸架に改められ、それに伴い[オイルダンパー](https://ja.wikipedia.org/wiki/オイルダンパー "wikilink")も専用の大型タイプが奢られている。（標準状態では各輪に1本ずつの4本、オプションでの追加で8本オイルダンパー仕様にすることも可能）
+  - [ガラス繊維](../Page/ガラス繊維.md "wikilink")強化[ポリアミド樹脂](https://ja.wikipedia.org/wiki/ポリアミド樹脂 "wikilink")製のメイン[フレームに](../Page/フレーム形式_\(自動車\).md "wikilink")2.5mm厚[ジュラルミン](../Page/ジュラルミン.md "wikilink")製フラットパンを袈装した複合構造フレームは先代「TNX」そのままであるが、足回りは先代では[オプション](https://ja.wikipedia.org/wiki/オプション "wikilink")設定となっていた[ボール](../Page/ボール.md "wikilink")ピボット[ハブ](../Page/ハブ_\(機械\).md "wikilink")[キャリア](../Page/キャリア.md "wikilink")構造の[ダブルウィッシュボーン](https://ja.wikipedia.org/wiki/ダブルウィッシュボーン "wikilink")独立懸架に改められ、それに伴い[オイルダンパー](https://ja.wikipedia.org/wiki/オイルダンパー "wikilink")も専用の大型タイプが奢られている。（標準状態では各輪に1本ずつの4本、オプションでの追加で8本オイルダンパー仕様にすることも可能）
 
 <!-- end list -->
 

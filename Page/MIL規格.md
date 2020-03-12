@@ -22,7 +22,7 @@ MIL規格として具体的には、[アメリカ国防総省](../Page/アメリ
   - 国防省仕様\[10\]（MIL-SPEC）
     軍用に改造された民生品の購入と軍需品の重要な技術的必要条件を述べる文書。
   - 国防省標準\[11\]（MIL-STD）
-    均一なエンジニアリングと軍用に改造された[民生品商業プロセス](https://ja.wikipedia.org/wiki/民生用 "wikilink")、手順、実行と方法の技術的な必要条件を確立する文書。
+    均一なエンジニアリングと軍用に改造された[民生品商業プロセス](../Page/民生用.md "wikilink")、手順、実行と方法の技術的な必要条件を確立する文書。
     5種類の防御標準がある
       - [インターフェース](https://ja.wikipedia.org/wiki/インターフェース "wikilink")標準
       - デザイン基準標準
@@ -40,7 +40,7 @@ MIL規格として具体的には、[アメリカ国防総省](../Page/アメリ
 
   - [MIL-STD-105](https://ja.wikipedia.org/wiki/MIL-STD-105 "wikilink")：サンプルと試験手順
   - [MIL-STD-188](https://ja.wikipedia.org/wiki/MIL-STD-188 "wikilink")：[電気通信](../Page/電気通信.md "wikilink")
-  - [MIL-STD-202](https://ja.wikipedia.org/wiki/MIL-STD-202 "wikilink")：[電子部品](https://ja.wikipedia.org/wiki/電子部品 "wikilink")の基準
+  - [MIL-STD-202](https://ja.wikipedia.org/wiki/MIL-STD-202 "wikilink")：[電子部品](../Page/電子部品.md "wikilink")の基準
   - [MIL-STD-498](https://ja.wikipedia.org/wiki/MIL-STD-498 "wikilink")：[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発と[ドキュメンテーション](https://ja.wikipedia.org/wiki/ドキュメント "wikilink")
   - [MIL-STD 461](https://ja.wikipedia.org/wiki/MIL-STD_461 "wikilink")：[電磁波](../Page/電磁波.md "wikilink")放出の規制に関して
   - MIL-STD-806：（現存せず） いわゆる「[MIL論理記号](https://ja.wikipedia.org/wiki/MIL論理記号 "wikilink")」
@@ -52,11 +52,11 @@ MIL規格として具体的には、[アメリカ国防総省](../Page/アメリ
   - [MIL-STD-1474](https://ja.wikipedia.org/wiki/MIL-STD-1474 "wikilink")：[小銃](../Page/小銃.md "wikilink")の音響測定の標準化
   - [MIL-STD-1553](https://ja.wikipedia.org/wiki/MIL-STD-1553 "wikilink")：[デジタル](../Page/デジタル.md "wikilink")[通信](../Page/通信.md "wikilink")
   - [MIL-STD-1589](https://ja.wikipedia.org/wiki/MIL-STD-1589 "wikilink")：[JOVIAL](https://ja.wikipedia.org/wiki/JOVIAL "wikilink")（プログラミング言語）
-  - [MIL-STD-1750A](https://ja.wikipedia.org/wiki/MIL-STD-1750A "wikilink")：航空コンピュータの[命令セット](https://ja.wikipedia.org/wiki/命令セット "wikilink")（ISA）
+  - [MIL-STD-1750A](https://ja.wikipedia.org/wiki/MIL-STD-1750A "wikilink")：航空コンピュータの[命令セット](../Page/命令セット.md "wikilink")（ISA）
   - [MIL-STD-1760](https://ja.wikipedia.org/wiki/MIL-STD-1760 "wikilink")：ハイテク兵器インターフェース
   - [MIL-STD-1815](https://ja.wikipedia.org/wiki/MIL-STD-1815 "wikilink")：[Ada](../Page/Ada.md "wikilink")（プログラミング言語）
-  - [MIL-STD-1913](https://ja.wikipedia.org/wiki/MIL-STD-1913 "wikilink")：[ピカティニー・レール](https://ja.wikipedia.org/wiki/ピカティニー・レール "wikilink")に関して
-  - [MIL-STD-2196](https://ja.wikipedia.org/wiki/MIL-STD-2196 "wikilink")：[光ファイバー](https://ja.wikipedia.org/wiki/光ファイバー "wikilink")通信に関して
+  - [MIL-STD-1913](https://ja.wikipedia.org/wiki/MIL-STD-1913 "wikilink")：[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")に関して
+  - [MIL-STD-2196](https://ja.wikipedia.org/wiki/MIL-STD-2196 "wikilink")：[光ファイバー](../Page/光ファイバー.md "wikilink")通信に関して
 
 ## 脚注
 

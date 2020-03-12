@@ -9,7 +9,7 @@
 
 もし、IPアドレスを設定する際に他のホストが既に同じIPアドレスを持っていると、そのホストがARP Operation がARP RequestであるGratuitous ARPを受信した際にGratuitous ARPを送信したホストに対してARP Replyを返送する。そのため、この Gratuitous ARPに対する返信の有無でIPアドレスの重複を確認することができる。
 
-また、[VRRPや](https://ja.wikipedia.org/wiki/Virtual_Router_Redundancy_Protocol "wikilink")[Mobile IPでもGratuitous](../Page/Mobile_IP.md "wikilink") ARPが使用されるが、これはIPアドレスの重複確認ではなく同一セグメント上のネットワーク機器上のARPキャッシュやL3テーブルを更新することでIPアドレスと機器の対応関係の更新を強制的におこなわせることを目的としている。
+また、[VRRPや](../Page/Virtual_Router_Redundancy_Protocol.md "wikilink")[Mobile IPでもGratuitous](../Page/Mobile_IP.md "wikilink") ARPが使用されるが、これはIPアドレスの重複確認ではなく同一セグメント上のネットワーク機器上のARPキャッシュやL3テーブルを更新することでIPアドレスと機器の対応関係の更新を強制的におこなわせることを目的としている。
 
 なお、Gratuitous ARPではARPパケットのOperation フィールドにARP RequestとARP Replyのいずれも用いることができるが、アドレス重複確認を目的としてGratuitous ARPを使用する際にはARP Requestが用いられることが多い。
 
@@ -17,7 +17,7 @@
 
   - [ARP](../Page/Address_Resolution_Protocol.md "wikilink")(Address Resolution Protocol) - [IPアドレス](../Page/IPアドレス.md "wikilink")から[MACアドレス](../Page/MACアドレス.md "wikilink")に変換する[プロトコル](../Page/プロトコル.md "wikilink")
   - [Mobile IP](../Page/Mobile_IP.md "wikilink")
-  - [VRRP](https://ja.wikipedia.org/wiki/Virtual_Router_Redundancy_Protocol "wikilink")
+  - [VRRP](../Page/Virtual_Router_Redundancy_Protocol.md "wikilink")
 
 ## 外部リンク
 

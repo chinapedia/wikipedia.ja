@@ -1,7 +1,7 @@
 > この記事は[Das Geheimnis der Geige](https://ja.wikipedia.org/wiki/Das_Geheimnis_der_Geige)から翻訳されています。
 
 
-『**Das Geheimnis der Geige** ゲンのバイオリン』（ダス ゲハイムニス デア ガイゲ ゲンのバイオリン）は、[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月から同年9月まで放送されていた、[ドイツ語講座](../Page/ドイツ語講座.md "wikilink")入門編の[物語](../Page/物語.md "wikilink")である。
+『**Das Geheimnis der Geige** ゲンのバイオリン』（ダス ゲハイムニス デア ガイゲ ゲンのバイオリン）は、[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で[2006年](../Page/2006年.md "wikilink")4月から同年9月まで放送されていた、[ドイツ語講座](../Page/ドイツ語講座.md "wikilink")入門編の[物語](../Page/物語.md "wikilink")である。
 
 講師は[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")専任講師の[太田達也](https://ja.wikipedia.org/wiki/太田達也_\(言語学者\) "wikilink")（現：[南山大学](../Page/南山大学.md "wikilink")[外国語学部](../Page/外国語学部.md "wikilink")教授）で、[ドイツ語](../Page/ドイツ語.md "wikilink")初心者にも取り組みやすい内容になっている他、[推理小説](../Page/推理小説.md "wikilink")のようなストーリー展開となっているため、同様の[語学講座](https://ja.wikipedia.org/wiki/語学講座 "wikilink")の中でも人気があるものの一つである。
 

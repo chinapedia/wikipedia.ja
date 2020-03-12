@@ -1,11 +1,11 @@
 > この記事は[GUNDAM WEAPONS](https://ja.wikipedia.org/wiki/GUNDAM_WEAPONS)から翻訳されています。
 
 
-『**GUNDAM WEAPONS**』（ガンダムウェポンズ）は、[ホビージャパン](../Page/ホビージャパン.md "wikilink")社から発行される[ガンプラ](https://ja.wikipedia.org/wiki/ガンプラ "wikilink")の[ムックである](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。
+『**GUNDAM WEAPONS**』（ガンダムウェポンズ）は、[ホビージャパン](../Page/ホビージャパン.md "wikilink")社から発行される[ガンプラ](../Page/ガンプラ.md "wikilink")の[ムックである](../Page/ムック_\(出版\).md "wikilink")。
 
 ## 概要
 
-元々は模型雑誌『[月刊ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン#月刊ホビージャパン "wikilink")』で掲載された[OVA](../Page/OVA.md "wikilink")『[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")』の作例をまとめ、1989年にムック「HOW TO BUILD GUNDAM」シリーズの1冊として発売されたものであった。「HOW TO BUILD GUNDAM」シリーズは以後も継続されていったが、そこから[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")する形で、1992年から「GUNDAM WEAPONS」シリーズが不定期ながら刊行されるようになる。第1巻のみB5版、第2巻以降はA4版。 近年では、[マスターグレード](https://ja.wikipedia.org/wiki/マスターグレード "wikilink")や[パーフェクトグレード](https://ja.wikipedia.org/wiki/パーフェクトグレード "wikilink")シリーズの新作が発売されたタイミングで発行される傾向がある。
+元々は模型雑誌『[月刊ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン#月刊ホビージャパン "wikilink")』で掲載された[OVA](../Page/OVA.md "wikilink")『[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")』の作例をまとめ、1989年にムック「HOW TO BUILD GUNDAM」シリーズの1冊として発売されたものであった。「HOW TO BUILD GUNDAM」シリーズは以後も継続されていったが、そこから[スピンオフ](../Page/スピンオフ.md "wikilink")する形で、1992年から「GUNDAM WEAPONS」シリーズが不定期ながら刊行されるようになる。第1巻のみB5版、第2巻以降はA4版。 近年では、[マスターグレード](../Page/マスターグレード.md "wikilink")や[パーフェクトグレード](../Page/パーフェクトグレード.md "wikilink")シリーズの新作が発売されたタイミングで発行される傾向がある。
 
 ## シリーズ一覧
 
@@ -14,7 +14,7 @@
     表紙：RX-78-NT1 [ガンダムNT-1](../Page/ガンダムNT-1.md "wikilink")（1/144スケールキット）
   - GUNDAM WEAPONS2
     1992年3月21日発行
-    表紙：RX-78-2 [ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")（1/100[フルスクラッチビルド](https://ja.wikipedia.org/wiki/スクラッチビルド "wikilink")）
+    表紙：RX-78-2 [ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")（1/100[フルスクラッチビルド](../Page/スクラッチビルド.md "wikilink")）
   - GUNDAM WEAPONS3
     1992年12月11日発行
     表紙：RX-78GP04G [ガンダム試作4号機](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作4号機（ガーベラ） "wikilink")（1/100フルスクラッチビルド）
@@ -57,7 +57,7 @@
     表紙：RX-78-2 ガンダム Ver1.5（1/100マスターグレード）、RX-78-NT1 ガンダムNT-1（1/100マスターグレード）、RGM-79 [ジム](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")（1/100マスターグレード）
   - GUNDAM WEAPONS マスターグレードモデル"MS-07B グフ"編
     2000年12月19日発行 ISBN 4-89425-240-6
-    表紙：MS-07B [グフ](https://ja.wikipedia.org/wiki/グフ "wikilink")（1/100マスターグレード）
+    表紙：MS-07B [グフ](../Page/グフ.md "wikilink")（1/100マスターグレード）
   - GUNDAM WEAPONS "逆襲のシャア"編
     2001年3月2日発行 ISBN 4-89425-246-5
     表紙：RX-93 [νガンダム](https://ja.wikipedia.org/wiki/νガンダム "wikilink")（1/100マスターグレード）
@@ -66,11 +66,11 @@
     表紙：RX-79\[G\]Ez-8 [ガンダムEz8](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ガンダムEz8 "wikilink")（1/100マスターグレード）、RX-78-NT1 ガンダムNT-1（1/100マスターグレード）
   - GUNDAM WEAPONS "一年戦争"編
     2001年7月27日発行 ISBN 4-89425-255-4
-    表紙：RX-78-2 ガンダム（1/144[ハイグレード・ユニバーサルセンチュリー](https://ja.wikipedia.org/wiki/ハイグレード・ユニバーサルセンチュリー "wikilink")）
+    表紙：RX-78-2 ガンダム（1/144[ハイグレード・ユニバーサルセンチュリー](../Page/ハイグレード・ユニバーサルセンチュリー.md "wikilink")）
   - GUNDAM WEAPONS "ニュージェネレーション"編
     2001年11月30日発行 ISBN 4-89425-260-0
-    表紙：MSA-0011 [Sガンダム](https://ja.wikipedia.org/wiki/Sガンダム "wikilink")（1/100フルスクラッチビルド）
-  - GUNDAM WEAPONS "[V作戦](https://ja.wikipedia.org/wiki/V作戦 "wikilink")"編
+    表紙：MSA-0011 [Sガンダム](../Page/Sガンダム.md "wikilink")（1/100フルスクラッチビルド）
+  - GUNDAM WEAPONS "[V作戦](../Page/V作戦.md "wikilink")"編
     2002年3月01日発行 ISBN 4-89425-267-8
     表紙：RX-78-2ガンダム Ver.1.5（1/100マスターグレード）、RX-77 [ガンキャノン](../Page/ガンキャノン.md "wikilink")（1/100マスターグレード）
   - GUNDAM WEAPONS ハイグレード・ユニバーサルセンチュリーモデル RX-78GP03デンドロビウム"0083スターダストメモリー"編
@@ -78,7 +78,7 @@
     表紙：RX-78-GP03 [ガンダム試作3号機](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作3号機（デンドロビウム） "wikilink")（1/144ハイグレード・ユニバーサルセンチュリー）
   - GUNDAM WEAPONS "Gガンダム"編
     2002年7月発行 ISBN 4-89425-275-9
-    表紙：GF13-017NJ II [Gガンダム](../Page/ゴッドガンダム.md "wikilink")（1/100マスターグレード）、GF13-017NJ [シャイニングガンダム](https://ja.wikipedia.org/wiki/シャイニングガンダム "wikilink")（1/100マスターグレード）
+    表紙：GF13-017NJ II [Gガンダム](../Page/ゴッドガンダム.md "wikilink")（1/100マスターグレード）、GF13-017NJ [シャイニングガンダム](../Page/シャイニングガンダム.md "wikilink")（1/100マスターグレード）
   - GUNDAM WEAPONS "赤い彗星"編
     2002年11月15日発行 ISBN 4-89425-280-5
     表紙：MSN-02 ジオング（1/100マスターグレード）
@@ -96,29 +96,29 @@
     表紙：RX-178 ガンダムMk-II（1/100マスターグレード）、RMS-099 [リック・ディアス](../Page/リック・ディアス.md "wikilink")（クワトロ・バジーナ大尉機）（1/100マスターグレード）
   - GUNDAM WEAPONS 機動戦士Ζガンダム A New Translation編［2］
     2006年5月9日発行 ISBN 4-89425-419-0
-    表紙：MSN-00100 [百式](../Page/百式_\(ガンダムシリーズ\).md "wikilink")（1/100マスターグレード）、MRX-009 [サイコガンダム](https://ja.wikipedia.org/wiki/サイコガンダム "wikilink")（1/144ハイグレード・ユニバーサルセンチュリー）
+    表紙：MSN-00100 [百式](../Page/百式_\(ガンダムシリーズ\).md "wikilink")（1/100マスターグレード）、MRX-009 [サイコガンダム](../Page/サイコガンダム.md "wikilink")（1/144ハイグレード・ユニバーサルセンチュリー）
   - GUNDAM WEAPONS 機動戦士Ζガンダム A New Translation編［3］
     2006年9月30日発行 ISBN 4-89425-462-X
-    表紙：MSZ-006 Ζガンダム Ver2.0（1/100マスターグレード）、PMX-003 [ジ・O](https://ja.wikipedia.org/wiki/ジ・O "wikilink")（1/144ハイグレードユニバーサルセンチュリー）
+    表紙：MSZ-006 Ζガンダム Ver2.0（1/100マスターグレード）、PMX-003 [ジ・O](../Page/ジ・O.md "wikilink")（1/144ハイグレードユニバーサルセンチュリー）
   - GUNDAM WEAPONS "ガンダムF91&クロスボーンガンダム"編
     2007年3月31日発行 ISBN 4-89425-493-X
     表紙：XM-X1 [クロスボーン・ガンダムX1](https://ja.wikipedia.org/wiki/クロスボーン・ガンダム#クロスボーン・ガンダムX1 "wikilink")（1/100マスターグレードVer.ka）
   - GUNDAM WEAPONS "[MS IGLOO](https://ja.wikipedia.org/wiki/MS_IGLOO "wikilink")"編
     2007年7月31日発行 ISBN 978-4-89425-567-8
-    表紙：EMS-10 [ヅダ](https://ja.wikipedia.org/wiki/ヅダ "wikilink")（1/100スクラッチビルド）
+    表紙：EMS-10 [ヅダ](../Page/ヅダ.md "wikilink")（1/100スクラッチビルド）
   - GUNDAM WEAPONS "[武者烈伝](https://ja.wikipedia.org/wiki/武者烈伝 "wikilink")・零"編
     2007年10月31日発行 ISBN 978-4-89425-598-2
     表紙：光の七人衆、光凰姫将軍、剣豪武将 漣飛威
   - GUNDAM WEAPONS "[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")"編
     2008年4月3日発行 ISBN 978-4-89425-694-1
     表紙：GN-001 [ガンダムエクシア](https://ja.wikipedia.org/wiki/機動戦士ガンダム00シリーズの登場兵器#ガンダムエクシア "wikilink")
-  - GUNDAM WEAPONS "[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")"編
+  - GUNDAM WEAPONS "[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")"編
     2008年8月30日発行 ISBN 978-4-89425-754-2
     表紙：ZGMF-X20A [ストライクフリーダムガンダム](https://ja.wikipedia.org/wiki/フリーダムガンダム#ストライクフリーダムガンダム "wikilink")、ZGMF-X19A [インフィニットジャスティスガンダム](https://ja.wikipedia.org/wiki/ジャスティスガンダム#インフィニットジャスティスガンダム "wikilink")
   - GUNDAM WEAPONS "機動戦士ガンダム　逆襲のシャア編II"
     2009年3月31日発行 ISBN 978-4-89425-837-2
     表紙：RX-93-ν2 [Hi-νガンダム](https://ja.wikipedia.org/wiki/νガンダム#Hi-νガンダム "wikilink")
-  - GUNDAM WEAPONS "[機動戦士ガンダムUC](https://ja.wikipedia.org/wiki/機動戦士ガンダムUC "wikilink")（ユニコーン）"編
+  - GUNDAM WEAPONS "[機動戦士ガンダムUC](../Page/機動戦士ガンダムUC.md "wikilink")（ユニコーン）"編
     2009年7月31日発行 ISBN 978-4-89425-908-9
     表紙：RX-0 [ユニコーンガンダム](https://ja.wikipedia.org/wiki/ユニコーンガンダム "wikilink")（1/100マスターグレードVer.ka）
   - GUNDAM WEAPONS "機動戦士ガンダム00編IIエンド・オブ・ワールド"

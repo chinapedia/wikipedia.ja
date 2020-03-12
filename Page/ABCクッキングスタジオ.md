@@ -1,7 +1,7 @@
 > この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Akarenga_20160425.jpg "wikilink") **ABCクッキングスタジオ**（英称:*ABC Cooking Studio*）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く株式会社および同社が展開する[料理](../Page/料理.md "wikilink")教室の名称である。ABCの略称を持つ[朝日放送グループおよび](../Page/朝日放送グループホールディングス.md "wikilink")[朝日新聞社](../Page/朝日新聞社.md "wikilink")、ならびに靴販売の[ABCマート](https://ja.wikipedia.org/wiki/ABCマート "wikilink")とは資本・人的関連はない。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Akarenga_20160425.jpg "wikilink") **ABCクッキングスタジオ**（英称:*ABC Cooking Studio*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く株式会社および同社が展開する[料理](../Page/料理.md "wikilink")教室の名称である。ABCの略称を持つ[朝日放送グループおよび](../Page/朝日放送グループホールディングス.md "wikilink")[朝日新聞社](../Page/朝日新聞社.md "wikilink")、ならびに靴販売の[ABCマート](../Page/ABCマート.md "wikilink")とは資本・人的関連はない。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 また、年中～小学3年生まで利用でき食育に特化した「abc kids＋」、カラダを気遣うすべての大人にむけた「OTONA ABC Cooking Studio」、自由に手作りを楽しむアトリエ「Whip」などのサービスも展開している。
 
-生徒数は2019年4月現在、国内外合わせ33万人に及ぶ。その約70%を[F1](https://ja.wikipedia.org/wiki/視聴者 "wikilink")（20-34歳）が占めている。
+生徒数は2019年4月現在、国内外合わせ33万人に及ぶ。その約70%を[F1](../Page/視聴者.md "wikilink")（20-34歳）が占めている。
 
 ABCクッキングスタジオの親会社『ABC HOLDINGS』の株式を2014年1月に、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が51%を取得したが、2019年3月に株式譲渡が行われ、現在は『ABC HOLDINGS』がすべての株式をもつ。
 

@@ -1,7 +1,7 @@
 > この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
 
 
-『**Mポイント**』（エムポイント）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")ラジオで放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**Mポイント**』（エムポイント）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")ラジオで放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -21,7 +21,7 @@
   - 17:30 [ネットワークトゥデイ](../Page/ネットワークトゥデイ.md "wikilink")
   - 17:47 交通情報
   - 18:00 天気予報
-  - 18:05 [BSSニュース](https://ja.wikipedia.org/wiki/BSSニュース "wikilink")
+  - 18:05 [BSSニュース](../Page/BSSニュース.md "wikilink")
   - 18:12 島根県からのお知らせ(木曜日）
 
 ## 外部リンク

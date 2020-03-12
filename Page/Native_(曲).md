@@ -1,13 +1,13 @@
 > この記事は[Native \(\)](https://ja.wikipedia.org/wiki/Native_\(\))から翻訳されています。
 
 
-「**Native**」（ネイティブ）は日本の音楽グループ、[ZOOの](https://ja.wikipedia.org/wiki/ZOO_\(ダンス&ボーカルユニット\) "wikilink")3rdシングル。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")（曲の製作は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）に[フォーライフよりリリースされた](../Page/フォーライフ・レコード.md "wikilink")。
+「**Native**」（ネイティブ）は日本の音楽グループ、[ZOOの](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")3rdシングル。[1991年](../Page/1991年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")（曲の製作は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）に[フォーライフよりリリースされた](../Page/フォーライフ・レコード.md "wikilink")。
 
 ## 概要
 
 メインボーカルは[SATSUKI](https://ja.wikipedia.org/wiki/SATSUKI "wikilink")で、[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")が一部ボーカルとコーラスに参加している。また中西がアルバム『SONGS』にてセルフカバーしている。
 
-表題曲は、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[ClubDADA](https://ja.wikipedia.org/wiki/ClubDADA "wikilink")』・『[華麗にAh\!so](https://ja.wikipedia.org/wiki/華麗にAh!so "wikilink")』のオープニングテーマに起用された。
+表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ClubDADA](https://ja.wikipedia.org/wiki/ClubDADA "wikilink")』・『[華麗にAh\!so](../Page/華麗にAh!so.md "wikilink")』のオープニングテーマに起用された。
 
 ## 収録曲
 

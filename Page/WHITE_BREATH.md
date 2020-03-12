@@ -6,14 +6,14 @@
 ## 概要
 
   - 累計売上は102.9万枚を記録\[1\]。自身初、またシングルでは唯一の[ミリオンヒット](https://ja.wikipedia.org/wiki/ミリオンヒット "wikilink")作品。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")及び[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")』に、この曲で出場した（2005年は『[UNDER:COVER](https://ja.wikipedia.org/wiki/UNDER:COVER "wikilink")』バージョン）。なお、2005年の紅白出演者選考に際して行われた「[スキウタ〜紅白みんなでアンケート〜](https://ja.wikipedia.org/wiki/スキウタ〜紅白みんなでアンケート〜 "wikilink")」では14位にランクインした。1997年の出場時には翌1998年の[干支](../Page/干支.md "wikilink")にちなんで[虎のコスチュームで歌った](../Page/トラ.md "wikilink")。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")及び[2005年](../Page/2005年.md "wikilink")の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に、この曲で出場した（2005年は『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』バージョン）。なお、2005年の紅白出演者選考に際して行われた「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」では14位にランクインした。1997年の出場時には翌1998年の[干支](../Page/干支.md "wikilink")にちなんで[虎のコスチュームで歌った](../Page/トラ.md "wikilink")。
   - 『UNDER:COVER』の人気投票では「WHITE BREATH」は7位、「OH\! MY GIRL,OH MY GOD\!」は44位にランクインした。
-  - [PVでは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、吹雪の中「上半身裸にジャケット+ネクタイ」という衣装を披露した。なお、CDジャケットにおいてもこの衣装の写真が使用されている。
+  - [PVでは](../Page/ミュージック・ビデオ.md "wikilink")、吹雪の中「上半身裸にジャケット+ネクタイ」という衣装を披露した。なお、CDジャケットにおいてもこの衣装の写真が使用されている。
 
 ## 収録曲
 
 1.  **WHITE BREATH**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
       - 出版社：[ダーウィン](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")
 2.  **OH\! MY GIRL, OH MY GOD\!**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
@@ -25,9 +25,9 @@
   - [triple joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")（\#1、\#2）
       - \#1は「MORE FREEZE MIX」として、\#2は「MORNING SURPRISE MIX」として収録。
   - [DISCORdanza Try My Remix 〜Single Collections](https://ja.wikipedia.org/wiki/DISCORdanza_Try_My_Remix_〜Single_Collections "wikilink")（\#1,Stone Cold P-Mix）
-  - [B★E★S★T](https://ja.wikipedia.org/wiki/B★E★S★T "wikilink")（\#1）
-  - [1000000000000](https://ja.wikipedia.org/wiki/1000000000000_\(アルバム\) "wikilink")（\#1）
-  - [UNDER:COVER](https://ja.wikipedia.org/wiki/UNDER:COVER "wikilink")（\#1,セルフカバー版）
+  - [B★E★S★T](../Page/B★E★S★T.md "wikilink")（\#1）
+  - [1000000000000](../Page/1000000000000_\(アルバム\).md "wikilink")（\#1）
+  - [UNDER:COVER](../Page/UNDER:COVER.md "wikilink")（\#1,セルフカバー版）
   - ウインターソング（\#1）
   - CDTV NO.1 HITS〜アゲウタ〜（\#1）
   - J-POP DRIVING〜NON-STOP MIX by DJ KEN-ICHIRO（\#1,短く編集されており、前後の曲とクロスフェードしている）

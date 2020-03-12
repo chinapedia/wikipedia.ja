@@ -1,9 +1,9 @@
 > この記事は[Dear Friends \&](https://ja.wikipedia.org/wiki/Dear_Friends_\&)から翻訳されています。
 
 
-『**Dear Friends リナ&マキ**』（ディアフレンズ リナ アンド マキ）は、[Yoshi](https://ja.wikipedia.org/wiki/Yoshi "wikilink")作の[ケータイ小説](https://ja.wikipedia.org/wiki/ケータイ小説 "wikilink")。
+『**Dear Friends リナ&マキ**』（ディアフレンズ リナ アンド マキ）は、[Yoshi](../Page/Yoshi.md "wikilink")作の[ケータイ小説](../Page/ケータイ小説.md "wikilink")。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に『**Dear Friends**』（ディアフレンズ）のタイトルで映画化された。
+[2007年](../Page/2007年.md "wikilink")に『**Dear Friends**』（ディアフレンズ）のタイトルで映画化された。
 
 ## あらすじ
 
@@ -27,27 +27,27 @@
 
   - [北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink") - 高橋リナ
   - [本仮屋ユイカ](https://ja.wikipedia.org/wiki/本仮屋ユイカ "wikilink") - 遠藤マキ
-  - [黄川田将也](https://ja.wikipedia.org/wiki/黄川田将也 "wikilink") - 洋介
-  - [通山愛里](https://ja.wikipedia.org/wiki/通山愛里 "wikilink") - ヒロコ
-  - [佐々木麻緒](https://ja.wikipedia.org/wiki/佐々木麻緒 "wikilink") - カナエ
-  - [松嶋初音](https://ja.wikipedia.org/wiki/松嶋初音 "wikilink") - エミ
+  - [黄川田将也](../Page/黄川田将也.md "wikilink") - 洋介
+  - [通山愛里](../Page/通山愛里.md "wikilink") - ヒロコ
+  - [佐々木麻緒](../Page/佐々木麻緒.md "wikilink") - カナエ
+  - [松嶋初音](../Page/松嶋初音.md "wikilink") - エミ
   - [西川風花](https://ja.wikipedia.org/wiki/西川風花 "wikilink")
-  - [松原静香](https://ja.wikipedia.org/wiki/松原静香 "wikilink")
+  - [松原静香](../Page/松原静香.md "wikilink")
   - [伊藤留奈](https://ja.wikipedia.org/wiki/伊藤留奈 "wikilink")
   - [小林愛里香](https://ja.wikipedia.org/wiki/小林愛里香 "wikilink") - 高橋リナ（幼少時代）
   - [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink")
   - [路川あかり](https://ja.wikipedia.org/wiki/路川あかり "wikilink")
   - [小川飛鳥](https://ja.wikipedia.org/wiki/小川飛鳥 "wikilink")
-  - [荒井健太郎](https://ja.wikipedia.org/wiki/荒井健太郎 "wikilink") - タカシ
+  - [荒井健太郎](../Page/荒井健太郎.md "wikilink") - タカシ
   - [菊地裕子](https://ja.wikipedia.org/wiki/菊地裕子 "wikilink")
   - [佐野元哉](https://ja.wikipedia.org/wiki/佐野元哉 "wikilink")
-  - [平野麻樹子](https://ja.wikipedia.org/wiki/平野麻樹子 "wikilink")
+  - [平野麻樹子](../Page/平野麻樹子.md "wikilink")
   - [中山俊](https://ja.wikipedia.org/wiki/中山俊 "wikilink")
   - [エイヴェリー・フェーヌ・クレンマン](https://ja.wikipedia.org/wiki/エイヴェリー・フェーヌ・クレンマン "wikilink")
-  - [大谷直子](https://ja.wikipedia.org/wiki/大谷直子 "wikilink") - 婦長
-  - [川口りさ](https://ja.wikipedia.org/wiki/川口りさ "wikilink")
+  - [大谷直子](../Page/大谷直子.md "wikilink") - 婦長
+  - [川口りさ](../Page/川口りさ.md "wikilink")
   - [上原あい](https://ja.wikipedia.org/wiki/上原あい "wikilink")
-  - [戸田れい](https://ja.wikipedia.org/wiki/戸田れい "wikilink")
+  - [戸田れい](../Page/戸田れい.md "wikilink")
   - [萩原未奈](https://ja.wikipedia.org/wiki/萩原未奈 "wikilink")
   - [藤田侑](https://ja.wikipedia.org/wiki/藤田侑 "wikilink")
   - [久保田悠来](https://ja.wikipedia.org/wiki/久保田悠来 "wikilink")
@@ -59,25 +59,25 @@
   - [上久保英里](https://ja.wikipedia.org/wiki/上久保英里 "wikilink")
   - [加納匠悟](https://ja.wikipedia.org/wiki/加納匠悟 "wikilink")
   - [野貴葵](https://ja.wikipedia.org/wiki/野貴葵 "wikilink")
-  - [上野亮](https://ja.wikipedia.org/wiki/上野亮 "wikilink")
+  - [上野亮](../Page/上野亮.md "wikilink")
   - [小林且弥](../Page/小林且弥.md "wikilink")
-  - [あすか](https://ja.wikipedia.org/wiki/あすか_\(女優\) "wikilink")
+  - [あすか](../Page/あすか_\(女優\).md "wikilink")
   - [野波麻帆](https://ja.wikipedia.org/wiki/野波麻帆 "wikilink") - 看護婦
-  - [仁科克基](https://ja.wikipedia.org/wiki/仁科克基 "wikilink")
-  - [根岸季衣](https://ja.wikipedia.org/wiki/根岸季衣 "wikilink")
-  - [小市慢太郎](https://ja.wikipedia.org/wiki/小市慢太郎 "wikilink") - 木下医師
-  - [宮崎美子](https://ja.wikipedia.org/wiki/宮崎美子 "wikilink") - 高橋加奈子
+  - [仁科克基](../Page/仁科克基.md "wikilink")
+  - [根岸季衣](../Page/根岸季衣.md "wikilink")
+  - [小市慢太郎](../Page/小市慢太郎.md "wikilink") - 木下医師
+  - [宮崎美子](../Page/宮崎美子.md "wikilink") - 高橋加奈子
   - [大杉漣](../Page/大杉漣.md "wikilink") - 高橋幸三
 
 ### スタッフ
 
-  - 監督：[両沢和幸](https://ja.wikipedia.org/wiki/両沢和幸 "wikilink")
+  - 監督：[両沢和幸](../Page/両沢和幸.md "wikilink")
   - 原作：Yoshi『Dear Friends リナ&マキ』（講談社文庫刊）
   - 脚本：両沢和幸、[三浦有為子](https://ja.wikipedia.org/wiki/三浦有為子 "wikilink")
-  - 音楽：[藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")
-  - 主題歌：[SOULHEAD](https://ja.wikipedia.org/wiki/SOULHEAD "wikilink")「Dear Friends」
-  - 挿入歌：[今日の日はさようなら](https://ja.wikipedia.org/wiki/今日の日はさようなら "wikilink") （作詞・作曲 [金子詔一](https://ja.wikipedia.org/wiki/金子詔一 "wikilink")）
-  - 製作プロダクション：[東映東京撮影所](https://ja.wikipedia.org/wiki/東映東京撮影所 "wikilink")
+  - 音楽：[藤原いくろう](../Page/藤原いくろう.md "wikilink")
+  - 主題歌：[SOULHEAD](../Page/SOULHEAD.md "wikilink")「Dear Friends」
+  - 挿入歌：[今日の日はさようなら](../Page/今日の日はさようなら.md "wikilink") （作詞・作曲 [金子詔一](https://ja.wikipedia.org/wiki/金子詔一 "wikilink")）
+  - 製作プロダクション：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
   - 製作：「Dear Friends」製作委員会（[東映](../Page/東映.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")、[星光堂](https://ja.wikipedia.org/wiki/星光堂 "wikilink")、ビッグショット、[スターダストピクチャーズ](https://ja.wikipedia.org/wiki/スターダストピクチャーズ "wikilink")、ダブルス）
   - 配給：東映
 

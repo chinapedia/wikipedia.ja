@@ -1,7 +1,7 @@
 > この記事は[  Max Heart 2 ](https://ja.wikipedia.org/wiki/__Max_Heart_2_)から翻訳されています。
 
 
-『**映画 ふたりはプリキュア Max Heart 2 雪空のともだち**』（えいが ふたりはプリキュア マックスハート ツー ゆきぞらのともだち）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")に公開された、『[ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")』の劇場アニメーション作品の第2作である。
+『**映画 ふたりはプリキュア Max Heart 2 雪空のともだち**』（えいが ふたりはプリキュア マックスハート ツー ゆきぞらのともだち）は、[2005年](../Page/2005年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に公開された、『[ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")』の劇場アニメーション作品の第2作である。
 
 キャッチコピーは「**届け\!きらめく友情パワー\!**」、「**雲の園で、マジ全開バージョンアップ\!\!**」。
 
@@ -32,7 +32,7 @@
 ### 本編からの登場人物
 
   - 美墨 なぎさ（みすみ なぎさ） / [キュアブラック](https://ja.wikipedia.org/wiki/ふたりはプリキュア#プリキュア "wikilink")
-    [声](../Page/声優.md "wikilink") - [本名陽子](https://ja.wikipedia.org/wiki/本名陽子 "wikilink")
+    [声](../Page/声優.md "wikilink") - [本名陽子](../Page/本名陽子.md "wikilink")
     メップルの力でキュアブラックに変身する、中学3年生。
     ラクロス部であり運動神経はいいが、ウインタースポーツが苦手なため、本作ではスノボーで悪戦苦闘するシーンが見られる。
     思うように藤村と良い雰囲気になれず、あげくほのかに嫉妬して憤りをぶつける。
@@ -53,26 +53,26 @@
     声 - [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")
     ルミナスのパートナー。タッチコミューンに変身する。
   - ルルン
-    声 - [谷井あすか](https://ja.wikipedia.org/wiki/谷井あすか "wikilink")
+    声 - [谷井あすか](../Page/谷井あすか.md "wikilink")
     ミラクルコミューンに変身し、ルミナスにハーティエルブローチェを授ける。
   - 久保田 志穂（くぼた しほ）
-    声 - [仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")
+    声 - [仙台エリ](../Page/仙台エリ.md "wikilink")
   - 高清水 莉奈（たかしみず りな）
-    声 - [徳光由禾](https://ja.wikipedia.org/wiki/徳光由禾 "wikilink")
+    声 - [徳光由禾](../Page/徳光由禾.md "wikilink")
     なぎさ達のクラスメイトで、ラクロス部の仲間。なぎさとほのかのギクシャクした様子を察し、なぎさを諭す。
   - 雪城 さなえ（ゆきしろ さなえ）
-    声 - [野沢雅子](https://ja.wikipedia.org/wiki/野沢雅子 "wikilink")
+    声 - [野沢雅子](../Page/野沢雅子.md "wikilink")
     ほのかの祖母。
   - 藤村 省吾（ふじむら しょうご）
     声 - [岸尾大輔](https://ja.wikipedia.org/wiki/岸尾大輔 "wikilink")
   - 木俣（きまた）
-    声 - [加藤木賢志](https://ja.wikipedia.org/wiki/加藤木賢志 "wikilink")
+    声 - [加藤木賢志](../Page/加藤木賢志.md "wikilink")
     なぎさたちとスキー場へやってくる。
 
 ### 雲の園の住人
 
   - ひなた
-    声 - [千々松幸子](https://ja.wikipedia.org/wiki/千々松幸子 "wikilink")
+    声 - [千々松幸子](../Page/千々松幸子.md "wikilink")
     鳳凰が、死の直前に産み落とした卵から生まれた雛。丸く黄色い体で、小さい[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")のような姿をしている。
     老師が卵を「光の園」に運ぶ途中に誤って「虹の園」に落とし、ひかりによって発見された。
     生まれた直後にひかり、ポルン、ルルンを友だちと認識する。なぎさに対しては「ポチ」「ストーブ」「コタツ」等で変な名前をつけられそうになったため、当初こそ嫌悪感を示していたが、ほのかの取り成しで和解する。
@@ -105,8 +105,8 @@
 #### 怪物
 
   - [ザケンナー](https://ja.wikipedia.org/wiki/ふたりはプリキュア#怪物 "wikilink")
-    声 - [滝知史](https://ja.wikipedia.org/wiki/滝知史 "wikilink")
-    フリーズンとフローズンが生みだしたザケンナー。[雪だるま](https://ja.wikipedia.org/wiki/雪だるま "wikilink")のような姿をしている。
+    声 - [滝知史](../Page/滝知史.md "wikilink")
+    フリーズンとフローズンが生みだしたザケンナー。[雪だるま](../Page/雪だるま.md "wikilink")のような姿をしている。
 
 ### その他
 
@@ -116,7 +116,7 @@
 ## 作中用語
 
   - 雲の園
-    厚い[雲](../Page/雲.md "wikilink")に覆われている世界。全ての世界の「暖かさ」および人々の「こころ」を司る「[鳳凰](../Page/鳳凰.md "wikilink")」が住んでいる。鳳凰が絶滅すると、すべての世界が寒さに覆われる。[ムササビ](https://ja.wikipedia.org/wiki/ムササビ "wikilink")のような姿をした妖精たちが住みついている。彼らは鳳凰を成長させることを役目としており、鳳凰を守護している。[綿菓子](https://ja.wikipedia.org/wiki/綿菓子 "wikilink")のような食べ物があり、来客者などに振る舞っている。常に上空を漂っているため、部外者に発見されることはない。
+    厚い[雲](../Page/雲.md "wikilink")に覆われている世界。全ての世界の「暖かさ」および人々の「こころ」を司る「[鳳凰](../Page/鳳凰.md "wikilink")」が住んでいる。鳳凰が絶滅すると、すべての世界が寒さに覆われる。[ムササビ](../Page/ムササビ.md "wikilink")のような姿をした妖精たちが住みついている。彼らは鳳凰を成長させることを役目としており、鳳凰を守護している。[綿菓子](../Page/綿菓子.md "wikilink")のような食べ物があり、来客者などに振る舞っている。常に上空を漂っているため、部外者に発見されることはない。
 
 <!-- end list -->
 
@@ -148,10 +148,10 @@
 ## 主題歌
 
   - オープニング『[DANZEN\! ふたりはプリキュア （Ver. Max Heart）](https://ja.wikipedia.org/wiki/DANZEN!_ふたりはプリキュア "wikilink") 』
-    作詞：青木久美子、作曲：[小杉保夫](https://ja.wikipedia.org/wiki/小杉保夫 "wikilink")、編曲：[佐藤直紀](https://ja.wikipedia.org/wiki/佐藤直紀 "wikilink")、歌：[五條真由美](https://ja.wikipedia.org/wiki/五條真由美 "wikilink")
+    作詞：青木久美子、作曲：[小杉保夫](../Page/小杉保夫.md "wikilink")、編曲：[佐藤直紀](../Page/佐藤直紀.md "wikilink")、歌：[五條真由美](../Page/五條真由美.md "wikilink")
   - 挿入歌『Crystal』
     作詞：大森祥子、作曲：nishi-ken、編曲：樫原伸彦、歌：五條真由美
-  - エンディング『[ギャグ100回分愛してください](https://ja.wikipedia.org/wiki/ギャグ100回分愛してください "wikilink")』
+  - エンディング『[ギャグ100回分愛してください](../Page/ギャグ100回分愛してください.md "wikilink")』
     作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")、編曲：高橋諭一、歌：Berryz工房
 
 ## その他
@@ -167,25 +167,25 @@
 
 <!-- end list -->
 
-1.  [夢のクレヨン王国](https://ja.wikipedia.org/wiki/夢のクレヨン王国 "wikilink")
+1.  [夢のクレヨン王国](../Page/夢のクレヨン王国.md "wikilink")
 2.  [おジャ魔女どれみ](https://ja.wikipedia.org/wiki/おジャ魔女どれみ "wikilink")
 3.  [明日のナージャ](https://ja.wikipedia.org/wiki/明日のナージャ "wikilink")
 4.  [ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")（これが正解）
 
 ## スタッフ
 
-  - 製作：[高橋浩](https://ja.wikipedia.org/wiki/高橋浩 "wikilink")（東映アニメーション）、[岡田裕介](https://ja.wikipedia.org/wiki/岡田裕介 "wikilink")（東映）、竹内淳（バンダイ）、永井秀之（アサツー ディ・ケィ）、[西村嘉郎](https://ja.wikipedia.org/wiki/西村嘉郎 "wikilink")（朝日放送）、中山晴喜（マーベラスエンターテイメント）
-  - 企画：[鷲尾天](https://ja.wikipedia.org/wiki/鷲尾天 "wikilink")
-  - 脚本：[成田良美](https://ja.wikipedia.org/wiki/成田良美 "wikilink")
-  - 音楽：[佐藤直紀](https://ja.wikipedia.org/wiki/佐藤直紀 "wikilink")
+  - 製作：[高橋浩](../Page/高橋浩.md "wikilink")（東映アニメーション）、[岡田裕介](../Page/岡田裕介.md "wikilink")（東映）、竹内淳（バンダイ）、永井秀之（アサツー ディ・ケィ）、[西村嘉郎](../Page/西村嘉郎.md "wikilink")（朝日放送）、中山晴喜（マーベラスエンターテイメント）
+  - 企画：[鷲尾天](../Page/鷲尾天.md "wikilink")
+  - 脚本：[成田良美](../Page/成田良美.md "wikilink")
+  - 音楽：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
   - 製作担当 - 坂井和男
   - 編集：麻生芳弘
   - 録音：川崎公敬
-  - 音響効果：石野貴久（[サウンドリング](https://ja.wikipedia.org/wiki/サウンドリング "wikilink")）
-  - 美術監督：[行信三](https://ja.wikipedia.org/wiki/行信三 "wikilink")
+  - 音響効果：石野貴久（[サウンドリング](../Page/サウンドリング.md "wikilink")）
+  - 美術監督：[行信三](../Page/行信三.md "wikilink")
   - キャラクターデザイン：[稲上晃](../Page/稲上晃.md "wikilink")、[爲我井克美](https://ja.wikipedia.org/wiki/爲我井克美 "wikilink")
   - 作画監督：爲我井克美
-  - 監督：[志水淳児](https://ja.wikipedia.org/wiki/志水淳児 "wikilink")
+  - 監督：[志水淳児](../Page/志水淳児.md "wikilink")
 
 ## 備考
 
@@ -200,4 +200,4 @@
 [Category:プリキュアシリーズの映画作品](https://ja.wikipedia.org/wiki/Category:プリキュアシリーズの映画作品 "wikilink") [Category:2005年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2005年のアニメ映画 "wikilink") [Category:志水淳児の監督映画](https://ja.wikipedia.org/wiki/Category:志水淳児の監督映画 "wikilink") [Category:佐藤直紀の作曲映画](https://ja.wikipedia.org/wiki/Category:佐藤直紀の作曲映画 "wikilink")
 
 1.
-2.  ひなたは『[映画 プリキュアオールスターズDX3 未来にとどけ\! 世界をつなぐ☆虹色の花](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズDX3_未来にとどけ!_世界をつなぐ☆虹色の花 "wikilink")』と『[映画 プリキュアオールスターズ 春のカーニバル♪](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズ_春のカーニバル♪ "wikilink")』の2作品（なお、2作品とも幼体の姿で登場しており、完全体としての姿は登場していない）、老師とムタは『[映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ\!](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズDX2_希望の光☆レインボージュエルを守れ! "wikilink")』と『DX3』と『春のカーニバル♪』の3作品、雲の園の妖精たちは『DX3』のみに登場している。なお、『春のカーニバル♪』ではなぎさたちを含む歴代プリキュアたちの回想シーン（挿入歌「39フェアリーズ」の映像シーン）のみ登場（TV本編に登場する光の園の長老とウィズダム、前作『[映画 ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/映画_ふたりはプリキュア_Max_Heart "wikilink")』の「妖精騎士団」たちも歴代プリキュアたちの回想シーンにモブ登場している）。
+2.  ひなたは『[映画 プリキュアオールスターズDX3 未来にとどけ\! 世界をつなぐ☆虹色の花](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズDX3_未来にとどけ!_世界をつなぐ☆虹色の花 "wikilink")』と『[映画 プリキュアオールスターズ 春のカーニバル♪](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズ_春のカーニバル♪ "wikilink")』の2作品（なお、2作品とも幼体の姿で登場しており、完全体としての姿は登場していない）、老師とムタは『[映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ\!](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズDX2_希望の光☆レインボージュエルを守れ! "wikilink")』と『DX3』と『春のカーニバル♪』の3作品、雲の園の妖精たちは『DX3』のみに登場している。なお、『春のカーニバル♪』ではなぎさたちを含む歴代プリキュアたちの回想シーン（挿入歌「39フェアリーズ」の映像シーン）のみ登場（TV本編に登場する光の園の長老とウィズダム、前作『[映画 ふたりはプリキュア Max Heart](../Page/映画_ふたりはプリキュア_Max_Heart.md "wikilink")』の「妖精騎士団」たちも歴代プリキュアたちの回想シーンにモブ登場している）。

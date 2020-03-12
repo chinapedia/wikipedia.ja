@@ -17,7 +17,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") 横浜市西区中央に移転。
   - [1988年](../Page/1988年.md "wikilink") 株式会社陽光都市開発へ商号変更。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") 現在地に移転。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に上場。
+  - [2005年](../Page/2005年.md "wikilink") [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に上場。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") ヨコハマ地所、陽光ビルシステム、サン建設設計を吸収合併。
   - [2011年](../Page/2011年.md "wikilink") 上海徳威企業発展有限公司傘下の思源国際発展有限公司を割当先とする第三者割当増資を実施。上海徳威企業発展有限公司・思源国際発展有限公司・フィンテックグローバル証券株式会社と資本提携\[1\]。
   - [2013年](../Page/2013年.md "wikilink") フィンテックグローバル証券株式会社との資本提携を解消\[2\]。

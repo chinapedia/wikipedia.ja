@@ -1,17 +1,17 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**ロイヤル・アントワープFC** () は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[アントウェルペン](https://ja.wikipedia.org/wiki/アントウェルペン "wikilink")（アントワープ）を本拠地とするサッカークラブである。
+**ロイヤル・アントワープFC** () は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[アントウェルペン](../Page/アントウェルペン.md "wikilink")（アントワープ）を本拠地とするサッカークラブである。
 
 1992-93シーズンには[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で決勝に進出し、[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")で行われた決勝では[パルマFCに敗れた](../Page/パルマ・カルチョ1913.md "wikilink")。これ以来、ベルギーのクラブが欧州カップ戦の決勝に出場したことはない。
 
-[イングランド](../Page/イングランド.md "wikilink")・[FAプレミアリーグ](https://ja.wikipedia.org/wiki/FAプレミアリーグ "wikilink")の[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")と長期の提携関係にある。同クラブに所属している若手選手が経験を積むために、あるいは労働許可証を取得するまでの期間のためにアントワープへ期限付きで移籍してくることが多々あり、[ダニー・ヒギンボザム](https://ja.wikipedia.org/wiki/ダニー・ヒギンボザム "wikilink")、[ジョン・オシェイ](https://ja.wikipedia.org/wiki/ジョン・オシェイ "wikilink")、[董方卓](https://ja.wikipedia.org/wiki/董方卓 "wikilink")、[ジョニー・エヴァンズ](https://ja.wikipedia.org/wiki/ジョニー・エヴァンズ "wikilink")、[フレイザー・キャンベル](https://ja.wikipedia.org/wiki/フレイザー・キャンベル "wikilink")など25人以上にのぼる。
+[イングランド](../Page/イングランド.md "wikilink")・[FAプレミアリーグ](https://ja.wikipedia.org/wiki/FAプレミアリーグ "wikilink")の[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")と長期の提携関係にある。同クラブに所属している若手選手が経験を積むために、あるいは労働許可証を取得するまでの期間のためにアントワープへ期限付きで移籍してくることが多々あり、[ダニー・ヒギンボザム](https://ja.wikipedia.org/wiki/ダニー・ヒギンボザム "wikilink")、[ジョン・オシェイ](../Page/ジョン・オシェイ.md "wikilink")、[董方卓](../Page/董方卓.md "wikilink")、[ジョニー・エヴァンズ](https://ja.wikipedia.org/wiki/ジョニー・エヴァンズ "wikilink")、[フレイザー・キャンベル](../Page/フレイザー・キャンベル.md "wikilink")など25人以上にのぼる。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[ベルギー・ファーストディビジョン](https://ja.wikipedia.org/wiki/ベルギー・ファースト・ディビジョンA "wikilink")：4回**
+  - **[ベルギー・ファーストディビジョン](../Page/ベルギー・ファースト・ディビジョンA.md "wikilink")：4回**
       - 1928-29, 1930-31, 1943-44, 1956-57
   - **[ベルギー・セカンドディビジョン](https://ja.wikipedia.org/wiki/プロキシマス・リーグ "wikilink")：1回**
       - 2016-17
@@ -25,7 +25,7 @@
 
 ## 過去の成績
 
-  - 2001-02 [ジュピラー・リーグ](https://ja.wikipedia.org/wiki/ベルギー・ファースト・ディビジョンA "wikilink") 12位
+  - 2001-02 [ジュピラー・リーグ](../Page/ベルギー・ファースト・ディビジョンA.md "wikilink") 12位
   - 2002-03 ジュピラー・リーグ 16位
   - 2003-04 ジュピラー・リーグ 12位 **降格**
   - 2004-05 ベルギー・セカンドディビジョン 4位
@@ -69,12 +69,12 @@
 <td><p>1-0</p></td>
 <td><p>1-2<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
-<td><p>'''2-2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2-2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>1-4</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-5</p></td>
@@ -115,7 +115,7 @@
 
   - Jean Dockx 1983-1984
 
-  - [アリー・ハーン](https://ja.wikipedia.org/wiki/アリー・ハーン "wikilink") 1984-1985
+  - [アリー・ハーン](../Page/アリー・ハーン.md "wikilink") 1984-1985
 
   - [ゲオルク・ケスラー](https://ja.wikipedia.org/wiki/ゲオルク・ケスラー "wikilink") 1986-1989
 
@@ -167,13 +167,13 @@
 
   - [ニコ・クラエセン](https://ja.wikipedia.org/wiki/ニコ・クラエセン "wikilink") 1988-1992, 1993-1994
 
-  - [ジョン・アロイージ](https://ja.wikipedia.org/wiki/ジョン・アロイージ "wikilink") 1993-1995
+  - [ジョン・アロイージ](../Page/ジョン・アロイージ.md "wikilink") 1993-1995
 
-  - [ヴェスレイ・ソンク](https://ja.wikipedia.org/wiki/ヴェスレイ・ソンク "wikilink") 1999-2000
+  - [ヴェスレイ・ソンク](../Page/ヴェスレイ・ソンク.md "wikilink") 1999-2000
 
-  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛ギ鉉 "wikilink") 2000-2001
+  - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2000-2001
 
-  - [ジャスティス・クリストファー](https://ja.wikipedia.org/wiki/ジャスティス・クリストファー "wikilink") 2001-2002
+  - [ジャスティス・クリストファー](../Page/ジャスティス・クリストファー.md "wikilink") 2001-2002
 
   - [フセイン・ヤセル](https://ja.wikipedia.org/wiki/フセイン・ヤセル "wikilink") 2002-2004
 
@@ -181,7 +181,7 @@
 
   - [ピーター・ウタカ](https://ja.wikipedia.org/wiki/ピーター・ウタカ "wikilink") 2007-2008
 
-  - [セルゲイ・オスタペンコ](https://ja.wikipedia.org/wiki/セルゲイ・オスタペンコ "wikilink") 2008
+  - [セルゲイ・オスタペンコ](../Page/セルゲイ・オスタペンコ.md "wikilink") 2008
 
 <!-- end list -->
 
@@ -203,7 +203,7 @@
 
   - [ポール・ラチューブカ](https://ja.wikipedia.org/wiki/ポール・ラチューブカ "wikilink") 2001
 
-  - [ジョン・オシェイ](https://ja.wikipedia.org/wiki/ジョン・オシェイ "wikilink") 2001
+  - [ジョン・オシェイ](../Page/ジョン・オシェイ.md "wikilink") 2001
 
   - [アラン・テイト](https://ja.wikipedia.org/wiki/アラン・テイト "wikilink") 2001-2002
 
@@ -217,7 +217,7 @@
 
   - [フィル・バーズリー](https://ja.wikipedia.org/wiki/フィル・バーズリー "wikilink") 2003-2004
 
-  - [董方卓](https://ja.wikipedia.org/wiki/董方卓 "wikilink") 2004-2006
+  - [董方卓](../Page/董方卓.md "wikilink") 2004-2006
 
   - [エディ・ジョンソン](https://ja.wikipedia.org/wiki/エディ・ジョンソン_\(イングランドのサッカー選手\) "wikilink") 2004
 
@@ -227,7 +227,7 @@
 
   - [アダム・エカーズリー](https://ja.wikipedia.org/wiki/アダム・エカーズリー "wikilink") 2006
 
-  - [ダニー・シンプソン](https://ja.wikipedia.org/wiki/ダニー・シンプソン "wikilink") 2006
+  - [ダニー・シンプソン](../Page/ダニー・シンプソン.md "wikilink") 2006
 
   - [ジョニー・エヴァンズ](https://ja.wikipedia.org/wiki/ジョニー・エヴァンズ "wikilink") 2006
 
@@ -235,9 +235,9 @@
 
   - [シルヴァン・イーバンクス＝ブレイク](https://ja.wikipedia.org/wiki/シルヴァン・イーバンクス＝ブレイク "wikilink") 2006
 
-  - [リー・マーティン](https://ja.wikipedia.org/wiki/リー・マーティン "wikilink") 2006
+  - [リー・マーティン](../Page/リー・マーティン.md "wikilink") 2006
 
-  - [フレイザー・キャンベル](https://ja.wikipedia.org/wiki/フレイザー・キャンベル "wikilink") 2006-2007
+  - [フレイザー・キャンベル](../Page/フレイザー・キャンベル.md "wikilink") 2006-2007
 
   - [デヴィッド・グレイ](https://ja.wikipedia.org/wiki/デヴィッド・グレイ_\(サッカー選手\) "wikilink") 2006-2007
 

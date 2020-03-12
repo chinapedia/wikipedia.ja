@@ -6,18 +6,18 @@
 ## 解説
 
   - トリプルA面シングル。初の日韓同時発売。ただし日本版と韓国版とではカップリング曲が違っている。
-  - また、韓国版の収録曲はほぼ全曲が韓国における3.5集｢[SHINE WE ARE](https://ja.wikipedia.org/wiki/SHINE_WE_ARE "wikilink")｣と中国におけるアルバム｢[精選輯](https://ja.wikipedia.org/wiki/精選輯 "wikilink")｣に収録されている。
+  - また、韓国版の収録曲はほぼ全曲が韓国における3.5集｢[SHINE WE ARE](../Page/SHINE_WE_ARE.md "wikilink")｣と中国におけるアルバム｢[精選輯](../Page/精選輯.md "wikilink")｣に収録されている。
 
 ## 収録曲
 
 ### 日本版
 
 1.  **DOUBLE**
-      - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲：[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink")／編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
-      - 3rd ALBUM『**[LOVE & HONESTY](https://ja.wikipedia.org/wiki/LOVE_&_HONESTY "wikilink")**』、BEST ALBUM『**[BEST OF SOUL](https://ja.wikipedia.org/wiki/BEST_OF_SOUL "wikilink")**』に収録されている。
+      - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲：[原一博](../Page/原一博.md "wikilink")／編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+      - 3rd ALBUM『**[LOVE & HONESTY](../Page/LOVE_&_HONESTY.md "wikilink")**』、BEST ALBUM『**[BEST OF SOUL](../Page/BEST_OF_SOUL.md "wikilink")**』に収録されている。
       - 2003年の[第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")で披露した。[第45回日本レコード大賞](https://ja.wikipedia.org/wiki/第45回日本レコード大賞 "wikilink")にて金賞を受賞した。
 2.  **Midnight Parade**
-      - 作詞：[藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")／作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")／編曲：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")
+      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")／編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
       - 3rd ALBUM『LOVE & HONESTY』に収録されている。
 3.  **Milky Way 〜君の歌〜**
       - 作詞・作曲・編曲：Kenzie／日本語詞：藤林聖子
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [ホンダ](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")「COME COME Honda Fair」CMソング
+  - [ホンダ](../Page/本田技研工業.md "wikilink")「COME COME Honda Fair」CMソング
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「開局40周年記念[ラグビーワールドカップ2003](https://ja.wikipedia.org/wiki/ラグビーワールドカップ2003 "wikilink")」イメージソング
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「開局40周年記念[ラグビーワールドカップ2003](../Page/ラグビーワールドカップ2003.md "wikilink")」イメージソング
 
 ## 関連項目
 

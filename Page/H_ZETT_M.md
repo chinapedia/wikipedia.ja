@@ -1,25 +1,25 @@
 > この記事は[H ZETT M](https://ja.wikipedia.org/wiki/H_ZETT_M)から翻訳されています。
 
 
-**H ZETT M**（エイチ・ゼット・エム、別名：**ヒイズミ マサユ機**〔ひいずみ まさゆき〕は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ピアニスト](../Page/ピアニスト.md "wikilink")、[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")。
+**H ZETT M**（エイチ・ゼット・エム、別名：**ヒイズミ マサユ機**〔ひいずみ まさゆき〕は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ピアニスト](../Page/ピアニスト.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")。
 
 ## 人物
 
-かつて侍JAZZバンド・[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")のキーボーディストだった「ヒイズミマサユ機」、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")の率いた[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")第一期の[鍵盤奏者](https://ja.wikipedia.org/wiki/鍵盤奏者 "wikilink")としてデビュー曲「[群青日和](https://ja.wikipedia.org/wiki/群青日和 "wikilink")」を手掛けた「H是都M」、ジャズトリオバンド・[H ZETTRIOのピアニスト](https://ja.wikipedia.org/wiki/H_ZETTRIO "wikilink")「H ZETT M」と、いくつもの顔を持つ\[1\]\[2\]\[3\]。
+かつて侍JAZZバンド・[PE'Z](../Page/PE'Z.md "wikilink")のキーボーディストだった「ヒイズミマサユ機」、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")の率いた[東京事変](../Page/東京事変.md "wikilink")第一期の[鍵盤奏者](https://ja.wikipedia.org/wiki/鍵盤奏者 "wikilink")としてデビュー曲「[群青日和](../Page/群青日和.md "wikilink")」を手掛けた「H是都M」、ジャズトリオバンド・[H ZETTRIOのピアニスト](https://ja.wikipedia.org/wiki/H_ZETTRIO "wikilink")「H ZETT M」と、いくつもの顔を持つ\[1\]\[2\]\[3\]。
 
 ### 演奏スタイル
 
-体全体を使って音を表現する極めてアグレッシブでアクロバティックな鍵盤プレイと、ロックやジャズを軸としながら[クラシック](../Page/クラシック音楽.md "wikilink")、[ラテン](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")などの素養を感じさせる幅広い音楽性、それらを支える確かな演奏テクニックは多くのファンやアーティストからの支持を得ている。超絶技巧に加え、[実験性と高度な芸術性が融合した超人的パフォーマンスは](https://ja.wikipedia.org/wiki/実験音楽 "wikilink")、“無重力奏法”と形容される\[4\]。
+体全体を使って音を表現する極めてアグレッシブでアクロバティックな鍵盤プレイと、ロックやジャズを軸としながら[クラシック](../Page/クラシック音楽.md "wikilink")、[ラテン](../Page/ラテン音楽.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")などの素養を感じさせる幅広い音楽性、それらを支える確かな演奏テクニックは多くのファンやアーティストからの支持を得ている。超絶技巧に加え、[実験性と高度な芸術性が融合した超人的パフォーマンスは](../Page/実験音楽.md "wikilink")、“無重力奏法”と形容される\[4\]。
 
 ### 影響
 
-中学生の頃は雑誌で紹介される音楽を片っぱしから聴いていて、特に[TM NETWORK](../Page/TM_NETWORK.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink")などの日本のロックが好きだった\[5\]。その頃に音楽教室の先生から[チックコリア](https://ja.wikipedia.org/wiki/チックコリア "wikilink")や[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")といった[ジャズ](../Page/ジャズ.md "wikilink")の巨匠たちを教えてもらい、ジャズや[フュージョンに惹かれていった](../Page/フュージョン_\(音楽\).md "wikilink")\[6\]。高校に進学すると、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")や打ち込み系、当時流行っていた[ジャミロクワイ](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")のような[アシッドジャズ](https://ja.wikipedia.org/wiki/アシッドジャズ "wikilink")などをよく聴いていた\[7\]。また使用していた機材に入っていたデモ曲も好きで、そこからインスピレーションを受けて作曲することもあった。
+中学生の頃は雑誌で紹介される音楽を片っぱしから聴いていて、特に[TM NETWORK](../Page/TM_NETWORK.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")などの日本のロックが好きだった\[5\]。その頃に音楽教室の先生から[チックコリア](https://ja.wikipedia.org/wiki/チックコリア "wikilink")や[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")といった[ジャズ](../Page/ジャズ.md "wikilink")の巨匠たちを教えてもらい、ジャズや[フュージョンに惹かれていった](../Page/フュージョン_\(音楽\).md "wikilink")\[6\]。高校に進学すると、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")や打ち込み系、当時流行っていた[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")のような[アシッドジャズ](../Page/アシッドジャズ.md "wikilink")などをよく聴いていた\[7\]。また使用していた機材に入っていたデモ曲も好きで、そこからインスピレーションを受けて作曲することもあった。
 
 ## 名義
 
 ### ヒイズミマサユ機
 
-[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")としての活動、及び他のアーティストをサポートする際に使用される。
+[PE'Z](../Page/PE'Z.md "wikilink")としての活動、及び他のアーティストをサポートする際に使用される。
 
 ### H ZETT M
 
@@ -27,7 +27,7 @@
 
 ### H是都M
 
-[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")（第一期）での活動において使用された。読み方は「えいちぜっとえむ」。当初、東京事変がまだ椎名林檎の[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")だった頃にサポートメンバーとして参加した際は**ヒーズミ マサユ季**の名義を使用していたが、バンドのデビュー宣言にともない変更した。
+[東京事変](../Page/東京事変.md "wikilink")（第一期）での活動において使用された。読み方は「えいちぜっとえむ」。当初、東京事変がまだ椎名林檎の[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")だった頃にサポートメンバーとして参加した際は**ヒーズミ マサユ季**の名義を使用していたが、バンドのデビュー宣言にともない変更した。
 
 ### HZM
 
@@ -47,7 +47,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 1995年、「G7情報通信関係閣僚会議」（Global Information Infrastructureジュニアサミット）に参加し、世界各国から41名で会議する。
 
-高校を卒業して国立音楽大学作曲科へと進むと、1999年にそこで知り合ったメンバーを中心に[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")を結成する（**ヒイズミマサユ機**名義）\[16\]。同年[10月15日](../Page/10月15日.md "wikilink")、渋谷の路上を中心にストリートライブを開始する。
+高校を卒業して国立音楽大学作曲科へと進むと、1999年にそこで知り合ったメンバーを中心に[PE'Z](../Page/PE'Z.md "wikilink")を結成する（**ヒイズミマサユ機**名義）\[16\]。同年[10月15日](../Page/10月15日.md "wikilink")、渋谷の路上を中心にストリートライブを開始する。
 
   - 2001年
 
@@ -69,8 +69,8 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 <!-- end list -->
 
-  - [7月18日](../Page/7月18日.md "wikilink")、新宿ロフトにてJIGHEADレコ発ライブにシークレットで出演する[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")に**ヒーズミマサユ季**名義で参加する。
-  - [8月23日](../Page/8月23日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")実演ツアー「[雙六エクスタシー](https://ja.wikipedia.org/wiki/Electric_Mole "wikilink")」\[17\]にバックバンド東京事変のメンバーとして出演する。
+  - [7月18日](../Page/7月18日.md "wikilink")、新宿ロフトにてJIGHEADレコ発ライブにシークレットで出演する[東京事変](../Page/東京事変.md "wikilink")に**ヒーズミマサユ季**名義で参加する。
+  - [8月23日](../Page/8月23日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")実演ツアー「[雙六エクスタシー](../Page/Electric_Mole.md "wikilink")」\[17\]にバックバンド東京事変のメンバーとして出演する。
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 <!-- end list -->
 
   - [5月30日](../Page/5月30日.md "wikilink")、東京事変がデビュー宣言を発表、本格的に活動を開始する。その第1期メンバーとして参加するのにともない、名義を**H是都M**へと変更する。
-  - [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")、東京事変が1stシングル「[群青日和](https://ja.wikipedia.org/wiki/群青日和 "wikilink")」でメジャーデビューする。
+  - [9月8日](../Page/9月8日.md "wikilink")、東京事変が1stシングル「[群青日和](../Page/群青日和.md "wikilink")」でメジャーデビューする。
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 <!-- end list -->
 
-  - 2月13日、アルバム『[PIANOHEAD](https://ja.wikipedia.org/wiki/PIANOHEAD "wikilink")』をリリース。リード・トラックは女性アーティスト[Hiro:n](https://ja.wikipedia.org/wiki/Hiro:n "wikilink")とのデュエット「ダイキライ feat.HIRO:N」\[19\]。
+  - 2月13日、アルバム『[PIANOHEAD](https://ja.wikipedia.org/wiki/PIANOHEAD "wikilink")』をリリース。リード・トラックは女性アーティスト[Hiro:n](../Page/Hiro:n.md "wikilink")とのデュエット「ダイキライ feat.HIRO:N」\[19\]。
   - 映像集団OVER HEADSとタッグを組んだライブ「弾きまくりDESTROY」を最後に、**H ZETT M**名義での活動を一時休止する。
 
 <!-- end list -->
@@ -115,7 +115,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 <!-- end list -->
 
   - 6月24日、**ヒイズミマサユ機**として編曲と演奏で参加した椎名林檎のオリジナルアルバム『[三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")』がリリースされる。
-  - [12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")、**ヒイズミマサユ機**名義で[キーボード・マガジン](https://ja.wikipedia.org/wiki/キーボード・マガジン "wikilink")2010年1月号よりアーティストコラムの連載開始。
+  - [12月10日](../Page/12月10日.md "wikilink")、**ヒイズミマサユ機**名義で[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")2010年1月号よりアーティストコラムの連載開始。
 
 <!-- end list -->
 
@@ -127,7 +127,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
   - 3月3日、3ピースバンドmimittoがH ZETT M初プロデュース作となるアルバム『3x3=10』をリリース。
   - [3月24日](../Page/3月24日.md "wikilink")、[ショパン](https://ja.wikipedia.org/wiki/ショパン "wikilink")生誕200周年記念企画の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")『JAMMIN’ with CHOPIN 〜トリビュート・トゥ・ショパン〜』に『[ポロネーズ第3番イ長調Op.40-1「軍隊」](https://ja.wikipedia.org/wiki/ポロネーズ第3番_\(ショパン\) "wikilink")』の演奏で参加する。
   - [6月10日](../Page/6月10日.md "wikilink")、パフォーマンス・シンセサイザーKORG PS60とコラボレーション[2](http://www.korg.co.jp/News/2010/0610/)。
-  - [10月17日](../Page/10月17日.md "wikilink")、台湾でストリート・ゲリラライブを決行し、約1000人の現地観客を集める。その模様は[USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")、[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")で全世界に生配信された。
+  - [10月17日](../Page/10月17日.md "wikilink")、台湾でストリート・ゲリラライブを決行し、約1000人の現地観客を集める。その模様は[USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")で全世界に生配信された。
   - [11月1日](../Page/11月1日.md "wikilink")、[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink")のシンセサイザー**PS60**とコラボしたアルバム『きらきら☆すたんだーど with PS60』を発売する。
 
 <!-- end list -->
@@ -159,7 +159,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 <!-- end list -->
 
-  - 11月5日、**ヒイズミマサユ機**としてレコーディングに参加した椎名林檎のオリジナルアルバム『[日出処](https://ja.wikipedia.org/wiki/日出処 "wikilink")』がリリースされ、それに伴い[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[SONGS](https://ja.wikipedia.org/wiki/SONGS_\(テレビ番組\) "wikilink")」、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」などの音楽番組にサポートメンバーとして出演\[24\]。
+  - 11月5日、**ヒイズミマサユ機**としてレコーディングに参加した椎名林檎のオリジナルアルバム『[日出処](https://ja.wikipedia.org/wiki/日出処 "wikilink")』がリリースされ、それに伴い[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")」、[TBS](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」などの音楽番組にサポートメンバーとして出演\[24\]。
   - 11月29日-12月21日、椎名林檎の[アリーナ](../Page/アリーナ.md "wikilink")ツアー「[椎名林檎 林檎博'14 ―年女の逆襲―](https://ja.wikipedia.org/wiki/\(生\)林檎博'14_―年女の逆襲― "wikilink")」に参加。
   - 12月31日、椎名林檎のバックバンドのメンバーとして[第65回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")に初出演\[25\]。
 
@@ -174,9 +174,9 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
   - 7月26日、**H ZETT M**が「[FUJI ROCK FESTIVAL 2015に出演](https://ja.wikipedia.org/wiki/フジロックフェスティバル#2015年 "wikilink")。また椎名林檎のサポートメンバーとして**ヒイズミマサユ機**も出演。
   - 8月1日、「[ROCK IN JAPAN FES.2015](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2015年 "wikilink")」に椎名林檎のサポートで参加。
   - 8月16日、椎名林檎の[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")公演「（生）林檎博’15 −垂涎三尺−」に参加。
-  - 9月9日、東京・[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で行われた木村カエラのフリーライブ「GO\! SHOW TIME」において、**ヒイズミマサユ機**としてスペシャルバンドを結成してサポートを務めた\[27\]。
+  - 9月9日、東京・[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われた木村カエラのフリーライブ「GO\! SHOW TIME」において、**ヒイズミマサユ機**としてスペシャルバンドを結成してサポートを務めた\[27\]。
   - 10月14日-12月20日、椎名林檎の全国ツアー「椎名林檎と彼奴等がゆく 百鬼夜行2015」に参加。
-  - 12月25日、木村カエラの[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")ワンマンライブにおいて、**ヒイズミマサユ機**として自身のキーボードと[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")と[ベースの](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")3人によるギターとドラムのいない変則バンドを率いてストリングス隊とともにサポートを務めた\[28\]。
+  - 12月25日、木村カエラの[クリスマス](../Page/クリスマス.md "wikilink")ワンマンライブにおいて、**ヒイズミマサユ機**として自身のキーボードと[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")と[ベースの](../Page/ベース_\(弦楽器\).md "wikilink")3人によるギターとドラムのいない変則バンドを率いてストリングス隊とともにサポートを務めた\[28\]。
   - 12月31日、椎名林檎のバックバンドのメンバーとして[第66回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")に出演。
 
 <!-- end list -->
@@ -197,7 +197,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 <!-- end list -->
 
-  - 1月15日、**ヒイズミマサユ機**が「[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")」伝統のアコースティックライブ「[MTV Unplugged](https://ja.wikipedia.org/wiki/MTV_Unplugged "wikilink")」に出演する木村カエラのバンドメンバーとして公開収録に参加。
+  - 1月15日、**ヒイズミマサユ機**が「[MTV](../Page/MTV.md "wikilink")」伝統のアコースティックライブ「[MTV Unplugged](https://ja.wikipedia.org/wiki/MTV_Unplugged "wikilink")」に出演する木村カエラのバンドメンバーとして公開収録に参加。
   - 1月28日-3月6日、**ヒイズミマサユ機**が木村カエラの全国ツアー「KAELA presents PUNKY TOUR 2016-2017」の後半戦となるホールツアー「DIAMOND TOUR」に参加。
 
 <!-- end list -->
@@ -212,8 +212,8 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 ## 所属バンド
 
-  - [PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")（2001年 - 2015年）
-  - [東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")（2004年 - 2005年）
+  - [PE'Z](../Page/PE'Z.md "wikilink")（2001年 - 2015年）
+  - [東京事変](../Page/東京事変.md "wikilink")（2004年 - 2005年）
   - [H ZETTRIO](https://ja.wikipedia.org/wiki/H_ZETTRIO "wikilink")（2013年 - 現在）
 
 ## 機材
@@ -241,7 +241,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
   - 幼少期には自宅に足踏みオルガンがあったことから、クラシックピアノを習い始め、その延長でエレクトーンも習得した。当初はコンクールに出るようなクラシックピアノ奏者になりたいと思ったこともあったらしい。
   - 作曲は子どもの頃から行っている\[31\]。
   - 国立音楽大学在学中はビッグバンド「ニュータイドオーケストラ」で演奏。
-  - 元・[東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")2期メンバーで[あっぱ](https://ja.wikipedia.org/wiki/あっぱ "wikilink")の[伊澤一葉](../Page/伊澤一葉.md "wikilink")とは同じ大学の友人で、伊澤の事変加入は彼の紹介によるものである。また、伊澤とはバンドを組んでいたが3か月で解散したらしい。
+  - 元・[東京事変](../Page/東京事変.md "wikilink")2期メンバーで[あっぱ](../Page/あっぱ.md "wikilink")の[伊澤一葉](../Page/伊澤一葉.md "wikilink")とは同じ大学の友人で、伊澤の事変加入は彼の紹介によるものである。また、伊澤とはバンドを組んでいたが3か月で解散したらしい。
   - 楽曲は8割方譜面に書き、ダンボールに収納しているらしい。
   - ライブやレコーディングなどで[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink")製品を愛用し、機材をステッカーやペイントでデコレーションしている。ファーストシンセはM1、大学時代からはX5D。その後X50、PS60、KROSSにKAOSS PAD mini-KPを上に載せて演奏していた。現在のメイン機材はKRONOS。
   - 東京事変として出演したライブ[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")実演ツアー「雙六エクスタシー」や「東京事変 live tour 2005"dynamite\!"」では、キーボードとアコースティックピアノを使い分けて披露していた。
@@ -343,7 +343,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></p></td>
+<td><p><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></p></td>
 <td><p>シングル『<a href="https://ja.wikipedia.org/wiki/今を生きて" title="wikilink">今を生きて</a>』</p></td>
 <td><p>M2 ケモノノケモノ</p></td>
 <td><p>2013/2/20</p></td>
@@ -414,7 +414,7 @@ M11 知りたい</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/新垣結衣" title="wikilink">新垣結衣</a></p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/そら_(新垣結衣のアルバム)" title="wikilink">そら</a>』</p></td>
+<td><p>アルバム『<a href="../Page/そら_(新垣結衣のアルバム).md" title="wikilink">そら</a>』</p></td>
 <td><p>M10 そら</p></td>
 <td><p>2007/12/5</p></td>
 <td><p>H ZETT M</p></td>
@@ -454,7 +454,7 @@ M10 泥水の中で泳ぐ鮫たち</p></td>
 <td><p>編曲・Piano</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岸谷香" title="wikilink">岸谷香</a></p></td>
+<td><p><a href="../Page/岸谷香.md" title="wikilink">岸谷香</a></p></td>
 <td><p>アルバム『PIECE of BRIGHT』</p></td>
 <td><p>M1 49thバイブル<br />
 M2 Kiss&amp;Kiss<br />
@@ -529,7 +529,7 @@ M8 恋煩いの豚</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a></p></td>
-<td><p>DVD『<a href="https://ja.wikipedia.org/wiki/Electric_Mole" title="wikilink">Electric Mole</a>』</p></td>
+<td><p>DVD『<a href="../Page/Electric_Mole.md" title="wikilink">Electric Mole</a>』</p></td>
 <td></td>
 <td><p>2003/8/23</p></td>
 <td><p>ヒーズミマサユ季</p></td>
@@ -630,15 +630,15 @@ M10 急がば回れ</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京事変" title="wikilink">東京事変</a></p></td>
-<td><p>シングル『<a href="https://ja.wikipedia.org/wiki/群青日和" title="wikilink">群青日和</a>』</p></td>
+<td><p><a href="../Page/東京事変.md" title="wikilink">東京事変</a></p></td>
+<td><p>シングル『<a href="../Page/群青日和.md" title="wikilink">群青日和</a>』</p></td>
 <td><p>M1 群青日和</p></td>
 <td><p>2004/9/8</p></td>
 <td><p>H是都M</p></td>
 <td><p>作曲・キーボード</p></td>
 </tr>
 <tr class="odd">
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/教育_(東京事変のアルバム)" title="wikilink">教育</a>』</p></td>
+<td><p>アルバム『<a href="../Page/教育_(東京事変のアルバム).md" title="wikilink">教育</a>』</p></td>
 <td><p>M2 群青日和<br />
 M6 現実に於て<br />
 M8 サービス</p></td>
@@ -664,7 +664,7 @@ M12 夢のあと</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>DVD『<a href="https://ja.wikipedia.org/wiki/Dynamite_in" title="wikilink">Dynamite in</a>』</p></td>
+<td><p>DVD『<a href="../Page/Dynamite_in.md" title="wikilink">Dynamite in</a>』</p></td>
 <td></td>
 <td><p>2005/7/13</p></td>
 <td><p>Piano・キーボード・出演</p></td>
@@ -672,7 +672,7 @@ M12 夢のあと</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>DVD『<a href="https://ja.wikipedia.org/wiki/Dynamite_out" title="wikilink">Dynamite out</a>』</p></td>
+<td><p>DVD『<a href="../Page/Dynamite_out.md" title="wikilink">Dynamite out</a>』</p></td>
 <td></td>
 <td><p>2005/8/17</p></td>
 <td></td>
@@ -725,7 +725,7 @@ M12 顔</p></td>
 <td><p>編曲・<a href="../Page/エレクトリックピアノ.md" title="wikilink">Wurlitzer</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SiZK" title="wikilink">★STAR GUiTAR</a></p></td>
+<td><p><a href="../Page/SiZK.md" title="wikilink">★STAR GUiTAR</a></p></td>
 <td><p>アルバム『Schrodinger's Scale』</p></td>
 <td><p>M1 echoes feat. H ZETT M</p></td>
 <td><p>2014/9/10</p></td>
@@ -757,7 +757,7 @@ M12 顔</p></td>
 <td><p>編曲・Piano</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋瞳" title="wikilink">高橋瞳</a></p></td>
+<td><p><a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a></p></td>
 <td><p>シングル『<a href="https://ja.wikipedia.org/wiki/プールサイド" title="wikilink">プールサイド</a>』</p></td>
 <td><p>M1 プールサイド<br />
 M2 私の少女</p></td>
@@ -831,7 +831,7 @@ M11 QFF</p></td>
 <td><p>Piano</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋瞳" title="wikilink">中島愛</a></p></td>
+<td><p><a href="../Page/高橋瞳.md" title="wikilink">中島愛</a></p></td>
 <td><p>シングル『Bitter Sweet Harmony』</p></td>
 <td><p>M3 悲しみと共に</p></td>
 <td><p>2018/8/1</p></td>
@@ -899,7 +899,7 @@ M7 BABY</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PE&#39;Z" title="wikilink">PE'Z</a></p></td>
+<td><p><a href="../Page/PE&#39;Z.md" title="wikilink">PE'Z</a></p></td>
 <td><p>リミックスアルバム『PE'Z COLOR Vol.0 ZERO』</p></td>
 <td><p>M11 NANPU DOU</p></td>
 <td><p>2009/10/21</p></td>
@@ -997,7 +997,7 @@ M7 シモバシラ</p></td>
 <td><p>Piano</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ROCO" title="wikilink">ROCO</a></p></td>
+<td><p><a href="../Page/ROCO.md" title="wikilink">ROCO</a></p></td>
 <td><p>アルバム『カラフルファンファーレ』</p></td>
 <td><p>M4 メロディアーチ</p></td>
 <td><p>2006/8/2</p></td>
@@ -1097,7 +1097,7 @@ M7 シモバシラ</p></td>
 <p>概要</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p><a href="https://ja.wikipedia.org/wiki/KORG" title="wikilink">KORG</a>のX50、R3、KAOSSILATOR、シェーン・ハットの<a href="https://ja.wikipedia.org/wiki/トイピアノ" title="wikilink">トイピアノ</a>を使用<br />
+<p><a href="https://ja.wikipedia.org/wiki/KORG" title="wikilink">KORG</a>のX50、R3、KAOSSILATOR、シェーン・ハットの<a href="../Page/トイピアノ.md" title="wikilink">トイピアノ</a>を使用<br />
 OVERHEADSとコラボレーション</p>
 </div>
 </div></td>
@@ -1387,7 +1387,7 @@ OVERHEADSとコラボレーション</p>
       - 6月13日:HINATABOCCO\[46\]
       - 7月15日:Keyboard magazine Festival 2012\[47\]
       - 8月3日:本当に飛び出す！3D-PIANO nicofarre Theater\[48\]
-      - 8月18日:[SUMMERSONIC](https://ja.wikipedia.org/wiki/サマーソニック "wikilink") 2012 大阪SONIC STAGE\[49\]
+      - 8月18日:[SUMMERSONIC](../Page/サマーソニック.md "wikilink") 2012 大阪SONIC STAGE\[49\]
       - 10月28日:MIX UP NIGHT EX2012
       - 11月2日:DIET BUTCHER SLIM SKIN 10th Anniversary Party
   - 2013年
@@ -1412,10 +1412,10 @@ OVERHEADSとコラボレーション</p>
 
 ## 関連項目
 
-  - バンド：[H ZETTRIO](https://ja.wikipedia.org/wiki/H_ZETTRIO "wikilink") [PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink") [東京事変](https://ja.wikipedia.org/wiki/東京事変 "wikilink")
-  - 人物：[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink") [伊澤一葉](../Page/伊澤一葉.md "wikilink") [まらしぃ](https://ja.wikipedia.org/wiki/まらしぃ "wikilink") [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink") [MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")
-  - 企業：[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink") [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink") [ヤマハミュージックメディア](https://ja.wikipedia.org/wiki/ヤマハミュージックメディア "wikilink")
-  - その他：[国立音楽大学](https://ja.wikipedia.org/wiki/国立音楽大学 "wikilink") [キーボード・マガジン](https://ja.wikipedia.org/wiki/キーボード・マガジン "wikilink")
+  - バンド：[H ZETTRIO](https://ja.wikipedia.org/wiki/H_ZETTRIO "wikilink") [PE'Z](../Page/PE'Z.md "wikilink") [東京事変](../Page/東京事変.md "wikilink")
+  - 人物：[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink") [伊澤一葉](../Page/伊澤一葉.md "wikilink") [まらしぃ](https://ja.wikipedia.org/wiki/まらしぃ "wikilink") [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink") [MIYAVI](../Page/MIYAVI.md "wikilink")
+  - 企業：[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink") [リットーミュージック](../Page/リットーミュージック.md "wikilink") [ヤマハミュージックメディア](../Page/ヤマハミュージックメディア.md "wikilink")
+  - その他：[国立音楽大学](../Page/国立音楽大学.md "wikilink") [キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")
 
 ## 外部リンク
 
@@ -1441,7 +1441,7 @@ OVERHEADSとコラボレーション</p>
 6.
 7.
 8.  株式会社KORGホームページ SOUNDBYTES ヒイズミマサユ機(PE'Z)インタビュー[1](http://www.korg.co.jp/SoundMakeup/SoundBytes/HiizumiMasayuki/index.html)
-9.  映像作品『[Dynamite in](https://ja.wikipedia.org/wiki/Dynamite_in "wikilink")』には、椎名が彼に話しかけたり呼びかけたりする時に「ヒイちゃん」や「ヒイズミ君」と言っている場面が収録されている。しかし、ライブ中の呼称はあくまでバンド名義の「H是都M」である。
+9.  映像作品『[Dynamite in](../Page/Dynamite_in.md "wikilink")』には、椎名が彼に話しかけたり呼びかけたりする時に「ヒイちゃん」や「ヒイズミ君」と言っている場面が収録されている。しかし、ライブ中の呼称はあくまでバンド名義の「H是都M」である。
 10.
 11.
 12.
@@ -1467,7 +1467,7 @@ OVERHEADSとコラボレーション</p>
 32. これをゼトポリスのソフトなやわらか取り締まりと言っている。
 33.
 34.
-35. テレビドラマ『[カルテット](https://ja.wikipedia.org/wiki/カルテット_\(2017年のテレビドラマ\) "wikilink")』に出演する[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")、[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")、[高橋一生](https://ja.wikipedia.org/wiki/高橋一生 "wikilink")、[松田龍平](../Page/松田龍平.md "wikilink")による番組限定ユニット。
+35. テレビドラマ『[カルテット](https://ja.wikipedia.org/wiki/カルテット_\(2017年のテレビドラマ\) "wikilink")』に出演する[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")、[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")、[高橋一生](../Page/高橋一生.md "wikilink")、[松田龍平](../Page/松田龍平.md "wikilink")による番組限定ユニット。
 36. サブタイトルの読み方は「ザオ\!タイワン ツーパオラメイ?」である。
 37. 読み方は「ザオ\!ジャパボエ?」である。
 38. H ZETT M、圧倒的な演奏と笑いの渦でツアー閉幕！[7](http://mfound.jp/news/2012/08/013564.html)

@@ -7,9 +7,9 @@
 
   - 小学生の時からヴォーカル・ダンスレッスンを始める。
   - [2001年](../Page/2001年.md "wikilink")、歌唱力に注目した[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")などを手掛けるプロデューサー[与田春生](https://ja.wikipedia.org/wiki/与田春生 "wikilink")に見出され、[2003年](../Page/2003年.md "wikilink")に上京。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月26日、[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")「Bye & Thanks」でデビューを果たす。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には16歳にして、[華原朋美](../Page/華原朋美.md "wikilink")のシングル「[Keep On Running](https://ja.wikipedia.org/wiki/華/Keep_On_Running "wikilink")」（華原出演「[桃の天然水](https://ja.wikipedia.org/wiki/桃の天然水 "wikilink")」CMソング）の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")を手掛け注目を集める（Candyの書いた詞が採用された）。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[LOVERSSOUL](https://ja.wikipedia.org/wiki/LOVERSSOUL "wikilink")を結成し、CHIHIRO名義で[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")として活動中。
+  - [2005年](../Page/2005年.md "wikilink")1月26日、[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")「Bye & Thanks」でデビューを果たす。
+  - [2006年](../Page/2006年.md "wikilink")には16歳にして、[華原朋美](../Page/華原朋美.md "wikilink")のシングル「[Keep On Running](https://ja.wikipedia.org/wiki/華/Keep_On_Running "wikilink")」（華原出演「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング）の[作詞](../Page/作詞.md "wikilink")を手掛け注目を集める（Candyの書いた詞が採用された）。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より[音楽ユニット](../Page/音楽ユニット.md "wikilink")[LOVERSSOUL](https://ja.wikipedia.org/wiki/LOVERSSOUL "wikilink")を結成し、CHIHIRO名義で[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")として活動中。
 
 ## ディスコグラフィ
 
@@ -17,7 +17,7 @@
 
 1.  Bye & Thanks （2005年1月26日、AVCD-30678）
       -
-        [三貴](https://ja.wikipedia.org/wiki/三貴 "wikilink")「銀座ジュエリーマキ カメリアダイヤモンド」の[秋本奈緒美](https://ja.wikipedia.org/wiki/秋本奈緒美 "wikilink")がボクシングをしているTVCMでスマッシュヒット
+        [三貴](../Page/三貴.md "wikilink")「銀座ジュエリーマキ カメリアダイヤモンド」の[秋本奈緒美](../Page/秋本奈緒美.md "wikilink")がボクシングをしているTVCMでスマッシュヒット
 2.  [Promise](https://ja.wikipedia.org/wiki/Promise_\(Candyの曲\) "wikilink") （2005年5月18日、AVCD-30720）
       -
         [テレビ東京系](https://ja.wikipedia.org/wiki/TXN "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ガラスの仮面](https://ja.wikipedia.org/wiki/ガラスの仮面#東京ムービー版 "wikilink")』オープニングテーマ

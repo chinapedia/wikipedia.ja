@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1891年](../Page/1891年.md "wikilink")3月12日設立。[ストックホルム](../Page/ストックホルム.md "wikilink")北部、[ソルナ](https://ja.wikipedia.org/wiki/ソルナ "wikilink")に位置する[AIKとはライバル関係にあり](https://ja.wikipedia.org/wiki/AIKソルナ "wikilink")、ダービーマッチは常に白熱する。クラブの[サポーターはブルーセインツ](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")([英語](../Page/英語.md "wikilink"): Blue Saints,[スウェーデン語](../Page/スウェーデン語.md "wikilink"): Järnkaminerna)と呼ばれ、スウェーデン国内では[AIKサポーター](https://ja.wikipedia.org/wiki/AIKソルナ "wikilink")、ブラックアーミーと共に過激だと言われている。
+[1891年](../Page/1891年.md "wikilink")3月12日設立。[ストックホルム](../Page/ストックホルム.md "wikilink")北部、[ソルナ](https://ja.wikipedia.org/wiki/ソルナ "wikilink")に位置する[AIKとはライバル関係にあり](../Page/AIKソルナ.md "wikilink")、ダービーマッチは常に白熱する。クラブの[サポーターはブルーセインツ](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")([英語](../Page/英語.md "wikilink"): Blue Saints,[スウェーデン語](../Page/スウェーデン語.md "wikilink"): Järnkaminerna)と呼ばれ、スウェーデン国内では[AIKサポーター](../Page/AIKソルナ.md "wikilink")、ブラックアーミーと共に過激だと言われている。
 
 名称の[ユールゴーデン](https://ja.wikipedia.org/wiki/ユールゴーデン "wikilink")(Djurgården)はストックホルムの中央部にある地区であり、スウェーデン語でDjurは動物、gårdenは庭園を意味し、直訳すると動物園である。ユールゴーデン地区にはクラブ創設と同じ年である[1891年](../Page/1891年.md "wikilink")に開業した動物園及び屋外美術館、[スカンセン](https://ja.wikipedia.org/wiki/スカンセン "wikilink")がある。
 
@@ -15,7 +15,7 @@
 
 ### 国内タイトル
 
-  - **[アルスヴェンスカン](https://ja.wikipedia.org/wiki/アルスヴェンスカン "wikilink")**：8回
+  - **[アルスヴェンスカン](../Page/アルスヴェンスカン.md "wikilink")**：8回
       - 1954-55, 1959, 1964, 1966, 2002, 2003, 2005, 2019
 
 <!-- end list -->
@@ -29,75 +29,75 @@
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                          | [スウェーデンカップ](https://ja.wikipedia.org/wiki/スウェーデンカップ "wikilink") |
-| ------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| リーグ     | 試                                                               | 勝                                                               |
-| 1954-55 | [アルスヴェンスカン](https://ja.wikipedia.org/wiki/アルスヴェンスカン "wikilink") | 22                                                              |
-| 1955-56 | アルスヴェンスカン                                                       | 22                                                              |
-| 1956-57 | アルスヴェンスカン                                                       | 22                                                              |
-| 1957-58 | アルスヴェンスカン                                                       | 33                                                              |
-| 1959    | アルスヴェンスカン                                                       | 22                                                              |
-| 1960    | アルスヴェンスカン                                                       | 22                                                              |
-| 1961    | ディヴィション2・スヴェアランド                                                | 22                                                              |
-| 1962    | アルスヴェンスカン                                                       | 22                                                              |
-| 1963    | アルスヴェンスカン                                                       | 22                                                              |
-| 1964    | アルスヴェンスカン                                                       | 22                                                              |
-| 1965    | アルスヴェンスカン                                                       | 22                                                              |
-| 1966    | アルスヴェンスカン                                                       | 22                                                              |
-| 1967    | アルスヴェンスカン                                                       | 22                                                              |
-| 1968    | アルスヴェンスカン                                                       | 22                                                              |
-| 1969    | アルスヴェンスカン                                                       | 22                                                              |
-| 1970    | アルスヴェンスカン                                                       | 22                                                              |
-| 1971    | アルスヴェンスカン                                                       | 22                                                              |
-| 1972    | アルスヴェンスカン                                                       | 22                                                              |
-| 1973    | アルスヴェンスカン                                                       | 26                                                              |
-| 1974    | アルスヴェンスカン                                                       | 26                                                              |
-| 1975    | アルスヴェンスカン                                                       | 26                                                              |
-| 1976    | アルスヴェンスカン                                                       | 26                                                              |
-| 1977    | アルスヴェンスカン                                                       | 26                                                              |
-| 1978    | アルスヴェンスカン                                                       | 26                                                              |
-| 1979    | アルスヴェンスカン                                                       | 26                                                              |
-| 1980    | アルスヴェンスカン                                                       | 26                                                              |
-| 1981    | アルスヴェンスカン                                                       | 26                                                              |
-| 1982    | ディヴィション2北部                                                      | 22                                                              |
-| 1983    | ディヴィション2北部                                                      | 22                                                              |
-| 1984    | ディヴィション2北部                                                      | 26                                                              |
-| 1985    | ディヴィション2北部                                                      | 26                                                              |
-| 1986    | アルスヴェンスカン                                                       | 22                                                              |
-| 1987    | ディヴィション1北部                                                      | 26                                                              |
-| 1988    | アルスヴェンスカン                                                       | 22                                                              |
-| 1989    | アルスヴェンスカン                                                       | 22                                                              |
-| 1990    | アルスヴェンスカン                                                       | 22                                                              |
-| 1991    | アルスヴェンスカン                                                       | 18                                                              |
-| 1992    | アルスヴェンスカン                                                       | 18                                                              |
-| 1993    | ディヴィション1北部                                                      | 26                                                              |
-| 1994    | ディヴィション1北部                                                      | 26                                                              |
-| 1995    | アルスヴェンスカン                                                       | 26                                                              |
-| 1996    | アルスヴェンスカン                                                       | 26                                                              |
-| 1997    | ディヴィション1北部                                                      | 26                                                              |
-| 1998    | ディヴィション1北部                                                      | 26                                                              |
-| 1999    | アルスヴェンスカン                                                       | 26                                                              |
-| 2000    | [スーペルエッタン](https://ja.wikipedia.org/wiki/スーペルエッタン "wikilink")   | 30                                                              |
-| 2001    | アルスヴェンスカン                                                       | 26                                                              |
-| 2002    | アルスヴェンスカン                                                       | 26                                                              |
-| 2003    | アルスヴェンスカン                                                       | 26                                                              |
-| 2004    | アルスヴェンスカン                                                       | 26                                                              |
-| 2005    | アルスヴェンスカン                                                       | 26                                                              |
-| 2006    | アルスヴェンスカン                                                       | 26                                                              |
-| 2007    | アルスヴェンスカン                                                       | 26                                                              |
-| 2008    | アルスヴェンスカン                                                       | 30                                                              |
-| 2009    | アルスヴェンスカン                                                       | 30                                                              |
-| 2010    | アルスヴェンスカン                                                       | 30                                                              |
-| 2011    | アルスヴェンスカン                                                       | 30                                                              |
-| 2012    | アルスヴェンスカン                                                       | 30                                                              |
-| 2013    | アルスヴェンスカン                                                       | 30                                                              |
-| 2014    | アルスヴェンスカン                                                       | 30                                                              |
-| 2015    | アルスヴェンスカン                                                       | 30                                                              |
-| 2016    | アルスヴェンスカン                                                       | 30                                                              |
-| 2017    | アルスヴェンスカン                                                       | 30                                                              |
-| 2018    | アルスヴェンスカン                                                       | 30                                                              |
-| 2019    | アルスヴェンスカン                                                       | 30                                                              |
-| 2020    | アルスヴェンスカン                                                       | 30                                                              |
+| シーズン    | ディビジョン                                                        | [スウェーデンカップ](https://ja.wikipedia.org/wiki/スウェーデンカップ "wikilink") |
+| ------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
+| リーグ     | 試                                                             | 勝                                                               |
+| 1954-55 | [アルスヴェンスカン](../Page/アルスヴェンスカン.md "wikilink")                  | 22                                                              |
+| 1955-56 | アルスヴェンスカン                                                     | 22                                                              |
+| 1956-57 | アルスヴェンスカン                                                     | 22                                                              |
+| 1957-58 | アルスヴェンスカン                                                     | 33                                                              |
+| 1959    | アルスヴェンスカン                                                     | 22                                                              |
+| 1960    | アルスヴェンスカン                                                     | 22                                                              |
+| 1961    | ディヴィション2・スヴェアランド                                              | 22                                                              |
+| 1962    | アルスヴェンスカン                                                     | 22                                                              |
+| 1963    | アルスヴェンスカン                                                     | 22                                                              |
+| 1964    | アルスヴェンスカン                                                     | 22                                                              |
+| 1965    | アルスヴェンスカン                                                     | 22                                                              |
+| 1966    | アルスヴェンスカン                                                     | 22                                                              |
+| 1967    | アルスヴェンスカン                                                     | 22                                                              |
+| 1968    | アルスヴェンスカン                                                     | 22                                                              |
+| 1969    | アルスヴェンスカン                                                     | 22                                                              |
+| 1970    | アルスヴェンスカン                                                     | 22                                                              |
+| 1971    | アルスヴェンスカン                                                     | 22                                                              |
+| 1972    | アルスヴェンスカン                                                     | 22                                                              |
+| 1973    | アルスヴェンスカン                                                     | 26                                                              |
+| 1974    | アルスヴェンスカン                                                     | 26                                                              |
+| 1975    | アルスヴェンスカン                                                     | 26                                                              |
+| 1976    | アルスヴェンスカン                                                     | 26                                                              |
+| 1977    | アルスヴェンスカン                                                     | 26                                                              |
+| 1978    | アルスヴェンスカン                                                     | 26                                                              |
+| 1979    | アルスヴェンスカン                                                     | 26                                                              |
+| 1980    | アルスヴェンスカン                                                     | 26                                                              |
+| 1981    | アルスヴェンスカン                                                     | 26                                                              |
+| 1982    | ディヴィション2北部                                                    | 22                                                              |
+| 1983    | ディヴィション2北部                                                    | 22                                                              |
+| 1984    | ディヴィション2北部                                                    | 26                                                              |
+| 1985    | ディヴィション2北部                                                    | 26                                                              |
+| 1986    | アルスヴェンスカン                                                     | 22                                                              |
+| 1987    | ディヴィション1北部                                                    | 26                                                              |
+| 1988    | アルスヴェンスカン                                                     | 22                                                              |
+| 1989    | アルスヴェンスカン                                                     | 22                                                              |
+| 1990    | アルスヴェンスカン                                                     | 22                                                              |
+| 1991    | アルスヴェンスカン                                                     | 18                                                              |
+| 1992    | アルスヴェンスカン                                                     | 18                                                              |
+| 1993    | ディヴィション1北部                                                    | 26                                                              |
+| 1994    | ディヴィション1北部                                                    | 26                                                              |
+| 1995    | アルスヴェンスカン                                                     | 26                                                              |
+| 1996    | アルスヴェンスカン                                                     | 26                                                              |
+| 1997    | ディヴィション1北部                                                    | 26                                                              |
+| 1998    | ディヴィション1北部                                                    | 26                                                              |
+| 1999    | アルスヴェンスカン                                                     | 26                                                              |
+| 2000    | [スーペルエッタン](https://ja.wikipedia.org/wiki/スーペルエッタン "wikilink") | 30                                                              |
+| 2001    | アルスヴェンスカン                                                     | 26                                                              |
+| 2002    | アルスヴェンスカン                                                     | 26                                                              |
+| 2003    | アルスヴェンスカン                                                     | 26                                                              |
+| 2004    | アルスヴェンスカン                                                     | 26                                                              |
+| 2005    | アルスヴェンスカン                                                     | 26                                                              |
+| 2006    | アルスヴェンスカン                                                     | 26                                                              |
+| 2007    | アルスヴェンスカン                                                     | 26                                                              |
+| 2008    | アルスヴェンスカン                                                     | 30                                                              |
+| 2009    | アルスヴェンスカン                                                     | 30                                                              |
+| 2010    | アルスヴェンスカン                                                     | 30                                                              |
+| 2011    | アルスヴェンスカン                                                     | 30                                                              |
+| 2012    | アルスヴェンスカン                                                     | 30                                                              |
+| 2013    | アルスヴェンスカン                                                     | 30                                                              |
+| 2014    | アルスヴェンスカン                                                     | 30                                                              |
+| 2015    | アルスヴェンスカン                                                     | 30                                                              |
+| 2016    | アルスヴェンスカン                                                     | 30                                                              |
+| 2017    | アルスヴェンスカン                                                     | 30                                                              |
+| 2018    | アルスヴェンスカン                                                     | 30                                                              |
+| 2019    | アルスヴェンスカン                                                     | 30                                                              |
+| 2020    | アルスヴェンスカン                                                     | 30                                                              |
 
 ## 欧州の成績
 
@@ -117,7 +117,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1955-56</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1955-56" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1955-56.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グヴァルディア・ワルシャワ" title="wikilink">グヴァルディア・ワルシャワ</a></p></td>
 <td><p>0-0</p></td>
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイバーニアンFC" title="wikilink">ハイバーニアン</a></p></td>
+<td><p><a href="../Page/ハイバーニアンFC.md" title="wikilink">ハイバーニアン</a></p></td>
 <td><p>1-3</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-4</p></td>
@@ -137,9 +137,9 @@
 </tr>
 <tr class="odd">
 <td><p>1965-66</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1965-66" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1965-66.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予備戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-6</p></td>
 <td><p>'''2-7</p></td>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="even">
 <td><p>1967-68</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1967-68" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1967-68.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>0-1</p></td>
@@ -159,7 +159,7 @@
 <td><p>1971-72</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1971-72" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OFKベオグラード" title="wikilink">OFK</a></p></td>
+<td><p><a href="../Page/OFKベオグラード.md" title="wikilink">OFK</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-4</p></td>
 <td><p>'''3-6</p></td>
@@ -217,7 +217,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・バリャドリード" title="wikilink">バジャドリー</a></p></td>
+<td><p><a href="../Page/レアル・バリャドリード.md" title="wikilink">バジャドリー</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-4</p></td>
@@ -256,7 +256,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ブレーメン</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-3</p></td>
 <td></td>
@@ -287,7 +287,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCコペンハーゲン" title="wikilink">コペンハーゲン</a></p></td>
+<td><p><a href="../Page/FCコペンハーゲン.md" title="wikilink">コペンハーゲン</a></p></td>
 <td><p>3-1</p></td>
 <td><p>0-0</p></td>
 <td><p>'''3-1</p></td>
@@ -297,7 +297,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">ボルドー</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''1-3</p></td>
@@ -307,9 +307,9 @@
 </tr>
 <tr class="even">
 <td><p>2003-04</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2003-04" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2003-04.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パルチザン・ベオグラード" title="wikilink">パルチザン</a></p></td>
+<td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3-3</p></td>
@@ -317,7 +317,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">FBKカウナス</a></p></td>
 <td><p>0-0</p></td>
@@ -338,7 +338,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2004-05" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCユトレヒト" title="wikilink">ユトレヒト</a></p></td>
+<td><p><a href="../Page/FCユトレヒト.md" title="wikilink">ユトレヒト</a></p></td>
 <td><p>3-0</p></td>
 <td><p>0-4</p></td>
 <td><p>'''3-4</p></td>
@@ -352,7 +352,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/コーク・シティFC" title="wikilink">コーク・シティ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-0</p></td>
-<td><p>'''1-1 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''1-1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -369,7 +369,7 @@
 <td><p>2008-09</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2008-09" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCフローラ・タリン" title="wikilink">フローラ・タリン</a></p></td>
+<td><p><a href="../Page/FCフローラ・タリン.md" title="wikilink">フローラ・タリン</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-2</p></td>
 <td><p>'''2-2 (a)</p></td>
@@ -377,7 +377,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンボリBK" title="wikilink">ローゼンボリ</a></p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-5</p></td>
 <td><p>'''2-7</p></td>
@@ -429,13 +429,13 @@
 
   - [ルアイ・チャンコ](https://ja.wikipedia.org/wiki/ルアイ・チャンコ "wikilink") 2000-2003
 
-  - [アンドレーアス・イサクソン](https://ja.wikipedia.org/wiki/アンドレーアス・イサクソン "wikilink") 2001-2004, 2016-
+  - [アンドレーアス・イサクソン](../Page/アンドレーアス・イサクソン.md "wikilink") 2001-2004, 2016-
 
-  - [キム・シェルストレーム](https://ja.wikipedia.org/wiki/キム・シェルストレーム "wikilink") 2002-2003, 2017-
+  - [キム・シェルストレーム](../Page/キム・シェルストレーム.md "wikilink") 2002-2003, 2017-
 
   - [フレドリク・ステンマン](https://ja.wikipedia.org/wiki/フレドリク・ステンマン "wikilink")
 
-  - [イブラヒム・バ](https://ja.wikipedia.org/wiki/イブラヒム・バ "wikilink") 2005
+  - [イブラヒム・バ](../Page/イブラヒム・バ.md "wikilink") 2005
 
   - [シヤボンガ・ノンベテ](https://ja.wikipedia.org/wiki/シヤボンガ・ノンベテ "wikilink")
 
@@ -443,7 +443,7 @@
 
   - [キリノ](https://ja.wikipedia.org/wiki/チアゴ・キリーノ・ダ・シウヴァ "wikilink") 2006-2008
 
-  - [マティアス・ヨンソン](https://ja.wikipedia.org/wiki/マティアス・ヨンソン "wikilink") 2005-2011
+  - [マティアス・ヨンソン](../Page/マティアス・ヨンソン.md "wikilink") 2005-2011
 
 ## 外部リンク
 

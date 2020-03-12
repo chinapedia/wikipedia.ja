@@ -3,9 +3,9 @@
 
 『**Voice**』（ボイス）は、[PHP研究所](../Page/PHP研究所.md "wikilink")が発行する月刊の総合論壇誌。[1977年](../Page/1977年.md "wikilink")創刊。1冊680円。通巻で300号を超えている。
 
-[堺屋太一](../Page/堺屋太一.md "wikilink")、[天谷直弘](https://ja.wikipedia.org/wiki/天谷直弘 "wikilink")、[日下公人](https://ja.wikipedia.org/wiki/日下公人 "wikilink")、[藤岡和賀夫](https://ja.wikipedia.org/wiki/藤岡和賀夫 "wikilink")、[牛尾治朗](https://ja.wikipedia.org/wiki/牛尾治朗 "wikilink")、[長谷川慶太郎](https://ja.wikipedia.org/wiki/長谷川慶太郎 "wikilink")、[岡崎久彦](https://ja.wikipedia.org/wiki/岡崎久彦 "wikilink")、[大前研一](../Page/大前研一.md "wikilink")などを執筆者として創刊する\[1\]。
+[堺屋太一](../Page/堺屋太一.md "wikilink")、[天谷直弘](../Page/天谷直弘.md "wikilink")、[日下公人](../Page/日下公人.md "wikilink")、[藤岡和賀夫](https://ja.wikipedia.org/wiki/藤岡和賀夫 "wikilink")、[牛尾治朗](../Page/牛尾治朗.md "wikilink")、[長谷川慶太郎](../Page/長谷川慶太郎.md "wikilink")、[岡崎久彦](https://ja.wikipedia.org/wiki/岡崎久彦 "wikilink")、[大前研一](../Page/大前研一.md "wikilink")などを執筆者として創刊する\[1\]。
 
-。[安全保障](https://ja.wikipedia.org/wiki/安全保障 "wikilink")政策、[経済政策](https://ja.wikipedia.org/wiki/経済政策 "wikilink")や[経営論](https://ja.wikipedia.org/wiki/経営論 "wikilink")も扱う。
+。[安全保障](https://ja.wikipedia.org/wiki/安全保障 "wikilink")政策、[経済政策](../Page/経済政策.md "wikilink")や[経営論](https://ja.wikipedia.org/wiki/経営論 "wikilink")も扱う。
 
 ## 発行部数
 
@@ -30,8 +30,8 @@
 
 ## 関連項目
 
-  - [諸君\!](https://ja.wikipedia.org/wiki/諸君! "wikilink")
-  - [正論 (雑誌)](https://ja.wikipedia.org/wiki/正論_\(雑誌\) "wikilink")
+  - [諸君\!](../Page/諸君!.md "wikilink")
+  - [正論 (雑誌)](../Page/正論_\(雑誌\).md "wikilink")
   - [WiLL (雑誌)](../Page/WiLL_\(雑誌\).md "wikilink")
 
 ## 外部リンク

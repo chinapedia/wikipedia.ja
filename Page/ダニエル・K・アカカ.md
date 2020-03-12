@@ -15,7 +15,7 @@
 
 ## 家族
 
-マリー・ミルドレッドと結婚して、5人の[子供](../Page/子供.md "wikilink")、14人の[孫](https://ja.wikipedia.org/wiki/孫 "wikilink")および1人のひ孫がいる。
+マリー・ミルドレッドと結婚して、5人の[子供](../Page/子供.md "wikilink")、14人の[孫](../Page/孫.md "wikilink")および1人のひ孫がいる。
 
 ## 参照
 

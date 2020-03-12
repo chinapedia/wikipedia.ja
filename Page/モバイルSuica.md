@@ -1,13 +1,13 @@
 > この記事は[Suica](https://ja.wikipedia.org/wiki/Suica)から翻訳されています。
 
 
-[thumb版モバイルSuicaのVersion](https://ja.wikipedia.org/wiki/ファイル:Mobile_suica_screenshot.png "wikilink")4aメニュー画面（2017年5月のアップデートにより、利用不可）\]\] **モバイルSuica**（モバイルスイカ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が提供する、「[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")」対応の[携帯電話](../Page/携帯電話.md "wikilink")及び[PHS](../Page/PHS.md "wikilink")において、同社が発行する[IC乗車カードである](../Page/乗車カード.md "wikilink")[Suica](../Page/Suica.md "wikilink")の機能を搭載した[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")およびそのサービスである。
+[thumb版モバイルSuicaのVersion](https://ja.wikipedia.org/wiki/ファイル:Mobile_suica_screenshot.png "wikilink")4aメニュー画面（2017年5月のアップデートにより、利用不可）\]\] **モバイルSuica**（モバイルスイカ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が提供する、「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」対応の[携帯電話](../Page/携帯電話.md "wikilink")及び[PHS](../Page/PHS.md "wikilink")において、同社が発行する[IC乗車カードである](../Page/乗車カード.md "wikilink")[Suica](../Page/Suica.md "wikilink")の機能を搭載した[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")およびそのサービスである。
 
 本項では、[iOS版モバイルデバイス向けに提供している](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")「**[Apple Pay版 Suica](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")**」、ならびに[Android](../Page/Android.md "wikilink")版モバイルデバイス向けに提供している「**[Google Pay版 Suica](https://ja.wikipedia.org/wiki/#Google_Pay版_Suica "wikilink")**」についても記す。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[1月28日](../Page/1月28日.md "wikilink")に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）の対応機種を初めにサービスを開始した。同年[12月2日](../Page/12月2日.md "wikilink")に[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、2009年（平成21年）7月5日より旧[ウィルコム](../Page/ウィルコム.md "wikilink")（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）でもサービスを開始した\[1\]。 また、[2011年](../Page/2011年.md "wikilink")（平成23年）[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")に、NTTドコモとau、SoftBankの[Android](../Page/Android.md "wikilink")搭載の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもサービス開始した。\[2\]。2013年（平成25年）4月6日には[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")のAndroid搭載のスマートフォンでもサービス開始した\[3\]。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[1月28日](../Page/1月28日.md "wikilink")に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）の対応機種を初めにサービスを開始した。同年[12月2日](../Page/12月2日.md "wikilink")に[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、2009年（平成21年）7月5日より旧[ウィルコム](../Page/ウィルコム.md "wikilink")（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）でもサービスを開始した\[1\]。 また、[2011年](../Page/2011年.md "wikilink")（平成23年）[7月23日](../Page/7月23日.md "wikilink")に、NTTドコモとau、SoftBankの[Android](../Page/Android.md "wikilink")搭載の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもサービス開始した。\[2\]。2013年（平成25年）4月6日には[イー・モバイル](../Page/イー・モバイル.md "wikilink")のAndroid搭載のスマートフォンでもサービス開始した\[3\]。
 
 なお、これまでおサイフケータイ搭載の[SIMフリー](https://ja.wikipedia.org/wiki/SIMフリー "wikilink")端末については長らく非対応の状態が続いていたが、[2015年](../Page/2015年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")の定例社長会見において、昨今利用者数を増やしているこれらSIMフリー端末についても、12月中旬を目処に対応させることを正式に発表した\[4\]。各キャリアの[iOS端末については](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、2016年9月7日に行われた[アップルの](../Page/アップル_\(企業\).md "wikilink")[スペシャルイベントにおいて](https://ja.wikipedia.org/wiki/Apple_Special_Event "wikilink")、10月下旬より[Apple Pay版 Suicaの提供を開始することが発表されている](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")（後述）。
 
@@ -17,16 +17,16 @@
 
 ### 機能
 
-カード型のSuicaと同様に、Suicaに対応している[自動改札機](../Page/自動改札機.md "wikilink")などを利用してJRや私鉄などの交通機関に乗車できる機能や、駅構内（駅ナカ）・街中（街ナカ）の[店](https://ja.wikipedia.org/wiki/店 "wikilink")舗や自動販売機・コインロッカーでの支払いができる[Suicaショッピングサービス](https://ja.wikipedia.org/wiki/Suicaショッピングサービス "wikilink")機能がある。  モバイルSuicaでは、これに加えて、携帯電話の機能を利用したオンラインチャージ（入金）や利用履歴および残額の確認、[定期券](../Page/定期乗車券.md "wikilink")・新幹線特急券\[5\]・[Suicaグリーン券](../Page/グリーン券.md "wikilink")\[6\]の購入・利用などの機能が提供されており、カード型より利便性が向上している。
+カード型のSuicaと同様に、Suicaに対応している[自動改札機](../Page/自動改札機.md "wikilink")などを利用してJRや私鉄などの交通機関に乗車できる機能や、駅構内（駅ナカ）・街中（街ナカ）の[店](../Page/店.md "wikilink")舗や自動販売機・コインロッカーでの支払いができる[Suicaショッピングサービス](https://ja.wikipedia.org/wiki/Suicaショッピングサービス "wikilink")機能がある。  モバイルSuicaでは、これに加えて、携帯電話の機能を利用したオンラインチャージ（入金）や利用履歴および残額の確認、[定期券](../Page/定期乗車券.md "wikilink")・新幹線特急券\[5\]・[Suicaグリーン券](../Page/グリーン券.md "wikilink")\[6\]の購入・利用などの機能が提供されており、カード型より利便性が向上している。
 
 ### 会員登録
 
-モバイルSuicaを利用するためには、モバイルSuicaに対応したスマートフォン\[7\]が必要である。対応機種でもモバイルSuicaが[プリインストール](https://ja.wikipedia.org/wiki/プリインストール "wikilink")されていない場合は、モバイルSuicaのウェブサイトから専用アプリをダウンロードできる。
+モバイルSuicaを利用するためには、モバイルSuicaに対応したスマートフォン\[7\]が必要である。対応機種でもモバイルSuicaが[プリインストール](../Page/プリインストール.md "wikilink")されていない場合は、モバイルSuicaのウェブサイトから専用アプリをダウンロードできる。
 
 モバイルSuicaには会員種別がある。
 
   - モバイルSuica（通常会員）
-    年会費は、[Apple Pay版 Suicaは無料](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")\[8\]。それ以外のフィーチャーフォン等やAndoroid端末では税抜1,000円\[9\]。なお、[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")以降は年会費が全面無料化される予定である\[10\]。決済用のクレジットカードは、[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")・[Visa](../Page/Visa.md "wikilink")・[マスターカード](../Page/マスターカード.md "wikilink")・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")・[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")・[ダイナースクラブ](../Page/ダイナースクラブ.md "wikilink")・[JR東海エクスプレス・カード](https://ja.wikipedia.org/wiki/JR東海エクスプレス・カード "wikilink")のいずれかが登録できる。カード型Suicaはチャージに使用できるカードがビューカードに限定されるがそれと異なり、モバイルSuicaでは一般加盟店と同等の扱いとなる。
+    年会費は、[Apple Pay版 Suicaは無料](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")\[8\]。それ以外のフィーチャーフォン等やAndoroid端末では税抜1,000円\[9\]。なお、[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")以降は年会費が全面無料化される予定である\[10\]。決済用のクレジットカードは、[ビューカード](../Page/ビューカード.md "wikilink")・[Visa](../Page/Visa.md "wikilink")・[マスターカード](../Page/マスターカード.md "wikilink")・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")・[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")・[ダイナースクラブ](../Page/ダイナースクラブ.md "wikilink")・[JR東海エクスプレス・カード](../Page/JR東海エクスプレス・カード.md "wikilink")のいずれかが登録できる。カード型Suicaはチャージに使用できるカードがビューカードに限定されるがそれと異なり、モバイルSuicaでは一般加盟店と同等の扱いとなる。
   - [EASYモバイルSuica会員](https://ja.wikipedia.org/wiki/#EASYモバイルSuica "wikilink")
     [クレジットカード](../Page/クレジットカード.md "wikilink")の登録が不要である。通常会員に比べて利用できる機能に制約があるが、年会費は無料。利用前に現金や銀行でチャージする必要がある。紛失時の再発行はなく、記録を元に払い戻しになる\[11\]。
 
@@ -59,13 +59,13 @@ JR線のみのモバイルSuica定期券から、JR線とPASMO事業者にまた
 
 モバイルSuicaアプリにおける利用履歴の表示には、IC領域の情報を表示する「[SF](../Page/乗車カード.md "wikilink")（電子マネー）利用履歴」（[オフライン](https://ja.wikipedia.org/wiki/オフライン "wikilink")のため圏外でも利用可）とセンターに記録されている情報を表示する「利用履歴表示」（ログインが必要）の2つがあり、26週以内の利用分のうち前者は直近の20件、後者は同50件までの利用履歴を表示できる。50件を超えた過去の利用履歴も、26週以内の分はパソコン版の会員サイトにより閲覧できる（なお、26週を経過した履歴の消去は毎週日曜日の早朝に行われるため、直後の日曜早朝までは残っている場合がある）。当初は各項目の金額はその都度の利用後の「残額（残高）」のみの表示に限られ利用金額は表示されていなかったが、のちに直前の利用履歴との差額により利用金額を表示するようになった。
 
-利用履歴は、発行元であるJR東日本の有人改札窓口に申し出ても印字することはできない。必要な場合は、パソコン版のモバイルSuica会員サイトにログインして、利用履歴をPDFファイルで出力のうえ保存もしくは印刷するか一部の駅に設置されている据置型の機器を利用する必要がある。また、東京メトロ、[JR北海道](../Page/北海道旅客鉄道.md "wikilink")、[JR東海](../Page/東海旅客鉄道.md "wikilink")、[JR西日本](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")、[JR四国](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")、[JR九州](../Page/九州旅客鉄道.md "wikilink")、[あいの風とやま鉄道](https://ja.wikipedia.org/wiki/あいの風とやま鉄道 "wikilink")など一部の相互利用先の事業者では改札窓口で申し出れば、履歴を印字してもらうことが可能である。また、JR西日本の一部の駅に2014年（平成26年）から設置されているチャージ時にICカードを読み取り部に置くタイプの券売機の場合は、モバイルSuicaも履歴印字が可能である。履歴印字は各事業者の基準で扱われるため、一部の区間は詳細な利用履歴が表示されないことがある。
+利用履歴は、発行元であるJR東日本の有人改札窓口に申し出ても印字することはできない。必要な場合は、パソコン版のモバイルSuica会員サイトにログインして、利用履歴をPDFファイルで出力のうえ保存もしくは印刷するか一部の駅に設置されている据置型の機器を利用する必要がある。また、東京メトロ、[JR北海道](../Page/北海道旅客鉄道.md "wikilink")、[JR東海](../Page/東海旅客鉄道.md "wikilink")、[JR西日本](../Page/西日本旅客鉄道.md "wikilink")、[JR四国](../Page/四国旅客鉄道.md "wikilink")、[JR九州](../Page/九州旅客鉄道.md "wikilink")、[あいの風とやま鉄道](https://ja.wikipedia.org/wiki/あいの風とやま鉄道 "wikilink")など一部の相互利用先の事業者では改札窓口で申し出れば、履歴を印字してもらうことが可能である。また、JR西日本の一部の駅に2014年（平成26年）から設置されているチャージ時にICカードを読み取り部に置くタイプの券売機の場合は、モバイルSuicaも履歴印字が可能である。履歴印字は各事業者の基準で扱われるため、一部の区間は詳細な利用履歴が表示されないことがある。
 
 ## チャージ・乗車券類購入
 
 ### オートチャージ
 
-2010年（平成22年）3月13日より、決済カードを[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")としたものに限って[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")が利用可能になった。なお、オートチャージの設定はモバイルSuicaアプリで行う\[20\]。
+2010年（平成22年）3月13日より、決済カードを[ビューカード](../Page/ビューカード.md "wikilink")としたものに限って[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")が利用可能になった。なお、オートチャージの設定はモバイルSuicaアプリで行う\[20\]。
 
 ### 現金チャージ
 
@@ -77,7 +77,7 @@ JR線のみのモバイルSuica定期券から、JR線とPASMO事業者にまた
 
 モバイルSuicaのメニューから会員登録時に登録したクレジットカードによりチャージする方法で、1回のチャージ額は1,000円単位で1万円まで（500円のチャージも可）、チャージ上限は携帯電話機内の残額とあわせて2万円までである。午前2時から午前4時までの間はクレジットチャージできない。
 
-また、[VIEWカード以外の一部のカード発行会社は](https://ja.wikipedia.org/wiki/ビューカード "wikilink")、モバイルSuica利用分では[ポイント](../Page/ポイント.md "wikilink")加算を取り止めている（ただし、モバイルSuica定期券・モバイルSuicaグリーン券・モバイルSuica特急券に関しては、「乗車券類購入」と見なしてポイント加算対象としているカードが一部に有る）。
+また、[VIEWカード以外の一部のカード発行会社は](../Page/ビューカード.md "wikilink")、モバイルSuica利用分では[ポイント](../Page/ポイント.md "wikilink")加算を取り止めている（ただし、モバイルSuica定期券・モバイルSuicaグリーン券・モバイルSuica特急券に関しては、「乗車券類購入」と見なしてポイント加算対象としているカードが一部に有る）。
 
 なお、「[Suicaインターネットサービス](https://ja.wikipedia.org/wiki/Suica#Suicaインターネットサービス "wikilink")」を利用してのモバイルSuicaへのチャージは不可\[21\]。
 
@@ -130,7 +130,7 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 
 また区間・列車・発売枚数が限られるが、通常のモバイルSuica特急券よりもさらに割引率の高い「スーパーモバイルSuica特急券」も一部の区間で発売されている。こちらは列車の乗り継ぎができない他、購入後の変更は一切できず、払い戻しする場合も通常のモバイルSuica特急券の払いもし手数料は原則320円なのに対してスーパーモバイルSuica特急券については割引率に応じた手数料が発生する。
 
-モバイルSuica特急券は、取り扱い上[特別企画乗車券](https://ja.wikipedia.org/wiki/特別企画乗車券 "wikilink")の一つと見なされるため、新幹線駅で乗車券部分も打ち切られ、乗車距離に関わらず[特定都区市内](../Page/特定都区市内.md "wikilink")に関わる規定が適用されない。このため、在来線と新幹線を乗り継ぐ場合には在来線区間の運賃が別途発生し、新幹線停車駅以外の特定都区市内発着の場合は通常の切符を購入した方が安くなるケースもある。
+モバイルSuica特急券は、取り扱い上[特別企画乗車券](../Page/特別企画乗車券.md "wikilink")の一つと見なされるため、新幹線駅で乗車券部分も打ち切られ、乗車距離に関わらず[特定都区市内](../Page/特定都区市内.md "wikilink")に関わる規定が適用されない。このため、在来線と新幹線を乗り継ぐ場合には在来線区間の運賃が別途発生し、新幹線停車駅以外の特定都区市内発着の場合は通常の切符を購入した方が安くなるケースもある。
 
   - 例1 - 東京-仙台間のモバイルSuica特急券を購入して、[蒲田駅](https://ja.wikipedia.org/wiki/蒲田駅 "wikilink")からモバイルSuicaで入場した場合
       -
@@ -155,7 +155,7 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 
 このサービスの開始により、例えば首都圏の在来線対応駅（Suica・PASMOエリア）から、東海道・山陽新幹線を経由して、東海地区（TOICA・manacaエリア\[34\]）、西日本地区（ICOCA・[PiTaPa](../Page/PiTaPa.md "wikilink")エリア\[35\]）または九州地区（[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")エリアの一部\[36\]）の在来線対応駅まで、一台の携帯電話で乗り継ぎ利用できるようになった\[37\]。
 
-利用にあたってはJR東海が提供する「[エクスプレス予約](https://ja.wikipedia.org/wiki/エクスプレス予約 "wikilink")」への会員登録が必要である。エクスプレス予約の決済用クレジットカードは、TypeII カードおよび法人カードを除く[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")か、[JR東海エクスプレス・カード](https://ja.wikipedia.org/wiki/JR東海エクスプレス・カード "wikilink")に限られる。\[38\]
+利用にあたってはJR東海が提供する「[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")」への会員登録が必要である。エクスプレス予約の決済用クレジットカードは、TypeII カードおよび法人カードを除く[ビューカード](../Page/ビューカード.md "wikilink")か、[JR東海エクスプレス・カード](../Page/JR東海エクスプレス・カード.md "wikilink")に限られる。\[38\]
 
 登録方法は、以下の2つの方法がある。
 
@@ -178,7 +178,7 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 
 ## モバイルSuica非対応の機種
 
-携帯電話、PHS、Android端末や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")のうち、[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")またはFeliCaが搭載されSuica以外の電子マネー等が利用可能な機種であっても、一部にモバイルSuicaが利用できない機種が存在する。これは、JR東日本がモバイルSuicaの提供条件として、[自動改札機](../Page/自動改札機.md "wikilink")での通過性能基準を設けており試験を通過する事により初めて提供および利用可能となるためである。よって、基準を満たさない一部の機種はモバイルSuicaに非対応であり、モバイルSuicaアプリのダウンロードそのものができない。
+携帯電話、PHS、Android端末や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")のうち、[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")またはFeliCaが搭載されSuica以外の電子マネー等が利用可能な機種であっても、一部にモバイルSuicaが利用できない機種が存在する。これは、JR東日本がモバイルSuicaの提供条件として、[自動改札機](../Page/自動改札機.md "wikilink")での通過性能基準を設けており試験を通過する事により初めて提供および利用可能となるためである。よって、基準を満たさない一部の機種はモバイルSuicaに非対応であり、モバイルSuicaアプリのダウンロードそのものができない。
 
 携帯電話メーカー各社が今後発売されるFeliCa搭載機種の性能試験を行えるよう、JR東日本は出札機器部門担当の子会社である[ジェイアール東日本メカトロニクス](https://ja.wikipedia.org/wiki/ジェイアール東日本メカトロニクス "wikilink")の実験環境を貸し出している\[40\]。
 
@@ -206,14 +206,14 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 当初はサービスイン後1年で100万件の会員獲得が目標だったが、設定方法の煩雑さもあり100万件達成は2年3か月後の2008年（平成20年）4月だった。それと共に、[みどりの窓口](../Page/みどりの窓口.md "wikilink")の混雑緩和策としてモバイルSuicaをアピールする必要性にも迫られ、JR東日本独自のCM等による積極的な宣伝・キャンペーンを行う方針に転換した。
 
   - モバイルSuica共通のキャンペーンソングとして、[松任谷由実](../Page/松任谷由実.md "wikilink")の「[虹の下のどしゃ降りで](../Page/虹の下のどしゃ降りで.md "wikilink")」が使用されている（現在NTTドコモのCMでは未使用）。
-  - 当初はauのテレビCMやポスターにのみ[ペンギンが出演](https://ja.wikipedia.org/wiki/ペンギン_\(Suicaキャラクター\) "wikilink") していたが、現在ではNTTドコモのCM・ポスターにもペンギンが登場している。
+  - 当初はauのテレビCMやポスターにのみ[ペンギンが出演](../Page/ペンギン_\(Suicaキャラクター\).md "wikilink") していたが、現在ではNTTドコモのCM・ポスターにもペンギンが登場している。
   - JR東日本のCM「少しだけホームシック篇」では、登場する携帯電話の違いからauバージョンとNTTドコモバージョンが存在する。
   - 2006年（平成18年）10月のサービス拡大時に「いつかえる? モバイルSuicaに」というキャッチフレーズの使用を開始した。その後、[2007年](../Page/2007年.md "wikilink")（平成19年）2月の[PASMO](../Page/PASMO.md "wikilink")との相互利用開始直前に「モ〜かえた? モバイルSuicaに」というキャッチフレーズに変更されている。現在まで、PASMOでは携帯電話アプリケーションを使用してモバイルSuica同様のサービスを展開する予定は明らかになっておらず、同カードエリア内でも使用できることを強調して入会促進キャンペーンを展開した。
   - 2006年（平成18年）12月からサービス展開を始めたSoftBankではテレビCMは放映されなかったが、「[予想GUY](https://ja.wikipedia.org/wiki/予想GUY "wikilink")」などの強烈なCMキャラクターがいるため、ペンギンとの共演でポスターが掲出された。
 
 ## Apple Pay版 Suica
 
-[Appleの](../Page/アップル_\(企業\).md "wikilink")[iOS搭載スマートフォンである](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")については、従来はiPhoneがFeliCa（おサイフケータイ）自体に非対応だったため、モバイルSuicaには非対応だった。[2016年](../Page/2016年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")（[PST](https://ja.wikipedia.org/wiki/太平洋標準時 "wikilink")）に行われた[Apple Special Eventにおいて](https://ja.wikipedia.org/wiki/Apple_Special_Event "wikilink")、最新機種となる「[iPhone 7](https://ja.wikipedia.org/wiki/iPhone_7 "wikilink")」「[iPhone 7 Plus](https://ja.wikipedia.org/wiki/iPhone_7_Plus "wikilink")」と、スマートウォッチである[Apple Watchの最新機種](https://ja.wikipedia.org/wiki/Apple_Watch "wikilink")「Apple Watch Series 2」のうち、共に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")だけで販売される端末（2016年[9月16日](../Page/9月16日.md "wikilink")発売）がFeliCa専用モジュールを搭載した上で、Suicaを搭載可能となることを発表\[48\]\[49\]、2016年10月25日に提供された[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")10.1のアップデートでサービス開始した。なお、iPhone 7以降に販売された[iPhone 8](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")/[8 Plus](https://ja.wikipedia.org/wiki/IPhone_8_Plus "wikilink")/[iPhone X以降](https://ja.wikipedia.org/wiki/iPhone_X "wikilink")、ならびにApple Watch Series 3以降は、[世界](../Page/世界.md "wikilink")で販売されている端末もFeliCa用モジュールが搭載されている。
+[Appleの](../Page/アップル_\(企業\).md "wikilink")[iOS搭載スマートフォンである](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")については、従来はiPhoneがFeliCa（おサイフケータイ）自体に非対応だったため、モバイルSuicaには非対応だった。[2016年](../Page/2016年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")（[PST](../Page/太平洋標準時.md "wikilink")）に行われた[Apple Special Eventにおいて](https://ja.wikipedia.org/wiki/Apple_Special_Event "wikilink")、最新機種となる「[iPhone 7](https://ja.wikipedia.org/wiki/iPhone_7 "wikilink")」「[iPhone 7 Plus](https://ja.wikipedia.org/wiki/iPhone_7_Plus "wikilink")」と、スマートウォッチである[Apple Watchの最新機種](https://ja.wikipedia.org/wiki/Apple_Watch "wikilink")「Apple Watch Series 2」のうち、共に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")だけで販売される端末（2016年[9月16日](../Page/9月16日.md "wikilink")発売）がFeliCa専用モジュールを搭載した上で、Suicaを搭載可能となることを発表\[48\]\[49\]、2016年10月25日に提供された[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")10.1のアップデートでサービス開始した。なお、iPhone 7以降に販売された[iPhone 8](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")/[8 Plus](https://ja.wikipedia.org/wiki/IPhone_8_Plus "wikilink")/[iPhone X以降](https://ja.wikipedia.org/wiki/iPhone_X "wikilink")、ならびにApple Watch Series 3以降は、[世界](../Page/世界.md "wikilink")で販売されている端末もFeliCa用モジュールが搭載されている。
 
 設定方法はAndroid版と大きく異なり、まず各端末でSuicaアプリをダウンロードし、モバイルSuica会員登録（新規登録の場合）を行った上で、[Apple Payの設定アプリ](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink")「[Wallet](https://ja.wikipedia.org/wiki/Wallet "wikilink")」の起動中に別途用意したカード型のSuica（Suica定期券を含む）に端末を重ねると、Apple PayのアプリケーションがSuicaの残額や定期券の情報を読み取り、カード型Suicaの代替として使用できるようになる、というものである。情報を読み取った後のSuicaカードは、一切使用が出来なくなる。カードのデポジット500円分は、読み取り時にチャージ残額へ上乗せして返却されているため、駅窓口に返納する必要はなく、自身で処分することができる（ICチップが壊れているわけではないため、[ハサミ](https://ja.wikipedia.org/wiki/ハサミ "wikilink")を入れてから処分することが望ましい）。または既存のAndroid端末からのモバイルSuica引き継ぎも可能である。
 
@@ -221,13 +221,13 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 
 チャージや定期券の更新は、Suicaアプリで登録したクレジットカードまたはApple Pay（Walletアプリ）によるクレジットカード・プリペイドカードでの決済となり、登録クレジットカードをVIEWカードにすることで[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")を利用することも出来る。また My SuicaとSuica定期券のみ、クレジットカード登録のメニュー項目からのデビットカードの登録も可能である。但し、銀行チャージやキャリア決済チャージにはには対応しておらず、Suica（無記名）では、[デビットカード](../Page/デビットカード.md "wikilink")の登録にも対応しない\[51\]。現金チャージについては、スマートフォン対応のSuicaチャージ機にて対応している。無記名式Suica扱いとなる場合は紛失時などの払い戻しができない\[52\]。
 
-このように、iOSで提供されるSuicaサービスは厳密には「モバイルSuica」とは異なるものとなる。リリース発表時点ではサービスの詳細について明らかになっておらず、JR東日本ではiPhoneに搭載されるApple Pay対応版のSuicaについて「既存のモバイルSuicaで提供しているサービスが使えるようになる」と説明していた\[53\]。サービス開始後は、Suicaアプリ経由で定期券やSuicaグリーン券・モバイルSuica特急券の購入・利用が可能\[54\]なほか、2017年10月23日からは[東海道・山陽新幹線](../Page/東海道・山陽新幹線.md "wikilink")の[EX-ICサービスの利用が可能となった](https://ja.wikipedia.org/wiki/エクスプレス予約 "wikilink")\[55\]。これらのサービスの中には、フィーチャーフォン版・Android版では、年会費を要するものも含まれるが、Apple Pay版Suicaでは年会費が不要である。
+このように、iOSで提供されるSuicaサービスは厳密には「モバイルSuica」とは異なるものとなる。リリース発表時点ではサービスの詳細について明らかになっておらず、JR東日本ではiPhoneに搭載されるApple Pay対応版のSuicaについて「既存のモバイルSuicaで提供しているサービスが使えるようになる」と説明していた\[53\]。サービス開始後は、Suicaアプリ経由で定期券やSuicaグリーン券・モバイルSuica特急券の購入・利用が可能\[54\]なほか、2017年10月23日からは[東海道・山陽新幹線](../Page/東海道・山陽新幹線.md "wikilink")の[EX-ICサービスの利用が可能となった](../Page/エクスプレス予約.md "wikilink")\[55\]。これらのサービスの中には、フィーチャーフォン版・Android版では、年会費を要するものも含まれるが、Apple Pay版Suicaでは年会費が不要である。
 
 iPhone7以降では、[メルカリ](https://ja.wikipedia.org/wiki/メルカリ "wikilink")のスマホ決済サービス『メルペイ』経由で、チャージする事が可能\[56\]。
 
 ## Google Pay版 Suica
 
-[2018年](../Page/2018年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")、JR東日本はSuicaが[Google](../Page/Google.md "wikilink")の提供するモバイル決済サービス「[Google Pay](https://ja.wikipedia.org/wiki/Google_Pay "wikilink")」に同日から対応したことを発表した\[57\]。[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")機能を搭載した、[Android 5.0以降の端末が必須である](https://ja.wikipedia.org/wiki/Android_5.0 "wikilink")。（なお、前述「[モバイルSuica非対応の機種](https://ja.wikipedia.org/wiki/モバイルSuica#モバイルSuica非対応の機種 "wikilink")」も参照）
+[2018年](../Page/2018年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")、JR東日本はSuicaが[Google](../Page/Google.md "wikilink")の提供するモバイル決済サービス「[Google Pay](https://ja.wikipedia.org/wiki/Google_Pay "wikilink")」に同日から対応したことを発表した\[57\]。[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")機能を搭載した、[Android 5.0以降の端末が必須である](https://ja.wikipedia.org/wiki/Android_5.0 "wikilink")。（なお、前述「[モバイルSuica非対応の機種](https://ja.wikipedia.org/wiki/モバイルSuica#モバイルSuica非対応の機種 "wikilink")」も参照）
 
 Google Payのアプリ上で新たなSuicaアカウントを発行し（Apple Pay版 Suicaと異なり既存のカード型Suicaを使用しない）、カード型と同様に乗車カードや電子マネーとしての利用が可能となる。また、Google Payのアプリ上でチャージや残高確認などが可能となる。
 
@@ -235,14 +235,14 @@ Google Payのアプリ上で新たなSuicaアカウントを発行し（Apple Pa
 
 モバイルSuicaアプリの併用も可能である。同一のAndroid スマートフォン上のモバイルSuicaとGoogle Payで使用するSuicaは同一のものである。同アプリにより、Google Pay ではできないSuicaに対する色々な手続きが可能となる（ただし、登録がモバイルSuica会員かEASYモバイルSuica会員かによって可能な手続きは異なる）\[58\]。
 
-Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica会員またはかEASYモバイルSuica会員として登録しない限りは、Suica定期券や、Suicaグリーン券、モバイルSuica特急券の購入・利用はできず（モバイルSuica内の定期券の決済にGoogle Payを使用することは可能\[59\]）、[エクスプレス予約](https://ja.wikipedia.org/wiki/エクスプレス予約 "wikilink")（EX-ICサービス）にも対応しない。また、JRE POINT・Suicaポケットの受取りやネット決済の支払いにも対応しない\[60\]（ただし、Google Pay版Suica単体でJRE POINTを貯めることはできる）。また、無記名式モバイルSuica扱いとなるため紛失時などの払い戻しができない\[61\]。
+Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica会員またはかEASYモバイルSuica会員として登録しない限りは、Suica定期券や、Suicaグリーン券、モバイルSuica特急券の購入・利用はできず（モバイルSuica内の定期券の決済にGoogle Payを使用することは可能\[59\]）、[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")（EX-ICサービス）にも対応しない。また、JRE POINT・Suicaポケットの受取りやネット決済の支払いにも対応しない\[60\]（ただし、Google Pay版Suica単体でJRE POINTを貯めることはできる）。また、無記名式モバイルSuica扱いとなるため紛失時などの払い戻しができない\[61\]。
 
 ## 注意点
 
 ### 全般
 
-  - 基本的に現金を介した利用を想定していないこともあり、多くの[自動券売機](../Page/自動券売機.md "wikilink")や[自動精算機](https://ja.wikipedia.org/wiki/自動精算機 "wikilink")では構造的にモバイルSuicaに対応していない。そのため、モバイルSuica端末のSFを利用してのきっぷ類の購入や、そのSFに対するチャージはできない場合が多い。また、一部の交通系ICカード導入事業者では有人改札の処理機も構造上モバイルSuicaに対応しておらず、窓口での処理ができないものもある。このため、出場駅で残高不足となり、かつオートチャージが動作しない状況、または現金チャージもクレジットチャージもできない状況\[62\]の場合には、全乗車区間の運賃を現金等で改めて支払い\[63\]、さらにモバイルSuicaの処理ができる有人改札で入場取り消しの処理を受ける必要がある\[64\]。これらのことから、JR東日本でも「現金での入金（チャージ）によりご利用の場合は、Suicaカードの方が便利です」\[65\]と案内している\[66\]。
-  - スマートフォン等の[機種変更](https://ja.wikipedia.org/wiki/機種変更 "wikilink")・修理の際は、ユーザ自身でデータ移行を行い、あるいは有料サポート等を依頼する必要がある（おサイフケータイ対応の各種電子マネーと同様）。
+  - 基本的に現金を介した利用を想定していないこともあり、多くの[自動券売機](../Page/自動券売機.md "wikilink")や[自動精算機](../Page/自動精算機.md "wikilink")では構造的にモバイルSuicaに対応していない。そのため、モバイルSuica端末のSFを利用してのきっぷ類の購入や、そのSFに対するチャージはできない場合が多い。また、一部の交通系ICカード導入事業者では有人改札の処理機も構造上モバイルSuicaに対応しておらず、窓口での処理ができないものもある。このため、出場駅で残高不足となり、かつオートチャージが動作しない状況、または現金チャージもクレジットチャージもできない状況\[62\]の場合には、全乗車区間の運賃を現金等で改めて支払い\[63\]、さらにモバイルSuicaの処理ができる有人改札で入場取り消しの処理を受ける必要がある\[64\]。これらのことから、JR東日本でも「現金での入金（チャージ）によりご利用の場合は、Suicaカードの方が便利です」\[65\]と案内している\[66\]。
+  - スマートフォン等の[機種変更](../Page/機種変更.md "wikilink")・修理の際は、ユーザ自身でデータ移行を行い、あるいは有料サポート等を依頼する必要がある（おサイフケータイ対応の各種電子マネーと同様）。
   - モバイルSuicaはスマートフォン等の電源を切っていたり、電池切れにより本体機能が使用ができなくても、バッテリーがわずかでも残っていれば改札機における通信は可能である。しかし電池を完全に消耗するか、それ以前でもICカードをロックしたまま電源を入れられない状態になると電池を交換・充電するまで利用できなくなる。
   - スマートフォン等のアプリ用メモリ領域とは別に、モバイルFelicaチップにもアプリケーション容量がある。本体メモリのアプリ領域にまだ余裕があっても、[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")や[iDなどの電子マネーやポイントカード関係のFeliCaアプリケーションがインストールされている状態で](../Page/ID_\(クレジット決済サービス\).md "wikilink")、モバイルSuicaのアプリをインストールしようとすると、モバイルFeliCaチップのアプリケーション容量不足のためインストールできない場合がある。フィーチャー・フォン時代によく見られた。
       - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")では、自社が展開するiDや[DCMXの今後の進展を見込んで](https://ja.wikipedia.org/wiki/dカード "wikilink")、903iシリーズからそれらとモバイルSuicaが共存できるよう携帯電話本体のメモリを増やすとともに、アプリケーション容量を拡大した第2世代のモバイルFeliCaチップを搭載した。
@@ -270,7 +270,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 #### Y\!mobile
 
   - 旧ウィルコム（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）では銀行チャージ及び時刻乗換案内は当面非対応である。なお、エクスプレス予約については2009年（平成21年）12月5日に開始され、EX-IC予約も2010年（平成22年）2月14日より開始している。
-  - 旧イー・モバイル（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）では2013年（平成25年）11月現在、[GL07S](https://ja.wikipedia.org/wiki/GL07S "wikilink")利用時については、東北新幹線[新花巻駅](../Page/新花巻駅.md "wikilink")・山形新幹線[高畠駅](../Page/高畠駅.md "wikilink")・秋田新幹線[田沢湖駅](../Page/田沢湖駅.md "wikilink")はサービスエリア外となっている。これらの駅でモバイルSuica特急券の購入や受取り等の操作を行う際には、公式には、駅でWi-Fi設定を行うことで改札口付近のみで利用できるようになるとしている。ただし、同年7月に行われたアップデートによって[SoftBank 3Gの](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[2.1GHz帯](https://ja.wikipedia.org/wiki/2.1GHz帯 "wikilink")ネットワークが利用できるようになったため、実質的には解消されている（なお、[EMOBILE 4G-S端末であり](https://ja.wikipedia.org/wiki/EMOBILE_4G-S "wikilink")、かつ[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")網を一切使わない[EM01F](https://ja.wikipedia.org/wiki/EM01F "wikilink")については、全く問題ないとしている）。
+  - 旧イー・モバイル（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）では2013年（平成25年）11月現在、[GL07S](https://ja.wikipedia.org/wiki/GL07S "wikilink")利用時については、東北新幹線[新花巻駅](../Page/新花巻駅.md "wikilink")・山形新幹線[高畠駅](../Page/高畠駅.md "wikilink")・秋田新幹線[田沢湖駅](../Page/田沢湖駅.md "wikilink")はサービスエリア外となっている。これらの駅でモバイルSuica特急券の購入や受取り等の操作を行う際には、公式には、駅でWi-Fi設定を行うことで改札口付近のみで利用できるようになるとしている。ただし、同年7月に行われたアップデートによって[SoftBank 3Gの](../Page/SoftBank_3G.md "wikilink")[2.1GHz帯](https://ja.wikipedia.org/wiki/2.1GHz帯 "wikilink")ネットワークが利用できるようになったため、実質的には解消されている（なお、[EMOBILE 4G-S端末であり](https://ja.wikipedia.org/wiki/EMOBILE_4G-S "wikilink")、かつ[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")網を一切使わない[EM01F](https://ja.wikipedia.org/wiki/EM01F "wikilink")については、全く問題ないとしている）。
 
 #### SIMフリー端末
 
@@ -284,7 +284,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [1月28日](../Page/1月28日.md "wikilink") - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）の対応機種でサービスを開始。
       - [12月2日](../Page/12月2日.md "wikilink") - [SoftBankの対応機種でサービス開始](../Page/SoftBank_\(携帯電話\).md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
@@ -300,7 +300,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
       - [2月22日](../Page/2月22日.md "wikilink") - [じぶん銀行](https://ja.wikipedia.org/wiki/じぶん銀行 "wikilink")からのチャージサービス開始\[73\]。
       - [3月10日](../Page/3月10日.md "wikilink") - オートチャージサービス開始\[74\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）
-      - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - NTTドコモとau、SoftBankの[Android](../Page/Android.md "wikilink")搭載の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の対応機種でサービス開始\[75\]。
+      - [7月23日](../Page/7月23日.md "wikilink") - NTTドコモとau、SoftBankの[Android](../Page/Android.md "wikilink")搭載の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の対応機種でサービス開始\[75\]。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）
       - [3月9日](../Page/3月9日.md "wikilink") - NTTドコモ「ドコモ ケータイ払い」、KDDI/沖縄セルラー電話「auかんたん決済」、[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")\[76\]「ソフトバンクまとめて支払い」により、キャリア料金による決済を開始。
   - [2015年](../Page/2015年.md "wikilink")（平成27年）
@@ -322,7 +322,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 ## 関連項目
 
   - [Suica](../Page/Suica.md "wikilink")
-  - [エクスプレス予約](https://ja.wikipedia.org/wiki/エクスプレス予約 "wikilink")（EX-ICサービスが利用可）
+  - [エクスプレス予約](../Page/エクスプレス予約.md "wikilink")（EX-ICサービスが利用可）
 
 ## 外部リンク
 
@@ -350,7 +350,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 9.  なお、[Google Pay版 Suicaは](https://ja.wikipedia.org/wiki/モバイルSuica#Google_Pay%E7%89%88_Suica "wikilink")、無記名のEASYモバイルSuica会員扱い（利用可能な機能はチャージおよび乗車券利用など最低限となる）となるため無料である。モバイルSuicaアプリを使用すれば、（記名式の本来の）EASYモバイルSuica会員に登録できる（無料）。
 10.
 11. なお、[Google Pay版 Suicaは](https://ja.wikipedia.org/wiki/モバイルSuica#Google_Pay%E7%89%88_Suica "wikilink")、無記名のEASYモバイルSuica会員扱い（利用可能な機能はチャージおよび乗車券利用など最低限となる）となるため、モバイルSuicaアプリを使用して（記名式の本来の）EASYモバイルSuica会員に登録していなければ、払い戻しも受けられない場合がある。
-12. [交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")（全国相互利用カード）には定期券、連絡定期券、特急券などのサービスは含まれないため、JR東日本Suicaエリア路線以外のJR各社路線においては、モバイルSuicaを使用して定期券・特急券等のサービス利用はできず、またSuica/モバイルSuica以外の全国相互利用カードを使用してJR東日本Suicaエリア路線において定期券・特急券等のサービス利用もできない（ただしPASMOは[首都圏ICカード相互利用サービス](../Page/首都圏ICカード相互利用サービス.md "wikilink")の枠組みで連絡定期券その他機能の一部が可能である）。原則として、それぞれJRや私鉄等の各社路線において本来対応するICカード等が必要である（PAMOの他、Suicaグリーン券に対するKitaca、TOICA等の例外はある）。ただし、新幹線関連サービスの一部（[スマートEX](https://ja.wikipedia.org/wiki/エクスプレス予約 "wikilink")、[タッチでGo\!新幹線](https://ja.wikipedia.org/wiki/タッチでGo!新幹線 "wikilink")など）はこれらのサービスとは別の枠組みで提供されているため、全国相互利用カード（およびモバイルSuica）を利用できる。
+12. [交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")（全国相互利用カード）には定期券、連絡定期券、特急券などのサービスは含まれないため、JR東日本Suicaエリア路線以外のJR各社路線においては、モバイルSuicaを使用して定期券・特急券等のサービス利用はできず、またSuica/モバイルSuica以外の全国相互利用カードを使用してJR東日本Suicaエリア路線において定期券・特急券等のサービス利用もできない（ただしPASMOは[首都圏ICカード相互利用サービス](../Page/首都圏ICカード相互利用サービス.md "wikilink")の枠組みで連絡定期券その他機能の一部が可能である）。原則として、それぞれJRや私鉄等の各社路線において本来対応するICカード等が必要である（PAMOの他、Suicaグリーン券に対するKitaca、TOICA等の例外はある）。ただし、新幹線関連サービスの一部（[スマートEX](../Page/エクスプレス予約.md "wikilink")、[タッチでGo\!新幹線](https://ja.wikipedia.org/wiki/タッチでGo!新幹線 "wikilink")など）はこれらのサービスとは別の枠組みで提供されているため、全国相互利用カード（およびモバイルSuica）を利用できる。
 13.
 14.
 15. JR東日本Suicaエリアの路線の定期券、およびこれら路線の駅を一部に含む連絡定期券などに限られる。
@@ -376,7 +376,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 35. ICOCAエリアは在来線200km以下の制限がある。また[PiTaPa](../Page/PiTaPa.md "wikilink")エリアは一部を除く。北陸新幹線経由は対象外。
 36. 福岡・佐賀・大分・熊本エリアに限る。また、山陽新幹線と乗り継ぎ利用できる在来線SUGOCAエリアから、各社局エリアに乗り継ぎ利用できる駅は存在しない（必ず一旦入出場となる）。
 37.
-38. [JR西日本が発行する](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[J-WESTカード](https://ja.wikipedia.org/wiki/J-WESTカード "wikilink")（エクスプレス）ではモバイルSuicaによるEX-ICサービスは利用できず、別途貸与されるEX-ICカードのみで利用できる。
+38. [JR西日本が発行する](../Page/西日本旅客鉄道.md "wikilink")[J-WESTカード](../Page/J-WESTカード.md "wikilink")（エクスプレス）ではモバイルSuicaによるEX-ICサービスは利用できず、別途貸与されるEX-ICカードのみで利用できる。
 39.
 40.
 41. 全世界的な方針として旧タイプの暗号通信プロトコルを使用するサーバー証明書が無効となると言う事であり、総務省は第三者として参考指針の提示、行政内部での主導および民間への指導を行っているに過ぎない。
@@ -400,7 +400,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 59.
 60.
 61.
-62. 例えば、オートチャージは事前に会員登録およびビューカードの決済登録が必須でありJR東日本Suicaエリア内のSuica対応駅（新幹線改札を除く）および[首都圏ICカード相互利用サービス](../Page/首都圏ICカード相互利用サービス.md "wikilink")に対応する[PASMO](../Page/PASMO.md "wikilink")対応駅でのみ動作する。現金チャージは例えば降りる駅で[駅ナカ](https://ja.wikipedia.org/wiki/駅ナカ "wikilink")に対応[コンビニが無いと困難である](../Page/コンビニエンスストア.md "wikilink")。クレジットチャージは端末が電池切れなどしておらず操作可能であり、各種パスワード等を失念せず、かつ携帯電話が通信可能（サービスエリア内など）である必要がある。
+62. 例えば、オートチャージは事前に会員登録およびビューカードの決済登録が必須でありJR東日本Suicaエリア内のSuica対応駅（新幹線改札を除く）および[首都圏ICカード相互利用サービス](../Page/首都圏ICカード相互利用サービス.md "wikilink")に対応する[PASMO](../Page/PASMO.md "wikilink")対応駅でのみ動作する。現金チャージは例えば降りる駅で[駅ナカ](../Page/駅ナカ.md "wikilink")に対応[コンビニが無いと困難である](../Page/コンビニエンスストア.md "wikilink")。クレジットチャージは端末が電池切れなどしておらず操作可能であり、各種パスワード等を失念せず、かつ携帯電話が通信可能（サービスエリア内など）である必要がある。
 63. 無人駅の場合には後日精算
 64. なお、エリア外（エリアまたぎを含む）または非対応駅で降りる場合も同様の処理が必要となる。
 65. これはJR東日本のSuicaエリアに限らず、[全国相互対応ICカードが利用可能な全ての鉄道](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")、バス等において同様である。

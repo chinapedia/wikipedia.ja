@@ -1,30 +1,30 @@
 > この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
 
 
-**三菱UFJリース株式会社**（みつびしユーエフジェイリース、英 Mitsubishi UFJ Lease & Finance Company Limited）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く業界３位の大手総合[リース](../Page/リース.md "wikilink")会社。[三菱グループ](../Page/三菱グループ.md "wikilink")の中核リース会社である。[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")市場第一部[上場](../Page/上場.md "wikilink")。コーポレートスローガンは「**Value Integrator**」。
+**三菱UFJリース株式会社**（みつびしユーエフジェイリース、英 Mitsubishi UFJ Lease & Finance Company Limited）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く業界３位の大手総合[リース](../Page/リース.md "wikilink")会社。[三菱グループ](../Page/三菱グループ.md "wikilink")の中核リース会社である。[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部[上場](../Page/上場.md "wikilink")。コーポレートスローガンは「**Value Integrator**」。
 
 ## 概要
 
-2007年4月にダイヤモンドリース株式会社とＵＦＪセントラルリース株式会社が、リース業界大型再編の先陣をきって\[1\]合併し、三菱UFJリースが誕生した。合併により規模が国内トップクラスのリース会社となっている。[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")、[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ "wikilink")との密な連携と土地建物リースやPFI事業の取扱いに強みを有する。また、近年欧米の[航空機リース](https://ja.wikipedia.org/wiki/航空機リース "wikilink")関連企業を相次いで買収し、海外収益が高いのも強みである。合併と同時期に、本社所在地を、[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")直結の[新丸の内ビルディング](https://ja.wikipedia.org/wiki/新丸の内ビルディング "wikilink")に置き、社員の大半が同ビルで勤務している。
+2007年4月にダイヤモンドリース株式会社とＵＦＪセントラルリース株式会社が、リース業界大型再編の先陣をきって\[1\]合併し、三菱UFJリースが誕生した。合併により規模が国内トップクラスのリース会社となっている。[三菱商事](../Page/三菱商事.md "wikilink")、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")との密な連携と土地建物リースやPFI事業の取扱いに強みを有する。また、近年欧米の[航空機リース](https://ja.wikipedia.org/wiki/航空機リース "wikilink")関連企業を相次いで買収し、海外収益が高いのも強みである。合併と同時期に、本社所在地を、[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")直結の[新丸の内ビルディング](../Page/新丸の内ビルディング.md "wikilink")に置き、社員の大半が同ビルで勤務している。
 
-2016年現在、[三菱東京UFJ銀行](https://ja.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")、[三菱UFJ信託銀行](https://ja.wikipedia.org/wiki/三菱UFJ信託銀行 "wikilink")、[三菱UFJ証券ホールディングス](https://ja.wikipedia.org/wiki/三菱UFJ証券ホールディングス "wikilink")、[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")と共に、[持株会社](../Page/持株会社.md "wikilink")[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ "wikilink")を構成する主要中核5社であるが、他の4社は[持株会社](../Page/持株会社.md "wikilink")傘下の非上場連結子会社であるのに対し、当社は上場を維持し、かつ子会社ではない。そして株式会社[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ "wikilink")、[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")株式会社の[持分法](https://ja.wikipedia.org/wiki/持分法 "wikilink")適用関連会社である。
+2016年現在、[三菱東京UFJ銀行](https://ja.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")、[三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")、[三菱UFJ証券ホールディングス](https://ja.wikipedia.org/wiki/三菱UFJ証券ホールディングス "wikilink")、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")と共に、[持株会社](../Page/持株会社.md "wikilink")[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")を構成する主要中核5社であるが、他の4社は[持株会社](../Page/持株会社.md "wikilink")傘下の非上場連結子会社であるのに対し、当社は上場を維持し、かつ子会社ではない。そして株式会社[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")、[三菱商事](../Page/三菱商事.md "wikilink")株式会社の[持分法](../Page/持分法.md "wikilink")適用関連会社である。
 
-当社は、会社発足時からの経緯で[三菱広報委員会及び](https://ja.wikipedia.org/wiki/三菱グループ#主要会社 "wikilink")[みどり会](https://ja.wikipedia.org/wiki/みどり会 "wikilink")の会員企業である\[2\]\[3\]。
+当社は、会社発足時からの経緯で[三菱広報委員会及び](https://ja.wikipedia.org/wiki/三菱グループ#主要会社 "wikilink")[みどり会](../Page/みどり会.md "wikilink")の会員企業である\[2\]\[3\]。
 
-なお、旧[東京銀行](../Page/東京銀行.md "wikilink")系列の[東銀リース](https://ja.wikipedia.org/wiki/東銀リース "wikilink")は2016年現在もそのまま別会社として存在し業界10位の規模、旧[日本信販](https://ja.wikipedia.org/wiki/日本信販 "wikilink")系の日本ビジネスリース（現：日立キャピタルNBL株式会社）は[日立キャピタル](https://ja.wikipedia.org/wiki/日立キャピタル "wikilink")により子会社化している。
+なお、旧[東京銀行](../Page/東京銀行.md "wikilink")系列の[東銀リース](https://ja.wikipedia.org/wiki/東銀リース "wikilink")は2016年現在もそのまま別会社として存在し業界10位の規模、旧[日本信販](https://ja.wikipedia.org/wiki/日本信販 "wikilink")系の日本ビジネスリース（現：日立キャピタルNBL株式会社）は[日立キャピタル](../Page/日立キャピタル.md "wikilink")により子会社化している。
 
-2016年5月13日、日立キャピタルとの資本業務提携を行うことを合意し、[三菱UFJ フィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ "wikilink")、[三菱東京 UFJ 銀行](https://ja.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、日立キャピタルとの間で、金融プラットフォーム構築を目的とした業務提携への合意に至ったことを発表した\[4\]。
+2016年5月13日、日立キャピタルとの資本業務提携を行うことを合意し、[三菱UFJ フィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")、[三菱東京 UFJ 銀行](https://ja.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、日立キャピタルとの間で、金融プラットフォーム構築を目的とした業務提携への合意に至ったことを発表した\[4\]。
 
 ## 沿革
 
 ### 旧ダイヤモンドリース
 
-  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")、[三菱銀行](../Page/三菱銀行.md "wikilink")、[三菱信託銀行](https://ja.wikipedia.org/wiki/三菱信託銀行 "wikilink")、[明治生命](https://ja.wikipedia.org/wiki/明治生命 "wikilink")、[東京海上火災](https://ja.wikipedia.org/wiki/東京海上火災 "wikilink")を中心とする三菱グループ11社並びに[日本生命](https://ja.wikipedia.org/wiki/日本生命 "wikilink")、[第一生命](https://ja.wikipedia.org/wiki/第一生命 "wikilink")、[チェース・マンハッタン銀行](https://ja.wikipedia.org/wiki/チェース・マンハッタン銀行 "wikilink")関連会社3社合計16社を株主として、ダイヤモンドリース株式会社設立。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")2部上場。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [三菱商事](../Page/三菱商事.md "wikilink")、[三菱銀行](../Page/三菱銀行.md "wikilink")、[三菱信託銀行](https://ja.wikipedia.org/wiki/三菱信託銀行 "wikilink")、[明治生命](https://ja.wikipedia.org/wiki/明治生命 "wikilink")、[東京海上火災](https://ja.wikipedia.org/wiki/東京海上火災 "wikilink")を中心とする三菱グループ11社並びに[日本生命](https://ja.wikipedia.org/wiki/日本生命 "wikilink")、[第一生命](https://ja.wikipedia.org/wiki/第一生命 "wikilink")、[チェース・マンハッタン銀行](https://ja.wikipedia.org/wiki/チェース・マンハッタン銀行 "wikilink")関連会社3社合計16社を株主として、ダイヤモンドリース株式会社設立。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
   - [1988年](../Page/1988年.md "wikilink")[9月](../Page/9月.md "wikilink") - 東京証券取引所1部上場。
   - 1998年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 南九州ダイヤモンドリース株式会社を吸収合併。
   - [1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 菱信リース株式会社を吸収合併。
-  - [2007年](../Page/2007年.md "wikilink")3月 - [三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")株式会社とともに、[ダイヤモンドオートリース](https://ja.wikipedia.org/wiki/ダイヤモンドオートリース "wikilink")株式会社（当時ダイヤモンドリース株式会社の子会社）と[三菱オートリース・クレジット](https://ja.wikipedia.org/wiki/三菱オートリース・クレジット "wikilink")株式会社のリース事業（ファイナンス事業を[会社分割](../Page/会社分割.md "wikilink")し[三菱オートリース](../Page/三菱オートリース.md "wikilink")株式会社に[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")変更）とを傘下に収める[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")の[三菱オートリース・ホールディング](https://ja.wikipedia.org/wiki/三菱オートリース・ホールディング "wikilink")株式会社を設立して、オートリース事業を経営統合。
+  - [2007年](../Page/2007年.md "wikilink")3月 - [三菱商事](../Page/三菱商事.md "wikilink")株式会社とともに、[ダイヤモンドオートリース](https://ja.wikipedia.org/wiki/ダイヤモンドオートリース "wikilink")株式会社（当時ダイヤモンドリース株式会社の子会社）と[三菱オートリース・クレジット](https://ja.wikipedia.org/wiki/三菱オートリース・クレジット "wikilink")株式会社のリース事業（ファイナンス事業を[会社分割](../Page/会社分割.md "wikilink")し[三菱オートリース](../Page/三菱オートリース.md "wikilink")株式会社に[商号](../Page/商号.md "wikilink")変更）とを傘下に収める[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")の[三菱オートリース・ホールディング](https://ja.wikipedia.org/wiki/三菱オートリース・ホールディング "wikilink")株式会社を設立して、オートリース事業を経営統合。
 
 ### 旧UFJセントラルリース
 
@@ -39,7 +39,7 @@
   - 2013年1月 - 米サンフランシスコに拠点を置くJSAInternational Holdings, L.P の全出費持分を取得し連結子会社化。
   - 2013年11月 -インドネシアの PT.Takari Kokoh Sejahteraを連結子会社化。
   - 2014年11月 - アイルランドのEngine Lease Finance Corporationの全株式及び米ボストンに拠点を置くBeacon Intermodal Leasing, LLCの全出費持分を取得し、連結子会社化。
-  - 2016年5月 - [日立キャピタル](https://ja.wikipedia.org/wiki/日立キャピタル "wikilink")との間で資本業務提携を行うことに合意。
+  - 2016年5月 - [日立キャピタル](../Page/日立キャピタル.md "wikilink")との間で資本業務提携を行うことに合意。
   - 2018年12月-米シカゴ郊外に拠点を置くENGS全株式を取得し、連結子会社化。
 
 ## 主な連結子会社

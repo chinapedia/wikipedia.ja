@@ -1,11 +1,11 @@
 > この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
 
 
-**フードD**（フードディー）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")に本店・本社を置く、**株式会社豊月**（ほうげつ）が運営する[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")チェーンである。[セルコグループ](https://ja.wikipedia.org/wiki/セルコチェーン "wikilink")、[CGCグループの加盟店](https://ja.wikipedia.org/wiki/シジシージャパン "wikilink")。
+**フードD**（フードディー）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")に本店・本社を置く、**株式会社豊月**（ほうげつ）が運営する[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")チェーンである。[セルコグループ](https://ja.wikipedia.org/wiki/セルコチェーン "wikilink")、[CGCグループの加盟店](../Page/シジシージャパン.md "wikilink")。
 
 ## 概要
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[道央](https://ja.wikipedia.org/wiki/道央 "wikilink")圏を中心に店舗を展開している独立系のスーパー。出店数は13店（2014年現在）\[1\]。 [苫小牧港](https://ja.wikipedia.org/wiki/苫小牧港 "wikilink")から引き揚げた魚介類や地元農家からの朝どり野菜など、鮮度の高い生鮮商品を売りにしている\[2\]\[3\]。 生鮮や惣菜の売り場は対面式\[4\]\[5\]。LISTA店など高質系の店舗では惣菜部門にホテルで修行したシェフを招聘し、シェフ監修のメニューを販売している\[6\]\[7\]\[8\]。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[道央](../Page/道央.md "wikilink")圏を中心に店舗を展開している独立系のスーパー。出店数は13店（2014年現在）\[1\]。 [苫小牧港](../Page/苫小牧港.md "wikilink")から引き揚げた魚介類や地元農家からの朝どり野菜など、鮮度の高い生鮮商品を売りにしている\[2\]\[3\]。 生鮮や惣菜の売り場は対面式\[4\]\[5\]。LISTA店など高質系の店舗では惣菜部門にホテルで修行したシェフを招聘し、シェフ監修のメニューを販売している\[6\]\[7\]\[8\]。
 
 ## 沿革
 
@@ -35,7 +35,7 @@
   - 2017年 - 平岡食彩館をフードD 365平岡店、虹ヶ丘食彩館をフードD 365虹ヶ丘店、芦別本店をフードD 365芦別本店、沼ノ端食彩館をフードD 365沼ノ端店、フードD VianをフードD 365Vian、千歳食彩館をフードD 365千歳店、恵庭食彩館をフードD 365恵庭店、フードD LISTAをフードD 365LISTA、フードD BOSCOをフードD 365BOSCO、見山食彩館をフードD 365見山店に名称変更
   - 同年 - 建て替えの為双葉食彩館を閉店\[12\]
   - 同年 - 苫小牧市内にフードD 365双葉店を開店\[13\]
-  - 同年 - [CGCグループに加盟](https://ja.wikipedia.org/wiki/シジシージャパン "wikilink")\[14\]
+  - 同年 - [CGCグループに加盟](../Page/シジシージャパン.md "wikilink")\[14\]
 
 ## 店舗
 
@@ -106,7 +106,7 @@
 
 ## 関連項目
 
-  - [日本のスーパーマーケット一覧](https://ja.wikipedia.org/wiki/日本のスーパーマーケット一覧 "wikilink")
+  - [日本のスーパーマーケット一覧](../Page/日本のスーパーマーケット一覧.md "wikilink")
 
 ## 出典
 

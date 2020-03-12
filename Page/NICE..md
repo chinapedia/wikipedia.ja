@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作『[THE HIT PARADE](https://ja.wikipedia.org/wiki/THE_HIT_PARADE_\(PUFFYのアルバム\) "wikilink")』から11ヶ月ぶり、オリジナルアルバムとしては『[SPIKE](https://ja.wikipedia.org/wiki/SPIKE "wikilink")』以来2年2ヶ月ぶりとなる作品。PUFFYの名付け親、[アンディ・スターマー](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")によるプロデュース。
+前作『[THE HIT PARADE](https://ja.wikipedia.org/wiki/THE_HIT_PARADE_\(PUFFYのアルバム\) "wikilink")』から11ヶ月ぶり、オリジナルアルバムとしては『[SPIKE](../Page/SPIKE.md "wikilink")』以来2年2ヶ月ぶりとなる作品。PUFFYの名付け親、[アンディ・スターマー](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")によるプロデュース。
 
 ## 収録曲
 
@@ -16,9 +16,9 @@
 2.  **東京ナイツ**
       - （作詞：[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink") 作曲：Andy Sturmer）
 3.  **Angel of Love**
-      - （作詞：[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink") 作曲：Andy Sturmer）
+      - （作詞：[鈴木祥子](../Page/鈴木祥子.md "wikilink") 作曲：Andy Sturmer）
 4.  **さようなら**
-      - （作詞：[YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink") 作曲：Andy Sturmer）
+      - （作詞：[YO-KING](../Page/YO-KING.md "wikilink") 作曲：Andy Sturmer）
 5.  **invisible tomorrow**
       - （作詞：PUFFY 作曲：Andy Sturmer）
 6.  **サンキュー**
@@ -31,7 +31,7 @@
       - （作詞：PUFFY 作曲：Andy Sturmer）
 10. **しあわせ**
       - （作詞：[奥田民生](../Page/奥田民生.md "wikilink") 作曲：Andy Sturmer）
-11. **[あたらしい日々](https://ja.wikipedia.org/wiki/あたらしい日々_\(PUFFYの曲\) "wikilink")**
+11. **[あたらしい日々](../Page/あたらしい日々_\(PUFFYの曲\).md "wikilink")**
       - （作詞：PUFFY 作曲：Andy Sturmer）
 12. **ともだち（アルバムバージョン）**
       - （作詞：PUFFY 作曲：Andy Sturmer）
@@ -48,8 +48,8 @@
 8.  **Your Love Is a Drug**
 9.  **K2G** - *K2G 〜キミにGO\!〜*
 10. **Shiawase (Happiness)** - *しあわせ*
-11. **(Urei)** - *[憂 (UREI)](https://ja.wikipedia.org/wiki/SUNRISE_\(PUFFYの曲\) "wikilink")*
-12. **[Teen Titans](https://ja.wikipedia.org/wiki/ティーン・タイタンズ_\(アニメ\) "wikilink") Theme**
+11. **(Urei)** - *[憂 (UREI)](../Page/SUNRISE_\(PUFFYの曲\).md "wikilink")*
+12. **[Teen Titans](../Page/ティーン・タイタンズ_\(アニメ\).md "wikilink") Theme**
 13. **Red Swing** - *赤いブランコ*
 
 <!-- end list -->

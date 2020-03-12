@@ -1,7 +1,7 @@
 > この記事は[SCREAMING SOUL HILL](https://ja.wikipedia.org/wiki/SCREAMING_SOUL_HILL)から翻訳されています。
 
 
-**SCREAMING SOUL HILL**（スクリーミング・ソウル・ヒル）は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[岡崎市](../Page/岡崎市.md "wikilink")出身の4人組[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1989年結成。1993年に東京に拠点を移しライブ活動を行う。2001年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。2005年11月4日解散。
+**SCREAMING SOUL HILL**（スクリーミング・ソウル・ヒル）は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[岡崎市](../Page/岡崎市.md "wikilink")出身の4人組[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1989年結成。1993年に東京に拠点を移しライブ活動を行う。2001年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。2005年11月4日解散。
 
 ## メンバー
 
@@ -81,7 +81,7 @@
 
 ## 関連項目
 
-  - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")
+  - [RIZE](../Page/RIZE.md "wikilink")
       - [KenKen](../Page/KenKen.md "wikilink")
   - [the MYTH](https://ja.wikipedia.org/wiki/the_MYTH "wikilink")
   - [Soma](https://ja.wikipedia.org/wiki/Soma "wikilink")

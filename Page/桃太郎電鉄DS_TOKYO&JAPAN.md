@@ -5,7 +5,7 @@
 
 ## 概要
 
-ニンテンドーDS向けの作品だが、これまでの携帯ゲーム機向け作品と比べて、対戦人数が最大3人である点・プレイ年数が最大30年である点・登場するカードが45種類しかないなど、やや見劣りする部分が見られる\[1\]。理由は、携帯アプリ版の『[TOKYO](https://ja.wikipedia.org/wiki/桃太郎電鉄シリーズ#桃太郎電鉄TOKYO "wikilink")』『[JAPAN](https://ja.wikipedia.org/wiki/桃太郎電鉄シリーズ#桃太郎電鉄JAPAN "wikilink")』を2in1移植したためで、アプリ版をFOMA携帯で遊べない人をターゲットにしたとのこと。しかし、[さくまあきら](https://ja.wikipedia.org/wiki/さくまあきら "wikilink")の予想より大幅にFOMA加入者およびau加入者が増えたため、アプリ版経験者が多いと予想し、新規イベントなどを入れている\[2\]。
+ニンテンドーDS向けの作品だが、これまでの携帯ゲーム機向け作品と比べて、対戦人数が最大3人である点・プレイ年数が最大30年である点・登場するカードが45種類しかないなど、やや見劣りする部分が見られる\[1\]。理由は、携帯アプリ版の『[TOKYO](https://ja.wikipedia.org/wiki/桃太郎電鉄シリーズ#桃太郎電鉄TOKYO "wikilink")』『[JAPAN](https://ja.wikipedia.org/wiki/桃太郎電鉄シリーズ#桃太郎電鉄JAPAN "wikilink")』を2in1移植したためで、アプリ版をFOMA携帯で遊べない人をターゲットにしたとのこと。しかし、[さくまあきら](../Page/さくまあきら.md "wikilink")の予想より大幅にFOMA加入者およびau加入者が増えたため、アプリ版経験者が多いと予想し、新規イベントなどを入れている\[2\]。
 
 なお、DS本体クリスタルホワイト同梱版も発売されている（定価：20,800円）。
 
@@ -24,7 +24,7 @@
   - 本作では、「おいどん」や「名産怪獣」などのイベントキャラは登場しない。
   - 本作では、物件購入時、プレイヤーの名前は先頭から数えて3文字までしか表示されない。例えば「ももたろ社長」が買った物件には「ももた」と表記される。
   - 本作では、COMキャラは4段階のみ（赤鬼、餓鬼、風神、えんま）。
-      - 特に『[7](https://ja.wikipedia.org/wiki/桃太郎電鉄7 "wikilink")』から登場していたさくま鉄人は、本作のみならず、以降のDS版『20周年』『WORLD』にも登場しなかった\[3\]ものの、3DS向けソフトとして発売された『2017』には登場している。
+      - 特に『[7](../Page/桃太郎電鉄7.md "wikilink")』から登場していたさくま鉄人は、本作のみならず、以降のDS版『20周年』『WORLD』にも登場しなかった\[3\]ものの、3DS向けソフトとして発売された『2017』には登場している。
   - 本作では、カード袋が「急行系」「便利系」に分かれておらず、合計8枚まで。カード袋が系統ごとに分かれていない仕様は、メインシリーズの作品では『HAPPY』以来である。
   - 本作では、ぶっとび駅・カード売り場駅にも駅名の看板が掲げられている。
   - 本作では、「絶好調」「いけますよ\!」「100倍乗っ取り」システムは登場しない。
@@ -96,7 +96,7 @@
   - [日本橋](https://ja.wikipedia.org/wiki/日本橋駅_\(東京都\) "wikilink")
   - [銀座](https://ja.wikipedia.org/wiki/銀座駅 "wikilink")
   - [人形町](../Page/人形町駅.md "wikilink")
-  - [深川](https://ja.wikipedia.org/wiki/深川_\(江東区\) "wikilink")
+  - [深川](../Page/深川_\(江東区\).md "wikilink")
   - [築地](https://ja.wikipedia.org/wiki/築地駅 "wikilink")
   - [月島](../Page/月島駅.md "wikilink")
   - [豊洲](../Page/豊洲駅.md "wikilink")☆
@@ -226,11 +226,11 @@
   - [帯広](../Page/帯広駅.md "wikilink")
   - [芽室](../Page/芽室駅.md "wikilink")
   - [札幌](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")
-  - [小樽](https://ja.wikipedia.org/wiki/小樽駅 "wikilink")
-  - [余市](https://ja.wikipedia.org/wiki/余市駅 "wikilink")
-  - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧駅 "wikilink")
-  - [室蘭](https://ja.wikipedia.org/wiki/室蘭駅 "wikilink")
-  - [森](https://ja.wikipedia.org/wiki/森駅_\(北海道\) "wikilink")
+  - [小樽](../Page/小樽駅.md "wikilink")
+  - [余市](../Page/余市駅.md "wikilink")
+  - [苫小牧](../Page/苫小牧駅.md "wikilink")
+  - [室蘭](../Page/室蘭駅.md "wikilink")
+  - [森](../Page/森駅_\(北海道\).md "wikilink")
   - [函館](https://ja.wikipedia.org/wiki/函館駅 "wikilink")
   - [青森](../Page/青森駅.md "wikilink")
   - [弘前](../Page/弘前駅.md "wikilink")
@@ -271,7 +271,7 @@
   - [小田原](https://ja.wikipedia.org/wiki/小田原駅 "wikilink")
   - [新潟](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")
   - [長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")
-  - [小布施](https://ja.wikipedia.org/wiki/小布施駅 "wikilink")
+  - [小布施](../Page/小布施駅.md "wikilink")
   - [松本](https://ja.wikipedia.org/wiki/松本駅 "wikilink")
   - [甲府](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")
   - [駒ヶ根](https://ja.wikipedia.org/wiki/駒ヶ根駅 "wikilink")
@@ -289,7 +289,7 @@
   - [中津川](https://ja.wikipedia.org/wiki/中津川駅 "wikilink")
   - [岐阜](https://ja.wikipedia.org/wiki/岐阜駅 "wikilink")
   - [下呂](https://ja.wikipedia.org/wiki/下呂駅 "wikilink")☆
-  - [美濃](https://ja.wikipedia.org/wiki/美濃市駅 "wikilink")
+  - [美濃](../Page/美濃市駅.md "wikilink")
   - [高山](https://ja.wikipedia.org/wiki/高山駅 "wikilink")
   - [富山](https://ja.wikipedia.org/wiki/富山駅 "wikilink")
   - [八尾](https://ja.wikipedia.org/wiki/越中八尾駅 "wikilink")
@@ -302,7 +302,7 @@
   - [和歌山](../Page/和歌山駅.md "wikilink")
   - [南部](https://ja.wikipedia.org/wiki/南部駅 "wikilink")
   - [神戸](../Page/新開地駅.md "wikilink")
-  - [有馬](https://ja.wikipedia.org/wiki/有馬温泉駅 "wikilink")☆
+  - [有馬](../Page/有馬温泉駅.md "wikilink")☆
   - [豊岡](https://ja.wikipedia.org/wiki/豊岡駅_\(兵庫県\) "wikilink")
   - [鳥取](../Page/鳥取駅.md "wikilink")
   - [松江](https://ja.wikipedia.org/wiki/松江駅 "wikilink")
@@ -318,11 +318,11 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [長門](../Page/長門市駅.md "wikilink")☆
-  - [下関](https://ja.wikipedia.org/wiki/下関駅 "wikilink")
+  - [下関](../Page/下関駅.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")
   - [徳島](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")
   - [高知](https://ja.wikipedia.org/wiki/高知駅 "wikilink")
-  - [須崎](https://ja.wikipedia.org/wiki/須崎駅 "wikilink")
+  - [須崎](../Page/須崎駅.md "wikilink")
   - [松山](https://ja.wikipedia.org/wiki/松山駅_\(愛媛県\) "wikilink")
   - [宇和島](https://ja.wikipedia.org/wiki/宇和島駅 "wikilink")
   - [北九州](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")
@@ -330,7 +330,7 @@
   - [佐賀](https://ja.wikipedia.org/wiki/佐賀駅 "wikilink")
   - [佐世保](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")
   - [長崎](../Page/長崎駅.md "wikilink")
-  - [別府](https://ja.wikipedia.org/wiki/別府駅_\(大分県\) "wikilink")
+  - [別府](../Page/別府駅_\(大分県\).md "wikilink")
   - [熊本](https://ja.wikipedia.org/wiki/熊本駅 "wikilink")
   - [八代](../Page/八代駅.md "wikilink")
   - [人吉](https://ja.wikipedia.org/wiki/人吉駅 "wikilink")
@@ -346,14 +346,14 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [厚岸](https://ja.wikipedia.org/wiki/厚岸駅 "wikilink")
-  - [長万部](https://ja.wikipedia.org/wiki/長万部駅 "wikilink")
+  - [厚岸](../Page/厚岸駅.md "wikilink")
+  - [長万部](../Page/長万部駅.md "wikilink")
   - [網走](../Page/網走駅.md "wikilink")
   - [士別](../Page/士別駅.md "wikilink")
-  - [伊達](https://ja.wikipedia.org/wiki/伊達紋別駅 "wikilink")
-  - [洞爺](https://ja.wikipedia.org/wiki/洞爺駅 "wikilink")
-  - [釜石](https://ja.wikipedia.org/wiki/釜石駅 "wikilink")
-  - [遠野](https://ja.wikipedia.org/wiki/遠野駅 "wikilink")
+  - [伊達](../Page/伊達紋別駅.md "wikilink")
+  - [洞爺](../Page/洞爺駅.md "wikilink")
+  - [釜石](../Page/釜石駅.md "wikilink")
+  - [遠野](../Page/遠野駅.md "wikilink")
   - [新庄](../Page/新庄駅.md "wikilink")
   - [八王子](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")
   - [村上](../Page/村上駅_\(新潟県\).md "wikilink")
@@ -366,13 +366,13 @@
 
   - [軽井沢](../Page/軽井沢駅.md "wikilink")
   - [下田](https://ja.wikipedia.org/wiki/伊豆急下田駅 "wikilink")
-  - [郡上](https://ja.wikipedia.org/wiki/郡上八幡駅 "wikilink")
+  - [郡上](../Page/郡上八幡駅.md "wikilink")
   - [堺](https://ja.wikipedia.org/wiki/堺駅 "wikilink")
   - [奈良](https://ja.wikipedia.org/wiki/奈良駅 "wikilink")
   - [米子](https://ja.wikipedia.org/wiki/米子駅 "wikilink")
   - [周南](../Page/徳山駅.md "wikilink")
   - [防府](../Page/防府駅.md "wikilink")
-  - [室戸](https://ja.wikipedia.org/wiki/室戸市 "wikilink")
+  - [室戸](../Page/室戸市.md "wikilink")
   - [大分](https://ja.wikipedia.org/wiki/大分駅 "wikilink")
   - [日田](../Page/日田駅.md "wikilink")
   - [国分](https://ja.wikipedia.org/wiki/国分駅_\(鹿児島県\) "wikilink")
@@ -390,7 +390,7 @@
   - [中部空港](../Page/中部国際空港.md "wikilink")
   - [串本](https://ja.wikipedia.org/wiki/串本駅 "wikilink")
   - [白浜](https://ja.wikipedia.org/wiki/白浜駅 "wikilink")
-  - [新宮](https://ja.wikipedia.org/wiki/新宮駅 "wikilink")
+  - [新宮](../Page/新宮駅.md "wikilink")
   - [安芸](https://ja.wikipedia.org/wiki/安芸駅 "wikilink")
   - [佐土原](https://ja.wikipedia.org/wiki/佐土原駅 "wikilink")
   - [日南](https://ja.wikipedia.org/wiki/日南駅 "wikilink")
@@ -408,7 +408,7 @@
   -
 [Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink")
 
-1.  同じ携帯ゲーム機の作品でも[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版『[SUPER](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄 "wikilink")』『[II](../Page/スーパー桃太郎電鉄II.md "wikilink")』『[jr.](../Page/桃太郎電鉄jr._〜全国ラーメンめぐりの巻〜.md "wikilink")』・[ゲームギア](../Page/ゲームギア.md "wikilink")版『[III](../Page/スーパー桃太郎電鉄III.md "wikilink")』・[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")版『[G](../Page/桃太郎電鉄G_ゴールド・デッキを作れ!.md "wikilink")』では2-4人対戦、最大99年のプレイが可能で、カードはゲームボーイ版最後の作品『jr.』でも83種類存在していた。
+1.  同じ携帯ゲーム機の作品でも[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版『[SUPER](../Page/スーパー桃太郎電鉄.md "wikilink")』『[II](../Page/スーパー桃太郎電鉄II.md "wikilink")』『[jr.](../Page/桃太郎電鉄jr._〜全国ラーメンめぐりの巻〜.md "wikilink")』・[ゲームギア](../Page/ゲームギア.md "wikilink")版『[III](../Page/スーパー桃太郎電鉄III.md "wikilink")』・[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")版『[G](../Page/桃太郎電鉄G_ゴールド・デッキを作れ!.md "wikilink")』では2-4人対戦、最大99年のプレイが可能で、カードはゲームボーイ版最後の作品『jr.』でも83種類存在していた。
 2.  [月刊デジタルさくまにあ桃鉄研究所再開第49回目！](http://sakumania.com/momo/momoken-8/01.05.html)より。
 3.  ニンテンドーDSの性質上で鉄人の得意技が表現出来ない部分があったため。次作『20周年』の発売時にコメントしている。[「さくまあきらホームページ」内「仕事人裏日記」](http://sakumania.com/diary/nikki/081223.html) 2008年12月23日付より
 4.  これに対してさくまは『2010』発売時に「桃鉄は社長ゲームなので役職は統一すべきだから」と説明している。[「仕事人裏日記」](http://sakumania.com/diary/nikki/091206.html) [2009年](../Page/2009年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")付より。

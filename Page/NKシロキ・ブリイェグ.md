@@ -1,13 +1,13 @@
 > この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
 
 
-**ノゴメトニ・クルブ・シロキ・ブリイェグ**（）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")・[シロキ・ブリイェグ](https://ja.wikipedia.org/wiki/シロキ・ブリイェグ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**ノゴメトニ・クルブ・シロキ・ブリイェグ**（）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")・[シロキ・ブリイェグ](../Page/シロキ・ブリイェグ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 概要
 
-住民のほとんどが[クロアチア人](https://ja.wikipedia.org/wiki/クロアチア人 "wikilink")という地域性を反映して、クラブやサポーターにもクロアチア色が強く、クロアチア本国出身の選手も多い。クラブエンブレムの上部には、[クロアチア国旗にもある市松模様](../Page/クロアチアの国旗.md "wikilink")（シャホヴニツァ）が描かれている。
+住民のほとんどが[クロアチア人](../Page/クロアチア人.md "wikilink")という地域性を反映して、クラブやサポーターにもクロアチア色が強く、クロアチア本国出身の選手も多い。クラブエンブレムの上部には、[クロアチア国旗にもある市松模様](../Page/クロアチアの国旗.md "wikilink")（シャホヴニツァ）が描かれている。
 
-[ユーゴスラビア時代は](https://ja.wikipedia.org/wiki/ユーゴスラビア社会主義連邦共和国 "wikilink")[ユーゴスラビア・プルヴァ・リーガ](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")（1部リーグに相当）に昇格した経験が無く、地方の小クラブにすぎなかった。ボスニア・ヘルツェゴビアの独立後に実施されたクロアチア人リーグ（ヘルツェグ・ボスニアリーグ）において最多の4回優勝。リーグが統一されてからも勢いは衰えず、2003-04シーズンにリーグ初優勝を果たした。
+[ユーゴスラビア時代は](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")[ユーゴスラビア・プルヴァ・リーガ](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")（1部リーグに相当）に昇格した経験が無く、地方の小クラブにすぎなかった。ボスニア・ヘルツェゴビアの独立後に実施されたクロアチア人リーグ（ヘルツェグ・ボスニアリーグ）において最多の4回優勝。リーグが統一されてからも勢いは衰えず、2003-04シーズンにリーグ初優勝を果たした。
 
 ## タイトル
 
@@ -87,7 +87,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–4</p></td>
@@ -97,12 +97,12 @@
 </tr>
 <tr class="odd">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
 <td><p><a href="../Page/ネフチ・バクー.md" title="wikilink">ネフチ・バクー</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–1</p></td>
-<td><p>'''2–2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2–2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバーゼル" title="wikilink">バーゼル</a></p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–5</p></td>
 <td><p>'''0–6</p></td>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハート・オブ・ミドロシアンFC" title="wikilink">ハート・オブ・ミドロシアン</a></p></td>
+<td><p><a href="../Page/ハート・オブ・ミドロシアンFC.md" title="wikilink">ハート・オブ・ミドロシアン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–3</p></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハポエル・テルアビブFC" title="wikilink">ハポエル・テルアビブ</a></p></td>
+<td><p><a href="../Page/ハポエル・テルアビブFC.md" title="wikilink">ハポエル・テルアビブ</a></p></td>
 <td><p>0–3</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–6</p></td>
@@ -187,7 +187,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1–6</p></td>
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKシュトゥルム・グラーツ" title="wikilink">シュトゥルム・グラーツ</a></p></td>
+<td><p><a href="../Page/SKシュトゥルム・グラーツ.md" title="wikilink">シュトゥルム・グラーツ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–3</p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン" title="wikilink">アウストリア・ウィーン</a></p></td>
+<td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>0–1</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2–3</p></td>
@@ -268,7 +268,7 @@
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ" title="wikilink">ウディネーゼ</a></p></td>
+<td><p><a href="../Page/ウディネーゼ・カルチョ.md" title="wikilink">ウディネーゼ</a></p></td>
 <td><p>1–3</p></td>
 <td><p>0–4</p></td>
 <td><p>'''1–7</p></td>
@@ -318,7 +318,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アバディーンFC" title="wikilink">アバディーン</a></p></td>
+<td><p><a href="../Page/アバディーンFC.md" title="wikilink">アバディーン</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1-3</p></td>
@@ -417,7 +417,7 @@
 
   - [ニコラ・ユリチッチ](https://ja.wikipedia.org/wiki/ニコラ・ユリチッチ "wikilink")\[8\]
 
-  - [サシャ・パパツ](https://ja.wikipedia.org/wiki/サシャ・パパツ "wikilink")\[9\]
+  - [サシャ・パパツ](../Page/サシャ・パパツ.md "wikilink")\[9\]
 
   - [トニ・マルキッチ](https://ja.wikipedia.org/wiki/トニ・マルキッチ "wikilink")\[10\]
 
@@ -447,7 +447,7 @@
 
   - [ヨゾ・シュピキッチ](https://ja.wikipedia.org/wiki/ヨゾ・シュピキッチ "wikilink")
 
-  - [ミルコ・マリッチ](https://ja.wikipedia.org/wiki/ミルコ・マリッチ "wikilink")
+  - [ミルコ・マリッチ](../Page/ミルコ・マリッチ.md "wikilink")
 
   - [ニコラ・マリッチ](https://ja.wikipedia.org/wiki/ニコラ・マリッチ "wikilink")
 

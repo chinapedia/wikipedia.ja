@@ -1,27 +1,27 @@
 > この記事は[Full of Love](https://ja.wikipedia.org/wiki/Full_of_Love)から翻訳されています。
 
 
-『**Full of Love**』（フル・オブ・ラブ）は、[工藤静香](../Page/工藤静香.md "wikilink")の14枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+『**Full of Love**』（フル・オブ・ラブ）は、[工藤静香](../Page/工藤静香.md "wikilink")の14枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 ## 解説
 
   - 本作を引っ提げて行った全国ツアーでは「**[Blue Zone](../Page/Blue_Zone.md "wikilink")**」「**ZIGUZAGU**」をダンス付きで披露した。
   - この時期サーフィンに凝っていたこともあり「**SEASIDE**」で海に対する思いをぶつけられたと発言している。
-  - 本作を引っ提げて全国ツアー『[工藤静香 Full of Love Concert Tour 1999](https://ja.wikipedia.org/wiki/工藤静香_Full_of_Love_Concert_Tour_1999 "wikilink")』を行った。
+  - 本作を引っ提げて全国ツアー『[工藤静香 Full of Love Concert Tour 1999](../Page/工藤静香_Full_of_Love_Concert_Tour_1999.md "wikilink")』を行った。
   - ソロデビュー20周年記念コンサート「Shisuka Kudo 20th Anniversary the Best」（2007年8月&9月）では「**color**」を久々に披露。
 
 ## 収録曲
 
 1.  **[Blue Zone](../Page/Blue_Zone.md "wikilink")** （4:13）
-      - 作詞：愛絵理 、作曲：[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink") 、編曲：澤近泰輔
+      - 作詞：愛絵理 、作曲：[都志見隆](../Page/都志見隆.md "wikilink") 、編曲：澤近泰輔
 2.  **ダイナマイト** （4:05）
-      - 作詞：愛絵理 、作曲：南木直樹 、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink") 、コーラスアレンジ：佐々木久美
+      - 作詞：愛絵理 、作曲：南木直樹 、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink") 、コーラスアレンジ：佐々木久美
 3.  **Toward…** （4:25）
       - 作詞：愛絵理 、作曲：寺田一郎 、編曲：澤近泰輔
 4.  **LOOSE** （4:19）
       - 作詞：愛絵理 、作曲：桑原秀明 、編曲：羽田一郎
 5.  **ずっと** （5:03）
-      - 作詞：愛絵理 、作曲：[楠瀬誠志郎](https://ja.wikipedia.org/wiki/楠瀬誠志郎 "wikilink") 、編曲：澤近泰輔・楠瀬誠志郎
+      - 作詞：愛絵理 、作曲：[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink") 、編曲：澤近泰輔・楠瀬誠志郎
 6.  **SEASIDE** （4:50）
       - 作詞：愛絵理 、作曲：楠瀬誠志郎 、編曲：澤近泰輔
 7.  **Super** （4:40）
@@ -39,7 +39,7 @@
 ## 関連作品
 
   - **Blue Zone**
-      - [ミレニアム・ベスト](https://ja.wikipedia.org/wiki/ミレニアム・ベスト_\(工藤静香のアルバム\) "wikilink")
+      - [ミレニアム・ベスト](../Page/ミレニアム・ベスト_\(工藤静香のアルバム\).md "wikilink")
 
 ## 関連項目
 

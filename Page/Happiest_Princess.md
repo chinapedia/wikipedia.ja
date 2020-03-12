@@ -1,18 +1,18 @@
 > この記事は[Happiest Princess](https://ja.wikipedia.org/wiki/Happiest_Princess)から翻訳されています。
 
 
-「**Happiest Princess**」（ハッピエスト・プリンセス）は、[新谷良子](../Page/新谷良子.md "wikilink")の7th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[Lantisからリリースされた](https://ja.wikipedia.org/wiki/ランティス "wikilink")。販売元は[キングレコード](../Page/キングレコード.md "wikilink")。
+「**Happiest Princess**」（ハッピエスト・プリンセス）は、[新谷良子](../Page/新谷良子.md "wikilink")の7th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")である。[2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[Lantisからリリースされた](../Page/ランティス.md "wikilink")。販売元は[キングレコード](../Page/キングレコード.md "wikilink")。
 
 ## 解説
 
 ## 収録曲
 
 1.  **Happiest Princess** \[3:29\]
-      - 作詞・作曲：[Funta](https://ja.wikipedia.org/wiki/Funta "wikilink")、編曲：[宅見将典](https://ja.wikipedia.org/wiki/宅見将典 "wikilink")
-      - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[White Princess the second 〜やっぱり一途にいってもそうじゃなくてもOKなご都合主義学園恋愛アドベンチャー\!\!〜](https://ja.wikipedia.org/wiki/White_Princess_the_second_〜やっぱり一途にいってもそうじゃなくてもOKなご都合主義学園恋愛アドベンチャー!!〜 "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - 作詞・作曲：[Funta](../Page/Funta.md "wikilink")、編曲：[宅見将典](../Page/宅見将典.md "wikilink")
+      - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[White Princess the second 〜やっぱり一途にいってもそうじゃなくてもOKなご都合主義学園恋愛アドベンチャー\!\!〜](https://ja.wikipedia.org/wiki/White_Princess_the_second_〜やっぱり一途にいってもそうじゃなくてもOKなご都合主義学園恋愛アドベンチャー!!〜 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **バタフライ** \[3:51\]
       - 作詞・作曲・編曲：[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink")
-      - インターネットラジオ『[ねこだもん。](https://ja.wikipedia.org/wiki/ねこだもん。 "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
+      - インターネットラジオ『[ねこだもん。](../Page/ねこだもん。.md "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
 3.  Happiest Princess（off vocal）
 4.  バタフライ（off vocal）
 

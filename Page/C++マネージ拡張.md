@@ -1,9 +1,9 @@
 > この記事は[C++](https://ja.wikipedia.org/wiki/C++)から翻訳されています。
 
 
-**C++マネージ拡張** (****, ****) は、[C++](../Page/C++.md "wikilink")で[.NET Frameworkアプリケーションを記述するための](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")によるC++の拡張である。これによって、C++で[ネイティブコード](https://ja.wikipedia.org/wiki/ネイティブコード "wikilink")だけでなく[共通言語ランタイム](../Page/共通言語ランタイム.md "wikilink") (CLR) に向けた[アプリケーションを記述できる](../Page/アプリケーションソフトウェア.md "wikilink")。この拡張は、[2002年](../Page/2002年.md "wikilink")にリリースされた[Visual Studio .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") (2002) に含まれる[Visual C++ .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink") (2002) に初めて搭載された。
+**C++マネージ拡張** (****, ****) は、[C++](../Page/C++.md "wikilink")で[.NET Frameworkアプリケーションを記述するための](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")によるC++の拡張である。これによって、C++で[ネイティブコード](https://ja.wikipedia.org/wiki/ネイティブコード "wikilink")だけでなく[共通言語ランタイム](../Page/共通言語ランタイム.md "wikilink") (CLR) に向けた[アプリケーションを記述できる](../Page/アプリケーションソフトウェア.md "wikilink")。この拡張は、[2002年](../Page/2002年.md "wikilink")にリリースされた[Visual Studio .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") (2002) に含まれる[Visual C++ .NET](../Page/Microsoft_Visual_C++.md "wikilink") (2002) に初めて搭載された。
 
-なお、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")後半にリリースされたVisual Studio 2005では、より洗練された[C++/CLI](https://ja.wikipedia.org/wiki/C++/CLI "wikilink")という独立した後継言語が登場し、C++マネージ拡張は非推奨となった。さらにVisual Studio 2015では廃止され、C++/CLIへの移行が促されている\[1\]\[2\]。
+なお、[2005年](../Page/2005年.md "wikilink")後半にリリースされたVisual Studio 2005では、より洗練された[C++/CLI](https://ja.wikipedia.org/wiki/C++/CLI "wikilink")という独立した後継言語が登場し、C++マネージ拡張は非推奨となった。さらにVisual Studio 2015では廃止され、C++/CLIへの移行が促されている\[1\]\[2\]。
 
 マネージドC++およびC++/CLIで記述されたアプリケーションは、C\#など他の.NET言語同様に[共通中間言語](../Page/共通中間言語.md "wikilink") (CIL) と呼ばれる[中間言語](../Page/中間言語.md "wikilink")にコンパイルされる。「マネージ (Managed)」とは、.NET[仮想マシンによって管理されながら動作するという意味である](../Page/仮想機械.md "wikilink")。このため、[ガベージコレクタ](https://ja.wikipedia.org/wiki/ガベージコレクタ "wikilink")などのCLRの機能を利用することができ、[C\#や](../Page/C_Sharp.md "wikilink")[VB.NETなどといった](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink").NET言語のコードを呼び出したり呼び出されたりといた相互運用ができる。
 

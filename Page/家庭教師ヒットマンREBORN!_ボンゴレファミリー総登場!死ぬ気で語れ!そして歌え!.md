@@ -1,30 +1,30 @@
 > この記事は[REBORN! !!!](https://ja.wikipedia.org/wiki/REBORN!_!!!)から翻訳されています。
 
 
-『**家庭教師ヒットマンREBORN\! ボンゴレファミリー総登場\!死ぬ気で語れ\!そして歌え\!**』（かてきょーヒットマンリボーン ボンゴレファミリーそうとうじょう しぬきでかたれ そしてうたえ）は、「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」（[集英社](../Page/集英社.md "wikilink")）連載の漫画『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』の[キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。
+『**家庭教師ヒットマンREBORN\! ボンゴレファミリー総登場\!死ぬ気で語れ\!そして歌え\!**』（かてきょーヒットマンリボーン ボンゴレファミリーそうとうじょう しぬきでかたれ そしてうたえ）は、「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」（[集英社](../Page/集英社.md "wikilink")）連載の漫画『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』の[キャラクターソング](../Page/キャラクターソング.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。
 
-主人公・ツナのファミリーと家庭教師、および関係のある主要な登場人物が、それぞれのテーマソングを[BGMに語っている](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。ジャケットはキャラクター19人のSDイラスト。
+主人公・ツナのファミリーと家庭教師、および関係のある主要な登場人物が、それぞれのテーマソングを[BGMに語っている](../Page/バックグラウンドミュージック.md "wikilink")。ジャケットはキャラクター19人のSDイラスト。
 
 ## キャスト
 
-  - リボーン：[ニーコ](https://ja.wikipedia.org/wiki/ニーコ "wikilink")
-  - [沢田綱吉](https://ja.wikipedia.org/wiki/沢田綱吉 "wikilink")：[國分優香里](https://ja.wikipedia.org/wiki/國分優香里 "wikilink")
-  - [獄寺隼人](https://ja.wikipedia.org/wiki/獄寺隼人 "wikilink")：[市瀬秀和](https://ja.wikipedia.org/wiki/市瀬秀和 "wikilink")
-  - [山本武](https://ja.wikipedia.org/wiki/山本武_\(家庭教師ヒットマンREBORN!\) "wikilink")：[井上優](https://ja.wikipedia.org/wiki/井上優_\(声優\) "wikilink")
-  - 笹川了平：[木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")
+  - リボーン：[ニーコ](../Page/ニーコ.md "wikilink")
+  - [沢田綱吉](https://ja.wikipedia.org/wiki/沢田綱吉 "wikilink")：[國分優香里](../Page/國分優香里.md "wikilink")
+  - [獄寺隼人](../Page/獄寺隼人.md "wikilink")：[市瀬秀和](../Page/市瀬秀和.md "wikilink")
+  - [山本武](../Page/山本武_\(家庭教師ヒットマンREBORN!\).md "wikilink")：[井上優](../Page/井上優_\(声優\).md "wikilink")
+  - 笹川了平：[木内秀信](../Page/木内秀信.md "wikilink")
   - 雲雀恭弥：[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")
-  - 六道骸：[飯田利信](https://ja.wikipedia.org/wiki/飯田利信 "wikilink")
-  - [子供ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink")：[竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
-  - [大人ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink")：[津田健次郎](https://ja.wikipedia.org/wiki/津田健次郎 "wikilink")
+  - 六道骸：[飯田利信](../Page/飯田利信.md "wikilink")
+  - [子供ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink")：[竹内順子](../Page/竹内順子.md "wikilink")
+  - [大人ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink")：[津田健次郎](../Page/津田健次郎.md "wikilink")
   - 笹川京子：稲村優奈
   - 三浦ハル：吉田仁美
   - イーピン：チャン・リーメイ
 
 ## 収録曲
 
-全作曲・編曲：[佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+全作曲・編曲：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
 
-1.  オープニング（[Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")） \[1:09\]
+1.  オープニング（[Instrumental](../Page/器楽曲.md "wikilink")） \[1:09\]
 2.  *晴れて極限* \[4:20\]
       -
         出演：笹川了平、リボーン、沢田綱吉、獄寺隼人、山本武、雲雀恭弥、六道骸、子供ランボ
@@ -68,8 +68,8 @@
 
 ## スタッフ
 
-  - 原作: [天野明](https://ja.wikipedia.org/wiki/天野明 "wikilink")「週刊少年ジャンプ」（集英社）連載
-    音楽: [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - 原作: [天野明](../Page/天野明.md "wikilink")「週刊少年ジャンプ」（集英社）連載
+    音楽: [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
     脚本: [三井秀樹](https://ja.wikipedia.org/wiki/三井秀樹 "wikilink")
     キャスティング: 野上祥子
     プロデューサー: [片岡義朗](../Page/片岡義朗.md "wikilink")

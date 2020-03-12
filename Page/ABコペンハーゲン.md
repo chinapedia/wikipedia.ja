@@ -1,9 +1,9 @@
 > この記事は[AB](https://ja.wikipedia.org/wiki/AB)から翻訳されています。
 
 
-**アカデミスク・ボルドクラブ・グラッドサクセ** () 、通称**AB**は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](https://ja.wikipedia.org/wiki/コペンハーゲン "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2016-17シーズンは[デンマーク・ファーストディビジョン](https://ja.wikipedia.org/wiki/デンマーク・ファーストディビジョン "wikilink")（2部）に所属する。
+**アカデミスク・ボルドクラブ・グラッドサクセ** () 、通称**AB**は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2016-17シーズンは[デンマーク・ファーストディビジョン](https://ja.wikipedia.org/wiki/デンマーク・ファーストディビジョン "wikilink")（2部）に所属する。
 
-1889年に学生達の手によって創設された。かつては著名な物理学者[ニールス・ボーア](../Page/ニールス・ボーア.md "wikilink")の弟で、数学者の[ハラルト・ボーア](https://ja.wikipedia.org/wiki/ハラルト・ボーア "wikilink")が[ミッドフィールダー](../Page/ミッドフィールダー.md "wikilink")として所属していた（ニールスは[ゴールキーパーであった](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")）。1970年代からは成績が低迷し下位リーグに沈んでいたが、1990年代後半に1部リーグへ復帰し、1998-99シーズンのカップ戦で優勝した。
+1889年に学生達の手によって創設された。かつては著名な物理学者[ニールス・ボーア](../Page/ニールス・ボーア.md "wikilink")の弟で、数学者の[ハラルト・ボーア](https://ja.wikipedia.org/wiki/ハラルト・ボーア "wikilink")が[ミッドフィールダー](../Page/ミッドフィールダー.md "wikilink")として所属していた（ニールスは[ゴールキーパーであった](../Page/ゴールキーパー_\(サッカー\).md "wikilink")）。1970年代からは成績が低迷し下位リーグに沈んでいたが、1990年代後半に1部リーグへ復帰し、1998-99シーズンのカップ戦で優勝した。
 
 ## タイトル
 
@@ -70,13 +70,13 @@
 
   - [ハラルト・ボーア](https://ja.wikipedia.org/wiki/ハラルト・ボーア "wikilink")
 
-  - [ケネス・ペレス](https://ja.wikipedia.org/wiki/ケネス・ペレス "wikilink") 1993-1995
+  - [ケネス・ペレス](../Page/ケネス・ペレス.md "wikilink") 1993-1995
 
   - [ペーター・レーヴェンクランズ](../Page/ペーター・レーヴェンクランズ.md "wikilink") 1997-2000
 
-  - [ブライアン・スティーン・ニールセン](https://ja.wikipedia.org/wiki/ブライアン・スティーン・ニールセン "wikilink") 1998-2000
+  - [ブライアン・スティーン・ニールセン](../Page/ブライアン・スティーン・ニールセン.md "wikilink") 1998-2000
 
-  - [モハメド・ジダン](https://ja.wikipedia.org/wiki/モハメド・ジダン "wikilink") 1999-2003
+  - [モハメド・ジダン](../Page/モハメド・ジダン.md "wikilink") 1999-2003
 
   - [ジェイミー・スラッバー](https://ja.wikipedia.org/wiki/ジェイミー・スラッバー "wikilink") 2004
 

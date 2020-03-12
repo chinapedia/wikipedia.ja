@@ -1,7 +1,7 @@
 > この記事は[Speedometer.](https://ja.wikipedia.org/wiki/Speedometer.)から翻訳されています。
 
 
-**speedometer.**（スピードメーター）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")**高山純**の[ソロユニットである](../Page/一人バンド.md "wikilink")。1997年より活動開始。[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[アブストラクト](https://ja.wikipedia.org/wiki/アブストラクト "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")、[アンビエント](https://ja.wikipedia.org/wiki/アンビエント "wikilink")などが融合したボーダレスな電子音楽世界が特長。
+**speedometer.**（スピードメーター）は[大阪府](../Page/大阪府.md "wikilink")出身[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")**高山純**の[ソロユニットである](../Page/一人バンド.md "wikilink")。1997年より活動開始。[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、[アブストラクト](https://ja.wikipedia.org/wiki/アブストラクト "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ドラムンベース](../Page/ドラムンベース.md "wikilink")、[アンビエント](https://ja.wikipedia.org/wiki/アンビエント "wikilink")などが融合したボーダレスな電子音楽世界が特長。
 
 ## ディスコグラフィー
 
@@ -81,7 +81,7 @@
 2.  [AIR](../Page/車谷浩司.md "wikilink")「**NEO KAMIKAZE**」（ 2000年2月23日 ）
       -
         2.NEO KAMIKAZE(REMIXED BY SPEEDOMETER)
-3.  [SOUL SCREAM](https://ja.wikipedia.org/wiki/SOUL_SCREAM "wikilink")「**THE POSITIVE ENERGY**」（2000年2月23日）
+3.  [SOUL SCREAM](../Page/SOUL_SCREAM.md "wikilink")「**THE POSITIVE ENERGY**」（2000年2月23日）
       -
         2.魂の叫び(speedometer boogie mix)
 4.  L.A.M.N.(line And Meter Nova Society)～[Spangle call Lilli line](https://ja.wikipedia.org/wiki/Spangle_call_Lilli_line "wikilink")～speedometer～[SPANOVA](../Page/SPANOVA.md "wikilink")「**SP-つながり**」（2003年10月16日）
@@ -92,11 +92,11 @@
 ## 関連項目
 
   - [伊瀬聖子](https://ja.wikipedia.org/wiki/伊瀬聖子 "wikilink")
-  - [イルリメ](https://ja.wikipedia.org/wiki/イルリメ "wikilink")
-  - [田中フミヤ](https://ja.wikipedia.org/wiki/田中フミヤ "wikilink")
-  - [NIRGILIS](https://ja.wikipedia.org/wiki/NIRGILIS "wikilink")
+  - [イルリメ](../Page/イルリメ.md "wikilink")
+  - [田中フミヤ](../Page/田中フミヤ.md "wikilink")
+  - [NIRGILIS](../Page/NIRGILIS.md "wikilink")
   - [トレモロイド](https://ja.wikipedia.org/wiki/トレモロイド "wikilink")
-  - [ビッグポルノ](https://ja.wikipedia.org/wiki/ビッグポルノ "wikilink")
+  - [ビッグポルノ](../Page/ビッグポルノ.md "wikilink")
 
 ## 外部リンク
 

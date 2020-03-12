@@ -41,7 +41,7 @@ END
 
 `WAITFOR` は、指定された時間だけ待つか、指定された時刻まで待つ。遅延制御に使ったり、指定時刻まで実行をブロックするのに使われる。
 
-`RETURN` は、[ストアドプロシージャ](https://ja.wikipedia.org/wiki/ストアドプロシージャ "wikilink")や関数から即座に戻るときに使う。
+`RETURN` は、[ストアドプロシージャ](../Page/ストアドプロシージャ.md "wikilink")や関数から即座に戻るときに使う。
 
 `BREAK` は `WHILE` ループからの脱出、`CONTINUE` はループの次の繰り返しへの飛び越しである。`WHILE` ループの例は下記にある。
 
@@ -226,7 +226,7 @@ DEALLOCATE CUR_CALENDAR_UPDATE
 
 ## 批判
 
-Transact-SQL は[PL/SQL](https://ja.wikipedia.org/wiki/PL/SQL "wikilink")同様、機能を追加することで SQL 標準との互換性が損なわれているだけでなく、SQLが本来保持すべきモジュール性を破壊していると批判されている。換言すれば、Transact-SQL の追加機能は普通ならプログラミング言語や[埋め込みSQLに実装されるべきものである](https://ja.wikipedia.org/wiki/SQL#埋め込みSQL "wikilink")。そのため、[制御構造](https://ja.wikipedia.org/wiki/制御構造 "wikilink")をプログラミング言語でも SQL でも指定可能になってしまい、混乱が生じる。
+Transact-SQL は[PL/SQL](https://ja.wikipedia.org/wiki/PL/SQL "wikilink")同様、機能を追加することで SQL 標準との互換性が損なわれているだけでなく、SQLが本来保持すべきモジュール性を破壊していると批判されている。換言すれば、Transact-SQL の追加機能は普通ならプログラミング言語や[埋め込みSQLに実装されるべきものである](https://ja.wikipedia.org/wiki/SQL#埋め込みSQL "wikilink")。そのため、[制御構造](../Page/制御構造.md "wikilink")をプログラミング言語でも SQL でも指定可能になってしまい、混乱が生じる。
 
 ## 関連項目
 

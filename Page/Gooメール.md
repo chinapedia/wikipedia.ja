@@ -1,7 +1,7 @@
 > この記事は[Goo](https://ja.wikipedia.org/wiki/Goo)から翻訳されています。
 
 
-**gooメール**（グーメール）は、[NTTレゾナント](https://ja.wikipedia.org/wiki/NTTレゾナント "wikilink")が運営する総合[ポータルサイト](../Page/ポータルサイト.md "wikilink")の[goo](https://ja.wikipedia.org/wiki/goo "wikilink")が提供している有償[電子メール](../Page/電子メール.md "wikilink")サービス。無料版は、2015年に終了した\[1\]。
+**gooメール**（グーメール）は、[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が運営する総合[ポータルサイト](../Page/ポータルサイト.md "wikilink")の[goo](https://ja.wikipedia.org/wiki/goo "wikilink")が提供している有償[電子メール](../Page/電子メール.md "wikilink")サービス。無料版は、2015年に終了した\[1\]。
 
 ## 沿革
 
@@ -29,7 +29,7 @@
   - [絵文字](../Page/絵文字.md "wikilink")
 
   - [ウイルスチェック](https://ja.wikipedia.org/wiki/ウイルスチェック "wikilink")
-    全送受信メールに対して、[カスペルスキー](https://ja.wikipedia.org/wiki/カスペルスキー "wikilink")によるウイルスの検知・駆除
+    全送受信メールに対して、[カスペルスキー](../Page/カスペルスキー.md "wikilink")によるウイルスの検知・駆除
 
   - [迷惑メール](https://ja.wikipedia.org/wiki/迷惑メール "wikilink")フィルター
 
@@ -42,7 +42,7 @@
   - 受信者側の[広告](../Page/広告.md "wikilink")表示無し
 
   - 外部メールアドレス送受信機能
-    [プロバイダメールや他の](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")[フリーメールなどを送受信できる](https://ja.wikipedia.org/wiki/フリーメールサービス "wikilink")。
+    [プロバイダメールや他の](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")[フリーメールなどを送受信できる](../Page/フリーメールサービス.md "wikilink")。
 
   - gooメールチェッカー
     gooメールでは新着メール到着時に[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")上で通知をする「gooメールチェッカー」が提供されている。通常のWebメールでは、ブラウザでメールサービスにアクセスして初めてメールの着信を知ることになるが、このツールを使用すればブラウザで確認することなくメールの着信を知ることができる。
@@ -53,7 +53,7 @@
   - スマートフォン版
     2011年6月21日より提供開始。\[7\] 下記スマートフォンからgooメール（http://mail.goo.ne.jp/index.html ）へアクセスすると自動的にスマートフォンにあった画面になる。
 
-      - 推奨環境 : スマートフォン：NTTドコモ、[au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")の[Android](https://ja.wikipedia.org/wiki/Android "wikilink")端末、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")3.0以降の端末
+      - 推奨環境 : スマートフォン：NTTドコモ、[au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")の[Android](../Page/Android.md "wikilink")端末、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")3.0以降の端末
 
 ### 有料版の追加機能およびサービス
 

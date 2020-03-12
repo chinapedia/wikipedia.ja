@@ -1,11 +1,11 @@
 > この記事は[Second VERSE](https://ja.wikipedia.org/wiki/Second_VERSE)から翻訳されています。
 
 
-**second VERSE**（セカンド バース）は、[より子](https://ja.wikipedia.org/wiki/より子 "wikilink")のメジャー2枚目のアルバム。
+**second VERSE**（セカンド バース）は、[より子](../Page/より子.md "wikilink")のメジャー2枚目のアルバム。
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売された。作詞・作曲は[より子](https://ja.wikipedia.org/wiki/より子 "wikilink")（「HIKARI」のみ作詞・作曲：Fumiko & より子）。
+[2006年](../Page/2006年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売された。作詞・作曲は[より子](../Page/より子.md "wikilink")（「HIKARI」のみ作詞・作曲：Fumiko & より子）。
 
 タイトルは直訳すると「第2章」という意味に取れるが、2枚目のアルバムであることと、もう一度生まれ変わること（「VERSE」を「BIRTH」に掛けている）の2つの意味を持っている。前作『[Cocoon](../Page/Cocoon_\(より子のアルバム\).md "wikilink")』はコンセプトアルバムとなっていたのに対し、今作はその時その時で自分の中に生まれたものをそのまま再現することにこだわって制作が進められた。
 
@@ -17,11 +17,11 @@
       - ビデオプランニング配給映画『ユリシス』エンディングテーマ
     <!-- end list -->
       -
-        「HIKARI」の[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")レコーディングの際に作ったという楽曲。タイトルはニューヨークの「N.Y.」でもあるが、ニューヨークレコーディングを通して新しく生まれ変わった自分、「New Yorico」という言葉からも取られている。タイアップはアルバム発売後の[6月](../Page/6月.md "wikilink")に決定された。
+        「HIKARI」の[ニューヨーク](../Page/ニューヨーク.md "wikilink")レコーディングの際に作ったという楽曲。タイトルはニューヨークの「N.Y.」でもあるが、ニューヨークレコーディングを通して新しく生まれ変わった自分、「New Yorico」という言葉からも取られている。タイアップはアルバム発売後の[6月](../Page/6月.md "wikilink")に決定された。
 2.  タイヨウ
       -
         本人曰く、タイトルをカタカナにしたのは漢字で「太陽」とするイメージではなかったからであるという。
-3.  [さあ今きみと](https://ja.wikipedia.org/wiki/さあ今きみと "wikilink")
+3.  [さあ今きみと](../Page/さあ今きみと.md "wikilink")
 4.  [HIKARI](https://ja.wikipedia.org/wiki/HIKARI/ダイアの花 "wikilink")
 5.  復唱
       -
@@ -50,7 +50,7 @@
 
 ## 関連項目
 
-  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+  - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
 
 ## 外部リンク
 

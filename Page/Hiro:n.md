@@ -5,9 +5,9 @@
 
 ## 来歴
 
-幼稚園から高校までピアノを習う。高校に入りキーボードとして兄のバンドを初め、いくつかのバンドを掛け持ちしていた。高校3年の時、**TEENS' MUSIC FESTIVAL '97 全国大会**に友人**PON**とアカペラユニット**ひろポン**として出場し、**あんたが大賞**、**奨励賞**の2つを受賞した。その際の曲は[ハンソンの](../Page/ハンソン_\(バンド\).md "wikilink")[MMMBop](https://ja.wikipedia.org/wiki/キラメキ☆MMMBOP（ンー・バップ） "wikilink")。[北海道室蘭栄高等学校](https://ja.wikipedia.org/wiki/北海道室蘭栄高等学校 "wikilink")卒業後、[東京家政大学](https://ja.wikipedia.org/wiki/東京家政大学 "wikilink")[家政学部](https://ja.wikipedia.org/wiki/家政学部 "wikilink")服飾美術学科に進む。この頃から作曲を始め、デモテープをきっかけに在学中の2000年にメジャーデビューを果たした。
+幼稚園から高校までピアノを習う。高校に入りキーボードとして兄のバンドを初め、いくつかのバンドを掛け持ちしていた。高校3年の時、**TEENS' MUSIC FESTIVAL '97 全国大会**に友人**PON**とアカペラユニット**ひろポン**として出場し、**あんたが大賞**、**奨励賞**の2つを受賞した。その際の曲は[ハンソンの](../Page/ハンソン_\(バンド\).md "wikilink")[MMMBop](https://ja.wikipedia.org/wiki/キラメキ☆MMMBOP（ンー・バップ） "wikilink")。[北海道室蘭栄高等学校](../Page/北海道室蘭栄高等学校.md "wikilink")卒業後、[東京家政大学](../Page/東京家政大学.md "wikilink")[家政学部](../Page/家政学部.md "wikilink")服飾美術学科に進む。この頃から作曲を始め、デモテープをきっかけに在学中の2000年にメジャーデビューを果たした。
 
-[2000年](../Page/2000年.md "wikilink")、ヒートウェーヴ（[日本コロムビア](../Page/日本コロムビア.md "wikilink")）よりメジャーデビュー。[2003年](../Page/2003年.md "wikilink")、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")へ移籍後、1枚のアルバムを発売。4年間のライブ・創作活動を経て[2007年](../Page/2007年.md "wikilink")、自主レーベル**edo-mondo records**より**Hiroko Nakajima**名義でミニアルバムを発売。
+[2000年](../Page/2000年.md "wikilink")、ヒートウェーヴ（[日本コロムビア](../Page/日本コロムビア.md "wikilink")）よりメジャーデビュー。[2003年](../Page/2003年.md "wikilink")、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")へ移籍後、1枚のアルバムを発売。4年間のライブ・創作活動を経て[2007年](../Page/2007年.md "wikilink")、自主レーベル**edo-mondo records**より**Hiroko Nakajima**名義でミニアルバムを発売。
 
 ## 人物
 
@@ -111,7 +111,7 @@
 </p></td>
 <td><p><small>1.Dirty Shoes<br />
 2.Rendez-vous<br />
-3.Dirty Shoes(<a href="https://ja.wikipedia.org/wiki/DJ_KRUSH" title="wikilink">DJ KRUSH</a> Remix)</small></p></td>
+3.Dirty Shoes(<a href="../Page/DJ_KRUSH.md" title="wikilink">DJ KRUSH</a> Remix)</small></p></td>
 <td><p><small>2001年8月29日</small></p></td>
 <td><p><small></small></p></td>
 </tr>
@@ -678,9 +678,9 @@ STYLE 2001</strong></small></p></td>
 
   - [中村文俊](https://ja.wikipedia.org/wiki/中村文俊 "wikilink")
   - [本山清治](../Page/本山清治.md "wikilink")
-  - [Α-IMAGE ARTIST PROGRAM](https://ja.wikipedia.org/wiki/Α-IMAGE_ARTIST_PROGRAM "wikilink")
+  - [Α-IMAGE ARTIST PROGRAM](../Page/Α-IMAGE_ARTIST_PROGRAM.md "wikilink")
   - [GIRL POP FACTORY](https://ja.wikipedia.org/wiki/GIRL_POP_FACTORY "wikilink")
-  - [HITS CUTS NOW](https://ja.wikipedia.org/wiki/HITS_CUTS_NOW "wikilink")
+  - [HITS CUTS NOW](../Page/HITS_CUTS_NOW.md "wikilink")
 
 ## 外部リンク
 

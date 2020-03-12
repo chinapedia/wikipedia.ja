@@ -1,7 +1,7 @@
 > この記事は[Io \(\)](https://ja.wikipedia.org/wiki/Io_\(\))から翻訳されています。
 
 
-**Io**（イオあるいはアイオー\[1\]）は純粋な[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")であり、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Self](../Page/Self.md "wikilink")、[Lua](../Page/Lua.md "wikilink")、[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")、Act1、の影響を受けている。Self や NewtonScript のような[プロトタイプベース](https://ja.wikipedia.org/wiki/プロトタイプベース "wikilink")のオブジェクトモデルであり、[オブジェクトと](../Page/オブジェクト_\(プログラミング\).md "wikilink")[クラスを区別しない](../Page/クラス_\(コンピュータ\).md "wikilink")。Smalltalk のようにあらゆるものをオブジェクトとして扱い、[動的型付け](https://ja.wikipedia.org/wiki/動的型付け "wikilink")を行う。LISPのように文の概念がなく、[制御フロー](https://ja.wikipedia.org/wiki/制御フロー "wikilink")は関数を使って実現される。Io は[アクターによる並行性を実現しており](../Page/アクターモデル.md "wikilink")、のプログラミング言語には珍しい特徴となっている。
+**Io**（イオあるいはアイオー\[1\]）は純粋な[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")であり、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Self](../Page/Self.md "wikilink")、[Lua](../Page/Lua.md "wikilink")、[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")、Act1、の影響を受けている。Self や NewtonScript のような[プロトタイプベース](../Page/プロトタイプベース.md "wikilink")のオブジェクトモデルであり、[オブジェクトと](../Page/オブジェクト_\(プログラミング\).md "wikilink")[クラスを区別しない](../Page/クラス_\(コンピュータ\).md "wikilink")。Smalltalk のようにあらゆるものをオブジェクトとして扱い、[動的型付け](../Page/動的型付け.md "wikilink")を行う。LISPのように文の概念がなく、[制御フロー](https://ja.wikipedia.org/wiki/制御フロー "wikilink")は関数を使って実現される。Io は[アクターによる並行性を実現しており](../Page/アクターモデル.md "wikilink")、のプログラミング言語には珍しい特徴となっている。
 
 Io の特筆すべき特徴は、その効率のよさ、処理系の小ささ、外部リソースを自由に使えるオープン性である。Io は小型で移植性の高い[仮想機械](../Page/仮想機械.md "wikilink")で実行される。
 
@@ -15,17 +15,17 @@ Io の目的は概念的な統一 (conceptual unification) と[動的言語](htt
 
 ## 機能/特徴
 
-  - [プロトタイプベース](https://ja.wikipedia.org/wiki/プロトタイプベース "wikilink")の純粋な[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")
+  - [プロトタイプベース](../Page/プロトタイプベース.md "wikilink")の純粋な[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")
   - [例外処理](../Page/例外処理.md "wikilink")
   - [Perl](../Page/Perl.md "wikilink")風の[正規表現](../Page/正規表現.md "wikilink")
-  - [弱い参照](https://ja.wikipedia.org/wiki/弱い参照 "wikilink")をサポートするインクリメンタル[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")
-  - 高[移植性](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")
+  - [弱い参照](../Page/弱い参照.md "wikilink")をサポートするインクリメンタル[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")
+  - 高[移植性](../Page/移植_\(ソフトウェア\).md "wikilink")
   - [DLL](../Page/ダイナミックリンクライブラリ.md "wikilink")/[共有ライブラリの動的ローディング](../Page/ライブラリ.md "wikilink")
-  - イントロスペクション、[リフレクション](https://ja.wikipedia.org/wiki/リフレクション_\(情報工学\) "wikilink")、[メタプログラミング](https://ja.wikipedia.org/wiki/メタプログラミング "wikilink")
-  - [アクターモデル](../Page/アクターモデル.md "wikilink")に基づく[並行性](https://ja.wikipedia.org/wiki/並行性 "wikilink")
-  - [コルーチン](https://ja.wikipedia.org/wiki/コルーチン "wikilink")
+  - イントロスペクション、[リフレクション](../Page/リフレクション_\(情報工学\).md "wikilink")、[メタプログラミング](../Page/メタプログラミング.md "wikilink")
+  - [アクターモデル](../Page/アクターモデル.md "wikilink")に基づく[並行性](../Page/並行性.md "wikilink")
+  - [コルーチン](../Page/コルーチン.md "wikilink")
   - 小規模な[仮想機械](../Page/仮想機械.md "wikilink")
-  - [高階関数](https://ja.wikipedia.org/wiki/高階関数 "wikilink")
+  - [高階関数](../Page/高階関数.md "wikilink")
 
 ## 文法
 
@@ -35,7 +35,7 @@ Io の目的は概念的な統一 (conceptual unification) と[動的言語](htt
 doStuff
 ```
 
-この doStuff は[メソッドであり](https://ja.wikipedia.org/wiki/メソッド_\(計算機科学\) "wikilink")、引数がないので後ろに括弧をつける必要がない。
+この doStuff は[メソッドであり](../Page/メソッド_\(計算機科学\).md "wikilink")、引数がないので後ろに括弧をつける必要がない。
 
 doStuff に引数がある場合、次のように記される。
 
@@ -43,7 +43,7 @@ doStuff に引数がある場合、次のように記される。
 doStuff(42)
 ```
 
-Io は[メッセージパッシング言語であり](https://ja.wikipedia.org/wiki/メッセージ_\(コンピュータ\) "wikilink")、Io では[コメント以外はメッセージの集積でプログラムが構成される](../Page/コメント_\(コンピュータ\).md "wikilink")。上掲の例でもそれが現れているがこれが全てではない。メッセージパッシング言語であることを明確に示すため、次の例を示す。
+Io は[メッセージパッシング言語であり](../Page/メッセージ_\(コンピュータ\).md "wikilink")、Io では[コメント以外はメッセージの集積でプログラムが構成される](../Page/コメント_\(コンピュータ\).md "wikilink")。上掲の例でもそれが現れているがこれが全てではない。メッセージパッシング言語であることを明確に示すため、次の例を示す。
 
 ``` io
 System version
@@ -67,9 +67,9 @@ System version
 
 ### メソッドとブロック
 
-Io には匿名の関数を作る2つの方法がある。メソッドとブロックである。この2つの違いは[スコープ](https://ja.wikipedia.org/wiki/スコープ "wikilink")である。ブロックは[静的スコープ](https://ja.wikipedia.org/wiki/静的スコープ "wikilink")であり、メソッドは[動的スコープ](https://ja.wikipedia.org/wiki/動的スコープ "wikilink")である。
+Io には匿名の関数を作る2つの方法がある。メソッドとブロックである。この2つの違いは[スコープ](../Page/スコープ.md "wikilink")である。ブロックは[静的スコープ](../Page/静的スコープ.md "wikilink")であり、メソッドは[動的スコープ](../Page/動的スコープ.md "wikilink")である。
 
-メソッドもブロックも[高階関数](https://ja.wikipedia.org/wiki/高階関数 "wikilink")である。
+メソッドもブロックも[高階関数](../Page/高階関数.md "wikilink")である。
 
 ### 例
 

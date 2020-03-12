@@ -21,7 +21,7 @@
 ### 論理コントローラの主な機能
 
   - サンプリング周波数変換
-  - デジタルソース[ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")
+  - デジタルソース[ミキシング](../Page/ミキシング.md "wikilink")
   - ウェーブテーブルシンセサイザー
   - [3Dオーディオ機能](../Page/立体音響.md "wikilink")
   - レガシ互換機能
@@ -34,11 +34,11 @@
 
 ## 「AC'97」と「オンボードサウンド」
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Onkyo_se-80pci.jpg "wikilink") SE-80PCI)\]\] AC'97の普及と同時期に[オンボード](https://ja.wikipedia.org/wiki/オンボード "wikilink")サウンドと呼ばれるマザーボードに実装するサウンド機能の普及も進んだため、「AC'97」がオンボードサウンド機能の代名詞のように扱われることも多い。しかし前述のように本来、AC'97 = Audio Codec '97はインターフェースに関する規格であり、[スタンドアローン](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink")の[サウンドカード](https://ja.wikipedia.org/wiki/サウンドカード "wikilink")でも[PCI世代以降はAC](../Page/Peripheral_Component_Interconnect.md "wikilink")'97準拠のものが多く、それらは「サウンドチップ」と呼ばれる論理コントローラと汎用のAC'97アナログコーデックを組み合わせた構成となっている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Onkyo_se-80pci.jpg "wikilink") SE-80PCI)\]\] AC'97の普及と同時期に[オンボード](../Page/オンボード.md "wikilink")サウンドと呼ばれるマザーボードに実装するサウンド機能の普及も進んだため、「AC'97」がオンボードサウンド機能の代名詞のように扱われることも多い。しかし前述のように本来、AC'97 = Audio Codec '97はインターフェースに関する規格であり、[スタンドアローン](../Page/スタンドアローン.md "wikilink")の[サウンドカード](../Page/サウンドカード.md "wikilink")でも[PCI世代以降はAC](../Page/Peripheral_Component_Interconnect.md "wikilink")'97準拠のものが多く、それらは「サウンドチップ」と呼ばれる論理コントローラと汎用のAC'97アナログコーデックを組み合わせた構成となっている。
 
 ## 問題点と後継規格
 
-1999年に登場したIntel810チップセットで採用された**[ICH](https://ja.wikipedia.org/wiki/I/O_コントローラー・ハブ "wikilink")**以降、一般的なPC用[チップセット](../Page/チップセット.md "wikilink")のサウスブリッジにはAC'97準拠の論理コントローラが統合されていた。そのため、当時のPCのサウンド機能は、サウスブリッジの論理コントローラと[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")上のアナログコーデックチップで実現している場合が多かった。安価かつ実装面積が少ないというメリットがある反面、AC'97で定められているサンプリングレートでは[DVD-Audio](../Page/DVD-Audio.md "wikilink")などの高音質フォーマットに十分対応できないという問題があった。
+1999年に登場したIntel810チップセットで採用された**[ICH](https://ja.wikipedia.org/wiki/I/O_コントローラー・ハブ "wikilink")**以降、一般的なPC用[チップセット](../Page/チップセット.md "wikilink")のサウスブリッジにはAC'97準拠の論理コントローラが統合されていた。そのため、当時のPCのサウンド機能は、サウスブリッジの論理コントローラと[マザーボード](../Page/マザーボード.md "wikilink")上のアナログコーデックチップで実現している場合が多かった。安価かつ実装面積が少ないというメリットがある反面、AC'97で定められているサンプリングレートでは[DVD-Audio](../Page/DVD-Audio.md "wikilink")などの高音質フォーマットに十分対応できないという問題があった。
 
 2004年、AC'97の問題点に対応するための後継規格としてインテルは[High Definition Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink")(HD Audio)規格を発表した。2006年頃までには新規に出荷されるシステムの大半はHD Audio準拠サウンド機能に置き換えられたが、旧式チップを使用した廉価システムなどではAC'97も依然使用されていた。
 
@@ -49,16 +49,16 @@
   - [C-Media Electronics](https://ja.wikipedia.org/wiki/C-Media_Electronics "wikilink")
   - [National Semiconductor](https://ja.wikipedia.org/wiki/ナショナルセミコンダクター "wikilink")
   - [Realtek Semiconductor](../Page/Realtek.md "wikilink")
-  - [Sigmatel](https://ja.wikipedia.org/wiki/Sigmatel "wikilink")→[IDT](https://ja.wikipedia.org/wiki/IDT "wikilink")
+  - [Sigmatel](https://ja.wikipedia.org/wiki/Sigmatel "wikilink")→[IDT](../Page/IDT.md "wikilink")
   - [VIA Technologies](../Page/VIA_Technologies.md "wikilink")
   - [YAMAHA LSI](../Page/ヤマハ.md "wikilink")
-  - [旭化成](https://ja.wikipedia.org/wiki/旭化成 "wikilink")エレクトロニクス（旧旭化成マイクロシステム）
+  - [旭化成](../Page/旭化成.md "wikilink")エレクトロニクス（旧旭化成マイクロシステム）
 
 ## 関連項目
 
-  - [マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")
-  - [サウンドカード](https://ja.wikipedia.org/wiki/サウンドカード "wikilink")
-  - [オンボード](https://ja.wikipedia.org/wiki/オンボード "wikilink")
+  - [マザーボード](../Page/マザーボード.md "wikilink")
+  - [サウンドカード](../Page/サウンドカード.md "wikilink")
+  - [オンボード](../Page/オンボード.md "wikilink")
   - [High Definition Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink")
 
 [Category:インテル](https://ja.wikipedia.org/wiki/Category:インテル "wikilink") [Category:サウンドカード](https://ja.wikipedia.org/wiki/Category:サウンドカード "wikilink")

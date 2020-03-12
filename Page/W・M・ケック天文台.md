@@ -1,7 +1,7 @@
 > この記事は[WM](https://ja.wikipedia.org/wiki/WM)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:The_Keck_Subaru_and_Infrared_obervatories.JPG "wikilink") **ケック天文台** () は、[ハワイ島](https://ja.wikipedia.org/wiki/ハワイ島 "wikilink")[マウナケア山頂天文台群にある](../Page/マウナケア天文台群.md "wikilink")[天文台](../Page/天文台.md "wikilink")。10m光学近赤外線望遠鏡を2基保有し、数多くの[天文学](../Page/天文学.md "wikilink")的発見をしている。隣は日本の[すばる望遠鏡](https://ja.wikipedia.org/wiki/すばる望遠鏡 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/画像:The_Keck_Subaru_and_Infrared_obervatories.JPG "wikilink") **ケック天文台** () は、[ハワイ島](../Page/ハワイ島.md "wikilink")[マウナケア山頂天文台群にある](../Page/マウナケア天文台群.md "wikilink")[天文台](../Page/天文台.md "wikilink")。10m光学近赤外線望遠鏡を2基保有し、数多くの[天文学](../Page/天文学.md "wikilink")的発見をしている。隣は日本の[すばる望遠鏡](https://ja.wikipedia.org/wiki/すばる望遠鏡 "wikilink")。
 
 ## 名称の由来
 
@@ -9,9 +9,9 @@
 
 ## 天文台の運営
 
-[カリフォルニア天文学研究協会](https://ja.wikipedia.org/wiki/カリフォルニア天文学研究協会 "wikilink")(California Association for Research in Astronomy)が行っている。2基の望遠鏡からなるため、相互の望遠鏡間によって、光赤外干渉計としても活用が可能である。同様の望遠鏡としては、[ヨーロッパ南天天文台](https://ja.wikipedia.org/wiki/ヨーロッパ南天天文台 "wikilink")に設置されているVLT(Very Large Telescope)がある。
+[カリフォルニア天文学研究協会](https://ja.wikipedia.org/wiki/カリフォルニア天文学研究協会 "wikilink")(California Association for Research in Astronomy)が行っている。2基の望遠鏡からなるため、相互の望遠鏡間によって、光赤外干渉計としても活用が可能である。同様の望遠鏡としては、[ヨーロッパ南天天文台](../Page/ヨーロッパ南天天文台.md "wikilink")に設置されているVLT(Very Large Telescope)がある。
 
-天文台は、望遠鏡及び観測装置ならびに制御装置を収めた[マウナケア山](https://ja.wikipedia.org/wiki/マウナケア山 "wikilink")頂施設と[ハワイ島](https://ja.wikipedia.org/wiki/ハワイ島 "wikilink")の[ワイメア](https://ja.wikipedia.org/wiki/ワイメア_\(ハワイ島\) "wikilink")（郵便はカムエラ）にある本部事務所からなる。望遠鏡及び観測装置については、以下に記載する。
+天文台は、望遠鏡及び観測装置ならびに制御装置を収めた[マウナケア山](https://ja.wikipedia.org/wiki/マウナケア山 "wikilink")頂施設と[ハワイ島](../Page/ハワイ島.md "wikilink")の[ワイメア](https://ja.wikipedia.org/wiki/ワイメア_\(ハワイ島\) "wikilink")（郵便はカムエラ）にある本部事務所からなる。望遠鏡及び観測装置については、以下に記載する。
 
 ## 望遠鏡の構造
 
@@ -28,7 +28,7 @@
 
 ### 説明
 
-有効口径10m（正確には、9.62m）を単一鏡で実現することは、大変難しいため、対角線1.8m、厚さ75mm、重さ400kgの正六角形の[低膨張ガラス](https://ja.wikipedia.org/wiki/低膨張ガラス "wikilink")を36枚繋いで、有効口径10mとした主鏡を持つ。そのため、各ミラー間にはつなぎ目があるが、優れた性能を持つ。各ミラーは[補償光学](https://ja.wikipedia.org/wiki/補償光学 "wikilink")装置によって支持されている。補償光学制御では、0.1秒毎に各ミラーを支える支持装置（[アクチュエーター](https://ja.wikipedia.org/wiki/アクチュエーター "wikilink")）を微調整し、重力によって各ミラーの位置が変わる事によって生じる主焦点系の変動を抑えることに寄与している。
+有効口径10m（正確には、9.62m）を単一鏡で実現することは、大変難しいため、対角線1.8m、厚さ75mm、重さ400kgの正六角形の[低膨張ガラス](https://ja.wikipedia.org/wiki/低膨張ガラス "wikilink")を36枚繋いで、有効口径10mとした主鏡を持つ。そのため、各ミラー間にはつなぎ目があるが、優れた性能を持つ。各ミラーは[補償光学](../Page/補償光学.md "wikilink")装置によって支持されている。補償光学制御では、0.1秒毎に各ミラーを支える支持装置（[アクチュエーター](https://ja.wikipedia.org/wiki/アクチュエーター "wikilink")）を微調整し、重力によって各ミラーの位置が変わる事によって生じる主焦点系の変動を抑えることに寄与している。
 
 6角形のミラーのうち、中心部のミラーは取り付けられていない。これは、主鏡主焦点部にある副鏡によって生じるロスを減らすことのみならず、[カセグレイン焦点](https://ja.wikipedia.org/wiki/カセグレイン焦点 "wikilink")部が設置されていることによる。
 
@@ -56,7 +56,7 @@
   - [パラナル天文台](https://ja.wikipedia.org/wiki/パラナル天文台 "wikilink")
   - [ラ・シヤ天文台](https://ja.wikipedia.org/wiki/ラ・シヤ天文台 "wikilink")
   - [セロ・トロロ汎米天文台](https://ja.wikipedia.org/wiki/セロ・トロロ汎米天文台 "wikilink")
-  - [超大型望遠鏡VLT](https://ja.wikipedia.org/wiki/超大型望遠鏡VLT "wikilink")
+  - [超大型望遠鏡VLT](../Page/超大型望遠鏡VLT.md "wikilink")
 
 ## 外部リンク
 

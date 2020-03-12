@@ -7,7 +7,7 @@
 
   - **Nao**（[3月7日](../Page/3月7日.md "wikilink") - ）ボーカル
   - **[mitti](https://ja.wikipedia.org/wiki/mitti "wikilink")**（[12月16日](../Page/12月16日.md "wikilink") - ）ギター
-  - **[yukiyoshi](https://ja.wikipedia.org/wiki/yukiyoshi "wikilink")**（[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink") - ）ピアノ
+  - **[yukiyoshi](https://ja.wikipedia.org/wiki/yukiyoshi "wikilink")**（[2月8日](../Page/2月8日.md "wikilink") - ）ピアノ
 
 ## 参加メンバー （Naoソロ活動時代）
 

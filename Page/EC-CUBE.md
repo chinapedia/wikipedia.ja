@@ -1,13 +1,13 @@
 > この記事は[EC-CUBE](https://ja.wikipedia.org/wiki/EC-CUBE)から翻訳されています。
 
 
-**EC-CUBE**（イーシーキューブ）は、**株式会社イーシーキューブ**（*EC-CUBE CO.,LTD.*）が開発する[オープンソース](../Page/オープンソース.md "wikilink")の[EC向け](../Page/電子商取引.md "wikilink")[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink")（CMS）である。
+**EC-CUBE**（イーシーキューブ）は、**株式会社イーシーキューブ**（*EC-CUBE CO.,LTD.*）が開発する[オープンソース](../Page/オープンソース.md "wikilink")の[EC向け](../Page/電子商取引.md "wikilink")[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink")（CMS）である。
 
 ## 歴史
 
-ロックオン（現・[イルグルム](https://ja.wikipedia.org/wiki/イルグルム "wikilink")）が開発してきたECサイト構築システム[ECKit](https://ja.wikipedia.org/wiki/ECKit "wikilink")を元に、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")にオープンソースとして公開（[デュアルライセンス](../Page/デュアルライセンス.md "wikilink")の採用により、[GPLの他](../Page/GNU_General_Public_License.md "wikilink")、商用ライセンスも選択可能）。同社（2019年1月以降は完全子会社の株式会社イーシーキューブ\[1\]）を主導として開発が続けられている。
+ロックオン（現・[イルグルム](https://ja.wikipedia.org/wiki/イルグルム "wikilink")）が開発してきたECサイト構築システム[ECKit](https://ja.wikipedia.org/wiki/ECKit "wikilink")を元に、[2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")にオープンソースとして公開（[デュアルライセンス](../Page/デュアルライセンス.md "wikilink")の採用により、[GPLの他](../Page/GNU_General_Public_License.md "wikilink")、商用ライセンスも選択可能）。同社（2019年1月以降は完全子会社の株式会社イーシーキューブ\[1\]）を主導として開発が続けられている。
 
-2019年2月26日にはEC-CUBEの[SaaS](https://ja.wikipedia.org/wiki/SaaS "wikilink")版となる[クラウドECプラットフォーム](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")「ec-cube.co」がリリースされた\[2\]\[3\]。
+2019年2月26日にはEC-CUBEの[SaaS](../Page/SaaS.md "wikilink")版となる[クラウドECプラットフォーム](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")「ec-cube.co」がリリースされた\[2\]\[3\]。
 
 ## 特徴
 
@@ -17,7 +17,7 @@
 <!-- end list -->
 
   - 日本語文字コードは[UTF-8](../Page/UTF-8.md "wikilink")をデフォルトでサポートしている。
-  - [ホスティングサーバ](../Page/ホスティングサーバ.md "wikilink")へのインストールに際しては、[ディレクトリ](../Page/ディレクトリ.md "wikilink")やファイルに対する[パーミッション設定を丁寧に行う必要がある](https://ja.wikipedia.org/wiki/ファイルパーミッション "wikilink")。（コミュニティ版には、パーミッションの自動設定を行うプログラムが付属する。）
+  - [ホスティングサーバ](../Page/ホスティングサーバ.md "wikilink")へのインストールに際しては、[ディレクトリ](../Page/ディレクトリ.md "wikilink")やファイルに対する[パーミッション設定を丁寧に行う必要がある](../Page/ファイルパーミッション.md "wikilink")。（コミュニティ版には、パーミッションの自動設定を行うプログラムが付属する。）
   - 携帯電話向けのページが自動で生成される。携帯電話からアクセスすると自動的に携帯電話向けのページに転送される。2.11系からは、スマートフォンにも対応している。
   - 2.11系は詳細な仕様が存在せず、コード品質のばらつきや実装予定で中断している箇所、修正されていないエラーやコメント等が多く見受けられるため、カスタマイズを行う場合は情報収集や推測、ある程度の割り切りを要する。
 

@@ -1,11 +1,11 @@
 > この記事は[DJ ANGEL](https://ja.wikipedia.org/wiki/DJ_ANGEL)から翻訳されています。
 
 
-**DJ ANGEL**（ディージェイエンジェル）は[ハッピーハードコア](https://ja.wikipedia.org/wiki/ハッピーハードコア "wikilink")[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。
+**DJ ANGEL**（ディージェイエンジェル）は[ハッピーハードコア](../Page/ハッピーハードコア.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。
 
 ## 人物
 
-[1999年](../Page/1999年.md "wikilink")より東京で活動を開始。2000年よりハッピーハードコア、[レイブ](https://ja.wikipedia.org/wiki/レイブ "wikilink")系サウンドの老舗イベント"HardcoreKitchen"でレジデントDJとして活動し、2002年からは[SAM](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")（[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")）がオーガナイズするクラブイベント"ZENTO"に抜擢され[DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO "wikilink")（[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")）らとレジデントDJを務める。2003年にUKのEVOLUTION RECORDSの楽曲をMIXしたアルバム「ELYSIUM」を発売。
+[1999年](../Page/1999年.md "wikilink")より東京で活動を開始。2000年よりハッピーハードコア、[レイブ](https://ja.wikipedia.org/wiki/レイブ "wikilink")系サウンドの老舗イベント"HardcoreKitchen"でレジデントDJとして活動し、2002年からは[SAM](../Page/SAM_\(ダンサー\).md "wikilink")（[TRF](../Page/TRF.md "wikilink")）がオーガナイズするクラブイベント"ZENTO"に抜擢され[DJ KOO](../Page/DJ_KOO.md "wikilink")（[TRF](../Page/TRF.md "wikilink")）らとレジデントDJを務める。2003年にUKのEVOLUTION RECORDSの楽曲をMIXしたアルバム「ELYSIUM」を発売。
 
 ## 主なリリース
 

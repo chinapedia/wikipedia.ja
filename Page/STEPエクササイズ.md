@@ -3,11 +3,11 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Step_Group_Fitness_Class.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Aerobic_exercise_-_public_demonstration07.jpg "wikilink")
 
-**STEPエクササイズ**（ステップエクササイズ、STEP EXERCISE）は、日常生活で行われている階段の昇り降りのような動きをすることで下肢の大筋群などを活発に動かす全身運動\[1\]。音楽に合わせて踏み台を昇降する形式の[有酸素運動](https://ja.wikipedia.org/wiki/有酸素運動 "wikilink")である。**STEPトレーニング**（ステップトレーニング、STEP TRAINING）もしくは単に**STEP**（ステップ）とも呼ばれる。
+**STEPエクササイズ**（ステップエクササイズ、STEP EXERCISE）は、日常生活で行われている階段の昇り降りのような動きをすることで下肢の大筋群などを活発に動かす全身運動\[1\]。音楽に合わせて踏み台を昇降する形式の[有酸素運動](../Page/有酸素運動.md "wikilink")である。**STEPトレーニング**（ステップトレーニング、STEP TRAINING）もしくは単に**STEP**（ステップ）とも呼ばれる。
 
 ## 歴史
 
-1980年代初頭、[エアロビクスダンス](https://ja.wikipedia.org/wiki/エアロビクスダンス "wikilink")が米国から世界へ広まったが、ハイインパクトと呼ばれる動作が多用され、故障者が続出した。ハイインパクトとは両足が同時に床から離れる動作を指し、走る・跳ねる動きがこれに該当する。着地の際、足に体重の約3倍の衝撃が加わる。この問題の反省からハイインパクト動作を控える流れができるとともに、エアロビクスダンスに代わる衝撃の少ないエクササイズが考案された。STEPエクササイズはその代表である。
+1980年代初頭、[エアロビクスダンス](../Page/エアロビクスダンス.md "wikilink")が米国から世界へ広まったが、ハイインパクトと呼ばれる動作が多用され、故障者が続出した。ハイインパクトとは両足が同時に床から離れる動作を指し、走る・跳ねる動きがこれに該当する。着地の際、足に体重の約3倍の衝撃が加わる。この問題の反省からハイインパクト動作を控える流れができるとともに、エアロビクスダンスに代わる衝撃の少ないエクササイズが考案された。STEPエクササイズはその代表である。
 
 ## 概要
 
@@ -59,7 +59,7 @@ EU圏ではハウス、ヒップホップ、ラテン等のダンスを取り入
 
 ## 効果
 
-[有酸素運動](https://ja.wikipedia.org/wiki/有酸素運動 "wikilink")のページを参照
+[有酸素運動](../Page/有酸素運動.md "wikilink")のページを参照
 
 ## 特徴
 
@@ -110,9 +110,9 @@ EU圏ではハウス、ヒップホップ、ラテン等のダンスを取り入
 
 ## 関連項目
 
-  - [エアロビクスダンス](https://ja.wikipedia.org/wiki/エアロビクスダンス "wikilink")
-  - [フィットネス](https://ja.wikipedia.org/wiki/フィットネス "wikilink")
-  - [有酸素運動](https://ja.wikipedia.org/wiki/有酸素運動 "wikilink")
+  - [エアロビクスダンス](../Page/エアロビクスダンス.md "wikilink")
+  - [フィットネス](../Page/フィットネス.md "wikilink")
+  - [有酸素運動](../Page/有酸素運動.md "wikilink")
   - [踏み台昇降](../Page/踏み台昇降.md "wikilink")
 
 [Category:スポーツ競技](https://ja.wikipedia.org/wiki/Category:スポーツ競技 "wikilink") [Category:トレーニング法](https://ja.wikipedia.org/wiki/Category:トレーニング法 "wikilink") [Category:フィットネス](https://ja.wikipedia.org/wiki/Category:フィットネス "wikilink")

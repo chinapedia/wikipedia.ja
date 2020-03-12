@@ -1,17 +1,17 @@
 > この記事は[GLORY--](https://ja.wikipedia.org/wiki/GLORY--)から翻訳されています。
 
 
-「**GLORY-君がいるから-**」（グローリー きみがいるから）は、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に[SONIC GROOVEより](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")でリリースされた。
+「**GLORY-君がいるから-**」（グローリー きみがいるから）は、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に[SONIC GROOVEより](../Page/SONIC_GROOVE.md "wikilink")[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")でリリースされた。
 
 ## 解説
 
-前作から2ヶ月ぶりのリリースで、表題曲は、[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』エンディングテーマ。初回生産分のみ、『ONE PIECE』のイラストが印刷されたステッカーが封入されている。
+前作から2ヶ月ぶりのリリースで、表題曲は、[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』エンディングテーマ。初回生産分のみ、『ONE PIECE』のイラストが印刷されたステッカーが封入されている。
 
 ## 収録曲
 
 1.  **GLORY-君がいるから-**
       -
-        作詞:[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")　作曲:菊池一仁　編曲:[原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
+        作詞:[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")　作曲:菊池一仁　編曲:[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 2.  **Changin' my heart**
       -
         作詞:松本有加　作曲:[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")　編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")

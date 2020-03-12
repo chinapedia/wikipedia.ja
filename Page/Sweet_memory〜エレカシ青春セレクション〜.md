@@ -1,38 +1,38 @@
 > この記事は[Sweet memory](https://ja.wikipedia.org/wiki/Sweet_memory)から翻訳されています。
 
 
-**sweet memory〜エレカシ青春セレクション〜**（スイートメモリー エレカシせいしゅんセレクション）は[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+**sweet memory〜エレカシ青春セレクション〜**（スイートメモリー エレカシせいしゅんセレクション）は[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 
-  - [宮本浩次が](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")"[青春](https://ja.wikipedia.org/wiki/青春 "wikilink")"をテーマとしてセレクトしたアルバムとなっている。ポニーキャニオン時代の楽曲が大半を占めている。
-  - 初回盤は2枚組となっており、[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")時代に録音された楽曲2曲入りのCDが付いていた。通常盤は初回盤の発売から3週間後の木曜日に発売。再発売を除いて初回・通常で発売日が分かれたのはこの作品のみ。
+  - [宮本浩次が](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")"[青春](../Page/青春.md "wikilink")"をテーマとしてセレクトしたアルバムとなっている。ポニーキャニオン時代の楽曲が大半を占めている。
+  - 初回盤は2枚組となっており、[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")時代に録音された楽曲2曲入りのCDが付いていた。通常盤は初回盤の発売から3週間後の木曜日に発売。再発売を除いて初回・通常で発売日が分かれたのはこの作品のみ。
 
 ## 収録曲
 
-1.  **[悲しみの果て](https://ja.wikipedia.org/wiki/悲しみの果て "wikilink")**
+1.  **[悲しみの果て](../Page/悲しみの果て.md "wikilink")**
       -
         ※96年に発売されたシングル・ヴァージョン。
 2.  **[風に吹かれて](https://ja.wikipedia.org/wiki/風に吹かれて_\(エレファントカシマシの曲\) "wikilink")**
-3.  **[今宵の月のように](https://ja.wikipedia.org/wiki/今宵の月のように "wikilink")**
-4.  **[昔の侍](https://ja.wikipedia.org/wiki/明日に向かって走れ-月夜の歌- "wikilink")**
+3.  **[今宵の月のように](../Page/今宵の月のように.md "wikilink")**
+4.  **[昔の侍](../Page/明日に向かって走れ-月夜の歌-.md "wikilink")**
 5.  **[さらば青春](https://ja.wikipedia.org/wiki/風に吹かれて_\(エレファントカシマシの曲\) "wikilink")**
       -
         ※アルバム初収録
-6.  **[四月の風](https://ja.wikipedia.org/wiki/悲しみの果て "wikilink")**
+6.  **[四月の風](../Page/悲しみの果て.md "wikilink")**
 7.  **[孤独な旅人](https://ja.wikipedia.org/wiki/孤独な旅人_\(曲\) "wikilink")**
-8.  **[真夏の星空は少しブルー](https://ja.wikipedia.org/wiki/愛と夢 "wikilink")**
+8.  **[真夏の星空は少しブルー](../Page/愛と夢.md "wikilink")**
 9.  **月夜の散歩**
       -
-        ※プロデューサー・[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")がオルガンで参加した、『[明日に向かって走れ-月夜の歌-](https://ja.wikipedia.org/wiki/明日に向かって走れ-月夜の歌- "wikilink")』に収録のものとは異なる別テイク。
+        ※プロデューサー・[佐久間正英](../Page/佐久間正英.md "wikilink")がオルガンで参加した、『[明日に向かって走れ-月夜の歌-](../Page/明日に向かって走れ-月夜の歌-.md "wikilink")』に収録のものとは異なる別テイク。
 10. **[遠い浜辺](https://ja.wikipedia.org/wiki/戦う男 "wikilink")**
       -
         ※表記はないが、アルバム・ミックス。シングル・ヴァージョンとはボーカル、ドラム等が異なる。
-11. **[赤い薔薇](https://ja.wikipedia.org/wiki/今宵の月のように "wikilink")**
+11. **[赤い薔薇](../Page/今宵の月のように.md "wikilink")**
 12. **[sweet memory](https://ja.wikipedia.org/wiki/so_many_people "wikilink")**
       -
         ※アルバム初収録
-13. **[武蔵野](https://ja.wikipedia.org/wiki/コール_アンド_レスポンス "wikilink")**
+13. **[武蔵野](../Page/コール_アンド_レスポンス.md "wikilink")**
 
 ### 初回限定盤CD
 

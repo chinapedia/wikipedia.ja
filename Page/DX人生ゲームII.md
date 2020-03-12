@@ -1,7 +1,7 @@
 > この記事は[DXII](https://ja.wikipedia.org/wiki/DXII)から翻訳されています。
 
 
-**DX人生ゲームII**（デラックスじんせい―ツー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用ソフト。『[DX人生ゲーム](https://ja.wikipedia.org/wiki/DX人生ゲーム "wikilink")』の続編。今作は[プレイステーション用も同時発売となった](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。なお、本作までは実際の開発を[KIDが担当しており](../Page/KID_\(ゲームブランド\).md "wikilink")、次作「[DX人生ゲームIII](https://ja.wikipedia.org/wiki/DX人生ゲームIII "wikilink")」以降の作品は制作スタッフがほぼ一新されている。なお本作の開発を担当したKIDは翌年に「[ゲームで青春](https://ja.wikipedia.org/wiki/ゲームで青春 "wikilink")」という本作に近いシステムのボードゲームを発売している。
+**DX人生ゲームII**（デラックスじんせい―ツー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用ソフト。『[DX人生ゲーム](../Page/DX人生ゲーム.md "wikilink")』の続編。今作は[プレイステーション用も同時発売となった](../Page/PlayStation_\(ゲーム機\).md "wikilink")。なお、本作までは実際の開発を[KIDが担当しており](../Page/KID_\(ゲームブランド\).md "wikilink")、次作「[DX人生ゲームIII](https://ja.wikipedia.org/wiki/DX人生ゲームIII "wikilink")」以降の作品は制作スタッフがほぼ一新されている。なお本作の開発を担当したKIDは翌年に「[ゲームで青春](https://ja.wikipedia.org/wiki/ゲームで青春 "wikilink")」という本作に近いシステムのボードゲームを発売している。
 
 ## 前作からの変更点
 
@@ -47,7 +47,7 @@
   - メルヘンマップ
     コースはその名のとおりメルヘンチックになっている。
   - 日本旅行マップ
-    日本全国を回る形式となっており、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")・[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")・[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")・[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")のいずれかからスタートすることになっている。
+    日本全国を回る形式となっており、[東京都](../Page/東京都.md "wikilink")・[大阪府](../Page/大阪府.md "wikilink")・[福岡県](../Page/福岡県.md "wikilink")・[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")のいずれかからスタートすることになっている。
   - 四季マップ
     コースが春、夏、秋、冬と変わってくる。
 
@@ -138,7 +138,7 @@
 
 ## マス
 
-以下のマスについては[前作から変更が無いため](https://ja.wikipedia.org/wiki/DX人生ゲーム "wikilink")、そちらの項を参照のこと。
+以下のマスについては[前作から変更が無いため](../Page/DX人生ゲーム.md "wikilink")、そちらの項を参照のこと。
 
   - よろこびマス
     かなしみマス
@@ -248,7 +248,7 @@
       - 秘境マップ
     <!-- end list -->
       -
-        日本旅行マップで登場。[アマゾンや](https://ja.wikipedia.org/wiki/アマゾン熱帯雨林 "wikilink")[ジャングル](https://ja.wikipedia.org/wiki/ジャングル "wikilink")を舞台としたマップ。
+        日本旅行マップで登場。[アマゾンや](../Page/アマゾン熱帯雨林.md "wikilink")[ジャングル](https://ja.wikipedia.org/wiki/ジャングル "wikilink")を舞台としたマップ。
     <!-- end list -->
       - アメリカマップ
     <!-- end list -->
@@ -354,7 +354,7 @@
 ## 関連項目
 
   - [人生ゲーム](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")
-  - [DX人生ゲーム](https://ja.wikipedia.org/wiki/DX人生ゲーム "wikilink")
+  - [DX人生ゲーム](../Page/DX人生ゲーム.md "wikilink")
 
 [Category:人生ゲーム](https://ja.wikipedia.org/wiki/Category:人生ゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink")
 

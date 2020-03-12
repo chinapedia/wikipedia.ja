@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - 前作、前々作同様[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")によるサウンドプロデュース。
+  - 前作、前々作同様[河村隆一](../Page/河村隆一.md "wikilink")によるサウンドプロデュース。
   - 表題曲は、自身の出演した[ポッカコーポレーション](../Page/ポッカサッポロフード&ビバレッジ.md "wikilink")[清涼飲料水](../Page/清涼飲料水.md "wikilink")「水・レモン・きれい」CMイメージソング。
   - 「Meaning of born」と「Reason of born」はトラック上では分割されているが楽曲はつながっている。
   - 先着購入特典としてフォトブックが配布された。
 
 ## 収録曲
 
-  - 全曲、作詞・作曲:[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")　編曲:[土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")
+  - 全曲、作詞・作曲:[河村隆一](../Page/河村隆一.md "wikilink")　編曲:[土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")
 
 <!-- end list -->
 

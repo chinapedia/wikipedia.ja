@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - [2004年](../Page/2004年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[SONIC GROOVEよりリリースされた](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
+  - [2004年](../Page/2004年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[SONIC GROOVEよりリリースされた](../Page/SONIC_GROOVE.md "wikilink")。
   - 「Galaxy Legend」
       - アニメ『[宇宙交響詩メーテル 銀河鉄道999外伝](../Page/宇宙交響詩メーテル_銀河鉄道999外伝.md "wikilink")』エンディングテーマ
-      - 作曲に[葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")が、編曲に野崎良太（[Jazztronik](https://ja.wikipedia.org/wiki/Jazztronik "wikilink")）が参加した。葉加瀬のアルバム『Endless Violin』の収録曲「冷静と情熱のあいだ」とメロディが似ている。
-      - ドラマ『[君が想い出になる前に](https://ja.wikipedia.org/wiki/君が想い出になる前に "wikilink")』に上原がゲスト出演した際、出演シーンで数秒オンエアされた。
+      - 作曲に[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")が、編曲に野崎良太（[Jazztronik](../Page/Jazztronik.md "wikilink")）が参加した。葉加瀬のアルバム『Endless Violin』の収録曲「冷静と情熱のあいだ」とメロディが似ている。
+      - ドラマ『[君が想い出になる前に](../Page/君が想い出になる前に.md "wikilink")』に上原がゲスト出演した際、出演シーンで数秒オンエアされた。
   - 「Ladybug」
       - [佐川急便](../Page/佐川急便.md "wikilink")「飛脚クール便」TVCMソング（本人出演）
       - [BONNIE PINKが作詞作曲を担当した](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")。上原たっての希望で提供の依頼を出したという。ちなみにBONNIE PINKにとって初の楽曲提供となった。

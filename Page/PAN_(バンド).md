@@ -1,11 +1,11 @@
 > この記事は[PAN \(\)](https://ja.wikipedia.org/wiki/PAN_\(\))から翻訳されています。
 
 
-**PAN**（パン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")にて結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**PAN**（パン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[大阪府](../Page/大阪府.md "wikilink")にて結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 略歴
 
-現在までに10枚のシングルと6枚のミニアルバム、7枚のアルバムを発表。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より毎年9月に[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で企画しているMASTER COLISEUMでは3500人超え、MASTER COLISEUM12は初の2DAYS開催で、両日ともソールドアウトさせるなど、史上最多の約7000人を動員させ、 [2013年](../Page/2013年.md "wikilink")にはSAKAI MEETING2013、SANUKI ROCK COLOSSEUM2013、MINAMI WHEEL、DIVING ROCK2013、RADIO CRAZYなど、数々の音楽フェスに出演した他、[マキシマム ザ ホルモンの全国ツアー](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")「予襲復讐TOUR」等多数のライブ、イベントにも出演している。
+現在までに10枚のシングルと6枚のミニアルバム、7枚のアルバムを発表。[2006年](../Page/2006年.md "wikilink")より毎年9月に[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で企画しているMASTER COLISEUMでは3500人超え、MASTER COLISEUM12は初の2DAYS開催で、両日ともソールドアウトさせるなど、史上最多の約7000人を動員させ、 [2013年](../Page/2013年.md "wikilink")にはSAKAI MEETING2013、SANUKI ROCK COLOSSEUM2013、MINAMI WHEEL、DIVING ROCK2013、RADIO CRAZYなど、数々の音楽フェスに出演した他、[マキシマム ザ ホルモンの全国ツアー](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")「予襲復讐TOUR」等多数のライブ、イベントにも出演している。
 
 ## メンバー
 
@@ -762,7 +762,7 @@ DISC2:映画メイキング</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年4月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS_SUPER_TRIBUTE" title="wikilink">THE BLUE HEARTS SUPER TRIBUTE</a></strong></p></td>
+<td><p><strong><a href="../Page/THE_BLUE_HEARTS_SUPER_TRIBUTE.md" title="wikilink">THE BLUE HEARTS SUPER TRIBUTE</a></strong></p></td>
 <td><p>CRCP-40032</p></td>
 <td><p>17.闘う男</p></td>
 <td><p>クラウン</p></td>
@@ -822,7 +822,7 @@ DISC2:映画メイキング</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年9月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a>&amp;PAN「TROPICAL PARK」</strong></p></td>
+<td><p><strong><a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a>&amp;PAN「TROPICAL PARK」</strong></p></td>
 <td><p>ADVE-1003</p></td>
 <td><p>1.インタレスター / SABOTEN&amp;PAN<br />
 2.ザンシング / PAN<br />
@@ -899,10 +899,10 @@ DISC2:映画メイキング</p></td>
   - 2012年 - Positive And Negative JAPAN TOUR 2012〜え?今更?\! 裏ファイナル\!PANマン\!\!
   - 2013年7月25日〜10月19日 - ドッターバッターツアー 2013
       -
-        w/[funnySkash](https://ja.wikipedia.org/wiki/funnySkash "wikilink")/[HOT DOG](https://ja.wikipedia.org/wiki/HOT_DOG "wikilink")/[KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")/[MARGALINE](https://ja.wikipedia.org/wiki/MARGALINE "wikilink")/[REAL REACH](https://ja.wikipedia.org/wiki/REAL_REACH "wikilink")/[SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink")/[SHIMA](https://ja.wikipedia.org/wiki/SHIMA "wikilink")/[winnie](https://ja.wikipedia.org/wiki/winnie "wikilink")
+        w/[funnySkash](https://ja.wikipedia.org/wiki/funnySkash "wikilink")/[HOT DOG](https://ja.wikipedia.org/wiki/HOT_DOG "wikilink")/[KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")/[MARGALINE](https://ja.wikipedia.org/wiki/MARGALINE "wikilink")/[REAL REACH](https://ja.wikipedia.org/wiki/REAL_REACH "wikilink")/[SABOTEN](../Page/SABOTEN.md "wikilink")/[SHIMA](https://ja.wikipedia.org/wiki/SHIMA "wikilink")/[winnie](https://ja.wikipedia.org/wiki/winnie "wikilink")
   - 2014年4月30日〜7月29日 - PAN「ヒズム ハズム リズム」RELEASE"ヒズムハズムリズムツアー"
       -
-        w/SABOTEN/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[MONOBRIGHT](https://ja.wikipedia.org/wiki/MONOBRIGHT "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[セックスマシーン](https://ja.wikipedia.org/wiki/セックスマシーン "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[SMASH UP](https://ja.wikipedia.org/wiki/SMASH_UP "wikilink")/[THE イナズマ戦隊](https://ja.wikipedia.org/wiki/THE_イナズマ戦隊 "wikilink")/[UPLIFT SPICE](https://ja.wikipedia.org/wiki/UPLIFT_SPICE "wikilink")/[四星球](https://ja.wikipedia.org/wiki/四星球 "wikilink")/[50cc](https://ja.wikipedia.org/wiki/50cc "wikilink")/[BAN'S ENCOUNTER](https://ja.wikipedia.org/wiki/BAN'S_ENCOUNTER "wikilink")/[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")/[DynamiteSoulSystem](https://ja.wikipedia.org/wiki/DynamiteSoulSystem "wikilink")/[gain color](https://ja.wikipedia.org/wiki/gain_color "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[SKALAPPER](https://ja.wikipedia.org/wiki/SKALAPPER "wikilink")/[STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink")/[THE WELL WELLS](https://ja.wikipedia.org/wiki/THE_WELL_WELLS "wikilink")/winnie/[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")/[ジャイコナイトOITA](https://ja.wikipedia.org/wiki/ジャイコナイトOITA "wikilink")/[夜の本気ダンス](https://ja.wikipedia.org/wiki/夜の本気ダンス "wikilink")
+        w/SABOTEN/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[MONOBRIGHT](https://ja.wikipedia.org/wiki/MONOBRIGHT "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[セックスマシーン](https://ja.wikipedia.org/wiki/セックスマシーン "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[SMASH UP](https://ja.wikipedia.org/wiki/SMASH_UP "wikilink")/[THE イナズマ戦隊](../Page/THE_イナズマ戦隊.md "wikilink")/[UPLIFT SPICE](https://ja.wikipedia.org/wiki/UPLIFT_SPICE "wikilink")/[四星球](../Page/四星球.md "wikilink")/[50cc](https://ja.wikipedia.org/wiki/50cc "wikilink")/[BAN'S ENCOUNTER](https://ja.wikipedia.org/wiki/BAN'S_ENCOUNTER "wikilink")/[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")/[DynamiteSoulSystem](https://ja.wikipedia.org/wiki/DynamiteSoulSystem "wikilink")/[gain color](https://ja.wikipedia.org/wiki/gain_color "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[SKALAPPER](https://ja.wikipedia.org/wiki/SKALAPPER "wikilink")/[STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink")/[THE WELL WELLS](https://ja.wikipedia.org/wiki/THE_WELL_WELLS "wikilink")/winnie/[ガガガSP](../Page/ガガガSP.md "wikilink")/[ジャイコナイトOITA](https://ja.wikipedia.org/wiki/ジャイコナイトOITA "wikilink")/[夜の本気ダンス](https://ja.wikipedia.org/wiki/夜の本気ダンス "wikilink")
   - 2014年10月19日〜12月19日 - もうすぐ20周年やでぇっ\!\!PAN 初のワンマンツアー 〜PAN食べ放題っ\!\!\! PANマンツアー2014〜
   - 2015年2月7日〜6月26日 - PANベストアルバム「ベスト盤゜」リリースツアー【ベスト盤゜でベストPANツアー】
   - 2015年2月20日・3月20日・4月20日 - PAN結成20周年記念イベント 20祭やDAY\!
@@ -921,33 +921,33 @@ DISC2:映画メイキング</p></td>
 
   - 2008年9月20日 - MASTER COLISEUM'08
       -
-        [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") / [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink") / [The Gelugugu](https://ja.wikipedia.org/wiki/The_Gelugugu "wikilink") / [SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink") / PAN / [PINKLOOP](../Page/PINKLOOP.md "wikilink") / [POSSIBILITY](../Page/POSSIBILITY.md "wikilink")
+        [ガガガSP](../Page/ガガガSP.md "wikilink") / [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink") / [The Gelugugu](https://ja.wikipedia.org/wiki/The_Gelugugu "wikilink") / [SABOTEN](../Page/SABOTEN.md "wikilink") / PAN / [PINKLOOP](../Page/PINKLOOP.md "wikilink") / [POSSIBILITY](../Page/POSSIBILITY.md "wikilink")
   - 2009年9月12日 - MASTER COLISEUM'09
       -
-        [GARLICBOYS](../Page/GARLICBOYS.md "wikilink") / GOOD4NOTHING / SABOTEN / [SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink") / [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") / PAN / [HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink") / [Yacht.](https://ja.wikipedia.org/wiki/Yacht. "wikilink")
+        [GARLICBOYS](../Page/GARLICBOYS.md "wikilink") / GOOD4NOTHING / SABOTEN / [SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink") / [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") / PAN / [HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink") / [Yacht.](../Page/Yacht..md "wikilink")
   - 2010年9月18日 - MASTER COLISEUM'10
       -
-        w/[UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") /[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") / [えのんBAND 〜えのん〜](https://ja.wikipedia.org/wiki/えのんBAND_〜えのん〜 "wikilink") / GOOD4NOTHING / SABOTEN / SHACHI / [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink") / PAN
+        w/[UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") /[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") / [えのんBAND 〜えのん〜](https://ja.wikipedia.org/wiki/えのんBAND_〜えのん〜 "wikilink") / GOOD4NOTHING / SABOTEN / SHACHI / [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink") / PAN
   - 2011年9月23日 - MASTER COLISEUM'11
       -
         w/GARLICBOYS / GOOD4NOTHING / SABOTEN / dustbox / [NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink") / [花団](https://ja.wikipedia.org/wiki/花団 "wikilink") / PAN / [HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")
   - 2012年9月22日・23日 - MASTER COLISEUM'12
       -
-        9月22日:EGG BRAIN / [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") / SABOTEN / [SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink") / [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink") / PAN / [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink")
-        9月23日:UNCHAIN / UNLIMITS / GOOD4NOTHING / SABOTEN / [四星球](https://ja.wikipedia.org/wiki/四星球 "wikilink") / dustbox / PAN / [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")
+        9月22日:EGG BRAIN / [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") / SABOTEN / [SUNSET BUS](https://ja.wikipedia.org/wiki/SUNSET_BUS "wikilink") / [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink") / PAN / [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")
+        9月23日:UNCHAIN / UNLIMITS / GOOD4NOTHING / SABOTEN / [四星球](../Page/四星球.md "wikilink") / dustbox / PAN / [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")
   - 2013年9月21日・22日 - MASTER COLISEUM'13
       -
-        9月21日:ガガガSP / GOOD4NOTHING / SABOTEN / [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") / [THE CHERRY COKE$](https://ja.wikipedia.org/wiki/THE_CHERRY_COKE$ "wikilink") / [BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink") / PAN / [B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")
-        9月22日:EGG BRAIN / OVER ARM THROW / SABOTEN / SHANK / [STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink") / PAN / [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink") / HEY-SMITH
+        9月21日:ガガガSP / GOOD4NOTHING / SABOTEN / [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / [BUZZ THE BEARS](https://ja.wikipedia.org/wiki/BUZZ_THE_BEARS "wikilink") / PAN / [B-DASH](../Page/B-DASH.md "wikilink")
+        9月22日:EGG BRAIN / OVER ARM THROW / SABOTEN / SHANK / [STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink") / PAN / [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink") / HEY-SMITH
   - 2014年9月14日・15日 - MASTER COLISEUM'14
       -
-        9月14日:UNLIMITS / EGG BRAIN / [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink") / SABOTEN / [STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink") / 四星球 / [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink") / PAN
+        9月14日:UNLIMITS / EGG BRAIN / [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink") / SABOTEN / [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink") / 四星球 / [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") / PAN
         9月15日:OVER ARM THROW / GOOD4NOTHING / [グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink") / SABOTEN / dustbox / NUBO / PAN / ROTTENGRAFFTY
   - 2015年9月12日・13日・21日・22日 - MASTER COLISEUM'15
       -
         9月12日:ガガガSP / SABOTEN / SUNSET BUS / [SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink") / [KNOCK OUT MONKEY](https://ja.wikipedia.org/wiki/KNOCK_OUT_MONKEY "wikilink") / BUZZ THE BEARS / PAN / HOTSQUALL
         9月13日:[アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink") / SABOTEN / [Northern19](../Page/Northern19.md "wikilink") / PAN / HEY-SMITH / locofrank / [忘れらんねえよ](https://ja.wikipedia.org/wiki/忘れらんねえよ "wikilink")
-        9月21日:[THE イナズマ戦隊](https://ja.wikipedia.org/wiki/THE_イナズマ戦隊 "wikilink") / SABOTEN / SHANK / STANCE PUNKS / [Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink") / PAN / [04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink") / [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")
+        9月21日:[THE イナズマ戦隊](../Page/THE_イナズマ戦隊.md "wikilink") / SABOTEN / SHANK / STANCE PUNKS / [Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink") / PAN / [04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink") / [POLYSICS](../Page/POLYSICS.md "wikilink")
         9月22日:UNLIMITS / GOOD4NOTHING / SABOTEN / SHACHI / [セックスマシーン](https://ja.wikipedia.org/wiki/セックスマシーン "wikilink") / dustbox / NUBO / PAN
   - 2017年3月12日 - MASTER COLISEUM TOKYO
       -
@@ -957,7 +957,7 @@ DISC2:映画メイキング</p></td>
 
   - 2006年12月23日 - 名古屋魂爆発ツアー〜脱線大作戦〜
   - 2006年8月6日 - [八食サマーフリーライブ](https://ja.wikipedia.org/wiki/八食サマーフリーライブ "wikilink") 2006
-  - 2007年2月15日 - [GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING "wikilink") KISS THE WORLD TOUR 2007
+  - 2007年2月15日 - [GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink") KISS THE WORLD TOUR 2007
   - 2007年5月27日 - GOING KOBE 07
   - 2007年8月4日 - 八食サマーフリーライブ 2007
   - 2008年1月17日〜24日 - [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") "Oath and Tour" 2007-2008
@@ -998,11 +998,11 @@ DISC2:映画メイキング</p></td>
   - 2012年12月16日 - GOOD4NOTHING "ALL THE AWESOME DUDES TOUR" 2012-2013
   - 2012年12月30日 - 笑え\!悲惨な戦い\!\!〜5周年忘年会SP〜
   - 2012年12月31日 - KINDAMA'12-'13〜年越し音泉\!謹賀魂〜
-  - 2013年1月20日 - SPECIAL 2MAN LIVE\!\! [THE BOOGIE JACK](https://ja.wikipedia.org/wiki/THE_BOOGIE_JACK "wikilink")×PAN
+  - 2013年1月20日 - SPECIAL 2MAN LIVE\!\! [THE BOOGIE JACK](../Page/THE_BOOGIE_JACK.md "wikilink")×PAN
   - 2013年1月23日 - PAN vs [THE SKIPPERS](https://ja.wikipedia.org/wiki/THE_SKIPPERS "wikilink")
   - 2013年2月10日 - [Northern19](../Page/Northern19.md "wikilink") LAST WINTER,FIRST STEP tour FINAL-HAVE A NICE DAY\!\!\!5-
   - 2013年2月17日 - [花団](https://ja.wikipedia.org/wiki/花団 "wikilink")解散「ウレカケタオトコタチツアー」
-  - 2013年2月24日 - [SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink") WHITE POOL 観光TOUR
+  - 2013年2月24日 - [SABOTEN](../Page/SABOTEN.md "wikilink") WHITE POOL 観光TOUR
   - 2013年3月3日 - 爆ひな'13
   - 2013年3月20日 - SAKAI MEETING
   - 2013年3月23日 - SECRET 7 LINE pre.THICK FESTIVAL 2013 "KILL 'EM ALL KIDZ"
@@ -1044,7 +1044,7 @@ DISC2:映画メイキング</p></td>
   - 2015年1月20日 - OBUNAP
   - 2015年1月24日 - [Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink") "SUPER DELICIOUS TOUR" FINAL SERIES
   - 2015年2月21日 - [DISK GARAGE](https://ja.wikipedia.org/wiki/DISK_GARAGE "wikilink") MUSIC MONSTERS -2015 winter-
-  - 2015年3月8日 - [THE CHERRY COKE$](https://ja.wikipedia.org/wiki/THE_CHERRY_COKE$ "wikilink")「SUNRISE CRUISE tour」
+  - 2015年3月8日 - [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink")「SUNRISE CRUISE tour」
   - 2015年3月11日 - MASTER PEACE'15
   - 2015年3月14日 - HAPPY JACK 2015
   - 2015年3月15日 - TENJIN ONTAQ 天神音たく
@@ -1053,7 +1053,7 @@ DISC2:映画メイキング</p></td>
   - 2015年3月22日 - SAKAI MEETING 2015
   - 2015年4月25日〜5月17日 - TRIANGLE'15
   - 2015年5月19日 - マキシマムザホルモン「『封印』〜それでは皆さんマタニティ〜」
-  - 2015年5月23日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 全国行脚ツアー2015 「ガガガを聴いたらコンニチワ\!\!」
+  - 2015年5月23日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 全国行脚ツアー2015 「ガガガを聴いたらコンニチワ\!\!」
   - 2015年5月24日 - [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") pre.THICK FESTIVAL 2015
   - 2015年5月30日 - Shimokitazawa SOUND CRUISING 2015
   - 2015年5月31日 - ONION ROCK FES -CHIBA DE CARNIVAL 2015-
@@ -1074,13 +1074,13 @@ DISC2:映画メイキング</p></td>
   - 2015年11月27日・28日 - SHANK OF THE MORNING TOUR
   - 2015年12月4日・5日・2016年2月13日 - NUBO "bonfire" TOUR 2015
   - 2015年12月6日 - HAZIKETEMAZARE FESTIVAL 2015
-  - 2015年12月30日 - [四星球](https://ja.wikipedia.org/wiki/四星球 "wikilink") presents「毛が生えた日〜年末special〜」
+  - 2015年12月30日 - [四星球](../Page/四星球.md "wikilink") presents「毛が生えた日〜年末special〜」
   - 2015年12月31日 - KINDAMA'15-'16〜謹賀魂〜
   - 2016年1月4日 - SECRET 7 LINE pre.THICK FESTIVAL 2016 "Shinji is still drinking \!\!"
   - 2016年1月8日 - GOOD4NOTHING「KIDS AT PLAY TOUR 2015-2016」
   - 2016年1月10日 - ミソフェス2016
   - 2016年1月11日 - モルタル15執念企画〜生誕祭
-  - 2016年1月16日・17日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") "Live Is Beautiful Tour 2015-2016"
+  - 2016年1月16日・17日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") "Live Is Beautiful Tour 2015-2016"
   - 2016年1月31日・4月1日 - [Rhythmic Toy World](https://ja.wikipedia.org/wiki/Rhythmic_Toy_World "wikilink")「俺らに触れたら溶けちゃうぜツアー」
   - 2016年2月12日・26日 - SABOTEN "MASTER PEACE TOUR 2015-2016"
   - 2016年2月20日 - 夢チカLIVE VOL.108
@@ -1124,7 +1124,7 @@ DISC2:映画メイキング</p></td>
   - 2016年10月15日・16日 - Dizzy Sunfist"Dizzy Beats" TOUR 2016
   - 2016年10月20日 - SHELTER 25th Anniversary〜THE REAL THINGS〜
   - 2016年10月22日 - 信州本気ココ一番 2016
-  - 2016年10月23日 - 第12回[石川県立大学](https://ja.wikipedia.org/wiki/石川県立大学 "wikilink") 響緑祭
+  - 2016年10月23日 - 第12回[石川県立大学](../Page/石川県立大学.md "wikilink") 響緑祭
   - 2016年10月29日 - BUZZ THE BEARS presents 愛媛無双2016
   - 2016年10月31日 - SUZUDAMA'16〜圧倒的なTOISUしチャイナ編〜
   - 2016年11月6日 - [MOROHA](https://ja.wikipedia.org/wiki/MOROHA "wikilink") MOROHA III RELEASE TOUR

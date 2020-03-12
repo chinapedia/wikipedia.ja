@@ -1,7 +1,7 @@
 > この記事は[LOST CHILD](https://ja.wikipedia.org/wiki/LOST_CHILD)から翻訳されています。
 
 
-『**LOST CHILD**』（ロストチャイルド）は、[たまソフト](https://ja.wikipedia.org/wiki/たまソフト "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売した[ウィンドウズ用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフト。
+『**LOST CHILD**』（ロストチャイルド）は、[たまソフト](https://ja.wikipedia.org/wiki/たまソフト "wikilink")が[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売した[ウィンドウズ用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフト。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 当初は更に複雑な設定も用意されていたようだが、伏線等と同様に実際に使用されることは無かった。設定の片鱗はオープニング映像からも僅かに読み取ることができる。
 
-このゲームを基にした対戦型格闘ゲーム『**PROJECT CERBERUS**』がアーケードで稼働予定だったが、プラットホームを[PSPに変更して](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に発売した。
+このゲームを基にした対戦型格闘ゲーム『**PROJECT CERBERUS**』がアーケードで稼働予定だったが、プラットホームを[PSPに変更して](../Page/PlayStation_Portable.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に発売した。
 
 ## あらすじ
 
@@ -151,10 +151,10 @@
 ## スタッフ
 
   - シナリオ - [霊岳](https://ja.wikipedia.org/wiki/霊岳 "wikilink")、[枯草純](https://ja.wikipedia.org/wiki/枯草純 "wikilink")
-  - 原画 - [長浜めぐみ](https://ja.wikipedia.org/wiki/長浜めぐみ "wikilink")、[凪良](https://ja.wikipedia.org/wiki/凪良 "wikilink")
-  - BGM - [埼玉最終兵器](https://ja.wikipedia.org/wiki/埼玉最終兵器 "wikilink")、[細井聡司](https://ja.wikipedia.org/wiki/細井聡司 "wikilink")、[kt2](https://ja.wikipedia.org/wiki/kt2 "wikilink")
+  - 原画 - [長浜めぐみ](https://ja.wikipedia.org/wiki/長浜めぐみ "wikilink")、[凪良](../Page/凪良.md "wikilink")
+  - BGM - [埼玉最終兵器](../Page/埼玉最終兵器.md "wikilink")、[細井聡司](../Page/細井聡司.md "wikilink")、[kt2](https://ja.wikipedia.org/wiki/kt2 "wikilink")
   - OPテーマ曲
-      - 「魂の慟哭」（歌：[片霧烈火](https://ja.wikipedia.org/wiki/片霧烈火 "wikilink")&[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")）
+      - 「魂の慟哭」（歌：[片霧烈火](../Page/片霧烈火.md "wikilink")&[霜月はるか](../Page/霜月はるか.md "wikilink")）
 
 ## 外部リンク
 

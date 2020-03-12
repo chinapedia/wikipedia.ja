@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - [2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[SONIC GROOVEよりリリースされた](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
-  - D・A・I（[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")）作曲によるミディアムテンポのアコースティックナンバー。
-  - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")』2002年8・9月度オープニングテーマ。
+  - [2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[SONIC GROOVEよりリリースされた](../Page/SONIC_GROOVE.md "wikilink")。
+  - D・A・I（[長尾大](../Page/長尾大.md "wikilink")）作曲によるミディアムテンポのアコースティックナンバー。
+  - [TBS系](../Page/TBSテレビ.md "wikilink")『[ランク王国](../Page/ランク王国.md "wikilink")』2002年8・9月度オープニングテーマ。
       - 『ランク王国』でのオンエア開始からCDリリースまでの間に、アレンジとサビの歌詞・メロディーが変えられている。オンエアでも途中から差し替えられている。
   - カップリング曲「沈まない太陽」は自身の声にあわせた曲作りが行われた。
 
@@ -28,8 +28,8 @@
 <td><p>1</p></td>
 <td><p><strong>Air</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Kenn_Kato" title="wikilink">Kenn Kato</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長尾大" title="wikilink">D・A・I</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/原田憲" title="wikilink">原田憲</a>,<a href="https://ja.wikipedia.org/wiki/土方隆行" title="wikilink">土方隆行</a></p></td>
+<td><p><a href="../Page/長尾大.md" title="wikilink">D・A・I</a></p></td>
+<td><p><a href="../Page/原田憲.md" title="wikilink">原田憲</a>,<a href="https://ja.wikipedia.org/wiki/土方隆行" title="wikilink">土方隆行</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -87,7 +87,7 @@
 
   - オリジナルアルバム『[pupa](https://ja.wikipedia.org/wiki/pupa_\(アルバム\) "wikilink")』
   - ベストアルバム『[départ〜takako uehara single collection〜](https://ja.wikipedia.org/wiki/depart〜takako_uehara_single_collection〜 "wikilink")』（CD,DVD）
-  - ビデオクリップ集『[TAKAKO UEHARA ON REEL - CLIPS\&MORE](https://ja.wikipedia.org/wiki/TAKAKO_UEHARA_ON_REEL_-_CLIPS&MORE "wikilink")』
+  - ビデオクリップ集『[TAKAKO UEHARA ON REEL - CLIPS\&MORE](../Page/TAKAKO_UEHARA_ON_REEL_-_CLIPS&MORE.md "wikilink")』
 
 ## 外部リンク
 

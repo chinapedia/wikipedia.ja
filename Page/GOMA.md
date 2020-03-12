@@ -1,13 +1,13 @@
 > この記事は[GOMA](https://ja.wikipedia.org/wiki/GOMA)から翻訳されています。
 
 
-**GOMA**（ごま、[1973年](../Page/1973年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ディジュリドゥ](../Page/ディジュリドゥ.md "wikilink")奏者、[画家](../Page/画家.md "wikilink")。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。
+**GOMA**（ごま、[1973年](../Page/1973年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ディジュリドゥ](../Page/ディジュリドゥ.md "wikilink")奏者、[画家](../Page/画家.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。
 
 ## 来歴
 
-1973年1月生まれ。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")[先住民族](https://ja.wikipedia.org/wiki/先住民族 "wikilink")の[管楽器](../Page/管楽器.md "wikilink")[ディジュリドゥ](../Page/ディジュリドゥ.md "wikilink")の奏者・[画家](../Page/画家.md "wikilink")\[1\]。
+1973年1月生まれ。[大阪府](../Page/大阪府.md "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。[オーストラリア](../Page/オーストラリア.md "wikilink")[先住民族](https://ja.wikipedia.org/wiki/先住民族 "wikilink")の[管楽器](../Page/管楽器.md "wikilink")[ディジュリドゥ](../Page/ディジュリドゥ.md "wikilink")の奏者・[画家](../Page/画家.md "wikilink")\[1\]。
 
-1998年にオーストラリアで開催されたディジュリドゥコンペティションにて準優勝を果たし、国内外で活動。2009年11月に交通事故に遭い、[高次脳機能障害](https://ja.wikipedia.org/wiki/高次脳機能障害 "wikilink")の症状により活動を休止。まもなく[点描画](https://ja.wikipedia.org/wiki/点描画 "wikilink")を描き始める。2010年に初の個展「記憶展」を開催。2011年に音楽活動を再開。2012年に本人を主人公とする映画「」に出演し、[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")にて観客賞を受賞。以降、音楽や[絵画](../Page/絵画.md "wikilink")、講演会など活動を広げている\[2\]。
+1998年にオーストラリアで開催されたディジュリドゥコンペティションにて準優勝を果たし、国内外で活動。2009年11月に交通事故に遭い、[高次脳機能障害](../Page/高次脳機能障害.md "wikilink")の症状により活動を休止。まもなく[点描画](https://ja.wikipedia.org/wiki/点描画 "wikilink")を描き始める。2010年に初の個展「記憶展」を開催。2011年に音楽活動を再開。2012年に本人を主人公とする映画「」に出演し、[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")にて観客賞を受賞。以降、音楽や[絵画](../Page/絵画.md "wikilink")、講演会など活動を広げている\[2\]。
 
 ## アルバム
 
@@ -25,7 +25,7 @@
 
 ## 映画
 
-  - （2012年、監督：[松江哲明](https://ja.wikipedia.org/wiki/松江哲明 "wikilink")）
+  - （2012年、監督：[松江哲明](../Page/松江哲明.md "wikilink")）
 
   - PLANETIST（2019年、監督：[豊田利晃](../Page/豊田利晃.md "wikilink")）
 

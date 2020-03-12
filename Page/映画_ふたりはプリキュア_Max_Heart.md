@@ -1,7 +1,7 @@
 > この記事は[  Max Heart](https://ja.wikipedia.org/wiki/__Max_Heart)から翻訳されています。
 
 
-『**映画 ふたりはプリキュア Max Heart**』（えいが ふたりはプリキュア マックスハート）は、2005年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")に公開された、『[ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")』の劇場アニメーション作品である。
+『**映画 ふたりはプリキュア Max Heart**』（えいが ふたりはプリキュア マックスハート）は、2005年[4月16日](../Page/4月16日.md "wikilink")に公開された、『[ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")』の劇場アニメーション作品である。
 
 ## 概要
 
@@ -26,7 +26,7 @@
 ### 本編からの登場人物　
 
   - 美墨 なぎさ（みすみ なぎさ） / [キュアブラック](https://ja.wikipedia.org/wiki/ふたりはプリキュア#プリキュア "wikilink")
-    [声](../Page/声優.md "wikilink") - [本名陽子](https://ja.wikipedia.org/wiki/本名陽子 "wikilink")
+    [声](../Page/声優.md "wikilink") - [本名陽子](../Page/本名陽子.md "wikilink")
     キュアブラックに変身する中学3年生。
     「希望の園」の舞踏会では[チャイナドレス](../Page/チャイナドレス.md "wikilink")を着用した。
     スクエアに1人で戦えないことを否定され、激怒してしまう。
@@ -49,7 +49,7 @@
     声 - [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")
     タッチコミューンに変身し、ひかりにルミナスへ変身する力を与えるパートナー。
   - 藤田 アカネ（ふじた アカネ）
-    声 - [藤田美歌子](https://ja.wikipedia.org/wiki/藤田美歌子 "wikilink")
+    声 - [藤田美歌子](../Page/藤田美歌子.md "wikilink")
     ひかりが手伝っているTAKO CAFEの経営者。
   - 雪城 さなえ（ゆきしろ さなえ）
     声 - [野沢雅子](../Page/野沢雅子.md "wikilink")
@@ -57,7 +57,7 @@
   - 藤村 省吾（ふじむら しょうご）
     声 - [岸尾大輔](https://ja.wikipedia.org/wiki/岸尾大輔 "wikilink")
   - 木俣（きまた）
-    声 - [加藤木賢志](https://ja.wikipedia.org/wiki/加藤木賢志 "wikilink")
+    声 - [加藤木賢志](../Page/加藤木賢志.md "wikilink")
     練習試合の帰り、TAKO CAFEに通りがかる。
 
 ### 希望の園の住人
@@ -71,7 +71,7 @@
     髪が長い以外、外見が藤村に酷似している「希望の園」の王子。
     希望の園のことを大切に思う気持ちは強いが、藤村とは似ても似つかない臆病で頼りない性格。
   - 執事（しつじ）
-    声 - [園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")
+    声 - [園部啓一](../Page/園部啓一.md "wikilink")
     [羊](https://ja.wikipedia.org/wiki/羊 "wikilink")に似た姿をしている、女王の側近。
 
 #### 妖精騎士団
@@ -83,7 +83,7 @@
     最初はプリキュアの実力を計るため襲撃をかけるが即座に降参し、事情を話してなぎさ達を希望の園へと誘った。
     リーダーだけに礼儀正しく、プリキュアへの協力を惜しまない。
   - スクエア
-    声 - [松岡洋子](https://ja.wikipedia.org/wiki/松岡洋子_\(声優\) "wikilink")
+    声 - [松岡洋子](../Page/松岡洋子_\(声優\).md "wikilink")
     顔の長い青いカエルのような姿。誇り高い性格だが、他者と群れることを好まない。
     「希望の園」は自分たちだけで守るべきだと考えており、妖精の中で唯一プリキュアたちを快く思っていなかった。
     自分のことを気にかけてくれたほのかに心を少し開き、3人を少しずつ信頼するようになる。
@@ -96,7 +96,7 @@
     声 - [野田順子](../Page/野田順子.md "wikilink")
     大柄な体型の黄色いカエルのような姿をしている。大阪弁で話す。
   - トリリアント
-    声 - [菊池こころ](https://ja.wikipedia.org/wiki/菊池こころ "wikilink")
+    声 - [菊池こころ](../Page/菊池こころ.md "wikilink")
     眼鏡をかけた紫のカエルの姿をしている。
     外見通り学者らしい性格で、博学であるため騎士団の参謀格的存在。
   - ペア
@@ -111,7 +111,7 @@
   - 魔女（まじょ）
     声 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
     [ドツクゾーンの魔女](https://ja.wikipedia.org/wiki/ふたりはプリキュア#ドツクゾーン "wikilink")。初老の女の姿をしており、ヤシの木のような髪型が特徴。一人称は「あたし」。
-    赤色の羽型の[マフラーと](https://ja.wikipedia.org/wiki/襟巻き "wikilink")[マント](https://ja.wikipedia.org/wiki/マント "wikilink")を身にまとい、[イヤリング](https://ja.wikipedia.org/wiki/イヤリング "wikilink")や[指輪](https://ja.wikipedia.org/wiki/指輪 "wikilink")をつけている。また、[水晶](https://ja.wikipedia.org/wiki/水晶 "wikilink")を携帯している。
+    赤色の羽型の[マフラーと](../Page/襟巻き.md "wikilink")[マント](../Page/マント.md "wikilink")を身にまとい、[イヤリング](../Page/イヤリング.md "wikilink")や[指輪](https://ja.wikipedia.org/wiki/指輪 "wikilink")をつけている。また、[水晶](https://ja.wikipedia.org/wiki/水晶 "wikilink")を携帯している。
     「希望の園」を襲撃して「ダイヤモンドライン」を強奪し、[ジャアクキングの復活を目論んでいる](https://ja.wikipedia.org/wiki/ふたりはプリキュア#上層部 "wikilink")。
     性格は冷酷きわまりなく、友情や奇跡などを否定する。また、自分以外の者は利用するだけの存在と考えている。
     ふだんは「船の墓場」という空間に住んでおり、移動の際は幽霊船を使用する。
@@ -125,7 +125,7 @@
 #### 怪物
 
   - [ザケンナー](https://ja.wikipedia.org/wiki/ふたりはプリキュア#怪物 "wikilink")
-    声 - [滝知史](https://ja.wikipedia.org/wiki/滝知史 "wikilink")
+    声 - [滝知史](../Page/滝知史.md "wikilink")
     巨大なコウモリのザケンナー。複数存在するタイプであり、ボスのみ額に黄色い髪をもつ。
     魔女の手下として、プリキュアの行く手を阻む。
 
@@ -149,10 +149,10 @@
 ## 主題歌
 
   - オープニングテーマ「[DANZEN\! ふたりはプリキュア（Ver. Max Heart）](https://ja.wikipedia.org/wiki/DANZEN!_ふたりはプリキュア "wikilink")」
-    作詞：青木久美子、作曲：[小杉保夫](https://ja.wikipedia.org/wiki/小杉保夫 "wikilink")、編曲：[佐藤直紀](https://ja.wikipedia.org/wiki/佐藤直紀 "wikilink")、歌：[五條真由美](https://ja.wikipedia.org/wiki/五條真由美 "wikilink")
+    作詞：青木久美子、作曲：[小杉保夫](../Page/小杉保夫.md "wikilink")、編曲：[佐藤直紀](../Page/佐藤直紀.md "wikilink")、歌：[五條真由美](../Page/五條真由美.md "wikilink")
   - 挿入歌「希望の涙〜Tears for tomorrow〜」
-    作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：浅田直、編曲：[加藤みちあき](https://ja.wikipedia.org/wiki/加藤みちあき "wikilink")、歌：五條真由美、コーラス：[河井英里](../Page/河井英里.md "wikilink")
-  - エンディングテーマ「[心のチカラ](https://ja.wikipedia.org/wiki/心のチカラ "wikilink")」
+    作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：浅田直、編曲：[加藤みちあき](../Page/加藤みちあき.md "wikilink")、歌：五條真由美、コーラス：[河井英里](../Page/河井英里.md "wikilink")
+  - エンディングテーマ「[心のチカラ](../Page/心のチカラ.md "wikilink")」
     作詞：前田たかひろ、作曲・編曲：h-wonder、歌：[工藤静香](../Page/工藤静香.md "wikilink")
 
 ## 作中用語
@@ -164,19 +164,19 @@
 
 ## スタッフ
 
-  - 製作：[高橋浩](https://ja.wikipedia.org/wiki/高橋浩 "wikilink")（東映アニメーション）、[岡田裕介](https://ja.wikipedia.org/wiki/岡田裕介 "wikilink")（東映）、竹内淳（バンダイ）、永井秀之（アサツー ディ・ケィ）、[西村嘉郎](https://ja.wikipedia.org/wiki/西村嘉郎 "wikilink")（朝日放送）、中山晴喜（マーベラスエンターテイメント）
+  - 製作：[高橋浩](../Page/高橋浩.md "wikilink")（東映アニメーション）、[岡田裕介](../Page/岡田裕介.md "wikilink")（東映）、竹内淳（バンダイ）、永井秀之（アサツー ディ・ケィ）、[西村嘉郎](../Page/西村嘉郎.md "wikilink")（朝日放送）、中山晴喜（マーベラスエンターテイメント）
   - プロデューサー：清水慎治
   - 脚本：[羽原大介](../Page/羽原大介.md "wikilink")
-  - 音楽：[佐藤直紀](https://ja.wikipedia.org/wiki/佐藤直紀 "wikilink")
+  - 音楽：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
   - 製作担当 - 坂井和男
   - 編集：麻生芳弘
   - 録音：川崎公敬
-  - 音響効果：石野貴久（[サウンドリング](https://ja.wikipedia.org/wiki/サウンドリング "wikilink")）
+  - 音響効果：石野貴久（[サウンドリング](../Page/サウンドリング.md "wikilink")）
   - キャラクターデザイン：[稲上晃](../Page/稲上晃.md "wikilink")、[爲我井克美](https://ja.wikipedia.org/wiki/爲我井克美 "wikilink")
   - 作画監督：爲我井克美、[青山充](https://ja.wikipedia.org/wiki/青山充 "wikilink")
   - 美術監督：[行信三](../Page/行信三.md "wikilink")
   - 製作：映画ふたりはプリキュアM製作委員会（東映アニメーション、[東映](../Page/東映.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、[アサツー ディ・ケイ](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")、[朝日放送](../Page/朝日放送テレビ.md "wikilink")、[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")）
-  - 監督：[志水淳児](https://ja.wikipedia.org/wiki/志水淳児 "wikilink")
+  - 監督：[志水淳児](../Page/志水淳児.md "wikilink")
 
 ## 備考
 

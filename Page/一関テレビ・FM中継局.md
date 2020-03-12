@@ -16,7 +16,7 @@
 <tr class="header">
 <th><p>放送局名</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/テレビ周波数チャンネル#岩手県" title="wikilink">テレビチャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/放送対象地域.md" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送区域" title="wikilink">放送区域</a>内世帯数</p></th>
@@ -24,7 +24,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">NHK盛岡</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">NHK盛岡</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>2ch</p></td>
 <td><p>映像25W/<br />
 音声6.3W</p></td>
@@ -34,7 +34,7 @@
 <td><p>不明</p></td>
 </tr>
 <tr class="even">
-<td><p>NHK盛岡<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p>NHK盛岡<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>9ch</p></td>
 <td><p>映像21W/<br />
 音声5.2W</p></td>
@@ -88,7 +88,7 @@
 <tr class="header">
 <th><p>放送局名</p></th>
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p>ERP</p></th>
 <th><p>放送対象地域</p></th>
 <th><p>放送区域内世帯数</p></th>
@@ -104,7 +104,7 @@
 <td><p>約-世帯</p></td>
 </tr>
 <tr class="even">
-<td><p>NHK盛岡<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM放送</a></p></td>
+<td><p>NHK盛岡<a href="../Page/NHK-FM放送.md" title="wikilink">FM放送</a></p></td>
 <td><p>83.8MHz</p></td>
 <td><p>17.5W</p></td>
 <td></td>
@@ -216,7 +216,7 @@ ID</a></p></th>
 </tbody>
 </table>
 
-  - 一関デジタルテレビ中継局の放送エリアは、[胆沢郡](../Page/胆沢郡.md "wikilink")[金ケ崎町](https://ja.wikipedia.org/wiki/金ケ崎町 "wikilink")の全域と[一関市](../Page/一関市.md "wikilink")・[奥州市](https://ja.wikipedia.org/wiki/奥州市 "wikilink")・[北上市](../Page/北上市.md "wikilink")・[西磐井郡](../Page/西磐井郡.md "wikilink")[平泉町](https://ja.wikipedia.org/wiki/平泉町 "wikilink")の各一部地域である。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月13日](../Page/8月13日.md "wikilink")に本免許が交付され、同年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に本放送を開始した。
+  - 一関デジタルテレビ中継局の放送エリアは、[胆沢郡](../Page/胆沢郡.md "wikilink")[金ケ崎町](../Page/金ケ崎町.md "wikilink")の全域と[一関市](../Page/一関市.md "wikilink")・[奥州市](../Page/奥州市.md "wikilink")・[北上市](../Page/北上市.md "wikilink")・[西磐井郡](../Page/西磐井郡.md "wikilink")[平泉町](https://ja.wikipedia.org/wiki/平泉町 "wikilink")の各一部地域である。[2007年](../Page/2007年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")に本免許が交付され、同年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に本放送を開始した。
 
 ### 一関中継局の要目
 
@@ -387,7 +387,7 @@ ID</a></p></th>
 </tbody>
 </table>
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、同年[11月](../Page/11月.md "wikilink")上旬から[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始、[11月25日](../Page/11月25日.md "wikilink")本免許交付、[11月30日](../Page/11月30日.md "wikilink")本放送開始。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")[予備免許](../Page/予備免許.md "wikilink")交付、同年[11月](../Page/11月.md "wikilink")上旬から[試験放送](../Page/試験放送.md "wikilink")開始、[11月25日](../Page/11月25日.md "wikilink")本免許交付、[11月30日](../Page/11月30日.md "wikilink")本放送開始。
 
 ### 一関釣山中継局の要目
 
@@ -531,7 +531,7 @@ ID</a></p></th>
 
 ## 関連項目
 
-  - [NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")
+  - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")
   - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")
   - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
@@ -548,5 +548,5 @@ ID</a></p></th>
 
 [Category:平泉町](https://ja.wikipedia.org/wiki/Category:平泉町 "wikilink") [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:テレビ岩手](https://ja.wikipedia.org/wiki/Category:テレビ岩手 "wikilink") [Category:岩手朝日テレビ](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビ "wikilink") [Category:IBC岩手放送](https://ja.wikipedia.org/wiki/Category:IBC岩手放送 "wikilink") [Category:岩手めんこいテレビ](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビ "wikilink") [Category:エフエム岩手](https://ja.wikipedia.org/wiki/Category:エフエム岩手 "wikilink")
 
-1.  2015年11月23日より[試験電波](https://ja.wikipedia.org/wiki/試験電波 "wikilink")を発射、同年12月1日より本放送開始（[山田FM](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")、[岩泉小本FMに続く](https://ja.wikipedia.org/wiki/岩泉テレビ中継局 "wikilink")3番目のFM中継局として開局。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
+1.  2015年11月23日より[試験電波](../Page/試験電波.md "wikilink")を発射、同年12月1日より本放送開始（[山田FM](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")、[岩泉小本FMに続く](../Page/岩泉テレビ中継局.md "wikilink")3番目のFM中継局として開局。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
 2.  [地上デジタルテレビジョン放送局チャンネル再編予定表](http://www.soumu.go.jp/menu_news/s-news/2009/pdf/090403_02_bt.pdf) - 総務省（2009年4月3日付）

@@ -1,11 +1,11 @@
 > この記事は[Metro trip](https://ja.wikipedia.org/wiki/Metro_trip)から翻訳されています。
 
 
-**metro trip**（メトロ・トリップ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。2000年結成。2007年[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")からメジャーデビュー。
+**metro trip**（メトロ・トリップ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2000年結成。2007年[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")からメジャーデビュー。
 
 ## メンバー
 
-  - **日野 友香**（ひの ともか、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月12日](../Page/1月12日.md "wikilink") - ）作詞・ボーカル。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身
+  - **日野 友香**（ひの ともか、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月12日](../Page/1月12日.md "wikilink") - ）作詞・ボーカル。[東京都](../Page/東京都.md "wikilink")出身
   - **[青木 多果](http://aokitaka.com/)**（あおき たか、[4月13日](../Page/4月13日.md "wikilink") - ）プロデュース・作詞・作曲・編曲・ギター・[tinystep records代表](http://tinystep.info/)。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊勢市](../Page/伊勢市.md "wikilink")出身
 
 ## ディスコグラフィ
@@ -55,7 +55,7 @@
     7.  Bagna Cauda(inst.)
     8.  フランキー
     9.  しあわせの涙
-    10. 都会（[大貫妙子](https://ja.wikipedia.org/wiki/大貫妙子 "wikilink")のカバー）
+    10. 都会（[大貫妙子](../Page/大貫妙子.md "wikilink")のカバー）
     11. Shiii
     12. [朝日のあたる道](https://ja.wikipedia.org/wiki/朝日のあたる道 "wikilink")（[ORIGINAL LOVEのカバー](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")）
 
@@ -82,7 +82,7 @@
   - **Dear Chocolat Sienne**（2005年12月14日）
       -
         4.BABYBABY
-  - [COSA NOSTRA](https://ja.wikipedia.org/wiki/COSA_NOSTRA "wikilink")「**re-generation**」（2005年12月14日）
+  - [COSA NOSTRA](../Page/COSA_NOSTRA.md "wikilink")「**re-generation**」（2005年12月14日）
       -
         6.マリオネット (remix by metro trip)
   - **Authentica voyage vol.4**（2006年4月19日）
@@ -94,8 +94,8 @@
 
 ### 音楽ゲーム
 
-  - **[DANCE 86.4 FUNKY RADIO STATION](https://ja.wikipedia.org/wiki/DANCE_86.4_FUNKY_RADIO_STATION "wikilink")**（2005年夏）
-      - [聖者の行進](https://ja.wikipedia.org/wiki/聖者の行進 "wikilink") (AOR EDITION) / 日野友香
+  - **[DANCE 86.4 FUNKY RADIO STATION](../Page/DANCE_86.4_FUNKY_RADIO_STATION.md "wikilink")**（2005年夏）
+      - [聖者の行進](../Page/聖者の行進.md "wikilink") (AOR EDITION) / 日野友香
   - **[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") 12 いろは**（プレイステーション2版・2006年3月2日）
       - 東京ガール
   - **pop'n music 15 ADVENTURE**（2007年4月）

@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><strong>Come close to me</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河村隆一" title="wikilink">河村隆一</a></p></td>
+<td><p><a href="../Page/河村隆一.md" title="wikilink">河村隆一</a></p></td>
 <td><p>河村隆一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/土方隆行" title="wikilink">土方隆行</a></p></td>
 </tr>

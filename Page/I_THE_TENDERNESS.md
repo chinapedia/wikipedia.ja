@@ -1,7 +1,7 @@
 > この記事は[I THE TENDERNESS](https://ja.wikipedia.org/wiki/I_THE_TENDERNESS)から翻訳されています。
 
 
-**I THE TENDERNESS**（アイ・ザ・テンダネス）は日本の2人組[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。略称は「**ITT**」。1999年結成。2005年[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。2006年[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")に移籍。2008年11月をもって無期限の活動休止。[So' FlyのGIORGIO](https://ja.wikipedia.org/wiki/So'_Fly "wikilink")13がプロデュースしているためしばしばコラボレートしている。
+**I THE TENDERNESS**（アイ・ザ・テンダネス）は日本の2人組[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。略称は「**ITT**」。1999年結成。2005年[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。2006年[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")に移籍。2008年11月をもって無期限の活動休止。[So' FlyのGIORGIO](https://ja.wikipedia.org/wiki/So'_Fly "wikilink")13がプロデュースしているためしばしばコラボレートしている。
 
 ## メンバー
 

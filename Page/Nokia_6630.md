@@ -1,9 +1,9 @@
 > この記事は[Nokia 6630](https://ja.wikipedia.org/wiki/Nokia_6630)から翻訳されています。
 
 
-**Nokia 6630**は、[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")が[2004年](../Page/2004年.md "wikilink")に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")である。
+**Nokia 6630**は、[ノキア](../Page/ノキア.md "wikilink")が[2004年](../Page/2004年.md "wikilink")に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")である。
 
-日本では、日本語化及びキャリア向けのカスタマイズが行われ、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）より[Vodafone 702NKが](../Page/Vodafone_702NK.md "wikilink")2004年12月に、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")より[FOMA](../Page/FOMA.md "wikilink")[NM850iG](../Page/NM850iG.md "wikilink")として[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月に発売された。また、ノキア・ジャパンから**Nokia 6630スタンダードバージョン**として2006年6月に発売された。Vodafone 702NKおよびFOMA NM850iGは、詳しくは各項目を参照。
+日本では、日本語化及びキャリア向けのカスタマイズが行われ、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）より[Vodafone 702NKが](../Page/Vodafone_702NK.md "wikilink")2004年12月に、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")より[FOMA](../Page/FOMA.md "wikilink")[NM850iG](../Page/NM850iG.md "wikilink")として[2006年](../Page/2006年.md "wikilink")2月に発売された。また、ノキア・ジャパンから**Nokia 6630スタンダードバージョン**として2006年6月に発売された。Vodafone 702NKおよびFOMA NM850iGは、詳しくは各項目を参照。
 
 ## スペック
 
@@ -20,11 +20,11 @@
 
 海外では[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に分類される端末であり、通常の携帯電話と比べて[PIM機能が充実している](../Page/Personal_Information_Manager.md "wikilink")。 端末に付属しているNokia PC Suiteソフトウェアを使用すれば、[Outlook](https://ja.wikipedia.org/wiki/Outlook "wikilink")や[Lotus Notes等とPIM情報その他を同期させることが出来る](../Page/ロータス_\(ソフトウェア\).md "wikilink")。[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink") 10.4ユーザーならば、iSyncを使用して同期させることも出来る。
 
-標準搭載の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")はいわゆる[フルブラウザ](https://ja.wikipedia.org/wiki/フルブラウザ "wikilink")であり、表現力に制約はあるものの、多くのPC向け[ウェブサイト](../Page/ウェブサイト.md "wikilink")の閲覧が可能。ただし、body要素による文字色の指定が効かないというバグがあり、背景が黒いページでは真っ黒になって読めないことが多いという問題がある。
+標準搭載の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")はいわゆる[フルブラウザ](../Page/フルブラウザ.md "wikilink")であり、表現力に制約はあるものの、多くのPC向け[ウェブサイト](../Page/ウェブサイト.md "wikilink")の閲覧が可能。ただし、body要素による文字色の指定が効かないというバグがあり、背景が黒いページでは真っ黒になって読めないことが多いという問題がある。
 
-自分撮り用のカメラを持たないため、[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")には不向きである。自分撮りでのテレビ電話を行うには、別売の「TVコールスタンド」に装着する（ただし、据え置きとなる。また、ノキアストアやノキアオンラインショップでの販売を行っていないため、ボーダフォン（現・[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の[702NKのオプションという形で入手する形となる](https://ja.wikipedia.org/wiki/#Vodafone_702NK "wikilink")。）。
+自分撮り用のカメラを持たないため、[テレビ電話](../Page/テレビ電話.md "wikilink")には不向きである。自分撮りでのテレビ電話を行うには、別売の「TVコールスタンド」に装着する（ただし、据え置きとなる。また、ノキアストアやノキアオンラインショップでの販売を行っていないため、ボーダフォン（現・[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の[702NKのオプションという形で入手する形となる](https://ja.wikipedia.org/wiki/#Vodafone_702NK "wikilink")。）。
 
-プラットフォームに[S60を採用しているため](https://ja.wikipedia.org/wiki/Series_60 "wikilink")、パソコンを使用することによってユーザー自身で機能を追加することができる。 有償で提供されている[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")や[NetFront](https://ja.wikipedia.org/wiki/NetFront "wikilink")の他、各種の[シェアウェア](../Page/シェアウェア.md "wikilink")や[フリーウェア](../Page/フリーウェア.md "wikilink")、テーマ（[スキン](https://ja.wikipedia.org/wiki/スキン "wikilink")）、[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")などが利用可能。 ただし、Vodafone 702NKでは、ユーザーによるネイティブアプリケーションのインストールに一部制約がある。およびFOMA NM850iGはネイティブアプリケーションのインストールができないため何もできない。
+プラットフォームに[S60を採用しているため](https://ja.wikipedia.org/wiki/Series_60 "wikilink")、パソコンを使用することによってユーザー自身で機能を追加することができる。 有償で提供されている[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")や[NetFront](https://ja.wikipedia.org/wiki/NetFront "wikilink")の他、各種の[シェアウェア](../Page/シェアウェア.md "wikilink")や[フリーウェア](../Page/フリーウェア.md "wikilink")、テーマ（[スキン](https://ja.wikipedia.org/wiki/スキン "wikilink")）、[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")などが利用可能。 ただし、Vodafone 702NKでは、ユーザーによるネイティブアプリケーションのインストールに一部制約がある。およびFOMA NM850iGはネイティブアプリケーションのインストールができないため何もできない。
 
 外部端子として底面にノキア独自のPop-Portを備える。他社製端末との端子の互換性はない（これは702NKやNM850iGでも変わらず、他のVodafone 3G端末やFOMA端末の端子との互換性はない）。またこれとは別に[ACアダプタ](../Page/ACアダプタ.md "wikilink")（充電器）の端子がある。
 
@@ -32,7 +32,7 @@
 
 ## スタンダードバージョン
 
-スタンダードバージョンにはSIMロックがかかっていないため、多くのキャリアで使用可能である。 日本国内でもFOMAおよびSoftBank 3Gのネットワークで使用可能（[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")は、使用周波数帯が異なるため、使用不可）。
+スタンダードバージョンにはSIMロックがかかっていないため、多くのキャリアで使用可能である。 日本国内でもFOMAおよびSoftBank 3Gのネットワークで使用可能（[イー・モバイル](../Page/イー・モバイル.md "wikilink")は、使用周波数帯が異なるため、使用不可）。
 
 FOMAまたはSoftBank 3Gの契約で使用する場合、[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")・SMS・データ通信以外のキャリア固有機能（ウェブ・メール/MMS・アプリなど）は、利用できないか、利用できても制限がつくことがあるので注意が必要（ネット接続には、ドコモは[mopera Uの契約が必須](https://ja.wikipedia.org/wiki/mopera_U "wikilink")、ボーダフォンはVFJP Access Internet経由でのパケット接続のみだったが、SoftBankブランド変更後は、加えて、[S\!ベーシックパック](https://ja.wikipedia.org/wiki/S!ベーシックパック "wikilink")の契約が必須になった）。
 
@@ -46,7 +46,7 @@ FOMAまたはSoftBank 3Gの契約で使用する場合、[音声通話](https://
 
 端末の[ユーザーインターフェイス](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")が海外で一般的なものであり一般の日本製端末と異なり、日本独自の機能にはほぼ未対応である。しかし、端末の自由度が高いため、端末内部・外部の改変をすることが可能である。また、操作性に関しては、端末販売キャリアである[Vodafoneが発売当時は全世界共通操作性を展開していたため](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")、この機種だけの問題ではない。 また、Vodafone 702NKについては、同時期にボーダフォンから発売された他の3G端末と異なり、重大な不具合は見つかっていない。
 
-[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")のセキュリティ企業[F-Secure](../Page/F-Secure.md "wikilink")は、日本人旅行者が[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に持参したVodafone 702NKに、[携帯電話ウイルス](https://ja.wikipedia.org/wiki/携帯電話ウイルス "wikilink")「Cabir」がBluetooth経由で感染した事例が発見されたと発表し、IT・通信系ニュース媒体でも報道された。
+[フィンランド](../Page/フィンランド.md "wikilink")のセキュリティ企業[F-Secure](../Page/F-Secure.md "wikilink")は、日本人旅行者が[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に持参したVodafone 702NKに、[携帯電話ウイルス](../Page/携帯電話ウイルス.md "wikilink")「Cabir」がBluetooth経由で感染した事例が発見されたと発表し、IT・通信系ニュース媒体でも報道された。
 
 しかし、CabirはOSの脆弱性を突いて感染するものではないため、通常のインストール手順をとらねば感染しないが、前述の通り、電子署名のないネイティブアプリケーションをVodafone 702NKに通常の方法でインストールすることは（たとえ利用者にその意図があっても）不可能である。
 

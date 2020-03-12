@@ -1,7 +1,7 @@
 > この記事は[DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY)から翻訳されています。
 
 
-**DJ MASTERKEY**（ディージェイ・マスターキー、本名：矢沢 正樹〔やざわ まさき〕）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[BUDDHA BRANDのDJとして活動](../Page/BUDDHA_BRAND.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[蒲田](https://ja.wikipedia.org/wiki/蒲田 "wikilink")出身。
+**DJ MASTERKEY**（ディージェイ・マスターキー、本名：矢沢 正樹〔やざわ まさき〕）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[BUDDHA BRANDのDJとして活動](../Page/BUDDHA_BRAND.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[蒲田](../Page/蒲田.md "wikilink")出身。
 
 ## 略歴
 
@@ -10,10 +10,10 @@
   - [1988年](../Page/1988年.md "wikilink")
       - 渡米し、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のクラブでDJ活動をする傍ら、[DEV LARGE](../Page/DEV_LARGE.md "wikilink")、[NIPPS](../Page/NIPPS.md "wikilink")、CQと共に[BUDDHA BRANDを結成](../Page/BUDDHA_BRAND.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に日本に帰国。
   - [2001年](../Page/2001年.md "wikilink")
-      - 自身のプロダクション&レコードレーベル「THE LIFE ENTERTAINMENT」を[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に設立。
+      - 自身のプロダクション&レコードレーベル「THE LIFE ENTERTAINMENT」を[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に設立。
   - [2003年](../Page/2003年.md "wikilink")冬
       - 自身のニックネームと同名のアパレルブランド「ROCKSMITH」を設立。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 「ROCKSMITH」のデザインをニューヨークの「kiloインターナショナル」と共同で行うようになる。
 
 ## 人物
@@ -94,7 +94,7 @@
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a>5月22日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
-<p>NITEMARE feat. <a href="../Page/DABO.md" title="wikilink">DABO</a>, <a href="https://ja.wikipedia.org/wiki/SUIKEN" title="wikilink">SUIKEN</a>, <a href="../Page/DELI.md" title="wikilink">DELI</a> &amp; <a href="https://ja.wikipedia.org/wiki/BIGZAM" title="wikilink">BIGZAM</a></p>
+<p>NITEMARE feat. <a href="../Page/DABO.md" title="wikilink">DABO</a>, <a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a>, <a href="../Page/DELI.md" title="wikilink">DELI</a> &amp; <a href="https://ja.wikipedia.org/wiki/BIGZAM" title="wikilink">BIGZAM</a></p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
@@ -168,7 +168,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Intro feat.BAMBOO[0:59]</li>
-<li>Friday Night feat.<a href="https://ja.wikipedia.org/wiki/G.K.MARYAN" title="wikilink">G.K.MARYAN</a>[2:56]</li>
+<li>Friday Night feat.<a href="../Page/G.K.MARYAN.md" title="wikilink">G.K.MARYAN</a>[2:56]</li>
 <li>RUMBLE feat.DELI[3:24]</li>
 <li>MEANING OF LIFE feat.HI-TIMEZ+<a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a>[4:20]</li>
 <li>Answerring Machine Skit[0:29]</li>
@@ -179,7 +179,7 @@
 <li>Skit 1[4:37]</li>
 <li>ILL STREET BLUES feat.K DUB SHINE[4:08]</li>
 <li>サイコロ52 feat.NIPPS/CQ[4:36]</li>
-<li>やっぱこれだろ feat.<a href="https://ja.wikipedia.org/wiki/ラッパ我リヤ" title="wikilink">ラッパ我リヤ</a>[3:52]</li>
+<li>やっぱこれだろ feat.<a href="../Page/ラッパ我リヤ.md" title="wikilink">ラッパ我リヤ</a>[3:52]</li>
 <li>Skit2[1:53]</li>
 <li>RIDE WITH ME(ALBUM ver.)feat.F.O.H[4:40]</li>
 <li>MASTERPLAY feat.<a href="../Page/TWIGY.md" title="wikilink">TWIGY</a>[3:39]</li>
@@ -217,7 +217,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>1月26日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>1月26日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>THE LIFE ENTERTAINMENT.PRESENTS DADDY'S HOUSE Vol.3</p>
@@ -252,7 +252,7 @@
 <td><p>2005年10月26日</p></td>
 <td><p><strong>DADDY'S HOUSE BEST</strong></p></td>
 <td><p>オリコン136位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a></p></td>
+<td><p><a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -284,12 +284,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>8月10日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>8月10日</p></td>
 <td><p><strong>TOP RANKIN' MIXED BY DJ Masterkey</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>6月7日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>6月7日</p></td>
 <td><p><strong>THE ADVENTURES OF DADDY'S HOUSE</strong></p></td>
 <td><p>オリコン48位</p></td>
 </tr>
@@ -305,19 +305,19 @@
 <li>人間発電所(ORIGINAL'96VERSION)/ BUDDHA BRAND</li>
 <li>DANCEHALL CHECKER/ <a href="https://ja.wikipedia.org/wiki/ZEEBRA" title="wikilink">ZEEBRA</a></li>
 <li>証言/ RINO</li>
-<li>NITEMAREfeat.<a href="../Page/DABO.md" title="wikilink">DABO</a>/<a href="../Page/DELI.md" title="wikilink">DELI</a>/<a href="https://ja.wikipedia.org/wiki/SUIKEN" title="wikilink">SUIKEN</a>/<a href="https://ja.wikipedia.org/wiki/BIGZAM" title="wikilink">BIGZAM</a>/ DJ MASTERKEY</li>
+<li>NITEMAREfeat.<a href="../Page/DABO.md" title="wikilink">DABO</a>/<a href="../Page/DELI.md" title="wikilink">DELI</a>/<a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a>/<a href="https://ja.wikipedia.org/wiki/BIGZAM" title="wikilink">BIGZAM</a>/ DJ MASTERKEY</li>
 <li>ラストエンペラー/ <a href="https://ja.wikipedia.org/wiki/K_DUB_SHINE" title="wikilink">K DUB SHINE</a></li>
 <li>Rollin' on remix feat.<a href="https://ja.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a>/ DOUBLE</li>
 <li>PARTY ALL NITE・・・(HOW WE ROLL) feat.DJ KAORI/ DJ MASTERKEY</li>
 <li>DO OR DIE feat.<a href="https://ja.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a>/ JHETT</li>
 <li>Summer time cruising/ COLOR</li>
-<li><a href="../Page/スタート_(KREVAの曲).md" title="wikilink">スタート</a>/ <a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li><a href="../Page/スタート_(KREVAの曲).md" title="wikilink">スタート</a>/ <a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li>Slow Jam feat.<a href="../Page/童子-T.md" title="wikilink">童子-T</a>/ ARIA</li>
 <li>ブッダの休日/ BUDDHA BRAND</li>
 <li><a href="../Page/イッサイガッサイ.md" title="wikilink">イッサイガッサイ</a>/ KREVA</li>
 <li>ONE DAY(KREVA remix)/ <a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a> loves <a href="https://ja.wikipedia.org/wiki/加藤ミリヤ" title="wikilink">加藤ミリヤ</a></li>
-<li>25/7(7DAYS remix) feat.<a href="https://ja.wikipedia.org/wiki/PUSHIM" title="wikilink">PUSHIM</a>/ <a href="https://ja.wikipedia.org/wiki/MURO" title="wikilink">MURO</a></li>
-<li>F.F.B(DJ MASTERKEY remix)/ <a href="https://ja.wikipedia.org/wiki/KGDR" title="wikilink">キングギドラ</a></li>
+<li>25/7(7DAYS remix) feat.<a href="https://ja.wikipedia.org/wiki/PUSHIM" title="wikilink">PUSHIM</a>/ <a href="../Page/MURO.md" title="wikilink">MURO</a></li>
+<li>F.F.B(DJ MASTERKEY remix)/ <a href="../Page/KGDR.md" title="wikilink">キングギドラ</a></li>
 <li>GOLDEN MIC feat.ZEEBRA/ DJ MASTERKEY</li>
 <li>REMIX(KRUSH GROOVE4)/ BUDDHA BRAND</li>
 <li>KRUSH GOOVE3(VIRGIN:ワになってさわれ!)/ BUDDHA BRAND</li>
@@ -473,16 +473,16 @@
 
 ### 主なリミックス作品
 
-| 発売日                                        | アーティスト                                                          | 曲順 | 楽曲名                                                                        | 収録作品名                                                   |
-| ------------------------------------------ | --------------------------------------------------------------- | -- | -------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [2001年](../Page/2001年.md "wikilink")10月31日 | [DJ YUTAKA](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink") | 2  | **BACK UP(SAGARE)<small>(Remixed by DJ MASTERKEY)</small>**                | **UNITED NATIONS“THE REMIX”**                           |
-| [2003年](../Page/2003年.md "wikilink")3月29日  | [清貴](https://ja.wikipedia.org/wiki/清貴 "wikilink")               | 4  | **The Only One<small>(DJ MASTERKEY REMIX)</small>**                        | **THE Remix**                                           |
-| 2003年9月26日                                 | [SOULHEAD](../Page/SOULHEAD.md "wikilink")                      | 4  | **BREAK UP<small>〜DJ MASTERKEY REMIX〜</small>**                            | **REFLECTION**                                          |
-| 2003年10月8日                                 | [キングギドラ](https://ja.wikipedia.org/wiki/KGDR "wikilink")         | 5  | **F.F.B.<small>(DJ MASTERKEY Remix)</small>**                              | **最新兵器**                                                |
-| 2003年11月27日                                | [XBS](https://ja.wikipedia.org/wiki/XBS "wikilink")             | 4  | **HEY\! DEEJAY\! <small>DJ MASTERKEY REMIX</small>**                       | **ALL DAY ALL NIGHT**                                   |
-| 2003年12月10日                                | [V.A.](../Page/オムニバス.md "wikilink")                             | 9  | **青春のテーマ<small>（DJ MASTERKEY Remix）</small>**                              | **「[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")」Remixies** |
-| [2004年](../Page/2004年.md "wikilink")6月23日  | [MIC BANK](../Page/MIC_BANK.md "wikilink")                      | 4  | **B NUTS <small>DJ MASTERKEY THE LIFE REMIX</small>**                      | **B NUTS**                                              |
-| 2004年9月29日                                 | [CHRIS](../Page/佐々木クリス.md "wikilink")                           | 16 | **KICK DA SHIT <small>feat.ALALAGI,三角K,MIKO,KUTTS & DJ MASTERKEY</small>** | **暁けの明星**                                               |
+| 発売日                                        | アーティスト                                       | 曲順 | 楽曲名                                                                        | 収録作品名                                                   |
+| ------------------------------------------ | -------------------------------------------- | -- | -------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [2001年](../Page/2001年.md "wikilink")10月31日 | [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink") | 2  | **BACK UP(SAGARE)<small>(Remixed by DJ MASTERKEY)</small>**                | **UNITED NATIONS“THE REMIX”**                           |
+| [2003年](../Page/2003年.md "wikilink")3月29日  | [清貴](../Page/清貴.md "wikilink")               | 4  | **The Only One<small>(DJ MASTERKEY REMIX)</small>**                        | **THE Remix**                                           |
+| 2003年9月26日                                 | [SOULHEAD](../Page/SOULHEAD.md "wikilink")   | 4  | **BREAK UP<small>〜DJ MASTERKEY REMIX〜</small>**                            | **REFLECTION**                                          |
+| 2003年10月8日                                 | [キングギドラ](../Page/KGDR.md "wikilink")         | 5  | **F.F.B.<small>(DJ MASTERKEY Remix)</small>**                              | **最新兵器**                                                |
+| 2003年11月27日                                | [XBS](../Page/XBS.md "wikilink")             | 4  | **HEY\! DEEJAY\! <small>DJ MASTERKEY REMIX</small>**                       | **ALL DAY ALL NIGHT**                                   |
+| 2003年12月10日                                | [V.A.](../Page/オムニバス.md "wikilink")          | 9  | **青春のテーマ<small>（DJ MASTERKEY Remix）</small>**                              | **「[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")」Remixies** |
+| [2004年](../Page/2004年.md "wikilink")6月23日  | [MIC BANK](../Page/MIC_BANK.md "wikilink")   | 4  | **B NUTS <small>DJ MASTERKEY THE LIFE REMIX</small>**                      | **B NUTS**                                              |
+| 2004年9月29日                                 | [CHRIS](../Page/佐々木クリス.md "wikilink")        | 16 | **KICK DA SHIT <small>feat.ALALAGI,三角K,MIKO,KUTTS & DJ MASTERKEY</small>** | **暁けの明星**                                               |
 
 ## 外部リンク
 

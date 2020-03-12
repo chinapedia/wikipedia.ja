@@ -13,7 +13,7 @@
 
 その後、『Gemini』、『To My Love』などのアルバムを発表したが、所属事務所との契約問題が起こり、活動を中断。
 
-また、[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")、[DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")、[SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink")、[SPHERE of INFLUENCEなどの日本人ヒップホップ](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink")・R\&Bアーティストと共演をしたこともある。
+また、[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")、[DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")、[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")、[SPHERE of INFLUENCEなどの日本人ヒップホップ](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink")・R\&Bアーティストと共演をしたこともある。
 
 ## ディスコグラフィ
 

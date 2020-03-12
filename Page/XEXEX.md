@@ -5,7 +5,7 @@
 
 自機「フリントロック」を操作し、惑星イースクウェアに向かい生命体フリントの謎を解く事を目的としている。
 
-後に[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[沙羅曼蛇 ポータブル](https://ja.wikipedia.org/wiki/沙羅曼蛇_ポータブル "wikilink")』（[2007年](../Page/2007年.md "wikilink")）に移植版が収録された。
+後に[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『[沙羅曼蛇 ポータブル](../Page/沙羅曼蛇_ポータブル.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")）に移植版が収録された。
 
 本作はゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第6回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1992年度）にて、大賞3位、ベストシューティング賞2位、ベスト演出賞6位、ベストグラフィック賞1位、ベストVGM賞1位を獲得した。
 
@@ -178,7 +178,7 @@
   - イレーネ・ラ・ティアス
     惑星イースクウェア王女。クラウスたちに攻め込まれ闘う手段が無かったのでテレパシーで地球に助けを求めるが、クラウスに捕まり酷い仕打ちを受けていく。
       - イレーネオフィシャルデータ（サウンドトラックのおまけより）
-    出身はイースクウェア、年齢は17歳。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")は158[cm](../Page/センチメートル.md "wikilink")、[体重](https://ja.wikipedia.org/wiki/体重 "wikilink")は42[kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")、[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")は83・57・85\[1\]。
+    出身はイースクウェア、年齢は17歳。[身長](../Page/身長.md "wikilink")は158[cm](../Page/センチメートル.md "wikilink")、[体重](../Page/体重.md "wikilink")は42[kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")、[スリーサイズ](../Page/スリーサイズ.md "wikilink")は83・57・85\[1\]。
   - クラウス・パッヘルベル
     惑星イースクウェアに侵略しイレーネ姫を拘束した王子。
 
@@ -201,9 +201,9 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沙羅曼蛇_ポータブル" title="wikilink">沙羅曼蛇 ポータブル</a></p></td>
+<td><p><a href="../Page/沙羅曼蛇_ポータブル.md" title="wikilink">沙羅曼蛇 ポータブル</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">M2</a></p></td>
 <td><p>KDE</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサルメディアディスク" title="wikilink">UMD</a></p></td>
@@ -240,7 +240,7 @@
 
 ## 音楽
 
-音楽は[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")の[古川もとあき](../Page/古川元亮.md "wikilink")、むちむちぷりん聡子が担当している。新開発した[PCM音源](../Page/PCM音源.md "wikilink")の機能を多用した曲は、矩形波倶楽部のライブでの演奏や、アレンジの収録も数多い。スタッフロールBGMの"Time to Party Hearty\!\!"はアレンジされ『[ツインビーPARADISE](../Page/ツインビーPARADISE.md "wikilink")』でも用いられた。
+音楽は[コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink")の[古川もとあき](../Page/古川元亮.md "wikilink")、むちむちぷりん聡子が担当している。新開発した[PCM音源](../Page/PCM音源.md "wikilink")の機能を多用した曲は、矩形波倶楽部のライブでの演奏や、アレンジの収録も数多い。スタッフロールBGMの"Time to Party Hearty\!\!"はアレンジされ『[ツインビーPARADISE](../Page/ツインビーPARADISE.md "wikilink")』でも用いられた。
 
 | 使用場面        | 曲名                                       |
 | ----------- | ---------------------------------------- |
@@ -294,10 +294,10 @@
 
 ## 関連項目
 
-  - [がんばれゴエモン2 奇天烈将軍マッギネス](https://ja.wikipedia.org/wiki/がんばれゴエモン2_奇天烈将軍マッギネス "wikilink")（[1993年](../Page/1993年.md "wikilink")）
+  - [がんばれゴエモン2 奇天烈将軍マッギネス](../Page/がんばれゴエモン2_奇天烈将軍マッギネス.md "wikilink")（[1993年](../Page/1993年.md "wikilink")）
       -
         ステージ2のみプレイできる。
-  - [極上パロディウス 〜過去の栄光を求めて〜](https://ja.wikipedia.org/wiki/極上パロディウス_〜過去の栄光を求めて〜 "wikilink")（[1994年](../Page/1994年.md "wikilink")）
+  - [極上パロディウス 〜過去の栄光を求めて〜](../Page/極上パロディウス_〜過去の栄光を求めて〜.md "wikilink")（[1994年](../Page/1994年.md "wikilink")）
       -
         本作の最終ボス戦前のデモ中で話すクラウスの台詞「私自らが出る\!」がメガホン攻撃の文字の1つとして使われた。
   - [実況おしゃべりパロディウス](https://ja.wikipedia.org/wiki/実況おしゃべりパロディウス "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）

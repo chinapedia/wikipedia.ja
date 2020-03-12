@@ -1,23 +1,23 @@
 > この記事は[Vodafone 702NK](https://ja.wikipedia.org/wiki/Vodafone_702NK)から翻訳されています。
 
 
-**Vodafone 702NK**（ボーダフォン 702NK）は[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")が製造し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が2004年12月に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。
+**Vodafone 702NK**（ボーダフォン 702NK）は[ノキア](../Page/ノキア.md "wikilink")が製造し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が2004年12月に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。
 
-日本国外で[Nokia 6630として発売されているものを日本語化し](https://ja.wikipedia.org/wiki/Nokia_6630 "wikilink")、ボーダフォン向けのカスタマイズを行っている。
+日本国外で[Nokia 6630として発売されているものを日本語化し](../Page/Nokia_6630.md "wikilink")、ボーダフォン向けのカスタマイズを行っている。
 
 OSはNokia 6630と同じくSymbianOS 8.0a （S60 2nd）。
 
 ## 概要
 
-日本ではソフトバンクモバイルの[SoftBank 3Gネットワーク](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")（W-CDMA方式）を使用する。日本国外ではソフトバンクモバイルが契約した現地キャリアのネットワーク (W-CDMA/GSM) を使用して[国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")を行う。この端末は[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")を採用しているが、SIMロックが掛かっているため、他キャリアのSIMカードを挿しても使用することはできない。
+日本ではソフトバンクモバイルの[SoftBank 3Gネットワーク](../Page/SoftBank_3G.md "wikilink")（W-CDMA方式）を使用する。日本国外ではソフトバンクモバイルが契約した現地キャリアのネットワーク (W-CDMA/GSM) を使用して[国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")を行う。この端末は[SIMカード](../Page/SIMカード.md "wikilink")を採用しているが、SIMロックが掛かっているため、他キャリアのSIMカードを挿しても使用することはできない。
 
 しかし最近、SIMロックを解除する方法が発見され、国内外（auを除く）他キャリアのSIMカードを挿して使用することができるようになった。このため、オークション等での価格が上昇傾向にある。
 
-本端末で各種のパケット通信を行う際に、ソフトバンクモバイルの[パケット定額制](https://ja.wikipedia.org/wiki/パケット定額制 "wikilink")の対象とならない場合があるので注意が必要である。
+本端末で各種のパケット通信を行う際に、ソフトバンクモバイルの[パケット定額制](../Page/パケット定額制.md "wikilink")の対象とならない場合があるので注意が必要である。
 
 E-mailクライアント機能、[S\!アプリ](../Page/S!アプリ.md "wikilink")以外のJavaアプリケーションやネイティブアプリケーション（OperaやNetFrontを含む）による通信、PC/PDAを接続してのデータ通信などは定額対象とならない。
 
-セキュリティ上の理由により、通常の方法でインストールできるネイティブアプリケーションは、[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")か[Symbian](https://ja.wikipedia.org/wiki/Symbian "wikilink")の認証をパスした[電子署名](../Page/電子署名.md "wikilink")のあるもの（極めて少ない）に限られている（[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")についてはそのような制限はない）。
+セキュリティ上の理由により、通常の方法でインストールできるネイティブアプリケーションは、[ノキア](../Page/ノキア.md "wikilink")か[Symbian](https://ja.wikipedia.org/wiki/Symbian "wikilink")の認証をパスした[電子署名](../Page/電子署名.md "wikilink")のあるもの（極めて少ない）に限られている（[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")についてはそのような制限はない）。
 
 しかし、ユーザーの手によって、電子署名のないアプリケーションをインストールするテクニックが開発され、若干手間はかかるものの実質的に問題なくインストールできるようになっている。
 
@@ -43,7 +43,7 @@ E-mailクライアント機能、[S\!アプリ](../Page/S!アプリ.md "wikilink
 
 ## 関連項目
 
-  - [Nokia 6630](https://ja.wikipedia.org/wiki/Nokia_6630 "wikilink")
+  - [Nokia 6630](../Page/Nokia_6630.md "wikilink")
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
   - [涼宮ハルヒシリーズの登場人物](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物 "wikilink") - アニメ版で古泉一樹が本機とみられる端末を使用。
 

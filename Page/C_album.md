@@ -1,7 +1,7 @@
 > この記事は[C album](https://ja.wikipedia.org/wiki/C_album)から翻訳されています。
 
 
-『**C album**』（シー・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+『**C album**』（シー・アルバム）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -18,13 +18,13 @@
 1.  **It's All Right**
     （作詞:[上野浩司](../Page/上野浩司.md "wikilink")　作曲:[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")　編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")）
 2.  **ふらいんぐ・ぴーぷる '99**
-    （作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:飯田建彦　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+    （作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:飯田建彦　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
       -
-        自身の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")』にも収録されている。
+        自身の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")』にも収録されている。
 3.  **キミは泣いてツヨクなる**
     （作詞:三井拓　作曲:[荒木真樹彦](../Page/荒木真樹彦.md "wikilink")　編曲:[石塚知生](../Page/石塚知生.md "wikilink")　コーラスアレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
 4.  **[全部だきしめて](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")**
-    （作詞:[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")　作曲:[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")　編曲:[武部聡志](../Page/武部聡志.md "wikilink")）
+    （作詞:[康珍化](../Page/康珍化.md "wikilink")　作曲:[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")　編曲:[武部聡志](../Page/武部聡志.md "wikilink")）
       -
         4thシングルの1曲目。
         表記は無いが、アルバムバージョンである。
@@ -35,7 +35,7 @@
       -
         後に光一のソロシングル「[妖 〜あやかし〜](https://ja.wikipedia.org/wiki/妖_〜あやかし〜 "wikilink")」の通常版で、「Peaceful World -2009-」として再録されている。
 7.  **[やめないで,PURE](../Page/やめないで,PURE.md "wikilink")**
-    （作詞:[伊達歩](https://ja.wikipedia.org/wiki/伊達歩 "wikilink")　作曲:[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")　編曲:[WACKY KAKI](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink")）
+    （作詞:[伊達歩](https://ja.wikipedia.org/wiki/伊達歩 "wikilink")　作曲:[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")　編曲:[WACKY KAKI](../Page/柿崎洋一郎.md "wikilink")）
       -
         6thシングル。
         表記は無いが、アルバムバージョンである。
@@ -44,7 +44,7 @@
       -
         「thang」とは「thing」の俗語を意味する。
 9.  **[フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")**
-    （作詞:[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")　作曲:H∧L・音妃 　編曲:[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")　コーラスアレンジ:松下誠）
+    （作詞:[HΛL](../Page/HΛL.md "wikilink")　作曲:H∧L・音妃 　編曲:[船山基紀](../Page/船山基紀.md "wikilink")　コーラスアレンジ:松下誠）
       -
         7thシングル。
 10. **BRAND NEW DAY**

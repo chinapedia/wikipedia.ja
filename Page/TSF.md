@@ -1,11 +1,11 @@
 > この記事は[TSF](https://ja.wikipedia.org/wiki/TSF)から翻訳されています。
 
 
-**TSF**とは、[異性](https://ja.wikipedia.org/wiki/異性 "wikilink")への**[性転換](https://ja.wikipedia.org/wiki/性転換 "wikilink")**を扱う[フィクション](../Page/フィクション.md "wikilink")のジャンルにおける略称である。[英語](../Page/英語.md "wikilink")においてはまたは略称の*TG*という用語が別にあったが、日本ではまたは と呼称され、その頭文字から**TS**もしくは**TSF**と略称されている（なお、確定した[日本語における呼称は現時点では存在しない](../Page/日本語訳.md "wikilink")）。
+**TSF**とは、[異性](https://ja.wikipedia.org/wiki/異性 "wikilink")への**[性転換](../Page/性転換.md "wikilink")**を扱う[フィクション](../Page/フィクション.md "wikilink")のジャンルにおける略称である。[英語](../Page/英語.md "wikilink")においてはまたは略称の*TG*という用語が別にあったが、日本ではまたは と呼称され、その頭文字から**TS**もしくは**TSF**と略称されている（なお、確定した[日本語における呼称は現時点では存在しない](../Page/日本語訳.md "wikilink")）。
 
 ## 概要
 
-現実世界における[性別適合手術](https://ja.wikipedia.org/wiki/性別適合手術 "wikilink")から、肉体的にも実際の異性に成り変わる「[変身譚](https://ja.wikipedia.org/wiki/変身譚 "wikilink")」まで、作品によってジャンルに幅がある。異性となることによる服装（[異性装](../Page/異性装.md "wikilink")）、言葉遣い、心境の変化を通じて、社会における[性差](../Page/性差.md "wikilink")を浮き彫りにする効果を与えるものとして用いられることが多い。[古代ローマ](../Page/古代ローマ.md "wikilink")の『[転身物語](https://ja.wikipedia.org/wiki/転身物語 "wikilink")』において、女性から男性に変わった[イピス](https://ja.wikipedia.org/wiki/イピス "wikilink")や[カイネウス](../Page/カイネウス.md "wikilink")の伝説、男神[ユーピテル](../Page/ユーピテル.md "wikilink")が女神[ディアーナ](https://ja.wikipedia.org/wiki/ディアーナ "wikilink")に変身、女性化して[ニュンペー](../Page/ニュンペー.md "wikilink")である[カリストー](https://ja.wikipedia.org/wiki/カリストー "wikilink")と同性愛的に睦みあう伝説など、その歴史は古い。
+現実世界における[性別適合手術](../Page/性別適合手術.md "wikilink")から、肉体的にも実際の異性に成り変わる「[変身譚](https://ja.wikipedia.org/wiki/変身譚 "wikilink")」まで、作品によってジャンルに幅がある。異性となることによる服装（[異性装](../Page/異性装.md "wikilink")）、言葉遣い、心境の変化を通じて、社会における[性差](../Page/性差.md "wikilink")を浮き彫りにする効果を与えるものとして用いられることが多い。[古代ローマ](../Page/古代ローマ.md "wikilink")の『[転身物語](https://ja.wikipedia.org/wiki/転身物語 "wikilink")』において、女性から男性に変わった[イピス](https://ja.wikipedia.org/wiki/イピス "wikilink")や[カイネウス](../Page/カイネウス.md "wikilink")の伝説、男神[ユーピテル](../Page/ユーピテル.md "wikilink")が女神[ディアーナ](../Page/ディアーナ.md "wikilink")に変身、女性化して[ニュンペー](../Page/ニュンペー.md "wikilink")である[カリストー](../Page/カリストー.md "wikilink")と同性愛的に睦みあう伝説など、その歴史は古い。
 
 現代においても、小説、漫画、映画、ゲームなどにおいて幅広く使われるモチーフとなっている。特に、[アダルト](https://ja.wikipedia.org/wiki/アダルト "wikilink")系のフィクション（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、成人向け漫画・小説等）において広く見られる。
 
@@ -39,7 +39,7 @@
 
 :: 『[キはキノコのキ](https://ja.wikipedia.org/wiki/キはキノコのキ "wikilink")』などが当てはまる。
 
-:\* [魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")、[呪い](https://ja.wikipedia.org/wiki/呪い "wikilink")
+:\* [魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")、[呪い](../Page/呪い.md "wikilink")
 
 :: 『[らんま1/2](https://ja.wikipedia.org/wiki/らんま1/2 "wikilink")』などが当てはまる。
 
@@ -133,7 +133,7 @@
 <!-- end list -->
 
   -
-    『[プリティフェイス](https://ja.wikipedia.org/wiki/プリティフェイス "wikilink")』などが当てはまる。
+    『[プリティフェイス](../Page/プリティフェイス.md "wikilink")』などが当てはまる。
 
 <!-- end list -->
 
@@ -183,12 +183,12 @@
   - 『[アスカはいぶりっど](https://ja.wikipedia.org/wiki/アスカはいぶりっど "wikilink")』
   - 『[ANIMAL X](https://ja.wikipedia.org/wiki/ANIMAL_X "wikilink")』
   - 『[一年生になっちゃったら](../Page/一年生になっちゃったら.md "wikilink")』
-  - 『[エスプガルーダ](https://ja.wikipedia.org/wiki/エスプガルーダ "wikilink")』
+  - 『[エスプガルーダ](../Page/エスプガルーダ.md "wikilink")』
   - 『[エスプガルーダII](https://ja.wikipedia.org/wiki/エスプガルーダII "wikilink")』
   - 『[えんとらんす\!](https://ja.wikipedia.org/wiki/えんとらんす! "wikilink")』
   - 『[おかわりナポリタン](https://ja.wikipedia.org/wiki/おかわりナポリタン "wikilink")』
-  - 『[おじゃまユーレイくん](https://ja.wikipedia.org/wiki/おじゃまユーレイくん "wikilink")』
-  - 『[おれがあいつであいつがおれで](https://ja.wikipedia.org/wiki/おれがあいつであいつがおれで "wikilink")』（『[転校生](../Page/転校生_\(映画\).md "wikilink")』原案）
+  - 『[おじゃまユーレイくん](../Page/おじゃまユーレイくん.md "wikilink")』
+  - 『[おれがあいつであいつがおれで](../Page/おれがあいつであいつがおれで.md "wikilink")』（『[転校生](../Page/転校生_\(映画\).md "wikilink")』原案）
   - 『[俺、ツインテールになります。](https://ja.wikipedia.org/wiki/俺、ツインテールになります。 "wikilink")』
   - 『[俺とヒーローと魔法少女](https://ja.wikipedia.org/wiki/俺とヒーローと魔法少女 "wikilink")』
   - 『[おれ、夕子](../Page/おれ、夕子.md "wikilink")』
@@ -196,14 +196,14 @@
 
 #### か行
 
-  - 『[革命の日](https://ja.wikipedia.org/wiki/革命の日 "wikilink")』
+  - 『[革命の日](../Page/革命の日.md "wikilink")』
   - 『[かしまし 〜ガール・ミーツ・ガール〜](../Page/かしまし_〜ガール・ミーツ・ガール〜.md "wikilink")』
-  - 『[ガチャガチャ](https://ja.wikipedia.org/wiki/ガチャガチャ "wikilink")』
+  - 『[ガチャガチャ](../Page/ガチャガチャ.md "wikilink")』
   - 『[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")』
   - 『[キはキノコのキ](https://ja.wikipedia.org/wiki/山本直樹#森山塔名義 "wikilink")』
   - 『[境界のないセカイ](https://ja.wikipedia.org/wiki/境界のないセカイ "wikilink")』（全年齢作品）&『境目のない世界』（その元になったアダルト作品。コミックス『性転換教室』として刊行）
   - 『[けんぷファー](../Page/けんぷファー.md "wikilink")』
-  - 『[攻殻機動隊 STAND ALONE COMPLEX](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX "wikilink")』
+  - 『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")』
   - 『[ココロコネクト](https://ja.wikipedia.org/wiki/ココロコネクト "wikilink")』
 
 #### さ行
@@ -216,7 +216,7 @@
   - 『[世界を征服するための、3つの方法](https://ja.wikipedia.org/wiki/世界を征服するための、3つの方法 "wikilink")』
   - 『[世界の果てで愛ましょう](https://ja.wikipedia.org/wiki/世界の果てで愛ましょう "wikilink")』
   - 『[先輩とぼく](../Page/先輩とぼく.md "wikilink")』
-  - 『[蒼穹の昴](https://ja.wikipedia.org/wiki/蒼穹の昴 "wikilink")』
+  - 『[蒼穹の昴](../Page/蒼穹の昴.md "wikilink")』
 
 #### た行
 
@@ -241,7 +241,7 @@
   - 『[Back Street Girls](https://ja.wikipedia.org/wiki/Back_Street_Girls "wikilink")』（原作漫画）/『Back Street Girls』 -『ゴクドルズ』-（それを元にしたテレビアニメ）
   - 『[姫ちゃんのリボン](../Page/姫ちゃんのリボン.md "wikilink")』
   - 『[ヒロインくん](https://ja.wikipedia.org/wiki/ヒロインくん "wikilink")』
-  - 『[ふしぎ遊戯 玄武開伝](https://ja.wikipedia.org/wiki/ふしぎ遊戯_玄武開伝 "wikilink")』
+  - 『[ふしぎ遊戯 玄武開伝](../Page/ふしぎ遊戯_玄武開伝.md "wikilink")』
   - 『[ふたかた](../Page/ふたかた.md "wikilink")』
   - 『[ふたば君チェンジ](../Page/ふたば君チェンジ.md "wikilink")』
   - 『[BLUE DROP](../Page/BLUE_DROP.md "wikilink")』
@@ -261,7 +261,7 @@
   - 『[魔法少年マジョーリアン](../Page/魔法少年マジョーリアン.md "wikilink")』
   - 『[Mr.Clice](../Page/Mr.Clice.md "wikilink")』
   - 『[Mr.ボーイ](https://ja.wikipedia.org/wiki/Mr.ボーイ "wikilink")』
-  - 『[MAZE☆爆熱時空](https://ja.wikipedia.org/wiki/MAZE☆爆熱時空 "wikilink")』
+  - 『[MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")』
   - 『[めぐみるく](https://ja.wikipedia.org/wiki/めぐみるく "wikilink")』
   - 『[ももたま](https://ja.wikipedia.org/wiki/ももたま "wikilink")』
   - 『[問題ないね\!?ヒデユキくん](../Page/問題ないね!?ヒデユキくん.md "wikilink")』
@@ -274,7 +274,7 @@
 
 #### わ行
 
-  - 『[我が家のお稲荷さま。](https://ja.wikipedia.org/wiki/我が家のお稲荷さま。 "wikilink")』
+  - 『[我が家のお稲荷さま。](../Page/我が家のお稲荷さま。.md "wikilink")』
 
 ### 文学作品
 
@@ -289,16 +289,16 @@
 ### 音楽作品
 
   - 「[ローラ](https://ja.wikipedia.org/wiki/ローラ_\(曲\) "wikilink")」（[キンクス](https://ja.wikipedia.org/wiki/キンクス "wikilink")）
-  - 「[ワイルド・サイドを歩け](https://ja.wikipedia.org/wiki/ワイルド・サイドを歩け "wikilink")」（[ルー・リード](https://ja.wikipedia.org/wiki/ルー・リード "wikilink")）
+  - 「[ワイルド・サイドを歩け](https://ja.wikipedia.org/wiki/ワイルド・サイドを歩け "wikilink")」（[ルー・リード](../Page/ルー・リード.md "wikilink")）
 
 ## 関連項目
 
-  - [性転換](https://ja.wikipedia.org/wiki/性転換 "wikilink") - 現代医学的な性転換についてはこちらを参照のこと。
+  - [性転換](../Page/性転換.md "wikilink") - 現代医学的な性転換についてはこちらを参照のこと。
   - [TF (変身)](https://ja.wikipedia.org/wiki/TF_\(変身\) "wikilink")
   - [ボクっ娘](https://ja.wikipedia.org/wiki/ボクっ娘 "wikilink")
   - [女体化](../Page/女体化.md "wikilink")
   - [萌え擬人化](../Page/萌え擬人化.md "wikilink")
-  - [変成男子](https://ja.wikipedia.org/wiki/変成男子 "wikilink")
+  - [変成男子](../Page/変成男子.md "wikilink")
   - [トランスフォビア](../Page/トランスフォビア.md "wikilink")
   - [性転換症](../Page/性転換症.md "wikilink")
   - [膨乳](https://ja.wikipedia.org/wiki/膨乳 "wikilink")

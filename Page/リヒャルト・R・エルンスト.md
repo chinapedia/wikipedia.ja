@@ -5,7 +5,7 @@
 
 ## 来歴
 
-スイスの[ヴィンタートゥール](https://ja.wikipedia.org/wiki/ヴィンタートゥール "wikilink")で生まれた。[スイス連邦工科大学](../Page/スイス連邦工科大学.md "wikilink")で[博士号](https://ja.wikipedia.org/wiki/博士号 "wikilink")取得。[1962年](../Page/1962年.md "wikilink")に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルトの](https://ja.wikipedia.org/wiki/パロアルト_\(カリフォルニア州\) "wikilink") (Varian) 社に技術者として入社し、[1964年](../Page/1964年.md "wikilink")に Weston A. Andersonと共に[フーリエ変換NMR](https://ja.wikipedia.org/wiki/フーリエ変換NMR "wikilink")の研究を行った\[1\]\[2\]。その後、[1967年](../Page/1967年.md "wikilink")に再びスイス連邦工科大学へと戻り、のちに同大学の化学科教授になった。1991年に、フーリエ変換NMRの開発への貢献業績\[3\]\[4\]\[5\]によってノーベル化学賞を受賞した。2006年現在もなおチューリッヒの同大学へ勤務し、研究を行っている。
+スイスの[ヴィンタートゥール](https://ja.wikipedia.org/wiki/ヴィンタートゥール "wikilink")で生まれた。[スイス連邦工科大学](../Page/スイス連邦工科大学.md "wikilink")で[博士号](https://ja.wikipedia.org/wiki/博士号 "wikilink")取得。[1962年](../Page/1962年.md "wikilink")に[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルトの](../Page/パロアルト_\(カリフォルニア州\).md "wikilink") (Varian) 社に技術者として入社し、[1964年](../Page/1964年.md "wikilink")に Weston A. Andersonと共に[フーリエ変換NMR](https://ja.wikipedia.org/wiki/フーリエ変換NMR "wikilink")の研究を行った\[1\]\[2\]。その後、[1967年](../Page/1967年.md "wikilink")に再びスイス連邦工科大学へと戻り、のちに同大学の化学科教授になった。1991年に、フーリエ変換NMRの開発への貢献業績\[3\]\[4\]\[5\]によってノーベル化学賞を受賞した。2006年現在もなおチューリッヒの同大学へ勤務し、研究を行っている。
 
 彼が貢献したこの技術は、[有機化学](../Page/有機化学.md "wikilink")での[分子構造](../Page/分子構造.md "wikilink")の同定において非常に有力な手段となったほか、[医療](../Page/医療.md "wikilink")分野でも[核磁気共鳴画像法](../Page/核磁気共鳴画像法.md "wikilink") (MRI) として実用化され、画像診断の際の有力な手がかりとなった。
 
@@ -13,7 +13,7 @@
 
 ## 受賞歴
 
-  - [1991年](../Page/1991年.md "wikilink") [ウルフ賞化学部門](https://ja.wikipedia.org/wiki/ウルフ賞化学部門 "wikilink")
+  - [1991年](../Page/1991年.md "wikilink") [ウルフ賞化学部門](../Page/ウルフ賞化学部門.md "wikilink")
   - 1991年 [ルイザ・グロス・ホロウィッツ賞](../Page/ルイザ・グロス・ホロウィッツ賞.md "wikilink")（[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")より）
   - 1991年 ノーベル化学賞
 

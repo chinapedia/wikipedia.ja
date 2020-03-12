@@ -3,15 +3,15 @@
 
 『**スーパーモナコGP**』は、[1989年](../Page/1989年.md "wikilink")に[セガから稼働された](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")[アーケード用の](../Page/アーケードゲーム.md "wikilink")[F1をモチーフにした](../Page/フォーミュラ1.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[メガドライブ](../Page/メガドライブ.md "wikilink")、[ゲームギア](../Page/ゲームギア.md "wikilink")に移植された。日本国外では[Amiga](../Page/Amiga.md "wikilink")、[Atari ST](../Page/Atari_ST.md "wikilink")、[コモドール64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")、[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")、[メガCD](../Page/メガCD.md "wikilink")、[ZX Spectrum向けにもリリースされた](../Page/ZX_Spectrum.md "wikilink")。セガ・マスターシステム及びメガCDは[セガから](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")、それ以外は[U.S. Goldから発売された](https://ja.wikipedia.org/wiki/U.S._Gold "wikilink")。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[メガドライブ](../Page/メガドライブ.md "wikilink")、[ゲームギア](../Page/ゲームギア.md "wikilink")に移植された。日本国外では[Amiga](../Page/Amiga.md "wikilink")、[Atari ST](../Page/Atari_ST.md "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")、[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")、[メガCD](../Page/メガCD.md "wikilink")、[ZX Spectrum向けにもリリースされた](../Page/ZX_Spectrum.md "wikilink")。セガ・マスターシステム及びメガCDは[セガから](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")、それ以外は[U.S. Goldから発売された](https://ja.wikipedia.org/wiki/U.S._Gold "wikilink")。
 
-題名の通り実在の[モナコグランプリ](../Page/モナコグランプリ.md "wikilink")が題材になっている。ただし、元の[モンテカルロ市街地コース](https://ja.wikipedia.org/wiki/モンテカルロ市街地コース "wikilink")とはほとんど別物のオリジナルコースであり、[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")の中間部分を省略してつなぎ合わせたようなレイアウトになっている。
+題名の通り実在の[モナコグランプリ](../Page/モナコグランプリ.md "wikilink")が題材になっている。ただし、元の[モンテカルロ市街地コース](../Page/モンテカルロ市街地コース.md "wikilink")とはほとんど別物のオリジナルコースであり、[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")の中間部分を省略してつなぎ合わせたようなレイアウトになっている。
 
 ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第3回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1989年度）において編集部特別賞、ベストアクション賞10位、ベストグラフィック賞9位を獲得した。メガドライブ版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」にてゴールド殿堂入りを獲得した。
 
 ## 概要
 
-「X-BOARD」のスプライト拡大縮小機能を使用し、高速に流れる街並み、ウォール、コースのアップダウンを疑似3Dで表現。バケットシート部分が可動であるエアドライブ(DX)筐体へ26インチモニタを40インチ画面相当の迫力ある臨場感を出すため画面前に[フレネルレンズ](https://ja.wikipedia.org/wiki/フレネルレンズ "wikilink")を採用。操作系には反力ステアリングシステムによる[フォースフィードバック](https://ja.wikipedia.org/wiki/フォースフィードバック "wikilink")と[パドルシフトを採用](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9F%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3#F1 "wikilink")。エアドライブ筐体、コックピット筐体出荷バージョンには通信機能は搭載されていないが、後年登場する通信対戦型である2シート分割筐体であるTWIN(当時名:デュアル)筐体にも『[バーチャレーシング](../Page/バーチャレーシング.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）への繋ぎとしてこのステアリングシステムが採用されている。また、エアドライブ筐体にはバケットシートにアクション性を持たせる為、加減速、コーナリング時にG表現として動いている方向とは瞬時に逆に傾く機構となっており、こちらが故障する事がよくあったが、筐体の入口である境界にはセンサーがあり、このシステムの動作を物等を置いて遮蔽してキャンセルする事が出来た。その為、故障や常連の意見などで店舗によってはこの機構をDIPスイッチによる筐体タイプ設定（DX→コックピット/アップライト）でカットする事により縮退運用としていたロケーションもあったが、それに気づかずセンサー故障のまま稼働していたロケーションもあった。
+「X-BOARD」のスプライト拡大縮小機能を使用し、高速に流れる街並み、ウォール、コースのアップダウンを疑似3Dで表現。バケットシート部分が可動であるエアドライブ(DX)筐体へ26インチモニタを40インチ画面相当の迫力ある臨場感を出すため画面前に[フレネルレンズ](../Page/フレネルレンズ.md "wikilink")を採用。操作系には反力ステアリングシステムによる[フォースフィードバック](https://ja.wikipedia.org/wiki/フォースフィードバック "wikilink")と[パドルシフトを採用](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9F%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3#F1 "wikilink")。エアドライブ筐体、コックピット筐体出荷バージョンには通信機能は搭載されていないが、後年登場する通信対戦型である2シート分割筐体であるTWIN(当時名:デュアル)筐体にも『[バーチャレーシング](../Page/バーチャレーシング.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）への繋ぎとしてこのステアリングシステムが採用されている。また、エアドライブ筐体にはバケットシートにアクション性を持たせる為、加減速、コーナリング時にG表現として動いている方向とは瞬時に逆に傾く機構となっており、こちらが故障する事がよくあったが、筐体の入口である境界にはセンサーがあり、このシステムの動作を物等を置いて遮蔽してキャンセルする事が出来た。その為、故障や常連の意見などで店舗によってはこの機構をDIPスイッチによる筐体タイプ設定（DX→コックピット/アップライト）でカットする事により縮退運用としていたロケーションもあったが、それに気づかずセンサー故障のまま稼働していたロケーションもあった。
 
 デモ画面でのコンチネンタルサーカス色溢れる実写取り込みの映像、プレイ中のタイヤのスキール音、エンジンサウンド、シフトダウン音、インカム音を4チャンネルシステムにより臨場感溢れるリアリティさを表現している。
 
@@ -38,8 +38,8 @@
   - 登場するチーム名は「MADONNA」（[マクラーレン](../Page/マクラーレン.md "wikilink")）、「FIRENZE」（[フェラーリ](../Page/フェラーリ.md "wikilink")）、「MINARAE」（[ミナルディ](https://ja.wikipedia.org/wiki/ミナルディ "wikilink")）など、当時活躍していた実際のチーム名をもじって付けられている。
   - アーケード版の筐体はエアードライブ筐体、アップライト筐体の2種類で回っていたが、1990年代初頭ごろに実寸大のフォーミュラカーを模した可動式筐体がリリースされていたが、筐体自体の価格がエアードライブ筐体とアップライト筐体よりも高額であるため、出回る確率は少なかった。
   - プレーヤーの技量が向上すると、下位Dランクチームのマシンでトップチームに挑んでも勝つことができる。
-  - デモ画面で「INSERT COINS」と表示されるアーケード版前期バージョンのタイトル画面には[マルボロロゴのマシンと看板がほとんど無修正状態で表示されていたが](https://ja.wikipedia.org/wiki/マールボロ_\(たばこ\) "wikilink")、[フィリップモリス](https://ja.wikipedia.org/wiki/フィリップモリス "wikilink")に商標侵害[訴訟](https://ja.wikipedia.org/wiki/訴訟 "wikilink")を起こされる。
-  - デモ画面で「INSERT A COIN」と表示される後期バージョンでは前述の事件でマルボロロゴは完全削除されタイトル画面のマシンも白一色に、その背景の看板も不自然に削除された。それ以外にもゲーム画面中に出てくるほかの実在企業（[ピレリ](https://ja.wikipedia.org/wiki/ピレリ "wikilink")、[Mobil1](../Page/モービル1.md "wikilink")、[アジップ](https://ja.wikipedia.org/wiki/アジップ "wikilink")）も画像処理や差し替え（Mobil1とマルボロの横断幕は全て前期バージョンでは少数設置されていた[フリッキー](../Page/フリッキー.md "wikilink")の横断幕に差し替え）、もじった看板にする等の看板変更が施された。ただし実在企業をもじった看板は前期バージョンから存在しており、それは後期バージョンでも未処理であった。
+  - デモ画面で「INSERT COINS」と表示されるアーケード版前期バージョンのタイトル画面には[マルボロロゴのマシンと看板がほとんど無修正状態で表示されていたが](../Page/マールボロ_\(たばこ\).md "wikilink")、[フィリップモリス](../Page/フィリップモリス.md "wikilink")に商標侵害[訴訟](../Page/訴訟.md "wikilink")を起こされる。
+  - デモ画面で「INSERT A COIN」と表示される後期バージョンでは前述の事件でマルボロロゴは完全削除されタイトル画面のマシンも白一色に、その背景の看板も不自然に削除された。それ以外にもゲーム画面中に出てくるほかの実在企業（[ピレリ](../Page/ピレリ.md "wikilink")、[Mobil1](../Page/モービル1.md "wikilink")、[アジップ](https://ja.wikipedia.org/wiki/アジップ "wikilink")）も画像処理や差し替え（Mobil1とマルボロの横断幕は全て前期バージョンでは少数設置されていた[フリッキー](../Page/フリッキー.md "wikilink")の横断幕に差し替え）、もじった看板にする等の看板変更が施された。ただし実在企業をもじった看板は前期バージョンから存在しており、それは後期バージョンでも未処理であった。
   - アーケード版ではコース脇に建つ建物やパドック、看板などが細かく表現され、華やかな町並みを作っている。また敵車もそれぞれカラーリング分けされているが、メガドライブ版ではハードウェア上の限界から、それらの町並みは再現できず、カラーリングもライバルカーのみ分けられている。
 
 ## 移植版
@@ -105,7 +105,7 @@
 <td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a><br />
 <a href="../Page/Atari_ST.md" title="wikilink">Atari ST</a><br />
 <a href="https://ja.wikipedia.org/wiki/Amstrad_CPC" title="wikilink">Amstrad CPC</a><br />
-<a href="https://ja.wikipedia.org/wiki/コモドール64" title="wikilink">コモドール64</a><br />
+<a href="../Page/コモドール64.md" title="wikilink">コモドール64</a><br />
 <a href="../Page/ZX_Spectrum.md" title="wikilink">ZX Spectrum</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Acclaim_Cheltenham" title="wikilink">Probe Software</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/U.S._Gold" title="wikilink">U.S. Gold</a></p></td>
@@ -187,13 +187,13 @@
 
 ## 続編・関連作品
 
-コンシューマでは[1992年](../Page/1992年.md "wikilink")に[アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")とタイアップした『[アイルトン・セナ スーパーモナコGP II](https://ja.wikipedia.org/wiki/アイルトン・セナ_スーパーモナコGP_II "wikilink")』が発売されている他、[1994年](../Page/1994年.md "wikilink")に[1993年のF1シーズンを題材にした](https://ja.wikipedia.org/wiki/1993年のF1世界選手権 "wikilink")『[ヘブンリーシンフォニー](https://ja.wikipedia.org/wiki/ヘブンリーシンフォニー "wikilink")』が発売されている。
+コンシューマでは[1992年](../Page/1992年.md "wikilink")に[アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")とタイアップした『[アイルトン・セナ スーパーモナコGP II](../Page/アイルトン・セナ_スーパーモナコGP_II.md "wikilink")』が発売されている他、[1994年](../Page/1994年.md "wikilink")に[1993年のF1シーズンを題材にした](https://ja.wikipedia.org/wiki/1993年のF1世界選手権 "wikilink")『[ヘブンリーシンフォニー](https://ja.wikipedia.org/wiki/ヘブンリーシンフォニー "wikilink")』が発売されている。
 
 また、アーケード版でのパドルシフトハンドルが流用されたタイトルとして[バーチャレーシング](../Page/バーチャレーシング.md "wikilink")以外に以下2作品があり、バックミラービュー等のフューチャーもこちらに転用されている。
 
   - F1エキゾーストノート(1991年11月)
 
-アーケード作品。[ギャラクシーフォース](https://ja.wikipedia.org/wiki/ギャラクシーフォース "wikilink")で使われたY-BOARDからアップデート版の[システム32ボードによるもので](https://ja.wikipedia.org/wiki/セガ・システム32 "wikilink")[AM2研](https://ja.wikipedia.org/wiki/AM2研 "wikilink")製作。リアビュー等の画面構成としてスーパーモナコGPやラッドモービルを踏襲した作りで、筐体へのアクティブスピーカの搭載により、エンジン音や対戦待ちBGMなど迫力感が増した作りとなって居る。シングルプレイ筐体は存在せず、いずれもTWIN筐体専用タイトル。本作ではマシン類は名称非設定でミッション違いをATもしくは7速MTからチョイスし、[インテルラゴス・サーキット](https://ja.wikipedia.org/wiki/インテルラゴス・サーキット "wikilink")に近い作りのオリジナルコースで競う内容となっていた。
+アーケード作品。[ギャラクシーフォース](../Page/ギャラクシーフォース.md "wikilink")で使われたY-BOARDからアップデート版の[システム32ボードによるもので](../Page/セガ・システム32.md "wikilink")[AM2研](https://ja.wikipedia.org/wiki/AM2研 "wikilink")製作。リアビュー等の画面構成としてスーパーモナコGPやラッドモービルを踏襲した作りで、筐体へのアクティブスピーカの搭載により、エンジン音や対戦待ちBGMなど迫力感が増した作りとなって居る。シングルプレイ筐体は存在せず、いずれもTWIN筐体専用タイトル。本作ではマシン類は名称非設定でミッション違いをATもしくは7速MTからチョイスし、[インテルラゴス・サーキット](../Page/インテルラゴス・サーキット.md "wikilink")に近い作りのオリジナルコースで競う内容となっていた。
 
   - F1スーパーラップ(1993年8月)
 

@@ -3,13 +3,13 @@
 
 **北川 絵美**（きたがわ えみ、[1982年](../Page/1982年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")・元[女優](../Page/俳優.md "wikilink")。
 
-AV女優の[北川明花](https://ja.wikipedia.org/wiki/北川明花 "wikilink")（現・明花）は[従姉妹](https://ja.wikipedia.org/wiki/従姉妹 "wikilink")である。[AVデビュー前には清純系女優として](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")[映画](../Page/映画.md "wikilink")、[Vシネマ等に出演している](../Page/オリジナルビデオ.md "wikilink")。
+AV女優の[北川明花](../Page/北川明花.md "wikilink")（現・明花）は[従姉妹](https://ja.wikipedia.org/wiki/従姉妹 "wikilink")である。[AVデビュー前には清純系女優として](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")[映画](../Page/映画.md "wikilink")、[Vシネマ等に出演している](../Page/オリジナルビデオ.md "wikilink")。
 
-[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型。身長：156cm。[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：B86（E）・W58・H84。
+[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型。身長：156cm。[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B86（E）・W58・H84。
 
 ## 略歴
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")デビュー。[映画](../Page/映画.md "wikilink")や[Vシネマなどで活躍](../Page/オリジナルビデオ.md "wikilink")。[2004年](../Page/2004年.md "wikilink")、AV女優に転身。[アトラス21専属女優となる](../Page/アトラスにじゅういち.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、芸能活動を一時休止。[2007年](../Page/2007年.md "wikilink")5月、引退。
+[東京都](../Page/東京都.md "wikilink")出身。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")デビュー。[映画](../Page/映画.md "wikilink")や[Vシネマなどで活躍](../Page/オリジナルビデオ.md "wikilink")。[2004年](../Page/2004年.md "wikilink")、AV女優に転身。[アトラス21専属女優となる](../Page/アトラスにじゅういち.md "wikilink")。[2006年](../Page/2006年.md "wikilink")、芸能活動を一時休止。[2007年](../Page/2007年.md "wikilink")5月、引退。
 
 ## 作品
 
@@ -55,7 +55,7 @@ AV女優の[北川明花](https://ja.wikipedia.org/wiki/北川明花 "wikilink")
   - 美人女教師 涙の生中出し輪姦レイプ（5月18日、SODクリエイト）
   - 女教師 中出し20連発 北川絵美 聖職者に残酷な惨劇（6月8日、[アイエナジー](../Page/アイエナジー.md "wikilink")）
   - ウルトラ スレスレ モザイク NO．05 中出しの瞬間がウルモザ＆2画面構成！（7月6日、アイエナジー）
-  - FACE 95（9月1日、[アウダースジャパン](https://ja.wikipedia.org/wiki/アウダースジャパン "wikilink")）
+  - FACE 95（9月1日、[アウダースジャパン](../Page/アウダースジャパン.md "wikilink")）
   - 催眠 赤 ＃24 〜キャラクターチェンジ〜（9月1日、アウダースジャパン）
   - 雌女anthology ＃040 「女の口は嘘をつく。」（11月3日、アウダースジャパン）
   - 痴漢猥褻男（12月7日、アイエナジー）他出演:[@YOU](../Page/@YOU.md "wikilink")、[三津なつみ](https://ja.wikipedia.org/wiki/三津なつみ "wikilink")、[上原留華](../Page/上原留華.md "wikilink")、[中野美奈](../Page/中野美奈.md "wikilink")、[唯川純](https://ja.wikipedia.org/wiki/唯川純 "wikilink")、[姫野りむ](../Page/姫野りむ.md "wikilink")、[黒沢愛](../Page/黒沢愛.md "wikilink")、元村あゆみ
@@ -72,7 +72,7 @@ AV女優の[北川明花](https://ja.wikipedia.org/wiki/北川明花 "wikilink")
 
 ### オリジナルビデオ
 
-  - 女復讐人（2004年10月1日（レンタル） / 2004年11月1日（セル）、エンゲル）共演:[綾乃梓](https://ja.wikipedia.org/wiki/綾乃梓 "wikilink")、北川明花、矢縄沙弓
+  - 女復讐人（2004年10月1日（レンタル） / 2004年11月1日（セル）、エンゲル）共演:[綾乃梓](../Page/綾乃梓.md "wikilink")、北川明花、矢縄沙弓
   - 異常性欲リポート 激ナマSEX研究所（2005年5月16日、新東宝）共演:佐々木麻由子、風間今日子
   - 環あかり義母教師/恥辱にまみれて（2005年11月12日、ビーエムドットスリー）共演:環あかり、宮里亮
   - 誰かに見られてる（2006年4月28日、レジェント・ピクチャーズ）共演:北川明花、畠山寛、村山健太、広世克則、梨木奈穂美、馬場良平、鈴木達也
@@ -83,21 +83,21 @@ AV女優の[北川明花](https://ja.wikipedia.org/wiki/北川明花 "wikilink")
 ### TVドラマ
 
   - [特命係長 只野仁](https://ja.wikipedia.org/wiki/特命係長_只野仁_\(テレビドラマ\) "wikilink") 1stシーズン 最終話（2003年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [牙狼<GARO>](https://ja.wikipedia.org/wiki/牙狼-GARO- "wikilink") （2005年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [夜王](https://ja.wikipedia.org/wiki/夜王 "wikilink") （2006年、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [牙狼<GARO>](../Page/牙狼-GARO-.md "wikilink") （2005年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [夜王](../Page/夜王.md "wikilink") （2006年、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")・どケチ弁護士・山田播磨の温泉事件記（2006年11月、TBS）
 
 ### 映画
 
   - [凶気の桜](../Page/凶気の桜.md "wikilink") （2002年）
-  - [誰も知らない](https://ja.wikipedia.org/wiki/誰も知らない "wikilink") （2004年）
+  - [誰も知らない](../Page/誰も知らない.md "wikilink") （2004年）
   - 白竜 3　～非情のバトルロワイヤル～
 
 その他数作。他、Vシネマにも多数出演。
 
 ### ピンク映画
 
-  - 絶倫69歳 和服新妻の初夜 （[エクセス・フィルム](https://ja.wikipedia.org/wiki/新日本映像 "wikilink")）
+  - 絶倫69歳 和服新妻の初夜 （[エクセス・フィルム](../Page/新日本映像.md "wikilink")）
   - 処女花嫁 初めての悦び （2004年10月21日、[オーピー映画](https://ja.wikipedia.org/wiki/オーピー映画 "wikilink")）
   - 便利屋家政婦 鍵の穴から （エクセス・フィルム） - 共演：吉本雅
   - 桃尻姉妹 恥毛の香り （2004年12月11日、オーピー映画） - 共演：北川明花

@@ -5,8 +5,8 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月 - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社から投資を受ける。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月19日](../Page/4月19日.md "wikilink") - [エヴィド・ネットワークを買収し](https://ja.wikipedia.org/wiki/:en:ewido_Networks "wikilink")、同社の[ソフトウェア](../Page/ソフトウェア.md "wikilink")であるEwidoの技術をGrisoftの[AVG Anti-Virusに取り入れている](../Page/AVG_Anti-Virus.md "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")9月 - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社から投資を受ける。
+  - [2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - [エヴィド・ネットワークを買収し](https://ja.wikipedia.org/wiki/:en:ewido_Networks "wikilink")、同社の[ソフトウェア](../Page/ソフトウェア.md "wikilink")であるEwidoの技術をGrisoftの[AVG Anti-Virusに取り入れている](../Page/AVG_Anti-Virus.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")4月 - 株式会社CoGenMediaがサポート企業として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")において販売開始。
   - 2007年[12月5日](../Page/12月5日.md "wikilink") - 米国セキュリティソフト企業のExploit Prevention Labsを買収を発表\[1\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - 社名を「AVG Technologies CZ, s.r.o.」へ変更。

@@ -1,9 +1,9 @@
 > この記事は[ECW ](https://ja.wikipedia.org/wiki/ECW_)から翻訳されています。
 
 
-**ECW ディセンバー・トゥ・ディスメンバー**(*ECW December to Dismember*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")が主宰する、プロレス興行の名称。また、同興行を扱う[PPVの名称でもある](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")。開催は1年に1回。
+**ECW ディセンバー・トゥ・ディスメンバー**(*ECW December to Dismember*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")が主宰する、プロレス興行の名称。また、同興行を扱う[PPVの名称でもある](../Page/ペイ・パー・ビュー.md "wikilink")。開催は1年に1回。
 
-元々は、[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")の興行として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に一度だけ開催された大会である。[2001年](../Page/2001年.md "wikilink")にECWがWWEに買収される形で消滅してから開催されなくなったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にWWEの傘下としてECWが復活した際、同時に復活した。WWEのPPVがすべて3ブランド合同で開催された[2007年](../Page/2007年.md "wikilink")には、同名のPPVは催されなかった。
+元々は、[ECW](../Page/ECW.md "wikilink")の興行として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に一度だけ開催された大会である。[2001年](../Page/2001年.md "wikilink")にECWがWWEに買収される形で消滅してから開催されなくなったが、[2006年](../Page/2006年.md "wikilink")にWWEの傘下としてECWが復活した際、同時に復活した。WWEのPPVがすべて3ブランド合同で開催された[2007年](../Page/2007年.md "wikilink")には、同名のPPVは催されなかった。
 
 ## 試合結果
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - ○ザ・パブリック・エネミー(ロッコー・ロック&ジョニー・グランジ)&ザ・ピットブルズ&トミー・ドリーマー vs ザ・ヘブンリーボディーズ(トム・プリチャード&ジミー・デル・レイ)&ジ・エリミネーターズ(ペリー・サターン&ジョン・クローナス)&レイヴェン&[スティービー・リチャーズ](https://ja.wikipedia.org/wiki/マイケル・マナ "wikilink")●
+  - ○ザ・パブリック・エネミー(ロッコー・ロック&ジョニー・グランジ)&ザ・ピットブルズ&トミー・ドリーマー vs ザ・ヘブンリーボディーズ(トム・プリチャード&ジミー・デル・レイ)&ジ・エリミネーターズ(ペリー・サターン&ジョン・クローナス)&レイヴェン&[スティービー・リチャーズ](../Page/マイケル・マナ.md "wikilink")●
 
 ### 第2回大会（2006年）ECW December to Dismember 2006
 
@@ -68,7 +68,7 @@
 <!-- end list -->
 
   -
-    ○[スティービー・リチャーズ](https://ja.wikipedia.org/wiki/マイケル・マナ "wikilink") vs [レネ・デュプリー](../Page/レネ・ゴーゲン.md "wikilink")●
+    ○[スティービー・リチャーズ](../Page/マイケル・マナ.md "wikilink") vs [レネ・デュプリー](../Page/レネ・ゴーゲン.md "wikilink")●
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 <!-- end list -->
 
   -
-    ○[ザ・ハーディーズ](https://ja.wikipedia.org/wiki/ハーディー・ボーイズ "wikilink")（[マット・ハーディー](https://ja.wikipedia.org/wiki/マット・ハーディー "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")） vs [MNM](https://ja.wikipedia.org/wiki/MNM "wikilink")（[ジョニー・ナイトロ](https://ja.wikipedia.org/wiki/ジョン・ヘニガン "wikilink")＆[ジョーイ・マーキュリー](../Page/アダム・バーチ.md "wikilink")）（w/ [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")）●
+    ○[ザ・ハーディーズ](../Page/ハーディー・ボーイズ.md "wikilink")（[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")） vs [MNM](../Page/MNM.md "wikilink")（[ジョニー・ナイトロ](../Page/ジョン・ヘニガン.md "wikilink")＆[ジョーイ・マーキュリー](../Page/アダム・バーチ.md "wikilink")）（w/ [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")）●
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@
 
 <!-- end list -->
 
-  - ○[イライジャ・バーク](../Page/イライジャ・バーク.md "wikilink")＆[シルベスター・ターカイ](../Page/ザ・プレデター.md "wikilink") vs [F.B.I](../Page/フル・ブラッデッド・イタリアンズ.md "wikilink")（[リトル・グイドー・マリタート](https://ja.wikipedia.org/wiki/ジェームズ・マリタート "wikilink")＆[トニー・ママルーク](https://ja.wikipedia.org/wiki/チャールズ・スペンサー "wikilink")）（w/ [トリニティ](https://ja.wikipedia.org/wiki/ステファニー・フィノキオ "wikilink")）●
+  - ○[イライジャ・バーク](../Page/イライジャ・バーク.md "wikilink")＆[シルベスター・ターカイ](../Page/ザ・プレデター.md "wikilink") vs [F.B.I](../Page/フル・ブラッデッド・イタリアンズ.md "wikilink")（[リトル・グイドー・マリタート](../Page/ジェームズ・マリタート.md "wikilink")＆[トニー・ママルーク](https://ja.wikipedia.org/wiki/チャールズ・スペンサー "wikilink")）（w/ [トリニティ](https://ja.wikipedia.org/wiki/ステファニー・フィノキオ "wikilink")）●
 
 <!-- end list -->
 
@@ -102,12 +102,12 @@
 
 <!-- end list -->
 
-  - **[エクストリーム](https://ja.wikipedia.org/wiki/ハードコアマッチ "wikilink")・[エリミネーション・チェンバー形式](https://ja.wikipedia.org/wiki/エリミネーション・チェンバー・マッチ "wikilink")[ECW世界王座戦](../Page/ECW王座.md "wikilink") -Extreme Elimination Chamber Match for the ECW World Championship-**
+  - **[エクストリーム](https://ja.wikipedia.org/wiki/ハードコアマッチ "wikilink")・[エリミネーション・チェンバー形式](../Page/エリミネーション・チェンバー・マッチ.md "wikilink")[ECW世界王座戦](../Page/ECW王座.md "wikilink") -Extreme Elimination Chamber Match for the ECW World Championship-**
 
 <!-- end list -->
 
   -
-    [ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")（c） vs ○[ボビー・ラシュリー](../Page/ボビー・ラシュリー.md "wikilink") vs [テスト](../Page/アンドリュー・マーチン.md "wikilink") vs [ロブ・ヴァン・ダム](https://ja.wikipedia.org/wiki/ロブ・ヴァン・ダム "wikilink") vs [ハードコア・ホーリー](../Page/ボブ・ホーリー.md "wikilink") vs [CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")
+    [ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")（c） vs ○[ボビー・ラシュリー](../Page/ボビー・ラシュリー.md "wikilink") vs [テスト](../Page/アンドリュー・マーチン.md "wikilink") vs [ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink") vs [ハードコア・ホーリー](../Page/ボブ・ホーリー.md "wikilink") vs [CMパンク](../Page/CMパンク.md "wikilink")
     ベビーの[サブゥーが出場予定であったが](https://ja.wikipedia.org/wiki/テリー・ブルンク "wikilink")、ビッグ・ショーの王座を守りたいGM[ポール・ヘイマン](../Page/ポール・ヘイマン.md "wikilink")が試合直前に襲撃させたため欠場。代役としてホーリーが出場した。
 
 |         |                 |         |                  |

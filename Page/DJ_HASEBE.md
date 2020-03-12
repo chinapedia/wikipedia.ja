@@ -1,7 +1,7 @@
 > この記事は[DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE)から翻訳されています。
 
 
-**DJ HASEBE**（ディージェー・ハセベ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月](../Page/6月.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。OLD NICK名義でも活動。本名、長谷部 大助（はせべだいすけ）。
+**DJ HASEBE**（ディージェー・ハセベ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月](../Page/6月.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。OLD NICK名義でも活動。本名、長谷部 大助（はせべだいすけ）。
 
 ## ディスコグラフィ
 
@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2000年8月23日</p></td>
-<td><p><strong>MASTERMIND feat. <a href="https://ja.wikipedia.org/wiki/Zeebra" title="wikilink">ZEEBRA</a> / <a href="../Page/Mummy-D.md" title="wikilink">Mummy-D</a></strong></p></td>
+<td><p><strong>MASTERMIND feat. <a href="../Page/Zeebra.md" title="wikilink">ZEEBRA</a> / <a href="../Page/Mummy-D.md" title="wikilink">Mummy-D</a></strong></p></td>
 <td><p>WPC6-10104</p></td>
 <td><ol>
 <li>MASTERMIND</li>
@@ -278,9 +278,9 @@ LEXCD-12012</p></td>
 <li>Sunday Morning（<a href="../Page/マルーン5.md" title="wikilink">マルーン5</a>）</li>
 <li>Waiting On The World To Change（<a href="../Page/ジョン・メイヤー.md" title="wikilink">ジョン・メイヤー</a>）</li>
 <li>Whatever（<a href="https://ja.wikipedia.org/wiki/オアシス_(バンド)" title="wikilink">オアシス</a>）</li>
-<li>The Game Of Love（<a href="https://ja.wikipedia.org/wiki/サンタナ_(バンド)" title="wikilink">サンタナ</a>）</li>
+<li>The Game Of Love（<a href="../Page/サンタナ_(バンド).md" title="wikilink">サンタナ</a>）</li>
 <li>Great DJ（<a href="https://ja.wikipedia.org/wiki/ザ・ティン・ティンズ" title="wikilink">ザ・ティン・ティンズ</a>）</li>
-<li>Scar Tissue（<a href="https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ" title="wikilink">レッド・ホット・チリ・ペッパーズ</a>）</li>
+<li>Scar Tissue（<a href="../Page/レッド・ホット・チリ・ペッパーズ.md" title="wikilink">レッド・ホット・チリ・ペッパーズ</a>）</li>
 <li>A Thousand Miles（<a href="../Page/ヴァネッサ・カールトン.md" title="wikilink">ヴァネッサ・カールトン</a>）</li>
 <li>Smile（<a href="../Page/リリー・アレン.md" title="wikilink">リリー・アレン</a>）</li>
 </ol></td>
@@ -369,7 +369,7 @@ LEXCD-12012</p></td>
 
 <!-- end list -->
 
-  - [サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")「[バスト ア ムーブ2 ダンス天国MIX](../Page/バスト_ア_ムーブ.md "wikilink") オリジナル・サウンドトラック」（1999年4月21日）
+  - [サウンドトラック](../Page/サウンドトラック.md "wikilink")「[バスト ア ムーブ2 ダンス天国MIX](../Page/バスト_ア_ムーブ.md "wikilink") オリジナル・サウンドトラック」（1999年4月21日）
 
 <!-- end list -->
 
@@ -396,7 +396,7 @@ LEXCD-12012</p></td>
 
 <!-- end list -->
 
-  - [Tina](https://ja.wikipedia.org/wiki/Tina "wikilink")「Tina best selection true love」（2001年11月7日）
+  - [Tina](../Page/Tina.md "wikilink")「Tina best selection true love」（2001年11月7日）
 
 <!-- end list -->
 
@@ -405,7 +405,7 @@ LEXCD-12012</p></td>
 
 <!-- end list -->
 
-  - [SHAKKAZOMBIE](https://ja.wikipedia.org/wiki/SHAKKAZOMBIE "wikilink")「SO TIGHT,SO DEEP」（2001年11月28日）
+  - [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")「SO TIGHT,SO DEEP」（2001年11月28日）
 
 <!-- end list -->
 
@@ -549,7 +549,7 @@ LEXCD-12012</p></td>
 
 <!-- end list -->
 
-  - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")「アイのうた WINTER REMIX」（2010年12月1日）
+  - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「アイのうた WINTER REMIX」（2010年12月1日）
 
 <!-- end list -->
 
@@ -616,9 +616,9 @@ LEXCD-12012</p></td>
   - [SPEECH](https://ja.wikipedia.org/wiki/:en:Speech_\(rapper\) "wikilink")
   - [SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink")
   - [Sugar Soul](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink")
-  - [ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink")
-  - [キエるマキュウ](https://ja.wikipedia.org/wiki/キエるマキュウ "wikilink")
-  - [嶋野百恵](https://ja.wikipedia.org/wiki/嶋野百恵 "wikilink")
+  - [ZEEBRA](../Page/Zeebra.md "wikilink")
+  - [キエるマキュウ](../Page/キエるマキュウ.md "wikilink")
+  - [嶋野百恵](../Page/嶋野百恵.md "wikilink")
 
 ## 外部リンク
 

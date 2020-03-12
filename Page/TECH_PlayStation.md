@@ -1,13 +1,13 @@
 > この記事は[TECH PlayStation](https://ja.wikipedia.org/wiki/TECH_PlayStation)から翻訳されています。
 
 
-『**TECH PlayStation**』（テックプレイステーション）は、かつて[アスキーから発行されていた](../Page/アスキー_\(企業\).md "wikilink")[プレイステーション専門の月刊ゲーム雑誌である](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。略称は「てっぷれ」。 毎号プレイステーション用CD-ROMが付属し、CD-ROMにはゲーム体験版やムービー、セーブデータなどが収録されていた。
+『**TECH PlayStation**』（テックプレイステーション）は、かつて[アスキーから発行されていた](../Page/アスキー_\(企業\).md "wikilink")[プレイステーション専門の月刊ゲーム雑誌である](../Page/PlayStation_\(ゲーム機\).md "wikilink")。略称は「てっぷれ」。 毎号プレイステーション用CD-ROMが付属し、CD-ROMにはゲーム体験版やムービー、セーブデータなどが収録されていた。
 
 ## 沿革
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に創刊号（1997年4月号）が発行されたが、雑誌としての寿命は短く、同年[9月16日](../Page/9月16日.md "wikilink")発行の「[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")号」をもって突然の休刊（事実上の廃刊）を迎えた。休刊の理由は、姉妹紙である『[TECH Saturn](../Page/Tech_Saturn.md "wikilink")』と同じくアスキーのリストラによるもの。あまりに唐突な出来事であったのか、最終号においても読者参加企画の投稿募集告知や、次号収録予定の体験版タイトルなどが掲載されている。
 
-休刊後、1998年3月に『**TECH PlayStation 復活版！**』と題した単発[ムックとして一号だけ復刊した](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。
+休刊後、1998年3月に『**TECH PlayStation 復活版！**』と題した単発[ムックとして一号だけ復刊した](../Page/ムック_\(出版\).md "wikilink")。
 
 なお、1998年6月には[アスペクトより本誌と同形態のプレイステーションCD](../Page/アスペクト_\(企業\).md "wikilink")-ROM付き雑誌『[月刊ファミ通Wave](https://ja.wikipedia.org/wiki/ファミ通WaveDVD#月刊ファミ通Wave "wikilink")』が創刊されている。関連企業（当時）からの発行ゆえか、誌面に若干似たようなテイストを帯びてはいるが、こちらはあくまで『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』姉妹紙としての性格が強い。巻次・編集体勢の継承はなく、お互いははっきりと区別される。
 
@@ -50,7 +50,7 @@
 
   - ゲーマーズコロシアム
     読者参加型のセーブデータ持ち寄り企画。自動対戦モードのあるゲームの勝ち抜きトーナメント。
-    どういう訳か、創刊後暫くはPSソフト『[カルネージハート](https://ja.wikipedia.org/wiki/カルネージハート "wikilink")』と『[パンドラプロジェクト](https://ja.wikipedia.org/wiki/パンドラプロジェクト "wikilink")』のみを扱っていた。その後『[モンスターファーム](https://ja.wikipedia.org/wiki/モンスターファーム "wikilink")』など別タイトルによる企画も立ち上がり、セーブデータ募集も行われたが、形になる前に雑誌休刊となってしまった。
+    どういう訳か、創刊後暫くはPSソフト『[カルネージハート](../Page/カルネージハート.md "wikilink")』と『[パンドラプロジェクト](https://ja.wikipedia.org/wiki/パンドラプロジェクト "wikilink")』のみを扱っていた。その後『[モンスターファーム](https://ja.wikipedia.org/wiki/モンスターファーム "wikilink")』など別タイトルによる企画も立ち上がり、セーブデータ募集も行われたが、形になる前に雑誌休刊となってしまった。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 <!-- end list -->
 
   - 武士道を極める
-    [スクウェア発売のPSソフト](../Page/スクウェア_\(ゲーム会社\).md "wikilink")『[ブシドーブレード](https://ja.wikipedia.org/wiki/ブシドーブレード "wikilink")』の特集ページ。攻略よりもファンページ寄りな内容で、開発元のグラフィッカーによる漫画などが掲載された。
+    [スクウェア発売のPSソフト](../Page/スクウェア_\(ゲーム会社\).md "wikilink")『[ブシドーブレード](../Page/ブシドーブレード.md "wikilink")』の特集ページ。攻略よりもファンページ寄りな内容で、開発元のグラフィッカーによる漫画などが掲載された。
 
 <!-- end list -->
 

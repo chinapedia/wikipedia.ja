@@ -1,7 +1,7 @@
 > この記事は[MIYA-NET](https://ja.wikipedia.org/wiki/MIYA-NET)から翻訳されています。
 
 
-**MIYA-NET**（みやねっと）は、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[大宮市](https://ja.wikipedia.org/wiki/大宮市 "wikilink")（現:[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")）に存在していた[パソコン通信](../Page/パソコン通信.md "wikilink")の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。[2001年](../Page/2001年.md "wikilink")頃自然消滅し、現存はしない。
+**MIYA-NET**（みやねっと）は、[埼玉県](../Page/埼玉県.md "wikilink")[大宮市](https://ja.wikipedia.org/wiki/大宮市 "wikilink")（現:[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")）に存在していた[パソコン通信](../Page/パソコン通信.md "wikilink")の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。[2001年](../Page/2001年.md "wikilink")頃自然消滅し、現存はしない。
 
 地域の情報や[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")の[Z-MUSICのサポート](https://ja.wikipedia.org/wiki/X68000#Z-MUSIC "wikilink")[BBSとして](../Page/電子掲示板.md "wikilink")、更には恋の悩みの相談も扱う総合テーマの草の根BBS。テレターミナルモデムや[PIAFS](https://ja.wikipedia.org/wiki/Personal_Handyphone_System_Internet_Access_Forum_Standard "wikilink")、[INS](../Page/ISDN.md "wikilink")-C、[INS](../Page/ISDN.md "wikilink")-P、56k[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")と色々な通信手段でアクセス可能であった。
 
@@ -57,7 +57,7 @@ SYSOPは「七里の住民」と名乗ったが、会員からはオペさんと
 
 ### 会費等
 
-　基本的に[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")。個人運営の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")につき。　
+　基本的に[無料](../Page/無料.md "wikilink")。個人運営の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")につき。　
 
 ### 会員数
 
@@ -93,17 +93,17 @@ PC-9821Xe10+1.6GBハードディスク
 
 ### 大宮市宮町のテレニック21大宮店時代
 
-[大宮市](https://ja.wikipedia.org/wiki/大宮市 "wikilink")宮町5丁目にあった「テレニック21大宮店」の店内に、[アナログ](../Page/アナログ.md "wikilink")[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")4回線を引いて開局した。
+[大宮市](https://ja.wikipedia.org/wiki/大宮市 "wikilink")宮町5丁目にあった「テレニック21大宮店」の店内に、[アナログ](../Page/アナログ.md "wikilink")[電話回線](../Page/電話回線.md "wikilink")4回線を引いて開局した。
 
 当時、店内の中央部分に占めていた[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")の専用台にホストシステムを設置していた。この為、一部熱烈な[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")から非難の声が上がった。
 
-テレニック21の名称は、母体会社名の[日本インコム](https://ja.wikipedia.org/wiki/日本インコム "wikilink")からニック（一号店は[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")東口の六又交差点付近）が生まれ、更にビジネス系を扱う“テクニカル”と、ビジネスソフトを“21％”引きで売るパソコンショップからテレニック21となった。
+テレニック21の名称は、母体会社名の[日本インコム](../Page/日本インコム.md "wikilink")からニック（一号店は[池袋](../Page/池袋.md "wikilink")東口の六又交差点付近）が生まれ、更にビジネス系を扱う“テクニカル”と、ビジネスソフトを“21％”引きで売るパソコンショップからテレニック21となった。
 
-#### [日本インコム](https://ja.wikipedia.org/wiki/日本インコム "wikilink")
+#### [日本インコム](../Page/日本インコム.md "wikilink")
 
-MIYA-NETで培ったノウハウは、当時50店舗程を構える[日本インコム](https://ja.wikipedia.org/wiki/日本インコム "wikilink")の売り上げ集計システムに応用されていた。 日本インコムは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[Macの安売りに失敗し](../Page/Macintosh.md "wikilink")[倒産](../Page/倒産.md "wikilink")した。この倒産の間際、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が一斉に商品を引き上げたことが倒産を早めたことは有名。
+MIYA-NETで培ったノウハウは、当時50店舗程を構える[日本インコム](../Page/日本インコム.md "wikilink")の売り上げ集計システムに応用されていた。 日本インコムは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[Macの安売りに失敗し](../Page/Macintosh.md "wikilink")[倒産](../Page/倒産.md "wikilink")した。この倒産の間際、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が一斉に商品を引き上げたことが倒産を早めたことは有名。
 
-また、当時ハードディスクメーカーとして有名だった[アイシーエム](https://ja.wikipedia.org/wiki/アイシーエム "wikilink")もこの影響を受けて倒産した。
+また、当時ハードディスクメーカーとして有名だった[アイシーエム](../Page/アイシーエム.md "wikilink")もこの影響を受けて倒産した。
 
 ### 大宮市桜木町のテレニック21大宮店時代
 
@@ -119,9 +119,9 @@ MIYA-NETも難なく新天地に移転した。店内では入り口付近の目
 
 ### 大宮市土手町時代
 
-大宮駅西口前に突如として[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")大宮店が誕生した。なお[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")は大宮で始めたレンタルソフト屋がその発祥であり、大宮進出はある意味では見通せてはいた。
+大宮駅西口前に突如として[ソフマップ](../Page/ソフマップ.md "wikilink")大宮店が誕生した。なお[ソフマップ](../Page/ソフマップ.md "wikilink")は大宮で始めたレンタルソフト屋がその発祥であり、大宮進出はある意味では見通せてはいた。
 
-[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")大宮店登場から1年もたたないうちに、テレニック21大宮店は呆気なく大宮から撤退。その後、[浦和市](https://ja.wikipedia.org/wiki/浦和市 "wikilink")郊外に[インコム浦和店として開店したが](https://ja.wikipedia.org/wiki/日本インコム "wikilink")、半年もしないうちに日本インコムの解散により、インコム浦和店は閉店した。
+[ソフマップ](../Page/ソフマップ.md "wikilink")大宮店登場から1年もたたないうちに、テレニック21大宮店は呆気なく大宮から撤退。その後、[浦和市](https://ja.wikipedia.org/wiki/浦和市 "wikilink")郊外に[インコム浦和店として開店したが](../Page/日本インコム.md "wikilink")、半年もしないうちに日本インコムの解散により、インコム浦和店は閉店した。
 
 テレニック21大宮店の大宮撤退時、ホストシステムを[大宮市](https://ja.wikipedia.org/wiki/大宮市 "wikilink")土手町に移設した。
 
@@ -153,7 +153,7 @@ MIYA-NETも難なく新天地に移転した。店内では入り口付近の目
 
 <!-- end list -->
 
-  - 大宮駅西口の[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink") にて*サケオフ*
+  - 大宮駅西口の[居酒屋](../Page/居酒屋.md "wikilink") にて*サケオフ*
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@ MIYA-NETも難なく新天地に移転した。店内では入り口付近の目
 
 <!-- end list -->
 
-  - [ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")大宮店に行く*オフ*
+  - [ソフマップ](../Page/ソフマップ.md "wikilink")大宮店に行く*オフ*
 
 <!-- end list -->
 
@@ -177,15 +177,15 @@ MIYA-NETも難なく新天地に移転した。店内では入り口付近の目
 
 <!-- end list -->
 
-  - [大宮公園](../Page/大宮公園.md "wikilink")や[浮間公園](https://ja.wikipedia.org/wiki/浮間公園 "wikilink")でお[花見](../Page/花見.md "wikilink")の*ハナミオフ*
+  - [大宮公園](../Page/大宮公園.md "wikilink")や[浮間公園](../Page/浮間公園.md "wikilink")でお[花見](../Page/花見.md "wikilink")の*ハナミオフ*
 
 <!-- end list -->
 
-  - [秋ヶ瀬の河原でバーベキューをする](https://ja.wikipedia.org/wiki/秋ヶ瀬公園 "wikilink")*Qオフ*
+  - [秋ヶ瀬の河原でバーベキューをする](../Page/秋ヶ瀬公園.md "wikilink")*Qオフ*
 
 <!-- end list -->
 
-  - [秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の[歩行者天国](https://ja.wikipedia.org/wiki/歩行者天国 "wikilink")に[茣蓙](https://ja.wikipedia.org/wiki/茣蓙 "wikilink")をひいて鍋物をする*アキバナベオフ*
+  - [秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の[歩行者天国](../Page/歩行者天国.md "wikilink")に[茣蓙](https://ja.wikipedia.org/wiki/茣蓙 "wikilink")をひいて鍋物をする*アキバナベオフ*
 
 ## MIYA-NETの[掲示板](../Page/掲示板.md "wikilink")の[階層構造](../Page/階層構造.md "wikilink")
 

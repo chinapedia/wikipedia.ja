@@ -13,17 +13,17 @@
 
 ### 旧メンバー
 
-  - 渕上健吾（ふちがみ けんご）：[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月9日](../Page/7月9日.md "wikilink")生まれ。[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。現在は[nano an apertureのメンバー](https://ja.wikipedia.org/wiki/nano_an_aperture "wikilink")。
+  - 渕上健吾（ふちがみ けんご）：[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月9日](../Page/7月9日.md "wikilink")生まれ。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。現在は[nano an apertureのメンバー](https://ja.wikipedia.org/wiki/nano_an_aperture "wikilink")。
   - [小倉誠司](https://ja.wikipedia.org/wiki/小倉誠司 "wikilink")（おぐらせいじ）:[1984年](../Page/1984年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")生まれ。[ドラム](../Page/ドラムセット.md "wikilink")。現在は[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")のリーダー
 
 ## 経歴
 
-  - [2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")[大阪スクールオブミュージック専門学校](https://ja.wikipedia.org/wiki/大阪スクールオブミュージック専門学校 "wikilink")に在籍していた5人で結成。
+  - [2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")[大阪スクールオブミュージック専門学校](../Page/大阪スクールオブミュージック専門学校.md "wikilink")に在籍していた5人で結成。
   - [2002年](../Page/2002年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")　ギターが脱退。
   - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")　[インディーズ](../Page/インディーズ.md "wikilink")デビューのシングル「扉」を発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")　ドラムの[小倉誠司](https://ja.wikipedia.org/wiki/小倉誠司 "wikilink")（現在は[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")のリーダー）が脱退。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")　代わりに籏野博成が加入。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")　[カメリアダイヤモンドのCM曲の](../Page/三貴.md "wikilink")「空フル」でメジャーデビュー。
+  - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")　ドラムの[小倉誠司](https://ja.wikipedia.org/wiki/小倉誠司 "wikilink")（現在は[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")のリーダー）が脱退。
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")　代わりに籏野博成が加入。
+  - [2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")　[カメリアダイヤモンドのCM曲の](../Page/三貴.md "wikilink")「空フル」でメジャーデビュー。
   - [2007年](../Page/2007年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")　ベースの渕上健吾（現在は[nano an apertureのメンバー](https://ja.wikipedia.org/wiki/nano_an_aperture "wikilink")）が脱退。
 
 ## ディスコグラフィ

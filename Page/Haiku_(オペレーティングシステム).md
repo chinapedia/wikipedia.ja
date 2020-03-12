@@ -1,9 +1,9 @@
 > この記事は[Haiku \(\)](https://ja.wikipedia.org/wiki/Haiku_\(\))から翻訳されています。
 
 
-**Haiku**（ハイク）は、[オープンソース](../Page/オープンソース.md "wikilink")で開発されているデスクトップ向け[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")。Haiku R1のリリースに向けて[BeOS](../Page/BeOS.md "wikilink")を再現することを目指しており、以前は**OpenBeOS**と呼ばれていた。Haiku R1/Alpha 1では[x86と](https://ja.wikipedia.org/wiki/IA-32 "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")をサポートしていたが、Haiku R1/Alpha 2以降のバージョンでは[x86のみをサポートしている](https://ja.wikipedia.org/wiki/IA-32 "wikilink")。
+**Haiku**（ハイク）は、[オープンソース](../Page/オープンソース.md "wikilink")で開発されているデスクトップ向け[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")。Haiku R1のリリースに向けて[BeOS](../Page/BeOS.md "wikilink")を再現することを目指しており、以前は**OpenBeOS**と呼ばれていた。Haiku R1/Alpha 1では[x86と](../Page/IA-32.md "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")をサポートしていたが、Haiku R1/Alpha 2以降のバージョンでは[x86のみをサポートしている](../Page/IA-32.md "wikilink")。
 
-なおHaikuという名称は日本の**[俳句](https://ja.wikipedia.org/wiki/俳句 "wikilink")**に起因する（詳しくは英語版の[NetPositiveを参照のこと](https://ja.wikipedia.org/wiki/:en:NetPositive "wikilink")）
+なおHaikuという名称は日本の**[俳句](../Page/俳句.md "wikilink")**に起因する（詳しくは英語版の[NetPositiveを参照のこと](https://ja.wikipedia.org/wiki/:en:NetPositive "wikilink")）
 
 ## Haikuの目的
 

@@ -1,9 +1,9 @@
 > この記事は[THE YOUTH](https://ja.wikipedia.org/wiki/THE_YOUTH)から翻訳されています。
 
 
-**THE YOUTH**（ザ・ユース）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")を拠点に活動している4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[エモーショナル・ハードコア](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")を専攻している。
+**THE YOUTH**（ザ・ユース）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")を拠点に活動している4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[エモーショナル・ハードコア](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")を専攻している。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）、中村維俊（中村マサトシ）、相澤大樹、藤原智也、守谷悟の4人でthe youth（ザ・ユース）を結成し、地元・仙台を中心に活動開始。藤原の脱退後、翌年に三井律郎が加わる。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）に[東芝EMIより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[メジャー・デビューした](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）、中村維俊（中村マサトシ）、相澤大樹、藤原智也、守谷悟の4人でthe youth（ザ・ユース）を結成し、地元・仙台を中心に活動開始。藤原の脱退後、翌年に三井律郎が加わる。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）に[東芝EMIより](../Page/EMIミュージック・ジャパン.md "wikilink")[メジャー・デビューした](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
 ## メンバー
 
@@ -15,8 +15,8 @@
         [2016年](../Page/2016年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")、仙台市内で[酒気帯び運転の状態で](../Page/飲酒運転.md "wikilink")[交通事故](../Page/交通事故.md "wikilink")を起こし、[同月23日と](../Page/10月23日.md "wikilink")[29日に出演予定だったイベントを欠席し](../Page/10月29日.md "wikilink")、同日に[公式サイト上に謝罪する旨と](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")、当面の[メディア出演自粛のコメントを発表したと報じられた](../Page/メディア_\(媒体\).md "wikilink")\[1\]。
   - 三井 律郎（みつい りつお、1981年[10月31日](../Page/10月31日.md "wikilink") - ）（[ギター](../Page/ギター.md "wikilink")）
       -
-        [LOST IN TIMEのサポートメンバーとしても活動](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")。
-  - 守谷 悟（もりや さとる）（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、叫び）
+        [LOST IN TIMEのサポートメンバーとしても活動](../Page/LOST_IN_TIME.md "wikilink")。
+  - 守谷 悟（もりや さとる）（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、叫び）
       -
         2010年4月に一旦グループを脱退するも、2013年に復帰\[2\]。
   - 相澤 大樹（あいざわ ひろき、1981年[6月25日](../Page/6月25日.md "wikilink") - ）（[ドラムス](../Page/ドラムセット.md "wikilink")）
@@ -270,7 +270,7 @@
   - 2003年09月06日 - ARABAKI ROCK FEST.09072003 荒吐宵祭
   - 2005年07月29日・30日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '05
   - 2006年08月19日 - TREASURE052 2006 ～FLASH\! 2nd day～
-  - 2007年03月23日 - [THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")「KYO-MEI対バンツアー」～共に鳴らす夜～
+  - 2007年03月23日 - [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")「KYO-MEI対バンツアー」～共に鳴らす夜～
   - 2007年08月18日 - TREASURE05X 2007 ～flash 2nd day～
   - 2008年04月26日 - ARABAKI ROCK FEST.08
   - 2008年08月18日 - TREASURE05X 2008 ～screaming triangle 3rd day～
@@ -278,14 +278,14 @@
   - 2012年09月23日 - [いしがきミュージックフェスティバル](https://ja.wikipedia.org/wiki/いしがきミュージックフェスティバル "wikilink") 2012
   - 2012年10月06日 - [MEGA☆ROCKS](../Page/MEGA☆ROCKS.md "wikilink") 2012
   - 2013年10月05日 - MEGA☆ROCKS 2013
-  - 2014年05月17日 - [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink") presents 1:1～五月の桜～
+  - 2014年05月17日 - [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink") presents 1:1～五月の桜～
   - 2015年09月20日 - LOST IN TIME 9th album「DOORS」Release tour「TOURS」
   - 2015年09月21日 - いしがきミュージックフェスティバル 2015
 
 ## 関連項目
 
   - [仙台の著名人一覧](../Page/仙台の著名人一覧.md "wikilink")
-  - [楽都仙台](https://ja.wikipedia.org/wiki/楽都仙台 "wikilink")
+  - [楽都仙台](../Page/楽都仙台.md "wikilink")
 
 ## 脚注
 

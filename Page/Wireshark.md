@@ -7,7 +7,7 @@
 
 Gerald Combs はかつて、[Ethereal](https://ja.wikipedia.org/wiki/Ethereal "wikilink")を開発していた。Etherealは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[GPLで公開した](../Page/GNU_General_Public_License.md "wikilink")。Combsが退職したことでEtherealの[商標](../Page/商標.md "wikilink")が勤めていた企業に残り、開発を中断している。 Etherealは、ルータ、シミュレータなどの製品でライブラリ等を利用していることがあった。
 
-Combsなどの開発者の移籍後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月](../Page/6月.md "wikilink")にプロジェクトを変更。[WinPcapの販売元であるCACETが支援者となりWiresharkとして提供を開始した](https://ja.wikipedia.org/wiki/Pcap#WinPcap "wikilink")。
+Combsなどの開発者の移籍後、[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")にプロジェクトを変更。[WinPcapの販売元であるCACETが支援者となりWiresharkとして提供を開始した](https://ja.wikipedia.org/wiki/Pcap#WinPcap "wikilink")。
 
 ## 機能
 

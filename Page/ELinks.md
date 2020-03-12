@@ -3,7 +3,7 @@
 
 ****（イーリンクス）は、[UNIX系](https://ja.wikipedia.org/wiki/UNIX系 "wikilink")システムの[コンソールで動作する](https://ja.wikipedia.org/wiki/コンソールアプリケーション "wikilink")[フリーの](../Page/フリーソフトウェア.md "wikilink")[テキストベース](../Page/キャラクタユーザインタフェース.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である。
 
-このソフトウェアは2001年に、名前の"E"のために、[Links](https://ja.wikipedia.org/wiki/Links "wikilink")ウェブブラウザの[ペーター・バウディス](https://ja.wikipedia.org/wiki/ペーター・バウディス "wikilink")による実験的フォークとして着手された。それ以来、"E"は強化()や拡張()を示すようになった\[1\]。 2004年9月1日にバウディスはプロジェクトメンテナンスに対する時間と興味が不足していること、レビューや体系化したリリースよりもコーディングに集中することに言及し、プロジェクトのメンテナンスを[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の開発者、[ジョナス・フォンセカ](https://ja.wikipedia.org/wiki/ジョナス・フォンセカ "wikilink")にゆだねた\[2\]。
+このソフトウェアは2001年に、名前の"E"のために、[Links](../Page/Links.md "wikilink")ウェブブラウザの[ペーター・バウディス](https://ja.wikipedia.org/wiki/ペーター・バウディス "wikilink")による実験的フォークとして着手された。それ以来、"E"は強化()や拡張()を示すようになった\[1\]。 2004年9月1日にバウディスはプロジェクトメンテナンスに対する時間と興味が不足していること、レビューや体系化したリリースよりもコーディングに集中することに言及し、プロジェクトのメンテナンスを[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の開発者、[ジョナス・フォンセカ](https://ja.wikipedia.org/wiki/ジョナス・フォンセカ "wikilink")にゆだねた\[2\]。
 
 2017年3月17日に[OpenBSD](../Page/OpenBSD.md "wikilink")は、セキュリティ面での不安要素と開発者からの反応の悪さに言及し、自身のポートツリーからELinksを削除した\[3\]。
 
@@ -21,15 +21,15 @@
   - マウスサポート。
   - 文字のカラー表示。
   - プロトコルサポート:
-      - , [finger](https://ja.wikipedia.org/wiki/Finger_protocol "wikilink"), [http](../Page/Hypertext_Transfer_Protocol.md "wikilink"), [https](../Page/HTTPS.md "wikilink"), [ftp](../Page/File_Transfer_Protocol.md "wikilink"), , [smb](../Page/Samba.md "wikilink"), [IPv4](https://ja.wikipedia.org/wiki/IPv4 "wikilink"), [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")
+      - , [finger](https://ja.wikipedia.org/wiki/Finger_protocol "wikilink"), [http](../Page/Hypertext_Transfer_Protocol.md "wikilink"), [https](../Page/HTTPS.md "wikilink"), [ftp](../Page/File_Transfer_Protocol.md "wikilink"), , [smb](../Page/Samba.md "wikilink"), [IPv4](../Page/IPv4.md "wikilink"), [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")
 
-      - 実験的: [BitTorrent](https://ja.wikipedia.org/wiki/BitTorrent "wikilink"), [gopher](https://ja.wikipedia.org/wiki/Gopher_\(protocol\) "wikilink"),\[9\] [nntp](../Page/Network_News_Transfer_Protocol.md "wikilink")
+      - 実験的: [BitTorrent](../Page/BitTorrent.md "wikilink"), [gopher](https://ja.wikipedia.org/wiki/Gopher_\(protocol\) "wikilink"),\[9\] [nntp](../Page/Network_News_Transfer_Protocol.md "wikilink")
 
 ## 脚注
 
 ## 関連項目
 
-  - [Links](https://ja.wikipedia.org/wiki/Links "wikilink")
+  - [Links](../Page/Links.md "wikilink")
 
   - [ウェブブラウザの一覧](../Page/ウェブブラウザの一覧.md "wikilink")
 

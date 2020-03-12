@@ -17,7 +17,7 @@
 
   - [1950年](../Page/1950年.md "wikilink")（昭和25年） - **福野鋼板工業株式会社**創業。
   - [1963年](../Page/1963年.md "wikilink")（昭和38年） - **株式会社 トヤマキカイ**に改称。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年） - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年） - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
 
 ### 旧日平産業
 
@@ -28,11 +28,11 @@
 
 ### 合併後
 
-  - [1984年](../Page/1984年.md "wikilink")（昭和59年） - **株式会社 トヤマキカイ**（旧[東洋紡](https://ja.wikipedia.org/wiki/東洋紡 "wikilink")系）と**日平産業株式会社**（旧[丸紅](https://ja.wikipedia.org/wiki/丸紅 "wikilink")系）が合併。**株式会社 日平トヤマ**に改称。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - [株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")により[小松製作所](https://ja.wikipedia.org/wiki/小松製作所 "wikilink")の連結子会社になる。
+  - [1984年](../Page/1984年.md "wikilink")（昭和59年） - **株式会社 トヤマキカイ**（旧[東洋紡](../Page/東洋紡.md "wikilink")系）と**日平産業株式会社**（旧[丸紅](../Page/丸紅.md "wikilink")系）が合併。**株式会社 日平トヤマ**に改称。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - [株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")により[小松製作所](../Page/小松製作所.md "wikilink")の連結子会社になる。
   - 2008年（平成20年） - 小松製作所の完全子会社となり、上場廃止。
   - 2008年（平成20年） - 10月 - 社名を**コマツNTC株式会社**に変更。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年） - 4月 - [コマツ工機](../Page/コマツ工機.md "wikilink")を吸収合併。また、本社を[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")から富山県南砺市へ移転。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年） - 4月 - [コマツ工機](../Page/コマツ工機.md "wikilink")を吸収合併。また、本社を[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")から富山県南砺市へ移転。
 
 ## 脚注
 

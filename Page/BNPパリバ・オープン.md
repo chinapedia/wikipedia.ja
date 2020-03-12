@@ -5,7 +5,7 @@
 
 ## 概要
 
-この大会の翌週に開催される[マイアミ・オープン](https://ja.wikipedia.org/wiki/マイアミ・オープン "wikilink")と共に「春の祭典」と称され、参加ドローの多さから第5のグランドスラムとも呼ばれ、テニス界における重要な大会として定着している。2009年からフランスの証券会社[BNPパリバ](../Page/BNPパリバ.md "wikilink")が冠スポンサーを務めている。カテゴリーは男子は[マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子は[プレミア・マンダトリーに属する](https://ja.wikipedia.org/wiki/WTAプレミアトーナメント "wikilink")。賞金総額はマスターズ1000、プレミア・マンダトリーの中で最も多く、2012年から男女シングルスの優勝賞金が100万ドルを超えている。また、マイアミ・オープンと同時に連続で優勝することを「サンシャイン・ダブル」と呼ばれる。
+この大会の翌週に開催される[マイアミ・オープン](../Page/マイアミ・オープン.md "wikilink")と共に「春の祭典」と称され、参加ドローの多さから第5のグランドスラムとも呼ばれ、テニス界における重要な大会として定着している。2009年からフランスの証券会社[BNPパリバ](../Page/BNPパリバ.md "wikilink")が冠スポンサーを務めている。カテゴリーは男子は[マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子は[プレミア・マンダトリーに属する](https://ja.wikipedia.org/wiki/WTAプレミアトーナメント "wikilink")。賞金総額はマスターズ1000、プレミア・マンダトリーの中で最も多く、2012年から男女シングルスの優勝賞金が100万ドルを超えている。また、マイアミ・オープンと同時に連続で優勝することを「サンシャイン・ダブル」と呼ばれる。
 
 2015年には観客数歴代最多の45万6672人を動員した。
 
@@ -61,7 +61,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ミロスラフ・メチージュ" title="wikilink">ミロスラフ・メチージュ</a></strong></p></td>
+<td><p><strong><a href="../Page/ミロスラフ・メチージュ.md" title="wikilink">ミロスラフ・メチージュ</a></strong></p></td>
 <td><p><a href="../Page/ヤニック・ノア.md" title="wikilink">ヤニック・ノア</a></p></td>
 <td><p>3-6, 2-6, 6-1, 6-2, 6-3</p></td>
 </tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジム・クーリエ" title="wikilink">ジム・クーリエ</a></strong></p></td>
+<td><p><strong><a href="../Page/ジム・クーリエ.md" title="wikilink">ジム・クーリエ</a></strong></p></td>
 <td><p><a href="../Page/ギー・フォルジェ.md" title="wikilink">ギー・フォルジェ</a></p></td>
 <td><p>4-6, 6-3, 4-6, 6-3, 7-6</p></td>
 </tr>
@@ -85,14 +85,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジム・クーリエ" title="wikilink">ジム・クーリエ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・フェレイラ" title="wikilink">ウェイン・フェレイラ</a></p></td>
+<td><p><strong><a href="../Page/ジム・クーリエ.md" title="wikilink">ジム・クーリエ</a></strong></p></td>
+<td><p><a href="../Page/ウェイン・フェレイラ.md" title="wikilink">ウェイン・フェレイラ</a></p></td>
 <td><p>6-3, 6-3, 6-1</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ピート・サンプラス" title="wikilink">ピート・サンプラス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペトル・コルダ" title="wikilink">ペトル・コルダ</a></p></td>
+<td><p><a href="../Page/ペトル・コルダ.md" title="wikilink">ペトル・コルダ</a></p></td>
 <td><p>4-6, 6-3, 3-6, 6-3, 6-2</p></td>
 </tr>
 <tr class="odd">
@@ -104,7 +104,7 @@
 <tr class="even">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/マイケル・チャン" title="wikilink">マイケル・チャン</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ハーフース" title="wikilink">ポール・ハーフース</a></p></td>
+<td><p><a href="../Page/ポール・ハーフース.md" title="wikilink">ポール・ハーフース</a></p></td>
 <td><p>7-5, 6-1, 6-1</p></td>
 </tr>
 <tr class="odd">
@@ -115,19 +115,19 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/マルセロ・リオス" title="wikilink">マルセロ・リオス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレグ・ルーゼドスキー" title="wikilink">グレグ・ルーゼドスキー</a></p></td>
+<td><p><strong><a href="../Page/マルセロ・リオス.md" title="wikilink">マルセロ・リオス</a></strong></p></td>
+<td><p><a href="../Page/グレグ・ルーゼドスキー.md" title="wikilink">グレグ・ルーゼドスキー</a></p></td>
 <td><p>6-3, 6-7, 7-6, 6-4</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/マーク・フィリプーシス" title="wikilink">マーク・フィリプーシス</a></strong></p></td>
+<td><p><strong><a href="../Page/マーク・フィリプーシス.md" title="wikilink">マーク・フィリプーシス</a></strong></p></td>
 <td><p><a href="../Page/カルロス・モヤ.md" title="wikilink">カルロス・モヤ</a></p></td>
 <td><p>5-7, 6-4, 6-4, 4-6, 6-2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アレックス・コレチャ" title="wikilink">アレックス・コレチャ</a></strong></p></td>
+<td><p><strong><a href="../Page/アレックス・コレチャ.md" title="wikilink">アレックス・コレチャ</a></strong></p></td>
 <td><p><a href="../Page/トーマス・エンクビスト.md" title="wikilink">トーマス・エンクビスト</a></p></td>
 <td><p>6-4, 6-4, 6-3</p></td>
 </tr>
@@ -146,7 +146,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/レイトン・ヒューイット" title="wikilink">レイトン・ヒューイット</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グスタボ・クエルテン" title="wikilink">グスタボ・クエルテン</a></p></td>
+<td><p><a href="../Page/グスタボ・クエルテン.md" title="wikilink">グスタボ・クエルテン</a></p></td>
 <td><p>6-1, 6-1</p></td>
 </tr>
 <tr class="even">
@@ -156,20 +156,20 @@
 <td><p>6-3, 6-3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">ロジャー・フェデラー</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レイトン・ヒューイット" title="wikilink">レイトン・ヒューイット</a></p></td>
 <td><p>6-2, 6-4, 6-4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">ロジャー・フェデラー</a></strong></p></td>
 <td><p><a href="../Page/ジェームズ・ブレーク_(テニス選手).md" title="wikilink">ジェームズ・ブレーク</a></p></td>
 <td><p>7-5, 6-3, 6-0</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ラファエル・ナダル</a></strong></p></td>
+<td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong></p></td>
 <td><p><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></p></td>
 <td><p>6-2, 7-5</p></td>
 </tr>
@@ -181,7 +181,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ラファエル・ナダル</a></strong></p></td>
+<td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンディ・マリー" title="wikilink">アンディ・マリー</a></p></td>
 <td><p>6-1, 6-2</p></td>
 </tr>
@@ -194,7 +194,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p><strong><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ラファエル・ナダル</a></p></td>
+<td><p><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></p></td>
 <td><p>4-6, 6-3, 6-2</p></td>
 </tr>
 <tr class="even">
@@ -205,7 +205,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ラファエル・ナダル</a></strong></p></td>
+<td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フアン・マルティン・デル・ポトロ" title="wikilink">フアン・マルティン・デル・ポトロ</a></p></td>
 <td><p>4-6, 6-3, 6-4</p></td>
 </tr>
@@ -305,9 +305,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジム・クーリエ" title="wikilink">ジム・クーリエ</a></strong><br />
+<td><p><strong><a href="../Page/ジム・クーリエ.md" title="wikilink">ジム・クーリエ</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/ハビエル・サンチェス" title="wikilink">ハビエル・サンチェス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンリ・ルコント" title="wikilink">アンリ・ルコント</a><br />
+<td><p><a href="../Page/アンリ・ルコント.md" title="wikilink">アンリ・ルコント</a><br />
  <a href="../Page/ギー・フォルジェ.md" title="wikilink">ギー・フォルジェ</a></p></td>
 <td><p>7-6, 6-1</p></td>
 </tr>
@@ -321,7 +321,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アンリ・ルコント" title="wikilink">アンリ・ルコント</a></strong><br />
+<td><p><strong><a href="../Page/アンリ・ルコント.md" title="wikilink">アンリ・ルコント</a></strong><br />
  <strong><a href="../Page/ギー・フォルジェ.md" title="wikilink">ギー・フォルジェ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルーク・ジェンセン" title="wikilink">ルーク・ジェンセン</a><br />
  <a href="https://ja.wikipedia.org/wiki/スコット・メルビル" title="wikilink">スコット・メルビル</a></p></td>
@@ -331,7 +331,7 @@
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/グラント・コネル" title="wikilink">グラント・コネル</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/パトリック・ガルブレイス" title="wikilink">パトリック・ガルブレイス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイロン・ブラック" title="wikilink">バイロン・ブラック</a><br />
+<td><p><a href="../Page/バイロン・ブラック.md" title="wikilink">バイロン・ブラック</a><br />
  <a href="https://ja.wikipedia.org/wiki/ジョナサン・スターク" title="wikilink">ジョナサン・スターク</a></p></td>
 <td><p>3-6, 6-1, 7-6</p></td>
 </tr>
@@ -355,21 +355,21 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
 <td><p><strong><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a></strong><br />
  <strong><a href="../Page/マーク・ノールズ.md" title="wikilink">マーク・ノールズ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パトリック・ラフター" title="wikilink">パトリック・ラフター</a><br />
- <a href="https://ja.wikipedia.org/wiki/マーク・フィリプーシス" title="wikilink">マーク・フィリプーシス</a></p></td>
+<td><p><a href="../Page/パトリック・ラフター.md" title="wikilink">パトリック・ラフター</a><br />
+ <a href="../Page/マーク・フィリプーシス.md" title="wikilink">マーク・フィリプーシス</a></p></td>
 <td><p>7-5, 6-4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/パトリック・ラフター" title="wikilink">パトリック・ラフター</a></strong><br />
+<td><p><strong><a href="../Page/パトリック・ラフター.md" title="wikilink">パトリック・ラフター</a></strong><br />
  <strong><a href="../Page/ヨナス・ビョルクマン.md" title="wikilink">ヨナス・ビョルクマン</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッド・マーティン" title="wikilink">トッド・マーティン</a><br />
+<td><p><a href="../Page/トッド・マーティン.md" title="wikilink">トッド・マーティン</a><br />
  <a href="https://ja.wikipedia.org/wiki/リッチー・レネバーグ" title="wikilink">リッチー・レネバーグ</a></p></td>
 <td><p>6-0, 6-3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ウェイン・ブラック" title="wikilink">ウェイン・ブラック</a></strong><br />
+<td><p><strong><a href="../Page/ウェイン・ブラック.md" title="wikilink">ウェイン・ブラック</a></strong><br />
  <strong><a href="../Page/サンドン・ストール.md" title="wikilink">サンドン・ストール</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リック・リーチ" title="wikilink">リック・リーチ</a><br />
  <a href="https://ja.wikipedia.org/wiki/エリス・フェレイラ" title="wikilink">エリス・フェレイラ</a></p></td>
@@ -379,14 +379,14 @@
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アレックス・オブライエン" title="wikilink">アレックス・オブライエン</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/ジャレッド・パーマー" title="wikilink">ジャレッド・パーマー</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ハーフース" title="wikilink">ポール・ハーフース</a><br />
+<td><p><a href="../Page/ポール・ハーフース.md" title="wikilink">ポール・ハーフース</a><br />
  <a href="../Page/サンドン・ストール.md" title="wikilink">サンドン・ストール</a></p></td>
 <td><p>6-4, 7-6</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ウェイン・フェレイラ" title="wikilink">ウェイン・フェレイラ</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/エフゲニー・カフェルニコフ" title="wikilink">エフゲニー・カフェルニコフ</a></strong></p></td>
+<td><p><strong><a href="../Page/ウェイン・フェレイラ.md" title="wikilink">ウェイン・フェレイラ</a></strong><br />
+ <strong><a href="../Page/エフゲニー・カフェルニコフ.md" title="wikilink">エフゲニー・カフェルニコフ</a></strong></p></td>
 <td><p><a href="../Page/ヨナス・ビョルクマン.md" title="wikilink">ヨナス・ビョルクマン</a><br />
  <a href="../Page/トッド・ウッドブリッジ.md" title="wikilink">トッド・ウッドブリッジ</a></p></td>
 <td><p>6-2, 7-5</p></td>
@@ -401,22 +401,22 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ウェイン・フェレイラ" title="wikilink">ウェイン・フェレイラ</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/エフゲニー・カフェルニコフ" title="wikilink">エフゲニー・カフェルニコフ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ブライアン" title="wikilink">ボブ・ブライアン</a><br />
- <a href="https://ja.wikipedia.org/wiki/マイク・ブライアン" title="wikilink">マイク・ブライアン</a></p></td>
+<td><p><strong><a href="../Page/ウェイン・フェレイラ.md" title="wikilink">ウェイン・フェレイラ</a></strong><br />
+ <strong><a href="../Page/エフゲニー・カフェルニコフ.md" title="wikilink">エフゲニー・カフェルニコフ</a></strong></p></td>
+<td><p><a href="../Page/ボブ・ブライアン.md" title="wikilink">ボブ・ブライアン</a><br />
+ <a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></p></td>
 <td><p>6-1, 6-4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td><p><strong><a href="../Page/アルノー・クレマン.md" title="wikilink">アルノー・クレマン</a></strong><br />
  <strong><a href="../Page/セバスチャン・グロジャン.md" title="wikilink">セバスチャン・グロジャン</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・ブラック" title="wikilink">ウェイン・ブラック</a><br />
- <a href="https://ja.wikipedia.org/wiki/ケビン・ウリエット" title="wikilink">ケビン・ウリエット</a></p></td>
+<td><p><a href="../Page/ウェイン・ブラック.md" title="wikilink">ウェイン・ブラック</a><br />
+ <a href="../Page/ケビン・ウリエット.md" title="wikilink">ケビン・ウリエット</a></p></td>
 <td><p>6-3, 4-6, 7-5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a></strong><br />
  <strong><a href="../Page/マーク・ノールズ.md" title="wikilink">マーク・ノールズ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・アーサーズ" title="wikilink">ウェイン・アーサーズ</a><br />
@@ -424,11 +424,11 @@
 <td><p>7-6, 7-6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a></strong><br />
  <strong><a href="../Page/マーク・ノールズ.md" title="wikilink">マーク・ノールズ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ブライアン" title="wikilink">ボブ・ブライアン</a><br />
- <a href="https://ja.wikipedia.org/wiki/マイク・ブライアン" title="wikilink">マイク・ブライアン</a></p></td>
+<td><p><a href="../Page/ボブ・ブライアン.md" title="wikilink">ボブ・ブライアン</a><br />
+ <a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></p></td>
 <td><p>6-4, 6-4</p></td>
 </tr>
 <tr class="odd">
@@ -457,7 +457,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ラファエル・ナダル</a></strong><br />
+<td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/マルク・ロペス" title="wikilink">マルク・ロペス</a></strong></p></td>
 <td><p><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a><br />
  <a href="https://ja.wikipedia.org/wiki/ネナド・ジモニッチ" title="wikilink">ネナド・ジモニッチ</a></p></td>
@@ -466,14 +466,14 @@
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アレクサンドル・ドルゴポロフ" title="wikilink">アレクサンドル・ドルゴポロフ</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/グザビエ・マリス" title="wikilink">グザビエ・マリス</a></strong></p></td>
+ <strong><a href="../Page/グザビエ・マリス.md" title="wikilink">グザビエ・マリス</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">ロジャー・フェデラー</a><br />
  <a href="https://ja.wikipedia.org/wiki/スタニスラス・ワウリンカ" title="wikilink">スタニスラス・ワウリンカ</a></p></td>
 <td><p>6-4, 6-7(5), [10-7]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ラファエル・ナダル" title="wikilink">ラファエル・ナダル</a></strong><br />
+<td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/マルク・ロペス" title="wikilink">マルク・ロペス</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・イスナー" title="wikilink">ジョン・イスナー</a><br />
  <a href="https://ja.wikipedia.org/wiki/サム・クエリー" title="wikilink">サム・クエリー</a></p></td>
@@ -481,16 +481,16 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ボブ・ブライアン" title="wikilink">ボブ・ブライアン</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/マイク・ブライアン" title="wikilink">マイク・ブライアン</a></strong></p></td>
+<td><p><strong><a href="../Page/ボブ・ブライアン.md" title="wikilink">ボブ・ブライアン</a></strong><br />
+ <strong><a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トレト・ユーイ" title="wikilink">トレト・ユーイ</a><br />
  <a href="https://ja.wikipedia.org/wiki/イェジ・ヤノヴィッツ" title="wikilink">イェジ・ヤノヴィッツ</a></p></td>
 <td><p>6–3, 3-6, [10-6]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ボブ・ブライアン" title="wikilink">ボブ・ブライアン</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/マイク・ブライアン" title="wikilink">マイク・ブライアン</a></strong></p></td>
+<td><p><strong><a href="../Page/ボブ・ブライアン.md" title="wikilink">ボブ・ブライアン</a></strong><br />
+ <strong><a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダー・ペヤ" title="wikilink">アレクサンダー・ペヤ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ブルーノ・ソアレス" title="wikilink">ブルーノ・ソアレス</a></p></td>
 <td><p>6-4, 6-3</p></td>
@@ -523,8 +523,8 @@
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ジョン・イスナー" title="wikilink">ジョン・イスナー</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/ジャック・ソック" title="wikilink">ジャック・ソック</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ブライアン" title="wikilink">ボブ・ブライアン</a><br />
- <a href="https://ja.wikipedia.org/wiki/マイク・ブライアン" title="wikilink">マイク・ブライアン</a></p></td>
+<td><p><a href="../Page/ボブ・ブライアン.md" title="wikilink">ボブ・ブライアン</a><br />
+ <a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></p></td>
 <td><p>7-6(4), 7-6(2)</p></td>
 </tr>
 <tr class="odd">
@@ -558,44 +558,44 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/マルチナ・ナブラチロワ" title="wikilink">マルチナ・ナブラチロワ</a></strong></p></td>
+<td><p><strong><a href="../Page/マルチナ・ナブラチロワ.md" title="wikilink">マルチナ・ナブラチロワ</a></strong></p></td>
 <td><p><a href="../Page/ヘレナ・スコバ.md" title="wikilink">ヘレナ・スコバ</a></p></td>
 <td><p>6-2 5-7 6-1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/マルチナ・ナブラチロワ" title="wikilink">マルチナ・ナブラチロワ</a></strong></p></td>
+<td><p><strong><a href="../Page/マルチナ・ナブラチロワ.md" title="wikilink">マルチナ・ナブラチロワ</a></strong></p></td>
 <td><p><a href="../Page/モニカ・セレシュ.md" title="wikilink">モニカ・セレシュ</a></p></td>
 <td><p>6-2 7-6</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p><strong><a href="../Page/モニカ・セレシュ.md" title="wikilink">モニカ・セレシュ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コンチタ・マルティネス" title="wikilink">コンチタ・マルティネス</a></p></td>
+<td><p><a href="../Page/コンチタ・マルティネス.md" title="wikilink">コンチタ・マルティネス</a></p></td>
 <td><p>6-3, 6-1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/メアリー・ジョー・フェルナンデス" title="wikilink">メアリー・ジョー・フェルナンデス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アマンダ・クッツァー" title="wikilink">アマンダ・クッツァー</a></p></td>
+<td><p><strong><a href="../Page/メアリー・ジョー・フェルナンデス.md" title="wikilink">メアリー・ジョー・フェルナンデス</a></strong></p></td>
+<td><p><a href="../Page/アマンダ・クッツァー.md" title="wikilink">アマンダ・クッツァー</a></p></td>
 <td><p>3-6, 6-1, 7-6</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シュテフィ・グラフ" title="wikilink">シュテフィ・グラフ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アマンダ・クッツァー" title="wikilink">アマンダ・クッツァー</a></p></td>
+<td><p><strong><a href="../Page/シュテフィ・グラフ.md" title="wikilink">シュテフィ・グラフ</a></strong></p></td>
+<td><p><a href="../Page/アマンダ・クッツァー.md" title="wikilink">アマンダ・クッツァー</a></p></td>
 <td><p>6-0, 6-4</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/メアリー・ジョー・フェルナンデス" title="wikilink">メアリー・ジョー・フェルナンデス</a></strong></p></td>
+<td><p><strong><a href="../Page/メアリー・ジョー・フェルナンデス.md" title="wikilink">メアリー・ジョー・フェルナンデス</a></strong></p></td>
 <td><p><a href="../Page/ナターシャ・ズベレワ.md" title="wikilink">ナターシャ・ズベレワ</a></p></td>
 <td><p>6-4, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シュテフィ・グラフ" title="wikilink">シュテフィ・グラフ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コンチタ・マルティネス" title="wikilink">コンチタ・マルティネス</a></p></td>
+<td><p><strong><a href="../Page/シュテフィ・グラフ.md" title="wikilink">シュテフィ・グラフ</a></strong></p></td>
+<td><p><a href="../Page/コンチタ・マルティネス.md" title="wikilink">コンチタ・マルティネス</a></p></td>
 <td><p>7-6, 7-6</p></td>
 </tr>
 <tr class="odd">
@@ -612,8 +612,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/セリーナ・ウィリアムズ" title="wikilink">セリーナ・ウィリアムズ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シュテフィ・グラフ" title="wikilink">シュテフィ・グラフ</a></p></td>
+<td><p><strong><a href="../Page/セリーナ・ウィリアムズ.md" title="wikilink">セリーナ・ウィリアムズ</a></strong></p></td>
+<td><p><a href="../Page/シュテフィ・グラフ.md" title="wikilink">シュテフィ・グラフ</a></p></td>
 <td><p>6-3, 3-6, 7-5</p></td>
 </tr>
 <tr class="even">
@@ -624,8 +624,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/セリーナ・ウィリアムズ" title="wikilink">セリーナ・ウィリアムズ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キム・クライシュテルス" title="wikilink">キム・クライシュテルス</a></p></td>
+<td><p><strong><a href="../Page/セリーナ・ウィリアムズ.md" title="wikilink">セリーナ・ウィリアムズ</a></strong></p></td>
+<td><p><a href="../Page/キム・クライシュテルス.md" title="wikilink">キム・クライシュテルス</a></p></td>
 <td><p>4-6, 6-4, 6-2</p></td>
 </tr>
 <tr class="even">
@@ -636,56 +636,56 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/キム・クライシュテルス" title="wikilink">キム・クライシュテルス</a></strong></p></td>
+<td><p><strong><a href="../Page/キム・クライシュテルス.md" title="wikilink">キム・クライシュテルス</a></strong></p></td>
 <td><p><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></p></td>
 <td><p>6-4, 7-5</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジュスティーヌ・エナン" title="wikilink">ジュスティーヌ・エナン</a>＝アーデン</strong></p></td>
+<td><p><strong><a href="../Page/ジュスティーヌ・エナン.md" title="wikilink">ジュスティーヌ・エナン</a>＝アーデン</strong></p></td>
 <td><p><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></p></td>
 <td><p>6-1, 6-4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/キム・クライシュテルス" title="wikilink">キム・クライシュテルス</a></strong></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><strong><a href="../Page/キム・クライシュテルス.md" title="wikilink">キム・クライシュテルス</a></strong></p></td>
 <td><p><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></p></td>
 <td><p>6-4, 4-6, 6-2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong><a href="../Page/マリア・シャラポワ.md" title="wikilink">マリア・シャラポワ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エレーナ・デメンチェワ" title="wikilink">エレーナ・デメンチェワ</a></p></td>
+<td><p><a href="../Page/エレーナ・デメンチェワ.md" title="wikilink">エレーナ・デメンチェワ</a></p></td>
 <td><p>6-1, 6-2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p><strong><a href="../Page/ダニエラ・ハンチュコバ.md" title="wikilink">ダニエラ・ハンチュコバ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スベトラーナ・クズネツォワ" title="wikilink">スベトラーナ・クズネツォワ</a></p></td>
+<td><p><a href="../Page/スベトラーナ・クズネツォワ.md" title="wikilink">スベトラーナ・クズネツォワ</a></p></td>
 <td><p>6-3, 6-4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アナ・イバノビッチ" title="wikilink">アナ・イバノビッチ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スベトラーナ・クズネツォワ" title="wikilink">スベトラーナ・クズネツォワ</a></p></td>
+<td><p><strong><a href="../Page/アナ・イバノビッチ.md" title="wikilink">アナ・イバノビッチ</a></strong></p></td>
+<td><p><a href="../Page/スベトラーナ・クズネツォワ.md" title="wikilink">スベトラーナ・クズネツォワ</a></p></td>
 <td><p>6-4, 6-3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td><p><strong><a href="../Page/ベラ・ズボナレワ.md" title="wikilink">ベラ・ズボナレワ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アナ・イバノビッチ" title="wikilink">アナ・イバノビッチ</a></p></td>
+<td><p><a href="../Page/アナ・イバノビッチ.md" title="wikilink">アナ・イバノビッチ</a></p></td>
 <td><p>7-6, 6-2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/エレナ・ヤンコビッチ" title="wikilink">エレナ・ヤンコビッチ</a></strong></p></td>
+<td><p><strong><a href="../Page/エレナ・ヤンコビッチ.md" title="wikilink">エレナ・ヤンコビッチ</a></strong></p></td>
 <td><p><a href="../Page/キャロライン・ウォズニアッキ.md" title="wikilink">キャロライン・ウォズニアッキ</a></p></td>
 <td><p>6-2, 6-4</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p><strong><a href="../Page/キャロライン・ウォズニアッキ.md" title="wikilink">キャロライン・ウォズニアッキ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオン・バルトリ" title="wikilink">マリオン・バルトリ</a></p></td>
+<td><p><a href="../Page/マリオン・バルトリ.md" title="wikilink">マリオン・バルトリ</a></p></td>
 <td><p>6-1, 2-6, 6-3</p></td>
 </tr>
 <tr class="even">
@@ -702,26 +702,26 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/フラビア・ペンネッタ" title="wikilink">フラビア・ペンネッタ</a></p></td>
+<td><p>'''<a href="../Page/フラビア・ペンネッタ.md" title="wikilink">フラビア・ペンネッタ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アグニエシュカ・ラドワンスカ" title="wikilink">アグニエシュカ・ラドワンスカ</a></p></td>
 <td><p>6-2, 6-1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p>'''<a href="https://ja.wikipedia.org/wiki/シモナ・ハレプ" title="wikilink">シモナ・ハレプ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エレナ・ヤンコビッチ" title="wikilink">エレナ・ヤンコビッチ</a></p></td>
+<td><p><a href="../Page/エレナ・ヤンコビッチ.md" title="wikilink">エレナ・ヤンコビッチ</a></p></td>
 <td><p>2-6, 7-5, 6-4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><strong><a href="../Page/ビクトリア・アザレンカ.md" title="wikilink">ビクトリア・アザレンカ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セリーナ・ウィリアムズ" title="wikilink">セリーナ・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/セリーナ・ウィリアムズ.md" title="wikilink">セリーナ・ウィリアムズ</a></p></td>
 <td><p>4-6, 6-4, [10–6]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/エレーナ・ベスニナ" title="wikilink">エレーナ・ベスニナ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スベトラーナ・クズネツォワ" title="wikilink">スベトラーナ・クズネツォワ</a></p></td>
+<td><p><a href="../Page/スベトラーナ・クズネツォワ.md" title="wikilink">スベトラーナ・クズネツォワ</a></p></td>
 <td><p>6-7<sup>(6)</sup>, 7-5, 6-4</p></td>
 </tr>
 <tr class="even">
@@ -753,8 +753,8 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハナ・マンドリコワ" title="wikilink">ハナ・マンドリコワ</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/パム・シュライバー" title="wikilink">パム・シュライバー</a></strong></p></td>
+<td><p><strong><a href="../Page/ハナ・マンドリコワ.md" title="wikilink">ハナ・マンドリコワ</a></strong><br />
+ <strong><a href="../Page/パム・シュライバー.md" title="wikilink">パム・シュライバー</a></strong></p></td>
 <td><p><a href="../Page/ロザリン・フェアバンク.md" title="wikilink">ロザリン・フェアバンク</a><br />
  <a href="https://ja.wikipedia.org/wiki/グレッチェン・メジャーズ" title="wikilink">グレッチェン・メジャーズ</a></p></td>
 <td><p>6-3, 6-7, 6-3</p></td>
@@ -762,9 +762,9 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
 <td><p><strong><a href="../Page/ヘレナ・スコバ.md" title="wikilink">ヘレナ・スコバ</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/ヤナ・ノボトナ" title="wikilink">ヤナ・ノボトナ</a></strong></p></td>
+ <strong><a href="../Page/ヤナ・ノボトナ.md" title="wikilink">ヤナ・ノボトナ</a></strong></p></td>
 <td><p><a href="../Page/ジジ・フェルナンデス.md" title="wikilink">ジジ・フェルナンデス</a><br />
- <a href="https://ja.wikipedia.org/wiki/マルチナ・ナブラチロワ" title="wikilink">マルチナ・ナブラチロワ</a></p></td>
+ <a href="../Page/マルチナ・ナブラチロワ.md" title="wikilink">マルチナ・ナブラチロワ</a></p></td>
 <td><p>6-2, 7-6</p></td>
 </tr>
 <tr class="odd">
@@ -777,7 +777,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラウディア・コーデ＝キルシュ" title="wikilink">クラウディア・コーデ＝キルシュ</a></strong><br />
+<td><p><strong><a href="../Page/クラウディア・コーデ＝キルシュ.md" title="wikilink">クラウディア・コーデ＝キルシュ</a></strong><br />
  <strong><a href="../Page/ステファニー・レイヒ.md" title="wikilink">ステファニー・レイヒ</a></strong></p></td>
 <td><p><a href="../Page/キャシー・リナルディ.md" title="wikilink">キャシー・リナルディ</a><br />
  <a href="../Page/ジル・ヘザリントン.md" title="wikilink">ジル・ヘザリントン</a></p></td>
@@ -786,7 +786,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
 <td><p><strong><a href="../Page/ヘレナ・スコバ.md" title="wikilink">ヘレナ・スコバ</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/レネ・スタブス" title="wikilink">レネ・スタブス</a></strong></p></td>
+ <strong><a href="../Page/レネ・スタブス.md" title="wikilink">レネ・スタブス</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パトリシア・ヒー" title="wikilink">パトリシア・ヒー</a><br />
  アン・ブンダーリヒ</p></td>
 <td><p>6-3, 6-4</p></td>
@@ -803,7 +803,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
 <td><p><strong><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></strong><br />
  <strong><a href="../Page/リサ・レイモンド.md" title="wikilink">リサ・レイモンド</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アランチャ・サンチェス・ビカリオ" title="wikilink">アランチャ・サンチェス・ビカリオ</a><br />
+<td><p><a href="../Page/アランチャ・サンチェス・ビカリオ.md" title="wikilink">アランチャ・サンチェス・ビカリオ</a><br />
  <a href="../Page/ラリサ・ネーランド.md" title="wikilink">ラリサ・ネーランド</a></p></td>
 <td><p>2-6, 6-4, 6-3</p></td>
 </tr>
@@ -811,8 +811,8 @@
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td><p><strong><a href="../Page/チャンダ・ルビン.md" title="wikilink">チャンダ・ルビン</a></strong><br />
  <strong><a href="../Page/ブレンダ・シュルツ＝マッカーシー.md" title="wikilink">ブレンダ・シュルツ＝マッカーシー</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジュリー・アラール＝デキュジス" title="wikilink">ジュリー・アラール＝デキュジス</a><br />
- <a href="https://ja.wikipedia.org/wiki/ナタリー・トージア" title="wikilink">ナタリー・トージア</a></p></td>
+<td><p><a href="../Page/ジュリー・アラール＝デキュジス.md" title="wikilink">ジュリー・アラール＝デキュジス</a><br />
+ <a href="../Page/ナタリー・トージア.md" title="wikilink">ナタリー・トージア</a></p></td>
 <td><p>6-1, 6-4</p></td>
 </tr>
 <tr class="odd">
@@ -820,7 +820,7 @@
 <td><p><strong><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></strong><br />
  <strong><a href="../Page/ナターシャ・ズベレワ.md" title="wikilink">ナターシャ・ズベレワ</a></strong></p></td>
 <td><p><a href="../Page/リサ・レイモンド.md" title="wikilink">リサ・レイモンド</a><br />
- <a href="https://ja.wikipedia.org/wiki/ナタリー・トージア" title="wikilink">ナタリー・トージア</a></p></td>
+ <a href="../Page/ナタリー・トージア.md" title="wikilink">ナタリー・トージア</a></p></td>
 <td><p>6-3, 6-2</p></td>
 </tr>
 <tr class="even">
@@ -828,15 +828,15 @@
 <td><p><strong><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></strong><br />
  <strong><a href="../Page/ナターシャ・ズベレワ.md" title="wikilink">ナターシャ・ズベレワ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンドラ・フセ" title="wikilink">アレクサンドラ・フセ</a><br />
- <a href="https://ja.wikipedia.org/wiki/ナタリー・トージア" title="wikilink">ナタリー・トージア</a></p></td>
+ <a href="../Page/ナタリー・トージア.md" title="wikilink">ナタリー・トージア</a></p></td>
 <td><p>6-4, 2-6, 6-4</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td><p><strong><a href="../Page/マルチナ・ヒンギス.md" title="wikilink">マルチナ・ヒンギス</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/アンナ・クルニコワ" title="wikilink">アンナ・クルニコワ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メアリー・ジョー・フェルナンデス" title="wikilink">メアリー・ジョー・フェルナンデス</a><br />
- <a href="https://ja.wikipedia.org/wiki/ヤナ・ノボトナ" title="wikilink">ヤナ・ノボトナ</a></p></td>
+ <strong><a href="../Page/アンナ・クルニコワ.md" title="wikilink">アンナ・クルニコワ</a></strong></p></td>
+<td><p><a href="../Page/メアリー・ジョー・フェルナンデス.md" title="wikilink">メアリー・ジョー・フェルナンデス</a><br />
+ <a href="../Page/ヤナ・ノボトナ.md" title="wikilink">ヤナ・ノボトナ</a></p></td>
 <td><p>6-2, 6-2</p></td>
 </tr>
 <tr class="even">
@@ -844,7 +844,7 @@
 <td><p><strong><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></strong><br />
  <strong><a href="../Page/コリーナ・モラリュー.md" title="wikilink">コリーナ・モラリュー</a></strong></p></td>
 <td><p><a href="../Page/ナターシャ・ズベレワ.md" title="wikilink">ナターシャ・ズベレワ</a><br />
- <a href="https://ja.wikipedia.org/wiki/アンナ・クルニコワ" title="wikilink">アンナ・クルニコワ</a></p></td>
+ <a href="../Page/アンナ・クルニコワ.md" title="wikilink">アンナ・クルニコワ</a></p></td>
 <td><p>6-2, 6-3</p></td>
 </tr>
 <tr class="odd">
@@ -858,8 +858,8 @@
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p><strong><a href="../Page/リサ・レイモンド.md" title="wikilink">リサ・レイモンド</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/レネ・スタブス" title="wikilink">レネ・スタブス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エレーナ・デメンチェワ" title="wikilink">エレーナ・デメンチェワ</a><br />
+ <strong><a href="../Page/レネ・スタブス.md" title="wikilink">レネ・スタブス</a></strong></p></td>
+<td><p><a href="../Page/エレーナ・デメンチェワ.md" title="wikilink">エレーナ・デメンチェワ</a><br />
  <a href="../Page/ヤネッテ・フサロバ.md" title="wikilink">ヤネッテ・フサロバ</a></p></td>
 <td><p>7-5, 6-0</p></td>
 </tr>
@@ -867,7 +867,7 @@
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p><strong><a href="../Page/リサ・レイモンド.md" title="wikilink">リサ・レイモンド</a></strong><br />
  <strong><a href="../Page/リンゼイ・ダベンポート.md" title="wikilink">リンゼイ・ダベンポート</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キム・クライシュテルス" title="wikilink">キム・クライシュテルス</a><br />
+<td><p><a href="../Page/キム・クライシュテルス.md" title="wikilink">キム・クライシュテルス</a><br />
  <a href="https://ja.wikipedia.org/wiki/杉山愛" title="wikilink">杉山愛</a></p></td>
 <td><p>3-6, 6-4, 6-1</p></td>
 </tr>
@@ -875,20 +875,20 @@
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td><p><strong><a href="../Page/ビルヒニア・ルアノ・パスクアル.md" title="wikilink">ビルヒニア・ルアノ・パスクアル</a></strong><br />
  <strong><a href="../Page/パオラ・スアレス.md" title="wikilink">パオラ・スアレス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スベトラーナ・クズネツォワ" title="wikilink">スベトラーナ・クズネツォワ</a><br />
+<td><p><a href="../Page/スベトラーナ・クズネツォワ.md" title="wikilink">スベトラーナ・クズネツォワ</a><br />
  <a href="../Page/エレーナ・リホフツェワ.md" title="wikilink">エレーナ・リホフツェワ</a></p></td>
 <td><p>6-1, 6-2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="../Page/ビルヒニア・ルアノ・パスクアル.md" title="wikilink">ビルヒニア・ルアノ・パスクアル</a></strong><br />
  <strong><a href="../Page/パオラ・スアレス.md" title="wikilink">パオラ・スアレス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナディア・ペトロワ" title="wikilink">ナディア・ペトロワ</a><br />
+<td><p><a href="../Page/ナディア・ペトロワ.md" title="wikilink">ナディア・ペトロワ</a><br />
  <a href="../Page/メガン・ショーネシー.md" title="wikilink">メガン・ショーネシー</a></p></td>
 <td><p>7-6, 6-1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong><a href="../Page/リサ・レイモンド.md" title="wikilink">リサ・レイモンド</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/サマンサ・ストーサー" title="wikilink">サマンサ・ストーサー</a></strong></p></td>
 <td><p><a href="../Page/ビルヒニア・ルアノ・パスクアル.md" title="wikilink">ビルヒニア・ルアノ・パスクアル</a><br />
@@ -923,7 +923,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p><strong><a href="../Page/クベタ・ペシュケ.md" title="wikilink">クベタ・ペシュケ</a></strong><br />
  <strong><a href="../Page/カタリナ・スレボトニク.md" title="wikilink">カタリナ・スレボトニク</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナディア・ペトロワ" title="wikilink">ナディア・ペトロワ</a><br />
+<td><p><a href="../Page/ナディア・ペトロワ.md" title="wikilink">ナディア・ペトロワ</a><br />
  <a href="https://ja.wikipedia.org/wiki/サマンサ・ストーサー" title="wikilink">サマンサ・ストーサー</a></p></td>
 <td><p>6-4, 2-6 [10-5]</p></td>
 </tr>
@@ -947,7 +947,7 @@
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/エカテリーナ・マカロワ" title="wikilink">エカテリーナ・マカロワ</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/エレーナ・ベスニナ" title="wikilink">エレーナ・ベスニナ</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナディア・ペトロワ" title="wikilink">ナディア・ペトロワ</a><br />
+<td><p><a href="../Page/ナディア・ペトロワ.md" title="wikilink">ナディア・ペトロワ</a><br />
  <a href="../Page/カタリナ・スレボトニク.md" title="wikilink">カタリナ・スレボトニク</a></p></td>
 <td><p>6-0, 5-7, [10–6]</p></td>
 </tr>
@@ -955,7 +955,7 @@
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p><strong><a href="../Page/謝淑薇.md" title="wikilink">謝淑薇</a></strong><br />
  <strong><a href="../Page/彭帥.md" title="wikilink">彭帥</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーラ・ブラック" title="wikilink">カーラ・ブラック</a><br />
+<td><p><a href="../Page/カーラ・ブラック.md" title="wikilink">カーラ・ブラック</a><br />
  <a href="../Page/サニア・ミルザ.md" title="wikilink">サニア・ミルザ</a></p></td>
 <td><p>7-6(5), 6-2</p></td>
 </tr>

@@ -6,8 +6,8 @@
 ## 例
 
   - 双方向的な[天気予報](../Page/天気予報.md "wikilink")
-  - [XMMS](https://ja.wikipedia.org/wiki/XMMS "wikilink") や [Amarok](../Page/Amarok.md "wikilink") による MP3 再生のコントロールや通知
-  - [カレンダー](https://ja.wikipedia.org/wiki/カレンダー "wikilink")やメモ
+  - [XMMS](../Page/XMMS.md "wikilink") や [Amarok](../Page/Amarok.md "wikilink") による MP3 再生のコントロールや通知
+  - [カレンダー](../Page/カレンダー.md "wikilink")やメモ
   - オリジナルの[時計](../Page/時計.md "wikilink")
   - [CPU](../Page/CPU.md "wikilink")、ネットワークや取り外せない[ディスクのシステムモニター](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")
   - メールボックス内の[メッセージの通知](../Page/電子メール.md "wikilink")

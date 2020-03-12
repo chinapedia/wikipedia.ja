@@ -1,7 +1,7 @@
 > この記事は[2002 FIFAH](https://ja.wikipedia.org/wiki/2002_FIFAH)から翻訳されています。
 
 
-**[2002 FIFAワールドカップのグループH](../Page/2002_FIFAワールドカップ.md "wikilink")**は[2002年](../Page/2002年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")から[6月14日](../Page/6月14日.md "wikilink")にかけて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の各会場で6試合が行われる。グループHには[日本](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")・[ベルギー](../Page/サッカーベルギー代表.md "wikilink")・[ロシア](https://ja.wikipedia.org/wiki/サッカーロシア代表 "wikilink")・[チュニジアの](../Page/サッカーチュニジア代表.md "wikilink")4カ国が入っており、試合の勝敗による勝ち点などでグループ内での順位が決まり、上位2チームが決勝トーナメントに進出する。グループHの1位はグループCの2位と6月18日に、グループHの2位はグループCの1位と6月17日にそれぞれ対戦する。
+**[2002 FIFAワールドカップのグループH](../Page/2002_FIFAワールドカップ.md "wikilink")**は[2002年](../Page/2002年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")から[6月14日](../Page/6月14日.md "wikilink")にかけて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の各会場で6試合が行われる。グループHには[日本](../Page/サッカー日本代表.md "wikilink")・[ベルギー](../Page/サッカーベルギー代表.md "wikilink")・[ロシア](../Page/サッカーロシア代表.md "wikilink")・[チュニジアの](../Page/サッカーチュニジア代表.md "wikilink")4カ国が入っており、試合の勝敗による勝ち点などでグループ内での順位が決まり、上位2チームが決勝トーナメントに進出する。グループHの1位はグループCの2位と6月18日に、グループHの2位はグループCの1位と6月17日にそれぞれ対戦する。
 
 ## 描画位置
 
@@ -320,7 +320,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オレグ・ロマンツェフ" title="wikilink">オレグ・ロマンツェフ</a></p></td>
+<td><p><a href="../Page/オレグ・ロマンツェフ.md" title="wikilink">オレグ・ロマンツェフ</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -407,7 +407,7 @@
 <tr class="odd">
 <td><dl>
 <dt>マン・オブ・マッチ</dt>
-<dd><a href="https://ja.wikipedia.org/wiki/ユーリ・ニキフォロフ" title="wikilink">ユーリ・ニキフォロフ</a> ()
+<dd><a href="../Page/ユーリ・ニキフォロフ.md" title="wikilink">ユーリ・ニキフォロフ</a> ()
 </dd>
 <dt>副審</dt>
 <dd>Michael Ragoonath (<a href="https://ja.wikipedia.org/wiki/トリニダード・トバゴ" title="wikilink">トリニダード・トバゴ</a>)
@@ -572,7 +572,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オレグ・ロマンツェフ" title="wikilink">オレグ・ロマンツェフ</a></p></td>
+<td><p><a href="../Page/オレグ・ロマンツェフ.md" title="wikilink">オレグ・ロマンツェフ</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1121,7 +1121,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オレグ・ロマンツェフ" title="wikilink">オレグ・ロマンツェフ</a></p></td>
+<td><p><a href="../Page/オレグ・ロマンツェフ.md" title="wikilink">オレグ・ロマンツェフ</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1135,7 +1135,7 @@
 <tr class="odd">
 <td><dl>
 <dt>マン・オブ・マッチ</dt>
-<dd><a href="https://ja.wikipedia.org/wiki/マルク・ヴィルモッツ" title="wikilink">マルク・ヴィルモッツ</a>（）
+<dd><a href="../Page/マルク・ヴィルモッツ.md" title="wikilink">マルク・ヴィルモッツ</a>（）
 </dd>
 <dt>副審</dt>
 <dd>フィリップ・シャープ (<a href="../Page/イングランド.md" title="wikilink">イングランド</a>)
@@ -1143,7 +1143,7 @@
 <dd>Komaleeswaran Sankar（<a href="../Page/インド.md" title="wikilink">インド</a>）
 </dd>
 <dt>第4の審判</dt>
-<dd><a href="https://ja.wikipedia.org/wiki/ピエルルイジ・コッリーナ" title="wikilink">ピエルルイジ・コッリーナ</a>（<a href="../Page/イタリア.md" title="wikilink">イタリア</a>）
+<dd><a href="../Page/ピエルルイジ・コッリーナ.md" title="wikilink">ピエルルイジ・コッリーナ</a>（<a href="../Page/イタリア.md" title="wikilink">イタリア</a>）
 </dd>
 </dl></td>
 </tr>
@@ -1154,7 +1154,7 @@
 
 ## 関連項目
 
-  - [FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")
+  - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")
   - [2002 FIFAワールドカップ](../Page/2002_FIFAワールドカップ.md "wikilink")
 
 [Category:2002_FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:2002_FIFAワールドカップ "wikilink")

@@ -1,13 +1,13 @@
 > この記事は[Today](https://ja.wikipedia.org/wiki/Today)から翻訳されています。
 
 
-『**はまなかあいづToday**』（はまなかあいづトゥデイ）は、[NHK福島放送局](https://ja.wikipedia.org/wiki/NHK福島放送局 "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")より放送している[ローカルニュース番組である](../Page/ニュース.md "wikilink")。
+『**はまなかあいづToday**』（はまなかあいづトゥデイ）は、[NHK福島放送局](../Page/NHK福島放送局.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")より放送している[ローカルニュース番組である](../Page/ニュース.md "wikilink")。
 
 ## 概要
 
 以前は17時台に2006年3月までは『はま☆なか☆あいづ Today(5時台、生活情報パート)』、2007年3月までは5時台後半に『はま☆なか☆あいづ みんなのテレビ』、そして2008年3月までは金曜のみに『はまなかあいづ 週刊みんなのテレビ』を編成し、事実上一体であった。
 
-2008年4月から『[ゆうどき](https://ja.wikipedia.org/wiki/ゆうどき "wikilink")ネットワーク』フルネットに伴い、単独の報道番組として放送されるようになった。
+2008年4月から『[ゆうどき](../Page/ゆうどき.md "wikilink")ネットワーク』フルネットに伴い、単独の報道番組として放送されるようになった。
 
 ## 放送日時
 
@@ -16,24 +16,24 @@
 
 ## 出演者
 
-| 年度   |  | 男性                                                                   | 女性                                                               |
-| ---- |  | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 2005 |  | [吾妻謙](../Page/吾妻謙_\(アナウンサー\).md "wikilink")                          | [松森祐美子](https://ja.wikipedia.org/wiki/松森祐美子 "wikilink")          |
-| 2006 |  |                                                                      |                                                                  |
-| 2007 |  |                                                                      |                                                                  |
-| 2008 |  | [丸山幸恵](https://ja.wikipedia.org/wiki/丸山幸恵 "wikilink")                | [今野美由紀](https://ja.wikipedia.org/wiki/今野美由紀 "wikilink")          |
-| 2009 |  | [片山智彦](https://ja.wikipedia.org/wiki/片山智彦 "wikilink")                |                                                                  |
-| 2010 |  | [柏原愛里](https://ja.wikipedia.org/wiki/柏原愛里 "wikilink")                |                                                                  |
-| 2011 |  | [若月弘一郎](https://ja.wikipedia.org/wiki/若月弘一郎 "wikilink")              | [丸井汐里](https://ja.wikipedia.org/wiki/丸井汐里 "wikilink")            |
-| 2012 |  | [伊藤博英](https://ja.wikipedia.org/wiki/伊藤博英 "wikilink")\[2\]\[3\]\[4\] | [小荒井幾子](https://ja.wikipedia.org/wiki/小荒井幾子 "wikilink")\[5\]     |
-| 2013 |  | [宮澤結花](https://ja.wikipedia.org/wiki/宮澤結花 "wikilink")                | [杉本麻紀](https://ja.wikipedia.org/wiki/杉本麻紀_\(アナウンサー\) "wikilink") |
-| 2014 |  | 伊藤博英                                                                 | [本田俊介](https://ja.wikipedia.org/wiki/本田俊介 "wikilink")            |
-| 2015 |  | 吾妻謙\[6\]                                                             |                                                                  |
-| 2016 |  | [荒響子](https://ja.wikipedia.org/wiki/荒響子 "wikilink")                  |                                                                  |
-| 2017 |  | [岩間瞳](https://ja.wikipedia.org/wiki/岩間瞳 "wikilink")                  | [平川沙英](https://ja.wikipedia.org/wiki/平川沙英 "wikilink")            |
-| 2018 |  |                                                                      |                                                                  |
-| 2019 |  | [芳賀健太郎](../Page/芳賀健太郎.md "wikilink")\[7\]                            | 高石桃子 浅川理沙                                                        |
-|      |  |                                                                      |                                                                  |
+| 年度   |  | 男性                                                      | 女性                                                               |
+| ---- |  | ------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2005 |  | [吾妻謙](../Page/吾妻謙_\(アナウンサー\).md "wikilink")             | [松森祐美子](https://ja.wikipedia.org/wiki/松森祐美子 "wikilink")          |
+| 2006 |  |                                                         |                                                                  |
+| 2007 |  |                                                         |                                                                  |
+| 2008 |  | [丸山幸恵](https://ja.wikipedia.org/wiki/丸山幸恵 "wikilink")   | [今野美由紀](https://ja.wikipedia.org/wiki/今野美由紀 "wikilink")          |
+| 2009 |  | [片山智彦](../Page/片山智彦.md "wikilink")                      |                                                                  |
+| 2010 |  | [柏原愛里](https://ja.wikipedia.org/wiki/柏原愛里 "wikilink")   |                                                                  |
+| 2011 |  | [若月弘一郎](https://ja.wikipedia.org/wiki/若月弘一郎 "wikilink") | [丸井汐里](https://ja.wikipedia.org/wiki/丸井汐里 "wikilink")            |
+| 2012 |  | [伊藤博英](../Page/伊藤博英.md "wikilink")\[2\]\[3\]\[4\]       | [小荒井幾子](https://ja.wikipedia.org/wiki/小荒井幾子 "wikilink")\[5\]     |
+| 2013 |  | [宮澤結花](https://ja.wikipedia.org/wiki/宮澤結花 "wikilink")   | [杉本麻紀](https://ja.wikipedia.org/wiki/杉本麻紀_\(アナウンサー\) "wikilink") |
+| 2014 |  | 伊藤博英                                                    | [本田俊介](../Page/本田俊介.md "wikilink")                               |
+| 2015 |  | 吾妻謙\[6\]                                                |                                                                  |
+| 2016 |  | [荒響子](https://ja.wikipedia.org/wiki/荒響子 "wikilink")     |                                                                  |
+| 2017 |  | [岩間瞳](https://ja.wikipedia.org/wiki/岩間瞳 "wikilink")     | [平川沙英](https://ja.wikipedia.org/wiki/平川沙英 "wikilink")            |
+| 2018 |  |                                                         |                                                                  |
+| 2019 |  | [芳賀健太郎](../Page/芳賀健太郎.md "wikilink")\[7\]               | 高石桃子 浅川理沙                                                        |
+|      |  |                                                         |                                                                  |
 
 　　　　　　　　　　　　　　　　　　　　
 
@@ -104,5 +104,5 @@
 5.  年度途中より担当せず。
 6.  不在時は[今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")・本田俊介（いずれも当時福島局）・[川崎寛司](../Page/川崎寛司.md "wikilink")・[山岡裕明](https://ja.wikipedia.org/wiki/山岡裕明 "wikilink")が担当。
 7.  不在時は山岡裕明・[田中朋樹](../Page/田中朋樹.md "wikilink")・[塩澤大輔](../Page/塩澤大輔.md "wikilink")が担当。
-8.  伊藤以外では[仙台の](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink")[畠山智之](https://ja.wikipedia.org/wiki/畠山智之 "wikilink")、[大阪の](../Page/NHK大阪放送局.md "wikilink")[横尾泰輔](https://ja.wikipedia.org/wiki/横尾泰輔 "wikilink")が該当。
-9.  伊藤（福島局）、畠山（仙台局）、[上原康樹](https://ja.wikipedia.org/wiki/上原康樹 "wikilink")（[盛岡局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")）の3人。
+8.  伊藤以外では[仙台の](../Page/NHK仙台放送局.md "wikilink")[畠山智之](../Page/畠山智之.md "wikilink")、[大阪の](../Page/NHK大阪放送局.md "wikilink")[横尾泰輔](../Page/横尾泰輔.md "wikilink")が該当。
+9.  伊藤（福島局）、畠山（仙台局）、[上原康樹](../Page/上原康樹.md "wikilink")（[盛岡局](../Page/NHK盛岡放送局.md "wikilink")）の3人。

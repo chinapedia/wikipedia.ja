@@ -1,13 +1,13 @@
 > この記事は[PerfectDisk](https://ja.wikipedia.org/wiki/PerfectDisk)から翻訳されています。
 
 
-**PerfectDisk**（パーフェクトディスク）は米Raxco SoftWareが開発している[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デフラグメンテーション](https://ja.wikipedia.org/wiki/デフラグメンテーション "wikilink")ソフトである。
+**PerfectDisk**（パーフェクトディスク）は米Raxco SoftWareが開発している[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デフラグメンテーション](../Page/デフラグメンテーション.md "wikilink")ソフトである。
 
 PerfectDisk 8 Proにて正式にWindowsVistaへの対応を果たした。2008年4月に発表されたPerfectDisk 2008では仮想環境であるVMware Workstation、VMware ServerのゲストOSにも対応した。 PerfectDisk 11からはSSDの最適化にも対応した。
 
 ## 概要
 
-Windows標準搭載のデフラグ機能では不可能なシステムファイルや空き領域の最適化を行える強力なデフラグメンテーションソフトであり、標準デフラグ機能の完全版である[Diskeeper](https://ja.wikipedia.org/wiki/Diskeeper "wikilink")と人気を2分するソフトウェアである。
+Windows標準搭載のデフラグ機能では不可能なシステムファイルや空き領域の最適化を行える強力なデフラグメンテーションソフトであり、標準デフラグ機能の完全版である[Diskeeper](../Page/Diskeeper.md "wikilink")と人気を2分するソフトウェアである。
 
 WindowsはOS標準機能として簡易なデフラグメンテーションソフトを搭載しているが、動作に制限があるなど十分な機能とは言えない。そのためハイエンドユーザを中心に、より高機能なデフラグメンテーションソフトへのニーズがあり、それに応えるソフトウェアである。
 

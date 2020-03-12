@@ -1,7 +1,7 @@
 > この記事は[GREEN](https://ja.wikipedia.org/wiki/GREEN)から翻訳されています。
 
 
-『**GREEN〜農家のヨメになりたい〜**』（グリーン のうかのヨメになりたい）は、[二ノ宮知子](../Page/二ノ宮知子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで『[Kiss Carnival](https://ja.wikipedia.org/wiki/Kiss_\(雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）で連載された。
+『**GREEN〜農家のヨメになりたい〜**』（グリーン のうかのヨメになりたい）は、[二ノ宮知子](../Page/二ノ宮知子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで『[Kiss Carnival](../Page/Kiss_\(雑誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）で連載された。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 [秩父地方](../Page/秩父地方.md "wikilink")の農村を舞台とした爆笑ラブコメディー漫画。田舎生活に憧れを持つ都会っ子の主人公・和子が引き起こす大騒動と、医師免許を持ちながら農家を継いだ誠との恋物語。
 
-[2004年](../Page/2004年.md "wikilink")には、この作品を原作とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")『農家のヨメになりたい』が[NHKで放送された](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。
+[2004年](../Page/2004年.md "wikilink")には、この作品を原作とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")『農家のヨメになりたい』が[NHKで放送された](../Page/NHK総合テレビジョン.md "wikilink")。
 
 ## あらすじ
 
@@ -52,7 +52,7 @@
 
 ## テレビドラマ
 
-『**農家のヨメになりたい**』のタイトルでテレビドラマ化され、[2004年](../Page/2004年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")から[6月21日](../Page/6月21日.md "wikilink")まで、[NHK総合テレビの](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[月曜ドラマシリーズ](https://ja.wikipedia.org/wiki/月曜ドラマシリーズ "wikilink")』枠で放送された。ロケ地は[静岡県](../Page/静岡県.md "wikilink")[三島市](../Page/三島市.md "wikilink")。ドラマ終了後、公式サイトに送信されたＤＶＤ化を望む多数の視聴者の声に応え、同年12月15日に、DVD-BOXが発売された。
+『**農家のヨメになりたい**』のタイトルでテレビドラマ化され、[2004年](../Page/2004年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")から[6月21日](../Page/6月21日.md "wikilink")まで、[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")『[月曜ドラマシリーズ](../Page/月曜ドラマシリーズ.md "wikilink")』枠で放送された。ロケ地は[静岡県](../Page/静岡県.md "wikilink")[三島市](../Page/三島市.md "wikilink")。ドラマ終了後、公式サイトに送信されたＤＶＤ化を望む多数の視聴者の声に応え、同年12月15日に、DVD-BOXが発売された。
 
   - キャスト
 
@@ -61,15 +61,15 @@
   - 吉川和子：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")
   - 小野誠：[中村俊介](https://ja.wikipedia.org/wiki/中村俊介 "wikilink")
   - 清和希望：[玉山鉄二](../Page/玉山鉄二.md "wikilink")
-  - 石井加代子：[伊藤裕子](https://ja.wikipedia.org/wiki/伊藤裕子 "wikilink")
-  - 大柴やよい：[松本莉緒](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")
+  - 石井加代子：[伊藤裕子](../Page/伊藤裕子.md "wikilink")
+  - 大柴やよい：[松本莉緒](../Page/松本莉緒.md "wikilink")
   - 吉川加奈：[星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")
-  - 木村桂司：[小林すすむ](https://ja.wikipedia.org/wiki/小林すすむ "wikilink")
-  - 大柴哲也：[鈴木ヒロミツ](https://ja.wikipedia.org/wiki/鈴木ヒロミツ "wikilink")
-  - 吉川薫：[ガッツ石松](https://ja.wikipedia.org/wiki/ガッツ石松 "wikilink")
-  - 吉川佳子：[宮崎美子](https://ja.wikipedia.org/wiki/宮崎美子 "wikilink")
-  - 清和正：[松山政路](https://ja.wikipedia.org/wiki/松山政路 "wikilink")
-  - 桜井辰次：[加藤武](https://ja.wikipedia.org/wiki/加藤武 "wikilink")
+  - 木村桂司：[小林すすむ](../Page/小林すすむ.md "wikilink")
+  - 大柴哲也：[鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")
+  - 吉川薫：[ガッツ石松](../Page/ガッツ石松.md "wikilink")
+  - 吉川佳子：[宮崎美子](../Page/宮崎美子.md "wikilink")
+  - 清和正：[松山政路](../Page/松山政路.md "wikilink")
+  - 桜井辰次：[加藤武](../Page/加藤武.md "wikilink")
   - 小野タマ：[宮本信子](../Page/宮本信子.md "wikilink")
 
 <!-- end list -->
@@ -80,7 +80,7 @@
 
   - 原作：二ノ宮知子
   - 脚本：[小松江里子](https://ja.wikipedia.org/wiki/小松江里子 "wikilink")
-  - 音楽：[窪田ミナ](https://ja.wikipedia.org/wiki/窪田ミナ "wikilink")
+  - 音楽：[窪田ミナ](../Page/窪田ミナ.md "wikilink")
   - 制作統括：[内藤愼介](https://ja.wikipedia.org/wiki/内藤愼介 "wikilink")、[大加章雅](https://ja.wikipedia.org/wiki/大加章雅 "wikilink")
   - プロデュース：[平部隆明](https://ja.wikipedia.org/wiki/平部隆明 "wikilink")
   - 演出：[新城毅彦](https://ja.wikipedia.org/wiki/新城毅彦 "wikilink")、[中山秀一](https://ja.wikipedia.org/wiki/中山秀一 "wikilink")

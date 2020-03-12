@@ -1,15 +1,15 @@
 > この記事は[PlayStation Home](https://ja.wikipedia.org/wiki/PlayStation_Home)から翻訳されています。
 
 
-**PlayStation Home**（プレイステーション・ホーム、略: PS Home）は、かつて[PlayStation Network](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink") (PSN) を通じて提供されていた[PlayStation 3向けの仮想空間](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（[メタバース](https://ja.wikipedia.org/wiki/メタバース "wikilink")）サービス。現在はサービスを終了している。
+**PlayStation Home**（プレイステーション・ホーム、略: PS Home）は、かつて[PlayStation Network](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink") (PSN) を通じて提供されていた[PlayStation 3向けの仮想空間](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（[メタバース](../Page/メタバース.md "wikilink")）サービス。現在はサービスを終了している。
 
 ## 概要
 
-[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")を作成して仮想世界に[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")して、リアルタイムコミュニケーション、ショッピングが可能な他、自分に割り当てられた部屋の改装、ゲーム等ができる。[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")によってTVを通して、まるで窓から外を覗き込んでいるような風景が作られている。
+[アバター](../Page/アバター.md "wikilink")を作成して仮想世界に[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")して、リアルタイムコミュニケーション、ショッピングが可能な他、自分に割り当てられた部屋の改装、ゲーム等ができる。[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")によってTVを通して、まるで窓から外を覗き込んでいるような風景が作られている。
 
-ログインには[PSNの](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")[IDが必要](https://ja.wikipedia.org/wiki/識別子 "wikilink")。PS3からPSNにサインアップした後にPS3を再起動すると、[XMBのPSN列にPS](https://ja.wikipedia.org/wiki/クロスメディアバー "wikilink") Homeのアイコンが追加されるのでそこから起動する。
+ログインには[PSNの](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")[IDが必要](../Page/識別子.md "wikilink")。PS3からPSNにサインアップした後にPS3を再起動すると、[XMBのPSN列にPS](../Page/クロスメディアバー.md "wikilink") Homeのアイコンが追加されるのでそこから起動する。
 
-初期状態では最低限の機能しかインストールされておらず、ユーザの行動に応じて必要な機能が追加ダウンロードされる[SaaS](https://ja.wikipedia.org/wiki/SaaS "wikilink")型サービスとなっている。
+初期状態では最低限の機能しかインストールされておらず、ユーザの行動に応じて必要な機能が追加ダウンロードされる[SaaS](../Page/SaaS.md "wikilink")型サービスとなっている。
 
 利用者同士の交流場所であるホームスクエア（最大64人まで接続可能）に始まり、ゲームスペース、シアター、マーケットプレイス、ホームカフェへと繋がる。ゲームスペースではボウリングやビリヤードなどが楽しめ、アーケードゲームの筐体に向えばビデオゲームが楽しめる。マーケットプレイスではアバターに着せる服やパーソナルスペースに置く家具などを買う事が出来る。他にシアターでは最新ゲームのトレーラーを見ることができる。
 
@@ -23,7 +23,7 @@
 
 ## アバター
 
-[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")とはHome内での自分の分身にあたり、ジェスチャーによって決まった動きを与えることも可能。ダンスも出来る。
+[アバター](../Page/アバター.md "wikilink")とはHome内での自分の分身にあたり、ジェスチャーによって決まった動きを与えることも可能。ダンスも出来る。
 
 性別規制は無く、ユーザー本人の実際の性別に関係なくアバターの性別を決められる。外見は写実的で、顔についても顔形、色など調整が可能。ただし結果的にどこか西洋風に限定される。体型もある程度調整できる。女性の場合は顔のメイクについても調整可能。さらにショップで入手した服装やリワードアイテムによる着せ替えもできる。これらの外見は自由にいつでも切り替えられる。9パターンのセーブが可能になっており、そのデータをロードして一斉に変更可能。バージョン1.40より、使わない服飾品を格納できる倉庫が追加された。
 
@@ -126,14 +126,14 @@
 | ヴィサリの謁見室                        | 『[KILLZONE 2](https://ja.wikipedia.org/wiki/KILLZONE_2 "wikilink")』をモチーフにしたパーソナルスペース。玉座が似合う上部スペースと広い下部スペースの構成。                                                                                                              |
 | MotorStorm Monument Valley Camp | 『[MotorStorm 〜モーターストーム〜](../Page/MotorStorm_〜モーターストーム〜.md "wikilink")』をモチーフにしたパーソナルスペース。完全な屋外スペースで、眼下には『MotorStorm』のコースが見える。                                                                                                |
 | ラチェット&クランク：おウチがイチバン\!           | 『[ラチェット&クランク FUTURE2](https://ja.wikipedia.org/wiki/ラチェット&クランク_FUTURE2 "wikilink")』をモチーフにしたパーソナルスペース。3階建てで3階は展望台。2階には4つの小部屋。1階からは星々を眺めることが出来る。                                                                              |
-| ロコアイランド                         | 『[LocoRoco](https://ja.wikipedia.org/wiki/ロコロコ "wikilink")』をモチーフにしたパーソナルスペース。南の島のツリーハウスをイメージした作り。一緒に住んでいるロコロコ達と遊ぶこともでき、遊ぶともらえる「ピコリ」でグレードアップも可能（家具の設置に制限が発生するが、エレベーターを設置する事で滑り台つきデッキに行くことが出来る）。                              |
+| ロコアイランド                         | 『[LocoRoco](../Page/ロコロコ.md "wikilink")』をモチーフにしたパーソナルスペース。南の島のツリーハウスをイメージした作り。一緒に住んでいるロコロコ達と遊ぶこともでき、遊ぶともらえる「ピコリ」でグレードアップも可能（家具の設置に制限が発生するが、エレベーターを設置する事で滑り台つきデッキに行くことが出来る）。                                                 |
 | エデン・聖府代表展望室                     | 『[ファイナルファンタジーXIII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII "wikilink")』をモチーフにしたパーソナルスペース。ゲーム内にも登場する展望室をイメージした部屋。眼下にはエデンの一部を見下ろすことが出来る。他のパーソナルスペースと比べるとやや小さめ。『FFXIII』発売を記念して期間限定で無料配布されていた。                            |
 | トロのおうち                          | 『[まいにちいっしょ](../Page/まいにちいっしょ.md "wikilink")』時代のトロのおうちをイメージしたパーソナルスペース。部屋内部はもちろん、玄関やトイレ、本家では出て来なかったキッチンまで正確に再現されている。窓からは時折トロ・クロが覗きに来ることがある。                                                                                  |
 | MotorStorm 2 Camp               | 『[MotorStorm2](https://ja.wikipedia.org/wiki/MotorStorm2_〜モーターストーム2〜 "wikilink")』をイメージしたパーソナルスペース。『MortoeStorm2』の舞台となる地域にある海岸に設営されたキャンプサイトをイメージした造り。前方の海には多数の船が、後方にはジャングルと火山が聳え立つ。                                          |
-| リトルビッグプラネット ポッドハウス              | 『[リトルビッグプラネット](https://ja.wikipedia.org/wiki/リトルビッグプラネット "wikilink")』のポッドをイメージしたパーソナルスペース。本家同様ダンボール製。ポッドを回転して風景を変えることもできる。リビッツの下をくぐると壁紙クリエイターのミニゲームが遊べる。                                                                    |
+| リトルビッグプラネット ポッドハウス              | 『[リトルビッグプラネット](../Page/リトルビッグプラネット.md "wikilink")』のポッドをイメージしたパーソナルスペース。本家同様ダンボール製。ポッドを回転して風景を変えることもできる。リビッツの下をくぐると壁紙クリエイターのミニゲームが遊べる。                                                                                       |
 | Sodium One Salt Shooter         | Sodiumラウンジの目玉、襲い掛かる敵タンク群をホバー戦闘機を使い撃破していく。ラウンジに入ると自動的に取得（無料）となる。また、パーソナルスペースではあるが、家具は一切置けない。一定以上のレベルをプレーするには別途アイテムの購入が必要となる。                                                                                                 |
 | ドルフィールーム                        | ハドソンゲートにて行われるドルフィーレースにて出走させるドルフィーを育てることができるパーソナルスペース。ステータスを伸ばしたり、外観を変えることができる。ドルフィーレースにて一定の成績を収めるとデコレーションの種類が増える。                                                                                                           |
-| ゴーストバスターズ 消防署 撮影現場              | 映画『[ゴーストバスターズ](https://ja.wikipedia.org/wiki/ゴーストバスターズ "wikilink")』の本拠地である消防署をモチーフにしたパーソナルスペース。映画がモチーフとなるパーソナルスペースは初。地上2階、地下1階建てでギミック・ミニゲーム付き、さらに、通常は別売りの家具類もセットで付いてくる。地価にはゴーストもいる。                                         |
+| ゴーストバスターズ 消防署 撮影現場              | 映画『[ゴーストバスターズ](../Page/ゴーストバスターズ.md "wikilink")』の本拠地である消防署をモチーフにしたパーソナルスペース。映画がモチーフとなるパーソナルスペースは初。地上2階、地下1階建てでギミック・ミニゲーム付き、さらに、通常は別売りの家具類もセットで付いてくる。地価にはゴーストもいる。                                                            |
 | 兵舎 レーヴン                         | 『[MAG](https://ja.wikipedia.org/wiki/MASSIVE_ACTION_GAME "wikilink")』に登場する3勢力の兵舎をモチーフとしたスペース。どの基地も3階建ての監視塔と基地がつくが、ギミックなどがそれぞれ異なる。各ラウンジにはそれぞれの勢力のテーマ曲をかけることができるラジオが設置されている。                                                  |
 | 兵舎 ベイラー                         |                                                                                                                                                                                                                             |
 | 兵舎 セイバー                         |                                                                                                                                                                                                                             |
@@ -187,7 +187,7 @@ NAMCOの筐体が並んだナムコスペースもある。こちらはナムコ
 <tr class="even">
 <td><p>ホームカフェ</p></td>
 <td><p>イベントが開催できるカフェ風施設。後述の<a href="https://ja.wikipedia.org/wiki/ファミ通" title="wikilink">ファミ通</a>カフェが好評だったため、<a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/6月18日.md" title="wikilink">6月18日</a>から「ミュージックカフェ」としてリニューアルオープン。1階ではディスコ風セットで踊ることが出来る。2階ではVIP席風の空間となっており、改装前はソニー製品の展示とアンケート。改装後はガラス張りのギャラリースペースとなり、ユーザーが投稿した写真が展示されている。<br />
-時折本物の歌手によるイベントが開催されており、<a href="https://ja.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUIや</a><a href="https://ja.wikipedia.org/wiki/伊藤由奈" title="wikilink">伊藤由奈</a>、ボーカロイドの<a href="https://ja.wikipedia.org/wiki/初音ミク" title="wikilink">初音ミク</a>や<a href="https://ja.wikipedia.org/wiki/鏡音リン・レン" title="wikilink">鏡音リン・レン</a>がライブを行ったこともある。</p></td>
+時折本物の歌手によるイベントが開催されており、<a href="https://ja.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUIや</a><a href="https://ja.wikipedia.org/wiki/伊藤由奈" title="wikilink">伊藤由奈</a>、ボーカロイドの<a href="../Page/初音ミク.md" title="wikilink">初音ミク</a>や<a href="../Page/鏡音リン・レン.md" title="wikilink">鏡音リン・レン</a>がライブを行ったこともある。</p></td>
 </tr>
 <tr class="odd">
 <td><p>マーケットプレイス</p></td>
@@ -220,10 +220,10 @@ Stuff:ポータブルアイテム</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント" title="wikilink">ソニー・コンピュータエンタテインメント</a></p></td>
 <td><p>みんGOLラウンジ</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/みんなのGOLF" title="wikilink">みんなのGOLF</a>』のファンのためのラウンジ。『<a href="https://ja.wikipedia.org/wiki/みんなのGOLF5" title="wikilink">みんなのGOLF5</a>』を起動させることが出来る。</p></td>
+<td><p>『<a href="../Page/みんなのGOLF.md" title="wikilink">みんなのGOLF</a>』のファンのためのラウンジ。『<a href="https://ja.wikipedia.org/wiki/みんなのGOLF5" title="wikilink">みんなのGOLF5</a>』を起動させることが出来る。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SIREN_(ゲームソフト)" title="wikilink">SIRENラウンジ</a></p></td>
+<td><p><a href="../Page/SIREN_(ゲームソフト).md" title="wikilink">SIRENラウンジ</a></p></td>
 <td><p>エントランスと病棟内部（病棟の名称は「<strong>どうあがいても絶望病棟</strong>」）の2ラウンジ。エントランスでは指定の時間に屍人が現れる。病棟内部ではゲーム内に登場する犀賀医院をモチーフにした脱出ゲームに挑戦できる。</p></td>
 <td></td>
 </tr>
@@ -244,7 +244,7 @@ Stuff:ポータブルアイテム</p></td>
 </tr>
 <tr class="even">
 <td><p>ムイムイ客船</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/ロコロコ" title="wikilink">LocoRoco</a>』をテーマにしたラウンジ。ロコアイランド近海に停泊している船の上で、ロコアイランドの案内や家具の展示、ロコアイランドで遊ぶことが出来るロコリバーシの対人戦ができる。ここで獲得したピコリはロコアイランドと相互利用でき、ロコアイランドの発展に使えるほか、ムイムイ客船で限定アイテムの購入やドミンゴレースへの賭け金に使える。</p></td>
+<td><p>『<a href="../Page/ロコロコ.md" title="wikilink">LocoRoco</a>』をテーマにしたラウンジ。ロコアイランド近海に停泊している船の上で、ロコアイランドの案内や家具の展示、ロコアイランドで遊ぶことが出来るロコリバーシの対人戦ができる。ここで獲得したピコリはロコアイランドと相互利用でき、ロコアイランドの発展に使えるほか、ムイムイ客船で限定アイテムの購入やドミンゴレースへの賭け金に使える。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -258,7 +258,7 @@ Stuff:ポータブルアイテム</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/リトルビッグプラネット" title="wikilink">リトルビッグプラネット</a> プレイグラウンド</p></td>
+<td><p><a href="../Page/リトルビッグプラネット.md" title="wikilink">リトルビッグプラネット</a> プレイグラウンド</p></td>
 <td><p>『リトルビッグプラネット』をテーマにしたラウンジ。LBPらしく、地面はダンボールやスポンジで作られている。ガーデンエリア、ウエディングエリア、キャニオンエリアに分かれており、各ステージの世界観を見ることができる。ラウンジ内ではカメラ機能を使用したミニゲームに挑戦できる。ラウンジを移動してプレイできる壁紙クリエイターでは他のプレイヤーと協力してPS3の壁紙を作ることができ、同様に移動してプレイできるリトルビッグダービーではペイントガンを使った対戦シューティングが楽しめる。</p></td>
 <td></td>
 </tr>
@@ -278,39 +278,39 @@ Stuff:ポータブルアイテム</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ja.wikipedia.org/wiki/東京ゲームショウ" title="wikilink">TGSラウンジ</a></em></p></td>
+<td><p><em><a href="../Page/東京ゲームショウ.md" title="wikilink">TGSラウンジ</a></em></p></td>
 <td><p>2008年<a href="../Page/10月9日.md" title="wikilink">10月9日</a> - <a href="../Page/12月3日.md" title="wikilink">12月3日</a>の期間限定で、東京ゲームショウ2008のSCEブースを再現したラウンジ。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SONY" title="wikilink">SONY</a></p></td>
 <td><p><em>FevaArena（フィバアリーナ）入口</em></p></td>
-<td><p>フットボールスタジアム「FevaArena」の入口。SONYが協賛している<a href="https://ja.wikipedia.org/wiki/FIFAワールドカップ" title="wikilink">FIFAワールドカップ</a>南アフリカ大会ということで、SONYのサッカー普及への取り組みが紹介されていた。</p></td>
+<td><p>フットボールスタジアム「FevaArena」の入口。SONYが協賛している<a href="../Page/FIFAワールドカップ.md" title="wikilink">FIFAワールドカップ</a>南アフリカ大会ということで、SONYのサッカー普及への取り組みが紹介されていた。</p></td>
 </tr>
 <tr class="odd">
 <td><p><em>FevaArena（フィバアリーナ）ピッチ</em></p></td>
-<td><p>「FevaArena」内部の観客席とフィールドエリア。ピッチには降りることができ、実際にフィールドを走ったりベンチに座ることもできた。正面には36:9の超大画面スクリーンが備え付けられていた。後に<a href="https://ja.wikipedia.org/wiki/筋肉番付シリーズ" title="wikilink">キックターゲットを模した</a>「Feva Shoot」が設置される。ワールドカップ中には「Feva Simulation」として試合シミュレーションによるトトカルチョが行われていた。行動することが出来る範囲としては全ラウンジ中最大。</p></td>
+<td><p>「FevaArena」内部の観客席とフィールドエリア。ピッチには降りることができ、実際にフィールドを走ったりベンチに座ることもできた。正面には36:9の超大画面スクリーンが備え付けられていた。後に<a href="../Page/筋肉番付シリーズ.md" title="wikilink">キックターゲットを模した</a>「Feva Shoot」が設置される。ワールドカップ中には「Feva Simulation」として試合シミュレーションによるトトカルチョが行われていた。行動することが出来る範囲としては全ラウンジ中最大。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Sony Aquarium VR 黒潮の海</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沖縄美ら海水族館" title="wikilink">沖縄美ら海水族館</a>とSONYのコラボラウンジ。美ら海水族館の目玉である「黒潮の海」水槽を水族館監修の元再現。水槽に潜って魚を写真撮影できたり、写真撮影で獲得したポイントでガチャガチャに挑戦でき、運が良ければ実物大お魚フィギュアを手に入れることができる。</p></td>
+<td><p><a href="../Page/沖縄美ら海水族館.md" title="wikilink">沖縄美ら海水族館</a>とSONYのコラボラウンジ。美ら海水族館の目玉である「黒潮の海」水槽を水族館監修の元再現。水槽に潜って魚を写真撮影できたり、写真撮影で獲得したポイントでガチャガチャに挑戦でき、運が良ければ実物大お魚フィギュアを手に入れることができる。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/バンダイナムコゲームス" title="wikilink">バンダイナムコゲームス</a></p></td>
 <td><p>キャロットNBGI</p></td>
 <td><p>ナムコのゲームセンターをイメージしたラウンジ。相性占いやナムコミュージアムBETAやナムコミュージアム.commがプレイできる（その各ソフトどちらかのインストールが必要）。<br />
-また、『<a href="https://ja.wikipedia.org/wiki/THE_IDOLM@STER_SP" title="wikilink">アイドルマスターSP</a>』仕様の自販機が設置されており、ルーレットでリワードアイテムを取得することができる。その中の一つ、天海春香のお面は「<strong>ほめ春香さん</strong>」という呼称がある。また、ラウンジに設けられた入口からは「プレイマックスNBGI」に行くことができ、<a href="../Page/リッジレーサー.md" title="wikilink">リッジレーサー</a>』の実物大レーシングカーや『アイドルマスターSP』仕様の自販機が設置されている。</p></td>
+また、『<a href="../Page/THE_IDOLM@STER_SP.md" title="wikilink">アイドルマスターSP</a>』仕様の自販機が設置されており、ルーレットでリワードアイテムを取得することができる。その中の一つ、天海春香のお面は「<strong>ほめ春香さん</strong>」という呼称がある。また、ラウンジに設けられた入口からは「プレイマックスNBGI」に行くことができ、<a href="../Page/リッジレーサー.md" title="wikilink">リッジレーサー</a>』の実物大レーシングカーや『アイドルマスターSP』仕様の自販機が設置されている。</p></td>
 </tr>
 <tr class="even">
 <td><p>「鉄拳6」 三島ビル：娯楽フロア</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/鉄拳6" title="wikilink">鉄拳6</a>』の三島ビルをモチーフにしたラウンジ。アーケード版鉄拳筺体（『鉄拳6』を持っていれば起動させることが出来る）やリワードがもらえるトレーニングジム。コスチュームが買えるストアがある。</p></td>
+<td><p>『<a href="../Page/鉄拳6.md" title="wikilink">鉄拳6</a>』の三島ビルをモチーフにしたラウンジ。アーケード版鉄拳筺体（『鉄拳6』を持っていれば起動させることが出来る）やリワードがもらえるトレーニングジム。コスチュームが買えるストアがある。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ja.wikipedia.org/wiki/THE_IDOLM@STER_SP" title="wikilink">アイドルマスターSP</a> プレミアムステージ</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/1月28日.md" title="wikilink">1月28日</a>から<a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a>までの期間限定オープン。所定の時間に春香・千早・雪歩がライブを行う。お店では<a href="https://ja.wikipedia.org/wiki/オタ芸" title="wikilink">オタ芸</a>師風衣装が買え、着た状態でライブを鑑賞してダンスするとライブに特殊効果が表れる。</p></td>
+<td><p><em><a href="../Page/THE_IDOLM@STER_SP.md" title="wikilink">アイドルマスターSP</a> プレミアムステージ</em></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/1月28日.md" title="wikilink">1月28日</a>から<a href="../Page/2月8日.md" title="wikilink">2月8日</a>までの期間限定オープン。所定の時間に春香・千早・雪歩がライブを行う。お店では<a href="https://ja.wikipedia.org/wiki/オタ芸" title="wikilink">オタ芸</a>師風衣装が買え、着た状態でライブを鑑賞してダンスするとライブに特殊効果が表れる。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ Stuff:ポータブルアイテム</p></td>
 </tr>
 <tr class="even">
 <td><p><em>合戦場の茶屋にて待つ</em></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/不如帰_(ゲーム)" title="wikilink">不如帰</a>』をテーマにしたラウンジ。砂浜で行われる合戦場の中を歩けるラウンジだが、裏側を見ると…。茶屋では不如帰シリーズをダウンロード購入できた。</p></td>
+<td><p>『<a href="../Page/不如帰_(ゲーム).md" title="wikilink">不如帰</a>』をテーマにしたラウンジ。砂浜で行われる合戦場の中を歩けるラウンジだが、裏側を見ると…。茶屋では不如帰シリーズをダウンロード購入できた。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -374,13 +374,13 @@ Stuff:ポータブルアイテム</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/カプコン" title="wikilink">カプコン</a></p></td>
+<td><p><a href="../Page/カプコン.md" title="wikilink">カプコン</a></p></td>
 <td><p>バイオ5 撮影スタジオ</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/バイオハザード5" title="wikilink">バイオハザード5</a>』の戦場のロケ地。宝探しゲームができる。奥の建物には『バイオハザード5』ユーザーしか入れない資料室がある。</p></td>
+<td><p>『<a href="../Page/バイオハザード5.md" title="wikilink">バイオハザード5</a>』の戦場のロケ地。宝探しゲームができる。奥の建物には『バイオハザード5』ユーザーしか入れない資料室がある。</p></td>
 </tr>
 <tr class="odd">
 <td><p>ストIV S.I.N.の秘密基地</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/ストリートファイターIV" title="wikilink">STREET FIGHTER IV</a>』のS.I.N.の秘密基地。『STREET FIGHTER IV』の衣装でジェスチャーすると、そのキャラ独自の技を出したりする。『STREET FIGHTER IV』の対戦者を募ることも可能。</p></td>
+<td><p>『<a href="../Page/ストリートファイターIV.md" title="wikilink">STREET FIGHTER IV</a>』のS.I.N.の秘密基地。『STREET FIGHTER IV』の衣装でジェスチャーすると、そのキャラ独自の技を出したりする。『STREET FIGHTER IV』の対戦者を募ることも可能。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -391,11 +391,11 @@ Stuff:ポータブルアイテム</p></td>
 <tr class="odd">
 <td><p><a href="../Page/日本一ソフトウェア.md" title="wikilink">日本一ソフトウェア</a></p></td>
 <td><p><em>魔立邪悪学園</em></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/魔界戦記ディスガイア3" title="wikilink">魔界戦記ディスガイア3</a>』の魔立邪悪学園。ディスガイア検定やショップがある。アップデートによりラウンジ内通貨「ヘル」が導入され、ゲームで好成績を残したり、プリニーレースを的中すると貯まっていき、リワードと交換することができるようになる。</p></td>
+<td><p>『<a href="../Page/魔界戦記ディスガイア3.md" title="wikilink">魔界戦記ディスガイア3</a>』の魔立邪悪学園。ディスガイア検定やショップがある。アップデートによりラウンジ内通貨「ヘル」が導入され、ゲームで好成績を残したり、プリニーレースを的中すると貯まっていき、リワードと交換することができるようになる。</p></td>
 </tr>
 <tr class="even">
 <td><p><em>マオの部屋</em></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/魔界戦記ディスガイア3" title="wikilink">魔界戦記ディスガイア3</a>』のマオの部屋。ミニゲーム（魔界大富豪とディスガイア3ブロック）がある。</p></td>
+<td><p>『<a href="../Page/魔界戦記ディスガイア3.md" title="wikilink">魔界戦記ディスガイア3</a>』のマオの部屋。ミニゲーム（魔界大富豪とディスガイア3ブロック）がある。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -408,10 +408,10 @@ Stuff:ポータブルアイテム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PixelJunkシリーズ" title="wikilink">PixelJunkミュージアム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PixelJunkシリーズ" title="wikilink">PixelJunkシリーズ</a>の博物館ラウンジ。「レーサーズ」の車、「モンスターズ」のタワー、「エデン」の世界観を表すパネルがある。<br />
 また、ラウンジに設けられた入口から「PixelJunkシューター マザーシップハンガーデッキ」に移動でき、舞台となる「アポキスプライム」を望むことができる。<br />
-<a href="https://ja.wikipedia.org/wiki/東京ゲームショウ" title="wikilink">TGS</a>2009期間中は特設ブースも再現して設置されていた。</p></td>
+<a href="../Page/東京ゲームショウ.md" title="wikilink">TGS</a>2009期間中は特設ブースも再現して設置されていた。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エレクトロニック・アーツ" title="wikilink">エレクトロニック・アーツ</a></p></td>
+<td><p><a href="../Page/エレクトロニック・アーツ.md" title="wikilink">エレクトロニック・アーツ</a></p></td>
 <td><p>EA SPORTS Poker I</p></td>
 <td><p><a href="../Page/ポーカー.md" title="wikilink">ポーカー</a>の一種である<a href="https://ja.wikipedia.org/wiki/テキサスホールデム" title="wikilink">テキサスホールデム</a>初級者用テーブルがあり、最大8人の対戦を行う事が出来る。</p></td>
 </tr>
@@ -451,7 +451,7 @@ Stuff:ポータブルアイテム</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドブル" title="wikilink">Red Bull</a></p></td>
+<td><p><a href="../Page/レッドブル.md" title="wikilink">Red Bull</a></p></td>
 <td><p><em>Red Bull illume</em></p></td>
 <td><p>『Red BuLL』の船着き場風エントランスラウンジ。ジュークボックスが設置されており、リクエストしたBGMを流すことができた。</p></td>
 </tr>
@@ -501,7 +501,7 @@ Stuff:ポータブルアイテム</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ユービーアイソフト" title="wikilink">ユービーアイソフト</a></p></td>
+<td><p><a href="../Page/ユービーアイソフト.md" title="wikilink">ユービーアイソフト</a></p></td>
 <td><p>アブスターゴ・ラボ</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/アサシン_クリードシリーズ" title="wikilink">アサシンクリード</a>』に登場するアブスターゴ社内をイメージしたラウンジ。アサシン対テンプル騎士団の戦いをイメージした対戦型<a href="https://ja.wikipedia.org/wiki/タワーディフェンス" title="wikilink">タワーディフェンス</a>ゲームに挑戦できる。また、特殊能力「タカの眼」を使用したゲームをクリアすると、アサシンクリードIIの設定資料や開発スタッフのブログを見られる「アサシンの隠れ家」に行くことができる。</p></td>
 </tr>
@@ -552,11 +552,11 @@ Stuff:ポータブルアイテム</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/日本コカ・コーラ.md" title="wikilink">日本コカ・コーラ</a></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/ジョージア_(缶コーヒー)" title="wikilink">ジョージア</a> ブレイクステーション</em></p></td>
+<td><p><em><a href="../Page/ジョージア_(缶コーヒー).md" title="wikilink">ジョージア</a> ブレイクステーション</em></p></td>
 <td><p>ジョージアのキャンペーンラウンジ。喫茶店の造りになっており、ジョージアのキャンペーンで獲得したリワードを受け取れる。2009年<a href="../Page/9月7日.md" title="wikilink">9月7日</a>から<a href="../Page/12月7日.md" title="wikilink">12月7日</a>までの期間限定公開。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/LIAR_GAME_(テレビドラマ)" title="wikilink">LIAR GAME</a></p></td>
+<td><p><a href="../Page/LIAR_GAME_(テレビドラマ).md" title="wikilink">LIAR GAME</a></p></td>
 <td><p><em>LIAR GAMEラウンジ</em></p></td>
 <td><p>映画「LIAR GAME ザ・ファイナルステージ」公開を記念したラウンジ。本編にも登場する「エデンの園」をイメージした造り。リワードを賭けてゲームに挑戦できた（前期は「不平等な多数決ゲーム」、後期は「嘘つき達の少数決ゲーム」）。</p></td>
 </tr>
@@ -585,7 +585,7 @@ Stuff:ポータブルアイテム</p></td>
 <td><p>ソニー・<br />
 コンピュータ<br />
 エンタテインメント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京ゲームショウ" title="wikilink">TOKYO GAME SHOW 2011</a> 特設シアター</p></td>
+<td><p><a href="../Page/東京ゲームショウ.md" title="wikilink">TOKYO GAME SHOW 2011</a> 特設シアター</p></td>
 <td><p>東京ゲームショウで流された映像やトレイラーが上映される。</p></td>
 </tr>
 <tr class="even">
@@ -594,7 +594,7 @@ Stuff:ポータブルアイテム</p></td>
 <td><p>国内版FevaArenaとほぼ同じラウンジ。また、色区分では緑となっているが、実際の入場制限は13歳以上となっている。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo" title="wikilink">E3</a></p></td>
+<td><p><a href="../Page/Electronic_Entertainment_Expo.md" title="wikilink">E3</a></p></td>
 <td><p><em>2011 SCEA E3® Theater</em></p></td>
 <td><p>2011年版E3の北米向けSONYのプレスカンファレンスをライブ中継した。他にもゲームのPVや実際のブースの様子が流された。</p></td>
 </tr>
@@ -711,14 +711,14 @@ Stuff:ポータブルアイテム</p></td>
 ゲーム側が対応していれば、Home内でセッションを組んでオンライン対戦などが出来る。無論、セッションに参加する人全員がそのゲームソフトを持っている必要がある。セッションに対応しているゲームは現在以下の通り。
 
   - [みんなでスペランカー](https://ja.wikipedia.org/wiki/みんなでスペランカー "wikilink")
-  - [STREET FIGHTER IV](https://ja.wikipedia.org/wiki/ストリートファイターIV "wikilink")
+  - [STREET FIGHTER IV](../Page/ストリートファイターIV.md "wikilink")
   - [パチパラ15 〜スーパー海IN沖縄2〜](../Page/パチパラシリーズ.md "wikilink")
 
 他にもHome内からゲームの起動が出来るものもある。
 
 ## リワードアイテム
 
-Home内やゲームの中には、条件達成などでHome用アイテムがもらえる事がある。これを「リワードアイテム」と呼ぶ。リワード (reward) とは報酬、褒美という意味。リワードアイテムは、パーソナルスペースに飾れる物やアバター用の衣装など種類も多岐にわたっており、取得可能期間に制限が設けられるアイテムもある。その他、個別ゲームソフトをプレイする事で手に入るアイテムもある（例:[バイオハザード5](https://ja.wikipedia.org/wiki/バイオハザード5 "wikilink")を1回クリアで[アルバート・ウェスカー](https://ja.wikipedia.org/wiki/アルバート・ウェスカー "wikilink")のサングラスが手に入る 等）。
+Home内やゲームの中には、条件達成などでHome用アイテムがもらえる事がある。これを「リワードアイテム」と呼ぶ。リワード (reward) とは報酬、褒美という意味。リワードアイテムは、パーソナルスペースに飾れる物やアバター用の衣装など種類も多岐にわたっており、取得可能期間に制限が設けられるアイテムもある。その他、個別ゲームソフトをプレイする事で手に入るアイテムもある（例:[バイオハザード5](../Page/バイオハザード5.md "wikilink")を1回クリアで[アルバート・ウェスカー](https://ja.wikipedia.org/wiki/アルバート・ウェスカー "wikilink")のサングラスが手に入る 等）。
 
 ## ナビゲーター
 
@@ -780,7 +780,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 ## 開発環境
 
   - Home Development Kitはβテストより前に、既にバージョン1.4となっていた。
-  - ナビゲーターを経由して[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")などのラウンジに移動出来るようになっているため、バーチャルワールド全体の整合性は拡張後も保たれるようになっている（パーソナルスペースやクラブハウスの出入り、ラウンジ群間の行き来等に見られるように必ずしも地理的整合性にはこだわっていない）。
+  - ナビゲーターを経由して[サードパーティー](../Page/サードパーティー.md "wikilink")などのラウンジに移動出来るようになっているため、バーチャルワールド全体の整合性は拡張後も保たれるようになっている（パーソナルスペースやクラブハウスの出入り、ラウンジ群間の行き来等に見られるように必ずしも地理的整合性にはこだわっていない）。
   - Homeサーバー内のスクリプト言語は[Lua](../Page/Lua.md "wikilink")が採用された。
   - SCEはサードパーティーなどが作成したスクリプトをHomeサーバーに反映する前に事前検証すると表明している。
   - Homeには基本的な[物理演算機能が搭載されているため](https://ja.wikipedia.org/wiki/物理演算エンジン "wikilink")、3Dモデルに対して積み上げるなどといった挙動に対応して積み上がったようにモデルが位置調整されたりするなど自動的にリアルタイムで力学的な動きを見せる。
@@ -791,7 +791,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 ### ソニーの3Dチャットの歴史
 
   - 1996年：[VRML](../Page/VRML.md "wikilink")マルチユーザースイートのCommunity Placeが発売される。
-  - 1997年2月6日：Community Placeを利用した[さぱり](https://ja.wikipedia.org/wiki/さぱり "wikilink")が開始される。
+  - 1997年2月6日：Community Placeを利用した[さぱり](../Page/さぱり.md "wikilink")が開始される。
   - 1998年5月12日：Community Placeを利用した[PAWが開始される](../Page/Personal_Agent_World.md "wikilink")。
   - 2000年12月18日：こみゅー3Dが[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")により開始される。
   - 2001年3月2日：ソニーマーケティングが、3次元空間で動画をストリーミング再生させられるSpaceStreamを発表。
@@ -808,7 +808,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 <tbody>
 <tr class="odd">
 <td><p>2007年<a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Game_Developers_Conference" title="wikilink">Game Developers Conference</a>2007でHomeが発表される。</p></td>
+<td><p><a href="../Page/Game_Developers_Conference.md" title="wikilink">Game Developers Conference</a>2007でHomeが発表される。</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年<a href="../Page/5月2日.md" title="wikilink">5月2日</a></p></td>
@@ -872,7 +872,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 <td><p>「TGS2008 SCEブース」ラウンジが期間限定でオープン（<a href="../Page/12月4日.md" title="wikilink">12月4日</a>まで）<br />
 ファミ通カフェにて、「ファミ通×TGS2008×PS Homeクイズチャレンジ」（10月9日 - 22日）、<br />
 「ハロウィンクイズチャレンジ」（10月23日 - 30日）を開催<br />
-<a href="https://ja.wikipedia.org/wiki/東京ゲームショウ" title="wikilink">TGSのSCEのプレゼンテーションにて</a>、年内にオープンβテストサービス開始予定である事が発表される。<br />
+<a href="../Page/東京ゲームショウ.md" title="wikilink">TGSのSCEのプレゼンテーションにて</a>、年内にオープンβテストサービス開始予定である事が発表される。<br />
 また、10月末から11月上旬にかけて最終の大規模クローズドβテストに移行する予定と発表される。</p></td>
 </tr>
 <tr class="odd">
@@ -920,7 +920,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 イベント「PS Home のあそこで」開始（2009年<a href="../Page/2月12日.md" title="wikilink">2月12日</a>まで）。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p>2009年<a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td><p><strong>バージョン1.10にアップデート</strong>。</p></td>
 </tr>
 <tr class="even">
@@ -928,7 +928,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 <td><p>「バレンタインイベント」実施（1日限定）</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p></td>
+<td><p>2009年<a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
 <td><p><strong>バージョン1.11にアップデート</strong>。</p></td>
 </tr>
 <tr class="even">
@@ -1017,7 +1017,7 @@ Rollyジュークボックス設置。</p></td>
 <tr class="odd">
 <td><p>2009年<a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/PixelJunkシリーズ" title="wikilink">PixelJunkミュージアム</a>」ラウンジ公開。<br />
-「<a href="https://ja.wikipedia.org/wiki/東京ゲームショウ" title="wikilink">TGS</a>2009 スペシャル映像配信」イベント開催（10月1日まで）。<br />
+「<a href="../Page/東京ゲームショウ.md" title="wikilink">TGS</a>2009 スペシャル映像配信」イベント開催（10月1日まで）。<br />
 「ゲームショウで逢いまショウ」イベント開催（<a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a>まで）。<br />
 『ロストプラネット2Co-op』体験版が起動できるバイタルスーツがホームスクエアに設置される。</p></td>
 </tr>
@@ -1057,7 +1057,7 @@ Rollyジュークボックス設置。</p></td>
 <td><p>Any Music Presents「X'MAS SPECIAL LIVE 2009 WINTER」× PS Home がスタート（<a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a>まで）。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p>2009年<a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p>1周年記念セール開催（2010年<a href="../Page/1月7日.md" title="wikilink">1月7日</a>まで）。</p></td>
 </tr>
 <tr class="even">
@@ -1086,7 +1086,7 @@ Rollyジュークボックス設置。</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年<a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
-<td><p>THE IDOLM@STER SPECIAL LIVE がスタート（<a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a>まで）。</p></td>
+<td><p>THE IDOLM@STER SPECIAL LIVE がスタート（<a href="../Page/2月8日.md" title="wikilink">2月8日</a>まで）。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年<a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
@@ -1102,14 +1102,14 @@ Rollyジュークボックス設置。</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年<a href="../Page/2月18日.md" title="wikilink">2月18日</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/イブの時間" title="wikilink">イブの時間</a>」特別上映開始（<a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a>まで開催）。</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/イブの時間" title="wikilink">イブの時間</a>」特別上映開始（<a href="../Page/4月8日.md" title="wikilink">4月8日</a>まで開催）。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年<a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
 <td><p>「銀玉人情商店街」公開。</p></td>
 </tr>
 <tr class="even">
-<td><p>2010年<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p></td>
+<td><p>2010年<a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/イブの時間" title="wikilink">イブの時間</a>」スペシャルトーク開催。</p></td>
 </tr>
 <tr class="odd">
@@ -1144,8 +1144,8 @@ Earth F.C.キャンペーン開始。</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年<a href="../Page/5月13日.md" title="wikilink">5月13日</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/リトルビッグプラネット" title="wikilink">リトルビッグプラネット</a> プレイグランド」ラウンジ公開。<br />
-パーソナルスペース「<a href="https://ja.wikipedia.org/wiki/リトルビッグプラネット" title="wikilink">リトルビッグプラネット</a> ポッドハウス」発売開始。</p></td>
+<td><p>「<a href="../Page/リトルビッグプラネット.md" title="wikilink">リトルビッグプラネット</a> プレイグランド」ラウンジ公開。<br />
+パーソナルスペース「<a href="../Page/リトルビッグプラネット.md" title="wikilink">リトルビッグプラネット</a> ポッドハウス」発売開始。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年<a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
@@ -1184,7 +1184,7 @@ Earth F.C.キャンペーン開始。</p></td>
 <td><p>オフィシャルサイトに「クラブスペース」、「お気に入りアルバム」機能追加。</p></td>
 </tr>
 <tr class="even">
-<td><p>2010年<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a></p></td>
+<td><p>2010年<a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
 <td><p>パーソナルスペース「ミュージカリティー・クラブ」販売開始。</p></td>
 </tr>
 <tr class="odd">
@@ -1265,7 +1265,7 @@ Earth F.C.キャンペーン開始。</p></td>
 <td><p>「南の島の隠れ家」ラウンジ公開。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2011年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>2011年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>マクロスF 超時空スーパーライブ開演。(7月30日まで全7回公演)</p></td>
 </tr>
 <tr class="even">
@@ -1289,7 +1289,7 @@ Earth F.C.キャンペーン開始。</p></td>
 「秘密結社のアジト」ラウンジ公開終了。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2011年<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p>2011年<a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p>パーソナルスペース「私だけの隠れ家」販売開始。</p></td>
 </tr>
 <tr class="even">
@@ -1340,10 +1340,10 @@ Earth F.C.キャンペーン開始。</p></td>
 
   - [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")
   - [PlayStation Network](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")
-  - [メタバース](https://ja.wikipedia.org/wiki/メタバース "wikilink")
-  - [Second Life](https://ja.wikipedia.org/wiki/Second_Life "wikilink")
-  - [似顔絵チャンネル](https://ja.wikipedia.org/wiki/Mii "wikilink")
-  - [フィル・ハリソン](https://ja.wikipedia.org/wiki/フィル・ハリソン "wikilink")
+  - [メタバース](../Page/メタバース.md "wikilink")
+  - [Second Life](../Page/Second_Life.md "wikilink")
+  - [似顔絵チャンネル](../Page/Mii.md "wikilink")
+  - [フィル・ハリソン](../Page/フィル・ハリソン.md "wikilink")
 
 ## 外部リンク
 

@@ -12,7 +12,7 @@
 ### シングル
 
 1.  **Ring The Alarm**（2007年6月27日）
-    1.  Ring The Alarm（[中京テレビ](../Page/中京テレビ放送.md "wikilink")「[SPORTS STADIUM](https://ja.wikipedia.org/wiki/SPORTS_STADIUM "wikilink")」5月エンディングテーマ/[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")「[IMPACT](../Page/IMPACT_\(テレビ番組\).md "wikilink")」5月エンディングテーマ/[テレビ大阪](../Page/テレビ大阪.md "wikilink")「[NIGHT CRUISING](../Page/NIGHT_CRUISING.md "wikilink")」6月エンディングテーマ/[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」6〜7月エンディングテーマ）
+    1.  Ring The Alarm（[中京テレビ](../Page/中京テレビ放送.md "wikilink")「[SPORTS STADIUM](../Page/SPORTS_STADIUM.md "wikilink")」5月エンディングテーマ/[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")「[IMPACT](../Page/IMPACT_\(テレビ番組\).md "wikilink")」5月エンディングテーマ/[テレビ大阪](../Page/テレビ大阪.md "wikilink")「[NIGHT CRUISING](../Page/NIGHT_CRUISING.md "wikilink")」6月エンディングテーマ/[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」6〜7月エンディングテーマ）
     2.  Don't Break My Heart
     3.  Life goes on
 2.  **Legacy of you 〜君が残してくれたもの〜**（2007年9月19日）
@@ -21,11 +21,11 @@
     3.  Baby Don't Go
 3.  **Xmas Time\!\!** （2007年10月31日）　配信限定シングル
 4.  **恋花(koibana)** （2008年2月6日）
-    1.  恋花(koibana) （[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」2月度テーマソング）
+    1.  恋花(koibana) （[TBS系](../Page/TBSテレビ.md "wikilink")「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」2月度テーマソング）
     2.  Be the One
     3.  Scream\!
 5.  **Serenade** （2008年5月21日）
-    1.  Serenade （[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系木曜ミステリー「[新・科捜研の女](https://ja.wikipedia.org/wiki/新・科捜研の女 "wikilink")」主題歌）
+    1.  Serenade （[テレビ朝日](../Page/テレビ朝日.md "wikilink")系木曜ミステリー「[新・科捜研の女](https://ja.wikipedia.org/wiki/新・科捜研の女 "wikilink")」主題歌）
     2.  Over
     3.  Serenade -Acoustic Version-
     4.  Serenade -Instrumental-
@@ -67,24 +67,24 @@
     7.  二人の季節
     8.  ゆるい愛の日々
     9.  Angel
-    10. 忘れない… 〜さよなら大好きな人〜 feat.J’Q(VIVID Neon\*)（花\*花の「[さよなら 大好きな人](https://ja.wikipedia.org/wiki/さよなら_大好きな人 "wikilink")」をサンプリング）
+    10. 忘れない… 〜さよなら大好きな人〜 feat.J’Q(VIVID Neon\*)（花\*花の「[さよなら 大好きな人](../Page/さよなら_大好きな人.md "wikilink")」をサンプリング）
     11. あーあなたに出逢えてよかった -口笛 Bossa Reprise-
 
 ## 参加したミュージシャン
 
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
-  - [HI-D](https://ja.wikipedia.org/wiki/HI-D "wikilink")
+  - [HI-D](../Page/HI-D.md "wikilink")
   - [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")
   - [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")
   - [NIVEA](https://ja.wikipedia.org/wiki/NIVEA "wikilink")
-  - [Vlidge](https://ja.wikipedia.org/wiki/Vlidge "wikilink")
+  - [Vlidge](../Page/Vlidge.md "wikilink")
 
 ## 関連項目
 
   - [宮地大輔](https://ja.wikipedia.org/wiki/宮地大輔 "wikilink")
   - [今井大介](https://ja.wikipedia.org/wiki/今井大介 "wikilink")
-  - [藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [藤林聖子](../Page/藤林聖子.md "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

@@ -1,18 +1,18 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**トンコツTV**』（トンコツテレビ）は、[九州](../Page/九州.md "wikilink")・[沖縄地域の](../Page/沖縄県.md "wikilink")[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")から4年度に跨って放送された[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")・[NHK九州メディス→NHKプラネット九州支社制作](https://ja.wikipedia.org/wiki/NHKプラネット "wikilink")。
+『**トンコツTV**』（トンコツテレビ）は、[九州](../Page/九州.md "wikilink")・[沖縄地域の](../Page/沖縄県.md "wikilink")[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で[2007年](../Page/2007年.md "wikilink")から4年度に跨って放送された[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")・[NHK九州メディス→NHKプラネット九州支社制作](https://ja.wikipedia.org/wiki/NHKプラネット "wikilink")。
 
 2008年度からFMで3年放送された『**[トンコツRADIO](https://ja.wikipedia.org/wiki/#トンコツRADIO "wikilink")**』（トンコツラジオ）についても、併せて詳述する。
 
 ## 概要
 
-福岡局では以前から、若者の才能を発掘する番組として、[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")と[氷川きよし](../Page/氷川きよし.md "wikilink")を司会に起用した『f45』や、華丸・大吉に加え『[なんしよ～ん\!?北九州](https://ja.wikipedia.org/wiki/なんしよ～ん!?北九州 "wikilink")』にも出演していた[中村有志](https://ja.wikipedia.org/wiki/中村有志 "wikilink")を起用した『BE Sharp\!\!ふくおか情熱王』などを放送していた。この『トンコツTV』もその系譜に属する番組であり、地域の若者の才能を発掘する内容となっていた。
+福岡局では以前から、若者の才能を発掘する番組として、[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")と[氷川きよし](../Page/氷川きよし.md "wikilink")を司会に起用した『f45』や、華丸・大吉に加え『[なんしよ～ん\!?北九州](https://ja.wikipedia.org/wiki/なんしよ～ん!?北九州 "wikilink")』にも出演していた[中村有志](../Page/中村有志.md "wikilink")を起用した『BE Sharp\!\!ふくおか情熱王』などを放送していた。この『トンコツTV』もその系譜に属する番組であり、地域の若者の才能を発掘する内容となっていた。
 
-[収録](../Page/収録.md "wikilink")会場は当初[キャナルシティ博多](../Page/キャナルシティ博多.md "wikilink")が充てられ、番組[リハーサル](../Page/リハーサル.md "wikilink")の様子からの全てが公開されたほか、収録当日は[携帯電話](../Page/携帯電話.md "wikilink")を使った企画や、会場限定のイベントなども行われた。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")の番組開始に先立ち、立ち上げ時の司会であった[守本奈実](https://ja.wikipedia.org/wiki/守本奈実 "wikilink")が[FM福岡など地元の](../Page/エフエム福岡.md "wikilink")[民放ラジオ](../Page/民間放送.md "wikilink")3社の番組に出演するという、防災関連企画以外では異例とも言える対応がとられた。
+[収録](../Page/収録.md "wikilink")会場は当初[キャナルシティ博多](../Page/キャナルシティ博多.md "wikilink")が充てられ、番組[リハーサル](../Page/リハーサル.md "wikilink")の様子からの全てが公開されたほか、収録当日は[携帯電話](../Page/携帯電話.md "wikilink")を使った企画や、会場限定のイベントなども行われた。[2007年](../Page/2007年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")の番組開始に先立ち、立ち上げ時の司会であった[守本奈実](../Page/守本奈実.md "wikilink")が[FM福岡など地元の](../Page/エフエム福岡.md "wikilink")[民放ラジオ](../Page/民間放送.md "wikilink")3社の番組に出演するという、防災関連企画以外では異例とも言える対応がとられた。
 
   - 2008年度以降
-    2008年度以降は、放送回数こそ変えないものの金曜夜の『[九州沖縄スペシャル](../Page/九州沖縄スペシャル.md "wikilink")』枠に移った。これに合わせ番組のスタイルが“ガチンコバトル”形式に改められ、会場の観客50人の意見を参考にしながら、ゲスト陣が最も応援したい人「三ツ星トンコツアーティスト」を選出。選ばれた[アーティストについては放送されたときの映像から](https://ja.wikipedia.org/wiki/音楽家 "wikilink")1分・2分の[スポット](https://ja.wikipedia.org/wiki/スポット "wikilink")が作られ、トータルで50回放送された。これにより映像も出演アーティスト主体となり、[MCの役割も単なる番組進行となった](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+    2008年度以降は、放送回数こそ変えないものの金曜夜の『[九州沖縄スペシャル](../Page/九州沖縄スペシャル.md "wikilink")』枠に移った。これに合わせ番組のスタイルが“ガチンコバトル”形式に改められ、会場の観客50人の意見を参考にしながら、ゲスト陣が最も応援したい人「三ツ星トンコツアーティスト」を選出。選ばれた[アーティストについては放送されたときの映像から](https://ja.wikipedia.org/wiki/音楽家 "wikilink")1分・2分の[スポット](../Page/スポット.md "wikilink")が作られ、トータルで50回放送された。これにより映像も出演アーティスト主体となり、[MCの役割も単なる番組進行となった](../Page/司会.md "wikilink")。
 
 <!-- end list -->
 
@@ -32,10 +32,10 @@
 
 <!-- end list -->
 
-  - 収録日：[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月17日
-  - 本放送（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")内の[総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）：2007年6月24日 13:05 - 13:48
+  - 収録日：[2007年](../Page/2007年.md "wikilink")6月17日
+  - 本放送（[福岡県](../Page/福岡県.md "wikilink")内の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）：2007年6月24日 13:05 - 13:48
       -
-        なお、これにより『[笑いがいちばん](https://ja.wikipedia.org/wiki/笑いがいちばん "wikilink")』、『[ふだん着の温泉](../Page/ふだん着の温泉.md "wikilink")』などは休止。
+        なお、これにより『[笑いがいちばん](../Page/笑いがいちばん.md "wikilink")』、『[ふだん着の温泉](../Page/ふだん着の温泉.md "wikilink")』などは休止。
   - 再放送（九州・沖縄の総合テレビ）：2007年[8月12日](../Page/8月12日.md "wikilink") 1:10 - 1:53
       -
         11日深夜。福岡以外の九州・沖縄各県は初回放送。
@@ -81,9 +81,9 @@
   - [カンニング竹山](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")（第1回のみ）
   - ラーメン店の大将：大塚ムネト（第2回から第11回まで）
       -
-        劇団「[ギンギラ太陽'S](https://ja.wikipedia.org/wiki/ギンギラ太陽'S "wikilink")」座長。
+        劇団「[ギンギラ太陽'S](../Page/ギンギラ太陽'S.md "wikilink")」座長。
   - トン・ニーノ（[T-Pistonz+KMC](https://ja.wikipedia.org/wiki/T-Pistonz+KMC "wikilink")。第12回）
-  - [守本奈実](https://ja.wikipedia.org/wiki/守本奈実 "wikilink")（第7回まで）
+  - [守本奈実](../Page/守本奈実.md "wikilink")（第7回まで）
       -
         転勤により降板。
   - [藤井まどか](../Page/藤井まどか.md "wikilink")（第8回から第11回まで）
@@ -105,7 +105,7 @@
 
 <!-- end list -->
 
-  - [深町健二郎](https://ja.wikipedia.org/wiki/深町健二郎 "wikilink")
+  - [深町健二郎](../Page/深町健二郎.md "wikilink")
 
 ### パフォーマー・トンコツサミット
 
@@ -150,7 +150,7 @@
 </ul></td>
 <td><ul>
 <li>河原成美</li>
-<li><a href="https://ja.wikipedia.org/wiki/日野晃博" title="wikilink">日野晃博</a></li>
+<li><a href="../Page/日野晃博.md" title="wikilink">日野晃博</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -180,7 +180,7 @@
 三ツ星：Hirugi.co（ヒルギ）</p></td>
 <td><ul>
 <li>パパイヤ鈴木</li>
-<li><a href="https://ja.wikipedia.org/wiki/鮎川誠" title="wikilink">鮎川誠</a>・<a href="https://ja.wikipedia.org/wiki/シーナ&amp;ロケッツ" title="wikilink">シーナ夫妻</a></li>
+<li><a href="../Page/鮎川誠.md" title="wikilink">鮎川誠</a>・<a href="https://ja.wikipedia.org/wiki/シーナ&amp;ロケッツ" title="wikilink">シーナ夫妻</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -192,7 +192,7 @@
 三ツ星：呑トリオ（どんとりお）</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/つんく♂" title="wikilink">つんく♂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/南流石" title="wikilink">南流石</a></li>
+<li><a href="../Page/南流石.md" title="wikilink">南流石</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -203,8 +203,8 @@
 <td><p>（5組出演）<br />
 三ツ星：<a href="https://ja.wikipedia.org/wiki/井上愛_(歌手)" title="wikilink">井上愛</a>[4]</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/マーティ・フリードマン" title="wikilink">マーティ・フリードマン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/夏まゆみ" title="wikilink">夏まゆみ</a></li>
+<li><a href="../Page/マーティ・フリードマン.md" title="wikilink">マーティ・フリードマン</a></li>
+<li><a href="../Page/夏まゆみ.md" title="wikilink">夏まゆみ</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -215,7 +215,7 @@
 <td><p>（5組出演）<br />
 三ツ星：Zero-3[5]</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/笠浩二" title="wikilink">笠浩二</a>（<a href="https://ja.wikipedia.org/wiki/C-C-B" title="wikilink">C-C-B</a>）</li>
+<li><a href="../Page/笠浩二.md" title="wikilink">笠浩二</a>（<a href="../Page/C-C-B.md" title="wikilink">C-C-B</a>）</li>
 <li><a href="../Page/KABA.ちゃん.md" title="wikilink">KABA.ちゃん</a></li>
 </ul></td>
 </tr>
@@ -228,7 +228,7 @@
 三ツ星：<a href="https://ja.wikipedia.org/wiki/ミサンガ_(音楽グループ)" title="wikilink">ミサンガ</a></p></td>
 <td><ul>
 <li><a href="../Page/ラッキィ池田.md" title="wikilink">ラッキィ池田</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/吉俣良" title="wikilink">吉俣良</a>[6]</li>
+<li><a href="../Page/吉俣良.md" title="wikilink">吉俣良</a>[6]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -240,7 +240,7 @@
 三ツ星：伊藤祥平</p></td>
 <td><ul>
 <li><a href="../Page/コロッケ_(タレント).md" title="wikilink">コロッケ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/はたけ" title="wikilink">はたけ</a>（<a href="../Page/シャ乱Q.md" title="wikilink">シャ乱Q</a>）</li>
+<li><a href="../Page/はたけ.md" title="wikilink">はたけ</a>（<a href="../Page/シャ乱Q.md" title="wikilink">シャ乱Q</a>）</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -253,7 +253,7 @@
 三ツ星：SMALL HANDS</p></td>
 <td><ul>
 <li>ラッキィ池田</li>
-<li><a href="https://ja.wikipedia.org/wiki/井上ヨシマサ" title="wikilink">井上ヨシマサ</a></li>
+<li><a href="../Page/井上ヨシマサ.md" title="wikilink">井上ヨシマサ</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -265,7 +265,7 @@
 三ツ星：CHANCY[13]</p></td>
 <td><ul>
 <li><a href="../Page/泉谷しげる.md" title="wikilink">泉谷しげる</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/鶴久政治" title="wikilink">鶴久政治</a></li>
+<li><a href="../Page/鶴久政治.md" title="wikilink">鶴久政治</a></li>
 <li>RYON・RYON</li>
 </ul></td>
 </tr>
@@ -280,7 +280,7 @@
 九州男児Jr.[16]</p></td>
 <td><ul>
 <li>鶴久政治</li>
-<li><a href="https://ja.wikipedia.org/wiki/中村あゆみ" title="wikilink">中村あゆみ</a></li>
+<li><a href="../Page/中村あゆみ.md" title="wikilink">中村あゆみ</a></li>
 <li><a href="../Page/HITOE.md" title="wikilink">HITOE</a>（<a href="https://ja.wikipedia.org/wiki/SPEED" title="wikilink">SPEED</a>）</li>
 </ul></td>
 </tr>
@@ -291,7 +291,7 @@
 
 ### 概要（トンコツRADIO）
 
-2008年度、九州・沖縄地域の[FM放送で新たに始められた番組](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")。原則毎月放送することにより、いわばテレビ版の予選番組としての役割を担い、かつテレビ版の最新情報についても提供された。
+2008年度、九州・沖縄地域の[FM放送で新たに始められた番組](../Page/NHK-FM放送.md "wikilink")。原則毎月放送することにより、いわばテレビ版の予選番組としての役割を担い、かつテレビ版の最新情報についても提供された。
 
 なお、『[トン☆スタ](https://ja.wikipedia.org/wiki/トン☆スタ "wikilink")』通常版は[ラジオ番組](../Page/ラジオ番組.md "wikilink")を引き継いでいる。
 
@@ -342,12 +342,12 @@
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:九州・沖縄地方のNHKの地域テレビ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のNHKの地域テレビ番組 "wikilink") [Category:NHK総合テレビジョンの地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの地域番組 "wikilink") [Category:NHK総合テレビジョン金曜夜の地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン金曜夜の地域番組 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:NHK九州沖縄ブロック](https://ja.wikipedia.org/wiki/Category:NHK九州沖縄ブロック "wikilink")
 
 1.  過去数回、キャナルシティでの収録は雨にたたられていた。
-2.  [早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")大学院教授
-3.  [ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")チェーン店「[博多一風堂](https://ja.wikipedia.org/wiki/博多一風堂 "wikilink")」を展開する[力の源カンパニー](https://ja.wikipedia.org/wiki/力の源カンパニー "wikilink")社長。
-4.  [2002年](../Page/2002年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に[岡垣サンリーアイ](https://ja.wikipedia.org/wiki/岡垣サンリーアイ "wikilink")で行われた『[NHKのど自慢](https://ja.wikipedia.org/wiki/NHKのど自慢 "wikilink")』で、当時高校1年でその週のチャンピオンとなった。その後メジャーデビューを目指すことが決まり、大学卒業とともに上京。
+2.  [早稲田大学](../Page/早稲田大学.md "wikilink")大学院教授
+3.  [ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")チェーン店「[博多一風堂](../Page/博多一風堂.md "wikilink")」を展開する[力の源カンパニー](../Page/力の源カンパニー.md "wikilink")社長。
+4.  [2002年](../Page/2002年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[岡垣サンリーアイ](https://ja.wikipedia.org/wiki/岡垣サンリーアイ "wikilink")で行われた『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』で、当時高校1年でその週のチャンピオンとなった。その後メジャーデビューを目指すことが決まり、大学卒業とともに上京。
 5.  ダンス系のユニットとしては初の三ツ星獲得。
 6.  鹿児島県出身、『[篤姫](https://ja.wikipedia.org/wiki/篤姫_\(NHK大河ドラマ\) "wikilink")』テーマ音楽担当。藤井が“入店”したということでのゲスト起用。
-7.  [北九州局は](../Page/NHK北九州放送局.md "wikilink")、[北九州スペシャル](https://ja.wikipedia.org/wiki/北九州スペシャル "wikilink")『[Jへの道](../Page/日本プロサッカーリーグ.md "wikilink")〜[ニューウェーブ](https://ja.wikipedia.org/wiki/ギラヴァンツ北九州 "wikilink")・前半戦をふりかえる〜』、[沖縄局は](../Page/NHK沖縄放送局.md "wikilink")、[沖縄の歌と踊り](../Page/沖縄の歌と踊り.md "wikilink")『島唄を歌い継ぐ〜若手民謡歌手特集〜・後編』を、それぞれ放送したため、後日再放送で対応。
+7.  [北九州局は](../Page/NHK北九州放送局.md "wikilink")、[北九州スペシャル](https://ja.wikipedia.org/wiki/北九州スペシャル "wikilink")『[Jへの道](../Page/日本プロサッカーリーグ.md "wikilink")〜[ニューウェーブ](../Page/ギラヴァンツ北九州.md "wikilink")・前半戦をふりかえる〜』、[沖縄局は](../Page/NHK沖縄放送局.md "wikilink")、[沖縄の歌と踊り](../Page/沖縄の歌と踊り.md "wikilink")『島唄を歌い継ぐ〜若手民謡歌手特集〜・後編』を、それぞれ放送したため、後日再放送で対応。
 8.  第1回出演後、メジャーデビューを果たし、この回はゲストとして凱旋した。
 9.  [大分局は](../Page/NHK大分放送局.md "wikilink")、月1回の定期番組である『[ししまるTV](https://ja.wikipedia.org/wiki/ししまるTV "wikilink")』、沖縄局は、沖縄の歌と踊り『現代明朗歌劇〜美人の妻　情けの妻』を、それぞれ放送したため、後日再放送で対応。
 10. 当時の豚骨ピストンズヴォーカルとして第1回のオープニングを飾った。ラジオ版MC。

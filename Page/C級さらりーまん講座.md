@@ -1,7 +1,7 @@
 > この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
 
 
-『**C級さらりーまん講座**』（シーきゅうさらりーまんこうざ）は、[山科けいすけ](https://ja.wikipedia.org/wiki/山科けいすけ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")。『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載中。[2011年](../Page/2011年.md "wikilink")の15号で連載500回を達成している。単行本はすべてハードカバーで刊行されている。
+『**C級さらりーまん講座**』（シーきゅうさらりーまんこうざ）は、[山科けいすけ](../Page/山科けいすけ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")。『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載中。[2011年](../Page/2011年.md "wikilink")の15号で連載500回を達成している。単行本はすべてハードカバーで刊行されている。
 
 1994年に[文藝春秋漫画賞](../Page/文藝春秋漫画賞.md "wikilink")、2011年に[手塚治虫文化賞](../Page/手塚治虫文化賞.md "wikilink")の短編賞を受賞している。
 

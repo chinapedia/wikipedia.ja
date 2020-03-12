@@ -1,13 +1,13 @@
 > この記事は[STACKED RUBBISH](https://ja.wikipedia.org/wiki/STACKED_RUBBISH)から翻訳されています。
 
 
-『**STACKED RUBBISH**』（スタックド・ラビッシュ）は、[the GazettEの](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+『**STACKED RUBBISH**』（スタックド・ラビッシュ）は、[the GazettEの](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 概要
 
 3枚の先行シングルから4曲が収録されたガゼット3枚目のオリジナルアルバム。初めて、戒の原曲が収録されている。初回限定盤と通常盤の２パターンでの発売。初回盤は特殊パッケージ仕様・ブックレット付、CD＋DVD2枚組で、通常盤はCDのみの仕様になっている。
 
-初回盤付属の[DVD](../Page/DVD.md "wikilink")にはこれまで[PVが](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")1曲のみ収録されていたが、今作では2曲収録された。また、従来のシングル、アルバムのタイトル曲にルキの曲が採用されてきたのに対し、今作では葵の原曲がタイトル曲として採用された。ジャケットは実在する廃墟を撮影した写真が用いられている。
+初回盤付属の[DVD](../Page/DVD.md "wikilink")にはこれまで[PVが](../Page/ミュージック・ビデオ.md "wikilink")1曲のみ収録されていたが、今作では2曲収録された。また、従来のシングル、アルバムのタイトル曲にルキの曲が採用されてきたのに対し、今作では葵の原曲がタイトル曲として採用された。ジャケットは実在する廃墟を撮影した写真が用いられている。
 
 発売後行われたこのアルバムの世界観を据えたライブツアー「TOUR07-08 STACKED RUBBISH Pulse Wriggling To Black」では、それぞれ「01、02、03、04」と銘打ち、年を跨いでホール会場、スタンディング会場、ファンクラブ限定、ホール会場とそれぞれ回数を分けて展開された。また01と02の間の2007年10月には「1.5」として初の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でのライブツアーを行った。ファイナルは「GRAND FINALE REPEATED COUNTLESS ERROR」として、バンド初となる、[大阪城ホール](../Page/大阪城ホール.md "wikilink")及び[代々木第一体育館](https://ja.wikipedia.org/wiki/代々木第一体育館 "wikilink")での2daysを持って締めくくられた。
 

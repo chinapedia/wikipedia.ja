@@ -1,9 +1,9 @@
 > この記事は[XML Process Definition Language](https://ja.wikipedia.org/wiki/XML_Process_Definition_Language)から翻訳されています。
 
 
-**[XML](../Page/Extensible_Markup_Language.md "wikilink") Process Definition Language**（**XPDL**）とは、[ワークフロー](https://ja.wikipedia.org/wiki/ワークフロー "wikilink")製品間（モデリングエンジンやワークフローエンジン）で[ビジネスプロセス](https://ja.wikipedia.org/wiki/ビジネスプロセス "wikilink")定義を交換するために定義された標準形式であり、Workflow Management Coalition (WfMC) が策定した。XPDL はワークフローの宣言部を記述するためのXMLスキーマを定義している。
+**[XML](../Page/Extensible_Markup_Language.md "wikilink") Process Definition Language**（**XPDL**）とは、[ワークフロー](../Page/ワークフロー.md "wikilink")製品間（モデリングエンジンやワークフローエンジン）で[ビジネスプロセス](../Page/ビジネスプロセス.md "wikilink")定義を交換するために定義された標準形式であり、Workflow Management Coalition (WfMC) が策定した。XPDL はワークフローの宣言部を記述するためのXMLスキーマを定義している。
 
-XPDL はビジネスプロセスのワークフローを視覚的にも意味的にも定式化して交換するために設計された。XPDL には、活動ノードの2次元座標やノード間の接続のための線の座標といった情報を含んでいる。XPDL がこのような図としての情報を持つ点が類似の形式である [BPEL](https://ja.wikipedia.org/wiki/BPEL "wikilink") と大きく異なる点である。BPEL はむしろプロセスの実行的側面に注目した形式であり、ワークフローを図示することは考慮していない。
+XPDL はビジネスプロセスのワークフローを視覚的にも意味的にも定式化して交換するために設計された。XPDL には、活動ノードの2次元座標やノード間の接続のための線の座標といった情報を含んでいる。XPDL がこのような図としての情報を持つ点が類似の形式である [BPEL](../Page/BPEL.md "wikilink") と大きく異なる点である。BPEL はむしろプロセスの実行的側面に注目した形式であり、ワークフローを図示することは考慮していない。
 
 ## 歴史
 

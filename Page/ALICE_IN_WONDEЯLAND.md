@@ -1,11 +1,11 @@
 > この記事は[ALICE IN WONDELAND](https://ja.wikipedia.org/wiki/ALICE_IN_WONDELAND)から翻訳されています。
 
 
-『**ALICE IN WONDEЯLAND**』（アリス・イン・ワンダーランド）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[アリス九號.](https://ja.wikipedia.org/wiki/アリス九號. "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。
+『**ALICE IN WONDEЯLAND**』（アリス・イン・ワンダーランド）は、[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[アリス九號.](../Page/アリス九號..md "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
-  - 2005年7月27日に限定10000枚完売。のち[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に再発。
+  - 2005年7月27日に限定10000枚完売。のち[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に再発。
 
 ## 収録曲
 

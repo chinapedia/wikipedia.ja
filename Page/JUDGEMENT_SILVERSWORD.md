@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ワンダースワン](../Page/ワンダースワン.md "wikilink")のプログラム開発ソフト[ワンダーウィッチ](https://ja.wikipedia.org/wiki/ワンダーウィッチ "wikilink")のソフトウェアコンテスト「WWGP2001」でグランプリを受賞。[ワンダースワンカラー](https://ja.wikipedia.org/wiki/ワンダースワンカラー "wikilink")および[スワンクリスタル](https://ja.wikipedia.org/wiki/スワンクリスタル "wikilink")専用で、縦向きに持ってプレイするスタイルとなっており、アーケードゲームの縦スクロールSTGのような感覚を味わえる。携帯ゲーム機の作品でありながら、シンプルなゲームシステムと各ステージでの充実した内容であった。
+[ワンダースワン](../Page/ワンダースワン.md "wikilink")のプログラム開発ソフト[ワンダーウィッチ](../Page/ワンダーウィッチ.md "wikilink")のソフトウェアコンテスト「WWGP2001」でグランプリを受賞。[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")および[スワンクリスタル](../Page/スワンクリスタル.md "wikilink")専用で、縦向きに持ってプレイするスタイルとなっており、アーケードゲームの縦スクロールSTGのような感覚を味わえる。携帯ゲーム機の作品でありながら、シンプルなゲームシステムと各ステージでの充実した内容であった。
 
 その後、『JUDGEMENT SILVERSWORD -Rebirth Edition-（ジャッジメント・シルバーソード リバースエディション）』と改題し、内容を強化してキュートから製品化された。製品版は出荷数が少なく、プレミアが付いた。その後、発売元を変え、不定期に再発売された。
 
@@ -37,7 +37,7 @@
 
 ## 関連項目
 
-  - [DicingKnight.](https://ja.wikipedia.org/wiki/DicingKnight. "wikilink") - [紫雨陽樹による](../Page/PlatineDispositif.md "wikilink")[ワンダーウィッチ](https://ja.wikipedia.org/wiki/ワンダーウィッチ "wikilink")で制作されたソフト。「JUDGEMENT SILVERSWORD -Rebirth Edition-」の次に発売されたワンダースワン最後のソフトである。
+  - [DicingKnight.](https://ja.wikipedia.org/wiki/DicingKnight. "wikilink") - [紫雨陽樹による](../Page/PlatineDispositif.md "wikilink")[ワンダーウィッチ](../Page/ワンダーウィッチ.md "wikilink")で制作されたソフト。「JUDGEMENT SILVERSWORD -Rebirth Edition-」の次に発売されたワンダースワン最後のソフトである。
   - [エスカトス](https://ja.wikipedia.org/wiki/エスカトス "wikilink") - M-KAIが関わっているSTG。システムが本作をベースにしたものになっている。本作および派生作の2つが移植されている。
   - [steam](https://ja.wikipedia.org/wiki/steam "wikilink") - エスカトスともに配信されている（別売）。
 

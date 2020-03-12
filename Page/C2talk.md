@@ -16,11 +16,11 @@
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月、c2talkが提供開始された。このときのバージョンは、なぜか1.2。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月、ブラウザが組み込まれたバージョン1.3がリリースになる。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月、賞金総額100万円のカレンダーコンテスト開催。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")11月、c2talk 2.0提供開始。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月、[インフォテリア](https://ja.wikipedia.org/wiki/インフォテリア "wikilink")株式会社の子会社[インフォテリア・オンライン](https://ja.wikipedia.org/wiki/インフォテリア・オンライン "wikilink")株式会社に販売が移管された。
+  - [2006年](../Page/2006年.md "wikilink")8月、c2talkが提供開始された。このときのバージョンは、なぜか1.2。
+  - [2007年](../Page/2007年.md "wikilink")1月、ブラウザが組み込まれたバージョン1.3がリリースになる。
+  - [2007年](../Page/2007年.md "wikilink")2月、賞金総額100万円のカレンダーコンテスト開催。
+  - [2007年](../Page/2007年.md "wikilink")11月、c2talk 2.0提供開始。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月、[インフォテリア](https://ja.wikipedia.org/wiki/インフォテリア "wikilink")株式会社の子会社[インフォテリア・オンライン](../Page/インフォテリア・オンライン.md "wikilink")株式会社に販売が移管された。
 
 ## 外部リンク
 

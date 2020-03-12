@@ -29,7 +29,7 @@
     5.  さよならだけは・・・
 2.  **ポルト-porte-**（2005年3月2日/2005年10月19日）
     1.  かげ
-    2.  光のしずく（TBS系「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」2005年3月度エンディングテーマ）
+    2.  光のしずく（TBS系「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2005年3月度エンディングテーマ）
     3.  輝きの中で
     4.  夕焼け
     5.  空にだかれて

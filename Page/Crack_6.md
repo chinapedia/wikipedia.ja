@@ -1,29 +1,29 @@
 > この記事は[Crack 6](https://ja.wikipedia.org/wiki/Crack_6)から翻訳されています。
 
 
-**Crack6**（クラックシックス）は、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")が2003年にスタートさせたソロ・プロジェクト。CDリリースは自主レーベル[shelva records](https://ja.wikipedia.org/wiki/shelva_records "wikilink")。DUPLEX DEVELOPMENTS JAPANに所属。プロジェクトリニューアル前はeuclid agancyに所属していた。2013年12月25日発売のアルバム『6 elements』は[Cutting edgeよりCDリリース](https://ja.wikipedia.org/wiki/Cutting_edge "wikilink")。Crack6での名義は[千聖](../Page/千聖.md "wikilink")が**MSTR**、重盛美晴が**SHIGE**となっている。MSTRとSHIGE以外のメンバーは流動的である。千聖曰く、Crack6のコンセプトは『**Hybrid Music Project**』とのこと。 2008年6月に一旦活動休止するが、2009年7月からプロジェクトをリニューアルしプロジェクトを再開することとなった。
+**Crack6**（クラックシックス）は、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")が2003年にスタートさせたソロ・プロジェクト。CDリリースは自主レーベル[shelva records](https://ja.wikipedia.org/wiki/shelva_records "wikilink")。DUPLEX DEVELOPMENTS JAPANに所属。プロジェクトリニューアル前はeuclid agancyに所属していた。2013年12月25日発売のアルバム『6 elements』は[Cutting edgeよりCDリリース](../Page/Cutting_edge.md "wikilink")。Crack6での名義は[千聖](../Page/千聖.md "wikilink")が**MSTR**、重盛美晴が**SHIGE**となっている。MSTRとSHIGE以外のメンバーは流動的である。千聖曰く、Crack6のコンセプトは『**Hybrid Music Project**』とのこと。 2008年6月に一旦活動休止するが、2009年7月からプロジェクトをリニューアルしプロジェクトを再開することとなった。
 
 ## メンバー
 
   - **[MSTR](https://ja.wikipedia.org/wiki/MSTR "wikilink")**：Vocal＆[Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink")、作詞＆作曲、首謀者
   - **SHIGE ROCKS**：[Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink")&[Sound Producer](https://ja.wikipedia.org/wiki/Sound_Producer "wikilink")
   - **JIRO 6 ([O-JIRO](https://ja.wikipedia.org/wiki/O-JIRO "wikilink") from [PENICILLIN](../Page/PENICILLIN.md "wikilink"))**：[Drums](https://ja.wikipedia.org/wiki/Drums "wikilink")
-  - **TENZIXX (長野 典二 from [everset](https://ja.wikipedia.org/wiki/everset "wikilink"))**：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")\&Chorus
+  - **TENZIXX (長野 典二 from [everset](https://ja.wikipedia.org/wiki/everset "wikilink"))**：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")\&Chorus
 
 ## 現在までの参加アーティスト
 
 ### Drums
 
   - **KENT**
-  - **HOTEL桜井**([Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink"))
+  - **HOTEL桜井**([Dragon Ash](../Page/Dragon_Ash.md "wikilink"))
   - **HIMA SICKS**([DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink") & [SAMURAI DEAD CITY](https://ja.wikipedia.org/wiki/SAMURAI_DEAD_CITY "wikilink"))
-  - **[淳士](../Page/淳士.md "wikilink")**([SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink") & [BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink"))
+  - **[淳士](../Page/淳士.md "wikilink")**([SIAM SHADE](../Page/SIAM_SHADE.md "wikilink") & [BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink"))
   - **輝喜**([アンティック-珈琲店-](../Page/アンティック-珈琲店-.md "wikilink"))
 
 ### Bass
 
   - **miya38**([TYPHOON24](https://ja.wikipedia.org/wiki/TYPHOON24 "wikilink")）
-  - **IKUZONE**([Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink"))
+  - **IKUZONE**([Dragon Ash](../Page/Dragon_Ash.md "wikilink"))
   - **JUN**
   - **TOWA**
   - **うしろから前川**([ピンクフラミンゴMG](https://ja.wikipedia.org/wiki/ピンクフラミンゴMG "wikilink"))
@@ -40,7 +40,7 @@
 
 ### Rap
 
-  - **SOTARO**'([ZZ](https://ja.wikipedia.org/wiki/ZZ_\(バンド\) "wikilink"))
+  - **SOTARO**'([ZZ](../Page/ZZ_\(バンド\).md "wikilink"))
   - **ソウルドグロート**([ピンクフラミンゴMG](https://ja.wikipedia.org/wiki/ピンクフラミンゴMG "wikilink"))
   - **魔梵**
 
@@ -120,7 +120,7 @@
 
   - [PENICILLIN](../Page/PENICILLIN.md "wikilink")
   - [CrackZ](https://ja.wikipedia.org/wiki/CrackZ "wikilink")
-  - [ZZ](https://ja.wikipedia.org/wiki/ZZ_\(バンド\) "wikilink")
+  - [ZZ](../Page/ZZ_\(バンド\).md "wikilink")
 
 ## 外部リンク
 

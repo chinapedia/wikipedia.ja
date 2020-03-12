@@ -1,7 +1,7 @@
 > この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
 
 
-**道の駅遊YOUさろん東城**（みちのえき ゆうゆうさろんとうじょう）は、[広島県](../Page/広島県.md "wikilink")[庄原市](https://ja.wikipedia.org/wiki/庄原市 "wikilink")にある[国道182号](../Page/国道182号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
+**道の駅遊YOUさろん東城**（みちのえき ゆうゆうさろんとうじょう）は、[広島県](../Page/広島県.md "wikilink")[庄原市](../Page/庄原市.md "wikilink")にある[国道182号](../Page/国道182号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
 
 ## 施設
 
@@ -22,7 +22,7 @@
   - 売店
   - 休憩所
   - 情報コーナー
-  - [ベビーベッド](https://ja.wikipedia.org/wiki/ベビーベッド "wikilink")
+  - [ベビーベッド](../Page/ベビーベッド.md "wikilink")
 
 ## 休館日
 
@@ -32,7 +32,7 @@
 
   - [国道182号](../Page/国道182号.md "wikilink") - 登録路線
       - [国道314号](../Page/国道314号.md "wikilink")
-  - [中国自動車道](../Page/中国自動車道.md "wikilink")[東城IC](https://ja.wikipedia.org/wiki/東城インターチェンジ "wikilink")
+  - [中国自動車道](../Page/中国自動車道.md "wikilink")[東城IC](../Page/東城インターチェンジ.md "wikilink")
 
 ## 周辺
 
@@ -40,8 +40,8 @@
 
 ## 関連項目
 
-  - [道の駅一覧 や-わ行](https://ja.wikipedia.org/wiki/道の駅一覧_や-わ行 "wikilink")
-  - [道の駅一覧 中国地方](https://ja.wikipedia.org/wiki/道の駅一覧_中国地方 "wikilink")
+  - [道の駅一覧 や-わ行](../Page/道の駅一覧_や-わ行.md "wikilink")
+  - [道の駅一覧 中国地方](../Page/道の駅一覧_中国地方.md "wikilink")
 
 ## 外部リンク
 

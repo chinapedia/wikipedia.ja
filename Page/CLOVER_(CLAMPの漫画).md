@@ -1,11 +1,11 @@
 > この記事は[CLOVER \(CLAMP\)](https://ja.wikipedia.org/wiki/CLOVER_\(CLAMP\))から翻訳されています。
 
 
-『**CLOVER**』（クローバー）は[CLAMP](https://ja.wikipedia.org/wiki/CLAMP "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**CLOVER**』（クローバー）は[CLAMP](../Page/CLAMP.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 ## 概要
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1999年](../Page/1999年.md "wikilink")まで「[Amie](https://ja.wikipedia.org/wiki/Amie "wikilink")」（[講談社](../Page/講談社.md "wikilink")）で連載され、1999年にアニメ映画化された。しかし、掲載誌の発行部数の伸び悩みなどにより、「Amie」は休刊。それと同時に、漫画のほうも連載停止に追い込まれた。現在までのところ、単行本は第4巻まで発売。続刊発売の目処は立っていない様子。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1999年](../Page/1999年.md "wikilink")まで「[Amie](../Page/Amie.md "wikilink")」（[講談社](../Page/講談社.md "wikilink")）で連載され、1999年にアニメ映画化された。しかし、掲載誌の発行部数の伸び悩みなどにより、「Amie」は休刊。それと同時に、漫画のほうも連載停止に追い込まれた。現在までのところ、単行本は第4巻まで発売。続刊発売の目処は立っていない様子。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に、既刊4巻を2冊に分けて収録しなおした**新装版**を、KCDXから2冊同時に刊行している。[2004年](../Page/2004年.md "wikilink")10月に発売されたパートワーク『CLAMPノキセキ』vol.2のCLOVER特集の中で、CLAMP自身が『CLOVER』は4部構成で第5巻、6巻で作品が完結するというコメントを発表した。しかし2014年の時点では、公式サイトの作品紹介ではほかの休載中の作品（『[X](../Page/X_\(漫画\).md "wikilink")』、『[GATE7](https://ja.wikipedia.org/wiki/GATE7 "wikilink")』）とは違い、完結作品とされている。
 
@@ -31,13 +31,13 @@
   - 銀月（ぎんげつ）
     "二葉"のクローバーである軍人。階級は中佐。秘色部隊の隊長で和彦の元上司。現在でもその交流は続き、和彦と約束をしている。藍を引き取るために、頭に自爆装置を埋め込んでいる。入れ墨は左手首。スウの輸送にも和彦とは別に、紘将軍から二人の護衛を依頼されていた。
   - 藍（らん）
-    声：[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")
+    声：[谷山紀章](../Page/谷山紀章.md "wikilink")
     "三つ葉"のクローバーである青年。「藍」という名前は銀月が付けたもので、研究所にいたころは「C（ツェー）」と呼ばれていた。「A（アー）」という双子の弟がいる。セキュリティがしっかりした所にいることを条件に外に出ることを許され、銀月と共に暮らしている。
     スウには及ばないが、装置なしで人を移動させることが可能。外に出ることは許されたが、研究所を離れると長くても5年の命というリスクがあり、実際に銀月の元で暮らしていた僅か2年の間に、子供から大人へと成長している。弟とは違い、従順で大人しい性格をしている。
   - 白豹（バルス）
     アズライト軍に所属する、和彦の宿敵。スウを狙っている。和彦とは顔見知りで、彼のことを気に入っており、ふざけて「王子様」と呼んでいる。かつて和彦と戦い、その右手を切り落とした男であり、現在は剥製にして枕元に飾ってある。
   - 織葉（おるは）
-    和彦の恋人。ライブハウスの歌手。"一葉"のクローバーで、能力は自分の死ぬ日が分かるということだけ。入れ墨は胸にあるがあとから自分で入れたのか、[カタバミ](https://ja.wikipedia.org/wiki/カタバミ "wikilink")のような形をしている。歌うことと和彦が大好き。
+    和彦の恋人。ライブハウスの歌手。"一葉"のクローバーで、能力は自分の死ぬ日が分かるということだけ。入れ墨は胸にあるがあとから自分で入れたのか、[カタバミ](../Page/カタバミ.md "wikilink")のような形をしている。歌うことと和彦が大好き。
     メジャーデビューはしておらず、歌は有線電波（マイナーウェーブ）にのみ流されていたが、それをスウが感じ取って電話したことから、彼女とスウの交流が始まる。誕生日の夜、スウと二人で作った歌を披露したあと、和彦の目の前で何者かに射殺された。
   - 紘将軍（こうしょうぐん）
     和彦たちのいる国の裏を、全て握っている最高評議会の五人の長老の一人。和彦からは「紘婆さん」、スウからは「おばあちゃん」と呼ばれている。
@@ -48,7 +48,7 @@
 
 ## 映画版
 
-コミックの序章エピソードを基にしたミュージッククリップ的な短編作品。CLAMPアニメ初の[フルデジタル制作](https://ja.wikipedia.org/wiki/デジタルアニメ "wikilink")。『[劇場版カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")』との併映であった。2007年5月25日に、DVDとして「カードキャプターさくら THE MOVIE COLLECTION」（劇場版2本セット）と同時発売された。
+コミックの序章エピソードを基にしたミュージッククリップ的な短編作品。CLAMPアニメ初の[フルデジタル制作](../Page/デジタルアニメ.md "wikilink")。『[劇場版カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")』との併映であった。2007年5月25日に、DVDとして「カードキャプターさくら THE MOVIE COLLECTION」（劇場版2本セット）と同時発売された。
 
 1999年8月21日公開。約5分。全編を通して、織葉が原作で歌っていた曲が流れている。
 
@@ -58,20 +58,20 @@ DVD 2007年05月25日
   - 配給：[松竹](../Page/松竹.md "wikilink")
   - 監督：[高坂希太郎](../Page/高坂希太郎.md "wikilink")
   - 演出：[松尾衡](../Page/松尾衡.md "wikilink")
-  - キャラクターデザイン・作画監督：[結城信輝](https://ja.wikipedia.org/wiki/結城信輝 "wikilink")
+  - キャラクターデザイン・作画監督：[結城信輝](../Page/結城信輝.md "wikilink")
   - 美術監督：[山本二三](../Page/山本二三.md "wikilink")
   - 撮影監督：八巻磐
-  - [音響監督](https://ja.wikipedia.org/wiki/音響監督 "wikilink")：[本田保則](https://ja.wikipedia.org/wiki/本田保則 "wikilink")
+  - [音響監督](../Page/音響監督.md "wikilink")：[本田保則](../Page/本田保則.md "wikilink")
   - 音響効果：[倉橋静男](https://ja.wikipedia.org/wiki/倉橋静男 "wikilink")
-  - 音楽：[橋本一子](https://ja.wikipedia.org/wiki/橋本一子 "wikilink")
-  - [アニメーション制作](../Page/アニメ制作会社.md "wikilink")：[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+  - 音楽：[橋本一子](../Page/橋本一子.md "wikilink")
+  - [アニメーション制作](../Page/アニメ制作会社.md "wikilink")：[マッドハウス](../Page/マッドハウス.md "wikilink")
 
 ## 単行本一覧
 
   - CLOVER 1 （[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")6月）
   - CLOVER 2 （1997年8月）
   - CLOVER 3 （[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")5月）
-  - CLOVER 4 （[1999年](../Page/1999年.md "wikilink")8月）※以上、レーベルは[Amie](https://ja.wikipedia.org/wiki/Amie "wikilink")KC
+  - CLOVER 4 （[1999年](../Page/1999年.md "wikilink")8月）※以上、レーベルは[Amie](../Page/Amie.md "wikilink")KC
   - 新装版 CLOVER 1 （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月）
   - 新装版 CLOVER 2 （2008年7月）
 

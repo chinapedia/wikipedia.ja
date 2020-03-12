@@ -3,7 +3,7 @@
 
 **FCノアシェラン**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の東部、[デンマーク首都地域](https://ja.wikipedia.org/wiki/デンマーク首都地域 "wikilink")の都市に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-[1991年](../Page/1991年.md "wikilink")1月1日に創設された比較的歴史の浅いクラブチーム。創設当時のチーム名は「ファルムBK（Farum Boldklub）」\[1\]。[2003年](../Page/2003年.md "wikilink")にFCノアシェランに改名。かつて[川口能活](https://ja.wikipedia.org/wiki/川口能活 "wikilink")が所属していたクラブチームでもある。
+[1991年](../Page/1991年.md "wikilink")1月1日に創設された比較的歴史の浅いクラブチーム。創設当時のチーム名は「ファルムBK（Farum Boldklub）」\[1\]。[2003年](../Page/2003年.md "wikilink")にFCノアシェランに改名。かつて[川口能活](../Page/川口能活.md "wikilink")が所属していたクラブチームでもある。
 
 ## タイトル
 
@@ -122,7 +122,7 @@
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''1-3</p></td>
@@ -132,7 +132,7 @@
 <td><p>2011-12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-2</p></td>
 <td><p>'''1-2</p></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AIKソルナ" title="wikilink">AIK</a></p></td>
+<td><p><a href="../Page/AIKソルナ.md" title="wikilink">AIK</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-0</p></td>
@@ -241,9 +241,9 @@
 
 ## 歴代所属選手
 
-  - [川口能活](https://ja.wikipedia.org/wiki/川口能活 "wikilink") 2003-2004
+  - [川口能活](../Page/川口能活.md "wikilink") 2003-2004
 
-  - [中島ファラン一生](https://ja.wikipedia.org/wiki/中島ファラン一生 "wikilink") 2007-2009
+  - [中島ファラン一生](../Page/中島ファラン一生.md "wikilink") 2007-2009
 
   - [カスパー・ロレンツェン](https://ja.wikipedia.org/wiki/カスパー・ロレンツェン "wikilink") 2012-2015
 

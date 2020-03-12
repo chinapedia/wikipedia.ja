@@ -1,7 +1,7 @@
 > この記事は[And world](https://ja.wikipedia.org/wiki/And_world)から翻訳されています。
 
 
-**and world**（アンド・ワールド）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー4thアルバム。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[東芝EMIから発売](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+**and world**（アンド・ワールド）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー4thアルバム。[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[東芝EMIから発売](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 

@@ -11,10 +11,10 @@
 
 ### オリジナルメンバー
 
-  - **[亀村愛](https://ja.wikipedia.org/wiki/亀村愛 "wikilink")**（かめむら かな、[1979年](../Page/1979年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - ） - ボケ担当／[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身／O型
+  - **[亀村愛](https://ja.wikipedia.org/wiki/亀村愛 "wikilink")**（かめむら かな、[1979年](../Page/1979年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - ） - ボケ担当／[東京都](../Page/東京都.md "wikilink")出身／O型
       - 母親が会社社長で、芸人の傍ら社長秘書をしていた。
-      - [アリtoキリギリス](https://ja.wikipedia.org/wiki/アリtoキリギリス "wikilink")の[石井正則](https://ja.wikipedia.org/wiki/石井正則 "wikilink")と[駆け落ち](https://ja.wikipedia.org/wiki/駆け落ち "wikilink")とも“職場放棄”ともいえる形で結婚し引退。結婚後はマスコミの取材にも応じることもあったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[協議離婚が成立](https://ja.wikipedia.org/wiki/離婚#協議離婚 "wikilink")。離婚後は一切公の場に姿を現していない。
-  - **[伊藤雅子](https://ja.wikipedia.org/wiki/伊藤雅子 "wikilink")**（いとう まさこ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ） - ツッコミ担当／[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身・東京都育ち／A型。
+      - [アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")の[石井正則](../Page/石井正則.md "wikilink")と[駆け落ち](../Page/駆け落ち.md "wikilink")とも“職場放棄”ともいえる形で結婚し引退。結婚後はマスコミの取材にも応じることもあったが、[2005年](../Page/2005年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[協議離婚が成立](https://ja.wikipedia.org/wiki/離婚#協議離婚 "wikilink")。離婚後は一切公の場に姿を現していない。
+  - **[伊藤雅子](../Page/伊藤雅子.md "wikilink")**（いとう まさこ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ） - ツッコミ担当／[京都府](../Page/京都府.md "wikilink")出身・東京都育ち／A型。
       - デビュー時は大学に在学中だった。
       - 解散後はピン芸人、女優として活動していたが後に引退。
 

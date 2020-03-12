@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - ネイル - [増田ゆき](https://ja.wikipedia.org/wiki/増田ゆき "wikilink")
+  - ネイル - [増田ゆき](../Page/増田ゆき.md "wikilink")
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - 山口くん - [奥島和美](https://ja.wikipedia.org/wiki/奥島和美 "wikilink")
+  - 山口くん - [奥島和美](../Page/奥島和美.md "wikilink")
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - サイバーレディ - [沢海陽子](https://ja.wikipedia.org/wiki/沢海陽子 "wikilink")
+  - サイバーレディ - [沢海陽子](../Page/沢海陽子.md "wikilink")
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - ワイヤマン - [真殿光昭](https://ja.wikipedia.org/wiki/真殿光昭 "wikilink")
+  - ワイヤマン - [真殿光昭](../Page/真殿光昭.md "wikilink")
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 
 <!-- end list -->
 
-  - 少女三人組（リャン、ウー、パー）-[亀井芳子](https://ja.wikipedia.org/wiki/亀井芳子 "wikilink")
+  - 少女三人組（リャン、ウー、パー）-[亀井芳子](../Page/亀井芳子.md "wikilink")
 
 <!-- end list -->
 
@@ -104,13 +104,13 @@
 
 <!-- end list -->
 
-  - その他 - [奥田民義](https://ja.wikipedia.org/wiki/奥田民義 "wikilink")、[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink") ほか
+  - その他 - [奥田民義](../Page/奥田民義.md "wikilink")、[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink") ほか
 
 ## スタッフ
 
   - 原作 - ウズ・グラフィッチ、[クリエイターズ・ドット・コム](https://ja.wikipedia.org/wiki/Gクリエイターズ "wikilink")
   - 監督 - 山田太ろう
-  - シリーズ構成 - [吉田玲子](https://ja.wikipedia.org/wiki/吉田玲子 "wikilink")
+  - シリーズ構成 - [吉田玲子](../Page/吉田玲子.md "wikilink")
   - キャラクター原案 - 坂上サチコ、ウズ・グラフィッチ
   - キャラクターデザイン - 朝来昭子、竹田睦美
   - アニメーション監督 - 栗原ハジメ
@@ -119,7 +119,7 @@
   - 音響監督 - [吉田知弘](https://ja.wikipedia.org/wiki/吉田知弘_\(音響監督\) "wikilink")
   - プロデューサー - 大関史子、松田章男、宮田照久、山田秀治
   - アニメーション制作 - クリエイターズ・ドット・コム
-  - 製作 - キッズステーション、[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")、[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")、[G.D.H.](../Page/GDH_\(企業\).md "wikilink")
+  - 製作 - キッズステーション、[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")、[ホリプロ](../Page/ホリプロ.md "wikilink")、[G.D.H.](../Page/GDH_\(企業\).md "wikilink")
 
 ## 主題歌
 
@@ -143,7 +143,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>ひろったロボット</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田玲子" title="wikilink">吉田玲子</a></p></td>
+<td><p><a href="../Page/吉田玲子.md" title="wikilink">吉田玲子</a></p></td>
 <td><p>竹田睦美<br />
 山田太ろう</p></td>
 <td><p>朝来昭子</p></td>
@@ -151,7 +151,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>役に立たない</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉村元希" title="wikilink">吉村元希</a></p></td>
+<td><p><a href="../Page/吉村元希.md" title="wikilink">吉村元希</a></p></td>
 <td></td>
 <td></td>
 </tr>

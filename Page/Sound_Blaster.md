@@ -1,11 +1,11 @@
 > この記事は[Sound Blaster](https://ja.wikipedia.org/wiki/Sound_Blaster)から翻訳されています。
 
 
-[A_photo_of_a_Sound_Blaster_Z_sound_card.jpg](https://ja.wikipedia.org/wiki/File:A_photo_of_a_Sound_Blaster_Z_sound_card.jpg "fig:A_photo_of_a_Sound_Blaster_Z_sound_card.jpg") **Sound Blaster** （サウンドブラスター） は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[クリエイティブテクノロジー](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")が開発を行っている[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用の[サウンドカード](../Page/サウンドカード.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である。ごく初期の製品「Sound Blaster Pro」が[Windows 3.0の](../Page/Microsoft_Windows_3.x.md "wikilink")[Multimedia Extensions](https://ja.wikipedia.org/wiki/Windows_Multimedia_Extensions "wikilink") 向けの開発キットで標準的に扱われたことをきっかけとして、[IBM PCおよび](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")[その互換機の市場において](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")[オーディオ](https://ja.wikipedia.org/wiki/音響機器 "wikilink")[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")として[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")の地位を獲得し、以後これに続く製品群がその地位を占めている。
+[A_photo_of_a_Sound_Blaster_Z_sound_card.jpg](https://ja.wikipedia.org/wiki/File:A_photo_of_a_Sound_Blaster_Z_sound_card.jpg "fig:A_photo_of_a_Sound_Blaster_Z_sound_card.jpg") **Sound Blaster** （サウンドブラスター） は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[クリエイティブテクノロジー](../Page/クリエイティブテクノロジー.md "wikilink")が開発を行っている[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用の[サウンドカード](../Page/サウンドカード.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である。ごく初期の製品「Sound Blaster Pro」が[Windows 3.0の](../Page/Microsoft_Windows_3.x.md "wikilink")[Multimedia Extensions](https://ja.wikipedia.org/wiki/Windows_Multimedia_Extensions "wikilink") 向けの開発キットで標準的に扱われたことをきっかけとして、[IBM PCおよび](../Page/IBM_PC.md "wikilink")[その互換機の市場において](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")[オーディオ](../Page/音響機器.md "wikilink")[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")として[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")の地位を獲得し、以後これに続く製品群がその地位を占めている。
 
-1998年に登場したSound Blaster Live\! 以降の製品については、[Windowsにおける](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[DirectSound](../Page/DirectSound.md "wikilink")等のサウンド[APIのハードウェアアクセラレーションによる負荷の軽減を主眼としたものであり](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、いくつものバリエーションがあるが、現状 では[DVD](../Page/DVD.md "wikilink")鑑賞などの多チャンネル再生を意識したLive\!シリーズ、Live\!よりも3D音声処理に優れたAudigyシリーズ、コアな[ゲーマー](https://ja.wikipedia.org/wiki/ゲーマー "wikilink")向けのより高性能なハードウェア処理を実現したX-Fiシリーズなどがある。
+1998年に登場したSound Blaster Live\! 以降の製品については、[Windowsにおける](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[DirectSound](../Page/DirectSound.md "wikilink")等のサウンド[APIのハードウェアアクセラレーションによる負荷の軽減を主眼としたものであり](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、いくつものバリエーションがあるが、現状 では[DVD](../Page/DVD.md "wikilink")鑑賞などの多チャンネル再生を意識したLive\!シリーズ、Live\!よりも3D音声処理に優れたAudigyシリーズ、コアな[ゲーマー](../Page/ゲーマー.md "wikilink")向けのより高性能なハードウェア処理を実現したX-Fiシリーズなどがある。
 
-[PCIバスや](../Page/Peripheral_Component_Interconnect.md "wikilink")[PCI Expressバス接続の内蔵タイプのほか](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")、[ノートPCおよび省スペース一体型PC向けに](../Page/ノートパソコン.md "wikilink")[USB接続の外付タイプもある](../Page/ユニバーサル・シリアル・バス.md "wikilink")。
+[PCIバスや](../Page/Peripheral_Component_Interconnect.md "wikilink")[PCI Expressバス接続の内蔵タイプのほか](../Page/PCI_Express.md "wikilink")、[ノートPCおよび省スペース一体型PC向けに](../Page/ノートパソコン.md "wikilink")[USB接続の外付タイプもある](../Page/ユニバーサル・シリアル・バス.md "wikilink")。
 
 いずれも、[SoundFont](../Page/SoundFont.md "wikilink")という[サンプラー](../Page/サンプラー.md "wikilink")音源に対応しており、あらゆる音色を読み込むことができる。
 
@@ -15,7 +15,7 @@
 
 ## 1998年以前のSound Blasterシリーズ
 
-最初のSound Blaster (Sound Blaster 1.0) は1989年に登場した。このサウンドカードは、当時デファクトスタンダードであった社のサウンドカード（[FM音源](../Page/FM音源.md "wikilink")）との互換性を保ちつつ、モノラルの[PCM音源](../Page/PCM音源.md "wikilink")（[8ビット](../Page/8ビット.md "wikilink")、22kHz）、[ゲームポート](https://ja.wikipedia.org/wiki/ゲームポート "wikilink")（[MIDI](../Page/MIDI.md "wikilink")ポート兼用）をさらに備えた[ISAバス用カードであった](../Page/Industry_Standard_Architecture.md "wikilink")。Sound BlasterはAd Lib社のカードと同程度の価格（あるいはより低価格）で提供されたため、ヒット商品となった。
+最初のSound Blaster (Sound Blaster 1.0) は1989年に登場した。このサウンドカードは、当時デファクトスタンダードであった社のサウンドカード（[FM音源](../Page/FM音源.md "wikilink")）との互換性を保ちつつ、モノラルの[PCM音源](../Page/PCM音源.md "wikilink")（[8ビット](../Page/8ビット.md "wikilink")、22kHz）、[ゲームポート](../Page/ゲームポート.md "wikilink")（[MIDI](../Page/MIDI.md "wikilink")ポート兼用）をさらに備えた[ISAバス用カードであった](../Page/Industry_Standard_Architecture.md "wikilink")。Sound BlasterはAd Lib社のカードと同程度の価格（あるいはより低価格）で提供されたため、ヒット商品となった。
 
 1991年には、FM音源及びPCM音源をステレオ化したSound Blaster Proが登場する。Sound Blaster ProはPC互換機におけるデファクトスタンダードとなり、以降登場するDOSゲームのほとんどがSound Blaster Proに対応するようになった。なお、Sound Blasterにシェアを奪われたAd Lib社は1992年に倒産した。
 
@@ -27,11 +27,11 @@
 
 ## 日本における概況
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:SB16_CT2720.jpg "wikilink") 上記のように、[MS-DOS](../Page/MS-DOS.md "wikilink")時代の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")ではSound Blasterと互換性がないとサウンドボードとしては認識されないくらい認知度が高かった。しかしながら、DOS時代において日本の標準的なDOSマシンは（PC/ATとはまったく互換性のない）[NECの](../Page/日本電気.md "wikilink")[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")であったため、国内での認知度は国外ほど高くはなかった。PC-9800シリーズ用のSound Blaster 16も後に投入されているが、ゲームでの採用は海外製品の移植品（いわゆる[洋ゲー](https://ja.wikipedia.org/wiki/洋ゲー "wikilink")）等ごく一部に留まった。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:SB16_CT2720.jpg "wikilink") 上記のように、[MS-DOS](../Page/MS-DOS.md "wikilink")時代の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")ではSound Blasterと互換性がないとサウンドボードとしては認識されないくらい認知度が高かった。しかしながら、DOS時代において日本の標準的なDOSマシンは（PC/ATとはまったく互換性のない）[NECの](../Page/日本電気.md "wikilink")[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")であったため、国内での認知度は国外ほど高くはなかった。PC-9800シリーズ用のSound Blaster 16も後に投入されているが、ゲームでの採用は海外製品の移植品（いわゆる[洋ゲー](../Page/洋ゲー.md "wikilink")）等ごく一部に留まった。
 
 しかしながら、[Windows 3.1や](../Page/Microsoft_Windows_3.x.md "wikilink")[Windows 95の登場に伴い](../Page/Microsoft_Windows_95.md "wikilink")、日本国内でもPC/AT互換機のシェアが伸び始めることになり、PC/AT互換機とともにSound Blasterの認知度も上がっていくこととなる。その後は[サウンドの機能が充実し標準的なサウンドデバイスになるにつれて一般ユーザーの認知度は下がっている](../Page/オンボード.md "wikilink")。
 
-過去に日本国内では代理店を通じて販売されていたが、現在は[アイ・オー・データ機器](https://ja.wikipedia.org/wiki/アイ・オー・データ機器 "wikilink")との合弁会社であるクリエイティブメディア株式会社が供給している。
+過去に日本国内では代理店を通じて販売されていたが、現在は[アイ・オー・データ機器](../Page/アイ・オー・データ機器.md "wikilink")との合弁会社であるクリエイティブメディア株式会社が供給している。
 
 ## 外部リンク
 

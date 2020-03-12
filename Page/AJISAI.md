@@ -1,48 +1,48 @@
 > この記事は[AJISAI](https://ja.wikipedia.org/wiki/AJISAI)から翻訳されています。
 
 
-**AJISAI**（あじさい）は、日本のバンド。[2002年](../Page/2002年.md "wikilink")6月結成。4人組。グループ名はアジサイの花のように寂しさの中にも華やかさや力強さを表現したいと命名、しかし実は、初めて作った曲が「紫陽花」だったから、バンド名も「AJISAI」にしようという理由で命名したことを[ウインターソングバトル](https://ja.wikipedia.org/wiki/ウインターソングバトル "wikilink")で明らかにしていた。[2012年](../Page/2012年.md "wikilink")から、今まで所属していたBUDDY RECORDSから[No Regret Lifeの小田和奏の運営する](../Page/No_Regret_Life.md "wikilink")[spiral-motion](https://ja.wikipedia.org/wiki/spiral-motion "wikilink")に移籍。[2014年](../Page/2014年.md "wikilink")[6月](../Page/6月.md "wikilink")をもって活動休止を発表。
+**AJISAI**（あじさい）は、日本のバンド。[2002年](../Page/2002年.md "wikilink")6月結成。4人組。グループ名はアジサイの花のように寂しさの中にも華やかさや力強さを表現したいと命名、しかし実は、初めて作った曲が「紫陽花」だったから、バンド名も「AJISAI」にしようという理由で命名したことを[ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")で明らかにしていた。[2012年](../Page/2012年.md "wikilink")から、今まで所属していたBUDDY RECORDSから[No Regret Lifeの小田和奏の運営する](../Page/No_Regret_Life.md "wikilink")[spiral-motion](https://ja.wikipedia.org/wiki/spiral-motion "wikilink")に移籍。[2014年](../Page/2014年.md "wikilink")[6月](../Page/6月.md "wikilink")をもって活動休止を発表。
 
-[熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")にも出場。
+[熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")にも出場。
 
 ## メンバー
 
   - 松本 俊
     （まつもと しゅん、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")-） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
     作詞･作曲は松本が担当。彼の詞は日本語の美しさを知ってほしいため、英語を使わずすべて日本語で作詞している。
-    使用ギターは[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")、[ギブソン・SG](https://ja.wikipedia.org/wiki/ギブソン・SG "wikilink")
+    使用ギターは[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")、[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")
 
 <!-- end list -->
 
   - 須江 篤史
     （すえ あつし、[1984年](../Page/1984年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")-） - [ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-    彼の持っている楽器は数多く、[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")スタンダード、フェンダー・ストラトキャスター、[ギブソン・ES-335](https://ja.wikipedia.org/wiki/ギブソン・ES-335 "wikilink")、シェクター SD-2、[モーリス](https://ja.wikipedia.org/wiki/モーリス楽器製造 "wikilink") F-15、[ヤマハ](../Page/ヤマハ.md "wikilink") NO G.60、[エピフォン](https://ja.wikipedia.org/wiki/エピフォン "wikilink")・[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")等
+    彼の持っている楽器は数多く、[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")スタンダード、フェンダー・ストラトキャスター、[ギブソン・ES-335](../Page/ギブソン・ES-335.md "wikilink")、シェクター SD-2、[モーリス](../Page/モーリス楽器製造.md "wikilink") F-15、[ヤマハ](../Page/ヤマハ.md "wikilink") NO G.60、[エピフォン](../Page/エピフォン.md "wikilink")・[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")等
 
 <!-- end list -->
 
   - Mocchi
-    （もっち: 本名 岩本 孝文（いわもと たかふみ）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")-） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-    [熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")のセミファイナルの曲は彼が選んだ。その結果433KBで見事にファイナル進出を決めた。
+    （もっち: 本名 岩本 孝文（いわもと たかふみ）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")-） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+    [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")のセミファイナルの曲は彼が選んだ。その結果433KBで見事にファイナル進出を決めた。
     Mocchiは学生時代のあだ名らしい。
 
 <!-- end list -->
 
   - 山本 太作
     （やまもと だいさく、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")-） - [ドラム](../Page/ドラムセット.md "wikilink")
-    スタジオを予約するのは彼の担当でもありバイト先でもある。[ハリガネロック](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")のユウキロックに「仕事先なら楽やな〜」と指摘された。
+    スタジオを予約するのは彼の担当でもありバイト先でもある。[ハリガネロック](../Page/ハリガネロック.md "wikilink")のユウキロックに「仕事先なら楽やな〜」と指摘された。
 
 ### 元メンバー
 
   - 岩崎トモユキ
     （いわさき ともゆき-）- [ギター](../Page/ギター.md "wikilink")
     使用ギターは、[ギブソン・ファイヤーバード](../Page/ギブソン・ファイヤーバード.md "wikilink")、ギブソン・SGスタンダード、ギブソン・レスポールスタンダードだった。
-    お笑いコンビ「[三拍子](https://ja.wikipedia.org/wiki/三拍子_\(お笑いコンビ\) "wikilink")」の高倉に顔が似ている。
+    お笑いコンビ「[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")」の高倉に顔が似ている。
 
 ## 概要
 
-  - NHK [ウインターソングバトル](https://ja.wikipedia.org/wiki/ウインターソングバトル "wikilink")に出場。曲は『紫陽花』で421KBを獲得。しかし5位だったためファイナルには出場ならず。
-  - NHK [熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")にも出場。オンエア率6/6。1番に6連勝をしたバンド。第2回チャンピオン大会にも出場。セミファイナルは433KBでファイナルまで勝ち進んだ。
-  - [熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")でファイナル出場。成績は8位だったが『[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")賞』を受賞。
+  - NHK [ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")に出場。曲は『紫陽花』で421KBを獲得。しかし5位だったためファイナルには出場ならず。
+  - NHK [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")にも出場。オンエア率6/6。1番に6連勝をしたバンド。第2回チャンピオン大会にも出場。セミファイナルは433KBでファイナルまで勝ち進んだ。
+  - [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")でファイナル出場。成績は8位だったが『[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")賞』を受賞。
   - AJISAIの詞には英詞は入っておらず「日本語の美しさを知ってほしい」ため歌詞は日本語のみ。
   - 五人編成だった当初はギターが２人いたため、松本は現在のようなボーカル&ギターではなくボーカルのみであり、楽曲もポップなものが多かった。岩崎が脱退した後、バンドは現在の編成になっており、その頃から勢いのあるロックバンドに変化していった。しかし1stフルアルバム「sunny umbrella」からは松本が心を込めて歌うアコースティックな曲調の楽曲が目立ちはじめ、ミニアルバム「キミスキセツ」でそのスタイルを確立した。
   - 3rd album ｢pocket LIFE｣は以前の曲からまた一歩踏み出した作品となり、賛否両論のアルバムとなる。
@@ -51,9 +51,9 @@
 
 ### テレビ番組
 
-  - [ウインターソングバトル](https://ja.wikipedia.org/wiki/ウインターソングバトル "wikilink")（[2003年](../Page/2003年.md "wikilink")冬）
+  - [ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")（[2003年](../Page/2003年.md "wikilink")冬）
       - 初のTV出演。曲は最初に作った紫陽花。421KBでオンエアされるが決勝には行けず。
-  - [熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")（[2004年](../Page/2004年.md "wikilink")〜[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）
+  - [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")（[2004年](../Page/2004年.md "wikilink")〜[2006年](../Page/2006年.md "wikilink")）
       - 番組史上最も勝利数が多いバンド（ウインターソングバトルも含む。成績は[熱唱オンエアバトルの結果の項参照](https://ja.wikipedia.org/wiki/#熱唱オンエアバトルの結果 "wikilink")）
 
 ## ディスコグラフィ
@@ -333,7 +333,7 @@ DLCR-11012:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>AJISAI</strong></p></td>
 <td><p>LABD-0004</p></td>
 <td><ol>
@@ -561,8 +561,8 @@ DLCR-11012:通常盤</p></td>
 
 ## 関連項目
 
-  - [熱唱オンエアバトル](https://ja.wikipedia.org/wiki/熱唱オンエアバトル "wikilink")
-  - [ウインターソングバトル](https://ja.wikipedia.org/wiki/ウインターソングバトル "wikilink")
+  - [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")
+  - [ウインターソングバトル](../Page/ウインターソングバトル.md "wikilink")
 
 ## 外部リンク
 

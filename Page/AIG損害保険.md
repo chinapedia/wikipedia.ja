@@ -1,7 +1,7 @@
 > この記事は[AIG](https://ja.wikipedia.org/wiki/AIG)から翻訳されています。
 
 
-**AIG損害保険株式会社**（エイ・アイ・ジーそんがいほけん）は、[AIG](https://ja.wikipedia.org/wiki/AIG "wikilink")傘下の日本の[保険会社](https://ja.wikipedia.org/wiki/保険会社 "wikilink")である。[AIG ジャパン・ホールディングス株式会社の完全子会社](https://ja.wikipedia.org/wiki/アメリカン・インターナショナル・グループ#日本での営業 "wikilink")。日本における関連企業には[アメリカンホーム保険](https://ja.wikipedia.org/wiki/アメリカンホーム保険会社 "wikilink")、[ジェイアイ傷害火災保険](https://ja.wikipedia.org/wiki/ジェイアイ傷害火災保険 "wikilink")（[JTB](../Page/JTB.md "wikilink") = 旧・日本交通公社との合弁）などがある。保険業界で初めて、全事業について事業継続に関する国際規格「ISO22301」を取得している。\[1\]
+**AIG損害保険株式会社**（エイ・アイ・ジーそんがいほけん）は、[AIG](https://ja.wikipedia.org/wiki/AIG "wikilink")傘下の日本の[保険会社](https://ja.wikipedia.org/wiki/保険会社 "wikilink")である。[AIG ジャパン・ホールディングス株式会社の完全子会社](https://ja.wikipedia.org/wiki/アメリカン・インターナショナル・グループ#日本での営業 "wikilink")。日本における関連企業には[アメリカンホーム保険](../Page/アメリカンホーム保険会社.md "wikilink")、[ジェイアイ傷害火災保険](../Page/ジェイアイ傷害火災保険.md "wikilink")（[JTB](../Page/JTB.md "wikilink") = 旧・日本交通公社との合弁）などがある。保険業界で初めて、全事業について事業継続に関する国際規格「ISO22301」を取得している。\[1\]
 
 ## 事業戦略
 
@@ -39,11 +39,11 @@ ACTIVE CARE（アクティブ・ケア）
 
 ## 不祥事・行政処分
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、損保16社による[保険金の大量不払いがあったことが判明](https://ja.wikipedia.org/wiki/保険金不払い事件 "wikilink")。同社においても1,941件、1億2,075万円の不当不払い事案が確認された（2002年12月～2005年5月間の解決済み事故案件中）\[7\]。そして同年[11月25日](../Page/11月25日.md "wikilink")、追加で判明した10社と合わせて26社となったが、同社はその内の1社として[金融庁](../Page/金融庁.md "wikilink")から業務改善命令の[行政処分を受けた](../Page/行政行為.md "wikilink")\[8\]\[9\]。
+[2005年](../Page/2005年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、損保16社による[保険金の大量不払いがあったことが判明](../Page/保険金不払い事件.md "wikilink")。同社においても1,941件、1億2,075万円の不当不払い事案が確認された（2002年12月～2005年5月間の解決済み事故案件中）\[7\]。そして同年[11月25日](../Page/11月25日.md "wikilink")、追加で判明した10社と合わせて26社となったが、同社はその内の1社として[金融庁](../Page/金融庁.md "wikilink")から業務改善命令の[行政処分を受けた](../Page/行政行為.md "wikilink")\[8\]\[9\]。
 
-さらにその後の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")、損保業界で[第三分野保険](https://ja.wikipedia.org/wiki/第三分野保険 "wikilink")での不当な不払いがあったことが発表され、同社もこれに漏れず不当な不払いを行っていた。翌日11月2日の同社の発表によると、件数にして107件、金額にして1,910万円分が、第三分野保険の不当不払い事案に該当していたとのことであった\[10\]。そして[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、この事態を重く見た金融庁により、同社は業務改善命令の行政処分を再び受けることになった\[11\]\[12\]。
+さらにその後の[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")、損保業界で[第三分野保険](../Page/第三分野保険.md "wikilink")での不当な不払いがあったことが発表され、同社もこれに漏れず不当な不払いを行っていた。翌日11月2日の同社の発表によると、件数にして107件、金額にして1,910万円分が、第三分野保険の不当不払い事案に該当していたとのことであった\[10\]。そして[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、この事態を重く見た金融庁により、同社は業務改善命令の行政処分を再び受けることになった\[11\]\[12\]。
 
-保険金不払い以外では、2006年[12月10日](../Page/12月10日.md "wikilink")に2×4工法の建築物に対する[火災保険](https://ja.wikipedia.org/wiki/火災保険 "wikilink")料を取りすぎていた問題が発覚している\[13\]\[14\]。
+保険金不払い以外では、2006年[12月10日](../Page/12月10日.md "wikilink")に2×4工法の建築物に対する[火災保険](../Page/火災保険.md "wikilink")料を取りすぎていた問題が発覚している\[13\]\[14\]。
 
 ## 脚注
 

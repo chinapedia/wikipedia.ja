@@ -1,13 +1,13 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**FM水戸アップデート**（えふえむみとアップデート）は、[NHK水戸放送局](../Page/NHK水戸放送局.md "wikilink")が[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")向けに[FMで放送していた](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。
+**FM水戸アップデート**（えふえむみとアップデート）は、[NHK水戸放送局](../Page/NHK水戸放送局.md "wikilink")が[茨城県](../Page/茨城県.md "wikilink")向けに[FMで放送していた](../Page/NHK-FM放送.md "wikilink")[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。
 
 ## 概要
 
 [2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に放送を開始したが、5年目突入と同時に水戸局が県域[地デジ放送を開始したこともあり](../Page/地上デジタルテレビ放送.md "wikilink")、重心がテレビへ移行。[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")の放送を以て終了し、東京発の『[サンセットパーク](../Page/サンセットパーク.md "wikilink")』垂れ流しに移行した。
 
-なお18時台は18:50-19:00に各都道府県単位（AMの[ラジオ第1は関東広域放送のため](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")「関東地方」のくくりとして）でローカルニュース・気象情報・お知らせ他が放送されていたが、当番組はそれも内包し、1時間枠として放送した。
+なお18時台は18:50-19:00に各都道府県単位（AMの[ラジオ第1は関東広域放送のため](../Page/NHKラジオ第1放送.md "wikilink")「関東地方」のくくりとして）でローカルニュース・気象情報・お知らせ他が放送されていたが、当番組はそれも内包し、1時間枠として放送した。
 
 ## 基本フォーマット
 
@@ -37,12 +37,12 @@
 
 ### アナウンサー
 
-放送期間中水戸局所属アナのうち本番組と同時に終了した『[いばらきわいわいスタジオ](https://ja.wikipedia.org/wiki/いばらきわいわいスタジオ "wikilink")』キャスター[小田切千](../Page/小田切千.md "wikilink")、[大木浩司](../Page/大木浩司.md "wikilink")は担当しなかった。
+放送期間中水戸局所属アナのうち本番組と同時に終了した『[いばらきわいわいスタジオ](../Page/いばらきわいわいスタジオ.md "wikilink")』キャスター[小田切千](../Page/小田切千.md "wikilink")、[大木浩司](../Page/大木浩司.md "wikilink")は担当しなかった。
 
-  - [坂本朋彦](https://ja.wikipedia.org/wiki/坂本朋彦 "wikilink")（[2003年](../Page/2003年.md "wikilink")4月まで、現：[NHK放送研修センター・日本語センター](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター "wikilink")出向）
+  - [坂本朋彦](../Page/坂本朋彦.md "wikilink")（[2003年](../Page/2003年.md "wikilink")4月まで、現：[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")出向）
   - [小松宏司](../Page/小松宏司.md "wikilink")（2003年4月〜[2004年](../Page/2004年.md "wikilink")9月、現：東京アナウンス室）
-  - [星野豊](https://ja.wikipedia.org/wiki/星野豊 "wikilink")（以下4名2008年度のみ）
-  - [泉浩司](https://ja.wikipedia.org/wiki/泉浩司 "wikilink")
+  - [星野豊](../Page/星野豊.md "wikilink")（以下4名2008年度のみ）
+  - [泉浩司](../Page/泉浩司.md "wikilink")
   - [平野哲史](https://ja.wikipedia.org/wiki/平野哲史 "wikilink")
   - [向井一弘](https://ja.wikipedia.org/wiki/向井一弘 "wikilink")
 
@@ -83,13 +83,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/早川美幸" title="wikilink">早川美幸</a></p></td>
+<td><p><a href="../Page/早川美幸.md" title="wikilink">早川美幸</a></p></td>
 <td><p>2003年度</p></td>
-<td><p>その後<a href="https://ja.wikipedia.org/wiki/NHK長野放送局" title="wikilink">長野局</a>、<a href="../Page/静岡第一テレビ.md" title="wikilink">静岡第一テレビ</a>を経て、航空会社の客室乗務員に転身</p></td>
+<td><p>その後<a href="../Page/NHK長野放送局.md" title="wikilink">長野局</a>、<a href="../Page/静岡第一テレビ.md" title="wikilink">静岡第一テレビ</a>を経て、航空会社の客室乗務員に転身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/西村美月" title="wikilink">西村美月</a></p></td>
-<td><p>その後<a href="https://ja.wikipedia.org/wiki/NHK新潟放送局" title="wikilink">新潟局を経て</a>、現在<a href="../Page/ジョイスタッフ.md" title="wikilink">ジョイスタッフ</a>所属</p></td>
+<td><p><a href="../Page/西村美月.md" title="wikilink">西村美月</a></p></td>
+<td><p>その後<a href="../Page/NHK新潟放送局.md" title="wikilink">新潟局を経て</a>、現在<a href="../Page/ジョイスタッフ.md" title="wikilink">ジョイスタッフ</a>所属</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -178,7 +178,7 @@
 
 元々水戸局の県域地デジ開始に向けてのコンテンツノウハウ作りが目的で開始された番組であるため、地デジ放送開始までは地域情報を中心に[ラジオカー](../Page/ラジオカー.md "wikilink")中継もある程充実した内容であった。
 
-2004年10月に地デジ放送が開始されると、テレビの番組『[こんにちはいばらきわいわいスタジオ](../Page/こんにちはいばらきわいわいスタジオ.md "wikilink")』と『[いばらきわいわいスタジオ](https://ja.wikipedia.org/wiki/いばらきわいわいスタジオ "wikilink")』にコーナーを移動させ、当番組はテレビ番組の音声を録音したまま再放送する様式が中心となってしまった。当番組オリジナルコーナーが「茨城の民話」と「タウン情報」の2つだけの時期もあった。
+2004年10月に地デジ放送が開始されると、テレビの番組『[こんにちはいばらきわいわいスタジオ](../Page/こんにちはいばらきわいわいスタジオ.md "wikilink")』と『[いばらきわいわいスタジオ](../Page/いばらきわいわいスタジオ.md "wikilink")』にコーナーを移動させ、当番組はテレビ番組の音声を録音したまま再放送する様式が中心となってしまった。当番組オリジナルコーナーが「茨城の民話」と「タウン情報」の2つだけの時期もあった。
 
 その後、県内の地デジ中継局設置が進んだこともあり、2006年度よりオリジナルコーナーが増設されて再び活性化された。2008年度は大幅にリニューアルし、テレビの再放送は減らして週間テーマによるメッセージ受付とホームページからのリアルタイムリクエスト受付等ラジオ番組独特の構成に変更した。
 
@@ -401,7 +401,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月
+  - [2006年](../Page/2006年.md "wikilink")4月
 
 <!-- end list -->
 

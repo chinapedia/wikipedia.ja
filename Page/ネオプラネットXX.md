@@ -1,15 +1,15 @@
 > この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
 
 
-**ネオプラネットXX（NEO PLANETT XX）**とは、[2002年](../Page/2002年.md "wikilink")に[山佐](https://ja.wikipedia.org/wiki/山佐 "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機。
+**ネオプラネットXX（NEO PLANETT XX）**とは、[2002年](../Page/2002年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機。
 
 ## 概要
 
   - プラネットシリーズとして、3号機の大ヒットマシン『[スーパープラネット](../Page/スーパープラネット.md "wikilink")』以来12年ぶりに復活をした。
-  - 本機種最大の特徴として「**[EL VISION](https://ja.wikipedia.org/wiki/EL_VISION "wikilink")**」（エルビジョン）を搭載していた。
-  - 本機種はモード方式（6種類のモード）[ストック機である](https://ja.wikipedia.org/wiki/サイレントストック "wikilink")。既出の「[スーパーリノ](https://ja.wikipedia.org/wiki/スーパーリノ "wikilink")」や「[キングパルサー](https://ja.wikipedia.org/wiki/キングパルサー "wikilink")」のようなゲーム数方式では、ボーナス終了後のチャンスゾーンを抜けると設定に関わらずヤメてしまう傾向が強いことがあげられるが、本機は敢えてチャンスゾーンを設けることなくどのG数からも放出の期待ができる[RTシステムを構築](https://ja.wikipedia.org/wiki/リプレイタイム "wikilink")（前述のモード方式や特定小役成立での抽選によるRT解除など）した。また、[ビッグバンモード](https://ja.wikipedia.org/wiki/ビッグバンモード "wikilink")という[連荘](https://ja.wikipedia.org/wiki/連荘 "wikilink")しやすく抜けにくいモードが用意されていた。
+  - 本機種最大の特徴として「**[EL VISION](../Page/EL_VISION.md "wikilink")**」（エルビジョン）を搭載していた。
+  - 本機種はモード方式（6種類のモード）[ストック機である](../Page/サイレントストック.md "wikilink")。既出の「[スーパーリノ](../Page/スーパーリノ.md "wikilink")」や「[キングパルサー](../Page/キングパルサー.md "wikilink")」のようなゲーム数方式では、ボーナス終了後のチャンスゾーンを抜けると設定に関わらずヤメてしまう傾向が強いことがあげられるが、本機は敢えてチャンスゾーンを設けることなくどのG数からも放出の期待ができる[RTシステムを構築](../Page/リプレイタイム.md "wikilink")（前述のモード方式や特定小役成立での抽選によるRT解除など）した。また、[ビッグバンモード](../Page/ビッグバンモード.md "wikilink")という[連荘](../Page/連荘.md "wikilink")しやすく抜けにくいモードが用意されていた。
   - 天井G数が777Gというかなり低いゲーム数が設定されていた（ボーナスのストックがある場合のみ）。
-  - 技術介入（[小役回収打法](../Page/小役回収打法.md "wikilink")・[リプレイはずし](../Page/リプレイはずし.md "wikilink")）は極端に高いものでなく誰でも十分に楽しめるレベルになっており、当時ストック機の頂点に君臨していた「キングパルサー」と一時ではあるものの人気を二分したほどであった。またサウンド面においても特筆すべきものがあり、後に[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")が作成された。
+  - 技術介入（[小役回収打法](../Page/小役回収打法.md "wikilink")・[リプレイはずし](../Page/リプレイはずし.md "wikilink")）は極端に高いものでなく誰でも十分に楽しめるレベルになっており、当時ストック機の頂点に君臨していた「キングパルサー」と一時ではあるものの人気を二分したほどであった。またサウンド面においても特筆すべきものがあり、後に[サウンドトラック](../Page/サウンドトラック.md "wikilink")が作成された。
 
 これだけ完成度が高かったにも関わらず、ボーナス抽選確率が通常Aタイプとほとんど変わらなかったことによる「ストック切れ」を起こしたり、ビッグバンモード以外では引き戻しがやや深く低設定でも遊べるものの連荘しなければ枚数を増やしにくく、更には[レギュラーボーナス](https://ja.wikipedia.org/wiki/レギュラーボーナス "wikilink")の放出が多かったことなど欠点も見られ、最終的にはロングヒットには至らなかった。しかし甘いスペックだけあって短時間で勝負できることが[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")や[サラリーマン](../Page/サラリーマン.md "wikilink")などの人気を集めた。
 
@@ -25,16 +25,16 @@
   - ターゲット7（ハズレor各小役orボーナス）
     EL VISIONを利用し、本物のリールとの連動演出。「7」が一直線上に並べばボーナス確定。
   - 7ルーレット（ハズレorボーナス）
-    EL VISIONを利用し、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")でいう[リーチアクションのような演出をする](https://ja.wikipedia.org/wiki/リーチ_\(パチンコ\) "wikilink")。「7」が揃えばボーナス確定。
+    EL VISIONを利用し、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")でいう[リーチアクションのような演出をする](../Page/リーチ_\(パチンコ\).md "wikilink")。「7」が揃えばボーナス確定。
     プレミアで「スイカロボ」、「イカ」が出現する場合アリ。ビッグボーナス確定。
   - シャッフルプラネット（ハズレorボーナス）
     リール停止毎、EL VISIONに「プラネット」が出現し、全リール停止後[ルーレット](../Page/ルーレット.md "wikilink")演出となる。「プラネット」が揃えばボーナス確定。
   - サンドストーム（各小役orボーナス）
-    レバーON時、EL VISIONにテレビの[砂嵐のような演出が発生し絵柄が浮かび上がる](https://ja.wikipedia.org/wiki/スノーノイズ "wikilink")。「プラネット」が出現すれば小役orボーナス。「BAR」はボーナス確定。「7」または「[ドクターA7](../Page/ドクターA7.md "wikilink")」、「カエル」が出現すると[ビッグボーナス](https://ja.wikipedia.org/wiki/ビッグボーナス "wikilink")が確定する。
+    レバーON時、EL VISIONにテレビの[砂嵐のような演出が発生し絵柄が浮かび上がる](../Page/スノーノイズ.md "wikilink")。「プラネット」が出現すれば小役orボーナス。「BAR」はボーナス確定。「7」または「[ドクターA7](../Page/ドクターA7.md "wikilink")」、「カエル」が出現すると[ビッグボーナス](https://ja.wikipedia.org/wiki/ビッグボーナス "wikilink")が確定する。
   - ギャラクシーワープ（ビッグボーナス）
     レバーON時、リールがフリーズしEL VISIONがワープ画面になれば先告知でボーナス確定。
   - ブラックホール（ボーナス）
-    全リール停止後、停止絵柄がEL VISIONに映し出され、[ブラックホール](https://ja.wikipedia.org/wiki/ブラックホール "wikilink")画面になればボーナス確定。
+    全リール停止後、停止絵柄がEL VISIONに映し出され、[ブラックホール](../Page/ブラックホール.md "wikilink")画面になればボーナス確定。
   - オールプラネット / オール7（ボーナス）
     リール停止毎、EL VISIONに「3連プラネット」が出現し、最終的に全リールに「プラネット」が表示されればボーナス確定。全リールに「7」が表示されればビッグボーナスが確定する。
   - ノッカー音（ビッグボーナス）
@@ -66,14 +66,14 @@
 
 ## ゲーム機への移植
 
-  - 本機種は[プレイステーション2に移植され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP](https://ja.wikipedia.org/wiki/山佐Digiシリーズ "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")）。内容は実機[シミュレーション](../Page/シミュレーション.md "wikilink")の他に、連荘数やコイン枚数を競うものや、[リーチ目](https://ja.wikipedia.org/wiki/リーチ目 "wikilink")を当てるゲームなどが搭載されていた。
+  - 本機種は[プレイステーション2に移植され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP](../Page/山佐Digiシリーズ.md "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")）。内容は実機[シミュレーション](../Page/シミュレーション.md "wikilink")の他に、連荘数やコイン枚数を競うものや、[リーチ目](../Page/リーチ目.md "wikilink")を当てるゲームなどが搭載されていた。
   - 「山佐デジワールドSP DX」という限定版も発売され、本機種で使用されているサウンドを収録した「山佐SoundコレクションII」が同梱されていた。
-  - 現在は[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](https://ja.wikipedia.org/wiki/777town.net "wikilink")』にてプレイが可能である。
-  - 現在は[Yahoo\! JAPANのゲームアプリ](../Page/Yahoo!_JAPAN.md "wikilink")『パチ・スロタウン』（開発：[DeNA](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")、バタフライ）にてプラネット999がプレイ可能である。
+  - 現在は[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
+  - 現在は[Yahoo\! JAPANのゲームアプリ](../Page/Yahoo!_JAPAN.md "wikilink")『パチ・スロタウン』（開発：[DeNA](../Page/ディー・エヌ・エー.md "wikilink")、バタフライ）にてプラネット999がプレイ可能である。
 
 ## プラネット999
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に入り、山佐は後継機として「プラネット999」を販売した。背景には「4.7号機」「5号機」における検定通過の困難さ、および爆発力の制限など各社なかなか発表できない中、既に検定を通過している4号機を販売しようとする傾向が多々見られ、同社においてもそのような傾向があった。なおプラネット999の形式名称は「ネオプラネット2003」である。
+[2005年](../Page/2005年.md "wikilink")に入り、山佐は後継機として「プラネット999」を販売した。背景には「4.7号機」「5号機」における検定通過の困難さ、および爆発力の制限など各社なかなか発表できない中、既に検定を通過している4号機を販売しようとする傾向が多々見られ、同社においてもそのような傾向があった。なおプラネット999の形式名称は「ネオプラネット2003」である。
 
 本機は、その名の通り[2003年](../Page/2003年.md "wikilink")の4.5号機要件で検定を通過している。基本設計はネオプラネットXXと同様であるものの、
 
@@ -98,11 +98,11 @@
 
 ## 関連項目
 
-  - [山佐](https://ja.wikipedia.org/wiki/山佐 "wikilink")
-  - [EL VISION](https://ja.wikipedia.org/wiki/EL_VISION "wikilink")
-  - [サイレントストック](https://ja.wikipedia.org/wiki/サイレントストック "wikilink")
-  - [ビッグバンモード](https://ja.wikipedia.org/wiki/ビッグバンモード "wikilink")
-  - [パチスロ用語の一覧](https://ja.wikipedia.org/wiki/パチスロ用語の一覧 "wikilink")
+  - [山佐](../Page/山佐.md "wikilink")
+  - [EL VISION](../Page/EL_VISION.md "wikilink")
+  - [サイレントストック](../Page/サイレントストック.md "wikilink")
+  - [ビッグバンモード](../Page/ビッグバンモード.md "wikilink")
+  - [パチスロ用語の一覧](../Page/パチスロ用語の一覧.md "wikilink")
 
 ## 外部リンク
 

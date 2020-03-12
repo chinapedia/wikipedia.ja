@@ -1,21 +1,21 @@
 > この記事は[Axe](https://ja.wikipedia.org/wiki/Axe)から翻訳されています。
 
 
-**Axe**（アックス）は[ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ "wikilink")が展開する、[男性](../Page/男性.md "wikilink")用[化粧品](../Page/化粧品.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である。
+**Axe**（アックス）は[ユニリーバ](../Page/ユニリーバ.md "wikilink")が展開する、[男性](../Page/男性.md "wikilink")用[化粧品](../Page/化粧品.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である。
 
 ## 概要・歴史
 
 欧米では、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")での発売開始を皮切りにさまざまな商品が発売され、[アメリカではスティック](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・タイプの制汗剤やシャワー・ジェル、アフター・シェイブ・ローションなども販売されており、主軸商品であるデオドラントの香りは15種類以上ある。
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")など一部地域では、同一の商品が**Lynx**（リンクス）というブランドで売られている。
+[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")など一部地域では、同一の商品が**Lynx**（リンクス）というブランドで売られている。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[ユニリーバ・ジャパン](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink")が[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月5日より販売を開始した。日本での発売準備に3年を要した\[1\]。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")が[2007年](../Page/2007年.md "wikilink")3月5日より販売を開始した。日本での発売準備に3年を要した\[1\]。
 
-8種類の香りの「フレグランスボディ[スプレー](https://ja.wikipedia.org/wiki/スプレー "wikilink")」はいわゆるスプレータイプの[香水](../Page/香水.md "wikilink")であり、[汗](../Page/汗.md "wikilink")や[体臭](https://ja.wikipedia.org/wiki/体臭 "wikilink")を防ぐ機能はない（缶にも「[オーデコロン](https://ja.wikipedia.org/wiki/オーデコロン "wikilink")」の記載がある）。2009年2月に「」を[キーワード](https://ja.wikipedia.org/wiki/キーワード "wikilink")に回して下げてスプレーする新形状の[ボトル](https://ja.wikipedia.org/wiki/ボトル "wikilink")と新[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")を導入し、[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")を行った。2012年3月には、日本上陸5周年を記念し、通常品（60g）の1.5倍に増量した90g入りに入れ替え、約1年間の期間限定で発売。2013年2月には60gに戻し、パッケージデザインを再度変更。
+8種類の香りの「フレグランスボディ[スプレー](../Page/スプレー.md "wikilink")」はいわゆるスプレータイプの[香水](../Page/香水.md "wikilink")であり、[汗](../Page/汗.md "wikilink")や[体臭](https://ja.wikipedia.org/wiki/体臭 "wikilink")を防ぐ機能はない（缶にも「[オーデコロン](../Page/オーデコロン.md "wikilink")」の記載がある）。2009年2月に「」を[キーワード](https://ja.wikipedia.org/wiki/キーワード "wikilink")に回して下げてスプレーする新形状の[ボトル](https://ja.wikipedia.org/wiki/ボトル "wikilink")と新[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")を導入し、[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")を行った。2012年3月には、日本上陸5周年を記念し、通常品（60g）の1.5倍に増量した90g入りに入れ替え、約1年間の期間限定で発売。2013年2月には60gに戻し、パッケージデザインを再度変更。
 
-2010年3月からはフレグランス以外にも展開するようになり、リフレッシュシート「プレミアム ブラックシート」を発売。本品は商品名にあるようにこのカテゴリーでは珍しい[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")の[シート](https://ja.wikipedia.org/wiki/シート "wikilink")を採用。なお、本製品は日本人向けに開発された世界初の製品となる。また、同年8月にはアメリカ発の「ボディソープ」を日本で発売するとともに、多重ネット構造とした「泡立てサイド」と「スクラブサイド」の2Way仕様の男性向けボディウォッシュツール「ガイウォッシュ」を追加した。なお、「ボディソープ」は成分・パッケージを日本向けに変更したもので、翌年の2011年3月にはつめかえ用を追加発売した。
+2010年3月からはフレグランス以外にも展開するようになり、リフレッシュシート「プレミアム ブラックシート」を発売。本品は商品名にあるようにこのカテゴリーでは珍しい[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")の[シート](../Page/シート.md "wikilink")を採用。なお、本製品は日本人向けに開発された世界初の製品となる。また、同年8月にはアメリカ発の「ボディソープ」を日本で発売するとともに、多重ネット構造とした「泡立てサイド」と「スクラブサイド」の2Way仕様の男性向けボディウォッシュツール「ガイウォッシュ」を追加した。なお、「ボディソープ」は成分・パッケージを日本向けに変更したもので、翌年の2011年3月にはつめかえ用を追加発売した。
 
-2012年3月には、新たなカテゴリーとして、[スプレー](https://ja.wikipedia.org/wiki/スプレー "wikilink")タイプの男性用制汗デオドラント剤「アックスドライ デオドラントスプレー」を発売。本製品は[汗](../Page/汗.md "wikilink")をかく前に塗布するプレケアタイプの制汗剤で、「速攻ディフェンステクノロジー」と呼ばれる技術を採用。またスプレーの噴射口を3つ穴にした「トリプルホールスプレー」を採用している。
+2012年3月には、新たなカテゴリーとして、[スプレー](../Page/スプレー.md "wikilink")タイプの男性用制汗デオドラント剤「アックスドライ デオドラントスプレー」を発売。本製品は[汗](../Page/汗.md "wikilink")をかく前に塗布するプレケアタイプの制汗剤で、「速攻ディフェンステクノロジー」と呼ばれる技術を採用。またスプレーの噴射口を3つ穴にした「トリプルホールスプレー」を採用している。
 
 2013年7月には、クールタイプの男性用ボディローション「アイスバースト」を[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")限定で発売した。
 
@@ -77,10 +77,10 @@
       - スウィート(SWEET) - フルーティフローラルの香り。2013年2月に追加発売されたが、2014年2月のリニューアルに伴い廃止。
       - ライズアップ(RISE UP) - フレッシュシトラスの香り。2014年2月に追加発売されたが、2016年3月のパッケージリニューアルに伴い廃止。
   - フレグランス ボディスプレー
-      - ディメンション(DIMENSION) - [ベルガモット](https://ja.wikipedia.org/wiki/ベルガモット "wikilink")シトラスの香り。日本では2009年2月の改良に伴い廃止。
+      - ディメンション(DIMENSION) - [ベルガモット](../Page/ベルガモット.md "wikilink")シトラスの香り。日本では2009年2月の改良に伴い廃止。
       - コンヴィクション(CONVICTION) - アロマティックウッディ[ムスク](https://ja.wikipedia.org/wiki/ムスク "wikilink")の香り。日本では「ツイスト(TWIST)」の発売に伴い廃止。
       - バイス(VICE) - フルーティ[フゼア](https://ja.wikipedia.org/wiki/フゼア "wikilink")の香り。日本では2007年9月に追加されたが、「インスティンクト(INSTINCT)」の発売に伴い廃止。
-      - インスティンクト(INSTINCT) - [ベルガモット](https://ja.wikipedia.org/wiki/ベルガモット "wikilink")の香り。日本では2009年9月に追加されたが、2013年2月のパッケージリニューアルに伴い廃止。
+      - インスティンクト(INSTINCT) - [ベルガモット](../Page/ベルガモット.md "wikilink")の香り。日本では2009年9月に追加されたが、2013年2月のパッケージリニューアルに伴い廃止。
       - アンリミテッド(UNLIMITED) - フレッシュ[ハーブ](../Page/ハーブ.md "wikilink")の香り。日本では2009年2月のリニューアルと共に追加されたが、2013年2月のパッケージリニューアルに伴い廃止。
       - ツイスト(TWIST) - シトラスからウッディーへ変化する香り。日本では2010年3月に追加されたが、「ワールドピース(WORLD PEACE)」の発売に伴い廃止。
       - アポロ(APOLLO) - さわやかなグリーンアロマの香り。2013年9月12日（木）の“宇宙の日”に新発売された。
@@ -103,7 +103,7 @@
     イギリス製のCM。数百人いる水着姿の女性が製品を体に吹きかけた男性に向かって走ってくる。イギリスでは2006年サッカーW杯の[イングランド](../Page/イングランド.md "wikilink")対[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")戦の際に1回だけ放送された\[3\]。
 
   - マネキン編
-    日本オリジナルのCM。[蒲生麻由](https://ja.wikipedia.org/wiki/蒲生麻由 "wikilink")演じる教師風の女性が[マネキン](https://ja.wikipedia.org/wiki/マネキン "wikilink")に製品を吹きかけるが、その香りに理性を失うというもので、表現がより露骨になっている。
+    日本オリジナルのCM。[蒲生麻由](../Page/蒲生麻由.md "wikilink")演じる教師風の女性が[マネキン](../Page/マネキン.md "wikilink")に製品を吹きかけるが、その香りに理性を失うというもので、表現がより露骨になっている。
 
   - 合コン編
     日本オリジナルのCM。[合コン](https://ja.wikipedia.org/wiki/合コン "wikilink")に兵士達が現れる。
@@ -114,16 +114,16 @@
   - ビーチパーティ編
     登場人物は[操り人形](https://ja.wikipedia.org/wiki/操り人形 "wikilink")を使用する斬新なアイディアと「ひと夏だけの体験」をテーマにしたものである。
 
-    [RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")「SPLASH」は、「AXE」CMソングとして起用されていた。
+    [RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")「SPLASH」は、「AXE」CMソングとして起用されていた。
 
-  - [TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")番組[リンカーンとの](https://ja.wikipedia.org/wiki/リンカーン_\(テレビ番組\) "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")CM（TBS系のみで放送）
+  - [TBSテレビ](../Page/TBSテレビ.md "wikilink")番組[リンカーンとの](../Page/リンカーン_\(テレビ番組\).md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")CM（TBS系のみで放送）
 
 :; コンビニ編
 
   -
 
       -
-        [松本人志](../Page/松本人志.md "wikilink")・[大竹一樹](https://ja.wikipedia.org/wiki/大竹一樹 "wikilink")・[蛍原徹](../Page/蛍原徹.md "wikilink")・[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")が美女を片手に[コンビニから出てくるのを目撃した](../Page/コンビニエンスストア.md "wikilink")[浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")・[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")･[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")・[ウド鈴木](../Page/ウド鈴木.md "wikilink")が、その原因がAxeだとわかってコンビニ店内でAxeを探し回る内容。
+        [松本人志](../Page/松本人志.md "wikilink")・[大竹一樹](../Page/大竹一樹.md "wikilink")・[蛍原徹](../Page/蛍原徹.md "wikilink")・[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")が美女を片手に[コンビニから出てくるのを目撃した](../Page/コンビニエンスストア.md "wikilink")[浜田雅功](../Page/浜田雅功.md "wikilink")・[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")･[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")・[ウド鈴木](../Page/ウド鈴木.md "wikilink")が、その原因がAxeだとわかってコンビニ店内でAxeを探し回る内容。
         当初、モテモテの原因がAxeだとわかって「Axeだ」と語るシーンは三村で撮影されていたが、あまりにNGを連発するため、宮迫に変更された。
 
   - ; ドラッグストア編
@@ -136,13 +136,13 @@
 
 ## タイアップ・コラボレーション
 
-  - [レインボーシックス ベガス](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス "wikilink") - [ラスベガス](../Page/ラスベガス.md "wikilink")市内に広告看板がある。また、[天蓋](https://ja.wikipedia.org/wiki/天蓋 "wikilink")アトラクションで有名な[フレモント・ストリート・エクスペリエンス](https://ja.wikipedia.org/wiki/フレモント・ストリート・エクスペリエンス "wikilink")ステージ内に置かれているAxeのボトルを撃つと、アーケードスクリーン全面が音楽・特殊ムービーと共に広告に変わる。2006年時点での[ゲーム内広告](https://ja.wikipedia.org/wiki/ゲーム内広告 "wikilink")としては最大規模の物\[5\]。
+  - [レインボーシックス ベガス](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス "wikilink") - [ラスベガス](../Page/ラスベガス.md "wikilink")市内に広告看板がある。また、[天蓋](https://ja.wikipedia.org/wiki/天蓋 "wikilink")アトラクションで有名な[フレモント・ストリート・エクスペリエンス](../Page/フレモント・ストリート・エクスペリエンス.md "wikilink")ステージ内に置かれているAxeのボトルを撃つと、アーケードスクリーン全面が音楽・特殊ムービーと共に広告に変わる。2006年時点での[ゲーム内広告](https://ja.wikipedia.org/wiki/ゲーム内広告 "wikilink")としては最大規模の物\[5\]。
   - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") - 2007年、番組内にて「カリスマセールスマン林さん」がオリジナル体操企画"THE AXERCISE II"を行った。
-  - [オビラジR](https://ja.wikipedia.org/wiki/オビラジR "wikilink") - タイアップで発売イベントを実施。[オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")の[藤森慎吾](https://ja.wikipedia.org/wiki/藤森慎吾 "wikilink")がTVCMにならった[ドッキリ](https://ja.wikipedia.org/wiki/ドッキリ "wikilink")を仕掛けられた。
-  - [リンカーン](https://ja.wikipedia.org/wiki/リンカーン_\(テレビ番組\) "wikilink") - 上記に記載されたコラボCMをTBS系列限定で2009年12月から2010年1月半ばまで放送。ユニリーバが同番組のスポンサーを務めている縁で実現した。また、CM撮影の様子も同番組内で放送された。さらにコラボCM第2弾も決定された。
+  - [オビラジR](../Page/オビラジR.md "wikilink") - タイアップで発売イベントを実施。[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")の[藤森慎吾](../Page/藤森慎吾.md "wikilink")がTVCMにならった[ドッキリ](../Page/ドッキリ.md "wikilink")を仕掛けられた。
+  - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink") - 上記に記載されたコラボCMをTBS系列限定で2009年12月から2010年1月半ばまで放送。ユニリーバが同番組のスポンサーを務めている縁で実現した。また、CM撮影の様子も同番組内で放送された。さらにコラボCM第2弾も決定された。
   - [メタルギアソリッド ピースウォーカー](https://ja.wikipedia.org/wiki/メタルギアソリッド_ピースウォーカー "wikilink") - フレグランス ボディスプレーがゲーム内アイテムとして登場する。(2010)
-  - [ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink") - 2011年7月にワンピースオリジナルフィギュア付のフレグランスボディスプレー（ダークテンプテーション、アンリミテッドを除く5種類）、ボディソープ（全種類）を数量限定で発売。同年10月には第2弾として「新世界編」が発売された（ボディソープは従来通り全種類だが、フレグランスボディスプレーはエッセンス・キロ・クリックの3種類のみの設定となる）。
-  - [機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink") - 2012年9月にガンダムオリジナルフィギュア付AXEを数量限定発売。ラインナップはボディソープ2種（エッセンス、キロ）とフレグランスボディスプレー4種（エッセンス、キロ、クリック、インスティンクト）の計6種。
+  - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink") - 2011年7月にワンピースオリジナルフィギュア付のフレグランスボディスプレー（ダークテンプテーション、アンリミテッドを除く5種類）、ボディソープ（全種類）を数量限定で発売。同年10月には第2弾として「新世界編」が発売された（ボディソープは従来通り全種類だが、フレグランスボディスプレーはエッセンス・キロ・クリックの3種類のみの設定となる）。
+  - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink") - 2012年9月にガンダムオリジナルフィギュア付AXEを数量限定発売。ラインナップはボディソープ2種（エッセンス、キロ）とフレグランスボディスプレー4種（エッセンス、キロ、クリック、インスティンクト）の計6種。
   - [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink") - 2013年6月に『Mash UP the DJ\!』のオリジナルムービーを制作した。
 
 ## 脚注
@@ -158,5 +158,5 @@
 1.  2007年5月号「日経エンタテインメント\!」（日経BP社）
 2.
 3.
-4.  浜田は[魚屋](https://ja.wikipedia.org/wiki/魚屋 "wikilink")、三村は[警察官](https://ja.wikipedia.org/wiki/警察官 "wikilink")、大竹は[土木作業員](https://ja.wikipedia.org/wiki/土工 "wikilink")、宮迫は[寿司職人](https://ja.wikipedia.org/wiki/寿司職人 "wikilink")、蛍原は[着ぐるみ役者](https://ja.wikipedia.org/wiki/着ぐるみ役者 "wikilink")、天野は[シェフ](../Page/シェフ.md "wikilink")、ウドは 整備工場員だった。
+4.  浜田は[魚屋](https://ja.wikipedia.org/wiki/魚屋 "wikilink")、三村は[警察官](../Page/警察官.md "wikilink")、大竹は[土木作業員](../Page/土工.md "wikilink")、宮迫は[寿司職人](https://ja.wikipedia.org/wiki/寿司職人 "wikilink")、蛍原は[着ぐるみ役者](https://ja.wikipedia.org/wiki/着ぐるみ役者 "wikilink")、天野は[シェフ](../Page/シェフ.md "wikilink")、ウドは 整備工場員だった。
 5.  IGN.(gamespy 2007-01) <http://www.gamespy.com/>

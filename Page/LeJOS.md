@@ -1,7 +1,7 @@
 > この記事は[LeJOS](https://ja.wikipedia.org/wiki/LeJOS)から翻訳されています。
 
 
-**leJOS**は[レゴマインドストームプログラマブルRCXコントローラーのファームウェアリプレイスメントである](https://ja.wikipedia.org/wiki/MINDSTORMS "wikilink")。[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")を含むので、レゴマインドストームのロボットに[Java](https://ja.wikipedia.org/wiki/Java "wikilink")でプログラムを施す事が出来る。コンピュータサイエンスの初年度の学生にJavaを教える為にしばしば使われる。2001年の12月には[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")にleJOSベースのロボット・Jitterが搭載された。
+**leJOS**は[レゴマインドストームプログラマブルRCXコントローラーのファームウェアリプレイスメントである](../Page/MINDSTORMS.md "wikilink")。[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")を含むので、レゴマインドストームのロボットに[Java](https://ja.wikipedia.org/wiki/Java "wikilink")でプログラムを施す事が出来る。コンピュータサイエンスの初年度の学生にJavaを教える為にしばしば使われる。2001年の12月には[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")にleJOSベースのロボット・Jitterが搭載された。
 
 ## 発音
 

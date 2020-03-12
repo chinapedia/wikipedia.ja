@@ -1,7 +1,7 @@
 > この記事は[ SAPPORO1972](https://ja.wikipedia.org/wiki/_SAPPORO1972)から翻訳されています。
 
 
-『**たった一度の雪〜SAPPORO・1972年〜**』（たったいちどのゆき サッポロ・せんきゅうひゃくななじゅうにねん）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBC）制作で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
+『**たった一度の雪〜SAPPORO・1972年〜**』（たったいちどのゆき サッポロ・せんきゅうひゃくななじゅうにねん）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBC）制作で[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
 
 ## あらすじ
 
@@ -10,27 +10,27 @@
 ## キャスト
 
   - [下村千穂](https://ja.wikipedia.org/wiki/下村千穂 "wikilink")（札幌オリンピック当時）：[神田沙也加](../Page/神田沙也加.md "wikilink")
-  - [孫台生](https://ja.wikipedia.org/wiki/孫台生 "wikilink")・孫維中：[チェン・ボーリン](https://ja.wikipedia.org/wiki/チェン・ボーリン "wikilink")
+  - [孫台生](https://ja.wikipedia.org/wiki/孫台生 "wikilink")・孫維中：[チェン・ボーリン](../Page/チェン・ボーリン.md "wikilink")
   - 下村千穂（現在）：[戸田恵子](../Page/戸田恵子.md "wikilink")
   - 下村幸江：[石野真子](../Page/石野真子.md "wikilink")
-  - 滝田茂治：[小林稔侍](https://ja.wikipedia.org/wiki/小林稔侍 "wikilink")
+  - 滝田茂治：[小林稔侍](../Page/小林稔侍.md "wikilink")
 
 ## スタッフ
 
-  - 脚本：[鎌田敏夫](https://ja.wikipedia.org/wiki/鎌田敏夫 "wikilink")
+  - 脚本：[鎌田敏夫](../Page/鎌田敏夫.md "wikilink")
   - 企画・演出：[河野啓](https://ja.wikipedia.org/wiki/河野啓 "wikilink")（HBC）
   - 製作：[五十嵐浩二](https://ja.wikipedia.org/wiki/五十嵐浩二 "wikilink")（HBC）
   - プロデューサー：国貞泰生（HBC）・河野啓（HBC）
-  - 音楽：[吉田ゐさお](https://ja.wikipedia.org/wiki/吉田ゐさお "wikilink")
-  - 主題歌：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")「サッポロSNOWY」（『[歌でしか言えない](https://ja.wikipedia.org/wiki/歌でしか言えない "wikilink")』収録曲）
+  - 音楽：[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")
+  - 主題歌：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")「サッポロSNOWY」（『[歌でしか言えない](../Page/歌でしか言えない.md "wikilink")』収録曲）
 
 ## その他
 
-放送日の2日前に、主演の神田が[HBCラジオ](../Page/HBCラジオ.md "wikilink")の朝の番組『[朝刊さくらい](https://ja.wikipedia.org/wiki/朝刊さくらい "wikilink")』と昼の番組『[カーナビラジオ午後一番\!](https://ja.wikipedia.org/wiki/カーナビラジオ午後一番! "wikilink")』に出演した。
+放送日の2日前に、主演の神田が[HBCラジオ](../Page/HBCラジオ.md "wikilink")の朝の番組『[朝刊さくらい](../Page/朝刊さくらい.md "wikilink")』と昼の番組『[カーナビラジオ午後一番\!](../Page/カーナビラジオ午後一番!.md "wikilink")』に出演した。
 
 ## 関連項目
 
-  - [石屋製菓](https://ja.wikipedia.org/wiki/石屋製菓 "wikilink")
+  - [石屋製菓](../Page/石屋製菓.md "wikilink")
 
 ## 外部リンク
 

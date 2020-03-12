@@ -1,13 +1,13 @@
 > この記事は[IMPACT \(\)](https://ja.wikipedia.org/wiki/IMPACT_\(\))から翻訳されています。
 
 
-『**IMPACT**』（インパクト）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")（4月8日深夜）から[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC) で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**IMPACT**』（インパクト）は、[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")（4月8日深夜）から[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC) で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 
 最新の[映画](../Page/映画.md "wikilink")や[J-POP](../Page/J-POP.md "wikilink")、新商品や注目のスポットなどのエンターテインメント情報を紹介していた[深夜番組](../Page/深夜番組.md "wikilink")である。
 
-初代MCは地元[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身のロックバンド[ketchup mania](https://ja.wikipedia.org/wiki/ketchup_mania "wikilink") （当初はけちゃっぷmania名義）のヴォーカル・HIROで、彼女が独特のジェスチャーを交えながら行う番組進行が特徴的だった。番組のラストではライブの模様が流れるなど、同バンドの活動報告があった。2009年4月からは[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")出身の歌手・[光岡昌美](https://ja.wikipedia.org/wiki/光岡昌美 "wikilink")が2代目MCとなり、セットも簡素なものから女性の部屋をイメージしたものに替わり、カメラワークもより工夫されたものになった。2010年4月をもって再度リニューアルし、[安田美沙子](https://ja.wikipedia.org/wiki/安田美沙子 "wikilink")と[オレンジが](https://ja.wikipedia.org/wiki/オレンジ_\(お笑い\) "wikilink")3代目MCとなった。
+初代MCは地元[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身のロックバンド[ketchup mania](https://ja.wikipedia.org/wiki/ketchup_mania "wikilink") （当初はけちゃっぷmania名義）のヴォーカル・HIROで、彼女が独特のジェスチャーを交えながら行う番組進行が特徴的だった。番組のラストではライブの模様が流れるなど、同バンドの活動報告があった。2009年4月からは[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")出身の歌手・[光岡昌美](https://ja.wikipedia.org/wiki/光岡昌美 "wikilink")が2代目MCとなり、セットも簡素なものから女性の部屋をイメージしたものに替わり、カメラワークもより工夫されたものになった。2010年4月をもって再度リニューアルし、[安田美沙子](https://ja.wikipedia.org/wiki/安田美沙子 "wikilink")と[オレンジが](../Page/オレンジ_\(お笑い\).md "wikilink")3代目MCとなった。
 
 番組の終了後、引き続き安田がMCを務める後継番組『[みちゃえる\!](https://ja.wikipedia.org/wiki/みちゃえる! "wikilink")』がスタートした。
 
@@ -28,7 +28,7 @@
   - HIRO （[ketchup mania](https://ja.wikipedia.org/wiki/ketchup_mania "wikilink")：2006年4月 - 2009年4月）
   - [光岡昌美](https://ja.wikipedia.org/wiki/光岡昌美 "wikilink")（2009年4月 - 2010年3月）
   - [安田美沙子](https://ja.wikipedia.org/wiki/安田美沙子 "wikilink")（2010年4月 - 2011年4月）
-  - [オレンジ](https://ja.wikipedia.org/wiki/オレンジ_\(お笑い\) "wikilink")（2010年4月 - 2011年4月）
+  - [オレンジ](../Page/オレンジ_\(お笑い\).md "wikilink")（2010年4月 - 2011年4月）
 
 ### アドバイザー
 
@@ -39,7 +39,7 @@
 
 ### シネマナビゲーター
 
-  - [上野規行](https://ja.wikipedia.org/wiki/上野規行 "wikilink")（ - 2010年3月）
+  - [上野規行](../Page/上野規行.md "wikilink")（ - 2010年3月）
 
 ### IMPACT D-RANGE
 
@@ -62,7 +62,7 @@
   - IMPACT GUEST
     最新映画の出演俳優や監督、新作をリリースするミュージシャンなどにインタビューをするコーナー。当初は日本人へのインタビューが主だったが、2007年秋からは海外の俳優へのインタビューもしばしば行うようになった。
   - IMPACT M＆M (Movie＆Music)
-    映画とJ-POPの情報を、映画の予告映像やミュージシャンからのメッセージ、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を交えて紹介するコーナー。
+    映画とJ-POPの情報を、映画の予告映像やミュージシャンからのメッセージ、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を交えて紹介するコーナー。
   - IMPACT D-RANGE
     洋楽のヒット曲に乗せ、男女のドライブデートという設定で東海地方のドライブスポットを紹介するコーナー。
   - IMPACT ITEM

@@ -1,9 +1,9 @@
 > この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
 
 
-**使徒XX**（しとダブルエックス）とは、『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』に登場する「[使徒](https://ja.wikipedia.org/wiki/使徒_\(新世紀エヴァンゲリオン\) "wikilink")」を[萌え擬人化](https://ja.wikipedia.org/wiki/萌え擬人化 "wikilink")した[フィギュア](../Page/フィギュア.md "wikilink")シリーズである。デザインは[吉崎観音](../Page/吉崎観音.md "wikilink")が担当。[ウェーブより発売](https://ja.wikipedia.org/wiki/ウェーブ_\(模型メーカー\) "wikilink")。
+**使徒XX**（しとダブルエックス）とは、『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』に登場する「[使徒](../Page/使徒_\(新世紀エヴァンゲリオン\).md "wikilink")」を[萌え擬人化](../Page/萌え擬人化.md "wikilink")した[フィギュア](../Page/フィギュア.md "wikilink")シリーズである。デザインは[吉崎観音](../Page/吉崎観音.md "wikilink")が担当。[ウェーブより発売](https://ja.wikipedia.org/wiki/ウェーブ_\(模型メーカー\) "wikilink")。
 
-エヴァンゲリオン放映開始10周年を記念して[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")より販売が開始された。本来は不気味で異様な雰囲気を持つ怪物である「使徒」を[綾波レイ](../Page/綾波レイ.md "wikilink")をベースとした美少女風の外見にリデザインしなおしたものである。なお、外見についてはタブリス－XXのみ統一規格から外れているが、これはタブリス－XXがタブリスの[DNA単体による性変換体であるからであり](../Page/デオキシリボ核酸.md "wikilink")、綾波レイをベースにしている訳ではないからである。「使徒XX」、「続使徒XX」、3頭身に[デフォルメ](https://ja.wikipedia.org/wiki/デフォルメ "wikilink")した「使徒XX:nano\!」（しとタブルエックスナノ）が発売されている。
+エヴァンゲリオン放映開始10周年を記念して[2005年](../Page/2005年.md "wikilink")より販売が開始された。本来は不気味で異様な雰囲気を持つ怪物である「使徒」を[綾波レイ](../Page/綾波レイ.md "wikilink")をベースとした美少女風の外見にリデザインしなおしたものである。なお、外見についてはタブリス－XXのみ統一規格から外れているが、これはタブリス－XXがタブリスの[DNA単体による性変換体であるからであり](../Page/デオキシリボ核酸.md "wikilink")、綾波レイをベースにしている訳ではないからである。「使徒XX」、「続使徒XX」、3頭身に[デフォルメ](../Page/デフォルメ.md "wikilink")した「使徒XX:nano\!」（しとタブルエックスナノ）が発売されている。
 
 ## コンセプト
 

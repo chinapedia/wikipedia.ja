@@ -1,31 +1,31 @@
 > この記事は[Q!](https://ja.wikipedia.org/wiki/Q!)から翻訳されています。
 
 
-『**Qっと\!サイエンス**』（キュっとサイエンス）は、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")と[北陸地方](../Page/北陸地方.md "wikilink")の民間テレビ局で放送された[テレビ大阪](../Page/テレビ大阪.md "wikilink")製作の[教育番組](https://ja.wikipedia.org/wiki/教育番組 "wikilink")。筆頭スポンサーは[関西電力](../Page/関西電力.md "wikilink")。製作局のテレビ大阪では2000年4月2日から2008年3月29日まで放送。
+『**Qっと\!サイエンス**』（キュっとサイエンス）は、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")と[北陸地方](../Page/北陸地方.md "wikilink")の民間テレビ局で放送された[テレビ大阪](../Page/テレビ大阪.md "wikilink")製作の[教育番組](../Page/教育番組.md "wikilink")。筆頭スポンサーは[関西電力](../Page/関西電力.md "wikilink")。製作局のテレビ大阪では2000年4月2日から2008年3月29日まで放送。
 
 ## 概要
 
 日常生活との繋がりが深い[科学](../Page/科学.md "wikilink")を毎回1つのテーマに沿って検証していた番組である。毎回のテーマには子供たちが親しみやすいものを選んでいた。
 
-製作局のテレビ大阪はこの番組以前から、同じく科学をテーマにした『[美しい科学・シグナス](https://ja.wikipedia.org/wiki/美しい科学・シグナス "wikilink")』という番組を日曜9:15枠で放送していた。番組の終了後も引き続き土曜9:30枠で[石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")司会の後継番組『[かがくdeムチャミタス\!](https://ja.wikipedia.org/wiki/かがくdeムチャミタス! "wikilink")』が開始された。
+製作局のテレビ大阪はこの番組以前から、同じく科学をテーマにした『[美しい科学・シグナス](https://ja.wikipedia.org/wiki/美しい科学・シグナス "wikilink")』という番組を日曜9:15枠で放送していた。番組の終了後も引き続き土曜9:30枠で[石田靖](../Page/石田靖.md "wikilink")司会の後継番組『[かがくdeムチャミタス\!](https://ja.wikipedia.org/wiki/かがくdeムチャミタス! "wikilink")』が開始された。
 
 ## 出演者
 
 ### 司会
 
-  - [酒井健治](https://ja.wikipedia.org/wiki/酒井健治 "wikilink")（テレビ大阪アナウンサー） - 一時期番組を降板していたが、2005年10月に復帰した。
+  - [酒井健治](../Page/酒井健治.md "wikilink")（テレビ大阪アナウンサー） - 一時期番組を降板していたが、2005年10月に復帰した。
   - [穴井夕子](https://ja.wikipedia.org/wiki/穴井夕子 "wikilink") - 2002年まで酒井とともに司会を務めていた。
-  - [吉野紗香](https://ja.wikipedia.org/wiki/吉野紗香 "wikilink") - 2002年6月1日放送分からレギュラー入りし、以後は最終回まで司会を担当。
+  - [吉野紗香](../Page/吉野紗香.md "wikilink") - 2002年6月1日放送分からレギュラー入りし、以後は最終回まで司会を担当。
   - [渡辺学](https://ja.wikipedia.org/wiki/渡辺学 "wikilink")（当時テレビ大阪アナウンサー） - 酒井が番組を降板している間、吉野とともに司会を務めていた。
 
 ### コメンテーター
 
-  - [大村皓一](https://ja.wikipedia.org/wiki/大村皓一 "wikilink")（[宝塚造形芸術大学](https://ja.wikipedia.org/wiki/宝塚造形芸術大学 "wikilink")教授）
-  - [宮崎慶次](https://ja.wikipedia.org/wiki/宮崎慶次 "wikilink")（[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")名誉教授、当時[近畿職業能力開発大学校](https://ja.wikipedia.org/wiki/近畿職業能力開発大学校 "wikilink")校長）
+  - [大村皓一](../Page/大村皓一.md "wikilink")（[宝塚造形芸術大学](https://ja.wikipedia.org/wiki/宝塚造形芸術大学 "wikilink")教授）
+  - [宮崎慶次](https://ja.wikipedia.org/wiki/宮崎慶次 "wikilink")（[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")名誉教授、当時[近畿職業能力開発大学校](../Page/近畿職業能力開発大学校.md "wikilink")校長）
 
 ## スタッフ
 
-  - ナレーター - [猪井操子](https://ja.wikipedia.org/wiki/猪井操子 "wikilink")（当時テレビ大阪アナウンサー）
+  - ナレーター - [猪井操子](../Page/猪井操子.md "wikilink")（当時テレビ大阪アナウンサー）
   - プロデューサー - 西村聡（TVO）、藤本睦美（サイエンスワークス）
   - ディレクター - 藤原祥仁、滝朋和、藤田充良、原田徹（ノーサイド）
   - 製作 - テレビ大阪、サイエンスワークス
@@ -44,7 +44,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
 <td><p>日曜 09:00 - 09:15 （2000年4月2日 - 2000年12月）<br />
@@ -61,7 +61,7 @@
 <td><p>8日遅れ → 9日遅れ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/奈良県" title="wikilink">奈良県</a></p></td>
+<td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/全国独立UHF放送協議会" title="wikilink">独立UHF局</a></p></td>
 <td><p>土曜 17:00 - 17:15</p></td>
@@ -84,7 +84,7 @@
 <tr class="even">
 <td><p><a href="../Page/全国放送.md" title="wikilink">日本全国</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日経CNBC" title="wikilink">日経CNBC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/専門チャンネル" title="wikilink">CSチャンネル</a></p></td>
+<td><p><a href="../Page/専門チャンネル.md" title="wikilink">CSチャンネル</a></p></td>
 <td><p>日曜 14:30 - 14:42 （本放送）<br />
 土曜 17:15 - 17:27 （再放送）</p></td>
 <td><p>不明</p></td>
@@ -92,7 +92,7 @@
 </tbody>
 </table>
 
-以上が関西電力のサービスエリア内での放送状況である。このほか、[放送番組センター](https://ja.wikipedia.org/wiki/放送番組センター "wikilink")の配給の下、『**おしゃべりQっと\!サイエンス**』というタイトルで過去の番組が放送されている。
+以上が関西電力のサービスエリア内での放送状況である。このほか、[放送番組センター](../Page/放送番組センター.md "wikilink")の配給の下、『**おしゃべりQっと\!サイエンス**』というタイトルで過去の番組が放送されている。
 
 ## 脚注
 

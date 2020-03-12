@@ -1,15 +1,15 @@
 > この記事は[Don\'t start now - Jumping into the World](https://ja.wikipedia.org/wiki/Don\'t_start_now_-_Jumping_into_the_World)から翻訳されています。
 
 
-『**Don't start now - Jumping into the World**』（ドント・スタート・ナウ - ジャンピング・イントゥ・ザ・ワールド）は、[韓国出身の女性](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、韓国版[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink") 1.5集として発表されたスペシャルアルバム。
+『**Don't start now - Jumping into the World**』（ドント・スタート・ナウ - ジャンピング・イントゥ・ザ・ワールド）は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、韓国版[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink") 1.5集として発表されたスペシャルアルバム。
 
 ## 概要
 
-タイトル通り、本格的な海外進出を象徴する初めてのアルバムである。[韓国におけるデビューアルバム](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")「**[ID; Peace B](../Page/ID;_Peace_B.md "wikilink")**」の好評を受けて、目標としていた海外進出を目し、特に当盤は[米国ないし](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏進出を意識したスペシャルアルバムとして発表された。新曲8曲に加え、前作の収録曲のうち、「**ID; Peace B**」、「**SARA**」、「**I'm sorry**」の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版と、「**ID; Peace B**」、「**<span lang="ko">SARA</span>**」、「**Don't start now**」の[英語](../Page/英語.md "wikilink")版が収録されている。
+タイトル通り、本格的な海外進出を象徴する初めてのアルバムである。[韓国におけるデビューアルバム](../Page/大韓民国.md "wikilink")「**[ID; Peace B](../Page/ID;_Peace_B.md "wikilink")**」の好評を受けて、目標としていた海外進出を目し、特に当盤は[米国ないし](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏進出を意識したスペシャルアルバムとして発表された。新曲8曲に加え、前作の収録曲のうち、「**ID; Peace B**」、「**SARA**」、「**I'm sorry**」の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版と、「**ID; Peace B**」、「**<span lang="ko">SARA</span>**」、「**Don't start now**」の[英語](../Page/英語.md "wikilink")版が収録されている。
 
-これをきっかけに、所属事務所[SMエンターテインメント](https://ja.wikipedia.org/wiki/SMエンターテインメント "wikilink")は[エイベックスと提携し](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[BoA](../Page/BoA.md "wikilink")の本格的な日本における芸能活動を開始した。日本におけるファーストアルバム「**[LISTEN TO MY HEART](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\) "wikilink")**」には、本作収録の「**Don't Start Now**」、「**POWER**」、「**Dreams come true**」の[日本語](../Page/日本語.md "wikilink")版が収録されている。
+これをきっかけに、所属事務所[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")は[エイベックスと提携し](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[BoA](../Page/BoA.md "wikilink")の本格的な日本における芸能活動を開始した。日本におけるファーストアルバム「**[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")**」には、本作収録の「**Don't Start Now**」、「**POWER**」、「**Dreams come true**」の[日本語](../Page/日本語.md "wikilink")版が収録されている。
 
-なおエイベックスより発売された日本版では、同時発売された限定シングル「[Don't start now](https://ja.wikipedia.org/wiki/Don't_start_now "wikilink")」との混同を避けるためか「Jumping into the World」のタイトルで発売、[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")仕様となっておりBoAのインタビュー動画が閲覧できる。
+なおエイベックスより発売された日本版では、同時発売された限定シングル「[Don't start now](../Page/Don't_start_now.md "wikilink")」との混同を避けるためか「Jumping into the World」のタイトルで発売、[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")仕様となっておりBoAのインタビュー動画が閲覧できる。
 
 ## 代表曲
 
@@ -25,12 +25,12 @@
         作詞: Park Jeonglan, 作曲: カン・ウォンソク（강원석）
 3.  **DESTINY**
       -
-        作詞: Kim Kibeom, Yu Younwook, 作曲: [原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
+        作詞: Kim Kibeom, Yu Younwook, 作曲: [原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 4.  **Love letter**
       -
         作詞: Kim Jongsook, 作曲: Jung Jaeyoon
     <!-- end list -->
-      - 後の2007年にリリースされる24thシングル『[LOVE LETTER](https://ja.wikipedia.org/wiki/LOVE_LETTER_\(BoAの曲\) "wikilink")』とは全く別曲である。
+      - 後の2007年にリリースされる24thシングル『[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")』とは全く別曲である。
 5.  **Love hurts**
       -
         作詞: Seo Yoongkeun, 作曲: Seo Yoongkeun
@@ -55,7 +55,7 @@
       -
         作詞: Kim Kibeom, Yu Younwook, 作曲: 原田憲
     <!-- end list -->
-      - [ID; Peace Bカップリング](https://ja.wikipedia.org/wiki/ID;_Peace_B_\(曲\) "wikilink")。
+      - [ID; Peace Bカップリング](../Page/ID;_Peace_B_\(曲\).md "wikilink")。
 12. **I'm sorry** <small>*Chinese version*</small>
       -
         作詞: Sijie Fairy, 作曲: イ・ヒョンジョン（）

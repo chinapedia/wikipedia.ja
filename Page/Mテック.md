@@ -1,17 +1,17 @@
 > この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
 
 
-**Mテック**（エムテック）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](https://ja.wikipedia.org/wiki/舞浜 "wikilink")にある[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの企業の一つである。
+**Mテック**（エムテック）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](../Page/舞浜.md "wikilink")にある[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの企業の一つである。
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")　テーマパーク内遊技施設のメンテナンスを行う会社として、オリエンタルランドの100%出資子会社として設立（従来は外部の専門業者に委託していた）
+  - [2005年](../Page/2005年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")　テーマパーク内遊技施設のメンテナンスを行う会社として、オリエンタルランドの100%出資子会社として設立（従来は外部の専門業者に委託していた）
 
 ## 脚注
 
 ## 関連項目
 
-  - [メンテナンス](https://ja.wikipedia.org/wiki/メンテナンス "wikilink")
+  - [メンテナンス](../Page/メンテナンス.md "wikilink")
 
 ## 外部リンク
 

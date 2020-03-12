@@ -1,11 +1,11 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-**Eプロダクション**（イープロダクション）は、かつて[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](https://ja.wikipedia.org/wiki/舞浜 "wikilink")にあった[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの[芸能事務所](../Page/芸能事務所.md "wikilink")。
+**Eプロダクション**（イープロダクション）は、かつて[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](../Page/舞浜.md "wikilink")にあった[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの[芸能事務所](../Page/芸能事務所.md "wikilink")。
 
 ## 沿革
 
-  - [2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") - オリエンタルランドの100%出資子会社として、千葉県浦安市舞浜35番地1に設立。
+  - [2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[12月10日](../Page/12月10日.md "wikilink") - オリエンタルランドの100%出資子会社として、千葉県浦安市舞浜35番地1に設立。
       -
         この間に、本社所在地が浦安市舞浜1番地1となる。
   - [2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）

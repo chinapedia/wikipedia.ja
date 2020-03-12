@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - 前作「[Baby Don't Cry](../Page/Baby_Don't_Cry_\(安室奈美恵の曲\).md "wikilink")」からわずか3ヶ月足らずでのリリースとなった[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")第2弾シングル。[4月4日](../Page/4月4日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")（ジャケットA）、CD（ジャケットB）の2パターンでリリース。ジャケットAは黒のファッションを基調とした黒盤、ジャケットBは白のファッションを基調とした白盤。
+  - 前作「[Baby Don't Cry](../Page/Baby_Don't_Cry_\(安室奈美恵の曲\).md "wikilink")」からわずか3ヶ月足らずでのリリースとなった[2007年](../Page/2007年.md "wikilink")第2弾シングル。[4月4日](../Page/4月4日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")（ジャケットA）、CD（ジャケットB）の2パターンでリリース。ジャケットAは黒のファッションを基調とした黒盤、ジャケットBは白のファッションを基調とした白盤。
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink")は、“[HIP HOP](../Page/ヒップホップ.md "wikilink")/[R\&Bを軸に](../Page/リズム・アンド・ブルース.md "wikilink")、明るくポップでリッチで大人でお洒落な、安室のジャンルの世界観を決定的にする楽曲”。
-  - 自身出演の[ユニリーバ・ジャパン](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink")「新[リプトン](https://ja.wikipedia.org/wiki/リプトン "wikilink") リモーネ」[CMタイアップソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。バリエーションは「輝くプレミアム」宣言篇、実感篇。自身にとって約2年ぶりのCM出演となった。
+  - 自身出演の[ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")「新[リプトン](../Page/リプトン.md "wikilink") リモーネ」[CMタイアップソング](../Page/コマーシャルソング.md "wikilink")。バリエーションは「輝くプレミアム」宣言篇、実感篇。自身にとって約2年ぶりのCM出演となった。
   - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")には、[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")プロデュースの「DARLING」を収録。
   - 夏にアルバムの発売が決まっていたため、実質先行シングルである（[\#収録アルバム](https://ja.wikipedia.org/wiki/#収録アルバム "wikilink")を参照）。
-  - [PVのコンセプトは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")“架空のファンキータウン”、テーマはCMの演出内容とリンクした“キラキラ”。ダンスシーンは勿論、ゴールドの[ミラーボール](https://ja.wikipedia.org/wiki/ミラーボール "wikilink")の上で歌ったり、自身の顔のアップのスクリーンをバックに歌うPVとなった。
+  - [PVのコンセプトは](../Page/ミュージック・ビデオ.md "wikilink")“架空のファンキータウン”、テーマはCMの演出内容とリンクした“キラキラ”。ダンスシーンは勿論、ゴールドの[ミラーボール](https://ja.wikipedia.org/wiki/ミラーボール "wikilink")の上で歌ったり、自身の顔のアップのスクリーンをバックに歌うPVとなった。
   - シングル購入者特典として、“安室奈美恵 FUNKY TOWN オリジナル ミラーボール・キーホルダー”と題した[キーホルダー](../Page/キーホルダー.md "wikilink")が先着限定でプレゼントされた（CD+DVD盤はゴールド、CD盤はシルバー）。
 
 ## CD・DVD収録曲
@@ -26,8 +26,8 @@
 <td><ol>
 <li><strong>FUNKY TOWN</strong> - (3：49)
 <ul>
-<li>作詞：<a href="https://ja.wikipedia.org/wiki/MICHICO" title="wikilink">michico</a> / 作曲：<a href="https://ja.wikipedia.org/wiki/T.KURA" title="wikilink">T.Kura</a>, <a href="https://ja.wikipedia.org/wiki/LLブラザーズ" title="wikilink">L.L.Brothers</a>, michico / 編曲：T.Kura</li>
-<li><a href="https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン" title="wikilink">ユニリーバ・ジャパン</a>「新<a href="https://ja.wikipedia.org/wiki/リプトン" title="wikilink">リプトン</a> リモーネ」CMタイアップソング</li>
+<li>作詞：<a href="../Page/MICHICO.md" title="wikilink">michico</a> / 作曲：<a href="../Page/T.KURA.md" title="wikilink">T.Kura</a>, <a href="https://ja.wikipedia.org/wiki/LLブラザーズ" title="wikilink">L.L.Brothers</a>, michico / 編曲：T.Kura</li>
+<li><a href="../Page/ユニリーバ・ジャパン.md" title="wikilink">ユニリーバ・ジャパン</a>「新<a href="../Page/リプトン.md" title="wikilink">リプトン</a> リモーネ」CMタイアップソング</li>
 </ul></li>
 <li><strong>DARLING</strong> - (5：05)
 <ul>
@@ -44,7 +44,7 @@
 <td><ol>
 <li><strong>FUNKY TOWN (VIDEO CLIP)</strong>
 <ul>
-<li>監督：内野政明 / 振付：黒須洋壬（<a href="https://ja.wikipedia.org/wiki/THE_CONVOY" title="wikilink">THE CONVOY</a>）</li>
+<li>監督：内野政明 / 振付：黒須洋壬（<a href="../Page/THE_CONVOY.md" title="wikilink">THE CONVOY</a>）</li>
 </ul></li>
 </ol></td>
 </tr>
@@ -57,8 +57,8 @@
 <tbody>
 <tr class="odd">
 <td><p>8thアルバム</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/PLAY_(安室奈美恵のアルバム)" title="wikilink">PLAY</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
+<td><p><strong><a href="../Page/PLAY_(安室奈美恵のアルバム).md" title="wikilink">PLAY</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
 <td><p>CD</p></td>
 <td><p>04. <strong>FUNKY TOWN</strong></p></td>
 </tr>
@@ -70,8 +70,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>4th<a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BEST_FICTION" title="wikilink">BEST FICTION</a></strong></p></td>
+<td><p>4th<a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a></p></td>
+<td><p><strong><a href="../Page/BEST_FICTION.md" title="wikilink">BEST FICTION</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月30日.md" title="wikilink">7月30日</a></p></td>
 <td><p>CD<br />
 DVD（MV）</p></td>

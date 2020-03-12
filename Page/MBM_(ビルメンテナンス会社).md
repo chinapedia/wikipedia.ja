@@ -1,11 +1,11 @@
 > この記事は[MBM \(\)](https://ja.wikipedia.org/wiki/MBM_\(\))から翻訳されています。
 
 
-**株式会社MBM**（エムビーエム、英：MBM Co.,Ltd）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[美浜に本社を置く](https://ja.wikipedia.org/wiki/美浜_\(浦安市\) "wikilink")[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")（OLC）グループの企業の一つである。旧称・**舞浜ビルメンテナンス**。
+**株式会社MBM**（エムビーエム、英：MBM Co.,Ltd）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[美浜に本社を置く](https://ja.wikipedia.org/wiki/美浜_\(浦安市\) "wikilink")[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")（OLC）グループの企業の一つである。旧称・**舞浜ビルメンテナンス**。
 
-主に親会社であるOLCから[東京ディズニーリゾート](https://ja.wikipedia.org/wiki/東京ディズニーリゾート "wikilink")（TDR）内の警備・清掃・施設管理業務の一部を受託している。[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")（TDL）、[東京ディズニーシー](https://ja.wikipedia.org/wiki/東京ディズニーシー "wikilink")（TDS）の両[ディズニーパーク](../Page/ディズニーパーク.md "wikilink")内の夜間清掃（ナイトカストーディアル）のほか、OLC本社区域の警備、TDRの外周警備、TDRの閉園中警備（グレーブヤード・パトロール）を行っていることで知られている。またTDR内ホテルで、ハウスキーピング業務、リネン類の集配業務（ランナー）等を行っている。
+主に親会社であるOLCから[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")（TDR）内の警備・清掃・施設管理業務の一部を受託している。[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")（TDL）、[東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")（TDS）の両[ディズニーパーク](../Page/ディズニーパーク.md "wikilink")内の夜間清掃（ナイトカストーディアル）のほか、OLC本社区域の警備、TDRの外周警備、TDRの閉園中警備（グレーブヤード・パトロール）を行っていることで知られている。またTDR内ホテルで、ハウスキーピング業務、リネン類の集配業務（ランナー）等を行っている。
 
-近年では[清掃](https://ja.wikipedia.org/wiki/清掃 "wikilink")や[警備](https://ja.wikipedia.org/wiki/警備 "wikilink")といったビルメンテナンス業にとどまらず、ホテルショップの運営、厨房機器の施工、保険商品の取り扱い等も行っており、年々業容を拡大している。
+近年では[清掃](../Page/清掃.md "wikilink")や[警備](../Page/警備.md "wikilink")といったビルメンテナンス業にとどまらず、ホテルショップの運営、厨房機器の施工、保険商品の取り扱い等も行っており、年々業容を拡大している。
 
 ## 事業内容
 
@@ -61,8 +61,8 @@
   - [2001年](../Page/2001年.md "wikilink")（平成13年）[6月8日](../Page/6月8日.md "wikilink")　 [オリエンタルランド](../Page/オリエンタルランド.md "wikilink")の100%出資子会社・株式会社舞浜ビルメンテナンスとして設立
   - [2001年](../Page/2001年.md "wikilink")（平成13年）[8月1日](../Page/8月1日.md "wikilink")　 清掃事業開始
   - [2001年](../Page/2001年.md "wikilink")（平成13年）[9月1日](../Page/9月1日.md "wikilink")　 警備事業開始
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[6月1日](../Page/6月1日.md "wikilink")　 ホテル客室清掃事業開始
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[8月1日](../Page/8月1日.md "wikilink")　 ショップ運営事業開始
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）[6月1日](../Page/6月1日.md "wikilink")　 ホテル客室清掃事業開始
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[8月1日](../Page/8月1日.md "wikilink")　 ショップ運営事業開始
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[8月1日](../Page/8月1日.md "wikilink")　 [オーエルシー・キッチンテクノ](https://ja.wikipedia.org/wiki/オーエルシー・キッチンテクノ "wikilink")を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")、厨房事業開始
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[6月8日](../Page/6月8日.md "wikilink")　 創立10周年
   - [2015年](../Page/2015年.md "wikilink")（平成27年）[4月1日](../Page/4月1日.md "wikilink")　 [吸収分割](https://ja.wikipedia.org/wiki/吸収分割 "wikilink")により[舞浜コーポレーション](../Page/舞浜コーポレーション.md "wikilink")の物品販売事業等を承継。同日、株式会社MBMに改称。
@@ -99,10 +99,10 @@
 
 ## 関連項目
 
-  - [清掃](https://ja.wikipedia.org/wiki/清掃 "wikilink")
-  - [警備](https://ja.wikipedia.org/wiki/警備 "wikilink")
+  - [清掃](../Page/清掃.md "wikilink")
+  - [警備](../Page/警備.md "wikilink")
   - [施設管理](https://ja.wikipedia.org/wiki/施設管理 "wikilink")
-  - [ビルメンテナンス](https://ja.wikipedia.org/wiki/建築物管理 "wikilink")
+  - [ビルメンテナンス](../Page/建築物管理.md "wikilink")
 
 ## 外部リンク
 

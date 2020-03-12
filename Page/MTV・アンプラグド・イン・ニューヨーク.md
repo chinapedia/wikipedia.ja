@@ -3,7 +3,7 @@
 
 『**MTV・アンプラグド・ニューヨーク**』（MTV Unplugged in New York）は、1994年に発売された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のロックバンド、[ニルヴァーナのライブ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")・アルバム。
 
-『[ローリング・ストーン](https://ja.wikipedia.org/wiki/ローリング・ストーン "wikilink")』誌が選んだ「オールタイム・ベスト・アルバム500」と「オールタイム・ベスト・ライヴ・アルバム50」に於いて、それぞれ313位\[1\]と10位\[2\]にランクイン。
+『[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")』誌が選んだ「オールタイム・ベスト・アルバム500」と「オールタイム・ベスト・ライヴ・アルバム50」に於いて、それぞれ313位\[1\]と10位\[2\]にランクイン。
 
 ## 経緯
 
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")
+  - [MTV](../Page/MTV.md "wikilink")
 
 [Category:ニルヴァーナのアルバム](https://ja.wikipedia.org/wiki/Category:ニルヴァーナのアルバム "wikilink") [Category:1994年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のライブ・アルバム "wikilink") [Category:MTVアンプラグド_(アルバム)](https://ja.wikipedia.org/wiki/Category:MTVアンプラグド_\(アルバム\) "wikilink") [Category:ゲフィン・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ゲフィン・レコードのアルバム "wikilink") [Category:全英アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:全英アルバムチャート1位獲得作品 "wikilink")
 

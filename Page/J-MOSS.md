@@ -1,11 +1,11 @@
 > この記事は[J-MOSS](https://ja.wikipedia.org/wiki/J-MOSS)から翻訳されています。
 
 
-**J-MOSS**（ジェイモス）は、[JIS](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink") C 0950の通称であり、正式名称を「電気・電子機器の特定の化学物質の含有表示方法」という。日本版[RoHS](https://ja.wikipedia.org/wiki/RoHS "wikilink")指令とも目されている。
+**J-MOSS**（ジェイモス）は、[JIS](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink") C 0950の通称であり、正式名称を「電気・電子機器の特定の化学物質の含有表示方法」という。日本版[RoHS](../Page/RoHS.md "wikilink")指令とも目されている。
 
 ## 内容
 
-2006年7月1日に施行された[資源有効利用促進法](https://ja.wikipedia.org/wiki/資源有効利用促進法 "wikilink")改正政省令により、特定化学物質を含有する特定7品目に対してはJIS C 0950に従って、基準値を超えた場合にオレンジ色のマークによる表示が義務づけられた。また、基準値を超えない場合には、任意で緑色のマークを表示できるとされた。欧州 ([EU](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")) の[RoHS](https://ja.wikipedia.org/wiki/RoHS "wikilink")指令が特定化学物質の使用を制限するものであるのに対し、J-MOSSは特定化学物質の含有状況明示方法を規格化したものに過ぎない。
+2006年7月1日に施行された[資源有効利用促進法](https://ja.wikipedia.org/wiki/資源有効利用促進法 "wikilink")改正政省令により、特定化学物質を含有する特定7品目に対してはJIS C 0950に従って、基準値を超えた場合にオレンジ色のマークによる表示が義務づけられた。また、基準値を超えない場合には、任意で緑色のマークを表示できるとされた。欧州 ([EU](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")) の[RoHS](../Page/RoHS.md "wikilink")指令が特定化学物質の使用を制限するものであるのに対し、J-MOSSは特定化学物質の含有状況明示方法を規格化したものに過ぎない。
 
 ## 特定化学物質
 
@@ -30,7 +30,7 @@
 
 ## 関連項目
 
-  - [RoHS](https://ja.wikipedia.org/wiki/RoHS "wikilink")
+  - [RoHS](../Page/RoHS.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[BIOHAZARD GAIDEN](https://ja.wikipedia.org/wiki/BIOHAZARD_GAIDEN)から翻訳されています。
 
 
-『**BIOHAZARD GAIDEN**』（バイオハザードがいでん）は[2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")が販売した[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")専用の[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。開発はM4 Ltd.（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）。
+『**BIOHAZARD GAIDEN**』（バイオハザードがいでん）は[2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")が販売した[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")専用の[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。開発はM4 Ltd.（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）。
 
 ## 概要
 

@@ -3,12 +3,12 @@
 
 **NEOMAX**（ネオマックス）とは
 
-1.  かつてあった企業で、現在は[日立金属](https://ja.wikipedia.org/wiki/日立金属 "wikilink")である。
+1.  かつてあった企業で、現在は[日立金属](../Page/日立金属.md "wikilink")である。
 2.  1.が製造・販売するネオジム磁石の商品名。
 
 -----
 
-**株式会社NEOMAX**は、かつて存在した各種[磁性材料](https://ja.wikipedia.org/wiki/磁性材料 "wikilink")、[電子材料](https://ja.wikipedia.org/wiki/電子材料 "wikilink")の製造・販売を行う会社。2007年4月1日、[日立金属](https://ja.wikipedia.org/wiki/日立金属 "wikilink")に吸収合併された。 旧社名は**住友特殊金属株式会社**。[住友金属工業](../Page/住友金属工業.md "wikilink")（現・[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink")）の子会社として設立された。 2004年、日立金属の傘下となり、同社の磁性材料部門と統合して株式会社NEOMAXとなった。 現在実用化されている中で最強の[磁石](../Page/磁石.md "wikilink")である[ネオジム磁石](../Page/ネオジム磁石.md "wikilink")を発明した[佐川眞人](https://ja.wikipedia.org/wiki/佐川眞人 "wikilink")が所属していた企業として知られており、社名はその商品名にちなんだものであった。
+**株式会社NEOMAX**は、かつて存在した各種[磁性材料](https://ja.wikipedia.org/wiki/磁性材料 "wikilink")、[電子材料](https://ja.wikipedia.org/wiki/電子材料 "wikilink")の製造・販売を行う会社。2007年4月1日、[日立金属](../Page/日立金属.md "wikilink")に吸収合併された。 旧社名は**住友特殊金属株式会社**。[住友金属工業](../Page/住友金属工業.md "wikilink")（現・[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink")）の子会社として設立された。 2004年、日立金属の傘下となり、同社の磁性材料部門と統合して株式会社NEOMAXとなった。 現在実用化されている中で最強の[磁石](../Page/磁石.md "wikilink")である[ネオジム磁石](../Page/ネオジム磁石.md "wikilink")を発明した[佐川眞人](https://ja.wikipedia.org/wiki/佐川眞人 "wikilink")が所属していた企業として知られており、社名はその商品名にちなんだものであった。
 
 ## 沿革
 
@@ -20,9 +20,9 @@
 ## かつて存在した製造拠点
 
   - 山崎製作所（[大阪府](../Page/大阪府.md "wikilink")[三島郡](https://ja.wikipedia.org/wiki/三島郡_\(大阪府\) "wikilink")[島本町](https://ja.wikipedia.org/wiki/島本町 "wikilink")）
-  - 熊谷製作所（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")）
+  - 熊谷製作所（[埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")）
   - 和歌山事業所（[和歌山県](../Page/和歌山県.md "wikilink")[和歌山市](../Page/和歌山市.md "wikilink")）
-  - 大町事業所（[佐賀県](../Page/佐賀県.md "wikilink")[杵島郡](../Page/杵島郡.md "wikilink")[大町町](https://ja.wikipedia.org/wiki/大町町 "wikilink")）
+  - 大町事業所（[佐賀県](../Page/佐賀県.md "wikilink")[杵島郡](../Page/杵島郡.md "wikilink")[大町町](../Page/大町町.md "wikilink")）
 
 ## 関連会社
 

@@ -1,7 +1,7 @@
 > この記事は[XFL](https://ja.wikipedia.org/wiki/XFL)から翻訳されています。
 
 
-**XFL**は、WWF（現在の[WWE](../Page/WWE.md "wikilink")）と[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")が出資し、[2001年](../Page/2001年.md "wikilink")にのみ運営されたのち、2020年に復活した[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")のプロリーグ。WWFの代表者として知られる[ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")によって設立された。以下は、断りのない限り2020年のXFLについて述べる。
+**XFL**は、WWF（現在の[WWE](../Page/WWE.md "wikilink")）と[NBC](../Page/NBC.md "wikilink")が出資し、[2001年](../Page/2001年.md "wikilink")にのみ運営されたのち、2020年に復活した[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")のプロリーグ。WWFの代表者として知られる[ビンス・マクマホン](../Page/ビンス・マクマホン.md "wikilink")によって設立された。以下は、断りのない限り2020年のXFLについて述べる。
 
 ## 概説
 

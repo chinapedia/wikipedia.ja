@@ -1,15 +1,15 @@
 > この記事は[SHAMROCK \(\)](https://ja.wikipedia.org/wiki/SHAMROCK_\(\))から翻訳されています。
 
 
-「**SHAMROCK**」（シャムロック）は、[UVERworld](../Page/UVERworld.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。発売元は、[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")(SME)。
+「**SHAMROCK**」（シャムロック）は、[UVERworld](../Page/UVERworld.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。発売元は、[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)。
 
 ## 概要
 
-[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")主演のフジテレビ系連続テレビドラマ『[ダンドリ。〜Dance☆Drill〜](../Page/ダンドリ。〜Dance☆Drill〜.md "wikilink")』主題歌に起用され、UVERworld初のドラマ主題歌となる。また、その番外編ともいえるフジテレビ系連続テレビドラマ『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』の主題歌にもエンディングテーマの2ndシングル「[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")」と共に起用され、さらに『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』[CMソングでもあった](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")主演のフジテレビ系連続テレビドラマ『[ダンドリ。〜Dance☆Drill〜](../Page/ダンドリ。〜Dance☆Drill〜.md "wikilink")』主題歌に起用され、UVERworld初のドラマ主題歌となる。また、その番外編ともいえるフジテレビ系連続テレビドラマ『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』の主題歌にもエンディングテーマの2ndシングル「[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")」と共に起用され、さらに『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』[CMソングでもあった](../Page/コマーシャルソング.md "wikilink")。
 
-PVは外国人の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")を集めて、都内のとあるプールで撮影された。このPVはUVERworldの[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルの中で最も再生されている。
+PVは外国人の[エキストラ](../Page/エキストラ.md "wikilink")を集めて、都内のとあるプールで撮影された。このPVはUVERworldの[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルの中で最も再生されている。
 
-この曲で自身2度目のTBS系音楽番組『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』に登場。[着うた](../Page/着うた.md "wikilink")は50万ダウンロード突破した。
+この曲で自身2度目のTBS系音楽番組『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』に登場。[着うた](../Page/着うた.md "wikilink")は50万ダウンロード突破した。
 
 通常盤と初回生産限定盤の2タイプでのリリース。初回生産限定盤は、[CDと](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")の2枚組である。
 
@@ -27,7 +27,7 @@ PVは外国人の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ
 
 1.  **SHAMROCK**
       -
-        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『ダンドリ。〜Dance☆Drill〜』、『ダンドリ娘』主題歌。『music.jp』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『ダンドリ。〜Dance☆Drill〜』、『ダンドリ娘』主題歌。『music.jp』[CMソング](../Page/コマーシャルソング.md "wikilink")。
         2006年に行われた初の全国ツアー"UVERworld Timeless TOUR 2006"のアンコールで披露された新曲「RE」に新たにアレンジを加え、歌詞を書き換えたものである。
         楽曲途中にTAKUYA∞がダミ声を披露。
         TAKUYA∞がPV時に着用しているブレスレットはライブでも一時期着用していた。
@@ -58,14 +58,14 @@ PVは外国人の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ
 ## 関連項目
 
   - [UVERworld](../Page/UVERworld.md "wikilink")
-  - [gr8\! records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")
+  - [gr8\! records](../Page/ソニー・ミュージックレコーズ.md "wikilink")
   - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
   - [ダンドリ。〜Dance☆Drill〜](../Page/ダンドリ。〜Dance☆Drill〜.md "wikilink")
   - [ダンドリ娘](../Page/ダンドリ娘.md "wikilink")
 
 ## THE HOOPERSのカバー
 
-日本のイケメン女子アイドルグループ、[THE HOOPERSが](https://ja.wikipedia.org/wiki/THE_HOOPERS "wikilink")7枚目のシングルとして[2017年](../Page/2017年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[ユニバーサルシグマから発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。\[1\]
+日本のイケメン女子アイドルグループ、[THE HOOPERSが](https://ja.wikipedia.org/wiki/THE_HOOPERS "wikilink")7枚目のシングルとして[2017年](../Page/2017年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[ユニバーサルシグマから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。\[1\]
 
 ### 内容
 

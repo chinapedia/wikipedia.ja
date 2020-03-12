@@ -1,13 +1,13 @@
 > この記事は[H2O -FOOTPRINTS IN THE SAND-](https://ja.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND-)から翻訳されています。
 
 
-『**HO -FOOTPRINTS IN THE SAND-**』（エイチツーオー フットプリンツ イン ザ サンド）は、2006年6月23日（[金曜日](../Page/金曜日.md "wikilink")）に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")制作[ブランド](../Page/ブランド.md "wikilink")・[枕より発売された](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")、[18禁の](../Page/レイティング.md "wikilink")[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）[ソフト](../Page/ソフトウェア.md "wikilink")。およびこれを原作とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品。
+『**HO -FOOTPRINTS IN THE SAND-**』（エイチツーオー フットプリンツ イン ザ サンド）は、2006年6月23日（[金曜日](../Page/金曜日.md "wikilink")）に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")制作[ブランド](../Page/ブランド.md "wikilink")・[枕より発売された](../Page/枕_\(ゲームブランド\).md "wikilink")、[18禁の](../Page/レイティング.md "wikilink")[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）[ソフト](../Page/ソフトウェア.md "wikilink")。およびこれを原作とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品。
 
 ## 概要 及び ゲームシステム
 
 対応[OSは](../Page/オペレーティングシステム.md "wikilink")[日本語](../Page/日本語.md "wikilink")版[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [98SE](../Page/Microsoft_Windows_98.md "wikilink")/[2000](../Page/Microsoft_Windows_2000.md "wikilink")/[ME](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")/[XP](../Page/Microsoft_Windows_XP.md "wikilink")。[DVD-ROM](https://ja.wikipedia.org/wiki/DVD#DVD-ROM "wikilink")1枚。定価8190円（本体価格7800円+[消費税](../Page/消費税.md "wikilink")）。当初は同年5月26日に発売予定だったが1ヶ月延期された。
 
-購入特典として特製冊子が、予約特典としてオリジナル[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")が付属。また、販売店別オリジナル予約特典として[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")では「HO爆笑ドラマCD『水爆』」が、[メッセサンオー](https://ja.wikipedia.org/wiki/メッセサンオー "wikilink")でも録り下ろしドラマCDが付属された。
+購入特典として特製冊子が、予約特典としてオリジナル[サウンドトラック](../Page/サウンドトラック.md "wikilink")が付属。また、販売店別オリジナル予約特典として[ソフマップ](../Page/ソフマップ.md "wikilink")では「HO爆笑ドラマCD『水爆』」が、[メッセサンオー](../Page/メッセサンオー.md "wikilink")でも録り下ろしドラマCDが付属された。
 
 2007年10月26日に外伝『**√<span style="text-decoration:overline;">after and another</span>**』が発売され、2009年7月31日には『HO』と『√<span style="text-decoration:overline;">after and another</span>』を1本のソフトにまとめた上で新規CGの追加と[Windows Vistaへの対応を行った](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")『**HO √<span style="text-decoration:overline;">after and another</span> Complete Story Edition**』が発売されている。
 
@@ -15,7 +15,7 @@
 
 [狗神煌](../Page/狗神煌.md "wikilink")の描く漫画版は[角川書店](../Page/角川書店.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[コンプエース](../Page/月刊コンプエース.md "wikilink")」VOL.11（2007年1月26日発売）より連載された。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")は2008年1月より放映された。放映に先行して、[monet](https://ja.wikipedia.org/wiki/monet "wikilink")が歌うWindows版主題歌のアレンジバージョンを収録したCD『HO -Prelude-』が2007年[12月21日](../Page/12月21日.md "wikilink")に発売された。
 
-[ムーンフェイズ](https://ja.wikipedia.org/wiki/ムーンフェイズ "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")傘下のブランド「[ケロQ](../Page/ケロQ.md "wikilink")」の姉妹ブランド「枕」の第1作である[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")型の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[SCA-自](../Page/SCA-自.md "wikilink")を初めとした複数の[イラストレーター](../Page/イラストレーター.md "wikilink")が[原画](../Page/原画.md "wikilink")・[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")を担当しており、[脚本](../Page/脚本.md "wikilink")担当の1人[藤倉絢一](https://ja.wikipedia.org/wiki/藤倉絢一 "wikilink")は本作が[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")作となる。メインヒロインは「小日向はやみ」「神楽ひなた」「音羽」という名の3人で、枕が2015年に発売した『[サクラノ詩](https://ja.wikipedia.org/wiki/サクラノ詩 "wikilink")』のメインヒロイン「御桜稟」もサブキャラクターとして登場している。また『サクラノ詩』には、サブキャラクターとして『HO』主人公の弘瀬琢磨も登場している。
+[ムーンフェイズ](https://ja.wikipedia.org/wiki/ムーンフェイズ "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")傘下のブランド「[ケロQ](../Page/ケロQ.md "wikilink")」の姉妹ブランド「枕」の第1作である[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")型の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[SCA-自](../Page/SCA-自.md "wikilink")を初めとした複数の[イラストレーター](../Page/イラストレーター.md "wikilink")が[原画](../Page/原画.md "wikilink")・[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")を担当しており、[脚本](../Page/脚本.md "wikilink")担当の1人[藤倉絢一](https://ja.wikipedia.org/wiki/藤倉絢一 "wikilink")は本作が[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")作となる。メインヒロインは「小日向はやみ」「神楽ひなた」「音羽」という名の3人で、枕が2015年に発売した『[サクラノ詩](../Page/サクラノ詩.md "wikilink")』のメインヒロイン「御桜稟」もサブキャラクターとして登場している。また『サクラノ詩』には、サブキャラクターとして『HO』主人公の弘瀬琢磨も登場している。
 
 本編の主人公である少年「弘瀬琢磨」は盲目で物を見ることができない。物の形は思い描くことができるが、物の色までは想像できないということになっている。この設定に臨場感を持たせるため、このゲームには "Blindness Effect" （ブラインドネスエフェクト、盲目効果）と呼ばれるシステムがあり、この機能を動作させると背景や登場人物の画像が白黒で映される\[1\]。
 
@@ -42,29 +42,29 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
       -
         アニメ版では最初は目が不自由という設定だが、第1話のラストで夢の中に出てきた音羽のおまじないによって視力を取り戻した。だが第11話で母の死の真相から目を背け受け入れる事ができず、再び視力を失う（作中では写真などから最初から視力は戻っておらず、音羽の力で幻を見ていたと思われる）。さらにはやみのことを「お母さん」と呼ぶようになり幼児退行まで引き起こす。それを見かねた弘瀬家は琢磨を東京に引き戻すことになり、はやみと一緒に東京で暮らすことになる。その間、踏切の事故ではやみを失うことで琢磨はようやく母の死を理解し、自分の中の呪縛から解放され幼児退行はなくなり完全に目が見えるようになった。その数年後、はやみとの思い出の丘で琢磨は風車台を建て、はやみと再会する（音羽が精霊会議で頼み込んで実現したという説あり）。原作のような変態ぶりは見られない。[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")に連載されたコミック版では、最終話で病気を克服し、視力を取り戻した。
   - 小日向 はやみ（こひなた はやみ）
-    声 - [和泉真優](https://ja.wikipedia.org/wiki/和泉真優 "wikilink") / [櫻井浩美](https://ja.wikipedia.org/wiki/櫻井浩美 "wikilink")
-    [12月25日](../Page/12月25日.md "wikilink")生まれ。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")146 [cm](../Page/センチメートル.md "wikilink")。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink"):読書 [特技](https://ja.wikipedia.org/wiki/特技 "wikilink"):節約 好きな色:赤 得意科目:全教科
-    琢磨が転校した学校に通う途中で出会った少女。学校では彼の隣の席に座っている。性格は無愛想でとげとげしく、他人を拒絶し友達を作りたがろうとしない。腕っ節は強く、琢磨からは[熊のように強いと言われている](https://ja.wikipedia.org/wiki/クマ "wikilink")。[クモ](https://ja.wikipedia.org/wiki/クモ "wikilink")が大の苦手。家が貧しくて[水着](https://ja.wikipedia.org/wiki/水着 "wikilink")を買えず、[水泳](../Page/水泳.md "wikilink")の授業に参加できないので泳ぐことは苦手らしい（決して泳げないわけではない）。琢磨のことは苗字を呼び捨てで「弘瀬」と呼ぶ。また、年齢の割に聡い。
+    声 - [和泉真優](https://ja.wikipedia.org/wiki/和泉真優 "wikilink") / [櫻井浩美](../Page/櫻井浩美.md "wikilink")
+    [12月25日](../Page/12月25日.md "wikilink")生まれ。[身長](../Page/身長.md "wikilink")146 [cm](../Page/センチメートル.md "wikilink")。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink"):読書 [特技](https://ja.wikipedia.org/wiki/特技 "wikilink"):節約 好きな色:赤 得意科目:全教科
+    琢磨が転校した学校に通う途中で出会った少女。学校では彼の隣の席に座っている。性格は無愛想でとげとげしく、他人を拒絶し友達を作りたがろうとしない。腕っ節は強く、琢磨からは[熊のように強いと言われている](https://ja.wikipedia.org/wiki/クマ "wikilink")。[クモ](https://ja.wikipedia.org/wiki/クモ "wikilink")が大の苦手。家が貧しくて[水着](../Page/水着.md "wikilink")を買えず、[水泳](../Page/水泳.md "wikilink")の授業に参加できないので泳ぐことは苦手らしい（決して泳げないわけではない）。琢磨のことは苗字を呼び捨てで「弘瀬」と呼ぶ。また、年齢の割に聡い。
     村の掟により小日向家は差別されており、彼女も在籍しているクラスで陰湿な[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")を受けている。元々小日向家は沢衣村の名家だったが、「山の者」（沢衣村で差別されている人たちのこと）と関わりを持ったために没落。現在はその日の食事にも困るような生活をしている。はやみの父親は働いているようだが、労働に見合った給金を支払われていないようで、家では酒を飲み暴力を振るうこともある様子。はやみは村の情勢や人の心をよく理解していたため、いじめられても決して反撃せずひたすら耐える日々を送っていたが、友達になれると思っていたひなた（ほたる）から裏切られたことがきっかけで、誰にも心を開かない少女になってしまった。しかし、根底にある優しい心は失っていない。
       -
         アニメ版では小日向家は以前は村の中でも有力な地位にあったが、権力を利用した横暴により村民に家と家族を焼かれ、没落した。いじめを受けていたのはその出来事の罪滅ぼしだと自己認識していた。そのため、人目を避けて[ゴンドラ](https://ja.wikipedia.org/wiki/ゴンドラ "wikilink")の廃車体を自宅代わりに暮らしていたが、物語の中盤に入るとひなたと仲直りし、いじめられることもなくなり平穏に過ごしていたが、ゴンドラの自宅までもが焼き討ちにあい焼失してしまい、その後は琢磨の叔父の家でお世話になっている。朝から食べる[カップ麺](../Page/カップ麺.md "wikilink")を「贅沢」と言うほど貧乏だったが、どうやって生活費を稼いでいたのかは不明。琢磨の母を自殺に追いやったのも小日向である自分のせいだと思い込む。アニメ版の最終話では、琢磨と一緒に東京で生活し新聞配達を始める。だが琢磨との買い物帰りの途中、遮断機の降りた線路に入った子供を助けようとして線路の中に飛び出し、その後琢磨の前から姿を消す（生死は不明）。しかしその数年後、村の丘で琢磨と再会する（音羽の発言から「精霊会議」によって甦ったという説もあるが、詳細は語られていないため、経緯は不明）。
   - 神楽 ひなた（かぐら ひなた） / 神楽 ほたる（かぐら ほたる）
-    声 - [一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink") / [田中涼子](../Page/田中涼子_\(声優\).md "wikilink")
+    声 - [一色ヒカル](../Page/一色ヒカル.md "wikilink") / [田中涼子](../Page/田中涼子_\(声優\).md "wikilink")
     [11月1日](../Page/11月1日.md "wikilink")生まれ。身長145 cm。血液型A型。趣味:料理・日向ぼっこ 特技:編み物 好きな色:黒 好きな食べ物:飴 得意科目:勉強全教科 苦手科目:体育
-    琢磨のやってきた「沢衣村」の村長の孫娘。学校では琢磨のクラスの学級[委員長](https://ja.wikipedia.org/wiki/委員長 "wikilink")を務める。優しく世話好きで礼儀正しく、お嬢様であることを自慢しないので周囲からの人望も厚い。[音痴](https://ja.wikipedia.org/wiki/音痴 "wikilink")。ドジで動きがやや鈍く、階段から転げ落ちてしまったところを（下敷きになった）琢磨に助けられたときから、彼のことを「弘瀬さま」と呼んでいる。大きな家に、他界した妹の部屋を綺麗に保管している。
+    琢磨のやってきた「沢衣村」の村長の孫娘。学校では琢磨のクラスの学級[委員長](../Page/委員長.md "wikilink")を務める。優しく世話好きで礼儀正しく、お嬢様であることを自慢しないので周囲からの人望も厚い。[音痴](../Page/音痴.md "wikilink")。ドジで動きがやや鈍く、階段から転げ落ちてしまったところを（下敷きになった）琢磨に助けられたときから、彼のことを「弘瀬さま」と呼んでいる。大きな家に、他界した妹の部屋を綺麗に保管している。
     実は彼女は**神楽ひなた**ではなく、ひなたの双子の妹の**神楽ほたる**。幼少期、ほたるのお願いが原因でひなたが事故死してしまい、優秀な娘だったひなたを失った母親から「どうしてほたるが死ななかったのか」と疎まれ、ほたる自身も姉を死に追いやった自責の念に追いつめられる。そのとき祖父から、ひなたの代わりとなることを提案され、母親の笑顔を取り戻すためにひなたとして生きていくことを決意する。その後、人一倍努力を重ね周囲からも神楽ひなたとして認められるようになった。しかし村の掟を知らず小日向はやみと友達になってしまったため、小日向を逆恨みした村民達が小日向家を襲撃する。その現場を祖父によって見せられ、厳しく戒められたことによりはやみと友達でいることができなくなってしまった。現在ははやみのことを差別しているが心の底でははやみに申し訳ないと思っており、はやみを思う気持ちとひなたである自分の間で板挟みになり、自己嫌悪に陥っている。
       -
         アニメ版でも当初からはやみとは琢磨をめぐって恋のライバル的存在であったが、最終的にははやみに譲り、応援している。最終話では祖父の悪事を暴いた。数年後、沢衣村の村長に就任している。
   - 音羽（おとは）
-    声 - [成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink") / 同左
+    声 - [成瀬未亜](../Page/成瀬未亜.md "wikilink") / 同左
     身長136 cm。血液型AB型。
     村に来た琢磨が最初に出会った謎の少女。自らを「時ノ音の[精霊](../Page/精霊.md "wikilink")」（ときのねのせいれい）と称する。天真爛漫を絵に描いたような性格で、そこぬけに明るく、いつもどこからともなく現れては「すりすり」と言いながら琢磨に抱きついてくる。[一人称](../Page/一人称.md "wikilink")は「[ボク](../Page/ボク少女.md "wikilink")」。彼女の存在を認識することができるのは琢磨だけであり、琢磨以外の人間には彼女の姿を見ることも声を聞くこともできない。それは琢磨が「約束の人」と呼ばれる特別な存在であるかららしい。琢磨のことは「琢磨くん」と呼ぶ。
     彼女の正体は、既に事故死した**本物の神楽ひなたの幽霊**。死して無に溶けるはずだったが、泣いているほたるのことが気がかりで幽霊となって現世に居残る。しかし、誰からも見えず他人に干渉することができない自分自身の無力さに絶望。生前好きだった漫画（アニメでは妹のほたるが書いていた童話）「時ノ音の精霊」に登場する精霊に自分を位置づけ、「約束の人」（自分を見ることのできる人）を唯一の希望として待ち続けていた。
       -
         アニメでは中盤で役目を終えて消滅したが、最終話で生まれ変わって琢磨と再会する。
   - 田端 ゆい（たばた ゆい）
-    声 - [矢沢泉](https://ja.wikipedia.org/wiki/矢沢泉 "wikilink") / [安田未央](https://ja.wikipedia.org/wiki/安田未央 "wikilink")
-    琢磨達のクラスにいる[ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")の少女。我が儘で高飛車な性格でいつも男子生徒の子分2人を連れている。家が貧しく、ゴミ箱を漁ることも少なくないはやみのことをいじめたり、琢磨と仲良くしようとするひなたに[悪戯](../Page/悪戯.md "wikilink")をしている。「あたくしは〜」「〜ですわ」などのお嬢様言葉を話す。琢磨に対する呼称は、はやみと同様「弘瀬」。[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")が好物。[11月25日](../Page/11月25日.md "wikilink")生まれ。身長154 cm。血液型A型。
+    声 - [矢沢泉](https://ja.wikipedia.org/wiki/矢沢泉 "wikilink") / [安田未央](../Page/安田未央.md "wikilink")
+    琢磨達のクラスにいる[ツインテール](../Page/ツインテール.md "wikilink")の少女。我が儘で高飛車な性格でいつも男子生徒の子分2人を連れている。家が貧しく、ゴミ箱を漁ることも少なくないはやみのことをいじめたり、琢磨と仲良くしようとするひなたに[悪戯](../Page/悪戯.md "wikilink")をしている。「あたくしは〜」「〜ですわ」などのお嬢様言葉を話す。琢磨に対する呼称は、はやみと同様「弘瀬」。[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")が好物。[11月25日](../Page/11月25日.md "wikilink")生まれ。身長154 cm。血液型A型。
       -
         アニメ版では昔ゆいの祖父が危篤の際に小日向家に治療費の工面を依頼するも結局断られ、そしてその後、充分な治療を受けられなかった祖父は死亡。そのことが切っ掛けで、現在貧窮の中で暮らしているはやみに対しても小日向の人間ということで、怨みを抱き続けていたが、第6話にて和解することができ、その後は友達のように彼女に接している。
     HOのファンディスクである『√<span style="text-decoration:overline;">after and another</span>』ではゆいをヒロインとしたルートが存在している。また、PS2版でも攻略対象になっている。
@@ -82,7 +82,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
   - 御桜 稟（みさくら りん）
     声 - 高城流依 / 本多陽子
     琢磨と同様、都会からやってきた転校生。優しく温和で、どんなことにも手を抜かずに頑張ろうとする努力家。音羽ルートにて登場し、琢磨の行動のきっかけとなる重要な助言を与える。
-    [枕の処女作になるはずだった作品](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")『[サクラノ詩](https://ja.wikipedia.org/wiki/サクラノ詩 "wikilink")』のメインヒロイン。
+    [枕の処女作になるはずだった作品](../Page/枕_\(ゲームブランド\).md "wikilink")『[サクラノ詩](../Page/サクラノ詩.md "wikilink")』のメインヒロイン。
   - 穂積 輝夫（ほづみ てるお）
     声 - なし / [川津泰彦](https://ja.wikipedia.org/wiki/川津泰彦 "wikilink")
     沢衣村に暮らしている琢磨の叔父。琢磨のことを「タク坊」と呼ぶ。筋骨隆々とした体つきで豪放磊落な性格。都会育ちで軟弱な琢磨を強く逞しい一人前の男に鍛え上げたいと思っている。
@@ -90,7 +90,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
   - 八雲 雪路（やくも ゆきじ）
     声 - 成瀬未亜 / [加藤英美里](../Page/加藤英美里.md "wikilink")（アニメ版のみ）
     はまじの妹。ゲームでは外伝の『√<span style="text-decoration:overline;">after and another</span>』に登場する。
-    幼い頃に母を亡くし、はまじが母親代わりとなり慕ってきた。そのためかなりの[ブラコンであり](https://ja.wikipedia.org/wiki/ブラザーコンプレックス "wikilink")、精神的にかなり依存している。はまじを「お兄ちゃん」（アニメ版では「まーちゃん」）と呼ぶ。はまじから子ども扱いされることがしばしばある。
+    幼い頃に母を亡くし、はまじが母親代わりとなり慕ってきた。そのためかなりの[ブラコンであり](../Page/ブラザーコンプレックス.md "wikilink")、精神的にかなり依存している。はまじを「お兄ちゃん」（アニメ版では「まーちゃん」）と呼ぶ。はまじから子ども扱いされることがしばしばある。
     もともと男嫌いの性格であり、兄に近づく（仲の良い）琢磨を特に目の敵にしている。また、兄以外に大切な人間がいないためか、勘違いしたまま自分勝手な行動をとるが多い。それにより、琢磨の家に勝手に上がりこんで琢磨の私物を汚損したり、琢磨が大切にしてきた一枚しかない母親の写真を破って捨てるなど、人としてあるまじき行為を行ったりする。しかし、多少ずれてはいるものの物事の善し悪しはわかっており、琢磨の家で暴れた日の翌日には、謝罪とともに自身の持っている一枚きりの母親の写真を琢磨に破らせることで相応の罰を受けようとした（琢磨は「わかってくれればいい」と言って、彼女の写真を破らなかった）。
 
 ## 制作スタッフ
@@ -98,7 +98,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
   - 原画（各キャラクターごとに担当者が異なる）
       - 小日向はやみ：[基4%](https://ja.wikipedia.org/wiki/基4% "wikilink")
       - 音羽・御桜稟：[月音](../Page/月音.md "wikilink")
-      - 神楽ひなた：[硯](https://ja.wikipedia.org/wiki/硯_\(イラストレーター\) "wikilink")
+      - 神楽ひなた：[硯](../Page/硯_\(イラストレーター\).md "wikilink")
       - 田端ゆい・サブキャラ全般：[籠目](https://ja.wikipedia.org/wiki/籠目_\(イラストレーター\) "wikilink")
       - 八雲はまじ：[SCA-自](../Page/SCA-自.md "wikilink")
       - SDキャラ全般：砌煉炭
@@ -111,16 +111,16 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
 
 ## テレビアニメ
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から[アニメスピリッツ枠で放映された](https://ja.wikipedia.org/wiki/アニメ魂 "wikilink")。全12話。第2話における小日向の全裸水浴シーンをはじめ女性キャラクターが素肌を露出させるシーンには、湯気追加や画面トリミングなどの修正が加えられている。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から[アニメスピリッツ枠で放映された](../Page/アニメ魂.md "wikilink")。全12話。第2話における小日向の全裸水浴シーンをはじめ女性キャラクターが素肌を露出させるシーンには、湯気追加や画面トリミングなどの修正が加えられている。
 
 ### スタッフ
 
-  - 原作 - [枕](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")
-  - 原案イラスト - [基4%](https://ja.wikipedia.org/wiki/基4% "wikilink")、[月音](../Page/月音.md "wikilink")、[硯](https://ja.wikipedia.org/wiki/硯_\(イラストレーター\) "wikilink")、[籠目](https://ja.wikipedia.org/wiki/籠目_\(イラストレーター\) "wikilink")、[すかぢ](../Page/SCA-自.md "wikilink")、砌煉炭
+  - 原作 - [枕](../Page/枕_\(ゲームブランド\).md "wikilink")
+  - 原案イラスト - [基4%](https://ja.wikipedia.org/wiki/基4% "wikilink")、[月音](../Page/月音.md "wikilink")、[硯](../Page/硯_\(イラストレーター\).md "wikilink")、[籠目](https://ja.wikipedia.org/wiki/籠目_\(イラストレーター\) "wikilink")、[すかぢ](../Page/SCA-自.md "wikilink")、砌煉炭
   - 企画 - [安田猛](https://ja.wikipedia.org/wiki/安田猛_\(角川書店\) "wikilink")
   - 製作 - [伊藤敦](https://ja.wikipedia.org/wiki/伊藤敦_\(プロデューサー\) "wikilink")、小畑良治、内野秀紀、[夏野剛](../Page/夏野剛.md "wikilink")、阿佐美弘恭、酒匂暢彦
   - 監督 - 橘秀樹
-  - シリーズ構成 - [花田十輝](https://ja.wikipedia.org/wiki/花田十輝 "wikilink")
+  - シリーズ構成 - [花田十輝](../Page/花田十輝.md "wikilink")
   - キャラクターデザイン - 奥田淳
   - プロップデザイン - [岩永悦宜](https://ja.wikipedia.org/wiki/岩永悦宜 "wikilink")
   - 美術監督 - 高橋和博
@@ -133,15 +133,15 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
   - 音響プロデューサー - [中野徹](https://ja.wikipedia.org/wiki/中野徹 "wikilink")
   - 制作プロデューサー - 橋本和典
   - プロデューサー - [蜂屋誠一](https://ja.wikipedia.org/wiki/蜂屋誠一 "wikilink")、千葉誠、鈴木智子、平光良介、原田由佳、武智恒雄、川崎とも子
-  - アニメーション制作 - [ZEXCS](https://ja.wikipedia.org/wiki/ゼクシズ "wikilink")
-  - 製作 - 「H2O」製作委員会（[角川書店](../Page/角川書店.md "wikilink")、[角川映画](../Page/角川映画_\(企業\).md "wikilink")、[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")、[NTT DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")、ZEXCS）
+  - アニメーション制作 - [ZEXCS](../Page/ゼクシズ.md "wikilink")
+  - 製作 - 「H2O」製作委員会（[角川書店](../Page/角川書店.md "wikilink")、[角川映画](../Page/角川映画_\(企業\).md "wikilink")、[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")、[NTT DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[クロックワークス](../Page/クロックワークス.md "wikilink")、ZEXCS）
 
 ### 主題歌（アニメ）
 
   - オープニングテーマ「[片翼のイカロス](https://ja.wikipedia.org/wiki/片翼のイカロス "wikilink")」
-    作詞・作曲 - [上松範康](../Page/上松範康.md "wikilink") ([Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")) / 編曲 - [藤間仁](../Page/藤間仁.md "wikilink") (Elements Garden) / 歌 - [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")
+    作詞・作曲 - [上松範康](../Page/上松範康.md "wikilink") ([Elements Garden](../Page/Elements_Garden.md "wikilink")) / 編曲 - [藤間仁](../Page/藤間仁.md "wikilink") (Elements Garden) / 歌 - [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")
   - エンディングテーマ「カザハネ」（第一刻 - 第十一刻）
-    作詞 - [霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink") / 作曲 - [藤田淳平](../Page/藤田淳平.md "wikilink") (Elements Garden) / 編曲 - [菊田大介](../Page/菊田大介.md "wikilink") (Elements Garden) / 歌 - 霜月はるか
+    作詞 - [霜月はるか](../Page/霜月はるか.md "wikilink") / 作曲 - [藤田淳平](../Page/藤田淳平.md "wikilink") (Elements Garden) / 編曲 - [菊田大介](../Page/菊田大介.md "wikilink") (Elements Garden) / 歌 - 霜月はるか
   - エンディングテーマ「FOOTPRINTS IN THE SAND」（第十二刻）
     作詞 - 藤倉絢一 / 作曲・編曲 - ピクセルビー / 歌 - monet
   - 挿入歌「スイッチ・オン♪」（第四刻）
@@ -149,7 +149,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
   - 挿入歌「life」（第十二刻）
     作詞・作曲 - 霜月はるか / 編曲 - 藤田淳平 (Elements Garden) / 歌 - 霜月はるか
   - 魔法少女マジカルおとはテーマソング「マジカルO・TO・HA・」（第八刻）
-    作詞 - kanoko / 作曲・編曲 - 藤田淳平 (Elements Garden) / 歌 - マジカル音羽（[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")）
+    作詞 - kanoko / 作曲・編曲 - 藤田淳平 (Elements Garden) / 歌 - マジカル音羽（[成瀬未亜](../Page/成瀬未亜.md "wikilink")）
 
 ### 各話リスト
 
@@ -169,9 +169,9 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
 <tr class="odd">
 <td><p>第一刻</p></td>
 <td><p>琢磨</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
 <td><p>橘秀樹</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森山雄治" title="wikilink">柴又十哉</a></p></td>
+<td><p><a href="../Page/森山雄治.md" title="wikilink">柴又十哉</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -287,17 +287,17 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
 
 | 放送地域                                                  | 放送局                                                                                                             | 放送期間                                                                                                                             | 放送日時                                                                 | 放送区分                                                    | 備考 |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------- | -- |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")   | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                           | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月3日](../Page/1月3日.md "wikilink") - [3月20日](../Page/3月20日.md "wikilink") | 木曜 25:30 - 26:00                                                     | [独立局](../Page/全国独立放送協議会.md "wikilink")                  |    |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                           | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月3日](../Page/1月3日.md "wikilink") - [3月20日](../Page/3月20日.md "wikilink") | 木曜 25:30 - 26:00                                                     | [独立局](../Page/全国独立放送協議会.md "wikilink")                  |    |
 | [奈良県](../Page/奈良県.md "wikilink")                      | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")                                                       |                                                                                                                                  |                                                                      |                                                         |    |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")   | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")                                                       | 木曜 26:30 - 27:00                                                                                                                 |                                                                      |                                                         |    |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                                                               |                                                                                                                                  |                                                                      |                                                         |    |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")                                                                             | 2008年[1月4日](../Page/1月4日.md "wikilink") - [3月21日](../Page/3月21日.md "wikilink")                                                   | 金曜 26:00 - 26:30                                                     |                                                         |    |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [チバテレビ](../Page/千葉テレビ放送.md "wikilink")                                                                          | 木曜 26:30 - 27:00                                                                                                                 |                                                                      |                                                         |    |
+| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                                                               |                                                                                                                                  |                                                                      |                                                         |    |
+| [京都府](../Page/京都府.md "wikilink")                      | [KBS京都](../Page/京都放送.md "wikilink")                                                                             | 2008年[1月4日](../Page/1月4日.md "wikilink") - [3月21日](../Page/3月21日.md "wikilink")                                                   | 金曜 26:00 - 26:30                                                     |                                                         |    |
 | [長野県](../Page/長野県.md "wikilink")                      | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")                                                           | 金曜 26:45 - 27:15                                                                                                                 | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") |                                                         |    |
 | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                                                                             | 2008年[1月5日](../Page/1月5日.md "wikilink") - [3月22日](../Page/3月22日.md "wikilink")                                                   | 土曜 27:30 - 28:00                                                     | 独立局                                                     |    |
 | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                                                                            | 2008年[1月6日](../Page/1月6日.md "wikilink") - [3月23日](../Page/3月23日.md "wikilink")                                                   | 日曜 25:30 - 26:00                                                     |                                                         |    |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")   | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                                                                        | 2008年[1月9日](../Page/1月9日.md "wikilink") - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")                                | 水曜 27:38 - 28:08                                                     | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") |    |
+| [福岡県](../Page/福岡県.md "wikilink")                      | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                                                                        | 2008年[1月9日](../Page/1月9日.md "wikilink") - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")                                | 水曜 27:38 - 28:08                                                     | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") |    |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                                                                          | 2008年[1月10日](../Page/1月10日.md "wikilink") - [3月27日](../Page/3月27日.md "wikilink")                                                 | 木曜 26:30 - 27:00                                                     |                                                         |    |
-| [福井県](../Page/福井県.md "wikilink")                      | [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")                                                    | 2008年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - [4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")             | 木曜 25:20 - 25:50                                                     | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")               |    |
+| [福井県](../Page/福井県.md "wikilink")                      | [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")                                                    | 2008年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - [4月3日](../Page/4月3日.md "wikilink")                                | 木曜 25:20 - 25:50                                                     | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")               |    |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")   | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")                                                           | 2008年[1月28日](../Page/1月28日.md "wikilink") - [4月14日](../Page/4月14日.md "wikilink")                                                 | 月曜 26:20 - 26:50                                                     | TBS系列                                                   |    |
 | [日本全国](../Page/全国放送.md "wikilink")                    | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                         | 2008年[2月4日](../Page/2月4日.md "wikilink") - [4月21日](../Page/4月21日.md "wikilink")                                                   | 月曜 26:00 - 26:30                                                     | [BS放送](../Page/日本における衛星放送.md "wikilink")                |    |
 | [AT-X](../Page/アニメシアターX.md "wikilink")                | [2009年](../Page/2009年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - [12月8日](../Page/12月8日.md "wikilink") | 火曜 11:00 - 11:30                                                                                                                 | [CS放送](../Page/日本における衛星放送.md "wikilink")                             | リピートあり                                                  |    |
@@ -310,7 +310,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
 
   - 角川コミック・エース HO -FOOTPRINTS IN THE SAND-
       -
-        原作：[枕](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")、脚本：[すかぢ](https://ja.wikipedia.org/wiki/すかぢ "wikilink")、作画：[狗神煌](../Page/狗神煌.md "wikilink")、発行：[角川書店](../Page/角川書店.md "wikilink")
+        原作：[枕](../Page/枕_\(ゲームブランド\).md "wikilink")、脚本：[すかぢ](https://ja.wikipedia.org/wiki/すかぢ "wikilink")、作画：[狗神煌](../Page/狗神煌.md "wikilink")、発行：[角川書店](../Page/角川書店.md "wikilink")
     <!-- end list -->
     1.  2007年12月26日初版発行、ISBN 978-4-04-713968-8
     2.  2008年3月26日初版発行、ISBN 978-4-04-715032-4

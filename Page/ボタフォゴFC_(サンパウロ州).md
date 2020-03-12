@@ -3,7 +3,7 @@
 
 **ボタフォゴFC** () 、通称**ボタフォゴ・デ・リベイラン・プレト** (Botafogo de Ribeirão Preto) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[リベイラン・プレト](https://ja.wikipedia.org/wiki/リベイラン・プレト "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルには同名のクラブが複数存在するため、ボタフォゴ・デ・リベイラン・プレトと呼ばれている。またサンパウロ州の略称を表す「SP」を付けて**ボタフォゴ-SP** (Botafogo-SP) と表記されることがある。
 
-かつては[ソクラテスや](../Page/ソクラテス_\(サッカー選手\).md "wikilink")[ライー](https://ja.wikipedia.org/wiki/ライー "wikilink")も輩出したが、近年は低迷している。
+かつては[ソクラテスや](../Page/ソクラテス_\(サッカー選手\).md "wikilink")[ライー](../Page/ライー.md "wikilink")も輩出したが、近年は低迷している。
 
 ## タイトル
 
@@ -42,7 +42,7 @@
 
   - [ラマーニョ](https://ja.wikipedia.org/wiki/ムリシ・ラマーリョ "wikilink") 1999
 
-  - / [呂比須ワグナー](https://ja.wikipedia.org/wiki/呂比須ワグナー "wikilink") 2014
+  - / [呂比須ワグナー](../Page/呂比須ワグナー.md "wikilink") 2014
 
 ## 歴代所属選手
 
@@ -59,7 +59,7 @@
 ## 関連項目
 
   - [ブラジルのサッカー](../Page/ブラジルのサッカー.md "wikilink")
-  - [呂比須ワグナー](https://ja.wikipedia.org/wiki/呂比須ワグナー "wikilink")
+  - [呂比須ワグナー](../Page/呂比須ワグナー.md "wikilink")
 
 ## 外部リンク
 

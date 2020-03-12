@@ -7,7 +7,7 @@
 
   - [安倍なつみ](../Page/安倍なつみ.md "wikilink")卒業後初のシングル。
   - モーニング娘。主演[2004年](../Page/2004年.md "wikilink")ミュージカル『HELP\!\!熱っちぃ地球を冷ますんだっ。』のテーマソングである。
-  - 演奏には[川添智久](../Page/川添智久.md "wikilink")（[リンドバーグ](../Page/LINDBERG.md "wikilink")）、[KONTA](https://ja.wikipedia.org/wiki/KONTA "wikilink")（[BARBEE BOYS](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")）、[土橋安騎夫](https://ja.wikipedia.org/wiki/土橋安騎夫 "wikilink")（[レベッカ](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")）と、1980年から1990年にかけて活躍したバンドからメンバーが参加している。
+  - 演奏には[川添智久](../Page/川添智久.md "wikilink")（[リンドバーグ](../Page/LINDBERG.md "wikilink")）、[KONTA](../Page/KONTA.md "wikilink")（[BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")）、[土橋安騎夫](../Page/土橋安騎夫.md "wikilink")（[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")）と、1980年から1990年にかけて活躍したバンドからメンバーが参加している。
   - 初回盤は三方背BOX仕様、ミニポスター付き。
 
 ## 収録曲
@@ -34,8 +34,8 @@
 
   - 鈴木俊介 - プログラミング&ギター(1)
   - [川添智久](../Page/川添智久.md "wikilink") - ベース(1)
-  - [KONTA](https://ja.wikipedia.org/wiki/KONTA "wikilink") - ソプラノサックス(1)
-  - [土橋安騎夫](https://ja.wikipedia.org/wiki/土橋安騎夫 "wikilink") - キーボード(1)
+  - [KONTA](../Page/KONTA.md "wikilink") - ソプラノサックス(1)
+  - [土橋安騎夫](../Page/土橋安騎夫.md "wikilink") - キーボード(1)
   - つんく♂ - コーラス(1)
   - 鈴木Daichi秀行 - 全楽器(2)
   - 竹内浩明 - コーラス(2)

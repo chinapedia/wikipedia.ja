@@ -1,11 +1,11 @@
 > この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
 
 
-**SDシリーズ**（エスディーシリーズ）は、EDIROL（エディロール）ブランドで販売される[ローランド](../Page/ローランド.md "wikilink")の[DTM用](../Page/デスクトップミュージック.md "wikilink")[音源モジュール](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")の型番・商品名。総称はスタジオ・キャンバス (*Studio Canvas*) 。 ※SD-50はモバイル･スタジオ･キャンバス（*Mobile Studio Canvas*）
+**SDシリーズ**（エスディーシリーズ）は、EDIROL（エディロール）ブランドで販売される[ローランド](../Page/ローランド.md "wikilink")の[DTM用](../Page/デスクトップミュージック.md "wikilink")[音源モジュール](../Page/音源モジュール.md "wikilink")の型番・商品名。総称はスタジオ・キャンバス (*Studio Canvas*) 。 ※SD-50はモバイル･スタジオ･キャンバス（*Mobile Studio Canvas*）
 
 ## 概要
 
-[SCシリーズの後継として登場](https://ja.wikipedia.org/wiki/ローランド・SCシリーズ "wikilink")。ローランドの[シンセサイザー](../Page/シンセサイザー.md "wikilink")[XVシリーズと同系列の音源エンジンを搭載するなど](https://ja.wikipedia.org/wiki/ローランド・XVシリーズ "wikilink")、音質の向上が図られている。DTM音源としての機能を充実させており、特にSD-90では[DAWアプリケーションと連携して使用することを念頭に置いた設計となっている](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")。全機種に[光デジタル出力端子と](https://ja.wikipedia.org/wiki/S/PDIF "wikilink")[USB端子を装備している](../Page/ユニバーサル・シリアル・バス.md "wikilink")。USB接続では[ASIO](../Page/ASIO.md "wikilink")2.0に対応。
+[SCシリーズの後継として登場](../Page/ローランド・SCシリーズ.md "wikilink")。ローランドの[シンセサイザー](../Page/シンセサイザー.md "wikilink")[XVシリーズと同系列の音源エンジンを搭載するなど](https://ja.wikipedia.org/wiki/ローランド・XVシリーズ "wikilink")、音質の向上が図られている。DTM音源としての機能を充実させており、特にSD-90では[DAWアプリケーションと連携して使用することを念頭に置いた設計となっている](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")。全機種に[光デジタル出力端子と](https://ja.wikipedia.org/wiki/S/PDIF "wikilink")[USB端子を装備している](../Page/ユニバーサル・シリアル・バス.md "wikilink")。USB接続では[ASIO](../Page/ASIO.md "wikilink")2.0に対応。
 
 音色セットはネイティブモードやGM2モードではサンプリング方式やその他の機能により以下の6つのカテゴリーに分類される。
 
@@ -20,7 +20,7 @@
   - スペシャル (Special) 1, 2
     ソロ・セットやエンハンスト・セットの中から代表的なものを抜粋した音色の他、GM2で規定されていない音色も含めたセット。
 
-ただしGM2モードではスペシャル・セットがなく、その他のセットでも扱えるパラメータが制限される。さらにSD-20では音色セットがクラシカル・コンテンポラリ・ソロの3つしかない。その他の音色モードは[GSモード](https://ja.wikipedia.org/wiki/GSフォーマット "wikilink")、[XGLiteモードがある](https://ja.wikipedia.org/wiki/XGフォーマット "wikilink")。
+ただしGM2モードではスペシャル・セットがなく、その他のセットでも扱えるパラメータが制限される。さらにSD-20では音色セットがクラシカル・コンテンポラリ・ソロの3つしかない。その他の音色モードは[GSモード](../Page/GSフォーマット.md "wikilink")、[XGLiteモードがある](../Page/XGフォーマット.md "wikilink")。
 
 一部の音源は「Super Quartet」、「Hyper Canvas」としてソフトウェアシンセサイザー販売もされている。
 
@@ -39,7 +39,7 @@
 :\* ドラムセット：30
 
   -
-    SDシリーズの最初の機種。外部入力端子の他、デジタルオーディオ端子は[光デジタル](https://ja.wikipedia.org/wiki/光デジタル "wikilink")入出力端子、[コアキシャル入出力端子を装備](https://ja.wikipedia.org/wiki/同軸デジタル端子 "wikilink")。[アナログ出力端子は](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")4つ装備されており、4スピーカーのサラウンド出力にも対応。MIDI音源部では3系統のマルチエフェクトと2系統のシステムエフェクトを搭載。また、デジタル・エフェクトやデジタル・ミキサーなど、24bit対応のデジタルオーディオインターフェースとしての機能も充実しており、外部から入力された音をデジタルで[ミックスさせたり](../Page/ミキシング.md "wikilink")、エフェクトをかけたりすることが可能。USBを経由してオーディオをPCに取り込むことも可能。米[ケークウォーク社のDAWソフトである](https://ja.wikipedia.org/wiki/ケークウォーク_\(企業\) "wikilink")「SONAR」を同梱した「ソナー・デジタル・スタジオ」のほか、同じく「ケークウォーク・ホームスタジオ」を同梱した「SD-90 ホームスタジオ・エディション」も販売されていた。
+    SDシリーズの最初の機種。外部入力端子の他、デジタルオーディオ端子は[光デジタル](https://ja.wikipedia.org/wiki/光デジタル "wikilink")入出力端子、[コアキシャル入出力端子を装備](https://ja.wikipedia.org/wiki/同軸デジタル端子 "wikilink")。[アナログ出力端子は](../Page/RCA端子.md "wikilink")4つ装備されており、4スピーカーのサラウンド出力にも対応。MIDI音源部では3系統のマルチエフェクトと2系統のシステムエフェクトを搭載。また、デジタル・エフェクトやデジタル・ミキサーなど、24bit対応のデジタルオーディオインターフェースとしての機能も充実しており、外部から入力された音をデジタルで[ミックスさせたり](../Page/ミキシング.md "wikilink")、エフェクトをかけたりすることが可能。USBを経由してオーディオをPCに取り込むことも可能。米[ケークウォーク社のDAWソフトである](https://ja.wikipedia.org/wiki/ケークウォーク_\(企業\) "wikilink")「SONAR」を同梱した「ソナー・デジタル・スタジオ」のほか、同じく「ケークウォーク・ホームスタジオ」を同梱した「SD-90 ホームスタジオ・エディション」も販売されていた。
 
   - SD-80
 
@@ -52,7 +52,7 @@
 :\* ドラムセット：30
 
   -
-    SD-90からオーディオインターフェース関連の機能を削減し、ステレオ2系統もしくはモノラル4系統の出力が可能なマルチアウト機能を追加。デジタル出力端子は光デジタル、コアキシャルの2つ。本体はSD-90と比べてサイズダウンしており、付属のアダプタを用いることで1Uサイズの[ラックマウント型機器として使用することができる](https://ja.wikipedia.org/wiki/19インチラック "wikilink")。「ケークウォーク・ホームスタジオ」を同梱した「SD-80 ホームスタジオ・エディション」も販売されていた。
+    SD-90からオーディオインターフェース関連の機能を削減し、ステレオ2系統もしくはモノラル4系統の出力が可能なマルチアウト機能を追加。デジタル出力端子は光デジタル、コアキシャルの2つ。本体はSD-90と比べてサイズダウンしており、付属のアダプタを用いることで1Uサイズの[ラックマウント型機器として使用することができる](../Page/19インチラック.md "wikilink")。「ケークウォーク・ホームスタジオ」を同梱した「SD-80 ホームスタジオ・エディション」も販売されていた。
 
   - SD-50
 
@@ -84,9 +84,9 @@
 
 ## 関連項目
 
-  - [GM](https://ja.wikipedia.org/wiki/General_MIDI "wikilink")
-  - [GS](https://ja.wikipedia.org/wiki/GSフォーマット "wikilink")
-  - [XG](https://ja.wikipedia.org/wiki/XGフォーマット "wikilink")
+  - [GM](../Page/General_MIDI.md "wikilink")
+  - [GS](../Page/GSフォーマット.md "wikilink")
+  - [XG](../Page/XGフォーマット.md "wikilink")
   - [DTM](../Page/デスクトップミュージック.md "wikilink")
 
 [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:ローランド](https://ja.wikipedia.org/wiki/Category:ローランド "wikilink")

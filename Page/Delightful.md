@@ -1,7 +1,7 @@
 > この記事は[Delightful](https://ja.wikipedia.org/wiki/Delightful)から翻訳されています。
 
 
-「**Delightful**」（ディライトフル）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の1枚目の[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[シングル](../Page/シングル.md "wikilink")。[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Delightful**」（ディライトフル）は、[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の1枚目の[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[シングル](../Page/シングル.md "wikilink")。[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -37,7 +37,7 @@
             mixed by REMO-CON
       - **Delightful ～G.C.D.Mix～**（CD+イラストエッセイ「a★POP」 / CD+フォトブック「a★PHOTO」）
           -
-            arranged by [SHOUICHIRO HIRATA](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
+            arranged by [SHOUICHIRO HIRATA](../Page/平田祥一郎.md "wikilink")
 5.  **Delightful(Instrumental)**
 6.  **About You...(Instrumental)**
 

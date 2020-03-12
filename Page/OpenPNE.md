@@ -1,7 +1,7 @@
 > この記事は[OpenPNE](https://ja.wikipedia.org/wiki/OpenPNE)から翻訳されています。
 
 
-**OpenPNE**（オープンピーネ）は、[オープンソース](../Page/オープンソース.md "wikilink")の[SNS運営用のサーバサイドプログラム群である](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")\[1\]。Ver.2.4より[PHPライセンスを採用](https://ja.wikipedia.org/wiki/PHP_License "wikilink")\[2\]。
+**OpenPNE**（オープンピーネ）は、[オープンソース](../Page/オープンソース.md "wikilink")の[SNS運営用のサーバサイドプログラム群である](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[1\]。Ver.2.4より[PHPライセンスを採用](https://ja.wikipedia.org/wiki/PHP_License "wikilink")\[2\]。
 
 ## 歴史
 
@@ -17,7 +17,7 @@
 
 日本で最大級のシェアを持つ[SNSの](https://ja.wikipedia.org/wiki/ソーシャルネットワーキングサービス "wikilink")[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")にそっくりなインターフェースを持つ。
 
-バージョン2のテンプレートエンジンは、[Smarty](https://ja.wikipedia.org/wiki/Smarty "wikilink")を採用。バージョン3ではフレームワークに[symfony](https://ja.wikipedia.org/wiki/symfony "wikilink")を採用しており\[3\]、プラグイン機構を導入することで[SNSのカスタマイズが容易になった](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")。
+バージョン2のテンプレートエンジンは、[Smarty](https://ja.wikipedia.org/wiki/Smarty "wikilink")を採用。バージョン3ではフレームワークに[symfony](https://ja.wikipedia.org/wiki/symfony "wikilink")を採用しており\[3\]、プラグイン機構を導入することで[SNSのカスタマイズが容易になった](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
 
 ## 動作環境
 
@@ -31,12 +31,12 @@
 ### OpenPNE3.x
 
   - [Webサーバ](../Page/Webサーバ.md "wikilink")：[Apache](../Page/Apache_HTTP_Server.md "wikilink")
-  - [データベース](../Page/データベース.md "wikilink")：[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink") 4.0.x以降 (**4.1.x以降推奨**)、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")、[SQLite](https://ja.wikipedia.org/wiki/SQLite "wikilink")
+  - [データベース](../Page/データベース.md "wikilink")：[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink") 4.0.x以降 (**4.1.x以降推奨**)、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")、[SQLite](../Page/SQLite.md "wikilink")
   - [プログラム言語](https://ja.wikipedia.org/wiki/プログラム言語 "wikilink")：[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink") 5.2.x
 
 ## 関連項目
 
-  - [ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")
+  - [ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")
 
 ## 外部リンク
 

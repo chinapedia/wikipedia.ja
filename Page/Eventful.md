@@ -7,7 +7,7 @@
 
   - エイベックス移籍第2弾シングル。「CD」「CD+DVD」の2形態で発売された。
   - 鈴木曰く、「Eventful」「鏡」ともに自分の気持ちをストレートにぶつけた作品であり、作成時の心境が音になったとのこと。
-  - 配信限定で[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のリミキサー "Bulldozer" による「Eventful (Bulldozer Remix)」が発売された。後にリミックスアルバム『[AMIx WORLD](https://ja.wikipedia.org/wiki/AMIx_WORLD "wikilink")』に収録されることになる。
+  - 配信限定で[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のリミキサー "Bulldozer" による「Eventful (Bulldozer Remix)」が発売された。後にリミックスアルバム『[AMIx WORLD](../Page/AMIx_WORLD.md "wikilink")』に収録されることになる。
   - アルバム収録は『[AROUND THE WORLD](../Page/AROUND_THE_WORLD_\(鈴木亜美のアルバム\).md "wikilink")』。なお、カップリング曲の「鏡」は未収録となった。
   - 「Hopeful」「Delightful」に続く“full”三部作のラストシングルとなる。
 
@@ -18,7 +18,7 @@
 1.  **Eventful**
       -
         作詞:鈴木亜美 / 作曲:渡辺徹 / 編曲:渡辺徹
-        日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』6月度エンディング・テーマ
+        日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』6月度エンディング・テーマ
 2.  **鏡**
       -
         作詞:鈴木亜美 / 作曲:[木下智哉](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / 編曲:西川玲生

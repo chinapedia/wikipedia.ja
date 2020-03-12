@@ -1,7 +1,7 @@
 > この記事は[Love the island](https://ja.wikipedia.org/wiki/Love_the_island)から翻訳されています。
 
 
-「**love the island**」（ラブ・ジ・アイランド）は、[鈴木あみの楽曲](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")および[MARCが作詞](../Page/マーク・パンサー.md "wikilink")、小室哲哉が作曲を手掛けた。鈴木の1枚目のシングル（デビューシングル）として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[TRUE KiSS DiSCから発売された](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")。
+「**love the island**」（ラブ・ジ・アイランド）は、[鈴木あみの楽曲](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")および[MARCが作詞](../Page/マーク・パンサー.md "wikilink")、小室哲哉が作曲を手掛けた。鈴木の1枚目のシングル（デビューシングル）として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[TRUE KiSS DiSCから発売された](../Page/TRUE_KiSS_DiSC.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 「love the island」は、グアム政府観光局「グアム大夏祭'98キャンペーン」のCMソングとして1998年6月6日からオンエアされた\[1\]。
 
-[2001年](../Page/2001年.md "wikilink")、引退の危機に瀕した鈴木を支援するため[オリコンに再びランクインさせようとするインターネット等での呼びかけが行なわれ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")（AAA計画＝アピアー・あみーゴ・アゲイン計画）、[スポーツ紙](https://ja.wikipedia.org/wiki/スポーツ紙 "wikilink")等で報道された。オリコンの同年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")付のデイリーチャートで50位に再登場する現象が起こった\[2\]。[プラネットのウィークリーチャートでは前週](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")691位 → 130位まで上昇し、1週間で約1000枚を売りあげた\[3\]。
+[2001年](../Page/2001年.md "wikilink")、引退の危機に瀕した鈴木を支援するため[オリコンに再びランクインさせようとするインターネット等での呼びかけが行なわれ](../Page/オリコンチャート.md "wikilink")（AAA計画＝アピアー・あみーゴ・アゲイン計画）、[スポーツ紙](https://ja.wikipedia.org/wiki/スポーツ紙 "wikilink")等で報道された。オリコンの同年[4月3日](../Page/4月3日.md "wikilink")付のデイリーチャートで50位に再登場する現象が起こった\[2\]。[プラネットのウィークリーチャートでは前週](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")691位 → 130位まで上昇し、1週間で約1000枚を売りあげた\[3\]。
 
 小室は本作の制作以前に、2曲の候補曲を制作している\[4\]。
 

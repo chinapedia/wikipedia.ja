@@ -1,7 +1,7 @@
 > この記事は[DS CHILDREN of MANA](https://ja.wikipedia.org/wiki/DS_CHILDREN_of_MANA)から翻訳されています。
 
 
-『**聖剣伝説DS CHILDREN of MANA**』（せいけんでんせつDS チルドレン オブ マナ）は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。[聖剣伝説](../Page/聖剣伝説.md "wikilink")シリーズの外伝。
+『**聖剣伝説DS CHILDREN of MANA**』（せいけんでんせつDS チルドレン オブ マナ）は[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。[聖剣伝説](../Page/聖剣伝説.md "wikilink")シリーズの外伝。
 
 ## システム
 
@@ -153,17 +153,17 @@
 ## スタッフ
 
   - 開発：[ネクスエンタテインメント](../Page/ネクスエンタテインメント.md "wikilink")
-  - プロデューサー:[石井浩一](https://ja.wikipedia.org/wiki/石井浩一 "wikilink")
-  - シナリオ原案:[加藤正人](https://ja.wikipedia.org/wiki/加藤正人_\(ゲームクリエイター\) "wikilink")
+  - プロデューサー:[石井浩一](../Page/石井浩一.md "wikilink")
+  - シナリオ原案:[加藤正人](../Page/加藤正人_\(ゲームクリエイター\).md "wikilink")
   - シナリオ:[小峰徳司](https://ja.wikipedia.org/wiki/小峰徳司 "wikilink")
-  - キャラクターデザイン:[池田奈緒](https://ja.wikipedia.org/wiki/池田奈緒 "wikilink")
+  - キャラクターデザイン:[池田奈緒](../Page/池田奈緒.md "wikilink")
   - パブリシティーイラストレーター:池田奈緒、[高橋一彦](https://ja.wikipedia.org/wiki/高橋一彦_\(デザイナー\) "wikilink")、[吉岡愛理](https://ja.wikipedia.org/wiki/吉岡愛理 "wikilink")、[磯野宏夫](https://ja.wikipedia.org/wiki/磯野宏夫 "wikilink")
-  - 音楽:[伊藤賢治](../Page/伊藤賢治.md "wikilink")、[岩田匡治](https://ja.wikipedia.org/wiki/岩田匡治 "wikilink")、[相原隆行](../Page/相原隆行.md "wikilink")
+  - 音楽:[伊藤賢治](../Page/伊藤賢治.md "wikilink")、[岩田匡治](../Page/岩田匡治.md "wikilink")、[相原隆行](../Page/相原隆行.md "wikilink")
   - アニメーション製作:[Production I.G](../Page/プロダクション・アイジー.md "wikilink")
 
 ## 評価
 
-『[週刊ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")では合計36点 (10,10,8,8 / 40) を獲得し、35点以上のソフトが対象となるプラチナ殿堂入りとなった\[7\]。
+『[週刊ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の[クロスレビュー](../Page/クロスレビュー.md "wikilink")では合計36点 (10,10,8,8 / 40) を獲得し、35点以上のソフトが対象となるプラチナ殿堂入りとなった\[7\]。
 
 ## 脚注
 

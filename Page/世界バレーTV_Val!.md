@@ -1,15 +1,15 @@
 > この記事は[TV Val!](https://ja.wikipedia.org/wiki/TV_Val!)から翻訳されています。
 
 
-**世界バレーTV Val\!**（せかいバレーティービー ヴァル）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")（14日未明）より[12月1日](../Page/12月1日.md "wikilink")（2日未明）まで、毎週金曜深夜（土曜未明）1:25～1:55に放送された番組。
+**世界バレーTV Val\!**（せかいバレーティービー ヴァル）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2006年](../Page/2006年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")（14日未明）より[12月1日](../Page/12月1日.md "wikilink")（2日未明）まで、毎週金曜深夜（土曜未明）1:25～1:55に放送された番組。
 
 ## 番組概要
 
 2006年[10月31日](../Page/10月31日.md "wikilink")から[12月3日](../Page/12月3日.md "wikilink")まで日本で開催される、2006年[世界バレーを応援する番組](../Page/バレーボール世界選手権.md "wikilink")。当初は木曜深夜（金曜未明）の放送であったが、10月からは金曜深夜（土曜未明）に移動した。
 
-[2006世界バレーのマスコットはVal](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")-kun（ヴァルくん）、番組のマスコットはTBSマスコットの[BooBo](https://ja.wikipedia.org/wiki/BooBo "wikilink")（ブーブ）がバレーボールのユニフォームを着たVolleyBoo（バレブー）。
+[2006世界バレーのマスコットはVal](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")-kun（ヴァルくん）、番組のマスコットはTBSマスコットの[BooBo](../Page/BooBo.md "wikilink")（ブーブ）がバレーボールのユニフォームを着たVolleyBoo（バレブー）。
 
-世界バレー閉幕と同時に当番組も終了。その後この枠では[2007年世界陸上競技選手権大会](https://ja.wikipedia.org/wiki/2007年世界陸上競技選手権大会 "wikilink")の関連番組（2006年12月中は「世界陸上ナビ」、[2007年](../Page/2007年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")より「[世界陸上ついに大阪上陸〜秋吉&中井のWe Loveアスリート](https://ja.wikipedia.org/wiki/世界陸上ついに大阪上陸〜秋吉&中井のWe_Loveアスリート "wikilink")」）が放送されることになり、TBS系スポーツイベント同士で枠の継承がなされた。
+世界バレー閉幕と同時に当番組も終了。その後この枠では[2007年世界陸上競技選手権大会](../Page/2007年世界陸上競技選手権大会.md "wikilink")の関連番組（2006年12月中は「世界陸上ナビ」、[2007年](../Page/2007年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")より「[世界陸上ついに大阪上陸〜秋吉&中井のWe Loveアスリート](https://ja.wikipedia.org/wiki/世界陸上ついに大阪上陸〜秋吉&中井のWe_Loveアスリート "wikilink")」）が放送されることになり、TBS系スポーツイベント同士で枠の継承がなされた。
 
 ## 出演者
 
@@ -19,11 +19,11 @@
       - [眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")
       - [川合俊一](../Page/川合俊一.md "wikilink")
       - [中田久美](https://ja.wikipedia.org/wiki/中田久美 "wikilink")(現女子代表監督)
-      - [パトリック・ハーラン](https://ja.wikipedia.org/wiki/パトリック・ハーラン "wikilink")（[パックンマックン](../Page/パックンマックン.md "wikilink")）
+      - [パトリック・ハーラン](../Page/パトリック・ハーラン.md "wikilink")（[パックンマックン](../Page/パックンマックン.md "wikilink")）
       - [小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、バレーボールのユニフォームを着て出演）
-      - [山縣苑子](https://ja.wikipedia.org/wiki/山縣苑子 "wikilink")（「ちょい陸」のコーナーのみ）
+      - [山縣苑子](../Page/山縣苑子.md "wikilink")（「ちょい陸」のコーナーのみ）
   - 9月14日より
-      - [WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")([ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")・[小池徹平](https://ja.wikipedia.org/wiki/小池徹平 "wikilink"))
+      - [WaT](../Page/WaT.md "wikilink")([ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")・[小池徹平](../Page/小池徹平.md "wikilink"))
 
 ### 世界バレー開幕後について
 
@@ -82,14 +82,14 @@
 |                                                     |                                                                |                                                                      |                      |        |
 
   - 次に挙げる局は2006年9月まで放送されていた。
-      - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC）、[テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBC）
+      - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC）、[テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）、[琉球放送](../Page/琉球放送.md "wikilink")（RBC）
 
 ## 関連項目
 
   - [世界バレー](../Page/バレーボール世界選手権.md "wikilink")
   - [2006世界バレー](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")
-  - [WaT×ハロー\!プロジェクト](https://ja.wikipedia.org/wiki/WaT×ハロー!プロジェクト "wikilink")
-  - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")-2006年秋の第31回(15周年大会)で、総合司会の[島田紳助](../Page/島田紳助.md "wikilink")が、のバレブーデザイン、同じく総合司会の[島崎和歌子](https://ja.wikipedia.org/wiki/島崎和歌子 "wikilink")が、のヴァル君デザインのマイクを使用していた(それ以外のコーナーでは紳助が、和歌子がのマイクを使用している)。
+  - [WaT×ハロー\!プロジェクト](../Page/WaT×ハロー!プロジェクト.md "wikilink")
+  - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")-2006年秋の第31回(15周年大会)で、総合司会の[島田紳助](../Page/島田紳助.md "wikilink")が、のバレブーデザイン、同じく総合司会の[島崎和歌子](../Page/島崎和歌子.md "wikilink")が、のヴァル君デザインのマイクを使用していた(それ以外のコーナーでは紳助が、和歌子がのマイクを使用している)。
 
 ## 外部リンク
 

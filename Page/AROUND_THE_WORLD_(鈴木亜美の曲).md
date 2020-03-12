@@ -14,7 +14,7 @@
 1.  **AROUND THE WORLD**
       -
         作詞：鈴木亜美／作曲：y@suo ohtani／編曲：原田憲
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』 2005年10月オープニングテーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』 2005年10月オープニングテーマ
 2.  **Times -Dub's Pop Radio edit Remix-**
       -
         作詞：鈴木亜美／作曲：渡辺徹／編曲：Dub Master Ｘ

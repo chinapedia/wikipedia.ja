@@ -1,13 +1,13 @@
 > この記事は[Frozen Roses](https://ja.wikipedia.org/wiki/Frozen_Roses)から翻訳されています。
 
 
-『**Frozen Roses**』（フローズン・ローゼス）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の30枚目のオリジナルアルバム。[1999年](../Page/1999年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（TOCT-24300）。1999年12月20日～2000年7月6日『FROZEN ROSES』コンサートツアーが行われた。
+『**Frozen Roses**』（フローズン・ローゼス）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の30枚目のオリジナルアルバム。[1999年](../Page/1999年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（TOCT-24300）。1999年12月20日～2000年7月6日『FROZEN ROSES』コンサートツアーが行われた。
 
 ## 解説
 
-  - [1984年](../Page/1984年.md "wikilink")以来、オリジナルアルバムを年1作のペースでリリースしており、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")もリリースに向け創作活動を続けていたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月](../Page/6月.md "wikilink")にベストアルバム『[Neue Musik](../Page/Neue_Musik.md "wikilink")』の発売が決定し、オリジナルアルバムの発売が延期されることになった。『Neue Musik』には「（オリジナルアルバムは）**1999年5月下旬発売予定**」と書かれたリーフレットが封入されていたが、その予定も延期されることになり、最終的には前作『[スユアの波](https://ja.wikipedia.org/wiki/スユアの波 "wikilink")』より約2年振りとなる[1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売となった。
-  - タイトルは、プロデューサーである[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")が「[バラ](../Page/バラ.md "wikilink")（ローズ）という言葉を使いたい」との意見が反映され、「たとえもろくても冷たくても、切なさを永遠に留めておきたい」という思いも込められている。
-  - サウンドとしては前作が松任谷正隆にとって「完成形」であったため、本作では[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")や機材を大幅に刷新して録音されており、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")回線を利用した[ミックス](https://ja.wikipedia.org/wiki/ミックス "wikilink")作業などもユーミンの作品として初めて取り入れられた。こうした変化も手伝って、全体的に豪華なアレンジの楽曲が多いアルバムとなっている。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")、ジャケットのイラストは[大橋歩](https://ja.wikipedia.org/wiki/大橋歩 "wikilink")が手掛けた。
+  - [1984年](../Page/1984年.md "wikilink")以来、オリジナルアルバムを年1作のペースでリリースしており、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")もリリースに向け創作活動を続けていたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月](../Page/6月.md "wikilink")にベストアルバム『[Neue Musik](../Page/Neue_Musik.md "wikilink")』の発売が決定し、オリジナルアルバムの発売が延期されることになった。『Neue Musik』には「（オリジナルアルバムは）**1999年5月下旬発売予定**」と書かれたリーフレットが封入されていたが、その予定も延期されることになり、最終的には前作『[スユアの波](../Page/スユアの波.md "wikilink")』より約2年振りとなる[1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売となった。
+  - タイトルは、プロデューサーである[松任谷正隆](../Page/松任谷正隆.md "wikilink")が「[バラ](../Page/バラ.md "wikilink")（ローズ）という言葉を使いたい」との意見が反映され、「たとえもろくても冷たくても、切なさを永遠に留めておきたい」という思いも込められている。
+  - サウンドとしては前作が松任谷正隆にとって「完成形」であったため、本作では[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")や機材を大幅に刷新して録音されており、[インターネット](../Page/インターネット.md "wikilink")回線を利用した[ミックス](../Page/ミックス.md "wikilink")作業などもユーミンの作品として初めて取り入れられた。こうした変化も手伝って、全体的に豪華なアレンジの楽曲が多いアルバムとなっている。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")、ジャケットのイラストは[大橋歩](../Page/大橋歩.md "wikilink")が手掛けた。
   - このアルバムから2006年の「[A GIRL IN SUMMER](../Page/A_GIRL_IN_SUMMER.md "wikilink")」まで、トム・タッカーをミキサーとして起用している。
   - 1999年5月15日に開催された「Internet Home Live vol.1」で「Rāga\#3」「Lost Highway」「流星の夜」がいち早くオンエアされた。
   - 後に発売されたベストアルバム「sweet,bitter sweet」「SEASONS COLOURS -春夏撰曲集-」「SEASONS COLOURS -秋冬撰曲集-」「日本の恋と、ユーミンと。」「ユーミンからの、恋のうた。」には、本作からは一曲も選曲されていない。
@@ -27,7 +27,7 @@
         アルバム制作の中で最初に制作された曲。
 4.  **Rāga\#3**
       -
-        YUMING SPECTACLE SHANGRILAのために書き下ろされた楽曲。[Rāga](../Page/ラーガ.md "wikilink")（[ラーガ](../Page/ラーガ.md "wikilink")）とは、インドで使用される非常にきめの細かい旋律的旋法のことであり、\#3は本作のアルバムにおいて3番目に録音されたことを指す。楽曲全体がインドを連想させるようなアレンジとなっており、アルバム発売前に開催された「シャングリラ公演」においても、バザールを思わせるような演出とともに披露された。プロモーションビデオには、その公演のシーンも登場する。[東芝](../Page/東芝.md "wikilink")「[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink") キャンペーン・ソング」でもある。
+        YUMING SPECTACLE SHANGRILAのために書き下ろされた楽曲。[Rāga](../Page/ラーガ.md "wikilink")（[ラーガ](../Page/ラーガ.md "wikilink")）とは、インドで使用される非常にきめの細かい旋律的旋法のことであり、\#3は本作のアルバムにおいて3番目に録音されたことを指す。楽曲全体がインドを連想させるようなアレンジとなっており、アルバム発売前に開催された「シャングリラ公演」においても、バザールを思わせるような演出とともに披露された。プロモーションビデオには、その公演のシーンも登場する。[東芝](../Page/東芝.md "wikilink")「[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink") キャンペーン・ソング」でもある。
 5.  **Blue Rain Blue**
 6.  **Spinning Wheel**
       -
@@ -50,12 +50,12 @@
 
 ## 参加ミュージシャン
 
-  - キーボード&プログラミング : [松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")（\#1～\#6,\#8～\#11）
+  - キーボード&プログラミング : [松任谷正隆](../Page/松任谷正隆.md "wikilink")（\#1～\#6,\#8～\#11）
   - アコーディオン : 松任谷正隆（\#8）
   - シンセサイザー・プログラミング : [北城浩志](https://ja.wikipedia.org/wiki/北城浩志 "wikilink")（\#1～\#6,\#8～\#11）
   - ピアノ : Alan Pasqua（\#7）
   - ドラム : [John Robinson](../Page/ジョン・ロビンソン.md "wikilink")（\#2～\#4,\#8,\#10）、[Russ Kunkel](https://ja.wikipedia.org/wiki/ラス・カンケル "wikilink")（\#6,\#9）、[Harvey Mason](../Page/ハーヴィー・メイソン.md "wikilink")（\#7）
-  - ベース : [Neil Stubenhaus](https://ja.wikipedia.org/wiki/ニール・スチューベンハウス "wikilink")（\#1～\#5,\#8,\#10,\#11）、Leland Sklar（\#6,\#9）
+  - ベース : [Neil Stubenhaus](../Page/ニール・スチューベンハウス.md "wikilink")（\#1～\#5,\#8,\#10,\#11）、Leland Sklar（\#6,\#9）
   - アップライト・ベース : [Nathan East](https://ja.wikipedia.org/wiki/ネーザン・イースト "wikilink")（\#7）
   - モッグ・ベース : [Ricky Peterson](https://ja.wikipedia.org/wiki/リッキー・ピーターソン "wikilink")（\#8）
   - エレクトリックギター : [Dean Parks](https://ja.wikipedia.org/wiki/ディーン・パークス "wikilink")（\#1～\#3,\#6,\#9,\#11）、[Michael Landau](https://ja.wikipedia.org/wiki/マイケル・ランドー "wikilink")（\#4,\#8,\#10）

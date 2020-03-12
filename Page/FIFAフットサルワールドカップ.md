@@ -1,7 +1,7 @@
 > この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
 
 
-**FIFAフットサルワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の[世界選手権大会](https://ja.wikipedia.org/wiki/世界選手権大会 "wikilink")である。
+**FIFAフットサルワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。
 
 ## 概要
 

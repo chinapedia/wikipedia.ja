@@ -7,7 +7,7 @@
 
   - 大和田晃 （おおわだ　あきら、[1975年](../Page/1975年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当、時々[ギター](../Page/ギター.md "wikilink")
   - 芹野貴之 （せりの　たかゆき、[1974年](../Page/1974年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")）[ギター](../Page/ギター.md "wikilink")担当
-  - 古平竜也 （こだいら　たつや、[1974年](../Page/1974年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、リーダー
+  - 古平竜也 （こだいら　たつや、[1974年](../Page/1974年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")、リーダー
   - 佐藤美恵子(eco)（さとう　みえこ、[1975年](../Page/1975年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")）[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")
   - 田島一平 （たじま　いっぺい、[1974年](../Page/1974年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）[ドラム担当](../Page/ドラムセット.md "wikilink")
 
@@ -17,7 +17,7 @@
 
 [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のブリティッシュロックバンド、[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")の音楽性に影響を受けているところが大きい。デビュー曲のマキシシングル「Spunky Josh」のジャケットでさえもブラーのある写真カットを模倣したものとなっている。
 
-なお、大和田、古平を除く3人のメンバーは初期の頃の[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")にもかけ持ちで在籍していた事がある。
+なお、大和田、古平を除く3人のメンバーは初期の頃の[POTSHOT](../Page/POTSHOT.md "wikilink")にもかけ持ちで在籍していた事がある。
 
 ほぼすべての歌詞を eco が英詞で書いている。また、作曲については初期はecoと古平、後期はecoと大和田が主に行っていたと言われている。なお、クレジット上の表記はほぼ「pre-school」で統一されている。
 
@@ -382,7 +382,7 @@ TFCC-88176:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>DAZZLE,CANOPY,POSER</strong></p></td>
 <td><p>TFCC-87013</p></td>
 <td><ol>

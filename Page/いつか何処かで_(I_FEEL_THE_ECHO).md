@@ -1,7 +1,7 @@
 > この記事は[ \(I FEEL THE ECHO\)](https://ja.wikipedia.org/wiki/_\(I_FEEL_THE_ECHO\))から翻訳されています。
 
 
-「**いつか何処かで (I FEEL THE ECHO)**」（いつかどこかで アイ・フィール・ジ・エコー）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売。発売元は[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")。
+「**いつか何処かで (I FEEL THE ECHO)**」（いつかどこかで アイ・フィール・ジ・エコー）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に12cmCDとして再発をしている。
 
@@ -11,7 +11,7 @@
 
 ## チャート成績
 
-[オリコン週間ランキングで最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録し、累計24万枚（オリコン調べ）を売り上げた\[1\]。
+[オリコン週間ランキングで最高](../Page/オリコンチャート.md "wikilink")2位を記録し、累計24万枚（オリコン調べ）を売り上げた\[1\]。
 
 ## 収録曲
 
@@ -22,38 +22,38 @@
 1.  **いつか何処かで (I FEEL THE ECHO)** (5:22)
     （作詞・作曲:桑田佳祐　編曲:[小林武史](../Page/小林武史.md "wikilink")、桑田佳祐、[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")）
       -
-        [日本航空](../Page/日本航空.md "wikilink")「JAL '88 沖縄キャンペーン」イメージ[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。また、[映画](../Page/映画.md "wikilink")『[彼女が水着にきがえたら](../Page/彼女が水着にきがえたら.md "wikilink")』挿入歌\[2\]。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")の内容はジャケット撮影やCM撮影の合間やメイキング映像を集めたものが中心である。ビデオコンサートの映像を使用しているため、途中「'88 JAL CMソングとして現在放送中。」のテロップが流れる。
-        [レオン・ラッセル](https://ja.wikipedia.org/wiki/レオン・ラッセル "wikilink")がカバーしている。
+        [日本航空](../Page/日本航空.md "wikilink")「JAL '88 沖縄キャンペーン」イメージ[CMソング](../Page/コマーシャルソング.md "wikilink")。また、[映画](../Page/映画.md "wikilink")『[彼女が水着にきがえたら](../Page/彼女が水着にきがえたら.md "wikilink")』挿入歌\[2\]。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の内容はジャケット撮影やCM撮影の合間やメイキング映像を集めたものが中心である。ビデオコンサートの映像を使用しているため、途中「'88 JAL CMソングとして現在放送中。」のテロップが流れる。
+        [レオン・ラッセル](../Page/レオン・ラッセル.md "wikilink")がカバーしている。
 2.  **SHE'S A BIG TEASER** (5:22)
     （作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink") & 桑田佳祐　作曲:桑田佳祐　編曲:桑田佳祐 & 藤井丈司 & Sammy Merendino & T.Bone Wolk）
       -
         [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink") キャンペーンソング。
-        同キャンペーン企画で、[ホール&オーツと共同で](https://ja.wikipedia.org/wiki/ダリル・ホール&ジョン・オーツ "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ザ・ヒット・ファクトリー](https://ja.wikipedia.org/wiki/ザ・ヒット・ファクトリー "wikilink")でレコーディングされ、その後[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")郊外のティボドーでMVを収録\[3\]。MV及びそのメイキング映像が収録されたビデオテープが抽選でプレゼントされた。この曲のレコーディングは全編英語で行われ、ホール&オーツとも英語でコミュニケーションをしたため、桑田にとって相当なストレスだったらしく、[胃潰瘍](https://ja.wikipedia.org/wiki/胃潰瘍 "wikilink")になってしまったという\[4\]。現在アルバムでは『フロム イエスタデイ』にのみ収録されている。
+        同キャンペーン企画で、[ホール&オーツと共同で](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ザ・ヒット・ファクトリー](https://ja.wikipedia.org/wiki/ザ・ヒット・ファクトリー "wikilink")でレコーディングされ、その後[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")郊外のティボドーでMVを収録\[3\]。MV及びそのメイキング映像が収録されたビデオテープが抽選でプレゼントされた。この曲のレコーディングは全編英語で行われ、ホール&オーツとも英語でコミュニケーションをしたため、桑田にとって相当なストレスだったらしく、[胃潰瘍](https://ja.wikipedia.org/wiki/胃潰瘍 "wikilink")になってしまったという\[4\]。現在アルバムでは『フロム イエスタデイ』にのみ収録されている。
 
 ## 参加ミュージシャン
 
   - いつか何処かで （I FEEL THE ECHO）
       - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink"):[Vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
       - [小林武史](../Page/小林武史.md "wikilink"):[Keyboards](../Page/キーボード_\(楽器\).md "wikilink"), [Synth Bass](../Page/シンセベース.md "wikilink")
-      - 藤井丈司:[Computer Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+      - 藤井丈司:[Computer Programming](../Page/ミュージックシーケンサー.md "wikilink")
       - 原田末秋:[Electric](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") & [Acoustic Guitars](../Page/アコースティック・ギター.md "wikilink")
       - [そうる透](../Page/そうる透.md "wikilink"):[Mallet](https://ja.wikipedia.org/wiki/マレット_\(鍵盤打楽器\) "wikilink") [Cymbals](../Page/シンバル.md "wikilink")
   - SHE'S A BIG TEASER
       - 桑田佳祐:Vocals, Chorus
-      - [DARYL HALL & JOHN OATES](https://ja.wikipedia.org/wiki/ダリル・ホール&ジョン・オーツ "wikilink"):Chorus （Appearing by coutesy from [ARISTA RECORDS](https://ja.wikipedia.org/wiki/アリスタ・レコード "wikilink") Inc.）
+      - [DARYL HALL & JOHN OATES](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink"):Chorus （Appearing by coutesy from [ARISTA RECORDS](../Page/アリスタ・レコード.md "wikilink") Inc.）
       - Sammy Merendino:Computer Programming
       - 藤井丈司:Computer Programming
       - [松田弘](../Page/松田弘.md "wikilink"):[Drums](../Page/ドラムセット.md "wikilink"), [Percussions](../Page/打楽器.md "wikilink")
       - Ricky Peterson:Keyboards
       - Pat Burchman:[Guitars](../Page/ギター.md "wikilink")
-      - [河内淳一](https://ja.wikipedia.org/wiki/河内淳一 "wikilink"):Guitars
+      - [河内淳一](../Page/河内淳一.md "wikilink"):Guitars
 
 ## 収録アルバム
 
-  - [Keisuke Kuwata](https://ja.wikipedia.org/wiki/Keisuke_Kuwata "wikilink") (\#1)
+  - [Keisuke Kuwata](../Page/Keisuke_Kuwata.md "wikilink") (\#1)
   - [フロム イエスタデイ](../Page/フロム_イエスタデイ.md "wikilink") (\#1,2)
-  - [TOP OF THE POPS](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\) "wikilink") (\#1)
+  - [TOP OF THE POPS](../Page/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\).md "wikilink") (\#1)
   - [I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink") (\#1)
 
 ## ミュージック・ビデオ収録作品

@@ -1,12 +1,12 @@
 > この記事は[GVER](https://ja.wikipedia.org/wiki/GVER)から翻訳されています。
 
 
-『**G∞VER**』（グーヴァー）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[SME Recordsから発売された](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+『**G∞VER**』（グーヴァー）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 解説
 
   - デビュー[シングル](../Page/シングル.md "wikilink")「PRIDE」などを含めた全11曲が収録されている。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[アメリカで発売され](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、全米デビューを果たした。
+  - [2006年](../Page/2006年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[アメリカで発売され](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、全米デビューを果たした。
   - タイトルのG∞VERは、「**GO OVER**（＝超える）」という意味の造語である。このタイトルを発案したのは、ボーカルのマーキーである。
   - 今作の発売を記念して、「PUT ON HAPPINESS」と題したレコ発ライブを行い、同時にインターネット上で生配信も行なった。1か月後に編集された映像が再配信されたが、現在は閲覧不可能である。ちなみにセットリストは、すべて今作に収録されている楽曲で「What for…」「Rain」「With YOU」以外の楽曲が演奏された。
 
@@ -19,10 +19,10 @@
 2.  **NOTICE**
       -
         ロックバラードな楽曲である。メンバーは、このアルバムの中で一番気に入っていると語る。
-3.  **[PRIDE](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\) "wikilink")**
+3.  **[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")**
       -
         メジャーデビューシングル。
-        [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")･[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』第2期オープニングテーマ。
+        [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")･[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』第2期オープニングテーマ。
 4.  **Naked**
       -
         ディスクに間違って曲名が記載されている（「Nake」になっている）。
@@ -33,7 +33,7 @@
 6.  **[Days](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")**
       -
         4thシングル。
-        TBS系『[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")』エンディングテーマ。
+        TBS系『[ランク王国](../Page/ランク王国.md "wikilink")』エンディングテーマ。
 7.  **SWEET ESCAPE**
       -
         作詞は、ユウスケが担当した。

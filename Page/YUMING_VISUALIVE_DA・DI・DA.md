@@ -1,7 +1,7 @@
 > この記事は[YUMING VISUALIVE DADIDA](https://ja.wikipedia.org/wiki/YUMING_VISUALIVE_DADIDA)から翻訳されています。
 
 
-『**YUMING VISUALIVE DA・DI・DA**』（ユーミン・ヴィジュアライブ・ダ・ディ・ダ） は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）初のライブアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[CD](../Page/CD-DA.md "wikilink")：CA40-1263、[CT](../Page/コンパクトカセット.md "wikilink")：ZH36-1692）。CDとカセットのみ計15万枚完全[限定盤](https://ja.wikipedia.org/wiki/限定盤 "wikilink")販売で、現在中古盤市場では高値で取引されている。
+『**YUMING VISUALIVE DA・DI・DA**』（ユーミン・ヴィジュアライブ・ダ・ディ・ダ） は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）初のライブアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[CD](../Page/CD-DA.md "wikilink")：CA40-1263、[CT](../Page/コンパクトカセット.md "wikilink")：ZH36-1692）。CDとカセットのみ計15万枚完全[限定盤](https://ja.wikipedia.org/wiki/限定盤 "wikilink")販売で、現在中古盤市場では高値で取引されている。
 
 ## 解説
 

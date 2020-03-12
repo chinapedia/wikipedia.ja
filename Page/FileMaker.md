@@ -43,7 +43,7 @@ FileMaker Proとなった後に大きなものでは、3.0にて[関係データ
     [Palm](../Page/Palm.md "wikilink") や [Pocket PCとFMPで作成したデータベースを連動させるソフトウエア](../Page/Pocket_PC.md "wikilink")。FMPと併用する。2001年にバージョン1が登場（当時はPalmのみ対応）。バージョン2.1でPocket PCに対応した。
     バージョン7よりFMPとナンバーが統一されるも、バージョン8版をもって開発終了となり、販売・サポートは終了した[2](http://www.filemaker.co.jp/support/fmm_eol.html)。
   - ファイルメーカー Mobile for i-mode
-    ファイルメーカーPro で作成したデータベースから、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")対応サイトを作るサーバソフトウェア。[2002年](../Page/2002年.md "wikilink")3月に日本のみで発売された。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月に出荷終了。
+    ファイルメーカーPro で作成したデータベースから、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")対応サイトを作るサーバソフトウェア。[2002年](../Page/2002年.md "wikilink")3月に日本のみで発売された。[2005年](../Page/2005年.md "wikilink")9月に出荷終了。
 
 ## 主な機能
 
@@ -126,13 +126,13 @@ FileMaker Proとなった後に大きなものでは、3.0にて[関係データ
 | 2004年6月                                                    | FileMaker Mobile 7                                  |                                                                                                                                                                                                       |                   |
 | 2004年9月                                                    | FileMaker Server 7.0v2                              |                                                                                                                                                                                                       |                   |
 | 2004年10月                                                   | FileMaker Pro 7.0v3                                 |                                                                                                                                                                                                       |                   |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月  | FileMaker Mobile 7v1                                |                                                                                                                                                                                                       |                   |
+| [2005年](../Page/2005年.md "wikilink")5月                     | FileMaker Mobile 7v1                                |                                                                                                                                                                                                       |                   |
 | 2005年8月                                                    | FileMaker Pro 8.0v1                                 |                                                                                                                                                                                                       |                   |
 | 2005年8月                                                    | FileMaker Pro Advanced 8.0v1                        |                                                                                                                                                                                                       |                   |
 | 2005年9月                                                    | FileMaker Server 8.0v1                              |                                                                                                                                                                                                       |                   |
 | 2005年12月                                                   | FileMaker Pro 8.0v2                                 |                                                                                                                                                                                                       |                   |
 | 2005年12月                                                   | FileMaker Pro Advanced 8.0v2                        |                                                                                                                                                                                                       |                   |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月  | FileMaker Server Advanced 8.0v1                     |                                                                                                                                                                                                       |                   |
+| [2006年](../Page/2006年.md "wikilink")1月                     | FileMaker Server Advanced 8.0v1                     |                                                                                                                                                                                                       |                   |
 | 2006年1月                                                    | FileMaker Mobile 8                                  |                                                                                                                                                                                                       |                   |
 | 2006年4月                                                    | FileMaker Pro 8.0v3                                 |                                                                                                                                                                                                       |                   |
 | 2006年4月                                                    | FileMaker Pro Advanced 8.0v3                        |                                                                                                                                                                                                       |                   |
@@ -165,7 +165,7 @@ FileMaker Proとなった後に大きなものでは、3.0にて[関係データ
 ## 関連項目
 
   - [Bento](../Page/Bento.md "wikilink")
-  - [Microsoft Access](https://ja.wikipedia.org/wiki/Microsoft_Access "wikilink")
+  - [Microsoft Access](../Page/Microsoft_Access.md "wikilink")
   - [Open Database Connectivity (ODBC)](../Page/Open_Database_Connectivity.md "wikilink")
 
 ## 外部リンク

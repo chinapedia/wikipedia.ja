@@ -1,17 +1,17 @@
 > この記事は[MAYUMI](https://ja.wikipedia.org/wiki/MAYUMI)から翻訳されています。
 
 
-**MAYUMI**(マユミ、本名：山本真由美)は[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")と[名古屋](../Page/名古屋.md "wikilink")で活躍する[ヘアデザイナー](https://ja.wikipedia.org/wiki/美容師 "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")出身。ミスエッセンス代表。幼少期に[ロンドン](../Page/ロンドン.md "wikilink")で見たカット技術に魅了され、サスーンのカットスクールにて美容師を志す。\[1\]日本国内で5インチのハサミを最初に取り入れ、各種コンクールに受賞多数。自身が開発した「MAYUMI CUT」は[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")されている。目の前のお客様を綺麗にする美容師という職業に価値を上げていきたいという持論から自身のカット料金を20,000円以上に設定し30年以上維持し続けている。\[2\][ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")などでも講習経験を持つ。
+**MAYUMI**(マユミ、本名：山本真由美)は[東京](../Page/東京.md "wikilink")と[名古屋](../Page/名古屋.md "wikilink")で活躍する[ヘアデザイナー](../Page/美容師.md "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")出身。ミスエッセンス代表。幼少期に[ロンドン](../Page/ロンドン.md "wikilink")で見たカット技術に魅了され、サスーンのカットスクールにて美容師を志す。\[1\]日本国内で5インチのハサミを最初に取り入れ、各種コンクールに受賞多数。自身が開発した「MAYUMI CUT」は[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")されている。目の前のお客様を綺麗にする美容師という職業に価値を上げていきたいという持論から自身のカット料金を20,000円以上に設定し30年以上維持し続けている。\[2\][ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")などでも講習経験を持つ。
 
 ## 経歴
 
-  - 1998年[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")全国美容選手権』二度優勝。
+  - 1998年[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")全国美容選手権』二度優勝。
   - 全国ヴィダルサスーン杯受賞
   - JHA受賞
   - 2013年ユフォラLAにてヘアーショー・セミナー講師
   - 2014年アジアビューティーエキスポ『今、一番光っている女性スタイリスト』セミナー講師を務める。
   - 2015年[日本経済新聞](../Page/日本経済新聞.md "wikilink")「つやのある髪手に入れたい」にて掲載。BS JAPAN「プラス1をみよう」に出演。
-  - 2016年[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")招聘研究員
+  - 2016年[早稲田大学](../Page/早稲田大学.md "wikilink")招聘研究員
   - 2016年コーセー美容専門学校　理事
   - 2017年CBC「好きか嫌いか言う時間」に出演
   - 2017年上海・北京にてセミナー講師・技術講師を務める

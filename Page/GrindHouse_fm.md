@@ -64,7 +64,7 @@
 <td><p>毎週日曜 24:00 - 25:00</p></td>
 <td><p>2014年7月6日 - 2018年3月25日</p></td>
 <td><p>『<a href="../Page/Heavy_Metal_Syndicate.md" title="wikilink">Heavy Metal Syndicate</a>』の後番組としてネット開始したが、<br />
-『<a href="https://ja.wikipedia.org/wiki/V6_Next_Generation" title="wikilink">V6 Next Generation</a>』の放送時間移動により打ち切り。</p></td>
+『<a href="../Page/V6_Next_Generation.md" title="wikilink">V6 Next Generation</a>』の放送時間移動により打ち切り。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
@@ -74,7 +74,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a>（FM FUKUOKA）</p></td>
 <td><p>毎週金曜 27:00 - 28:00</p></td>
 <td></td>

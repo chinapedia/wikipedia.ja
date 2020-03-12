@@ -1,7 +1,7 @@
 > この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
 
 
-**DX人生ゲーム**（デラックスじんせいゲーム）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")用、[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[プレイステーション用が発売されたソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。発売元は[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")）。SUPER人生ゲームIIIの続編である。
+**DX人生ゲーム**（デラックスじんせいゲーム）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")用、[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[プレイステーション用が発売されたソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。発売元は[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）。SUPER人生ゲームIIIの続編である。
 
 ## 概要
 
@@ -34,15 +34,15 @@
   - 遊園地マップ
     せっかちコースの終盤、のんびりコースの序盤に登場。その名の通り遊園地を舞台としたマップ。
   - 恐竜マップ
-    ほどほどコース・のんびりコースの序盤に登場。[ジュラシック・パーク](https://ja.wikipedia.org/wiki/ジュラシック・パーク "wikilink")を彷彿させるような設定だが、[原始人](../Page/原始人.md "wikilink")などもいる。
+    ほどほどコース・のんびりコースの序盤に登場。[ジュラシック・パーク](../Page/ジュラシック・パーク.md "wikilink")を彷彿させるような設定だが、[原始人](../Page/原始人.md "wikilink")などもいる。
   - 空マップ
     ほどほどコース・のんびりコースの中盤に登場。世界旅行をテーマとしたマップ。このマップに限り車のコマが[飛行機](../Page/飛行機.md "wikilink")になっている。
   - 南の島マップ
     ほどほどコースの終盤に登場。南国のリゾートを舞台としたマップ。
   - 海マップ
-    のんびりコースの中盤に登場。深海を舞台としたマップ。[竜宮城](https://ja.wikipedia.org/wiki/龍宮 "wikilink")・[乙姫](https://ja.wikipedia.org/wiki/乙姫 "wikilink")などといった設定も登場する。このマップに限り車のコマが[潜水艦](../Page/潜水艦.md "wikilink")になっている。
+    のんびりコースの中盤に登場。深海を舞台としたマップ。[竜宮城](../Page/龍宮.md "wikilink")・[乙姫](https://ja.wikipedia.org/wiki/乙姫 "wikilink")などといった設定も登場する。このマップに限り車のコマが[潜水艦](../Page/潜水艦.md "wikilink")になっている。
   - 大霊界マップ
-    のんびりコースの終盤に登場。[天国](../Page/天国.md "wikilink")・[地獄](../Page/地獄.md "wikilink")・[三途の川](https://ja.wikipedia.org/wiki/三途の川 "wikilink")といった[死後の世界](https://ja.wikipedia.org/wiki/死後の世界 "wikilink")をテーマとしたマップ。但しプレイヤー自身は生きたままであり、[臨死体験](https://ja.wikipedia.org/wiki/臨死体験 "wikilink")に近いものとなっている。
+    のんびりコースの終盤に登場。[天国](../Page/天国.md "wikilink")・[地獄](../Page/地獄.md "wikilink")・[三途の川](https://ja.wikipedia.org/wiki/三途の川 "wikilink")といった[死後の世界](https://ja.wikipedia.org/wiki/死後の世界 "wikilink")をテーマとしたマップ。但しプレイヤー自身は生きたままであり、[臨死体験](../Page/臨死体験.md "wikilink")に近いものとなっている。
 
 ## ルール
 
@@ -157,7 +157,7 @@
       -
         証券会社「キッド証券」では株式の売買ができる。以下の3つの銘柄のうち1つしか所持できない。購入価格は1株につき一律20万円。株を購入した後は、数ターンごとに株取引が行われ、ルーレットを回した結果で所持金が増減する。ルーレットを回すプレイヤーはランダムで選ばれる。名前の由来は本作の実際の開発を担当した[KIDから](../Page/KID_\(ゲームブランド\).md "wikilink")。
           - 東菱（[東京三菱銀行](../Page/東京三菱銀行.md "wikilink")＝現・[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")のもじり）：プラス・マイナスともほどほど（上下幅は1株につき20 - 100万円）。
-          - NNT（[NTTのもじり](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")）：ハイリスクハイリターン（上下幅は1株につき80 - 200万円）。
+          - NNT（[NTTのもじり](../Page/日本電信電話.md "wikilink")）：ハイリスクハイリターン（上下幅は1株につき80 - 200万円）。
           - 松上（松下電器産業＝現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")のもじり）：必ずプラスになるがほんのわずか（1株につき数万円、たまに20万円）しかプラスにならない。
     <!-- end list -->
       - 不動産
@@ -302,7 +302,7 @@ PS版に限り、人生ゲーム本編とは別におまけとして収録され
 
   - [人生ゲーム](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")
   - [DX人生ゲームII](../Page/DX人生ゲームII.md "wikilink")：このゲームの続編。
-  - [闘神伝](https://ja.wikipedia.org/wiki/闘神伝 "wikilink")：タイムトンネルマスのイベント内で「闘神伝」の登場人物らしきキャラクターがゲスト出演している。
+  - [闘神伝](../Page/闘神伝.md "wikilink")：タイムトンネルマスのイベント内で「闘神伝」の登場人物らしきキャラクターがゲスト出演している。
 
 [Category:人生ゲーム](https://ja.wikipedia.org/wiki/Category:人生ゲーム "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink")
 

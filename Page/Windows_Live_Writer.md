@@ -1,7 +1,7 @@
 > この記事は[Windows Live Writer](https://ja.wikipedia.org/wiki/Windows_Live_Writer)から翻訳されています。
 
 
-**Windows Live Writer**（ウィンドウズ ライブ ライター）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発したソフトウェアで、[ブログ](../Page/ブログ.md "wikilink")の投稿と編集を行うアプリケーションである。[Windows Live](https://ja.wikipedia.org/wiki/Windows_Live "wikilink") のサービスの1つである。
+**Windows Live Writer**（ウィンドウズ ライブ ライター）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発したソフトウェアで、[ブログ](../Page/ブログ.md "wikilink")の投稿と編集を行うアプリケーションである。[Windows Live](../Page/Windows_Live.md "wikilink") のサービスの1つである。
 
 [Windows Essentialsに含まれていて](https://ja.wikipedia.org/wiki/Windows_Essentials "wikilink")、[インストール](../Page/インストール.md "wikilink")できる。
 
@@ -28,12 +28,12 @@ Windows Live Writerには次のような特徴がある。
 
 Windows Live Writerは次のブログ サービスとの互換性がある。
 
-  - [Windows Live Spaces](https://ja.wikipedia.org/wiki/Windows_Live_Spaces "wikilink")(2011年3月を持ってサービス終了)
+  - [Windows Live Spaces](../Page/Windows_Live_Spaces.md "wikilink")(2011年3月を持ってサービス終了)
   - [Blogger](../Page/Blogger.md "wikilink")
   - [DTI Blog](https://ja.wikipedia.org/wiki/DTI_Blog "wikilink")
   - [LiveJournal](https://ja.wikipedia.org/wiki/LiveJournal "wikilink")
-  - [TypePad](https://ja.wikipedia.org/wiki/TypePad "wikilink")
-  - [WordPress](https://ja.wikipedia.org/wiki/WordPress "wikilink")
+  - [TypePad](../Page/TypePad.md "wikilink")
+  - [WordPress](../Page/WordPress.md "wikilink")
   - [Community Server](https://ja.wikipedia.org/wiki/Community_Server "wikilink")
   - [PBlogs.gr](https://ja.wikipedia.org/wiki/PBlogs.gr "wikilink")
   - [Atom Publishing Protocol](https://ja.wikipedia.org/wiki/Atom_Publishing_Protocol "wikilink")
@@ -41,11 +41,11 @@ Windows Live Writerは次のブログ サービスとの互換性がある。
 Windows Live Writerは次の[APIとの互換性がある](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。
 
   - [MetaWeblog](https://ja.wikipedia.org/wiki/MetaWeblog "wikilink")
-  - [Movable Type](https://ja.wikipedia.org/wiki/Movable_Type "wikilink")
+  - [Movable Type](../Page/Movable_Type.md "wikilink")
 
 ## 関連項目
 
-  - [Windows Live Spaces](https://ja.wikipedia.org/wiki/Windows_Live_Spaces "wikilink")
+  - [Windows Live Spaces](../Page/Windows_Live_Spaces.md "wikilink")
   - [Windows Live Gallery](https://ja.wikipedia.org/wiki/Windows_Live_Gallery "wikilink")
 
 ## 外部リンク

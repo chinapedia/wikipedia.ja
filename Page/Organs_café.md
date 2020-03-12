@@ -1,7 +1,7 @@
 > この記事は[Organs caf](https://ja.wikipedia.org/wiki/Organs_caf)から翻訳されています。
 
 
-**organs café**（オルガンズ・カフェ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**organs café**（オルガンズ・カフェ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ](../Page/ポップ・ミュージック.md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 来歴
 
@@ -18,7 +18,7 @@
       - [2月25日](../Page/2月25日.md "wikilink")、インディーズレーベル「slow note」に移籍し、2ndアルバム『鍵』をリリース。
       - [5月26日](../Page/5月26日.md "wikilink")、3rdアルバム『水』をリリース。
       - [12月8日](../Page/12月8日.md "wikilink")、4thアルバム『樹』をリリース。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [5月17日](../Page/5月17日.md "wikilink")、1年半ぶり作品の5枚目シングル「a Love TANKA」をリリース。
   - [2007年](../Page/2007年.md "wikilink")
       - [1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")、Bouncy Recordsに移籍し、5thアルバム『cafe au lait bowl』をリリース。
@@ -31,8 +31,8 @@
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。また、楽曲の作詞・作曲も手掛ける。
     デビュー時から2003年まで、**加藤沙果菜**名義で活動していた。
   - 林良（はやし りょう）
-    [キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。また、楽曲の作曲・編曲も手掛ける。
-    バンドでの活動以外に、[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")の講師も務め、定期的にジャズ・[フュージョン系バンドの](../Page/フュージョン_\(音楽\).md "wikilink")[セッション](https://ja.wikipedia.org/wiki/セッション "wikilink")・ライブも行っている。
+    [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。また、楽曲の作曲・編曲も手掛ける。
+    バンドでの活動以外に、[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")の講師も務め、定期的にジャズ・[フュージョン系バンドの](../Page/フュージョン_\(音楽\).md "wikilink")[セッション](../Page/セッション.md "wikilink")・ライブも行っている。
 
 ### 元メンバー
 
@@ -76,11 +76,11 @@
 
 <!-- end list -->
 
-  - [Ryu](https://ja.wikipedia.org/wiki/Ryu_\(歌手\) "wikilink")『初恋』 （2004年8月4日）
+  - [Ryu](../Page/Ryu_\(歌手\).md "wikilink")『初恋』 （2004年8月4日）
       - M-4「止められるなら」
       - M-7「\[es cafe\]」
       - M-8「Astro」
-  - [岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")『Thank You For…』（2005年12月7日）
+  - [岩田さゆり](../Page/岩田さゆり.md "wikilink")『Thank You For…』（2005年12月7日）
       - M-9「くもりぞら」
 
 <!-- end list -->
@@ -89,25 +89,25 @@
 
 <!-- end list -->
 
-  - [BON-BON BLANCO](https://ja.wikipedia.org/wiki/BON-BON_BLANCO "wikilink")『BEAT GOES ON』 （2003年3月26日）
+  - [BON-BON BLANCO](../Page/BON-BON_BLANCO.md "wikilink")『BEAT GOES ON』 （2003年3月26日）
       - M-3「LIVE」
   - BON-BON BLANCO『Winter Greetings』 （2004年12月15日）
       - M-5「「好き。」」
   - [愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")『[PLAYGIRL](https://ja.wikipedia.org/wiki/PLAYGIRL "wikilink")』 （2004年12月15日）
       - M-7「LOVE-FORMATION」
-  - [岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")「[空色の猫](../Page/空色の猫.md "wikilink")」 （2005年3月30日）
+  - [岩田さゆり](../Page/岩田さゆり.md "wikilink")「[空色の猫](../Page/空色の猫.md "wikilink")」 （2005年3月30日）
       - M-2「たたき続けた扉」
   - 岩田さゆり『[風と空と](../Page/風と空と.md "wikilink")』 （2005年5月25日）
       - M-5「たんぽぽ」
   - 岩田さゆり『[Thank You For…](../Page/Thank_You_For….md "wikilink")』 （2005年12月7日）
       - M-7「First love」
-  - [北原愛子](https://ja.wikipedia.org/wiki/北原愛子 "wikilink")「[SAMBA NIGHT](https://ja.wikipedia.org/wiki/SAMBA_NIGHT "wikilink")」 （2007年8月22日）
+  - [北原愛子](../Page/北原愛子.md "wikilink")「[SAMBA NIGHT](../Page/SAMBA_NIGHT.md "wikilink")」 （2007年8月22日）
       - M-1「SAMBA NIGHT」作曲も担当。
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")
+  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")
   - [ZAIN ARTISTS](../Page/ZAIN_ARTISTS.md "wikilink")
 
 ## 参考文献・出典

@@ -1,7 +1,7 @@
 > この記事は[Classics Four BLUE Smile Blue](https://ja.wikipedia.org/wiki/Classics_Four_BLUE_Smile_Blue)から翻訳されています。
 
 
-「**Classics Four BLUE Smile Blue**」（クラシックス・フォー ブルー スマイル・ブルー）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")のコンセプチュアル・マキシシングル。
+「**Classics Four BLUE Smile Blue**」（クラシックス・フォー ブルー スマイル・ブルー）は、[DEEN](../Page/DEEN.md "wikilink")のコンセプチュアル・マキシシングル。
 
 ## 作品解説
 
@@ -16,20 +16,20 @@
 
 1.  **Smile Blue 〜DEEN featuring 押尾コータロー〜**
       -
-        作詞：[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink") / 作曲：[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink") / 編曲：山根公路
+        作詞：[池森秀一](../Page/池森秀一.md "wikilink") / 作曲：[山根公路](../Page/山根公路.md "wikilink") / 編曲：山根公路
         [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の「エンタメSPORTS」テーマソング。期間は、8月6日から9月末まで。
 2.  **Sunrise Sunset**
       -
-        作詞：池森秀一 / 作曲・編曲：[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")
+        作詞：池森秀一 / 作曲・編曲：[田川伸治](../Page/田川伸治.md "wikilink")
         [クレールベイサイド](https://ja.wikipedia.org/wiki/名古屋港イタリア村#クレールベイサイドイタリア村 "wikilink") - CMソング
 3.  **Smile Blue<Ocean Breeze>**
       -
         作曲：山根公路 / 編曲：田川伸治
-4.  **[SUNSHINE ON SUMMER TIME 2007](https://ja.wikipedia.org/wiki/SUNSHINE_ON_SUMMER_TIME "wikilink")**
+4.  **[SUNSHINE ON SUMMER TIME 2007](../Page/SUNSHINE_ON_SUMMER_TIME.md "wikilink")**
       -
-        作詞：池森秀一 / 作曲：[宇津本直紀](https://ja.wikipedia.org/wiki/宇津本直紀 "wikilink") / 編曲：[Steve Good](https://ja.wikipedia.org/wiki/Steve_Good "wikilink")
+        作詞：池森秀一 / 作曲：[宇津本直紀](../Page/宇津本直紀.md "wikilink") / 編曲：[Steve Good](https://ja.wikipedia.org/wiki/Steve_Good "wikilink")
         10thシングルのアレンジ
-5.  **[Memories 2007](https://ja.wikipedia.org/wiki/Memories_\(DEENの曲\) "wikilink")**
+5.  **[Memories 2007](../Page/Memories_\(DEENの曲\).md "wikilink")**
       -
         作詞：池森秀一・[井上留美子](https://ja.wikipedia.org/wiki/井上留美子 "wikilink") / 作曲：[織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲：田川伸治
         3rdシングルのアレンジ
@@ -118,8 +118,8 @@
 
 ## 関連項目
 
-  - [遠距離恋愛](https://ja.wikipedia.org/wiki/遠距離恋愛 "wikilink")（この歌のテーマ）
-  - [ダッジ・ラム](https://ja.wikipedia.org/wiki/ダッジ・ラム "wikilink")（[PVで登場する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ピックアップトラック](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")）
+  - [遠距離恋愛](../Page/遠距離恋愛.md "wikilink")（この歌のテーマ）
+  - [ダッジ・ラム](../Page/ダッジ・ラム.md "wikilink")（[PVで登場する](../Page/ミュージック・ビデオ.md "wikilink")[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")）
   - [太地町](../Page/太地町.md "wikilink")（目指していた「君の町」）
 
 ## 外部リンク

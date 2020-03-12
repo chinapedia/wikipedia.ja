@@ -1,7 +1,7 @@
 > この記事は[TWD EXPRESS](https://ja.wikipedia.org/wiki/TWD_EXPRESS)から翻訳されています。
 
 
-『**TWD EXPRESS**』（ティーダブリューディーエクスプレス）は、[聖悠紀](../Page/聖悠紀.md "wikilink")による[SF漫画](../Page/SF漫画.md "wikilink")。[学習研究社刊行の漫画雑誌](../Page/学研ホールディングス.md "wikilink")『[月刊コミックNORA](https://ja.wikipedia.org/wiki/月刊コミックNORA "wikilink")』に連載された。単行本4巻\[1\]。
+『**TWD EXPRESS**』（ティーダブリューディーエクスプレス）は、[聖悠紀](../Page/聖悠紀.md "wikilink")による[SF漫画](../Page/SF漫画.md "wikilink")。[学習研究社刊行の漫画雑誌](../Page/学研ホールディングス.md "wikilink")『[月刊コミックNORA](../Page/月刊コミックNORA.md "wikilink")』に連載された。単行本4巻\[1\]。
 
 ## あらすじ
 
@@ -20,7 +20,7 @@ TWD EXPRESSは「どんな荷物でも星から星へ運びます」がモット
     クールで美女に目のない色男だが、優男な外見に反するタフな一面も持つ。宇宙船の航海長でチーフ・パーサー。女性問題を一手に引き受け、買い物の値段を負けてもらったり機密情報をもらったりするために、女性と一夜を共にすることもしばしば。
     銀河最高のコンピュータ専門学校「論理学究院（ロゴスアカデミア）」の卒業生で、宇宙でもトップクラスのコンピュータ・エンジニア。本名はアーノルド・スターン。腕力に劣るため、戦闘時はバトル・スーツを着用する。
   - “ドラゴン”イワン・サルニコフ
-    寡黙で常に冷静な大男。宇宙船の機関長で船医。普段は髪の毛で目元が見えないが、前髪を持ち上げたときは[左右の目の色の違いを利用した催眠術](https://ja.wikipedia.org/wiki/虹彩異色症 "wikilink")「メトニ・カラーヴァ」を使う（カメラ越しやビデオなどでも催眠を掛けられる）。メカニックとしての腕前は低くはないが出費を渋る一面があり、安値に引かれて買った品物に「訳あり」が多く、トラブルの種になることも多い。服の左胸に「竜」の字が入っていることが多い。
+    寡黙で常に冷静な大男。宇宙船の機関長で船医。普段は髪の毛で目元が見えないが、前髪を持ち上げたときは[左右の目の色の違いを利用した催眠術](../Page/虹彩異色症.md "wikilink")「メトニ・カラーヴァ」を使う（カメラ越しやビデオなどでも催眠を掛けられる）。メカニックとしての腕前は低くはないが出費を渋る一面があり、安値に引かれて買った品物に「訳あり」が多く、トラブルの種になることも多い。服の左胸に「竜」の字が入っていることが多い。
     元「教団」の僧侶で、「メトニ・カラーヴァ」も「教団」で学んだ。何らかの理由で「教団」を抜け出したらしいが、それらの過去は作中では詳しく語られなかった。
   - リナ
     人間そっくりに作られた人造生命体「ハイドラ（高い生命力と再生力を持ち、水だけで生きていける）」の女の子。人間型のハイドラは違法だが、金持ちの[サディズム](../Page/サディズム.md "wikilink")道楽のためだけに作られた。そこから逃げ出したところをデュークに助けられる。
@@ -62,55 +62,55 @@ TWD EXPRESSは「どんな荷物でも星から星へ運びます」がモット
 
 ## OVA
 
-『**TWD EXPRESS ROLLING TAKEOFF**』（ティーダブリューディーエクスプレス ローリングテイクオフ）のタイトルで、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に松竹CBS/FOXビデオよりVHS/Beta/LDで発売された\[2\]。55分\[3\]。なお、発売に先立って7月14日から[松竹富士](https://ja.wikipedia.org/wiki/松竹富士 "wikilink")の配給で劇場公開されている\[4\]。併映は[長谷川裕一](../Page/長谷川裕一.md "wikilink")原作の『[マップス 伝説のさまよえる星人たち](../Page/マップス_\(OVA\).md "wikilink")』\[5\]。
+『**TWD EXPRESS ROLLING TAKEOFF**』（ティーダブリューディーエクスプレス ローリングテイクオフ）のタイトルで、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に松竹CBS/FOXビデオよりVHS/Beta/LDで発売された\[2\]。55分\[3\]。なお、発売に先立って7月14日から[松竹富士](../Page/松竹富士.md "wikilink")の配給で劇場公開されている\[4\]。併映は[長谷川裕一](../Page/長谷川裕一.md "wikilink")原作の『[マップス 伝説のさまよえる星人たち](../Page/マップス_\(OVA\).md "wikilink")』\[5\]。
 
   - キャスト
 
-:\* ケン・カトー - [難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")
+:\* ケン・カトー - [難波圭一](../Page/難波圭一.md "wikilink")
 
 :\* デューク・スターン - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
 
 :\* イワン・サルニコフ - [野島昭生](../Page/野島昭生.md "wikilink")
 
-:\* リナ - [荘真由美](https://ja.wikipedia.org/wiki/荘真由美 "wikilink")
+:\* リナ - [荘真由美](../Page/荘真由美.md "wikilink")
 
 :\* レットン - [山田栄子](../Page/山田栄子.md "wikilink")
 
 :\* ゴーダム - [永井一郎](../Page/永井一郎.md "wikilink")
 
-:\* シュウシュウ - [安西正弘](https://ja.wikipedia.org/wiki/安西正弘 "wikilink")
+:\* シュウシュウ - [安西正弘](../Page/安西正弘.md "wikilink")
 
-:\* タイラー - [飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+:\* タイラー - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
 
-:\* XR-15 - [小林通孝](https://ja.wikipedia.org/wiki/小林通孝 "wikilink")
+:\* XR-15 - [小林通孝](../Page/小林通孝.md "wikilink")
 
 :\* ガレオ - [銀河万丈](../Page/銀河万丈.md "wikilink")
 
 :\* ノーラ - 朽木真理
 
-:\* ケイ - [村田博美](https://ja.wikipedia.org/wiki/村田博美 "wikilink")
+:\* ケイ - [村田博美](../Page/村田博美.md "wikilink")
 
-:\* 管制官 - [平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")
+:\* 管制官 - [平野正人](../Page/平野正人.md "wikilink")
 
   - スタッフ
 
 :\* 企画・制作 - 学研アニメ映像事業室
 
-:\* 監督 - [湯山邦彦](https://ja.wikipedia.org/wiki/湯山邦彦 "wikilink")
+:\* 監督 - [湯山邦彦](../Page/湯山邦彦.md "wikilink")
 
-:\* 脚本 - [橋本以蔵](https://ja.wikipedia.org/wiki/橋本以蔵 "wikilink")
+:\* 脚本 - [橋本以蔵](../Page/橋本以蔵.md "wikilink")
 
 :\* キャラクターデザイン・作画監督 - [小林一幸](https://ja.wikipedia.org/wiki/小林一幸 "wikilink")
 
 :\* 作画監督補佐 - [松原徳弘](https://ja.wikipedia.org/wiki/松原徳弘 "wikilink")
 
-:\* メカニックデザイン - [渡部高志](https://ja.wikipedia.org/wiki/渡部高志 "wikilink")
+:\* メカニックデザイン - [渡部高志](../Page/渡部高志.md "wikilink")
 
 :\* 美術監督 - 長尾仁
 
 :\* 撮影監督 - [杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink")
 
-:\* 演出助手 - [高本宣弘](https://ja.wikipedia.org/wiki/高本宣弘 "wikilink")
+:\* 演出助手 - [高本宣弘](../Page/高本宣弘.md "wikilink")
 
 :\* 編集 - [掛須秀一](../Page/掛須秀一.md "wikilink")
 
@@ -124,9 +124,9 @@ TWD EXPRESSは「どんな荷物でも星から星へ運びます」がモット
 
 :\* プロデューサー - 黒島正夫（[松竹](../Page/松竹.md "wikilink")）、近藤良英（松竹）
 
-:\* 制作プロデューサー - 金子泰生（学研）、[若菜章夫](https://ja.wikipedia.org/wiki/若菜章夫 "wikilink")
+:\* 制作プロデューサー - 金子泰生（学研）、[若菜章夫](../Page/若菜章夫.md "wikilink")
 
-:\* アニメーション制作協力 - [スタジオぎゃろっぷ](https://ja.wikipedia.org/wiki/ぎゃろっぷ "wikilink")
+:\* アニメーション制作協力 - [スタジオぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")
 
 :\* 製作 - 松竹株式会社
 
@@ -137,7 +137,7 @@ TWD EXPRESSは「どんな荷物でも星から星へ運びます」がモット
   -
 
       -
-        作詞 - SHOW / 作・編曲 - 山崎稔 / 歌 - [太田貴子](https://ja.wikipedia.org/wiki/太田貴子 "wikilink")
+        作詞 - SHOW / 作・編曲 - 山崎稔 / 歌 - [太田貴子](../Page/太田貴子.md "wikilink")
 
   - CDアルバム
 
@@ -146,7 +146,7 @@ TWD EXPRESSは「どんな荷物でも星から星へ運びます」がモット
   -
 
       -
-        1987年[7月25日](../Page/7月25日.md "wikilink")に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")より発売。39分。
+        1987年[7月25日](../Page/7月25日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")より発売。39分。
 
 ## 脚注
 

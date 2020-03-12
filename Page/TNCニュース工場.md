@@ -25,10 +25,10 @@
 
 ## 関連項目
 
-  - [TNCニュース](https://ja.wikipedia.org/wiki/TNCニュース "wikilink")
+  - [TNCニュース](../Page/TNCニュース.md "wikilink")
   - [TNCニュースレポート23:00](../Page/TNCニュースレポート23:00.md "wikilink")・23:30 - 前番組。
   - [FNNニュース工場](../Page/FNNニュース工場.md "wikilink")
   - [TNCモーニングコール](../Page/TNCモーニングコール.md "wikilink") - 同時期に放送されていた朝の情報ワイド番組。
-  - [FNN DATE LINE TNC](https://ja.wikipedia.org/wiki/TNC_DATE_LINE "wikilink") - 後番組。
+  - [FNN DATE LINE TNC](../Page/TNC_DATE_LINE.md "wikilink") - 後番組。
 
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の深夜番組 "wikilink") [Category:テレビ西日本の帯番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の帯番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink")

@@ -10,11 +10,11 @@
 **高佐 一慈**（たかさ くにやす、 - ）立ち位置は主に左でツッコミ担当。
 
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身。身長174cm、体重59kg。
-  - [函館ラ・サール高校卒業](https://ja.wikipedia.org/wiki/函館ラ・サール中学校・高等学校 "wikilink")。[早稲田大学理工学部](https://ja.wikipedia.org/wiki/早稲田大学理工学部 "wikilink")中退。[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")へは[指定校推薦](https://ja.wikipedia.org/wiki/指定校推薦 "wikilink")で入学しており、高佐が中退したことによって函館ラ・サール高校から早稲田大学理工学部への推薦枠がなくなったという噂がある\[1\]。
+  - [函館ラ・サール高校卒業](../Page/函館ラ・サール中学校・高等学校.md "wikilink")。[早稲田大学理工学部](https://ja.wikipedia.org/wiki/早稲田大学理工学部 "wikilink")中退。[早稲田大学](../Page/早稲田大学.md "wikilink")へは[指定校推薦](../Page/指定校推薦.md "wikilink")で入学しており、高佐が中退したことによって函館ラ・サール高校から早稲田大学理工学部への推薦枠がなくなったという噂がある\[1\]。
   - 特技は[パントマイム](../Page/パントマイム.md "wikilink")、ピアノ、[ハープ](../Page/ハープ.md "wikilink")、卓球。パントマイムやハープはネタ中で披露することもある。
   - 好きなものは映画「[博士の異常な愛情](https://ja.wikipedia.org/wiki/博士の異常な愛情 "wikilink")」、あんこ。
   - 大学生の時にお笑いのサークル「早稲田大学寄席演芸研究会」に入っていた。大学対抗お笑いバトルで決勝にいったことがある\[2\]。
-  - [おおかわら](https://ja.wikipedia.org/wiki/おおかわら "wikilink")（[鬼ヶ島](https://ja.wikipedia.org/wiki/鬼ヶ島_\(お笑い\) "wikilink")）と仲が良い。美容院に行くときはいつも一緒とのこと。（2011年5月現在）
+  - [おおかわら](https://ja.wikipedia.org/wiki/おおかわら "wikilink")（[鬼ヶ島](../Page/鬼ヶ島_\(お笑い\).md "wikilink")）と仲が良い。美容院に行くときはいつも一緒とのこと。（2011年5月現在）
   - ライトノベル作家の[川岸殴魚](https://ja.wikipedia.org/wiki/川岸殴魚 "wikilink")とは大学時代のサークルの先輩であり、その縁で月刊ガガガチャンネルに出演することになったと番組内で語っている。また、川岸の書いたライトノベル、「人生」に尾関とともにゲスト（相談役）で登場している。
   - 妹の影響で『らんま1/2』を読み始め、久遠寺右京に恋をする。同作を好きすぎて、最後を迎えたくないあまり最終巻だけ読んでいない（2017年時点）\[3\]。
   - YouTubeチャンネル「タカサ大喜利倶楽部」にて毎週ゲストとともに大喜利動画を配信しており、動画の編集も高佐自身がおこなっている\[4\]。
@@ -22,11 +22,11 @@
 
 **尾関 高文**（おぜき たかふみ、\[6\] - ）立ち位置は主に右でボケ担当。
 
-  - [広島県](../Page/広島県.md "wikilink")[東広島市](../Page/東広島市.md "wikilink")西条町出身\[7\]。血液型[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")在住。身長190cm、体重80kg\[8\]。
-  - [千葉県立柏南高等学校](https://ja.wikipedia.org/wiki/千葉県立柏南高等学校 "wikilink")を経て、浪人し\[9\]、[明治大学](../Page/明治大学.md "wikilink")商学部卒業\[10\]。
+  - [広島県](../Page/広島県.md "wikilink")[東広島市](../Page/東広島市.md "wikilink")西条町出身\[7\]。血液型[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")在住。身長190cm、体重80kg\[8\]。
+  - [千葉県立柏南高等学校](../Page/千葉県立柏南高等学校.md "wikilink")を経て、浪人し\[9\]、[明治大学](../Page/明治大学.md "wikilink")商学部卒業\[10\]。
   - 特技はバレーボール、野球（投手）、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")を語ること。
-  - 中学では科学部に在籍。[千葉県立柏南高等学校](https://ja.wikipedia.org/wiki/千葉県立柏南高等学校 "wikilink")時代にバレー部で千葉県ベスト8。野球経験は無いが浪人時代カープの入団テストを受けようとしていた。
-      - [すっぽん大学](https://ja.wikipedia.org/wiki/すっぽん大学 "wikilink")の学は同じ高校のバレーボール部の後輩ということで仲が良く、尾関が「お笑いのサークルに入ればいいじゃん」と言ったことで学がお笑いの活動を始めた\[11\]。
+  - 中学では科学部に在籍。[千葉県立柏南高等学校](../Page/千葉県立柏南高等学校.md "wikilink")時代にバレー部で千葉県ベスト8。野球経験は無いが浪人時代カープの入団テストを受けようとしていた。
+      - [すっぽん大学](../Page/すっぽん大学.md "wikilink")の学は同じ高校のバレーボール部の後輩ということで仲が良く、尾関が「お笑いのサークルに入ればいいじゃん」と言ったことで学がお笑いの活動を始めた\[11\]。
   - 親が厳格で、お笑い番組は見せてもらえなかった。大学に入ってから『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』などお笑いを見始め、その頃に友人に誘われてお笑いの活動を始める\[12\]。
   - 2009年5月、「キングオブコント」記者会見で一般人との結婚予定を公表した\[13\]。同年6月に入籍、11月11日に女児が誕生した。
   - 恐竜に関しては、科学館等でイベントを行うほど造詣が深い。
@@ -35,20 +35,20 @@
 
 ## 概要
 
-  - [2004年](../Page/2004年.md "wikilink")結成のコントユニット。同年、[ゲンセキ](https://ja.wikipedia.org/wiki/ゲンセキ "wikilink")や[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")に出演し知名度が上がる。2006年1月に初の単独ライブ「手と足が同時に出る」をシアターイワトにて行なった。
-  - 事務所の先輩「[シティボーイズ](https://ja.wikipedia.org/wiki/シティボーイズ "wikilink")」のファンであり、尊敬している。当初はフリーで活動するも、シティボーイズと同じ事務所（ASH\&Dコーポレーション）への所属を希望し、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")秋に所属となる。
+  - [2004年](../Page/2004年.md "wikilink")結成のコントユニット。同年、[ゲンセキ](../Page/ゲンセキ.md "wikilink")や[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")に出演し知名度が上がる。2006年1月に初の単独ライブ「手と足が同時に出る」をシアターイワトにて行なった。
+  - 事務所の先輩「[シティボーイズ](../Page/シティボーイズ.md "wikilink")」のファンであり、尊敬している。当初はフリーで活動するも、シティボーイズと同じ事務所（ASH\&Dコーポレーション）への所属を希望し、[2005年](../Page/2005年.md "wikilink")秋に所属となる。
   - 映像コント集団「モダンレコーディング」にも所属し、その中で、尾関主演の「マッドメン」が「東京ネットムービーフェスティバル2005」にてグランプリを受賞した。
   - 戯曲作家・[故林広志](https://ja.wikipedia.org/wiki/故林広志 "wikilink")第3期コントサンプルの一員で、故林のバックアップの下、活動を開始した。
   - GEESEとは英：GOOSE（ガチョウ）の複数形だが、尾関曰くラテン語で「腰が低い」という意味で、そこから命名したという説もあるが、これは尾関の冗談である。
       - TV出演の際に「ザ・ギース」とカタカナ表記となっていることが多い（ただし、『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』などでは英語表記のまま）。
       - また、[キングオブコント](../Page/キングオブコント.md "wikilink")決勝では「ザ・ギース」に改名すると発表されたが、後日公式ブログにて、今後も改名はせず、用途によってカタカナとアルファベット表記を使い分けていくと発表。同番組では「解散を賭けた挑戦」を紹介され優勝できなければ解散するとも紹介された。結果はAブロック2位だったが、後日の公式ブログでこれからも解散せずに活動することを表明した。
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")では、初挑戦から8連勝を続けたが、[上々軍団](../Page/上々軍団.md "wikilink")がパーフェクトを達成した放送分(2007年11月17日)で連勝が8でストップ。それ以降長期間[坂コロジンクス](https://ja.wikipedia.org/wiki/坂道コロンブス "wikilink")（オンエアとオフエアを交互に続けること）にハマっていたが、[2009年](../Page/2009年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")の放送分でついに連勝をして1年10ヶ月ぶりに坂コロジンクスを脱した。また、この回で連勝を達成した為、ゴールドバトラーに認定された。
-  - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")においては**無傷の15連勝**を記録し、その内オーバー500を**6回**獲得するなど圧倒的な強さを誇った。因みに連勝回数は[ラバーガール](https://ja.wikipedia.org/wiki/ラバーガール "wikilink")（16戦全勝）に次いで2番目に多い記録であり、オーバー500獲得回数は番組最高記録となっている。なお、オンバト+において10連勝以上を達成している芸人はラバーガールとTHE GEESEの2組のみとなっている。
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")では、初挑戦から8連勝を続けたが、[上々軍団](../Page/上々軍団.md "wikilink")がパーフェクトを達成した放送分(2007年11月17日)で連勝が8でストップ。それ以降長期間[坂コロジンクス](../Page/坂道コロンブス.md "wikilink")（オンエアとオフエアを交互に続けること）にハマっていたが、[2009年](../Page/2009年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")の放送分でついに連勝をして1年10ヶ月ぶりに坂コロジンクスを脱した。また、この回で連勝を達成した為、ゴールドバトラーに認定された。
+  - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")においては**無傷の15連勝**を記録し、その内オーバー500を**6回**獲得するなど圧倒的な強さを誇った。因みに連勝回数は[ラバーガール](../Page/ラバーガール.md "wikilink")（16戦全勝）に次いで2番目に多い記録であり、オーバー500獲得回数は番組最高記録となっている。なお、オンバト+において10連勝以上を達成している芸人はラバーガールとTHE GEESEの2組のみとなっている。
 
 ## 逸話
 
-  - 事務所は違うが、[ラバーガール](https://ja.wikipedia.org/wiki/ラバーガール "wikilink")とは合同ライブを行うなど、仲が良い。
-  - 『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』に初出演した際は、同じ回に[小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")が出演していたため、放送を見ていた親戚に「おもしろかったね、小島よしお」と言われたという。
+  - 事務所は違うが、[ラバーガール](../Page/ラバーガール.md "wikilink")とは合同ライブを行うなど、仲が良い。
+  - 『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』に初出演した際は、同じ回に[小島よしお](../Page/小島よしお.md "wikilink")が出演していたため、放送を見ていた親戚に「おもしろかったね、小島よしお」と言われたという。
   - 『[ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")』ではゴールドラッシュの挑戦回数の多さから、[ガリガリガリクソン](https://ja.wikipedia.org/wiki/ガリガリガリクソン "wikilink")とは絆が強まったと発言している。「ガリクソンさん」と呼んでいるが、ギースよりガリクソンの方が年下である（芸歴はガリクソンの方が上である）。
 
 ## ネタ
@@ -61,7 +61,7 @@
 
 ### キングオブコント
 
-キングオブコントは第1回大会から出場しており、その内3度（2008年、2015年、2018年）に決勝に進出している。準決勝の進出回数は[ジャルジャル](https://ja.wikipedia.org/wiki/ジャルジャル "wikilink")、[しずる](../Page/しずる.md "wikilink")の11回連続に次いで2番目に多い。
+キングオブコントは第1回大会から出場しており、その内3度（2008年、2015年、2018年）に決勝に進出している。準決勝の進出回数は[ジャルジャル](../Page/ジャルジャル.md "wikilink")、[しずる](../Page/しずる.md "wikilink")の11回連続に次いで2番目に多い。
 
   - 2008年 第1回[キングオブコント](../Page/キングオブコント.md "wikilink") 決勝進出（Aリーグ2位）
   - 2009年 第2回キングオブコント 準決勝進出
@@ -79,13 +79,13 @@
 ### その他
 
   - 2005年 東京ネットムービーフェスティバル グランプリ（尾関）
-  - 2007年 第5回[お笑いホープ大賞](https://ja.wikipedia.org/wiki/お笑いホープ大賞 "wikilink") 決勝進出
-  - 2007年 [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink") 決勝進出
-  - 2008年 第6回[お笑いホープ大賞](https://ja.wikipedia.org/wiki/お笑いホープ大賞 "wikilink") 爆笑レッドカーペット賞（特別賞）
-  - 2008年 [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink") 決勝進出
+  - 2007年 第5回[お笑いホープ大賞](../Page/お笑いホープ大賞.md "wikilink") 決勝進出
+  - 2007年 [NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink") 決勝進出
+  - 2008年 第6回[お笑いホープ大賞](../Page/お笑いホープ大賞.md "wikilink") 爆笑レッドカーペット賞（特別賞）
+  - 2008年 [NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink") 決勝進出
   - 2008年 [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink") [12月10日](../Page/12月10日.md "wikilink") レッドカーペット賞\[14\]
-  - 2013年 [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink") 決勝進出
-  - 2019年 [ゴッドタン](https://ja.wikipedia.org/wiki/ゴッドタン "wikilink")「ネタギリッシュNIGHT」チャンピオン大会優勝
+  - 2013年 [NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink") 決勝進出
+  - 2019年 [ゴッドタン](../Page/ゴッドタン.md "wikilink")「ネタギリッシュNIGHT」チャンピオン大会優勝
   - 2020年 [R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink") 準決勝進出（高佐）
 
 ## 出演
@@ -96,21 +96,21 @@
 
 <!-- end list -->
 
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績13勝4敗 最高509KB　ゴールドバトラー認定
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績13勝4敗 最高509KB　ゴールドバトラー認定
       - 第9回チャンピオン大会 セミファイナル6位敗退
       - 第12回チャンピオン大会 ファーストステージ7位敗退
   - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（NHK総合）戦績15勝0敗 最高537KB
       - 第1回チャンピオン大会 ファーストステージ8位敗退
       - 第4回チャンピオン大会 ファーストステージ5位敗退
       - ※オーバー500は6回と最も多い。2013年7月13日放送回で自己最高の537KBを記録。\[15\]この記録は爆笑オンエアバトル時代から数えて[ジグザグジギー](https://ja.wikipedia.org/wiki/ジグザグジギー "wikilink")が541KBを記録するまでコントの最高得点だった。\[16\]
-  - [ゲンセキ](https://ja.wikipedia.org/wiki/ゲンセキ "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
-  - [虎の門](https://ja.wikipedia.org/wiki/虎の門 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）ここでロッキーは無いだろ選手権
+  - [ゲンセキ](../Page/ゲンセキ.md "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
+  - [虎の門](../Page/虎の門.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）ここでロッキーは無いだろ選手権
   - [関根&優香の笑うお正月](https://ja.wikipedia.org/wiki/関根&優香の笑うシリーズ "wikilink")（テレビ朝日）
   - [笑撃\!ワンフレーズ](https://ja.wikipedia.org/wiki/笑撃!ワンフレーズ "wikilink")（TBSテレビ）
   - [21世紀エジソン](../Page/21世紀エジソン.md "wikilink")（TBSテレビ）
-  - [お笑い登龍門 ガッハ](https://ja.wikipedia.org/wiki/登龍門F "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [お笑い登龍門 ガッハ](../Page/登龍門F.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）
-  - [アドレな\!ガレッジ](https://ja.wikipedia.org/wiki/アドレな!ガレッジ "wikilink")（テレビ朝日）
+  - [アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")（テレビ朝日）
   - [ワラッタメ天国](https://ja.wikipedia.org/wiki/ワラッタメ天国 "wikilink")（フジテレビ）キャッチコピーは「ふぞろいのガチョウ達」- 優等生1回獲得
 
 <!-- end list -->
@@ -137,7 +137,7 @@
   - [タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2013年2月22日）
   - カープ開幕直前特番『男気！鯉戦士の誓い』（2015年3月21日、RCCテレビ） [菊池涼介](https://ja.wikipedia.org/wiki/菊池涼介 "wikilink")選手の誓いの相手・ギース尾関
   - [SICKS〜みんながみんな、何かの病気〜](https://ja.wikipedia.org/wiki/SICKS〜みんながみんな、何かの病気〜 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2015年12月） - 高佐:TV番組AD 役/尾関:放送作家 役
-  - [ゴッドタン](https://ja.wikipedia.org/wiki/ゴッドタン "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2017年1月16日） - ネタギリッシュNIGHT(ちょうどいいエロネタ選手権)
+  - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2017年1月16日） - ネタギリッシュNIGHT(ちょうどいいエロネタ選手権)
   - [笑×演](https://ja.wikipedia.org/wiki/笑×演 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2017年4月19日）- 大島蓉子×櫻井淳子コンビにネタを提供
   - [わらたまドッカ〜ン](https://ja.wikipedia.org/wiki/わらたまドッカ〜ン "wikilink")（[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")、2017年10月23日）
   - [オールスター後夜祭](https://ja.wikipedia.org/wiki/オールスター感謝祭#%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%BE%8C%E5%A4%9C%E7%A5%AD "wikilink")（2018年10月7日\[17\]、2019年4月7日\[18\]、TBS）
@@ -156,13 +156,13 @@
   - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（2008年11月-、[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")）
   - [平成教育学院](https://ja.wikipedia.org/wiki/平成教育学院 "wikilink")（2011年5月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")） - 回答者
   - [飛び出せ\!科学くん](https://ja.wikipedia.org/wiki/飛び出せ!科学くん "wikilink")（2011年7月-2011年9月、[TBSテレビ](../Page/TBSテレビ.md "wikilink")） - 恐竜ナビゲーター
-  - [アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink") 広島カープ芸人（第1弾：2012年6月21日、第2弾：2015年3月19日、第3弾：2016年9月29日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink") 広島カープ芸人（第1弾：2012年6月21日、第2弾：2015年3月19日、第3弾：2016年9月29日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - Jsports2カープキャンプ生中継（2014年2月4日・8日、Jsports）
   - [鯉のはなシアター](https://ja.wikipedia.org/wiki/鯉のはなシアター "wikilink")（2014年・2016年、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")）
       - \#15 ｢光に満ちた213勝投手 影の人間秘話｣（2014年8月22日） [北別府学](../Page/北別府学.md "wikilink")（カープOB）と共に出演
       - \#22 「中学生プロと呼ばれた鯉の孤高の決断（ジャッジ）人生」（2014年10月24日）
       - ｢カープが優勝した25のキーワード｣（2016年12月14日）
-  - 奮闘\!カープ2015（2015年10月9日、NHK総合） [大野豊](https://ja.wikipedia.org/wiki/大野豊_\(野球\) "wikilink")（カープOB）と共に出演
+  - 奮闘\!カープ2015（2015年10月9日、NHK総合） [大野豊](../Page/大野豊_\(野球\).md "wikilink")（カープOB）と共に出演
   - カープ日本一TV2016 鯉の大逆襲！海に山地誓う（2016年1月1日、[RCCテレビ](../Page/中国放送.md "wikilink")）
   - [カープ道](https://ja.wikipedia.org/wiki/カープ道 "wikilink")（2016年・2017年・2018年・2019年、広島ホームテレビ） 講師
       - \#31｢カープ芸人と呼ばれて｣（2016年6月4日）
@@ -189,14 +189,14 @@
       - \#157「首都圏マツダスタジアム観戦ツアー｣ （2019年10月2日）
       - \#159「セ・リーグ芸人大集合\!2019年を振り返ろう\!｣ （2019年10月23日）
   - ザ・ギース尾関のCARPなんでも調査隊（2016年、ちゅピCOM） 隊長
-  - カープ25年ぶり優勝へ ～悲願達成へカウントダウン～（2016年9月9日、NHK総合） [達川光男](https://ja.wikipedia.org/wiki/達川光男 "wikilink")（カープOB）、[大野豊](https://ja.wikipedia.org/wiki/大野豊_\(野球\) "wikilink")（カープOB）、[長谷部稔](https://ja.wikipedia.org/wiki/長谷部稔 "wikilink")（カープOB）と共に出演
+  - カープ25年ぶり優勝へ ～悲願達成へカウントダウン～（2016年9月9日、NHK総合） [達川光男](../Page/達川光男.md "wikilink")（カープOB）、[大野豊](../Page/大野豊_\(野球\).md "wikilink")（カープOB）、[長谷部稔](https://ja.wikipedia.org/wiki/長谷部稔 "wikilink")（カープOB）と共に出演
   - 完全カープ主義V7だから7時間生放送！25年ぶりの悲願へ魂の応援SP（2016年9月11日、[広島テレビ](https://ja.wikipedia.org/wiki/広島テレビ "wikilink")）
   - カープ日本一TV 2017 ～チーム一丸！ハワイで誓う覚悟！～（2017年1月1日、RCCテレビ） カープ選手と共に出演
   - 新春\!朝までホームテレビ カープ道スペシャル「新春SP カープが優勝したのに声が掛からなかった芸人集合」（2017年1月1日深夜、広島ホームテレビ）
   - カープ芸人！俺たちの沖縄キャンプ 選手を追いかけ沖縄でキャンプをしたら?\!（2017年3月11日、広島ホームテレビ、琉球朝日放送）
   - Veryカープ\!連覇は一日にしてならず\!〜黄金時代への秘策〜（2017年7月16日、RCCテレビ） 番組内コーナー「カープ芸能人夜会」に出演。その完全版がインターネットで期間限定で公開。
   - 特別番組『カープV8 連覇の記憶 〜そして日本一へ〜』（2017年10月1日、広島テレビ） カープ [中田廉](https://ja.wikipedia.org/wiki/中田廉 "wikilink")投手、[中崎翔太](https://ja.wikipedia.org/wiki/中崎翔太 "wikilink")投手、[今村猛](https://ja.wikipedia.org/wiki/今村猛 "wikilink")投手、[一岡竜司](https://ja.wikipedia.org/wiki/一岡竜司 "wikilink")投手と共に出演
-  - テレビ派（2017年10月18日、広島テレビ） 座談会（司会：[森拓磨](https://ja.wikipedia.org/wiki/森拓磨 "wikilink")アナウンサー） 甲子園でトークバトル カープに勝つのは俺たちのチームだ\!
+  - テレビ派（2017年10月18日、広島テレビ） 座談会（司会：[森拓磨](../Page/森拓磨.md "wikilink")アナウンサー） 甲子園でトークバトル カープに勝つのは俺たちのチームだ\!
   - 2019 新春恒例\!カープ選手会ゴルフ〜今年で見納め新井さんSP\!（2019年1月2日、広島テレビ）
   - ドライブオススメぐり 〜どんなクルマと、どんな時間を。 produced by カーセンサー（2019年1月9日・16日、広島ホームテレビ）
   - 5up\!サタデー コーナー カープ選手のキャラ弁作り（2019年、広島ホームテレビ）
@@ -215,9 +215,9 @@
 
 ### CM
 
-  - [かっぱ寿司](https://ja.wikipedia.org/wiki/かっぱ寿司 "wikilink")（2010年 - ）尾関のみ\[19\]
-  - [みんなのテニス](https://ja.wikipedia.org/wiki/みんなのテニス "wikilink")（2010年）
-  - [パイロットコーポレーション](https://ja.wikipedia.org/wiki/パイロットコーポレーション "wikilink")「ハイテックCコレト」（2010年 - ）
+  - [かっぱ寿司](../Page/かっぱ寿司.md "wikilink")（2010年 - ）尾関のみ\[19\]
+  - [みんなのテニス](../Page/みんなのテニス.md "wikilink")（2010年）
+  - [パイロットコーポレーション](../Page/パイロットコーポレーション.md "wikilink")「ハイテックCコレト」（2010年 - ）
   - [大塚製薬](../Page/大塚製薬.md "wikilink") UL・OS（ウル・オス）（2016年6月 - ）尾関のみ
 
 ### ラジオ
@@ -228,7 +228,7 @@
 
 **その他の出演番組**
 
-  - [エレ片のコント太郎](https://ja.wikipedia.org/wiki/エレ片のコント太郎 "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
+  - [エレ片のコント太郎](../Page/エレ片のコント太郎.md "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
   - EVENING JOCKY（[MID-FM](../Page/MID-FM.md "wikilink")）
   - [オードリーのオールナイトニッポン](https://ja.wikipedia.org/wiki/オードリーのオールナイトニッポン "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、ゲスト）
   - 広島カープ芸人のオールナイトニッポンR（2015年4月25日） 尾関のみ
@@ -273,9 +273,9 @@
   - 2008年
       - 4月2日 - 6日- **「天気の話はしたくない」**（[THEATER/TOPS](https://ja.wikipedia.org/wiki/THEATER/TOPS "wikilink")/東京）
   - 2009年
-      - 4月2日 - 5日- **「Dr.バードと優しい機械」**（[新宿シアターモリエール](https://ja.wikipedia.org/wiki/新宿シアターモリエール "wikilink")/東京）
+      - 4月2日 - 5日- **「Dr.バードと優しい機械」**（[新宿シアターモリエール](../Page/新宿シアターモリエール.md "wikilink")/東京）
   - 2010年
-      - 4月20日 - 25日- **「Alternate Green」**（[新宿シアターモリエール](https://ja.wikipedia.org/wiki/新宿シアターモリエール "wikilink")/東京）
+      - 4月20日 - 25日- **「Alternate Green」**（[新宿シアターモリエール](../Page/新宿シアターモリエール.md "wikilink")/東京）
   - 2012年
       - 5月1日 - 4日- **「Poetry Vacation」**（アトリエフォンテーヌ/東京）
       - 12月21日 - 23日- **「北風と大脳」**（[ザ・スズナリ](https://ja.wikipedia.org/wiki/ザ・スズナリ "wikilink")/東京）
@@ -309,7 +309,7 @@
 
   - THE GEESE 1st DVD「Dr.バードと優しい機械」（2009年8月26日発売、[コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")）
   - THE GEESE ライヴDVD「ALTERNATE GREEN」（2010年6月30日発売、[コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")）
-  - THE GEESE「Poetry Vacation」（2012年7月24日発売、株式会社[テレビマンユニオン](https://ja.wikipedia.org/wiki/テレビマンユニオン "wikilink")）
+  - THE GEESE「Poetry Vacation」（2012年7月24日発売、株式会社[テレビマンユニオン](../Page/テレビマンユニオン.md "wikilink")）
   - ザ・ギース コントセレクション「ニューオールド」(2014年9月24日発売、株式会社[コンテンツリーグ](../Page/コンテンツリーグ.md "wikilink"))
 
 ### その他
@@ -333,7 +333,7 @@
 
 <!-- end list -->
 
-  - カープ芸人ザ・ギース尾関の「市民球場のベンチから沢ガニ」（月刊 [広島アスリートマガジン](https://ja.wikipedia.org/wiki/広島アスリートマガジン "wikilink")）
+  - カープ芸人ザ・ギース尾関の「市民球場のベンチから沢ガニ」（月刊 [広島アスリートマガジン](../Page/広島アスリートマガジン.md "wikilink")）
   - カープ芸人・ギース尾関「チェコにあこがれて」（広島アスリートアプリ）
   - 野球好きコラム 広島好き（2014年3月20日 - 、J SPORTS）
   - ギース尾関の「助っ人外国人SNS探報記」（2017年7月13日 - 、Baseball Crix（ベースボールクリックス）） 木曜更新
@@ -344,8 +344,8 @@
 
 <!-- end list -->
 
-  - 芸人と娘（2016年3月31日、[飛鳥新社](https://ja.wikipedia.org/wiki/飛鳥新社 "wikilink")）\[27\]
-  - やっぱりカープが好きじゃけん（2016年11月25日、[あさ出版](https://ja.wikipedia.org/wiki/あさ出版 "wikilink")） ISBN 978-4860639143
+  - 芸人と娘（2016年3月31日、[飛鳥新社](../Page/飛鳥新社.md "wikilink")）\[27\]
+  - やっぱりカープが好きじゃけん（2016年11月25日、[あさ出版](../Page/あさ出版.md "wikilink")） ISBN 978-4860639143
 
 ## 脚注
 
@@ -371,7 +371,7 @@
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink")
 
 1.  [オールフリー高田馬場 2019.8.1 高佐一慈(ザ・ギース) 、宇野常寛](https://www.youtube.com/watch?v=7Lpmzp730FA)
-2.  『[お笑いポポロ](https://ja.wikipedia.org/wiki/お笑いポポロ "wikilink")』麻布台出版社　2008年5月号　より
+2.  『[お笑いポポロ](../Page/お笑いポポロ.md "wikilink")』麻布台出版社　2008年5月号　より
 3.  [「2SEE MORE \#5」ゲスト：高佐一慈（ザ・ギース）](https://rooftop.cc/column/seemore/170201155453.php)
 4.  [英語大喜利/Japanese traditional comedy game "Oogiri" in English〜第37回タカサ大喜利倶楽部 2019.8.6](https://m.youtube.com/watch?v=APO29Qc8ikY)
 5.  <https://mobile.twitter.com/geesetakasa/status/1168393996638404608>
@@ -381,10 +381,10 @@
 9.
 10.
 11.
-12. 『[お笑いポポロ](https://ja.wikipedia.org/wiki/お笑いポポロ "wikilink")』麻布台出版社　2008年5月号　より
+12. 『[お笑いポポロ](../Page/お笑いポポロ.md "wikilink")』麻布台出版社　2008年5月号　より
 13. [「ザ・ギース」の尾関が突然の結婚発表](http://hochi.yomiuri.co.jp/entertainment/news/20090512-OHT1T00133.htm)
 14. カムバックレッドカーペットに呼ばれず受賞した稀なパターン
-15. この回では同じく[スーパーマラドーナ](https://ja.wikipedia.org/wiki/スーパーマラドーナ "wikilink")も537KBを記録しており、530KB以上が同じ回で2つ出るのは爆笑オンエアバトル時代から数えてもこの回のみである。
+15. この回では同じく[スーパーマラドーナ](../Page/スーパーマラドーナ.md "wikilink")も537KBを記録しており、530KB以上が同じ回で2つ出るのは爆笑オンエアバトル時代から数えてもこの回のみである。
 16. 他にもコントで537KBは[陣内智則](../Page/陣内智則.md "wikilink")も記録しており、ピン芸人の中では最高得点である。
 17.
 18.

@@ -1,7 +1,7 @@
 > この記事は[E=mc2](https://ja.wikipedia.org/wiki/E=mc2)から翻訳されています。
 
 
-[USS_Enterprise_(CVAN-65),_USS_Long_Beach_(CGN-9)_and_USS_Bainbridge_(DLGN-25)_underway_in_the_Mediterranean_Sea_during_Operation_Sea_Orbit,_in_1964.jpg](https://ja.wikipedia.org/wiki/File:USS_Enterprise_\(CVAN-65\),_USS_Long_Beach_\(CGN-9\)_and_USS_Bainbridge_\(DLGN-25\)_underway_in_the_Mediterranean_Sea_during_Operation_Sea_Orbit,_in_1964.jpg "fig:USS_Enterprise_(CVAN-65),_USS_Long_Beach_(CGN-9)_and_USS_Bainbridge_(DLGN-25)_underway_in_the_Mediterranean_Sea_during_Operation_Sea_Orbit,_in_1964.jpg")「[エンタープライズ](https://ja.wikipedia.org/wiki/エンタープライズ_\(CVN-65\) "wikilink")」の[飛行甲板](https://ja.wikipedia.org/wiki/飛行甲板 "wikilink")に作られた ** *mc*}}**\]\] ** *mc*}}**（イー・イコール・エム・シー2じょう、）とは、  [質量](../Page/質量.md "wikilink")  × [光速](../Page/光速.md "wikilink")度  の2乗}} の物理学的関係式を指し、「質量とエネルギーの等価性」とその定量的関係を表している。[アルベルト・アインシュタイン](../Page/アルベルト・アインシュタイン.md "wikilink")により、[特殊相対性理論](../Page/特殊相対性理論.md "wikilink")の帰結として、[1905年](../Page/1905年.md "wikilink")の論文『物体の慣性はその物体の含むエネルギーに依存するであろうか』\[1\]内で発表された。
+[USS_Enterprise_(CVAN-65),_USS_Long_Beach_(CGN-9)_and_USS_Bainbridge_(DLGN-25)_underway_in_the_Mediterranean_Sea_during_Operation_Sea_Orbit,_in_1964.jpg](https://ja.wikipedia.org/wiki/File:USS_Enterprise_\(CVAN-65\),_USS_Long_Beach_\(CGN-9\)_and_USS_Bainbridge_\(DLGN-25\)_underway_in_the_Mediterranean_Sea_during_Operation_Sea_Orbit,_in_1964.jpg "fig:USS_Enterprise_(CVAN-65),_USS_Long_Beach_(CGN-9)_and_USS_Bainbridge_(DLGN-25)_underway_in_the_Mediterranean_Sea_during_Operation_Sea_Orbit,_in_1964.jpg")「[エンタープライズ](../Page/エンタープライズ_\(CVN-65\).md "wikilink")」の[飛行甲板](../Page/飛行甲板.md "wikilink")に作られた ** *mc*}}**\]\] ** *mc*}}**（イー・イコール・エム・シー2じょう、）とは、  [質量](../Page/質量.md "wikilink")  × [光速](../Page/光速.md "wikilink")度  の2乗}} の物理学的関係式を指し、「質量とエネルギーの等価性」とその定量的関係を表している。[アルベルト・アインシュタイン](../Page/アルベルト・アインシュタイン.md "wikilink")により、[特殊相対性理論](../Page/特殊相対性理論.md "wikilink")の帰結として、[1905年](../Page/1905年.md "wikilink")の論文『物体の慣性はその物体の含むエネルギーに依存するであろうか』\[1\]内で発表された。
 
 この等価性の帰結として、質量の消失はエネルギーの発生を、エネルギーの消失は質量の発生をそれぞれ意味する。したがってエネルギーを転換すれば無から質量が生まれる。
 
@@ -29,7 +29,7 @@
 
 ## 証明
 
-この  *mc*}} と言う関係式は、アインシュタインによる公式の中で最も有名なものではあるが、[経験則](https://ja.wikipedia.org/wiki/経験則 "wikilink")に基づく[仮説](https://ja.wikipedia.org/wiki/仮説 "wikilink")として、長年の間厳密な[証明](../Page/証明.md "wikilink")はされないままであった。しかし、[原子核](../Page/原子核.md "wikilink")の[核子](../Page/核子.md "wikilink")を構成する[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")と核子同士を結び付ける[グルーオン](../Page/グルーオン.md "wikilink")は、それぞれ質量が全体の5%および0であるにもかかわらず、これらクォークとグルーオンの動きや相互作用によって発生するエネルギーが原子核の質量の源となるという[論文](../Page/論文.md "wikilink")が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[学術誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")『[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")』に掲載された\[5\]\[6\]。このことにより、これまでは仮説だったこの関係式が、ようやく実証されたことになる\[7\]。
+この  *mc*}} と言う関係式は、アインシュタインによる公式の中で最も有名なものではあるが、[経験則](../Page/経験則.md "wikilink")に基づく[仮説](../Page/仮説.md "wikilink")として、長年の間厳密な[証明](../Page/証明.md "wikilink")はされないままであった。しかし、[原子核](../Page/原子核.md "wikilink")の[核子](../Page/核子.md "wikilink")を構成する[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")と核子同士を結び付ける[グルーオン](../Page/グルーオン.md "wikilink")は、それぞれ質量が全体の5%および0であるにもかかわらず、これらクォークとグルーオンの動きや相互作用によって発生するエネルギーが原子核の質量の源となるという[論文](../Page/論文.md "wikilink")が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[学術誌](../Page/学術雑誌.md "wikilink")『[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")』に掲載された\[5\]\[6\]。このことにより、これまでは仮説だったこの関係式が、ようやく実証されたことになる\[7\]。
 
 ## 脚注
 
@@ -53,7 +53,7 @@
   - [特殊相対性理論](../Page/特殊相対性理論.md "wikilink")
   - [アルベルト・アインシュタイン](../Page/アルベルト・アインシュタイン.md "wikilink")
   - [フリードリヒ・ハーゼノール](https://ja.wikipedia.org/wiki/フリードリヒ・ハーゼノール "wikilink")
-  - [広島市立舟入高等学校](https://ja.wikipedia.org/wiki/広島市立舟入高等学校 "wikilink") - [占領下に建立された慰霊碑](http://www.hiroshimapeacemedia.jp/mediacenter/map/article.php?story=20111116173119891_ja)には「原爆」に代えて  *mc*}} が刻まれている
+  - [広島市立舟入高等学校](../Page/広島市立舟入高等学校.md "wikilink") - [占領下に建立された慰霊碑](http://www.hiroshimapeacemedia.jp/mediacenter/map/article.php?story=20111116173119891_ja)には「原爆」に代えて  *mc*}} が刻まれている
 
 ## 外部リンク
 

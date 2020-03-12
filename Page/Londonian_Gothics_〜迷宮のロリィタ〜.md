@@ -1,7 +1,7 @@
 > この記事は[Londonian Gothics ](https://ja.wikipedia.org/wiki/Londonian_Gothics_)から翻訳されています。
 
 
-『**Londonian Gothics 〜迷宮のロリィタ〜**』（ロンドニアンゴシックス・めいきゅうのロリィタ）は、[メガサイバー](https://ja.wikipedia.org/wiki/メガサイバー "wikilink")（現[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")・MegaGameS）が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフトである。
+『**Londonian Gothics 〜迷宮のロリィタ〜**』（ロンドニアンゴシックス・めいきゅうのロリィタ）は、[メガサイバー](../Page/メガサイバー.md "wikilink")（現[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")・MegaGameS）が[2005年](../Page/2005年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフトである。
 
 魔法のドレスの力を使い、魔物が徘徊する迷宮を進んでいく[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。タイトルやジャンルなどでは「ゴシック」「ゴスロリ」と称しているが、登場するドレスは必ずしもすべてが[ゴシック・アンド・ロリータ](../Page/ゴシック・アンド・ロリータ.md "wikilink")とは言えない。ピンク色や水色を基調としたものや花柄のようなプリント生地のものなど、[ロリータ・ファッション](../Page/ロリータ・ファッション.md "wikilink")の一種である甘ロリやクラシカル系ロリータのドレスも見受けられる。逆に、目隠しや血糊、赤の[タータン](../Page/タータン.md "wikilink")チェックなどを利用した、パンク要素の強いドレスも存在する。
 
@@ -19,7 +19,7 @@
 
 特定のフロアには礼拝堂があり、屋敷や既に通った礼拝堂とを行き来できる。また、礼拝堂に入るとライフやドレスパワーが全回復する。ただし、それまで通ってきた魔法陣が全て元に戻る。
 
-アクションRPGを名乗っているが、戦闘は敵との接触のみ、かつ接触した瞬間にすぐさま勝敗が決し、戦闘自体には戦略や駆け引きの要素は皆無である。前記の魔法陣とボアダムンのある箇所を通る必要性も併せて、アクション要素の部分は『[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")』や『[ラリーX](https://ja.wikipedia.org/wiki/ラリーX "wikilink")』などの[ドットイートゲーム](https://ja.wikipedia.org/wiki/ドットイートゲーム "wikilink")に近い。
+アクションRPGを名乗っているが、戦闘は敵との接触のみ、かつ接触した瞬間にすぐさま勝敗が決し、戦闘自体には戦略や駆け引きの要素は皆無である。前記の魔法陣とボアダムンのある箇所を通る必要性も併せて、アクション要素の部分は『[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")』や『[ラリーX](../Page/ラリーX.md "wikilink")』などの[ドットイートゲーム](../Page/ドットイートゲーム.md "wikilink")に近い。
 
 ## キャラクター
 
@@ -49,7 +49,7 @@
 
 ## 関連項目
 
-  - [ウラジーミル・ナボコフ](https://ja.wikipedia.org/wiki/ウラジーミル・ナボコフ "wikilink")
+  - [ウラジーミル・ナボコフ](../Page/ウラジーミル・ナボコフ.md "wikilink")
   - [携帯ゲームRPG板](https://ja.wikipedia.org/wiki/携帯ゲームRPG板 "wikilink") - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[掲示板の一つ](../Page/電子掲示板.md "wikilink")。上述の本ゲーム中の台詞が名無しの由来となった。
   - [トメナサンナー](https://ja.wikipedia.org/wiki/トメナサンナー "wikilink") - コナミのゲーム。本作品のキャラクターが登場している。
   - [Lolita of Labyrinth](https://ja.wikipedia.org/wiki/Lolita_of_Labyrinth "wikilink") - 2011年にXbox LIVE Indie Games（[Xbox 360](../Page/Xbox_360.md "wikilink")）で発売されたゲーム。本作品のスタッフによって制作された。

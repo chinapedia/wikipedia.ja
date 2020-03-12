@@ -1,11 +1,11 @@
 > この記事は[Chord](https://ja.wikipedia.org/wiki/Chord)から翻訳されています。
 
 
-**Chord**は、[分散ハッシュテーブル](../Page/分散ハッシュテーブル.md "wikilink")を実現する[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一つ。[P2P](https://ja.wikipedia.org/wiki/ピア・ツー・ピア "wikilink")[ネットワークにおいて](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、[サーバ](../Page/サーバ.md "wikilink")を用いることなく高速にコンテンツの検索、[ルーティング](../Page/ルーティング.md "wikilink")を行う手法。
+**Chord**は、[分散ハッシュテーブル](../Page/分散ハッシュテーブル.md "wikilink")を実現する[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一つ。[P2P](https://ja.wikipedia.org/wiki/ピア・ツー・ピア "wikilink")[ネットワークにおいて](../Page/コンピュータネットワーク.md "wikilink")、[サーバ](../Page/サーバ.md "wikilink")を用いることなく高速にコンテンツの検索、[ルーティング](../Page/ルーティング.md "wikilink")を行う手法。
 
 ## アルゴリズム
 
-Chordでは、コンテンツの[ハッシュ値を求める関数に](../Page/ハッシュ関数.md "wikilink")[SHA-1](https://ja.wikipedia.org/wiki/SHA-1 "wikilink")を採用するのが一般的である。ネットワークに参加するノードは、SHA-1のハッシュ値の[値域](https://ja.wikipedia.org/wiki/値域 "wikilink")\(0 \le NodeID \le 2^{160}-1\)を満たす一意な\(NodeID\)が割り当てられる。
+Chordでは、コンテンツの[ハッシュ値を求める関数に](../Page/ハッシュ関数.md "wikilink")[SHA-1](https://ja.wikipedia.org/wiki/SHA-1 "wikilink")を採用するのが一般的である。ネットワークに参加するノードは、SHA-1のハッシュ値の[値域](../Page/値域.md "wikilink")\(0 \le NodeID \le 2^{160}-1\)を満たす一意な\(NodeID\)が割り当てられる。
 
 ここで、\(next(x)\)という関数を定義する。この関数は、ハッシュ値\(x\)が与えられたとき、値を増加させる方向で次に存在しているノードの\(NodeID\)を返す。なお、\(2^{160}-1\)と\(0\)は接続されていると考える。
 

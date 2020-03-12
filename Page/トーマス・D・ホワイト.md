@@ -17,7 +17,7 @@
 
 1940年4月にホワイトはブラジル大使館付陸軍武官になり、8月にはブラジルへのアメリカ陸軍航空隊作戦指揮官に任命された。1942年3月にアメリカへ帰国し、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[タンパ](../Page/タンパ.md "wikilink")の[第3空軍の作戦副参謀長となり](../Page/第3空軍_\(アメリカ軍\).md "wikilink")、続いて参謀長に任命された。1944年1月には航空軍本部へ再配属され、彼は航空情報参謀局の副局長に就任した。
 
-1944年9月の西太平洋への進出で、ホワイトは[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")、南[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")および[ボルネオ](https://ja.wikipedia.org/wiki/ボルネオ "wikilink")での作戦に参加する[第13空軍の副指揮官に任命された](https://ja.wikipedia.org/wiki/第13空軍_\(アメリカ軍\) "wikilink")。翌年6月に彼は[マリアナ諸島](../Page/マリアナ諸島.md "wikilink")の[第7空軍の指揮官に任命され](https://ja.wikipedia.org/wiki/第7空軍_\(アメリカ軍\) "wikilink")、直ちに[沖縄へ移動した](../Page/沖縄県.md "wikilink")。1946年1月に第7空軍は[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")へ移動する。その10月、彼は[東京](../Page/東京.md "wikilink")での[太平洋空軍の参謀長に任命された](../Page/太平洋空軍_\(アメリカ空軍\).md "wikilink")。1年後の1947年10月、ホワイトは日本で[第5空軍の指揮を執った](../Page/第5空軍_\(アメリカ軍\).md "wikilink")。
+1944年9月の西太平洋への進出で、ホワイトは[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")、南[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")および[ボルネオ](https://ja.wikipedia.org/wiki/ボルネオ "wikilink")での作戦に参加する[第13空軍の副指揮官に任命された](https://ja.wikipedia.org/wiki/第13空軍_\(アメリカ軍\) "wikilink")。翌年6月に彼は[マリアナ諸島](../Page/マリアナ諸島.md "wikilink")の[第7空軍の指揮官に任命され](../Page/第7空軍_\(アメリカ軍\).md "wikilink")、直ちに[沖縄へ移動した](../Page/沖縄県.md "wikilink")。1946年1月に第7空軍は[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")へ移動する。その10月、彼は[東京](../Page/東京.md "wikilink")での[太平洋空軍の参謀長に任命された](../Page/太平洋空軍_\(アメリカ空軍\).md "wikilink")。1年後の1947年10月、ホワイトは日本で[第5空軍の指揮を執った](../Page/第5空軍_\(アメリカ軍\).md "wikilink")。
 
 1948年10月にホワイトは空軍長官官房に転任し、立法部との連絡管理官となる。彼は1950年5月に統合参謀本部の統合戦略調査委員会の空軍代表に指名された。1951年2月にアメリカ空軍参謀本部計画管理官に任命され、1951年7月に空軍作戦参謀次長に任命される。
 

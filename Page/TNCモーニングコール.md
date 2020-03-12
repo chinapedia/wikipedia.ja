@@ -25,7 +25,7 @@
   - [TNCモーニングワイド FNN](https://ja.wikipedia.org/wiki/TNCモーニングワイド "wikilink") - 前番組。
   - [FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")
   - [FNN東海テレビモーニングコール](../Page/FNN東海テレビモーニングコール.md "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
-  - [ザ・モーニング630](https://ja.wikipedia.org/wiki/ザ・モーニング630 "wikilink") → [朝特急630](../Page/FNNモーニングコール.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
-  - [TNCニュース工場](https://ja.wikipedia.org/wiki/TNCニュース工場 "wikilink") → [TNC DATE LINE](https://ja.wikipedia.org/wiki/TNC_DATE_LINE "wikilink") - 同時期に放送されていた深夜のニュース番組。
+  - [ザ・モーニング630](../Page/ザ・モーニング630.md "wikilink") → [朝特急630](../Page/FNNモーニングコール.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
+  - [TNCニュース工場](../Page/TNCニュース工場.md "wikilink") → [TNC DATE LINE](../Page/TNC_DATE_LINE.md "wikilink") - 同時期に放送されていた深夜のニュース番組。
 
 [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の帯番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の帯番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink")

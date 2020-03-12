@@ -5,17 +5,17 @@
 
 ## 概要
 
-ミニマル志向の[MacBook](https://ja.wikipedia.org/wiki/MacBook "wikilink")、薄型・軽量に特化したエントリーモデルである[MacBook Airに対し](https://ja.wikipedia.org/wiki/MacBook_Air "wikilink")、本機種は[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルに位置付けられ、アップルのノートブック類でもプロ向けの仕様となっている。
+ミニマル志向の[MacBook](../Page/MacBook.md "wikilink")、薄型・軽量に特化したエントリーモデルである[MacBook Airに対し](https://ja.wikipedia.org/wiki/MacBook_Air "wikilink")、本機種は[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルに位置付けられ、アップルのノートブック類でもプロ向けの仕様となっている。
 
 また、価格帯にバリエーションが豊富であるのも特徴で、最低構成モデルではエントリーユーザーが買いやすいように価格が設定されている。
 
 2016年モデルより搭載されたTouch Barは、13インチの最低構成モデルにも標準装備されるようになり、2019年モデルでは全てのモデルでTouch Barが標準装備された。
 
-2019年7月現在、[CPU](../Page/CPU.md "wikilink")は[Intel Core i5](https://ja.wikipedia.org/wiki/Intel_Core_i5 "wikilink"), [Intel Core i7](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") , [Intel Core i9を搭載したモデルが販売されている](https://ja.wikipedia.org/wiki/Intel_Core_i9 "wikilink")。日本で販売されているものは[日本語](../Page/日本語.md "wikilink")[JISキーボード](../Page/JISキーボード.md "wikilink")が装備されているが、[Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink")、[Apple Online Store](https://ja.wikipedia.org/wiki/Apple_Online_Store "wikilink")、Apple Premium Reseller及び一部のAppleショップでは、[BTO](https://ja.wikipedia.org/wiki/BTO "wikilink")で[US](https://ja.wikipedia.org/wiki/アメリカ英語 "wikilink"), [アラビア語](../Page/アラビア語.md "wikilink"), [英語-英国](https://ja.wikipedia.org/wiki/イギリス英語 "wikilink"), [デンマーク語](../Page/デンマーク語.md "wikilink"), [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"), [韓国語](../Page/朝鮮語.md "wikilink"), [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink"), 配列[キーボードを選択できる](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")。
+2019年7月現在、[CPU](../Page/CPU.md "wikilink")は[Intel Core i5](https://ja.wikipedia.org/wiki/Intel_Core_i5 "wikilink"), [Intel Core i7](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") , [Intel Core i9を搭載したモデルが販売されている](https://ja.wikipedia.org/wiki/Intel_Core_i9 "wikilink")。日本で販売されているものは[日本語](../Page/日本語.md "wikilink")[JISキーボード](../Page/JISキーボード.md "wikilink")が装備されているが、[Apple Store](../Page/Apple_Store.md "wikilink")、[Apple Online Store](../Page/Apple_Online_Store.md "wikilink")、Apple Premium Reseller及び一部のAppleショップでは、[BTO](../Page/BTO.md "wikilink")で[US](../Page/アメリカ英語.md "wikilink"), [アラビア語](../Page/アラビア語.md "wikilink"), [英語-英国](../Page/イギリス英語.md "wikilink"), [デンマーク語](../Page/デンマーク語.md "wikilink"), [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"), [韓国語](../Page/朝鮮語.md "wikilink"), [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink"), 配列[キーボードを選択できる](../Page/キーボード_\(コンピュータ\).md "wikilink")。
 
 ## 歴史
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:MacBook_Pro.jpg "wikilink") MacBook Proは、2006年1月10日（米国時間）に開催された“[Macworld Conference & Expo 2006](https://ja.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")”の中で発表された\[1\]。その際[CEOの](https://ja.wikipedia.org/wiki/最高経営責任者 "wikilink")[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")は、MacBook Proブランドは従来の[PowerBook G4ブランドに置き換わるものであるが](../Page/PowerBook.md "wikilink")、当面の間MacBook ProとPowerBook G4を併売するとし、PowerBook G4シリーズを2006年5月まで販売していた。この[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製チップを搭載したMacBook Proではアップルが提供するソフトウェア「[Boot Camp](https://ja.wikipedia.org/wiki/Boot_Camp "wikilink")」ベータ版を利用することにより、[Microsoft Windows XPが動作可能になると公表した](../Page/Microsoft_Windows_XP.md "wikilink")。この初期モデルのMacBook Pro 15インチモデルからはPowerBook G4 15インチモデルに搭載されていたFireWire 800が取り除かれた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MacBook_Pro.jpg "wikilink") MacBook Proは、2006年1月10日（米国時間）に開催された“[Macworld Conference & Expo 2006](https://ja.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")”の中で発表された\[1\]。その際[CEOの](../Page/最高経営責任者.md "wikilink")[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")は、MacBook Proブランドは従来の[PowerBook G4ブランドに置き換わるものであるが](../Page/PowerBook.md "wikilink")、当面の間MacBook ProとPowerBook G4を併売するとし、PowerBook G4シリーズを2006年5月まで販売していた。この[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製チップを搭載したMacBook Proではアップルが提供するソフトウェア「[Boot Camp](../Page/Boot_Camp.md "wikilink")」ベータ版を利用することにより、[Microsoft Windows XPが動作可能になると公表した](../Page/Microsoft_Windows_XP.md "wikilink")。この初期モデルのMacBook Pro 15インチモデルからはPowerBook G4 15インチモデルに搭載されていたFireWire 800が取り除かれた。
 
   - 2006年4月24日
       - 17インチモデル追加\[2\]。
@@ -37,11 +37,11 @@
   - 2010年4月13日
       - 13, 15及び17インチMacBook Proのアップデート。Core 2 DuoとGeForce 320Mを採用する13インチモデルは最大10時間、Core i5もしくはCore i7とGeForce GT 330Mを採用する15と17インチモデルは最大9時間と、バッテリでの稼働時間が大幅に伸びる。
   - 2011年2月25日
-      - 13, 15及び17インチMacBook Proの大幅なアップデート。全機種に[Thunderbolt](https://ja.wikipedia.org/wiki/Thunderbolt "wikilink")を搭載。13と15インチモデルのSDカードスロットが、64GBまでの[SDXCメモリーカード](https://ja.wikipedia.org/wiki/SDXCメモリーカード "wikilink")に対応した。バッテリ駆動時間の計測方法が変わり、公称7時間となったが、前のモデルと同等の時間使えるとのこと\[8\]。またこのモデル以降では、USB 2.0ポートの電源供給能力が[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")を急速充電出来る最大5V/2,100mAに強化された\[9\]。SATAは6Gbpsに強化された。[Wi-Fi](../Page/Wi-Fi.md "wikilink")の[アンテナ](../Page/アンテナ.md "wikilink")は、多くのノートパソコンでは2本であるが、MacBook Proにはこのときから3本内蔵されるようになり、802.11nでは450Mbpsの論理速度を持つ。 前面カメラも720pのFaceTime HDになった。システムバスのスピードも5 GT/sに向上している。GPUは従来の[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")製から[AMD製に変わった](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")。
+      - 13, 15及び17インチMacBook Proの大幅なアップデート。全機種に[Thunderbolt](https://ja.wikipedia.org/wiki/Thunderbolt "wikilink")を搭載。13と15インチモデルのSDカードスロットが、64GBまでの[SDXCメモリーカード](https://ja.wikipedia.org/wiki/SDXCメモリーカード "wikilink")に対応した。バッテリ駆動時間の計測方法が変わり、公称7時間となったが、前のモデルと同等の時間使えるとのこと\[8\]。またこのモデル以降では、USB 2.0ポートの電源供給能力が[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")を急速充電出来る最大5V/2,100mAに強化された\[9\]。SATAは6Gbpsに強化された。[Wi-Fi](../Page/Wi-Fi.md "wikilink")の[アンテナ](../Page/アンテナ.md "wikilink")は、多くのノートパソコンでは2本であるが、MacBook Proにはこのときから3本内蔵されるようになり、802.11nでは450Mbpsの論理速度を持つ。 前面カメラも720pのFaceTime HDになった。システムバスのスピードも5 GT/sに向上している。GPUは従来の[NVIDIA](../Page/NVIDIA.md "wikilink")製から[AMD製に変わった](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")。
   - 2011年10月24日
       - 全機種マイナーアップデート。CPU動作クロックの向上と[HDD容量の変更が行われた](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")。
   - 2012年6月11日
-      - 全機種[Ivy Bridgeマイクロアーキテクチャへのアップデートに伴い](https://ja.wikipedia.org/wiki/Ivy_Bridgeマイクロアーキテクチャ "wikilink")、[USB3.0](https://ja.wikipedia.org/wiki/USB3.0 "wikilink")ポートが採用された。また、光学ドライブとHDDを排除し、25%薄く、軽くなり、[MagSafe](https://ja.wikipedia.org/wiki/MagSafe "wikilink")2を採用した、ディスプレイ解像度が従来の4倍の「**[Retinaディスプレイモデル](https://ja.wikipedia.org/wiki/レティナディスプレイ "wikilink")**」が発表された。17インチモデルは製造終了になり、およそ6年間の歴史に幕を閉じる。なお、今後の復活がありうるのかどうかは明らかにされていない。
+      - 全機種[Ivy Bridgeマイクロアーキテクチャへのアップデートに伴い](https://ja.wikipedia.org/wiki/Ivy_Bridgeマイクロアーキテクチャ "wikilink")、[USB3.0](https://ja.wikipedia.org/wiki/USB3.0 "wikilink")ポートが採用された。また、光学ドライブとHDDを排除し、25%薄く、軽くなり、[MagSafe](../Page/MagSafe.md "wikilink")2を採用した、ディスプレイ解像度が従来の4倍の「**[Retinaディスプレイモデル](https://ja.wikipedia.org/wiki/レティナディスプレイ "wikilink")**」が発表された。17インチモデルは製造終了になり、およそ6年間の歴史に幕を閉じる。なお、今後の復活がありうるのかどうかは明らかにされていない。
   - 2012年10月23日
       - MacBook Pro 13インチRetinaディスプレイモデル発表。バッテリ及びスリープのインジケータLEDが廃止される。赤外線センサーも搭載されず、Apple Remoteも利用出来なくなった。
   - 2013年2月13日
@@ -114,7 +114,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/GPU" title="wikilink">GPU</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ATI" title="wikilink">ATI</a> Mobility <a href="https://ja.wikipedia.org/wiki/Radeon" title="wikilink">Radeon</a> X1600 128 MB もしくは 256 MB <a href="https://ja.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a> SDRAM</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ATI" title="wikilink">ATI</a> Mobility <a href="https://ja.wikipedia.org/wiki/Radeon" title="wikilink">Radeon</a> X1600 128 MB もしくは 256 MB <a href="../Page/GDDR3.md" title="wikilink">GDDR3</a> SDRAM</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/nVidia" title="wikilink">nVidia</a> <a href="https://ja.wikipedia.org/wiki/Geforce" title="wikilink">Geforce</a> 8600M GT with 128 MB, 256 MB, or 512 MB of GDDR3 SDRAM</p></td>
 </tr>
 <tr class="even">
@@ -147,7 +147,7 @@
 <span style="color:#969696">''最大4 GB, 3 GBまで認識 ''</span></p></td>
 </tr>
 <tr class="odd">
-<td><p>667 MHz PC2-5300 <a href="https://ja.wikipedia.org/wiki/DDR2" title="wikilink">DDR2</a> <a href="../Page/SO-DIMM.md" title="wikilink">SO-DIMM</a> <a href="https://ja.wikipedia.org/wiki/SDRAM" title="wikilink">SDRAM</a></p></td>
+<td><p>667 MHz PC2-5300 <a href="https://ja.wikipedia.org/wiki/DDR2" title="wikilink">DDR2</a> <a href="../Page/SO-DIMM.md" title="wikilink">SO-DIMM</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -157,13 +157,13 @@
 <td><p>800 MHz</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/光学ドライブ" title="wikilink">光学ドライブ</a></strong></p></td>
+<td><p><strong><a href="../Page/光学ドライブ.md" title="wikilink">光学ドライブ</a></strong></p></td>
 <td><p></span><strong>Combo drive</strong> もしくは <strong>SuperDrive</strong></p></td>
 <td><p><strong>SuperDrive</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>電源アダプタ</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MagSafe" title="wikilink">Apple 85W MagSafe電源アダプタ</a></strong>[27]</p></td>
+<td><p><strong><a href="../Page/MagSafe.md" title="wikilink">Apple 85W MagSafe電源アダプタ</a></strong>[27]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -394,7 +394,7 @@ Intel HD Graphics 4000、512MBもしくは1GB GDDR5 SDRAM Nvidia GT 650M<span st
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/serial_ATA" title="wikilink">SATA</a>（6Gbps）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PCI_Express" title="wikilink">PCIe</a> 5.0 GT/s（8Gbps）×2<br />
+<td><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 5.0 GT/s（8Gbps）×2<br />
 <span style="color:#969696"><em>1TBは×4</em></span></p></td>
 </tr>
 <tr class="even">
@@ -948,9 +948,9 @@ DCI-P3準拠Retinaディスプレイ(227ppi), LEDバックライト, <strong>Tru
 
 ## 製造委託先
 
-2006年時点での、日本向けMacBook Proの[製造委託先（EMS）企業は台湾の](../Page/EMS_\(製造業\).md "wikilink")[Quanta社が引き受けていたと言われる](https://ja.wikipedia.org/wiki/クアンタ・コンピュータ "wikilink")。
+2006年時点での、日本向けMacBook Proの[製造委託先（EMS）企業は台湾の](../Page/EMS_\(製造業\).md "wikilink")[Quanta社が引き受けていたと言われる](../Page/クアンタ・コンピュータ.md "wikilink")。
 
-2018年現在では、世界最大の[EMS企業である](../Page/EMS_\(製造業\).md "wikilink")、[台湾の](https://ja.wikipedia.org/wiki/中華民国 "wikilink")[フォックスコン](https://ja.wikipedia.org/wiki/フォックスコン "wikilink")（Foxconn）社にも委託され、巨大な工場が存在する中国で組み立てられ出荷用の最終製品として完成させていることで知られている\[36\]。
+2018年現在では、世界最大の[EMS企業である](../Page/EMS_\(製造業\).md "wikilink")、[台湾の](../Page/中華民国.md "wikilink")[フォックスコン](../Page/フォックスコン.md "wikilink")（Foxconn）社にも委託され、巨大な工場が存在する中国で組み立てられ出荷用の最終製品として完成させていることで知られている\[36\]。
 
 ## Tips
 
@@ -978,8 +978,8 @@ sudo nvram StartupMute=%01
 
   - [Macintosh](../Page/Macintosh.md "wikilink")
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
-  - [MacBook](https://ja.wikipedia.org/wiki/MacBook "wikilink")
-  - [Boot Camp](https://ja.wikipedia.org/wiki/Boot_Camp "wikilink")
+  - [MacBook](../Page/MacBook.md "wikilink")
+  - [Boot Camp](../Page/Boot_Camp.md "wikilink")
 
 ## 外部リンク
 
@@ -991,7 +991,7 @@ sudo nvram StartupMute=%01
 2.  [アップル、17インチのMacBook Proを発表](http://www.apple.com/jp/news/2006/apr/24macbookpro.html)
 3.  [アップル、Intel Core 2 Duoプロセッサを搭載のMacBook Proノートブックを発表](http://www.apple.com/jp/news/2006/oct/24macbookpro.html)
 4.  [Apple Computers and Displays：USB 経由の周辺機器への電力供給](http://support.apple.com/kb/HT4049?viewlocale=ja_JP)
-5.  モニタを50%の輝度で[AirMac](https://ja.wikipedia.org/wiki/AirMac "wikilink")を利用した場合。
+5.  モニタを50%の輝度で[AirMac](../Page/AirMac.md "wikilink")を利用した場合。
 6.  [アップル - バッテリー](http://www.apple.com/jp/batteries/)
 7.  [GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink") 9400Mと同 9600M GTを搭載
 8.  [新型MacBook Pro説明会――「Sandy Bridge」×「Thunderbolt」で中も外も高速に (2/2)](http://plusd.itmedia.co.jp/pcuser/articles/1102/25/news052_2.html)「現在の測定方法で旧MacBook Proのバッテリー駆動時間を測定すると、やはり約7時間程度になる」

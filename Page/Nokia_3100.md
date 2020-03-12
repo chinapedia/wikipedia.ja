@@ -1,14 +1,14 @@
 > この記事は[Nokia 3100](https://ja.wikipedia.org/wiki/Nokia_3100)から翻訳されています。
 
 
-**Nokia 3100**（ノキア3100）は、[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")が発売した[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。 日本でもノキア・ジャパンが[2004年](../Page/2004年.md "wikilink")2月24日に発売した。
+**Nokia 3100**（ノキア3100）は、[ノキア](../Page/ノキア.md "wikilink")が発売した[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。 日本でもノキア・ジャパンが[2004年](../Page/2004年.md "wikilink")2月24日に発売した。
 
 ## スペック
 
-  - メッセージング : [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")/[MMS](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")
+  - メッセージング : [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")/[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")
   - 内蔵ブラウザ : [WAP](../Page/Wireless_Application_Protocol.md "wikilink") 1.2.1/[XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink")
   - 外部インターフェイス : [USBケーブル接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")（モデムとしては使用不可）
-  - 対応言語 : [英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）・[フィリピン語](https://ja.wikipedia.org/wiki/フィリピン語 "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink")（ノキア・ジャパン扱いのアジア向けモデルの場合）
+  - 対応言語 : [英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）・[フィリピン語](../Page/フィリピン語.md "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink")（ノキア・ジャパン扱いのアジア向けモデルの場合）
   - [Java](../Page/Javaプラットフォーム.md "wikilink")：[Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink") MIDP 1.0, CLDC 1.0
 
 ## 特徴
@@ -23,11 +23,11 @@
 
 ## キャリア
 
-ノキア・ジャパンが販売していたものには[SIMロック](../Page/SIMロック.md "wikilink")がかかっていないため、多くのキャリアと[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")の契約のみで使用可能である。
+ノキア・ジャパンが販売していたものには[SIMロック](../Page/SIMロック.md "wikilink")がかかっていないため、多くのキャリアと[SIMカード](../Page/SIMカード.md "wikilink")の契約のみで使用可能である。
 
-過去に、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の関連会社[ドコモ・センツウ](https://ja.wikipedia.org/wiki/ドコモ・センツウ "wikilink")が、[mova](https://ja.wikipedia.org/wiki/mova "wikilink")の海外ローミングサービス「WORLD WALKER G-CARD」利用者向けのキャンペーンとして安価に優待販売していたことがあり、これにはNTTドコモのSIMロックがされていた。
+過去に、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の関連会社[ドコモ・センツウ](../Page/ドコモ・センツウ.md "wikilink")が、[mova](https://ja.wikipedia.org/wiki/mova "wikilink")の海外ローミングサービス「WORLD WALKER G-CARD」利用者向けのキャンペーンとして安価に優待販売していたことがあり、これにはNTTドコモのSIMロックがされていた。
 
-同様に、[モベルコミュニケーションズリミテッド](https://ja.wikipedia.org/wiki/モベルコミュニケーションズリミテッド "wikilink")が[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")とセットで販売していたものにも[SIMロック](../Page/SIMロック.md "wikilink")がなされていた。
+同様に、[モベルコミュニケーションズリミテッド](https://ja.wikipedia.org/wiki/モベルコミュニケーションズリミテッド "wikilink")が[SIMカード](../Page/SIMカード.md "wikilink")とセットで販売していたものにも[SIMロック](../Page/SIMロック.md "wikilink")がなされていた。
 
 ## カラー
 
@@ -42,7 +42,7 @@
 
 ## 関連項目
 
-  - [着せ替え携帯](https://ja.wikipedia.org/wiki/着せ替え携帯 "wikilink")
+  - [着せ替え携帯](../Page/着せ替え携帯.md "wikilink")
 
 ## 外部リンク
 

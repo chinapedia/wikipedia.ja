@@ -1,24 +1,24 @@
 > この記事は[M.A.D.](https://ja.wikipedia.org/wiki/M.A.D.)から翻訳されています。
 
 
-**M.A.D.** （エム.エー.ディー.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[ユニット](../Page/ユニット.md "wikilink")である。[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属する[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")で構成される。また、本項では改名後の**"MAD"**（読み方は同じくエムエーディー）についても記載する。
+**M.A.D.** （エム.エー.ディー.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")である。[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属する[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")で構成される。また、本項では改名後の**"MAD"**（読み方は同じくエムエーディー）についても記載する。
 
 ユニット名は「MUSICAL ACADEMY DANCING」の略\[1\]。
 
 ## 概要
 
-  - 主にバックダンサーとして活動し、[嵐や](../Page/嵐_\(グループ\).md "wikilink")[タッキー&翼](../Page/タッキー&翼.md "wikilink")、[NEWSのコンサートツアーに参加するほか](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")主演の「[PLAYZONE](https://ja.wikipedia.org/wiki/PLAYZONE "wikilink")」や、[堂本光一](../Page/堂本光一.md "wikilink")主演の「[SHOCK](../Page/SHOCK.md "wikilink")」など、舞台にも出演する。
+  - 主にバックダンサーとして活動し、[嵐や](../Page/嵐_\(グループ\).md "wikilink")[タッキー&翼](../Page/タッキー&翼.md "wikilink")、[NEWSのコンサートツアーに参加するほか](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、[少年隊](../Page/少年隊.md "wikilink")主演の「[PLAYZONE](../Page/PLAYZONE.md "wikilink")」や、[堂本光一](../Page/堂本光一.md "wikilink")主演の「[SHOCK](../Page/SHOCK.md "wikilink")」など、舞台にも出演する。
   - 2008年11月11日\[2\]に江田剛、山本亮太、[林翔太](https://ja.wikipedia.org/wiki/林翔太 "wikilink")は「[MADE](https://ja.wikipedia.org/wiki/MADE "wikilink")」の高橋竜と共に「[They武道](https://ja.wikipedia.org/wiki/They武道 "wikilink")」を結成。
-  - 2011年にメンバーの[越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")、[松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")、[福田悠太](../Page/福田悠太.md "wikilink")、[辰巳雄大](https://ja.wikipedia.org/wiki/辰巳雄大 "wikilink")は4人で「[ふぉーゆー](https://ja.wikipedia.org/wiki/ふぉ〜ゆ〜 "wikilink")\[3\]」として独立\[4\]。野田優也、加藤幸宏、松本幸大、池田優が「“MAD”」と名前を変えて活動するようになり\[5\]、「M.A.D.」は実質消滅。
+  - 2011年にメンバーの[越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")、[松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")、[福田悠太](../Page/福田悠太.md "wikilink")、[辰巳雄大](../Page/辰巳雄大.md "wikilink")は4人で「[ふぉーゆー](https://ja.wikipedia.org/wiki/ふぉ〜ゆ〜 "wikilink")\[3\]」として独立\[4\]。野田優也、加藤幸宏、松本幸大、池田優が「“MAD”」と名前を変えて活動するようになり\[5\]、「M.A.D.」は実質消滅。
 
 ## メンバー変遷
 
 ※ 名前は各五十音順
 
   - 2000年夏（『ジャニーズジュニア名鑑 2000 SUMMER VOL.8』刊行時）\[6\]
-    石田友一、大堀治樹、[町田慎吾](../Page/町田慎吾.md "wikilink")、福原一哉、[良知真次](https://ja.wikipedia.org/wiki/良知真次 "wikilink")
+    石田友一、大堀治樹、[町田慎吾](../Page/町田慎吾.md "wikilink")、福原一哉、[良知真次](../Page/良知真次.md "wikilink")
   - 2001年春（『ジャニーズジュニア名鑑 2001 SPRING VOL.9』刊行時）\[7\]
-    石田友一、島田直樹、中村翔、[萩原幸人](https://ja.wikipedia.org/wiki/萩原幸人 "wikilink")、[森雄介](https://ja.wikipedia.org/wiki/森雄介 "wikilink")、良知真次
+    石田友一、島田直樹、中村翔、[萩原幸人](https://ja.wikipedia.org/wiki/萩原幸人 "wikilink")、[森雄介](../Page/森雄介.md "wikilink")、良知真次
 
 ## 舞台
 

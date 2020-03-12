@@ -1,7 +1,7 @@
 > この記事は[MIRI](https://ja.wikipedia.org/wiki/MIRI)から翻訳されています。
 
 
-**MIRI**（ミリ）こと**櫻井 未莉**\[1\]（さくらい みり、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は日本の[女性アイドル](https://ja.wikipedia.org/wiki/女性アイドル "wikilink")、[フィメールラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。女性アイドルグループ・[我儘ラキア](https://ja.wikipedia.org/wiki/我儘ラキア "wikilink")のメンバー。アイドルラップユニット・[RHYMEBERRY](https://ja.wikipedia.org/wiki/RHYMEBERRY "wikilink")の元メンバー「**MC MIRI**」。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+**MIRI**（ミリ）こと**櫻井 未莉**\[1\]（さくらい みり、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は日本の[女性アイドル](https://ja.wikipedia.org/wiki/女性アイドル "wikilink")、[フィメールラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。女性アイドルグループ・[我儘ラキア](https://ja.wikipedia.org/wiki/我儘ラキア "wikilink")のメンバー。アイドルラップユニット・[RHYMEBERRY](https://ja.wikipedia.org/wiki/RHYMEBERRY "wikilink")の元メンバー「**MC MIRI**」。[東京都](../Page/東京都.md "wikilink")出身。
 
 ## 略歴
 
@@ -13,7 +13,7 @@
 
 2015年4月には八月ちゃん（[おやすみホログラム](https://ja.wikipedia.org/wiki/おやすみホログラム "wikilink")）とのユニット「8mm」（ハチミリ）\[6\]。同年6月には、[劇団コラソン](https://ja.wikipedia.org/wiki/劇団コラソン "wikilink")第33回公演「REBORN」において[関谷真由](https://ja.wikipedia.org/wiki/関谷真由 "wikilink")（元[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")）とのユニット「2D」\[7\]を相次いで結成。
 
-2015年12月27日、「[戦極 MCBATTLE](https://ja.wikipedia.org/wiki/戦極_MCBATTLE "wikilink") 第13章 全国統一編」に出場\[8\]。以後[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")にたびたび出場、2017年1月29日に行われた女性のみのMCバトル「CINDERELLA MCBATTLE」では決勝で[あっこゴリラ](https://ja.wikipedia.org/wiki/あっこゴリラ "wikilink")に敗れたものの準グランプリとなる\[9\]。
+2015年12月27日、「[戦極 MCBATTLE](https://ja.wikipedia.org/wiki/戦極_MCBATTLE "wikilink") 第13章 全国統一編」に出場\[8\]。以後[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")にたびたび出場、2017年1月29日に行われた女性のみのMCバトル「CINDERELLA MCBATTLE」では決勝で[あっこゴリラ](../Page/あっこゴリラ.md "wikilink")に敗れたものの準グランプリとなる\[9\]。
 
 2016年3月30日、初のソロアルバム『“hiphop”ト名乗ッテモイイデスカ』を[タワーレコード](../Page/タワーレコード.md "wikilink")先行リリース（全国発売は同年5月11日）\[10\]。
 
@@ -95,7 +95,7 @@
 ### 楽曲参加
 
   - サ上と中江\[15\]「さいごの宿題」（2016年2月17日配信リリース\[16\]）
-  - 杏奈 from [ANNA☆S](https://ja.wikipedia.org/wiki/ANNA☆S "wikilink")「ココロオドル feat.MC MIRI（ライムベリー）」（2016年4月27日、[ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")）※アルバム『自由自在』収録
+  - 杏奈 from [ANNA☆S](https://ja.wikipedia.org/wiki/ANNA☆S "wikilink")「ココロオドル feat.MC MIRI（ライムベリー）」（2016年4月27日、[ハピネット](../Page/ハピネット.md "wikilink")）※アルバム『自由自在』収録
   - [Booing\!\!\!](https://ja.wikipedia.org/wiki/Booing!!! "wikilink")「CROSSOVER」（2016年7月19日、[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")）
   - [SAWA](https://ja.wikipedia.org/wiki/SAWA "wikilink")「ワナビア罠 (feat. MIRI)」
       -

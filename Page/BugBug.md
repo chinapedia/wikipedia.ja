@@ -25,19 +25,19 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月号までは女性向けゲームソフトの紹介[記事](../Page/記事.md "wikilink")を毎月1ページ掲載していた。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降の表紙イラストを人気[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")である[黒田和也](https://ja.wikipedia.org/wiki/黒田和也 "wikilink")が担当していることから、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月号では[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")と[作画監督](https://ja.wikipedia.org/wiki/作画監督 "wikilink")を黒田が担当した[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")版『[そらのいろ、みずのいろ](https://ja.wikipedia.org/wiki/そらのいろ、みずのいろ "wikilink")』上巻の独占特集を巻頭12ページに渡って掲載（原作が2年前の[2004年](../Page/2004年.md "wikilink")に発売された旧作であるにもかかわらず、表紙イラストもそのヒロインで飾るほどの念の入りようであった）。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降の表紙イラストを人気[アニメーター](../Page/アニメーター.md "wikilink")である[黒田和也](../Page/黒田和也.md "wikilink")が担当していることから、[2006年](../Page/2006年.md "wikilink")9月号では[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")と[作画監督](../Page/作画監督.md "wikilink")を黒田が担当した[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")版『[そらのいろ、みずのいろ](../Page/そらのいろ、みずのいろ.md "wikilink")』上巻の独占特集を巻頭12ページに渡って掲載（原作が2年前の[2004年](../Page/2004年.md "wikilink")に発売された旧作であるにもかかわらず、表紙イラストもそのヒロインで飾るほどの念の入りようであった）。
 
-[2007年](../Page/2007年.md "wikilink")2月号では通算150号を記念して各ソフトハウスからの描き下ろし祝辞[壁紙](https://ja.wikipedia.org/wiki/壁紙 "wikilink")や新作[体験版](https://ja.wikipedia.org/wiki/体験版 "wikilink")などに加え、黒田によるこれまでの表紙イラストの幾つかを[パソコン用壁紙データとして収録した初のトールケース付き](../Page/パーソナルコンピュータ.md "wikilink")[DVD](../Page/DVD.md "wikilink")を付録。また、同年11月号では創刊15周年記念として[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月号より開始の連載企画『[15美少女漂流記](https://ja.wikipedia.org/wiki/15美少女漂流記 "wikilink")』を発表。これは、『[つよきす](https://ja.wikipedia.org/wiki/つよきす "wikilink")』などで知られる[ゲームクリエイター](https://ja.wikipedia.org/wiki/ゲームクリエイター "wikilink")の[タカヒロ](https://ja.wikipedia.org/wiki/タカヒロ "wikilink")が[プロフィール](https://ja.wikipedia.org/wiki/プロフィール "wikilink")設定やミニ[エピソード](https://ja.wikipedia.org/wiki/エピソード "wikilink")執筆を担当した15人の美少女達を黒田が表紙イラストで1年間描き下ろしていく一方、[ライターが彼女達に焦点を当てたミニ](../Page/著作家.md "wikilink")[ノベルを](../Page/小説.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")がその[挿絵](../Page/挿絵.md "wikilink")を、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")が[4コマ漫画](../Page/4コマ漫画.md "wikilink")を連載していくというもの。後には、これを元にした[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")やアダルトアニメも制作された。
+[2007年](../Page/2007年.md "wikilink")2月号では通算150号を記念して各ソフトハウスからの描き下ろし祝辞[壁紙](../Page/壁紙.md "wikilink")や新作[体験版](../Page/体験版.md "wikilink")などに加え、黒田によるこれまでの表紙イラストの幾つかを[パソコン用壁紙データとして収録した初のトールケース付き](../Page/パーソナルコンピュータ.md "wikilink")[DVD](../Page/DVD.md "wikilink")を付録。また、同年11月号では創刊15周年記念として[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月号より開始の連載企画『[15美少女漂流記](https://ja.wikipedia.org/wiki/15美少女漂流記 "wikilink")』を発表。これは、『[つよきす](../Page/つよきす.md "wikilink")』などで知られる[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")の[タカヒロ](../Page/タカヒロ.md "wikilink")が[プロフィール](https://ja.wikipedia.org/wiki/プロフィール "wikilink")設定やミニ[エピソード](https://ja.wikipedia.org/wiki/エピソード "wikilink")執筆を担当した15人の美少女達を黒田が表紙イラストで1年間描き下ろしていく一方、[ライターが彼女達に焦点を当てたミニ](../Page/著作家.md "wikilink")[ノベルを](../Page/小説.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")がその[挿絵](../Page/挿絵.md "wikilink")を、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")が[4コマ漫画](../Page/4コマ漫画.md "wikilink")を連載していくというもの。後には、これを元にした[ドラマCD](../Page/ドラマCD.md "wikilink")やアダルトアニメも制作された。
 
-[2012年](../Page/2012年.md "wikilink")11月号では創刊20周年記念として『15美少女漂流記』に代わる新たな連載企画『[20世紀美少女](https://ja.wikipedia.org/wiki/20世紀美少女 "wikilink")』を発表。ゲームシナリオライター集団「企画屋」の[丸戸史明](https://ja.wikipedia.org/wiki/丸戸史明 "wikilink")が、プロデュースを担当している。
+[2012年](../Page/2012年.md "wikilink")11月号では創刊20周年記念として『15美少女漂流記』に代わる新たな連載企画『[20世紀美少女](https://ja.wikipedia.org/wiki/20世紀美少女 "wikilink")』を発表。ゲームシナリオライター集団「企画屋」の[丸戸史明](../Page/丸戸史明.md "wikilink")が、プロデュースを担当している。
 
-なお、本誌特有の表現として[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")を「美しょゲー」と省略している。
+なお、本誌特有の表現として[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")を「美しょゲー」と省略している。
 
 前述のとおり2014年9月号以降は富士美出版へ移籍したが、これはマガジン・マガジン社が社長交代などの組織変更に際して成人男性向けの商品を撤廃することとなり、『BugBug』が編集部ごと富士美出版に受け入れてもらったためである\[2\]。
 
 ## 表紙イラストレーター
 
-  - [北久保弘之](https://ja.wikipedia.org/wiki/北久保弘之 "wikilink") - 創刊号（1992年11月号）〜1992年12月号
+  - [北久保弘之](../Page/北久保弘之.md "wikilink") - 創刊号（1992年11月号）〜1992年12月号
   - [好実昭博](https://ja.wikipedia.org/wiki/好実昭博 "wikilink") - 1993年1月号〜1997年6月号（1995年2月号を除く）
   - [大越秀武](https://ja.wikipedia.org/wiki/大越秀武 "wikilink") - 1995年2月号（好実のスケジュール調整がつかず代役）
   - [介錯](../Page/介錯_\(漫画家\).md "wikilink") - 1997年7月号〜1998年6月号
@@ -59,7 +59,7 @@
 ## 姉妹誌
 
   - DVD BugBug - [アダルトアニメ](../Page/アダルトアニメ.md "wikilink")専門誌。18禁[DVDPGの記事も取り扱ってはいるが](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")、あくまでデモ程度。
-  - GAMEピアス - [ボーイズラブゲーム](https://ja.wikipedia.org/wiki/ボーイズラブゲーム "wikilink")情報誌。
+  - GAMEピアス - [ボーイズラブゲーム](../Page/ボーイズラブゲーム.md "wikilink")情報誌。
   - Comic BugBug - [成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")雑誌。5号で休刊。連載漫画の一部はBugBug本誌の巻末へ移行された。
 
 ## 同人誌・その他
@@ -71,13 +71,13 @@
 
 ## 関連項目
 
-  - [TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")
+  - [TECH GIAN](../Page/TECH_GIAN.md "wikilink")
   - [メガストア](../Page/メガストア.md "wikilink")
   - [テクノポリス (雑誌)](../Page/テクノポリス_\(雑誌\).md "wikilink")
-  - [PC Angel neo](https://ja.wikipedia.org/wiki/PC_Angel_neo "wikilink")
-  - [黒田和也](https://ja.wikipedia.org/wiki/黒田和也 "wikilink")
+  - [PC Angel neo](../Page/PC_Angel_neo.md "wikilink")
+  - [黒田和也](../Page/黒田和也.md "wikilink")
   - [15美少女漂流記](https://ja.wikipedia.org/wiki/15美少女漂流記 "wikilink")
-  - [立川談之助](https://ja.wikipedia.org/wiki/立川談之助 "wikilink") - ゲームレビューを執筆
+  - [立川談之助](../Page/立川談之助.md "wikilink") - ゲームレビューを執筆
 
 ## 外部リンク
 

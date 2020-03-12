@@ -3,7 +3,7 @@
 
 **G\&Uシステムサービス株式会社** ( *G\&U System Service, Ltd.* ) は、[大阪市](../Page/大阪市.md "wikilink")[福島区](../Page/福島区.md "wikilink")に本社を置く企業。
 
-[日本ユニシス](https://ja.wikipedia.org/wiki/日本ユニシス "wikilink")と[グンゼ](../Page/グンゼ.md "wikilink")による合弁会社として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")に設立された。 流通／製造業界向けソリューション開発の強化並びに[アウトソーシング](../Page/アウトソーシング.md "wikilink")・サービスを提供する。
+[日本ユニシス](https://ja.wikipedia.org/wiki/日本ユニシス "wikilink")と[グンゼ](../Page/グンゼ.md "wikilink")による合弁会社として[2005年](../Page/2005年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に設立された。 流通／製造業界向けソリューション開発の強化並びに[アウトソーシング](../Page/アウトソーシング.md "wikilink")・サービスを提供する。
 
 ## 概要
 

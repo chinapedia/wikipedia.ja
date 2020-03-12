@@ -1,7 +1,7 @@
 > この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
 
 
-**クルーベ・デスポルティーヴォ・ナシオナル** () は、[ポルトガル](../Page/ポルトガル.md "wikilink")領[マデイラ諸島](https://ja.wikipedia.org/wiki/マデイラ諸島 "wikilink")の都市[フンシャル](https://ja.wikipedia.org/wiki/フンシャル "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。**ナシオナル・ダ・マデイラ** (Nacional da Madeira)、又は**ナシオナル** (Nacional) とも呼ばれる。\[1\]
+**クルーベ・デスポルティーヴォ・ナシオナル** () は、[ポルトガル](../Page/ポルトガル.md "wikilink")領[マデイラ諸島](https://ja.wikipedia.org/wiki/マデイラ諸島 "wikilink")の都市[フンシャル](../Page/フンシャル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。**ナシオナル・ダ・マデイラ** (Nacional da Madeira)、又は**ナシオナル** (Nacional) とも呼ばれる。\[1\]
 
 [CSマリティモ](https://ja.wikipedia.org/wiki/CSマリティモ "wikilink")との一戦は「マデイラ・ダービー」として知られている。
 
@@ -73,7 +73,7 @@
 <td><p>2004-05</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2004-05" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セビージャFC" title="wikilink">セビージャ</a></p></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–2</p></td>
 <td><p>'''1–4</p></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>グループL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 <td><p>2–3</p></td>
 <td><p>1–4</p></td>
 <td><p>'''3位</p></td>
@@ -120,7 +120,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–2</p></td>
 <td></td>
@@ -151,7 +151,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーミンガム・シティFC" title="wikilink">バーミンガム・シティ</a></p></td>
+<td><p><a href="../Page/バーミンガム・シティFC.md" title="wikilink">バーミンガム・シティ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–3</p></td>
@@ -163,7 +163,7 @@
 <td><p>2014-15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・ミンスク" title="wikilink">ディナモ・ミンスク</a></p></td>
+<td><p><a href="../Page/FCディナモ・ミンスク.md" title="wikilink">ディナモ・ミンスク</a></p></td>
 <td><p>2–3</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2–5</p></td>

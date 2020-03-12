@@ -1,9 +1,9 @@
 > この記事は[CHU! \(\)](https://ja.wikipedia.org/wiki/CHU!_\(\))から翻訳されています。
 
 
-「**恋愛CHU\!**」は、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に発売されたPCゲーム『[恋愛CHU\! -彼女のヒミツはオトコのコ?-](../Page/恋愛CHU!_-彼女のヒミツはオトコのコ?-.md "wikilink")』（[SAGA PLANETS](https://ja.wikipedia.org/wiki/SAGA_PLANETS "wikilink")）のオープニングテーマである。作詞は[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")、作曲・編曲は[中沢伴行](../Page/中沢伴行.md "wikilink")\[1\]、ボーカルはKOTOKO to AKIがそれぞれ担当。
+「**恋愛CHU\!**」は、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に発売されたPCゲーム『[恋愛CHU\! -彼女のヒミツはオトコのコ?-](../Page/恋愛CHU!_-彼女のヒミツはオトコのコ?-.md "wikilink")』（[SAGA PLANETS](../Page/SAGA_PLANETS.md "wikilink")）のオープニングテーマである。作詞は[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")、作曲・編曲は[中沢伴行](../Page/中沢伴行.md "wikilink")\[1\]、ボーカルはKOTOKO to AKIがそれぞれ担当。
 
-「チュッチュチュ」などの合いの手が入り、間奏にセリフパートが存在し、明るいイメージの楽曲\[2\]。リリース当時の[I've](../Page/I've.md "wikilink")は重厚なテーマソングやトランスの曲を多数発表しており、I've初の[萌えソング](https://ja.wikipedia.org/wiki/萌えソング "wikilink")といわれる\[3\]。その後I'veは従来の曲に加えて萌えソングも多く発表するようになった\[4\]。
+「チュッチュチュ」などの合いの手が入り、間奏にセリフパートが存在し、明るいイメージの楽曲\[2\]。リリース当時の[I've](../Page/I've.md "wikilink")は重厚なテーマソングやトランスの曲を多数発表しており、I've初の[萌えソング](../Page/萌えソング.md "wikilink")といわれる\[3\]。その後I'veは従来の曲に加えて萌えソングも多く発表するようになった\[4\]。
 
 SAGA PLANETSからテーマソング作成の依頼を受けたI'veは、[ミニモニ](https://ja.wikipedia.org/wiki/ミニモニ "wikilink")のイメージで曲を作り、KOTOKOがさらに合いの手の加わった歌詞をつけてこの曲が完成した\[5\]\[6\]。
 

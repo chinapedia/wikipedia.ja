@@ -11,9 +11,9 @@
 
 メルセデス・ベンツの乗用車共通の特徴としてステアリング操作時は左右の前輪上面が旋回方向へ傾くため、よりボディの小さい[Cセグメント](../Page/Cセグメント.md "wikilink")や[Bセグメント](../Page/Bセグメント.md "wikilink")に匹敵する最小回転半径を実現。このCクラスでは4.9-5.1mとなっている。
 
-生産は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ジンデルフィンゲン](../Page/ジンデルフィンゲン.md "wikilink")と[ブレーメン](https://ja.wikipedia.org/wiki/ブレーメン "wikilink")工場ほか[インド](../Page/インド.md "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[エジプト](../Page/エジプト.md "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でも行われ、日本向けを含む多くの右ハンドル車や4気筒エンジンモデルは[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")・[イースト・ロンドン](../Page/イースト・ロンドン.md "wikilink")のダイムラー・クライスラー南アフリカ（DCSA）工場で生産されていたが、3代目のW204から一部が変更されている。一部車種を除き、日本国内で販売されている新車には「メルセデス・ケア」と呼ばれる3年間の購入保証システムが付属する。
+生産は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ジンデルフィンゲン](../Page/ジンデルフィンゲン.md "wikilink")と[ブレーメン](../Page/ブレーメン.md "wikilink")工場ほか[インド](../Page/インド.md "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[エジプト](../Page/エジプト.md "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")でも行われ、日本向けを含む多くの右ハンドル車や4気筒エンジンモデルは[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")・[イースト・ロンドン](../Page/イースト・ロンドン.md "wikilink")のダイムラー・クライスラー南アフリカ（DCSA）工場で生産されていたが、3代目のW204から一部が変更されている。一部車種を除き、日本国内で販売されている新車には「メルセデス・ケア」と呼ばれる3年間の購入保証システムが付属する。
 
-メルセデス・ベンツ向けチューニングメーカーとして[AMG](../Page/メルセデスAMG.md "wikilink")、[ブラバス](https://ja.wikipedia.org/wiki/ブラバス "wikilink")、ロリンザー、[カールソン](../Page/カールソン.md "wikilink")などがある。
+メルセデス・ベンツ向けチューニングメーカーとして[AMG](../Page/メルセデスAMG.md "wikilink")、[ブラバス](../Page/ブラバス.md "wikilink")、ロリンザー、[カールソン](../Page/カールソン.md "wikilink")などがある。
 
 ## 初代（1993年-2000年）W202/S202
 
@@ -25,7 +25,7 @@
 
 ## 2代目（2000年-2007年）W203/S203/CL203
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes_C240.jpg "wikilink") 2000年にフルモデルチェンジ、日本では同年9月より発売が開始された。開発コンセプトであるダイナミズムとエレガンスを表現したと謳われ、コンパクトなスポーティを打ち出している。セダンとステーションワゴンのほか、[BMW・3シリーズ](https://ja.wikipedia.org/wiki/BMW・3シリーズ "wikilink")コンパクトに対抗するモデルとして3ドアハッチバックのスポーツクーペもラインナップする。外観では、ひょうたん形のヘッドライトが特徴。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes_C240.jpg "wikilink") 2000年にフルモデルチェンジ、日本では同年9月より発売が開始された。開発コンセプトであるダイナミズムとエレガンスを表現したと謳われ、コンパクトなスポーティを打ち出している。セダンとステーションワゴンのほか、[BMW・3シリーズ](../Page/BMW・3シリーズ.md "wikilink")コンパクトに対抗するモデルとして3ドアハッチバックのスポーツクーペもラインナップする。外観では、ひょうたん形のヘッドライトが特徴。
 
 日本仕様のトランスミッションは、Dレンジのセレクトレバーを左右に動かすだけでチェンジ可能な[ティップシフト付き](../Page/シフトレバーの配置.md "wikilink")5速ATを搭載する。最小回転半径5.0mを実現するステアリングは[ラック・アンド・ピニオン](https://ja.wikipedia.org/wiki/ラック・アンド・ピニオン "wikilink")式を採用。
 
@@ -49,7 +49,7 @@
 
 内外装とも、先代よりもさらに質感を高め、大幅なバリューアップを実現している。 外装のデザインは先代モデルに引き続き、「スタンダード」、「アバンギャルド」、「AMGライン」、「Mercedes-AMG」の4種類で、「エクスクルーシブ」は日本仕様の通常モデルでは用意されていないが、セダンの一部の限定車には、「エクスクルーシブ」デザインの仕様が台数限定で用意された。
 
-内装のデザインは、上のクラスに位置する[メルセデス・ベンツ・W222](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W222 "wikilink")や[メルセデス・ベンツ・W213](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W213 "wikilink")と共通点を感じる部分が多く、全体の質感としては、Dセグメントとは思えないほどになった。 また、クラス初となるエア[サスペンション](../Page/サスペンション.md "wikilink")『AIRMATICアジリティパッケージ』を設定している。 [ボディ](https://ja.wikipedia.org/wiki/ボディ "wikilink")は、先代モデルよりも[アルミニウム](../Page/アルミニウム.md "wikilink")を多用し、約50％使用した。そして、[エンジン](../Page/エンジン.md "wikilink")を改良したことにより、[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")性能を最大で30%向上させた。
+内装のデザインは、上のクラスに位置する[メルセデス・ベンツ・W222](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W222 "wikilink")や[メルセデス・ベンツ・W213](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W213 "wikilink")と共通点を感じる部分が多く、全体の質感としては、Dセグメントとは思えないほどになった。 また、クラス初となるエア[サスペンション](../Page/サスペンション.md "wikilink")『AIRMATICアジリティパッケージ』を設定している。 [ボディ](https://ja.wikipedia.org/wiki/ボディ "wikilink")は、先代モデルよりも[アルミニウム](../Page/アルミニウム.md "wikilink")を多用し、約50％使用した。そして、[エンジン](../Page/エンジン.md "wikilink")を改良したことにより、[燃費](../Page/燃費.md "wikilink")性能を最大で30%向上させた。
 
 [メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")が得意とする、安全運転支援システムも[メルセデス・ベンツ・W222](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・W222 "wikilink")譲りのものにバージョンアップ。2つのステレオカメラと6つのレーダーで周囲の状況を把握し、運転を支援する。『アクティブブレーキアシスト(歩行者/飛び出し検知機能付)\[旧:PRE-SAFE®︎ブレーキ(歩行者検知機能付)\]』やさらに進化した『ディスタンスパイロット・ディストロニック&ステアリングパイロット\[旧:ディストロニック・プラス(ステアリングアシスト付)\]』などを搭載した「レーダーセーフティパッケージ」を全グレードに設定した。
 

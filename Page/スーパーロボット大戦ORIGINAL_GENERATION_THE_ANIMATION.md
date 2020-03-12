@@ -1,9 +1,9 @@
 > この記事は[ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION_THE_ANIMATION)から翻訳されています。
 
 
-『**スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION**』（スーパーロボットたいせん オリジナルジェネレーション ジ アニメーション）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")を題材とした[OVA](../Page/OVA.md "wikilink")作品。本項では、OVAから派生したドラマCDや、OVAのコミカライズ作品についても記述する。
+『**スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION**』（スーパーロボットたいせん オリジナルジェネレーション ジ アニメーション）は、[バンプレスト](../Page/バンプレスト.md "wikilink")の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")を題材とした[OVA](../Page/OVA.md "wikilink")作品。本項では、OVAから派生したドラマCDや、OVAのコミカライズ作品についても記述する。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")には『スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION Complete』として全3話を収録した[UMDをリリース](https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")には『スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION Complete』として全3話を収録した[UMDをリリース](../Page/ユニバーサル・メディア・ディスク.md "wikilink")。
 
 ## 概要
 
@@ -17,40 +17,40 @@
 
 ラミア・ラヴレスや、ラトゥーニ・スゥボータなどは本作で初めて声がついた。
 
-  - キョウスケ・ナンブ：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
-  - エクセレン・ブロウニング：[水谷優子](https://ja.wikipedia.org/wiki/水谷優子 "wikilink")
-  - ブルックリン・ラックフィールド：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
-  - クスハ・ミズハ：[高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+  - キョウスケ・ナンブ：[森川智之](../Page/森川智之.md "wikilink")
+  - エクセレン・ブロウニング：[水谷優子](../Page/水谷優子.md "wikilink")
+  - ブルックリン・ラックフィールド：[杉田智和](../Page/杉田智和.md "wikilink")
+  - クスハ・ミズハ：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
   - リュウセイ・ダテ：[三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
   - ライディース・F・ブランシュタイン：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
-  - アヤ・コバヤシ：[冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+  - アヤ・コバヤシ：[冬馬由美](../Page/冬馬由美.md "wikilink")
   - マイ・コバヤシ：[折笠愛](../Page/折笠愛.md "wikilink")
-  - ヴィレッタ・バディム：[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
+  - ヴィレッタ・バディム：[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")
   - ギリアム・イェーガー：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
-  - ラミア・ラヴレス：[清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")
+  - ラミア・ラヴレス：[清水香里](../Page/清水香里.md "wikilink")
   - アラド・バランガ：[鶏内一也](../Page/鶏内一也.md "wikilink")
-  - ゼオラ・シュバイツァー：[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")
-  - ラトゥーニ・スゥボータ：[平井理子](https://ja.wikipedia.org/wiki/平井理子 "wikilink")
-  - テツヤ・オノデラ：[堀川仁](https://ja.wikipedia.org/wiki/堀川仁 "wikilink")
+  - ゼオラ・シュバイツァー：[かかずゆみ](../Page/かかずゆみ.md "wikilink")
+  - ラトゥーニ・スゥボータ：[平井理子](../Page/平井理子.md "wikilink")
+  - テツヤ・オノデラ：[堀川仁](../Page/堀川仁.md "wikilink")
   - リョウト・ヒカワ：[小林由美子](../Page/小林由美子.md "wikilink")
-  - リオ・メイロン：[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
-  - エイタ・ナダカ：[田中大文](https://ja.wikipedia.org/wiki/田中大文 "wikilink")
+  - リオ・メイロン：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
+  - エイタ・ナダカ：[田中大文](../Page/田中大文.md "wikilink")
   - マサキ・アンドー：[緑川光](../Page/緑川光.md "wikilink")
   - シロ：[折笠愛](../Page/折笠愛.md "wikilink")
   - クロ：[佐久間レイ](../Page/佐久間レイ.md "wikilink")
-  - ゼンガー・ゾンボルト：[小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")
-  - レーツェル・ファインシュメッカー：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
-  - ヴィルヘルム・フォン・ユルゲン：[牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")
+  - ゼンガー・ゾンボルト：[小野健一](../Page/小野健一_\(声優\).md "wikilink")
+  - レーツェル・ファインシュメッカー：[稲田徹](../Page/稲田徹.md "wikilink")
+  - ヴィルヘルム・フォン・ユルゲン：[牛山茂](../Page/牛山茂.md "wikilink")
 
 ## スタッフ
 
   - 原作 - バンプレスト
   - 企画 - 山浦康彦、[川城和実](../Page/川城和実.md "wikilink")
-  - 監修 - [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+  - 監修 - [寺田貴信](../Page/寺田貴信.md "wikilink")
   - 監督 - 川越淳
   - 脚本 - [西園悟](../Page/西園悟.md "wikilink")
   - キャラクター原案 - [河野さち子](../Page/河野さち子.md "wikilink")
-  - メカニック原案 - [宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")、[カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")、斉藤和衛、金丸仁、安藤弘、守谷淳一
+  - メカニック原案 - [宮武一貴](../Page/宮武一貴.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、斉藤和衛、金丸仁、安藤弘、守谷淳一
   - キャラクターデザイン・作画監督 - [田中良](../Page/田中良_\(アニメーター\).md "wikilink")
   - メカニックデザイン・作画監督 - 才木康寛
   - CGメカニックデザイン - 高倉武史
@@ -59,7 +59,7 @@
   - 色彩設計 - 原田幸子
   - 撮影 - 佐藤正人
   - 編集 - 田熊純
-  - 音楽 - [斉藤恒芳](https://ja.wikipedia.org/wiki/斉藤恒芳 "wikilink")
+  - 音楽 - [斉藤恒芳](../Page/斉藤恒芳.md "wikilink")
   - 音響監督 - [なかのとおる](../Page/なかのとおる.md "wikilink")
   - プロデューサー - 寺田貴信、松田吉史、小林辰与、[森本浩二](https://ja.wikipedia.org/wiki/森本浩二 "wikilink")
   - アニメーション制作 - ブレインズ・ベース
@@ -74,24 +74,24 @@
   -
 
       -
-        作詞・作曲 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink") / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") / 歌 - [JAM Project](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")
+        作詞・作曲 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") / 歌 - [JAM Project](../Page/JAM_Project.md "wikilink")
 
   - エンディングテーマ
 
 :; 「Protect You」（第1話）
 
-:: 作詞 - [遠藤正明](https://ja.wikipedia.org/wiki/遠藤正明 "wikilink")・[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲 - 奥井雅美 / 歌 - JAM Project featuring 遠藤正明・奥井雅美
+:: 作詞 - [遠藤正明](../Page/遠藤正明.md "wikilink")・[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲 - 奥井雅美 / 歌 - JAM Project featuring 遠藤正明・奥井雅美
 
 :; 「Name of the Truth」（第2話）
 
-:: 作詞・作曲 - [きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink") / 編曲 - [河野陽吾](../Page/河野陽吾.md "wikilink") / 歌 - JAM Project featuring [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")・きただにひろし
+:: 作詞・作曲 - [きただにひろし](../Page/きただにひろし.md "wikilink") / 編曲 - [河野陽吾](../Page/河野陽吾.md "wikilink") / 歌 - JAM Project featuring [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")・きただにひろし
 
 :; 「星空のレクイエム」（第3話）
 
   -
 
       -
-        作詞 - 影山ヒロノブ / 作編曲 - [福山芳樹](https://ja.wikipedia.org/wiki/福山芳樹 "wikilink") / ストリングスアレンジ - 須藤賢一 / 歌 - JAM Project featuring 影山ヒロノブ・福山芳樹
+        作詞 - 影山ヒロノブ / 作編曲 - [福山芳樹](../Page/福山芳樹.md "wikilink") / ストリングスアレンジ - 須藤賢一 / 歌 - JAM Project featuring 影山ヒロノブ・福山芳樹
 
   - 挿入歌
 
@@ -106,13 +106,13 @@
 
 ## サブタイトル
 
-1.  群れなす機械（バルトール） - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")発売
+1.  群れなす機械（バルトール） - [2005年](../Page/2005年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")発売
 2.  ヒトという部品（パーツ） - 2005年[8月26日](../Page/8月26日.md "wikilink")発売
 3.  迷宮の囚人（プリズナー） - 2005年[12月23日](../Page/12月23日.md "wikilink")発売
 
 ## ドラマCD
 
-[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")から発売されたドラマCDで各巻に2話収録されている。全3巻。
+[ランティス](../Page/ランティス.md "wikilink")から発売されたドラマCDで各巻に2話収録されている。全3巻。
 
   - スーパーロボット大戦 ORIGINAL GENERATION THE SOUND CINEMA VOL.1 - 2005年[10月5日](../Page/10月5日.md "wikilink")発売
     OVAの前日談。
@@ -129,11 +129,11 @@ OVA版にも登場する人物のキャストはそれと同一。
   - シュウ・シラカワ：[子安武人](../Page/子安武人.md "wikilink")
   - アイビス・ダグラス：[渡辺明乃](../Page/渡辺明乃.md "wikilink")
   - ツグミ・タカクラ：[長谷川知子](../Page/長谷川知子.md "wikilink")
-  - エルザム・V・ブランシュタイン：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+  - エルザム・V・ブランシュタイン：[稲田徹](../Page/稲田徹.md "wikilink")
   - ロバート・H・オオミヤ：[桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")
-  - リック・ウォン：[東地宏樹](https://ja.wikipedia.org/wiki/東地宏樹 "wikilink")
+  - リック・ウォン：[東地宏樹](../Page/東地宏樹.md "wikilink")
   - ジジ・ルー：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
-  - マウロ・ガット：[金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink")
+  - マウロ・ガット：[金尾哲夫](../Page/金尾哲夫.md "wikilink")
   - カイル・ビーン：[岩田光央](../Page/岩田光央.md "wikilink")
   - セルシア・ファーム：[根谷美智子](../Page/根谷美智子.md "wikilink")
   - ダイアン・ウッド：[成田紗矢香](../Page/成田紗矢香.md "wikilink")
@@ -152,7 +152,7 @@ OVA版にも登場する人物のキャストはそれと同一。
 
 ## 漫画
 
-[電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")で連載。OVAの漫画化。[せたのりやす](../Page/せたのりやす.md "wikilink")著。全1巻。ISBN 9784840238366
+[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")で連載。OVAの漫画化。[せたのりやす](../Page/せたのりやす.md "wikilink")著。全1巻。ISBN 9784840238366
 
 ## プロモーション
 

@@ -1,7 +1,7 @@
 > この記事は[HNK](https://ja.wikipedia.org/wiki/HNK)から翻訳されています。
 
 
-**フルヴァツキ・ノゴメトニ・クルブ・リエカ**（, **）は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[リエカ](https://ja.wikipedia.org/wiki/リエカ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**フルヴァツキ・ノゴメトニ・クルブ・リエカ**（, **）は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[リエカ](../Page/リエカ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 クラブはリエカが[イタリア](../Page/イタリア.md "wikilink")領であった1926年にグロリア・フィウーメとオリンピア・フィウーメの2クラブの合併によって**USフィウマーナ** (*Unione Sportiva Fiumana*) として創設された\[1\]。1928-29シーズンには当時のイタリアにおいて1部に相当したディヴィジオーネ・ナツィオナーレに昇格した\[2\]。1929年以降は、1929-30シーズンと1941-42シーズンに[セリエBに参加した](../Page/セリエB_\(サッカー\).md "wikilink")。
 
@@ -79,7 +79,7 @@
 
 ## 現所属メンバー
 
-\[4\]                       （[第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink")）
+\[4\]                       （[第2主将](../Page/主将.md "wikilink")）
 
   - 監督
 
@@ -265,9 +265,9 @@
 
 ### [MF](../Page/ミッドフィールダー.md "wikilink")
 
-  - [財前宣之](https://ja.wikipedia.org/wiki/財前宣之 "wikilink") 1999
+  - [財前宣之](../Page/財前宣之.md "wikilink") 1999
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
   - [松原良香](../Page/松原良香.md "wikilink") 1999
 

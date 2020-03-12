@@ -46,7 +46,7 @@
 
   - [マルコ・サンディ](https://ja.wikipedia.org/wiki/マルコ・アントニオ・サンディ "wikilink") 1998-2000
 
-  - [ダビド・ビスコンティ](https://ja.wikipedia.org/wiki/ダビド・ビスコンティ "wikilink") 1999-2000
+  - [ダビド・ビスコンティ](../Page/ダビド・ビスコンティ.md "wikilink") 1999-2000
 
   - [松尾直人](../Page/松尾直人.md "wikilink") 1999 (留学)
 

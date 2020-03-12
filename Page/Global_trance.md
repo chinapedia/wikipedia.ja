@@ -1,7 +1,7 @@
 > この記事は[Global trance](https://ja.wikipedia.org/wiki/Global_trance)から翻訳されています。
 
 
-『**global trance**』（グローバル・トランス）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")[アルバム](../Page/アルバム.md "wikilink")および、そのシリーズ。[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")リリースの『**global trance**』は[11月](../Page/11月.md "wikilink")にアナログ盤もリリースされ、他に[2002年](../Page/2002年.md "wikilink")リリースの『**global trance 2**』、[2003年](../Page/2003年.md "wikilink")リリースの『**global trance best**』がある。
+『**global trance**』（グローバル・トランス）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")および、そのシリーズ。[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")リリースの『**global trance**』は[11月](../Page/11月.md "wikilink")にアナログ盤もリリースされ、他に[2002年](../Page/2002年.md "wikilink")リリースの『**global trance 2**』、[2003年](../Page/2003年.md "wikilink")リリースの『**global trance best**』がある。
 
 ## global trance
 
@@ -39,7 +39,7 @@
 6.  FACES PLACES - Typhoon Mix -\*\*\*\*
 7.  futuristic / tatsumaki
 8.  dreams from above / globe vs push - TK Mix -\*
-9.  [Say Anything](https://ja.wikipedia.org/wiki/Say_Anything "wikilink") / globe - Kanpai Mix 926 -\*
+9.  [Say Anything](../Page/Say_Anything.md "wikilink") / globe - Kanpai Mix 926 -\*
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@
 1.  TETSUYA KOMURO SPECIAL INTERVIEW
 2.  dreams from above / globe vs push - video clip -　Direction: globe project team
 3.  Many Classic Moments - TK remix - video clip -　Direction: Tetsuya Komuro
-4.  global trance - tvcm -　Direction: [Daizaburo Harada](https://ja.wikipedia.org/wiki/原田大三郎 "wikilink")
+4.  global trance - tvcm -　Direction: [Daizaburo Harada](../Page/原田大三郎.md "wikilink")
 5.  global trance2 - tvcm -　Direction: Daizaburo Harada
 
 ## アナログ盤

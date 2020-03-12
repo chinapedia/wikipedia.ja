@@ -1,17 +1,17 @@
 > この記事は[RYO \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/RYO_\(ORANGE_RANGE\))から翻訳されています。
 
 
-**RYO**（リョウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[バンドグループの](../Page/バンド_\(音楽\).md "wikilink")[ORANGE RANGEのボーカル](https://ja.wikipedia.org/wiki/ORANGE_RANGE "wikilink")・[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
+**RYO**（リョウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[バンドグループの](../Page/バンド_\(音楽\).md "wikilink")[ORANGE RANGEのボーカル](../Page/ORANGE_RANGE.md "wikilink")・[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
 
 ソロ活動では「**RYO from ORANGE RANGE**」（リョウ フロム オレンジレンジ）の名義で活動。
 
 ## 人物
 
-[沖縄県立北谷高等学校](https://ja.wikipedia.org/wiki/沖縄県立北谷高等学校 "wikilink")卒。
+[沖縄県立北谷高等学校](../Page/沖縄県立北谷高等学校.md "wikilink")卒。
 
-[ORANGE RANGEの他メンバーとは学年が違うため](https://ja.wikipedia.org/wiki/ORANGE_RANGE "wikilink")、自身の代の中学校の卒業式の後夜祭ではORANGE RANGEとは別のバンドを組み、[MONGOL800](../Page/MONGOL800.md "wikilink")や[Dragon Ashのコピーをした](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")。そのバンドではドラムを担当していた。また、同じ日に男3人でラップも披露した\[1\]。
+[ORANGE RANGEの他メンバーとは学年が違うため](../Page/ORANGE_RANGE.md "wikilink")、自身の代の中学校の卒業式の後夜祭ではORANGE RANGEとは別のバンドを組み、[MONGOL800](../Page/MONGOL800.md "wikilink")や[Dragon Ashのコピーをした](../Page/Dragon_Ash.md "wikilink")。そのバンドではドラムを担当していた。また、同じ日に男3人でラップも披露した\[1\]。
 
-高校時代は同級生の[伊禮麻乃](https://ja.wikipedia.org/wiki/伊禮麻乃 "wikilink")たちと「**琉星**」（りゅうせい）というバンドを組んでいて、ボーカル、ラップを担当していた。ORANGE RANGEと並行して活動していたが、ORANGE RANGEのメジャーデビューが決まり、琉星は脱退した\[2\]。
+高校時代は同級生の[伊禮麻乃](../Page/伊禮麻乃.md "wikilink")たちと「**琉星**」（りゅうせい）というバンドを組んでいて、ボーカル、ラップを担当していた。ORANGE RANGEと並行して活動していたが、ORANGE RANGEのメジャーデビューが決まり、琉星は脱退した\[2\]。
 
 昭和60年生まれで構成される「60年会」のメンバーで、その中の[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、[金田哲](https://ja.wikipedia.org/wiki/金田哲 "wikilink")（[はんにゃ](https://ja.wikipedia.org/wiki/はんにゃ "wikilink")）、[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")らと仲が良い\[3\]。
 
@@ -89,7 +89,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/私立恵比寿中学" title="wikilink">私立恵比寿中学</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夏だぜジョニー" title="wikilink">夏だぜジョニー</a></p></td>
 <td><p>作詞・作曲・編曲<br />
-<a href="https://ja.wikipedia.org/wiki/シライシ紗トリ" title="wikilink">シライシ紗トリ</a>と共同制作</p></td>
+<a href="../Page/シライシ紗トリ.md" title="wikilink">シライシ紗トリ</a>と共同制作</p></td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +108,7 @@
 
 ### バラエティ番組
 
-  - 「[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")」（[2013年](../Page/2013年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")） - [175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")、[Spontania](https://ja.wikipedia.org/wiki/Spontania "wikilink")のMassattack、[Hysteric BlueのTama](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")、[千秋](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")、[NON STYLEの](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")[井上裕介と](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")「アンダーノーズ」のチーム名で、[ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")「[女々しくて](https://ja.wikipedia.org/wiki/女々しくて "wikilink")」と[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の「[潮騒のメモリー](https://ja.wikipedia.org/wiki/潮騒のメモリー "wikilink")」を披露\[8\]。
+  - 「[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")」（[2013年](../Page/2013年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")） - [175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](../Page/TAKUYA.md "wikilink")、[Spontania](../Page/Spontania.md "wikilink")のMassattack、[Hysteric BlueのTama](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")、[千秋](../Page/千秋_\(タレント\).md "wikilink")、[NON STYLEの](../Page/NON_STYLE.md "wikilink")[井上裕介と](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")「アンダーノーズ」のチーム名で、[ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")「[女々しくて](https://ja.wikipedia.org/wiki/女々しくて "wikilink")」と[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の「[潮騒のメモリー](https://ja.wikipedia.org/wiki/潮騒のメモリー "wikilink")」を披露\[8\]。
 
 ### 映画
 

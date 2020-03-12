@@ -1,18 +1,18 @@
 > この記事は[Beaucoup Fish](https://ja.wikipedia.org/wiki/Beaucoup_Fish)から翻訳されています。
 
 
-**Beaucoup Fish**は、[アンダーワールドの](https://ja.wikipedia.org/wiki/アンダーワールド_\(バンド\) "wikilink")[アルバム](../Page/アルバム.md "wikilink")。発売は[1999年](../Page/1999年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")(日本先行発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")は1999年[3月1日](../Page/3月1日.md "wikilink"))。
+**Beaucoup Fish**は、[アンダーワールドの](../Page/アンダーワールド_\(バンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。発売は[1999年](../Page/1999年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")(日本先行発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")は1999年[3月1日](../Page/3月1日.md "wikilink"))。
 
 作品に関する資料の一部では、『ボウクー・フィッシュ』という邦題が付けられていたが、発売されたCDには使われていない。
 
 ## 収録曲
 
-特筆無い限り、全曲[Underworld作曲](https://ja.wikipedia.org/wiki/アンダーワールド_\(バンド\) "wikilink")
+特筆無い限り、全曲[Underworld作曲](../Page/アンダーワールド_\(バンド\).md "wikilink")
 
 1.  **Cups**
 2.  **Push Upstairs**
 3.  **Jumbo**
-4.  **Shudder/King of Snake** <small>(Underworld, [Giorgio Moroder](https://ja.wikipedia.org/wiki/ジョルジオ・モロダー "wikilink"), Peter Bellotte, [Donna Summer作曲](https://ja.wikipedia.org/wiki/ドナ・サマー "wikilink"))</small>
+4.  **Shudder/King of Snake** <small>(Underworld, [Giorgio Moroder](../Page/ジョルジオ・モロダー.md "wikilink"), Peter Bellotte, [Donna Summer作曲](../Page/ドナ・サマー.md "wikilink"))</small>
 5.  **Winjer**
 6.  **Skym**
 7.  **Bruce Lee**

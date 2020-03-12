@@ -5,10 +5,10 @@
 
 ## 解説
 
-  - 6枚目のアルバム『[STYLE](https://ja.wikipedia.org/wiki/STYLE_\(安室奈美恵のアルバム\) "wikilink")』に続く[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")第1弾シングル。[3月17日](../Page/3月17日.md "wikilink")に[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")でリリースされた。
-  - 前作「[SO CRAZY/Come](https://ja.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")」に引き続き、自身がイメージキャラクターに選ばれ出演した[マンダム](https://ja.wikipedia.org/wiki/マンダム "wikilink")「LUCIDO-L プリズムマジックヘアカラー」の[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - ジャケット・[PV共に](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[モノクロ仕様となっている](../Page/モノクローム.md "wikilink")。
-  - 2004年5月23日に[東京ベイNKホール](https://ja.wikipedia.org/wiki/東京ベイNKホール "wikilink")で開催された「[MTV Video Music Awards Japan 2004](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")」にパフォーミング・アーティストとして出演し、「ALARM」をパフォーマンス。「Best R\&B Video」、「Best buzzAsia from Japan」の2冠となった。
+  - 6枚目のアルバム『[STYLE](https://ja.wikipedia.org/wiki/STYLE_\(安室奈美恵のアルバム\) "wikilink")』に続く[2004年](../Page/2004年.md "wikilink")第1弾シングル。[3月17日](../Page/3月17日.md "wikilink")に[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")でリリースされた。
+  - 前作「[SO CRAZY/Come](https://ja.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")」に引き続き、自身がイメージキャラクターに選ばれ出演した[マンダム](../Page/マンダム.md "wikilink")「LUCIDO-L プリズムマジックヘアカラー」の[CMソング](../Page/コマーシャルソング.md "wikilink")。
+  - ジャケット・[PV共に](../Page/ミュージック・ビデオ.md "wikilink")[モノクロ仕様となっている](../Page/モノクローム.md "wikilink")。
+  - 2004年5月23日に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で開催された「[MTV Video Music Awards Japan 2004](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")」にパフォーミング・アーティストとして出演し、「ALARM」をパフォーマンス。「Best R\&B Video」、「Best buzzAsia from Japan」の2冠となった。
   - 安室奈美恵単独名義のシングル作品では、唯一オリコントップ10入りできなかった作品であり、「[太陽のSEASON](https://ja.wikipedia.org/wiki/太陽のSEASON "wikilink")」から26作連続で続いていたトップ10入り記録が今作で一旦途切れた。しかし、初動売上枚数、累計売上枚数共に、前作を上回っていた。
   - PVに登場する[ドラァグ・クイーン](https://ja.wikipedia.org/wiki/ドラァグ・クイーン "wikilink")はマーガレットである。
 
@@ -16,8 +16,8 @@
 
 1.  **ALARM**
       -
-        （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：JUSME / [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[MONK](http://monk.fm)）
-        [マンダム](https://ja.wikipedia.org/wiki/マンダム "wikilink")「LUCIDO-L プリズムマジックヘアカラー」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        （[作詞](../Page/作詞.md "wikilink")：JUSME / [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[MONK](http://monk.fm)）
+        [マンダム](../Page/マンダム.md "wikilink")「LUCIDO-L プリズムマジックヘアカラー」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **STROBE**
       -
         （作詞：JUSME 作曲・編曲：[MONK](http://monk.fm)）
@@ -27,7 +27,7 @@
 ## 収録アルバム・PV集
 
   - 7thアルバム『[Queen of Hip-Pop](../Page/Queen_of_Hip-Pop.md "wikilink")』
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BEST FICTION](https://ja.wikipedia.org/wiki/BEST_FICTION "wikilink")』
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST FICTION](../Page/BEST_FICTION.md "wikilink")』
   - [DVD](../Page/DVD-Video.md "wikilink")『[FILMOGRAPHY 2001-2005](https://ja.wikipedia.org/wiki/FILMOGRAPHY_2001-2005 "wikilink")』
 
 ## 外部リンク

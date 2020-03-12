@@ -1,7 +1,7 @@
 > この記事は[DPMI](https://ja.wikipedia.org/wiki/DPMI)から翻訳されています。
 
 
-**DPMI** () は、[マルチタスク](../Page/マルチタスク.md "wikilink")OS（又は擬似マルチタスクOS）の[仮想DOSマシン](https://ja.wikipedia.org/wiki/仮想DOSマシン "wikilink")の環境下で[プロテクトモード](https://ja.wikipedia.org/wiki/プロテクトモード "wikilink")[アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink")（主として[DOSエクステンダ](https://ja.wikipedia.org/wiki/DOSエクステンダ "wikilink")）の実行環境を提供する規格である。
+**DPMI** () は、[マルチタスク](../Page/マルチタスク.md "wikilink")OS（又は擬似マルチタスクOS）の[仮想DOSマシン](../Page/仮想DOSマシン.md "wikilink")の環境下で[プロテクトモード](../Page/プロテクトモード.md "wikilink")[アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink")（主として[DOSエクステンダ](../Page/DOSエクステンダ.md "wikilink")）の実行環境を提供する規格である。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 
 DPMIはシステム保護という目的を達成するためにプロテクトモードアプリケーションを特権レベル1‐3で実行させる。DPMIアプリケーションは特権命令を直接利用することが出来ないので、DPMIサーバーが全てのプロテクトモードに関する管理を引き受けるため、[VCPI](../Page/VCPI.md "wikilink")と比べて多くのファンクションコールを提供する。結果としてDPMIは[VCPI](../Page/VCPI.md "wikilink")よりもかなり重い環境になった。
 
-しかしながら、DPMIサーバーが重くなった反面、DPMI専用クライアントはそれまでの一般的な[DOSエクステンダ](https://ja.wikipedia.org/wiki/DOSエクステンダ "wikilink")より遥かに軽くなったというメリットもあった。
+しかしながら、DPMIサーバーが重くなった反面、DPMI専用クライアントはそれまでの一般的な[DOSエクステンダ](../Page/DOSエクステンダ.md "wikilink")より遥かに軽くなったというメリットもあった。
 
-なお、DPMIはVCPIを拡張した規格であるという誤解が一部にあるが、DPMIは実際にはVCPIとの互換性は無く独立した規格である。VCPI (**Virtual** Control Program Interface) は文字通り[i386の](../Page/Intel_80386.md "wikilink")[仮想86モード](https://ja.wikipedia.org/wiki/仮想86モード "wikilink")を利用した規格であるため386以上のCPU ([IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")) 搭載が必須であるが、DPMIは一部の機能を除き[80286上でも動作する規格である](../Page/Intel_80286.md "wikilink")。
+なお、DPMIはVCPIを拡張した規格であるという誤解が一部にあるが、DPMIは実際にはVCPIとの互換性は無く独立した規格である。VCPI (**Virtual** Control Program Interface) は文字通り[i386の](../Page/Intel_80386.md "wikilink")[仮想86モード](../Page/仮想86モード.md "wikilink")を利用した規格であるため386以上のCPU ([IA-32](../Page/IA-32.md "wikilink")) 搭載が必須であるが、DPMIは一部の機能を除き[80286上でも動作する規格である](../Page/Intel_80286.md "wikilink")。
 
 ## DPMIの問題点
 
@@ -25,7 +25,7 @@ Windows は[GUIばかりでは無く](https://ja.wikipedia.org/wiki/グラフィ
 
 （ただし既存のDOSエクステンダや既存のプロテクトモードアプリケーションをDPMIに対応させることは、それらの製品寿命を延ばす意味があるので価値があった。また[コンパイラ](../Page/コンパイラ.md "wikilink")やリンカー等のようにファイルしかアクセスしないアプリケーションを新規に開発することにも意味があった）
 
-また、最初に公開された仕様のバージョンが0.9であるということも問題であった。DPMIの最初の仕様が1.0では無く0.9であった理由は、機能不足であったためである。事実、DPMI 0.9公開後、各DOSエクステンダのベンダは、自社のDOSエクステンダをDPMI 0.9に対応させたが、DPMI 0.9の機能不足を補うために、[仮想デバイスドライバ](https://ja.wikipedia.org/wiki/仮想デバイスドライバ "wikilink") (VxD) を同時に開発したところが少なくなかった。
+また、最初に公開された仕様のバージョンが0.9であるということも問題であった。DPMIの最初の仕様が1.0では無く0.9であった理由は、機能不足であったためである。事実、DPMI 0.9公開後、各DOSエクステンダのベンダは、自社のDOSエクステンダをDPMI 0.9に対応させたが、DPMI 0.9の機能不足を補うために、[仮想デバイスドライバ](../Page/仮想デバイスドライバ.md "wikilink") (VxD) を同時に開発したところが少なくなかった。
 
 例えば PharLap社は、386|DOS-Extenderをバージョン4.0からDPMIをサポートするようになったが、386|DOS-ExtenderをWindowsで動作させる時に起こる問題に対応するためにVxDドライバ PHARLAP.386を同時に開発した。
 
@@ -33,11 +33,11 @@ Windows は[GUIばかりでは無く](https://ja.wikipedia.org/wiki/グラフィ
 
   - [MS-DOS](../Page/MS-DOS.md "wikilink")
   - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-  - [DOSエクステンダ](https://ja.wikipedia.org/wiki/DOSエクステンダ "wikilink")
+  - [DOSエクステンダ](../Page/DOSエクステンダ.md "wikilink")
   - [VCPI](../Page/VCPI.md "wikilink") (Virtual Control Program Interface)
-  - [EMS](https://ja.wikipedia.org/wiki/Expanded_Memory_Specification "wikilink") (Expanded Memory Specification)
-  - [XMS](https://ja.wikipedia.org/wiki/XMS "wikilink") (Extended Memory Specification)
-  - [プロテクトモード](https://ja.wikipedia.org/wiki/プロテクトモード "wikilink")
+  - [EMS](../Page/Expanded_Memory_Specification.md "wikilink") (Expanded Memory Specification)
+  - [XMS](../Page/XMS.md "wikilink") (Extended Memory Specification)
+  - [プロテクトモード](../Page/プロテクトモード.md "wikilink")
 
 ## 参考文献
 

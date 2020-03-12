@@ -1,25 +1,25 @@
 > この記事は[Neo Africa Rainbow Ax](https://ja.wikipedia.org/wiki/Neo_Africa_Rainbow_Ax)から翻訳されています。
 
 
-『**Neo Africa Rainbow Ax**』（ネオ・アフリカ・レインボー・アックス）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")に発売された[ENDLICHERI☆ENDLICHERIの](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。（堂本剛のソロアルバムとしては、通算4枚目。）発売元はRAINBOW☆ENDLI9（母体は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")）。
+『**Neo Africa Rainbow Ax**』（ネオ・アフリカ・レインボー・アックス）は、[2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")に発売された[ENDLICHERI☆ENDLICHERIの](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。（堂本剛のソロアルバムとしては、通算4枚目。）発売元はRAINBOW☆ENDLI9（母体は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")）。
 
 ## 概要
 
-前作『[Coward](https://ja.wikipedia.org/wiki/Coward "wikilink")』から約1年ぶりに発売されたセカンド・アルバム。100公演にも及ぶ[ライブ公演](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、[KinKi Kidsとしての](../Page/KinKi_Kids.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、アルバム『[I album -iD-](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")』の製作、[テレビ](../Page/テレビ.md "wikilink")・[CM出演などをこなしながら](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、約1年の録音期間を掛けて完成した作品。
+前作『[Coward](../Page/Coward.md "wikilink")』から約1年ぶりに発売されたセカンド・アルバム。100公演にも及ぶ[ライブ公演](../Page/演奏会.md "wikilink")、[KinKi Kidsとしての](../Page/KinKi_Kids.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、アルバム『[I album -iD-](../Page/I_album_-iD-.md "wikilink")』の製作、[テレビ](../Page/テレビ.md "wikilink")・[CM出演などをこなしながら](../Page/コマーシャルメッセージ.md "wikilink")、約1年の録音期間を掛けて完成した作品。
 
-タイトルは専ら造語である。プロジェクト名である[熱帯魚](https://ja.wikipedia.org/wiki/熱帯魚 "wikilink")・[ポリプテルス](https://ja.wikipedia.org/wiki/ポリプテルス "wikilink")・エンドリケリー・エンドリケリが生息し、[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")のサブ[ジャンルとしても誕生したアフリンカン](../Page/ポピュラー音楽のジャンル一覧.md "wikilink")・ミュージックの[アフリカ](../Page/アフリカ.md "wikilink")。自身の象徴として楽曲名や服装に使用してきた[レインボー](https://ja.wikipedia.org/wiki/虹 "wikilink")。Axは[英語](../Page/英語.md "wikilink")で[斧](../Page/斧.md "wikilink")の意味を持ち、[ギター](../Page/ギター.md "wikilink")を斧に見立てている。これらの言葉を組み合わせてタイトルが完成した。冒頭部の『Neo』は、そのまま「新しく作った」という意味である。また、このタイトルは[折句](https://ja.wikipedia.org/wiki/折句 "wikilink")になっており、それぞれの単語の[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")は[堂本剛](../Page/堂本剛.md "wikilink")の出身地である[奈良と読むことができる](https://ja.wikipedia.org/wiki/奈良県 "wikilink")（**N**eo **A**frica **R**ainbow **A**x）。
+タイトルは専ら造語である。プロジェクト名である[熱帯魚](https://ja.wikipedia.org/wiki/熱帯魚 "wikilink")・[ポリプテルス](https://ja.wikipedia.org/wiki/ポリプテルス "wikilink")・エンドリケリー・エンドリケリが生息し、[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")のサブ[ジャンルとしても誕生したアフリンカン](../Page/ポピュラー音楽のジャンル一覧.md "wikilink")・ミュージックの[アフリカ](../Page/アフリカ.md "wikilink")。自身の象徴として楽曲名や服装に使用してきた[レインボー](../Page/虹.md "wikilink")。Axは[英語](../Page/英語.md "wikilink")で[斧](../Page/斧.md "wikilink")の意味を持ち、[ギター](../Page/ギター.md "wikilink")を斧に見立てている。これらの言葉を組み合わせてタイトルが完成した。冒頭部の『Neo』は、そのまま「新しく作った」という意味である。また、このタイトルは[折句](../Page/折句.md "wikilink")になっており、それぞれの単語の[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")は[堂本剛](../Page/堂本剛.md "wikilink")の出身地である[奈良と読むことができる](../Page/奈良県.md "wikilink")（**N**eo **A**frica **R**ainbow **A**x）。
 
-実質先行シングルである『[空が泣くから](../Page/空が泣くから.md "wikilink")』は収録されたが、前作『Coward』以降に発売された『[The Rainbow Star](https://ja.wikipedia.org/wiki/The_Rainbow_Star "wikilink")』はアルバム未収録となった。本作には新曲として『Take U2 The Rainbow Star』が収録されているが、コンセプトが似ている点以外は、[メロディ](../Page/メロディ.md "wikilink")も全く別の曲となっており、アルバムバージョンとしても収録されなかった。
+実質先行シングルである『[空が泣くから](../Page/空が泣くから.md "wikilink")』は収録されたが、前作『Coward』以降に発売された『[The Rainbow Star](../Page/The_Rainbow_Star.md "wikilink")』はアルバム未収録となった。本作には新曲として『Take U2 The Rainbow Star』が収録されているが、コンセプトが似ている点以外は、[メロディ](../Page/メロディ.md "wikilink")も全く別の曲となっており、アルバムバージョンとしても収録されなかった。
 
 本作でも全般に渡り自身も[ギター](../Page/ギター.md "wikilink")で参加。サポートミュージシャンも、前年長期間にわたって行われたライブのサポートメンバーを中心に固められている。
 
 『空が泣くから』までは、"ENDLICHERI☆ENDLICHERI = produced by 堂本剛"の表記で、クレジット上プロデュースを本人名義で行っていたが、本作ではENDLICHERI☆ENDLICHERI名義でクレジットされている。
 
-初回限定盤には『[空が泣くから](../Page/空が泣くから.md "wikilink")』の[クリップ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVDが封入](../Page/DVD-Video.md "wikilink")、通常盤にはボーナストラックが収録されており、ブックレットは別デザインである。[ジャニーズに所属するグループのアルバムや](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")、KinKi Kids名義のアルバムとは異なり、アーティスト写真やブックレット部分を必要最低限に抑え、1人のミュージシャンとしてより脱アイドル的な造りになっている。
+初回限定盤には『[空が泣くから](../Page/空が泣くから.md "wikilink")』の[クリップ](../Page/ミュージック・ビデオ.md "wikilink")[DVDが封入](../Page/DVD-Video.md "wikilink")、通常盤にはボーナストラックが収録されており、ブックレットは別デザインである。[ジャニーズに所属するグループのアルバムや](../Page/ジャニーズ事務所.md "wikilink")、KinKi Kids名義のアルバムとは異なり、アーティスト写真やブックレット部分を必要最低限に抑え、1人のミュージシャンとしてより脱アイドル的な造りになっている。
 
 本作と、ドキュメンタリーDVD『胸宇宙 ENDLICHERI☆ENDLICHERI Documentary』（2007年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売）、ライブDVD『不完全 FUNKY WHITE DRAGON』（2007年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")発売）、計3作品に付属の応募券により、連動特典として抽選で「ならみやげ」が当たるキャンペーンを開催。本作にはその応募ハガキ及び、LIVE×ALBUMコラボ特典として、“ゴールドメダル”引き換え応募券を封入している。こちらはライブ会場で応募可能である。
 
-[オリコン週間アルバムチャートでは初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位。ソロ作品では堂本剛名義含め、初めて同チャート1位を逃した。
+[オリコン週間アルバムチャートでは初登場](../Page/オリコンチャート.md "wikilink")2位。ソロ作品では堂本剛名義含め、初めて同チャート1位を逃した。
 
 ## 収録曲
 
@@ -28,9 +28,9 @@
 ※シングル曲については各項目で解説しているため、ここでは説明を省略する。
 
 1.  **ENDLICHERI☆ENDLICHERI 2**
-    （作曲:[ENDLICHERI☆ENDLICHERI](../Page/堂本剛.md "wikilink")　編曲:[上田ケンジ](https://ja.wikipedia.org/wiki/上田ケンジ "wikilink")、ENDLICHERI☆ENDLICHERI）
+    （作曲:[ENDLICHERI☆ENDLICHERI](../Page/堂本剛.md "wikilink")　編曲:[上田ケンジ](../Page/上田ケンジ.md "wikilink")、ENDLICHERI☆ENDLICHERI）
       -
-        前作のオープニングナンバー『ENDLICHERI☆ENDLICHERI』に続くインスト曲。独自の[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")で知られる[ベーシスト](../Page/ベーシスト.md "wikilink")、[ラリー・グラハム](https://ja.wikipedia.org/wiki/ラリー・グラハム "wikilink")が[ベースとゲストボーカルで参加](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+        前作のオープニングナンバー『ENDLICHERI☆ENDLICHERI』に続くインスト曲。独自の[スラップ奏法](../Page/スラップ奏法.md "wikilink")で知られる[ベーシスト](../Page/ベーシスト.md "wikilink")、[ラリー・グラハム](../Page/ラリー・グラハム.md "wikilink")が[ベースとゲストボーカルで参加](../Page/ベース_\(弦楽器\).md "wikilink")。
 2.  **White DRAGON**
     （作詞・作曲:ENDLICHERI☆ENDLICHERI　編曲:[十川知司](../Page/十川ともじ.md "wikilink")、ENDLICHERI☆ENDLICHERI）
       -
@@ -50,7 +50,7 @@
 8.  **NARA**
     （作詞:ENDLICHERI☆ENDLICHERI　作曲・編曲:十川知司、ENDLICHERI☆ENDLICHERI）
       -
-        コンセプトでもある奈良をタイトルにした曲。形式上はインスト曲であるが、インストゥルメンタルナンバーに剛がセリフで語りを吹き込んでいる。セリフは作者の意向により歌詞カードには掲載されていない（実際は他のページにセリフが載っている）。また、この語りがシングル曲でもある次曲『空が泣くから』へ繋がっていく流れは、シングルとして未発表時に披露したライブでも見られた演出である。堂本剛の楽曲（KinKi Kids名義の作品でのソロ曲除く）としては、初めて作詞曲に自身以外がクレジットされた楽曲。[BGMとなるインスト部分の作曲は](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、プロジェクト開始以降[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")としてサポートする十川知司との共作となった。
+        コンセプトでもある奈良をタイトルにした曲。形式上はインスト曲であるが、インストゥルメンタルナンバーに剛がセリフで語りを吹き込んでいる。セリフは作者の意向により歌詞カードには掲載されていない（実際は他のページにセリフが載っている）。また、この語りがシングル曲でもある次曲『空が泣くから』へ繋がっていく流れは、シングルとして未発表時に披露したライブでも見られた演出である。堂本剛の楽曲（KinKi Kids名義の作品でのソロ曲除く）としては、初めて作詞曲に自身以外がクレジットされた楽曲。[BGMとなるインスト部分の作曲は](../Page/バックグラウンドミュージック.md "wikilink")、プロジェクト開始以降[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")としてサポートする十川知司との共作となった。
 9.  **[空が泣くから](../Page/空が泣くから.md "wikilink")**
     （作詞・作曲:ENDLICHERI☆ENDLICHERI　編曲:十川知司、ENDLICHERI☆ENDLICHERI　Brass Arrangement:下神竜哉、ENDLICHERI☆ENDLICHERI）
       -
@@ -61,14 +61,14 @@
     （作詞・作曲:ENDLICHERI☆ENDLICHERI　編曲:十川知司、ENDLICHERI☆ENDLICHERI　English Translation:CHAKA）
       -
         初の全編[英語](../Page/英語.md "wikilink")詞曲。2ndシングル『The Rainbow Star』をタイトルに模しているが、メロディは異なっており別の楽曲である。
-12. **[Blue Berry -NARA Fun9 Style-](https://ja.wikipedia.org/wiki/ソメイヨシノ_\(曲\) "wikilink")** ※通常盤のみ収録
+12. **[Blue Berry -NARA Fun9 Style-](../Page/ソメイヨシノ_\(曲\).md "wikilink")** ※通常盤のみ収録
     （作詞・作曲:ENDLICHERI☆ENDLICHERI　編曲:SC△LE）
       -
-        ENDLICHERI☆ENDLICHERIとしての1stシングル『[ソメイヨシノ](https://ja.wikipedia.org/wiki/ソメイヨシノ_\(曲\) "wikilink")』c/wの別テイク。ライブでもインストを除き1曲目で披露するなど、本人も気に入っている楽曲であるが、オリジナルバージョンも本作での形態同様通常盤にのみ収録されている。『ソメイヨシノ』の発売は前作『Coward』以前であるが、こちらにはオリジナルバージョンという形でも収録されなかった。
+        ENDLICHERI☆ENDLICHERIとしての1stシングル『[ソメイヨシノ](../Page/ソメイヨシノ_\(曲\).md "wikilink")』c/wの別テイク。ライブでもインストを除き1曲目で披露するなど、本人も気に入っている楽曲であるが、オリジナルバージョンも本作での形態同様通常盤にのみ収録されている。『ソメイヨシノ』の発売は前作『Coward』以前であるが、こちらにはオリジナルバージョンという形でも収録されなかった。
 13. **Rainbow wing**
     （作詞・作曲:ENDLICHERI☆ENDLICHERI　編曲:十川知司、ENDLICHERI☆ENDLICHERI）
       -
-        [歌詞](../Page/歌詞.md "wikilink")の言い回しは、[2002年](../Page/2002年.md "wikilink")・[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に行った本名名義でのソロ活動期に近いコンセプトである。
+        [歌詞](../Page/歌詞.md "wikilink")の言い回しは、[2002年](../Page/2002年.md "wikilink")・[2004年](../Page/2004年.md "wikilink")に行った本名名義でのソロ活動期に近いコンセプトである。
 14. **The Voice In My Heart**
     （作曲:ENDLICHERI☆ENDLICHERI　編曲:SC△LE）
       -
@@ -88,27 +88,27 @@
 ## 参加ミュージシャン
 
   - ENDLICHERI☆ENDLICHERI 2
-      - 上田ケンジ:[Programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink") & [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+      - 上田ケンジ:[Programming](../Page/ミュージックシーケンサー.md "wikilink") & [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
       - [ENDLICHERI☆ENDLICHERI](../Page/堂本剛.md "wikilink"):[Guitar](../Page/ギター.md "wikilink") & [Voice](../Page/声.md "wikilink")
-      - [LARRY GRAHAM](https://ja.wikipedia.org/wiki/ラリー・グラハム "wikilink"):Bass & Voice
+      - [LARRY GRAHAM](../Page/ラリー・グラハム.md "wikilink"):Bass & Voice
       - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink"):[Drums](../Page/ドラムセット.md "wikilink")
       - [STEVE ETO](https://ja.wikipedia.org/wiki/スティーブ・エトウ "wikilink"):[Percussion](../Page/打楽器.md "wikilink")
       - [十川知司](../Page/十川ともじ.md "wikilink"):[Clavinet](../Page/クラビネット.md "wikilink")
       - 下神竜哉:[Trumpet](../Page/トランペット.md "wikilink")
-      - [山岡広司](https://ja.wikipedia.org/wiki/山岡広司 "wikilink"):Programming
+      - [山岡広司](../Page/山岡広司.md "wikilink"):Programming
       - 斉藤和弘:Instrumental Technician
   - White DRAGON
       - 十川知司:[Synthesizer](../Page/シンセサイザー.md "wikilink") [Operation](https://ja.wikipedia.org/wiki/オペレーション "wikilink") & [Hammond Organ](../Page/ハモンドオルガン.md "wikilink")
       - ENDLICHERI☆ENDLICHERI:[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), Guitar & [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
       - [竹内朋康](../Page/竹内朋康.md "wikilink"):Guitar
       - 上田ケンジ:Bass
-      - [種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink"):Bass
+      - [種子田健](../Page/種子田健.md "wikilink"):Bass
       - [沢田周一](https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG#メンバー "wikilink"):Drums
       - STEVE TO:Percussion
       - 下神竜哉:Trumpet
       - 小坂 SASUKE 武巳:[Trombone](../Page/トロンボーン.md "wikilink")
       - 竹野昌邦:[Saxophone](../Page/サクソフォーン.md "wikilink")
-      - [浦嶋りんこ](https://ja.wikipedia.org/wiki/浦嶋りんこ "wikilink"):Chorus
+      - [浦嶋りんこ](../Page/浦嶋りんこ.md "wikilink"):Chorus
       - CHAKA:Chorus
       - Yû-ka:Chorus
       - TAMA:Chorus
@@ -131,7 +131,7 @@
       - 竹内朋康:Guitar
       - 上田ケンジ:Bass
       - [ひぐちしょうこ](https://ja.wikipedia.org/wiki/ひぐちしょうこ "wikilink"):Drums
-      - STEVE ETO:Percussion & [Voice Percussion](https://ja.wikipedia.org/wiki/ボイスパーカッション "wikilink")
+      - STEVE ETO:Percussion & [Voice Percussion](../Page/ボイスパーカッション.md "wikilink")
       - 下神竜哉:Trumpet
       - 小坂 SASUKE 武巳:Trombone
       - 竹野昌邦:Saxophone
@@ -144,7 +144,7 @@
   - FISH DANCE
       - 上田ケンジ:Programming & Bass
       - ENDLICHERI☆ENDLICHERI:Vocal
-      - [西川進](https://ja.wikipedia.org/wiki/西川進 "wikilink"):Guitar
+      - [西川進](../Page/西川進.md "wikilink"):Guitar
       - 名越由貴夫:Guitar
       - ひぐちしょうこ:Drums
       - STEVE ETO:Percussion
@@ -188,7 +188,7 @@
       - 十川知司:Programming
       - ENDLICHERI☆ENDLICHERI:Collage
   - 空が泣くから
-      - 十川知司:Programming, [Keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") & Bulbul Tarang
+      - 十川知司:Programming, [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") & Bulbul Tarang
       - ENDLICHERI☆ENDLICHERI:Vocal
       - 西川進:Guitar
       - 竹内朋康:Guitar
@@ -234,7 +234,7 @@
       - CHAKA:Chorus
       - Yû-ka:Chorus
       - TAMA:Chorus
-      - SC△LE:[Clap](https://ja.wikipedia.org/wiki/拍手 "wikilink")
+      - SC△LE:[Clap](../Page/拍手.md "wikilink")
       - 斉藤和弘:Instrumental Technician
       - 中島和春:Instrumental Technician
   - Rainbow wing

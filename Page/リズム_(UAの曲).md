@@ -6,7 +6,7 @@
 ## 概要
 
   - 「[情熱](../Page/情熱_\(UAの曲\).md "wikilink")」に続き、こちらもロングヒットを記録。初回プレスは限定ジャケット。
-  - カップリングの「赤いあなた」は、[オリジナル・アルバム未収録](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。後に、2003年発売の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Illuminate 〜the very best songs〜](https://ja.wikipedia.org/wiki/Illuminate_〜the_very_best_songs〜 "wikilink")』に収録された。
+  - カップリングの「赤いあなた」は、[オリジナル・アルバム未収録](../Page/スタジオ・アルバム.md "wikilink")。後に、2003年発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Illuminate 〜the very best songs〜](https://ja.wikipedia.org/wiki/Illuminate_〜the_very_best_songs〜 "wikilink")』に収録された。
   - 2017年には7インチ・シングルとして、「[太陽手に月は心の両手に](../Page/太陽手に月は心の両手に.md "wikilink")」「[情熱](../Page/情熱_\(UAの曲\).md "wikilink")」とともに同時リリースされた\[1\]。
 
 ## 収録曲
@@ -15,7 +15,7 @@
 
 ### リズム
 
-  - produced by [大沢伸一](https://ja.wikipedia.org/wiki/大沢伸一 "wikilink") (for [MONDO GROSSO](https://ja.wikipedia.org/wiki/MONDO_GROSSO "wikilink"))
+  - produced by [大沢伸一](../Page/大沢伸一.md "wikilink") (for [MONDO GROSSO](../Page/MONDO_GROSSO.md "wikilink"))
   - engineered by 三好敏彦 at PARADISE ST.EAST
   - vox : UA
   - track : 大沢伸一
@@ -35,7 +35,7 @@
   - trax + scrat珍 : KING 3K
   - hammond + other keys : LITTLE MASTER FLASH
   - thanx to KENNTARO, BONN, SHINGOSTAR, ROBO, +BOO
-  - KING 3K appears by courtesy of [Epic/Sony Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
+  - KING 3K appears by courtesy of [Epic/Sony Records](../Page/エピックレコードジャパン.md "wikilink")
 
 ### スタッフ
 

@@ -1,22 +1,22 @@
 > この記事は[T.I.](https://ja.wikipedia.org/wiki/T.I.)から翻訳されています。
 
 
-**T.I.**（T.I.、**ティーアイ**、本名：クリフォード・ジョセフ・ハリス・Jr.　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")出身の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[エグゼクティブプロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブプロデューサー "wikilink")である。グランド・ハッスル・レコードの[最高経営責任者](https://ja.wikipedia.org/wiki/最高経営責任者 "wikilink")でもある。\[1\] T.I.P.という[オルター・エゴ](https://ja.wikipedia.org/wiki/オルター・エゴ "wikilink")を自分の曲の中で演じることがある。ファンの間では、名前の「T.I.P.」は「Ten Inch Playa」の略だと言われている。\[2\]
-自身のことを『キング・オブ・ザ・サウス（南部の王）』と呼ぶことで有名。また、ラッパー[ファレル・ウィリアムス](https://ja.wikipedia.org/wiki/ファレル・ウィリアムス "wikilink")には、『サウスの[ジェイ・Z](https://ja.wikipedia.org/wiki/ジェイ・Z "wikilink")』と才能を称えられたことがある。
+**T.I.**（T.I.、**ティーアイ**、本名：クリフォード・ジョセフ・ハリス・Jr.　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")出身の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[エグゼクティブプロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブプロデューサー "wikilink")である。グランド・ハッスル・レコードの[最高経営責任者](../Page/最高経営責任者.md "wikilink")でもある。\[1\] T.I.P.という[オルター・エゴ](../Page/オルター・エゴ.md "wikilink")を自分の曲の中で演じることがある。ファンの間では、名前の「T.I.P.」は「Ten Inch Playa」の略だと言われている。\[2\]
+自身のことを『キング・オブ・ザ・サウス（南部の王）』と呼ぶことで有名。また、ラッパー[ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")には、『サウスの[ジェイ・Z](../Page/ジェイ・Z.md "wikilink")』と才能を称えられたことがある。
 
 ## バイオグラフィー
 
-[アトランタ](../Page/アトランタ.md "wikilink")のバンクヘッドで生まれる。\[3\] デビュー当時はステージネームを”T.I.P.”とするつもりだったが、彼が尊敬していたラッパーの一人、[Q-ティップ](../Page/ア・トライブ・コールド・クエスト.md "wikilink")（Q-Tip)と名前が重なるため、Pをとって”T.I.”に変更した。\[4\] ちなみに、彼が尊敬しているラッパーは他にも、[ジェイ・Z](https://ja.wikipedia.org/wiki/ジェイ・Z "wikilink")、[2パック](https://ja.wikipedia.org/wiki/2パック "wikilink")、[スカーフェイス](https://ja.wikipedia.org/wiki/スカーフェイス "wikilink")、[アイス・キューブ](https://ja.wikipedia.org/wiki/アイス・キューブ "wikilink")、[アウトキャスト](https://ja.wikipedia.org/wiki/アウトキャスト "wikilink")のアンドレ3000などがいる。
+[アトランタ](../Page/アトランタ.md "wikilink")のバンクヘッドで生まれる。\[3\] デビュー当時はステージネームを”T.I.P.”とするつもりだったが、彼が尊敬していたラッパーの一人、[Q-ティップ](../Page/ア・トライブ・コールド・クエスト.md "wikilink")（Q-Tip)と名前が重なるため、Pをとって”T.I.”に変更した。\[4\] ちなみに、彼が尊敬しているラッパーは他にも、[ジェイ・Z](../Page/ジェイ・Z.md "wikilink")、[2パック](../Page/2パック.md "wikilink")、[スカーフェイス](https://ja.wikipedia.org/wiki/スカーフェイス "wikilink")、[アイス・キューブ](../Page/アイス・キューブ.md "wikilink")、[アウトキャスト](../Page/アウトキャスト.md "wikilink")のアンドレ3000などがいる。
 
 ### キャリア
 
 [2001年](../Page/2001年.md "wikilink")のファースト[アルバム](../Page/アルバム.md "wikilink")『アイム・シリアス』はあまり注目を浴びなかったものの\[5\]、セカンドアルバム『トラップ・ミュージック』がヒップホップ・アルバムとして高い評価を受け\[6\]、またプラチナ・セールスを獲得したことや\[7\]、その後の数々の客演によってしだいに注目を浴びるようになる。
 
-[2003年](../Page/2003年.md "wikilink")に、[デスティニーズチャイルド](https://ja.wikipedia.org/wiki/デスティニーズチャイルド "wikilink")のシングル『ソルジャー』で[客演を務めたことで](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")、実力を証明することに成功する。
+[2003年](../Page/2003年.md "wikilink")に、[デスティニーズチャイルド](https://ja.wikipedia.org/wiki/デスティニーズチャイルド "wikilink")のシングル『ソルジャー』で[客演を務めたことで](../Page/フィーチャリング.md "wikilink")、実力を証明することに成功する。
 
 [2004年](../Page/2004年.md "wikilink")にリリースされたアルバム『アーバン・レジェンド』のファーストシングル『ブリング・エム・アウト』は、日本においてもクラブ・バンガーとして絶賛される。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には『キング』が[ビルボード](../Page/ビルボード.md "wikilink")のチャートで\#1となり、また一週目で522,000枚という記録的なセール枚数を出した（『キング』は2006年で最も売れたヒップホップアルバムとなる）。\[8\] その後の、[映画](../Page/映画.md "wikilink")「[ATL](https://ja.wikipedia.org/wiki/ATL_\(映画\) "wikilink")」での主演や、『[マイ・ラブ](https://ja.wikipedia.org/wiki/マイ・ラブ "wikilink")（[ジャスティン・ティンバーレイク](https://ja.wikipedia.org/wiki/ジャスティン・ティンバーレイク "wikilink")）』や『[ラヴィン・ユー・ロング・タイム リミックス](https://ja.wikipedia.org/wiki/E=mc2〜MIMI第2章 "wikilink")（[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")）』などのヒット曲での客演により、T.I.はヒップ･ホップ界の最重要人物の一人となった。
+[2006年](../Page/2006年.md "wikilink")には『キング』が[ビルボード](../Page/ビルボード.md "wikilink")のチャートで\#1となり、また一週目で522,000枚という記録的なセール枚数を出した（『キング』は2006年で最も売れたヒップホップアルバムとなる）。\[8\] その後の、[映画](../Page/映画.md "wikilink")「[ATL](https://ja.wikipedia.org/wiki/ATL_\(映画\) "wikilink")」での主演や、『[マイ・ラブ](https://ja.wikipedia.org/wiki/マイ・ラブ "wikilink")（[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")）』や『[ラヴィン・ユー・ロング・タイム リミックス](https://ja.wikipedia.org/wiki/E=mc2〜MIMI第2章 "wikilink")（[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")）』などのヒット曲での客演により、T.I.はヒップ･ホップ界の最重要人物の一人となった。
 
 [2007年](../Page/2007年.md "wikilink")に5枚目のアルバム『[T.I. vs T.I.P.](https://ja.wikipedia.org/wiki/T.I._vs_T.I.P. "wikilink")』をリリース。\[9\] インターネットの普及などによりヒップ･ホップアルバムの売り上げが低下している中、プラチナ・セールスを獲得した。しかし、同じ年に[銃](../Page/銃.md "wikilink")やサイレンサーなどの違法取引容疑で逮捕される。\[10\] 2007年10月26日、300万ドル（約3億3,000万円）の保釈金を支払い釈放された。\[11\] [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、T.I.は逮捕による自宅監禁の後、1500時間に及ぶ社会奉仕活動と共に6枚目のアルバム『ペーパー・トレイル：真実の行方』にとりかかった。\[12\] ファーストシングル『[ホワットエヴァー・ユー・ライク](https://ja.wikipedia.org/wiki/ホワットエヴァー・ユー・ライク "wikilink")』は全米チャートで1位にはい上がり、その後わずか6週で、5枚目のシングル『[マイアヒ・ライフ](https://ja.wikipedia.org/wiki/マイアヒ・ライフ "wikilink")』が全米1位となりT.I.の名を歴史に残した。また、『ペーパー・トレイル：真実の行方』は、『トラップ・ミュージック』や『キング』と並んで完成度の高いヒップ・ホップアルバムとして評価を受けた。\[13\]
 
@@ -26,11 +26,11 @@
 
 ## ビーフ　
 
-ギャングスタ・ラップをメインに活動し、「キング・オブ・ザ・サウス」と自称するT.I.は、常に様々なギャングスタ・ラッパーとの[ビーフ](https://ja.wikipedia.org/wiki/ビーフ "wikilink")に巻き込まれていた。主なビーフ相手には、[リュダクリス](https://ja.wikipedia.org/wiki/リュダクリス "wikilink")、リル・フリップ、ショーティー・ローがいる（皆サウスのラッパー）。
+ギャングスタ・ラップをメインに活動し、「キング・オブ・ザ・サウス」と自称するT.I.は、常に様々なギャングスタ・ラッパーとの[ビーフ](https://ja.wikipedia.org/wiki/ビーフ "wikilink")に巻き込まれていた。主なビーフ相手には、[リュダクリス](../Page/リュダクリス.md "wikilink")、リル・フリップ、ショーティー・ローがいる（皆サウスのラッパー）。
 
 ### リュダクリス
 
-T.I.と[リュダクリス](https://ja.wikipedia.org/wiki/リュダクリス "wikilink")の2人は、[Gユニット](https://ja.wikipedia.org/wiki/Gユニット "wikilink")のラッパー[ヤング・バック](https://ja.wikipedia.org/wiki/ヤング・バック "wikilink")のアルバムに収録される『ストンプ』という曲へゲストとして招待される予定であった。しかし、後日T.I.の部分がザ・ゲームと置き換えられてしまう。そのため、T.I.はリュダクリスを中傷したバースを収録（オリジナルバージョンで聴取可能）。その後、リュダクリスのレーベル[DTPのラッパーI](https://ja.wikipedia.org/wiki/リュダクリス#ディスタービング・ダ・ピース "wikilink")-20のビデオに”トラップ・ハウス”と書かれた服を着た男が討たれるシーンがあることにT.I.が激怒する（T.I.は、自身のアルバム名”トラップ・ミュージック”に由来すると主張）。ビーフはここからスタートした。
+T.I.と[リュダクリス](../Page/リュダクリス.md "wikilink")の2人は、[Gユニット](../Page/Gユニット.md "wikilink")のラッパー[ヤング・バック](https://ja.wikipedia.org/wiki/ヤング・バック "wikilink")のアルバムに収録される『ストンプ』という曲へゲストとして招待される予定であった。しかし、後日T.I.の部分がザ・ゲームと置き換えられてしまう。そのため、T.I.はリュダクリスを中傷したバースを収録（オリジナルバージョンで聴取可能）。その後、リュダクリスのレーベル[DTPのラッパーI](https://ja.wikipedia.org/wiki/リュダクリス#ディスタービング・ダ・ピース "wikilink")-20のビデオに”トラップ・ハウス”と書かれた服を着た男が討たれるシーンがあることにT.I.が激怒する（T.I.は、自身のアルバム名”トラップ・ミュージック”に由来すると主張）。ビーフはここからスタートした。
 [2007年](../Page/2007年.md "wikilink")の6月、[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")のサンセット・タワーで、リュダクリスの[マネージャー](../Page/マネージャー.md "wikilink")であるシャカ・ズールーがT.I.に殴られる事件が起こる。\[16\] T.I.はその後の[BET授賞式の場を借りて](../Page/BETアワード.md "wikilink")、騒ぎを起こしたことを謝罪した。それよりT.I.とリュダクリスの仲は改善し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の二人の[アルバム](../Page/アルバム.md "wikilink")にはお互いがゲスト・アーティストとして参加している。\[17\]
 
 ### リル・フリップ
@@ -39,7 +39,7 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 
 ### ショーティー・ロー
 
-2008年にT.I.は、一躍注目浴びたショーティー・ローとの激しいビーフに巻き込まれる。 ビーフは、ショーティー・ローがセカンドシングル『ドゥン・ドゥン』をリリースしてから形となった。彼はその曲においてT.I.が出身地をバンクヘッドだと自称していることに対し疑問を投げかけ、その後信憑性が薄いとしてリサーチに乗り出した。\[20\]　これに対してT.I.は、シングル『ホワット・アップ・ホワッツ・ハプニング』のビデオを、ショーティー・ローの本拠地であるボーウェン・ホームス[公営住宅](https://ja.wikipedia.org/wiki/公営住宅 "wikilink")で撮影した。\[21\] ビーフはその後、両陣営が*ダーティー・アワード*において衝突し、セレモニーを中止に追い込んだ所でクライマックスを迎えた。\[22\] ビーフは3月7日にT.I.の「お別れ会」（T.I.の懲役によるもの）においてショーティー・ローが出席したことで和解が確定された。\[23\] T.I.によると、両者の関係は、[メディア](../Page/メディア.md "wikilink")が騒ぎたてたことで悪化したように見えただけであり、「ビーフではなかった」という。\[24\]
+2008年にT.I.は、一躍注目浴びたショーティー・ローとの激しいビーフに巻き込まれる。 ビーフは、ショーティー・ローがセカンドシングル『ドゥン・ドゥン』をリリースしてから形となった。彼はその曲においてT.I.が出身地をバンクヘッドだと自称していることに対し疑問を投げかけ、その後信憑性が薄いとしてリサーチに乗り出した。\[20\]　これに対してT.I.は、シングル『ホワット・アップ・ホワッツ・ハプニング』のビデオを、ショーティー・ローの本拠地であるボーウェン・ホームス[公営住宅](../Page/公営住宅.md "wikilink")で撮影した。\[21\] ビーフはその後、両陣営が*ダーティー・アワード*において衝突し、セレモニーを中止に追い込んだ所でクライマックスを迎えた。\[22\] ビーフは3月7日にT.I.の「お別れ会」（T.I.の懲役によるもの）においてショーティー・ローが出席したことで和解が確定された。\[23\] T.I.によると、両者の関係は、[メディア](../Page/メディア.md "wikilink")が騒ぎたてたことで悪化したように見えただけであり、「ビーフではなかった」という。\[24\]
 
 ## ディスコグラフィー　
 
@@ -77,8 +77,8 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 <td><p><strong><em>I'm Serious</em></strong></p></td>
 <td><ul>
 <li>発売日: 2001年10月9日</li>
-<li>レーベル: <a href="https://ja.wikipedia.org/wiki/アリスタ・レコード" title="wikilink">Arista</a></li>
-<li>フォーマット: <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a>, <a href="../Page/レコード.md" title="wikilink">LP</a>, <a href="../Page/コンパクトカセット.md" title="wikilink">cassette</a>, <a href="https://ja.wikipedia.org/wiki/音楽配信" title="wikilink">digital download</a></li>
+<li>レーベル: <a href="../Page/アリスタ・レコード.md" title="wikilink">Arista</a></li>
+<li>フォーマット: <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a>, <a href="../Page/レコード.md" title="wikilink">LP</a>, <a href="../Page/コンパクトカセット.md" title="wikilink">cassette</a>, <a href="../Page/音楽配信.md" title="wikilink">digital download</a></li>
 <li>全米売上: 28万枚</li>
 </ul></td>
 <td><p>98</p></td>
@@ -89,7 +89,7 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 <td><p><strong><em>Trap Muzik</em></strong></p></td>
 <td><ul>
 <li>発売日: 2003年8月19日</li>
-<li>レーベル: Grand Hustle, <a href="https://ja.wikipedia.org/wiki/アトランティック・レコード" title="wikilink">Atlantic</a></li>
+<li>レーベル: Grand Hustle, <a href="../Page/アトランティック・レコード.md" title="wikilink">Atlantic</a></li>
 <li>フォーマット: CD, LP, cassette, digital download</li>
 <li>全米売上: 180万枚</li>
 </ul></td>
@@ -173,7 +173,7 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 <td><p><strong><em>Paperwork</em></strong></p></td>
 <td><ul>
 <li>発売日: 2014年10月21日</li>
-<li>レーベル: Grand Hustle, <a href="https://ja.wikipedia.org/wiki/コロムビア・レコード" title="wikilink">Columbia</a></li>
+<li>レーベル: Grand Hustle, <a href="../Page/コロムビア・レコード.md" title="wikilink">Columbia</a></li>
 <li>フォーマット: CD, LP, digital download</li>
 <li>全米売上: 24万枚</li>
 </ul></td>
@@ -192,22 +192,22 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 
 ### シングル
 
-  - アイム・シリアス feat. [ビーニ・マン](https://ja.wikipedia.org/wiki/ビーニ・マン "wikilink") - *I'm Serious feat. Beenie Man* （2001年）
+  - アイム・シリアス feat. [ビーニ・マン](../Page/ビーニ・マン.md "wikilink") - *I'm Serious feat. Beenie Man* （2001年）
   - 24・インチ - *24's* （2003年）
   - ビー・イージー - *Be Easy* （2003年）
   - ラバーバンド・マン - *Rubber Band Man* （2003年）
   - レッツ・ゲット・アウェイ feat. [ジャジー・フェイ](https://ja.wikipedia.org/wiki/ジャジー・フェイ "wikilink") - *Let's Get Away* （2003年）
-  - ブリング・エム・アウト - *Bring Em Out* （2004年）　[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")42位
+  - ブリング・エム・アウト - *Bring Em Out* （2004年）　[オリコン](../Page/オリコンチャート.md "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")42位
   - ユー・ドント・ノウ・ミー - *U Don't Know Me* （2004年）
   - Asap - *Asap* （2004年）
   - モチベーション - *Motivation* （2004年
   - ライド・ウィス・ミー - *Ride Wit Me* （2006年）
   - フロント・バック feat. [UGK](https://ja.wikipedia.org/wiki/UGK "wikilink") - *Front Back feat. UGK* （2006年）
-  - ホワット・ユー・ノウ - *What You Know* （2006年）　[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")32位
-  - ホワイ・ユー・ワナ - *Why You Wanna* （2006年）　[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")30位
-  - リヴ・イン・ザ・スカイ feat. [ジェイミー・フォックス](https://ja.wikipedia.org/wiki/ジェイミー・フォックス "wikilink") - *Live In The Sky feat. Jamie Foxx* （2006年）
+  - ホワット・ユー・ノウ - *What You Know* （2006年）　[オリコン](../Page/オリコンチャート.md "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")32位
+  - ホワイ・ユー・ワナ - *Why You Wanna* （2006年）　[オリコン](../Page/オリコンチャート.md "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")30位
+  - リヴ・イン・ザ・スカイ feat. [ジェイミー・フォックス](../Page/ジェイミー・フォックス.md "wikilink") - *Live In The Sky feat. Jamie Foxx* （2006年）
   - トップ・バック \[リミックス\]" feat. [ヤング・ジージー](https://ja.wikipedia.org/wiki/ヤング・ジージー "wikilink")、[ヤング・ドロー](https://ja.wikipedia.org/wiki/ヤング・ドロー "wikilink")、[ビッグ・カントリー・キング](https://ja.wikipedia.org/wiki/ビッグ・カントリー・キング "wikilink")、[B.G.](https://ja.wikipedia.org/wiki/B.G. "wikilink") - *Top Back* （2006年）
-  - ビッグ・シングス・ポッピン (ドゥー・イット) - *Big Things Poppin' (Do It)* （2007年）　[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[海外](../Page/海外.md "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")5位
+  - ビッグ・シングス・ポッピン (ドゥー・イット) - *Big Things Poppin' (Do It)* （2007年）　[オリコン](../Page/オリコンチャート.md "wikilink")[海外](../Page/海外.md "wikilink")[シングル](../Page/シングル.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")5位
   - ユー・ノウ・ホワット・イット・イズ feat. [ワイクリフ・ジョン](https://ja.wikipedia.org/wiki/ワイクリフ・ジョン "wikilink") - *You Know What It Is feat. Wyclef Jean* （2007年）
   - ハート feat. アルファ・メガ、[バスタ・ライムス](../Page/バスタ・ライムス.md "wikilink") - *Hurt feat. Alfa Mega & Busta Rhymes* （2007年）
   - タッチダウン feat. [エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink") - *Touchdown feat. Eminem* （2007年）
@@ -215,13 +215,13 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
   - [ホワットエヴァー・ユー・ライク](https://ja.wikipedia.org/wiki/ホワットエヴァー・ユー・ライク "wikilink") - *Whatever You Like* （2008年）　全米1位
   - スウィング・ユア・ラグ feat. スウィズ・ビーツ - *Swing Ya Rag feat. Swizz Beats* （2008年）　プロモ・シングル
   - ホワット・アップ・ホワッツ・ハプニング - *What Up, What's Haapnin*' （2008年）　プロモ・シングル
-  - [マイアヒ・ライフ](https://ja.wikipedia.org/wiki/マイアヒ・ライフ "wikilink") feat. [リアーナ](https://ja.wikipedia.org/wiki/リアーナ "wikilink") - *Live Your Life feat. Rihanna* （2008年）　全米1位
-  - [デッド・アンド・ゴーン](https://ja.wikipedia.org/wiki/デッド・アンド・ゴーン "wikilink") feat. [ジャスティン・ティンバーレイク](https://ja.wikipedia.org/wiki/ジャスティン・ティンバーレイク "wikilink") - *Dead And Gone feat. Justin Timberlake* （2009年）
+  - [マイアヒ・ライフ](https://ja.wikipedia.org/wiki/マイアヒ・ライフ "wikilink") feat. [リアーナ](../Page/リアーナ.md "wikilink") - *Live Your Life feat. Rihanna* （2008年）　全米1位
+  - [デッド・アンド・ゴーン](https://ja.wikipedia.org/wiki/デッド・アンド・ゴーン "wikilink") feat. [ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink") - *Dead And Gone feat. Justin Timberlake* （2009年）
   - リメンバー・ミー feat. [メアリー・J・ブライジ](https://ja.wikipedia.org/wiki/メアリー・J・ブライジ "wikilink") - *Remember Me feat. Mary J Blige*　（2009年）
 
 ## 映画出演
 
-  - [アメリカン・ギャングスター](https://ja.wikipedia.org/wiki/アメリカン・ギャングスター "wikilink") *American Gangster* (2007)
+  - [アメリカン・ギャングスター](../Page/アメリカン・ギャングスター.md "wikilink") *American Gangster* (2007)
   - [テイカーズ](https://ja.wikipedia.org/wiki/テイカーズ "wikilink") *Takers* (2010)
   - [泥棒は幸せのはじまり](https://ja.wikipedia.org/wiki/泥棒は幸せのはじまり "wikilink") *Identity Thief* (2013)
   - [アントマン](https://ja.wikipedia.org/wiki/アントマン_\(映画\) "wikilink") *Ant-Man* (2015)
@@ -233,7 +233,7 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 ## 関連項目
 
   - [MC](../Page/MC.md "wikilink")
-  - [リュダクリス](https://ja.wikipedia.org/wiki/リュダクリス "wikilink")
+  - [リュダクリス](../Page/リュダクリス.md "wikilink")
   - [アトランタ](../Page/アトランタ.md "wikilink")　
   - [エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")
 

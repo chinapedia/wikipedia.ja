@@ -1,20 +1,20 @@
 > この記事は[CHEERS FOR YOU](https://ja.wikipedia.org/wiki/CHEERS_FOR_YOU)から翻訳されています。
 
 
-「**CHEERS FOR YOU**」（チアーズ・フォー・ユー）は、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-231)
+「**CHEERS FOR YOU**」（チアーズ・フォー・ユー）は、[中山美穂](../Page/中山美穂.md "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-231)
 
 ## 解説
 
   - [キリン](../Page/麒麟麦酒.md "wikilink")「ラガービール開き '95」のCMソングに起用された。
-  - この曲の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は、自身の主演映画『[Love Letter](https://ja.wikipedia.org/wiki/Love_Letter_\(1995年の映画\) "wikilink")』で監督を務めた[岩井俊二](../Page/岩井俊二.md "wikilink")によるものだが、商品化はされていない。
-  - [日本テレビ系列の音楽番組](../Page/日本テレビ放送網.md "wikilink")『[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")』のランキングでは5位にランクインされ、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")と[MAXによって唄われている](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
+  - この曲の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は、自身の主演映画『[Love Letter](../Page/Love_Letter_\(1995年の映画\).md "wikilink")』で監督を務めた[岩井俊二](../Page/岩井俊二.md "wikilink")によるものだが、商品化はされていない。
+  - [日本テレビ系列の音楽番組](../Page/日本テレビ放送網.md "wikilink")『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")』のランキングでは5位にランクインされ、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")と[MAXによって唄われている](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
   - 音楽番組出演などによるプロモーション活動はほとんど行われなかった。
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")作曲の作品は、それまでシングルのカップリングやアルバムには収録されていたが、シングルA面曲としては初である。
+  - [久保田利伸](../Page/久保田利伸.md "wikilink")作曲の作品は、それまでシングルのカップリングやアルバムには収録されていたが、シングルA面曲としては初である。
 
 ## 収録曲
 
 1.  **CHEERS FOR YOU**
-      - 作詞: [小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")・中山美穂、作曲: [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")、編曲: Camus Celi and Andres Levin for C-n-A Productions
+      - 作詞: [小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")・中山美穂、作曲: [久保田利伸](../Page/久保田利伸.md "wikilink")、編曲: Camus Celi and Andres Levin for C-n-A Productions
 2.  **CHEERS FOR YOU (DANCE MIX)**
       - 作詞: 小竹正人・中山美穂、作曲: 久保田利伸、編曲: Camus Celi and Andres Levin for C-n-A Productions
           - REMIXED BY "BONZAI" JIM CARUSO

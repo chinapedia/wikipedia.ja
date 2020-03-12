@@ -1,23 +1,23 @@
 > この記事は[Mr.Boo!   ](https://ja.wikipedia.org/wiki/Mr.Boo!___)から翻訳されています。
 
 
-『**新世紀Mr.Boo\! ホイさま カミさま ホトケさま**』（原題：鬼馬狂想曲、英題：*Fantasia*）は、[2003年](../Page/2003年.md "wikilink")製作[2004年](../Page/2004年.md "wikilink")公開の[香港映画](https://ja.wikipedia.org/wiki/香港映画 "wikilink")。
+『**新世紀Mr.Boo\! ホイさま カミさま ホトケさま**』（原題：鬼馬狂想曲、英題：*Fantasia*）は、[2003年](../Page/2003年.md "wikilink")製作[2004年](../Page/2004年.md "wikilink")公開の[香港映画](../Page/香港映画.md "wikilink")。
 
 ## 概要
 
-1970年代に大ヒットした[マイケル・ホイ](https://ja.wikipedia.org/wiki/マイケル・ホイ "wikilink")主演のナンセンス・コメディ（実際は風刺だが）『[Mr.Boo\!ミスター・ブー](https://ja.wikipedia.org/wiki/Mr.Boo!ミスター・ブー "wikilink")（半斤八両）』を[ラウ・チンワン](../Page/ラウ・チンワン.md "wikilink")（劉青雲）主演でリメイクした映画だが、単なるリメイクでなく、ホイ3兄弟の出演した一連の映画に加え、70年代の香港映画に対する[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")と[オマージュ](https://ja.wikipedia.org/wiki/オマージュ "wikilink")を奉げた怪作で、もちろん既製の映画のパロディネタも満載である。
+1970年代に大ヒットした[マイケル・ホイ](../Page/マイケル・ホイ.md "wikilink")主演のナンセンス・コメディ（実際は風刺だが）『[Mr.Boo\!ミスター・ブー](../Page/Mr.Boo!ミスター・ブー.md "wikilink")（半斤八両）』を[ラウ・チンワン](../Page/ラウ・チンワン.md "wikilink")（劉青雲）主演でリメイクした映画だが、単なるリメイクでなく、ホイ3兄弟の出演した一連の映画に加え、70年代の香港映画に対する[パロディ](../Page/パロディ.md "wikilink")と[オマージュ](../Page/オマージュ.md "wikilink")を奉げた怪作で、もちろん既製の映画のパロディネタも満載である。
 
-劉はかつての主演であるマイケルを思わせる姿で演じており、古天楽は[サミュエル・ホイ](https://ja.wikipedia.org/wiki/サミュエル・ホイ "wikilink")を、陳小春は[リッキー・ホイ](https://ja.wikipedia.org/wiki/リッキー・ホイ "wikilink")が演じた役をそのまま演じている。
+劉はかつての主演であるマイケルを思わせる姿で演じており、古天楽は[サミュエル・ホイ](../Page/サミュエル・ホイ.md "wikilink")を、陳小春は[リッキー・ホイ](../Page/リッキー・ホイ.md "wikilink")が演じた役をそのまま演じている。
 
 マイケル自身も、魔法学校の校長役でカメオ出演している。ラウ・チンワンとの共演部分はアドリブでの撮影であり、物真似合戦の後にマイケルから「似ている」と言われ、メイキング映像で一瞬喜ぶ劉の姿が見られる。
 
-また、[セシリア・チャン](https://ja.wikipedia.org/wiki/セシリア・チャン "wikilink")演じる魔法使いの女の子は、1970年代に香港で人気のあったコメディシリーズの主人公である「[林亞珍](https://ja.wikipedia.org/wiki/林亞珍 "wikilink")」（[ジョセフィン・シャオ](https://ja.wikipedia.org/wiki/ジョセフィン・シャオ "wikilink")（蕭芳芳）が演じた）のキャラクターそのままであり、[ツインズが演じる](https://ja.wikipedia.org/wiki/ツインズ_\(香港のアイドルユニット\) "wikilink")2人も、同じく70年代に香港で活躍したアイドルユニット「筷子姊妹花」を真似たものである。その他にも、往時の香港コメディ映画や、1969年の時代設定から[アポロ11号](../Page/アポロ11号.md "wikilink")の月面着陸など、数多くの時代的要素を取り入れており、古き良き時代の香港や芸能界へのオマージュにもなっている。
+また、[セシリア・チャン](https://ja.wikipedia.org/wiki/セシリア・チャン "wikilink")演じる魔法使いの女の子は、1970年代に香港で人気のあったコメディシリーズの主人公である「[林亞珍](https://ja.wikipedia.org/wiki/林亞珍 "wikilink")」（[ジョセフィン・シャオ](https://ja.wikipedia.org/wiki/ジョセフィン・シャオ "wikilink")（蕭芳芳）が演じた）のキャラクターそのままであり、[ツインズが演じる](../Page/ツインズ_\(香港のアイドルユニット\).md "wikilink")2人も、同じく70年代に香港で活躍したアイドルユニット「筷子姊妹花」を真似たものである。その他にも、往時の香港コメディ映画や、1969年の時代設定から[アポロ11号](../Page/アポロ11号.md "wikilink")の月面着陸など、数多くの時代的要素を取り入れており、古き良き時代の香港や芸能界へのオマージュにもなっている。
 
 なお日本語吹き替え版では、[広川太一郎](../Page/広川太一郎.md "wikilink")がチンワンとマイケルの二役で新旧のBOOを吹き替えている。
 
 ## あらすじ
 
-1969年の香港、仕事の依頼が無く、いつも暇を持て余している「701私家探偵社」の所長マイケル（**チンワン**）は、部下で熱狂的な[ブルース・リー](../Page/ブルース・リー.md "wikilink")[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")のサム（**ルイス・クー**）、**首コルセット**を嵌めている（**''[リッキー](https://ja.wikipedia.org/wiki/リッキー・ホイ "wikilink")**でいうところのチョンボ''）フグ（**小春**）の2名とともに、久々の仕事として骨董屋の警備の仕事をするが、いつも部下をこき使うマイケルは、警備中2人に食事を与えず、内輪もめの挙句に泥棒に入られてしまい、骨董品がめちゃくちゃになってしまう。
+1969年の香港、仕事の依頼が無く、いつも暇を持て余している「701私家探偵社」の所長マイケル（**チンワン**）は、部下で熱狂的な[ブルース・リー](../Page/ブルース・リー.md "wikilink")[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")のサム（**ルイス・クー**）、**首コルセット**を嵌めている（**''[リッキー](../Page/リッキー・ホイ.md "wikilink")**でいうところのチョンボ''）フグ（**小春**）の2名とともに、久々の仕事として骨董屋の警備の仕事をするが、いつも部下をこき使うマイケルは、警備中2人に食事を与えず、内輪もめの挙句に泥棒に入られてしまい、骨董品がめちゃくちゃになってしまう。
 
 破損した骨董品を修理するために持ち帰ったマイケルらは、ガラクタの中のランプを投げ捨ててしまうが、投げ捨てたランプから[アクビちゃん](https://ja.wikipedia.org/wiki/アクビちゃん "wikilink")ならぬハミー・ポッポー（**セシリア**）という魔法使いの女の子(？)が出てきて3人は仰天する。が、彼女は3つの願いを叶えないと魔法学校を卒業できないという落ちこぼれで・・・
 
@@ -28,8 +28,8 @@
   - 脚本：[オー・キンイー](https://ja.wikipedia.org/wiki/オー・キンイー "wikilink")（欧健児）
   - 動作設計：[ユン・ブン](https://ja.wikipedia.org/wiki/ユン・ブン "wikilink")（元彬）
   - 音楽：[テディ・ロビン](https://ja.wikipedia.org/wiki/テディ・ロビン "wikilink")（泰廸羅賓）
-  - 主題歌：[ロナルド・チェン](https://ja.wikipedia.org/wiki/ロナルド・チェン "wikilink") （鄭中基）※「天才與白痴」（[1975年](../Page/1975年.md "wikilink")）
-  - [カヴァー](https://ja.wikipedia.org/wiki/カヴァー "wikilink")元：[サミュエル・ホイ](https://ja.wikipedia.org/wiki/サミュエル・ホイ "wikilink")（許冠傑）
+  - 主題歌：[ロナルド・チェン](../Page/ロナルド・チェン.md "wikilink") （鄭中基）※「天才與白痴」（[1975年](../Page/1975年.md "wikilink")）
+  - [カヴァー](https://ja.wikipedia.org/wiki/カヴァー "wikilink")元：[サミュエル・ホイ](../Page/サミュエル・ホイ.md "wikilink")（許冠傑）
 
 ※「天才與白痴」のカヴァーは一部サミュエル版と歌詞を変えている個所がある。
 
@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p>サム（傑）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・クー" title="wikilink">ルイス・クー</a> （古天楽）</p></td>
+<td><p><a href="../Page/ルイス・クー.md" title="wikilink">ルイス・クー</a> （古天楽）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桐本琢也" title="wikilink">桐本琢也</a></p></td>
 </tr>
 <tr class="odd">
@@ -62,17 +62,17 @@
 <tr class="even">
 <td><p>ハミー・ポッポー（哈米波波）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セシリア・チャン" title="wikilink">セシリア・チャン</a>（張栢芝）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/雨蘭咲木子" title="wikilink">雨蘭咲木子</a></p></td>
+<td><p><a href="../Page/雨蘭咲木子.md" title="wikilink">雨蘭咲木子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>キン（奸人堅）<br />
 / 強盗団ボス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フランシス・ン" title="wikilink">フランシス・ン</a>（呉鎮宇）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅生隆之" title="wikilink">菅生隆之</a></p></td>
+<td><p><a href="../Page/菅生隆之.md" title="wikilink">菅生隆之</a></p></td>
 </tr>
 <tr class="even">
 <td><p>お箸ツインズ1（筷子姉妹花）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャーリーン・チョイ" title="wikilink">シャーリーン・チョイ</a>（蔡卓妍）</p></td>
+<td><p><a href="../Page/シャーリーン・チョイ.md" title="wikilink">シャーリーン・チョイ</a>（蔡卓妍）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/原島梢" title="wikilink">原島梢</a></p></td>
 </tr>
 <tr class="odd">
@@ -98,12 +98,12 @@
 </tr>
 <tr class="odd">
 <td><p>魔法学校校長</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ホイ" title="wikilink">マイケル・ホイ</a>（許冠文）</p></td>
+<td><p><a href="../Page/マイケル・ホイ.md" title="wikilink">マイケル・ホイ</a>（許冠文）</p></td>
 <td><p>広川太一郎</p></td>
 </tr>
 <tr class="even">
 <td><p>バグ(人間体)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンディ・ラウ" title="wikilink">アンディ・ラウ</a>（劉徳華）</p></td>
+<td><p><a href="../Page/アンディ・ラウ.md" title="wikilink">アンディ・ラウ</a>（劉徳華）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -114,14 +114,14 @@
 </tbody>
 </table>
 
-  - 吹き替え版その他声の出演：[丸山壮史](https://ja.wikipedia.org/wiki/丸山壮史 "wikilink")、[青木強](https://ja.wikipedia.org/wiki/青木強 "wikilink")、[近藤広務](https://ja.wikipedia.org/wiki/近藤広務 "wikilink")、[瀬尾恵子](https://ja.wikipedia.org/wiki/瀬尾恵子 "wikilink")、[御園行洋](https://ja.wikipedia.org/wiki/御園行洋 "wikilink")、[山端零](https://ja.wikipedia.org/wiki/山端零 "wikilink")、[後藤拓](https://ja.wikipedia.org/wiki/後藤拓 "wikilink")
+  - 吹き替え版その他声の出演：[丸山壮史](../Page/丸山壮史.md "wikilink")、[青木強](https://ja.wikipedia.org/wiki/青木強 "wikilink")、[近藤広務](https://ja.wikipedia.org/wiki/近藤広務 "wikilink")、[瀬尾恵子](https://ja.wikipedia.org/wiki/瀬尾恵子 "wikilink")、[御園行洋](../Page/御園行洋.md "wikilink")、[山端零](https://ja.wikipedia.org/wiki/山端零 "wikilink")、[後藤拓](https://ja.wikipedia.org/wiki/後藤拓 "wikilink")
   - 演出：中村光宏、翻訳：高師たまみ、調整：加藤剛（AMGスタジオ）、制作：フォアクロス
 
 ## 関連項目
 
-  - [Mr.BOO\!](https://ja.wikipedia.org/wiki/Mr.BOO! "wikilink")
+  - [Mr.BOO\!](../Page/Mr.BOO!.md "wikilink")
   - [ハリー・ポッター](https://ja.wikipedia.org/wiki/ハリー・ポッター "wikilink")
-  - [ジュラシック・パーク](https://ja.wikipedia.org/wiki/ジュラシック・パーク "wikilink")
+  - [ジュラシック・パーク](../Page/ジュラシック・パーク.md "wikilink")
 
 ## 外部リンク
 

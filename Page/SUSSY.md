@@ -3,9 +3,9 @@
 
 **SUSSY**（スッシー、本名:**古屋正仁**（ふるや まさひと）、[1974年](../Page/1974年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。
 
-出身は[山梨県](../Page/山梨県.md "wikilink")[塩山市](https://ja.wikipedia.org/wiki/塩山市 "wikilink")（現・[甲州市](https://ja.wikipedia.org/wiki/甲州市 "wikilink")）で、星座は[水瓶座](../Page/宝瓶宮.md "wikilink")、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[SEX MACHINEGUNSの元メンバーで](../Page/SEX_MACHINEGUNS.md "wikilink")、現在はINO HEAD PARKで活動している。バンド名の由来は「[井の頭公園](https://ja.wikipedia.org/wiki/井の頭公園 "wikilink")」の直訳で、SEX MACHINEGUNSから[HM要素を抜き](../Page/ヘヴィメタル.md "wikilink")、コミカルな要素を強調したようなコンセプトのバンドである。
+出身は[山梨県](../Page/山梨県.md "wikilink")[塩山市](../Page/塩山市.md "wikilink")（現・[甲州市](../Page/甲州市.md "wikilink")）で、星座は[水瓶座](../Page/宝瓶宮.md "wikilink")、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[SEX MACHINEGUNSの元メンバーで](../Page/SEX_MACHINEGUNS.md "wikilink")、現在はINO HEAD PARKで活動している。バンド名の由来は「[井の頭公園](https://ja.wikipedia.org/wiki/井の頭公園 "wikilink")」の直訳で、SEX MACHINEGUNSから[HM要素を抜き](../Page/ヘヴィメタル.md "wikilink")、コミカルな要素を強調したようなコンセプトのバンドである。
 
-ステージネームの由来は、「古屋寿人」と書き間違えた名前を[Anchang](https://ja.wikipedia.org/wiki/Anchang "wikilink")が更に「すしひと」と読み間違え、それが渾名として広まり、定着したことがきっかけとされる（SEX MACHINEGUNS加入直後のチラシなどには「寿司人」と書かれていた）。
+ステージネームの由来は、「古屋寿人」と書き間違えた名前を[Anchang](../Page/Anchang.md "wikilink")が更に「すしひと」と読み間違え、それが渾名として広まり、定着したことがきっかけとされる（SEX MACHINEGUNS加入直後のチラシなどには「寿司人」と書かれていた）。
 
 ## 略歴
 
@@ -21,7 +21,7 @@
 
 **ギター**\[1\]
 
-  - [ESP](https://ja.wikipedia.org/wiki/イーエスピー "wikilink") ハレンチV-NIGHT MIRROR
+  - [ESP](../Page/イーエスピー.md "wikilink") ハレンチV-NIGHT MIRROR
   - ESP ハレンチV-BLACK NIGHT
   - ESP ハレンチV-NIGHT LIFE
   - ESP ハレンチV-VIRGIN NIGHT

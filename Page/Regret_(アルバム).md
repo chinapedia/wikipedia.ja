@@ -3,15 +3,15 @@
 
 『**regret**』（リグレット）は、[1999年](../Page/1999年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に発売された[I've](../Page/I've.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")アルバム。
 
-[I've](../Page/I've.md "wikilink")ではゲームやアニメ・映画などに楽曲を提供しているが、その中から女声ボーカルのゲーム楽曲を中心に集めたコンピレーション・アルバムをGIRLS COMPILATIONシリーズとして発売しており、その第1弾が本作である。品番はICD-66001で、ソフトウェア取扱店での販売となった。[Keyの](https://ja.wikipedia.org/wiki/Key_\(ゲームブランド\) "wikilink")[折戸伸治](../Page/折戸伸治.md "wikilink")がブックレット内にてコメントを載せており、その中でI'veの音楽を「[どさんこ](https://ja.wikipedia.org/wiki/道産子 "wikilink")[ポップ](../Page/ポピュラー音楽.md "wikilink")」と表現している。またこのCDのみ、アーティスト「AKI」が別名の「Y.AKI」となっている。またR.I.EもブックレットにはRIEと誤字記載されている。
+[I've](../Page/I've.md "wikilink")ではゲームやアニメ・映画などに楽曲を提供しているが、その中から女声ボーカルのゲーム楽曲を中心に集めたコンピレーション・アルバムをGIRLS COMPILATIONシリーズとして発売しており、その第1弾が本作である。品番はICD-66001で、ソフトウェア取扱店での販売となった。[Keyの](../Page/Key_\(ゲームブランド\).md "wikilink")[折戸伸治](../Page/折戸伸治.md "wikilink")がブックレット内にてコメントを載せており、その中でI'veの音楽を「[どさんこ](https://ja.wikipedia.org/wiki/道産子 "wikilink")[ポップ](../Page/ポピュラー音楽.md "wikilink")」と表現している。またこのCDのみ、アーティスト「AKI」が別名の「Y.AKI」となっている。またR.I.EもブックレットにはRIEと誤字記載されている。
 
 ## 収録曲
 
 1.  **FUCK ME／美妃**
-      - 作詞・作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
-2.  **[Last regrets](https://ja.wikipedia.org/wiki/Last_regrets/風の辿り着く場所 "wikilink")／[彩菜](https://ja.wikipedia.org/wiki/彩菜 "wikilink")**
-      - 作詞：[麻枝准](../Page/麻枝准.md "wikilink")／作曲：[Key](https://ja.wikipedia.org/wiki/Key_\(ゲームブランド\) "wikilink")／編曲：高瀬一矢
-3.  **[そよ風の行方](https://ja.wikipedia.org/wiki/Xchange2 "wikilink")／[AKI](https://ja.wikipedia.org/wiki/AKI_\(女性歌手\) "wikilink")**
+      - 作詞・作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
+2.  **[Last regrets](https://ja.wikipedia.org/wiki/Last_regrets/風の辿り着く場所 "wikilink")／[彩菜](../Page/彩菜.md "wikilink")**
+      - 作詞：[麻枝准](../Page/麻枝准.md "wikilink")／作曲：[Key](../Page/Key_\(ゲームブランド\).md "wikilink")／編曲：高瀬一矢
+3.  **[そよ風の行方](../Page/Xchange2.md "wikilink")／[AKI](../Page/AKI_\(女性歌手\).md "wikilink")**
       - 作詞・作曲・編曲：高瀬一矢
 4.  **I will…／MARY**
       - 作詞：DIE・JUNO／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：高瀬一矢
@@ -37,20 +37,20 @@
 
 ## タイアップ
 
-| 曲名                 | タイアップ                                                                                                       |
-| ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| FUCK ME            | [PCゲーム](../Page/パソコンゲーム.md "wikilink")『吐溜 -TRASH-』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
-| Last regrets       | PCゲーム『[Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")』オープニングテーマ                             |
-| そよ風の行方             | PCゲーム『[Xchange2](https://ja.wikipedia.org/wiki/Xchange2 "wikilink")』オープニングテーマ                               |
-| I will…            | PCゲーム『SweetPalace』オープニングテーマ                                                                                 |
-| 新しい恋のかたち           | PCゲーム『Ribbon2』オープニングテーマ                                                                                     |
-| 美しく生きたい            | PCゲーム『吐溜 -TRASH-』エンディングテーマ                                                                                  |
-| Sweet 〜恋しくて〜       | PCゲーム『SweetPalace』オープニングテーマ                                                                                 |
-| 季節の雫               | PCゲーム『PILE DRIVER』オープニングテーマ                                                                                 |
-| Dream to new world | PCゲーム『こすちゅ～む』オープニングテーマ                                                                                      |
-| One small day      | PCゲーム『SweetPalace』エンディングテーマ                                                                                 |
-| Cross talk         | PCゲーム『ツグナヒ』エンディングテーマ                                                                                        |
-| 風の辿り着く場所           | PCゲーム『Kanon』エンディングテーマ                                                                                       |
+| 曲名                 | タイアップ                                                                                    |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| FUCK ME            | [PCゲーム](../Page/パソコンゲーム.md "wikilink")『吐溜 -TRASH-』[オープニングテーマ](../Page/主題歌.md "wikilink") |
+| Last regrets       | PCゲーム『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』オープニングテーマ                             |
+| そよ風の行方             | PCゲーム『[Xchange2](../Page/Xchange2.md "wikilink")』オープニングテーマ                               |
+| I will…            | PCゲーム『SweetPalace』オープニングテーマ                                                              |
+| 新しい恋のかたち           | PCゲーム『Ribbon2』オープニングテーマ                                                                  |
+| 美しく生きたい            | PCゲーム『吐溜 -TRASH-』エンディングテーマ                                                               |
+| Sweet 〜恋しくて〜       | PCゲーム『SweetPalace』オープニングテーマ                                                              |
+| 季節の雫               | PCゲーム『PILE DRIVER』オープニングテーマ                                                              |
+| Dream to new world | PCゲーム『こすちゅ～む』オープニングテーマ                                                                   |
+| One small day      | PCゲーム『SweetPalace』エンディングテーマ                                                              |
+| Cross talk         | PCゲーム『ツグナヒ』エンディングテーマ                                                                     |
+| 風の辿り着く場所           | PCゲーム『Kanon』エンディングテーマ                                                                    |
 
 ## 外部リンク
 

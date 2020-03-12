@@ -1,8 +1,8 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**夢幻戦士ヴァリスII**（**むげんせんしヴァリス**、**Valis: The Fantasm Soldier**）は、[1989年](../Page/1989年.md "wikilink")に[日本テレネットが発売した](https://ja.wikipedia.org/wiki/日本テレネット_\(ゲーム会社\) "wikilink")、横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
-1986年度制作の『[夢幻戦士ヴァリス](https://ja.wikipedia.org/wiki/夢幻戦士ヴァリス "wikilink")』の続編。[開発](https://ja.wikipedia.org/wiki/開発 "wikilink")は同社・[レーザーソフト](https://ja.wikipedia.org/wiki/レーザーソフト "wikilink")。
+**夢幻戦士ヴァリスII**（**むげんせんしヴァリス**、**Valis: The Fantasm Soldier**）は、[1989年](../Page/1989年.md "wikilink")に[日本テレネットが発売した](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")、横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+1986年度制作の『[夢幻戦士ヴァリス](../Page/夢幻戦士ヴァリス.md "wikilink")』の続編。[開発](../Page/開発.md "wikilink")は同社・[レーザーソフト](https://ja.wikipedia.org/wiki/レーザーソフト "wikilink")。
 
 ## 作品概要
 
@@ -13,7 +13,7 @@ PC版に存在していたマップの迷路要素が排除されてオーソド
 
 [メガドライブ](../Page/メガドライブ.md "wikilink")版(SDヴァリス)は1992年2月14日に発売。**「SDヴァリス」**のタイトルでPCエンジン版のストーリーをなぞらえたパロディとして制作された。ステージ構成はオリジナル版と大きく異なる。PC版の着せ替え要素を踏襲している。
 
-[2011年](../Page/2011年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")よりPCエンジン版が[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")（[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")・[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）で配信された。
+[2011年](../Page/2011年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")よりPCエンジン版が[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")（[PSP](../Page/PlayStation_Portable.md "wikilink")・[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）で配信された。
 
 ## ストーリー
 
@@ -145,7 +145,7 @@ PC版、PCエンジン版の順に設定を解説する。
 
 ## 関連項目
 
-  - [夢幻戦士ヴァリス](https://ja.wikipedia.org/wiki/夢幻戦士ヴァリス "wikilink")
+  - [夢幻戦士ヴァリス](../Page/夢幻戦士ヴァリス.md "wikilink")
 
 ## 脚注
 

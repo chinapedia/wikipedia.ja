@@ -9,7 +9,7 @@
 
 1.  **真夜中のドア〜Stay With Me** (5'10")
       -
-        作詞：[三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")／作曲：[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")／編曲：林哲司
+        作詞：[三浦徳子](../Page/三浦徳子.md "wikilink")／作曲：[林哲司](../Page/林哲司.md "wikilink")／編曲：林哲司
         ※[デビューシングルと異なる](https://ja.wikipedia.org/wiki/松原みき#シングル "wikilink")[バージョン](https://ja.wikipedia.org/wiki/バージョン "wikilink")が収録されている（イントロがバックコーラスのみ）。\[1\]
 2.  **It's So Creamy** (3'41")
       -
@@ -22,13 +22,13 @@
         作詞：森田由美／作曲：佐藤健／編曲：佐藤健
 5.  **His Woman** (4'04")
       -
-        作詞：三浦徳子／作曲：[芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink")／編曲：芳野藤丸
+        作詞：三浦徳子／作曲：[芳野藤丸](../Page/芳野藤丸.md "wikilink")／編曲：芳野藤丸
 
 ### Side B
 
 1.  **Manhattan Wind** (3'27")
       -
-        作詞：[及川恒平](https://ja.wikipedia.org/wiki/及川恒平 "wikilink")／作曲：[惣領泰則](https://ja.wikipedia.org/wiki/惣領泰則 "wikilink")／編曲：惣領泰則
+        作詞：[及川恒平](../Page/及川恒平.md "wikilink")／作曲：[惣領泰則](../Page/惣領泰則.md "wikilink")／編曲：惣領泰則
 2.  **愛はエネルギー** (3'36")
       -
 
@@ -38,7 +38,7 @@
         作詞：三浦徳子／作曲：林哲司／編曲：林哲司
 4.  **Trouble Maker** (4'32")
       -
-        作詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")／作曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")／編曲：梅垣達志
+        作詞：[竜真知子](../Page/竜真知子.md "wikilink")／作曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")／編曲：梅垣達志
 5.  **Mind Game** (3'57")
       -
         作詞：竜真知子／作曲：梅垣達志／編曲：梅垣達志
@@ -50,33 +50,33 @@
 
 ### Side A
 
-1.  [渋井博](https://ja.wikipedia.org/wiki/渋井博 "wikilink")(keyboards)、[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")(bass)、[林立夫](https://ja.wikipedia.org/wiki/林立夫 "wikilink")(drums)、[松原正樹](../Page/松原正樹.md "wikilink")(E. guitar)、[穴井忠臣](https://ja.wikipedia.org/wiki/穴井忠臣 "wikilink")(percussion)
+1.  [渋井博](https://ja.wikipedia.org/wiki/渋井博 "wikilink")(keyboards)、[後藤次利](../Page/後藤次利.md "wikilink")(bass)、[林立夫](../Page/林立夫.md "wikilink")(drums)、[松原正樹](../Page/松原正樹.md "wikilink")(E. guitar)、[穴井忠臣](https://ja.wikipedia.org/wiki/穴井忠臣 "wikilink")(percussion)
 2.  [美乃家セントラル・ステイション](https://ja.wikipedia.org/wiki/美乃家セントラル・ステイション "wikilink")
       -
         [小田健二郎](https://ja.wikipedia.org/wiki/小田健二郎 "wikilink")(keyboards)、[六川正彦](https://ja.wikipedia.org/wiki/六川正彦 "wikilink")(bass)、[マーティー・ブレイシー](https://ja.wikipedia.org/wiki/マーティー・ブレイシー "wikilink")(drums)、[土屋潔](https://ja.wikipedia.org/wiki/土屋潔 "wikilink")(E. guitar)、[高杉登](https://ja.wikipedia.org/wiki/高杉登 "wikilink")(percussion)
 3.  A2に同じ
 4.  A2に同じ
-5.  [SHOGUN](https://ja.wikipedia.org/wiki/SHOGUN "wikilink")
+5.  [SHOGUN](../Page/SHOGUN.md "wikilink")
       -
-        [大谷和夫](../Page/大谷和夫.md "wikilink")(keyboards)、[長岡道夫](https://ja.wikipedia.org/wiki/ミッチー長岡 "wikilink")(bass)、[山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")(drums)、[芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink")(E. guitar)、[中島御](https://ja.wikipedia.org/wiki/中島御 "wikilink")(percussion)
+        [大谷和夫](../Page/大谷和夫.md "wikilink")(keyboards)、[長岡道夫](https://ja.wikipedia.org/wiki/ミッチー長岡 "wikilink")(bass)、[山木秀夫](../Page/山木秀夫.md "wikilink")(drums)、[芳野藤丸](../Page/芳野藤丸.md "wikilink")(E. guitar)、[中島御](https://ja.wikipedia.org/wiki/中島御 "wikilink")(percussion)
 
 ### Side B
 
-1.  [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")(keyboards)、[金田一昌吾](https://ja.wikipedia.org/wiki/金田一昌吾 "wikilink")(bass)、[市原康](https://ja.wikipedia.org/wiki/市原康 "wikilink")(drums)、[松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")(E. guitar)、穴井忠臣(percussion)
-2.  渋井博(keyboards)、後藤次利(bass)、林立夫(drums)、[今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")(E. guitar)、[斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")(percussion)
+1.  [井上鑑](../Page/井上鑑.md "wikilink")(keyboards)、[金田一昌吾](https://ja.wikipedia.org/wiki/金田一昌吾 "wikilink")(bass)、[市原康](https://ja.wikipedia.org/wiki/市原康 "wikilink")(drums)、[松木恒秀](https://ja.wikipedia.org/wiki/松木恒秀 "wikilink")(E. guitar)、穴井忠臣(percussion)
+2.  渋井博(keyboards)、後藤次利(bass)、林立夫(drums)、[今剛](../Page/今剛.md "wikilink")(E. guitar)、[斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")(percussion)
 3.  A1に同じ
-4.  渋井博(keyboards)、後藤次利(bass)、林立夫(drums)、松原正樹(E. guitar)、[吉川忠英](../Page/吉川忠英.md "wikilink")(A. guitar)、[橋田正人](https://ja.wikipedia.org/wiki/橋田正人 "wikilink")(percussion)
+4.  渋井博(keyboards)、後藤次利(bass)、林立夫(drums)、松原正樹(E. guitar)、[吉川忠英](../Page/吉川忠英.md "wikilink")(A. guitar)、[橋田正人](../Page/橋田正人.md "wikilink")(percussion)
 5.  B4に同じ
 6.  B1に同じ
 
 ### Side A,B
 
   -
-    [大野アンサンブル](https://ja.wikipedia.org/wiki/大野アンサンブル "wikilink")(strings)、[田代真紀子](https://ja.wikipedia.org/wiki/矢嶋マキ "wikilink")(synthesizers)、佐藤健(synthesizers)、渋井博(synthesizers)、[岸義和](https://ja.wikipedia.org/wiki/岸義和 "wikilink")(trumpet)、[白山文夫](https://ja.wikipedia.org/wiki/白山文夫 "wikilink")(trumpet)、[数原晋](../Page/数原晋.md "wikilink")(trumpet)、[鍵和田道男](https://ja.wikipedia.org/wiki/鍵和田道男 "wikilink")(trombone)、[新井英治](https://ja.wikipedia.org/wiki/新井英治 "wikilink")(trombone)、[岡田澄雄](https://ja.wikipedia.org/wiki/岡田澄雄 "wikilink")(trombone)、[ジェイク・H・コンセプション](https://ja.wikipedia.org/wiki/ジェイク・H・コンセプション "wikilink")(A.sax)、[村岡健](https://ja.wikipedia.org/wiki/村岡健 "wikilink")(T. sax)、[砂原俊三](https://ja.wikipedia.org/wiki/砂原俊三 "wikilink")(B. sax)、梅垣達志(chorus)、[尾形道子](https://ja.wikipedia.org/wiki/尾形道子 "wikilink")(chorus)、[TIME FIVE](https://ja.wikipedia.org/wiki/タイム・ファイブ "wikilink")(chorus)、[EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")(chorus)
+    [大野アンサンブル](https://ja.wikipedia.org/wiki/大野アンサンブル "wikilink")(strings)、[田代真紀子](https://ja.wikipedia.org/wiki/矢嶋マキ "wikilink")(synthesizers)、佐藤健(synthesizers)、渋井博(synthesizers)、[岸義和](https://ja.wikipedia.org/wiki/岸義和 "wikilink")(trumpet)、[白山文夫](https://ja.wikipedia.org/wiki/白山文夫 "wikilink")(trumpet)、[数原晋](../Page/数原晋.md "wikilink")(trumpet)、[鍵和田道男](https://ja.wikipedia.org/wiki/鍵和田道男 "wikilink")(trombone)、[新井英治](https://ja.wikipedia.org/wiki/新井英治 "wikilink")(trombone)、[岡田澄雄](https://ja.wikipedia.org/wiki/岡田澄雄 "wikilink")(trombone)、[ジェイク・H・コンセプション](https://ja.wikipedia.org/wiki/ジェイク・H・コンセプション "wikilink")(A.sax)、[村岡健](https://ja.wikipedia.org/wiki/村岡健 "wikilink")(T. sax)、[砂原俊三](https://ja.wikipedia.org/wiki/砂原俊三 "wikilink")(B. sax)、梅垣達志(chorus)、[尾形道子](https://ja.wikipedia.org/wiki/尾形道子 "wikilink")(chorus)、[TIME FIVE](../Page/タイム・ファイブ.md "wikilink")(chorus)、[EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")(chorus)
 
 ## スタッフ・スタジオ
 
-  - [一口坂スタジオ](https://ja.wikipedia.org/wiki/一口坂スタジオ "wikilink")
+  - [一口坂スタジオ](../Page/一口坂スタジオ.md "wikilink")
 
 ## 関連シングル・ベストアルバム
 
@@ -85,7 +85,7 @@
 <!-- end list -->
 
   -
-    [EP](https://ja.wikipedia.org/wiki/シングル#EP.E7.9B.A4 "wikilink") W-17 SEE・SAW 1979.11.5 キャニオン・レコード([廃盤](https://ja.wikipedia.org/wiki/廃盤 "wikilink"))
+    [EP](https://ja.wikipedia.org/wiki/シングル#EP.E7.9B.A4 "wikilink") W-17 SEE・SAW 1979.11.5 キャニオン・レコード([廃盤](../Page/廃盤.md "wikilink"))
     タイトル曲および「そうして私が」を収録
 
 <!-- end list -->
@@ -141,7 +141,7 @@
 
 <!-- end list -->
 
-  - [Paradise Beach](https://ja.wikipedia.org/wiki/Paradise_Beach "wikilink")
+  - [Paradise Beach](../Page/Paradise_Beach.md "wikilink")
 
 <!-- end list -->
 

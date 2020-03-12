@@ -1,7 +1,7 @@
 > この記事は[ i](https://ja.wikipedia.org/wiki/_i)から翻訳されています。
 
 
-**道の駅吉野路 大淀iセンター**（みちのえき よしのじ おおよどあいセンター）は、[奈良県](../Page/奈良県.md "wikilink")[吉野郡](../Page/吉野郡.md "wikilink")[大淀町](https://ja.wikipedia.org/wiki/大淀町 "wikilink")芦原にある[国道169号](../Page/国道169号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
+**道の駅吉野路 大淀iセンター**（みちのえき よしのじ おおよどあいセンター）は、[奈良県](../Page/奈良県.md "wikilink")[吉野郡](../Page/吉野郡.md "wikilink")[大淀町](../Page/大淀町.md "wikilink")芦原にある[国道169号](../Page/国道169号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
 
 ## 施設
 
@@ -37,17 +37,17 @@
 
 ## 周辺
 
-  - [吉野川](https://ja.wikipedia.org/wiki/紀の川 "wikilink")
+  - [吉野川](../Page/紀の川.md "wikilink")
   - [芦原峠](https://ja.wikipedia.org/wiki/芦原峠 "wikilink")
-  - [世尊寺](https://ja.wikipedia.org/wiki/世尊寺_\(奈良県大淀町\) "wikilink")
+  - [世尊寺](../Page/世尊寺_\(奈良県大淀町\).md "wikilink")
   - [大阿太高原](https://ja.wikipedia.org/wiki/大阿太高原 "wikilink")
   - [吉野山](../Page/吉野山.md "wikilink")
   - [金峯山寺](../Page/金峯山寺.md "wikilink")
 
 ## 関連項目
 
-  - [道の駅一覧 や-わ行](https://ja.wikipedia.org/wiki/道の駅一覧_や-わ行 "wikilink")
-  - [道の駅一覧 近畿地方](https://ja.wikipedia.org/wiki/道の駅一覧_近畿地方 "wikilink")
+  - [道の駅一覧 や-わ行](../Page/道の駅一覧_や-わ行.md "wikilink")
+  - [道の駅一覧 近畿地方](../Page/道の駅一覧_近畿地方.md "wikilink")
 
 ## 外部リンク
 

@@ -6,8 +6,8 @@
 ## 概要
 
   - [1988年](../Page/1988年.md "wikilink")、『GYPSY QUEEN』でレコードデビュー。
-  - [1990年代](../Page/1990年代.md "wikilink")に[Tバック](https://ja.wikipedia.org/wiki/Tバック "wikilink")姿でディスコクイーン、[学園祭の女王として活躍する](https://ja.wikipedia.org/wiki/大学祭 "wikilink")。
-  - [スキンヘッド](https://ja.wikipedia.org/wiki/スキンヘッド "wikilink")になったり、「[臨月](https://ja.wikipedia.org/wiki/臨月 "wikilink")[ヘアヌード](https://ja.wikipedia.org/wiki/ヘアヌード "wikilink")」を披露したりした。 また、[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")の[中村亘利](https://ja.wikipedia.org/wiki/中村亘利 "wikilink")との交際発覚などでも話題となる。
+  - [1990年代](../Page/1990年代.md "wikilink")に[Tバック](../Page/Tバック.md "wikilink")姿でディスコクイーン、[学園祭の女王として活躍する](../Page/大学祭.md "wikilink")。
+  - [スキンヘッド](../Page/スキンヘッド.md "wikilink")になったり、「[臨月](https://ja.wikipedia.org/wiki/臨月 "wikilink")[ヘアヌード](../Page/ヘアヌード.md "wikilink")」を披露したりした。 また、[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")の[中村亘利](../Page/中村亘利.md "wikilink")との交際発覚などでも話題となる。
   - 結婚・離婚を経て現在も活動中である。
   - 2019年1月11日放送分の『[爆報\! THE フライデー](https://ja.wikipedia.org/wiki/爆報!_THE_フライデー "wikilink")』では結婚・離婚、有名プロ野球選手との不倫……と、激動の人生が報じられた\[1\]。1997年に白血病に罹患した妹の治療費のためにストリップデビューに踏み切るも、イベント会社に勤める仲介者の男に出演料400万円を持ち逃げされたと主張している。ただ、男は番組で放映された出演料の持ち逃げを「事実無根」と否定しており\[2\]、男の抗議を受けて制作責任者が謝罪文を男に手渡す事態となった\[3\]。当のSHIHOは「Aさんの主張には困惑しています」とAの主張と対立した\[4\]。
 
@@ -62,7 +62,7 @@
 ### 写真集
 
   - クールな吐息（[1991年](../Page/1991年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")・[ワニブックス](../Page/ワニブックス.md "wikilink")）
-  - 何時までもLoveYou（[1992年](../Page/1992年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")・[音楽専科社](https://ja.wikipedia.org/wiki/音楽専科社 "wikilink")）
+  - 何時までもLoveYou（[1992年](../Page/1992年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")・[音楽専科社](../Page/音楽専科社.md "wikilink")）
   - **Shiho**　 Naked Woman　 いくときいっしょ*\!*　（1992年[11月15日](../Page/11月15日.md "wikilink")・ワニブックス）
   - SHIHO写真集 Dancing（[1993年](../Page/1993年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")・桜桃書房）
   - SHIHO（[1994年](../Page/1994年.md "wikilink")・[竹書房](../Page/竹書房.md "wikilink")）、CD-ROMも発売された。

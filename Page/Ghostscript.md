@@ -13,14 +13,14 @@ Ghostscript は PostScript → PDF 変換ソフトなどのファイルコンバ
 
 言語インタープリタの形式を採っているため、Ghostscript は一般用途向けプログラミング環境としても使われる。
 
-Ghostscript は [Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、[OpenVMS](https://ja.wikipedia.org/wiki/OpenVMS "wikilink")、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink") そして [AmigaOS](https://ja.wikipedia.org/wiki/AmigaOS "wikilink") など数多くの OS に移植された。Unix系OSではgsというコマンド名で起動するが、利用者が直接このコマンドを起動するよりも、後述のフロントエンドを介して利用される方が一般的である。
+Ghostscript は [Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、[OpenVMS](../Page/OpenVMS.md "wikilink")、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink") そして [AmigaOS](../Page/AmigaOS.md "wikilink") など数多くの OS に移植された。Unix系OSではgsというコマンド名で起動するが、利用者が直接このコマンドを起動するよりも、後述のフロントエンドを介して利用される方が一般的である。
 
 ## フロントエンド
 
 Ghostscript を使用するための複数の[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI) が存在する。これらを使うことで文章の印刷はもちろんのこと、PostScript や PDF ファイルを画面上で見たり、スクロールしたり、前後のページへ移動したり、文章を拡大したりすることができる。
 
   - Ghostview
-    Unix/X11 上で動作する。一般的ではない[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の特徴を持つ：文章の上で[マウスを](../Page/マウス_\(コンピュータ\).md "wikilink")[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")すると逆の方向にスクロールする（ドラッグによってイメージそのものではなく、イメージを見る視点を移動させている）。その効果はイメージ全体に見えないスクロールバーがあるのに似ていて、[Google マップやその他のアプリケーションのやり方とはほとんど逆である](https://ja.wikipedia.org/wiki/Google_マップ "wikilink")。
+    Unix/X11 上で動作する。一般的ではない[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の特徴を持つ：文章の上で[マウスを](../Page/マウス_\(コンピュータ\).md "wikilink")[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")すると逆の方向にスクロールする（ドラッグによってイメージそのものではなく、イメージを見る視点を移動させている）。その効果はイメージ全体に見えないスクロールバーがあるのに似ていて、[Google マップやその他のアプリケーションのやり方とはほとんど逆である](../Page/Google_マップ.md "wikilink")。
   - gv
     Unix/X11 上で動作する。Ghostview を視覚的に改良したバージョンで、振る舞いは Ghostview に似ている。
   - mgv
@@ -45,7 +45,7 @@ Ghostscript は元は [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"
   - GNU Ghostscript
     [GNU プロジェクト](../Page/GNU.md "wikilink") の一部であり、現在は GPL Ghostscript から派生している。
   - ESP Ghostscript
-    [Easy Software Products](https://ja.wikipedia.org/wiki/Easy_Software_Products "wikilink") によって GPL の下で配布されていた。GPL Ghostscript に基づいており、ESP の [Common Unix Printing System](https://ja.wikipedia.org/wiki/Common_Unix_Printing_System "wikilink") との互換性を改良するためにいくつかの修正を加えたものである。GPL Ghostscript に統合されたため、[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")にリリースされたバージョン 8.15.4 を最後に開発は終了した\[4\]。
+    [Easy Software Products](https://ja.wikipedia.org/wiki/Easy_Software_Products "wikilink") によって GPL の下で配布されていた。GPL Ghostscript に基づいており、ESP の [Common Unix Printing System](../Page/Common_Unix_Printing_System.md "wikilink") との互換性を改良するためにいくつかの修正を加えたものである。GPL Ghostscript に統合されたため、[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")にリリースされたバージョン 8.15.4 を最後に開発は終了した\[4\]。
   - Ghostscript
     Artifex Software のプロプライエタリな現行の商用バージョンであり、[クローズド・ソースな製品を含んでいる](https://ja.wikipedia.org/wiki/プロプライエタリ "wikilink")。
 
@@ -53,8 +53,8 @@ GPL Ghostscript は、[Display PostScript](../Page/Display_PostScript.md "wikili
 
 ## 関連項目
 
-  - [Common Unix Printing System](https://ja.wikipedia.org/wiki/Common_Unix_Printing_System "wikilink") (CUPS)
-  - [PostScript Printer Description](https://ja.wikipedia.org/wiki/PostScript_Printer_Description "wikilink") (PPD)
+  - [Common Unix Printing System](../Page/Common_Unix_Printing_System.md "wikilink") (CUPS)
+  - [PostScript Printer Description](../Page/PostScript_Printer_Description.md "wikilink") (PPD)
   - [en:Printer driver](https://ja.wikipedia.org/wiki/:en:Printer_driver "wikilink")
   - [en:Foomatic](https://ja.wikipedia.org/wiki/:en:Foomatic "wikilink")
   - [en:Pstoedit](https://ja.wikipedia.org/wiki/:en:Pstoedit "wikilink")

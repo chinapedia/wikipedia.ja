@@ -7,7 +7,7 @@
 
 『**ayu-mi-x**』シリーズの第1弾となる本作は、1stアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』収録曲を中心としたリミックスアルバム。
 
-「[Two of us](../Page/Depend_on_you.md "wikilink") "rub delight mix"」は、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")[DJ FUMIYAがリミックスを手がけ](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")、同グループの[SUと](../Page/SU_\(RIP_SLYME\).md "wikilink")[PES](../Page/PES.md "wikilink")のラップが追加されている。
+「[Two of us](../Page/Depend_on_you.md "wikilink") "rub delight mix"」は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[DJ FUMIYAがリミックスを手がけ](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")、同グループの[SUと](../Page/SU_\(RIP_SLYME\).md "wikilink")[PES](../Page/PES.md "wikilink")のラップが追加されている。
 
 ## 収録曲
 
@@ -26,7 +26,7 @@
 9.  SIGNAL "[GROOVE THAT SOUL](../Page/GTS_\(DJグループ\).md "wikilink") MIX"
 10. [As if...](../Page/A_Song_for_××.md "wikilink") "[DJ-TURBO](../Page/GTS_\(DJグループ\).md "wikilink") WISH MIX"
 11. [YOU](../Page/YOU_\(浜崎あゆみの曲\).md "wikilink") "MASTERS OF FUNK R\&B REMIX"
-12. [from your letter](../Page/A_Song_for_××.md "wikilink") "[DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE "wikilink") REMIX"
+12. [from your letter](../Page/A_Song_for_××.md "wikilink") "[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink") REMIX"
 13. [Two of us](../Page/Depend_on_you.md "wikilink") "rub delight mix"
 14. A Song for X X "dub's loverdub remix"
 

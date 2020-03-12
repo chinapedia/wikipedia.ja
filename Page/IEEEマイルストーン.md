@@ -1,7 +1,7 @@
 > この記事は[IEEE](https://ja.wikipedia.org/wiki/IEEE)から翻訳されています。
 
 
-**IEEEマイルストーン**（アイトリプルイー マイルストーン）は、[IEEE](../Page/IEEE.md "wikilink")が[電気](https://ja.wikipedia.org/wiki/電気 "wikilink")・[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")技術やその関連分野における歴史的偉業に対して認定する賞。これに認定されるためには、25年以上に渡って世の中で高く評価を受けてきたという実績が必要である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に制定され、[2007年](../Page/2007年.md "wikilink")11月現在で96件が認定されている。
+**IEEEマイルストーン**（アイトリプルイー マイルストーン）は、[IEEE](../Page/IEEE.md "wikilink")が[電気](../Page/電気.md "wikilink")・[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")技術やその関連分野における歴史的偉業に対して認定する賞。これに認定されるためには、25年以上に渡って世の中で高く評価を受けてきたという実績が必要である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に制定され、[2007年](../Page/2007年.md "wikilink")11月現在で96件が認定されている。
 
 ## 受賞一覧
 
@@ -26,14 +26,14 @@
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ベンジャミン・フランクリン.md" title="wikilink">ベンジャミン・フランクリン</a>のロンドンにおける業績（<a href="https://ja.wikipedia.org/wiki/電気" title="wikilink">電気</a>に関する実験・研究の普及活動、<a href="https://ja.wikipedia.org/wiki/避雷針" title="wikilink">避雷針</a>に関するアドバイス等）</p></td>
+<td><p><a href="../Page/ベンジャミン・フランクリン.md" title="wikilink">ベンジャミン・フランクリン</a>のロンドンにおける業績（<a href="../Page/電気.md" title="wikilink">電気</a>に関する実験・研究の普及活動、<a href="../Page/避雷針.md" title="wikilink">避雷針</a>に関するアドバイス等）</p></td>
 <td><p><a href="../Page/1757年.md" title="wikilink">1757年</a>-<a href="../Page/1775年.md" title="wikilink">1775年</a></p></td>
 <td><p><a href="../Page/ロンドン.md" title="wikilink">ロンドン</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/アレッサンドロ・ボルタ.md" title="wikilink">ボルタの</a><a href="https://ja.wikipedia.org/wiki/ボルタ電池" title="wikilink">電池の発明</a></p></td>
+<td><p><a href="../Page/アレッサンドロ・ボルタ.md" title="wikilink">ボルタの</a><a href="../Page/ボルタ電池.md" title="wikilink">電池の発明</a></p></td>
 <td><p><a href="../Page/1799年.md" title="wikilink">1799年</a></p></td>
 <td><p><a href="../Page/コモ.md" title="wikilink">コモ</a></p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
@@ -50,7 +50,7 @@
 <td><p>の電気に関する科学技術に対する先駆的貢献</p></td>
 <td><p><a href="../Page/1836年.md" title="wikilink">1836年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/メイヌース" title="wikilink">メイヌース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -75,7 +75,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>（<a href="https://ja.wikipedia.org/wiki/ウエスタンユニオン" title="wikilink">ウエスタンユニオン</a>）</p></td>
+<td><p>（<a href="../Page/ウエスタンユニオン.md" title="wikilink">ウエスタンユニオン</a>）</p></td>
 <td><p><a href="../Page/1861年.md" title="wikilink">1861年</a></p></td>
 <td><p><a href="../Page/ワイオミング州.md" title="wikilink">ワイオミング州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
@@ -84,14 +84,14 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大西洋横断電信ケーブル" title="wikilink">大西洋横断電信ケーブル</a>の陸揚げ地</p></td>
 <td><p><a href="../Page/1866年.md" title="wikilink">1866年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューファンドランド・ラブラドール州" title="wikilink">ニューファンドランド・ラブラドール州</a></p></td>
+<td><p><a href="../Page/ニューファンドランド・ラブラドール州.md" title="wikilink">ニューファンドランド・ラブラドール州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァレンティア島" title="wikilink">ケリー州大西洋横断ケーブル局</a></p></td>
 <td><p><a href="../Page/1866年.md" title="wikilink">1866年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケリー州" title="wikilink">ケリー州</a></p></td>
+<td><p><a href="../Page/ケリー州.md" title="wikilink">ケリー州</a></p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td></td>
 </tr>
@@ -100,7 +100,7 @@
 <td><p>（<a href="../Page/アレクサンダー・グラハム・ベル.md" title="wikilink">アレクサンダー・グラハム・ベル</a>）</p></td>
 <td><p><a href="../Page/1876年.md" title="wikilink">1876年</a></p></td>
 <td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ボストン.md" title="wikilink">ボストン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>カナダ初の遠距離会話の音声変換（アレクサンダー・グラハム・ベル）</p></td>
@@ -113,7 +113,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/エジソン_(ニュージャージー州)" title="wikilink">メンローパークの</a></p></td>
 <td><p><a href="../Page/1876年.md" title="wikilink">1876年</a></p></td>
 <td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="https://ja.wikipedia.org/wiki/エジソン_(ニュージャージー州)" title="wikilink">エジソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -126,14 +126,14 @@
 <tr class="even">
 <td><p>（アップルトン・ペーパー・アンド・パルプ・カンパニー）</p></td>
 <td><p><a href="../Page/1882年.md" title="wikilink">1882年</a></p></td>
-<td><p><a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a><a href="https://ja.wikipedia.org/wiki/アップルトン_(ウィスコンシン州)" title="wikilink">アップルトン</a></p></td>
+<td><p><a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a><a href="../Page/アップルトン_(ウィスコンシン州).md" title="wikilink">アップルトン</a></p></td>
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/1882年.md" title="wikilink">1882年</a></p></td>
-<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="https://ja.wikipedia.org/wiki/ニューヨーク" title="wikilink">ニューヨーク</a></p></td>
+<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="../Page/ニューヨーク.md" title="wikilink">ニューヨーク</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
@@ -145,7 +145,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/電磁波.md" title="wikilink">電磁波</a>の世界初の生成と実験的な証明（<a href="https://ja.wikipedia.org/wiki/ハインリヒ・ヘルツ" title="wikilink">ハインリヒ・ヘルツ</a>）</p></td>
+<td><p><a href="../Page/電磁波.md" title="wikilink">電磁波</a>の世界初の生成と実験的な証明（<a href="../Page/ハインリヒ・ヘルツ.md" title="wikilink">ハインリヒ・ヘルツ</a>）</p></td>
 <td><p><a href="../Page/1886年.md" title="wikilink">1886年</a>-<a href="../Page/1888年.md" title="wikilink">1888年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カールスルーエ" title="wikilink">カールスルーエ</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
@@ -168,7 +168,7 @@
 <tr class="even">
 <td><p>（<a href="https://ja.wikipedia.org/wiki/フランク・スプレイグ" title="wikilink">フランク・スプレイグ</a>）</p></td>
 <td><p><a href="../Page/1888年.md" title="wikilink">1888年</a></p></td>
-<td><p><a href="../Page/バージニア州.md" title="wikilink">バージニア州</a><a href="https://ja.wikipedia.org/wiki/リッチモンド" title="wikilink">リッチモンド</a></p></td>
+<td><p><a href="../Page/バージニア州.md" title="wikilink">バージニア州</a><a href="../Page/リッチモンド.md" title="wikilink">リッチモンド</a></p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td></td>
 </tr>
@@ -187,7 +187,7 @@
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エドアール・ブランリー" title="wikilink">エドアール・ブランリー</a>のラジオコンダクタ（<a href="https://ja.wikipedia.org/wiki/コヒーラ検波器" title="wikilink">コヒーラ検波器</a>）の開発</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エドアール・ブランリー" title="wikilink">エドアール・ブランリー</a>のラジオコンダクタ（<a href="../Page/コヒーラ検波器.md" title="wikilink">コヒーラ検波器</a>）の開発</p></td>
 <td><p><a href="../Page/1890年.md" title="wikilink">1890年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パリ" title="wikilink">パリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
@@ -224,7 +224,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/1895年.md" title="wikilink">1895年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クルカ川" title="wikilink">クルカ川</a>・<a href="https://ja.wikipedia.org/wiki/シベニク" title="wikilink">シベニク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クルカ川" title="wikilink">クルカ川</a>・<a href="../Page/シベニク.md" title="wikilink">シベニク</a></p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td></td>
 </tr>
@@ -236,10 +236,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アレクサンドル・ポポフ_(物理学者)" title="wikilink">ポポフの無線通信開発の貢献</a></p></td>
+<td><p><a href="../Page/アレクサンドル・ポポフ_(物理学者).md" title="wikilink">ポポフの無線通信開発の貢献</a></p></td>
 <td><p><a href="../Page/1895年.md" title="wikilink">1895年</a></p></td>
 <td><p><a href="../Page/サンクトペテルブルク.md" title="wikilink">サンクトペテルブルク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -252,7 +252,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・アンド・オハイオ鉄道" title="wikilink">ボルチモア・アンド・オハイオ鉄道</a>の本線<a href="../Page/鉄道の電化.md" title="wikilink">電化</a></p></td>
 <td><p><a href="../Page/1895年.md" title="wikilink">1895年</a></p></td>
-<td><p><a href="../Page/メリーランド州.md" title="wikilink">メリーランド州</a><a href="https://ja.wikipedia.org/wiki/ボルチモア" title="wikilink">ボルチモア</a></p></td>
+<td><p><a href="../Page/メリーランド州.md" title="wikilink">メリーランド州</a><a href="../Page/ボルチモア.md" title="wikilink">ボルチモア</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
@@ -287,7 +287,7 @@
 <tr class="odd">
 <td><p>軍事作戦上での無線電信の初使用 （<a href="../Page/ボーア戦争.md" title="wikilink">第二次ボーア戦争において</a>）</p></td>
 <td><p><a href="../Page/1899年.md" title="wikilink">1899年</a>-<a href="../Page/1902年.md" title="wikilink">1902年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケープタウン" title="wikilink">ケープタウン</a></p></td>
+<td><p><a href="../Page/ケープタウン.md" title="wikilink">ケープタウン</a></p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td></td>
 </tr>
@@ -299,7 +299,7 @@
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/リモコン" title="wikilink">リモートコントロールの初期の開発</a>（<a href="https://ja.wikipedia.org/wiki/レオナルド・トーレス・ケベード" title="wikilink">レオナルド・トーレス・ケベード</a>）</p></td>
+<td><p><a href="../Page/リモコン.md" title="wikilink">リモートコントロールの初期の開発</a>（<a href="https://ja.wikipedia.org/wiki/レオナルド・トーレス・ケベード" title="wikilink">レオナルド・トーレス・ケベード</a>）</p></td>
 <td><p><a href="../Page/1901年.md" title="wikilink">1901年</a></p></td>
 <td><p><a href="../Page/マドリード.md" title="wikilink">マドリード</a></p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
@@ -315,7 +315,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/グリエルモ・マルコーニ#大西洋横断無線通信" title="wikilink">大陸間の無線信号受信</a>（<a href="../Page/グリエルモ・マルコーニ.md" title="wikilink">グリエルモ・マルコーニ</a>）</p></td>
 <td><p><a href="../Page/1901年.md" title="wikilink">1901年</a></p></td>
-<td><p><a href="../Page/ニューファンドランド島.md" title="wikilink">ニューファンドランド島</a> <a href="https://ja.wikipedia.org/wiki/セントジョンズ_(ニューファンドランド・ラブラドール州)" title="wikilink">セントジョンズ</a> シグナルヒル</p></td>
+<td><p><a href="../Page/ニューファンドランド島.md" title="wikilink">ニューファンドランド島</a> <a href="../Page/セントジョンズ_(ニューファンドランド・ラブラドール州).md" title="wikilink">セントジョンズ</a> シグナルヒル</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
 <td></td>
 </tr>
@@ -330,11 +330,11 @@
 <td><p>Vucje水力発電所</p></td>
 <td><p><a href="../Page/1903年.md" title="wikilink">1903年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レスコヴァツ" title="wikilink">レスコヴァツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>（<a href="https://ja.wikipedia.org/wiki/ジョン・フレミング" title="wikilink">ジョン・フレミング</a>）</p></td>
+<td><p>（<a href="../Page/ジョン・フレミング.md" title="wikilink">ジョン・フレミング</a>）</p></td>
 <td><p><a href="../Page/1904年.md" title="wikilink">1904年</a></p></td>
 <td><p><a href="../Page/ロンドン.md" title="wikilink">ロンドン</a></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
@@ -350,7 +350,7 @@
 <tr class="even">
 <td><p>ピナワ水力発電計画</p></td>
 <td><p><a href="../Page/1906年.md" title="wikilink">1906年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネルソン川" title="wikilink">ネルソン川</a></p></td>
+<td><p><a href="../Page/ネルソン川.md" title="wikilink">ネルソン川</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td></td>
 </tr>
@@ -385,7 +385,7 @@
 <tr class="odd">
 <td><p><a href="../Page/超伝導.md" title="wikilink">超伝導</a>の発見（<a href="../Page/ヘイケ・カメルリング・オネス.md" title="wikilink">ヘイケ・カメルリング・オネス</a>）</p></td>
 <td><p><a href="../Page/1911年.md" title="wikilink">1911年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライデン" title="wikilink">ライデン</a></p></td>
+<td><p><a href="../Page/ライデン.md" title="wikilink">ライデン</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
@@ -398,7 +398,7 @@
 </tr>
 <tr class="odd">
 <td><p>1920年代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック" title="wikilink">ウェスティングハウスの</a><a href="https://ja.wikipedia.org/wiki/ラジオ局" title="wikilink">ラジオ局</a> </p></td>
+<td><p><a href="../Page/ウェスティングハウス・エレクトリック.md" title="wikilink">ウェスティングハウスの</a><a href="https://ja.wikipedia.org/wiki/ラジオ局" title="wikilink">ラジオ局</a> </p></td>
 <td><p><a href="../Page/1920年.md" title="wikilink">1920年</a></p></td>
 <td><p><a href="../Page/ペンシルベニア州.md" title="wikilink">ペンシルベニア州</a><a href="https://ja.wikipedia.org/wiki/ピッツバーグ" title="wikilink">ピッツバーグ</a></p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
@@ -411,9 +411,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/八木・宇田アンテナ.md" title="wikilink">指向性短波アンテナ</a>（<a href="https://ja.wikipedia.org/wiki/東北大学" title="wikilink">東北帝国大学</a> <a href="https://ja.wikipedia.org/wiki/宇田新太郎" title="wikilink">宇田新太郎</a>・<a href="https://ja.wikipedia.org/wiki/八木秀次" title="wikilink">八木秀次</a>）</p></td>
+<td><p><a href="../Page/八木・宇田アンテナ.md" title="wikilink">指向性短波アンテナ</a>（<a href="https://ja.wikipedia.org/wiki/東北大学" title="wikilink">東北帝国大学</a> <a href="../Page/宇田新太郎.md" title="wikilink">宇田新太郎</a>・<a href="../Page/八木秀次.md" title="wikilink">八木秀次</a>）</p></td>
 <td><p><a href="../Page/1924年.md" title="wikilink">1924年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="https://ja.wikipedia.org/wiki/仙台市" title="wikilink">仙台市</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
 <td></td>
 </tr>
@@ -432,14 +432,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ラマン効果" title="wikilink">ラマン効果</a>（<a href="https://ja.wikipedia.org/wiki/チャンドラセカール・ラマン" title="wikilink">チャンドラセカール・ラマン</a>）</p></td>
+<td><p><a href="../Page/ラマン効果.md" title="wikilink">ラマン効果</a>（<a href="../Page/チャンドラセカール・ラマン.md" title="wikilink">チャンドラセカール・ラマン</a>）</p></td>
 <td><p><a href="../Page/1928年.md" title="wikilink">1928年</a></p></td>
 <td><p><a href="../Page/コルカタ.md" title="wikilink">コルカタ</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>片方向<a href="https://ja.wikipedia.org/wiki/警察無線" title="wikilink">警察無線</a>（<a href="https://ja.wikipedia.org/wiki/デトロイト市警察" title="wikilink">デトロイト市警察</a>）</p></td>
+<td><p>片方向<a href="../Page/警察無線.md" title="wikilink">警察無線</a>（<a href="https://ja.wikipedia.org/wiki/デトロイト市警察" title="wikilink">デトロイト市警察</a>）</p></td>
 <td><p><a href="../Page/1928年.md" title="wikilink">1928年</a></p></td>
 <td><p><a href="../Page/ミシガン州.md" title="wikilink">ミシガン州</a><a href="../Page/デトロイト.md" title="wikilink">デトロイト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
@@ -448,14 +448,14 @@
 <tr class="even">
 <td><p>アメリカ最大の私用（直流）発電所（）</p></td>
 <td><p><a href="../Page/1929年.md" title="wikilink">1929年</a></p></td>
-<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="https://ja.wikipedia.org/wiki/ニューヨーク" title="wikilink">ニューヨーク</a></p></td>
+<td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="../Page/ニューヨーク.md" title="wikilink">ニューヨーク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/アイルランド自由国.md" title="wikilink">アイルランド自由国</a>の電化のための</p></td>
 <td><p><a href="../Page/1929年.md" title="wikilink">1929年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リムリック州" title="wikilink">リムリック州</a>Ardnacrusha</p></td>
+<td><p><a href="../Page/リムリック州.md" title="wikilink">リムリック州</a>Ardnacrusha</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td></td>
 </tr>
@@ -475,9 +475,9 @@
 </tr>
 <tr class="even">
 <td><p>1930年代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェライト_(磁性材料)" title="wikilink">フェライトの発明とその工業化</a>（<a href="../Page/東京工業大学.md" title="wikilink">東京工業大学</a> <a href="https://ja.wikipedia.org/wiki/加藤与五郎" title="wikilink">加藤与五郎</a>・<a href="../Page/武井武.md" title="wikilink">武井武</a>）</p></td>
+<td><p><a href="../Page/フェライト_(磁性材料).md" title="wikilink">フェライトの発明とその工業化</a>（<a href="../Page/東京工業大学.md" title="wikilink">東京工業大学</a> <a href="../Page/加藤与五郎.md" title="wikilink">加藤与五郎</a>・<a href="../Page/武井武.md" title="wikilink">武井武</a>）</p></td>
 <td><p><a href="../Page/1930年.md" title="wikilink">1930年</a>-<a href="../Page/1945年.md" title="wikilink">1945年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 </tr>
 <tr class="odd">
@@ -488,23 +488,23 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>による世界初の<a href="../Page/エニグマ_(暗号機).md" title="wikilink">エニグマ暗号の</a><a href="https://ja.wikipedia.org/wiki/暗号解読" title="wikilink">解読</a>（<a href="https://ja.wikipedia.org/wiki/マリアン・レイェフスキ" title="wikilink">マリアン・レイェフスキ</a>ら）</p></td>
+<td><p>による世界初の<a href="../Page/エニグマ_(暗号機).md" title="wikilink">エニグマ暗号の</a><a href="../Page/暗号解読.md" title="wikilink">解読</a>（<a href="https://ja.wikipedia.org/wiki/マリアン・レイェフスキ" title="wikilink">マリアン・レイェフスキ</a>ら）</p></td>
 <td><p><a href="../Page/1932年.md" title="wikilink">1932年</a>-<a href="../Page/1939年.md" title="wikilink">1939年</a></p></td>
 <td><p><a href="../Page/ワルシャワ.md" title="wikilink">ワルシャワ</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/トランシーバー_(無線機)" title="wikilink">両方向警察無線</a>（ベイヨン市警察）</p></td>
+<td><p><a href="../Page/トランシーバー_(無線機).md" title="wikilink">両方向警察無線</a>（ベイヨン市警察）</p></td>
 <td><p><a href="../Page/1933年.md" title="wikilink">1933年</a></p></td>
 <td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="../Page/ベイヨン_(ニュージャージー州).md" title="wikilink">ベイヨン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/水晶振動子" title="wikilink">温度無依存水晶振動子</a>（<a href="../Page/東京工業大学.md" title="wikilink">東京工業大学</a> <a href="../Page/古賀逸策.md" title="wikilink">古賀逸策</a>）</p></td>
+<td><p><a href="../Page/水晶振動子.md" title="wikilink">温度無依存水晶振動子</a>（<a href="../Page/東京工業大学.md" title="wikilink">東京工業大学</a> <a href="../Page/古賀逸策.md" title="wikilink">古賀逸策</a>）</p></td>
 <td><p><a href="../Page/1933年.md" title="wikilink">1933年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td></td>
 </tr>
@@ -516,7 +516,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック" title="wikilink">ウェスティングハウスの</a><a href="https://ja.wikipedia.org/wiki/加速器" title="wikilink">原子破壊装置</a></p></td>
+<td><p><a href="../Page/ウェスティングハウス・エレクトリック.md" title="wikilink">ウェスティングハウスの</a><a href="../Page/加速器.md" title="wikilink">原子破壊装置</a></p></td>
 <td><p><a href="../Page/1937年.md" title="wikilink">1937年</a></p></td>
 <td><p><a href="../Page/ペンシルベニア州.md" title="wikilink">ペンシルベニア州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
@@ -530,7 +530,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第二次世界大戦" title="wikilink">第二次世界大戦</a>中の<a href="https://ja.wikipedia.org/wiki/ブレッチリー・パーク" title="wikilink">ブレッチリー・パーク</a>（<a href="https://ja.wikipedia.org/wiki/政府暗号学校" title="wikilink">政府暗号学校</a>）での<a href="https://ja.wikipedia.org/wiki/暗号解読" title="wikilink">暗号解読</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第二次世界大戦" title="wikilink">第二次世界大戦</a>中の<a href="https://ja.wikipedia.org/wiki/ブレッチリー・パーク" title="wikilink">ブレッチリー・パーク</a>（<a href="https://ja.wikipedia.org/wiki/政府暗号学校" title="wikilink">政府暗号学校</a>）での<a href="../Page/暗号解読.md" title="wikilink">暗号解読</a></p></td>
 <td><p><a href="../Page/1939年.md" title="wikilink">1939年</a>-<a href="../Page/1945年.md" title="wikilink">1945年</a></p></td>
 <td><p>ブレッチリー・パーク</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
@@ -546,7 +546,7 @@
 <tr class="even">
 <td><p><a href="../Page/クロード・シャノン.md" title="wikilink">クロード・シャノン</a>による<a href="../Page/情報理論.md" title="wikilink">情報理論</a>の進展</p></td>
 <td><p><a href="../Page/1939年.md" title="wikilink">1939年</a>-<a href="../Page/1967年.md" title="wikilink">1967年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/ケンブリッジ_(マサチューセッツ州)" title="wikilink">ケンブリッジ</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ケンブリッジ_(マサチューセッツ州).md" title="wikilink">ケンブリッジ</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td></td>
 </tr>
@@ -554,20 +554,20 @@
 <td><p>1940年代</p></td>
 <td><p>（<a href="../Page/マサチューセッツ工科大学.md" title="wikilink">MIT</a>）</p></td>
 <td><p><a href="../Page/1940年.md" title="wikilink">1940年</a>-<a href="../Page/1945年.md" title="wikilink">1945年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/ケンブリッジ_(マサチューセッツ州)" title="wikilink">ケンブリッジ</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ケンブリッジ_(マサチューセッツ州).md" title="wikilink">ケンブリッジ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周波数変調.md" title="wikilink">FM警察無線</a>（コネチカット州警察）</p></td>
 <td><p><a href="../Page/1940年.md" title="wikilink">1940年</a></p></td>
-<td><p><a href="../Page/コネチカット州.md" title="wikilink">コネチカット州</a><a href="https://ja.wikipedia.org/wiki/ハートフォード_(コネチカット州)" title="wikilink">ハートフォード</a></p></td>
+<td><p><a href="../Page/コネチカット州.md" title="wikilink">コネチカット州</a><a href="../Page/ハートフォード_(コネチカット州).md" title="wikilink">ハートフォード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/LORAN.md" title="wikilink">LORAN</a>（<a href="../Page/マサチューセッツ工科大学.md" title="wikilink">MIT</a>）</p></td>
 <td><p><a href="../Page/1940年.md" title="wikilink">1940年</a>-<a href="../Page/1946年.md" title="wikilink">1946年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/ケンブリッジ_(マサチューセッツ州)" title="wikilink">ケンブリッジ</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ケンブリッジ_(マサチューセッツ州).md" title="wikilink">ケンブリッジ</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
@@ -588,7 +588,7 @@
 <tr class="even">
 <td><p><a href="../Page/Whirlwind.md" title="wikilink">Whirlwind</a>（<a href="../Page/マサチューセッツ工科大学.md" title="wikilink">MIT</a>）</p></td>
 <td><p><a href="../Page/1944年.md" title="wikilink">1944年</a>-<a href="../Page/1959年.md" title="wikilink">1959年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/ケンブリッジ_(マサチューセッツ州)" title="wikilink">ケンブリッジ</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ケンブリッジ_(マサチューセッツ州).md" title="wikilink">ケンブリッジ</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
@@ -614,9 +614,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>白黒互換の電子式<a href="https://ja.wikipedia.org/wiki/カラーテレビ" title="wikilink">カラーテレビ</a>ジョン（<a href="https://ja.wikipedia.org/wiki/RCA" title="wikilink">RCA</a>）</p></td>
+<td><p>白黒互換の電子式<a href="../Page/カラーテレビ.md" title="wikilink">カラーテレビ</a>ジョン（<a href="../Page/RCA.md" title="wikilink">RCA</a>）</p></td>
 <td><p><a href="../Page/1946年.md" title="wikilink">1946年</a>-<a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a></p></td>
-<td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="https://ja.wikipedia.org/wiki/プリンストン_(ニュージャージー州)" title="wikilink">プリンストン</a></p></td>
+<td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="../Page/プリンストン_(ニュージャージー州).md" title="wikilink">プリンストン</a></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td></td>
 </tr>
@@ -628,7 +628,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ホログラフィー" title="wikilink">ホログラフィー</a>の発明（<a href="../Page/ガーボル・デーネシュ.md" title="wikilink">ガーボル・デーネシュ</a>）</p></td>
+<td><p><a href="../Page/ホログラフィー.md" title="wikilink">ホログラフィー</a>の発明（<a href="../Page/ガーボル・デーネシュ.md" title="wikilink">ガーボル・デーネシュ</a>）</p></td>
 <td><p><a href="../Page/1947年.md" title="wikilink">1947年</a></p></td>
 <td><p><a href="../Page/ロンドン.md" title="wikilink">ロンドン</a></p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
@@ -649,9 +649,9 @@
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/宇宙飛行" title="wikilink">宇宙ロケット打ち上げのための電気技術</a> （<a href="../Page/アメリカ航空宇宙局.md" title="wikilink">NASA</a>）</p></td>
+<td><p><a href="../Page/宇宙飛行.md" title="wikilink">宇宙ロケット打ち上げのための電気技術</a> （<a href="../Page/アメリカ航空宇宙局.md" title="wikilink">NASA</a>）</p></td>
 <td><p><a href="../Page/1950年.md" title="wikilink">1950年</a>-<a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="https://ja.wikipedia.org/wiki/ケープ・カナベラル" title="wikilink">ケープ・カナベラル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="../Page/ケープ・カナベラル.md" title="wikilink">ケープ・カナベラル</a></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td></td>
 </tr>
@@ -670,28 +670,28 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/半自動式防空管制組織" title="wikilink">半自動式防空管制組織</a>(SAGE)（MIT）</p></td>
+<td><p><a href="../Page/半自動式防空管制組織.md" title="wikilink">半自動式防空管制組織</a>(SAGE)（MIT）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1951年" title="wikilink">1951年</a>-<a href="../Page/1958年.md" title="wikilink">1958年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/ケンブリッジ_(マサチューセッツ州)" title="wikilink">ケンブリッジ</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ケンブリッジ_(マサチューセッツ州).md" title="wikilink">ケンブリッジ</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>西カナダ初のテレビ放送（<a href="https://ja.wikipedia.org/wiki/カナダ放送協会" title="wikilink">カナダ放送協会</a> CBUT Channel 2）</p></td>
+<td><p>西カナダ初のテレビ放送（<a href="../Page/カナダ放送協会.md" title="wikilink">カナダ放送協会</a> CBUT Channel 2）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a></p></td>
-<td><p><a href="../Page/ブリティッシュコロンビア州.md" title="wikilink">ブリティッシュコロンビア州</a><a href="https://ja.wikipedia.org/wiki/ノースバンクーバー_(ブリティッシュコロンビア州)" title="wikilink">ノースバンクーバー</a></p></td>
+<td><p><a href="../Page/ブリティッシュコロンビア州.md" title="wikilink">ブリティッシュコロンビア州</a><a href="../Page/ノースバンクーバー_(ブリティッシュコロンビア州).md" title="wikilink">ノースバンクーバー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>コンピュータ（<a href="https://ja.wikipedia.org/wiki/ワイツマン科学研究所" title="wikilink">ワイツマン科学研究所</a>）</p></td>
+<td><p>コンピュータ（<a href="../Page/ワイツマン科学研究所.md" title="wikilink">ワイツマン科学研究所</a>）</p></td>
 <td><p><a href="../Page/1955年.md" title="wikilink">1955年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レホヴォト" title="wikilink">レホヴォト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/黒部川第四発電所" title="wikilink">黒部川第四発電所</a>（<a href="../Page/関西電力.md" title="wikilink">関西電力</a>）</p></td>
+<td><p><a href="../Page/黒部川第四発電所.md" title="wikilink">黒部川第四発電所</a>（<a href="../Page/関西電力.md" title="wikilink">関西電力</a>）</p></td>
 <td><p><a href="../Page/1956年.md" title="wikilink">1956年</a>-<a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a><a href="../Page/黒部市.md" title="wikilink">黒部市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
@@ -701,20 +701,20 @@
 <td><p>初の（）</p></td>
 <td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
 <td><p><a href="../Page/ニューファンドランド島.md" title="wikilink">ニューファンドランド島</a>、  <a href="../Page/ノバスコシア州.md" title="wikilink">ノバスコシア州</a>、 <a href="https://ja.wikipedia.org/wiki/オーバン_(スコットランド)" title="wikilink">オーバン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/IBMのディスク記憶装置#IBM_350" title="wikilink">RAMAC</a>（<a href="../Page/IBM.md" title="wikilink">IBM</a>）</p></td>
 <td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
 <td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/サンノゼ.md" title="wikilink">サンノゼ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>初の持ち運びできる<a href="../Page/心臓ペースメーカー.md" title="wikilink">心臓ペースメーカー</a>（）</p></td>
 <td><p><a href="../Page/1957年.md" title="wikilink">1957年</a>-<a href="../Page/1958年.md" title="wikilink">1958年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a><a href="https://ja.wikipedia.org/wiki/ミネアポリス" title="wikilink">ミネアポリス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a><a href="../Page/ミネアポリス.md" title="wikilink">ミネアポリス</a></p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td></td>
 </tr>
@@ -726,7 +726,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>初の半導体<a href="../Page/集積回路.md" title="wikilink">集積回路</a>(IC)（<a href="https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ" title="wikilink">テキサス・インスツルメンツ</a> <a href="https://ja.wikipedia.org/wiki/ジャック・キルビー" title="wikilink">ジャック・キルビー</a>）</p></td>
+<td><p>初の半導体<a href="../Page/集積回路.md" title="wikilink">集積回路</a>(IC)（<a href="../Page/テキサス・インスツルメンツ.md" title="wikilink">テキサス・インスツルメンツ</a> <a href="../Page/ジャック・キルビー.md" title="wikilink">ジャック・キルビー</a>）</p></td>
 <td><p><a href="../Page/1958年.md" title="wikilink">1958年</a></p></td>
 <td><p><a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="../Page/ダラス.md" title="wikilink">ダラス</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
@@ -740,21 +740,21 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/半導体.md" title="wikilink">半導体</a>のと集積回路（<a href="https://ja.wikipedia.org/wiki/フェアチャイルドセミコンダクター" title="wikilink">フェアチャイルドセミコンダクター</a> ）</p></td>
+<td><p><a href="../Page/半導体.md" title="wikilink">半導体</a>のと集積回路（<a href="../Page/フェアチャイルドセミコンダクター.md" title="wikilink">フェアチャイルドセミコンダクター</a> ）</p></td>
 <td><p><a href="../Page/1959年.md" title="wikilink">1959年</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/パロアルト_(カリフォルニア州)" title="wikilink">パロアルト</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/パロアルト_(カリフォルニア州).md" title="wikilink">パロアルト</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1960年代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/気象衛星" title="wikilink">気象衛星</a><a href="https://ja.wikipedia.org/wiki/タイロス1号" title="wikilink">タイロス1号</a></p></td>
+<td><p><a href="../Page/気象衛星.md" title="wikilink">気象衛星</a><a href="https://ja.wikipedia.org/wiki/タイロス1号" title="wikilink">タイロス1号</a></p></td>
 <td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
-<td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="https://ja.wikipedia.org/wiki/プリンストン_(ニュージャージー州)" title="wikilink">プリンストン</a></p></td>
+<td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="../Page/プリンストン_(ニュージャージー州).md" title="wikilink">プリンストン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レーザー光線" title="wikilink">レーザー光線</a>の実用化（<a href="https://ja.wikipedia.org/wiki/セオドア・メイマン" title="wikilink">セオドア・メイマン</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レーザー光線" title="wikilink">レーザー光線</a>の実用化（<a href="../Page/セオドア・メイマン.md" title="wikilink">セオドア・メイマン</a>）</p></td>
 <td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
 <td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/マリブ_(カリフォルニア州)" title="wikilink">マリブ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
@@ -791,7 +791,7 @@
 <tr class="odd">
 <td><p><a href="../Page/マーキュリー計画.md" title="wikilink">マーキュリー宇宙船</a> <a href="https://ja.wikipedia.org/wiki/マーキュリー・アトラス6号" title="wikilink">マーキュリー・アトラス6号</a>（フレンドシップ7）</p></td>
 <td><p><a href="../Page/1962年.md" title="wikilink">1962年</a></p></td>
-<td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a><a href="https://ja.wikipedia.org/wiki/セントルイス" title="wikilink">セントルイス</a></p></td>
+<td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a><a href="../Page/セントルイス.md" title="wikilink">セントルイス</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
@@ -817,9 +817,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>世界初の<a href="https://ja.wikipedia.org/wiki/クォーツ時計" title="wikilink">電子式水晶腕時計の先駆的成果</a>（電子時計技術センター(CEH)）</p></td>
+<td><p>世界初の<a href="../Page/クォーツ時計.md" title="wikilink">電子式水晶腕時計の先駆的成果</a>（電子時計技術センター(CEH)）</p></td>
 <td><p><a href="../Page/1962年.md" title="wikilink">1962年</a>-<a href="../Page/1967年.md" title="wikilink">1967年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヌーシャテル" title="wikilink">ヌーシャテル</a></p></td>
+<td><p><a href="../Page/ヌーシャテル.md" title="wikilink">ヌーシャテル</a></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td></td>
 </tr>
@@ -831,14 +831,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アポロ誘導コンピュータ" title="wikilink">アポロ誘導コンピュータ</a>（AGC）（<a href="https://ja.wikipedia.org/wiki/チャールズ・スターク・ドレイパー研究所" title="wikilink">MIT器械工学研究所</a>）</p></td>
+<td><p><a href="../Page/アポロ誘導コンピュータ.md" title="wikilink">アポロ誘導コンピュータ</a>（AGC）（<a href="https://ja.wikipedia.org/wiki/チャールズ・スターク・ドレイパー研究所" title="wikilink">MIT器械工学研究所</a>）</p></td>
 <td><p><a href="../Page/1962年.md" title="wikilink">1962年</a>-<a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/ケンブリッジ_(マサチューセッツ州)" title="wikilink">ケンブリッジ</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/ケンブリッジ_(マサチューセッツ州).md" title="wikilink">ケンブリッジ</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アレシボ天文台" title="wikilink">アレシボ天文台</a>の<a href="https://ja.wikipedia.org/wiki/電波望遠鏡" title="wikilink">電波望遠鏡</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アレシボ天文台" title="wikilink">アレシボ天文台</a>の<a href="../Page/電波望遠鏡.md" title="wikilink">電波望遠鏡</a></p></td>
 <td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
 <td><p>アレシボ</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
@@ -848,13 +848,13 @@
 <td></td>
 <td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
 <td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a>プロフィット山</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>世界初の太平洋横断衛星<a href="https://ja.wikipedia.org/wiki/テレビ中継" title="wikilink">テレビ信号受信</a>（<a href="../Page/KDDI茨城衛星通信センター.md" title="wikilink">KDDI茨城衛星通信センター</a>）</p></td>
 <td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/茨城県" title="wikilink">茨城県</a><a href="https://ja.wikipedia.org/wiki/高萩市" title="wikilink">高萩市</a></p></td>
+<td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a><a href="../Page/高萩市.md" title="wikilink">高萩市</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 </tr>
@@ -876,7 +876,7 @@
 <td><p><a href="../Page/電卓.md" title="wikilink">電子式卓上計算機の先駆的事業</a>（<a href="../Page/シャープ.md" title="wikilink">シャープ</a>）</p></td>
 <td><p><a href="../Page/1964年.md" title="wikilink">1964年</a>-<a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
 <td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a><a href="../Page/天理市.md" title="wikilink">天理市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -896,12 +896,12 @@
 <tr class="even">
 <td><p><a href="../Page/ハイビジョン.md" title="wikilink">ハイビジョン</a>テレビ放送システム（<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>）</p></td>
 <td><p><a href="../Page/1964年.md" title="wikilink">1964年</a>-<a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>鉄道<a href="../Page/自動改札機.md" title="wikilink">自動改札システム</a>（<a href="https://ja.wikipedia.org/wiki/オムロン" title="wikilink">オムロン</a>・<a href="../Page/近畿日本鉄道.md" title="wikilink">近鉄</a>・<a href="../Page/阪急電鉄.md" title="wikilink">阪急</a>・<a href="https://ja.wikipedia.org/wiki/大阪大学" title="wikilink">大阪大学</a>）</p></td>
+<td><p>鉄道<a href="../Page/自動改札機.md" title="wikilink">自動改札システム</a>（<a href="../Page/オムロン.md" title="wikilink">オムロン</a>・<a href="../Page/近畿日本鉄道.md" title="wikilink">近鉄</a>・<a href="../Page/阪急電鉄.md" title="wikilink">阪急</a>・<a href="https://ja.wikipedia.org/wiki/大阪大学" title="wikilink">大阪大学</a>）</p></td>
 <td><p><a href="../Page/1965年.md" title="wikilink">1965年</a>-<a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
@@ -911,7 +911,7 @@
 <td><p>世界初の交流735kV変電システム（<a href="https://ja.wikipedia.org/wiki/イドロ・ケベック" title="wikilink">イドロ・ケベック</a>）</p></td>
 <td><p><a href="../Page/1965年.md" title="wikilink">1965年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ケベック州" title="wikilink">ケベック州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -929,42 +929,42 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/液晶ディスプレイ" title="wikilink">液晶ディスプレイ</a>（<a href="https://ja.wikipedia.org/wiki/RCA" title="wikilink">RCA</a> ）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/液晶ディスプレイ" title="wikilink">液晶ディスプレイ</a>（<a href="../Page/RCA.md" title="wikilink">RCA</a> ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
-<td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="https://ja.wikipedia.org/wiki/プリンストン_(ニュージャージー州)" title="wikilink">プリンストン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="../Page/プリンストン_(ニュージャージー州).md" title="wikilink">プリンストン</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/欧州原子核研究機構.md" title="wikilink">CERNの実験器具</a> （ワイヤチェンバ、ドリフトチェンバ等）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュネーブ" title="wikilink">ジュネーブ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クォーツ時計" title="wikilink">電子式水晶腕時計</a>（<a href="../Page/セイコーエプソン.md" title="wikilink">諏訪精工舎</a>「」）</p></td>
+<td><p><a href="../Page/クォーツ時計.md" title="wikilink">電子式水晶腕時計</a>（<a href="../Page/セイコーエプソン.md" title="wikilink">諏訪精工舎</a>「」）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/インターネット" title="wikilink">インターネット</a>発祥の地（<a href="../Page/カリフォルニア大学ロサンゼルス校.md" title="wikilink">UCLA</a>）</p></td>
+<td><p><a href="../Page/インターネット.md" title="wikilink">インターネット</a>発祥の地（<a href="../Page/カリフォルニア大学ロサンゼルス校.md" title="wikilink">UCLA</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
 <td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/ロサンゼルス.md" title="wikilink">ロサンゼルス</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ARPANET.md" title="wikilink">ARPANET</a>の発端（<a href="https://ja.wikipedia.org/wiki/SRIインターナショナル" title="wikilink">スタンフォード研究所</a>）</p></td>
+<td><p><a href="../Page/ARPANET.md" title="wikilink">ARPANET</a>の発端（<a href="../Page/SRIインターナショナル.md" title="wikilink">スタンフォード研究所</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
 <td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/メンローパーク_(カリフォルニア州)" title="wikilink">メンローパーク</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/公開鍵暗号.md" title="wikilink">公開鍵暗号</a>の発明（<a href="https://ja.wikipedia.org/wiki/政府通信本部" title="wikilink">イギリス政府通信本部</a> 、）</p></td>
+<td><p><a href="../Page/公開鍵暗号.md" title="wikilink">公開鍵暗号</a>の発明（<a href="../Page/政府通信本部.md" title="wikilink">イギリス政府通信本部</a> 、）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a>-<a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
 <td><p><a href="../Page/チェルトナム.md" title="wikilink">チェルトナム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
@@ -973,43 +973,43 @@
 <tr class="odd">
 <td><p>1970年代</p></td>
 <td><p>世界初の<a href="../Page/光ファイバー.md" title="wikilink">光ファイバー</a>通信用低損失ケーブル（、<a href="https://ja.wikipedia.org/wiki/ピーター・シュルツ" title="wikilink">ピーター・シュルツ</a>、）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td><p><a href="../Page/ニューヨーク州.md" title="wikilink">ニューヨーク州</a><a href="https://ja.wikipedia.org/wiki/コーニング_(ニューヨーク州)" title="wikilink">コーニング</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 </tr>
 <tr class="even">
 <td><p>世界初の日本語<a href="../Page/ワードプロセッサ.md" title="wikilink">ワードプロセッサ</a>（<a href="../Page/東芝.md" title="wikilink">東芝</a>「<a href="../Page/JW-10.md" title="wikilink">JW-10</a>」）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a>-<a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>回路シミュレーションプログラム<a href="../Page/SPICE_(ソフトウェア).md" title="wikilink">SPICE</a>（<a href="../Page/カリフォルニア大学バークレー校.md" title="wikilink">UCB</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/バークレー_(カリフォルニア州)" title="wikilink">バークレー</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/バークレー_(カリフォルニア州).md" title="wikilink">バークレー</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/走査型電子顕微鏡.md" title="wikilink">電界放出形電子顕微鏡の実用化</a>（<a href="../Page/日立製作所.md" title="wikilink">日立製作所</a>）</p></td>
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>初の<a href="https://ja.wikipedia.org/wiki/関数電卓" title="wikilink">科学技術計算用ポケット電卓</a>「<a href="https://ja.wikipedia.org/wiki/HP-35" title="wikilink">HP-35</a>」の開発（<a href="../Page/ヒューレット・パッカード.md" title="wikilink">ヒューレット・パッカード</a>）</p></td>
+<td><p>初の<a href="../Page/関数電卓.md" title="wikilink">科学技術計算用ポケット電卓</a>「<a href="https://ja.wikipedia.org/wiki/HP-35" title="wikilink">HP-35</a>」の開発（<a href="../Page/ヒューレット・パッカード.md" title="wikilink">ヒューレット・パッカード</a>）</p></td>
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/パロアルト_(カリフォルニア州)" title="wikilink">パロアルト</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/パロアルト_(カリフォルニア州).md" title="wikilink">パロアルト</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>（）</p></td>
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="../Page/マニトバ州.md" title="wikilink">マニトバ州</a><a href="https://ja.wikipedia.org/wiki/ウィニペグ" title="wikilink">ウィニペグ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/マニトバ州.md" title="wikilink">マニトバ州</a><a href="../Page/ウィニペグ.md" title="wikilink">ウィニペグ</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1020,14 +1020,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>初の<a href="../Page/パケット通信.md" title="wikilink">パケットネットワークによる</a><a href="https://ja.wikipedia.org/wiki/VoIP" title="wikilink">リアルタイム音声通信</a>（<a href="https://ja.wikipedia.org/wiki/MITリンカーン研究所" title="wikilink">MITリンカーン研究所</a>、USC<a href="https://ja.wikipedia.org/wiki/情報科学研究所" title="wikilink">情報科学研究所</a>）</p></td>
+<td><p>初の<a href="../Page/パケット通信.md" title="wikilink">パケットネットワークによる</a><a href="../Page/VoIP.md" title="wikilink">リアルタイム音声通信</a>（<a href="https://ja.wikipedia.org/wiki/MITリンカーン研究所" title="wikilink">MITリンカーン研究所</a>、USC<a href="https://ja.wikipedia.org/wiki/情報科学研究所" title="wikilink">情報科学研究所</a>）</p></td>
 <td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>-<a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
-<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="https://ja.wikipedia.org/wiki/レキシントン_(マサチューセッツ州)" title="wikilink">レキシントン</a></p></td>
+<td><p><a href="../Page/マサチューセッツ州.md" title="wikilink">マサチューセッツ州</a><a href="../Page/レキシントン_(マサチューセッツ州).md" title="wikilink">レキシントン</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>TRIUMFサイクロトロンによる世界初の500<a href="../Page/電子ボルト.md" title="wikilink">MeV</a><a href="https://ja.wikipedia.org/wiki/陽子線" title="wikilink">陽子線</a>の照射（）</p></td>
+<td><p>TRIUMFサイクロトロンによる世界初の500<a href="../Page/電子ボルト.md" title="wikilink">MeV</a><a href="../Page/陽子線.md" title="wikilink">陽子線</a>の照射（）</p></td>
 <td><p><a href="../Page/1974年.md" title="wikilink">1974年</a></p></td>
 <td><p><a href="../Page/ブリティッシュコロンビア州.md" title="wikilink">ブリティッシュコロンビア州</a><a href="../Page/バンクーバー_(ブリティッシュコロンビア州).md" title="wikilink">バンクーバー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
@@ -1043,35 +1043,35 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/音声符号化" title="wikilink">音声圧縮符号化のための</a><a href="https://ja.wikipedia.org/wiki/音声符号化#線スペクトル対" title="wikilink">LSP方式</a>（<a href="../Page/日本電信電話公社.md" title="wikilink">日本電信電話公社</a> <a href="../Page/板倉文忠.md" title="wikilink">板倉文忠</a>ら）</p></td>
 <td><p><a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>電力用酸化亜鉛形<a href="https://ja.wikipedia.org/wiki/避雷器#避雷器" title="wikilink">ギャップレス避雷器</a>（MOSA）（<a href="https://ja.wikipedia.org/wiki/明電舎" title="wikilink">明電舎</a>）</p></td>
 <td><p><a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>フローティングゲート型<a href="../Page/EEPROM.md" title="wikilink">EEPROM</a>（ヒューズ・マイクロエレクトロニクス）</p></td>
 <td><p><a href="../Page/1976年.md" title="wikilink">1976年</a>-<a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/ミルピタス_(カリフォルニア州)" title="wikilink">ミルピタス</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/ミルピタス_(カリフォルニア州).md" title="wikilink">ミルピタス</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>世界標準<a href="../Page/ビデオテープレコーダ.md" title="wikilink">家庭用ビデオ</a><a href="../Page/VHS.md" title="wikilink">VHS</a>の開発（<a href="../Page/日本ビクター.md" title="wikilink">日本ビクター</a>）</p></td>
 <td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/LZ77" title="wikilink">Lempel-Zivデータ圧縮アルゴリズム</a>（<a href="https://ja.wikipedia.org/wiki/エイブラハム・レンペル" title="wikilink">エイブラハム・レンペル</a>・<a href="https://ja.wikipedia.org/wiki/ジェイコブ・ジヴ" title="wikilink">ジェイコブ・ジヴ</a>）</p></td>
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイファ" title="wikilink">ハイファ</a></p></td>
+<td><p><a href="../Page/ハイファ.md" title="wikilink">ハイファ</a></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td></td>
 </tr>
@@ -1083,14 +1083,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>世界初の衛星搭載<a href="https://ja.wikipedia.org/wiki/合成開口レーダー" title="wikilink">合成開口レーダー</a>からのデジタル処理画像（(MDA)）</p></td>
+<td><p>世界初の衛星搭載<a href="../Page/合成開口レーダー.md" title="wikilink">合成開口レーダー</a>からのデジタル処理画像（(MDA)）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
-<td><p><a href="../Page/ブリティッシュコロンビア州.md" title="wikilink">ブリティッシュコロンビア州</a><a href="https://ja.wikipedia.org/wiki/リッチモンド_(ブリティッシュコロンビア州)" title="wikilink">リッチモンド</a></p></td>
+<td><p><a href="../Page/ブリティッシュコロンビア州.md" title="wikilink">ブリティッシュコロンビア州</a><a href="../Page/リッチモンド_(ブリティッシュコロンビア州).md" title="wikilink">リッチモンド</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>世界初の<a href="https://ja.wikipedia.org/wiki/音声合成" title="wikilink">音声生成に</a><a href="../Page/デジタル信号処理.md" title="wikilink">デジタル信号処理</a>ICを使用した教育用玩具「」（<a href="https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ" title="wikilink">テキサス・インスツルメンツ</a>）</p></td>
+<td><p>世界初の<a href="../Page/音声合成.md" title="wikilink">音声生成に</a><a href="../Page/デジタル信号処理.md" title="wikilink">デジタル信号処理</a>ICを使用した教育用玩具「」（<a href="../Page/テキサス・インスツルメンツ.md" title="wikilink">テキサス・インスツルメンツ</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
 <td><p><a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="../Page/ダラス.md" title="wikilink">ダラス</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
@@ -1104,7 +1104,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>20インチ<a href="../Page/光電子増倍管.md" title="wikilink">光電子増倍管</a>（<a href="https://ja.wikipedia.org/wiki/浜松ホトニクス" title="wikilink">浜松ホトニクス</a>）</p></td>
+<td><p>20インチ<a href="../Page/光電子増倍管.md" title="wikilink">光電子増倍管</a>（<a href="../Page/浜松ホトニクス.md" title="wikilink">浜松ホトニクス</a>）</p></td>
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a>-<a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="../Page/磐田市.md" title="wikilink">磐田市</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
@@ -1120,42 +1120,42 @@
 <tr class="even">
 <td><p>初の<a href="../Page/RISC.md" title="wikilink">RISC</a>マイクロプロセッサ（<a href="../Page/カリフォルニア大学バークレー校.md" title="wikilink">カリフォルニア大学バークレー校</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a>-<a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/バークレー_(カリフォルニア州)" title="wikilink">バークレー</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/バークレー_(カリフォルニア州).md" title="wikilink">バークレー</a></p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>16ビット<a href="https://ja.wikipedia.org/wiki/集積回路#モノリシック集積回路" title="wikilink">モノリシック</a><a href="../Page/デジタル-アナログ変換回路.md" title="wikilink">デジタル-アナログ変換回路</a>（<a href="https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ" title="wikilink">バーブラウン・リサーチ</a>）</p></td>
+<td><p>16ビット<a href="https://ja.wikipedia.org/wiki/集積回路#モノリシック集積回路" title="wikilink">モノリシック</a><a href="../Page/デジタル-アナログ変換回路.md" title="wikilink">デジタル-アナログ変換回路</a>（<a href="../Page/テキサス・インスツルメンツ.md" title="wikilink">バーブラウン・リサーチ</a>）</p></td>
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アリゾナ州" title="wikilink">アリゾナ州</a><a href="https://ja.wikipedia.org/wiki/ツーソン" title="wikilink">ツーソン</a>， <a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="../Page/ダラス.md" title="wikilink">ダラス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アリゾナ州" title="wikilink">アリゾナ州</a><a href="../Page/ツーソン.md" title="wikilink">ツーソン</a>， <a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="../Page/ダラス.md" title="wikilink">ダラス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/MUレーダー" title="wikilink">MUレーダー</a>（中層超高層大気観測用大型レーダー）（<a href="../Page/京都大学.md" title="wikilink">京都大学</a>・<a href="../Page/三菱電機.md" title="wikilink">三菱電機</a>）</p></td>
 <td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a><a href="../Page/京都市.md" title="wikilink">京都市</a>・<a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><a href="../Page/甲賀市.md" title="wikilink">甲賀市</a></p></td>
+<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/京都市.md" title="wikilink">京都市</a>・<a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><a href="../Page/甲賀市.md" title="wikilink">甲賀市</a></p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>世界初の直接<a href="../Page/衛星放送.md" title="wikilink">衛星放送</a>（<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>）</p></td>
 <td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/T1100" title="wikilink">T1100</a> <a href="https://ja.wikipedia.org/wiki/ラップトップパソコン" title="wikilink">ラップトップパソコン</a>開発における先駆的貢献（<a href="../Page/東芝.md" title="wikilink">東芝</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/T1100" title="wikilink">T1100</a> <a href="../Page/ラップトップパソコン.md" title="wikilink">ラップトップパソコン</a>開発における先駆的貢献（<a href="../Page/東芝.md" title="wikilink">東芝</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/緊急警報放送.md" title="wikilink">緊急警報放送</a>（<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td></td>
 </tr>
@@ -1169,7 +1169,7 @@
 <tr class="odd">
 <td><p><a href="../Page/SPARC.md" title="wikilink">SPARC</a> <a href="../Page/RISC.md" title="wikilink">RISC</a>アーキテクチャ（<a href="../Page/サン・マイクロシステムズ.md" title="wikilink">サン・マイクロシステムズ</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
-<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/サンタクララ_(カリフォルニア州)" title="wikilink">サンタクララ</a></p></td>
+<td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/サンタクララ_(カリフォルニア州).md" title="wikilink">サンタクララ</a></p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td></td>
 </tr>
@@ -1198,8 +1198,8 @@
 <td><p>特別賞</p></td>
 <td><p><a href="../Page/ニコラ・テスラ.md" title="wikilink">ニコラ・テスラ</a>、電磁気学分野の先駆者</p></td>
 <td><p><a href="../Page/1856年.md" title="wikilink">1856年</a>-<a href="../Page/1943年.md" title="wikilink">1943年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベオグラード" title="wikilink">ベオグラード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/ベオグラード.md" title="wikilink">ベオグラード</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コンピュータ歴史博物館" title="wikilink">コンピュータ歴史博物館</a></p></td>
@@ -1222,35 +1222,35 @@
   - 2000年7月
       - [東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")（1964年） - [JR東海](../Page/東海旅客鉄道.md "wikilink")
   - [2004年](../Page/2004年.md "wikilink")11月
-      - [電子式水晶腕時計](https://ja.wikipedia.org/wiki/クォーツ時計 "wikilink")\<[セイコークォーツ アストロンSQ35](https://ja.wikipedia.org/wiki/アストロン_\(腕時計\) "wikilink")\>（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")） - [セイコー](../Page/セイコーホールディングス.md "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月
+      - [電子式水晶腕時計](../Page/クォーツ時計.md "wikilink")\<[セイコークォーツ アストロンSQ35](https://ja.wikipedia.org/wiki/アストロン_\(腕時計\) "wikilink")\>（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")） - [セイコー](../Page/セイコーホールディングス.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")12月
       - [電子式卓上計算機の先駆的事業](../Page/電卓.md "wikilink")（1964年-[1973年](../Page/1973年.md "wikilink")） - [シャープ](../Page/シャープ.md "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月
+  - [2006年](../Page/2006年.md "wikilink")10月
       - 世界標準家庭用ビデオ[VHS](../Page/VHS.md "wikilink")の開発（[1976年](../Page/1976年.md "wikilink")） - [日本ビクター](../Page/日本ビクター.md "wikilink")
   - [2007年](../Page/2007年.md "wikilink")11月
-      - 鉄道[自動改札システム](../Page/自動改札機.md "wikilink")（[1965年](../Page/1965年.md "wikilink")-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")） - [オムロン](https://ja.wikipedia.org/wiki/オムロン "wikilink")・[近鉄](../Page/近畿日本鉄道.md "wikilink")・[阪急](../Page/阪急電鉄.md "wikilink")・[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")
+      - 鉄道[自動改札システム](../Page/自動改札機.md "wikilink")（[1965年](../Page/1965年.md "wikilink")-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")） - [オムロン](../Page/オムロン.md "wikilink")・[近鉄](../Page/近畿日本鉄道.md "wikilink")・[阪急](../Page/阪急電鉄.md "wikilink")・[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月
       - 日本語[ワードプロセッサ](../Page/ワードプロセッサ.md "wikilink")（1971年-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")） - [東芝](../Page/東芝.md "wikilink")
   - [2009年](../Page/2009年.md "wikilink")5月
       - [依佐美送信所](../Page/依佐美送信所.md "wikilink")（[1929年](../Page/1929年.md "wikilink")） - [刈谷市](../Page/刈谷市.md "wikilink")
   - 2009年10月
-      - [フェライト](https://ja.wikipedia.org/wiki/フェライト "wikilink")の発明とその工業化（[1930年](../Page/1930年.md "wikilink")-[1945年](../Page/1945年.md "wikilink")） - [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")・[東京工業大学](../Page/東京工業大学.md "wikilink")
+      - [フェライト](https://ja.wikipedia.org/wiki/フェライト "wikilink")の発明とその工業化（[1930年](../Page/1930年.md "wikilink")-[1945年](../Page/1945年.md "wikilink")） - [TDK](../Page/TDK.md "wikilink")・[東京工業大学](../Page/東京工業大学.md "wikilink")
   - 2009年11月
-      - [電子式テレビジョンの開発](../Page/テレビ受像機.md "wikilink")\<[高柳式テレビジョン](../Page/高柳健次郎.md "wikilink")\>（1924年-[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")） - [静岡大学](https://ja.wikipedia.org/wiki/静岡大学 "wikilink")
+      - [電子式テレビジョンの開発](../Page/テレビ受像機.md "wikilink")\<[高柳式テレビジョン](../Page/高柳健次郎.md "wikilink")\>（1924年-[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")） - [静岡大学](../Page/静岡大学.md "wikilink")
       - 初の太平洋横断衛星テレビジョン伝送\<[KDDI茨城衛星通信センター](../Page/KDDI茨城衛星通信センター.md "wikilink")\>（[1963年](../Page/1963年.md "wikilink")） - [KDDI](../Page/KDDI.md "wikilink")
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月
-      - [黒部川第四発電所](https://ja.wikipedia.org/wiki/黒部川第四発電所 "wikilink")（[1956年](../Page/1956年.md "wikilink")-1963年） - [関西電力](../Page/関西電力.md "wikilink")
+      - [黒部川第四発電所](../Page/黒部川第四発電所.md "wikilink")（[1956年](../Page/1956年.md "wikilink")-1963年） - [関西電力](../Page/関西電力.md "wikilink")
       - [太陽電池](../Page/太陽電池.md "wikilink")の商業化および産業化（[1959年](../Page/1959年.md "wikilink")-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")） - シャープ
   - [2011年](../Page/2011年.md "wikilink")11月
       - 初の直接[衛星放送](../Page/衛星放送.md "wikilink")（[1984年](../Page/1984年.md "wikilink")） - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
   - [2012年](../Page/2012年.md "wikilink")1月
       - [電界放出形電子顕微鏡の実用化](../Page/走査型電子顕微鏡.md "wikilink")（[1972年](../Page/1972年.md "wikilink")） - [日立製作所](../Page/日立製作所.md "wikilink")・[日立ハイテクノロジーズ](https://ja.wikipedia.org/wiki/日立ハイテクノロジーズ "wikilink")
   - 2012年4月
-      - G3[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")の国際標準化（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")） - [NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")・KDDI
+      - G3[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")の国際標準化（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")） - [NTT](../Page/日本電信電話.md "wikilink")・KDDI
   - [2013年](../Page/2013年.md "wikilink")10月
-      - 東芝「T1100」、[ラップトップパソコン](https://ja.wikipedia.org/wiki/ラップトップパソコン "wikilink")開発における先駆的貢献（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")） - 東芝
+      - 東芝「T1100」、[ラップトップパソコン](../Page/ラップトップパソコン.md "wikilink")開発における先駆的貢献（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")） - 東芝
   - [2014年](../Page/2014年.md "wikilink")4月
-      - 日本の[一次](../Page/一次電池.md "wikilink")・[二次電池](../Page/二次電池.md "wikilink")産業の誕生と成長（[1893年](../Page/1893年.md "wikilink")） - [屋井乾電池](https://ja.wikipedia.org/wiki/屋井乾電池 "wikilink")（[乾電池](../Page/乾電池.md "wikilink")の発明）・[GSユアサ](https://ja.wikipedia.org/wiki/GSユアサ "wikilink")（[鉛蓄電池](../Page/鉛蓄電池.md "wikilink")）・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（乾電池、[リチウム一次電池](https://ja.wikipedia.org/wiki/リチウム電池 "wikilink")、[ニカド電池](https://ja.wikipedia.org/wiki/ニカド電池 "wikilink")）
+      - 日本の[一次](../Page/一次電池.md "wikilink")・[二次電池](../Page/二次電池.md "wikilink")産業の誕生と成長（[1893年](../Page/1893年.md "wikilink")） - [屋井乾電池](https://ja.wikipedia.org/wiki/屋井乾電池 "wikilink")（[乾電池](../Page/乾電池.md "wikilink")の発明）・[GSユアサ](https://ja.wikipedia.org/wiki/GSユアサ "wikilink")（[鉛蓄電池](../Page/鉛蓄電池.md "wikilink")）・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（乾電池、[リチウム一次電池](../Page/リチウム電池.md "wikilink")、[ニカド電池](https://ja.wikipedia.org/wiki/ニカド電池 "wikilink")）
   - 2014年5月
       - [音声圧縮符号化のための](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")[LSP方式](https://ja.wikipedia.org/wiki/音声符号化#線スペクトル対 "wikilink")（[1975年](../Page/1975年.md "wikilink")） - NTT
   - 2014年6月
@@ -1258,11 +1258,11 @@
   - 2014年8月
       - 電力用酸化亜鉛形[ギャップレス避雷器](https://ja.wikipedia.org/wiki/避雷器#避雷器 "wikilink")（MOSA）（1975年） - [明電舎](https://ja.wikipedia.org/wiki/明電舎 "wikilink")
   - 2014年11月
-      - 20インチ[光電子増倍管](../Page/光電子増倍管.md "wikilink")（[1979年](../Page/1979年.md "wikilink")-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")） - [浜松ホトニクス](https://ja.wikipedia.org/wiki/浜松ホトニクス "wikilink")
+      - 20インチ[光電子増倍管](../Page/光電子増倍管.md "wikilink")（[1979年](../Page/1979年.md "wikilink")-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")） - [浜松ホトニクス](../Page/浜松ホトニクス.md "wikilink")
       - 第一太平洋横断ケーブル（TPC-1）（1964年-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")） - KDDI
   - [2015年](../Page/2015年.md "wikilink")5月
       - [MUレーダー](https://ja.wikipedia.org/wiki/MUレーダー "wikilink")（中層超高層大気観測用大型レーダー）（1984年） - [京都大学](../Page/京都大学.md "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")
-      - 高品質[光ファイバー](../Page/光ファイバー.md "wikilink")量産製法として用いられる[VAD法](https://ja.wikipedia.org/wiki/光ファイバー#素材による分類 "wikilink")（[1977年](../Page/1977年.md "wikilink")-1983年） - NTT・[古河電工](https://ja.wikipedia.org/wiki/古河電気工業 "wikilink")・[住友電工](https://ja.wikipedia.org/wiki/住友電気工業 "wikilink")・[フジクラ](../Page/フジクラ.md "wikilink")
+      - 高品質[光ファイバー](../Page/光ファイバー.md "wikilink")量産製法として用いられる[VAD法](https://ja.wikipedia.org/wiki/光ファイバー#素材による分類 "wikilink")（[1977年](../Page/1977年.md "wikilink")-1983年） - NTT・[古河電工](../Page/古河電気工業.md "wikilink")・[住友電工](../Page/住友電気工業.md "wikilink")・[フジクラ](../Page/フジクラ.md "wikilink")
   - [2016年](../Page/2016年.md "wikilink")5月
       - [高精細度テレビジョン放送](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")\<[ハイビジョン](../Page/ハイビジョン.md "wikilink")\>（1964年-[1989年](../Page/1989年.md "wikilink")） - NHK
       - [緊急警報放送](../Page/緊急警報放送.md "wikilink")（1985年） - NHK
@@ -1275,7 +1275,7 @@
 <!-- end list -->
 
   - [2017年](../Page/2017年.md "wikilink")2月
-      - [温度無依存水晶振動子](https://ja.wikipedia.org/wiki/水晶振動子 "wikilink")（[1933年](../Page/1933年.md "wikilink")） - [東京工業大学](../Page/東京工業大学.md "wikilink")
+      - [温度無依存水晶振動子](../Page/水晶振動子.md "wikilink")（[1933年](../Page/1933年.md "wikilink")） - [東京工業大学](../Page/東京工業大学.md "wikilink")
 
 <!-- end list -->
 
@@ -1285,7 +1285,7 @@
 <!-- end list -->
 
   - 2017年6月
-      - [野辺山45メートル電波望遠鏡](https://ja.wikipedia.org/wiki/野辺山宇宙電波観測所 "wikilink")（1982年） - [国立天文台](https://ja.wikipedia.org/wiki/国立天文台 "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")
+      - [野辺山45メートル電波望遠鏡](../Page/野辺山宇宙電波観測所.md "wikilink")（1982年） - [国立天文台](../Page/国立天文台.md "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")
 
 <!-- end list -->
 
@@ -1295,7 +1295,7 @@
 <!-- end list -->
 
   - [2018年](../Page/2018年.md "wikilink")3月
-      - [オーロラビジョン](https://ja.wikipedia.org/wiki/オーロラビジョン "wikilink")(カラー大型映像装置) ([1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")) - 三菱電機\[2\]
+      - [オーロラビジョン](../Page/オーロラビジョン.md "wikilink")(カラー大型映像装置) ([1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")) - 三菱電機\[2\]
 
 ## 脚注
 

@@ -3,11 +3,11 @@
 
 [Twm_screenshot_svga.png](https://ja.wikipedia.org/wiki/File:Twm_screenshot_svga.png "fig:Twm_screenshot_svga.png")
 
-**twm**（Tom's Window Manager,またはTab Window Manager）は[X Window System用の](../Page/X_Window_System.md "wikilink")[ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")の一つ。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にTom LaStrangeによって開発された。X11R4以降、標準のウィンドウマネージャとしてXサーバに同梱されている。
+**twm**（Tom's Window Manager,またはTab Window Manager）は[X Window System用の](../Page/X_Window_System.md "wikilink")[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")の一つ。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にTom LaStrangeによって開発された。X11R4以降、標準のウィンドウマネージャとしてXサーバに同梱されている。
 
 現在では何らかの原因で[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")などが立ち上がらない時などに、緊急用として使われているのがほとんどであるが、動作の軽快さ、仕様の単純さ、カスタマイズのしやすさ、他ライブラリへの依存度の少なさといった理由により少数の愛好者が存在する。
 
-コードはもはやメンテナンスされていないが、[swm](https://ja.wikipedia.org/wiki/swm "wikilink")、[vtwm](https://ja.wikipedia.org/wiki/vtwm "wikilink")、[CTWM](https://ja.wikipedia.org/wiki/CTWM "wikilink")、[FVWM](https://ja.wikipedia.org/wiki/FVWM "wikilink")といった様々な派生が作られている。
+コードはもはやメンテナンスされていないが、[swm](https://ja.wikipedia.org/wiki/swm "wikilink")、[vtwm](https://ja.wikipedia.org/wiki/vtwm "wikilink")、[CTWM](https://ja.wikipedia.org/wiki/CTWM "wikilink")、[FVWM](../Page/FVWM.md "wikilink")といった様々な派生が作られている。
 
 ## 歴史
 

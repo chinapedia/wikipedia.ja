@@ -13,7 +13,7 @@
 
 1.  [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink") "Euro-Power Mix"
       -
-        Remixed by [Dave Rodgers](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")
+        Remixed by [Dave Rodgers](../Page/デイブ・ロジャース.md "wikilink")
 2.  [appears](https://ja.wikipedia.org/wiki/appears "wikilink") "Aggressive Extended Mix"
       -
         Remixed by Sergio Dall'ora & Luca DegAni
@@ -25,7 +25,7 @@
         Remixed by Dave Rodgers & Albert Contini
 5.  [monochrome](../Page/A_\(シングル\).md "wikilink") "ayu-ro Extended Mix"
       -
-        Remixed by [Bratt Sinclaire](https://ja.wikipedia.org/wiki/アンドレア・レオナルディ "wikilink")
+        Remixed by [Bratt Sinclaire](../Page/アンドレア・レオナルディ.md "wikilink")
 6.  [too late](../Page/A_\(シングル\).md "wikilink") "Euro-Power Mix"
       -
         Remixed by Dave Rodgers & Albert Contini
@@ -37,7 +37,7 @@
         Remixed by Sergio Dall'ora & Luca DegAni
 9.  [WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink") "Sentimental Mix"
       -
-        Remixed by [Laurent Newfield](https://ja.wikipedia.org/wiki/ローラン・ジェルメッティ "wikilink")
+        Remixed by [Laurent Newfield](../Page/ローラン・ジェルメッティ.md "wikilink")
 10. [End roll](../Page/A_\(シングル\).md "wikilink") "ayu-ro Extended Mix"
       -
         Remixed by Laurent Newfield

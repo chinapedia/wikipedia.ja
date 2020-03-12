@@ -1,26 +1,26 @@
 > この記事は[GARDEN \(\)](https://ja.wikipedia.org/wiki/GARDEN_\(\))から翻訳されています。
 
 
-**GARDEN**（ガーデン）は、嶋田衛（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）と嶋田繁（[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。**NICO**（ニコ）としての活動を経て、[1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりシングル「リダイヤル」でGARDENとして再デビュー。
+**GARDEN**（ガーデン）は、嶋田衛（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）と嶋田繁（[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）による[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。**NICO**（ニコ）としての活動を経て、[1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりシングル「リダイヤル」でGARDENとして再デビュー。
 
 ## メンバー
 
-  - 嶋田衛（しまだ まもる、[1959年](../Page/1959年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）ボーカル、ギター、キーボード。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。（主に作曲）
+  - 嶋田衛（しまだ まもる、[1959年](../Page/1959年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）ボーカル、ギター、キーボード。[東京都](../Page/東京都.md "wikilink")出身。（主に作曲）
   - 嶋田繁（しまだ しげる、1959年5月4日 - ）ボーカル、ギター。東京都出身（主に作詞）
 
 嶋田衛が兄、嶋田繁が弟の双子である。
 
 ## 経歴
 
-[1982年](../Page/1982年.md "wikilink")に**[NEWSレコード](https://ja.wikipedia.org/wiki/NEWSレコード "wikilink")**(販売:[キャニオン・レコード](../Page/ポニーキャニオン.md "wikilink"))より**nico**(ニコ)としてデビュー。この頃は「嶋田まもる」「嶋田しげる」と表記していた。
+[1982年](../Page/1982年.md "wikilink")に**[NEWSレコード](../Page/NEWSレコード.md "wikilink")**(販売:[キャニオン・レコード](../Page/ポニーキャニオン.md "wikilink"))より**nico**(ニコ)としてデビュー。この頃は「嶋田まもる」「嶋田しげる」と表記していた。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に**[アルファ・ムーン](../Page/MOON_RECORDS.md "wikilink")**(販売:[ワーナー・パイオニア](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink"))へ移籍。以後、「嶋田衛」「嶋田繁」の表記に。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に**[アルファ・ムーン](../Page/MOON_RECORDS.md "wikilink")**(販売:[ワーナー・パイオニア](../Page/ワーナーミュージック・ジャパン.md "wikilink"))へ移籍。以後、「嶋田衛」「嶋田繁」の表記に。
 
-[1992年](../Page/1992年.md "wikilink")にソニーレコードより**GARDEN**として再デビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[アルファミュージックへ移籍](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")へ移籍。その後、独自レーベル、**フラワートップ**を立ち上げ現在に至る。
+[1992年](../Page/1992年.md "wikilink")にソニーレコードより**GARDEN**として再デビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[アルファミュージックへ移籍](../Page/アルファレコード.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")へ移籍。その後、独自レーベル、**フラワートップ**を立ち上げ現在に至る。
 
 GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "wikilink")、[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")、[山本麻里安](../Page/山本麻里安.md "wikilink")らに楽曲を提供することも多く、特に最も大ヒットした有名曲としては織田裕二に提供した「[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")」シリーズの主題歌「[Love Somebody](https://ja.wikipedia.org/wiki/Love_Somebody "wikilink")」がある。また、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")が「Beautiful」をカバーしたが、当時は似た名前の有名なグループが存在していたために多くのファンに勘違いを生じさせてしまった。
 
-[2002年](../Page/2002年.md "wikilink")には『[ポケットモンスター アドバンスジェネレーション](https://ja.wikipedia.org/wiki/ポケットモンスター_アドバンスジェネレーション "wikilink")』の主題歌に起用される。
+[2002年](../Page/2002年.md "wikilink")には『[ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")』の主題歌に起用される。
 
 ## ディスコグラフィー(GARDEN)
 
@@ -31,14 +31,14 @@ GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "w
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[ZUKEZUKEチャンネル](https://ja.wikipedia.org/wiki/ZUKEZUKEチャンネル "wikilink")」エンディングテーマ
 2.  キッスの途中で涙が（ソニーレコード）1993/02/01
       -
-        [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[ミラクル☆ガールズ](https://ja.wikipedia.org/wiki/ミラクル☆ガールズ "wikilink")」オープニングテーマ
+        [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[ミラクル☆ガールズ](../Page/ミラクル☆ガールズ.md "wikilink")」オープニングテーマ
 3.  恋の未来（ソニーレコード）1993/07/21
       -
         日本テレビ「ミラクル☆ガールズ」オープニングテーマ
 4.  君が火をつけた\!（ソニーレコード）1993/09/22
 5.  Beautiful（アルファミュージック）1995/03/01
       -
-        テレビ東京「[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")」エンディングテーマ
+        テレビ東京「[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")」エンディングテーマ
 6.  僕は君と歩きたい（アルファミュージック）1995/10/18
       -
         [三井不動産](../Page/三井不動産.md "wikilink")「パークホームズ」CMソング
@@ -53,13 +53,13 @@ GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "w
       -
         [TBS系](../Page/TBSテレビ.md "wikilink")[花王 愛の劇場](../Page/愛の劇場.md "wikilink")「[WHO\!?](../Page/WHO!?.md "wikilink")」主題歌
 11. Woo baby（日本コロムビア）1998/09/19
-12. [アドバンス・アドベンチャー](https://ja.wikipedia.org/wiki/アドバンス・アドベンチャー "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")/[ピカチュウレコード](https://ja.wikipedia.org/wiki/ピカチュウレコード "wikilink")）2003/01/29
+12. [アドバンス・アドベンチャー](https://ja.wikipedia.org/wiki/アドバンス・アドベンチャー "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")/[ピカチュウレコード](../Page/ピカチュウレコード.md "wikilink")）2003/01/29
       -
-        テレビ東京「[ポケットモンスター アドバンスジェネレーション](https://ja.wikipedia.org/wiki/ポケットモンスター_アドバンスジェネレーション "wikilink")」オープニングテーマ
+        テレビ東京「[ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")」オープニングテーマ
 13. [GLORY DAY 〜輝くその日〜](https://ja.wikipedia.org/wiki/ポケモンシンフォニックメドレー/GLORY_DAY_〜輝くその日〜 "wikilink")（メディアファクトリー/ピカチュウレコード）2005/02/02
       -
         テレビ東京「ポケットモンスター アドバンスジェネレーション」エンディングテーマ
-14. Late-show（[フロンティアワークス](https://ja.wikipedia.org/wiki/フロンティアワークス "wikilink")）2007/04/25
+14. Late-show（[フロンティアワークス](../Page/フロンティアワークス.md "wikilink")）2007/04/25
       -
         OVA「[最遊記RELOAD -burial-](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")」オープニングテーマ
 
@@ -87,7 +87,7 @@ GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "w
 
 ### シングル
 
-  - [NEWSレコード](https://ja.wikipedia.org/wiki/NEWSレコード "wikilink")
+  - [NEWSレコード](../Page/NEWSレコード.md "wikilink")
 
 <!-- end list -->
 
@@ -125,12 +125,12 @@ GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "w
 
   - 風を読んで：[花王](../Page/花王.md "wikilink")「フリーデイ」CMソング
   - ずーっとずっと：[マルハペットフード](https://ja.wikipedia.org/wiki/マルハペットフード "wikilink")「金缶ミニ」CMソング
-  - Face to Face：[信金中央金庫](https://ja.wikipedia.org/wiki/信金中央金庫 "wikilink")（信金バンク）CMソング
+  - Face to Face：[信金中央金庫](../Page/信金中央金庫.md "wikilink")（信金バンク）CMソング
   - 空は晴れてる：「[丸栄百貨店](https://ja.wikipedia.org/wiki/丸栄百貨店 "wikilink")'98スイムウェア」CMソング
 
 ## 他アーティストへの提供楽曲
 
-  - [河西智美](https://ja.wikipedia.org/wiki/河西智美 "wikilink")「[memory](https://ja.wikipedia.org/wiki/今さらさら "wikilink")」(2014)
+  - [河西智美](../Page/河西智美.md "wikilink")「[memory](https://ja.wikipedia.org/wiki/今さらさら "wikilink")」(2014)
 
 ## 外部リンク
 

@@ -79,7 +79,7 @@
 
 ## 歴代所属選手
 
-### [GK](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")
+### [GK](../Page/ゴールキーパー_\(サッカー\).md "wikilink")
 
   - [マルコ・バロッタ](../Page/マルコ・バロッタ.md "wikilink") 1984-1990, 2001-2004
 
@@ -109,9 +109,9 @@
 
   - [ホルヘ・ボラーニョ](https://ja.wikipedia.org/wiki/ホルヘ・ボラーニョ "wikilink") 2007-2009
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
-  - [エンリコ・キエーザ](https://ja.wikipedia.org/wiki/エンリコ・キエーザ "wikilink") 1993-1994
+  - [エンリコ・キエーザ](../Page/エンリコ・キエーザ.md "wikilink") 1993-1994
 
   - [ルカ・トーニ](../Page/ルカ・トーニ.md "wikilink") 1994-1996
 
@@ -123,7 +123,7 @@
 
   - [マッシモ・マラッツィーナ](https://ja.wikipedia.org/wiki/マッシモ・マラッツィーナ "wikilink") 2003.1-2004
 
-  - [アサモア・ギャン](https://ja.wikipedia.org/wiki/アサモア・ギャン "wikilink") 2004-2006
+  - [アサモア・ギャン](../Page/アサモア・ギャン.md "wikilink") 2004-2006
 
   - [クリスティアン・パスクアート](https://ja.wikipedia.org/wiki/クリスティアン・パスクアート "wikilink") 2010-2011
 

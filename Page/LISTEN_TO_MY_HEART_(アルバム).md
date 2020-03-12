@@ -20,13 +20,13 @@
       - 作詞：[三原真紀](../Page/CEYREN.md "wikilink")／作曲・編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
       - 韓国における1.5集『**[Jumping into the World](../Page/Don't_start_now_-_Jumping_into_the_World.md "wikilink")**』にオリジナル版が収録。
 3.  **[Every Heart -ミンナノキモチ-](../Page/Every_Heart_-ミンナノキモチ-.md "wikilink")**
-      - 作詞：渡辺なつみ／作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")／編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")／ストリングアレンジ：旭純
+      - 作詞：渡辺なつみ／作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")／編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")／ストリングアレンジ：旭純
       - 5th シングル。
 4.  **[Don't start now](../Page/Don't_start_now.md "wikilink")**
       - 作詞：Yoo Young Jin／日本語詞：海老根祐子／作曲・編曲：Peter Rafelson、Jeff Vincent
       - 後に6thシングルとして、シングルカットされた。なおシングルには日本語版の他に英語版・韓国語版も収録されている。
 5.  **[気持ちはつたわる](../Page/気持ちはつたわる.md "wikilink")**
-      - 作詞：[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")／作曲：BOUNCEBACK／編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
+      - 作詞：[康珍化](../Page/康珍化.md "wikilink")／作曲：BOUNCEBACK／編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
       - 3rd シングル。
 6.  **Share your heart（with me）**
       - 作詞：海老根祐子／作曲：村松哲也／編曲：AKIRA

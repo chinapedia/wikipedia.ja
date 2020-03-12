@@ -1,7 +1,7 @@
 > この記事は[EbXML Collaboration Protocol Profile and Agreement](https://ja.wikipedia.org/wiki/EbXML_Collaboration_Protocol_Profile_and_Agreement)から翻訳されています。
 
 
-**ebXML Collaboration Protocol Profile and Agreement** (**ebCPPA**) は、企業間[電子商取引](../Page/電子商取引.md "wikilink")において、プロトコル上の能力や取引の役割に関して、取引当事者のプロファイルを記述し、また、取引を行う2者間の合意を記述するための[XML言語である](../Page/Extensible_Markup_Language.md "wikilink")。[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")の仕様のひとつであり、[OASISで標準化されている](https://ja.wikipedia.org/wiki/OASIS_\(組織\) "wikilink")。また、[ISOによってISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/TS 15000-1として承認されている。
+**ebXML Collaboration Protocol Profile and Agreement** (**ebCPPA**) は、企業間[電子商取引](../Page/電子商取引.md "wikilink")において、プロトコル上の能力や取引の役割に関して、取引当事者のプロファイルを記述し、また、取引を行う2者間の合意を記述するための[XML言語である](../Page/Extensible_Markup_Language.md "wikilink")。[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")の仕様のひとつであり、[OASISで標準化されている](../Page/OASIS_\(組織\).md "wikilink")。また、[ISOによってISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/TS 15000-1として承認されている。
 
 CPPAは実際には、CPP (Collaboration Protocol Profile) とCPA (Collaboration Protocol Agreement) の2つの言語を規定する。この2つの言語は共通点が多いため、その文法は1つの[XML Schema定義で規定されている](https://ja.wikipedia.org/wiki/XML_Schema "wikilink")。
 

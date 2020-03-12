@@ -22,9 +22,9 @@
 ※解散後の個々の活動は各メンバーの個人ページを参照。
 
   - [YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")（ユー）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。
   - [戸田誠司](../Page/戸田誠司.md "wikilink")（とだ せいじ）
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、[作曲](../Page/作曲.md "wikilink")を担当。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、[作曲](../Page/作曲.md "wikilink")を担当。
   - 川口浩和（かわぐち ひろかず）
     [ギター](../Page/ギター.md "wikilink")担当。
 
@@ -97,9 +97,9 @@
 | 楽曲        | タイアップ                                                                                                                             |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | おまかせピタゴラス | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』エンディングテーマ |
-| アウラ       | [トミー](https://ja.wikipedia.org/wiki/トミー_\(企業\) "wikilink")『てのひらピッピ』CMソング                                                          |
+| アウラ       | [トミー](../Page/トミー_\(企業\).md "wikilink")『てのひらピッピ』CMソング                                                                             |
 | ラブ・シックは好き | フジテレビ系『[ヘイ\!あがり一丁](https://ja.wikipedia.org/wiki/ヘイ!あがり一丁 "wikilink")』主題歌                                                         |
-| コールバック    | [NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")『パジャマコール』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")        |
+| コールバック    | [NTT](../Page/日本電信電話.md "wikilink")『パジャマコール』[CMソング](../Page/コマーシャルソング.md "wikilink")                                              |
 | 探してるのにぃ   | [サントリー](../Page/サントリー.md "wikilink")『紅茶のお酒』CMソング                                                                                  |
 | もうはなさないっ  |                                                                                                                                   |
 | スキスキ有頂天国  | [アルペン](../Page/アルペン_\(企業\).md "wikilink")'92 アドベンチャースキー CMソング                                                                     |

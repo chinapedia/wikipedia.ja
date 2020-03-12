@@ -1,21 +1,21 @@
 > この記事は[Pop Up! SMAP](https://ja.wikipedia.org/wiki/Pop_Up!_SMAP)から翻訳されています。
 
 
-『**Pop Up\! SMAP**』（ポップ アップ\! スマップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")**[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**の17枚目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[ビクターエンタテインメントから発売](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。
+『**Pop Up\! SMAP**』（ポップ アップ\! スマップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")**[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**の17枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[ビクターエンタテインメントから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 
   - 今作以降、スタジオアルバムが2年おきの発売となる。
   - 本年SMAPが、1991年9月9日にCDデビューをしてから満15周年を記念してリリースされた記念作品でもある。
   - 初回生産分のみ、スペシャルパッケージ仕様。3D（赤青）メガネ封入。
-  - ジャケットデザインは、前作「[SAMPLE BANG\!](https://ja.wikipedia.org/wiki/SAMPLE_BANG! "wikilink")」同様、デザイナーの[佐藤可士和](../Page/佐藤可士和.md "wikilink")が担当。
+  - ジャケットデザインは、前作「[SAMPLE BANG\!](../Page/SAMPLE_BANG!.md "wikilink")」同様、デザイナーの[佐藤可士和](../Page/佐藤可士和.md "wikilink")が担当。
   - 通常盤より、初回盤の方が歌詞カードのサイズが一回り小さく、おまけに歌詞カードの裏面のメンバーの写真に付属のメガネで見ると、立体的に見えるように細工がされている（通常盤は細工がされていない。）
   - 「Pop Up\! SMAP」では、タカチャ（Nai Yai Yai）やHOME MADE 家族のMICRO（TAKE OFF）などの有名人が作詞している曲がある。
   - 「だいじょうぶ」は、アマチュア時代に[Aqua Timez自身のライブで主に最後に演奏されていた曲であり](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")、彼らの自主制作シングル「いつもいっしょ」のカップリング曲として収録されている。
 
 ## チャート成績
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")付の[オリコン週間アルバムチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週32万枚を売り上げ、初登場1位を獲得した。
+  - [2006年](../Page/2006年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")付の[オリコン週間アルバムチャートで](../Page/オリコンチャート.md "wikilink")、初週32万枚を売り上げ、初登場1位を獲得した。
   - 累計売上は43.8万枚（[オリコン](../Page/オリコン.md "wikilink")調べ）。
 
 ## 収録曲
@@ -39,13 +39,13 @@
       -
         作詞:[ナイス橋本](../Page/ナイス橋本.md "wikilink") / 作曲:[村カワ基成](https://ja.wikipedia.org/wiki/村カワ基成 "wikilink")・ナイス橋本 / 編曲:村カワ基成
         この曲にちなみ、一時期稲垣は『パリピアリーダー』と呼ばれていた。
-6.  **[Triangle](https://ja.wikipedia.org/wiki/Triangle_\(SMAPの曲\) "wikilink")**
+6.  **[Triangle](../Page/Triangle_\(SMAPの曲\).md "wikilink")**
       -
-        作詞・作曲:[市川喜康](https://ja.wikipedia.org/wiki/市川喜康 "wikilink") / 編曲:小西貴雄
+        作詞・作曲:[市川喜康](../Page/市川喜康.md "wikilink") / 編曲:小西貴雄
     <!-- end list -->
       - 38thシングル
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 スポーツ中継テーマソング
-7.  **モアイ** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・香取慎吾
+7.  **モアイ** - [木村拓哉](../Page/木村拓哉.md "wikilink")・香取慎吾
       -
         作詞・作曲:[Caravan](../Page/Caravan.md "wikilink") / 編曲:知野芳彦
 8.  **Call Your Number**
@@ -54,7 +54,7 @@
         木村・香取には、歌詞カードには載っていないラップパートがある。
 9.  **星空の下で**
       -
-        作詞・作曲:YoYo・GooF are [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink") / 編曲:[橋本和則](../Page/橋本和則.md "wikilink") / コーラスアレンジ:YoYo（SOFFet）
+        作詞・作曲:YoYo・GooF are [SOFFet](../Page/SOFFet.md "wikilink") / 編曲:[橋本和則](../Page/橋本和則.md "wikilink") / コーラスアレンジ:YoYo（SOFFet）
         2008年発売のSOFFetのベストアルバム『[SOFFet BEST ALBUM -ALL SINGLES COLLECTION-](https://ja.wikipedia.org/wiki/SOFFet_BEST_ALBUM_-ALL_SINGLES_COLLECTION- "wikilink")』初回限定盤に、セルフカバーが収録された。
 10. **だいじょうぶ**
       -
@@ -79,9 +79,9 @@
 
 1.  **女の子とLOVE SONG** - [中居正広](../Page/中居正広.md "wikilink")
       -
-        作詞・作曲・編曲:[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+        作詞・作曲・編曲:[後藤次利](../Page/後藤次利.md "wikilink")
     <!-- end list -->
-      - [浦嶋りんこ](https://ja.wikipedia.org/wiki/浦嶋りんこ "wikilink")とのデュエット曲
+      - [浦嶋りんこ](../Page/浦嶋りんこ.md "wikilink")とのデュエット曲
     <!-- end list -->
       -
         中居のソロ曲で自身が作詞・作曲に参加しないのは『[My Childhood Friend 〜 鏡の中のRadio](https://ja.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")』以来、12年振り。
@@ -91,7 +91,7 @@
         このアルバムのソロ曲には2曲候補があり、この曲ともう1曲ハードなロックな曲があったが、後者を選ぶだろうと思っていた周りを木村自身が驚かせようとこのバラードの曲を選んだ、と自身のラジオで語っている。
 3.  **L-O-V-E** - 稲垣吾郎
       -
-        作詞・作曲:Bert Keempreft・M Gabler / 編曲:[小西康陽](../Page/小西康陽.md "wikilink") / ストリングスアレンジ:[久米大作](https://ja.wikipedia.org/wiki/久米大作 "wikilink") / 日本語詞:[漣健児](../Page/漣健児.md "wikilink")
+        作詞・作曲:Bert Keempreft・M Gabler / 編曲:[小西康陽](../Page/小西康陽.md "wikilink") / ストリングスアレンジ:[久米大作](../Page/久米大作.md "wikilink") / 日本語詞:[漣健児](../Page/漣健児.md "wikilink")
     <!-- end list -->
       - [ナット・キング・コール](../Page/ナット・キング・コール.md "wikilink")のカバー
     <!-- end list -->
@@ -114,7 +114,7 @@
       - 倖田來未とのデュエット曲
     <!-- end list -->
       -
-        このアルバムを発売した後のツアーの[9月28日](../Page/9月28日.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演では、倖田本人が飛び入り参加し2人のデュエットが実現。また、[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")・ホールAで行われた倖田のライブコンサートに香取が飛び入り参加し、再びデュエットをしている。
+        このアルバムを発売した後のツアーの[9月28日](../Page/9月28日.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演では、倖田本人が飛び入り参加し2人のデュエットが実現。また、[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")・ホールAで行われた倖田のライブコンサートに香取が飛び入り参加し、再びデュエットをしている。
 
 ## 関連項目
 

@@ -1,19 +1,19 @@
 > この記事は[NIPPS](https://ja.wikipedia.org/wiki/NIPPS)から翻訳されています。
 
 
-**NIPPS**（ニップス、本名：木村 秀己）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[BUDDHA BRANDのMCとして活動](https://ja.wikipedia.org/wiki/BUDDHA_BRAND "wikilink")。別称（a.k.a）は飛葉飛火、緑の5本指など。
+**NIPPS**（ニップス、本名：木村 秀己）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[BUDDHA BRANDのMCとして活動](../Page/BUDDHA_BRAND.md "wikilink")。別称（a.k.a）は飛葉飛火、緑の5本指など。
 
 ## 来歴
 
-[1988年](../Page/1988年.md "wikilink")、ニューヨークで[DEV LARGE](../Page/DEV_LARGE.md "wikilink")、CQ、[DJ MASTERKEYと出会い](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ「うわさのチャンネル」を結成\[1\]。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にグループ名を[BUDDHA BRANDに改名し](https://ja.wikipedia.org/wiki/BUDDHA_BRAND "wikilink")、本格的に活動を開始。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に日本に帰国し、[1996年](../Page/1996年.md "wikilink")5月22日、BUDDHA BRANDのMCとして、シングル「人間発電所」で[cutting edgeよりデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
+[1988年](../Page/1988年.md "wikilink")、ニューヨークで[DEV LARGE](../Page/DEV_LARGE.md "wikilink")、CQ、[DJ MASTERKEYと出会い](../Page/DJ_MASTERKEY.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ「うわさのチャンネル」を結成\[1\]。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にグループ名を[BUDDHA BRANDに改名し](../Page/BUDDHA_BRAND.md "wikilink")、本格的に活動を開始。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に日本に帰国し、[1996年](../Page/1996年.md "wikilink")5月22日、BUDDHA BRANDのMCとして、シングル「人間発電所」で[cutting edgeよりデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
 
 1998年、アナログシングル「ISLAND」をMEDIUM RARE INKから発売。翌1999年5月21日には、**HIBAHIHI**名義でミニアルバム「HIBAHIHI+SILENTPOETS001」を発売。また、同年にファッション[ブランド](../Page/ブランド.md "wikilink")｢NUTS ＆ BONES｣を立ち上げる。
 
-[2001年](../Page/2001年.md "wikilink")5月23日、シングル「GALAXY PIMP 3000 feat. MURO」を[UNIVERSAL Jより発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。同日に発売された[MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")のシングル「SPACE FUNK 2001」とのコラボレーション作品となっており、同楽曲に客演している。同年12月27日、シングル「GOD BIRD」を発売。
+[2001年](../Page/2001年.md "wikilink")5月23日、シングル「GALAXY PIMP 3000 feat. MURO」を[UNIVERSAL Jより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。同日に発売された[MURO](../Page/MURO.md "wikilink")のシングル「SPACE FUNK 2001」とのコラボレーション作品となっており、同楽曲に客演している。同年12月27日、シングル「GOD BIRD」を発売。
 
-[2002年](../Page/2002年.md "wikilink")3月27日、レーベル「**ONE FOOT**」を設立し、同レーベルからコンピレーション・アルバム『[MIDORINOGOHONYUBI presents MIDORINOGOHONYUBI MUSIC](https://ja.wikipedia.org/wiki/MIDORINOGOHONYUBI_presents_MIDORINOGOHONYUBI_MUSIC_/_ONE_FOOT "wikilink")』を発売。[2004年](../Page/2004年.md "wikilink")、ヒップホップグループ[NIGHT CAMP CLICKに加入](https://ja.wikipedia.org/wiki/NIGHT_CAMP_CLICK "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、BUDDHA BRANDのMC3名によって**ILLMATIC BUDDHA MC's**を結成。
+[2002年](../Page/2002年.md "wikilink")3月27日、レーベル「**ONE FOOT**」を設立し、同レーベルからコンピレーション・アルバム『[MIDORINOGOHONYUBI presents MIDORINOGOHONYUBI MUSIC](https://ja.wikipedia.org/wiki/MIDORINOGOHONYUBI_presents_MIDORINOGOHONYUBI_MUSIC_/_ONE_FOOT "wikilink")』を発売。[2004年](../Page/2004年.md "wikilink")、ヒップホップグループ[NIGHT CAMP CLICKに加入](https://ja.wikipedia.org/wiki/NIGHT_CAMP_CLICK "wikilink")。[2005年](../Page/2005年.md "wikilink")、BUDDHA BRANDのMC3名によって**ILLMATIC BUDDHA MC's**を結成。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")、THE SOURCE内にてえん突つRecordingsの[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")、TERA-Pと共に[ブログ](../Page/ブログ.md "wikilink")を開始。後にTHE SOURCE JAPAN ONLINE閉鎖に伴い閉鎖。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、B.D.the brobus、K-Moonらとヒップホップユニット**The Sexorcist**を結成。
+[2006年](../Page/2006年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")、THE SOURCE内にてえん突つRecordingsの[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")、TERA-Pと共に[ブログ](../Page/ブログ.md "wikilink")を開始。後にTHE SOURCE JAPAN ONLINE閉鎖に伴い閉鎖。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、B.D.the brobus、K-Moonらとヒップホップユニット**The Sexorcist**を結成。
 
 ### TETRAD THE GANG OF FOUR
 
@@ -61,7 +61,7 @@
 <td><p>2001年5月23日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
-<p>GALAXY PIMP 3000 feat. <a href="https://ja.wikipedia.org/wiki/MURO" title="wikilink">MURO</a></p>
+<p>GALAXY PIMP 3000 feat. <a href="../Page/MURO.md" title="wikilink">MURO</a></p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
@@ -108,7 +108,7 @@
 <dd>作曲：H.KIMURA／作曲：H.SASAKI／編曲：RYDEEN
 </dd>
 </dl></li>
-<li>GOD BIRD feat.<a href="https://ja.wikipedia.org/wiki/D.L" title="wikilink">DEV MOB</a>, <a href="https://ja.wikipedia.org/wiki/XBS" title="wikilink">XBS</a>, <a href="https://ja.wikipedia.org/wiki/GORE-TEX_(ミュージシャン)" title="wikilink">GORE-TEX</a>, KB [4:39]
+<li>GOD BIRD feat.<a href="https://ja.wikipedia.org/wiki/D.L" title="wikilink">DEV MOB</a>, <a href="../Page/XBS.md" title="wikilink">XBS</a>, <a href="https://ja.wikipedia.org/wiki/GORE-TEX_(ミュージシャン)" title="wikilink">GORE-TEX</a>, KB [4:39]
 <dl>
 <dt></dt>
 <dd>作詞：H.KIMURA・H.KON・K.UBUKATA・N.FUKAMI・T.MIYAMORI
@@ -230,21 +230,21 @@
 </tr>
 <tr class="even">
 <td><p>2001年4月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_MASTERKEY" title="wikilink">DJ MASTERKEY</a></p></td>
+<td><p><a href="../Page/DJ_MASTERKEY.md" title="wikilink">DJ MASTERKEY</a></p></td>
 <td><p>1</p></td>
-<td><p><strong>ONE LIFE (WON LIGHT) <small>feat. DEV LARGE / <a href="https://ja.wikipedia.org/wiki/SUIKEN" title="wikilink">SUIKEN</a> / NIPPS</small></strong></p></td>
+<td><p><strong>ONE LIFE (WON LIGHT) <small>feat. DEV LARGE / <a href="../Page/SUIKEN.md" title="wikilink">SUIKEN</a> / NIPPS</small></strong></p></td>
 <td><p><em>ONE LIFE(WON LIGHT)</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001年5月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MURO" title="wikilink">MURO</a> feat. NIPPS</p></td>
+<td><p><a href="../Page/MURO.md" title="wikilink">MURO</a> feat. NIPPS</p></td>
 <td><p>1</p></td>
 <td><p><strong>SPACE FUNK 2001</strong></p></td>
 <td><p><em>SPACE FUNK 2001</em></p></td>
 </tr>
 <tr class="even">
 <td><p>2001年6月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SHAKKAZOMBIE" title="wikilink">SHAKKAZOMBIE</a></p></td>
+<td><p><a href="../Page/SHAKKAZOMBIE.md" title="wikilink">SHAKKAZOMBIE</a></p></td>
 <td><p>4</p></td>
 <td><p><strong>FIRST TOUR <small>(featuring NIPPS)</small></strong></p></td>
 <td><p><em>GET ON DA TRACK</em></p></td>
@@ -280,7 +280,7 @@ feat. DEV LARGE, Nipps &amp; Vincent Galluo</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年7月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/刃頭" title="wikilink">刃頭</a></p></td>
+<td><p><a href="../Page/刃頭.md" title="wikilink">刃頭</a></p></td>
 <td><p>1</p></td>
 <td><p><strong>SWORD HEADS <small>feat. JERU THE DAMAJA + NIPPS</small></strong></p></td>
 <td><p><em>SWORD HEADS</em></p></td>
@@ -323,8 +323,8 @@ feat. DEV LARGE, Nipps &amp; Vincent Galluo</p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/Beautiful_(加藤ミリヤの曲)" title="wikilink">Beautiful</a></em></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>6月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_MASTERKEY" title="wikilink">DJ MASTERKEY</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>6月7日</p></td>
+<td><p><a href="../Page/DJ_MASTERKEY.md" title="wikilink">DJ MASTERKEY</a></p></td>
 <td><p>5</p></td>
 <td><p><strong>サイコロ52 <small>feat. CQ &amp; NIPPS</small></strong></p></td>
 <td><p><em>ADVENTURE OF DADDY'S HOUSE</em></p></td>

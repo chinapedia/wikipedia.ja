@@ -1,7 +1,7 @@
 > この記事は[LOVE \& HONESTY](https://ja.wikipedia.org/wiki/LOVE_\&_HONESTY)から翻訳されています。
 
 
-『**LOVE & HONESTY**』（ラヴ・アンド・オネスティ）は、[BoA](../Page/BoA.md "wikilink")の3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**LOVE & HONESTY**』（ラヴ・アンド・オネスティ）は、[BoA](../Page/BoA.md "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -9,12 +9,12 @@
 
 収録曲の「Be the one」は2月にシングルカットされた。しかし両A面シングル「[Shine We Are\!／Earthsong](https://ja.wikipedia.org/wiki/Shine_We_Are!/Earthsong "wikilink")」の2曲目「Earthsong」は収録されていない。なお、これを含めれば収録曲の半分以上（13曲中7曲）がシングル曲（実質トリプルA面シングルの「[DOUBLE](../Page/DOUBLE_\(BoAの曲\).md "wikilink")」は3曲とも収録）となる。
 
-オリジナルアルバムとしては、『[LISTEN TO MY HEART](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\) "wikilink")』から3作連続で初登場1位を記録した。初動は29.7万枚。
+オリジナルアルバムとしては、『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』から3作連続で初登場1位を記録した。初動は29.7万枚。
 
 ## 収録曲
 
 1.  **[Rock With You](../Page/Rock_With_You_\(BoAの曲\).md "wikilink")**
-      - 作詞：[藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")／作曲：[原一博](../Page/原一博.md "wikilink")／編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
+      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲：[原一博](../Page/原一博.md "wikilink")／編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
       - 12thシングル。
 2.  **[Shine We Are\!](https://ja.wikipedia.org/wiki/Shine_We_Are!/Earthsong "wikilink")**
       - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲・編曲：原一博
@@ -26,7 +26,7 @@
       - 作詞：BoA・渡辺なつみ／作曲・編曲：[face 2 fAKE](https://ja.wikipedia.org/wiki/face_2_fAKE "wikilink")
       - BoA、渡辺なつみ作詞のバラード。
 5.  **[Midnight Parade](../Page/DOUBLE_\(BoAの曲\).md "wikilink")**
-      - 作詞：藤林聖子／作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")／編曲：AKIRA
+      - 作詞：藤林聖子／作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")／編曲：AKIRA
       - 11thシングル「DOUBLE」収録曲。
 6.  **[Be the one](../Page/Be_the_one.md "wikilink")**
       - 作詞・作曲：Stephen A.Kipner・David Frank・Nate Butler／日本語詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink")／編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")

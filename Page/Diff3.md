@@ -18,7 +18,7 @@
 ## 関連項目
 
   - [diff](https://ja.wikipedia.org/wiki/diff "wikilink")
-  - [Help:編集の競合](https://ja.wikipedia.org/wiki/Help:編集の競合 "wikilink") - [MediaWiki](https://ja.wikipedia.org/wiki/MediaWiki "wikilink")もdiff3を使用して編集競合を自動的に統合する機構を備えている。
+  - [Help:編集の競合](https://ja.wikipedia.org/wiki/Help:編集の競合 "wikilink") - [MediaWiki](../Page/MediaWiki.md "wikilink")もdiff3を使用して編集競合を自動的に統合する機構を備えている。
   - [Concurrent Versions System](../Page/Concurrent_Versions_System.md "wikilink")
   - [Apache Subversion](../Page/Apache_Subversion.md "wikilink")
   - [マージ (バージョン管理システム)](https://ja.wikipedia.org/wiki/マージ_\(バージョン管理システム\) "wikilink")

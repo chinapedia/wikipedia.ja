@@ -1,11 +1,11 @@
 > この記事は[OUTGROW](https://ja.wikipedia.org/wiki/OUTGROW)から翻訳されています。
 
 
-『**OUTGROW**』（アウトグロウ）は、[BoA](../Page/BoA.md "wikilink")の4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**OUTGROW**』（アウトグロウ）は、[BoA](../Page/BoA.md "wikilink")の4枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-  - オリジナルアルバムとしては『[LOVE & HONESTY](https://ja.wikipedia.org/wiki/LOVE_&_HONESTY "wikilink")』以来2年ぶりとなる。
+  - オリジナルアルバムとしては『[LOVE & HONESTY](../Page/LOVE_&_HONESTY.md "wikilink")』以来2年ぶりとなる。
   - 今作から、「[CD](../Page/コンパクトディスク.md "wikilink")」・「CD+[DVD](../Page/DVD-Video.md "wikilink")」の2形態でのリリースとなる。
   - CDにはシングル8曲を含む全13曲と、配信限定アルバム『[Merry Christmas from BoA](https://ja.wikipedia.org/wiki/Merry_Christmas_from_BoA "wikilink")』に収録されていた「First snow」をボーナストラックとして収録。
   - DVDには、PVやメイキングを収録。
@@ -16,14 +16,14 @@
 ### CD
 
 1.  **Silent Screamerz**
-2.  **[DO THE MOTION](https://ja.wikipedia.org/wiki/DO_THE_MOTION "wikilink")**
+2.  **[DO THE MOTION](../Page/DO_THE_MOTION.md "wikilink")**
       -
         16thシングル。
         [コーセー](../Page/コーセー.md "wikilink")「Fasio」CMソング
-3.  **[キミのとなりで](https://ja.wikipedia.org/wiki/DO_THE_MOTION "wikilink")**
+3.  **[キミのとなりで](../Page/DO_THE_MOTION.md "wikilink")**
       -
         16thシングル。
-        [au](../Page/Au_\(携帯電話\).md "wikilink") by [KDDI](../Page/KDDI.md "wikilink")「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」CMソング
+        [au](../Page/Au_\(携帯電話\).md "wikilink") by [KDDI](../Page/KDDI.md "wikilink")「[着うたフル](../Page/着うたフル.md "wikilink")」CMソング
 4.  **OUTGROW ～Ready butterfly～**
 5.  **[make a secret](https://ja.wikipedia.org/wiki/make_a_secret "wikilink")**
       -
@@ -37,7 +37,7 @@
       -
         17thシングルのカップリング曲。
 8.  **cosmic eyes**
-9.  **[抱きしめる](https://ja.wikipedia.org/wiki/抱きしめる "wikilink")**
+9.  **[抱きしめる](../Page/抱きしめる.md "wikilink")**
       -
         18thシングル。
         [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")」テーマソング／エムティーアイ「music.jp」CMソング
@@ -46,10 +46,10 @@
 12. **[soundscape](../Page/Everlasting_\(BoAの曲\).md "wikilink")**
       -
         19thシングルのカップリング曲。
-13. **[With U](https://ja.wikipedia.org/wiki/DO_THE_MOTION "wikilink")**
+13. **[With U](../Page/DO_THE_MOTION.md "wikilink")**
       -
         16thシングル。
-        [サントリーフーズ](https://ja.wikipedia.org/wiki/サントリーフーズ "wikilink")「リプトン・リーフイン」CMソング
+        [サントリーフーズ](../Page/サントリーフーズ.md "wikilink")「リプトン・リーフイン」CMソング
 14. **First snow** (Bonus track)
       -
         BoA作詞曲。配信限定アルバム「Merry Christmas from BoA」に収録された新曲で、待望のCD化となった。

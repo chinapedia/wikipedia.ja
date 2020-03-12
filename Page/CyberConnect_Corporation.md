@@ -11,7 +11,7 @@ ALTIMIT社の社員が独立し設立され、実質的にはALTIMIT社の子会
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、ALTIMIT社の開発者を中心に設立される。[サンディエゴ](../Page/サンディエゴ.md "wikilink")と[東京](../Page/東京.md "wikilink")に本社を置く。
+  - [2006年](../Page/2006年.md "wikilink")、ALTIMIT社の開発者を中心に設立される。[サンディエゴ](../Page/サンディエゴ.md "wikilink")と[東京](../Page/東京.md "wikilink")に本社を置く。
   - [2007年](../Page/2007年.md "wikilink")7月、[MMORPG](../Page/MMORPG.md "wikilink")『[fragment](https://ja.wikipedia.org/wiki/The_World_\(.hack\)#fragment "wikilink")』をベータ版として発表する。[12月24日](../Page/12月24日.md "wikilink")、『fragment』を正式に『[The World](https://ja.wikipedia.org/wiki/The_World_\(.hack\)#The_World_R:1 "wikilink")』として発売する。
   - [2015年](../Page/2015年.md "wikilink")、本社の火災により『The World』のサーバーが被害を受ける。[12月24日](../Page/12月24日.md "wikilink")、『[The World R:2](https://ja.wikipedia.org/wiki/The_World_\(.hack\)#The_World_R:2 "wikilink")』への移行が発表される。
   - [2016年](../Page/2016年.md "wikilink")、『The World R:2』が公開される。
@@ -46,7 +46,7 @@ ALTIMIT社の社員が独立し設立され、実質的にはALTIMIT社の子会
   - 度会一詩／アルビレオ
     『[.hack//AI buster](https://ja.wikipedia.org/wiki/.hack/AI_buster "wikilink")』において登場。デバッグチーム「碧衣の騎士団」の騎士長も兼務していた。放浪AIリコリスとの関わりを通じ、後にCC社を退社。『[.hack//黄昏の腕輪伝説](https://ja.wikipedia.org/wiki/.hack/黄昏の腕輪伝説 "wikilink")』では神威に騎士長の座を譲っている。
   - （リアル名不明）／リョース
-    「リョース」とは、黄昏の碑文に登場する光の国の王の名前で、管理者権限を持つ者に与えられるコードネームである。『[.hack（第1期ゲーム）](https://ja.wikipedia.org/wiki/.hack_\(ゲーム\) "wikilink")』及び『[.hack//Another Birth もうひとつの誕生](https://ja.wikipedia.org/wiki/.hack/Another_Birth_もうひとつの誕生 "wikilink")』において主人公・カイトの持つ黄昏の腕輪を危険視するが、最終的には協力し八相に立ち向かった。言葉の端々に中間管理職らしさが見受けられる。
+    「リョース」とは、黄昏の碑文に登場する光の国の王の名前で、管理者権限を持つ者に与えられるコードネームである。『[.hack（第1期ゲーム）](../Page/.hack_\(ゲーム\).md "wikilink")』及び『[.hack//Another Birth もうひとつの誕生](https://ja.wikipedia.org/wiki/.hack/Another_Birth_もうひとつの誕生 "wikilink")』において主人公・カイトの持つ黄昏の腕輪を危険視するが、最終的には協力し八相に立ち向かった。言葉の端々に中間管理職らしさが見受けられる。
   - （リアル名不明）／バルムンク
     「フィアナの末裔」として知られる名プレイヤーで、『.hack（第1期ゲーム）』や『[.hack//SIGN](https://ja.wikipedia.org/wiki/.hack/SIGN "wikilink")』をはじめ多くの作品に登場する。『[.hack//黄昏の腕輪伝説](https://ja.wikipedia.org/wiki/.hack/黄昏の腕輪伝説 "wikilink")』ではCC社に就職し管理者を任されているが、シューゴの存在に危機感を抱いた上層部と対立、管理者職を追われることとなった。
 
@@ -64,7 +64,7 @@ ALTIMIT社の社員が独立し設立され、実質的にはALTIMIT社の子会
   - 徳岡純一郎
     『[.hack//Liminality](https://ja.wikipedia.org/wiki/.hack/Liminality "wikilink")』において、The World日本語版製作チームのチーフディレクターとして登場する。また、『.hack//AI buster』では入社当時のエピソードが描かれている。
   - 松山洋／ぴろし、ぴろしACT2、ぴろし3、ぴろし4ever
-    [サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink")の[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")である[松山洋](https://ja.wikipedia.org/wiki/松山洋 "wikilink")をモデルとしたキャラクター。CC社のグラフィックデザイナー。『.hack（第1期ゲーム）』、『.hack//G.U.』などに重要人物として登場する。
+    [サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink")の[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")である[松山洋](https://ja.wikipedia.org/wiki/松山洋 "wikilink")をモデルとしたキャラクター。CC社のグラフィックデザイナー。『.hack（第1期ゲーム）』、『.hack//G.U.』などに重要人物として登場する。
 
 <!-- end list -->
 

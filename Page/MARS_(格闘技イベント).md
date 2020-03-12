@@ -1,29 +1,29 @@
 > この記事は[MARS \(\)](https://ja.wikipedia.org/wiki/MARS_\(\))から翻訳されています。
 
 
-**MARS**（マーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[格闘技](../Page/格闘技.md "wikilink")イベント。[リング上で](https://ja.wikipedia.org/wiki/リング_\(格闘技\) "wikilink")[総合格闘技](../Page/総合格闘技.md "wikilink")を主として、[キックボクシング](../Page/キックボクシング.md "wikilink")や女子総合格闘技も行われていた。興行のエグゼクティブ・プロデューサーはトリニティ代表取締役の天野勇気。オフィシャルジムとして闘神塾が存在した\[1\]。
+**MARS**（マーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[格闘技](../Page/格闘技.md "wikilink")イベント。[リング上で](../Page/リング_\(格闘技\).md "wikilink")[総合格闘技](../Page/総合格闘技.md "wikilink")を主として、[キックボクシング](../Page/キックボクシング.md "wikilink")や女子総合格闘技も行われていた。興行のエグゼクティブ・プロデューサーはトリニティ代表取締役の天野勇気。オフィシャルジムとして闘神塾が存在した\[1\]。
 
 ## 沿革
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月22日にMARSの発足が記者発表され、翌年2月4日に[有明コロシアム](https://ja.wikipedia.org/wiki/有明コロシアム "wikilink")で旗揚げ大会が開催された。[GCMコミュニケーションの](https://ja.wikipedia.org/wiki/ジーシーエムコミュニケーション "wikilink")「MARSプロジェクト」が企画・製作を行い、株式会社トリニティの天野勇気がMARSチーフプロデューサーに就任、[K-1](../Page/K-1.md "wikilink")や[HERO'S](../Page/HERO'S.md "wikilink")を運営する[FEG](https://ja.wikipedia.org/wiki/FEG "wikilink")の[谷川貞治](https://ja.wikipedia.org/wiki/谷川貞治 "wikilink")が選手派遣で協力していく体制で発足した\[2\]\[3\]。
+[2005年](../Page/2005年.md "wikilink")12月22日にMARSの発足が記者発表され、翌年2月4日に[有明コロシアム](../Page/有明コロシアム.md "wikilink")で旗揚げ大会が開催された。[GCMコミュニケーションの](https://ja.wikipedia.org/wiki/ジーシーエムコミュニケーション "wikilink")「MARSプロジェクト」が企画・製作を行い、株式会社トリニティの天野勇気がMARSチーフプロデューサーに就任、[K-1](../Page/K-1.md "wikilink")や[HERO'S](../Page/HERO'S.md "wikilink")を運営する[FEG](../Page/FEG.md "wikilink")の[谷川貞治](../Page/谷川貞治.md "wikilink")が選手派遣で協力していく体制で発足した\[2\]\[3\]。
 
-旗揚げ興行は翌年2月4日に[有明コロシアム](https://ja.wikipedia.org/wiki/有明コロシアム "wikilink")で開催された。同日には、FEGが主催する[K-1 WORLD MAXが](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催されている。
+旗揚げ興行は翌年2月4日に[有明コロシアム](../Page/有明コロシアム.md "wikilink")で開催された。同日には、FEGが主催する[K-1 WORLD MAXが](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催されている。
 
 4月29日の[韓国での第](../Page/大韓民国.md "wikilink")2回大会からは、トリニティのMARS事務局が主催者となる体制となり、引き続きGCMコミュニケーションの「MARSプロジェクト」との協力で大会を行った。5月13日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")での第3回大会「MARS World Fighting GP」では、新たに[キックボクシング](../Page/キックボクシング.md "wikilink")ルールの試合も組み込まれたが\[4\]、GCMコミュニケーションとはこの大会をもって協力体制を解消した\[5\]。
 
 旗揚げ当初より、大会場での興行開催や韓国を主としたアジア市場への海外進出を見据えたイベントを目指していたが\[6\]、観客動員数で苦戦。大会の中で[エキシビション](../Page/エキシビション.md "wikilink")と称して[プロレス](../Page/プロレス.md "wikilink")を実施したり、マッチメイクやずさんな大会運営が酷評された\[7\]。
 
-批判を受けて、第3回大会後にMARSは再び体制を一新してリニューアルした。新体制は、日本人発掘のための新たなシリーズ「MARS ATTACK」の第1弾大会である7月21日の[新宿FACE](../Page/新宿FACE.md "wikilink")での「MARS ATTACK 01」を皮切りに、世界の未知の強豪の発掘と、新時代を担う日本人スター選手の育成を主軸とする方向性を定めて始動した\[8\]\[9\]\[10\]。表舞台には出なかったものの、格闘技ニュースサイトBoutReviewの井田英登編集長がこの新体制に加わり、「MARS ATTACK 01」でアドバイザーをしていた\[11\]。「MARS ATTACK 01」ではフリー選手を公募してMARS専属契約として育成する方針を打ち出し、ロストポイント制の総合格闘技の新ルールを導入したり、女子総合格闘技の[カリーナ・ダム](https://ja.wikipedia.org/wiki/カリーナ・ダム "wikilink")対[MIKU](https://ja.wikipedia.org/wiki/MIKU "wikilink")をマッチメイクを行うなど新たな試みが行われた\[12\]。しかしレフェリーのルール認識不足等の不手際が目立ち、MIKU選手の代理人である[DEEPの](../Page/DEEP_\(格闘技団体\).md "wikilink")[佐伯繁](https://ja.wikipedia.org/wiki/佐伯繁 "wikilink")代表が抗議を行うなど物議を醸した\[13\]\[14\]。そして、スタッフの井田英登もMARS運営陣と衝突した末に、大会後に自身の[ブログ](../Page/ブログ.md "wikilink")でMARSの内情を暴露して、3か月でMARSから退いた\[15\]\[16\]。新宿FACEを拠点に新シリーズとして展開するはずだった「MARS ATTACK」\[17\]も「MARS ATTACK 01」の1回きりで終わった。
+批判を受けて、第3回大会後にMARSは再び体制を一新してリニューアルした。新体制は、日本人発掘のための新たなシリーズ「MARS ATTACK」の第1弾大会である7月21日の[新宿FACE](../Page/新宿FACE.md "wikilink")での「MARS ATTACK 01」を皮切りに、世界の未知の強豪の発掘と、新時代を担う日本人スター選手の育成を主軸とする方向性を定めて始動した\[8\]\[9\]\[10\]。表舞台には出なかったものの、格闘技ニュースサイトBoutReviewの井田英登編集長がこの新体制に加わり、「MARS ATTACK 01」でアドバイザーをしていた\[11\]。「MARS ATTACK 01」ではフリー選手を公募してMARS専属契約として育成する方針を打ち出し、ロストポイント制の総合格闘技の新ルールを導入したり、女子総合格闘技の[カリーナ・ダム](https://ja.wikipedia.org/wiki/カリーナ・ダム "wikilink")対[MIKU](../Page/MIKU.md "wikilink")をマッチメイクを行うなど新たな試みが行われた\[12\]。しかしレフェリーのルール認識不足等の不手際が目立ち、MIKU選手の代理人である[DEEPの](../Page/DEEP_\(格闘技団体\).md "wikilink")[佐伯繁](../Page/佐伯繁.md "wikilink")代表が抗議を行うなど物議を醸した\[13\]\[14\]。そして、スタッフの井田英登もMARS運営陣と衝突した末に、大会後に自身の[ブログ](../Page/ブログ.md "wikilink")でMARSの内情を暴露して、3か月でMARSから退いた\[15\]\[16\]。新宿FACEを拠点に新シリーズとして展開するはずだった「MARS ATTACK」\[17\]も「MARS ATTACK 01」の1回きりで終わった。
 
 2006年6月にアメリカの総合格闘技大会「[MFC](https://ja.wikipedia.org/wiki/MFC "wikilink")」（[BodogFight](../Page/BodogFight.md "wikilink")）と業務提携を結んだことで、8月26日の[両国国技館](../Page/両国国技館.md "wikilink")の「MARS 04 NEW DEAL」からMFCで闘う外国人選手たちがMARSのリングで闘うようになり、83kgトーナメントが開催されたが\[18\]、BodogFightとの提携関係は2006年内で終了した\[19\]。
 
-[2007年](../Page/2007年.md "wikilink")4月15日の[ディファ有明](../Page/ディファ有明.md "wikilink")での「MARS 07 TORNADO RETURNS」からは、「MARSブラスターバウト・ルール」と称した[オープンフィンガーグローブ](https://ja.wikipedia.org/wiki/オープンフィンガーグローブ "wikilink")を用いる投げ技と立ち[関節技](https://ja.wikipedia.org/wiki/関節技 "wikilink")も解禁されたキックボクシングルールが制定され、興行に組み込まれるようになった\[20\]。
+[2007年](../Page/2007年.md "wikilink")4月15日の[ディファ有明](../Page/ディファ有明.md "wikilink")での「MARS 07 TORNADO RETURNS」からは、「MARSブラスターバウト・ルール」と称した[オープンフィンガーグローブ](../Page/オープンフィンガーグローブ.md "wikilink")を用いる投げ技と立ち[関節技](../Page/関節技.md "wikilink")も解禁されたキックボクシングルールが制定され、興行に組み込まれるようになった\[20\]。
 
 旗揚げ2年目の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には、8名参加の72kg級MARSブラスターバウト初代王者決定トーナメントを開催した。2月11日に[新宿FACE](../Page/新宿FACE.md "wikilink")で「MARS11 2nd ANNIVERSARY」を行い\[21\]、2008年5月10日に[新宿FACE](../Page/新宿FACE.md "wikilink")で「MARS 12 THE ROAD TO GOD」が開催された。しかし、トーナメントの決勝戦が行われないまま、「MARS 12」を最後にMARSは活動を停止した\[22\]\[23\]\[24\]。
 
 ## テレビ放送
 
-当初は[MXテレビで中継され](../Page/東京メトロポリタンテレビジョン.md "wikilink")、後日インターネットテレビの[GyaOで配信されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")\[25\]。[サムライTVでも中継を行っていた](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")。
+当初は[MXテレビで中継され](../Page/東京メトロポリタンテレビジョン.md "wikilink")、後日インターネットテレビの[GyaOで配信されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")\[25\]。[サムライTVでも中継を行っていた](../Page/FIGHTING_TV_サムライ.md "wikilink")。
 
 2008年1月より[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")で毎週月曜日の深夜1時から30分のレギュラー中継番組「格闘神話MARS」が放送された。MARS代表の天野勇剛、格闘技雑誌編集長の高須基一朗らが出演していた\[26\]\[27\]。
 
@@ -43,43 +43,43 @@
 <td><p>MARS 12 "THE ROAD TO THE GOD"</p></td>
 <td><p>2008年5月10日</p></td>
 <td><p><a href="../Page/新宿FACE.md" title="wikilink">新宿FACE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS 11 "2nd ANNIVERSARY"</p></td>
 <td><p>2008年2月11日</p></td>
 <td><p><a href="../Page/新宿FACE.md" title="wikilink">新宿FACE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MARS 10 "ALL-OUT WAR"</p></td>
 <td><p>2007年12月9日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS 09 "BLOWN AWAY"</p></td>
 <td><p>2007年10月13日</p></td>
 <td><p><a href="../Page/新宿FACE.md" title="wikilink">新宿FACE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MARSアマチュア大会</p></td>
 <td><p>2007年9月2日</p></td>
 <td><p>歌舞伎町クラブハイツ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS 08 "BURNING RED"</p></td>
 <td><p>2007年7月20日</p></td>
 <td><p><a href="../Page/新宿FACE.md" title="wikilink">新宿FACE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MARS 07 "TORNADO RETURNS"</p></td>
 <td><p>2007年4月15日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS 06 "RAPID FIRE"</p></td>
@@ -91,31 +91,31 @@
 <td><p>MARS 05 "MARCHING ON"</p></td>
 <td><p>2006年10月28日</p></td>
 <td><p><a href="../Page/両国国技館.md" title="wikilink">両国国技館</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="../Page/墨田区.md" title="wikilink">墨田区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/墨田区.md" title="wikilink">墨田区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS bodogFIGHT 01</p></td>
 <td><p>2006年10月4日</p></td>
 <td><p><a href="../Page/新宿FACE.md" title="wikilink">新宿FACE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MARS in 両国国技館 〜NEW DEAL〜</p></td>
 <td><p>2006年8月26日</p></td>
 <td><p><a href="../Page/両国国技館.md" title="wikilink">両国国技館</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="../Page/墨田区.md" title="wikilink">墨田区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/墨田区.md" title="wikilink">墨田区</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS ATTACK 01</p></td>
 <td><p>2006年7月21日</p></td>
 <td><p><a href="../Page/新宿FACE.md" title="wikilink">新宿FACE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MARS World Fighting GP in 幕張</p></td>
 <td><p>2006年5月13日</p></td>
 <td><p><a href="../Page/幕張メッセ.md" title="wikilink">幕張メッセ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a><a href="../Page/千葉市.md" title="wikilink">千葉市</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a><a href="../Page/千葉市.md" title="wikilink">千葉市</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MARS World Fighting GP in SEOUL</p></td>
@@ -126,8 +126,8 @@
 <tr class="odd">
 <td><p>MARS in 有明</p></td>
 <td><p>2006年2月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有明コロシアム" title="wikilink">有明コロシアム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="../Page/有明コロシアム.md" title="wikilink">有明コロシアム</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 </tr>
 </tbody>
 </table>

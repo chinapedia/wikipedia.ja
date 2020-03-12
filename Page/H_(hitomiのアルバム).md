@@ -1,7 +1,7 @@
 > この記事は[H \(hitomi\)](https://ja.wikipedia.org/wiki/H_\(hitomi\))から翻訳されています。
 
 
-『**h**』（エイチ）は、日本の女性歌手[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**h**』（エイチ）は、日本の女性歌手[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 1.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL "wikilink")**
       -
         作詞：[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")、作曲：[Tetsuya Komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：Tetsuya Komuro and [Cozy Kubo](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
-        3rdシングル。[コダック](../Page/コダック.md "wikilink")「[スナップキッズ](https://ja.wikipedia.org/wiki/スナップキッズ "wikilink")」CFソング。
+        3rdシングル。[コダック](../Page/コダック.md "wikilink")「[スナップキッズ](../Page/スナップキッズ.md "wikilink")」CFソング。
         シングルバージョンはアルバム初収録。
 2.  **[WE ARE "LONELY GIRL"](https://ja.wikipedia.org/wiki/WE_ARE_"LONELY_GIRL" "wikilink")**
       -
@@ -25,7 +25,7 @@
 3.  **[PRETTY EYES](https://ja.wikipedia.org/wiki/PRETTY_EYES "wikilink")**
       -
         作詞：hitomi、作曲：Tetsuya Komuro、編曲：Tetsuya Komuro and Cozy Kubo
-        10thシングル。[三貴](https://ja.wikipedia.org/wiki/三貴 "wikilink")「銀座ジュエリーマキ」CFソング。
+        10thシングル。[三貴](../Page/三貴.md "wikilink")「銀座ジュエリーマキ」CFソング。
 4.  **[Sexy](https://ja.wikipedia.org/wiki/Sexy "wikilink")**
       -
         作詞：hitomi、作曲・編曲：Tetsuya Komuro
@@ -39,12 +39,12 @@
         シングルバージョンはアルバム初収録。
 6.  **[Progress](https://ja.wikipedia.org/wiki/Progress_\(hitomiの曲\) "wikilink")**
       -
-        作詞：hitomi、作曲：hitomi and [Ryo Yoshimata](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")、編曲：Ryo Yoshimata
+        作詞：hitomi、作曲：hitomi and [Ryo Yoshimata](../Page/吉俣良.md "wikilink")、編曲：Ryo Yoshimata
         12thシングル、アルバム初収録。
 7.  **[by myself](https://ja.wikipedia.org/wiki/by_myself_\(曲\) "wikilink")**
       -
         作詞：hitomi、作曲・編曲：Tetsuya Komuro
-        7thシングル。[関西テレビドラマ](../Page/関西テレビ放送.md "wikilink")『[もう我慢できない\!](https://ja.wikipedia.org/wiki/もう我慢できない! "wikilink")』挿入歌。
+        7thシングル。[関西テレビドラマ](../Page/関西テレビ放送.md "wikilink")『[もう我慢できない\!](../Page/もう我慢できない!.md "wikilink")』挿入歌。
         シングルバージョンはアルバム初収録。
 8.  **[Let's Play Winter](https://ja.wikipedia.org/wiki/Let's_Play_Winter "wikilink")**
       -
@@ -54,7 +54,7 @@
 9.  **[GO TO THE TOP](https://ja.wikipedia.org/wiki/GO_TO_THE_TOP_\(hitomiの曲\) "wikilink")**
       -
         作詞：hitomi、作曲：Tetsuya Komuro、編曲：Tetsuya Komuro and Cozy Kubo
-        4thシングル。[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系ドラマ「[カケオチのススメ](https://ja.wikipedia.org/wiki/カケオチのススメ "wikilink")」主題歌。
+        4thシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ「[カケオチのススメ](https://ja.wikipedia.org/wiki/カケオチのススメ "wikilink")」主題歌。
         シングルバージョンはアルバム初収録。
 10. **[空](https://ja.wikipedia.org/wiki/空_\(hitomiの曲\) "wikilink")**
       -
@@ -68,7 +68,7 @@
 12. **[BUSY NOW](https://ja.wikipedia.org/wiki/BUSY_NOW "wikilink")**
       -
         作詞：hitomi and [Takahiro Maeda](https://ja.wikipedia.org/wiki/前田たかひろ "wikilink")、作曲・編曲：Cozy Kubo
-        8thシングル。[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[テリオス](https://ja.wikipedia.org/wiki/ダイハツ・テリオス "wikilink")」CFソング。
+        8thシングル。[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[テリオス](../Page/ダイハツ・テリオス.md "wikilink")」CFソング。
         シングルバージョンはアルバム初収録。
 13. **Flowers for Life**
       -

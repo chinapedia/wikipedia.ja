@@ -5,21 +5,21 @@
 
 ## 概要
 
-前作「[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")」から2ヶ月ぶりのシングル。コーラスには[Skoop On Somebodyの](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")[TAKEが参加](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")。なおヴォーカルディレクションも行っていた。
+前作「[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")」から2ヶ月ぶりのシングル。コーラスには[Skoop On Somebodyの](../Page/Skoop_On_Somebody.md "wikilink")[TAKEが参加](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")。なおヴォーカルディレクションも行っていた。
 
-ミュージックビデオにはTBS系『[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")』のB-RAPハイスクールで人気を博した[軟式globe](https://ja.wikipedia.org/wiki/軟式globe "wikilink")の[パーク・マンサーが出演している](https://ja.wikipedia.org/wiki/三箇一稔 "wikilink")。
+ミュージックビデオにはTBS系『[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")』のB-RAPハイスクールで人気を博した[軟式globe](../Page/軟式globe.md "wikilink")の[パーク・マンサーが出演している](../Page/三箇一稔.md "wikilink")。
 
-2004年、台湾のグループ[5566が](https://ja.wikipedia.org/wiki/5566_\(音楽ユニット\) "wikilink")、アルバムで「For You」として中国語でカバーしている。また、[Boyz II Menもカバーしている](https://ja.wikipedia.org/wiki/ボーイズIIメン "wikilink")。
+2004年、台湾のグループ[5566が](../Page/5566_\(音楽ユニット\).md "wikilink")、アルバムで「For You」として中国語でカバーしている。また、[Boyz II Menもカバーしている](../Page/ボーイズIIメン.md "wikilink")。
 
-EXILE第二章以降に発売されたベストアルバム『[EXILE BALLAD BEST](https://ja.wikipedia.org/wiki/EXILE_BALLAD_BEST "wikilink")』『[EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink")』には、ATSUSHI、TAKAHIROによって再録された表題曲が収録されている。
+EXILE第二章以降に発売されたベストアルバム『[EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")』『[EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink")』には、ATSUSHI、TAKAHIROによって再録された表題曲が収録されている。
 
 ## 収録曲
 
 1.  **song for you** \[5:41\]
       -
-        作詞：Kenn Kato / 作曲・編曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：Kenn Kato / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
     <!-- end list -->
-      - [Kanebo](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")「REVUE」TVCMイメージソング
+      - [Kanebo](../Page/カネボウ化粧品.md "wikilink")「REVUE」TVCMイメージソング
 2.  **song for you (Jonathan Peter's Club Mix)** \[8:47\]
       -
         編曲：Jonathan Peters
@@ -27,7 +27,7 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE BALLAD BEST
       - 表題曲のリミックスバージョン
 3.  **song for you (Hex Hector Main Radio Mix)** \[4:21\]
       -
-        編曲：[Hex Hector](https://ja.wikipedia.org/wiki/ヘックス・ヘクター "wikilink")
+        編曲：[Hex Hector](../Page/ヘックス・ヘクター.md "wikilink")
     <!-- end list -->
       - 表題曲のリミックスバージョン
 4.  **song for you (Hex Hector Main Club Mix)** \[8:55\]

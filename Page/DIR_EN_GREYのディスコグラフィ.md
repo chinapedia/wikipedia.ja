@@ -1,7 +1,7 @@
 > この記事は[DIR EN GREY](https://ja.wikipedia.org/wiki/DIR_EN_GREY)から翻訳されています。
 
 
-**DIR EN GREYのディスコグラフィ**（ディル・アン・グレイのディスコグラフィ）は、[DIR EN GREYの作品の一覧](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")。
+**DIR EN GREYのディスコグラフィ**（ディル・アン・グレイのディスコグラフィ）は、[DIR EN GREYの作品の一覧](../Page/DIR_EN_GREY.md "wikilink")。
 
 作品のカウントは公式サイト上の表記に準拠する。\[1\]
 
@@ -27,7 +27,7 @@
 FWR-004[4]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/10月31日.md" title="wikilink">10月31日</a></p></td>
 <td><p>FWR-004CDS[5] (再発)</p></td>
 <td></td>
 <td></td>
@@ -36,54 +36,54 @@ FWR-004[4]</p></td>
 <tr class="even">
 <td><p>Indies 2nd</p></td>
 <td><p>1998年<a href="../Page/8月12日.md" title="wikilink">8月12日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/-I&#39;ll-" title="wikilink">-I'll-</a></strong></p></td>
+<td><p><strong><a href="../Page/-I&#39;ll-.md" title="wikilink">-I'll-</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FWR-005</p></td>
 </tr>
 <tr class="odd">
 <td><p>1st[6]</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アクロの丘" title="wikilink">アクロの丘</a></strong></p></td>
+<td><p><strong><a href="../Page/アクロの丘.md" title="wikilink">アクロの丘</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>AMDM-6268</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1999年1月20日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/残-ZAN-" title="wikilink">残-ZAN-</a></strong></p></td>
+<td><p><strong><a href="../Page/残-ZAN-.md" title="wikilink">残-ZAN-</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>AMDM-6269</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>1999年1月20日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ゆらめき" title="wikilink">ゆらめき</a></strong></p></td>
+<td><p><strong><a href="../Page/ゆらめき.md" title="wikilink">ゆらめき</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>AMDM-6290</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>1999年<a href="../Page/5月26日.md" title="wikilink">5月26日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Cage_(Dir_en_greyの曲)" title="wikilink">Cage</a></strong></p></td>
+<td><p><strong><a href="../Page/Cage_(Dir_en_greyの曲).md" title="wikilink">Cage</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>AMDM-6291</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1999年<a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/予感_(Dir_en_greyの曲)" title="wikilink">予感</a></strong></p></td>
+<td><p><strong><a href="../Page/予感_(Dir_en_greyの曲).md" title="wikilink">予感</a></strong></p></td>
 <td><p>8cmCD</p></td>
 <td><p>AMDM-6300</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/脈_(曲)" title="wikilink">脈</a></strong></p></td>
+<td><p><strong><a href="../Page/脈_(曲).md" title="wikilink">脈</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>AMCM-4464</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/10月31日.md" title="wikilink">10月31日</a></p></td>
 <td><p>FWR-031 (再発)</p></td>
 <td></td>
 <td></td>
@@ -92,7 +92,7 @@ FWR-004[4]</p></td>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2000年<a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/【KR】cube" title="wikilink">【KR】cube</a></strong></p></td>
+<td><p><strong><a href="../Page/【KR】cube.md" title="wikilink">【KR】cube</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>AMCM-4479</p></td>
 </tr>
@@ -106,7 +106,7 @@ FWR-004[4]</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2000年<a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/太陽の碧" title="wikilink">太陽の碧</a></strong></p></td>
+<td><p><strong><a href="../Page/太陽の碧.md" title="wikilink">太陽の碧</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>AMCM-4490</p></td>
 </tr>
@@ -127,7 +127,7 @@ FWR-004[4]</p></td>
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2001年<a href="../Page/9月12日.md" title="wikilink">9月12日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/FILTH" title="wikilink">FILTH</a></strong></p></td>
+<td><p><strong><a href="../Page/FILTH.md" title="wikilink">FILTH</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0007</p></td>
 </tr>
@@ -148,7 +148,7 @@ FWR-004[4]</p></td>
 <tr class="even">
 <td><p>13th</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Child_prey" title="wikilink">Child prey</a></strong></p></td>
+<td><p><strong><a href="../Page/Child_prey.md" title="wikilink">Child prey</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0014</p></td>
 </tr>
@@ -168,7 +168,7 @@ FWR-004[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p>16th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
 <td><p><strong><a href="../Page/THE_FINAL.md" title="wikilink">THE FINAL</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0024</p></td>
@@ -182,14 +182,14 @@ FWR-004[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p>18th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p><strong><a href="../Page/CLEVER_SLEAZOID.md" title="wikilink">CLEVER SLEAZOID</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0039</p></td>
 </tr>
 <tr class="even">
 <td><p>19th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td><p><strong><a href="../Page/凌辱の雨.md" title="wikilink">凌辱の雨</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0042 (初回盤)</p></td>
@@ -204,7 +204,7 @@ FWR-004[4]</p></td>
 <tr class="even">
 <td><p>20th</p></td>
 <td><p>2006年<a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Agitated_Screams_of_Maggots" title="wikilink">Agitated Screams of Maggots</a></strong></p></td>
+<td><p><strong><a href="../Page/Agitated_Screams_of_Maggots.md" title="wikilink">Agitated Screams of Maggots</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0046 (初回盤)</p></td>
 </tr>
@@ -217,8 +217,8 @@ FWR-004[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>21st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DOZING_GREEN" title="wikilink">DOZING GREEN</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
+<td><p><strong><a href="../Page/DOZING_GREEN.md" title="wikilink">DOZING GREEN</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SFCD-0051 (初回盤)</p></td>
 </tr>
@@ -400,38 +400,38 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 
 ### 配信曲
 
-| 配信日                                                                                           | タイトル                      | 配信元                                                                                                                   | 詳細                                                                                          |
-| --------------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月16日](../Page/10月16日.md "wikilink") | **業**                     | [FREE-WILL](https://ja.wikipedia.org/wiki/フリーウィル "wikilink")[うたフルサイト](https://ja.wikipedia.org/wiki/着うたフル "wikilink") | 「カルマ」と読む。ビデオ『[「楓」〜if trans…〜](https://ja.wikipedia.org/wiki/「楓」〜if_trans…〜 "wikilink")』収録曲。 |
-| 2008年[12月24日](../Page/12月24日.md "wikilink")                                                   | **VINUSHKA (short ver.)** | FREE-WILLうたフルサイト                                                                                                      | 「[VINUSHKA](https://ja.wikipedia.org/wiki/UROBOROS#収録曲 "wikilink")」のショートバージョン。              |
+| 配信日                                                                                           | タイトル                      | 配信元                                                                             | 詳細                                                                                          |
+| --------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月16日](../Page/10月16日.md "wikilink") | **業**                     | [FREE-WILL](../Page/フリーウィル.md "wikilink")[うたフルサイト](../Page/着うたフル.md "wikilink") | 「カルマ」と読む。ビデオ『[「楓」〜if trans…〜](https://ja.wikipedia.org/wiki/「楓」〜if_trans…〜 "wikilink")』収録曲。 |
+| 2008年[12月24日](../Page/12月24日.md "wikilink")                                                   | **VINUSHKA (short ver.)** | FREE-WILLうたフルサイト                                                                | 「[VINUSHKA](https://ja.wikipedia.org/wiki/UROBOROS#収録曲 "wikilink")」のショートバージョン。              |
 
 ### アルバム
 
-|                                                                                               |                                                                                               |                                                                                         |                                                                                                                                      |                         |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-|                                                                                               | 発売日                                                                                           | タイトル                                                                                    | 規格                                                                                                                                   | 販売生産番号                  |
-| 1st                                                                                           | [1999年](../Page/1999年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")                      | **[GAUZE](../Page/GAUZE.md "wikilink")**                                                | CD                                                                                                                                   | AMCM-4440               |
-| [2001年](../Page/2001年.md "wikilink")[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink") | FWR-030 (再発)                                                                                  |                                                                                         |                                                                                                                                      |                         |
-| 2nd                                                                                           | [2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")                      | **[MACABRE](../Page/MACABRE.md "wikilink")**                                            | CD                                                                                                                                   | SFCD-0001               |
-| 3rd                                                                                           | [2002年](../Page/2002年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")                      | **[鬼葬](https://ja.wikipedia.org/wiki/鬼葬 "wikilink")**                                   | CD                                                                                                                                   | SFCD-0012               |
-| 4th                                                                                           | [2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")                      | **[VULGAR](../Page/VULGAR.md "wikilink")**                                              | CD＋DVD                                                                                                                               | SFCD-0019〜20 (初回盤)      |
-| CD                                                                                            | SFCD-0021 (通常盤)                                                                               |                                                                                         |                                                                                                                                      |                         |
-| 5th                                                                                           | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")     | **[Withering to death.](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink")** | CD                                                                                                                                   | SFCD-0035               |
-| 6th                                                                                           | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")**                  | 2CD                                                                                                                                  | SFCD-0048〜9 (初回盤)       |
-| CD                                                                                            | SFCD-0050 (通常盤)                                                                               |                                                                                         |                                                                                                                                      |                         |
-| 7th                                                                                           | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月12日](../Page/11月12日.md "wikilink") | **[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")**                       | 2CD＋DVD＋2LP                                                                                                                          | SFCD-0058〜62 (完全限定盤)    |
-| 2CD                                                                                           | SFCD-0063〜4 (初回盤)                                                                             |                                                                                         |                                                                                                                                      |                         |
-| CD                                                                                            | SFCD-0065 (通常盤)                                                                               |                                                                                         |                                                                                                                                      |                         |
-| 8th                                                                                           | [2011年](../Page/2011年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")                        | **[DUM SPIRO SPERO](https://ja.wikipedia.org/wiki/DUM_SPIRO_SPERO "wikilink")**         | 2CD＋DVD＋2LP                                                                                                                          | SFCD-0092〜96 (完全限定盤)    |
-| CD                                                                                            | SFCD-0097 (通常盤)                                                                               |                                                                                         |                                                                                                                                      |                         |
-| 9th                                                                                           | [2014年](../Page/2014年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink") | [ARCHE](https://ja.wikipedia.org/wiki/ARCHE_\(アルバム\) "wikilink")                        | [Blu-spec CD2](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")+CD+[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink") | SFCD-0136〜138 (完全生産限定盤) |
-| Blu-spec CD2+CD+DVD                                                                           | SFCD-0139〜141 (完全生産限定盤)                                                                       |                                                                                         |                                                                                                                                      |                         |
-| 2CD                                                                                           | SFCD-0142〜143 (初回生産限定盤)                                                                       |                                                                                         |                                                                                                                                      |                         |
-| CD                                                                                            | SFCD-0144 (通常盤)                                                                               |                                                                                         |                                                                                                                                      |                         |
-| 10th                                                                                          | [2018年](../Page/2018年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")                      | [The Insulated World](https://ja.wikipedia.org/wiki/The_Insulated_World "wikilink")     | Blu-spec CD2+CD+Blu-ray                                                                                                              | SFCD-0229〜231 (完全生産限定盤) |
-| Blu-spec CD2+CD+DVD                                                                           | SFCD-0232〜234 (完全生産限定盤)                                                                       |                                                                                         |                                                                                                                                      |                         |
-| 2CD                                                                                           | SFCD-0235〜236 (初回生産限定盤)                                                                       |                                                                                         |                                                                                                                                      |                         |
-| CD                                                                                            | SFCD-0237 (通常盤)                                                                               |                                                                                         |                                                                                                                                      |                         |
+|                                                                            |                                                                                               |                                                                                     |                                                                                                                                      |                         |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+|                                                                            | 発売日                                                                                           | タイトル                                                                                | 規格                                                                                                                                   | 販売生産番号                  |
+| 1st                                                                        | [1999年](../Page/1999年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")                      | **[GAUZE](../Page/GAUZE.md "wikilink")**                                            | CD                                                                                                                                   | AMCM-4440               |
+| [2001年](../Page/2001年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") | FWR-030 (再発)                                                                                  |                                                                                     |                                                                                                                                      |                         |
+| 2nd                                                                        | [2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")                      | **[MACABRE](../Page/MACABRE.md "wikilink")**                                        | CD                                                                                                                                   | SFCD-0001               |
+| 3rd                                                                        | [2002年](../Page/2002年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")                      | **[鬼葬](../Page/鬼葬.md "wikilink")**                                                  | CD                                                                                                                                   | SFCD-0012               |
+| 4th                                                                        | [2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")                      | **[VULGAR](../Page/VULGAR.md "wikilink")**                                          | CD＋DVD                                                                                                                               | SFCD-0019〜20 (初回盤)      |
+| CD                                                                         | SFCD-0021 (通常盤)                                                                               |                                                                                     |                                                                                                                                      |                         |
+| 5th                                                                        | [2005年](../Page/2005年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")                        | **[Withering to death.](../Page/Withering_to_death..md "wikilink")**                | CD                                                                                                                                   | SFCD-0035               |
+| 6th                                                                        | [2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")                        | **[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")**              | 2CD                                                                                                                                  | SFCD-0048〜9 (初回盤)       |
+| CD                                                                         | SFCD-0050 (通常盤)                                                                               |                                                                                     |                                                                                                                                      |                         |
+| 7th                                                                        | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月12日](../Page/11月12日.md "wikilink") | **[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")**                   | 2CD＋DVD＋2LP                                                                                                                          | SFCD-0058〜62 (完全限定盤)    |
+| 2CD                                                                        | SFCD-0063〜4 (初回盤)                                                                             |                                                                                     |                                                                                                                                      |                         |
+| CD                                                                         | SFCD-0065 (通常盤)                                                                               |                                                                                     |                                                                                                                                      |                         |
+| 8th                                                                        | [2011年](../Page/2011年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")                        | **[DUM SPIRO SPERO](https://ja.wikipedia.org/wiki/DUM_SPIRO_SPERO "wikilink")**     | 2CD＋DVD＋2LP                                                                                                                          | SFCD-0092〜96 (完全限定盤)    |
+| CD                                                                         | SFCD-0097 (通常盤)                                                                               |                                                                                     |                                                                                                                                      |                         |
+| 9th                                                                        | [2014年](../Page/2014年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")                    | [ARCHE](https://ja.wikipedia.org/wiki/ARCHE_\(アルバム\) "wikilink")                    | [Blu-spec CD2](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")+CD+[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink") | SFCD-0136〜138 (完全生産限定盤) |
+| Blu-spec CD2+CD+DVD                                                        | SFCD-0139〜141 (完全生産限定盤)                                                                       |                                                                                     |                                                                                                                                      |                         |
+| 2CD                                                                        | SFCD-0142〜143 (初回生産限定盤)                                                                       |                                                                                     |                                                                                                                                      |                         |
+| CD                                                                         | SFCD-0144 (通常盤)                                                                               |                                                                                     |                                                                                                                                      |                         |
+| 10th                                                                       | [2018年](../Page/2018年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")                      | [The Insulated World](https://ja.wikipedia.org/wiki/The_Insulated_World "wikilink") | Blu-spec CD2+CD+Blu-ray                                                                                                              | SFCD-0229〜231 (完全生産限定盤) |
+| Blu-spec CD2+CD+DVD                                                        | SFCD-0232〜234 (完全生産限定盤)                                                                       |                                                                                     |                                                                                                                                      |                         |
+| 2CD                                                                        | SFCD-0235〜236 (初回生産限定盤)                                                                       |                                                                                     |                                                                                                                                      |                         |
+| CD                                                                         | SFCD-0237 (通常盤)                                                                               |                                                                                     |                                                                                                                                      |                         |
 
 #### ミニアルバム
 
@@ -441,19 +441,19 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 | Indies 1st\[7\] | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月25日](../Page/7月25日.md "wikilink") | **[MISSA](../Page/MISSA.md "wikilink")**                                      | CD      | AMCM-4135 (通常盤)            |
 | 2001年10月31日     | FWR-029 (再発)                                                                                |                                                                               |         |                            |
 | 1st\[8\]        | [2002年](../Page/2002年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")                    | **[six Ugly](https://ja.wikipedia.org/wiki/six_Ugly "wikilink")**             | CD      | SFCD-0015                  |
-| 2nd             | [2013年](../Page/2013年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")   | **[THE UNRAVELING](https://ja.wikipedia.org/wiki/THE_UNRAVELING "wikilink")** | 2CD＋DVD | SFCD-0117〜0119 (完全受注生産限定盤) |
+| 2nd             | [2013年](../Page/2013年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")                      | **[THE UNRAVELING](https://ja.wikipedia.org/wiki/THE_UNRAVELING "wikilink")** | 2CD＋DVD | SFCD-0117〜0119 (完全受注生産限定盤) |
 | CD+DVD          | SFCD-0120〜121 (初回生産限定盤)                                                                     |                                                                               |         |                            |
 | CD              | SFCD-0122 (通常盤)                                                                             |                                                                               |         |                            |
 
 #### ベストアルバム
 
-| 発売日                                                                                                              | タイトル                                                                                  | 規格          | 販売生産番号        |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- | ------------- |
-| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") | **[DECADE 1998-2002](https://ja.wikipedia.org/wiki/DECADE_1998-2002 "wikilink")**     | 2CD         | SFCD-0053〜4   |
-| 2007年12月19日                                                                                                      | **[DECADE 2003-2007](https://ja.wikipedia.org/wiki/DECADE_2003-2007 "wikilink")**     | CD          | SFCD-0055     |
-| [2018年](../Page/2018年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")                                           | [VESTIGE OF SCRATCHES](https://ja.wikipedia.org/wiki/VESTIGE_OF_SCRATCHES "wikilink") | 3CD＋Blu-ray | SFCD-0211〜214 |
-| 3CD＋DVD                                                                                                          | SFCD-0215〜218                                                                         |             |               |
-| 3CD                                                                                                              | SFCD-0219〜221                                                                         |             |               |
+| 発売日                                                                                           | タイトル                                                                                  | 規格          | 販売生産番号        |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- | ------------- |
+| [2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") | **[DECADE 1998-2002](https://ja.wikipedia.org/wiki/DECADE_1998-2002 "wikilink")**     | 2CD         | SFCD-0053〜4   |
+| 2007年12月19日                                                                                   | **[DECADE 2003-2007](https://ja.wikipedia.org/wiki/DECADE_2003-2007 "wikilink")**     | CD          | SFCD-0055     |
+| [2018年](../Page/2018年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")                        | [VESTIGE OF SCRATCHES](https://ja.wikipedia.org/wiki/VESTIGE_OF_SCRATCHES "wikilink") | 3CD＋Blu-ray | SFCD-0211〜214 |
+| 3CD＋DVD                                                                                       | SFCD-0215〜218                                                                         |             |               |
+| 3CD                                                                                           | SFCD-0219〜221                                                                         |             |               |
 
 #### その他のアルバム
 
@@ -486,16 +486,16 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 <td><p>AMCM-4348</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月2日.md" title="wikilink">11月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月2日.md" title="wikilink">11月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:The_Best_of_Taste_of_Chaos" title="wikilink">Taste of chaos</a></strong></p></td>
 <td><p><a href="../Page/THE_FINAL.md" title="wikilink">THE FINAL</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-17813/4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Family_Values_Tour_2006_CD" title="wikilink">THE FAMILY VALUES TOUR</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Withering_to_death." title="wikilink">Merciless Cult</a><br />
+<td><p><a href="../Page/Withering_to_death..md" title="wikilink">Merciless Cult</a><br />
 <a href="../Page/凌辱の雨.md" title="wikilink">凌辱の雨</a></p></td>
 <td><p>CD</p></td>
 <td><p>TOBW-3320</p></td>
@@ -503,7 +503,7 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 <tr class="even">
 <td><p>2007年<a href="../Page/4月11日.md" title="wikilink">4月11日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Family_Values_Tour_2006_DVD" title="wikilink">THE FAMILY VALUES TOUR</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Withering_to_death." title="wikilink">孤独に死す、故に孤独。</a><br />
+<td><p><a href="../Page/Withering_to_death..md" title="wikilink">孤独に死す、故に孤独。</a><br />
 <a href="../Page/VULGAR.md" title="wikilink">THE ⅢD EMPIRE</a></p></td>
 <td><p>DVD</p></td>
 <td><p>TOCP-66663</p></td>
@@ -512,7 +512,7 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/11月7日.md" title="wikilink">11月7日</a></p></td>
 <td><p><strong>LIVE AT WACKEN 2007</strong></p></td>
 <td><p><a href="../Page/THE_FINAL.md" title="wikilink">THE FINAL</a><br />
-<a href="https://ja.wikipedia.org/wiki/Withering_to_death." title="wikilink">dead tree</a></p></td>
+<a href="../Page/Withering_to_death..md" title="wikilink">dead tree</a></p></td>
 <td><p>DVD</p></td>
 <td><p>GNBP-1011/2</p></td>
 </tr>
@@ -561,7 +561,7 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/4月20日" title="wikilink">4月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/漆黒の光" title="wikilink">漆黒の光</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大佑" title="wikilink">大佑</a>と黒の隠者達</p></td>
+<td><p><a href="../Page/大佑.md" title="wikilink">大佑</a>と黒の隠者達</p></td>
 <td><p>「<strong>葬送</strong>」にて<br />
 京がヴォーカルを担当<br />
 （クレジットはされていない）。</p></td>
@@ -571,7 +571,7 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Run_to_the_Sun/Walk_with_Dreams" title="wikilink">Run to the Sun／Walk with Dreams</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></p></td>
+<td><p><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></p></td>
 <td><p>「<strong>Walk with Dreams "Live On"</strong>」にて<br />
 ToshiyaがRemixを担当。</p></td>
 <td><p>CD</p></td>
@@ -582,7 +582,7 @@ VIZL-493</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/9月4日.md" title="wikilink">9月4日</a></p></td>
 <td><p><strong>DEAD END Tribute - SONG OF LUNATICS -</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a><br />
-<a href="https://ja.wikipedia.org/wiki/トリビュート・アルバム" title="wikilink">トリビュート・アルバム</a></p></td>
+<a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a></p></td>
 <td><p>「<strong>Embryo Burning</strong>」にて<br />
 ShinyaがDrumsを担当。</p></td>
 <td><p>CD</p></td>
@@ -610,7 +610,7 @@ VBCJ-30007</p></td>
 <tr class="even">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
 <td><p>ONENESS M</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SUGIZO" title="wikilink">SUGIZO</a></p></td>
+<td><p><a href="../Page/SUGIZO.md" title="wikilink">SUGIZO</a></p></td>
 <td><p>「<strong>絶彩</strong>」にて<br />
 京がヴォーカルを担当。</p></td>
 <td><p>2CD（SHM-CD）+Photo Book+三方背ケース<br />
@@ -690,17 +690,17 @@ ShinyaがDrumsを担当。</p></td>
 
 #### セレクションアルバム
 
-| 発売日                                                                                         | **タイトル**                                                                                                                                          | 収録曲                                                                                         | 規格 | 販売生産番号     |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -- | ---------- |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月10日](../Page/9月10日.md "wikilink") | **[THE ROADKILLERS -artist selection by DIR EN GREY](https://ja.wikipedia.org/wiki/THE_ROADKILLERS_-artist_selection_by_DIR_EN_GREY "wikilink")** | [DIR EN GREYがセレクションした](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、他アーティストの楽曲が収録。 | CD | RRCY-21323 |
+| 発売日                                                                                         | **タイトル**                                                                                                                                          | 収録曲                                                                      | 規格 | 販売生産番号     |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -- | ---------- |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月10日](../Page/9月10日.md "wikilink") | **[THE ROADKILLERS -artist selection by DIR EN GREY](https://ja.wikipedia.org/wiki/THE_ROADKILLERS_-artist_selection_by_DIR_EN_GREY "wikilink")** | [DIR EN GREYがセレクションした](../Page/DIR_EN_GREY.md "wikilink")、他アーティストの楽曲が収録。 | CD | RRCY-21323 |
 
 #### トリビュート参加作品
 
-| 発売日                                                                                         | **タイトル**                                                                                                                                | 収録曲                 | 規格     | 販売生産番号     |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------ | ---------- |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") | **[ロマンチスト〜THE STALIN・遠藤ミチロウTribute Album〜](https://ja.wikipedia.org/wiki/ロマンチスト〜THE_STALIN・遠藤ミチロウTribute_Album〜 "wikilink")**           | ワルシャワの幻想            | CD     | BVCL-148   |
-| [2017年](../Page/2017年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")                    | **D'ERLANGER TRIBUTE ALBUM ～Stairway to Heaven～**                                                                                       | EASY MAKE,EASY MARK | CD     | WPCL-12767 |
-| [2020年](../Page/2020年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                    | **[PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜](https://ja.wikipedia.org/wiki/PARADE_III_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜 "wikilink")** | NATIONAL MEDIA BOYS | SHM-CD | VICL-70243 |
+| 発売日                                                                                         | **タイトル**                                                                                                                      | 収録曲                 | 規格     | 販売生産番号     |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------ | ---------- |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") | **[ロマンチスト〜THE STALIN・遠藤ミチロウTribute Album〜](https://ja.wikipedia.org/wiki/ロマンチスト〜THE_STALIN・遠藤ミチロウTribute_Album〜 "wikilink")** | ワルシャワの幻想            | CD     | BVCL-148   |
+| [2017年](../Page/2017年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")                    | **D'ERLANGER TRIBUTE ALBUM ～Stairway to Heaven～**                                                                             | EASY MAKE,EASY MARK | CD     | WPCL-12767 |
+| [2020年](../Page/2020年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")                    | **[PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE_III_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")**          | NATIONAL MEDIA BOYS | SHM-CD | VICL-70243 |
 
 ### VIDEO/DVD
 
@@ -777,7 +777,7 @@ SFBD-0001 (DVD)</p></td>
 <tr class="odd">
 <td><p>PV集</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鬼門_(映像作品)" title="wikilink">鬼門</a></strong></p></td>
+<td><p><strong><a href="../Page/鬼門_(映像作品).md" title="wikilink">鬼門</a></strong></p></td>
 <td><p>VHS<br />
 DVD</p></td>
 <td><p>SFVD-0002 (VHS)<br />
@@ -786,7 +786,7 @@ SFBD-0002 (DVD)</p></td>
 <tr class="even">
 <td><p>ライブ</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/列島激震行脚_FINAL_2003_5_Ugly_KINGDOM" title="wikilink">列島激震行脚 FINAL 2003 5 Ugly KINGDOM</a></strong></p></td>
+<td><p><strong><a href="../Page/列島激震行脚_FINAL_2003_5_Ugly_KINGDOM.md" title="wikilink">列島激震行脚 FINAL 2003 5 Ugly KINGDOM</a></strong></p></td>
 <td><p>VHS<br />
 DVD</p></td>
 <td><p>SFVD-0003 (VHS)<br />
@@ -794,7 +794,7 @@ SFBD-0003 (DVD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライブ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TOUR04_THE_CODE_OF_VULGAR〔ism〕" title="wikilink">TOUR04 THE CODE OF VULGAR[ism</a>]</strong></p></td>
 <td><p>DVD</p></td>
 <td><p>SFBD-0004/5 (初回盤)<br />
@@ -802,7 +802,7 @@ SFBD-0006 (通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>PV集</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AVERAGE_FURY" title="wikilink">AVERAGE FURY</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>SFBD-0011</p></td>
@@ -810,13 +810,13 @@ SFBD-0006 (通常盤)</p></td>
 <tr class="odd">
 <td><p>PV集</p></td>
 <td><p>2005年<a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AVERAGE_PSYCHO" title="wikilink">AVERAGE PSYCHO</a></strong></p></td>
+<td><p><strong><a href="../Page/AVERAGE_PSYCHO.md" title="wikilink">AVERAGE PSYCHO</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>FWB-004</p></td>
 </tr>
 <tr class="even">
 <td><p>ライブ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TOUR05_It_Withers_and_Withers" title="wikilink">TOUR05 It Withers and Withers</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>SFBD-0012〜14 (初回盤)<br />
@@ -986,21 +986,21 @@ Deep[-], Deep[-], Deep[-], Deep[er]]]</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>1st[9]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BLITZ_5DAYS_DVD-BOX" title="wikilink">BLITZ 5DAYS DVD-BOX</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>SK-001〜5-D</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/2月" title="wikilink">2月</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/2月" title="wikilink">2月</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TOUR05_It_withers_and_withers_-Bootlegged-" title="wikilink">TOUR05 It withers and withers -Bootlegged-</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>SK-006-D</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/2月" title="wikilink">2月</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/2月" title="wikilink">2月</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/DESPAIR_IN_THE_WOMB" title="wikilink">DESPAIR IN THE WOMB</a></strong></p></td>
 <td><p>DVD</p></td>
 <td><p>SK-007〜8-D</p></td>
@@ -1174,7 +1174,7 @@ KDC-0059</p></td>
 | 発売日                                                                                           | タイトル                                                                                      | 出版社                                                                 | 品番                 |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------ |
 | [1999年](../Page/1999年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")                      | **[Dir en greyやろうぜ](https://ja.wikipedia.org/wiki/Dir_en_greyやろうぜ "wikilink")**           | [宝島社](../Page/宝島社.md "wikilink")                                    | ISBN 4-7966-1613-6 |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")   | **[THE MANIPULATED LIFE](https://ja.wikipedia.org/wiki/THE_MANIPULATED_LIFE "wikilink")** | [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")                        | ISBN 4-7897-9679-5 |
+| [2005年](../Page/2005年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")                      | **[THE MANIPULATED LIFE](https://ja.wikipedia.org/wiki/THE_MANIPULATED_LIFE "wikilink")** | [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")                        | ISBN 4-7897-9679-5 |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月18日](../Page/12月18日.md "wikilink") | **DIR EN GREY GUITAR BOOK feat.薫 & Die**                                                  | [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink") | ISBN 4-4016-3267-2 |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")   | **DIR EN GREY BASS & DRUMS BOOK feat.Toshiya & Shinya**                                   | シンコー・ミュージック                                                         | ISBN 4-4016-3399-7 |
 | [2011年](../Page/2011年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")                      | **[AMON](https://ja.wikipedia.org/wiki/AMON "wikilink")**                                 | [宝島社](../Page/宝島社.md "wikilink")                                    | ISBN 4-7966-8477-8 |
@@ -1271,7 +1271,7 @@ KDC-0059</p></td>
 <td><p>DCT-0215</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/MINERVA_-THE_UNRAVELING-" title="wikilink">MINERVA -THE UNRAVELING-</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/THE_UNRAVELING" title="wikilink">THE UNRAVELING</a> OFFICIAL BOOK</p></td>
 <td><p>DCT-0216</p></td>
@@ -1281,18 +1281,18 @@ KDC-0059</p></td>
 
 #### バンドスコア
 
-| 発売日                                                                                         | タイトル                                                                                    | 出版社                                                                     | 品番                 |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------ |
-| [1999年](../Page/1999年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")                  | **[GAUZE](../Page/GAUZE.md "wikilink")**                                                | [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")     | ISBN 4-401-35095-2 |
-| [2001年](../Page/2001年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")                      | **[MACABRE](../Page/MACABRE.md "wikilink")**                                            | [ヤマハミュージックメディア](https://ja.wikipedia.org/wiki/ヤマハミュージックメディア "wikilink") | ISBN 4-636-16787-2 |
-| [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")                    | **[鬼葬](https://ja.wikipedia.org/wiki/鬼葬 "wikilink")**                                   | ヤマハミュージックメディア                                                           | ISBN 4-636-16857-7 |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") | **[six Ugly](https://ja.wikipedia.org/wiki/six_Ugly "wikilink")**                       | シンコー・ミュージック                                                             | ISBN 4-401-35242-4 |
-| 2005年1月31日                                                                                  | **[VULGAR](../Page/VULGAR.md "wikilink")**                                              | シンコー・ミュージック                                                             | ISBN 4-401-35241-6 |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") | **[Withering to death.](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink")** | シンコー・ミュージック                                                             | ISBN 4-401-35451-6 |
-| 2010年1月31日                                                                                  | **[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")**                  | シンコー・ミュージック                                                             | ISBN 4-401-35450-8 |
-| [2011年](../Page/2011年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")                      | **[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")**                       | シンコー・ミュージック                                                             | ISBN 4-401-35573-3 |
-| [2013年](../Page/2013年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                    | **[DUM SPIRO SPERO](https://ja.wikipedia.org/wiki/DUM_SPIRO_SPERO "wikilink")**         | シンコー・ミュージック                                                             | ISBN 4-401-35670-5 |
-| [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")                    | **[THE UNRAVELING](https://ja.wikipedia.org/wiki/THE_UNRAVELING "wikilink")**           | シンコー・ミュージック                                                             | ISBN 4-401-35744-2 |
+| 発売日                                                                                         | タイトル                                                                            | 出版社                                                                 | 品番                 |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------ |
+| [1999年](../Page/1999年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")                  | **[GAUZE](../Page/GAUZE.md "wikilink")**                                        | [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink") | ISBN 4-401-35095-2 |
+| [2001年](../Page/2001年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")                      | **[MACABRE](../Page/MACABRE.md "wikilink")**                                    | [ヤマハミュージックメディア](../Page/ヤマハミュージックメディア.md "wikilink")                | ISBN 4-636-16787-2 |
+| [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")                    | **[鬼葬](../Page/鬼葬.md "wikilink")**                                              | ヤマハミュージックメディア                                                       | ISBN 4-636-16857-7 |
+| [2005年](../Page/2005年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")                    | **[six Ugly](https://ja.wikipedia.org/wiki/six_Ugly "wikilink")**               | シンコー・ミュージック                                                         | ISBN 4-401-35242-4 |
+| 2005年1月31日                                                                                  | **[VULGAR](../Page/VULGAR.md "wikilink")**                                      | シンコー・ミュージック                                                         | ISBN 4-401-35241-6 |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") | **[Withering to death.](../Page/Withering_to_death..md "wikilink")**            | シンコー・ミュージック                                                         | ISBN 4-401-35451-6 |
+| 2010年1月31日                                                                                  | **[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")**          | シンコー・ミュージック                                                         | ISBN 4-401-35450-8 |
+| [2011年](../Page/2011年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")                      | **[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")**               | シンコー・ミュージック                                                         | ISBN 4-401-35573-3 |
+| [2013年](../Page/2013年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                    | **[DUM SPIRO SPERO](https://ja.wikipedia.org/wiki/DUM_SPIRO_SPERO "wikilink")** | シンコー・ミュージック                                                         | ISBN 4-401-35670-5 |
+| [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")                    | **[THE UNRAVELING](https://ja.wikipedia.org/wiki/THE_UNRAVELING "wikilink")**   | シンコー・ミュージック                                                         | ISBN 4-401-35744-2 |
 
 ### 未発表曲
 

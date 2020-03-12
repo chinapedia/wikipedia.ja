@@ -20,10 +20,10 @@
 ## 収録曲
 
 1.  **REVOLUTION 2007**
-      - 作詞:[藤井郁弥](../Page/藤井フミヤ.md "wikilink")／作曲:[鶴久政治](https://ja.wikipedia.org/wiki/鶴久政治 "wikilink")／編曲:THE CHECKERS FAM.
+      - 作詞:[藤井郁弥](../Page/藤井フミヤ.md "wikilink")／作曲:[鶴久政治](../Page/鶴久政治.md "wikilink")／編曲:THE CHECKERS FAM.
     <!-- end list -->
       -
-        ライブのオープニングを意識して作られた曲。ハーモニカを吹いているのは[THE MODSの森山達也](https://ja.wikipedia.org/wiki/THE_MODS "wikilink")。
+        ライブのオープニングを意識して作られた曲。ハーモニカを吹いているのは[THE MODSの森山達也](../Page/THE_MODS.md "wikilink")。
 2.  **YOU'RE A REPLICANT(CAMA CAMA MOO MOO)**
       - 作詞:藤井郁弥／作曲:鶴久政治／編曲:THE CHECKERS FAM.
 3.  **MELLOW TONIGHT**
@@ -32,7 +32,7 @@
       -
         鶴久がリードボーカル。
 4.  **[NANA](../Page/NANA_\(曲\).md "wikilink")**
-      - 作詞:藤井郁弥／作曲:[藤井尚之](https://ja.wikipedia.org/wiki/藤井尚之 "wikilink")／編曲:THE CHECKERS FAM.
+      - 作詞:藤井郁弥／作曲:[藤井尚之](../Page/藤井尚之.md "wikilink")／編曲:THE CHECKERS FAM.
     <!-- end list -->
       -
         12thシングルにして初のメンバーオリジナルシングル。のちにフミヤが2002年[10月9日](../Page/10月9日.md "wikilink")発売のセルフカバーアルバム「[Re Take](https://ja.wikipedia.org/wiki/Re_Take "wikilink")」にてセルフカバー。
@@ -42,12 +42,12 @@
       -
         チェッカーズの曲の中では唯一、全編ユニゾンで歌われている曲。
 6.  **TOKYO CONNECTION**
-      - 作詞:藤井郁弥／作曲:[武内享](https://ja.wikipedia.org/wiki/武内享 "wikilink")／編曲:THE CHECKERS FAM.／ブラスアレンジ：[新田一郎](https://ja.wikipedia.org/wiki/新田一郎_\(ミュージシャン\) "wikilink")
+      - 作詞:藤井郁弥／作曲:[武内享](../Page/武内享.md "wikilink")／編曲:THE CHECKERS FAM.／ブラスアレンジ：[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")
     <!-- end list -->
       -
         70年代のディスコを意識した曲。のちにフミヤが2002年[10月9日](../Page/10月9日.md "wikilink")発売のセルフカバーアルバム「[Re Take](https://ja.wikipedia.org/wiki/Re_Take "wikilink")」にてセルフカバー。
 7.  **[I Love you, SAYONARA](https://ja.wikipedia.org/wiki/I_Love_you,_SAYONARA "wikilink")**
-      - 作詞:藤井郁弥／作曲:[大土井裕二](https://ja.wikipedia.org/wiki/大土井裕二 "wikilink")／編曲:THE CHECKERS FAM.
+      - 作詞:藤井郁弥／作曲:[大土井裕二](../Page/大土井裕二.md "wikilink")／編曲:THE CHECKERS FAM.
     <!-- end list -->
       -
         13thシングル。冒頭部分がシングル版とは若干異なる。
@@ -55,12 +55,12 @@
       - 作詞:藤井郁弥／作曲:武内享／編曲:THE CHECKERS FAM.
     <!-- end list -->
       -
-        武内曰く「チェッカーズが持つ[ドゥーワップ](https://ja.wikipedia.org/wiki/ドゥーワップ "wikilink")の要素を全て詰め込んだ曲。ドゥーワップ好きが聞いたら笑う」。間奏の台詞は「一発やらせてくれ」と迫る内容。
+        武内曰く「チェッカーズが持つ[ドゥーワップ](../Page/ドゥーワップ.md "wikilink")の要素を全て詰め込んだ曲。ドゥーワップ好きが聞いたら笑う」。間奏の台詞は「一発やらせてくれ」と迫る内容。
 9.  **GO INTO THE WHOLE**
-      - 作詞:[高杢禎彦](https://ja.wikipedia.org/wiki/高杢禎彦 "wikilink")／作曲:武内享／編曲:THE CHECKERS FAM.
+      - 作詞:[高杢禎彦](../Page/高杢禎彦.md "wikilink")／作曲:武内享／編曲:THE CHECKERS FAM.
     <!-- end list -->
       -
-        高杢がリードボーカル。間奏の[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")は「[イン・ザ・ムード](https://ja.wikipedia.org/wiki/イン・ザ・ムード "wikilink")」からの引用。
+        高杢がリードボーカル。間奏の[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")は「[イン・ザ・ムード](../Page/イン・ザ・ムード.md "wikilink")」からの引用。
 10. **QUATRE SAISONS**
       - 作詞:藤井郁弥／作曲:藤井尚之／編曲:THE CHECKERS FAM.
     <!-- end list -->

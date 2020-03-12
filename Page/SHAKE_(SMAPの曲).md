@@ -1,18 +1,18 @@
 > この記事は[SHAKE \(SMAP\)](https://ja.wikipedia.org/wiki/SHAKE_\(SMAP\))から翻訳されています。
 
 
-「**SHAKE**」（シェイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**SHAKE**」（シェイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 
   - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』のテーマソング
-  - 6年連続出場となる『[第47回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink")』でこの曲を歌った。
+  - 6年連続出場となる『[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")』でこの曲を歌った。
   - 振付は、サンチェが担当した。
-  - [プロ野球の](../Page/日本プロ野球.md "wikilink")[糸井嘉男](https://ja.wikipedia.org/wiki/糸井嘉男 "wikilink")外野手が、[日本ハムから](../Page/北海道日本ハムファイターズ.md "wikilink")[オリックスに移籍した](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")2013年から登場曲として使用している\[1\]\[2\]。オリックスの[本拠地の](https://ja.wikipedia.org/wiki/専用球場 "wikilink")[京セラドーム大阪や](../Page/大阪ドーム.md "wikilink")[ほっともっとフィールド神戸では](../Page/神戸総合運動公園野球場.md "wikilink")、バファローズファンがサビの「二人ならヤレルヤ～♪」の部分を、替え歌で「**糸井ならヤレルヤ～♪**」と合唱するのが恒例となっている。これは、2017年に糸井が[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")に移籍しても継続している。
-  - メンバーでは[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")のみソロパートがある。
-  - 高校野球での応援曲としても使用されており、主に[大阪桐蔭高等学校の吹奏楽部が使用している](https://ja.wikipedia.org/wiki/大阪桐蔭中学校・高等学校 "wikilink")。
+  - [プロ野球の](../Page/日本プロ野球.md "wikilink")[糸井嘉男](https://ja.wikipedia.org/wiki/糸井嘉男 "wikilink")外野手が、[日本ハムから](../Page/北海道日本ハムファイターズ.md "wikilink")[オリックスに移籍した](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")2013年から登場曲として使用している\[1\]\[2\]。オリックスの[本拠地の](https://ja.wikipedia.org/wiki/専用球場 "wikilink")[京セラドーム大阪や](../Page/大阪ドーム.md "wikilink")[ほっともっとフィールド神戸では](../Page/神戸総合運動公園野球場.md "wikilink")、バファローズファンがサビの「二人ならヤレルヤ～♪」の部分を、替え歌で「**糸井ならヤレルヤ～♪**」と合唱するのが恒例となっている。これは、2017年に糸井が[阪神タイガース](../Page/阪神タイガース.md "wikilink")に移籍しても継続している。
+  - メンバーでは[木村拓哉](../Page/木村拓哉.md "wikilink")のみソロパートがある。
+  - 高校野球での応援曲としても使用されており、主に[大阪桐蔭高等学校の吹奏楽部が使用している](../Page/大阪桐蔭中学校・高等学校.md "wikilink")。
   - 「[ジャニーズカウントダウンライブ](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ "wikilink")2011-2012」では、本曲を[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")が歌唱した。
-  - 歌詞に用いられている「チョー ベリ ベリ」とは、当時流行した[ギャル語](https://ja.wikipedia.org/wiki/ギャル語 "wikilink")の「[チョベリバ](https://ja.wikipedia.org/wiki/チョベリバ "wikilink")・チョベリグ」からきている\[3\]。
+  - 歌詞に用いられている「チョー ベリ ベリ」とは、当時流行した[ギャル語](../Page/ギャル語.md "wikilink")の「[チョベリバ](https://ja.wikipedia.org/wiki/チョベリバ "wikilink")・チョベリグ」からきている\[3\]。
 
 ## チャート成績
 
@@ -24,21 +24,21 @@
 
 1.  **SHAKE**
       -
-        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:[小森田実](../Page/小森田実.md "wikilink") / 編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:[小森田実](../Page/小森田実.md "wikilink") / 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")」テーマソング
       - SMAP出演 [NTT東日本](https://ja.wikipedia.org/wiki/NTT東日本 "wikilink") CMソング
 2.  **黙って俺について来い**
       -
-        作詞:小倉めぐみ / 作曲:[Jimmy Johnson](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink") / 編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink") / コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")
+        作詞:小倉めぐみ / 作曲:[Jimmy Johnson](../Page/馬飼野康二.md "wikilink") / 編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink") / コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")
 3.  SHAKE（music track）
 4.  黙って俺について来い（music track）
 
 ## 収録アルバム
 
-  - [Wool](https://ja.wikipedia.org/wiki/WOOL_\(アルバム\) "wikilink")（\#1）
+  - [Wool](../Page/WOOL_\(アルバム\).md "wikilink")（\#1）
   - [Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")（\#1）
-  - [SAMPLE BANG\!](https://ja.wikipedia.org/wiki/SAMPLE_BANG! "wikilink")（\#1）
+  - [SAMPLE BANG\!](../Page/SAMPLE_BANG!.md "wikilink")（\#1）
       - リミックス・バージョンを収録。
   - [SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")（\#1）
 
@@ -48,18 +48,18 @@
       -
         この回の音楽コーナー「S-Live」で披露。
         テレビ初披露。
-  - 『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（1996年11月8日、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）
-  - 『[うたばん](../Page/うたばん.md "wikilink")』（1996年11月12日、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）
+  - 『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（1996年11月8日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - 『[うたばん](../Page/うたばん.md "wikilink")』（1996年11月12日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - 『['96 FNS歌謡祭](https://ja.wikipedia.org/wiki/1996_FNS歌謡祭 "wikilink")』（1996年12月10日、フジテレビ）
   - 『ミュージックステーション』（1996年12月13日、テレビ朝日）
-  - 『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](https://ja.wikipedia.org/wiki/さんま&SMAP!美女と野獣のクリスマススペシャル "wikilink")'96』（1996年12月21日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - 『[さんま\&SMAP\!美女と野獣のクリスマススペシャル](../Page/さんま&SMAP!美女と野獣のクリスマススペシャル.md "wikilink")'96』（1996年12月21日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
       -
         番組最後のスタジオライブのメドレーで披露。
   - 『[450回記念 ミュージックステーションスペシャル スーパーライブ96](https://ja.wikipedia.org/wiki/ミュージックステーションスーパーライブ#第5回（1996年） "wikilink")』（1996年12月27日、テレビ朝日）
   - 『SMAP×SMAP 96年 大シェイクスペシャル\!\!』（1996年12月30日、関西テレビ・フジテレビ）
       -
         この回の音楽コーナー「S-Live」で披露。
-  - 『[第47回 NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink")』（1996年12月31日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+  - 『[第47回 NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")』（1996年12月31日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - 『['97 FNS歌謡祭](https://ja.wikipedia.org/wiki/1997_FNS歌謡祭 "wikilink")』（1997年12月11日、フジテレビ）
   - 『SMAP×SMAP』（2001年9月29日、関西テレビ・フジテレビ）
       -
@@ -84,11 +84,11 @@
         番組最後のスタジオライブのメドレーで披露。
   - 『SMAP×SMAP 史上最大4時間半生放送\! 新春ドリームスペシャル』（2010年1月4日、関西テレビ・フジテレビ）
       -
-        番組のグランドフィナーレで、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")で披露。
+        番組のグランドフィナーレで、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")で披露。
   - 『SMAP×SMAP』（2010年11月8日、関西テレビ・フジテレビ）
       -
         この回の音楽コーナー「S-Live」で、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")とのコラボレーションで披露。
-        また、Perfumeの「[チョコレイト・ディスコ](https://ja.wikipedia.org/wiki/ファン・サーヴィス［sweet］ "wikilink")」との[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")バージョンで披露。
+        また、Perfumeの「[チョコレイト・ディスコ](../Page/ファン・サーヴィス［sweet］.md "wikilink")」との[リミックス](../Page/リミックス.md "wikilink")バージョンで披露。
   - 『SMAP×SMAP クリスマスSP\!\!』（2011年12月19日、関西テレビ・フジテレビ）
       -
         この回の音楽コーナー「S-Live」で、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")とのコラボレーションで披露。
@@ -101,7 +101,7 @@
         番組最後のスタジオライブのメドレーで披露。
   - 『[火曜曲\! 聖なる夜・ぶっ通し生4時間Xmasライヴ](https://ja.wikipedia.org/wiki/火曜曲! "wikilink")』（2012年12月25日、TBS）
       -
-        この回のスペシャルコーナー「ジャニーズ・スペシャルメドレー」で、[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")とのコラボレーションで披露。
+        この回のスペシャルコーナー「ジャニーズ・スペシャルメドレー」で、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")とのコラボレーションで披露。
   - 『[2013 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2013_FNSうたの夏まつり "wikilink")』（2013年7月31日、フジテレビ）
       -
         番組のトップバッターで披露。
@@ -125,7 +125,7 @@
         この回のスペシャルコーナー「ジャニーズ 夢のスーパーヒットメドレー」で披露。
   - 『[第65回 NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")』（2014年12月31日、NHK）
   - 『[音楽の日2015](https://ja.wikipedia.org/wiki/音楽の日#第5回（2015年） "wikilink")』（2015年6月27日、TBS）
-  - 『[NHKのど自慢](https://ja.wikipedia.org/wiki/NHKのど自慢 "wikilink")』（2015年8月30日、NHK）
+  - 『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』（2015年8月30日、NHK）
   - 『[ミュージックステーション スーパーライブ2015](https://ja.wikipedia.org/wiki/ミュージックステーションスーパーライブ#第24回（2015年） "wikilink")』（2015年12月25日、テレビ朝日）
 
 <small>他多数</small>

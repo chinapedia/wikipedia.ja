@@ -7,17 +7,17 @@
 
 前作「[song for you](../Page/Song_for_you_\(EXILEの曲\).md "wikilink")」から4ヶ月ぶりのシングル。
 
-ジャケット写真は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")の[房総半島](https://ja.wikipedia.org/wiki/房総半島 "wikilink")にある別荘で撮影された\[1\]。
+ジャケット写真は、[千葉県](../Page/千葉県.md "wikilink")の[房総半島](https://ja.wikipedia.org/wiki/房総半島 "wikilink")にある別荘で撮影された\[1\]。
 
-本作にはドラマのタイアップが付いている。ドラマのタイアップが付いたシングル曲はデビュー曲の「[Your eyes only 〜曖昧なぼくの輪郭〜](https://ja.wikipedia.org/wiki/Your_eyes_only_〜曖昧なぼくの輪郭〜 "wikilink")」以来2曲目。
+本作にはドラマのタイアップが付いている。ドラマのタイアップが付いたシングル曲はデビュー曲の「[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")」以来2曲目。
 
 ## 収録曲
 
 1.  **Cross 〜never say die〜** \[4:59\]
       -
-        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Kazuhiro Hara](https://ja.wikipedia.org/wiki/原一博 "wikilink")
+        作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Kazuhiro Hara](../Page/原一博.md "wikilink")
     <!-- end list -->
-      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ『[東京庭付き一戸建て](https://ja.wikipedia.org/wiki/東京庭付き一戸建て "wikilink")』挿入歌
+      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ『[東京庭付き一戸建て](../Page/東京庭付き一戸建て.md "wikilink")』挿入歌
 2.  **Cross 〜never say die〜 (LA 2002 REMIX)** \[5:19\]
       -
         編曲：[813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")
@@ -34,9 +34,9 @@
 
 **Cross 〜never say die〜**
 
-  - [Styles Of Beyond](https://ja.wikipedia.org/wiki/Styles_Of_Beyond "wikilink")
-  - [The other side of EX Vol.1](https://ja.wikipedia.org/wiki/The_other_side_of_EX_Vol.1 "wikilink")（DJ WATARAI REMIX feat. U-ZIPPLAIN from ENBULL）
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink") - SINGLE BEST
+  - [Styles Of Beyond](../Page/Styles_Of_Beyond.md "wikilink")
+  - [The other side of EX Vol.1](../Page/The_other_side_of_EX_Vol.1.md "wikilink")（DJ WATARAI REMIX feat. U-ZIPPLAIN from ENBULL）
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink") - SINGLE BEST
 
 ## 脚注
 

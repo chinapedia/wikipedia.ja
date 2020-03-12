@@ -1,19 +1,19 @@
 > この記事は[MOB SQUAD](https://ja.wikipedia.org/wiki/MOB_SQUAD)から翻訳されています。
 
 
-**MOB SQUAD**（モブ・スクワッド）は、[JVCケンウッド・ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")（以下、ビクターエンタテインメント）内の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、[Dragon Ashを中心としたレーベル](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")。[2003年](../Page/2003年.md "wikilink")設立。
+**MOB SQUAD**（モブ・スクワッド）は、[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（以下、ビクターエンタテインメント）内の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、[Dragon Ashを中心としたレーベル](../Page/Dragon_Ash.md "wikilink")。[2003年](../Page/2003年.md "wikilink")設立。
 
 『「従来の音楽産業の慣習にとらわれない、より自由でダイナミックな活動を模索」するという目的で立ち上げた』と位置づけられる\[1\]。
 
 ## 所属アーティスト
 
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")（設立当初から唯一のアーティスト）
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")（設立当初から唯一のアーティスト）
       -
-        [morrow](https://ja.wikipedia.org/wiki/morrow "wikilink")(2003年06月25日)以降の全作品。[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")のソロ作品も含む。
+        [morrow](https://ja.wikipedia.org/wiki/morrow "wikilink")(2003年06月25日)以降の全作品。[降谷建志](../Page/降谷建志.md "wikilink")のソロ作品も含む。
 
 ## 過去の所属アーティスト
 
-  - [SOURCE](https://ja.wikipedia.org/wiki/SOURCE "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")解散）
+  - [SOURCE](../Page/SOURCE.md "wikilink")（[2007年](../Page/2007年.md "wikilink")解散）
 
 <table>
 <thead>
@@ -83,7 +83,7 @@ VICL-61163</p></td>
 </tbody>
 </table>
 
-  - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")解散）
+  - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")（[2004年](../Page/2004年.md "wikilink")解散）
 
 <table>
 <thead>

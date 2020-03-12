@@ -11,7 +11,7 @@
 
   - **中尾諭介**（なかおゆうすけ、[1973年](../Page/1973年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") - ）ボーカル・ギター
       -
-        2008年に田中大介 (ex.[COOL DRIVE](https://ja.wikipedia.org/wiki/COOL_DRIVE "wikilink"))らと5人組バンド「中尾諭介&ニックバッカーズ」を結成。
+        2008年に田中大介 (ex.[COOL DRIVE](../Page/COOL_DRIVE.md "wikilink"))らと5人組バンド「中尾諭介&ニックバッカーズ」を結成。
   - **八谷健太郎**（はちやけんたろう、[1973年](../Page/1973年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - ）ギター
   - **草場敬普**（くさばたかゆき、[1973年](../Page/1973年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ）ベース
   - **吉田慎一郎**（よしだしんいちろう、[1974年](../Page/1974年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）ドラム
@@ -109,7 +109,7 @@
 <li>Love Song (ライブヴァージョン)</li>
 </ol></td>
 <td><p>オリコン最高68位<br />
-<a href="../Page/北海道テレビ放送.md" title="wikilink">HTB</a> <a href="../Page/水曜どうでしょう.md" title="wikilink">水曜どうでしょう</a> 「<a href="https://ja.wikipedia.org/wiki/四国R-14" title="wikilink">四国R-14</a>」及び「<a href="https://ja.wikipedia.org/wiki/水曜どうでしょうの企画_(海外)#ユーコン川160キロ_〜地獄の6日間〜" title="wikilink">YUKON6DAYS ～160kmカヌー地獄～</a>」エンディングテーマ</p></td>
+<a href="../Page/北海道テレビ放送.md" title="wikilink">HTB</a> <a href="../Page/水曜どうでしょう.md" title="wikilink">水曜どうでしょう</a> 「<a href="../Page/四国R-14.md" title="wikilink">四国R-14</a>」及び「<a href="https://ja.wikipedia.org/wiki/水曜どうでしょうの企画_(海外)#ユーコン川160キロ_〜地獄の6日間〜" title="wikilink">YUKON6DAYS ～160kmカヌー地獄～</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -121,7 +121,7 @@
 <li>針の山</li>
 <li>ガラクタ</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上田ケンジ" title="wikilink">上田ケンジ</a>プロデュース</p></td>
+<td><p><a href="../Page/上田ケンジ.md" title="wikilink">上田ケンジ</a>プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -146,7 +146,7 @@
 <li>コーヒー</li>
 </ol></td>
 <td><p>オリコン最高90位<br />
-<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>「<a href="https://ja.wikipedia.org/wiki/真剣10代しゃべり場" title="wikilink">真剣10代しゃべり場</a>」テーマソング</p></td>
+<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>「<a href="../Page/真剣10代しゃべり場.md" title="wikilink">真剣10代しゃべり場</a>」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
@@ -420,7 +420,7 @@
 
 ### 参加作品
 
-  - [Hey ANIKI\!長渕剛トリビュート](https://ja.wikipedia.org/wiki/Hey_ANIKI! "wikilink")（2004年4月28日）
+  - [Hey ANIKI\!長渕剛トリビュート](../Page/Hey_ANIKI!.md "wikilink")（2004年4月28日）
       -
         5.Myself
 
@@ -441,7 +441,7 @@
 
   - 2001年 - In the Soupツアー「金猿番長」
       -
-        w/[THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
+        w/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
   - 2002年 - YES\!\! We have a FEVER
   - 2004年 - In the Soup「\!」ツアー
   - 2011年 - In the Soup リユニオンワンマンライブ Je t'aime 再び…
@@ -482,10 +482,10 @@
 
 ## 関連項目
 
-  - [オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")
+  - [オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")
   - [神奈川県出身の人物一覧](https://ja.wikipedia.org/wiki/神奈川県出身の人物一覧 "wikilink")
-  - [近藤金吾](https://ja.wikipedia.org/wiki/近藤金吾 "wikilink")
-  - [本間俊彦](https://ja.wikipedia.org/wiki/本間俊彦 "wikilink")
+  - [近藤金吾](../Page/近藤金吾.md "wikilink")
+  - [本間俊彦](../Page/本間俊彦.md "wikilink")
 
 ## 外部リンク
 

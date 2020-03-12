@@ -1,17 +1,17 @@
 > この記事は[!!!No.1](https://ja.wikipedia.org/wiki/!!!No.1)から翻訳されています。
 
 
-『**最強の男は誰だ\!壮絶筋肉バトル\!\!スポーツマンNo.1決定戦**』（さいきょうのおとこはだれだ そうぜつきんにくバトル スポーツマンナンバーワンけっていせん）とは、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")である。略称は、『**スポーツマンNo.1決定戦**』。
+『**最強の男は誰だ\!壮絶筋肉バトル\!\!スポーツマンNo.1決定戦**』（さいきょうのおとこはだれだ そうぜつきんにくバトル スポーツマンナンバーワンけっていせん）とは、[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[特別番組](../Page/特別番組.md "wikilink")である。略称は、『**スポーツマンNo.1決定戦**』。
 
 ## 概要
 
 架空の建造物「トーキョー・ベイ・コロッセオ」を舞台に行われるという設定で、各種アトラクションを行い参加者が競うゲーム[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")、アトラクション番組の一種である。2009年1月の時点で合計38回開催されている。
 
-番組収録は[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")・[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")・[幕張メッセ](../Page/幕張メッセ.md "wikilink")などの[多目的ホール](https://ja.wikipedia.org/wiki/多目的ホール "wikilink")や[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")を借り切り、そこに大型セットを設営して収録を行うのが通例となっている。
+番組収録は[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")・[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")・[幕張メッセ](../Page/幕張メッセ.md "wikilink")などの[多目的ホール](../Page/多目的ホール.md "wikilink")や[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")を借り切り、そこに大型セットを設営して収録を行うのが通例となっている。
 
-前身は、1993年12月に放送された、『炎のバトルシリーズ\!\!今夜決定\!プロスポーツマンNo.1選手権』である。その後、1995年から正月に放送されている『プロスポーツマン大会』が制作された。2007年までは概ね、同一のセットを利用して年に1、2回制作・放送されていた『芸能人サバイバルバトル』も存在した。各競技はポイント制になっていて、全競技が終わった時点での合計ポイントで総合No.1を決める。各種目ごとのNo.1や総合順位の上位にはその結果に見合った賞金と副賞が贈られる。また、正月のプロスポーツマン大会では総合No.1および第2位の選手に[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")の車が贈られ、最後尾の枠の番組提供を行っていた。
+前身は、1993年12月に放送された、『炎のバトルシリーズ\!\!今夜決定\!プロスポーツマンNo.1選手権』である。その後、1995年から正月に放送されている『プロスポーツマン大会』が制作された。2007年までは概ね、同一のセットを利用して年に1、2回制作・放送されていた『芸能人サバイバルバトル』も存在した。各競技はポイント制になっていて、全競技が終わった時点での合計ポイントで総合No.1を決める。各種目ごとのNo.1や総合順位の上位にはその結果に見合った賞金と副賞が贈られる。また、正月のプロスポーツマン大会では総合No.1および第2位の選手に[日産自動車](../Page/日産自動車.md "wikilink")の車が贈られ、最後尾の枠の番組提供を行っていた。
 
-実況は当初[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")をメインに[初田啓介](https://ja.wikipedia.org/wiki/初田啓介 "wikilink")らTBSのスポーツアナウンサー数名が務めたが、古舘は『[体育王国](https://ja.wikipedia.org/wiki/筋肉番付シリーズ#体育王国 "wikilink")』終了と『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』が開始されることになりこちらも降板。以降の実況陣は初田を中心としたTBSアナウンサーのみで構成されている。また、競技合間の選手インタビュー役としてTBSの女性アナと女性フリーアナウンサーが起用される(合計数名)。
+実況は当初[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")をメインに[初田啓介](../Page/初田啓介.md "wikilink")らTBSのスポーツアナウンサー数名が務めたが、古舘は『[体育王国](https://ja.wikipedia.org/wiki/筋肉番付シリーズ#体育王国 "wikilink")』終了と『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』が開始されることになりこちらも降板。以降の実況陣は初田を中心としたTBSアナウンサーのみで構成されている。また、競技合間の選手インタビュー役としてTBSの女性アナと女性フリーアナウンサーが起用される(合計数名)。
 
 2010年は1月7日にMONSTER BOX(跳び箱)跳躍の公式記録会に特化した特番の放送に縮小し、この番組としては最後の放送となった。
 
@@ -19,7 +19,7 @@
 
 ## 大会の種類・回数
 
-プロスポーツマン大会と芸能人サバイバルバトルをそれぞれ分けて数えるのではなく、全ての大会（アマチュア大会も含む）を含めるのが正しい数え方である。事実上の初回は前身の『炎のバトルシリーズ\!\!今夜決定\!プロスポーツマンNo.1選手権』である。この大会の総合No.1は[田中幸雄だが](https://ja.wikipedia.org/wiki/田中幸雄_\(内野手\) "wikilink")、総合プロデューサーの[樋口潮](https://ja.wikipedia.org/wiki/樋口潮 "wikilink")によると、初代No.1は事実上の第2回である第1回プロスポーツマン大会の総合No.1の飯田哲也とされている\[1\]。
+プロスポーツマン大会と芸能人サバイバルバトルをそれぞれ分けて数えるのではなく、全ての大会（アマチュア大会も含む）を含めるのが正しい数え方である。事実上の初回は前身の『炎のバトルシリーズ\!\!今夜決定\!プロスポーツマンNo.1選手権』である。この大会の総合No.1は[田中幸雄だが](../Page/田中幸雄_\(内野手\).md "wikilink")、総合プロデューサーの[樋口潮](../Page/樋口潮.md "wikilink")によると、初代No.1は事実上の第2回である第1回プロスポーツマン大会の総合No.1の飯田哲也とされている\[1\]。
 
 ### プロスポーツマン大会 (1995年 - 2009年)
 
@@ -39,7 +39,7 @@
 
 ## 競技種目
 
-[アルファベット順](https://ja.wikipedia.org/wiki/アルファベット順 "wikilink")に記載。特筆の無いものに関しては、種目別No.1のポイントは100Pである。
+[アルファベット順](../Page/アルファベット順.md "wikilink")に記載。特筆の無いものに関しては、種目別No.1のポイントは100Pである。
 
   -
     [トーナメント形式で戦う競技については事前に選手が抽選でトーナメントの対戦の構成を決めることが多い](../Page/トーナメント方式.md "wikilink")。
@@ -52,9 +52,9 @@
 <!-- end list -->
 
   - **BURN OUT GUYS/バーンアウトガイズ** プロ4回・芸能人5回
-      - 第9回芸能人サバイバルバトルからの登場。基礎系3種目のタイムトライアル。20mのスラロームラン、腹筋30回、10mの登り[雲梯](https://ja.wikipedia.org/wiki/雲梯 "wikilink")が基本パターン。また、回によってはスラロームランの代わりに円形シャトルランやサイドジャンプラン(反復横飛び)、腹筋30回の代わりに腹筋と腕立てを20回ずつ行うというパターンもあった。雲梯で落下すると失格になる。WORK OUT GUYS同様、試技の順番は種目の順が最初の方だと、ランダムだが、最終種目の一つ前だと総合ランキング下位の者からの順番に行う。
+      - 第9回芸能人サバイバルバトルからの登場。基礎系3種目のタイムトライアル。20mのスラロームラン、腹筋30回、10mの登り[雲梯](../Page/雲梯.md "wikilink")が基本パターン。また、回によってはスラロームランの代わりに円形シャトルランやサイドジャンプラン(反復横飛び)、腹筋30回の代わりに腹筋と腕立てを20回ずつ行うというパターンもあった。雲梯で落下すると失格になる。WORK OUT GUYS同様、試技の順番は種目の順が最初の方だと、ランダムだが、最終種目の一つ前だと総合ランキング下位の者からの順番に行う。
       - クイーンズチャレンジバトルではBURN OUT GIRLS/バーンアウトガールズとなっていて、本家とは若干違う種目構成で行われた。雲梯の部分が壁登りになっていた。
-      - 最高記録は[木下典明](https://ja.wikipedia.org/wiki/木下典明 "wikilink")の54秒11。
+      - 最高記録は[木下典明](../Page/木下典明.md "wikilink")の54秒11。
 
 <!-- end list -->
 
@@ -99,14 +99,14 @@
 <!-- end list -->
 
   - **MONSTER BOX/モンスターボックス** プロ14回・芸能人17回(最多登場)・アマチュア2回
-      - [跳び箱](https://ja.wikipedia.org/wiki/跳び箱 "wikilink")。男子は11段(1m86cm)、女子は9段(1m66cm)から始まり段が増えるごとに10cm高くなる。助走距離は25m。男子は15段(第11回芸能人サバイバルバトルまでと第11回プロスポーツマン大会は14段)、女子は14段まで試技は各段につき1回、それ以降は2回。飛ぶ段へのパスは自由。25段まで準備されている。また、1〰13段は通常の跳び箱と同じ茶色だが、14〰16段は緑色、17〰19段は青色、20〰22段は黄色、23〰25段は赤色になっている。当初は14段のみ緑色で15段から赤色という構成だったが、第4回のプロスポーツマン大会からは芸能人大会を含め、現在の構成になった。プロスポーツマン大会でのポイントは、第8回大会までは記録に応じてポイントが与えられる形式だった。芸能人大会では、記録に応じてポイントが与えられる形式になる大会もある。初代世界記録は[片岡篤史](https://ja.wikipedia.org/wiki/片岡篤史 "wikilink")が記録した13段+10cm(2m10cm)だった。番組内での最高記録は23段だが、番組外では[大山大和](https://ja.wikipedia.org/wiki/大山大和 "wikilink")が24段に成功している\[4\]。
-          - 23段(公認世界記録・公認芸能人記録)-3m06cm([ヨー・ホンチュル](https://ja.wikipedia.org/wiki/呂洪哲 "wikilink")、[池谷直樹](https://ja.wikipedia.org/wiki/池谷直樹 "wikilink")、[モーガン・ハム](https://ja.wikipedia.org/wiki/モーガン・ハム "wikilink")、[水鳥寿思](https://ja.wikipedia.org/wiki/水鳥寿思 "wikilink"))
-          - 20段(プロスポーツマン記録)-2m76cm([中田大輔](https://ja.wikipedia.org/wiki/中田大輔 "wikilink")、[三浦貴](https://ja.wikipedia.org/wiki/三浦貴 "wikilink")、[宮﨑大輔](https://ja.wikipedia.org/wiki/宮﨑大輔 "wikilink")、[ポール・A・テレック](https://ja.wikipedia.org/wiki/ポール・A・テレック "wikilink"))
+      - [跳び箱](../Page/跳び箱.md "wikilink")。男子は11段(1m86cm)、女子は9段(1m66cm)から始まり段が増えるごとに10cm高くなる。助走距離は25m。男子は15段(第11回芸能人サバイバルバトルまでと第11回プロスポーツマン大会は14段)、女子は14段まで試技は各段につき1回、それ以降は2回。飛ぶ段へのパスは自由。25段まで準備されている。また、1〰13段は通常の跳び箱と同じ茶色だが、14〰16段は緑色、17〰19段は青色、20〰22段は黄色、23〰25段は赤色になっている。当初は14段のみ緑色で15段から赤色という構成だったが、第4回のプロスポーツマン大会からは芸能人大会を含め、現在の構成になった。プロスポーツマン大会でのポイントは、第8回大会までは記録に応じてポイントが与えられる形式だった。芸能人大会では、記録に応じてポイントが与えられる形式になる大会もある。初代世界記録は[片岡篤史](../Page/片岡篤史.md "wikilink")が記録した13段+10cm(2m10cm)だった。番組内での最高記録は23段だが、番組外では[大山大和](https://ja.wikipedia.org/wiki/大山大和 "wikilink")が24段に成功している\[4\]。
+          - 23段(公認世界記録・公認芸能人記録)-3m06cm([ヨー・ホンチュル](https://ja.wikipedia.org/wiki/呂洪哲 "wikilink")、[池谷直樹](../Page/池谷直樹.md "wikilink")、[モーガン・ハム](https://ja.wikipedia.org/wiki/モーガン・ハム "wikilink")、[水鳥寿思](../Page/水鳥寿思.md "wikilink"))
+          - 20段(プロスポーツマン記録)-2m76cm([中田大輔](../Page/中田大輔.md "wikilink")、[三浦貴](../Page/三浦貴.md "wikilink")、[宮﨑大輔](https://ja.wikipedia.org/wiki/宮﨑大輔 "wikilink")、[ポール・A・テレック](https://ja.wikipedia.org/wiki/ポール・A・テレック "wikilink"))
 
 <!-- end list -->
 
   - **MONSTER BOX World Championship/モンスターボックス 世界一決定戦**(プロスポーツマン大会のみ)
-      - 1996年から4年に1度毎に夏季オリンピック開催地で開かれている(例外として、2003年に日本で開催されたこともある)大会。第1回は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アトランタ](https://ja.wikipedia.org/wiki/アトランタ_\(ジョージア州\) "wikilink")、2000年の第2回は[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")の[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")、そして2004年の第3回はオリンピックの聖地・[ギリシャ](../Page/ギリシャ.md "wikilink")の[アテネ](../Page/アテネ.md "wikilink")で開催した。なお第2回のシドニーは後に天候が悪化したために決勝大会は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で、第3回はギリシャのアテネと日本の[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")・[幕張](../Page/幕張.md "wikilink")を衛星回線で結んでいわば両国開催した。北京オリンピックが行われた2008年は開催されなかった。
+      - 1996年から4年に1度毎に夏季オリンピック開催地で開かれている(例外として、2003年に日本で開催されたこともある)大会。第1回は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アトランタ](https://ja.wikipedia.org/wiki/アトランタ_\(ジョージア州\) "wikilink")、2000年の第2回は[オーストラリア](../Page/オーストラリア.md "wikilink")の[シドニー](../Page/シドニー.md "wikilink")、そして2004年の第3回はオリンピックの聖地・[ギリシャ](../Page/ギリシャ.md "wikilink")の[アテネ](../Page/アテネ.md "wikilink")で開催した。なお第2回のシドニーは後に天候が悪化したために決勝大会は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で、第3回はギリシャのアテネと日本の[千葉県](../Page/千葉県.md "wikilink")・[幕張](../Page/幕張.md "wikilink")を衛星回線で結んでいわば両国開催した。北京オリンピックが行われた2008年は開催されなかった。
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 <!-- end list -->
 
   - **PECTO CROSS/ペクトクロス** 芸能人1回
-      - 手の甲にセンサーが入っているグローブを装着する、グローブの先には[ウェイト](https://ja.wikipedia.org/wiki/ウェイト "wikilink")がつながっており、制限時間内に両手の拳を目の前の鉄柱に接触させればクリア。試技は30kgから始まり、クリアしていくごとに5kgずつ増えていく。最高記録は[源の](https://ja.wikipedia.org/wiki/源_\(俳優\) "wikilink")70kg。
+      - 手の甲にセンサーが入っているグローブを装着する、グローブの先には[ウェイト](https://ja.wikipedia.org/wiki/ウェイト "wikilink")がつながっており、制限時間内に両手の拳を目の前の鉄柱に接触させればクリア。試技は30kgから始まり、クリアしていくごとに5kgずつ増えていく。最高記録は[源の](../Page/源_\(俳優\).md "wikilink")70kg。
 
 <!-- end list -->
 
@@ -129,8 +129,8 @@
 
   - **QUICK MUSCLE/クイックマッスル** プロ1回・芸能人17回(芸能人大会最多登場)
       - 3分間腕立て伏せ。回数は顎でスイッチを押してカウントしていく。肩の高さにはセンサーが設置されており、その高さまで体を上げないとカウントされないようになっている。体勢が崩れたり、競技台から足が出た場合、失格(記録なし)。試技は総合ランキング下位の者からの順番に行う。第10回芸能人大会のみ、腕に巻かれたセンサー付きバンドによる判定により、終了時に腕が上がっていないと失格となるルールがあり逸見太郎がその憂き目にあった。過去には[筋肉番付](https://ja.wikipedia.org/wiki/筋肉番付 "wikilink")で全国大会が行われたこともあった。プロスポーツマン大会では第12回大会のみスペシャルバトルとして行われた。試技は総合ポイントの下位の者から順に行う場合が殆どだが、第12回と第14回の芸能人大会は例外である。
-          - 世界記録-307回([秋山和彦](https://ja.wikipedia.org/wiki/秋山和彦 "wikilink"))
-          - プロスポーツマン記録-250回([亀田興毅](https://ja.wikipedia.org/wiki/亀田興毅 "wikilink"))
+          - 世界記録-307回([秋山和彦](../Page/秋山和彦.md "wikilink"))
+          - プロスポーツマン記録-250回([亀田興毅](../Page/亀田興毅.md "wikilink"))
           - 芸能人記録-247回([なかやまきんに君](../Page/なかやまきんに君.md "wikilink"))
 
 <!-- end list -->
@@ -149,7 +149,7 @@
       - ボールの落下地点はぶれることがあり、余裕がなくボールを全く見ない選手は距離が届いていても手で触れられず失敗することがある。照英や室伏広治のようにボールを全く見ないことで総合No.1を勝ち取った選手もいれば、知幸のようにタッチできずNo.1を逃してしまった選手もいる。
       - 芸能人・プロスポーツマン大会ともに、この競技が最後の種目として行われることが多い。
       - 2015年4月4日に同局で生放送された特番『[オールスター大感謝祭'15春](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")』のイベント企画として実施された。
-          - 世界記録-13m60cm([青木宣親](https://ja.wikipedia.org/wiki/青木宣親 "wikilink"))
+          - 世界記録-13m60cm([青木宣親](../Page/青木宣親.md "wikilink"))
           - 芸能人記録-13m10cm([ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink"))
 
 <!-- end list -->
@@ -165,7 +165,7 @@
 <!-- end list -->
 
   - **THE CELL/ザ・セル** プロ1回
-      - 1対1のトーナメント形式で対決する「**25**」の足版。地面のモニターに映し出されるランダムに並んだ4×4の1から16まで、準決勝と決勝では5×5の1から25までを1から順に踏んで消していく。先にすべて消してフィニッシュボタンを押したほうの勝ち。初代種目別No.1は[飯原誉士](https://ja.wikipedia.org/wiki/飯原誉士 "wikilink")。
+      - 1対1のトーナメント形式で対決する「**25**」の足版。地面のモニターに映し出されるランダムに並んだ4×4の1から16まで、準決勝と決勝では5×5の1から25までを1から順に踏んで消していく。先にすべて消してフィニッシュボタンを押したほうの勝ち。初代種目別No.1は[飯原誉士](../Page/飯原誉士.md "wikilink")。
 
 <!-- end list -->
 
@@ -193,7 +193,7 @@
 
   - **THE GALLON THROW/ザ・ガロンスロー**(プロスポーツマン大会のみ) プロ7回
       - 10kgの木製の樽(2002年のスペシャルバトルのみ金属製であったが、重さは同じく10kg)を後ろの壁(第7回プロスポーツマン大会までは木製、第8回大会のスペシャルバトルより金属製)を越えることができればクリア。クリアしていく度に壁の高さが上がっていく。
-      - 大会末期になるにつれ試技数を減らしていったため（5mをクリアすると5m25cmを隔てず一気に5m50cmとなるなど）、高記録が出し易くなっている。また、本戦では壁の高さを問わず2度失敗を喫すると脱落となるのに対し、後述の樽投げ世界一決定戦では同じ高さに2度失敗するまでは何度でも挑戦可能であるため、こちらも高記録が出し易くなっている。第7回プロスポーツマン大会までは記録に応じてポイントが与えられる形式。本戦での最高記録は6m50cm（2009年、[ブライアン・クレイ](https://ja.wikipedia.org/wiki/ブライアン・クレイ "wikilink")）。
+      - 大会末期になるにつれ試技数を減らしていったため（5mをクリアすると5m25cmを隔てず一気に5m50cmとなるなど）、高記録が出し易くなっている。また、本戦では壁の高さを問わず2度失敗を喫すると脱落となるのに対し、後述の樽投げ世界一決定戦では同じ高さに2度失敗するまでは何度でも挑戦可能であるため、こちらも高記録が出し易くなっている。第7回プロスポーツマン大会までは記録に応じてポイントが与えられる形式。本戦での最高記録は6m50cm（2009年、[ブライアン・クレイ](../Page/ブライアン・クレイ.md "wikilink")）。
       - パワー系が有利である競技だが、テクニックも要求される。いくらパワーがあってもタイミングを誤ると失敗してしまう\[5\]。宮崎大輔や松井稼頭央、ケイン・コスギ、ボブ・サップなど、樽の高さは壁を大きく上回っていても角度がつかなかったことで壁を越えられず失敗となったケースも多々あった。
           - 世界記録-8m25cm([室伏広治](../Page/室伏広治.md "wikilink"))
           - [芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")記録-5m25cm([ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink"))
@@ -216,7 +216,7 @@
 <!-- end list -->
 
   - **25/トゥエンティーファイブ** プロ1回
-      - 1組3〜4人で行われる、頭脳系種目。目の前のモニターに表示されるランダムに配置された数字を1→2→3→……と順に指先でタッチして消していく。3×3、4×4、5×5の3セットを全てこなすまでのタイムが早かった先着数名が勝ち抜けのトーナメント方式で、最高タイムは[井出有治](https://ja.wikipedia.org/wiki/井出有治 "wikilink")の20秒10。決勝戦ではポール・A・テレックが22秒97で勝利している。
+      - 1組3〜4人で行われる、頭脳系種目。目の前のモニターに表示されるランダムに配置された数字を1→2→3→……と順に指先でタッチして消していく。3×3、4×4、5×5の3セットを全てこなすまでのタイムが早かった先着数名が勝ち抜けのトーナメント方式で、最高タイムは[井出有治](../Page/井出有治.md "wikilink")の20秒10。決勝戦ではポール・A・テレックが22秒97で勝利している。
 
 <!-- end list -->
 
@@ -242,13 +242,13 @@
 
 <!-- end list -->
 
-  - [青木剛](https://ja.wikipedia.org/wiki/青木剛 "wikilink") 1回出場
+  - [青木剛](../Page/青木剛.md "wikilink") 1回出場
       - 第15回に当時、チームメイトの興梠慎三と共に出場。TAIL IMPOSSIBLEでは決勝レースでワッキーに善戦するも2位に終わり、SHOT-GUN-TOUCHは記録12m00cmで、総合9位で試技を終えた。
       - MONSTER BOX 15段、SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 5m00cm
 
 <!-- end list -->
 
-  - [青木宣親](https://ja.wikipedia.org/wiki/青木宣親 "wikilink") 1回出場
+  - [青木宣親](../Page/青木宣親.md "wikilink") 1回出場
       - 第12回に出場。BURN OUT GUYSはなかやまきんに君に敗れ、BEACH FLAGSも自慢の速さを見せるも赤田将吾にブロックされ1回戦敗退。POWER FORCEではスピードを生かし種目別No.1を獲得。SHOT-GUN-TOUCHではノーミスでプロ野球記録の13m30cmを成功させ、遂には現世界記録となる13m60cmを樹立。総合3位に食い込んだ。
       - 第12回大会 総合3位
       - 第12回大会 SHOT-GUN-TOUCH No.1、第12回大会 POWER FORCE No.1
@@ -256,7 +256,7 @@
 
 <!-- end list -->
 
-  - [赤田将吾](https://ja.wikipedia.org/wiki/赤田将吾 "wikilink") 5回出場
+  - [赤田将吾](../Page/赤田将吾.md "wikilink") 5回出場
       - 第6回に初出場し、総合5位入賞。その後第11回で5年振りの出場。THIRTYで準決勝進出、SPIN OFFは決勝進出、WORK OUT GUYSは2位と全体的に安定した成績を収め、初めて総合No.1争いに加わるが、総合2位に終わる。続く第12回は、2種目で自己記録を更新して総合5位。第13回は、SHOT-GUN-TOUCHで世界歴代3位タイとなる13m30cmの自己新記録を樹立し、遂に初の種目別No.1を手にする。だが第14回では、SHOT-GUN-TOUCHが前回の記録に及ばず、総合8位タイに終わり、初めて総合順位による入賞を逃した。
       - 第11回大会 総合2位、第6・12回大会 総合5位、第13回大会 総合6位
       - 第13回大会 SHOT-GUN-TOUCH No.1
@@ -271,7 +271,7 @@
 
 <!-- end list -->
 
-  - [秋田豊](https://ja.wikipedia.org/wiki/秋田豊 "wikilink") 1回出場
+  - [秋田豊](../Page/秋田豊.md "wikilink") 1回出場
       - 第1回に出場。HORSE BOXでは14段をマーク。THE FINAL PUSH-UPでは池谷、佐竹と共に300回を記録し、No.1を獲得。総合3位入賞を果たした。
       - 第1回大会 総合3位
       - 第1回大会 THE FINAL PUSH-UP No.1
@@ -287,7 +287,7 @@
 
 <!-- end list -->
 
-  - [秋山準](https://ja.wikipedia.org/wiki/秋山準 "wikilink") 1回出場
+  - [秋山準](../Page/秋山準.md "wikilink") 1回出場
       - 第15回に出場。プロレスラー最大の見せ場であるPOWER FORCEは2回戦で竹内公輔に持久戦の末、勝利。決勝は粘りに粘った宮﨑大輔を倒して、意地でこの種目のNo.1を獲得した。
       - 第15回大会 POWER FORCE No.1
       - SHOT-GUN-TOUCH 記録なし、THE GALLON THROW 記録なし
@@ -308,25 +308,25 @@
 
 <!-- end list -->
 
-  - [阿部良則](https://ja.wikipedia.org/wiki/阿部良則 "wikilink") 1回出場
+  - [阿部良則](../Page/阿部良則.md "wikilink") 1回出場
       - 第1回に出場。HORSE BOXでは14段をマークするも、他の種目でポイントを稼げず、総合14位。
       - MONSTER BOX 14段、THE FINAL PUSH-UP 29回
 
 <!-- end list -->
 
-  - [安馬](https://ja.wikipedia.org/wiki/日馬富士公平 "wikilink") 1回出場
+  - [安馬](../Page/日馬富士公平.md "wikilink") 1回出場
       - 「日馬富士」改名前に、第13回のパワーバトルに出場。SPIN OFFとTHE GALLON THROWで大玉と樽を上手く操っていたが、SPIN OFFは琴欧洲に対して何も出来ず、THE GALLON THROWは6m00cmをクリアできなかった。
       - THE GALLON THROW 5m50cm
 
 <!-- end list -->
 
-  - [網野友雄](https://ja.wikipedia.org/wiki/網野友雄 "wikilink") 1回出場
+  - [網野友雄](../Page/網野友雄.md "wikilink") 1回出場
       - 当時、チームメイトの柏木真介と第13回に出場。長身とパワーを発揮し、MONSTER BOXは19段のバスケットボール新記録を樹立。POWER FORCEは決勝で敗れはしたものの、日本勢で唯一、ポール・A・テレックに善戦する活躍を見せたが、後半に失速した。
       - MONSTER BOX 19段(バスケットボール記録)、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分17秒79、25 32秒12
 
 <!-- end list -->
 
-  - [アレックス](https://ja.wikipedia.org/wiki/三都主アレサンドロ "wikilink")（三都主アレサンドロ） 1回出場
+  - [アレックス](../Page/三都主アレサンドロ.md "wikilink")（三都主アレサンドロ） 1回出場
       - 日本帰化前の1998年に第4回に出場。MONSTER BOXで緒方孝市と共に、当時、プロスポーツマン記録の17段を成功も、緒方が18段の新記録を成功させて敗北。しかし、TAIL IMPOSSIBLEでは、2位に大差をつけ、種目別No.1を獲得。今大会、出場したJリーガーでは最高成績の総合5位に入った。
       - 第4回大会 総合5位
       - 第4回大会 TAIL IMPOSSIBLE No.1
@@ -348,7 +348,7 @@
 
 <!-- end list -->
 
-  - [飯原誉士](https://ja.wikipedia.org/wiki/飯原誉士 "wikilink") 1回出場
+  - [飯原誉士](../Page/飯原誉士.md "wikilink") 1回出場
       - 第14回に出場。序盤こそ見せ場は無かったが、THE CELLの初代種目別No.1を獲得すると、MONSTER BOXでプロ野球歴代3位となる17段を成功。そしてSHOT-GUN-TOUCHでは13m00cmを成功し、大会唯一の種目別2冠を達成。最終的には総合4位に入賞する。
       - 第14回大会 総合4位
       - 第14回大会 SHOT-GUN-TOUCH No.1、第14回大会 THE CELL No.1
@@ -362,7 +362,7 @@
 
 <!-- end list -->
 
-  - [池谷幸雄](https://ja.wikipedia.org/wiki/池谷幸雄 "wikilink") 2回出場・アマチュア2回出場・公認記録会出場
+  - [池谷幸雄](../Page/池谷幸雄.md "wikilink") 2回出場・アマチュア2回出場・公認記録会出場
       - 第1回に出場。THE FINAL PUSH UPで300回の記録を打ち立て、HORSE BOXと共に2種目でNo.1。BEACH FLAGSも決勝まで勝ち上がるも僅かの差で飯田哲也に敗れ、総合では4位で終える。アマチュア第1回ではMONSTER BOXで自己記録2段更新もヴィタリー・シェルボの当時の世界記録20段に敗れ、弟と並ぶ記録18段で2位に終わる。その後、筋肉番付関連の大会にも度々出場、招待選手として参加したTHE FINAL PUSH UPの全国大会では480回の記録を残した。第2回はBEACH FLAGSで念願の種目別No.1を獲得したが、総合No.1は成らなかった。出場したプロスポーツマンの2大会は共にMONSTER BOXで貫禄の種目別No.1。2010年にはMONSTER BOX公認記録会で14年ぶりの参戦を果たし、17段を記録した。
       - 第2回大会 総合2位、第1回大会 総合4位
       - 第1・2回大会 MONSTER BOX No.1、第2回大会 BEACH FLAGS No.1、第1回大会 THE FINAL PUSH UP No.1
@@ -384,7 +384,7 @@
 
 <!-- end list -->
 
-  - [井出有治](https://ja.wikipedia.org/wiki/井出有治 "wikilink") 1回出場
+  - [井出有治](../Page/井出有治.md "wikilink") 1回出場
       - 第13回で史上初となるレーサーとしての出場。初登場の25では動体視力を発揮し、2回戦で全選手中、最高タイムを叩き出すも決勝でポール・A・テレックに敗れ、この種目は2位。TAIL IMPOSSIBLEでは第3レースまで進出した。
       - MONSTER BOX 14段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分06秒64、25 20秒10(歴代最高タイム)
 
@@ -396,7 +396,7 @@
 
 <!-- end list -->
 
-  - [石井貴](https://ja.wikipedia.org/wiki/石井貴 "wikilink") 1回出場
+  - [石井貴](../Page/石井貴.md "wikilink") 1回出場
       - 第6回に出場。スペシャルトライアルのWORK OUT GUYSは、第2チェックポイントまで飛ばしていたが、トラックで失速してしまい6位。POWER FORCEは初戦で関川浩一と持久戦の末、敗れた。
       - SHOT-GUN-TOUCH 11m00cm、THE GALLON THROW 5m00cm
 
@@ -429,33 +429,33 @@
 
 <!-- end list -->
 
-  - [岩本勉](https://ja.wikipedia.org/wiki/岩本勉 "wikilink") 1回出場
+  - [岩本勉](../Page/岩本勉.md "wikilink") 1回出場
       - 第9回に出場。POWER FORCEでは1回戦でデイブ・ロバーツと4分57秒という史上最長の対戦を制し、2回戦では赤星憲広を撃破。準決勝進出を果たす。
       - MONSTER BOX 12段、WORK OUT GUYS 1分18秒02、BURN OUT GUYS 1分33秒97
 
 <!-- end list -->
 
-  - [梅崎司](https://ja.wikipedia.org/wiki/梅崎司 "wikilink") 1回出場
+  - [梅崎司](../Page/梅崎司.md "wikilink") 1回出場
       - 第13回に出場。MOSNTER BOXでは初出場にして16段の記録を作り、TAIL IMPOSSIBLEでは第3レースまで進出するも、後の無い状態で挑んだSHOT-GUN-TOUCHの12m00cmでボタンプッシュミスをしてしまい、失敗に終わった。
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分03秒32、25 40秒75
 
 <!-- end list -->
 
-  - [大榎克己](https://ja.wikipedia.org/wiki/大榎克己 "wikilink") 1回出場
+  - [大榎克己](../Page/大榎克己.md "wikilink") 1回出場
       - 第4回に出場。THE BEST OF TUGGERとTHIRTYで準決勝進出、TAIL IMPOSSIBLEでは決勝レース進出（棄権）など、安定した成績を残し、総合7位入賞を果たした。
       - 第4回大会 総合7位
       - MONSTER BOX 15段、THE GALLON THROW 4m75cm、DASH 6秒59
 
 <!-- end list -->
 
-  - [大塚光二](https://ja.wikipedia.org/wiki/大塚光二 "wikilink") 1回出場
+  - [大塚光二](../Page/大塚光二.md "wikilink") 1回出場
       - 第2回に出場。MONSTER BOXでは、プロスポーツマン記録タイの16段を記録し、総合5位タイ入賞。その後、飯田と共に別会場でのエキシビションに参加し、17段のプロスポーツマン新記録を樹立した。
       - 第2回大会 総合5位
       - MONSTER BOX 17段、DASH
 
 <!-- end list -->
 
-  - [大畑大介](https://ja.wikipedia.org/wiki/大畑大介 "wikilink") 4回出場
+  - [大畑大介](../Page/大畑大介.md "wikilink") 4回出場
       - 第7回で初出場し、WORK OUT GUYS、THE GALLON THROW、SHOT-GUN-TOUCH3種目を制し、SHOT-GUN-TOUCHでは世界新記録となる13m40cmを成功させ、ケイン・コスギの総合2連覇を阻止し、総合No.1を獲得。第8回はWORK OUT GUYS、BEACH FLAGS、TAIL IMPOSSIBLE、SHOT-GUN-TOUCH(8種目中4種目)のみの出場となったが、SHOT-GUN-TOUCHで13m50cmの世界新記録を樹立させ、総合3位となる。第9回には飯田哲也に次いで史上2人目となる2度目の総合No.1を獲得したが、SHOT-GUN-TOUCHでの新記録達成はならなかった（記録12m80cm）。第10回はBEACH FLAGSで準決勝敗退後足首に違和感を訴え、1種目のみの出場となった。
         WORK OUT GUYSの第1ポイントである丸太切りが得意で、3度出場中3度最速タイムを記録。
       - 第7・9回大会 総合No.1、第8回大会 総合3位
@@ -464,28 +464,28 @@
 
 <!-- end list -->
 
-  - [緒方孝市](https://ja.wikipedia.org/wiki/緒方孝市 "wikilink") 1回出場
-      - 第4回に出場。MONSTER BOXでプロスポーツマン新記録(当時)の18段を記録。ダイビング技術が高く、地面スレスレのダイブを見せ\[6\]、DASHでは敗れた松井稼頭央に対しSHOT-GUN-TOUCHでは[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")を制し、13m20cmの世界新記録(当時)を樹立。初出場にして総合No.1となった。以降は出場していない。歴代総合No.1で1回のみの参戦は、彼と第2回の[長谷川誠の](https://ja.wikipedia.org/wiki/長谷川誠_\(バスケットボール\) "wikilink")2人のみである。
+  - [緒方孝市](../Page/緒方孝市.md "wikilink") 1回出場
+      - 第4回に出場。MONSTER BOXでプロスポーツマン新記録(当時)の18段を記録。ダイビング技術が高く、地面スレスレのダイブを見せ\[6\]、DASHでは敗れた松井稼頭央に対しSHOT-GUN-TOUCHでは[一騎討ち](../Page/一騎討ち.md "wikilink")を制し、13m20cmの世界新記録(当時)を樹立。初出場にして総合No.1となった。以降は出場していない。歴代総合No.1で1回のみの参戦は、彼と第2回の[長谷川誠の](https://ja.wikipedia.org/wiki/長谷川誠_\(バスケットボール\) "wikilink")2人のみである。
       - 第4回大会 総合No.1
       - 第4回大会 MONSTER BOX No.1、第4回大会 SHOT-GUN-TOUCH No.1
       - MONSTER BOX 18段、SHOT-GUN-TOUCH 13m20cm(世界歴代6位)、THE GALLON THROW 4m75cm、DASH 6秒21
 
 <!-- end list -->
 
-  - [岡部哲也](https://ja.wikipedia.org/wiki/岡部哲也 "wikilink") 1回出場
+  - [岡部哲也](../Page/岡部哲也.md "wikilink") 1回出場
       - 第2回に出場。POWER FORCEで準決勝進出、さらにMONSTER BOXでは14段をマークするも、総合10位。
       - MONSTER BOX 14段、THE GALLON THROW 記録なし
 
 <!-- end list -->
 
-  - [小倉隆史](https://ja.wikipedia.org/wiki/小倉隆史 "wikilink") 2回出場
+  - [小倉隆史](../Page/小倉隆史.md "wikilink") 2回出場
       - 第1回で初出場。HORSE BOXは15段成功、DASHで準決勝進出等の活躍で、総合5位入賞。8年後に再び出場した第9回では、TAIL IMPOSSIBLEこそ2位で種目別No.1を逃したものの、MONSTER BOXで自己新記録の16段成功。更にPOWER FORCEは準決勝進出、THIRTYは2位と活躍し総合2位入賞。
       - 第9回大会 総合2位、第1回大会 総合5位
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 11m50cm、WORK OUT GUYS 1分21秒08、BURN OUT GUYS 1分17秒53、DASH 6秒65、THE FINAL PUSH-UP 100回
 
 <!-- end list -->
 
-  - [垣内哲也](https://ja.wikipedia.org/wiki/垣内哲也 "wikilink") 2回出場
+  - [垣内哲也](../Page/垣内哲也.md "wikilink") 2回出場
       - 第2回と第3回に出場。第2回では、THE TAG-OF-WARとDASHの2種目で決勝進出を果たし、総合3位タイ入賞。第3回では、THE GALLON THROWで5m70cmの世界新記録をマークしてNo.1を獲得し、前回同様総合3位入賞を果たした。
       - 第2・3回大会 総合3位
       - 第3回大会 THE GALLON THROW No.1
@@ -493,7 +493,7 @@
 
 <!-- end list -->
 
-  - [柏木真介](https://ja.wikipedia.org/wiki/柏木真介 "wikilink") 1回出場
+  - [柏木真介](../Page/柏木真介.md "wikilink") 1回出場
       - 第13回に出場。MONSTER BOXは初挑戦で16段を成功。比較的、安定した成績を収め、特にTAIL IMPOSSIBLEはポール・A・テレックに善戦し2位で、この種目終了時点で暫定総合6位だったが、SHOT-GUN-TOUCHで12m00cmに失敗し、上位入賞を逃した。
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分09秒52、25 23秒79
 
@@ -505,7 +505,7 @@
 
 <!-- end list -->
 
-  - [金森栄治](https://ja.wikipedia.org/wiki/金森栄治 "wikilink") 1回出場
+  - [金森栄治](../Page/金森栄治.md "wikilink") 1回出場
       - 第2回に出場。BEACH FLAGSで3回戦進出を果たした以外は目立った活躍を出来ず、総合9位。
       - MONSTER BOX 10段、THE GALLON THROW 4m00cm、DASH
 
@@ -518,14 +518,14 @@
 
 <!-- end list -->
 
-  - [亀田興毅](https://ja.wikipedia.org/wiki/亀田興毅 "wikilink") 1回出場
+  - [亀田興毅](../Page/亀田興毅.md "wikilink") 1回出場
       - 第12回に出場。プロスポーツマン大会として唯一行われたQUICK MUSCLEに参戦。[BODYで残した非公式記録](https://ja.wikipedia.org/wiki/BODY_\(テレビ番組\) "wikilink")(228回)を塗り替え、250回の記録を樹立し、種目別No.1。現時点でプロスポーツマン記録保持者である。
       - 第12回大会 QUICK MUSCLE No.1
       - BURN OUT GUYS 1分04秒63、QUICK MUSCLE 250回(プロスポーツマン記録)
 
 <!-- end list -->
 
-  - [アラン・カラエフ](https://ja.wikipedia.org/wiki/アラン・カラエフ "wikilink") 2回出場
+  - [アラン・カラエフ](../Page/アラン・カラエフ.md "wikilink") 2回出場
       - 握力130kgの怪力の持ち主。アームレスラー時代に第11回で初出場。スポット参戦したWORK OUT GUYSで、総重量500kgのサンドバッグを5秒で押し倒す驚愕のパフォーマンスを見せるも、種目別No.1はならず。格闘家転向後に第12回のパワーバトルに出場。SPIN OFFは決勝で敗れるも、THE TUG-OF-WARは決勝でボブ・サップに勝利。THE GALLON THROWはサップと共に7m00cmを成功させ、陸上・投擲選手以外では最高成績を打ち立てた。
       - 第12回大会 THE GALLON THROW No.1、第12回大会 THE TUG-OF-WAR No.1
       - THE GALLON THROW 7m00cm(総合格闘技記録タイ)、WORK OUT GUYS 1分00秒27
@@ -540,14 +540,14 @@
 
 <!-- end list -->
 
-  - [北川智規](https://ja.wikipedia.org/wiki/北川智規_\(ラグビー選手\) "wikilink") 1回出場・公認記録会出場
+  - [北川智規](../Page/北川智規_\(ラグビー選手\).md "wikilink") 1回出場・公認記録会出場
       - 第15回で初出場。MONSTER BOXでラグビー記録を8年振りに更新する18段成功。各種目で安定した成績を収めていたが、総合5位以内の選手で唯一、SHOT-GUN-TOUCHで12m50cmを失敗し、総合4位タイに終わる。MONSTER BOX公認記録会にも出場したが、自己記録タイに終わった。
       - 第15回大会 総合4位
       - MONSTER BOX 18段(ラグビー記録)、SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 5m50cm
 
 <!-- end list -->
 
-  - [木下典明](https://ja.wikipedia.org/wiki/木下典明 "wikilink") 2回出場
+  - [木下典明](../Page/木下典明.md "wikilink") 2回出場
       - 第13回で初出場。初出場にしてBURN OUT GUYSで54秒11という超人的タイムを叩き出し、池谷直樹を破り種目別No.1。その他の種目でもBEACH FLAGSで決勝進出、25も決勝進出で3位、MONSTER BOXはアメフト選手最高記録となる17段と活躍し、SHOT-GUN-TOUCHでは世界歴代3位タイの13m30cmの記録を樹立するなどの活躍を見せ、最終的には総合2位になるが、第14回は全種目で自己記録に及ばず、精彩を欠き、総合8位タイに終わった。
       - 第13回大会 総合2位
       - 第13回大会 SHOT-GUN-TOUCH No.1、第13回大会 BURN OUT GUYS No.1
@@ -555,21 +555,21 @@
 
 <!-- end list -->
 
-  - [木元邦之](https://ja.wikipedia.org/wiki/木元邦之 "wikilink") 2回出場
+  - [木元邦之](../Page/木元邦之.md "wikilink") 2回出場
       - 第10回で初出場。SPIN OFFでは、1回戦で池谷直樹を、2回戦で吉田秀彦を共に崖っぷちからの逆転で勝利し、準決勝まで進出。特に2回戦では、パワー系選手の吉田との持久戦を制しての金星であった。POWER FORCEでも準決勝進出となり、総合8位入賞となった。第11回は、SPIN OFFの1回戦で古田敦也に敗れ、見せ場を作ることなく総合13位に終わった。
       - 第10回大会 総合8位
       - MONSTER BOX 11段、SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 4m50cm、WORK OUT GUYS 1分23秒75、BURN OUT GUYS 1分34秒28
 
 <!-- end list -->
 
-  - [マイク・キャメロン](https://ja.wikipedia.org/wiki/マイク・キャメロン "wikilink") 1回出場
+  - [マイク・キャメロン](../Page/マイク・キャメロン.md "wikilink") 1回出場
       - 第8回に出場。THE TUG-OF-WARは決勝進出。SHOT-GUN-TOUCHでは初挑戦にして12m90cmを記録し、暫定総合8位からジャンプアップし、総合4位入賞。
       - 第8回大会 総合4位
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 12m90cm、WORK OUT GUYS 1分06秒93
 
 <!-- end list -->
 
-  - [清原和博](https://ja.wikipedia.org/wiki/清原和博 "wikilink") 3回出場
+  - [清原和博](../Page/清原和博.md "wikilink") 3回出場
       - 第1回で初出場。THE TUG-OF-WARは準決勝で藤原喜明に敗戦。第3回では決勝で再戦が実現するも、リベンジを果たせず完敗。肉体改造を経て臨んだ第7回では、THE TUG-OF-WARで体重100kg以上の猛者が集う中、自身初の種目別No.1を獲得。POWER FORCEでは準決勝で河口正史と歴史的死闘を繰り広げ勝利し、2種目制覇を達成した。
       - 第3回大会 総合5位、第1回大会 総合7位
       - 第7回大会 POWER FORCE No.1、第7回大会 THE TUG-OF-WAR No.1
@@ -583,13 +583,13 @@
 
 <!-- end list -->
 
-  - [栗山巧](https://ja.wikipedia.org/wiki/栗山巧 "wikilink") 1回出場
+  - [栗山巧](../Page/栗山巧.md "wikilink") 1回出場
       - 第12回に当時、チームメイトの赤田将吾と共に出場。MONSTER BOXは初挑戦で15段成功の健闘を見せるも、QUICK MUSCLEで失格の辛酸を舐めた。
       - MONSTER BOX 15段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分21秒24、QUICK MUSCLE 失格
 
 <!-- end list -->
 
-  - [ブライアン・クレイ](https://ja.wikipedia.org/wiki/ブライアン・クレイ "wikilink") 1回出場
+  - [ブライアン・クレイ](../Page/ブライアン・クレイ.md "wikilink") 1回出場
       - 北京オリンピック金メダリストの肩書きを引っさげ、第15回に出場。前評判通りの活躍も、BEACH FLAGSとPOWER FORCEで宮﨑大輔との直接対決に敗れ、総合No.1争いも宮﨑に敗れ総合2位。しかし、種目別No.1を獲得したTHE GALLON THROWの記録は、スペシャルバトル以外では、秋山幸二の6m20cmの記録を11年ぶりに上回る記録である。
       - 第15回大会 総合2位
       - 第15回大会 THE GALLON THROW No.1
@@ -597,20 +597,20 @@
 
 <!-- end list -->
 
-  - [ヒクソン・グレイシー](https://ja.wikipedia.org/wiki/ヒクソン・グレイシー "wikilink") 2回出場
+  - [ヒクソン・グレイシー](../Page/ヒクソン・グレイシー.md "wikilink") 2回出場
       - 第4回に初出場し、THE BEST OF TUGGERとDEAD MAN'S DROPの2種目でNo.1を獲得。しかし、第7回ではTHE TUG-OF-WARとPOWER FORCEの1回戦で共に清原和博と対戦して、いずれも完敗を喫してしまった。
       - 第4回大会 DEAD MAN'S DROP No.1、第4回大会 THE BEST OF TUGGER No.1
       - MONSTER BOX 記録なし、THE GALLON THROW 5m00cm、WORK OUT GUYS 1分23秒36、DASH 7秒40
 
 <!-- end list -->
 
-  - [サム・グレコ](https://ja.wikipedia.org/wiki/サム・グレコ "wikilink") 1回出場
+  - [サム・グレコ](../Page/サム・グレコ.md "wikilink") 1回出場
       - 第12回のパワーバトルに出場。THE GALLON THROWで凄まじい雄たけびと共に、6m00cmを成功。ボブ・サップのコーチも兼任していて、サップの試技の際は常にアドバイスを掛けていた。
       - THE GALLON THROW 6m00cm
 
 <!-- end list -->
 
-  - [興梠慎三](https://ja.wikipedia.org/wiki/興梠慎三 "wikilink") 1回出場
+  - [興梠慎三](../Page/興梠慎三.md "wikilink") 1回出場
       - 第15回に出場。MONSTER BOXは初挑戦で17段、TAIL IMPOSSIBLEは決勝レースで3位と活躍し、SHOT-GUN-TOUCHでは佐藤寿人と玉田圭司が持っていたサッカー選手記録を更新し、サッカー選手としては初となるSHOT-GUN-TOUCHの種目別No.1を獲得し、総合6位入賞を果たす。
       - 第15回大会 総合6位
       - 第15回大会 SHOT-GUN-TOUCH No.1
@@ -618,51 +618,51 @@
 
 <!-- end list -->
 
-  - [琴欧州](https://ja.wikipedia.org/wiki/琴欧洲勝紀 "wikilink") 2回出場
+  - [琴欧州](../Page/琴欧洲勝紀.md "wikilink") 2回出場
       - 第12回のパワーバトルで千代大海と共に、現役力士初の出場。THE TUG-OF-WARの準決勝でボブ・サップと対戦するも、足が揃ってしまい敗北。第13回のパワーバトルでは、SPIN OFFの決勝で朝青龍と対戦し、土俵際で大玉を回転させて逆転勝ち。大相撲勢初の種目別No.1獲得者となった。その後、残り2種目を棄権している。
       - 第13回大会 SPIN OFF No.1
 
 <!-- end list -->
 
-  - [後藤孝志](https://ja.wikipedia.org/wiki/後藤孝志 "wikilink") 1回出場
+  - [後藤孝志](../Page/後藤孝志.md "wikilink") 1回出場
       - 第5回のみ出場。
       - MONSTER BOX 15段、THE GALLON THROW、SHOT-GUN-TOUCH
 
 <!-- end list -->
 
-  - [小林大悟](https://ja.wikipedia.org/wiki/小林大悟 "wikilink") 1回出場
+  - [小林大悟](../Page/小林大悟.md "wikilink") 1回出場
       - 第13回に出場。BURN OUT GUYSでは木下典明に肉薄し、50秒台が期待されたがゴール手前で落下し、失格。MOSNTER BOXは16段、TAIL IMPOSSIBLEは決勝レースまであと一歩の4位に入るも、SHOT-GUN-TOUCHでは12m00cmに触れられず、失敗に終わった。
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 失格、25 26秒56
 
 <!-- end list -->
 
-  - [琴光喜](https://ja.wikipedia.org/wiki/琴光喜啓司 "wikilink") 1回出場
+  - [琴光喜](../Page/琴光喜啓司.md "wikilink") 1回出場
       - 第13回のパワーバトルに出場。SPIN OFFは準決勝で弟弟子の琴欧洲に無念の敗北。THE TUG-OF-WARは準決勝で朝青龍に勝利するも、決勝で把瑠都に成す術無く敗れる。朝青龍と並ぶ暫定総合1位で迎えたTHE GALLON THROWは後の無い6m00cmの2回目の試技で指から樽を滑らせてしまい、試技終了。総合2位で終えた。
       - 第13回大会パワーバトル 総合2位
       - THE GALLON THROW 5m50cm
 
 <!-- end list -->
 
-  - [小林宏之](https://ja.wikipedia.org/wiki/小林宏之_\(野球\) "wikilink") 1回出場
+  - [小林宏之](../Page/小林宏之_\(野球\).md "wikilink") 1回出場
       - 第12回に当時、チームメイトの西岡剛と共に出場。投手ながら、MONSTER BOXは初挑戦にして16段成功。POWER FORCEは準決勝進出、SHOT-GUN-TOUCHは記録12m50cmという活躍で総合6位入賞。
       - 第12回大会 総合6位
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 12m50cm
 
 <!-- end list -->
 
-  - [小比類巻貴之](https://ja.wikipedia.org/wiki/小比類巻貴之 "wikilink") 2回出場
+  - [小比類巻貴之](../Page/小比類巻貴之.md "wikilink") 2回出場
       - 第11回に初出場。BEACH FLAGSで3回戦進出、BURN OUT GUYSで4位と活躍するも総合12位。第12回ではBURN OUT GUYSで第2チェックポイントを暫定1位のなかやまきんに君を上回る好タイムで通過するも、うんていで大失速。MONSTER BOXとSHOT-GUN-TOUCHで自己記録を更新するも総合10位という結果に終わった。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 11m50cm、WORK OUT GUYS 1分34秒49、BURN OUT GUYS 1分08秒69
 
 <!-- end list -->
 
-  - [駒野友一](https://ja.wikipedia.org/wiki/駒野友一 "wikilink") 1回出場
+  - [駒野友一](../Page/駒野友一.md "wikilink") 1回出場
       - 第11回に出場。BURN OUT GUYSでは赤田将吾に圧倒され、TAIL IMPOSIBLEは当時、チームメイトの森崎浩司が第2レース脱落。自身も4位で第3レースで脱落し、決勝レース前にサッカー勢全滅の憂き目にあった。
       - BURN OUT GUYS 1分20秒33
 
 <!-- end list -->
 
-  - [斉藤祐也](https://ja.wikipedia.org/wiki/斉藤祐也 "wikilink") 2回出場
+  - [斉藤祐也](../Page/斉藤祐也.md "wikilink") 2回出場
       - 第10回に初出場。BEACH FLAGSでは河口正史との競り合いに敗れ、POWER FORCEでは大学の先輩、吉田秀彦を相手に粘るも1回戦敗退であったが、MONSTER BOXは記録16段、SPIN OFFは決勝進出、THE GALLON THROWは5m75cmの記録で種目別No.1という活躍で、総合6位入賞。続く第13回のパワーバトルに出場。SPIN OFFでは準決勝で朝青龍と真っ向勝負を繰り広げた。
       - 第10回大会 総合6位、第13回大会 パワーバトル総合4位
       - 第10回大会 THE GALLON THROW No.1
@@ -670,7 +670,7 @@
 
 <!-- end list -->
 
-  - [桜井良太](https://ja.wikipedia.org/wiki/桜井良太 "wikilink") 1回出場
+  - [桜井良太](../Page/桜井良太.md "wikilink") 1回出場
       - 第14回に出場。バスケットボールで培った己の長身とスタミナを活かし、TAIL IMPOSSIBLEは2位、THE CELLは決勝進出、MONSTER BOXは初挑戦で16段と、最終種目を前にして、暫定総合4位に着けていたが、SHOT-GUN-TOUCHが記録12m00cmで終わり、上位入賞をあと一歩で逃した。
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 12m00cm、ULTTIMATE GUYS 1分37秒76、THE CELL 14秒79
 
@@ -698,13 +698,13 @@
 <!-- end list -->
 
   - [ボブ・サップ](../Page/ボブ・サップ.md "wikilink") 2回出場・スペシャルバトル出場
-      - 第11回芸能人サバイバルバトル内で放送された、[マイク・ベルナルド](https://ja.wikipedia.org/wiki/マイク・ベルナルド "wikilink")とのTHE GALLON THROW対決で初登場。しかし、ベルナルドがクリアした6m00cmを超えられず、敗北。本戦は第10回で初出場。WORK OUT GUYSでは連結ミルク缶運びで、3個目の片側のミルク缶を連結していない状態で先に進んでしまい失格となってしまうが、SPIN OFFでは準決勝で河口正史、決勝では斉藤祐也といったパワー系の選手を撃破し、種目別No.1を獲得。第12回のパワーバトルにも出場し、THE GALLON THROWでは7m00cmの自己新記録をマーク。この種目では陸上・投擲選手以外では最高記録を樹立した。
+      - 第11回芸能人サバイバルバトル内で放送された、[マイク・ベルナルド](../Page/マイク・ベルナルド.md "wikilink")とのTHE GALLON THROW対決で初登場。しかし、ベルナルドがクリアした6m00cmを超えられず、敗北。本戦は第10回で初出場。WORK OUT GUYSでは連結ミルク缶運びで、3個目の片側のミルク缶を連結していない状態で先に進んでしまい失格となってしまうが、SPIN OFFでは準決勝で河口正史、決勝では斉藤祐也といったパワー系の選手を撃破し、種目別No.1を獲得。第12回のパワーバトルにも出場し、THE GALLON THROWでは7m00cmの自己新記録をマーク。この種目では陸上・投擲選手以外では最高記録を樹立した。
       - 第12回大会 THE GALLON THROW No.1、第10回大会 SPIN OFF No.1
       - THE GALLON THROW 7m00cm(総合格闘技記録タイ)、WORK OUT GUYS 失格
 
 <!-- end list -->
 
-  - [佐藤寿人](https://ja.wikipedia.org/wiki/佐藤寿人 "wikilink") 1回出場
+  - [佐藤寿人](../Page/佐藤寿人.md "wikilink") 1回出場
       - 第13回に出場。BURN OUT GUYSが全選手中最下位のタイムになる等、各種目で良い記録を残せず終わるも、最終種目のSHOT-GUN-TOUCHで12m50cmの記録を作り、当時武田修宏が保持していたサッカー選手記録を塗り替えた。
       - SHOT-GUN-TOUCH 12m50cm、BURN OUT GUYS 1分22秒30、25 26秒67
 
@@ -718,7 +718,7 @@
 
 <!-- end list -->
 
-  - [澤登正朗](https://ja.wikipedia.org/wiki/澤登正朗 "wikilink") 1回出場
+  - [澤登正朗](../Page/澤登正朗.md "wikilink") 1回出場
       - 第3回に出場。目立った活躍をすることが出来ず、総合10位タイに終わる。
       - SHOT-GUN-TOUCH 11m50cm、THE GALLON THROW 4m50cm、DASH
 
@@ -736,19 +736,19 @@
 
 <!-- end list -->
 
-  - [城彰二](https://ja.wikipedia.org/wiki/城彰二 "wikilink") 1回出場
+  - [城彰二](../Page/城彰二.md "wikilink") 1回出場
       - 第4回に出場。THIRTYのみの参戦となったが、早々と初戦敗退を喫し、僅か5ポイントの総合18位に終わった。
 
 <!-- end list -->
 
-  - [城友博](https://ja.wikipedia.org/wiki/城友博 "wikilink") 1回出場
+  - [城友博](../Page/城友博.md "wikilink") 1回出場
       - 第3回に出場。DASHでは準決勝進出、SHOT-GUN-TOUCHでは12m20cmをマークするなど、自慢の走力を見せつけ、総合4位入賞を果たした。
       - 第3回大会 総合4位
       - SHOT-GUN-TOUCH 12m20cm、THE GALLON THROW 5m00cm、DASH 6秒33
 
 <!-- end list -->
 
-  - [白鳥勝浩](https://ja.wikipedia.org/wiki/白鳥勝浩 "wikilink") 1回出場
+  - [白鳥勝浩](../Page/白鳥勝浩.md "wikilink") 1回出場
       - 第13回に出場。他の種目では良い記録を残せなかったが、POWER FORCEでは2回戦で池谷直樹を吹っ飛ばして、準決勝まで勝ちあがる活躍。その後、ポール・A・テレックに挑むも、敗北となった。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分15秒74、25 30秒91
 
@@ -760,7 +760,7 @@
 
 <!-- end list -->
 
-  - [杉山直樹](https://ja.wikipedia.org/wiki/杉山直樹_\(野球\) "wikilink") 1回出場
+  - [杉山直樹](../Page/杉山直樹_\(野球\).md "wikilink") 1回出場
       - 第5回のみに出場。最終的に総合8位タイ入賞。
       - 第5回大会 総合8位
       - MONSTER BOX 13段、THE GALLON THROW、SHOT-GUN-TOUCH
@@ -773,7 +773,7 @@
 
 <!-- end list -->
 
-  - [関川浩一](https://ja.wikipedia.org/wiki/関川浩一 "wikilink") 1回出場
+  - [関川浩一](../Page/関川浩一.md "wikilink") 1回出場
       - 第6回に出場。DEAD MAN'S DROPでは初挑戦ながら前後に揺れる足場を全く物ともせず、不動明王の強さを発揮し、種目別No.1を獲得。さらにはMONSTER BOXで15段を記録する等、安定した活躍で総合6位入賞を果たす。
       - 第6回大会 総合6位
       - 第6回大会 DEAD MAN'S DROP No.1
@@ -781,18 +781,18 @@
 
 <!-- end list -->
 
-  - [レイ・セフォー](https://ja.wikipedia.org/wiki/レイ・セフォー "wikilink") 1回出場
+  - [レイ・セフォー](../Page/レイ・セフォー.md "wikilink") 1回出場
       - 第11回に出場。SPIN OFFで小比類巻貴之とのK-1対決が実現。ヘビー級のパワーを見せ付けて勝利したが、続く赤田将吾との対戦では、勝利目前にして逆転されて、無念の敗戦。
 
 <!-- end list -->
 
-  - [サミー・ソーサ](https://ja.wikipedia.org/wiki/サミー・ソーサ "wikilink") 1回出場
+  - [サミー・ソーサ](../Page/サミー・ソーサ.md "wikilink") 1回出場
       - 第6回でメジャーリーガー初の出場。THE GALLON THROWは粗削りながら5m00cmをクリア。SHOT-GUN-TOUCHは2回目の試技で12m00cmを成功させるも、後の無い12m50cmの一発勝負で、ボタンプッシュミスをしてしまい、試技終了。
       - SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 5m00cm
 
 <!-- end list -->
 
-  - [高尾和行](https://ja.wikipedia.org/wiki/高尾和行 "wikilink") 1回出場
+  - [高尾和行](../Page/高尾和行.md "wikilink") 1回出場
       - 第6回に出場。BEACH FLAGSでの3回戦進出。最終種目のSHOT-GUN-TOUCHでは12m70cmを一発で成功してみせ、ビーチバレー記録を作る活躍を果たした。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 12m70cm(ビーチバレー記録)、THE GALLON THROW 4m50cm
 
@@ -805,14 +805,14 @@
 
 <!-- end list -->
 
-  - [高橋智](https://ja.wikipedia.org/wiki/高橋智 "wikilink") 2回出場
+  - [高橋智](../Page/高橋智.md "wikilink") 2回出場
       - 第3回に初出場。第7回では、MONSTER BOXに初挑戦して15段の記録を樹立。しかしTHE TUG-OF-WARの準決勝では清原和博に持久戦の末、敗北。種目別No.1も期待されたTHE GALLON THROWでは、5m25cmに留まった。
       - MONSTER BOX 15段、THE GALLON THROW 5m25cm
 
 <!-- end list -->
 
-  - [竹内公輔](https://ja.wikipedia.org/wiki/竹内公輔 "wikilink") 1回出場
-      - 第15回に出場。THE GALLON THROWでは、[外山英明](https://ja.wikipedia.org/wiki/外山英明 "wikilink")が持ってたバスケットボール記録を13年ぶりに更新し、日本人選手でただ一人6m台を突破。しかしTAIL IMPOSSIBLEでは第3レースで転倒し、SHOT-GUN-TOUCHでは記録を残せず、総合8位に終わった。
+  - [竹内公輔](../Page/竹内公輔.md "wikilink") 1回出場
+      - 第15回に出場。THE GALLON THROWでは、[外山英明](../Page/外山英明.md "wikilink")が持ってたバスケットボール記録を13年ぶりに更新し、日本人選手でただ一人6m台を突破。しかしTAIL IMPOSSIBLEでは第3レースで転倒し、SHOT-GUN-TOUCHでは記録を残せず、総合8位に終わった。
       - MONSTER BOX 14段、SHOT-GUN-TOUCH 記録なし、THE GALLON THROW 6m00cm(バスケットボール記録)
 
 <!-- end list -->
@@ -823,14 +823,14 @@
 
 <!-- end list -->
 
-  - [田中一徳](https://ja.wikipedia.org/wiki/田中一徳 "wikilink") 2回出場
+  - [田中一徳](../Page/田中一徳.md "wikilink") 2回出場
       - 第9回で初出場。50m走5秒3の俊足を活かし、BEACH FLAGSで準決勝進出、MONSTER BOXは初挑戦で17段成功という活躍で、総合4位入賞。第10回にも出場し、MONSTER BOXでは前回同様17段を記録し、総合9位。
       - 第9回大会 総合4位
       - MONSTER BOX 17段、SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 4m50cm、WORK OUT GUYS 1分40秒10
 
 <!-- end list -->
 
-  - [田中茂](https://ja.wikipedia.org/wiki/田中茂_\(オートレース選手\) "wikilink") 1回出場
+  - [田中茂](../Page/田中茂_\(オートレース選手\).md "wikilink") 1回出場
       - 第14回でオートレース初の出場。POWER FORCEで準決勝に進むも宮﨑大輔に玉砕。TAIL IMPOSSIBLEも第1レースでよもやの落車で敗退する等、見せ場を残せずに終わった。
       - MONSTER BOX 12段、SHOT-GUN-TOUCH 記録なし、ULTIMATE GUYS 1分50秒41、THE CELL 記録なし
 
@@ -842,7 +842,7 @@
 
 <!-- end list -->
 
-  - [玉田圭司](https://ja.wikipedia.org/wiki/玉田圭司 "wikilink") 1回出場
+  - [玉田圭司](../Page/玉田圭司.md "wikilink") 1回出場
       - 第14回に出場。TAIL IMPOSSIBLEは決勝レースで元市船サッカー部のワッキーに完敗の3位、SHOT-GUN-TOUCHでは佐藤寿人に並ぶ12m50cmを成功させるも、大会がハイレベルだった為、総合10位タイで試技を終えた。
       - MONSTER BOX 15段、SHOT-GUN-TOUCH 12m50cm、ULTIMATE GUYS 1分56秒96、THE CELL 記録なし
 
@@ -854,13 +854,13 @@
 
 <!-- end list -->
 
-  - [千代大海](https://ja.wikipedia.org/wiki/千代大海龍二 "wikilink") 1回出場
+  - [千代大海](../Page/千代大海龍二.md "wikilink") 1回出場
       - 第12回のパワーバトルに琴欧州と共に出場。SPIN OFFでは土俵さながらの突き押しで、準決勝に進むも、アラン・カラエフに大玉を浮かされてしまい敗北。並々ならぬ意欲を見せていた、THE GALLON THROWは6m00cmまでノーミスでクリアするも、続く6m50cmは1・2回共に失敗に終わった。
       - THE GALLON THROW 6m00cm(大相撲記録タイ)
 
 <!-- end list -->
 
-  - [ラージャイ・デービス](https://ja.wikipedia.org/wiki/ラージャイ・デービス "wikilink") 1回出場
+  - [ラージャイ・デービス](../Page/ラージャイ・デービス.md "wikilink") 1回出場
       - 第14回に出場。重量級ながらBEACH FLAGSは準々決勝進出とスピードを発揮。MONSTER BOXでも16段の記録を残し、SHOT-GUN-TOUCHではメジャーリーグ記録を6年振りに更新し種目別No.1を獲得し、総合5位に食い込んだ。
       - 第14回大会 総合5位
       - 第14回大会 SHOT-GUN-TOUCH No.1
@@ -876,19 +876,19 @@
 
 <!-- end list -->
 
-  - [所英男](https://ja.wikipedia.org/wiki/所英男 "wikilink") 1回出場
+  - [所英男](../Page/所英男.md "wikilink") 1回出場
       - 第12回に出場。MONSTER BOXは初挑戦で15段を成功したが、BURN OUT GUYSは登り雲梯で大失速してしまい、POWER FORCEも力で劣る池谷直樹に秒殺されてしまった。
       - MONSTER BOX 15段、SHOT-GUN-TOUCH 記録なし、BURN OUT GUYS 1分20秒60
 
 <!-- end list -->
 
-  - [笘篠賢治](https://ja.wikipedia.org/wiki/笘篠賢治 "wikilink") 1回出場
+  - [笘篠賢治](../Page/笘篠賢治.md "wikilink") 1回出場
       - 第2回に出場。DASHのみに参戦し、準決勝に進出するも同僚の飯田に敗れた。
       - DASH
 
 <!-- end list -->
 
-  - [外山英明](https://ja.wikipedia.org/wiki/外山英明 "wikilink") 2回出場
+  - [外山英明](../Page/外山英明.md "wikilink") 2回出場
       - 第1回と第2回に出場。第1回では、THE BAMBAで準決勝進出を果たすも、それ以外は活躍出来ず、総合11位に終わる。第2回では、THE TUG-OF-WARで準決勝進出、さらにTHE GALLON THROWでは5m25cmを記録してNo.1を獲得し、総合5位タイ入賞を果たした。
       - 第2回大会 総合5位
       - 第2回大会 THE GALLON THROW No.1
@@ -896,7 +896,7 @@
 
 <!-- end list -->
 
-  - [永井秀樹](https://ja.wikipedia.org/wiki/永井秀樹 "wikilink") 2回出場
+  - [永井秀樹](../Page/永井秀樹.md "wikilink") 2回出場
       - 第1回と第3回に出場。THE FINAL PUSH-UPとBEACH FLAGSで5位に入るも、総合12位と低迷。第3回は出場した全種目に渡って下位の記録となり、総合最下位に終わった。
       - MONSTER BOX 10段、SHOT-GUN-TOUCH 11m00cm、DASH、THE FINAL PUSH-UP 109回
 
@@ -908,7 +908,7 @@
 
 <!-- end list -->
 
-  - [中田大輔](https://ja.wikipedia.org/wiki/中田大輔 "wikilink") 4回出場
+  - [中田大輔](../Page/中田大輔.md "wikilink") 4回出場
       - 初出場の第8回こそ総合10位だったが、第9回では2種目を制覇し総合3位に入る。特にMONSTER BOXではプロスポーツマン新記録20段を樹立した。過去4回TAIL IMPOSSIBLEで第3レースまで進出した経験があり、第10回大会では2位になっている。パワー系を苦手としているが、第10回のPOWER FORCE 1回戦で池谷直樹に勝利している。現時点で最後の出場である第11回は交通事故から復帰して迎えた中で、SHOT-GUN-TOUCHの自己記録を更新。復活した姿を見せた。
       - 第9回大会 総合3位、第10・11回大会 総合7位
       - 第9回大会 MONSTER BOX No.1、第9回大会 BURN OUT GUYS No.1
@@ -916,7 +916,7 @@
 
 <!-- end list -->
 
-  - [中西学](https://ja.wikipedia.org/wiki/中西学 "wikilink") 1回出場
+  - [中西学](../Page/中西学.md "wikilink") 1回出場
       - 第13回のパワーバトルに出場。THE TUG-OF-WARで朝青龍に真っ向勝負を挑み、粘り負け。THE GALLON THROWは後の無い2回目で5m50cmを成功させ、泣きそうな表情を見せていた。
       - THE GALLON THROW 5m50cm
 
@@ -929,13 +929,13 @@
 
 <!-- end list -->
 
-  - [二岡智宏](https://ja.wikipedia.org/wiki/二岡智宏 "wikilink") 1回出場
+  - [二岡智宏](../Page/二岡智宏.md "wikilink") 1回出場
       - 第9回に出場。注目されたBEACH FLAGSとBURN OUT GUYSは共にプロ同期入団の金城龍彦と対戦し、いずれも敗北。特にBURN OUT GUYSは雲梯で手を滑らせてしまい、逆転負けを喫した。
       - BURN OUT GUYS 1分25秒78
 
 <!-- end list -->
 
-  - [仁志敏久](https://ja.wikipedia.org/wiki/仁志敏久 "wikilink") 2回出場
+  - [仁志敏久](../Page/仁志敏久.md "wikilink") 2回出場
       - 第6回と第8回に出場。瞬間的判断力とスピードを武器に各種競技期待されるも思うような結果は残せなかった。一方で、第8回ではTHIRTYで早稲田大学OBの意地を見せ準決勝進出を果たしている。
       - MONSTER BOX 12段、SHOT-GUN-TOUCH 12m00cm、WORK OUT GUYS 1分16秒63
 
@@ -947,7 +947,7 @@
 
 <!-- end list -->
 
-  - [西村晃一](https://ja.wikipedia.org/wiki/西村晃一 "wikilink") 2回出場
+  - [西村晃一](../Page/西村晃一.md "wikilink") 2回出場
       - 第9回に初出場。BEACH FLAGSで足首を捻挫し、種目制覇へ悲壮な決意で望むも決勝で大畑大介に敗れ、途中棄権を余儀なくされる。再挑戦となった第11回では、BEACH FLAGSはまたも2位だったが、BURN OUT GUYSで初の種目別No.1を獲得。TAIL IMPOSSIBLEも2位の活躍で、総合5位入賞で前回の雪辱を果たした。
       - 第11回大会 総合5位
       - 第11回大会 BURN OUT GUYS No.1
@@ -955,7 +955,7 @@
 
 <!-- end list -->
 
-  - [長谷川健太](https://ja.wikipedia.org/wiki/長谷川健太 "wikilink") 1回出場
+  - [長谷川健太](../Page/長谷川健太.md "wikilink") 1回出場
       - 第3回に出場。目立った活躍をすることが出来ず、総合13位に終わる。
       - SHOT-GUN-TOUCH 11m50cm、THE GALLON THROW 4m50cm、DASH
 
@@ -968,34 +968,34 @@
 
 <!-- end list -->
 
-  - [秦真司](https://ja.wikipedia.org/wiki/秦真司 "wikilink") 1回出場
+  - [秦真司](../Page/秦真司.md "wikilink") 1回出場
       - 第3回に出場。全体的に安定した成績を収め、総合8位タイ入賞を果たした。
       - 第3回大会 総合8位
       - SHOT-GUN-TOUCH 11m50cm、THE GALLON THROW 5m00cm、DASH
 
 <!-- end list -->
 
-  - [波多野和也](https://ja.wikipedia.org/wiki/波多野和也 "wikilink") 1回出場
+  - [波多野和也](../Page/波多野和也.md "wikilink") 1回出場
       - 第12回に出場。TAIL IMPOSSIBLEは3位、POWER FORCEで決勝進出を果たし、この種目終了時点で、赤田将吾と並んで暫定総合4位タイになるも、SHOT-GUN-TOUCHが記録なしに終わり、小林宏之に逆転され、上位入賞をあと一歩のところで逃した。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 記録なし、BURN OUT GUYS 1分13秒61
 
 <!-- end list -->
 
-  - [服部浩紀](https://ja.wikipedia.org/wiki/服部浩紀 "wikilink") 1回出場
+  - [服部浩紀](../Page/服部浩紀.md "wikilink") 1回出場
       - 第4回に出場。MONSTER BOXでは16段、SHOT-GUN-TOUCHでは12m00cmをマークするなどの活躍を見せ、総合8位入賞を果たした。
       - 第4回大会 総合8位
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 4m75cm、DASH 6秒52
 
 <!-- end list -->
 
-  - [浜名千広](https://ja.wikipedia.org/wiki/浜名千広 "wikilink") 1回出場
+  - [浜名千広](../Page/浜名千広.md "wikilink") 1回出場
       - 1996年のスピードバトル出場を経て、第3回に出場。DASHでは準決勝進出、SHOT-GUN-TOUCHでは12m20cmの自己新記録をマークし、総合7位入賞を果たした。
       - 第3回大会 総合7位
       - SHOT-GUN-TOUCH 12m20cm、THE GALLON THROW 4m75cm、DASH 6秒26
 
 <!-- end list -->
 
-  - [把瑠都](https://ja.wikipedia.org/wiki/把瑠都凱斗 "wikilink") 1回出場
+  - [把瑠都](../Page/把瑠都凱斗.md "wikilink") 1回出場
       - 第13回のパワーバトルで出場最重量選手として出場。SPIN OFFこそ2回戦で朝青龍にものの5秒で敗れるも、THE TUG-OF-WARは桁外れの強さで種目別No.1を獲得。好記録が期待されたTHE GALLON THROWは5m50cmまで余裕だったが、6m00cmを1・2回共にまさかの失敗。無念の総合3位に終わった。
       - 第13回大会パワーバトル 総合3位
       - THE GALLON THROW 5m50cm
@@ -1017,44 +1017,44 @@
 
 <!-- end list -->
 
-  - [ショーン・フィギンズ](https://ja.wikipedia.org/wiki/ショーン・フィギンズ "wikilink") 1回出場
+  - [ショーン・フィギンズ](../Page/ショーン・フィギンズ.md "wikilink") 1回出場
       - 第12回に出場。BEACH FLAGSは持ち前の速さで準決勝まで勝ち上がるも、池谷直樹に敗北。西岡剛との日米盗塁王対決に注目が集まったSHOT-GUN-TOUCHは西岡同様、12m00cmの記録に終わった。
       - MONSTER BOX 11段、SHOT-GUN-TOUCH 12m00cm、BURN OUT GUYS 1分17秒40、QUICK MUSCLE 失格
 
 <!-- end list -->
 
-  - [フランシスコ・フィリォ](https://ja.wikipedia.org/wiki/フランシスコ・フィリォ "wikilink") 3回出場
+  - [フランシスコ・フィリォ](../Page/フランシスコ・フィリォ.md "wikilink") 3回出場
       - 第6回に初出場。スペシャルトライアルとして行われたWORK OUT GUYSでプロ初代種目別No.1と賞金100万円を獲得。また、当時体重112kgにしてMONSTER BOX14段成功という活躍も魅せた。第7回はTHIRTYで準決勝進出。THE TUG-OF-WARは決勝進出も清原和博に敗れた。第8回はかつて制したWORK OUT GUYSでハイレベルな戦いの前に完敗を喫している。
       - 第6回大会 WORK OUT GUYS No.1
       - MONSTER BOX 14段、SHOT-GUN-TOUCH 記録なし、THE GALLON THROW 5m50cm、WORK OUT GUYS 1分05秒71
 
 <!-- end list -->
 
-  - [福地寿樹](https://ja.wikipedia.org/wiki/福地寿樹 "wikilink") 1回出場
+  - [福地寿樹](../Page/福地寿樹.md "wikilink") 1回出場
       - 第15回に出場。この大会、日本プロ野球界から、ただ一人出場し、THE GALLON THROWは5m50cm、MONSTER BOXは15段、SHOT-GUN-TOUCHは12m50cmの記録を作るも、総合10位で試技を終えた。
       - MONSTER BOX 15段、SHOT-GUN-TOUCH 12m50cm、THE GALLON THROW 5m50cm
 
 <!-- end list -->
 
-  - [福西崇史](https://ja.wikipedia.org/wiki/福西崇史 "wikilink") 2回出場
+  - [福西崇史](../Page/福西崇史.md "wikilink") 2回出場
       - MONSTER BOXのみの参戦だった初出場の第6回でいきなり当時のプロスポーツマン記録であった19段をクリアし、19段の新記録を樹立。その後、第9回で中田大輔が新記録の20段を樹立したと聞き、レコードホルダー奪還を掛け単独試技に挑み、自己記録に並ぶも20段を飛び越えることはできなかった。
       - MONSTER BOX 19段
 
 <!-- end list -->
 
-  - [伏見俊昭](https://ja.wikipedia.org/wiki/伏見俊昭 "wikilink") 1回出場
+  - [伏見俊昭](../Page/伏見俊昭.md "wikilink") 1回出場
       - 第13回のパワーバトルに出場。出場選手中、最軽量で唯一、100kgを下回っていたが、SPIN OFFの2回戦で琴光喜相手に好勝負を展開。THE GALLON THROWも他のパワー系選手と並んで、5m50cmを1回で成功してみせた。
       - THE GALLON THROW 5m50cm
 
 <!-- end list -->
 
-  - [藤吉信次](https://ja.wikipedia.org/wiki/藤吉信次 "wikilink") 1回出場
+  - [藤吉信次](../Page/藤吉信次.md "wikilink") 1回出場
       - 第4回に出場。THE GALLON THROWのみの参戦だったが、立ち上がりの4m50cmを越えられず記録なしに終わり、0ポイントの総合最下位に終わった。
       - THE GALLON THROW 記録なし
 
 <!-- end list -->
 
-  - [藤原喜明](https://ja.wikipedia.org/wiki/藤原喜明 "wikilink") 3回出場
+  - [藤原喜明](../Page/藤原喜明.md "wikilink") 3回出場
       - 第1回で初出場。THE TUG-OF-WARは準決勝で清原和博と激闘を繰り広げて勝利するも、決勝で広沢克己に敗れた。第2回では初の種目別No.1を獲得。総合ランキングも3位に喰い込んだ。第3回は決勝で清原と因縁の再戦で返り討ちにし、種目別連覇を達成した。第2回での総合3位は当時46歳、本戦では過去最年長の入賞だった。
       - 第2回大会 総合3位、第3回大会 総合8位
       - 第2・3回大会 THE TUG-OF-WAR No.1
@@ -1062,7 +1062,7 @@
 
 <!-- end list -->
 
-  - [古木克明](https://ja.wikipedia.org/wiki/古木克明 "wikilink") 1回出場
+  - [古木克明](../Page/古木克明.md "wikilink") 1回出場
       - 第11回に出場。MONSTER BOXでボビー・オロゴンをライバル視し、ものまねで挑発するも敗戦。BURN OUT GUYSは雲梯で落下し、ボビーに「あわてるのは、バカなんだよ」とまで言われてしまった。
       - MONSTER BOX 11段、SHOT-GUN-TOUCH 記録なし、WORK OUT GUYS 1分33秒55、BURN OUT GUYS 失格
 
@@ -1076,7 +1076,7 @@
 
 <!-- end list -->
 
-  - [ニコラス・ペタス](https://ja.wikipedia.org/wiki/ニコラス・ペタス "wikilink") 2回出場
+  - [ニコラス・ペタス](../Page/ニコラス・ペタス.md "wikilink") 2回出場
       - 第6回で初出場し、WORK OUT GUYSは3位、POWER FORCEで種目別No.1の活躍で総合7位。第7回では、WORK OUT GUYSでケイン・コスギに勝利したが、最終組の大畑大介に100分の4秒差で敗れて2位。更に前回、種目別No.1として臨んだPOWER FORCEでは、2回戦で清原和博に秒殺されてしまう。しかし、SHOT-GUN-TOUCHでは、自己記録を更新し、2大会連続の総合7位入賞となった。
       - 第6・7回大会 総合7位
       - 第6回大会 POWER FORCE No.1
@@ -1084,7 +1084,7 @@
 
 <!-- end list -->
 
-  - [スコット・ポドセドニック](https://ja.wikipedia.org/wiki/スコット・ポドセドニック "wikilink") 1回出場
+  - [スコット・ポドセドニック](../Page/スコット・ポドセドニック.md "wikilink") 1回出場
       - 第11回に出場。BEACH FLAGSは準々決勝進出、SPIN OFFは準決勝進出、TAIL IMPOSSIBLEは3位と活躍し、WORK OUT GUYSでは苦戦を強いられたが5位に入りこみ、SHOT-GUN-TOUCHではノーミスで当時のメジャーリーグ記録12m90cmを成功。総合4位入賞を果たす。
       - 第11回大会 総合4位
       - 第11回大会 SHOT-GUN-TOUCH No.1
@@ -1100,13 +1100,13 @@
 
 <!-- end list -->
 
-  - [本田武史](https://ja.wikipedia.org/wiki/本田武史 "wikilink") 1回出場
+  - [本田武史](../Page/本田武史.md "wikilink") 1回出場
       - 第15回に出場。フィギュア界初の参戦だったが、ジャンプに自信のあったMONSTER BOXが記録11段に終わる等、全6種目参加で僅か25Pしか稼げず、総合17位に終わった。
       - MONSTER BOX 11段、SHOT-GUN-TOUCH 記録なし、THE GALLON THROW 4m50cm
 
 <!-- end list -->
 
-  - [前田遼一](https://ja.wikipedia.org/wiki/前田遼一 "wikilink") 1回出場
+  - [前田遼一](../Page/前田遼一.md "wikilink") 1回出場
       - 当時19歳で第7回に出場。TAIL IMPOSSIBLEの決勝レースでは井原正巳とのデットヒートを制し、種目別No.1を獲得。その他、BEACH FLAGSで3回戦進出を果たす活躍もあり、最終的には総合8位入賞を果たす。
       - 第7回大会 総合8位
       - 第7回大会 TAIL IMPOSSIBLE No.1
@@ -1134,7 +1134,7 @@
 
 <!-- end list -->
 
-  - [丸藤正道](https://ja.wikipedia.org/wiki/丸藤正道 "wikilink") 1回出場
+  - [丸藤正道](../Page/丸藤正道.md "wikilink") 1回出場
       - 第15回に出場。THE GALLON THROWは記録なしだったが、初挑戦のMONSTER BOXは重量級のハンデをものともせずに16段を成功。須藤元気に並ぶ格闘技記録を叩き出した。
       - MONSTER BOX 16段(格闘技記録タイ)、SHOT-GUN-TOUCH 記録なし、THE GALLON THROW 記録なし
 
@@ -1146,7 +1146,7 @@
 
 <!-- end list -->
 
-  - [三浦貴](https://ja.wikipedia.org/wiki/三浦貴 "wikilink") 3回出場
+  - [三浦貴](../Page/三浦貴.md "wikilink") 3回出場
       - 第8回で初出場。MONSTER BOXで19段のプロスポーツマンタイ記録をマーク。TAIL IMPOSSIBLEで種目別No.1を手にし、総合8位に食い込む。第10回はTAIL IMPOSSIBLEで2度目の種目別No.1。MONSTER BOXは20段の自己新記録でプロスポーツマン記録奪回。プロ野球に5年ぶりの総合No.1をもたらした。第11回は序盤の躓きが響き、総合3位。総合連覇はならなかった。抜群のスタミナを誇り、TAIL IMPOSSIBLEは出場した全大会で種目別No.1を獲得している。
       - 第10回大会 総合No.1、第11回大会 総合3位、第8回大会 総合8位
       - 第8・10・11回大会 TAIL IMPOSSIBLE No.1
@@ -1160,20 +1160,20 @@
 
 <!-- end list -->
 
-  - [南雄太](https://ja.wikipedia.org/wiki/南雄太 "wikilink") 1回出場
+  - [南雄太](../Page/南雄太.md "wikilink") 1回出場
       - 第9回に出場。MONSTER BOXは記録13段、その他の種目も総じて下位と振るわなかった。
       - MONSTER BOX 13段、WORK OUT GUYS 1分29秒28
 
 <!-- end list -->
 
-  - [南山真](https://ja.wikipedia.org/wiki/南山真 "wikilink") 1回出場
+  - [南山真](../Page/南山真.md "wikilink") 1回出場
       - 第8回に出場。WORK OUT GUYSで50秒台、MONSTER BOXは当時バスケットボール選手新記録となる18段を記録。更にTHIRTYは決勝進出、TAIL IMPOSSIBLEは3位と活躍し、最終種目前まで暫定総合3位に付けていたが、SHOT-GUN-TOUCHが11m00cmに終わり総合5位タイで終えた。
       - 第8回大会 総合5位
       - MONSTER BOX 18段、SHOT-GUN-TOUCH 11m00cm、WORK OUT GUYS 56秒11(世界歴代5位)
 
 <!-- end list -->
 
-  - [宮﨑大輔](https://ja.wikipedia.org/wiki/宮崎大輔 "wikilink") 4回出場・公認記録会出場
+  - [宮﨑大輔](../Page/宮崎大輔.md "wikilink") 4回出場・公認記録会出場
       - 第12回に初出場。安定した活躍を見せ、最終種目SHOT-GUN-TOUCHで自身に75P差をつけ暫定総合1位だった池谷直樹を逆転し総合No.1を獲得。種目別No.1にならずに総合No.1になったのはこの大会が唯一である。2連覇を目指した第13回は最終種目まで暫定総合2位となるもSHOT-GUN-TOUCHで記録12m00cmで終わり、総合4位で試技終了。第14回はBEACH FLAGSで池谷を破り、初の種目別No.1を獲得。MONSTER BOXではプロスポーツマン記録タイとなる20段を成功。2位に大差をつけ、史上3人目となる2度目の総合No.1を獲得した。第15回は右足に爆弾を抱えながらも、史上初の正月連覇を達成し最多の3度目の総合No.1となった。
       - 第12・14・15回大会 総合No.1、第13回大会 総合4位
       - 第14・15大会 BEACH FLAGS No.1
@@ -1188,7 +1188,7 @@
 
 <!-- end list -->
 
-  - [村松有人](https://ja.wikipedia.org/wiki/村松有人 "wikilink") 2回出場
+  - [村松有人](../Page/村松有人.md "wikilink") 2回出場
       - 第4回に初出場。今大会初登場のTHIRTYで初代種目別No.1を獲得し、DEAD MAN'S DROPで2位、THE GALLON THROWで4位に入る等の活躍でSHOT-GUN-TOUCH前までは暫定2位、最終的に総合4位に入賞。第5回では総合10位という結果に終わる。
       - 第4回大会 総合4位
       - 第4回大会 THIRTY No.1
@@ -1211,19 +1211,19 @@
 
 <!-- end list -->
 
-  - [森崎浩司](https://ja.wikipedia.org/wiki/森崎浩司 "wikilink") 1回出場
+  - [森崎浩司](../Page/森崎浩司.md "wikilink") 1回出場
       - 第11回に出場。BEACH FLAGSは2回戦敗退と見せ場が作れず、最大の見せ場だったTAIL IMPOSSIBLEもゴール直前で僅かに出遅れ、まさかの第2レース敗退となってしまった。
 
 <!-- end list -->
 
-  - [森下仁志](https://ja.wikipedia.org/wiki/森下仁志 "wikilink") 1回出場
+  - [森下仁志](../Page/森下仁志.md "wikilink") 1回出場
       - 第2回に出場。BEACH FLAGSでは決勝に進出するも池谷に完敗。DASHでも準決勝に進出し、総合7位タイ入賞を果たした。
       - 第2回大会 総合7位
       - MONSTER BOX 10段、DASH、THE GALLON THROW 4m00cm
 
 <!-- end list -->
 
-  - [森谷昭仁](https://ja.wikipedia.org/wiki/森谷昭仁 "wikilink") 1回出場
+  - [森谷昭仁](../Page/森谷昭仁.md "wikilink") 1回出場
       - 第12回に出場。当時、チームの先輩で元総合No.1の飯田哲也が見守る中での参戦だった。BEACH FLAGSでは決勝まで勝ち進むも、決勝で池谷直樹に敗北。SHOT-GUN-TOUCHでは持ち前のスピードを発揮する事が出来ず記録12m00cmに終わり、総合8位で終わった。
       - MONSTER BOX 記録なし、SHOT-GUN-TOUCH 12m00cm、BURN OUT GUYS 1分12秒71、QUICK MUSCLE 65回
 
@@ -1241,7 +1241,7 @@
 
 <!-- end list -->
 
-  - [吉岡稔真](https://ja.wikipedia.org/wiki/吉岡稔真 "wikilink") 1回出場
+  - [吉岡稔真](../Page/吉岡稔真.md "wikilink") 1回出場
       - 第2回に出場。全種目に渡って活躍出来ず、総合最下位タイに終わる。
       - THE GALLON THROW 4m00cm、DASH
 
@@ -1253,7 +1253,7 @@
 
 <!-- end list -->
 
-  - [吉田孝行](https://ja.wikipedia.org/wiki/吉田孝行 "wikilink") 1回出場
+  - [吉田孝行](../Page/吉田孝行.md "wikilink") 1回出場
       - 第4回に出場。MONSTER BOXでは16段、DASHでは準決勝進出、TAIL IMPOSSIBLEでは決勝レース進出と各種目で活躍するも、総合9位で上位入賞には一歩及ばず。
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 11m50cm、DASH 6秒42
 
@@ -1266,20 +1266,20 @@
 
 <!-- end list -->
 
-  - [吉原孝介](https://ja.wikipedia.org/wiki/吉原孝介 "wikilink") 1回出場
+  - [吉原孝介](../Page/吉原孝介.md "wikilink") 1回出場
       - 第5回に出場。全体的に安定した成績を収め、最終的には総合3位入賞を果たす。
       - 第5回大会 総合3位
       - MONSTER BOX 15段、THE GALLON THROW、SHOT-GUN-TOUCH 11m40cm
 
 <!-- end list -->
 
-  - [吉村裕基](https://ja.wikipedia.org/wiki/吉村裕基 "wikilink") 1回出場
+  - [吉村裕基](../Page/吉村裕基.md "wikilink") 1回出場
       - 第13回に出場。BURN OUT GUYSでは永井大に肉薄し、この種目で6位。初挑戦のMONSTER BOXでも16段の記録を作り、この種目終了時点で暫定総合6位だったが、後半大失速してしまい、総合14位タイで終了。
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 11m50cm、BURN OUT GUYS 1分01秒10、25 35秒88
 
 <!-- end list -->
 
-  - [ハンリー・ラミレス](https://ja.wikipedia.org/wiki/ハンリー・ラミレス "wikilink") 1回出場
+  - [ハンリー・ラミレス](../Page/ハンリー・ラミレス.md "wikilink") 1回出場
       - 第13回に出場。BEACH FLAGSの1回戦、2回戦は好調だったが、3回戦で木下典明のスピードに敗れ、3回戦敗退。総合ランキングで大きく遅れを取った中で挑んだSHOT-GUN-TOUCHでは意地で13m00cmまで進むも、僅かに触れる事が出来ず、記録12m70cmで試技を終えた。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 12m70cm、BURN OUT GUYS 1分09秒91、25 38秒19
 
@@ -1291,7 +1291,7 @@
 
 <!-- end list -->
 
-  - [デイブ・ロバーツ](https://ja.wikipedia.org/wiki/デーブ・ロバーツ_\(外野手\) "wikilink") 2回出場
+  - [デイブ・ロバーツ](../Page/デーブ・ロバーツ_\(外野手\).md "wikilink") 2回出場
       - 沖縄生まれのメジャーリーガー。類稀なるボディバランスとメジャーリーグ仕込みのダイビングテクニックが持ち味で、初出場の第9回では、BURN OUT GUYSで雲梯を驚異的な速さで渡り切り2位に入り、総合6位入賞。第10回にも出場するが、前回3位のWORK OUT GUYSでのこぎりが折れるアクシデントに泣く等、総合10位。
       - 第9回大会 総合6位
       - MONSTER BOX 12段、SHOT-GUN-TOUCH 12m00cm、THE GALLON THROW 4m50cm、WORK OUT GUYS1分07秒97、BURN OUT GUYS 1分12秒41
@@ -1304,7 +1304,7 @@
 
 <!-- end list -->
 
-  - [泉川正幸](https://ja.wikipedia.org/wiki/泉川正幸 "wikilink") 1回出場
+  - [泉川正幸](../Page/泉川正幸.md "wikilink") 1回出場
       - 第1回に出場。POWER FORCEで圧倒的なパワーを見せつけ室伏広治を破りNo.1を手にした。
       - 第1回大会 POWER FORCE No.1
       - MONSTER BOX 15段、THE FINAL SIT-UP 222回、THE KENSUI 16回
@@ -1317,7 +1317,7 @@
 
 <!-- end list -->
 
-  - [井上悟](https://ja.wikipedia.org/wiki/井上悟_\(陸上選手\) "wikilink") 2回出場・スペシャルバトル出場
+  - [井上悟](../Page/井上悟_\(陸上選手\).md "wikilink") 2回出場・スペシャルバトル出場
       - 第1回に出場。BEACH FLAGSでは4位。第3回では、SHOT-GUN-TOUCHでマーク・クリアが記録した12m60cmを上回る12m70cmに挑み失敗するも、2年後に13m10cmをクリアし、世界記録を樹立した。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 13m10cm(陸上記録・世界歴代7位タイ)、THE FINAL SIT-UP 362回、THE KENSUI 18回
 
@@ -1360,7 +1360,7 @@
 
 <!-- end list -->
 
-  - [葛西紀明](https://ja.wikipedia.org/wiki/葛西紀明 "wikilink") 1回出場
+  - [葛西紀明](../Page/葛西紀明.md "wikilink") 1回出場
       - 第2回に出場。GHOST CHAIRでは8位と好成績を残した。
       - GHOST CHAIR 26分10秒
 
@@ -1372,7 +1372,7 @@
 
 <!-- end list -->
 
-  - [木村公宣](https://ja.wikipedia.org/wiki/木村公宣 "wikilink") 1回出場
+  - [木村公宣](../Page/木村公宣.md "wikilink") 1回出場
       - 第2回に出場。GHOST CHAIRでは、No.1の5人に次ぐ6位の好成績を残した。
       - THE FINAL SIT-UP 138回、GHOST CHAIR 46分53秒
 
@@ -1391,7 +1391,7 @@
 
 <!-- end list -->
 
-  - [黒岩敏幸](https://ja.wikipedia.org/wiki/黒岩敏幸 "wikilink") 1回出場
+  - [黒岩敏幸](../Page/黒岩敏幸.md "wikilink") 1回出場
       - 第2回に出場。THE TUG-OF-WARでは準決勝進出、THE FINAL SIT-UPでも4位に入る活躍を見せた。
       - THE FINAL SIT-UP 305回、GHOST CHAIR 15分37秒
 
@@ -1416,14 +1416,14 @@
 
 <!-- end list -->
 
-  - [清水宏保](https://ja.wikipedia.org/wiki/清水宏保 "wikilink") 1回出場
+  - [清水宏保](../Page/清水宏保.md "wikilink") 1回出場
       - 第2回に出場。BEACH FLAGSでは他のスピードスケート勢や池谷幸雄を下してNo.1。GHOST CHAIRでも1時間を達成した5人の内の1人となり大会唯一の種目別2冠を達成した。
       - 第2回大会 BEACH FLAGS No.1、第2回大会 GHOST CHAIR No.1
       - THE FINAL SIT-UP 384回、GHOST CHAIR 1時間
 
 <!-- end list -->
 
-  - [アレン・ジョンソン](https://ja.wikipedia.org/wiki/アレン・ジョンソン "wikilink") 1回出場・スペシャルバトル出場
+  - [アレン・ジョンソン](../Page/アレン・ジョンソン.md "wikilink") 1回出場・スペシャルバトル出場
       - 第3回に出場。「ハードルなぎ倒し男」として知られているもののBEACH FLAGSでは2002年のスペシャルバトルで不本意な1回戦敗退に終わるなど出場した2大会でNo.1獲得することは出来なかった。MONSTER BOXでは、第3回以前に筋肉番付で行われた跳び箱世界選手権で19段を記録して優勝し、その7年後の2002年のスペシャルバトルでも18段を記録してNo.1を手にした。
       - 2002 スペシャルバトル MONSTER BOX No.1
       - MONSTER BOX 19段、SHOT-GUN-TOUCH 12m00cm
@@ -1436,7 +1436,7 @@
 
 <!-- end list -->
 
-  - [白幡圭史](https://ja.wikipedia.org/wiki/白幡圭史 "wikilink") 1回出場
+  - [白幡圭史](../Page/白幡圭史.md "wikilink") 1回出場
       - 第2回に出場。GHOST CHAIRでは、清水宏保らと共に1時間を達成し、No.1を獲得した。
       - 第2回大会 GHOST CHAIR No.1
       - GHOST CHAIR 1時間
@@ -1463,7 +1463,7 @@
 
 <!-- end list -->
 
-  - [中垣内祐一](https://ja.wikipedia.org/wiki/中垣内祐一 "wikilink") 1回出場
+  - [中垣内祐一](../Page/中垣内祐一.md "wikilink") 1回出場
       - 第1回に出場。MONSTER BOXでは身長ほぼ2mの長身を活かし、池谷直樹と共に18段を記録し、バレーボール記録を作る活躍を見せた。
       - MONSTER BOX 18段(バレーボール記録)
 
@@ -1494,13 +1494,13 @@
 
 <!-- end list -->
 
-  - [船木和喜](https://ja.wikipedia.org/wiki/船木和喜 "wikilink") 1回出場
+  - [船木和喜](../Page/船木和喜.md "wikilink") 1回出場
       - 第2回に出場。目立った活躍のないままコロッセオを去った。
       - GHOST CHAIR 5分06秒
 
 <!-- end list -->
 
-  - [堀井学](https://ja.wikipedia.org/wiki/堀井学 "wikilink") 1回出場
+  - [堀井学](../Page/堀井学.md "wikilink") 1回出場
       - 第2回に出場。GHOST CHAIRでは、清水宏保らと共に1時間を達成し、No.1を獲得した。
       - 第2回大会 GHOST CHAIR No.1
       - GHOST CHAIR 1時間
@@ -1513,13 +1513,13 @@
 
 <!-- end list -->
 
-  - [溝口和洋](https://ja.wikipedia.org/wiki/溝口和洋 "wikilink") 1回出場
+  - [溝口和洋](../Page/溝口和洋.md "wikilink") 1回出場
       - 当時コーチを務めていた室伏広治と共に、第1回に出場。MONSTER BOXでは15段をマーク。THE TUG-OF-WARでは、室伏が決勝進出を決める中、自らは準決勝で敗れ、決勝での師弟対決は実現しなかった。
       - MONSTER BOX 15段、THE FINAL SIT-UP 23回、THE KENSUI 10回
 
 <!-- end list -->
 
-  - [南克幸](https://ja.wikipedia.org/wiki/南克幸 "wikilink") 1回出場
+  - [南克幸](../Page/南克幸.md "wikilink") 1回出場
       - 第1回に出場。MONSTER BOXでは中垣内と共に活躍し、17段をマーク。さらに、POWER FORCEでも準決勝に進出した。
       - MONSTER BOX 17段、THE FINAL SIT-UP 83回、THE KENSUI 10回
 
@@ -1532,7 +1532,7 @@
 
 <!-- end list -->
 
-  - [宮部行範](https://ja.wikipedia.org/wiki/宮部行範 "wikilink") 1回出場
+  - [宮部行範](../Page/宮部行範.md "wikilink") 1回出場
       - 兄の保範と共に、第2回に出場。兄とは対照的に、目立った活躍のないままコロッセオを去った。
       - GHOST CHAIR 9分46秒
 
@@ -1568,19 +1568,19 @@
 
 <!-- end list -->
 
-  - [和田貴広](https://ja.wikipedia.org/wiki/和田貴広 "wikilink") 1回出場
+  - [和田貴広](../Page/和田貴広.md "wikilink") 1回出場
       - 第1回に出場。BEACH FLAGSでは決勝に進出したほか、THE FINAL SIT-UPも2位、THE KENSUIは5位に入る活躍を見せた。
       - MONSTER BOX 12段、THE FINAL SIT-UP 453回、THE KENSUI 27回
 
 ### 芸能人サバイバルバトル (第1回 - 第18回、新王座チャレンジバトル)
 
-  - [阿部力](https://ja.wikipedia.org/wiki/阿部力 "wikilink") 新王座チャレンジバトル出場
+  - [阿部力](../Page/阿部力.md "wikilink") 新王座チャレンジバトル出場
       - 新王座チャレンジバトルに出場。CONQUISTADORの準決勝前に手のマメが潰れるアクシデント。その後、PECTO CROSSが最下位等、あまりポイントを稼げぬまま総合10位タイで脱落を喫した。
       - MONSTER BOX 13段、MUSCLE GYM 148回、PECTO CROSS 40kg
 
 <!-- end list -->
 
-  - [飯田覚士](https://ja.wikipedia.org/wiki/飯田覚士 "wikilink") 2回出場
+  - [飯田覚士](../Page/飯田覚士.md "wikilink") 2回出場
       - 初出場の第8回では、TAIL IMPOSSIBLEを全レース1位通過、最終レースでは残りの2人を周回遅れにする圧勝で種目別No.1を獲得。続く第9回では苦戦を強いられながら連覇達成。芸能人大会でTAIL IMPOSSIBLEを2回制覇は、飯沼誠司、ワッキーに先んじ、史上初の記録。スピード系種目が苦手で、BEACH FLAGSでは2大会共に1回戦敗退し、SHOT-GUN-TOUCHでは記録を残せなかった(第8回は3回の試技で11m00cmを申告し全て失敗。第9回は練習で右肩を脱臼した為棄権した)。
       - 第9回大会 総合5位、第8回大会 総合6位
       - 第8・9回大会 TAIL IMPOSSIBLE No.1
@@ -1588,7 +1588,7 @@
 
 <!-- end list -->
 
-  - [飯沼誠司](https://ja.wikipedia.org/wiki/飯沼誠司 "wikilink") 3回出場
+  - [飯沼誠司](../Page/飯沼誠司.md "wikilink") 3回出場
       - 初出場の第10回では、最終種目直前まで暫定総合1位となり、永井大と総合No.1争いを演じた。TAIL IMPOSSIBLEは負け知らずであり、SHOT-GUN-TOUCHでは毎回自己記録を更新していた。QUICK MUSCLEでは第10回に当時歴代3位となる171回を記録した。MONSTER BOXは第12回に14段から記録を3段更新させ、前回は記録11m00cmだったSHOT-GUN-TOUCHで11m40cmの記録を残し、総合4位。第13回では、SHOT-GUN-TOUCHで11m70cmの自己新記録を残して総合4位タイ。3度の出場で全てファイナリストに残った。
       - 第10回大会 総合3位、第12・13回大会 総合4位
       - 第10回大会 QUICK MUSCLE No.1、第10・13回大会 TAIL IMPOSSIBLE No.1
@@ -1596,7 +1596,7 @@
 
 <!-- end list -->
 
-  - [池田政典](https://ja.wikipedia.org/wiki/池田政典 "wikilink") 1回出場
+  - [池田政典](../Page/池田政典.md "wikilink") 1回出場
       - 第4回に出場。THE BEST OF TUGGERで種目別No.1、MONSTER BOXでは芸能人史上4人目の15段成功という活躍でファイナリストに。しかしSHOT-GUN-TOUCH開始時点でかなり足を痛めていたため、SHOT-GUN-TOUCH試技2回目終了後リタイア表明。記録なしに終わる。
       - 第4回大会 総合6位
       - 第4回大会 THE BEST OF TUGGER No.1
@@ -1604,7 +1604,7 @@
 
 <!-- end list -->
 
-  - [井坂俊哉](https://ja.wikipedia.org/wiki/井坂俊哉 "wikilink") 2回出場
+  - [井坂俊哉](../Page/井坂俊哉.md "wikilink") 2回出場
       - 第15回で初出場。ULTIMATE GUYSではその体格を活かして雲梯を3つ飛ばしで進むパフォーマンスを見せるも、QUICK MUSCLEで失格の憂き目に遭い、総合12位で脱落。第16回ではMONSTER BOXで自己記録を更新し、この種目終了時点では暫定総合2位タイだったが、QUICK MUSCLEとTAIL IMPOSSIBLEで苦戦し、僅か10P差でファイナル進出はならず。特にQUICK MUSCLEとの相性が悪く、第15回での失格に続き第16回も失格寸前の状態に追い込まれた中、辛うじて凌ぎ記録を残した。
       - MONSTER BOX 16段、QUlCK MUSCLE 42回、ULITlMATE GUYS 1分10秒20
 
@@ -1617,7 +1617,7 @@
 
 <!-- end list -->
 
-  - [石丸謙二郎](https://ja.wikipedia.org/wiki/石丸謙二郎 "wikilink") 7回出場
+  - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink") 7回出場
       - 当時49歳で第11回に初出場。以降、BURN OUT GUYSでは雲梯を後ろ向きで上る、SPIN OFFで玉の回転を使うという新手を次々と披露。第14回はQUICK MUSCLEでケイン・コスギに並ぶ芸能人歴代2位タイ(樹立当時)の177回。POWER FORCEはボビー・オロゴンを死闘の末下し、TAIL IMPOSSIBLE前まで暫定総合6位にいながらも、この種目で1回戦敗退となり総合8位で脱落となってしまう。第16回はQUICK MUSCLEで200回を目前にして、秒数残り僅かという所で体勢を崩してしまい失格となり、無念の総合最下位。第17回は185回で改めて更新。第18回はMUSCLE GYMで一時的に芸能人新記録を作った。特にQUICK MUSCLEで好成績を残し、毎回自己記録を更新しているが、一方でファイナリスト争いを左右するTAIL IMPOSSIBLEで結果を残せず後退する事が多く、ファイナリストは未経験。
       - MONSTER BOX 14段、QUICK MUSCLE 185回(芸能人歴代6位)、WORK OUT GUYS 1分23秒44、BURN OUT GUYS 1分18秒66、MUSCLE GYM 218回(芸能人歴代6位)
 
@@ -1629,7 +1629,7 @@
 
 <!-- end list -->
 
-  - [井手博士](https://ja.wikipedia.org/wiki/井手らっきょ "wikilink") 1回出場
+  - [井手博士](../Page/井手らっきょ.md "wikilink") 1回出場
       - [たけし軍団](../Page/たけし軍団.md "wikilink")の「井手らっきょ」としても知られる。第1回に出場したが、この大会得意のスピード系種目が行われなかった為、総合10位で脱落、辛酸を舐めることになった。同年の第1回大会の以前に筋肉番付にて行われた、スピードバトルにも出場。飯田哲也らプロ選手の前に苦戦を強いられるもBEACH FLAGSではNo.1経験者の池谷幸雄を上回る活躍を見せている。
       - MONSTER BOX 12段、QUICK MUSCLE 47回、SHOT-GUN-TOUCH 11m00cm、DASH 6秒40(芸能人記録)
 
@@ -1641,7 +1641,7 @@
 
 <!-- end list -->
 
-  - [井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink") 1回出場
+  - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink") 1回出場
       - 第4回に山口達也と共に出場。THE BEST OF TUGGERでは準決勝で山口とのジャニーズタッグが実現も、池田政典と谷原章介の俳優タッグに敗れる。それでもLOG相撲の準決勝進出含め、15段を目標として挑んだMONSTER BOXでまさかの記録11段以外は全種目で安定した成績を残し、総合4位に入賞する活躍を魅せた。
       - 第4回大会 総合4位
       - MONSTER BOX 11段、QUICK MUSCLE 65回、SHOT-GUN-TOUCH 11m00cm、DASH 7秒09
@@ -1654,7 +1654,7 @@
 
 <!-- end list -->
 
-  - [梅垣義明](https://ja.wikipedia.org/wiki/梅垣義明 "wikilink") 1回出場
+  - [梅垣義明](../Page/梅垣義明.md "wikilink") 1回出場
       - 第6回に出場。BEACH FLAGSは1回戦敗退。MONSTER BOXはロイター板を踏み込めず記録なし。QUICK MUSCLEはうめき声をあげながら失格と惨敗の0Pの総合最下位で脱落。
       - MONSTER BOX 記録なし、QUICK MUSCLE 失格
 
@@ -1666,7 +1666,7 @@
 
 <!-- end list -->
 
-  - [大澄賢也](https://ja.wikipedia.org/wiki/大澄賢也 "wikilink") 5回出場
+  - [大澄賢也](../Page/大澄賢也.md "wikilink") 5回出場
       - 第1回で初出場。芸能人大会のMONSTER BOXとTAIL IMPOSSIBLEの初代種目別No.1獲得者である。第2回ではケイン・コスギとの争いの末、総合2位となった。第2回から4年振りに参戦した第8回では、MONSTER BOXは自己記録タイの15段、QUICK MUSCLEでは自己記録更新して6位、TAIL IMPOSSIBLEで決勝レース進出で3位と健闘するも、15P差でファイナル進出ならず。それから更に4年のブランクを経て、第14回に参戦し、QUICK MUSCLEでは100回越えの自己記録更新となるも、MONSTER BOXでは自己記録の15段を失敗し、かつて制したTAIL IMPOSSIBLEで第1レース敗退で総合12位。第16回にも参加したが、QUICK MUSCLEやMONSTER BOXで自己記録を下回り、TAIL IMPOSSIBLEでは第2レースで脱落し、またも総合12位でコロッセオの洗礼を浴びた。
       - 第2回大会 総合2位
       - 第1回大会 MONSTER BOX No.1(芸能人初代No.1)、第2回大会 TAIL IMPOSSIBLE No.1(初代No.1)
@@ -1682,7 +1682,7 @@
 
 <!-- end list -->
 
-  - [岡本竜汰](https://ja.wikipedia.org/wiki/岡本竜汰 "wikilink") 1回出場
+  - [岡本竜汰](../Page/岡本竜汰.md "wikilink") 1回出場
       - 第12回に出場。同じく最初に脱落した松尾政寿とクロード岡本とは異なり、全種目に参加したにも関わらず総合最下位(45P)となっていたが、実際は総合12位(75P)の誤りである。
       - MONSTER BOX 14段、QUICK MUSCLE 91回、WORK OUT GUYS 1分53秒55
 
@@ -1700,14 +1700,14 @@
 
 <!-- end list -->
 
-  - [賀集利樹](https://ja.wikipedia.org/wiki/賀集利樹 "wikilink") 2回出場
+  - [賀集利樹](../Page/賀集利樹.md "wikilink") 2回出場
       - 第10回で初出場。初出場選手の中ではかなりの注目を集めていたが、序盤から苦戦を強いられた。QUICK MUSCLEが失格で総合12位で脱落。QUICK MUSCLE終了時点での脱落者は、賀集ただ1人だった(残る1人は、松尾政寿と逸見太郎が暫定総合10位で並んだため、脱落を逃れた)。第11回は腰痛を抱えた状態での出場であったが、MONSTER BOXでさらに悪化してしまい、無念の途中棄権となった。
       - MONSTER BOX 16段、QUICK MUSCLE 失格、BURN OUT GUYS 1分18秒78
 
 <!-- end list -->
 
-  - [片山敬太郎](https://ja.wikipedia.org/wiki/片山敬太郎 "wikilink")（ケータ） 2回出場
-      - 初出場は第7回。右足首を骨折した池谷直樹の代役として「ケータ」名義で出場。BEACH FLAGSは準々決勝進出、MONSTER BOXは初挑戦で19段を記録し、この種目終了時点で暫定総合4位につけていたが、坂口憲二同様、その後の種目で失速し総合8位で終える。その後、[マッスルミュージカル](https://ja.wikipedia.org/wiki/マッスルミュージカル "wikilink")で世界記録の23段を10回以上成功させ、池谷を前座に追いやるなどの活躍を見せ第15回に久々の出場。MONSTER BOXでは記録21段で終わってしまうが、QUICK MUSCLEでは自己記録86回からの大躍進で当時の芸能人新記録となる204回をマークした(その後池谷に抜かされる)。ファイナルまで残ったが種目がFINAL RUNであったため、現在SHOT-GUN-TOUCHは未経験。これは、歴代ファイナリストで唯一の事例。
+  - [片山敬太郎](../Page/片山敬太郎.md "wikilink")（ケータ） 2回出場
+      - 初出場は第7回。右足首を骨折した池谷直樹の代役として「ケータ」名義で出場。BEACH FLAGSは準々決勝進出、MONSTER BOXは初挑戦で19段を記録し、この種目終了時点で暫定総合4位につけていたが、坂口憲二同様、その後の種目で失速し総合8位で終える。その後、[マッスルミュージカル](../Page/マッスルミュージカル.md "wikilink")で世界記録の23段を10回以上成功させ、池谷を前座に追いやるなどの活躍を見せ第15回に久々の出場。MONSTER BOXでは記録21段で終わってしまうが、QUICK MUSCLEでは自己記録86回からの大躍進で当時の芸能人新記録となる204回をマークした(その後池谷に抜かされる)。ファイナルまで残ったが種目がFINAL RUNであったため、現在SHOT-GUN-TOUCHは未経験。これは、歴代ファイナリストで唯一の事例。
       - 第15回大会 総合4位
       - MONSTER BOX 21段(世界歴代11位タイ。非公認記録23段)、QUICK MUSCLE 204回(芸能人歴代4位)、ULTIMATE GUYS 1分22秒63
 
@@ -1733,7 +1733,7 @@
 
 <!-- end list -->
 
-  - [金田賢一](https://ja.wikipedia.org/wiki/金田賢一 "wikilink") 1回出場
+  - [金田賢一](../Page/金田賢一.md "wikilink") 1回出場
       - 第5回に出場。BEACH FLAGSは1回戦敗退。長身を活かせずMONSTER BOXは記録なし。同じく総合0Pの寺門ジモン、筧利夫と共に挑んだQUICK MUSCLEは失格となり、0Pの総合最下位で脱落。
       - MONSTER BOX 記録なし、QUICK MUSCLE 失格
 
@@ -1752,7 +1752,7 @@
 
 <!-- end list -->
 
-  - [川野太郎](https://ja.wikipedia.org/wiki/川野太郎 "wikilink") 1回出場
+  - [川野太郎](../Page/川野太郎.md "wikilink") 1回出場
       - 第1回に出場。コツコツとポイントを稼ぐも、総合9位で脱落を喫した。
       - MONSTER BOX 13段、QUICK MUSCLE 44回
 
@@ -1764,7 +1764,7 @@
 
 <!-- end list -->
 
-  - [木村剛](https://ja.wikipedia.org/wiki/木村剛_\(俳優\) "wikilink") 2回出場
+  - [木村剛](../Page/木村剛_\(俳優\).md "wikilink") 2回出場
       - 第11回で初出場。総合9位で脱落となるも、肉体改造をして臨んだ第12回では、MONSTER BOXで17段成功、QUICK MUSCLEは前回の記録を倍近く上回る等、各種目で自己記録を更新したが、総合8位でファイナル進出とまでは成らなかった。
       - MONSTER BOX 17段、QUICK MUSCLE 121回、WORK OUT GUYS 1分28秒47、BURN OUT GUYS 1分16秒69
 
@@ -1795,7 +1795,7 @@
 
 <!-- end list -->
 
-  - [源](https://ja.wikipedia.org/wiki/源_\(俳優\) "wikilink") 1回出場・新王座チャレンジバトル出場
+  - [源](../Page/源_\(俳優\).md "wikilink") 1回出場・新王座チャレンジバトル出場
       - 予選通過で第17回に初出場するも、5P差でファイナル進出を逃し総合7位で終わる。MONSTER BOXで11段を成功させた後パスを続け、15段を失敗し記録11段になった事が原因であった。その後の出場権獲得バスツアーで1位通過し、リベンジを誓った新王座チャレンジバトルではMONSTER BOXで前回の借りを返す18段を記録。最終種目まで暫定総合3位となるもSHOT-GUN-TOUCHで記録を残せず、総合6位で終わった。
       - 新王座チャレンジバトル 総合6位
       - 新王座チャレンジバトル MONSTER BOX No.1、新王座チャレンジバトル PECTO CROSS No.1
@@ -1809,19 +1809,19 @@
 
 <!-- end list -->
 
-  - [香田晋](https://ja.wikipedia.org/wiki/香田晋 "wikilink") 1回出場
+  - [香田晋](../Page/香田晋.md "wikilink") 1回出場
       - 第3回に初出場。コツコツとポイントを稼ぐも、総合7位で脱落を喫した。
       - MONSTER BOX 14段、QUICK MUSCLE 65回
 
 <!-- end list -->
 
-  - [五代高之](https://ja.wikipedia.org/wiki/五代高之 "wikilink") 1回出場
+  - [五代高之](../Page/五代高之.md "wikilink") 1回出場
       - 第2回のみ出場。目立った活躍ができず、総合10位タイで脱落を喫した。
       - QUICK MUSCLE 49回
 
 <!-- end list -->
 
-  - [小西博之](https://ja.wikipedia.org/wiki/小西博之 "wikilink") 5回出場
+  - [小西博之](../Page/小西博之.md "wikilink") 5回出場
       - 第1回から出場の芸能人大会屈指のパワー系選手。第1回は総合11位で脱落するも、第2回で、LOG相撲で種目別No.1を獲得。初のファイナリスト入りを果たし、総合5位入賞となった。その後、4大会ぶりに出場した第6回は総合14位に低迷。第7回も総合13位だったが、最後の出場となった第8回は、MONSTER BOXで初出場以来超えられなかった13段を成功。QUICK MUSCLEでも自己記録を更新した。
       - 第2回大会 総合5位
       - 第2回大会 LOG相撲 No.1(初代No.1)
@@ -1829,25 +1829,25 @@
 
 <!-- end list -->
 
-  - [ゴルゴ松本](https://ja.wikipedia.org/wiki/ゴルゴ松本 "wikilink") 1回出場
+  - [ゴルゴ松本](../Page/ゴルゴ松本.md "wikilink") 1回出場
       - 第10回に出場。BURN OUT GUYSは腹筋までは好調だったが、雲梯で落下して失格。POWER FORCEも1回戦敗退で、この種目終了時点で唯一0Pであったが、MONSTER BOXで13段を記録しポイントこそ獲得したものの、BURN OUT GUYSの失格が響いて総合最下位で脱落。尚、BURN OUT GUYSでの失格者は彼が初めてである。また、多くの芸人が笑いを忘れて取り組むのに対し、彼は常に観客に笑いをアピールするのが特徴。
       - MONSTER BOX 13段、BURN OUT GUYS 失格
 
 <!-- end list -->
 
-  - [ゴン](https://ja.wikipedia.org/wiki/ビックスモールン "wikilink") 1回出場
+  - [ゴン](../Page/ビックスモールン.md "wikilink") 1回出場
       - 第16回に出場。REVOLUTIONは決勝でお笑いの先輩であるワッキーと1対1の争いを繰り広げて2位。結局、この種目のみでしか見せ場が作れず総合9位で脱落。その後、相方のチロが予選会通過で第17回と新王座チャレンジバトルに出場。この回ではゴンが応援に回っている。
       - MONSTER BOX 12段、QUICK MUSCLE 32回
 
 <!-- end list -->
 
-  - [斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink") 1回出場
+  - [斎藤工](../Page/斎藤工.md "wikilink") 1回出場
       - 第13回に出場。SPIN OFFは1回戦でワッキーに敗北。その後、生き残りの当落線上にいる中で挑んだQUICK MUSCLEで失格となった事が致命傷となってしまい、総合13位で脱落。
       - MONSTER BOX 14段、QUICK MUSCLE 失格、BURN OUT GUYS 1分27秒63
 
 <!-- end list -->
 
-  - [酒井一圭](https://ja.wikipedia.org/wiki/酒井一圭 "wikilink") 1回出場
+  - [酒井一圭](../Page/酒井一圭.md "wikilink") 1回出場
       - 第11回に出場。BURN OUT GUYSで金子昇との[ガオレンジャー対決が実現するが](../Page/百獣戦隊ガオレンジャー.md "wikilink")、金子に30秒以上の大差をつけられる惨敗を喫し、QUICK MUSCLEも失格。総合14位で終えた。
       - MONSTER BOX 12段、QUICK MUSCLE 失格、BURN OUT GUYS 1分42秒07
 
@@ -1861,7 +1861,7 @@
 
 <!-- end list -->
 
-  - [坂上忍](https://ja.wikipedia.org/wiki/坂上忍 "wikilink") 1回出場
+  - [坂上忍](../Page/坂上忍.md "wikilink") 1回出場
       - 第6回に出場していたのだが、BEACH FLAGSで2回戦敗退後、体調不良を理由に残りの種目を棄権した。
       - MONSTER BOX 棄権、QUICK MUSCLE 棄権
 
@@ -1881,21 +1881,21 @@
 
 <!-- end list -->
 
-  - [佐藤弘道](https://ja.wikipedia.org/wiki/佐藤弘道 "wikilink") 1回出場・新王座チャレンジバトル出場
-      - 新王座チャレンジバトルで当時38歳でのコロッセオ初出場。[VIKINGでの芸能界最強王として知られる](https://ja.wikipedia.org/wiki/海筋肉王_〜バイキング〜 "wikilink")。PECTO CROSS、MONSTER BOXと随所で健闘を魅せ、MUSCLE GYMで初代芸能人記録保持者に。暫定総合2位でSHOT-GUN-TOUCHに挑み、12m10cmを成功すれば暫定総合1位に上がるはずだったが、失敗してしまい結果は総合4位に終わる。第18回では、MONSTER BOXとMUSCLE GYMで自己記録を更新し、2大会連続のファイナル進出を果たしたが、SHOT-GUN-TOUCHで3回共失敗し、総合6位という結果に終わり、エンディングのインタビューでは号泣していた。
+  - [佐藤弘道](../Page/佐藤弘道.md "wikilink") 1回出場・新王座チャレンジバトル出場
+      - 新王座チャレンジバトルで当時38歳でのコロッセオ初出場。[VIKINGでの芸能界最強王として知られる](../Page/海筋肉王_〜バイキング〜.md "wikilink")。PECTO CROSS、MONSTER BOXと随所で健闘を魅せ、MUSCLE GYMで初代芸能人記録保持者に。暫定総合2位でSHOT-GUN-TOUCHに挑み、12m10cmを成功すれば暫定総合1位に上がるはずだったが、失敗してしまい結果は総合4位に終わる。第18回では、MONSTER BOXとMUSCLE GYMで自己記録を更新し、2大会連続のファイナル進出を果たしたが、SHOT-GUN-TOUCHで3回共失敗し、総合6位という結果に終わり、エンディングのインタビューでは号泣していた。
       - 新王座チャレンジバトル 総合4位、第18回大会 総合6位
       - 新王座チャレンジバトル MUSCLE GYM No.1(初代No.1)
       - MONSTER BOX 17段、SHOT-GUN-TOUCH 11m50cm、MUSCLE GYM 229回(芸能人歴代3位)、PECTO CROSS 55kg
 
 <!-- end list -->
 
-  - [佐藤寛之](https://ja.wikipedia.org/wiki/佐藤寛之 "wikilink") 1回出場
+  - [佐藤寛之](../Page/佐藤寛之.md "wikilink") 1回出場
       - 第2回のみ出場。TAIL IMPOSSIBLEやQUICK MUSCLEで頑張りを見せるも、総合8位タイで脱落を喫した。
       - QUICK MUSCLE 73回
 
 <!-- end list -->
 
-  - [シェイン・コスギ](https://ja.wikipedia.org/wiki/シェイン・コスギ "wikilink") 1回出場
+  - [シェイン・コスギ](../Page/シェイン・コスギ.md "wikilink") 1回出場
       - 第9回に出場。MONSTER BOXでは19段を記録し種目別No.1を獲得するが、TAIL IMPOSSIBLEで負傷した為途中棄権となった。
       - 第9回大会 MONSTER BOX No.1
       - MONSTER BOX 19段、BURN OUT GUYS 1分27秒96
@@ -1929,13 +1929,13 @@
 
 <!-- end list -->
 
-  - [清水宏次朗](https://ja.wikipedia.org/wiki/清水宏次朗 "wikilink") 5回出場
+  - [清水宏次朗](../Page/清水宏次朗.md "wikilink") 5回出場
       - 第3回に初出場。元体操部・跳馬経験者としてMONSTER BOXに凄まじき情熱を燃やし、第3・4回は記録14段に終わるが、第5回で悲願の電話ボックス越えとなる15段成功。第6回では更に16段を成功してみせた。合宿を決行して臨んだ第7回は、MONSTER BOXで11段成功後、パスを続け、自己記録に挑むも失敗。さらに手首負傷でQUICK MUSCLE棄権を強いられ、総合14位という悔やんでも悔やみきれない結果に終わる。
       - MONSTER BOX 16段、QUICK MUSCLE 57回、WORK OUT GUYS 2分12秒22、DASH 7秒30
 
 <!-- end list -->
 
-  - [庄司智春](https://ja.wikipedia.org/wiki/庄司智春 "wikilink") 1回出場・新王座チャレンジバトル出場
+  - [庄司智春](../Page/庄司智春.md "wikilink") 1回出場・新王座チャレンジバトル出場
       - 20kg近い減量をして挑んだ初出場の第17回は相方の品川祐も出場した、コンビが揃って出場した珍しいケース。0Pの総合最下位でコロッセオを去った品川とは対照的に、自身は総合8位とファイナリストに一歩及ばない成績での脱落。新王座チャレンジバトルにも出場したが、またも総合8位で悲願のファイナル進出をまたも逃してしまった。腕立て伏せが得意でQUICK MUSCLEとMUSCLE GYMで健闘した。
       - MONSTER BOX 14段、QUICK MUSCLE 156回、MUSCLE GYM 204回(芸能人歴代9位)、PECTO CROSS 55kg
 
@@ -1963,7 +1963,7 @@
 
 <!-- end list -->
 
-  - [新藤栄作](https://ja.wikipedia.org/wiki/新藤栄作 "wikilink") 1回出場
+  - [新藤栄作](../Page/新藤栄作.md "wikilink") 1回出場
       - 第2回のみに出場。全体的に活躍を作る事ができず、総合13位で脱落を喫した。
       - QUICK MUSCLE 55回
 
@@ -1975,21 +1975,21 @@
 
 <!-- end list -->
 
-  - [高橋光臣](https://ja.wikipedia.org/wiki/高橋光臣 "wikilink") 新王座チャレンジバトル出場
+  - [高橋光臣](../Page/高橋光臣.md "wikilink") 新王座チャレンジバトル出場
       - 上位2名が出場できる出場権獲得バスツアーで第3位となるも、出場予定だったレイザーラモンHGの欠場による繰り上がりで新王座チャレンジバトルに出場を果たす。各種目で健闘を見せ、ファイナル進出を果たし、迎えたSHOT-GUN-TOUCHでは2本成功させた後の最終試技で12m00cmを成功し、遂に暫定総合1位となるも、ワッキーに逆転され、総合2位となった。
       - 新王座チャレンジバトル 総合2位
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 12m00cm(芸能人歴代10位タイ)、MUSCLE GYM 175回、PECTO CROSS 60kg
 
 <!-- end list -->
 
-  - [滝川英治](https://ja.wikipedia.org/wiki/滝川英治 "wikilink") 2回出場
+  - [滝川英治](../Page/滝川英治.md "wikilink") 2回出場
       - 第14回で初出場。QUICK MUSCLEでは初出場で100回超え、POWER FORCE2回戦進出の活躍を見せるも総合10位タイで脱落。第16回でMONSTER BOXの自己記録更新を果たすも、QUICK MUSCLE自己記録を下回ったこと、SPIN OFFで初戦敗退が影響し、またも総合10位で脱落となった。
       - 『究極の男は誰だ\!?最強スポーツ男子頂上決戦』にも出演。
       - MONSTER BOX 14段、QUICK MUSCLE 104回
 
 <!-- end list -->
 
-  - [竹原慎二](https://ja.wikipedia.org/wiki/竹原慎二 "wikilink") 4回出場・スペシャルバトル出場
+  - [竹原慎二](../Page/竹原慎二.md "wikilink") 4回出場・スペシャルバトル出場
       - 第8回で初出場。元WBA世界ミドル級チャンピオンの肩書きも空しく、総合最下位という結果に終わってしまうが、第10回ではPOWER FORCEで準決勝に進出、MONSTER BOXで自己記録2段更新するなど総合8位。その後は第11回は総合11位、第13回は自身2度目の総合最下位と成績は振るわなかった。
       - MONSTER BOX 14段、QUICK MUSCLE 83回、WORK OUT GUYS 1分40秒89、BURN OUT GUYS 1分29秒52、三色筋肉 103回
 
@@ -2001,13 +2001,13 @@
 
 <!-- end list -->
 
-  - [団長](https://ja.wikipedia.org/wiki/団長安田 "wikilink") 1回出場・新王座チャレンジバトル出場
+  - [団長](../Page/団長安田.md "wikilink") 1回出場・新王座チャレンジバトル出場
       - 新王座チャレンジバトルで初出場も、不本意な総合10位タイ。第18回にも出場し、MUSCLE GYMで自己記録を更新。BEACH FLAGSも3回戦に進出したが総合11位に終わった。MUSCLE GYMが得意で、毎回200回を突破する。ゴルゴ松本同様、常に観客に笑いをアピールするのが特徴。
       - MONSTER BOX 12段、MUSCLE GYM 208回(芸能人歴代8位)、PECTO CROSS 50kg
 
 <!-- end list -->
 
-  - [ダンテ](https://ja.wikipedia.org/wiki/ダンテ・カーヴァー "wikilink") 1回出場・新王座チャレンジバトル出場
+  - [ダンテ](../Page/ダンテ・カーヴァー.md "wikilink") 1回出場・新王座チャレンジバトル出場
       - 新王座チャレンジバトルで初出場。2種目を制覇する活躍も、MONSTER BOXの途中で腕を負傷したことが災いし、暫定総合1位で迎えたSHOT-GUN-TOUCHでは記録なしとなってしまい、総合5位に終わる。第18回にも出場し、BEACH FLAGSは準決勝まで残るも、SPIN OFF 1回戦敗退やMONSTER BOXでは前回の記録に届かない結果になったり、MUSCLE GYMでもあまり良い記録が出せず、総合7位タイで脱落となった。
       - 新王座チャレンジバトル 総合5位
       - 新王座チャレンジバトル MONSTER BOX No.1、新王座チャレンジバトル CONQUISTADOR No.1
@@ -2023,13 +2023,13 @@
 
 <!-- end list -->
 
-  - [チロ](https://ja.wikipedia.org/wiki/ビックスモールン "wikilink") 1回出場・新王座チャレンジバトル出場・公認記録会出場
+  - [チロ](../Page/ビックスモールン.md "wikilink") 1回出場・新王座チャレンジバトル出場・公認記録会出場
       - 元々は、第16回に出場した相方のゴンの応援でコロッセオに足を運んでいた。その後、予選通過を経て第17回と新王者チャレンジバトルに出場。身長156cmとコロッセオ史上最も小柄な体格ながら、MONSTER BOXで一般的な身長の選手と同じく16段の高さをクリアして他の選手を驚かせた。また、チロが参戦するようになってからゴンが応援に回ることになった。
       - MONSTER BOX 16段、QUICK MUSCLE 100回、MUSCLE GYM 191回、PECTO CROSS 40kg
 
 <!-- end list -->
 
-  - [堤大二郎](https://ja.wikipedia.org/wiki/堤大二郎 "wikilink") 1回出場
+  - [堤大二郎](../Page/堤大二郎.md "wikilink") 1回出場
       - 第3回に初出場。最下位で迎えたQUICK MUSCLEでは、86回の好記録で4位に入る活躍を見せるも、序盤の遅れを取り戻せず総合13位で脱落を喫した。
       - MONSTER BOX 10段、QUICK MUSCLE 86回
 
@@ -2048,7 +2048,7 @@
 
 <!-- end list -->
 
-  - [徳永善也](https://ja.wikipedia.org/wiki/徳永善也 "wikilink") 1回出場
+  - [徳永善也](../Page/徳永善也.md "wikilink") 1回出場
       - 第4回に出場。3種目終了時点で0Pの状態で挑んだQUICK MUSCLEでは、23回目をカウントした時点で二の腕の痙攣から全く動けず。2分近くも堪えた末、何とか失格を免れた。
       - MONSTER BOX 記録なし、QUICK MUSCLE 23回
 
@@ -2076,13 +2076,13 @@
 
 <!-- end list -->
 
-  - [永島敏行](https://ja.wikipedia.org/wiki/永島敏行 "wikilink") 1回出場
+  - [永島敏行](../Page/永島敏行.md "wikilink") 1回出場
       - 第5回に出場。QUICK MUSCLE終了時点で脱落のはずだったが、寺門ジモンの棄権により繰り上がりで脱落を免れた。また、TAIL IMPOSSIBLEでは意地で3位に入り、自力で次の足切りを突破。その後、初登場のWORK OUT GUYSで6位に入るも、総合10位で脱落。
       - MONSTER BOX 12段、QUICK MUSCLE 記録なし、WORK OUT GUYS 2分58秒41
 
 <!-- end list -->
 
-  - [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink") 1回出場
+  - [中野浩一](../Page/中野浩一.md "wikilink") 1回出場
       - 記念すべき第1回に出場。POWER FORCEでNo.1の活躍を見せ、総合3位の結果を残した。
       - 第1回大会 総合3位
       - 第1回大会 POWER FORCE No.1(芸能人初代No.1)
@@ -2090,7 +2090,7 @@
 
 <!-- end list -->
 
-  - [中村繁之](https://ja.wikipedia.org/wiki/中村繁之 "wikilink") 4回出場
+  - [中村繁之](../Page/中村繁之.md "wikilink") 4回出場
       - 第1回から出場。第7回ではMONSTER BOXで自己記録3段更新、QUICK MUSCLE 3位、TAIL IMPOSSIBLE 6位、POWER FORCE 4位とブランクを感じさせない活躍で総合6位。最後の出場である第9回はTAIL IMPOSSIBLE終了時点で暫定総合10位という苦しい状況だったが、QUICK MUSCLEで当時芸能人歴代3位の166回を叩き出し、念願の種目別No.1を獲得。再び総合6位に入った。QUICK MUSCLEに賭けていて、毎回自己記録を更新していた。一方、MONSTER BOXは3回挑戦し第7回以外はいずれも記録12段に終わっている。第7回と第9回は共に5P差でファイナルに滑り込み、出場した4大会でファイナル進出率100%を達成した。
       - 第1回大会 総合4位、第2回大会 総合3位、第7・9回大会 総合6位
       - 第9回大会 QUICK MUSCLE No.1
@@ -2104,19 +2104,19 @@
 
 <!-- end list -->
 
-  - [西川弘志](https://ja.wikipedia.org/wiki/西川弘志 "wikilink") 1回出場
+  - [西川弘志](../Page/西川弘志.md "wikilink") 1回出場
       - 第6回に出場。MONSTER BOXとQUICK MUSCLEの記録がいずれも下位の成績という苦しい戦いに。生き残りを懸けたPOWER FORCEも1回戦敗退となり、総合13位で脱落した。
       - MONSTER BOX 12段、QUICK MUSCLE 46回
 
 <!-- end list -->
 
-  - [錦野旦](https://ja.wikipedia.org/wiki/錦野旦 "wikilink") 3回出場
+  - [錦野旦](../Page/錦野旦.md "wikilink") 3回出場
       - 第8回で初出場。当時大会史上最年長選手にして大会史上初の50代での参加であったが、WORK OUT GUYSでは野村将希に肉薄する好記録をマークし5位に入る。第9回はBEACH FLAGSで他の選手が撮り損ねた旗を掴む勝利を連発して3回戦進出も、腰痛で3回戦及びその後の種目を棄権した。MONSTER BOXにとても愛着があり、常に腰痛を抱えての参戦であったため、第11回では全ての競技を棄権しMOSTER BOX一本に搾ったほどであるが、まさかの記録なしに終わってしまう。
       - MONSTER BOX 13段、QUICK MUSCLE 45回、WORK OUT GUYS 1分21秒70
 
 <!-- end list -->
 
-  - [西興一朗](https://ja.wikipedia.org/wiki/西興一朗 "wikilink") 1回出場
+  - [西興一朗](../Page/西興一朗.md "wikilink") 1回出場
       - 第15回に出場。ULTIMATE GUYSは最下位で、QUICK MUSCLEも失格。SPIN OFFは井坂俊哉とのヒーロー対決に敗れて総合最下位に沈む。
       - MONSTER BOX 12段、QUlCK MUSCLE 失格、ULITlMATE GUYS 1分27秒42
 
@@ -2129,19 +2129,19 @@
 
 <!-- end list -->
 
-  - [新田純一](https://ja.wikipedia.org/wiki/新田純一 "wikilink") 2回出場
+  - [新田純一](../Page/新田純一.md "wikilink") 2回出場
       - 第7回で初出場。BEACH FLAGSは1回戦敗退、QUICK MUSCLEも失格になった事が響いて総合最下位タイで脱落。第8回では、前回失格のQUICK MUSCLEで95回の記録を残した。
       - MONSTER BOX 11段、QUICK MUSCLE 95回、WORK OUT GUYS 2分22秒27
 
 <!-- end list -->
 
-  - [野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink") 1回出場
+  - [野々村真](../Page/野々村真.md "wikilink") 1回出場
       - 第2回のみ出場。総合10位タイで脱落を喫した。
       - QUICK MUSCLE 20回
 
 <!-- end list -->
 
-  - [野村将希](https://ja.wikipedia.org/wiki/野村将希 "wikilink") サバイバルバトル全18大会出場・公認記録会出場
+  - [野村将希](../Page/野村将希.md "wikilink") サバイバルバトル全18大会出場・公認記録会出場
       - 当時43歳で第1回で初出場してから、新王座チャレンジバトルを除く全大会に出場。DEAD MAN'S DROPとWORK OUT GUYSの初代種目別No.1獲得者である。50代を越えても大会に出場し、MONSTER BOXやQUICK MUSCLEなどで歳を重ねるごとに記録を伸ばしていることから**コロッセオの鉄人**と呼ばれている。特に第11回大会ではMONSTER BOX、QUICK MUSCLE、SHOT-GUN-TOUCHの3種目で自己記録を更新、大会史上初にして現在まで、唯一となる50代でのファイナリストとなった。18大会中過去4度のファイナル進出経験があり、そこで挑んだSHOT-GUN-TOUCHでは毎回自己記録を更新していた。脱落となったとしても、7位や8位という総合順位で終わる大会も多い。スピードも問われるSPIN OFFこそ苦手としているものの、得意のパワー系種目は一通り種目別No.1を獲得していて、POWER FORCEでは、芸能人大会で秒殺勝利を連発していたケイン・コスギに対し互角に渡り合った。
       - 第1回大会 総合2位、第5回大会 総合3位、第4・11回大会 総合5位
       - 第10回大会 POWER FORCE No.1、第5回大会 WORK OUT GUYS No.1(初代No.1)、第4回大会 LOG相撲 No.1、第2回大会 DODGE POLES No.1、第1回大会 DEAD MAN'S DROP No.1(初代No.1)
@@ -2149,7 +2149,7 @@
 
 <!-- end list -->
 
-  - [パッション屋良](https://ja.wikipedia.org/wiki/パッション屋良 "wikilink") 2回出場
+  - [パッション屋良](../Page/パッション屋良.md "wikilink") 2回出場
       - 第16回で初出場。SPIN OFFで種目別No.1を獲得。QUICK MUSCLEでは197回という初挑戦最高記録を叩き出し、総合4位。第18回はSPIN OFFの1回戦でなかやまきんに君に勝利し、SHOT-GUN-TOUCHで自己記録更新。再び総合4位に。パワー・スピード・跳躍力を兼ね備えているが、中でもSPIN OFFは圧倒的な強さを誇り、出場した2大会で共に決勝に進出している。
       - 第16・18回大会 総合4位
       - 第16回大会 SPIN OFF No.1
@@ -2175,13 +2175,13 @@
 
 <!-- end list -->
 
-  - [深沢邦之](https://ja.wikipedia.org/wiki/深沢邦之 "wikilink") 3回出場
+  - [深沢邦之](../Page/深沢邦之.md "wikilink") 3回出場
       - 第7回で初出場。MONSTER BOXにとてつもない執念を燃やしており、電話ボックスの高さである15段を目標としていた。続く第8回で夢を叶えるも、4年振りに参戦した第15回では初出場時と同じ13段に終わった。
       - MONSTER BOX 15段、QUICK MUSCLE 69回、WORK OUT GUYS 1分38秒39、ULTIMATE GUYS 1分22秒09
 
 <!-- end list -->
 
-  - [冨家規政](https://ja.wikipedia.org/wiki/冨家規政 "wikilink") 2回出場
+  - [冨家規政](../Page/冨家規政.md "wikilink") 2回出場
       - 第3回に初出場して総合6位入賞。第5回大会ではTAIL IMPOSSIBLE終了時点で暫定総合9位であったが、今大会初登場のWORK OUT GUYSで2位に入り、暫定総合4位に浮上しファイナル進出。前回一度もボールに触れられなかったSHOT-GUN-TOUCHで3本全て成功し、11m10cmの記録を作り、野村将希との3位争いの末総合4位入賞となった。
       - 第5回大会 総合4位、第3回大会 総合6位
       - MONSTER BOX 12段、QUICK MUSCLE 89回、SHOT-GUN-TOUCH 11m10cm、WORK OUT GUYS 2分27秒16
@@ -2202,20 +2202,20 @@
 
 <!-- end list -->
 
-  - [魔裟斗](https://ja.wikipedia.org/wiki/魔裟斗 "wikilink") 1回出場
+  - [魔裟斗](../Page/魔裟斗.md "wikilink") 1回出場
       - 第9回に出場。当時、モデル活動も行っていたため、K-1ミドル級日本王者として史上初となる現役選手の参戦となった。初登場のBURN OUT GUYSで5位に入るも、TAIL IMPOSSIBLEが第1レースで転倒するアクシデントで第1レースでの脱落や、QUICK MUSCLEでは30回以上の空振りなどが響き、総合12位で脱落。
       - 『究極の男は誰だ\!?最強スポーツ男子頂上決戦』にも出演。
       - MONSTER BOX 13段、QUICK MUSCLE 106回、BURN OUT GUYS 1分20秒40、ETERNAL JUMP 通算回数63回
 
 <!-- end list -->
 
-  - [松尾政寿](https://ja.wikipedia.org/wiki/松尾政寿 "wikilink") 3回出場
+  - [松尾政寿](../Page/松尾政寿.md "wikilink") 3回出場
       - 第10回で初出場。MONSTER BOXでは15段の記録を残すも、総合10位で脱落。第11回ではMONSTER BOXで自己記録を16段に更新。QUICK MUSCLEも自己記録を更新するペースだったが、2分30秒を過ぎたところで堪えきれずに失格となり、最終的に総合12位で脱落。第12回ではQUICK MASCLEを欠場し、総合最下位に沈んだ。
       - MONSTER BOX 16段、QUICK MUSCLE 59回、WORK OUT GUYS 1分32秒59、BURN OUT GUYS 1分29秒52
 
 <!-- end list -->
 
-  - [松田優](https://ja.wikipedia.org/wiki/松田優 "wikilink") 1回出場
+  - [松田優](../Page/松田優.md "wikilink") 1回出場
       - 第4回に出場。QUICK MUSCLEに絶対の自信を持ち、目標を150回に設定。上半身裸で筋骨隆々の肉体を誇示して挑むも敢え無く失格。0Pの総合最下位で脱落の屈辱を味わった。
       - MONSTER BOX 記録なし、QUICK MUSCLE 失格
 
@@ -2236,14 +2236,14 @@
 
 <!-- end list -->
 
-  - [宮川一朗太](https://ja.wikipedia.org/wiki/宮川一朗太 "wikilink") 1回出場
+  - [宮川一朗太](../Page/宮川一朗太.md "wikilink") 1回出場
       - 第3回に初出場。芸能人大会で、今大会のみ行われた頭脳系種目THIRTYでNo.1を取る活躍を見せるも、総合10位で脱落を喫した。
       - 第3回大会 THIRTY No.1
       - MONSTER BOX 記録なし、QUICK MUSCLE 35回
 
 <!-- end list -->
 
-  - [宮下直紀](https://ja.wikipedia.org/wiki/宮下直紀 "wikilink") 8回出場
+  - [宮下直紀](../Page/宮下直紀.md "wikilink") 8回出場
       - 第1回から第8回まで皆勤賞。QUICK MUSCLEの初代種目別No.1獲得者である。BEACH FLAGSでは第3回で2位、第4回で3位に入っていたが、第5回から3大会連続2回戦敗退に終わっている。WORK OUT GUYSでは、第5回で暫定総合7位で挑んで3位に入り、逆転で第3回以来となるファイナル進出。第6回もこの種目で2位に入り、逆転でファイナルに進出。ガッツ溢れるプレーが特徴で、MONSTER BOXに激突も厭わない。また、感極まって涙を流す事もあり、第4回、第7回(どちらも逆転されてファイナル進出を逃した大会)の脱落時は堪え切れずに号泣した。最後の出場となった第8回はBEACH FLAGSでは、3年ぶりに3回戦進出したが、得意のWORK OUT GUYSが振るわず11位に沈み、さらに前回4位に入っているTAIL IMPOSSIBLEは第1レースで敗退したのが響き、総合9位。出場した全大会で4〜9位の総合順位を推移する安定感を持っていた。
       - 第3回大会 総合4位、第6回大会 総合5位、第5回大会 総合6位
       - 第1回大会 QUICK MUSCLE No.1(初代No.1)
@@ -2258,7 +2258,7 @@
 
 <!-- end list -->
 
-  - [森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink") 2回出場
+  - [森脇健児](../Page/森脇健児.md "wikilink") 2回出場
       - 第2回に初出場し総合4位入賞。QUICK MUSCLEでは110回と、この回では116回のケイン・コスギに肉薄する回数を叩き出した。第3回では、TAIL IMPOSSIBLEで初の種目別No.1を獲得。出場した2大会共にファイナリストに入った。
       - 第2回大会 総合4位、第3回大会 総合5位
       - 第3回大会 TAIL IMPOSSIBLE No.1
@@ -2266,13 +2266,13 @@
 
 <!-- end list -->
 
-  - [諸星和己](https://ja.wikipedia.org/wiki/諸星和己 "wikilink") 1回出場・新王座チャレンジバトル出場
-      - 新王座チャレンジバトルで初出場。CONQUISTADORで決勝進出。暫定総合4位タイで挑んだMUSCLE GYMだったが、腕立て伏せで大失速してしまい、5P差でファイナル進出を逃してしまう。アメリカで肉体改造して、出場した第18回では、練習したBEACH FLAGSでは不本意な2回戦敗退、SPIN OFFでは1回戦敗退と序盤では苦戦を強いられるもMONSTER BOXでは自己記録を2段更新した。なかやまきんに君を上回る暫定総合8位で挑んだMUSCLE GYMで自己記録更新するもハイレベルだったためポイントが思うように獲得できず、総合9位に終わる。新王座チャレンジバトルから10年前の第2回大会で同じ元[光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")のメンバーである[佐藤寛之](https://ja.wikipedia.org/wiki/佐藤寛之 "wikilink")も出場しており、総合8位タイで終わっている。
+  - [諸星和己](../Page/諸星和己.md "wikilink") 1回出場・新王座チャレンジバトル出場
+      - 新王座チャレンジバトルで初出場。CONQUISTADORで決勝進出。暫定総合4位タイで挑んだMUSCLE GYMだったが、腕立て伏せで大失速してしまい、5P差でファイナル進出を逃してしまう。アメリカで肉体改造して、出場した第18回では、練習したBEACH FLAGSでは不本意な2回戦敗退、SPIN OFFでは1回戦敗退と序盤では苦戦を強いられるもMONSTER BOXでは自己記録を2段更新した。なかやまきんに君を上回る暫定総合8位で挑んだMUSCLE GYMで自己記録更新するもハイレベルだったためポイントが思うように獲得できず、総合9位に終わる。新王座チャレンジバトルから10年前の第2回大会で同じ元[光GENJI](../Page/光GENJI.md "wikilink")のメンバーである[佐藤寛之](../Page/佐藤寛之.md "wikilink")も出場しており、総合8位タイで終わっている。
       - MONSTER BOX 16段、MUSCLE GYM 197回(芸能人歴代10位)、PECTO CROSS 50kg
 
 <!-- end list -->
 
-  - [山川豊](https://ja.wikipedia.org/wiki/山川豊 "wikilink") 1回出場
+  - [山川豊](../Page/山川豊.md "wikilink") 1回出場
       - 第3回に初出場。全体的に目立った活躍を作る事ができず、総合最下位で脱落を喫した。
       - MONSTER BOX 12段、QUICK MUSCLE 34回
 
@@ -2286,7 +2286,7 @@
 
 <!-- end list -->
 
-  - [山崎賢太](https://ja.wikipedia.org/wiki/山崎賢太 "wikilink") 3回出場
+  - [山崎賢太](../Page/山崎賢太.md "wikilink") 3回出場
       - 第13回で初出場。SPIN OFFで種目別No.1も、QUICK MUSCLEの失格が響き脱落。種目別No.1を獲得しながらファイナルに進めなかった選手は、途中棄権を除けばわずか5人の事例。第14回は初のファイナル進出で総合6位。第15回は総合7位で2大会連続ファイナル進出はならなかった。SPIN OFFが得意で、前述の通り第13回にNo.1になり、第14回も決勝進出を果たしたが、第15回は対戦相手が知幸だったため、まさかの1回戦敗退となった。MONSTER BOXでは毎回自己記録を更新していた。
       - 第14回大会 総合6位
       - 第13回大会 SPIN OFF No.1
@@ -2294,14 +2294,14 @@
 
 <!-- end list -->
 
-  - [山下規介](https://ja.wikipedia.org/wiki/山下規介 "wikilink") 1回出場
+  - [山下規介](../Page/山下規介.md "wikilink") 1回出場
       - 第1回出場。コツコツとポイントを稼ぎ、最終種目に進出。総合6位という結果を残した。
       - 第1回大会 総合6位
       - MONSTER BOX 11段、QUICK MUSCLE 63回、SHOT-GUN-TOUCH 記録なし
 
 <!-- end list -->
 
-  - [山本陽一](https://ja.wikipedia.org/wiki/山本陽一 "wikilink") 1回出場
+  - [山本陽一](../Page/山本陽一.md "wikilink") 1回出場
       - 第4回に出場。MONSTER BOXが記録なしとなるも、THE BEST OF TUGGERの2回戦進出が効いて最初の足切りは突破。しかしDASHが予選敗退となり、総合12位タイで脱落。
       - MONSTER BOX 記録なし、QUICK MUSCLE 62回、DASH 7秒62
 
@@ -2313,7 +2313,7 @@
 
 <!-- end list -->
 
-  - [吉田友一](https://ja.wikipedia.org/wiki/吉田友一 "wikilink") 1回出場
+  - [吉田友一](../Page/吉田友一.md "wikilink") 1回出場
       - 第14回に出場。SPIN OFFの1回戦ではイワンとの日韓イケメン対決で逆転負け。QUICK MUSCLEは記録68回が全選手中、最下位であった事が響き総合13位で脱落。
       - MONSTER BOX 14段、QUICK MUSCLE 68回
 
@@ -2325,31 +2325,31 @@
 
 <!-- end list -->
 
-  - [レイザーラモンHG](https://ja.wikipedia.org/wiki/レイザーラモンHG "wikilink") 1回出場
-      - [VIKINGでの芸能界最強王決定戦では佐藤弘道に次いで](https://ja.wikipedia.org/wiki/海筋肉王_〜バイキング〜 "wikilink")2位という好成績を残したこととして知られる。新王座チャレンジバトルでの出場予定だったが、腰を負傷して欠場した為、第18回に出場。MONSTER BOXでは13段を飛び越えたものの、飛び越える前に足が激突したため失敗。他の種目も目立った結果を出せず総合12位に終わった。尚、芸風の都合上、帽子とサングラスをモチーフにしたマスク着用という珍しい恰好で試技に臨んでいた。
+  - [レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink") 1回出場
+      - [VIKINGでの芸能界最強王決定戦では佐藤弘道に次いで](../Page/海筋肉王_〜バイキング〜.md "wikilink")2位という好成績を残したこととして知られる。新王座チャレンジバトルでの出場予定だったが、腰を負傷して欠場した為、第18回に出場。MONSTER BOXでは13段を飛び越えたものの、飛び越える前に足が激突したため失敗。他の種目も目立った結果を出せず総合12位に終わった。尚、芸風の都合上、帽子とサングラスをモチーフにしたマスク着用という珍しい恰好で試技に臨んでいた。
       - MONSTER BOX 12段、MUSCLE GYM 167回
 
 <!-- end list -->
 
-  - [渡辺慶](https://ja.wikipedia.org/wiki/渡辺啓 "wikilink") 2回出場
+  - [渡辺慶](../Page/渡辺啓.md "wikilink") 2回出場
       - 第2回で初出場も、第1種目終了時点で棄権した為、0Pの総合最下位に終わる。第4回はBEACH FLAGSは1回戦突破。MONSTER BOXとQUICK MUSCLEで記録を残してポイントこそ獲得したものの、上位勢には及ばず総合14位で脱落となった。
       - MONSTER BOX 11段、QUICK MUSCLE 53回
 
 <!-- end list -->
 
-  - [渡辺大](https://ja.wikipedia.org/wiki/渡辺大 "wikilink") 1回出場
+  - [渡辺大](../Page/渡辺大.md "wikilink") 1回出場
       - 第15回に出場。SPIN OFFの2回戦進出以外は見せ場を残す事無く、総合14位で脱落。父・[渡辺謙](../Page/渡辺謙.md "wikilink")の影響で実況から「[ラストサムライ](../Page/ラストサムライ.md "wikilink")の遺伝子を持つ男」としきりに呼ばれていた。
       - MONSTER BOX 11段、QUlCK MUSCLE 43回、ULITlMATE GUYS 1分26秒58
 
 <!-- end list -->
 
-  - [渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink") 1回出場
+  - [渡辺裕之](../Page/渡辺裕之.md "wikilink") 1回出場
       - 第2回のみ出場。DODGE POLESではケインに敗れ、その後もポイントを稼げず、総合12位で脱落を喫した。
       - QUICK MUSCLE 76回
 
 ### プロスポーツマン・芸能人両大会
 
-  - [ボビー・オロゴン](https://ja.wikipedia.org/wiki/ボビー・オロゴン "wikilink") プロ2回・芸能人1回出場
+  - [ボビー・オロゴン](../Page/ボビー・オロゴン.md "wikilink") プロ2回・芸能人1回出場
       - 格闘家として、第11回プロスポーツマン大会に参戦。奔放な発言と行動、更にはMONSTER BOXで13段成功という予想外の活躍で、ある意味台風の目の存在であった。第14回芸能人大会にも参戦。MONSTER BOXは自己記録に届かない12段に終わり、QUICK MUSCLEは95回で100回に届かず。POWER FORCE1回戦で、石丸謙二郎との2分以上の激戦の末に敗れ、総合最下位に終わる。
       - MONSTER BOX 13段、SHOT-GUN-TOUCH 記録なし、QUICK MUSCLE 138回、WORK OUT GUYS 1分23秒85
 
@@ -2374,14 +2374,14 @@
 
 <!-- end list -->
 
-  - [須藤元気](https://ja.wikipedia.org/wiki/須藤元気 "wikilink") プロ1回・芸能人2回出場
+  - [須藤元気](../Page/須藤元気.md "wikilink") プロ1回・芸能人2回出場
       - 第12回芸能人大会で初出場。MONSTER BOX終了時点で暫定総合10位と苦戦していたが、その後の種目でポイントを稼ぎ、ファイナル進出で総合5位。続く第13回はBEACH FLAGSで準々決勝進出。前回記録なしのMONSTER BOXは自己記録6段更新の16段成功の活躍を見せたが、ファイナル進出は15P差に泣き、総合7位で脱落。2006年にプロスポーツマン大会に初出場。スペシャルバトルのQUICK MUSCLEに参戦し、自己記録を更新した。
       - 第12回芸能人大会 総合5位
       - MONSTER BOX 16段(格闘技記録タイ)、SHOT-GUN-TOUCH 11m50cm、QUICK MUSCLE 182回(芸能人歴代7位)、WORK OUT GUYS 1分15秒77、BURN OUT GUYS 1分08秒33
 
 <!-- end list -->
 
-  - [武田修宏](https://ja.wikipedia.org/wiki/武田修宏 "wikilink") プロ6回・芸能人1回出場
+  - [武田修宏](../Page/武田修宏.md "wikilink") プロ6回・芸能人1回出場
       - 第1回プロスポーツマン大会で初出場。DASHは決勝で飯田哲也に敗北。最終順位は総合2位。第3回はSHOT-GUN-TOUCHで当時のサッカー選手記録である12m20cmを成功。総合6位に入るも、その後、成績は振るわず。現役引退後の2003年春に、第11回芸能人サバイバルバトルに出場。若き精鋭達の前に苦戦を強いられながらも、意地で総合4位入賞となった。
       - 第1回プロ大会 総合2位、第3回プロ大会 総合6位
       - 第11回芸能人大会 総合4位
@@ -2389,7 +2389,7 @@
 
 <!-- end list -->
 
-  - [内藤尚行](https://ja.wikipedia.org/wiki/内藤尚行 "wikilink") プロ1回・芸能人1回出場
+  - [内藤尚行](../Page/内藤尚行.md "wikilink") プロ1回・芸能人1回出場
       - 第1回プロスポーツマン大会に参戦し、POWER FORCEの初代種目別No.1に。第7回芸能人サバイバルバトルでは芸能人無敗のケイン・コスギに唯一の黒星をつけ、史上初のプロ・芸能人大会の両方でPOWER FORCEのダブルタイトルを獲得。今大会ではQUICK MUSCLE終了時点で暫定総合12位という苦戦を強いられながら、TAIL IMPOSSIBLEは決勝レース進出で3位、前述のPOWER FORCEでの種目別No.1で、暫定総合4位にジャンプアップ。ファイナル進出も果たして総合4位。パワーバトルにも出場。POWER FORCEではNo.1大本命だったが太田章に敗れる。THE TUG-OF-WARでもNo.1候補だったが、体重で劣る鯨井保年を相手に、まさかの敗退となった。
       - 第1回プロ大会 総合6位
       - 第7回芸能人大会 総合4位
@@ -2428,8 +2428,8 @@
 
 ### プロスポーツマン・アマチュアスポーツマン・芸能人全大会
 
-  - [池谷直樹](https://ja.wikipedia.org/wiki/池谷直樹 "wikilink") プロ8回・芸能人9回・アマチュア1回・スペシャルバトル1回・公認記録会出場
-      - 兄・[池谷幸雄](https://ja.wikipedia.org/wiki/池谷幸雄 "wikilink")と共にアマチュアスポーツマン大会等に出場し、MONSTER BOXで18段の記録を残す。その後はMONSTER BOXのコーチとして番組に関わっていたが、第5回芸能人大会に初参戦。MONSTER BOXで23段の世界記録を作り、5P差でケイン・コスギに勝利し、総合初優勝を果たす。第8回プロスポーツマン大会を最後に出場が途絶えていたが、第12回芸能人大会で復活し、大会2連覇を達成。その後プロスポーツマン大会でも2004年の第10回大会から毎回出場している。2005年の第11回で初めてプロスポーツマン大会総合No.1となり、ケインに続く史上2人目の芸能人・プロスポーツマンの両大会で総合No.1を獲得した選手となった。史上初の元日連覇が懸った2006年の第12回では3種目連続No.1を達成するも、SHOT-GUN-TOUCHでは12m50cmの1回目の試技で足をつるというアクシデントが発生。最終的に[宮崎大輔](https://ja.wikipedia.org/wiki/宮崎大輔 "wikilink")に逆転を許し、1位と僅か5P差の総合2位で終えた。スピード系種目が得意で、BEACH FLAGSはプロ・芸能人含めて計7回No.1となっており、SHOT-GUN-TOUCHは芸能人歴代2位の12m90cmを記録している。QUICK MUSCLE、BURN OUT GUYSも得意で数度No.1となっている。
+  - [池谷直樹](../Page/池谷直樹.md "wikilink") プロ8回・芸能人9回・アマチュア1回・スペシャルバトル1回・公認記録会出場
+      - 兄・[池谷幸雄](../Page/池谷幸雄.md "wikilink")と共にアマチュアスポーツマン大会等に出場し、MONSTER BOXで18段の記録を残す。その後はMONSTER BOXのコーチとして番組に関わっていたが、第5回芸能人大会に初参戦。MONSTER BOXで23段の世界記録を作り、5P差でケイン・コスギに勝利し、総合初優勝を果たす。第8回プロスポーツマン大会を最後に出場が途絶えていたが、第12回芸能人大会で復活し、大会2連覇を達成。その後プロスポーツマン大会でも2004年の第10回大会から毎回出場している。2005年の第11回で初めてプロスポーツマン大会総合No.1となり、ケインに続く史上2人目の芸能人・プロスポーツマンの両大会で総合No.1を獲得した選手となった。史上初の元日連覇が懸った2006年の第12回では3種目連続No.1を達成するも、SHOT-GUN-TOUCHでは12m50cmの1回目の試技で足をつるというアクシデントが発生。最終的に[宮崎大輔](../Page/宮崎大輔.md "wikilink")に逆転を許し、1位と僅か5P差の総合2位で終えた。スピード系種目が得意で、BEACH FLAGSはプロ・芸能人含めて計7回No.1となっており、SHOT-GUN-TOUCHは芸能人歴代2位の12m90cmを記録している。QUICK MUSCLE、BURN OUT GUYSも得意で数度No.1となっている。
         ケインとは番組側からライバルと称されていた。総合成績では1勝5敗と水をあけられたが、MONSTER BOXでは4勝1敗1分と意地を見せた。
       - 『[究極の男は誰だ\!?最強スポーツ男子頂上決戦](https://ja.wikipedia.org/wiki/究極の男は誰だ!?最強スポーツ男子頂上決戦 "wikilink")』にも出演。
       - 第11回プロ大会 総合No.1、第12・14回プロ大会 総合2位、第7・13回プロ大会 総合3位、第10回プロ大会 総合5位、第8回プロ大会 総合7位
@@ -2463,19 +2463,19 @@
 
 <!-- end list -->
 
-  - [川村ひかる](https://ja.wikipedia.org/wiki/川村ひかる "wikilink") 1回出場
+  - [川村ひかる](../Page/川村ひかる.md "wikilink") 1回出場
       - BURN OUT GIRLS(1分13秒14)
       - 第1回に出場。BURN OUT GIRLSは3位のタイムで暫定総合3位につけたものの、戦前に自信が無いと語っていた最終種目のTAIL IMPOSSIBLEで第2レース敗退となり、悔し涙を流した。
 
 <!-- end list -->
 
-  - [小宮理英](https://ja.wikipedia.org/wiki/小宮理英 "wikilink") 1回出場
+  - [小宮理英](../Page/小宮理英.md "wikilink") 1回出場
       - MONSTER BOX 7段、BURN OUT GIRLS(1分12秒94)
-      - 第2回に出場。後に[KUNOICHI](https://ja.wikipedia.org/wiki/KUNOICHI "wikilink")完全制覇者となる実力者だが、BURN OUT GIRLSは屈辱のブービータイム。TAIL IMPOSSIBLEも大きく出遅れての第3レース脱落と、全く力を発揮できず、屈辱の総合7位に沈んだ。
+      - 第2回に出場。後に[KUNOICHI](../Page/KUNOICHI.md "wikilink")完全制覇者となる実力者だが、BURN OUT GIRLSは屈辱のブービータイム。TAIL IMPOSSIBLEも大きく出遅れての第3レース脱落と、全く力を発揮できず、屈辱の総合7位に沈んだ。
 
 <!-- end list -->
 
-  - [西端さおり](https://ja.wikipedia.org/wiki/西端さおり "wikilink") 2回出場
+  - [西端さおり](../Page/西端さおり.md "wikilink") 2回出場
       - MONSTER BOX 9段、BURN OUT GIRLS(1分07秒18)
       - 第1回で初出場。TAIL IMPOSSIBLEでは第3レースの途中で貧血で倒れるという過酷な戦いを強いられ、総合7位。続く第2回はBURN OUT GIRLSで4位と進化した所を見せたが、総合5位に終わった。
 
@@ -2487,7 +2487,7 @@
 
 <!-- end list -->
 
-  - [福澄美緒](https://ja.wikipedia.org/wiki/福澄美緒 "wikilink") 1回出場
+  - [福澄美緒](../Page/福澄美緒.md "wikilink") 1回出場
       - MONSTER BOX 5段、BURN OUT GIRLS(1分20秒95)
       - 第2回に出場。今大会に登場した3種目において、全て最下位。
 
@@ -2510,17 +2510,17 @@
       - 第1・2・3回大会 総合No.1
       - 第1・2回大会 BURN OUT GIRLS No.1、第2回大会 MONSTER BOX No.1、第1回大会 TAIL IMPOSSIBLE No.1
       - MONSTER BOX 12段、BURN OUT GIRLS(58秒17)、三色筋肉131回
-      - 第1回から出場。2種目全てを制して、初代総合No.1を獲得。連覇を懸けた第2回も2種目を制するも、最終種目のTAIL IMPOSSIBLEで[山田玲奈](https://ja.wikipedia.org/wiki/山田玲奈 "wikilink")に敗れて2位。総合連覇こそ果たすも、目標の全種目制覇を逃した。第3回は種目別No.1こそ無かったが全種目で2位。SPIN OFFの1回戦で山田との直接対決に勝利したこともあり、総合3連覇を達成。開催された3大会全てで総合No.1を獲得した。
+      - 第1回から出場。2種目全てを制して、初代総合No.1を獲得。連覇を懸けた第2回も2種目を制するも、最終種目のTAIL IMPOSSIBLEで[山田玲奈](../Page/山田玲奈.md "wikilink")に敗れて2位。総合連覇こそ果たすも、目標の全種目制覇を逃した。第3回は種目別No.1こそ無かったが全種目で2位。SPIN OFFの1回戦で山田との直接対決に勝利したこともあり、総合3連覇を達成。開催された3大会全てで総合No.1を獲得した。
 
 ### 跳び箱・樽投げ世界一決定戦
 
-  - [アレクセイ・ネモフ](https://ja.wikipedia.org/wiki/アレクセイ・ネモフ "wikilink") 2回出場
+  - [アレクセイ・ネモフ](../Page/アレクセイ・ネモフ.md "wikilink") 2回出場
       - MONSTER BOX 20段
       - アトランタ五輪でMONSTER BOXに初挑戦して18段の記録を残す。その後、個人総合金メダルを手にしたシドニー五輪で再挑戦し、自己記録を2段更新する20段を成功してみせたが、雷雨で競技が中断。日本で競技が再開されるも参加しなかった。
 
 <!-- end list -->
 
-  - [イワン・ティホン](https://ja.wikipedia.org/wiki/イワン・チホン "wikilink") 2回出場
+  - [イワン・ティホン](../Page/イワン・チホン.md "wikilink") 2回出場
       - THE GALLON THROW 7m50cm(世界歴代5位)
       - 2004年にTHE GALLON THROWに初挑戦。ジョン・ゴディナ、室伏広治のライバルと目されていたが、記録7m00cmで完敗。続く2005年に出場した際は自己記録を50cm更新する7m50cmを成功。しかし7m75cmは無念の失敗となった。
 
@@ -2539,7 +2539,7 @@
 
 <!-- end list -->
 
-  - [ジョン・ゴディナ](https://ja.wikipedia.org/wiki/ジョン・ゴディナ "wikilink") 3回出場
+  - [ジョン・ゴディナ](../Page/ジョン・ゴディナ.md "wikilink") 3回出場
       - THE GALLON THROW World Championship 2002 No.1
       - THE GALLON THROW 7m75cm(世界歴代3位タイ)
       - 2002年にTHE GALLON THROWに初挑戦。これまでのこの種目の世界記録であった6m20cmを他の選手同様、あっさりと更新させると、7m00cmをクリアして、室伏広治との一騎討ちに。結果は室伏が失敗した7m75cmを成功させ、No.1と世界記録の座に。続く2004年だったが、自己記録を下回る記録7m25cmで試技終了。室伏に世界記録を奪われる事に。2005年は2回目の試技で7m50cmを成功するも、自己記録タイに失敗した。
@@ -2558,7 +2558,7 @@
 
 <!-- end list -->
 
-  - [水鳥寿思](https://ja.wikipedia.org/wiki/水鳥寿思 "wikilink") 1回出場
+  - [水鳥寿思](../Page/水鳥寿思.md "wikilink") 1回出場
       - MONSTER BOX World Championship 2005 No.1
       - MONSTER BOX 23段(世界記録)
       - 日本とアテネの同時中継で行われた、アテネ五輪でMONSTER BOXに初挑戦。完璧な跳躍を次々と披露して、21段までノーミスでクリア。遂には世界記録の23段を両足着地で成功させるという前代未聞の跳躍で、アテネ会場のモーガン・ハムに次いで、史上4人目の23段成功の快挙を達成した。続く世界新記録の24段も成功が期待されたが失敗。「多分、人間としては不可能じゃないなと思いました」という言葉を残した。
@@ -2572,7 +2572,7 @@
 
 <!-- end list -->
 
-  - [楊威](https://ja.wikipedia.org/wiki/楊威 "wikilink") 1回出場
+  - [楊威](../Page/楊威.md "wikilink") 1回出場
       - MONSTER BOX 20段
       - シドニー五輪でMONSTER BOXに初挑戦。20段まで成功させるも、雷雨で競技が中断。日本で競技が再開されるも参加しなかった。その後、母国開催された北京五輪で個人総合金メダルに輝くも、MONSTER BOXは行われず。この1回のみの挑戦となった。
 
@@ -2585,13 +2585,13 @@
 
 <!-- end list -->
 
-  - [米田功](https://ja.wikipedia.org/wiki/米田功 "wikilink") 1回出場
+  - [米田功](../Page/米田功.md "wikilink") 1回出場
       - MONSTER BOX 21段
       - 日本とアテネの同時中継で行われた、アテネ五輪で水鳥寿思と共にMONSTER BOXに初挑戦。20段と21段を1回目を失敗した後の2回目で修正して成功してみせたが、続く22段は共に跳び箱に激突してしまい試技終了となった。
 
 <!-- end list -->
 
-  - [ヨルダン・ヨブチェフ](https://ja.wikipedia.org/wiki/ヨルダン・ヨブチェフ "wikilink") 2回出場
+  - [ヨルダン・ヨブチェフ](../Page/ヨルダン・ヨブチェフ.md "wikilink") 2回出場
       - MONSTER BOX 20段
       - シドニー五輪でMONSTER BOXに初挑戦。20段を超えられず記録19段で試技終了。その後、大会の中断を経て行われた日本での再挑戦の場にも参加したが、再び20段に失敗してしまう。その後、3度目の挑戦となったアテネ五輪で遂に20段を成功させた。
 
@@ -2622,7 +2622,7 @@
 
 <!-- end list -->
 
-  - [畑山隆則](https://ja.wikipedia.org/wiki/畑山隆則 "wikilink") スペシャルバトル出場
+  - [畑山隆則](../Page/畑山隆則.md "wikilink") スペシャルバトル出場
       - 三色筋肉 155回
       - 2001年のスペシャルバトルとして行われた三色筋肉で、竹原慎二と新旧ボクシング世界王者対決。当時、現役の底力を見せ、OBの竹原に52回差をつけた。
 
@@ -2650,14 +2650,14 @@
 | 第1回(II)       | 1995年1月1日 | [飯田哲也](https://ja.wikipedia.org/wiki/飯田哲也_\(野球\) "wikilink")       | [プロ野球](../Page/日本プロ野球.md "wikilink")                                                       | [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/ヤクルトスワローズ "wikilink") |
 | 第2回(V)        | 1996年1月2日 | [長谷川誠](https://ja.wikipedia.org/wiki/長谷川誠_\(バスケットボール\) "wikilink") | [バスケットボール](../Page/バスケットボール.md "wikilink")                                                 | [松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")         |
 | 第3回(VIII)     | 1997年1月2日 | [松井稼頭央](https://ja.wikipedia.org/wiki/松井稼頭央 "wikilink")            | プロ野球                                                                                       | [西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")     |
-| 第4回(X)        | 1998年1月1日 | [緒方孝市](https://ja.wikipedia.org/wiki/緒方孝市 "wikilink")              | プロ野球                                                                                       | [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")                        |
+| 第4回(X)        | 1998年1月1日 | [緒方孝市](../Page/緒方孝市.md "wikilink")                                 | プロ野球                                                                                       | [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")                        |
 | 第5回(XIII)     | 1999年1月1日 | 飯田哲也                                                               | プロ野球                                                                                       | ヤクルトスワローズ                                                       |
 | 第6回(XV)       | 2000年1月1日 | [ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink")        | [俳優](../Page/俳優.md "wikilink")                                                             | [サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")        |
-| 第7回(XVIII)    | 2001年1月1日 | [大畑大介](https://ja.wikipedia.org/wiki/大畑大介 "wikilink")              | [ラグビー](../Page/ラグビー.md "wikilink")                                                         | [神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼 "wikilink")           |
-| 第8回(XX)       | 2002年1月1日 | [室伏広治](../Page/室伏広治.md "wikilink")                                 | [陸上](../Page/陸上競技.md "wikilink")・[ハンマー投げ](https://ja.wikipedia.org/wiki/ハンマー投げ "wikilink") | [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")             |
+| 第7回(XVIII)    | 2001年1月1日 | [大畑大介](../Page/大畑大介.md "wikilink")                                 | [ラグビー](../Page/ラグビー.md "wikilink")                                                         | [神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼 "wikilink")           |
+| 第8回(XX)       | 2002年1月1日 | [室伏広治](../Page/室伏広治.md "wikilink")                                 | [陸上](../Page/陸上競技.md "wikilink")・[ハンマー投げ](https://ja.wikipedia.org/wiki/ハンマー投げ "wikilink") | [ミズノ](../Page/ミズノ.md "wikilink")                                |
 | 第9回(XXIII)    | 2003年1月1日 | 大畑大介                                                               | ラグビー                                                                                       | モンフェラン                                                          |
-| 第10回(XXVI)    | 2004年1月1日 | [三浦貴](https://ja.wikipedia.org/wiki/三浦貴 "wikilink")                | プロ野球                                                                                       | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")   |
-| 第11回(XXVIII)  | 2005年1月1日 | [池谷直樹](https://ja.wikipedia.org/wiki/池谷直樹 "wikilink")              | [体操](https://ja.wikipedia.org/wiki/体操 "wikilink")・[タレント](../Page/タレント.md "wikilink")       | [ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")           |
+| 第10回(XXVI)    | 2004年1月1日 | [三浦貴](../Page/三浦貴.md "wikilink")                                   | プロ野球                                                                                       | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")   |
+| 第11回(XXVIII)  | 2005年1月1日 | [池谷直樹](../Page/池谷直樹.md "wikilink")                                 | [体操](../Page/体操.md "wikilink")・[タレント](../Page/タレント.md "wikilink")                          | [ホリプロ](../Page/ホリプロ.md "wikilink")                              |
 | 第12回(XXXI)    | 2006年1月1日 | [宮﨑大輔](https://ja.wikipedia.org/wiki/宮﨑大輔 "wikilink")              | [ハンドボール](../Page/ハンドボール.md "wikilink")                                                     | [大崎OSOL](https://ja.wikipedia.org/wiki/大崎OSOL "wikilink")       |
 | 第13回(XXXIV)   | 2007年1月1日 | [ポール・A・テレック](../Page/ポール・アンソニー・テレック.md "wikilink")                 | 陸上・[十種競技](../Page/十種競技.md "wikilink")                                                      | [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")代表         |
 | 第14回(XXXVII)  | 2008年1月1日 | 宮﨑大輔                                                               | ハンドボール                                                                                     | 大崎OSOL                                                          |
@@ -2671,7 +2671,7 @@
 | 第2回(IX)      | 1997年4月2日       | [ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink") |
 | 第3回(XI)      | 1998年4月1日       | ケイン・コスギ                                                     |
 | 第4回(XII)     | 1998年10月2日      | ケイン・コスギ                                                     |
-| 第5回(XIV)     | 1999年3月26日      | [池谷直樹](https://ja.wikipedia.org/wiki/池谷直樹 "wikilink")       |
+| 第5回(XIV)     | 1999年3月26日      | [池谷直樹](../Page/池谷直樹.md "wikilink")                          |
 | 第6回(XVI)     | 2000年3月24日      | ケイン・コスギ                                                     |
 | 第7回(XVII)    | 2000年10月10日・14日 | ケイン・コスギ                                                     |
 | 第8回(XIX)     | 2001年3月23日      | [照英](../Page/照英.md "wikilink")                              |
@@ -2713,9 +2713,9 @@
 
 ## 使用されている音楽
 
-グランドオープニング（コロッセオが姿を現し、実況に乗せ参加者が入場してくるシーン）で流れている曲は『[レッド・オクトーバーを追え\!](https://ja.wikipedia.org/wiki/レッド・オクトーバーを追え! "wikilink")』のオリジナルサウンドトラックに収録されている。
+グランドオープニング（コロッセオが姿を現し、実況に乗せ参加者が入場してくるシーン）で流れている曲は『[レッド・オクトーバーを追え\!](../Page/レッド・オクトーバーを追え!.md "wikilink")』のオリジナルサウンドトラックに収録されている。
 
-この番組の予告CMで使われている曲は『KULL THE CONQUEROR』（邦題は「ザ・コンクエスト 征服大王カル」）オリジナルサウンドトラックの1曲目である（[キング・カル](https://ja.wikipedia.org/wiki/キング・カル "wikilink")を参照）。また、同じ曲が「MONSTER BOX」のクライマックスでも流れる。他にも洋画や機動戦士ガンダム、スーパーロボット大戦などのゲーム、アニメのサウンドトラックが番組内で流れる。
+この番組の予告CMで使われている曲は『KULL THE CONQUEROR』（邦題は「ザ・コンクエスト 征服大王カル」）オリジナルサウンドトラックの1曲目である（[キング・カル](../Page/キング・カル.md "wikilink")を参照）。また、同じ曲が「MONSTER BOX」のクライマックスでも流れる。他にも洋画や機動戦士ガンダム、スーパーロボット大戦などのゲーム、アニメのサウンドトラックが番組内で流れる。
 
 ## レッドジャージとイエロージャージ
 
@@ -2723,7 +2723,7 @@
 
 ## ゲーム　
 
-  - [体感ゲーム版](../Page/大型筐体ゲーム.md "wikilink")**『SASUKE&筋肉バトル\!\!スポーツマンNo.1決定戦』**（[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink")）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")発売。当番組の競技のうち、「MONSTER BOX」「SHOT-GUN-TOUCH」「BURN OUT GUYS」「THE　GALLON　THROW」「QUICK MUSCLE」を収録。
+  - [体感ゲーム版](../Page/大型筐体ゲーム.md "wikilink")**『SASUKE&筋肉バトル\!\!スポーツマンNo.1決定戦』**（[エポック社](../Page/エポック社.md "wikilink")）[2006年](../Page/2006年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")発売。当番組の競技のうち、「MONSTER BOX」「SHOT-GUN-TOUCH」「BURN OUT GUYS」「THE　GALLON　THROW」「QUICK MUSCLE」を収録。
 
 <!-- end list -->
 
@@ -2733,15 +2733,15 @@
 
   - 総合実況：[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（2004年のプロスポーツマン大会まで）
   - メインリポーター：[栗山英樹](../Page/栗山英樹.md "wikilink")（第8回芸能人サバイバルバトルまで）
-  - ナレーター：[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")、[垂木勉](https://ja.wikipedia.org/wiki/垂木勉 "wikilink")（2010年のみ）
+  - ナレーター：[小林清志](../Page/小林清志.md "wikilink")、[垂木勉](../Page/垂木勉.md "wikilink")（2010年のみ）
   - 構成：[藤井誠](https://ja.wikipedia.org/wiki/藤井誠 "wikilink") / [つかはら](https://ja.wikipedia.org/wiki/塚原一成 "wikilink")、[小林昌弘](https://ja.wikipedia.org/wiki/小林昌弘 "wikilink") / [渡邊健一](https://ja.wikipedia.org/wiki/渡邊健一 "wikilink")
   - 総合演出・プロデューサー：[小掛義之](https://ja.wikipedia.org/wiki/小掛義之 "wikilink")
-  - 総合プロデューサー：[樋口潮](https://ja.wikipedia.org/wiki/樋口潮 "wikilink")
-  - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[ティ・エル・シー](https://ja.wikipedia.org/wiki/ティ・エル・シー "wikilink")
+  - 総合プロデューサー：[樋口潮](../Page/樋口潮.md "wikilink")
+  - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[ティ・エル・シー](../Page/ティ・エル・シー.md "wikilink")
   - 美術協力：[アックス](../Page/アックス_\(会社\).md "wikilink")
-  - 制作協力：[TIX'ヨ](https://ja.wikipedia.org/wiki/タイクス "wikilink")
-  - 制作：[Monster9](https://ja.wikipedia.org/wiki/Monster9 "wikilink")（以前は[TBSスポーツから](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[ドリマックスとして制作名義だった](../Page/ドリマックス・テレビジョン.md "wikilink")）
-  - 製作：[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")
+  - 制作協力：[TIX'ヨ](../Page/タイクス.md "wikilink")
+  - 制作：[Monster9](https://ja.wikipedia.org/wiki/Monster9 "wikilink")（以前は[TBSスポーツから](../Page/TBSテレビ.md "wikilink")[ドリマックスとして制作名義だった](../Page/ドリマックス・テレビジョン.md "wikilink")）
+  - 製作：[TBS](../Page/TBSテレビ.md "wikilink")
 
 ## 脚注
 
@@ -2751,18 +2751,18 @@
 
 ## 関連項目
 
-  - [筋肉番付シリーズ](https://ja.wikipedia.org/wiki/筋肉番付シリーズ "wikilink")
+  - [筋肉番付シリーズ](../Page/筋肉番付シリーズ.md "wikilink")
   - [究極の男は誰だ\!?最強スポーツ男子頂上決戦](https://ja.wikipedia.org/wiki/究極の男は誰だ!?最強スポーツ男子頂上決戦 "wikilink")
   - [SASUKE](https://ja.wikipedia.org/wiki/SASUKE "wikilink")
   - [炎の体育会TV](https://ja.wikipedia.org/wiki/炎の体育会TV "wikilink")
-  - [サスケマニア](https://ja.wikipedia.org/wiki/サスケマニア "wikilink")
-  - [マッスルパーク](https://ja.wikipedia.org/wiki/マッスルパーク "wikilink")
+  - [サスケマニア](../Page/サスケマニア.md "wikilink")
+  - [マッスルパーク](../Page/マッスルパーク.md "wikilink")
 
 **パロディ**
 
   - [週刊AKB](https://ja.wikipedia.org/wiki/週刊AKB "wikilink") - 2011年10月14日、21日放送で、「**最強のSKE48は誰だ\!? 運動神経No.1決定戦**」なるパロディを放送。複数の競技を実施して総合ポイントを競うところは共通しているものの全体的に個人戦ではなく紅白に分かれたチーム戦であるのと競技のほとんどが身体測定でやるものである。その他ロゴは本家をモデルにしている。
   - [有吉AKB共和国](https://ja.wikipedia.org/wiki/有吉AKB共和国 "wikilink") - 2011年から、「**AKB研究生 スポーツマンNo.1決定戦**」(AKB1〇期生No.1決定戦)なるパロディを不定期放送。番組の雰囲気(開催前の開催地に着いたばかりの選手をインタビューするところ等)やロゴは本家をモデルにしている他、2012年6月5日放送の「AKB13期生No.1決定戦」では芸能人サバイバルバトルのルール(規定の種目を終えたらメンバーが脱落する等)を導入している。
-  - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink") - 2016年5月11日放送分で、[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")がプレゼンした「**歌うまスポーツマンNo.1決定戦**」を放送。出場者は、庄司智春・レイザーラモンHG・[山田勝己](../Page/山田勝己.md "wikilink")・[亀田大毅](https://ja.wikipedia.org/wiki/亀田大毅 "wikilink")の4人。カラオケとスポーツを組み合わせた5種目に挑戦した。総合No.1は山田。
+  - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink") - 2016年5月11日放送分で、[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")がプレゼンした「**歌うまスポーツマンNo.1決定戦**」を放送。出場者は、庄司智春・レイザーラモンHG・[山田勝己](../Page/山田勝己.md "wikilink")・[亀田大毅](../Page/亀田大毅.md "wikilink")の4人。カラオケとスポーツを組み合わせた5種目に挑戦した。総合No.1は山田。
 
 ## 外部リンク
 

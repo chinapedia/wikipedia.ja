@@ -1,7 +1,7 @@
 > この記事は[HEARTBEAT](https://ja.wikipedia.org/wiki/HEARTBEAT)から翻訳されています。
 
 
-「**HEART☆BEAT**」（ハート・ビート）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")にリリースされた[MARIAの](https://ja.wikipedia.org/wiki/MARIA_\(バンド\) "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
+「**HEART☆BEAT**」（ハート・ビート）は、[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")にリリースされた[MARIAの](../Page/MARIA_\(バンド\).md "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
 
 初回限定生産盤では[DVD](../Page/DVD.md "wikilink")と「デルトラクエスト」オリジナルカード3種（ランダム）封入されている。通常盤では、ミニポスター型ジャケット（初回限定生産盤とは異なるジャケットデザイン）仕様となっている。
 
@@ -14,8 +14,8 @@
 
 1.  **HEART☆BEAT**
       -
-        作詞: TATTSU, 作曲: れいな, 編曲：[安原兵衛](https://ja.wikipedia.org/wiki/安原兵衛 "wikilink")・[宮永治郎](https://ja.wikipedia.org/wiki/宮永治郎 "wikilink")
-        [TX系アニメ](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[デルトラクエスト](https://ja.wikipedia.org/wiki/デルトラ・クエスト "wikilink")』オープニングテーマ
+        作詞: TATTSU, 作曲: れいな, 編曲：[安原兵衛](https://ja.wikipedia.org/wiki/安原兵衛 "wikilink")・[宮永治郎](../Page/宮永治郎.md "wikilink")
+        [TX系アニメ](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[デルトラクエスト](../Page/デルトラ・クエスト.md "wikilink")』オープニングテーマ
 2.  **JUMP**
       -
         作詞: あゆか, 作曲: SACCHIN, 編曲: 安原兵衛・宮永治郎

@@ -1,7 +1,7 @@
 > この記事は[0STORY](https://ja.wikipedia.org/wiki/0STORY)から翻訳されています。
 
 
-『**øSTORY**\[1\]』（ラブストーリー）は、[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現・[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）より[2000年](../Page/2000年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売された同社初の[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。『[ユーラシアエクスプレス殺人事件](https://ja.wikipedia.org/wiki/ユーラシアエクスプレス殺人事件 "wikilink")』同様、全編実写を特徴とする「シネマアクティブ」の第2弾である。
+『**øSTORY**\[1\]』（ラブストーリー）は、[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現・[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）より[2000年](../Page/2000年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売された同社初の[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。『[ユーラシアエクスプレス殺人事件](../Page/ユーラシアエクスプレス殺人事件.md "wikilink")』同様、全編実写を特徴とする「シネマアクティブ」の第2弾である。
 
 ## 物語
 
@@ -12,9 +12,9 @@
   - 霊（YOU）
     主人公の青年（プレイヤー）。バイク事故で死亡したが、天使の導きにより、愛を探すために霊となって地上へ降りる。肉体がないために常人とは会話はできないが、物を動かすことならでき、筆談などで会話をすることもできる。リナと共に過ごす中、彼女にYOU（ユー）と愛称を名付けられる。
   - 鮎川リナ
-    本作のヒロイン。アイドル歌手として順調な活動を続けているものの、大きなヒットには未だ恵まれておらず、内心では自分の本当の心を探し続けている。海辺に佇んでいるところで霊と出逢う。強気で気丈な性格だが、時としてナイーブな一面を見せる。いわゆる[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")。父の仕事の都合で一時期アメリカで生活していた。17歳。
+    本作のヒロイン。アイドル歌手として順調な活動を続けているものの、大きなヒットには未だ恵まれておらず、内心では自分の本当の心を探し続けている。海辺に佇んでいるところで霊と出逢う。強気で気丈な性格だが、時としてナイーブな一面を見せる。いわゆる[ツンデレ](../Page/ツンデレ.md "wikilink")。父の仕事の都合で一時期アメリカで生活していた。17歳。
   - 笹木初子（サキ）
-    リナのマネージャーを務める少女。霊感の持ち主で、主人公の霊の存在にもいち早く気づき、霊とも直接会話できる。のんびりした性格。[家出](https://ja.wikipedia.org/wiki/家出 "wikilink")して、[渋谷](../Page/渋谷.md "wikilink")駅でホームレス状態になっていたところをリナに拾われる。
+    リナのマネージャーを務める少女。霊感の持ち主で、主人公の霊の存在にもいち早く気づき、霊とも直接会話できる。のんびりした性格。[家出](../Page/家出.md "wikilink")して、[渋谷](../Page/渋谷.md "wikilink")駅でホームレス状態になっていたところをリナに拾われる。
   - 瀬能留未（ルビー）
     リナの親友で、かつて共に歌手を目指していたが、突如失踪。現在は歌の道を断念し、花屋で働いている。
   - 鍋島ひとみ（ヒトミ）
@@ -56,17 +56,17 @@
 ## 出演
 
   - 鮎川リナ：平山綾（現：[平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")）
-  - 笹木初子：[初音映莉子](https://ja.wikipedia.org/wiki/初音映莉子 "wikilink")
-  - 瀬能留未：[直瀬遥歩](https://ja.wikipedia.org/wiki/直瀬遥歩 "wikilink")
+  - 笹木初子：[初音映莉子](../Page/初音映莉子.md "wikilink")
+  - 瀬能留未：[直瀬遥歩](../Page/直瀬遥歩.md "wikilink")
   - 鍋島ひとみ：[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")
-  - 鷲尾保子：[小野麻亜矢](https://ja.wikipedia.org/wiki/小野麻亜矢 "wikilink")
+  - 鷲尾保子：[小野麻亜矢](../Page/小野麻亜矢.md "wikilink")
   - 占い師：[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")
   - 古木野真帆：[大河内奈々子](../Page/大河内奈々子.md "wikilink")
   - 天使：[藤崎奈々子](https://ja.wikipedia.org/wiki/藤崎奈々子 "wikilink")
   - ぷち天使：[山川恵里佳](../Page/山川恵里佳.md "wikilink")
-  - 小松原剛：[ノッチ](https://ja.wikipedia.org/wiki/ノッチ_\(お笑い芸人\) "wikilink")（[デンジャラス](https://ja.wikipedia.org/wiki/デンジャラス "wikilink")）
-  - 霜月春秋：[榊原利彦](https://ja.wikipedia.org/wiki/榊原利彦 "wikilink")
-  - 冬基冷丞：[前原一輝](https://ja.wikipedia.org/wiki/前原一輝 "wikilink")
+  - 小松原剛：[ノッチ](../Page/ノッチ_\(お笑い芸人\).md "wikilink")（[デンジャラス](../Page/デンジャラス.md "wikilink")）
+  - 霜月春秋：[榊原利彦](../Page/榊原利彦.md "wikilink")
+  - 冬基冷丞：[前原一輝](../Page/前原一輝.md "wikilink")
 
 ## 主題歌
 

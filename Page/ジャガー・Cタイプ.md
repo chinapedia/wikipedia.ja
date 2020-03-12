@@ -7,15 +7,15 @@
 
 ## 概要
 
-[1948年](../Page/1948年.md "wikilink")に発表された[ジャガー・XK120](https://ja.wikipedia.org/wiki/ジャガー・XK120 "wikilink")はその流麗なスタイリングと高性能さ、また同程度の性能を持つ[アストンマーティン](https://ja.wikipedia.org/wiki/アストンマーティン "wikilink")や[ベントレー](../Page/ベントレー.md "wikilink")と比べて圧倒的に安価だったことから大人気となり、ジャガーのイメージを決定づける重要なモデルとなった。
+[1948年](../Page/1948年.md "wikilink")に発表された[ジャガー・XK120](https://ja.wikipedia.org/wiki/ジャガー・XK120 "wikilink")はその流麗なスタイリングと高性能さ、また同程度の性能を持つ[アストンマーティン](../Page/アストンマーティン.md "wikilink")や[ベントレー](../Page/ベントレー.md "wikilink")と比べて圧倒的に安価だったことから大人気となり、ジャガーのイメージを決定づける重要なモデルとなった。
 
-[1950年](../Page/1950年.md "wikilink")10月\[1\]、会長である[ウィリアム・ライオンズ](https://ja.wikipedia.org/wiki/ウィリアム・ライオンズ "wikilink")はスポーティなイメージをより決定的なものにするため、[XK120をベースに改造した](https://ja.wikipedia.org/wiki/ジャガー・XK120 "wikilink")[レーシングカー](https://ja.wikipedia.org/wiki/レーシングカー "wikilink")で[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")へ参戦することを決定した\[2\]。そのために開発されたのがCタイプ\[3\]であり、レース開始6週間前の1951年5月初旬に最初の1台が完成した\[4\]。その後2台が製作され、[サルト・サーキット](https://ja.wikipedia.org/wiki/サルト・サーキット "wikilink")まで自走した\[5\]。XK120Cとも呼ばれるこのマシンはライオンズの思惑通り[1951年のル・マン24時間レース](https://ja.wikipedia.org/wiki/1951年のル・マン24時間レース "wikilink")\[6\]\[7\]でジャガーにル・マン初優勝をもたらし、さらに[1953年のル・マン24時間レース](https://ja.wikipedia.org/wiki/1953年のル・マン24時間レース "wikilink")\[8\]\[9\]にも優勝を果たし、ジャガーのイメージ向上に大きく貢献した。
+[1950年](../Page/1950年.md "wikilink")10月\[1\]、会長である[ウィリアム・ライオンズ](https://ja.wikipedia.org/wiki/ウィリアム・ライオンズ "wikilink")はスポーティなイメージをより決定的なものにするため、[XK120をベースに改造した](https://ja.wikipedia.org/wiki/ジャガー・XK120 "wikilink")[レーシングカー](../Page/レーシングカー.md "wikilink")で[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")へ参戦することを決定した\[2\]。そのために開発されたのがCタイプ\[3\]であり、レース開始6週間前の1951年5月初旬に最初の1台が完成した\[4\]。その後2台が製作され、[サルト・サーキット](../Page/サルト・サーキット.md "wikilink")まで自走した\[5\]。XK120Cとも呼ばれるこのマシンはライオンズの思惑通り[1951年のル・マン24時間レース](https://ja.wikipedia.org/wiki/1951年のル・マン24時間レース "wikilink")\[6\]\[7\]でジャガーにル・マン初優勝をもたらし、さらに[1953年のル・マン24時間レース](https://ja.wikipedia.org/wiki/1953年のル・マン24時間レース "wikilink")\[8\]\[9\]にも優勝を果たし、ジャガーのイメージ向上に大きく貢献した。
 
 ## メカニズム
 
-エンジンは3,441cc\[10\]\[11\]の[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")\[12\][DOHC](../Page/DOHC.md "wikilink")[XKエンジンで](https://ja.wikipedia.org/wiki/ジャガー・XKエンジン "wikilink")、クロード・ベイリー\[13\]が圧縮比8.0、[SU製キャブレター](https://ja.wikipedia.org/wiki/スキナーズ・ユニオン "wikilink")\[14\]はそのままに160hpから200hp\[15\]に[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")した。また圧縮比を9.0に上げた仕様では210hpを実現した\[16\]。
+エンジンは3,441cc\[10\]\[11\]の[直列6気筒](../Page/直列6気筒.md "wikilink")\[12\][DOHC](../Page/DOHC.md "wikilink")[XKエンジンで](https://ja.wikipedia.org/wiki/ジャガー・XKエンジン "wikilink")、クロード・ベイリー\[13\]が圧縮比8.0、[SU製キャブレター](https://ja.wikipedia.org/wiki/スキナーズ・ユニオン "wikilink")\[14\]はそのままに160hpから200hp\[15\]に[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")した。また圧縮比を9.0に上げた仕様では210hpを実現した\[16\]。
 
-[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")は4速[MT](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")。
+[トランスミッション](../Page/トランスミッション.md "wikilink")は4速[MT](../Page/マニュアルトランスミッション.md "wikilink")。
 
 シャシはラダー式から[チューブラー・フレーム](https://ja.wikipedia.org/wiki/チューブラー・フレーム "wikilink")\[17\]に変更されている。ホイールベースは2,440mm\[18\]。フロントサスペンションはほぼ同一のダブル・ウィッシュボーンとトーションバー\[19\]。リアサスペンションはリーフ式から変更され、ヘインズが考案し右寄りに配置された三角形ブラケットと2本のトレーリングリンクでアクスルを支持し横置きトーションバーをバネとする方式となった\[20\]。
 
@@ -36,7 +36,7 @@
 ## 関連項目
 
   - [ジャガー (自動車)](../Page/ジャガー_\(自動車\).md "wikilink")
-  - [ジャガー・XK140](https://ja.wikipedia.org/wiki/ジャガー・XK140 "wikilink")
+  - [ジャガー・XK140](../Page/ジャガー・XK140.md "wikilink")
 
 ## 注釈
 

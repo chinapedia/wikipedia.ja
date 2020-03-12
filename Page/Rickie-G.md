@@ -26,7 +26,7 @@
 <td><p>RZCD-45597</p></td>
 <td><ol>
 <li>逃飛行</li>
-<li>ラブレター（<a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS" title="wikilink">THE BLUE HEARTSのカバー</a>）</li>
+<li>ラブレター（<a href="../Page/THE_BLUE_HEARTS.md" title="wikilink">THE BLUE HEARTSのカバー</a>）</li>
 <li>JUNGLE MAN</li>
 <li>逃飛行（INSTRUMENTAL）</li>
 <li>逃飛行（A CAPPELLA）</li>
@@ -47,7 +47,7 @@
 <li>134（A CAPPELLA）</li>
 <li>134（INSTRUMENTAL）</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVエンディングテーマ</a><br />
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVエンディングテーマ</a><br />
 オリコン最高54位、登場回数5回</p></td>
 </tr>
 <tr class="odd">
@@ -217,7 +217,7 @@ RZCD-46384:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年1月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YA-KYIM" title="wikilink">YA-KYIM</a>「STILL ONLY ONE」</p></td>
+<td><p><a href="../Page/YA-KYIM.md" title="wikilink">YA-KYIM</a>「STILL ONLY ONE」</p></td>
 <td><p>VICL-61829</p></td>
 </tr>
 <tr class="even">
@@ -232,7 +232,7 @@ RZCD-46384:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年5月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JAY&#39;ED" title="wikilink">JAY'ED</a>「The Gift」</p></td>
+<td><p><a href="../Page/JAY&#39;ED.md" title="wikilink">JAY'ED</a>「The Gift」</p></td>
 <td><p>JDSCD-002</p></td>
 </tr>
 <tr class="odd">
@@ -247,7 +247,7 @@ RZCD-46384:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年6月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Miss_Monday" title="wikilink">Miss Monday</a>「&amp;I」</p></td>
+<td><p><a href="../Page/Miss_Monday.md" title="wikilink">Miss Monday</a>「&amp;I」</p></td>
 <td><p>ESCL-2843</p></td>
 </tr>
 <tr class="even">
@@ -363,7 +363,7 @@ RZCD-46088</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年07月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER" title="wikilink">RYO the SKYWALKER</a>「BEST2」</p></td>
+<td><p><a href="../Page/RYO_the_SKYWALKER.md" title="wikilink">RYO the SKYWALKER</a>「BEST2」</p></td>
 <td><p>RZCD-59400B<br />
 RZCD-59402</p></td>
 </tr>
@@ -431,7 +431,7 @@ RZCD-59402</p></td>
   - 2014年05月24日 - GREENROOM FESTIVAL '14
   - 2014年06月08日 - 頂 2014
   - 2014年07月27日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '14
-  - 2014年09月07日 - MIGHTY CROWN ENTERTAINMENT Presents [横浜レゲエ祭](https://ja.wikipedia.org/wiki/横浜レゲエ祭 "wikilink") 2014 -One Link-
+  - 2014年09月07日 - MIGHTY CROWN ENTERTAINMENT Presents [横浜レゲエ祭](../Page/横浜レゲエ祭.md "wikilink") 2014 -One Link-
   - 2015年04月25日 - KYOTO MUSE 25th ANNIVERSARY "25SOULS"
   - 2015年05月17日 - MEETS THE REGGAE 2015
   - 2015年05月23日 - GREENROOM FESTIVAL '15

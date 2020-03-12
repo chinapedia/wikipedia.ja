@@ -1,7 +1,7 @@
 > この記事は[JING TENG](https://ja.wikipedia.org/wiki/JING_TENG)から翻訳されています。
 
 
-**JING TENG**（ジンテン）は[兵庫県](../Page/兵庫県.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[シンガーである](../Page/歌手.md "wikilink")。2003年にレゲエグループ[KABUTO](https://ja.wikipedia.org/wiki/KABUTO "wikilink")[Tuff Sound Driveに加入](https://ja.wikipedia.org/wiki/Tuff_Sound_Drive "wikilink")。2005年に脱退。2007年東芝EMI（現[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）よりメジャーデビュー。[AWAKE SOUNDS](https://ja.wikipedia.org/wiki/AWAKE_SOUNDS "wikilink")（[Capitol Music](../Page/Capitol_Music.md "wikilink")）所属。2008年MIGHTY CROWN FAMILYから脱退。
+**JING TENG**（ジンテン）は[兵庫県](../Page/兵庫県.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[シンガーである](../Page/歌手.md "wikilink")。2003年にレゲエグループ[KABUTO](https://ja.wikipedia.org/wiki/KABUTO "wikilink")[Tuff Sound Driveに加入](https://ja.wikipedia.org/wiki/Tuff_Sound_Drive "wikilink")。2005年に脱退。2007年東芝EMI（現[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）よりメジャーデビュー。[AWAKE SOUNDS](https://ja.wikipedia.org/wiki/AWAKE_SOUNDS "wikilink")（[Capitol Music](../Page/Capitol_Music.md "wikilink")）所属。2008年MIGHTY CROWN FAMILYから脱退。
 
 ## ディスコグラフィー
 
@@ -43,7 +43,7 @@
 <li>Waving</li>
 <li>Reggae Music Sensation</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVオープニングテーマ</a><br />
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVオープニングテーマ</a><br />
 オリコン最高75位、登場回数4回</p></td>
 </tr>
 <tr class="even">
@@ -107,7 +107,7 @@
 <li>Friends</li>
 <li>Reggae Music Sensation</li>
 <li>Take It Easy</li>
-<li>再生 w/JUN 4 SHOT from <a href="https://ja.wikipedia.org/wiki/FIRE_BALL_(レゲエグループ)" title="wikilink">FIRE BALL</a></li>
+<li>再生 w/JUN 4 SHOT from <a href="../Page/FIRE_BALL_(レゲエグループ).md" title="wikilink">FIRE BALL</a></li>
 <li>Swimming w/<a href="https://ja.wikipedia.org/wiki/RAW_TECHNICAZ" title="wikilink">RAW TECHNICAZ</a></li>
 <li>次々と w/<a href="https://ja.wikipedia.org/wiki/BUFFMAN" title="wikilink">BUFFMAN</a></li>
 <li>Free Your Mind</li>
@@ -660,10 +660,10 @@ KSCL-1328</p></td>
 
 ## ミュージックビデオ
 
-|                                                     |                                 |
-| --------------------------------------------------- | ------------------------------- |
-| **監督**                                              | **曲名**                          |
-| [奥和義](https://ja.wikipedia.org/wiki/奥和義 "wikilink") | 「Friends」「TAKE IT EASY」「WAVING」 |
-|                                                     |                                 |
+|                                  |                                 |
+| -------------------------------- | ------------------------------- |
+| **監督**                           | **曲名**                          |
+| [奥和義](../Page/奥和義.md "wikilink") | 「Friends」「TAKE IT EASY」「WAVING」 |
+|                                  |                                 |
 
 [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink")

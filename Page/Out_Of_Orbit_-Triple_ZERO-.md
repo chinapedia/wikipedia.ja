@@ -1,7 +1,7 @@
 > この記事は[Out Of Orbit -Triple ZERO-](https://ja.wikipedia.org/wiki/Out_Of_Orbit_-Triple_ZERO-)から翻訳されています。
 
 
-「**Out Of Orbit 〜Triple ZERO〜**」（アウト・オブ・オービット トリプル・ゼロ）は、[2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の16thシングル。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。同年7月1日に再発盤がリリースされた。
+「**Out Of Orbit 〜Triple ZERO〜**」（アウト・オブ・オービット トリプル・ゼロ）は、[2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の16thシングル。発売元は[アンティノスレコード](../Page/エピックレコードジャパン.md "wikilink")。同年7月1日に再発盤がリリースされた。
 
 ## 概要
 
@@ -10,21 +10,21 @@
 ## 収録曲
 
 1.  **Out Of Orbit 〜Triple ZERO〜**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
-      - 出版社：[日本テレビ音楽](https://ja.wikipedia.org/wiki/日本テレビ音楽 "wikilink")
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 出版社：[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")
 2.  **Juggling**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
-      - 出版社：[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")
+      - 出版社：[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")
 3.  **LIGHT MY FIRE〜private mix**
       - 作詞：西川貴教　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
 
 ## 収録アルバム
 
-  - [B★E★S★T](https://ja.wikipedia.org/wiki/B★E★S★T "wikilink")（\#1）
+  - [B★E★S★T](../Page/B★E★S★T.md "wikilink")（\#1）
   - [coordinate](https://ja.wikipedia.org/wiki/coordinate "wikilink")（\#1、\#2）
       - \#1は「phase shift mix」、\#2は「acoustic GTR "turbo" starter」として収録。
-  - [1000000000000](https://ja.wikipedia.org/wiki/1000000000000_\(アルバム\) "wikilink")（\#1）
+  - [1000000000000](../Page/1000000000000_\(アルバム\).md "wikilink")（\#1）
   - [UNDER:COVER 2](https://ja.wikipedia.org/wiki/UNDER:COVER_2 "wikilink")（\#1,セルフカバー）
 
 ## 脚注

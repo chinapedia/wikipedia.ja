@@ -23,9 +23,9 @@
 
 <!-- end list -->
 
-  - [BSNアイネット](https://ja.wikipedia.org/wiki/BSNアイネット "wikilink")
-  - [ビーアイテック](https://ja.wikipedia.org/wiki/ビーアイテック "wikilink")
-  - [ホテルイタリア軒](https://ja.wikipedia.org/wiki/ホテルイタリア軒 "wikilink")
+  - [BSNアイネット](../Page/BSNアイネット.md "wikilink")
+  - [ビーアイテック](../Page/ビーアイテック.md "wikilink")
+  - [ホテルイタリア軒](../Page/ホテルイタリア軒.md "wikilink")
 
 ## 脚注
 

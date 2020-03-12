@@ -77,59 +77,59 @@ VSシリーズ</p></td>
 ## スタッフ
 
   - 原作：[八手三郎](../Page/八手三郎.md "wikilink")
-  - 連載：[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")
+  - 連載：[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[てれびくん](../Page/てれびくん.md "wikilink")
   - プロデューサー：[髙寺成紀](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")（東映）、[加藤和夫](../Page/加藤和夫.md "wikilink")（東映ビデオ）
-  - 監督：[田﨑竜太](https://ja.wikipedia.org/wiki/田崎竜太 "wikilink")
-  - 脚本：[荒川稔久](https://ja.wikipedia.org/wiki/荒川稔久 "wikilink")
-  - 撮影：[いのくままさお](https://ja.wikipedia.org/wiki/いのくままさお "wikilink")
+  - 監督：[田﨑竜太](../Page/田崎竜太.md "wikilink")
+  - 脚本：[荒川稔久](../Page/荒川稔久.md "wikilink")
+  - 撮影：[いのくままさお](../Page/いのくままさお.md "wikilink")
   - 計測：内田正司
   - 助監督：[中沢祥次郎](https://ja.wikipedia.org/wiki/中沢祥次郎 "wikilink")
-  - 音楽：[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink")、[佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
-  - アクション監督：[竹田道弘](https://ja.wikipedia.org/wiki/竹田道弘 "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）
+  - 音楽：[奥慶一](../Page/奥慶一.md "wikilink")、[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
+  - アクション監督：[竹田道弘](../Page/竹田道弘.md "wikilink")（[ジャパンアクションクラブ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
   - 制作：東映、[東映ビデオ](../Page/東映ビデオ.md "wikilink")
 
 ## キャスト
 
-  - 伊達健太 / メガレッド（声）：[大柴邦彦](https://ja.wikipedia.org/wiki/大柴隼人 "wikilink")
-  - 遠藤耕一郎 / メガブラック（声）：[江原淳史](https://ja.wikipedia.org/wiki/江原淳史 "wikilink")
+  - 伊達健太 / メガレッド（声）：[大柴邦彦](../Page/大柴隼人.md "wikilink")
+  - 遠藤耕一郎 / メガブラック（声）：[江原淳史](../Page/江原淳史.md "wikilink")
   - 並樹瞬 / メガブルー（声）：[松風雅也](../Page/松風雅也.md "wikilink")
-  - 城ヶ崎千里 / メガイエロー（声）：[田中恵理](https://ja.wikipedia.org/wiki/たなかえり "wikilink")
+  - 城ヶ崎千里 / メガイエロー（声）：[田中恵理](../Page/たなかえり.md "wikilink")
   - 今村みく / メガピンク（声）：[東山麻美](../Page/東山麻美.md "wikilink")
-  - 早川裕作 / メガシルバー（声）：[金井茂](https://ja.wikipedia.org/wiki/金井茂 "wikilink")
-  - 陣内恭介 / レッドレーサー（声）：[岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
-  - 土門直樹 / ブルーレーサー（声）：[増島愛浩](https://ja.wikipedia.org/wiki/増島愛浩 "wikilink")
-  - 上杉実 / グリーンレーサー（声）：[福田佳弘](https://ja.wikipedia.org/wiki/福田佳弘 "wikilink")
-  - 志乃原菜摘 / イエローレーサー（声）：[本橋由香](https://ja.wikipedia.org/wiki/本橋由香 "wikilink")
+  - 早川裕作 / メガシルバー（声）：[金井茂](../Page/金井茂.md "wikilink")
+  - 陣内恭介 / レッドレーサー（声）：[岸祐二](../Page/岸祐二.md "wikilink")
+  - 土門直樹 / ブルーレーサー（声）：[増島愛浩](../Page/増島愛浩.md "wikilink")
+  - 上杉実 / グリーンレーサー（声）：[福田佳弘](../Page/福田佳弘.md "wikilink")
+  - 志乃原菜摘 / イエローレーサー（声）：[本橋由香](../Page/本橋由香.md "wikilink")
   - 八神洋子 / ピンクレーサー（声）：[来栖あつこ](https://ja.wikipedia.org/wiki/来栖あつこ "wikilink")
   - 久保田衛吉：[斎藤暁](https://ja.wikipedia.org/wiki/斎藤暁 "wikilink")
-  - 大岩先生：[野添義弘](https://ja.wikipedia.org/wiki/野添義弘 "wikilink")
+  - 大岩先生：[野添義弘](../Page/野添義弘.md "wikilink")
   - 健太の父：[高月忠](https://ja.wikipedia.org/wiki/高月忠 "wikilink")
   - 健太の母：[大井小町](https://ja.wikipedia.org/wiki/大井小町 "wikilink")
-  - Dr.ヒネラー：[森下哲夫](https://ja.wikipedia.org/wiki/森下哲夫 "wikilink")
-  - シボレナ：[城麻美](https://ja.wikipedia.org/wiki/城麻美 "wikilink")
+  - Dr.ヒネラー：[森下哲夫](../Page/森下哲夫.md "wikilink")
+  - シボレナ：[城麻美](../Page/城麻美.md "wikilink")
 
 ### 声の出演
 
   - ユガンデ：[鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
   - ビビデビ：[関智一](../Page/関智一.md "wikilink")
-  - ダップ：[まるたまり](https://ja.wikipedia.org/wiki/まるたまり "wikilink")
-  - 宇宙妖精ピコット：[山田ふしぎ](https://ja.wikipedia.org/wiki/山田ふしぎ "wikilink")
-  - カニネジラー：[桑原たけし](https://ja.wikipedia.org/wiki/桑原たけし "wikilink")
-  - 宇宙暴走族ヘルメドー：[加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")
-  - 再生カマキリネジラー：[塩野勝美](https://ja.wikipedia.org/wiki/塩野勝美 "wikilink")
+  - ダップ：[まるたまり](../Page/まるたまり.md "wikilink")
+  - 宇宙妖精ピコット：[山田ふしぎ](../Page/山田ふしぎ.md "wikilink")
+  - カニネジラー：[桑原たけし](../Page/桑原たけし.md "wikilink")
+  - 宇宙暴走族ヘルメドー：[加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
+  - 再生カマキリネジラー：[塩野勝美](../Page/塩野勝美.md "wikilink")
 
 ### スーツアクター
 
-  - メガレッド、レッドレーサー、RVロボ、ギャラクシーメガ、スーパーギャラクシーメガ、メガボイジャー - [横山一敏](https://ja.wikipedia.org/wiki/横山一敏 "wikilink")
-  - メガブラック - [岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")
-  - メガブルー - [高岩成二](https://ja.wikipedia.org/wiki/高岩成二 "wikilink")
-  - メガイエロー - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
-  - [神尾直子](https://ja.wikipedia.org/wiki/神尾直子 "wikilink")
-  - メガシルバー - [日下秀昭](https://ja.wikipedia.org/wiki/日下秀昭 "wikilink")
-  - ユガンデ - [竹内康博](https://ja.wikipedia.org/wiki/竹内康博 "wikilink")
-  - グリーンレーサー - [大藤直樹](https://ja.wikipedia.org/wiki/大藤直樹 "wikilink")
-  - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
-  - [田邊智恵](https://ja.wikipedia.org/wiki/田邊智恵 "wikilink")
+  - メガレッド、レッドレーサー、RVロボ、ギャラクシーメガ、スーパーギャラクシーメガ、メガボイジャー - [横山一敏](../Page/横山一敏.md "wikilink")
+  - メガブラック - [岡元次郎](../Page/岡元次郎.md "wikilink")
+  - メガブルー - [高岩成二](../Page/高岩成二.md "wikilink")
+  - メガイエロー - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
+  - [神尾直子](../Page/神尾直子.md "wikilink")
+  - メガシルバー - [日下秀昭](../Page/日下秀昭.md "wikilink")
+  - ユガンデ - [竹内康博](../Page/竹内康博.md "wikilink")
+  - グリーンレーサー - [大藤直樹](../Page/大藤直樹.md "wikilink")
+  - [中川素州](../Page/中川素州.md "wikilink")
+  - [田邊智恵](../Page/田邊智恵.md "wikilink")
 
 ## 音楽
 
@@ -137,7 +137,7 @@ VSシリーズ</p></td>
 
 :; オープニングテーマ「電磁戦隊メガレンジャー」
 
-:: 作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲・編曲：[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink") / 歌：[風雅なおと](https://ja.wikipedia.org/wiki/風雅なおと "wikilink")
+:: 作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲・編曲：[奥慶一](../Page/奥慶一.md "wikilink") / 歌：[風雅なおと](../Page/風雅なおと.md "wikilink")
 
 ::歌詞は2番を使用。
 
@@ -152,7 +152,7 @@ VSシリーズ</p></td>
 
 :; 「MEGARANGER "THE CYBERDELIX"」
 
-:: 英作詞：T-CRANE / 作曲・編曲：奥慶一 / 歌：[MEGA MICKEY](https://ja.wikipedia.org/wiki/神崎まき "wikilink")
+:: 英作詞：T-CRANE / 作曲・編曲：奥慶一 / 歌：[MEGA MICKEY](../Page/神崎まき.md "wikilink")
 
 :; 「Don't Stop\! メガシルバー」
 

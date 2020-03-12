@@ -14,15 +14,15 @@
   - [小山裕久](https://ja.wikipedia.org/wiki/小山裕久 "wikilink")
   - [宮里伸哉](https://ja.wikipedia.org/wiki/宮里伸哉 "wikilink")
   - [冨高由喜](https://ja.wikipedia.org/wiki/冨高由喜 "wikilink")
-  - [三河かおり](https://ja.wikipedia.org/wiki/三河かおり "wikilink")
-  - [内山知子](https://ja.wikipedia.org/wiki/内山知子 "wikilink")
+  - [三河かおり](../Page/三河かおり.md "wikilink")
+  - [内山知子](../Page/内山知子.md "wikilink")
   - [大島直子](https://ja.wikipedia.org/wiki/大島直子 "wikilink")
   - [高橋美穂](https://ja.wikipedia.org/wiki/高橋美穂_\(アナウンサー\) "wikilink")
 
 ### 日曜
 
   - [田巻華月](https://ja.wikipedia.org/wiki/田巻華月 "wikilink")（フリーアナウンサー）
-  - [大坪幸代](https://ja.wikipedia.org/wiki/大坪幸代 "wikilink")（フリーアナウンサー）
+  - [大坪幸代](../Page/大坪幸代.md "wikilink")（フリーアナウンサー）
 
 ## 内容
 

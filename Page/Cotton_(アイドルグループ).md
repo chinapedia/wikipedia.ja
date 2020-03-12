@@ -1,14 +1,14 @@
 > この記事は[Cotton \(\)](https://ja.wikipedia.org/wiki/Cotton_\(\))から翻訳されています。
 
 
-**Cotton**（こっとん）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に「ラビットの玉子たち」でデビューした女性3人組（岡田有紀、福田浩子、谷内智美）の学研「[モモコクラブ](https://ja.wikipedia.org/wiki/モモコクラブ "wikilink")」桃組出身者からなる[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")による[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。岡田有紀脱退後、2人で活動した時期を経て小塚さおりが加入。キャッチフレーズが平成のキャンディーズ\[1\]\[2\]。セイヨー、[コロムビアレコード所属](../Page/日本コロムビア.md "wikilink")。
+**Cotton**（こっとん）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に「ラビットの玉子たち」でデビューした女性3人組（岡田有紀、福田浩子、谷内智美）の学研「[モモコクラブ](../Page/モモコクラブ.md "wikilink")」桃組出身者からなる[ユニット](../Page/ユニット.md "wikilink")による[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。岡田有紀脱退後、2人で活動した時期を経て小塚さおりが加入。キャッチフレーズが平成のキャンディーズ\[1\]\[2\]。セイヨー、[コロムビアレコード所属](../Page/日本コロムビア.md "wikilink")。
 
 ## メンバー
 
-  - **岡田有紀**（おかだゆき、1974年2月17日生）[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink")出身。[千葉県立野田高等学校卒業](https://ja.wikipedia.org/wiki/千葉県立野田中央高等学校 "wikilink")。[共栄学園短期大学](https://ja.wikipedia.org/wiki/共栄学園短期大学 "wikilink")出身。血液型A型、身長157cm、B78・W58・H82。[1989年](../Page/1989年.md "wikilink")、「[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")THEオーディション」1990年、第3回「ミスモモコクラブ」グランプリ。モモコクラブ 桃組 出席番号No.3000。愛称は「ゆきぽん」。
+  - **岡田有紀**（おかだゆき、1974年2月17日生）[千葉県](../Page/千葉県.md "wikilink")[野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink")出身。[千葉県立野田高等学校卒業](../Page/千葉県立野田中央高等学校.md "wikilink")。[共栄学園短期大学](../Page/共栄学園短期大学.md "wikilink")出身。血液型A型、身長157cm、B78・W58・H82。[1989年](../Page/1989年.md "wikilink")、「[ホリプロ](../Page/ホリプロ.md "wikilink")THEオーディション」1990年、第3回「ミスモモコクラブ」グランプリ。モモコクラブ 桃組 出席番号No.3000。愛称は「ゆきぽん」。
   - **福田浩子**（ふくだひろこ、1975年3月14日生）[広島県](../Page/広島県.md "wikilink")出身。血液型O型、身長158cm、B84・W58・H83。第3回 ミスモモコクラブ」[日本コロムビア](../Page/日本コロムビア.md "wikilink")賞。モモコクラブ 桃組 No.なし。愛称は「ひろぽん」。後に**星野衣厘**（ほしのえり）に改名。
   - **谷内智美**（たにうちともみ、1973年10月26日生）[岐阜県](../Page/岐阜県.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")出身。血液型B型、身長161cm、B76・W58・H82。 1989年第3回「[全日本国民的美少女コンテスト](../Page/全日本国民的美少女コンテスト.md "wikilink")」。 1990年 第3回「ミスモモコクラブ」・セイヨー賞。モモコクラブ 桃組 出席番号No.なし。愛称は「たにやん」。
-  - **小塚さおり**（こづかさおり、1975年10月9日生） [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")出身。血液型B型、身長153cm、B78・W59・H85。1991年 ‘90「ミスモモコクラブ」年間ベストテン1位。モモコクラブ 桃組 出席番号No.3008。正式加入前は**戸越かずこ**（とごしかずこ）の芸名で出演。覆面アイドル[芳賀ゆい](https://ja.wikipedia.org/wiki/芳賀ゆい "wikilink")に便乗して雑誌『[BOMB\!](https://ja.wikipedia.org/wiki/BOMB! "wikilink")』（[学習研究社](https://ja.wikipedia.org/wiki/学習研究社 "wikilink")）が企画した「芳賀ゆか」名義での活動もある。愛称は「さおりん」。
+  - **小塚さおり**（こづかさおり、1975年10月9日生） [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")出身。血液型B型、身長153cm、B78・W59・H85。1991年 ‘90「ミスモモコクラブ」年間ベストテン1位。モモコクラブ 桃組 出席番号No.3008。正式加入前は**戸越かずこ**（とごしかずこ）の芸名で出演。覆面アイドル[芳賀ゆい](../Page/芳賀ゆい.md "wikilink")に便乗して雑誌『[BOMB\!](https://ja.wikipedia.org/wiki/BOMB! "wikilink")』（[学習研究社](https://ja.wikipedia.org/wiki/学習研究社 "wikilink")）が企画した「芳賀ゆか」名義での活動もある。愛称は「さおりん」。
 
 ## 来歴
 
@@ -25,7 +25,7 @@
   -
 
       -
-        ラビットの玉子たち（詞：小泉長一郎、曲：[実川俊晴](https://ja.wikipedia.org/wiki/実川俊晴 "wikilink")、編曲：[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")）
+        ラビットの玉子たち（詞：小泉長一郎、曲：[実川俊晴](../Page/実川俊晴.md "wikilink")、編曲：[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")）
         なめんじゃないョ　純愛（詞：小泉長一郎、曲：実川俊晴、編曲：白井良明）
 
 2.「ヴァージン・ウルフに気をつけて」（1991年2月1日、COLUMBIA）
@@ -34,7 +34,7 @@
 
       -
         ヴァージン・ウルフに気をつけて （詞:小泉長一郎、曲:[岡部東子](https://ja.wikipedia.org/wiki/岡部東子 "wikilink")、編曲：白井良明）
-        てんとう虫のサンバ（[チェリッシュのカバー](https://ja.wikipedia.org/wiki/チェリッシュ_\(歌手グループ\) "wikilink")）（曲：さいとう大三、曲：[馬飼野俊一](https://ja.wikipedia.org/wiki/馬飼野俊一 "wikilink")、編曲：白井良明）
+        てんとう虫のサンバ（[チェリッシュのカバー](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")）（曲：さいとう大三、曲：[馬飼野俊一](../Page/馬飼野俊一.md "wikilink")、編曲：白井良明）
 
 3.「恋の椅子取りゲームに勝つ方法」（1991年5月1日 COLUMBIA）
 
@@ -42,8 +42,8 @@
 
       -
         恋の椅子取りゲームに勝つ方法 （曲：小泉長一郎、曲：実川俊晴、編曲：白井良明）
-        100カラットの涙 （曲：小泉長一郎、曲：岡部東子、編曲：[茂村泰彦](https://ja.wikipedia.org/wiki/茂村泰彦 "wikilink")）
-        ※「恋の椅子取りゲームに勝つ方法」はテレビ東京系アニメーション「[ジャンケンマン](https://ja.wikipedia.org/wiki/ジャンケンマン "wikilink")」エンディングテーマ曲。
+        100カラットの涙 （曲：小泉長一郎、曲：岡部東子、編曲：[茂村泰彦](../Page/茂村泰彦.md "wikilink")）
+        ※「恋の椅子取りゲームに勝つ方法」はテレビ東京系アニメーション「[ジャンケンマン](../Page/ジャンケンマン.md "wikilink")」エンディングテーマ曲。
 
 4.「曇りのち晴れ渡辺くん」（1991年7月21日 COLUMBIA）
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - Cottonが歌った「[ジャンケンマン](https://ja.wikipedia.org/wiki/ジャンケンマン "wikilink")」オープニング曲などは[ジャンケンマン](https://ja.wikipedia.org/wiki/ジャンケンマン "wikilink")の項目参照。
+  - Cottonが歌った「[ジャンケンマン](../Page/ジャンケンマン.md "wikilink")」オープニング曲などは[ジャンケンマン](../Page/ジャンケンマン.md "wikilink")の項目参照。
 
 ### アルバム
 
@@ -89,7 +89,7 @@
 
 ### テレビ
 
-  - 「HIP」（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")(ANB) 」（福田浩子：マドモアゼルに所属の星野衣厘として）
+  - 「HIP」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")(ANB) 」（福田浩子：マドモアゼルに所属の星野衣厘として）
 
 ### ラジオ
 
@@ -97,14 +97,14 @@
 
 ## 新聞・雑誌等
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月 「[BOMB](https://ja.wikipedia.org/wiki/BOMB "wikilink")\!」
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月 「[BOMB](../Page/BOMB.md "wikilink")\!」
   - 1990年9月、12月、1991年4月、8月 「熱烈投稿」（岡田有紀）
   - 1990年10月 「BOMB\!」（小塚さおり：芳賀ゆかとして）
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")3月 「[Momoco](https://ja.wikipedia.org/wiki/Momoco "wikilink")」インタビュー
+  - [1991年](../Page/1991年.md "wikilink")3月 「[Momoco](../Page/Momoco.md "wikilink")」インタビュー
   - 1991年1月、7月 「熱烈投稿」（谷内智美）
   - 1991年10月 「熱烈投稿」（Cotton）
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月15日 「[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")」（福田浩子：マドモアゼルに所属の星野衣厘として）
-  - 1995年6月 「Supremeな午後 -- 小塚さおり写真集」（[ぶんか社](https://ja.wikipedia.org/wiki/ぶんか社 "wikilink") ISBN 978-4-8211-2052-9）
+  - 1995年6月 「Supremeな午後 -- 小塚さおり写真集」（[ぶんか社](../Page/ぶんか社.md "wikilink") ISBN 978-4-8211-2052-9）
 
 ## その他の活動
 

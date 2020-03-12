@@ -5,19 +5,19 @@
 
 ## 概要
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[名古屋](../Page/名古屋.md "wikilink")にて結成。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に愛知・名古屋地区限定版「SOUL FRESH」をリリースし、全国流通ではないにもかかわらず瞬く間に3000枚以上を売り上げ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")、「SOUL FRESH\!」を全国発売。紅一点のG-YUN（ジュン）は、ファッション誌「[CUTiE](https://ja.wikipedia.org/wiki/CUTiE "wikilink")」や「[Zipper](https://ja.wikipedia.org/wiki/Zipper "wikilink")」にも進出している。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")にメジャーデビューが決定（発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")）。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月6日](../Page/5月6日.md "wikilink")、2010年7月4日の名古屋ダイアモンドホールの最終公演をもって解散することを発表。
+[2004年](../Page/2004年.md "wikilink")[名古屋](../Page/名古屋.md "wikilink")にて結成。[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に愛知・名古屋地区限定版「SOUL FRESH」をリリースし、全国流通ではないにもかかわらず瞬く間に3000枚以上を売り上げ、[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、「SOUL FRESH\!」を全国発売。紅一点のG-YUN（ジュン）は、ファッション誌「[CUTiE](../Page/CUTiE.md "wikilink")」や「[Zipper](../Page/Zipper.md "wikilink")」にも進出している。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")にメジャーデビューが決定（発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")）。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月6日](../Page/5月6日.md "wikilink")、2010年7月4日の名古屋ダイアモンドホールの最終公演をもって解散することを発表。
 
 ## メンバー
 
   - **G-YUN**（ジュン、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月9日](../Page/12月9日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") \*2011年5月10日シングル「Message」でソロデビュー。現[トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink")。
-  - **MISSY**（ミッシー、1983年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ギター](../Page/ギター.md "wikilink")
-  - **CLASSY**（クラッシー、1983年[4月30日](../Page/4月30日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **MISSY**（ミッシー、1983年[12月29日](../Page/12月29日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ギター](../Page/ギター.md "wikilink")
+  - **CLASSY**（クラッシー、1983年[4月30日](../Page/4月30日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **MUSH**（ムッシュ、[1984年](../Page/1984年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ドラム](../Page/ドラムセット.md "wikilink")
   - **TAKA-P**（タカピー、1983年[7月9日](../Page/7月9日.md "wikilink") [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
   - **SHODAI**（ショーダイ、1984年、[8月11日](../Page/8月11日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[トランペット](../Page/トランペット.md "wikilink")
   - **HIROAKI**（ヒロアキ、1983年[9月10日](../Page/9月10日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[トロンボーン](../Page/トロンボーン.md "wikilink")
 
-ドラムのAKI3（アキサン）は本人の意志に依り[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")に脱退
+ドラムのAKI3（アキサン）は本人の意志に依り[2007年](../Page/2007年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に脱退
 
 ## ディスコグラフィー
 
@@ -37,7 +37,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td><p><strong>SOUL FRESH!</strong></p></td>
 <td><p>R3RCD-49</p></td>
 <td><ol>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/1月10日.md" title="wikilink">1月10日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/1月10日.md" title="wikilink">1月10日</a></p></td>
 <td><p><strong>Snow Fall</strong></p></td>
 <td><p>R3RCD-059:初回限定盤<br />
 R3RCD-060:通常盤</p></td>
@@ -200,7 +200,7 @@ R3RCD-060:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p>2007年<a href="https://ja.wikipedia.org/wiki/5月9日" title="wikilink">5月9日</a></p></td>
+<td><p>2007年<a href="../Page/5月9日.md" title="wikilink">5月9日</a></p></td>
 <td><p><strong>GOLL &amp; RESPONSE</strong></p></td>
 <td><p>R3RCD-062:初回限定盤<br />
 R3RCD-063:通常盤</p></td>
@@ -409,37 +409,37 @@ R3RCD-090:通常盤</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                   | 規格品番         | 収録曲                  | 備考                               |
-| ----------- | -------------------------------------------------------------------------------------- | ------------ | -------------------- | -------------------------------- |
-| 2004年10月27日 | **NAGOYA-ISM II**                                                                      | DDCZ-1081    | 3.ウエヲ                | MIND OF CORE                     |
-| 2006年04月26日 | **smart 10th&200anniversary**                                                          | 170-LDKCD    | 10.Weio\!            | Living, Dining & Kitchen Records |
-| CRCP-40154  | **姫スカ\!"PRINCESS SKA"COMPILATION ALBUM**                                               | CRCP-40154   | 1\. WAY to YOU       | 日本クラウン                           |
-| 2006年10月25日 | **ゲルググ・アミーゴス**                                                                         | IDCA-1028    | 7.NO PLAN YOUR STYLE | Musicmine                        |
-| 2006年10月25日 | **KING OF 69★TRIBE THE FINAL**                                                         | GYCL-10017   | 1.小恋指〜コイユビ〜          | フォーサイド                           |
-| 2007年03月07日 | [少年カミカゼ](https://ja.wikipedia.org/wiki/少年カミカゼ "wikilink") Xchng GOLLBETTY「'''STAY TUNE | '''」         | VICL-36210           | 1.STAY TUNE                      |
-| 2008年08月20日 | **Hana\*tunes～summer～**                                                                | HFR-001      | 3\. Fighting Girls   |                                  |
-| 2012年03月14日 | '''Disney Rocks ～\! &                                                                  | Complete～''' | AVCW-12887           | 2.A Whole New World \[Aladdin\]  |
-|             |                                                                                        |              |                      |                                  |
+| 発売日         | タイトル                                                                | 規格品番         | 収録曲                  | 備考                               |
+| ----------- | ------------------------------------------------------------------- | ------------ | -------------------- | -------------------------------- |
+| 2004年10月27日 | **NAGOYA-ISM II**                                                   | DDCZ-1081    | 3.ウエヲ                | MIND OF CORE                     |
+| 2006年04月26日 | **smart 10th&200anniversary**                                       | 170-LDKCD    | 10.Weio\!            | Living, Dining & Kitchen Records |
+| CRCP-40154  | **姫スカ\!"PRINCESS SKA"COMPILATION ALBUM**                            | CRCP-40154   | 1\. WAY to YOU       | 日本クラウン                           |
+| 2006年10月25日 | **ゲルググ・アミーゴス**                                                      | IDCA-1028    | 7.NO PLAN YOUR STYLE | Musicmine                        |
+| 2006年10月25日 | **KING OF 69★TRIBE THE FINAL**                                      | GYCL-10017   | 1.小恋指〜コイユビ〜          | フォーサイド                           |
+| 2007年03月07日 | [少年カミカゼ](../Page/少年カミカゼ.md "wikilink") Xchng GOLLBETTY「'''STAY TUNE | '''」         | VICL-36210           | 1.STAY TUNE                      |
+| 2008年08月20日 | **Hana\*tunes～summer～**                                             | HFR-001      | 3\. Fighting Girls   |                                  |
+| 2012年03月14日 | '''Disney Rocks ～\! &                                               | Complete～''' | AVCW-12887           | 2.A Whole New World \[Aladdin\]  |
+|             |                                                                     |              |                      |                                  |
 
 ## ミュージックビデオ
 
-|                                                                                                            |                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                                                                     | **曲名**                                                                                                                                        |
-| [小島淳二](https://ja.wikipedia.org/wiki/小島淳二 "wikilink")                                                      | 「[IF\!](https://www.youtube.com/watch?v=Y0J34MW71vg)」                                                                                         |
-| [スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")                                               | 「[Snow Fall](https://www.youtube.com/watch?v=eu_fooVb8VI)」                                                                                    |
-| [千田圭一](https://ja.wikipedia.org/wiki/千田圭一 "wikilink")                                                      | 「[SCRAMBLE](https://www.youtube.com/watch?v=bnFTi39ds24)」「[ウエヲ from DVD「GOLL IN」](https://www.indiesmusic.com/musicvideo/video.asp?id=11216)」 |
-| [ダイシン](https://ja.wikipedia.org/wiki/ダイシン "wikilink")                                                      | 「Crystal」「[Secret Word](https://www.youtube.com/watch?v=su9cJvTXihg)」                                                                         |
-| [日々健](https://ja.wikipedia.org/wiki/日々健 "wikilink")                                                        | 「[Easy Going](https://www.youtube.com/watch?v=rznsVJ_tGig)」「\[<https://www.indiesmusic.com/musicvideo/video.asp?id=10305> Fighting Girls      |
-| [吉澤正悟](https://ja.wikipedia.org/wiki/吉澤正悟 "wikilink") &[中島敬](https://ja.wikipedia.org/wiki/中島敬 "wikilink") | 「[小恋指〜コイユビ〜](https://www.youtube.com/watch?v=aVF63ptEwX0)」                                                                                    |
-| [渡辺洋朗](https://ja.wikipedia.org/wiki/渡辺洋朗 "wikilink")                                                      | 「[99%](https://www.youtube.com/watch?v=ggnzVA9KyTk)」「COOL MUSIC」                                                                              |
-|                                                                                                            |                                                                                                                                               |
+|                                                                                         |                                                                                                                                               |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                                                  | **曲名**                                                                                                                                        |
+| [小島淳二](../Page/小島淳二.md "wikilink")                                                      | 「[IF\!](https://www.youtube.com/watch?v=Y0J34MW71vg)」                                                                                         |
+| [スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")                            | 「[Snow Fall](https://www.youtube.com/watch?v=eu_fooVb8VI)」                                                                                    |
+| [千田圭一](https://ja.wikipedia.org/wiki/千田圭一 "wikilink")                                   | 「[SCRAMBLE](https://www.youtube.com/watch?v=bnFTi39ds24)」「[ウエヲ from DVD「GOLL IN」](https://www.indiesmusic.com/musicvideo/video.asp?id=11216)」 |
+| [ダイシン](https://ja.wikipedia.org/wiki/ダイシン "wikilink")                                   | 「Crystal」「[Secret Word](https://www.youtube.com/watch?v=su9cJvTXihg)」                                                                         |
+| [日々健](https://ja.wikipedia.org/wiki/日々健 "wikilink")                                     | 「[Easy Going](https://www.youtube.com/watch?v=rznsVJ_tGig)」「\[<https://www.indiesmusic.com/musicvideo/video.asp?id=10305> Fighting Girls      |
+| [吉澤正悟](../Page/吉澤正悟.md "wikilink") &[中島敬](https://ja.wikipedia.org/wiki/中島敬 "wikilink") | 「[小恋指〜コイユビ〜](https://www.youtube.com/watch?v=aVF63ptEwX0)」                                                                                    |
+| [渡辺洋朗](https://ja.wikipedia.org/wiki/渡辺洋朗 "wikilink")                                   | 「[99%](https://www.youtube.com/watch?v=ggnzVA9KyTk)」「COOL MUSIC」                                                                              |
+|                                                                                         |                                                                                                                                               |
 
 ## 出演
 
   - 2006年02月09日 - EX「[The Street Fighters](https://ja.wikipedia.org/wiki/The_Street_Fighters "wikilink")」
-  - 2006年03月14日 - CX「[69★TRIBE ロック族](https://ja.wikipedia.org/wiki/69★TRIBE_ロック族 "wikilink")」
-  - 2008年06月27日 - NTV「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」
+  - 2006年03月14日 - CX「[69★TRIBE ロック族](../Page/69★TRIBE_ロック族.md "wikilink")」
+  - 2008年06月27日 - NTV「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
   - 2009年06月30日 - TBS「Mライブ」
 
 ## 主な出演イベント

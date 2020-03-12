@@ -1,13 +1,13 @@
 > この記事は[Sista Five](https://ja.wikipedia.org/wiki/Sista_Five)から翻訳されています。
 
 
-**Sista Five**（シスタファイヴ）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")出身の5人姉妹の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。
+**Sista Five**（シスタファイヴ）は、[大阪府](../Page/大阪府.md "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")出身の5人姉妹の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[avexよりデビューした](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。血液型は全員AB型。
+[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[avexよりデビューした](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。血液型は全員AB型。
 
-5人姉妹ならではの一糸乱れぬダンスとハーモニーが特徴。実家は、[京阪](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")[守口市駅](https://ja.wikipedia.org/wiki/守口市駅 "wikilink")前の鉄板焼屋さん「藤家（ふじや）」、。
+5人姉妹ならではの一糸乱れぬダンスとハーモニーが特徴。実家は、[京阪](../Page/京阪電気鉄道.md "wikilink")[守口市駅](https://ja.wikipedia.org/wiki/守口市駅 "wikilink")前の鉄板焼屋さん「藤家（ふじや）」、。
 
   - デビューのきっかけは、2004年6月に親戚の結婚式に出席した際に5人姉妹で歌を贈ったこと。初代リーダーのMyuuが4人に話を持ち掛けて に応募。、2006年12月6日アルバム「VIVA\!MUSICA」でデビューを果した。2006年の上海アジア音楽祭では、日本からの代表アーティストとして初めて最優秀魅力賞と銅賞をダブル受賞。
   - 2007年1月NHK「歌謡コンサート」、3月NHK「ポップジャム」に出演。同年9月より[イオンの協賛を得て](../Page/イオン_\(企業\).md "wikilink")、イオンライブツアーを展開した（も各地のイオンでフリーライブを開催）。河口恭吾が発起人となった「地球兄弟プロジェクト」に賛同してシングルCD「地球兄弟」をリリース。
@@ -69,8 +69,8 @@
 ### アルバム
 
   - **VIVA\!MUSICA**（2006年12月6日）カバーアルバム
-    1.  B ur Girl 〜他人の関係〜（[金井克子](https://ja.wikipedia.org/wiki/金井克子 "wikilink")）
-    2.  キエンセラ（[ペレス・プラード](https://ja.wikipedia.org/wiki/ペレス・プラード "wikilink")）
+    1.  B ur Girl 〜他人の関係〜（[金井克子](../Page/金井克子.md "wikilink")）
+    2.  キエンセラ（[ペレス・プラード](../Page/ペレス・プラード.md "wikilink")）
     3.  Chan Chan
     4.  ある恋の物語（ペレス・プラード）
     5.  1-2-3
@@ -116,13 +116,13 @@
 
 ### ラジオ
 
-  - [FM HANAKO](https://ja.wikipedia.org/wiki/エフエムもりぐち "wikilink")「Sista FiveのちゃっとチャットGo！Go！」2007年4月6日〜2010年12月
+  - [FM HANAKO](../Page/エフエムもりぐち.md "wikilink")「Sista FiveのちゃっとチャットGo！Go！」2007年4月6日〜2010年12月
   - 同上「Aicoo's ROOM 1LDK」 2011年1-3月
 
 <!-- end list -->
 
   -
-    上述番組がユニットの活動休止に伴い終了したため、それに代わる[つなぎ番組](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")としてAicooのみがソロ出演したもの。まれに他のメンバーが「ゲスト」という扱いで出演した回もある
+    上述番組がユニットの活動休止に伴い終了したため、それに代わる[つなぎ番組](../Page/つなぎ番組.md "wikilink")としてAicooのみがソロ出演したもの。まれに他のメンバーが「ゲスト」という扱いで出演した回もある
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 
 ## 関連項目
 
-  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+  - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
 
 ## 外部リンク
 

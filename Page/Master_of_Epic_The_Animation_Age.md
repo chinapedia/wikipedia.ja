@@ -1,13 +1,13 @@
 > この記事は[Master of Epic The Animation Age](https://ja.wikipedia.org/wiki/Master_of_Epic_The_Animation_Age)から翻訳されています。
 
 
-『**MASTER of EPIC The AnimationAge**』（マスター・オブ・エピック ジ・アニメーション・エイジ）は、[ハドソン](../Page/ハドソン.md "wikilink")開発・[ゴンゾロッソ](https://ja.wikipedia.org/wiki/ゴンゾロッソ "wikilink")運営の[MMORPG](../Page/MMORPG.md "wikilink")『[Master of Epic -The ResonanceAge Universe-](https://ja.wikipedia.org/wiki/Master_of_Epic_-The_ResonanceAge_Universe- "wikilink")』を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
+『**MASTER of EPIC The AnimationAge**』（マスター・オブ・エピック ジ・アニメーション・エイジ）は、[ハドソン](../Page/ハドソン.md "wikilink")開発・[ゴンゾロッソ](https://ja.wikipedia.org/wiki/ゴンゾロッソ "wikilink")運営の[MMORPG](../Page/MMORPG.md "wikilink")『[Master of Epic -The ResonanceAge Universe-](../Page/Master_of_Epic_-The_ResonanceAge_Universe-.md "wikilink")』を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
 
 ## 概要
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")より同年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列（[テレビ北海道](../Page/テレビ北海道.md "wikilink")を除く）にて放送。全12回。
+[2007年](../Page/2007年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")より同年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列（[テレビ北海道](../Page/テレビ北海道.md "wikilink")を除く）にて放送。全12回。
 
-日本国内で運営されている[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")のアニメ化としてはポトリス（[無限戦記ポトリス](https://ja.wikipedia.org/wiki/無限戦記ポトリス "wikilink")）、[ラグナロクオンライン](https://ja.wikipedia.org/wiki/ラグナロクオンライン "wikilink")（[RAGNAROK THE ANIMATION](https://ja.wikipedia.org/wiki/RAGNAROK_THE_ANIMATION "wikilink")）、[ときめきメモリアルONLINE](https://ja.wikipedia.org/wiki/ときめきメモリアルONLINE "wikilink")（[ときめきメモリアル Only Love](https://ja.wikipedia.org/wiki/ときめきメモリアル_Only_Love "wikilink")）に続き4作目である（[MMORPG](../Page/MMORPG.md "wikilink")に限定すれば2作目）。
+日本国内で運営されている[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")のアニメ化としてはポトリス（[無限戦記ポトリス](../Page/無限戦記ポトリス.md "wikilink")）、[ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")（[RAGNAROK THE ANIMATION](../Page/RAGNAROK_THE_ANIMATION.md "wikilink")）、[ときめきメモリアルONLINE](../Page/ときめきメモリアルONLINE.md "wikilink")（[ときめきメモリアル Only Love](../Page/ときめきメモリアル_Only_Love.md "wikilink")）に続き4作目である（[MMORPG](../Page/MMORPG.md "wikilink")に限定すれば2作目）。
 
 ### 特徴
 
@@ -15,7 +15,7 @@
 
 ゲームをプレイしていないと解らない事（Present Ageを「プレ」と略して言う）や2ちゃんねるのスレッド発祥で、ゲーム内ではあまり見ないもの（「もにおは消毒」など）が本編内に特に説明もなく出てくることや、オムニバス形式のために一つの話の内容が必然的に薄くなることなどがある。しかし逆に言えばゲームをノリや雰囲気も含めて高い水準で再現しているとも言える。実際、監督の[えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink")もゲームをプレイしており、また、「[ライターには強制的にゲームをやってもらっている](http://blog.livedoor.jp/ld_anime02/archives/50887609.html)」とインタビューで語っている。ただし、『恋するアンジェリカ』でカーレンが本来トレードできないブランドデザイナーハサミ（シップ装備）をアンジェリカに渡す、などシステム上ありえない描写もあるにはある。
 
-この作品では[中の人](https://ja.wikipedia.org/wiki/中の人 "wikilink")（プレイヤー）を匂わせる表現がいくつかある。一例を挙げれば、
+この作品では[中の人](../Page/中の人.md "wikilink")（プレイヤー）を匂わせる表現がいくつかある。一例を挙げれば、
 
   - 女の子らしくない言動をするニューター女に対して、「中身男か？」と聞く。
   - 浮遊都市バハの攻略に躊躇したワラゲッチャー隊員が明らかに今考えた適当な言い訳をしてログアウトする。
@@ -57,7 +57,7 @@
     モブキャラクターでないコグニート女のほとんどは、ゲームに存在しないドレスを着ている。
       - コグニート アナウンサー（Newsマスターオブエピック）
   - ニューター・男
-    声 - [豊永利行](https://ja.wikipedia.org/wiki/豊永利行 "wikilink")
+    声 - [豊永利行](../Page/豊永利行.md "wikilink")
       - しおぞう隊長（マスター・オブ・エピック大作戦）
       - ジェームズ（マスター オブ エピックの伝道師　ロザーリオ）
       - タツヤ（となりのパンダ姉さん）
@@ -69,9 +69,9 @@
       - ランカ（無闘派ランカ）
       - アンジェリカ（恋するアンジェリカ）
           -
-            [ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")という髪形をしているが、ゲームで可能なのはパンデモスのみ。変形タイプならエルモニーとコグニートにも存在するが、ニューターには一切存在しない。
+            [ツインテール](../Page/ツインテール.md "wikilink")という髪形をしているが、ゲームで可能なのはパンデモスのみ。変形タイプならエルモニーとコグニートにも存在するが、ニューターには一切存在しない。
   - パンデモス・男
-    声 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+    声 - [郷里大輔](../Page/郷里大輔.md "wikilink")
       - 武骨（チューと武骨）
           -
             ゲームではプレイヤーキャラクター名に漢字は使えない。ひらがなやカタカナなら全角も可能。
@@ -79,17 +79,17 @@
       - ムサシ（ファイヤー・オブ・ザ・キッチン）
       - 服部先生（ファイヤー・オブ・ザ・キッチン）
   - パンデモス・女
-    声 - [高島雅羅](https://ja.wikipedia.org/wiki/高島雅羅 "wikilink")
-    ゲームでは男性同様[隈取](https://ja.wikipedia.org/wiki/隈取 "wikilink")が施された濃い顔だがアニメでは総てのパンデモス女が隈取の無い美人顔のため、ゲームに実装を求める声が多い。またアニメの主な髪型二種類はどちらもゲームに存在しない。
+    声 - [高島雅羅](../Page/高島雅羅.md "wikilink")
+    ゲームでは男性同様[隈取](../Page/隈取.md "wikilink")が施された濃い顔だがアニメでは総てのパンデモス女が隈取の無い美人顔のため、ゲームに実装を求める声が多い。またアニメの主な髪型二種類はどちらもゲームに存在しない。
       - ミナミ（となりのパンダ姉さん）
   - ウー
     声 - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
   - ワラゲッチャーV
     全てエルモニー・女。色に合わせて髪色と服の色が合わせてある。
-      - ワラゲ・グリーン（声：[斎藤桃子](https://ja.wikipedia.org/wiki/斎藤桃子 "wikilink")）
-      - ワラゲ・ブルー（声：[井ノ上奈々](https://ja.wikipedia.org/wiki/井ノ上奈々 "wikilink")）
-      - ワラゲ・イエロー（声：[庄子裕衣](https://ja.wikipedia.org/wiki/庄子裕衣 "wikilink")）
-      - ワラゲ・ブラック（声：[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")）
+      - ワラゲ・グリーン（声：[斎藤桃子](../Page/斎藤桃子.md "wikilink")）
+      - ワラゲ・ブルー（声：[井ノ上奈々](../Page/井ノ上奈々.md "wikilink")）
+      - ワラゲ・イエロー（声：[庄子裕衣](../Page/庄子裕衣.md "wikilink")）
+      - ワラゲ・ブラック（声：[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")）
       - ワラゲ・ピンク（声：金田朋子）
           -
             クローバー（斉藤・井ノ上・庄子・宮崎）の4名は別種族（主にニューター・女及びコグニート・女）のモブキャラの声も担当している。
@@ -139,7 +139,7 @@
 
 :: 当初の一人称は「ボク」で、口調も「っス」という語尾や「すげー」と言ったりする等、中の人は男性かと思われたが、ロノと再会したときの描写などから女性の可能性もある。このことについて本人は笑うだけで明確な回答をしていない。
 
-:: 元々はエルモニー男の予定だったが、えんどうてつやが「[ネカマ](https://ja.wikipedia.org/wiki/ネカマ "wikilink")疑惑をやってみたい」という事でニューター女に変更されたというのが真相である。「Friends」が放送された回（第1回）の前説劇場にて彼女の中身が「おっさん」とも取れるボケをやっている。
+:: 元々はエルモニー男の予定だったが、えんどうてつやが「[ネカマ](../Page/ネカマ.md "wikilink")疑惑をやってみたい」という事でニューター女に変更されたというのが真相である。「Friends」が放送された回（第1回）の前説劇場にて彼女の中身が「おっさん」とも取れるボケをやっている。
 
 :; ロノ（コグニート男）
 
@@ -253,7 +253,7 @@
 
 ミナミに恋したタツヤがなんとかしてミナミと付き合いたいと夢想するが、結局妄想の中だけで終わる話。
 
-アフレコ演出の三ツ矢雄二は「[タッチ](https://ja.wikipedia.org/wiki/タッチ_\(漫画\) "wikilink")」の[上杉"達也"役であり](https://ja.wikipedia.org/wiki/上杉達也 "wikilink")、「タッチ」のヒロインは[浅倉"南"である](https://ja.wikipedia.org/wiki/浅倉南 "wikilink")。タツヤの妄想中でミナミが「新体操のリボンを演技をしながら採掘する」というのがあるが、それが元ネタである。
+アフレコ演出の三ツ矢雄二は「[タッチ](../Page/タッチ_\(漫画\).md "wikilink")」の[上杉"達也"役であり](../Page/上杉達也.md "wikilink")、「タッチ」のヒロインは[浅倉"南"である](../Page/浅倉南.md "wikilink")。タツヤの妄想中でミナミが「新体操のリボンを演技をしながら採掘する」というのがあるが、それが元ネタである。
 
   - 登場人物
 
@@ -345,7 +345,7 @@
 
 :; ロザーリオ（パンデモス男）
 
-:: 人呼んで「愛の伝道師」の男……いや、女である。「おじさん」と呼ばれると激怒し、「お姉様」または「マダム」と呼ばれることを望む。女性に厳しく男性に甘い。なお、彼女の装備している服はなぜか男性がスカートであるハロウィン装備で、ゲーム中に実在する装備である（女性用は提灯[ブルマー](../Page/ブルマー.md "wikilink")（黒いカボチャパンツ））。頭の[縦ロール](https://ja.wikipedia.org/wiki/縦ロール "wikilink")もハロウィン装備の一部。
+:: 人呼んで「愛の伝道師」の男……いや、女である。「おじさん」と呼ばれると激怒し、「お姉様」または「マダム」と呼ばれることを望む。女性に厳しく男性に甘い。なお、彼女の装備している服はなぜか男性がスカートであるハロウィン装備で、ゲーム中に実在する装備である（女性用は提灯[ブルマー](../Page/ブルマー.md "wikilink")（黒いカボチャパンツ））。頭の[縦ロール](../Page/縦ロール.md "wikilink")もハロウィン装備の一部。
 
 :; ジェームズ（ニューター男）
 
@@ -420,7 +420,7 @@
 
 最終回にしていきなり続けて登場し、視聴者に最終回であることを疑問に思わせるほどの勢いを見せつけつつ最後の「後説」に繋いだ、実質最終回最後の話。
 
-ミュージカルシーンの歌は[クローバーが歌う](https://ja.wikipedia.org/wiki/クローバー_\(声優ユニット\) "wikilink")「ワンダフルワールド　マスター　オブ　エピック」。
+ミュージカルシーンの歌は[クローバーが歌う](../Page/クローバー_\(声優ユニット\).md "wikilink")「ワンダフルワールド　マスター　オブ　エピック」。
 
 着ぐるみは「アニマルソウル」（ゲーム内で入手可能）と呼ばれるペンダント状のアイテムを装備して変身したもの。
 
@@ -444,7 +444,7 @@
 
 5人のパーティとして行動しているようだが、誰一人としてテレポート等の瞬間移動の魔法を習得していないのか、ワラゲッチャーロボが登場するまではどの場所にも常に走って移動していた。ただしWar Ageでは本陣への奇襲を防ぐため、テレポートは大幅に制限されている。また、ホームポイント以外への移動は「レコードストーン」という物が個別に必要で保管場所に困る者も多い。また、ブラック以外の4人はリザレクションができないことが判明している（ブラックは不明）。
 
-なお、決め言葉は「正義は必ず勝つ」だが、モットーは「勝った方が正義」である。彼女らの行動は実際に真似をすると、[アカウント](https://ja.wikipedia.org/wiki/アカウント "wikilink")停止を受けかねない行為も含まれているので、注意が必要。
+なお、決め言葉は「正義は必ず勝つ」だが、モットーは「勝った方が正義」である。彼女らの行動は実際に真似をすると、[アカウント](../Page/アカウント.md "wikilink")停止を受けかねない行為も含まれているので、注意が必要。
 
   - 登場人物
 
@@ -510,9 +510,9 @@
 
   - 原案 - [HUDSON SOFT](../Page/ハドソン.md "wikilink")
   - 監督・シリーズ構成・音響監督 - [えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink")
-  - キャラクター原案 - [渡辺とおる](https://ja.wikipedia.org/wiki/渡辺とおる "wikilink")
+  - キャラクター原案 - [渡辺とおる](../Page/渡辺とおる.md "wikilink")
   - キャラクターデザイン - 杉藤さゆり
-  - モンスターデザイン - 小林理、[村田護郎](https://ja.wikipedia.org/wiki/村田護郎 "wikilink")、はらだひでき
+  - モンスターデザイン - 小林理、[村田護郎](../Page/村田護郎.md "wikilink")、はらだひでき
   - プロップデザイン - [森木靖泰](https://ja.wikipedia.org/wiki/森木靖泰 "wikilink")、田中達也
   - ワラゲッチャースーツ・ビークル・ロボデザイン - ジミー・ストーン
   - 美術監督 - 佐藤ヒロム
@@ -524,29 +524,29 @@
   - 音楽プロデューサー - 堤健一郎
   - プロデューサー - 並木俊治、守屋秀樹、難波秀行
   - アニメーションプロデューサー - 山口克巳、大倉宏俊、吉田悟、吉澤隆
-  - アニメーション制作 - [パルムスタジオ](https://ja.wikipedia.org/wiki/パルム_\(アニメ制作会社\) "wikilink")、[GONZINO](https://ja.wikipedia.org/wiki/ゴンジーノ "wikilink")
-  - 制作・製作 - [GDH](https://ja.wikipedia.org/wiki/GDH_\(企業\) "wikilink")、[MEDIANET](../Page/テレビ東京メディアネット.md "wikilink")
+  - アニメーション制作 - [パルムスタジオ](../Page/パルム_\(アニメ制作会社\).md "wikilink")、[GONZINO](../Page/ゴンジーノ.md "wikilink")
+  - 制作・製作 - [GDH](../Page/GDH_\(企業\).md "wikilink")、[MEDIANET](../Page/テレビ東京メディアネット.md "wikilink")
 
 ## 主題歌
 
   - オープニングテーマ「[Miracle Episode I](https://ja.wikipedia.org/wiki/Miracle_Episode_I "wikilink")」
-    作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 - [橋本由香利](https://ja.wikipedia.org/wiki/橋本由香利 "wikilink") / 歌 - [クローバー](https://ja.wikipedia.org/wiki/クローバー_\(声優ユニット\) "wikilink")
+    作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 - [橋本由香利](../Page/橋本由香利.md "wikilink") / 歌 - [クローバー](../Page/クローバー_\(声優ユニット\).md "wikilink")
 
   - エンディングテーマ「[まもらせて…](https://ja.wikipedia.org/wiki/まもらせて… "wikilink")」
-    作詞 - 畑亜貴 / 作曲 - [前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink") / 編曲 - 橋本由香利 / 歌 - [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+    作詞 - 畑亜貴 / 作曲 - [前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink") / 編曲 - 橋本由香利 / 歌 - [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
 
   - 挿入歌
 
 :; 「ワラゲッチャーVのテーマ」
 
-:: 作詞 - [えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink") / 作曲 - [小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink") / 編曲 - [4-EVER](https://ja.wikipedia.org/wiki/4-EVER "wikilink") / 歌 - [金田朋子](../Page/金田朋子.md "wikilink") & クローバー
+:: 作詞 - [えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink") / 作曲 - [小池雅也](../Page/小池雅也.md "wikilink") / 編曲 - [4-EVER](https://ja.wikipedia.org/wiki/4-EVER "wikilink") / 歌 - [金田朋子](../Page/金田朋子.md "wikilink") & クローバー
 
 :; 「ワンダフルワールド マスター オブ エピック」
 
   -
 
       -
-        作詞 - [待田堂子](https://ja.wikipedia.org/wiki/待田堂子 "wikilink") / 作曲・編曲 - 4-EVER / 歌 - クローバー
+        作詞 - [待田堂子](../Page/待田堂子.md "wikilink") / 作曲・編曲 - 4-EVER / 歌 - クローバー
 
 ## 各話リスト
 
@@ -720,7 +720,7 @@
 </tr>
 <tr class="even">
 <td><p>マスター・オブ・エピック大作戦 〜秘境イルヴァーナ渓谷〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/待田堂子" title="wikilink">待田堂子</a></p></td>
+<td><p><a href="../Page/待田堂子.md" title="wikilink">待田堂子</a></p></td>
 <td><p>えんどうてつや</p></td>
 <td><p>杉藤さゆり</p></td>
 <td></td>
@@ -1466,11 +1466,11 @@ Lee Bo Hee</p></td>
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------ | ---------------- |
 | [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | 2007年1月7日 - 3月25日  | 日曜 26:00 - 26:30 |
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")                                  | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    | 2007年1月8日 - 3月26日  | 月曜 27:43 - 28:13 |
-| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")                                  | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | 2007年1月12日 - 3月29日 | 金曜 27:30 - 28:00 |
+| [大阪府](../Page/大阪府.md "wikilink")                                                     | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | 2007年1月12日 - 3月29日 | 金曜 27:30 - 28:00 |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                | 2007年1月13日 - 3月30日 | 土曜 26:10 - 26:40 |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                | 2007年1月10日 - 3月28日 | 水曜 27:38 - 28:08 |
-| [CS](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")                                  | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2007年4月3日 - 6月19日  | 火曜 9:00 - 9:30   |
-| [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")                            | 2009年10月4日 -                                            | 日曜 25:30 - 26:00   |                  |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                | 2007年1月10日 - 3月28日 | 水曜 27:38 - 28:08 |
+| [CS](../Page/衛星放送.md "wikilink")                                                     | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2007年4月3日 - 6月19日  | 火曜 9:00 - 9:30   |
+| [アニマックス](../Page/アニマックス.md "wikilink")                                               | 2009年10月4日 -                                            | 日曜 25:30 - 26:00   |                  |
 
 ## 関連項目
 

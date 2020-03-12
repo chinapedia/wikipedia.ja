@@ -1,15 +1,15 @@
 > この記事は[The JG\'s](https://ja.wikipedia.org/wiki/The_JG\'s)から翻訳されています。
 
 
-**The JG's**（ザ・ジェイジーズ）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にかけて活動した、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で最初の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")・[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")である。活動当時最高峰のデジタル機材であった[フェアライトCMI](https://ja.wikipedia.org/wiki/フェアライトCMI "wikilink")や[シンクラヴィア](https://ja.wikipedia.org/wiki/シンクラヴィア "wikilink")等を用いて[Hi-NRG](https://ja.wikipedia.org/wiki/Hi-NRG "wikilink")系の楽曲をエディットして[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を行っていた。
+**The JG's**（ザ・ジェイジーズ）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1992年](../Page/1992年.md "wikilink")にかけて活動した、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で最初の[リミックス](../Page/リミックス.md "wikilink")・[ユニット](../Page/ユニット.md "wikilink")である。活動当時最高峰のデジタル機材であった[フェアライトCMI](../Page/フェアライトCMI.md "wikilink")や[シンクラヴィア](../Page/シンクラヴィア.md "wikilink")等を用いて[Hi-NRG](../Page/Hi-NRG.md "wikilink")系の楽曲をエディットして[リミックス](../Page/リミックス.md "wikilink")を行っていた。
 
 ## メンバー
 
 |                                                                   |                    | 現在の活動                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **大場次一**                                                          | リーダー兼リミックス         |                                                                                                                                                                                                                                 |
-| **[dj honda](https://ja.wikipedia.org/wiki/dj_honda "wikilink")** | リミックス              | [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") DJ Battle World Supremacy 準優勝。ファッションブランド "**h**" も展開している。                                                                                                               |
-| **[DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO "wikilink")**     | リミックス              | [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")でリーダー，DJ，サウンドクリエイター。バラエティ番組でも活動中                                                                                                                                             |
+| **[dj honda](https://ja.wikipedia.org/wiki/dj_honda "wikilink")** | リミックス              | [1992年](../Page/1992年.md "wikilink") DJ Battle World Supremacy 準優勝。ファッションブランド "**h**" も展開している。                                                                                                                                  |
+| **[DJ KOO](../Page/DJ_KOO.md "wikilink")**                        | リミックス              | [TRF](../Page/TRF.md "wikilink")でリーダー，DJ，サウンドクリエイター。バラエティ番組でも活動中                                                                                                                                                                |
 | **三好史**                                                           | エンジニア              | いぬ名義で[エディット](https://ja.wikipedia.org/wiki/エディット "wikilink")を多用するアニソンDJとして活動中。                                                                                                                                                  |
 | **[鈴木昇治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink")**       | プロデューサー            |                                                                                                                                                                                                                                 |
 | **高橋一男**                                                          | プロデューサー            |                                                                                                                                                                                                                                 |
@@ -46,7 +46,7 @@
 
 ## 関連項目
 
-  - [TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")
+  - [TRF](../Page/TRF.md "wikilink")
   - [ヒロミ](../Page/ヒロミ.md "wikilink")
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:ユーロビート](https://ja.wikipedia.org/wiki/Category:ユーロビート "wikilink")

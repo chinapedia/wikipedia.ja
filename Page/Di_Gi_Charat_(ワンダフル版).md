@@ -1,7 +1,7 @@
 > この記事は[Di Gi Charat \(\)](https://ja.wikipedia.org/wiki/Di_Gi_Charat_\(\))から翻訳されています。
 
 
-『**Di Gi Charat**』（デ・ジ・キャラット）は、[ブロッコリーが展開するキャラクター企画](../Page/ブロッコリー_\(企業\).md "wikilink")『[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")』を元に、[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内で放送された[アニメ](../Page/アニメ.md "wikilink")作品\[1\]\[2\]。『デ・ジ・キャラット』シリーズにおける初のアニメ作品でもある。
+『**Di Gi Charat**』（デ・ジ・キャラット）は、[ブロッコリーが展開するキャラクター企画](../Page/ブロッコリー_\(企業\).md "wikilink")『[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")』を元に、[TBS系](../Page/TBSテレビ.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内で放送された[アニメ](../Page/アニメ.md "wikilink")作品\[1\]\[2\]。『デ・ジ・キャラット』シリーズにおける初のアニメ作品でもある。
 
 なお、本項ではワンダフル枠内およびTBSでスペシャル版として放送されたテレビアニメ作品（通称「**ワンダフル版**」）に加え、劇場版アニメ『**Di Gi Charat 星の旅**』、および[OVA](../Page/OVA.md "wikilink")作品として制作された『**Di Gi Charat劇場 ぴよこにおまかせぴょ\!**』を扱う。
 
@@ -9,7 +9,7 @@
 
 [1999年](../Page/1999年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")から[12月24日にかけて](../Page/12月23日.md "wikilink")、ワンダフル枠内で全16話として放送された\[3\]。これまで様々なジャンルの作品を原作としてきたワンダフルアニメの最終作品でもある。
 
-監督に[桜井弘明](https://ja.wikipedia.org/wiki/桜井弘明 "wikilink")、キャラクターデザインに[山川吉樹](https://ja.wikipedia.org/wiki/山川吉樹 "wikilink")、オープニング主題歌に[奥井雅美](../Page/奥井雅美.md "wikilink")という、劇場版『[アキハバラ電脳組](../Page/アキハバラ電脳組.md "wikilink")』（TBS系で放送されたテレビアニメの劇場版）を手がけたスタッフ及びアーティストを起用、アニメーション制作を[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")が行った\[4\]。デ・ジ・キャラットのもつ独特の世界観を、桜井が10分という短い時間でコンパクトに収めている。結果、[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")な内容となっている。
+監督に[桜井弘明](../Page/桜井弘明.md "wikilink")、キャラクターデザインに[山川吉樹](https://ja.wikipedia.org/wiki/山川吉樹 "wikilink")、オープニング主題歌に[奥井雅美](../Page/奥井雅美.md "wikilink")という、劇場版『[アキハバラ電脳組](../Page/アキハバラ電脳組.md "wikilink")』（TBS系で放送されたテレビアニメの劇場版）を手がけたスタッフ及びアーティストを起用、アニメーション制作を[マッドハウス](../Page/マッドハウス.md "wikilink")が行った\[4\]。デ・ジ・キャラットのもつ独特の世界観を、桜井が10分という短い時間でコンパクトに収めている。結果、[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")な内容となっている。
 
 翌[2000年](../Page/2000年.md "wikilink")からは夏休みやクリスマス、春休みといった季節ごとにスペシャル番組として続編が放送\[5\]。[2001年](../Page/2001年.md "wikilink")12月には劇場版として『Di Gi Charat 星の旅』\[6\]が制作、上映されるまでに至る。また、[2003年](../Page/2003年.md "wikilink")3月にはぴよこをメインにあつかったOVA『Di Gi Charat劇場 ぴよこにおまかせぴょ\!』\[7\]が全2巻で発売されている。
 
@@ -25,9 +25,9 @@
     通称ムラタク。ロン毛で大金持ちかつ美しい日本語を愛する青年、だったのだが汚れのない心を持つぷちこに一目惚れしてしまう。毎回胸に飾っている花が変わる。幼稚園を経営している。
   - 皆川 拓郎（みながわ たくろう）
     声 - [南央美](../Page/南央美.md "wikilink")
-    通称ミナタク。気弱でうさだに片思いし続け、ついにはうさだの通う中学校に転校してしまう中学生。[メロンパン](https://ja.wikipedia.org/wiki/メロンパン "wikilink")が好物で、拾い食いした納豆パンに中ってからは、鞄にいつもメロンパンを入れている。しじみの霊を除霊できる（それ以外の霊は除霊できない）ほか、演劇少年でもあり、演劇については熱が入るあまり別人のようになってしまう。「鉄足ジョニー」のトレーディングカードを収集している。なお、しじみの除霊は[南央美](../Page/南央美.md "wikilink")の思い付きからなる。
+    通称ミナタク。気弱でうさだに片思いし続け、ついにはうさだの通う中学校に転校してしまう中学生。[メロンパン](../Page/メロンパン.md "wikilink")が好物で、拾い食いした納豆パンに中ってからは、鞄にいつもメロンパンを入れている。しじみの霊を除霊できる（それ以外の霊は除霊できない）ほか、演劇少年でもあり、演劇については熱が入るあまり別人のようになってしまう。「鉄足ジョニー」のトレーディングカードを収集している。なお、しじみの除霊は[南央美](../Page/南央美.md "wikilink")の思い付きからなる。
   - 武（たけし） / 喜美（よしみ）
-    声 - [内藤玲](https://ja.wikipedia.org/wiki/内藤玲 "wikilink")（武）、[森訓久](https://ja.wikipedia.org/wiki/森訓久 "wikilink")（喜美）
+    声 - [内藤玲](../Page/内藤玲.md "wikilink")（武）、[森訓久](../Page/森訓久.md "wikilink")（喜美）
     ゲーマーズの常連客で、でじこのファンの二人組み。典型的ステレオタイプのおたく像として描かれており、太い方が武、細い方が喜美。でじこに「ブキミ」と命名された（2人の名前「武」「喜美」を合わせて音読みするとブキミになる）。ちなみに、武は毎日髪を洗っていると公言している。
   - 暴れん坊（あばれんぼう）
     声 - [上田祐司](../Page/うえだゆうじ.md "wikilink")
@@ -36,7 +36,7 @@
     声 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
     通称ロドやん。アメリカ在住のでじこのファン。でじこグッズのコレクターでそのグッズの数はかなりの量を誇る。でじこのコスプレをするが、その姿はでじこと微妙に異なっている。納豆は苦手。
   - デ・ジ・キャラットパパ、ママ
-    声 - [藤田和之](https://ja.wikipedia.org/wiki/藤田和之 "wikilink")（パパ）、[日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")（ママ）
+    声 - [藤田和之](../Page/藤田和之.md "wikilink")（パパ）、[日高のり子](../Page/日高のり子.md "wikilink")（ママ）
     でじこの両親、すなわちデ・ジ・キャラット星の王様と王妃様。『星の旅』に登場するが、デ・ジ・キャラットママは『[デ・ジ・キャラットにょ](../Page/デ・ジ・キャラットにょ.md "wikilink")』にも登場する（ただし、かなり風貌は異なっている）。
   - 変な生き物
     声 -不明（喋らない）
@@ -47,18 +47,18 @@
 
   - **ワンダフル版**
       - 原作・キャラクター原案 - [コゲどんぼ](../Page/こげどんぼ*.md "wikilink")「Di Gi Charat」（[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")）
-      - 企画 - [木谷高明](https://ja.wikipedia.org/wiki/木谷高明 "wikilink")、[大月俊倫](https://ja.wikipedia.org/wiki/大月俊倫 "wikilink")、[丸山正雄](https://ja.wikipedia.org/wiki/丸山正雄 "wikilink")、吉田啓良
-      - 監督・脚本 - [桜井弘明](https://ja.wikipedia.org/wiki/桜井弘明 "wikilink")
+      - 企画 - [木谷高明](../Page/木谷高明.md "wikilink")、[大月俊倫](../Page/大月俊倫.md "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")、吉田啓良
+      - 監督・脚本 - [桜井弘明](../Page/桜井弘明.md "wikilink")
       - キャラクターデザイン・総作画監督 - [山川吉樹](https://ja.wikipedia.org/wiki/山川吉樹 "wikilink")
       - 美術監督 - [池田祐二](https://ja.wikipedia.org/wiki/池田祐二 "wikilink")
       - 撮影監督 - 山口仁
-      - 音響監督 - [たなかかずや](https://ja.wikipedia.org/wiki/たなかかずや "wikilink")
+      - 音響監督 - [たなかかずや](../Page/たなかかずや.md "wikilink")
       - 音楽 - 坂本裕介
       - アニメーションプロデューサー - 諸澤昌男
       - プロデューサー - 落合芳行、源生哲雄
-      - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+      - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
       - 製作協力 - ブロッコリー、[キングレコード](../Page/キングレコード.md "wikilink")
-      - 製作 - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")
+      - 製作 - [TBS](../Page/TBSテレビ.md "wikilink")
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
       - 編集 - 松村正宏
       - 音楽 - 増田俊郎
       - 音響監督 - たなかかずや
-      - 監督 - 桜井弘明（サマー）、[小島正幸](https://ja.wikipedia.org/wiki/小島正幸 "wikilink")（サマー）、[高橋亨](https://ja.wikipedia.org/wiki/高橋亨 "wikilink")（サマー、クリスマス、お花見、なつやすみ）、[佐藤竜雄](../Page/佐藤竜雄.md "wikilink")（サマー）、[大地丙太郎](../Page/大地丙太郎.md "wikilink")（サマー）
+      - 監督 - 桜井弘明（サマー）、[小島正幸](../Page/小島正幸.md "wikilink")（サマー）、[高橋亨](https://ja.wikipedia.org/wiki/高橋亨 "wikilink")（サマー、クリスマス、お花見、なつやすみ）、[佐藤竜雄](../Page/佐藤竜雄.md "wikilink")（サマー）、[大地丙太郎](../Page/大地丙太郎.md "wikilink")（サマー）
       - プロデューサー - 源生哲雄、森山敦、諸澤昌男
       - アニメーション制作 - マッドハウス
       - 製作協力 - ブロッコリー、キングレコード
@@ -84,7 +84,7 @@
   - **劇場版**
       - 原作・キャラクター原案 - コゲどんぼ
       - 監督 - 桜井弘明
-      - 脚本 - [池田眞美子](https://ja.wikipedia.org/wiki/池田眞美子 "wikilink")、桜井弘明
+      - 脚本 - [池田眞美子](../Page/池田眞美子.md "wikilink")、桜井弘明
       - キャラクターデザイン・総作画監督 - 山川吉樹
       - 作画監督 - 加野晃
       - 絵コンテ - 桜井弘明、山川吉樹
@@ -108,7 +108,7 @@
       - 美術監督 - 一色美緒
       - 色彩設計 - 大野春恵
       - 撮影監督 - 森下成一
-      - 音響監督 - [蝦名恭範](https://ja.wikipedia.org/wiki/蝦名恭範 "wikilink")、桜井弘明
+      - 音響監督 - [蝦名恭範](../Page/蝦名恭範.md "wikilink")、桜井弘明
       - 音楽 - 増田俊郎
       - プロデューサー - [里見哲朗](https://ja.wikipedia.org/wiki/里見哲朗 "wikilink")、中野葉子、諸澤昌男
       - アニメーション制作 - マッドハウス
@@ -120,18 +120,18 @@
 
 :; オープニングテーマ「[only one, No.1](https://ja.wikipedia.org/wiki/only_one,_No.1 "wikilink")」
 
-:: 作曲・編曲 - [矢吹俊郎](https://ja.wikipedia.org/wiki/矢吹俊郎 "wikilink") / 作詞・歌 - [奥井雅美](../Page/奥井雅美.md "wikilink")
+:: 作曲・編曲 - [矢吹俊郎](../Page/矢吹俊郎.md "wikilink") / 作詞・歌 - [奥井雅美](../Page/奥井雅美.md "wikilink")
 
 :; 15話挿入歌「PARTY☆NIGHT」(HYPER PARAPARA VERSION)
 
-:: 作詞 - 森ユキ / 作曲 - [坂本裕介](https://ja.wikipedia.org/wiki/坂本裕介 "wikilink") / 編曲 - [増田俊郎](https://ja.wikipedia.org/wiki/増田俊郎 "wikilink") / 歌 - D.U.P.（[真田アサミ](https://ja.wikipedia.org/wiki/真田アサミ "wikilink")・[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")・[沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")）
+:: 作詞 - 森ユキ / 作曲 - [坂本裕介](https://ja.wikipedia.org/wiki/坂本裕介 "wikilink") / 編曲 - [増田俊郎](https://ja.wikipedia.org/wiki/増田俊郎 "wikilink") / 歌 - D.U.P.（[真田アサミ](https://ja.wikipedia.org/wiki/真田アサミ "wikilink")・[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")・[沢城みゆき](../Page/沢城みゆき.md "wikilink")）
 
 :; エンディングテーマ「Happy Day」
 
   -
 
       -
-        作詞 - 根津洋子 / 作曲 - [宮島律子](https://ja.wikipedia.org/wiki/宮島律子 "wikilink") / 編曲 - [岩本正樹](https://ja.wikipedia.org/wiki/岩本正樹 "wikilink") / 歌 - D.U.P.（真田アサミ・氷上恭子・沢城みゆき）
+        作詞 - 根津洋子 / 作曲 - [宮島律子](https://ja.wikipedia.org/wiki/宮島律子 "wikilink") / 編曲 - [岩本正樹](../Page/岩本正樹.md "wikilink") / 歌 - D.U.P.（真田アサミ・氷上恭子・沢城みゆき）
           - ワンダフル版のエンディングはテレビ放送されず、真田アサミによるソロバージョンがVHS/DVD版にのみ収録された。
 
 <!-- end list -->
@@ -210,14 +210,14 @@
 
 :; オープニングテーマ「We are THE ONE\!」
 
-:: 作詞 - 秋谷銀四郎 / 作曲・編曲 - 川辺健宏 / 歌 - [P・K・O](https://ja.wikipedia.org/wiki/P・K・O "wikilink")（[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")、[鈴木千尋](https://ja.wikipedia.org/wiki/鈴木千尋_\(声優\) "wikilink")、[サエキトモ](../Page/サエキトモ.md "wikilink")）
+:: 作詞 - 秋谷銀四郎 / 作曲・編曲 - 川辺健宏 / 歌 - [P・K・O](../Page/P・K・O.md "wikilink")（[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")、[鈴木千尋](../Page/鈴木千尋_\(声優\).md "wikilink")、[サエキトモ](../Page/サエキトモ.md "wikilink")）
 
 :; エンディングテーマ「Knighthood 〜世界で一番の夢を〜」
 
   -
 
       -
-        作詞・作曲 - [上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink") / 編曲 - 藤間仁 / 歌 - P・K・O（鳥海浩輔、鈴木千尋、サエキトモ）
+        作詞・作曲 - [上松範康](../Page/上松範康.md "wikilink") / 編曲 - 藤間仁 / 歌 - P・K・O（鳥海浩輔、鈴木千尋、サエキトモ）
 
     ※本作の主題歌は共にP・K・Oの既存楽曲の流用であり、本作の主題歌として製作されたものではない。「We are THE ONE\!」はこれ以前に、[ANIMAX](https://ja.wikipedia.org/wiki/ANIMAX "wikilink")放映の情報番組『ゲーマーズエクスプレス』のエンディングテーマとしても使用されていた。
 
@@ -242,7 +242,7 @@
 <td><p><strong>1999年</strong><br />
 11月30日</p></td>
 <td><p>でじこが来たにょ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井弘明" title="wikilink">桜井弘明</a></p></td>
+<td><p><a href="../Page/桜井弘明.md" title="wikilink">桜井弘明</a></p></td>
 <td><p>北野幸広</p></td>
 <td></td>
 </tr>
@@ -250,7 +250,7 @@
 <td><p>2</p></td>
 <td><p>12月1日</p></td>
 <td><p>ラ・ビ・アン・ローズと呼びなさい</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村中博美" title="wikilink">村中博美</a></p></td>
+<td><p><a href="../Page/村中博美.md" title="wikilink">村中博美</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -356,13 +356,13 @@
 <td><p>PARTY NIGHT</p></td>
 <td><p>佐藤竜雄</p></td>
 <td><p>桜井弘明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中比呂人" title="wikilink">田中比呂人</a></p></td>
+<td><p><a href="../Page/田中比呂人.md" title="wikilink">田中比呂人</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>12月24日</p></td>
 <td><p>うさだ大爆発</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
 <td><p>北野幸広</p></td>
 <td></td>
 </tr>
@@ -603,7 +603,7 @@
 
 ### Di Gi Charat 星の旅
 
-[2001年](../Page/2001年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")公開\[9\]。『冬の角川アニメ』の一環として、『[サクラ大戦 活動写真](https://ja.wikipedia.org/wiki/サクラ大戦_活動写真 "wikilink")』、『[あずまんが大王](https://ja.wikipedia.org/wiki/あずまんが大王 "wikilink")』、『[スレイヤーズぷれみあむ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\)#スレイヤーズぷれみあむ "wikilink")』と同時上映。 [2002年](../Page/2002年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に初VHS・DVD化され、特典として未公開新作エピソードの「くちからバズーカ」が収録されている。
+[2001年](../Page/2001年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")公開\[9\]。『冬の角川アニメ』の一環として、『[サクラ大戦 活動写真](../Page/サクラ大戦_活動写真.md "wikilink")』、『[あずまんが大王](https://ja.wikipedia.org/wiki/あずまんが大王 "wikilink")』、『[スレイヤーズぷれみあむ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\)#スレイヤーズぷれみあむ "wikilink")』と同時上映。 [2002年](../Page/2002年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に初VHS・DVD化され、特典として未公開新作エピソードの「くちからバズーカ」が収録されている。
 
 ### デ・ジ・キャラット劇場 ぴよこにおまかせぴょ\!
 
@@ -624,9 +624,9 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>ぴよこの星ぴょ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田眞美子" title="wikilink">池田眞美子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井弘明" title="wikilink">桜井弘明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長濱博史" title="wikilink">長濱博史</a></p></td>
+<td><p><a href="../Page/池田眞美子.md" title="wikilink">池田眞美子</a></p></td>
+<td><p><a href="../Page/桜井弘明.md" title="wikilink">桜井弘明</a></p></td>
+<td><p><a href="../Page/長濱博史.md" title="wikilink">長濱博史</a></p></td>
 <td><p>飯島秀一</p></td>
 </tr>
 <tr class="even">
@@ -667,7 +667,7 @@
 <td><p>クウもお医者さんぴょ</p></td>
 <td><p>池田眞美子</p></td>
 <td><p>井上英紀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤雄三" title="wikilink">佐藤雄三</a></p></td>
+<td><p><a href="../Page/佐藤雄三.md" title="wikilink">佐藤雄三</a></p></td>
 <td><p>中原清隆</p></td>
 </tr>
 <tr class="odd">
@@ -684,7 +684,7 @@
 <td><p>池田眞美子</p></td>
 <td><p>山川吉樹</p></td>
 <td><p>磨積良亜澄</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂井久太" title="wikilink">坂井久太</a></p></td>
+<td><p><a href="../Page/坂井久太.md" title="wikilink">坂井久太</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -736,5 +736,5 @@
 5.
 6.
 7.
-8.  [TBSアニメフェスタ](https://ja.wikipedia.org/wiki/TBSアニメフェスタ "wikilink")会場にて上映。
+8.  [TBSアニメフェスタ](../Page/TBSアニメフェスタ.md "wikilink")会場にて上映。
 9.

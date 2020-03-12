@@ -1,7 +1,7 @@
 > この記事は[GARLICBOYS](https://ja.wikipedia.org/wiki/GARLICBOYS)から翻訳されています。
 
 
-**GARLICBOYS**（ガーリックボーイズ）は[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1985年結成。1995年[EPICソニーよりメジャーデビュー](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。2012年現在は[PIZZA OF DEATH RECORDS所属](https://ja.wikipedia.org/wiki/PIZZA_OF_DEATH_RECORDS "wikilink")。
+**GARLICBOYS**（ガーリックボーイズ）は[大阪府](../Page/大阪府.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1985年結成。1995年[EPICソニーよりメジャーデビュー](../Page/エピックレコードジャパン.md "wikilink")。2012年現在は[PIZZA OF DEATH RECORDS所属](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")。
 
 2014年内に活動休止を発表\[1\]し、12月29日大阪の梅田クラブクアトロでのラストライブをもって活動休止した\[2\]。
 
@@ -112,7 +112,7 @@
         DVD:GARLIC BOMBER／FUNKY RIDER／KING OF SMELL／I WANT YOUR PANTY／WAY OF THE FAT BOY／走れ坊さん／PSYCHO THRASH／SKATE & MOSH／SUPER BASEBALL FIST FIGHT／GARLICHOLIC／怒りのもんた・泣きの小金治／泉北にんにく軍団／GUTS\!MEDALIST／ハッスルするっす／あんた飛ばしすぎ／GHQ／ヤクザラブ／ダンシングタンク／WOW WOW アバンチュール／若気の至り／マッシュルームカットとダッフルコート／B-side
 6.  **tribute to Garlic Boys**（2006年8月）[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")
       -
-        YOKOZUNA（ゆーこときカズ）／十二の春（[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")）／大江戸捜査網（[TYPHOON24](https://ja.wikipedia.org/wiki/TYPHOON24 "wikilink")）／Too Late True Love（[MOGA THE ¥5](https://ja.wikipedia.org/wiki/MOGA_THE_/5 "wikilink")）／G.H.Q（JURASSIC JADE）／奴はパンクロッカー（BURL）／WAVE（[G-FREAK FACTORY](https://ja.wikipedia.org/wiki/G-FREAK_FACTORY "wikilink")）／走れ坊さん（BOBO BRAZIL）／若気の至り（[ハンサム兄弟](https://ja.wikipedia.org/wiki/ハンサム兄弟 "wikilink")）／マッシュルームカットとダッフルコート（[kamomekamome](https://ja.wikipedia.org/wiki/kamomekamome "wikilink")）／Skate & Mosh（[UNITED](https://ja.wikipedia.org/wiki/UNITED "wikilink")）／あんた飛ばし過ぎ（[RAZORS EDGE](https://ja.wikipedia.org/wiki/RAZORS_EDGE "wikilink")）
+        YOKOZUNA（ゆーこときカズ）／十二の春（[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")）／大江戸捜査網（[TYPHOON24](https://ja.wikipedia.org/wiki/TYPHOON24 "wikilink")）／Too Late True Love（[MOGA THE ¥5](https://ja.wikipedia.org/wiki/MOGA_THE_/5 "wikilink")）／G.H.Q（JURASSIC JADE）／奴はパンクロッカー（BURL）／WAVE（[G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink")）／走れ坊さん（BOBO BRAZIL）／若気の至り（[ハンサム兄弟](https://ja.wikipedia.org/wiki/ハンサム兄弟 "wikilink")）／マッシュルームカットとダッフルコート（[kamomekamome](https://ja.wikipedia.org/wiki/kamomekamome "wikilink")）／Skate & Mosh（[UNITED](../Page/UNITED.md "wikilink")）／あんた飛ばし過ぎ（[RAZORS EDGE](https://ja.wikipedia.org/wiki/RAZORS_EDGE "wikilink")）
 7.  **実録LIVE 2006-2007**（2008年7月23日）ライブアルバム
       -
         CD：ゆーことカズキ／泣き虫デスマッチ／さすらい節／荒野のさびしん棒／笑って死にたい／ダンシングタンク／B-Side／ハッスルするっす／電撃セラピー／兄貴御立腹／男と少女／コバルトラブ／YOKOZUNA／あんた飛ばし過ぎ
@@ -120,7 +120,7 @@
 
 ### 参加作品
 
-1.  [MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-](https://ja.wikipedia.org/wiki/MUSIC_FROM_AND_INSPIRED_BY_THE_GAME_HEAVY_METAL_THUNDER_-THE_RECORDINGS- "wikilink")（2005年9月7日）
+1.  [MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-](../Page/MUSIC_FROM_AND_INSPIRED_BY_THE_GAME_HEAVY_METAL_THUNDER_-THE_RECORDINGS-.md "wikilink")（2005年9月7日）
       -
         2.ロボットのバラード
 
@@ -158,7 +158,7 @@
 <td><p>GARLIC BOYS<br />
 <a href="https://ja.wikipedia.org/wiki/ワタナベイビー" title="wikilink">ワタナベイビー</a><br />
 <a href="https://ja.wikipedia.org/wiki/ハンサム兄弟" title="wikilink">ハンサム兄弟</a><br />
-<a href="https://ja.wikipedia.org/wiki/メガマサヒデ" title="wikilink">メガマサヒデ</a></p></td>
+<a href="../Page/メガマサヒデ.md" title="wikilink">メガマサヒデ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -176,7 +176,7 @@ MATUZAWA</p></td>
 <td><p>第四回 平成ラリー塾<br />
 ～ジョイン・ザ・ラリー塾”東京編”</p></td>
 <td><p>2006年09月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロフト_(ライブハウス)" title="wikilink">新宿 LOFT</a></p></td>
+<td><p><a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿 LOFT</a></p></td>
 <td><p>GARLIC BOYS<br />
 <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a><br />
 <a href="../Page/TROPICAL_GORILLA.md" title="wikilink">TROPICAL GORILLA</a><br />
@@ -209,7 +209,7 @@ RAZORS EDGE</p></td>
 ～大嫌いがやってきました</p></td>
 <td><p>2007年05月20日</p></td>
 <td><p>GARLIC BOYS<br />
-<a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></p></td>
+<a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -219,7 +219,7 @@ RAZORS EDGE</p></td>
 <td><p>2007年06月17日</p></td>
 <td><p>GARLIC BOYS<br />
 青春野郎<br />
-<a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></p></td>
+<a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -364,7 +364,7 @@ MINOR LEAGUE</p></td>
 <td><p>2010年11月20日</p></td>
 <td><p>渋谷 O-nest</p></td>
 <td><p>GARLIC BOYS<br />
-<a href="https://ja.wikipedia.org/wiki/COBRA_(バンド)" title="wikilink">COBRA</a><br />
+<a href="../Page/COBRA_(バンド).md" title="wikilink">COBRA</a><br />
 MINOR LEAGUE<br />
 dustbox<br />
 <a href="https://ja.wikipedia.org/wiki/UNLIMITS" title="wikilink">UNLIMITS</a></p></td>
@@ -377,7 +377,7 @@ dustbox<br />
 <td><p>2010年12月11日</p></td>
 <td><p>十三 FANDANGO</p></td>
 <td><p>GARLIC BOYS<br />
-<a href="https://ja.wikipedia.org/wiki/YELLOW_MACHINEGUN" title="wikilink">YELLOW MACHINEGUN</a><br />
+<a href="../Page/YELLOW_MACHINEGUN.md" title="wikilink">YELLOW MACHINEGUN</a><br />
 地獄車</p></td>
 <td></td>
 </tr>
@@ -409,7 +409,7 @@ SPREAD</p></td>
 <td><p>2011年06月19日</p></td>
 <td><p>新宿 LOFT</p></td>
 <td><p>GARLIC BOYS<br />
-<a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a><br />
+<a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a><br />
 COBRA<br />
 <a href="https://ja.wikipedia.org/wiki/COUNTRY_YARD" title="wikilink">COUNTRY YARD</a><br />
 FC FIVE<br />
@@ -423,7 +423,7 @@ Jr.MONSTER<br />
 <td><p>2011年08月22日</p></td>
 <td><p>心斎橋 CLUB QUATTRO</p></td>
 <td><p>GARLIC BOYS<br />
-<a href="https://ja.wikipedia.org/wiki/ニューロティカ" title="wikilink">NEW ROTE’KA</a><br />
+<a href="../Page/ニューロティカ.md" title="wikilink">NEW ROTE’KA</a><br />
 THE 冠<br />
 OVER ARM THROW</p></td>
 <td></td>
@@ -530,7 +530,7 @@ Con-Cons-Crown<br />
 <td><p>新宿 LOFT</p></td>
 <td><p>GARLIC BOYS<br />
 <a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモン</a><br />
-<a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a><br />
+<a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a><br />
 MEANING<br />
 OVER ARM THROW<br />
 DRADNATS<br />
@@ -588,7 +588,7 @@ WRENCH</p></td>
 
 ## 関連項目
 
-  - [日本のパンク・ロック](https://ja.wikipedia.org/wiki/日本のパンク・ロック "wikilink")
+  - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink") 2018年9月に「あんた飛ばしすぎ」をリメイクしてカバーした。
 
 ## 脚注

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")を主なリスナー層に狙い、その大学生たちが実際に番組に持ち寄った話題、流行、音楽情報などを扱い、放送していた番組。当時は『[ミスDJリクエストパレード](https://ja.wikipedia.org/wiki/ミスDJリクエストパレード "wikilink")』（[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")）をきっかけに[女子大生](https://ja.wikipedia.org/wiki/女子大生 "wikilink")[ブームが盛り上がりを見せていた時代でもあり](https://ja.wikipedia.org/wiki/流行 "wikilink")、月曜日に当時[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の現役学生だった内藤美奈子が出演していたことからも、この番組はかなりそれを意識していたとも言える。[リクルート社](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")（当時はリクルートフロムエー社）の[求人情報誌](https://ja.wikipedia.org/wiki/求人情報誌 "wikilink")『[フロム・エー](https://ja.wikipedia.org/wiki/FromA "wikilink")』が主要スポンサーだったことから『**A**チャンネル』というタイトルになったと思われる。
+[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")を主なリスナー層に狙い、その大学生たちが実際に番組に持ち寄った話題、流行、音楽情報などを扱い、放送していた番組。当時は『[ミスDJリクエストパレード](../Page/ミスDJリクエストパレード.md "wikilink")』（[文化放送](../Page/文化放送.md "wikilink")）をきっかけに[女子大生](../Page/女子大生.md "wikilink")[ブームが盛り上がりを見せていた時代でもあり](../Page/流行.md "wikilink")、月曜日に当時[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の現役学生だった内藤美奈子が出演していたことからも、この番組はかなりそれを意識していたとも言える。[リクルート社](../Page/リクルートホールディングス.md "wikilink")（当時はリクルートフロムエー社）の[求人情報誌](../Page/求人情報誌.md "wikilink")『[フロム・エー](https://ja.wikipedia.org/wiki/FromA "wikilink")』が主要スポンサーだったことから『**A**チャンネル』というタイトルになったと思われる。
 
 本番組スタート当初、各曜日には
 
@@ -26,16 +26,16 @@
 ## パーソナリティ
 
   - 月曜日：[内藤美奈子](https://ja.wikipedia.org/wiki/内藤美奈子 "wikilink")
-  - 火曜日：[オレンジ・シスターズ](https://ja.wikipedia.org/wiki/オレンジ・シスターズ "wikilink")（[吉川聖美](https://ja.wikipedia.org/wiki/吉川聖美 "wikilink")・[吉竹加世子](https://ja.wikipedia.org/wiki/吉竹加世子 "wikilink")・[酒井妙](https://ja.wikipedia.org/wiki/あさいゆきの "wikilink")、6月まで） → [林真理子](https://ja.wikipedia.org/wiki/林真理子 "wikilink")、[吉竹加世子](https://ja.wikipedia.org/wiki/吉竹加世子 "wikilink")（7月から）
-  - 水曜日：[斉藤ゆう子](https://ja.wikipedia.org/wiki/斉藤祐子 "wikilink")
-  - 木曜日：[山本晋也](https://ja.wikipedia.org/wiki/山本晋也 "wikilink")、[田中康夫](../Page/田中康夫.md "wikilink")（6月まで） → [竹中直人](../Page/竹中直人.md "wikilink")（7月から）
+  - 火曜日：[オレンジ・シスターズ](https://ja.wikipedia.org/wiki/オレンジ・シスターズ "wikilink")（[吉川聖美](https://ja.wikipedia.org/wiki/吉川聖美 "wikilink")・[吉竹加世子](https://ja.wikipedia.org/wiki/吉竹加世子 "wikilink")・[酒井妙](https://ja.wikipedia.org/wiki/あさいゆきの "wikilink")、6月まで） → [林真理子](../Page/林真理子.md "wikilink")、[吉竹加世子](https://ja.wikipedia.org/wiki/吉竹加世子 "wikilink")（7月から）
+  - 水曜日：[斉藤ゆう子](../Page/斉藤祐子.md "wikilink")
+  - 木曜日：[山本晋也](../Page/山本晋也.md "wikilink")、[田中康夫](../Page/田中康夫.md "wikilink")（6月まで） → [竹中直人](../Page/竹中直人.md "wikilink")（7月から）
   - 金曜日：[泉和美](https://ja.wikipedia.org/wiki/泉和美 "wikilink")（6月まで） → [ファニーキャッツ](https://ja.wikipedia.org/wiki/ファニーキャッツ "wikilink")（7月から）
 
 ## ネット局
 
   - [北海道放送](../Page/HBCラジオ.md "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
-  - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")
+  - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
+  - [琉球放送](../Page/琉球放送.md "wikilink")
 
 [Category:TBSラジオの深夜番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの深夜番組 "wikilink") [Category:TBSラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのバラエティ番組 "wikilink") [Category:TBSラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの帯番組の歴史 "wikilink") [Category:1983年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のラジオ番組_\(日本\) "wikilink")

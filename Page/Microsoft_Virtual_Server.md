@@ -3,7 +3,7 @@
 
 **Microsoft Virtual Server** は[仮想サーバを構築するソフトウェアである](../Page/仮想機械.md "wikilink")。オリジナルの Virtual Server は[コネクティクス](https://ja.wikipedia.org/wiki/コネクティクス "wikilink")が開発し、リリース前に[マイクロソフト](../Page/マイクロソフト.md "wikilink")に買収された。
 
-利用目的としては、アクセス率の低いサーバ同士の集約やゲストサーバ上でのアプリケーションやシステムの開発などがある。仮想マシンの作成と管理は [IIS](../Page/Internet_Information_Services.md "wikilink") 上のウェブベースの[インタフェースを使用するか](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")、VMRCplus といったクライアント アプリケーションでおこなう。Windows XPとWindows VistaがホストOSとしてサポートされているが、実運用を目的としない用途の利用に限定されている。正式サポートされている[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")は、[Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink") 2.1から5.0、[Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink") 9.0、[SUSE LinuxとSUSE](https://ja.wikipedia.org/wiki/SUSE_Linux "wikilink") Linux Enterprise Server 9.0と10.0である。
+利用目的としては、アクセス率の低いサーバ同士の集約やゲストサーバ上でのアプリケーションやシステムの開発などがある。仮想マシンの作成と管理は [IIS](../Page/Internet_Information_Services.md "wikilink") 上のウェブベースの[インタフェースを使用するか](../Page/インタフェース_\(情報技術\).md "wikilink")、VMRCplus といったクライアント アプリケーションでおこなう。Windows XPとWindows VistaがホストOSとしてサポートされているが、実運用を目的としない用途の利用に限定されている。正式サポートされている[Linux](../Page/Linux.md "wikilink")は、[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 2.1から5.0、[Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink") 9.0、[SUSE LinuxとSUSE](https://ja.wikipedia.org/wiki/SUSE_Linux "wikilink") Linux Enterprise Server 9.0と10.0である。
 
 ## 動作上の制限
 
@@ -26,9 +26,9 @@ Virtual Server 2005 R2 SP1時点での制限は以下の通り。
 ## 関連項目
 
   - [x86仮想化](https://ja.wikipedia.org/wiki/x86仮想化 "wikilink")
-  - [仮想アプライアンス](https://ja.wikipedia.org/wiki/仮想アプライアンス "wikilink")
+  - [仮想アプライアンス](../Page/仮想アプライアンス.md "wikilink")
   - [Microsoft Virtual PC](https://ja.wikipedia.org/wiki/Microsoft_Virtual_PC "wikilink")
-  - [Hyper-V](https://ja.wikipedia.org/wiki/Hyper-V "wikilink")
+  - [Hyper-V](../Page/Hyper-V.md "wikilink")
 
 ## 外部リンク
 

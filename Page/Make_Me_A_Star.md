@@ -5,13 +5,13 @@
 
 ## 解説
 
-スクェアにとって3枚目のオリジナルアルバムである。当時の[ジャズ](../Page/ジャズ.md "wikilink")・シーンでは[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")・ブームの最中であり、このアルバムでも前2作同様ジャズの1ヴァリエーションとしてのフュージョン・ミュージックが展開されている。当時の日本のジャズ界では[渡辺貞夫](../Page/渡辺貞夫.md "wikilink")がフュージョンシーンで圧倒的な人気を博し、その後をギタリストの[渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")が追い、さらにデビュー1年目のスクェアが若手フュージョングループとしてジャズファンから人気を集めるという構図であった。
+スクェアにとって3枚目のオリジナルアルバムである。当時の[ジャズ](../Page/ジャズ.md "wikilink")・シーンでは[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")・ブームの最中であり、このアルバムでも前2作同様ジャズの1ヴァリエーションとしてのフュージョン・ミュージックが展開されている。当時の日本のジャズ界では[渡辺貞夫](../Page/渡辺貞夫.md "wikilink")がフュージョンシーンで圧倒的な人気を博し、その後をギタリストの[渡辺香津美](../Page/渡辺香津美.md "wikilink")が追い、さらにデビュー1年目のスクェアが若手フュージョングループとしてジャズファンから人気を集めるという構図であった。
 
-前作『Midnight Lover』までメンバーだったギタリストの[御厨裕二](https://ja.wikipedia.org/wiki/御厨裕二 "wikilink")が退団し、7人組から6人組となっている。全曲をリーダーの[安藤正容](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")が作曲しており、4曲目に収録されている「STIFF NAILS」はその後ライヴのオープニングでしばしば演奏された。またラストに収録されている「TEXAS KID」は初期のスクェアを代表する楽曲で、タイトルのせいか[カントリー・ミュージック](https://ja.wikipedia.org/wiki/カントリー・ミュージック "wikilink")の影響も見られる。
+前作『Midnight Lover』までメンバーだったギタリストの[御厨裕二](https://ja.wikipedia.org/wiki/御厨裕二 "wikilink")が退団し、7人組から6人組となっている。全曲をリーダーの[安藤正容](../Page/安藤正容.md "wikilink")が作曲しており、4曲目に収録されている「STIFF NAILS」はその後ライヴのオープニングでしばしば演奏された。またラストに収録されている「TEXAS KID」は初期のスクェアを代表する楽曲で、タイトルのせいか[カントリー・ミュージック](https://ja.wikipedia.org/wiki/カントリー・ミュージック "wikilink")の影響も見られる。
 
-このアルバムを最後にキーボーディストの[宮城純子](https://ja.wikipedia.org/wiki/宮城純子 "wikilink")とドラマーの[マイケル河合が退団し](https://ja.wikipedia.org/wiki/河合誠一マイケル "wikilink")、後任のキーボーディストに[久米大作](https://ja.wikipedia.org/wiki/久米大作 "wikilink")が、ドラマーに[青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")が加入することになる。また、リーダーでギタリストの安藤正容と[サクソフォーン](../Page/サクソフォーン.md "wikilink")と[リリコン](https://ja.wikipedia.org/wiki/リリコン "wikilink")を担当する[伊東毅](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")（現・伊東たけし）、パーカッショニストの[仙波清彦](https://ja.wikipedia.org/wiki/仙波清彦 "wikilink")はこのアルバムまでは本名で活動していたが、次作『Rockoon』からは芸名（ただし、本名を仮名書きにしただけ）で活動することになる（なお仙波清彦は『セんバきヨひコ』と改名するものの後に再び改名して [2009年](../Page/2009年.md "wikilink")現在本名で活動）。
+このアルバムを最後にキーボーディストの[宮城純子](https://ja.wikipedia.org/wiki/宮城純子 "wikilink")とドラマーの[マイケル河合が退団し](https://ja.wikipedia.org/wiki/河合誠一マイケル "wikilink")、後任のキーボーディストに[久米大作](../Page/久米大作.md "wikilink")が、ドラマーに[青山純](../Page/青山純.md "wikilink")が加入することになる。また、リーダーでギタリストの安藤正容と[サクソフォーン](../Page/サクソフォーン.md "wikilink")と[リリコン](../Page/リリコン.md "wikilink")を担当する[伊東毅](../Page/伊東たけし.md "wikilink")（現・伊東たけし）、パーカッショニストの[仙波清彦](../Page/仙波清彦.md "wikilink")はこのアルバムまでは本名で活動していたが、次作『Rockoon』からは芸名（ただし、本名を仮名書きにしただけ）で活動することになる（なお仙波清彦は『セんバきヨひコ』と改名するものの後に再び改名して [2009年](../Page/2009年.md "wikilink")現在本名で活動）。
 
-タイトル曲『MAKE ME A STAR』は当時[ソニー](../Page/ソニー.md "wikilink")の音声多重カラーテレビ、「ステレオ[トリニトロン](https://ja.wikipedia.org/wiki/トリニトロン "wikilink")」のCMに起用された。
+タイトル曲『MAKE ME A STAR』は当時[ソニー](../Page/ソニー.md "wikilink")の音声多重カラーテレビ、「ステレオ[トリニトロン](../Page/トリニトロン.md "wikilink")」のCMに起用された。
 
 ## 収録曲
 

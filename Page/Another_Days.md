@@ -6,7 +6,7 @@
 ## 概要
 
   - シングルでのw-inds.初のオリコン1位獲得曲。
-  - 2002年6月5日[速報\!歌の大辞テン](https://ja.wikipedia.org/wiki/速報!歌の大辞テン "wikilink")に出演。
+  - 2002年6月5日[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")に出演。
 
 ### タイアップ
 
@@ -26,11 +26,11 @@
 <!-- end list -->
 
   -
-    作詞･作曲･編曲: [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+    作詞･作曲･編曲: [葉山拓亮](../Page/葉山拓亮.md "wikilink")
     編曲: planetcube(\#3)
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:W-inds.の楽曲](https://ja.wikipedia.org/wiki/Category:W-inds.の楽曲 "wikilink") [Category:葉山拓亮が制作した楽曲](https://ja.wikipedia.org/wiki/Category:葉山拓亮が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コンビニエンスストアのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コンビニエンスストアのコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

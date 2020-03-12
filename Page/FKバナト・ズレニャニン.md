@@ -1,9 +1,9 @@
 > この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
 
 
-**フドバルスキ・クルブ・バナト・ズレニャニン**（, ）は、[セルビア](../Page/セルビア.md "wikilink")共和国北部の都市[ズレニャニン](https://ja.wikipedia.org/wiki/ズレニャニン "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[セルビア・スルプスカ・リーガ](https://ja.wikipedia.org/wiki/セルビア・スルプスカ・リーガ "wikilink")・ヴォイヴォディナ地方（3部）に所属。
+**フドバルスキ・クルブ・バナト・ズレニャニン**（, ）は、[セルビア](../Page/セルビア.md "wikilink")共和国北部の都市[ズレニャニン](../Page/ズレニャニン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[セルビア・スルプスカ・リーガ](https://ja.wikipedia.org/wiki/セルビア・スルプスカ・リーガ "wikilink")・ヴォイヴォディナ地方（3部）に所属。
 
-ズレニャニンの[FKプロレテル](https://ja.wikipedia.org/wiki/:w:FK_Proleter_Zrenjanin "wikilink")（[1947年](../Page/1947年.md "wikilink")創設）と、近郊の街[バナツキ・ドヴォル](https://ja.wikipedia.org/wiki/バナツキ・ドヴォル "wikilink")の[FKブドゥチノスト](https://ja.wikipedia.org/wiki/:w:FK_Budućnost_Banatski_Dvor "wikilink")（[1938年](../Page/1938年.md "wikilink")創設）の2クラブが合併して、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に誕生した。前身のひとつのFKブドゥチノストは、2003-04シーズンのセルビア・モンテネグロカップで準優勝、翌シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")予選に出場した経験がある。
+ズレニャニンの[FKプロレテル](https://ja.wikipedia.org/wiki/:w:FK_Proleter_Zrenjanin "wikilink")（[1947年](../Page/1947年.md "wikilink")創設）と、近郊の街[バナツキ・ドヴォル](https://ja.wikipedia.org/wiki/バナツキ・ドヴォル "wikilink")の[FKブドゥチノスト](https://ja.wikipedia.org/wiki/:w:FK_Budućnost_Banatski_Dvor "wikilink")（[1938年](../Page/1938年.md "wikilink")創設）の2クラブが合併して、[2006年](../Page/2006年.md "wikilink")に誕生した。前身のひとつのFKブドゥチノストは、2003-04シーズンのセルビア・モンテネグロカップで準優勝、翌シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")予選に出場した経験がある。
 
 ## タイトル
 
@@ -102,7 +102,7 @@
 
   - [ゾラン・トシッチ](https://ja.wikipedia.org/wiki/ゾラン・トシッチ "wikilink") 2006-2007
 
-  - [バーヤック・スルジャン](https://ja.wikipedia.org/wiki/バーヤック・スルジャン "wikilink") 2006-2007
+  - [バーヤック・スルジャン](../Page/バーヤック・スルジャン.md "wikilink") 2006-2007
 
   - [アレクサンダル・チャヴリッチ](https://ja.wikipedia.org/wiki/アレクサンダル・チャヴリッチ "wikilink") 2010-2012
 

@@ -1,7 +1,7 @@
 > この記事は[MIC](https://ja.wikipedia.org/wiki/MIC)から翻訳されています。
 
 
-**道の駅みしょうMIC**（みちのえき みしょうミック）は、[愛媛県](../Page/愛媛県.md "wikilink")[南宇和郡](../Page/南宇和郡.md "wikilink")[愛南町](https://ja.wikipedia.org/wiki/愛南町 "wikilink")御荘平城にある[国道56号](../Page/国道56号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
+**道の駅みしょうMIC**（みちのえき みしょうミック）は、[愛媛県](../Page/愛媛県.md "wikilink")[南宇和郡](../Page/南宇和郡.md "wikilink")[愛南町](../Page/愛南町.md "wikilink")御荘平城にある[国道56号](../Page/国道56号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
 
 ## 主な施設
 
@@ -40,8 +40,8 @@
 
 ## 関連項目
 
-  - [道の駅一覧 四国地方](https://ja.wikipedia.org/wiki/道の駅一覧_四国地方 "wikilink")
-  - [道の駅一覧 ま行](https://ja.wikipedia.org/wiki/道の駅一覧_ま行 "wikilink")
+  - [道の駅一覧 四国地方](../Page/道の駅一覧_四国地方.md "wikilink")
+  - [道の駅一覧 ま行](../Page/道の駅一覧_ま行.md "wikilink")
   - [日本風景街道](https://ja.wikipedia.org/wiki/日本風景街道 "wikilink")
 
 ## 外部リンク

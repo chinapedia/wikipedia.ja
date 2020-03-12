@@ -9,14 +9,14 @@
 
 先行シングルがなく全曲が新曲。「FOREST CHANT」 「夢中遊泳」 「狂った時計」は2006年12月24日に[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")で公演された上海歌劇団の前衛舞踏『MODERN DANCE 現代舞 BREATHE THE CITY"城市呼吸"』の為に書き下ろされた舞台音楽より起用した\[1\]。これまでの作品と比較して[日本語](../Page/日本語.md "wikilink")タイトルの楽曲が多いのも特徴である。
 
-ある程度筋道を立ててから作曲する従来の方法とは対照的に、本作は何も考えずに[セッションしながら作曲していくという](https://ja.wikipedia.org/wiki/ジャム_\(音楽\) "wikilink")、これまでにない手法で[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が進められた。本人はその制作過程を「**解体しながら構築していった**」と表現している\[2\]
+ある程度筋道を立ててから作曲する従来の方法とは対照的に、本作は何も考えずに[セッションしながら作曲していくという](../Page/ジャム_\(音楽\).md "wikilink")、これまでにない手法で[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が進められた。本人はその制作過程を「**解体しながら構築していった**」と表現している\[2\]
 
 また本作では布袋サウンドの象徴とも言える**[8ビート](https://ja.wikipedia.org/wiki/8ビート "wikilink")を封印**している。これにはドラマーに[中村達也](https://ja.wikipedia.org/wiki/中村達也 "wikilink")を起用したことが理由として挙げられる。
 「これまでの僕の8ビートの曲は[ディズニーランド](../Page/ディズニーランド.md "wikilink")ばりに仕掛けだらけだったから、そこを再現しないと曲としてノリ切れない部分があった。でも中村くんは同じ楽曲でも毎回違うフレーズを叩くプレイヤーだから、今回CDの音をライブで完全に再現することに重きを置いた作品の必要性はないと思った」と布袋は語っており、楽曲としてしっかりと纏めるよりも、むしろステージでより面白い方向に変化させていくことを意識した楽曲作りが成されている。\[3\]
 
-こういった背景もあってか、本人も「非常に**風変わりなアルバム**」「[ポップ・ミュージック](https://ja.wikipedia.org/wiki/ポップ・ミュージック "wikilink")という形態を取りつつも、アバンギャルドな精神に溢れた**異色作**」と称している。\[4\]
+こういった背景もあってか、本人も「非常に**風変わりなアルバム**」「[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")という形態を取りつつも、アバンギャルドな精神に溢れた**異色作**」と称している。\[4\]
 
-ツアーでもこれらのコンセプトは踏襲され、当アルバム収録曲を含めた全楽曲が[同期を一切使用しない完全生演奏で体現された](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。
+ツアーでもこれらのコンセプトは踏襲され、当アルバム収録曲を含めた全楽曲が[同期を一切使用しない完全生演奏で体現された](../Page/ミュージックシーケンサー.md "wikilink")。
 アルバム及びツアーがこのような内容となったことについて布袋は「コンピュータを駆使した最近の完璧すぎる音楽にみんな飽和している部分があると思う。ライブに関しても今はクリックに始まりクリックに終わるという時間までも支配されている感があったから、そういったところから抜け出そうと思っていた。いびつだけどそれが恐ろしいまでに迫ってくるスリルや切なさといったものにもう一度ロックン・ロールを感じてほしかった」と語っている。\[5\]
 
 またこのツアーで「8ビートの封印」「バンドサウンドの極限」を体感した反動が、次作『[GUITARHYTHM V](https://ja.wikipedia.org/wiki/GUITARHYTHM_V "wikilink")』のデジタル・サウンドに大きく活きることとなる。
@@ -25,13 +25,13 @@
 
 メインギターとして新たに[ギブソン・ファイヤーバード](../Page/ギブソン・ファイヤーバード.md "wikilink")を使用。「これまでのスタイルから外れたかったので、使ったことのないモデルを使ってみようと思った」「気負いがないというのが今回のテーマだった。（メインギターである）[テレキャスター](https://ja.wikipedia.org/wiki/テレキャスター "wikilink")だとついガッと弾いてしまうから」と布袋は語っている\[6\]。同モデルはツアーでもメインギターとして使用した。
 
-上述の通り、本作は一部の楽曲を除きほとんどが[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")すらない状態でセッションを始め、その音源を布袋が[アレンジしていくといった手法でレコーディングは進められた](../Page/編曲.md "wikilink")。布袋によると「今回は大きく分けて[中村達也たちとのセッション](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")、[オオエタツヤ](../Page/オオエタツヤ.md "wikilink")とのセッション、ヤマサキテツヤとのセッション、上海歌劇団の為のセッションという4つから成り立っている」とされている。\[7\]
+上述の通り、本作は一部の楽曲を除きほとんどが[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")すらない状態でセッションを始め、その音源を布袋が[アレンジしていくといった手法でレコーディングは進められた](../Page/編曲.md "wikilink")。布袋によると「今回は大きく分けて[中村達也たちとのセッション](../Page/中村達也_\(ドラマー\).md "wikilink")、[オオエタツヤ](../Page/オオエタツヤ.md "wikilink")とのセッション、ヤマサキテツヤとのセッション、上海歌劇団の為のセッションという4つから成り立っている」とされている。\[7\]
 
-また今回は複数人の[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")を起用しており、これも今までは違う世界観を志していたことが背景にある。
+また今回は複数人の[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")を起用しており、これも今までは違う世界観を志していたことが背景にある。
 
 ## リリース
 
-[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")/ヴァージンよりリリースされた。
+[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")/ヴァージンよりリリースされた。
 
 ライブDVD「HOTEI and The WANDERERS FUNKY PUNKY TOUR 2007-2008」とのダブル購入特典として、抽選で本作のセッション音源を収録したHOTEI Session CD『Original Session For "Ambivalent"』が当たるキャンペーンが行われた。収録されているのは「Peek-A-Boo session」「Wanderers session」「yesterday No More session」の3曲。
 
@@ -39,13 +39,13 @@
 
 本作を受けてのツアーは『**HOTEI and The WANDERERS FUNKY PUNKY TOUR 2007-2008**』と銘打ち、2007年[10月26日](../Page/10月26日.md "wikilink")の[市原市市民会館](../Page/市原市市民会館.md "wikilink")を皮切りに全国31都市35公演を行っている。
 
-ツアーメンバーはレコーディングに参加した中村達也、[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")、[スティーヴ・エトウ](https://ja.wikipedia.org/wiki/スティーヴ・エトウ "wikilink")に加え、元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")、前回のツアーにも参加した[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")といったラインナップである。"布袋寅泰"単体名義ではなく"HOTEI and The WANDERERS"とクレジットした理由については「全員キャリアがありステージ映えするという錚々たるメンバーである」こと、またアルバムタイトルを使用せず「FUNKY PUNKY」というツアータイトルになった点についても「再現に重きを置く内容のアルバムではないし、またそういうツアーメンバーでもないから」と語っている。\[8\]
+ツアーメンバーはレコーディングに参加した中村達也、[森岡賢](../Page/森岡賢.md "wikilink")、[スティーヴ・エトウ](https://ja.wikipedia.org/wiki/スティーヴ・エトウ "wikilink")に加え、元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](../Page/TAKUYA.md "wikilink")、前回のツアーにも参加した[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")といったラインナップである。"布袋寅泰"単体名義ではなく"HOTEI and The WANDERERS"とクレジットした理由については「全員キャリアがありステージ映えするという錚々たるメンバーである」こと、またアルバムタイトルを使用せず「FUNKY PUNKY」というツアータイトルになった点についても「再現に重きを置く内容のアルバムではないし、またそういうツアーメンバーでもないから」と語っている。\[8\]
 
-セッションでアルバムのレコーディングを進めていったことから、前述の通りツアーでは「**[同期を一切使用しない究極のバンドサウンド](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")**」がテーマとなり、森岡賢は「ライブでコンピュータを使用しなかったのはプロになった当初以来で、自分の中ではほとんど初めての試み」「自分を含めてメンバーがその場の思いつきでやってしまったことが、次のステージからはもう定着しているということの繰り返しだった。ツアー序盤と終盤を比べると、良い意味でもうほとんど別のライブと言える」と語っている。\[9\]\[10\]
+セッションでアルバムのレコーディングを進めていったことから、前述の通りツアーでは「**[同期を一切使用しない究極のバンドサウンド](../Page/ミュージックシーケンサー.md "wikilink")**」がテーマとなり、森岡賢は「ライブでコンピュータを使用しなかったのはプロになった当初以来で、自分の中ではほとんど初めての試み」「自分を含めてメンバーがその場の思いつきでやってしまったことが、次のステージからはもう定着しているということの繰り返しだった。ツアー序盤と終盤を比べると、良い意味でもうほとんど別のライブと言える」と語っている。\[9\]\[10\]
 
 またスティーヴ・エトウによると、本ツアーはバンドメンバーの顔ぶれから様々なミュージシャンの間でも話題となり「ツアー前はみんな口を揃えて「あのメンバーでバンドとして成り立つの？無理でしょ」と半信半疑だったし、もちろんバンドメンバーも全員不安はあった。でもいざツアーが始まってみれば各方面から絶賛の嵐だった。中には何度も観に来たのもいるくらい」「（バンドメンバー全員が）所謂サポートという枠に収まらず、全員が全員前に出て好き勝手やるようなメンバーにも関わらず、「あのメンバーを従えて場を制している布袋の存在感はただ者ではない」と異口同音に絶賛していた」とのことである。\[11\]\[12\]\[13\]
 
-布袋自身も「（今回のメンバーでツアーを行うことに）不安がなかったと言えば嘘になる。でも結果的に全員が持ち味を100パーセント出してくれたし、自分がそれを引き出せたという自負もある。逆にこんなに上手くいくとは思っていなかったという部分もあった。[前回のようないわゆる](https://ja.wikipedia.org/wiki/ALL_TIME_SUPER_BEST "wikilink")「布袋印」と言えるツアーの後というところも含めてすごく勇気がいる冒険だったけど、これを演って本当に良かったと思う。もし同じメンバーでまた次があるとしたら、その時は『HOTEI and The WANDERERS』じゃなくてもう『WANDERERS』名義で出ても良いくらい」とツアーへの満足感を語っている。\[14\]\[15\]
+布袋自身も「（今回のメンバーでツアーを行うことに）不安がなかったと言えば嘘になる。でも結果的に全員が持ち味を100パーセント出してくれたし、自分がそれを引き出せたという自負もある。逆にこんなに上手くいくとは思っていなかったという部分もあった。[前回のようないわゆる](../Page/ALL_TIME_SUPER_BEST.md "wikilink")「布袋印」と言えるツアーの後というところも含めてすごく勇気がいる冒険だったけど、これを演って本当に良かったと思う。もし同じメンバーでまた次があるとしたら、その時は『HOTEI and The WANDERERS』じゃなくてもう『WANDERERS』名義で出ても良いくらい」とツアーへの満足感を語っている。\[14\]\[15\]
 
 ツアー中は公式サイト内にツアー特設サイトが作られ、ブログは布袋以外のバンドメンバーも更新を行っていた。
 
@@ -59,21 +59,21 @@
 2.  **PEEK-A-BOO**
     :セッションでのテーマは[バウ・ワウ・ワウ](https://ja.wikipedia.org/wiki/バウ・ワウ・ワウ "wikilink")。セッション後も[アレンジを繰り返した末に完成した](../Page/編曲.md "wikilink")。\[16\]
       -
-        [イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")の[ファズ風な](../Page/ファズ_\(音響機器\).md "wikilink")[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")は、ギターではなく[6弦ベース](../Page/6弦ベース.md "wikilink")で演奏されたもの。\[17\]
+        [イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")の[ファズ風な](../Page/ファズ_\(音響機器\).md "wikilink")[リフ](../Page/リフ.md "wikilink")は、ギターではなく[6弦ベース](../Page/6弦ベース.md "wikilink")で演奏されたもの。\[17\]
 3.  **日々是上々**
     :当初は[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")が入っておらず、試しにセッション音源に乗せてみたところ全く違う方向に発展していったという。\[18\]
       -
         詞は「聴いた後に不安が残るものを」「意味不明なものを」というオーダーで書いてもらったと布袋は語っている。\[19\]
 4.  **ブラックカメレオン**
-    :セッションでのテーマは[ジェームス・ブラウン](https://ja.wikipedia.org/wiki/ジェームス・ブラウン "wikilink")。\[20\]
+    :セッションでのテーマは[ジェームス・ブラウン](../Page/ジェームス・ブラウン.md "wikilink")。\[20\]
       -
         [イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")のギターソロはセッション時のものをそのまま使用している。音源をアレンジしていき[カメレオン](https://ja.wikipedia.org/wiki/カメレオン "wikilink")のようにカラフルな楽曲になった結果、このタイトルになったとのこと。\[21\]
 5.  **YESTERDAY NO MORE**
-    :タイトルはセッション音源を妻の[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")と聴いていた際の会話から生まれたものである。\[22\]
+    :タイトルはセッション音源を妻の[今井美樹](../Page/今井美樹.md "wikilink")と聴いていた際の会話から生まれたものである。\[22\]
 6.  **WANDERERS**
-    :[PVが存在し](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、このアルバムのツアーメンバーである[中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")・[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")・[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")・[森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink")・[スティーヴ・エトウ](https://ja.wikipedia.org/wiki/スティーヴ・エトウ "wikilink")が参加している。
+    :[PVが存在し](../Page/ミュージック・ビデオ.md "wikilink")、このアルバムのツアーメンバーである[中村達也](../Page/中村達也_\(ドラマー\).md "wikilink")・[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")・[TAKUYA](../Page/TAKUYA.md "wikilink")・[森岡賢](../Page/森岡賢.md "wikilink")・[スティーヴ・エトウ](https://ja.wikipedia.org/wiki/スティーヴ・エトウ "wikilink")が参加している。
 7.  **レプリカント**
-    :セッションでのテーマは[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")の『[タックスマン](https://ja.wikipedia.org/wiki/タックスマン "wikilink")』。\[23\]
+    :セッションでのテーマは[ビートルズ](../Page/ビートルズ.md "wikilink")の『[タックスマン](../Page/タックスマン.md "wikilink")』。\[23\]
       -
         森岡賢がセッション中にいきなり弾き出したフレーズをそのまま採用している。\[24\]
 8.  **FOREST CHANT**
@@ -81,22 +81,22 @@
 9.  **NIGHTMARES**
     :英詞。
 10. **MINIMAL BEAUTY**
-    :インタビューで「これまでにない素直で気負いのない唄い方をしている」と評され、「[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")が初めての人だったことやいつもと違う種類のマイクを使ったことが影響したのかもしれない」と返している。\[26\]
+    :インタビューで「これまでにない素直で気負いのない唄い方をしている」と評され、「[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")が初めての人だったことやいつもと違う種類のマイクを使ったことが影響したのかもしれない」と返している。\[26\]
 11. **XXX KISS XXX**
 12. **FUNKY PUNKY**
     :当アルバムのツアーは、この「FUNKY PUNKY」がツアータイトルとなっている。
       -
         ツアーでは1曲目に演奏された。公演ごとにアレンジが繰り返され、ツアー終盤ではオリジナルから大きく変貌を遂げている。
 13. **人生はパーティーだ**
-    :セッションでのテーマは[スライ&ザ・ファミリー・ストーン](https://ja.wikipedia.org/wiki/スライ&ザ・ファミリー・ストーン "wikilink")。
+    :セッションでのテーマは[スライ&ザ・ファミリー・ストーン](../Page/スライ&ザ・ファミリー・ストーン.md "wikilink")。
       -
-        [ガヤは](https://ja.wikipedia.org/wiki/エキストラ "wikilink")[RIP SLYMEのFUMIYAによるもの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")。\[27\]
+        [ガヤは](../Page/エキストラ.md "wikilink")[RIP SLYMEのFUMIYAによるもの](../Page/RIP_SLYME.md "wikilink")。\[27\]
         本作のツアーでは演奏されなかったが、『[HOTEI 2010 / ROCK A GO\! GO\! TOUR](https://ja.wikipedia.org/wiki/MODERN_TIMES_ROCK'N'ROLL "wikilink")』にて披露されている。
 14. **幸せな日々**
     :最後のセッションにて作られた楽曲。あとから[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")系のノイズを足した以外はセッションの音源をそのまま使用している。\[28\]
       -
         詞は「どこかネガティブな心情にある現代の中で幸福な日々を送っている」という矛盾した現実を、肯定も否定もせず客観的な視点で書いたとのこと。\[29\]
-        [アウトロ](../Page/アウトロ.md "wikilink")は[フェード](https://ja.wikipedia.org/wiki/フェード "wikilink")アウトで終了するが、ツアーでは徐々に[アレンジされ](../Page/編曲.md "wikilink")、ツアー終盤ではロングギターソロの後にカットアウトで終了する形へと大きく変貌を遂げた。
+        [アウトロ](../Page/アウトロ.md "wikilink")は[フェード](../Page/フェード.md "wikilink")アウトで終了するが、ツアーでは徐々に[アレンジされ](../Page/編曲.md "wikilink")、ツアー終盤ではロングギターソロの後にカットアウトで終了する形へと大きく変貌を遂げた。
 15. **夢中遊泳**
     :2006年12月24日に上海で公演された上海歌劇団の前衛舞踏『MODERN DANCE 現代舞 BREATHE THE CITY"城市呼吸"』の為に書き下ろされた舞台音楽より起用。\[30\]
 16. **狂った時計**
@@ -106,16 +106,16 @@
 
 ## 参加ミュージシャン
 
-  - [布袋寅泰](../Page/布袋寅泰.md "wikilink") - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#2,4,6,7,12,13)、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") (\#8,15,16)
-  - [中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink") (\#2～7,12,24)
-  - [森岡賢](https://ja.wikipedia.org/wiki/森岡賢 "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") (\#2,6,7,9～12,14)
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink") - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink") (\#2,4,6,7,12,13)、[キーボード](../Page/キーボード_\(楽器\).md "wikilink") (\#8,15,16)
+  - [中村達也](../Page/中村達也_\(ドラマー\).md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink") (\#2～7,12,24)
+  - [森岡賢](../Page/森岡賢.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink") (\#2,6,7,9～12,14)
   - [スティーヴ・エトウ](https://ja.wikipedia.org/wiki/スティーヴ・エトウ "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink") (\#2～7,12～14)
-  - [TOKIE](https://ja.wikipedia.org/wiki/TOKIE "wikilink") - ベース (\#3)
+  - [TOKIE](../Page/TOKIE.md "wikilink") - ベース (\#3)
   - ナスノミツル - ベース (\#14)
-  - [今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink") - [スティール・ギター](https://ja.wikipedia.org/wiki/スティール・ギター "wikilink") (\#10,14)
+  - [今剛](../Page/今剛.md "wikilink") - [スティール・ギター](../Page/スティール・ギター.md "wikilink") (\#10,14)
   - [坂本昌之](../Page/坂本昌之.md "wikilink") - キーボード (\#3,4)
   - [オオエタツヤ](../Page/オオエタツヤ.md "wikilink")(CAPTAIN FUNK,OE) - プログラミング (\#5,9～11)
-  - [岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink")（[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")） - プログラミング (\#2,3,6,8,11,13～16)
+  - [岸利至](../Page/岸利至.md "wikilink")（[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")） - プログラミング (\#2,3,6,8,11,13～16)
   - 木本靖夫 - プログラミング (\#8,10,13,15)
   - ヤマサキテツヤ - プログラミング (\#4,7,12)
   - EBONY - コーラス (\#2,3,6,9,11～13)

@@ -7,13 +7,13 @@
 
 Starzは、リバティ・エンターテインメント（[リバティメディア](../Page/リバティメディア.md "wikilink")のトラッキングストック）傘下のStarz Entertainment, LLCが運営している。
 
-ライバル局の[HBO](https://ja.wikipedia.org/wiki/HBO "wikilink")・[ショウタイム](https://ja.wikipedia.org/wiki/ショウタイム "wikilink")と比べて新興勢力だが、短期間で肩を並べるまでに成長し、アメリカの主要[ケーブルテレビ局](https://ja.wikipedia.org/wiki/ケーブルテレビ局 "wikilink")となった。[スパルタカス](https://ja.wikipedia.org/wiki/スパルタカス "wikilink")・[アウトランダー](https://ja.wikipedia.org/wiki/アウトランダー "wikilink")・[ダヴィンチズデーモン](https://ja.wikipedia.org/wiki/ダヴィンチズデーモン "wikilink")、[Black Sails等成人向きの歴史ドラマを得意としている](https://ja.wikipedia.org/wiki/Black_Sails "wikilink")。
+ライバル局の[HBO](../Page/HBO.md "wikilink")・[ショウタイム](../Page/ショウタイム.md "wikilink")と比べて新興勢力だが、短期間で肩を並べるまでに成長し、アメリカの主要[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")となった。[スパルタカス](https://ja.wikipedia.org/wiki/スパルタカス "wikilink")・[アウトランダー](https://ja.wikipedia.org/wiki/アウトランダー "wikilink")・[ダヴィンチズデーモン](https://ja.wikipedia.org/wiki/ダヴィンチズデーモン "wikilink")、[Black Sails等成人向きの歴史ドラマを得意としている](https://ja.wikipedia.org/wiki/Black_Sails "wikilink")。
 
-Starz Entertainmentは、Starzの他に、プレミアチャンネルの**Encore**、**MoviePlex**、PC向けの[SVODサービス](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")**Starz Play**も運営している。2015年末の加入世帯はStarzが3100万世帯、Encoreが3900万世帯\[1\]。
+Starz Entertainmentは、Starzの他に、プレミアチャンネルの**Encore**、**MoviePlex**、PC向けの[SVODサービス](../Page/ビデオ・オン・デマンド.md "wikilink")**Starz Play**も運営している。2015年末の加入世帯はStarzが3100万世帯、Encoreが3900万世帯\[1\]。
 
-Starzは、1994年の開局時には[ユニバーサル映画](https://ja.wikipedia.org/wiki/ユニバーサル映画 "wikilink")の新作を独占放送した。現在は[ウォルト・ディズニー・スタジオ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")（[ウォルト・ディズニー・ピクチャーズ](../Page/ウォルト・ディズニー・ピクチャーズ.md "wikilink")、[タッチストーン・ピクチャーズ](https://ja.wikipedia.org/wiki/タッチストーン・ピクチャーズ "wikilink")、[ハリウッド・ピクチャーズ](https://ja.wikipedia.org/wiki/ハリウッド・ピクチャーズ "wikilink")、[ピクサー](https://ja.wikipedia.org/wiki/ピクサー "wikilink")、[ミラマックス](https://ja.wikipedia.org/wiki/ミラマックス "wikilink")を含む）、[ソニー・ピクチャーズ・エンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ピクチャーズ・エンタテインメント_\(米国\) "wikilink")（[コロンビア映画](https://ja.wikipedia.org/wiki/コロンビア映画 "wikilink")、[トライスター・ピクチャーズ](https://ja.wikipedia.org/wiki/トライスター・ピクチャーズ "wikilink")含む）と優先契約を結んでいる。
+Starzは、1994年の開局時には[ユニバーサル映画](https://ja.wikipedia.org/wiki/ユニバーサル映画 "wikilink")の新作を独占放送した。現在は[ウォルト・ディズニー・スタジオ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")（[ウォルト・ディズニー・ピクチャーズ](../Page/ウォルト・ディズニー・ピクチャーズ.md "wikilink")、[タッチストーン・ピクチャーズ](../Page/タッチストーン・ピクチャーズ.md "wikilink")、[ハリウッド・ピクチャーズ](../Page/ハリウッド・ピクチャーズ.md "wikilink")、[ピクサー](https://ja.wikipedia.org/wiki/ピクサー "wikilink")、[ミラマックス](../Page/ミラマックス.md "wikilink")を含む）、[ソニー・ピクチャーズ・エンタテインメント](../Page/ソニー・ピクチャーズ・エンタテインメント_\(米国\).md "wikilink")（[コロンビア映画](../Page/コロンビア映画.md "wikilink")、[トライスター・ピクチャーズ](https://ja.wikipedia.org/wiki/トライスター・ピクチャーズ "wikilink")含む）と優先契約を結んでいる。
 
-また、Starz Entertainmentが運営する5つのチャンネルで日本の[アニメ](../Page/アニメ.md "wikilink")が放送されており[1](http://www3.jetro.go.jp/jetro-file/BodyUrlPdfDown.do?bodyurlpdf=05001408_001_BUP_0.pdf)、[カートゥーン ネットワークと並んで日本のアニメがよく放送されている](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")。
+また、Starz Entertainmentが運営する5つのチャンネルで日本の[アニメ](../Page/アニメ.md "wikilink")が放送されており[1](http://www3.jetro.go.jp/jetro-file/BodyUrlPdfDown.do?bodyurlpdf=05001408_001_BUP_0.pdf)、[カートゥーン ネットワークと並んで日本のアニメがよく放送されている](../Page/カートゥーン_ネットワーク.md "wikilink")。
 
 なお、2006年には、持株会社Starz, LLCを設立、Starz Entertainmentはその子会社となっている。Starz, LLCの子会社には、リバティメディアが2006年にIDT Corporationから買収したStarz Media（旧IDT Entertainment。傘下には「[ザ・シンプソンズ MOVIE](https://ja.wikipedia.org/wiki/ザ・シンプソンズ_MOVIE "wikilink")」などを制作したアニメーションスタジオの[フィルム・ロマン](https://ja.wikipedia.org/wiki/フィルム・ロマン "wikilink")、日本の[アニメ](../Page/アニメ.md "wikilink")を扱うディストリビューターの[マンガ・エンタテインメント](https://ja.wikipedia.org/wiki/マンガ・エンタテインメント "wikilink")（[w:en:Manga Entertainment](https://ja.wikipedia.org/wiki/w:en:Manga_Entertainment "wikilink")）などがある）、2006年秋に設立した映画スタジオ[オーバーチュア・フィルムズ](https://ja.wikipedia.org/wiki/オーバーチュア・フィルムズ "wikilink")（Overture Films）などがある。
 
@@ -24,7 +24,7 @@ Starzは、1994年の開局時には[ユニバーサル映画](https://ja.wikipe
   - 1996年　「STARZ\!2」（現「Starz Edge」）放送開始。
   - 1997年　「Movieplex」放送開始。[BETとの合弁で](../Page/ブラック・エンターテインメント・テレビジョン.md "wikilink")「BET Movies/STARZ\!」（現「Starz InBlack」放送開始）。
   - 1999年　「STARZ\! Cinema」、「STARZ\! Family」（現「Starz Kids & Family」）放送開始。
-  - 2001年　BETの[バイアコム](../Page/バイアコム.md "wikilink")傘下入りに伴い合弁解消。「BET Movies/STARZ\!」は「BLACK STARZ\!」にチャンネル名変更（2005年には「Starz InBlack」にチャンネル名変更）。[ビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")サービス「Starz On Demand」開始。
+  - 2001年　BETの[バイアコム](../Page/バイアコム.md "wikilink")傘下入りに伴い合弁解消。「BET Movies/STARZ\!」は「BLACK STARZ\!」にチャンネル名変更（2005年には「Starz InBlack」にチャンネル名変更）。[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")サービス「Starz On Demand」開始。
   - 2003年　「STARZ\! Kids」（2005年「Starz Kids & Family」に統合）、「STARZ\! HD」放送開始。
   - 2004年　「Encore HD」放送開始。会社名をStarz Entertainment Group, LLCに変更。
   - 2005年　大規模なブランド変更（「STARZ\!」から「Starz」に変更、Encoreのジャンル別チャンネルに「Encore」を冠する等）。「Starz Comedy」放送開始。「Encore On Demand」、「MOVIEplex On Demand」開始。
@@ -70,8 +70,8 @@ Starzは、1994年の開局時には[ユニバーサル映画](https://ja.wikipe
 
 ## 関連項目
 
-  - [HBO](https://ja.wikipedia.org/wiki/HBO "wikilink")（プレミアチャンネルのライバル局。[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")傘下）
-  - [Showtime](https://ja.wikipedia.org/wiki/Showtime "wikilink")（同上。[CBSコーポレーション](../Page/CBSコーポレーション.md "wikilink")傘下）
+  - [HBO](../Page/HBO.md "wikilink")（プレミアチャンネルのライバル局。[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")傘下）
+  - [Showtime](../Page/Showtime.md "wikilink")（同上。[CBSコーポレーション](../Page/CBSコーポレーション.md "wikilink")傘下）
 
 ## 外部リンク
 

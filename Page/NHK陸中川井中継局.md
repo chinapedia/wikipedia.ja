@@ -1,20 +1,20 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK陸中川井中継局**（エヌエイチケイりくちゅうかわいちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")にある[NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")の[テレビ](../Page/テレビ.md "wikilink")と[FMの](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[中継局](../Page/中継局.md "wikilink")である。
+**NHK陸中川井中継局**（エヌエイチケイりくちゅうかわいちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")にある[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")と[FMの](../Page/NHK-FM放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
-  - 当中継局は、宮古市川井にある[岩手県立宮古高等学校](https://ja.wikipedia.org/wiki/岩手県立宮古高等学校 "wikilink")川井分校北方高地に置かれ、旧・川井村中心部等に電波を発射している。
+  - 当中継局は、宮古市川井にある[岩手県立宮古高等学校](../Page/岩手県立宮古高等学校.md "wikilink")川井分校北方高地に置かれ、旧・川井村中心部等に電波を発射している。
 
 ## 中継局概要
 
 ### ラジオ放送
 
-|                                                           |                                     |                                                         |                                                        |                                                              |                                                              |
-| --------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 放送系統                                                      | [ラジオ周波数](../Page/周波数.md "wikilink") | [空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink") | [ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") | [放送対象地域](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink") | [放送区域内世帯数](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink") |
-| [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") | 88.3MHz                             | 音声10W                                                   | 音声14W                                                  | [岩手県](../Page/岩手県.md "wikilink")                             | 約-世帯                                                         |
+|                                        |                                     |                                      |                                                        |                                                              |                                                              |
+| -------------------------------------- | ----------------------------------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 放送系統                                   | [ラジオ周波数](../Page/周波数.md "wikilink") | [空中線電力](../Page/空中線電力.md "wikilink") | [ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") | [放送対象地域](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink") | [放送区域内世帯数](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink") |
+| [FM放送](../Page/NHK-FM放送.md "wikilink") | 88.3MHz                             | 音声10W                                | 音声14W                                                  | [岩手県](../Page/岩手県.md "wikilink")                             | 約-世帯                                                         |
 
 ### テレビ放送
 
@@ -22,14 +22,14 @@
 <tbody>
 <tr class="odd">
 <td><p>放送系統</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">テレビチャンネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">テレビチャンネル</a></p></td>
+<td><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合テレビ</a></p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合テレビ</a></p></td>
 <td><p>3ch</p></td>
 <td><p>映像3W<br />
 /音声750mW</p></td>
@@ -39,7 +39,7 @@
 <td><p>約-世帯</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育テレビ</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育テレビ</a></p></td>
 <td><p>9ch</p></td>
 <td><p>映像8.5W<br />
 /音声2.1W</p></td>
@@ -56,11 +56,11 @@
 ## 関連項目
 
   - [宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")
-  - [川井村](https://ja.wikipedia.org/wiki/川井村_\(岩手県\) "wikilink") - 合併前の所在住所
-  - [NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")
-  - [葛巻中継局](../Page/葛巻中継局.md "wikilink") - 当中継局と同じ[NHK盛岡の](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")[VHFテレビ・FMラジオ中継局置局](../Page/超短波.md "wikilink")
+  - [川井村](../Page/川井村_\(岩手県\).md "wikilink") - 合併前の所在住所
+  - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
+  - [葛巻中継局](../Page/葛巻中継局.md "wikilink") - 当中継局と同じ[NHK盛岡の](../Page/NHK盛岡放送局.md "wikilink")[VHFテレビ・FMラジオ中継局置局](../Page/超短波.md "wikilink")
   - [矢神岳](../Page/矢神岳.md "wikilink") - 安代田山中継局置局（同上）
-  - [NHK陸中小国テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中小国テレビ中継局 "wikilink") - 同市の旧川井村域にあるNHK盛岡放送局のテレビ中継局
+  - [NHK陸中小国テレビ中継局](../Page/NHK陸中小国テレビ中継局.md "wikilink") - 同市の旧川井村域にあるNHK盛岡放送局のテレビ中継局
 
 ## 外部リンク
 

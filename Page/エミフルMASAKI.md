@@ -39,24 +39,24 @@
       - [カルディコーヒーファーム](https://ja.wikipedia.org/wiki/キャメル珈琲#カルディコーヒーファーム "wikilink")
       - 世界のお茶専門店ルビシア
   - 映画館
-      - [シネマサンシャイン](https://ja.wikipedia.org/wiki/シネマサンシャイン "wikilink") エミフルMASAKI（9スクリーン）：2010年2月27日OPEN
+      - [シネマサンシャイン](../Page/シネマサンシャイン.md "wikilink") エミフルMASAKI（9スクリーン）：2010年2月27日OPEN
   - ファッション
       - フジグラン松前　エミフルcasual館
-      - [コムサイズム](https://ja.wikipedia.org/wiki/ファイブフォックス "wikilink")
+      - [コムサイズム](../Page/ファイブフォックス.md "wikilink")
       - [ユニクロ](../Page/ユニクロ.md "wikilink")
-      - [ライトオン](https://ja.wikipedia.org/wiki/ライトオン "wikilink")
+      - [ライトオン](../Page/ライトオン.md "wikilink")
       - [レプシィム ローリーズファーム](https://ja.wikipedia.org/wiki/アダストリア "wikilink")
-      - [サンカンシオン](https://ja.wikipedia.org/wiki/ワールド_\(企業\) "wikilink")
-      - [オルベネ](https://ja.wikipedia.org/wiki/ワールド_\(企業\) "wikilink")
-      - [エービーシーマート](https://ja.wikipedia.org/wiki/ABCマート "wikilink")
-      - [ギャップ](https://ja.wikipedia.org/wiki/ギャップ_\(企業\) "wikilink")
+      - [サンカンシオン](../Page/ワールド_\(企業\).md "wikilink")
+      - [オルベネ](../Page/ワールド_\(企業\).md "wikilink")
+      - [エービーシーマート](../Page/ABCマート.md "wikilink")
+      - [ギャップ](../Page/ギャップ_\(企業\).md "wikilink")
   - ファーストフード
-      - [サブウェイ](https://ja.wikipedia.org/wiki/サブウェイ "wikilink")
+      - [サブウェイ](../Page/サブウェイ.md "wikilink")
       - [マクドナルド](../Page/日本マクドナルド.md "wikilink")
       - [モスバーガー](../Page/モスバーガー.md "wikilink")
       - [ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")
       - [ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")
-      - [サーティワンアイスクリーム](https://ja.wikipedia.org/wiki/バスキン・ロビンス "wikilink")
+      - [サーティワンアイスクリーム](../Page/バスキン・ロビンス.md "wikilink")
   - グルメ
       - [ザ・どん](../Page/ザ・どん.md "wikilink")
       - [ペッパーランチ](https://ja.wikipedia.org/wiki/ペッパーランチ "wikilink")
@@ -67,60 +67,60 @@
       - 太陽のごちそう
   - カフェ
       - [スターバックス](../Page/スターバックス.md "wikilink")コーヒー
-      - [タリーズコーヒー](https://ja.wikipedia.org/wiki/タリーズコーヒー "wikilink")
+      - [タリーズコーヒー](../Page/タリーズコーヒー.md "wikilink")
   - スポーツショップ
       - [スーパースポーツゼビオ](https://ja.wikipedia.org/wiki/ゼビオ "wikilink")
-      - [ムラサキスポーツ](https://ja.wikipedia.org/wiki/ムラサキスポーツ "wikilink")
+      - [ムラサキスポーツ](../Page/ムラサキスポーツ.md "wikilink")
   - コスメショップ
       - [オルビス](../Page/オルビス.md "wikilink")
-      - [ザ・ボディショップ](https://ja.wikipedia.org/wiki/ザ・ボディショップ "wikilink")
+      - [ザ・ボディショップ](../Page/ザ・ボディショップ.md "wikilink")
   - インテリアショップ
       - [無印良品](https://ja.wikipedia.org/wiki/良品計画 "wikilink")
-      - [ロフト](https://ja.wikipedia.org/wiki/ロフト_\(雑貨店\) "wikilink")
-      - [ヴィレッジヴァンガード](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード_\(書籍・雑貨店\) "wikilink")
+      - [ロフト](../Page/ロフト_\(雑貨店\).md "wikilink")
+      - [ヴィレッジヴァンガード](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")
   - 駄菓子・玩具
       - [だがし 夢や](https://ja.wikipedia.org/wiki/夢や "wikilink")
   - ブック・CD
       - [TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")(かつては別のフロアにビデオ.CD.DVDのレンタルフロアが存在したが、2014年3月閉店。跡地はひごペットフレンドリーが入居し、2014年4月開店)
   - 教室
       - [JEUGIA](../Page/JEUGIA.md "wikilink")カルチャーセンター
-      - [島村楽器](https://ja.wikipedia.org/wiki/島村楽器 "wikilink")
+      - [島村楽器](../Page/島村楽器.md "wikilink")
       - [ABCクッキングスタジオ](../Page/ABCクッキングスタジオ.md "wikilink")
   - アミューズメント
-      - [SOYU Forest Hunter](https://ja.wikipedia.org/wiki/ソユー "wikilink")
+      - [SOYU Forest Hunter](../Page/ソユー.md "wikilink")
   - 託児所
       - 都市型保育園ポポラー
   - 歯科診療所
       - すまいる総合歯科クリニック
   - 銀行（インストアブランチ）
       - [伊予銀行](../Page/伊予銀行.md "wikilink")エミフルMASAKI支店
-      - [愛媛信用金庫](https://ja.wikipedia.org/wiki/愛媛信用金庫 "wikilink")エミフルMASAKI支店「愛リーコラボ」
+      - [愛媛信用金庫](../Page/愛媛信用金庫.md "wikilink")エミフルMASAKI支店「愛リーコラボ」
     <!-- end list -->
       -
-        [愛媛銀行](../Page/愛媛銀行.md "wikilink")も松前支店ボーチェ松前出張所を置いていたが事実上閉店した（親店舗に[ブランチインブランチ](https://ja.wikipedia.org/wiki/ブランチインブランチ "wikilink")。ATMコーナーのみ残存）。
+        [愛媛銀行](../Page/愛媛銀行.md "wikilink")も松前支店ボーチェ松前出張所を置いていたが事実上閉店した（親店舗に[ブランチインブランチ](../Page/ブランチインブランチ.md "wikilink")。ATMコーナーのみ残存）。
   - 携帯ショップ
       - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
       - [ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")
-      - [au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")
+      - [au](../Page/Au_\(携帯電話\).md "wikilink")
   - ストア
-      - [ポケモンセンター](https://ja.wikipedia.org/wiki/ポケモンセンター "wikilink")サテライト松山店
+      - [ポケモンセンター](../Page/ポケモンセンター.md "wikilink")サテライト松山店
   - その他
       - エミフルMASAKI郵便局（[郵便局](../Page/郵便局.md "wikilink")）
 
 ## 別棟専門店
 
-2010年2月現在では敷地内の第一期工事は完了しており、その後は[2009年](../Page/2009年.md "wikilink")8月に[ダイキ](https://ja.wikipedia.org/wiki/ダイキ "wikilink")と[ニトリ](https://ja.wikipedia.org/wiki/ニトリ "wikilink")が同敷地内にそれぞれオープンしている。第二期工事で予定されていたシネマコンプレックスは、「[シネマサンシャイン](https://ja.wikipedia.org/wiki/シネマサンシャイン "wikilink")エミフルMASAKI」として[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")にオープンしたが、当初計画にあった[温浴施設](https://ja.wikipedia.org/wiki/温浴施設 "wikilink")に関してはディベロッパーの関係で建設時期は未定である。
+2010年2月現在では敷地内の第一期工事は完了しており、その後は[2009年](../Page/2009年.md "wikilink")8月に[ダイキ](https://ja.wikipedia.org/wiki/ダイキ "wikilink")と[ニトリ](../Page/ニトリ.md "wikilink")が同敷地内にそれぞれオープンしている。第二期工事で予定されていたシネマコンプレックスは、「[シネマサンシャイン](../Page/シネマサンシャイン.md "wikilink")エミフルMASAKI」として[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")にオープンしたが、当初計画にあった[温浴施設](https://ja.wikipedia.org/wiki/温浴施設 "wikilink")に関してはディベロッパーの関係で建設時期は未定である。
 
   - 主なテナント
       - カーディーラー
           - 愛媛[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink")松前店（同社・松山市(三津)にあった店舗の移転）
-          - [フォードフジ](https://ja.wikipedia.org/wiki/フォードフジ "wikilink") マツダ[オートザム](https://ja.wikipedia.org/wiki/オートザム "wikilink")フジエミフルMASAKI（同社空港通店の移転）
+          - [フォードフジ](https://ja.wikipedia.org/wiki/フォードフジ "wikilink") マツダ[オートザム](../Page/オートザム.md "wikilink")フジエミフルMASAKI（同社空港通店の移転）
       - 雑貨・日用品・電器製品等
-          - [エディオン](https://ja.wikipedia.org/wiki/エディオン "wikilink")
+          - [エディオン](../Page/エディオン.md "wikilink")
           - [アカチャンホンポ](../Page/赤ちゃん本舗.md "wikilink")
-          - [レデイ薬局](https://ja.wikipedia.org/wiki/レデイ薬局 "wikilink")
-          - [DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink") EX松前（[DCMホールディングス](https://ja.wikipedia.org/wiki/DCMホールディングス "wikilink")）
-          - [ニトリ](https://ja.wikipedia.org/wiki/ニトリ "wikilink")
+          - [レデイ薬局](../Page/レデイ薬局.md "wikilink")
+          - [DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink") EX松前（[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）
+          - [ニトリ](../Page/ニトリ.md "wikilink")
 
 ### シネマサンシャイン
 
@@ -144,11 +144,11 @@
 ## 交通アクセス
 
   - [伊予鉄道郡中線](https://ja.wikipedia.org/wiki/伊予鉄道郡中線 "wikilink")[古泉駅](https://ja.wikipedia.org/wiki/古泉駅 "wikilink")下車すぐ
-  - [宇和島自動車](https://ja.wikipedia.org/wiki/宇和島自動車 "wikilink")エミフルMASAKI停留所下車すぐ
+  - [宇和島自動車](../Page/宇和島自動車.md "wikilink")エミフルMASAKI停留所下車すぐ
 
 ### 渋滞問題
 
-隣接する幹線道路である[国道56号](../Page/国道56号.md "wikilink")宇和島方面行き車線からの右折信号待ちの車による渋滞緩和策として、他に国道から敷地内への高架橋が作られているが、実効性に乏しく、日中はほぼ年間を通じて渋滞しているのが現状である。フジ側はあくまで隣接する[伊予鉄道](../Page/伊予鉄道.md "wikilink")[郡中線](https://ja.wikipedia.org/wiki/伊予鉄道郡中線 "wikilink")[古泉駅](https://ja.wikipedia.org/wiki/古泉駅 "wikilink")や[宇和島自動車](https://ja.wikipedia.org/wiki/宇和島自動車 "wikilink")（宇和島バス）エミフル松前停留場などの[公共交通機関](../Page/公共交通機関.md "wikilink")の利用を呼びかけている。鉄道を利用した場合、[松山市駅](https://ja.wikipedia.org/wiki/松山市駅 "wikilink")から伊予鉄道郡中線を利用して約15分で到着することができる。利用促進策として、土日、祝日限定で3千円以上の買い物をすると、古泉駅発の伊予鉄道郡中線のみで利用できる無料乗車券を配布するサービスを行っている。
+隣接する幹線道路である[国道56号](../Page/国道56号.md "wikilink")宇和島方面行き車線からの右折信号待ちの車による渋滞緩和策として、他に国道から敷地内への高架橋が作られているが、実効性に乏しく、日中はほぼ年間を通じて渋滞しているのが現状である。フジ側はあくまで隣接する[伊予鉄道](../Page/伊予鉄道.md "wikilink")[郡中線](https://ja.wikipedia.org/wiki/伊予鉄道郡中線 "wikilink")[古泉駅](https://ja.wikipedia.org/wiki/古泉駅 "wikilink")や[宇和島自動車](../Page/宇和島自動車.md "wikilink")（宇和島バス）エミフル松前停留場などの[公共交通機関](../Page/公共交通機関.md "wikilink")の利用を呼びかけている。鉄道を利用した場合、[松山市駅](https://ja.wikipedia.org/wiki/松山市駅 "wikilink")から伊予鉄道郡中線を利用して約15分で到着することができる。利用促進策として、土日、祝日限定で3千円以上の買い物をすると、古泉駅発の伊予鉄道郡中線のみで利用できる無料乗車券を配布するサービスを行っている。
 
 ## 近隣施設
 
@@ -160,7 +160,7 @@
 
   - [フジグラン松山](https://ja.wikipedia.org/wiki/フジグラン松山 "wikilink")
   - [フジグラン重信](https://ja.wikipedia.org/wiki/フジグラン重信 "wikilink")
-  - [イオンモール新居浜](https://ja.wikipedia.org/wiki/イオンモール新居浜 "wikilink")（[2001年](../Page/2001年.md "wikilink")開業）
+  - [イオンモール新居浜](../Page/イオンモール新居浜.md "wikilink")（[2001年](../Page/2001年.md "wikilink")開業）
 
 ## 愛媛FCスタジアム案
 

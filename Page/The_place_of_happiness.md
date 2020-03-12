@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - [PS2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[GENERATION OF CHAOS](https://ja.wikipedia.org/wiki/GENERATION_OF_CHAOS "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")となっており、1stアルバム『[supersonic girl](https://ja.wikipedia.org/wiki/supersonic_girl "wikilink")』と初ベストアルバム『[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")』にも収録されている。
+  - [PS2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[GENERATION OF CHAOS](https://ja.wikipedia.org/wiki/GENERATION_OF_CHAOS "wikilink")』[主題歌](../Page/主題歌.md "wikilink")となっており、1stアルバム『[supersonic girl](https://ja.wikipedia.org/wiki/supersonic_girl "wikilink")』と初ベストアルバム『[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")』にも収録されている。
   - [カップリングの](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「水中の青空」と「LOOKING ON THE MOON」も同じく『supersonic girl』に収録されている。
   - プロデューサーの[三嶋章夫](../Page/三嶋章夫.md "wikilink")はこのシングルについて「水樹の真骨頂といえるマイナーアップ系\[1\]の最初に生まれた楽曲で、今の水樹スタイルの原型だと思います」と語っている\[2\]。
-  - デビューシングル『[想い](../Page/想い_\(水樹奈々の曲\).md "wikilink")』以来の、表題曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が制作されていない楽曲である。
+  - デビューシングル『[想い](../Page/想い_\(水樹奈々の曲\).md "wikilink")』以来の、表題曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されていない楽曲である。
 
 ## 収録曲
 
-全作詞：[村野直球](https://ja.wikipedia.org/wiki/村野直球 "wikilink") / 全編曲：[牧野信博](https://ja.wikipedia.org/wiki/牧野信博 "wikilink")
+全作詞：[村野直球](https://ja.wikipedia.org/wiki/村野直球 "wikilink") / 全編曲：[牧野信博](../Page/牧野信博.md "wikilink")
 
 1.  **The place of happiness** \[3:45\]
       - 作曲：[住吉中](https://ja.wikipedia.org/wiki/住吉中 "wikilink")

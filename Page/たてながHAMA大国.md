@@ -17,7 +17,7 @@
 **MC**
 
   - [仲田憲正](http://www.so-pro.co.jp/talent/profile_90.html)（月・火）
-  - [志賀正浩](https://ja.wikipedia.org/wiki/志賀正浩 "wikilink")（水-金）
+  - [志賀正浩](../Page/志賀正浩.md "wikilink")（水-金）
 
 **アシスタント**
 
@@ -62,7 +62,7 @@
 　
 
   - 司会者を含め中継を多用した構成だった。
-  - FAX・生電話でトークテーマを募集した。これは今の[1230アッと\!\!ハマランチョ](https://ja.wikipedia.org/wiki/1230アッと!!ハマランチョ "wikilink")にまで受け継がれている。
+  - FAX・生電話でトークテーマを募集した。これは今の[1230アッと\!\!ハマランチョ](../Page/1230アッと!!ハマランチョ.md "wikilink")にまで受け継がれている。
   - 13:00〜、14:00〜、15:00〜から数分を「ハマたいむ」と呼び、トークテーマ紹介、TVKニュースや天気予報の時間に充てたが、この名称は次第に消滅する。
   - TVK初と思われる全国ニュース「TVK FLASH NEWS」（[共同通信社](../Page/共同通信社.md "wikilink")から配信）があった。
   - コーナーは原則として「[おしゃべりトマト](https://ja.wikipedia.org/wiki/おしゃべりトマト "wikilink")」から引き継いだが、時間が長いためゆとりある進行であった。
@@ -75,8 +75,8 @@
 
 **MC**
 
-  - [黒部幸英](https://ja.wikipedia.org/wiki/黒部幸英 "wikilink")（月・火）
-  - [志賀正浩](https://ja.wikipedia.org/wiki/志賀正浩 "wikilink")（水・金）
+  - [黒部幸英](../Page/黒部幸英.md "wikilink")（月・火）
+  - [志賀正浩](../Page/志賀正浩.md "wikilink")（水・金）
 
 **アシスタント**
 
@@ -100,8 +100,8 @@
 
 **MC・アシスタント**
 
-  - [志賀正浩](https://ja.wikipedia.org/wiki/志賀正浩 "wikilink")・[松本麻美](https://ja.wikipedia.org/wiki/松本麻美 "wikilink")（当時TVK契約アナウンサー）月・火
-  - [黒部幸英](https://ja.wikipedia.org/wiki/黒部幸英 "wikilink")・[武田川彩子](https://ja.wikipedia.org/wiki/武田川彩子 "wikilink")（当時TVK契約アナウンサー）水
+  - [志賀正浩](../Page/志賀正浩.md "wikilink")・[松本麻美](https://ja.wikipedia.org/wiki/松本麻美 "wikilink")（当時TVK契約アナウンサー）月・火
+  - [黒部幸英](../Page/黒部幸英.md "wikilink")・[武田川彩子](https://ja.wikipedia.org/wiki/武田川彩子 "wikilink")（当時TVK契約アナウンサー）水
   - [草野ふみえ](https://ja.wikipedia.org/wiki/草野ふみえ "wikilink")・[久保弘毅](https://ja.wikipedia.org/wiki/久保弘毅 "wikilink")（当時TVKアナウンサー）木・金
 
 **情報LANer**
@@ -112,10 +112,10 @@
 
 ## 関連項目
 
-  - [TVグラフィックおしゃべりトマト](https://ja.wikipedia.org/wiki/TVグラフィックおしゃべりトマト "wikilink")
+  - [TVグラフィックおしゃべりトマト](../Page/TVグラフィックおしゃべりトマト.md "wikilink")
   - [たてながHAMA大国ナイト](https://ja.wikipedia.org/wiki/たてながHAMA大国ナイト "wikilink")
   - [HAMA大国](../Page/HAMA大国.md "wikilink")
-  - [1230アッと\!\!ハマランチョ](https://ja.wikipedia.org/wiki/1230アッと!!ハマランチョ "wikilink")
+  - [1230アッと\!\!ハマランチョ](../Page/1230アッと!!ハマランチョ.md "wikilink")
   - [ありがとッ\!](https://ja.wikipedia.org/wiki/ありがとッ! "wikilink")（当番組まで金曜も放送）
   - [猫のひたいほどワイド](https://ja.wikipedia.org/wiki/猫のひたいほどワイド "wikilink")（月曜から木曜のみの放送）
   - [首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")（旧首都圏ネット4）

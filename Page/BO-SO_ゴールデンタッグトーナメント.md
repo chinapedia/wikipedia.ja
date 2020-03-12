@@ -1,7 +1,7 @@
 > この記事は[BO-SO ](https://ja.wikipedia.org/wiki/BO-SO_)から翻訳されています。
 
 
-**BO-SO ゴールデンタッグトーナメント**（ボー-ソー・ゴールデンタッグトーナメント）は、[KAIENTAI DOJOが開催しているタッグリーグ戦](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")。
+**BO-SO ゴールデンタッグトーナメント**（ボー-ソー・ゴールデンタッグトーナメント）は、[KAIENTAI DOJOが開催しているタッグリーグ戦](../Page/KAIENTAI_DOJO.md "wikilink")。
 
 ## 概要
 
@@ -12,17 +12,17 @@
 
 ### KAIENTAI DOJOという名のタッグリーグ戦
 
-| 年     | 開催期間          | 優勝者                                                                                                               | 準優勝者                                                                                                                     |
-| ----- | ------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2004年 | 2月28日 - 3月27日 | [真霜拳號](../Page/真霜拳號.md "wikilink")&[十島くにお](../Page/十嶋くにお.md "wikilink")                                           | [Hi69](https://ja.wikipedia.org/wiki/HIROKI_\(プロレスラー\) "wikilink")&[MIYAWAKI](../Page/MIYAWAKI_\(プロレスラー\).md "wikilink") |
-| 2005年 | 1月23日 - 2月27日 | 真霜拳號&[KAZMA](https://ja.wikipedia.org/wiki/KAZMA "wikilink")                                                      | [TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink")&[筑前りょう太](https://ja.wikipedia.org/wiki/筑前りょう太 "wikilink")  |
-| 2006年 | 2月12日 - 3月12日 | [大石真翔](../Page/大石真翔.md "wikilink")&[旭志織](../Page/旭志織.md "wikilink")                                               | [JOE](../Page/JOE_\(プロレスラー\).md "wikilink")&[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")                                       |
-| 2007年 | 1月14日 - 2月3日  | 真霜拳號&[円華](https://ja.wikipedia.org/wiki/円華 "wikilink")                                                            | 大石真翔&旭志織                                                                                                                 |
-| 2008年 | 1月13日 - 2月7日  | 真霜拳號&円華                                                                                                           | [火野裕士](../Page/火野裕士.md "wikilink")\&KAZMA                                                                                |
-| 2009年 | 2月7日 - 2月28日  | [滝澤大志](https://ja.wikipedia.org/wiki/滝澤大志 "wikilink")&[ヒロ・トウナイ](https://ja.wikipedia.org/wiki/ヒロ・トウナイ "wikilink") | 火野裕士&[稲松三郎](../Page/稲松三郎.md "wikilink")                                                                                  |
-| 2010年 | 1月16日 - 2月14日 | 火野裕士&旭志織                                                                                                          | 真霜拳號&[柏大五郎](../Page/柏大五郎.md "wikilink")                                                                                  |
-| 2011年 | 1月15日 - 2月13日 | 真霜拳號&[関根龍一](../Page/関根龍一.md "wikilink")                                                                           | 滝澤大志&[梶トマト](../Page/梶トマト.md "wikilink")                                                                                  |
-| 2012年 | 1月7日 - 1月28日  | 真霜拳號\&TAKAみちのく                                                                                                    | HIROKI&[GENTARO](../Page/GENTARO.md "wikilink")                                                                          |
+| 年     | 開催期間          | 優勝者                                                                         | 準優勝者                                                                                                                     |
+| ----- | ------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2004年 | 2月28日 - 3月27日 | [真霜拳號](../Page/真霜拳號.md "wikilink")&[十島くにお](../Page/十嶋くにお.md "wikilink")     | [Hi69](https://ja.wikipedia.org/wiki/HIROKI_\(プロレスラー\) "wikilink")&[MIYAWAKI](../Page/MIYAWAKI_\(プロレスラー\).md "wikilink") |
+| 2005年 | 1月23日 - 2月27日 | 真霜拳號&[KAZMA](https://ja.wikipedia.org/wiki/KAZMA "wikilink")                | [TAKAみちのく](../Page/TAKAみちのく.md "wikilink")&[筑前りょう太](../Page/筑前りょう太.md "wikilink")                                        |
+| 2006年 | 2月12日 - 3月12日 | [大石真翔](../Page/大石真翔.md "wikilink")&[旭志織](../Page/旭志織.md "wikilink")         | [JOE](../Page/JOE_\(プロレスラー\).md "wikilink")&[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")                                       |
+| 2007年 | 1月14日 - 2月3日  | 真霜拳號&[円華](https://ja.wikipedia.org/wiki/円華 "wikilink")                      | 大石真翔&旭志織                                                                                                                 |
+| 2008年 | 1月13日 - 2月7日  | 真霜拳號&円華                                                                     | [火野裕士](../Page/火野裕士.md "wikilink")\&KAZMA                                                                                |
+| 2009年 | 2月7日 - 2月28日  | [滝澤大志](../Page/滝澤大志.md "wikilink")&[ヒロ・トウナイ](../Page/ヒロ・トウナイ.md "wikilink") | 火野裕士&[稲松三郎](../Page/稲松三郎.md "wikilink")                                                                                  |
+| 2010年 | 1月16日 - 2月14日 | 火野裕士&旭志織                                                                    | 真霜拳號&[柏大五郎](../Page/柏大五郎.md "wikilink")                                                                                  |
+| 2011年 | 1月15日 - 2月13日 | 真霜拳號&[関根龍一](../Page/関根龍一.md "wikilink")                                     | 滝澤大志&[梶トマト](../Page/梶トマト.md "wikilink")                                                                                  |
+| 2012年 | 1月7日 - 1月28日  | 真霜拳號\&TAKAみちのく                                                              | HIROKI&[GENTARO](../Page/GENTARO.md "wikilink")                                                                          |
 
 ### BO-SO ゴールデンタッグトーナメント
 

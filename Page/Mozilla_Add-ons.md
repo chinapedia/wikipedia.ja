@@ -1,7 +1,7 @@
 > この記事は[Mozilla Add-ons](https://ja.wikipedia.org/wiki/Mozilla_Add-ons)から翻訳されています。
 
 
-は、、、 といった、 の主要な製品向けに[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")を提供するための[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。配布されるアドオンには[拡張機能や](../Page/拡張機能_\(Mozilla\).md "wikilink")[テーマや](https://ja.wikipedia.org/wiki/スキン_\(GUI\) "wikilink")[プラグイン](../Page/プラグイン.md "wikilink")が含まれる。 は  向けアドオンを取得するための公式サイトである。非公式な略称として、サイトの[ドメイン名](../Page/ドメイン名.md "wikilink") `addons.mozilla.org` の頭文字を取った **AMO** と呼ばれることもある。
+は、、、 といった、 の主要な製品向けに[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")を提供するための[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。配布されるアドオンには[拡張機能や](../Page/拡張機能_\(Mozilla\).md "wikilink")[テーマや](../Page/スキン_\(GUI\).md "wikilink")[プラグイン](../Page/プラグイン.md "wikilink")が含まれる。 は  向けアドオンを取得するための公式サイトである。非公式な略称として、サイトの[ドメイン名](../Page/ドメイン名.md "wikilink") `addons.mozilla.org` の頭文字を取った **AMO** と呼ばれることもある。
 
 は最初の公開後何度か変更を経験している。
 

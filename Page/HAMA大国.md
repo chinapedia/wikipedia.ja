@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - 不況、県の財政危機、[東京MXテレビ開局によるテレビ神奈川の売上減少に伴い](../Page/東京メトロポリタンテレビジョン.md "wikilink")、3時間枠だった「[たてながHAMA大国](https://ja.wikipedia.org/wiki/たてながHAMA大国 "wikilink")」を縮小、全員社員進行のワイドショーに刷新した。地に足をついた番組を目指し、MCに報道部の中村行宏、「たてながHAMA大国」で情報ランナーだった坂本紅子を起用。
+  - 不況、県の財政危機、[東京MXテレビ開局によるテレビ神奈川の売上減少に伴い](../Page/東京メトロポリタンテレビジョン.md "wikilink")、3時間枠だった「[たてながHAMA大国](../Page/たてながHAMA大国.md "wikilink")」を縮小、全員社員進行のワイドショーに刷新した。地に足をついた番組を目指し、MCに報道部の中村行宏、「たてながHAMA大国」で情報ランナーだった坂本紅子を起用。
 
 **MC**
 
@@ -23,7 +23,7 @@
 
 **アシスタント（1998年度のみ。1日いずれか1人が担当）**
 
-  - [三崎幸恵](https://ja.wikipedia.org/wiki/三崎幸恵 "wikilink")（tvkアナウンサー）
+  - [三崎幸恵](../Page/三崎幸恵.md "wikilink")（tvkアナウンサー）
   - [野澤はづき](https://ja.wikipedia.org/wiki/野澤はづき "wikilink")（当時tvkアナウンサー）
 
 **情報ランナー**
@@ -46,14 +46,14 @@
 **MC**
 
   - [内田朱美](https://ja.wikipedia.org/wiki/内田朱美 "wikilink")（月・火、当時tvk契約アナウンサー）
-  - [野澤はづき](https://ja.wikipedia.org/wiki/野澤はづき "wikilink")（水、当時tvkアナウンサー、12月の退社に伴い1999年9月まで）→[三崎幸恵](https://ja.wikipedia.org/wiki/三崎幸恵 "wikilink")
+  - [野澤はづき](https://ja.wikipedia.org/wiki/野澤はづき "wikilink")（水、当時tvkアナウンサー、12月の退社に伴い1999年9月まで）→[三崎幸恵](../Page/三崎幸恵.md "wikilink")
   - [野中美里](../Page/野中美里.md "wikilink")（木・金、当時tvkアナウンサー）
 
 **アシスタント**
 
-  - [中村守](https://ja.wikipedia.org/wiki/中村守 "wikilink")（月・火、現[テレビ信州](../Page/テレビ信州.md "wikilink")アナウンサー、2000年1月まで）
+  - [中村守](../Page/中村守.md "wikilink")（月・火、現[テレビ信州](../Page/テレビ信州.md "wikilink")アナウンサー、2000年1月まで）
   - [高井晃](https://ja.wikipedia.org/wiki/高井晃 "wikilink")\[1\]（水、現フリーアナウンサー、2000年1月から月～水）
-  - [山下剛](https://ja.wikipedia.org/wiki/山下剛 "wikilink")（木～金、現[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")アナウンサー）
+  - [山下剛](../Page/山下剛.md "wikilink")（木～金、現[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")アナウンサー）
 
 ### 2000年4月～2000年9月
 
@@ -68,7 +68,7 @@
 
   - [森麻緒](../Page/森麻緒.md "wikilink")（月・火、当時tvk契約アナウンサー）
   - [清水美穂](https://ja.wikipedia.org/wiki/清水美穂 "wikilink")（水、当時tvk契約アナウンサー）
-  - [三崎幸恵](https://ja.wikipedia.org/wiki/三崎幸恵 "wikilink")（木、tvkアナウンサー）
+  - [三崎幸恵](../Page/三崎幸恵.md "wikilink")（木、tvkアナウンサー）
   - [野中美里](../Page/野中美里.md "wikilink")（金、当時tvkアナウンサー）
 
 **アシスタント**
@@ -89,7 +89,7 @@
 
   - [清水美穂](https://ja.wikipedia.org/wiki/清水美穂 "wikilink")（月・火、当時tvk契約アナウンサー）
   - [森麻緒](../Page/森麻緒.md "wikilink")（水、当時tvk契約アナウンサー）
-  - [三崎幸恵](https://ja.wikipedia.org/wiki/三崎幸恵 "wikilink")（木、tvkアナウンサー）
+  - [三崎幸恵](../Page/三崎幸恵.md "wikilink")（木、tvkアナウンサー）
   - [野中美里](../Page/野中美里.md "wikilink")（金、当時tvkアナウンサー）
 
 **アシスタント**
@@ -107,7 +107,7 @@
 <!-- end list -->
 
   - 外部からアナウンサーを迎えたが、「[おしゃべりトマト](https://ja.wikipedia.org/wiki/おしゃべりトマト "wikilink")」初期以来の一人進行に。しかし、[TBSのお天気お姉さんでおなじみだった相沢](../Page/TBSテレビ.md "wikilink")、マシンガントークの徳山の進行は好評で、長く続く。
-  - 2003年1月から「首都圏ネット4」結成に伴い、[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[千葉テレビへ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")12:30～13:00までのネットを開始。しかしTVKは「ネット4」自体に積極的でなく、やっていることはTVKローカル「[あっぱれ\!KANAGAWA大行進](https://ja.wikipedia.org/wiki/あっぱれ!KANAGAWA大行進 "wikilink")」の連動企画の「お先にあっぱれ」やインフォマーシャルが大半を占めるというありさまであった。
+  - 2003年1月から「首都圏ネット4」結成に伴い、[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[千葉テレビへ](../Page/千葉テレビ放送.md "wikilink")12:30～13:00までのネットを開始。しかしTVKは「ネット4」自体に積極的でなく、やっていることはTVKローカル「[あっぱれ\!KANAGAWA大行進](../Page/あっぱれ!KANAGAWA大行進.md "wikilink")」の連動企画の「お先にあっぱれ」やインフォマーシャルが大半を占めるというありさまであった。
 
 **キャスター**
 
@@ -117,15 +117,15 @@
 
 ## その他
 
-  - [ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")による視聴率調査期間（年2回、日記式）中は「HAMA大国まつり」として、ラジオさながらのプレゼント大放出を実施。またTVKの放送センターのガレージで「農産物特売」が行われた。
+  - [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")による視聴率調査期間（年2回、日記式）中は「HAMA大国まつり」として、ラジオさながらのプレゼント大放出を実施。またTVKの放送センターのガレージで「農産物特売」が行われた。
 
 ## 脚注
 
 ## 関連項目
 
-  - [TVグラフィックおしゃべりトマト](https://ja.wikipedia.org/wiki/TVグラフィックおしゃべりトマト "wikilink")
-  - [たてながHAMA大国](https://ja.wikipedia.org/wiki/たてながHAMA大国 "wikilink")
-  - とっておき自遊食感ハマランチョ→[1230アッと\!\!ハマランチョ](https://ja.wikipedia.org/wiki/1230アッと!!ハマランチョ "wikilink") - 後継番組
+  - [TVグラフィックおしゃべりトマト](../Page/TVグラフィックおしゃべりトマト.md "wikilink")
+  - [たてながHAMA大国](../Page/たてながHAMA大国.md "wikilink")
+  - とっておき自遊食感ハマランチョ→[1230アッと\!\!ハマランチョ](../Page/1230アッと!!ハマランチョ.md "wikilink") - 後継番組
   - [ありがとッ\!](https://ja.wikipedia.org/wiki/ありがとッ! "wikilink")（当番組まで金曜も放送）
   - [猫のひたいほどワイド](https://ja.wikipedia.org/wiki/猫のひたいほどワイド "wikilink")（月曜から木曜のみの放送）
   - [首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")（旧首都圏ネット4）

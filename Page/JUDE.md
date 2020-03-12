@@ -1,7 +1,7 @@
 > この記事は[JUDE](https://ja.wikipedia.org/wiki/JUDE)から翻訳されています。
 
 
-**JUDE**（ユダ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。元[BLANKEY JET CITYの](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が2002年2月に結成。
+**JUDE**（ユダ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。元[BLANKEY JET CITYの](../Page/BLANKEY_JET_CITY.md "wikilink")[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が2002年2月に結成。
 
 ## メンバー
 
@@ -132,7 +132,7 @@ VKCJ-18</p></td>
 <li>チェリオメアリー [5:26]</li>
 <li>Velvet [6:48]</li>
 <li>サンディ [6:00]</li>
-<li><a href="https://ja.wikipedia.org/wiki/チャド" title="wikilink">チャド</a> [5:51]</li>
+<li><a href="../Page/チャド.md" title="wikilink">チャド</a> [5:51]</li>
 <li>Zowie [3:31]</li>
 <li>シルベット [5:24]</li>
 <li>バスケットロードからの脱出 [4:36]</li>
@@ -175,11 +175,11 @@ VKCJ-26</p></td>
 <li>ARABIA [5:37]</li>
 <li>Wild Bebi [5:00]</li>
 <li><a href="../Page/エメラルド.md" title="wikilink">エメラルド</a> [6:54]</li>
-<li><a href="https://ja.wikipedia.org/wiki/アクセル" title="wikilink">アクセル</a> [5:39]</li>
+<li><a href="../Page/アクセル.md" title="wikilink">アクセル</a> [5:39]</li>
 <li>Diduri Didura [3:34]</li>
 <li>新しい風 [4:32]</li>
 <li>スリーピングチャーリー [6:47]</li>
-<li><a href="https://ja.wikipedia.org/wiki/海水浴" title="wikilink">海水浴</a> [5:13]</li>
+<li><a href="../Page/海水浴.md" title="wikilink">海水浴</a> [5:13]</li>
 <li>Chopper [5:42]</li>
 <li>ピストルバード [4:02]</li>
 <li>葉っぱのおうち [6:05]</li>
@@ -378,9 +378,9 @@ VKBJ-28</p></td>
 
 ## 関連項目
 
-  - [AJICO](https://ja.wikipedia.org/wiki/AJICO "wikilink")
-  - [SHERBETS](https://ja.wikipedia.org/wiki/SHERBETS "wikilink")
-  - [BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink")
+  - [AJICO](../Page/AJICO.md "wikilink")
+  - [SHERBETS](../Page/SHERBETS.md "wikilink")
+  - [BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")
 
 ## 外部リンク
 

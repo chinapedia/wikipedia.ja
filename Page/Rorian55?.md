@@ -7,13 +7,13 @@
 
 [2004年](../Page/2004年.md "wikilink")1月に主宰である阿部耕士が舞台芸術活動を行う[非営利](https://ja.wikipedia.org/wiki/非営利 "wikilink")の任意団体として設立。
 『力のある第一級の名作戯曲を再生し、その制作過程において表現者の能力を高める』との方針を団体設立当初から掲げている。
-[劇団](https://ja.wikipedia.org/wiki/劇団 "wikilink")という形をとっていなかったが、2009年の第８回公演を機に正式に劇団化。
+[劇団](../Page/劇団.md "wikilink")という形をとっていなかったが、2009年の第８回公演を機に正式に劇団化。
 
 ## 公演記録
 
 ### 第1回公演「トランス」
 
-作：[鴻上尚史](https://ja.wikipedia.org/wiki/鴻上尚史 "wikilink")　演出：[フルヤマモトミ](https://ja.wikipedia.org/wiki/フルヤマモトミ "wikilink")
+作：[鴻上尚史](../Page/鴻上尚史.md "wikilink")　演出：[フルヤマモトミ](https://ja.wikipedia.org/wiki/フルヤマモトミ "wikilink")
 AチームとBチームによるダブルキャスト公演。
 
   - 2004年1月9日～1月12日　＠[阿佐ヶ谷アルシェ](https://ja.wikipedia.org/wiki/阿佐ヶ谷アルシェ "wikilink")（[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")）
@@ -47,7 +47,7 @@ AチームとBチームによるダブルキャスト公演。
 作：[野田秀樹](../Page/野田秀樹.md "wikilink")　潤色：[萩原久美子](https://ja.wikipedia.org/wiki/萩原久美子 "wikilink")　演出：[うえのりゅうじ](https://ja.wikipedia.org/wiki/うえのりゅうじ "wikilink")・大谷由梨佳・[大室恵美](https://ja.wikipedia.org/wiki/大室恵美 "wikilink")
 同じ脚本を3人の演出家がそれぞれ別々の役者を使い演出した異色な公演。当初はrorian-miniという企画を銘打っていたが、後に正式にrorian55?の公演記録に加わる。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月6日～1月10日　＠アートスペースプロット（杉並区）
+  - [2005年](../Page/2005年.md "wikilink")1月6日～1月10日　＠アートスペースプロット（杉並区）
   - 役者（演出：うえのりゅうじ）
       - 染谷恵子
       - [土門綾子](https://ja.wikipedia.org/wiki/土門綾子 "wikilink")
@@ -88,7 +88,7 @@ AチームとBチームによるダブルキャスト公演。
 作：[マイケル・フレイン](https://ja.wikipedia.org/wiki/マイケル・フレイン "wikilink")　訳：[小田島恒志](https://ja.wikipedia.org/wiki/小田島恒志 "wikilink")　演出：フルヤマモトミ
 脚本は[1982年](../Page/1982年.md "wikilink")に[英国コメディー](https://ja.wikipedia.org/wiki/イギリス "wikilink")・オブ・ザ・イヤー受賞作品。ロリアン初の海外作品に挑戦。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月17日～8月20日　＠池袋[シアターグリーン](../Page/シアターグリーン.md "wikilink")・メインホール（現[BIG TREE THEATER](https://ja.wikipedia.org/wiki/BIG_TREE_THEATER "wikilink")）（[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")）
+  - [2006年](../Page/2006年.md "wikilink")8月17日～8月20日　＠池袋[シアターグリーン](../Page/シアターグリーン.md "wikilink")・メインホール（現[BIG TREE THEATER](https://ja.wikipedia.org/wiki/BIG_TREE_THEATER "wikilink")）（[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")）
   - 役者
       - [清原愛](https://ja.wikipedia.org/wiki/清原愛 "wikilink")
       - 高田淳
@@ -102,7 +102,7 @@ AチームとBチームによるダブルキャスト公演。
 
 ### 第6回公演「The Winds of God」
 
-作：[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")　演出：フルヤマモトミ
+作：[今井雅之](../Page/今井雅之.md "wikilink")　演出：フルヤマモトミ
 
   - 2007年8月29日～9月2日　＠[アイピット目白](https://ja.wikipedia.org/wiki/アイピット目白 "wikilink")（[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")）
   - 役者
@@ -133,7 +133,7 @@ AチームとBチームによるダブルキャスト公演。
 
 ### 第8回公演「FEVER～眺め続けた展望の行方」
 
-作：[森崎博之](https://ja.wikipedia.org/wiki/森崎博之 "wikilink")（[TEAM NACS](https://ja.wikipedia.org/wiki/TEAM_NACS "wikilink")）　演出：フルヤマモトミ
+作：[森崎博之](../Page/森崎博之.md "wikilink")（[TEAM NACS](../Page/TEAM_NACS.md "wikilink")）　演出：フルヤマモトミ
 
   - 2009年9月19日～27日　＠池袋[シアターグリーン](../Page/シアターグリーン.md "wikilink")BASE THEATER（[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")）
   - 役者

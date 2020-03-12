@@ -116,7 +116,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/小池達子" title="wikilink">小池達子</a><br />
+<td><p>|<a href="../Page/小池達子.md" title="wikilink">小池達子</a><br />
 <a href="https://ja.wikipedia.org/wiki/小西雅子" title="wikilink">小西雅子</a></p></td>
 </tr>
 <tr class="odd">
@@ -138,10 +138,10 @@
   - [青嶋達也](../Page/青嶋達也.md "wikilink")（現・フジテレビアナウンサー）
   - [吉井祥博](../Page/吉井祥博.md "wikilink")（現・tvkアナウンサー）
   - [芝尚子](https://ja.wikipedia.org/wiki/芝尚子 "wikilink")（？〜1995.3）
-  - [たかとりじゅん](https://ja.wikipedia.org/wiki/たかとりじゅん "wikilink")（元・福島中央テレビアナウンサー、芝の後任、1995.4〜1995.9）
+  - [たかとりじゅん](../Page/たかとりじゅん.md "wikilink")（元・福島中央テレビアナウンサー、芝の後任、1995.4〜1995.9）
   - [河野宏子](https://ja.wikipedia.org/wiki/河野宏子 "wikilink")（鎗田の後任）
   - 鈴木美佳（新潟総合テレビアナウンサー→TVKアナウンサー）
-  - [太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink")（[文化放送](../Page/文化放送.md "wikilink")アナウンサー）\[1\]
+  - [太田英明](../Page/太田英明.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")アナウンサー）\[1\]
 
 ### コーナー担当
 
@@ -159,10 +159,10 @@
 
 ## 関連項目
 
-  - [TVグラフィック42番街](https://ja.wikipedia.org/wiki/TVグラフィック42番街 "wikilink")
+  - [TVグラフィック42番街](../Page/TVグラフィック42番街.md "wikilink")
   - [たてながHAMA大国](../Page/たてながHAMA大国.md "wikilink")
   - [HAMA大国](../Page/HAMA大国.md "wikilink")
-  - [1230アッと\!\!ハマランチョ](https://ja.wikipedia.org/wiki/1230アッと!!ハマランチョ "wikilink")
+  - [1230アッと\!\!ハマランチョ](../Page/1230アッと!!ハマランチョ.md "wikilink")
   - [ありがとッ\!](https://ja.wikipedia.org/wiki/ありがとッ! "wikilink")（当番組まで金曜も放送）
   - [猫のひたいほどワイド](https://ja.wikipedia.org/wiki/猫のひたいほどワイド "wikilink")（月曜から木曜のみの放送）
   - [首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")（旧首都圏ネット4）

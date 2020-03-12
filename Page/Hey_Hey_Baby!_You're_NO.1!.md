@@ -6,7 +6,7 @@
 ## 内容
 
   - [奄美大島](../Page/奄美大島.md "wikilink")出身の女性3人組ボーカルユニットのデビュー・シングルである。
-  - [タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[モンキーターンV](https://ja.wikipedia.org/wiki/モンキーターンV "wikilink")」第1期エンディング･テーマ。
+  - [タイアップ](../Page/タイアップ.md "wikilink")は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[モンキーターンV](https://ja.wikipedia.org/wiki/モンキーターンV "wikilink")」第1期エンディング･テーマ。
   - センター＆メインボーカルは明日香である。
   - シングルの中では一番売れており、唯一ベスト100以内にランクインしたシングルである。
   - 2008年に、『[GIZA studio 10th Anniversary Masterpiece BLEND 〜FUN Side〜](https://ja.wikipedia.org/wiki/GIZA_studio_10th_Anniversary_Masterpiece_BLEND_〜FUN_Side〜 "wikilink")』に収録される。

@@ -1,7 +1,7 @@
 > この記事は[STARCHILD HOUR](https://ja.wikipedia.org/wiki/STARCHILD_HOUR)から翻訳されています。
 
 
-**STARCHILD HOUR**（スターチャイルドアワー）は、[文化放送](../Page/文化放送.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[AM KOBE](../Page/ラジオ関西.md "wikilink")・[BSQRの](../Page/BSQR489.md "wikilink")4局で2003年7月から2005年3月まで放送されていたラジオ番組枠の名称である。提供は[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")。
+**STARCHILD HOUR**（スターチャイルドアワー）は、[文化放送](../Page/文化放送.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[AM KOBE](../Page/ラジオ関西.md "wikilink")・[BSQRの](../Page/BSQR489.md "wikilink")4局で2003年7月から2005年3月まで放送されていたラジオ番組枠の名称である。提供は[スターチャイルド](../Page/スターチャイルド.md "wikilink")。
 
 30分番組2番組にミニ番組を挟み、1時間の枠として放送していた。
 
@@ -35,7 +35,7 @@
 
 番組開始時に、『天たま（堀江由衣の天使のたまご）』のパーソナリティ[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")と、後半の番組のパーソナリティによる、約45秒の番組紹介があった。ただし、掛け合いはほとんど無く、別録りと思われる。
 
-『天たま』の最後で後半の番組にメッセージを送り、後半の番組でそれに答えていた。『天たま』と『ホレぼれ。』の間には[交換日記](https://ja.wikipedia.org/wiki/交換日記 "wikilink")企画もあったが、堀江由衣で止まって、それっきりになった。
+『天たま』の最後で後半の番組にメッセージを送り、後半の番組でそれに答えていた。『天たま』と『ホレぼれ。』の間には[交換日記](../Page/交換日記.md "wikilink")企画もあったが、堀江由衣で止まって、それっきりになった。
 
 枠開始時の番組は共に、それ以前から放送されていた番組である。終了時の番組のうち、前半の『天たま』は継続したが、後半の『ふんたららん』は枠と共に終了した。東海ラジオとAM KOBEではその後も『天たま』の次はキングレコード提供の『[angelaのsparking\!talking\!show\!](https://ja.wikipedia.org/wiki/angelaのsparking!talking!show! "wikilink")（スパキン）』が放送されており、スターチャイルド提供の1時間枠（ラジオ関西ではさらにスターチャイルド提供の『[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")』（HS）が続くため、実質2時間枠。2015年4月まで）は継続していた。
 

@@ -1,7 +1,7 @@
 > この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
 
 
-[Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg](https://ja.wikipedia.org/wiki/File:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_\(36669381364\)_\(cropped_2\).jpg "fig:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg") **[エマニュエル・ジャン＝ミシェル・フレデリック・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")**（, [1977年](../Page/1977年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[政治家](../Page/政治家.md "wikilink")。現在、同国[大統領](https://ja.wikipedia.org/wiki/共和国大統領_\(フランス\) "wikilink")（第25代）。　
+[Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg](https://ja.wikipedia.org/wiki/File:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_\(36669381364\)_\(cropped_2\).jpg "fig:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg") **[エマニュエル・ジャン＝ミシェル・フレデリック・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")**（, [1977年](../Page/1977年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[政治家](../Page/政治家.md "wikilink")。現在、同国[大統領](../Page/共和国大統領_\(フランス\).md "wikilink")（第25代）。　
 
 -----
 
@@ -15,7 +15,7 @@
 
   - 政体：[フランス第五共和政](../Page/フランス第五共和政.md "wikilink") 元首：[エマニュエル・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")[大統領](https://ja.wikipedia.org/wiki/フランスの大統領 "wikilink")[1](http://www.elysee.fr/) - [半大統領制](../Page/半大統領制.md "wikilink") -
   - 議会制度：[二院制](https://ja.wikipedia.org/wiki/二院制 "wikilink") - [元老院（Sénat）](https://ja.wikipedia.org/wiki/元老院_\(フランス\) "wikilink")（上院）[2](http://www.senat.fr/) - [国民議会（Assemblée nationale）](https://ja.wikipedia.org/wiki/国民議会_\(フランス\) "wikilink")（下院）[3](http://www.assemblee-nationale.fr/)
-  - [政党](https://ja.wikipedia.org/wiki/Category:フランスの政党 "wikilink")：[共和党](https://ja.wikipedia.org/wiki/共和党_\(フランス_2015-\) "wikilink")（LR） - [フランス民主連合](https://ja.wikipedia.org/wiki/フランス民主連合 "wikilink")（UDF） - [社会党](https://ja.wikipedia.org/wiki/社会党_\(フランス\) "wikilink")（PS） - [共和国連合](https://ja.wikipedia.org/wiki/共和国連合 "wikilink")（RPR） - [緑の党](../Page/緑の党_\(フランス\).md "wikilink")（Les Verts） - [共産党](../Page/フランス共産党.md "wikilink")（PCF） - [国民戦線](https://ja.wikipedia.org/wiki/国民戦線_\(フランス\) "wikilink")（FN） - [革命的共産主義者同盟 (LCR)](../Page/革命的共産主義者同盟_\(フランス\).md "wikilink") - [労働者の闘争 (LO)](https://ja.wikipedia.org/wiki/労働者の闘争党 "wikilink")
+  - [政党](https://ja.wikipedia.org/wiki/Category:フランスの政党 "wikilink")：[共和党](https://ja.wikipedia.org/wiki/共和党_\(フランス_2015-\) "wikilink")（LR） - [フランス民主連合](../Page/フランス民主連合.md "wikilink")（UDF） - [社会党](../Page/社会党_\(フランス\).md "wikilink")（PS） - [共和国連合](../Page/共和国連合.md "wikilink")（RPR） - [緑の党](../Page/緑の党_\(フランス\).md "wikilink")（Les Verts） - [共産党](../Page/フランス共産党.md "wikilink")（PCF） - [国民戦線](https://ja.wikipedia.org/wiki/国民戦線_\(フランス\) "wikilink")（FN） - [革命的共産主義者同盟 (LCR)](../Page/革命的共産主義者同盟_\(フランス\).md "wikilink") - [労働者の闘争 (LO)](https://ja.wikipedia.org/wiki/労働者の闘争党 "wikilink")
 
 -----
 
@@ -58,11 +58,11 @@
 **[政治家](https://ja.wikipedia.org/wiki/Category:フランスの政治家 "wikilink")：**
 
   -
-    [ニコラ・サルコジ](https://ja.wikipedia.org/wiki/ニコラ・サルコジ "wikilink") - [マリーヌ・ル・ペン](../Page/マリーヌ・ル・ペン.md "wikilink") - [アンヌ・イダルゴ](https://ja.wikipedia.org/wiki/アンヌ・イダルゴ "wikilink") - [シャルル・ド・ゴール](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール "wikilink") - [フランソワ・ミッテラン](../Page/フランソワ・ミッテラン.md "wikilink")
+    [ニコラ・サルコジ](https://ja.wikipedia.org/wiki/ニコラ・サルコジ "wikilink") - [マリーヌ・ル・ペン](../Page/マリーヌ・ル・ペン.md "wikilink") - [アンヌ・イダルゴ](https://ja.wikipedia.org/wiki/アンヌ・イダルゴ "wikilink") - [シャルル・ド・ゴール](../Page/シャルル・ド・ゴール.md "wikilink") - [フランソワ・ミッテラン](../Page/フランソワ・ミッテラン.md "wikilink")
 
 -----
 
-**[宗教](../Page/宗教.md "wikilink"):** [カトリック](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink") 62％ - [イスラム教](../Page/イスラム教.md "wikilink") 6％ - [プロテスタント](../Page/プロテスタント.md "wikilink") 2％等
+**[宗教](../Page/宗教.md "wikilink"):** [カトリック](../Page/カトリック教会.md "wikilink") 62％ - [イスラム教](../Page/イスラム教.md "wikilink") 6％ - [プロテスタント](../Page/プロテスタント.md "wikilink") 2％等
 
 -----
 
@@ -72,4 +72,4 @@
 
 </div>
 
-**[軍事](../Page/フランス軍.md "wikilink"):** [国防省](https://ja.wikipedia.org/wiki/フランス国防省 "wikilink") - [フランス陸軍](../Page/フランス陸軍.md "wikilink") - [フランス海軍](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink") - [フランス空軍](https://ja.wikipedia.org/wiki/フランス空軍 "wikilink")
+**[軍事](../Page/フランス軍.md "wikilink"):** [国防省](https://ja.wikipedia.org/wiki/フランス国防省 "wikilink") - [フランス陸軍](../Page/フランス陸軍.md "wikilink") - [フランス海軍](../Page/フランス海軍.md "wikilink") - [フランス空軍](../Page/フランス空軍.md "wikilink")

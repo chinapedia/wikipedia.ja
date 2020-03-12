@@ -1,11 +1,11 @@
 > この記事は[S.E.N.S.](https://ja.wikipedia.org/wiki/S.E.N.S.)から翻訳されています。
 
 
-**S.E.N.S.**（センス）は日本の男女2人組[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[1988年](../Page/1988年.md "wikilink")結成。ユニット名は「Sound. Earth. Nature. Spirit」の略。映画、TVドキュメンタリー、ドラマやCMなどの音楽を数多く担当している。[S.E.N.S. Company所属](https://ja.wikipedia.org/wiki/センスカンパニー "wikilink")。
+**S.E.N.S.**（センス）は日本の男女2人組[インストゥルメンタル](../Page/器楽曲.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[1988年](../Page/1988年.md "wikilink")結成。ユニット名は「Sound. Earth. Nature. Spirit」の略。映画、TVドキュメンタリー、ドラマやCMなどの音楽を数多く担当している。[S.E.N.S. Company所属](https://ja.wikipedia.org/wiki/センスカンパニー "wikilink")。
 
 ## メンバー
 
-  - [勝木ゆかり](https://ja.wikipedia.org/wiki/勝木ゆかり "wikilink")（かつき ゆかり、[1956年](../Page/1956年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ピアノ](../Page/ピアノ.md "wikilink")・[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - [勝木ゆかり](https://ja.wikipedia.org/wiki/勝木ゆかり "wikilink")（かつき ゆかり、[1956年](../Page/1956年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ピアノ](../Page/ピアノ.md "wikilink")・[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
   - [深浦昭彦](https://ja.wikipedia.org/wiki/深浦昭彦 "wikilink")（ふかうら あきひこ、[1959年](../Page/1959年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") - ）[シンセサイザー](../Page/シンセサイザー.md "wikilink")・プログラミング
 
 ## 受賞
@@ -23,21 +23,21 @@
 
   - [ゴリラ・警視庁捜査第8班](../Page/ゴリラ・警視庁捜査第8班.md "wikilink")（1989年4月 - 1990年4月）
   - [TBS開局](../Page/TBSテレビ.md "wikilink")40周年記念ドラマ「[忠臣蔵](https://ja.wikipedia.org/wiki/忠臣蔵_\(1990年のテレビドラマ\) "wikilink")」（1990年12月）
-  - [振り返れば奴がいる](https://ja.wikipedia.org/wiki/振り返れば奴がいる "wikilink")（1993年1月 - 3月）
-  - [あすなろ白書](https://ja.wikipedia.org/wiki/あすなろ白書 "wikilink")（1993年10月 - 12月）
-  - [出逢った頃の君でいて](https://ja.wikipedia.org/wiki/出逢った頃の君でいて "wikilink")（1994年4月 - 6月）
+  - [振り返れば奴がいる](../Page/振り返れば奴がいる.md "wikilink")（1993年1月 - 3月）
+  - [あすなろ白書](../Page/あすなろ白書.md "wikilink")（1993年10月 - 12月）
+  - [出逢った頃の君でいて](../Page/出逢った頃の君でいて.md "wikilink")（1994年4月 - 6月）
   - [輝く季節の中で](../Page/輝く季節の中で.md "wikilink")（1995年4月 - 6月）
   - [ミセスシンデレラ](../Page/ミセスシンデレラ.md "wikilink")（1997年4月 - 6月）
-  - [青い鳥](https://ja.wikipedia.org/wiki/青い鳥_\(テレビドラマ\) "wikilink")（1997年10月 - 12月）
+  - [青い鳥](../Page/青い鳥_\(テレビドラマ\).md "wikilink")（1997年10月 - 12月）
   - CHOOP春休みドラマスペシャル「卒業旅行」（1999年3月）
-  - [神様、もう少しだけ](https://ja.wikipedia.org/wiki/神様、もう少しだけ "wikilink")（1998年7月 - 9月）
+  - [神様、もう少しだけ](../Page/神様、もう少しだけ.md "wikilink")（1998年7月 - 9月）
   - [P.S. 元気です、俊平](../Page/P.S._元気です、俊平.md "wikilink")（1999年6月 - 9月）
   - [二千年の恋](../Page/二千年の恋.md "wikilink")（2000年1月 - 3月）
   - [柳橋慕情](https://ja.wikipedia.org/wiki/柳橋慕情 "wikilink")（2000年8月 - 12月）
-  - [マリア](https://ja.wikipedia.org/wiki/マリア_\(テレビドラマ\) "wikilink")（2001年7月 - 9月）
-  - [美しき日々](https://ja.wikipedia.org/wiki/美しき日々 "wikilink")（2001年）「Remembering Me」がドラマ内挿入曲として使われる
+  - [マリア](../Page/マリア_\(テレビドラマ\).md "wikilink")（2001年7月 - 9月）
+  - [美しき日々](../Page/美しき日々.md "wikilink")（2001年）「Remembering Me」がドラマ内挿入曲として使われる
   - TBSテレビ放送50周年特別企画「[里見八犬伝](../Page/里見八犬伝_\(2006年のテレビドラマ\).md "wikilink")」（2006年1月2日・3日）メインテーマ
-  - [役者魂！](https://ja.wikipedia.org/wiki/役者魂! "wikilink")（2006年10月 - 12月）メインテーマ
+  - [役者魂！](../Page/役者魂!.md "wikilink")（2006年10月 - 12月）メインテーマ
   - [ラスト・フレンズ](../Page/ラスト・フレンズ.md "wikilink")（2008年4月 - 6月）挿入曲「記憶の森」を担当
   - [アイシテル 〜海容〜](https://ja.wikipedia.org/wiki/アイシテル〜海容〜 "wikilink")（2009年4月 - 6月）
   - [天使の代理人](https://ja.wikipedia.org/wiki/天使の代理人 "wikilink")（2010年9月 - 10月）メインテーマ
@@ -54,10 +54,10 @@
 
 ### ドキュメンタリー
 
-  - [NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")「[海のシルクロード](https://ja.wikipedia.org/wiki/NHK特集_シルクロード "wikilink")」（1988年4月 - 1989年3月）
+  - [NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")「[海のシルクロード](../Page/NHK特集_シルクロード.md "wikilink")」（1988年4月 - 1989年3月）
   - [NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")「[地球汚染](https://ja.wikipedia.org/wiki/地球汚染 "wikilink")」（1989年3月）
   - [NHKスペシャル](../Page/NHKスペシャル.md "wikilink")「[人間は何を食べてきたか](https://ja.wikipedia.org/wiki/人間は何を食べてきたか "wikilink")」（1990年1月）第3・4集のみ
-  - [MBS](../Page/毎日放送.md "wikilink")40周年記念番組「[新ビーグル号探検記](https://ja.wikipedia.org/wiki/新ビーグル号探検記 "wikilink")」（1991年10月 - 12月）
+  - [MBS](../Page/毎日放送.md "wikilink")40周年記念番組「[新ビーグル号探検記](../Page/新ビーグル号探検記.md "wikilink")」（1991年10月 - 12月）
   - TBS「甦る黄金の都シカン」（1994年）
   - TBS開局40周年記念特別企画「[日本海大紀行](https://ja.wikipedia.org/wiki/日本海大紀行 "wikilink")」（1995年11月20日 - 22日）
   - [NHKスペシャル](../Page/NHKスペシャル.md "wikilink")「[故宮 〜至宝が語る中華五千年〜](https://ja.wikipedia.org/wiki/故宮_〜至宝が語る中華五千年〜 "wikilink")」（1996年4月 - 1997年3月）
@@ -85,9 +85,9 @@
 
 ### 映画
 
-  - [悲情城市](https://ja.wikipedia.org/wiki/悲情城市 "wikilink")（1989年）
+  - [悲情城市](../Page/悲情城市.md "wikilink")（1989年）
   - [いちげんさん](https://ja.wikipedia.org/wiki/いちげんさん "wikilink")（2000年）
-  - [いぬのえいが](https://ja.wikipedia.org/wiki/いぬのえいが "wikilink")シリーズ 2作品（2005年・2011年）挿入曲
+  - [いぬのえいが](../Page/いぬのえいが.md "wikilink")シリーズ 2作品（2005年・2011年）挿入曲
   - [疾走](../Page/疾走.md "wikilink")（2005年）
   - [めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") [にゃんこ THE MOVIE](https://ja.wikipedia.org/wiki/にゃんこ_THE_MOVIE "wikilink")（2006年）メインテーマ
   - [子宮の記憶 ここにあなたがいる](../Page/子宮の記憶_ここにあなたがいる.md "wikilink")（2007年）音楽監督・メインテーマ
@@ -104,19 +104,19 @@
 
   - [スペースオズの冒険](https://ja.wikipedia.org/wiki/スペースオズの冒険 "wikilink") （1992年10月 - 1993年4月）
   - [KURAU Phantom Memory](../Page/KURAU_Phantom_Memory.md "wikilink")（2004年6月 - 12月）勝木ゆかり（S.E.N.S.）名義・エンディングテーマ・音楽担当
-  - [xxxHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")（2006年4月 - 9月）S.E.N.S. Project名義
-  - [xxxHOLiC◆継](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")（2008年4月 - 6月）S.E.N.S. Project名義
+  - [xxxHOLiC](../Page/XXXHOLiC.md "wikilink")（2006年4月 - 9月）S.E.N.S. Project名義
+  - [xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink")（2008年4月 - 6月）S.E.N.S. Project名義
   - [源氏物語千年紀 Genji](https://ja.wikipedia.org/wiki/源氏物語千年紀_Genji "wikilink")（2009年1月 - 3月）S.E.N.S. Project名義
-  - [君に届け](https://ja.wikipedia.org/wiki/君に届け "wikilink")（2009年10月 - 2010年3月）S.E.N.S. Project名義
-  - [君に届け 2ND SEASON](https://ja.wikipedia.org/wiki/君に届け "wikilink")（2011年1月 - 3月）- S.E.N.S. Project名義
+  - [君に届け](../Page/君に届け.md "wikilink")（2009年10月 - 2010年3月）S.E.N.S. Project名義
+  - [君に届け 2ND SEASON](../Page/君に届け.md "wikilink")（2011年1月 - 3月）- S.E.N.S. Project名義
   - [豆富小僧](https://ja.wikipedia.org/wiki/豆富小僧 "wikilink")（2011年4月29日公開）S.E.N.S. Project名義
-  - [西武鉄道](../Page/西武鉄道.md "wikilink")100周年・[トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")50周年記念「[でででん](https://ja.wikipedia.org/wiki/でででん "wikilink")」（2015年2月公開）
+  - [西武鉄道](../Page/西武鉄道.md "wikilink")100周年・[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")50周年記念「[でででん](https://ja.wikipedia.org/wiki/でででん "wikilink")」（2015年2月公開）
   - [俺物語\!\!](https://ja.wikipedia.org/wiki/俺物語!! "wikilink")（2015年4月 - 9月）S.E.N.S. Project名義
   - [宇宙戦艦ヤマト2202 愛の戦士たち](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2202_愛の戦士たち "wikilink") 第二章〜第六章 エンディング主題歌（2017年〜2018年）S.E.N.S. Project名義
 
 ### その他
 
-  - [泉鏡花](https://ja.wikipedia.org/wiki/泉鏡花 "wikilink")作・[坂東玉三郎](https://ja.wikipedia.org/wiki/坂東玉三郎 "wikilink")演出 舞台「[海神別荘](../Page/海神別荘.md "wikilink")」テーマ曲（1994年）
+  - [泉鏡花](../Page/泉鏡花.md "wikilink")作・[坂東玉三郎](../Page/坂東玉三郎.md "wikilink")演出 舞台「[海神別荘](../Page/海神別荘.md "wikilink")」テーマ曲（1994年）
   - [KENZO](https://ja.wikipedia.org/wiki/KENZO "wikilink")コレクション 音楽プロデュース（1997年）
   - [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")「恋文」プロデュース（1997年）
   - [東京ドーム](../Page/東京ドーム.md "wikilink")「コロシアム2000」テーマ曲（2000年4月）
@@ -130,24 +130,24 @@
 
 ### シングル
 
-|    | タイトル                                                  | リリース日       | 備考 |
-| -- | ----------------------------------------------------- | ----------- | -- |
-| 1  | 海神                                                    | 1988年2月25日  |    |
-| 2  | APHRODITE                                             | 1988年7月25日  |    |
-| 3  | [悲情城市](https://ja.wikipedia.org/wiki/悲情城市 "wikilink") | 1990年4月25日  |    |
-| 4  | 人と時と風の中へ                                              | 1993年3月5日   |    |
-| 5  | 風のように                                                 | 1993年11月1日  |    |
-| 6  | I,KIMONO〜別れの舞                                         | 1994年4月25日  |    |
-| 7  | [輝く季節の中で](../Page/輝く季節の中で.md "wikilink")              | 1995年5月25日  |    |
-| 8  | Remembering Me                                        | 1995年6月21日  |    |
-| 9  | [故宮](https://ja.wikipedia.org/wiki/故宮 "wikilink")     | 1996年4月25日  |    |
-| 10 | Flying                                                | 1997年6月4日   |    |
-| 11 | L'oiseau Bleu                                         | 1997年11月21日 |    |
-| 12 | 組曲〜やさしさの選択                                            | 1998年3月21日  |    |
-| 13 | Wish                                                  | 1998年8月21日  |    |
-| 14 | Fine                                                  | 1999年7月23日  |    |
-| 15 | Forbidden Love                                        | 2000年2月23日  |    |
-| 16 | MARIA                                                 | 2001年7月25日  |    |
+|    | タイトル                                              | リリース日       | 備考 |
+| -- | ------------------------------------------------- | ----------- | -- |
+| 1  | 海神                                                | 1988年2月25日  |    |
+| 2  | APHRODITE                                         | 1988年7月25日  |    |
+| 3  | [悲情城市](../Page/悲情城市.md "wikilink")                | 1990年4月25日  |    |
+| 4  | 人と時と風の中へ                                          | 1993年3月5日   |    |
+| 5  | 風のように                                             | 1993年11月1日  |    |
+| 6  | I,KIMONO〜別れの舞                                     | 1994年4月25日  |    |
+| 7  | [輝く季節の中で](../Page/輝く季節の中で.md "wikilink")          | 1995年5月25日  |    |
+| 8  | Remembering Me                                    | 1995年6月21日  |    |
+| 9  | [故宮](https://ja.wikipedia.org/wiki/故宮 "wikilink") | 1996年4月25日  |    |
+| 10 | Flying                                            | 1997年6月4日   |    |
+| 11 | L'oiseau Bleu                                     | 1997年11月21日 |    |
+| 12 | 組曲〜やさしさの選択                                        | 1998年3月21日  |    |
+| 13 | Wish                                              | 1998年8月21日  |    |
+| 14 | Fine                                              | 1999年7月23日  |    |
+| 15 | Forbidden Love                                    | 2000年2月23日  |    |
+| 16 | MARIA                                             | 2001年7月25日  |    |
 
 ### アルバム
 
@@ -165,7 +165,7 @@
 <td><p>1</p></td>
 <td><p>海神</p></td>
 <td><p>1988年4月25日</p></td>
-<td><p><a href="../Page/NHKスペシャル.md" title="wikilink">NHK特集</a>「<a href="https://ja.wikipedia.org/wiki/NHK特集_シルクロード" title="wikilink">海のシルクロード</a>」オリジナル・サウンドトラックI</p></td>
+<td><p><a href="../Page/NHKスペシャル.md" title="wikilink">NHK特集</a>「<a href="../Page/NHK特集_シルクロード.md" title="wikilink">海のシルクロード</a>」オリジナル・サウンドトラックI</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -187,7 +187,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/悲情城市" title="wikilink">悲情城市</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/悲情城市.md" title="wikilink">悲情城市</a>」オリジナル・サウンドトラック</p></td>
 <td><p>1990年4月25日</p></td>
 <td></td>
 </tr>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/新ビーグル号探検記" title="wikilink">新ビーグル号探検記</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/新ビーグル号探検記.md" title="wikilink">新ビーグル号探検記</a>」オリジナル・サウンドトラック</p></td>
 <td><p>1991年10月1日</p></td>
 <td></td>
 </tr>
@@ -219,7 +219,7 @@
 <td><p>10</p></td>
 <td><p>YAH YAH YAH</p></td>
 <td><p>1993年3月10日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/振り返れば奴がいる" title="wikilink">振り返れば奴がいる</a>」オリジナル・サウンドトラック <a href="https://ja.wikipedia.org/wiki/ASKA" title="wikilink">ASKA</a>との共同プロデュース</p>
+<td><p>「<a href="../Page/振り返れば奴がいる.md" title="wikilink">振り返れば奴がいる</a>」オリジナル・サウンドトラック <a href="https://ja.wikipedia.org/wiki/ASKA" title="wikilink">ASKA</a>との共同プロデュース</p>
 <p>第8回日本ゴールドディスク大賞アルバム賞受賞作</p>
 <p>（インストゥルメンタル部門）</p></td>
 </tr>
@@ -231,7 +231,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/あすなろ白書" title="wikilink">あすなろ白書</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/あすなろ白書.md" title="wikilink">あすなろ白書</a>」オリジナル・サウンドトラック</p></td>
 <td><p>1993年11月1日</p></td>
 <td></td>
 </tr>
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/出逢った頃の君でいて" title="wikilink">出逢った頃の君でいて</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/出逢った頃の君でいて.md" title="wikilink">出逢った頃の君でいて</a>」オリジナル・サウンドトラック</p></td>
 <td><p>1994年5月25日</p></td>
 <td></td>
 </tr>
@@ -299,7 +299,7 @@
 <td><p>23</p></td>
 <td><p>L'oiseau Bleu</p></td>
 <td><p>1997年11月21日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/青い鳥_(テレビドラマ)" title="wikilink">青い鳥</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/青い鳥_(テレビドラマ).md" title="wikilink">青い鳥</a>」オリジナル・サウンドトラック</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -311,7 +311,7 @@
 <td><p>25</p></td>
 <td><p>Wish</p></td>
 <td><p>1998年8月21日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/神様、もう少しだけ" title="wikilink">神様、もう少しだけ</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/神様、もう少しだけ.md" title="wikilink">神様、もう少しだけ</a>」オリジナル・サウンドトラック</p></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
@@ -441,14 +441,14 @@
 
   - SUPER BEST 2000〜S.E.N.S. TV DRAMA BEST SELECTION（1995年11月15日）ベストアルバム
   - Terra Firma（1998年12月16日）S.E.N.S. of Y名義
-  - THE SILK ROAD OF THE SEA（1999年5月21日）「[海のシルクロード](https://ja.wikipedia.org/wiki/NHK特集_シルクロード "wikilink")」3部作 BOXセット
+  - THE SILK ROAD OF THE SEA（1999年5月21日）「[海のシルクロード](../Page/NHK特集_シルクロード.md "wikilink")」3部作 BOXセット
   - THE PALACE MUSEUM TREASURES（1999年5月21日）「[故宮](https://ja.wikipedia.org/wiki/故宮 "wikilink")」3部作 BOXセット
   - INDIGO〜「[KURAU Phantom Memory](../Page/KURAU_Phantom_Memory.md "wikilink")」Original Soundtrack（2004年10月6日）[勝木ゆかり](https://ja.wikipedia.org/wiki/勝木ゆかり "wikilink")(S.E.N.S.)名義
   - CRIMSON〜「KURAU Phantom Memory」Original Soundtrack（2004年12月16日）勝木ゆかり(S.E.N.S.)名義
   - [xxxHOLiC](https://ja.wikipedia.org/wiki/xxxHOLiC "wikilink") SOUNDFILE （2007年8月22日）S.E.N.S. Project 名義
   - [源氏物語千年紀 Genji](https://ja.wikipedia.org/wiki/源氏物語千年紀_Genji "wikilink") オリジナル・サウンドトラック （2009年2月25日）S.E.N.S. Project名義
-  - [君に届け](https://ja.wikipedia.org/wiki/君に届け "wikilink") オリジナル・サウンドトラック（2010年1月27日）S.E.N.S. Project名義
-  - [君に届け 2ND SEASON](https://ja.wikipedia.org/wiki/君に届け "wikilink") オリジナル・サウンドトラック（2011年2月23日）S.E.N.S. Project名義
+  - [君に届け](../Page/君に届け.md "wikilink") オリジナル・サウンドトラック（2010年1月27日）S.E.N.S. Project名義
+  - [君に届け 2ND SEASON](../Page/君に届け.md "wikilink") オリジナル・サウンドトラック（2011年2月23日）S.E.N.S. Project名義
   - [豆富小僧](https://ja.wikipedia.org/wiki/豆富小僧 "wikilink") オリジナル・サウンドトラック（2011年4月27日）S.E.N.S. Project名義
   - S.E.N.S. [ゴールデン☆ベスト](https://ja.wikipedia.org/wiki/GOLDEN☆BEST "wikilink") SINGLES COLLECTION（2011年10月26日）ベストアルバム
   - SKY IN MY HEART（2013年5月14日）「組曲〜空がこころになる日」韓国限定盤

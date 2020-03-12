@@ -6,7 +6,7 @@
 ## 解説
 
   - 自身が主演した映画『[NANA](https://ja.wikipedia.org/wiki/NANA#NANA "wikilink")』の主題歌として大ヒット。後にNANA starring MIKA NAKASHIMAの最初で最後のアルバム『[THE END](../Page/THE_END_\(NANA_starring_MIKA_NAKASHIMAのアルバム\).md "wikilink")』にも、このシングル曲やc/w曲が全て収録された。
-  - 本作でシングルでは自身初の[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位（2週連続）を獲得。女性アーティストの作品で唯一2005年度オリコン年間シングルランキングでTOP10入りを果たした。
+  - 本作でシングルでは自身初の[オリコン](../Page/オリコンチャート.md "wikilink")1位（2週連続）を獲得。女性アーティストの作品で唯一2005年度オリコン年間シングルランキングでTOP10入りを果たした。
   - 作曲・プロデュースは[HYDE](https://ja.wikipedia.org/wiki/hyde "wikilink")、作詞は『NANA』の原作者・[矢沢あい](../Page/矢沢あい.md "wikilink")。
   - オリジナル・バージョンのテレビ披露は『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』のみで、この時にはギタリストとしてHYDEも出演している。なお、当初から「ミュージックステーション限定で披露」とされていたため、年末の歌番組にもこの曲で登場するものの全てアコースティックバージョンであった。
   - カップリング曲「MY MEDICINE」も『NANA』の劇中歌として起用された。歌詞が全て英語になっている。
@@ -24,7 +24,7 @@
       - 東宝配給映画『NANA -ナナ-』劇中歌
 3.  **BLOOD**
       - 作詞：mmm.31f.jp / 作曲：[古賀繁一](https://ja.wikipedia.org/wiki/古賀繁一 "wikilink") / 編曲：根岸孝旨
-      - [カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")「KATE」CMソング
+      - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「KATE」CMソング
 4.  **ISOLATION**
       - 作詞：mmm.31f.jp / 作曲：南ヤスヒロ / 編曲：根岸孝旨
       - カネボウ「KATE」CMソング
@@ -58,7 +58,7 @@
 ## カバー
 
   - イギリスのパンクバンド・[SNUFFのドラム及びヴォーカルを担当するダンカン](../Page/スナッフ_\(バンド\).md "wikilink")・レッドモンズが、ソロプロジェクト「DUNCAN'S DIVAS」名義で同曲をカバーしている（2007年のアルバム『Sticks Up Girls』に収録） [1](http://www.inyaface.co.jp/bio-duncansdivas.html)。
-  - [2009年](../Page/2009年.md "wikilink")に、[HYDEの](https://ja.wikipedia.org/wiki/hyde#HYDE "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[HYDE](https://ja.wikipedia.org/wiki/HYDE_\(アルバム\) "wikilink")』にて、英語詞による[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")が収録され、[2016年](../Page/2016年.md "wikilink")発売の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")『[MIKA NAKASHIMA TRIBUTE](https://ja.wikipedia.org/wiki/MIKA_NAKASHIMA_TRIBUTE "wikilink")』にも収録\[2\]。
+  - [2009年](../Page/2009年.md "wikilink")に、[HYDEの](https://ja.wikipedia.org/wiki/hyde#HYDE "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[HYDE](https://ja.wikipedia.org/wiki/HYDE_\(アルバム\) "wikilink")』にて、英語詞による[セルフカバー](../Page/セルフカバー.md "wikilink")が収録され、[2016年](../Page/2016年.md "wikilink")発売の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")『[MIKA NAKASHIMA TRIBUTE](https://ja.wikipedia.org/wiki/MIKA_NAKASHIMA_TRIBUTE "wikilink")』にも収録\[2\]。
   - 2010年には[Janne Da Arcのボーカル](../Page/Janne_Da_Arc.md "wikilink")[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")が自身のソロプロジェクト[Acid Black Cherryでカバーアルバム](../Page/Acid_Black_Cherry.md "wikilink")『[Recreation 2](https://ja.wikipedia.org/wiki/Recreation_2 "wikilink")』でこの曲をカバーした。
   - [2011年](../Page/2011年.md "wikilink")に[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")が[ラジオ大阪の番組](../Page/大阪放送.md "wikilink")『[THE IDOLM@STER STATION\!\!\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")』のコーナーの1つ「歌姫楽園2011」でカバーした。楽曲は[2012年](../Page/2012年.md "wikilink")発売のアルバム『THE IDOLM@STER STATION\!\!\! Nouvelle Vague』に収録。
   - [2016年](../Page/2016年.md "wikilink")4月24日に[品川ステラボールにて開催された](../Page/アクアパーク品川.md "wikilink")『[BanG Dream\! First☆LIVE Sprin' PARTY 2016\!](https://ja.wikipedia.org/wiki/BanG_Dream!#ライブ・コンサート "wikilink")』にて声優の[愛美](https://ja.wikipedia.org/wiki/愛美 "wikilink")がカバー。その後、[2018年](../Page/2018年.md "wikilink")3月18日にアプリゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』にて愛美がボーカルを務めるバンド[Poppin'Partyがカバーした](https://ja.wikipedia.org/wiki/BanG_Dream!#Poppin'Party（声優ユニット） "wikilink")。

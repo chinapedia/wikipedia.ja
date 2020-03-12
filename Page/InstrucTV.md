@@ -1,11 +1,11 @@
 > この記事は[InstrucTV](https://ja.wikipedia.org/wiki/InstrucTV)から翻訳されています。
 
 
-**InstrucTV**（インストラクティービー）は、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")520ch・340chで放送されていた、中学生向けの学習番組を放送する[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[衛星役務利用放送](https://ja.wikipedia.org/wiki/衛星役務利用放送 "wikilink")事業者の**株式会社インストラクティービー**（株式会社[エスコム](https://ja.wikipedia.org/wiki/エスコム "wikilink")が100%株主）が運営している。
+**InstrucTV**（インストラクティービー）は、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")520ch・340chで放送されていた、中学生向けの学習番組を放送する[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[衛星役務利用放送](../Page/衛星役務利用放送.md "wikilink")事業者の**株式会社インストラクティービー**（株式会社[エスコム](https://ja.wikipedia.org/wiki/エスコム "wikilink")が100%株主）が運営している。
 
 ## 概要
 
-[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")創立、当初から『中学生のための「予習・復習」＆「受験対策」チャンネル』というコンセプトで番組を制作・放映している。中学1年生と2年生には[教科書](https://ja.wikipedia.org/wiki/教科書 "wikilink")別に番組を作成していたが、最近では[単元](https://ja.wikipedia.org/wiki/単元 "wikilink")別に番組を放送するようになった。中学3年生向けには受験対策の番組を放送。
+[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")創立、当初から『中学生のための「予習・復習」＆「受験対策」チャンネル』というコンセプトで番組を制作・放映している。中学1年生と2年生には[教科書](../Page/教科書.md "wikilink")別に番組を作成していたが、最近では[単元](https://ja.wikipedia.org/wiki/単元 "wikilink")別に番組を放送するようになった。中学3年生向けには受験対策の番組を放送。
 
 2014年5月31日限りで閉局。
 

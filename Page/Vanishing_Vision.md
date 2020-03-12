@@ -5,7 +5,7 @@
 
 ## 解説
 
-[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")より発売。当初はLP(EXL-001)で発売され、後にCD(EXC-001)化と5000枚限定のピクチャーレーベル盤（LP）も発売された。ピクチャーレーベル盤には「Stab Me In The Back」の1988年の京都スポーツバレーでのライブ音源が収録された[ソノシート](https://ja.wikipedia.org/wiki/ソノシート "wikilink")が付属しており、後に『[PERFECT BEST](../Page/PERFECT_BEST_\(X_JAPANのアルバム\).md "wikilink")』に収録された。
+[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")より発売。当初はLP(EXL-001)で発売され、後にCD(EXC-001)化と5000枚限定のピクチャーレーベル盤（LP）も発売された。ピクチャーレーベル盤には「Stab Me In The Back」の1988年の京都スポーツバレーでのライブ音源が収録された[ソノシート](../Page/ソノシート.md "wikilink")が付属しており、後に『[PERFECT BEST](../Page/PERFECT_BEST_\(X_JAPANのアルバム\).md "wikilink")』に収録された。
 
 初動1万枚以上と、当時のインディーズとしては記録的なセールスを上げ、インディーズ・レーベルながらメジャー・チャートにランクインを果した日本史上初のアルバムとなった。
 
@@ -13,7 +13,7 @@
 
 画家の西口司郎によるジャケットは、収録曲「SADISTIC DESIRE」の歌詞をモチーフにしメンバーが原案を出したものである。ボンデージ風の服を着た女性（首から下、顔は見えない）が背後からナイフで胸に「X」の文字の大きな傷を付けられ、両腕を有刺鉄線で縛られるグラフィックが描かれている。
 
-初回盤CDはアメリカ製で、ミニ写真集が付属していた。歌詞カードはLP盤のものを流用している。また、2000年9月13日には[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")より復刻盤(XXC-1001)が発売されたが、リマスタリングはされていない（現在は廃盤）。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")をはじめとする音楽配信サイトでは、白地に「X」の文字が黒く書かれている[シンプル](https://ja.wikipedia.org/wiki/シンプル "wikilink")なものに変更されている。
+初回盤CDはアメリカ製で、ミニ写真集が付属していた。歌詞カードはLP盤のものを流用している。また、2000年9月13日には[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")より復刻盤(XXC-1001)が発売されたが、リマスタリングはされていない（現在は廃盤）。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")をはじめとする音楽配信サイトでは、白地に「X」の文字が黒く書かれている[シンプル](https://ja.wikipedia.org/wiki/シンプル "wikilink")なものに変更されている。
 
 ## 帯のキャッチコピー
 
@@ -36,7 +36,7 @@
       -
         （作曲：[TAIJI](https://ja.wikipedia.org/wiki/TAIJI "wikilink") / 編曲：X）
         1987年から1992年まで演奏（S.E含む）。
-        このアルバムのオープニングを飾る[インスト曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+        このアルバムのオープニングを飾る[インスト曲](../Page/器楽曲.md "wikilink")。
         アルバム発売前後のライブでは、オープニングS.Eとして使用されていた（1987～1988年頃は直に演奏していたこともある）。1992年の『破滅に向かって（2日目）』においても、オープニングとして使われた。
         イントロのダークな雰囲気のあるアルペジオのパートはHIDEが作ったもので、
         レコーディングも当初HIDEが弾く予定であったが、アルバムのレコーディング中に腱鞘炎を患い、
@@ -57,8 +57,8 @@
       -
         （作詞：YOSHIKI / 作曲：[HIDE](https://ja.wikipedia.org/wiki/hide "wikilink") / 編曲：X）
         1988年から1996年まで演奏。
-        [横須賀サーベルタイガー](../Page/横須賀サーベルタイガー.md "wikilink")の楽曲「SADISTIC EMOTION」を、Xの楽曲として[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")。
-        歌詞はYOSHIKIによって作詞され、内容については当時傾倒していた[デヴィッド・リンチ](https://ja.wikipedia.org/wiki/デヴィッド・リンチ "wikilink")監督の映画『[ブルーベルベット](../Page/ブルーベルベット.md "wikilink")』に触発され書いたものだとしている。\[1\]
+        [横須賀サーベルタイガー](../Page/横須賀サーベルタイガー.md "wikilink")の楽曲「SADISTIC EMOTION」を、Xの楽曲として[リメイク](../Page/リメイク.md "wikilink")。
+        歌詞はYOSHIKIによって作詞され、内容については当時傾倒していた[デヴィッド・リンチ](../Page/デヴィッド・リンチ.md "wikilink")監督の映画『[ブルーベルベット](../Page/ブルーベルベット.md "wikilink")』に触発され書いたものだとしている。\[1\]
         前期から後期と長期にかけて、コンサートの主に2番目あるいは3番目に演奏された。
         [1991年](../Page/1991年.md "wikilink")にリメイクされ、シングル「[Silent Jealousy](../Page/Silent_Jealousy.md "wikilink")」のカップリングとして収録されている。
         年を重ねていくにつれてこのアルバム収録曲のほとんどが演奏されなくなっていくが、この曲は後期となった1996年頃になっても演奏されていた。1996年3月13日の公演を最後に演奏されていない。

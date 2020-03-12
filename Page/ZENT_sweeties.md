@@ -22,47 +22,47 @@
 ※2010年4月3日のチーム解散時点
 
   - 監督　　 [周防彰悟](../Page/周防彰悟.md "wikilink")
-  - コーチ　 [中島孝](https://ja.wikipedia.org/wiki/中島孝_\(フットサル選手\) "wikilink")（[バルドラール浦安選手](https://ja.wikipedia.org/wiki/バルドラール浦安フットボールサラ "wikilink")）
+  - コーチ　 [中島孝](https://ja.wikipedia.org/wiki/中島孝_\(フットサル選手\) "wikilink")（[バルドラール浦安選手](../Page/バルドラール浦安フットボールサラ.md "wikilink")）
   - 背番号1　[依知川りん](https://ja.wikipedia.org/wiki/依知川りん "wikilink")（GK）
   - 背番号2　[星河ユカリ](https://ja.wikipedia.org/wiki/星河ユカリ "wikilink")
-  - 背番号3　[山本里奈](https://ja.wikipedia.org/wiki/山本里奈 "wikilink")
+  - 背番号3　[山本里奈](../Page/山本里奈.md "wikilink")
   - 背番号4　[小野さゆり](https://ja.wikipedia.org/wiki/小野さゆり "wikilink")
   - 背番号5　[堀ちか](https://ja.wikipedia.org/wiki/堀ちか "wikilink")
-  - 背番号6　[石渡奈緒美](https://ja.wikipedia.org/wiki/石渡奈緒美 "wikilink")
-  - 背番号7　[則島奈々美](https://ja.wikipedia.org/wiki/則島奈々美 "wikilink")（キャプテン）
+  - 背番号6　[石渡奈緒美](../Page/石渡奈緒美.md "wikilink")
+  - 背番号7　[則島奈々美](../Page/則島奈々美.md "wikilink")（キャプテン）
   - 背番号8　[森辺彩](../Page/森辺彩.md "wikilink")
   - 背番号10　[新田梢恵](https://ja.wikipedia.org/wiki/新田梢恵 "wikilink")
 
 ### 退団（選手）
 
-  - [工藤こずえ](https://ja.wikipedia.org/wiki/くどうこずえ "wikilink")
-  - 丸山純（現・[小野りか](https://ja.wikipedia.org/wiki/小野りか "wikilink")）
+  - [工藤こずえ](../Page/くどうこずえ.md "wikilink")
+  - 丸山純（現・[小野りか](../Page/小野りか.md "wikilink")）
   - Saly（現・[川村りか](../Page/川村りか.md "wikilink")）
-  - [筑間はこべ](https://ja.wikipedia.org/wiki/筑間はこべ "wikilink")
+  - [筑間はこべ](../Page/筑間はこべ.md "wikilink")
   - [南香織](../Page/南香織.md "wikilink")
   - 榎並沙知（現・[川村えな](https://ja.wikipedia.org/wiki/川村えな "wikilink")）
-  - [福田淳子](https://ja.wikipedia.org/wiki/福田淳子 "wikilink")
+  - [福田淳子](../Page/福田淳子.md "wikilink")
   - 高木響子（現・[三木響子](../Page/三木響子.md "wikilink")）
   - 吉川はるな（現・[吉川春菜](../Page/吉川春菜.md "wikilink")、[南葛シューターズ](../Page/南葛シューターズ.md "wikilink")へ移籍）
   - [山咲れおな](https://ja.wikipedia.org/wiki/山咲れおな "wikilink")\[1\]
   - [エリナ](https://ja.wikipedia.org/wiki/エリナ "wikilink")
   - [渋谷千賀](../Page/渋谷千賀.md "wikilink")
-  - [片瀬まひろ](https://ja.wikipedia.org/wiki/片瀬まひろ "wikilink")
-  - [丹野友美](https://ja.wikipedia.org/wiki/丹野友美 "wikilink")
-  - [平井沙知](https://ja.wikipedia.org/wiki/平井沙知 "wikilink")
-  - 中野小百合（現・[中野吏深](https://ja.wikipedia.org/wiki/中野吏深 "wikilink")）
+  - [片瀬まひろ](../Page/片瀬まひろ.md "wikilink")
+  - [丹野友美](../Page/丹野友美.md "wikilink")
+  - [平井沙知](../Page/平井沙知.md "wikilink")
+  - 中野小百合（現・[中野吏深](../Page/中野吏深.md "wikilink")）
   - 小林ゆう
 
 <!-- end list -->
 
   -
-    [3月30日](../Page/3月30日.md "wikilink")生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[声優](../Page/声優.md "wikilink")の[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")と[同姓同名](../Page/同姓同名.md "wikilink")だが、全くの別人。
-    身長165cm、体重44kg。[B](https://ja.wikipedia.org/wiki/バスト "wikilink")77・[W](../Page/ウエスト.md "wikilink")58・[H](https://ja.wikipedia.org/wiki/尻 "wikilink")85。血液型はO型。
+    [3月30日](../Page/3月30日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身。[声優](../Page/声優.md "wikilink")の[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")と[同姓同名](../Page/同姓同名.md "wikilink")だが、全くの別人。
+    身長165cm、体重44kg。[B](../Page/バスト.md "wikilink")77・[W](../Page/ウエスト.md "wikilink")58・[H](../Page/尻.md "wikilink")85。血液型はO型。
     [ブログ](../Page/ブログ.md "wikilink")によると2008年4月22日に結婚したことを表明。
 
 <!-- end list -->
 
-  - [鈴木礼央奈](https://ja.wikipedia.org/wiki/鈴木礼央奈 "wikilink")
+  - [鈴木礼央奈](../Page/鈴木礼央奈.md "wikilink")
   - [藍川美聖](https://ja.wikipedia.org/wiki/藍川美聖 "wikilink")
   - [上原やよい](../Page/上原やよい.md "wikilink")（ - 2009年3月31日）
   - [岡本果奈美](../Page/岡本果奈美.md "wikilink")
@@ -71,7 +71,7 @@
 
 ### 退団（首脳陣）
 
-  - [脇阪寿一](https://ja.wikipedia.org/wiki/脇阪寿一 "wikilink")（名誉監督）
+  - [脇阪寿一](../Page/脇阪寿一.md "wikilink")（名誉監督）
   - [山口敏弘](../Page/山口敏弘.md "wikilink")（コーチ）
   - [三田祐司](https://ja.wikipedia.org/wiki/三田祐司 "wikilink")（同上）
 
@@ -83,7 +83,7 @@
 
   -
     対[chakuchaku J.b戦](https://ja.wikipedia.org/wiki/chakuchaku_J.b "wikilink")：0-1
-    対[Gatas Brilhantes H.P.戦](https://ja.wikipedia.org/wiki/Gatas_Brilhantes_H.P. "wikilink")：1-2
+    対[Gatas Brilhantes H.P.戦](../Page/Gatas_Brilhantes_H.P..md "wikilink")：1-2
 
 <!-- end list -->
 
@@ -196,7 +196,7 @@
     第1戦：対ASAI RED ROSE：0-2
     第2戦：対[Envy](https://ja.wikipedia.org/wiki/Envy_\(芸能人女子フットサルチーム\) "wikilink")：3-0
     第3戦：対[Team Blue Mountain](../Page/Team_Blue_Mountain.md "wikilink")：2-1
-    第4戦：対[ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")：1-2
+    第4戦：対[ミスマガジン](../Page/ミスマガジン.md "wikilink")：1-2
 
 <!-- end list -->
 

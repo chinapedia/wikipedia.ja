@@ -1,13 +1,13 @@
 > この記事は[CONCACAF](https://ja.wikipedia.org/wiki/CONCACAF)から翻訳されています。
 
 
-**CONCACAFチャンピオンズリーグ**（コンカカフチャンピオンズリーグ、）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[クラブチーム](https://ja.wikipedia.org/wiki/クラブチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝チームには[FIFAクラブワールドカップ](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ "wikilink")への出場権が与えられる。
+**CONCACAFチャンピオンズリーグ**（コンカカフチャンピオンズリーグ、）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝チームには[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")への出場権が与えられる。
 
 ## 概要
 
 1962年度から2008年度まで行なわれていた**CONCACAFチャンピオンズカップ**（）が前身で、2008-09年度に現大会名の**CONCACAFチャンピオンズリーグ**に改編され、参加クラブ数も8チームから24チームへと大幅に拡大された。2018年度の再度の改編により、グループリーグを廃止し、16チームが[ノックアウトトーナメント](https://ja.wikipedia.org/wiki/ノックアウトトーナメント "wikilink")で優勝を争う。
 
-2006年度以降、メキシコ勢の優勝が続いており、現大会名になった2008-09年度以降、メキシコ以外のクラブが決勝進出したのは[レアル・ソルトレイク](https://ja.wikipedia.org/wiki/レアル・ソルトレイク "wikilink")（アメリカ合衆国）・[モントリオール・インパクト](https://ja.wikipedia.org/wiki/モントリオール・インパクト "wikilink")および[トロントFC](../Page/トロントFC.md "wikilink")（ともにカナダ）の3クラブしかない。
+2006年度以降、メキシコ勢の優勝が続いており、現大会名になった2008-09年度以降、メキシコ以外のクラブが決勝進出したのは[レアル・ソルトレイク](../Page/レアル・ソルトレイク.md "wikilink")（アメリカ合衆国）・[モントリオール・インパクト](../Page/モントリオール・インパクト.md "wikilink")および[トロントFC](../Page/トロントFC.md "wikilink")（ともにカナダ）の3クラブしかない。
 
 ## 開催方式
 
@@ -18,7 +18,7 @@
 2018シーズンより大幅にフォーマットが変更された\[1\]。
 
   - 第1段階（[CONCACAFリーグ](https://ja.wikipedia.org/wiki/CONCACAFリーグ "wikilink")）
-    [中米地区から](https://ja.wikipedia.org/wiki/中米サッカー連合 "wikilink")13チーム、[カリブ海地区から](https://ja.wikipedia.org/wiki/カリブ海サッカー連合 "wikilink")3チームの合計16チームがノックアウトトーナメントを行う。優勝チームが第2段階に進出する。
+    [中米地区から](../Page/中米サッカー連合.md "wikilink")13チーム、[カリブ海地区から](https://ja.wikipedia.org/wiki/カリブ海サッカー連合 "wikilink")3チームの合計16チームがノックアウトトーナメントを行う。優勝チームが第2段階に進出する。
   - 第2段階（CONCACAFチャンピオンズリーグ
     参加16チームがノックアウトトーナメントを行う（グループリーグは採用しない）。
 
@@ -35,7 +35,7 @@
   - カリブ海地区 1　※[CFUクラブチャンピオンシップ](https://ja.wikipedia.org/wiki/CFUクラブチャンピオンシップ "wikilink")により決定
   - CONCACAFリーグ優勝 1
 
-2020シーズンには出場枠の変更が行われ、中米5か国（エルサルバドル・コスタリカ・パナマ・ホンジュラス・グアテマラ）からCONCACAFチャンピオンズリーグに直接出場できる枠はなくなり、CONCACAFリーグから参加することとなった。一方でCONCACAFリーグについては出場チーム総数が16から22（[カナダから](https://ja.wikipedia.org/wiki/カナダ・プレミアリーグ "wikilink")1チーム、中米地区から18チーム、カリブ海地区から3チーム）、CONCACAFリーグからCONCACAFチャンピオンズリーグに出場できる枠は6に増やされる\[2\]。
+2020シーズンには出場枠の変更が行われ、中米5か国（エルサルバドル・コスタリカ・パナマ・ホンジュラス・グアテマラ）からCONCACAFチャンピオンズリーグに直接出場できる枠はなくなり、CONCACAFリーグから参加することとなった。一方でCONCACAFリーグについては出場チーム総数が16から22（[カナダから](../Page/カナダ・プレミアリーグ.md "wikilink")1チーム、中米地区から18チーム、カリブ海地区から3チーム）、CONCACAFリーグからCONCACAFチャンピオンズリーグに出場できる枠は6に増やされる\[2\]。
 
 **参加クラブ数（2020シーズン以降）**
 
@@ -47,7 +47,7 @@
 
 #### 2008-09～2016-2017シーズン
 
-CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが24チームに拡大された。予備予選の勝者8チームとシード8チームが4チーム×4グループに分かれ、[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")の総当たり戦によるグループリーグを行う。各グループの上位2チームが決勝トーナメントへ進出する。準々決勝の組み合わせは、グループリーグ1位が別のグループのリーグ2位と対戦するよう決められる。グループリーグへのシード権はアメリカ合衆国とメキシコから2チームずつ、中米地区から4チーム（コスタリカ、ホンジュラス、グアテマラ、エルサルバドルかパナマ）の計8チームに与えられる。なお、決勝トーナメントは[アウェーゴール](https://ja.wikipedia.org/wiki/アウェーゴール "wikilink")ルールを適用したホーム・アンド・アウェー方式で行われる。
+CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが24チームに拡大された。予備予選の勝者8チームとシード8チームが4チーム×4グループに分かれ、[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")の総当たり戦によるグループリーグを行う。各グループの上位2チームが決勝トーナメントへ進出する。準々決勝の組み合わせは、グループリーグ1位が別のグループのリーグ2位と対戦するよう決められる。グループリーグへのシード権はアメリカ合衆国とメキシコから2チームずつ、中米地区から4チーム（コスタリカ、ホンジュラス、グアテマラ、エルサルバドルかパナマ）の計8チームに与えられる。なお、決勝トーナメントは[アウェーゴール](../Page/アウェーゴール.md "wikilink")ルールを適用したホーム・アンド・アウェー方式で行われる。
 
 新しくなった2012-2013年度フォーマットでは参加24チームが3チーム×8グループに分かれ、ホーム・アンド・アウェーの総当たり戦によるグループリーグを行う。各グループの勝者が決勝トーナメントへ進出する。準々決勝以降の組み合わせはグループリーグの成績、すなわち勝ち点と得失点に基づいた「1位vs8位」「4位vs5位」「2位vs7位」「3位vs6位」のタスキがけ方式で決められる。
 
@@ -69,7 +69,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 
   -
     スタジアム要件を満たせず、参加できなかったの国の出場枠は、別の中米地区の国の出場枠に加算される。
-    なお、過去に[中米サッカー連合](https://ja.wikipedia.org/wiki/中米サッカー連合 "wikilink")の加盟国では[コパ・インテルクルベスUNCAF](https://ja.wikipedia.org/wiki/コパ・インテルクルベスUNCAF "wikilink")という予選大会を経てチャンピオンズカップに進出できる権利があったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にチャンピオンズリーグと改名されて以後は、この大会が廃止となり、加盟国のクラブランキングを基に当大会に出場できるチーム数が制定されるようになった。
+    なお、過去に[中米サッカー連合](../Page/中米サッカー連合.md "wikilink")の加盟国では[コパ・インテルクルベスUNCAF](https://ja.wikipedia.org/wiki/コパ・インテルクルベスUNCAF "wikilink")という予選大会を経てチャンピオンズカップに進出できる権利があったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にチャンピオンズリーグと改名されて以後は、この大会が廃止となり、加盟国のクラブランキングを基に当大会に出場できるチーム数が制定されるようになった。
 
 ### CONCACAFチャンピオンズカップ
 
@@ -131,7 +131,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1970" title="wikilink">1970</a></p></td>
 <td><p><strong><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></strong></p></td>
 <td><p><strong>-----</strong>[5]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a><br />
+<td><p><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a><br />
 <a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dutch_Guyana.svg" title="wikilink">25px</a> <a href="https://ja.wikipedia.org/wiki/SVトランスファール" title="wikilink">トランスファール</a></p></td>
 </tr>
 <tr class="even">
@@ -151,7 +151,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1973" title="wikilink">1973</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dutch_Guyana.svg" title="wikilink">25px</a> <strong><a href="https://ja.wikipedia.org/wiki/SVトランスファール" title="wikilink">トランスファール</a></strong></p></td>
 <td><p><strong>-----</strong>[7]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a><br />
+<td><p><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a><br />
  <a href="https://ja.wikipedia.org/wiki/LDアラフエレンセ" title="wikilink">アラフエレンセ</a></p></td>
 </tr>
 <tr class="odd">
@@ -177,7 +177,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1977" title="wikilink">1977</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>1 - 0</strong><br />
 <strong>0 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SVロビンフッド" title="wikilink">ロビンフッド</a></p></td>
@@ -247,7 +247,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1987" title="wikilink">1987</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 <strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディフェンス・フォース" title="wikilink">ディフェンス・フォース</a></p></td>
@@ -268,7 +268,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1990" title="wikilink">1990</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>2 - 2</strong><br />
 <strong>6 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCピナル・デル・リオ" title="wikilink">ピナル・デル・リオ</a></p></td>
@@ -282,13 +282,13 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1992" title="wikilink">1992</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LDアラフエレンセ" title="wikilink">アラフエレンセ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1993" title="wikilink">1993</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a></strong></p></td>
+<td><p><strong><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></strong></p></td>
 <td><p><strong>-----</strong>[11]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 </tr>
@@ -300,7 +300,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1995" title="wikilink">1995</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a></strong></p></td>
+<td><p><strong><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></strong></p></td>
 <td><p><strong>-----</strong>[12]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CSDムニシパル" title="wikilink">ムニシパル</a></p></td>
 </tr>
@@ -308,69 +308,69 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1996" title="wikilink">1996</a></p></td>
 <td><p><strong><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></strong></p></td>
 <td><p><strong>-----</strong>[13]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クルブ・ネカクサ" title="wikilink">ネカクサ</a></p></td>
+<td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1997" title="wikilink">1997</a></p></td>
 <td><p><strong><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></strong></p></td>
 <td><p><strong>5 - 3</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・ギャラクシー" title="wikilink">ロサンゼルス・ギャラクシー</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・ギャラクシー.md" title="wikilink">ロサンゼルス・ギャラクシー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1998" title="wikilink">1998</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/D.C._ユナイテッド" title="wikilink">D.C. ユナイテッド</a></strong></p></td>
+<td><p><strong><a href="../Page/D.C._ユナイテッド.md" title="wikilink">D.C. ユナイテッド</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC" title="wikilink">トルーカ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1999" title="wikilink">1999</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クルブ・ネカクサ" title="wikilink">ネカクサ</a></strong></p></td>
+<td><p><strong><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LDアラフエレンセ" title="wikilink">アラフエレンセ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2000" title="wikilink">2000</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・ギャラクシー" title="wikilink">ロサンゼルス・ギャラクシー</a></strong></p></td>
+<td><p><strong><a href="../Page/ロサンゼルス・ギャラクシー.md" title="wikilink">ロサンゼルス・ギャラクシー</a></strong></p></td>
 <td><p><strong>3 - 2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CDオリンピア" title="wikilink">オリンピア</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2002" title="wikilink">2002</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFパチューカ" title="wikilink">パチューカ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モナルカス・モレリア" title="wikilink">モナルカス・モレリア</a></p></td>
+<td><p><a href="../Page/モナルカス・モレリア.md" title="wikilink">モナルカス・モレリア</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2003" title="wikilink">2003</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC" title="wikilink">トルーカ</a></strong></p></td>
 <td><p><strong>3 - 3</strong><br />
 <strong>2 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モナルカス・モレリア" title="wikilink">モナルカス・モレリア</a></p></td>
+<td><p><a href="../Page/モナルカス・モレリア.md" title="wikilink">モナルカス・モレリア</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2004" title="wikilink">2004</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LDアラフエレンセ" title="wikilink">アラフエレンセ</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 <strong>4 - 0</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2005" title="wikilink">2005</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a></strong></p></td>
+<td><p><strong><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></strong></p></td>
 <td><p><strong>2 - 0</strong><br />
 <strong>1 - 2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">プーマスUNAM</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2006" title="wikilink">2006</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>0 - 0</strong><br />
 <strong>2 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC" title="wikilink">トルーカ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2007" title="wikilink">2007</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFパチューカ" title="wikilink">パチューカ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></strong></p></td>
 <td><p><strong>2 - 2</strong><br />
 <strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 7 - 6)</small></p></td>
@@ -378,10 +378,10 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2008" title="wikilink">2008</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFパチューカ" title="wikilink">パチューカ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 <strong>2 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>CONCACAFチャンピオンズリーグ</p></td>
@@ -398,28 +398,28 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2009-10" title="wikilink">2009-10</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFパチューカ" title="wikilink">パチューカ</a></strong></p></td>
-<td><p><strong>1 - 2</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>1 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></strong></p></td>
+<td><p><strong>1 - 2</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>1 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2010-11" title="wikilink">2010-11</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFモンテレイ" title="wikilink">モンテレイ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></strong></p></td>
 <td><p><strong>2 - 2</strong><br />
 <strong>1 - 0</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・ソルトレイク" title="wikilink">レアル・ソルトレイク</a></p></td>
+<td><p><a href="../Page/レアル・ソルトレイク.md" title="wikilink">レアル・ソルトレイク</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2011-12" title="wikilink">2011-12</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFモンテレイ" title="wikilink">モンテレイ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></strong></p></td>
 <td><p><strong>2 - 0</strong><br />
 <strong>1 - 2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2012-13" title="wikilink">2012-13</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFモンテレイ" title="wikilink">モンテレイ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></strong></p></td>
 <td><p><strong>0 - 0</strong><br />
 <strong>4 - 2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
@@ -427,27 +427,27 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2013-14" title="wikilink">2013-14</a></p></td>
 <td><p><strong><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></strong></p></td>
-<td><p><strong>0 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>1 - 1</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>0 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>1 - 1</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC" title="wikilink">トルーカ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2014-15" title="wikilink">2014-15</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 <strong>4 - 2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・インパクト" title="wikilink">モントリオール・インパクト</a></p></td>
+<td><p><a href="../Page/モントリオール・インパクト.md" title="wikilink">モントリオール・インパクト</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2015-16" title="wikilink">2015-16</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></strong></p></td>
+<td><p><strong><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></strong></p></td>
 <td><p><strong>2 - 0</strong><br />
 <strong>2 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANLティグレス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2016-17" title="wikilink">2016-17</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFパチューカ" title="wikilink">パチューカ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
 <strong>1 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANLティグレス</a></p></td>
@@ -462,7 +462,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2019" title="wikilink">2019</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CFモンテレイ" title="wikilink">モンテレイ</a></strong></p></td>
+<td><p><strong><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></strong></p></td>
 <td><p><strong>1 - 0</strong><br />
 <strong>1 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANLティグレス</a></p></td>
@@ -490,7 +490,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・アメリカ" title="wikilink">クラブ・アメリカ</a></p></td>
+<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">クラブ・アメリカ</a></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p>0</p></td>
 <td><p>1977,1987,1990,1992,2006,2015,2016</p></td>
@@ -504,21 +504,21 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p>2009,2010</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/CFパチューカ" title="wikilink">パチューカ</a></p></td>
+<td><p><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></p></td>
 <td><p>5</p></td>
 <td><p>0</p></td>
 <td><p>2002,2007,2008,2010,2017</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/CFモンテレイ" title="wikilink">モンテレイ</a></p></td>
+<td><p><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
 <td><p>4</p></td>
 <td><p>0</p></td>
 <td><p>2011,2012,2013,2019</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・サプリサ" title="wikilink">サプリサ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></p></td>
 <td><p>3</p></td>
 <td><p>4</p></td>
 <td><p>1993,1995,2005</p></td>
@@ -595,14 +595,14 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p>1995</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クルブ・ネカクサ" title="wikilink">ネカクサ</a></p></td>
+<td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1999</p></td>
 <td><p>1996</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・ギャラクシー" title="wikilink">ロサンゼルス・ギャラクシー</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・ギャラクシー.md" title="wikilink">ロサンゼルス・ギャラクシー</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2000</p></td>
@@ -672,7 +672,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/D.C._ユナイテッド" title="wikilink">D.C. ユナイテッド</a></p></td>
+<td><p><a href="../Page/D.C._ユナイテッド.md" title="wikilink">D.C. ユナイテッド</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1998</p></td>
@@ -707,7 +707,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p>1989,1990</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/モナルカス・モレリア" title="wikilink">モナルカス・モレリア</a></p></td>
+<td><p><a href="../Page/モナルカス・モレリア.md" title="wikilink">モナルカス・モレリア</a></p></td>
 <td><p>0</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -763,14 +763,14 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p>1993</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・ソルトレイク" title="wikilink">レアル・ソルトレイク</a></p></td>
+<td><p><a href="../Page/レアル・ソルトレイク.md" title="wikilink">レアル・ソルトレイク</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td></td>
 <td><p>2011</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・インパクト" title="wikilink">モントリオール・インパクト</a></p></td>
+<td><p><a href="../Page/モントリオール・インパクト.md" title="wikilink">モントリオール・インパクト</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -801,7 +801,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/メキシコサッカー連盟" title="wikilink">メキシコ</a></p></td>
+<td><p><a href="../Page/メキシコサッカー連盟.md" title="wikilink">メキシコ</a></p></td>
 <td><p><strong>35</strong></p></td>
 <td><p><strong>19</strong></p></td>
 </tr>

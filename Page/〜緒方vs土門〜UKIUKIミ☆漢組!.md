@@ -1,14 +1,14 @@
 > この記事は[vsUKIUKI!](https://ja.wikipedia.org/wiki/vsUKIUKI!)から翻訳されています。
 
 
-**緒方vs土門 UKIUKIミ☆漢組\!**（おがたばーさすどもん うきうき おとこぐみ）は､｢M.O.bay -emou.net-｣にて2年間配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組｡[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")､KIRAMEKIミ☆漢組\!同様 [緒方恵美](../Page/緒方恵美.md "wikilink")と[土門仁](https://ja.wikipedia.org/wiki/土門仁 "wikilink")｡
+**緒方vs土門 UKIUKIミ☆漢組\!**（おがたばーさすどもん うきうき おとこぐみ）は､｢M.O.bay -emou.net-｣にて2年間配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組｡[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")､KIRAMEKIミ☆漢組\!同様 [緒方恵美](../Page/緒方恵美.md "wikilink")と[土門仁](../Page/土門仁.md "wikilink")｡
 
   - [2003年](../Page/2003年.md "wikilink") 4月から 同年 9月まで '''緒方vs土門 UKIUKIミ☆漢組\! ''' ｡ (全26回)
   - 2003年10月より 04年 3月まで **緒方vs土門 UKIUKIミ☆漢組\! ぐれ〜と** へと番組名に変更｡ (〃)
   - [2004年](../Page/2004年.md "wikilink") 4月より 同年 9月まで **緒方vs土門 UKIUKIミ☆漢組\! すま〜と** へと番組名に変更｡ (〃)
   - 2004年10月より 05年 3月まで **緒方vs土門 UKIUKIミ☆漢組\! すい〜と** へと番組名が変更｡ (〃)
   - 2003年 3月まで 旧シリーズ **[緒方vs土門 KIRAMEKIミ☆漢組\!](https://ja.wikipedia.org/wiki/〜緒方vs土門〜KIRAMEKIミ☆漢組! "wikilink")** シリーズ配信｡
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 4月より 新シリーズ **[緒方vs土門 MOEMOE 漢組\!](https://ja.wikipedia.org/wiki/〜緒方vs土門〜MOEMOE・漢組! "wikilink")** へ｡
+  - [2005年](../Page/2005年.md "wikilink") 4月より 新シリーズ **[緒方vs土門 MOEMOE 漢組\!](../Page/〜緒方vs土門〜MOEMOE・漢組!.md "wikilink")** へ｡
 
 ## 概要
 

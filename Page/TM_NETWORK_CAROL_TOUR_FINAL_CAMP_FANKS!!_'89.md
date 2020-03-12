@@ -5,9 +5,9 @@
 
 ## 概要・エピソード
 
-  - CAROLツアー本編ではライブの中間部に置かれていたCAROLの部分が、ライブの前半に置かれた。これは主に[DRESSの曲を中心とした後半部と区別するためである](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\) "wikilink")。
+  - CAROLツアー本編ではライブの中間部に置かれていたCAROLの部分が、ライブの前半に置かれた。これは主に[DRESSの曲を中心とした後半部と区別するためである](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")。
   - 最終日となる8月30日のライブは「クローズド・サーキット」と称して全国10カ所(札幌・仙台・新潟・静岡・名古屋・大阪・広島・福岡・熊本・沖縄)に衛星中継された。このライブでは『Passenger』で[コロッケがゲスト出演している](../Page/コロッケ_\(タレント\).md "wikilink")。
-  - [1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")にリリースされた「[FANKS the LIVE 3 CAMP FANKS\!\! '89](https://ja.wikipedia.org/wiki/FANKS_the_LIVE#FANKS_the_LIVE_3_CAMP_FANKS!!_'89 "wikilink")」は[8月29日](../Page/8月29日.md "wikilink")の公演を、また[2004年](../Page/2004年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた「[CAROL the LIVE](https://ja.wikipedia.org/wiki/CAROL_the_LIVE "wikilink")」は[8月30日](../Page/8月30日.md "wikilink")の公演を収録している。なお、「CAROL the LIVE」にはPassengerのみ収録されていない。
+  - [1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")にリリースされた「[FANKS the LIVE 3 CAMP FANKS\!\! '89](https://ja.wikipedia.org/wiki/FANKS_the_LIVE#FANKS_the_LIVE_3_CAMP_FANKS!!_'89 "wikilink")」は[8月29日](../Page/8月29日.md "wikilink")の公演を、また[2004年](../Page/2004年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた「[CAROL the LIVE](../Page/CAROL_the_LIVE.md "wikilink")」は[8月30日](../Page/8月30日.md "wikilink")の公演を収録している。なお、「CAROL the LIVE」にはPassengerのみ収録されていない。
 
 ## 公演日程・場所
 

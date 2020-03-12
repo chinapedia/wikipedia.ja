@@ -1,7 +1,7 @@
 > この記事は[FREITAG](https://ja.wikipedia.org/wiki/FREITAG)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:FreitagBag.jpg "wikilink") **FREITAG**（フライターグ）は、[スイス](../Page/スイス.md "wikilink")の[チューリッヒ](../Page/チューリッヒ.md "wikilink")にある[メッセンジャーバッグ](https://ja.wikipedia.org/wiki/メッセンジャーバッグ "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である\[1\]。[トラックの](../Page/貨物自動車.md "wikilink")[幌](https://ja.wikipedia.org/wiki/幌 "wikilink")を再利用して作られており、1つ1つ手作りされているため、この世に1つも同じ製品はない。現在[カバン](https://ja.wikipedia.org/wiki/カバン "wikilink")や[財布](https://ja.wikipedia.org/wiki/財布 "wikilink")、[サッカーボール](https://ja.wikipedia.org/wiki/サッカーボール "wikilink")などを含め40以上ものシリーズを生み出している。創業は[1993年](../Page/1993年.md "wikilink")。2人の兄弟によって始められた。今では約220人の従業員を抱え、チューリッヒの工業地区に巨大な倉庫や工場、事務所を抱えている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:FreitagBag.jpg "wikilink") **FREITAG**（フライターグ）は、[スイス](../Page/スイス.md "wikilink")の[チューリッヒ](../Page/チューリッヒ.md "wikilink")にある[メッセンジャーバッグ](https://ja.wikipedia.org/wiki/メッセンジャーバッグ "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である\[1\]。[トラックの](../Page/貨物自動車.md "wikilink")[幌](../Page/幌.md "wikilink")を再利用して作られており、1つ1つ手作りされているため、この世に1つも同じ製品はない。現在[カバン](https://ja.wikipedia.org/wiki/カバン "wikilink")や[財布](../Page/財布.md "wikilink")、[サッカーボール](../Page/サッカーボール.md "wikilink")などを含め40以上ものシリーズを生み出している。創業は[1993年](../Page/1993年.md "wikilink")。2人の兄弟によって始められた。今では約220人の従業員を抱え、チューリッヒの工業地区に巨大な倉庫や工場、事務所を抱えている。
 
 なお、日本語ではフライターグと"グ”を濁らせて発音しているが、実際ドイツ語ではフライタークとなる。ドイツ語のフライタークは英語のフライデイにあたる言葉だがフレイト・タグ（Freight Tag / 貨物印）から文字ってフレイタグと発音されることもある。
 
@@ -11,7 +11,7 @@
 
 ## 材料と調達
 
-FREITAGの製品は、再利用された物が多く使われている。トラックの幌、[シートベルト](https://ja.wikipedia.org/wiki/シートベルト "wikilink")、自転車のタイヤチューブ、車のエアバッグ等である。 使用済みのトラックの幌の為のマーケットと言うのは存在しないため、使用済みのトラックの幌の入手はかなり大変なようである。 色々な柄の、トラックの幌を手に入れるため、FREITAGはトラックの幌を探すチームを社内に配置している。
+FREITAGの製品は、再利用された物が多く使われている。トラックの幌、[シートベルト](../Page/シートベルト.md "wikilink")、自転車のタイヤチューブ、車のエアバッグ等である。 使用済みのトラックの幌の為のマーケットと言うのは存在しないため、使用済みのトラックの幌の入手はかなり大変なようである。 色々な柄の、トラックの幌を手に入れるため、FREITAGはトラックの幌を探すチームを社内に配置している。
 
 ## シリーズ
 

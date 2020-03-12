@@ -8,36 +8,36 @@
 ## 概要
 
   - [ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")同士がフリースタイル（即興）でラップをし、お互いに言葉をぶつけ合う勝負。
-  - ポイントは[フロー](https://ja.wikipedia.org/wiki/フロー "wikilink")と韻、そして的確な[ディスが要される](https://ja.wikipedia.org/wiki/ディスリスペクト "wikilink")。
+  - ポイントは[フロー](https://ja.wikipedia.org/wiki/フロー "wikilink")と韻、そして的確な[ディスが要される](../Page/ディスリスペクト.md "wikilink")。
   - 観客の声援と会場内より無作為に決められた奇数名の[陪審員](https://ja.wikipedia.org/wiki/陪審員 "wikilink")によって勝敗が決まる。
   - 各地予選においては8小節を交互に2本ずつ、準決勝からは16小節を交互に2本ずつ行う。
-  - 2006年度より本戦において先攻は3種類の[ブレイクビーツ](https://ja.wikipedia.org/wiki/ブレイクビーツ "wikilink")から自分に有利なものを選ぶことが出来る。小節数も変更となり各交互にROUND1は8小節×3回ずつ、またROUND2.ROUND3は8-8-16小節に、決勝においては16小節×2回ずつという変形方式で行われ、[セコンド](https://ja.wikipedia.org/wiki/セコンド "wikilink")の配置を3人まで可能とした。
+  - 2006年度より本戦において先攻は3種類の[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")から自分に有利なものを選ぶことが出来る。小節数も変更となり各交互にROUND1は8小節×3回ずつ、またROUND2.ROUND3は8-8-16小節に、決勝においては16小節×2回ずつという変形方式で行われ、[セコンド](../Page/セコンド.md "wikilink")の配置を3人まで可能とした。
   - 2011年よりDIY STARSベータ版に参入し、ULTIMATE MC BATTLEの予選映像を配信開始。
   - 2011年よりUMB APPLICATIONをiPhone版、Android版ともに開発、販売開始 。
   - 2012年より[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")にてオフィシャルチャンネルを開局。
-  - 2012年まで予選、本戦ともにメイン司会を[大華](https://ja.wikipedia.org/wiki/MSC_\(音楽グループ\) "wikilink")、2013年から2016年までは[晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")、2017年からは[DOUGH BOYが務めている](https://ja.wikipedia.org/wiki/DOUGH_BOY "wikilink")。
+  - 2012年まで予選、本戦ともにメイン司会を[大華](../Page/MSC_\(音楽グループ\).md "wikilink")、2013年から2016年までは[晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")、2017年からは[DOUGH BOYが務めている](https://ja.wikipedia.org/wiki/DOUGH_BOY "wikilink")。
 
 ## 歴代優勝者
 
 ### UMB本戦
 
-| 年度    | 優勝                                                                                                                                       | 準優勝                                                                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 2005年 | **カルデラビスタ**                                                                                                                              | [漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink") <small>([MSC](https://ja.wikipedia.org/wiki/MSC_\(音楽グループ\) "wikilink"))</small> |
-| 2006年 | **[FORK](https://ja.wikipedia.org/wiki/FORK "wikilink")** <small>([ICE BAHN](https://ja.wikipedia.org/wiki/ICE_BAHN "wikilink"))</small> | カルデラビスタ                                                                                                                                  |
-| 2007年 | **GOCCI** <small>([LUNCH TIME SPEAX](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink"))</small>                                 | [BES](https://ja.wikipedia.org/wiki/BES_\(ラッパー\) "wikilink") <small>(SWANKY SWIPE)</small>                                               |
-| 2008年 | **[般若](https://ja.wikipedia.org/wiki/般若_\(ラッパー\) "wikilink")**                                                                           | Y.A.S <small>(ZION SOLDIER)</small>                                                                                                      |
-| 2009年 | **[鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")**                                                                    | NONKEY                                                                                                                                   |
-| 2010年 | **[晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")**                                                                                  | FEIDA-WAN                                                                                                                                |
-| 2011年 | **晋平太**                                                                                                                                  | NAIKA MC                                                                                                                                 |
-| 2012年 | **[R-指定](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")** <small>(コッペパン)</small>                                                | MOL53                                                                                                                                    |
-| 2013年 | **R-指定** <small>(Creepy nuts)</small>                                                                                                    | [DOTAMA](https://ja.wikipedia.org/wiki/DOTAMA "wikilink")                                                                                |
-| 2014年 | **R-指定** <small>(Creepy nuts)</small>                                                                                                    | GOTIT                                                                                                                                    |
-| 2015年 | **[CHICO CARLITO](https://ja.wikipedia.org/wiki/CHICO_CARLITO "wikilink")**                                                              | DOTAMA                                                                                                                                   |
-| 2016年 | **NAIKA MC**                                                                                                                             | [ヤングたかじん](https://ja.wikipedia.org/wiki/呂布カルマ "wikilink")                                                                                |
-| 2017年 | **DOTAMA**                                                                                                                               | ふぁんく                                                                                                                                     |
-| 2018年 | **MU-TON**                                                                                                                               | Authority                                                                                                                                |
-| 2019年 | **Authority**                                                                                                                            | 早雲                                                                                                                                       |
+| 年度    | 優勝                                                                                                                    | 準優勝                                                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2005年 | **カルデラビスタ**                                                                                                           | [漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink") <small>([MSC](../Page/MSC_\(音楽グループ\).md "wikilink"))</small> |
+| 2006年 | **[FORK](https://ja.wikipedia.org/wiki/FORK "wikilink")** <small>([ICE BAHN](../Page/ICE_BAHN.md "wikilink"))</small> | カルデラビスタ                                                                                                               |
+| 2007年 | **GOCCI** <small>([LUNCH TIME SPEAX](../Page/LUNCH_TIME_SPEAX.md "wikilink"))</small>                                 | [BES](https://ja.wikipedia.org/wiki/BES_\(ラッパー\) "wikilink") <small>(SWANKY SWIPE)</small>                            |
+| 2008年 | **[般若](../Page/般若_\(ラッパー\).md "wikilink")**                                                                           | Y.A.S <small>(ZION SOLDIER)</small>                                                                                   |
+| 2009年 | **[鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")**                                                 | NONKEY                                                                                                                |
+| 2010年 | **[晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")**                                                               | FEIDA-WAN                                                                                                             |
+| 2011年 | **晋平太**                                                                                                               | NAIKA MC                                                                                                              |
+| 2012年 | **[R-指定](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")** <small>(コッペパン)</small>                             | MOL53                                                                                                                 |
+| 2013年 | **R-指定** <small>(Creepy nuts)</small>                                                                                 | [DOTAMA](https://ja.wikipedia.org/wiki/DOTAMA "wikilink")                                                             |
+| 2014年 | **R-指定** <small>(Creepy nuts)</small>                                                                                 | GOTIT                                                                                                                 |
+| 2015年 | **[CHICO CARLITO](https://ja.wikipedia.org/wiki/CHICO_CARLITO "wikilink")**                                           | DOTAMA                                                                                                                |
+| 2016年 | **NAIKA MC**                                                                                                          | [ヤングたかじん](https://ja.wikipedia.org/wiki/呂布カルマ "wikilink")                                                             |
+| 2017年 | **DOTAMA**                                                                                                            | ふぁんく                                                                                                                  |
+| 2018年 | **MU-TON**                                                                                                            | Authority                                                                                                             |
+| 2019年 | **Authority**                                                                                                         | 早雲                                                                                                                    |
 
 ### THE CHOICE IS YOURS （春選抜）
 
@@ -54,7 +54,7 @@
 ### ULTIMATE MC BATTLE2005 予選王者
 
   - 第1回新宿予選優勝：CANDLE(Mary Joy Recordings)
-  - 第1回新宿予選準優勝：[KEN THE 390](https://ja.wikipedia.org/wiki/KEN_THE_390 "wikilink") ([Da.Me.Records](https://ja.wikipedia.org/wiki/Da.Me.Records "wikilink"))
+  - 第1回新宿予選準優勝：[KEN THE 390](../Page/KEN_THE_390.md "wikilink") ([Da.Me.Records](../Page/Da.Me.Records.md "wikilink"))
   - 第2回新宿予選優勝：DEJI(kalliostro)
   - 第2回新宿予選準優勝：メシアTHEフライ([JUSWANNA](https://ja.wikipedia.org/wiki/JUSWANNA "wikilink"))
   - 第3回大阪予選優勝：ERONE ([韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink"))
@@ -63,7 +63,7 @@
   - 第4回東京最終予選準優勝：あるま(村一揆)
   - 第5回関西最終予選優勝：[HIDA](../Page/HIDA.md "wikilink")DDY (韻踏合組合)
   - 第5回関西最終予選準優勝：BENZO(ABURA PRODUCTION)
-  - 大会本部推薦：[漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink") ([MSC](https://ja.wikipedia.org/wiki/MSC_\(音楽グループ\) "wikilink"))
+  - 大会本部推薦：[漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink") ([MSC](../Page/MSC_\(音楽グループ\).md "wikilink"))
   - 大会本部推薦：GUINNESS(MSC)
   - 大会本部推薦：CASPER ACE(WAQWADOM)
   - 大会本部推薦：COBA5000(WAQWADOM)
@@ -74,8 +74,8 @@
 
   - 福山予選優勝：NICKA BLACK(陰陽Record) 初出場
   - 熊本予選優勝：AKR5(K.O.C) 初出場
-  - 横浜予選優勝：[FORK](https://ja.wikipedia.org/wiki/FORK "wikilink")([ICE BAHN](https://ja.wikipedia.org/wiki/ICE_BAHN "wikilink")) 初出場 **GRAND CHAMPION**
-  - 水戸予選優勝：GOCCI([LUNCH TIME SPEAX](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink")) 初出場
+  - 横浜予選優勝：[FORK](https://ja.wikipedia.org/wiki/FORK "wikilink")([ICE BAHN](../Page/ICE_BAHN.md "wikilink")) 初出場 **GRAND CHAMPION**
+  - 水戸予選優勝：GOCCI([LUNCH TIME SPEAX](../Page/LUNCH_TIME_SPEAX.md "wikilink")) 初出場
   - 名古屋予選優勝：TOSHI(Central Brop's) 初出場
   - 青森予選優勝：25時の影絵(無所属) 初出場
   - 大阪予選優勝：[HIDA](../Page/HIDA.md "wikilink")DDY(韻踏合組合/HEAD BANGERZ) 二年連続二回目
@@ -95,7 +95,7 @@
   - 青森予選優勝：PEDAL aka 25時の影絵(無所属) 二年連続二回目
   - 仙台予選優勝：JAG-ME(隠密48) 初出場
   - 新潟予選優勝：USU aka SQUEZ(NITE FULL MAKERS) 二年連続二回目
-  - 水戸予選優勝：GOCCI([LUNCH TIME SPEAX](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink") / S.S.S) 二年連続二回目 **GRAND CHAMPION**
+  - 水戸予選優勝：GOCCI([LUNCH TIME SPEAX](../Page/LUNCH_TIME_SPEAX.md "wikilink") / S.S.S) 二年連続二回目 **GRAND CHAMPION**
   - 千葉予選優勝：COBA5000(WAQWADOM) 二年振り二回目
   - 東京予選優勝：[BES](https://ja.wikipedia.org/wiki/BES_\(ヒップホップ・ミュージシャン\) "wikilink")(SWANKY SWIPE) 初出場
   - 横浜予選優勝：MARU(MIGHTYBLOW/村一揆) 初出場
@@ -807,7 +807,7 @@ OSAKA NAMBA HATCH</strong></p></td>
 ## 関連項目
 
   - [Libra Records](https://ja.wikipedia.org/wiki/Libra_Records "wikilink")
-  - [B BOY PARK](https://ja.wikipedia.org/wiki/B_BOY_PARK "wikilink")
+  - [B BOY PARK](../Page/B_BOY_PARK.md "wikilink")
   - [戦極 MCBATTLE](https://ja.wikipedia.org/wiki/戦極_MCBATTLE "wikilink")
   - [フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")
 

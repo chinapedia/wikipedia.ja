@@ -1,7 +1,7 @@
 > この記事は[SUMMER TIME LOVE](https://ja.wikipedia.org/wiki/SUMMER_TIME_LOVE)から翻訳されています。
 
 
-「**SUMMER TIME LOVE**」（サマー タイム ラヴ）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+「**SUMMER TIME LOVE**」（サマー タイム ラヴ）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -13,23 +13,23 @@
 
 1.  **SUMMER TIME LOVE** \[4:00\]
       -
-        作詞：ATSUSHI / 作曲：真白リョウ / 編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+        作詞：ATSUSHI / 作曲：真白リョウ / 編曲：[水島康貴](../Page/水島康貴.md "wikilink")
     <!-- end list -->
-      - [ヤマザキパン](https://ja.wikipedia.org/wiki/山崎製パン "wikilink")「[ランチパック](https://ja.wikipedia.org/wiki/ランチパック "wikilink")」CMソング\[1\]
+      - [ヤマザキパン](../Page/山崎製パン.md "wikilink")「[ランチパック](../Page/ランチパック.md "wikilink")」CMソング\[1\]
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")』2007年5月度エンディングテーマ
       - 日本テレビ系『[GOOD LOOKIN′CLUB](../Page/GOOD_LOOKIN′CLUB.md "wikilink")』2007年5月度エンディングテーマ
-      - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2007年5月POWER PLAY
+      - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2007年5月POWER PLAY
       - music.jp TVCFソング
 2.  **響 〜HIBIKI〜** \[4:16\]
       -
-        作詞：ATSUSHI / 作曲：[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink") / 編曲：[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
+        作詞：ATSUSHI / 作曲：[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink") / 編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")
     <!-- end list -->
       - 映画『きみに届く声』主題歌
 3.  SUMMER TIME LOVE (Instrumental)
 4.  響 〜HIBIKI〜 (Instrumental)
 5.  **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")**
       -
-        作詞：[佐藤ありす](https://ja.wikipedia.org/wiki/佐藤ありす "wikilink") / 作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
+        作詞：[佐藤ありす](../Page/佐藤ありす.md "wikilink") / 作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
     <!-- end list -->
       - 10thシングルの再録バージョン
       - 初回限定盤のみ収録

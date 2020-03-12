@@ -1,7 +1,7 @@
 > この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
 
 
-**オールダム・アスレティック・アソシエーション・フットボール・クラブ**（**Oldham Athletic Association Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[グレーター・マンチェスター](../Page/グレーター・マンチェスター.md "wikilink")[オールダム](https://ja.wikipedia.org/wiki/オールダム "wikilink")地区を本拠地とするサッカークラブチーム。2019-20シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
+**オールダム・アスレティック・アソシエーション・フットボール・クラブ**（**Oldham Athletic Association Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[グレーター・マンチェスター](../Page/グレーター・マンチェスター.md "wikilink")[オールダム](../Page/オールダム.md "wikilink")地区を本拠地とするサッカークラブチーム。2019-20シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
 
 ## 歴史
 
@@ -13,7 +13,7 @@
 
 2012-13シーズン、FAカップにおいて[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")を3-2で下し、5回戦進出を果たした。
 
-2019年2月11日、解任された[フランキー・バン](https://ja.wikipedia.org/wiki/フランキー・バン "wikilink")前監督の後任として元[イングランド代表の](https://ja.wikipedia.org/wiki/サッカーイングランド代表 "wikilink")[ポール・スコールズ](https://ja.wikipedia.org/wiki/ポール・スコールズ "wikilink")が監督に就任したことが話題となったが、わずか37日間で電撃辞任している。
+2019年2月11日、解任された[フランキー・バン](https://ja.wikipedia.org/wiki/フランキー・バン "wikilink")前監督の後任として元[イングランド代表の](../Page/サッカーイングランド代表.md "wikilink")[ポール・スコールズ](../Page/ポール・スコールズ.md "wikilink")が監督に就任したことが話題となったが、わずか37日間で電撃辞任している。
 
 ## クラブ各種記録
 

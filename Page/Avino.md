@@ -1,7 +1,7 @@
 > この記事は[Avino](https://ja.wikipedia.org/wiki/Avino)から翻訳されています。
 
 
-**Avino**（**アヴィーノ**）は、[ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が販売していた、[ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名である。 同社の[ALLORA](https://ja.wikipedia.org/wiki/ALLORA "wikilink")シリーズよりも小型のものがラインナップされ、特に7番シリーズは「高品質のマイクロコンポ」（厳密的にいえば[ハイコンポ](https://ja.wikipedia.org/wiki/ハイコンポ "wikilink")）という位置づけであった。
+**Avino**（**アヴィーノ**）は、[ケンウッド](../Page/ケンウッド.md "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が販売していた、[ミニコンポ](../Page/ミニコンポ.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名である。 同社の[ALLORA](../Page/ALLORA.md "wikilink")シリーズよりも小型のものがラインナップされ、特に7番シリーズは「高品質のマイクロコンポ」（厳密的にいえば[ハイコンポ](https://ja.wikipedia.org/wiki/ハイコンポ "wikilink")）という位置づけであった。
 
 現在は[Kseries](https://ja.wikipedia.org/wiki/Kseries "wikilink")が、後継ブランドとして発売されている。ALLORAシリーズの終息からKseries誕生まではケンウッドの主力でもあった。
 
@@ -14,7 +14,7 @@
       - [レシーバー](https://ja.wikipedia.org/wiki/レシーバー "wikilink")(**R-SA7**)に「ピュアAモード」を搭載。[AMステレオ](https://ja.wikipedia.org/wiki/AMステレオ "wikilink")対応。チューナー部はLA1832+MC13028A(デコード)とLC72131(PLL)で構成。(**R-SA7**と**R-Pro7**のみAMステレオ、**R-SE7**,**RD-VH7**,**R-SG7**などはAMモノラル)
       - [CD](../Page/コンパクトディスク.md "wikilink")(**DP-SA7**)
       - [MD](../Page/ミニディスク.md "wikilink")(**DM-SA7**)
-      - [スピーカー](../Page/スピーカー.md "wikilink")(**LS-SA7**)に [ウーファー](https://ja.wikipedia.org/wiki/ウーファー "wikilink")と[ツイーター](https://ja.wikipedia.org/wiki/ツイーター "wikilink")の各ユニットからの音の到達時間を揃える「UDレイアウト」採用。
+      - [スピーカー](../Page/スピーカー.md "wikilink")(**LS-SA7**)に [ウーファー](../Page/ウーファー.md "wikilink")と[ツイーター](../Page/ツイーター.md "wikilink")の各ユニットからの音の到達時間を揃える「UDレイアウト」採用。
       - オプションとして、[カセットデッキ](https://ja.wikipedia.org/wiki/カセットデッキ "wikilink")(**X-SA7**)が設定されている。
 
 <!-- end list -->
@@ -44,9 +44,9 @@
       - [1999年](../Page/1999年.md "wikilink")発売。世界で初めて本体の縦置きと横置きの両方に対応。
       - レシーバー+CDのユニット(**RD-VH7**)と スピーカー(**LS-VH7**)で構成されている。オプションとして、MDデッキ(**DM-VH7**)，カセットデッキ(**X-VH7**)，3Dスピーカ(**LSF-1010**)が設定されている。
       - アンプ部に音量に応じて動作方式を自動で切替える「オートピュアAモード」を搭載。
-      - CD部に[HDCD](https://ja.wikipedia.org/wiki/HDCD "wikilink")デコーダーを世界で初めて搭載。
+      - CD部に[HDCD](../Page/HDCD.md "wikilink")デコーダーを世界で初めて搭載。
       - MDデッキ(**DM-VH7**)を標準添付した「**VH-7MD**」も発売された。
-      - [ソーテック](https://ja.wikipedia.org/wiki/ソーテック "wikilink")より[AFiNA AV用にUSB入出力等を搭載し](https://ja.wikipedia.org/wiki/ソーテック#Afina "wikilink")、「**VH7PC**」として発売される。これはソーテックの販売見通しの誤りのため大量の不良在庫となり大乱売された。これは超お買い得品であり多くの者が買い求めに走ったことで有名である。オプションとして、MD(**DM-VH7PC**)が設定されている。
+      - [ソーテック](../Page/ソーテック.md "wikilink")より[AFiNA AV用にUSB入出力等を搭載し](https://ja.wikipedia.org/wiki/ソーテック#Afina "wikilink")、「**VH7PC**」として発売される。これはソーテックの販売見通しの誤りのため大量の不良在庫となり大乱売された。これは超お買い得品であり多くの者が買い求めに走ったことで有名である。オプションとして、MD(**DM-VH7PC**)が設定されている。
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
 
   - **SJ-7WM**
       - [2001年](../Page/2001年.md "wikilink")発売。[MGメモリースティックに対応した](../Page/メモリースティック.md "wikilink")「Digital Avino」。
-      - [MP3](../Page/MP3.md "wikilink")、[WMA対応](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")。
+      - [MP3](../Page/MP3.md "wikilink")、[WMA対応](../Page/Windows_Media_Audio.md "wikilink")。
       - MDLP対応
 
 <!-- end list -->
@@ -86,7 +86,7 @@
 
   - **VC-7DVD**
       - [2002年](../Page/2002年.md "wikilink")発売。[DVD](../Page/DVD.md "wikilink")再生に対応した「Digital Avino」。
-      - 「V.F.S. バーチャル・フロント・[サラウンド](https://ja.wikipedia.org/wiki/サラウンド "wikilink")」を搭載。
+      - 「V.F.S. バーチャル・フロント・[サラウンド](../Page/サラウンド.md "wikilink")」を搭載。
       - MDLP、[NetMDに対応](https://ja.wikipedia.org/wiki/ミニディスク#Net_MD "wikilink")。
       - MP3、WMA対応。
       - アンプ部に「アドバンスド・グランドライン」を採用。
@@ -199,10 +199,10 @@
 <!-- end list -->
 
   - **SV-3MD**
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")発売。SL-3MDの後継機種。SL-3MDに搭載されている機能はほぼ踏襲されている。以下、変更、追加された点。
+      - [2005年](../Page/2005年.md "wikilink")発売。SL-3MDの後継機種。SL-3MDに搭載されている機能はほぼ踏襲されている。以下、変更、追加された点。
       - SL-3MDに搭載されている重低音機能「D-BASS」をバージョンアップさせた「D-BASSⅡ」搭載。
       - どんな部屋でも最適な音にチューニングしてくれる、プリセットRoom EQ　搭載。
-      - [ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")製のポータブルHDDプレーヤー「HD20GA7」の操作に対応。
+      - [ケンウッド](../Page/ケンウッド.md "wikilink")製のポータブルHDDプレーヤー「HD20GA7」の操作に対応。
       - ヘッドホン端子を録音出力として使用できる、レコーディング・アウト機能搭載。
 
 ### 9番シリーズ
@@ -219,9 +219,9 @@
 
 ## 関連項目
 
-  - [音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")
+  - [音響機器](../Page/音響機器.md "wikilink")
   - [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")
-      - [ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")
-  - [ミニコンポ](https://ja.wikipedia.org/wiki/ミニコンポ "wikilink")
+      - [ケンウッド](../Page/ケンウッド.md "wikilink")
+  - [ミニコンポ](../Page/ミニコンポ.md "wikilink")
 
 [Category:日本の音響機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の音響機器メーカー "wikilink") [Category:JVCケンウッドの歴史](https://ja.wikipedia.org/wiki/Category:JVCケンウッドの歴史 "wikilink") [Category:かつて存在したブランド](https://ja.wikipedia.org/wiki/Category:かつて存在したブランド "wikilink")

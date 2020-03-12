@@ -29,12 +29,12 @@
 
 ### コラボレーション アルバム
 
-  - calendula - 2011年7月13日 （「naomi & goro & 菊地成孔」名義。[菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")とのコラボレーションアルバム）　
+  - calendula - 2011年7月13日 （「naomi & goro & 菊地成孔」名義。[菊地成孔](../Page/菊地成孔.md "wikilink")とのコラボレーションアルバム）　
 
 ### 参加作品
 
-  - [ジョアン・ジルベルト](https://ja.wikipedia.org/wiki/ジョアン・ジルベルト "wikilink")初来日記念盤 「Felicidade -A Tribute to Joao Gilberto」[2003年](../Page/2003年.md "wikilink") (東芝EMI)『isaura』のカバーで参加。
-  - [アントニオ・カルロス・ジョビン](../Page/アントニオ・カルロス・ジョビン.md "wikilink")生誕80周年記念アルバム 「Nosso Tom」[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") (エイベックス)『イパネマの娘』のカバーで参加。
+  - [ジョアン・ジルベルト](../Page/ジョアン・ジルベルト.md "wikilink")初来日記念盤 「Felicidade -A Tribute to Joao Gilberto」[2003年](../Page/2003年.md "wikilink") (東芝EMI)『isaura』のカバーで参加。
+  - [アントニオ・カルロス・ジョビン](../Page/アントニオ・カルロス・ジョビン.md "wikilink")生誕80周年記念アルバム 「Nosso Tom」[2006年](../Page/2006年.md "wikilink") (エイベックス)『イパネマの娘』のカバーで参加。
 
 ### テーマソング
 

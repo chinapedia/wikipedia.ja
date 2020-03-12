@@ -1,7 +1,7 @@
 > この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
 
 
-**アソシエイション・フットボール・クラブ・ボーンマス**（）は、[イングランド](../Page/イングランド.md "wikilink")南西部・[ドーセット](https://ja.wikipedia.org/wiki/ドーセット "wikilink")州[ボーンマス](https://ja.wikipedia.org/wiki/ボーンマス "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。愛称はチームカラーの赤をさくらんぼの色に見立てた**チェリーズ**（）。
+**アソシエイション・フットボール・クラブ・ボーンマス**（）は、[イングランド](../Page/イングランド.md "wikilink")南西部・[ドーセット](../Page/ドーセット.md "wikilink")州[ボーンマス](../Page/ボーンマス.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。愛称はチームカラーの赤をさくらんぼの色に見立てた**チェリーズ**（）。
 
 ## 歴史
 
@@ -148,11 +148,11 @@
 
 ## 歴代所属選手
 
-**[GK](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")**
+**[GK](../Page/ゴールキーパー_\(サッカー\).md "wikilink")**
 
   - [シュワン・ジャラル](https://ja.wikipedia.org/wiki/シュワン・ジャラル "wikilink") 2008-2014
 
-  - [デイヴィッド・ジェームス](https://ja.wikipedia.org/wiki/ディビッド・ジェームス "wikilink") 2012-2013.3
+  - [デイヴィッド・ジェームス](../Page/ディビッド・ジェームス.md "wikilink") 2012-2013.3
 
   -
 **[DF](../Page/ディフェンダー_\(サッカー\).md "wikilink")**
@@ -161,9 +161,9 @@
 
   - [ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング_\(1973年生まれのサッカー選手\) "wikilink") 1994-2008
 
-  - [ジョン・オシェイ](https://ja.wikipedia.org/wiki/ジョン・オシェイ "wikilink") 2000
+  - [ジョン・オシェイ](../Page/ジョン・オシェイ.md "wikilink") 2000
 
-  - [マーティン・クレイニー](https://ja.wikipedia.org/wiki/マーティン・クレイニー "wikilink") 2004
+  - [マーティン・クレイニー](../Page/マーティン・クレイニー.md "wikilink") 2004
 
   - [マシュー・コノリー](../Page/マシュー・コノリー.md "wikilink") 2006-2007
 
@@ -185,11 +185,11 @@
   - [ダレン・アンダートン](https://ja.wikipedia.org/wiki/ダレン・アンダートン "wikilink") 2006-2008
 
   -
-**[FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")**
+**[FW](../Page/フォワード_\(サッカー\).md "wikilink")**
 
   - [ジョージ・ベスト](../Page/ジョージ・ベスト.md "wikilink") 1983
 
-  - [ジャーメイン・デフォー](https://ja.wikipedia.org/wiki/ジャーメイン・デフォー "wikilink") 2000-2001
+  - [ジャーメイン・デフォー](../Page/ジャーメイン・デフォー.md "wikilink") 2000-2001
 
   - [スコット・マクドナルド](../Page/スコット・マクドナルド.md "wikilink") 2002
 

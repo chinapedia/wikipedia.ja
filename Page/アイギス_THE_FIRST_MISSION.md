@@ -1,11 +1,11 @@
 > この記事は[ THE FIRST MISSION](https://ja.wikipedia.org/wiki/_THE_FIRST_MISSION)から翻訳されています。
 
 
-『**アイギス THE FIRST MISSION**』（アイギス ザ・ファーストミッション）は、ビービーエムエフ（現・[menue](https://ja.wikipedia.org/wiki/menue "wikilink")）より[アトラスモバイルコンテンツ](https://ja.wikipedia.org/wiki/アトラスモバイルコンテンツ "wikilink")から配信されている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")。
+『**アイギス THE FIRST MISSION**』（アイギス ザ・ファーストミッション）は、ビービーエムエフ（現・[menue](https://ja.wikipedia.org/wiki/menue "wikilink")）より[アトラスモバイルコンテンツ](../Page/アトラスモバイルコンテンツ.md "wikilink")から配信されている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")。
 
 ## 概要
 
-[アトラスより](../Page/アトラス_\(ゲーム会社\).md "wikilink")2006年に発売された[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")『[ペルソナ3](https://ja.wikipedia.org/wiki/ペルソナ3 "wikilink")』の登場キャラクター「アイギス」を主人公にした外伝作品である。[2007年](../Page/2007年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")より[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のiモード用、[11月14日](../Page/11月14日.md "wikilink")より[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")用としてそれぞれ配信された。
+[アトラスより](../Page/アトラス_\(ゲーム会社\).md "wikilink")2006年に発売された[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』の登場キャラクター「アイギス」を主人公にした外伝作品である。[2007年](../Page/2007年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")より[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のiモード用、[11月14日](../Page/11月14日.md "wikilink")より[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")用としてそれぞれ配信された。
 
 ## ストーリー
 
@@ -49,7 +49,7 @@
 
 ### アイテム
 
-本作にもさまざまなアイテムが登場し、入手したものはメニュー画面からいつでも使用できる。アイテムは基本的に『[ペルソナ3](https://ja.wikipedia.org/wiki/ペルソナ3 "wikilink")』に登場したものと同様だが、本作オリジナルのものも登場する。これらの多くは工房にて購入できるが、中にはフィールド上で取得することでしか入手できないものもある。
+本作にもさまざまなアイテムが登場し、入手したものはメニュー画面からいつでも使用できる。アイテムは基本的に『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』に登場したものと同様だが、本作オリジナルのものも登場する。これらの多くは工房にて購入できるが、中にはフィールド上で取得することでしか入手できないものもある。
 
 #### 消費アイテム
 

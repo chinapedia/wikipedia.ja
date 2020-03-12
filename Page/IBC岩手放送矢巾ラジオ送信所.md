@@ -1,11 +1,11 @@
 > この記事は[IBC](https://ja.wikipedia.org/wiki/IBC)から翻訳されています。
 
 
-[IBC_Yahaba_Radio_Station3.jpg](https://ja.wikipedia.org/wiki/File:IBC_Yahaba_Radio_Station3.jpg "fig:IBC_Yahaba_Radio_Station3.jpg") **IBC岩手放送矢巾ラジオ送信所**（アイビーシーいわてほうそうやはばラジオそうしんじょ）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")が管理・運営する[中波ラジオ](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")である。
+[IBC_Yahaba_Radio_Station3.jpg](https://ja.wikipedia.org/wiki/File:IBC_Yahaba_Radio_Station3.jpg "fig:IBC_Yahaba_Radio_Station3.jpg") **IBC岩手放送矢巾ラジオ送信所**（アイビーシーいわてほうそうやはばラジオそうしんじょ）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")が管理・運営する[中波ラジオ](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[送信所](../Page/送信所.md "wikilink")である。
 
 ## 所在地
 
-  - [紫波郡](../Page/紫波郡.md "wikilink")[矢巾町](https://ja.wikipedia.org/wiki/矢巾町 "wikilink")煙山第23地割59-3（[東北自動車道](../Page/東北自動車道.md "wikilink")[矢巾PA南西](../Page/矢巾パーキングエリア.md "wikilink")）
+  - [紫波郡](../Page/紫波郡.md "wikilink")[矢巾町](../Page/矢巾町.md "wikilink")煙山第23地割59-3（[東北自動車道](../Page/東北自動車道.md "wikilink")[矢巾PA南西](../Page/矢巾パーキングエリア.md "wikilink")）
 
 ## 送信所送信施設概要
 
@@ -13,9 +13,9 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">呼出符号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -39,12 +39,12 @@
 </table>
 
   - 鉄塔高さ:120m（トラス柱）
-  - 鉄塔は[航空法](https://ja.wikipedia.org/wiki/航空法 "wikilink")に基づき、上空の航空機から識別しやすいよう紅白に塗られている他、夜間は[航空障害灯](https://ja.wikipedia.org/wiki/航空障害灯 "wikilink")が点灯する（中間部は点灯、頂上部は点滅）。
+  - 鉄塔は[航空法](../Page/航空法.md "wikilink")に基づき、上空の航空機から識別しやすいよう紅白に塗られている他、夜間は[航空障害灯](../Page/航空障害灯.md "wikilink")が点灯する（中間部は点灯、頂上部は点滅）。
 
 ## 放送区域
 
   - 岩手県内陸部の広範囲をカバーしている。
-  - 二戸地区も当送信所の受信エリアに含まれているが、山間部である事から、夜間は隣接する周波数を使用する放送局との混信が激しく、局側も当送信所に県北方面への指向性を付加したが状況は改善せず、IBCラジオでは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")より、自社制作番組の一部をコミュニティFM局「[カシオペアFM](https://ja.wikipedia.org/wiki/カシオペア市民情報ネットワーク "wikilink")」で再送信することで対応している（[著作権法](https://ja.wikipedia.org/wiki/著作権法 "wikilink")及び[放送法](../Page/放送法.md "wikilink")の関係上、[JRN及び](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[NRNの箱番組](../Page/全国ラジオネットワーク.md "wikilink")=[ラインネット](https://ja.wikipedia.org/wiki/ラインネット "wikilink")・[テープネット](https://ja.wikipedia.org/wiki/テープネット "wikilink")番組の再送信は行っていない）。指向性を付けていた頃に使用された整合函は、そのまま敷地内に残された。
+  - 二戸地区も当送信所の受信エリアに含まれているが、山間部である事から、夜間は隣接する周波数を使用する放送局との混信が激しく、局側も当送信所に県北方面への指向性を付加したが状況は改善せず、IBCラジオでは[2006年](../Page/2006年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")より、自社制作番組の一部をコミュニティFM局「[カシオペアFM](../Page/カシオペア市民情報ネットワーク.md "wikilink")」で再送信することで対応している（[著作権法](../Page/著作権法.md "wikilink")及び[放送法](../Page/放送法.md "wikilink")の関係上、[JRN及び](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[NRNの箱番組](../Page/全国ラジオネットワーク.md "wikilink")=[ラインネット](../Page/ラインネット.md "wikilink")・[テープネット](../Page/テープネット.md "wikilink")番組の再送信は行っていない）。指向性を付けていた頃に使用された整合函は、そのまま敷地内に残された。
 
 ## その他
 
@@ -57,6 +57,6 @@
 
   - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
   - [新山 (紫波町)](../Page/新山_\(紫波町\).md "wikilink") - IBCテレビの送信所が置かれている山
-  - [NHK矢巾ラジオ放送所](https://ja.wikipedia.org/wiki/NHK矢巾ラジオ放送所 "wikilink") - 同じ矢巾町内に置かれている[NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")ラジオ第1・第2放送主幹送信所。
+  - [NHK矢巾ラジオ放送所](https://ja.wikipedia.org/wiki/NHK矢巾ラジオ放送所 "wikilink") - 同じ矢巾町内に置かれている[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")ラジオ第1・第2放送主幹送信所。
 
 [Category:矢巾町](https://ja.wikipedia.org/wiki/Category:矢巾町 "wikilink") [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:IBC岩手放送](https://ja.wikipedia.org/wiki/Category:IBC岩手放送 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**レイトン・オリエント・フットボール・クラブ**（**Leyton Orient Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")東部、[ウォルサム・フォレスト特別区内](https://ja.wikipedia.org/wiki/ウォルサム・フォレスト・ロンドン特別区 "wikilink")、[レイトン](https://ja.wikipedia.org/wiki/レイトン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[EFLリーグ2](https://ja.wikipedia.org/wiki/EFLリーグ2 "wikilink")（4部相当）に所属。
+**レイトン・オリエント・フットボール・クラブ**（**Leyton Orient Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")東部、[ウォルサム・フォレスト特別区内](https://ja.wikipedia.org/wiki/ウォルサム・フォレスト・ロンドン特別区 "wikilink")、[レイトン](https://ja.wikipedia.org/wiki/レイトン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[EFLリーグ2](../Page/EFLリーグ2.md "wikilink")（4部相当）に所属。
 
 ## 歴史
 
@@ -20,16 +20,16 @@
 
   - 8-0 vs [クリスタル・パレス](https://ja.wikipedia.org/wiki/クリスタルパレスFC "wikilink")　フットボールリーグ・サードディヴィジョン 1955.11.12
   - 8-0 vs [ロッヂデール](https://ja.wikipedia.org/wiki/ロッヂデールAFC "wikilink")　フットボールリーグ・フォースディヴィジョン 1987.10.14
-  - 8-0 vs [コルチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/コルチェスター・ユナイテッドFC "wikilink")　フットボールリーグ・フォースディヴィジョン 1988.10.15
-  - 8-0 vs [ドンカスター・ローヴァーズ](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC "wikilink")　フットボールリーグ・サードディヴィジョン 1997.12.28
+  - 8-0 vs [コルチェスター・ユナイテッド](../Page/コルチェスター・ユナイテッドFC.md "wikilink")　フットボールリーグ・フォースディヴィジョン 1988.10.15
+  - 8-0 vs [ドンカスター・ローヴァーズ](../Page/ドンカスター・ローヴァーズFC.md "wikilink")　フットボールリーグ・サードディヴィジョン 1997.12.28
 
 **最多失点敗戦試合**
 
-  - 0-8 vs [アストン・ヴィラ](https://ja.wikipedia.org/wiki/アストン・ヴィラFC "wikilink") FAカップ４回戦 1921.12.30
+  - 0-8 vs [アストン・ヴィラ](../Page/アストン・ヴィラFC.md "wikilink") FAカップ４回戦 1921.12.30
 
 **一試合最多観客動員数**
 
-  - 38,219人 vs [トッテナム・ホットスパー](https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC "wikilink") ディヴィジョン2 1929.3.16
+  - 38,219人 vs [トッテナム・ホットスパー](../Page/トッテナム・ホットスパーFC.md "wikilink") ディヴィジョン2 1929.3.16
 
 ## タイトル
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - [ナショナルリーグ](https://ja.wikipedia.org/wiki/ナショナルリーグ_\(イングランドのサッカー\) "wikilink"):1回
+  - [ナショナルリーグ](../Page/ナショナルリーグ_\(イングランドのサッカー\).md "wikilink"):1回
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@
 
 ## 歴代所属選手
 
-  - [ピーター・シルトン](https://ja.wikipedia.org/wiki/ピーター・シルトン "wikilink") 1997
+  - [ピーター・シルトン](../Page/ピーター・シルトン.md "wikilink") 1997
 
   - [ニッキー・ショーリー](../Page/ニッキー・ショーリー.md "wikilink") 1999-2001
 
@@ -114,7 +114,7 @@
 
   - [シュワン・ジャラル](https://ja.wikipedia.org/wiki/シュワン・ジャラル "wikilink") 2014
 
-  - [アンドレア・ドッセーナ](https://ja.wikipedia.org/wiki/アンドレア・ドッセーナ "wikilink") 2014-2015
+  - [アンドレア・ドッセーナ](../Page/アンドレア・ドッセーナ.md "wikilink") 2014-2015
 
   - [ジョビ・マカナフ](https://ja.wikipedia.org/wiki/ジョビ・マカナフ "wikilink") 2014-2016, 2017-
 

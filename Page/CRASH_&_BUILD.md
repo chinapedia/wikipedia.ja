@@ -1,7 +1,7 @@
 > この記事は[CRASH \& BUILD](https://ja.wikipedia.org/wiki/CRASH_\&_BUILD)から翻訳されています。
 
 
-『**CRASH & BUILD**』（クラッシュ アンド ビルド）は、[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に[ZAIN RECORDSから発売された](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
+『**CRASH & BUILD**』（クラッシュ アンド ビルド）は、[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に[ZAIN RECORDSから発売された](../Page/ZAIN_RECORDS.md "wikilink")。
 
 ## 内容
 
@@ -15,11 +15,11 @@
       -
         PVが制作されており、3rdアルバム『[BIG BANG\!](https://ja.wikipedia.org/wiki/BIG_BANG! "wikilink")』初回限定盤Bに収録されている。
 2.  **NO SEX NO LIFE**
-      - 作詞：[DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink") / 作曲：DAIGO、AKIHIDE
+      - 作詞：[DAIGO](../Page/DAIGO.md "wikilink") / 作曲：DAIGO、AKIHIDE
     <!-- end list -->
       -
         [タワーレコード](../Page/タワーレコード.md "wikilink")のキャッチコピー「NO MUSIC NO LIFE」が格好よかったためにこれを由来にした。
-        [ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BREAKERZ BEST 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/BREAKERZ_BEST_〜SINGLE_COLLECTION〜 "wikilink")』初回限定盤Bにも収録されている。
+        [ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[BREAKERZ BEST 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/BREAKERZ_BEST_〜SINGLE_COLLECTION〜 "wikilink")』初回限定盤Bにも収録されている。
         PVが制作されており、3rdアルバム『BIG BANG\!』初回限定盤Bに収録されている。
 3.  **B.R.Z ～明日への架橋～**
       - 作詞・作曲：DAIGO
@@ -54,13 +54,13 @@
   - DAIGO - ボーカル
   - AKIHIDE - ギター、シンセサイザー
   - SHINPEI - ギター、シンセサイザー
-      - [満園庄太郎](https://ja.wikipedia.org/wiki/満園庄太郎 "wikilink") - ベース
+      - [満園庄太郎](../Page/満園庄太郎.md "wikilink") - ベース
       - [満園英二](https://ja.wikipedia.org/wiki/満園英二 "wikilink") - ドラム
-      - [黒瀬蛙一](https://ja.wikipedia.org/wiki/黒瀬蛙一 "wikilink") - ドラム
+      - [黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink") - ドラム
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
   - [BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")
 
 [Category:BREAKERZのアルバム](https://ja.wikipedia.org/wiki/Category:BREAKERZのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink")

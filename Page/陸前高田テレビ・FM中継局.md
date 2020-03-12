@@ -18,7 +18,7 @@
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 キーID</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
 <th><p>空中線<br />
 電力</p></th>
@@ -33,7 +33,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+盛岡<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>24</p></td>
 <td><p>3W<ref name="touhoku">{{Cite web|url=<a href="http://www.soumu.go.jp/soutsu/tohoku/digital/iwatelicense.html%7Ctitle=岩手県（2013年12月19日現在）免許情報">http://www.soumu.go.jp/soutsu/tohoku/digital/iwatelicense.html|title=岩手県（2013年12月19日現在）免許情報</a></p></td>
 <td><p>accessdate=2018-09-09}}</ref></p></td>
@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>NHK<br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+盛岡<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>21</p></td>
 <td><p>全国</p></td>
 <td></td>
@@ -100,7 +100,7 @@
 </table>
 
   - 中継局置局住所は、陸前高田市広田町字太陽の[仁田山](https://ja.wikipedia.org/wiki/仁田山 "wikilink")。
-  - 2009年[6月24日](../Page/6月24日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、[8月](../Page/8月.md "wikilink")上旬から[9月30日](../Page/9月30日.md "wikilink")まで[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")実施、[9月28日](../Page/9月28日.md "wikilink")に本免許交付、[10月1日](../Page/10月1日.md "wikilink")から本放送開始\[3\]。
+  - 2009年[6月24日](../Page/6月24日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[8月](../Page/8月.md "wikilink")上旬から[9月30日](../Page/9月30日.md "wikilink")まで[試験放送](../Page/試験放送.md "wikilink")実施、[9月28日](../Page/9月28日.md "wikilink")に本免許交付、[10月1日](../Page/10月1日.md "wikilink")から本放送開始\[3\]。
 
 ### アナログテレビ放送
 
@@ -180,7 +180,7 @@
 <td><p>mit<br />
 岩手めんこいテレビ</p></td>
 <td><p>6227世帯[10]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a><br />
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><br />
 <a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td></td>
 <td></td>
@@ -193,7 +193,7 @@
 テレビ岩手</p></td>
 <td><p>映像440W<br />
 /音声110W</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a><br />
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a><br />
 <a href="../Page/9月24日.md" title="wikilink">9月24日</a>[11]</p></td>
 <td></td>
 <td></td>
@@ -226,7 +226,7 @@
 <tr class="odd">
 <td><p>83.5</p></td>
 <td><p>NHK<br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM放送</a></p></td>
+盛岡<a href="../Page/NHK-FM放送.md" title="wikilink">FM放送</a></p></td>
 <td><p>10W</p></td>
 <td><p>32W</p></td>
 <td><p>岩手県</p></td>
@@ -260,7 +260,7 @@
 
 ## 関連項目
 
-  - [陸前島部テレビ中継局](https://ja.wikipedia.org/wiki/陸前島部テレビ中継局 "wikilink")
+  - [陸前島部テレビ中継局](../Page/陸前島部テレビ中継局.md "wikilink")
 
 ## 外部リンク
 
@@ -272,7 +272,7 @@
 [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:テレビ岩手](https://ja.wikipedia.org/wiki/Category:テレビ岩手 "wikilink") [Category:岩手朝日テレビ](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビ "wikilink") [Category:IBC岩手放送](https://ja.wikipedia.org/wiki/Category:IBC岩手放送 "wikilink") [Category:岩手めんこいテレビ](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビ "wikilink") [Category:エフエム岩手](https://ja.wikipedia.org/wiki/Category:エフエム岩手 "wikilink") [Category:陸前高田市の建築物](https://ja.wikipedia.org/wiki/Category:陸前高田市の建築物 "wikilink")
 
 1.  [唐桑町中心部の中継局と同時開局](https://ja.wikipedia.org/wiki/唐桑早馬テレビ中継局 "wikilink")。なお、唐桑町南部では現在に至るまで[気仙沼局を受信している世帯が多い](../Page/長の森山.md "wikilink")。
-2.  反対に1974年10月16日以降は陸前高田市で在仙局受信のため唐桑町に向けたUHFアンテナが目に付くようになった。ちなみに気仙地方のローカル紙「[東海新報](https://ja.wikipedia.org/wiki/東海新報 "wikilink")」には在盛民放局が2局の時代から在仙民放テレビ局の番組表も掲載されている。
+2.  反対に1974年10月16日以降は陸前高田市で在仙局受信のため唐桑町に向けたUHFアンテナが目に付くようになった。ちなみに気仙地方のローカル紙「[東海新報](../Page/東海新報.md "wikilink")」には在盛民放局が2局の時代から在仙民放テレビ局の番組表も掲載されている。
 3.
 4.
 5.

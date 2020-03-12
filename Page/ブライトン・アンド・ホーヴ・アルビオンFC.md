@@ -7,11 +7,11 @@
 
 クラブ創設時より青と白の縦縞のユニフォームを用いている。ホームスタジアムは[ブライトン・アンド・ホヴ](https://ja.wikipedia.org/wiki/ブライトン・アンド・ホヴ "wikilink")の[ファルマー・スタジアム](https://ja.wikipedia.org/wiki/ファルマー・スタジアム "wikilink")（収容人数30,750人）。2018-19シーズンからは[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に所属する。
 
-最大のライバルは[クリスタル・パレスである](https://ja.wikipedia.org/wiki/クリスタル・パレスFC "wikilink")。両者の対戦は、[ブライトン](https://ja.wikipedia.org/wiki/ブライトン "wikilink")と南[ロンドン](../Page/ロンドン.md "wikilink")を結ぶ道路から「M23ダービー」「A23ダービー」と呼ばれる。2013年には、[チャンピオンシップの昇格プレーオフにてダービーが実現した](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")。
+最大のライバルは[クリスタル・パレスである](../Page/クリスタル・パレスFC.md "wikilink")。両者の対戦は、[ブライトン](../Page/ブライトン.md "wikilink")と南[ロンドン](../Page/ロンドン.md "wikilink")を結ぶ道路から「M23ダービー」「A23ダービー」と呼ばれる。2013年には、[チャンピオンシップの昇格プレーオフにてダービーが実現した](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")。
 
 ## 歴史
 
-1901年に設立され、当初は[サザンフットボールリーグ](https://ja.wikipedia.org/wiki/サザンフットボールリーグ "wikilink")に所属した。1910年、当時のフットボールリーグチャンピオンであった[アストン・ヴィラを破り](https://ja.wikipedia.org/wiki/アストン・ヴィラFC "wikilink")、[チャリティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink")（現コミュニティ・シールド）を獲得。これは現在までに獲得した唯一の国内タイトルである。1920年、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")に新設されたサードディビジョンに参加した。
+1901年に設立され、当初は[サザンフットボールリーグ](../Page/サザンフットボールリーグ.md "wikilink")に所属した。1910年、当時のフットボールリーグチャンピオンであった[アストン・ヴィラを破り](../Page/アストン・ヴィラFC.md "wikilink")、[チャリティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink")（現コミュニティ・シールド）を獲得。これは現在までに獲得した唯一の国内タイトルである。1920年、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")に新設されたサードディビジョンに参加した。
 
 フットボールリーグ時代のトップディビジョンへの在籍経験は1979-80から1982-83シーズンまでの4期のみ。1983年の[FAカップ](../Page/FAカップ.md "wikilink")では決勝に進出したが、[マンチェスター・ユナイテッドに引き分け再試合の末に敗れ準優勝に終わった](../Page/マンチェスター・ユナイテッドFC.md "wikilink")。
 
@@ -97,7 +97,7 @@
 
   - [パット・サワード](https://ja.wikipedia.org/wiki/パット・サワード "wikilink") 1970-1973
 
-  - [ブライアン・クラフ](https://ja.wikipedia.org/wiki/ブライアン・クラフ "wikilink") 1973-1974
+  - [ブライアン・クラフ](../Page/ブライアン・クラフ.md "wikilink") 1973-1974
 
   - [ピーター・トーマス・テイラー](https://ja.wikipedia.org/wiki/ピーター・トーマス・テイラー "wikilink") 1974-1976
 
@@ -145,7 +145,7 @@
 
   - [オスカル・ガルシア](https://ja.wikipedia.org/wiki/オスカル・ガルシア・ジュニェント "wikilink") 2013-2014
 
-  - [サミ・ヒーピア](https://ja.wikipedia.org/wiki/サミ・ヒーピア "wikilink") 2014
+  - [サミ・ヒーピア](../Page/サミ・ヒーピア.md "wikilink") 2014
 
   - [クリス・ヒュートン](https://ja.wikipedia.org/wiki/クリス・ヒュートン "wikilink") 2014-2019
 
@@ -191,15 +191,15 @@
 
   - [ウェイン・ヘンダーソン](https://ja.wikipedia.org/wiki/:en:Wayne_Henderson_\(footballer\) "wikilink") 2005, 2006-2007
 
-  - [コリン・カジム＝リチャーズ](https://ja.wikipedia.org/wiki/コリン・カジム＝リチャーズ "wikilink") 2005-2006
+  - [コリン・カジム＝リチャーズ](../Page/コリン・カジム＝リチャーズ.md "wikilink") 2005-2006
 
-  - [ポール・マクシェーン](https://ja.wikipedia.org/wiki/ポール・マクシェイン "wikilink") 2005-2006
+  - [ポール・マクシェーン](../Page/ポール・マクシェイン.md "wikilink") 2005-2006
 
   - [ギャレス・バリー](../Page/ギャレス・バリー.md "wikilink") （ユース時代）
 
   - [マウリシオ・タリッコ](https://ja.wikipedia.org/wiki/マウリシオ・タリッコ "wikilink") 2010-2012
 
-  - [ビセンテ・ロドリゲス](https://ja.wikipedia.org/wiki/ビセンテ・ロドリゲス "wikilink")　2011-2013
+  - [ビセンテ・ロドリゲス](../Page/ビセンテ・ロドリゲス.md "wikilink")　2011-2013
 
 ## 脚注
 

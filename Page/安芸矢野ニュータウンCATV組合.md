@@ -1,7 +1,7 @@
 > この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
 
 
-**安芸矢野ニュータウンCATV組合**（あきやのニュータウンシーエーティーブイくみあい）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安芸区](../Page/安芸区.md "wikilink")の[矢野ニュータウン](https://ja.wikipedia.org/wiki/矢野ニュータウン "wikilink")にある[団地](../Page/団地.md "wikilink")内の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局で、[町内会](https://ja.wikipedia.org/wiki/町内会 "wikilink")が設立した[任意組合である](../Page/組合.md "wikilink")。
+**安芸矢野ニュータウンCATV組合**（あきやのニュータウンシーエーティーブイくみあい）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安芸区](../Page/安芸区.md "wikilink")の[矢野ニュータウン](../Page/矢野ニュータウン.md "wikilink")にある[団地](../Page/団地.md "wikilink")内の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局で、[町内会](../Page/町内会.md "wikilink")が設立した[任意組合である](../Page/組合.md "wikilink")。
 
 実際の管理は、株式会社[中国綜合管理センター](https://ja.wikipedia.org/wiki/中国綜合管理センター "wikilink")に委託している。
 
@@ -18,13 +18,13 @@
 
 ## 歴史
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") 開局。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月21日](../Page/12月21日.md "wikilink") [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")を開始。
+  - [1992年](../Page/1992年.md "wikilink") 開局。
+  - [2006年](../Page/2006年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")を開始。
   - [2011年](../Page/2011年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")　解散が決定。
 
 ## サービスエリア
 
-  - [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安芸区](../Page/安芸区.md "wikilink")[矢野南一丁目、二丁目、三丁目、四丁目、五丁目、矢野西三丁目、四丁目](https://ja.wikipedia.org/wiki/矢野町 "wikilink")（[矢野ニュータウン](https://ja.wikipedia.org/wiki/矢野ニュータウン "wikilink")（大磯団地・大井団地を含む））
+  - [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安芸区](../Page/安芸区.md "wikilink")[矢野南一丁目、二丁目、三丁目、四丁目、五丁目、矢野西三丁目、四丁目](../Page/矢野町.md "wikilink")（[矢野ニュータウン](../Page/矢野ニュータウン.md "wikilink")（大磯団地・大井団地を含む））
 
 ## 主な放送チャンネル
 
@@ -38,14 +38,14 @@
 
 | アナログ | デジタル  | 放送局                                                                                                                 |
 | ---- | ----- | ------------------------------------------------------------------------------------------------------------------- |
-| 3    | D011  | [NHK広島](../Page/NHK広島放送局.md "wikilink")[総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")                   |
-| 7    | D021  | NHK広島[教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")                                                     |
+| 3    | D011  | [NHK広島](../Page/NHK広島放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")                                      |
+| 7    | D021  | NHK広島[教育](../Page/NHK教育テレビジョン.md "wikilink")                                                                        |
 | 4    | D031  | [中国放送](../Page/中国放送.md "wikilink")                                                                                  |
 | 12   | D041  | [広島テレビ](../Page/広島テレビ放送.md "wikilink")                                                                              |
 | 10   | D051  | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                                                                          |
 | 1    | D081  | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")                                                           |
 | 6    | BS101 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink") |
-| 9    | BS102 | NHK[BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")                                                    |
+| 9    | BS102 | NHK[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")                                                                       |
 | 5    |       | 独自放送                                                                                                                |
 
   - [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")はパススルー方式のため、地上デジタル対応テレビまたはチューナであれば視聴可能。
@@ -53,10 +53,10 @@
 
 ### ラジオ局
 
-| MHz  | 放送局                                                                                            |
-| ---- | ---------------------------------------------------------------------------------------------- |
-| 76.3 | [NHK広島](../Page/NHK広島放送局.md "wikilink")[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |
-| 78.2 | [HFM](../Page/広島エフエム放送.md "wikilink")                                                          |
+| MHz  | 放送局                                                                         |
+| ---- | --------------------------------------------------------------------------- |
+| 76.3 | [NHK広島](../Page/NHK広島放送局.md "wikilink")[FM](../Page/NHK-FM放送.md "wikilink") |
+| 78.2 | [HFM](../Page/広島エフエム放送.md "wikilink")                                       |
 
 ## 関連項目
 

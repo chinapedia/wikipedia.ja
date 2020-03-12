@@ -1,15 +1,15 @@
 > この記事は[LAST IMPRESSION](https://ja.wikipedia.org/wiki/LAST_IMPRESSION)から翻訳されています。
 
 
-「**LAST IMPRESSION**」（ラスト・インプレッション）は、[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")の12枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+「**LAST IMPRESSION**」（ラスト・インプレッション）は、[TWO-MIX](../Page/TWO-MIX.md "wikilink")の12枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 概要
 
-劇場版『[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink") 特別編』主題歌。TWO-MIXにとって最後の[ガンダムWのタイアップ曲であり](../Page/新機動戦記ガンダムW.md "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")からリリースした最後のシングルでもある。
+劇場版『[新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink") 特別編』主題歌。TWO-MIXにとって最後の[ガンダムWのタイアップ曲であり](../Page/新機動戦記ガンダムW.md "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")からリリースした最後のシングルでもある。
 
-TWO-MIXはシングルA面のアレンジ（[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")）曲が多いが、この曲は[ダンス系の](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")がされていない\[1\]。
+TWO-MIXはシングルA面のアレンジ（[リミックス](../Page/リミックス.md "wikilink")）曲が多いが、この曲は[ダンス系の](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")[リミックス](../Page/リミックス.md "wikilink")がされていない\[1\]。
 
-スローテンポパートとハイテンポパートを別々で作っており、[マスタリング](https://ja.wikipedia.org/wiki/マスタリング "wikilink")が行われるごとに2つのパートが交わるタイミングが変わっている。
+スローテンポパートとハイテンポパートを別々で作っており、[マスタリング](../Page/マスタリング.md "wikilink")が行われるごとに2つのパートが交わるタイミングが変わっている。
 
 c/wはアルバム『[FANTASTIX II](https://ja.wikipedia.org/wiki/FANTASTIX_II "wikilink")』に収録された「[JUST COMMUNICATION](../Page/JUST_COMMUNICATION.md "wikilink") II」の[シーケンス](https://ja.wikipedia.org/wiki/シークエンス#音楽 "wikilink")・パートを上げたバージョンを収録。この曲をc/wにしたのは、「ガンダム」のタイアップでテーマを統一させたかったため\[2\]。
 
@@ -26,7 +26,7 @@ c/wはアルバム『[FANTASTIX II](https://ja.wikipedia.org/wiki/FANTASTIX_II "
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -34,9 +34,9 @@ c/wはアルバム『[FANTASTIX II](https://ja.wikipedia.org/wiki/FANTASTIX_II "
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a> / KMW<br />
-<a href="https://ja.wikipedia.org/wiki/スターチャイルド" title="wikilink">スターチャイルド</a></p></td>
+<a href="../Page/スターチャイルド.md" title="wikilink">スターチャイルド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8cmCD</a></p></td>
 <td><p>KIDS-391</p></td>
 <td><p>8位</p></td>
@@ -83,7 +83,7 @@ c/wはアルバム『[FANTASTIX II](https://ja.wikipedia.org/wiki/FANTASTIX_II "
 </tr>
 <tr class="odd">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/20010101" title="wikilink">20010101</a>』</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -106,8 +106,8 @@ c/wはアルバム『[FANTASTIX II](https://ja.wikipedia.org/wiki/FANTASTIX_II "
 <td><p>Orchestra ver.</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/Baroque_Best" title="wikilink">Baroque Best</a>』</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
-<td><p>Orchestra Arrange: <a href="https://ja.wikipedia.org/wiki/天野正道" title="wikilink">天野正道</a><br />
-Orchestra: <a href="https://ja.wikipedia.org/wiki/ワルシャワ国立フィルハーモニー管弦楽団" title="wikilink">Warsaw National Philharmonic Orchestra</a></p></td>
+<td><p>Orchestra Arrange: <a href="../Page/天野正道.md" title="wikilink">天野正道</a><br />
+Orchestra: <a href="../Page/ワルシャワ国立フィルハーモニー管弦楽団.md" title="wikilink">Warsaw National Philharmonic Orchestra</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -122,8 +122,8 @@ Orchestra: <a href="https://ja.wikipedia.org/wiki/ワルシャワ国立フィル
 
 ## 関連項目
 
-  - [TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")
-  - [新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")
+  - [TWO-MIX](../Page/TWO-MIX.md "wikilink")
+  - [新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[BINGO PARTY SPLASH](https://ja.wikipedia.org/wiki/BINGO_PARTY_SPLASH)から翻訳されています。
 
 
-**BINGO PARTY SPLASH**（ビンゴパーティースプラッシュ）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](https://ja.wikipedia.org/wiki/メダルゲーム "wikilink")であり、[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")ゲームとして[2002年](../Page/2002年.md "wikilink")に発売された。
+**BINGO PARTY SPLASH**（ビンゴパーティースプラッシュ）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")であり、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[2002年](../Page/2002年.md "wikilink")に発売された。
 
 ビンゴパーティーシリーズ4作目である。ナレーション・実況は[小林克也](../Page/小林克也.md "wikilink")である。
 

@@ -7,11 +7,11 @@
 
 ## 沿革
 
-1996年に[ソテジワアイドゥル](https://ja.wikipedia.org/wiki/ソテジワアイドゥル "wikilink")を解散後、ヤン･ヒョンソクはプロデューサーに転進。同年「ヒョン企画」で出発したヤン･ヒョンソクは、[キープ・シックス](https://ja.wikipedia.org/wiki/キープ・シックス "wikilink")(KEEP SIX)という3人組グループをプロデュースしたが、失敗に終わった。その後、1997年に男性デュオ「JINUSEAN」（ジヌション、지누션）、4人組グループ「1TYM」、ヒップホップ歌手ペリーなどをデビューさせ正統黒人音楽で勝負をかけて成功した。
+1996年に[ソテジワアイドゥル](../Page/ソテジワアイドゥル.md "wikilink")を解散後、ヤン･ヒョンソクはプロデューサーに転進。同年「ヒョン企画」で出発したヤン･ヒョンソクは、[キープ・シックス](https://ja.wikipedia.org/wiki/キープ・シックス "wikilink")(KEEP SIX)という3人組グループをプロデュースしたが、失敗に終わった。その後、1997年に男性デュオ「JINUSEAN」（ジヌション、지누션）、4人組グループ「1TYM」、ヒップホップ歌手ペリーなどをデビューさせ正統黒人音楽で勝負をかけて成功した。
 
-2003年に美少年イメージの歌手[SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")（セブン）をデビューさせ、それまでの10代少女歌手市場を攻略。
+2003年に美少年イメージの歌手[SE7EN](../Page/SE7EN.md "wikilink")（セブン）をデビューさせ、それまでの10代少女歌手市場を攻略。
 
-2005年2月23日には[SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")を日本に進出させて音楽スタイルをJ-POPに変えるなど海外市場では現地化戦略を駆使する。
+2005年2月23日には[SE7EN](../Page/SE7EN.md "wikilink")を日本に進出させて音楽スタイルをJ-POPに変えるなど海外市場では現地化戦略を駆使する。
 
 2006年には[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")がデビュー。
 
@@ -33,13 +33,13 @@
 
 ### 海外
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")頃から、市場を国外に拡大し始めた。YG所属アーティストで最初に国際的な活動を始めたのはSE7ENだった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ネクスター・レコード](../Page/日本コロムビア.md "wikilink")\[4\]と[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")\[5\]、[中国の](../Page/中華人民共和国.md "wikilink")21イースト・エンターテイメント、[タイのGMMインターナショナル](../Page/タイ王国.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")\[6\] と提携している。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に「YGアメリカ」、日本に「YG JAPAN」を設立。2011年7月に[avexと共同で日本国内YGファミリー専用レーベルの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「YGEX（YG+AVEX）」を設立した。
+[2005年](../Page/2005年.md "wikilink")頃から、市場を国外に拡大し始めた。YG所属アーティストで最初に国際的な活動を始めたのはSE7ENだった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ネクスター・レコード](../Page/日本コロムビア.md "wikilink")\[4\]と[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")\[5\]、[中国の](../Page/中華人民共和国.md "wikilink")21イースト・エンターテイメント、[タイのGMMインターナショナル](../Page/タイ王国.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")\[6\] と提携している。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に「YGアメリカ」、日本に「YG JAPAN」を設立。2011年7月に[avexと共同で日本国内YGファミリー専用レーベルの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「YGEX（YG+AVEX）」を設立した。
 
 ## 所属
 
 ### YG family
 
-YG familyはYGエンタテインメントに所属しているアーティスト、俳優、スタッフを指す。YG familyのアーティストが4作の共同アルバムを制作し、2006年には10周年記念の世界ツアーを行い、ソウル市、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")を巡った\[7\]。
+YG familyはYGエンタテインメントに所属しているアーティスト、俳優、スタッフを指す。YG familyのアーティストが4作の共同アルバムを制作し、2006年には10周年記念の世界ツアーを行い、ソウル市、[東京都](../Page/東京都.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")を巡った\[7\]。
 
 ### アーティスト
 
@@ -52,7 +52,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [iKON](https://ja.wikipedia.org/wiki/iKON "wikilink") (아이콘)
   - [Sechs Kies](https://ja.wikipedia.org/wiki/Sechs_Kies "wikilink") (젝스키스)
   - [BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink") (블랙핑크)
-  - [ONE](https://ja.wikipedia.org/wiki/ONE "wikilink") (원)
+  - [ONE](../Page/ONE.md "wikilink") (원)
   - [TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink") (트레저)
   - [チョン・ソミ](https://ja.wikipedia.org/wiki/チョン・ソミ "wikilink")（전소미)
 
@@ -67,7 +67,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - BIGMAMA
   - [フィソン](https://ja.wikipedia.org/wiki/フィソン "wikilink")
   - GUMMY
-  - [SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")
+  - [SE7EN](../Page/SE7EN.md "wikilink")
   - Masta Wu
   - [PSY](https://ja.wikipedia.org/wiki/PSY "wikilink") (2018年)
   - [ケイティ・キム](https://ja.wikipedia.org/wiki/ケイティ・キム "wikilink") (2018年)
@@ -79,7 +79,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
 
   - [チャン・ヒョンソン](https://ja.wikipedia.org/wiki/チャン・ヒョンソン "wikilink") （장현성）
   - [チャ・スンウォン](https://ja.wikipedia.org/wiki/チャ・スンウォン "wikilink") （차승원）
-  - [カン・ドンウォン](https://ja.wikipedia.org/wiki/カン・ドンウォン "wikilink") （강동원）
+  - [カン・ドンウォン](../Page/カン・ドンウォン.md "wikilink") （강동원）
   - [チェ・スンヒョン](https://ja.wikipedia.org/wiki/T.O.P "wikilink") （T.O.P）
   - [ソン・ホジュン](https://ja.wikipedia.org/wiki/ソン・ホジュン "wikilink") （손호준）
   - [イ・スヒョク](https://ja.wikipedia.org/wiki/イ・スヒョク "wikilink") （이수혁）

@@ -1,11 +1,11 @@
 > この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
 
 
-**ジェームズ・L・ブルックス**（, [1940年](../Page/1940年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[プロデューサー](../Page/映画プロデューサー.md "wikilink")。[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")市[ブルックリン出身](../Page/ブルックリン区.md "wikilink")。
+**ジェームズ・L・ブルックス**（, [1940年](../Page/1940年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[プロデューサー](../Page/映画プロデューサー.md "wikilink")。[ニューヨーク](../Page/ニューヨーク.md "wikilink")市[ブルックリン出身](../Page/ブルックリン区.md "wikilink")。
 
-[CBS](../Page/CBS.md "wikilink")や[ABCで](https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー "wikilink")『メアリー・タイラー・ムーア・ショー』や『[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")』、『トレイシー・ウルマン・ショー』などの人気シリーズを手がけた。映画監督としては『愛と追憶の日々』で[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")と[監督賞と](../Page/アカデミー監督賞.md "wikilink")[脚色賞を受賞している](https://ja.wikipedia.org/wiki/アカデミー脚色賞 "wikilink")。また、これまで[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")を19回受賞している。
+[CBS](../Page/CBS.md "wikilink")や[ABCで](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")『メアリー・タイラー・ムーア・ショー』や『[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")』、『トレイシー・ウルマン・ショー』などの人気シリーズを手がけた。映画監督としては『愛と追憶の日々』で[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")と[監督賞と](../Page/アカデミー監督賞.md "wikilink")[脚色賞を受賞している](../Page/アカデミー脚色賞.md "wikilink")。また、これまで[エミー賞](../Page/エミー賞.md "wikilink")を19回受賞している。
 
-プロデューサーとしては[トム・ハンクス](../Page/トム・ハンクス.md "wikilink")の『[ビッグ](../Page/ビッグ_\(映画\).md "wikilink")』や[ジョン・キューザック](https://ja.wikipedia.org/wiki/ジョン・キューザック "wikilink")の『[セイ・エニシング](../Page/セイ・エニシング.md "wikilink")』、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")の『[ザ・エージェント](https://ja.wikipedia.org/wiki/ザ・エージェント "wikilink")』などを手がけている。[ウェス・アンダーソン](https://ja.wikipedia.org/wiki/ウェス・アンダーソン "wikilink")を発掘したのも彼である。
+プロデューサーとしては[トム・ハンクス](../Page/トム・ハンクス.md "wikilink")の『[ビッグ](../Page/ビッグ_\(映画\).md "wikilink")』や[ジョン・キューザック](../Page/ジョン・キューザック.md "wikilink")の『[セイ・エニシング](../Page/セイ・エニシング.md "wikilink")』、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")の『[ザ・エージェント](../Page/ザ・エージェント.md "wikilink")』などを手がけている。[ウェス・アンダーソン](../Page/ウェス・アンダーソン.md "wikilink")を発掘したのも彼である。
 
 反捕鯨団体の「[シー・シェパード](https://ja.wikipedia.org/wiki/シー・シェパード "wikilink")」の4隻目となる捕鯨妨害船「サム・サイモン号」は、かつて日本政府が保有していた観測船であるが、米企業から購入した際、ブルックスが200万ドル（約1億6000万円）の資金援助をした\[1\]。
 
@@ -21,8 +21,8 @@
   - [ローズ家の戦争](https://ja.wikipedia.org/wiki/ローズ家の戦争 "wikilink") *The War of the Roses* (1989年) - 製作
   - [ハリウッド・トラブル](../Page/ハリウッド・トラブル.md "wikilink") *I'll Do Anything* (1994年) - 監督・脚本・製作
   - [アンソニーのハッピー・モーテル](https://ja.wikipedia.org/wiki/アンソニーのハッピー・モーテル "wikilink") *Bottle Rocket* (1996年) - 製作総指揮
-  - [ザ・エージェント](https://ja.wikipedia.org/wiki/ザ・エージェント "wikilink") *Jerry Maguire* (1996年) - 製作
-  - [恋愛小説家](https://ja.wikipedia.org/wiki/恋愛小説家 "wikilink") *As Good as It Gets* (1997年) - 監督・脚本・製作
+  - [ザ・エージェント](../Page/ザ・エージェント.md "wikilink") *Jerry Maguire* (1996年) - 製作
+  - [恋愛小説家](../Page/恋愛小説家.md "wikilink") *As Good as It Gets* (1997年) - 監督・脚本・製作
   - [サンキュー、ボーイズ](https://ja.wikipedia.org/wiki/サンキュー、ボーイズ "wikilink") *Riding in Cars with Boys* (2001年) - 製作
   - [スパングリッシュ 太陽の国から来たママのこと](../Page/スパングリッシュ_太陽の国から来たママのこと.md "wikilink") *Spanglish* (2004年) - 監督・脚本・製作
   - [ザ・シンプソンズ MOVIE](https://ja.wikipedia.org/wiki/ザ・シンプソンズ_MOVIE "wikilink") *The Simpsons Movie* (2007年) - 製作・脚本

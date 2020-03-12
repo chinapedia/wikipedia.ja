@@ -1,19 +1,19 @@
 > この記事は[LIVE!](https://ja.wikipedia.org/wiki/LIVE!)から翻訳されています。
 
 
-**東京マーケットLIVE\!**（とうきょうマーケットライブ）は、[ラジオNIKKEIの第](../Page/日経ラジオ社.md "wikilink")1・第2放送他で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")の間放送されていた総合経済[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+**東京マーケットLIVE\!**（とうきょうマーケットライブ）は、[ラジオNIKKEIの第](../Page/日経ラジオ社.md "wikilink")1・第2放送他で、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")の間放送されていた総合経済[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 
-[1954年](../Page/1954年.md "wikilink")の開局以来、[株式市況](https://ja.wikipedia.org/wiki/株式市況 "wikilink")中継を専門的に手掛けて来た同局は、2波体制が整った[1963年](../Page/1963年.md "wikilink")より、第1放送で[東証の市況](../Page/東京証券取引所.md "wikilink")、第2放送は[大証](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")・[名証の市況と](../Page/名古屋証券取引所.md "wikilink")[商品先物](https://ja.wikipedia.org/wiki/商品先物 "wikilink")市況とを分担して速報してきた\[1\]。
+[1954年](../Page/1954年.md "wikilink")の開局以来、[株式市況](../Page/株式市況.md "wikilink")中継を専門的に手掛けて来た同局は、2波体制が整った[1963年](../Page/1963年.md "wikilink")より、第1放送で[東証の市況](../Page/東京証券取引所.md "wikilink")、第2放送は[大証](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")・[名証の市況と](../Page/名古屋証券取引所.md "wikilink")[商品先物](https://ja.wikipedia.org/wiki/商品先物 "wikilink")市況とを分担して速報してきた\[1\]。
 
 しかし、、[2002年](../Page/2002年.md "wikilink")4月の番組[改編](../Page/改編.md "wikilink")で第2放送を平日は原則休止とし、第1放送への集約と個別全[銘柄](https://ja.wikipedia.org/wiki/銘柄 "wikilink")市況中継の廃止等、大幅な縮小が敢行された。
 
 一連の削減策の中でも、特に市況中継からの撤退が、また一時的に[平均株価](https://ja.wikipedia.org/wiki/平均株価 "wikilink")が回復傾向に転じた事から、休止されていた平日の第2放送を2006年4月より復活し、4年振りに2波体制で株式市況中継を再開するに伴い、当番組が発足した。
 
-[個人投資家](https://ja.wikipedia.org/wiki/個人投資家 "wikilink")が[インターネット取引](https://ja.wikipedia.org/wiki/インターネット取引 "wikilink")を活用する時代に対応し、[アナリスト](../Page/証券アナリスト.md "wikilink")、[コメンテーター](../Page/コメンテーター.md "wikilink")による解説（COMMENTARY CHANNEL）と、速報性の高い個別全銘柄株価の読み上げ（PRICE CHANNEL）の時間帯を分離させ（一部は両波[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")）、[東証アローズ](https://ja.wikipedia.org/wiki/東証アローズ "wikilink")内中継ブース、各所の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")等と、ラジオNIKKEI本社第1スタジオからの、多元[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")形式に拡充された。
+[個人投資家](https://ja.wikipedia.org/wiki/個人投資家 "wikilink")が[インターネット取引](https://ja.wikipedia.org/wiki/インターネット取引 "wikilink")を活用する時代に対応し、[アナリスト](../Page/証券アナリスト.md "wikilink")、[コメンテーター](../Page/コメンテーター.md "wikilink")による解説（COMMENTARY CHANNEL）と、速報性の高い個別全銘柄株価の読み上げ（PRICE CHANNEL）の時間帯を分離させ（一部は両波[サイマル放送](../Page/サイマル放送.md "wikilink")）、[東証アローズ](https://ja.wikipedia.org/wiki/東証アローズ "wikilink")内中継ブース、各所の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")等と、ラジオNIKKEI本社第1スタジオからの、多元[生放送](../Page/生放送.md "wikilink")形式に拡充された。
 
-また同局では[インターネット放送](https://ja.wikipedia.org/wiki/インターネット放送 "wikilink")（配信）も展開し、[短波放送](../Page/短波放送.md "wikilink")以外にライブ[ストリーミング](../Page/ストリーミング.md "wikilink")でサイマル放送した他、インターネット動画配信サービス\[2\]や、[携帯電話](../Page/携帯電話.md "wikilink")各[キャリア向けの有料配信](https://ja.wikipedia.org/wiki/通信キャリア "wikilink")\[3\]も行った。
+また同局では[インターネット放送](../Page/インターネット放送.md "wikilink")（配信）も展開し、[短波放送](../Page/短波放送.md "wikilink")以外にライブ[ストリーミング](../Page/ストリーミング.md "wikilink")でサイマル放送した他、インターネット動画配信サービス\[2\]や、[携帯電話](../Page/携帯電話.md "wikilink")各[キャリア向けの有料配信](https://ja.wikipedia.org/wiki/通信キャリア "wikilink")\[3\]も行った。
 
 当番組終了後の[2007年](../Page/2007年.md "wikilink")4月2日以降は、商品先物市況中継からの撤退により、株式市場解説・展望中心の後番組『[株式チャンネル](../Page/株式チャンネル.md "wikilink")』（第1放送）と、『[株価実況](https://ja.wikipedia.org/wiki/株価実況 "wikilink")』（第2放送）とに分離された。
 
@@ -37,13 +37,13 @@
       -
         ※ 同局記者陣については、[兜倶楽部記者を参照](https://ja.wikipedia.org/wiki/日経ラジオ社#兜倶楽部記者 "wikilink")。
   - 後場キャスター（12:30 - 15:05）
-      - 月・火曜：櫻井英明（株式新聞ウィークリー[編集長](https://ja.wikipedia.org/wiki/編集長 "wikilink")）
+      - 月・火曜：櫻井英明（株式新聞ウィークリー[編集長](../Page/編集長.md "wikilink")）
       - 水曜：今野浩明
       - 木曜：石原暉知康（株式アナリスト、元ラジオたんぱアナウンサー）
       - 金曜：中村孝也（カブ知恵 投資情報部長）
   - 進行アナウンサー
       - 月・金曜：[内田政美](https://ja.wikipedia.org/wiki/内田まさみ "wikilink")
-      - 火 - 木曜：[叶内文子](https://ja.wikipedia.org/wiki/叶内文子 "wikilink")
+      - 火 - 木曜：[叶内文子](../Page/叶内文子.md "wikilink")
   - 株価&ランキング情報
       - 田中俊英（ラジオNIKKEI）
       - 増井里加
@@ -55,7 +55,7 @@
 
 ### 番組内容（COMMENTARY CHANNEL）
 
-  - 前番組『[マーケットTODAY](https://ja.wikipedia.org/wiki/マーケットTODAY "wikilink")』のコーナーの大半と商品先物市況は、引き続き『COMMENTARY CHANNEL』に承継された。
+  - 前番組『[マーケットTODAY](../Page/マーケットTODAY.md "wikilink")』のコーナーの大半と商品先物市況は、引き続き『COMMENTARY CHANNEL』に承継された。
   - 本節は[2007年](../Page/2007年.md "wikilink")1月4日より番組内容が改変される以前のもの。
 
 <!-- end list -->
@@ -64,7 +64,7 @@
 
 <!-- end list -->
 
-  - 9:00 - 9:14（第1・第2[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")）
+  - 9:00 - 9:14（第1・第2[サイマル放送](../Page/サイマル放送.md "wikilink")）
       -
         オープニング、寄り付き値、ニュース、今日の展望、主要銘柄寄り付き値。
   - 9:14 - 10:00（第1単独）
@@ -78,7 +78,7 @@
         ニュース&現在値、ワンショット解説（キャスター解説）、ランキング情報、前場のインサイドワーク（アナリスト電話インタビュー&キャスター解説）、商品先物市況。
   - 11:00 - 11:44（第1・第2サイマル放送）
       -
-        ニュース&前引け値、[テレマート](https://ja.wikipedia.org/wiki/テレマート "wikilink")ラジオショッピング（第1のみ、インターネットは別[CM](../Page/コマーシャルメッセージ.md "wikilink")）、東証1部全銘柄 前引け値（第1は途中まで）。
+        ニュース&前引け値、[テレマート](../Page/テレマート.md "wikilink")ラジオショッピング（第1のみ、インターネットは別[CM](../Page/コマーシャルメッセージ.md "wikilink")）、東証1部全銘柄 前引け値（第1は途中まで）。
   - 11:44 - 12:00（第1単独）
       -
         商品先物市況、ランキング情報。
@@ -103,7 +103,7 @@
         ニュース&現在値、ランキング情報、企業インタビュー（月・水・金：ラジオNIKKEI記者の取材による注目企業のトップへインタビュー）／中国・アジア情報（火：ストラテジスト解説）／日本株リサーチ情報（木：ストラテジスト解説）、商品先物市況。
   - 14:30 - 15:00（第1単独）
       -
-        クリーンヒット解説、ランキング情報、マーケット・ウォッチ（月：兜町リテラクレア証券スタジオから[公開](https://ja.wikipedia.org/wiki/公開放送 "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")、ストラテジスト解説）／投資情報室（火：ストラテジスト解説）／マーケット・カフェタイム（水・金：大阪・梅田リテラクレア証券スタジオから公開生放送、アナリスト解説）／ストラテジスト電話インタビュー（木）。
+        クリーンヒット解説、ランキング情報、マーケット・ウォッチ（月：兜町リテラクレア証券スタジオから[公開](../Page/公開放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")、ストラテジスト解説）／投資情報室（火：ストラテジスト解説）／マーケット・カフェタイム（水・金：大阪・梅田リテラクレア証券スタジオから公開生放送、アナリスト解説）／ストラテジスト電話インタビュー（木）。
   - 15:00 - 15:43（第1・第2サイマル放送）
       -
         大引け値速報&ニュース、翌営業日の展望、商品先物市況（第1のみ）、東証1部全銘柄 終値（第1は途中まで）。
@@ -161,6 +161,6 @@
 
 [Category:ラジオNIKKEIの番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの番組 "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink") [Category:経済に関するメディア](https://ja.wikipedia.org/wiki/Category:経済に関するメディア "wikilink") [Category:株式市場](https://ja.wikipedia.org/wiki/Category:株式市場 "wikilink")
 
-1.  後者は[バブル景気](../Page/バブル景気.md "wikilink")時に『[ニュースTODAY](https://ja.wikipedia.org/wiki/ニュースTODAY_\(ラジオたんぱ\) "wikilink")』→『[経済情報ステーション](https://ja.wikipedia.org/wiki/経済情報ステーション "wikilink")』の題名で[ニュースワイド](../Page/ニュースワイド.md "wikilink")化。
+1.  後者は[バブル景気](../Page/バブル景気.md "wikilink")時に『[ニュースTODAY](../Page/ニュースTODAY_\(ラジオたんぱ\).md "wikilink")』→『[経済情報ステーション](https://ja.wikipedia.org/wiki/経済情報ステーション "wikilink")』の題名で[ニュースワイド](../Page/ニュースワイド.md "wikilink")化。
 2.  2006年9月から2007年3月30日の間、「楽天マーケットTV」にて『COMMENTARY CHANNNEL』を東証スタジオの映像つきで配信。
 3.  「[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")」向け公式サイト『ラジオNIKKEIモバイル』より、専用[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")を使用。

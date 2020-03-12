@@ -5,7 +5,7 @@
 
 ## 概要
 
-1997年5月、シンガーソングライターの[パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")が芸能事務所「テホン企画」を設立。[god](https://ja.wikipedia.org/wiki/god_\(音楽グループ\) "wikilink")、[パク・チユン](https://ja.wikipedia.org/wiki/パク・チユン "wikilink")などを輩出し、プロデューサーとしての地位を固める。2001年4月、パク・ジニョンのイニシャルを取って「JYPエンターテインメント」に社名を変更。その後、ホン・スンソンと協力し、[ピ](https://ja.wikipedia.org/wiki/ピ_\(歌手\) "wikilink")、[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")、[ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")、[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")などの大物歌手を続々と輩出。2008年にホン・スンソンと決別した後も、[Miss A](https://ja.wikipedia.org/wiki/Miss_A "wikilink")、[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")、[TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")、[Stray Kidsなど](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")、多くの歌手を世に送り出している。練習生の個性を否定しない企業方針の一方で人間教育にも非常に力を入れており、不祥事の少なさも折り紙つきである。[2010年代](../Page/2010年代.md "wikilink")以降の急成長ぶりは目覚ましく、名実ともに[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")、[YGエンターテインメント](https://ja.wikipedia.org/wiki/YGエンターテインメント "wikilink")と共に韓国の3大芸能事務所に成長した。
+1997年5月、シンガーソングライターの[パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")が芸能事務所「テホン企画」を設立。[god](https://ja.wikipedia.org/wiki/god_\(音楽グループ\) "wikilink")、[パク・チユン](https://ja.wikipedia.org/wiki/パク・チユン "wikilink")などを輩出し、プロデューサーとしての地位を固める。2001年4月、パク・ジニョンのイニシャルを取って「JYPエンターテインメント」に社名を変更。その後、ホン・スンソンと協力し、[ピ](../Page/ピ_\(歌手\).md "wikilink")、[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")、[ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")、[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")などの大物歌手を続々と輩出。2008年にホン・スンソンと決別した後も、[Miss A](https://ja.wikipedia.org/wiki/Miss_A "wikilink")、[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")、[TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")、[Stray Kidsなど](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")、多くの歌手を世に送り出している。練習生の個性を否定しない企業方針の一方で人間教育にも非常に力を入れており、不祥事の少なさも折り紙つきである。[2010年代](../Page/2010年代.md "wikilink")以降の急成長ぶりは目覚ましく、名実ともに[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")、[YGエンターテインメント](../Page/YGエンターテインメント.md "wikilink")と共に韓国の3大芸能事務所に成長した。
 
 ## 所属歌手・タレント
 
@@ -53,7 +53,7 @@
       - イ・サンゴン
       - ナ・ソンホ
   - ピョル
-  - [ピ](https://ja.wikipedia.org/wiki/ピ_\(歌手\) "wikilink")
+  - [ピ](../Page/ピ_\(歌手\).md "wikilink")
   - イム・ジョンヒ
   - IVY
   - ハンナ

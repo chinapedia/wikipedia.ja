@@ -3,7 +3,7 @@
 
 **DVD Shrink**（ディーブイディー シュリンク）は[DVD-Video](../Page/DVD-Video.md "wikilink")の作成を容易にする[フリーウェア](../Page/フリーウェア.md "wikilink")である。[Windows上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
-DVDの[リッピング](https://ja.wikipedia.org/wiki/リッピング "wikilink")、ディスクイメージの加工、ディスクイメージの[データ圧縮](../Page/データ圧縮.md "wikilink")、（ディスクライティングソフトである[NeroやCD](../Page/Nero_Burning_ROM.md "wikilink") Burner XPまたはDVDリッピングソフト・[DVD Decrypterの](../Page/DVD_Decrypter.md "wikilink")[ISOイメージライティング機能を用いることによる](../Page/ISO_9660.md "wikilink")）ディスクイメージの[ライティング](https://ja.wikipedia.org/wiki/ライティング "wikilink")の4工程で用いることができ、DVDをバックアップする際のオールインワンソフトとして設計されている。
+DVDの[リッピング](../Page/リッピング.md "wikilink")、ディスクイメージの加工、ディスクイメージの[データ圧縮](../Page/データ圧縮.md "wikilink")、（ディスクライティングソフトである[NeroやCD](../Page/Nero_Burning_ROM.md "wikilink") Burner XPまたはDVDリッピングソフト・[DVD Decrypterの](../Page/DVD_Decrypter.md "wikilink")[ISOイメージライティング機能を用いることによる](../Page/ISO_9660.md "wikilink")）ディスクイメージの[ライティング](https://ja.wikipedia.org/wiki/ライティング "wikilink")の4工程で用いることができ、DVDをバックアップする際のオールインワンソフトとして設計されている。
 
 開発は事実上終了しており、作者は現在Nero AGの[Nero Recodeの開発を行っている](../Page/Nero_Burning_ROM.md "wikilink")。また、開発が終了しているため、DVDの最新タイトルをリッピングした場合、エラーとなるケースもある。
 

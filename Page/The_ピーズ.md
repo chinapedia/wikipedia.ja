@@ -9,13 +9,13 @@
 
   - **大木温之（おおき はるゆき**、[1965年](../Page/1965年.md "wikilink")12月14日 - **）**
       -
-        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ベースを担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
-        愛称「**はる**」。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[成田市](../Page/成田市.md "wikilink")出身。[千葉県立佐倉高等学校](../Page/千葉県立佐倉高等学校.md "wikilink")、駒澤大学卒業。血液型はO型。
-        元[カステラの大木知之](https://ja.wikipedia.org/wiki/カステラ_\(バンド\) "wikilink")（[TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")）は双子の弟。
+        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ベースを担当](../Page/ベース_\(弦楽器\).md "wikilink")。
+        愛称「**はる**」。[千葉県](../Page/千葉県.md "wikilink")[成田市](../Page/成田市.md "wikilink")出身。[千葉県立佐倉高等学校](../Page/千葉県立佐倉高等学校.md "wikilink")、駒澤大学卒業。血液型はO型。
+        元[カステラの大木知之](../Page/カステラ_\(バンド\).md "wikilink")（[TOMOVSKY](../Page/TOMOVSKY.md "wikilink")）は双子の弟。
 
 \*:バンドTOMOVSKYのベースを2007年7月20日より務めている。\[1\]
 
-\*:活動休止中は調理師免許を取得し、居酒屋や中華料理店で働いたり、[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")のツアーサポートメンバーとして活動していた。
+\*:活動休止中は調理師免許を取得し、居酒屋や中華料理店で働いたり、[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")のツアーサポートメンバーとして活動していた。
 
 \*:2019年7月18日に公式ブログにて食道がんであることを告白。\[2\]
 
@@ -24,13 +24,13 @@
   - **安孫子義一（あびこ よしかず**、[1965年](../Page/1965年.md "wikilink")4月17日 - **）**
       -
         [ギター](../Page/ギター.md "wikilink")を担当。
-        愛称「**アビさん**」。[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")[第一文学部](https://ja.wikipedia.org/wiki/第一文学部 "wikilink")卒業。血液型O。
+        愛称「**アビさん**」。[早稲田大学](../Page/早稲田大学.md "wikilink")[第一文学部](https://ja.wikipedia.org/wiki/第一文学部 "wikilink")卒業。血液型O。
         自身の結婚により、[1996年](../Page/1996年.md "wikilink")7月に一度脱退し、[2002年](../Page/2002年.md "wikilink")7月の活動再開時に復帰。
         活動停止中～現在に至るまで、バンド活動と並行して、土木関係の仕事に従事している。
   - **[佐藤シンイチロウ](../Page/佐藤シンイチロウ.md "wikilink")（さとう しんいちろう**、1964年8月16日 - ）
       -
         [ドラムスを担当](../Page/ドラムセット.md "wikilink")。
-        愛称「**シンちゃん**」。[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身。[the pillowsの活動と平行して参加している](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
+        愛称「**シンちゃん**」。[茨城県](../Page/茨城県.md "wikilink")出身。[the pillowsの活動と平行して参加している](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
 
 ### 過去のメンバー
 
@@ -40,7 +40,7 @@
         脱退後、阿修羅、[頭脳警察](../Page/頭脳警察.md "wikilink")、[人間椅子などで活動していた](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")。
   - 池田"ウガンダ"崇（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [1993年](../Page/1993年.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")8月 - 10月）
       -
-        ドラムスを担当。大木の大学時代の後輩で、ドラムス未経験での加入だった。脱退後はJET BOYS、[SAMANTHA'S FAVORITE](https://ja.wikipedia.org/wiki/SAMANTHA'S_FAVORITE "wikilink")、[TWEEZERS](https://ja.wikipedia.org/wiki/TWEEZERS "wikilink")などさまざまなバンドを渡り歩く。2018年現在は[TERRY SHIMAMURA GROUP](https://ja.wikipedia.org/wiki/TERRY_SHIMAMURA_GROUP "wikilink")、[赤い夕陽](https://ja.wikipedia.org/wiki/赤い夕陽 "wikilink")で活動中。（元[ビジーフォー](https://ja.wikipedia.org/wiki/ビジーフォー "wikilink")の[ウガンダ・トラ](https://ja.wikipedia.org/wiki/ウガンダ・トラ "wikilink")とは別人）
+        ドラムスを担当。大木の大学時代の後輩で、ドラムス未経験での加入だった。脱退後はJET BOYS、[SAMANTHA'S FAVORITE](https://ja.wikipedia.org/wiki/SAMANTHA'S_FAVORITE "wikilink")、[TWEEZERS](https://ja.wikipedia.org/wiki/TWEEZERS "wikilink")などさまざまなバンドを渡り歩く。2018年現在は[TERRY SHIMAMURA GROUP](https://ja.wikipedia.org/wiki/TERRY_SHIMAMURA_GROUP "wikilink")、[赤い夕陽](https://ja.wikipedia.org/wiki/赤い夕陽 "wikilink")で活動中。（元[ビジーフォー](../Page/ビジーフォー.md "wikilink")の[ウガンダ・トラ](../Page/ウガンダ・トラ.md "wikilink")とは別人）
   - 吉田武彦（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月 - [1996年](../Page/1996年.md "wikilink")7月）
       -
         ドラムスを担当。「Yeah(江戸川橋セッション’96)」で彼のドラムが聴ける。
@@ -58,10 +58,10 @@
 ## 来歴
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、大木、安孫子、後藤の3人で結成。当時のバンド名は「ジャコフ＆ゲイリーズ」。下北沢屋根裏で初ライブ。のちにTheピーズに改名。
-  - [1988年](../Page/1988年.md "wikilink")、以前からグレイトリッチーズ、ポテトチップス、ディープ&バイツがやっていた“3バカバンドの○○”というライヴ・イベントに、ディープ&バイツのノリオがTheピーズも誘い込み、そのうち[レピッシュ](https://ja.wikipedia.org/wiki/レピッシュ "wikilink")や[アンジー](../Page/アンジー.md "wikilink")、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")等も参加していた“[ポコチンロック](https://ja.wikipedia.org/wiki/ポコチンロック "wikilink")”に対抗する様な形で、。
-  - [1989年](../Page/1989年.md "wikilink")10月、[ビクターより](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")、シングル「バカになったのに」でデビュー。11月にはファーストアルバム『グレイテストヒッツ VOL.1』『グレイテストヒッツ VOL.2』を2枚同時リリースするが、12月、後藤が脱退し、活動休止に入る。
+  - [1988年](../Page/1988年.md "wikilink")、以前からグレイトリッチーズ、ポテトチップス、ディープ&バイツがやっていた“3バカバンドの○○”というライヴ・イベントに、ディープ&バイツのノリオがTheピーズも誘い込み、そのうち[レピッシュ](../Page/レピッシュ.md "wikilink")や[アンジー](../Page/アンジー.md "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")等も参加していた“[ポコチンロック](https://ja.wikipedia.org/wiki/ポコチンロック "wikilink")”に対抗する様な形で、。
+  - [1989年](../Page/1989年.md "wikilink")10月、[ビクターより](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、シングル「バカになったのに」でデビュー。11月にはファーストアルバム『グレイテストヒッツ VOL.1』『グレイテストヒッツ VOL.2』を2枚同時リリースするが、12月、後藤が脱退し、活動休止に入る。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月、新ドラマーのウガンダが加入。5月には全国ツアーを敢行し、9月に、シングル「いいコになんかなるなよ」と、アルバム『マスカキザル』を同時リリース。この当時、ウガンダのドラムの腕前は完全なる素人で、テンポ取りもまともに出来ない程であった。
-  - [1992年](../Page/1992年.md "wikilink")4月、シングル「やりっぱなしでサイナラだBye Bye」、アルバム『クズんなってGO』を同時リリース。アルバムが[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")51位を記録。その後、[2003年](../Page/2003年.md "wikilink")までの11年間、作品がチャートインすることはなかった。
+  - [1992年](../Page/1992年.md "wikilink")4月、シングル「やりっぱなしでサイナラだBye Bye」、アルバム『クズんなってGO』を同時リリース。アルバムが[オリコン初登場](../Page/オリコンチャート.md "wikilink")51位を記録。その後、[2003年](../Page/2003年.md "wikilink")までの11年間、作品がチャートインすることはなかった。
   - [1993年](../Page/1993年.md "wikilink")、アルバム『とどめをハデにくれ』をリリース。ツアー開始直前にウガンダが脱退。2人で活動を行った。
   - [1994年](../Page/1994年.md "wikilink")、サポートドラム加入。この頃から活動休止まで頻繁にメンバー交代が行われた。ちなみに現在のドラマーである佐藤もレコーディングに参加していた時期がある。
   - [1996年](../Page/1996年.md "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")へ移籍。3月にアルバム『どこへも帰らない』をリリース。5月、「底なし」をシングルカット、同年安孫子脱退。
@@ -69,11 +69,11 @@
   - [1999年](../Page/1999年.md "wikilink")、[ぢ・大黒堂](../Page/ぢ・大黒堂.md "wikilink")の楽曲に大木がベーシストとして参加。トータス松本曰く「彼にとって久々の音楽活動だったので、ギグケースから出したベースの弦が錆びていた」。
   - [2001年](../Page/2001年.md "wikilink")、2枚44曲のベストアルバムと全14巻のヒストリービデオをリリース。ベストアルバムの選曲は大木が行う。
   - [2002年](../Page/2002年.md "wikilink")、[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")2002出演発表により活動再開が決定。7月、大木、安孫子、佐藤の3人による千葉LOOKでのライブをもって正式に活動再開。
-  - [2003年](../Page/2003年.md "wikilink")3月、大木、佐藤、[YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")（[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")）、[奥田民生](../Page/奥田民生.md "wikilink")の4人でイベント出演のために**[O.P.KING](../Page/O.P.KING.md "wikilink")**を結成。夏までの限定活動を行う。
-  - [2007年](../Page/2007年.md "wikilink")6月9日、ゲストに奥田民生、YO-KING、[真鍋吉明](https://ja.wikipedia.org/wiki/真鍋吉明 "wikilink")、[ウルフルケイスケ](https://ja.wikipedia.org/wiki/ウルフルケイスケ "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")などを迎え、渋谷AXにて20周年記念ライブを行う。
+  - [2003年](../Page/2003年.md "wikilink")3月、大木、佐藤、[YO-KING](../Page/YO-KING.md "wikilink")（[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")）、[奥田民生](../Page/奥田民生.md "wikilink")の4人でイベント出演のために**[O.P.KING](../Page/O.P.KING.md "wikilink")**を結成。夏までの限定活動を行う。
+  - [2007年](../Page/2007年.md "wikilink")6月9日、ゲストに奥田民生、YO-KING、[真鍋吉明](../Page/真鍋吉明.md "wikilink")、[ウルフルケイスケ](../Page/ウルフルケイスケ.md "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")などを迎え、渋谷AXにて20周年記念ライブを行う。
   - [2011年](../Page/2011年.md "wikilink")は佐藤が[the pillowsの仕事が忙しい事が理由で](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、大木のみの「1人ピーズ」や佐藤または安孫子との「2人ピーズ」で活動する事もあった。
   - [2012年](../Page/2012年.md "wikilink")6月9日に千葉LOOK、23日に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で25周年記念ライブを行う。また、7年ぶりにフルアルバム『アルキネマ』をリリースした。
-  - [2016年](../Page/2016年.md "wikilink")12月19日、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")のラジオ番組『Are You Ready To Rock』に大木と佐藤が出演した際、[2017年](../Page/2017年.md "wikilink")6月9日に[日本武道館](../Page/日本武道館.md "wikilink")にて30周年記念ライブを行うことを発表した。
+  - [2016年](../Page/2016年.md "wikilink")12月19日、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")のラジオ番組『Are You Ready To Rock』に大木と佐藤が出演した際、[2017年](../Page/2017年.md "wikilink")6月9日に[日本武道館](../Page/日本武道館.md "wikilink")にて30周年記念ライブを行うことを発表した。
   - [2017年](../Page/2017年.md "wikilink")[フジテレビオンデマンド](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")『[PARK](https://ja.wikipedia.org/wiki/PARK_\(FOD番組\) "wikilink")』配信予定。
 
 ## ディスコグラフィー
@@ -437,7 +437,7 @@ KSCL-613</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年11月08日</p></td>
-<td><p><strong>ハンマーソングス〜<a href="https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS" title="wikilink">SPEEDSTAR RECORDS</a> 15th ANNIV.COMPILATION〜</strong></p></td>
+<td><p><strong>ハンマーソングス〜<a href="../Page/SPEEDSTAR_RECORDS.md" title="wikilink">SPEEDSTAR RECORDS</a> 15th ANNIV.COMPILATION〜</strong></p></td>
 <td><p>VICL-62570</p></td>
 <td><p>「クズんなってGO」収録</p></td>
 </tr>
@@ -445,7 +445,7 @@ KSCL-613</p></td>
 <td><p>2008年9月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Sirius〜Tribute_to_UEDA_GEN〜" title="wikilink">Sirius〜Tribute to UEDA GEN〜</a></strong></p></td>
 <td><p>VICL-62999</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上田現" title="wikilink">上田現</a>のトリビュートアルバム。<a href="https://ja.wikipedia.org/wiki/TOMOVSKY" title="wikilink">TOMOVSKY</a>と共に「ドライブ」をカバー。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上田現" title="wikilink">上田現</a>のトリビュートアルバム。<a href="../Page/TOMOVSKY.md" title="wikilink">TOMOVSKY</a>と共に「ドライブ」をカバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年09月08日</p></td>
@@ -469,7 +469,7 @@ KSCL-613</p></td>
 <td><p>2014年10月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/I_LOVE_FC_MORE_THAN_EVER" title="wikilink">I LOVE FC MORE THAN EVER</a></strong></p></td>
 <td><p>AICL-2751</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>のトリビュートアルバム。TOMOVSKYと共に「煮込んでロック」をカバー。</p></td>
+<td><p><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>のトリビュートアルバム。TOMOVSKYと共に「煮込んでロック」をカバー。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -622,7 +622,7 @@ KSCL-613</p></td>
   - 2003年09月15日 - RADIO BERRY ベリテンライブ2003
   - 2004年08月26日 - [ロックロックこんにちは\!](https://ja.wikipedia.org/wiki/ロックロックこんにちは! "wikilink") Version8 他動発散 聴動開心
   - 2004年10月09日 - GOING TO ARABAKI ROCK FEST.2005 荒吐宵祭
-  - 2004年12月30日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 04/05
+  - 2004年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
   - 2005年04月29日 - ARABAKI ROCK FEST.04292005
   - 2005年08月07日 - ROCK IN JAPAN FESTIVAL 2005
   - 2005年08月20日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2005 in EZO
@@ -635,7 +635,7 @@ KSCL-613</p></td>
   - 2006年08月13日 - [OTODAMA](https://ja.wikipedia.org/wiki/OTODAMA_音泉魂 "wikilink")'06 〜音泉魂〜
   - 2006年12月29日 - COUNTDOWN JAPAN 06/07
   - 2007年03月24日・25日 - [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink") presents デリバリー ブラッサム"熱血\!九州便"
-  - 2007年04月22日 - [THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")「KYO-MEI対バンツアー」〜共に鳴らす夜〜
+  - 2007年04月22日 - [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")「KYO-MEI対バンツアー」〜共に鳴らす夜〜
   - 2007年04月29日 - ARABAKI ROCK FEST.07
   - 2007年08月05日 - ROCK IN JAPAN FESTIVAL 2007
   - 2007年08月25日 - OTODAMA'07 〜音泉魂〜
@@ -643,7 +643,7 @@ KSCL-613</p></td>
   - 2007年12月28日 - COUNTDOWN JAPAN 07/08
   - 2008年04月19日 - 怒髪天 トーキョーブラッサムスペシャル"男盛ノ花盛 in 野音"
   - 2008年04月26日 - ARABAKI ROCK FEST.08
-  - 2009年03月14日 - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")×ピーズ ヨサホイツアー
+  - 2009年03月14日 - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")×ピーズ ヨサホイツアー
   - 2009年04月19日 - CAPITAL RADIO'09 〜DAY2〜
   - 2009年04月26日 - ARABAKI ROCK FEST.09
   - 2009年05月05日 - 想う壺音泉\! 〜OTODAMA'09 掛け湯編〜
@@ -655,7 +655,7 @@ KSCL-613</p></td>
   - 2010年06月20日 - CAPITAL RADIO '10 in OSAKA
   - 2010年08月13日 - RISING SUN ROCK FESTIVAL 2010 in EZO
   - 2010年09月04日 - OTODAMA'10 〜音泉魂〜
-  - 2010年09月25日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 長田大行進曲
+  - 2010年09月25日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 長田大行進曲
   - 2010年09月27日〜10月10日 - [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink") presents "[Born in The '60s Tour](https://ja.wikipedia.org/wiki/Born_in_The_'60s "wikilink")"
   - 2010年12月27日 - SPC presents 〜bootleg theater vol.4〜Friends Forever
   - 2010年12月29日 - COUNTDOWN JAPAN 10/11
@@ -708,9 +708,9 @@ KSCL-613</p></td>
 
 ## その他
 
-[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")の[峯田和伸](../Page/峯田和伸.md "wikilink")や[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")の山口隆などのミュージシャンが、彼らに影響を受けたと公言している。また、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の[トータス松本](../Page/トータス松本.md "wikilink")は「俺は一時期、はる(Ba＆Vo大木温之)になりたかった」とインタビューで語っている。その他、芸能界では[千秋や](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）がピーズ好きであり、シングル「底なし」は田村の希望によって、彼がロンドンブーツ1号2号として司会を務めるバラエティ番組『[あなあきロンドンブーツ](https://ja.wikipedia.org/wiki/あなあきロンドンブーツ "wikilink")』のタイアップとなったというエピソードがある。
+[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")の[峯田和伸](../Page/峯田和伸.md "wikilink")や[サンボマスター](../Page/サンボマスター.md "wikilink")の山口隆などのミュージシャンが、彼らに影響を受けたと公言している。また、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の[トータス松本](../Page/トータス松本.md "wikilink")は「俺は一時期、はる(Ba＆Vo大木温之)になりたかった」とインタビューで語っている。その他、芸能界では[千秋や](../Page/千秋_\(タレント\).md "wikilink")[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）がピーズ好きであり、シングル「底なし」は田村の希望によって、彼がロンドンブーツ1号2号として司会を務めるバラエティ番組『[あなあきロンドンブーツ](https://ja.wikipedia.org/wiki/あなあきロンドンブーツ "wikilink")』のタイアップとなったというエピソードがある。
 
-文学界では芥川賞作家の[絲山秋子](https://ja.wikipedia.org/wiki/絲山秋子 "wikilink")が、自身の作品『逃亡くそたわけ』の中で歌詞を引用した。この作品は映画化され、作中で「日が暮れても彼女と歩いてた」をはじめとするピーズの曲が挿入歌として使用された。
+文学界では芥川賞作家の[絲山秋子](../Page/絲山秋子.md "wikilink")が、自身の作品『逃亡くそたわけ』の中で歌詞を引用した。この作品は映画化され、作中で「日が暮れても彼女と歩いてた」をはじめとするピーズの曲が挿入歌として使用された。
 
 小説家の[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")と映画監督の[山下敦弘](../Page/山下敦弘.md "wikilink")が、それぞれTheピーズの「実験4号」を下にした短編小説、映画を箱入り仕様で講談社から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発売している。
 

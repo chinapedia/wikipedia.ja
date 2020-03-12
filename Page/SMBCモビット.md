@@ -1,15 +1,15 @@
 > この記事は[SMBC](https://ja.wikipedia.org/wiki/SMBC)から翻訳されています。
 
 
-**株式会社SMBCモビット**（SMBC Mobit Co., LTD.）は、日本の[銀行系消費者金融会社である](https://ja.wikipedia.org/wiki/消費者金融#銀行系消費者金融 "wikilink")。社名のモビットは“Mobile”“Money”のMoと、データ単位のBit（[ビット](../Page/ビット.md "wikilink")）という[情報化社会](https://ja.wikipedia.org/wiki/情報化社会 "wikilink")にちなんだ語句を合わせた造語である。
+**株式会社SMBCモビット**（SMBC Mobit Co., LTD.）は、日本の[銀行系消費者金融会社である](https://ja.wikipedia.org/wiki/消費者金融#銀行系消費者金融 "wikilink")。社名のモビットは“Mobile”“Money”のMoと、データ単位のBit（[ビット](../Page/ビット.md "wikilink")）という[情報化社会](../Page/情報化社会.md "wikilink")にちなんだ語句を合わせた造語である。
 
 ## 概説
 
-[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[三和銀行](../Page/三和銀行.md "wikilink")（[UFJ銀行](../Page/UFJ銀行.md "wikilink")を経て、現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）が中心になり、同行とその融資系列であった消費者金融専業のプロミス（現：[SMBCコンシューマーファイナンス](https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス "wikilink")）と信販の[アプラス](https://ja.wikipedia.org/wiki/アプラス "wikilink")（現：[アプラスフィナンシャル](https://ja.wikipedia.org/wiki/アプラスフィナンシャル "wikilink")）との共同出資で設立し、同年9月18日に営業を開始した企業である。都市銀行（メガバンク）が設立に関与した『消費者金融（一時期*パーソナルローン*と呼称していた）会社』としては、[さくら銀行](../Page/さくら銀行.md "wikilink")系のさくらローンパートナー（後の[アットローン](../Page/アットローン.md "wikilink")）に次ぐものであった。
+[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[三和銀行](../Page/三和銀行.md "wikilink")（[UFJ銀行](../Page/UFJ銀行.md "wikilink")を経て、現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）が中心になり、同行とその融資系列であった消費者金融専業のプロミス（現：[SMBCコンシューマーファイナンス](../Page/SMBCコンシューマーファイナンス.md "wikilink")）と信販の[アプラス](https://ja.wikipedia.org/wiki/アプラス "wikilink")（現：[アプラスフィナンシャル](../Page/アプラスフィナンシャル.md "wikilink")）との共同出資で設立し、同年9月18日に営業を開始した企業である。都市銀行（メガバンク）が設立に関与した『消費者金融（一時期*パーソナルローン*と呼称していた）会社』としては、[さくら銀行](../Page/さくら銀行.md "wikilink")系のさくらローンパートナー（後の[アットローン](../Page/アットローン.md "wikilink")）に次ぐものであった。
 
-アプラスの資本撤退（UFJグループ離脱）を経て、[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")にプロミスの株式を[三井住友銀行](../Page/三井住友銀行.md "wikilink")が電撃的に取得して同行の[持分法](https://ja.wikipedia.org/wiki/持分法 "wikilink")適用関連会社（現在は[三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/三井住友フィナンシャルグループ "wikilink")の完全子会社）となった為、モビットは、[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ "wikilink")（MUFG）に属するものの三井住友フィナンシャルグループ（SMFG）が間接的に出資する実質[合弁](https://ja.wikipedia.org/wiki/合弁 "wikilink")出資という状況となった（間接所有分を含めると、MUFGとSMFGは50%ずつの所有割合だった）。なお、その反映として三菱東京UFJ銀行に併設されていた無人契約機「すぐモビ」の看板には「三菱東京UFJ銀行系」と書かれていた。またその塗装もMUFGのコーポレートカラーである赤色と灰色で塗装されている。テレビコマーシャルでも「三菱東京UFJ銀行系」と宣伝していた。
+アプラスの資本撤退（UFJグループ離脱）を経て、[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")にプロミスの株式を[三井住友銀行](../Page/三井住友銀行.md "wikilink")が電撃的に取得して同行の[持分法](../Page/持分法.md "wikilink")適用関連会社（現在は[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")の完全子会社）となった為、モビットは、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")（MUFG）に属するものの三井住友フィナンシャルグループ（SMFG）が間接的に出資する実質[合弁](https://ja.wikipedia.org/wiki/合弁 "wikilink")出資という状況となった（間接所有分を含めると、MUFGとSMFGは50%ずつの所有割合だった）。なお、その反映として三菱東京UFJ銀行に併設されていた無人契約機「すぐモビ」の看板には「三菱東京UFJ銀行系」と書かれていた。またその塗装もMUFGのコーポレートカラーである赤色と灰色で塗装されている。テレビコマーシャルでも「三菱東京UFJ銀行系」と宣伝していた。
 
-同業他社として、SMFGでは前述の[アットローン](../Page/アットローン.md "wikilink")が2000年より、MUFGではUFJ寄りのモビットとは別に旧[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")傘下の銀行と系列ノンバンクの出資による「[DCキャッシュワン](https://ja.wikipedia.org/wiki/DCキャッシュワン "wikilink")/東京三菱キャッシュワン」が2002年より、個人向け無担保ローン事業を[貸金業者](https://ja.wikipedia.org/wiki/貸金業者 "wikilink")として行ってきた。これらは当初より[利息制限法](https://ja.wikipedia.org/wiki/利息制限法 "wikilink")の範囲内での貸付利率であったが、収益低迷によりDCキャッシュワンは系列のアコムに[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")されて同社の「キャッシュワン」となり、アットローンについても2011年にプロミスへ吸収合併された。
+同業他社として、SMFGでは前述の[アットローン](../Page/アットローン.md "wikilink")が2000年より、MUFGではUFJ寄りのモビットとは別に旧[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")傘下の銀行と系列ノンバンクの出資による「[DCキャッシュワン](../Page/DCキャッシュワン.md "wikilink")/東京三菱キャッシュワン」が2002年より、個人向け無担保ローン事業を[貸金業者](https://ja.wikipedia.org/wiki/貸金業者 "wikilink")として行ってきた。これらは当初より[利息制限法](../Page/利息制限法.md "wikilink")の範囲内での貸付利率であったが、収益低迷によりDCキャッシュワンは系列のアコムに[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")されて同社の「キャッシュワン」となり、アットローンについても2011年にプロミスへ吸収合併された。
 
 2012年9月27日に、MUFGおよびSMBCコンシューマーファイナンスの双方から「株式会社モビットにおける合弁解消について」のニュースリリースを発表した。2013年度中に会社分割を行い、モビットの中核事業である個人向け無担保ローン事業はSMBCが引き継ぎ（後述の「保証業務」を[吸収分割](https://ja.wikipedia.org/wiki/吸収分割 "wikilink")した後のモビットの全株式をSMBC側が保有することにより、モビットの企業自体を承継する）、地方銀行が無担保ローンを融資する際に、代理審査する「保証業務」はMUFGが継承する。MUFGは、その事業の受け皿として、アコムと合弁で新会社を設立するとした\[1\]\[2\]\[3\]。最終的に2014年3月1日付で、保証業務をMUFGとアコムが新たに設立した「エム・ユー信用保証株式会社」に承継した\[4\]。同時に分割後のモビットの株式をMUFGがSMBCに譲渡し、これで名実ともにモビットはSMBC傘下となった。
 
@@ -48,9 +48,9 @@
 
 ## 提供番組
 
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）※同業の[アイフル](https://ja.wikipedia.org/wiki/アイフル "wikilink")、[アコム](../Page/アコム.md "wikilink")も提供。
+  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）※同業の[アイフル](../Page/アイフル.md "wikilink")、[アコム](../Page/アコム.md "wikilink")も提供。
   - [陸海空 こんなところでヤバイバル](https://ja.wikipedia.org/wiki/陸海空_こんなところでヤバイバル "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）
-  - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※同業のアイフル、アコム、[プロミス](https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス "wikilink")、[レイクALSAも提供](https://ja.wikipedia.org/wiki/新生フィナンシャル "wikilink")。
+  - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※同業のアイフル、アコム、[プロミス](../Page/SMBCコンシューマーファイナンス.md "wikilink")、[レイクALSAも提供](../Page/新生フィナンシャル.md "wikilink")。
 
 ## 銀行ローン保証業務
 

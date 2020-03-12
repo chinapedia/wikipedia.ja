@@ -1,7 +1,7 @@
 > この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
 
 
-**スタジオYOU**は、[ユウメディア](https://ja.wikipedia.org/wiki/ユウメディア "wikilink")が主催する[同人誌即売会](../Page/同人誌即売会.md "wikilink")事業のブランド名。全国各地で即売会を開催している。
+**スタジオYOU**は、[ユウメディア](../Page/ユウメディア.md "wikilink")が主催する[同人誌即売会](../Page/同人誌即売会.md "wikilink")事業のブランド名。全国各地で即売会を開催している。
 
 ## 概要
 
@@ -17,8 +17,8 @@
   - おでかけライブ - 中小都市で開催される、比較的規模の大きなオールジャンル即売会。
   - オンリーライブ - オンリーイベントの総称。各即売会は、ジャンルに沿った名称が付けられる。
       - 他主催によるオンリーイベントでよくあるカタログの前売り販売は一切行わず、当日販売のみである。
-      - オンリーライブは、社の方針により女性向けのオンリーイベントが多く、男性向けが参加できるようなオンリーイベントは少ない。男性向けのオンリーイベントで開催実績があるのは「[VOCALOID](../Page/VOCALOID.md "wikilink")」「[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")」「[艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink")」「[プリキュアシリーズ](https://ja.wikipedia.org/wiki/プリキュアシリーズ "wikilink")」「[ラブライブ\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")」などが挙げられる。
-      - 「[けいおん\!](https://ja.wikipedia.org/wiki/けいおん! "wikilink")」「[魔法少女まどか☆マギカ](https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカ "wikilink")」「[〈物語〉シリーズ](https://ja.wikipedia.org/wiki/〈物語〉シリーズ "wikilink")」などのオンリーイベントの開催実績は皆無である。
+      - オンリーライブは、社の方針により女性向けのオンリーイベントが多く、男性向けが参加できるようなオンリーイベントは少ない。男性向けのオンリーイベントで開催実績があるのは「[VOCALOID](../Page/VOCALOID.md "wikilink")」「[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")」「[艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink")」「[プリキュアシリーズ](../Page/プリキュアシリーズ.md "wikilink")」「[ラブライブ\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")」などが挙げられる。
+      - 「[けいおん\!](https://ja.wikipedia.org/wiki/けいおん! "wikilink")」「[魔法少女まどか☆マギカ](https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカ "wikilink")」「[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")」などのオンリーイベントの開催実績は皆無である。
 
 なお、おでかけライブの規模の即売会に「○○コミケ」という名称のものがあるが、コミックマーケット準備会が運営にかかわっているわけではない。これは、[コミックマーケット](../Page/コミックマーケット.md "wikilink")が同名称の商標を取得する以前に付けられたもので、取得後も継続して使用されているもの。
 
@@ -33,15 +33,15 @@
 
 ### コミックライブ
 
-  - 静岡（[ツインメッセ静岡](https://ja.wikipedia.org/wiki/静岡産業支援センター "wikilink")）
-  - 名古屋（[ポートメッセなごや](https://ja.wikipedia.org/wiki/名古屋市国際展示場 "wikilink")）
+  - 静岡（[ツインメッセ静岡](../Page/静岡産業支援センター.md "wikilink")）
+  - 名古屋（[ポートメッセなごや](../Page/名古屋市国際展示場.md "wikilink")）
   - 小倉（[西日本総合展示場](https://ja.wikipedia.org/wiki/西日本総合展示場 "wikilink")\[本館・新館\]）
 
 ### おでかけライブ
 
 （北海道エリア）
 
-  - 札幌（[つどーむ](https://ja.wikipedia.org/wiki/札幌コミュニティドーム "wikilink")・**札幌コンベンションセンター**）
+  - 札幌（[つどーむ](../Page/札幌コミュニティドーム.md "wikilink")・**札幌コンベンションセンター**）
   - 釧路（[釧路観光国際交流センター](https://ja.wikipedia.org/wiki/釧路観光国際交流センター "wikilink")）
   - 旭川
 
@@ -56,8 +56,8 @@
 
   - 沼津（[キラメッセ沼津](https://ja.wikipedia.org/wiki/キラメッセ沼津 "wikilink")）
   - 富士（[ふじサンメッセ](https://ja.wikipedia.org/wiki/ふじサンメッセ "wikilink")）
-  - 静岡（[ツインメッセ静岡](https://ja.wikipedia.org/wiki/静岡産業支援センター "wikilink")）
-  - 浜松（[アクトシティ浜松](https://ja.wikipedia.org/wiki/アクトシティ浜松 "wikilink")）
+  - 静岡（[ツインメッセ静岡](../Page/静岡産業支援センター.md "wikilink")）
+  - 浜松（[アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")）
   - 岐阜（[岐阜産業会館](../Page/岐阜産業会館.md "wikilink")・[岐阜メモリアルセンター](../Page/岐阜メモリアルセンター.md "wikilink")）
 
 （北陸エリア）
@@ -82,7 +82,7 @@
 
   - 香川（[サンメッセ香川](https://ja.wikipedia.org/wiki/香川県産業交流センター "wikilink")）
   - 松山（[アイテムえひめ](../Page/愛媛国際貿易センター.md "wikilink")）
-  - 高知（[高知市文化プラザかるぽーと](https://ja.wikipedia.org/wiki/高知市文化プラザかるぽーと "wikilink")）
+  - 高知（[高知市文化プラザかるぽーと](../Page/高知市文化プラザかるぽーと.md "wikilink")）
 
 （九州・沖縄エリア）
 
@@ -99,7 +99,7 @@
 
 #### その他の地方
 
-  - [ビッグパレットふくしま](https://ja.wikipedia.org/wiki/ビッグパレットふくしま "wikilink")(福島県) - 福島県の同人誌即売会・コスプレイベント開催団体である「ADV企画」の主催するオールジャンルイベント「THE ADVENTURES project」との同時開催。
+  - [ビッグパレットふくしま](../Page/ビッグパレットふくしま.md "wikilink")(福島県) - 福島県の同人誌即売会・コスプレイベント開催団体である「ADV企画」の主催するオールジャンルイベント「THE ADVENTURES project」との同時開催。
   - [幕張メッセ](../Page/幕張メッセ.md "wikilink")（千葉県） - 千葉県条例の理由により、成人向けの頒布の際には特殊なルールが設けられる\[1\]。
   - [名古屋市中小企業振興会館](../Page/名古屋市中小企業振興会館.md "wikilink")（愛知県）
   - [インテックス大阪](https://ja.wikipedia.org/wiki/インテックス大阪 "wikilink")（大阪府）
@@ -117,7 +117,7 @@
 
 ## 関連項目
 
-  - [ユウメディア](https://ja.wikipedia.org/wiki/ユウメディア "wikilink")
+  - [ユウメディア](../Page/ユウメディア.md "wikilink")
 
 ## 脚注
 

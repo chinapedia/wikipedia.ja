@@ -1,11 +1,11 @@
 > この記事は[SAKIKO\'S CAFE](https://ja.wikipedia.org/wiki/SAKIKO\'S_CAFE)から翻訳されています。
 
 
-『**SAKIKO'S CAFE**』（サキコズ・カフェ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+『**SAKIKO'S CAFE**』（サキコズ・カフェ）は、[2005年](../Page/2005年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 番組内容
 
-当時YBCのアナウンサーだった[長澤紗希子](https://ja.wikipedia.org/wiki/長澤紗希子 "wikilink")がパーソナリティを務めていた番組で、長澤が紹介するおすすめ[映画](../Page/映画.md "wikilink")情報のコーナー、できたて[スイーツの情報コーナー](../Page/菓子.md "wikilink")、[英会話](https://ja.wikipedia.org/wiki/英会話 "wikilink")レッスンのコーナーを中心に構成されていた。
+当時YBCのアナウンサーだった[長澤紗希子](https://ja.wikipedia.org/wiki/長澤紗希子 "wikilink")がパーソナリティを務めていた番組で、長澤が紹介するおすすめ[映画](../Page/映画.md "wikilink")情報のコーナー、できたて[スイーツの情報コーナー](../Page/菓子.md "wikilink")、[英会話](../Page/英会話.md "wikilink")レッスンのコーナーを中心に構成されていた。
 
 ## 放送時間
 

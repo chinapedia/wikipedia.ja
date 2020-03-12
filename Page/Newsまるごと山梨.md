@@ -1,7 +1,7 @@
 > この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
 
 
-『**Newsまるごと山梨**』（ニュースまるごとやまなし）は、[NHK甲府放送局](https://ja.wikipedia.org/wiki/NHK甲府放送局 "wikilink")（[総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）で毎週月曜日 - 金曜日に放送されていた[山梨県](../Page/山梨県.md "wikilink")域の夕方枠ローカル[ニュース番組である](../Page/報道番組.md "wikilink")。前番組『[ニュースフレッシュ山梨](https://ja.wikipedia.org/wiki/ニュースフレッシュ山梨 "wikilink")』に替わって[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に放送を開始した。オープニングの音楽は一時期[ネットワークニュース北海道](https://ja.wikipedia.org/wiki/ネットワークニュース北海道 "wikilink")の初期の音楽を使用していた。なお、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")では当分の間放送されておらず、『[首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")』に差し替えられていた。[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。
+『**Newsまるごと山梨**』（ニュースまるごとやまなし）は、[NHK甲府放送局](../Page/NHK甲府放送局.md "wikilink")（[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）で毎週月曜日 - 金曜日に放送されていた[山梨県](../Page/山梨県.md "wikilink")域の夕方枠ローカル[ニュース番組である](../Page/報道番組.md "wikilink")。前番組『[ニュースフレッシュ山梨](https://ja.wikipedia.org/wiki/ニュースフレッシュ山梨 "wikilink")』に替わって[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に放送を開始した。オープニングの音楽は一時期[ネットワークニュース北海道](https://ja.wikipedia.org/wiki/ネットワークニュース北海道 "wikilink")の初期の音楽を使用していた。なお、[ワンセグ](../Page/ワンセグ.md "wikilink")では当分の間放送されておらず、『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』に差し替えられていた。[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。
 
 ## 放送時間
 
@@ -10,9 +10,9 @@
 ## キャスター
 
   - 2006年度 - 2007年度　[鈴木貴彦](https://ja.wikipedia.org/wiki/鈴木貴彦 "wikilink")、[横田真理子](https://ja.wikipedia.org/wiki/横田真理子 "wikilink")\[1\]
-  - 2008年度 - 2010年度　[鹿島綾乃](https://ja.wikipedia.org/wiki/鹿島綾乃 "wikilink")
-  - 2011年4月 - 2011年12月 [古野晶子](https://ja.wikipedia.org/wiki/古野晶子 "wikilink")、[小林巳記](https://ja.wikipedia.org/wiki/小林巳記 "wikilink")
-  - 2012年1月 - 3月 [泉浩司](https://ja.wikipedia.org/wiki/泉浩司 "wikilink")、小林巳記
+  - 2008年度 - 2010年度　[鹿島綾乃](../Page/鹿島綾乃.md "wikilink")
+  - 2011年4月 - 2011年12月 [古野晶子](../Page/古野晶子.md "wikilink")、[小林巳記](https://ja.wikipedia.org/wiki/小林巳記 "wikilink")
+  - 2012年1月 - 3月 [泉浩司](../Page/泉浩司.md "wikilink")、小林巳記
   - 2012年度 - 2014年度 泉浩司、[小倉実華](https://ja.wikipedia.org/wiki/小倉実華 "wikilink")（不在時には[丹野なな子](https://ja.wikipedia.org/wiki/丹野なな子 "wikilink")）
   - 2015年度 - 2016年6月29日 [斉藤孝信](../Page/斉藤孝信.md "wikilink")、[早川美奈](https://ja.wikipedia.org/wiki/早川美奈 "wikilink")
   - 2016年6月30日 - 2017年3月31日 [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")、[濱本梨沙](https://ja.wikipedia.org/wiki/濱本梨沙 "wikilink")

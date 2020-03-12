@@ -1,13 +1,13 @@
 > この記事は[Meiji](https://ja.wikipedia.org/wiki/Meiji)から翻訳されています。
 
 
-**北海道meiji（明治）カップ**（ほっかいどうめいじカップ）は[日本女子プロゴルフ協会](https://ja.wikipedia.org/wiki/日本女子プロゴルフ協会 "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2017年](../Page/2017年.md "wikilink")からこの大会名称となり、8月第1週に開催されている。[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[北海道新聞](../Page/北海道新聞.md "wikilink")社・[道新スポーツ](../Page/道新スポーツ.md "wikilink")主催、[明治グループ](https://ja.wikipedia.org/wiki/明治_\(企業\) "wikilink")（2010年までは[明治製菓](../Page/明治製菓.md "wikilink")）の特別協賛により行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額9000万円、優勝賞金1620万円\[1\]。
+**北海道meiji（明治）カップ**（ほっかいどうめいじカップ）は[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2017年](../Page/2017年.md "wikilink")からこの大会名称となり、8月第1週に開催されている。[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[北海道新聞](../Page/北海道新聞.md "wikilink")社・[道新スポーツ](../Page/道新スポーツ.md "wikilink")主催、[明治グループ](https://ja.wikipedia.org/wiki/明治_\(企業\) "wikilink")（2010年までは[明治製菓](../Page/明治製菓.md "wikilink")）の特別協賛により行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額9000万円、優勝賞金1620万円\[1\]。
 
 ## 概要
 
-この大会のルーツは[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")にスタートした「北海道女子オープン」である\[2\]。その後[1988年](../Page/1988年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")までは[カップ麺](../Page/カップ麺.md "wikilink")や[冷凍食品](../Page/冷凍食品.md "wikilink")製造の[東洋水産](https://ja.wikipedia.org/wiki/東洋水産 "wikilink")がスポンサーとなり、大会の名称も「東洋水産レディス北海道」に改称\[3\]。東洋水産が撤退した後、[2004年](../Page/2004年.md "wikilink")・[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は[山梨県](../Page/山梨県.md "wikilink")に本社を置く[洋菓子](../Page/洋菓子.md "wikilink")メーカー・[シャトレーゼ](https://ja.wikipedia.org/wiki/シャトレーゼ "wikilink")の特別協賛により「シャトレーゼクイーンズカップ」として開催された\[4\]。そして2006年からは明治製菓がスポンサーとなり「meijiチョコレートカップ」として新たなスタートを切り、2011年から現在の大会名となった\[5\]。なお、優勝者には副賞として明治の製品が10年分贈られている\[6\]。2017年度からは北海道のタイトルがつき、「北海道meijiカップ」の名称となる\[7\]。
+この大会のルーツは[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")にスタートした「北海道女子オープン」である\[2\]。その後[1988年](../Page/1988年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")までは[カップ麺](../Page/カップ麺.md "wikilink")や[冷凍食品](../Page/冷凍食品.md "wikilink")製造の[東洋水産](../Page/東洋水産.md "wikilink")がスポンサーとなり、大会の名称も「東洋水産レディス北海道」に改称\[3\]。東洋水産が撤退した後、[2004年](../Page/2004年.md "wikilink")・[2005年](../Page/2005年.md "wikilink")は[山梨県](../Page/山梨県.md "wikilink")に本社を置く[洋菓子](../Page/洋菓子.md "wikilink")メーカー・[シャトレーゼ](../Page/シャトレーゼ.md "wikilink")の特別協賛により「シャトレーゼクイーンズカップ」として開催された\[4\]。そして2006年からは明治製菓がスポンサーとなり「meijiチョコレートカップ」として新たなスタートを切り、2011年から現在の大会名となった\[5\]。なお、優勝者には副賞として明治の製品が10年分贈られている\[6\]。2017年度からは北海道のタイトルがつき、「北海道meijiカップ」の名称となる\[7\]。
 
-開催コースとなる[北広島市](../Page/北広島市.md "wikilink")にある札幌国際カントリークラブ島松コースは、[1975年](../Page/1975年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで男子プロゴルフトーナメント「札幌[とうきゅうオープンゴルフトーナメント](https://ja.wikipedia.org/wiki/東急グループ "wikilink")」が、また[2000年](../Page/2000年.md "wikilink")には同じく男子プロゴルフの「[サン・クロレラクラシック](https://ja.wikipedia.org/wiki/サン・クロレラクラシック "wikilink")」がそれぞれ開催されている\[8\]。
+開催コースとなる[北広島市](../Page/北広島市.md "wikilink")にある札幌国際カントリークラブ島松コースは、[1975年](../Page/1975年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで男子プロゴルフトーナメント「札幌[とうきゅうオープンゴルフトーナメント](https://ja.wikipedia.org/wiki/東急グループ "wikilink")」が、また[2000年](../Page/2000年.md "wikilink")には同じく男子プロゴルフの「[サン・クロレラクラシック](../Page/サン・クロレラクラシック.md "wikilink")」がそれぞれ開催されている\[8\]。
 
 2020年については当該期間に[東京五輪の男女ゴルフ競技が開催されることに伴い休止となり](https://ja.wikipedia.org/wiki/2020年東京オリンピックのゴルフ競技 "wikilink")、2021年に復活する予定\[9\]。
 
@@ -159,14 +159,14 @@
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/肥後かおり" title="wikilink">肥後かおり</a></p></td>
+<td><p><a href="../Page/肥後かおり.md" title="wikilink">肥後かおり</a></p></td>
 <td><p>-12</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大場美智恵" title="wikilink">大場美智恵</a></p></td>
+<td><p><a href="../Page/大場美智恵.md" title="wikilink">大場美智恵</a></p></td>
 <td><p>-6</p></td>
 <td></td>
 <td></td>
@@ -215,7 +215,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/表純子" title="wikilink">表純子</a></p></td>
+<td><p><a href="../Page/表純子.md" title="wikilink">表純子</a></p></td>
 <td><p>-2</p></td>
 <td></td>
 <td></td>
@@ -323,7 +323,7 @@
 
 ## テレビ中継
 
-テレビ中継は主催者の一つである北海道文化放送の制作で放送されている。1日目・2日目は北海道ローカルで\[16\]\[17\]、最終日は[FNS系列](../Page/フジネットワーク.md "wikilink")27局ネット\[18\]で全国放送されている\[19\]。また2018年大会から[BSフジ](../Page/BSフジ.md "wikilink")でも全日程を中継する\[20\]。さらにゴルフ専門チャンネルの[ゴルフネットワーク](https://ja.wikipedia.org/wiki/ゴルフネットワーク "wikilink")でも放送される。
+テレビ中継は主催者の一つである北海道文化放送の制作で放送されている。1日目・2日目は北海道ローカルで\[16\]\[17\]、最終日は[FNS系列](../Page/フジネットワーク.md "wikilink")27局ネット\[18\]で全国放送されている\[19\]。また2018年大会から[BSフジ](../Page/BSフジ.md "wikilink")でも全日程を中継する\[20\]。さらにゴルフ専門チャンネルの[ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")でも放送される。
 
 ## 脚注
 

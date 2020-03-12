@@ -1,11 +1,11 @@
 > この記事は[NO RETURN LOVE](https://ja.wikipedia.org/wiki/NO_RETURN_LOVE)から翻訳されています。
 
 
-**NO RETURN LOVE**（ノー・リターン・ラブ）は[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")の4thシングル。
+**NO RETURN LOVE**（ノー・リターン・ラブ）は[ZYYG](../Page/ZYYG.md "wikilink")の4thシングル。
 
 ## 作品解説
 
-[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")在籍ラストのシングル。[グンゼ](../Page/グンゼ.md "wikilink")「YG」のCMソング。これを機に、バンドとしては、「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」などに出演する機会が増えつつあった。ジャケットは、工場周辺で撮影したものであり、後に、アルバム「[GO-WILD](../Page/GO-WILD.md "wikilink")」でも、ほぼ同じ場所で撮影されている。
+[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")在籍ラストのシングル。[グンゼ](../Page/グンゼ.md "wikilink")「YG」のCMソング。これを機に、バンドとしては、「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」などに出演する機会が増えつつあった。ジャケットは、工場周辺で撮影したものであり、後に、アルバム「[GO-WILD](../Page/GO-WILD.md "wikilink")」でも、ほぼ同じ場所で撮影されている。
 
 ## 収録トラック
 
@@ -21,10 +21,10 @@
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")
-  - [ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")
+  - [B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")
+  - [ZYYG](../Page/ZYYG.md "wikilink")
       - [高山征輝](../Page/高山征輝.md "wikilink")
-      - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+      - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
       - [後藤康二](../Page/後藤康二.md "wikilink")
       - [藤本健一](../Page/藤本健一.md "wikilink")
 

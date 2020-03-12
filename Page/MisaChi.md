@@ -1,9 +1,9 @@
 > この記事は[MisaChi](https://ja.wikipedia.org/wiki/MisaChi)から翻訳されています。
 
 
-**久嶋美さち**（久嶋美さち、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[日南市](https://ja.wikipedia.org/wiki/日南市 "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[宮崎県立日南高等学校](https://ja.wikipedia.org/wiki/宮崎県立日南高等学校 "wikilink")卒業。本名：**久嶋みさち**（きゅうしま みさち）。
+**久嶋美さち**（久嶋美さち、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[日南市](../Page/日南市.md "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[宮崎県立日南高等学校](../Page/宮崎県立日南高等学校.md "wikilink")卒業。本名：**久嶋みさち**（きゅうしま みさち）。
 
-フェイバリットアーティストは、[ジョン・オズボーン](https://ja.wikipedia.org/wiki/ジョン・オズボーン "wikilink")、[ケリー・クラークソン](https://ja.wikipedia.org/wiki/ケリー・クラークソン "wikilink")、[レイ・チャールズ](../Page/レイ・チャールズ.md "wikilink")、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")。鬼束ちひろとは同じ高校の同級生でもある。
+フェイバリットアーティストは、[ジョン・オズボーン](https://ja.wikipedia.org/wiki/ジョン・オズボーン "wikilink")、[ケリー・クラークソン](../Page/ケリー・クラークソン.md "wikilink")、[レイ・チャールズ](../Page/レイ・チャールズ.md "wikilink")、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")。鬼束ちひろとは同じ高校の同級生でもある。
 
 ## 略歴
 
@@ -75,9 +75,9 @@ http://recochoku.jp/kmisachi/
 
 ### シングル
 
-1.  Missing You（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")）
-2.  リタの場合（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")）
-3.  異邦人（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")）
+1.  Missing You（[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")）
+2.  リタの場合（[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")）
+3.  異邦人（[2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")）
 4.  しあわせの鍵(2011年12月1日)
 5.  Shining leaf story (2012年11月11日)
 6.  (新)五木の子守唄 (2013年11月11日)
@@ -86,7 +86,7 @@ http://recochoku.jp/kmisachi/
 
 ### アルバム
 
-1.  Vibrato（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")）
+1.  Vibrato（[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")）
       - 「Feel Like Making Love」：[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系全国ネット](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[発掘\!あるある大事典](../Page/発掘!あるある大事典.md "wikilink")II』エンディングテーマ
 
 ### ミニアルバム
@@ -97,7 +97,7 @@ http://recochoku.jp/kmisachi/
 
 ### 参加作品
 
-  - V.A.『MUSE'』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")）
+  - V.A.『MUSE'』（[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")）
 
 <!-- end list -->
 

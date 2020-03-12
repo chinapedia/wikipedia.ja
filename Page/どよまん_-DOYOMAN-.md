@@ -1,7 +1,7 @@
 > この記事は[ -DOYOMAN-](https://ja.wikipedia.org/wiki/_-DOYOMAN-)から翻訳されています。
 
 
-『**どよまん** *-DOYOMAN-*』は、[テレビユー山形](../Page/テレビユー山形.md "wikilink")制作の[土曜夕方の](../Page/土曜日.md "wikilink")[ローカル生](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にスタート。
+『**どよまん** *-DOYOMAN-*』は、[テレビユー山形](../Page/テレビユー山形.md "wikilink")制作の[土曜夕方の](../Page/土曜日.md "wikilink")[ローカル生](../Page/ローカル番組.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にスタート。
 一時期、番組タイトルを「**どよまんスープレックス**」と改題していたが、その後再改題して開始時のタイトルに戻っている。
 
 ## 概要
@@ -31,7 +31,7 @@
   - [鈴木竜弘](https://ja.wikipedia.org/wiki/鈴木竜弘 "wikilink")（テレビユー山形アナウンサー）
   - [松田明子](https://ja.wikipedia.org/wiki/松田明子_\(アナウンサー\) "wikilink")（当時テレビユー山形アナウンサー）
   - [土屋真紀](https://ja.wikipedia.org/wiki/土屋真紀 "wikilink")（当時テレビユー山形アナウンサー）
-  - [佐々木瞳](https://ja.wikipedia.org/wiki/佐々木瞳 "wikilink")（当時テレビユー山形アナウンサー）
+  - [佐々木瞳](../Page/佐々木瞳.md "wikilink")（当時テレビユー山形アナウンサー）
   - [道広彩香](https://ja.wikipedia.org/wiki/道広彩香 "wikilink")（当時テレビユー山形アナウンサー）
   - [結城晃一郎](https://ja.wikipedia.org/wiki/結城晃一郎 "wikilink")（テレビユー山形アナウンサー、[番組プロデューサー業と兼務](../Page/プロデューサー.md "wikilink")）
   - [渡部有](https://ja.wikipedia.org/wiki/渡部有 "wikilink")（テレビユー山形アナウンサー）

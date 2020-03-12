@@ -3,7 +3,7 @@
 
 **ZIGZO**（ジグゾ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-元[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")、[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のメンバーで結成されたバンド。結成当初のキャッチコピーは『**今世紀([20世紀](../Page/20世紀.md "wikilink"))最後のモンスターバンド**』
+元[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")、[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のメンバーで結成されたバンド。結成当初のキャッチコピーは『**今世紀([20世紀](../Page/20世紀.md "wikilink"))最後のモンスターバンド**』
 
 ## 概要
 
@@ -21,10 +21,10 @@
 
 ## メンバー
 
-  - **[TETSU](https://ja.wikipedia.org/wiki/高野哲 "wikilink")**（[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")）: Vocal\&Guitar、1972年12月12日、B型（[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")→MEGA 8 BALL→[nil](https://ja.wikipedia.org/wiki/nil "wikilink")→ZIGZO→[nil](https://ja.wikipedia.org/wiki/nil "wikilink"), [THE JUNEJULYAUGUST](https://ja.wikipedia.org/wiki/THE_JUNEJULYAUGUST "wikilink"),インディーズ電力,[THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink")、[鉄人](https://ja.wikipedia.org/wiki/鉄人_\(アコースティックユニット\) "wikilink")）
+  - **[TETSU](https://ja.wikipedia.org/wiki/高野哲 "wikilink")**（[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")）: Vocal\&Guitar、1972年12月12日、B型（[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")→MEGA 8 BALL→[nil](https://ja.wikipedia.org/wiki/nil "wikilink")→ZIGZO→[nil](https://ja.wikipedia.org/wiki/nil "wikilink"), [THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"),インディーズ電力,[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")、[鉄人](../Page/鉄人_\(アコースティックユニット\).md "wikilink")）
   - **RYÖ**（岡本竜治）: Guitar、1970年8月14日、O型（[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")→BY-SEX→ZIGZO→test-No., BY-SEX）
   - **DEN**（大西啓之）: Bass、1970年6月10日、O型（[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")→BY-SEX→[machine](https://ja.wikipedia.org/wiki/machine "wikilink")→ZIGZO→test-No., BY-SEX& machine）
-  - **[SAKURA](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")** (櫻澤泰徳): Drums&リーダー、1969年11月20日、A型（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")→ZIGZO→[SONS OF ALL PUSSYS](https://ja.wikipedia.org/wiki/SONS_OF_ALL_PUSSYS "wikilink")→[Lion Heads](https://ja.wikipedia.org/wiki/Lion_Heads "wikilink"), [Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink"), [Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink"), [BY-SEX](../Page/BY-SEXUAL.md "wikilink"), CIRCUIT9, THE MADCAP LAUGHS)
+  - **[SAKURA](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")** (櫻澤泰徳): Drums&リーダー、1969年11月20日、A型（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")→ZIGZO→[SONS OF ALL PUSSYS](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")→[Lion Heads](../Page/Lion_Heads.md "wikilink"), [Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink"), [Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink"), [BY-SEX](../Page/BY-SEXUAL.md "wikilink"), CIRCUIT9, THE MADCAP LAUGHS)
 
 ## ディスコグラフィ
 
@@ -541,7 +541,7 @@ COZP-804～5</p></td>
 | [今井俊彦](https://ja.wikipedia.org/wiki/今井俊彦 "wikilink")   | 「[FOREVER YOUNG](https://www.youtube.com/watch?v=0NQzXw9L7iQ)」「[ひまわり (15th Anniversary 〜New Recording Version)](https://www.youtube.com/watch?v=PMtepbbmnAI)」「[衝動](https://www.youtube.com/watch?v=l3pJtCiS1vA)」 |
 | [斉藤トモヲ](https://ja.wikipedia.org/wiki/斉藤トモヲ "wikilink") | 「WALK」                                                                                                                                                                                                           |
 | [西川修司](https://ja.wikipedia.org/wiki/西川修司 "wikilink")   | 「[I'm in Love](https://www.youtube.com/watch?v=tO4s-1g7b4w)」                                                                                                                                                     |
-| [番場秀一](https://ja.wikipedia.org/wiki/番場秀一 "wikilink")   | 「tonight,I will fall」                                                                                                                                                                                            |
+| [番場秀一](../Page/番場秀一.md "wikilink")                      | 「tonight,I will fall」                                                                                                                                                                                            |
 | 不明                                                      | 「THE WORLD INTRODUCTION」「flow」「splash\!」「ひまわり」「血と汗と涙の裏側のハッピー」                                                                                                                                                    |
 |                                                         |                                                                                                                                                                                                                  |
 
@@ -575,17 +575,17 @@ COZP-804～5</p></td>
 ### 出演イベント
 
   - 1999年08月11日 - LIVE STOCK '99 BOW\!
-  - 1999年08月17日 - [音楽と髭](https://ja.wikipedia.org/wiki/音楽と髭 "wikilink")達 '99
+  - 1999年08月17日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 '99
   - 1999年09月23日 - AIR-G' FM ROCK KIDS presents SAPPORO\! STARTIN
   - 1999年12月30日 - LIVE [DI:GA](https://ja.wikipedia.org/wiki/DI:GA "wikilink") SPECIAL 1999
   - 2001年08月11日 - [FM802](../Page/FM802.md "wikilink") 「ROCK VISION 802」 presents \[ROCK'N DAY\]
   - 2001年08月25日 - MIX LEMONed JELLY
   - 2011年11月20日 - 暗黒秋櫻
-  - 2012年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 12/13
+  - 2012年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 12/13
   - 2013年08月27日 - Hope And Live～HIV/AIDS治療支援ベネフィット・コンサート2013
   - 2013年09月21日 - [中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink") 2013
   - 2013年10月02日 - NACK5 25th Anniversary ～MIDNIGHT ROCK CITY Special Live～
-  - 2014年03月21日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink") LIVE 2014 TOKYO NIGHT CARNIVAL
+  - 2014年03月21日 - [音楽と人](../Page/音楽と人.md "wikilink") LIVE 2014 TOKYO NIGHT CARNIVAL
   - 2014年04月26日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")14
   - 2014年08月06日 - Two Dragons Vol.2
   - 2014年10月04日 - CONNECT 歌舞伎町Music Festival 2014
@@ -596,12 +596,12 @@ COZP-804～5</p></td>
 
   - [nil](https://ja.wikipedia.org/wiki/nil "wikilink")
   - [test-No.](https://ja.wikipedia.org/wiki/test-No. "wikilink")
-  - [SONS OF ALL PUSSYS](https://ja.wikipedia.org/wiki/SONS_OF_ALL_PUSSYS "wikilink")
-  - [Lion Heads](https://ja.wikipedia.org/wiki/Lion_Heads "wikilink")
+  - [SONS OF ALL PUSSYS](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")
+  - [Lion Heads](../Page/Lion_Heads.md "wikilink")
   - [BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")
   - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")
-  - [MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")
-  - [THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink")
+  - [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")
+  - [THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")
 
 ## 外部リンク
 

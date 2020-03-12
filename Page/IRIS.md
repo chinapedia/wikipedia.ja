@@ -11,13 +11,13 @@
 
   - [IRISエンジン](https://ja.wikipedia.org/wiki/IRISエンジン "wikilink") () - 内燃機関の一種。
 
-  - [IRIS-T](https://ja.wikipedia.org/wiki/IRIS-T "wikilink") () - ドイツが主体となって開発した空対空ミサイル。
+  - [IRIS-T](../Page/IRIS-T.md "wikilink") () - ドイツが主体となって開発した空対空ミサイル。
 
   - [国際関係戦略研究所](https://ja.wikipedia.org/wiki/国際関係戦略研究所 "wikilink") () - フランスの研究所。
 
   - \- [SGI社が](../Page/シリコングラフィックス.md "wikilink")1980年代に販売していた3DCG端末/UNIXワークステーションのシリーズ。
 
-  - \- [WHOIS](https://ja.wikipedia.org/wiki/WHOIS "wikilink")の代替、後継として検討されている[CRISPの要求仕様を満たすプロトコル実装方式の](https://ja.wikipedia.org/wiki/:en:Cross_Registry_Information_Service_Protocol "wikilink")1つ。
+  - \- [WHOIS](../Page/WHOIS.md "wikilink")の代替、後継として検討されている[CRISPの要求仕様を満たすプロトコル実装方式の](https://ja.wikipedia.org/wiki/:en:Cross_Registry_Information_Service_Protocol "wikilink")1つ。
 
   - [IRIS-アイリス-](https://ja.wikipedia.org/wiki/IRIS-アイリス- "wikilink") - 韓国のテレビドラマ。
 
@@ -25,10 +25,10 @@
 
   - [IRIS衛星](https://ja.wikipedia.org/wiki/IRIS衛星 "wikilink") () - NASAの太陽観測衛星。
 
-  - [アイリスオーヤマ](https://ja.wikipedia.org/wiki/アイリスオーヤマ "wikilink") - 日本の生活用品メーカー。
+  - [アイリスオーヤマ](../Page/アイリスオーヤマ.md "wikilink") - 日本の生活用品メーカー。
 
 ## 関連項目
 
   - [Iris](https://ja.wikipedia.org/wiki/Iris "wikilink")
-  - [アイリス](https://ja.wikipedia.org/wiki/アイリス "wikilink")
+  - [アイリス](../Page/アイリス.md "wikilink")
   - [イーリス](../Page/イーリス.md "wikilink")

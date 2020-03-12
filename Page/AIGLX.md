@@ -7,7 +7,7 @@
 
 両者ともに3D[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を実現することを念頭に開発されたという経緯があるため、同様の技術として見られることが多いが、実際には全く異なる設計に基づいている。
 
-[Xgl](../Page/Xgl.md "wikilink")は[Xnest](../Page/Xnest.md "wikilink")のように他のXサーバの上で動き、[OpenGL](../Page/OpenGL.md "wikilink")のAPIを通じて可能な限り高速に2D描画および[GLX](../Page/GLX.md "wikilink")の処理を行うよう設計されている新しいXサーバであるが、AIGLXは、あくまでXサーバの拡張モジュールであり、従来からある[GLX](../Page/GLX.md "wikilink")を高速化し、3D[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の実現のために、いくつかの機能要件を満たすよう拡張したものに過ぎない。したがって、技術として競合するものではなく、事実としてプロジェクト間でコードの交換をしたり、互換性を保つような協調作業が行われてきた。その結果、[Xgl](../Page/Xgl.md "wikilink")の最初の[ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")である[Compiz](https://ja.wikipedia.org/wiki/Compiz "wikilink")もAIGLX上で動作するようになった。
+[Xgl](../Page/Xgl.md "wikilink")は[Xnest](../Page/Xnest.md "wikilink")のように他のXサーバの上で動き、[OpenGL](../Page/OpenGL.md "wikilink")のAPIを通じて可能な限り高速に2D描画および[GLX](../Page/GLX.md "wikilink")の処理を行うよう設計されている新しいXサーバであるが、AIGLXは、あくまでXサーバの拡張モジュールであり、従来からある[GLX](../Page/GLX.md "wikilink")を高速化し、3D[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の実現のために、いくつかの機能要件を満たすよう拡張したものに過ぎない。したがって、技術として競合するものではなく、事実としてプロジェクト間でコードの交換をしたり、互換性を保つような協調作業が行われてきた。その結果、[Xgl](../Page/Xgl.md "wikilink")の最初の[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")である[Compiz](../Page/Compiz.md "wikilink")もAIGLX上で動作するようになった。
 
 ## 利用できる環境
 
@@ -15,9 +15,9 @@
 
 ## プロプライエタリなドライバとAIGLX
 
-[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")や[ATI](https://ja.wikipedia.org/wiki/ATI "wikilink")などの[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[ドライバはもともと独自にGLXを高速に描画するためのバックエンドを持っており](../Page/デバイスドライバ.md "wikilink")、すでにXサーバと共にインストールされているGLX拡張モジュールを置き換える形で機能するようになっている。一方、AIGLXは[XFree86](../Page/XFree86.md "wikilink")では[Mesaにより実装されていた](../Page/Mesa_3D.md "wikilink")[GLX](../Page/GLX.md "wikilink")を、より[Mesaの持つグラフィックアクセラレーション機構を活用できるように改良したものである](../Page/Mesa_3D.md "wikilink")。
+[NVIDIA](../Page/NVIDIA.md "wikilink")や[ATI](https://ja.wikipedia.org/wiki/ATI "wikilink")などの[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[ドライバはもともと独自にGLXを高速に描画するためのバックエンドを持っており](../Page/デバイスドライバ.md "wikilink")、すでにXサーバと共にインストールされているGLX拡張モジュールを置き換える形で機能するようになっている。一方、AIGLXは[XFree86](../Page/XFree86.md "wikilink")では[Mesaにより実装されていた](../Page/Mesa_3D.md "wikilink")[GLX](../Page/GLX.md "wikilink")を、より[Mesaの持つグラフィックアクセラレーション機構を活用できるように改良したものである](../Page/Mesa_3D.md "wikilink")。
 
-[Compiz](https://ja.wikipedia.org/wiki/Compiz "wikilink")などの[ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")は視覚効果を実現するのに、texture_from_pixmapと呼ばれるOpenGL拡張に依存している。当初この拡張は[Mesaでしか実装されておらず](../Page/Mesa_3D.md "wikilink")、[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[ドライバと共に](../Page/デバイスドライバ.md "wikilink")3D[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を利用するには、ベンダーの対応を待つ必要があった。NVIDIAは2006年9月にリリースした9000シリーズ以降のドライバでこの拡張に対応している。
+[Compiz](../Page/Compiz.md "wikilink")などの[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")は視覚効果を実現するのに、texture_from_pixmapと呼ばれるOpenGL拡張に依存している。当初この拡張は[Mesaでしか実装されておらず](../Page/Mesa_3D.md "wikilink")、[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[ドライバと共に](../Page/デバイスドライバ.md "wikilink")3D[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を利用するには、ベンダーの対応を待つ必要があった。NVIDIAは2006年9月にリリースした9000シリーズ以降のドライバでこの拡張に対応している。
 
 また、以上のような理由から、AIGLXをサポートしない古いXサーバ上でも、利用するアプリケーションの要求を満たすベンダ製のドライバを使うことで、AIGLXとほぼ同等の環境を実現することができる。
 
@@ -26,7 +26,7 @@
   - [X Window System](../Page/X_Window_System.md "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
   - [Xgl](../Page/Xgl.md "wikilink")
-  - [Compiz](https://ja.wikipedia.org/wiki/Compiz "wikilink")
+  - [Compiz](../Page/Compiz.md "wikilink")
   - [Beryl](../Page/Beryl.md "wikilink")
 
 ## 外部リンク

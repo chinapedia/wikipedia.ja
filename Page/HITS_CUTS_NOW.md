@@ -9,11 +9,11 @@
 
 ## 放送時間・ナビゲーター
 
-| 放送期間                  | 放送時間        | メインナビゲーター（FM NORTH WAVE）                              | サブナビゲーター（CROSS FM）                 |
-| --------------------- | ----------- | ----------------------------------------------------- | ---------------------------------- |
-| 放送開始（1998年1月）〜2000年9月 | 24:00-27:00 | [潮音](https://ja.wikipedia.org/wiki/潮音 "wikilink")     | [YUYA](../Page/YUYA.md "wikilink") |
-| 2000年10月～2001年3月      | 22:00-24:00 | [信川竜太](https://ja.wikipedia.org/wiki/信川竜太 "wikilink") |                                    |
-| 2001年4月～放送終了（2002年3月） | 23:00-25:00 |                                                       |                                    |
+| 放送期間                  | 放送時間        | メインナビゲーター（FM NORTH WAVE）                          | サブナビゲーター（CROSS FM）                 |
+| --------------------- | ----------- | ------------------------------------------------- | ---------------------------------- |
+| 放送開始（1998年1月）〜2000年9月 | 24:00-27:00 | [潮音](https://ja.wikipedia.org/wiki/潮音 "wikilink") | [YUYA](../Page/YUYA.md "wikilink") |
+| 2000年10月～2001年3月      | 22:00-24:00 | [信川竜太](../Page/信川竜太.md "wikilink")                |                                    |
+| 2001年4月～放送終了（2002年3月） | 23:00-25:00 |                                                   |                                    |
 
 ## 主なコーナー
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    2時台にオンエア。NORTH WAVE「[SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")」とCROSS FM「[COUNTDOWN KYUSHU HOT 100](https://ja.wikipedia.org/wiki/COUNTDOWN_KYUSHU_HOT_100 "wikilink")」の中から邦楽チャートTOP10を紹介する。
+    2時台にオンエア。NORTH WAVE「[SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")」とCROSS FM「[COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink")」の中から邦楽チャートTOP10を紹介する。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
 
 <!-- end list -->
 
-  - 他にも週替わりの企画コーナーもあった。また[我那覇美奈](https://ja.wikipedia.org/wiki/我那覇美奈 "wikilink")、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")、[fra-foa](https://ja.wikipedia.org/wiki/fra-foa "wikilink")、[侑璃](https://ja.wikipedia.org/wiki/侑璃 "wikilink")、[SOUL LOVERS](https://ja.wikipedia.org/wiki/SOUL_LOVERS "wikilink")、[COOなどのアーティストがマンスリーで出演していた](../Page/COO_\(歌手\).md "wikilink")。その中には後にNORTH WAVE、CROSS FMで番組をスタートしたアーティストもいる。また、この番組がきっかけでブレイクしたアーティストがいた。
+  - 他にも週替わりの企画コーナーもあった。また[我那覇美奈](../Page/我那覇美奈.md "wikilink")、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")、[fra-foa](https://ja.wikipedia.org/wiki/fra-foa "wikilink")、[侑璃](https://ja.wikipedia.org/wiki/侑璃 "wikilink")、[SOUL LOVERS](https://ja.wikipedia.org/wiki/SOUL_LOVERS "wikilink")、[COOなどのアーティストがマンスリーで出演していた](../Page/COO_\(歌手\).md "wikilink")。その中には後にNORTH WAVE、CROSS FMで番組をスタートしたアーティストもいる。また、この番組がきっかけでブレイクしたアーティストがいた。
 
 ## エピソードなど
 
@@ -86,7 +86,7 @@
   - 一時期[日本ビジネススクール](https://ja.wikipedia.org/wiki/日本ビジネススクール "wikilink")（ノースウェーブのみ?） がスポンサーになっていたことがある。
   - 番組内のBGMに[BOOM BOOM SATELLITESの](../Page/BOOM_BOOM_SATELLITES.md "wikilink")「JOYRIDE」と「DUB ME CRAZY VER.02」が使用されていた。
   - CMにはマンスリーで出演しているアーティストのCDリリースのCMがOAされていた。
-  - [ペニーレーン24](https://ja.wikipedia.org/wiki/ペニーレーン24 "wikilink")でライブイベントが開催されたこともある。これは5週目によく放送されたことが多い。また2000年10月にはアポロスクエアでリニューアルイベントが開催された。この時の出演者は侑璃、[hiro:n](https://ja.wikipedia.org/wiki/hiro:n "wikilink")、[松崎ナオ](../Page/松崎ナオ.md "wikilink")、[葛谷葉子](https://ja.wikipedia.org/wiki/葛谷葉子 "wikilink")。
+  - [ペニーレーン24](https://ja.wikipedia.org/wiki/ペニーレーン24 "wikilink")でライブイベントが開催されたこともある。これは5週目によく放送されたことが多い。また2000年10月にはアポロスクエアでリニューアルイベントが開催された。この時の出演者は侑璃、[hiro:n](https://ja.wikipedia.org/wiki/hiro:n "wikilink")、[松崎ナオ](../Page/松崎ナオ.md "wikilink")、[葛谷葉子](../Page/葛谷葉子.md "wikilink")。
 
 ## 番組終了後
 
@@ -94,7 +94,7 @@
 しかし、2002年7月より2003年3月まで[鈴木しょう治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink")がナビゲーターを務める共同制作番組「**POWER TRAX**」がオンエアされた。（CROSS FMでは毎週金曜日23:00-24:00でオンエア）
 翌2003年4月からは土曜日の夕方に「[TRANS J-NIC online](../Page/TRANS_J-NIC_online.md "wikilink")」がスタート、さらに2004年4月からは同時間帯に[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")ナビゲートの[BEAT DELUXEが放送された](../Page/BEAT_DELUXE.md "wikilink")。
 
-現在は[PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")の番組が1時間枠（毎週土曜日23時～24時）で放送されている。（一時期[村上てつや](https://ja.wikipedia.org/wiki/村上てつや "wikilink")の番組がCROSS FMでも放送されたことがある）
+現在は[PE'Z](../Page/PE'Z.md "wikilink")の番組が1時間枠（毎週土曜日23時～24時）で放送されている。（一時期[村上てつや](../Page/村上てつや.md "wikilink")の番組がCROSS FMでも放送されたことがある）
 
 ## 関連項目
 
@@ -102,7 +102,7 @@
   - [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")
   - [エフエム九州](../Page/エフエム九州.md "wikilink")（番組放送時のCROSS FMの放送母体）
   - [SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")
-  - [COUNTDOWN KYUSHU HOT 100](https://ja.wikipedia.org/wiki/COUNTDOWN_KYUSHU_HOT_100 "wikilink")
+  - [COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink")
   - [TRANS J-NIC online](../Page/TRANS_J-NIC_online.md "wikilink")
   - [BEAT DELUXE](../Page/BEAT_DELUXE.md "wikilink")
 

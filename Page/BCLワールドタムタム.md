@@ -7,17 +7,17 @@
 
 [BCL](../Page/BCL.md "wikilink")専門の情報番組。
 
-当初は声優の[川島千代子](https://ja.wikipedia.org/wiki/川島千代子 "wikilink")がパーソナリティを務め、毎週BCLの専門家（主に『[月刊短波](https://ja.wikipedia.org/wiki/月刊短波 "wikilink")』のライター）を招く方式を採用していた。
+当初は声優の[川島千代子](../Page/川島千代子.md "wikilink")がパーソナリティを務め、毎週BCLの専門家（主に『[月刊短波](../Page/月刊短波.md "wikilink")』のライター）を招く方式を採用していた。
 
 1978年からは芸能界きってのBCL・[無線](../Page/無線.md "wikilink")マニアである[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")がパーソナリティとなり、彼が世界各国の放送について専門家の解説、リスナーからの投稿、そして実際の放送を受信した録音[カセットテープなどを交えながら紹介する内容になった](../Page/コンパクトカセット.md "wikilink")。アシスタントは当時ラジオたんぱのアナウンサーだった[富永陽子](https://ja.wikipedia.org/wiki/富永陽子 "wikilink")が務めていた。
 
-番組の終了後、替わって土曜21:00枠ジェリー・ソーレスがパーソナリティを務める後継番組『[SONYワールドネットワーク](https://ja.wikipedia.org/wiki/SONYワールドネットワーク "wikilink")』がスタートした。
+番組の終了後、替わって土曜21:00枠ジェリー・ソーレスがパーソナリティを務める後継番組『[SONYワールドネットワーク](../Page/SONYワールドネットワーク.md "wikilink")』がスタートした。
 
 ## 脚注
 
 ## 関連項目
 
-  - [ハロージーガム](https://ja.wikipedia.org/wiki/ハロージーガム "wikilink") - 同時期に平日18:15枠で放送。
+  - [ハロージーガム](../Page/ハロージーガム.md "wikilink") - 同時期に平日18:15枠で放送。
   - [BCLスクランブル](https://ja.wikipedia.org/wiki/BCLスクランブル "wikilink") - 上記の後継番組。
 
 [Category:1975年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のラジオ番組_\(日本\) "wikilink") [Category:ラジオNIKKEIの番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの番組 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:ラジオの一社提供番組 "wikilink") [Category:パナソニックグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:パナソニックグループ単独提供番組 "wikilink") [Category:タモリ](https://ja.wikipedia.org/wiki/Category:タモリ "wikilink")

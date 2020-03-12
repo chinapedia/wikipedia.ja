@@ -5,7 +5,7 @@
 
 ## 内容
 
-[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の「[LOVEマシーン](https://ja.wikipedia.org/wiki/LOVEマシーン "wikilink")」でミリオンセラーとなった彼が、シャ乱Qのメンバーでありながらの本格的なソロ活動となった。後に、アルバム『[TAKE1](../Page/TAKE1.md "wikilink")』の冒頭に収録。各曲の演奏時間が異なるが、秒単位では「0」で統一されている。
+[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の「[LOVEマシーン](../Page/LOVEマシーン.md "wikilink")」でミリオンセラーとなった彼が、シャ乱Qのメンバーでありながらの本格的なソロ活動となった。後に、アルバム『[TAKE1](../Page/TAKE1.md "wikilink")』の冒頭に収録。各曲の演奏時間が異なるが、秒単位では「0」で統一されている。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
         作詞･作曲:つんく 編曲:山木隆一郎
 3.  TOUCH ME \#4
       -
-        作詞･作曲:つんく 編曲:[河野伸](https://ja.wikipedia.org/wiki/河野伸 "wikilink")
+        作詞･作曲:つんく 編曲:[河野伸](../Page/河野伸.md "wikilink")
 
 ## 参加ミュージシャン
 

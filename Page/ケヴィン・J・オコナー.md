@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身の[アイルランド系](https://ja.wikipedia.org/wiki/アイルランド系アメリカ人 "wikilink")。シカゴで演劇を学び、[ステッペンウルフ・シアター](https://ja.wikipedia.org/wiki/ステッペンウルフ・シアター "wikilink")の舞台などに立っていた。映画では[スティーヴン・ソマーズ](https://ja.wikipedia.org/wiki/スティーヴン・ソマーズ "wikilink")監督の作品によく出演している。
+[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身の[アイルランド系](../Page/アイルランド系アメリカ人.md "wikilink")。シカゴで演劇を学び、[ステッペンウルフ・シアター](https://ja.wikipedia.org/wiki/ステッペンウルフ・シアター "wikilink")の舞台などに立っていた。映画では[スティーヴン・ソマーズ](../Page/スティーヴン・ソマーズ.md "wikilink")監督の作品によく出演している。
 
 ## 主な出演作品
 
@@ -156,7 +156,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・グリード" title="wikilink">ザ・グリード</a><br />
+<td><p><a href="../Page/ザ・グリード.md" title="wikilink">ザ・グリード</a><br />
 <em>Deep Rising</em></p></td>
 <td><p>ジョーイ・パントゥーチ</p></td>
 <td></td>
@@ -192,7 +192,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァン・ヘルシング_(映画)" title="wikilink">ヴァン・ヘルシング</a><br />
+<td><p><a href="../Page/ヴァン・ヘルシング_(映画).md" title="wikilink">ヴァン・ヘルシング</a><br />
 <em>Van Helsing</em></p></td>
 <td><p>イゴール</p></td>
 <td></td>

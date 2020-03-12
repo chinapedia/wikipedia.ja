@@ -9,7 +9,7 @@
 
 ## 概説
 
-  - 1988年4月、メンバーの地元である[大阪府](../Page/大阪府.md "wikilink")[高槻市](https://ja.wikipedia.org/wiki/高槻市 "wikilink")で結成。
+  - 1988年4月、メンバーの地元である[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")で結成。
   - 1990年2月21日、シングル「SO BAD BOY」でデビュー（当時はメンバー全員未成年）。
   - 1991年、[牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")主演映画「[幕末純情伝](https://ja.wikipedia.org/wiki/幕末純情伝 "wikilink")」（[松竹](../Page/松竹.md "wikilink")）の主題歌を務める。
   - 1995年1月、Vo.SHO脱退。
@@ -23,8 +23,8 @@
 
 ## メンバー
 
-  - **SHO**： Vocal, [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")8月25日、AB型 (BY-SEXUAL→ソロ→引退)
-  - **RYÖ**： Guitar, 1970年8月14日、O型 (BY-SEXUAL→BY-SEX→[ZIGZO](https://ja.wikipedia.org/wiki/ZIGZO "wikilink")→[test-No.](https://ja.wikipedia.org/wiki/test-No. "wikilink")/夷狄)
+  - **SHO**： Vocal, [1970年](../Page/1970年.md "wikilink")8月25日、AB型 (BY-SEXUAL→ソロ→引退)
+  - **RYÖ**： Guitar, 1970年8月14日、O型 (BY-SEXUAL→BY-SEX→[ZIGZO](../Page/ZIGZO.md "wikilink")→[test-No.](https://ja.wikipedia.org/wiki/test-No. "wikilink")/夷狄)
   - **DEN**： Bass, 1970年6月10日、O型 (BY-SEXUAL→BY-SEX→machine→ZIGZO→test-No./[machine](https://ja.wikipedia.org/wiki/machine "wikilink"))
   - **NAO**： Drums, 1970年7月7日、O型 (BY-SEXUAL→BY-SEX→machine→nitro→food→現在[machine](https://ja.wikipedia.org/wiki/machine "wikilink")/[BADUB](https://ja.wikipedia.org/wiki/BADUB "wikilink")/FOOD)
 
@@ -32,12 +32,12 @@
 
   - DENとRYÖは高槻・真上（まがみ）小学校からの同級生。共に、小学3年まで高槻・芥川小学校に通っていた。
   - 2人は中学（高槻第二中）でSHOと出会う。NAOは高校時代、当時出入りしていたスタジオで3人に出会いRYÖからバンドへ誘われる。
-  - DENは[DYNAMITE TOMMY率いる](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")[COLORでローディーをしていた](https://ja.wikipedia.org/wiki/COLOR_\(ロックバンド\) "wikilink")。
+  - DENは[DYNAMITE TOMMY率いる](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")[COLORでローディーをしていた](../Page/COLOR_\(ロックバンド\).md "wikilink")。
   - NAOは4人の中で唯一高校を卒業している。（SHO：2年で中退、DEN：1か月、RYÖ：3日）
   - NAOは、後にその高校を授業中に訪れ一部の生徒が気付いた為パニックになった事がある。
-  - [ダウンタウンとテレビ番組](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら "wikilink")」で共演した後に、関西のラジオ番組で『日本一下手くそなバンド』だと言われていた。これは後に[ZIGZO](https://ja.wikipedia.org/wiki/ZIGZO "wikilink")としてテレビ歌番組「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演したときにもDENとRYOがそのことについてダウンタウンからいじられた。
+  - [ダウンタウンとテレビ番組](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら "wikilink")」で共演した後に、関西のラジオ番組で『日本一下手くそなバンド』だと言われていた。これは後に[ZIGZO](../Page/ZIGZO.md "wikilink")としてテレビ歌番組「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演したときにもDENとRYOがそのことについてダウンタウンからいじられた。
   - デビュー当初は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")から「あの自転車を英語にしたのと似たバンド（バイシクルとバイセクシャルの音が似ている）はヘタ」と酷評されていたが、後に「まあ、あいつらも巧くなったよ」とダウンタウンにトーク番組で語っている。
-  - テレビ番組「[とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink")」内のコント「ロックンロール最高物語」にて、[B21スペシャル](https://ja.wikipedia.org/wiki/B21スペシャル "wikilink")の[ヒロミ](../Page/ヒロミ.md "wikilink")とともに準レギュラーで出演し、BY-SEXUAL21というグループに扮した。
+  - テレビ番組「[とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink")」内のコント「ロックンロール最高物語」にて、[B21スペシャル](../Page/B21スペシャル.md "wikilink")の[ヒロミ](../Page/ヒロミ.md "wikilink")とともに準レギュラーで出演し、BY-SEXUAL21というグループに扮した。
   - SHOは[FEELのマネージャーをしていたが](https://ja.wikipedia.org/wiki/FEEL_\(音楽ユニット\) "wikilink")、後に音楽界から引退した。
   - 2012年5月にSHOがDEN個人ウェブサイトにて、チャリティライブ後の義援金報告とファンに向けてメッセージを発表。
 
@@ -251,13 +251,13 @@
         3曲入りビデオクリップ集
   - FILM BY-SEXUAL 2 〜LIVE IN SHIBUYA KOKAIDO〜 （1991年1月1日　PCVP-10433）
       -
-        1990年9月29日 Sexuality Tour [渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でのライブを収録
+        1990年9月29日 Sexuality Tour [渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブを収録
   - FILM BY-SEXUAL 3 （1991年11月21日　PCVP-50671）
       -
         4曲入りビデオクリップ集
   - FILM BY-SEXUAL 4 〜Cracker Shop 24h〜 （1992年4月1日　PCVP-50792）
       -
-        1992年1月12日 Cracker Shop 24Hours Tour [NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")でのライブを収録
+        1992年1月12日 Cracker Shop 24Hours Tour [NHKホール](../Page/NHKホール.md "wikilink")でのライブを収録
   - FILM BY-SEXUAL 5 （1994年4月28日　PCVP-51428）
       -
         4曲入りビデオクリップ集
@@ -293,7 +293,7 @@
 
   - オムニバスライブアルバム「STRAWBERRY ROAD VOL.1」（1995年7月26日　CRCR-1002）
   - オムニバスライブVHS「STRAWBERRY ROAD VOL.1 LIVE」（1995年10月21日　CRVR-1001）
-  - ソロシングル「LET IT GO」（1995年11月22日　CRCR-1006） - SHO引退記念シングル。[YOSHIKI](../Page/YOSHIKI.md "wikilink")、DEN、NAO、RYO、[DYNAMITE TOMMYからのメッセージが書かれている](https://ja.wikipedia.org/wiki/ダイナマイト・トミー "wikilink")。
+  - ソロシングル「LET IT GO」（1995年11月22日　CRCR-1006） - SHO引退記念シングル。[YOSHIKI](../Page/YOSHIKI.md "wikilink")、DEN、NAO、RYO、[DYNAMITE TOMMYからのメッセージが書かれている](../Page/ダイナマイト・トミー.md "wikilink")。
 
 <!-- end list -->
 
@@ -317,7 +317,7 @@
 
 <!-- end list -->
 
-  - FAVORITES 辻砂織写真集（1993年7月） BY-SEXUALなど複数のアーティストを収録。RYOと[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）が表紙。
+  - FAVORITES 辻砂織写真集（1993年7月） BY-SEXUALなど複数のアーティストを収録。RYOと[INORAN](../Page/INORAN.md "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）が表紙。
 
 ## ラジオ
 
@@ -325,7 +325,7 @@
 
 ## 映画
 
-  - [attitude](https://ja.wikipedia.org/wiki/attitude_\(映画\) "wikilink")（2008年公開　[DYNAMITE TOMMY監督](https://ja.wikipedia.org/wiki/ダイナマイト・トミー "wikilink")）
+  - [attitude](https://ja.wikipedia.org/wiki/attitude_\(映画\) "wikilink")（2008年公開　[DYNAMITE TOMMY監督](../Page/ダイナマイト・トミー.md "wikilink")）
 
 <!-- end list -->
 
@@ -338,7 +338,7 @@
 
   - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")
   - [フリーウィル](../Page/フリーウィル.md "wikilink")
-  - [ZIGZO](https://ja.wikipedia.org/wiki/ZIGZO "wikilink")
+  - [ZIGZO](../Page/ZIGZO.md "wikilink")
   - [machine](https://ja.wikipedia.org/wiki/machine "wikilink")
 
 ## 外部リンク

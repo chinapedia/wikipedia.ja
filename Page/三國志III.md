@@ -1,15 +1,15 @@
 > この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
 
 
-『**三國志III**』（さんごくし・スリー）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](https://ja.wikipedia.org/wiki/三國志シリーズ "wikilink")」の第3作。パソコン版で発売された後、さまざまな[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")に移植された。音楽は前作に引き続き[向谷実](../Page/向谷実.md "wikilink")が担当している。
+『**三國志III**』（さんごくし・スリー）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第3作。パソコン版で発売された後、さまざまな[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")に移植された。音楽は前作に引き続き[向谷実](../Page/向谷実.md "wikilink")が担当している。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された『[三國志DS](https://ja.wikipedia.org/wiki/三國志DS "wikilink")』や[2015年](../Page/2015年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に発売された『[三國志2（3DS版）](https://ja.wikipedia.org/wiki/三國志DS#三國志2（3DS版） "wikilink")』は、本作がベースとなって製作されている。
+[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された『[三國志DS](../Page/三國志DS.md "wikilink")』や[2015年](../Page/2015年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に発売された『[三國志2（3DS版）](https://ja.wikipedia.org/wiki/三國志DS#三國志2（3DS版） "wikilink")』は、本作がベースとなって製作されている。
 
 ## 概要
 
-前作までと違い、国の支配から都市の支配に目的が変更になった。古代[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の主要な都市をすべて支配すればゲームのクリア条件は達成される。最大8人までマルチプレイ可能で、前作までは一部の君主はプレイヤーが選べなかったが、本作から全ての君主をプレイヤーが選べるようになった。
+前作までと違い、国の支配から都市の支配に目的が変更になった。古代[中国](../Page/中国.md "wikilink")の主要な都市をすべて支配すればゲームのクリア条件は達成される。最大8人までマルチプレイ可能で、前作までは一部の君主はプレイヤーが選べなかったが、本作から全ての君主をプレイヤーが選べるようになった。
 
-家臣にした武将に身分を決定できるようになり、武将の能力値も「知力」「政治」「武力」「陸指」「水指」など細分化されている。[諸葛亮](../Page/諸葛亮.md "wikilink")死後のシナリオが初登場したことにより、登場武将数は前作よりも大幅に増加した531人（イベントで武将として登場する[貂蝉](https://ja.wikipedia.org/wiki/貂蝉 "wikilink")を含めると532人）となった。ただし、孔明死後の人物はまだまだ少なく、最後のシナリオは手早く統一を進めないと、武将数が不足するためゲームオーバーになることもある（『三國志DS』では武将の追加により解消されている）。また、本ゲームで最後に登場する[司馬炎](../Page/司馬炎.md "wikilink")は登場武将数制限の影響を最も受けやすく「幻の武将」と呼ばれていた。前作に引き続き新君主と配下の新武将も登場させる事ができるが、本作からゲーム開始前に君主・武将を登録し、初期設定で登場の是非を選択するよう変更され、後のシリーズのスタンダードとなった。
+家臣にした武将に身分を決定できるようになり、武将の能力値も「知力」「政治」「武力」「陸指」「水指」など細分化されている。[諸葛亮](../Page/諸葛亮.md "wikilink")死後のシナリオが初登場したことにより、登場武将数は前作よりも大幅に増加した531人（イベントで武将として登場する[貂蝉](../Page/貂蝉.md "wikilink")を含めると532人）となった。ただし、孔明死後の人物はまだまだ少なく、最後のシナリオは手早く統一を進めないと、武将数が不足するためゲームオーバーになることもある（『三國志DS』では武将の追加により解消されている）。また、本ゲームで最後に登場する[司馬炎](../Page/司馬炎.md "wikilink")は登場武将数制限の影響を最も受けやすく「幻の武将」と呼ばれていた。前作に引き続き新君主と配下の新武将も登場させる事ができるが、本作からゲーム開始前に君主・武将を登録し、初期設定で登場の是非を選択するよう変更され、後のシリーズのスタンダードとなった。
 
 戦略フェイズでは出せる命令が細分化（軍事では「徴兵」「募兵」「訓練」「戦争準備」、内政では「開発」「耕作」「治水」（灌漑含む））されるとともに、身分に応じて実行できるコマンドの種類や期間が細かく分かれている。内政や人事などのコマンドの成果は、決定した期間が終了した時に報告され明らかになる。
 
@@ -38,10 +38,10 @@
 
 1.  [霊帝没し](../Page/霊帝_\(漢\).md "wikilink")[董卓](../Page/董卓.md "wikilink")の暴政極まる（反董卓連合軍の結成） [189年](../Page/189年.md "wikilink")
 2.  天下乱れ群雄全土に割拠す（群雄割拠、乱世再び） [194年](https://ja.wikipedia.org/wiki/194年 "wikilink")
-3.  [劉備](../Page/劉備.md "wikilink")雌伏し、[新野に借城す](https://ja.wikipedia.org/wiki/新野県 "wikilink")（[曹孟徳](../Page/曹操.md "wikilink")、覇道を往く） [201年](https://ja.wikipedia.org/wiki/201年 "wikilink")
+3.  [劉備](../Page/劉備.md "wikilink")雌伏し、[新野に借城す](../Page/新野県.md "wikilink")（[曹孟徳](../Page/曹操.md "wikilink")、覇道を往く） [201年](https://ja.wikipedia.org/wiki/201年 "wikilink")
 4.  臥龍[中原](https://ja.wikipedia.org/wiki/中原 "wikilink")に舞い天下を望む（知謀の人、[諸葛孔明](../Page/諸葛亮.md "wikilink")） [208年](https://ja.wikipedia.org/wiki/208年 "wikilink")
-5.  [孫権](../Page/孫権.md "wikilink")独立し[三国の鼎立成る](https://ja.wikipedia.org/wiki/三国時代_\(中国\) "wikilink")（劉玄徳、[蜀](https://ja.wikipedia.org/wiki/蜀 "wikilink")漢を建国） [221年](https://ja.wikipedia.org/wiki/221年 "wikilink")
-6.  [姜維](https://ja.wikipedia.org/wiki/姜維 "wikilink")、亡き孔明の志を継ぐ（三国鼎立崩壊の予兆） [235年](https://ja.wikipedia.org/wiki/235年 "wikilink")
+5.  [孫権](../Page/孫権.md "wikilink")独立し[三国の鼎立成る](../Page/三国時代_\(中国\).md "wikilink")（劉玄徳、[蜀](https://ja.wikipedia.org/wiki/蜀 "wikilink")漢を建国） [221年](https://ja.wikipedia.org/wiki/221年 "wikilink")
+6.  [姜維](../Page/姜維.md "wikilink")、亡き孔明の志を継ぐ（三国鼎立崩壊の予兆） [235年](https://ja.wikipedia.org/wiki/235年 "wikilink")
 
 （）内はSFC、MD、[MCD](../Page/メガCD.md "wikilink")、[PCE版のタイトル](https://ja.wikipedia.org/wiki/SUPER_CD-ROM² "wikilink")。
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - MCD、PCE、DS版のみ存在。（）内はMCD、PCE版のタイトル。黄巾の乱を題材にしたシナリオだが、MCD、PCE版は肝心の[張角](../Page/張角.md "wikilink")一党が存在しない（乱鎮圧に当たった[何進](https://ja.wikipedia.org/wiki/何進 "wikilink")は君主に追加されている）。DS版では張角の他、[丁原](https://ja.wikipedia.org/wiki/丁原 "wikilink")、[士燮が君主として追加されている](https://ja.wikipedia.org/wiki/士燮_\(交阯太守\) "wikilink")。
+  - MCD、PCE、DS版のみ存在。（）内はMCD、PCE版のタイトル。黄巾の乱を題材にしたシナリオだが、MCD、PCE版は肝心の[張角](../Page/張角.md "wikilink")一党が存在しない（乱鎮圧に当たった[何進](../Page/何進.md "wikilink")は君主に追加されている）。DS版では張角の他、[丁原](../Page/丁原.md "wikilink")、[士燮が君主として追加されている](../Page/士燮_\(交阯太守\).md "wikilink")。
 
 MCDとPCEは家庭用ゲーム機で[CD-ROM](../Page/CD-ROM.md "wikilink")を搭載した先駆機種であり、発売当時の容量は他機種を圧倒していたため、特別にシナリオが追加されたものである。『三國志』シリーズで黄巾の乱のシナリオが登場したのはこれらが初めてである。この他、武将の略歴を書いた武将列伝も追加された。なお、DS版は他の家庭用機種版と同じ[ロムカセット](../Page/ロムカセット.md "wikilink")であるが、技術の向上によりロムカセット自体の容量が大幅に増えたため、同等の機能やオリジナル要素が追加されている。
 

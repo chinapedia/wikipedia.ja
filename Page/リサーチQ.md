@@ -1,9 +1,9 @@
 > この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
 
 
-**リサーチQ**は、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を用いた[テレビ番組](../Page/テレビ番組.md "wikilink")[視聴質](https://ja.wikipedia.org/wiki/視聴質 "wikilink")調査システムの名称であり、[パソコンと](../Page/パーソナルコンピュータ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")から参加することができる。
+**リサーチQ**は、[インターネット](../Page/インターネット.md "wikilink")を用いた[テレビ番組](../Page/テレビ番組.md "wikilink")[視聴質](../Page/視聴質.md "wikilink")調査システムの名称であり、[パソコンと](../Page/パーソナルコンピュータ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")から参加することができる。
 
-[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")と[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[環境情報学部](https://ja.wikipedia.org/wiki/環境情報学部 "wikilink")[熊坂研究室が共同で開発](https://ja.wikipedia.org/wiki/熊坂賢次 "wikilink")・運営している。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[環境情報学部](https://ja.wikipedia.org/wiki/環境情報学部 "wikilink")[熊坂研究室が共同で開発](https://ja.wikipedia.org/wiki/熊坂賢次 "wikilink")・運営している。
 
 ## 概要
 

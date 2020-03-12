@@ -1,7 +1,7 @@
 > この記事は[FIFA 100](https://ja.wikipedia.org/wiki/FIFA_100)から翻訳されています。
 
 
-**FIFA 100**（フィーファ・ワンハンドレッド、フィーファ・ひゃく）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）の創設100周年を記念して[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[ロンドン](../Page/ロンドン.md "wikilink")で開催された記念式典。
+**FIFA 100**（フィーファ・ワンハンドレッド、フィーファ・ひゃく）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）の創設100周年を記念して[2004年](../Page/2004年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[ロンドン](../Page/ロンドン.md "wikilink")で開催された記念式典。
 
 この式典で[ペレ](../Page/ペレ.md "wikilink")が選んだ『**偉大なサッカー選手100人**』が発表された。対象者は2004年3月4日時点での存命者が条件で、実際は125人が選ばれた。この中には2人の女子選手も含まれている。選出者の内訳は引退選手が75人、現役選手が50人だった。
 
@@ -10,46 +10,46 @@
 ### (10)
 
   - [アルフレッド・ディ・ステファノ](../Page/アルフレッド・ディ・ステファノ.md "wikilink")
-  - [エルナン・クレスポ](https://ja.wikipedia.org/wiki/エルナン・クレスポ "wikilink")
+  - [エルナン・クレスポ](../Page/エルナン・クレスポ.md "wikilink")
   - [オマール・シボリ](../Page/オマール・シボリ.md "wikilink")
-  - [ガブリエル・バティストゥータ](https://ja.wikipedia.org/wiki/ガブリエル・バティストゥータ "wikilink")
-  - [ダニエル・パサレラ](https://ja.wikipedia.org/wiki/ダニエル・パサレラ "wikilink")
+  - [ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")
+  - [ダニエル・パサレラ](../Page/ダニエル・パサレラ.md "wikilink")
   - [ディエゴ・マラドーナ](../Page/ディエゴ・マラドーナ.md "wikilink")
-  - [ハビエル・サネッティ](https://ja.wikipedia.org/wiki/ハビエル・サネッティ "wikilink")
-  - [フアン・セバスティアン・ベロン](https://ja.wikipedia.org/wiki/フアン・セバスティアン・ベロン "wikilink")
-  - [ハビエル・サビオラ](https://ja.wikipedia.org/wiki/ハビエル・サビオラ "wikilink")
-  - [マリオ・ケンペス](https://ja.wikipedia.org/wiki/マリオ・ケンペス "wikilink")
+  - [ハビエル・サネッティ](../Page/ハビエル・サネッティ.md "wikilink")
+  - [フアン・セバスティアン・ベロン](../Page/フアン・セバスティアン・ベロン.md "wikilink")
+  - [ハビエル・サビオラ](../Page/ハビエル・サビオラ.md "wikilink")
+  - [マリオ・ケンペス](../Page/マリオ・ケンペス.md "wikilink")
 
 ### (1)
 
-  - [エンツォ・フランチェスコリ](https://ja.wikipedia.org/wiki/エンツォ・フランチェスコリ "wikilink")
+  - [エンツォ・フランチェスコリ](../Page/エンツォ・フランチェスコリ.md "wikilink")
 
 ### (1)
 
-  - [カルロス・バルデラマ](https://ja.wikipedia.org/wiki/カルロス・バルデラマ "wikilink")
+  - [カルロス・バルデラマ](../Page/カルロス・バルデラマ.md "wikilink")
 
 ### (2)
 
-  - [イバン・サモラーノ](https://ja.wikipedia.org/wiki/イバン・サモラーノ "wikilink")
-  - [エリアス・フィゲロア](https://ja.wikipedia.org/wiki/エリアス・フィゲロア "wikilink")
+  - [イバン・サモラーノ](../Page/イバン・サモラーノ.md "wikilink")
+  - [エリアス・フィゲロア](../Page/エリアス・フィゲロア.md "wikilink")
 
 ### (1)
 
-  - [フリオ・セサル・ロメロ](https://ja.wikipedia.org/wiki/フリオ・セサル・ロメロ "wikilink")
+  - [フリオ・セサル・ロメロ](../Page/フリオ・セサル・ロメロ.md "wikilink")
 
 ### (15)
 
   - [カフー](../Page/カフー.md "wikilink")
-  - [カルロス・アウベルト](https://ja.wikipedia.org/wiki/カルロス・アウベルト "wikilink")
+  - [カルロス・アウベルト](../Page/カルロス・アウベルト.md "wikilink")
   - [ジーコ](../Page/ジーコ.md "wikilink")
-  - [ジャウマ・サントス](https://ja.wikipedia.org/wiki/ジャウマ・サントス "wikilink")
-  - [ジュニオール](https://ja.wikipedia.org/wiki/レオヴェジウド・リンス・ダ・ガマ・ジュニオール "wikilink")
+  - [ジャウマ・サントス](../Page/ジャウマ・サントス.md "wikilink")
+  - [ジュニオール](../Page/レオヴェジウド・リンス・ダ・ガマ・ジュニオール.md "wikilink")
   - [ソクラテス](../Page/ソクラテス_\(サッカー選手\).md "wikilink")
-  - [ニウトン・サントス](https://ja.wikipedia.org/wiki/ニウトン・サントス "wikilink")
-  - [パウロ・ロベルト・ファルカン](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ファルカン "wikilink")
+  - [ニウトン・サントス](../Page/ニウトン・サントス.md "wikilink")
+  - [パウロ・ロベルト・ファルカン](../Page/パウロ・ロベルト・ファルカン.md "wikilink")
   - [ペレ](../Page/ペレ.md "wikilink")
   - [リバウド](../Page/リバウド.md "wikilink")
-  - [ロベルト・リベリーノ](https://ja.wikipedia.org/wiki/ロベルト・リベリーノ "wikilink")
+  - [ロベルト・リベリーノ](../Page/ロベルト・リベリーノ.md "wikilink")
   - [ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")
   - [ロナウド](../Page/ロナウド.md "wikilink")
   - [ロベルト・カルロス](../Page/ロベルト・カルロス.md "wikilink")
@@ -57,13 +57,13 @@
 
 ### (1)
 
-  - [テオフィロ・クビジャス](https://ja.wikipedia.org/wiki/テオフィロ・クビジャス "wikilink")
+  - [テオフィロ・クビジャス](../Page/テオフィロ・クビジャス.md "wikilink")
 
 ## 北中米（2か国 3名）
 
 ###  アメリカ（2）
 
-  - [ミア・ハム](https://ja.wikipedia.org/wiki/ミア・ハム "wikilink")（女子選手）
+  - [ミア・ハム](../Page/ミア・ハム.md "wikilink")（女子選手）
   - [ミシェル・エイカーズ](https://ja.wikipedia.org/wiki/ミシェル・エイカーズ "wikilink")（女子選手）
 
 ###  メキシコ（1）
@@ -80,28 +80,28 @@
 
   - [アレッサンドロ・デル・ピエロ](../Page/アレッサンドロ・デル・ピエロ.md "wikilink")
   - [アレッサンドロ・ネスタ](../Page/アレッサンドロ・ネスタ.md "wikilink")
-  - [クリスティアン・ヴィエリ](https://ja.wikipedia.org/wiki/クリスティアン・ヴィエリ "wikilink")
-  - [ジャチント・ファッケッティ](https://ja.wikipedia.org/wiki/ジャチント・ファッケッティ "wikilink")
+  - [クリスティアン・ヴィエリ](../Page/クリスティアン・ヴィエリ.md "wikilink")
+  - [ジャチント・ファッケッティ](../Page/ジャチント・ファッケッティ.md "wikilink")
   - [ジャンニ・リベラ](../Page/ジャンニ・リベラ.md "wikilink")
-  - [ジャンピエロ・ボニペルティ](https://ja.wikipedia.org/wiki/ジャンピエロ・ボニペルティ "wikilink")
-  - [ジャンルイジ・ブッフォン](https://ja.wikipedia.org/wiki/ジャンルイジ・ブッフォン "wikilink")
-  - [ジュゼッペ・ベルゴミ](https://ja.wikipedia.org/wiki/ジュゼッペ・ベルゴミ "wikilink")
-  - [ディノ・ゾフ](https://ja.wikipedia.org/wiki/ディノ・ゾフ "wikilink")
+  - [ジャンピエロ・ボニペルティ](../Page/ジャンピエロ・ボニペルティ.md "wikilink")
+  - [ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")
+  - [ジュゼッペ・ベルゴミ](../Page/ジュゼッペ・ベルゴミ.md "wikilink")
+  - [ディノ・ゾフ](../Page/ディノ・ゾフ.md "wikilink")
   - [パオロ・マルディーニ](../Page/パオロ・マルディーニ.md "wikilink")
-  - [パオロ・ロッシ](https://ja.wikipedia.org/wiki/パオロ・ロッシ "wikilink")
-  - [フランコ・バレージ](https://ja.wikipedia.org/wiki/フランコ・バレージ "wikilink")
-  - [フランチェスコ・トッティ](https://ja.wikipedia.org/wiki/フランチェスコ・トッティ "wikilink")
+  - [パオロ・ロッシ](../Page/パオロ・ロッシ.md "wikilink")
+  - [フランコ・バレージ](../Page/フランコ・バレージ.md "wikilink")
+  - [フランチェスコ・トッティ](../Page/フランチェスコ・トッティ.md "wikilink")
   - [ロベルト・バッジョ](../Page/ロベルト・バッジョ.md "wikilink")
 
 ###  イングランド（7）
 
-  - [アラン・シアラー](https://ja.wikipedia.org/wiki/アラン・シアラー "wikilink")
-  - [ゲーリー・リネカー](https://ja.wikipedia.org/wiki/ゲーリー・リネカー "wikilink")
-  - [ケビン・キーガン](https://ja.wikipedia.org/wiki/ケビン・キーガン "wikilink")
-  - [ゴードン・バンクス](https://ja.wikipedia.org/wiki/ゴードン・バンクス "wikilink")
+  - [アラン・シアラー](../Page/アラン・シアラー.md "wikilink")
+  - [ゲーリー・リネカー](../Page/ゲーリー・リネカー.md "wikilink")
+  - [ケビン・キーガン](../Page/ケビン・キーガン.md "wikilink")
+  - [ゴードン・バンクス](../Page/ゴードン・バンクス.md "wikilink")
   - [デビッド・ベッカム](../Page/デビッド・ベッカム.md "wikilink")
   - [ボビー・チャールトン](../Page/ボビー・チャールトン.md "wikilink")
-  - [マイケル・オーウェン](https://ja.wikipedia.org/wiki/マイケル・オーウェン "wikilink")
+  - [マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")
 
 ###  ウクライナ（1）
 
@@ -110,18 +110,18 @@
 ###  オランダ（13）
 
   - [ウィリー・ファン・デ・ケルクホフ](https://ja.wikipedia.org/wiki/ウィリー・ファン・デ・ケルクホフ "wikilink")
-  - [エドガー・ダーヴィッツ](https://ja.wikipedia.org/wiki/エドガー・ダーヴィッツ "wikilink")
-  - [クラレンス・セードルフ](https://ja.wikipedia.org/wiki/クラレンス・セードルフ "wikilink")
+  - [エドガー・ダーヴィッツ](../Page/エドガー・ダーヴィッツ.md "wikilink")
+  - [クラレンス・セードルフ](../Page/クラレンス・セードルフ.md "wikilink")
   - [デニス・ベルカンプ](../Page/デニス・ベルカンプ.md "wikilink")
-  - [パトリック・クライファート](https://ja.wikipedia.org/wiki/パトリック・クライファート "wikilink")
-  - [フランク・ライカールト](https://ja.wikipedia.org/wiki/フランク・ライカールト "wikilink")
+  - [パトリック・クライファート](../Page/パトリック・クライファート.md "wikilink")
+  - [フランク・ライカールト](../Page/フランク・ライカールト.md "wikilink")
   - [マルコ・ファン・バステン](../Page/マルコ・ファン・バステン.md "wikilink")
   - [ヨハン・クライフ](https://ja.wikipedia.org/wiki/ヨハン・クライフ "wikilink")
-  - [ヨハン・ニースケンス](https://ja.wikipedia.org/wiki/ヨハン・ニースケンス "wikilink")
-  - [ルート・ファン・ニステルローイ](https://ja.wikipedia.org/wiki/ルート・ファン・ニステルローイ "wikilink")
-  - [ルート・フリット](https://ja.wikipedia.org/wiki/ルート・フリット "wikilink")
+  - [ヨハン・ニースケンス](../Page/ヨハン・ニースケンス.md "wikilink")
+  - [ルート・ファン・ニステルローイ](../Page/ルート・ファン・ニステルローイ.md "wikilink")
+  - [ルート・フリット](../Page/ルート・フリット.md "wikilink")
   - [レネ・ファン・デ・ケルクホフ](https://ja.wikipedia.org/wiki/レネ・ファン・デ・ケルクホフ "wikilink")
-  - [ロブ・レンセンブリンク](https://ja.wikipedia.org/wiki/ロブ・レンセンブリンク "wikilink")
+  - [ロブ・レンセンブリンク](../Page/ロブ・レンセンブリンク.md "wikilink")
 
 ###  北アイルランド（1）
 
@@ -129,17 +129,17 @@
 
 ###  クロアチア（1）
 
-  - [ダヴォール・シューケル](https://ja.wikipedia.org/wiki/ダヴォール・シューケル "wikilink")
+  - [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink")
 
 ###  スコットランド（1）
 
-  - [ケニー・ダルグリッシュ](https://ja.wikipedia.org/wiki/ケニー・ダルグリッシュ "wikilink")
+  - [ケニー・ダルグリッシュ](../Page/ケニー・ダルグリッシュ.md "wikilink")
 
 ###  スペイン（3）
 
-  - [エミリオ・ブトラゲーニョ](https://ja.wikipedia.org/wiki/エミリオ・ブトラゲーニョ "wikilink")
+  - [エミリオ・ブトラゲーニョ](../Page/エミリオ・ブトラゲーニョ.md "wikilink")
   - [ラウル・ゴンサレス](../Page/ラウル・ゴンサレス.md "wikilink")
-  - [ルイス・エンリケ](https://ja.wikipedia.org/wiki/ルイス・エンリケ "wikilink")
+  - [ルイス・エンリケ](../Page/ルイス・エンリケ.md "wikilink")
 
 ###  チェコ（2）
 
@@ -148,52 +148,52 @@
 
 ###  デンマーク（3）
 
-  - [ピーター・シュマイケル](https://ja.wikipedia.org/wiki/ピーター・シュマイケル "wikilink")
-  - [ブライアン・ラウドルップ](https://ja.wikipedia.org/wiki/ブライアン・ラウドルップ "wikilink")
-  - [ミカエル・ラウドルップ](https://ja.wikipedia.org/wiki/ミカエル・ラウドルップ "wikilink")
+  - [ピーター・シュマイケル](../Page/ピーター・シュマイケル.md "wikilink")
+  - [ブライアン・ラウドルップ](../Page/ブライアン・ラウドルップ.md "wikilink")
+  - [ミカエル・ラウドルップ](../Page/ミカエル・ラウドルップ.md "wikilink")
 
 ###  ドイツ（10）
 
-  - [ウーヴェ・ゼーラー](https://ja.wikipedia.org/wiki/ウーヴェ・ゼーラー "wikilink")
+  - [ウーヴェ・ゼーラー](../Page/ウーヴェ・ゼーラー.md "wikilink")
   - [オリバー・カーン](../Page/オリバー・カーン.md "wikilink")
-  - [カール＝ハインツ・ルンメニゲ](https://ja.wikipedia.org/wiki/カール＝ハインツ・ルンメニゲ "wikilink")
+  - [カール＝ハインツ・ルンメニゲ](../Page/カール＝ハインツ・ルンメニゲ.md "wikilink")
   - [ゲルト・ミュラー](../Page/ゲルト・ミュラー.md "wikilink")
-  - [ゼップ・マイヤー](https://ja.wikipedia.org/wiki/ゼップ・マイヤー "wikilink")
-  - [パウル・ブライトナー](https://ja.wikipedia.org/wiki/パウル・ブライトナー "wikilink")
+  - [ゼップ・マイヤー](../Page/ゼップ・マイヤー.md "wikilink")
+  - [パウル・ブライトナー](../Page/パウル・ブライトナー.md "wikilink")
   - [フランツ・ベッケンバウアー](../Page/フランツ・ベッケンバウアー.md "wikilink")
-  - [ミヒャエル・バラック](https://ja.wikipedia.org/wiki/ミヒャエル・バラック "wikilink")
-  - [ユルゲン・クリンスマン](https://ja.wikipedia.org/wiki/ユルゲン・クリンスマン "wikilink")
+  - [ミヒャエル・バラック](../Page/ミヒャエル・バラック.md "wikilink")
+  - [ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")
   - [ローター・マテウス](../Page/ローター・マテウス.md "wikilink")
 
 ###  トルコ（2）
 
-  - [エムレ・ベロゾール](https://ja.wikipedia.org/wiki/エムレ・ベロゾール "wikilink")
-  - [リュシュテュ・レチベル](https://ja.wikipedia.org/wiki/リュシュテュ・レチベル "wikilink")
+  - [エムレ・ベロゾール](../Page/エムレ・ベロゾール.md "wikilink")
+  - [リュシュテュ・レチベル](../Page/リュシュテュ・レチベル.md "wikilink")
 
 ###  ハンガリー（1）
 
-  - [フェレンツ・プスカシュ](https://ja.wikipedia.org/wiki/フェレンツ・プスカシュ "wikilink")
+  - [フェレンツ・プスカシュ](../Page/フェレンツ・プスカシュ.md "wikilink")
 
 ###  フランス（14）
 
   - [エリック・カントナ](../Page/エリック・カントナ.md "wikilink")
   - [ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")
-  - [ジャン＝ピエール・パパン](https://ja.wikipedia.org/wiki/ジャン＝ピエール・パパン "wikilink")
+  - [ジャン＝ピエール・パパン](../Page/ジャン＝ピエール・パパン.md "wikilink")
   - [ジュスト・フォンテーヌ](../Page/ジュスト・フォンテーヌ.md "wikilink")
-  - [ダヴィド・トレゼゲ](https://ja.wikipedia.org/wiki/ダヴィド・トレゼゲ "wikilink")
+  - [ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")
   - [ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")
   - [ディディエ・デシャン](../Page/ディディエ・デシャン.md "wikilink")
-  - [パトリック・ヴィエラ](https://ja.wikipedia.org/wiki/パトリック・ヴィエラ "wikilink")
-  - [マリユス・トレゾール](https://ja.wikipedia.org/wiki/マリユス・トレゾール "wikilink")
-  - [マルセル・デサイー](https://ja.wikipedia.org/wiki/マルセル・デサイー "wikilink")
+  - [パトリック・ヴィエラ](../Page/パトリック・ヴィエラ.md "wikilink")
+  - [マリユス・トレゾール](../Page/マリユス・トレゾール.md "wikilink")
+  - [マルセル・デサイー](../Page/マルセル・デサイー.md "wikilink")
   - [ミシェル・プラティニ](../Page/ミシェル・プラティニ.md "wikilink")
-  - [リリアン・テュラム](https://ja.wikipedia.org/wiki/リリアン・テュラム "wikilink")
+  - [リリアン・テュラム](../Page/リリアン・テュラム.md "wikilink")
   - [レイモン・コパ](../Page/レイモン・コパ.md "wikilink")
-  - [ロベール・ピレス](https://ja.wikipedia.org/wiki/ロベール・ピレス "wikilink")
+  - [ロベール・ピレス](../Page/ロベール・ピレス.md "wikilink")
 
 ###  ブルガリア（1）
 
-  - [フリスト・ストイチコフ](https://ja.wikipedia.org/wiki/フリスト・ストイチコフ "wikilink")
+  - [フリスト・ストイチコフ](../Page/フリスト・ストイチコフ.md "wikilink")
 
 ###  ベルギー（3）
 
@@ -203,12 +203,12 @@
 
 ###  ポーランド（1）
 
-  - [ズビグニェフ・ボニエク](https://ja.wikipedia.org/wiki/ズビグニェフ・ボニエク "wikilink")
+  - [ズビグニェフ・ボニエク](../Page/ズビグニェフ・ボニエク.md "wikilink")
 
 ###  ポルトガル（3）
 
   - [エウゼビオ](../Page/エウゼビオ.md "wikilink")
-  - [マヌエル・ルイ・コスタ](https://ja.wikipedia.org/wiki/マヌエル・ルイ・コスタ "wikilink")
+  - [マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink")
   - [ルイス・フィーゴ](../Page/ルイス・フィーゴ.md "wikilink")
 
 ###  ルーマニア（1）
@@ -217,25 +217,25 @@
 
 ###  ロシア（1）
 
-  - [リナト・ダサエフ](https://ja.wikipedia.org/wiki/リナト・ダサエフ "wikilink")
+  - [リナト・ダサエフ](../Page/リナト・ダサエフ.md "wikilink")
 
 ## アフリカ（5か国 5名）
 
 ###  ガーナ（1）
 
-  - [アベディ・ペレ](https://ja.wikipedia.org/wiki/アベディ・ペレ "wikilink")
+  - [アベディ・ペレ](../Page/アベディ・ペレ.md "wikilink")
 
 ###  カメルーン（1）
 
-  - [ロジェ・ミラ](https://ja.wikipedia.org/wiki/ロジェ・ミラ "wikilink")
+  - [ロジェ・ミラ](../Page/ロジェ・ミラ.md "wikilink")
 
 ###  セネガル（1）
 
-  - [エル＝ハッジ・ディウフ](https://ja.wikipedia.org/wiki/エル＝ハッジ・ディウフ "wikilink")
+  - [エル＝ハッジ・ディウフ](../Page/エル＝ハッジ・ディウフ.md "wikilink")
 
 ###  ナイジェリア（1）
 
-  - [ジェイジェイ・オコチャ](https://ja.wikipedia.org/wiki/オーガスティン・オコチャ "wikilink")
+  - [ジェイジェイ・オコチャ](../Page/オーガスティン・オコチャ.md "wikilink")
 
 ###  リベリア（1）
 
@@ -249,7 +249,7 @@
 
 ###  韓国（1）
 
-  - [洪明甫](https://ja.wikipedia.org/wiki/洪明甫 "wikilink")
+  - [洪明甫](../Page/洪明甫.md "wikilink")
 
 ## 関連項目
 

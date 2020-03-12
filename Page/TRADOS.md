@@ -3,12 +3,12 @@
 
 **SDL Trados Studio**は、一般的に「トラドス」と呼ばれる翻訳支援ソフトウェア。
 
-元々はトラドス社が開発した[翻訳支援ツール](https://ja.wikipedia.org/wiki/翻訳支援ツール "wikilink")であるが、現在は、SDL インターナショナル社より販売されている。
+元々はトラドス社が開発した[翻訳支援ツール](../Page/翻訳支援ツール.md "wikilink")であるが、現在は、SDL インターナショナル社より販売されている。
 
 ## 概要
 
-  - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") OSが動作するコンピュータ上で動作し、[テキスト文書](https://ja.wikipedia.org/wiki/プレーンテキスト "wikilink")、[RTF](https://ja.wikipedia.org/wiki/Rich_Text_Format "wikilink")、[HTML](../Page/HyperText_Markup_Language.md "wikilink")、[SGMLや](../Page/Standard_Generalized_Markup_Language.md "wikilink")[XMLなどのタグ付き文書](../Page/Extensible_Markup_Language.md "wikilink")、マイクロソフト社の[ワード文書](../Page/Microsoft_Word.md "wikilink")、[エクセル文書](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[パワーポイント文書](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")、アドビ社の[フレームメーカー文書](../Page/Adobe_FrameMaker.md "wikilink")、[インデザイン文書などの文書の](../Page/Adobe_InDesign.md "wikilink")[翻訳](../Page/翻訳.md "wikilink")を支援する。
-  - [翻訳メモリ](https://ja.wikipedia.org/wiki/翻訳メモリ "wikilink")という機能は原文と訳文のペアを[データベース](../Page/データベース.md "wikilink")に登録しながら翻訳を行い、同一か類似の原文が登場した時にデータベース登録済み訳文を再利用することにより、翻訳のスピードと正確性を向上させるものである。マニュアルやカタログなど、加筆・修正が繰り返される文書の翻訳に適する。
+  - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") OSが動作するコンピュータ上で動作し、[テキスト文書](../Page/プレーンテキスト.md "wikilink")、[RTF](../Page/Rich_Text_Format.md "wikilink")、[HTML](../Page/HyperText_Markup_Language.md "wikilink")、[SGMLや](../Page/Standard_Generalized_Markup_Language.md "wikilink")[XMLなどのタグ付き文書](../Page/Extensible_Markup_Language.md "wikilink")、マイクロソフト社の[ワード文書](../Page/Microsoft_Word.md "wikilink")、[エクセル文書](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[パワーポイント文書](../Page/Microsoft_PowerPoint.md "wikilink")、アドビ社の[フレームメーカー文書](../Page/Adobe_FrameMaker.md "wikilink")、[インデザイン文書などの文書の](../Page/Adobe_InDesign.md "wikilink")[翻訳](../Page/翻訳.md "wikilink")を支援する。
+  - [翻訳メモリ](../Page/翻訳メモリ.md "wikilink")という機能は原文と訳文のペアを[データベース](../Page/データベース.md "wikilink")に登録しながら翻訳を行い、同一か類似の原文が登場した時にデータベース登録済み訳文を再利用することにより、翻訳のスピードと正確性を向上させるものである。マニュアルやカタログなど、加筆・修正が繰り返される文書の翻訳に適する。
   - SDL Trados Studioを使用して翻訳すると、タグ付き文章のタグを壊さないで翻訳できるため、もとのレイアウトを維持したまま翻訳ができる。このため結果的には翻訳後のレイアウト作業をなくしたり軽減できる。従って、ページ数の多いものに最適なソフトといえる。
   - 元々は言語的に多様なヨーロッパでの翻訳を意図して設計されている。よって、日本語-英語のみならず、各種言語に対応している。
   - 翻訳自体はSDL Trados Studioではなく利用者が手作業で行う。
@@ -25,20 +25,20 @@
 
 ## 開発元 トラドス社の経歴
 
-  - 1984年 トラドス社 (Trados GmbH)が[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[シュトゥットガルト](https://ja.wikipedia.org/wiki/シュトゥットガルト "wikilink")で創設された。
+  - 1984年 トラドス社 (Trados GmbH)が[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[シュトゥットガルト](../Page/シュトゥットガルト.md "wikilink")で創設された。
   - 1997年 株式の20%が[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")社に買収された。
-  - 2002年 [ユニスケープ社](https://ja.wikipedia.org/wiki/:en:Uniscape "wikilink") (Uniscape Inc)と合併し、社前をトラドス社 (Trados Inc.) と改めた。本部をアメリカ合衆国[バージニア州アレクサンドリアに置いた](https://ja.wikipedia.org/wiki/アレクサンドリア_\(バージニア州\) "wikilink")。
+  - 2002年 [ユニスケープ社](https://ja.wikipedia.org/wiki/:en:Uniscape "wikilink") (Uniscape Inc)と合併し、社前をトラドス社 (Trados Inc.) と改めた。本部をアメリカ合衆国[バージニア州アレクサンドリアに置いた](../Page/アレクサンドリア_\(バージニア州\).md "wikilink")。
   - 2005年 [英国の](https://ja.wikipedia.org/wiki/イギリス "wikilink")[SDLインターナショナル社](https://ja.wikipedia.org/wiki/:en:SDL_International "wikilink") (SDL International)に買収された。プログラムのトラドスの開発は、S社の[SDLXと共に継続されることとなった](https://ja.wikipedia.org/wiki/:en:SDLX "wikilink")。
 
 ## 対応するファイル形式
 
 最新のSDL Trados Studio 2019は、下記のファイル形式を含めて70種類以上のファイル形式に対応している
 
-  - [Microsoft Office](../Page/Microsoft_Office.md "wikilink"):[Word](../Page/Microsoft_Word.md "wikilink")、[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（Bilingual Excel含む）、[PowerPoint](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")
-  - タグ付きファイル：[SGML](../Page/Standard_Generalized_Markup_Language.md "wikilink")、[RTF](https://ja.wikipedia.org/wiki/Rich_Text_Format "wikilink")、[XML](../Page/Extensible_Markup_Language.md "wikilink")、[HTML](../Page/HyperText_Markup_Language.md "wikilink")、[XLIFF](https://ja.wikipedia.org/wiki/XML_Localization_Interchange_File_Format "wikilink")、SDLXLIFFなど
+  - [Microsoft Office](../Page/Microsoft_Office.md "wikilink"):[Word](../Page/Microsoft_Word.md "wikilink")、[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（Bilingual Excel含む）、[PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")
+  - タグ付きファイル：[SGML](../Page/Standard_Generalized_Markup_Language.md "wikilink")、[RTF](../Page/Rich_Text_Format.md "wikilink")、[XML](../Page/Extensible_Markup_Language.md "wikilink")、[HTML](../Page/HyperText_Markup_Language.md "wikilink")、[XLIFF](https://ja.wikipedia.org/wiki/XML_Localization_Interchange_File_Format "wikilink")、SDLXLIFFなど
   - [Adobe](../Page/アドビシステムズ.md "wikilink")：[PDF](../Page/Portable_Document_Format.md "wikilink") (スキャンしたPDF含む）、[FrameMaker](../Page/Adobe_FrameMaker.md "wikilink")、[InDesign](../Page/Adobe_InDesign.md "wikilink")、[InCopy](https://ja.wikipedia.org/wiki/Adobe_InCopy "wikilink")
   - Source Code ファイル：[Java](https://ja.wikipedia.org/wiki/Java "wikilink") 、[Microsoft .NETなど](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")
-  - [OpenDocument](https://ja.wikipedia.org/wiki/OpenDocument "wikilink")ファイル、汎用テキストファイル
+  - [OpenDocument](../Page/OpenDocument.md "wikilink")ファイル、汎用テキストファイル
 
 ## 中間ファイル
 

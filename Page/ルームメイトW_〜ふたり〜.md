@@ -1,13 +1,13 @@
 > この記事は[W ](https://ja.wikipedia.org/wiki/W_)から翻訳されています。
 
 
-『**ルームメイトW（ダブル）〜ふたり〜**』は、[データム・ポリスター](https://ja.wikipedia.org/wiki/データム・ポリスター "wikilink")が[1999年](../Page/1999年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")に発売した[セガサターン](../Page/セガサターン.md "wikilink")用の[美少女ゲームソフトである](../Page/ギャルゲー.md "wikilink")。
+『**ルームメイトW（ダブル）〜ふたり〜**』は、[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")に発売した[セガサターン](../Page/セガサターン.md "wikilink")用の[美少女ゲームソフトである](../Page/ギャルゲー.md "wikilink")。
 
 ## 作品の概要
 
   - [ROOMMATE](../Page/ROOMMATE.md "wikilink")1 - 3との関連性は、ヒロインの1人・優子が井上涼子（会話中で「伝説の先輩」として言及される）と同じ高校に通っている点を除いて余り無い。
-  - 本作より（ゲームと無関係の作品をシリーズに組み入れた『[おくさまは女子高生](https://ja.wikipedia.org/wiki/おくさまは女子高生 "wikilink")』を除き）事実上のシリーズ最終作である『井上涼子〜ラストシーン〜』（[DC](../Page/ドリームキャスト.md "wikilink")）まで[丸藤広貴](https://ja.wikipedia.org/wiki/丸藤広貴 "wikilink")(弟はプロレスラーの[丸藤正道](https://ja.wikipedia.org/wiki/丸藤正道 "wikilink"))がキャラクターデザインを手がける。なお、本作のキャラクター原案は[たくま朋正](https://ja.wikipedia.org/wiki/たくま朋正 "wikilink")でなく[原田将太郎](https://ja.wikipedia.org/wiki/原田将太郎 "wikilink")である。
-  - バグにより本来、用意されていたかおりエンドは見ることが出来ない。その関係からか、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")より発売される予定であった本作の攻略本は発売中止となっている（データムは「仕様」であると主張）。
+  - 本作より（ゲームと無関係の作品をシリーズに組み入れた『[おくさまは女子高生](https://ja.wikipedia.org/wiki/おくさまは女子高生 "wikilink")』を除き）事実上のシリーズ最終作である『井上涼子〜ラストシーン〜』（[DC](../Page/ドリームキャスト.md "wikilink")）まで[丸藤広貴](https://ja.wikipedia.org/wiki/丸藤広貴 "wikilink")(弟はプロレスラーの[丸藤正道](../Page/丸藤正道.md "wikilink"))がキャラクターデザインを手がける。なお、本作のキャラクター原案は[たくま朋正](../Page/たくま朋正.md "wikilink")でなく[原田将太郎](https://ja.wikipedia.org/wiki/原田将太郎 "wikilink")である。
+  - バグにより本来、用意されていたかおりエンドは見ることが出来ない。その関係からか、[メディアワークス](../Page/メディアワークス.md "wikilink")より発売される予定であった本作の攻略本は発売中止となっている（データムは「仕様」であると主張）。
 
 ### 登場人物
 
@@ -16,13 +16,13 @@
 <!-- end list -->
 
   - 東京都立橘南（たちばなみなみ）高等学校3年生
-  - 出身地：[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")
+  - 出身地：[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")
   - 生年月日：[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")
   - 趣味：ガーデニング、ピアノ演奏
 
 <!-- end list -->
 
-  - 佐藤 かおり（さとう かおり・声：[藤巻恵理子](https://ja.wikipedia.org/wiki/藤巻恵理子 "wikilink")）
+  - 佐藤 かおり（さとう かおり・声：[藤巻恵理子](../Page/藤巻恵理子.md "wikilink")）
 
 <!-- end list -->
 

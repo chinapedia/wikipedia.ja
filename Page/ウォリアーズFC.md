@@ -11,7 +11,7 @@
 
 シンガポール軍スポーツ協会（SAFSA）のサッカー部門として発足し、[1975年](../Page/1975年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")までシンガポールの国内リーグに参加。[1996年](../Page/1996年.md "wikilink")の[Sリーグ](https://ja.wikipedia.org/wiki/Sリーグ "wikilink")発足に合わせて独立され、シンガポール・アームド・フォーシズFC (SAFFC) となった。現在は軍隊所属外の選手も参加できるようになっている。
 
-[2009年](../Page/2009年.md "wikilink")、シンガポールのクラブとして初めて[AFCチャンピオンズリーグに出場](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2009 "wikilink")。[2009年のJリーグ](https://ja.wikipedia.org/wiki/2009年のJリーグ "wikilink")優勝の[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")、[Kリーグ優勝の](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")[水原三星ブルーウィングス](https://ja.wikipedia.org/wiki/水原三星ブルーウィングス "wikilink")、[中国スーパーリーグ準優勝の](https://ja.wikipedia.org/wiki/中国サッカー・スーパーリーグ "wikilink")[上海申花足球倶楽部](https://ja.wikipedia.org/wiki/上海申花足球倶楽部 "wikilink")と同グループに入ったが、1分5敗でグループステージ敗退となった。
+[2009年](../Page/2009年.md "wikilink")、シンガポールのクラブとして初めて[AFCチャンピオンズリーグに出場](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2009 "wikilink")。[2009年のJリーグ](https://ja.wikipedia.org/wiki/2009年のJリーグ "wikilink")優勝の[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")、[Kリーグ優勝の](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")[水原三星ブルーウィングス](../Page/水原三星ブルーウィングス.md "wikilink")、[中国スーパーリーグ準優勝の](https://ja.wikipedia.org/wiki/中国サッカー・スーパーリーグ "wikilink")[上海申花足球倶楽部](https://ja.wikipedia.org/wiki/上海申花足球倶楽部 "wikilink")と同グループに入ったが、1分5敗でグループステージ敗退となった。
 
 ## 現所属メンバー
 
@@ -66,7 +66,7 @@
 
   - [ミルコ・グラボヴァツ](https://ja.wikipedia.org/wiki/ミルコ・グラボヴァツ "wikilink") 1999 - 2003
 
-  - [キャティサック・セーナームアン](https://ja.wikipedia.org/wiki/キャティサック・セーナームアン "wikilink") 2001 - 2002
+  - [キャティサック・セーナームアン](../Page/キャティサック・セーナームアン.md "wikilink") 2001 - 2002
 
   - [ターサック・チャイマン](https://ja.wikipedia.org/wiki/ターサック・チャイマン "wikilink") 2002、2005 - 2009
 
@@ -78,7 +78,7 @@
 
   - [村上範和](https://ja.wikipedia.org/wiki/村上範和 "wikilink") 2007 - 2008
 
-  - [深澤仁博](https://ja.wikipedia.org/wiki/深澤仁博 "wikilink") 2008 - 2009
+  - [深澤仁博](../Page/深澤仁博.md "wikilink") 2008 - 2009
 
   - [秋吉泰佑](https://ja.wikipedia.org/wiki/秋吉泰佑 "wikilink") 2010 - 2011
 
@@ -92,7 +92,7 @@
 
   - [乾達朗](https://ja.wikipedia.org/wiki/乾達朗 "wikilink") 2012 - 2013
 
-  - [戸田和幸](https://ja.wikipedia.org/wiki/戸田和幸 "wikilink") 2013
+  - [戸田和幸](../Page/戸田和幸.md "wikilink") 2013
 
 ## 脚注
 

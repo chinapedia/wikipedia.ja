@@ -1,17 +1,17 @@
 > この記事は[DIC](https://ja.wikipedia.org/wiki/DIC)から翻訳されています。
 
 
-**DICカラーガイド**（ディーアイシー-、DIC Colorguide）は、[DICが出版する色見本帳で](https://ja.wikipedia.org/wiki/DIC_\(企業\) "wikilink")、同社の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")。
+**DICカラーガイド**（ディーアイシー-、DIC Colorguide）は、[DICが出版する色見本帳で](../Page/DIC_\(企業\).md "wikilink")、同社の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")。
 
 ## 概要
 
 [1967年](../Page/1967年.md "wikilink")から出版され、[印刷会社](../Page/印刷会社.md "wikilink")や[デザイナー](../Page/デザイナー.md "wikilink")などの間で[色](../Page/色.md "wikilink")の指定や色合わせに利用される代表的な色見本帳である。**DICカラー**や、単に**DIC**とも呼ばれる。
 
-色は、[マンセル・カラー・システム](https://ja.wikipedia.org/wiki/マンセル・カラー・システム "wikilink")や[オストワルト・カラー](https://ja.wikipedia.org/wiki/オストワルト・カラー "wikilink")、[PCCS](https://ja.wikipedia.org/wiki/PCCS "wikilink")の色相環を元に、系統的に分類、配列され、カラーナンバーと[色相](https://ja.wikipedia.org/wiki/色相 "wikilink")、[インキの配合比率が表示されている](../Page/インク.md "wikilink")。[色](../Page/色.md "wikilink")の印刷方法は[特色](https://ja.wikipedia.org/wiki/特色 "wikilink")で、実際の印刷の際に同じ配色を用いれば限りなく近い色を再現することができる。姉妹品の**カラーチャートシリーズ**などは[プロセスカラー](https://ja.wikipedia.org/wiki/プロセスカラー "wikilink")で印刷されている。
+色は、[マンセル・カラー・システム](../Page/マンセル・カラー・システム.md "wikilink")や[オストワルト・カラー](https://ja.wikipedia.org/wiki/オストワルト・カラー "wikilink")、[PCCS](https://ja.wikipedia.org/wiki/PCCS "wikilink")の色相環を元に、系統的に分類、配列され、カラーナンバーと[色相](https://ja.wikipedia.org/wiki/色相 "wikilink")、[インキの配合比率が表示されている](../Page/インク.md "wikilink")。[色](../Page/色.md "wikilink")の印刷方法は[特色](https://ja.wikipedia.org/wiki/特色 "wikilink")で、実際の印刷の際に同じ配色を用いれば限りなく近い色を再現することができる。姉妹品の**カラーチャートシリーズ**などは[プロセスカラー](../Page/プロセスカラー.md "wikilink")で印刷されている。
 
 色が印刷されている[紙](../Page/紙.md "wikilink")は[アート紙](https://ja.wikipedia.org/wiki/アート紙 "wikilink")なので、それ以外の紙に印刷する場合は見本通りの色の再現は難しい。
 
-基本の643色は、デザイナーの[田中一光](https://ja.wikipedia.org/wiki/田中一光 "wikilink")、[勝井三雄](https://ja.wikipedia.org/wiki/勝井三雄 "wikilink")、[灘本唯人](../Page/灘本唯人.md "wikilink")を中心に選定された。
+基本の643色は、デザイナーの[田中一光](../Page/田中一光.md "wikilink")、[勝井三雄](../Page/勝井三雄.md "wikilink")、[灘本唯人](../Page/灘本唯人.md "wikilink")を中心に選定された。
 
 ## シリーズ
 

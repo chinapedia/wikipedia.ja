@@ -9,11 +9,11 @@
 
 ## 歴史
 
-1940年代半ばに創設された[シンガポール警察のサッカー部](https://ja.wikipedia.org/wiki/シンガポールの警察 "wikilink")、「ポリスSA」 (Police Sports Association) を源流とする。1979年からはナショナルフットボールリーグ (NFL) に参戦。1996年の[Sリーグ創設時には](https://ja.wikipedia.org/wiki/シンガポールプレミアリーグ "wikilink")「ポリスFC」 (Police Football Club) として参加したが、翌1997年には、シンガポール市民防衛庁 (SCDF) やシンガポール入国管理局 (ICA)といった[内務省](https://ja.wikipedia.org/wiki/内務省_\(シンガポール\) "wikilink") (Ministry of Home Affairs) 傘下の行政機関も参画したことにより、クラブ名を「ホーム・ユナイテッドFC」 (Home United Football Club) に変更した。こうした経緯からクラブは*The Protectors*（護民官）の愛称で呼ばれた。また、クラブマスコットは竜であり、愛称とマスコットはクラブのロゴにも取り入れられていた。
+1940年代半ばに創設された[シンガポール警察のサッカー部](https://ja.wikipedia.org/wiki/シンガポールの警察 "wikilink")、「ポリスSA」 (Police Sports Association) を源流とする。1979年からはナショナルフットボールリーグ (NFL) に参戦。1996年の[Sリーグ創設時には](../Page/シンガポールプレミアリーグ.md "wikilink")「ポリスFC」 (Police Football Club) として参加したが、翌1997年には、シンガポール市民防衛庁 (SCDF) やシンガポール入国管理局 (ICA)といった[内務省](https://ja.wikipedia.org/wiki/内務省_\(シンガポール\) "wikilink") (Ministry of Home Affairs) 傘下の行政機関も参画したことにより、クラブ名を「ホーム・ユナイテッドFC」 (Home United Football Club) に変更した。こうした経緯からクラブは*The Protectors*（護民官）の愛称で呼ばれた。また、クラブマスコットは竜であり、愛称とマスコットはクラブのロゴにも取り入れられていた。
 
 ホーム・ユナイテッドはSリーグを2回、シンガポール・カップを6回優勝しており、特に2003年はSリーグとシンガポール・カップの2冠を制した。
 
-2020年2月14日、[Garena](https://ja.wikipedia.org/wiki/Garena "wikilink")や[Shopee](https://ja.wikipedia.org/wiki/Shopee "wikilink")といったサービスを擁するIT企業Seaグループがクラブの経営権を取得し、グループ創業者の[フォレスト・リー](https://ja.wikipedia.org/wiki/フォレスト・リー "wikilink")が会長に就任。併せてクラブ名を「ライオン・シティ・セーラーズFC」に改名し、併せて新しいクラブのロゴとキット及びスカッドを発表した\[1\]\[2\]。これによって、シンガポールで初となる私企業所有のサッカークラブが誕生した\[3\]。
+2020年2月14日、[Garena](../Page/Garena.md "wikilink")や[Shopee](../Page/Shopee.md "wikilink")といったサービスを擁するIT企業Seaグループがクラブの経営権を取得し、グループ創業者の[フォレスト・リー](../Page/フォレスト・リー.md "wikilink")が会長に就任。併せてクラブ名を「ライオン・シティ・セーラーズFC」に改名し、併せて新しいクラブのロゴとキット及びスカッドを発表した\[1\]\[2\]。これによって、シンガポールで初となる私企業所有のサッカークラブが誕生した\[3\]。
 
 ## タイトル
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
   -
-    [Kappa](https://ja.wikipedia.org/wiki/Kappa "wikilink")
+    [Kappa](../Page/Kappa.md "wikilink")
 
 ## 現所属選手
 
@@ -69,7 +69,7 @@
 
   - [安孝錬](https://ja.wikipedia.org/wiki/安孝錬 "wikilink") 2010
 
-  - [金大儀](https://ja.wikipedia.org/wiki/金大儀 "wikilink") 2011
+  - [金大儀](../Page/金大儀.md "wikilink") 2011
 
   - [新井健二](../Page/新井健二.md "wikilink") 2011-2012
 

@@ -47,13 +47,13 @@ Sリーグの前身、シンガポール国内リーグでは[1979年](../Page/1
 
   - [スティー・スックソムギット](https://ja.wikipedia.org/wiki/スティー・スックソムギット "wikilink") 2007 - 2009
 
-  - [金古聖司](https://ja.wikipedia.org/wiki/金古聖司 "wikilink") 2009 - 2011、2013
+  - [金古聖司](../Page/金古聖司.md "wikilink") 2009 - 2011、2013
 
   - [中村彰宏](../Page/中村彰宏.md "wikilink") 2009 - 2011
 
   - [アレクサンダー・ドゥリッチ](https://ja.wikipedia.org/wiki/アレクサンダー・ドゥリッチ "wikilink") 2010 - 2014
 
-  - [川上典洋](https://ja.wikipedia.org/wiki/川上典洋 "wikilink") 2014
+  - [川上典洋](../Page/川上典洋.md "wikilink") 2014
 
 ## 参考文献
 

@@ -9,7 +9,7 @@
 
 任天堂系ハード専門誌であるにもかかわらず、読者コーナーに[コーエー](../Page/コーエー.md "wikilink")の『[真・三國無双](https://ja.wikipedia.org/wiki/真・三國無双 "wikilink")』のキャラクターや、[ハリー･ポッターなどのイラストを載せることがあった](../Page/ハリー・ポッター_\(架空の人物\).md "wikilink")。
 
-[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")はゲーム攻略本や『[ファミコン4コマ王国](https://ja.wikipedia.org/wiki/4コマまんが王国 "wikilink")』などでは長い歴史を持つが、本格的なゲーム雑誌の創刊はこれが初めてであった。攻略本で培った豊富な実績を背景に、一時期はラジオCMを展開するなど健闘を見せたが、[2004年](../Page/2004年.md "wikilink")5月号で休刊。
+[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")はゲーム攻略本や『[ファミコン4コマ王国](../Page/4コマまんが王国.md "wikilink")』などでは長い歴史を持つが、本格的なゲーム雑誌の創刊はこれが初めてであった。攻略本で培った豊富な実績を背景に、一時期はラジオCMを展開するなど健闘を見せたが、[2004年](../Page/2004年.md "wikilink")5月号で休刊。
 
 マスコットキャラクターは、[小谷野弘子](https://ja.wikipedia.org/wiki/小谷野弘子 "wikilink")デザインのニンキー。
 
@@ -37,7 +37,7 @@
       - 高菜しんの
       - ちふくざわゆき
       - 加曽利りあら
-      - [李KPA](https://ja.wikipedia.org/wiki/李KPA "wikilink")
+      - [李KPA](../Page/李KPA.md "wikilink")
       - 伊勢結
       - ひらのわたる
       - なかがわはてな
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [どうぶつの森+ ぷりん村日記](../Page/どうぶつの森+.md "wikilink")（[まつやま登](https://ja.wikipedia.org/wiki/まつやま登 "wikilink")）
+  - [どうぶつの森+ ぷりん村日記](../Page/どうぶつの森+.md "wikilink")（[まつやま登](../Page/まつやま登.md "wikilink")）
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
   -
     同名のゲームを元にした、主人公のパワプロクンとその仲間たちの野球生活を描くギャグ漫画。
     明確な時期設定がなく、『パワプロクンポケット』や『[パワプロクンポケット2](https://ja.wikipedia.org/wiki/パワプロクンポケット2 "wikilink")』のキャラクターが同時に登場しているため、パラレル漫画と思われる。また、『パワプロクンポケット2』に登場する野々村愛の名前は、「藍」と表記されていた。
-    ちなみに「[パワプロシリーズ](https://ja.wikipedia.org/wiki/実況パワフルプロ野球 "wikilink")」や「[パワポケシリーズ](https://ja.wikipedia.org/wiki/パワプロクンポケットシリーズ "wikilink")」両作品を通じて初めてであり、唯一の漫画化作品である。これ以降この作品の漫画化は実現していない（2008年10月現在）。
+    ちなみに「[パワプロシリーズ](../Page/実況パワフルプロ野球.md "wikilink")」や「[パワポケシリーズ](https://ja.wikipedia.org/wiki/パワプロクンポケットシリーズ "wikilink")」両作品を通じて初めてであり、唯一の漫画化作品である。これ以降この作品の漫画化は実現していない（2008年10月現在）。
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@
 
 <!-- end list -->
 
-  - マンガのマンガ まんふじ（[坂井孝行](https://ja.wikipedia.org/wiki/K-1_ダイナマイト "wikilink")）
+  - マンガのマンガ まんふじ（[坂井孝行](../Page/K-1_ダイナマイト.md "wikilink")）
 
 <!-- end list -->
 

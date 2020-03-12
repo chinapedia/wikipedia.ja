@@ -1,7 +1,7 @@
 > この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
 
 
-[Honda_Fit_L13A_i-DSI_engine.jpg](https://ja.wikipedia.org/wiki/File:Honda_Fit_L13A_i-DSI_engine.jpg "fig:Honda_Fit_L13A_i-DSI_engine.jpg") [Honda_Hybrid_System_02.JPG](https://ja.wikipedia.org/wiki/File:Honda_Hybrid_System_02.JPG "fig:Honda_Hybrid_System_02.JPG") **L型エンジン**（Lがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されている[小型車種及び](../Page/Bセグメント.md "wikilink")[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")用の[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。
+[Honda_Fit_L13A_i-DSI_engine.jpg](https://ja.wikipedia.org/wiki/File:Honda_Fit_L13A_i-DSI_engine.jpg "fig:Honda_Fit_L13A_i-DSI_engine.jpg") [Honda_Hybrid_System_02.JPG](https://ja.wikipedia.org/wiki/File:Honda_Hybrid_System_02.JPG "fig:Honda_Hybrid_System_02.JPG") **L型エンジン**（Lがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されている[小型車種及び](../Page/Bセグメント.md "wikilink")[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")用の[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。
 
 ## 機構
 
@@ -12,9 +12,9 @@
 <!-- end list -->
 
   -
-    [D型の後継機種](../Page/ホンダ・D型エンジン.md "wikilink")。「CO<sub>2</sub>の削減（燃費の向上）」と「[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")のクリーン化」を両立しながら、走る楽しさ（動力性能の向上）との高次元での融合を目指した「i-シリーズ」のエンジンであり、[K型に続く第](https://ja.wikipedia.org/wiki/ホンダ・K型エンジン "wikilink")2弾として登場した。
-    [吸・排気バルブは](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")1つずつだが、[点火プラグ](../Page/点火プラグ.md "wikilink")が対角の位置に2個ずつ取付けられ、その1つ1つに[点火コイルを装着し](https://ja.wikipedia.org/wiki/イグニッションコイル "wikilink")、エンジン回転や負荷に応じて最適なタイミングと位相で点火する。吸排気ポートは[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")内に[スワールが形成される形状にし](../Page/乱流.md "wikilink")、燃焼速度の向上を図っている。は[アルミ製](../Page/アルミニウム.md "wikilink")[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")には[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")と[クランクシャフト](https://ja.wikipedia.org/wiki/クランクシャフト "wikilink")の中心軸がオフセットされ、[ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")とシリンダー間の摩擦抵抗の低減を図っている。
-    また、エンジン後方に[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")を取付けることにより、エンジンと[三元触媒](https://ja.wikipedia.org/wiki/三元触媒 "wikilink")との間隔を近づけ、冷間時でも早期から[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")の浄化を可能にした。さらに、排気ガスを触媒のセル面に対して斜めにあて接触面積を増やし、浄化効率を向上させている。
+    [D型の後継機種](../Page/ホンダ・D型エンジン.md "wikilink")。「CO<sub>2</sub>の削減（燃費の向上）」と「[排気ガス](../Page/排気ガス.md "wikilink")のクリーン化」を両立しながら、走る楽しさ（動力性能の向上）との高次元での融合を目指した「i-シリーズ」のエンジンであり、[K型に続く第](../Page/ホンダ・K型エンジン.md "wikilink")2弾として登場した。
+    [吸・排気バルブは](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")1つずつだが、[点火プラグ](../Page/点火プラグ.md "wikilink")が対角の位置に2個ずつ取付けられ、その1つ1つに[点火コイルを装着し](https://ja.wikipedia.org/wiki/イグニッションコイル "wikilink")、エンジン回転や負荷に応じて最適なタイミングと位相で点火する。吸排気ポートは[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")内に[スワールが形成される形状にし](../Page/乱流.md "wikilink")、燃焼速度の向上を図っている。は[アルミ製](../Page/アルミニウム.md "wikilink")[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")には[シリンダー](../Page/シリンダー.md "wikilink")と[クランクシャフト](../Page/クランクシャフト.md "wikilink")の中心軸がオフセットされ、[ピストン](../Page/ピストン.md "wikilink")とシリンダー間の摩擦抵抗の低減を図っている。
+    また、エンジン後方に[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")を取付けることにより、エンジンと[三元触媒](../Page/三元触媒.md "wikilink")との間隔を近づけ、冷間時でも早期から[排気ガス](../Page/排気ガス.md "wikilink")の浄化を可能にした。さらに、排気ガスを触媒のセル面に対して斜めにあて接触面積を増やし、浄化効率を向上させている。
 
 ### i-DSI+VCM
 
@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [シビックハイブリッド及び](https://ja.wikipedia.org/wiki/ホンダ・シビックハイブリッド "wikilink")2代目[インサイト用に開発](../Page/ホンダ・インサイト.md "wikilink")。[可変バルブタイミング・リフト機構を応用し](../Page/可変バルブ機構.md "wikilink")、減速回生時に一部または全気筒の吸・排気バルブを休止させ\[1\]ることにより擬似的に[排気量を可変させ](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")、吸・排気の[ポンピングロス](https://ja.wikipedia.org/wiki/ポンピングロス "wikilink")を低減させている。これによりタイヤからの回転エネルギーを無駄なく[発電機](../Page/発電機.md "wikilink")（[IMA用モーター](https://ja.wikipedia.org/wiki/Honda_IMAシステム "wikilink")）へ伝え、回生効率を向上させている。さらに、2代目シビックハイブリッド用は、3ステージ[i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")（低速域：ローカム運転、高速域：吸気のみハイカムによる高出力運転、減速回生時：吸・排気バルブを休止）仕様となっている。
+    [シビックハイブリッド及び](../Page/ホンダ・シビックハイブリッド.md "wikilink")2代目[インサイト用に開発](../Page/ホンダ・インサイト.md "wikilink")。[可変バルブタイミング・リフト機構を応用し](../Page/可変バルブ機構.md "wikilink")、減速回生時に一部または全気筒の吸・排気バルブを休止させ\[1\]ることにより擬似的に[排気量を可変させ](../Page/気筒休止エンジン.md "wikilink")、吸・排気の[ポンピングロス](../Page/ポンピングロス.md "wikilink")を低減させている。これによりタイヤからの回転エネルギーを無駄なく[発電機](../Page/発電機.md "wikilink")（[IMA用モーター](../Page/Honda_IMAシステム.md "wikilink")）へ伝え、回生効率を向上させている。さらに、2代目シビックハイブリッド用は、3ステージ[i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")（低速域：ローカム運転、高速域：吸気のみハイカムによる高出力運転、減速回生時：吸・排気バルブを休止）仕様となっている。
     2代目シビックハイブリッド用及び2代目インサイト用にはエキゾーストマニホールドが無く、シリンダーヘッド内で隣り合う排気ポートが集合し、その直後に三元触媒が装備されている。
 
 ### VTEC
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    吸・排気バルブはそれぞれ2個ずつで、高出力と実用性を両立するために、可変バルブタイミング・リフト機構が装備されている。低速域\[2\]で吸気バルブのうち片方を休止することにより、燃焼室内にスワールを形成させ、燃焼速度の向上を図る「[VTEC-E](https://ja.wikipedia.org/wiki/VTEC-E "wikilink")」に類似した仕様である。
+    吸・排気バルブはそれぞれ2個ずつで、高出力と実用性を両立するために、可変バルブタイミング・リフト機構が装備されている。低速域\[2\]で吸気バルブのうち片方を休止することにより、燃焼室内にスワールを形成させ、燃焼速度の向上を図る「[VTEC-E](../Page/VTEC-E.md "wikilink")」に類似した仕様である。
 
 ### i-VTEC
 
@@ -42,14 +42,14 @@
 <!-- end list -->
 
   -
-    前述したVTECと同様、低速域で吸気バルブのうち片方を休止する省燃費仕様と、低速・高速でカムプロフィールを切り替えるパフォーマンス仕様のSOHCエンジンがあり、低速域と高速域で吸気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させる仕様のDOHCがエンジンが存在する\[3\]。[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikilink")バルブは[DBWにより開閉されている](https://ja.wikipedia.org/wiki/ドライブ・バイ・ワイヤ "wikilink")。LDA後期仕様と同様にエキゾーストマニホールドが無く、シリンダーヘッド内で排気ポートが集合している。
+    前述したVTECと同様、低速域で吸気バルブのうち片方を休止する省燃費仕様と、低速・高速でカムプロフィールを切り替えるパフォーマンス仕様のSOHCエンジンがあり、低速域と高速域で吸気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させる仕様のDOHCがエンジンが存在する\[3\]。[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikilink")バルブは[DBWにより開閉されている](../Page/ドライブ・バイ・ワイヤ.md "wikilink")。LDA後期仕様と同様にエキゾーストマニホールドが無く、シリンダーヘッド内で排気ポートが集合している。
 
 ### EARTH DREAMS TECHNOLOGY
 
 #### LFA
 
   -
-    [アコードハイブリッド用に開発された](../Page/ホンダ・アコードハイブリッド.md "wikilink")[ミラーサイクル](https://ja.wikipedia.org/wiki/ミラーサイクル "wikilink")エンジン。型式こそ「L型」だがベースは[R型エンジンであるため](https://ja.wikipedia.org/wiki/ホンダ・R型エンジン "wikilink")、2.0Lの排気量のほか各部の仕様は他のL型とは大きく異なる。動弁系は[DOHC](../Page/DOHC.md "wikilink")化され、吸気カムシャフトにはVTECと電動VTCを組合せたi-VTECが装着されている。ロッカーアームやクランクシャフトなどが大幅に軽量化され、水冷[EGRの採用などと合わせて](../Page/排気再循環.md "wikilink")、多くの条件の中で熱効率の向上や冷却損失の低減が図られている。
+    [アコードハイブリッド用に開発された](../Page/ホンダ・アコードハイブリッド.md "wikilink")[ミラーサイクル](../Page/ミラーサイクル.md "wikilink")エンジン。型式こそ「L型」だがベースは[R型エンジンであるため](../Page/ホンダ・R型エンジン.md "wikilink")、2.0Lの排気量のほか各部の仕様は他のL型とは大きく異なる。動弁系は[DOHC](../Page/DOHC.md "wikilink")化され、吸気カムシャフトにはVTECと電動VTCを組合せたi-VTECが装着されている。ロッカーアームやクランクシャフトなどが大幅に軽量化され、水冷[EGRの採用などと合わせて](../Page/排気再循環.md "wikilink")、多くの条件の中で熱効率の向上や冷却損失の低減が図られている。
     吸気カムシャフトには燃費用と出力用のカムがあり、VTECにより状況に合わせて切り替えられる。出力用カムは燃費用カムより狭い作用角が与えられており、吸気バルブが早めに閉じることで吸気の充填効率を上げ、出力を向上させる。電動VTCはエンジン再始動時の振動を低減（吸気弁の遅閉じデコンプ制御）を可能にする目的もある。吸気バルブの遅閉じにより、圧縮比は13.0と高く設定されている。
     その他、従来ベルトなどで駆動していた冷却水用ポンプやエアコン用コンプレッサーなども電動化され、補機ベルトが不要になったことによるフリクション低減やエンジン全長の短縮も図られている。
 
@@ -63,7 +63,7 @@
   - NA
     3代目フィットに初搭載されたDOHC直噴エンジン。吸気側にはVTCとともに低速カムと高速カムによる高出力型VTECを採用する。圧縮比は11.5。点火プラグの小径化によってバルブ径を拡大し吸気効率をアップ、ポンピングロスを低減している。クランクシャフトではジャーナル径を50mmから46mmにサイズダウン、バランスウェイトも減らして軽量化している\[4\]。
   - VTEC TURBO
-    [ダウンサイジングコンセプト](../Page/ダウンサイジングコンセプト.md "wikilink")に基づき、L15Bに[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")を組み合わせて2.0L並みの性能を発揮する。5代目ステップワゴンに初搭載された。ホンダの登録車向けターボエンジンは初代[レジェンドに搭載された](../Page/ホンダ・レジェンド.md "wikilink")[C20A以来](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン "wikilink")\[5\]である。また､VTECと称しているがバルブ可変機構は位相可変型のVTCのみであり､これをVTECと呼ぶのはこれが初めてである。ベースとなったエンジンは前方吸気・後方排気であったが本エンジンでは後方吸気・前方排気となっている。
+    [ダウンサイジングコンセプト](../Page/ダウンサイジングコンセプト.md "wikilink")に基づき、L15Bに[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")を組み合わせて2.0L並みの性能を発揮する。5代目ステップワゴンに初搭載された。ホンダの登録車向けターボエンジンは初代[レジェンドに搭載された](../Page/ホンダ・レジェンド.md "wikilink")[C20A以来](../Page/ホンダ・C型エンジン.md "wikilink")\[5\]である。また､VTECと称しているがバルブ可変機構は位相可変型のVTCのみであり､これをVTECと呼ぶのはこれが初めてである。ベースとなったエンジンは前方吸気・後方排気であったが本エンジンでは後方吸気・前方排気となっている。
 
 #### LEB
 
@@ -75,10 +75,10 @@
   - [2001年](../Page/2001年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")発表の[フィットに](../Page/ホンダ・フィット.md "wikilink")**L13A**が初採用。
   - 2001年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発表のシビックハイブリッドにIMA仕様の**LDA**を搭載。
   - [2002年](../Page/2002年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")発表の[モビリオスパイクに](../Page/ホンダ・モビリオスパイク.md "wikilink")4バルブVTECの**L15A**を搭載。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")発表の2代目シビックハイブリッドのLDAに、全気筒休止モードなどを追加した3ステージi-VTECが採用された。
+  - [2005年](../Page/2005年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")発表の2代目シビックハイブリッドのLDAに、全気筒休止モードなどを追加した3ステージi-VTECが採用された。
   - [2007年](../Page/2007年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")発表の2代目フィットに、i-VTEC化されたL13AとL15Aを搭載。
   - [2013年](../Page/2013年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")発表の2代目アコードハイブリッドに、EARTH DREAMS TECHNOLOGYを投入した2,000ccの**LFA**を搭載。
-  - 2013年[9月5日](../Page/9月5日.md "wikilink")発表の3代目フィットに、[ミラーサイクル](https://ja.wikipedia.org/wiki/ミラーサイクル "wikilink")（[アトキンソンサイクル](https://ja.wikipedia.org/wiki/アトキンソンサイクル "wikilink")）エンジンの**L13B**、直噴仕様の**L15B**、ハイブリッド向けの**LEB**が採用された。
+  - 2013年[9月5日](../Page/9月5日.md "wikilink")発表の3代目フィットに、[ミラーサイクル](../Page/ミラーサイクル.md "wikilink")（[アトキンソンサイクル](../Page/アトキンソンサイクル.md "wikilink")）エンジンの**L13B**、直噴仕様の**L15B**、ハイブリッド向けの**LEB**が採用された。
   - [2015年](../Page/2015年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")発表の5代目ステップワゴンに、ターボ仕様のL15Bが採用された。
   - [2017年](../Page/2017年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発表の10代目シビックハッチバックに専用チューニングが施されたハイオク仕様の**L15C**が採用された。
 
@@ -408,7 +408,7 @@ i-VTEC
   - [モビリオ](../Page/ホンダ・モビリオ.md "wikilink")（GB1/2）
   - [モビリオスパイク](../Page/ホンダ・モビリオスパイク.md "wikilink")（GK1/2）
   - [パートナー](../Page/ホンダ・パートナー.md "wikilink")（GJ3/4）
-  - [エアウェイブ](https://ja.wikipedia.org/wiki/ホンダ・エアウェイブ "wikilink")（GJ1/2）
+  - [エアウェイブ](../Page/ホンダ・エアウェイブ.md "wikilink")（GJ1/2）
   - [フリード](https://ja.wikipedia.org/wiki/ホンダ・フリード "wikilink")（GB3/4）
   - [フリードスパイク](https://ja.wikipedia.org/wiki/ホンダ・フリードスパイク "wikilink")（GB3/4）
   - [フィットシャトル](https://ja.wikipedia.org/wiki/ホンダ・フィットシャトル "wikilink")（GG7/8）
@@ -419,7 +419,7 @@ i-VTEC
 
 <!-- end list -->
 
-  - [シビックハイブリッド](https://ja.wikipedia.org/wiki/ホンダ・シビックハイブリッド "wikilink")（ES9/FD3）
+  - [シビックハイブリッド](../Page/ホンダ・シビックハイブリッド.md "wikilink")（ES9/FD3）
   - [フィットハイブリッド](https://ja.wikipedia.org/wiki/フィットハイブリッド "wikilink")（GP1）
   - [インサイト](https://ja.wikipedia.org/wiki/インサイト "wikilink")（ZE2)
 
@@ -441,11 +441,11 @@ i-VTEC
   - [i-DSI](https://ja.wikipedia.org/wiki/i-DSI "wikilink")
   - [VTEC](../Page/VTEC.md "wikilink")
   - [i-VTEC](https://ja.wikipedia.org/wiki/i-VTEC "wikilink")
-  - [IMA](https://ja.wikipedia.org/wiki/Honda_IMAシステム "wikilink")
+  - [IMA](../Page/Honda_IMAシステム.md "wikilink")
   - [ホンダのエンジン型式一覧](https://ja.wikipedia.org/wiki/ホンダのエンジン型式一覧 "wikilink")
   - [ホンダ・D型エンジン](../Page/ホンダ・D型エンジン.md "wikilink")
   - [スーパーFJ](../Page/スーパーFJ.md "wikilink")
-  - [フォーミュラ・フォード](https://ja.wikipedia.org/wiki/フォーミュラ・フォード "wikilink")：2010年より、Ford Kent unitに替わりL15Aが使用されている。（[Honda Fit Engine in Formula Ford Proposed Rules](http://www.scca.com/documents/Club%20Rules/Honda%20Fit%20GCR%20changes%20Rev%208-5.pdf)）
+  - [フォーミュラ・フォード](../Page/フォーミュラ・フォード.md "wikilink")：2010年より、Ford Kent unitに替わりL15Aが使用されている。（[Honda Fit Engine in Formula Ford Proposed Rules](http://www.scca.com/documents/Club%20Rules/Honda%20Fit%20GCR%20changes%20Rev%208-5.pdf)）
   - [ホンダ・NC](https://ja.wikipedia.org/wiki/ホンダ・NC "wikilink")：搭載エンジンのR61E型は、開発初期にL13A型をベースにしていた。
 
 ## 外部リンク
@@ -460,4 +460,4 @@ i-VTEC
 2.  エンジン回転数の正式名称はエンジン回転速度。 JIS B 0108-1による。
 3.  登場当初のi-VTECは既存のVTECに位相可変機構VTCを組み合わせたものを指していた。その後、VTCの有無限らず何らかの新機軸を盛り込んだVTECをi-VTECと称するようになった。片バルブ休止を行うSOHC VTECは既に存在したが[吸気](https://ja.wikipedia.org/wiki/吸気 "wikilink")量の検出方法を改良した事でi-VTECと称する事となった。
 4.  <http://www.hondanews.com/channels/honda-automobiles-fit/releases/2015-honda-fit-powertrains>
-5.  アキュラブランドでは2006年の[アキュラ・RDX](https://ja.wikipedia.org/wiki/アキュラ・RDX "wikilink")に搭載された[K23Aがある](https://ja.wikipedia.org/wiki/ホンダ・K型エンジン "wikilink")。
+5.  アキュラブランドでは2006年の[アキュラ・RDX](../Page/アキュラ・RDX.md "wikilink")に搭載された[K23Aがある](../Page/ホンダ・K型エンジン.md "wikilink")。

@@ -1,7 +1,7 @@
 > この記事は[LAST ALLIANCE](https://ja.wikipedia.org/wiki/LAST_ALLIANCE)から翻訳されています。
 
 
-**LAST ALLIANCE**（ラスト アライアンス）は、日本の[4人組](https://ja.wikipedia.org/wiki/四人組 "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**LAST ALLIANCE**（ラスト アライアンス）は、日本の[4人組](../Page/四人組.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要
 
@@ -10,9 +10,9 @@
 ## メンバー
 
   - 安斉龍介（あんざい りゅうすけ、[1975年](../Page/1975年.md "wikilink")生）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")出身。[武蔵工業大学付属中学校・高等学校卒](https://ja.wikipedia.org/wiki/東京都市大学付属中学校・高等学校 "wikilink")。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。[武蔵工業大学付属中学校・高等学校卒](../Page/東京都市大学付属中学校・高等学校.md "wikilink")。
   - 松村孝彦（まつむら たかひこ、1975年生）
-      - ボーカル・[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")出身。武蔵工業大学付属中学校・高等学校卒。
+      - ボーカル・[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")出身。武蔵工業大学付属中学校・高等学校卒。
   - 佐野森吾（さの しんご、1975年生）
       - ギター担当。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[座間市](../Page/座間市.md "wikilink")出身。武蔵工業大学付属中学校・高等学校卒。
       - アーティストネームは、SANO（デビュー前 - 『TEARS LIBRARY』）→SARUGO45（「YGサービス」 - 「IO」）→SANO45（『UNDERGROUND BLUE』）→SS（「Re:frain」）→3045（「DAZE & HOPE」）→SHINGO STAR（『Me and Your Borderline』）→さの☆しんご（「Signal 004」）→SHINGØWY（「Always in My Heart」）→shingo（『the sum』）→THINGO（「new dawn」）→SHINGO CHANCE\!（「KAWASAKI RELAX」）→Seeing goat（「Keep on smashing blue,」）→BOUBACAR（「for staying real BLUE.」）→sanoshingo Else（「c.s.c 20022011」）と作品発表の度に変えている。また、メンバーからはサノゴと呼ばれることもある。
@@ -23,7 +23,7 @@
 
   - [2002年](../Page/2002年.md "wikilink")
       - [6月](../Page/6月.md "wikilink")、既に解散した[S★CREATERS](https://ja.wikipedia.org/wiki/S★CREATERS "wikilink")より安斉と小澤、同じく同時期に解散した[BERMUDA](https://ja.wikipedia.org/wiki/BERMUDA "wikilink")より松村と佐野の4人で結成。自主レーベルのTEARS LIBRARYを安斉を中心として設立。
-      - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、新宿ACBで初ライブを行い、以降は[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で主に活動を行う。
+      - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、新宿ACBで初ライブを行い、以降は[ライブハウス](../Page/ライブハウス.md "wikilink")で主に活動を行う。
   - [2003年](../Page/2003年.md "wikilink")
       - [2月14日](../Page/2月14日.md "wikilink")、自主企画イベント「UPRISING vol.1\]」を下北沢屋根裏にて行う。
       - [5月19日](../Page/5月19日.md "wikilink")、自主企画イベント「UPRISING vol.3\]」を下北沢SHELTERにて行う。
@@ -37,13 +37,13 @@
       - [9月](../Page/9月.md "wikilink")、2ヶ月にも及ぶツアー「一葉落ちて天下の秋を知る TOUR」で全国30ヶ所を回る。この頃よりOne-Coin recordsへレーベルを移籍。
       - [11月11日](../Page/11月11日.md "wikilink")、DOLCEとの共同企画イベント「UPRISING × DEAR SWEET NIGHT\]」を新宿LOFTにて行う。
       - [12月8日](../Page/12月8日.md "wikilink")、2枚目のアルバム『UNDERGROUND BLUE』を発売。オリコン[インディーズ](../Page/インディーズ.md "wikilink")チャート最高位7位を記録し、ロングセールスを記録。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、ツアー「UNDERGROUND BLUE TOUR」を行う。
       - [2月4日](../Page/2月4日.md "wikilink")、自主企画イベント「UPRISING vol.6 / \[LAST ALLIANCE \*UNDERGROUND BLUE TOUR START\*\]」を高田馬場CLUB PHASEにて行う。
       - [3月30日](../Page/3月30日.md "wikilink")、自主企画イベント「UPRISING vol.7 in 地元\]」を町田PLAY HOUSEにて行う。
-      - [5月2日](../Page/5月2日.md "wikilink")、[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")、ワンマンライブ2DAYS「TOKYO UNDERGROUND BLUE」を下北沢屋根裏にて行う。
+      - [5月2日](../Page/5月2日.md "wikilink")、[5月3日](../Page/5月3日.md "wikilink")、ワンマンライブ2DAYS「TOKYO UNDERGROUND BLUE」を下北沢屋根裏にて行う。
       - [10月5日](../Page/10月5日.md "wikilink")、4枚目のシングル「Re:frain」を発売。最初から最後までを一連の流れとして繋げるコンセプチュアルな内容になっている。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、自主企画イベント「UPRISING TOUR 東名阪」を行う。
       - [5月17日](../Page/5月17日.md "wikilink")、5枚目のシングル「DAZE & HOPE」を発売。オリコンシングル総合チャート最高位38位を記録、オリコンインディーズチャートでは初登場1位を記録。
       - [6月](../Page/6月.md "wikilink")、ツアー「DAZE & HOPE TOUR」を行う。
@@ -53,12 +53,12 @@
   - [2007年](../Page/2007年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、ツアー「Me and Your Borderline TOUR」を行う。
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、DOLCEとのカップリングツアー「ROCK'N'ROCK TOUR」を行う。
-      - 夏、[VAPと契約し](https://ja.wikipedia.org/wiki/バップ "wikilink")、移籍。
+      - 夏、[VAPと契約し](../Page/バップ.md "wikilink")、移籍。
       - [9月2日](../Page/9月2日.md "wikilink")、自主野外イベント「UPFIELD 2007」を所沢航空記念公園野外ステージにて行う。
       - [11月28日](../Page/11月28日.md "wikilink")、6枚目のシングル「Signal 004」を発売し、メジャーデビュー。初のDVD付作品となる。オリコンシングルチャートで最高位46位を記録、初動売上枚数もシングル自己最高を記録。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 2月、メジャーデビュー後初となるツアー「Signal 004 TOUR」を行う。
-      - [4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")、7枚目のシングル「Always in My Heart」を発売。オリコンシングルチャートで最高位30位を記録し、チャートの最高順位の記録を更新。
+      - [4月16日](../Page/4月16日.md "wikilink")、7枚目のシングル「Always in My Heart」を発売。オリコンシングルチャートで最高位30位を記録し、チャートの最高順位の記録を更新。
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、ツアー「Always in My Heart TOUR」が予定されていたが、小澤の体調不良のため中止となる。
       - [6月25日](../Page/6月25日.md "wikilink")、メジャー初となる4枚目のアルバム『the sum』を発売。オリコンアルバム総合チャート最高位43位を記録。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、ツアー「the sum TOUR 2008」を行う。
@@ -132,7 +132,7 @@
 <li>スロースターター</li>
 <li>MABOROSHI MEMORY
 <ul>
-<li>CD-EXTRA仕様（「EQUAL REASON」<a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">プロモーションビデオ収録</a>）
+<li>CD-EXTRA仕様（「EQUAL REASON」<a href="../Page/ミュージック・ビデオ.md" title="wikilink">プロモーションビデオ収録</a>）
 </div>
 </div></li>
 </ul></li>
@@ -197,7 +197,7 @@
 <li>一刀旅団</li>
 <li>One Drop Of Tear
 <ul>
-<li>CD-EXTRA仕様（「GREENS SUNLIGHT」<a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">プロモーションビデオ収録</a>）
+<li>CD-EXTRA仕様（「GREENS SUNLIGHT」<a href="../Page/ミュージック・ビデオ.md" title="wikilink">プロモーションビデオ収録</a>）
 </div>
 </div></li>
 </ul></li>
@@ -221,7 +221,7 @@ VPCC-82246:通常盤</p></td>
 <li>蒼い銃創</li>
 <li>真冬の蝉
 <ul>
-<li>初回限定盤DVD付（「Drag On」「疾走」<a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">プロモーションビデオ収録</a>）
+<li>初回限定盤DVD付（「Drag On」「疾走」<a href="../Page/ミュージック・ビデオ.md" title="wikilink">プロモーションビデオ収録</a>）
 </div>
 </div></li>
 </ul></li>
@@ -631,7 +631,7 @@ VPCC-81706:通常盤</p></td>
   - Offensive Power Point Vol.1（2004年発売）
       - M-3「BOYS DON'T CRY」収録
   - D★SELDOM 其の10（2005年[1月20日](../Page/1月20日.md "wikilink")発売）
-      - [新星堂](https://ja.wikipedia.org/wiki/新星堂 "wikilink")店舗5000枚限定販売
+      - [新星堂](../Page/新星堂.md "wikilink")店舗5000枚限定販売
       - DISC2・M-5「GREENS SUNLIGHT」収録
   - Offensive Power Point（2005年[1月30日](../Page/1月30日.md "wikilink")発売）
       - M-2「スロースターター」収録
@@ -764,20 +764,20 @@ VPCC-81706:通常盤</p></td>
 | 曲名              | タイアップ                                                                                                                                                                                                                                                                    |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 疾走              | [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[桜蘭高校ホスト部](../Page/桜蘭高校ホスト部.md "wikilink")』エンディングテーマ                                                                                                                                                                         |
-| Drag On         | 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2007年11月度オープニングテーマ                                                                                                                                                              |
+| Drag On         | 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2007年11月度オープニングテーマ                                                                                                                                                                                 |
 | 片膝の汚れ           | 日本テレビ系アニメ『[RD 潜脳調査室](https://ja.wikipedia.org/wiki/RD_潜脳調査室 "wikilink")』エンディングテーマ、日本テレビ系『音楽戦士 MUSIC FIGHTER』POWER PLAY、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[HOT WAVE](https://ja.wikipedia.org/wiki/HOT_WAVE_\(テレビ埼玉\) "wikilink")』2008年6月度エンディングテーマ |
 | HEKIREKI        | 日本テレビ系アニメ『[はじめの一歩 New Challenger](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")』オープニングテーマ                                                                                                                                                                             |
 | GREENS SUNLIGHT | 日本テレビ系『音楽戦士 MUSIC FIGHTER』サビNAVIオンエア曲                                                                                                                                                                                                                                    |
 | SPIRAL WORLD    | 日本テレビ系『音楽戦士 MUSIC FIGHTER』2006年12月度エンディングテーマ                                                                                                                                                                                                                             |
-| Change by 1     | [TBS系](../Page/TBSテレビ.md "wikilink")『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2008年6月度オープニングテーマ                                                                                                                                                    |
-| Proud of Scar   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[草野☆キッド](https://ja.wikipedia.org/wiki/草野☆キッド "wikilink")』エンディングテーマ                                                                                                                                                                |
+| Change by 1     | [TBS系](../Page/TBSテレビ.md "wikilink")『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』2008年6月度オープニングテーマ                                                                                                                                                                       |
+| Proud of Scar   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[草野☆キッド](../Page/草野☆キッド.md "wikilink")』エンディングテーマ                                                                                                                                                                                   |
 | WEDGE           | 日本テレビ系『音楽戦士 MUSIC FIGHTER』2009年9月度オープニングテーマ                                                                                                                                                                                                                              |
 | TOMORROW        | 日本テレビ系『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』エンディングテーマ                                                                                                                                                                                                      |
 | WING            | 日本テレビ系『[ハッピーMusic](https://ja.wikipedia.org/wiki/ハッピーMusic "wikilink")』2010年11月度エンディングテーマ、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[音楽缶](https://ja.wikipedia.org/wiki/音楽缶 "wikilink")♯』2010年11月度オープニング＆エンディング曲                                                            |
 
 ## 主な出演イベント
 
-  - 2007年01月01日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07
+  - 2007年01月01日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
   - 2007年12月28日 - COUNTDOWN JAPAN 07/08
   - 2008年08月03日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2008年12月09日 - [WRONG SCALE](https://ja.wikipedia.org/wiki/WRONG_SCALE "wikilink") presents STRENGTH BEYOND STRENGTH
@@ -789,7 +789,7 @@ VPCC-81706:通常盤</p></td>
   - 2011年05月04日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")11
   - 2011年10月13日 - 電撃バップ vol.1
   - 2012年01月27日 - となりのバンドマン12
-  - 2012年02月25日・26日 - [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink") TOUR 2012 「GOLD」
+  - 2012年02月25日・26日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") TOUR 2012 「GOLD」
   - 2012年05月15日・16日 - [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") 50 PUSH\!\! ALL AROUND JAPAN TOUR 2012
   - 2012年05月22日・23日 - [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink") LiFE and DEATH TOUR 2012
   - 2012年07月17日 - PUNKLOID × RED LINE TAG FES NO BLUR CIRCUIT 2012

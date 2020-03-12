@@ -24,7 +24,7 @@
 
 1.  **[アザミ嬢のララバイ](https://ja.wikipedia.org/wiki/アザミ嬢のララバイ "wikilink")**
       -
-        編曲:[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+        編曲:[船山基紀](../Page/船山基紀.md "wikilink")
     <!-- end list -->
       - 1stシングル。アルバム『[私の声が聞こえますか](../Page/私の声が聞こえますか.md "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
 2.  **[時代](https://ja.wikipedia.org/wiki/時代_\(中島みゆきの曲\)#シングル「時代」（1975年） "wikilink")**
@@ -39,22 +39,22 @@
       - 3rdシングル。アルバム初収録。
 4.  **[夜風の中から](https://ja.wikipedia.org/wiki/夜風の中から "wikilink")**
       -
-        編曲:[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+        編曲:[萩田光雄](../Page/萩田光雄.md "wikilink")
     <!-- end list -->
       - 4thシングル。アルバム『[みんな去ってしまった](../Page/みんな去ってしまった.md "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
 5.  **[わかれうた](https://ja.wikipedia.org/wiki/わかれうた "wikilink")**
       -
-        編曲:[吉野金次](https://ja.wikipedia.org/wiki/吉野金次 "wikilink")、[福井峻](https://ja.wikipedia.org/wiki/福井峻 "wikilink")
+        編曲:[吉野金次](https://ja.wikipedia.org/wiki/吉野金次 "wikilink")、[福井峻](../Page/福井峻.md "wikilink")
     <!-- end list -->
-      - 5thシングル。アルバム『[愛していると云ってくれ](https://ja.wikipedia.org/wiki/愛していると云ってくれ "wikilink")』にも収録されている。
+      - 5thシングル。アルバム『[愛していると云ってくれ](../Page/愛していると云ってくれ.md "wikilink")』にも収録されている。
 6.  **[おもいで河](https://ja.wikipedia.org/wiki/おもいで河 "wikilink")**
       -
-        編曲:[若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+        編曲:[若草恵](../Page/若草恵.md "wikilink")
     <!-- end list -->
       - 6thシングル。アルバム初収録。
 7.  **[りばいばる](https://ja.wikipedia.org/wiki/りばいばる "wikilink")**
       -
-        編曲:[戸塚修](https://ja.wikipedia.org/wiki/戸塚修 "wikilink")
+        編曲:[戸塚修](../Page/戸塚修.md "wikilink")
     <!-- end list -->
       - 7thシングル。アルバム初収録。
 8.  **[かなしみ笑い](https://ja.wikipedia.org/wiki/かなしみ笑い "wikilink")**
@@ -64,9 +64,9 @@
       - 8thシングル。アルバム初収録。
 9.  **[ひとり上手](https://ja.wikipedia.org/wiki/ひとり上手 "wikilink")**
       -
-        編曲:[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+        編曲:[萩田光雄](../Page/萩田光雄.md "wikilink")
     <!-- end list -->
-      - 9thシングル。アルバム『[臨月](https://ja.wikipedia.org/wiki/臨月_\(中島みゆきのアルバム\) "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
+      - 9thシングル。アルバム『[臨月](../Page/臨月_\(中島みゆきのアルバム\).md "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
 10. **[あした天気になれ](https://ja.wikipedia.org/wiki/あした天気になれ "wikilink")**
       -
         編曲:[星勝](../Page/星勝.md "wikilink")
@@ -76,7 +76,7 @@
       -
         編曲:船山基紀
     <!-- end list -->
-      - 11thシングル。アルバム『[寒水魚](https://ja.wikipedia.org/wiki/寒水魚 "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
+      - 11thシングル。アルバム『[寒水魚](../Page/寒水魚.md "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
 12. **[誘惑](https://ja.wikipedia.org/wiki/誘惑_\(中島みゆきの曲\) "wikilink")**
       -
         編曲:船山基紀
@@ -89,17 +89,17 @@
       - 13thシングル。アルバム初収録。
 14. **[あの娘](https://ja.wikipedia.org/wiki/あの娘 "wikilink")**
       -
-        編曲:[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")
+        編曲:[井上堯之](../Page/井上堯之.md "wikilink")
     <!-- end list -->
       - 14thシングル。アルバム初収録。
 15. **[ひとり](https://ja.wikipedia.org/wiki/ひとり_\(中島みゆきの曲\) "wikilink")**
       -
         編曲:船山基紀
     <!-- end list -->
-      - 15thシングル。アルバム『[はじめまして](https://ja.wikipedia.org/wiki/はじめまして_\(中島みゆきのアルバム\) "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
+      - 15thシングル。アルバム『[はじめまして](../Page/はじめまして_\(中島みゆきのアルバム\).md "wikilink")』にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
 16. **[孤独の肖像](https://ja.wikipedia.org/wiki/孤独の肖像 "wikilink")**
       -
-        編曲:[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+        編曲:[後藤次利](../Page/後藤次利.md "wikilink")
     <!-- end list -->
       - 16thシングル。アルバム「[miss M.](https://ja.wikipedia.org/wiki/miss_M._\(中島みゆきのアルバム\) "wikilink")」にはアルバムバージョンで収録されている。シングルバージョンはアルバム初収録。
 
@@ -117,12 +117,12 @@
 6.  **おもいで河**
 7.  **かなしみ笑い**
 8.  **あした天気になれ**
-9.  **[僕たちの将来](https://ja.wikipedia.org/wiki/はじめまして_\(中島みゆきのアルバム\) "wikilink")**
+9.  **[僕たちの将来](../Page/はじめまして_\(中島みゆきのアルバム\).md "wikilink")**
       -
         編曲:[小野崎孝輔](https://ja.wikipedia.org/wiki/小野崎孝輔 "wikilink")
-10. **[はじめまして](https://ja.wikipedia.org/wiki/はじめまして_\(中島みゆきのアルバム\) "wikilink")**
+10. **[はじめまして](../Page/はじめまして_\(中島みゆきのアルバム\).md "wikilink")**
       -
-        編曲:[倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")
+        編曲:[倉田信雄](../Page/倉田信雄.md "wikilink")
 
 ### SIDE B
 
@@ -133,10 +133,10 @@
 5.  **りばいばる**
 6.  **ひとり上手**
 7.  **あの娘**
-8.  **[ひとりぽっちで踊らせて](https://ja.wikipedia.org/wiki/御色なおし "wikilink")**
+8.  **[ひとりぽっちで踊らせて](../Page/御色なおし.md "wikilink")**
       -
-        編曲:[チト河内](https://ja.wikipedia.org/wiki/チト河内 "wikilink")
-9.  **[カム・フラージュ](https://ja.wikipedia.org/wiki/御色なおし "wikilink")**
+        編曲:[チト河内](../Page/チト河内.md "wikilink")
+9.  **[カム・フラージュ](../Page/御色なおし.md "wikilink")**
       -
         編曲:チト河内
 10. **ひとり**

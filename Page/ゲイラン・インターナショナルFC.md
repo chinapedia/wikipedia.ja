@@ -66,13 +66,13 @@
 
   - [末岡龍二](../Page/末岡龍二.md "wikilink") 2006
 
-  - [瀬戸春樹](https://ja.wikipedia.org/wiki/瀬戸春樹 "wikilink") 2009-2010
+  - [瀬戸春樹](../Page/瀬戸春樹.md "wikilink") 2009-2010
 
   - [中野裕太](https://ja.wikipedia.org/wiki/中野裕太_\(サッカー選手\) "wikilink") 2011
 
   - [伊藤拓真](https://ja.wikipedia.org/wiki/伊藤拓真 "wikilink") 2013
 
-  - [川上典洋](https://ja.wikipedia.org/wiki/川上典洋 "wikilink") 2013
+  - [川上典洋](../Page/川上典洋.md "wikilink") 2013
 
   - [井畑翔太郎](https://ja.wikipedia.org/wiki/井畑翔太郎 "wikilink") 2013
 

@@ -1,7 +1,7 @@
 > この記事は[Two As One](https://ja.wikipedia.org/wiki/Two_As_One)から翻訳されています。
 
 
-「**Two As One**」（トゥー・アズ・ワン）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[Crystal Kayと](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")が**Crystal Kay × CHEMISTRY**名義で発売した、両者の[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")シングル。発売元は、[Epic Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。なお、Crystal Kayにとっては18枚目のシングル。
+「**Two As One**」（トゥー・アズ・ワン）は、[2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[Crystal Kayと](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")が**Crystal Kay × CHEMISTRY**名義で発売した、両者の[コラボレーション](../Page/コラボレーション.md "wikilink")シングル。発売元は、[Epic Records](../Page/エピックレコードジャパン.md "wikilink")。なお、Crystal Kayにとっては18枚目のシングル。
 
 ## 解説
 
@@ -21,13 +21,13 @@
       -
         作詞:H.U.B、作曲:[松本俊明](https://ja.wikipedia.org/wiki/松本俊明 "wikilink")
     <!-- end list -->
-      - [トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[ウィッシュ](https://ja.wikipedia.org/wiki/トヨタ・ウィッシュ "wikilink")」CMソング。オンエアー期間の前半に使用され、後半にはCHEMISTRY × Crystal Kay（男性の視点の歌詞）バージョンが使用された。
+      - [トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[ウィッシュ](../Page/トヨタ・ウィッシュ.md "wikilink")」CMソング。オンエアー期間の前半に使用され、後半にはCHEMISTRY × Crystal Kay（男性の視点の歌詞）バージョンが使用された。
       - レコーディングは別撮りで行われ、一緒には歌っていない。
 2.  **涙があふれても**
       -
         作詞:西尾佐栄子、作曲:[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink")
     <!-- end list -->
-      - 映画『[ダーク・ウォーター](https://ja.wikipedia.org/wiki/ダーク・ウォーター "wikilink")』イメージソング。Crystal Kay曰く、大きな愛を歌っている曲。
+      - 映画『[ダーク・ウォーター](../Page/ダーク・ウォーター.md "wikilink")』イメージソング。Crystal Kay曰く、大きな愛を歌っている曲。
 3.  **MY EVERYTHING (English Version)**
       -
         作詞:Crystal Kay / Ashley Ingram、作曲:Ashley Ingram / Crystal Kay

@@ -7,11 +7,11 @@
 
 ## 解説
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』のヒット後に制作された作品であり、その1997年の間に新しく書き下ろした曲から選曲して、本作が制作された\[1\]。そのデモの数は、1997年12月の選曲会議では、70曲以上にも及んだと言う\[2\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』のヒット後に制作された作品であり、その1997年の間に新しく書き下ろした曲から選曲して、本作が制作された\[1\]。そのデモの数は、1997年12月の選曲会議では、70曲以上にも及んだと言う\[2\]。
 
 『REVIEW-BEST OF GLAY』が490万枚近くの大ヒットを記録しただけに、[TERU](../Page/TERU.md "wikilink")は今作に関して今の自分をもっと超えたい所から来るプレッシャーをかなり感じており\[3\]、「次は本当に凄い作品を作らなければならない」と語っていた\[4\]。しかし、その一方で、[TAKURO](../Page/TAKURO.md "wikilink")と[JIRO](../Page/JIRO.md "wikilink")はデモテープを集めた段階から、凄くいいアルバムに仕上がりそうな予感があったと感じていたと述べており\[5\]、[HISASHI](../Page/HISASHI.md "wikilink")も「『REVIEW』の記録的なセールスとか、色んなことがあっただけに、レコーディングにかかってくる音の変化とか重要性みたいなのが、今回はあるだろうと予想してたが、それ以上にレコーディングがしたくてしょうがない時期で、リハーサルの時とかもライブみたいな感じだった。」と楽しい雰囲気の中でレコーディングが行われたことを述べている\[6\]。その結果、TERUも「他のメンバーが楽しそうにやっていて、それに助けられた。」と語っており\[7\]、本作を「『REVIEW』あってこそ出来たアルバム」と述べている\[8\]。
 
-アルバム全体に関して、TERUは「誰かに聴かせた時に「すごくいいね」の一言が欲しいから頑張る。その気持ちが集結した、非常にポップなアルバム」と述べており\[9\]、TAKUROも[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")、[D.I.E.](../Page/D.I.E..md "wikilink")、[永井利光](../Page/永井利光.md "wikilink")などのゲストミュージシャンを含む、それぞれのメンバーの強烈なオリジナリティと個性が感じられるアルバム\[10\]および、サウンドや歌詞も基本的にGLAYと言うものがより深く、さらに広がり、周りの状況だけでなく、(当時)20代中盤の自分たちの中にあるものが反映された作品になったと語っている\[11\]。
+アルバム全体に関して、TERUは「誰かに聴かせた時に「すごくいいね」の一言が欲しいから頑張る。その気持ちが集結した、非常にポップなアルバム」と述べており\[9\]、TAKUROも[佐久間正英](../Page/佐久間正英.md "wikilink")、[D.I.E.](../Page/D.I.E..md "wikilink")、[永井利光](../Page/永井利光.md "wikilink")などのゲストミュージシャンを含む、それぞれのメンバーの強烈なオリジナリティと個性が感じられるアルバム\[10\]および、サウンドや歌詞も基本的にGLAYと言うものがより深く、さらに広がり、周りの状況だけでなく、(当時)20代中盤の自分たちの中にあるものが反映された作品になったと語っている\[11\]。
 
 [2009年](../Page/2009年.md "wikilink")に発売されたベストアルバム『[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")』の初回限定盤Bの特典DVDに、このアルバムの制作風景が収録されている。
 
@@ -24,38 +24,38 @@
 
 1.  **YOU MAY DREAM**
       -
-        [明治製菓](../Page/明治製菓.md "wikilink")「チョコレートクッキーホルン」[CMソングに採用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。ライブを意識した楽曲となっている。
+        [明治製菓](../Page/明治製菓.md "wikilink")「チョコレートクッキーホルン」[CMソングに採用された](../Page/コマーシャルソング.md "wikilink")。ライブを意識した楽曲となっている。
 2.  **ビリビリクラッシュメン**
       -
         JIRO作曲（作詞はTAKURO）。GLAYのライブでは定番の曲。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")末には既に完成しており、2ndアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』の収録候補曲であったが、本作品に収録された。ライブにおいては、メンバー4人それぞれの見せ場がある。
 3.  **May Fair**
       -
         BEAT out\!ツアーから歌われていたが、3rdアルバム『[BELOVED](../Page/BELOVED.md "wikilink")』制作の後に完成したため、本作品での収録となった。TAKUROが「May Fairをシングルにしたらどうか」とメンバーに話したところ「BELOVEDの方がいい」という答えが返ってきたという。
-        ベストアルバム『[DRIVE-GLAY complete BEST](https://ja.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")』の収録曲を決めるアンケートで18位を獲得したが、収録には至らなかった。
-4.  **[SOUL LOVE](https://ja.wikipedia.org/wiki/SOUL_LOVE "wikilink")**
+        ベストアルバム『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』の収録曲を決めるアンケートで18位を獲得したが、収録には至らなかった。
+4.  **[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")**
       -
-        14thシングル。[カネボウ](../Page/クラシエホールディングス.md "wikilink")「ブロンズラブ '98夏」キャンペーンソング。 [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、メンバーの笑顔が多く映り、それまでのGLAYのイメージとは一味違う作品となっている。記載はないがアルバムバージョンであり、シングルとはわずかに違いがある（間奏部分のボーカルがない。なお、このバージョンは後にリリースされた[バラード](../Page/バラード.md "wikilink")ベストアルバム『[-Ballad Best Singles- WHITE ROAD](https://ja.wikipedia.org/wiki/-Ballad_Best_Singles-_WHITE_ROAD "wikilink")』にも収録されている）。
+        14thシングル。[カネボウ](../Page/クラシエホールディングス.md "wikilink")「ブロンズラブ '98夏」キャンペーンソング。 [PVは](../Page/ミュージック・ビデオ.md "wikilink")、メンバーの笑顔が多く映り、それまでのGLAYのイメージとは一味違う作品となっている。記載はないがアルバムバージョンであり、シングルとはわずかに違いがある（間奏部分のボーカルがない。なお、このバージョンは後にリリースされた[バラード](../Page/バラード.md "wikilink")ベストアルバム『[-Ballad Best Singles- WHITE ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")』にも収録されている）。
 5.  **出逢ってしまった2人**
       -
         TAKUROとTERUが、ライブドキュメンタリー作品『[無限のdéjà vu DOCUMENT of“BEAT out\!”TOURS 海賊版](https://ja.wikipedia.org/wiki/無限のdéjà_vu_DOCUMENT_of“BEAT_out!”TOURS_海賊版 "wikilink")』にて原曲を歌っているシーンがある。演奏される機会は少ない曲であったが、「[GLAY ARENA TOUR 2009 THE GREAT VACATION](https://ja.wikipedia.org/wiki/GLAY_20th_Anniversary_LIVE_BOX_VOL.2#GLAY_ARENA_TOUR_2009_THE_GREAT_VACATION_at_幕張メッセ国際展示場9・10・11ホール_\(COUNT_DOWN_LIVE\) "wikilink")」にて演奏された。
 6.  **pure soul**
       -
-        本作のタイトル曲で、[TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")「ミニディスクXAシリーズ」キャンペーン・ソング。12thシングル「[HOWEVER](../Page/HOWEVER.md "wikilink")」と同時期に、TAKUROが[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で作り出した曲で、その2曲は当人曰く兄弟曲。当初「HOWEVER」と、この曲のどちらをシングルとして発表するべきかが考えられていた。後にベストアルバム『[DRIVE-GLAY complete BEST](https://ja.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")』、『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にも収録される。
-7.  **[誘惑](https://ja.wikipedia.org/wiki/誘惑_\(GLAYの曲\) "wikilink")**
+        本作のタイトル曲で、[TDK](../Page/TDK.md "wikilink")「ミニディスクXAシリーズ」キャンペーン・ソング。12thシングル「[HOWEVER](../Page/HOWEVER.md "wikilink")」と同時期に、TAKUROが[ニューヨーク](../Page/ニューヨーク.md "wikilink")で作り出した曲で、その2曲は当人曰く兄弟曲。当初「HOWEVER」と、この曲のどちらをシングルとして発表するべきかが考えられていた。後にベストアルバム『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』、『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にも収録される。
+7.  **[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")**
       -
         13thシングル。TDK「ミニディスクXAシリーズ」キャンペーン・ソング。ライヴでも多く演奏されている。
 8.  **COME ON\!\!**
       -
-        [プロデューサーである](../Page/音楽プロデューサー.md "wikilink")[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")を[ギター](../Page/ギター.md "wikilink")に迎えての一発録音で収録されており、テンションの高いハード・ナンバーとなっている。何度かリアレンジされてのライブでの披露もされている。
+        [プロデューサーである](../Page/音楽プロデューサー.md "wikilink")[佐久間正英](../Page/佐久間正英.md "wikilink")を[ギター](../Page/ギター.md "wikilink")に迎えての一発録音で収録されており、テンションの高いハード・ナンバーとなっている。何度かリアレンジされてのライブでの披露もされている。
 9.  **FRIEDCHICKEN & BEER**
       -
-        [LUNA SEAのギタリストをつとめていた](../Page/LUNA_SEA.md "wikilink")[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")がゲスト参加している。当時GLAY関連スタッフであった山本の名前が盛り込まれているなど、歌詞は遊び心に満ちたものになっている。歌詞カードには「作者の意図により歌詞と歌っている内容が一部異なります」という注釈が書かれている。
+        [LUNA SEAのギタリストをつとめていた](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")がゲスト参加している。当時GLAY関連スタッフであった山本の名前が盛り込まれているなど、歌詞は遊び心に満ちたものになっている。歌詞カードには「作者の意図により歌詞と歌っている内容が一部異なります」という注釈が書かれている。
 10. **3年後**
       -
-        前曲と[CDのトラック上でこそ分かれているが](../Page/コンパクトディスク.md "wikilink")、サウンド上では繋がっており、この傾向は次のアルバムにも受け継がれる事となった。[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の5thアルバム『[深海](https://ja.wikipedia.org/wiki/深海_\(アルバム\) "wikilink")』収録の「シーラカンス」に似ていると言われ、この事に関し、[桜井和寿](../Page/桜井和寿.md "wikilink")に謝りにいったところ、笑って許してくれたという。
+        前曲と[CDのトラック上でこそ分かれているが](../Page/コンパクトディスク.md "wikilink")、サウンド上では繋がっており、この傾向は次のアルバムにも受け継がれる事となった。[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の5thアルバム『[深海](../Page/深海_\(アルバム\).md "wikilink")』収録の「シーラカンス」に似ていると言われ、この事に関し、[桜井和寿](../Page/桜井和寿.md "wikilink")に謝りにいったところ、笑って許してくれたという。
 11. **I'm in Love**
       -
-        大勢の著名人（[オセロ](../Page/オセロ_\(お笑い\).md "wikilink")、[長島三奈](https://ja.wikipedia.org/wiki/長島三奈 "wikilink")、[鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")、[山本シュウ](https://ja.wikipedia.org/wiki/山本シュウ "wikilink")、[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")、[富田京子](https://ja.wikipedia.org/wiki/富田京子 "wikilink")、[せがわきり](../Page/せがわきり.md "wikilink")など）がコーラスで参加している、いわゆるパーティー・ソングであり、ライブのみならず、メンバーのバースデー・パーティーなどでも演奏されることがある。歌詞に、主人公の両親への愛情が記されている事など、当アルバムのタイトル・チューンの歌詞とも共通点が多々ある。当アルバムのラストを飾るナンバーであり、ライブにおいても同様にラストナンバーとして披露されるケースが多い。『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも披露された。
+        大勢の著名人（[オセロ](../Page/オセロ_\(お笑い\).md "wikilink")、[長島三奈](https://ja.wikipedia.org/wiki/長島三奈 "wikilink")、[鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")、[山本シュウ](../Page/山本シュウ.md "wikilink")、[中山加奈子](../Page/中山加奈子.md "wikilink")、[富田京子](../Page/富田京子.md "wikilink")、[せがわきり](../Page/せがわきり.md "wikilink")など）がコーラスで参加している、いわゆるパーティー・ソングであり、ライブのみならず、メンバーのバースデー・パーティーなどでも演奏されることがある。歌詞に、主人公の両親への愛情が記されている事など、当アルバムのタイトル・チューンの歌詞とも共通点が多々ある。当アルバムのラストを飾るナンバーであり、ライブにおいても同様にラストナンバーとして披露されるケースが多い。『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも披露された。
 
 ## pure soul Anthology
 
@@ -66,7 +66,7 @@
 ### 概要
 
   - アンソロジーシリーズとしては6作目。
-  - 2CD+1[Blu-rayの](../Page/Blu-ray_Disc.md "wikilink")3枚組とブックレット付。DISC1には『pure soul』収録曲11曲に、シングル「[HOWEVER](../Page/HOWEVER.md "wikilink")」とそのカップリング曲、「[誘惑](https://ja.wikipedia.org/wiki/誘惑_\(GLAYの曲\) "wikilink")」「[SOUL LOVE](https://ja.wikipedia.org/wiki/SOUL_LOVE "wikilink")」のカップリングを含めた15曲を、マイケル・ツィマリングによるデジタルリマスタリングを施し収録\[13\]。
+  - 2CD+1[Blu-rayの](../Page/Blu-ray_Disc.md "wikilink")3枚組とブックレット付。DISC1には『pure soul』収録曲11曲に、シングル「[HOWEVER](../Page/HOWEVER.md "wikilink")」とそのカップリング曲、「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」のカップリングを含めた15曲を、マイケル・ツィマリングによるデジタルリマスタリングを施し収録\[13\]。
   - DISC2にはアルバム収録曲とシングル・カップリング曲の当時デモ音源と、未発表曲を収録\[14\]。
   - DISC3はBlu-rayとなっており、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[阪急西宮スタジアム](../Page/阪急西宮スタジアム.md "wikilink")で行われた「**pure soul in STADIUM "SUMMER of '98"**」を全曲収録のほか、当時の未発表シーンを加えたドキュメント映像「**pure soul MOVIE 2018**」も収録\[15\]\[16\]。
   - ブックレットには『pure soul』リリース当時の撮り下ろし写真や、雑誌・新聞記事から厳選したインタビュー記事、pure soulにまつわる素材を掲載\[17\]。

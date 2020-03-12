@@ -1,13 +1,13 @@
 > この記事は[Vodafone 802N](https://ja.wikipedia.org/wiki/Vodafone_802N)から翻訳されています。
 
 
-**Vodafone 802N**（ボーダフォン 802N）は、ボーダフォン日本法人（現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）が2005年2月に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。
+**Vodafone 802N**（ボーダフォン 802N）は、ボーダフォン日本法人（現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）が2005年2月に発売した[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。
 
 ## 特徴
 
-この端末はVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）の中ではミドルレンジ端末に相当するものである。[SoftBank 3Gの](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[W-CDMA](../Page/W-CDMA.md "wikilink")網を用いて通信を行うが、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")は搭載しておらず海外のW-CDMA網にも非対応の為国際ローミングサービスには対応していない。また、[S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")サービスにも対応していない。
+この端末はVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）の中ではミドルレンジ端末に相当するものである。[SoftBank 3Gの](../Page/SoftBank_3G.md "wikilink")[W-CDMA](../Page/W-CDMA.md "wikilink")網を用いて通信を行うが、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")は搭載しておらず海外のW-CDMA網にも非対応の為国際ローミングサービスには対応していない。また、[S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")サービスにも対応していない。
 
-この端末の特徴としては数種の機能を一度に動作させることが出来るマルチタスクやショートカットアイコンを待ち受け画面に登録できるコンパクトデスクトップ機能などがある。 角張った外見が特徴的で、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向け端末製品 [N701i](https://ja.wikipedia.org/wiki/N701i "wikilink") とともに[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")（商品デザイン部門）を受賞した。
+この端末の特徴としては数種の機能を一度に動作させることが出来るマルチタスクやショートカットアイコンを待ち受け画面に登録できるコンパクトデスクトップ機能などがある。 角張った外見が特徴的で、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向け端末製品 [N701i](../Page/N701i.md "wikilink") とともに[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")（商品デザイン部門）を受賞した。
 
 なお、2011年11月以降にソフトバンクモバイルの音声ネットワーク最適化が予定されており、これにより本機種では通話品質の低下・一部機能制限が生じる可能性があるため、同年10月まで指定機種との無償交換が行われている\[1\]。
 

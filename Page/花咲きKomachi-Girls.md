@@ -3,7 +3,7 @@
 
 **花咲きKomachi-Girls**（はなさきこまちがーるず）は、[奥谷かひろ](../Page/奥谷かひろ.md "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。
 
-[学習研究社刊](../Page/学研ホールディングス.md "wikilink")『[コミックPocke](https://ja.wikipedia.org/wiki/コミックPocke "wikilink")』に1992年7月号より1998年3月号まで連載された。単行本は全4巻。連載終了後、[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")も発売された。
+[学習研究社刊](../Page/学研ホールディングス.md "wikilink")『[コミックPocke](https://ja.wikipedia.org/wiki/コミックPocke "wikilink")』に1992年7月号より1998年3月号まで連載された。単行本は全4巻。連載終了後、[ドラマCD](../Page/ドラマCD.md "wikilink")も発売された。
 
 ## 概説
 
@@ -23,17 +23,17 @@
     梅子の同級生。とにかく体を鍛えるのが好き。趣味はプロレス観戦で得意技は[ノーザンライトボム](https://ja.wikipedia.org/wiki/ノーザンライトボム "wikilink")と[ジャーマンスープレックス](https://ja.wikipedia.org/wiki/ジャーマンスープレックス "wikilink")。身長171センチ・体重50キロ。
     声：[渡辺久美子](../Page/渡辺久美子.md "wikilink")
   - 羽柴 良（はしば りょう）
-    男の園・町世高校に咲いた一輪の花。女装コスプレが恐ろしいほど似合う。ちなみに兄は本職の[ニューハーフ](https://ja.wikipedia.org/wiki/ニューハーフ "wikilink")。
+    男の園・町世高校に咲いた一輪の花。女装コスプレが恐ろしいほど似合う。ちなみに兄は本職の[ニューハーフ](../Page/ニューハーフ.md "wikilink")。
     声：[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
   - 徳川 信之介（とくがわ しんのすけ）
     良の同級生。桜子の漢気（おとこぎ）に惚れ「兄貴」と慕い、いつもぶっ飛ばされるがそれを「愛」と感じている。
     声：[上田祐司](../Page/うえだゆうじ.md "wikilink")
   - 石田 伊織（いしだ いおり）
     良の同級生。体が弱く、何種類もの薬を服用している。桃子に片想いをしているが、全く気付いてもらえない。
-    声：[伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")
+    声：[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")
   - 夏川 隆（なつかわ たかし）
     桜子の兄。料理の腕前は超一流で、ものぐさな母に代わって主夫をしている。
-    声：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+    声：[森川智之](../Page/森川智之.md "wikilink")
   - 森 蘭太郎（もり らんたろう）
     紅花女子高校の数学教師。重度のゲーマーで、新作の発売日は授業が自習に。
     声：[緑川光](../Page/緑川光.md "wikilink")

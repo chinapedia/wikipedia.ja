@@ -1,7 +1,7 @@
 > この記事は[AZITO](https://ja.wikipedia.org/wiki/AZITO)から翻訳されています。
 
 
-『**AZITO**』（アジト）はASTEC21（アステックツーワン）が開発した[秘密基地](../Page/秘密基地.md "wikilink")作成[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")シリーズ。発売元は1作目はアスク、シリーズ2作目である『AZITO2』から発売元が[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")に変更され、シリーズ3作目までが[PlayStation用ソフトとして発売された](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。2011年11月3日には[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ソフト『**AZITO 3D**』が[ハムスターより発売された](https://ja.wikipedia.org/wiki/ハムスター_\(ゲーム会社\) "wikilink")。
+『**AZITO**』（アジト）はASTEC21（アステックツーワン）が開発した[秘密基地](../Page/秘密基地.md "wikilink")作成[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")シリーズ。発売元は1作目はアスク、シリーズ2作目である『AZITO2』から発売元が[バンプレスト](../Page/バンプレスト.md "wikilink")に変更され、シリーズ3作目までが[PlayStation用ソフトとして発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。2011年11月3日には[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ソフト『**AZITO 3D**』が[ハムスターより発売された](../Page/ハムスター_\(ゲーム会社\).md "wikilink")。
 
 ## 概要
 
@@ -15,7 +15,7 @@
     シリーズ1作目（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")発売）。正義・悪の明確な違いはなく、双方の兵器が開発可能。開発した兵器により基地内施設のグラフィックが変化する。プレーヤー側から敵側に侵攻することはできず、攻撃してきた敵を迎撃するのみとなる。
     シリーズの中で最も人員の種類が多く、動力室で作業をする機関長。保安室で指揮を執る指揮官がこの作品でのみ登場する。また、兵器を開発する博士は、得意分野別に分類されている。
     トレードモードにてメモリーカードを利用し、セーブデータ同士で開発物を売買することが可能。
-    [2003年](../Page/2003年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")にMajor Waveシリーズ（[ハムスター発売の廉価版](https://ja.wikipedia.org/wiki/ハムスター_\(ゲーム会社\) "wikilink")）として再発売されたほか、[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")からは[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。
+    [2003年](../Page/2003年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")にMajor Waveシリーズ（[ハムスター発売の廉価版](../Page/ハムスター_\(ゲーム会社\).md "wikilink")）として再発売されたほか、[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")からは[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。
   - AZITO2
     シリーズ2作目（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")発売）。ゲーム開始時に正義側か悪側かを選択でき、どちらを選択するかで募集できる人員・開発できる兵器および商品・設置できる施設が変化する。なお、開発可能な兵器のうちヒーロー、ヒロイン、巨大ヒーローは正義側のみ開発が可能で、怪人、怪獣は悪側のみ開発可能。
     兵器にはランクの概念ができ、同じ兵器を再度開発することにより、「初期型」「改良型」「最強型」とランクが上がる。また、兵器を開発する博士は、前作の得意分野別ではなく、「教授」「助教授」「助手」とランクにより分けられており、上位の兵器を開発するには、ランクの高い博士を必要とする。
@@ -41,18 +41,18 @@
       - [仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")
       - [仮面ライダーX](../Page/仮面ライダーX.md "wikilink")
       - [仮面ライダーアマゾン](../Page/仮面ライダーアマゾン.md "wikilink")
-      - [仮面ライダーストロンガー](https://ja.wikipedia.org/wiki/仮面ライダーストロンガー "wikilink")
+      - [仮面ライダーストロンガー](../Page/仮面ライダーストロンガー.md "wikilink")
       - [仮面ライダー（新）](../Page/仮面ライダー_\(スカイライダー\).md "wikilink")
-      - [仮面ライダースーパー1](https://ja.wikipedia.org/wiki/仮面ライダースーパー1 "wikilink")
+      - [仮面ライダースーパー1](../Page/仮面ライダースーパー1.md "wikilink")
       - [仮面ライダーZX](../Page/仮面ライダーZX.md "wikilink")
       - [仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")
       - [仮面ライダーBLACK RX](../Page/仮面ライダーBLACK_RX.md "wikilink")
-      - [仮面ライダーZO](https://ja.wikipedia.org/wiki/仮面ライダーZO "wikilink")
-      - [仮面ライダーJ](https://ja.wikipedia.org/wiki/仮面ライダーJ "wikilink")
-  - [宇宙刑事シリーズ](https://ja.wikipedia.org/wiki/宇宙刑事シリーズ "wikilink")
+      - [仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")
+      - [仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink")
+  - [宇宙刑事シリーズ](../Page/宇宙刑事シリーズ.md "wikilink")
       - [宇宙刑事ギャバン](https://ja.wikipedia.org/wiki/宇宙刑事ギャバン "wikilink")
       - [宇宙刑事シャリバン](../Page/宇宙刑事シャリバン.md "wikilink")
-      - [宇宙刑事シャイダー](https://ja.wikipedia.org/wiki/宇宙刑事シャイダー "wikilink")
+      - [宇宙刑事シャイダー](../Page/宇宙刑事シャイダー.md "wikilink")
 
 ### 『2』のみ登場するヒーロー作品
 
@@ -64,24 +64,24 @@
 
   - [マグマ大使](https://ja.wikipedia.org/wiki/マグマ大使_\(テレビドラマ\) "wikilink")
   - [スペクトルマン](../Page/スペクトルマン.md "wikilink")
-  - [快傑ライオン丸](https://ja.wikipedia.org/wiki/快傑ライオン丸 "wikilink") - [風雲ライオン丸](https://ja.wikipedia.org/wiki/風雲ライオン丸 "wikilink")
-  - [鉄人タイガーセブン](https://ja.wikipedia.org/wiki/鉄人タイガーセブン "wikilink")
-  - [電人ザボーガー](https://ja.wikipedia.org/wiki/電人ザボーガー "wikilink")
+  - [快傑ライオン丸](../Page/快傑ライオン丸.md "wikilink") - [風雲ライオン丸](../Page/風雲ライオン丸.md "wikilink")
+  - [鉄人タイガーセブン](../Page/鉄人タイガーセブン.md "wikilink")
+  - [電人ザボーガー](../Page/電人ザボーガー.md "wikilink")
   - [バロンシリーズ](../Page/バロンシリーズ.md "wikilink")
       - [スーパーロボット レッドバロン](../Page/スーパーロボット_レッドバロン.md "wikilink")
       - [スーパーロボット マッハバロン](../Page/スーパーロボット_マッハバロン.md "wikilink")
-  - [愛の戦士レインボーマン](https://ja.wikipedia.org/wiki/愛の戦士レインボーマン "wikilink")
-  - [ダイヤモンド・アイ](https://ja.wikipedia.org/wiki/ダイヤモンド・アイ "wikilink")
+  - [愛の戦士レインボーマン](../Page/愛の戦士レインボーマン.md "wikilink")
+  - [ダイヤモンド・アイ](../Page/ダイヤモンド・アイ.md "wikilink")
   - [ジャイアントロボ](../Page/ジャイアントロボ.md "wikilink")
-  - [正義のシンボル コンドールマン](https://ja.wikipedia.org/wiki/正義のシンボル_コンドールマン "wikilink")
-  - [超人バロム・1](https://ja.wikipedia.org/wiki/バロム・1 "wikilink")
-  - [変身忍者 嵐](https://ja.wikipedia.org/wiki/変身忍者_嵐 "wikilink")
+  - [正義のシンボル コンドールマン](../Page/正義のシンボル_コンドールマン.md "wikilink")
+  - [超人バロム・1](../Page/バロム・1.md "wikilink")
+  - [変身忍者 嵐](../Page/変身忍者_嵐.md "wikilink")
   - [人造人間キカイダー](../Page/人造人間キカイダー.md "wikilink") - [キカイダー01](../Page/キカイダー01.md "wikilink")
-  - [ロボット刑事](https://ja.wikipedia.org/wiki/ロボット刑事 "wikilink")
-  - [イナズマン](https://ja.wikipedia.org/wiki/イナズマン "wikilink") - [イナズマンF](https://ja.wikipedia.org/wiki/イナズマンF "wikilink")
-  - [アクマイザー3](https://ja.wikipedia.org/wiki/アクマイザー3 "wikilink") - [超神ビビューン](https://ja.wikipedia.org/wiki/超神ビビューン "wikilink")
+  - [ロボット刑事](../Page/ロボット刑事.md "wikilink")
+  - [イナズマン](../Page/イナズマン.md "wikilink") - [イナズマンF](../Page/イナズマンF.md "wikilink")
+  - [アクマイザー3](../Page/アクマイザー3.md "wikilink") - [超神ビビューン](../Page/超神ビビューン.md "wikilink")
   - [ザ・カゲスター](../Page/ザ・カゲスター.md "wikilink")
-  - [快傑ズバット](https://ja.wikipedia.org/wiki/快傑ズバット "wikilink")
+  - [快傑ズバット](../Page/快傑ズバット.md "wikilink")
   - [大鉄人17](../Page/大鉄人17.md "wikilink")
   - [スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")
       - [秘密戦隊ゴレンジャー](../Page/秘密戦隊ゴレンジャー.md "wikilink")
@@ -91,7 +91,7 @@
 
 ## 評価
 
-『2』は[電撃PlayStation](https://ja.wikipedia.org/wiki/電撃PlayStation "wikilink")DPSソフトレビューでは70、60、65、70の265点\[1\]。レビュアーは全体マップを見るのに手間がかかる、人員のパラメータを一度に全て確認できない、表示するキャラ数が多かったり基地が大きくなるほど処理落ちする、使わないボタンに時間のスキップや全体マップ表示機能が欲しかった、人員配置はボタン一つで可能だが研究開発中の人員を移動させると中止になるため間違って入力するとそれまでにかかった資金や時間が全て無駄になる、覚えることが多く練習用モードが欲しかった、グラフィックは今一つ、戦闘は敵などが動き回ることや音声は楽しめるが細かい指示ができず攻撃防御出撃などをいちいち各ユニットごとに入力しないといけず一度に全員分命令させて欲しかったなど戦略性や快適さがあまりない残念な出来だが、正義と悪どちらの陣営でプレイするか選択可能なのが嬉しく実名でヒーローや怪人たちが集結するコンセプトに惹かれる人にはお勧めであるとした\[2\]。
+『2』は[電撃PlayStation](../Page/電撃PlayStation.md "wikilink")DPSソフトレビューでは70、60、65、70の265点\[1\]。レビュアーは全体マップを見るのに手間がかかる、人員のパラメータを一度に全て確認できない、表示するキャラ数が多かったり基地が大きくなるほど処理落ちする、使わないボタンに時間のスキップや全体マップ表示機能が欲しかった、人員配置はボタン一つで可能だが研究開発中の人員を移動させると中止になるため間違って入力するとそれまでにかかった資金や時間が全て無駄になる、覚えることが多く練習用モードが欲しかった、グラフィックは今一つ、戦闘は敵などが動き回ることや音声は楽しめるが細かい指示ができず攻撃防御出撃などをいちいち各ユニットごとに入力しないといけず一度に全員分命令させて欲しかったなど戦略性や快適さがあまりない残念な出来だが、正義と悪どちらの陣営でプレイするか選択可能なのが嬉しく実名でヒーローや怪人たちが集結するコンセプトに惹かれる人にはお勧めであるとした\[2\]。
 
 2015年KOTY大賞作品
 

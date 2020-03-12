@@ -1,17 +1,17 @@
 > この記事は[HIM \(\)](https://ja.wikipedia.org/wiki/HIM_\(\))から翻訳されています。
 
 
-**HIM** (ヒム) は、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。1995年、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")にてヴォーカルの[ヴィレ・ヴァロ](https://ja.wikipedia.org/wiki/ヴィレ・ヴァロ "wikilink")(Ville Valo)が結成。ゴシックサウンドを擁したラブメタルを自称する。2005年リリースの5thアルバム、「[Dark Light](https://ja.wikipedia.org/wiki/Dark_Light "wikilink")」は[RIAA](https://ja.wikipedia.org/wiki/RIAA "wikilink")によるゴールドディスク認定を受け、フィンランド出身では初めてアメリカでゴールドディスク認定を受けたバンドである。本国フィンランドではダブルプラチナム、ドイツでもプラチナム認定を受けた「[Razorblade Romance](https://ja.wikipedia.org/wiki/Razorblade_Romance "wikilink")」を含む5作品がプラチナム認定されている。
+**HIM** (ヒム) は、[フィンランド](../Page/フィンランド.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。1995年、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")にてヴォーカルの[ヴィレ・ヴァロ](../Page/ヴィレ・ヴァロ.md "wikilink")(Ville Valo)が結成。ゴシックサウンドを擁したラブメタルを自称する。2005年リリースの5thアルバム、「[Dark Light](https://ja.wikipedia.org/wiki/Dark_Light "wikilink")」は[RIAA](https://ja.wikipedia.org/wiki/RIAA "wikilink")によるゴールドディスク認定を受け、フィンランド出身では初めてアメリカでゴールドディスク認定を受けたバンドである。本国フィンランドではダブルプラチナム、ドイツでもプラチナム認定を受けた「[Razorblade Romance](https://ja.wikipedia.org/wiki/Razorblade_Romance "wikilink")」を含む5作品がプラチナム認定されている。
 
 ## 概要
 
-His Infernal Majestyの名で[ブラック・サバス](https://ja.wikipedia.org/wiki/ブラック・サバス "wikilink")のカバー・バンドとしてスタート。その後バンド名を短縮し、現在のバンド名 HIM となる。日本やアメリカでは同名グループと区別するため H.I.M. という表記も行われている。一時期アメリカでは HER (Her Evil Royalityの略) というバンド名でも活動しており、Razorblade Romance は HER 名義でリリースされたが、既に同名バンドが存在していた為現在は使われていない。
+His Infernal Majestyの名で[ブラック・サバス](../Page/ブラック・サバス.md "wikilink")のカバー・バンドとしてスタート。その後バンド名を短縮し、現在のバンド名 HIM となる。日本やアメリカでは同名グループと区別するため H.I.M. という表記も行われている。一時期アメリカでは HER (Her Evil Royalityの略) というバンド名でも活動しており、Razorblade Romance は HER 名義でリリースされたが、既に同名バンドが存在していた為現在は使われていない。
 
   - 現メンバー
 
 <!-- end list -->
 
-  - [ヴィレ・ヴァロ](https://ja.wikipedia.org/wiki/ヴィレ・ヴァロ "wikilink")（ボーカル）
+  - [ヴィレ・ヴァロ](../Page/ヴィレ・ヴァロ.md "wikilink")（ボーカル）
   - リンデ（ギター）
   - ミゲ（ベース）
   - コスモ（ドラム）

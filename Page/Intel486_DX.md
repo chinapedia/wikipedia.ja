@@ -14,7 +14,7 @@
 
 486は32ビットのデータバスを持つ。これはメモリを、30ピンの[SIMM](../Page/SIMM.md "wikilink")を複数か72ピンのSIMMを1つ使用できる。486は32ビットのアドレスバスを4GBまでメモリに持つことができる。ただしこの当時このような大容量のメモリは存在していない。
 
-初期の486を搭載した[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")は、[VESA ローカルバスを](../Page/VESA_ローカルバス.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")や[SCSI経由の](../Page/Small_Computer_System_Interface.md "wikilink")[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の接続に用たものが多かった。このバスの転送速度は[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")の周波数に依存した。
+初期の486を搭載した[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")は、[VESA ローカルバスを](../Page/VESA_ローカルバス.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")や[SCSI経由の](../Page/Small_Computer_System_Interface.md "wikilink")[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の接続に用たものが多かった。このバスの転送速度は[マザーボード](../Page/マザーボード.md "wikilink")の周波数に依存した。
 
 [de:Intel i486\#i486DX](https://ja.wikipedia.org/wiki/de:Intel_i486#i486DX "wikilink") [en:Intel 80486](https://ja.wikipedia.org/wiki/en:Intel_80486 "wikilink")
 

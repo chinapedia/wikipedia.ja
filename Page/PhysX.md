@@ -1,11 +1,11 @@
 > この記事は[PhysX](https://ja.wikipedia.org/wiki/PhysX)から翻訳されています。
 
 
-**PhysX**（フィジックス/フィジクス\[1\]）とは[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")が開発・提供している、リアルタイムの[物理演算エンジン](https://ja.wikipedia.org/wiki/物理演算エンジン "wikilink")。
+**PhysX**（フィジックス/フィジクス\[1\]）とは[NVIDIA](../Page/NVIDIA.md "wikilink")が開発・提供している、リアルタイムの[物理演算エンジン](https://ja.wikipedia.org/wiki/物理演算エンジン "wikilink")。
 
 ## 概要
 
-ソフトウェアがPhysXの[ハードウェアアクセラレーション](../Page/ハードウェアアクセラレーション.md "wikilink")に対応している場合、[CUDA](https://ja.wikipedia.org/wiki/CUDA "wikilink")が使用可能な[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")（[8シリーズ以降の製品](https://ja.wikipedia.org/wiki/NVIDIA_GeForce#GeForce_8_Series "wikilink")）のうち、32以上のコア、256MB以上のグラフィックスメモリを搭載する製品でハードウェアアクセラレートが可能である\[2\]。
+ソフトウェアがPhysXの[ハードウェアアクセラレーション](../Page/ハードウェアアクセラレーション.md "wikilink")に対応している場合、[CUDA](../Page/CUDA.md "wikilink")が使用可能な[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")（[8シリーズ以降の製品](https://ja.wikipedia.org/wiki/NVIDIA_GeForce#GeForce_8_Series "wikilink")）のうち、32以上のコア、256MB以上のグラフィックスメモリを搭載する製品でハードウェアアクセラレートが可能である\[2\]。
 
 PhysXのハードウェアアクセラレーションは、日夜進化を続ける[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")における 物理演算を[CPU](../Page/CPU.md "wikilink")から肩代わりする事で動作スピードの上昇を目指したものである。汎用プロセッサである[CPU](../Page/CPU.md "wikilink")のパフォーマンスでは不可能に近い「爆発によって飛び散った破片を毎回ランダムに演算する」等の複雑かつ高負荷な描写を、事前作成済み動画の読み出しなどではなく、実際にその場で演算してリアルタイムに描写することが可能になるとされている。対抗とされる物理演算システムとしては[Havok](https://ja.wikipedia.org/wiki/Havok "wikilink")が挙げられる。
 
@@ -13,7 +13,7 @@ PhysXは様々なプラットフォームで500以上のゲームに使われて
 
 ## 歴史
 
-開発元は米[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")に本拠を置いていた社。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")に、[NVIDIA GeForceシリーズを開発する](../Page/NVIDIA_GeForce.md "wikilink")[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")がAgeiaを買収し、PhysXとGeForceシリーズの統合が発表された\[4\]。NVIDIAによる買収後は、専用チップおよび専用ボードは生産されていない。
+開発元は米[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")に本拠を置いていた社。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")に、[NVIDIA GeForceシリーズを開発する](../Page/NVIDIA_GeForce.md "wikilink")[NVIDIA](../Page/NVIDIA.md "wikilink")がAgeiaを買収し、PhysXとGeForceシリーズの統合が発表された\[4\]。NVIDIAによる買収後は、専用チップおよび専用ボードは生産されていない。
 
 PhysX SDK 2.8.3から(PPU)のサポートが打ち切られた\[5\]。
 
@@ -30,7 +30,7 @@ PhysXは以下のプラットフォーム上で動作する\[6\]。
   - [Android](../Page/Android.md "wikilink")
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
 
-いずれのプラットフォーム用SDKも無料で配布されている。これらのうち、PC用のSDKは[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")社のPhysX SDK ダウンロードページ\[7\]より直接入手する事ができる。[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")社スタッフによるサポート及び開発支援ツールが有償で提供されているが、これらを利用しない限りは商用利用を含めて無料である。
+いずれのプラットフォーム用SDKも無料で配布されている。これらのうち、PC用のSDKは[NVIDIA](../Page/NVIDIA.md "wikilink")社のPhysX SDK ダウンロードページ\[7\]より直接入手する事ができる。[NVIDIA](../Page/NVIDIA.md "wikilink")社スタッフによるサポート及び開発支援ツールが有償で提供されているが、これらを利用しない限りは商用利用を含めて無料である。
 
 PhysXは[Unreal Engineや](../Page/Unreal_Engine.md "wikilink")[Unity (ゲームエンジン)にも統合されている](https://ja.wikipedia.org/wiki/Unity_\(ゲームエンジン\) "wikilink")。
 
@@ -75,7 +75,7 @@ PhysXの発表当初、以下のような問題があった。
           - 古いビデオカードの更新、再生支援や[HDCP](https://ja.wikipedia.org/wiki/HDCP "wikilink")を利用して[ブルーレイや](../Page/Blu-ray_Disc.md "wikilink")[地デジ](https://ja.wikipedia.org/wiki/地デジ "wikilink")を楽しむといった別の用途で購入したとしてもPhysX対応となる。
   - デメリット
       - 本来、グラフィック描画に用いられるはずのユニファイドシェーダーの一部を物理演算に割く事になるため、結果としてグラフィックパフォーマンスが低下する。また、NVIDIA社が提唱するPhysXエフェクトの採用はそのまま破片、水滴など描画対象の爆発的増殖と一体である。その為、物理効果が現れれば同時に膨大な描画負荷やリソース消費が発生する事になり、やはりパフォーマンスは大きく低下してしまう。以上の点から、現実問題として、単独VGAでのPhysX利用はフレームレート維持の観点から実用的ではない（演算専用のサブグラフィックスデバイスを別途用意しなければならない）。これはPhysX本格採用タイトルのCryostasis等で特に顕著である。
-      - AGEIA買収当時においても、NVIDIA社と[AMD社の関係上](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、またPhysXとHavokの関係上[AMD RadeonのようなAMD製GPUに対応する可能性は著しく低かったが](https://ja.wikipedia.org/wiki/AMD_Radeon "wikilink")、AGEIA社のPPU、或いは8X00以降のNVIDIA製VGAを別途搭載する事により、ハードウェアPhysXをAMD社製VGA搭載機でも利用する事が出来た。だが、同社がリリースした186番台以降のデバイスドライバーは、AMD社製グラフィックシステムを検知すると、たとえPhysX対応ハードウェアがPCにインストールされていても、それらの物理演算機能を強制的に停止させてしまう[1](http://www.guru3d.com/news/nvidia-disables-physx-when-ati-card-is-present/)。これにはAGEIA社のPPUも含まれる。
+      - AGEIA買収当時においても、NVIDIA社と[AMD社の関係上](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、またPhysXとHavokの関係上[AMD RadeonのようなAMD製GPUに対応する可能性は著しく低かったが](../Page/AMD_Radeon.md "wikilink")、AGEIA社のPPU、或いは8X00以降のNVIDIA製VGAを別途搭載する事により、ハードウェアPhysXをAMD社製VGA搭載機でも利用する事が出来た。だが、同社がリリースした186番台以降のデバイスドライバーは、AMD社製グラフィックシステムを検知すると、たとえPhysX対応ハードウェアがPCにインストールされていても、それらの物理演算機能を強制的に停止させてしまう[1](http://www.guru3d.com/news/nvidia-disables-physx-when-ati-card-is-present/)。これにはAGEIA社のPPUも含まれる。
   - 2009年10月現在、MODドライバーや非公認パッチによって、AMD系VGA搭載システムでもPhysXの利用は変則的にではあるものの、可能となっている。[2](http://www.hardforum.com/showthread.php?t=1456964)
 
 しかし、AMDはIntel社の[Havok](https://ja.wikipedia.org/wiki/Havok "wikilink")と提携し[3](http://news.cnet.com/8301-10784_3-9967088-7.html)、なおかつ独自にオープンソースベースの物理エンジン[Bullet Physicsにも着手している為](https://ja.wikipedia.org/wiki/Bullet "wikilink")[4](http://www.amd.com/us/press-releases/Pages/amd-announces-new-levels-of-realism-2009sept30.aspx)、物理エンジンにおけるAMDとNVIDIAの歩み寄りは、既に非現実的なものとなりつつある。

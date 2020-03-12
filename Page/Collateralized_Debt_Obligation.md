@@ -15,7 +15,7 @@
 
 CDOは、証券化商品として、[優先劣後構造](https://ja.wikipedia.org/wiki/優先劣後構造 "wikilink")を持っていることを特徴とする。CDO全体から、シニア債(受益権)、メザニン債(受益権)、劣後債(受益権)と言った形で[トランシェ](https://ja.wikipedia.org/wiki/トランシェ "wikilink")(*tranche*)毎に分かれた債券、受益権に分割し、売り出されるのが一般的である。優先劣後構造は、CDOを構成するアセットにデフォルトやクレジットイベント等が発生した際に元本が優先的に確保される順位を設定しているものであり、シニアから順番に優先的に元本が確保される。つまり劣後部分についてはかなりのリスク[断崖リスク](https://ja.wikipedia.org/wiki/断崖リスク "wikilink")があるため、利回りも高い。 シニア部分やメザニン部分には高格付けが付与されることが一般的であり、機関投資家の投資対象となっている。
 
-CDOの訴訟がおきている。[証券取引委員会](../Page/証券取引委員会.md "wikilink")と[ゴールドマン・サックス](https://ja.wikipedia.org/wiki/ゴールドマン・サックス "wikilink")の係争点は、ゴールドマンが担保証券などのリスク分析を行うACAマネジメントに対し、[ヘンリー・ポールソン](https://ja.wikipedia.org/wiki/ヘンリー・ポールソン "wikilink")がゴールドマン組成の[サブプライムローン](../Page/サブプライムローン.md "wikilink")を裏付けとした債務担保証券（CDO）の買い手であると虚偽の申告をしていたかどうかという点だ。このABACUS2007-ACIと呼ばれるCDOの販売が証券詐欺罪の容疑対象になっている。この事件には[ABNアムロ銀行](../Page/ABNアムロ銀行.md "wikilink")と、[シティグループ](https://ja.wikipedia.org/wiki/シティグループ "wikilink")が受け皿となった*[ACC Capital Holdings](https://ja.wikipedia.org/wiki/:en:ACC_Capital_Holdings "wikilink")* も登場する。\[1\]委員会が提訴してから[ゴールドマン・ショック](https://ja.wikipedia.org/wiki/ゴールドマン・ショック "wikilink")が起きた。
+CDOの訴訟がおきている。[証券取引委員会](../Page/証券取引委員会.md "wikilink")と[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の係争点は、ゴールドマンが担保証券などのリスク分析を行うACAマネジメントに対し、[ヘンリー・ポールソン](../Page/ヘンリー・ポールソン.md "wikilink")がゴールドマン組成の[サブプライムローン](../Page/サブプライムローン.md "wikilink")を裏付けとした債務担保証券（CDO）の買い手であると虚偽の申告をしていたかどうかという点だ。このABACUS2007-ACIと呼ばれるCDOの販売が証券詐欺罪の容疑対象になっている。この事件には[ABNアムロ銀行](../Page/ABNアムロ銀行.md "wikilink")と、[シティグループ](../Page/シティグループ.md "wikilink")が受け皿となった*[ACC Capital Holdings](https://ja.wikipedia.org/wiki/:en:ACC_Capital_Holdings "wikilink")* も登場する。\[1\]委員会が提訴してから[ゴールドマン・ショック](https://ja.wikipedia.org/wiki/ゴールドマン・ショック "wikilink")が起きた。
 
 ## 償還
 

@@ -1285,7 +1285,7 @@
   - [荻村杯国際卓球選手権大会](../Page/荻村杯国際卓球選手権大会.md "wikilink")
   - [ITTFワールドツアーグランドファイナル](https://ja.wikipedia.org/wiki/ITTFワールドツアーグランドファイナル "wikilink")
   - [オリンピック卓球競技](https://ja.wikipedia.org/wiki/オリンピック卓球競技 "wikilink")
-  - [世界卓球選手権](https://ja.wikipedia.org/wiki/世界卓球選手権 "wikilink")
+  - [世界卓球選手権](../Page/世界卓球選手権.md "wikilink")
   - [ワールドカップ (卓球)](https://ja.wikipedia.org/wiki/ワールドカップ_\(卓球\) "wikilink")
   - [アジア競技大会における卓球競技](https://ja.wikipedia.org/wiki/アジア競技大会における卓球競技 "wikilink")
   - [アジア卓球選手権](https://ja.wikipedia.org/wiki/アジア卓球選手権 "wikilink")

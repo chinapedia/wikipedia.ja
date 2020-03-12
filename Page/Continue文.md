@@ -61,4 +61,4 @@ condition[5]
 
 [Category:制御構造](https://ja.wikipedia.org/wiki/Category:制御構造 "wikilink")
 
-1.  Perlでは、continueに[ブロックが引き続いている場合](https://ja.wikipedia.org/wiki/ブロック_\(プログラミング\) "wikilink")「条件文が再評価される直前に常に実行される」コードとなり、すなわち「C における for ループの 3 番目の部分と同様」な働きとなる。"<http://perldoc.jp/func/continue>"
+1.  Perlでは、continueに[ブロックが引き続いている場合](../Page/ブロック_\(プログラミング\).md "wikilink")「条件文が再評価される直前に常に実行される」コードとなり、すなわち「C における for ループの 3 番目の部分と同様」な働きとなる。"<http://perldoc.jp/func/continue>"

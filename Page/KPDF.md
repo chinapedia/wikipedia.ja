@@ -17,7 +17,7 @@
 ## 関連項目
 
   - [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink")
-  - [Evince](https://ja.wikipedia.org/wiki/Evince "wikilink")
+  - [Evince](../Page/Evince.md "wikilink")
 
 ## 外部リンク
 

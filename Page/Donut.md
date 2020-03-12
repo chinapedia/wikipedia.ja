@@ -1,7 +1,7 @@
 > この記事は[Donut](https://ja.wikipedia.org/wiki/Donut)から翻訳されています。
 
 
-**Donut**（ドーナツ）は、[オープンソース](../Page/オープンソース.md "wikilink")の[IEコンポーネントブラウザ](../Page/IEコンポーネントブラウザ.md "wikilink")である。[Microsoft Windows上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。特徴としては[タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")であることなどが挙げられる。
+**Donut**（ドーナツ）は、[オープンソース](../Page/オープンソース.md "wikilink")の[IEコンポーネントブラウザ](../Page/IEコンポーネントブラウザ.md "wikilink")である。[Microsoft Windows上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。特徴としては[タブブラウザ](../Page/タブブラウザ.md "wikilink")であることなどが挙げられる。
 
 ## Donutの特徴
 
@@ -15,7 +15,7 @@
 
   - Donut R - 最初の亜種。
       - Donut R(by dai, JOBBY) - Donut R開発停止後の改良版。
-  - [Donut RAPT](https://ja.wikipedia.org/wiki/Donut_RAPT "wikilink") - Donut R の改良版。
+  - [Donut RAPT](../Page/Donut_RAPT.md "wikilink") - Donut R の改良版。
       - Donut L - **Donut L**ight の意味。Donut RAPT の作者が Donut RAPT を軽量化したもの。
       - Donut Q - Donut RAPT、Donut L の作者が Donut L を基に Donut RAPT の機能を一部追加し高速化したもの。名称の由来は作者が飼っている猫の名前かららしい（他に **Donut Q**uick などの意味も）。
   - Donut P - Donut R とは別系統。高機能として人気だった。
@@ -32,8 +32,8 @@
 
 ## 関連項目
 
-  - [タブブラウザ](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")
-  - [Donut RAPT](https://ja.wikipedia.org/wiki/Donut_RAPT "wikilink")
+  - [タブブラウザ](../Page/タブブラウザ.md "wikilink")
+  - [Donut RAPT](../Page/Donut_RAPT.md "wikilink")
   - [unDonut](https://ja.wikipedia.org/wiki/unDonut "wikilink")
   - [Bagel (ウェブブラウザ)](../Page/Bagel_\(ウェブブラウザ\).md "wikilink")
 

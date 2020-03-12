@@ -1,15 +1,15 @@
 > この記事は[SUPERCAR](https://ja.wikipedia.org/wiki/SUPERCAR)から翻訳されています。
 
 
-**SUPERCAR**（スーパーカー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[デビューし](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")に解散。
+**SUPERCAR**（スーパーカー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、[2005年](../Page/2005年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に解散。
 
 ## メンバー
 
-  - **[中村弘二](https://ja.wikipedia.org/wiki/中村弘二 "wikilink")**（なかむら こうじ、[1977年](../Page/1977年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - ）
+  - **[中村弘二](../Page/中村弘二.md "wikilink")**（なかむら こうじ、[1977年](../Page/1977年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - ）
 
 <!-- end list -->
 
-  - **[石渡淳治](https://ja.wikipedia.org/wiki/いしわたり淳治 "wikilink")**（いしわたり じゅんじ、1977年[8月21日](../Page/8月21日.md "wikilink") - ）
+  - **[石渡淳治](../Page/いしわたり淳治.md "wikilink")**（いしわたり じゅんじ、1977年[8月21日](../Page/8月21日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -21,19 +21,19 @@
 
 ## 来歴
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、古川が[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")内にあった「楽器の文明堂」（既に閉店）に貼ったバンドメンバー募集の張り紙により同地でバンドを結成。レコード会社へ送ったデモテープがきっかけで1997年にシングル「creamsoda」で[デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、古川が[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")内にあった「楽器の文明堂」（既に閉店）に貼ったバンドメンバー募集の張り紙により同地でバンドを結成。レコード会社へ送ったデモテープがきっかけで1997年にシングル「creamsoda」で[デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
-:\*同時期に登場した[ナンバーガール](https://ja.wikipedia.org/wiki/ナンバーガール "wikilink")、[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")、[くるり](https://ja.wikipedia.org/wiki/くるり "wikilink")らとともに「'97の世代」と呼ばれ、新世代ロックバンドとして活動。1998年頃には当時勢いのあったバンド、[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")などと一緒に「スニーカー系」と呼ばれた。
+:\*同時期に登場した[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[中村一義](../Page/中村一義.md "wikilink")、[くるり](../Page/くるり.md "wikilink")らとともに「'97の世代」と呼ばれ、新世代ロックバンドとして活動。1998年頃には当時勢いのあったバンド、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")などと一緒に「スニーカー系」と呼ばれた。
 
   - 2000年に発表された3作目のアルバム『Futurama』からは[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")をに取り入れるようになる。
 
-:\*これについて中村は具体的に[ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")や[コーネリアスからの影響をあげている](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")。
+:\*これについて中村は具体的に[ROVO](../Page/ROVO.md "wikilink")や[コーネリアスからの影響をあげている](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")。
 
-:\*シングル「YUMEGIWA LAST BOY」には、エレクトロニカ、[エレクトロ](https://ja.wikipedia.org/wiki/エレクトロ "wikilink")サウンドを得意とする[プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")を起用。その次のシングル「AOHARU YOUTH」、アルバム『HIGHVISION』『ANSWER』には益子樹（[ROVO](https://ja.wikipedia.org/wiki/ROVO "wikilink")、DUB SQUAD、ASLNなど）をプロデューサーに起用している。
+:\*シングル「YUMEGIWA LAST BOY」には、エレクトロニカ、[エレクトロ](../Page/エレクトロ.md "wikilink")サウンドを得意とする[プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[砂原良徳](../Page/砂原良徳.md "wikilink")を起用。その次のシングル「AOHARU YOUTH」、アルバム『HIGHVISION』『ANSWER』には益子樹（[ROVO](../Page/ROVO.md "wikilink")、DUB SQUAD、ASLNなど）をプロデューサーに起用している。
 
-:\* サウンドとリンクするように彼らは映像面でも田名綱敬一、[宇川直宏](https://ja.wikipedia.org/wiki/宇川直宏 "wikilink")らのアーティストとのコラボレーションもこなす。
+:\* サウンドとリンクするように彼らは映像面でも田名綱敬一、[宇川直宏](../Page/宇川直宏.md "wikilink")らのアーティストとのコラボレーションもこなす。
 
-  - 2005年2月26日に[STUDIO COASTにて行われたラストライブをもって解散](https://ja.wikipedia.org/wiki/STUDIO_COAST "wikilink")。
+  - 2005年2月26日に[STUDIO COASTにて行われたラストライブをもって解散](../Page/STUDIO_COAST.md "wikilink")。
   - 2011年、中村の監修による過去の音源の再構築アルバム『RE:SUPERCAR -redesigned by nakamura koji-』、後に『RE:SUPERCAR 2-redesigned by nakamura koji-』をリリース。
   - 2017年9月21日のデビュー20周年を記念し、オリジナルアルバム5作がアナログ化され順次リリースされた。さらに2018年4月には初のオールタイム・ベストアルバムをリリース。
 
@@ -41,12 +41,12 @@
 
   - 1999年、「ミノルタVECTIS2000」のCMに「Flicker」が使用され、フルカワミキがイメージキャラクターとして起用された。
   - 2002年に、映画『[ピンポン](../Page/ピンポン_\(漫画\).md "wikilink")』に「YUMEGIWA LAST BOY」「Free Your Soul」「STROBOLIGHTS」「Changes」「Baby Once More」が使用された。「YUMEGIWA LAST BOY」は主題歌にもなった。また「STROBOLIGHTS」は[NEC](../Page/日本電気.md "wikilink")・[LaVieシリーズ](https://ja.wikipedia.org/wiki/LaVieシリーズ "wikilink")のCMソングにも起用された。
-  - シングル「BGM」のカップリング曲「HIRAMEKI INSPIRATION」が[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[ネッツ店](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")のCMソングに起用された。
-  - 2005年4月から、アルバム『HIGHVISION』の収録曲「STORYWRITER」が、テレビアニメーション『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』の挿入歌に使用され、ゲーム『[Another Century's Episode](https://ja.wikipedia.org/wiki/Another_Century's_Episode "wikilink")』にも使用された。
-  - 2007年、「Strobolights」が[キリンMCダノンウォーターズ](https://ja.wikipedia.org/wiki/キリンMCダノンウォーターズ "wikilink")の「ボルヴィック フルーツキス レモン」のCMに起用された。
+  - シングル「BGM」のカップリング曲「HIRAMEKI INSPIRATION」が[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[ネッツ店](../Page/ネッツ店.md "wikilink")のCMソングに起用された。
+  - 2005年4月から、アルバム『HIGHVISION』の収録曲「STORYWRITER」が、テレビアニメーション『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』の挿入歌に使用され、ゲーム『[Another Century's Episode](../Page/Another_Century's_Episode.md "wikilink")』にも使用された。
+  - 2007年、「Strobolights」が[キリンMCダノンウォーターズ](../Page/キリンMCダノンウォーターズ.md "wikilink")の「ボルヴィック フルーツキス レモン」のCMに起用された。
   - 2008年、「STORYWRITER」がテレビゲーム『[スーパーロボット大戦Z](https://ja.wikipedia.org/wiki/スーパーロボット大戦Z "wikilink")』のBGMとしても使用された
-  - 2011年9月、「STROBOLIGHTS」が[iida](https://ja.wikipedia.org/wiki/iida "wikilink")のスマートフォン「[INFOBAR](https://ja.wikipedia.org/wiki/INFOBAR "wikilink")」のCMソングに起用された。
-  - 2019年、「PLANET」が映画『[リスタート:ランウェイ〜エピソード・ゼロ](https://ja.wikipedia.org/wiki/リスタート:ランウェイ〜エピソード・ゼロ "wikilink")』のエンディングテーマ曲として使用された。
+  - 2011年9月、「STROBOLIGHTS」が[iida](https://ja.wikipedia.org/wiki/iida "wikilink")のスマートフォン「[INFOBAR](../Page/INFOBAR.md "wikilink")」のCMソングに起用された。
+  - 2019年、「PLANET」が映画『[リスタート:ランウェイ〜エピソード・ゼロ](../Page/リスタート:ランウェイ〜エピソード・ゼロ.md "wikilink")』のエンディングテーマ曲として使用された。
 
 ## 作品
 
@@ -206,7 +206,7 @@ KSCL-956</p></td>
 <td><p>SYUM-218</p></td>
 <td><p><収録曲> <SIDE A></p>
 <p>01. YUMEGIWA LAST BOY</p>
-<p>02. Strobolights Remix (Remixed by <a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">Y. Sunahara</a>)</p>
+<p>02. Strobolights Remix (Remixed by <a href="../Page/砂原良徳.md" title="wikilink">Y. Sunahara</a>)</p>
 <p><SIDE B></p>
 <p>01. AOHARU YOUTH</p>
 <p>02. Strobolights Remix (Remixed by DUB SQUAD)</p></td>
@@ -507,21 +507,21 @@ KSCL-817</p></td>
 
 ## ミュージックビデオ
 
-|                                                                                                         |                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                                                                  | **曲名**                                                                                                               |
-| [宇川直宏](https://ja.wikipedia.org/wiki/宇川直宏 "wikilink")                                                   | 「BGM」「RECREATION」「YUMEGIWA LAST BOY」「YUMEGIWA LAST BOY (KODAI VERSION)」「YUMEGIWA LAST BOY-PINGPONG Self REMIX Ver.-」 |
-| [金井宏曉](https://ja.wikipedia.org/wiki/金井宏暁 "wikilink")                                                   | 「Lucky」「cream soda」「My Girl」「Sunday People」                                                                          |
-| [木村豊](https://ja.wikipedia.org/wiki/木村豊 "wikilink")                                                     | 「Strobolights」                                                                                                       |
-| [竹内鉄郎](https://ja.wikipedia.org/wiki/竹内鉄郎 "wikilink")                                                   | 「AOHARU YOUTH」                                                                                                       |
-| [多田琢](https://ja.wikipedia.org/wiki/多田琢 "wikilink")、[関口現](https://ja.wikipedia.org/wiki/関口現 "wikilink") | 「BE」「WHITE SURF style 5.」「FAIRWAY」                                                                                   |
-| [辻川幸一郎](https://ja.wikipedia.org/wiki/辻川幸一郎 "wikilink")                                                 | 「WONDER WORD (single mix)」                                                                                           |
-| [陶山志織](https://ja.wikipedia.org/wiki/陶山志織 "wikilink")                                                   | 「White Surf style 5. from DVD「LAST LIVE 完全版」」                                                                        |
-| [野村道弘](https://ja.wikipedia.org/wiki/野村道弘 "wikilink")                                                   | 「PLANET」                                                                                                             |
-| [萩原ゆか](https://ja.wikipedia.org/wiki/萩原ゆか "wikilink")                                                   | 「LAST SCENE」                                                                                                         |
-| [古川美季](https://ja.wikipedia.org/wiki/古川美季 "wikilink")                                                   | 「DRIVE」                                                                                                              |
-| 不明                                                                                                      | 「Desperado」「Love Forever」                                                                                            |
-|                                                                                                         |                                                                                                                      |
+|                                                                                      |                                                                                                                      |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                                               | **曲名**                                                                                                               |
+| [宇川直宏](../Page/宇川直宏.md "wikilink")                                                   | 「BGM」「RECREATION」「YUMEGIWA LAST BOY」「YUMEGIWA LAST BOY (KODAI VERSION)」「YUMEGIWA LAST BOY-PINGPONG Self REMIX Ver.-」 |
+| [金井宏曉](https://ja.wikipedia.org/wiki/金井宏暁 "wikilink")                                | 「Lucky」「cream soda」「My Girl」「Sunday People」                                                                          |
+| [木村豊](../Page/木村豊.md "wikilink")                                                     | 「Strobolights」                                                                                                       |
+| [竹内鉄郎](../Page/竹内鉄郎.md "wikilink")                                                   | 「AOHARU YOUTH」                                                                                                       |
+| [多田琢](https://ja.wikipedia.org/wiki/多田琢 "wikilink")、[関口現](../Page/関口現.md "wikilink") | 「BE」「WHITE SURF style 5.」「FAIRWAY」                                                                                   |
+| [辻川幸一郎](../Page/辻川幸一郎.md "wikilink")                                                 | 「WONDER WORD (single mix)」                                                                                           |
+| [陶山志織](https://ja.wikipedia.org/wiki/陶山志織 "wikilink")                                | 「White Surf style 5. from DVD「LAST LIVE 完全版」」                                                                        |
+| [野村道弘](https://ja.wikipedia.org/wiki/野村道弘 "wikilink")                                | 「PLANET」                                                                                                             |
+| [萩原ゆか](https://ja.wikipedia.org/wiki/萩原ゆか "wikilink")                                | 「LAST SCENE」                                                                                                         |
+| [古川美季](https://ja.wikipedia.org/wiki/古川美季 "wikilink")                                | 「DRIVE」                                                                                                              |
+| 不明                                                                                   | 「Desperado」「Love Forever」                                                                                            |
+|                                                                                      |                                                                                                                      |
 
 ## 主なライブ
 
@@ -536,20 +536,20 @@ KSCL-817</p></td>
   - 2002年 - TOUR 2002 "HIGHVISION"
   - 2004年 - TOUR 2004 "ANSWER"
       -
-        w/[七尾旅人](https://ja.wikipedia.org/wiki/七尾旅人 "wikilink")
+        w/[七尾旅人](../Page/七尾旅人.md "wikilink")
   - 2005年02月26日 - スーパーカー・ラストライヴ
 
 ### 出演イベント
 
-  - 1998年08月25日 - [音楽と髭](https://ja.wikipedia.org/wiki/音楽と髭 "wikilink")達 '98
-  - 1998年09月20日 - SPACE SHOWER TV [SWEET LOVE SHOWER](https://ja.wikipedia.org/wiki/SWEET_LOVE_SHOWER "wikilink") 1998
+  - 1998年08月25日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 '98
+  - 1998年09月20日 - SPACE SHOWER TV [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 1998
   - 1999年08月21日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 1999 in EZO
   - 2000年08月05日・06日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2000
-  - 2000年08月20日 - [MONSTER baSH](https://ja.wikipedia.org/wiki/MONSTER_baSH "wikilink") 2000
+  - 2000年08月20日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2000
   - 2001年07月28日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '01
   - 2001年08月04日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2001
   - 2001年08月11日 - [J-WAVE LIVE](https://ja.wikipedia.org/wiki/J-WAVE_LIVE "wikilink") 2000+1
-  - 2001年09月02日 - [RUSH BALL](https://ja.wikipedia.org/wiki/RUSH_BALL "wikilink") 2001
+  - 2001年09月02日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2001
   - 2002年07月28日 - FUJI ROCK FESTIVAL '02
   - 2002年08月10日 - J-WAVE LIVE 2000+2
   - 2003年05月25日 - MTV VIDEO MUSIC AWARDS JAPAN 2003

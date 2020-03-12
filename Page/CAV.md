@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Cavclv.png "wikilink") **CAV**（シーエーブイ）は、ディスクメディアの制御方式のひとつで、*Constant Angular Velocity*（=角速度一定）の頭文字を取ったもの。
 
-[ディスクの](https://ja.wikipedia.org/wiki/ディスクメディア "wikilink")[回転速度](https://ja.wikipedia.org/wiki/回転速度 "wikilink")が常に一定であるため、内周部分に比べ外周部分の[記録密度](https://ja.wikipedia.org/wiki/記録密度 "wikilink")が低くなってくる。そのため、ディスク全体では線記録密度が一定である[CLV](../Page/CLV.md "wikilink")と比較すると容量が小さくなるというデメリットがあるが、ランダムアクセス性能やデータの読み書き速度では優れる傾向にある。
+[ディスクの](../Page/ディスクメディア.md "wikilink")[回転速度](https://ja.wikipedia.org/wiki/回転速度 "wikilink")が常に一定であるため、内周部分に比べ外周部分の[記録密度](../Page/記録密度.md "wikilink")が低くなってくる。そのため、ディスク全体では線記録密度が一定である[CLV](../Page/CLV.md "wikilink")と比較すると容量が小さくなるというデメリットがあるが、ランダムアクセス性能やデータの読み書き速度では優れる傾向にある。
 
 ディスクの回転速度を細かく制御する必要がないため、ディスクメディアの初期から使用されてきた。[コンピュータ](../Page/コンピュータ.md "wikilink")用の[外部記憶装置など](../Page/補助記憶装置.md "wikilink")、高速なデータ読み書きが必要な用途に向いている。
 

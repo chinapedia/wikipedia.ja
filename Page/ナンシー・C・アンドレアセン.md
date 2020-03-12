@@ -1,7 +1,7 @@
 > この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
 
 
-**ナンシー・C・アンドレアセン**（Nancy Coover Andreasen, [1938年](../Page/1938年.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[神経科学者](https://ja.wikipedia.org/wiki/神経科学者 "wikilink")、[精神科医](https://ja.wikipedia.org/wiki/精神科医 "wikilink")。 哲学博士、医学博士。[アイオワ大学](https://ja.wikipedia.org/wiki/アイオワ大学 "wikilink")ロイ・J・ルシール・A.カーヴァー医学部アンドリュー・H.ウッズ精神医学研究所の部長である。嘗ては[ルネサンス文学](https://ja.wikipedia.org/wiki/ルネサンス文学 "wikilink")の教授であった。\[1\].
+**ナンシー・C・アンドレアセン**（Nancy Coover Andreasen, [1938年](../Page/1938年.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[神経科学者](https://ja.wikipedia.org/wiki/神経科学者 "wikilink")、[精神科医](../Page/精神科医.md "wikilink")。 哲学博士、医学博士。[アイオワ大学](../Page/アイオワ大学.md "wikilink")ロイ・J・ルシール・A.カーヴァー医学部アンドリュー・H.ウッズ精神医学研究所の部長である。嘗ては[ルネサンス文学](https://ja.wikipedia.org/wiki/ルネサンス文学 "wikilink")の教授であった。\[1\].
 
 ## 研究
 
@@ -19,7 +19,7 @@
 
 ## 著作・執筆
 
-アンドレアセンは500以上の科学論文を著作または共同執筆し、また[神経科学](https://ja.wikipedia.org/wiki/神経科学 "wikilink") 、[精神病](../Page/精神病.md "wikilink")と創造力について一般大衆を啓蒙する「脳三部作」を含めた15冊の本を出版した。 彼女の最近の本、「The Creating Brain：天才の神経科学」は、異常な創造力と普通の創造力の間の違いを含めた、創造力に対する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")と環境が与える影響についての疑問を調べている。 アンドレアセンは、独創的芸術家と科学者の脳を調べることによって、独創的でない人と比較して独創的な人の脳内でどのようなメカニズムが働いているかを解明し、そしてより創造的になることに関心がある人がそれを達成するのを手伝いたいと考えている。
+アンドレアセンは500以上の科学論文を著作または共同執筆し、また[神経科学](../Page/神経科学.md "wikilink") 、[精神病](../Page/精神病.md "wikilink")と創造力について一般大衆を啓蒙する「脳三部作」を含めた15冊の本を出版した。 彼女の最近の本、「The Creating Brain：天才の神経科学」は、異常な創造力と普通の創造力の間の違いを含めた、創造力に対する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")と環境が与える影響についての疑問を調べている。 アンドレアセンは、独創的芸術家と科学者の脳を調べることによって、独創的でない人と比較して独創的な人の脳内でどのようなメカニズムが働いているかを解明し、そしてより創造的になることに関心がある人がそれを達成するのを手伝いたいと考えている。
 
 ## 参照
 

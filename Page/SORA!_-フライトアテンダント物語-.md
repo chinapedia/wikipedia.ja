@@ -1,11 +1,11 @@
 > この記事は[SORA! --](https://ja.wikipedia.org/wiki/SORA!_--)から翻訳されています。
 
 
-『**SORA\!－フライトアテンダント物語－**』（そら フライトアテンダントものがたり）は、原作・[矢島正雄](https://ja.wikipedia.org/wiki/矢島正雄 "wikilink")、漫画・[引野真二](https://ja.wikipedia.org/wiki/引野真二 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[小学館](../Page/小学館.md "wikilink")の漫画雑誌『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』2005年18号（[9月25日](../Page/9月25日.md "wikilink")号）から2007年9号（[5月10日](../Page/5月10日.md "wikilink")号）まで連載された。単行本は全5巻が小学館[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")から刊行されている。
+『**SORA\!－フライトアテンダント物語－**』（そら フライトアテンダントものがたり）は、原作・[矢島正雄](../Page/矢島正雄.md "wikilink")、漫画・[引野真二](https://ja.wikipedia.org/wiki/引野真二 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[小学館](../Page/小学館.md "wikilink")の漫画雑誌『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』2005年18号（[9月25日](../Page/9月25日.md "wikilink")号）から2007年9号（[5月10日](../Page/5月10日.md "wikilink")号）まで連載された。単行本は全5巻が小学館[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")から刊行されている。
 
 ## 概要
 
-架空の新規参入・[格安航空会社](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")である**スカイドリーム航空**で働くフライトアテンダント（[客室乗務員](../Page/客室乗務員.md "wikilink")）、星野天海の仕事振りや乗客・同僚の人間ドラマを中心に描いた作品である。作品の舞台を前作の空港から航空会社へ移しているが、本作で繰り広げられるドラマの方向性や作風は前作『[ビッグウイング](https://ja.wikipedia.org/wiki/ビッグウイング "wikilink")』を踏襲している。
+架空の新規参入・[格安航空会社](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")である**スカイドリーム航空**で働くフライトアテンダント（[客室乗務員](../Page/客室乗務員.md "wikilink")）、星野天海の仕事振りや乗客・同僚の人間ドラマを中心に描いた作品である。作品の舞台を前作の空港から航空会社へ移しているが、本作で繰り広げられるドラマの方向性や作風は前作『[ビッグウイング](../Page/ビッグウイング.md "wikilink")』を踏襲している。
 
 ## 主な登場人物
 
@@ -29,10 +29,10 @@
 ## 補足
 
   - 天海が勤務するスカイドリーム航空は、[スカイマーク](https://ja.wikipedia.org/wiki/スカイマーク "wikilink")をモデルとしており、同社が取材協力をしていることがクレジットされている。[羽田空港第](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")1旅客ターミナルを使用して[沖縄那覇への深夜便運行や](../Page/那覇空港.md "wikilink")、羽田から[青森への路線が登場するなど](../Page/青森空港.md "wikilink")、かつてのスカイマークが取り組んできた事柄を舞台としている話も多い。
-  - 羽田空港での描写では、時おり前作『[ビッグウイング](https://ja.wikipedia.org/wiki/ビッグウイング "wikilink")』主人公の吉川久美子に似たグランドアテンダント（案内係）が登場するコマがある。
+  - 羽田空港での描写では、時おり前作『[ビッグウイング](../Page/ビッグウイング.md "wikilink")』主人公の吉川久美子に似たグランドアテンダント（案内係）が登場するコマがある。
 
 ## 関連項目
 
-  - [ビッグウイング](https://ja.wikipedia.org/wiki/ビッグウイング "wikilink") - 本作の前に同じコンビにより『ビッグコミック』に連載。
+  - [ビッグウイング](../Page/ビッグウイング.md "wikilink") - 本作の前に同じコンビにより『ビッグコミック』に連載。
 
 [Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:ビッグコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックの漫画作品 "wikilink") [Category:航空を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:航空を題材にした漫画作品 "wikilink") [Category:客室乗務員を題材とした作品](https://ja.wikipedia.org/wiki/Category:客室乗務員を題材とした作品 "wikilink") [Category:東京国際空港を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京国際空港を舞台とした作品 "wikilink") [Category:矢島正雄](https://ja.wikipedia.org/wiki/Category:矢島正雄 "wikilink")

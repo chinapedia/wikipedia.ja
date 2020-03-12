@@ -1,7 +1,7 @@
 > この記事は[ROTEX](https://ja.wikipedia.org/wiki/ROTEX)から翻訳されています。
 
 
-**ROTEX**（ローテックス）は、[ロータリー青少年交換](https://ja.wikipedia.org/wiki/ロータリー青少年交換 "wikilink")プログラムを修了した者によって構成されている[組織である](https://ja.wikipedia.org/wiki/組織_\(社会科学\) "wikilink")。各[国際ロータリー](https://ja.wikipedia.org/wiki/国際ロータリー "wikilink")地区の青少年交換委員会がスポンサーとなり、現在青少年交換プログラムを通して海外から来日している学生(来日学生)や、次年度に各国へ派遣予定されている学生(派遣候補生)、現在派遣中の学生(派遣生)のケアを行っている。 **ROT**ary **EX**changeが名称の由来となっており、ロータリー青少年交換プログラムを修了した者は[性別](../Page/性別.md "wikilink")・[国籍](../Page/国籍.md "wikilink")を問わずメンバーと見なされる。[年齢](../Page/年齢.md "wikilink")制限は無い。
+**ROTEX**（ローテックス）は、[ロータリー青少年交換](../Page/ロータリー青少年交換.md "wikilink")プログラムを修了した者によって構成されている[組織である](../Page/組織_\(社会科学\).md "wikilink")。各[国際ロータリー](../Page/国際ロータリー.md "wikilink")地区の青少年交換委員会がスポンサーとなり、現在青少年交換プログラムを通して海外から来日している学生(来日学生)や、次年度に各国へ派遣予定されている学生(派遣候補生)、現在派遣中の学生(派遣生)のケアを行っている。 **ROT**ary **EX**changeが名称の由来となっており、ロータリー青少年交換プログラムを修了した者は[性別](../Page/性別.md "wikilink")・[国籍](../Page/国籍.md "wikilink")を問わずメンバーと見なされる。[年齢](../Page/年齢.md "wikilink")制限は無い。
 
 ## 活動
 
@@ -28,9 +28,9 @@
 
 ## 関連項目
 
-  - [ロータリークラブ](https://ja.wikipedia.org/wiki/ロータリークラブ "wikilink")
-  - [ローターアクトクラブ](https://ja.wikipedia.org/wiki/ローターアクトクラブ "wikilink")
-  - [インターアクトクラブ](https://ja.wikipedia.org/wiki/インターアクトクラブ "wikilink")
+  - [ロータリークラブ](../Page/ロータリークラブ.md "wikilink")
+  - [ローターアクトクラブ](../Page/ローターアクトクラブ.md "wikilink")
+  - [インターアクトクラブ](../Page/インターアクトクラブ.md "wikilink")
 
 ## 外部リンク
 

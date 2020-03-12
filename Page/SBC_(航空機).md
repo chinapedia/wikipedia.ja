@@ -2,14 +2,14 @@
 
 
 {{ Infobox 航空機 | 名称= XF12C / XS4C /SBC ヘルダイヴァー | 画像=<File:SBC-3> Helldiver VS-3 in flight c1939.jpeg | キャプション=飛行するSBC-3 0571号機
-(第3偵察飛行隊所属、[1939年](../Page/1939年.md "wikilink")撮影) | 用途=[偵察機](../Page/偵察機.md "wikilink")、[急降下爆撃機](../Page/急降下爆撃機.md "wikilink") | 分類=[艦上爆撃機](https://ja.wikipedia.org/wiki/艦上爆撃機 "wikilink") | 設計者= | 製造者=[カーティス・ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink") |運用者 more =
+(第3偵察飛行隊所属、[1939年](../Page/1939年.md "wikilink")撮影) | 用途=[偵察機](../Page/偵察機.md "wikilink")、[急降下爆撃機](../Page/急降下爆撃機.md "wikilink") | 分類=[艦上爆撃機](../Page/艦上爆撃機.md "wikilink") | 設計者= | 製造者=[カーティス・ライト](../Page/カーチス・ライト.md "wikilink") |運用者 more =
 \*\*（[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")、[海兵隊](../Page/アメリカ海兵隊.md "wikilink")）
 
-  -   - （[イギリス空軍](https://ja.wikipedia.org/wiki/イギリス空軍 "wikilink")）
+  -   - （[イギリス空軍](../Page/イギリス空軍.md "wikilink")）
 
-      - （[フランス海軍](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")）
+      - （[フランス海軍](../Page/フランス海軍.md "wikilink")）
 
-| 初飛行年月日=[1935年](../Page/1935年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") | 生産数=257機 | 生産開始年月日=[1938年](../Page/1938年.md "wikilink") | 運用開始年月日=1938年 | 退役年月日=[1943年](../Page/1943年.md "wikilink") | 運用状況=退役 | ユニットコスト= }} **SBC ヘルダイヴァー**（*Curtiss-Wright SBC Helldiver* ）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の前に[カーチス社が開発した艦上偵察](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。
+| 初飛行年月日=[1935年](../Page/1935年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") | 生産数=257機 | 生産開始年月日=[1938年](../Page/1938年.md "wikilink") | 運用開始年月日=1938年 | 退役年月日=[1943年](../Page/1943年.md "wikilink") | 運用状況=退役 | ユニットコスト= }} **SBC ヘルダイヴァー**（*Curtiss-Wright SBC Helldiver* ）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の前に[カーチス社が開発した艦上偵察](../Page/カーチス・ライト.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。
 
 愛称の「**ヘルダイヴァー** (*Helldiver*)」は[カイツブリ](../Page/カイツブリ.md "wikilink")の意で、社では[F8Cから使われている二代目だが](https://ja.wikipedia.org/wiki/:en:Curtiss_Falcon "wikilink")、本機の成功によりこの名は**[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")の代名詞**になった。
 
@@ -19,7 +19,7 @@
 
 その後エンジンの換装等の改良を経て、量産機は[1937年](../Page/1937年.md "wikilink")から部隊配備された。しかし、配備時にはより近代的だった[BTや](../Page/BT_\(航空機\).md "wikilink")[SB2Uが実用化されており](../Page/SB2U_\(航空機\).md "wikilink")、SBCの多くは後方任務で使用された。
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開戦時には180機程が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")に在籍しており、[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")・海軍における最後の複葉実戦機として[1942年](../Page/1942年.md "wikilink")頃まで使用された。
+[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開戦時には180機程が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")に在籍しており、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")・海軍における最後の複葉実戦機として[1942年](../Page/1942年.md "wikilink")頃まで使用された。
 
 ## スペック
 
@@ -27,7 +27,7 @@
   - 全幅：10.36 m
   - 全高：3.84 m
   - 全備重量：3,211 kg
-  - エンジン：[ライト R-1820-34](https://ja.wikipedia.org/wiki/ライト_R-1820 "wikilink") 空冷星型9気筒 950hp×1
+  - エンジン：[ライト R-1820-34](../Page/ライト_R-1820.md "wikilink") 空冷星型9気筒 950hp×1
   - 最大速度：381 km/h
   - 実用上限高度：7,750 m
   - 航続距離：950 km
@@ -38,7 +38,7 @@
 
 ## 関連項目
 
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
 
 ## 参考図書
 

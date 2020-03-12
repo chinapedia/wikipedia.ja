@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - [VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")（Voice Over Internet Protocol）機能によりオンライン上で相手と会話を楽しむことができる。
+  - [VoIP](../Page/VoIP.md "wikilink")（Voice Over Internet Protocol）機能によりオンライン上で相手と会話を楽しむことができる。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - その場限りのファイル交換ネットワーク「Neo Network」を作り出し、同ネットワーク上のコンピュータ[ノードはすべて個別に機能](https://ja.wikipedia.org/wiki/ノード_\(ネットワーク\) "wikilink")、中央[サーバ](../Page/サーバ.md "wikilink")や[ハブを介さずに](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")、Neo Networkのコンピュータ同士が直接通信できる。
+  - その場限りのファイル交換ネットワーク「Neo Network」を作り出し、同ネットワーク上のコンピュータ[ノードはすべて個別に機能](https://ja.wikipedia.org/wiki/ノード_\(ネットワーク\) "wikilink")、中央[サーバ](../Page/サーバ.md "wikilink")や[ハブを介さずに](../Page/ハブ_\(ネットワーク機器\).md "wikilink")、Neo Networkのコンピュータ同士が直接通信できる。
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 
 [2000年](../Page/2000年.md "wikilink")　StreamCast社は[OpenNAP](https://ja.wikipedia.org/wiki/OpenNAP "wikilink")から、[FastTrack](https://ja.wikipedia.org/wiki/FastTrack "wikilink")へとプロトコルを変更した。
 
-[2002年](../Page/2002年.md "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")　FastTrackネットワークのプロトコル更新時に、Morpheusユーザーがネットワークから締め出された。
+[2002年](../Page/2002年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")　FastTrackネットワークのプロトコル更新時に、Morpheusユーザーがネットワークから締め出された。
 
   - この背景には、StreamCastとFastTrackの所有者の間に[ライセンス](../Page/ライセンス.md "wikilink")論争があったためである。
 
@@ -49,7 +49,7 @@
 
 ## 概略
 
-Morpheusは、世界で初めてDHT（分散ハッシュテーブル）を実装したクライアントで、「史上初めて、分散型のP2P技術によって完全に分散化された[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")で、中央サーバ並みの信頼性を提供する」と、StreamCast Networksのマイケル・ワイスCEOが語っている。
+Morpheusは、世界で初めてDHT（分散ハッシュテーブル）を実装したクライアントで、「史上初めて、分散型のP2P技術によって完全に分散化された[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")で、中央サーバ並みの信頼性を提供する」と、StreamCast Networksのマイケル・ワイスCEOが語っている。
 
 ## Morpheusを巡る裁判
 
@@ -63,35 +63,35 @@ Morpheusは、世界で初めてDHT（分散ハッシュテーブル）を実装
 
 [2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")　控訴審へと上訴される
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")　再度合法判決（控訴審判決）
+[2004年](../Page/2004年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")　再度合法判決（控訴審判決）
 
   - 「[ソニーベータマックス裁判](https://ja.wikipedia.org/wiki/ソニーベータマックス裁判 "wikilink")（[ビデオテープレコーダー](https://ja.wikipedia.org/wiki/ビデオテープレコーダー "wikilink")が著作権侵害のために利用可能であったとしても、その機器を販売することは著作権侵害にはならない）」の最高裁判決から、その原則がP2Pファイル交換ネットワークにも適用されるとの判断
   - 「Grokster社とStreamcast社は著作権侵害に使用できるホームビデオテープレコーダーや[コピー機](https://ja.wikipedia.org/wiki/コピー機 "wikilink")を販売する企業と著しく違うことはない」
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 　　　アメリカ合衆国の最高裁判所は、事例を審理することに同意
+[2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 　　　アメリカ合衆国の最高裁判所は、事例を審理することに同意
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")　口頭弁論が開始される
+[2005年](../Page/2005年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")　口頭弁論が開始される
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")　米国最高裁で[映画](../Page/映画.md "wikilink")・[レコード](../Page/レコード.md "wikilink")会社の全面勝訴
+[2005年](../Page/2005年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")　米国最高裁で[映画](../Page/映画.md "wikilink")・[レコード](../Page/レコード.md "wikilink")会社の全面勝訴
 
   - P2P技術のデベロッパーには、ユーザーの違法行為に対する法的責任がある。（9人の裁判官が全員一致）
   - 全米レコード協会（RIAA）は、「最高裁は窃盗を推奨し、そこから利益を上げるものの責任を問う事によって、合法的な[オンラインビジネス](https://ja.wikipedia.org/wiki/オンラインビジネス "wikilink")に力強い未来を与えた」と判決を賞賛した。
 
 **-この判決によりP2P企業は、ユーザーによる違法なファイル交換の責任を問われることとなった-**
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")　「Morpheus」が、ユーザーによる著作権侵害行為を助長したとの判決を下した。
+[2006年](../Page/2006年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")　「Morpheus」が、ユーザーによる著作権侵害行為を助長したとの判決を下した。
 
   - 「このソフトの提供元であるストリームキャスト・ネットワークスが、同社のネットワーク上でやり取りされる音楽と映画に著作権があるとは知らなかったなどと主張することは許されない」と述べた。（スティーブン V.ウィルソン連邦地裁判事）
 
 ### スカイプ・KaZaA訴訟
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")　StreamCastが[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")中部地区連邦地方裁判所へ提訴
+[2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")　StreamCastが[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")中部地区連邦地方裁判所へ提訴
 
   - Kazaaそして[Skype Technologiesおよびその創業者であるNiklas](https://ja.wikipedia.org/wiki/Skype_Technologies "wikilink") Zennstrom氏とJanus Friis氏などを相手取り訴訟を起こした。
 
 <!-- end list -->
 
-  - この訴訟では、IP電話サービスプロバイダーである[Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")がStreamCastの技術を基盤としていることを、StreamCast社は主張している。
+  - この訴訟では、IP電話サービスプロバイダーである[Skype](../Page/Skype.md "wikilink")がStreamCastの技術を基盤としていることを、StreamCast社は主張している。
 
 <!-- end list -->
 
@@ -101,11 +101,11 @@ Morpheusは、世界で初めてDHT（分散ハッシュテーブル）を実装
 
   - StreamCast裁判の原告にはほかにも、[Joltid](https://ja.wikipedia.org/wiki/Joltid "wikilink")、[Joltid Ou Blastoise](https://ja.wikipedia.org/wiki/Joltid_Ou_Blastoise "wikilink")、[Bluemoon](https://ja.wikipedia.org/wiki/Bluemoon "wikilink")、[LA Galiote](https://ja.wikipedia.org/wiki/LA_Galiote "wikilink")、[Indigo Investment](https://ja.wikipedia.org/wiki/Indigo_Investment "wikilink")、[Brilliant Digital Entertainment](https://ja.wikipedia.org/wiki/Brilliant_Digital_Entertainment "wikilink")、[Sharman Networks](https://ja.wikipedia.org/wiki/Sharman_Networks "wikilink")、[Altnet](https://ja.wikipedia.org/wiki/Altnet "wikilink")の最高経営責任者（CEO）Kevin Bermeister氏のほか、「匿名の被告人」が複数含まれている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")　Skypeの親会社である[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")社を提訴する企業21社の中に加えた
+[2006年](../Page/2006年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")　Skypeの親会社である[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")社を提訴する企業21社の中に加えた
 
-  - さらにeBayが[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に買収したSkypeに対し、VoIP製品の販売中止を命じるよう裁判所に求めている。
+  - さらにeBayが[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に買収したSkypeに対し、VoIP製品の販売中止を命じるよう裁判所に求めている。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")　eBay以外の被告全員を独占禁止法違反でさらに提訴
+[2006年](../Page/2006年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")　eBay以外の被告全員を独占禁止法違反でさらに提訴
 
 ## 関連項目
 

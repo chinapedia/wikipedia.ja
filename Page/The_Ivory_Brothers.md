@@ -1,7 +1,7 @@
 > この記事は[The Ivory Brothers](https://ja.wikipedia.org/wiki/The_Ivory_Brothers)から翻訳されています。
 
 
-**The Ivory Brothers**（ザ・アイボリー・ブラザーズ）は[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。2001年結成。2004年[J-more](https://ja.wikipedia.org/wiki/J-more "wikilink")よりメジャーデビュー。プロデューサーは[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")
+**The Ivory Brothers**（ザ・アイボリー・ブラザーズ）は[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2001年結成。2004年[J-more](../Page/J-more.md "wikilink")よりメジャーデビュー。プロデューサーは[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")
 
 ## メンバー
 
@@ -27,7 +27,7 @@
     1.  遠景
     2.  Lady,Lady
     3.  ふたつだけ(Live)
-  - **この街では誰もがみな自分以外の何かになりたがる**（2005年11月9日）アニメ「[うえきの法則](https://ja.wikipedia.org/wiki/うえきの法則 "wikilink")」エンディングテーマ
+  - **この街では誰もがみな自分以外の何かになりたがる**（2005年11月9日）アニメ「[うえきの法則](../Page/うえきの法則.md "wikilink")」エンディングテーマ
     1.  この街では誰もがみな自分以外の何かになりたがる
     2.  I love you,love me
     3.  遠景(acoustic)

@@ -1,7 +1,7 @@
 > この記事は[I.d.](https://ja.wikipedia.org/wiki/I.d.)から翻訳されています。
 
 
-『'''i.d. '''』（アイディー）は、[三雲岳斗](https://ja.wikipedia.org/wiki/三雲岳斗 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[宮村和生](https://ja.wikipedia.org/wiki/宮村和生 "wikilink")が担当。[電撃文庫](../Page/電撃文庫.md "wikilink")刊。[SFテイストだが](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、三雲の前作『[レベリオン](../Page/レベリオン.md "wikilink")』とおなじく[ミステリ](https://ja.wikipedia.org/wiki/ミステリ "wikilink")としての要素もつよい。
+『'''i.d. '''』（アイディー）は、[三雲岳斗](../Page/三雲岳斗.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[宮村和生](https://ja.wikipedia.org/wiki/宮村和生 "wikilink")が担当。[電撃文庫](../Page/電撃文庫.md "wikilink")刊。[SFテイストだが](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、三雲の前作『[レベリオン](../Page/レベリオン.md "wikilink")』とおなじく[ミステリ](../Page/ミステリ.md "wikilink")としての要素もつよい。
 
 ## ストーリー
 

@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR天才バカボン**（シーアールてんさいバカボン）は、[大一商会](https://ja.wikipedia.org/wiki/大一商会 "wikilink")が開発・販売した、[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")または[現金機](https://ja.wikipedia.org/wiki/現金機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")シリーズ。[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")および[アニメ](../Page/アニメ.md "wikilink")『[天才バカボン](../Page/天才バカボン.md "wikilink")』の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
+**CR天才バカボン**（シーアールてんさいバカボン）は、[大一商会](../Page/大一商会.md "wikilink")が開発・販売した、[CR機](../Page/CR機.md "wikilink")または[現金機](../Page/現金機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")シリーズ。[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")および[アニメ](../Page/アニメ.md "wikilink")『[天才バカボン](../Page/天才バカボン.md "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
 
 ## 概要
 
@@ -11,17 +11,17 @@
 
 声優陣は当初はアニメ4作品のキャストを織り交ぜていたが、作品が進むにつれて第3期のキャスティングに統一されていった。
 
-2003年に本機のゲーム性をさらにアップした『[CR天才バカボン2](https://ja.wikipedia.org/wiki/#CR天才バカボン2 "wikilink")』、そして2007年に本機のリメイク機である『[CR天才バカボン クラシック](https://ja.wikipedia.org/wiki/#CR天才バカボン_クラシック "wikilink")』、2009年に実質的には本機から3代目となる『[CR天才バカボン 41才の春だから](https://ja.wikipedia.org/wiki/#CR天才バカボン_41才の春だから "wikilink")』が登場した。また、本シリーズの兄弟機種として、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に**レレレのおじさん**が主人公（ただし演出上の主人公は*本官*）の[羽根モノ](https://ja.wikipedia.org/wiki/羽根モノ "wikilink")機種『[CRレレレにおまかせ\!](https://ja.wikipedia.org/wiki/CRレレレにおまかせ! "wikilink")』、2007年にその続編となる『[CR新レレレにおまかせ\!](https://ja.wikipedia.org/wiki/CRレレレにおまかせ!#CR新レレレにおまかせ! "wikilink")』も登場した。
+2003年に本機のゲーム性をさらにアップした『[CR天才バカボン2](https://ja.wikipedia.org/wiki/#CR天才バカボン2 "wikilink")』、そして2007年に本機のリメイク機である『[CR天才バカボン クラシック](https://ja.wikipedia.org/wiki/#CR天才バカボン_クラシック "wikilink")』、2009年に実質的には本機から3代目となる『[CR天才バカボン 41才の春だから](https://ja.wikipedia.org/wiki/#CR天才バカボン_41才の春だから "wikilink")』が登場した。また、本シリーズの兄弟機種として、[2004年](../Page/2004年.md "wikilink")に**レレレのおじさん**が主人公（ただし演出上の主人公は*本官*）の[羽根モノ](../Page/羽根モノ.md "wikilink")機種『[CRレレレにおまかせ\!](../Page/CRレレレにおまかせ!.md "wikilink")』、2007年にその続編となる『[CR新レレレにおまかせ\!](https://ja.wikipedia.org/wiki/CRレレレにおまかせ!#CR新レレレにおまかせ! "wikilink")』も登場した。
 
 ## 主な登場人物
 
   - **[バカボンのパパ](../Page/バカボンのパパ.md "wikilink")**（声：[富田耕生](../Page/富田耕生.md "wikilink")）
-  - **バカボン**（声：[亀井芳子](https://ja.wikipedia.org/wiki/亀井芳子 "wikilink")（初代・2）、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")（41才の春だから以降））
+  - **バカボン**（声：[亀井芳子](../Page/亀井芳子.md "wikilink")（初代・2）、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")（41才の春だから以降））
   - **ハジメ**（声：不明（初代）、[貴家堂子](../Page/貴家堂子.md "wikilink")（2）、[ゆきじ](https://ja.wikipedia.org/wiki/ゆきじ "wikilink")（41才の春だから）、[坂本千夏](../Page/坂本千夏.md "wikilink")（4以降））
-  - **バカボンのママ**（声：[増山江威子](https://ja.wikipedia.org/wiki/増山江威子 "wikilink")（2以降））
-  - **レレレのおじさん**（声：[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")）
+  - **バカボンのママ**（声：[増山江威子](../Page/増山江威子.md "wikilink")（2以降））
+  - **レレレのおじさん**（声：[千葉繁](../Page/千葉繁.md "wikilink")）
   - **目ン玉つながりのお巡りさん（本官）**（声：千葉繁）
-  - **[ウナギイヌ](../Page/ウナギイヌ.md "wikilink")**（声：[田原アルノ](https://ja.wikipedia.org/wiki/田原アルノ "wikilink")（41才の春だから以降））
+  - **[ウナギイヌ](../Page/ウナギイヌ.md "wikilink")**（声：[田原アルノ](../Page/田原アルノ.md "wikilink")（41才の春だから以降））
 
 ## CR天才バカボン
 
@@ -29,7 +29,7 @@
 
 ### 特徴
 
-  - 1/2[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ（EXをのぞく）。
+  - 1/2[確率変動](../Page/確率変動.md "wikilink")タイプ（EXをのぞく）。
   - パチンコ機で最初に[FM音源](../Page/FM音源.md "wikilink")を採用した。
   - 大当たり時に『[天才バカボン](../Page/天才バカボン.md "wikilink")』初代版アニメの主題歌（テレビ版、レコード版とはコーラスなどが若干異なる）が流れる。
   - 停電などのトラブルに対応するレジューム機能付き。この機能のため朝一出目は本来「123」だが、バラバラ目（前日を引き継ぎ）のホールもある。
@@ -96,8 +96,8 @@
 
 ### 特徴
 
-  - 1/2[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプ（EXをのぞく）。
-  - 大当たり中は[アイドル・フォー](https://ja.wikipedia.org/wiki/アイドル・フォー "wikilink")が歌う第1作OPの1番が流れる。
+  - 1/2[確率変動](../Page/確率変動.md "wikilink")タイプ（EXをのぞく）。
+  - 大当たり中は[アイドル・フォー](../Page/アイドル・フォー.md "wikilink")が歌う第1作OPの1番が流れる。
   - 大当たりラウンド中演出は、パパがクイズを出題し、次のラウンドでその答え合わせをする（問題はランダムで3つ出題）。後半はプレミア演出情報（ランダムで2つ出現）。
   - 大当たりラウンド中に、プレミアム演出情報が、11R〜12Rと13R〜14Rの2回出現。またこのプレミアム演出情報には裏技があり、通常はプレミア情報（キャラや演出）が「（丸字で囲った）秘」マークで隠されているものの、10RでVゾーンに最低1個以上入賞させた上で8C以内の入賞に留め、下皿（アタッカー）が自動的に閉まるのを待てば（1Rは約30秒）、以降隠されているプレミア情報が「秘」マークなしで見ることができる。
   - 朝一出目は「008」（背景の季節は「春」から始まる）。

@@ -1,7 +1,7 @@
 > この記事は[Thief \(\)](https://ja.wikipedia.org/wiki/Thief_\(\))から翻訳されています。
 
 
-『**Thief**』（シーフ）は[アイドス](https://ja.wikipedia.org/wiki/アイドス "wikilink")社が発売したPC用ゲームソフト、及びそのシリーズ。ジャンルは[ステルス系](../Page/ステルスゲーム.md "wikilink")[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。
+『**Thief**』（シーフ）は[アイドス](../Page/アイドス.md "wikilink")社が発売したPC用ゲームソフト、及びそのシリーズ。ジャンルは[ステルス系](../Page/ステルスゲーム.md "wikilink")[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。
 
 ## 概要
 
@@ -11,14 +11,14 @@
 
 シリーズ第1作**Thief: The Dark Project**は[Looking Glass Studios社が開発元となり](https://ja.wikipedia.org/wiki/Looking_Glass_Studios "wikilink")、1998年に発売。後に新ミッションを追加しゲームバランスを調整した**Thief GOLD**、正式な続編として1999年に**Thief2: The Metal Age**が発売されるものの、2000年にLooking Glass Studiosが経営難から倒産の憂き目に遭い、シリーズ三作目は絶望視された。だが開発元を[Ion Storm社に移し](https://ja.wikipedia.org/wiki/Ion_Storm "wikilink")、2004年に**Thief: The Deadly Shadows**が発売された。この作品では3人称視点が追加されており、何時でも視点変更が可能。また、Xboxでも発売されている（日本国内では未発売だが、リージョンフリーなので日本のXBOXでもプレイ可能）。
 
-Eidos Montrealより最新作**Thief**が発売。プラットフォームはPS4、PC、PS3、XBOX360で、国内でも[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")より発売された。
+Eidos Montrealより最新作**Thief**が発売。プラットフォームはPS4、PC、PS3、XBOX360で、国内でも[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された。
 
 ## 作品一覧
 
   - Thief: The Dark Project
     1998年11月30日に発売したコンピュータゲームで本シリーズの第一作である。
   - Thief: Gold
-    The Dark Projectの拡張版。3つの新たなマップが追加されている。本編のMapのグラフィックなどにも若干の改良が加えられている。日本では2000年12月1日に[メディアカイト](https://ja.wikipedia.org/wiki/メディアカイト "wikilink")より日本語マニュアル付き(ソフト自体は英語版)が発売された。
+    The Dark Projectの拡張版。3つの新たなマップが追加されている。本編のMapのグラフィックなどにも若干の改良が加えられている。日本では2000年12月1日に[メディアカイト](../Page/メディアカイト.md "wikilink")より日本語マニュアル付き(ソフト自体は英語版)が発売された。
   - Thief:2 The Metal Age
     2000年2月29日に発売したコンピュータゲームで『Thief: The Dark Project』の続編。
   - Thief: The Deadly Shadows
@@ -89,7 +89,7 @@ Eidos Montrealより最新作**Thief**が発売。プラットフォームはPS4
 ## 道具
 
   - ヒーリングポーション（Healing Potion）
-    体力を[回復させる](https://ja.wikipedia.org/wiki/ヒーリング "wikilink")[ポーション](https://ja.wikipedia.org/wiki/ポーション "wikilink")（薬）。一作目、二作目では徐々に体力が回復していくが三作目では即座に一括で回復するものとなっている。
+    体力を[回復させる](https://ja.wikipedia.org/wiki/ヒーリング "wikilink")[ポーション](../Page/ポーション.md "wikilink")（薬）。一作目、二作目では徐々に体力が回復していくが三作目では即座に一括で回復するものとなっている。
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@ Eidos Montrealより最新作**Thief**が発売。プラットフォームはPS4
 
 ## 登場人物
 
-  - ギャレット(Garrett)（日本語版CV：[中村悠一](https://ja.wikipedia.org/wiki/中村悠一 "wikilink")）
+  - ギャレット(Garrett)（日本語版CV：[中村悠一](../Page/中村悠一.md "wikilink")）
     主人公である。keeperの助手となり、その後プロの泥棒になったストリートの少年。泥棒の技術は比類ないが彼はあくまで泥棒であり戦士ではないので真正面からの戦闘は得意ではない。
   - カティー（Cutty)
     ギャレットの盗品買取人。法に触れ、ハマライトの怒りを買っている点に関しては同じくらい悪評高いが彼は役に立つ情報源であり、自分の所に盗品を持ち込む者に対しては公平。前半には、捕られた彼を救い出すというミッションも存在する。

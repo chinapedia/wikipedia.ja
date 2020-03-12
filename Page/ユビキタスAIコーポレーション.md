@@ -1,18 +1,18 @@
 > この記事は[AI](https://ja.wikipedia.org/wiki/AI)から翻訳されています。
 
 
-**株式会社ユビキタスAIコーポレーション**（*Ubiquitous AI Corporation*）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](https://ja.wikipedia.org/wiki/西新宿 "wikilink")に本社を置く通信ソフトウェアの開発・ライセンス提供を行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。
+**株式会社ユビキタスAIコーポレーション**（*Ubiquitous AI Corporation*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")に本社を置く通信ソフトウェアの開発・ライセンス提供を行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。
 
-[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")[NEOへの上場第](https://ja.wikipedia.org/wiki/NEO_\(証券市場\) "wikilink")1号企業である。
+[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")[NEOへの上場第](../Page/NEO_\(証券市場\).md "wikilink")1号企業である。
 
 ## 沿革
 
   - [2001年](../Page/2001年.md "wikilink")（平成13年）5月 **株式会社ユビキタス**設立。
   - 2001年（平成13年）11月「Ubiquitous TCP/IP」の開発に成功
-  - [2003年](../Page/2003年.md "wikilink")（平成15年）5月 株式会社[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink") デジタルメディアネットワーク社との間でソフトウェア使用許諾契約を締結。「Ubiquitous TCP/IP」がセキュリティ用Webカメラに採用される。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）5月 株式会社[東芝](../Page/東芝.md "wikilink") デジタルメディアネットワーク社との間でソフトウェア使用許諾契約を締結。「Ubiquitous TCP/IP」がセキュリティ用Webカメラに採用される。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）3月 株式会社[ルネサステクノロジ](https://ja.wikipedia.org/wiki/ルネサステクノロジ "wikilink")（現：[ルネサス エレクトロニクス株式会社](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")）との間で「Ubiquitous TCP/IP」、「Ubiquitous Media　Connect」、「Ubiquitous Rendezvous」に関する包括使用許諾契約を締結。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）8月 [任天堂](../Page/任天堂.md "wikilink")株式会社との間でソフトウェア使用許諾契約を締結。「Ubiquitous TCP/IP」と「Ubiquitous SSL」を基に開発された通信プロトコルスタックが、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用の通信ライブラリに採用される。
-  - [2007年](../Page/2007年.md "wikilink")（平成19年）4月 [富士ソフト](https://ja.wikipedia.org/wiki/富士ソフト "wikilink")株式会社との間で、デジタル家電のネットワーク対応ソリューションで協業することを合意。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）8月 [任天堂](../Page/任天堂.md "wikilink")株式会社との間でソフトウェア使用許諾契約を締結。「Ubiquitous TCP/IP」と「Ubiquitous SSL」を基に開発された通信プロトコルスタックが、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用の通信ライブラリに採用される。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）4月 [富士ソフト](../Page/富士ソフト.md "wikilink")株式会社との間で、デジタル家電のネットワーク対応ソリューションで協業することを合意。
   - 2007年（平成19年）4月 松下電器産業株式会社 半導体社（現：[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")株式会社 デバイス社）との間で、USB関連ソフトウェアの使用許諾契約を締結。
   - 2007年（平成19年）5月 NECエレクトロニクス株式会社（現：ルネサス エレクトロニクス株式会社）との間で、ネットワーク関連SDK使用許諾契約を締結。
   - 2007年（平成19年）11月 ジャスダック証券取引所NEOに株式を上場（NEOの第一号銘柄）。

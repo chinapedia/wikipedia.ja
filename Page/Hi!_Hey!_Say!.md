@@ -1,7 +1,7 @@
 > この記事は[Hi! Hey! Say!](https://ja.wikipedia.org/wiki/Hi!_Hey!_Say!)から翻訳されています。
 
 
-『**Hi\! Hey\! Say\!**』（ハイ\! ヘイ\! セイ\!）は、[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京系列局と一部系列外局にて放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[Hey\! Say\! JUMPの薮宏太と八乙女光がメインをつとめ](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")\[1\]、2人が伯爵に扮して王様（毎回のゲスト）をもてなす企画のプレゼンバトルを行う\[2\]\[3\]。
+『**Hi\! Hey\! Say\!**』（ハイ\! ヘイ\! セイ\!）は、[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京系列局と一部系列外局にて放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[Hey\! Say\! JUMPの薮宏太と八乙女光がメインをつとめ](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")\[1\]、2人が伯爵に扮して王様（毎回のゲスト）をもてなす企画のプレゼンバトルを行う\[2\]\[3\]。
 
 ## 出演者
 
@@ -11,15 +11,15 @@
 
 :\* [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
 
-:\*\* [薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")
+:\*\* [薮宏太](../Page/薮宏太.md "wikilink")
 
-:\*\* [八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")
+:\*\* [八乙女光](../Page/八乙女光.md "wikilink")
 
   -
 
   - 進行
 
-:\* [小山慶一郎](https://ja.wikipedia.org/wiki/小山慶一郎 "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）\[4\]
+:\* [小山慶一郎](../Page/小山慶一郎.md "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）\[4\]
 
 :\* [須黒清華](../Page/須黒清華.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")アナウンサー）
 
@@ -36,8 +36,8 @@
 ### 準レギュラー
 
   - Hey\! Say\! BEST
-      - [高木雄也](https://ja.wikipedia.org/wiki/高木雄也 "wikilink")
-      - [伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink")
+      - [高木雄也](../Page/高木雄也.md "wikilink")
+      - [伊野尾慧](../Page/伊野尾慧.md "wikilink")
       - [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
 
@@ -51,21 +51,21 @@
 
   - 伯爵の家来
 
-:\* [若井おさむ](https://ja.wikipedia.org/wiki/若井おさむ "wikilink")
+:\* [若井おさむ](../Page/若井おさむ.md "wikilink")
 
 :\* [みっちー](https://ja.wikipedia.org/wiki/みっちー "wikilink")
 
-:\* [佐田正樹](https://ja.wikipedia.org/wiki/佐田正樹 "wikilink")（[バッドボーイズ](https://ja.wikipedia.org/wiki/バッドボーイズ_\(お笑いコンビ\) "wikilink")）
+:\* [佐田正樹](../Page/佐田正樹.md "wikilink")（[バッドボーイズ](../Page/バッドボーイズ_\(お笑いコンビ\).md "wikilink")）
 
-:\* [加藤歩](https://ja.wikipedia.org/wiki/加藤歩_\(お笑い芸人\) "wikilink")（[ザブングル](https://ja.wikipedia.org/wiki/ザブングル_\(お笑いコンビ\) "wikilink")）
+:\* [加藤歩](https://ja.wikipedia.org/wiki/加藤歩_\(お笑い芸人\) "wikilink")（[ザブングル](../Page/ザブングル_\(お笑いコンビ\).md "wikilink")）
 
 :\* [柳原哲也](https://ja.wikipedia.org/wiki/柳原哲也 "wikilink")（[アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")）
 
-:\* [多田健二](https://ja.wikipedia.org/wiki/多田健二 "wikilink")（[COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")）
+:\* [多田健二](https://ja.wikipedia.org/wiki/多田健二 "wikilink")（[COWCOW](../Page/COWCOW.md "wikilink")）
 
-:\* [クロちゃん](https://ja.wikipedia.org/wiki/クロちゃん_\(お笑い芸人\) "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）
+:\* [クロちゃん](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）
 
-:\* [チャンカワイ](https://ja.wikipedia.org/wiki/チャンカワイ "wikilink")（[Wエンジン](https://ja.wikipedia.org/wiki/Wエンジン "wikilink")）
+:\* [チャンカワイ](https://ja.wikipedia.org/wiki/チャンカワイ "wikilink")（[Wエンジン](../Page/Wエンジン.md "wikilink")）
 
 :\* [ビューティーこくぶ](https://ja.wikipedia.org/wiki/ビューティーこくぶ "wikilink")ほか
 
@@ -94,10 +94,10 @@
 <tr class="even">
 <td><p>11月10日</p></td>
 <td><p><a href="../Page/内山信二.md" title="wikilink">内山信二</a><br />
-<a href="https://ja.wikipedia.org/wiki/白田信幸" title="wikilink">ジャイアント白田</a></p></td>
+<a href="../Page/白田信幸.md" title="wikilink">ジャイアント白田</a></p></td>
 <td><p>Ultra Music Power</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/薮宏太" title="wikilink">薮宏太</a><br />
-<a href="https://ja.wikipedia.org/wiki/八乙女光" title="wikilink">八乙女光</a></p></td>
+<td><p><a href="../Page/薮宏太.md" title="wikilink">薮宏太</a><br />
+<a href="../Page/八乙女光.md" title="wikilink">八乙女光</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11月17日</p></td>
@@ -127,7 +127,7 @@ Ultra Music Power</p></td>
 <tr class="even">
 <td><p>12月8日</p></td>
 <td><p><a href="../Page/パパイヤ鈴木.md" title="wikilink">パパイヤ鈴木</a><br />
-<a href="https://ja.wikipedia.org/wiki/辺見えみり" title="wikilink">辺見えみり</a></p></td>
+<a href="../Page/辺見えみり.md" title="wikilink">辺見えみり</a></p></td>
 <td><p>Ultra Music Power<br />
 <a href="../Page/Ultra_Music_Power.md" title="wikilink">Star Time</a><br />
 <a href="../Page/Ultra_Music_Power.md" title="wikilink">Too Shy</a></p></td>
@@ -135,7 +135,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/彦摩呂" title="wikilink">彦摩呂</a><br />
+<td><p><a href="../Page/彦摩呂.md" title="wikilink">彦摩呂</a><br />
 <a href="https://ja.wikipedia.org/wiki/北斗晶" title="wikilink">北斗晶</a></p></td>
 <td><p>ス・リ・ル</p></td>
 <td><p>Hey! Say! BEST</p></td>
@@ -152,7 +152,7 @@ Ultra Music Power</p></td>
 <tr class="odd">
 <td><p>2008年<br />
 1月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バナナマン" title="wikilink">バナナマン</a></p></td>
+<td><p><a href="../Page/バナナマン.md" title="wikilink">バナナマン</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -164,7 +164,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/清水圭" title="wikilink">清水圭</a><br />
+<td><p><a href="../Page/清水圭.md" title="wikilink">清水圭</a><br />
 <a href="https://ja.wikipedia.org/wiki/山口もえ" title="wikilink">山口もえ</a></p></td>
 <td></td>
 <td></td>
@@ -174,18 +174,18 @@ Ultra Music Power</p></td>
 <td><p><a href="../Page/勝俣州和.md" title="wikilink">勝俣州和</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LIPS_(KAT-TUNの曲)" title="wikilink">LIPS</a></p></td>
 <td><p>Hey! Say! BEST<br />
-<a href="https://ja.wikipedia.org/wiki/上田竜也" title="wikilink">上田竜也</a><br />
-<a href="https://ja.wikipedia.org/wiki/中丸雄一" title="wikilink">中丸雄一</a></p></td>
+<a href="../Page/上田竜也.md" title="wikilink">上田竜也</a><br />
+<a href="../Page/中丸雄一.md" title="wikilink">中丸雄一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ますだおかだ" title="wikilink">ますだおかだ</a></p></td>
+<td><p><a href="../Page/ますだおかだ.md" title="wikilink">ますだおかだ</a></p></td>
 <td><p>心・技・体</p></td>
 <td><p>Hey! Say! BEST</p></td>
 </tr>
 <tr class="even">
 <td><p>2月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中西学" title="wikilink">中西学</a><br />
+<td><p><a href="../Page/中西学.md" title="wikilink">中西学</a><br />
 <a href="https://ja.wikipedia.org/wiki/アントキの猪木" title="wikilink">アントキの猪木</a></p></td>
 <td><p>Ultra Music Power<br />
 ス・リ・ル</p></td>
@@ -196,23 +196,23 @@ Ultra Music Power</p></td>
 <td><p>2月23日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マリエ_(モデル)" title="wikilink">マリエ</a><br />
 <a href="https://ja.wikipedia.org/wiki/光浦靖子" title="wikilink">光浦靖子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太陽のナミダ" title="wikilink">太陽のナミダ</a></p></td>
+<td><p><a href="../Page/太陽のナミダ.md" title="wikilink">太陽のナミダ</a></p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
-<a href="https://ja.wikipedia.org/wiki/小山慶一郎" title="wikilink">小山慶一郎</a><br />
+<a href="../Page/小山慶一郎.md" title="wikilink">小山慶一郎</a><br />
 <a href="https://ja.wikipedia.org/wiki/加藤成亮" title="wikilink">加藤成亮</a><br />
-<a href="https://ja.wikipedia.org/wiki/増田貴久" title="wikilink">増田貴久</a><br />
-<a href="https://ja.wikipedia.org/wiki/手越祐也" title="wikilink">手越祐也</a></p></td>
+<a href="../Page/増田貴久.md" title="wikilink">増田貴久</a><br />
+<a href="../Page/手越祐也.md" title="wikilink">手越祐也</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガッツ石松" title="wikilink">ガッツ石松</a></p></td>
+<td><p><a href="../Page/ガッツ石松.md" title="wikilink">ガッツ石松</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/八乙女光#オリジナルソロ曲" title="wikilink">炎-Flame of love-</a></p></td>
 <td><p>八乙女光</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/南海キャンディーズ" title="wikilink">南海キャンディーズ</a></p></td>
+<td><p><a href="../Page/南海キャンディーズ.md" title="wikilink">南海キャンディーズ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -236,7 +236,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柳沢慎吾" title="wikilink">柳沢慎吾</a></p></td>
+<td><p><a href="../Page/柳沢慎吾.md" title="wikilink">柳沢慎吾</a></p></td>
 <td><p>Ultra Music Power<br />
 炎-Flame of Love<br />
 Higher<br />
@@ -249,7 +249,7 @@ Rain Dance<br />
 </tr>
 <tr class="even">
 <td><p>4月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペナルティ_(お笑いコンビ)" title="wikilink">ペナルティ</a></p></td>
+<td><p><a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a></p></td>
 <td><p>Star Time</p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
@@ -280,12 +280,12 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="even">
 <td><p>5月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/よゐこ" title="wikilink">よゐこ</a></p></td>
+<td><p><a href="../Page/よゐこ.md" title="wikilink">よゐこ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DON&#39;T_U_EVER_STOP" title="wikilink">DON'T U EVER STOP</a></p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
 <a href="https://ja.wikipedia.org/wiki/田口淳之介" title="wikilink">田口淳之介</a><br />
-<a href="https://ja.wikipedia.org/wiki/上田竜也" title="wikilink">上田竜也</a></p></td>
+<a href="../Page/上田竜也.md" title="wikilink">上田竜也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5月17日</p></td>
@@ -309,7 +309,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="even">
 <td><p>6月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角田信朗" title="wikilink">角田信朗</a></p></td>
+<td><p><a href="../Page/角田信朗.md" title="wikilink">角田信朗</a></p></td>
 <td><p>BUMP UP</p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
@@ -319,7 +319,7 @@ Ultra Music Power</p></td>
 <tr class="odd">
 <td><p>6月14日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テゴマス" title="wikilink">テゴマス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイアイ傘" title="wikilink">アイアイ傘</a></p></td>
+<td><p><a href="../Page/アイアイ傘.md" title="wikilink">アイアイ傘</a></p></td>
 <td><p>テゴマス</p></td>
 </tr>
 <tr class="even">
@@ -330,7 +330,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・たっち" title="wikilink">ザ・たっち</a></p></td>
+<td><p><a href="../Page/ザ・たっち.md" title="wikilink">ザ・たっち</a></p></td>
 <td><p>FLY</p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
@@ -339,7 +339,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="even">
 <td><p>7月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ますだおかだ" title="wikilink">ますだおかだ</a></p></td>
+<td><p><a href="../Page/ますだおかだ.md" title="wikilink">ますだおかだ</a></p></td>
 <td><p>Ultra Music Power<br />
 Dreams come true</p></td>
 <td><p>薮宏太<br />
@@ -356,7 +356,7 @@ Dreams come true</p></td>
 </tr>
 <tr class="even">
 <td><p>7月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山里亮太" title="wikilink">山里亮太</a><br />
+<td><p><a href="../Page/山里亮太.md" title="wikilink">山里亮太</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Your_Seed/冒険ライダー" title="wikilink">Your Seed</a><br />
 <a href="https://ja.wikipedia.org/wiki/Your_Seed/冒険ライダー" title="wikilink">冒険ライダー</a></p></td>
@@ -370,7 +370,7 @@ Dreams come true</p></td>
 </tr>
 <tr class="even">
 <td><p>8月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/よゐこ" title="wikilink">よゐこ</a></p></td>
+<td><p><a href="../Page/よゐこ.md" title="wikilink">よゐこ</a></p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
@@ -385,13 +385,13 @@ Dreams come true</p></td>
 </tr>
 <tr class="even">
 <td><p>8月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遠藤章造" title="wikilink">遠藤章造</a>（<a href="../Page/ココリコ.md" title="wikilink">ココリコ</a>）</p></td>
+<td><p><a href="../Page/遠藤章造.md" title="wikilink">遠藤章造</a>（<a href="../Page/ココリコ.md" title="wikilink">ココリコ</a>）</p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
 <tr class="odd">
 <td><p>8月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペナルティ_(お笑いコンビ)" title="wikilink">ペナルティ</a></p></td>
+<td><p><a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a></p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
@@ -403,7 +403,7 @@ Dreams come true</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東貴博" title="wikilink">東貴博</a></p></td>
+<td><p><a href="../Page/東貴博.md" title="wikilink">東貴博</a></p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
@@ -457,7 +457,7 @@ Kis-My-Ft.2<br />
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/よゐこ" title="wikilink">よゐこ</a></p></td>
+<td><p><a href="../Page/よゐこ.md" title="wikilink">よゐこ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/真夜中のシャドーボーイ" title="wikilink">真夜中のシャドーボーイ</a><br />
 スクール革命</p></td>
 <td><p>薮宏太<br />
@@ -472,21 +472,21 @@ Kis-My-Ft.2<br />
 </tr>
 <tr class="odd">
 <td><p>11月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/髭男爵" title="wikilink">髭男爵</a></p></td>
+<td><p><a href="../Page/髭男爵.md" title="wikilink">髭男爵</a></p></td>
 <td><p>スクール革命</p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>
 </tr>
 <tr class="even">
 <td><p>11月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・オロゴン" title="wikilink">ボビー・オロゴン</a></p></td>
+<td><p><a href="../Page/ボビー・オロゴン.md" title="wikilink">ボビー・オロゴン</a></p></td>
 <td><p>スクール革命</p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/にしおかすみこ" title="wikilink">にしおかすみこ</a></p></td>
+<td><p><a href="../Page/にしおかすみこ.md" title="wikilink">にしおかすみこ</a></p></td>
 <td><p>誓いの空</p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>
@@ -507,7 +507,7 @@ Kis-My-Ft.2<br />
 </tr>
 <tr class="even">
 <td><p>12月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/はるな愛" title="wikilink">はるな愛</a></p></td>
+<td><p><a href="../Page/はるな愛.md" title="wikilink">はるな愛</a></p></td>
 <td><p>Star Time<br />
 Dreams come true<br />
 Your Seed</p></td>
@@ -522,7 +522,7 @@ Your Seed</p></td>
 </tr>
 <tr class="even">
 <td><p>12月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ますだおかだ" title="wikilink">ますだおかだ</a></p></td>
+<td><p><a href="../Page/ますだおかだ.md" title="wikilink">ますだおかだ</a></p></td>
 <td><p>-</p></td>
 <td><p><small>緊急企画 第3弾</small></p></td>
 </tr>
@@ -544,7 +544,7 @@ A.B.C.</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペナルティ_(お笑いコンビ)" title="wikilink">ペナルティ</a></p></td>
+<td><p><a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a></p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
@@ -566,7 +566,7 @@ A.B.C.</p></td>
 </tr>
 <tr class="even">
 <td><p>2月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TKO_(お笑いコンビ)" title="wikilink">TKO</a></p></td>
+<td><p><a href="../Page/TKO_(お笑いコンビ).md" title="wikilink">TKO</a></p></td>
 <td><p>HA・RU・NA・TSU・A・KI・FU・YU</p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>
@@ -595,18 +595,18 @@ A.B.C.</p></td>
 </tr>
 <tr class="even">
 <td><p>3月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロバート_(お笑いトリオ)" title="wikilink">ロバート</a></p></td>
+<td><p><a href="../Page/ロバート_(お笑いトリオ).md" title="wikilink">ロバート</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/八乙女光#オリジナルソロ曲" title="wikilink">ジェントルズ</a></p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャリズム" title="wikilink">ジャリズム</a></p></td>
+<td><p><a href="../Page/ジャリズム.md" title="wikilink">ジャリズム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RESCUE_(KAT-TUNの曲)" title="wikilink">RESCUE (KAT-TUNの曲)</a></p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
-<a href="https://ja.wikipedia.org/wiki/田中聖" title="wikilink">田中聖</a><br />
+<a href="../Page/田中聖.md" title="wikilink">田中聖</a><br />
 田中樹</p></td>
 </tr>
 <tr class="even">
@@ -633,7 +633,7 @@ A.B.C.</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペナルティ_(お笑いコンビ)" title="wikilink">ペナルティ</a></p></td>
+<td><p><a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Ya-Ya-yah#オリジナル曲" title="wikilink">ひまわりのメロディ</a></p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
@@ -657,7 +657,7 @@ Your Seed<br />
 <td><p><a href="https://ja.wikipedia.org/wiki/恋のABO" title="wikilink">恋のABO</a></p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
-<a href="https://ja.wikipedia.org/wiki/小山慶一郎" title="wikilink">小山慶一郎</a><br />
+<a href="../Page/小山慶一郎.md" title="wikilink">小山慶一郎</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -677,7 +677,7 @@ Your Seed<br />
 </tr>
 <tr class="even">
 <td><p>5月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/よゐこ" title="wikilink">よゐこ</a></p></td>
+<td><p><a href="../Page/よゐこ.md" title="wikilink">よゐこ</a></p></td>
 <td><p>GO</p></td>
 <td><p>!</p></td>
 </tr>
@@ -690,13 +690,13 @@ Your Seed<br />
 </tr>
 <tr class="even">
 <td><p>5月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林家三平_(2代目)" title="wikilink">林家三平</a></p></td>
+<td><p><a href="../Page/林家三平_(2代目).md" title="wikilink">林家三平</a></p></td>
 <td><p>-</p></td>
 <td><p>「KAT-TUN Break the Records 東京ドーム10days・京セラドーム大阪3days」のコンサート模様VTR</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラックマヨネーズ" title="wikilink">ブラックマヨネーズ</a></p></td>
+<td><p><a href="../Page/ブラックマヨネーズ.md" title="wikilink">ブラックマヨネーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/悪魔な恋/NYC" title="wikilink">悪魔な恋</a></p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
@@ -704,7 +704,7 @@ Your Seed<br />
 </tr>
 <tr class="even">
 <td><p>6月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペナルティ_(お笑いコンビ)" title="wikilink">ペナルティ</a></p></td>
+<td><p><a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a></p></td>
 <td><p>-</p></td>
 <td><p>「ジャニーズJr. 〜NEWユニット〜 大集合2009!」のコンサート模様VTR</p></td>
 </tr>
@@ -723,7 +723,7 @@ Your Seed<br />
 </tr>
 <tr class="odd">
 <td><p>7月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TKO_(お笑いコンビ)" title="wikilink">TKO</a></p></td>
+<td><p><a href="../Page/TKO_(お笑いコンビ).md" title="wikilink">TKO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Ya-Ya-yah#オリジナル曲" title="wikilink">サマー×サマー×サマー!</a></p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>
@@ -736,7 +736,7 @@ Your Seed<br />
 </tr>
 <tr class="odd">
 <td><p>7月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内藤大助" title="wikilink">内藤大助</a></p></td>
+<td><p><a href="../Page/内藤大助.md" title="wikilink">内藤大助</a></p></td>
 <td><p>Born in The EARTH<br />
 OUR FUTURE</p></td>
 <td><p>薮宏太<br />
@@ -745,7 +745,7 @@ OUR FUTURE</p></td>
 </tr>
 <tr class="even">
 <td><p>7月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東貴博" title="wikilink">東貴博</a></p></td>
+<td><p><a href="../Page/東貴博.md" title="wikilink">東貴博</a></p></td>
 <td><p>スクールデイズ</p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
@@ -775,13 +775,13 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="even">
 <td><p>8月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有吉弘行" title="wikilink">有吉弘行</a></p></td>
+<td><p><a href="../Page/有吉弘行.md" title="wikilink">有吉弘行</a></p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
 <tr class="odd">
 <td><p>8月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケンドーコバヤシ" title="wikilink">ケンドーコバヤシ</a></p></td>
+<td><p><a href="../Page/ケンドーコバヤシ.md" title="wikilink">ケンドーコバヤシ</a></p></td>
 <td><p>-</p></td>
 <td><p><small></small></p></td>
 </tr>
@@ -814,7 +814,7 @@ Ultra Music Power</p></td>
 </tbody>
 </table>
 
-※放送日はテレビ東京（関東地方エリア）においてのもの。緊急生放送スペシャルではテレビ東京のみ生放送となり、時差ネット局では[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")扱いでの録画放送となる（番組編集時に生放送された日付の断りのテロップを追加挿入している）。
+※放送日はテレビ東京（関東地方エリア）においてのもの。緊急生放送スペシャルではテレビ東京のみ生放送となり、時差ネット局では[撮って出し](../Page/撮って出し.md "wikilink")扱いでの録画放送となる（番組編集時に生放送された日付の断りのテロップを追加挿入している）。
 
 ## スタッフ
 
@@ -836,8 +836,8 @@ Ultra Music Power</p></td>
   - スタイリスト - 和田ユキヨ、戸川和枝
   - 衣裳 - 東京衣裳
   - メイク - [山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
-  - 技術協力 - [テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")、[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、山陽エイブイシー
-  - 照明・美術協力 - [テレビ東京アート](https://ja.wikipedia.org/wiki/テレビ東京アート "wikilink")、PRGアジア、東京舞台照明
+  - 技術協力 - [テクノマックス](../Page/テクノマックス.md "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、山陽エイブイシー
+  - 照明・美術協力 - [テレビ東京アート](../Page/テレビ東京アート.md "wikilink")、PRGアジア、東京舞台照明
   - 協力 - [本多芸能](../Page/本多芸能スポーツサービス.md "wikilink")
   - 編集・MA - テクノマックスビデオセンター
   - EED - 井上達生
@@ -845,8 +845,8 @@ Ultra Music Power</p></td>
   - 音効 - 篠原光（[佳夢音](https://ja.wikipedia.org/wiki/佳夢音 "wikilink")）
   - CG - 小室泰樹
   - 振り付け - SANCHE、SEIGO、TSUYOSHI、SHIN
-  - 制作協力 - [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")、ミュージックマインド、[ジャニーズファミリークラブ](https://ja.wikipedia.org/wiki/ジャニーズファミリークラブ "wikilink")
-  - リサーチ - [ビスポ](../Page/ビスポ.md "wikilink")、[ニューズクリエイト](https://ja.wikipedia.org/wiki/ニューズクリエイト "wikilink")
+  - 制作協力 - [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")、ミュージックマインド、[ジャニーズファミリークラブ](../Page/ジャニーズファミリークラブ.md "wikilink")
+  - リサーチ - [ビスポ](../Page/ビスポ.md "wikilink")、[ニューズクリエイト](../Page/ニューズクリエイト.md "wikilink")
   - 編成 - 今井豪
   - 番宣 - 大橋朋子
   - TK - 平田晃子
@@ -881,7 +881,7 @@ Ultra Music Power</p></td>
 <td><p>制作局</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p>土曜 06時30分 - 07時00分</p></td>
 <td><p>7日遅れ</p></td>
@@ -889,7 +889,7 @@ Ultra Music Power</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a></p></td>
 <td><p>火曜 07時30分 - 08時00分</p></td>
 <td><p>10日遅れ</p></td>
@@ -913,7 +913,7 @@ Ultra Music Power</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>火曜 07時30分 - 08時00分</p></td>
 <td><p>59日遅れ</p></td>
@@ -930,7 +930,7 @@ Ultra Music Power</p></td>
 2009年3月に現放送時間帯へ移動</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/奈良県" title="wikilink">奈良県</a></p></td>
+<td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/全国独立UHF放送協議会" title="wikilink">独立UHF局</a></p></td>
 <td><p>日曜 18時30分 - 19時00分</p></td>

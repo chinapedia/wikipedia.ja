@@ -1,11 +1,11 @@
 > この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
 
 
-**NTTデータ地銀共同センター**（エヌ・ティ・ティ・データちぎんきょうどうセンター）は、[2004年](../Page/2004年.md "wikilink")よりサービス提供開始した、[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")が構築・運営する主に[地方銀行](../Page/地方銀行.md "wikilink")向け[勘定系システム](https://ja.wikipedia.org/wiki/勘定系システム "wikilink")の共同利用型センター。
+**NTTデータ地銀共同センター**（エヌ・ティ・ティ・データちぎんきょうどうセンター）は、[2004年](../Page/2004年.md "wikilink")よりサービス提供開始した、[NTTデータ](../Page/NTTデータ.md "wikilink")が構築・運営する主に[地方銀行](../Page/地方銀行.md "wikilink")向け[勘定系システム](https://ja.wikipedia.org/wiki/勘定系システム "wikilink")の共同利用型センター。
 
 ## 概要
 
-対象は主に[全国地方銀行協会](https://ja.wikipedia.org/wiki/全国地方銀行協会 "wikilink")加盟行とし\[1\]、NTTデータの勘定系ソフトウェアパッケージである[BeSTA](../Page/BeSTA.md "wikilink")を日立製作所の[メインフレーム](../Page/メインフレーム.md "wikilink")で稼働させている\[2\]。
+対象は主に[全国地方銀行協会](../Page/全国地方銀行協会.md "wikilink")加盟行とし\[1\]、NTTデータの勘定系ソフトウェアパッケージである[BeSTA](../Page/BeSTA.md "wikilink")を日立製作所の[メインフレーム](../Page/メインフレーム.md "wikilink")で稼働させている\[2\]。
 
 ## 採用行
 
@@ -23,15 +23,15 @@
   - 　[四国銀行](../Page/四国銀行.md "wikilink")(2011年1月4日 稼働開始\[11\])
   - 　[足利銀行](../Page/足利銀行.md "wikilink")(2011年7月19日　稼働開始\[12\])→[めぶきフィナンシャルグループ](https://ja.wikipedia.org/wiki/めぶきフィナンシャルグループ "wikilink")として、[常陽銀行](../Page/常陽銀行.md "wikilink")が採用済みの「Chanceプロジェクト」へ2020年1月6日に移行し、NTTデータ地銀共同センターを離脱する。
   - 　[鳥取銀行](../Page/鳥取銀行.md "wikilink")(2012年5月7日 稼働開始\[13\])
-  - 　[西日本シティ銀行](https://ja.wikipedia.org/wiki/西日本シティ銀行 "wikilink")(2013年1月4日 稼働開始\[14\])
+  - 　[西日本シティ銀行](../Page/西日本シティ銀行.md "wikilink")(2013年1月4日 稼働開始\[14\])
   - 　[大分銀行](../Page/大分銀行.md "wikilink")(2013年5月7日 稼働開始\[15\]\[16\])
   - 　[山陰合同銀行](../Page/山陰合同銀行.md "wikilink")(2020年1月5日 稼働開始)
 
 ### 補遺
 
-参加行のうち、当初から参加表明していた[西日本シティ銀行](https://ja.wikipedia.org/wiki/西日本シティ銀行 "wikilink")\[17\]と、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")移行予定としていた[四国銀行](../Page/四国銀行.md "wikilink")\[18\]が、実際のリプレースが予定より長らく延期されていた\[19\]が、以後に参加表明した銀行のうち移行済みの銀行は、ほぼ予定通りに稼働開始している。
+参加行のうち、当初から参加表明していた[西日本シティ銀行](../Page/西日本シティ銀行.md "wikilink")\[17\]と、[2005年](../Page/2005年.md "wikilink")移行予定としていた[四国銀行](../Page/四国銀行.md "wikilink")\[18\]が、実際のリプレースが予定より長らく延期されていた\[19\]が、以後に参加表明した銀行のうち移行済みの銀行は、ほぼ予定通りに稼働開始している。
 
-なお、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月6日](../Page/5月6日.md "wikilink")に、当時の[山形しあわせ銀行](../Page/山形しあわせ銀行.md "wikilink")との共同システムを破棄して本システムにリプレースし、後に[フィデアホールディングス](https://ja.wikipedia.org/wiki/フィデアホールディングス "wikilink")傘下入りした[荘内銀行](../Page/荘内銀行.md "wikilink")は、[2012年](../Page/2012年.md "wikilink")3月30日付でBeSTAcloudへの移行に関する基本契約が締結されたため、[2014年](../Page/2014年.md "wikilink")3月17日に離脱し\[20\]、発表された[2014年](../Page/2014年.md "wikilink")5月7日時点で、稼働行が1減となり14行による稼働となった。また、[北海道銀行](../Page/北海道銀行.md "wikilink")も、当時稼働させていた富士通メインフレームの独自システムからリプレース検討を表明していたが、[北陸銀行](../Page/北陸銀行.md "wikilink")との経営統合、さらに[横浜銀行](../Page/横浜銀行.md "wikilink")と[ほくほくFG](https://ja.wikipedia.org/wiki/ほくほくFG "wikilink")との勘定系システム共同化を画策したため、別途、NTTデータが、富士通メインフレームによる「3行共同利用システム（MEJAR）」を構築し、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")よりそちらにリプレースしているため、道銀は基本契約には至らず、最終的に当システムで稼働することはなかった\[21\]\[22\]\[23\]。
+なお、[2006年](../Page/2006年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")に、当時の[山形しあわせ銀行](../Page/山形しあわせ銀行.md "wikilink")との共同システムを破棄して本システムにリプレースし、後に[フィデアホールディングス](https://ja.wikipedia.org/wiki/フィデアホールディングス "wikilink")傘下入りした[荘内銀行](../Page/荘内銀行.md "wikilink")は、[2012年](../Page/2012年.md "wikilink")3月30日付でBeSTAcloudへの移行に関する基本契約が締結されたため、[2014年](../Page/2014年.md "wikilink")3月17日に離脱し\[20\]、発表された[2014年](../Page/2014年.md "wikilink")5月7日時点で、稼働行が1減となり14行による稼働となった。また、[北海道銀行](../Page/北海道銀行.md "wikilink")も、当時稼働させていた富士通メインフレームの独自システムからリプレース検討を表明していたが、[北陸銀行](../Page/北陸銀行.md "wikilink")との経営統合、さらに[横浜銀行](../Page/横浜銀行.md "wikilink")と[ほくほくFG](https://ja.wikipedia.org/wiki/ほくほくFG "wikilink")との勘定系システム共同化を画策したため、別途、NTTデータが、富士通メインフレームによる「3行共同利用システム（MEJAR）」を構築し、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")よりそちらにリプレースしているため、道銀は基本契約には至らず、最終的に当システムで稼働することはなかった\[21\]\[22\]\[23\]。
 
 ## 事件
 

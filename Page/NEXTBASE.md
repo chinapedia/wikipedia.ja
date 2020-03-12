@@ -5,14 +5,14 @@
 
 ## 概要
 
-名称は(Hitachi NEXT BAnking Solution for Excellent regional banks)より。主に第二地銀向けの共同アウトソーシングサービスとして提供するバンキングソリューションである。勘定系パッケージには、[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")の勘定系パッケージである[BeSTA](../Page/BeSTA.md "wikilink")を採用し、日立製メインフレーム(VOS3)で稼働する。
+名称は(Hitachi NEXT BAnking Solution for Excellent regional banks)より。主に第二地銀向けの共同アウトソーシングサービスとして提供するバンキングソリューションである。勘定系パッケージには、[NTTデータ](../Page/NTTデータ.md "wikilink")の勘定系パッケージである[BeSTA](../Page/BeSTA.md "wikilink")を採用し、日立製メインフレーム(VOS3)で稼働する。
 
 また、勘定系以外にも外接系などの基幹系システム、別見積もりで営業店システム、更にオプションでインターネットバンキングシステム等も用意されている。
 
 ## 採用行
 
   - 稼働中
-      - [徳島銀行](../Page/徳島銀行.md "wikilink")→[徳島大正銀行](https://ja.wikipedia.org/wiki/徳島大正銀行 "wikilink")（第1行。2005年5月稼働開始\[1\]）
+      - [徳島銀行](../Page/徳島銀行.md "wikilink")→[徳島大正銀行](../Page/徳島大正銀行.md "wikilink")（第1行。2005年5月稼働開始\[1\]）
       - [香川銀行](../Page/香川銀行.md "wikilink")（第2行。2007年1月稼働開始\[2\]）
       - [北日本銀行](../Page/北日本銀行.md "wikilink")（2005年5月採用発表\[3\]。2008年1月稼働開始）
       - [トマト銀行](../Page/トマト銀行.md "wikilink")（2006年4月採用\[4\]。2009年1月5日稼働開始）
@@ -31,7 +31,7 @@
 2016年5月6日現在は無し。
 
   - 採用撤回
-      - [新銀行東京](https://ja.wikipedia.org/wiki/新銀行東京 "wikilink")（NTTコミュニケーションズ経由のセカンドソース供給→採用撤回）
+      - [新銀行東京](../Page/新銀行東京.md "wikilink")（NTTコミュニケーションズ経由のセカンドソース供給→採用撤回）
       - [あおぞら銀行](../Page/あおぞら銀行.md "wikilink")（→採用撤回→2016年5月2日BeSTAcloudに移行）
 
 <!-- end list -->
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   - その他
-      - [イオン銀行](https://ja.wikipedia.org/wiki/イオン銀行 "wikilink")（2007年10月稼働開始\[18\]）
+      - [イオン銀行](../Page/イオン銀行.md "wikilink")（2007年10月稼働開始\[18\]）
 
 ## 脚注
 

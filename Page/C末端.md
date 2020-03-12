@@ -13,18 +13,18 @@
 
 ### C末端標的シグナル
 
-たいていのタンパク質はN末端に標的シグナルを含んでいるが、C末端にタンパク質の仕分けのためのシグナルをもつものがある。よく知られている[小胞体残留シグナル](https://ja.wikipedia.org/wiki/小胞体残留シグナル "wikilink")は、C末端にあるアミノ酸配列-KDEL（または-HDEL）であり、これによりタンパク質は[分泌経路](https://ja.wikipedia.org/wiki/分泌経路 "wikilink")へ進むことを妨げられ[小胞体](https://ja.wikipedia.org/wiki/小胞体 "wikilink")に保持される。
+たいていのタンパク質はN末端に標的シグナルを含んでいるが、C末端にタンパク質の仕分けのためのシグナルをもつものがある。よく知られている[小胞体残留シグナル](https://ja.wikipedia.org/wiki/小胞体残留シグナル "wikilink")は、C末端にあるアミノ酸配列-KDEL（または-HDEL）であり、これによりタンパク質は[分泌経路](https://ja.wikipedia.org/wiki/分泌経路 "wikilink")へ進むことを妨げられ[小胞体](../Page/小胞体.md "wikilink")に保持される。
 
 ### C末端修飾
 
-タンパク質のC末端には[翻訳後修飾](https://ja.wikipedia.org/wiki/翻訳後修飾 "wikilink")が行われることがある。一般に見られるものはC末端への[脂質](../Page/脂質.md "wikilink")アンカーの付加であり、これによりタンパク質は[膜貫通ドメイン](https://ja.wikipedia.org/wiki/膜貫通ドメイン "wikilink")なしに[細胞膜](https://ja.wikipedia.org/wiki/細胞膜 "wikilink")に挿入される。
+タンパク質のC末端には[翻訳後修飾](../Page/翻訳後修飾.md "wikilink")が行われることがある。一般に見られるものはC末端への[脂質](../Page/脂質.md "wikilink")アンカーの付加であり、これによりタンパク質は[膜貫通ドメイン](https://ja.wikipedia.org/wiki/膜貫通ドメイン "wikilink")なしに[細胞膜](https://ja.wikipedia.org/wiki/細胞膜 "wikilink")に挿入される。
 
   - [プレニル化反応](https://ja.wikipedia.org/wiki/プレニル化反応 "wikilink")(Prenylation)
 
 <!-- end list -->
 
   -
-    C末端の修飾の一つにプレニル化反応がある。これは[ファルネシル](https://ja.wikipedia.org/wiki/ファルネシル二リン酸 "wikilink")（または[ゲラニルゲラニル](https://ja.wikipedia.org/wiki/ゲラニルゲラニル二リン酸 "wikilink")）イソプレノイド膜アンカーが、C末端の近くのシステイン残基に付加される。膜結合型の[Gタンパク質](https://ja.wikipedia.org/wiki/Gタンパク質 "wikilink")はたいていこの方法で修飾される。
+    C末端の修飾の一つにプレニル化反応がある。これは[ファルネシル](https://ja.wikipedia.org/wiki/ファルネシル二リン酸 "wikilink")（または[ゲラニルゲラニル](https://ja.wikipedia.org/wiki/ゲラニルゲラニル二リン酸 "wikilink")）イソプレノイド膜アンカーが、C末端の近くのシステイン残基に付加される。膜結合型の[Gタンパク質](../Page/Gタンパク質.md "wikilink")はたいていこの方法で修飾される。
 
 <!-- end list -->
 

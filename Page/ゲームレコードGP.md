@@ -1,12 +1,12 @@
 > この記事は[GP](https://ja.wikipedia.org/wiki/GP)から翻訳されています。
 
 
-**ゲームレコードGP**（ゲームレコードグランプリ）は、[2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")まで[MONDO TVで放送された](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。初回放送は土曜24:00 - 24:30で、隔週で新作が放送された。2011年3月以降はリピート放送が行われていた。
+**ゲームレコードGP**（ゲームレコードグランプリ）は、[2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")まで[MONDO TVで放送された](../Page/MONDO_TV.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。初回放送は土曜24:00 - 24:30で、隔週で新作が放送された。2011年3月以降はリピート放送が行われていた。
 
 ## 概要
 
   - [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")対応のゲームソフトを使用して、番組が定めた独自のルールでプレイをし、記録を競う。
-  - 女性[MC](https://ja.wikipedia.org/wiki/司会 "wikilink")（番組では「姫」と呼ばれている。以下「姫」と表記）が使用するソフト名とルールを発表。先ずMC（[玉袋筋太郎](https://ja.wikipedia.org/wiki/玉袋筋太郎 "wikilink")、まれに姫が単独で、もしくは玉袋とペアを組む事もある）が試技を行い、その記録と事前に番組スタッフが出した記録（標準記録）をあわせて発表。その後、出場者が記録を競う。
+  - 女性[MC](../Page/司会.md "wikilink")（番組では「姫」と呼ばれている。以下「姫」と表記）が使用するソフト名とルールを発表。先ずMC（[玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")、まれに姫が単独で、もしくは玉袋とペアを組む事もある）が試技を行い、その記録と事前に番組スタッフが出した記録（標準記録）をあわせて発表。その後、出場者が記録を競う。
   - 出場希望者が増えたため第3回より予選会を行い、上位記録者のみが本選に進出するシステムに変更された（同じ作品の第2回大会のとき、前回優勝者がディフェンディングチャンピオンとして予選なしで本選出場という場合はある）。予選落ちした出場者はギャラリーとして収録に参加するか、そのまま現場を離れていた。
   - 競技順は原則として、予選通過記録が下位の者からとなる。ただし、予選記録は競技順を除き本選に持ち越さない。
   - 1度でもダメージを受けたり、ミスをすると即失格というルールが多く、チャンスは1度だけなので泣きの1回は認められない。
@@ -38,13 +38,13 @@
 
   - [あどばるーん](https://ja.wikipedia.org/wiki/あどばるーん "wikilink")（新山大、小野ますのぶ）
   - [いけがみこう太](https://ja.wikipedia.org/wiki/いけがみこう太 "wikilink")
-  - [いちご姫](https://ja.wikipedia.org/wiki/いちご姫 "wikilink")
+  - [いちご姫](../Page/いちご姫.md "wikilink")
 
 <!-- end list -->
 
   -
     プレイは上手いが、未だ1位になったことはなく「無冠の女帝」と呼ばれている。
-    第26回ではプレイ中に[ファミリートレーナー](https://ja.wikipedia.org/wiki/ファミリートレーナー "wikilink")が壊れるという悲運に見舞われた。
+    第26回ではプレイ中に[ファミリートレーナー](../Page/ファミリートレーナー.md "wikilink")が壊れるという悲運に見舞われた。
 
 <!-- end list -->
 
@@ -53,11 +53,11 @@
 <!-- end list -->
 
   -
-    姫（女性MC）やいちご姫や『[アルプスの少女ハイジ](../Page/アルプスの少女ハイジ_\(アニメ\).md "wikilink")』の[クララ](https://ja.wikipedia.org/wiki/クララ "wikilink")などの扮装をし、胸に“本物”と書いた名札を付けて出演することがあった。
+    姫（女性MC）やいちご姫や『[アルプスの少女ハイジ](../Page/アルプスの少女ハイジ_\(アニメ\).md "wikilink")』の[クララ](../Page/クララ.md "wikilink")などの扮装をし、胸に“本物”と書いた名札を付けて出演することがあった。
 
 <!-- end list -->
 
-  - [江戸むらさき](https://ja.wikipedia.org/wiki/江戸むらさき_\(お笑いコンビ\) "wikilink")（野村浩二、磯山良司）
+  - [江戸むらさき](../Page/江戸むらさき_\(お笑いコンビ\).md "wikilink")（野村浩二、磯山良司）
 
 <!-- end list -->
 
@@ -70,12 +70,12 @@
   - [カイキマン](https://ja.wikipedia.org/wiki/カイキマン "wikilink")
   - [かげべんけい](https://ja.wikipedia.org/wiki/かげべんけい "wikilink")（林一郎、胃の丸、梶原数利）
   - [兼島ダンシング](https://ja.wikipedia.org/wiki/兼島ダンシング "wikilink")
-  - [亀子のぶお](https://ja.wikipedia.org/wiki/亀子のぶお "wikilink")
+  - [亀子のぶお](../Page/亀子のぶお.md "wikilink")
   - [カモメ](https://ja.wikipedia.org/wiki/カモメ_\(お笑い芸人\) "wikilink")
   - [ガリベンズ](https://ja.wikipedia.org/wiki/ガリベンズ "wikilink")（矢野正樹、新藤充）
   - [ガルウィング](https://ja.wikipedia.org/wiki/ガルウィング_\(お笑いコンビ\) "wikilink")（鈴木俊之、柴田嘉孝）
-  - [ガンバレイ・シウバ](https://ja.wikipedia.org/wiki/ダブルネーム "wikilink")
-  - [きくりん](https://ja.wikipedia.org/wiki/きくりん "wikilink")
+  - [ガンバレイ・シウバ](../Page/ダブルネーム.md "wikilink")
+  - [きくりん](../Page/きくりん.md "wikilink")
   - [グラップラーたかし](https://ja.wikipedia.org/wiki/Gたかし "wikilink")
   - [グレゴリオ](https://ja.wikipedia.org/wiki/グレゴリオ "wikilink")（幸内渉、宮田裕仁）
   - [コジャ](https://ja.wikipedia.org/wiki/コジャ "wikilink")
@@ -88,7 +88,7 @@
 
 <!-- end list -->
 
-  - [サードメン](https://ja.wikipedia.org/wiki/サードメン "wikilink")・高橋
+  - [サードメン](../Page/サードメン.md "wikilink")・高橋
   - ザクマシンガン（山田祐樹、石川勇樹）
   - [さくらんぼブービー](../Page/さくらんぼブービー.md "wikilink")（[鍛治輝光](https://ja.wikipedia.org/wiki/カジ_\(お笑い芸人\) "wikilink")、木村圭太）
   - [さとうゆきお](https://ja.wikipedia.org/wiki/さとうゆきお "wikilink")
@@ -115,18 +115,18 @@
 <!-- end list -->
 
   - [てっぷん](https://ja.wikipedia.org/wiki/てっぷん "wikilink")（仲尾雅則、佐藤一仁）
-  - [トップリード](https://ja.wikipedia.org/wiki/トップリード "wikilink")（和賀勇介、新妻悠太）
+  - [トップリード](../Page/トップリード.md "wikilink")（和賀勇介、新妻悠太）
   - [どてちんレンジャー](https://ja.wikipedia.org/wiki/どてちんレンジャー "wikilink")（野崎修三郎、[岩原弘幸](https://ja.wikipedia.org/wiki/岩原弘幸 "wikilink")）
 
 <!-- end list -->
 
   -
-    岩原は、[橋下徹](https://ja.wikipedia.org/wiki/橋下徹 "wikilink")などの[モノマネをしながらプレイすることがあった](../Page/物真似.md "wikilink")。
+    岩原は、[橋下徹](../Page/橋下徹.md "wikilink")などの[モノマネをしながらプレイすることがあった](../Page/物真似.md "wikilink")。
 
 <!-- end list -->
 
   - [なげやりランチ](https://ja.wikipedia.org/wiki/なげやりランチ "wikilink")（伊藤、黒田）
-  - [成田童夢](https://ja.wikipedia.org/wiki/成田童夢 "wikilink")
+  - [成田童夢](../Page/成田童夢.md "wikilink")
   - [南京錠](https://ja.wikipedia.org/wiki/南京錠_\(お笑いコンビ\) "wikilink")（増本宇紀、藤原大輔）
   - [NOモーション](https://ja.wikipedia.org/wiki/NOモーション "wikilink")（矢野ともゆき、タイガーこてつ）
   - [爆弾低気圧](https://ja.wikipedia.org/wiki/爆弾低気圧_\(お笑いコンビ\) "wikilink")（ささぼー、ベイダー）
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - [Hi-Hi](https://ja.wikipedia.org/wiki/Hi-Hi "wikilink")（上田浩二郎、岩崎一則）
+  - [Hi-Hi](../Page/Hi-Hi.md "wikilink")（上田浩二郎、岩崎一則）
 
 <!-- end list -->
 
@@ -150,14 +150,14 @@
 
   - [橋本みのり](https://ja.wikipedia.org/wiki/橋本みのり "wikilink")
   - [ハドソン杉田](https://ja.wikipedia.org/wiki/ジャイアント小馬場 "wikilink")（スギタヒロシ）
-  - [ハマカーン](https://ja.wikipedia.org/wiki/ハマカーン "wikilink")（浜谷健司、神田伸一郎）
+  - [ハマカーン](../Page/ハマカーン.md "wikilink")（浜谷健司、神田伸一郎）
   - [ハリウッドザコシショウ](../Page/ハリウッドザコシショウ.md "wikilink")
-  - [ビックスモールン](https://ja.wikipedia.org/wiki/ビックスモールン "wikilink")（ゴン、チロ）
-  - [ヒデヨシ](https://ja.wikipedia.org/wiki/ヒデヨシ_\(お笑い\) "wikilink")（ゆうき、岡本知己）
+  - [ビックスモールン](../Page/ビックスモールン.md "wikilink")（ゴン、チロ）
+  - [ヒデヨシ](../Page/ヒデヨシ_\(お笑い\).md "wikilink")（ゆうき、岡本知己）
   - [鵯来留夫](https://ja.wikipedia.org/wiki/鵯来留夫 "wikilink")
   - [ぴょんぴょん](https://ja.wikipedia.org/wiki/☆ぴょんぴょん☆ "wikilink")
   - [平川らいあん](https://ja.wikipedia.org/wiki/平川らいあん "wikilink")
-  - [風藤松原](https://ja.wikipedia.org/wiki/風藤松原 "wikilink")（風藤康二、松原義和）
+  - [風藤松原](../Page/風藤松原.md "wikilink")（風藤康二、松原義和）
   - [フジタ](https://ja.wikipedia.org/wiki/フジタ_\(お笑い芸人\) "wikilink")
 
 <!-- end list -->
@@ -167,18 +167,18 @@
 
 <!-- end list -->
 
-  - [ブラックパイナーSOS](https://ja.wikipedia.org/wiki/ブラックパイナーSOS "wikilink")（山野拓也、内藤正樹）
-  - [HEY\!たくちゃん](https://ja.wikipedia.org/wiki/HEY!たくちゃん "wikilink")
+  - [ブラックパイナーSOS](../Page/ブラックパイナーSOS.md "wikilink")（山野拓也、内藤正樹）
+  - [HEY\!たくちゃん](../Page/HEY!たくちゃん.md "wikilink")
 
 <!-- end list -->
 
   -
-    [佐野実](https://ja.wikipedia.org/wiki/佐野実 "wikilink")や[亀田興毅](https://ja.wikipedia.org/wiki/亀田興毅 "wikilink")などのモノマネをしながらプレイすることがある。
+    [佐野実](../Page/佐野実.md "wikilink")や[亀田興毅](../Page/亀田興毅.md "wikilink")などのモノマネをしながらプレイすることがある。
 
 <!-- end list -->
 
   - ペイパービュウ（三平×2、[見た目が邦彦](https://ja.wikipedia.org/wiki/見た目が邦彦 "wikilink")）
-  - [ぺよん潤](https://ja.wikipedia.org/wiki/増井歩 "wikilink")
+  - [ぺよん潤](../Page/増井歩.md "wikilink")
   - [ぽ〜くちょっぷ](https://ja.wikipedia.org/wiki/ぽ〜くちょっぷ "wikilink")（篠木正啓、関仁彦）
 
 <!-- end list -->
@@ -190,11 +190,11 @@
 
   - [ホーザン](https://ja.wikipedia.org/wiki/ホーザン_\(お笑い芸人\) "wikilink")
   - [魔族](https://ja.wikipedia.org/wiki/魔族_\(お笑いコンビ\) "wikilink")（サド山エス、マゾ田エム）
-  - [ムートン](https://ja.wikipedia.org/wiki/ムートン_\(お笑い\) "wikilink")（島田浩史、伊藤俊一）
+  - [ムートン](../Page/ムートン_\(お笑い\).md "wikilink")（島田浩史、伊藤俊一）
   - 村田（一般参加者）
-  - [ゆみみ](https://ja.wikipedia.org/wiki/ゆみみ_\(お笑い芸人\) "wikilink")
+  - [ゆみみ](../Page/ゆみみ_\(お笑い芸人\).md "wikilink")
   - りったん（一般参加者）
-  - [ヴィンテージ](https://ja.wikipedia.org/wiki/ヴィンテージ_\(お笑いコンビ\) "wikilink")（しゅん、のぶ）
+  - [ヴィンテージ](../Page/ヴィンテージ_\(お笑いコンビ\).md "wikilink")（しゅん、のぶ）
 
 ## 過去の放送内容
 
@@ -225,13 +225,13 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイスクライマー" title="wikilink">アイスクライマー</a></p></td>
+<td><p><a href="../Page/アイスクライマー.md" title="wikilink">アイスクライマー</a></p></td>
 <td><p>ステージ1 タイムトライアル</p></td>
 <td><p>のぶ（ヴィンテージ）</p></td>
 <td><p>43秒90</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ベースボール_(ファミコン)" title="wikilink">ベースボール</a></p></td>
+<td><p><a href="../Page/ベースボール_(ファミコン).md" title="wikilink">ベースボール</a></p></td>
 <td><p>1回の表 最多得点勝負</p></td>
 <td><p>柴田（ガルウィング）</p></td>
 <td><p>4点</p></td>
@@ -253,7 +253,7 @@
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/頭脳戦艦ガル" title="wikilink">頭脳戦艦ガル</a></p></td>
+<td><p><a href="../Page/頭脳戦艦ガル.md" title="wikilink">頭脳戦艦ガル</a></p></td>
 <td><p>敵を倒すなフルマラソン</p></td>
 <td><p>胃の丸（かげべんけい）</p></td>
 <td><p>1分45秒11</p></td>
@@ -301,7 +301,7 @@
 <td><p>30秒19</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/マッピー" title="wikilink">マッピー</a></p></td>
+<td><p><a href="../Page/マッピー.md" title="wikilink">マッピー</a></p></td>
 <td><p>ステージ1 タイムトライアル</p></td>
 <td><p>村田（一般参加者）</p></td>
 <td><p>21秒86</p></td>
@@ -315,7 +315,7 @@
 <td><p>21秒15（記録更新）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/イー・アル・カンフー" title="wikilink">イー・アル・カンフー</a></p></td>
+<td><p><a href="../Page/イー・アル・カンフー.md" title="wikilink">イー・アル・カンフー</a></p></td>
 <td><p>ジャンプ&amp;キック禁止 ステージ1 タイムトライアル</p></td>
 <td><p>内藤（ブラックパイナーSOS）</p></td>
 <td><p>12秒53</p></td>
@@ -329,7 +329,7 @@
 <td><p>2周目の1階の5の4本目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/戦場の狼" title="wikilink">戦場の狼</a></p></td>
+<td><p><a href="../Page/戦場の狼.md" title="wikilink">戦場の狼</a></p></td>
 <td><p>手榴弾のみ使用可 目指すは橋 タイムトライアル</p></td>
 <td><p>藤原（南京錠）</p></td>
 <td><p>33秒67</p></td>
@@ -343,7 +343,7 @@
 <td><p>1分16秒93</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/忍者じゃじゃ丸くん" title="wikilink">忍者じゃじゃ丸くん</a></p></td>
+<td><p><a href="../Page/忍者じゃじゃ丸くん.md" title="wikilink">忍者じゃじゃ丸くん</a></p></td>
 <td><p>ステージ1 タイムトライアル</p></td>
 <td><p>野崎（どてちんレンジャー）</p></td>
 <td><p>16秒40</p></td>
@@ -351,13 +351,13 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サッカー_(任天堂)" title="wikilink">サッカー</a></p></td>
+<td><p><a href="../Page/サッカー_(任天堂).md" title="wikilink">サッカー</a></p></td>
 <td><p>最速得点タイムトライアル</p></td>
 <td><p>北村（弾丸ビーンズ）</p></td>
 <td><p>9秒37</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドンキーコングJR." title="wikilink">ドンキーコングJR.</a></p></td>
+<td><p><a href="../Page/ドンキーコングJR..md" title="wikilink">ドンキーコングJR.</a></p></td>
 <td><p>ステージ1 GAME-B タイムトライアル</p></td>
 <td><p>三平×2（ペイパービュウ）</p></td>
 <td><p>16秒37</p></td>
@@ -365,7 +365,7 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バルーンファイト" title="wikilink">バルーンファイト</a></p></td>
+<td><p><a href="../Page/バルーンファイト.md" title="wikilink">バルーンファイト</a></p></td>
 <td><p>風船を取りこぼすな バルーントリップ フルマラソン</p></td>
 <td><p>野崎（どてちんレンジャー）</p></td>
 <td><p>2分58秒84</p></td>
@@ -380,13 +380,13 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クルクルランド" title="wikilink">クルクルランド</a></p></td>
+<td><p><a href="../Page/クルクルランド.md" title="wikilink">クルクルランド</a></p></td>
 <td><p>金塊28 ステージ1 タイムトライアル</p></td>
 <td><p>岩原（どてちんレンジャー）</p></td>
 <td><p>20秒15</p></td>
 </tr>
 <tr class="even">
-<td><p>芸人「<a href="https://ja.wikipedia.org/wiki/こまつ" title="wikilink">こまつ</a>」がゲームサウンドの数々を披露</p></td>
+<td><p>芸人「<a href="../Page/こまつ.md" title="wikilink">こまつ</a>」がゲームサウンドの数々を披露</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -408,13 +408,13 @@
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熱血高校ドッジボール部" title="wikilink">熱血高校ドッジボール部</a></p></td>
+<td><p><a href="../Page/熱血高校ドッジボール部.md" title="wikilink">熱血高校ドッジボール部</a></p></td>
 <td><p>“りき”を倒せ タイムトライアル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>20秒45</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/デビルワールド" title="wikilink">デビルワールド</a></p></td>
+<td><p><a href="../Page/デビルワールド.md" title="wikilink">デビルワールド</a></p></td>
 <td><p>ダブルでステージ1 タイムトライアル</p></td>
 <td><p>阿見（デコボコ団）&amp;平川らいあん</p></td>
 <td><p>30秒63</p></td>
@@ -456,7 +456,7 @@
 <td><p>52秒57</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クレイジー・クライマー" title="wikilink">クレイジー・クライマー</a></p></td>
+<td><p><a href="../Page/クレイジー・クライマー.md" title="wikilink">クレイジー・クライマー</a></p></td>
 <td><p>ダブルス 鳥出現タイムトライアル</p></td>
 <td><p>きくりん&amp;坪井（ハイエナ）</p></td>
 <td><p>21秒55</p></td>
@@ -478,13 +478,13 @@
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メトロクロス" title="wikilink">メトロクロス</a></p></td>
+<td><p><a href="../Page/メトロクロス.md" title="wikilink">メトロクロス</a></p></td>
 <td><p>缶に触るな! ステージ1 タイムトライアル</p></td>
 <td><p>矢野（ガリベンズ）</p></td>
 <td><p>34秒22</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ディグダグ" title="wikilink">ディグダグ</a></p></td>
+<td><p><a href="../Page/ディグダグ.md" title="wikilink">ディグダグ</a></p></td>
 <td><p>ステージ1 タイムトライアル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>10秒00</p></td>
@@ -492,7 +492,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロックマン_(ゲーム)" title="wikilink">ロックマン</a></p></td>
+<td><p><a href="../Page/ロックマン_(ゲーム).md" title="wikilink">ロックマン</a></p></td>
 <td><p>カットマンステージ 無傷でクリア タイムトライアル</p></td>
 <td><p>ホーザン（大車輪）</p></td>
 <td><p>2分26秒46</p></td>
@@ -506,7 +506,7 @@
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シティコネクション_(ゲーム)" title="wikilink">シティコネクション</a></p></td>
+<td><p><a href="../Page/シティコネクション_(ゲーム).md" title="wikilink">シティコネクション</a></p></td>
 <td><p>1面クリア最短距離バトル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>399m</p></td>
@@ -520,7 +520,7 @@
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイスクライマー" title="wikilink">アイスクライマー</a></p></td>
+<td><p><a href="../Page/アイスクライマー.md" title="wikilink">アイスクライマー</a></p></td>
 <td><p>ステージ32 タイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>25秒16</p></td>
@@ -540,7 +540,7 @@
 <td><p>28秒27</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロックマン2_Dr.ワイリーの謎" title="wikilink">ロックマン2 Dr.ワイリーの謎</a></p></td>
+<td><p><a href="../Page/ロックマン2_Dr.ワイリーの謎.md" title="wikilink">ロックマン2 Dr.ワイリーの謎</a></p></td>
 <td><p>メタルマンステージ 無傷でタイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>2分26秒56</p></td>
@@ -590,7 +590,7 @@
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/忍者龍剣伝" title="wikilink">忍者龍剣伝</a></p></td>
+<td><p><a href="../Page/忍者龍剣伝.md" title="wikilink">忍者龍剣伝</a></p></td>
 <td><p>ノーダメージ ステージ1 タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>49秒49</p></td>
@@ -611,13 +611,13 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペースハリアー" title="wikilink">スペースハリアー</a></p></td>
+<td><p><a href="../Page/スペースハリアー.md" title="wikilink">スペースハリアー</a></p></td>
 <td><p>ノーダメージ ステージ1 最高得点バトル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>483,310点</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テニス_(任天堂)" title="wikilink">テニス</a></p></td>
+<td><p><a href="../Page/テニス_(任天堂).md" title="wikilink">テニス</a></p></td>
 <td><p>ダブルス LEVEL5 ラリーマラソン</p></td>
 <td><p>きくりん&amp;坪井（ハイエナ）</p></td>
 <td><p>86回</p></td>
@@ -625,7 +625,7 @@
 </tr>
 <tr class="even">
 <td><p>31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プーヤン" title="wikilink">プーヤン</a></p></td>
+<td><p><a href="../Page/プーヤン.md" title="wikilink">プーヤン</a></p></td>
 <td><p>ムダ撃ち禁止 オオカミ撃退バトル</p></td>
 <td><p>フジタ</p></td>
 <td><p>94匹</p></td>
@@ -645,7 +645,7 @@
 <td><p>26秒49</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパーゼビウス_ガンプの謎" title="wikilink">スーパーゼビウス ガンプの謎</a></p></td>
+<td><p><a href="../Page/スーパーゼビウス_ガンプの謎.md" title="wikilink">スーパーゼビウス ガンプの謎</a></p></td>
 <td><p>エリア3 最高得点バトル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>70,090点</p></td>
@@ -653,7 +653,7 @@
 </tr>
 <tr class="even">
 <td><p>33</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドンキーコング3" title="wikilink">ドンキーコング3</a></p></td>
+<td><p><a href="../Page/ドンキーコング3.md" title="wikilink">ドンキーコング3</a></p></td>
 <td><p>ステージ1 GAME-B タイムトライアル</p></td>
 <td><p>岩崎（Hi-Hi）</p></td>
 <td><p>13秒74</p></td>
@@ -701,7 +701,7 @@
 <td><p>332,700点</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロードファイター" title="wikilink">ロードファイター</a></p></td>
+<td><p><a href="../Page/ロードファイター.md" title="wikilink">ロードファイター</a></p></td>
 <td><p>LEVEL2 事故禁止 タイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>58秒69</p></td>
@@ -709,7 +709,7 @@
 </tr>
 <tr class="even">
 <td><p>37</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ちゃっくんぽっぷ" title="wikilink">ちゃっくんぽっぷ</a></p></td>
+<td><p><a href="../Page/ちゃっくんぽっぷ.md" title="wikilink">ちゃっくんぽっぷ</a></p></td>
 <td><p>敵を1匹倒せ ステージ1 タイムトライアル</p></td>
 <td><p>カイキマン</p></td>
 <td><p>23秒51</p></td>
@@ -744,7 +744,7 @@
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スターフォース" title="wikilink">スターフォース</a></p></td>
+<td><p><a href="../Page/スターフォース.md" title="wikilink">スターフォース</a></p></td>
 <td><p>ステージ1 ハイスコアバトル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>130,100点</p></td>
@@ -759,9 +759,9 @@
 <tr class="odd">
 <td><p>41</p></td>
 <td><p>第1回 ゲームトライアスロン</p></td>
-<td><p>第1種目 『<a href="https://ja.wikipedia.org/wiki/ドンキーコングJR.の算数遊び" title="wikilink">ドンキーコングJR.の算数遊び</a>』 ステージ1 クリア<br />
-第2種目 『<a href="https://ja.wikipedia.org/wiki/ピンボール_(任天堂)" title="wikilink">ピンボール</a>』 10,000点 突破<br />
-第3種目 『<a href="https://ja.wikipedia.org/wiki/ゴルフ_(任天堂)" title="wikilink">ゴルフ</a>』 1番ホール カップイン<br />
+<td><p>第1種目 『<a href="../Page/ドンキーコングJR.の算数遊び.md" title="wikilink">ドンキーコングJR.の算数遊び</a>』 ステージ1 クリア<br />
+第2種目 『<a href="../Page/ピンボール_(任天堂).md" title="wikilink">ピンボール</a>』 10,000点 突破<br />
+第3種目 『<a href="../Page/ゴルフ_(任天堂).md" title="wikilink">ゴルフ</a>』 1番ホール カップイン<br />
 以上、3ゲームクリアまでのタイムトライアル</p></td>
 <td><p>坪井（ハイエナ）</p></td>
 <td><p>1分13秒46</p></td>
@@ -799,7 +799,7 @@
 <td><p>第2回 ゲームトライアスロン</p></td>
 <td><p>第1種目 『<a href="../Page/上海_(ゲーム).md" title="wikilink">上海</a>』 8ペア消去<br />
 第2種目 『バルーンファイト』 ステージ1 クリア<br />
-第3種目 『<a href="https://ja.wikipedia.org/wiki/つっぱり大相撲" title="wikilink">つっぱり大相撲</a>』 白星をあげる<br />
+第3種目 『<a href="../Page/つっぱり大相撲.md" title="wikilink">つっぱり大相撲</a>』 白星をあげる<br />
 以上、3ゲームクリアまでのタイムトライアル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>1分1秒46</p></td>
@@ -812,7 +812,7 @@
 <td><p>42秒10</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/バトルシティー" title="wikilink">バトルシティー</a></p></td>
+<td><p><a href="../Page/バトルシティー.md" title="wikilink">バトルシティー</a></p></td>
 <td><p>ダブルス ステージ34 タイムトライアル</p></td>
 <td><p>Theかれー王&amp;フジタ</p></td>
 <td><p>18秒41</p></td>
@@ -820,7 +820,7 @@
 </tr>
 <tr class="odd">
 <td><p>46</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熱血硬派くにおくん" title="wikilink">熱血硬派くにおくん</a></p></td>
+<td><p><a href="../Page/熱血硬派くにおくん.md" title="wikilink">熱血硬派くにおくん</a></p></td>
 <td><p>電車に乗るまで タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>19秒38</p></td>
@@ -834,13 +834,13 @@
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/忍者龍剣伝" title="wikilink">忍者龍剣伝 暗黒邪神剣</a>II</p></td>
+<td><p><a href="../Page/忍者龍剣伝.md" title="wikilink">忍者龍剣伝 暗黒邪神剣</a>II</p></td>
 <td><p>ステージ1 無傷でタイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>57秒71</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/スカイキッド" title="wikilink">スカイキッド</a></p></td>
+<td><p><a href="../Page/スカイキッド.md" title="wikilink">スカイキッド</a></p></td>
 <td><p>ダブルス ハイスコアバトル</p></td>
 <td><p>Theかれー王&amp;フジタ</p></td>
 <td><p>76,480点</p></td>
@@ -848,7 +848,7 @@
 </tr>
 <tr class="odd">
 <td><p>48</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジッピーレース" title="wikilink">ジッピーレース</a></p></td>
+<td><p><a href="../Page/ジッピーレース.md" title="wikilink">ジッピーレース</a></p></td>
 <td><p>ロスからラスベガス 事故禁止 タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>1分23秒18</p></td>
@@ -904,7 +904,7 @@
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィールドコンバット" title="wikilink">フィールドコンバット</a></p></td>
+<td><p><a href="../Page/フィールドコンバット.md" title="wikilink">フィールドコンバット</a></p></td>
 <td><p>ステージ1 無傷でタイムトライアル</p></td>
 <td><p>坪井（ハイエナ）</p></td>
 <td><p>15秒36</p></td>
@@ -918,7 +918,7 @@
 </tr>
 <tr class="odd">
 <td><p>54</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/影の伝説" title="wikilink">影の伝説</a></p></td>
+<td><p><a href="../Page/影の伝説.md" title="wikilink">影の伝説</a></p></td>
 <td><p>ステージ1 無傷でタイムトライアル</p></td>
 <td><p>Theかれー王</p></td>
 <td><p>49秒06</p></td>
@@ -934,15 +934,15 @@
 <td><p>55</p></td>
 <td><p>第3回 ゲームトライアスロン</p></td>
 <td><p>第1種目 『ディグダグ』 ステージ1 クリア<br />
-第2種目 『<a href="https://ja.wikipedia.org/wiki/エレベーターアクション" title="wikilink">エレベーターアクション</a>』 2,000点突破<br />
-第3種目 『<a href="https://ja.wikipedia.org/wiki/ナッツ&amp;ミルク" title="wikilink">ナッツ&amp;ミルク</a>』 ステージ1 クリア<br />
+第2種目 『<a href="../Page/エレベーターアクション.md" title="wikilink">エレベーターアクション</a>』 2,000点突破<br />
+第3種目 『<a href="../Page/ナッツ&amp;ミルク.md" title="wikilink">ナッツ&amp;ミルク</a>』 ステージ1 クリア<br />
 以上、3ゲームクリアまでのタイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>1分15秒78</p></td>
 </tr>
 <tr class="even">
 <td><p>56</p></td>
-<td><p>幻の<a href="https://ja.wikipedia.org/wiki/ファミリージョッキー" title="wikilink">ファミリージョッキー</a>対決（グランドチャンピオン大会で行われなかった対決が、あったとしたらどうなっていたか新藤と野崎が勝負）<br />
+<td><p>幻の<a href="../Page/ファミリージョッキー.md" title="wikilink">ファミリージョッキー</a>対決（グランドチャンピオン大会で行われなかった対決が、あったとしたらどうなっていたか新藤と野崎が勝負）<br />
 フジタの本音（不調にあえぐフジタが、その状況をどう思うのか本音を隠し撮りで聞き出す）</p></td>
 <td></td>
 <td></td>
@@ -977,7 +977,7 @@
 <td><p>94,900点</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カイの冒険" title="wikilink">カイの冒険</a></p></td>
+<td><p><a href="../Page/カイの冒険.md" title="wikilink">カイの冒険</a></p></td>
 <td><p>5階制覇 タイムトライアル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>1分18秒62</p></td>
@@ -1005,7 +1005,7 @@
 <td><p>17秒86</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/もえろツインビー_シナモン博士を救え!" title="wikilink">もえろツインビー シナモン博士を救え!</a></p></td>
+<td><p><a href="../Page/もえろツインビー_シナモン博士を救え!.md" title="wikilink">もえろツインビー シナモン博士を救え!</a></p></td>
 <td><p>ダブルス ステージ1 ハイスコアバトル</p></td>
 <td><p>Theかれー王＆フジタ</p></td>
 <td><p>1,122,500点</p></td>
@@ -1027,7 +1027,7 @@
 </tr>
 <tr class="even">
 <td><p>62</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/悪魔城伝説" title="wikilink">悪魔城伝説</a></p></td>
+<td><p><a href="../Page/悪魔城伝説.md" title="wikilink">悪魔城伝説</a></p></td>
 <td><p>攻撃禁止 ろうそく15本タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>1分01秒73</p></td>
@@ -1055,7 +1055,7 @@
 </tr>
 <tr class="even">
 <td><p>64</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランチスの謎" title="wikilink">アトランチスの謎</a></p></td>
+<td><p><a href="../Page/アトランチスの謎.md" title="wikilink">アトランチスの謎</a></p></td>
 <td><p>ステージ3までタイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>1分16秒39</p></td>
@@ -1069,7 +1069,7 @@
 </tr>
 <tr class="even">
 <td><p>65</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘクター&#39;87" title="wikilink">ヘクター'87</a></p></td>
+<td><p><a href="../Page/ヘクター&#39;87.md" title="wikilink">ヘクター'87</a></p></td>
 <td><p>ステージ1 ハイスコアバトル</p></td>
 <td><p>達成者なし</p></td>
 <td></td>
@@ -1097,7 +1097,7 @@
 </tr>
 <tr class="even">
 <td><p>67</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パロディウスだ!_〜神話からお笑いへ〜" title="wikilink">パロディウスだ! 〜神話からお笑いへ〜</a></p></td>
+<td><p><a href="../Page/パロディウスだ!_〜神話からお笑いへ〜.md" title="wikilink">パロディウスだ! 〜神話からお笑いへ〜</a></p></td>
 <td><p>難易度MAX ステージ1 ハイスコアバトル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>78,300点</p></td>
@@ -1111,7 +1111,7 @@
 </tr>
 <tr class="even">
 <td><p>68</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャレンジャー_(ゲーム)" title="wikilink">チャレンジャー</a></p></td>
+<td><p><a href="../Page/チャレンジャー_(ゲーム).md" title="wikilink">チャレンジャー</a></p></td>
 <td><p>攻撃禁止 難易度MAX 無傷でタイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>1分17秒87</p></td>
@@ -1131,7 +1131,7 @@
 <td><p>4分46秒71</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/キン肉マン_マッスルタッグマッチ" title="wikilink">キン肉マン マッスルタッグマッチ</a></p></td>
+<td><p><a href="../Page/キン肉マン_マッスルタッグマッチ.md" title="wikilink">キン肉マン マッスルタッグマッチ</a></p></td>
 <td><p>ワンマッチ タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>15秒07</p></td>
@@ -1140,8 +1140,8 @@
 <tr class="even">
 <td><p>70</p></td>
 <td><p>第4回 ゲームトライアスロン ダブルス大会</p></td>
-<td><p>第1種目 『<a href="https://ja.wikipedia.org/wiki/ドンドコドン" title="wikilink">Don Doko Don</a>』 ステージ2までクリア<br />
-第2種目 『<a href="https://ja.wikipedia.org/wiki/クインティ" title="wikilink">クインティ</a>』 レストランステージ クリア<br />
+<td><p>第1種目 『<a href="../Page/ドンドコドン.md" title="wikilink">Don Doko Don</a>』 ステージ2までクリア<br />
+第2種目 『<a href="../Page/クインティ.md" title="wikilink">クインティ</a>』 レストランステージ クリア<br />
 第3種目 『アイスクライマー』 ステージ4ボーナス画面まで2人で登頂<br />
 以上、3ゲームクリアまでのタイムトライアル</p></td>
 <td><p>Theかれー王&amp;フジタ</p></td>
@@ -1169,7 +1169,7 @@
 <td><p>33秒45</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/がんばれゴエモン2" title="wikilink">がんばれゴエモン2</a></p></td>
+<td><p><a href="../Page/がんばれゴエモン2.md" title="wikilink">がんばれゴエモン2</a></p></td>
 <td><p>ダブルス ステージ1 タイムトライアル</p></td>
 <td><p>高橋（高橋小形）&amp;岩原（どてちんレンジャー）</p></td>
 <td><p>1分02秒88</p></td>
@@ -1177,13 +1177,13 @@
 </tr>
 <tr class="odd">
 <td><p>73</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バベルの塔_(ゲーム)" title="wikilink">バベルの塔</a></p></td>
+<td><p><a href="../Page/バベルの塔_(ゲーム).md" title="wikilink">バベルの塔</a></p></td>
 <td><p>ステージ17 タイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>39秒79</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ソンソン" title="wikilink">ソンソン</a></p></td>
+<td><p><a href="../Page/ソンソン.md" title="wikilink">ソンソン</a></p></td>
 <td><p>ダブルス ベストスコアバトル</p></td>
 <td><p>野崎（どてちんレンジャー）&amp;アキラボーイ</p></td>
 <td><p>81,170点</p></td>
@@ -1197,7 +1197,7 @@
 <td><p>29,450点</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/デビルワールド" title="wikilink">デビルワールド</a></p></td>
+<td><p><a href="../Page/デビルワールド.md" title="wikilink">デビルワールド</a></p></td>
 <td><p>2人1組 目隠しハイスコアバトル</p></td>
 <td><p>きくりん&amp;坪井（ハイエナ）</p></td>
 <td><p>13,500点</p></td>
@@ -1219,7 +1219,7 @@
 </tr>
 <tr class="odd">
 <td><p>76</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レインボーアイランド" title="wikilink">レインボーアイランド</a></p></td>
+<td><p><a href="../Page/レインボーアイランド.md" title="wikilink">レインボーアイランド</a></p></td>
 <td><p>ジャンプ禁止 ステージ1 タイムトライアル</p></td>
 <td><p>フジタ</p></td>
 <td><p>15秒12</p></td>
@@ -1233,7 +1233,7 @@
 </tr>
 <tr class="odd">
 <td><p>77</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/月風魔伝" title="wikilink">月風魔伝</a></p></td>
+<td><p><a href="../Page/月風魔伝.md" title="wikilink">月風魔伝</a></p></td>
 <td><p>攻撃禁止 ステージ1 タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>44秒24</p></td>
@@ -1249,14 +1249,14 @@
 </tr>
 <tr class="odd">
 <td><p>78</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロックマン3_Dr.ワイリーの最期!?" title="wikilink">ロックマン3 Dr.ワイリーの最期!?</a></p></td>
+<td><p><a href="../Page/ロックマン3_Dr.ワイリーの最期!?.md" title="wikilink">ロックマン3 Dr.ワイリーの最期!?</a></p></td>
 <td><p>タップマンステージ 無傷でタイムトライアル</p></td>
 <td><p>しゃーしゃーま（一般参加）</p></td>
 <td><p>1分59秒43</p></td>
 </tr>
 <tr class="even">
 <td><p>79</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/忍者くん_魔城の冒険" title="wikilink">忍者くん 魔城の冒険</a></p></td>
+<td><p><a href="../Page/忍者くん_魔城の冒険.md" title="wikilink">忍者くん 魔城の冒険</a></p></td>
 <td><p>体当たり禁止 ステージ1 タイムトライアル</p></td>
 <td><p>新藤（ガリベンズ）</p></td>
 <td><p>14秒96</p></td>
@@ -1271,7 +1271,7 @@
 <tr class="even">
 <td><p>80</p></td>
 <td><p>第5回 ゲームトライアスロン 駅伝ルール</p></td>
-<td><p>第1種目 『<a href="https://ja.wikipedia.org/wiki/サーカスチャーリー" title="wikilink">サーカスチャーリー</a>』 レベルBで全ての輪をくぐりステージ1クリア<br />
+<td><p>第1種目 『<a href="../Page/サーカスチャーリー.md" title="wikilink">サーカスチャーリー</a>』 レベルBで全ての輪をくぐりステージ1クリア<br />
 第2種目 『<a href="https://ja.wikipedia.org/wiki/スクーン" title="wikilink">スクーン</a>』 20,000点クリア<br />
 第3種目 『アルカノイド』 ステージ1クリア<br />
 3人1組で以上の3ゲームをリレー方式で1人1種目に挑戦し、クリアまでのタイムトライアル</p></td>
@@ -1289,13 +1289,13 @@
 </tr>
 <tr class="even">
 <td><p>82</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1942_(ゲーム)" title="wikilink">1942</a></p></td>
+<td><p><a href="../Page/1942_(ゲーム).md" title="wikilink">1942</a></p></td>
 <td><p>ステージ1 ハイスコアバトル</p></td>
 <td><p>岩崎（Hi-Hi）</p></td>
 <td><p>42,600点</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンバスター" title="wikilink">ドラゴンバスター</a></p></td>
+<td><p><a href="../Page/ドラゴンバスター.md" title="wikilink">ドラゴンバスター</a></p></td>
 <td><p>マップ下ステージ 無傷でタイムトライアル</p></td>
 <td><p>達成者なし</p></td>
 <td></td>
@@ -1390,7 +1390,7 @@
   - ナレーター : リーダー
   - 音響効果 : 灘智樹
   - [CAM](../Page/カメラ.md "wikilink") : 村上知弘、今尾智介
-  - [VE](https://ja.wikipedia.org/wiki/ビデオエンジニア "wikilink") : 功刀康久
+  - [VE](../Page/ビデオエンジニア.md "wikilink") : 功刀康久
   - CA : 西青木純一
   - [EED](../Page/映像編集.md "wikilink")・[MA](../Page/MA.md "wikilink") : MA NEK STUDIO、ビームテレビセンター
   - 衣装協力 : コスプレ衣装どっとこむ

@@ -1,17 +1,17 @@
 > この記事は[BOX 2 V:](https://ja.wikipedia.org/wiki/BOX_2_V:)から翻訳されています。
 
 
-『**やるきばこ2 エピソードV:やるきねこの逆襲**』は、[キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX "wikilink")より[2007年](../Page/2007年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。
-『[キャラメルBOX やるきばこ](https://ja.wikipedia.org/wiki/キャラメルBOX_やるきばこ "wikilink")』に次ぐ**キャラメルBOX**ファンディスク第2弾。
+『**やるきばこ2 エピソードV:やるきねこの逆襲**』は、[キャラメルBOX](../Page/キャラメルBOX.md "wikilink")より[2007年](../Page/2007年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。
+『[キャラメルBOX やるきばこ](../Page/キャラメルBOX_やるきばこ.md "wikilink")』に次ぐ**キャラメルBOX**ファンディスク第2弾。
 タイトルは映画『[スター･ウォーズ エピソード5 帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』のパロディである。
 (オフィシャルHPで配布された壁紙には｢YARUKIBAKO2 EPISODE V The Yarukineko Strikes Backs｣の表記がある)
 
 ## コンテンツ
 
-  - ｢[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")｣ ミニシナリオ2本
+  - ｢[処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")｣ ミニシナリオ2本
   - ｢[あえかなる世界の終わりに](https://ja.wikipedia.org/wiki/あえかなる世界の終わりに "wikilink")｣ ミニシナリオ2本
   - ｢[終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink")｣ ミニシナリオ2本+オマケ2本
-  - ｢[うつりぎ七恋天気あめ](https://ja.wikipedia.org/wiki/うつりぎ七恋天気あめ "wikilink")｣ ミニシナリオ1本
+  - ｢[うつりぎ七恋天気あめ](../Page/うつりぎ七恋天気あめ.md "wikilink")｣ ミニシナリオ1本
   - オリジナルADV ｢深紅のチョコレート｣
   - カードバトルゲーム ｢きゃらスタ\!?｣
 
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 夕月(ゆうづき) (声 : [松永雪希](https://ja.wikipedia.org/wiki/松永雪希 "wikilink")) / 魔力ランク : 不明
+  - 夕月(ゆうづき) (声 : [松永雪希](../Page/松永雪希.md "wikilink")) / 魔力ランク : 不明
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - 森崎 花凜 (もりさき かりん) (声 : [文月かな](https://ja.wikipedia.org/wiki/文月かな "wikilink")) / 魔力ランク : B
+  - 森崎 花凜 (もりさき かりん) (声 : [文月かな](../Page/文月かな.md "wikilink")) / 魔力ランク : B
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - 塚原 耀 (つかはら よう) (声 : [乃嶋架菜](https://ja.wikipedia.org/wiki/乃嶋架菜 "wikilink"))
+  - 塚原 耀 (つかはら よう) (声 : [乃嶋架菜](../Page/乃嶋架菜.md "wikilink"))
 
 <!-- end list -->
 
@@ -119,13 +119,13 @@
 
 ## その他
 
-  - 初回版にはもはや恒例となった感のある絵本が同梱されている。タイトルは「長靴をはいたネコ」で、「大きい少年少女世界名作の森」のシリーズ第2巻となっている。内容は同名の物語「[長靴をはいたネコ](../Page/長靴をはいた猫.md "wikilink")」のパロディだが、挿絵は前回（「[うな天](https://ja.wikipedia.org/wiki/うつりぎ七恋天気あめ "wikilink")」初回特典）の「ももたろう」と同様[ヨダ](../Page/ヨダ.md "wikilink")ではなく[クロサキ](https://ja.wikipedia.org/wiki/クロサキ "wikilink")が担当している。
+  - 初回版にはもはや恒例となった感のある絵本が同梱されている。タイトルは「長靴をはいたネコ」で、「大きい少年少女世界名作の森」のシリーズ第2巻となっている。内容は同名の物語「[長靴をはいたネコ](../Page/長靴をはいた猫.md "wikilink")」のパロディだが、挿絵は前回（「[うな天](../Page/うつりぎ七恋天気あめ.md "wikilink")」初回特典）の「ももたろう」と同様[ヨダ](../Page/ヨダ.md "wikilink")ではなく[クロサキ](https://ja.wikipedia.org/wiki/クロサキ "wikilink")が担当している。
   - 初回版のパッケージは従来通りの紙箱であるが、通常版のそれは「やるきばこ復刻版」同様のDVDトールケースとなっている。
   - 収録作品のうち「終末少女幻想アリスマチック」には「なかまるコマンド」によるちょっとしたオマケがある。やり方は、「アリスマ」のタイトル画面でキーボードから「nkmr」と入力する。
 
 ## 関連項目
 
-  - [キャラメルBOX やるきばこ](https://ja.wikipedia.org/wiki/キャラメルBOX_やるきばこ "wikilink")
+  - [キャラメルBOX やるきばこ](../Page/キャラメルBOX_やるきばこ.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[MANNINGEN](https://ja.wikipedia.org/wiki/MANNINGEN)から翻訳されています。
 
 
-『**MANNINGEN**』（まにんげん）は、[2007年](../Page/2007年.md "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[フジテレビで放送された生放送の深夜番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
+『**MANNINGEN**』（まにんげん）は、[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[フジテレビで放送された生放送の深夜番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
 
 ## 概要
 
@@ -11,13 +11,13 @@
 
 ### NHKとの相互乗り入れ
 
-2009年は、1月10日に[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")が、3月1日にフジテレビジョンが、それぞれ50周年を迎える節目の年となった。
+2009年は、1月10日に[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")が、3月1日にフジテレビジョンが、それぞれ50周年を迎える節目の年となった。
 
-そこで、前年に『[お台場から生放送\! 秋の夜長もさだまさし](../Page/今夜も生でさだまさし.md "wikilink")』と『[第59回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")』＋『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』で、[小野文惠](https://ja.wikipedia.org/wiki/小野文惠 "wikilink")と[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")が“相互乗り入れ”を果たした実績を基に、両者が手を組み、若者について考える共同企画を立ち上げることとなった。これが「[イチかバチか（一か八か）プロジェクト　若者の底力](https://ja.wikipedia.org/wiki/いちか?バチか?プロジェクト_若者の底力 "wikilink")」（イチかバチかとは、[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")と[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")でのチャンネル=アナログ・デジタルの[リモコンキーID](../Page/リモコンキーID.md "wikilink")とも=から取ったもの）である。
+そこで、前年に『[お台場から生放送\! 秋の夜長もさだまさし](../Page/今夜も生でさだまさし.md "wikilink")』と『[第59回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")』＋『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』で、[小野文惠](../Page/小野文惠.md "wikilink")と[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")が“相互乗り入れ”を果たした実績を基に、両者が手を組み、若者について考える共同企画を立ち上げることとなった。これが「[イチかバチか（一か八か）プロジェクト　若者の底力](https://ja.wikipedia.org/wiki/いちか?バチか?プロジェクト_若者の底力 "wikilink")」（イチかバチかとは、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")と[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の[東京都](../Page/東京都.md "wikilink")でのチャンネル=アナログ・デジタルの[リモコンキーID](../Page/リモコンキーID.md "wikilink")とも=から取ったもの）である。
 
-まず、[NHK側でかつて放送されていた](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[真剣10代しゃべり場](https://ja.wikipedia.org/wiki/真剣10代しゃべり場 "wikilink")』の変形バージョンとして『真剣中年しゃべり場』を[畠山智之](https://ja.wikipedia.org/wiki/畠山智之 "wikilink")の進行で送り、その討議内容を基にしてこの番組を展開する。その直後には両者による同時生放送が行われた。
+まず、[NHK側でかつて放送されていた](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[真剣10代しゃべり場](../Page/真剣10代しゃべり場.md "wikilink")』の変形バージョンとして『真剣中年しゃべり場』を[畠山智之](../Page/畠山智之.md "wikilink")の進行で送り、その討議内容を基にしてこの番組を展開する。その直後には両者による同時生放送が行われた。
 
-その宣伝として、NHK教育テレビ50歳の当日、司会の戸部洋子が[ラフくん](https://ja.wikipedia.org/wiki/ラフくん "wikilink")・[ガチャピン](../Page/ガチャピン.md "wikilink")・[ムックとともに小野が進行役に入っているNHK](https://ja.wikipedia.org/wiki/ムック_\(キャラクター\) "wikilink")『[土曜スタジオパーク](https://ja.wikipedia.org/wiki/土曜スタジオパーク "wikilink")』へ乗り込み、畠山とともに共同企画のPRを行った。
+その宣伝として、NHK教育テレビ50歳の当日、司会の戸部洋子が[ラフくん](../Page/ラフくん.md "wikilink")・[ガチャピン](../Page/ガチャピン.md "wikilink")・[ムックとともに小野が進行役に入っているNHK](../Page/ムック_\(キャラクター\).md "wikilink")『[土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")』へ乗り込み、畠山とともに共同企画のPRを行った。
 
 ## 番組内容
 
@@ -25,13 +25,13 @@
 
 その後、番組冒頭で発表される最終選択1問「最終MANNINGENチョイス\!」を締め切りまで(このチョイスの発表が行われる直前)に回答して、初めてエントリー完了となる。
 
-「最終MANNINGENチョイス\!」を含めた全ての質問で多数派の選択肢を選んだ人間を「MANNINGEN（=真人間）」とし、スタジオ内で[くす玉](https://ja.wikipedia.org/wiki/くす玉 "wikilink")も割られ、[賞金](https://ja.wikipedia.org/wiki/賞金 "wikilink")の10万円を「MANNINGEN」で山分け。もし、その回で「MANNINGEN」が現れなかった場合、賞金は次回に[キャリーオーバー](https://ja.wikipedia.org/wiki/キャリーオーバー "wikilink")となる。
+「最終MANNINGENチョイス\!」を含めた全ての質問で多数派の選択肢を選んだ人間を「MANNINGEN（=真人間）」とし、スタジオ内で[くす玉](../Page/くす玉.md "wikilink")も割られ、[賞金](https://ja.wikipedia.org/wiki/賞金 "wikilink")の10万円を「MANNINGEN」で山分け。もし、その回で「MANNINGEN」が現れなかった場合、賞金は次回に[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")となる。
 
 司会の古田新太とゲストは、視聴者と同じように挑戦し「NINGENとしての点数」を出していたが、2008年2月9日放送分～7月9日の5ヶ月間、「どちら（どれ）が多数派になるか」を予想して「空気読める率」の高さで争う形式になった。その対決に負けた方は自腹を切り次回の賞金に上乗せするルールとなった。そのルールが決まった次の回には自腹で支払う金額が「一万円」「五千円」「三千円」「千円」のどれかを（それぞれ幅の比率が4:3:2:1となっており、金額が高くなるにつれて幅も広くなっている）ルーレットにより決定するルールも追加された。正解率が同じ場合は古田・ゲストともに自腹を切る。
 
 また、「MANNINGENチョイス\!のタマゴ」と題して視聴者から聞いてみたい質問を募集していた。採用された場合、番組のロゴで描かれている天秤を持ったキャラクターの顔が大きくプリントされたオリジナルのTシャツが1問採用につき1枚送られた。
 
-2008年3月までは、司会の[古田新太](https://ja.wikipedia.org/wiki/古田新太 "wikilink")が自分についての事（[ズボン](https://ja.wikipedia.org/wiki/ズボン "wikilink")や[ジーパンについての事柄](../Page/ジーンズ.md "wikilink")）を述べ、ナレーターが「最終-」を発表した後、オープニングに入っていたが、時間が短縮されたため廃止された。その後はスペシャル版など時間のある場合に行われた。
+2008年3月までは、司会の[古田新太](../Page/古田新太.md "wikilink")が自分についての事（[ズボン](../Page/ズボン.md "wikilink")や[ジーパンについての事柄](../Page/ジーンズ.md "wikilink")）を述べ、ナレーターが「最終-」を発表した後、オープニングに入っていたが、時間が短縮されたため廃止された。その後はスペシャル版など時間のある場合に行われた。
 
 ちなみに全放送で最も多い選択肢の数は2008年2月16日(\#15)放送分に初登場した12択の質問。
 
@@ -857,24 +857,24 @@ misono</p></td>
 
 「MANNINGENチョイス\!」を2回行い、賞金額はそれぞれ100万円、200万円に増額された。
 
-この回のゲストは、[石田純一](../Page/石田純一.md "wikilink")、[磯野貴理](../Page/磯野貴理子.md "wikilink")、[劇団ひとり](https://ja.wikipedia.org/wiki/劇団ひとり "wikilink")、[関根麻里](https://ja.wikipedia.org/wiki/関根麻里 "wikilink")、[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")、[田山涼成](https://ja.wikipedia.org/wiki/田山涼成 "wikilink")、[椿姫彩菜](https://ja.wikipedia.org/wiki/椿姫彩菜 "wikilink")、[西山茉希](https://ja.wikipedia.org/wiki/西山茉希 "wikilink")の9人。
+この回のゲストは、[石田純一](../Page/石田純一.md "wikilink")、[磯野貴理](../Page/磯野貴理子.md "wikilink")、[劇団ひとり](../Page/劇団ひとり.md "wikilink")、[関根麻里](../Page/関根麻里.md "wikilink")、[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")、[田山涼成](../Page/田山涼成.md "wikilink")、[椿姫彩菜](https://ja.wikipedia.org/wiki/椿姫彩菜 "wikilink")、[西山茉希](https://ja.wikipedia.org/wiki/西山茉希 "wikilink")の9人。
 
 2回目のチョイスでは10万1230人と初の10万人超えを記録した。
 
 ## 出演者
 
-  - [古田新太](https://ja.wikipedia.org/wiki/古田新太 "wikilink")
+  - [古田新太](../Page/古田新太.md "wikilink")
   - [中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（フジテレビアナウンサー） - 2007年10月27日〜2008年4月9日（4月9日は電話出演）、2008年9月24日
   - [戸部洋子](https://ja.wikipedia.org/wiki/戸部洋子 "wikilink")（フジテレビアナウンサー） - 2008年4月9日〜
   - ほかゲスト数名
-  - ナレーション : [竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")
+  - ナレーション : [竹本英史](../Page/竹本英史.md "wikilink")
 
 ## テーマ曲
 
 ### オープニングテーマ
 
   - 「ホワットエヴァー（Whatever）」歌:[Oasis](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")（番組開始 - 2008年2月2日）
-  - 「MANNINGENの歌」歌:[美津留](https://ja.wikipedia.org/wiki/倉本美津留 "wikilink")（2008年1月26日 - 3月15日）
+  - 「MANNINGENの歌」歌:[美津留](../Page/倉本美津留.md "wikilink")（2008年1月26日 - 3月15日）
 
 前述の通り、オープニングテーマは廃止された。
 
@@ -882,7 +882,7 @@ misono</p></td>
 
   - 「泡盛週末」 歌:[かりゆし](https://ja.wikipedia.org/wiki/かりゆし_\(バンド\) "wikilink")（番組開始 - 2008年2月2日）
   - 「精一杯の だけど」 歌:[missM](https://ja.wikipedia.org/wiki/missM "wikilink")（2008年2月9日 - ）
-  - 2008年7月9日以降は[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位の曲を「今週1位の多数派ソング」として流していた。
+  - 2008年7月9日以降は[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位の曲を「今週1位の多数派ソング」として流していた。
 
 ## ネット局
 
@@ -897,21 +897,21 @@ misono</p></td>
 
 ## 放送枠の変遷
 
-  - 土曜 25:45 - 26:15（[DO\!深夜](https://ja.wikipedia.org/wiki/DO!深夜 "wikilink")枠、2007年10月27日 - 2008年3月29日）
+  - 土曜 25:45 - 26:15（[DO\!深夜](../Page/DO!深夜.md "wikilink")枠、2007年10月27日 - 2008年3月29日）
   - 水曜 24:45 - 25:08（2008年4月9日 - 2009年3月18日）
 
-フジテレビの[土曜深夜の競馬番組以降の生放送番組は](https://ja.wikipedia.org/wiki/フジテレビ系列土曜深夜の競馬番組 "wikilink")、[深夜戦隊ガリンペロ](https://ja.wikipedia.org/wiki/深夜戦隊ガリンペロ "wikilink")以来4年半ぶりとなる。
+フジテレビの[土曜深夜の競馬番組以降の生放送番組は](https://ja.wikipedia.org/wiki/フジテレビ系列土曜深夜の競馬番組 "wikilink")、[深夜戦隊ガリンペロ](../Page/深夜戦隊ガリンペロ.md "wikilink")以来4年半ぶりとなる。
 
 ## スタッフ
 
-  - 企画：[小松純也](https://ja.wikipedia.org/wiki/小松純也 "wikilink")・[鈴木修太](https://ja.wikipedia.org/wiki/鈴木修太 "wikilink")・[森崎正伸](https://ja.wikipedia.org/wiki/森崎正伸 "wikilink")（フジテレビ）
-  - 構成：[倉本美津留](https://ja.wikipedia.org/wiki/倉本美津留 "wikilink")
+  - 企画：[小松純也](../Page/小松純也.md "wikilink")・[鈴木修太](https://ja.wikipedia.org/wiki/鈴木修太 "wikilink")・[森崎正伸](https://ja.wikipedia.org/wiki/森崎正伸 "wikilink")（フジテレビ）
+  - 構成：[倉本美津留](../Page/倉本美津留.md "wikilink")
   - 作家：[金森直哉](https://ja.wikipedia.org/wiki/金森直哉 "wikilink")、[川野将一](../Page/川野将一.md "wikilink")、ソケット
   - TD：菅野恒雄（共同テレビ）
   - カメラ：磯前裕之・大石飛雄馬（共同テレビ）
   - VE：川崎淳（共同テレビ）
   - 音声：久馬邦一（共同テレビ）
-  - 照明：鈴木喜雅（[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")）
+  - 照明：鈴木喜雅（[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")）
   - 美術：木村文洋
   - セットデザイン：桐山三千代（フジテレビ）
   - 美術進行：村瀬大
@@ -920,7 +920,7 @@ misono</p></td>
   - メイク：齋藤久子
   - 衣裳：佐藤孝二、岡野陽子
   - 音響効果：小堀一（OKK）
-  - 編集：伊藤賢俊（[共同エディット](https://ja.wikipedia.org/wiki/共同エディット "wikilink")）
+  - 編集：伊藤賢俊（[共同エディット](../Page/共同エディット.md "wikilink")）
   - MA：中村貴明（共同エディット）
   - CG：[岡本英士](https://ja.wikipedia.org/wiki/岡本英士 "wikilink")・徳永晶子（フジテレビ）
   - タイトル：久保田幸（フジテレビ）

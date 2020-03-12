@@ -1,9 +1,9 @@
 > この記事は[Girl\'s Style](https://ja.wikipedia.org/wiki/Girl\'s_Style)から翻訳されています。
 
 
-『**ユア・メモリーズオフ〜Girl's Style〜**』（ユア・メモリーズオフ ガールズスタイル）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")Gamesから[PS2用に発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。[Memories Offシリーズの女性向け版となっている](https://ja.wikipedia.org/wiki/Memories_Offシリーズ "wikilink")。
+『**ユア・メモリーズオフ〜Girl's Style〜**』（ユア・メモリーズオフ ガールズスタイル）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[5pb.](../Page/5pb..md "wikilink")Gamesから[PS2用に発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。[Memories Offシリーズの女性向け版となっている](../Page/Memories_Offシリーズ.md "wikilink")。
 
-[2009年](../Page/2009年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[PlayStation Portableへの移植版が発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+[2009年](../Page/2009年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[PlayStation Portableへの移植版が発売された](../Page/PlayStation_Portable.md "wikilink")。
 
 ## 概要
 
@@ -30,31 +30,31 @@
     声：[鈴村健一](../Page/鈴村健一.md "wikilink")
     19歳。フリーター。ドラムス担当。明るくてノリの良い、ユアのムードメーカー。宣伝活動など、俊一や清孝がやらない雑用一切を担当している。
   - 川本 拓（かわもと たく）
-    声：[吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
+    声：[吉野裕行](../Page/吉野裕行.md "wikilink")
     17歳。浜咲学園2年生。ギター担当。ユアのライブに感動し、メンバーになるべく押しかけてきた少年。目立ちたがり屋で子供っぽい性格のため、俊一と対立しやすい。
   - 本条 理人（ほんじょう まさと）
-    声：[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")
+    声：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
     18歳。浜咲学園3年生。海の同級生。優しい性格で、落ち込んだ海を励ましてくれる。
   - くーた
-    声：[小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+    声：[小西克幸](../Page/小西克幸.md "wikilink")
     バレンタインの日に海がカフェの前で拾った青年。特定の条件を満たすと攻略可能になる。記憶喪失ではないが、自分のことは一切語らないため、謎に包まれている。くーたという名前もテンチョーがつけた。
 
 ### サブキャラクター
 
   - 月岡 陽（つきおか あかり）
-    声：[荒井静香](https://ja.wikipedia.org/wiki/あらいしずか "wikilink")
+    声：[荒井静香](../Page/あらいしずか.md "wikilink")
     海の姉。20歳。千羽谷大学芸術学部2年生。美人で頭が良いが、何事に対しても冷め切っている女性。海とは表面上仲が悪いわけではないものの、お互い本心を語らない関係にある。ほとんどのルートに登場するが、特に秀巳ルートで存在感を見せる。
   - 有沢 りかの（ありさわ りかの）
-    声：[香坂夏希](https://ja.wikipedia.org/wiki/香坂夏希 "wikilink")
+    声：[香坂夏希](../Page/香坂夏希.md "wikilink")
     18歳。林鐘寺女子高校3年生。カフェの常連客。海のことが気に入らず、何かと突っかかる。俊一ルートおよびくーたルートで関わる。
   - テンチョー（本名：田中一太郎）（たなか いちたろう）
-    声：[岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")
+    声：[岩田光央](../Page/岩田光央.md "wikilink")
     キュービック・カフェの店長。自分のしたいことと好みが基準で、客の意見を取り入れることもないが、他人に自分の意見を押し付けることもない大人の男性。
   - 湊 都子（みなと みやこ）
-    声：[宮川美保](https://ja.wikipedia.org/wiki/宮川美保 "wikilink")
+    声：[宮川美保](../Page/宮川美保.md "wikilink")
     キュービック・カフェのバイト。千羽谷大学芸術学部1年生。姉御肌のさばさばとした性格で、メイクが得意。海が仕事でミスをした際にフォローするなど、海にとっては頼もしい先輩。
   - トビー（本名：飛田扉）（ひだ とびら）
-    声：[藤重政孝](https://ja.wikipedia.org/wiki/藤重政孝 "wikilink")
+    声：[藤重政孝](../Page/藤重政孝.md "wikilink")
     露天商。皮肉屋でプライドが高い。くーたルートにのみ登場する。
 
 ## スタッフ
@@ -64,38 +64,38 @@
   - ディレクター：須藤英男
   - シナリオ：[清水マリコ](https://ja.wikipedia.org/wiki/清水マリコ "wikilink")
   - キャラクターデザイン：よねやませつこ
-  - サウンドディレクター：[高井麗](https://ja.wikipedia.org/wiki/高井ウララ "wikilink")
+  - サウンドディレクター：[高井麗](../Page/高井ウララ.md "wikilink")
   - サウンドコンポーズ：[阿保剛](../Page/阿保剛.md "wikilink")
 
 ## 主題歌
 
   - 主題歌「Shine〜降りそそぐ風のように〜」
-    作詞・作曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 編曲：[磯江俊道](https://ja.wikipedia.org/wiki/磯江俊道 "wikilink") / 歌：[藤重政孝](https://ja.wikipedia.org/wiki/藤重政孝 "wikilink")
+    作詞・作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲：[磯江俊道](../Page/磯江俊道.md "wikilink") / 歌：[藤重政孝](../Page/藤重政孝.md "wikilink")
   - エンディングテーマ「Re-birth」
     作詞：[江幡育子](https://ja.wikipedia.org/wiki/江幡育子 "wikilink") / 作曲・編曲：磯江俊道 / 歌：Your（[KAORI](../Page/KAORI..md "wikilink")）
 
 ### 人物別エンディング
 
   - 俊一「Free」
-    作詞・作曲：[高井ウララ](https://ja.wikipedia.org/wiki/高井ウララ "wikilink") / 編曲：[TARAWO](https://ja.wikipedia.org/wiki/TARAWO "wikilink") / 歌：[緑川光](../Page/緑川光.md "wikilink")
+    作詞・作曲：[高井ウララ](../Page/高井ウララ.md "wikilink") / 編曲：[TARAWO](https://ja.wikipedia.org/wiki/TARAWO "wikilink") / 歌：[緑川光](../Page/緑川光.md "wikilink")
   - 清孝「Puzzle」
     作詞：高井ウララ / 作曲・編曲：[清水永之](https://ja.wikipedia.org/wiki/清水永之 "wikilink") / 歌：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
   - 秀巳「Beat」
     作詞：[涼森有羽子](https://ja.wikipedia.org/wiki/涼森有羽子 "wikilink") / 作曲・編曲：TARAWO / 歌：[鈴村健一](../Page/鈴村健一.md "wikilink")
   - 拓「Original」
-    作詞：[絵莉](https://ja.wikipedia.org/wiki/絵莉 "wikilink") / 作曲：[熊谷憲康](https://ja.wikipedia.org/wiki/熊谷憲康 "wikilink") / 編曲：[秋元直也](https://ja.wikipedia.org/wiki/秋元直也 "wikilink") / 歌：[吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
+    作詞：[絵莉](https://ja.wikipedia.org/wiki/絵莉 "wikilink") / 作曲：[熊谷憲康](https://ja.wikipedia.org/wiki/熊谷憲康 "wikilink") / 編曲：[秋元直也](https://ja.wikipedia.org/wiki/秋元直也 "wikilink") / 歌：[吉野裕行](../Page/吉野裕行.md "wikilink")
   - 理人「You」
-    作詞：？ / 作曲：[KAB.](https://ja.wikipedia.org/wiki/KAB. "wikilink") / 編曲：秋元直也 / 歌：[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")
+    作詞：？ / 作曲：[KAB.](../Page/KAB..md "wikilink") / 編曲：秋元直也 / 歌：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
   - くーた「Wish」
-    作詞：[Yummy](https://ja.wikipedia.org/wiki/Yummy "wikilink") / 作曲：[熊谷憲康](https://ja.wikipedia.org/wiki/熊谷憲康 "wikilink") / 編曲：[秋元直也](https://ja.wikipedia.org/wiki/秋元直也 "wikilink") / 歌：[小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+    作詞：[Yummy](https://ja.wikipedia.org/wiki/Yummy "wikilink") / 作曲：[熊谷憲康](https://ja.wikipedia.org/wiki/熊谷憲康 "wikilink") / 編曲：[秋元直也](https://ja.wikipedia.org/wiki/秋元直也 "wikilink") / 歌：[小西克幸](../Page/小西克幸.md "wikilink")
 
 ## 関連商品
 
 ### CD
 
-発売元：[5pb.](https://ja.wikipedia.org/wiki/5pb. "wikilink")/販売元：[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")
+発売元：[5pb.](../Page/5pb..md "wikilink")/販売元：[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")
 
-  - Shine〜降りそそぐ風のように〜（[藤重政孝](https://ja.wikipedia.org/wiki/藤重政孝 "wikilink")、VGCD-1031 2008年2月8日発売）
+  - Shine〜降りそそぐ風のように〜（[藤重政孝](../Page/藤重政孝.md "wikilink")、VGCD-1031 2008年2月8日発売）
   - Re-birth/Shine〜降りそそぐ風のように〜（Your([KAORI](../Page/KAORI..md "wikilink"))、VGCD-1032 2008年3月7日発売）
   - キャラクタードラソンシリーズ vol.1 佐々俊一
   - キャラクタードラソンシリーズ vol.2 くーた
@@ -109,8 +109,8 @@
 
 舞台は同じキュービックカフェ。テンチョーやトビーは以下が初出。
 
-  - [Memories Offシリーズ](https://ja.wikipedia.org/wiki/Memories_Offシリーズ "wikilink")
-  - [想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜 "wikilink")
+  - [Memories Offシリーズ](../Page/Memories_Offシリーズ.md "wikilink")
+  - [想い出にかわる君 〜Memories Off〜](../Page/想い出にかわる君_〜Memories_Off〜.md "wikilink")
 
 ## 外部リンク
 

@@ -7,9 +7,9 @@
 
 ## 概要
 
-BMD-4は、[砲塔](../Page/砲塔.md "wikilink")に30mm[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")2A72と100mm[滑腔砲](../Page/滑腔砲.md "wikilink")2A70を有する。2A70は、[破片榴弾](https://ja.wikipedia.org/wiki/榴弾#破片効果 "wikilink")（射程7km）と[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")「アルカン」（Аркан）（射程5.5km）を発射することができる。[自動装填システムは](https://ja.wikipedia.org/wiki/自動装填装置 "wikilink")、破片榴弾と対戦車ミサイルで共通であり、4-6秒で次弾を装填できる。消火装置と[NBC防護システムも設備されている](../Page/規制が議論されている兵器.md "wikilink")。
+BMD-4は、[砲塔](../Page/砲塔.md "wikilink")に30mm[機関砲](../Page/機関砲.md "wikilink")2A72と100mm[滑腔砲](../Page/滑腔砲.md "wikilink")2A70を有する。2A70は、[破片榴弾](https://ja.wikipedia.org/wiki/榴弾#破片効果 "wikilink")（射程7km）と[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")「アルカン」（Аркан）（射程5.5km）を発射することができる。[自動装填システムは](../Page/自動装填装置.md "wikilink")、破片榴弾と対戦車ミサイルで共通であり、4-6秒で次弾を装填できる。消火装置と[NBC防護システムも設備されている](../Page/規制が議論されている兵器.md "wikilink")。
 
-[弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")搭載数は、[9M113 コンクールス対戦車ミサイル](https://ja.wikipedia.org/wiki/9M113_\(ミサイル\) "wikilink")4発、「アルカン」対戦車ミサイル4発、2A72 30mm機関砲弾×500発、2A70 100mm[砲弾](../Page/砲弾.md "wikilink")×34発、PKT 7.62mm機関[銃弾](../Page/弾丸.md "wikilink")×2,000発、RPK-74 5.45mm機関銃弾×2,160発。
+[弾薬](../Page/弾薬.md "wikilink")搭載数は、[9M113 コンクールス対戦車ミサイル](https://ja.wikipedia.org/wiki/9M113_\(ミサイル\) "wikilink")4発、「アルカン」対戦車ミサイル4発、2A72 30mm機関砲弾×500発、2A70 100mm[砲弾](../Page/砲弾.md "wikilink")×34発、PKT 7.62mm機関[銃弾](../Page/弾丸.md "wikilink")×2,000発、RPK-74 5.45mm機関銃弾×2,160発。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に一時調達が中止されたが、改良型のBMD-4MをBTR-MD ラクーシュカ多目的輸送車（[BMD-3](../Page/BMD-3.md "wikilink")の派生車両）とともに、[2013年](../Page/2013年.md "wikilink")末までに[ロシア空挺軍](../Page/ロシア空挺軍.md "wikilink")に調達することが、[2012年](../Page/2012年.md "wikilink")末に[ロシア国防省](../Page/ロシア国防省.md "wikilink")によって決定された。今後[2020年](../Page/2020年.md "wikilink")までに少なくとも1,000両が軍に納入される予定である。
 

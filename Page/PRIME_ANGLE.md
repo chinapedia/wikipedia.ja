@@ -1,7 +1,7 @@
 > この記事は[PRIME ANGLE](https://ja.wikipedia.org/wiki/PRIME_ANGLE)から翻訳されています。
 
 
-**PRIME ANGLE**（プライム・アングル）は、[2000年](../Page/2000年.md "wikilink")4月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**PRIME ANGLE**（プライム・アングル）は、[2000年](../Page/2000年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 

@@ -1,21 +1,21 @@
 > この記事は[GANGA ZUMBA](https://ja.wikipedia.org/wiki/GANGA_ZUMBA)から翻訳されています。
 
 
-**GANGA ZUMBA**（ガンガ・ズンバ）は、[THE BOOMの](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")を中心とした[音楽](../Page/音楽.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**GANGA ZUMBA**（ガンガ・ズンバ）は、[THE BOOMの](../Page/THE_BOOM.md "wikilink")[宮沢和史](../Page/宮沢和史.md "wikilink")を中心とした[音楽](../Page/音楽.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要
 
-[THE BOOMの](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が「MIYAZAWA-SICK」名義のソロツアーで[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")などを廻った際のバンドメンバーが母体となって結成されたグループである。名称の由来は植民地時代の[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")で[逃亡奴隷の自治組織を率いた人物](https://ja.wikipedia.org/wiki/マルーン "wikilink")[ガンガ・ズンバ](https://ja.wikipedia.org/wiki/ガンガ・ズンバ "wikilink")。
+[THE BOOMの](../Page/THE_BOOM.md "wikilink")[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[宮沢和史](../Page/宮沢和史.md "wikilink")が「MIYAZAWA-SICK」名義のソロツアーで[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")などを廻った際のバンドメンバーが母体となって結成されたグループである。名称の由来は植民地時代の[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")で[逃亡奴隷の自治組織を率いた人物](../Page/マルーン.md "wikilink")[ガンガ・ズンバ](https://ja.wikipedia.org/wiki/ガンガ・ズンバ "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")、ミニアルバム「[HABATAKE\!](https://ja.wikipedia.org/wiki/HABATAKE! "wikilink")」でデビュー。
+[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")、ミニアルバム「[HABATAKE\!](https://ja.wikipedia.org/wiki/HABATAKE! "wikilink")」でデビュー。
 
 ## 隊員
 
   - 宮沢和史（みやざわ かずふみ）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [高野寛](../Page/高野寛.md "wikilink")（たかの ひろし）：[ギター](../Page/ギター.md "wikilink")
-  - [TATSU](https://ja.wikipedia.org/wiki/レピッシュ "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [TATSU](../Page/レピッシュ.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [今福"Hook"健司](https://ja.wikipedia.org/wiki/今福健司 "wikilink")（いまふく・フック・けんじ）：[パーカッション](../Page/パーカッション.md "wikilink")
-  - [マルコス・スザーノ](https://ja.wikipedia.org/wiki/マルコス・スザーノ "wikilink")：[パーカッション](../Page/パーカッション.md "wikilink")
+  - [マルコス・スザーノ](../Page/マルコス・スザーノ.md "wikilink")：[パーカッション](../Page/パーカッション.md "wikilink")
   - [フェルナンド・モウラ](https://ja.wikipedia.org/wiki/フェルナンド・モウラ "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [ルイス・バジェ](https://ja.wikipedia.org/wiki/ルイス・バジェ "wikilink")：[トランペット](../Page/トランペット.md "wikilink")
   - [クラウディア大城](https://ja.wikipedia.org/wiki/クラウディア大城 "wikilink")（クラウディア おおしろ）：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
@@ -24,23 +24,23 @@
 
 ### 元隊員
 
-  - [Genta](https://ja.wikipedia.org/wiki/Genta "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink") （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって脱退）
+  - [Genta](https://ja.wikipedia.org/wiki/Genta "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink") （[2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって脱退）
 
 ## 特記事項
 
   - 宮沢和史が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にソロアルバム「[AFROSICK](../Page/AFROSICK.md "wikilink")」を[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")でレコーディングした際、マルコス・スザーノとフェルナンド・モウラに出会う。
   - 上記の2名は1998年に行われた「Sixteenth Moon」ツアーのメンバーとして参加、また高野寛もツアー終盤に[ギタリスト](../Page/ギタリスト.md "wikilink")として参加。
-  - [2002年](../Page/2002年.md "wikilink")〜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて、宮沢和史ソロプロジェクトは、MIYAZAWA-SICK名義でヨーロッパ（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[ポルトガル](../Page/ポルトガル.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")）、中南米（[アルゼンチン](../Page/アルゼンチン.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")、[ニカラグア](https://ja.wikipedia.org/wiki/ニカラグア "wikilink")、[キューバ](../Page/キューバ.md "wikilink")）の各国でライブを敢行、各地で成功を収めた。
-  - 2006年4月、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")での単独ライブにてGANGA ZUMBAとしての新曲を初披露。
+  - [2002年](../Page/2002年.md "wikilink")〜[2005年](../Page/2005年.md "wikilink")にかけて、宮沢和史ソロプロジェクトは、MIYAZAWA-SICK名義でヨーロッパ（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[ポルトガル](../Page/ポルトガル.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")）、中南米（[アルゼンチン](../Page/アルゼンチン.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")、[ニカラグア](https://ja.wikipedia.org/wiki/ニカラグア "wikilink")、[キューバ](../Page/キューバ.md "wikilink")）の各国でライブを敢行、各地で成功を収めた。
+  - 2006年4月、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")での単独ライブにてGANGA ZUMBAとしての新曲を初披露。
   - デビューアルバム「[HABATAKE\!](https://ja.wikipedia.org/wiki/HABATAKE! "wikilink")」に収録されている楽曲「HABATAKE\!」が[2006 FIFA WORLD CUP](../Page/2006_FIFAワールドカップ.md "wikilink") PUBLIC VIEWINGテーマソングに起用される。
-  - 「HABATAKE\!」収録曲、「楽園」がメンバーと[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")出演の[アサヒ](../Page/アサヒ飲料.md "wikilink")「旬果搾り」の[CMソングに起用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+  - 「HABATAKE\!」収録曲、「楽園」がメンバーと[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")出演の[アサヒ](../Page/アサヒ飲料.md "wikilink")「旬果搾り」の[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
   - 2006年12月31日、メンバーであるGentaが突如脱退。脱退の理由は公表されなかったが、その後発売された1stフルアルバム「[UM](../Page/UM_\(アルバム\).md "wikilink")」収録曲「TOQUIO」にはGENTAがティンバレスで参加しており、交流は続いている。
-  - [2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")放送の「[たけしの誰でもピカソ](https://ja.wikipedia.org/wiki/たけしの誰でもピカソ "wikilink")」にて、[ビートたけし](../Page/ビートたけし.md "wikilink")の詞に宮沢が曲をつけた新曲「サヨナラ」を発表（CD未発売）。
+  - [2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")放送の「[たけしの誰でもピカソ](../Page/たけしの誰でもピカソ.md "wikilink")」にて、[ビートたけし](../Page/ビートたけし.md "wikilink")の詞に宮沢が曲をつけた新曲「サヨナラ」を発表（CD未発売）。
   - 2007年[4月25日](../Page/4月25日.md "wikilink")、待望の1stフルアルバム「[UM](../Page/UM_\(アルバム\).md "wikilink")」発売（初回限定盤と通常盤）。それに伴い初の全国ツアーも決定した。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、2007年夏に行われた全国ツアー「GANGA ZUMBA SUMMER SESSION UM」よりSHIBUYA-AX公演を完全収録した、初のDVD作品「GANGA ZUMBA SUMMER SESSION UM LIVE at SHIBUYA-AX」を発売。
-  - 2008年[4月9日](../Page/4月9日.md "wikilink")、およそ1年ぶりの新音源および初のシングルである「シェゴウ・アレグリア\!〜歓喜のサンバ〜」を発売。[TBS](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」のエンディングテーマに採用される。
-  - 2008年[6月18日](../Page/6月18日.md "wikilink")、前作からわずか2か月で2ndシングル「足跡のない道／きみはみらい（CM Version）」を発売。『足跡のない道』は日伯交流100周年を記念して作られた曲。『きみはみらい』は[KUMONのために作られたCMソング](https://ja.wikipedia.org/wiki/日本公文教育研究会 "wikilink")。発売から2ヵ月後の[8月15日](../Page/8月15日.md "wikilink")には「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）にGANGA ZUMBAとして初出演し、「足跡のない道」を歌った。宮沢自身の出演は[2000年](../Page/2000年.md "wikilink")3月にTHE BOOMとして出演（「[いつもと違う場所で](../Page/いつもと違う場所で.md "wikilink")」を披露）以来、8年半ぶり。
-  - 2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に所属事務所（※[宮沢が同じくメインボーカルの](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")[THE BOOMも所属](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")）「[ファイブ・ディー](https://ja.wikipedia.org/wiki/ファイブ・ディー "wikilink")（FIVE D）」が大手レコード会社の[エイベックスと事業提携を締結](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、事務所専属レーベル（インディーズ系レーベル）として「[FIVE D plus](https://ja.wikipedia.org/wiki/FIVE_D_plus "wikilink")」をエイベックス内部に新設。同レーベルより2ndアルバム「GANGA ZUMBA」を発売。12月には全国ツアーが行われる。
+  - 2008年[4月9日](../Page/4月9日.md "wikilink")、およそ1年ぶりの新音源および初のシングルである「シェゴウ・アレグリア\!〜歓喜のサンバ〜」を発売。[TBS](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」のエンディングテーマに採用される。
+  - 2008年[6月18日](../Page/6月18日.md "wikilink")、前作からわずか2か月で2ndシングル「足跡のない道／きみはみらい（CM Version）」を発売。『足跡のない道』は日伯交流100周年を記念して作られた曲。『きみはみらい』は[KUMONのために作られたCMソング](../Page/日本公文教育研究会.md "wikilink")。発売から2ヵ月後の[8月15日](../Page/8月15日.md "wikilink")には「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）にGANGA ZUMBAとして初出演し、「足跡のない道」を歌った。宮沢自身の出演は[2000年](../Page/2000年.md "wikilink")3月にTHE BOOMとして出演（「[いつもと違う場所で](../Page/いつもと違う場所で.md "wikilink")」を披露）以来、8年半ぶり。
+  - 2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に所属事務所（※[宮沢が同じくメインボーカルの](../Page/宮沢和史.md "wikilink")[THE BOOMも所属](../Page/THE_BOOM.md "wikilink")）「[ファイブ・ディー](https://ja.wikipedia.org/wiki/ファイブ・ディー "wikilink")（FIVE D）」が大手レコード会社の[エイベックスと事業提携を締結](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、事務所専属レーベル（インディーズ系レーベル）として「[FIVE D plus](https://ja.wikipedia.org/wiki/FIVE_D_plus "wikilink")」をエイベックス内部に新設。同レーベルより2ndアルバム「GANGA ZUMBA」を発売。12月には全国ツアーが行われる。
 
 ## ディスコグラフィー
 
@@ -277,8 +277,8 @@ VFCV-00029:CD</p></td>
 
   - HABATAKE\! - [2006 FIFA WORLD CUP](../Page/2006_FIFAワールドカップ.md "wikilink") PUBLIC VIEWINGテーマソング
   - 楽園 - 本人出演のアサヒ「旬果搾り」のCMソング
-  - シェゴウ・アレグリア\!〜歓喜のサンバ〜 - [TBS系列](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」エンディングテーマ
-  - きみはみらい - [KUMONのために作られたCMソング](https://ja.wikipedia.org/wiki/日本公文教育研究会 "wikilink")
+  - シェゴウ・アレグリア\!〜歓喜のサンバ〜 - [TBS系列](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」エンディングテーマ
+  - きみはみらい - [KUMONのために作られたCMソング](../Page/日本公文教育研究会.md "wikilink")
 
 ## 出演イベント
 

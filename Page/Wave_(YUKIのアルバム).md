@@ -1,7 +1,7 @@
 > この記事は[Wave \(YUKI\)](https://ja.wikipedia.org/wiki/Wave_\(YUKI\))から翻訳されています。
 
 
-『**Wave**』（ウェーヴ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")にリリースされた[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**Wave**』（ウェーヴ）は、[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")にリリースされた[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 『歓びの種』の歌詞に｢結び直してね｣とあるように、アルバムタイトルは当初『ribbon』にする予定だった。結局は｢波｣のイメージが“女性らしさ”や“バイオリズム”と結び付いたので『WAVE』に決めた。
 
-シングル曲以外の収録曲には[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")や[KT Tunstallからの提供曲が含まれている](../Page/KTタンストール.md "wikilink")。選曲段階では作曲者名を伏せてデモテープを聴き、自ら唱いたいと感じた曲を選んだ。
+シングル曲以外の収録曲には[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")や[KT Tunstallからの提供曲が含まれている](../Page/KTタンストール.md "wikilink")。選曲段階では作曲者名を伏せてデモテープを聴き、自ら唱いたいと感じた曲を選んだ。
 
 このアルバムを引っ提げてのツアーは行われておらず、2006年に発表された曲（「[メランコリニスタ](../Page/メランコリニスタ.md "wikilink")」以降）のほとんどが2007年のライブで初披露された。
 
@@ -25,12 +25,12 @@
 
 1.  **[長い夢](../Page/長い夢_\(YUKIの曲\).md "wikilink")** (5:15)
     （作詞：YUKI／作曲・編曲：[蔦谷好位置](../Page/蔦谷好位置.md "wikilink")）
-      - [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") [W31S](https://ja.wikipedia.org/wiki/W31S "wikilink")」CMソング。PVには自身の公式ページから生まれたキャラクターである「ゆきんこ」が登場した。初出はシングルの発売された2005年だが、アルバムのクレジット表記では2006年扱いにされているため、Album Mixされていると思われる。
+      - [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") [W31S](../Page/W31S.md "wikilink")」CMソング。PVには自身の公式ページから生まれたキャラクターである「ゆきんこ」が登場した。初出はシングルの発売された2005年だが、アルバムのクレジット表記では2006年扱いにされているため、Album Mixされていると思われる。
 2.  **[メランコリニスタ](../Page/メランコリニスタ.md "wikilink")** (4:24)
     （作詞：YUKI／作曲：蔦谷好位置／編曲：[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")）
       - [花王](../Page/花王.md "wikilink")「[エッセンシャル ダメージケア](../Page/エッセンシャル_\(シャンプー\).md "wikilink")」CMソング。本曲の前にこの商品のCM曲だったのが「[ハローグッバイ](../Page/ハローグッバイ_\(YUKIの曲\).md "wikilink")」である。
 3.  **[ドラマチック](https://ja.wikipedia.org/wiki/ドラマチック_\(YUKIの曲\) "wikilink")** (4:21)
-    （作詞：YUKI／作曲・編曲：蔦谷好位置／ストリングスアレンジ：[弦一徹](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")）
+    （作詞：YUKI／作曲・編曲：蔦谷好位置／ストリングスアレンジ：[弦一徹](../Page/落合徹也.md "wikilink")）
       - [テレビアニメ](../Page/アニメ.md "wikilink")「[ハチミツとクローバー](../Page/ハチミツとクローバー.md "wikilink")」オープニングテーマ曲。YUKI自身、原作の大ファンである。
 4.  **[裸の太陽](../Page/ふがいないや.md "wikilink")** (5:54)
     （作詞：YUKI／作曲：平野航／編曲：YUKI、TAKIBIE
@@ -46,7 +46,7 @@
 8.  **あおぞら** (3:56)
     （作詞・作曲：YUKI、Steve McNerney、Shelly Peiken／編曲：YUKI、TAKIBIE）
 9.  **You've got a friend** (4:37)
-    （作詞：YUKI／作曲：[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")／編曲：YUKI、玉井健二、湯浅篤）
+    （作詞：YUKI／作曲：[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")／編曲：YUKI、玉井健二、湯浅篤）
 10. **ユメミテイタイ** (3:22)
     （作詞・作曲：YUKI、KT Tunstall、Edwin Makromallis／編曲：YUKI、玉井健二、湯浅篤）
 11. **[夏のヒーロー](../Page/ふがいないや.md "wikilink")** (4:36)

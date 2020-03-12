@@ -1,7 +1,7 @@
 > この記事は[REAL-EYES](https://ja.wikipedia.org/wiki/REAL-EYES)から翻訳されています。
 
 
-**REAL-EYES**（リアライズ）は、[JFL各局で放送された](../Page/JAPAN_FM_LEAGUE.md "wikilink")[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")である。
+**REAL-EYES**（リアライズ）は、[JFL各局で放送された](../Page/JAPAN_FM_LEAGUE.md "wikilink")[企画ネット番組](../Page/企画ネット番組.md "wikilink")である。
 
 「TOKYO REAL-EYES」は、年間ライブを150本観に行くことで知られるライブ王こと[藤田琢己](../Page/藤田琢己.md "wikilink")がナビゲーターを務め、新しいアーティストをピックアップし応援する番組となっている。毎月第3水曜日に渋谷のo-nestで「LIVE SUPERNOVA」というイベントを行っている。
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    日曜（土曜深夜）0:00 - 2:00「**REAL-EYES 802**」（リアライズ・エイト・オー・ツー） DJ:[ちわきまゆみ](https://ja.wikipedia.org/wiki/ちわきまゆみ "wikilink")
+    日曜（土曜深夜）0:00 - 2:00「**REAL-EYES 802**」（リアライズ・エイト・オー・ツー） DJ:[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")
       -
 
 <!-- end list -->
@@ -61,7 +61,7 @@
 <!-- end list -->
 
   -
-    日曜（土曜深夜）0:00 - 1:00「**Kyusyu Real-eyes**」（キュウシュウ・リアライズ） ナビゲーター:[MASAKI](https://ja.wikipedia.org/wiki/MASAKI_\(DJ\) "wikilink")
+    日曜（土曜深夜）0:00 - 1:00「**Kyusyu Real-eyes**」（キュウシュウ・リアライズ） ナビゲーター:[MASAKI](../Page/MASAKI_\(DJ\).md "wikilink")
 
 <!-- end list -->
 
@@ -120,13 +120,13 @@
   - JFL BEAT CONNECTION
       - JFL5局がイチオシの1アーティストを毎週持ち回りで各局のDJが紹介。
   - ADVANCE WARNING
-      - [MTVで放送されている](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")[ADVANCE WARNINGがおすすめするアーティストをフラッシュで紹介](https://ja.wikipedia.org/wiki/ADVANCE_WARNING "wikilink")。
+      - [MTVで放送されている](../Page/MTVジャパン.md "wikilink")[ADVANCE WARNINGがおすすめするアーティストをフラッシュで紹介](https://ja.wikipedia.org/wiki/ADVANCE_WARNING "wikilink")。
 
 ## LIVE SUPERNOVA
 
 毎月第3水曜日に渋谷のO-nestで行なわれているTOKYO REAL-EYESのライブ・イベント。基本的にデビューしたばかりの新人もしくはインディーズのアーティスト3組が出演する。MCの藤田琢己が開場時、転換の間にDJをして会場を盛り上げている。また、転換時にアーティストサイン入りのTシャツが当たるプレゼントタイムが恒例で実施されている。
 
-過去には、[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")、[YUI](https://ja.wikipedia.org/wiki/YUI "wikilink")、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")、[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")など、その後、大ブレイクしたアーティストも多数出演している。不定期で拡大版を1500人〜3000人キャパの別会場（ZEPPやSTUDIO COAST）で開催しており、[9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")、[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")、[The Birthday](https://ja.wikipedia.org/wiki/The_Birthday "wikilink")、[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、[ONE OK ROCKなどが出演している](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")。
+過去には、[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")、[YUI](https://ja.wikipedia.org/wiki/YUI "wikilink")、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")、[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")など、その後、大ブレイクしたアーティストも多数出演している。不定期で拡大版を1500人〜3000人キャパの別会場（ZEPPやSTUDIO COAST）で開催しており、[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")、[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")、[The Birthday](../Page/The_Birthday.md "wikilink")、[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、[ONE OK ROCKなどが出演している](../Page/ONE_OK_ROCK.md "wikilink")。
 
 2015年6月7日には日比谷野外大音楽堂で「LIVE SUPERNOVA 野音DX」の拡大版が開催された。
 
@@ -138,7 +138,7 @@
 
 ## 関連項目
 
-  - [HOT 100](https://ja.wikipedia.org/wiki/HOT_100 "wikilink") - JFL企画ネット番組。2016年4月時点ではFM NORTH WAVE、J-WAVE、ZIP-FM、FM802で放送中。
+  - [HOT 100](../Page/HOT_100.md "wikilink") - JFL企画ネット番組。2016年4月時点ではFM NORTH WAVE、J-WAVE、ZIP-FM、FM802で放送中。
 
 ## 外部リンク
 

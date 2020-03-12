@@ -1,7 +1,7 @@
 > この記事は[Versus \(\)](https://ja.wikipedia.org/wiki/Versus_\(\))から翻訳されています。
 
 
-『**Versus**』（ヴァーサス）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の3枚目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+『**Versus**』（ヴァーサス）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の3枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
@@ -36,7 +36,7 @@
       - 作詞：桜井和寿　作曲：桜井和寿・小林武史
     <!-- end list -->
       -
-        後に4thシングル「[CROSS ROAD](https://ja.wikipedia.org/wiki/CROSS_ROAD_\(Mr.Childrenの曲\) "wikilink")」のカップリング曲としてシングルカットされた。
+        後に4thシングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」のカップリング曲としてシングルカットされた。
         桜井が[ボビー・ウーマック](https://ja.wikipedia.org/wiki/ボビー・ウーマック "wikilink")に憧れたことがきっかけで書かれた曲。
 4.  **[Replay](../Page/Replay_\(曲\).md "wikilink")** \[4:29\]
       - 作詞・作曲：桜井和寿
@@ -49,12 +49,12 @@
       - 作詞・作曲：桜井和寿・小林武史
     <!-- end list -->
       -
-        歌詞に登場する「[気狂いピエロ](https://ja.wikipedia.org/wiki/気狂いピエロ "wikilink")」は[ジャン＝リュック・ゴダール](../Page/ジャン＝リュック・ゴダール.md "wikilink")の映画のタイトルから。
+        歌詞に登場する「[気狂いピエロ](../Page/気狂いピエロ.md "wikilink")」は[ジャン＝リュック・ゴダール](../Page/ジャン＝リュック・ゴダール.md "wikilink")の映画のタイトルから。
 7.  **逃亡者** \[4:09\]
       - 作詞・作曲：小林武史　管編曲：山本拓夫
     <!-- end list -->
       -
-        [鈴木英哉](../Page/鈴木英哉.md "wikilink")がボーカルを担当している数少ない曲で、[インストゥルメンタルを除くとMr](https://ja.wikipedia.org/wiki/器楽曲 "wikilink").Childrenでは桜井が作詞・作曲に関わっていない唯一の曲である。
+        [鈴木英哉](../Page/鈴木英哉.md "wikilink")がボーカルを担当している数少ない曲で、[インストゥルメンタルを除くとMr](../Page/器楽曲.md "wikilink").Childrenでは桜井が作詞・作曲に関わっていない唯一の曲である。
 8.  **LOVE** \[4:04\]
       - 作詞・作曲：桜井和寿
     <!-- end list -->

@@ -98,7 +98,7 @@
 
 ### 特徴
 
-レベル制システムを採用した3D MMORPGである。前作[ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")から一転、完全な3Dベースのグラフィックとなった。レベル制のキャラクター成長システムを持ち、[World of Warcraftを意識したクエストベースのゲーム進行が特徴とされた](https://ja.wikipedia.org/wiki/World_of_Warcraft "wikilink")。一般的な、韓国産MMORPGに良く見られるギルド間戦闘やレアアイテム収集といった要素は実装されなかった。 複数の職業に自由に転職出来るコンプレックスジョブシステムや、ノーマン、エル、ディマーゴの3種類の種族の登場\[1\]等を特徴として打ち出した。反面、意欲的に取り入れられた様々なシステム間で整合性がとれておらず、全体としてのまとまりに欠ける面があった。同時に、本作が特徴として打ち出す多くの要素が、先行する人気作から評価の高いシステムを広範に取り込んだものであり、システム面で本作ならではの個性的な独自要素は打ち出されなかった。 キャラクターが使用するメイン武器に成長の要素を持たせ、プレイヤー間の取引を禁止するなど、前作で問題となったインフレや[RMT](https://ja.wikipedia.org/wiki/RMT "wikilink")にも配慮した設計が見て取れた。全体的に未実装要素が多く、ゲームの全容を把握出来る段階にはなかった。
+レベル制システムを採用した3D MMORPGである。前作[ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")から一転、完全な3Dベースのグラフィックとなった。レベル制のキャラクター成長システムを持ち、[World of Warcraftを意識したクエストベースのゲーム進行が特徴とされた](../Page/World_of_Warcraft.md "wikilink")。一般的な、韓国産MMORPGに良く見られるギルド間戦闘やレアアイテム収集といった要素は実装されなかった。 複数の職業に自由に転職出来るコンプレックスジョブシステムや、ノーマン、エル、ディマーゴの3種類の種族の登場\[1\]等を特徴として打ち出した。反面、意欲的に取り入れられた様々なシステム間で整合性がとれておらず、全体としてのまとまりに欠ける面があった。同時に、本作が特徴として打ち出す多くの要素が、先行する人気作から評価の高いシステムを広範に取り込んだものであり、システム面で本作ならではの個性的な独自要素は打ち出されなかった。 キャラクターが使用するメイン武器に成長の要素を持たせ、プレイヤー間の取引を禁止するなど、前作で問題となったインフレや[RMT](https://ja.wikipedia.org/wiki/RMT "wikilink")にも配慮した設計が見て取れた。全体的に未実装要素が多く、ゲームの全容を把握出来る段階にはなかった。
 
 #### 運営状況
 
@@ -124,7 +124,7 @@
     ノーマン、エル、ディマーゴ、3つの種族が暮らす世界ミッドガルド。そこで勃発した種族間戦争から20年が経ち、新たな争いが起きようとしていた。
   - デザイン
     [ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")が2Dグラフィックだったのに対し、RO2では3Dポリゴングラフィックとなっている。前作の売りであった[萌え](../Page/萌え.md "wikilink")を感じさせるキャラクターデザインを引き継ごうとしながらも、
-    ディフォルメされたキャラクターにリアルさを求めた結果、[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2005発表時にアンバランスさがユーザーの不評を買って、モデルとテクスチャの全面的な作り直しを行った。[1](http://www.4gamer.net/news.php?url=/news/history/2006.11/20061112020734detail.html)
+    ディフォルメされたキャラクターにリアルさを求めた結果、[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")2005発表時にアンバランスさがユーザーの不評を買って、モデルとテクスチャの全面的な作り直しを行った。[1](http://www.4gamer.net/news.php?url=/news/history/2006.11/20061112020734detail.html)
   - 音楽
     [菅野よう子](../Page/菅野よう子.md "wikilink")を起用。
   - クライアントプログラム
@@ -202,14 +202,14 @@
       - Kang Jin Seob：サーバープログラム
       - Lee Tae Sun：クライアント
       - Lee Min Soo：企画チームリーダー
-  - [イ・ミョンジン](https://ja.wikipedia.org/wiki/イ・ミョンジン "wikilink")(リー・ミョウジン,Lee Myoung Jin,[李命進](https://ja.wikipedia.org/wiki/李命進 "wikilink")) (studio DTDS)：原作、企画
+  - [イ・ミョンジン](https://ja.wikipedia.org/wiki/イ・ミョンジン "wikilink")(リー・ミョウジン,Lee Myoung Jin,[李命進](../Page/李命進.md "wikilink")) (studio DTDS)：原作、企画
   - [菅野よう子](../Page/菅野よう子.md "wikilink")：音楽
 
 ## 関連作品
 
   - コンピュータゲーム
 
-:\*RAGNAROK2VEREIN *The Gate Of The World*　（Ragnarok II Mobile　*The Gate Of The World*　verein） ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月22日](../Page/7月22日.md "wikilink"))
+:\*RAGNAROK2VEREIN *The Gate Of The World*　（Ragnarok II Mobile　*The Gate Of The World*　verein） ([2005年](../Page/2005年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink"))
 
 :\*:韓国で携帯配信されているモバイル用ゲーム。開発中だったRO2の設定を元にした3DのアクションRPG。キャラクターデザインは[Berreta](https://ja.wikipedia.org/wiki/Berreta "wikilink")。
 

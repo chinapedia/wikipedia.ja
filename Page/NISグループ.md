@@ -1,13 +1,13 @@
 > この記事は[NIS](https://ja.wikipedia.org/wiki/NIS)から翻訳されています。
 
 
-**NISグループ株式会社**（エヌアイエスグループ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")・[事業者金融](https://ja.wikipedia.org/wiki/事業者金融 "wikilink")業を営んでいた企業。[1960年](../Page/1960年.md "wikilink")に[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")で創業したが、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")と[愛媛県](../Page/愛媛県.md "wikilink")の2ヶ所に本社機能を置いていた。
+**NISグループ株式会社**（エヌアイエスグループ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")・[事業者金融](https://ja.wikipedia.org/wiki/事業者金融 "wikilink")業を営んでいた企業。[1960年](../Page/1960年.md "wikilink")に[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")で創業したが、[東京都](../Page/東京都.md "wikilink")と[愛媛県](../Page/愛媛県.md "wikilink")の2ヶ所に本社機能を置いていた。
 
 近年、[自動契約機](../Page/自動契約機.md "wikilink")を撤去したり、オリエント信販（現・[ネットカード](../Page/ネットカード.md "wikilink")）に消費者ローン債権を売却するなど消費者金融を縮小し、事業者金融に軸足を移していたが、後述の通り貸金業を廃止し、[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")事業・貿易サポート事業・海外進出サポート事業に業態を転換していた。
 
 [2012年](../Page/2012年.md "wikilink")5月、[民事再生手続](https://ja.wikipedia.org/wiki/民事再生手続 "wikilink")の申し立てを[東京地裁](https://ja.wikipedia.org/wiki/東京地裁 "wikilink")に行い経営破綻。負債総額は、約500億円\[1\]\[2\]。　同11月に同手続廃止し\[3\]\[4\]、破産手続に移行したと同時に、公式ウェブサイトは破産管財人運営となった。そして2013年9月11日に破産手続が結了した。
 
-かつて[竹内力](https://ja.wikipedia.org/wiki/竹内力 "wikilink")がCMキャラクターを務め、CMコピーは「**ニッシンはあなたの力（りき）になりたい**」だった。[ヒューザー](../Page/ヒューザー.md "wikilink")の[小嶋進](../Page/小嶋進.md "wikilink")の自家用飛行機[ソカタ](https://ja.wikipedia.org/wiki/ソカタ "wikilink") TBM 700（[Socata TBM 700](https://ja.wikipedia.org/wiki/:en:Socata_TBM "wikilink")、JA8894）は、元ニッシンの社有機で、嵜岡が小嶋に約2億円で譲り渡し、[耐震偽装問題摘発後](https://ja.wikipedia.org/wiki/構造計算書偽造問題 "wikilink")、差し押さえられ競売に掛けられた\[5\]。
+かつて[竹内力](../Page/竹内力.md "wikilink")がCMキャラクターを務め、CMコピーは「**ニッシンはあなたの力（りき）になりたい**」だった。[ヒューザー](../Page/ヒューザー.md "wikilink")の[小嶋進](../Page/小嶋進.md "wikilink")の自家用飛行機[ソカタ](https://ja.wikipedia.org/wiki/ソカタ "wikilink") TBM 700（[Socata TBM 700](https://ja.wikipedia.org/wiki/:en:Socata_TBM "wikilink")、JA8894）は、元ニッシンの社有機で、嵜岡が小嶋に約2億円で譲り渡し、[耐震偽装問題摘発後](https://ja.wikipedia.org/wiki/構造計算書偽造問題 "wikilink")、差し押さえられ競売に掛けられた\[5\]。
 
 ## 沿革
 
@@ -24,7 +24,7 @@
   - 2002年7月 - [ウェッブキャッシング・ドットコム全株を](https://ja.wikipedia.org/wiki/#かつての関連会社 "wikilink")[株式交換](../Page/株式交換.md "wikilink")でアイシーエフ（現:[オーベン](../Page/オーベン.md "wikilink")）に売却。
   - 2004年 - アイシーエフが[エッヂ（ライブドア）に株式交換で売却したウェッブキャッシング](../Page/LDH_\(持株会社\).md "wikilink")・ドットコム株式をエッヂから買い戻す。
   - [2004年](../Page/2004年.md "wikilink") - 消費者ローン債権をオリエント信販（現・[ネットカード](../Page/ネットカード.md "wikilink")）に売却。ビッグアップルの保有株を一部売却。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月5日 - 保有していた、ウェッブキャッシング・ドットコムの全株式を株式会社[メディアイノベーション](../Page/メディアイノベーション.md "wikilink")に売却
+  - [2006年](../Page/2006年.md "wikilink")9月5日 - 保有していた、ウェッブキャッシング・ドットコムの全株式を株式会社[メディアイノベーション](../Page/メディアイノベーション.md "wikilink")に売却
   - 2006年[10月1日](../Page/10月1日.md "wikilink") - 商号を**NISグループ株式会社**に変更。同時に全ての融資金利を18パーセント以下に引き下げ、いわゆる[グレーゾーン金利](../Page/グレーゾーン金利.md "wikilink")から撤退
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - ニューヨーク証券取引所上場廃止
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月31日 - [日本振興銀行](../Page/日本振興銀行.md "wikilink")の経営破綻で債務超過となり、貸金業法で定める純資産要件を満たさなくなることから、貸金業を廃止\[6\]

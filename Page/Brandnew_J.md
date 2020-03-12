@@ -5,13 +5,13 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")、[ベータ版](../Page/ベータ版.md "wikilink")として放送開始し、同年[10月2日](../Page/10月2日.md "wikilink")10:00 ([JST](../Page/日本標準時.md "wikilink")) に本放送を開始した。翌2007年4月9日には20万人を突破した\[1\]。
+[2006年](../Page/2006年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")、[ベータ版](../Page/ベータ版.md "wikilink")として放送開始し、同年[10月2日](../Page/10月2日.md "wikilink")10:00 ([JST](../Page/日本標準時.md "wikilink")) に本放送を開始した。翌2007年4月9日には20万人を突破した\[1\]。
 
-ビジネスモデルは[広告](../Page/広告.md "wikilink")収入を基本としており、[バナー広告](https://ja.wikipedia.org/wiki/バナー広告 "wikilink")との連動がしやすいなどのメリットを持つ。ナビゲーター ([DJ](../Page/ディスクジョッキー.md "wikilink")) のトークを抑え、J-WAVEの開局当初を知る[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")を想定。J-WAVE開局初期に話題となった、会社や店先でのBGMとしての聴取を期待している\[2\]。
+ビジネスモデルは[広告](../Page/広告.md "wikilink")収入を基本としており、[バナー広告](https://ja.wikipedia.org/wiki/バナー広告 "wikilink")との連動がしやすいなどのメリットを持つ。ナビゲーター ([DJ](../Page/ディスクジョッキー.md "wikilink")) のトークを抑え、J-WAVEの開局当初を知る[リスナー](../Page/リスナー.md "wikilink")を想定。J-WAVE開局初期に話題となった、会社や店先でのBGMとしての聴取を期待している\[2\]。
 
 2009年6月30日まで、サイトには「I like It\!」ボタンというものが存在した。ストリーミング中にこのボタンを押すと即座にカウントされ、カウント数に応じて毎日、毎週ごとの人気ランキングが形成されるようになっていた。また、ストリーミング曲横のリンクから楽曲購入ページに飛び、「[mora](https://ja.wikipedia.org/wiki/mora "wikilink")」、「mora win」、「[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") Store」にて配信中の音楽を購入することができた。
 
-2007年1月1日から、J-WAVE（[地上波](../Page/地上波.md "wikilink")）で放送されている『[TOMORROW](../Page/TOMORROW_\(ラジオ番組\).md "wikilink")』（同年10月以降は[PLATOn](https://ja.wikipedia.org/wiki/PLATOn "wikilink")）、同年4月1日から『[MAKING SENSE](https://ja.wikipedia.org/wiki/MAKING_SENSE "wikilink")』、『[OH\! MY RADIO](https://ja.wikipedia.org/wiki/OH!_MY_RADIO "wikilink")』の[同時放送が始まった](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")\[3\]（一部番組コーナーを除き、同時放送時は[SOUND PLANETで放送されているものと同じBGMに差し替えている](../Page/SOUND_PLANET.md "wikilink")）。
+2007年1月1日から、J-WAVE（[地上波](../Page/地上波.md "wikilink")）で放送されている『[TOMORROW](../Page/TOMORROW_\(ラジオ番組\).md "wikilink")』（同年10月以降は[PLATOn](https://ja.wikipedia.org/wiki/PLATOn "wikilink")）、同年4月1日から『[MAKING SENSE](../Page/MAKING_SENSE.md "wikilink")』、『[OH\! MY RADIO](../Page/OH!_MY_RADIO.md "wikilink")』の[同時放送が始まった](../Page/サイマル放送.md "wikilink")\[3\]（一部番組コーナーを除き、同時放送時は[SOUND PLANETで放送されているものと同じBGMに差し替えている](../Page/SOUND_PLANET.md "wikilink")）。
 
 開始当初から2007年9月までは「番組」という形態ではなく、「時間ごと」という枠組みであり、固定されたナビゲーター構成ではなかった。いきなり曜日変更があったり休んだりと、きちんとした構成ではなかったが、本放送開始一周年を迎えた2007年10月より番組名ができ、「GRENN BREEZE」、「EMERALD OCEAN」、「MAGENTA HOLIZON」、「PURE MUSIC」、「WAVES OF HAWAII」、「SEVEN SEAS」、「SLOW FLOW」、「GOLDEN DANCE FLOOR」などといった番組ができ、放送番組らしい構成となった。
 
@@ -24,7 +24,7 @@
 2011年3月31日の27:00をもって、Brandnew Jの全サービスが終了。約5年の歴史に幕を閉じた\[4\]。4月1日以降引き続きJ-WAVEを聴取する場合、以下のサービスを利用する必要がある。
 
   - IPサイマルラジオの「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」※関東地方1都6県は無料。それ以外は有料会員制「radikoプレミアム」を利用する
-  - [USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")の「[SOUND PLANET](../Page/SOUND_PLANET.md "wikilink")（店舗・事業所向け）」または「music AirBee\!（個人向け）」※どちらも有料
+  - [USEN](../Page/USEN.md "wikilink")の「[SOUND PLANET](../Page/SOUND_PLANET.md "wikilink")（店舗・事業所向け）」または「music AirBee\!（個人向け）」※どちらも有料
   - [KDDI](../Page/KDDI.md "wikilink")の携帯電話「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")」の「[LISMO WAVE](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")」 （3月15日からサービス開始）※有料
 
 ### 歴史
@@ -46,7 +46,7 @@
 
 ## インターネットラジオでの楽曲使用許可と問題
 
-開局当初、日本におけるインターネット上での[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")使用は使用許可・使用料金などハードルが高かったため、Brandnew Jでは[音楽出版](https://ja.wikipedia.org/wiki/音楽出版 "wikilink")社と個別に契約して使用許可を得ていた\[7\]。
+開局当初、日本におけるインターネット上での[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")使用は使用許可・使用料金などハードルが高かったため、Brandnew Jでは[音楽出版](../Page/音楽出版.md "wikilink")社と個別に契約して使用許可を得ていた\[7\]。
 
 その後、[著作権](../Page/著作権.md "wikilink")や[著作隣接権を所有する団体](https://ja.wikipedia.org/wiki/著作権#類似の権利 "wikilink")（[日本レコード協会](../Page/日本レコード協会.md "wikilink")や[実演家著作隣接権センター](https://ja.wikipedia.org/wiki/実演家著作隣接権センター "wikilink")（CPRA）など）により「（ラジオ・テレビの）放送番組の楽曲のネット利用の集中管理」として[文化庁](../Page/文化庁.md "wikilink")へ提出された 楽曲に関する集中管理規程が2006年10月8日に施行されて、著作権処理の簡略化が進んだことから\[8\]\[9\]\[10\]、Brandnew Jにおいても楽曲集中管理規程に沿って権利問題をクリアした楽曲はオンエア可能となっている\[11\]（ただし、一部の[インディーズ](../Page/インディーズ.md "wikilink")楽曲など権利関係上放送が難しいものを除く）。
 
@@ -56,8 +56,8 @@
 
   - 放送時間以外は「STAND BY」で、放送を休止していた。
   - ★はBrandnew Jオリジナル番組。その他はJ-WAVEとのサイマル放送。詳細は各番組記事を参照。
-  - J-WAVEとのサイマル放送では、[SOUND PLANETやこれを利用する](../Page/SOUND_PLANET.md "wikilink")[コミュニティFMと同様](../Page/コミュニティ放送.md "wikilink")[CMは](../Page/コマーシャルメッセージ.md "wikilink")[フィラーに差し替えられ](https://ja.wikipedia.org/wiki/CMフィラー "wikilink")、フィラーはSOUND PLANETとは異なる。例外として、一部のスポンサー番組では、地上波と同様のCMが流れた。
-  - 月曜〜金曜の祝日にJ-WAVEで放送される9:00 - 17:55（-19:55）までの特別番組「[J-WAVE HOLIDAY SPECIAL](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")」は、番組の内容次第ではサイマル放送される場合とされない場合がある。（いずれも著作権の都合によるものとみられる）サイマル放送されない場合は、長時間のSTAND BY（放送休止）となった。
+  - J-WAVEとのサイマル放送では、[SOUND PLANETやこれを利用する](../Page/SOUND_PLANET.md "wikilink")[コミュニティFMと同様](../Page/コミュニティ放送.md "wikilink")[CMは](../Page/コマーシャルメッセージ.md "wikilink")[フィラーに差し替えられ](../Page/CMフィラー.md "wikilink")、フィラーはSOUND PLANETとは異なる。例外として、一部のスポンサー番組では、地上波と同様のCMが流れた。
+  - 月曜〜金曜の祝日にJ-WAVEで放送される9:00 - 17:55（-19:55）までの特別番組「[J-WAVE HOLIDAY SPECIAL](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")」は、番組の内容次第ではサイマル放送される場合とされない場合がある。（いずれも著作権の都合によるものとみられる）サイマル放送されない場合は、長時間のSTAND BY（放送休止）となった。
 
 ### 月曜 - 木曜
 
@@ -66,9 +66,9 @@
   - 11:30 - 14:00 [CURIOUS](https://ja.wikipedia.org/wiki/CURIOUS "wikilink")
   - 14:00 - 16:30 STAND BY（放送休止）\[12\]
   - 16:30 - 20:00 [GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink")\[13\]
-  - 20:00 - 22:00 [JAM THE WORLD](https://ja.wikipedia.org/wiki/Jam_the_WORLD "wikilink")
+  - 20:00 - 22:00 [JAM THE WORLD](../Page/Jam_the_WORLD.md "wikilink")
   - 22:00 - 23:45 [HELLO WORLD](https://ja.wikipedia.org/wiki/HELLO_WORLD_\(ラジオ番組\) "wikilink")
-  - 23:45 - 24:00 [MAKING SENSE](https://ja.wikipedia.org/wiki/MAKING_SENSE "wikilink")
+  - 23:45 - 24:00 [MAKING SENSE](../Page/MAKING_SENSE.md "wikilink")
   - 24:00 - 24:30 ★MIDNIGHT FACES
   - 24:30 - 26:00 [RADIPEDIA](https://ja.wikipedia.org/wiki/RADIPEDIA "wikilink")
   - 26:00 - 27:00 [MUSIC WONDERLAND](https://ja.wikipedia.org/wiki/MUSIC_WONDERLAND "wikilink")
@@ -79,9 +79,9 @@
   - 11:30 - 16:00 [PARADISO](../Page/PARADISO.md "wikilink")
   - 16:00 - 16:30 [STYLE STUDIO](https://ja.wikipedia.org/wiki/STYLE_STUDIO "wikilink")
   - 16:30 - 20:00 [CIRCUS CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_CIRCUS "wikilink")
-  - 20:00 - 22:00 [JAM THE WORLD](https://ja.wikipedia.org/wiki/Jam_the_WORLD "wikilink")
+  - 20:00 - 22:00 [JAM THE WORLD](../Page/Jam_the_WORLD.md "wikilink")
   - 22:00 - 23:45 [HELLO WORLD](https://ja.wikipedia.org/wiki/HELLO_WORLD_\(ラジオ番組\) "wikilink")
-  - 23:45 - 24:00 [MAKING SENSE](https://ja.wikipedia.org/wiki/MAKING_SENSE "wikilink")
+  - 23:45 - 24:00 [MAKING SENSE](../Page/MAKING_SENSE.md "wikilink")
   - 24:00 - 27:00 ★MIDNIGHT FACES
 
 ### 土・日曜
@@ -92,7 +92,7 @@
 
   - [Sachiko Ode](https://ja.wikipedia.org/wiki/大出佐智子 "wikilink")
       - Brandnew J初期のナビゲーターで、毎週土・日曜の14:00 - 18:00を担当。
-  - [Lucy Kent](https://ja.wikipedia.org/wiki/ルーシー・ケント "wikilink")
+  - [Lucy Kent](../Page/ルーシー・ケント.md "wikilink")
       - J-WAVE開局当時から各番組に出演していたナビゲーター。Brandnew J初期のナビゲーターで、平日枠の14:00 - 18:00のいずれかの曜日を担当。
   - [Mic Bond](https://ja.wikipedia.org/wiki/ミック・ボンド "wikilink")
       - J-WAVE開局当時から各番組に出演していたナビゲーター。Brandnew J初期のナビゲーターで、平日枠の14:00 - 18:00のいずれかの曜日を担当。
@@ -137,17 +137,17 @@
   - STANDBY OH\! MY RADIO
   - SLOW FLOW
   - UNIVERSAL LOVE
-  - SHISEIDO WAVES OF HAWAII（[GRACE](https://ja.wikipedia.org/wiki/グレース "wikilink")）
+  - SHISEIDO WAVES OF HAWAII（[GRACE](../Page/グレース.md "wikilink")）
   - WEEKEND VITAMIN
 
 ### J-WAVEとのサイマル放送
 
   - [J-WAVE ARCHIVES](https://ja.wikipedia.org/wiki/20TH_J-WAVE_ARCHIVES〜J-WAVE_TOP40 "wikilink")
-  - [THE UNIVERSE](https://ja.wikipedia.org/wiki/THE_UNIVERSE "wikilink")
+  - [THE UNIVERSE](../Page/THE_UNIVERSE.md "wikilink")
   - [TOMORROW](../Page/TOMORROW_\(ラジオ番組\).md "wikilink")
   - [ROCKETMAN SHOW\!\!](../Page/ROCKETMAN_SHOW.md "wikilink")
-  - [WAKE UP TOKYO](https://ja.wikipedia.org/wiki/WAKE_UP_TOKYO "wikilink")
-  - [BOOM TOWN](https://ja.wikipedia.org/wiki/BOOM_TOWN "wikilink")
+  - [WAKE UP TOKYO](../Page/WAKE_UP_TOKYO.md "wikilink")
+  - [BOOM TOWN](../Page/BOOM_TOWN.md "wikilink")
   - [MUSIC PLUS](../Page/MUSIC_PLUS.md "wikilink")
   - [PLATOn](https://ja.wikipedia.org/wiki/PLATOn "wikilink")
 
@@ -173,5 +173,5 @@
 9.  [レコ協と芸団協、放送番組のネット利用に係る集中管理事業開始へ ニュース-ORICON STYLE-](http://www.oricon.co.jp/news/music/34419/)
 10. [社団法人　日本レコード協会｜プレスリリース:当協会、放送番組のネット利用に係る集中管理事業を10月8日から開始へ](http://www.riaj.or.jp/release/2006/pr060911.html)
 11. [ラジオ番組をネットで同時配信、J-WAVEが元旦に開始へ：日経パソコンオンライン](http://pc.nikkeibp.co.jp/article/NEWS/20061122/254608/)
-12. 地上波J-WAVEで放送されている『[RENDEZ-VOUS](https://ja.wikipedia.org/wiki/RENDEZ-VOUS "wikilink")』はサイマル放送されない。
+12. 地上波J-WAVEで放送されている『[RENDEZ-VOUS](../Page/RENDEZ-VOUS.md "wikilink")』はサイマル放送されない。
 13. 「MIX MACHINE」（18:30 - 18:50）は著作権の都合上サイマル放送できない為、フィラー音源を放送している。

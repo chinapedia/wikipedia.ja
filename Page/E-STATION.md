@@ -7,7 +7,7 @@
 
 [ITやエンターテイメントに関する情報を主に取り上げている](../Page/情報技術.md "wikilink")。また、J-WAVEで放送される番組の中でも早くから[インターネット](../Page/インターネット.md "wikilink")に連動しており、公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")上ではe-VOTEと称して毎週リスナーからアンケートを募集しているほか、番組内容の詳細も掲載されている。2004年3月まではe-REPORTリポーターとして[小林紀美](https://ja.wikipedia.org/wiki/小林紀美 "wikilink")も出演していたが、[BIG LEAGUE TODAYを担当するために降板した](https://ja.wikipedia.org/wiki/BIG_LEAGUE_TODAY "wikilink")。けやき坂スタジオから放送されていた。
 
-2000年3月までは平日午後は[TOKIO LIFEを放送していた枠であったが同番組の終了に伴い](https://ja.wikipedia.org/wiki/TOKIO_LIFE "wikilink")、月曜から木曜の11:30-14:00には[VIVA\! ACCESS](https://ja.wikipedia.org/wiki/VIVA!_ACCESS "wikilink")、14:00-17:00には[PRIME ANGLEがスタートした](../Page/PRIME_ANGLE.md "wikilink")。そして金曜の11:30-17:00にこの番組が設置された。2005年4月からは[GROOVE LINEの放送開始時間の繰り上げに伴い](https://ja.wikipedia.org/wiki/GROOVE_LINE "wikilink")、放送時間が30分短縮された。2007年9月28日をもって番組終了。
+2000年3月までは平日午後は[TOKIO LIFEを放送していた枠であったが同番組の終了に伴い](https://ja.wikipedia.org/wiki/TOKIO_LIFE "wikilink")、月曜から木曜の11:30-14:00には[VIVA\! ACCESS](../Page/VIVA!_ACCESS.md "wikilink")、14:00-17:00には[PRIME ANGLEがスタートした](../Page/PRIME_ANGLE.md "wikilink")。そして金曜の11:30-17:00にこの番組が設置された。2005年4月からは[GROOVE LINEの放送開始時間の繰り上げに伴い](../Page/GROOVE_LINE.md "wikilink")、放送時間が30分短縮された。2007年9月28日をもって番組終了。
 
 ## 番組名の変遷
 
@@ -114,7 +114,7 @@
 <!-- end list -->
 
   -
-    [東ヨーロッパ](../Page/東ヨーロッパ.md "wikilink")某国[貴族](https://ja.wikipedia.org/wiki/貴族 "wikilink")の[末裔](https://ja.wikipedia.org/wiki/末裔 "wikilink")であるバロン・ヤマザキによる[外回り](https://ja.wikipedia.org/wiki/外回り "wikilink")[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")を中継。
+    [東ヨーロッパ](../Page/東ヨーロッパ.md "wikilink")某国[貴族](../Page/貴族.md "wikilink")の[末裔](https://ja.wikipedia.org/wiki/末裔 "wikilink")であるバロン・ヤマザキによる[外回り](https://ja.wikipedia.org/wiki/外回り "wikilink")[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")を中継。
 
 ### その他
 
@@ -152,12 +152,12 @@
 <!-- end list -->
 
   -
-    TOKIO LIFEから継承されたコーナー。週替わりのゲストを招いてのインタビューコーナー。のちに[PRIME ANGLE](../Page/PRIME_ANGLE.md "wikilink")→[RENDEZ-VOUS](https://ja.wikipedia.org/wiki/RENDEZ-VOUS "wikilink")内、木曜日の放送となった。
+    TOKIO LIFEから継承されたコーナー。週替わりのゲストを招いてのインタビューコーナー。のちに[PRIME ANGLE](../Page/PRIME_ANGLE.md "wikilink")→[RENDEZ-VOUS](../Page/RENDEZ-VOUS.md "wikilink")内、木曜日の放送となった。
 
 <!-- end list -->
 
   - SPORTS BB
-  - [YKK](https://ja.wikipedia.org/wiki/YKK "wikilink") SNOW X
+  - [YKK](../Page/YKK.md "wikilink") SNOW X
   - [TEPCO](https://ja.wikipedia.org/wiki/東京電力 "wikilink") AROUND THE TOKIO FRIDAY
 
 <!-- end list -->

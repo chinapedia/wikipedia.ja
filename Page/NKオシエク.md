@@ -1,7 +1,7 @@
 > この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
 
 
-**ノゴメトニ・クルブ・オシエク**（**Nogometni klub Osijek**)は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[オシエク](https://ja.wikipedia.org/wiki/オシエク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**ノゴメトニ・クルブ・オシエク**（**Nogometni klub Osijek**)は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[オシエク](../Page/オシエク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 ## 歴史
 
@@ -85,10 +85,10 @@
 <td><p>1998-99</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–2</p></td>
-<td><p>'''3–3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3–3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>2–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''4–1</p></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–0</p></td>
 <td><p>'''2–0</p></td>
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1-2</p></td>
@@ -375,7 +375,7 @@
 
 ## 歴代所属選手
 
-  - [ダヴォール・シューケル](https://ja.wikipedia.org/wiki/ダヴォール・シューケル "wikilink") (2006-2010)
+  - [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink") (2006-2010)
 
   - [ユリツァ・ヴラニェシュ](../Page/ユリツァ・ヴラニェシュ.md "wikilink") (1997-2000)
 

@@ -1,11 +1,11 @@
 > この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
 
 
-『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[ミヤギテレビで放送していた](../Page/宮城テレビ放送.md "wikilink")[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[報道番組](../Page/報道番組.md "wikilink")。『[OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")』の第3部\[1\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
+『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[ミヤギテレビで放送していた](../Page/宮城テレビ放送.md "wikilink")[平日](../Page/平日.md "wikilink")夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカル](../Page/ローカル番組.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。『[OH\!バンデス](../Page/OH!バンデス.md "wikilink")』の第3部\[1\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
 
 ## 概要
 
-この時間帯は『OH\!バンデス』の司会である[さとう宗幸](../Page/さとう宗幸.md "wikilink")・[浮ヶ谷美穂](https://ja.wikipedia.org/wiki/浮ヶ谷美穂 "wikilink")・[浜本徳子](../Page/浜本徳子.md "wikilink")らは出演せず、[柳瀬洋平](https://ja.wikipedia.org/wiki/柳瀬洋平 "wikilink")・[深井ゆきえ](../Page/深井ゆきえ.md "wikilink")が番組のキャスターを務めた。
+この時間帯は『OH\!バンデス』の司会である[さとう宗幸](../Page/さとう宗幸.md "wikilink")・[浮ヶ谷美穂](../Page/浮ヶ谷美穂.md "wikilink")・[浜本徳子](../Page/浜本徳子.md "wikilink")らは出演せず、[柳瀬洋平](../Page/柳瀬洋平.md "wikilink")・[深井ゆきえ](../Page/深井ゆきえ.md "wikilink")が番組のキャスターを務めた。
 
 1995年の『OH\!バンデス』の放送開始以来『OH\!バンデス NEWS PLUS 1』として放送されていたが、全国ニュースのタイトルが『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』から『NNN Newsリアルタイム』へ変わったため、2006年4月3日より『Newsリアルタイムミヤギ』のタイトルで放送されていた。
 
@@ -15,7 +15,7 @@
 
 2006年4月から2008年3月までは、毎週水曜日に『[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")』の宮城担当者である柳瀬による『ズームイン\!\!リアル』を放送していた。
 
-番組開始以来、毎週金曜日18:50ごろからニュースコーナー内にて[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")の老舗[百貨店](../Page/百貨店.md "wikilink")である[藤崎の](https://ja.wikipedia.org/wiki/藤崎_\(百貨店\) "wikilink")[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")を行っている。2009年1月まではキャスターが天気予報後に「続いて、藤崎からのお知らせです」とVTRに振っていたが、2009年4月からは天気予報後にニュースを挟んでからVTRへのパターンに変更となった。
+番組開始以来、毎週金曜日18:50ごろからニュースコーナー内にて[仙台市](../Page/仙台市.md "wikilink")の老舗[百貨店](../Page/百貨店.md "wikilink")である[藤崎の](../Page/藤崎_\(百貨店\).md "wikilink")[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")を行っている。2009年1月まではキャスターが天気予報後に「続いて、藤崎からのお知らせです」とVTRに振っていたが、2009年4月からは天気予報後にニュースを挟んでからVTRへのパターンに変更となった。
 
 この時間帯のニュース番組において長年に渡りキャスターを担当していた竹鼻純と盛朋子が2008年3月に卒業。その後、竹鼻は解説委員として番組に残り、盛は自身の得意分野である環境についてのレポートコーナー「エコで行こう」を番組内で行っている。また、気象予報士が新たに加入し、スタジオから天気予報を伝えるようになり、この時間の仙台駅前からの中継はなくなった（天気予報のときの背景としての仙台駅前からの映像はある）。
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [柳瀬洋平](https://ja.wikipedia.org/wiki/柳瀬洋平 "wikilink")（ミヤギテレビアナウンサー、2008年4月 - 引き続き『[ミヤギnews every.](https://ja.wikipedia.org/wiki/ミヤギnews_every. "wikilink")』を担当）
+  - [柳瀬洋平](../Page/柳瀬洋平.md "wikilink")（ミヤギテレビアナウンサー、2008年4月 - 引き続き『[ミヤギnews every.](https://ja.wikipedia.org/wiki/ミヤギnews_every. "wikilink")』を担当）
   - [深井ゆきえ](../Page/深井ゆきえ.md "wikilink")（当時ミヤギテレビアナウンサー、2007年4月 - 2010年3月\[2\]）
 
 <!-- end list -->
@@ -89,7 +89,7 @@
 
 <!-- end list -->
 
-  - [櫻田彩子](https://ja.wikipedia.org/wiki/櫻田彩子 "wikilink")（『OH\!バンデス NEWS PLUS 1』から引き続き - 2006年9月）○●
+  - [櫻田彩子](../Page/櫻田彩子.md "wikilink")（『OH\!バンデス NEWS PLUS 1』から引き続き - 2006年9月）○●
   - [佐藤育美](../Page/佐藤育美.md "wikilink")（2006年10月 - 2007年3月）○●
   - [武田玲子](../Page/武田玲子.md "wikilink")（ミヤギテレビアナウンサー、月曜 - 水曜、2007年4月 - 2008年3月）○●
   - [浜本徳子](../Page/浜本徳子.md "wikilink")（当時ミヤギテレビアナウンサー、木曜・金曜、2007年4月 - 2008年3月）○●
@@ -146,7 +146,7 @@
 
   - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
   - [NNN夕方ローカルニュース一覧](../Page/NNN夕方ローカルニュース一覧.md "wikilink")
-  - [OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")
+  - [OH\!バンデス](../Page/OH!バンデス.md "wikilink")
   - [ミヤギテレビNewsリアルタイムサタデー](../Page/ミヤギテレビNewsリアルタイムサタデー.md "wikilink")（土曜日）
 
 ## 外部リンク

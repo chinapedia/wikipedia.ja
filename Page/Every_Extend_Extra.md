@@ -1,13 +1,13 @@
 > この記事は[Every Extend Extra](https://ja.wikipedia.org/wiki/Every_Extend_Extra)から翻訳されています。
 
 
-『**Every Extend Extra**』（エブリ・エクステンド・エクストラ、**E3** **EEE**）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation Portable用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。開発は[Q ENTERTAINMENT](https://ja.wikipedia.org/wiki/Q_ENTERTAINMENT "wikilink")。キャッチフレーズは**「音と光の弾幕ドライブ」**。具体的な[ジャンル](../Page/ジャンル.md "wikilink")分類は、特殊な[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")である。
+『**Every Extend Extra**』（エブリ・エクステンド・エクストラ、**E3** **EEE**）は、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation Portable用ゲームソフト](../Page/PlayStation_Portable.md "wikilink")。開発は[Q ENTERTAINMENT](https://ja.wikipedia.org/wiki/Q_ENTERTAINMENT "wikilink")。キャッチフレーズは**「音と光の弾幕ドライブ」**。具体的な[ジャンル](../Page/ジャンル.md "wikilink")分類は、特殊な[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")である。
 
 ## Every Extend Extraの原型
 
 このゲームの原型は、自作ゲームの開発、公開を行っている[Omega](http://o-mega.sakura.ne.jp/)が製作した『**EveryExtend**』（E2）である。[2004年](../Page/2004年.md "wikilink")に行われた第2回3分ゲーコンテストの応募作品として作られた『EveryExtend』は、その独創性とシンプルながら中毒性を持ったゲーム内容が評価され1位を受賞した。
 
-それを[水口哲也](https://ja.wikipedia.org/wiki/水口哲也 "wikilink")がプロデュースし、商品化したものが本作である。
+それを[水口哲也](../Page/水口哲也.md "wikilink")がプロデュースし、商品化したものが本作である。
 
 ## 内容
 
@@ -27,7 +27,7 @@ E2から新たに、自爆ボタンを一定時間押すことで爆発の範囲
 
 クイッケンを取ると、BPM(BGMの速度)が上がる要素が追加されている。また、ステージごとにスキンが変わる。
 
-このゲームは、『[メテオス](https://ja.wikipedia.org/wiki/メテオス "wikilink")』や『[ルミネス](https://ja.wikipedia.org/wiki/ルミネス "wikilink")』のコンセプトのひとつである、「光と音楽による快感」がコンセプトとなっている。またBGMには、[USCUS](https://ja.wikipedia.org/wiki/USCUS "wikilink")の楽曲や、[O-Zone](https://ja.wikipedia.org/wiki/O-Zone "wikilink")「[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")」のリミックスバージョンが収録されている。
+このゲームは、『[メテオス](../Page/メテオス.md "wikilink")』や『[ルミネス](../Page/ルミネス.md "wikilink")』のコンセプトのひとつである、「光と音楽による快感」がコンセプトとなっている。またBGMには、[USCUS](https://ja.wikipedia.org/wiki/USCUS "wikilink")の楽曲や、[O-Zone](../Page/O-Zone.md "wikilink")「[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")」のリミックスバージョンが収録されている。
 
 ## 波及作品
 

@@ -1,7 +1,7 @@
 > この記事は[ MS IGLOO](https://ja.wikipedia.org/wiki/_MS_IGLOO)から翻訳されています。
 
 
-『**機動戦士ガンダム MS IGLOO**』（きどうせんしガンダム エムエスイグルー）は、アニメ作品群「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」の一つとして[2004年](../Page/2004年.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にかけて制作されたフル3DCGアニメ。
+『**機動戦士ガンダム MS IGLOO**』（きどうせんしガンダム エムエスイグルー）は、アニメ作品群「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」の一つとして[2004年](../Page/2004年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて制作されたフル3DCGアニメ。
 
 博物館での上映用に作成された第1期シリーズ『1年戦争秘録』とOVAの第2期シリーズ『黙示録0079』の各3話ずつ、2期合わせて全6話構成で、いずれも[一年戦争](../Page/一年戦争.md "wikilink")を舞台にジオン軍側から描いた内容となっている。また2008年には、地球連邦軍側から描いた『機動戦士ガンダム MSイグルー2 重力戦線』が公開された。
 
@@ -11,19 +11,19 @@
 
 第1期シリーズは2004年に[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")の[バンダイミュージアム](https://ja.wikipedia.org/wiki/バンダイミュージアム "wikilink")で上映されたのが初出で、後にDVDソフト化され[ローソン](../Page/ローソン.md "wikilink")で専売され、レンタルソフトにもなった。第2期シリーズは2006年4月よりOVAとして発売された。タイトルとオープニングテーマが変わっただけでストーリーは連続している。
 
-[ジオン公国](../Page/ジオン公国.md "wikilink")軍の第603技術試験隊を舞台に、ジオンの試作兵器の試験の様子を描く。バンダイの[川口克己](https://ja.wikipedia.org/wiki/川口克己 "wikilink")のサイトでの解説によれば、[IGLOOとはアラスカ原住民が住居とする氷のドーム型建造物が語源で](../Page/イグルー.md "wikilink")、その形状から転じて戦場で軍事物資を集積するための土饅頭を指す軍事用語としても使われており、ジオン軍の秘密兵器群をイメージさせる語としてタイトルとして使われたという。
+[ジオン公国](../Page/ジオン公国.md "wikilink")軍の第603技術試験隊を舞台に、ジオンの試作兵器の試験の様子を描く。バンダイの[川口克己](../Page/川口克己.md "wikilink")のサイトでの解説によれば、[IGLOOとはアラスカ原住民が住居とする氷のドーム型建造物が語源で](../Page/イグルー.md "wikilink")、その形状から転じて戦場で軍事物資を集積するための土饅頭を指す軍事用語としても使われており、ジオン軍の秘密兵器群をイメージさせる語としてタイトルとして使われたという。
 
 本作で登場する試作兵器はどれも1回または数回の実戦試験に供されるのみで開発が打ち切られ、パイロットたちの命と引き替えに少なからぬ戦果を挙げるものの結局は正式採用されずに消えていく、後世の軍事マニアならば「[珍兵器](../Page/計画のみに終わった兵器.md "wikilink")」として扱うであろうものばかりである。しかし、それら時代の主流となり得なかった兵器に携わる男たちは全身全霊をかけて試験に挑み、そして散っていく。その生き方を指して監督の[今西隆志](../Page/今西隆志.md "wikilink")は、本作のコンセプトを「挫折する[プロジェクトX](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")」と表現している。
 
 今西は小説版『黙示録0079』の巻末解説で、連邦軍の描き方が粗暴に過ぎると批判されたことに言及し、それに対して本作はあくまでジオンの実直な一青年の視点からの物語であり、顔も見えない連邦軍兵士達のキャラを立てるためにあえてヤクザっぽく描いたと語っている。
 
-全てのエピソードに[モビルスーツ](../Page/モビルスーツ.md "wikilink") (MS) が登場するが、第603技術試験隊が運用したMSはEMS-10 [ヅダ](https://ja.wikipedia.org/wiki/ヅダ "wikilink")のみであった（漫画版では[ゲム・カモフも登場](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#ゲム・カモフ "wikilink")）。またガンダムシリーズの作品でありながら、[ガンダムという名の機体が劇中の記録映像内の](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")1カットのみ\[1\]しか登場しないという異色作である。
+全てのエピソードに[モビルスーツ](../Page/モビルスーツ.md "wikilink") (MS) が登場するが、第603技術試験隊が運用したMSはEMS-10 [ヅダ](../Page/ヅダ.md "wikilink")のみであった（漫画版では[ゲム・カモフも登場](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#ゲム・カモフ "wikilink")）。またガンダムシリーズの作品でありながら、[ガンダムという名の機体が劇中の記録映像内の](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")1カットのみ\[1\]しか登場しないという異色作である。
 
 3DCGを駆使したハイディテールのメカ、キャラクターの表情、考証の行き届いた軍服など見るべきところは多い。
 
 ### 機動戦士ガンダム MSイグルー2 重力戦線
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月25日に制作が発表された。前作同様の設定考証や世界観を踏襲しているが、ジオン軍ではなく[地球連邦軍](https://ja.wikipedia.org/wiki/地球連邦軍 "wikilink")からの視点で地上戦が描かれる。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月25日に制作が発表された。前作同様の設定考証や世界観を踏襲しているが、ジオン軍ではなく[地球連邦軍](../Page/地球連邦軍.md "wikilink")からの視点で地上戦が描かれる。
 
 作劇上の『イグルー1』との最大の相違点は、3作品を通じて特定の主人公が存在しないことである。死神とミケーレ・コレマッタ少佐は全話通じて登場するが、いずれも狂言回しや傍観者的な立場で、主人公ではない。各話で主人公役を務める地球連邦軍人たちは、いずれも**死神**に見つめられながらラストシーンで予期せぬ無慈悲な事実に直面し、希望を断たれた形で非業の死を遂げる。このため、『1』にあったような不遇ながら雄々しく戦い散っていくような反骨のカタルシスは無く、戦場の非情さがより強調されている。連邦軍主体であるが、前作同様「ガンダム」の名を冠する機体は登場していない。
 
@@ -34,18 +34,18 @@
 『機動戦士ガンダム MS IGLOO』の登場人物は
 
   - オリヴァー・マイ技術中尉（[声](../Page/声優.md "wikilink") - [石川英郎](../Page/石川英郎.md "wikilink")）
-  - モニク・キャディラック特務大尉（声 - [長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")）
-  - マルティン・プロホノウ艦長（中佐相当官）（声 - [飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")）
-  - アルベルト・シャハト少将（技術本部長）（声 - [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")）
-  - エーリッヒ・クリューガー副長（大尉相当官）（声 - [松本大](https://ja.wikipedia.org/wiki/松本大_\(声優\) "wikilink")）
-  - ヒデト・ワシヤ中尉（声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")）
-  - ジーン・ザビエル2等航海士（声 - [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")）
-  - ドメニコ・マルケス3等航海士（声 - [志賀克也](https://ja.wikipedia.org/wiki/志賀克也 "wikilink")）
+  - モニク・キャディラック特務大尉（声 - [長沢美樹](../Page/長沢美樹.md "wikilink")）
+  - マルティン・プロホノウ艦長（中佐相当官）（声 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")）
+  - アルベルト・シャハト少将（技術本部長）（声 - [大木民夫](../Page/大木民夫.md "wikilink")）
+  - エーリッヒ・クリューガー副長（大尉相当官）（声 - [松本大](../Page/松本大_\(声優\).md "wikilink")）
+  - ヒデト・ワシヤ中尉（声 - [福山潤](../Page/福山潤.md "wikilink")）
+  - ジーン・ザビエル2等航海士（声 - [高橋美佳子](../Page/高橋美佳子.md "wikilink")）
+  - ドメニコ・マルケス3等航海士（声 - [志賀克也](../Page/志賀克也.md "wikilink")）
 
 『機動戦士ガンダム MSイグルー2 重力戦線』の登場人物は
 
-  - 死神（声 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")）
-  - ミケーレ・コレマッタ少佐（声 - [東地宏樹](https://ja.wikipedia.org/wiki/東地宏樹 "wikilink")）
+  - 死神（声 - [井上喜久子](../Page/井上喜久子.md "wikilink")）
+  - ミケーレ・コレマッタ少佐（声 - [東地宏樹](../Page/東地宏樹.md "wikilink")）
 
 ## 登場兵器
 
@@ -54,18 +54,18 @@
 ## スタッフ
 
   - 監督：[今西隆志](../Page/今西隆志.md "wikilink")
-  - 脚本：[大熊朝秀](../Page/今西隆志.md "wikilink")、[大野木寛](https://ja.wikipedia.org/wiki/大野木寛 "wikilink")
-  - ベースメカニカルデザイン：[大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")
+  - 脚本：[大熊朝秀](../Page/今西隆志.md "wikilink")、[大野木寛](../Page/大野木寛.md "wikilink")
+  - ベースメカニカルデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")
   - スーパーバイザー：[出渕裕](../Page/出渕裕.md "wikilink")
-  - デザインワークス：出渕裕、[カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")、[荒牧伸志](../Page/荒牧伸志.md "wikilink")、[山根公利](https://ja.wikipedia.org/wiki/山根公利 "wikilink")、[藤岡建機](../Page/藤岡建機.md "wikilink")、[柳瀬敬之](../Page/柳瀬敬之.md "wikilink")（「黙示録0079」3話のみ）
+  - デザインワークス：出渕裕、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[荒牧伸志](../Page/荒牧伸志.md "wikilink")、[山根公利](../Page/山根公利.md "wikilink")、[藤岡建機](../Page/藤岡建機.md "wikilink")、[柳瀬敬之](../Page/柳瀬敬之.md "wikilink")（「黙示録0079」3話のみ）
   - 設定考証：[永瀬唯](../Page/永瀬唯.md "wikilink")
   - 音楽：[大橋恵](../Page/大橋恵.md "wikilink")
-  - 企画・製作：[サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
+  - 企画・製作：[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
 
 ### 主題歌
 
   - 「時空（そら）のたもと」
-    作詞 - 菜穂 / 作曲・編曲・歌 - [Taja](https://ja.wikipedia.org/wiki/Taja "wikilink")
+    作詞 - 菜穂 / 作曲・編曲・歌 - [Taja](../Page/Taja.md "wikilink")
     『1年戦争秘録』主題歌。
   - 「夢轍〜ユメワダチ〜」
     作詞 - 菜穂 / 作曲・編曲・歌 - Taja
@@ -88,24 +88,24 @@
 
 1.  大蛇はルウムに消えた
       - QCX-76A 試作艦隊決戦砲 [ヨルムンガンド](https://ja.wikipedia.org/wiki/ジオン公国の艦船及びその他の兵器#ヨルムンガンド "wikilink")
-          - アレクサンドロ・ヘンメ大尉（声 - [宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")）
+          - アレクサンドロ・ヘンメ大尉（声 - [宝亀克寿](../Page/宝亀克寿.md "wikilink")）
 2.  遠吠えは落日に染まった
-      - YMT-05 試作モビルタンク [ヒルドルブ](https://ja.wikipedia.org/wiki/ヒルドルブ "wikilink")
-          - デメジエール・ソンネン少佐（声 - [天田益男](https://ja.wikipedia.org/wiki/天田益男 "wikilink")）
-          - フェデリコ・ツァリアーノ[地球連邦軍](https://ja.wikipedia.org/wiki/地球連邦軍 "wikilink")中佐（声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")）
+      - YMT-05 試作モビルタンク [ヒルドルブ](../Page/ヒルドルブ.md "wikilink")
+          - デメジエール・ソンネン少佐（声 - [天田益男](../Page/天田益男.md "wikilink")）
+          - フェデリコ・ツァリアーノ[地球連邦軍](../Page/地球連邦軍.md "wikilink")中佐（声 - [中田譲治](../Page/中田譲治.md "wikilink")）
 3.  軌道上に幻影は疾（はし）る
-      - EMS-10 試作モビルスーツ [ヅダ](https://ja.wikipedia.org/wiki/ヅダ "wikilink")
+      - EMS-10 試作モビルスーツ [ヅダ](../Page/ヅダ.md "wikilink")
           - ジャン・リュック・デュバル少佐（声 - [土師孝也](../Page/土師孝也.md "wikilink")）
 
 ### 機動戦士ガンダム MS IGLOO -黙示録0079-
 
 1.  ジャブロー上空に海原を見た　（2006.04.26）
       - MSM-07Di モビルダイバーシステム [ゼーゴック](https://ja.wikipedia.org/wiki/ズゴック#ゼーゴック "wikilink")
-          - ヴェルナー・ホルバイン少尉（声 - [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")）
+          - ヴェルナー・ホルバイン少尉（声 - [堀内賢雄](../Page/堀内賢雄.md "wikilink")）
 2.  光芒の峠を越えろ　（2006.06.23）
       - MP-02A 駆逐モビルポッド [オッゴ](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#オッゴ "wikilink")
-          - エルヴィン・キャディラック曹長（声 - [相田さやか](https://ja.wikipedia.org/wiki/相田さやか "wikilink")）
-          - ヘルベルト・フォン・カスペン大佐（声 - [沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")）
+          - エルヴィン・キャディラック曹長（声 - [相田さやか](../Page/相田さやか.md "wikilink")）
+          - ヘルベルト・フォン・カスペン大佐（声 - [沢木郁也](../Page/沢木郁也.md "wikilink")）
 3.  雷鳴に魂は還る　（2006.08.25）
       - MA-05Ad 戦闘支援型[モビルアーマー](../Page/モビルアーマー.md "wikilink") [ビグ・ラング](https://ja.wikipedia.org/wiki/ビグロ#ビグ・ラング "wikilink")
 
@@ -113,23 +113,23 @@
 
 1.  あの死神を撃て\!　（2008.10.24）
       - M-101A3 対MS重誘導弾リジーナ
-          - ベン・バーバリー中尉（声 - [てらそままさき](https://ja.wikipedia.org/wiki/てらそままさき "wikilink")）
+          - ベン・バーバリー中尉（声 - [てらそままさき](../Page/てらそままさき.md "wikilink")）
           - パパ・シドニー・ルイス対MS特技曹長（声 - [檜山修之](../Page/檜山修之.md "wikilink")）
 2.  陸の王者、前へ\!　（2009.1.23）
       - M61A5 [61式戦車5型](../Page/61式戦車_\(ガンダムシリーズ\).md "wikilink")
-          - ハーマン・ヤンデル中尉（声 - [磯部勉](https://ja.wikipedia.org/wiki/磯部勉 "wikilink")）
-          - レイバン・スラー軍曹（声 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")）
+          - ハーマン・ヤンデル中尉（声 - [磯部勉](../Page/磯部勉.md "wikilink")）
+          - レイバン・スラー軍曹（声 - [小西克幸](../Page/小西克幸.md "wikilink")）
           - エルマー・スネル ジオン公国軍大尉（声 - [大塚明夫](../Page/大塚明夫.md "wikilink")）
 3.  オデッサ、鉄の嵐\!　（2009.4.24）
       - RTX-440 [陸戦強襲型ガンタンク](https://ja.wikipedia.org/wiki/ガンタンク#陸戦強襲型ガンタンク "wikilink")
-          - アリーヌ・ネイズン技術中尉（声 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")）
+          - アリーヌ・ネイズン技術中尉（声 - [井上喜久子](../Page/井上喜久子.md "wikilink")）
           - ミロス・カルッピ技術少尉（声 - [楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")）
-          - ドロバ・クズワヨ曹長（声 - [伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")）
-          - クライド・ベタニー（声 - [遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")）
+          - ドロバ・クズワヨ曹長（声 - [伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")）
+          - クライド・ベタニー（声 - [遊佐浩二](../Page/遊佐浩二.md "wikilink")）
 
 ## 漫画版
 
-角川書店の雑誌「[ガンダムエース](https://ja.wikipedia.org/wiki/ガンダムエース "wikilink")」にて[MEIMU](../Page/MEIMU.md "wikilink")の作画による漫画版が3作連載された。
+角川書店の雑誌「[ガンダムエース](../Page/ガンダムエース.md "wikilink")」にて[MEIMU](../Page/MEIMU.md "wikilink")の作画による漫画版が3作連載された。
 
   - 機動戦士ガンダム MS IGLOO 603
     『1年戦争秘録』の漫画版。全2巻。OVAに登場しなかった兵器のエピソードも追加されている（OVA第2話に相当するエピソードは漫画版には登場しない）。
@@ -151,7 +151,7 @@
           - エンマ・ライヒ（ライチェ）中尉
 2.  南海に竜は潜（たたず）む（『603』1巻第7話 - 2巻第8話に収録）
       - QEX-04M 試作水中ビーム砲 [エーギル](https://ja.wikipedia.org/wiki/ジオン公国の艦船及びその他の兵器#エーギル "wikilink")
-      - MS-06M 水中戦用モビルスーツ [ザク・マリンタイプ](https://ja.wikipedia.org/wiki/ザク・マリンタイプ "wikilink")
+      - MS-06M 水中戦用モビルスーツ [ザク・マリンタイプ](../Page/ザク・マリンタイプ.md "wikilink")
       - RB-79N 水中型ボール [フィッシュアイ](https://ja.wikipedia.org/wiki/ボール_\(ガンダムシリーズ\)#フィッシュアイ "wikilink")
           - ギュンター・ローズマン曹長
 3.  視線つらぬく先に……（『603』2巻第11話 - 12話に収録）
@@ -169,7 +169,7 @@
 
   - 機動戦士ガンダム MSイグルー 1年戦争秘録（2005年8月1日、ISBN 978-4-04-423207-8）
   - 機動戦士ガンダム MSイグルー 黙示録0079（2006年12月31日、ISBN 978-4-04-423208-5）
-      - 著：[林譲治](https://ja.wikipedia.org/wiki/林譲治_\(作家\) "wikilink")、本文イラスト：[大本海図](https://ja.wikipedia.org/wiki/大本海図 "wikilink")
+      - 著：[林譲治](../Page/林譲治_\(作家\).md "wikilink")、本文イラスト：[大本海図](https://ja.wikipedia.org/wiki/大本海図 "wikilink")
 
 ## テレビ放送
 

@@ -1,13 +1,13 @@
 > この記事は[Complete of \&Barbier at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of_\&Barbier_at_the_BEING_studio)から翻訳されています。
 
 
-『**complete of 栗林誠一郎\&Barbier at the BEING studio**』(コンプリート・オブ・くりばやしせいいちろう・アンド・バルビエ・アト・ザ・ビーイング・ステューディオ)は、[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")の[カバー](../Page/カバー.md "wikilink")・アルバム。
+『**complete of 栗林誠一郎\&Barbier at the BEING studio**』(コンプリート・オブ・くりばやしせいいちろう・アンド・バルビエ・アト・ザ・ビーイング・ステューディオ)は、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")の[カバー](../Page/カバー.md "wikilink")・アルバム。
 
 ## 内容
 
-[ビーイング](../Page/ビーイング.md "wikilink")によって企画・リリースされた"at the BEING studio"シリーズのコンピレーションアルバム。ただし、他シリーズに入っている未発表曲は収録されていない。殆どが[TUBE](../Page/TUBE.md "wikilink")、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")などの提供・セルフカバー曲である。また、「バラードが泣いた夜」、Barbier名義の楽曲はセルフプロデュースであるが、このアルバム自体は、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")によるプロデュース扱いとなっている。
+[ビーイング](../Page/ビーイング.md "wikilink")によって企画・リリースされた"at the BEING studio"シリーズのコンピレーションアルバム。ただし、他シリーズに入っている未発表曲は収録されていない。殆どが[TUBE](../Page/TUBE.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")などの提供・セルフカバー曲である。また、「バラードが泣いた夜」、Barbier名義の楽曲はセルフプロデュースであるが、このアルバム自体は、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")によるプロデュース扱いとなっている。
 
-またRooms RECORDS(現：[VERMILLION RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink"))より再発されていない3rdアルバム『[You Never Know](../Page/You_Never_Know.md "wikilink")』からの楽曲が収録されているが、これはBeingが原盤権を保有している為である。尚、1stアルバム『[LA JOLLA](../Page/LA_JOLLA.md "wikilink")』と2ndアルバム『[Summer Illusion](../Page/Summer_Illusion.md "wikilink")』からの楽曲が収録されていないのは、初期の2作品の原盤権が[BMG JAPANにある為](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、収録及び音楽配信が現状権利関係によって困難による為である。 \[1\]
+またRooms RECORDS(現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))より再発されていない3rdアルバム『[You Never Know](../Page/You_Never_Know.md "wikilink")』からの楽曲が収録されているが、これはBeingが原盤権を保有している為である。尚、1stアルバム『[LA JOLLA](../Page/LA_JOLLA.md "wikilink")』と2ndアルバム『[Summer Illusion](../Page/Summer_Illusion.md "wikilink")』からの楽曲が収録されていないのは、初期の2作品の原盤権が[BMG JAPANにある為](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、収録及び音楽配信が現状権利関係によって困難による為である。 \[1\]
 
 ## 収録曲
 
@@ -16,14 +16,14 @@
 1.  **Remember Me** \[2:39\] - 原曲:TUBE
       -
         原曲：TUBE
-        作詞：[前田亘輝](../Page/前田亘輝.md "wikilink") 英訳詞：AMY、作曲・編曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+        作詞：[前田亘輝](../Page/前田亘輝.md "wikilink") 英訳詞：AMY、作曲・編曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
 2.  **君がいない** \[4:02\]
       -
-        作詞・作曲：栗林誠一郎、編曲：栗林誠一郎・[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞・作曲：栗林誠一郎、編曲：栗林誠一郎・[明石昌夫](../Page/明石昌夫.md "wikilink")
 3.  **永遠をあずけてくれ** \[5:20\]
       -
         原曲：DEEN
-        作詞：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")、作曲・編曲：栗林誠一郎 ストリングスアレンジ：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+        作詞：[川島だりあ](../Page/川島だりあ.md "wikilink")、作曲・編曲：栗林誠一郎 ストリングスアレンジ：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 4.  **誰かが待っている** \[3:39\]
       -
         原曲：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
@@ -34,12 +34,12 @@
         作詞：坂井泉水、英訳詞・作曲・編曲：栗林誠一郎
 6.  **寂しさは秋の色** \[4:27\]
       -
-        原曲：[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
-        作詞：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")、作曲・編曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+        原曲：[WANDS](../Page/WANDS.md "wikilink")
+        作詞：[上杉昇](../Page/上杉昇.md "wikilink")、作曲・編曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
 7.  **もう少し あと少し…** \[4:39\] (※)
       -
         原曲：ZARD
-        作詞：坂井泉水、英訳詞:AMY 作曲：栗林誠一郎、編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞：坂井泉水、英訳詞:AMY 作曲：栗林誠一郎、編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 8.  **今すぐ会いに来て** \[4:29\] (※)
       -
         原曲：ZARD
@@ -56,11 +56,11 @@
         作詞：坂井泉水、作曲：栗林誠一郎、編曲：栗林誠一郎・明石昌夫
 12. **バラードが泣いた夜** \[4:09\]
       -
-        原曲：[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")「[Please Please Me, LOVE](../Page/Please_Please_Me,_LOVE.md "wikilink")」(作詞:上杉昇)
+        原曲：[Mi-Ke](../Page/Mi-Ke.md "wikilink")「[Please Please Me, LOVE](../Page/Please_Please_Me,_LOVE.md "wikilink")」(作詞:上杉昇)
         作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")、作曲・編曲：栗林誠一郎
 13. '''Girls and Boys （English ver.） \[Girl 今でも\] ''' \[5:35\]
       -
-        作詞：[舛添要一](https://ja.wikipedia.org/wiki/舛添要一 "wikilink")、作曲:栗林誠一郎、編曲：栗林誠一郎・明石昌夫
+        作詞：[舛添要一](../Page/舛添要一.md "wikilink")、作曲:栗林誠一郎、編曲：栗林誠一郎・明石昌夫
 14. **I still remember （※）**\[6:07\]
       -
         原曲：ZARD

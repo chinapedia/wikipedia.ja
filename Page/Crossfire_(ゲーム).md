@@ -5,9 +5,9 @@
 
 ゲームは [GNU GPL](../Page/GNU_General_Public_License.md "wikilink") のもとで配布されており、公式サイトの[メタサーバ](https://ja.wikipedia.org/wiki/メタサーバ "wikilink")と多くの[サーバ](../Page/サーバ.md "wikilink")が存在する。
 
-クライアントは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[IRIX](https://ja.wikipedia.org/wiki/IRIX "wikilink")やその他多くのプラットフォーム上で動作する。サーバは、Linux、IRIX、Windows上で動作する。
+クライアントは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[IRIX](../Page/IRIX.md "wikilink")やその他多くのプラットフォーム上で動作する。サーバは、Linux、IRIX、Windows上で動作する。
 
-また、Crossfireから派生した[Daimonin](https://ja.wikipedia.org/wiki/Daimonin "wikilink")というゲームがあり、[BGMや見下ろし型のゲーム画面を採用している](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+また、Crossfireから派生した[Daimonin](https://ja.wikipedia.org/wiki/Daimonin "wikilink")というゲームがあり、[BGMや見下ろし型のゲーム画面を採用している](../Page/バックグラウンドミュージック.md "wikilink")。
 
 ## 概要
 

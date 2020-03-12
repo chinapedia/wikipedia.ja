@@ -1,7 +1,7 @@
 > この記事は[MADARA](https://ja.wikipedia.org/wiki/MADARA)から翻訳されています。
 
 
-**魍魎戦記MADARA摩陀羅弐**（もうりょうせんきマダラ2）は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")等で展開した、[魍魎戦記MADARA](https://ja.wikipedia.org/wiki/魍魎戦記MADARA "wikilink")の続編。正式には魍魎戦記MADARAのコミックス5巻から7巻の第2部を指し、摩陀羅弐というのは副題である。後に田島の意向で改題されて『BASARA』として復刊。2018年版の復刊でも他のシリーズが『魍魎戦記MADARA～』と続くのに対し『**魍魎戦記摩陀羅BASARA』**となっている。原作・[大塚英志](../Page/大塚英志.md "wikilink")、画・[田島昭宇](../Page/田島昭宇.md "wikilink")。
+**魍魎戦記MADARA摩陀羅弐**（もうりょうせんきマダラ2）は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")等で展開した、[魍魎戦記MADARA](../Page/魍魎戦記MADARA.md "wikilink")の続編。正式には魍魎戦記MADARAのコミックス5巻から7巻の第2部を指し、摩陀羅弐というのは副題である。後に田島の意向で改題されて『BASARA』として復刊。2018年版の復刊でも他のシリーズが『魍魎戦記MADARA～』と続くのに対し『**魍魎戦記摩陀羅BASARA』**となっている。原作・[大塚英志](../Page/大塚英志.md "wikilink")、画・[田島昭宇](../Page/田島昭宇.md "wikilink")。
 
 漫画は『マル勝スーパーファミコン』後に『電撃スーパーファミコン』で連載された。単行本はカドカワコミックス・エースにて出販されている。
 
@@ -33,14 +33,14 @@
 
 ## 他の作品との関係
 
-  - **甲賀三郎**は原作が同じ[大塚英志](../Page/大塚英志.md "wikilink")の漫画『[八雲百怪](https://ja.wikipedia.org/wiki/八雲百怪 "wikilink")』（[森美夏](https://ja.wikipedia.org/wiki/森美夏 "wikilink")画）にも登場している。
+  - **甲賀三郎**は原作が同じ[大塚英志](../Page/大塚英志.md "wikilink")の漫画『[八雲百怪](https://ja.wikipedia.org/wiki/八雲百怪 "wikilink")』（[森美夏](../Page/森美夏.md "wikilink")画）にも登場している。
   - [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")ソフトの『魍魎戦記MADARA2』ともキャラがリンクしているが、完全オリジナルストーリーであり、本漫画のゲーム化ではない。
 
 ## 脚注
 
 ## 関連項目
 
-  - [魍魎戦記MADARAシリーズ](https://ja.wikipedia.org/wiki/魍魎戦記MADARAシリーズ "wikilink")
+  - [魍魎戦記MADARAシリーズ](../Page/魍魎戦記MADARAシリーズ.md "wikilink")
   - [甲賀三郎 (伝説)](https://ja.wikipedia.org/wiki/甲賀三郎_\(伝説\) "wikilink")
 
 [Category:漫画作品_も](https://ja.wikipedia.org/wiki/Category:漫画作品_も "wikilink") [Category:魍魎戦記MADARAシリーズ](https://ja.wikipedia.org/wiki/Category:魍魎戦記MADARAシリーズ "wikilink") [Category:大塚英志](https://ja.wikipedia.org/wiki/Category:大塚英志 "wikilink") [Category:コンプティークの漫画作品](https://ja.wikipedia.org/wiki/Category:コンプティークの漫画作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink")

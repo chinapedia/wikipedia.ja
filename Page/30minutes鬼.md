@@ -1,7 +1,7 @@
 > この記事は[30minutes](https://ja.wikipedia.org/wiki/30minutes)から翻訳されています。
 
 
-『**30minutes鬼**』（サーティーミニッツハイパー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されたワン[シチュエーションコメディ](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")。
+『**30minutes鬼**』（サーティーミニッツハイパー）は、[2005年](../Page/2005年.md "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されたワン[シチュエーションコメディ](../Page/シチュエーション・コメディ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")。
 
 ## 概要
 
@@ -13,13 +13,13 @@
 
 ### レギュラー
 
-  - [バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")
-      - [日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")
+  - [バナナマン](../Page/バナナマン.md "wikilink")
+      - [日村勇紀](../Page/日村勇紀.md "wikilink")
       - [設楽統](../Page/設楽統.md "wikilink")
   - [おぎやはぎ](../Page/おぎやはぎ.md "wikilink")
       - [小木博明](https://ja.wikipedia.org/wiki/小木博明 "wikilink")
       - [矢作兼](../Page/矢作兼.md "wikilink")
-  - [荒川良々](https://ja.wikipedia.org/wiki/荒川良々 "wikilink")
+  - [荒川良々](../Page/荒川良々.md "wikilink")
 
 ### ゲスト
 
@@ -28,15 +28,15 @@
   - [矢沢心](https://ja.wikipedia.org/wiki/矢沢心 "wikilink")（♯3）
   - [真木よう子](https://ja.wikipedia.org/wiki/真木よう子 "wikilink")（♯5）
   - [池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")（♯6）
-  - [いとうあいこ](https://ja.wikipedia.org/wiki/いとうあいこ "wikilink")（♯7）
-  - [小島聖](https://ja.wikipedia.org/wiki/小島聖 "wikilink")（♯9）
+  - [いとうあいこ](../Page/いとうあいこ.md "wikilink")（♯7）
+  - [小島聖](../Page/小島聖.md "wikilink")（♯9）
   - [市川実和子](https://ja.wikipedia.org/wiki/市川実和子 "wikilink")（♯10）
-  - [遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")（♯11）
+  - [遠藤憲一](../Page/遠藤憲一.md "wikilink")（♯11）
   - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")（♯12）
 
 ## 主題歌
 
-  - [GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")「アダバナ」
+  - [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")「アダバナ」
 
 ## サブタイトル
 
@@ -55,7 +55,7 @@
 <td><p>#1</p></td>
 <td><p>メル友さん、こんにちは</p></td>
 <td><p><a href="../Page/オークラ.md" title="wikilink">オークラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大根仁" title="wikilink">大根仁</a></p></td>
+<td><p><a href="../Page/大根仁.md" title="wikilink">大根仁</a></p></td>
 <td><p>2005年<br />
 7月8日</p></td>
 </tr>

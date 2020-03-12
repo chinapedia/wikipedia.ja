@@ -1,7 +1,7 @@
 > この記事は[VIII](https://ja.wikipedia.org/wiki/VIII)から翻訳されています。
 
 
-『**三國志VIII**』（さんごくし・エイト）は、2001年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](https://ja.wikipedia.org/wiki/三國志シリーズ "wikilink")」の第8作。音楽は[長谷部徹が担当](https://ja.wikipedia.org/wiki/長谷部徹_\(作曲家\) "wikilink")。
+『**三國志VIII**』（さんごくし・エイト）は、2001年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第8作。音楽は[長谷部徹が担当](../Page/長谷部徹_\(作曲家\).md "wikilink")。
 
 パソコン版が発売された後、さまざまな家庭用ゲーム機に移植された。
 
@@ -11,17 +11,17 @@
 
 ### 武将
 
-武将数は551人、[パワーアップキット](../Page/パワーアップキット.md "wikilink")（以下、PK）版及び[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下、PS2）や[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（以下、PSP）各版では611人\[1\]。
+武将数は551人、[パワーアップキット](../Page/パワーアップキット.md "wikilink")（以下、PK）版及び[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下、PS2）や[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（以下、PSP）各版では611人\[1\]。
 
 ### 身分
 
-武将の身分は、前作の[君主](../Page/君主.md "wikilink")、[太守](https://ja.wikipedia.org/wiki/太守 "wikilink")、[軍師](../Page/軍師.md "wikilink")、一般、[在野](https://ja.wikipedia.org/wiki/在野 "wikilink")の5つに加え、頭領、同志、軍団長（PS2、PSP版では[都督](https://ja.wikipedia.org/wiki/都督 "wikilink")）が増えた。ちなみに軍師は、前作では一つの勢力につき一人ずつだったのに対し、今作では一つの都市につき一人ずつ任命できるようになった。太守の軍師よりも君主の軍師の方ができることが多い。
+武将の身分は、前作の[君主](../Page/君主.md "wikilink")、[太守](../Page/太守.md "wikilink")、[軍師](../Page/軍師.md "wikilink")、一般、[在野](../Page/在野.md "wikilink")の5つに加え、頭領、同志、軍団長（PS2、PSP版では[都督](https://ja.wikipedia.org/wiki/都督 "wikilink")）が増えた。ちなみに軍師は、前作では一つの勢力につき一人ずつだったのに対し、今作では一つの都市につき一人ずつ任命できるようになった。太守の軍師よりも君主の軍師の方ができることが多い。
 
 ### イベント
 
 イベントで結婚することもでき、結婚していることで起こるイベントや特技の伝授、さらにパワーアップキット版では子供の育成もすることができる。子供は成人後、プレイヤー武将として引き継ぐことができる。
 
-災害として、大雪、洪水、いなごがあり、その被害を受けた都市は実際にグラフィックが変化するといった特徴がある。また、賊も登場するが、[黄巾賊だけは勢力自体が賊であるためか](../Page/黄巾の乱.md "wikilink")、支配都市には賊が登場することがない。ただし、この設定はシナリオ開始時に黄巾賊であった勢力のみが対象で、たとえば[何進](https://ja.wikipedia.org/wiki/何進 "wikilink")の跡を[張角](../Page/張角.md "wikilink")が継いでも賊が登場しなくなるということはない。また、同じく賊であるはずの区星や[張燕](https://ja.wikipedia.org/wiki/張燕 "wikilink")などの勢力には普通に賊が登場する。
+災害として、大雪、洪水、いなごがあり、その被害を受けた都市は実際にグラフィックが変化するといった特徴がある。また、賊も登場するが、[黄巾賊だけは勢力自体が賊であるためか](../Page/黄巾の乱.md "wikilink")、支配都市には賊が登場することがない。ただし、この設定はシナリオ開始時に黄巾賊であった勢力のみが対象で、たとえば[何進](../Page/何進.md "wikilink")の跡を[張角](../Page/張角.md "wikilink")が継いでも賊が登場しなくなるということはない。また、同じく賊であるはずの区星や[張燕](../Page/張燕.md "wikilink")などの勢力には普通に賊が登場する。
 
 ## 新システム
 
@@ -41,15 +41,15 @@
 
 ### 悪名
 
-悪名という隠しパラメータも存在する。これは略奪や斬首といった行為をすると上昇してゆき、悪名が高いと在野武将が会ってくれなかったり連合を組まれやすくなったりといったデメリットがある。[乞食](https://ja.wikipedia.org/wiki/乞食 "wikilink")に金を恵むことで、要求額の1/10だけ悪名を下げられるが、断ると要求額分悪名が上がってしまう。なお、悪名が高い武将ほど、斬首しても斬った側の悪名は上がらなくなる。
+悪名という隠しパラメータも存在する。これは略奪や斬首といった行為をすると上昇してゆき、悪名が高いと在野武将が会ってくれなかったり連合を組まれやすくなったりといったデメリットがある。[乞食](../Page/乞食.md "wikilink")に金を恵むことで、要求額の1/10だけ悪名を下げられるが、断ると要求額分悪名が上がってしまう。なお、悪名が高い武将ほど、斬首しても斬った側の悪名は上がらなくなる。
 
 ## 廉価版について
 
-[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")より販売されているパッケージ版、コーエーやソースネクストその他で販売されていた[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")版（2011年9月販売終了）、いずれにも『[信長の野望・嵐世記](https://ja.wikipedia.org/wiki/信長の野望・嵐世記#評価 "wikilink")』と共通の問題がある。
+[ソースネクスト](../Page/ソースネクスト.md "wikilink")より販売されているパッケージ版、コーエーやソースネクストその他で販売されていた[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")版（2011年9月販売終了）、いずれにも『[信長の野望・嵐世記](https://ja.wikipedia.org/wiki/信長の野望・嵐世記#評価 "wikilink")』と共通の問題がある。
 
 なおPKの廉価版も[2007年](../Page/2007年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")に発売された。ソースネクスト販売の通常版（以下、無印）とPKの組み合わせではユーザー登録はできないが、コーエー版PK（[CD-ROM](../Page/CD-ROM.md "wikilink")版）と違ってインストール時点であらかじめ[パッチ](../Page/パッチ.md "wikilink")が適用済みになっている。ダウンロード販売版にはPKは適用できない。
 
-PSP版の定番シリーズは、誤って[UMDの内容を](https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク "wikilink")「[三國志VII](../Page/三國志VII.md "wikilink")」で販売してしまったことから、販売を一時停止しパッケージの回収・交換が行われた。\[2\]
+PSP版の定番シリーズは、誤って[UMDの内容を](../Page/ユニバーサル・メディア・ディスク.md "wikilink")「[三國志VII](../Page/三國志VII.md "wikilink")」で販売してしまったことから、販売を一時停止しパッケージの回収・交換が行われた。\[2\]
 
 ## シナリオ
 
@@ -61,7 +61,7 @@ PSP版の定番シリーズは、誤って[UMDの内容を](https://ja.wikipedia
 
 さらにPS2、PSP版では、全武将が一堂に会した「英雄集結」シナリオが追加された。年代設定は271年になっているが、実際の271年の状況とは関係なく、全武将を集結させた[架空](../Page/架空.md "wikilink")シナリオである。このシナリオのみ[寿命](../Page/寿命.md "wikilink")の設定がない。
 
-また、[257年](https://ja.wikipedia.org/wiki/257年 "wikilink")の[諸葛誕](../Page/諸葛誕.md "wikilink")反乱のシナリオや[264年](https://ja.wikipedia.org/wiki/264年 "wikilink")に[鄧艾や](https://ja.wikipedia.org/wiki/トウ艾 "wikilink")[鍾会](https://ja.wikipedia.org/wiki/鍾会 "wikilink")が反乱を起こしたというifシナリオがユーザーズページから[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")できる。これは通常であればファンクラブに入っていないとダウンロードできないが、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")版では最初から付属している。
+また、[257年](https://ja.wikipedia.org/wiki/257年 "wikilink")の[諸葛誕](../Page/諸葛誕.md "wikilink")反乱のシナリオや[264年](https://ja.wikipedia.org/wiki/264年 "wikilink")に[鄧艾や](../Page/トウ艾.md "wikilink")[鍾会](../Page/鍾会.md "wikilink")が反乱を起こしたというifシナリオがユーザーズページから[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")できる。これは通常であればファンクラブに入っていないとダウンロードできないが、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")版では最初から付属している。
 
 ## 脚注
 

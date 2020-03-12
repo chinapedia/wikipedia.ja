@@ -1,13 +1,13 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**麒麟・千鳥の二笑流TV**』（きりん・ちどりのにしょうりゅうテレビ）は、[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で放送されていた自社制作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送開始。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")（リピート放送を含めると2006年10月31日）終了。
+『**麒麟・千鳥の二笑流TV**』（きりん・ちどりのにしょうりゅうテレビ）は、[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で放送されていた自社制作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2005年](../Page/2005年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送開始。[2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")（リピート放送を含めると2006年10月31日）終了。
 
 ## 概要
 
-[麒麟と](../Page/麒麟_\(お笑いコンビ\).md "wikilink")[千鳥の](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")4人がメインを務めていた番組で、スタジオパートの収録は[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")で行われていた。番組前半ではbaseよしもとで行われる[漫才](../Page/漫才.md "wikilink")や[コント](../Page/コント.md "wikilink")を、後半ではbaseよしもとで活動する芸人1人が進行役を務めるゲームコーナーと続きものの個別企画を放送していた。
+[麒麟と](../Page/麒麟_\(お笑いコンビ\).md "wikilink")[千鳥の](../Page/千鳥_\(お笑いコンビ\).md "wikilink")4人がメインを務めていた番組で、スタジオパートの収録は[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")で行われていた。番組前半ではbaseよしもとで行われる[漫才](../Page/漫才.md "wikilink")や[コント](../Page/コント.md "wikilink")を、後半ではbaseよしもとで活動する芸人1人が進行役を務めるゲームコーナーと続きものの個別企画を放送していた。
 
-その後、麒麟がbaseよしもとを卒業することになったため、番組は2006年10月25日放送分をもって終了。替わって同年11月1日からは、千鳥が単独でメインを務めるリニューアル版『[千鳥のぼっけぇTV\!](https://ja.wikipedia.org/wiki/千鳥のぼっけぇTV! "wikilink")』が放送された。
+その後、麒麟がbaseよしもとを卒業することになったため、番組は2006年10月25日放送分をもって終了。替わって同年11月1日からは、千鳥が単独でメインを務めるリニューアル版『[千鳥のぼっけぇTV\!](../Page/千鳥のぼっけぇTV!.md "wikilink")』が放送された。
 
 ## 放送時間
 
@@ -18,7 +18,7 @@
 
   - [川島明](https://ja.wikipedia.org/wiki/川島明 "wikilink")（[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")）
   - [田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")（麒麟）
-  - 大悟（[千鳥](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")）
+  - 大悟（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）
   - [ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（千鳥）
   - ほか、baseよしもとで活動する芸人多数
 
@@ -37,7 +37,7 @@
       - 俺たちおわライバル
         暗いスタジオで全身タイツを着た田村裕とノブが体を使った様々な対決をする企画。スタジオ収録。田村は体格でノブに勝っていたものの、戦績はノブが勝ち越していた。
       - 大悟亭
-        大悟と[ダイアン](../Page/ダイアン.md "wikilink")の津田篤宏による企画で、料理好きの津田が材料費が安くて美味しい料理を作り、それを大悟が採点していた。収録は津田の家で行われていたが、津田が料理を作っている間、大悟が家のシャワーを使っていたり、後輩芸人の[ネゴシックス](https://ja.wikipedia.org/wiki/ネゴシックス "wikilink")を家に連れてきたり、収録中であるのにもかかわらず仕事の電話をしていたりと、まるでプライベートでの1コマのような収録風景だった。このコーナーは、本番組の終了後も『千鳥のぼっけぇTV\!』で引き続き行われていた。
+        大悟と[ダイアン](../Page/ダイアン.md "wikilink")の津田篤宏による企画で、料理好きの津田が材料費が安くて美味しい料理を作り、それを大悟が採点していた。収録は津田の家で行われていたが、津田が料理を作っている間、大悟が家のシャワーを使っていたり、後輩芸人の[ネゴシックス](../Page/ネゴシックス.md "wikilink")を家に連れてきたり、収録中であるのにもかかわらず仕事の電話をしていたりと、まるでプライベートでの1コマのような収録風景だった。このコーナーは、本番組の終了後も『千鳥のぼっけぇTV\!』で引き続き行われていた。
 
 ## 外部リンク
 

@@ -9,13 +9,13 @@
 
 当初はノーマル、戦国伝、外伝、G-ARMSを満遍なく商品化しBB戦士とラインナップが重複していたが、次第に元祖は外伝とG-ARMS中心、BB戦士は戦国伝中心と差別化されていった。 元祖は玩具ならではの遊びの特徴を生かして、電飾やサウンドギミックを有するものや、武者ベースや天地城といった基地セットや武者頑駄無の城、ナイトガンダム物語に登場した聖龍巨人ドラグーンパレスなど大型商品もある。
 
-中国・韓国、および英語圏など海外でも販売されていたが日本版に準じた仕様から、限定メッキモデルまで各種が発売された。2000年、『SDガンダムGジェネレーションF』に合わせて、[MOBILE SUIT IN ACTION\!\!の箱デザインを模して](https://ja.wikipedia.org/wiki/MOBILE_SUIT_IN_ACTION!! "wikilink")｢SD GUNDAM IN ACTION\!\!｣のシリーズ名をもって、ほとんどのパーツをメタリック塗装処理したキットが数点販売された。 海外版においては、ノーマルのSDガンダムに加え、SD戦国伝やGチェンジャー（Gチェンジャーのみ｢ガンダムW MSV｣の肩書きを冠していた）なども販売されていた。
+中国・韓国、および英語圏など海外でも販売されていたが日本版に準じた仕様から、限定メッキモデルまで各種が発売された。2000年、『SDガンダムGジェネレーションF』に合わせて、[MOBILE SUIT IN ACTION\!\!の箱デザインを模して](../Page/MOBILE_SUIT_IN_ACTION!!.md "wikilink")｢SD GUNDAM IN ACTION\!\!｣のシリーズ名をもって、ほとんどのパーツをメタリック塗装処理したキットが数点販売された。 海外版においては、ノーマルのSDガンダムに加え、SD戦国伝やGチェンジャー（Gチェンジャーのみ｢ガンダムW MSV｣の肩書きを冠していた）なども販売されていた。
 
 恐竜をモチーフとした「ダイノガンダム」シリーズの企画もありティラノンガンダム、プテラΖ、トリケラΖΖのデザインも公開されている\[1\]が商品化はペンディングとなっている。
 
 2006年9月には、過去のシリーズの中から人気キャラクターを厳選しダウンサイジングを施した「元祖SDガンダム ミニコレクション」が発売された（後述）。
 
-『[機動戦士SDガンダム](https://ja.wikipedia.org/wiki/機動戦士SDガンダム "wikilink")』のDVD-BOXにバーサル騎士ガンダムを付属させる予定があったが､BB戦士版に変更された。
+『[機動戦士SDガンダム](../Page/機動戦士SDガンダム.md "wikilink")』のDVD-BOXにバーサル騎士ガンダムを付属させる予定があったが､BB戦士版に変更された。
 
 1996年にナンバー0088「鎧闘神ウイング」で一旦商品展開は終了したが、20年後の2016年に復活、ナンバー0089「ガンキラー」が発売され、その後も千生将軍やエルガイヤーなどの人気キャラクターが商品化されている。
 
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p>MSN-03 ギュネイ専用<a href="https://ja.wikipedia.org/wiki/ヤクト・ドーガ" title="wikilink">ヤクト・ドーガ</a></p></td>
+<td><p>MSN-03 ギュネイ専用<a href="../Page/ヤクト・ドーガ.md" title="wikilink">ヤクト・ドーガ</a></p></td>
 <td><p>機動戦士ガンダム 逆襲のシャア</p></td>
 <td><p>バックパックを傾けると首を前後に振る</p></td>
 </tr>
@@ -112,14 +112,14 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>MSR-100S <a href="https://ja.wikipedia.org/wiki/百式_(ガンダムシリーズ)#百式改" title="wikilink">百式改</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ζ-MSV" title="wikilink">Ζ-MSV</a></p></td>
+<td><p><a href="../Page/Ζ-MSV.md" title="wikilink">Ζ-MSV</a></p></td>
 <td><p>後頭部を下に押すと顎に隠されている<a href="https://ja.wikipedia.org/wiki/エイリアン" title="wikilink">エイリアン</a>風の牙が飛び出る<br />
 システムアップセットCの装備で騎士百式改[2]に改造可能。</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>武者精太頑駄無</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SD戦国伝_武者七人衆編" title="wikilink">SD戦国伝 武者七人衆編</a></p></td>
+<td><p><a href="../Page/SD戦国伝_武者七人衆編.md" title="wikilink">SD戦国伝 武者七人衆編</a></p></td>
 <td><p>バックパックを上下に動かすと首を上下に振る<br />
 元祖オリジナルの鬼面を装備</p></td>
 </tr>
@@ -158,7 +158,7 @@
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>MSA-0011 <a href="https://ja.wikipedia.org/wiki/Sガンダム#スペリオルガンダム" title="wikilink">スペリオルガンダム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガンダム・センチネル" title="wikilink">ガンダム・センチネル</a></p></td>
+<td><p><a href="../Page/ガンダム・センチネル.md" title="wikilink">ガンダム・センチネル</a></p></td>
 <td><p>背中のつまみを押すとサウンドが鳴る（音はつまみを回す事で５種類の中から選択可能）</p></td>
 </tr>
 <tr class="even">
@@ -170,7 +170,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p>MRX-009 <a href="https://ja.wikipedia.org/wiki/サイコガンダム" title="wikilink">サイコガンダム</a></p></td>
+<td><p>MRX-009 <a href="../Page/サイコガンダム.md" title="wikilink">サイコガンダム</a></p></td>
 <td><p>機動戦士Ζガンダム</p></td>
 <td><p>差し替えでMA形態に変形し、余ったパーツでギャグ飛行形態に<br />
 ミニサイズのΖガンダムとガンダムMK-IIが付属</p></td>
@@ -185,7 +185,7 @@
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>SDV-04 コマンドガンダム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SDコマンド戦記_G-ARMS" title="wikilink">SDコマンド戦記 G-ARMS</a></p></td>
+<td><p><a href="../Page/SDコマンド戦記_G-ARMS.md" title="wikilink">SDコマンド戦記 G-ARMS</a></p></td>
 <td><p>発光・サウンドギミック</p></td>
 </tr>
 <tr class="even">
@@ -283,7 +283,7 @@
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p>AMX-004 <a href="https://ja.wikipedia.org/wiki/キュベレイ" title="wikilink">キュベレイ</a></p></td>
+<td><p>AMX-004 <a href="../Page/キュベレイ.md" title="wikilink">キュベレイ</a></p></td>
 <td><p>機動戦士Ζガンダム</p></td>
 <td><p>ファンネル格納庫を上下に動かすと肩パーツが開閉</p></td>
 </tr>
@@ -349,7 +349,7 @@ FAのマスクがオリジナル装備</p></td>
 <tr class="odd">
 <td><p>47</p></td>
 <td><p>MSBZ-06S ブラッディザク</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SDコマンド戦記_G-ARMS" title="wikilink">SDコマンド戦記 G-ARMS</a></p></td>
+<td><p><a href="../Page/SDコマンド戦記_G-ARMS.md" title="wikilink">SDコマンド戦記 G-ARMS</a></p></td>
 <td><p>頭部が開閉しファイナルメガキャノン展開<br />
 チェーンガンの回転</p></td>
 </tr>
@@ -364,7 +364,7 @@ FAのマスクがオリジナル装備</p></td>
 <tr class="odd">
 <td><p>49</p></td>
 <td><p>武者荒烈駆主</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SD戦国伝_風林火山編" title="wikilink">SD戦国伝 風林火山編</a></p></td>
+<td><p><a href="../Page/SD戦国伝_風林火山編.md" title="wikilink">SD戦国伝 風林火山編</a></p></td>
 <td><p>武神着装およびケンタウロス形態を再現<br />
 前腕が展開し、龍頭を装着<br />
 BB戦士と異なり、大目牙種子島は2丁装備</p></td>
@@ -554,7 +554,7 @@ BB戦士と異なり閃光剣が付属する</p></td>
 <tr class="even">
 <td><p>76</p></td>
 <td><p>新荒烈駆主</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SD戦国伝_天下統一編" title="wikilink">SD戦国伝 天下統一編</a></p></td>
+<td><p><a href="../Page/SD戦国伝_天下統一編.md" title="wikilink">SD戦国伝 天下統一編</a></p></td>
 <td><p>No.49の成型色を変更し、武神の鎧を削除、地の鎧、地帝の神器を追加<br />
 地脈翼開閉<br />
 BB戦士と異なり、大目牙スペシャルは大目牙種子島と異なる新規パーツ</p></td>
@@ -585,7 +585,7 @@ BB戦士と異なり、大目牙スペシャルは大目牙種子島と異なる
 <tr class="even">
 <td><p>80</p></td>
 <td><p>雷頑駄無</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SD戦国伝_天下統一編" title="wikilink">SD戦国伝 天下統一編</a></p></td>
+<td><p><a href="../Page/SD戦国伝_天下統一編.md" title="wikilink">SD戦国伝 天下統一編</a></p></td>
 <td><p>雷電翼開閉</p></td>
 </tr>
 <tr class="odd">
@@ -653,7 +653,7 @@ No.85に収納可能</p></td>
 <tr class="odd">
 <td><p>89</p></td>
 <td><p>アレックスランダー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガンドランダー" title="wikilink">ガンドランダー</a>II 魔封の聖剣</p></td>
+<td><p><a href="../Page/ガンドランダー.md" title="wikilink">ガンドランダー</a>II 魔封の聖剣</p></td>
 <td><p>強化型のシルエットファイター (SF) 仕様<br />
 頭部よりラムショットを発射</p></td>
 </tr>
@@ -1004,7 +1004,7 @@ MSBZ-06SC キャプテンブラッディ</p></td>
 <tr class="even">
 <td><p>0008</p></td>
 <td><p>機甲神エルガイヤー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SDガンダム外伝_機甲神伝説" title="wikilink">SDガンダム外伝 機甲神伝説</a></p></td>
+<td><p><a href="../Page/SDガンダム外伝_機甲神伝説.md" title="wikilink">SDガンダム外伝 機甲神伝説</a></p></td>
 <td><p>操手・神秘騎士ネオガンダムが付属し搭乗する<br />
 No.0020〜0022と合体して超機甲神ガンジェネシスに</p></td>
 </tr>
@@ -1111,7 +1111,7 @@ No.0008を搭載可能</p></td>
 <tr class="even">
 <td><p>0024</p></td>
 <td><p>LM312V04+SD-VB03A <a href="https://ja.wikipedia.org/wiki/ヴィクトリーガンダム#Vダッシュガンダム" title="wikilink">V-dashガンダム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/機動戦士Vガンダム" title="wikilink">機動戦士Vガンダム</a></p></td>
+<td><p><a href="../Page/機動戦士Vガンダム.md" title="wikilink">機動戦士Vガンダム</a></p></td>
 <td><p>非変形のコアファイターが付属し、完全変形のオーバーハングキャノンと合体しコアブースターを再現</p></td>
 </tr>
 <tr class="odd">
@@ -1124,7 +1124,7 @@ No.0008を搭載可能</p></td>
 <tr class="even">
 <td><p>0026</p></td>
 <td><p>スペリオルドラゴンSR</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新SDガンダム外伝_ナイトガンダム物語" title="wikilink">新SDガンダム外伝 ナイトガンダム物語</a></p></td>
+<td><p><a href="../Page/新SDガンダム外伝_ナイトガンダム物語.md" title="wikilink">新SDガンダム外伝 ナイトガンダム物語</a></p></td>
 <td><p>旧No.123より一部パーツ流用。金、赤、銀、青の4色メッキ</p></td>
 </tr>
 <tr class="odd">
@@ -1142,7 +1142,7 @@ No.0008を搭載可能</p></td>
 <tr class="odd">
 <td><p>0029</p></td>
 <td><p>龍機ドラグーン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新SDガンダム外伝_ナイトガンダム物語" title="wikilink">新SDガンダム外伝 ナイトガンダム物語</a></p></td>
+<td><p><a href="../Page/新SDガンダム外伝_ナイトガンダム物語.md" title="wikilink">新SDガンダム外伝 ナイトガンダム物語</a></p></td>
 <td><p>魔龍モードから覚醒モードに変形<br />
 操手・魔竜剣士ゼロガンダムが付属し搭乗する</p></td>
 </tr>
@@ -1199,7 +1199,7 @@ No.0008を搭載可能</p></td>
 </tr>
 <tr class="odd">
 <td><p>0037</p></td>
-<td><p>GF13-017NJ <a href="https://ja.wikipedia.org/wiki/シャイニングガンダム" title="wikilink">シャイニングガンダム</a></p></td>
+<td><p>GF13-017NJ <a href="../Page/シャイニングガンダム.md" title="wikilink">シャイニングガンダム</a></p></td>
 <td><p><a href="../Page/機動武闘伝Gガンダム.md" title="wikilink">機動武闘伝Gガンダム</a></p></td>
 <td><p>スーパーモードに変形<br />
 コアランダー着脱<br />
@@ -1207,16 +1207,16 @@ No.0008を搭載可能</p></td>
 </tr>
 <tr class="even">
 <td><p>0038</p></td>
-<td><p>GF13-011NC <a href="https://ja.wikipedia.org/wiki/ドラゴンガンダム" title="wikilink">ドラゴンガンダム</a><br />
-GF13-009NF <a href="https://ja.wikipedia.org/wiki/ガンダムローズ" title="wikilink">ガンダムローズ</a></p></td>
+<td><p>GF13-011NC <a href="../Page/ドラゴンガンダム.md" title="wikilink">ドラゴンガンダム</a><br />
+GF13-009NF <a href="../Page/ガンダムローズ.md" title="wikilink">ガンダムローズ</a></p></td>
 <td><p>機動武闘伝Gガンダム</p></td>
 <td><p>ドラゴン：両腕のドラゴンクローが若干伸縮 / コアランダー着脱<br />
 ローズ：スイッチにより左肩バインダーが前後連動して展開 / 腰の回転に連動して右腕が動く剣撃アクション / コアランダー着脱</p></td>
 </tr>
 <tr class="odd">
 <td><p>0039</p></td>
-<td><p>GF13-006NA <a href="https://ja.wikipedia.org/wiki/ガンダムマックスター" title="wikilink">ガンダムマックスター</a><br />
-GF13-013NR <a href="https://ja.wikipedia.org/wiki/ボルトガンダム" title="wikilink">ボルトガンダム</a></p></td>
+<td><p>GF13-006NA <a href="../Page/ガンダムマックスター.md" title="wikilink">ガンダムマックスター</a><br />
+GF13-013NR <a href="../Page/ボルトガンダム.md" title="wikilink">ボルトガンダム</a></p></td>
 <td><p>機動武闘伝Gガンダム</p></td>
 <td><p>マックスター：胸・肩パーツの着脱によりファイティングモードに変形 / コアランダー着脱<br />
 ボルト：グラビトンハンマー着脱 / 首を動かすと連動して右腕が動く / コアランダー着脱</p></td>
@@ -1303,7 +1303,7 @@ GF13-021NG <a href="../Page/ガンダムシュピーゲル.md" title="wikilink">
 <tr class="even">
 <td><p>0050</p></td>
 <td><p>戦神機キングオブハート</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新SDガンダム外伝_黄金神話" title="wikilink">新SDガンダム外伝 黄金神話</a></p></td>
+<td><p><a href="../Page/新SDガンダム外伝_黄金神話.md" title="wikilink">新SDガンダム外伝 黄金神話</a></p></td>
 <td><p>騎士シャインガンダムが装光騎士キングシャイン、更に装光機ハートトランザーと合体し戦神機キングオブハートとなる</p></td>
 </tr>
 <tr class="odd">
@@ -1508,7 +1508,7 @@ No.0076と合体し太陽神ゴッドカイザーとなる</p></td>
 <tr class="odd">
 <td><p>0081</p></td>
 <td><p>騎士ウイング</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新SDガンダム外伝_鎧闘神戦記" title="wikilink">新SDガンダム外伝 鎧闘神戦記</a></p></td>
+<td><p><a href="../Page/新SDガンダム外伝_鎧闘神戦記.md" title="wikilink">新SDガンダム外伝 鎧闘神戦記</a></p></td>
 <td><p>背中のレバーを動かすと、右腕が上下に動く<br />
 一部パーツが彩色済</p></td>
 </tr>
@@ -1688,11 +1688,11 @@ No.0076と合体し太陽神ゴッドカイザーとなる</p></td>
 
 #### 超時空要塞マクロス
 
-| No. | 商品名                                                                              | 備考            |
-| --- | -------------------------------------------------------------------------------- | ------------- |
-| 1   | VF-1S [バルキリー](https://ja.wikipedia.org/wiki/VF-1_バルキリー "wikilink") ロイ・フォッカースペシャル | 3形態に差し替え変形が可能 |
-| 2   | VF-1J バルキリー                                                                      | 3形態に差し替え変形が可能 |
-| 3   | VF-1S ストライクバルキリー                                                                 | 3形態に差し替え変形が可能 |
+| No. | 商品名                                                           | 備考            |
+| --- | ------------------------------------------------------------- | ------------- |
+| 1   | VF-1S [バルキリー](../Page/VF-1_バルキリー.md "wikilink") ロイ・フォッカースペシャル | 3形態に差し替え変形が可能 |
+| 2   | VF-1J バルキリー                                                   | 3形態に差し替え変形が可能 |
+| 3   | VF-1S ストライクバルキリー                                              | 3形態に差し替え変形が可能 |
 
 #### 聖戦士ダンバイン
 
@@ -1723,7 +1723,7 @@ No.0076と合体し太陽神ゴッドカイザーとなる</p></td>
 
 ### 元祖SDガンダム ミニコレクション
 
-全12種（色違いを含む）。1980年代末期〜1990年代初期にかけて発売された**元祖SDガンダム**の一部をダウンサイジングしての復刻させたものであり、そのためギミックは一部オミットされている。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月に主に[コンビニで販売された](../Page/コンビニエンスストア.md "wikilink")。2007年2月発売との触れ込みで、MARK-IIが一部ショップで予約受付されたが、発売には至らなかった。
+全12種（色違いを含む）。1980年代末期〜1990年代初期にかけて発売された**元祖SDガンダム**の一部をダウンサイジングしての復刻させたものであり、そのためギミックは一部オミットされている。[2006年](../Page/2006年.md "wikilink")10月に主に[コンビニで販売された](../Page/コンビニエンスストア.md "wikilink")。2007年2月発売との触れ込みで、MARK-IIが一部ショップで予約受付されたが、発売には至らなかった。
 
   - ラインナップ
     5品を旧版と[1993年](../Page/1993年.md "wikilink")のリナンバー時の色違い仕様で計10種類発売された。
@@ -1737,10 +1737,10 @@ No.0076と合体し太陽神ゴッドカイザーとなる</p></td>
 
 ## 関連項目
 
-  - [ガンプラ](https://ja.wikipedia.org/wiki/ガンプラ "wikilink")
+  - [ガンプラ](../Page/ガンプラ.md "wikilink")
   - [SDガンダム](../Page/SDガンダム.md "wikilink")
-  - [SDガンダム BB戦士](https://ja.wikipedia.org/wiki/SDガンダム_BB戦士 "wikilink")
-  - [SDX](https://ja.wikipedia.org/wiki/SDX "wikilink")
+  - [SDガンダム BB戦士](../Page/SDガンダム_BB戦士.md "wikilink")
+  - [SDX](../Page/SDX.md "wikilink")
 
 [Category:ガンプラ](https://ja.wikipedia.org/wiki/Category:ガンプラ "wikilink") [Category:SDガンダム](https://ja.wikipedia.org/wiki/Category:SDガンダム "wikilink") [Category:ガンダムシリーズの玩具](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズの玩具 "wikilink")
 

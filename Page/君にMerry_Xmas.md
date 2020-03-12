@@ -5,9 +5,9 @@
 
 ## 解説
 
-この曲は[第一生命](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink")『パスポート21』のCMソングで、クリスマスの2日間限定でオンエアされた。CMは小田が[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ブルックリン橋](https://ja.wikipedia.org/wiki/ブルックリン橋 "wikilink")を走りぬけるというもの。この映像は後に音楽番組『[風のようにうたが流れていた](https://ja.wikipedia.org/wiki/風のようにうたが流れていた "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の第9話（2004年12月6日放送）でも紹介された。なお、CMの撮影は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の全国ツアー終了後、2日間の強行日程で行われたという。
+この曲は[第一生命](../Page/第一生命保険.md "wikilink")『パスポート21』のCMソングで、クリスマスの2日間限定でオンエアされた。CMは小田が[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ブルックリン橋](../Page/ブルックリン橋.md "wikilink")を走りぬけるというもの。この映像は後に音楽番組『[風のようにうたが流れていた](https://ja.wikipedia.org/wiki/風のようにうたが流れていた "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の第9話（2004年12月6日放送）でも紹介された。なお、CMの撮影は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の全国ツアー終了後、2日間の強行日程で行われたという。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には12センチ・シングルで再発売（シングル「[君との思い出](https://ja.wikipedia.org/wiki/君との思い出 "wikilink")」と同時発売\[1\]）。[ベースと](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")[ドラムが生のものにアレンジ変更された](../Page/ドラムセット.md "wikilink")（ベースは[ネイザン・イースト](../Page/ネイザン・イースト.md "wikilink")、ドラムスは[木村万作](../Page/木村万作.md "wikilink")、[ギター](../Page/ギター.md "wikilink")はマイケル・トンプソン。8cmシングルでのリズム・トラックは[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")によるもの）。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には12センチ・シングルで再発売（シングル「[君との思い出](../Page/君との思い出.md "wikilink")」と同時発売\[1\]）。[ベースと](../Page/ベース_\(弦楽器\).md "wikilink")[ドラムが生のものにアレンジ変更された](../Page/ドラムセット.md "wikilink")（ベースは[ネイザン・イースト](../Page/ネイザン・イースト.md "wikilink")、ドラムスは[木村万作](../Page/木村万作.md "wikilink")、[ギター](../Page/ギター.md "wikilink")はマイケル・トンプソン。8cmシングルでのリズム・トラックは[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")によるもの）。
 
 ## 収録曲
 

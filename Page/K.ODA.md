@@ -1,11 +1,11 @@
 > この記事は[K.ODA](https://ja.wikipedia.org/wiki/K.ODA)から翻訳されています。
 
 
-『**K.ODA**』（ケー・オダ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")にリリースされた[小田和正](../Page/小田和正.md "wikilink")通算1作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**K.ODA**』（ケー・オダ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")にリリースされた[小田和正](../Page/小田和正.md "wikilink")通算1作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-プロデュースとミキサーに[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")時代からの旧知の仲である[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")を迎えて制作された。参加ミュージシャンもドラムに[TOTOの](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")[ジェフ・ポーカロ](https://ja.wikipedia.org/wiki/ジェフ・ポーカロ "wikilink")、ギターに[ダン・ハフ](https://ja.wikipedia.org/wiki/:en:Dann_Huff "wikilink")、ベースに[デヴィッド・ハンゲイト](https://ja.wikipedia.org/wiki/:en:David_Hungate "wikilink")（[TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")）などの一流ミュージシャンを揃えた。
+プロデュースとミキサーに[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")時代からの旧知の仲である[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")を迎えて制作された。参加ミュージシャンもドラムに[TOTOの](../Page/TOTO_\(バンド\).md "wikilink")[ジェフ・ポーカロ](../Page/ジェフ・ポーカロ.md "wikilink")、ギターに[ダン・ハフ](https://ja.wikipedia.org/wiki/:en:Dann_Huff "wikilink")、ベースに[デヴィッド・ハンゲイト](https://ja.wikipedia.org/wiki/:en:David_Hungate "wikilink")（[TOTO](../Page/TOTO_\(バンド\).md "wikilink")）などの一流ミュージシャンを揃えた。
 
 なお、歌詞カードの全曲の歌詞は小田自身の直筆による。
 
@@ -18,11 +18,11 @@
 2.  **冬の二人** - <span style="font-size:90%;">(4:36)</span>\[3\]
       -
         作詞・作曲 ⁄ 小田和正、編曲 ⁄ [Dann Huff](https://ja.wikipedia.org/wiki/:en:Dann_Huff "wikilink") and 小田和正
-3.  **[哀しみを、そのまゝ](https://ja.wikipedia.org/wiki/1985_\(小田和正の曲\) "wikilink")** - <span style="font-size:90%;">(1:55)</span>\[4\]
+3.  **[哀しみを、そのまゝ](../Page/1985_\(小田和正の曲\).md "wikilink")** - <span style="font-size:90%;">(1:55)</span>\[4\]
       -
         作詞・作曲・編曲 ⁄ 小田和正
-        [第一生命](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink")「パスポート21」CMソング。シングル「1985」のカップリング曲。
-4.  **[1985](https://ja.wikipedia.org/wiki/1985_\(小田和正の曲\) "wikilink")** - <span style="font-size:90%;">(6:54)</span>\[5\]
+        [第一生命](../Page/第一生命保険.md "wikilink")「パスポート21」CMソング。シングル「1985」のカップリング曲。
+4.  **[1985](../Page/1985_\(小田和正の曲\).md "wikilink")** - <span style="font-size:90%;">(6:54)</span>\[5\]
       -
         作詞・作曲 ⁄ 小田和正、編曲 ⁄ Dann Huff and 小田和正
         ソロとしてのデビューシングル曲。シングルと違い、イントロなどの長さが異なっている。

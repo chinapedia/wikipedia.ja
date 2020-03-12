@@ -1,7 +1,7 @@
 > この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
 
 
-**Kビジョン**株式会社（旧下松ケーブルビジョン）は、[山口県](../Page/山口県.md "wikilink")[下松市](../Page/下松市.md "wikilink")に本社がある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局。下松市、[光市](https://ja.wikipedia.org/wiki/光市 "wikilink")、[周南市](../Page/周南市.md "wikilink")、[平生町](https://ja.wikipedia.org/wiki/平生町 "wikilink")、[上関町](https://ja.wikipedia.org/wiki/上関町 "wikilink")が出資する[第三セクター](../Page/第三セクター.md "wikilink")である。
+**Kビジョン**株式会社（旧下松ケーブルビジョン）は、[山口県](../Page/山口県.md "wikilink")[下松市](../Page/下松市.md "wikilink")に本社がある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局。下松市、[光市](https://ja.wikipedia.org/wiki/光市 "wikilink")、[周南市](../Page/周南市.md "wikilink")、[平生町](../Page/平生町.md "wikilink")、[上関町](../Page/上関町.md "wikilink")が出資する[第三セクター](../Page/第三セクター.md "wikilink")である。
 
 ## 本社所在地
 
@@ -9,20 +9,20 @@
 
 ## 歴史
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink") 下松ケーブルテレビ株式会社として設立（初代代表取締役社長・山田宏）
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月6日](../Page/2月6日.md "wikilink") 下松ケーブルテレビ株式会社として設立（初代代表取締役社長・山田宏）
   - [1996年](../Page/1996年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") 下松市で開局
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 熊毛町（当時・現在の周南市熊毛地区）で開局
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月](../Page/9月.md "wikilink") 光市で開局
   - [2003年](../Page/2003年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") 大和町（当時・現在の光市の一部）で開局
   - [2003年](../Page/2003年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") 商号をKビジョン株式会社に変更
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") [JC-HITSの利用を開始](https://ja.wikipedia.org/wiki/ジャパン_ケーブルキャスト "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") 地上波のうち、山口県内に系列局がある県外民放局（NNN/NNS・JNN・ANN系列局）のチャンネル番号を変更
+  - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") [JC-HITSの利用を開始](https://ja.wikipedia.org/wiki/ジャパン_ケーブルキャスト "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") 地上波のうち、山口県内に系列局がある県外民放局（NNN/NNS・JNN・ANN系列局）のチャンネル番号を変更
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") 平生町・上関町で開局
 
 ## 役員
 
   - 代表取締役会長　山田正敏
-  - 代表取締役社長　杉田昌士（[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")出身）
+  - 代表取締役社長　杉田昌士（[読売新聞](../Page/読売新聞.md "wikilink")出身）
   - 取締役専務　矢田民也（前・[読売新聞西部本社](https://ja.wikipedia.org/wiki/読売新聞西部本社 "wikilink")編集局次長、読売新聞から出向中）
 
 ## サービスエリア
@@ -41,7 +41,7 @@
 
 ### 平生・上関地区
 
-  - [山口県](../Page/山口県.md "wikilink")[平生町](https://ja.wikipedia.org/wiki/平生町 "wikilink")、[上関町](https://ja.wikipedia.org/wiki/上関町 "wikilink")
+  - [山口県](../Page/山口県.md "wikilink")[平生町](../Page/平生町.md "wikilink")、[上関町](../Page/上関町.md "wikilink")
       -
         2007年8月認可。2008年4月よりサービス開始。
 
@@ -64,11 +64,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山口放送局" title="wikilink">NHK山口</a>・総合</p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">NHK山口</a>・総合</p></td>
 <td><p>NHK教育Eテレ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口朝日放送" title="wikilink">山口朝日放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ山口" title="wikilink">テレビ山口</a></p></td>
+<td><p><a href="../Page/山口朝日放送.md" title="wikilink">山口朝日放送</a></p></td>
+<td><p><a href="../Page/テレビ山口.md" title="wikilink">テレビ山口</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a><br />
 （平生・上関を除く）</p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
@@ -93,9 +93,9 @@
 
 | MHz  | 放送局                                                          |
 | ---- | ------------------------------------------------------------ |
-| 78.4 | [しゅうなんFM](https://ja.wikipedia.org/wiki/エフエム周南 "wikilink")   |
+| 78.4 | [しゅうなんFM](../Page/エフエム周南.md "wikilink")                      |
 | 79.2 | [FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")      |
-| 85.3 | [NHK山口](https://ja.wikipedia.org/wiki/NHK山口放送局 "wikilink")   |
+| 85.3 | [NHK山口](../Page/NHK山口放送局.md "wikilink")                      |
 | 92.3 | [エフエムKRY](https://ja.wikipedia.org/wiki/山口放送#周波数 "wikilink") |
 
 ## 電話サービス
@@ -104,9 +104,9 @@
 
 ## 関連項目
 
-  - [シティーケーブル周南](https://ja.wikipedia.org/wiki/シティーケーブル周南 "wikilink")　周南市徳山・新南陽・鹿野地区で放送を行っている。
-  - [ケーブルテレビ局の一覧](https://ja.wikipedia.org/wiki/ケーブルテレビ局の一覧 "wikilink")
-  - [区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")
+  - [シティーケーブル周南](../Page/シティーケーブル周南.md "wikilink")　周南市徳山・新南陽・鹿野地区で放送を行っている。
+  - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
+  - [区域外再放送](../Page/区域外再放送.md "wikilink")
 
 ## 外部リンク
 

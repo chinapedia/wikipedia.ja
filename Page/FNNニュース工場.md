@@ -7,19 +7,19 @@
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から1987年[3月31日](../Page/3月31日.md "wikilink")までに、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")のローカルニュース番組として深夜に放送された『**ニュース工場一本勝負\!**』を全国ネット化し、『[FNNニュースレポート23:00](../Page/FNNニュースレポート23:00.md "wikilink")』、『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』を統合し、ニュース番組に『プロ野球ニュース』を内包した80分の総合[ニュースワイド番組](../Page/報道番組.md "wikilink")。ただし、週末は70分番組。
 
-タイトルの『FNNニュース工場』は同年7月 - 8月に東京、大阪同時開催で行われた[フジサンケイグループ](https://ja.wikipedia.org/wiki/フジサンケイグループ "wikilink")のコミュニケーションイベント『[夢工場'87](https://ja.wikipedia.org/wiki/コミュニケーションカーニバル_夢工場'87 "wikilink")』に因んだとされている。テーマ音楽を担当したのは[たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink")。
+タイトルの『FNNニュース工場』は同年7月 - 8月に東京、大阪同時開催で行われた[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")のコミュニケーションイベント『[夢工場'87](../Page/コミュニケーションカーニバル_夢工場'87.md "wikilink")』に因んだとされている。テーマ音楽を担当したのは[たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink")。
 
 軟らかいニュース番組を目指していたフジテレビの意向で、ニュース工場は『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』に改題され、僅か半年で『FNNニュース工場』は終了した。同時期に、昼間の『[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")』も『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』に改題され、『[FNN NEWSCOM](../Page/FNN_NEWSCOM.md "wikilink")』放送開始まで平日のニュース番組のタイトルから“**ニュース**”の文字が消えた。
 
 ### ニュース工場一本勝負\!
 
-『プロ野球ニュース』に引き続き30分間、フジテレビおよび[テレビ静岡](../Page/テレビ静岡.md "wikilink")\[1\]のみで放送された深夜のローカルニュース番組で『FNNニュースレポート23:00』の[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")版・姉妹番組。ただし大きなニュースが発生した場合は、スタイルは本番組のまま「報道特別番組」扱いで系列局に臨時ネットされることもあった。この場合、バックの番組ロゴは外されていた。
+『プロ野球ニュース』に引き続き30分間、フジテレビおよび[テレビ静岡](../Page/テレビ静岡.md "wikilink")\[1\]のみで放送された深夜のローカルニュース番組で『FNNニュースレポート23:00』の[関東ローカル](../Page/関東ローカル.md "wikilink")版・姉妹番組。ただし大きなニュースが発生した場合は、スタイルは本番組のまま「報道特別番組」扱いで系列局に臨時ネットされることもあった。この場合、バックの番組ロゴは外されていた。
 
 ## 歴代キャスター
 
 ### ニュース工場一本勝負\!
 
-  - [山川千秋](../Page/山川千秋.md "wikilink")、[阿部知代](https://ja.wikipedia.org/wiki/阿部知代 "wikilink")
+  - [山川千秋](../Page/山川千秋.md "wikilink")、[阿部知代](../Page/阿部知代.md "wikilink")
 
 ### FNNニュース工場
 
@@ -38,8 +38,8 @@
 
 <!-- end list -->
 
-  - ニュース ： [永島信道](../Page/永島信道.md "wikilink") - 『[FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気 "wikilink")』を兼務、『FNNニュースレポート23:30』より再登板。
-  - プロ野球ニュース ： [みのもんた](../Page/みのもんた.md "wikilink")、大島智子（現：[大島さと子](https://ja.wikipedia.org/wiki/大島さと子 "wikilink")。[天気予報](../Page/天気予報.md "wikilink")を兼務）
+  - ニュース ： [永島信道](../Page/永島信道.md "wikilink") - 『[FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")』を兼務、『FNNニュースレポート23:30』より再登板。
+  - プロ野球ニュース ： [みのもんた](../Page/みのもんた.md "wikilink")、大島智子（現：[大島さと子](../Page/大島さと子.md "wikilink")。[天気予報](../Page/天気予報.md "wikilink")を兼務）
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>(YTS)</p></td>
 <td><p>現在はANN系列</p></td>
 <td></td>
@@ -150,7 +150,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野放送" title="wikilink">長野放送</a>(NBS)</p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>(NBS)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,7 +212,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>(OHK)</p></td>
 <td></td>
 <td></td>
@@ -241,7 +241,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ愛媛" title="wikilink">愛媛放送</a>(EBC)</p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a>(EBC)</p></td>
 <td><p>FNN</p></td>
 <td><p>○</p></td>
 <td><p>現・テレビ愛媛</p></td>
@@ -254,11 +254,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>(TNC)</p></td>
 <td><p>FNN</p></td>
 <td><p>○</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/TNCニュース工場" title="wikilink">TNCニュース工場</a>』に改題</p></td>
+<td><p>『<a href="../Page/TNCニュース工場.md" title="wikilink">TNCニュース工場</a>』に改題</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
@@ -283,13 +283,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ宮崎" title="wikilink">テレビ宮崎</a>(UMK)</p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>(UMK)</p></td>
 <td><p>FNN/NNN/ANN</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>(KTS)<br />
 <strong>（金曜日・土曜日のみ）</strong></p></td>
 <td><p>FNN/NNN</p></td>

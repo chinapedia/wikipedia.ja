@@ -3,7 +3,7 @@
 
 **ZTV**（ゼットティヴィ）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")、[和歌山県](../Page/和歌山県.md "wikilink")をエリアとする[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。**株式会社ZTV**が運営している。
 
-かつては、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")でも展開していたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[近鉄ケーブルネットワーク](https://ja.wikipedia.org/wiki/近鉄ケーブルネットワーク "wikilink")（KCN）へ譲渡した。逆に滋賀県では積極的に事業を展開しており、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[滋賀ケーブルネットワーク](https://ja.wikipedia.org/wiki/滋賀ケーブルネットワーク "wikilink")を買収したのち翌年に同社を吸収合併し、同県最大のCATV事業者となった。
+かつては、[奈良県](../Page/奈良県.md "wikilink")でも展開していたが、[2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[近鉄ケーブルネットワーク](../Page/近鉄ケーブルネットワーク.md "wikilink")（KCN）へ譲渡した。逆に滋賀県では積極的に事業を展開しており、[2007年](../Page/2007年.md "wikilink")に[滋賀ケーブルネットワーク](../Page/滋賀ケーブルネットワーク.md "wikilink")を買収したのち翌年に同社を吸収合併し、同県最大のCATV事業者となった。
 
 ## 歴史
 
@@ -11,12 +11,12 @@
   - [1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 開局。
   - [2000年](../Page/2000年.md "wikilink") - 「**ゼットティヴィ**」に。
   - [2002年](../Page/2002年.md "wikilink") - 現社名（「**ZTV**」）に変更。ZTVの"Z"は、「津」の音読み「ツ」が[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")のZで表記出来ることから（[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")→MAZDAなど）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 奈良県内の事業を近鉄ケーブルネットワークへ譲渡。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月1日](../Page/2月1日.md "wikilink") - 三重県内のうち鳥羽志摩エリアの事業を[アイティービー](https://ja.wikipedia.org/wiki/アイティービー "wikilink")（iTV）へ譲渡。
-  - 2007年[10月26日](../Page/10月26日.md "wikilink") - [東レ](https://ja.wikipedia.org/wiki/東レ "wikilink")と[富士通](../Page/富士通.md "wikilink")からそれぞれ保有する「[滋賀ケーブルネットワーク](https://ja.wikipedia.org/wiki/滋賀ケーブルネットワーク "wikilink")」の全株式を譲り受け、同社を子会社化することが決定する。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - [滋賀ケーブルネットワーク](https://ja.wikipedia.org/wiki/滋賀ケーブルネットワーク "wikilink")を吸収合併。
-  - 2008年[7月1日](../Page/7月1日.md "wikilink") - [近江八幡ケーブルネットワーク](https://ja.wikipedia.org/wiki/近江八幡ケーブルネットワーク "wikilink")を吸収合併。
-  - 2014年[4月1日](../Page/4月1日.md "wikilink") - [アイティービー](https://ja.wikipedia.org/wiki/アイティービー "wikilink")を吸収合併。
+  - [2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 奈良県内の事業を近鉄ケーブルネットワークへ譲渡。
+  - [2007年](../Page/2007年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - 三重県内のうち鳥羽志摩エリアの事業を[アイティービー](../Page/アイティービー.md "wikilink")（iTV）へ譲渡。
+  - 2007年[10月26日](../Page/10月26日.md "wikilink") - [東レ](../Page/東レ.md "wikilink")と[富士通](../Page/富士通.md "wikilink")からそれぞれ保有する「[滋賀ケーブルネットワーク](../Page/滋賀ケーブルネットワーク.md "wikilink")」の全株式を譲り受け、同社を子会社化することが決定する。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [滋賀ケーブルネットワーク](../Page/滋賀ケーブルネットワーク.md "wikilink")を吸収合併。
+  - 2008年[7月1日](../Page/7月1日.md "wikilink") - [近江八幡ケーブルネットワーク](../Page/近江八幡ケーブルネットワーク.md "wikilink")を吸収合併。
+  - 2014年[4月1日](../Page/4月1日.md "wikilink") - [アイティービー](../Page/アイティービー.md "wikilink")を吸収合併。
 
 ## サービスエリア
 
@@ -25,7 +25,7 @@
 #### 津広域・亀山地域
 
   - [津市](../Page/津市.md "wikilink")
-  - [松阪市](../Page/松阪市.md "wikilink")（旧[嬉野町](https://ja.wikipedia.org/wiki/嬉野町_\(三重県\) "wikilink")）
+  - [松阪市](../Page/松阪市.md "wikilink")（旧[嬉野町](../Page/嬉野町_\(三重県\).md "wikilink")）
   - [亀山市](https://ja.wikipedia.org/wiki/亀山市 "wikilink")
 
 #### 東紀州地域
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   - [尾鷲市](https://ja.wikipedia.org/wiki/尾鷲市 "wikilink")
-  - [北牟婁郡](../Page/北牟婁郡.md "wikilink")[紀北町](https://ja.wikipedia.org/wiki/紀北町 "wikilink")
+  - [北牟婁郡](../Page/北牟婁郡.md "wikilink")[紀北町](../Page/紀北町.md "wikilink")
 
 <!-- end list -->
 
@@ -45,34 +45,34 @@
 
   - [熊野市](../Page/熊野市.md "wikilink")
   - [南牟婁郡](../Page/南牟婁郡.md "wikilink")[御浜町](https://ja.wikipedia.org/wiki/御浜町 "wikilink")
-  - [南牟婁郡](../Page/南牟婁郡.md "wikilink")[紀宝町](https://ja.wikipedia.org/wiki/紀宝町 "wikilink")
+  - [南牟婁郡](../Page/南牟婁郡.md "wikilink")[紀宝町](../Page/紀宝町.md "wikilink")
 
 #### 伊勢放送局管内（旧・アイティービー）
 
   - [伊勢市](../Page/伊勢市.md "wikilink")
   - [鳥羽市](../Page/鳥羽市.md "wikilink")
-  - [志摩市](https://ja.wikipedia.org/wiki/志摩市 "wikilink")（旧[磯部町](https://ja.wikipedia.org/wiki/磯部町 "wikilink")）
-  - [度会郡](../Page/度会郡.md "wikilink")[玉城町](https://ja.wikipedia.org/wiki/玉城町 "wikilink")
-  - 度会郡[度会町](https://ja.wikipedia.org/wiki/度会町 "wikilink")
-  - 度会郡[南伊勢町](https://ja.wikipedia.org/wiki/南伊勢町 "wikilink")
+  - [志摩市](../Page/志摩市.md "wikilink")（旧[磯部町](https://ja.wikipedia.org/wiki/磯部町 "wikilink")）
+  - [度会郡](../Page/度会郡.md "wikilink")[玉城町](../Page/玉城町.md "wikilink")
+  - 度会郡[度会町](../Page/度会町.md "wikilink")
+  - 度会郡[南伊勢町](../Page/南伊勢町.md "wikilink")
 
 ### 滋賀県
 
 #### 彦根放送局管内
 
   - [彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink") （一部地域のみ）
-  - [長浜市](https://ja.wikipedia.org/wiki/長浜市 "wikilink")（旧長浜市の一部地域、旧びわ町、旧虎姫町、旧湖北町を除く）
-  - [米原市](https://ja.wikipedia.org/wiki/米原市 "wikilink")（旧[米原町](https://ja.wikipedia.org/wiki/米原町 "wikilink")、[旧山東町](https://ja.wikipedia.org/wiki/旧山東町_\(滋賀県\) "wikilink")、[旧伊吹町](https://ja.wikipedia.org/wiki/伊吹町 "wikilink")、[旧近江町](https://ja.wikipedia.org/wiki/近江町 "wikilink")）
-  - [高島市](https://ja.wikipedia.org/wiki/高島市 "wikilink")（旧[朽木村](https://ja.wikipedia.org/wiki/朽木村 "wikilink")）
+  - [長浜市](../Page/長浜市.md "wikilink")（旧長浜市の一部地域、旧びわ町、旧虎姫町、旧湖北町を除く）
+  - [米原市](../Page/米原市.md "wikilink")（旧[米原町](../Page/米原町.md "wikilink")、[旧山東町](https://ja.wikipedia.org/wiki/旧山東町_\(滋賀県\) "wikilink")、[旧伊吹町](../Page/伊吹町.md "wikilink")、[旧近江町](../Page/近江町.md "wikilink")）
+  - [高島市](../Page/高島市.md "wikilink")（旧[朽木村](../Page/朽木村.md "wikilink")）
 
 #### 滋賀放送局管内（旧・滋賀ケーブルネットワーク）
 
   - [大津市](../Page/大津市.md "wikilink")
   - [草津市](../Page/草津市.md "wikilink")
   - [守山市](../Page/守山市.md "wikilink")
-  - [栗東市](https://ja.wikipedia.org/wiki/栗東市 "wikilink")
-  - [野洲市](https://ja.wikipedia.org/wiki/野洲市 "wikilink")
-  - [湖南市](https://ja.wikipedia.org/wiki/湖南市 "wikilink")
+  - [栗東市](../Page/栗東市.md "wikilink")
+  - [野洲市](../Page/野洲市.md "wikilink")
+  - [湖南市](../Page/湖南市.md "wikilink")
 
 #### 滋賀放送局近江八幡支局管内（旧・近江八幡ケーブルネットワーク）
 
@@ -82,23 +82,23 @@
 
 #### 新宮広域地域
 
-  - [新宮市](../Page/新宮市.md "wikilink")（旧新宮市、[熊野川町](https://ja.wikipedia.org/wiki/熊野川町 "wikilink")）
-  - [田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")（旧[本宮町](https://ja.wikipedia.org/wiki/本宮町_\(和歌山県\) "wikilink")）
+  - [新宮市](../Page/新宮市.md "wikilink")（旧新宮市、[熊野川町](../Page/熊野川町.md "wikilink")）
+  - [田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")（旧[本宮町](../Page/本宮町_\(和歌山県\).md "wikilink")）
   - [東牟婁郡](../Page/東牟婁郡.md "wikilink")[串本町](../Page/串本町.md "wikilink")
   - [東牟婁郡](../Page/東牟婁郡.md "wikilink")[那智勝浦町](../Page/那智勝浦町.md "wikilink")
   - [東牟婁郡](../Page/東牟婁郡.md "wikilink")[太地町](../Page/太地町.md "wikilink")
-  - [東牟婁郡](../Page/東牟婁郡.md "wikilink")[古座川町](https://ja.wikipedia.org/wiki/古座川町 "wikilink")
+  - [東牟婁郡](../Page/東牟婁郡.md "wikilink")[古座川町](../Page/古座川町.md "wikilink")
   - [東牟婁郡](../Page/東牟婁郡.md "wikilink")[北山村](https://ja.wikipedia.org/wiki/北山村 "wikilink")
 
 #### 日高郡3町地域
 
-  - [日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高町](https://ja.wikipedia.org/wiki/日高町_\(和歌山県\) "wikilink")
-  - [日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[由良町](https://ja.wikipedia.org/wiki/由良町 "wikilink")
-  - [日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高川町](https://ja.wikipedia.org/wiki/日高川町 "wikilink")
+  - [日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高町](../Page/日高町_\(和歌山県\).md "wikilink")
+  - [日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[由良町](../Page/由良町.md "wikilink")
+  - [日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高川町](../Page/日高川町.md "wikilink")
 
 ## 主な放送チャンネル
 
-*大津放送局エリアは[滋賀ケーブルネットワーク](https://ja.wikipedia.org/wiki/滋賀ケーブルネットワーク "wikilink")を、同近江八幡支局エリアは[近江八幡ケーブルネットワーク](https://ja.wikipedia.org/wiki/近江八幡ケーブルネットワーク "wikilink")を参照の事*
+*大津放送局エリアは[滋賀ケーブルネットワーク](../Page/滋賀ケーブルネットワーク.md "wikilink")を、同近江八幡支局エリアは[近江八幡ケーブルネットワーク](../Page/近江八幡ケーブルネットワーク.md "wikilink")を参照の事*
 
 ### 地上波系列別再送信局
 
@@ -121,8 +121,8 @@
 <td><p>三重</p></td>
 <td><p>津広域<br />
 亀山</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK津放送局" title="wikilink">NHK津</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK名古屋放送局" title="wikilink">NHK名古屋</a></p></td>
+<td><p><a href="../Page/NHK津放送局.md" title="wikilink">NHK津</a></p></td>
+<td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">NHK名古屋</a></p></td>
 <td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
 <td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">メ〜テレ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">CBCテレビ</a></p></td>
@@ -143,11 +143,11 @@
 <tr class="odd">
 <td><p>紀南</p></td>
 <td><p>NHK津<br />
-<a href="https://ja.wikipedia.org/wiki/NHK和歌山放送局" title="wikilink">NHK和歌山</a></p></td>
+<a href="../Page/NHK和歌山放送局.md" title="wikilink">NHK和歌山</a></p></td>
 <td><p>中京テレビ<br />
 <a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a></p></td>
 <td><p>メ〜テレ<br />
-<a href="https://ja.wikipedia.org/wiki/朝日放送テレビ" title="wikilink">朝日放送テレビ</a></p></td>
+<a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a></p></td>
 <td><p>CBCテレビ<br />
 <a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a></p></td>
 <td></td>
@@ -159,8 +159,8 @@
 </tr>
 <tr class="even">
 <td><p>滋賀（彦根局）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK大津放送局" title="wikilink">NHK大津</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK大阪放送局" title="wikilink">NHK大阪</a></p></td>
+<td><p><a href="../Page/NHK大津放送局.md" title="wikilink">NHK大津</a><br />
+<a href="../Page/NHK大阪放送局.md" title="wikilink">NHK大阪</a></p></td>
 <td><p>NHK大阪</p></td>
 <td><p>読売テレビ</p></td>
 <td><p>朝日放送テレビ</p></td>
@@ -217,12 +217,12 @@
 <tr class="even">
 <td><p><del>9</del></p></td>
 <td><p>D021</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK名古屋放送局" title="wikilink">NHK名古屋</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">Eテレ</a></p></td>
+<td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">NHK名古屋</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><del>3</del></p></td>
 <td><p>D031</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK津放送局" title="wikilink">NHK津</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p><a href="../Page/NHK津放送局.md" title="wikilink">NHK津</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 </tr>
 <tr class="even">
 <td><p><del>7</del></p></td>
@@ -299,19 +299,19 @@
 
 #### 滋賀（彦根放送局エリア）
 
-| アナログ   | デジタル      | 放送局                                                          |
-| ------ | --------- | ------------------------------------------------------------ |
-| ~~2~~  | D011      | [NHK大津総合](https://ja.wikipedia.org/wiki/NHK大津放送局 "wikilink") |
-| ~~1~~  | D011-1    | [NHK大阪総合](https://ja.wikipedia.org/wiki/NHK大阪放送局 "wikilink") |
-| ~~12~~ | D021      | NHK大阪Eテレ                                                     |
-| ~~3~~  | D031      | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                         |
-| ~~4~~  | D041      | 毎日放送                                                         |
-| ~~9~~  | D5（D051）  | [KBS京都](../Page/京都放送.md "wikilink")                          |
-| ~~6~~  | D061      | 朝日放送テレビ                                                      |
-| ~~8~~  | D081      | 関西テレビ                                                        |
-| ~~10~~ | D101      | 読売テレビ                                                        |
-| ~~5~~  | D112      | 行政チャンネル（地域により異なる）                                            |
-| ~~11~~ | D11（D111） | コミュニティチャンネル（地域により異なる）                                        |
+| アナログ   | デジタル      | 放送局                                       |
+| ------ | --------- | ----------------------------------------- |
+| ~~2~~  | D011      | [NHK大津総合](../Page/NHK大津放送局.md "wikilink") |
+| ~~1~~  | D011-1    | [NHK大阪総合](../Page/NHK大阪放送局.md "wikilink") |
+| ~~12~~ | D021      | NHK大阪Eテレ                                  |
+| ~~3~~  | D031      | [びわ湖放送](../Page/びわ湖放送.md "wikilink")      |
+| ~~4~~  | D041      | 毎日放送                                      |
+| ~~9~~  | D5（D051）  | [KBS京都](../Page/京都放送.md "wikilink")       |
+| ~~6~~  | D061      | 朝日放送テレビ                                   |
+| ~~8~~  | D081      | 関西テレビ                                     |
+| ~~10~~ | D101      | 読売テレビ                                     |
+| ~~5~~  | D112      | 行政チャンネル（地域により異なる）                         |
+| ~~11~~ | D11（D111） | コミュニティチャンネル（地域により異なる）                     |
 
 #### 和歌山
 
@@ -331,93 +331,93 @@
 
 全県共通である
 
-| アナログ   | デジタル        | 放送局                                                                  |
-| ------ | ----------- | -------------------------------------------------------------------- |
-| ~~20~~ | BS101       | [NHK BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")          |
-| ~~21~~ | BS103       | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")  |
-|        | BS141 - 143 | [BS日テレ](../Page/BS日本.md "wikilink")                                  |
-|        | BS151 - 153 | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")              |
-|        | BS161 - 163 | [BS-TBS](../Page/BS-TBS.md "wikilink")                               |
-|        | BS171 - 173 | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                               |
-|        | BS181 - 183 | [BSフジ](../Page/BSフジ.md "wikilink")                                   |
-|        | BS191 - 193 | [WOWOW](../Page/WOWOW.md "wikilink")                                 |
-|        | BS200 - 202 | [スター・チャンネル](https://ja.wikipedia.org/wiki/スター・チャンネル "wikilink")      |
-|        | BS211       | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")              |
-|        | BS222       | [TwellV](https://ja.wikipedia.org/wiki/ワールド・ハイビジョン・チャンネル "wikilink") |
+| アナログ   | デジタル        | 放送局                                                                 |
+| ------ | ----------- | ------------------------------------------------------------------- |
+| ~~20~~ | BS101       | [NHK BS1](../Page/NHK_BS1.md "wikilink")                            |
+| ~~21~~ | BS103       | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink") |
+|        | BS141 - 143 | [BS日テレ](../Page/BS日本.md "wikilink")                                 |
+|        | BS151 - 153 | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")             |
+|        | BS161 - 163 | [BS-TBS](../Page/BS-TBS.md "wikilink")                              |
+|        | BS171 - 173 | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                              |
+|        | BS181 - 183 | [BSフジ](../Page/BSフジ.md "wikilink")                                  |
+|        | BS191 - 193 | [WOWOW](../Page/WOWOW.md "wikilink")                                |
+|        | BS200 - 202 | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")                        |
+|        | BS211       | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")             |
+|        | BS222       | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                   |
 
 ### CSデジタルテレビ局
 
-| デジタル | 放送局                                                                               |
-| ---- | --------------------------------------------------------------------------------- |
-| 122  | [ムービープラス](https://ja.wikipedia.org/wiki/ムービープラス "wikilink")HD                     |
-| 123  | [女性チャンネル♪LaLa TV（HD）](https://ja.wikipedia.org/wiki/LaLa_TV "wikilink")           |
-| 124  | [スーパー\!ドラマTV HD](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")             |
-| 125  | [日本映画専門チャンネル](https://ja.wikipedia.org/wiki/日本映画専門チャンネル "wikilink")HD             |
-| 126  | [アジアドラマチックTV★HD](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")     |
-| 134  | [ヒストリーチャンネル HD](https://ja.wikipedia.org/wiki/ヒストリーチャンネル "wikilink")™             |
-| 136  | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")HD                                      |
-| 137  | [フジテレビNEXT ライブ・プレミアム（HD）](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")     |
-| 138  | [フジテレビONE スポーツ・バラエティ（HD）](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")      |
-| 139  | [フジテレビTWO ドラマ・アニメ（HD）](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")         |
-| 168  | [J SPORTS 1（HD）](../Page/J_SPORTS.md "wikilink")                                  |
-| 169  | [J SPORTS 2（HD）](../Page/J_SPORTS.md "wikilink")                                  |
-| 210  | [J SPORTS 3](../Page/J_SPORTS.md "wikilink")                                      |
-| 211  | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")                                     |
-| 212  | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                           |
-| 215  | [J SPORTS 4](../Page/J_SPORTS.md "wikilink")                                      |
-| 217  | [ゴルフネットワーク](https://ja.wikipedia.org/wiki/ゴルフネットワーク "wikilink")                   |
-| 218  | [日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")                           |
-| 222  | [チャンネルNECO](https://ja.wikipedia.org/wiki/チャンネルNECO "wikilink")                   |
-| 223  | [V☆パラダイス](https://ja.wikipedia.org/wiki/V☆パラダイス "wikilink")                       |
-| 224  | [イマジカBS](https://ja.wikipedia.org/wiki/IMAGICA_BS "wikilink")                     |
-| 225  | [東映チャンネル](https://ja.wikipedia.org/wiki/東映チャンネル "wikilink")                       |
-| 226  | [衛星劇場](https://ja.wikipedia.org/wiki/衛星劇場 "wikilink")                             |
-| 230  | [ファミリー劇場](https://ja.wikipedia.org/wiki/ファミリー劇場 "wikilink")                       |
-| 232  | [AXN](https://ja.wikipedia.org/wiki/AXN "wikilink")                               |
-| 234  | [時代劇専門チャンネル](https://ja.wikipedia.org/wiki/時代劇専門チャンネル "wikilink")                 |
-| 236  | [アニマルプラネット](https://ja.wikipedia.org/wiki/アニマルプラネット "wikilink")                   |
-| 241  | [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink")                         |
-| 242  | [キッズステーション](https://ja.wikipedia.org/wiki/キッズステーション "wikilink")                   |
-| 244  | [アニメシアターX](../Page/アニメシアターX.md "wikilink")（AT-X）                                  |
-| 246  | [ホームドラマチャンネル](https://ja.wikipedia.org/wiki/ホームドラマチャンネル "wikilink")               |
-| 250  | [CNNj](https://ja.wikipedia.org/wiki/CNNj "wikilink")                             |
-| 251  | [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")                         |
-| 252  | [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")                   |
-| 256  | [ディスカバリーチャンネル](https://ja.wikipedia.org/wiki/ディスカバリーチャンネル "wikilink")             |
-| 258  | [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")                                        |
-| 260  | [ミュージック・エア](https://ja.wikipedia.org/wiki/ミュージック・エア "wikilink")                   |
-| 261  | [MUSIC ON\! TV（エムオン\!）](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")    |
-| 263  | [MTV](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")                           |
-| 264  | [歌謡ポップスチャンネル](https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル "wikilink")               |
-| 266  | [クラシカ・ジャパン](https://ja.wikipedia.org/wiki/クラシカ・ジャパン "wikilink")                   |
-| 270  | [囲碁・将棋チャンネル](https://ja.wikipedia.org/wiki/囲碁・将棋チャンネル "wikilink")                 |
-| 271  | [ショップチャンネル](https://ja.wikipedia.org/wiki/ショップチャンネル "wikilink")                   |
-| 272  | [QVC](https://ja.wikipedia.org/wiki/QVC "wikilink")                               |
-| 274  | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")テレビ                          |
-| 275  | [大人の趣味と生活向上◆アクトオンTV](https://ja.wikipedia.org/wiki/大人の趣味と生活向上◆アクトオンTV "wikilink") |
-| 276  | [釣りビジョン](https://ja.wikipedia.org/wiki/釣りビジョン "wikilink")                         |
-| 278  | [食と旅のフーディーズTV](https://ja.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")             |
-| 280  | [MONDO TV](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")                     |
-| 285  | [グリーンチャンネル](https://ja.wikipedia.org/wiki/グリーンチャンネル "wikilink")（東日本）              |
-| 286  | [グリーンチャンネル](https://ja.wikipedia.org/wiki/グリーンチャンネル "wikilink")2（西日本）             |
-| 287  | [レジャーチャンネル](https://ja.wikipedia.org/wiki/日本レジャーチャンネル "wikilink")                 |
-| 288  | [SPEEDチャンネル](https://ja.wikipedia.org/wiki/SPEEDチャンネル "wikilink")                 |
-| 290  | [プレイボーイ チャンネル](https://ja.wikipedia.org/wiki/プレイボーイチャンネル "wikilink")              |
-| 291  | [チャンネル・ルビー](https://ja.wikipedia.org/wiki/チャンネル・ルビー "wikilink")                   |
-| 292  | [レインボーチャンネル](https://ja.wikipedia.org/wiki/レインボーチャンネル "wikilink")                 |
-| 293  | [ミッドナイト・ブルー](https://ja.wikipedia.org/wiki/MIDNIGHT_BLUE_\(チャンネル\) "wikilink")    |
-| 294  | ピンクチェリー                                                                           |
-| 295  | [パラダイステレビ](https://ja.wikipedia.org/wiki/パラダイステレビ "wikilink")                     |
-| 301  | [KBS World](https://ja.wikipedia.org/wiki/韓国放送公社#日本での聴取方法 "wikilink")             |
-| 302  | [Mnet](https://ja.wikipedia.org/wiki/Mnet "wikilink")                             |
-|      |                                                                                   |
+| デジタル | 放送局                                                                            |
+| ---- | ------------------------------------------------------------------------------ |
+| 122  | [ムービープラス](../Page/ムービープラス.md "wikilink")HD                                     |
+| 123  | [女性チャンネル♪LaLa TV（HD）](../Page/LaLa_TV.md "wikilink")                           |
+| 124  | [スーパー\!ドラマTV HD](../Page/スーパー!ドラマTV.md "wikilink")                             |
+| 125  | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")HD                             |
+| 126  | [アジアドラマチックTV★HD](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")  |
+| 134  | [ヒストリーチャンネル HD](../Page/ヒストリーチャンネル.md "wikilink")™                             |
+| 136  | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")HD                                   |
+| 137  | [フジテレビNEXT ライブ・プレミアム（HD）](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")  |
+| 138  | [フジテレビONE スポーツ・バラエティ（HD）](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")   |
+| 139  | [フジテレビTWO ドラマ・アニメ（HD）](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")      |
+| 168  | [J SPORTS 1（HD）](../Page/J_SPORTS.md "wikilink")                               |
+| 169  | [J SPORTS 2（HD）](../Page/J_SPORTS.md "wikilink")                               |
+| 210  | [J SPORTS 3](../Page/J_SPORTS.md "wikilink")                                   |
+| 211  | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")                                  |
+| 212  | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                        |
+| 215  | [J SPORTS 4](../Page/J_SPORTS.md "wikilink")                                   |
+| 217  | [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")                                   |
+| 218  | [日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")                        |
+| 222  | [チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                   |
+| 223  | [V☆パラダイス](https://ja.wikipedia.org/wiki/V☆パラダイス "wikilink")                    |
+| 224  | [イマジカBS](https://ja.wikipedia.org/wiki/IMAGICA_BS "wikilink")                  |
+| 225  | [東映チャンネル](../Page/東映チャンネル.md "wikilink")                                       |
+| 226  | [衛星劇場](../Page/衛星劇場.md "wikilink")                                             |
+| 230  | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                       |
+| 232  | [AXN](../Page/AXN.md "wikilink")                                               |
+| 234  | [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")                                 |
+| 236  | [アニマルプラネット](../Page/アニマルプラネット.md "wikilink")                                   |
+| 241  | [アニマックス](../Page/アニマックス.md "wikilink")                                         |
+| 242  | [キッズステーション](../Page/キッズステーション.md "wikilink")                                   |
+| 244  | [アニメシアターX](../Page/アニメシアターX.md "wikilink")（AT-X）                               |
+| 246  | [ホームドラマチャンネル](../Page/ホームドラマチャンネル.md "wikilink")                               |
+| 250  | [CNNj](../Page/CNNj.md "wikilink")                                             |
+| 251  | [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")                      |
+| 252  | [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")                |
+| 256  | [ディスカバリーチャンネル](../Page/ディスカバリーチャンネル.md "wikilink")                             |
+| 258  | [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")                                     |
+| 260  | [ミュージック・エア](../Page/ミュージック・エア.md "wikilink")                                   |
+| 261  | [MUSIC ON\! TV（エムオン\!）](../Page/MUSIC_ON!_TV.md "wikilink")                    |
+| 263  | [MTV](../Page/MTVジャパン.md "wikilink")                                           |
+| 264  | [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")                               |
+| 266  | [クラシカ・ジャパン](../Page/クラシカ・ジャパン.md "wikilink")                                   |
+| 270  | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")                                 |
+| 271  | [ショップチャンネル](../Page/ショップチャンネル.md "wikilink")                                   |
+| 272  | [QVC](../Page/QVC.md "wikilink")                                               |
+| 274  | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")テレビ                       |
+| 275  | [大人の趣味と生活向上◆アクトオンTV](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")                 |
+| 276  | [釣りビジョン](../Page/釣りビジョン.md "wikilink")                                         |
+| 278  | [食と旅のフーディーズTV](../Page/食と旅のフーディーズTV.md "wikilink")                             |
+| 280  | [MONDO TV](../Page/MONDO_TV.md "wikilink")                                     |
+| 285  | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")（東日本）                              |
+| 286  | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")2（西日本）                             |
+| 287  | [レジャーチャンネル](../Page/日本レジャーチャンネル.md "wikilink")                                 |
+| 288  | [SPEEDチャンネル](../Page/SPEEDチャンネル.md "wikilink")                                 |
+| 290  | [プレイボーイ チャンネル](../Page/プレイボーイチャンネル.md "wikilink")                              |
+| 291  | [チャンネル・ルビー](https://ja.wikipedia.org/wiki/チャンネル・ルビー "wikilink")                |
+| 292  | [レインボーチャンネル](../Page/レインボーチャンネル.md "wikilink")                                 |
+| 293  | [ミッドナイト・ブルー](https://ja.wikipedia.org/wiki/MIDNIGHT_BLUE_\(チャンネル\) "wikilink") |
+| 294  | ピンクチェリー                                                                        |
+| 295  | [パラダイステレビ](../Page/パラダイステレビ.md "wikilink")                                     |
+| 301  | [KBS World](https://ja.wikipedia.org/wiki/韓国放送公社#日本での聴取方法 "wikilink")          |
+| 302  | [Mnet](../Page/Mnet.md "wikilink")                                             |
+|      |                                                                                |
 
 ### 注記
 
-  - デジタルTVは[日本デジタル配信](https://ja.wikipedia.org/wiki/日本デジタル配信 "wikilink")を使用している。
+  - デジタルTVは[日本デジタル配信](../Page/日本デジタル配信.md "wikilink")を使用している。
   - 地上デジタル放送はパススルー方式のため、セットトップボックスなしでも地上デジタル対応テレビまたはチューナーであれば視聴可能
   - TXN系列について
-      - 三重県のうち津広域・亀山地域ではテレビ愛知のデジタルTVの[区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")を実施している。
+      - 三重県のうち津広域・亀山地域ではテレビ愛知のデジタルTVの[区域外再放送](../Page/区域外再放送.md "wikilink")を実施している。
       - それ以外の三重県（東紀州<紀南>）、および滋賀県、和歌山県においては、テレビ愛知・テレビ大阪のデジタルTVは[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")が区域外再放送原則禁止しているため区域外再放送は行っていない。加えてアナログ放送（デジアナ変換も含む）についても、地理的な条件により受信できる状態でない地域があることや、和歌山県では[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")が区域外再放送の前提となるテレビ大阪のケーブルテレビ再配信の同意をしていないため、再配信することができなかった（滋賀県ではテレビ大阪についてはアナログのみ配信されていた）
       - ただし、テレビ愛知については岐阜県・三重県へのデジタルテレビ放送区域外再放送に同意を示している。もちろんZTV自身は区域外再放送をアナログ同様に実施したい意向である。
 
@@ -480,11 +480,11 @@
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [区域外再放送](https://ja.wikipedia.org/wiki/区域外再放送 "wikilink")
-  - [電気通信事業者協会](https://ja.wikipedia.org/wiki/電気通信事業者協会 "wikilink")
+  - [区域外再放送](../Page/区域外再放送.md "wikilink")
+  - [電気通信事業者協会](../Page/電気通信事業者協会.md "wikilink")
   - [アットネットホーム](https://ja.wikipedia.org/wiki/アットネットホーム "wikilink")
   - [日本のIP電話](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")
-  - [日本インターネットエクスチェンジ](https://ja.wikipedia.org/wiki/日本インターネットエクスチェンジ "wikilink")
+  - [日本インターネットエクスチェンジ](../Page/日本インターネットエクスチェンジ.md "wikilink")
 
 ## 外部リンク
 

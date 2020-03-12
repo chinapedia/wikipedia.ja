@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-『**NHKモーニングワイド**』（エヌエイチケイ モーニングワイド）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")4月4日まで放送された[NHK総合テレビの](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。総合テレビのほか、[BS2でも試験放送の時代から放送されていた](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")。
+『**NHKモーニングワイド**』（エヌエイチケイ モーニングワイド）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")4月4日まで放送された[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。総合テレビのほか、[BS2でも試験放送の時代から放送されていた](../Page/NHK衛星第2テレビジョン.md "wikilink")。
 
 ## 概要
 
-それまでに放送していた『**[NHKニュースワイド](../Page/NHKニュースワイド.md "wikilink")**』と6時台に放送していた情報番組『[にっぽん列島あさいちばん](https://ja.wikipedia.org/wiki/にっぽん列島あさいちばん "wikilink")』を統合、6:00 - 8:15に時間枠を延長して誕生した。時間帯については前番組の『にっぽん列島-』と『ニュースワイド』を踏襲している。当時、民放初の大型夜ニュース『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系）が画期的な注目を集めていた頃に放送開始され、同番組のNHK朝のニュース版としても放送されていた。しかし、こちらは放送当時、平日と土曜日の放送時間が朝6時から8時15分であったため、アナウンサーがニュースを伝える姿勢を断固的に貫き通していた。
+それまでに放送していた『**[NHKニュースワイド](../Page/NHKニュースワイド.md "wikilink")**』と6時台に放送していた情報番組『[にっぽん列島あさいちばん](../Page/にっぽん列島あさいちばん.md "wikilink")』を統合、6:00 - 8:15に時間枠を延長して誕生した。時間帯については前番組の『にっぽん列島-』と『ニュースワイド』を踏襲している。当時、民放初の大型夜ニュース『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）が画期的な注目を集めていた頃に放送開始され、同番組のNHK朝のニュース版としても放送されていた。しかし、こちらは放送当時、平日と土曜日の放送時間が朝6時から8時15分であったため、アナウンサーがニュースを伝える姿勢を断固的に貫き通していた。
 
 ### セットについて
 
@@ -19,57 +19,57 @@
 
 各地の放送局発による地域ニュース枠も毎時設定され、平日の7時台では朝7時半から7時50分の20分編成で放送されていた。以下は各局のタイトル：
 
-:\*[札幌局](https://ja.wikipedia.org/wiki/NHK札幌放送局 "wikilink") - 『北海道モーニングワイド』
+:\*[札幌局](../Page/NHK札幌放送局.md "wikilink") - 『北海道モーニングワイド』
 
-:\*[秋田局](https://ja.wikipedia.org/wiki/NHK秋田放送局 "wikilink") - 『モーニングワイドあきた』
+:\*[秋田局](../Page/NHK秋田放送局.md "wikilink") - 『モーニングワイドあきた』
 
-:\*[盛岡局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink") - 『モーニングワイドいわて』
+:\*[盛岡局](../Page/NHK盛岡放送局.md "wikilink") - 『モーニングワイドいわて』
 
-:\*[仙台局](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink") - 『モーニングワイドみやぎ』
+:\*[仙台局](../Page/NHK仙台放送局.md "wikilink") - 『モーニングワイドみやぎ』
 
-:\*[福島局](https://ja.wikipedia.org/wiki/NHK福島放送局 "wikilink") - 『モーニングワイド福島』
+:\*[福島局](../Page/NHK福島放送局.md "wikilink") - 『モーニングワイド福島』
 
-:\*[首都圏](https://ja.wikipedia.org/wiki/NHK放送センター "wikilink") - 『NHKモーニングワイド首都圏』
+:\*[首都圏](../Page/NHK放送センター.md "wikilink") - 『NHKモーニングワイド首都圏』
 
-:\*[甲府局](https://ja.wikipedia.org/wiki/NHK甲府放送局 "wikilink") - 『モーニングワイドやまなし』
+:\*[甲府局](../Page/NHK甲府放送局.md "wikilink") - 『モーニングワイドやまなし』
 
-:\*[新潟局](https://ja.wikipedia.org/wiki/NHK新潟放送局 "wikilink") - 『モーニングワイドにいがた』
+:\*[新潟局](../Page/NHK新潟放送局.md "wikilink") - 『モーニングワイドにいがた』
 
-:\*[長野局](https://ja.wikipedia.org/wiki/NHK長野放送局 "wikilink") - 『モーニングワイドながの』→『モーニングワイド信州』
+:\*[長野局](../Page/NHK長野放送局.md "wikilink") - 『モーニングワイドながの』→『モーニングワイド信州』
 
-:\*[静岡局](https://ja.wikipedia.org/wiki/NHK静岡放送局 "wikilink") - 『NHKモーニングワイドしずおか』
+:\*[静岡局](../Page/NHK静岡放送局.md "wikilink") - 『NHKモーニングワイドしずおか』
 
-:\*[名古屋局](https://ja.wikipedia.org/wiki/NHK名古屋放送局 "wikilink") - 『NHKモーニングワイド東海』\[1\]
+:\*[名古屋局](../Page/NHK名古屋放送局.md "wikilink") - 『NHKモーニングワイド東海』\[1\]
 
-:\*[富山局](https://ja.wikipedia.org/wiki/NHK富山放送局 "wikilink") - 『モーニングワイド富山』
+:\*[富山局](../Page/NHK富山放送局.md "wikilink") - 『モーニングワイド富山』
 
-:\*[大阪局](https://ja.wikipedia.org/wiki/NHK大阪放送局 "wikilink") - 『NHKモーニングワイドきんき』
+:\*[大阪局](../Page/NHK大阪放送局.md "wikilink") - 『NHKモーニングワイドきんき』
 
-:\*[岡山局](https://ja.wikipedia.org/wiki/NHK岡山放送局 "wikilink") - 『岡山モーニングワイド』
+:\*[岡山局](../Page/NHK岡山放送局.md "wikilink") - 『岡山モーニングワイド』
 
-:\*[広島局](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink") - 『モーニングワイドひろしま』
+:\*[広島局](../Page/NHK広島放送局.md "wikilink") - 『モーニングワイドひろしま』
 
-:\*[松山局](https://ja.wikipedia.org/wiki/NHK松山放送局 "wikilink") - 『モーニングワイドえひめ』・『土曜ワイド四国』
+:\*[松山局](../Page/NHK松山放送局.md "wikilink") - 『モーニングワイドえひめ』・『土曜ワイド四国』
 
 :\*[高松局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink") - 『モーニングワイドかがわ』
 
-:\*[徳島局](https://ja.wikipedia.org/wiki/NHK徳島放送局 "wikilink") - 『モーニングワイドとくしま』
+:\*[徳島局](../Page/NHK徳島放送局.md "wikilink") - 『モーニングワイドとくしま』
 
-:\*[高知局](https://ja.wikipedia.org/wiki/NHK高知放送局 "wikilink") - 『モーニングワイドこうち』
+:\*[高知局](../Page/NHK高知放送局.md "wikilink") - 『モーニングワイドこうち』
 
-:\*[福岡局](https://ja.wikipedia.org/wiki/NHK福岡放送局 "wikilink") - 『モーニングワイド福岡』・『モーニングワイド九州沖縄』
+:\*[福岡局](../Page/NHK福岡放送局.md "wikilink") - 『モーニングワイド福岡』・『モーニングワイド九州沖縄』
 
-:\*[宮崎局](https://ja.wikipedia.org/wiki/NHK宮崎放送局 "wikilink") - 『モーニングワイド宮崎』
+:\*[宮崎局](../Page/NHK宮崎放送局.md "wikilink") - 『モーニングワイド宮崎』
 
-:\*[鹿児島局](https://ja.wikipedia.org/wiki/NHK鹿児島放送局 "wikilink") - 『NHKモーニングワイド鹿児島』
+:\*[鹿児島局](../Page/NHK鹿児島放送局.md "wikilink") - 『NHKモーニングワイド鹿児島』
 
-1991年4月より、平日の地域ニュース枠は7時40分からのスタートに繰り下げられる\[2\]。土曜版については、7時台の後半の地域パートを拡大した放送スタイルをNHK各地の拠点局が制作する「ウィークエンド○○（ブロックエリア名）」を放送していた。（例：名古屋局制作の中部7県向け『[ウィークエンド中部](https://ja.wikipedia.org/wiki/ウィークエンド中部 "wikilink")』など）このスタイルは、後番組『[NHKニュースおはよう日本](https://ja.wikipedia.org/wiki/NHKニュースおはよう日本 "wikilink")』の土曜日放送分が始まっても継続して放送が続けられている。
+1991年4月より、平日の地域ニュース枠は7時40分からのスタートに繰り下げられる\[2\]。土曜版については、7時台の後半の地域パートを拡大した放送スタイルをNHK各地の拠点局が制作する「ウィークエンド○○（ブロックエリア名）」を放送していた。（例：名古屋局制作の中部7県向け『[ウィークエンド中部](https://ja.wikipedia.org/wiki/ウィークエンド中部 "wikilink")』など）このスタイルは、後番組『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』の土曜日放送分が始まっても継続して放送が続けられている。
 
-1991年4月からは、それまで放送されていた『[NHKおはようサンデー](https://ja.wikipedia.org/wiki/NHKおはようサンデー "wikilink")』を吸収した『**NHKモーニングワイド・サンデー**』（7:00 - 7:50）を開始。最後の残り5分間は各地の放送局からの地域ニュース枠であったが、それにも関わらず各地の放送局は「NHKニュース　終」の字幕表示を送出して厳かに終了していた。
+1991年4月からは、それまで放送されていた『[NHKおはようサンデー](../Page/NHKおはようサンデー.md "wikilink")』を吸収した『**NHKモーニングワイド・サンデー**』（7:00 - 7:50）を開始。最後の残り5分間は各地の放送局からの地域ニュース枠であったが、それにも関わらず各地の放送局は「NHKニュース　終」の字幕表示を送出して厳かに終了していた。
 
-この時東京では7時45分からも引き続き「モーニングワイド」を放送していたが、その際[宮川泰夫](https://ja.wikipedia.org/wiki/宮川泰夫 "wikilink")キャスターがローカルニュースに差し替える各地の放送局の視聴者に配慮して「時刻は間もなく7時45分になります、お近くの放送局からお伝えします」と促し、7時45分になると同時に「それでは、関東地方のニュースです」と言ってから関東地方のニュースを伝えてエンディングを迎えていた。ただし近畿2府4県では7:45までの全国パートのみで終了し、『[サンデーワイドきんき](https://ja.wikipedia.org/wiki/サンデーワイドきんき "wikilink")』、九州地方では『[サンデー九州](https://ja.wikipedia.org/wiki/サンデー九州 "wikilink")』に接続）を開始。以後、後番組『おはよう日本』の前身となり、年末年始を除く全曜日対応帯番組となった。
+この時東京では7時45分からも引き続き「モーニングワイド」を放送していたが、その際[宮川泰夫](../Page/宮川泰夫.md "wikilink")キャスターがローカルニュースに差し替える各地の放送局の視聴者に配慮して「時刻は間もなく7時45分になります、お近くの放送局からお伝えします」と促し、7時45分になると同時に「それでは、関東地方のニュースです」と言ってから関東地方のニュースを伝えてエンディングを迎えていた。ただし近畿2府4県では7:45までの全国パートのみで終了し、『[サンデーワイドきんき](https://ja.wikipedia.org/wiki/サンデーワイドきんき "wikilink")』、九州地方では『[サンデー九州](https://ja.wikipedia.org/wiki/サンデー九州 "wikilink")』に接続）を開始。以後、後番組『おはよう日本』の前身となり、年末年始を除く全曜日対応帯番組となった。
 
-[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")（BS2）では、一時期7:30からの拠点局製作の番組を週替わりのローテーションで放送したことがあった。
+[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2）では、一時期7:30からの拠点局製作の番組を週替わりのローテーションで放送したことがあった。
 
 ## 出演者
 
@@ -94,30 +94,30 @@
 <tr class="even">
 <td><p>1988.4.4</p></td>
 <td><p>1989.4.1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/和田郁夫" title="wikilink">和田郁夫</a><sup>6</sup><br />
-<a href="https://ja.wikipedia.org/wiki/桜井洋子" title="wikilink">桜井洋子</a><sup>1</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川端義明" title="wikilink">川端義明</a><br />
+<td><p><a href="../Page/和田郁夫.md" title="wikilink">和田郁夫</a><sup>6</sup><br />
+<a href="../Page/桜井洋子.md" title="wikilink">桜井洋子</a><sup>1</sup></p></td>
+<td><p><a href="../Page/川端義明.md" title="wikilink">川端義明</a><br />
 <a href="../Page/宮崎緑.md" title="wikilink">宮崎緑</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1989.4.3</p></td>
 <td><p>1990.3.31</p></td>
 <td><p>川端義明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松平定知" title="wikilink">松平定知</a><br />
-<a href="https://ja.wikipedia.org/wiki/上田早苗" title="wikilink">上田早苗</a></p></td>
+<td><p><a href="../Page/松平定知.md" title="wikilink">松平定知</a><br />
+<a href="../Page/上田早苗.md" title="wikilink">上田早苗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1990.4.2</p></td>
 <td><p>1991.3.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮田修" title="wikilink">宮田修</a><br />
+<td><p><a href="../Page/宮田修.md" title="wikilink">宮田修</a><br />
 上田早苗</p></td>
 <td><p>石澤典夫</p></td>
 </tr>
 <tr class="odd">
 <td><p>1991.4.1</p></td>
 <td><p>1991.5.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤淳_(NHKアナウンサー)" title="wikilink">佐藤淳</a><br />
-<a href="https://ja.wikipedia.org/wiki/草野満代" title="wikilink">草野満代</a><sup>6</sup></p></td>
+<td><p><a href="../Page/佐藤淳_(NHKアナウンサー).md" title="wikilink">佐藤淳</a><br />
+<a href="../Page/草野満代.md" title="wikilink">草野満代</a><sup>6</sup></p></td>
 <td><p>松平定知<sup>7</sup><br />
 草野満代<sup>6</sup></p></td>
 </tr>
@@ -131,16 +131,16 @@
 <tr class="odd">
 <td><p>不明</p></td>
 <td><p>1992.3.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黒沢保裕" title="wikilink">黒沢保裕</a><br />
+<td><p><a href="../Page/黒沢保裕.md" title="wikilink">黒沢保裕</a><br />
 草野満代<sup>6</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1992.3.30</p></td>
 <td><p>1993.4.4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下信" title="wikilink">山下信</a><br />
+<td><p><a href="../Page/山下信.md" title="wikilink">山下信</a><br />
 草野満代<sup>6</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/末田正雄" title="wikilink">末田正雄</a><br />
+<td><p><a href="../Page/末田正雄.md" title="wikilink">末田正雄</a><br />
 小谷真生子<sup>6</sup></p></td>
 </tr>
 <tr class="odd">
@@ -164,7 +164,7 @@
 
 ### 道路交通情報（関東ローカル枠）
 
-関東ローカル枠の6:58頃と7:32頃東京[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[九段](https://ja.wikipedia.org/wiki/九段 "wikilink")の千代田会館1Fにある財団法人[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")の九段センターと専用の中継回線で繋ぎ、九段センターのキャスターが首都圏の道路交通情報を伝えた（後番組の『おはよう日本』でも放送）。BS放送にもそのまま放送されていた。
+関東ローカル枠の6:58頃と7:32頃東京[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[九段](../Page/九段.md "wikilink")の千代田会館1Fにある財団法人[日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")の九段センターと専用の中継回線で繋ぎ、九段センターのキャスターが首都圏の道路交通情報を伝えた（後番組の『おはよう日本』でも放送）。BS放送にもそのまま放送されていた。
 
 **男性**
 
@@ -184,7 +184,7 @@
   - [土屋良江](https://ja.wikipedia.org/wiki/土屋良江 "wikilink")
   - [済藤亮子](https://ja.wikipedia.org/wiki/済藤亮子 "wikilink")（旧姓：吉沢）
   - [谷崎朋子](https://ja.wikipedia.org/wiki/谷崎朋子 "wikilink")
-  - 吉澤ひとみ（旧姓：岡部、退社、元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")所属のタレント・歌手の[吉澤ひとみ](https://ja.wikipedia.org/wiki/吉澤ひとみ "wikilink")とは同姓同名の別人）
+  - 吉澤ひとみ（旧姓：岡部、退社、元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")所属のタレント・歌手の[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")とは同姓同名の別人）
   - 鈴木裕子（退社）
   - [西山久美子](https://ja.wikipedia.org/wiki/西山久美子 "wikilink")（退社）
   - [干場裕子](https://ja.wikipedia.org/wiki/干場裕子 "wikilink")（退社）
@@ -215,7 +215,7 @@
   - 4代目（1991年4月1日 - 1992年3月29日） - テーマ曲は変更なく、ロゴのみ三代目に変更
   - 5代目（1992年3月30日 - 1993年4月4日）
 
-なお、日曜朝6時、『NHKおはようサンデー』開始以前の日曜朝7時の『[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")』でも同一のテーマ曲が使用された。
+なお、日曜朝6時、『NHKおはようサンデー』開始以前の日曜朝7時の『[NHKニュース](../Page/NHKニュース.md "wikilink")』でも同一のテーマ曲が使用された。
 
 ## 脚注
 

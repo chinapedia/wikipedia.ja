@@ -1,15 +1,15 @@
 > この記事は[DAM \(\)](https://ja.wikipedia.org/wiki/DAM_\(\))から翻訳されています。
 
 
-**DAM**（ダム、**Daiichikosho Amusement Multimedia**）は、[第一興商](../Page/第一興商.md "wikilink")が運用する業務用[通信カラオケ](https://ja.wikipedia.org/wiki/通信カラオケ "wikilink")のシリーズの総称。
+**DAM**（ダム、**Daiichikosho Amusement Multimedia**）は、[第一興商](../Page/第一興商.md "wikilink")が運用する業務用[通信カラオケ](../Page/通信カラオケ.md "wikilink")のシリーズの総称。
 
 ## 概要
 
 [thumbに設置されたDAMのセット](https://ja.wikipedia.org/wiki/ファイル:Daiichikosho_DAM-XG5000_in_Karamatsu.jpg "wikilink")（DAM-XG5000・付属機器を含む）\]\]
 
-1994年発売開始と[通信カラオケ](https://ja.wikipedia.org/wiki/通信カラオケ "wikilink")としては比較的後発であるが、1996年3月までに業界シェア首位の地位を確立し\[1\]、それ以降現在まで一貫して業界首位である\[2\]\[3\]。
+1994年発売開始と[通信カラオケ](../Page/通信カラオケ.md "wikilink")としては比較的後発であるが、1996年3月までに業界シェア首位の地位を確立し\[1\]、それ以降現在まで一貫して業界首位である\[2\]\[3\]。
 
-「[JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")」や「[UGA](https://ja.wikipedia.org/wiki/UGA_\(カラオケ\) "wikilink")」など他機種に比べて洋楽の配信数が多いのが特徴であるが、全体の配信曲数では少なく、特定ジャンルやマイナー楽曲には若干弱い面もある。それでも2017年10月時点で、最新機種の「LIVE DAM STADIUM」シリーズで約23万3000曲を配信しており、JOYSOUNDが得意とする[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")の楽曲を原作としたアレンジ曲、[ボーカロイド曲の拡充も進んでいる](https://ja.wikipedia.org/wiki/VOCALOID "wikilink")。
+「[JOYSOUND](../Page/JOYSOUND.md "wikilink")」や「[UGA](../Page/UGA_\(カラオケ\).md "wikilink")」など他機種に比べて洋楽の配信数が多いのが特徴であるが、全体の配信曲数では少なく、特定ジャンルやマイナー楽曲には若干弱い面もある。それでも2017年10月時点で、最新機種の「LIVE DAM STADIUM」シリーズで約23万3000曲を配信しており、JOYSOUNDが得意とする[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")の楽曲を原作としたアレンジ曲、[ボーカロイド曲の拡充も進んでいる](../Page/VOCALOID.md "wikilink")。
 
 2010年（平成22年）8月31日をもって[ISDN](../Page/ISDN.md "wikilink")回線経由での配信サービスを終了、ISDN回線ではセンター接続・楽曲演奏などの全サービスが受けられなくなった。ISDN回線で利用していた顧客が再びDAMを利用するためには、ブロードバンドまたはアナログ回線への変更が必要となる。
 
@@ -27,12 +27,12 @@
     「ハモルン」、「ダブリン」を過度に使用すると外部機械に異常が発生し、採点ができなくなることが多々あった。
   - DAM-6400III
     [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発売。スタンダードDAM-6400シリーズの最終型となった。デザインを一新、前面からハードディスクの換装を可能にしメンテナンス性は向上したが、それ以外は無印・IIに比べてこれと言って特筆する点がなく、逆に入出力系統が貧弱になったことで、利便性が格段に悪くなった。さらに同業他社の多曲化や映像の強化が進んだことで、それに対抗しうる新機種（後のDAM-G128となる）の開発が急務となったことで短命に終わった。
-      - なお、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の「[アゲハ蝶](https://ja.wikipedia.org/wiki/アゲハ蝶 "wikilink")」等一部の楽曲はDAM-6400シリーズ用に短くカットされ、本来の曲の長さ（フルコーラス）の2/3程度で[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")されて終了する。設定による「2コーラスフェードアウト」と違って配信データそのものが削られており、DAM-6400シリーズの配信寿命を延ばす措置のひとつとされる。
+      - なお、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の「[アゲハ蝶](../Page/アゲハ蝶.md "wikilink")」等一部の楽曲はDAM-6400シリーズ用に短くカットされ、本来の曲の長さ（フルコーラス）の2/3程度で[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")されて終了する。設定による「2コーラスフェードアウト」と違って配信データそのものが削られており、DAM-6400シリーズの配信寿命を延ばす措置のひとつとされる。
       - DAM-6400シリーズについては、配信曲の厳選・データ削減（先述）・一部コンテンツ廃止といった「技術的な延命措置」が取られたが、仕様上の管理曲数（ディスク容量）が限界に達したことから、DAM-6400と6400IIは2006年9月1日、DAM-6400IIIは2008年9月25日をもって新曲配信を終了。カラオケサービスはいずれも2013年1月31日をもって終了したため、使用不可能。
   - DAM-G128
     1998年発売。[DVD](../Page/DVD.md "wikilink")対応・音源性能向上など先代6400シリーズから大幅に機能強化、DAMの業界トップの座がより固いものとなった。
     新音源は744音色（トーン）を搭載し最大同時発音数128和音に対応（型番のG128はここからきている）。新音源専用楽曲も追加された（一部曲のみ・**REAL128**と表示〈現在は**良音**〉）。この音源はcyber DAMシリーズ以降の機種でも使用されており（G30・G70・Party DAM Vを除く）、DAMシリーズのMIDI音源の完成形といえる。
-    動画はDVDを採用し、一部の曲は演奏中に本人出演映像が表示される。本人出演映像・[PVの数は](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、DAMシリーズで3番目に多い2826本にのぼる。主に第一興商のLDカラオケソフト「LPCシリーズ」からの移植で、この機種でしか見ることのできない映像も多い。
+    動画はDVDを採用し、一部の曲は演奏中に本人出演映像が表示される。本人出演映像・[PVの数は](../Page/ミュージック・ビデオ.md "wikilink")、DAMシリーズで3番目に多い2826本にのぼる。主に第一興商のLDカラオケソフト「LPCシリーズ」からの移植で、この機種でしか見ることのできない映像も多い。
     また、「[DAM DDR](https://ja.wikipedia.org/wiki/DanceDanceRevolution "wikilink")」などカラオケを盛り上げるG128向けの周辺機器群も開発・発売された。
     修理受付は2009年8月、新曲配信は2011年8月に終了。カラオケサービスは2013年1月31日をもって終了したため、使用不可能。
 
@@ -40,14 +40,14 @@
 
   - DAM-G50/ - S
     [2000年](../Page/2000年.md "wikilink")10月発売。システムや楽曲はもちろん、DAM-G128以前はディスクチェンジャーからピックアップしていた動画 (BGV) データもすべて[ハードディスクに集約](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（システムディスク20GB+BGVディスク30GB×2基=計3基・80GB）、リクエスト受付から演奏開始までのタイムラグが劇的に短縮された（公称最短3秒）。さらにプリアンプも本体に内蔵し、別売のパワーアンプを含めてもG128から大幅な小型化を果たした。また「選曲」など機能毎に複数あったリモコンも1台に統合した。
-    前面に大型FLディスプレイを搭載、現在の演奏曲・予約曲を確認したり、[CMを流すことが出来る](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。音源の同時発音数などコマンダー部分の基本性能はG128を継承。
-    搭載動画とボディーカラーの違いで、デイ市場（主に[カラオケボックス](https://ja.wikipedia.org/wiki/カラオケボックス "wikilink")）向けのBL（ブルー）とナイト市場（主に[居酒屋](https://ja.wikipedia.org/wiki/居酒屋 "wikilink")・[ホテル](../Page/ホテル.md "wikilink")）向けのRD（レッド）がある。採点などの一部コンテンツに違いがあるが、設定変更によってRDでもBLの採点・コンテンツに切り替えられ、その逆（BLでRDのコンテンツ利用）も可能。ボディーカラーが統一されたG100以降の機種でも、デイ市場・ナイト市場仕様の相互切り替えができる。
+    前面に大型FLディスプレイを搭載、現在の演奏曲・予約曲を確認したり、[CMを流すことが出来る](../Page/コマーシャルメッセージ.md "wikilink")。音源の同時発音数などコマンダー部分の基本性能はG128を継承。
+    搭載動画とボディーカラーの違いで、デイ市場（主に[カラオケボックス](../Page/カラオケボックス.md "wikilink")）向けのBL（ブルー）とナイト市場（主に[居酒屋](../Page/居酒屋.md "wikilink")・[ホテル](../Page/ホテル.md "wikilink")）向けのRD（レッド）がある。採点などの一部コンテンツに違いがあるが、設定変更によってRDでもBLの採点・コンテンツに切り替えられ、その逆（BLでRDのコンテンツ利用）も可能。ボディーカラーが統一されたG100以降の機種でも、デイ市場・ナイト市場仕様の相互切り替えができる。
     一部の曲には本人出演映像があるが、その数はDAMシリーズ最少の150曲前後で、さらに現在（少なくとも2008年1月以降）は回線を利用した本人映像・PVの追加は行われていない。またアーティストを連想させる[CDジャケット](https://ja.wikipedia.org/wiki/CDジャケット "wikilink")写真を表示することのできる楽曲も登場するが、こちらも対応楽曲の数は決して多いとは言えない。
     また、声量・歌唱時間・演奏時間・テンポなどの歌唱情報と有名大学医学部やフィットネスクラブでの実験で得られた基礎データを組み合わせて消費カロリーを計算し、演奏終了（中止）後に表示する「カロリーカラオケ」が追加された。
     修理受付はG50が2010年3月、G50Sが2010年9月をもって終了しており、両機種とも2012年9月に新曲配信終了。カラオケサービスは2017年1月末で終了したため使用不可能。
   - DAM-G50II (NEW cyber DAM)
     [2002年](../Page/2002年.md "wikilink")10月発売。基本性能は「DAM-G50」と同じだが、**DAMシリーズでは初めて[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")回線端子（100BASE-TX）を標準搭載**し、G50では3基に分散していたシステムディスクとBGVディスクを80GB[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")1基に統合した上で、同容量HDDを2基搭載した[RAID1システム](https://ja.wikipedia.org/wiki/RAID#RAID_1:_二重化_（ミラーリング） "wikilink")（第一興商は障害をサービスセンターに自動報告する機能と合わせてSASと命名）を実装して耐障害性向上を図るなど、堅実な機能強化がなされている。
-    またソフトウェア面においても、G50の弱点だった本人出演映像の増強に加え、[アニメ](../Page/アニメ.md "wikilink")・[特撮](../Page/特撮.md "wikilink")のオリジナル映像の追加が行われている。また、[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")回線対応によってPV映像や[CMを流すことも可能で](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")時代を見越した機種となっている。他にも演奏開始時の画面左上部への各種情報表示（原曲キー・ガイドボーカル対応など）や、練習向け採点機能「The うたれん」が追加された。
+    またソフトウェア面においても、G50の弱点だった本人出演映像の増強に加え、[アニメ](../Page/アニメ.md "wikilink")・[特撮](../Page/特撮.md "wikilink")のオリジナル映像の追加が行われている。また、[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")回線対応によってPV映像や[CMを流すことも可能で](../Page/コマーシャルメッセージ.md "wikilink")、[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")時代を見越した機種となっている。他にも演奏開始時の画面左上部への各種情報表示（原曲キー・ガイドボーカル対応など）や、練習向け採点機能「The うたれん」が追加された。
     G50同様、デイ市場向けのBL（プラチナブルー）とナイト市場向けのRD（プレシャスレッド）の2モデルをリリース。本人映像・PVの数はブロードバンド回線で780曲前後、ナローバンド接続で500曲である。
     修理受付は2011年8月、新曲配信は2013年8月に終了。カラオケサービスは2018年1月末で終了したため使用不可能。
 
@@ -56,13 +56,13 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Dai-ichi-Ko-Sho_DAM_DAM-G100.jpg "wikilink")
 
   - DAM-G100
-    [2003年](../Page/2003年.md "wikilink")10月発売。NEW cyber DAMをベースに大幅な機能強化を施し、ブロードバンド環境に完全対応した。cyber DAMシリーズの全曲が選択可能。さらに[ハードディスクの大容量化](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（160GB×2基・RAID1により実効容量は160GB）により、歌手本人の出演映像が大幅に追加収録された。また、標準搭載の[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")回線端子 (100BASE-TX) と本体の性能向上によって、従来はダウンロード時間や本体の性能不足から困難であった動画配信や実演奏音源（一部曲のみ、**生音演奏**という）の配信が可能になり、PV映像やCMも放映されるようになった。採点機能では新たに「**[精密採点](https://ja.wikipedia.org/wiki/精密採点 "wikilink")**」を追加。2004年度グッドデザイン賞を受賞した。[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink")転写対応楽曲などを追加。
+    [2003年](../Page/2003年.md "wikilink")10月発売。NEW cyber DAMをベースに大幅な機能強化を施し、ブロードバンド環境に完全対応した。cyber DAMシリーズの全曲が選択可能。さらに[ハードディスクの大容量化](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（160GB×2基・RAID1により実効容量は160GB）により、歌手本人の出演映像が大幅に追加収録された。また、標準搭載の[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")回線端子 (100BASE-TX) と本体の性能向上によって、従来はダウンロード時間や本体の性能不足から困難であった動画配信や実演奏音源（一部曲のみ、**生音演奏**という）の配信が可能になり、PV映像やCMも放映されるようになった。採点機能では新たに「**[精密採点](../Page/精密採点.md "wikilink")**」を追加。2004年度グッドデザイン賞を受賞した。[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink")転写対応楽曲などを追加。
     また、ブロードバンド情報端末『[DAMステーション](https://ja.wikipedia.org/wiki/#DAMステーション "wikilink")』に対応。[ランキングバトルなど](https://ja.wikipedia.org/wiki/#ランキングバトル "wikilink")、会員制サービス『club DAM MEMBERSHIP』向け各種コンテンツに対応した。
     本人映像・PVの数はブロードバンド回線で3700曲前後、ナローバンド回線で2400曲前後と、当時として他社の追随を許さない数であった。
     後継機種である「Premier DAM」登場以降も並行して設置し続ける店舗が多かったが、発売から10年以上経過し、更なる後継機種（LIVEDAMシリーズ）の登場もあり、2018年現在の稼働台数はほとんど存在しない。
     修理受付は2015年2月終了。2018年8月末で新譜配信終了。
   - DAM-G100F1/ - F2 (BB cyber DAM f-stage)
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月発売。本体・大型平面ディスプレイ・アンプ・スピーカー・周辺機器ラックをすべて一体化した、据置型の業務用通信カラオケシステムとしては業界初かつ唯一のオールインワンモデル（2011年現在）。本体の基本性能は「DAM-G100」を継承（一部強化）。800GBの[ハードディスクを標準搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（400GB×2基・RAID1により実効容量は400GB）、拡張ベイに3基目を積むことで1.2TB以上の記憶容量を搭載可能（業界初）。また奥行き20cmのスマートボディに、[DAMステーション最大](https://ja.wikipedia.org/wiki/#DAMステーション "wikilink")2台と専用プリンターを一度に収納可能。
+    [2005年](../Page/2005年.md "wikilink")4月発売。本体・大型平面ディスプレイ・アンプ・スピーカー・周辺機器ラックをすべて一体化した、据置型の業務用通信カラオケシステムとしては業界初かつ唯一のオールインワンモデル（2011年現在）。本体の基本性能は「DAM-G100」を継承（一部強化）。800GBの[ハードディスクを標準搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（400GB×2基・RAID1により実効容量は400GB）、拡張ベイに3基目を積むことで1.2TB以上の記憶容量を搭載可能（業界初）。また奥行き20cmのスマートボディに、[DAMステーション最大](https://ja.wikipedia.org/wiki/#DAMステーション "wikilink")2台と専用プリンターを一度に収納可能。
     また2系統のマイク入力を別個に処理できる採点エンジンを備え、それを活かした「精密採点デュエット」が搭載されている。後継機種のPremier DAM以降には搭載されず、f-stageシリーズでしか楽しめないレアコンテンツとなっていた。LIVE DAM STADIUMに「精密採点DXデュエット」が搭載され、デュエットによる採点が復活した。
     45インチ[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を装備した「DAM-G100F1」と、42インチ[PDP](https://ja.wikipedia.org/wiki/PDP "wikilink")（プラズマ）ディスプレイを装備した「DAM-G100F2」の2モデルが用意されている。ベースとなったBB cyber DAM (DAM-G100) に続き、2005年度グッドデザイン賞を受賞した。
     ちなみにf-stageの『f』には、"flat"（平面:フラットボディ・オールインワン）・"fortissimo"（大容量:3基で1.2TB以上搭載可能な[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")）・"future"（先進的:ブロードバンド・DAMステーション対応）の意味が込められている。
@@ -75,11 +75,11 @@
 [PremierDAM.JPG](https://ja.wikipedia.org/wiki/File:PremierDAM.JPG "fig:PremierDAM.JPG")
 
   -
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月発売。黒を基調としたボディカラーで、本体前面にはFLディスプレイに代わって7インチ[液晶](../Page/液晶.md "wikilink")モニターを装備。1.5TB[ハードディスクを初期搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（750GB×2基・RAID1により実効容量は750GB）。発売時の配信曲数は8万7000曲以上（発売から1年後の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月に10万曲を突破）。月間配信曲数は1000曲以上。
-    「**[精密採点](https://ja.wikipedia.org/wiki/精密採点 "wikilink")II**」や「LIVEカラオケ」など多くの限定コンテンツを新たに搭載。歌った曲をその場でCD録音\[5\]して持ち帰れる\[6\]。また、「**[DAM★とも](https://ja.wikipedia.org/wiki/DAM★とも "wikilink")**」のサービス開始により、条件付きながら歌った曲を録音し、WEB上で公開できるようになった。
-    他にも、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")放送を受信するワンセグチューナーや、持参した[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")の音楽や[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")内の写真を再生・表示するメディアインターフェースドックなど各種オプション機器を接続することで、様々な機能拡張が可能（業務用カラオケ機器で初）。ただし利用できるのは店舗によって一部限りがある。
-    本人映像・PVの数はブロードバンド回線で4100曲前後、ナローバンド回線で3500曲前後となっており、さらに一部楽曲に使われている本人映像・PVは同機種用に（[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")形式で）エンコードし直してある。
-    プロモーションに[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")を起用。コンテンツの企画・開発では映像・番組制作に[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")、音楽ジュークボックス「**JUQUest**」に[ソニー・ミュージックコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックコミュニケーションズ "wikilink")と提携する。
+    [2007年](../Page/2007年.md "wikilink")4月発売。黒を基調としたボディカラーで、本体前面にはFLディスプレイに代わって7インチ[液晶](../Page/液晶.md "wikilink")モニターを装備。1.5TB[ハードディスクを初期搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（750GB×2基・RAID1により実効容量は750GB）。発売時の配信曲数は8万7000曲以上（発売から1年後の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月に10万曲を突破）。月間配信曲数は1000曲以上。
+    「**[精密採点](../Page/精密採点.md "wikilink")II**」や「LIVEカラオケ」など多くの限定コンテンツを新たに搭載。歌った曲をその場でCD録音\[5\]して持ち帰れる\[6\]。また、「**[DAM★とも](https://ja.wikipedia.org/wiki/DAM★とも "wikilink")**」のサービス開始により、条件付きながら歌った曲を録音し、WEB上で公開できるようになった。
+    他にも、[ワンセグ](../Page/ワンセグ.md "wikilink")放送を受信するワンセグチューナーや、持参した[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")の音楽や[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")内の写真を再生・表示するメディアインターフェースドックなど各種オプション機器を接続することで、様々な機能拡張が可能（業務用カラオケ機器で初）。ただし利用できるのは店舗によって一部限りがある。
+    本人映像・PVの数はブロードバンド回線で4100曲前後、ナローバンド回線で3500曲前後となっており、さらに一部楽曲に使われている本人映像・PVは同機種用に（[H.264](../Page/H.264.md "wikilink")形式で）エンコードし直してある。
+    プロモーションに[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")を起用。コンテンツの企画・開発では映像・番組制作に[MTVジャパン](../Page/MTVジャパン.md "wikilink")、音楽ジュークボックス「**JUQUest**」に[ソニー・ミュージックコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックコミュニケーションズ "wikilink")と提携する。
     テロップのフォントが変更されたが、旧来のフォントの字幅に合わせてあるため、一部文字の幅が狭まって表示される。
     修理受付は2019年5月終了。
   - DAM-XG1000II
@@ -91,8 +91,8 @@
 
   - DAM-XG5000
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月20日発売。ボディカラーは黒のみで、本体前面にはタッチパネル式の8.5インチワイド[液晶](../Page/液晶.md "wikilink")モニターを装備。4TB[ハードディスク初期搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（2TB×2基・RAID1により実効容量は2TB）。発売時の配信曲数は約13万5000曲。
-    グラフィック性能が強化されてフルHD（1920x1080ドット）動画再生に対応。また標準搭載のヤマハ製[VDP](https://ja.wikipedia.org/wiki/VDP "wikilink")「GP-1S」によって、カラー化・アニメーションなど情報表示の表現も多彩になった。演奏開始時画面左上に「LIVE DAM」と表示されるほか見えるガイドメロディ（以下ピアノロール）を表示しているときは楽曲の音域も表示される。テロップのフォントも太い明朝体のものに変更された。画面を4:3から16:9にしたことによりPremier DAMシリーズで発生した一部文字が細くなる現象が解決し、1行あたりの文字数も増加し\[7\]一部の2行にわたる歌詞が1行にまとめられ、さらにテロップ特大・大・標準・小表示も搭載したことで精密採点のピアノロールと字幕テロップが被ることを回避できるようになった。デュエットによる色分けにおいてPremier DAM以前と同様に青が♠、ピンクが♥、緑が♣、オレンジが♦だが、一部の曲において♣がマークの色がオレンジで文字の色がピンクがあったが、今回から全曲統一させるためマークやテロップの色が緑色に変更になった。またデンモク機能を本体に統合、楽曲検索など各種操作が液晶モニターのタッチ操作によって利用可能になった。代わりにPremier DAMシリーズまで搭載されていたハードウェア式の番号ボタンは廃止され、番号予約も液晶モニターのタッチ操作で行うことになる。
-    三世代目の精密採点「**[精密採点](https://ja.wikipedia.org/wiki/精密採点 "wikilink")DX**（デラックス）」をはじめ、「美川憲一のアンタ、歌えんの！？」「YOUR STORY〜あなたの歌が物語を決める〜」「シンプル採点」などのゲームが新たに追加。また「完唱！歌いきりまショー！！」と「カラオケ紅白歌合戦」がLIVE DAM用バージョンに更新された。一方でII以前の精密採点や、G128・cyber DAMシリーズ時代からあった旧世代の採点ゲームが軒並み姿を消した。
+    グラフィック性能が強化されてフルHD（1920x1080ドット）動画再生に対応。また標準搭載のヤマハ製[VDP](../Page/VDP.md "wikilink")「GP-1S」によって、カラー化・アニメーションなど情報表示の表現も多彩になった。演奏開始時画面左上に「LIVE DAM」と表示されるほか見えるガイドメロディ（以下ピアノロール）を表示しているときは楽曲の音域も表示される。テロップのフォントも太い明朝体のものに変更された。画面を4:3から16:9にしたことによりPremier DAMシリーズで発生した一部文字が細くなる現象が解決し、1行あたりの文字数も増加し\[7\]一部の2行にわたる歌詞が1行にまとめられ、さらにテロップ特大・大・標準・小表示も搭載したことで精密採点のピアノロールと字幕テロップが被ることを回避できるようになった。デュエットによる色分けにおいてPremier DAM以前と同様に青が♠、ピンクが♥、緑が♣、オレンジが♦だが、一部の曲において♣がマークの色がオレンジで文字の色がピンクがあったが、今回から全曲統一させるためマークやテロップの色が緑色に変更になった。またデンモク機能を本体に統合、楽曲検索など各種操作が液晶モニターのタッチ操作によって利用可能になった。代わりにPremier DAMシリーズまで搭載されていたハードウェア式の番号ボタンは廃止され、番号予約も液晶モニターのタッチ操作で行うことになる。
+    三世代目の精密採点「**[精密採点](../Page/精密採点.md "wikilink")DX**（デラックス）」をはじめ、「美川憲一のアンタ、歌えんの！？」「YOUR STORY〜あなたの歌が物語を決める〜」「シンプル採点」などのゲームが新たに追加。また「完唱！歌いきりまショー！！」と「カラオケ紅白歌合戦」がLIVE DAM用バージョンに更新された。一方でII以前の精密採点や、G128・cyber DAMシリーズ時代からあった旧世代の採点ゲームが軒並み姿を消した。
   - DAM-XG5000G (LIVE DAM GOLD EDITION)
     [2012年](../Page/2012年.md "wikilink")10月17日発売。DAM-XG5000のマイナーチェンジモデル。ボディカラーは金のみ。基本機能・コンテンツなどはXG5000とほぼ同等だが、5TB[ハードディスク初期搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（2TB+3TB・RAID1により実効容量は2TB）、キー/マイクコントロールの文字が青から白に変更など、細かい変更がなされている。
     新たに「名探偵コナンなぞときカラオケ」が追加されたほか、映像の強化が行われている（従来のLIVE DAMも同様）。
@@ -106,7 +106,7 @@
   - DAM-XG7000\[8\] (LIVE DAM STADIUM)
     [2015年](../Page/2015年.md "wikilink")4月16日発売。ボディカラーは黒のみで、本体前面にはタッチパネル式の10.1インチ大画面液晶モニター付きセパレート・フロントパネルを装備。6TB[ハードディスク初期搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（3TB×2基・RAID1により実効容量は3TB）。発売時の配信曲数は約20万曲以上。この機種より製造元が従来のヤマハから富士通へ変更となった。
 
-    採点コンテンツでは「精密採点DX-G」に改良され、BB cyber DAM f-stageに搭載されて以来途絶えていた、デュエット版精密採点「精密採点DXデュエット」が搭載され、デュエットによる精密採点が復活した。新コンテンツとして、「[ONE PIECE採点](https://ja.wikipedia.org/wiki/ONE_PIECE "wikilink") カラオケ王におれはなる\!」と「バラエティカラオケ 〜みんなでお題をクリア\!〜」が追加された。
+    採点コンテンツでは「精密採点DX-G」に改良され、BB cyber DAM f-stageに搭載されて以来途絶えていた、デュエット版精密採点「精密採点DXデュエット」が搭載され、デュエットによる精密採点が復活した。新コンテンツとして、「[ONE PIECE採点](../Page/ONE_PIECE.md "wikilink") カラオケ王におれはなる\!」と「バラエティカラオケ 〜みんなでお題をクリア\!〜」が追加された。
 
     映像がさらに強化され、2画面にも対応した。
 
@@ -145,7 +145,7 @@
   - DAM-G50X（CYBER DAM α（アルファ））
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月発売。DAM-G50のデザインを継承している。またナローバンド環境に特化したが、ブロードバンド端子も備えており、ブロードバンド配信に対応するが、映像などのブロードバンドコンテンツの配信は無く、
     他の機種と違いナローバンド配信とブロードバンド配信の違いは無い。
-    FLディスプレイに代わって7インチTFT液晶モニターを装備。320GBHDD×2基搭載（RAID1により実効容量は320GB）。発売時には生音演奏楽曲約5100曲・本人出演映像2000曲を含む約78600曲を配信。2.4GHz帯を使用した近距離無線通信（[IEEE 802.15.4準拠](https://ja.wikipedia.org/wiki/IEEE_802.15 "wikilink")）に対応しており、オプションの専用無線受信機「DAM-SLzB」を接続して同時発売のデンモク「PM200zB」または後継機の「PM300zB」を使用することで、全方位からのリモコン通信が可能になる。
+    FLディスプレイに代わって7インチTFT液晶モニターを装備。320GBHDD×2基搭載（RAID1により実効容量は320GB）。発売時には生音演奏楽曲約5100曲・本人出演映像2000曲を含む約78600曲を配信。2.4GHz帯を使用した近距離無線通信（[IEEE 802.15.4準拠](../Page/IEEE_802.15.md "wikilink")）に対応しており、オプションの専用無線受信機「DAM-SLzB」を接続して同時発売のデンモク「PM200zB」または後継機の「PM300zB」を使用することで、全方位からのリモコン通信が可能になる。
     「精密採点II」や「完唱\!歌いきりまショー\!\!」などPremier DAMシリーズ並のコンテンツを備えるが、DAMステーションやデンモクiDによるclub DAM MEMBERSHIPSログインに対応していないため、採点結果の保存等のサービスは受けられない。
 
 ガイドボーカルには対応していないタイプ
@@ -157,7 +157,7 @@
     [2016年](../Page/2016年.md "wikilink")10月21日発売。
     デザイン色はシャインパープルを採用。HDDの容量は前作のDAM-G100Xと同じだが、新コンテンツとして、「精密採点Light」と「戦国カラオケ天下統一」を搭載。
   - Party DAM/ - II/ - III/ - V / - HD / - V20
-    ホテルや宴会場、結婚式場向けに開発された[ワゴンタイプ](https://ja.wikipedia.org/wiki/ワゴン_\(荷台\) "wikilink")。
+    ホテルや宴会場、結婚式場向けに開発された[ワゴンタイプ](../Page/ワゴン_\(荷台\).md "wikilink")。
     初代「Party DAM」（DAM-PD・1996年発売）は約3,000曲厳選収録（発売時）。2008年5月で新曲配信を終了、カラオケサービスは2013年1月末で終了した。
     「Party DAM III」（DAM-PDIII・2003年10月発売）は動画対応で約8,400曲厳選収録（発売時）。本人映像・PVの数はG30と同じラインナップで300曲。2014年9月に修理受付を終了、2018年8月には新曲配信を終了予定。
     「Party DAM V（ヴイ）」（DAM-PDV・2008年11月発売）はブロードバンド端子搭載 (100BASE-TX) ・大容量HDD搭載 (160GB+500GB) ・デンモクiD対応など大幅に機能強化。収録曲数はG70とほぼ同じで、本人映像・PVの数は約700曲。
@@ -176,11 +176,11 @@
   - カラオケ@DAM
     パーソナルコンピュータや[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")向けに利用できるカラオケ動画配信サービス。キーコントロールや採点機能はないが、幅広い環境で利用可能。
   - カラオケ@DAM for Xbox One
-    [Xbox One向けに](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")2014年[11月18日](../Page/11月18日.md "wikilink")よりサービス開始。LIVE DAM のシステムをベースとし、ハイクオリティな楽曲とフルHD映像を使ったストリーミングカラオケが楽しめるとしている。カラオケアプリは Xbox Games ストアで無料で提供されており、利用チケット（24時間または30日間）をストアから購入して利用できる。サービス開始時点での楽曲数は約10万曲。業務用機種における「精密採点DX」相当の採点ができる「精密採点One」を搭載。[Kinect](https://ja.wikipedia.org/wiki/Kinect "wikilink")を使った「DAM★とも」サービスの動画撮影に対応。楽曲の選択はコントローラーのほか、スマートフォンなどの携帯端末にSmartGlassをインストールすることによりデンモクとして利用できる。[HORI](https://ja.wikipedia.org/wiki/HORI "wikilink")より30日チケットが付属した専用USBマイクが発売されていた（現在は販売終了）。別売りのUSBマイクを利用することができるが、精密採点を利用する際は専用マイクの利用が推奨されている。
+    [Xbox One向けに](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")2014年[11月18日](../Page/11月18日.md "wikilink")よりサービス開始。LIVE DAM のシステムをベースとし、ハイクオリティな楽曲とフルHD映像を使ったストリーミングカラオケが楽しめるとしている。カラオケアプリは Xbox Games ストアで無料で提供されており、利用チケット（24時間または30日間）をストアから購入して利用できる。サービス開始時点での楽曲数は約10万曲。業務用機種における「精密採点DX」相当の採点ができる「精密採点One」を搭載。[Kinect](https://ja.wikipedia.org/wiki/Kinect "wikilink")を使った「DAM★とも」サービスの動画撮影に対応。楽曲の選択はコントローラーのほか、スマートフォンなどの携帯端末にSmartGlassをインストールすることによりデンモクとして利用できる。[HORI](../Page/HORI.md "wikilink")より30日チケットが付属した専用USBマイクが発売されていた（現在は販売終了）。別売りのUSBマイクを利用することができるが、精密採点を利用する際は専用マイクの利用が推奨されている。
   - カラオケ@DAM for Windows 10
     [Windows 10を搭載したパーソナルコンピュータやタブレット向けに](https://ja.wikipedia.org/wiki/Windows_10 "wikilink")[2016年](../Page/2016年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")よりサービス開始。公式サイトから無料の専用ソフトウェアをダウンロードし、利用チケット（24時間または30日間）を公式サイト経由で購入することで利用できる。「精密採点 Win10」を搭載。Xbox One 版および PlayStation 4 版向け専用マイクを推奨マイクとしており、精密採点の利用には専用マイクの利用が推奨されている。
   - カラオケ@DAM for PlayStation 4
-    [PlayStation 4向けに](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[2016年](../Page/2016年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")よりサービス開始。[PlayStation Store](https://ja.wikipedia.org/wiki/PlayStation_Store "wikilink") から無料の専用ソフトをダウンロードし、利用チケット（24時間、30日間または365日間）を購入することで利用できる。サービス開始時点で約12万曲を配信。通常の精密採点のほかに、歌唱の正確さが[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")のように GREAT, GOOD, OK, BAD の4段階で判定でされ、BAD 判定とならずに「コンボ」を続けることで無限大（1000億点以上）に上がるスコアを全国の利用者とランキング形式で競う「精密採点∞（インフィニティ）」を楽しむことができる。毎週5曲ずつの入れ替わりで、無料（チケット不要）曲が配信されている。HORIよりPS4版専用USBマイクが発売されている。
+    [PlayStation 4向けに](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[2016年](../Page/2016年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")よりサービス開始。[PlayStation Store](../Page/PlayStation_Store.md "wikilink") から無料の専用ソフトをダウンロードし、利用チケット（24時間、30日間または365日間）を購入することで利用できる。サービス開始時点で約12万曲を配信。通常の精密採点のほかに、歌唱の正確さが[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")のように GREAT, GOOD, OK, BAD の4段階で判定でされ、BAD 判定とならずに「コンボ」を続けることで無限大（1000億点以上）に上がるスコアを全国の利用者とランキング形式で競う「精密採点∞（インフィニティ）」を楽しむことができる。毎週5曲ずつの入れ替わりで、無料（チケット不要）曲が配信されている。HORIよりPS4版専用USBマイクが発売されている。
   - 採点カラオケ@DAM
     [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[iPod touchといった](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")[iOS搭載機器向けのカラオケアプリ](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。他機種版とは楽曲の配信方式が異なるため、ガイドボーカルに非対応で配信曲数も少ない（2018年現在約7万曲以上、毎月100曲追加）が、テンポの変更に対応している。全国ランキングに対応した採点機能（「精密採点」ではない）も備える。アプリ内課金での利用権（30日または7日）購入のほか、期間に依存しない5曲分のチケットも購入可能。毎月変わる無料曲、および毎月5曲分のフリーチケット配布により、無料でもカラオケの機能を利用できる。
   - 光カラオケBOX+@DAM
@@ -191,7 +191,7 @@
   - 曲番号（リクエストNo.）は4桁-2桁の組み合わせである。上位4桁は1002から7999までが楽曲、先頭0、8、9は採点ゲームを始めとする各種機能が割り当てられている。
       - 上位4桁は概ね歌手別に割り当てられているが、番号帯が不足しがちになるため番組限定ユニットやインディーズ系歌手は入曲される見込みのない歌手またはユニットのソロ歌手の番号帯に組み込まれる。そして下2桁と組み合わせて楽曲を指定している。
   - 曲と曲の間には曲名と歌手名の一覧である予約リストが必ず表示される。次に演奏される曲、割り込みで挿入した曲、それ以降5曲の計7曲が表示され、それ以上の場合は他○曲と右下に表示される。
-  - 演奏開始後イラスト調の曲名が中央に、作詞者作曲者名が右下に表示される。この曲名表示はDAMの一番の特徴とも言え、他社が単なる文字で表現されるのとは対照的である。これにより[AKB48の非常に長い曲名「鈴懸の木の道で…」等も省略せずに全部表示される](https://ja.wikipedia.org/wiki/鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの "wikilink")。また、本人出演映像やアニメPV・本編使用映像入りの曲が再生される場合、[JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")や[UGAはPV開始時の曲名表示](https://ja.wikipedia.org/wiki/UGA_\(カラオケ\) "wikilink")、または黒画面でPV風の歌手名曲名表示がされるのに対し、DAMは通常楽曲と同じスタンスを取っているのが特徴である。
+  - 演奏開始後イラスト調の曲名が中央に、作詞者作曲者名が右下に表示される。この曲名表示はDAMの一番の特徴とも言え、他社が単なる文字で表現されるのとは対照的である。これにより[AKB48の非常に長い曲名「鈴懸の木の道で…」等も省略せずに全部表示される](https://ja.wikipedia.org/wiki/鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの "wikilink")。また、本人出演映像やアニメPV・本編使用映像入りの曲が再生される場合、[JOYSOUND](../Page/JOYSOUND.md "wikilink")や[UGAはPV開始時の曲名表示](../Page/UGA_\(カラオケ\).md "wikilink")、または黒画面でPV風の歌手名曲名表示がされるのに対し、DAMは通常楽曲と同じスタンスを取っているのが特徴である。
       - またシングルCDのジャケットと同じ曲名デザインにすることもできるため、LIVEDAM発売以降、楽曲をよってはジャケットと同じデザインにしている。
   - 背景映像はBBcyberDAM発売時で1900シーン存在したが、LIVEDAMでHD画質に撮り直ししたためシーン数は減少している。映像は大半がドラマ風の実写物であり汎用のアニメ映像は「子守唄」のシーン等極僅かである。
       - アニメ映像や本人出演映像もPremierDAM以降用に再エンコードや再編集している。
@@ -200,7 +200,7 @@
 
 ## その他の実装
 
-  - [J:COM](https://ja.wikipedia.org/wiki/ジュピターテレコム "wikilink")[オンデマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink") - カラオケ機能はDAMを使用している。
+  - [J:COM](../Page/ジュピターテレコム.md "wikilink")[オンデマンド](../Page/ビデオ・オン・デマンド.md "wikilink") - カラオケ機能はDAMを使用している。
   - [鉄人システム](https://ja.wikipedia.org/wiki/鉄人システム "wikilink")（[カラオケの鉄人](https://ja.wikipedia.org/wiki/カラオケの鉄人 "wikilink")） - 機種でDAMも選択できるが、採点方式がDAM標準の採点から鉄人システムオリジナルの採点へ変更されている。
 
 ## 周辺機器
@@ -212,7 +212,7 @@
 #### PMシリーズ（デンモク）
 
   - PM100-DK
-    2002年2月発売。曲検索が可能な[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")式の[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")で、赤外線でDAMを操作するため、基本的に全てのDAMシリーズで使用可能（楽曲検索機能は、Premier DAMシリーズ (DAM-XG1000/XG1000II) など一部機種には非対応\[11\]）。また外販もしており、他社の通信カラオケ機種でも使用されている。当時はまだ「デンモク」のロゴタイプがなかったため、この機種にだけ第一興商純正の音響周辺機器ブランドである「Cyberpro」のロゴタイプが本体に記されている。本体カラーはシルバー。2002年度グッドデザイン賞受賞。2013年1月(DAM-G100モード時は2010年3月)新曲の配信終了。
+    2002年2月発売。曲検索が可能な[タッチパネル](../Page/タッチパネル.md "wikilink")式の[リモコン](../Page/リモコン.md "wikilink")で、赤外線でDAMを操作するため、基本的に全てのDAMシリーズで使用可能（楽曲検索機能は、Premier DAMシリーズ (DAM-XG1000/XG1000II) など一部機種には非対応\[11\]）。また外販もしており、他社の通信カラオケ機種でも使用されている。当時はまだ「デンモク」のロゴタイプがなかったため、この機種にだけ第一興商純正の音響周辺機器ブランドである「Cyberpro」のロゴタイプが本体に記されている。本体カラーはシルバー。2002年度グッドデザイン賞受賞。2013年1月(DAM-G100モード時は2010年3月)新曲の配信終了。
   - PM100II-DK
     2003年10月発売。基本機能は「PM100」と同じだが、タッチパネル専用のスタイラスペンを標準装備、マイナーチェンジした。本体カラーはゴールド。2013年1月(DAM-G100モード時は2010年3月)新曲の配信終了。
   - PM100III-DK
@@ -233,12 +233,12 @@
 #### CMシリーズ（デンモクiD）
 
   - CM1000-DK（デンモクiD）
-    2007年6月発売。従来のデンモク（PMシリーズ）から外観を大幅に刷新、カラーディスプレイが新たに搭載された。従来の赤外線転送に加え、無線LAN対応による360度全方位からの転送機能を装備。従来のデンモク同様の検索機能の他、歌手名りれき、この頃検索、おまかセンキョクなどの新しい検索機能が追加される。さらに仮名漢字変換による検索にも対応する（発売時未対応でその後ソフトウェア更新で対応）。カラーディスプレイを活かして、画面表示の充実化も図られた。また「club DAM MEMBERSHIP」へのログイン機能を搭載し\[12\]、MYリスト登録曲の選曲編集や精密採点・ランキングバトルといった採点コンテンツの結果保存などの会員サービスや、DAMステーションの**無料コンテンツの利用が可能**（Edy（現：[楽天Edy](https://ja.wikipedia.org/wiki/楽天Edy "wikilink")）決済非対応のため有料コンテンツは利用できず、DAMステーションとの差別化が図られている）。
-    無線LAN転送やclub DAM MEMBERSHIPログインに対応する完全対応機種はかなり限られるが（BB対応DAM-G70、G100シリーズ、XG1000シリーズ、XG5000、Party DAM V）、基本機能は赤外線転送を使うことでPMシリーズ同様ほぼ全機種で使用可能。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Microsoft Windows Embedded CEを採用している](https://ja.wikipedia.org/wiki/Microsoft_Windows_Embedded_CE "wikilink")。2016年12月新曲の配信終了。
+    2007年6月発売。従来のデンモク（PMシリーズ）から外観を大幅に刷新、カラーディスプレイが新たに搭載された。従来の赤外線転送に加え、無線LAN対応による360度全方位からの転送機能を装備。従来のデンモク同様の検索機能の他、歌手名りれき、この頃検索、おまかセンキョクなどの新しい検索機能が追加される。さらに仮名漢字変換による検索にも対応する（発売時未対応でその後ソフトウェア更新で対応）。カラーディスプレイを活かして、画面表示の充実化も図られた。また「club DAM MEMBERSHIP」へのログイン機能を搭載し\[12\]、MYリスト登録曲の選曲編集や精密採点・ランキングバトルといった採点コンテンツの結果保存などの会員サービスや、DAMステーションの**無料コンテンツの利用が可能**（Edy（現：[楽天Edy](../Page/楽天Edy.md "wikilink")）決済非対応のため有料コンテンツは利用できず、DAMステーションとの差別化が図られている）。
+    無線LAN転送やclub DAM MEMBERSHIPログインに対応する完全対応機種はかなり限られるが（BB対応DAM-G70、G100シリーズ、XG1000シリーズ、XG5000、Party DAM V）、基本機能は赤外線転送を使うことでPMシリーズ同様ほぼ全機種で使用可能。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Microsoft Windows Embedded CEを採用している](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")。2016年12月新曲の配信終了。
   - CM2000（デンモクiDS）
     2010年10月20日発売。デンモクiDのマイナーチェンジモデル。基本機能はデンモクiDとほぼ同じだが、同時発売された新機種「LIVE DAM（DAM-XG5000）」に完全対応。
-    新たに手書き入力検索や[予測変換機能](https://ja.wikipedia.org/wiki/入力予測 "wikilink")（仮名漢字変換で作動）を追加。[楽天Edy](https://ja.wikipedia.org/wiki/楽天Edy "wikilink")決済にも対応し、DAMステーション同様に有料コンテンツも楽しめるようになった。さらにSuicaなど「clubDAM MEMBERSHIPカード」以外のFeliCa対応ICカードや「clubDAM MEMBERSHIPアプリ」をインストールしていないおサイフケータイへの会員登録・ログインにも対応した。
-    完全対応機種はデンモクiD同様かなり限られるが（BB対応DAM-G70、G100シリーズ、XG1000シリーズ、XG5000シリーズ、XG7000シリーズ、Party DAM V）、基本機能は赤外線転送を使うことでほぼ全機種で使用可能。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Microsoft Windows Embedded CEを採用している](https://ja.wikipedia.org/wiki/Microsoft_Windows_Embedded_CE "wikilink")。
+    新たに手書き入力検索や[予測変換機能](https://ja.wikipedia.org/wiki/入力予測 "wikilink")（仮名漢字変換で作動）を追加。[楽天Edy](../Page/楽天Edy.md "wikilink")決済にも対応し、DAMステーション同様に有料コンテンツも楽しめるようになった。さらにSuicaなど「clubDAM MEMBERSHIPカード」以外のFeliCa対応ICカードや「clubDAM MEMBERSHIPアプリ」をインストールしていないおサイフケータイへの会員登録・ログインにも対応した。
+    完全対応機種はデンモクiD同様かなり限られるが（BB対応DAM-G70、G100シリーズ、XG1000シリーズ、XG5000シリーズ、XG7000シリーズ、Party DAM V）、基本機能は赤外線転送を使うことでほぼ全機種で使用可能。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Microsoft Windows Embedded CEを採用している](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")。
     2012年10月17日からは、DAM★ともへの登録・ログインにICカードが不要となる。ただ、引き続きICカードでのログインも可能である。ログインには無線LAN転送設定になっている環境が必要である。赤外線転送設定になっている場合はLIVE DAMシリーズやPremier DAMでもログインできない。
   - CM3000(デンモクiDS2)
     2015年12月1日発売。デンモクiDSのマイナーチェンジモデル。SmartDAM Lに似た操作性になっているが、基本機能はデンモクiDSと変わらない。
@@ -248,9 +248,9 @@
 ### DAMステーション
 
   - DAM-DS （DAMステーション）
-    [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")1月発売。BB cyber DAM (DAM-G100) の周辺機器。同社の直営店[BIG ECHOなど一部の店舗のみに先行して設置されていたが](https://ja.wikipedia.org/wiki/BIG_ECHO "wikilink")、のちに全国展開する。デンモク機能のほかにカラー液晶、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")などを標準搭載。[ニュース](../Page/ニュース.md "wikilink")や[天気予報](../Page/天気予報.md "wikilink")などの情報も閲覧可能。また、非接触型[ICカード](../Page/ICカード.md "wikilink")[FeliCa](../Page/FeliCa.md "wikilink")認識機能を搭載して[個人認証](https://ja.wikipedia.org/wiki/個人認証 "wikilink")システムを使った会員サービス「club DAM MEMBERSHIP」の様々なサービスを行っていた。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Microsoft Windows CEを採用している](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")。DAMステーション2の発売に伴い生産中止。
+    [2004年](../Page/2004年.md "wikilink")1月発売。BB cyber DAM (DAM-G100) の周辺機器。同社の直営店[BIG ECHOなど一部の店舗のみに先行して設置されていたが](https://ja.wikipedia.org/wiki/BIG_ECHO "wikilink")、のちに全国展開する。デンモク機能のほかにカラー液晶、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")などを標準搭載。[ニュース](../Page/ニュース.md "wikilink")や[天気予報](../Page/天気予報.md "wikilink")などの情報も閲覧可能。また、非接触型[ICカード](../Page/ICカード.md "wikilink")[FeliCa](../Page/FeliCa.md "wikilink")認識機能を搭載して[個人認証](https://ja.wikipedia.org/wiki/個人認証 "wikilink")システムを使った会員サービス「club DAM MEMBERSHIP」の様々なサービスを行っていた。[OSとして](../Page/オペレーティングシステム.md "wikilink")[Microsoft Windows CEを採用している](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")。DAMステーション2の発売に伴い生産中止。
   - DAM-DSII （DAMステーション2）
-    2005年4月発売。[ワイヤレス](https://ja.wikipedia.org/wiki/ワイヤレス "wikilink")操作、[楽天Edy](https://ja.wikipedia.org/wiki/楽天Edy "wikilink")決済、[USB端子搭載](../Page/ユニバーサル・シリアル・バス.md "wikilink")、動画再生対応、レスポンスの改善など、初代DAMステーションの後継として様々な機能強化・改良が施された。「LIVE DAM(DAM-XG5000)シリーズ」、「Premier DAM(DAM-XG1000)シリーズ」、「BB cyber DAM(DAM-G100シリーズ)」に対応。また、携帯音楽プレイヤー向けのカラオケコンテンツダウンロード販売、会員サービス「club DAM MEMBERSHIP」の新コンテンツにも対応した。[OSとしてMonta](../Page/オペレーティングシステム.md "wikilink") Vista [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")を採用している。 2014年12月新曲の配信終了。
+    2005年4月発売。[ワイヤレス](https://ja.wikipedia.org/wiki/ワイヤレス "wikilink")操作、[楽天Edy](../Page/楽天Edy.md "wikilink")決済、[USB端子搭載](../Page/ユニバーサル・シリアル・バス.md "wikilink")、動画再生対応、レスポンスの改善など、初代DAMステーションの後継として様々な機能強化・改良が施された。「LIVE DAM(DAM-XG5000)シリーズ」、「Premier DAM(DAM-XG1000)シリーズ」、「BB cyber DAM(DAM-G100シリーズ)」に対応。また、携帯音楽プレイヤー向けのカラオケコンテンツダウンロード販売、会員サービス「club DAM MEMBERSHIP」の新コンテンツにも対応した。[OSとしてMonta](../Page/オペレーティングシステム.md "wikilink") Vista [Linux](../Page/Linux.md "wikilink")を採用している。 2014年12月新曲の配信終了。
 
 ### TMシリーズ（Smart DAM）
 
@@ -355,10 +355,10 @@ LIVE DAM STADIUM～BB cyber DAMまでの機種で「8000-02」と予約すると
 
     LIVE DAMバージョンはワイド画面・フルHD表示に対応し、アニメーションや演出がより精細になった。また評価基準が非常に厳しい「激辛」バージョンが追加された。
 
-    Premier DAMシリーズ・LIVE DAMシリーズ・CYBER DAM α(DAM-G50X)に対応。またPremier DAMシリーズとLIVE DAMでは、DAM-DSシリーズ（DAMステーション）もしくはCM-1000DK・2000（デンモクiD）に「club DAM MEMBERSカード」もしくは「club DAM MEMBERSアプリ」設定済みの[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")を指定位置にかざしてログインすれば、結果を保存して後からDAMステーション・デンモクiD・公式サイト「clubDAM.com」から閲覧出来る。
+    Premier DAMシリーズ・LIVE DAMシリーズ・CYBER DAM α(DAM-G50X)に対応。またPremier DAMシリーズとLIVE DAMでは、DAM-DSシリーズ（DAMステーション）もしくはCM-1000DK・2000（デンモクiD）に「club DAM MEMBERSカード」もしくは「club DAM MEMBERSアプリ」設定済みの[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")を指定位置にかざしてログインすれば、結果を保存して後からDAMステーション・デンモクiD・公式サイト「clubDAM.com」から閲覧出来る。
 
   - 美川憲一のアンタ、歌えんの\!?
-    演歌歌手の[美川憲一](https://ja.wikipedia.org/wiki/美川憲一 "wikilink")をフィーチャーしたゲーム。
+    演歌歌手の[美川憲一](../Page/美川憲一.md "wikilink")をフィーチャーしたゲーム。
 
     歌唱中はリアルタイムに歌唱力が評価され、評価によって美川が様々なコメントを発する。また良い評価が続くと美川が様々なキャラクターに変身するが、逆に悪い評価が続いて美川の機嫌が一定以上悪くなると「終わり！」と宣告され強制終了となる。歌唱終了（強制終了含む）後は、歌唱全体の評価に応じて美川がコメントを発する。強制終了なしで歌唱すべき部分を最後まで歌いきり、尚且つ多くの変身キャラクターを表示させた場合、特別映像が再生されることがある。
 
@@ -386,7 +386,7 @@ LIVE DAM STADIUM～BB cyber DAMまでの機種で「8000-02」と予約すると
     LIVE DAMシリーズのみ対応。
 
   - ONE PIECE採点 カラオケ王におれはなる\!
-    『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』とのコラボレーション。
+    『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』とのコラボレーション。
 
     歌唱中は無作為に麦わらの一味1名が選ばれ、声入りで声援してくれる。ONE PIECEの楽曲以外でも良い。歌唱終了後は評価される。
 
@@ -407,7 +407,7 @@ LIVE DAM STADIUM～BB cyber DAMまでの機種で「8000-02」と予約すると
   - 結果表示画面では、まず画面上半分に自分のニックネーム（DAMステーションまたはデンモクiDから設定）・画像（DAMステーションまたはデンモクiDから設定。プリセットされたイラストやDAMステーションの内蔵カメラで撮影した写真を表示可能で、未設定の場合は"No Photo"となる）・得点（小数点以下3桁）・全国順位（自分の順位/参加者数・10000位以内）を表示。そして画面下半分には、その曲の全国ベスト3の登録名・登録都道府県名（秘匿可）・年齢（変更・秘匿可）・得点が表示される。自分がベスト3にランクインした場合は、自分の登録名の列が緑色で強調表示される。オプションのプリンタが接続されていれば、別途有料（300円・Edy決済）で歌唱結果を印刷出来る。
   - 2008年2月分までは、101位以下の得点・順位はclubDAM.comに記録されなかったが、同年3月分からは後述の「課題曲ランキングバトル」と同様に、101位以下であっても上位10000位まで記録されるようになった。3月時点ではclubDAM.comサーバー上のみの対応で、ランキング速報や結果表示画面は未対応だったが、翌4月に実施されたシステム強化によって完全対応した。
   - ブロードバンド回線に接続したDAM-G100シリーズ以降（BB cyber DAM・BB対応G70含む）に加えて、DAMステーションまたはデンモクiDが必要。またclubDAM.comへ得点を記録するためには、「club DAM MEMBERSカード」もしくは「club DAM MEMBERSアプリ」設定済みのおサイフケータイによるログインが必要。会員でなくともゲストとして参加出来るが、得点が記録されないため楽しみは激減する。
-  - [JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")の「全国採点ONLINE」も含めて、このコンテンツで常に上位をキープしている人のことは「**トップランバトラー**」と呼ばれており、その多くは[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")などの[SNSに入会しコミュニティを形成している](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")。
+  - [JOYSOUND](../Page/JOYSOUND.md "wikilink")の「全国採点ONLINE」も含めて、このコンテンツで常に上位をキープしている人のことは「**トップランバトラー**」と呼ばれており、その多くは[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")などの[SNSに入会しコミュニティを形成している](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
 
 ### 過去に存在した採点ゲーム
 
@@ -429,7 +429,7 @@ LIVE DAM STADIUM～BB cyber DAMまでの機種で「8000-02」と予約すると
 
   - 課題曲ランキングバトル
 
-（**有料・1回100円を[Edy決済](https://ja.wikipedia.org/wiki/楽天Edy "wikilink")**）
+（**有料・1回100円を[Edy決済](../Page/楽天Edy.md "wikilink")**）
 
   -
     毎月変わる課題曲を歌って全国順位を競い合う。月末の確定順位によってオリジナルグッズが当たる（1・2・3・10・50・100・150・200・250・300位の計10名）。オプションのプリンタが接続されていれば、別途有料（300円・Edy決済）で歌唱結果を印刷出来る。従来（2007年11月分まで）はclubDAM.comに記録されるのは上位100位までだったが、2007年12月以降は上位10000位まで記録されるようになった。
@@ -444,7 +444,7 @@ LIVE DAM STADIUM～BB cyber DAMまでの機種で「8000-02」と予約すると
 
 [2019年](../Page/2019年.md "wikilink")10月1日発売。「 LIVE DAM Ai（ライブダムアイ）シリーズ 」を普及させる為に文化放送でアニメやゲームや声優などの音楽に関連する事をラジオ番組をする。
 
-タイトル名「 **LIVE DAM Ai presents ANISON INSTITUTE 神ラボ！** 」\[14\]\[15\]（2019年10月4日から放送スタート、文化放送のみ）公式的にはアーカイブはない。コンセプトとして、番組自体を「研究所」として、パーソナリティの[冨田明宏](https://ja.wikipedia.org/wiki/冨田明宏 "wikilink")が「主任研究員」、サブパーソナリティーに[岡咲美保](https://ja.wikipedia.org/wiki/岡咲美保 "wikilink")が「研究員見習い」となり、様々なアニソン・ゲームとか声優や声優とレーベルや作詞作曲など視点、音楽の魅力を分析・追究していきます。研究所の「名誉所長」として、[水樹奈々](../Page/水樹奈々.md "wikilink")や[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")その他色んな方や、声優アーティストの楽曲を手掛けてきた音楽クリエーターチーム「Elements Garden」の代表を務める[上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink")は（ほぼ毎回インタビュー出演）参加する。
+タイトル名「 **LIVE DAM Ai presents ANISON INSTITUTE 神ラボ！** 」\[14\]\[15\]（2019年10月4日から放送スタート、文化放送のみ）公式的にはアーカイブはない。コンセプトとして、番組自体を「研究所」として、パーソナリティの[冨田明宏](https://ja.wikipedia.org/wiki/冨田明宏 "wikilink")が「主任研究員」、サブパーソナリティーに[岡咲美保](https://ja.wikipedia.org/wiki/岡咲美保 "wikilink")が「研究員見習い」となり、様々なアニソン・ゲームとか声優や声優とレーベルや作詞作曲など視点、音楽の魅力を分析・追究していきます。研究所の「名誉所長」として、[水樹奈々](../Page/水樹奈々.md "wikilink")や[宮野真守](../Page/宮野真守.md "wikilink")その他色んな方や、声優アーティストの楽曲を手掛けてきた音楽クリエーターチーム「Elements Garden」の代表を務める[上松範康](../Page/上松範康.md "wikilink")は（ほぼ毎回インタビュー出演）参加する。
 
 番組専用
 
@@ -458,12 +458,12 @@ LIVE DAM STADIUM～BB cyber DAMまでの機種で「8000-02」と予約すると
 
 ## 関連項目
 
-  - [DAM CHANNEL](https://ja.wikipedia.org/wiki/DAMチャンネル "wikilink") - DAMで演奏されていない時に放映されている[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")、[マギー](https://ja.wikipedia.org/wiki/マギー_\(モデル\) "wikilink")、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")らが司会を務めている。
-  - [歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink") - [日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")2005年4月から2010年3月まで放送されていた[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")番組。ブロードバンド対応DAMとDAMステーションからもオーディションに参加することができた。
-  - [High on Music](https://ja.wikipedia.org/wiki/High_on_Music "wikilink") - [TOKYO FMと](../Page/エフエム東京.md "wikilink")[OSAKA FMで放送されていた](../Page/エフエム大阪.md "wikilink")、DAM提供の音楽番組。2007年4月に放送開始、2008年4月に『Premier DAM Re:muzik』にリニューアルされ、2009年3月まで放送されていた。
-  - [爆笑問題の日曜サンデー](https://ja.wikipedia.org/wiki/爆笑問題の日曜サンデー "wikilink") - [TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")。DAMの選曲リクエストデータを基にさまざまなテーマや条件によるランキングを発表する「サンデー・カラオケベスト10」というコーナーがある。
-  - [MTV×DAM WANNASING KARAOKEE CHART TOP40](https://ja.wikipedia.org/wiki/MTV×DAM_WANNASING_KARAOKEE_CHART_TOP40 "wikilink") - [MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")で放送されているカラオケランキング番組。
-  - [DAM★とも](https://ja.wikipedia.org/wiki/DAM★とも "wikilink") - DAMと連動した[SNSサイト](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")。
+  - [DAM CHANNEL](../Page/DAMチャンネル.md "wikilink") - DAMで演奏されていない時に放映されている[音楽番組](../Page/音楽番組.md "wikilink")。[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")、[マギー](https://ja.wikipedia.org/wiki/マギー_\(モデル\) "wikilink")、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")らが司会を務めている。
+  - [歌スタ\!\!](../Page/歌スタ!!.md "wikilink") - [日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")2005年4月から2010年3月まで放送されていた[オーディション](../Page/オーディション.md "wikilink")番組。ブロードバンド対応DAMとDAMステーションからもオーディションに参加することができた。
+  - [High on Music](../Page/High_on_Music.md "wikilink") - [TOKYO FMと](../Page/エフエム東京.md "wikilink")[OSAKA FMで放送されていた](../Page/エフエム大阪.md "wikilink")、DAM提供の音楽番組。2007年4月に放送開始、2008年4月に『Premier DAM Re:muzik』にリニューアルされ、2009年3月まで放送されていた。
+  - [爆笑問題の日曜サンデー](../Page/爆笑問題の日曜サンデー.md "wikilink") - [TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている[ワイド番組](../Page/ワイド番組.md "wikilink")。DAMの選曲リクエストデータを基にさまざまなテーマや条件によるランキングを発表する「サンデー・カラオケベスト10」というコーナーがある。
+  - [MTV×DAM WANNASING KARAOKEE CHART TOP40](https://ja.wikipedia.org/wiki/MTV×DAM_WANNASING_KARAOKEE_CHART_TOP40 "wikilink") - [MTVジャパン](../Page/MTVジャパン.md "wikilink")で放送されているカラオケランキング番組。
+  - [DAM★とも](https://ja.wikipedia.org/wiki/DAM★とも "wikilink") - DAMと連動した[SNSサイト](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
 
 ## 外部リンク
 

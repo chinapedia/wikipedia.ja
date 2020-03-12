@@ -1,15 +1,15 @@
 > この記事は[Pretty Good Privacy](https://ja.wikipedia.org/wiki/Pretty_Good_Privacy)から翻訳されています。
 
 
-（プリティ・グッド・プライバシー）とは、[フィル・ジマーマン](https://ja.wikipedia.org/wiki/フィル・ジマーマン "wikilink")が開発、公開した[暗号](../Page/暗号.md "wikilink")ソフトウェアである。略称は **PGP**。
+（プリティ・グッド・プライバシー）とは、[フィル・ジマーマン](../Page/フィル・ジマーマン.md "wikilink")が開発、公開した[暗号](../Page/暗号.md "wikilink")ソフトウェアである。略称は **PGP**。
 
 ## 概説
 
-[PGP_diagram.svg](https://ja.wikipedia.org/wiki/File:PGP_diagram.svg "fig:PGP_diagram.svg") [公開鍵暗号](../Page/公開鍵暗号.md "wikilink")方式を採用しており、暗号・[署名ができる](https://ja.wikipedia.org/wiki/電子署名 "wikilink")。
+[PGP_diagram.svg](https://ja.wikipedia.org/wiki/File:PGP_diagram.svg "fig:PGP_diagram.svg") [公開鍵暗号](../Page/公開鍵暗号.md "wikilink")方式を採用しており、暗号・[署名ができる](../Page/電子署名.md "wikilink")。
 
 PGPの開発当初、[アメリカ合衆国連邦政府](https://ja.wikipedia.org/wiki/アメリカ合衆国連邦政府 "wikilink")は暗号を『[武器](../Page/武器.md "wikilink")』とみなし、[輸出を禁止していたため](https://ja.wikipedia.org/wiki/アメリカ合衆国からの暗号の輸出規制 "wikilink")、同国外では入手できなかった。
 
-ジマーマンは、[合衆国憲法修正第](../Page/権利章典_\(アメリカ\).md "wikilink")1条（[言論・出版の自由](https://ja.wikipedia.org/wiki/言論の自由 "wikilink")）により連邦政府が出版物を取り締まれないことを逆手に取り、[ソースコード](../Page/ソースコード.md "wikilink")を書籍 (ISBN 0-262-24039-4) として出版・国外輸出することで、合法的にPGPを[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の国外に拡散させることに成功し\[1\]\[2\]、有志によってこれを基に改良がなされ国際版（PGPi）が公開された。
+ジマーマンは、[合衆国憲法修正第](../Page/権利章典_\(アメリカ\).md "wikilink")1条（[言論・出版の自由](../Page/言論の自由.md "wikilink")）により連邦政府が出版物を取り締まれないことを逆手に取り、[ソースコード](../Page/ソースコード.md "wikilink")を書籍 (ISBN 0-262-24039-4) として出版・国外輸出することで、合法的にPGPを[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の国外に拡散させることに成功し\[1\]\[2\]、有志によってこれを基に改良がなされ国際版（PGPi）が公開された。
 
 しかし、1999年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に、アメリカ合衆国連邦政府が、PGPの輸出を一部の国家を除いて認めたため、同国外でも合法的にアメリカ版PGPを使用できるようになり、国際版の開発は終了した。
 
@@ -17,7 +17,7 @@ PGPの開発当初、[アメリカ合衆国連邦政府](https://ja.wikipedia.or
 
 2005年8月に公開されたPGP9.0.2からは、日本語版も公開されている。2006年1月26日には日本法人も設立され\[4\]、日本でのサポートも行われている。英語版・ドイツ語版・日本語版が公開されている。
 
-なお、PGP社は2010年6月に[シマンテック](https://ja.wikipedia.org/wiki/シマンテック "wikilink")に買収された。
+なお、PGP社は2010年6月に[シマンテック](../Page/シマンテック.md "wikilink")に買収された。
 
 ##
 

@@ -3,16 +3,16 @@
 
 「**MIDNIGHT BLUE**」（ミッドナイト・ブルー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。
 
-発売元[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-108）。
+発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-108）。
 
 ## 概要
 
   - 自身単独では初の『[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』タイアップで、同時期に公開された劇場版『スレイヤーズ』主題歌。
-  - [オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")・週間シングルチャートでの当時の自己最高位を更新した。
+  - [オリコン](../Page/オリコンチャート.md "wikilink")・週間シングルチャートでの当時の自己最高位を更新した。
 
 ## 収録曲
 
-  - 全作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：[佐藤英敏](https://ja.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：五島翔
+  - 全作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：五島翔
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
   - **MIDNIGHT BLUE**
       -
-        『[Bertemu](https://ja.wikipedia.org/wiki/Bertemu "wikilink")』、『[VINTAGE S](https://ja.wikipedia.org/wiki/VINTAGE_S "wikilink")』、『[スレイヤーズMEGUMIX](https://ja.wikipedia.org/wiki/スレイヤーズMEGUMIX "wikilink")』
+        『[Bertemu](../Page/Bertemu.md "wikilink")』、『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』、『[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")』
   - **Shining Girl**
       -
         『Bertemu』、『スレイヤーズMEGUMIX』

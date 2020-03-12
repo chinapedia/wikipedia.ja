@@ -5,7 +5,7 @@
 
 ## 大会概要
 
-メインイベントでは、[バス・ルッテン](https://ja.wikipedia.org/wiki/バス・ルッテン "wikilink")が[高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink")にTKO勝ちを収めた。セミファイナルで行われた世界ライト級タイトルマッチでは、[パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink")が[ジョルジ・パチーユ・マカコ](../Page/ジョルジ・パチーユ・マカコ.md "wikilink")を判定で降し、王座の初防衛に成功した。
+メインイベントでは、[バス・ルッテン](../Page/バス・ルッテン.md "wikilink")が[高阪剛](../Page/高阪剛.md "wikilink")にTKO勝ちを収めた。セミファイナルで行われた世界ライト級タイトルマッチでは、[パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink")が[ジョルジ・パチーユ・マカコ](../Page/ジョルジ・パチーユ・マカコ.md "wikilink")を判定で降し、王座の初防衛に成功した。
 
 [USWF世界ヘビー級王者](https://ja.wikipedia.org/wiki/Unified_Shoot_Wrestling_Federation "wikilink")[エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink")がUFCデビュー。
 
@@ -13,31 +13,31 @@
 
   - 第1試合 ライト級 15分1R
     ○  ラバーン・クラーク vs.  フランク・カレッシ ×
-    1R 6:52 ギブアップ（[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 6:52 ギブアップ（[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 ミドル級 15分1R
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  ダレル・ゴーラー ×
-    1R 7:57 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 7:57 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第3試合 ライト級 15分1R
-    ○  マイキー・バーネット vs.  [タウンセンド・ソーンダース](https://ja.wikipedia.org/wiki/タウンセンド・ソーンダース "wikilink") ×
+    ○  マイキー・バーネット vs.  [タウンセンド・ソーンダース](../Page/タウンセンド・ソーンダース.md "wikilink") ×
     1R終了 判定3-0
   - 第4試合 ミドル級 15分1R
-    ○  [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink") vs.  ジェリー・ボーランダー ×
+    ○  [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink") vs.  ジェリー・ボーランダー ×
     1R 14:31 TKO（ドクターストップ：カット）
   - 第5試合 ヘビー級 15分1R
-    ○  [ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink") vs.  [マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink") ×
+    ○  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") vs.  [マーク・コールマン](../Page/マーク・コールマン.md "wikilink") ×
     1R終了 判定2-1
   - 第6試合 UFC世界ライト級タイトルマッチ 21分1R
-    ○  [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink") vs.  [ジョルジ・パチーユ・マカコ](../Page/ジョルジ・パチーユ・マカコ.md "wikilink") ×
+    ○  [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink") vs.  [ジョルジ・パチーユ・マカコ](../Page/ジョルジ・パチーユ・マカコ.md "wikilink") ×
     1R終了 判定3-0
     ※ミレティッチが王座の初防衛に成功。
   - 第7試合 ヘビー級 15分1R
-    ○  [バス・ルッテン](https://ja.wikipedia.org/wiki/バス・ルッテン "wikilink") vs.  [高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink") ×
+    ○  [バス・ルッテン](../Page/バス・ルッテン.md "wikilink") vs.  [高阪剛](../Page/高阪剛.md "wikilink") ×
     1R 14:15 TKO（レフェリーストップ：スタンドパンチ連打）
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

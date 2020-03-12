@@ -1,16 +1,16 @@
 > この記事は[SoftBank X01T](https://ja.wikipedia.org/wiki/SoftBank_X01T)から翻訳されています。
 
 
-**SoftBank X01T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")X01T）は[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式に対応する[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。 [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[12月8日](../Page/12月8日.md "wikilink")発売。
+**SoftBank X01T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")X01T）は[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式に対応する[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。 [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[12月8日](../Page/12月8日.md "wikilink")発売。
 
 ## 概要
 
 ### 対応サービス・機能
 
   - Windows Mobile 6 Professional Edition 日本語版搭載
-  - [Windows Live for Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Live "wikilink") 搭載
+  - [Windows Live for Windows Mobile](../Page/Windows_Live.md "wikilink") 搭載
       - [Windows Live メール](https://ja.wikipedia.org/wiki/Windows_Live_メール "wikilink")
-      - [Windows Live メッセンジャー](https://ja.wikipedia.org/wiki/Windows_Live_メッセンジャー "wikilink")
+      - [Windows Live メッセンジャー](../Page/Windows_Live_メッセンジャー.md "wikilink")
   - [Opera Mobile搭載](https://ja.wikipedia.org/wiki/Opera_Mobile "wikilink")
   - ワイドVGA液晶
   - QWERTY配列キーボード
@@ -19,15 +19,15 @@
   - 指紋認証機能
   - [かんたんWi-Fi接続](../Page/Wi-Fi.md "wikilink")
 
-| 主な対応サービス                                                                                     |
-| -------------------------------------------------------------------------------------------- |
-| ~~[S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")~~                                                |
-| ~~[S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")~~                                 |
-| [PCサイトダイレクト](https://ja.wikipedia.org/wiki/PCサイトダイレクト "wikilink")                            |
-| ~~[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink")~~ |
-| ~~[S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")~~                           |
-| ~~[コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")~~                    |
-| ~~[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")~~                                    |
+| 主な対応サービス                                                                  |
+| ------------------------------------------------------------------------- |
+| ~~[S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")~~                             |
+| ~~[S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")~~              |
+| [PCサイトダイレクト](https://ja.wikipedia.org/wiki/PCサイトダイレクト "wikilink")         |
+| ~~[着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink")~~ |
+| ~~[S\!FeliCa](../Page/S!FeliCa.md "wikilink")~~                           |
+| ~~[コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")~~ |
+| ~~[ワンセグ](../Page/ワンセグ.md "wikilink")~~                                    |
 
 同型の海外モデルに当たる「G900」の、ACアダプターやクレードルなどを利用することができる。
 
@@ -49,8 +49,8 @@
 
   - [東芝製のスマートフォン](https://ja.wikipedia.org/wiki/東芝製のスマートフォン "wikilink")
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [SoftBank X](https://ja.wikipedia.org/wiki/SoftBank_X "wikilink")
-  - [X01HT](https://ja.wikipedia.org/wiki/SoftBank_X01HT "wikilink")
+  - [SoftBank X](../Page/SoftBank_X.md "wikilink")
+  - [X01HT](../Page/SoftBank_X01HT.md "wikilink")
   - [X02HT](../Page/SoftBank_X02HT.md "wikilink")
   - [T-01A](https://ja.wikipedia.org/wiki/T-01A "wikilink")
   - [X02T](https://ja.wikipedia.org/wiki/SoftBank_X02T "wikilink") - ドコモ向けのT-01Aをベースとした実質的な後継機。

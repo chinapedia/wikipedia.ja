@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - 4人が2001年10月をもって[SONIC GROOVEへとレーベルを移籍したため](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")、SPEED関連のシングルとしてはTOY'S FACTORYからの最後のリリース作となった。
+  - 4人が2001年10月をもって[SONIC GROOVEへとレーベルを移籍したため](../Page/SONIC_GROOVE.md "wikilink")、SPEED関連のシングルとしてはTOY'S FACTORYからの最後のリリース作となった。
   - 「See阪神・淡路キャンペーン」のキャンペーンソングとして書き下ろされた。
-  - カップリングには「[White Love](https://ja.wikipedia.org/wiki/White_Love_\(SPEEDの曲\) "wikilink")」のニューバージョンが収録されている。なおこのトラックでは2番のサビが省略されている。
+  - カップリングには「[White Love](../Page/White_Love_\(SPEEDの曲\).md "wikilink")」のニューバージョンが収録されている。なおこのトラックでは2番のサビが省略されている。
   - ビデオクリップはスタジオで4人が歌う姿をメインにしたシンプルなものになっている。
   - 完全初回限定生産で、追加生産はされなかった。
 
@@ -15,10 +15,10 @@
 
 1.  One More Dream
       -
-        作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")　編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+        作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")　編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 2.  White Love（New Recording）
       -
-        作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")　編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+        作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")　編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 3.  One More Dream～願い～
 
 ## カタログ

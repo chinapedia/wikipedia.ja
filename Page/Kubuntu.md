@@ -1,27 +1,27 @@
 > この記事は[Kubuntu](https://ja.wikipedia.org/wiki/Kubuntu)から翻訳されています。
 
 
-**Kubuntu**（クブントゥ、; \[1\]\[2\]）は、[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を[KDE](../Page/KDE.md "wikilink")に置き換えた、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の一つである。 Kubuntuは、Ubuntuと同じくUbuntuコミュニティにより開発されている。日本語を含む多言語に対応している。
+**Kubuntu**（クブントゥ、; \[1\]\[2\]）は、[Ubuntu](../Page/Ubuntu.md "wikilink")の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を[KDE](../Page/KDE.md "wikilink")に置き換えた、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の一つである。 Kubuntuは、Ubuntuと同じくUbuntuコミュニティにより開発されている。日本語を含む多言語に対応している。
 
 ## 名称の由来
 
-Kubuntuという名称は、派生元の[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")と[KDE](../Page/KDE.md "wikilink")デスクトップ環境の *K* を組み合わせたものであり、[ベンバ語](https://ja.wikipedia.org/wiki/ベンバ語 "wikilink")では*他者への思いやりを持つ*（）を意味する\[3\]。偶然にも、*Kubuntu* という単語は[ルンディ語](https://ja.wikipedia.org/wiki/ルンディ語 "wikilink")においては*無料*という意味もある。
+Kubuntuという名称は、派生元の[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である[Ubuntu](../Page/Ubuntu.md "wikilink")と[KDE](../Page/KDE.md "wikilink")デスクトップ環境の *K* を組み合わせたものであり、[ベンバ語](https://ja.wikipedia.org/wiki/ベンバ語 "wikilink")では*他者への思いやりを持つ*（）を意味する\[3\]。偶然にも、*Kubuntu* という単語は[ルンディ語](https://ja.wikipedia.org/wiki/ルンディ語 "wikilink")においては*無料*という意味もある。
 
 ## KubuntuとUbuntuの比較
 
 二つのディストリビューションの主な共通点と相違点は、次の通り。
 
-| ソフトウェア                                                          | Ubuntu                                                              | Kubuntu                                                                   |
-| --------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| カーネル & Core                                                     | [Linux Kernel](../Page/Linuxカーネル.md "wikilink") & Ubuntu Core       |                                                                           |
-| [ウィンドウシステム](https://ja.wikipedia.org/wiki/ウィンドウシステム "wikilink") | [Wayland](https://ja.wikipedia.org/wiki/Wayland "wikilink")         | [X.Org Server](../Page/X.Org_Server.md "wikilink")                        |
-| サウンド                                                            | [PulseAudio](https://ja.wikipedia.org/wiki/PulseAudio "wikilink")   |                                                                           |
-| マルチメディア                                                         | [GStreamer](https://ja.wikipedia.org/wiki/GStreamer "wikilink")     |                                                                           |
-| デスクトップ                                                          | [GNOME](../Page/GNOME.md "wikilink")                                | [Plasma Desktop](https://ja.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink") |
-| ツールキット                                                          | [GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink"), Clutter & Qt | [Qt](https://ja.wikipedia.org/wiki/Qt "wikilink")                         |
-| ウェブブラウザ                                                         | [Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")         |                                                                           |
-| オフィススイート                                                        | [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") |                                                                           |
-| 電子メール & PIM                                                     | [Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")            | [Kontact](https://ja.wikipedia.org/wiki/Kontact "wikilink")               |
+| ソフトウェア                                       | Ubuntu                                                              | Kubuntu                                                                   |
+| -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| カーネル & Core                                  | [Linux Kernel](../Page/Linuxカーネル.md "wikilink") & Ubuntu Core       |                                                                           |
+| [ウィンドウシステム](../Page/ウィンドウシステム.md "wikilink") | [Wayland](https://ja.wikipedia.org/wiki/Wayland "wikilink")         | [X.Org Server](../Page/X.Org_Server.md "wikilink")                        |
+| サウンド                                         | [PulseAudio](https://ja.wikipedia.org/wiki/PulseAudio "wikilink")   |                                                                           |
+| マルチメディア                                      | [GStreamer](../Page/GStreamer.md "wikilink")                        |                                                                           |
+| デスクトップ                                       | [GNOME](../Page/GNOME.md "wikilink")                                | [Plasma Desktop](https://ja.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink") |
+| ツールキット                                       | [GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink"), Clutter & Qt | [Qt](../Page/Qt.md "wikilink")                                            |
+| ウェブブラウザ                                      | [Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")         |                                                                           |
+| オフィススイート                                     | [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") |                                                                           |
+| 電子メール & PIM                                  | [Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")            | [Kontact](../Page/Kontact.md "wikilink")                                  |
 
 ## 必要環境
 
@@ -49,9 +49,9 @@ Kubuntu 8.04以前はKDE 3を搭載していた。Kubuntu 8.04 KDE 4.0 Remix\[4\
   - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink")
   - [Ubuntu GNOME](https://ja.wikipedia.org/wiki/Ubuntu_GNOME "wikilink")
   - [Edubuntu](https://ja.wikipedia.org/wiki/Edubuntu "wikilink")
-  - [Wubi](https://ja.wikipedia.org/wiki/Wubi "wikilink")
-  - [Linuxディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxディストリビューションの比較 "wikilink")
-  - [Linuxライブディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxライブディストリビューションの比較 "wikilink")
+  - [Wubi](../Page/Wubi.md "wikilink")
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
+  - [Linuxライブディストリビューションの比較](../Page/Linuxライブディストリビューションの比較.md "wikilink")
 
 ## 外部リンク
 

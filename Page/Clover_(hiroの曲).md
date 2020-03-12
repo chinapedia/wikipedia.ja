@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - 2005年8月3日に、[SONIC GROOVEから発売された](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
-  - 「clover」は、テレビアニメ『[ブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(テレビアニメ\) "wikilink")』第2期エンディングテーマ。その影響で、このCDのジャケットはアニメ絵のhiroが[ピノコ](https://ja.wikipedia.org/wiki/ピノコ "wikilink")と一緒に映っているというデザインになっている。
+  - 2005年8月3日に、[SONIC GROOVEから発売された](../Page/SONIC_GROOVE.md "wikilink")。
+  - 「clover」は、テレビアニメ『[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")』第2期エンディングテーマ。その影響で、このCDのジャケットはアニメ絵のhiroが[ピノコ](../Page/ピノコ.md "wikilink")と一緒に映っているというデザインになっている。
   - 今作は初めてCD+DVD、CDのみの2形態で発売された。
 
 ## 収録曲
@@ -14,7 +14,7 @@
 ### *CD*
 
 1.  clover
-      - 作詞：[西田恵美](https://ja.wikipedia.org/wiki/西田恵美 "wikilink")／作曲：関山弘之／編曲：[SiZK](https://ja.wikipedia.org/wiki/SiZK "wikilink")、[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")
+      - 作詞：[西田恵美](https://ja.wikipedia.org/wiki/西田恵美 "wikilink")／作曲：関山弘之／編曲：[SiZK](../Page/SiZK.md "wikilink")、[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")
 2.  Be Alright
       - 作詞・作曲：MARKIE／編曲：MARKIE、SiZK
 3.  clover(Instrumental)

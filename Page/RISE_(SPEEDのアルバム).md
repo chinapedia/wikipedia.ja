@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - （全曲）作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+  - （全曲）作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 
 <!-- end list -->
 
@@ -23,12 +23,12 @@
 4.  **[Wake Me Up\!（RISE Mix）](../Page/Wake_Me_Up!.md "wikilink")**
       -
         4thシングル。イントロが変更されており、アウトロがフェイドアウトせずに終わる。
-5.  **[White Love](https://ja.wikipedia.org/wiki/White_Love_\(SPEEDの曲\) "wikilink")**
+5.  **[White Love](../Page/White_Love_\(SPEEDの曲\).md "wikilink")**
       -
         5thシングル
 6.  **ラブリー♥フレンドシップ**
       -
-        [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")「さわやかぶどう・レモン・グレープフルーツ」CMソング。
+        [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")「さわやかぶどう・レモン・グレープフルーツ」CMソング。
 7.  **Reset 99 to 00**
 8.  **[Brand-New Weekend（Varick Street Mix）](https://ja.wikipedia.org/wiki/my_graduation "wikilink")**
       -

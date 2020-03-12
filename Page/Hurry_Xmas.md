@@ -1,7 +1,7 @@
 > この記事は[Hurry Xmas](https://ja.wikipedia.org/wiki/Hurry_Xmas)から翻訳されています。
 
 
-「**Hurry Xmas**」（ハリー クリスマス）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の33作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**Hurry Xmas**」（ハリー クリスマス）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の33作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -20,23 +20,23 @@ L'Arc〜en〜Cielの2007年第4弾シングルであり、5ヶ月連続リリー
 ## 収録曲
 
 1.  **Hurry Xmas** / L'Arc〜en〜Ciel
-      - 作詞・作曲：[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 編曲：L'Arc〜en〜Ciel & [Hajime Okano](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink") & [Daisaku Kume](https://ja.wikipedia.org/wiki/久米大作 "wikilink")
+      - 作詞・作曲：[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 編曲：L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink") & [Daisaku Kume](../Page/久米大作.md "wikilink")
     <!-- end list -->
       -
-        発売当初はノン[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")であったが、2007年11月23日から[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の[天神で行われたイベント](https://ja.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")「天神のクリスマスへ行こう2007」のテーマソングとして起用された。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の再発売に際し、2008年11月末から「[NEXUS 4](https://ja.wikipedia.org/wiki/NEXUS_4/SHINE "wikilink")」の後を継いで、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")「[スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink")」の[CMソングに起用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-        クリスマスを意識した初めての楽曲で、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")も[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")が行う[パーティ](https://ja.wikipedia.org/wiki/パーティ "wikilink")の中でメンバーが[演奏](../Page/演奏.md "wikilink")するというユニークな物である。
-        [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[ホーン](../Page/管楽器.md "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")、[コーラスを用いた](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")テイストの[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")で、[ガットギターによる](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")[ソロが導入された初めてのシングルでもある](../Page/ソロ_\(音楽\).md "wikilink")。また、当初hydeは[ブライアン・セッツァー・オーケストラ](https://ja.wikipedia.org/wiki/ブライアン・セッツァー・オーケストラ "wikilink")をイメージしており、バンドとアコーディオンのみのサウンドだったが、制作途中で[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")などを加えたゴージャスなアレンジとなった\[1\]。
-        2007年に実施された[オリコンの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")「今年聴きたいクリスマスソングランキング」で、全体で5位、高校生部門では1位を獲得した\[2\]。以後も各媒体で実施された、クリスマスをテーマにした楽曲のランキングにランクインしている\[3\]\[4\]。
+        発売当初はノン[タイアップ](../Page/タイアップ.md "wikilink")であったが、2007年11月23日から[福岡県](../Page/福岡県.md "wikilink")の[天神で行われたイベント](../Page/天神_\(福岡市\).md "wikilink")「天神のクリスマスへ行こう2007」のテーマソングとして起用された。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の再発売に際し、2008年11月末から「[NEXUS 4](https://ja.wikipedia.org/wiki/NEXUS_4/SHINE "wikilink")」の後を継いで、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")「[スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink")」の[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
+        クリスマスを意識した初めての楽曲で、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した[エキストラ](../Page/エキストラ.md "wikilink")が行う[パーティ](../Page/パーティ.md "wikilink")の中でメンバーが[演奏](../Page/演奏.md "wikilink")するというユニークな物である。
+        [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[ホーン](../Page/管楽器.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")、[コーラスを用いた](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")テイストの[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")で、[ガットギターによる](../Page/クラシック・ギター.md "wikilink")[ソロが導入された初めてのシングルでもある](../Page/ソロ_\(音楽\).md "wikilink")。また、当初hydeは[ブライアン・セッツァー・オーケストラ](https://ja.wikipedia.org/wiki/ブライアン・セッツァー・オーケストラ "wikilink")をイメージしており、バンドとアコーディオンのみのサウンドだったが、制作途中で[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")などを加えたゴージャスなアレンジとなった\[1\]。
+        2007年に実施された[オリコンの](../Page/オリコンチャート.md "wikilink")「今年聴きたいクリスマスソングランキング」で、全体で5位、高校生部門では1位を獲得した\[2\]。以後も各媒体で実施された、クリスマスをテーマにした楽曲のランキングにランクインしている\[3\]\[4\]。
 2.  **I Wish 2007** / [P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")
       - 作詞：hyde / 作曲：[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲：[TETSU P'UNK](https://ja.wikipedia.org/wiki/tetsuya "wikilink")
     <!-- end list -->
       -
-        4thアルバム『[True](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』の収録曲「I Wish」のカバー。[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")の「My Way」を意識したアレンジにしたという\[5\]。
-        P'UNK〜EN〜CIELのカバー楽曲で唯一[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が制作された。MVは初回生産限定盤に付属しているDVDに収録している。
+        4thアルバム『[True](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の収録曲「I Wish」のカバー。[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")の「My Way」を意識したアレンジにしたという\[5\]。
+        P'UNK〜EN〜CIELのカバー楽曲で唯一[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作された。MVは初回生産限定盤に付属しているDVDに収録している。
         2010年盤は、作曲：tetsuya / 編曲：T.E.Z P'UNK 表記
 3.  **Hurry Xmas -Silent Night version-**
       -
-        「Hurry Xmas」のアレンジ違いによる[インストゥルメンタルバージョン](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。本楽曲は当シングル以外に収録されておらず、どのアルバムにも収録されていない。
+        「Hurry Xmas」のアレンジ違いによる[インストゥルメンタルバージョン](../Page/器楽曲.md "wikilink")。本楽曲は当シングル以外に収録されておらず、どのアルバムにも収録されていない。
 4.  **Hurry Xmas (hydeless version)**
 5.  **I Wish 2007 (TETSU P'UNKless version)**
       -
@@ -77,21 +77,21 @@ L'Arc〜en〜Cielの2007年第4弾シングルであり、5ヶ月連続リリー
   - Hurry Xmas / L'Arc〜en〜Ciel
       - [hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
       - [ken](https://ja.wikipedia.org/wiki/ken "wikilink")：[Guitars](../Page/ギター.md "wikilink")
-      - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+      - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
       - [yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")：[Drum](../Page/ドラムセット.md "wikilink")
-          - hyde：[Keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
-          - [久米大作](https://ja.wikipedia.org/wiki/久米大作 "wikilink")：Keyboards, [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") & [Brass](../Page/金管楽器.md "wikilink") Arrangement
+          - hyde：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+          - [久米大作](../Page/久米大作.md "wikilink")：Keyboards, [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") & [Brass](../Page/金管楽器.md "wikilink") Arrangement
           - Takeshi Hatano：Keyboards
-          - 斎藤仁：[Manipulate](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+          - 斎藤仁：[Manipulate](../Page/マニピュレーター.md "wikilink")
           - [金原千恵子](../Page/金原千恵子.md "wikilink")ストリングス：Strings
-          - [小林正弘](https://ja.wikipedia.org/wiki/小林正弘 "wikilink")：[Trumpet](../Page/トランペット.md "wikilink")
+          - [小林正弘](../Page/小林正弘.md "wikilink")：[Trumpet](../Page/トランペット.md "wikilink")
           - 菅坡雅彦：Trumpet
-          - [村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")：[Trombone](../Page/トロンボーン.md "wikilink"), [Bass Trombone](../Page/バストロンボーン.md "wikilink")
+          - [村田陽一](../Page/村田陽一.md "wikilink")：[Trombone](../Page/トロンボーン.md "wikilink"), [Bass Trombone](../Page/バストロンボーン.md "wikilink")
           - 広原正典：Trombone
           - 近藤和彦：[Alto](../Page/アルト.md "wikilink") [Saxophone](../Page/サクソフォーン.md "wikilink"), [Flute](../Page/フルート.md "wikilink")
           - 宮本大路：[Tenor](https://ja.wikipedia.org/wiki/テナー "wikilink") Saxphone
-          - [佐藤芳明](https://ja.wikipedia.org/wiki/佐藤芳明 "wikilink")：[Accordion](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")
-          - [岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")：Tombourine
+          - [佐藤芳明](https://ja.wikipedia.org/wiki/佐藤芳明 "wikilink")：[Accordion](../Page/アコーディオン.md "wikilink")
+          - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink")：Tombourine
   - I Wish 2007 / P'UNK〜EN〜CIEL
       - TETSU P'UNK：Vocal
       - HYDE P'UNK：Guitars, Backing Vocal
@@ -104,7 +104,7 @@ L'Arc〜en〜Cielの2007年第4弾シングルであり、5ヶ月連続リリー
 
 <!-- end list -->
 
-  - 『[KISS](https://ja.wikipedia.org/wiki/KISS_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』 (\#1)
+  - 『[KISS](../Page/KISS_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』 (\#1)
 
 <!-- end list -->
 

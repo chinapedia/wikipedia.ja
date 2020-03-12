@@ -3,12 +3,12 @@
 
 「**KOIBUMI**」（こいぶみ）は、[2002年](../Page/2002年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の [シングル](../Page/シングル.md "wikilink")。
 
-発売元[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KICM-3035 / KICM-3036）。
+発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KICM-3035 / KICM-3036）。
 
 ## 概要
 
-  - 収録曲全て、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[朝霧の巫女](https://ja.wikipedia.org/wiki/朝霧の巫女 "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")および[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")。
-  - 歌詞も全てタイアップ作品を表現したものとなっている。また、「KOIBUMI」の歌詞は『[万葉集](https://ja.wikipedia.org/wiki/万葉集 "wikilink")』の[和歌](../Page/和歌.md "wikilink")を用いており、ラップと組み合わせるという斬新なものとなっている。
+  - 収録曲全て、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[朝霧の巫女](../Page/朝霧の巫女.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")および[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")。
+  - 歌詞も全てタイアップ作品を表現したものとなっている。また、「KOIBUMI」の歌詞は『[万葉集](../Page/万葉集.md "wikilink")』の[和歌](../Page/和歌.md "wikilink")を用いており、ラップと組み合わせるという斬新なものとなっている。
   - [ジャケットは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")「林原めぐみバージョン（通常バージョン）」と「朝霧の巫女（アニメバージョン）」の2種類がある。
   - オリコンの週間シングルチャートでは初登場7位を獲得した（チャートイン回数は10回）。
 
@@ -20,13 +20,13 @@
 
   - 東京
       -
-        [サタデーホットリクエスト](https://ja.wikipedia.org/wiki/サタデーホットリクエスト "wikilink")（[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")）
+        [サタデーホットリクエスト](../Page/サタデーホットリクエスト.md "wikilink")（[NHK-FM](../Page/NHK-FM放送.md "wikilink")）
   - 埼玉
       -
-        [SUNDAY COUNT DOWN THE TOP40](https://ja.wikipedia.org/wiki/ALL_JAPAN_SUPER_COUNT_DOWN "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
+        [SUNDAY COUNT DOWN THE TOP40](../Page/ALL_JAPAN_SUPER_COUNT_DOWN.md "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
   - 愛知
       -
-        [晴れ・どきドキ晴れ](https://ja.wikipedia.org/wiki/晴れ・どきドキ晴れ "wikilink")（[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
+        [晴れ・どきドキ晴れ](../Page/晴れ・どきドキ晴れ.md "wikilink")（[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
         サンデー・リクエスト807（[FM愛知](../Page/エフエム愛知.md "wikilink")）
         女性雑誌「KeLLy」
   - 大阪
@@ -41,7 +41,7 @@
   - 兵庫
       -
         [青春ラジメニア](../Page/青春ラジメニア.md "wikilink")（[AM KOBE](../Page/ラジオ関西.md "wikilink")）
-        [王様ラジオキッズ](https://ja.wikipedia.org/wiki/王様ラジオキッズ "wikilink")（AM KOBE）
+        [王様ラジオキッズ](../Page/王様ラジオキッズ.md "wikilink")（AM KOBE）
         MEGA HITS CONNECTION（[KISS-FM](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")）
         kiss Stopping On The Way（KISS-FM）
   - 三重
@@ -63,7 +63,7 @@
 <!-- end list -->
 
 1.  **KOIBUMI** \[4:54\]
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[朝霧の巫女](https://ja.wikipedia.org/wiki/朝霧の巫女 "wikilink")』エンディング主題歌
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[朝霧の巫女](../Page/朝霧の巫女.md "wikilink")』エンディング主題歌
 2.  **朝未き・夜渡り** \[5:00\]
       - テレビアニメ『朝霧の巫女』挿入歌（最終回のエンディングとしても起用）
 3.  **faint love** \[4:14\]

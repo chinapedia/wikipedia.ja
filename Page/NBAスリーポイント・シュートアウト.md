@@ -1,11 +1,11 @@
 > この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
 
 
-**NBAスリーポイント・シュートアウト**(正式にはフットロッカー・スリーポイント・シュートアウト)は、[NBA](../Page/NBA.md "wikilink")が毎年2月に開催される[NBAオールスターゲーム](https://ja.wikipedia.org/wiki/NBAオールスターゲーム "wikilink")に先立って開かれる[NBAオールスターウィークエンド](../Page/NBAオールスターウィークエンド.md "wikilink")の中で土曜日に行われるコンテストである\[1\]。。日本では一般的に**[スリーポイントシュートコンテスト](https://ja.wikipedia.org/wiki/スリーポイントフィールドゴール "wikilink")**と呼ばれている。
+**NBAスリーポイント・シュートアウト**(正式にはフットロッカー・スリーポイント・シュートアウト)は、[NBA](../Page/NBA.md "wikilink")が毎年2月に開催される[NBAオールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")に先立って開かれる[NBAオールスターウィークエンド](../Page/NBAオールスターウィークエンド.md "wikilink")の中で土曜日に行われるコンテストである\[1\]。。日本では一般的に**[スリーポイントシュートコンテスト](https://ja.wikipedia.org/wiki/スリーポイントフィールドゴール "wikilink")**と呼ばれている。
 
 ## 概要
 
-同大会は開催週の日曜日に行われる[NBAオールスターゲーム](https://ja.wikipedia.org/wiki/NBAオールスターゲーム "wikilink")に先立って土曜日に行われ、スリーポイントシュートによるポイントを競う。挑戦者にはシュートの精度もさることながら、立て続けにロングシュートを放つためのスタミナや精神力も求められる。初開催された[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降、[ロックアウト](https://ja.wikipedia.org/wiki/ロックアウト "wikilink")によるシーズン縮小のためオールスターが開催されなかった[1999年](../Page/1999年.md "wikilink")を除き、毎年開催されている。
+同大会は開催週の日曜日に行われる[NBAオールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")に先立って土曜日に行われ、スリーポイントシュートによるポイントを競う。挑戦者にはシュートの精度もさることながら、立て続けにロングシュートを放つためのスタミナや精神力も求められる。初開催された[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降、[ロックアウト](../Page/ロックアウト.md "wikilink")によるシーズン縮小のためオールスターが開催されなかった[1999年](../Page/1999年.md "wikilink")を除き、毎年開催されている。
 
 ## ルール
 
@@ -23,11 +23,11 @@
 | プレーヤー                                                           | 得点           | シーズン |
 | --------------------------------------------------------------- | ------------ | ---- |
 | [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink") | 25 points    | 1985 |
-| [ジェイソン・カポノ](https://ja.wikipedia.org/wiki/ジェイソン・カポノ "wikilink") | 25 points    | 2007 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                    | 25 points    | 2007 |
 | [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink") | 24 points    | 1990 |
-| [マーク・プライス](https://ja.wikipedia.org/wiki/マーク・プライス "wikilink")   | 24 points    | 1993 |
+| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                      | 24 points    | 1993 |
 | [ハバート・デイビス](https://ja.wikipedia.org/wiki/ハバート・デイビス "wikilink") | 24 points    | 1997 |
-| [ジェイソン・カポノ](https://ja.wikipedia.org/wiki/ジェイソン・カポノ "wikilink") | 24 points    | 2006 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                    | 24 points    | 2006 |
 | [マルコ・ベリネッリ](https://ja.wikipedia.org/wiki/マルコ・ベリネッリ "wikilink") | \* 24 points | 2013 |
 | \[2\]                                                           |              |      |
 
@@ -36,17 +36,17 @@
 | プレーヤー                                                                            | 得点          | シーズン |
 | -------------------------------------------------------------------------------- | ----------- | ---- |
 | [クレイ・トンプソン](https://ja.wikipedia.org/wiki/クレイ・トンプソン "wikilink")                  | 27 points   | 2016 |
-| [ジェイソン・カポノ](https://ja.wikipedia.org/wiki/ジェイソン・カポノ "wikilink")                  | 25 points   | 2007 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                                     | 25 points   | 2007 |
 | [マルコ・ベリネッリ](https://ja.wikipedia.org/wiki/マルコ・ベリネッリ "wikilink")                  | \*24 points | 2013 |
-| [マーク・プライス](https://ja.wikipedia.org/wiki/マーク・プライス "wikilink")                    | 24 points   | 1993 |
-| [ジェイソン・カポノ](https://ja.wikipedia.org/wiki/ジェイソン・カポノ "wikilink")                  | 24 points   | 2006 |
+| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                                       | 24 points   | 1993 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                                     | 24 points   | 2006 |
 | [カイリー・アービング](https://ja.wikipedia.org/wiki/カイリー・アービング "wikilink")                | 23 points   | 2012 |
 | [ラリー・バード](../Page/ラリー・バード.md "wikilink")                                         | 22 points   | 1985 |
 | [ペジャ・ストヤコビッチ](https://ja.wikipedia.org/wiki/ペジャ・ストヤコビッチ "wikilink")              | 22 points   | 2003 |
-| [スティーブ・カー](https://ja.wikipedia.org/wiki/スティーブ・カー "wikilink")                    | 22 points   | 1996 |
+| [スティーブ・カー](../Page/スティーブ・カー.md "wikilink")                                       | 22 points   | 1996 |
 | [マット・ボナー](https://ja.wikipedia.org/wiki/マット・ボナー "wikilink")                      | 20 points   | 2012 |
 | [ティム・レグラー](https://ja.wikipedia.org/wiki/ティム・レグラー "wikilink")                    | 20 points   | 1995 |
-| [ポール・ピアース](https://ja.wikipedia.org/wiki/ポール・ピアース "wikilink")                    | 20 points   | 2009 |
+| [ポール・ピアース](../Page/ポール・ピアース.md "wikilink")                                       | 20 points   | 2009 |
 | [ジェームズ・ジョーンズ](https://ja.wikipedia.org/wiki/ジェームズ・ジョーンズ_\(バスケットボール\) "wikilink") | 20 points   | 2010 |
 |                                                                                  |             |      |
 
@@ -58,11 +58,11 @@
 | [ラリー・バード](../Page/ラリー・バード.md "wikilink")                          | 11 shots | 1985 |
 | [ハバート・デイビス](https://ja.wikipedia.org/wiki/ハバート・デイビス "wikilink")   | 11 shots | 1995 |
 | [カイリー・アービング](https://ja.wikipedia.org/wiki/カイリー・アービング "wikilink") | 10 shots | 2012 |
-| [ジェイソン・カポノ](https://ja.wikipedia.org/wiki/ジェイソン・カポノ "wikilink")   | 10 shots | 2007 |
-| [レイ・アレン](https://ja.wikipedia.org/wiki/レイ・アレン "wikilink")         | 10 shots | 2010 |
-| [デニス・スコット](https://ja.wikipedia.org/wiki/デニス・スコット "wikilink")     | 9 shots  | 1990 |
-| [マーク・プライス](https://ja.wikipedia.org/wiki/マーク・プライス "wikilink")     | 9 shots  | 1993 |
-| [スティーブ・カー](https://ja.wikipedia.org/wiki/スティーブ・カー "wikilink")     | 9 shots  | 1996 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                      | 10 shots | 2007 |
+| [レイ・アレン](../Page/レイ・アレン.md "wikilink")                            | 10 shots | 2010 |
+| [デニス・スコット](../Page/デニス・スコット.md "wikilink")                        | 9 shots  | 1990 |
+| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                        | 9 shots  | 1993 |
+| [スティーブ・カー](../Page/スティーブ・カー.md "wikilink")                        | 9 shots  | 1996 |
 | \[3\]                                                             |          |      |
 
 連続成功数
@@ -70,7 +70,7 @@
 ## その他
 
   - 1988年のコンテストに出場した[ラリー・バード](../Page/ラリー・バード.md "wikilink")は、ファイナルラウンドのラストショットを放った直後に人差し指を上に突き上げるという有名なエピソードを残すとともに、3連覇を達成した。
-  - 歴代最高得点は1986年ファーストラウンドの[クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink")と2008年ファイナルラウンドの[ジェイソン・カポノ](https://ja.wikipedia.org/wiki/ジェイソン・カポノ "wikilink")が記録した25点、歴代最高連続成功数は1991年のホッジスが記録した19回である。
+  - 歴代最高得点は1986年ファーストラウンドの[クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink")と2008年ファイナルラウンドの[ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")が記録した25点、歴代最高連続成功数は1991年のホッジスが記録した19回である。
   - 歴代最低得点は[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")が1990年ファーストラウンドに記録した5点。
 
 ## 脚注

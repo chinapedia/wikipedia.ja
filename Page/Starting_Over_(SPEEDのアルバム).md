@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-  - （全曲）作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+  - （全曲）作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 
 <!-- end list -->
 

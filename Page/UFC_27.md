@@ -5,9 +5,9 @@
 
 ## 大会概要
 
-各階級ともタイトルマッチは行われず。メインイベントでは[ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink")が[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")に勝利。
+各階級ともタイトルマッチは行われず。メインイベントでは[ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink")が[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")に勝利。
 
-UFC初参戦となった元[無差別級](../Page/無差別級.md "wikilink")キング・オブ・[パンクラシスト](https://ja.wikipedia.org/wiki/パンクラス "wikilink")[近藤有己](https://ja.wikipedia.org/wiki/近藤有己 "wikilink")はアレッシャンドリ・ダンテスからTKO勝ちを収め白星デビューとなった。
+UFC初参戦となった元[無差別級](../Page/無差別級.md "wikilink")キング・オブ・[パンクラシスト](../Page/パンクラス.md "wikilink")[近藤有己](../Page/近藤有己.md "wikilink")はアレッシャンドリ・ダンテスからTKO勝ちを収め白星デビューとなった。
 
 ## 試合結果
 
@@ -26,19 +26,19 @@ UFC初参戦となった元[無差別級](../Page/無差別級.md "wikilink")キ
     ○  [イアン・フリーマン](../Page/イアン・フリーマン.md "wikilink") vs.  テッド・ウィリアムス ×
     3R終了 判定3-0
   - 第4試合 ミドル級 5分3R
-    ○  [近藤有己](https://ja.wikipedia.org/wiki/近藤有己 "wikilink") vs.  アレッシャンドリ・ダンテス ×
-    3R 2:28 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [近藤有己](../Page/近藤有己.md "wikilink") vs.  アレッシャンドリ・ダンテス ×
+    3R 2:28 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第5試合 ライト級 5分3R
     ○  ファビアノ・イハ vs.  ラバーン・クラーク ×
-    1R 1:10 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 1:10 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第6試合 ミドル級 5分3R
     ○  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") vs.  [ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") ×
-    1R 4:32 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    1R 4:32 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第7試合 ヘビー級 5分3R
-    ○  [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink") vs.  [ボビー・ホフマン](https://ja.wikipedia.org/wiki/ボビー・ホフマン "wikilink") ×
+    ○  [モーリス・スミス](../Page/モーリス・スミス.md "wikilink") vs.  [ボビー・ホフマン](https://ja.wikipedia.org/wiki/ボビー・ホフマン "wikilink") ×
     3R終了 判定2-0
   - 第8試合 ヘビー級 5分3R
-    ○  [ペドロ・ヒーゾ](https://ja.wikipedia.org/wiki/ペドロ・ヒーゾ "wikilink") vs.  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") ×
+    ○  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") vs.  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") ×
     1R 1:33 ギブアップ（ローキック）
 
 ## 関連項目

@@ -1,7 +1,7 @@
 > この記事は[ DESTINY](https://ja.wikipedia.org/wiki/_DESTINY)から翻訳されています。
 
 
-『**季節はずれの海岸物語 砂浜のDESTINY**』（きせつはずれのかいがんものがたり すなはまのDESTINY）は、[季節はずれの海岸物語](https://ja.wikipedia.org/wiki/季節はずれの海岸物語 "wikilink")シリーズの第3作目である。
+『**季節はずれの海岸物語 砂浜のDESTINY**』（きせつはずれのかいがんものがたり すなはまのDESTINY）は、[季節はずれの海岸物語](../Page/季節はずれの海岸物語.md "wikilink")シリーズの第3作目である。
 
 ## 放送データ
 
@@ -11,30 +11,30 @@
 
 ## 概要
 
-この回より、理恵（[渡辺美奈代](https://ja.wikipedia.org/wiki/渡辺美奈代 "wikilink")）が登場する。以後、すべての作品に出演することになる。
+この回より、理恵（[渡辺美奈代](../Page/渡辺美奈代.md "wikilink")）が登場する。以後、すべての作品に出演することになる。
 
-また、徳子（[可愛かずみ](https://ja.wikipedia.org/wiki/可愛かずみ "wikilink")）と、春文（[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")）はこの回では、すでに結婚していて、両者共働きと言うことになっている。
+また、徳子（[可愛かずみ](../Page/可愛かずみ.md "wikilink")）と、春文（[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")）はこの回では、すでに結婚していて、両者共働きと言うことになっている。
 
 理恵の恋人として、勇次（[中山秀征](../Page/中山秀征.md "wikilink")）が、この回には出演しているが、後に出てくる幸一（[山本陽一](../Page/山本陽一.md "wikilink")）は、まだ出演していない。なお、この勇次も、サブ（[寺門ジモン](https://ja.wikipedia.org/wiki/寺門ジモン "wikilink")）と同様、後の作品に突然出演しなくなっている。
 
 今回、特別ゲストとして[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が同名で劇中に登場（ファーストフード店の店員役）している。
 
-ちなみに、今回のマドンナの真由美（[斉藤慶子](https://ja.wikipedia.org/wiki/斉藤慶子 "wikilink")）の設定は、徳子の高校の先輩（1つ上）である。
+ちなみに、今回のマドンナの真由美（[斉藤慶子](../Page/斉藤慶子.md "wikilink")）の設定は、徳子の高校の先輩（1つ上）である。
 
 ## 出演
 
   - 圭介：[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")
   - 春文：[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")
-  - 徳子：[可愛かずみ](https://ja.wikipedia.org/wiki/可愛かずみ "wikilink")
+  - 徳子：[可愛かずみ](../Page/可愛かずみ.md "wikilink")
   - サブ：[寺門ジモン](https://ja.wikipedia.org/wiki/寺門ジモン "wikilink")
   - 洋子：[小河麻衣子](https://ja.wikipedia.org/wiki/小河麻衣子 "wikilink")
   - 淳子：[桐山まゆみ](https://ja.wikipedia.org/wiki/桐山まゆみ "wikilink")
   - 正子：[岩渕夢菜](https://ja.wikipedia.org/wiki/岩渕夢菜 "wikilink")
-  - たけし：[黒田勇樹](https://ja.wikipedia.org/wiki/黒田勇樹 "wikilink")
-  - 理恵：[渡辺美奈代](https://ja.wikipedia.org/wiki/渡辺美奈代 "wikilink")
+  - たけし：[黒田勇樹](../Page/黒田勇樹.md "wikilink")
+  - 理恵：[渡辺美奈代](../Page/渡辺美奈代.md "wikilink")
   - 勇次：[中山秀征](../Page/中山秀征.md "wikilink")
-  - [鬼塚勝也](https://ja.wikipedia.org/wiki/鬼塚勝也 "wikilink")（ボクシング選手）
-  - **真由美：[斉藤慶子](https://ja.wikipedia.org/wiki/斉藤慶子 "wikilink")**
+  - [鬼塚勝也](../Page/鬼塚勝也.md "wikilink")（ボクシング選手）
+  - **真由美：[斉藤慶子](../Page/斉藤慶子.md "wikilink")**
 
 明菜：[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")（特別出演）
 
@@ -98,8 +98,8 @@
 ## 関連項目
 
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
-  - [季節はずれの海岸物語](https://ja.wikipedia.org/wiki/季節はずれの海岸物語 "wikilink")
-  - [封印作品](https://ja.wikipedia.org/wiki/封印作品 "wikilink")
+  - [季節はずれの海岸物語](../Page/季節はずれの海岸物語.md "wikilink")
+  - [封印作品](../Page/封印作品.md "wikilink")
   - [鎌倉](../Page/鎌倉.md "wikilink")
   - [湘南](../Page/湘南.md "wikilink")
 

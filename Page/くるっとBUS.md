@@ -1,7 +1,7 @@
 > この記事は[BUS](https://ja.wikipedia.org/wiki/BUS)から翻訳されています。
 
 
-[thumbnail](https://ja.wikipedia.org/wiki/画像:Keihan-e-3130-kuruttobus_for-wiki.JPG "wikilink") **くるっとBUS**（くるっとバス）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")でかつて運行されていた[京阪バス](../Page/京阪バス.md "wikilink")の[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。
+[thumbnail](https://ja.wikipedia.org/wiki/画像:Keihan-e-3130-kuruttobus_for-wiki.JPG "wikilink") **くるっとBUS**（くるっとバス）は、[大阪府](../Page/大阪府.md "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")でかつて運行されていた[京阪バス](../Page/京阪バス.md "wikilink")の[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。
 
 当時の[キャッチコピー](../Page/キャッチコピー.md "wikilink")は**「まちと駅をくるっと結ぶ」**
 
@@ -21,9 +21,9 @@
 
 新たな試みの主な内容
 
-1.  くるっとBUS専用[停留所に限り](../Page/バス停留所.md "wikilink")（他路線との兼用停留所を除く）停留所の[標識](https://ja.wikipedia.org/wiki/標識 "wikilink")を専用のものとし、合わせて専用停留所に掲出する時刻表の表記をシンプルのものとした 。
+1.  くるっとBUS専用[停留所に限り](../Page/バス停留所.md "wikilink")（他路線との兼用停留所を除く）停留所の[標識](../Page/標識.md "wikilink")を専用のものとし、合わせて専用停留所に掲出する時刻表の表記をシンプルのものとした 。
 2.  [乗客](https://ja.wikipedia.org/wiki/乗客 "wikilink")の解り易さの観点から、経路表記を[漢字](../Page/漢字.md "wikilink")の「右回り」・「左回り」とせず、「みぎ回り」・「ひだり回り」とした。
-3.  京阪バスの定期路線としては初めて[ヘッドマークを採用し](https://ja.wikipedia.org/wiki/方向幕#ヘッドマーク "wikilink")、くるっとBUSで運行する際は側面と前面の1ヶ所に貼り付ける（[磁石](../Page/磁石.md "wikilink")式である）。ヘッドマークの色彩もみぎ回りは緑、ひだり回りは橙を使用して誤乗防止を図った（但しヘッドマークは間合いで運用される門真29号（後述）及び門真11号、19号経路運用時や[回送](https://ja.wikipedia.org/wiki/回送 "wikilink")時には掲出しなかった）。尚、ひだり回りの場合は[方向幕](../Page/方向幕.md "wikilink")の[LED表示も反転表示となっていた](../Page/発光ダイオード.md "wikilink")。
+3.  京阪バスの定期路線としては初めて[ヘッドマークを採用し](https://ja.wikipedia.org/wiki/方向幕#ヘッドマーク "wikilink")、くるっとBUSで運行する際は側面と前面の1ヶ所に貼り付ける（[磁石](../Page/磁石.md "wikilink")式である）。ヘッドマークの色彩もみぎ回りは緑、ひだり回りは橙を使用して誤乗防止を図った（但しヘッドマークは間合いで運用される門真29号（後述）及び門真11号、19号経路運用時や[回送](../Page/回送.md "wikilink")時には掲出しなかった）。尚、ひだり回りの場合は[方向幕](../Page/方向幕.md "wikilink")の[LED表示も反転表示となっていた](../Page/発光ダイオード.md "wikilink")。
 
 ## 沿革
 
@@ -35,13 +35,13 @@
 
   - 京阪守口市駅発9時台から16時台まで1時間に1本運行され、ひだり回りが5分発、みぎ回りが30分発の完全1時間ヘッドであった。1周の運行時間はみぎ回り/ひだり回り共に42分。
       - 朝夕[ラッシュ時](../Page/ラッシュ時.md "wikilink")間帯はくるっとBUSに代わり一般路線である門真29号経路での運行となっていた（この運行経路は間合い運用であるためくるっとBUSと同一車両で運行）。
-  - くるっとBUS、門真29号経路共に[門真営業所の管轄であった](https://ja.wikipedia.org/wiki/京阪バス門真営業所 "wikilink")。
+  - くるっとBUS、門真29号経路共に[門真営業所の管轄であった](../Page/京阪バス門真営業所.md "wikilink")。
 
 ## 運行当時の経路
 
 ### くるっとBUS
 
-  - みぎ回り [京阪守口市駅](https://ja.wikipedia.org/wiki/守口市駅 "wikilink")→橋波公園→錦通住宅6号棟→錦中学校→南寺方東通四丁目→[南小学校](https://ja.wikipedia.org/wiki/守口市立南小学校 "wikilink")→清水四丁目東→寺方元町→[市民球場前](https://ja.wikipedia.org/wiki/守口市市民球場 "wikilink")→京阪守口市駅
+  - みぎ回り [京阪守口市駅](https://ja.wikipedia.org/wiki/守口市駅 "wikilink")→橋波公園→錦通住宅6号棟→錦中学校→南寺方東通四丁目→[南小学校](../Page/守口市立南小学校.md "wikilink")→清水四丁目東→寺方元町→[市民球場前](../Page/守口市市民球場.md "wikilink")→京阪守口市駅
   - ひだり回り 京阪守口市駅→市民球場前→寺方元町→南寺方西公園→鶴見緑地病院→南寺方東通四丁目→寺方錦通二丁目→わかすぎ園→橋波公園→京阪守口市駅
 
 ### 間合い運行の経路

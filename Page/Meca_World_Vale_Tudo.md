@@ -3,7 +3,7 @@
 
 **Meca World Vale Tudo**（メッカ・ワールド・ヴァーリ・トゥード）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink") 団体。
 
-伝統的な[バーリトゥード](https://ja.wikipedia.org/wiki/バーリトゥード "wikilink")ルールを維持していたが、第11回大会から「**Meca Fighting Championship**」に名称が変更され、[総合格闘技](../Page/総合格闘技.md "wikilink")団体としてリニューアルされた。代表者は[シュートボクセ・アカデミー](https://ja.wikipedia.org/wiki/シュートボクセ・アカデミー "wikilink")代表のフジマール・フェデリコ。
+伝統的な[バーリトゥード](../Page/バーリトゥード.md "wikilink")ルールを維持していたが、第11回大会から「**Meca Fighting Championship**」に名称が変更され、[総合格闘技](../Page/総合格闘技.md "wikilink")団体としてリニューアルされた。代表者は[シュートボクセ・アカデミー](../Page/シュートボクセ・アカデミー.md "wikilink")代表のフジマール・フェデリコ。
 
 ## 概要
 

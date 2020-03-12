@@ -1,7 +1,7 @@
 > この記事は[Brave heart \(\)](https://ja.wikipedia.org/wiki/Brave_heart_\(\))から翻訳されています。
 
 
-「**brave heart**」（ブレイブ・ハート）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の27作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")に[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")（KICM-3021）よりリリースされた。
+「**brave heart**」（ブレイブ・ハート）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の27作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（KICM-3021）よりリリースされた。
 
 ## 概要
 
@@ -16,10 +16,10 @@
 
 1.  **brave heart** \[4:14\]
       -
-        作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink")、コーラス：[たかはしごう](../Page/たかはしごう.md "wikilink")
+        作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[太田美知彦](../Page/太田美知彦.md "wikilink")、コーラス：[たかはしごう](../Page/たかはしごう.md "wikilink")
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『シャーマンキング』挿入歌
         本編・第二十四廻で初めて使用されて以降、頻繁に使用された。
-        林原めぐみの楽曲としては珍しく、太田美知彦が作曲をしている。ちなみに太田は、今作以前の[1999年](../Page/1999年.md "wikilink")に、アニメ『[デジモンアドベンチャー](https://ja.wikipedia.org/wiki/デジモンアドベンチャー "wikilink")』で[同名の楽曲を手掛けた](https://ja.wikipedia.org/wiki/brave_heart_\(宮崎歩の曲\) "wikilink")。
+        林原めぐみの楽曲としては珍しく、太田美知彦が作曲をしている。ちなみに太田は、今作以前の[1999年](../Page/1999年.md "wikilink")に、アニメ『[デジモンアドベンチャー](../Page/デジモンアドベンチャー.md "wikilink")』で[同名の楽曲を手掛けた](https://ja.wikipedia.org/wiki/brave_heart_\(宮崎歩の曲\) "wikilink")。
 2.  **きらめくかけら** \[4:43\]
       - 作詞・作曲：[泉川そら](../Page/イズミカワソラ.md "wikilink")、コーラス：MEGUMI
 3.  **brave heart（Moonlit Version）** \[4:25\]

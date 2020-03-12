@@ -25,9 +25,9 @@
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")7月 - 11階建ての西館を増設
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")7月 - 全日空ホテルズに加盟（販売協力契約）
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")4月 - 25階建ての東館を増設、全日空ホテルズとの契約をフランチャイズ（運営指導）に変更
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 本館・西館を解体（跡地は駐車場棟）、玄関・ロビーを改装
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 「熊本全日空ホテルニュースカイ」に改称
-  - [2014年](../Page/2014年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - 「ANAクラウンプラザホテル熊本ニュースカイ」に改称。
+  - [2005年](../Page/2005年.md "wikilink") - 本館・西館を解体（跡地は駐車場棟）、玄関・ロビーを改装
+  - [2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 「熊本全日空ホテルニュースカイ」に改称
+  - [2014年](../Page/2014年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - 「ANAクラウンプラザホテル熊本ニュースカイ」に改称。
 
 ## 交通アクセス
 
@@ -37,22 +37,22 @@
   - **[JR九州](../Page/九州旅客鉄道.md "wikilink")**
       - [熊本駅](https://ja.wikipedia.org/wiki/熊本駅 "wikilink")
   - 路線バス
-      - 祇園橋バス停 - [都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")・[産交バス](https://ja.wikipedia.org/wiki/九州産交バス "wikilink")・[熊本電鉄バスほか](https://ja.wikipedia.org/wiki/熊本電気鉄道#バス事業 "wikilink")
+      - 祇園橋バス停 - [都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")・[産交バス](../Page/九州産交バス.md "wikilink")・[熊本電鉄バスほか](https://ja.wikipedia.org/wiki/熊本電気鉄道#バス事業 "wikilink")
       - ANAクラウンプラザホテル熊本ニュースカイバス停 - [空港リムジンバス](https://ja.wikipedia.org/wiki/熊本_-_熊本空港線 "wikilink")・[高森線](https://ja.wikipedia.org/wiki/たかもり号 "wikilink")・[九州横断バス](../Page/九州横断バス.md "wikilink")・[熊本城周遊バス](../Page/熊本城周遊バス.md "wikilink")
 
 ## 周辺施設
 
-  - [熊本市立五福小学校](https://ja.wikipedia.org/wiki/熊本市立五福小学校 "wikilink")
+  - [熊本市立五福小学校](../Page/熊本市立五福小学校.md "wikilink")
   - 熊本市西消防署
   - 熊本細工町郵便局
   - [三井住友銀行](../Page/三井住友銀行.md "wikilink")熊本支店
-  - 旧[第一銀行](../Page/第一銀行.md "wikilink")熊本支店（[登録有形文化財](https://ja.wikipedia.org/wiki/登録有形文化財 "wikilink") [くまもとアートポリス](https://ja.wikipedia.org/wiki/くまもとアートポリス "wikilink")選定既存建造物）
+  - 旧[第一銀行](../Page/第一銀行.md "wikilink")熊本支店（[登録有形文化財](../Page/登録有形文化財.md "wikilink") [くまもとアートポリス](../Page/くまもとアートポリス.md "wikilink")選定既存建造物）
 
 ### 自然・観光地
 
   - [坪井川](../Page/坪井川_\(熊本県\).md "wikilink")
-  - [白川](https://ja.wikipedia.org/wiki/白川_\(熊本県\) "wikilink")
-  - [花岡山](https://ja.wikipedia.org/wiki/花岡山 "wikilink")
+  - [白川](../Page/白川_\(熊本県\).md "wikilink")
+  - [花岡山](../Page/花岡山.md "wikilink")
   - [北岡自然公園](https://ja.wikipedia.org/wiki/花岡山#麓 "wikilink") - 細川家の菩提寺であった妙解寺の跡地。花岡山麓にある。
   - [北岡神社](https://ja.wikipedia.org/wiki/北岡神社 "wikilink")
 

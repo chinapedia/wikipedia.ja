@@ -9,7 +9,7 @@
 
 ## 歴史
 
-[Mandriva Linuxの前身である](https://ja.wikipedia.org/wiki/Mandriva_Linux "wikilink") Mandrake Linux 9.2 をモデルとして、開発が開始された。 Mandrake の標準ではない独自の機能を追加し、カスタマイズすることによって、より使い易くする工夫が施されている。
+[Mandriva Linuxの前身である](../Page/Mandriva_Linux.md "wikilink") Mandrake Linux 9.2 をモデルとして、開発が開始された。 Mandrake の標準ではない独自の機能を追加し、カスタマイズすることによって、より使い易くする工夫が施されている。
 
 PCLinuxOS としての最初のリリースは、2003年10月。当時 Mandrake Linux の主要な開発者でパッケージマネージャーの Bill Reynolds (一般には Texstar という名で広く知られる）が、新規Linuxディストリビューションとして公開した。PCLinuxOS 2007が公開されて以来、さらに世界的に注目を集めるようになり、主要な各言語版のフォーラムが存在する。
 
@@ -41,19 +41,19 @@ PCLinuxOS としての最初のリリースは、2003年10月。当時 Mandrake 
 
 ## 特徴
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Pclinuxos-2007-gnome.png "wikilink") Mandrake Linux を元にして開発されているため、標準のデスクトップ環境は [KDE](../Page/KDE.md "wikilink") が採用されている。オプションとして、[GNOME](../Page/GNOME.md "wikilink") や [Xfce](https://ja.wikipedia.org/wiki/Xfce "wikilink") 、[Openbox](https://ja.wikipedia.org/wiki/Openbox "wikilink") 、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink") 、[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink") 環境で利用するためのパッケージも公式に提供されている。（GNOMEデスクトップについては、右図参考のこと。）デスクトップ・アプリケーションやシステム管理の仕組みには重複する特徴が多い。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Pclinuxos-2007-gnome.png "wikilink") Mandrake Linux を元にして開発されているため、標準のデスクトップ環境は [KDE](../Page/KDE.md "wikilink") が採用されている。オプションとして、[GNOME](../Page/GNOME.md "wikilink") や [Xfce](../Page/Xfce.md "wikilink") 、[Openbox](https://ja.wikipedia.org/wiki/Openbox "wikilink") 、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink") 、[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink") 環境で利用するためのパッケージも公式に提供されている。（GNOMEデスクトップについては、右図参考のこと。）デスクトップ・アプリケーションやシステム管理の仕組みには重複する特徴が多い。
 
 ただし、特に以下の点は、Mandrake Linux とは異なる。
 
-  - [Live CDとして提供されるが](https://ja.wikipedia.org/wiki/Live_CD "wikilink")、ハードディスクへのインストールが可能。
-  - パッケージの基本的な管理は、[APT](https://ja.wikipedia.org/wiki/APT "wikilink")、[synaptic](https://ja.wikipedia.org/wiki/synaptic "wikilink") によって行う。採用されているパッケージ形式は、Mandrakeと同じく[RPM](https://ja.wikipedia.org/wiki/RPM_Package_Manager "wikilink")。
+  - [Live CDとして提供されるが](../Page/Live_CD.md "wikilink")、ハードディスクへのインストールが可能。
+  - パッケージの基本的な管理は、[APT](../Page/APT.md "wikilink")、[synaptic](https://ja.wikipedia.org/wiki/synaptic "wikilink") によって行う。採用されているパッケージ形式は、Mandrakeと同じく[RPM](../Page/RPM_Package_Manager.md "wikilink")。
   - リマスタリング機能を利用することで、ユーザーは独自にカスタマイズした Live CD を簡単に作成することが可能。
 
 ## 関連項目
 
-  - [Mandriva Linux](https://ja.wikipedia.org/wiki/Mandriva_Linux "wikilink")
-  - [Linuxディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxディストリビューションの比較 "wikilink")
-  - [Linuxライブディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxライブディストリビューションの比較 "wikilink")
+  - [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
+  - [Linuxライブディストリビューションの比較](../Page/Linuxライブディストリビューションの比較.md "wikilink")
 
 ## 注釈
 

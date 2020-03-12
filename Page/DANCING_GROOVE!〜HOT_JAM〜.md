@@ -1,7 +1,7 @@
 > この記事は[DANCING GROOVE!HOT JAM](https://ja.wikipedia.org/wiki/DANCING_GROOVE!HOT_JAM)から翻訳されています。
 
 
-『**DANCING GROOVE\!〜HOT JAM〜**』（ダンシング・グルーヴ ホット・ジャム）は、[FM Yokohamaが](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")1995年から放送してきた[音楽専門番組である](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**DANCING GROOVE\!〜HOT JAM〜**』（ダンシング・グルーヴ ホット・ジャム）は、[FM Yokohamaが](../Page/横浜エフエム放送.md "wikilink")1995年から放送してきた[音楽専門番組である](../Page/音楽番組.md "wikilink")。
 
 2010年3月31日深夜の放送で終了した。
 
@@ -22,8 +22,8 @@
 <!-- end list -->
 
   - 24:00～24:30 motsu（[m.o.v.e.](https://ja.wikipedia.org/wiki/m.o.v.e. "wikilink")）
-  - 24:30～25:00 日高光啓（[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")）
-  - 25:00～26:00 [Mother Ninja](https://ja.wikipedia.org/wiki/Mother_Ninja "wikilink")
+  - 24:30～25:00 日高光啓（[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")）
+  - 25:00～26:00 [Mother Ninja](../Page/Mother_Ninja.md "wikilink")
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - 24:00～25:00　[福田明子](https://ja.wikipedia.org/wiki/福田明子 "wikilink")
+  - 24:00～25:00　[福田明子](../Page/福田明子.md "wikilink")
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - 26:00～27:00　[湯川れい子](https://ja.wikipedia.org/wiki/湯川れい子 "wikilink")
+  - 26:00～27:00　[湯川れい子](../Page/湯川れい子.md "wikilink")
 
 <!-- end list -->
 
@@ -91,10 +91,10 @@
 
 ## 過去のDJ・終了
 
-  - 木曜27時台「FUSION ROCK\!」　[池上ケイ](../Page/池上ケイ.md "wikilink")、[より子](https://ja.wikipedia.org/wiki/より子 "wikilink")、[koume](https://ja.wikipedia.org/wiki/koume "wikilink")
+  - 木曜27時台「FUSION ROCK\!」　[池上ケイ](../Page/池上ケイ.md "wikilink")、[より子](../Page/より子.md "wikilink")、[koume](https://ja.wikipedia.org/wiki/koume "wikilink")
   - 火曜26時台「FUTURE SOUL」　[GTS](../Page/GTS_\(DJグループ\).md "wikilink")
   - 火曜27時台「HOTけNIGHT\!\!」　[Clench & Blistah](https://ja.wikipedia.org/wiki/Clench_&_Blistah "wikilink")
-  - 木曜24時台「ARIA FLOOR」　[LISA](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")
+  - 木曜24時台「ARIA FLOOR」　[LISA](../Page/LISA_\(歌手\).md "wikilink")
   - 木曜25時台「MASAYA FLOOR」　[和田昌哉](https://ja.wikipedia.org/wiki/和田昌哉 "wikilink")
   - 木曜27時台「DX Pocket」　[Sonar Pocket](https://ja.wikipedia.org/wiki/Sonar_Pocket "wikilink")
 

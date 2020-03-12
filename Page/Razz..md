@@ -1,7 +1,7 @@
 > この記事は[Razz.](https://ja.wikipedia.org/wiki/Razz.)から翻訳されています。
 
 
-**razz.**（ラズ）は1999年に解散した音楽グループ[RAZZ MA TAZZのメンバー二人からなる](https://ja.wikipedia.org/wiki/RAZZ_MA_TAZZ "wikilink")[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。2005年結成。2006年[ユニバーサル ミュージックよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。2008年3月活動停止を発表する。
+**razz.**（ラズ）は1999年に解散した音楽グループ[RAZZ MA TAZZのメンバー二人からなる](../Page/RAZZ_MA_TAZZ.md "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2005年結成。2006年[ユニバーサル ミュージックよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2008年3月活動停止を発表する。
 
 ## メンバー
 
@@ -57,7 +57,7 @@
 
 ## 関連項目
 
-  - [RAZZ MA TAZZ](https://ja.wikipedia.org/wiki/RAZZ_MA_TAZZ "wikilink")
+  - [RAZZ MA TAZZ](../Page/RAZZ_MA_TAZZ.md "wikilink")
   - [阿久のぶひろ](https://ja.wikipedia.org/wiki/阿久のぶひろ "wikilink")
 
 ## 外部リンク

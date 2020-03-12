@@ -1,7 +1,7 @@
 > この記事は[Hitman: Contracts](https://ja.wikipedia.org/wiki/Hitman:_Contracts)から翻訳されています。
 
 
-『**Hitman: Contracts**』（ヒットマン：コントラクト）は、[2004年](../Page/2004年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[HITMANシリーズの第](https://ja.wikipedia.org/wiki/ヒットマン_\(ゲーム\) "wikilink")3作目として発売された[ステルス性重視の](../Page/ステルスゲーム.md "wikilink")[サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/サードパーソン・シューティングゲーム "wikilink")である。国内では2004年[10月14日](../Page/10月14日.md "wikilink")にPC、Xbox、プレイステーション2で、日本語版が発売されている。
+『**Hitman: Contracts**』（ヒットマン：コントラクト）は、[2004年](../Page/2004年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[HITMANシリーズの第](https://ja.wikipedia.org/wiki/ヒットマン_\(ゲーム\) "wikilink")3作目として発売された[ステルス性重視の](../Page/ステルスゲーム.md "wikilink")[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")である。国内では2004年[10月14日](../Page/10月14日.md "wikilink")にPC、Xbox、プレイステーション2で、日本語版が発売されている。
 
 ## ストーリーと概要
 

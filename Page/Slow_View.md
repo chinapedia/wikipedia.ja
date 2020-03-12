@@ -14,7 +14,7 @@
 
 1.  **飛光**(3:46)
       -
-        [Loopを参照](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")
+        [Loopを参照](../Page/Loop_\(アルバム\).md "wikilink")
 2.  **Slow View**(3:27)
       -
         Loopを参照
@@ -24,7 +24,7 @@
 
 ## 収録アルバム
 
-  - [Loop](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink") (\#1,2)
+  - [Loop](../Page/Loop_\(アルバム\).md "wikilink") (\#1,2)
   - [ACIDMAN THE BEST](https://ja.wikipedia.org/wiki/ACIDMAN_THE_BEST "wikilink") (\#1,2)
   - [ACIDMAN 20th Anniversary Fans' Best Selection Album "Your Song"](https://ja.wikipedia.org/wiki/ACIDMAN_20th_Anniversary_Fans'_Best_Selection_Album_"Your_Song" "wikilink") (\#3)
 

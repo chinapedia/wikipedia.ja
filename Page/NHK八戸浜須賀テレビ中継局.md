@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK八戸浜須賀テレビ中継局**（エヌエイチケイはちのへはますかテレビちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")に置かれていた[NHK青森放送局](https://ja.wikipedia.org/wiki/NHK青森放送局 "wikilink")の[アナログ](../Page/NTSC.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
+**NHK八戸浜須賀テレビ中継局**（エヌエイチケイはちのへはますかテレビちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")に置かれていた[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")の[アナログ](../Page/NTSC.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
@@ -14,8 +14,8 @@
 <thead>
 <tr class="header">
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>
@@ -23,7 +23,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="https://ja.wikipedia.org/wiki/NHK青森放送局" title="wikilink">青森</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合テレビ</a></p></td>
 <td><p>60ch</p></td>
 <td><p>映像500mW/<br />
 音声125mW</p></td>
@@ -33,7 +33,7 @@
 <td><p>不明</p></td>
 </tr>
 <tr class="even">
-<td><p>NHK青森<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育テレビ</a></p></td>
+<td><p>NHK青森<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育テレビ</a></p></td>
 <td><p>62ch</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
@@ -45,7 +45,7 @@
 
 ## 歴史
 
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[9月](../Page/9月.md "wikilink") - 開局\[1\]
+  - [1976年](../Page/1976年.md "wikilink")[9月](../Page/9月.md "wikilink") - 開局\[1\]
   - [2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - 廃局
 
 ## 中継局置局住所
@@ -65,7 +65,7 @@
   - [八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")
   - [八戸テレビ・FM中継局](../Page/八戸テレビ・FM中継局.md "wikilink")
   - [八戸沢里テレビ中継局](../Page/八戸沢里テレビ中継局.md "wikilink")
-  - [NHK青森放送局](https://ja.wikipedia.org/wiki/NHK青森放送局 "wikilink")
+  - [NHK青森放送局](../Page/NHK青森放送局.md "wikilink")
 
 [Category:八戸市の歴史](https://ja.wikipedia.org/wiki/Category:八戸市の歴史 "wikilink") [Category:青森県の放送送信所](https://ja.wikipedia.org/wiki/Category:青森県の放送送信所 "wikilink") [Category:NHK青森](https://ja.wikipedia.org/wiki/Category:NHK青森 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:八戸市の建築物](https://ja.wikipedia.org/wiki/Category:八戸市の建築物 "wikilink")
 

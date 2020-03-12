@@ -17,9 +17,9 @@
   - [川崎市](../Page/川崎市.md "wikilink") - [:Commons:Category:Kawasaki, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Category:Kawasaki,_Kanagawa "wikilink") - [:Commons:Kawasaki](https://ja.wikipedia.org/wiki/:Commons:Kawasaki "wikilink")
       - [東高根森林公園](../Page/東高根森林公園.md "wikilink") [:Commons:Category:Higashitakane Shinrinkoen](https://ja.wikipedia.org/wiki/:Commons:Category:Higashitakane_Shinrinkoen "wikilink")
       - [生田緑地](../Page/生田緑地.md "wikilink") [:Commons:Category:Ikuta Ryokuchi](https://ja.wikipedia.org/wiki/:Commons:Category:Ikuta_Ryokuchi "wikilink")
-      - [多摩川](https://ja.wikipedia.org/wiki/多摩川 "wikilink") [:Commons:Category:Tama River](https://ja.wikipedia.org/wiki/:Commons:Category:Tama_River "wikilink")
+      - [多摩川](../Page/多摩川.md "wikilink") [:Commons:Category:Tama River](https://ja.wikipedia.org/wiki/:Commons:Category:Tama_River "wikilink")
       - [平瀬川](../Page/平瀬川.md "wikilink") [:Commons:Category:Hirase River](https://ja.wikipedia.org/wiki/:Commons:Category:Hirase_River "wikilink")
-      - [二ヶ領用水](https://ja.wikipedia.org/wiki/二ヶ領用水 "wikilink") [:Commons:Category:Nikaryo yosui](https://ja.wikipedia.org/wiki/:Commons:Category:Nikaryo_yosui "wikilink")
+      - [二ヶ領用水](../Page/二ヶ領用水.md "wikilink") [:Commons:Category:Nikaryo yosui](https://ja.wikipedia.org/wiki/:Commons:Category:Nikaryo_yosui "wikilink")
       - [東京湾アクアライン](https://ja.wikipedia.org/wiki/東京湾アクアライン "wikilink") [:Commons:Category:Tokyo Wan Aqua-line](https://ja.wikipedia.org/wiki/:Commons:Category:Tokyo_Wan_Aqua-line "wikilink")
 
 <!-- end list -->
@@ -44,11 +44,11 @@
 
 <!-- end list -->
 
-  - [藤野町](https://ja.wikipedia.org/wiki/藤野町 "wikilink") - [:Commons:Category:Fujino, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Category:Fujino,_Kanagawa "wikilink")
+  - [藤野町](../Page/藤野町.md "wikilink") - [:Commons:Category:Fujino, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Category:Fujino,_Kanagawa "wikilink")
 
 <!-- end list -->
 
-  - [清川村](https://ja.wikipedia.org/wiki/清川村 "wikilink") - [:Commons:Category:Kiyokawa, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Category:Kiyokawa,_Kanagawa "wikilink")
+  - [清川村](../Page/清川村.md "wikilink") - [:Commons:Category:Kiyokawa, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Category:Kiyokawa,_Kanagawa "wikilink")
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 <!-- end list -->
 
   - [寒川町](../Page/寒川町.md "wikilink")
-      - [寒川神社](https://ja.wikipedia.org/wiki/寒川神社 "wikilink") [:Commons:Category:Samukawa Shrine](https://ja.wikipedia.org/wiki/:Commons:Category:Samukawa_Shrine "wikilink")
+      - [寒川神社](../Page/寒川神社.md "wikilink") [:Commons:Category:Samukawa Shrine](https://ja.wikipedia.org/wiki/:Commons:Category:Samukawa_Shrine "wikilink")
 
 <!-- end list -->
 
@@ -82,6 +82,6 @@
 -----
 
   - [相模川](../Page/相模川.md "wikilink") - [:Commons:Category:Sagami River](https://ja.wikipedia.org/wiki/:Commons:Category:Sagami_River "wikilink")
-      - [相模湖](https://ja.wikipedia.org/wiki/相模湖 "wikilink") [:Commons:Category:Lake Sagami](https://ja.wikipedia.org/wiki/:Commons:Category:Lake_Sagami "wikilink")
-      - [宮ヶ瀬湖](https://ja.wikipedia.org/wiki/宮ヶ瀬湖 "wikilink") [:Commons:Category:Lake Miyagase](https://ja.wikipedia.org/wiki/:Commons:Category:Lake_Miyagase "wikilink")
+      - [相模湖](../Page/相模湖.md "wikilink") [:Commons:Category:Lake Sagami](https://ja.wikipedia.org/wiki/:Commons:Category:Lake_Sagami "wikilink")
+      - [宮ヶ瀬湖](../Page/宮ヶ瀬湖.md "wikilink") [:Commons:Category:Lake Miyagase](https://ja.wikipedia.org/wiki/:Commons:Category:Lake_Miyagase "wikilink")
   - [丹沢山地](https://ja.wikipedia.org/wiki/丹沢山地 "wikilink") - [:Commons:Category:The tanzawa mountains](https://ja.wikipedia.org/wiki/:Commons:Category:The_tanzawa_mountains "wikilink")

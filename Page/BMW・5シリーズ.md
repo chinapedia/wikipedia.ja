@@ -34,7 +34,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:E28_M535i_JM_2.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:E28_M535i_JM_4.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:525i_innen.jpg "wikilink")
 
-第2世代5シリーズ。[6シリーズ](https://ja.wikipedia.org/wiki/BMW・6シリーズ "wikilink")(E24系)とプラットフォームを共用する。デザイン面では初代をリファインした感じが強い。当時、BMWは風洞設備を持たなかったために、風洞実験によって設計された同世代の[アウディ・100](../Page/アウディ・100.md "wikilink")や[メルセデス・ベンツ・Eクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Eクラス "wikilink")と比較すると空力面での遅れは否定できなかった。このモデルから高性能なM5が販売される。
+第2世代5シリーズ。[6シリーズ](../Page/BMW・6シリーズ.md "wikilink")(E24系)とプラットフォームを共用する。デザイン面では初代をリファインした感じが強い。当時、BMWは風洞設備を持たなかったために、風洞実験によって設計された同世代の[アウディ・100](../Page/アウディ・100.md "wikilink")や[メルセデス・ベンツ・Eクラス](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")と比較すると空力面での遅れは否定できなかった。このモデルから高性能なM5が販売される。
 
 ### 日本での販売
 
@@ -54,17 +54,17 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 
 #### M5
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_M5_E28_US_fl.jpg "wikilink") 直列6気筒DOHCエンジン、3,453ccのエンジンを搭載。5MTのみ。　M5に搭載されたエンジンは、かの[M1のものを改良したもので](https://ja.wikipedia.org/wiki/BMW・M1 "wikilink")、最高出力は286馬力（日本仕様は260馬力）を発生。最高速度は250km／hに達し、当時の世界最速の4ドアサルーンであった。　キドニーグリル以外の外装メッキモール類のブラックアウト化、及び前席スポーツシートは標準装備だが、[BMW Mによるオーダーメイド車両なので](https://ja.wikipedia.org/wiki/BMW_M "wikilink")、Mテクニックエアロパーツやヘッドライトワイパーの有無・リアシートのヘッドレストが装着されていないなど様々な仕様が存在する。　初代M6（E24）同様、発売当初正規輸入されなかったため並行輸入車が多い。（1985年に本国デビューしているが、日本では1987年から導入） {{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_M5_E28_US_fl.jpg "wikilink") 直列6気筒DOHCエンジン、3,453ccのエンジンを搭載。5MTのみ。　M5に搭載されたエンジンは、かの[M1のものを改良したもので](../Page/BMW・M1.md "wikilink")、最高出力は286馬力（日本仕様は260馬力）を発生。最高速度は250km／hに達し、当時の世界最速の4ドアサルーンであった。　キドニーグリル以外の外装メッキモール類のブラックアウト化、及び前席スポーツシートは標準装備だが、[BMW Mによるオーダーメイド車両なので](../Page/BMW_M.md "wikilink")、Mテクニックエアロパーツやヘッドライトワイパーの有無・リアシートのヘッドレストが装着されていないなど様々な仕様が存在する。　初代M6（E24）同様、発売当初正規輸入されなかったため並行輸入車が多い。（1985年に本国デビューしているが、日本では1987年から導入） {{-}}
 
 ## 3代目（1988年-1995年）E34
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_535i_\(5108626840\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_530i_V8_\(3573134820\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:5-er_e34_Interior_BMW_PL.JPG "wikilink") 1988年に第3世代5シリーズがデビュー\[2\]。E32型[7シリーズ](https://ja.wikipedia.org/wiki/7シリーズ "wikilink")と共通する印象のスタイルであった。[Cd値](https://ja.wikipedia.org/wiki/Cd値 "wikilink")は0.30-0.32を達成し従来型から飛躍的に向上した。また、[ミディアムクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Eクラス "wikilink")（W124）を見習いボディ剛性も大幅に向上させたが、同時に車重も増えW124よりおよそ100kg重くなった車重のために、ドイツでは先代の量販グレードであった518iが切り捨てられた。535iはビッグシックスと呼ばれる名機を搭載した最終モデルである。先に登場した[735iにも採用された第](../Page/BMW・7シリーズ.md "wikilink")3世代DME（デジタル・モーター・エレクトロニクス）制御となり出力の向上を果たしている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_535i_\(5108626840\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_530i_V8_\(3573134820\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:5-er_e34_Interior_BMW_PL.JPG "wikilink") 1988年に第3世代5シリーズがデビュー\[2\]。E32型[7シリーズ](https://ja.wikipedia.org/wiki/7シリーズ "wikilink")と共通する印象のスタイルであった。[Cd値](https://ja.wikipedia.org/wiki/Cd値 "wikilink")は0.30-0.32を達成し従来型から飛躍的に向上した。また、[ミディアムクラス](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")（W124）を見習いボディ剛性も大幅に向上させたが、同時に車重も増えW124よりおよそ100kg重くなった車重のために、ドイツでは先代の量販グレードであった518iが切り捨てられた。535iはビッグシックスと呼ばれる名機を搭載した最終モデルである。先に登場した[735iにも採用された第](../Page/BMW・7シリーズ.md "wikilink")3世代DME（デジタル・モーター・エレクトロニクス）制御となり出力の向上を果たしている。
 
 1991年に520i、525iがDOHCに変更するとともに4速[ATから](../Page/オートマチックトランスミッション.md "wikilink")5速ATとなった。（なお535iは4速AT）
 
 1993年には[マイナーチェンジ](https://ja.wikipedia.org/wiki/マイナーチェンジ "wikilink")を行い、V型8気筒[DOHC](../Page/DOHC.md "wikilink")エンジンを搭載する530i、540iが導入されたため、直列6気筒 3.5リッターエンジンを搭載する535iが消滅。V8モデルには熱対策のためにワイドキドニーグリルが与えられた。また、全車に運転席エアバッグを装備。
 
-1994年には直6モデルにもワイドキドニーグリルを与えた。助手席側のエアバッグも標準装備となった。同時に525i、530i、540iに[M製のエアロパーツ](https://ja.wikipedia.org/wiki/BMW_M "wikilink")、スポーツサスペンション、スポーツシート、[BBS製](https://ja.wikipedia.org/wiki/BBS_\(自動車部品メーカー\) "wikilink")2ピースアルミホイールなどを装備したスポーツパッケージが設定される。 5シリーズのサスペンション形式は、第3世代（1988年-1995年）E34の頃までは前輪が[マクファーソン・ストラット](https://ja.wikipedia.org/wiki/マクファーソン・ストラット "wikilink")式、後輪が[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink")式を採用していた。
+1994年には直6モデルにもワイドキドニーグリルを与えた。助手席側のエアバッグも標準装備となった。同時に525i、530i、540iに[M製のエアロパーツ](../Page/BMW_M.md "wikilink")、スポーツサスペンション、スポーツシート、[BBS製](../Page/BBS_\(自動車部品メーカー\).md "wikilink")2ピースアルミホイールなどを装備したスポーツパッケージが設定される。 5シリーズのサスペンション形式は、第3世代（1988年-1995年）E34の頃までは前輪が[マクファーソン・ストラット](https://ja.wikipedia.org/wiki/マクファーソン・ストラット "wikilink")式、後輪が[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink")式を採用していた。
 
 ### 日本での販売
 
@@ -106,11 +106,11 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:1996-2000_BMW_523i_\(E39\)_sedan_02.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2000-2003_BMW_525i_\(E39\)_Executive_sedan_\(2010-10-02\)_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMWE39gotttobi.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_530i_Sport_Individual_-_Flickr_-_The_Car_Spy_\(4\).jpg "wikilink") 第4世代5シリーズ。エクステリア・デザインは、BMWのデザイナーである[永島譲二](../Page/永島譲二.md "wikilink")。先代よりボディーサイズを拡大したが、空気抵抗係数(Cd値)は0.29-0.30である。アルミ製[サスペンション](../Page/サスペンション.md "wikilink")（リアサスはこの代からインテグラルアーム式\<5リンク\>）を採用し、さらなる安定性および、軽快なハンドリングを実現するとともに、ASC+Tと呼ばれる[トラクションコントロール](https://ja.wikipedia.org/wiki/トラクションコントロール "wikilink")を直列6気筒モデルに装着した。V型8気筒モデルにはASC+Tを発展させたDSCと呼ばれる[横滑り防止機構](https://ja.wikipedia.org/wiki/横滑り防止機構 "wikilink")を装備。
 
-[パッシブセーフティ](https://ja.wikipedia.org/wiki/パッシブセーフティ "wikilink")の面でも充実しており、初期モデルでは[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")がフロント左右、サイド・エアバッグの4エアバッグであったが最終的にはITSヘッド・エアバッグを含む10エアバッグにもなった。電子制御デバイスの導入にも積極的で、自動防眩機能を内蔵したルームミラーやレインセンサー付きの[ワイパー](../Page/ワイパー.md "wikilink")などが装備される。
+[パッシブセーフティ](https://ja.wikipedia.org/wiki/パッシブセーフティ "wikilink")の面でも充実しており、初期モデルでは[エアバッグ](../Page/エアバッグ.md "wikilink")がフロント左右、サイド・エアバッグの4エアバッグであったが最終的にはITSヘッド・エアバッグを含む10エアバッグにもなった。電子制御デバイスの導入にも積極的で、自動防眩機能を内蔵したルームミラーやレインセンサー付きの[ワイパー](../Page/ワイパー.md "wikilink")などが装備される。
 
 1996年6月より、日本導入開始。 日本仕様として変更が加えられており、 本国仕様に対して、 ・ダンパーの減衰力を落とす ・日本仕様に専用開発したオールシーズンタイヤ (Continental conti touring contact CH95) ・タイヤの空気圧を1.8kgf/cm²に設定 などの変更により、ドイツ仕様と比べ、当たりの柔らかい乗り心地となっていた。 また、日本仕様に専用開発されたタイヤのスピードレンジがH(210km/h)に設定されていたため、208km/hで作動するリミッターが装着される他、日本の道路状況に合わせ、ATはJATCO製(本国ではZF)となる。導入当初は直列6気筒モデルにはステップトロニックは装備されておらず、540iにのみ設定されていた。 (尚、前期540iのATはGM製である)
 
-1997年には直列6気筒モデルに[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")のツーリングが追加される。 1998年には直列6気筒モデルのトランスミッションがマニュアルモード付きのステップトロニックと変更を受けるとともに[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")のVANOSが吸排気の両方に作動するダブルVANOSに進化。 同時に、標準装着タイヤが専用開発のオールシーズンタイヤから一般的なサマータイヤへ変更となる。 1999年には[BMW Mがデザインしたエクステリアやインテリアを持つ](https://ja.wikipedia.org/wiki/BMW_M "wikilink")、スポーティーな「Mスポーツ」が初めて導入される。
+1997年には直列6気筒モデルに[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")のツーリングが追加される。 1998年には直列6気筒モデルのトランスミッションがマニュアルモード付きのステップトロニックと変更を受けるとともに[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")のVANOSが吸排気の両方に作動するダブルVANOSに進化。 同時に、標準装着タイヤが専用開発のオールシーズンタイヤから一般的なサマータイヤへ変更となる。 1999年には[BMW Mがデザインしたエクステリアやインテリアを持つ](../Page/BMW_M.md "wikilink")、スポーティーな「Mスポーツ」が初めて導入される。
 
 2000年には[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")を行い、1996年から2000年までのモデルが前期、2000年以降が後期となる。後期の外見上の大きな識別点は国内で[イカリング](https://ja.wikipedia.org/wiki/イカリング "wikilink")と呼ばれる「[コロナ](https://ja.wikipedia.org/wiki/コロナ "wikilink")・リング」が初めて装備される。 直列6気筒(M52)エンジンを一新して、パワーアップを図りつつ排ガスもクリーンになった。 2.8リッターが廃止になり528iがカタログ落ちし530iが加わる。 M52エンジンから進化したM54エンジンは当時世界最高水準のパフォーマンスを誇った。 また、M54搭載車導入と同時に、ATは本国仕様同様のZF製へ切り替わる。
 
@@ -135,7 +135,7 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 
 #### M5
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_M5_\(2002\)_-_Flickr_-_The_Car_Spy_\(24\).jpg "wikilink") E39型M5は先代まで使用していた直列6気筒エンジンを採用せず、新開発のV型8気筒[DOHC](../Page/DOHC.md "wikilink")エンジンを搭載して馬力は400馬力の大台に乗った。トランスミッションは6速[MTのみであった](../Page/マニュアルトランスミッション.md "wikilink")。外装は専用[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")、専用18in[アルミホイール](../Page/アルミホイール.md "wikilink")で仕立てられ、内装は[レザー](https://ja.wikipedia.org/wiki/レザー "wikilink")であった。最高速度は[リミッター](https://ja.wikipedia.org/wiki/リミッター "wikilink")で250km/hに制限されるものの、解除することで295km/h以上の速度を出すことができた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_M5_\(2002\)_-_Flickr_-_The_Car_Spy_\(24\).jpg "wikilink") E39型M5は先代まで使用していた直列6気筒エンジンを採用せず、新開発のV型8気筒[DOHC](../Page/DOHC.md "wikilink")エンジンを搭載して馬力は400馬力の大台に乗った。トランスミッションは6速[MTのみであった](../Page/マニュアルトランスミッション.md "wikilink")。外装は専用[エアロパーツ](../Page/エアロパーツ.md "wikilink")、専用18in[アルミホイール](../Page/アルミホイール.md "wikilink")で仕立てられ、内装は[レザー](https://ja.wikipedia.org/wiki/レザー "wikilink")であった。最高速度は[リミッター](https://ja.wikipedia.org/wiki/リミッター "wikilink")で250km/hに制限されるものの、解除することで295km/h以上の速度を出すことができた。
 
 | グレード | 製造年         | エンジン                                    | 排気量     | 最高出力  |
 | ---- | ----------- | --------------------------------------- | ------- | ----- |
@@ -149,15 +149,15 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 
 「E60」はセダン、「E61」はツーリング（ワゴン）のモデルコードである。
 
-先代に比べて車体寸法が拡大したが、重量増加を抑えるため、[Aピラーよりも前](https://ja.wikipedia.org/wiki/ピラー "wikilink")、[フロント](https://ja.wikipedia.org/wiki/フロント "wikilink")部分は[アルミニウム](../Page/アルミニウム.md "wikilink")構造とされた。当初搭載されたエンジンは、[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")は先代モデルに搭載されていたエンジン（M54）の流用、[V型8気筒](../Page/V型8気筒.md "wikilink")は[バルブトロニック](../Page/バルブトロニック.md "wikilink")を装備した新型のものであり、4気筒2,000ccエンジンや、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")もあった。[変速機](https://ja.wikipedia.org/wiki/変速機 "wikilink")は[MTのほか](../Page/マニュアルトランスミッション.md "wikilink")、全てのエンジンに新しい6速[ATが組み合わされた](../Page/オートマチックトランスミッション.md "wikilink")。
+先代に比べて車体寸法が拡大したが、重量増加を抑えるため、[Aピラーよりも前](https://ja.wikipedia.org/wiki/ピラー "wikilink")、[フロント](https://ja.wikipedia.org/wiki/フロント "wikilink")部分は[アルミニウム](../Page/アルミニウム.md "wikilink")構造とされた。当初搭載されたエンジンは、[直列6気筒](../Page/直列6気筒.md "wikilink")は先代モデルに搭載されていたエンジン（M54）の流用、[V型8気筒](../Page/V型8気筒.md "wikilink")は[バルブトロニック](../Page/バルブトロニック.md "wikilink")を装備した新型のものであり、4気筒2,000ccエンジンや、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")もあった。[変速機](https://ja.wikipedia.org/wiki/変速機 "wikilink")は[MTのほか](../Page/マニュアルトランスミッション.md "wikilink")、全てのエンジンに新しい6速[ATが組み合わされた](../Page/オートマチックトランスミッション.md "wikilink")。
 
 技術面では「アクティブステアリング」と呼ばれる、ステアリングギア比を走行速度によって変化させる可変ギアレシオ・パワーステアリングが搭載され、これには[横滑り防止機構](https://ja.wikipedia.org/wiki/横滑り防止機構 "wikilink")と連動して自動的にカウンターステアを当てる機能も備わっていた。また、「ダイナミックドライブ」と呼ばれる、[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")と[スタビライザー](https://ja.wikipedia.org/wiki/スタビライザー "wikilink")を組み合わせによってコーナリング中に左右の[ロール](../Page/ロール.md "wikilink")を抑え、乗り心地と操縦性を確保する機能も設定された。E6X・[7シリーズ](https://ja.wikipedia.org/wiki/7シリーズ "wikilink")に先行装備された、iドライブ（アイドライブ）と呼ばれる車内快適装備の操作のための[コンピュータ](../Page/コンピュータ.md "wikilink")システムも搭載された。
 
-外観デザインは[エッジ](https://ja.wikipedia.org/wiki/エッジ "wikilink")を多用するなどして、従来のBMWとは大きく異なったイメージのものであった\[5\]。これには賛否が分かれたものの、デザインを革新的なものにすることはBMW社内上層部による決定事項であり、オーナーである[クヴァント家](https://ja.wikipedia.org/wiki/クヴァント家 "wikilink")もこの新しいデザインを強く支持していたという\[6\]。このデザインは[クリス・バングル](https://ja.wikipedia.org/wiki/クリス・バングル "wikilink")が率いるBMW社内のデザインチームによるもので、実際に採用された作品は、イタリア人デザイナー、ダビデ・アルカンジェリ（*Davide Arcandeli* ）によるものだった\[7\]。ただしダビデは、[急性白血病](../Page/急性白血病.md "wikilink")によりこの自動車の発売前に死去している。
+外観デザインは[エッジ](../Page/エッジ.md "wikilink")を多用するなどして、従来のBMWとは大きく異なったイメージのものであった\[5\]。これには賛否が分かれたものの、デザインを革新的なものにすることはBMW社内上層部による決定事項であり、オーナーである[クヴァント家](https://ja.wikipedia.org/wiki/クヴァント家 "wikilink")もこの新しいデザインを強く支持していたという\[6\]。このデザインは[クリス・バングル](https://ja.wikipedia.org/wiki/クリス・バングル "wikilink")が率いるBMW社内のデザインチームによるもので、実際に採用された作品は、イタリア人デザイナー、ダビデ・アルカンジェリ（*Davide Arcandeli* ）によるものだった\[7\]。ただしダビデは、[急性白血病](../Page/急性白血病.md "wikilink")によりこの自動車の発売前に死去している。
 
 ### 歴史
 
-2005年にはエンジンを一新、直列6気筒にはバルブトロニックが採用され、[マグネシウム](https://ja.wikipedia.org/wiki/マグネシウム "wikilink")合金を用いての軽量化や低燃費が試みられた。V型8気筒エンジンは従来の4.4リッターを拡大した4.8リッターと4.0リッターが追加された。同時期にヘッドアップディスプレーをオプション設定され、特別に用意されたボディカラーやインテリア素材でオーダーメイド可能なプログラム、BMWインディビデュアルも開始された。
+2005年にはエンジンを一新、直列6気筒にはバルブトロニックが採用され、[マグネシウム](../Page/マグネシウム.md "wikilink")合金を用いての軽量化や低燃費が試みられた。V型8気筒エンジンは従来の4.4リッターを拡大した4.8リッターと4.0リッターが追加された。同時期にヘッドアップディスプレーをオプション設定され、特別に用意されたボディカラーやインテリア素材でオーダーメイド可能なプログラム、BMWインディビデュアルも開始された。
 
 2007年にマイナーチェンジが行われ、フロントグリル、バンパー、ライト類の意匠変更のほか、トランスミッションも改良され、シフト時のタイムラグが従来の半分となった。530iはエンジンが変更されて出力が向上した。
 
@@ -189,7 +189,7 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 
 変速機は油圧によりクラッチを作動させる、2ペダルMTの[セミオートマチックトランスミッション](../Page/セミオートマチックトランスミッション.md "wikilink")となる7速[SMG](https://ja.wikipedia.org/wiki/SMG "wikilink")を搭載する。米国仕様では7速SMGと6速MTが選択できるが日本仕様はSMGのみ。さらにスタートアシスト機能も加わる。0-100km加速は4.7秒。
 
-外装は専用[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")で、フロントフェンダーにはエア・アウトレットが空いているが機能上の放熱効果はない。リヤのMスポイラーは日本では標準装備だが、海外では選択制。足周りには専用19in[アルミホイール](../Page/アルミホイール.md "wikilink")が装備されるが、オプションでM6用ホイールも選択でき、リヤのオフセットが張り出していることもありマニア間ではM6ホイールも人気である。M5、M6ホイールどちらとも[BBS製](https://ja.wikipedia.org/wiki/BBS_\(自動車部品メーカー\) "wikilink")。
+外装は専用[エアロパーツ](../Page/エアロパーツ.md "wikilink")で、フロントフェンダーにはエア・アウトレットが空いているが機能上の放熱効果はない。リヤのMスポイラーは日本では標準装備だが、海外では選択制。足周りには専用19in[アルミホイール](../Page/アルミホイール.md "wikilink")が装備されるが、オプションでM6用ホイールも選択でき、リヤのオフセットが張り出していることもありマニア間ではM6ホイールも人気である。M5、M6ホイールどちらとも[BBS製](../Page/BBS_\(自動車部品メーカー\).md "wikilink")。
 
 速度リミッターはメーター読み270km/hで作動する。欧州には[ワゴン](https://ja.wikipedia.org/wiki/ワゴン "wikilink")仕様であるM5ツーリングも存在するが、日本国内には正規輸入されていない。
 
@@ -303,17 +303,17 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 <td><p>523i セダン/ツーリング</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BMW・B48エンジン" title="wikilink">B48B20A</a></p></td>
 <td><p>1,998</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/直列4気筒" title="wikilink">直列4気筒</a><a href="../Page/DOHC.md" title="wikilink">DOHC</a><a href="https://ja.wikipedia.org/wiki/ターボ" title="wikilink">ターボ</a></p></td>
+<td><p><a href="../Page/直列4気筒.md" title="wikilink">直列4気筒</a><a href="../Page/DOHC.md" title="wikilink">DOHC</a><a href="https://ja.wikipedia.org/wiki/ターボ" title="wikilink">ターボ</a></p></td>
 <td><p>184/5,000</p></td>
 <td><p>29.6/1,250-4,500</p></td>
 <td><p>8速<a href="../Page/オートマチックトランスミッション.md" title="wikilink">AT</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後輪駆動" title="wikilink">後輪駆動</a></p></td>
+<td><p><a href="../Page/後輪駆動.md" title="wikilink">後輪駆動</a></p></td>
 </tr>
 <tr class="even">
 <td><p>523d セダン/ツーリング</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BMW・B47エンジン" title="wikilink">B47D20A</a></p></td>
 <td><p>1,995</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/直列4気筒" title="wikilink">直列4気筒</a>DOHC<a href="https://ja.wikipedia.org/wiki/ディーゼル" title="wikilink">ディーゼル</a>ターボ</p></td>
+<td><p><a href="../Page/直列4気筒.md" title="wikilink">直列4気筒</a>DOHC<a href="https://ja.wikipedia.org/wiki/ディーゼル" title="wikilink">ディーゼル</a>ターボ</p></td>
 <td><p>190/4,000</p></td>
 <td><p>40.8/1,750-2,500</p></td>
 <td></td>
@@ -345,7 +345,7 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 <td><p>540i セダン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BMW・B58エンジン" title="wikilink">B58B30A</a></p></td>
 <td><p>2,997</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/直列6気筒" title="wikilink">直列6気筒</a>DOHCターボ</p></td>
+<td><p><a href="../Page/直列6気筒.md" title="wikilink">直列6気筒</a>DOHCターボ</p></td>
 <td><p>340/5,500</p></td>
 <td><p>45.9/1,380-5,200</p></td>
 <td></td>
@@ -399,8 +399,8 @@ BMWの日本法人として[1981年](../Page/1981年.md "wikilink")（[昭和](.
 
   - [BMW](../Page/BMW.md "wikilink")
   - [X5](../Page/BMW・X5.md "wikilink")
-  - [6シリーズ](https://ja.wikipedia.org/wiki/BMW・6シリーズ "wikilink")
-  - [BMW M](https://ja.wikipedia.org/wiki/BMW_M "wikilink")
+  - [6シリーズ](../Page/BMW・6シリーズ.md "wikilink")
+  - [BMW M](../Page/BMW_M.md "wikilink")
 
 {{-}}
 

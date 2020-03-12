@@ -11,9 +11,9 @@
 
 このクラブは後にチャフダールと改称すると、[1948年](../Page/1948年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")に[セプテンブリとチャフダールが合併し](https://ja.wikipedia.org/wiki/PFKセプテムヴリ・ソフィア "wikilink")、**セプテンブリ・プリCDV**として設立された\[1\]。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[レフスキ・ソフィア](https://ja.wikipedia.org/wiki/レフスキ・ソフィア "wikilink")とのカップ戦決勝戦で乱闘事件を起こった。この事件で主役を演じた[フリスト・ストイチコフ](../Page/フリスト・ストイチコフ.md "wikilink")は永久追放処分（その後1年間の出場停止に減刑）となり、クラブも解散を命じられた。翌シーズンからはクラブ名をスレデッツ・ソフィアとして活動した。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[レフスキ・ソフィア](../Page/レフスキ・ソフィア.md "wikilink")とのカップ戦決勝戦で乱闘事件を起こった。この事件で主役を演じた[フリスト・ストイチコフ](../Page/フリスト・ストイチコフ.md "wikilink")は永久追放処分（その後1年間の出場停止に減刑）となり、クラブも解散を命じられた。翌シーズンからはクラブ名をスレデッツ・ソフィアとして活動した。
 
-リーグ優勝31回、カップ戦優勝23回を誇る。ヨーロッパのクラブの中では、いずれもスコットランドの[レンジャーズ](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")（リーグ優勝51回,カップ戦優勝57回）や[セルティック](https://ja.wikipedia.org/wiki/セルティックFC "wikilink")（リーグ優勝42回,カップ戦優勝47回）に次ぐ偉大な記録である。
+リーグ優勝31回、カップ戦優勝23回を誇る。ヨーロッパのクラブの中では、いずれもスコットランドの[レンジャーズ](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")（リーグ優勝51回,カップ戦優勝57回）や[セルティック](../Page/セルティックFC.md "wikilink")（リーグ優勝42回,カップ戦優勝47回）に次ぐ偉大な記録である。
 
 また、クラブ創立60周年を迎えた2008年には、抱える負債を理由に所属するブルガリア・プレミアリーグから除名されることが、[ブルガリア・サッカー連盟](https://ja.wikipedia.org/wiki/ブルガリア・サッカー連盟 "wikilink")より発表された。決定していた[チャンピオンズリーグへの出場権も取り消された](../Page/UEFAチャンピオンズリーグ.md "wikilink")。
 
@@ -176,7 +176,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・モスクワ" title="wikilink">ディナモ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCディナモ・モスクワ.md" title="wikilink">ディナモ・モスクワ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''2-1</p></td>
@@ -236,7 +236,7 @@
 </tr>
 <tr class="even">
 <td><p>グループL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>0-1</p></td>
 <td><p>'''4位</p></td>
@@ -245,7 +245,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-3</p></td>
 <td></td>
@@ -255,7 +255,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>0-2</p></td>
 <td><p>2-1</p></td>
 <td></td>
@@ -281,7 +281,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/NDムラ05" title="wikilink">ムラ05</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-0</p></td>
-<td><p>'''1-1 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''1-1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -338,7 +338,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NKオシエク" title="wikilink">オシエク</a></p></td>
+<td><p><a href="../Page/NKオシエク.md" title="wikilink">オシエク</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-1<br />
@@ -362,7 +362,7 @@
 
 ## 現所属メンバー
 
-**       ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))       ([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+**       ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))       ([第2主将](../Page/主将.md "wikilink"))
 
 ### ローン移籍
 
@@ -541,7 +541,7 @@
 
 ## 歴代所属選手
 
-  - [ディミタール・ベルバトフ](https://ja.wikipedia.org/wiki/ディミタール・ベルバトフ "wikilink")
+  - [ディミタール・ベルバトフ](../Page/ディミタール・ベルバトフ.md "wikilink")
 
   - [トリフォン・イヴァノフ](https://ja.wikipedia.org/wiki/トリフォン・イヴァノフ "wikilink")
 
@@ -555,9 +555,9 @@
 
   - [リュボスラフ・ペネフ](https://ja.wikipedia.org/wiki/リュボスラフ・ペネフ "wikilink")
 
-  - [マルティン・ペトロフ](https://ja.wikipedia.org/wiki/マルティン・ペトロフ "wikilink")
+  - [マルティン・ペトロフ](../Page/マルティン・ペトロフ.md "wikilink")
 
-  - [スティリアン・ペトロフ](https://ja.wikipedia.org/wiki/スティリアン・ペトロフ "wikilink")
+  - [スティリアン・ペトロフ](../Page/スティリアン・ペトロフ.md "wikilink")
 
   - [フリスト・ストイチコフ](../Page/フリスト・ストイチコフ.md "wikilink")
 

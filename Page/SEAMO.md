@@ -3,19 +3,19 @@
 
 **SEAMO**（シーモ、[1975年](../Page/1975年.md "wikilink")（昭和50年）[10月31日](../Page/10月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**高田 尚輝**（たかだ なおき）。作詞・作曲のクレジットは、2枚目のシングル「[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")」までは高田尚輝、3枚目のシングル「[a love story](https://ja.wikipedia.org/wiki/a_love_story_\(SEAMOの曲\) "wikilink")」以降は**"Naoki Takada"**とローマ字表記されている。[NEWSに楽曲提供した](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[Happy Birthdayだけ](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")、作詞、作曲ともにSEAMO名義でクレジットされている。所属事務所は[tearbridge production](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。所属レコード会社は[Ariola Japan](https://ja.wikipedia.org/wiki/Ariola_Japan "wikilink")。
 
-[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")出身。[名城大学附属高等学校](https://ja.wikipedia.org/wiki/名城大学附属高等学校 "wikilink")、[愛知学院大学](../Page/愛知学院大学.md "wikilink")文学部宗教学科卒業。
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")出身。[名城大学附属高等学校](../Page/名城大学附属高等学校.md "wikilink")、[愛知学院大学](../Page/愛知学院大学.md "wikilink")文学部宗教学科卒業。
 
 ## 概要
 
-以前は**シーモネーター**（『[行け\!\!南国アイスホッケー部](https://ja.wikipedia.org/wiki/行け!!南国アイスホッケー部 "wikilink")』（[久米田康治](../Page/久米田康治.md "wikilink")著）に登場する[下ネタ](https://ja.wikipedia.org/wiki/下ネタ "wikilink")と[ターミネーターを組み合わせたキャラクターから](https://ja.wikipedia.org/wiki/T-800 "wikilink")）という名前で、ライブでは海パンに[天狗](../Page/天狗.md "wikilink")のお面を着けるというギャグを交えた[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")として活動していた。[2003年](../Page/2003年.md "wikilink")（平成15年）にはNHKの『POP JAM』に出演し、「浪漫ストリーム」をパフォーマンスした。
+以前は**シーモネーター**（『[行け\!\!南国アイスホッケー部](../Page/行け!!南国アイスホッケー部.md "wikilink")』（[久米田康治](../Page/久米田康治.md "wikilink")著）に登場する[下ネタ](../Page/下ネタ.md "wikilink")と[ターミネーターを組み合わせたキャラクターから](../Page/T-800.md "wikilink")）という名前で、ライブでは海パンに[天狗](../Page/天狗.md "wikilink")のお面を着けるというギャグを交えた[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")として活動していた。[2003年](../Page/2003年.md "wikilink")（平成15年）にはNHKの『POP JAM』に出演し、「浪漫ストリーム」をパフォーマンスした。
 
 愛称は「**塾長**」。なお、シーモネーターだったころも、一部のラッパーから「シーモ」と呼ばれていた。
 
 メジャーデビューから約1年後のある日、レコード会社から突然の契約解除を通告され、一時は引退も考えたが、再デビューを目指して1年近く地道な売り込み活動を続けた。その結果、今のレコード会社と契約し「**SEAMO**」に改名した。（「『**シーモネーターとしての活動はやりつくした**』ということでレコード会社移籍を期にSEAMOに改名した」とあるが、実際は一度レコード会社をクビになっている） 自身の原点であるストロングスタイルは『[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")』に出演していた[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")が影響している。ちなみに、SEAMOに改名後もライブ等では“伝説の男”としてシーモネータースタイル、つまりストロングスタイルでパフォーマンスをしている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にシングル「関白」でメジャー再デビューを果たし、 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）はシングル「マタアイマショウ」・「ルパン・ザ・ファイヤー」のヒットで、この年の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
+[2005年](../Page/2005年.md "wikilink")（平成17年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にシングル「関白」でメジャー再デビューを果たし、 [2006年](../Page/2006年.md "wikilink")（平成18年）はシングル「マタアイマショウ」・「ルパン・ザ・ファイヤー」のヒットで、この年の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
 
-セカンドアルバム『[Live Goes On](https://ja.wikipedia.org/wiki/Live_Goes_On "wikilink")』が2006年（平成18年）[10月2日](../Page/10月2日.md "wikilink")付[オリコン週間アルバムチャートで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。これは[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")としては、[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")[TOKYO CLASSICに次ぎ](https://ja.wikipedia.org/wiki/TOKYO_CLASSIC "wikilink")、2番目である。
+セカンドアルバム『[Live Goes On](../Page/Live_Goes_On.md "wikilink")』が2006年（平成18年）[10月2日](../Page/10月2日.md "wikilink")付[オリコン週間アルバムチャートで初登場](../Page/オリコンチャート.md "wikilink")1位を獲得した。これは[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")としては、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[TOKYO CLASSICに次ぎ](../Page/TOKYO_CLASSIC.md "wikilink")、2番目である。
 
 「マタアイマショウ」～「Continue」までのシングル（リカットシングルの「[Honey Honey feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/Honey_Honey_feat._AYUSE_KOZUE "wikilink")」を除く）全てにおいて、オリコン\* デイリーシングルチャートの最高位でトップ10にランクインし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[5月7日](../Page/5月7日.md "wikilink")発売の「[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")」は自身のシングル最高となるウィークリーチャート初登場5位を記録した。
 
@@ -23,28 +23,28 @@
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）[10月17日](../Page/10月17日.md "wikilink")には、ロックバンド[SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")とのコラボシングル「[ROCK THIS WAY](https://ja.wikipedia.org/wiki/ROCK_THIS_WAY "wikilink")」をリリース。SEAMOがSPYAIR主催のライブに出演したのがきっかけとなり、コラボとなった\[1\]。
 
-同郷の[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")・[Nobodyknows+](https://ja.wikipedia.org/wiki/Nobodyknows+ "wikilink") ・[AZU](../Page/AZU.md "wikilink")やギャングスタラップ風日本語ラップの["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")とは現在も交流があり、以前は[TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X "wikilink")とも親交があった。特に後輩でもあるHOME MADE 家族にはシーモネーター時代から「てんぐの兄貴」と呼ばれている。シーモネーターとして活動していたころに、愛知県を中心に展開する弁当チェーン「[ベントマン](../Page/ベントマン.md "wikilink")」に[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")を提供している。スポーツは名古屋を本拠地とする[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")のファン。
+同郷の[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")・[Nobodyknows+](../Page/Nobodyknows+.md "wikilink") ・[AZU](../Page/AZU.md "wikilink")やギャングスタラップ風日本語ラップの["E"qual](../Page/"E"qual.md "wikilink")とは現在も交流があり、以前は[TOKONA-X](../Page/TOKONA-X.md "wikilink")とも親交があった。特に後輩でもあるHOME MADE 家族にはシーモネーター時代から「てんぐの兄貴」と呼ばれている。シーモネーターとして活動していたころに、愛知県を中心に展開する弁当チェーン「[ベントマン](../Page/ベントマン.md "wikilink")」に[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")を提供している。スポーツは名古屋を本拠地とする[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のファン。
 
-趣味は[競馬](../Page/競馬.md "wikilink")で、最も好きな馬は[笠松競馬場](../Page/笠松競馬場.md "wikilink")から[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")に移籍して大レースで好勝負を繰り広げた[オグリキャップ](../Page/オグリキャップ.md "wikilink")だという。自身で[一口馬主](https://ja.wikipedia.org/wiki/一口馬主 "wikilink")としても出資しており\[2\]、現役では[ウインガニオン](https://ja.wikipedia.org/wiki/ウインガニオン "wikilink")（2017年[中京記念](https://ja.wikipedia.org/wiki/中京記念 "wikilink")）\[3\]、エピカリス（2017年UAEダービー2着）、ルーカス（2017年東京スポーツ杯2歳S2着、GI6勝馬[モーリスの](https://ja.wikipedia.org/wiki/モーリス_\(競走馬\) "wikilink")[全弟](https://ja.wikipedia.org/wiki/競走馬の血統#兄弟姉妹の関係 "wikilink")）、過去にはウイントリガー（[クローバー賞](../Page/クローバー賞.md "wikilink")）\[4\]、[タッチングスピーチ](https://ja.wikipedia.org/wiki/タッチングスピーチ "wikilink")（2015年[ローズステークス](../Page/ローズステークス.md "wikilink")）、[レッドアリオン](https://ja.wikipedia.org/wiki/レッドアリオン "wikilink")（2015年[マイラーズカップ](https://ja.wikipedia.org/wiki/マイラーズカップ "wikilink")）などに出資している\[5\]。その延長で[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](https://ja.wikipedia.org/wiki/馬主 "wikilink")資格も取得している\[6\]。
+趣味は[競馬](../Page/競馬.md "wikilink")で、最も好きな馬は[笠松競馬場](../Page/笠松競馬場.md "wikilink")から[中央競馬](../Page/中央競馬.md "wikilink")に移籍して大レースで好勝負を繰り広げた[オグリキャップ](../Page/オグリキャップ.md "wikilink")だという。自身で[一口馬主](../Page/一口馬主.md "wikilink")としても出資しており\[2\]、現役では[ウインガニオン](https://ja.wikipedia.org/wiki/ウインガニオン "wikilink")（2017年[中京記念](../Page/中京記念.md "wikilink")）\[3\]、エピカリス（2017年UAEダービー2着）、ルーカス（2017年東京スポーツ杯2歳S2着、GI6勝馬[モーリスの](https://ja.wikipedia.org/wiki/モーリス_\(競走馬\) "wikilink")[全弟](https://ja.wikipedia.org/wiki/競走馬の血統#兄弟姉妹の関係 "wikilink")）、過去にはウイントリガー（[クローバー賞](../Page/クローバー賞.md "wikilink")）\[4\]、[タッチングスピーチ](https://ja.wikipedia.org/wiki/タッチングスピーチ "wikilink")（2015年[ローズステークス](../Page/ローズステークス.md "wikilink")）、[レッドアリオン](https://ja.wikipedia.org/wiki/レッドアリオン "wikilink")（2015年[マイラーズカップ](../Page/マイラーズカップ.md "wikilink")）などに出資している\[5\]。その延長で[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](../Page/馬主.md "wikilink")資格も取得している\[6\]。
 
-自身の経験を基にした書籍を出版したり、[ナガシマスパーランド](https://ja.wikipedia.org/wiki/ナガシマスパーランド "wikilink")での夏フェス「[TOKAI SUMMIT](../Page/TOKAI_SUMMIT.md "wikilink")」を発起するなどの活動を行っている。
+自身の経験を基にした書籍を出版したり、[ナガシマスパーランド](../Page/ナガシマスパーランド.md "wikilink")での夏フェス「[TOKAI SUMMIT](../Page/TOKAI_SUMMIT.md "wikilink")」を発起するなどの活動を行っている。
 
 ## エピソード
 
   - [BENNIE KのLIVEでは](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")「天狗 VS 弁慶 feat.シーモネーター」の曲の時に、素っ裸の下半身に天狗のお面をつけた姿でラップ参加する。毎回アドリブで下ネタを挟んでくる。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")では[細川たかし](../Page/細川たかし.md "wikilink")が歌詞を忘れる等のアクシデントが続発し、初出場のSEAMOも背景の映像が機械の故障で出ないというトラブルに見舞われた。それでも無事に歌い切り、「クラブで何度もアクシデントに遭っているので大丈夫」とコメントした。
+  - [2006年](../Page/2006年.md "wikilink")の[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")では[細川たかし](../Page/細川たかし.md "wikilink")が歌詞を忘れる等のアクシデントが続発し、初出場のSEAMOも背景の映像が機械の故障で出ないというトラブルに見舞われた。それでも無事に歌い切り、「クラブで何度もアクシデントに遭っているので大丈夫」とコメントした。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[NEWSと](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[MUSIC STATIONで共演](https://ja.wikipedia.org/wiki/MUSIC_STATION "wikilink")。その時にオファーを受けたことが、[Happy Birthday (NEWSの曲)の楽曲提供につながった](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")。
-  - 上述のナゴヤドームでの始球式の際、中日ドラゴンズの[澤井道久](https://ja.wikipedia.org/wiki/澤井道久 "wikilink")（打席に入る時の音楽に『Champion Road』を使用）から「いつもクルマの中で聞いています。サインを下さい」と声を掛けられ大変感激したという（沢井が中日の選手として初めてSEAMOの楽曲を採用したことにも感激していた。また試合出場予定のなかった[朝倉健太](../Page/朝倉健太.md "wikilink")や[長峰昌司](https://ja.wikipedia.org/wiki/長峰昌司 "wikilink")らとベンチ裏で記念撮影をしている（以上は[中日スポーツ](../Page/中日スポーツ.md "wikilink")の記事より）。始球式の後は[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")の野球中継の副音声放送で[つボイノリオ](../Page/つボイノリオ.md "wikilink")と共演し、「エロ音声」と銘打った中継を行なった。なお、二人とも[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")のDJ経験者だが偶然にも放送時間帯はともに「金曜2部」（土曜朝3時）からだった。（SEAMOはシーモネーター名義でDJ TAKI-SHITとの共演、番組名はオールナイトニッポンRだった）
+  - 上述のナゴヤドームでの始球式の際、中日ドラゴンズの[澤井道久](../Page/澤井道久.md "wikilink")（打席に入る時の音楽に『Champion Road』を使用）から「いつもクルマの中で聞いています。サインを下さい」と声を掛けられ大変感激したという（沢井が中日の選手として初めてSEAMOの楽曲を採用したことにも感激していた。また試合出場予定のなかった[朝倉健太](../Page/朝倉健太.md "wikilink")や[長峰昌司](../Page/長峰昌司.md "wikilink")らとベンチ裏で記念撮影をしている（以上は[中日スポーツ](../Page/中日スポーツ.md "wikilink")の記事より）。始球式の後は[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")の野球中継の副音声放送で[つボイノリオ](../Page/つボイノリオ.md "wikilink")と共演し、「エロ音声」と銘打った中継を行なった。なお、二人とも[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")のDJ経験者だが偶然にも放送時間帯はともに「金曜2部」（土曜朝3時）からだった。（SEAMOはシーモネーター名義でDJ TAKI-SHITとの共演、番組名はオールナイトニッポンRだった）
   - [東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")に登った際、大展望台の1階のガラス張りの床から下をまともに見られなかったほどの、高所恐怖癖である。そのため[ジェットコースター](https://ja.wikipedia.org/wiki/ジェットコースター "wikilink")も苦手である（「Live Goes On」収録の「Rhyme Jet Coaster」の中で暴露）。
-  - シーモネーターとしての活動末期の頃から[パチスロ](../Page/パチスロ.md "wikilink")にはまり、一時は[スロプロ](https://ja.wikipedia.org/wiki/スロプロ "wikilink")として生計を立てていたという。本人によれば『[北斗の拳](../Page/北斗の拳_\(パチスロ\).md "wikilink")』（[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")）のバトルボーナス継続回数は最高46回。また「マタアイマショウ」のCD発売当日も仕事が夕方からのラジオ出演のみだったため、朝からパチンコホールの開店待ち行列に並んでいたほど\[7\]。そのせいもあって、曲の歌詞の中にパチスロの機種名が登場したこともある（「Live Goes On」収録の「Mr.Girl Hunter」の中に『[押忍\!番長](../Page/押忍!番長.md "wikilink")』が登場するなど）。
+  - シーモネーターとしての活動末期の頃から[パチスロ](../Page/パチスロ.md "wikilink")にはまり、一時は[スロプロ](https://ja.wikipedia.org/wiki/スロプロ "wikilink")として生計を立てていたという。本人によれば『[北斗の拳](../Page/北斗の拳_\(パチスロ\).md "wikilink")』（[サミー](../Page/サミー.md "wikilink")）のバトルボーナス継続回数は最高46回。また「マタアイマショウ」のCD発売当日も仕事が夕方からのラジオ出演のみだったため、朝からパチンコホールの開店待ち行列に並んでいたほど\[7\]。そのせいもあって、曲の歌詞の中にパチスロの機種名が登場したこともある（「Live Goes On」収録の「Mr.Girl Hunter」の中に『[押忍\!番長](../Page/押忍!番長.md "wikilink")』が登場するなど）。
   - シーモネーターとして[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")に一度出演した際にはジャンプスーツを使用した。
-  - [グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")好きで細かい動向をチェックしているらしく、2007年5月放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")」に出演した際、対談インタビュー相手の元競馬キャスター[杉本清](../Page/杉本清.md "wikilink")を相手に「お気に入りの[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")」として[白鳥百合子](https://ja.wikipedia.org/wiki/白鳥百合子 "wikilink")の名前を挙げている。また同番組中には「グラビアアイドル、[サラブレッド](../Page/サラブレッド.md "wikilink")、[スポーツカー](../Page/スポーツカー.md "wikilink")はSEAMOの3大セクシー」とも発言している。
-  - 好きなマンガは『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』 『[魁\!\!男塾](../Page/魁!!男塾.md "wikilink")』『[男樹](https://ja.wikipedia.org/wiki/男樹 "wikilink")』『[天地を喰らう](https://ja.wikipedia.org/wiki/天地を喰らう "wikilink")』『[サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎 "wikilink")』『[クロカン](https://ja.wikipedia.org/wiki/クロカン_\(漫画\) "wikilink")』。
-  - 好きな映画は『[アンドリュ－](https://ja.wikipedia.org/wiki/アンドリュ－ "wikilink")』『[アビス](https://ja.wikipedia.org/wiki/アビス "wikilink")』『[ターミネーター](../Page/ターミネーターシリーズ.md "wikilink")』『[セントオブウーマン](https://ja.wikipedia.org/wiki/セントオブウーマン "wikilink")』『[HERO北斗の拳](https://ja.wikipedia.org/wiki/HERO北斗の拳 "wikilink")』。
+  - [グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")好きで細かい動向をチェックしているらしく、2007年5月放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")」に出演した際、対談インタビュー相手の元競馬キャスター[杉本清](../Page/杉本清.md "wikilink")を相手に「お気に入りの[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")」として[白鳥百合子](../Page/白鳥百合子.md "wikilink")の名前を挙げている。また同番組中には「グラビアアイドル、[サラブレッド](../Page/サラブレッド.md "wikilink")、[スポーツカー](../Page/スポーツカー.md "wikilink")はSEAMOの3大セクシー」とも発言している。
+  - 好きなマンガは『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』 『[魁\!\!男塾](../Page/魁!!男塾.md "wikilink")』『[男樹](https://ja.wikipedia.org/wiki/男樹 "wikilink")』『[天地を喰らう](../Page/天地を喰らう.md "wikilink")』『[サラリーマン金太郎](../Page/サラリーマン金太郎.md "wikilink")』『[クロカン](https://ja.wikipedia.org/wiki/クロカン_\(漫画\) "wikilink")』。
+  - 好きな映画は『[アンドリュ－](https://ja.wikipedia.org/wiki/アンドリュ－ "wikilink")』『[アビス](../Page/アビス.md "wikilink")』『[ターミネーター](../Page/ターミネーターシリーズ.md "wikilink")』『[セントオブウーマン](https://ja.wikipedia.org/wiki/セントオブウーマン "wikilink")』『[HERO北斗の拳](https://ja.wikipedia.org/wiki/HERO北斗の拳 "wikilink")』。
 
 ## ディスコグラフィー
 
-シーモネーター\&DJ TAKI-SHIT名義での作品は[シーモネーター\&DJ TAKI-SHITを参照されたい](https://ja.wikipedia.org/wiki/シーモネーター&DJ_TAKI-SHIT "wikilink")。
+シーモネーター\&DJ TAKI-SHIT名義での作品は[シーモネーター\&DJ TAKI-SHITを参照されたい](../Page/シーモネーター&DJ_TAKI-SHIT.md "wikilink")。
 
 ### シングル
 
@@ -61,8 +61,8 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/関白_(曲)" title="wikilink">関白</a></strong></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
+<td><p><strong><a href="../Page/関白_(曲).md" title="wikilink">関白</a></strong></p></td>
 <td><p>50位</p></td>
 <td><p><BVCR-19644></p></td>
 </tr>
@@ -82,8 +82,8 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/マタアイマショウ" title="wikilink">マタアイマショウ</a></strong></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p><strong><a href="../Page/マタアイマショウ.md" title="wikilink">マタアイマショウ</a></strong></p></td>
 <td><p>14位</p></td>
 <td><p>初回限定盤：&lt;BVCR-19964〜5&gt;<br />
 通常盤：<BVCR-19966></p></td>
@@ -91,7 +91,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2006年<a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ルパン・ザ・ファイヤー" title="wikilink">ルパン・ザ・ファイヤー</a></strong></p></td>
+<td><p><strong><a href="../Page/ルパン・ザ・ファイヤー.md" title="wikilink">ルパン・ザ・ファイヤー</a></strong></p></td>
 <td><p>9位</p></td>
 <td><p>初回限定盤：&lt;BVCR-19979〜80&gt;<br />
 通常盤：<BVCR-19976></p></td>
@@ -225,17 +225,17 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a><br />
 <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a>（再発盤）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Get_Back_On_Stage" title="wikilink">Get Back On Stage</a></strong></p></td>
+<td><p><strong><a href="../Page/Get_Back_On_Stage.md" title="wikilink">Get Back On Stage</a></strong></p></td>
 <td><p>27位</p></td>
 <td><p>通常盤：<BVCR-11072><br />
 再発盤：<BVCR-17059></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Live_Goes_On" title="wikilink">Live Goes On</a></strong></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
+<td><p><strong><a href="../Page/Live_Goes_On.md" title="wikilink">Live Goes On</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>初回限定盤：&lt;BVCR-18081~2&gt;<br />
 通常盤：<BVCR-11092></p></td>
@@ -495,7 +495,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 3.  [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")「**毎日が映画のようなヒトコマ～Life is Beautiful～**」（2002年[7月31日](../Page/7月31日.md "wikilink")発売）
       - 8.WHO’S DA エンターテーナー？featuring シーモネーター（fromシーモネーター＆DJ TAKI-SHIT）
 4.  [ミニ塾](https://ja.wikipedia.org/wiki/ミニ塾 "wikilink")「**SMALL WORLD**」（[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")発売）
-      - 「ミニ塾。feat. 塾長」名義。[トリカブトのSMALLEST](../Page/トリカブト_\(ユニット\).md "wikilink")、[KICK THE CAN CREWの](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICROによる低身長ユニット](../Page/MICRO_\(ラッパー\).md "wikilink")。SEAMOは塾長として参加。
+      - 「ミニ塾。feat. 塾長」名義。[トリカブトのSMALLEST](../Page/トリカブト_\(ユニット\).md "wikilink")、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICROによる低身長ユニット](../Page/MICRO_\(ラッパー\).md "wikilink")。SEAMOは塾長として参加。
 5.  [闇アガリ](https://ja.wikipedia.org/wiki/闇アガリ "wikilink")「**ADVIBES**」（[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売）
       - 4.狼
 6.  [L.L.COOL J太郎](https://ja.wikipedia.org/wiki/L.L.COOL_J太郎 "wikilink")「**プッチRADIO**」（2003年[4月25日](../Page/4月25日.md "wikilink")発売）
@@ -515,17 +515,17 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 <!-- end list -->
 
-1.  BENNIE K「**[Japana-rhythm](../Page/Japana-rhythm.md "wikilink")**」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")発売）
+1.  BENNIE K「**[Japana-rhythm](../Page/Japana-rhythm.md "wikilink")**」（[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")発売）
       - 14.a love story/with SEAMO
       - 「SEAMO with BENNIE K」名義でのコラボ曲のBENNIE Kバージョン。
       - このアルバムにおいては「冬」の曲とされている。
-2.  [天上智喜](https://ja.wikipedia.org/wiki/天上智喜 "wikilink")「**[The Club](https://ja.wikipedia.org/wiki/The_Club "wikilink")**」 <RZCD-45333>（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売）
+2.  [天上智喜](https://ja.wikipedia.org/wiki/天上智喜 "wikilink")「**[The Club](https://ja.wikipedia.org/wiki/The_Club "wikilink")**」 <RZCD-45333>（[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売）
       - 最高順位131位
       - 「天上智喜 feat. SEAMO」名義。
-3.  [Ukatrats FC](https://ja.wikipedia.org/wiki/Ukatrats_FC "wikilink")「**[Win and Shine](https://ja.wikipedia.org/wiki/Win_and_Shine "wikilink")**」 <KFCD-10004>　（2006年[5月24日](../Page/5月24日.md "wikilink")発売）
+3.  [Ukatrats FC](../Page/Ukatrats_FC.md "wikilink")「**[Win and Shine](https://ja.wikipedia.org/wiki/Win_and_Shine "wikilink")**」 <KFCD-10004>　（2006年[5月24日](../Page/5月24日.md "wikilink")発売）
       - 最高順位48位
-      - [ウイニングイレブン](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")のファンである[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の☆Taku Takahashi等を中心としたUkatrats FCに参加。
-4.  [中林芽依](https://ja.wikipedia.org/wiki/May'n "wikilink")「**[Fallin' in or Not feat.SEAMO](https://ja.wikipedia.org/wiki/Fallin'_in_or_Not_feat.SEAMO "wikilink")**」 <UPCI-5039>（2006年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")発売）
+      - [ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")のファンである[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の☆Taku Takahashi等を中心としたUkatrats FCに参加。
+4.  [中林芽依](../Page/May'n.md "wikilink")「**[Fallin' in or Not feat.SEAMO](https://ja.wikipedia.org/wiki/Fallin'_in_or_Not_feat.SEAMO "wikilink")**」 <UPCI-5039>（2006年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")発売）
       - 最高順位159位
 5.  [MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")「**[卒業、そして未来へ。](https://ja.wikipedia.org/wiki/卒業、そして未来へ。 "wikilink")**」（[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売）
       - 初登場23位
@@ -539,7 +539,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 9.  天上智喜「Graceful 4」（2007年[4月11日](../Page/4月11日.md "wikilink")発売）
       - 10.The Club
       - 「天上智喜 feat. SEAMO」名義。
-10. [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")「**[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD "wikilink")**」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売）
+10. [SOFFet](../Page/SOFFet.md "wikilink")「**[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD "wikilink")**」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売）
       - 4.恋唄 with SEAMO
 11. [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")「**[わだ家](https://ja.wikipedia.org/wiki/わだ家 "wikilink")**」（2008年[4月23日](../Page/4月23日.md "wikilink")発売）
       - 6.素直になりたい feat. SEAMO
@@ -550,7 +550,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 13. BENNIE K「**[THE "BESTEST" BENNIE K SHOW](https://ja.wikipedia.org/wiki/THE_"BESTEST"_BENNIE_K_SHOW "wikilink")**」（2008年[10月29日](../Page/10月29日.md "wikilink")発売）
       - 3.a love story/with SEAMO
       - 10.天狗 vs 弁慶 feat.シーモネーター
-14. [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink")「**[君がいるだけで/さぁ行こう\!](https://ja.wikipedia.org/wiki/君がいるだけで/さぁ行こう! "wikilink")**」（2008年[12月3日](../Page/12月3日.md "wikilink")発売）
+14. [YA-KYIM](../Page/YA-KYIM.md "wikilink")「**[君がいるだけで/さぁ行こう\!](https://ja.wikipedia.org/wiki/君がいるだけで/さぁ行こう! "wikilink")**」（2008年[12月3日](../Page/12月3日.md "wikilink")発売）
       - 2.さぁ行こう\!
       - 「YA-KYIM respects SEAMO」名義。
 15. YA-KYIM「**[HAPPY\! ENJOY\! FRESH\!](https://ja.wikipedia.org/wiki/HAPPY!_ENJOY!_FRESH! "wikilink")**」（[2009年](../Page/2009年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")発売）
@@ -563,7 +563,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - 11.ムチャぶりキング feat. SEAMO
 19. AZU「**[Two of Us](https://ja.wikipedia.org/wiki/Two_of_Us_\(AZUのアルバム\) "wikilink")**」（2010年[3月17日](../Page/3月17日.md "wikilink")発売）
       - 12.おねがい\! AZU子先生 feat. SEAMOくん
-20. [MEGARYU](https://ja.wikipedia.org/wiki/MEGARYU "wikilink")「**[LOVE A LOVE feat. SEAMO/メロディーのようなLIFE feat. Metis](https://ja.wikipedia.org/wiki/LOVE_A_LOVE_feat._SEAMO/メロディーのようなLIFE_feat._Metis "wikilink")**」（2010年[5月5日](../Page/5月5日.md "wikilink")発売）
+20. [MEGARYU](../Page/MEGARYU.md "wikilink")「**[LOVE A LOVE feat. SEAMO/メロディーのようなLIFE feat. Metis](https://ja.wikipedia.org/wiki/LOVE_A_LOVE_feat._SEAMO/メロディーのようなLIFE_feat._Metis "wikilink")**」（2010年[5月5日](../Page/5月5日.md "wikilink")発売）
       - 1.LOVE A LOVE feat. SEAMO
 21. Tiara「**[Message for you](https://ja.wikipedia.org/wiki/Message_for_you "wikilink")**」（2010年[5月12日](../Page/5月12日.md "wikilink")発売）
       - 12.キミがおしえてくれた事 feat. SEAMO
@@ -575,12 +575,12 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - 「クリスマス大作戦 feat. 紗羅マリー」の続編。
 25. AZU「**[AZyoU](https://ja.wikipedia.org/wiki/AZyoU "wikilink")**」（2011年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")発売）
       - 10.AKS99 feat. SEAMO & [KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")
-26. [Miss Monday](https://ja.wikipedia.org/wiki/Miss_Monday "wikilink")「**[\&U](https://ja.wikipedia.org/wiki/&U "wikilink")**」（2011年[7月13日](../Page/7月13日.md "wikilink")発売）
+26. [Miss Monday](../Page/Miss_Monday.md "wikilink")「**[\&U](https://ja.wikipedia.org/wiki/&U "wikilink")**」（2011年[7月13日](../Page/7月13日.md "wikilink")発売）
       - 10.マタアイマショウ in respect for SEAMO
       - 大ヒット曲「マタアイマショウ」のアンサーソングを、SEAMO本人を招いて作品化した。
-27. [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")「**[12 Love Stories 2](https://ja.wikipedia.org/wiki/12_Love_Stories_2 "wikilink")**」（2011年[11月30日](../Page/11月30日.md "wikilink")発売）
+27. [童子-T](../Page/童子-T.md "wikilink")「**[12 Love Stories 2](https://ja.wikipedia.org/wiki/12_Love_Stories_2 "wikilink")**」（2011年[11月30日](../Page/11月30日.md "wikilink")発売）
       - 4.あなたしか見えなかった feat. SEAMO, [ICONIQ](https://ja.wikipedia.org/wiki/ICONIQ "wikilink")
-28. [セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink")「**[The Band](https://ja.wikipedia.org/wiki/The_Band "wikilink")**」（[2012年](../Page/2012年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売）
+28. [セカイイチ](../Page/セカイイチ.md "wikilink")「**[The Band](https://ja.wikipedia.org/wiki/The_Band "wikilink")**」（[2012年](../Page/2012年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売）
       - 8.Night and Daylight feat. SEAMO
 29. [CHIHIRO](../Page/CHIHIRO_\(歌手\).md "wikilink")「**[C is](https://ja.wikipedia.org/wiki/C_is "wikilink")**」（2012年[8月29日](../Page/8月29日.md "wikilink")発売）
       - 3.どんなに離れても feat. SEAMO
@@ -600,7 +600,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 36. [DJ SANCON](https://ja.wikipedia.org/wiki/DJ_SANCON "wikilink")「**Music has no borders**」（[2017年](../Page/2017年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")発売）
       - 3\. Pray Back feat. SEAMO, KURO from HOME MADE 家族
 37. [ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink")「**[ENDRUN](https://ja.wikipedia.org/wiki/ENDRUN "wikilink")**」（[2017年](../Page/2017年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")発売）
-      - 10\. 傾奇炎II feat. KLUTCH（[ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")）, コブラJP（FANTAGROUP）, ヤス一番？（nobodyknows+）, GooF（SOFFet）, SEAMO, YOPPY（[エイジアエンジニア](https://ja.wikipedia.org/wiki/エイジアエンジニア "wikilink")）
+      - 10\. 傾奇炎II feat. KLUTCH（[ET-KING](../Page/ET-KING.md "wikilink")）, コブラJP（FANTAGROUP）, ヤス一番？（nobodyknows+）, GooF（SOFFet）, SEAMO, YOPPY（[エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")）
 
 #### コンピレーション
 
@@ -613,7 +613,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - PUFFYのトリビュートアルバム
       - シーモネーター featuring [BUMBASTICKS](https://ja.wikipedia.org/wiki/BUMBASTICKS "wikilink")名義。
 2.  オムニバス「**[KRUSH GROOVE 〜HOME PARTY〜](https://ja.wikipedia.org/wiki/KRUSH_GROOVE_〜HOME_PARTY〜 "wikilink")**」（[2004年](../Page/2004年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")発売）
-      - 2.淫美テーション / [BEAT★NATURE](https://ja.wikipedia.org/wiki/BEAT★NATURE "wikilink") feat.シーモネーター
+      - 2.淫美テーション / [BEAT★NATURE](../Page/BEAT★NATURE.md "wikilink") feat.シーモネーター
 
 <!-- end list -->
 
@@ -621,18 +621,18 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 <!-- end list -->
 
-1.  オムニバス「**[WE LOVE WE](https://ja.wikipedia.org/wiki/WE_LOVE_WE "wikilink")**」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")発売）　
+1.  オムニバス「**[WE LOVE WE](https://ja.wikipedia.org/wiki/WE_LOVE_WE "wikilink")**」（[2006年](../Page/2006年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")発売）　
       - 12.Champion Road
-      - 後に自身の2ndアルバム「[Live Goes On](https://ja.wikipedia.org/wiki/Live_Goes_On "wikilink")」にも収録された。
+      - 後に自身の2ndアルバム「[Live Goes On](../Page/Live_Goes_On.md "wikilink")」にも収録された。
 2.  オムニバス「**[swing presents...Peace from Central Japan](https://ja.wikipedia.org/wiki/swing_presents...Peace_from_Central_Japan "wikilink")**」 <BVCR-14030> （2006年[6月28日](../Page/6月28日.md "wikilink")発売）
-      - 1.Make it? Naked? / ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")([M.O.S.A.D.](https://ja.wikipedia.org/wiki/M.O.S.A.D. "wikilink"))×SEAMO
+      - 1.Make it? Naked? / ["E"qual](../Page/"E"qual.md "wikilink")([M.O.S.A.D.](../Page/M.O.S.A.D..md "wikilink"))×SEAMO
       - 6.Mo' Money / [GANXSTA CUE](https://ja.wikipedia.org/wiki/GANXSTA_CUE "wikilink")(from [PHOBIA OF THUG](https://ja.wikipedia.org/wiki/PHOBIA_OF_THUG "wikilink"))×SEAMO
       - 9.Street Life / [MR.OZ](https://ja.wikipedia.org/wiki/MR.OZ "wikilink")(from PHOBIA OF THUG)×SEAMO
       - 11.全然余裕じゃん！ / [Groove Brothers](https://ja.wikipedia.org/wiki/Groove_Brothers "wikilink") featuring SEAMO
       - 14.One Peace / Pieces from Central Japan
       - 最高順位205位
       - 名古屋を拠点に活動中のアーティスト達が、メジャー、インディーズの垣根を越え集結。
-      - HIPHOP中心で、他参加アーティストにはCRYSTAL BOY、ヤス一番（[Nobodyknows+](https://ja.wikipedia.org/wiki/Nobodyknows+ "wikilink")）、"E"qual(M.O.S.A.D.),[AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")等、[來々](https://ja.wikipedia.org/wiki/來々 "wikilink")、[machaco](https://ja.wikipedia.org/wiki/machaco "wikilink")、[ANTY the 紅乃壱が参加](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")。
+      - HIPHOP中心で、他参加アーティストにはCRYSTAL BOY、ヤス一番（[Nobodyknows+](../Page/Nobodyknows+.md "wikilink")）、"E"qual(M.O.S.A.D.),[AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")等、[來々](https://ja.wikipedia.org/wiki/來々 "wikilink")、[machaco](https://ja.wikipedia.org/wiki/machaco "wikilink")、[ANTY the 紅乃壱が参加](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")。
 3.  オムニバス「**[夜のピクニック INSPIRED BEST ALBUM](https://ja.wikipedia.org/wiki/夜のピクニック_INSPIRED_BEST_ALBUM "wikilink")**」（2006年[9月20日](../Page/9月20日.md "wikilink")発売）
       - 3.Friends
 4.  [DJ KAORI](https://ja.wikipedia.org/wiki/DJ_KAORI "wikilink")「**[DJ KAORI'S JMIX](https://ja.wikipedia.org/wiki/DJ_KAORI'S_JMIX "wikilink")**」（[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売）
@@ -655,7 +655,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 12. オムニバス「**[BEST HIT NARUTO](https://ja.wikipedia.org/wiki/BEST_HIT_NARUTO "wikilink")**」（2010年[7月14日](../Page/7月14日.md "wikilink")発売）
       - 10.My ANSWER / SEAMO
 13. オムニバス「**[BEAT CONNECTION](https://ja.wikipedia.org/wiki/BEAT_CONNECTION "wikilink")**」（2010年[10月27日](../Page/10月27日.md "wikilink")発売）
-      - (DISC-2) 1.ラヴィン・ユー / [清水翔太](../Page/清水翔太.md "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、SEAMO、[童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")
+      - (DISC-2) 1.ラヴィン・ユー / [清水翔太](../Page/清水翔太.md "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、SEAMO、[童子-T](../Page/童子-T.md "wikilink")
       - (DISC-2) 14.Continue / SEAMO
 14. オムニバス「**[アイのうた WINTER REMIX](https://ja.wikipedia.org/wiki/アイのうた_WINTER_REMIX "wikilink")**」（2010年[12月1日](../Page/12月1日.md "wikilink")発売）
       - 6.時間よ止まれ feat. SEAMO -[LADY BiRD](https://ja.wikipedia.org/wiki/LADY_BiRD "wikilink") Winter Remix- / AZU
@@ -701,7 +701,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - ライブで披露した曲。
 2.  ピザ 田中 棒々鶏
       - [BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink")春の新キャンペーン駅篇CMソング。
-      - 映画「[戦場にかける橋](https://ja.wikipedia.org/wiki/戦場にかける橋 "wikilink")」テーマ曲「[クワイ河マーチ](../Page/クワイ河マーチ.md "wikilink")」の替え歌。
+      - 映画「[戦場にかける橋](../Page/戦場にかける橋.md "wikilink")」テーマ曲「[クワイ河マーチ](../Page/クワイ河マーチ.md "wikilink")」の替え歌。
 
 ## 執筆
 
@@ -713,53 +713,53 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 ## タイアップ一覧
 
-| 楽曲                                                                                                                    | タイアップ                                                                                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[関白](https://ja.wikipedia.org/wiki/関白_\(曲\) "wikilink")**                                                           | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")度テーマ |
-| **[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")**                                               | [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[サルヂエ](../Page/サルヂエ.md "wikilink")』エンディングテーマ/中京テレビ・日本テレビ系『[少年チャンプル](https://ja.wikipedia.org/wiki/少年チャンプル "wikilink")』エンディングテーマ                                                           |
-| **[マタアイマショウ](https://ja.wikipedia.org/wiki/マタアイマショウ "wikilink")**                                                     | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ/オリジナル短編アニメーション｢[東京マーブルチョコレート](../Page/東京マーブルチョコレート.md "wikilink")｣主題歌                                                              |
-| **[Cry Baby](../Page/Cry_Baby.md "wikilink")**                                                                        | [映画](../Page/映画.md "wikilink")「[クレヨンしんちゃん 嵐を呼ぶ 歌うケツだけ爆弾\!](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_嵐を呼ぶ_歌うケツだけ爆弾! "wikilink")」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")                                                       |
-| **Rising Dragon feat. [2BACKKA](../Page/2BACKKA.md "wikilink")**                                                      | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[ザ・プロ野球　燃えよドラゴンズ\!](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』2007年度テーマ曲                                                                                        |
-| **[軌跡](../Page/軌跡_\(SEAMOの曲\).md "wikilink")**                                                                        | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ウチくる\!?](../Page/ウチくる!?.md "wikilink")」エンディングテーマ                                                                                                                           |
-| **From Now**                                                                                                          | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・日本テレビ系「[秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")」エンディングテーマ                                                                                                             |
-| **Hey Boy, Hey Girl feat. [BoA](../Page/BoA.md "wikilink")**                                                          | [TBS系列](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』エンディングテーマ                                                                                                                                 |
-| **天狗〜祭りのテーマ〜**                                                                                                        | CBC『ザ・プロ野球　燃えよドラゴンズ\!』2008年度テーマ曲                                                                                                                                                                                                        |
-| **[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")**                                             | TBS系列「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」4・5月度オープニングテーマ                                                                                                                                                            |
-| **funky teacher**                                                                                                     | [カートゥーン・ネットワーク](https://ja.wikipedia.org/wiki/カートゥーン・ネットワーク "wikilink")『[クラス・オブ・ミュージック\!](../Page/クラス・オブ・ミュージック!.md "wikilink")』エンディングテーマ                                                                                               |
-| **[Honey Honey feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/Honey_Honey_feat._AYUSE_KOZUE "wikilink")**           | TBS系アニメ『[xxxHOLiC◆継](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")』エンディングテーマ                                                                                                                                                       |
-| **Brotherhood**                                                                                                       | 第55回[さっぽろ夏まつり](https://ja.wikipedia.org/wiki/さっぽろ夏まつり "wikilink")コラボレーションソング                                                                                                                                                            |
-| **[Continue](../Page/Continue_\(SEAMOの曲\).md "wikilink")**                                                            | 読売テレビ・日本テレビ系ドラマ『[夢をかなえるゾウ](https://ja.wikipedia.org/wiki/夢をかなえるゾウ "wikilink")』主題歌                                                                                                                                                       |
-| **やさしい風**                                                                                                             | [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")・[ポッキー](https://ja.wikipedia.org/wiki/ポッキー "wikilink")・チョコレート[SSTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink") Ver. CFソング                                                |
-| **Kiss Kiss Kiss feat. [AZU](../Page/AZU.md "wikilink") & [yukako](https://ja.wikipedia.org/wiki/yukako "wikilink")** | テレビ朝日系『[業界技術狩人 ギョーテック](https://ja.wikipedia.org/wiki/業界技術狩人_ギョーテック "wikilink")』1～3月度エンディングテーマ                                                                                                                                           |
-| '''GO                                                                                                                 | '''                                                                                                                                                                                                                                     |
-| '''不景気なんてぶっとばせ                                                                                                        | '''                                                                                                                                                                                                                                     |
-| **My ANSWER**                                                                                                         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』エンディングテーマ                                                                                     |
-| **Lost Boy**                                                                                                          | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[怪談レストラン](https://ja.wikipedia.org/wiki/怪談レストラン "wikilink")』主題歌                                                                                                                                |
-| **零-ZERO-**                                                                                                           | テレビ東京系『[柔道グランドスラム東京2009](../Page/グランドスラム・東京.md "wikilink")』中継テーマソング                                                                                                                                                                     |
-| **[海へいこう](https://ja.wikipedia.org/wiki/海へいこう "wikilink")**                                                           | フジテレビ系ドラマ『[もやしもん](../Page/もやしもん.md "wikilink")』エンディングテーマ                                                                                                                                                                                |
-| **My Style is the Best**                                                                                              | [洋服の青山](../Page/青山商事.md "wikilink")｢清涼フォーマルスーツ｣CMソング                                                                                                                                                                                    |
-| **クリスマス大作戦 feat. [紗羅マリー](https://ja.wikipedia.org/wiki/紗羅マリー "wikilink")**                                            | TBS系列『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』12月度オープニングテーマ/「2010 [ららぽーと](https://ja.wikipedia.org/wiki/ららぽーと "wikilink") Colorful Xmas」CMソング                                                                    |
-| **ピザ 田中 棒々鶏**                                                                                                         | [BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink")春の新キャンペーン駅篇CMソング                                                                                                                                                                 |
-| **ワン☆ダフル**                                                                                                            | 映画「[犬飼さんちの犬](https://ja.wikipedia.org/wiki/犬飼さんちの犬 "wikilink")」主題歌                                                                                                                                                                      |
-| **[君に1日1回「好き」と言う](https://ja.wikipedia.org/wiki/君に1日1回「好き」と言う "wikilink")**                                           | [毎日放送系ドラマ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")「[RUN60](https://ja.wikipedia.org/wiki/RUN60 "wikilink")」主題歌                                                                                                                 |
-| **[汚れた翼で](https://ja.wikipedia.org/wiki/汚れた翼で "wikilink")**                                                           | TBS系列「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」8・9月度エンディングテーマ                                                                                                                                                        |
-| **TREASURE**                                                                                                          | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")「わんぱく大作戦」テーマソング                                                                                                                                                                |
-| **未来への種**                                                                                                             | [第3回NHK・民放連共同ラジオキャンペーン in 名古屋「RADIO CAMPAIGN IN 名古屋 ＼ラジオ きいてみた／」キャンペーン](https://ja.wikipedia.org/wiki/NHK・民放連共同ラジオキャンペーン "wikilink")・ソング                                                                                                |
-| **NO.1**                                                                                                              | CBC『[サンデードラゴンズ](../Page/サンデードラゴンズ.md "wikilink")』テーマソング                                                                                                                                                                                 |
-| **Anywhere Door / SEAMO & [AZU](../Page/AZU.md "wikilink")**                                                          | [天神地下街](https://ja.wikipedia.org/wiki/天神地下街 "wikilink")40周年TVCMソング                                                                                                                                                                      |
-| **リアルありがとう**                                                                                                          | [中部エコサービス](https://ja.wikipedia.org/wiki/中部エコサービス "wikilink")CMソング                                                                                                                                                                      |
-| **ON & 恩 / SEAMO×Crystal Boy×[KURO](../Page/KURO.md "wikilink")×SOCKS**                                               | [パチンコマリオン](https://ja.wikipedia.org/wiki/パチンコマリオン "wikilink")TVCMソング                                                                                                                                                                    |
+| 楽曲                                                                                                                    | タイアップ                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[関白](../Page/関白_\(曲\).md "wikilink")**                                                                              | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")度テーマ |
+| **[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")**                                               | [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[サルヂエ](../Page/サルヂエ.md "wikilink")』エンディングテーマ/中京テレビ・日本テレビ系『[少年チャンプル](../Page/少年チャンプル.md "wikilink")』エンディングテーマ                                        |
+| **[マタアイマショウ](../Page/マタアイマショウ.md "wikilink")**                                                                        | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ/オリジナル短編アニメーション｢[東京マーブルチョコレート](../Page/東京マーブルチョコレート.md "wikilink")｣主題歌                        |
+| **[Cry Baby](../Page/Cry_Baby.md "wikilink")**                                                                        | [映画](../Page/映画.md "wikilink")「[クレヨンしんちゃん 嵐を呼ぶ 歌うケツだけ爆弾\!](../Page/クレヨンしんちゃん_嵐を呼ぶ_歌うケツだけ爆弾!.md "wikilink")」[主題歌](../Page/主題歌.md "wikilink")                                                       |
+| **Rising Dragon feat. [2BACKKA](../Page/2BACKKA.md "wikilink")**                                                      | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[ザ・プロ野球　燃えよドラゴンズ\!](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』2007年度テーマ曲                                                  |
+| **[軌跡](../Page/軌跡_\(SEAMOの曲\).md "wikilink")**                                                                        | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ウチくる\!?](../Page/ウチくる!?.md "wikilink")」エンディングテーマ                                                                                     |
+| **From Now**                                                                                                          | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・日本テレビ系「[秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")」エンディングテーマ                                                                       |
+| **Hey Boy, Hey Girl feat. [BoA](../Page/BoA.md "wikilink")**                                                          | [TBS系列](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』エンディングテーマ                                                                                           |
+| **天狗〜祭りのテーマ〜**                                                                                                        | CBC『ザ・プロ野球　燃えよドラゴンズ\!』2008年度テーマ曲                                                                                                                                                                  |
+| **[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")**                                             | TBS系列「[ランク王国](../Page/ランク王国.md "wikilink")」4・5月度オープニングテーマ                                                                                                                                         |
+| **funky teacher**                                                                                                     | [カートゥーン・ネットワーク](https://ja.wikipedia.org/wiki/カートゥーン・ネットワーク "wikilink")『[クラス・オブ・ミュージック\!](../Page/クラス・オブ・ミュージック!.md "wikilink")』エンディングテーマ                                                         |
+| **[Honey Honey feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/Honey_Honey_feat._AYUSE_KOZUE "wikilink")**           | TBS系アニメ『[xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink")』エンディングテーマ                                                                                                                                    |
+| **Brotherhood**                                                                                                       | 第55回[さっぽろ夏まつり](https://ja.wikipedia.org/wiki/さっぽろ夏まつり "wikilink")コラボレーションソング                                                                                                                      |
+| **[Continue](../Page/Continue_\(SEAMOの曲\).md "wikilink")**                                                            | 読売テレビ・日本テレビ系ドラマ『[夢をかなえるゾウ](https://ja.wikipedia.org/wiki/夢をかなえるゾウ "wikilink")』主題歌                                                                                                                 |
+| **やさしい風**                                                                                                             | [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")・[ポッキー](../Page/ポッキー.md "wikilink")・チョコレート[SSTV](../Page/スペースシャワーTV.md "wikilink") Ver. CFソング                                                |
+| **Kiss Kiss Kiss feat. [AZU](../Page/AZU.md "wikilink") & [yukako](https://ja.wikipedia.org/wiki/yukako "wikilink")** | テレビ朝日系『[業界技術狩人 ギョーテック](https://ja.wikipedia.org/wiki/業界技術狩人_ギョーテック "wikilink")』1～3月度エンディングテーマ                                                                                                     |
+| '''GO                                                                                                                 | '''                                                                                                                                                                                               |
+| '''不景気なんてぶっとばせ                                                                                                        | '''                                                                                                                                                                                               |
+| **My ANSWER**                                                                                                         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』エンディングテーマ                                               |
+| **Lost Boy**                                                                                                          | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[怪談レストラン](https://ja.wikipedia.org/wiki/怪談レストラン "wikilink")』主題歌                                                                                          |
+| **零-ZERO-**                                                                                                           | テレビ東京系『[柔道グランドスラム東京2009](../Page/グランドスラム・東京.md "wikilink")』中継テーマソング                                                                                                                               |
+| **[海へいこう](https://ja.wikipedia.org/wiki/海へいこう "wikilink")**                                                           | フジテレビ系ドラマ『[もやしもん](../Page/もやしもん.md "wikilink")』エンディングテーマ                                                                                                                                          |
+| **My Style is the Best**                                                                                              | [洋服の青山](../Page/青山商事.md "wikilink")｢清涼フォーマルスーツ｣CMソング                                                                                                                                              |
+| **クリスマス大作戦 feat. [紗羅マリー](https://ja.wikipedia.org/wiki/紗羅マリー "wikilink")**                                            | TBS系列『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』12月度オープニングテーマ/「2010 [ららぽーと](https://ja.wikipedia.org/wiki/ららぽーと "wikilink") Colorful Xmas」CMソング                                                 |
+| **ピザ 田中 棒々鶏**                                                                                                         | [BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink")春の新キャンペーン駅篇CMソング                                                                                                                           |
+| **ワン☆ダフル**                                                                                                            | 映画「[犬飼さんちの犬](https://ja.wikipedia.org/wiki/犬飼さんちの犬 "wikilink")」主題歌                                                                                                                                |
+| **[君に1日1回「好き」と言う](https://ja.wikipedia.org/wiki/君に1日1回「好き」と言う "wikilink")**                                           | [毎日放送系ドラマ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")「[RUN60](https://ja.wikipedia.org/wiki/RUN60 "wikilink")」主題歌                                                                           |
+| **[汚れた翼で](https://ja.wikipedia.org/wiki/汚れた翼で "wikilink")**                                                           | TBS系列「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」8・9月度エンディングテーマ                                                                                                                  |
+| **TREASURE**                                                                                                          | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")「わんぱく大作戦」テーマソング                                                                                                                          |
+| **未来への種**                                                                                                             | [第3回NHK・民放連共同ラジオキャンペーン in 名古屋「RADIO CAMPAIGN IN 名古屋 ＼ラジオ きいてみた／」キャンペーン](https://ja.wikipedia.org/wiki/NHK・民放連共同ラジオキャンペーン "wikilink")・ソング                                                          |
+| **NO.1**                                                                                                              | CBC『[サンデードラゴンズ](../Page/サンデードラゴンズ.md "wikilink")』テーマソング                                                                                                                                           |
+| **Anywhere Door / SEAMO & [AZU](../Page/AZU.md "wikilink")**                                                          | [天神地下街](../Page/天神地下街.md "wikilink")40周年TVCMソング                                                                                                                                                   |
+| **リアルありがとう**                                                                                                          | [中部エコサービス](https://ja.wikipedia.org/wiki/中部エコサービス "wikilink")CMソング                                                                                                                                |
+| **ON & 恩 / SEAMO×Crystal Boy×[KURO](../Page/KURO.md "wikilink")×SOCKS**                                               | [パチンコマリオン](https://ja.wikipedia.org/wiki/パチンコマリオン "wikilink")TVCMソング                                                                                                                              |
 
 ## 出演番組
 
 ### 主なテレビ出演
 
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（2004年10月 - 2005年3月頃）不定期準レギュラー出演。さだまさしを訪問して「関白宣言」リメークの許諾を得たり、[キングコングの](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")[梶原雄太](../Page/梶原雄太.md "wikilink")と楽曲を競作する企画があった。
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（2004年10月 - 2005年3月頃）不定期準レギュラー出演。さだまさしを訪問して「関白宣言」リメークの許諾を得たり、[キングコングの](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")[梶原雄太](../Page/梶原雄太.md "wikilink")と楽曲を競作する企画があった。
   - [めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")（2006年6月19日）広人苑IIに出演
-  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2006年8月4日）「[ルパン・ザ・ファイヤー](https://ja.wikipedia.org/wiki/ルパン・ザ・ファイヤー "wikilink")」をパフォーマンス
-  - ミュージックステーション（2006年9月1日）「[マタアイマショウ](https://ja.wikipedia.org/wiki/マタアイマショウ "wikilink")」をパフォーマンス
-  - [トップランナー](https://ja.wikipedia.org/wiki/トップランナー "wikilink")（2006年9月3日）シーモネーター時代の話から、自身の挫折、そして再デビューまでを語った
-  - [COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（2006年10月7日）「マタアイマショウ」をパフォーマンス
+  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2006年8月4日）「[ルパン・ザ・ファイヤー](../Page/ルパン・ザ・ファイヤー.md "wikilink")」をパフォーマンス
+  - ミュージックステーション（2006年9月1日）「[マタアイマショウ](../Page/マタアイマショウ.md "wikilink")」をパフォーマンス
+  - [トップランナー](../Page/トップランナー.md "wikilink")（2006年9月3日）シーモネーター時代の話から、自身の挫折、そして再デビューまでを語った
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2006年10月7日）「マタアイマショウ」をパフォーマンス
   - [紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（2006年12月31日）「ルパン・ザ・ファイヤー」、「マタアイマショウ」をパフォーマンス
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2008年5月9日）「[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")」をパフォーマンス
   - ミュージックステーション（2008年5月9日）「MOTHER」をパフォーマンス
@@ -774,21 +774,21 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 ### ラジオ
 
-  - シーモネーターと[DJ TAKI-SHITの](https://ja.wikipedia.org/wiki/DJ_TAKI-SHIT "wikilink")[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")（2002年10月 - 2003年3月）
+  - シーモネーターと[DJ TAKI-SHITの](https://ja.wikipedia.org/wiki/DJ_TAKI-SHIT "wikilink")[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")（2002年10月 - 2003年3月）
   - 「シーモネーター\&You-Geeの天狗ナイトロング」（[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、火曜日25:00 - （終了））
   - 「シーモネーター\&MICROの天狗ナイト家族」（東海ラジオ、火曜日25:00 - （終了））
-  - 「[SEAMOのA天狗ショープリーズ](https://ja.wikipedia.org/wiki/SEAMOのA天狗ショープリーズ "wikilink")」（[K-MIX](../Page/静岡エフエム放送.md "wikilink")、火曜日20:30 - / [岐阜FM](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")、水曜19:30 - / 《末期》土曜日24:30 - （終了））岐阜FMは後継番組として「SEAMOの合格！天狗ゼミナール」を同時刻をネットしている。
+  - 「[SEAMOのA天狗ショープリーズ](../Page/SEAMOのA天狗ショープリーズ.md "wikilink")」（[K-MIX](../Page/静岡エフエム放送.md "wikilink")、火曜日20:30 - / [岐阜FM](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")、水曜19:30 - / 《末期》土曜日24:30 - （終了））岐阜FMは後継番組として「SEAMOの合格！天狗ゼミナール」を同時刻をネットしている。
   - 「FREE STYLER」（[ZIP-FM](../Page/ZIP-FM.md "wikilink")、土曜日25:40 - （「Fri.Master内」））
   - 「MUSIC FLAVER」（[Date fm](../Page/エフエム仙台.md "wikilink")、土曜日20:00 - ）
   - 「SUNMALL LIVE ON RADIO」（[HFM](../Page/広島エフエム放送.md "wikilink")、土曜日18:00 - ）準レギュラー
-  - 「[杉本清のK-BAR](https://ja.wikipedia.org/wiki/杉本清のK-BAR "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")、金曜日19:30 - ）レギュラーではないがサブレギュラー扱いになっている。この番組では「杉本シーモ」と名乗っており、番組ジングルも彼が手がけている。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送では[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")の取材に出かけた[杉本清](../Page/杉本清.md "wikilink")、6月23日の放送では[ワールドカップ](../Page/ワールドカップ.md "wikilink")の取材に出かけた[藤丸由華](https://ja.wikipedia.org/wiki/藤丸由華 "wikilink")のピンチヒッターでパーソナリティを担当した。8月はほぼ毎週レース予想のメールを送り、[12月23日](../Page/12月23日.md "wikilink")の放送でも[第51回有馬記念](../Page/第51回有馬記念.md "wikilink")の予想メールを送っていた。
+  - 「[杉本清のK-BAR](https://ja.wikipedia.org/wiki/杉本清のK-BAR "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")、金曜日19:30 - ）レギュラーではないがサブレギュラー扱いになっている。この番組では「杉本シーモ」と名乗っており、番組ジングルも彼が手がけている。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送では[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")の取材に出かけた[杉本清](../Page/杉本清.md "wikilink")、6月23日の放送では[ワールドカップ](../Page/ワールドカップ.md "wikilink")の取材に出かけた[藤丸由華](../Page/藤丸由華.md "wikilink")のピンチヒッターでパーソナリティを担当した。8月はほぼ毎週レース予想のメールを送り、[12月23日](../Page/12月23日.md "wikilink")の放送でも[第51回有馬記念](../Page/第51回有馬記念.md "wikilink")の予想メールを送っていた。
   - 「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（[JFNCファイル配信](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
   - TOKAIRADIO × TSUTAYA LIFESTYLE MUSIC 929（[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[2015年](../Page/2015年.md "wikilink")10月 - ）金曜日パーソナリティ\[8\]。
   - 「JOYFUL」（ZIP-FM、金曜日13:00 - ）ミュージックナビゲーター
 
 ## 出演イベント
 
-  - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink")
+  - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink")
       - 06/07
       - 07/08
       - 08/09
@@ -805,12 +805,12 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 現在も交流のある人物
 
-  - [童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")
-  - [セカイイチ](https://ja.wikipedia.org/wiki/セカイイチ "wikilink")
+  - [童子-T](../Page/童子-T.md "wikilink")
+  - [セカイイチ](../Page/セカイイチ.md "wikilink")
   - [DJ shuuz](https://ja.wikipedia.org/wiki/DJ_Shuuz "wikilink")
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")
+  - [KREVA](../Page/KREVA.md "wikilink")
   - [AZU](../Page/AZU.md "wikilink")
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
   - [Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink")
   - [ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink")
   - [MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")
@@ -823,10 +823,10 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")
   - [CHIHIRO (歌手)](../Page/CHIHIRO_\(歌手\).md "wikilink")
   - [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - [BRIDGET](https://ja.wikipedia.org/wiki/BRIDGET "wikilink")
-  - [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")
-  - [MEGARYU](https://ja.wikipedia.org/wiki/MEGARYU "wikilink")
+  - [ET-KING](../Page/ET-KING.md "wikilink")
+  - [MEGARYU](../Page/MEGARYU.md "wikilink")
   - [AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")
   - [yukako](https://ja.wikipedia.org/wiki/yukako "wikilink")
   - [紗羅マリー](https://ja.wikipedia.org/wiki/紗羅マリー "wikilink")
@@ -834,19 +834,19 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [Metis](https://ja.wikipedia.org/wiki/Metis "wikilink")
   - [カルテット](../Page/カルテット_\(ユニット\).md "wikilink")
   - [手裏剣ジェット](https://ja.wikipedia.org/wiki/手裏剣ジェット "wikilink")
-  - ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")（[M.O.S.A.D.](https://ja.wikipedia.org/wiki/M.O.S.A.D. "wikilink")）
+  - ["E"qual](../Page/"E"qual.md "wikilink")（[M.O.S.A.D.](../Page/M.O.S.A.D..md "wikilink")）
   - [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")
   - [九州男](https://ja.wikipedia.org/wiki/九州男 "wikilink")
   - [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")
-  - [YA-KYIM](https://ja.wikipedia.org/wiki/YA-KYIM "wikilink")
+  - [YA-KYIM](../Page/YA-KYIM.md "wikilink")
   - [MASH](https://ja.wikipedia.org/wiki/MASH "wikilink")
   - [KAME\&L.N.K](../Page/KAME&L.N.K.md "wikilink")
-  - [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")
+  - [SOFFet](../Page/SOFFet.md "wikilink")
   - [2BACKKA](../Page/2BACKKA.md "wikilink")
   - [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
-  - [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")
+  - [スガシカオ](../Page/スガシカオ.md "wikilink")
   - [逗子三兄弟](https://ja.wikipedia.org/wiki/逗子三兄弟 "wikilink")
   - [さだまさし](../Page/さだまさし.md "wikilink")
   - [SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")
@@ -859,36 +859,36 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
   - [DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/DJ_TAKI-SHIT "wikilink")
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")
-  - [TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X "wikilink")（M.O.S.A.D.）
-  - RYO（[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")）
+  - [TOKONA-X](../Page/TOKONA-X.md "wikilink")（M.O.S.A.D.）
+  - RYO（[ケツメイシ](../Page/ケツメイシ.md "wikilink")）
   - [BoA](../Page/BoA.md "wikilink")
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
   - [オナニーマシーン](../Page/オナニーマシーン.md "wikilink")
   - [Kylee](https://ja.wikipedia.org/wiki/Kylee "wikilink")
   - [谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")
-  - [スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")
+  - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")
   - [天上智喜The Grace](../Page/天上智喜The_Grace.md "wikilink")
   - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")
   - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
   - [清水翔太](../Page/清水翔太.md "wikilink")
   - [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")
-  - [May'n](https://ja.wikipedia.org/wiki/May'n "wikilink")
+  - [May'n](../Page/May'n.md "wikilink")
   - [植村花菜](https://ja.wikipedia.org/wiki/植村花菜 "wikilink")
-  - [Panicrew](https://ja.wikipedia.org/wiki/PaniCrew "wikilink")
-  - [スケボーキング](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")
+  - [Panicrew](../Page/PaniCrew.md "wikilink")
+  - [スケボーキング](../Page/スケボーキング.md "wikilink")
   - [トリカブト (ユニット)](../Page/トリカブト_\(ユニット\).md "wikilink")
   - [ダースレイダー](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink")
-  - [GAGLE](https://ja.wikipedia.org/wiki/GAGLE "wikilink")
-  - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")（[KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")）
-  - [GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink")（[EAST END](../Page/EAST_END.md "wikilink")）
+  - [GAGLE](../Page/GAGLE.md "wikilink")
+  - [LITTLE](../Page/LITTLE.md "wikilink")（[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
+  - [GAKU-MC](../Page/GAKU-MC.md "wikilink")（[EAST END](../Page/EAST_END.md "wikilink")）
   - [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")
   - [傳田真央](https://ja.wikipedia.org/wiki/傳田真央 "wikilink")
   - [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
   - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")
-  - [ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")
+  - [ケツメイシ](../Page/ケツメイシ.md "wikilink")
 
 ## 脚注
 

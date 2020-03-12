@@ -1,13 +1,13 @@
 > この記事は[J-](https://ja.wikipedia.org/wiki/J-)から翻訳されています。
 
 
-**株式会社J-オイルミルズ**（ジェイオイルミルズ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、食用油脂の製造・販売を主たる業務とする会社である。[2003年](../Page/2003年.md "wikilink")4月に味の素製油、ホーネンコーポレーション、吉原製油の3社が統合して設立された。
+**株式会社J-オイルミルズ**（ジェイオイルミルズ）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、食用油脂の製造・販売を主たる業務とする会社である。[2003年](../Page/2003年.md "wikilink")4月に味の素製油、ホーネンコーポレーション、吉原製油の3社が統合して設立された。
 
 ## 概説
 
 ホーネンと味の素製油が[2002年](../Page/2002年.md "wikilink")4月に統合して[持株会社](../Page/持株会社.md "wikilink")である豊年味の素製油が設立され、2003年4月に吉原製油が参加して持株会社が現在の社名に変更された。[2004年](../Page/2004年.md "wikilink")7月にホーネン、味の素製油、吉原製油の3事業会社と日本大豆製油の全てを吸収合併して統合した。
 
-現在は統合前のブランド名をそのまま使用している商品もあるが、多くは「J-オイル」ブランドへ統一されつつある。同じ業界で2002年に[日清製油](https://ja.wikipedia.org/wiki/日清製油 "wikilink")、[リノール油脂](https://ja.wikipedia.org/wiki/リノール油脂 "wikilink")、[ニッコー製油](https://ja.wikipedia.org/wiki/ニッコー製油 "wikilink")の3社が統合して[日清オイリオグループ](https://ja.wikipedia.org/wiki/日清オイリオグループ "wikilink")を設立し、同社とともに業界内の2強である。
+現在は統合前のブランド名をそのまま使用している商品もあるが、多くは「J-オイル」ブランドへ統一されつつある。同じ業界で2002年に[日清製油](https://ja.wikipedia.org/wiki/日清製油 "wikilink")、[リノール油脂](https://ja.wikipedia.org/wiki/リノール油脂 "wikilink")、[ニッコー製油](https://ja.wikipedia.org/wiki/ニッコー製油 "wikilink")の3社が統合して[日清オイリオグループ](../Page/日清オイリオグループ.md "wikilink")を設立し、同社とともに業界内の2強である。
 
 [2011年](../Page/2011年.md "wikilink")6月に設立以来初めてコーポレートステートメントを制定し、コーポレートメッセージを「**おいしい♪は幸せのエネルギー。**」とした。 [2019年](../Page/2019年.md "wikilink")より「**Joy for life**」となり、[サウンドロゴ](../Page/サウンドロゴ.md "wikilink")はCM出演者が歌っている。
 
@@ -47,7 +47,7 @@
 
 ## 取扱ブランド
 
-2009年以降、家庭用油脂は味の素、業務用はJ-オイルミルズ（旧ホーネンブランドの「豊年油」や旧吉原ブランドの「ゴールデン」を含む）と味の素の2種類を扱い、豊年は[栄養補助食品](https://ja.wikipedia.org/wiki/サプリメント "wikilink")（上記の通り2018年6月で販売終了）、日華は業務用油脂および[大豆](https://ja.wikipedia.org/wiki/大豆 "wikilink")粉へそれぞれ移行（油脂類の販売は引き続き[日華油脂](../Page/日華油脂.md "wikilink")が行う）し、吉原は扱わない。
+2009年以降、家庭用油脂は味の素、業務用はJ-オイルミルズ（旧ホーネンブランドの「豊年油」や旧吉原ブランドの「ゴールデン」を含む）と味の素の2種類を扱い、豊年は[栄養補助食品](../Page/サプリメント.md "wikilink")（上記の通り2018年6月で販売終了）、日華は業務用油脂および[大豆](https://ja.wikipedia.org/wiki/大豆 "wikilink")粉へそれぞれ移行（油脂類の販売は引き続き[日華油脂](../Page/日華油脂.md "wikilink")が行う）し、吉原は扱わない。
 
 ### 現行
 
@@ -107,7 +107,7 @@
 
 ## スポンサード
 
-[J-OIL_MILLS,_Inc._Shiuzoka_factory.jpg](https://ja.wikipedia.org/wiki/File:J-OIL_MILLS,_Inc._Shiuzoka_factory.jpg "fig:J-OIL_MILLS,_Inc._Shiuzoka_factory.jpg") ホーネンコーポレーションは主力工場が[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")に位置する関係から、[清水エスパルス](../Page/清水エスパルス.md "wikilink")の[ユニフォーム](../Page/ユニフォーム.md "wikilink")[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")を袖部分で[1992年](../Page/1992年.md "wikilink")から2002年まで担当した。現在も、J-オイルミルズは清水エスパルスの運営会社である株式会社エスパルスの株主である。
+[J-OIL_MILLS,_Inc._Shiuzoka_factory.jpg](https://ja.wikipedia.org/wiki/File:J-OIL_MILLS,_Inc._Shiuzoka_factory.jpg "fig:J-OIL_MILLS,_Inc._Shiuzoka_factory.jpg") ホーネンコーポレーションは主力工場が[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")に位置する関係から、[清水エスパルス](../Page/清水エスパルス.md "wikilink")の[ユニフォーム](../Page/ユニフォーム.md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")を袖部分で[1992年](../Page/1992年.md "wikilink")から2002年まで担当した。現在も、J-オイルミルズは清水エスパルスの運営会社である株式会社エスパルスの株主である。
 
 ## 脚注
 
@@ -117,5 +117,5 @@
 
 [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:日本の食品メーカー](https://ja.wikipedia.org/wiki/Category:日本の食品メーカー "wikilink") [Category:日本の食用油メーカー](https://ja.wikipedia.org/wiki/Category:日本の食用油メーカー "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2002年上場の企業](https://ja.wikipedia.org/wiki/Category:2002年上場の企業 "wikilink") [Category:味の素](https://ja.wikipedia.org/wiki/Category:味の素 "wikilink") [Category:鈴木商店](https://ja.wikipedia.org/wiki/Category:鈴木商店 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:三井物産の歴史](https://ja.wikipedia.org/wiki/Category:三井物産の歴史 "wikilink") [Category:住友グループの歴史](https://ja.wikipedia.org/wiki/Category:住友グループの歴史 "wikilink")
 
-1.  2007年7月に[ユニリーバ・ジャパン](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink")から譲受した。味の素のマーガリンブランドであるマリーナは、味の素がマーガリン事業を撤退後に日本リーバが販売を引き継ぎ、現在は終売している。
-2.  希に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")」の筆頭スポンサーである「[AGF](https://ja.wikipedia.org/wiki/味の素AGF "wikilink")」名義でもCMを流したこともある。経営統合前は豊年・吉原・日華もCMをしていたことがあった。豊年もテレビCMが主体、吉原はどちらかというとラジオCMがメインだった。
+1.  2007年7月に[ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")から譲受した。味の素のマーガリンブランドであるマリーナは、味の素がマーガリン事業を撤退後に日本リーバが販売を引き継ぎ、現在は終売している。
+2.  希に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[木曜劇場](../Page/木曜劇場.md "wikilink")」の筆頭スポンサーである「[AGF](../Page/味の素AGF.md "wikilink")」名義でもCMを流したこともある。経営統合前は豊年・吉原・日華もCMをしていたことがあった。豊年もテレビCMが主体、吉原はどちらかというとラジオCMがメインだった。

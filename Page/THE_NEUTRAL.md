@@ -1,11 +1,11 @@
 > この記事は[THE NEUTRAL](https://ja.wikipedia.org/wiki/THE_NEUTRAL)から翻訳されています。
 
 
-**THE NEUTRAL**（ザ・ニュートラル）は、[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月結成。
+**THE NEUTRAL**（ザ・ニュートラル）は、[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月結成。
 
 [2000年](../Page/2000年.md "wikilink")3月ホームラン代谷加入により、現メンバーに。
 
-[インディーズ](../Page/インディーズ.md "wikilink")から2枚のアルバムを発表し、2002年、姫路在住ラストワンマン[ライブを地元](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")にて行う。終演後、[ファン](../Page/ファン.md "wikilink")に見送られながら、メンバーは[機材車](https://ja.wikipedia.org/wiki/機材車 "wikilink")で上京。[2003年](../Page/2003年.md "wikilink")1月、「チャンスはそこだ\!\!」で[Dreamusicよりメジャーデビュー](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")。 2007年2月までに、販売元を転々としながらもメジャーより4枚のCDを発売。2012年現在は自主レーベルより音源・ライブDVDをリリースしている。2009年2月3日[誰も知らない泣ける歌](https://ja.wikipedia.org/wiki/誰も知らない泣ける歌 "wikilink")に出演。2010年10月から[FM横浜でラジオのレギュラー](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「Yokohama Fanfare」が始まる。2013年10月23日デビュー10周年を記念してBEST ALBUM「THE NEUTRAL BEST」を発売。
+[インディーズ](../Page/インディーズ.md "wikilink")から2枚のアルバムを発表し、2002年、姫路在住ラストワンマン[ライブを地元](../Page/演奏会.md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")にて行う。終演後、[ファン](../Page/ファン.md "wikilink")に見送られながら、メンバーは[機材車](https://ja.wikipedia.org/wiki/機材車 "wikilink")で上京。[2003年](../Page/2003年.md "wikilink")1月、「チャンスはそこだ\!\!」で[Dreamusicよりメジャーデビュー](../Page/ドリーミュージック.md "wikilink")。 2007年2月までに、販売元を転々としながらもメジャーより4枚のCDを発売。2012年現在は自主レーベルより音源・ライブDVDをリリースしている。2009年2月3日[誰も知らない泣ける歌](https://ja.wikipedia.org/wiki/誰も知らない泣ける歌 "wikilink")に出演。2010年10月から[FM横浜でラジオのレギュラー](../Page/横浜エフエム放送.md "wikilink")「Yokohama Fanfare」が始まる。2013年10月23日デビュー10周年を記念してBEST ALBUM「THE NEUTRAL BEST」を発売。
 
 BEST ALBUM「THE NEUTRAL BEST」に収録されている「かぞくのじかん」が有線CANシステムで問合せランキング2013年10月度、11月度が3位、12月度が4位、2014年1月度では2位にランクインする。
 
@@ -42,7 +42,7 @@ BEST ALBUM「THE NEUTRAL BEST」に収録されている「かぞくのじかん
 
 **ビートダイスケ**（[ドラム](../Page/ドラムセット.md "wikilink")、1976年12月9日）
 
-  - 2011年、元アトランタオリンピック女子バスケット代表の[原田裕花](https://ja.wikipedia.org/wiki/原田裕花 "wikilink")と結婚。
+  - 2011年、元アトランタオリンピック女子バスケット代表の[原田裕花](../Page/原田裕花.md "wikilink")と結婚。
 
 ## 略歴
 
@@ -51,7 +51,7 @@ BEST ALBUM「THE NEUTRAL BEST」に収録されている「かぞくのじかん
   - 2000年8月にインディーズ1stアルバム『チリリンGo！』を発売。アルバム収録曲「愛してるんじゃない」はKiss-FMの番組エンディングテーマに起用された。
   - 2001年8月インディーズ2ndアルバム『ホームラン』を発売。
   - 2003年1月『チャンスはそこだ！！』でDreamusicよりメジャーデビュー。
-  - 2003年5月『パンとピストル』発売。表題曲「パンとピストル」はTBS[U-CDTV](https://ja.wikipedia.org/wiki/U-CDTV "wikilink")エンディングテーマに起用。有線CANシステムで問合せランキング4ヶ月連続2位になる。また、収録曲「日曜日の太陽」がアニメ[なるたる](https://ja.wikipedia.org/wiki/なるたる "wikilink")のオープニングテーマに。
+  - 2003年5月『パンとピストル』発売。表題曲「パンとピストル」はTBS[U-CDTV](https://ja.wikipedia.org/wiki/U-CDTV "wikilink")エンディングテーマに起用。有線CANシステムで問合せランキング4ヶ月連続2位になる。また、収録曲「日曜日の太陽」がアニメ[なるたる](../Page/なるたる.md "wikilink")のオープニングテーマに。
   - 2004年7月『君に届け』発売。
   - 2005年11月『フレーフレーフレー！』発売。
   - 2006年12月『輝け！オレの30代』発売。
@@ -189,7 +189,7 @@ BEST ALBUM「THE NEUTRAL BEST」に収録されている「かぞくのじかん
 <td><p>MUCD-1076</p></td>
 <td><ol>
 <li>パンとピストル (TBS系TV「UNDER CDTV」6・7月エンディングテーマ)</li>
-<li>日曜日の太陽(TVアニメシリーズ「<a href="https://ja.wikipedia.org/wiki/なるたる" title="wikilink">なるたる</a>」オープニングテーマ)</li>
+<li>日曜日の太陽(TVアニメシリーズ「<a href="../Page/なるたる.md" title="wikilink">なるたる</a>」オープニングテーマ)</li>
 <li>ブルルンGO!（'03ver）(全国「KEIRIN」2003　CMイメージソング)</li>
 <li>傘のない君</li>
 <li>時々僕が思うこと</li>
@@ -505,7 +505,7 @@ BEST ALBUM「THE NEUTRAL BEST」に収録されている「かぞくのじかん
   - 2014年10月13日 - Happy Song Night\!\!～このメンバーでスペシャルバンドを昼と夜で組みます\!昼に演奏した曲は夜には演奏しません\!\!
   - 2014年11月03日 - サクラガ・ファミリア～秋の大収穫祭～
   - 2015年05月24日 - GRAND ROCK
-  - 2015年06月07日 - [唄人羽](https://ja.wikipedia.org/wiki/唄人羽 "wikilink")\&THE NEUTRALツーマンライブ
+  - 2015年06月07日 - [唄人羽](../Page/唄人羽.md "wikilink")\&THE NEUTRALツーマンライブ
   - 2015年06月21日 - これがROCKだ\!\!～浴衣祭り編～
   - 2015年10月17日〜12月26日 - 唄人羽 & THE NEUTRAL 2マンLIVE「明日はどっちだ」
   - 2015年10月31日 - 高円寺周遊型フェス「BOYS ON DREAM～一生青春\!\!～」略してボイドリ。Vol.2

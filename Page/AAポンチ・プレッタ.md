@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1900年](../Page/1900年.md "wikilink")、の学生によって設立された。ブラジルでも最も長い歴史を誇るクラブの一つだが、現在に至るまで主要タイトルを獲得したことはない。 ライバルは同じカンピーナスの[グアラニFC](https://ja.wikipedia.org/wiki/グアラニFC "wikilink")。
+[1900年](../Page/1900年.md "wikilink")、の学生によって設立された。ブラジルでも最も長い歴史を誇るクラブの一つだが、現在に至るまで主要タイトルを獲得したことはない。 ライバルは同じカンピーナスの[グアラニFC](../Page/グアラニFC.md "wikilink")。
 
 愛称のマカカは雌[猿](https://ja.wikipedia.org/wiki/猿 "wikilink")の事で、クラブのマスコットにもなっている。
 
@@ -50,7 +50,7 @@
 
 ## 歴代所属選手
 
-  - [オスカル・ベルナルディ](https://ja.wikipedia.org/wiki/ジョゼ・オスカー・ベルナルディ "wikilink")
+  - [オスカル・ベルナルディ](../Page/ジョゼ・オスカー・ベルナルディ.md "wikilink")
 
   - [アンドレ・クルス](https://ja.wikipedia.org/wiki/アンドレ・クルス "wikilink")
 

@@ -5,11 +5,11 @@
 
 ## 収録曲
 
-全作詞：[吉田美和](https://ja.wikipedia.org/wiki/吉田美和 "wikilink"), Mike Pela / 作曲・編曲：[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")
+全作詞：[吉田美和](../Page/吉田美和.md "wikilink"), Mike Pela / 作曲・編曲：[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")
 
 1.  **WHEREVER YOU ARE** \[4:20\]
       - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[長男の嫁](../Page/長男の嫁.md "wikilink")』主題歌、映画『[7月7日、晴れ](https://ja.wikipedia.org/wiki/7月7日、晴れ "wikilink")』挿入歌。
-      - バックヴォーカルに[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")の[モーリス・ホワイト](https://ja.wikipedia.org/wiki/モーリス・ホワイト "wikilink")が参加。
+      - バックヴォーカルに[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")の[モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")が参加。
       - 後に7枚目のアルバム『[DELICIOUS](../Page/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』に「いつもいつでも〜WHEREVER YOU ARE “DELICIOUS”VERSION〜」として日本語版で収録。
 2.  **SAYONARA〜WORLDWIDE VERSION** \[5:15\]
       - 5枚目のアルバム『[The Swinging Star](../Page/The_Swinging_Star.md "wikilink")』の「SAYONARA」の英語版。

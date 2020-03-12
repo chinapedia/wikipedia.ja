@@ -5,14 +5,14 @@
 
 VSAMは当初からトランザクショナルファイルとしてメインフレームのデフォルトの Resource Manager（RM）を構成していた。IBMメインフレームでは Transaction Manager（TM）さえ付加すれば VSAM でトランザクション処理が可能だった。そのためにz/OSは非常に高価なライセンス料だった。IBMは[2002年](../Page/2002年.md "wikilink")にz/OSの低価格版z/OS.eをリリースするに当たって、わざわざUNIX系OSと同じように、TMとしてCICS、IMSを　RMとして直接にVSAMを利用できない仕様を作った。
 
-VSAM は、次の[アクセス](https://ja.wikipedia.org/wiki/アクセス "wikilink")方式を含む：
+VSAM は、次の[アクセス](../Page/アクセス.md "wikilink")方式を含む：
 
   - キー・シーケンス・[データセット](../Page/データセット_\(IBMメインフレーム\).md "wikilink") ( [Key Sequenced Data Set](https://ja.wikipedia.org/wiki/w:Key_Sequenced_Data_Set "wikilink"), KSDS )
   - 相対レコードデータセット ( [Relative Record Data Set](https://ja.wikipedia.org/wiki/w:Relative_Record_Data_Set "wikilink"), RRDS )
   - エントリー・シーケンス・データセット ( [Entry Sequenced Data Set](https://ja.wikipedia.org/wiki/w:Entry_Sequenced_Data_Set "wikilink"), ESDS )
   - 線形データセット ( [Linear Data Set](https://ja.wikipedia.org/wiki/w:Linear_Data_Set "wikilink"), LDS ) 。
 
-VSAM のレコードには、固定長も可変長も含むことができる。レコードは、コントロール・インターバル ( CI ) と呼ばれる固定長のブロックに編成され、コントロール・インターバルはコントロール・エリア ( CA ) と呼ぶより大きな区切りに格納される。コントロール・インターバル ( CI ) のサイズは、たとえば 4K, 4096 などと[バイトで測られ](../Page/バイト_\(情報\).md "wikilink")、コントロール・エリア ( CA ) のサイズはトラック数やシリンダー数といった[ディスク](https://ja.wikipedia.org/wiki/磁気ディスク "wikilink") ( DASD ) の容量の単位で測られる。
+VSAM のレコードには、固定長も可変長も含むことができる。レコードは、コントロール・インターバル ( CI ) と呼ばれる固定長のブロックに編成され、コントロール・インターバルはコントロール・エリア ( CA ) と呼ぶより大きな区切りに格納される。コントロール・インターバル ( CI ) のサイズは、たとえば 4K, 4096 などと[バイトで測られ](../Page/バイト_\(情報\).md "wikilink")、コントロール・エリア ( CA ) のサイズはトラック数やシリンダー数といった[ディスク](../Page/磁気ディスク.md "wikilink") ( DASD ) の容量の単位で測られる。
 
 VSAM [データセットの](../Page/データセット_\(IBMメインフレーム\).md "wikilink") 削除と定義 ( delete and define, DELDEF ) には、IDCAMS という[プログラムが使われる](../Page/プログラム_\(コンピュータ\).md "wikilink")（[IBM メインフレーム ユーティリティプログラム参照](../Page/IBM_メインフレーム_ユーティリティプログラム.md "wikilink")）。（ユーザが作成した）[アプリケーションプログラムからのアクセスは](../Page/アプリケーションソフトウェア.md "wikilink")、[JCL](../Page/Job_Control_Language.md "wikilink") の DD文に指定するか、あるいは [CICS](../Page/CICS.md "wikilink") ( Customer Information Control Systems ) のオンライン・リージョンなどを通して行う。
 

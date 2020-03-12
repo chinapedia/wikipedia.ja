@@ -1,16 +1,16 @@
 > この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
 
 
-『**エンジェルLOVE**』（エンジェルラブ）は2003年10月3日(金)から2005年3月25日(金)まで全76回放送された[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")をフィーチャーしたラジオ番組である。『ギャラクシーエンジェル』内のアニメソングで同一の名称の歌がある。2004年途中から最終回の2005年3月25日までは[BEAT☆Net Radio\!](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio! "wikilink")（[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")）でも番組配信が行われた。当番組終了と同時に、BRO Radio枠は終了した。
+『**エンジェルLOVE**』（エンジェルラブ）は2003年10月3日(金)から2005年3月25日(金)まで全76回放送された[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")をフィーチャーしたラジオ番組である。『ギャラクシーエンジェル』内のアニメソングで同一の名称の歌がある。2004年途中から最終回の2005年3月25日までは[BEAT☆Net Radio\!](../Page/BEAT☆Net_Radio!.md "wikilink")（[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")）でも番組配信が行われた。当番組終了と同時に、BRO Radio枠は終了した。
 
-[パーソナリティは蘭花](../Page/ラジオパーソナリティ.md "wikilink")・フランボワーズ役の[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")とミルフィーユ・桜葉役の[新谷良子](../Page/新谷良子.md "wikilink")と烏丸ちとせ役の[後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")。
+[パーソナリティは蘭花](../Page/ラジオパーソナリティ.md "wikilink")・フランボワーズ役の[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")とミルフィーユ・桜葉役の[新谷良子](../Page/新谷良子.md "wikilink")と烏丸ちとせ役の[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")。
 
 ## 放送時間
 
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink") 金曜・24:30〜25:00
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink") 金曜・24:30〜25:00
   - [文化放送](../Page/文化放送.md "wikilink") 金曜・26:30〜27:00
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink") 土曜・25:30〜26:00
-  - [BEAT☆Net Radio\!](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio! "wikilink")（インターネットラジオ） 毎週金曜日更新
+  - [BEAT☆Net Radio\!](../Page/BEAT☆Net_Radio!.md "wikilink")（インターネットラジオ） 毎週金曜日更新
 
 ※第11回と第37回は30分開始が早い1時間スペシャル。代わりに1週休み。
 
@@ -20,7 +20,7 @@
   - 番組開始当初は田村と新谷がメインパーソナリティで、後藤はちとせの一分間トーキングというコーナーのみの担当であったが、途中から正式にメインパーソナリティに追加された。彼女がメインになる前でも何回かゲストのような形で3人で放送する回があった。
   - 「[G.A.だにょ](../Page/G.A.だにょ.md "wikilink")」の後番組であり、"**にょ Broccoli Gamers Radio**"という[ブロッコリー協賛の一時間のラジオの後半](../Page/ブロッコリー_\(企業\).md "wikilink")30分として放送された。前半30分は『[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")』をフィーチャーした「[にょにょらじ](https://ja.wikipedia.org/wiki/にょにょらじ "wikilink")」と「[でじこのうっかりパニック\!](https://ja.wikipedia.org/wiki/でじこのうっかりパニック! "wikilink")」。Broccoli Gamers Radio内部の番組では約1年半近く続いた番組であり健闘していると言える。
   - 第11回と第37回は1時間スペシャルが放送された。代わりに「にょにょらじ」（第11回前週）、「でじこのうっかりパニック\!」（第37回後週）が1時間スペシャルの週はお休み。
-  - "にょ Broccoli Gamers Radio"は2004年10月2日より"BRO Radio"（ビーアールオーラジオ）に改名され、同枠の後半30分として放送された。前半30分は[熱風海陸ブシロード](https://ja.wikipedia.org/wiki/熱風海陸ブシロード "wikilink")をフィーチャーした「[大河ラジオだ ブシロード](https://ja.wikipedia.org/wiki/大河ラジオだ_ブシロード "wikilink")」である。
+  - "にょ Broccoli Gamers Radio"は2004年10月2日より"BRO Radio"（ビーアールオーラジオ）に改名され、同枠の後半30分として放送された。前半30分は[熱風海陸ブシロード](../Page/熱風海陸ブシロード.md "wikilink")をフィーチャーした「[大河ラジオだ ブシロード](../Page/大河ラジオだ_ブシロード.md "wikilink")」である。
   - 2005年1月頃に後藤が激しい運動が出来ない程の入院を要する病気をして体調を崩したが、当番組には通常通り出演した。
 
 ## コーナー
@@ -75,13 +75,13 @@
 
 ## ゲスト
 
-  - ＃09：[ゆうまお](https://ja.wikipedia.org/wiki/ゆうまお "wikilink")
-  - ＃11：[沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")
+  - ＃09：[ゆうまお](../Page/ゆうまお.md "wikilink")
+  - ＃11：[沢城みゆき](../Page/沢城みゆき.md "wikilink")
   - ＃19：[かなん](https://ja.wikipedia.org/wiki/かなん "wikilink")
   - ＃25：[山口眞弓](../Page/山口眞弓.md "wikilink")
   - ＃29(04)：沢城みゆき
   - ＃30(05)：山口眞弓
-  - ＃36(11)：[佐藤裕美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")
+  - ＃36(11)：[佐藤裕美](../Page/佐藤ひろ美.md "wikilink")
   - ＃37(12)：山口眞弓、[三瓶由布子](https://ja.wikipedia.org/wiki/三瓶由布子 "wikilink")
   - ＃69(44)：佐藤裕美
 

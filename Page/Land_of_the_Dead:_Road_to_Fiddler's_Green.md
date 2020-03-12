@@ -1,7 +1,7 @@
 > この記事は[Land of the Dead: Road to Fiddler\'s Green](https://ja.wikipedia.org/wiki/Land_of_the_Dead:_Road_to_Fiddler\'s_Green)から翻訳されています。
 
 
-『**Land of the Dead: Road to Fiddler's Green**』（ランド・オブ・ザ・デッド ロード・トゥ・フィドラーズ・グリーン）は、次々に襲いかかってくる[ゾンビ](../Page/ゾンビ.md "wikilink")を撃ち倒していく[ホラー系](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。英語版は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[Groove Gamesより発売された](https://ja.wikipedia.org/wiki/Groove_Games "wikilink")。Xbox版とPC版が存在する。題名からわかるように映画『[ランド・オブ・ザ・デッド](https://ja.wikipedia.org/wiki/ランド・オブ・ザ・デッド "wikilink")』を背景にしている。
+『**Land of the Dead: Road to Fiddler's Green**』（ランド・オブ・ザ・デッド ロード・トゥ・フィドラーズ・グリーン）は、次々に襲いかかってくる[ゾンビ](../Page/ゾンビ.md "wikilink")を撃ち倒していく[ホラー系](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。英語版は[2005年](../Page/2005年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[Groove Gamesより発売された](https://ja.wikipedia.org/wiki/Groove_Games "wikilink")。Xbox版とPC版が存在する。題名からわかるように映画『[ランド・オブ・ザ・デッド](../Page/ランド・オブ・ザ・デッド.md "wikilink")』を背景にしている。
 
 ## ストーリー
 

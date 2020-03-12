@@ -14,22 +14,22 @@
   - [ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
   - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
   - [角川書店](../Page/角川書店.md "wikilink")
-  - [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")
+  - [メディアワークス](../Page/メディアワークス.md "wikilink")
 
 ## 放送時間
 
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink") 金曜 24:30 - 25:00
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink") 金曜 24:30 - 25:00
   - [北海道放送](../Page/北海道放送.md "wikilink") 土曜 25:30 - 26:00
   - [文化放送](../Page/文化放送.md "wikilink") 金曜 26:30 - 27:00
   - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") 日曜 24:30 - 25:00（一部雑誌や番組公式HPでは24:35からとなっているが、実際は5分早く放送していた）
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink") 土曜 25:00 - 25:30
-  - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink") 木曜 25:00 - 25:30
+  - [RKB毎日放送](../Page/RKBラジオ.md "wikilink") 木曜 25:00 - 25:30
 
 ## 概要
 
   - 14回目以降はG.A.だにょZと改名されたが、本項では同一番組として扱う。
-  - ギャラクシーエンジェルと[ぴたテン](../Page/ぴたテン.md "wikilink")をフィーチャーした番組である[ぴたぴたエンジェル♪A](../Page/ぴたぴたエンジェル♪A.md "wikilink")および[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")をフィーチャーした番組である[でじこさん](https://ja.wikipedia.org/wiki/でじこさん "wikilink")の後番組であり、番組改編期でギャラクシーエンジェル（第三期）のアニメ放送が終わりデ・ジ・キャラットにょが始まるタイミングで放送が開始された。
-  - 番組終了後、にょ Broccoli Gamers Radioという[ブロッコリー協賛の一時間のラジオの前半](../Page/ブロッコリー_\(企業\).md "wikilink")30分である[にょにょらじ](https://ja.wikipedia.org/wiki/にょにょらじ "wikilink")と後半30分である[エンジェルLOVE](https://ja.wikipedia.org/wiki/エンジェルLOVE "wikilink")にタイトル変更された。
+  - ギャラクシーエンジェルと[ぴたテン](../Page/ぴたテン.md "wikilink")をフィーチャーした番組である[ぴたぴたエンジェル♪A](../Page/ぴたぴたエンジェル♪A.md "wikilink")および[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")をフィーチャーした番組である[でじこさん](../Page/でじこさん.md "wikilink")の後番組であり、番組改編期でギャラクシーエンジェル（第三期）のアニメ放送が終わりデ・ジ・キャラットにょが始まるタイミングで放送が開始された。
+  - 番組終了後、にょ Broccoli Gamers Radioという[ブロッコリー協賛の一時間のラジオの前半](../Page/ブロッコリー_\(企業\).md "wikilink")30分である[にょにょらじ](https://ja.wikipedia.org/wiki/にょにょらじ "wikilink")と後半30分である[エンジェルLOVE](../Page/エンジェルLOVE.md "wikilink")にタイトル変更された。
   - 第11回は[Broccoli GAMERS Radio枠を利用して](https://ja.wikipedia.org/wiki/Broccoli_GAMERS_Radio "wikilink")1時間スペシャルが放送された。代わりにBroccoli GAMERS Radioが1時間スペシャルの週はお休み。Broccoli GAMERS Radioが放送されていない局では2週とも普段通り30分（別収録の特別企画）の放送。
 
 ## コーナー
@@ -156,7 +156,7 @@
 ## ゲスト
 
   - ＃02：[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")
-  - ＃03：[沢城みゆき](https://ja.wikipedia.org/wiki/沢城みゆき "wikilink")
+  - ＃03：[沢城みゆき](../Page/沢城みゆき.md "wikilink")
   - ＃07：[南央美](../Page/南央美.md "wikilink")
   - ＃11：氷上恭子、沢城みゆき
   - ＃18：氷上恭子

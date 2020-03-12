@@ -1,15 +1,15 @@
 > この記事は[Darker than darkness -style 93-](https://ja.wikipedia.org/wiki/Darker_than_darkness_-style_93-)から翻訳されています。
 
 
-『**darker than darkness -style 93-**』（ダーカー・ザン・ダークネス スタイル－）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の7枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")\[1\]。[1993年](../Page/1993年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
+『**darker than darkness -style 93-**』（ダーカー・ザン・ダークネス スタイル－）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の7枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。[1993年](../Page/1993年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
 
-[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")にデジタル・リマスター盤として再発売。初回限定盤のみ[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")が2曲収録されている。
+[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")にデジタル・リマスター盤として再発売。初回限定盤のみ[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")が2曲収録されている。
 
 [2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")には紙[ジャケット盤が発売された](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。
 
 ## 解説
 
-  - 前作に増してノイズ音が顕著になり、[ギター](../Page/ギター.md "wikilink")サウンドもヘビーなものになっている。[アルバム](../Page/アルバム.md "wikilink")タイトルは「暗闇の向こう側」という意味合いを込めて、[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")が命名。
+  - 前作に増してノイズ音が顕著になり、[ギター](../Page/ギター.md "wikilink")サウンドもヘビーなものになっている。[アルバム](../Page/アルバム.md "wikilink")タイトルは「暗闇の向こう側」という意味合いを込めて、[今井寿](../Page/今井寿.md "wikilink")が命名。
   - このアルバムには仕掛けがあり、パッケージその他には10曲目までしか曲目は記載されていないが、実際は93トラック入っている。75トラック目と84トラック目にノイズが収録されており、最終トラックである93トラック目には「D・T・D」が収録されている。「D・T・D」の歌詞はシングル「die」、ベストアルバム『[BT](https://ja.wikipedia.org/wiki/BT_\(BEST_TRACKS\) "wikilink")』に記載されている。また、[2002年](../Page/2002年.md "wikilink")にリリースされたデジタル・リマスター盤の初回盤では、ボーナストラックが収録されている関係上、11曲目に「D・T・D」が収録されており、この仕掛けは再現されていない。
 
 ## リリース履歴
@@ -21,7 +21,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -64,7 +64,7 @@ VICL-60968（通常盤）</p></td>
 全編曲：BUCK-TICK
 
 1.  **キラメキの中で...** \[4:41\]
-      - 作詞：[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")、作曲：[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")
+      - 作詞：[櫻井敦司](../Page/櫻井敦司.md "wikilink")、作曲：[今井寿](../Page/今井寿.md "wikilink")
     <!-- end list -->
       -
         「[メタル](https://ja.wikipedia.org/wiki/メタル "wikilink")[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")」をテーマに作られたBUCK-TICK初のレゲエソング。
@@ -72,10 +72,10 @@ VICL-60968（通常盤）</p></td>
 2.  **Deep Slow** \[4:32\]
       - 作詞：櫻井敦司、作曲：今井寿
 3.  **誘惑** \[5:58\]
-      - 作詞：櫻井敦司、作曲：[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")
+      - 作詞：櫻井敦司、作曲：[星野英彦](../Page/星野英彦.md "wikilink")
     <!-- end list -->
       -
-        星野が、前年から習い始めた[キーボードを使用して制作した楽曲](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。イントロのノイズは、スタジオにあったレコードに傷をつけて録ったもので、[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")音は今井による[ギターシンセサイザー](https://ja.wikipedia.org/wiki/ギターシンセサイザー "wikilink")。
+        星野が、前年から習い始めた[キーボードを使用して制作した楽曲](../Page/キーボード_\(楽器\).md "wikilink")。イントロのノイズは、スタジオにあったレコードに傷をつけて録ったもので、[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")音は今井による[ギターシンセサイザー](../Page/ギターシンセサイザー.md "wikilink")。
         当初は「[マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")」という仮タイトルだった。
 4.  **青の世界** \[4:57\]
       - 作詞：櫻井敦司、作曲：今井寿
@@ -138,8 +138,8 @@ VICL-60968（通常盤）</p></td>
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")
   - 星野英彦 - ギター、[ピアノ](../Page/ピアノ.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
-  - [樋口豊](https://ja.wikipedia.org/wiki/樋口豊_\(ミュージシャン\) "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [ヤガミトール](https://ja.wikipedia.org/wiki/ヤガミトール "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
 
 ### サポートミュージシャン
 

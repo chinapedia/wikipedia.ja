@@ -21,7 +21,7 @@
   - [浅井満里子](https://ja.wikipedia.org/wiki/浅井満里子 "wikilink")
   - 加藤万里子（[平井万里子](https://ja.wikipedia.org/wiki/平井万里子 "wikilink")）
   - [近藤良恵](https://ja.wikipedia.org/wiki/近藤良恵 "wikilink")
-  - [世良洋子](https://ja.wikipedia.org/wiki/世良洋子 "wikilink")
+  - [世良洋子](../Page/世良洋子.md "wikilink")
   - [俵三恵](https://ja.wikipedia.org/wiki/俵三恵 "wikilink")
   - [楢崎仁美](https://ja.wikipedia.org/wiki/楢崎仁美 "wikilink")
   - [藤本修子](https://ja.wikipedia.org/wiki/藤本修子 "wikilink")
@@ -40,7 +40,7 @@
 
 （男性）
 
-  - [小林康秀](https://ja.wikipedia.org/wiki/小林康秀 "wikilink")（2009年3月30日 - 2019年12月27日）
+  - [小林康秀](../Page/小林康秀.md "wikilink")（2009年3月30日 - 2019年12月27日）
 
 （女性）
 
@@ -73,8 +73,8 @@
 <tr class="odd">
 <td><p>2009.4</p></td>
 <td><p>2010.6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林康秀" title="wikilink">小林康秀</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤文" title="wikilink">伊藤文</a></p></td>
+<td><p><a href="../Page/小林康秀.md" title="wikilink">小林康秀</a></p></td>
+<td><p><a href="../Page/伊藤文.md" title="wikilink">伊藤文</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010.6</p></td>
@@ -141,7 +141,7 @@
 <!-- end list -->
 
   -
-    開始当初はこれとは別で17:50-18:00に[中国新聞ニュース](../Page/中国新聞ニュース.md "wikilink")（[中国新聞社](https://ja.wikipedia.org/wiki/中国新聞社 "wikilink")製作）も前座として放送された。
+    開始当初はこれとは別で17:50-18:00に[中国新聞ニュース](../Page/中国新聞ニュース.md "wikilink")（[中国新聞社](../Page/中国新聞社.md "wikilink")製作）も前座として放送された。
 
 ### 第2期
 
@@ -156,7 +156,7 @@
 ## 関連項目
 
   - [JNN発 列島ニュース](https://ja.wikipedia.org/wiki/JNN発_列島ニュース "wikilink") - [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")で放送される番組で、ニュースパートの一部が放送される。
-  - [ATVニュースワイド](https://ja.wikipedia.org/wiki/ATVニュースワイド "wikilink") - 同系列の[青森テレビ](../Page/青森テレビ.md "wikilink")で放送された夕方ニュース番組で、開始日が(第1期の)本番組と同じ1976年3月29日。なお、｢ATVニュースワイド｣は[2015年](../Page/2015年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")をもって、**連続39年**にわたる放送が終了した。
+  - [ATVニュースワイド](../Page/ATVニュースワイド.md "wikilink") - 同系列の[青森テレビ](../Page/青森テレビ.md "wikilink")で放送された夕方ニュース番組で、開始日が(第1期の)本番組と同じ1976年3月29日。なお、｢ATVニュースワイド｣は[2015年](../Page/2015年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")をもって、**連続39年**にわたる放送が終了した。
 
 ## 外部リンク
 

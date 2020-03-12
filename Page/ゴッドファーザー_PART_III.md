@@ -1,29 +1,29 @@
 > この記事は[ PART III](https://ja.wikipedia.org/wiki/_PART_III)から翻訳されています。
 
 
-『**ゴッドファーザー PART III**』（ゴッドファーザー パート スリー、原題: *The Godfather Part III*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に公開された[アメリカ合衆国の映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。監督は[フランシス・フォード・コッポラ](https://ja.wikipedia.org/wiki/フランシス・フォード・コッポラ "wikilink")。前作より16年を経て製作された。
+『**ゴッドファーザー PART III**』（ゴッドファーザー パート スリー、原題: *The Godfather Part III*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に公開された[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。監督は[フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")。前作より16年を経て製作された。
 
 ## 概要
 
 [マフィア](../Page/マフィア.md "wikilink")のボスとして絶大な権力を握ったマイケルの最晩年の物語である。本作品でのマイケルには『Part I』や『Part II』の時のような冷酷さや非情さが消え、物語は彼の懺悔と苦悩、弱さを中心に描かれている。
 
-[1970年代](../Page/1970年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")に明らかになった[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")における金融スキャンダルと、それに関連して起きたと噂されている[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[ヨハネ・パウロ1世の](https://ja.wikipedia.org/wiki/ヨハネ・パウロ1世_\(ローマ教皇\) "wikilink")「急死」や、[1982年](../Page/1982年.md "wikilink")に発生し世界を揺るがす大スキャンダルとなった[ロベルト・カルヴィ](https://ja.wikipedia.org/wiki/ロベルト・カルヴィ "wikilink")[暗殺](../Page/暗殺.md "wikilink")事件といった実在の事件がほぼそのままに近い形で作品に織り込まれている。
+[1970年代](../Page/1970年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")に明らかになった[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")における金融スキャンダルと、それに関連して起きたと噂されている[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[ヨハネ・パウロ1世の](../Page/ヨハネ・パウロ1世_\(ローマ教皇\).md "wikilink")「急死」や、[1982年](../Page/1982年.md "wikilink")に発生し世界を揺るがす大スキャンダルとなった[ロベルト・カルヴィ](../Page/ロベルト・カルヴィ.md "wikilink")[暗殺](../Page/暗殺.md "wikilink")事件といった実在の事件がほぼそのままに近い形で作品に織り込まれている。
 
 当初のタイトルが『マイケル・コルレオーネの死』と予定されていたように（パラマウント側が却下）、本作は三部作（[トリロジー](https://ja.wikipedia.org/wiki/トリロジー "wikilink")）の最終作ではなく、前二部作に対する[後日談](https://ja.wikipedia.org/wiki/後日談 "wikilink")として位置づけられている。
 
 ## あらすじ
 
-[1979年](../Page/1979年.md "wikilink")のニューヨーク、ファミリーのドンとなったマイケル・コルレオーネは、父の名を取った「ヴィトー・コルレオーネ財団」の名の下、「[シシリー復興のための資金](https://ja.wikipedia.org/wiki/シチリア "wikilink")」との名目で行った多額の寄付が功を奏して[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")より[叙勲](https://ja.wikipedia.org/wiki/叙勲 "wikilink")され、同時にバチカン内の資金運営を掌るアメリカ人のギルディ大司教との関係を得る。そして、それをきっかけとして長年にわたって非合法ビジネスに関与してきた一族の活動から引退を決意するとともに、合法ビジネスへの全面的な転換を画策していた。
+[1979年](../Page/1979年.md "wikilink")のニューヨーク、ファミリーのドンとなったマイケル・コルレオーネは、父の名を取った「ヴィトー・コルレオーネ財団」の名の下、「[シシリー復興のための資金](https://ja.wikipedia.org/wiki/シチリア "wikilink")」との名目で行った多額の寄付が功を奏して[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")より[叙勲](../Page/叙勲.md "wikilink")され、同時にバチカン内の資金運営を掌るアメリカ人のギルディ大司教との関係を得る。そして、それをきっかけとして長年にわたって非合法ビジネスに関与してきた一族の活動から引退を決意するとともに、合法ビジネスへの全面的な転換を画策していた。
 
 その後、寄付の窓口的役割を果たしたギルディ大司教と、その関係者による横領で発生した莫大な損失金の穴埋めと引き換えに、バチカンと関係の深い、ヨーロッパを中心に活動する投資会社「インターナショナル・インモビリアーレ」の株の25%の取得、そして同社の経営権の奪取への後援を得ることで、合法ビジネスへの路線変更を試みる。だが、マイケルの後継者はマイケルの息子のアンソニーではなかった。アンソニーは、「優しい伯父」であったフレドの粛清がトラウマとなり、一貫してファミリーとそのビジネスを嫌悪し、大学を中退してオペラ歌手の道を進もうとしていたのだ。
 
 その上、マイケルは甥っ子にあたる長兄ソニーの私生児ヴィンセントと、マイケルのファミリーの違法ビジネスの大部分を引き継いだが、旧来のファミリーからは低い評価しか受けていない新興ボスのジョーイ・ザザの対立を和らげようとするものの、ヴィンセントの後見役となったマイケルと、ジョーイ・ザザの確執は悪化し、[アトランティック・シティ](https://ja.wikipedia.org/wiki/アトランティック・シティ "wikilink")のカジノホテル「パラッツォ・アズーリ」のペントハウスで行われた友好ファミリーの幹部会の最中に、ジョーイ・ザザの手下がヘリコプターを使い襲撃する。マイケルはヴィンセントの助けで難を逃れたものの、この襲撃により多くの友好ファミリーの幹部が暗殺されてしまう。この襲撃は、ジョーイ・ザザが単独で行ったわけではなく、自らも深い利権関係を持つバチカンとの関係を深めていたマイケルの追い落としを狙ったドン・アルトベッロの指示で行われたものだった。
 
-またこの頃、アルトベッロの友人でイタリア政界の大物、かつ「インターナショナル・インモビリアーレ」の経営陣の一人で、ギルディ大司教をはじめとするバチカン内にも強い影響力を持つドン・ルケージによって、マイケルの「インターナショナル・インモビリアーレ」の経営権の奪取は激しい妨害を受けた上、マイケルが投資した資金がギルディ大司教が資金運用を委託していた[アンブロシアーノ銀行](https://ja.wikipedia.org/wiki/アンブロシアーノ銀行 "wikilink")頭取のフレデリック・カインジックに横領されてしまう。さらにマイケルには、[糖尿病](../Page/糖尿病.md "wikilink")という病魔が忍び寄っていた。病状は進行し、時には[低血糖発作](https://ja.wikipedia.org/wiki/低血糖発作 "wikilink")により崩れ落ちてしまうという深刻な状態に陥ってしまう。
+またこの頃、アルトベッロの友人でイタリア政界の大物、かつ「インターナショナル・インモビリアーレ」の経営陣の一人で、ギルディ大司教をはじめとするバチカン内にも強い影響力を持つドン・ルケージによって、マイケルの「インターナショナル・インモビリアーレ」の経営権の奪取は激しい妨害を受けた上、マイケルが投資した資金がギルディ大司教が資金運用を委託していた[アンブロシアーノ銀行](../Page/アンブロシアーノ銀行.md "wikilink")頭取のフレデリック・カインジックに横領されてしまう。さらにマイケルには、[糖尿病](../Page/糖尿病.md "wikilink")という病魔が忍び寄っていた。病状は進行し、時には[低血糖発作](https://ja.wikipedia.org/wiki/低血糖発作 "wikilink")により崩れ落ちてしまうという深刻な状態に陥ってしまう。
 
 マイケルの妹コニーの支援を受けたヴィンセントは、マイケルの承認を受けないまま、アトランティック・シティの襲撃の報復としてジョーイ・ザザを殺害してしまう。マイケルは自分の指示を受けずに行動したヴィンセントとコニーを叱責し、ヴィンセントに勝手な行動を慎むように釘をさす。またこの頃、ヴィンセントはマイケルの娘のメアリーと恋仲になる。病状が回復したマイケルはシシリーに向かい、かつてソロッツォとマクラスキー警部を殺害した後に匿ってもらったドン・トマシーノの屋敷に滞在する。マイケルはバチカンへの工作を指示すると同時に、ヴィンセントにスパイとしてアルトベッロの元に潜入するように指示する。ヴィンセントはアルトベッロの元に近付き、一連の事態の黒幕がルケージであることを突き止める。ルケージとアルトベッロは利権を犯すマイケルを抹殺するため、殺し屋のモスカにマイケル殺害を依頼する。
 
-同じ頃、マイケルはルケージと組むギルディを追い落として「インターナショナル・インモビリアーレ」の経営権を手に入れるため、改革派のランベルト枢機卿と手を結ぶ。その際、マイケルはランベルトに[告解](../Page/告解.md "wikilink")を行い、過去に犯した罪、特に次兄フレドを粛清した罪を告白する。シシリーに戻ったマイケルは、息子アンソニーのオペラデビューを観劇するために同行していた前妻ケイを[コルレオーネ](https://ja.wikipedia.org/wiki/コルレオーネ "wikilink")に連れて行き、関係の修復を図る。二人の関係は修復したが、直後にトマシーノが殺害され、マイケルは再び苦悩に陥る。マイケルはゴッドファーザーの地位をヴィンセントに譲り引退を決意する。ヴィンセントは「メアリーから手を引く」という条件を受け入れゴッドファーザーの地位を引き継ぎ、新法王となったランベルトの改革により失脚したルケージ、アルトベッロ、ギルディの殺害を指示する。
+同じ頃、マイケルはルケージと組むギルディを追い落として「インターナショナル・インモビリアーレ」の経営権を手に入れるため、改革派のランベルト枢機卿と手を結ぶ。その際、マイケルはランベルトに[告解](../Page/告解.md "wikilink")を行い、過去に犯した罪、特に次兄フレドを粛清した罪を告白する。シシリーに戻ったマイケルは、息子アンソニーのオペラデビューを観劇するために同行していた前妻ケイを[コルレオーネ](../Page/コルレオーネ.md "wikilink")に連れて行き、関係の修復を図る。二人の関係は修復したが、直後にトマシーノが殺害され、マイケルは再び苦悩に陥る。マイケルはゴッドファーザーの地位をヴィンセントに譲り引退を決意する。ヴィンセントは「メアリーから手を引く」という条件を受け入れゴッドファーザーの地位を引き継ぎ、新法王となったランベルトの改革により失脚したルケージ、アルトベッロ、ギルディの殺害を指示する。
 
 アンソニーのオペラデビューの日、マイケル一家は総出で観劇に訪れ、マイケルに向けて殺し屋が向けられたことを知ったヴィンセントはその警備に当たる。同じ頃、ヴィンセントが送り込んだ刺客によりルケージ、アルトベッロ、ギルディの3人は殺害されるが、同時に彼らの手によってランベルトも毒殺されてしまい、また、劇場内でマイケルの警護に当たっていたヴィンセントの部下もモスカに殺されるがマイケルは難を逃れる。オペラが終わり劇場を後にしようとするマイケルの元にモスカが忍び寄り銃撃する。モスカはその場でヴィンセントに射殺されるが、モスカの撃った銃弾はマイケルに軽傷を負わせ、さらに彼の側にいたメアリーの命を奪った。娘を失ったマイケルは絶叫し、それから十数年後、シシリーで追憶の日々と孤独の中で死んでいった。
 
@@ -32,31 +32,31 @@
 ### 主な登場人物
 
   - [マイケル・“マイク”・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink")
-    演 - [アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")
+    演 - [アル・パチーノ](../Page/アル・パチーノ.md "wikilink")
     コルレオーネ家の現家長。組織を合法化させることに尽力し、1979年にパパル賞を授与される。しかし完全にマフィアから足を洗うことはできず、過去に犯した罪に強い罪悪感を抱き続けている。せめてもと、合法ビジネスへの全面的な転換を試みようとするが、裏切ったジョーイ・ザザの襲撃を予知できず、ヴィンセントに助けられたことで判断力が鈍ったことを自覚し、そこへ糖尿病で倒れて衰えを感じざるを得なくなる。父の生まれ故郷のコルレオーネ村で療養生活を過ごすうちに徐々に引退へと心が傾いていく。そして志半ばで甥のヴィンセントに後を継がせ、完全に引退を決意する。
 
 <!-- end list -->
 
   - コンスタンツァ・“コニー”・コルレオーネ・リッツィ
-    演 - [タリア・シャイア](https://ja.wikipedia.org/wiki/タリア・シャイア "wikilink")
+    演 - [タリア・シャイア](../Page/タリア・シャイア.md "wikilink")
     マイケルの妹。本作ではマイケルの辛い宿命を理解し、ファミリーの仕事にも従事している他、ヴィンセントの母親的立場を取る。長年の心労で弱ったマイケルに引退を勧める。
 
 <!-- end list -->
 
   - ケイ・アダムス・マイケルソン
-    演 - [ダイアン・キートン](https://ja.wikipedia.org/wiki/ダイアン・キートン "wikilink")
+    演 - [ダイアン・キートン](../Page/ダイアン・キートン.md "wikilink")
     前作で子供を中絶したことでマイケルと離婚。今は別の男性と再婚しているが、マイケルに対する愛情を未だ内に秘めている。
 
 <!-- end list -->
 
   - ヴィンセント・マンシーニ
-    演 - [アンディ・ガルシア](https://ja.wikipedia.org/wiki/アンディ・ガルシア "wikilink")
+    演 - [アンディ・ガルシア](../Page/アンディ・ガルシア.md "wikilink")
     マイケルの兄ソニー・コルレオーネの愛人の息子。父親譲りの喧嘩早い性格で、かねてから対立していたザザとの和解を進めるマイケルに反発していたが、マイケルの苦労や過去を知るにつれ心を開き、献身的に仕えるようになる。最終的にマイケルの後を継いで三代目の家長となり、ドン・ヴィンセント・コルレオーネと名乗る。
 
 <!-- end list -->
 
   - メアリー・コルレオーネ
-    演 - [ソフィア・コッポラ](https://ja.wikipedia.org/wiki/ソフィア・コッポラ "wikilink")
+    演 - [ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")
     マイケルの長女。マイケル率いるシシリー復興財団の表向きの代表者とされる。ヴィンセントと恋仲になりながらも、組織の抗争に翻弄される。なおソフィアは、PART 1ではコニーとカルロの息子のマイケル・フランシス・リッツィとして登場している。
 
 <!-- end list -->
@@ -76,7 +76,7 @@
 <!-- end list -->
 
   - B・J・ハリソン
-    演 - [ジョージ・ハミルトン](https://ja.wikipedia.org/wiki/ジョージ・ハミルトン "wikilink")
+    演 - [ジョージ・ハミルトン](../Page/ジョージ・ハミルトン.md "wikilink")
     トム・ヘイゲンが亡くなっているため、今作におけるマイケルの[弁護士](../Page/弁護士.md "wikilink")を務めている。常にマイケルと行動を共にし、インモビリアーレ買収で活躍する。
 
 <!-- end list -->
@@ -113,7 +113,7 @@
 
   - ジョニー・フォンテーン
     演 - [アル・マルティーノ](https://ja.wikipedia.org/wiki/アル・マルティーノ "wikilink")
-    父がかつてそのキャリアを助けた大御所歌手。マイケルの[叙勲](https://ja.wikipedia.org/wiki/叙勲 "wikilink")記念パーティーで歌を披露するなど今もファミリーと友好関係を持つ。
+    父がかつてそのキャリアを助けた大御所歌手。マイケルの[叙勲](../Page/叙勲.md "wikilink")記念パーティーで歌を披露するなど今もファミリーと友好関係を持つ。
 
 ### 対立するマフィア
 
@@ -140,7 +140,7 @@
 
   - ドン・リシオ・ルケージ
     演 - エンツォ・ロブッティ
-    インモビリアーレ社の取締役会長で、外出時には[カラビニエリ](https://ja.wikipedia.org/wiki/カラビニエリ "wikilink")の警護を受けるイタリア政財界の有力者。アルトベッロの友人でギルディ大司教を通じバチカン内部にも影響力を持つ人物。マイケルの意を受けたカロにより自宅内で暗殺される。
+    インモビリアーレ社の取締役会長で、外出時には[カラビニエリ](../Page/カラビニエリ.md "wikilink")の警護を受けるイタリア政財界の有力者。アルトベッロの友人でギルディ大司教を通じバチカン内部にも影響力を持つ人物。マイケルの意を受けたカロにより自宅内で暗殺される。
 
 <!-- end list -->
 
@@ -157,7 +157,7 @@
 <!-- end list -->
 
   - グレース・ハミルトン
-    演 - [ブリジット・フォンダ](https://ja.wikipedia.org/wiki/ブリジット・フォンダ "wikilink")
+    演 - [ブリジット・フォンダ](../Page/ブリジット・フォンダ.md "wikilink")
     ジャーナリストでヴィンセントのガールフレンドとなる。ヴィンセントを狙ったジョーイ・ザザの手先に人質にされたことがきっかけでヴィンセントと別れる。
 
 ## 日本語吹き替え
@@ -174,39 +174,39 @@
 <tbody>
 <tr class="odd">
 <td><p>ドン・マイケル・コルレオーネ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・パチーノ" title="wikilink">アル・パチーノ</a></p></td>
+<td><p><a href="../Page/アル・パチーノ.md" title="wikilink">アル・パチーノ</a></p></td>
 <td><p><a href="../Page/野沢那智.md" title="wikilink">野沢那智</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ケイ・アダムス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイアン・キートン" title="wikilink">ダイアン・キートン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木弘子" title="wikilink">鈴木弘子</a></p></td>
+<td><p><a href="../Page/ダイアン・キートン.md" title="wikilink">ダイアン・キートン</a></p></td>
+<td><p><a href="../Page/鈴木弘子.md" title="wikilink">鈴木弘子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ヴィンセント・マンシーニ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンディ・ガルシア" title="wikilink">アンディ・ガルシア</a></p></td>
+<td><p><a href="../Page/アンディ・ガルシア.md" title="wikilink">アンディ・ガルシア</a></p></td>
 <td><p><a href="../Page/関俊彦.md" title="wikilink">関俊彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江原正士" title="wikilink">江原正士</a></p></td>
+<td><p><a href="../Page/江原正士.md" title="wikilink">江原正士</a></p></td>
 </tr>
 <tr class="even">
 <td><p>コニー・コルレオーネ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タリア・シャイア" title="wikilink">タリア・シャイア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/駒塚由衣" title="wikilink">駒塚由衣</a></p></td>
+<td><p><a href="../Page/タリア・シャイア.md" title="wikilink">タリア・シャイア</a></p></td>
+<td><p><a href="../Page/駒塚由衣.md" title="wikilink">駒塚由衣</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/麻志那恂子" title="wikilink">麻志奈純子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>メアリー・コルレオーネ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソフィア・コッポラ" title="wikilink">ソフィア・コッポラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上喜久子" title="wikilink">井上喜久子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴鹿千春" title="wikilink">鈴鹿千春</a></p></td>
+<td><p><a href="../Page/ソフィア・コッポラ.md" title="wikilink">ソフィア・コッポラ</a></p></td>
+<td><p><a href="../Page/井上喜久子.md" title="wikilink">井上喜久子</a></p></td>
+<td><p><a href="../Page/鈴鹿千春.md" title="wikilink">鈴鹿千春</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アンソニー・コルレオーネ</p></td>
 <td><p>フランク・ダンブロシオ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高宮俊介" title="wikilink">高宮俊介</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本保典" title="wikilink">松本保典</a></p></td>
+<td><p><a href="../Page/高宮俊介.md" title="wikilink">高宮俊介</a></p></td>
+<td><p><a href="../Page/松本保典.md" title="wikilink">松本保典</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>アル・ネリ</p></td>
@@ -217,8 +217,8 @@
 <tr class="even">
 <td><p>アンドリュー・ヘイゲン</p></td>
 <td><p><a href="../Page/ジョン・サヴェージ.md" title="wikilink">ジョン・サヴェージ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水野龍司" title="wikilink">水野龍司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大滝進矢" title="wikilink">大滝進矢</a></p></td>
+<td><p><a href="../Page/水野龍司.md" title="wikilink">水野龍司</a></p></td>
+<td><p><a href="../Page/大滝進矢.md" title="wikilink">大滝進矢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ドン・アルトベッロ</p></td>
@@ -230,37 +230,37 @@
 <td><p>ジョーイ・ザザ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョー・マンテーニャ" title="wikilink">ジョー・マンテーニャ</a></p></td>
 <td><p><a href="../Page/大塚明夫.md" title="wikilink">大塚明夫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口節" title="wikilink">谷口節</a></p></td>
+<td><p><a href="../Page/谷口節.md" title="wikilink">谷口節</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>B・J・ハリソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・ハミルトン" title="wikilink">ジョージ・ハミルトン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡部政明" title="wikilink">岡部政明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小川真司" title="wikilink">小川真司</a></p></td>
+<td><p><a href="../Page/ジョージ・ハミルトン.md" title="wikilink">ジョージ・ハミルトン</a></p></td>
+<td><p><a href="../Page/岡部政明.md" title="wikilink">岡部政明</a></p></td>
+<td><p><a href="../Page/小川真司.md" title="wikilink">小川真司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>グレース・ハミルトン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリジット・フォンダ" title="wikilink">ブリジット・フォンダ</a></p></td>
+<td><p><a href="../Page/ブリジット・フォンダ.md" title="wikilink">ブリジット・フォンダ</a></p></td>
 <td><p><a href="../Page/深見梨加.md" title="wikilink">深見梨加</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀越真己" title="wikilink">堀越真己</a></p></td>
+<td><p><a href="../Page/堀越真己.md" title="wikilink">堀越真己</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ランベルト<a href="../Page/枢機卿.md" title="wikilink">枢機卿</a></p></td>
 <td><p><a href="../Page/ラフ・ヴァローネ.md" title="wikilink">ラフ・ヴァローネ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田勝" title="wikilink">池田勝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林修_(声優)" title="wikilink">小林修</a></p></td>
+<td><p><a href="../Page/池田勝.md" title="wikilink">池田勝</a></p></td>
+<td><p><a href="../Page/小林修_(声優).md" title="wikilink">小林修</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ギルディ<a href="https://ja.wikipedia.org/wiki/大司教" title="wikilink">大司教</a></p></td>
 <td><p>ドナル・ドネリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮内幸平" title="wikilink">宮内幸平</a></p></td>
+<td><p><a href="../Page/宮内幸平.md" title="wikilink">宮内幸平</a></p></td>
 <td><p><a href="../Page/青野武.md" title="wikilink">青野武</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ドン・リシオ・ルケージ</p></td>
 <td><p>エンツォ・ロブッティ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡文雄" title="wikilink">松岡文雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阪脩" title="wikilink">阪脩</a></p></td>
+<td><p><a href="../Page/松岡文雄.md" title="wikilink">松岡文雄</a></p></td>
+<td><p><a href="../Page/阪脩.md" title="wikilink">阪脩</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ドミニク・アッバンダンド</p></td>
@@ -271,25 +271,25 @@
 <tr class="odd">
 <td><p>フレデリック・カインジック</p></td>
 <td><p><a href="../Page/ヘルムート・バーガー.md" title="wikilink">ヘルムート・バーガー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大木民夫" title="wikilink">大木民夫</a></p></td>
+<td><p><a href="../Page/大木民夫.md" title="wikilink">大木民夫</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>カロ</p></td>
 <td><p>フランコ・チッティ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大山高男" title="wikilink">大山高男</a></p></td>
+<td><p><a href="../Page/大山高男.md" title="wikilink">大山高男</a></p></td>
 <td><p>岡部政明</p></td>
 </tr>
 <tr class="odd">
 <td><p>モスカ</p></td>
 <td><p>マリオ・ドナトーネ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今西正男" title="wikilink">今西正男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本譲" title="wikilink">藤本譲</a></p></td>
+<td><p><a href="../Page/今西正男.md" title="wikilink">今西正男</a></p></td>
+<td><p><a href="../Page/藤本譲.md" title="wikilink">藤本譲</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ドン・トマシーノ</p></td>
 <td><p>ヴィットリオ・デューズ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村松康雄" title="wikilink">村松康雄</a></p></td>
+<td><p><a href="../Page/村松康雄.md" title="wikilink">村松康雄</a></p></td>
 <td><p>宮内幸平</p></td>
 </tr>
 <tr class="odd">
@@ -302,30 +302,30 @@
 <td><p>ルー・ペニーノ</p></td>
 <td><p>ロバート・チッチーニ</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤和晃" title="wikilink">伊藤和晃</a></p></td>
+<td><p><a href="../Page/伊藤和晃.md" title="wikilink">伊藤和晃</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>アンソニー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビト・アンツォフェルモ" title="wikilink">ビト・アンツォフェルモ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笹岡繁蔵" title="wikilink">笹岡繁蔵</a></p></td>
+<td><p><a href="../Page/笹岡繁蔵.md" title="wikilink">笹岡繁蔵</a></p></td>
 </tr>
 <tr class="even">
 <td><p>レオ・クーネオ</p></td>
 <td><p>アル・ラッシオ</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島香裕" title="wikilink">島香裕</a></p></td>
+<td><p><a href="../Page/島香裕.md" title="wikilink">島香裕</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>マルティ・パリシ</p></td>
 <td><p>ミッキー・ノックス</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊井篤史" title="wikilink">伊井篤史</a></p></td>
+<td><p><a href="../Page/伊井篤史.md" title="wikilink">伊井篤史</a></p></td>
 </tr>
 <tr class="even">
 <td><p>フレド・コルレオーネ<br />
 （回想シーン）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・カザール" title="wikilink">ジョン・カザール</a><br />
+<td><p><a href="../Page/ジョン・カザール.md" title="wikilink">ジョン・カザール</a><br />
 （クレジットなし）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中江真司" title="wikilink">中江真司</a></p></td>
 <td></td>
@@ -337,20 +337,20 @@
 
 :\*\*演出：[小林守夫](https://ja.wikipedia.org/wiki/小林守夫 "wikilink")、翻訳：島伸三、製作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
 
-:\*フジテレビ版：初回放送[1994年](../Page/1994年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")21:04-23:54『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』※正味142分。
+:\*フジテレビ版：初回放送[1994年](../Page/1994年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")21:04-23:54『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』※正味142分。
 
-:\*\*演出：小林守夫、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")、効果：リレーション、調整：荒井孝、プロデューサー：山形淳二、解説：[高島忠夫](https://ja.wikipedia.org/wiki/高島忠夫 "wikilink")、製作：東北新社
+:\*\*演出：小林守夫、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")、効果：リレーション、調整：荒井孝、プロデューサー：山形淳二、解説：[高島忠夫](../Page/高島忠夫.md "wikilink")、製作：東北新社
 
 ## モデルとなった実在の人物と組織
 
-[Pope_John_Paul_I_from_window_(cropped).jpg](https://ja.wikipedia.org/wiki/File:Pope_John_Paul_I_from_window_\(cropped\).jpg "fig:Pope_John_Paul_I_from_window_(cropped).jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Roberto_Calvi.jpg "wikilink") 上記のように、本作品は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[教皇ヨハネ](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")・パウロ1世の毒殺が強く疑われている急死と、[1982年](../Page/1982年.md "wikilink")に発生し世界を揺るがす大スキャンダルとなった[ロベルト・カルヴィ](https://ja.wikipedia.org/wiki/ロベルト・カルヴィ "wikilink")暗殺事件。そしてこれらの事件にまつわるバチカンとイタリア政財界を巻き込んだ金融疑獄事件という、多くの共通の関係者を持つ複数の大事件を作品内にほぼそのままに取り入れることで、現実におけるバチカンとイタリア政財界、マフィアの3者の癒着、腐敗体質を批判している。
+[Pope_John_Paul_I_from_window_(cropped).jpg](https://ja.wikipedia.org/wiki/File:Pope_John_Paul_I_from_window_\(cropped\).jpg "fig:Pope_John_Paul_I_from_window_(cropped).jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Roberto_Calvi.jpg "wikilink") 上記のように、本作品は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[教皇ヨハネ](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")・パウロ1世の毒殺が強く疑われている急死と、[1982年](../Page/1982年.md "wikilink")に発生し世界を揺るがす大スキャンダルとなった[ロベルト・カルヴィ](../Page/ロベルト・カルヴィ.md "wikilink")暗殺事件。そしてこれらの事件にまつわるバチカンとイタリア政財界を巻き込んだ金融疑獄事件という、多くの共通の関係者を持つ複数の大事件を作品内にほぼそのままに取り入れることで、現実におけるバチカンとイタリア政財界、マフィアの3者の癒着、腐敗体質を批判している。
 
 その中で、下記のように2つの事件に登場した複数の実在の人物をモデルとしてあてはめている。
 
-  - ランベルト枢機卿 ： アルビーノ・ルチアーニ（枢機卿、その後の[ヨハネ・パウロ1世](https://ja.wikipedia.org/wiki/ヨハネ・パウロ1世_\(ローマ教皇\) "wikilink")）
+  - ランベルト枢機卿 ： アルビーノ・ルチアーニ（枢機卿、その後の[ヨハネ・パウロ1世](../Page/ヨハネ・パウロ1世_\(ローマ教皇\).md "wikilink")）
   - ギルディ大司教 ： [ポール・マルチンクス](https://ja.wikipedia.org/wiki/ポール・マルチンクス "wikilink")（大司教、[宗教事業協会](https://ja.wikipedia.org/wiki/宗教事業協会 "wikilink")〔通称「バチカン銀行」〕総裁）
-  - フレデリック・カインジック ： [ロベルト・カルヴィ](https://ja.wikipedia.org/wiki/ロベルト・カルヴィ "wikilink")（[アンブロシアーノ銀行](https://ja.wikipedia.org/wiki/アンブロシアーノ銀行 "wikilink")[頭取](../Page/頭取.md "wikilink")）
-  - ドン・リーシオ・ルケージ ： [リーチオ・ジェッリ](https://ja.wikipedia.org/wiki/リーチオ・ジェッリ "wikilink")（[イタリア社会運動](../Page/イタリア社会運動.md "wikilink")幹部、[ロッジP2](https://ja.wikipedia.org/wiki/ロッジP2 "wikilink")代表）もしくは[ジュリオ・アンドレオッティ](https://ja.wikipedia.org/wiki/ジュリオ・アンドレオッティ "wikilink")（元イタリア[首相](../Page/首相.md "wikilink")）
+  - フレデリック・カインジック ： [ロベルト・カルヴィ](../Page/ロベルト・カルヴィ.md "wikilink")（[アンブロシアーノ銀行](../Page/アンブロシアーノ銀行.md "wikilink")[頭取](../Page/頭取.md "wikilink")）
+  - ドン・リーシオ・ルケージ ： [リーチオ・ジェッリ](https://ja.wikipedia.org/wiki/リーチオ・ジェッリ "wikilink")（[イタリア社会運動](../Page/イタリア社会運動.md "wikilink")幹部、[ロッジP2](https://ja.wikipedia.org/wiki/ロッジP2 "wikilink")代表）もしくは[ジュリオ・アンドレオッティ](../Page/ジュリオ・アンドレオッティ.md "wikilink")（元イタリア[首相](../Page/首相.md "wikilink")）
 
 劇中において、[コンクラーヴェ](https://ja.wikipedia.org/wiki/コンクラーヴェ "wikilink")の結果「教皇ヨハネ・パウロ1世」となり、バチカン内の腐敗体質の一掃を行おうとしたにもかかわらず就任後に毒殺された「ランベルト枢機卿」については、枢機卿時代の名前こそ違うが、教皇に選ばれた後の名前は実在のものと同じ「ヨハネ・パウロ1世」となっている。
 
@@ -360,15 +360,15 @@
 
 さらにジェッリが代表を務め、カルヴィやマルチンクスが会員となっており、カルヴィ暗殺やヨハネ・パウロ1世の「暗殺」にかかわったとされる極右秘密結社「[ロッジP2](https://ja.wikipedia.org/wiki/ロッジP2 "wikilink")」の名前が実際に劇中で出てくるほか、劇中においてバチカンと関係の深い投資会社として登場した「インターナショナル・インモビリアーレ」社も、イタリアに実在する[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")を中心とした投資会社で、バチカン銀行が大株主であった「インモビリアーレ」社をモデルにしたとされている。
 
-なおコッポラは、当時カルヴィが頭取を務めていたアンブロシアーノ銀行が、[パラマウント映画](https://ja.wikipedia.org/wiki/パラマウント映画 "wikilink")の親会社で[コングロマリット](https://ja.wikipedia.org/wiki/コングロマリット "wikilink")の「ガルフ-ウェスタン社」の大株主であった関係で、パラマウントの本社ビルを訪れていたカルヴィを目撃したと語っている。
+なおコッポラは、当時カルヴィが頭取を務めていたアンブロシアーノ銀行が、[パラマウント映画](../Page/パラマウント映画.md "wikilink")の親会社で[コングロマリット](../Page/コングロマリット.md "wikilink")の「ガルフ-ウェスタン社」の大株主であった関係で、パラマウントの本社ビルを訪れていたカルヴィを目撃したと語っている。
 
 ## 評価
 
 マフィアとイタリア政界、[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")の不明朗な関係と腐敗が巻き起こしたスキャンダルを、ほぼそのまま内容に取り込むことであからさまに批判したことや、衰えたマイケルの懺悔や苦悩ばかりに焦点を当てた内容が災いし、[アカデミー賞](../Page/アカデミー賞.md "wikilink")には7部門でノミネートされながらも結局受賞には至らなかった。批評家たちからの評価も芳しくないまま、興行的にも前作に届かぬ結果となった。コッポラは後に「私自身を満足させたがために、観客の期待を裏切る結果になった」と弁解している。
 
-前二作で重要な役割を演じた[ロバート・デュヴァル](https://ja.wikipedia.org/wiki/ロバート・デュヴァル "wikilink")（トム・ヘイゲン役）には出演料の問題などでオファーを断られ、既に死去したという設定にされたこともキャラクターバランスを欠いて作品の低評価を招いた。それに関してコッポラは「大きな損失だった」と回顧している。
+前二作で重要な役割を演じた[ロバート・デュヴァル](../Page/ロバート・デュヴァル.md "wikilink")（トム・ヘイゲン役）には出演料の問題などでオファーを断られ、既に死去したという設定にされたこともキャラクターバランスを欠いて作品の低評価を招いた。それに関してコッポラは「大きな損失だった」と回顧している。
 
-特にキャリアがないままに主要な助演女優に抜擢されたこともあり、事実上の[スケープ・ゴート](https://ja.wikipedia.org/wiki/スケープ・ゴート "wikilink")にされたメアリー・コルレオーネ役の[ソフィア・コッポラ](https://ja.wikipedia.org/wiki/ソフィア・コッポラ "wikilink")（監督であるフランシス・フォード・コッポラの娘）に対する批判は苛烈なもので、ソフィアは[同年度のゴールデンラズベリー賞の最低助演女優賞](https://ja.wikipedia.org/wiki/第11回ゴールデンラズベリー賞 "wikilink")・最低新人賞を受賞してしまう。
+特にキャリアがないままに主要な助演女優に抜擢されたこともあり、事実上の[スケープ・ゴート](https://ja.wikipedia.org/wiki/スケープ・ゴート "wikilink")にされたメアリー・コルレオーネ役の[ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")（監督であるフランシス・フォード・コッポラの娘）に対する批判は苛烈なもので、ソフィアは[同年度のゴールデンラズベリー賞の最低助演女優賞](https://ja.wikipedia.org/wiki/第11回ゴールデンラズベリー賞 "wikilink")・最低新人賞を受賞してしまう。
 
 しかし、同作品を評価する声もあり、著名な映画評論家である[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は、本作品に星3つ半のスコアを与えた\[1\]。これは過去にイーバートが『Part II』に与えた星3つを上回る評価である。
 
@@ -380,10 +380,10 @@
 
 ## 関連項目
 
-  - [カンノーロ](https://ja.wikipedia.org/wiki/カンノーロ "wikilink")
+  - [カンノーロ](../Page/カンノーロ.md "wikilink")
   - [ロッジP2](https://ja.wikipedia.org/wiki/ロッジP2 "wikilink")
-  - [カヴァレリア・ルスティカーナ](https://ja.wikipedia.org/wiki/カヴァレリア・ルスティカーナ "wikilink")
-  - [ウォルドルフ＝アストリア](https://ja.wikipedia.org/wiki/ウォルドルフ＝アストリア "wikilink")
+  - [カヴァレリア・ルスティカーナ](../Page/カヴァレリア・ルスティカーナ.md "wikilink")
+  - [ウォルドルフ＝アストリア](../Page/ウォルドルフ＝アストリア.md "wikilink")
   - [マセラティ・ロイヤル](https://ja.wikipedia.org/wiki/マセラティ・クアトロポルテ#3代目（1976–1990年） "wikilink")
 
 ## 外部リンク

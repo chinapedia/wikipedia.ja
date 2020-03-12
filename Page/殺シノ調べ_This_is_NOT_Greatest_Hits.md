@@ -1,12 +1,12 @@
 > この記事は[ This is NOT Greatest Hits](https://ja.wikipedia.org/wiki/_This_is_NOT_Greatest_Hits)から翻訳されています。
 
 
-『**殺シノ調べ This is NOT Greatest Hits**』（ころシノしらべ ディス・イズ・ノット・グレイテスト・ヒッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の[セルフカバー](../Page/カバー.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")\[1\]。[1992年](../Page/1992年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[ビクター音楽産業の](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
+『**殺シノ調べ This is NOT Greatest Hits**』（ころシノしらべ ディス・イズ・ノット・グレイテスト・ヒッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[セルフカバー](../Page/カバー.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")\[1\]。[1992年](../Page/1992年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[ビクター音楽産業の](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
 
 ## 解説
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から1991年までに発売された[シングル](../Page/シングル.md "wikilink")・アルバムの中からメジャー曲からマイナー曲までバランス良く選曲されており、また全ての曲が再録音されている。ただし、1988年発売のミニアルバム『[ROMANESQUE](../Page/ROMANESQUE_\(アルバム\).md "wikilink")』からは一曲も選曲されてない。
-  - 制作時のコンセプトは**「『[狂った太陽](../Page/狂った太陽.md "wikilink")』を経て劇的に向上したバンドスキルによる初期の楽曲の再生（リメイク）」**であり、その意向に沿って、[ビート・ロック](https://ja.wikipedia.org/wiki/ビート・ロック "wikilink")、[オルタナティヴ・ポップ](https://ja.wikipedia.org/wiki/オルタナティヴ・ミュージック "wikilink")、[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")という前作以前の楽曲を新たに[デジタル・ロック](https://ja.wikipedia.org/wiki/デジタルロック "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")の要素を交えて再構築したアルバムである。当初メンバーは『狂った太陽』に収録されている楽曲を収録するつもりはなかったが、レコード会社側の強い要望でいわゆる「[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")」としての商品価値を持たせるため、『狂った太陽』収録のシングル3曲も収録せざるをえなくなってしまった。そのため、既に作品として完成されているこの3曲の再アレンジにあたり、メンバーはかなり苦心したようである。特に「[M・A・D](https://ja.wikipedia.org/wiki/M・A・D "wikilink")」はまったく原形を留めておらず、歌詞以外に共通項は無く、最早別の楽曲となっており、リリース時のインタビューでメンバーの[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")は「（「M・A・D」は）原曲が完璧なのでああするしかなかった」と語った。また、[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")も「[JUPITER](https://ja.wikipedia.org/wiki/JUPITER_\(BUCK-TICKの曲\) "wikilink")」冒頭の[コーラスをインタビュアーに](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")「苦肉の策」と指摘された\[2\]。「This is **NOT** Greatest Hits」という内容と相反するサブタイトルにはこういった経緯に対するメンバーの自虐的なメッセージが込められている。
+  - 制作時のコンセプトは**「『[狂った太陽](../Page/狂った太陽.md "wikilink")』を経て劇的に向上したバンドスキルによる初期の楽曲の再生（リメイク）」**であり、その意向に沿って、[ビート・ロック](https://ja.wikipedia.org/wiki/ビート・ロック "wikilink")、[オルタナティヴ・ポップ](https://ja.wikipedia.org/wiki/オルタナティヴ・ミュージック "wikilink")、[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")という前作以前の楽曲を新たに[デジタル・ロック](https://ja.wikipedia.org/wiki/デジタルロック "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")の要素を交えて再構築したアルバムである。当初メンバーは『狂った太陽』に収録されている楽曲を収録するつもりはなかったが、レコード会社側の強い要望でいわゆる「[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")」としての商品価値を持たせるため、『狂った太陽』収録のシングル3曲も収録せざるをえなくなってしまった。そのため、既に作品として完成されているこの3曲の再アレンジにあたり、メンバーはかなり苦心したようである。特に「[M・A・D](https://ja.wikipedia.org/wiki/M・A・D "wikilink")」はまったく原形を留めておらず、歌詞以外に共通項は無く、最早別の楽曲となっており、リリース時のインタビューでメンバーの[今井寿](../Page/今井寿.md "wikilink")は「（「M・A・D」は）原曲が完璧なのでああするしかなかった」と語った。また、[星野英彦](../Page/星野英彦.md "wikilink")も「[JUPITER](https://ja.wikipedia.org/wiki/JUPITER_\(BUCK-TICKの曲\) "wikilink")」冒頭の[コーラスをインタビュアーに](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")「苦肉の策」と指摘された\[2\]。「This is **NOT** Greatest Hits」という内容と相反するサブタイトルにはこういった経緯に対するメンバーの自虐的なメッセージが込められている。
   - シングル「M・A・D」の[カップリングとして](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「[ANGELIC CONVERSATION](../Page/TABOO_\(アルバム\).md "wikilink")」を再録音し、その完成度にメンバーが予想以上の手応えを感じたことが本作制作の切っ掛けとなった\[3\]。
   - タイトルの「殺シノ調ベ」とは[インディーズ](../Page/インディーズ.md "wikilink")時代のアルバム『[HURRY UP MODE](../Page/HURRY_UP_MODE.md "wikilink")』のサブタイトルでもある。
   - 本作リリース以降のライブでは本作収録曲が演奏される場合、いわゆる「殺シノ調ベVer.」であることが殆どだが、「[LOVE ME](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")」は旧バージョンでも演奏されている。
@@ -23,7 +23,7 @@
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -32,7 +32,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント" title="wikilink">ビクター音楽産業</a>／<a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
+<td><p><a href="../Page/JVCケンウッド・ビクターエンタテインメント.md" title="wikilink">ビクター音楽産業</a>／<a href="../Page/Invitation_(レーベル).md" title="wikilink">Invitation</a></p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>VICL-288 (CD)<br />
@@ -70,12 +70,12 @@ VICL-60967（通常盤）</p></td>
 ### A面
 
 1.  **[ICONOCLASM](../Page/TABOO_\(アルバム\).md "wikilink")** \[3:52\]
-      - 作詞・作曲：[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")
+      - 作詞・作曲：[今井寿](../Page/今井寿.md "wikilink")
     <!-- end list -->
       -
         囁き声で歌われていた原曲と異なり、こちらはほぼシャウトで歌われている。また際立ったノイズも挿入されている。
 2.  **[惡の華](../Page/悪の華_\(BUCK-TICKの曲\).md "wikilink")** \[4:34\]
-      - 作詞：[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")、作曲：今井寿
+      - 作詞：[櫻井敦司](../Page/櫻井敦司.md "wikilink")、作曲：今井寿
 3.  **[DO THE "I LOVE YOU"](../Page/SEXUAL×××××!.md "wikilink")** \[4:19\]
       - 作詞・作曲：今井寿
     <!-- end list -->
@@ -117,7 +117,7 @@ VICL-60967（通常盤）</p></td>
 
 2.  **JUPITER** \[6:01\]
 
-      - 作詞：櫻井敦司、作曲：[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")
+      - 作詞：櫻井敦司、作曲：[星野英彦](../Page/星野英彦.md "wikilink")
 
 3.  **[...IN HEAVEN...](https://ja.wikipedia.org/wiki/SEVENTH_HEAVEN_\(BUCK-TICKのアルバム\) "wikilink")** \[4:12\]
 
@@ -164,12 +164,12 @@ VICL-60967（通常盤）</p></td>
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")
   - 星野英彦 - ギター
-  - [樋口豊](https://ja.wikipedia.org/wiki/樋口豊_\(ミュージシャン\) "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [ヤガミトール](https://ja.wikipedia.org/wiki/ヤガミトール "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ### サポートミュージシャン
 
-  - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink") - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
+  - [横山和俊](https://ja.wikipedia.org/wiki/横山和俊 "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
   - 難波正司 - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[アレンジメント](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")、プログラミング
 
 ## 参考文献・出典

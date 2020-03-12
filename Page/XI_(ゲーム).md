@@ -1,15 +1,15 @@
 > この記事は[XI \(\)](https://ja.wikipedia.org/wiki/XI_\(\))から翻訳されています。
 
 
-**XI**（サイ）は、1998年に発売されたソニー・コンピュータエンタテインメント（現・[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）の[アクションパズル](https://ja.wikipedia.org/wiki/アクションパズル "wikilink")ゲーム、およびそのシリーズ。開発は[シフト](https://ja.wikipedia.org/wiki/シフト_\(ゲーム会社\) "wikilink")。 タイトルの「XI」は発音、アクセントを含めてXI\[sái\]、もしくは表記上の都合で「XI\[sai\]」と書かれる。 北米、EUでは「Devil DICE」のタイトルで販売された。同様に、シリーズの「XIゴ」は北米、EUでは「Bombastic」にタイトルを変更している。 第一回[ゲームやろうぜ\!](https://ja.wikipedia.org/wiki/ゲームやろうぜ! "wikilink")に採用されて制作された作品で、日本では百万本以上を販売し、シリーズ続編や携帯ゲーム機への移植作も作られた。
+**XI**（サイ）は、1998年に発売されたソニー・コンピュータエンタテインメント（現・[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）の[アクションパズル](../Page/アクションパズル.md "wikilink")ゲーム、およびそのシリーズ。開発は[シフト](https://ja.wikipedia.org/wiki/シフト_\(ゲーム会社\) "wikilink")。 タイトルの「XI」は発音、アクセントを含めてXI\[sái\]、もしくは表記上の都合で「XI\[sai\]」と書かれる。 北米、EUでは「Devil DICE」のタイトルで販売された。同様に、シリーズの「XIゴ」は北米、EUでは「Bombastic」にタイトルを変更している。 第一回[ゲームやろうぜ\!](https://ja.wikipedia.org/wiki/ゲームやろうぜ! "wikilink")に採用されて制作された作品で、日本では百万本以上を販売し、シリーズ続編や携帯ゲーム機への移植作も作られた。
 
 ## 基本ルール
 
-このゲームは悪魔のキャラクター「アクイ(AQUI)」を操作し、ステージ上に次々と現れる[サイコロ](../Page/サイコロ.md "wikilink")を操って消していく[アクションパズル](https://ja.wikipedia.org/wiki/アクションパズル "wikilink")ゲームである。
+このゲームは悪魔のキャラクター「アクイ(AQUI)」を操作し、ステージ上に次々と現れる[サイコロ](../Page/サイコロ.md "wikilink")を操って消していく[アクションパズル](../Page/アクションパズル.md "wikilink")ゲームである。
 
 以下は初代『XI』のルールについて述べる。後の作品でも基本はこれと同じルールである。
 
-アクイは玉乗りのようにサイコロの上に乗って転がすか、あるいは地面の上でサイコロを押すことができる。地面上からサイコロの上に乗るには、沈みかけか湧き出てくるサイコロを足場として利用する。サイコロは一定時間ごとに地面から湧いてきて、フィールドがサイコロで埋め尽くされると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")となる。
+アクイは玉乗りのようにサイコロの上に乗って転がすか、あるいは地面の上でサイコロを押すことができる。地面上からサイコロの上に乗るには、沈みかけか湧き出てくるサイコロを足場として利用する。サイコロは一定時間ごとに地面から湧いてきて、フィールドがサイコロで埋め尽くされると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となる。
 
 次々に湧き出るサイコロを消すには、以下の方法を用いる。
 
@@ -276,7 +276,7 @@
 
 ## シリーズ作品
 
-  - 『XI \[sai\]』 - 1998年6月18日、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")
+  - 『XI \[sai\]』 - 1998年6月18日、[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")
   - 『XI JUMBO』(サイジャンボ) - 1999年12月22日、PlayStation
   - 『PSone books XI\[sai\]』 - 2001年10月12日、PlayStation
       -
@@ -285,7 +285,7 @@
       -
         初代『XI』のモードの他、サウンド要素を取り入れた**AQUIちゃんのダイスでダンス**モードもある。
   - 『XIゴ』（サイゴ） - 2002年12月19日、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
-  - 『XI コロシアム』(サイコロシアム) - 2006年03月09日、[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+  - 『XI コロシアム』(サイコロシアム) - 2006年03月09日、[PSP](../Page/PlayStation_Portable.md "wikilink")
       -
         内容はほぼ初代『XI』と同じだが、ゲーム中のデザインは「XIゴ」に近いものに変更されている。
   - 『XI \[sai\]』、『XI \[sai\] DX』(サイデラックス) - 携帯電話アプリケーション([iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[S\!アプリ](../Page/S!アプリ.md "wikilink")、[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")、[CLUB AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink"))

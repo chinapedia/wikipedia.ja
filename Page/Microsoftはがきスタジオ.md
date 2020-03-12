@@ -39,7 +39,7 @@
 <!-- end list -->
 
   - 1999年10月15日発売\[10\]。
-  - [Microsoft Works Suite 2000にも同梱](https://ja.wikipedia.org/wiki/Microsoft_Works "wikilink")。
+  - [Microsoft Works Suite 2000にも同梱](../Page/Microsoft_Works.md "wikilink")。
   - 2003年9月30日、サポート終了\[11\]。
 
 <!-- end list -->
@@ -73,7 +73,7 @@
       - 「通常版/DVD-ROM版」
       - 「乗り換えアップグレード/CD-ROM版」
       - デジカメスタジオ 2003を付属した「デラックス/CD-ROM版」
-      - デジカメスタジオ 2003、Microsoft Officeテンプレートパッケージ Version 2002、[Microsoft Zoo Tycoon](https://ja.wikipedia.org/wiki/ズー_タイクーン "wikilink")、Microsoft [エンカルタ](../Page/エンカルタ.md "wikilink")百科事典 2003 ベーシック、Microsoft ケータイ編集ツールを付属した「ファミリー パッケージ/CD-ROM版」
+      - デジカメスタジオ 2003、Microsoft Officeテンプレートパッケージ Version 2002、[Microsoft Zoo Tycoon](../Page/ズー_タイクーン.md "wikilink")、Microsoft [エンカルタ](../Page/エンカルタ.md "wikilink")百科事典 2003 ベーシック、Microsoft ケータイ編集ツールを付属した「ファミリー パッケージ/CD-ROM版」
   - 2005年12月31日、サポート終了\[19\]。
 
 <!-- end list -->
@@ -139,7 +139,7 @@
   - [はがき作成ソフトウェア](../Page/はがき作成ソフトウェア.md "wikilink")
   - [年賀状](../Page/年賀状.md "wikilink")
   - [お年玉付郵便はがき](../Page/お年玉付郵便はがき.md "wikilink")
-  - [インクジェットプリンター](https://ja.wikipedia.org/wiki/インクジェットプリンター "wikilink")
+  - [インクジェットプリンター](../Page/インクジェットプリンター.md "wikilink")
 
 ## 外部リンク
 

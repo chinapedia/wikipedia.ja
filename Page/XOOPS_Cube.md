@@ -1,7 +1,7 @@
 > この記事は[XOOPS Cube](https://ja.wikipedia.org/wiki/XOOPS_Cube)から翻訳されています。
 
 
-**XOOPS Cube**（ズープス キューブ）および**XOOPS Cube Project**は[XOOPS](https://ja.wikipedia.org/wiki/XOOPS "wikilink")から派生した[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS) を作成するプロジェクト。また、そのプロジェクトが作成されたCMSを指す。CMSは**XOOPS Cube Legacy**（ズープス キューブ レガシィ）を作成・管理する。
+**XOOPS Cube**（ズープス キューブ）および**XOOPS Cube Project**は[XOOPS](../Page/XOOPS.md "wikilink")から派生した[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS) を作成するプロジェクト。また、そのプロジェクトが作成されたCMSを指す。CMSは**XOOPS Cube Legacy**（ズープス キューブ レガシィ）を作成・管理する。
 
 ## 概要
 
@@ -18,14 +18,14 @@ XOOPS Cubeの「Cube」には以下の意味がある。
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - XOOPS日本サポートチームは、XOOPSをサポートせず、日本独自のバージョンを提供することを発表。XOOPS Cubeという名前に決定する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月](../Page/6月.md "wikilink") - 日本独自のバージョンXOOPS 2.0.xJPを発表・公開する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 日本初のXOOPS新名称をXOOPS Cubeと発表。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink") - XOOPS Cubeの新公式サイトへ移行、XOOPS Cubeのロゴを公開。
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - XOOPS日本サポートチームは、XOOPSをサポートせず、日本独自のバージョンを提供することを発表。XOOPS Cubeという名前に決定する。
+  - [2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink") - 日本独自のバージョンXOOPS 2.0.xJPを発表・公開する。
+  - [2005年](../Page/2005年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 日本初のXOOPS新名称をXOOPS Cubeと発表。
+  - [2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink") - XOOPS Cubeの新公式サイトへ移行、XOOPS Cubeのロゴを公開。
   - [2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - XOOPS 2.0.xJP系の上位互換であるXOOPS Cube Legacy 2.1.0を発表。日本公式サイトが[SourceForge.net](../Page/SourceForge.net.md "wikilink")へ移される\[2\]。
   - [2011年](../Page/2011年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - XOOPS Cube Legacy 2.2.0を発表\[3\]。
   - [2012年](../Page/2012年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - XOOPS Cube日本サイトを日本公式サイトに改める\[4\]。
-  - [2012年](../Page/2012年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - [ソースコード](../Page/ソースコード.md "wikilink")[リポジトリ](https://ja.wikipedia.org/wiki/リポジトリ "wikilink")をSourceforge.netから[GitHub](https://github.com/xoopscube/legacy)に移行\[5\]。
+  - [2012年](../Page/2012年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - [ソースコード](../Page/ソースコード.md "wikilink")[リポジトリ](../Page/リポジトリ.md "wikilink")をSourceforge.netから[GitHub](https://github.com/xoopscube/legacy)に移行\[5\]。
 
 [XOOPS-JP-history.png](https://ja.wikipedia.org/wiki/File:XOOPS-JP-history.png "fig:XOOPS-JP-history.png")
 
@@ -47,7 +47,7 @@ XOOPS Cube Legacy 2.2 では下記の動作環境になっている\[6\]。
 
   - 推奨[Webサーバ](../Page/Webサーバ.md "wikilink")：[Apache](../Page/Apache_HTTP_Server.md "wikilink")
   - [データベース](../Page/データベース.md "wikilink")：**[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink") 5.0 以上**
-  - PHP：**[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink") 5.2 推奨。**5.1以下は動作しなくなる可能性あり、また5.3は[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製作のモジュールで対応していない場合あり。
+  - PHP：**[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink") 5.2 推奨。**5.1以下は動作しなくなる可能性あり、また5.3は[サードパーティー](../Page/サードパーティー.md "wikilink")製作のモジュールで対応していない場合あり。
 
 XOOPS Cube Legacy 2.1 までは下記の動作環境である。
 

@@ -23,8 +23,8 @@
 ## 関連記事
 
   - [{{mvar](https://ja.wikipedia.org/wiki/q二項定理 "wikilink")
-  - [ハイネの和公式](https://ja.wikipedia.org/wiki/ハイネの和公式 "wikilink")
-  - [ラマヌジャンの和公式](https://ja.wikipedia.org/wiki/ラマヌジャンの和公式 "wikilink")
+  - [ハイネの和公式](../Page/ハイネの和公式.md "wikilink")
+  - [ラマヌジャンの和公式](../Page/ラマヌジャンの和公式.md "wikilink")
   - [{{mvar](https://ja.wikipedia.org/wiki/qザールシュッツの和公式 "wikilink")
 
 ## 出典

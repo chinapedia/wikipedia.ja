@@ -5,22 +5,22 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")に[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")から制作を受注していた有限会社ガンホー（[ガンホー・オンライン・エンターテイメント](https://ja.wikipedia.org/wiki/ガンホー・オンライン・エンターテイメント "wikilink")株式会社とは無関係）により、独自ブランドとして設立された（詳しい経緯は[ゲームソフト「グリーン・グリーン」事件参照](https://ja.wikipedia.org/wiki/グリーングリーン_\(ゲーム\)#ゲームソフト「グリーン・グリーン」事件 "wikilink")）。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")発売の「[鐘ノ音ダイナティック](../Page/鐘ノ音ダイナティック.md "wikilink")」を最後に新作のリリースが途絶えており、発売済み作品のサポートも終了。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に公式サイトが閉鎖された。スタッフの多くがそのまま[OVERDRIVEに移動しており](https://ja.wikipedia.org/wiki/OVERDRIVE_\(ブランド\) "wikilink")、OVERDRIVEが実質の後継ブランドといえる。
+[2001年](../Page/2001年.md "wikilink")に[フロントウイング](../Page/フロントウイング.md "wikilink")から制作を受注していた有限会社ガンホー（[ガンホー・オンライン・エンターテイメント](../Page/ガンホー・オンライン・エンターテイメント.md "wikilink")株式会社とは無関係）により、独自ブランドとして設立された（詳しい経緯は[ゲームソフト「グリーン・グリーン」事件参照](https://ja.wikipedia.org/wiki/グリーングリーン_\(ゲーム\)#ゲームソフト「グリーン・グリーン」事件 "wikilink")）。[2006年](../Page/2006年.md "wikilink")発売の「[鐘ノ音ダイナティック](../Page/鐘ノ音ダイナティック.md "wikilink")」を最後に新作のリリースが途絶えており、発売済み作品のサポートも終了。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に公式サイトが閉鎖された。スタッフの多くがそのまま[OVERDRIVEに移動しており](../Page/OVERDRIVE_\(ブランド\).md "wikilink")、OVERDRIVEが実質の後継ブランドといえる。
 
 ## 作品一覧
 
   - [グリーングリーン](../Page/グリーングリーン_\(ゲーム\).md "wikilink")
-      - [グリーングリーン2 恋のスペシャルサマー](https://ja.wikipedia.org/wiki/グリーングリーン2_恋のスペシャルサマー "wikilink")
-      - [グリーングリーン3 ハローグッバイ](https://ja.wikipedia.org/wiki/グリーングリーン3_ハローグッバイ "wikilink")
+      - [グリーングリーン2 恋のスペシャルサマー](../Page/グリーングリーン2_恋のスペシャルサマー.md "wikilink")
+      - [グリーングリーン3 ハローグッバイ](../Page/グリーングリーン3_ハローグッバイ.md "wikilink")
       - [鐘ノ音ダイナティック](../Page/鐘ノ音ダイナティック.md "wikilink")
   - [Gonna Be??](https://ja.wikipedia.org/wiki/Gonna_Be?? "wikilink")（後にCGを追加したDVD-ROM版が発売された）
-  - [Kissing\!\! under the mistletoe](https://ja.wikipedia.org/wiki/Kissing!!_under_the_mistletoe "wikilink")（Valhalla名義）
+  - [Kissing\!\! under the mistletoe](../Page/Kissing!!_under_the_mistletoe.md "wikilink")（Valhalla名義）
 
 ## 関連項目
 
-  - [OVERDRIVE](https://ja.wikipedia.org/wiki/OVERDRIVE_\(ブランド\) "wikilink")
+  - [OVERDRIVE](../Page/OVERDRIVE_\(ブランド\).md "wikilink")
   - [milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")
-  - [キッチンガイズファクトリー](https://ja.wikipedia.org/wiki/キッチンガイズファクトリー "wikilink")
+  - [キッチンガイズファクトリー](../Page/キッチンガイズファクトリー.md "wikilink")
 
 ## 備考
 

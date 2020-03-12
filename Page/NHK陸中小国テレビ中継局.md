@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK陸中小国テレビ中継局**（エヌエイチケイりくちゅうおぐにテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")の旧[下閉伊郡](../Page/下閉伊郡.md "wikilink")[川井村域に置かれていた](https://ja.wikipedia.org/wiki/川井村_\(岩手県\) "wikilink")[NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
+**NHK陸中小国テレビ中継局**（エヌエイチケイりくちゅうおぐにテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")の旧[下閉伊郡](../Page/下閉伊郡.md "wikilink")[川井村域に置かれていた](../Page/川井村_\(岩手県\).md "wikilink")[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
@@ -13,14 +13,14 @@
 <tbody>
 <tr class="odd">
 <td><p>放送局名</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合テレビ</a></p></td>
 <td><p>2ch</p></td>
 <td><p>映像1W<br />
 /音声250mW</p></td>
@@ -30,7 +30,7 @@
 <td><p>不明</p></td>
 </tr>
 <tr class="odd">
-<td><p>NHK盛岡<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育テレビ</a></p></td>
+<td><p>NHK盛岡<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育テレビ</a></p></td>
 <td><p>12ch</p></td>
 <td><p>映像4.5W<br />
 /音声1.1W</p></td>
@@ -46,8 +46,8 @@
 
 ## 関連項目
 
-  - [川井村](https://ja.wikipedia.org/wiki/川井村_\(岩手県\) "wikilink")
-  - [NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")
+  - [川井村](../Page/川井村_\(岩手県\).md "wikilink")
+  - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [NHK陸中川井中継局](../Page/NHK陸中川井中継局.md "wikilink")
   - [NHK陸中山形テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中山形テレビ中継局 "wikilink")
   - [NHK陸中山形関テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中山形関テレビ中継局 "wikilink")

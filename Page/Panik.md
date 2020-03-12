@@ -1,7 +1,7 @@
 > この記事は[Panik](https://ja.wikipedia.org/wiki/Panik)から翻訳されています。
 
 
-**Panik** は[ノイミュンスター](https://ja.wikipedia.org/wiki/ノイミュンスター "wikilink")出身の6人のメンバーによって[2007年](../Page/2007年.md "wikilink")に[ハンブルク](../Page/ハンブルク.md "wikilink")で結成されたドイツの[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である。
+**Panik** は[ノイミュンスター](../Page/ノイミュンスター.md "wikilink")出身の6人のメンバーによって[2007年](../Page/2007年.md "wikilink")に[ハンブルク](../Page/ハンブルク.md "wikilink")で結成されたドイツの[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
 | Frank "Franky" Ziegler   | [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")                                       | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")   |
 | Timo "T:mo" Sonnenschein | [ラップ](../Page/ラップ.md "wikilink")/[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") | 1987年[9月20日](../Page/9月20日.md "wikilink")                                                     |
 | Christian Linke          | [ベースギター](https://ja.wikipedia.org/wiki/ベースギター "wikilink")/ギター/ボーカル                          | 1987年[3月11日](../Page/3月11日.md "wikilink")                                                     |
-| David Bonk               | ギター/[ピアノ](../Page/ピアノ.md "wikilink")/ボーカル                                                   | [1988年](../Page/1988年.md "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")     |
+| David Bonk               | ギター/[ピアノ](../Page/ピアノ.md "wikilink")/ボーカル                                                   | [1988年](../Page/1988年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")                        |
 | Jan Werner               | [DJ](../Page/ディスクジョッキー.md "wikilink")                                                       | 1988年[3月1日](../Page/3月1日.md "wikilink")                                                       |
 | Juri Schewe              | [ドラム](../Page/ドラムセット.md "wikilink")                                                         | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月24日](../Page/11月24日.md "wikilink") |
 

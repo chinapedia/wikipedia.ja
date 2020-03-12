@@ -17,19 +17,19 @@
       - 1月 - パン・ベーカリー資材に参入
       - 9月 - 業務拡張に伴い大分県津久見市上青江において新社屋及び商品センターを建設
       - 10月 - 和・洋菓子を網羅した総合カタログを発刊し商品郡を3000アイテムに充実
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
-      - [2月16日](../Page/2月16日.md "wikilink") - [福岡証券取引所](../Page/福岡証券取引所.md "wikilink")[Q-Board](https://ja.wikipedia.org/wiki/Q-Board "wikilink")市場へ株式上場
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
+      - [2月16日](../Page/2月16日.md "wikilink") - [福岡証券取引所](../Page/福岡証券取引所.md "wikilink")[Q-Board](../Page/Q-Board.md "wikilink")市場へ株式上場
       - 2月 - [楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")市場に「菓子・パン資材通販」出店
-      - 3月 - [Yahoo\!ショッピングに](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")「おべんと資材通販」出店
+      - 3月 - [Yahoo\!ショッピングに](../Page/Yahoo!_JAPAN.md "wikilink")「おべんと資材通販」出店
       - 10月 - 楽天市場に「パッケージマスター」出店
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - 9月 - 個人向け食材ECサイト「Cotta（コッタ）」開設
       - 12月 - Yahoo\!ショッピングに「Cotta・コッタ Yahoo\!支店」開店
   - [2007年](../Page/2007年.md "wikilink")（平成19年）10月 - ビッダーズ内にショッピングサイト「Cotta（コッタ）」開設
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - 1月 - 業務拡張に伴い、第3倉庫を増設
       - 2月 - 和・洋菓子だけでなく、文具・雑貨・店舗用品・文具・厨房用品などを網羅した総合カタログを発刊し、取り扱いアイテムを15,000アイテムに増強
-  - [2013年](../Page/2013年.md "wikilink")（平成25年）[9月17日](../Page/9月17日.md "wikilink") - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")市場へ株式上場（重複上場）
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）[9月17日](../Page/9月17日.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")市場へ株式上場（重複上場）
   - [2014年](../Page/2014年.md "wikilink")（平成26年）[1月6日](../Page/1月6日.md "wikilink") - ショッピングサイト「Cotta（コッタ）」の運営を行う株式会社TUKURUを設立
   - [2015年](../Page/2015年.md "wikilink")（平成27年）1月 - 周陽商事株式会社を連結子会社化
   - [2016年](../Page/2016年.md "wikilink")（平成28年）8月 - 株式会社ヒラカワを連結子会社化

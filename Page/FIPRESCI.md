@@ -7,26 +7,26 @@
 
 FIPRESCI（国際映画批評家連盟）は、[カンヌ国際映画祭](../Page/カンヌ国際映画祭.md "wikilink")、[ヴェネツィア国際映画祭](../Page/ヴェネツィア国際映画祭.md "wikilink")といった[映画祭](../Page/映画祭.md "wikilink")の会期中に、同連盟が進取的な映画づくりであるとみなしたものを報奨するために賞を授与する。1999年からは年に1作、グランプリ作品を選んで授賞している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")現在、オンライン映画ジャーナル『*Undercurrents*』（「底流」の意）を発行している。編集長は映画批評家のクリス・フジワラである。
+[2005年](../Page/2005年.md "wikilink")現在、オンライン映画ジャーナル『*Undercurrents*』（「底流」の意）を発行している。編集長は映画批評家のクリス・フジワラである。
 
 ## FIPRESCI グランプリ受賞作品
 
-  - 1999年度『[オール・アバウト・マイ・マザー](https://ja.wikipedia.org/wiki/オール・アバウト・マイ・マザー "wikilink")』[ペドロ・アルモドバル](https://ja.wikipedia.org/wiki/ペドロ・アルモドバル "wikilink")監督
-  - 2000年度『[マグノリア](https://ja.wikipedia.org/wiki/マグノリア_\(映画\) "wikilink")』[ポール・トーマス・アンダーソン](https://ja.wikipedia.org/wiki/ポール・トーマス・アンダーソン "wikilink")監督
-  - 2001年度『[チャドルと生きる](../Page/チャドルと生きる.md "wikilink")』[ジャファール・パナヒ](https://ja.wikipedia.org/wiki/ジャファール・パナヒ "wikilink")監督
-  - 2002年度『[過去のない男](https://ja.wikipedia.org/wiki/過去のない男 "wikilink")』[アキ・カウリスマキ](https://ja.wikipedia.org/wiki/アキ・カウリスマキ "wikilink")監督
+  - 1999年度『[オール・アバウト・マイ・マザー](../Page/オール・アバウト・マイ・マザー.md "wikilink")』[ペドロ・アルモドバル](../Page/ペドロ・アルモドバル.md "wikilink")監督
+  - 2000年度『[マグノリア](https://ja.wikipedia.org/wiki/マグノリア_\(映画\) "wikilink")』[ポール・トーマス・アンダーソン](../Page/ポール・トーマス・アンダーソン.md "wikilink")監督
+  - 2001年度『[チャドルと生きる](../Page/チャドルと生きる.md "wikilink")』[ジャファール・パナヒ](../Page/ジャファール・パナヒ.md "wikilink")監督
+  - 2002年度『[過去のない男](../Page/過去のない男.md "wikilink")』[アキ・カウリスマキ](../Page/アキ・カウリスマキ.md "wikilink")監督
   - 2003年度『』[ヌリ・ビルゲ・ジェイラン](https://ja.wikipedia.org/wiki/ヌリ・ビルゲ・ジェイラン "wikilink")監督
   - 2004年度『[アワーミュージック](https://ja.wikipedia.org/wiki/アワーミュージック "wikilink")』[ジャン・リュック・ゴダール](https://ja.wikipedia.org/wiki/ジャン・リュック・ゴダール "wikilink")監督
-  - 2005年度『[うつせみ](https://ja.wikipedia.org/wiki/うつせみ_\(映画\) "wikilink")』[キム・ギドク](https://ja.wikipedia.org/wiki/キム・ギドク "wikilink")監督
-  - 2006年度『[ボルベール〈帰郷〉](https://ja.wikipedia.org/wiki/ボルベール〈帰郷〉 "wikilink")』ペドロ・アルモドバル監督
-  - 2007年度『[4ヶ月、3週と2日](https://ja.wikipedia.org/wiki/4ヶ月、3週と2日 "wikilink")』[クリスティアン・ムンジウ](https://ja.wikipedia.org/wiki/クリスティアン・ムンジウ "wikilink")監督
-  - 2008年度『[ゼア・ウィル・ビー・ブラッド](https://ja.wikipedia.org/wiki/ゼア・ウィル・ビー・ブラッド "wikilink")』ポール・トーマス・アンダーソン監督
-  - 2009年度『[白いリボン](https://ja.wikipedia.org/wiki/白いリボン "wikilink")』[ミヒャエル・ハネケ](https://ja.wikipedia.org/wiki/ミヒャエル・ハネケ "wikilink")監督
-  - 2010年度『[ゴーストライター](https://ja.wikipedia.org/wiki/ゴーストライター_\(映画\) "wikilink")』[ロマン・ポランスキー](https://ja.wikipedia.org/wiki/ロマン・ポランスキー "wikilink")監督
-  - 2011年度『[ツリー・オブ・ライフ](https://ja.wikipedia.org/wiki/ツリー・オブ・ライフ_\(映画\) "wikilink")』[テレンス・マリック](https://ja.wikipedia.org/wiki/テレンス・マリック "wikilink")監督
+  - 2005年度『[うつせみ](https://ja.wikipedia.org/wiki/うつせみ_\(映画\) "wikilink")』[キム・ギドク](../Page/キム・ギドク.md "wikilink")監督
+  - 2006年度『[ボルベール〈帰郷〉](../Page/ボルベール〈帰郷〉.md "wikilink")』ペドロ・アルモドバル監督
+  - 2007年度『[4ヶ月、3週と2日](../Page/4ヶ月、3週と2日.md "wikilink")』[クリスティアン・ムンジウ](../Page/クリスティアン・ムンジウ.md "wikilink")監督
+  - 2008年度『[ゼア・ウィル・ビー・ブラッド](../Page/ゼア・ウィル・ビー・ブラッド.md "wikilink")』ポール・トーマス・アンダーソン監督
+  - 2009年度『[白いリボン](https://ja.wikipedia.org/wiki/白いリボン "wikilink")』[ミヒャエル・ハネケ](../Page/ミヒャエル・ハネケ.md "wikilink")監督
+  - 2010年度『[ゴーストライター](https://ja.wikipedia.org/wiki/ゴーストライター_\(映画\) "wikilink")』[ロマン・ポランスキー](../Page/ロマン・ポランスキー.md "wikilink")監督
+  - 2011年度『[ツリー・オブ・ライフ](https://ja.wikipedia.org/wiki/ツリー・オブ・ライフ_\(映画\) "wikilink")』[テレンス・マリック](../Page/テレンス・マリック.md "wikilink")監督
   - 2012年度『[愛、アムール](https://ja.wikipedia.org/wiki/愛、アムール "wikilink")』ミヒャエル・ハネケ監督
   - 2013年度『[アデル、ブルーは熱い色](https://ja.wikipedia.org/wiki/アデル、ブルーは熱い色 "wikilink")』[アブデラティフ・ケシシュ](https://ja.wikipedia.org/wiki/アブデラティフ・ケシシュ "wikilink")監督
-  - 2014年度『[6才のボクが、大人になるまで。](https://ja.wikipedia.org/wiki/6才のボクが、大人になるまで。 "wikilink")』[リチャード・リンクレイター](https://ja.wikipedia.org/wiki/リチャード・リンクレイター "wikilink")監督
+  - 2014年度『[6才のボクが、大人になるまで。](https://ja.wikipedia.org/wiki/6才のボクが、大人になるまで。 "wikilink")』[リチャード・リンクレイター](../Page/リチャード・リンクレイター.md "wikilink")監督
   - 2015年度『[マッドマックス 怒りのデス・ロード](https://ja.wikipedia.org/wiki/マッドマックス_怒りのデス・ロード "wikilink")』[ジョージ・ミラー監督](../Page/ジョージ・ミラー_\(プロデューサー\).md "wikilink")
   - 2016年度『[ありがとう、トニ・エルドマン](https://ja.wikipedia.org/wiki/ありがとう、トニ・エルドマン "wikilink")』[マーレン・アデ](https://ja.wikipedia.org/wiki/マーレン・アデ "wikilink")監督
   - 2017年度『[希望のかなた](https://ja.wikipedia.org/wiki/希望のかなた "wikilink")』アキ・カウリスマキ監督

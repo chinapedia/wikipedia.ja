@@ -5,43 +5,43 @@
 
 ## 大会概要
 
-第7試合では[イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink")が[マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink")にTKO勝ちしたが、反則であるグラウンド状態での頭部への膝蹴りがあったため、後日TKO勝ちから[無効試合](https://ja.wikipedia.org/wiki/無効試合 "wikilink")へと裁定変更された。
+第7試合では[イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink")が[マーク・ケアー](../Page/マーク・ケアー.md "wikilink")にTKO勝ちしたが、反則であるグラウンド状態での頭部への膝蹴りがあったため、後日TKO勝ちから[無効試合](../Page/無効試合.md "wikilink")へと裁定変更された。
 
-メインイベントでは[高田延彦](../Page/高田延彦.md "wikilink")が[アレクサンダー大塚](https://ja.wikipedia.org/wiki/アレクサンダー大塚 "wikilink")から[スリーパーホールドで見込み一本勝ちを収めた](https://ja.wikipedia.org/wiki/裸絞 "wikilink")。
+メインイベントでは[高田延彦](../Page/高田延彦.md "wikilink")が[アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink")から[スリーパーホールドで見込み一本勝ちを収めた](../Page/裸絞.md "wikilink")。
 
-[IVCライトヘビー級王者](https://ja.wikipedia.org/wiki/International_Vale_Tudo_Championship "wikilink")[ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink")がPRIDEデビュー。
+[IVCライトヘビー級王者](https://ja.wikipedia.org/wiki/International_Vale_Tudo_Championship "wikilink")[ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")がPRIDEデビュー。
 
 ## 試合結果
 
   - 第1試合 PRIDEルール 10分2R、延長5分1R
-    ○  [松井大二郎](https://ja.wikipedia.org/wiki/松井大二郎 "wikilink") vs.  ボブ・シュライバー ×
+    ○  [松井大二郎](../Page/松井大二郎.md "wikilink") vs.  ボブ・シュライバー ×
     1R終了時 反則失格（注意3回）
     ※[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")・タイムストップ時の攻撃・ラウンド終了後の攻撃によりレッドカードが提示された。
   - 第2試合 PRIDEルール 10分2R、延長5分1R
-    ○  [ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink") vs.  [カール・マレンコ](https://ja.wikipedia.org/wiki/カール・マレンコ "wikilink") ×
+    ○  [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink") vs.  [カール・マレンコ](https://ja.wikipedia.org/wiki/カール・マレンコ "wikilink") ×
     2R終了 判定6-0
   - 第3試合 PRIDEコンテンダーズルール 8分2R
-    ○  [エンセン井上](https://ja.wikipedia.org/wiki/エンセン井上 "wikilink") vs.  トゥリー・クリハーパイ ×
-    1R 1:15 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [エンセン井上](../Page/エンセン井上.md "wikilink") vs.  トゥリー・クリハーパイ ×
+    1R 1:15 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第4試合 PRIDEルール 10分2R、延長5分1R
-    ○  [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink") vs.  [ブランコ・シカティック](../Page/ブランコ・シカティック.md "wikilink") ×
+    ○  [モーリス・スミス](../Page/モーリス・スミス.md "wikilink") vs.  [ブランコ・シカティック](../Page/ブランコ・シカティック.md "wikilink") ×
     1R 7:33 ギロチンチョーク（前腕チョーク）
   - 第5試合 PRIDEルール 10分2R、延長5分1R
-    ○  [小路晃](https://ja.wikipedia.org/wiki/小路晃 "wikilink") vs.  ラリー・パーカー ×
+    ○  [小路晃](../Page/小路晃.md "wikilink") vs.  ラリー・パーカー ×
     延長R終了 判定3-0
   - 第6試合 PRIDEルール 10分2R、延長5分1R
     ○  [桜庭和志](../Page/桜庭和志.md "wikilink") vs.  アンソニー・マシアス ×
-    2R 2:30 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    2R 2:30 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第7試合 PRIDEルール 10分2R、延長5分1R
-    －  [イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink") vs.  [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink") －
+    －  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") vs.  [マーク・ケアー](../Page/マーク・ケアー.md "wikilink") －
     2R 4:45 無効試合（反則）
   - 第8試合 PRIDEルール 10分2R、延長5分1R
-    ○  [高田延彦](../Page/高田延彦.md "wikilink") vs.  [アレクサンダー大塚](https://ja.wikipedia.org/wiki/アレクサンダー大塚 "wikilink") ×
-    2R 1:32 TKO（レフェリーストップ：[スリーパーホールド](https://ja.wikipedia.org/wiki/裸絞 "wikilink")）
+    ○  [高田延彦](../Page/高田延彦.md "wikilink") vs.  [アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink") ×
+    2R 1:32 TKO（レフェリーストップ：[スリーパーホールド](../Page/裸絞.md "wikilink")）
 
 ## 関連項目
 
-  - [PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧 "wikilink")
+  - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
 
 ## 外部リンク
 

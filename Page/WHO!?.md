@@ -5,7 +5,7 @@
 
 ## あらすじ
 
-高校3年生の東山風子（ふうこ）は、父親の転勤を機に、東京は[向島にある大福屋](https://ja.wikipedia.org/wiki/向島_\(墨田区\) "wikilink")（だいふくや）という和菓子店の長男・吉生と結婚する。店を切り盛りするしっかり者の母親をはじめ、父親・おじいちゃん・おばあちゃん・姉・妹・弟の8人家族に飛びこんだ、風子の新しい生活が始まる。
+高校3年生の東山風子（ふうこ）は、父親の転勤を機に、東京は[向島にある大福屋](../Page/向島_\(墨田区\).md "wikilink")（だいふくや）という和菓子店の長男・吉生と結婚する。店を切り盛りするしっかり者の母親をはじめ、父親・おじいちゃん・おばあちゃん・姉・妹・弟の8人家族に飛びこんだ、風子の新しい生活が始まる。
 
 ## テレビドラマ
 
@@ -13,27 +13,27 @@
 
 ### キャスト
 
-  - 東山風子 - 星野真理（現・[星野真里](https://ja.wikipedia.org/wiki/星野真里 "wikilink")）
+  - 東山風子 - 星野真理（現・[星野真里](../Page/星野真里.md "wikilink")）
       -
         高校3年生。将来の夢は「お嫁さん」。たまたま通りかかった「大福屋」の店頭で吉生を見て、一目ぼれする。
   - 大福美乃 - [木の実ナナ](https://ja.wikipedia.org/wiki/木の実ナナ "wikilink")
       -
         和菓子店「大福屋」の女将。吉生の母。
-  - 大福吉生 - [正木蒼二](https://ja.wikipedia.org/wiki/正木蒼二 "wikilink")
+  - 大福吉生 - [正木蒼二](../Page/正木蒼二.md "wikilink")
       -
         「大福屋」の和菓子職人。
-  - 大福吉乃 - [杉本彩](https://ja.wikipedia.org/wiki/杉本彩 "wikilink")
+  - 大福吉乃 - [杉本彩](../Page/杉本彩.md "wikilink")
   - 大福吉美 - [渋谷琴乃](../Page/渋谷琴乃.md "wikilink")
-  - 大福吉郎 - [いしいすぐる](https://ja.wikipedia.org/wiki/いしいすぐる "wikilink")
-  - 三枝美里 - [そめやゆきこ](https://ja.wikipedia.org/wiki/そめやゆきこ "wikilink")
+  - 大福吉郎 - [いしいすぐる](../Page/いしいすぐる.md "wikilink")
+  - 三枝美里 - [そめやゆきこ](../Page/そめやゆきこ.md "wikilink")
   - 田村愛 - [前田亜季](../Page/前田亜季.md "wikilink")
   - 大福吉兵衛 - [奥村公延](../Page/奥村公延.md "wikilink")
       -
         大福家のおじいちゃん。
-  - 大福カツ - [銀粉蝶](https://ja.wikipedia.org/wiki/銀粉蝶 "wikilink")
-  - 大福サダ　-　[花原照子](https://ja.wikipedia.org/wiki/花原照子 "wikilink")
-  - 大福吉造 - [石橋正次](https://ja.wikipedia.org/wiki/石橋正次 "wikilink")
-  - 小倉 - [田中優樹](https://ja.wikipedia.org/wiki/田中優樹 "wikilink")
+  - 大福カツ - [銀粉蝶](../Page/銀粉蝶.md "wikilink")
+  - 大福サダ　-　[花原照子](../Page/花原照子.md "wikilink")
+  - 大福吉造 - [石橋正次](../Page/石橋正次.md "wikilink")
+  - 小倉 - [田中優樹](../Page/田中優樹.md "wikilink")
   - 由美 - [真家瑠美子](https://ja.wikipedia.org/wiki/真家瑠美子 "wikilink")
 
 ### スタッフ
@@ -43,6 +43,6 @@
 
 ### 主題歌
 
-  - 「Feel」[GARDEN](https://ja.wikipedia.org/wiki/GARDEN_\(音楽ユニット\) "wikilink")
+  - 「Feel」[GARDEN](../Page/GARDEN_\(音楽ユニット\).md "wikilink")
 
 [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:mimi](https://ja.wikipedia.org/wiki/Category:mimi "wikilink") [Category:菓子・製菓業を題材とした漫画](https://ja.wikipedia.org/wiki/Category:菓子・製菓業を題材とした漫画 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:墨田区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:墨田区を舞台とした作品 "wikilink") [Category:愛の劇場](https://ja.wikipedia.org/wiki/Category:愛の劇場 "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:ケイファクトリーのテレビドラマ](https://ja.wikipedia.org/wiki/Category:ケイファクトリーのテレビドラマ "wikilink") [Category:菓子・製菓業を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:菓子・製菓業を題材としたテレビドラマ "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink") [Category:東京を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:東京を舞台としたテレビドラマ "wikilink")

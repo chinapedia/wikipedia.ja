@@ -1,7 +1,7 @@
 > この記事は[ AOGRA](https://ja.wikipedia.org/wiki/_AOGRA)から翻訳されています。
 
 
-『**アオグラ**』は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。原作は[川上健一](https://ja.wikipedia.org/wiki/川上健一 "wikilink")の『[四月になれば彼女は](https://ja.wikipedia.org/wiki/四月になれば彼女は "wikilink")』。[シネハウス](https://ja.wikipedia.org/wiki/シネハウス "wikilink")製作。[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")の主演映画。2006年7月に第15回[あおもり映画祭](https://ja.wikipedia.org/wiki/あおもり映画祭 "wikilink")において先行上映された。第6回「[光州国際映画祭](https://ja.wikipedia.org/wiki/光州国際映画祭 "wikilink")」（[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")）では、公式招待作品として上映されている。
+『**アオグラ**』は[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。原作は[川上健一](../Page/川上健一.md "wikilink")の『[四月になれば彼女は](https://ja.wikipedia.org/wiki/四月になれば彼女は "wikilink")』。[シネハウス](../Page/シネハウス.md "wikilink")製作。[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")の主演映画。2006年7月に第15回[あおもり映画祭](https://ja.wikipedia.org/wiki/あおもり映画祭 "wikilink")において先行上映された。第6回「[光州国際映画祭](https://ja.wikipedia.org/wiki/光州国際映画祭 "wikilink")」（[韓国](../Page/大韓民国.md "wikilink")）では、公式招待作品として上映されている。
 
 「アオグラ AOGRA」と表記されることが多いがこれはタイトルロゴに「AOGRA」が含まれていることによる誤記で、正式なタイトルは「アオグラ」である。
 
@@ -11,7 +11,7 @@
 
 高校を卒業しそれぞれが明日から進学、就職と新たな道に向かって出発する直前の日。更には地元に残る者、札幌や仙台、東京へと旅立つ者たちにとって友人たちと過ごす最後の日。かつて野球部のエースとして活躍したが肩の故障を機に引退し、クサっていた主人公沢木は学校で紹介された地元工務店への就職が決まっていた。しかし、親友伝法寺の駆け落ちの手伝いをしたことで事態は思いも寄らない方向へズレだしていく。
 
-[アメリカン・グラフィティ](https://ja.wikipedia.org/wiki/アメリカン・グラフィティ "wikilink")（アメグラ）をモチーフにした24時間の物語。
+[アメリカン・グラフィティ](../Page/アメリカン・グラフィティ.md "wikilink")（アメグラ）をモチーフにした24時間の物語。
 
 青森の青二才の心がグラグラと揺れ、グラグラと煮立って予定調和の人生から吹き零れる。
 
@@ -20,16 +20,16 @@
 ## キャスト
 
   - 沢木 圭太：[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")
-  - 伝法寺 義春：[橋爪遼](https://ja.wikipedia.org/wiki/橋爪遼 "wikilink")
-  - ベラマッチャ(上松) ：[坂本真](https://ja.wikipedia.org/wiki/坂本真 "wikilink")
-  - 小比類巻：[徳山秀典](https://ja.wikipedia.org/wiki/徳山秀典 "wikilink")
-  - 高城 信吾：[大口兼悟](https://ja.wikipedia.org/wiki/大口兼悟 "wikilink")
-  - 北川 景治：[荒川優](https://ja.wikipedia.org/wiki/荒川優 "wikilink")
+  - 伝法寺 義春：[橋爪遼](../Page/橋爪遼.md "wikilink")
+  - ベラマッチャ(上松) ：[坂本真](../Page/坂本真.md "wikilink")
+  - 小比類巻：[徳山秀典](../Page/徳山秀典.md "wikilink")
+  - 高城 信吾：[大口兼悟](../Page/大口兼悟.md "wikilink")
+  - 北川 景治：[荒川優](../Page/荒川優.md "wikilink")
   - 二瓶 みどり：[阪田瑞穂](../Page/阪田瑞穂.md "wikilink")
   - 武田先生：[原田龍二](../Page/原田龍二.md "wikilink")
-  - 坂崎 熊夫：[渡辺哲](https://ja.wikipedia.org/wiki/渡辺哲 "wikilink")
+  - 坂崎 熊夫：[渡辺哲](../Page/渡辺哲.md "wikilink")
   - 沢木 静江：[高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink")
-  - 坂崎 洋子：[秋山実希](https://ja.wikipedia.org/wiki/秋山実希 "wikilink")
+  - 坂崎 洋子：[秋山実希](../Page/秋山実希.md "wikilink")
   - ユタカ：[少路勇介](../Page/少路勇介.md "wikilink")
   - オト（乙幡 康男）：[雪嶋直樹](https://ja.wikipedia.org/wiki/雪嶋直樹 "wikilink")
   - サイ（元弘 才蔵）：[関根裕介](../Page/関根裕介.md "wikilink")

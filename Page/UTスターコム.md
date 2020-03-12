@@ -7,13 +7,13 @@
 
 同社はキャリアクラスのブロードバンド伝送及びワイヤレス回線([Wi-Fi](../Page/Wi-Fi.md "wikilink"))と固定回線双方を含むアクセス製品及びソリューション、モバイルバックホールの最適化、メトロアグリゲーション、ブロードバンドアクセス及び[Wi-Fi](../Page/Wi-Fi.md "wikilink")データに注力している。
 
-ブロードバンド製品ラインには、[Multi-protocol Label Switching](https://ja.wikipedia.org/wiki/Multi-Protocol_Label_Switching "wikilink")-Transport Profile  (MPLS-TP)とネットワークの発展をサポートするためのin-house [SDNプラットフォームとMSANプラットフォームを通じて向上したキャリア](https://ja.wikipedia.org/wiki/Software_Defined_Networking "wikilink")[イーサネット](../Page/イーサネット.md "wikilink")技術を基礎とした、パケット伝送ネットワーク(PTN)製品が含まれる。ワイヤレスブロードバンドアクセスはエンドツーエンドのキャリア[Wi-Fi](../Page/Wi-Fi.md "wikilink")ソリューションに代表される。
+ブロードバンド製品ラインには、[Multi-protocol Label Switching](../Page/Multi-Protocol_Label_Switching.md "wikilink")-Transport Profile  (MPLS-TP)とネットワークの発展をサポートするためのin-house [SDNプラットフォームとMSANプラットフォームを通じて向上したキャリア](https://ja.wikipedia.org/wiki/Software_Defined_Networking "wikilink")[イーサネット](../Page/イーサネット.md "wikilink")技術を基礎とした、パケット伝送ネットワーク(PTN)製品が含まれる。ワイヤレスブロードバンドアクセスはエンドツーエンドのキャリア[Wi-Fi](../Page/Wi-Fi.md "wikilink")ソリューションに代表される。
 
 ユーティースターコムは世界の市場に売り出された製品ラインの確立に加え、さらに新しい市場の探求と、インテリジェントカスタマーエッジデバイス(バーチャルブロードバンド[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink"))及びデータセンタースイッチプロダクトを含む新しい製品の開発を行っている。
 
 ## 歴史
 
-ユーティースターコムはUnitech Telecomとして1991年に創立された。創立者は[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")に生まれ[アメリカで教育を受けた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、企業家のHong Liang Luである。
+ユーティースターコムはUnitech Telecomとして1991年に創立された。創立者は[中国](../Page/中国.md "wikilink")に生まれ[アメリカで教育を受けた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、企業家のHong Liang Luである。
 
 設立時の同社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[オークランドに拠点を構えた](../Page/オークランド_\(カリフォルニア州\).md "wikilink")。初期に中国の通信市場に焦点をあて、1993年杭州に最初の中国拠点が設立された。1995年、Unitech TelecomはYing WuとChauncey Shey によって設立されたStarcom Networksと合併し、UTStarcomとなった。
 
@@ -25,7 +25,7 @@
 
 2008年7月、パーソナルコミュニケーションデバイスをAIGインベストメンツに販売した。
 
-創立以来、ユーティースターコムは幅広い通信システム及びソリューションの領域を包含している。例えば、NGN & ソフトスイッチシステム、[IPTVプラットフォーム](https://ja.wikipedia.org/wiki/IPテレビ "wikilink")、パーソナルアクセスシステム(PAS)技術、[3Gモバイル技術](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、光伝送ソリューション、ブロードバンドなど。またMSAN、DSLAM、ギガビットEPON(GEPON)、様々な加入者装置を含むIPベースの通信なども含まれる。
+創立以来、ユーティースターコムは幅広い通信システム及びソリューションの領域を包含している。例えば、NGN & ソフトスイッチシステム、[IPTVプラットフォーム](https://ja.wikipedia.org/wiki/IPテレビ "wikilink")、パーソナルアクセスシステム(PAS)技術、[3Gモバイル技術](../Page/第3世代移動通信システム.md "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、光伝送ソリューション、ブロードバンドなど。またMSAN、DSLAM、ギガビットEPON(GEPON)、様々な加入者装置を含むIPベースの通信なども含まれる。
 
 近年同社が焦点を当てているのは、パケット光ネットワーク装置、ワイヤレス製品、ブロードバンドアクセス装置、SDN関係のソリューションである。
 

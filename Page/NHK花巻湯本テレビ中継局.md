@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK花巻湯本テレビ中継局**（エヌエイチケイはなまきゆもとテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[花巻市](https://ja.wikipedia.org/wiki/花巻市 "wikilink")にある[NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
+**NHK花巻湯本テレビ中継局**（エヌエイチケイはなまきゆもとテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[花巻市](../Page/花巻市.md "wikilink")にある[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
@@ -14,10 +14,10 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a><br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a><br />
 番号</p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -29,7 +29,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>映像100mW<br />
 /音声25mW</p></td>
 <td><p>映像350mW<br />
@@ -42,7 +42,7 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>NHK<br />
-盛岡<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+盛岡<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
 <td></td>
@@ -62,8 +62,8 @@
 
 ## 関連項目
 
-  - [花巻市](https://ja.wikipedia.org/wiki/花巻市 "wikilink")
-  - [NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")
+  - [花巻市](../Page/花巻市.md "wikilink")
+  - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [花巻湯口テレビ中継局](../Page/花巻湯口テレビ中継局.md "wikilink")
   - [紫波新山](https://ja.wikipedia.org/wiki/紫波新山 "wikilink")（盛岡テレビ本局置局）
 

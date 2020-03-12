@@ -10,7 +10,7 @@
 size_t fwrite(void *buf, size_t size, size_t nmemb, FILE* stream);
 ```
 
-戻り値は書き込んだ項目数である。 `buf`に格納されている大きさ`size`の最大`nmemb`個の要素を`stream`の指すストリームに書き込む。 もし`stream`がテキストモードで開かれていれば、[改行コード](https://ja.wikipedia.org/wiki/改行コード "wikilink")CRはCR+LFに置換される。 ただしその場合でも戻り値に影響はない。
+戻り値は書き込んだ項目数である。 `buf`に格納されている大きさ`size`の最大`nmemb`個の要素を`stream`の指すストリームに書き込む。 もし`stream`がテキストモードで開かれていれば、[改行コード](../Page/改行コード.md "wikilink")CRはCR+LFに置換される。 ただしその場合でも戻り値に影響はない。
 
 ## コード例
 

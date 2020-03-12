@@ -1,19 +1,19 @@
 > この記事は[MEW](https://ja.wikipedia.org/wiki/MEW)から翻訳されています。
 
 
-「**夜明けのMEW**」（よあけのミュー）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月に[リリース](https://ja.wikipedia.org/wiki/リリース "wikilink")した19枚目の[シングル](../Page/シングル.md "wikilink")である([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): SV-9147)。
+「**夜明けのMEW**」（よあけのミュー）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月に[リリース](../Page/リリース.md "wikilink")した19枚目の[シングル](../Page/シングル.md "wikilink")である([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): SV-9147)。
 
 ## 解説
 
-  - 1986年末の『[第37回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")』に出場し、本曲を歌唱した。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")11月に、8cmCDをリリースした（[カップリングは](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「[魔女](../Page/魔女_\(小泉今日子の曲\).md "wikilink")」）。
+  - 1986年末の『[第37回NHK紅白歌合戦](../Page/第37回NHK紅白歌合戦.md "wikilink")』に出場し、本曲を歌唱した。
+  - [1991年](../Page/1991年.md "wikilink")11月に、8cmCDをリリースした（[カップリングは](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「[魔女](../Page/魔女_\(小泉今日子の曲\).md "wikilink")」）。
 
 ## 収録曲詳細
 
 ### 夜明けのMEW
 
 1.  **夜明けのMEW**
-      - 作詞:[秋元康](../Page/秋元康.md "wikilink")／作曲:[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")／編曲:[武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")
+      - 作詞:[秋元康](../Page/秋元康.md "wikilink")／作曲:[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")／編曲:[武部聡志](../Page/武部聡志.md "wikilink")
 2.  **Non Non Non**
       - 作詞:秋元康／作曲:筒美京平／編曲:武部聡志
 
@@ -26,7 +26,7 @@
 
 ## 関連項目
 
-  - [1986年の音楽](https://ja.wikipedia.org/wiki/1986年の音楽 "wikilink")
+  - [1986年の音楽](../Page/1986年の音楽.md "wikilink")
   - [安座間美優](https://ja.wikipedia.org/wiki/安座間美優 "wikilink")（名前の読み仮名「みゅう」がこの曲からつけられた）
   - [クレヨンしんちゃん 超時空\!嵐を呼ぶオラの花嫁](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_超時空!嵐を呼ぶオラの花嫁 "wikilink")（挿入歌として起用される）
 

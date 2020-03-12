@@ -5,17 +5,17 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月7日、不動産業者のクルト・オットーとウィザード誌の創刊者ガレブ・シェイマスが設立。代表には[SHOWTIME](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")[ボクシング](../Page/ボクシング.md "wikilink")中継の責任者だったジェイ・ラーキンが就任した\[2\]\[3\]。
+[2006年](../Page/2006年.md "wikilink")1月7日、不動産業者のクルト・オットーとウィザード誌の創刊者ガレブ・シェイマスが設立。代表には[SHOWTIME](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")[ボクシング](../Page/ボクシング.md "wikilink")中継の責任者だったジェイ・ラーキンが就任した\[2\]\[3\]。
 
-旗揚げ前には[FOXスポーツ](../Page/FOXスポーツ.md "wikilink")との放映契約を成立させ、開幕戦には[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")をリングサイドに座らせ、解説には[クイントン・"ランペイジ"・ジャクソンを迎えた](https://ja.wikipedia.org/wiki/クイントン・ジャクソン "wikilink")。IFLは株式を上場して資金を調達、一時は株価が17ドルの高値をつけるなど、規格外のスケールでのスタートとなった\[4\]。しかし、その後は株価は5セントまで落ち込み、3,200万ドルの負債を抱える財政上の理由から大会も中止になり\[5\]\[6\]、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に副代表のジョー・フェボリートがIFLの売却を発表した。複数のメディアは[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")を運営する[ズッファ](https://ja.wikipedia.org/wiki/ズッファ "wikilink")が売却先だと報じた\[7\]。
+旗揚げ前には[FOXスポーツ](../Page/FOXスポーツ.md "wikilink")との放映契約を成立させ、開幕戦には[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")をリングサイドに座らせ、解説には[クイントン・"ランペイジ"・ジャクソンを迎えた](../Page/クイントン・ジャクソン.md "wikilink")。IFLは株式を上場して資金を調達、一時は株価が17ドルの高値をつけるなど、規格外のスケールでのスタートとなった\[4\]。しかし、その後は株価は5セントまで落ち込み、3,200万ドルの負債を抱える財政上の理由から大会も中止になり\[5\]\[6\]、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に副代表のジョー・フェボリートがIFLの売却を発表した。複数のメディアは[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")を運営する[ズッファ](https://ja.wikipedia.org/wiki/ズッファ "wikilink")が売却先だと報じた\[7\]。
 
 ## ルール
 
 一般的な総合格闘技ルールとの違いは、4分3ラウンド制、エルボー禁止などであった。試合場については金網ではなくリングを使用していた。
 
-IFLは、各12チームがライト、ウェルター、ミドル、ライトヘビー、ヘビー級の5人とリザーブ選手1人の計6人を揃え、4チームずつ各階級の5試合対抗戦でトーナメントを行う。各トーナメントの終わりに[プレーオフ](https://ja.wikipedia.org/wiki/プレーオフ "wikilink")で当たり、優勝したチームがシーズンチャンピオンとなる。つまり、[NFL](../Page/NFL.md "wikilink")や[NBA](../Page/NBA.md "wikilink")と似たようなシステムとなっていた。
+IFLは、各12チームがライト、ウェルター、ミドル、ライトヘビー、ヘビー級の5人とリザーブ選手1人の計6人を揃え、4チームずつ各階級の5試合対抗戦でトーナメントを行う。各トーナメントの終わりに[プレーオフ](../Page/プレーオフ.md "wikilink")で当たり、優勝したチームがシーズンチャンピオンとなる。つまり、[NFL](../Page/NFL.md "wikilink")や[NBA](../Page/NBA.md "wikilink")と似たようなシステムとなっていた。
 
-チームを率いていたコーチ陣は、[ドン・フライ](https://ja.wikipedia.org/wiki/ドン・フライ "wikilink")、[ヘンゾ・グレイシー](https://ja.wikipedia.org/wiki/ヘンゾ・グレイシー "wikilink")、[バス・ルッテン](https://ja.wikipedia.org/wiki/バス・ルッテン "wikilink")、[モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink")、[マルコ・ファス](../Page/マルコ・ファス.md "wikilink")など。スーパーファイトではコーチ対決も実現した。当初は、日本からもアントニオ猪木率いる東京サーベルズが参戦していた\[8\]。
+チームを率いていたコーチ陣は、[ドン・フライ](../Page/ドン・フライ.md "wikilink")、[ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink")、[バス・ルッテン](../Page/バス・ルッテン.md "wikilink")、[モーリス・スミス](../Page/モーリス・スミス.md "wikilink")、[マルコ・ファス](../Page/マルコ・ファス.md "wikilink")など。スーパーファイトではコーチ対決も実現した。当初は、日本からもアントニオ猪木率いる東京サーベルズが参戦していた\[8\]。
 
 ## 階級・王座
 
@@ -31,32 +31,32 @@ IFLは、各12チームがライト、ウェルター、ミドル、ライトヘ
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘビー級" title="wikilink">ヘビー級</a></p></td>
+<td><p><a href="../Page/ヘビー級.md" title="wikilink">ヘビー級</a></p></td>
 <td><p>-265lbs: -120.2kg</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロイ・ネルソン" title="wikilink">ロイ・ネルソン</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライトヘビー級" title="wikilink">ライトヘビー級</a></p></td>
+<td><p><a href="../Page/ライトヘビー級.md" title="wikilink">ライトヘビー級</a></p></td>
 <td><p>-205lbs: -93.0kg</p></td>
 <td><p><a href="../Page/ウラジミール・マティシェンコ.md" title="wikilink">ウラジミール・マティシェンコ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミドル級" title="wikilink">ミドル級</a></p></td>
+<td><p><a href="../Page/ミドル級.md" title="wikilink">ミドル級</a></p></td>
 <td><p>-185lbs: -83.9kg</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダン・ミラー" title="wikilink">ダン・ミラー</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェルター級" title="wikilink">ウェルター級</a></p></td>
+<td><p><a href="../Page/ウェルター級.md" title="wikilink">ウェルター級</a></p></td>
 <td><p>-170lbs: -77.1kg</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイ・ヒエロン" title="wikilink">ジェイ・ヒエロン</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ライト級" title="wikilink">ライト級</a></p></td>
+<td><p><a href="../Page/ライト級.md" title="wikilink">ライト級</a></p></td>
 <td><p>-155lbs: -70.3kg</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライアン・シュルツ" title="wikilink">ライアン・シュルツ</a></p></td>
+<td><p><a href="../Page/ライアン・シュルツ.md" title="wikilink">ライアン・シュルツ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェザー級" title="wikilink">フェザー級</a></p></td>
+<td><p><a href="../Page/フェザー級.md" title="wikilink">フェザー級</a></p></td>
 <td><p>-145lbs: -65.8kg</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァグネイ・ファビアーノ" title="wikilink">ヴァグネイ・ファビアーノ</a></p></td>
 </tr>
@@ -85,7 +85,7 @@ IFLは、各12チームがライト、ウェルター、ミドル、ライトヘ
 
 [Category:現在活動していない総合格闘技団体](https://ja.wikipedia.org/wiki/Category:現在活動していない総合格闘技団体 "wikilink") [Category:アメリカ合衆国のスポーツ組織](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスポーツ組織 "wikilink") [Category:現存しないスポーツリーグ](https://ja.wikipedia.org/wiki/Category:現存しないスポーツリーグ "wikilink") [Category:FOX](https://ja.wikipedia.org/wiki/Category:FOX "wikilink") [Category:UFC](https://ja.wikipedia.org/wiki/Category:UFC "wikilink")
 
-1.  [UFC・PRIDE交流は本当に実現するか?(1)](http://allabout.co.jp/sports/k1/closeup/CU20060927A/) [All About](https://ja.wikipedia.org/wiki/All_About "wikilink") 2006年9月27日
+1.  [UFC・PRIDE交流は本当に実現するか?(1)](http://allabout.co.jp/sports/k1/closeup/CU20060927A/) [All About](../Page/All_About.md "wikilink") 2006年9月27日
 2.  [【on this day in】12月29日──2007年](http://mmaplanet.jp/42834) MMAPLANET 2014年12月29日
 3.  [訃報 元IFL ジェイ・ラーキンCEO死去](http://mmaplanet.jp/1546) MMAPLANET 2010年8月10日
 4.  [IFL 4.29 米国：チーム対抗戦大会が大々的に旗揚げ](http://www.boutreview.com/data/reports05/060429ifl.html) バウトレビュー 2006年5月2日

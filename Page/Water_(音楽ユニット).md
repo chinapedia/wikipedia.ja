@@ -1,15 +1,15 @@
 > この記事は[Water \(\)](https://ja.wikipedia.org/wiki/Water_\(\))から翻訳されています。
 
 
-**Water**（ウォーター）は、ボーカリストの小林理恵子を中心とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[South to North Records](https://ja.wikipedia.org/wiki/レイズイン#South_to_North_Records "wikilink")、所属[事務所](../Page/事務所.md "wikilink")は[レイズイン](https://ja.wikipedia.org/wiki/レイズイン "wikilink")。
+**Water**（ウォーター）は、ボーカリストの小林理恵子を中心とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[South to North Records](https://ja.wikipedia.org/wiki/レイズイン#South_to_North_Records "wikilink")、所属[事務所](../Page/事務所.md "wikilink")は[レイズイン](../Page/レイズイン.md "wikilink")。
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")のデビュー以来、4枚のシングルと2枚のアルバムを発売し、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内を中心にライブを実施。[キャッチフレーズは](../Page/キャッチコピー.md "wikilink")「水のようにピュアな歌声」\[1\]。
+[2004年](../Page/2004年.md "wikilink")のデビュー以来、4枚のシングルと2枚のアルバムを発売し、[東京都](../Page/東京都.md "wikilink")内を中心にライブを実施。[キャッチフレーズは](../Page/キャッチコピー.md "wikilink")「水のようにピュアな歌声」\[1\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にデビューより所属していた[ドリーミュージック](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")からSouth to North Recordsに移籍し、シングル「サクラ」を発売した。
+[2006年](../Page/2006年.md "wikilink")にデビューより所属していた[ドリーミュージック](../Page/ドリーミュージック.md "wikilink")からSouth to North Recordsに移籍し、シングル「サクラ」を発売した。
 
-デビュー当初は3人組であったが、シングル「サクラ」を最後に[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当の斉藤芽衣子と[作曲](../Page/作曲.md "wikilink")担当の安藤友洋の名前がなくなって小林の[ソロユニットとなり](../Page/一人バンド.md "wikilink")、「Water」の名称は小林自身と同義にも用いられるようになった。
+デビュー当初は3人組であったが、シングル「サクラ」を最後に[作詞](../Page/作詞.md "wikilink")担当の斉藤芽衣子と[作曲](../Page/作曲.md "wikilink")担当の安藤友洋の名前がなくなって小林の[ソロユニットとなり](../Page/一人バンド.md "wikilink")、「Water」の名称は小林自身と同義にも用いられるようになった。
 
 ## ユニット名の由来
 
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
 <td><p><strong>コトバにできない想い</strong></p></td>
 <td><p>ドリーミュージック</p></td>
 <td><p>MUCD-5074</p></td>
@@ -329,8 +329,8 @@
 <td><p><strong>クリスマスキャロルの頃には</strong></p></td>
 <td><p>South to North Records</p></td>
 <td><p>SNR-07023</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲垣潤一" title="wikilink">稲垣潤一</a>「<a href="https://ja.wikipedia.org/wiki/クリスマスキャロルの頃には" title="wikilink">クリスマスキャロルの頃には</a>」の<a href="../Page/カバー.md" title="wikilink">カバー</a>。<br />
-<a href="https://ja.wikipedia.org/wiki/ぴあ" title="wikilink">ぴあ</a>CD満足度ランキング1位。[3]</p></td>
+<td><p><a href="../Page/稲垣潤一.md" title="wikilink">稲垣潤一</a>「<a href="../Page/クリスマスキャロルの頃には.md" title="wikilink">クリスマスキャロルの頃には</a>」の<a href="../Page/カバー.md" title="wikilink">カバー</a>。<br />
+<a href="../Page/ぴあ.md" title="wikilink">ぴあ</a>CD満足度ランキング1位。[3]</p></td>
 </tr>
 <tr class="even">
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -432,7 +432,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><strong>このままずっと</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河村理沙" title="wikilink">LISSA</a></p></td>
+<td><p><a href="../Page/河村理沙.md" title="wikilink">LISSA</a></p></td>
 <td><p>山本重夫</p></td>
 <td><p>野中則夫</p></td>
 </tr>
@@ -564,12 +564,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/浜田省吾" title="wikilink">浜田省吾</a></p></td>
 <td><p>浜田省吾</p></td>
 <td><p>炭竃智弘</p></td>
-<td><p>浜田省吾「<a href="https://ja.wikipedia.org/wiki/悲しみは雪のように" title="wikilink">悲しみは雪のように</a>」のカバー。</p></td>
+<td><p>浜田省吾「<a href="../Page/悲しみは雪のように.md" title="wikilink">悲しみは雪のように</a>」のカバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p><strong>卒業</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尾崎豊" title="wikilink">尾崎豊</a></p></td>
+<td><p><a href="../Page/尾崎豊.md" title="wikilink">尾崎豊</a></p></td>
 <td><p>尾崎豊</p></td>
 <td><p>炭竃智弘</p></td>
 <td><p>尾崎豊「<a href="https://ja.wikipedia.org/wiki/卒業_(尾崎豊の曲)" title="wikilink">卒業</a>」のカバー。</p></td>
@@ -580,12 +580,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/草野正宗" title="wikilink">草野正宗</a></p></td>
 <td><p>草野正宗</p></td>
 <td><p>石井徳一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>「<a href="https://ja.wikipedia.org/wiki/ロビンソン_(曲)" title="wikilink">ロビンソン</a>」のカバー。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>「<a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a>」のカバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><strong>Missing</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a></p></td>
+<td><p><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a></p></td>
 <td><p>久保田利伸</p></td>
 <td><p>石井徳一</p></td>
 <td><p>久保田利伸「Missing」のカバー。</p></td>
@@ -593,7 +593,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><strong>壊れかけのRadio</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳永英明" title="wikilink">徳永英明</a></p></td>
+<td><p><a href="../Page/徳永英明.md" title="wikilink">徳永英明</a></p></td>
 <td><p>徳永英明</p></td>
 <td><p>石井徳一</p></td>
 <td><p>徳永英明「<a href="../Page/壊れかけのRadio.md" title="wikilink">壊れかけのRadio</a>」のカバー。</p></td>
@@ -601,10 +601,10 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p><strong>夏の日の1993</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本一起" title="wikilink">松本一起</a></p></td>
+<td><p><a href="../Page/松本一起.md" title="wikilink">松本一起</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤健_(作曲家)" title="wikilink">佐藤健</a></p></td>
 <td><p>石井徳一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/class_(音楽グループ)" title="wikilink">class</a>「<a href="https://ja.wikipedia.org/wiki/夏の日の1993" title="wikilink">夏の日の1993</a>」のカバー。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/class_(音楽グループ)" title="wikilink">class</a>「<a href="../Page/夏の日の1993.md" title="wikilink">夏の日の1993</a>」のカバー。</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -612,7 +612,7 @@
 <td><p>知久光康</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村耕一" title="wikilink">中村耕一</a></p></td>
 <td><p>石井徳一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_JAYWALK" title="wikilink">THE JAYWALK</a>「<a href="https://ja.wikipedia.org/wiki/何も言えなくて…夏" title="wikilink">何も言えなくて…夏</a>」のカバー。</p></td>
+<td><p><a href="../Page/THE_JAYWALK.md" title="wikilink">THE JAYWALK</a>「<a href="https://ja.wikipedia.org/wiki/何も言えなくて…夏" title="wikilink">何も言えなくて…夏</a>」のカバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -628,7 +628,7 @@
 <td><p><a href="../Page/小田和正.md" title="wikilink">小田和正</a></p></td>
 <td><p>小田和正</p></td>
 <td><p>石井徳一</p></td>
-<td><p>小田和正「<a href="https://ja.wikipedia.org/wiki/ラブ・ストーリーは突然に" title="wikilink">ラブ・ストーリーは突然に</a>」のカバー。</p></td>
+<td><p>小田和正「<a href="../Page/ラブ・ストーリーは突然に.md" title="wikilink">ラブ・ストーリーは突然に</a>」のカバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -636,7 +636,7 @@
 <td><p>小田和正</p></td>
 <td><p>小田和正</p></td>
 <td><p>石井徳一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a>「<a href="https://ja.wikipedia.org/wiki/さよなら_(オフコースの曲)" title="wikilink">さよなら</a>」のカバー。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a>「<a href="../Page/さよなら_(オフコースの曲).md" title="wikilink">さよなら</a>」のカバー。</p></td>
 </tr>
 </tbody>
 </table>
@@ -669,7 +669,7 @@
 <td><p>-</p></td>
 <td><p>2005年<a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/幻星神ジャスティライザー" title="wikilink">幻星神ジャスティライザー</a> 音楽集 智の巻</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本クラウン" title="wikilink">日本クラウン</a></p></td>
+<td><p><a href="../Page/日本クラウン.md" title="wikilink">日本クラウン</a></p></td>
 <td><p>CRCA-20017</p></td>
 <td></td>
 </tr>
@@ -758,13 +758,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/iTunes_Store" title="wikilink">iTunes Store</a></p></td>
 <td><p><strong>好きで好きで(Album Version)</strong><br />
 <strong>コトバにできない想い(Album Version)</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MP4" title="wikilink">m4a</a>(<a href="../Page/AAC.md" title="wikilink">AAC</a>形式)</p></td>
+<td><p><a href="../Page/MP4.md" title="wikilink">m4a</a>(<a href="../Page/AAC.md" title="wikilink">AAC</a>形式)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a> STORE</p></td>
 <td><p><strong>コトバにできない想い</strong><br />
 『<strong>Water Covers</strong>』全収録曲</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MP4" title="wikilink">mp4</a>(AAC形式)</p></td>
+<td><p><a href="../Page/MP4.md" title="wikilink">mp4</a>(AAC形式)</p></td>
 </tr>
 </tbody>
 </table>
@@ -781,7 +781,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Android" title="wikilink">Android</a></p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iPhone" title="wikilink">iPhone</a></p></td>
 <td></td>
 </tr>
@@ -839,7 +839,7 @@
 <td><p>6437-56</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/JOYSOUND" title="wikilink">JOYSOUND</a></p></td>
+<td><p><a href="../Page/JOYSOUND.md" title="wikilink">JOYSOUND</a></p></td>
 <td><p><strong>好きで好きで</strong></p></td>
 <td><p>926101</p></td>
 <td></td>
@@ -851,7 +851,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UGA_(カラオケ)" title="wikilink">UGA</a></p></td>
+<td><p><a href="../Page/UGA_(カラオケ).md" title="wikilink">UGA</a></p></td>
 <td><p><strong>好きで好きで</strong></p></td>
 <td><p>4481-02</p></td>
 <td></td>
@@ -875,7 +875,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Σsystem" title="wikilink">Σsystem</a></p></td>
+<td><p><a href="../Page/Σsystem.md" title="wikilink">Σsystem</a></p></td>
 <td><p><strong>好きで好きで</strong></p></td>
 <td><p>990B46</p></td>
 <td></td>
@@ -898,5 +898,5 @@
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink")
 
 1.  「MUSIC INFORMATION Water」『CLUB306』Vol.9(2009 Spring\&Summer)、サム&カンパニー。
-2.  「[巻末インタビュー / 日本を代表するX'masソング、稲垣潤一の「クリスマスキャロルの頃には」をカバー…Water](http://www.music-lounge.jp/interview/data/2007_12/water/index.html)」『New Can Magazine』2007年12月号、[キャンシステム](https://ja.wikipedia.org/wiki/キャンシステム "wikilink")。
+2.  「[巻末インタビュー / 日本を代表するX'masソング、稲垣潤一の「クリスマスキャロルの頃には」をカバー…Water](http://www.music-lounge.jp/interview/data/2007_12/water/index.html)」『New Can Magazine』2007年12月号、[キャンシステム](../Page/キャンシステム.md "wikilink")。
 3.  「[ぴあCD満足度ランキング](http://www.pia.co.jp/music/cd/071122cdranking.html) [稲垣潤一のクリスマス名曲をカバーしたWaterが満足度1位](http://www.pia.co.jp/news/hot/20071122_cdmanzokudo.html)」『Weeklyぴあ』2007年11月29日号、ぴあ。

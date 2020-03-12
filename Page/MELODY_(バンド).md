@@ -1,18 +1,18 @@
 > この記事は[MELODY \(\)](https://ja.wikipedia.org/wiki/MELODY_\(\))から翻訳されています。
 
 
-**MELODY**（メロディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")に解散したが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には一部メンバーで**スーパーウルトラミラクルロックバンド THE★MELODY**として再結成している。
+**MELODY**（メロディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")に解散したが、[2006年](../Page/2006年.md "wikilink")には一部メンバーで**スーパーウルトラミラクルロックバンド THE★MELODY**として再結成している。
 
 ## MELODY
 
-[1996年](../Page/1996年.md "wikilink")結成、[1999年](../Page/1999年.md "wikilink")に[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")より[メジャーデビューしたが](https://ja.wikipedia.org/wiki/メジャー・デビュー_\(音楽家\) "wikilink")、[2001年](../Page/2001年.md "wikilink")9月にRYOとMASASHIが脱退したことによって2002年春に解散となった。
+[1996年](../Page/1996年.md "wikilink")結成、[1999年](../Page/1999年.md "wikilink")に[日本クラウン](../Page/日本クラウン.md "wikilink")より[メジャーデビューしたが](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、[2001年](../Page/2001年.md "wikilink")9月にRYOとMASASHIが脱退したことによって2002年春に解散となった。
 
 ### メンバー
 
   - SHUJI（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
   - JIRO（[ギター](../Page/ギター.md "wikilink")）
-  - TATSUHIRO（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）
-  - RYO（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - TATSUHIRO（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
+  - RYO（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - MASASHI（[ドラムス](../Page/ドラムセット.md "wikilink")）
 
 ### ディスコグラフィー
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    メジャーデビューシングル。[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[ドラマ30](../Page/ドラマ30.md "wikilink")『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")〜ざけんなよ〜』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+    メジャーデビューシングル。[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ30](../Page/ドラマ30.md "wikilink")『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")〜ざけんなよ〜』[主題歌](../Page/主題歌.md "wikilink")。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    『[JNNスポーツ&ニュース](https://ja.wikipedia.org/wiki/JNNスポーツ&ニュース "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")。
+    『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")。
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
   -
     「愛の花」 - TBS系ドラマ30『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")2〜ざけんなよ〜』主題歌。
-    [C/W](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")「迷える天使たち」 - [衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")『[ファーブル先生は名探偵](https://ja.wikipedia.org/wiki/ファーブル先生は名探偵 "wikilink")』主題歌。
+    [C/W](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")「迷える天使たち」 - [衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")『[ファーブル先生は名探偵](../Page/ファーブル先生は名探偵.md "wikilink")』主題歌。
 
 #### アルバムCD
 
@@ -67,17 +67,17 @@
 
 ### 解散後
 
-メンバーだったJIRO（松尾二郎）は有限会社[オレンジボックス](https://ja.wikipedia.org/wiki/オレンジボックス "wikilink")を設立し[ベンチャー](../Page/ベンチャー.md "wikilink")[実業家](../Page/実業家.md "wikilink")に転身。持ち前の技術力を生かして[ASP事業を手がけるようになる](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")。
+メンバーだったJIRO（松尾二郎）は有限会社[オレンジボックス](https://ja.wikipedia.org/wiki/オレンジボックス "wikilink")を設立し[ベンチャー](../Page/ベンチャー.md "wikilink")[実業家](../Page/実業家.md "wikilink")に転身。持ち前の技術力を生かして[ASP事業を手がけるようになる](../Page/アプリケーションサービスプロバイダ.md "wikilink")。
 
-2004年には傘下に[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")のMIRACLE RECORDS.を設立し販売体制を確立。当時夫人が経営していた布[ナプキン](https://ja.wikipedia.org/wiki/ナプキン "wikilink")通販サイトをスポンサーに迎えて、旧メンバー協力の下[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")「THE★MELODY」を発売した。
+2004年には傘下に[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")のMIRACLE RECORDS.を設立し販売体制を確立。当時夫人が経営していた布[ナプキン](../Page/ナプキン.md "wikilink")通販サイトをスポンサーに迎えて、旧メンバー協力の下[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")「THE★MELODY」を発売した。
 
 ## THE★MELODY
 
-2006年、MELODYのメンバーであったSHUJI、JIRO、RYOにより結成（実質的には再結成）。主に東京都立川市の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で活動している。
+2006年、MELODYのメンバーであったSHUJI、JIRO、RYOにより結成（実質的には再結成）。主に東京都立川市の[ライブハウス](../Page/ライブハウス.md "wikilink")で活動している。
 
 ### ディスコグラフィー
 
-  - 君の瞳の中（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売）
+  - 君の瞳の中（[2007年](../Page/2007年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売）
 
 <!-- end list -->
 

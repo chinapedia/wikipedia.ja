@@ -1,7 +1,7 @@
 > この記事は[FREMM](https://ja.wikipedia.org/wiki/FREMM)から翻訳されています。
 
 
-**FREMM計画**とは、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")が共同で行う汎用[フリゲート](../Page/フリゲート.md "wikilink")（、）開発計画である。但し、[フランス海軍](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")では、Dから始まる艦番号を与えられ、[駆逐艦](../Page/駆逐艦.md "wikilink")相当として扱われている。
+**FREMM計画**とは、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")が共同で行う汎用[フリゲート](../Page/フリゲート.md "wikilink")（、）開発計画である。但し、[フランス海軍](../Page/フランス海軍.md "wikilink")では、Dから始まる艦番号を与えられ、[駆逐艦](../Page/駆逐艦.md "wikilink")相当として扱われている。
 
 2005年11月16日に決定された当初計画では、フランスが17隻、イタリアが10隻を調達する計画である。
 
@@ -13,7 +13,7 @@
 
 ## イタリア
 
-イタリアの導入計画は、7隻の[マエストラーレ級フリゲート](https://ja.wikipedia.org/wiki/マエストラーレ級フリゲート "wikilink")と4隻の[ソルダティ級フリゲート](https://ja.wikipedia.org/wiki/ソルダティ級フリゲート "wikilink")（ルポ／アルティリエーレ級）を対潜型（ASW）4隻と汎用型（GP：General Purpose/LA:Land Attack）6隻で更新する計画であり、特に汎用型には対地攻撃能力を重視した装備が計画されている。
+イタリアの導入計画は、7隻の[マエストラーレ級フリゲート](../Page/マエストラーレ級フリゲート.md "wikilink")と4隻の[ソルダティ級フリゲート](https://ja.wikipedia.org/wiki/ソルダティ級フリゲート "wikilink")（ルポ／アルティリエーレ級）を対潜型（ASW）4隻と汎用型（GP：General Purpose/LA:Land Attack）6隻で更新する計画であり、特に汎用型には対地攻撃能力を重視した装備が計画されている。
 
 ## モロッコ
 
@@ -43,5 +43,5 @@
 [Category:フランスの駆逐艦](https://ja.wikipedia.org/wiki/Category:フランスの駆逐艦 "wikilink") [Category:フランスのフリゲート](https://ja.wikipedia.org/wiki/Category:フランスのフリゲート "wikilink") [Category:イタリアのフリゲート](https://ja.wikipedia.org/wiki/Category:イタリアのフリゲート "wikilink") [Category:軍備計画](https://ja.wikipedia.org/wiki/Category:軍備計画 "wikilink")
 
 1.
-2.  [世界の艦船](https://ja.wikipedia.org/wiki/世界の艦船 "wikilink")2015年5月号
-3.  [世界の艦船](https://ja.wikipedia.org/wiki/世界の艦船 "wikilink")2015年10月号
+2.  [世界の艦船](../Page/世界の艦船.md "wikilink")2015年5月号
+3.  [世界の艦船](../Page/世界の艦船.md "wikilink")2015年10月号

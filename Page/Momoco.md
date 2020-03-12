@@ -5,7 +5,7 @@
 
 ## 概要
 
-同社（事業部門は[学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")に分割）が発行している『[BOMB](https://ja.wikipedia.org/wiki/BOMB "wikilink")』の姉妹誌として[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月にNo.1として創刊した。[1984年](../Page/1984年.md "wikilink")1月にNo.2を発刊。そして1984年4月号より月刊化された。
+同社（事業部門は[学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")に分割）が発行している『[BOMB](../Page/BOMB.md "wikilink")』の姉妹誌として[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月にNo.1として創刊した。[1984年](../Page/1984年.md "wikilink")1月にNo.2を発刊。そして1984年4月号より月刊化された。
 
 大判のグラビアが特徴で、投稿写真の多かったBOMBよりも読者の対象年齢をやや高く設定しており、ヌードも併せて掲載していた。
 
@@ -17,7 +17,7 @@
 
 雑誌の中ほどにある特別ページ。自薦他薦・芸能事務所に所属しているか否かを問わず美少女を募り、編集部が認定した少女を写真とともに紹介している、一種のアイドルオーディションのようなコーナーであった。通し番号としてつけられた「桃組出席番号」という名称はそのまま[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の「会員番号」に取り入れられたとされる。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")からは[TBS系列でテレビ番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[モモコクラブ](https://ja.wikipedia.org/wiki/モモコクラブ "wikilink")』が放送開始され、数多くの桃組メンバーがレギュラー出演した。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")からは[TBS系列でテレビ番組](../Page/TBSテレビ.md "wikilink")『[モモコクラブ](../Page/モモコクラブ.md "wikilink")』が放送開始され、数多くの桃組メンバーがレギュラー出演した。
 
 1980年代から現在まで活躍している女性タレントの中には、かつてこのモモコクラブに登場していた人も多く、「有名になる前の姿が見られる」として、バックナンバーはオークションや古本市場で高値で取引されている。
 
@@ -34,7 +34,7 @@
 <tbody>
 <tr class="odd">
 <td><p>002</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/白田あゆみ" title="wikilink">白田あゆみ</a></strong></p></td>
+<td><p><strong><a href="../Page/白田あゆみ.md" title="wikilink">白田あゆみ</a></strong></p></td>
 <td><p>1983年、最初期のモモコクラブに掲載<br />
 1987年9月「恋しくて」で歌手デビュー</p></td>
 </tr>
@@ -47,13 +47,13 @@
 <tr class="odd">
 <td><p>190</p></td>
 <td><p><strong>杉本亜由美</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋本美加子" title="wikilink">橋本美加子</a><br />
+<td><p><a href="../Page/橋本美加子.md" title="wikilink">橋本美加子</a><br />
 1985年3月「メロウ・シーズン」で歌手デビュー</p></td>
 </tr>
 <tr class="even">
 <td><p>368</p></td>
 <td><p><strong>我妻ルミ</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/我妻佳代" title="wikilink">我妻佳代</a><br />
+<td><p><a href="../Page/我妻佳代.md" title="wikilink">我妻佳代</a><br />
 <a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.48）</p></td>
 </tr>
 <tr class="odd">
@@ -64,14 +64,14 @@
 </tr>
 <tr class="even">
 <td><p>452</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/芹沢直美_(アイドル)" title="wikilink">芹沢直美</a></strong></p></td>
+<td><p><strong><a href="../Page/芹沢直美_(アイドル).md" title="wikilink">芹沢直美</a></strong></p></td>
 <td><p>我妻の実姉<br />
-ドラマ『<a href="https://ja.wikipedia.org/wiki/夏・体験物語" title="wikilink">夏・体験物語</a>2』でデビュー</p></td>
+ドラマ『<a href="../Page/夏・体験物語.md" title="wikilink">夏・体験物語</a>2』でデビュー</p></td>
 </tr>
 <tr class="odd">
 <td><p>480</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/工藤静香" title="wikilink">工藤静香</a></strong></p></td>
-<td><p><a href="../Page/セブンティーンクラブ.md" title="wikilink">セブンティーンクラブ</a>、<a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.38、<a href="https://ja.wikipedia.org/wiki/うしろ髪ひかれ隊" title="wikilink">うしろ髪ひかれ隊</a>）</p></td>
+<td><p><strong><a href="../Page/工藤静香.md" title="wikilink">工藤静香</a></strong></p></td>
+<td><p><a href="../Page/セブンティーンクラブ.md" title="wikilink">セブンティーンクラブ</a>、<a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.38、<a href="../Page/うしろ髪ひかれ隊.md" title="wikilink">うしろ髪ひかれ隊</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>528</p></td>
@@ -81,12 +81,12 @@
 <tr class="odd">
 <td><p>531</p></td>
 <td><p><strong>小原靖子</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/相原勇" title="wikilink">相原勇</a><br />
-『<a href="https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国" title="wikilink">イカ天</a>』の司会でブレイク</p></td>
+<td><p><a href="../Page/相原勇.md" title="wikilink">相原勇</a><br />
+『<a href="../Page/三宅裕司のいかすバンド天国.md" title="wikilink">イカ天</a>』の司会でブレイク</p></td>
 </tr>
 <tr class="even">
 <td><p>611</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三田文代" title="wikilink">三田文代</a></strong></p></td>
+<td><p><strong><a href="../Page/三田文代.md" title="wikilink">三田文代</a></strong></p></td>
 <td><p><a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.24）</p></td>
 </tr>
 <tr class="odd">
@@ -104,18 +104,18 @@
 <tr class="odd">
 <td><p>1044</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/八木朋子" title="wikilink">八木朋子</a></strong></p></td>
-<td><p>ラジオ番組「<a href="https://ja.wikipedia.org/wiki/HiHiHi" title="wikilink">HiHiHi</a>」 - 象足シスターズ（第4期生）</p></td>
+<td><p>ラジオ番組「<a href="../Page/HiHiHi.md" title="wikilink">HiHiHi</a>」 - 象足シスターズ（第4期生）</p></td>
 </tr>
 <tr class="even">
 <td><p>1078</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/島田奈央子" title="wikilink">島田奈央子</a></strong></p></td>
+<td><p><strong><a href="../Page/島田奈央子.md" title="wikilink">島田奈央子</a></strong></p></td>
 <td><p>島田奈美<br />
 1986年5月「ガラスの幻想曲」で歌手デビュー</p></td>
 </tr>
 <tr class="odd">
 <td><p>1170</p></td>
 <td><p><strong>山本るい</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山崎かおり" title="wikilink">山崎かおり</a></p></td>
+<td><p><a href="../Page/山崎かおり.md" title="wikilink">山崎かおり</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1173</p></td>
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>1319</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/中島早苗" title="wikilink">中島早苗</a></strong></p></td>
+<td><p><strong><a href="../Page/中島早苗.md" title="wikilink">中島早苗</a></strong></p></td>
 <td><p><a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.46）</p></td>
 </tr>
 <tr class="odd">
@@ -152,20 +152,20 @@
 </tr>
 <tr class="even">
 <td><p>1618</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/伊藤美紀_(女優)" title="wikilink">伊藤美紀</a></strong></p></td>
-<td><p>1986<a href="https://ja.wikipedia.org/wiki/ホリプロタレントスカウトキャラバン" title="wikilink">ホリプロタレントスカウトキャラバン</a>・グランプリ<br />
+<td><p><strong><a href="../Page/伊藤美紀_(女優).md" title="wikilink">伊藤美紀</a></strong></p></td>
+<td><p>1986<a href="../Page/ホリプロタレントスカウトキャラバン.md" title="wikilink">ホリプロタレントスカウトキャラバン</a>・グランプリ<br />
 1987年5月「小娘ハートブレイク」で歌手デビュー</p></td>
 </tr>
 <tr class="odd">
 <td><p>1773</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/姫乃樹リカ" title="wikilink">姫乃樹リカ</a></strong></p></td>
+<td><p><strong><a href="../Page/姫乃樹リカ.md" title="wikilink">姫乃樹リカ</a></strong></p></td>
 <td><p>西邑理香<br />
 1988年2月「硝子のキッス」で歌手デビュー</p></td>
 </tr>
 <tr class="even">
 <td><p>1780</p></td>
 <td><p><strong>伊藤美穂</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かわいさとみ" title="wikilink">かわいさとみ</a>1987年9月「ぼくの太陽」(宇宙企画)でＡＶデビュー</p></td>
+<td><p><a href="../Page/かわいさとみ.md" title="wikilink">かわいさとみ</a>1987年9月「ぼくの太陽」(宇宙企画)でＡＶデビュー</p></td>
 </tr>
 <tr class="odd">
 <td><p>1809</p></td>
@@ -200,24 +200,24 @@
 </tr>
 <tr class="odd">
 <td><p>1956</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/吉見美津子" title="wikilink">吉見美津子</a></strong></p></td>
+<td><p><strong><a href="../Page/吉見美津子.md" title="wikilink">吉見美津子</a></strong></p></td>
 <td><p><a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.49）</p></td>
 </tr>
 <tr class="even">
 <td><p>1980</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/円谷優子" title="wikilink">円谷優子</a></strong></p></td>
+<td><p><strong><a href="../Page/円谷優子.md" title="wikilink">円谷優子</a></strong></p></td>
 <td><p>円谷憂子<br />
 1988年9月「HELP」で歌手デビュー</p></td>
 </tr>
 <tr class="odd">
 <td><p>2142</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/赤坂芳恵" title="wikilink">赤坂芳恵</a></strong></p></td>
+<td><p><strong><a href="../Page/赤坂芳恵.md" title="wikilink">赤坂芳恵</a></strong></p></td>
 <td><p><a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.26）</p></td>
 </tr>
 <tr class="even">
 <td><p>2219</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/大野幹代" title="wikilink">大野幹代</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/乙女塾" title="wikilink">乙女塾</a>1期生（歌手コース）。ユニット「<a href="https://ja.wikipedia.org/wiki/CoCo_(アイドルグループ)" title="wikilink">CoCo</a>」のメンバーとして活躍</p></td>
+<td><p><a href="../Page/乙女塾.md" title="wikilink">乙女塾</a>1期生（歌手コース）。ユニット「<a href="../Page/CoCo_(アイドルグループ).md" title="wikilink">CoCo</a>」のメンバーとして活躍</p></td>
 </tr>
 <tr class="odd">
 <td><p>2289</p></td>
@@ -227,18 +227,18 @@
 <tr class="even">
 <td><p>2387</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/豊田樹里" title="wikilink">豊田樹里</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EGG5" title="wikilink">EGG5</a>、<a href="../Page/BABY&#39;S.md" title="wikilink">BABY'S</a>を経て<a href="https://ja.wikipedia.org/wiki/松田樹利亜" title="wikilink">松田樹利亜</a>としてロックボーカリストとして活躍中</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/EGG5" title="wikilink">EGG5</a>、<a href="../Page/BABY&#39;S.md" title="wikilink">BABY'S</a>を経て<a href="../Page/松田樹利亜.md" title="wikilink">松田樹利亜</a>としてロックボーカリストとして活躍中</p></td>
 </tr>
 <tr class="odd">
 <td><p>2479</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/川越美和" title="wikilink">川越美和</a></strong></p></td>
+<td><p><strong><a href="../Page/川越美和.md" title="wikilink">川越美和</a></strong></p></td>
 <td><p>初瀬かほる<br />
 1988年10月「Looking at You」で歌手デビュー</p></td>
 </tr>
 <tr class="even">
 <td><p>2594</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/原田徳子" title="wikilink">原田徳子</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/C.C.ガールズ" title="wikilink">C.C.ガールズ</a>として活躍</p></td>
+<td><p><strong><a href="../Page/原田徳子.md" title="wikilink">原田徳子</a></strong></p></td>
+<td><p><a href="../Page/C.C.ガールズ.md" title="wikilink">C.C.ガールズ</a>として活躍</p></td>
 </tr>
 <tr class="odd">
 <td><p>2699</p></td>
@@ -248,7 +248,7 @@
 <tr class="even">
 <td><p>2708</p></td>
 <td><p><strong>木内美歩</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木内美穂" title="wikilink">木内美穂</a><br />
+<td><p><a href="../Page/木内美穂.md" title="wikilink">木内美穂</a><br />
 1990ミスモモコクラブ・審査員奨励賞</p></td>
 </tr>
 <tr class="odd">
@@ -265,7 +265,7 @@
 <td><p>2996</p></td>
 <td><p><strong>小川早苗</strong></p></td>
 <td><p><a href="../Page/堀川早苗.md" title="wikilink">堀川早苗</a><br />
-乙女塾5期生。フジテレビ系『<a href="https://ja.wikipedia.org/wiki/不思議少女ナイルなトトメス" title="wikilink">不思議少女ナイルなトトメス</a>』でデビュー</p></td>
+乙女塾5期生。フジテレビ系『<a href="../Page/不思議少女ナイルなトトメス.md" title="wikilink">不思議少女ナイルなトトメス</a>』でデビュー</p></td>
 </tr>
 <tr class="even">
 <td><p>3429</p></td>
@@ -282,16 +282,16 @@
 
 ## 童貞物語
 
-『BOMB』に於ける「[パンツの穴](https://ja.wikipedia.org/wiki/パンツの穴 "wikilink")」と同様の読者投稿ページ。男女の恋愛について赤裸々に綴った物が多かった。「パンツ-」に続いてこちらも映画化されたが、女性アイドルが主演となってからは、頭に「新-」と付くなど投稿とはかけ離れたものになっていった。
+『BOMB』に於ける「[パンツの穴](../Page/パンツの穴.md "wikilink")」と同様の読者投稿ページ。男女の恋愛について赤裸々に綴った物が多かった。「パンツ-」に続いてこちらも映画化されたが、女性アイドルが主演となってからは、頭に「新-」と付くなど投稿とはかけ離れたものになっていった。
 
 ## 関連項目
 
   - BOMB - 姉妹誌
-  - [DELUXEマガジン](https://ja.wikipedia.org/wiki/DELUXEマガジン "wikilink")ORE - 競合誌
-  - [古川恵実子](https://ja.wikipedia.org/wiki/古川恵実子 "wikilink")
+  - [DELUXEマガジン](../Page/DELUXEマガジン.md "wikilink")ORE - 競合誌
+  - [古川恵実子](../Page/古川恵実子.md "wikilink")
   - [矢部美穂](https://ja.wikipedia.org/wiki/矢部美穂 "wikilink")
   - [木内美歩](https://ja.wikipedia.org/wiki/木内美歩 "wikilink")
   - [聖PCハイスクール](../Page/聖PCハイスクール.md "wikilink")
-  - [窪田僚](https://ja.wikipedia.org/wiki/窪田僚 "wikilink") - 巻頭グラビアのコピーを担当
+  - [窪田僚](../Page/窪田僚.md "wikilink") - 巻頭グラビアのコピーを担当
 
 [Category:日本の月刊誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の月刊誌_\(休廃刊\) "wikilink") [Category:学研の歴史](https://ja.wikipedia.org/wiki/Category:学研の歴史 "wikilink") [Category:学研の雑誌](https://ja.wikipedia.org/wiki/Category:学研の雑誌 "wikilink") [Category:グラビア雑誌](https://ja.wikipedia.org/wiki/Category:グラビア雑誌 "wikilink") [Category:アイドル雑誌](https://ja.wikipedia.org/wiki/Category:アイドル雑誌 "wikilink") [Category:1983年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1983年創刊の雑誌 "wikilink") [Category:モモコクラブ](https://ja.wikipedia.org/wiki/Category:モモコクラブ "wikilink") [Category:1994年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1994年休廃刊の雑誌 "wikilink")

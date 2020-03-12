@@ -1,17 +1,17 @@
 > この記事は[VINYL](https://ja.wikipedia.org/wiki/VINYL)から翻訳されています。
 
 
-**VINYL**（ヴィニイル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成、[1999年](../Page/1999年.md "wikilink")に活動停止。
+**VINYL**（ヴィニイル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成、[1999年](../Page/1999年.md "wikilink")に活動停止。
 
 ## 概要・来歴
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の二代目ヴォーカリストで元[STRAWBERRY FIELDSの福井祥史と](https://ja.wikipedia.org/wiki/STRAWBERRY_FIELDS "wikilink")、元[黒夢](../Page/黒夢.md "wikilink")のギタリスト鈴木新によって、VINYL結成\[1\]\[2\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の二代目ヴォーカリストで元[STRAWBERRY FIELDSの福井祥史と](../Page/STRAWBERRY_FIELDS.md "wikilink")、元[黒夢](../Page/黒夢.md "wikilink")のギタリスト鈴木新によって、VINYL結成\[1\]\[2\]。
 
 黒夢脱退後、鈴木はソロ活動を模索していたが、デモを録り終えた直後にディレクターからヴォーカリストを探すことを勧められ、STRAWBERRY FIELDSを解散したばかりの福井に声を掛ける\[3\]。そのことを当時の所属事務所HEADWAX社長の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")に話したところ「すぐ一緒にやれ」と言われ、VINYL結成に至ったという\[4\]。
 
 [1996年](../Page/1996年.md "wikilink")9月、[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")で行われた「LEMONed presents hide Indian Summer Special」に出演。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、日清パワーステーションにて初ワンマンライブを成功させ、11月に1stシングル「とまらない鼓動」でメジャーデビュー\[5\]。『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』と『[進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")』エンディングテーマに起用されたシングル2曲を含む、12月発売の1stアルバム『Go to VINYL』は、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[白井良明がプロデュースを担当した](https://ja.wikipedia.org/wiki/白井良明_\(音楽家\) "wikilink")\[6\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、日清パワーステーションにて初ワンマンライブを成功させ、11月に1stシングル「とまらない鼓動」でメジャーデビュー\[5\]。『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』と『[進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")』エンディングテーマに起用されたシングル2曲を含む、12月発売の1stアルバム『Go to VINYL』は、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[白井良明がプロデュースを担当した](../Page/白井良明_\(音楽家\).md "wikilink")\[6\]。
 
 [1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")、VINYLの活動を停止。シングル3枚、オリジナルアルバム1枚を残す。
 
@@ -19,12 +19,12 @@
 
 ## メンバー
 
-  - [福井祥史](https://ja.wikipedia.org/wiki/福井祥史 "wikilink")
+  - [福井祥史](../Page/福井祥史.md "wikilink")
 
 <!-- end list -->
 
   -
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。元[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、元[STRAWBERRY FIELDSのメンバー](https://ja.wikipedia.org/wiki/STRAWBERRY_FIELDS "wikilink")。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。元[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、元[STRAWBERRY FIELDSのメンバー](../Page/STRAWBERRY_FIELDS.md "wikilink")。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   - [SEELA](https://ja.wikipedia.org/wiki/SEELA "wikilink")（Ba） [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、[FiX](https://ja.wikipedia.org/wiki/tezya_\(ヴォーカリスト\) "wikilink")、[ATOMIC ZaZaのメンバー](https://ja.wikipedia.org/wiki/tezya_\(ヴォーカリスト\) "wikilink")。
-  - [JOE](https://ja.wikipedia.org/wiki/宮脇“JOE”知史 "wikilink")（Dr） [44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")、[Mad beaversのメンバー](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")。
+  - [JOE](../Page/宮脇“JOE”知史.md "wikilink")（Dr） [44MAGNUM](../Page/44MAGNUM.md "wikilink")、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")、[Mad beaversのメンバー](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")。
 
 ## ディスコグラフィ
 
@@ -174,7 +174,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LEMONed" title="wikilink">LEMONed</a> Collected by hide</strong></p></td>
 <td><p>MVCD-15003</p></td>
 <td><ol>
-<li>FLAKE（<a href="https://ja.wikipedia.org/wiki/ZEPPET_STORE" title="wikilink">ZEPPET STORE</a>）</li>
+<li>FLAKE（<a href="../Page/ZEPPET_STORE.md" title="wikilink">ZEPPET STORE</a>）</li>
 <li>BACTERIA（<a href="https://ja.wikipedia.org/wiki/hide" title="wikilink">hide</a>）</li>
 <li>BE（VINYL）</li>
 <li>one day for maria（trees of life）</li>
@@ -207,7 +207,7 @@
 <tr class="odd">
 <td><p>とまらない鼓動</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本テレビ系" title="wikilink">日本テレビ系</a>『<a href="../Page/進め!電波少年.md" title="wikilink">進め!電波少年</a>』エンディングテーマ<br />
-<a href="https://ja.wikipedia.org/wiki/フジテレビ系" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/志村X" title="wikilink">Shimura-XYZ</a>』エンディングテーマ</p></td>
+<a href="https://ja.wikipedia.org/wiki/フジテレビ系" title="wikilink">フジテレビ系</a>『<a href="../Page/志村X.md" title="wikilink">Shimura-XYZ</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>20世紀のマスタード</p></td>
@@ -225,7 +225,7 @@
 ## 関連項目
 
   - [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")
-  - [STRAWBERRY FIELDS](https://ja.wikipedia.org/wiki/STRAWBERRY_FIELDS "wikilink")
+  - [STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")
   - [黒夢](../Page/黒夢.md "wikilink")
   - [SUPER DROP BABIES](https://ja.wikipedia.org/wiki/SUPER_DROP_BABIES "wikilink")
 

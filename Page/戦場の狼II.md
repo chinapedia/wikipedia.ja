@@ -1,15 +1,15 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**戦場の狼II**』は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")より稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版のタイトルは『*MERCS*』。
+『**戦場の狼II**』は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版のタイトルは『*MERCS*』。
 
-『[戦場の狼](https://ja.wikipedia.org/wiki/戦場の狼 "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）の続編。3人の米兵から主人公を選択し、軍事クーデターにより拉致された合衆国大統領を救出するのを目的としている。
+『[戦場の狼](../Page/戦場の狼.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）の続編。3人の米兵から主人公を選択し、軍事クーデターにより拉致された合衆国大統領を救出するのを目的としている。
 
 最大で3人まで同時プレイ可能になり、アイテムを使用したり、敵の車両を奪うことができるようになった。また、残機制からライフ制になった。複数の武器が用意され、これとは別に武器を段階的にパワーアップさせることができる。緊急回避手段として、おなじみの「メガクラッシュ」が採用された。基板は[CPS-1](https://ja.wikipedia.org/wiki/CPS-1 "wikilink")を使用しており、グラフィック、サウンドは大幅に強化されている。位置的には続編だが、ゲーム性や内容は前作とはかなり異なっている。
 
-1991年に[メガドライブ](../Page/メガドライブ.md "wikilink")、[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")に移植された他、欧州および北米では各種ホビ－パソコンに移植された。メガドライブ版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")にて配信された。
+1991年に[メガドライブ](../Page/メガドライブ.md "wikilink")、[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")に移植された他、欧州および北米では各種ホビ－パソコンに移植された。メガドライブ版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
-アーケード版は後に[PlayStationおよび](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『**[カプコンジェネレーション](https://ja.wikipedia.org/wiki/カプコン_クラシックス_コレクション "wikilink") 第4集 孤高の英雄**』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）、[PlayStation 2および](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『**カプコン クラシックス コレクション**』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）、[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『**カプコン クラシックス コレクション**』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）にそれぞれ移植された。
+アーケード版は後に[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『**[カプコンジェネレーション](../Page/カプコン_クラシックス_コレクション.md "wikilink") 第4集 孤高の英雄**』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）、[PlayStation 2および](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『**カプコン クラシックス コレクション**』（[2005年](../Page/2005年.md "wikilink")）、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**カプコン クラシックス コレクション**』（[2006年](../Page/2006年.md "wikilink")）にそれぞれ移植された。
 
 ## 概要
 
@@ -17,9 +17,9 @@
 
 前作と異なる点として、主人公がライフ制になったこと、メガクラッシュにより画面全体の敵にダメージを与えられるようになったこと、ジープや戦車などに乗って攻撃することができるようになったことなどが挙げられる。
 
-後に[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフトとして移植された他、日本国外では[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")、[Amstrad CPC](https://ja.wikipedia.org/wiki/Amstrad_CPC "wikilink") 、[Atari ST](https://ja.wikipedia.org/wiki/Atari_ST "wikilink")、[コモドール64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")、[ZX Spectrumなどの機種に移植された](https://ja.wikipedia.org/wiki/ZX_Spectrum "wikilink")。メガドライブ版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")対応ソフトとしてダウンロード配信されている。
+後に[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフトとして移植された他、日本国外では[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")、[Amstrad CPC](https://ja.wikipedia.org/wiki/Amstrad_CPC "wikilink") 、[Atari ST](../Page/Atari_ST.md "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")、[ZX Spectrumなどの機種に移植された](../Page/ZX_Spectrum.md "wikilink")。メガドライブ版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトとしてダウンロード配信されている。
 
-また、オムニバスソフトでは、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")・[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『カプコンジェネレーション 第4集 孤高の英雄』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『[カプコン クラシックス コレクション](https://ja.wikipedia.org/wiki/カプコン_クラシックス_コレクション "wikilink")』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）、[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『カプコン クラシックス コレクション』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）に収録されている。
+また、オムニバスソフトでは、[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")・[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『カプコンジェネレーション 第4集 孤高の英雄』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[Xbox用ソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")『[カプコン クラシックス コレクション](../Page/カプコン_クラシックス_コレクション.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『カプコン クラシックス コレクション』（[2006年](../Page/2006年.md "wikilink")）に収録されている。
 
 ## 設定
 
@@ -161,9 +161,9 @@
 <td></td>
 <td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a><br />
 <a href="https://ja.wikipedia.org/wiki/Amstrad_CPC" title="wikilink">Amstrad CPC</a><br />
-<a href="https://ja.wikipedia.org/wiki/Atari_ST" title="wikilink">Atari ST</a><br />
-<a href="https://ja.wikipedia.org/wiki/コモドール64" title="wikilink">コモドール64</a><br />
-<a href="https://ja.wikipedia.org/wiki/ZX_Spectrum" title="wikilink">ZX Spectrum</a></p></td>
+<a href="../Page/Atari_ST.md" title="wikilink">Atari ST</a><br />
+<a href="../Page/コモドール64.md" title="wikilink">コモドール64</a><br />
+<a href="../Page/ZX_Spectrum.md" title="wikilink">ZX Spectrum</a></p></td>
 <td><p>Tiertex</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/U.S._Gold" title="wikilink">U.S. Gold</a></p></td>
 <td><p>フロッピーディスク</p></td>
@@ -175,7 +175,7 @@
 <td><p>4</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_(ゲーム機)" title="wikilink">PlayStation</a><br />
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a><br />
 <a href="../Page/セガサターン.md" title="wikilink">セガサターン</a></p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
@@ -201,10 +201,10 @@
 <td><p>6</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p><a href="../Page/ユニバーサル・メディア・ディスク.md" title="wikilink">UMD</a></p></td>
 <td><p>PS2:</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -217,7 +217,7 @@
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>メガドライブ版の移植</p></td>
@@ -253,7 +253,7 @@
 
 <!-- end list -->
 
-  - 『[カプコン クラシックス コレクション](https://ja.wikipedia.org/wiki/カプコン_クラシックス_コレクション "wikilink")』に収録。
+  - 『[カプコン クラシックス コレクション](../Page/カプコン_クラシックス_コレクション.md "wikilink")』に収録。
 
 <!-- end list -->
 
@@ -269,7 +269,7 @@
 
 <!-- end list -->
 
-  - [バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")でメガドライブ版を配信。
+  - [バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")でメガドライブ版を配信。
 
 ## スタッフ
 
@@ -280,7 +280,7 @@
   - 企画：赤堀雅行、N.SAITO
   - チーフ・デザイナー：岡野正衛、[藤原得郎](https://ja.wikipedia.org/wiki/藤原得郎 "wikilink")、木嶋美紀
   - キャラクター・デザイナー：西尾仁志、はやしたかし、かくたゆかり、木佐貫久司、M.NONAKA、小林美保、Y.KATAYAMA
-  - サウンド：[後藤真奈美](https://ja.wikipedia.org/wiki/松前真奈美 "wikilink")
+  - サウンド：[後藤真奈美](../Page/松前真奈美.md "wikilink")
   - サウンド・プログラマー：坂口由洋
   - プログラマー：赤堀雅行、T.OHTA、まついよしひろ
   - スペシャル・サンクス：[安田朗](../Page/安田朗.md "wikilink")、M.YASUDA、山下さとる、M.OKAZAKI、西辻朝枝、K.UCHIDA、鵜飼敏、大野純一、おうじよしあき、M.KAWAMURA、きたやまけいこ、京谷有紀、こじまのりこ、C.KANEMITSU、さくらいまさお、T.NAGATO、E.NISHIHARA、S.MATSUMOTO、みのべひろあき、やまもとこうじ、山脇和男、横田幸次、スコット・マクスウェル
@@ -304,11 +304,11 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では、6・7・6・5の合計で24点（満40点）となっており\[1\]\[2\]、レビュアーからの肯定的な意見としては、「爽快感に関しては、あいかわらずすごいモノがあるよね。このへんはカプコンのお家芸だな」とゲーム性に関しては肯定的に評価しているが、「こういった8方向シューティングの場合、爽快感を求めるあまり、どうしてもゲームデザインが荒削りの方向にいってしまう」と完成度に関して否定的な評価を下している\[3\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、6・7・6・5の合計で24点（満40点）となっており\[1\]\[2\]、レビュアーからの肯定的な意見としては、「爽快感に関しては、あいかわらずすごいモノがあるよね。このへんはカプコンのお家芸だな」とゲーム性に関しては肯定的に評価しているが、「こういった8方向シューティングの場合、爽快感を求めるあまり、どうしてもゲームデザインが荒削りの方向にいってしまう」と完成度に関して否定的な評価を下している\[3\]。
 
 <!-- end list -->
 
-  - ゲーム誌『[メガドライブFAN](https://ja.wikipedia.org/wiki/ドリームキャストFAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.23点（満30点）となっている\[4\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「業務用と同様、難易度は高めだがプレイ感は爽快」とゲーム性に関して肯定的なコメントで紹介されている\[5\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.23点（満30点）となっている\[4\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「業務用と同様、難易度は高めだがプレイ感は爽快」とゲーム性に関して肯定的なコメントで紹介されている\[5\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

@@ -16,22 +16,22 @@
 1.  **ドュビドュバディスコ フィーチャリング ウィズ サー・サイコ・セクシー** (0:16)
       -
         次曲「ミュージック ファイター」に続く形で制作された。
-2.  **[ミュージック ファイター](https://ja.wikipedia.org/wiki/ミュージック_ファイター "wikilink")** (3:42)
+2.  **[ミュージック ファイター](../Page/ミュージック_ファイター.md "wikilink")** (3:42)
       -
-        作詞：Tack and yukky　作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")
+        作詞：Tack and yukky　作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")
         [AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink")「MDPS」CMソング
         15thシングル曲。次曲に繋がる形で収録されている。
-3.  **[イロトリドリ ノ セカイ](https://ja.wikipedia.org/wiki/イロトリドリ_ノ_セカイ "wikilink")** (5:52)
+3.  **[イロトリドリ ノ セカイ](../Page/イロトリドリ_ノ_セカイ.md "wikilink")** (5:52)
       -
         作詞・作曲：TAKUYA
         AXIA「for MAJOR HITS」CMソング
         後に16thシングルとしてシングルカット。
-4.  **[散歩道](https://ja.wikipedia.org/wiki/散歩道 "wikilink")** (5:05)
+4.  **[散歩道](../Page/散歩道.md "wikilink")** (5:05)
       -
-        作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[五十嵐公太](https://ja.wikipedia.org/wiki/五十嵐公太 "wikilink")
+        作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[五十嵐公太](../Page/五十嵐公太.md "wikilink")
         関西テレビ・フジテレビ系ドラマ「ニュースの女」主題歌
         14thシングル。
-5.  **[BATHROOM](https://ja.wikipedia.org/wiki/LOVER_SOUL "wikilink")** (4:04)
+5.  **[BATHROOM](../Page/LOVER_SOUL.md "wikilink")** (4:04)
       -
         作詞：Tack and yukky　作曲：TAKUYA）
         [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「ヌーヴ ネールカラー」CMソング
@@ -42,22 +42,22 @@
 7.  **ジーザス\! ジーザス\!** (4:12)
       -
         作詞：YUKI　作曲：TAKUYA
-8.  **[ステキなうた](https://ja.wikipedia.org/wiki/散歩道 "wikilink")** (4:28)
+8.  **[ステキなうた](../Page/散歩道.md "wikilink")** (4:28)
       -
-        作詞：YUKI　作曲：[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")
+        作詞：YUKI　作曲：[恩田快人](../Page/恩田快人.md "wikilink")
         14thシングル「散歩道」カップリング曲。
 9.  **ナチュラル ビュウティ'98** (3:49)
       -
         作詞：YUKI　作曲：TAKUYA
         資生堂「ヌーヴ カラークレヨン」CMソング
-10. **[手紙をかくよ](https://ja.wikipedia.org/wiki/手紙をかくよ "wikilink")** (4:05)
+10. **[手紙をかくよ](../Page/手紙をかくよ.md "wikilink")** (4:05)
       -
         作詞：YUKI　作曲：TAKUYA
         後に17thシングルとしてシングルカット。
 11. **グッバイ** (3:41)
       -
         作詞：YUKI　作曲：TAKUYA
-12. **[LOVER SOUL](https://ja.wikipedia.org/wiki/LOVER_SOUL "wikilink")** (6:01)
+12. **[LOVER SOUL](../Page/LOVER_SOUL.md "wikilink")** (6:01)
       -
         作詞：YUKI　作曲：TAKUYA
         13thシングル曲。

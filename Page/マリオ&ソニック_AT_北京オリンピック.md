@@ -1,13 +1,13 @@
 > この記事は[\& AT ](https://ja.wikipedia.org/wiki/\&_AT_)から翻訳されています。
 
 
-『**マリオ&ソニック AT 北京オリンピック**』（マリオアンドソニック アット ペキンオリンピック、*Mario & Sonic at the Olympic Games*）は、[任天堂](../Page/任天堂.md "wikilink")と[セガの共同開発による](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")・[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[スポーツゲーム](https://ja.wikipedia.org/wiki/スポーツゲーム "wikilink")。発売は、日本では任天堂が、日本以外ではセガが担当している。
+『**マリオ&ソニック AT 北京オリンピック**』（マリオアンドソニック アット ペキンオリンピック、*Mario & Sonic at the Olympic Games*）は、[任天堂](../Page/任天堂.md "wikilink")と[セガの共同開発による](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")・[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。発売は、日本では任天堂が、日本以外ではセガが担当している。
 
 ## 概要
 
 任天堂の看板キャラクターである「マリオ」とセガの看板キャラクターである「ソニック」が初めて正式に競演するゲームソフトである。様々なオリンピック競技を、Wii、DSによる直感操作でプレイする事が出来る。[北京オリンピックをモチーフにされている](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")。
 
-本作の企画は、セガから任天堂に打診した「[マリオと](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ソニックで何かやりたい](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink")」という[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")提案が起点となっている\[1\]。それぞれが世界的な人気を誇るキャラクターであり、独自の世界観を確立していたためそれらの摺り寄せには大きな舞台が必要と考えられ、当時[オリンピック題材のゲーム制作権を獲得したセガが世界観を包括する舞台としてふさわしいと提案した](../Page/近代オリンピック.md "wikilink")\[2\]。
+本作の企画は、セガから任天堂に打診した「[マリオと](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ソニックで何かやりたい](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink")」という[コラボレーション](../Page/コラボレーション.md "wikilink")提案が起点となっている\[1\]。それぞれが世界的な人気を誇るキャラクターであり、独自の世界観を確立していたためそれらの摺り寄せには大きな舞台が必要と考えられ、当時[オリンピック題材のゲーム制作権を獲得したセガが世界観を包括する舞台としてふさわしいと提案した](../Page/近代オリンピック.md "wikilink")\[2\]。
 
 日本国外を中心に売り上げを伸ばしてWii版とDS版を合わせた売上本数が世界累計1,000万本以上となり、以降、シリーズ化している。
 
@@ -17,7 +17,7 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 
 ## 参加選手（操作キャラクター）
 
-[Mii](https://ja.wikipedia.org/wiki/Mii "wikilink")はWii版のみ。マリオシリーズ側は英語で喋り、ソニックシリーズ側は日本語で喋る（日本国外版はソニック側も外国語で喋る）。なお、ソニックのみ設定の矛盾をなくすため、水泳では救命胴衣を着て参加している。
+[Mii](../Page/Mii.md "wikilink")はWii版のみ。マリオシリーズ側は英語で喋り、ソニックシリーズ側は日本語で喋る（日本国外版はソニック側も外国語で喋る）。なお、ソニックのみ設定の矛盾をなくすため、水泳では救命胴衣を着て参加している。
 
 ### マリオシリーズ
 
@@ -30,11 +30,11 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
   - [ピーチ](../Page/ピーチ_\(ゲームキャラクター\).md "wikilink")
     声 : [ジェン・テイラー](https://ja.wikipedia.org/wiki/ジェン・テイラー "wikilink")
     テクニックタイプ
-  - [デイジー](https://ja.wikipedia.org/wiki/デイジー_\(ゲームキャラクター\) "wikilink")
+  - [デイジー](../Page/デイジー_\(ゲームキャラクター\).md "wikilink")
     声 : [ディアナ・マスタード](https://ja.wikipedia.org/wiki/ディアナ・マスタード "wikilink")
     スピードタイプ
   - [ヨッシー](../Page/ヨッシー.md "wikilink")
-    声 : [戸高一生](https://ja.wikipedia.org/wiki/戸高一生 "wikilink")
+    声 : [戸高一生](../Page/戸高一生.md "wikilink")
     スピードタイプ
   - [ワリオ](../Page/ワリオ.md "wikilink")
     声 : チャールズ･マーティネー
@@ -55,19 +55,19 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
     声 : [広橋涼](../Page/広橋涼.md "wikilink")
     テクニックタイプ
   - [ナックルズ](https://ja.wikipedia.org/wiki/ナックルズ・ザ・エキドゥナ "wikilink")
-    声 : [神奈延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")
+    声 : [神奈延年](../Page/神奈延年.md "wikilink")
     パワータイプ
   - [エミー](https://ja.wikipedia.org/wiki/エミー・ローズ "wikilink")
     声 : [川田妙子](../Page/川田妙子.md "wikilink")
     バランスタイプ
   - [シャドウ](https://ja.wikipedia.org/wiki/シャドウ・ザ・ヘッジホッグ_\(キャラクター\) "wikilink")
-    声 : [遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+    声 : [遊佐浩二](../Page/遊佐浩二.md "wikilink")
     スピードタイプ
   - ブレイズ
-    声 : [高森奈緒](https://ja.wikipedia.org/wiki/高森奈緒 "wikilink")
+    声 : [高森奈緒](../Page/高森奈緒.md "wikilink")
     バランスタイプ
   - ベクター
-    声 : [三宅健太](https://ja.wikipedia.org/wiki/三宅健太 "wikilink")
+    声 : [三宅健太](../Page/三宅健太.md "wikilink")
     パワータイプ
   - [エッグマン](https://ja.wikipedia.org/wiki/ドクター・エッグマン "wikilink")
     声 : [大塚周夫](../Page/大塚周夫.md "wikilink")
@@ -85,15 +85,15 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
     ハンマー投げ(Wii)、高飛込み(DS)
   - [クリボー](../Page/クリボー.md "wikilink")
     ギャラリー(Wii、DS)
-  - [ジュゲム](https://ja.wikipedia.org/wiki/ジュゲム "wikilink")
+  - [ジュゲム](../Page/ジュゲム.md "wikilink")
     走幅跳(Wii)、ハンマー投げ(DS)、高飛込み(DS)
-  - [ヘイホー](https://ja.wikipedia.org/wiki/ヘイホー_\(ゲームキャラクター\) "wikilink")
+  - [ヘイホー](../Page/ヘイホー_\(ゲームキャラクター\).md "wikilink")
     ギャラリー(DS)、高飛込み(DS)
-  - [ボム兵](https://ja.wikipedia.org/wiki/ボム兵 "wikilink")
+  - [ボム兵](../Page/ボム兵.md "wikilink")
     ギャラリー(Wii、DS)、観客(DS)
-  - [テレサ](https://ja.wikipedia.org/wiki/テレサ_\(ゲームキャラクター\) "wikilink")
+  - [テレサ](../Page/テレサ_\(ゲームキャラクター\).md "wikilink")
     ギャラリー(DS)
-  - [キラー](https://ja.wikipedia.org/wiki/キラー_\(ゲームキャラクター\) "wikilink")
+  - [キラー](../Page/キラー_\(ゲームキャラクター\).md "wikilink")
     ギャラリー(Wii、DS)
 
 ### ソニックシリーズ
@@ -106,7 +106,7 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
     やり投げ(Wii、DS)、ハンマー投げ(Wii、DS)、三段跳(Wii)、高飛込み(DS)
   - ビッグ
     シングルスカル(Wii)
-  - [チャオ](https://ja.wikipedia.org/wiki/チャオ_\(ゲームキャラクター\) "wikilink")
+  - [チャオ](../Page/チャオ_\(ゲームキャラクター\).md "wikilink")
     観客(Wii、DS)
   - [オモチャオ](https://ja.wikipedia.org/wiki/オモチャオ "wikilink")
     観客(Wii、DS)

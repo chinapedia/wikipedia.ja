@@ -17,10 +17,10 @@
 
 <!-- end list -->
 
-  - [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")…[kyo](https://ja.wikipedia.org/wiki/kyo_\(ミュージシャン\) "wikilink") （ex.[DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink"), [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）
-  - [ギター](../Page/ギター.md "wikilink")…[ASAKI](../Page/ASAKI.md "wikilink") （[GUNIW TOOLS](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink"), AGE of PUNK, vez）
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")…TAKASHI （ex.[DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink"), ex.FAME, ex.HybriD）
-  - [ドラム](../Page/ドラムセット.md "wikilink")…Takeshi （ex.[Valentine D.C.](https://ja.wikipedia.org/wiki/Valentine_D.C. "wikilink")）
+  - [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")…[kyo](https://ja.wikipedia.org/wiki/kyo_\(ミュージシャン\) "wikilink") （ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink"), [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）
+  - [ギター](../Page/ギター.md "wikilink")…[ASAKI](../Page/ASAKI.md "wikilink") （[GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink"), AGE of PUNK, vez）
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")…TAKASHI （ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink"), ex.FAME, ex.HybriD）
+  - [ドラム](../Page/ドラムセット.md "wikilink")…Takeshi （ex.[Valentine D.C.](../Page/Valentine_D.C..md "wikilink")）
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - ギター…[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink") （ex.[DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink"), ex.OPTIC NERVE, ex.BLOODY IMITATION SOCIETY, ex.[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink"), ex.[LIV](https://ja.wikipedia.org/wiki/LIV "wikilink"), ex.[Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink"), ex.[THE SPIN](https://ja.wikipedia.org/wiki/THE_SPIN "wikilink"), [AA=](https://ja.wikipedia.org/wiki/AA= "wikilink"), [SUSIE LOVE](https://ja.wikipedia.org/wiki/SUSIE_LOVE "wikilink"), [Acid Black Cherry](https://ja.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")） 2002年7月脱退。
+  - ギター…[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink") （ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink"), ex.OPTIC NERVE, ex.BLOODY IMITATION SOCIETY, ex.[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink"), ex.[LIV](https://ja.wikipedia.org/wiki/LIV "wikilink"), ex.[Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink"), ex.[THE SPIN](https://ja.wikipedia.org/wiki/THE_SPIN "wikilink"), [AA=](https://ja.wikipedia.org/wiki/AA= "wikilink"), [SUSIE LOVE](https://ja.wikipedia.org/wiki/SUSIE_LOVE "wikilink"), [Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")） 2002年7月脱退。
   - ドラム…大古殿"FURUTON"宗大 （ex.[OBLIVION DUST](https://ja.wikipedia.org/wiki/OBLIVION_DUST "wikilink"), ex.[nil](https://ja.wikipedia.org/wiki/nil "wikilink")） [2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")脱退。
 
 ## エピソード
@@ -455,11 +455,11 @@
 ## 関連項目
 
   - [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")
-  - [DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")
-  - [GUNIW TOOLS](https://ja.wikipedia.org/wiki/GUNIW_TOOLS "wikilink")
+  - [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")
+  - [GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink")
   - [AGE of PUNK](https://ja.wikipedia.org/wiki/AGE_of_PUNK "wikilink")
-  - [Valentine D.C.](https://ja.wikipedia.org/wiki/Valentine_D.C. "wikilink")
-  - [デンジャークルー・レコード](https://ja.wikipedia.org/wiki/デンジャークルー・レコード "wikilink")
+  - [Valentine D.C.](../Page/Valentine_D.C..md "wikilink")
+  - [デンジャークルー・レコード](../Page/デンジャークルー・レコード.md "wikilink")
 
 ## 脚注
 

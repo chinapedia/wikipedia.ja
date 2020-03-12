@@ -30,7 +30,7 @@
 
   - **I・love・愛work**
   - **堀端music tower**：上記「タワレコ・たけくまのmusic forest」に同じ。
-  - **viva[聖カタリナ](https://ja.wikipedia.org/wiki/聖カタリナ大学 "wikilink")～熱い想い受け止めてくれ～**
+  - **viva[聖カタリナ](../Page/聖カタリナ大学.md "wikilink")～熱い想い受け止めてくれ～**
   - **夜でも安心ミッドナイトスリム（横漏れ帽子 ）**：上記「せきらら白書をもう一度」に同じ。
   - **堀端pick up this week**：中高生の気になる話題を紹介。
   - **幸せの一本締め**

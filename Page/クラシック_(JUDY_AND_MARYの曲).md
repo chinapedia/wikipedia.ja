@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [1996年](../Page/1996年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[エピックレコーズよりリリースされた](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。累計売上は63.2万枚（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）。
+  - [1996年](../Page/1996年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[エピックレコーズよりリリースされた](../Page/エピックレコードジャパン.md "wikilink")。累計売上は63.2万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
 
 <!-- end list -->
 
@@ -14,14 +14,14 @@
 ## 収録曲
 
 1.  **クラシック** (3:49)
-    （作詞：Tack and Yukky　作曲：[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")）
+    （作詞：Tack and Yukky　作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")）
       -
-        [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「Pop-file」オープニングテーマ
+        [TBS](../Page/TBSテレビ.md "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「Pop-file」オープニングテーマ
         [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「野菜スープヌードル」TVCM
 2.  **おめでとう** (4:49)
-    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[恩田快人](https://ja.wikipedia.org/wiki/恩田快人 "wikilink")）
+    （作詞：[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")　作曲：[恩田快人](../Page/恩田快人.md "wikilink")）
       -
-        オリジナル・アルバム未収録曲。2001年発売のベスト・アルバム『[The Great Escape -COMPLETE BEST-](https://ja.wikipedia.org/wiki/The_Great_Escape_-COMPLETE_BEST- "wikilink")』に初収録された。
+        オリジナル・アルバム未収録曲。2001年発売のベスト・アルバム『[The Great Escape -COMPLETE BEST-](../Page/The_Great_Escape_-COMPLETE_BEST-.md "wikilink")』に初収録された。
 3.  **クラシック (Backing Track)** (3:49)
     （作曲：TAKUYA）
 
@@ -30,9 +30,9 @@
 ## 収録アルバム
 
   - [THE POWER SOURCE](../Page/THE_POWER_SOURCE.md "wikilink") (\#1)
-  - [FRESH](https://ja.wikipedia.org/wiki/FRESH_\(アルバム\) "wikilink") (\#1)
-  - [The Great Escape -COMPLETE BEST-](https://ja.wikipedia.org/wiki/The_Great_Escape_-COMPLETE_BEST- "wikilink") (\#1,2)
-  - [COMPLETE BEST ALBUM「FRESH」](https://ja.wikipedia.org/wiki/COMPLETE_BEST_ALBUM「FRESH」 "wikilink") (\#1)
+  - [FRESH](../Page/FRESH_\(アルバム\).md "wikilink") (\#1)
+  - [The Great Escape -COMPLETE BEST-](../Page/The_Great_Escape_-COMPLETE_BEST-.md "wikilink") (\#1,2)
+  - [COMPLETE BEST ALBUM「FRESH」](../Page/COMPLETE_BEST_ALBUM「FRESH」.md "wikilink") (\#1)
 
 ## カバー
 

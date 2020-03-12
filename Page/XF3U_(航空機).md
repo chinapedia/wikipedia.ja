@@ -1,7 +1,7 @@
 > この記事は[XF3U \(\)](https://ja.wikipedia.org/wiki/XF3U_\(\))から翻訳されています。
 
 
-**XF3U**は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[チャンス・ヴォート社が開発した全金属製](https://ja.wikipedia.org/wiki/ヴォート・エアクラフト・インダストリーズ "wikilink")[複葉](../Page/複葉機.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。1機が試作されたのみで、制式採用はなされなかったが、急降下爆撃機SBUへと改造され、そちらは制式採用の後量産された。
+**XF3U**は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[チャンス・ヴォート社が開発した全金属製](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[複葉](../Page/複葉機.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。1機が試作されたのみで、制式採用はなされなかったが、急降下爆撃機SBUへと改造され、そちらは制式採用の後量産された。
 
 ## 概要
 
@@ -19,7 +19,7 @@
   - 全幅：9.60m
   - 全高：3.32m
   - 自重：1.6t
-  - 機関：P\&W R-1535 レシプロ[星型エンジン](https://ja.wikipedia.org/wiki/星型エンジン "wikilink") 700馬力 1基
+  - 機関：P\&W R-1535 レシプロ[星型エンジン](../Page/星型エンジン.md "wikilink") 700馬力 1基
   - 乗員：2名
   - 武装：7.7mm機銃3門、爆弾105kg
   - 最大速度：334km/h

@@ -5,14 +5,14 @@
 
 ## 概要
 
-  - 初の[オリコンTOP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入りを果たしたシングル。
-  - 2001年7月3日[AX MUSIC-TVに出演](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")。
-  - 2001年7月13日[FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")に出演。
+  - 初の[オリコンTOP](../Page/オリコンチャート.md "wikilink")10入りを果たしたシングル。
+  - 2001年7月3日[AX MUSIC-TVに出演](../Page/AX_MUSIC-TV.md "wikilink")。
+  - 2001年7月13日[FUN](../Page/FUN.md "wikilink")に出演。
   - 2001年7月16日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
 
 ### タイアップ
 
-  - NTV系『[とりあえずイイ感じ。](https://ja.wikipedia.org/wiki/とりあえずイイ感じ。 "wikilink")』エンディング・テーマ
+  - NTV系『[とりあえずイイ感じ。](../Page/とりあえずイイ感じ。.md "wikilink")』エンディング・テーマ
   - NTV系『shinD六本木野獣会』エンディング・テーマ
 
 ### 初回特典
@@ -29,12 +29,12 @@
 <!-- end list -->
 
   -
-    作詞･作曲･編曲：[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+    作詞･作曲･編曲：[葉山拓亮](../Page/葉山拓亮.md "wikilink")
     編曲：Banana Ice（\#3）
 
 ## その他
 
-  - 全国8大都市イベントを行い、東京会場である[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")オリンピックプラザでは1日に7000人ものファンと握手をした。
+  - 全国8大都市イベントを行い、東京会場である[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")オリンピックプラザでは1日に7000人ものファンと握手をした。
 
 -----
 

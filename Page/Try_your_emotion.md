@@ -7,8 +7,8 @@
 
   - この曲から涼平と龍一は慶太と同じボーカルマイクを使ってのパフォーマンスに切り替えた。
   - PVでは初の演技を披露、SEP所属[宮坂まゆみ](https://ja.wikipedia.org/wiki/宮坂まゆみ "wikilink")が初めて担当した。
-  - 2002年2月13日[パパパパパフィー](https://ja.wikipedia.org/wiki/パパパパパフィー "wikilink")に出演。
-  - 2002年2月22日[FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")に出演。
+  - 2002年2月13日[パパパパパフィー](../Page/パパパパパフィー.md "wikilink")に出演。
+  - 2002年2月22日[FUN](../Page/FUN.md "wikilink")に出演。
   - 2002年3月25日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
 
 ### タイアップ
@@ -34,12 +34,12 @@
 <!-- end list -->
 
   -
-    作詞･作曲･編曲：[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+    作詞･作曲･編曲：[葉山拓亮](../Page/葉山拓亮.md "wikilink")
     編曲：[MoFO★NARUSE](http://www.geocities.co.jp/MusicHall/3635/S-naruse.html)（\#3）
 
 ## その他
 
-  - [2月10日](../Page/2月10日.md "wikilink")、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")に抽選で選ばれた1700人を招待し発売イベントを行った。
+  - [2月10日](../Page/2月10日.md "wikilink")、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")に抽選で選ばれた1700人を招待し発売イベントを行った。
 
 -----
 

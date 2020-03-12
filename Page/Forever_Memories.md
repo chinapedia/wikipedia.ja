@@ -5,15 +5,15 @@
 
 ## 概要
 
-デビュー曲候補には3曲が用意され、中でも後に1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』に収録される「ROUND & ROUND」が最有力候補曲であった。デビュー曲に決定した「Forever Memories」は、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")を手掛けた[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")が元々“女性ボーカリスト”用に[ストック](../Page/ストック.md "wikilink")していた楽曲であった。デビュー以前から、[代々木公園](../Page/代々木公園.md "wikilink")や[渋谷](../Page/渋谷.md "wikilink")近辺での[路上ライブ](../Page/路上ライブ.md "wikilink")で披露されていた。
+デビュー曲候補には3曲が用意され、中でも後に1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』に収録される「ROUND & ROUND」が最有力候補曲であった。デビュー曲に決定した「Forever Memories」は、[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")を手掛けた[葉山拓亮](../Page/葉山拓亮.md "wikilink")が元々“女性ボーカリスト”用に[ストック](../Page/ストック.md "wikilink")していた楽曲であった。デビュー以前から、[代々木公園](../Page/代々木公園.md "wikilink")や[渋谷](../Page/渋谷.md "wikilink")近辺での[路上ライブ](../Page/路上ライブ.md "wikilink")で披露されていた。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")に23週にわたってランクインした[ロングヒット](https://ja.wikipedia.org/wiki/ロングヒット "wikilink")作品。尚、この記録は2010年3月末時点では未だ更新されていない。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")に23週にわたってランクインした[ロングヒット](https://ja.wikipedia.org/wiki/ロングヒット "wikilink")作品。尚、この記録は2010年3月末時点では未だ更新されていない。
 
-ストリート時代からデビューしてしばらく(「[Paradox](https://ja.wikipedia.org/wiki/Paradox_\(w-inds.の曲\) "wikilink") 」まで)の間、[マイクの種類によってメンバーの区別化を図っていた](../Page/マイクロフォン.md "wikilink")。ボーカルである[慶太は通常のマイク](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")、[涼平と](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")[龍一はダンスに特化できるよう](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")[インカムを使用している](https://ja.wikipedia.org/wiki/ヘッドセット_\(音響機器\) "wikilink")。
+ストリート時代からデビューしてしばらく(「[Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink") 」まで)の間、[マイクの種類によってメンバーの区別化を図っていた](../Page/マイクロフォン.md "wikilink")。ボーカルである[慶太は通常のマイク](../Page/橘慶太.md "wikilink")、[涼平と](../Page/千葉涼平.md "wikilink")[龍一はダンスに特化できるよう](../Page/緒方龍一.md "wikilink")[インカムを使用している](../Page/ヘッドセット_\(音響機器\).md "wikilink")。
 
-[コレオグラフィー](https://ja.wikipedia.org/wiki/コレオグラフィー "wikilink")及び指導は、同事務所所属の先輩ユニット・[DA PUMPに当時在籍していたKEN](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")（奥本健）が担当。またカップリング曲「Moon Clock」の[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")時には、メンバー3人が考案した振りも組み込まれている。
+[コレオグラフィー](https://ja.wikipedia.org/wiki/コレオグラフィー "wikilink")及び指導は、同事務所所属の先輩ユニット・[DA PUMPに当時在籍していたKEN](../Page/DA_PUMP.md "wikilink")（奥本健）が担当。またカップリング曲「Moon Clock」の[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")時には、メンバー3人が考案した振りも組み込まれている。
 
-2001年4月27日[FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")に初出演。
+2001年4月27日[FUN](../Page/FUN.md "wikilink")に初出演。
 
 2001年4月30日[HEY\!HEY\!HEY\!MUSIC CHAMPに初出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
 
@@ -31,7 +31,7 @@
 <!-- end list -->
 
   -
-    作詞・作曲・編曲: [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+    作詞・作曲・編曲: [葉山拓亮](../Page/葉山拓亮.md "wikilink")
     リミックス: [Banana Ice](https://ja.wikipedia.org/wiki/BANANA_ICE "wikilink")(\#3)
 
 ## その他

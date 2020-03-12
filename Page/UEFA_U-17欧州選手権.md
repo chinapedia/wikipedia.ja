@@ -1,11 +1,11 @@
 > この記事は[UEFA U-17](https://ja.wikipedia.org/wiki/UEFA_U-17)から翻訳されています。
 
 
-**UEFA U-17欧州選手権**（）とは、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、17歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。1982年から2001年までは**UEFA U-16欧州選手権**であり、16歳以下のナショナルチームが出場した。
+**UEFA U-17欧州選手権**（）とは、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。1982年から2001年までは**UEFA U-16欧州選手権**であり、16歳以下のナショナルチームが出場した。
 
 ## 概要
 
-2大会に1度は[FIFA U-17ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-17ワールドカップ "wikilink")（旧FIFA U-17世界選手権）の予選を兼ねる。
+2大会に1度は[FIFA U-17ワールドカップ](../Page/FIFA_U-17ワールドカップ.md "wikilink")（旧FIFA U-17世界選手権）の予選を兼ねる。
 
 ## 結果
 
@@ -309,7 +309,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2005" title="wikilink">23</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
@@ -320,7 +320,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2006" title="wikilink">24</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 2</strong><br />
@@ -815,7 +815,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2002" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・ルーニー" title="wikilink">ウェイン・ルーニー</a></p></td>
+<td><p><a href="../Page/ウェイン・ルーニー.md" title="wikilink">ウェイン・ルーニー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホナタン・ソリアーノ・カサス" title="wikilink">ホナタン・ソリアーノ</a></p></td>
 <td><p>7</p></td>
 </tr>
@@ -836,7 +836,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2005" title="wikilink">2005</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヌリ・シャヒン" title="wikilink">ヌリ・シャヒン</a></p></td>
+<td><p><a href="../Page/ヌリ・シャヒン.md" title="wikilink">ヌリ・シャヒン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テヴフィク・キョセ" title="wikilink">テヴフィク・キョセ</a></p></td>
 <td><p>6</p></td>
 </tr>
@@ -844,13 +844,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2006" title="wikilink">2006</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トニ・クロース" title="wikilink">トニ・クロース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マヌエル・フィッシャー" title="wikilink">マヌエル・フィッシャー</a><br />
- <a href="https://ja.wikipedia.org/wiki/ボージャン・クルキッチ" title="wikilink">ボージャン・クルキッチ</a><br />
+ <a href="../Page/ボージャン・クルキッチ.md" title="wikilink">ボージャン・クルキッチ</a><br />
  <a href="https://ja.wikipedia.org/wiki/トマーシュ・ネツィド" title="wikilink">トマーシュ・ネツィド</a></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_U-17欧州選手権2007.md" title="wikilink">2007</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボージャン・クルキッチ" title="wikilink">ボージャン・クルキッチ</a></p></td>
+<td><p><a href="../Page/ボージャン・クルキッチ.md" title="wikilink">ボージャン・クルキッチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トニ・クロース" title="wikilink">トニ・クロース</a><br />
  <a href="https://ja.wikipedia.org/wiki/ビクター・モーゼス" title="wikilink">ビクター・モーゼス</a></p></td>
 <td><p>3</p></td>
@@ -918,7 +918,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2017" title="wikilink">2017</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイドン・サンチョ" title="wikilink">ジェイドン・サンチョ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アミーヌ・グイリ" title="wikilink">アミーヌ・グイリ</a></p></td>
+<td><p><a href="../Page/アミーヌ・グイリ.md" title="wikilink">アミーヌ・グイリ</a></p></td>
 <td><p>8</p></td>
 </tr>
 </tbody>

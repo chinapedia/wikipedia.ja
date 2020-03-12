@@ -1,13 +1,13 @@
 > この記事は[in](https://ja.wikipedia.org/wiki/in)から翻訳されています。
 
 
-**ザ・ゴルフトーナメントin御前崎**（ザ・ゴルフトーナメントインおまえざき）は[日本ゴルフツアー機構](https://ja.wikipedia.org/wiki/日本ゴルフツアー機構 "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントで](../Page/トーナメント方式.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")から4日間の日程で[静岡県](../Page/静岡県.md "wikilink")[御前崎市](../Page/御前崎市.md "wikilink")にある静岡カントリー浜岡コースを舞台に、[総合広告代理店](https://ja.wikipedia.org/wiki/広告代理店 "wikilink")・[I\&S BBDO](https://ja.wikipedia.org/wiki/I&S_BBDO "wikilink")（アイアンドエス・ビービーディオー、旧・第一広告社）の主催で行われた。
+**ザ・ゴルフトーナメントin御前崎**（ザ・ゴルフトーナメントインおまえざき）は[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントで](../Page/トーナメント方式.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")から4日間の日程で[静岡県](../Page/静岡県.md "wikilink")[御前崎市](../Page/御前崎市.md "wikilink")にある静岡カントリー浜岡コースを舞台に、[総合広告代理店](../Page/広告代理店.md "wikilink")・[I\&S BBDO](../Page/I&S_BBDO.md "wikilink")（アイアンドエス・ビービーディオー、旧・第一広告社）の主催で行われた。
 
 ## 概要
 
-当初は[消費者金融](../Page/消費者金融.md "wikilink")大手・[アイフル](https://ja.wikipedia.org/wiki/アイフル "wikilink")の特別協賛により「**アイフルカップゴルフトーナメント**」として開催する予定だったが、アイフルによる強引な営業活動、厳しい取り立て、違法な金利などの[貸金業法違反が発覚し社会問題化した](https://ja.wikipedia.org/wiki/貸金業の規制等に関する法律 "wikilink")。このため[金融庁](../Page/金融庁.md "wikilink")及び[財務省](../Page/財務省_\(日本\).md "wikilink")[近畿財務局](../Page/近畿財務局.md "wikilink")から業務停止命令の行政処分を受けることになり、社会的影響を考慮したアイフルが[冠スポンサーから撤退したのを受けて急遽この大会名で開催されたものである](https://ja.wikipedia.org/wiki/スポンサー "wikilink")。2006年については当初の契約通りで施行された（賞金総額1億2000万円、優勝賞金2400万円も変更なし）が\[1\]、2007年以降は「消費者金融業界を取り巻く諸般の事情」\[2\]により開催断念を決めた（同様の理由により「[アコムインターナショナル](https://ja.wikipedia.org/wiki/アコムインターナショナル "wikilink")」及び「[LPGA武富士クラシック](https://ja.wikipedia.org/wiki/LPGA武富士クラシック "wikilink")」も開催断念を決めた）。
+当初は[消費者金融](../Page/消費者金融.md "wikilink")大手・[アイフル](../Page/アイフル.md "wikilink")の特別協賛により「**アイフルカップゴルフトーナメント**」として開催する予定だったが、アイフルによる強引な営業活動、厳しい取り立て、違法な金利などの[貸金業法違反が発覚し社会問題化した](https://ja.wikipedia.org/wiki/貸金業の規制等に関する法律 "wikilink")。このため[金融庁](../Page/金融庁.md "wikilink")及び[財務省](../Page/財務省_\(日本\).md "wikilink")[近畿財務局](../Page/近畿財務局.md "wikilink")から業務停止命令の行政処分を受けることになり、社会的影響を考慮したアイフルが[冠スポンサーから撤退したのを受けて急遽この大会名で開催されたものである](../Page/スポンサー.md "wikilink")。2006年については当初の契約通りで施行された（賞金総額1億2000万円、優勝賞金2400万円も変更なし）が\[1\]、2007年以降は「消費者金融業界を取り巻く諸般の事情」\[2\]により開催断念を決めた（同様の理由により「[アコムインターナショナル](../Page/アコムインターナショナル.md "wikilink")」及び「[LPGA武富士クラシック](../Page/LPGA武富士クラシック.md "wikilink")」も開催断念を決めた）。
 
-「アイフルカップ」は1998年にスタート。これまで[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")の三県を舞台に「[三菱ダイヤモンドカップゴルフ](https://ja.wikipedia.org/wiki/ダイヤモンドカップゴルフ "wikilink")」（現・ダイヤモンドカップゴルフ）と同様、サーキットトーナメントとして行われてきた。
+「アイフルカップ」は1998年にスタート。これまで[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")の三県を舞台に「[三菱ダイヤモンドカップゴルフ](../Page/ダイヤモンドカップゴルフ.md "wikilink")」（現・ダイヤモンドカップゴルフ）と同様、サーキットトーナメントとして行われてきた。
 
 会場となる静岡カントリー浜岡コースは、かつて毎年3月下旬に行われていた「[ダイドードリンコ](../Page/ダイドードリンコ.md "wikilink")[静岡オープン](https://ja.wikipedia.org/wiki/静岡オープンゴルフトーナメント "wikilink")」([静岡新聞](https://ja.wikipedia.org/wiki/静岡新聞社 "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")主催)の舞台であった。
 
@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊沢利光" title="wikilink">伊沢利光</a></p></td>
+<td><p><a href="../Page/伊沢利光.md" title="wikilink">伊沢利光</a></p></td>
 <td><p>鰺ヶ沢高原ゴルフ場</p></td>
 <td></td>
 <td></td>
@@ -76,14 +76,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>高橋竜彦</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong>ザ・ゴルフトーナメントin御前崎</strong></p></td>
 <td><p><a href="../Page/谷口徹.md" title="wikilink">谷口徹</a></p></td>
 <td><p>静岡カントリー浜岡コース</p></td>

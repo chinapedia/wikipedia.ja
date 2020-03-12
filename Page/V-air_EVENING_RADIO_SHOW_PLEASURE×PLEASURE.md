@@ -1,7 +1,7 @@
 > この記事は[V-air EVENING RADIO SHOW PLEASUREPLEASURE](https://ja.wikipedia.org/wiki/V-air_EVENING_RADIO_SHOW_PLEASUREPLEASURE)から翻訳されています。
 
 
-『**V-air EVENING RADIO SHOW PLEASURE×PLEASURE**』（ブイエアー・イブニング・レディオ・ショー・プレジャー・プレジャー）は、[エフエム山陰](../Page/エフエム山陰.md "wikilink")で放送されていたラジオ番組である。放送時間は毎週月曜日から木曜日の17:15～19:55（開始当初は17:00～18:55）。パーソナリティーは[甲斐田貴之](../Page/甲斐田貴之.md "wikilink")。通称プレプレ。祝日、お盆休みなどは特別企画を放送するのが恒例だった。後番組は『[V-air EVENING Live THE MUSIC RADIO\!\!](https://ja.wikipedia.org/wiki/Mラジ "wikilink")』。
+『**V-air EVENING RADIO SHOW PLEASURE×PLEASURE**』（ブイエアー・イブニング・レディオ・ショー・プレジャー・プレジャー）は、[エフエム山陰](../Page/エフエム山陰.md "wikilink")で放送されていたラジオ番組である。放送時間は毎週月曜日から木曜日の17:15～19:55（開始当初は17:00～18:55）。パーソナリティーは[甲斐田貴之](../Page/甲斐田貴之.md "wikilink")。通称プレプレ。祝日、お盆休みなどは特別企画を放送するのが恒例だった。後番組は『[V-air EVENING Live THE MUSIC RADIO\!\!](../Page/Mラジ.md "wikilink")』。
 
 ## 略歴
 
@@ -68,7 +68,7 @@
 ### 月曜日
 
   - [175R](../Page/175R.md "wikilink")
-  - [Jackson vibe](https://ja.wikipedia.org/wiki/Jackson_vibe "wikilink")
+  - [Jackson vibe](../Page/Jackson_vibe.md "wikilink")
 
 他
 
@@ -106,7 +106,7 @@
   - **ちょっと聞いてョ！思いッきりプレ電話**
       -
         2004年9月に放送。リスナーに[逆電](../Page/逆電.md "wikilink")する企画。企画名は[午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")に倣ったものである。
-  - **[シーサー](https://ja.wikipedia.org/wiki/シーサー "wikilink")争奪優柔不断王決定戦**
+  - **[シーサー](../Page/シーサー.md "wikilink")争奪優柔不断王決定戦**
       -
         2003年9月に放送。リスナーから「自分は優柔不断だなあ」と思ったエピソードを募集し、発表。なお、これには単位があり、「自動販売機でジュースを買うときに、迷って選べずにボタンを2つ同時に押してしまう」のを「1ジュース（1JC）」と定義していた。
   - **コダワリノリクエスト**
@@ -116,7 +116,7 @@
       -
         2004年3月・9月に放送。リスナー同士の繋がりを確かめるためのリクエスト企画。「○○というアーティストの△△という曲が聴きたい。その次は××というアーティストの曲が聴きたい」というリクエストを繰り返していく。
           -
-            例えば、1人目が「[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の『[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")』が聴きたい、その次は[BUMP OF CHICKENの曲が聴きたい](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")」というリクエストを送ってきた場合、まずSEASONSをオンエアー。次の人が「BUMP OF CHICKENの『[天体観測](../Page/天体観測_\(曲\).md "wikilink")』が聴きたい、その次は[レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")の曲が聴きたい」というリクエストを採用……といった具合に繰り返していく。
+            例えば、1人目が「[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の『[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")』が聴きたい、その次は[BUMP OF CHICKENの曲が聴きたい](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")」というリクエストを送ってきた場合、まずSEASONSをオンエアー。次の人が「BUMP OF CHICKENの『[天体観測](../Page/天体観測_\(曲\).md "wikilink")』が聴きたい、その次は[レミオロメン](../Page/レミオロメン.md "wikilink")の曲が聴きたい」というリクエストを採用……といった具合に繰り返していく。
             ただし、「次に聴きたいアーティスト」は発表されないので、運が悪ければ企画自体がストップしてしまう、という危険もあった。
 
 ## 備考

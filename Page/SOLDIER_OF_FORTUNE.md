@@ -1,7 +1,7 @@
 > この記事は[SOLDIER OF FORTUNE](https://ja.wikipedia.org/wiki/SOLDIER_OF_FORTUNE)から翻訳されています。
 
 
-『**SOLDIER OF FORTUNE**』（ソルジャー・オブ・フォーチュン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")が[1989年](../Page/1989年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースした、8枚目（英語版、日本語版、リミックス版も含めると11枚目）のオリジナルアルバム、及びそれに収録されている楽曲のタイトルである。
+『**SOLDIER OF FORTUNE**』（ソルジャー・オブ・フォーチュン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[LOUDNESS](../Page/LOUDNESS.md "wikilink")が[1989年](../Page/1989年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースした、8枚目（英語版、日本語版、リミックス版も含めると11枚目）のオリジナルアルバム、及びそれに収録されている楽曲のタイトルである。
 
 [2002年](../Page/2002年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に第2期以降の他のアルバムと一緒に廉価盤がリリースされた。その際、帯と歌詞カード、レーベル面のデザインが変更されている。
 
@@ -46,10 +46,10 @@
 
 ## 参加ミュージシャン
 
-  - [高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")：[ギター](../Page/ギター.md "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")
+  - [高崎晃](../Page/高崎晃.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")
   - [マイク・ヴェセーラ](../Page/マイク・ヴェセーラ.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [山下昌良](https://ja.wikipedia.org/wiki/山下昌良 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [樋口宗孝](https://ja.wikipedia.org/wiki/樋口宗孝 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
+  - [山下昌良](../Page/山下昌良.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [樋口宗孝](../Page/樋口宗孝.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
   - Claude Schnell：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
 
 <center>
@@ -67,7 +67,7 @@
 
 <td width = 40%  align = center>
 
-**[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")のオリジナル[アルバム](../Page/アルバム.md "wikilink")**
+**[LOUDNESS](../Page/LOUDNESS.md "wikilink")のオリジナル[アルバム](../Page/アルバム.md "wikilink")**
 
 </td>
 
@@ -86,7 +86,7 @@
 
 ## 関連項目
 
-  - [1989年の音楽](https://ja.wikipedia.org/wiki/1989年の音楽 "wikilink")
-  - [サンダーフォース](https://ja.wikipedia.org/wiki/サンダーフォース "wikilink") - Soldier of fortuneに酷似しているMetal Squadという曲が、4作目に含まれる。
+  - [1989年の音楽](../Page/1989年の音楽.md "wikilink")
+  - [サンダーフォース](../Page/サンダーフォース.md "wikilink") - Soldier of fortuneに酷似しているMetal Squadという曲が、4作目に含まれる。
 
 [Category:LOUDNESSのアルバム](https://ja.wikipedia.org/wiki/Category:LOUDNESSのアルバム "wikilink") [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink")

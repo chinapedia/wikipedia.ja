@@ -7,7 +7,7 @@
 
 コンセプトアルバムとして構成されており、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前後の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を舞台とし、Gacktは一度命を絶たれた後に、謎の古代遺跡から発掘された「オーパーツ」を心臓として埋め込まれサイボーグとして再生するという物語になっている。
 
-活動を再開した後にリリースされながら、前作『[MARS](https://ja.wikipedia.org/wiki/MARS_\(GACKTのアルバム\) "wikilink")』に収録されていなかった5thシングル「[鶺鴒 〜seki-ray〜](https://ja.wikipedia.org/wiki/鶺鴒_〜seki-ray〜 "wikilink")」をはじめ、8thシングル「[君のためにできること](https://ja.wikipedia.org/wiki/君のためにできること_\(GACKTの曲\) "wikilink")」までの3曲(各シングルのカップリング曲は、本作には収録されていない。)と、他8曲を収録(1曲目の「4th・・・」は[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink"))。なお、6thシングル「[再会 〜Story〜](https://ja.wikipedia.org/wiki/再会_〜Story〜 "wikilink")」は本作に収録されていない。
+活動を再開した後にリリースされながら、前作『[MARS](../Page/MARS_\(GACKTのアルバム\).md "wikilink")』に収録されていなかった5thシングル「[鶺鴒 〜seki-ray〜](https://ja.wikipedia.org/wiki/鶺鴒_〜seki-ray〜 "wikilink")」をはじめ、8thシングル「[君のためにできること](https://ja.wikipedia.org/wiki/君のためにできること_\(GACKTの曲\) "wikilink")」までの3曲(各シングルのカップリング曲は、本作には収録されていない。)と、他8曲を収録(1曲目の「4th・・・」は[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink"))。なお、6thシングル「[再会 〜Story〜](https://ja.wikipedia.org/wiki/再会_〜Story〜 "wikilink")」は本作に収録されていない。
 
 本作発売後にアルバムツアー『[Gackt Live Tour 2001 Requiem et Réminiscence 〜鎮魂と再生〜](https://ja.wikipedia.org/wiki/Requiem_et_Réminiscence_〜終焉と静寂〜_特別編 "wikilink")』が開催された。
 
@@ -29,7 +29,7 @@
         2006年に行ったファンクラブ限定ツアー『GACKT TRAINING DAYS D.R.U.G. PARTY』で久し振りに演奏された。
 4.  **uncontrol** (4:14)
       -
-        後に、38thシングル「[EVER](https://ja.wikipedia.org/wiki/EVER "wikilink")」にて、[ライブ](https://ja.wikipedia.org/wiki/ライブ "wikilink")バージョンで収録された。
+        後に、38thシングル「[EVER](https://ja.wikipedia.org/wiki/EVER "wikilink")」にて、[ライブ](../Page/ライブ.md "wikilink")バージョンで収録された。
         2006年に行ったファンクラブ限定ツアー『GACKT TRAINING DAYS D.R.U.G. PARTY』で久し振りに演奏された他、『GACKT VISUALIVE TOUR 2008-2009 Requiem et Réminiscence -再生と邂逅-』と『GACKT VISUALIVE ARENA TOUR 2009 Requiem et RéminiscenceII Final -鎮魂と再生-』でも演奏された。
 5.  **[鶺鴒 〜seki-ray〜](https://ja.wikipedia.org/wiki/鶺鴒_〜seki-ray〜 "wikilink") ()** (5:01)
       -
@@ -46,7 +46,7 @@
       -
         [三菱電機](../Page/三菱電機.md "wikilink")「DVDカーナビV7000」CMソング。
         2001年[5月31日](../Page/5月31日.md "wikilink")放送の[うたばん](../Page/うたばん.md "wikilink")にてテレビで初めて演奏された他、[CDTVスペシャル\! 年越しプレミアライブ 2004→2005でも演奏された](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_#CDTVスペシャル!年越しプレミアライブ "wikilink")。
-        ベストアルバム『[THE SEVENTH NIGHT 〜UNPLUGGED〜](https://ja.wikipedia.org/wiki/THE_SEVENTH_NIGHT_〜UNPLUGGED〜 "wikilink")』にて[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンで収録された。
+        ベストアルバム『[THE SEVENTH NIGHT 〜UNPLUGGED〜](../Page/THE_SEVENTH_NIGHT_〜UNPLUGGED〜.md "wikilink")』にて[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンで収録された。
         2004年に開催されたライブツアー『Gackt Live Tour 2004 THE SIXTH DAY & THE SEVENTH NIGHT』で久し振りに演奏され、その後も度々演奏されている(2006年、2008年-2009年、2013年)。
 10. **seven** (4:05)
       -
@@ -61,7 +61,7 @@
   - [Gackt's family](https://ja.wikipedia.org/wiki/Gackt#Gackt_Job "wikilink")
   - [塚本周成](https://ja.wikipedia.org/wiki/塚本周成 "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
   - [五十嵐公太](../Page/五十嵐公太.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - [弦一徹](https://ja.wikipedia.org/wiki/落合徹也 "wikilink") - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
+  - [弦一徹](../Page/落合徹也.md "wikilink") - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
   - [堀沢真己](https://ja.wikipedia.org/wiki/堀沢真己 "wikilink") - [チェロ](../Page/チェロ.md "wikilink")
 
 ## 脚注

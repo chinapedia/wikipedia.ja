@@ -7,12 +7,12 @@
 
   - 自身最大のヒット作であり、これをきっかけに[第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")最優秀新人賞を始め第39回ゴールデン･アロー賞音楽新人賞、第16回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニューアーティストオブザイヤーと新人賞を総なめした。
   - またこの楽曲をキーボードで[耳コピー](https://ja.wikipedia.org/wiki/耳コピー "wikilink")した龍一はその達成感からより楽器に興味を持ち、涼平は自ら出演した番組を見て未熟だと気づきダンスや仕事への気持ちを改めるなど、後の個々の活躍に大きな影響を与えている。
-  - 2001年10月17日[AX MUSIC-TVに出演](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")。
+  - 2001年10月17日[AX MUSIC-TVに出演](../Page/AX_MUSIC-TV.md "wikilink")。
   - 2001年11月5日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
 
 ### タイアップ
 
-  - NTV系 [FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")『FUN'S RECOMMEND\#019』
+  - NTV系 [FUN](../Page/FUN.md "wikilink")『FUN'S RECOMMEND\#019』
   - 映画『[Star Light](https://ja.wikipedia.org/wiki/Star_Light "wikilink")』主題歌
 
 ### 初回特典
@@ -31,7 +31,7 @@
 <!-- end list -->
 
   -
-    作詞･作曲･編曲: [葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")
+    作詞･作曲･編曲: [葉山拓亮](../Page/葉山拓亮.md "wikilink")
     編曲: Banana Ice(\#3)
 
 ## その他

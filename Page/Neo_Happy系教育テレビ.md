@@ -1,20 +1,20 @@
 > この記事は[Neo Happy](https://ja.wikipedia.org/wiki/Neo_Happy)から翻訳されています。
 
 
-『**Neo Happy系教育テレビ**』（ネオハッピーけい きょういくテレビ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[テレビ大阪](../Page/テレビ大阪.md "wikilink")で放送されていた[SODクリエイト](../Page/SODクリエイト.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[お色気番組](https://ja.wikipedia.org/wiki/お色気番組 "wikilink")）である。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 25時30分 - 26時00分（[土曜](../Page/土曜日.md "wikilink") 1時30分 - 2時00分）。
+『**Neo Happy系教育テレビ**』（ネオハッピーけい きょういくテレビ）は、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[テレビ大阪](../Page/テレビ大阪.md "wikilink")で放送されていた[SODクリエイト](../Page/SODクリエイト.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[お色気番組](../Page/お色気番組.md "wikilink")）である。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 25時30分 - 26時00分（[土曜](../Page/土曜日.md "wikilink") 1時30分 - 2時00分）。
 
 ## 概要
 
-[ソフト・オン・デマンド](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド "wikilink")所属のセクシー[女優たちが大人のための教育系情報などを伝えていた](../Page/俳優.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")。通称は「**NH系教育テレビ**」で、[NHK教育テレビの](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")になっていた。テレビ大阪のみで放送されていたが、収録が行われていたスタジオは[東京](../Page/東京.md "wikilink")にあった。
+[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")所属のセクシー[女優たちが大人のための教育系情報などを伝えていた](../Page/俳優.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")。通称は「**NH系教育テレビ**」で、[NHK教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[パロディ](../Page/パロディ.md "wikilink")になっていた。テレビ大阪のみで放送されていたが、収録が行われていたスタジオは[東京](../Page/東京.md "wikilink")にあった。
 
 ## 出演者
 
-  - [夏目ナナ](https://ja.wikipedia.org/wiki/夏目ナナ "wikilink") - 番組前半の[MC](https://ja.wikipedia.org/wiki/司会 "wikilink")。
-  - [かすみ果穂](https://ja.wikipedia.org/wiki/かすみ果穂 "wikilink")・[範田紗々](../Page/範田紗々.md "wikilink") - 後半のMCはこの2人が交互に行っていた。
-  - [板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink") - [コメンテーター](../Page/コメンテーター.md "wikilink")・御意見番。
-  - [黒沢宗子](https://ja.wikipedia.org/wiki/黒沢かずこ "wikilink")（[森三中](../Page/森三中.md "wikilink")） - [アシスタント](https://ja.wikipedia.org/wiki/アシスタント "wikilink")。
+  - [夏目ナナ](../Page/夏目ナナ.md "wikilink") - 番組前半の[MC](../Page/司会.md "wikilink")。
+  - [かすみ果穂](../Page/かすみ果穂.md "wikilink")・[範田紗々](../Page/範田紗々.md "wikilink") - 後半のMCはこの2人が交互に行っていた。
+  - [板尾創路](../Page/板尾創路.md "wikilink") - [コメンテーター](../Page/コメンテーター.md "wikilink")・御意見番。
+  - [黒沢宗子](../Page/黒沢かずこ.md "wikilink")（[森三中](../Page/森三中.md "wikilink")） - [アシスタント](https://ja.wikipedia.org/wiki/アシスタント "wikilink")。
   - [林克治](https://ja.wikipedia.org/wiki/林克治 "wikilink")（[カリカ](../Page/カリカ_\(お笑いコンビ\).md "wikilink")） - コーナー進行。
-  - SOD所属の女優たち（[MISAKI](https://ja.wikipedia.org/wiki/MISAKI_\(AV女優\) "wikilink")、[結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、[衣川由衣](https://ja.wikipedia.org/wiki/衣川由衣 "wikilink")、[安奈とも](https://ja.wikipedia.org/wiki/安奈とも "wikilink")、彩輝ゆう、[長澤つぐみ](https://ja.wikipedia.org/wiki/長澤つぐみ "wikilink")、[むらさき真珠](../Page/むらさき真珠.md "wikilink")）
+  - SOD所属の女優たち（[MISAKI](https://ja.wikipedia.org/wiki/MISAKI_\(AV女優\) "wikilink")、[結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、[衣川由衣](../Page/衣川由衣.md "wikilink")、[安奈とも](../Page/安奈とも.md "wikilink")、彩輝ゆう、[長澤つぐみ](../Page/長澤つぐみ.md "wikilink")、[むらさき真珠](../Page/むらさき真珠.md "wikilink")）
 
 ## 主なコーナー
 
@@ -23,11 +23,11 @@
 
   - チームDOS（ドエス）（[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")）
 
-:\* FW - [結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、[恋小夜](https://ja.wikipedia.org/wiki/恋小夜 "wikilink")
+:\* FW - [結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、[恋小夜](../Page/恋小夜.md "wikilink")
 
 :\* MF - [中山りお](../Page/中山りお.md "wikilink")・倖田リリ
 
-:\* DF - [長澤つぐみ](https://ja.wikipedia.org/wiki/長澤つぐみ "wikilink")、幅広：天海遥
+:\* DF - [長澤つぐみ](../Page/長澤つぐみ.md "wikilink")、幅広：天海遥
 
 :\* GK - [むらさき真珠](../Page/むらさき真珠.md "wikilink")
 
@@ -36,7 +36,7 @@
 :\* コーチ - カリカ林
 
   - 板尾創路のセックスアピール道
-    [視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")から投稿された男の性欲をくすぐる女性の行動をかすみ、長澤などが演じ、それを板尾が審査する。長澤は演技のうまさに高い評価を得た。
+    [視聴者](../Page/視聴者.md "wikilink")から投稿された男の性欲をくすぐる女性の行動をかすみ、長澤などが演じ、それを板尾が審査する。長澤は演技のうまさに高い評価を得た。
 
   - マッハひとみの[スーパーカー](../Page/スーパーカー.md "wikilink")[天気予報](../Page/天気予報.md "wikilink")
 
@@ -45,9 +45,9 @@
   - 構成：[堀江利幸](../Page/堀江利幸.md "wikilink")、平林義信、北原ゆき
   - 監修：高須信行
   - 技術：[ティ・ピー・ブレーン](../Page/ティ・ピー・ブレーン.md "wikilink")
-  - ロケ技術：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")
+  - ロケ技術：[八峯テレビ](../Page/八峯テレビ.md "wikilink")
   - 音効：石見知哉
-  - EED：堀口竜・小野愛（SODartworks\[1\]）、増田直人（[テレテックメディアパーク](https://ja.wikipedia.org/wiki/テレテックメディアパーク "wikilink")）
+  - EED：堀口竜・小野愛（SODartworks\[1\]）、増田直人（[テレテックメディアパーク](../Page/テレテックメディアパーク.md "wikilink")）
   - MA：古木信一（SODartworks）、阿世知貴彦（テレテックメディアパーク）
   - セットデザイン：[吉野敏充](https://ja.wikipedia.org/wiki/吉野敏充 "wikilink")、宮崎梨絵子
   - 美術 : [金井大道具](https://ja.wikipedia.org/wiki/金井大道具 "wikilink")

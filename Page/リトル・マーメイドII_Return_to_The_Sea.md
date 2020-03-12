@@ -3,7 +3,7 @@
 
 『**リトル・マーメイドII Return to The Sea**』（リトル・マーメイドツー リターン・トゥー・ザ・シー、原題：The Little Mermaid II: Return to the Sea）は、[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")』の続編として作られた[OVA](../Page/OVA.md "wikilink")である。全米では、[2000年](../Page/2000年.md "wikilink")の制作作品。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[ウォルト・ディズニー・スタジオ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")より期間限定生産DVD（VWDS-5190）が発売されている。ミュージック・クリップやオリジナル・テーマソングなど映像特典を収録されている。日本では、ディズニートゥーンスタジオ作品としては最後のレーザーディスク版発売作品となった。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[ウォルト・ディズニー・スタジオ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")より期間限定生産DVD（VWDS-5190）が発売されている。ミュージック・クリップやオリジナル・テーマソングなど映像特典を収録されている。日本では、ディズニートゥーンスタジオ作品としては最後のレーザーディスク版発売作品となった。
 
 ## ストーリー
 
@@ -67,8 +67,8 @@
 <tbody>
 <tr class="odd">
 <td><p>メロディ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タラ・ストロング" title="wikilink">タラ・シャレンドフ</a></p></td>
-<td><p>台詞：<a href="https://ja.wikipedia.org/wiki/中山エミリ" title="wikilink">中山エミリ</a><br />
+<td><p><a href="../Page/タラ・ストロング.md" title="wikilink">タラ・シャレンドフ</a></p></td>
+<td><p>台詞：<a href="../Page/中山エミリ.md" title="wikilink">中山エミリ</a><br />
 歌：<a href="https://ja.wikipedia.org/wiki/安田恵" title="wikilink">安田恵</a></p></td>
 </tr>
 <tr class="even">
@@ -89,22 +89,22 @@
 <tr class="odd">
 <td><p>スカットル</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バディ・ハケット" title="wikilink">バディ・ハケット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤哲夫" title="wikilink">後藤哲夫</a></p></td>
+<td><p><a href="../Page/後藤哲夫.md" title="wikilink">後藤哲夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>トリトン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kenneth_Mars" title="wikilink">ケネス・マース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石田太郎" title="wikilink">石田太郎</a></p></td>
+<td><p><a href="../Page/石田太郎.md" title="wikilink">石田太郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ティップ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マックス・カセラ" title="wikilink">マックス・カセラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高木渉" title="wikilink">高木渉</a></p></td>
+<td><p><a href="../Page/高木渉.md" title="wikilink">高木渉</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ダッシュ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スティーヴン・ファースト" title="wikilink">スティーヴン・ファースト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/茶風林" title="wikilink">茶風林</a></p></td>
+<td><p><a href="../Page/茶風林.md" title="wikilink">茶風林</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>エリック</p></td>
@@ -119,12 +119,12 @@
 <tr class="odd">
 <td><p>フランダー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カム・クラーク" title="wikilink">カム・クラーク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神奈延年" title="wikilink">神奈延年</a></p></td>
+<td><p><a href="../Page/神奈延年.md" title="wikilink">神奈延年</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ルイ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルネ・オーベルジョノワ" title="wikilink">ルネ・オーベルジョノワ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎ひろし" title="wikilink">岩崎ひろし</a></p></td>
+<td><p><a href="../Page/岩崎ひろし.md" title="wikilink">岩崎ひろし</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>グリムズビー</p></td>
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>カーロッタ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エディ・マックラーグ" title="wikilink">エディ・マックラーグ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀越真己" title="wikilink">堀越真己</a></p></td>
+<td><p><a href="../Page/堀越真己.md" title="wikilink">堀越真己</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>母さんペンギン</p></td>
@@ -143,13 +143,13 @@
 </tr>
 <tr class="even">
 <td><p>スイーティ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瀧本富士子" title="wikilink">瀧本富士子</a></p></td>
+<td><p><a href="../Page/瀧本富士子.md" title="wikilink">瀧本富士子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ハンサムボーイ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャスティン・シュルテ" title="wikilink">ジャスティン・シュルテ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林勇_(声優)" title="wikilink">林勇</a></p></td>
+<td><p><a href="../Page/林勇_(声優).md" title="wikilink">林勇</a></p></td>
 </tr>
 <tr class="even">
 <td><p>マックス</p></td>
@@ -174,11 +174,11 @@
 </tbody>
 </table>
 
-| その他声の出演                                                 |
-| ------------------------------------------------------- |
-| [田野恵](https://ja.wikipedia.org/wiki/田野恵 "wikilink")     |
-| [小野塚貴志](https://ja.wikipedia.org/wiki/小野塚貴志 "wikilink") |
-|                                                         |
+| その他声の出演                                             |
+| --------------------------------------------------- |
+| [田野恵](https://ja.wikipedia.org/wiki/田野恵 "wikilink") |
+| [小野塚貴志](../Page/小野塚貴志.md "wikilink")                |
+|                                                     |
 
 ## 主題歌・挿入歌
 
@@ -204,7 +204,7 @@
 <!-- end list -->
 
   -
-    歌：[松本英子](https://ja.wikipedia.org/wiki/松本英子_\(歌手\) "wikilink")、作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")、作曲・編曲：[Robbie Buchanan](https://ja.wikipedia.org/wiki/Robbie_Buchanan "wikilink")
+    歌：[松本英子](../Page/松本英子_\(歌手\).md "wikilink")、作詞：[川村真澄](../Page/川村真澄.md "wikilink")、作曲・編曲：[Robbie Buchanan](https://ja.wikipedia.org/wiki/Robbie_Buchanan "wikilink")
 
 <!-- end list -->
 
@@ -256,14 +256,14 @@
   - 美術：[フレッド・クライン](https://ja.wikipedia.org/wiki/フレッド・クライン "wikilink")
   - アニメーション監督：[アンドルー・コリンズ](https://ja.wikipedia.org/wiki/アンドルー・コリンズ "wikilink")、[ケビン・ピーティ](https://ja.wikipedia.org/wiki/ケビン・ピーティ "wikilink")、[ショーン・セレズ](https://ja.wikipedia.org/wiki/ショーン・セレズ "wikilink")
   - 音楽：[ダニー・トルーブ](https://ja.wikipedia.org/wiki/ダニー・トルーブ "wikilink")
-  - 作詞・作曲：[マイケル](https://ja.wikipedia.org/wiki/マイケル "wikilink")&[パティ・シルバーシャー](https://ja.wikipedia.org/wiki/パティ・シルバーシャー "wikilink")
+  - 作詞・作曲：[マイケル](../Page/マイケル.md "wikilink")&[パティ・シルバーシャー](https://ja.wikipedia.org/wiki/パティ・シルバーシャー "wikilink")
 
 ## 日本語版制作スタッフ
 
   - 演出：[木村絵理子](https://ja.wikipedia.org/wiki/木村絵理子 "wikilink")
   - 吹替翻訳：[杉田朋子](https://ja.wikipedia.org/wiki/杉田朋子 "wikilink")
   - 音楽演出：[深澤茂行](https://ja.wikipedia.org/wiki/深澤茂行 "wikilink")
-  - 録音・調整：[アオイスタジオ](https://ja.wikipedia.org/wiki/アオイスタジオ "wikilink")、[オムニバス・ジャパン](https://ja.wikipedia.org/wiki/オムニバス・ジャパン "wikilink")
+  - 録音・調整：[アオイスタジオ](../Page/アオイスタジオ.md "wikilink")、[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
   - 録音制作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
   - 制作監修：[津司大三](https://ja.wikipedia.org/wiki/津司大三 "wikilink")
   - 日本語版制作：DISNEY CHARACTER VOICES INTERNATIONAL, INC.
@@ -272,8 +272,8 @@
 
   - 『[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")』 - 本作ではメロディの両親となっているアリエルとエリックの出逢いが描かれている前作。
   - 『[リトル・マーメイドIII はじまりの物語](https://ja.wikipedia.org/wiki/リトル・マーメイドIII_はじまりの物語 "wikilink")』 - 本作の次作OVA作品。前作以前のアトランティカを舞台にした作品。
-  - [マーメイドラグーン](https://ja.wikipedia.org/wiki/マーメイドラグーン "wikilink") - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")内にある、本作にも登場するアトランティカをテーマにしたポート。ポート内のアトラクションも、本作キャラクターをコンセプトにしたものや、登場しているものがある（詳しくは[東京ディズニーシーのアトラクション](https://ja.wikipedia.org/wiki/東京ディズニーシーのアトラクション "wikilink")参照）。
-  - [キングダム ハーツ シリーズ](https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ "wikilink") - ゲーム内のワールド―アトランティカに、アリエルを始めとした本作にも登場するキャラクターが出演する。
+  - [マーメイドラグーン](../Page/マーメイドラグーン.md "wikilink") - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")内にある、本作にも登場するアトランティカをテーマにしたポート。ポート内のアトラクションも、本作キャラクターをコンセプトにしたものや、登場しているものがある（詳しくは[東京ディズニーシーのアトラクション](https://ja.wikipedia.org/wiki/東京ディズニーシーのアトラクション "wikilink")参照）。
+  - [キングダム ハーツ シリーズ](../Page/キングダム_ハーツ_シリーズ.md "wikilink") - ゲーム内のワールド―アトランティカに、アリエルを始めとした本作にも登場するキャラクターが出演する。
   - [Kinect: ディズニーランド・アドベンチャーズ](https://ja.wikipedia.org/wiki/Kinect:_ディズニーランド・アドベンチャーズ "wikilink") - 本作では母親のアリエル等が登場するゲーム。
 
 ## 外部リンク

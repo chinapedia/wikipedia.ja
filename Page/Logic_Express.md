@@ -1,13 +1,13 @@
 > この記事は[Logic Express](https://ja.wikipedia.org/wiki/Logic_Express)から翻訳されています。
 
 
-**Logic Express**（ロジック・エクスプレス）とは[アップルによって開発](../Page/アップル_\(企業\).md "wikilink")・製造及び販売されている、[Mac OS X上で動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")[MIDI](../Page/MIDI.md "wikilink")[シーケンサ及び](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")[デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")の機能を持つ音楽制作[ソフト](../Page/ソフトウェア.md "wikilink")、[Logic Proの](../Page/Logic_Pro.md "wikilink")[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")であり、[2004年](../Page/2004年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に発表され、[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に発売された。
+**Logic Express**（ロジック・エクスプレス）とは[アップルによって開発](../Page/アップル_\(企業\).md "wikilink")・製造及び販売されている、[Mac OS X上で動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")[MIDI](../Page/MIDI.md "wikilink")[シーケンサ及び](../Page/ミュージックシーケンサー.md "wikilink")[デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")の機能を持つ音楽制作[ソフト](../Page/ソフトウェア.md "wikilink")、[Logic Proの](../Page/Logic_Pro.md "wikilink")[廉価版](../Page/廉価版.md "wikilink")であり、[2004年](../Page/2004年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に発表され、[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に発売された。
 
 [2011年](../Page/2011年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に上位版の[Logic ProがExpressよりも低価格でダウンロード販売されるようになり](../Page/Logic_Pro.md "wikilink")、時期を同じくしてExpressのパッケージ販売は終了した。
 
 ## 主な機能削減部分
 
-Logic ProとExpressはほとんど同じインターフェースで、機能面的にも大幅に目立った違いは無いものの、いくつかの機能が削減されている。例えば、Logic Proの場合は多チャンネル[サラウンド](https://ja.wikipedia.org/wiki/サラウンド "wikilink")音声を編集する機能があるが、Expressでは2チャンネル[ステレオ](../Page/ステレオ.md "wikilink")サウンドのみの編集機能となっている。
+Logic ProとExpressはほとんど同じインターフェースで、機能面的にも大幅に目立った違いは無いものの、いくつかの機能が削減されている。例えば、Logic Proの場合は多チャンネル[サラウンド](../Page/サラウンド.md "wikilink")音声を編集する機能があるが、Expressでは2チャンネル[ステレオ](../Page/ステレオ.md "wikilink")サウンドのみの編集機能となっている。
 
 ## 参考資料
 

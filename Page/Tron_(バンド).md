@@ -67,8 +67,8 @@ avaxからのメジャーデビューの際に名義をtronへ変更。
 
 ## 関連項目
 
-  - [ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [ホッピー神山](../Page/ホッピー神山.md "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

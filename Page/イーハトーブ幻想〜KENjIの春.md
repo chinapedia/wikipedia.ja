@@ -5,9 +5,9 @@
 
 ## 作品概要
 
-詩人[宮沢賢治](../Page/宮沢賢治.md "wikilink")の半生を丹念に追った伝記的作品（宮沢賢治生誕百周年記念作品）。[グループ・タック](https://ja.wikipedia.org/wiki/グループ・タック "wikilink")が制作し、登場人物を[ますむらひろし](../Page/ますむらひろし.md "wikilink")監修の擬人化した猫のキャラクターに置き換えた点などは、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")のアニメ映画『[銀河鉄道の夜](../Page/銀河鉄道の夜.md "wikilink")』と共通している。主題歌を含む音楽は[上々颱風](https://ja.wikipedia.org/wiki/上々颱風 "wikilink")が手がけた。
+詩人[宮沢賢治](../Page/宮沢賢治.md "wikilink")の半生を丹念に追った伝記的作品（宮沢賢治生誕百周年記念作品）。[グループ・タック](../Page/グループ・タック.md "wikilink")が制作し、登場人物を[ますむらひろし](../Page/ますむらひろし.md "wikilink")監修の擬人化した猫のキャラクターに置き換えた点などは、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")のアニメ映画『[銀河鉄道の夜](../Page/銀河鉄道の夜.md "wikilink")』と共通している。主題歌を含む音楽は[上々颱風](../Page/上々颱風.md "wikilink")が手がけた。
 
-監督・脚本の[河森正治](../Page/河森正治.md "wikilink")は[マクロスシリーズ](https://ja.wikipedia.org/wiki/マクロスシリーズ "wikilink")などの[SF](https://ja.wikipedia.org/wiki/サイエンスフィクション "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")作品で知られるが、本作では主人公ケンジを通して自然と人間の交感を描いた。詩的な[ファンタジー](../Page/ファンタジー.md "wikilink")空間の表現にはペンシルアニメや[CGを使用](../Page/コンピュータグラフィックス.md "wikilink")。[鎌田東二](https://ja.wikipedia.org/wiki/鎌田東二 "wikilink")は「ここまで宮沢賢治のシャーマニスティックな感覚を深くいきいきと描いた作品は知りません。」と感想を述べている\[1\]。 河森は本作の縁からCG制作に協力した[サテライトの取締役となり](https://ja.wikipedia.org/wiki/サテライト_\(アニメ制作会社\) "wikilink")、『[地球少女アルジュナ](../Page/地球少女アルジュナ.md "wikilink")』などのファンタジー色の濃い作品を発表している。
+監督・脚本の[河森正治](../Page/河森正治.md "wikilink")は[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")などの[SF](https://ja.wikipedia.org/wiki/サイエンスフィクション "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")作品で知られるが、本作では主人公ケンジを通して自然と人間の交感を描いた。詩的な[ファンタジー](../Page/ファンタジー.md "wikilink")空間の表現にはペンシルアニメや[CGを使用](../Page/コンピュータグラフィックス.md "wikilink")。[鎌田東二](../Page/鎌田東二.md "wikilink")は「ここまで宮沢賢治のシャーマニスティックな感覚を深くいきいきと描いた作品は知りません。」と感想を述べている\[1\]。 河森は本作の縁からCG制作に協力した[サテライトの取締役となり](../Page/サテライト_\(アニメ制作会社\).md "wikilink")、『[地球少女アルジュナ](../Page/地球少女アルジュナ.md "wikilink")』などのファンタジー色の濃い作品を発表している。
 
 ## あらすじ
 
@@ -20,25 +20,25 @@
   - 監督・脚本：[河森正治](../Page/河森正治.md "wikilink")
   - 演出：[佐藤英一](https://ja.wikipedia.org/wiki/佐藤英一 "wikilink")
   - 監修：[天澤退二郎](https://ja.wikipedia.org/wiki/天澤退二郎 "wikilink")、[ますむらひろし](../Page/ますむらひろし.md "wikilink")
-  - キャラクターデザイン・作画監督：[岸田隆宏](https://ja.wikipedia.org/wiki/岸田隆宏 "wikilink")
+  - キャラクターデザイン・作画監督：[岸田隆宏](../Page/岸田隆宏.md "wikilink")
   - 美術監督：大野広司
   - CGテクニカルディレクター：前田庸生、那須信司
   - CG制作プロデューサー：佐藤道明
   - 音響監督：田代敦巳
-  - 音楽：[上々颱風](https://ja.wikipedia.org/wiki/上々颱風 "wikilink")
-  - 製作：[テレビ岩手](../Page/テレビ岩手.md "wikilink")、[グループ・タック](https://ja.wikipedia.org/wiki/グループ・タック "wikilink")
+  - 音楽：[上々颱風](../Page/上々颱風.md "wikilink")
+  - 製作：[テレビ岩手](../Page/テレビ岩手.md "wikilink")、[グループ・タック](../Page/グループ・タック.md "wikilink")
 
 ## 主題歌
 
-  - 『[アヴェ・マリア](https://ja.wikipedia.org/wiki/アヴェ・マリア "wikilink")』
-    作詞：紅龍 / [白崎映美](https://ja.wikipedia.org/wiki/上々颱風#白崎映美 "wikilink") 作曲：[バッハ](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink") / [グノー](https://ja.wikipedia.org/wiki/シャルル・グノー "wikilink") 編曲：上々颱風
+  - 『[アヴェ・マリア](../Page/アヴェ・マリア.md "wikilink")』
+    作詞：紅龍 / [白崎映美](https://ja.wikipedia.org/wiki/上々颱風#白崎映美 "wikilink") 作曲：[バッハ](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink") / [グノー](../Page/シャルル・グノー.md "wikilink") 編曲：上々颱風
 
 ## キャラクター
 
   - ケンジ
-    声：[佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
+    声：[佐野史郎](../Page/佐野史郎.md "wikilink")
     主人公。小学校の先生。
-  - [トシ](https://ja.wikipedia.org/wiki/宮沢トシ "wikilink")〈トシ子〉
+  - [トシ](../Page/宮沢トシ.md "wikilink")〈トシ子〉
     声：[國府田マリ子](../Page/國府田マリ子.md "wikilink")
     ケンジの妹。病弱。学校の先生をしている。
   - カナイ
@@ -59,7 +59,7 @@
   - クニ
     声：[平井直子](https://ja.wikipedia.org/wiki/平井直子 "wikilink")
   - 農夫A
-    声：[藤村惠一](https://ja.wikipedia.org/wiki/藤村惠一 "wikilink")
+    声：[藤村惠一](../Page/藤村惠一.md "wikilink")
   - 良太
     声：[伊倉一寿](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink")
     ケンジが受け持つクラスの生徒。
@@ -67,7 +67,7 @@
     [新山志保](../Page/新山志保.md "wikilink")
     ケンジが受け持つクラスの生徒。
   - 忠作
-    [上村典子](https://ja.wikipedia.org/wiki/上村典子 "wikilink")
+    [上村典子](../Page/上村典子.md "wikilink")
     ケンジが受け持つクラスの生徒。
 
 ## 脚注
@@ -80,7 +80,7 @@
 
 ## 関連項目
 
-  - [イーハトーブ](https://ja.wikipedia.org/wiki/イーハトーブ "wikilink")
+  - [イーハトーブ](../Page/イーハトーブ.md "wikilink")
 
 [Category:アニメ作品_い](https://ja.wikipedia.org/wiki/Category:アニメ作品_い "wikilink") [Category:1996年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1996年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ岩手の番組](https://ja.wikipedia.org/wiki/Category:テレビ岩手の番組 "wikilink") [Category:ローカルテレビ局のアニメ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のアニメ "wikilink") [Category:日本テレビ系アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビ系アニメ "wikilink") [Category:グループ・タック](https://ja.wikipedia.org/wiki/Category:グループ・タック "wikilink") [Category:サテライト](https://ja.wikipedia.org/wiki/Category:サテライト "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:岩手県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:岩手県を舞台とした作品 "wikilink") [Category:宮沢賢治の童話を題材とした作品](https://ja.wikipedia.org/wiki/Category:宮沢賢治の童話を題材とした作品 "wikilink") [Category:ますむらひろし](https://ja.wikipedia.org/wiki/Category:ますむらひろし "wikilink")
 

@@ -13,7 +13,7 @@
 
 1.  **アレグロ** (4:10)
       -
-        メジャーデビューアルバム『[創](https://ja.wikipedia.org/wiki/創_\(アルバム\) "wikilink")』に収録。
+        メジャーデビューアルバム『[創](../Page/創_\(アルバム\).md "wikilink")』に収録。
 2.  **scene of 創 \#2** (2:22)
       -
         アルバムダイジェスト
@@ -23,7 +23,7 @@
 
 ## 収録アルバム
 
-  - [創](https://ja.wikipedia.org/wiki/創_\(アルバム\) "wikilink") (\#1)
+  - [創](../Page/創_\(アルバム\).md "wikilink") (\#1)
   - [ACIDMAN THE BEST](https://ja.wikipedia.org/wiki/ACIDMAN_THE_BEST "wikilink") (\#1)
 
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:ACIDMANの楽曲](https://ja.wikipedia.org/wiki/Category:ACIDMANの楽曲 "wikilink")

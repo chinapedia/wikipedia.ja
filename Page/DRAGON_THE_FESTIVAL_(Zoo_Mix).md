@@ -5,13 +5,13 @@
 
 ## 内容
 
-アルバム『**[CHILDHOOD'S END](https://ja.wikipedia.org/wiki/CHILDHOOD'S_END "wikilink")**』からのシングルカットであり、12[インチ](../Page/インチ.md "wikilink")[シングル](../Page/シングル.md "wikilink")としてリミックスバージョンでリリースされた。
+アルバム『**[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")**』からのシングルカットであり、12[インチ](../Page/インチ.md "wikilink")[シングル](../Page/シングル.md "wikilink")としてリミックスバージョンでリリースされた。
 
 レコード会社から「[リミックス](../Page/リミックス.md "wikilink")で遊んでみないか？」という提案により製作。大幅にアレンジされており、1Aメロ「輝くよアマゾンからの風…」の歌い出しがカットされている。ライブなどでは基本的にシングルバージョンをベースに演奏されているが、先述の1Aメロの歌い出しはカットされていない（『[TMN 4001 GROOVE](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")』など）。歌詞は[南米](https://ja.wikipedia.org/wiki/南米 "wikilink")探検、[黄金郷](https://ja.wikipedia.org/wiki/黄金郷 "wikilink")をイメージした内容となっている。
 
-本作で始めて[サンプリング](../Page/サンプリング.md "wikilink")の技術を取り入れた。[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")の作品群・[デュラン・デュラン](https://ja.wikipedia.org/wiki/デュラン・デュラン "wikilink")の「[The Reflex](https://ja.wikipedia.org/wiki/:en:The_Reflex "wikilink")」の[ミキシング](../Page/ミキシング.md "wikilink")に触発されて、それらを意識した\[1\]。
+本作で始めて[サンプリング](../Page/サンプリング.md "wikilink")の技術を取り入れた。[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")の作品群・[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")の「[The Reflex](https://ja.wikipedia.org/wiki/:en:The_Reflex "wikilink")」の[ミキシング](../Page/ミキシング.md "wikilink")に触発されて、それらを意識した\[1\]。
 
-[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")の「**[1974](https://ja.wikipedia.org/wiki/1974_\(16光年の訪問者\) "wikilink")**」はライブバージョンのアレンジをスタジオ録音したもの。両方の曲とも7分を超えている。
+[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")の「**[1974](../Page/1974_\(16光年の訪問者\).md "wikilink")**」はライブバージョンのアレンジをスタジオ録音したもの。両方の曲とも7分を超えている。
 
 ## 収録曲
 
@@ -22,9 +22,9 @@
 
 ## 収録アルバム
 
-  - [CHILDHOOD'S END](https://ja.wikipedia.org/wiki/CHILDHOOD'S_END "wikilink")（オリジナルバージョン）
-  - [Gift for Fanks](https://ja.wikipedia.org/wiki/Gift_for_Fanks "wikilink")
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")（オリジナルバージョン）
+  - [Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")（Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にライブバージョンが収録）
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)

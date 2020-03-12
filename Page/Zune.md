@@ -1,7 +1,7 @@
 > この記事は[Zune](https://ja.wikipedia.org/wiki/Zune)から翻訳されています。
 
 
-**Zune**（ズーン）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発し販売した[携帯音楽プレーヤー](https://ja.wikipedia.org/wiki/携帯音楽プレーヤー "wikilink")、およびそれを販売する[ブランド](../Page/ブランド.md "wikilink")の名称。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月14日](../Page/11月14日.md "wikilink")に米国で販売開始されたが、[2011年](../Page/2011年.md "wikilink")10月に開発中止と生産終了が発表された \[1\]。日本で販売されることはなかった。
+**Zune**（ズーン）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発し販売した[携帯音楽プレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")、およびそれを販売する[ブランド](../Page/ブランド.md "wikilink")の名称。[2006年](../Page/2006年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に米国で販売開始されたが、[2011年](../Page/2011年.md "wikilink")10月に開発中止と生産終了が発表された \[1\]。日本で販売されることはなかった。
 
 ## 概要
 
@@ -38,8 +38,8 @@ Zune boardsのサイトにはアプリケーションも置かれている。こ
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")搭載（Zune同士で画像や曲の交換をする際に使用される・但し送られてきた曲は3回再生するか3日経過すると聞けなくなる仕様）
   - FMラジオ搭載
   - [Xbox 360との連携](../Page/Xbox_360.md "wikilink")
-  - 対応音声フォーマット：[MP3](../Page/MP3.md "wikilink"), [WMA](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink"), [AAC](../Page/AAC.md "wikilink")
-  - 対応動画フォーマット：[WMV](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink"), [H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink"), [MPEG-4](../Page/MPEG-4.md "wikilink")
+  - 対応音声フォーマット：[MP3](../Page/MP3.md "wikilink"), [WMA](../Page/Windows_Media_Audio.md "wikilink"), [AAC](../Page/AAC.md "wikilink")
+  - 対応動画フォーマット：[WMV](../Page/Windows_Media_Video.md "wikilink"), [H.264](../Page/H.264.md "wikilink"), [MPEG-4](../Page/MPEG-4.md "wikilink")
   - 駆動時間：14時間（音楽）/4時間（動画・画像）いずれもWi-FiをOFFにした場合
   - 楽曲はZune Marketplaceで購入。Zune Passと呼ばれる定額制サービスも用意されている。
 
@@ -63,17 +63,17 @@ Zune boardsのサイトにはアプリケーションも置かれている。こ
 
 ### Zune HD
 
-2009年5月に発表\[3\]、同年9月15日に米国で発売。[NVIDIA Tegraプラットフォームを採用する](https://ja.wikipedia.org/wiki/NVIDIA_Tegra "wikilink")。[有機ELタッチパネルを搭載](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")。動画配信サービスを[Xbox LIVE](https://ja.wikipedia.org/wiki/Xbox_LIVE "wikilink") Marketplaceに統合し、別売のドッキングステーションで最高720p解像度の動画を[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")出力可能。携帯端末としては初めて[デジタルラジオ](https://ja.wikipedia.org/wiki/デジタルラジオ "wikilink")のHD Radioを受信可能。競合する[iPod touchと比較して](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")3割ほど低価格に設定されたが\[4\]、Zune HDの発売直前にiPod touchもラインナップを一新して同程度の価格帯になった。オーディオ再生には[ウォルフソン・マイクロエレクトロニクス](https://ja.wikipedia.org/wiki/ウォルフソン・マイクロエレクトロニクス "wikilink")の超低電力ステレオCODEC「WM8352」を採用している。また、Gセンサーを導入している。Wi-Fi接続時にはWeb Browserが利用できる。
+2009年5月に発表\[3\]、同年9月15日に米国で発売。[NVIDIA Tegraプラットフォームを採用する](https://ja.wikipedia.org/wiki/NVIDIA_Tegra "wikilink")。[有機ELタッチパネルを搭載](../Page/有機エレクトロルミネッセンス.md "wikilink")。動画配信サービスを[Xbox LIVE](https://ja.wikipedia.org/wiki/Xbox_LIVE "wikilink") Marketplaceに統合し、別売のドッキングステーションで最高720p解像度の動画を[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")出力可能。携帯端末としては初めて[デジタルラジオ](../Page/デジタルラジオ.md "wikilink")のHD Radioを受信可能。競合する[iPod touchと比較して](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")3割ほど低価格に設定されたが\[4\]、Zune HDの発売直前にiPod touchもラインナップを一新して同程度の価格帯になった。オーディオ再生には[ウォルフソン・マイクロエレクトロニクス](https://ja.wikipedia.org/wiki/ウォルフソン・マイクロエレクトロニクス "wikilink")の超低電力ステレオCODEC「WM8352」を採用している。また、Gセンサーを導入している。Wi-Fi接続時にはWeb Browserが利用できる。
 
 ## その他
 
-第1世代のプロモーションのために[Windows XP用の](../Page/Microsoft_Windows_XP.md "wikilink")「Zune デスクトップテーマ」が無料配布されていた（公式な配布は終了）。詳しくは[Luna](https://ja.wikipedia.org/wiki/Luna "wikilink")を参照。
+第1世代のプロモーションのために[Windows XP用の](../Page/Microsoft_Windows_XP.md "wikilink")「Zune デスクトップテーマ」が無料配布されていた（公式な配布は終了）。詳しくは[Luna](../Page/Luna.md "wikilink")を参照。
 
 ## 関連項目
 
   - [Zune Software](https://ja.wikipedia.org/wiki/Zune_Software "wikilink")
   - [Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")
-  - [携帯音楽プレーヤー](https://ja.wikipedia.org/wiki/携帯音楽プレーヤー "wikilink")
+  - [携帯音楽プレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")
   - [iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")
   - [gigabeat](https://ja.wikipedia.org/wiki/gigabeat "wikilink") (東芝のデジタルオーディオプレーヤー)
   - [ウォークマン](../Page/ウォークマン.md "wikilink")

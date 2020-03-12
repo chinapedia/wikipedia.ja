@@ -5,7 +5,7 @@
 
 ## サービスエリア
 
-  - [愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")[波方町](https://ja.wikipedia.org/wiki/波方町 "wikilink")の地域のみであり、それ以外の地域のサービスエリアは[今治CATV](https://ja.wikipedia.org/wiki/今治CATV "wikilink")が運営している。
+  - [愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")[波方町](../Page/波方町.md "wikilink")の地域のみであり、それ以外の地域のサービスエリアは[今治CATV](https://ja.wikipedia.org/wiki/今治CATV "wikilink")が運営している。
 
 ## 放送チャンネル
 
@@ -17,44 +17,44 @@
 | --------------------------------------- | --------------------------------------- | ----------------------------------------------------- | ---------------------------------------- | ------------------------------------ | ---------------------------------------- | ------------------------------------ | ----- |
 | [NHK松山](../Page/NHK松山放送局.md "wikilink") | [NHK松山](../Page/NHK松山放送局.md "wikilink") | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink") | [あいテレビ](../Page/あいテレビ.md "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink") | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink") |       |
 
-| デジタル    | テレビ局                                                                                              |
-| ------- | ------------------------------------------------------------------------------------------------- |
-| 011     | [NHK松山](../Page/NHK松山放送局.md "wikilink")[総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") |
-| 021     | NHK松山[Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")                                  |
-| 041     | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")                                             |
-| 051     | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")                                                          |
-| 061     | [あいテレビ](../Page/あいテレビ.md "wikilink")                                                              |
-| 071     | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                                                          |
-| 081     | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                                                              |
-| 111     | コミュニティーチャンネル                                                                                      |
-| 101     | [NHKBS1](https://ja.wikipedia.org/wiki/NHKBS1 "wikilink")                                         |
-| 103     | [NHKBSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")                                 |
-| 141     | [BS日テレ](../Page/BS日本.md "wikilink")                                                               |
-| 151     | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                           |
-| 161     | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                            |
-| 171     | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                                         |
-| 181     | [BSフジ](../Page/BSフジ.md "wikilink")                                                                |
-| 191-193 | [WOWOW](../Page/WOWOW.md "wikilink")                                                              |
-| 730     | [J sports 3](../Page/J_SPORTS.md "wikilink")                                                      |
-| 735     | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                                           |
-| 750     | [チャンネルNECO](https://ja.wikipedia.org/wiki/チャンネルNECO "wikilink")                                   |
-| 751     | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                                          |
-| 755     | [スーパー\!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")                                |
-| 756     | [ムービープラス](../Page/ムービープラス.md "wikilink")                                                          |
-| 768     | [ホームドラマチャンネル](https://ja.wikipedia.org/wiki/ホームドラマチャンネル "wikilink")                               |
+| デジタル    | テレビ局                                                                           |
+| ------- | ------------------------------------------------------------------------------ |
+| 011     | [NHK松山](../Page/NHK松山放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink") |
+| 021     | NHK松山[Eテレ](../Page/NHK教育テレビジョン.md "wikilink")                                  |
+| 041     | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")                          |
+| 051     | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")                                       |
+| 061     | [あいテレビ](../Page/あいテレビ.md "wikilink")                                           |
+| 071     | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                                       |
+| 081     | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                                           |
+| 111     | コミュニティーチャンネル                                                                   |
+| 101     | [NHKBS1](https://ja.wikipedia.org/wiki/NHKBS1 "wikilink")                      |
+| 103     | [NHKBSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")              |
+| 141     | [BS日テレ](../Page/BS日本.md "wikilink")                                            |
+| 151     | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                        |
+| 161     | [BS-TBS](../Page/BS-TBS.md "wikilink")                                         |
+| 171     | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                      |
+| 181     | [BSフジ](../Page/BSフジ.md "wikilink")                                             |
+| 191-193 | [WOWOW](../Page/WOWOW.md "wikilink")                                           |
+| 730     | [J sports 3](../Page/J_SPORTS.md "wikilink")                                   |
+| 735     | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                        |
+| 750     | [チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                   |
+| 751     | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                       |
+| 755     | [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")                                |
+| 756     | [ムービープラス](../Page/ムービープラス.md "wikilink")                                       |
+| 768     | [ホームドラマチャンネル](../Page/ホームドラマチャンネル.md "wikilink")                               |
 
 ### [ラジオ局](../Page/ラジオ放送局.md "wikilink")
 
-| MHz  | 放送局                                                                                            |
-| ---- | ---------------------------------------------------------------------------------------------- |
-| 83.3 | [FM愛媛](../Page/エフエム愛媛.md "wikilink")                                                           |
-| 84.5 | [NHK松山](../Page/NHK松山放送局.md "wikilink")[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") |
+| MHz  | 放送局                                                                         |
+| ---- | --------------------------------------------------------------------------- |
+| 83.3 | [FM愛媛](../Page/エフエム愛媛.md "wikilink")                                        |
+| 84.5 | [NHK松山](../Page/NHK松山放送局.md "wikilink")[FM](../Page/NHK-FM放送.md "wikilink") |
 
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
   - [区域外再放送](../Page/区域外再放送.md "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [ケーブルテレビ向けCS放送](../Page/ケーブルテレビ向けCS放送.md "wikilink")
   - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")

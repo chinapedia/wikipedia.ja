@@ -3,7 +3,7 @@
 
 **株式会社FM鳥取**（エフエムとっとり）は、[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")に所在する[第三セクター](../Page/第三セクター.md "wikilink")の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局。愛称は「**RADIO BIRD**」（レディオバード）。
 
-開局日は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")で、周波数の82.5MHzにちなむ。
+開局日は[2006年](../Page/2006年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")で、周波数の82.5MHzにちなむ。
 
 鳥取市は全国で唯一の「民間ラジオ局の本局がない県庁所在地」だったが、同局の開設で解消された\[1\]\[2\]。
 
@@ -11,7 +11,7 @@
 
 ## 放送エリア
 
-[鳥取市](../Page/鳥取市.md "wikilink")の沿岸部と、同市の南東に隣接する[八頭町](https://ja.wikipedia.org/wiki/八頭町 "wikilink")の一部。およそ51,000世帯。
+[鳥取市](../Page/鳥取市.md "wikilink")の沿岸部と、同市の南東に隣接する[八頭町](../Page/八頭町.md "wikilink")の一部。およそ51,000世帯。
 
 ## ケーブルテレビ再送信局
 
@@ -23,7 +23,7 @@
 
 ## 編成方針
 
-  - 終日（24時間）放送。1日のおよそ9時間を「地域密着番組」、およそ15時間を「DIGITAL J-WAVE（[J-WAVE](../Page/J-WAVE.md "wikilink")の再送信サービス）」と2019年12月からは[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")の混合構成。
+  - 終日（24時間）放送。1日のおよそ9時間を「地域密着番組」、およそ15時間を「DIGITAL J-WAVE（[J-WAVE](../Page/J-WAVE.md "wikilink")の再送信サービス）」と2019年12月からは[ミュージックバード](../Page/ミュージックバード.md "wikilink")の混合構成。
   - 行政（鳥取市）と連携して、災害や有事に備えた「防災放送」も実施。
   - 2003年から、市内の大学生による[学生番組制作プロジェクト](http://www.news.janjan.jp/column/0702/0702120927/1.php)[【公式サイト】](http://yasu303kk.ifdef.jp/)をバックアップ。産学共同でコンテンツ開発の研究も進めている。
   -
@@ -31,17 +31,17 @@
 
 ### 現在
 
-幸田、山下の2人は同局の社員で、出演だけでなく取材や営業も担う。ともに岡山のコミュニティFM放送（[Radio MOMO](https://ja.wikipedia.org/wiki/岡山シティエフエム "wikilink")・[FMくらしき](https://ja.wikipedia.org/wiki/エフエムくらしき "wikilink")）で活躍した経歴を持つ。
+幸田、山下の2人は同局の社員で、出演だけでなく取材や営業も担う。ともに岡山のコミュニティFM放送（[Radio MOMO](../Page/岡山シティエフエム.md "wikilink")・[FMくらしき](../Page/エフエムくらしき.md "wikilink")）で活躍した経歴を持つ。
 
   - [幸田慶子](../Page/幸田慶子.md "wikilink")（放送部長兼チーフアナウンサー）
   - [山下弥生](https://ja.wikipedia.org/wiki/山下弥生 "wikilink")（営業企画部長兼アナウンサー）
   - [濱井丈栄](https://ja.wikipedia.org/wiki/濱井丈栄 "wikilink")（フリーアナウンサー）
   - [本庄かおり](https://ja.wikipedia.org/wiki/本庄かおり "wikilink")（フリーアナウンサー）
-  - [福浜隆宏](https://ja.wikipedia.org/wiki/福浜隆宏 "wikilink")（[鳥取県議会](https://ja.wikipedia.org/wiki/鳥取県議会 "wikilink")議員、元[日本海テレビ](https://ja.wikipedia.org/wiki/日本海テレビ "wikilink")アナウンサー）
+  - [福浜隆宏](../Page/福浜隆宏.md "wikilink")（[鳥取県議会](https://ja.wikipedia.org/wiki/鳥取県議会 "wikilink")議員、元[日本海テレビ](https://ja.wikipedia.org/wiki/日本海テレビ "wikilink")アナウンサー）
 
 ### 過去
 
-  - [夏木唯子](../Page/夏木唯子.md "wikilink")（[オフィスキイワード](https://ja.wikipedia.org/wiki/オフィスキイワード "wikilink")所属）
+  - [夏木唯子](../Page/夏木唯子.md "wikilink")（[オフィスキイワード](../Page/オフィスキイワード.md "wikilink")所属）
   - 上田雅子（元[パートナーズ・プロ](https://ja.wikipedia.org/wiki/パートナーズ・プロ "wikilink")所属）
   - [磯野孝也](https://ja.wikipedia.org/wiki/磯野孝也 "wikilink")
 
@@ -63,7 +63,7 @@
   - HIT RADIO 825
       - 放送時間: 16:30～19:00
       - ナビゲーター: 幸田慶子
-  - [ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")・[交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")
+  - [ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")・[交通情報](../Page/交通情報.md "wikilink")
       - 放送時間: 随時
       - RADIO BIRDアナウンサーが担当する。
   - ガイナーレ鳥取 HOME GAME RADIO
@@ -102,7 +102,7 @@
 
 ## ニュース配信
 
-  - 地元のニュースは、株主でもある[日本海新聞](https://ja.wikipedia.org/wiki/日本海新聞 "wikilink")が朝夕2回、紙面からTOTTORI FLASH NEWSを配信。
+  - 地元のニュースは、株主でもある[日本海新聞](../Page/日本海新聞.md "wikilink")が朝夕2回、紙面からTOTTORI FLASH NEWSを配信。
   - 全国のニュースは、HEAD LINE NEWSとして、朝夕2回、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")が配信。
 
 ## 株主一覧
@@ -113,7 +113,7 @@
   - [鳥取信用金庫](../Page/鳥取信用金庫.md "wikilink")
   - [新日本海新聞社](../Page/新日本海新聞社.md "wikilink")
   - 清水
-  - [鳥取ガス](https://ja.wikipedia.org/wiki/鳥取ガス "wikilink")
+  - [鳥取ガス](../Page/鳥取ガス.md "wikilink")
   - [鳥取大丸](../Page/鳥取大丸.md "wikilink")
   - 大山日ノ丸証券
   - [ウシオ](../Page/ウシオ_\(家具・インテリア\).md "wikilink")
@@ -154,8 +154,8 @@
 ## 関連項目
 
   - [鳥取駅](../Page/鳥取駅.md "wikilink") - 最寄り駅。徒歩1分。
-  - [鳥取バスターミナル](https://ja.wikipedia.org/wiki/鳥取駅バスターミナル "wikilink") - 本社が入居しているビル。
-  - [コミュニティ放送局一覧](https://ja.wikipedia.org/wiki/コミュニティ放送局一覧 "wikilink")
+  - [鳥取バスターミナル](../Page/鳥取駅バスターミナル.md "wikilink") - 本社が入居しているビル。
+  - [コミュニティ放送局一覧](../Page/コミュニティ放送局一覧.md "wikilink")
 
 ## 脚注
 
@@ -171,5 +171,5 @@
 [Category:中国・四国地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:中国・四国地方のコミュニティ放送局 "wikilink") [Category:鳥取県のマスメディア](https://ja.wikipedia.org/wiki/Category:鳥取県のマスメディア "wikilink") [Category:鳥取市の企業](https://ja.wikipedia.org/wiki/Category:鳥取市の企業 "wikilink") [Category:日本の地方公企業](https://ja.wikipedia.org/wiki/Category:日本の地方公企業 "wikilink")
 
 1.  [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")は[米子市](../Page/米子市.md "wikilink")（但しテレビは[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")が親局）、[エフエム山陰](../Page/エフエム山陰.md "wikilink")は島根県松江市にそれぞれ本社があり、鳥取市はそれぞれの支社・中継局が設置されている程度
-2.  [奈良県](../Page/奈良県.md "wikilink")は全国で唯一[県域の民間ラジオ局が存在しない県であるが](https://ja.wikipedia.org/wiki/県域放送#一般放送事業者の県域放送が存在しない都府県 "wikilink")、県庁所在地の[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")には2000年に[奈良シティエフエムコミュニケーションズ](https://ja.wikipedia.org/wiki/奈良シティエフエムコミュニケーションズ "wikilink")が開局している
+2.  [奈良県](../Page/奈良県.md "wikilink")は全国で唯一[県域の民間ラジオ局が存在しない県であるが](https://ja.wikipedia.org/wiki/県域放送#一般放送事業者の県域放送が存在しない都府県 "wikilink")、県庁所在地の[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")には2000年に[奈良シティエフエムコミュニケーションズ](../Page/奈良シティエフエムコミュニケーションズ.md "wikilink")が開局している
 3.  [米子市](../Page/米子市.md "wikilink")の[DARAZ FMには試合の中継権があるがインターネット再送信](https://ja.wikipedia.org/wiki/DARAZコミュニティ放送 "wikilink")（普段DARAZではインターネット再送信が行われている）はない。

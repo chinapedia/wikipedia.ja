@@ -5,8 +5,8 @@
 
 ## メンバー
 
-  - [TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X "wikilink") ([MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")):18歳で[刃頭](https://ja.wikipedia.org/wiki/刃頭 "wikilink")と共にさんぴんCAMPに出演する。様々な客演をこなした後、2003年[Def Jam Japanよりメジャーデビュー](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")。2004年11月に他界。
-  - ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")（MC/トラックメイカー）
+  - [TOKONA-X](../Page/TOKONA-X.md "wikilink") ([MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")):18歳で[刃頭](../Page/刃頭.md "wikilink")と共にさんぴんCAMPに出演する。様々な客演をこなした後、2003年[Def Jam Japanよりメジャーデビュー](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")。2004年11月に他界。
+  - ["E"qual](../Page/"E"qual.md "wikilink")（MC/トラックメイカー）
   - [AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(M.O.S.A.D.\) "wikilink")（MC）
 
 ## ディスコグラフィ
@@ -33,7 +33,7 @@
     6.  Perfect Game feat. [Gangsta Cue](https://ja.wikipedia.org/wiki/Gangsta_Cue "wikilink"), [Mr.OZ](https://ja.wikipedia.org/wiki/Mr.OZ "wikilink")
     7.  Right Now Liner(Skit)
     8.  Right Now Liner
-    9.  Mobb Sters feat.[MACCHO](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink")
+    9.  Mobb Sters feat.[MACCHO](../Page/OZROSAURUS.md "wikilink")
     10. Dope Man feat.Dope Man
     11. Sweepers feat.[B-ninjah](https://ja.wikipedia.org/wiki/B-ninjah "wikilink")&[AK-69 Kalassy Nikoff](https://ja.wikipedia.org/wiki/AK-69 "wikilink"),
     12. On The Road feat.WATT
@@ -46,7 +46,7 @@
 
   - FABULOUS 　TOKONA-X feat. EQUAL, AKIRA　（『RAP WARZ DONPACHI！』 に収録）
   - 天下無双 　BACKGAMMON feat. M.O.S.A.D.
-  - YOUNG GUNZ 　[OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink") feat. M.O.S.A.D. / MAGUMA MC'S
+  - YOUNG GUNZ 　[OZROSAURUS](../Page/OZROSAURUS.md "wikilink") feat. M.O.S.A.D. / MAGUMA MC'S
   - GETTIN' HI 5 MIC 　[餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink") feat. m.o.s.a.d.　（『UPPER JAM』 に収録）
   - EQUIS. EX. X PT.2 （D.O.I. REMIX） 　D.O.I. feat. M.O.S.A.D.
   - Mobb Sters(FEATUE SHOCK REMIX) 　OZROSAURUS feat. M.O.S.A.D.

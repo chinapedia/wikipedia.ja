@@ -1,7 +1,7 @@
 > この記事は[F3D \(\)](https://ja.wikipedia.org/wiki/F3D_\(\))から翻訳されています。
 
 
-**F3D スカイナイト**（*Douglas F3D Skyknight* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海兵隊で運用された](../Page/アメリカ海兵隊.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+**F3D スカイナイト**（*Douglas F3D Skyknight* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海兵隊で運用された](../Page/アメリカ海兵隊.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
 
 愛称の「**スカイナイト** ()」は、空の騎士の意。後に改称され、**F-10 スカイナイト**となった。
 
@@ -11,7 +11,7 @@
 
 中翼配置の直線翼の主翼を持ち、エンジンは主翼付け根の下方に配置するという形状をしている。主翼は中央部で上方に折り畳む事ができる。全天候戦闘機であるために[レーダー](../Page/レーダー.md "wikilink")およびレーダー操作員が必要であり、乗員は2名、座席はサイドバイサイド配置である。なお、射出座席ではなく、非常時にはコックピット下方に設けられた脱出トンネルを利用して脱出するようになっていた。武装は20mm[機銃](https://ja.wikipedia.org/wiki/機銃 "wikilink")4門を胴体に装備する。
 
-量産型F3D-1は、J34-GE-24エンジンを搭載し、ウェスティングハウスAN/APQ-35レーダーを装備して、[1950年](../Page/1950年.md "wikilink")から部隊配備が開始された。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")に投入され、[1952年](../Page/1952年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に夜間戦闘において[MiG-15を撃墜している](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\) "wikilink")。長期の運用が行われ、戦闘機としては1960年代まで使用された。[電子戦機](../Page/電子戦機.md "wikilink")型であるEF-10Bは、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")まで[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に投入され、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")に退役している。また、軍から引退した後も、80年代まで少数が[レイセオン](https://ja.wikipedia.org/wiki/レイセオン "wikilink")でテスト機として運用されていた。
+量産型F3D-1は、J34-GE-24エンジンを搭載し、ウェスティングハウスAN/APQ-35レーダーを装備して、[1950年](../Page/1950年.md "wikilink")から部隊配備が開始された。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")に投入され、[1952年](../Page/1952年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に夜間戦闘において[MiG-15を撃墜している](../Page/MiG-15_\(航空機\).md "wikilink")。長期の運用が行われ、戦闘機としては1960年代まで使用された。[電子戦機](../Page/電子戦機.md "wikilink")型であるEF-10Bは、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")まで[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に投入され、[1970年](../Page/1970年.md "wikilink")に退役している。また、軍から引退した後も、80年代まで少数が[レイセオン](../Page/レイセオン.md "wikilink")でテスト機として運用されていた。
 
 なお、[1962年](../Page/1962年.md "wikilink")の[アメリカ軍](../Page/アメリカ軍.md "wikilink")の名称整理によりF-10に改称されている。
 
@@ -22,7 +22,7 @@
   - F3D-1
     初期量産型。新呼称F-10A。ウェスティング・ハウスJ34-GE-24ターボジェットエンジン(推力3,000 lbf)装備、ウェスティングハウスAN/APQ-35レーダーを搭載している。
   - F3D-1M
-    [スパローI](https://ja.wikipedia.org/wiki/スパロー_\(ミサイル\) "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")4発を搭載。F3D-1より改修。
+    [スパローI](../Page/スパロー_\(ミサイル\).md "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")4発を搭載。F3D-1より改修。
   - F3D-2
     エンジンを換装。237機製造。新呼称F-10B。
   - F3D-2M
@@ -45,7 +45,7 @@
   - 全長：13.9m
   - 全幅：15.24m
   - 全高：4.9m
-  - エンジン：[ウェスティングハウス](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink") J46-WE-3 [ターボジェットエンジン](https://ja.wikipedia.org/wiki/ターボジェットエンジン "wikilink")（推力 2.1t）2基
+  - エンジン：[ウェスティングハウス](../Page/ウェスティングハウス・エレクトリック.md "wikilink") J46-WE-3 [ターボジェットエンジン](../Page/ターボジェットエンジン.md "wikilink")（推力 2.1t）2基
   - 自重：8.2t
   - 最大速度：900km/h
   - 武装：20mm機銃4門(各200発)、29.8cm(11.75in)ティニー・ティムロケット弾2基、AIM-7スパローⅠ空対空ミサイル4発(F3D-2Mに搭載)、900kg爆弾2発

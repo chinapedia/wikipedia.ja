@@ -7,13 +7,13 @@
 
 ## 概要
 
-若手[ビジネスマン](https://ja.wikipedia.org/wiki/ビジネスマン "wikilink")を[ターゲット](https://ja.wikipedia.org/wiki/ターゲット "wikilink")とし、主に、世界的名門[ファッションブランド](https://ja.wikipedia.org/wiki/ファッションブランド "wikilink")の新作コレクション、高級腕時計など[ファッション](../Page/ファッション.md "wikilink")関連、[政治](../Page/政治.md "wikilink")・[経済](../Page/経済.md "wikilink")、芸能、[IT](../Page/情報技術.md "wikilink")、[ビジネスノウハウなどのジャーナリズム](https://ja.wikipedia.org/wiki/自己啓発書 "wikilink")、[車](../Page/自動車.md "wikilink")、[グルメといったカルチャー関連のテーマを幅広く取り上げる](https://ja.wikipedia.org/wiki/食通 "wikilink")。
+若手[ビジネスマン](../Page/ビジネスマン.md "wikilink")を[ターゲット](https://ja.wikipedia.org/wiki/ターゲット "wikilink")とし、主に、世界的名門[ファッションブランド](https://ja.wikipedia.org/wiki/ファッションブランド "wikilink")の新作コレクション、高級腕時計など[ファッション](../Page/ファッション.md "wikilink")関連、[政治](../Page/政治.md "wikilink")・[経済](../Page/経済.md "wikilink")、芸能、[IT](../Page/情報技術.md "wikilink")、[ビジネスノウハウなどのジャーナリズム](../Page/自己啓発書.md "wikilink")、[車](../Page/自動車.md "wikilink")、[グルメといったカルチャー関連のテーマを幅広く取り上げる](../Page/食通.md "wikilink")。
 
 **GQ JAPAN**は1993年2月6日、中央公論社（現[中央公論新社](../Page/中央公論新社.md "wikilink")）より初創刊。表紙は[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")と[アル・ゴア](../Page/アル・ゴア.md "wikilink")。特集は「THE ROCK'N' ROLL 40年。創刊発行人は嶋中鵬二、編集人は嶋中行雄\[4\]。\[5\] しかし、その後休刊。
 
-2003年6月号として[コンデナスト・パブリケーションズ](https://ja.wikipedia.org/wiki/コンデナスト・パブリケーションズ "wikilink")が100%出資するコンデナスト・ジャパン\[6\]が再創刊。再創刊時の編集発行人は、元[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")の斎藤和弘。再創刊号の特集は「[小泉首相にアポなしで会える人](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")\!?」。また、[藤原紀香](../Page/藤原紀香.md "wikilink")の大胆なショットを掲載し話題を呼んだ。
+2003年6月号として[コンデナスト・パブリケーションズ](https://ja.wikipedia.org/wiki/コンデナスト・パブリケーションズ "wikilink")が100%出資するコンデナスト・ジャパン\[6\]が再創刊。再創刊時の編集発行人は、元[マガジンハウス](../Page/マガジンハウス.md "wikilink")の斎藤和弘。再創刊号の特集は「[小泉首相にアポなしで会える人](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")\!?」。また、[藤原紀香](../Page/藤原紀香.md "wikilink")の大胆なショットを掲載し話題を呼んだ。
 
-発行部数は公称65,000部\[7\]。2012年5月号よりリニューアルし、ファッションに関する特集・連載を増やしたほか、綴じ側が右から左に変更された。記事の内容は本国版と似通っているが、大部分が日本固有のもので、お笑い芸人、グラビアアイドルなど日本の芸能界に関する記事も掲載される。誌面の肩に「GQ PROMOTION」と表記された特集は特定スポンサーとのタイアップ（[記事広告](../Page/記事広告.md "wikilink")）で、1号につき1～5か所に掲載されている。巻末には自社広告ページがあり、このうち4面が本誌オフィシャルサイト、iPad・iPhone・iPod touch向けアプリ、[VOGUE JAPAN](https://ja.wikipedia.org/wiki/ヴォーグ_\(雑誌\) "wikilink")（2面）に割り当てられる。WIRED、VOGUE HOMMESなどの発売日に近い号では、これらの媒体にもページが割り当てられる。
+発行部数は公称65,000部\[7\]。2012年5月号よりリニューアルし、ファッションに関する特集・連載を増やしたほか、綴じ側が右から左に変更された。記事の内容は本国版と似通っているが、大部分が日本固有のもので、お笑い芸人、グラビアアイドルなど日本の芸能界に関する記事も掲載される。誌面の肩に「GQ PROMOTION」と表記された特集は特定スポンサーとのタイアップ（[記事広告](../Page/記事広告.md "wikilink")）で、1号につき1～5か所に掲載されている。巻末には自社広告ページがあり、このうち4面が本誌オフィシャルサイト、iPad・iPhone・iPod touch向けアプリ、[VOGUE JAPAN](../Page/ヴォーグ_\(雑誌\).md "wikilink")（2面）に割り当てられる。WIRED、VOGUE HOMMESなどの発売日に近い号では、これらの媒体にもページが割り当てられる。
 
 日本以外の一部の国では、増刊号としてファッション関連の掲載を増やした『**GQ Style**』も発売されている。日本でも『VOGUE HOMMES JAPAN』休刊後、2013年5月号の別冊付録として2013年春夏号が展開され、その後2013年秋冬号からの単独創刊が予定されていた\[8\]が、この1号限りで中止となった。
 
@@ -23,7 +23,7 @@
 
 2006年から「**GQ Men of the Year**」が日本でもスタートし、各分野で活躍した男性を毎年表彰している\[10\]\[11\]。
 
-2012年には、「GQ Woman of the Year」として、[草間彌生](https://ja.wikipedia.org/wiki/草間彌生 "wikilink")が初めて女性が受賞。
+2012年には、「GQ Woman of the Year」として、[草間彌生](../Page/草間彌生.md "wikilink")が初めて女性が受賞。
 
 2013年には、GQ JAPANの創刊10周年を記念し、10年間活躍を続けてきた男性を称える「GQ Men of the Decade 2013」も合わせて表彰された\[12\]。
 
@@ -37,7 +37,7 @@
 
 :\* [安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")（[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")）
 
-:\* [宇野康秀](../Page/宇野康秀.md "wikilink")（[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink") 代表取締役社長）
+:\* [宇野康秀](../Page/宇野康秀.md "wikilink")（[USEN](../Page/USEN.md "wikilink") 代表取締役社長）
 
 :\* [徳岡邦夫](https://ja.wikipedia.org/wiki/徳岡邦夫 "wikilink")（[京都吉兆嵐山店](../Page/吉兆.md "wikilink") 総料理長）
 
@@ -53,7 +53,7 @@
 
 :\* [平松宏之](https://ja.wikipedia.org/wiki/平松宏之 "wikilink")（[ひらまつ](https://ja.wikipedia.org/wiki/ひらまつ "wikilink") 代表取締役社長）
 
-:\* [茂木健一郎](https://ja.wikipedia.org/wiki/茂木健一郎 "wikilink")
+:\* [茂木健一郎](../Page/茂木健一郎.md "wikilink")
 
 :\* [柳井正](../Page/柳井正.md "wikilink")（[ファーストリテイリング](../Page/ファーストリテイリング.md "wikilink") 代表取締役会長 兼 社長）
 
@@ -61,7 +61,7 @@
 
   - 第3回（2008年）
 
-:\* [朝原宣治](https://ja.wikipedia.org/wiki/朝原宣治 "wikilink")（[北京オリンピック](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink") 陸上日本代表 陸上男子400メートルリレー 銅メダリスト）
+:\* [朝原宣治](../Page/朝原宣治.md "wikilink")（[北京オリンピック](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink") 陸上日本代表 陸上男子400メートルリレー 銅メダリスト）
 
 :\* [北野武](../Page/ビートたけし.md "wikilink")
 
@@ -81,7 +81,7 @@
 
 :\* [笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")
 
-:\* [原田泳幸](https://ja.wikipedia.org/wiki/原田泳幸 "wikilink")（[日本マクドナルド](../Page/日本マクドナルド.md "wikilink") 代表取締役会長 兼 社長 兼 CEO）
+:\* [原田泳幸](../Page/原田泳幸.md "wikilink")（[日本マクドナルド](../Page/日本マクドナルド.md "wikilink") 代表取締役会長 兼 社長 兼 CEO）
 
 :\* [三谷幸喜](../Page/三谷幸喜.md "wikilink")
 
@@ -93,15 +93,15 @@
 
 :\* [孫正義](../Page/孫正義.md "wikilink")
 
-:\* [西沢立衛](https://ja.wikipedia.org/wiki/西沢立衛 "wikilink")
+:\* [西沢立衛](../Page/西沢立衛.md "wikilink")
 
-:\* [野口聡一](https://ja.wikipedia.org/wiki/野口聡一 "wikilink")
+:\* [野口聡一](../Page/野口聡一.md "wikilink")
 
 :\* [白鵬翔](https://ja.wikipedia.org/wiki/白鵬翔 "wikilink")（第69代[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")）
 
 :\* [本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")（[2010 FIFAワールドカップ](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink") [日本代表](https://ja.wikipedia.org/wiki/2010年のサッカー日本代表 "wikilink") 選手）
 
-:\* [向井理](https://ja.wikipedia.org/wiki/向井理 "wikilink")
+:\* [向井理](../Page/向井理.md "wikilink")
 
   - 第6回（2011年）
 
@@ -117,7 +117,7 @@
 
   - 第7回（2012年）
 
-:\* [有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink")
+:\* [有吉弘行](../Page/有吉弘行.md "wikilink")
 
 :\* [織田裕二](../Page/織田裕二.md "wikilink")
 
@@ -139,13 +139,13 @@
 
 :\* [堺雅人](../Page/堺雅人.md "wikilink")
 
-:\* [林修](https://ja.wikipedia.org/wiki/林修 "wikilink")（[東進ハイスクール](https://ja.wikipedia.org/wiki/東進ハイスクール "wikilink") 現代文科講師）
+:\* [林修](https://ja.wikipedia.org/wiki/林修 "wikilink")（[東進ハイスクール](../Page/東進ハイスクール.md "wikilink") 現代文科講師）
 
   - 第9回（2014年）
 
 :\* [ウルフルズ](../Page/ウルフルズ.md "wikilink")
 
-:\* [小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")
+:\* [小栗旬](../Page/小栗旬.md "wikilink")
 
 :\* [唐沢寿明](../Page/唐沢寿明.md "wikilink")
 
@@ -153,25 +153,25 @@
 
 :\* [坂上忍](../Page/坂上忍.md "wikilink")
 
-:\* [鈴木敏夫](https://ja.wikipedia.org/wiki/鈴木敏夫 "wikilink")
+:\* [鈴木敏夫](../Page/鈴木敏夫.md "wikilink")
 
-:\* [園子温](https://ja.wikipedia.org/wiki/園子温 "wikilink")
+:\* [園子温](../Page/園子温.md "wikilink")
 
 :\* [布袋寅泰](../Page/布袋寅泰.md "wikilink")
 
   - 第10回（2015年）
 
-:\* [五郎丸歩](../Page/五郎丸歩.md "wikilink")（[ラグビーワールドカップ2015](../Page/ラグビーワールドカップ2015.md "wikilink") [日本代表](https://ja.wikipedia.org/wiki/ラグビー日本代表 "wikilink") 選手）
+:\* [五郎丸歩](../Page/五郎丸歩.md "wikilink")（[ラグビーワールドカップ2015](../Page/ラグビーワールドカップ2015.md "wikilink") [日本代表](../Page/ラグビー日本代表.md "wikilink") 選手）
 
 :\* [鈴木亮平](../Page/鈴木亮平_\(俳優\).md "wikilink")
 
-:\* [葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")
+:\* [葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")
 
 :\* [又吉直樹](https://ja.wikipedia.org/wiki/又吉直樹 "wikilink")（[ピース](../Page/ピース_\(お笑いコンビ\).md "wikilink") メンバー）
 
 :\* [松岡修造](../Page/松岡修造.md "wikilink")
 
-:\* [吉田鋼太郎](https://ja.wikipedia.org/wiki/吉田鋼太郎 "wikilink")
+:\* [吉田鋼太郎](../Page/吉田鋼太郎.md "wikilink")
 
   - 第11回（2016年）\[14\]
 
@@ -179,7 +179,7 @@
 
 :\* [渡辺謙](../Page/渡辺謙.md "wikilink")
 
-:\* [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")
+:\* [吉川晃司](../Page/吉川晃司.md "wikilink")
 
 :\* [小澤征爾](../Page/小澤征爾.md "wikilink")
 
@@ -209,27 +209,27 @@
 
 :\* [長谷川博己](https://ja.wikipedia.org/wiki/長谷川博己 "wikilink")
 
-:\* [秋山竜次](https://ja.wikipedia.org/wiki/秋山竜次 "wikilink")（[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink") メンバー）
+:\* [秋山竜次](../Page/秋山竜次.md "wikilink")（[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink") メンバー）
 
 :\* [佐藤天彦](../Page/佐藤天彦.md "wikilink")（第75期[名人](../Page/名人戦_\(将棋\).md "wikilink")）
 
 :\* [野田洋次郎](https://ja.wikipedia.org/wiki/野田洋次郎 "wikilink")（[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink") メンバー）
 
-:\* [斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink")
+:\* [斎藤工](../Page/斎藤工.md "wikilink")
 
   - 第13回（2018年）
 
-:\* [田中圭](https://ja.wikipedia.org/wiki/田中圭 "wikilink")
+:\* [田中圭](../Page/田中圭.md "wikilink")
 
 :\* [リリー・フランキー](../Page/リリー・フランキー.md "wikilink")
 
 :\* [美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")
 
-:\* [千鳥](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")
+:\* [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")
 
 :\* [竹内涼真](https://ja.wikipedia.org/wiki/竹内涼真 "wikilink")
 
-:\* [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+:\* [DA PUMP](../Page/DA_PUMP.md "wikilink")
 
 :\* [国枝慎吾](../Page/国枝慎吾.md "wikilink")
 
@@ -239,7 +239,7 @@
 
   - 第14回（2019年）\[15\]
 
-:\*[ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink") [日本代表](https://ja.wikipedia.org/wiki/ラグビー日本代表 "wikilink")
+:\*[ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink") [日本代表](../Page/ラグビー日本代表.md "wikilink")
 
 :\*\* [リーチマイケル](https://ja.wikipedia.org/wiki/リーチマイケル "wikilink")
 
@@ -253,7 +253,7 @@
 
 :\* [横浜流星](https://ja.wikipedia.org/wiki/横浜流星 "wikilink")
 
-:\* [草刈正雄](https://ja.wikipedia.org/wiki/草刈正雄 "wikilink")
+:\* [草刈正雄](../Page/草刈正雄.md "wikilink")
 
 :\* [賀来賢人](../Page/賀来賢人.md "wikilink")
 
@@ -271,7 +271,7 @@
 
   - GQ Woman of the Year
 
-:\* 2012年 - [草間彌生](https://ja.wikipedia.org/wiki/草間彌生 "wikilink")
+:\* 2012年 - [草間彌生](../Page/草間彌生.md "wikilink")
 
 :\* 2018年 - [浅田真央](https://ja.wikipedia.org/wiki/浅田真央 "wikilink")
 
@@ -279,7 +279,7 @@
 
 :\* [Yellow Magic Orchestra](../Page/イエロー・マジック・オーケストラ.md "wikilink")
 
-:\* [佐藤浩市](https://ja.wikipedia.org/wiki/佐藤浩市 "wikilink")
+:\* [佐藤浩市](../Page/佐藤浩市.md "wikilink")
 
 :\* [爆笑問題](../Page/爆笑問題.md "wikilink")
 
@@ -295,7 +295,7 @@
 
 ## 関連項目
 
-  - [VOGUE](https://ja.wikipedia.org/wiki/ヴォーグ_\(雑誌\) "wikilink")
+  - [VOGUE](../Page/ヴォーグ_\(雑誌\).md "wikilink")
 
 ## 外部リンク
 

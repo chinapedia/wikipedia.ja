@@ -9,9 +9,9 @@
 
 ## リリース
 
-[1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[エピックソニーレコードより](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")[7インチレコードとしてリリースされた](../Page/レコード.md "wikilink")。
+[1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[エピックソニーレコードより](../Page/エピックレコードジャパン.md "wikilink")[7インチレコードとしてリリースされた](../Page/レコード.md "wikilink")。
 
-デビューアルバム『[RAINBOW RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_RAINBOW "wikilink")』と同時発売であり、ジャケットもほぼ同一のワニのお面をかぶった少女の写真である。
+デビューアルバム『[RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink")』と同時発売であり、ジャケットもほぼ同一のワニのお面をかぶった少女の写真である。
 
 2004年2月25日には、4月21日へ節目の20周年で本タイトルとサブタイトルとが入れ替えられ、リアレンジされてリリースされた。
 
@@ -33,28 +33,28 @@
 
 ### スタッフ
 
-  - 小坂洋二 - [エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")
+  - 小坂洋二 - [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
   - 松村慶子 - [スーパーバイザー](../Page/スーパーバイザー.md "wikilink")
   - 伊東俊郎 - エンジニア
   - 大森正人 - サウンド・エンジニア
   - TOMOYUKI KAIHARA - サウンド・エンジニア
-  - 笠井鉄平 - [マスタリング・エンジニア](https://ja.wikipedia.org/wiki/マスタリング・エンジニア "wikilink")
+  - 笠井鉄平 - [マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")
 
 ## リリース履歴
 
-| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")                            | 規格                                                        | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考 |
-| --- | ------------------------------------------------------------------------ | ----------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ---- | -- |
-| 1   | [1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") | [EPIC・ソニー](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink") | [7インチ](../Page/レコード.md "wikilink")                        | 07･5H-196                                             | \-   |    |
-| 2   | [1989年](../Page/1989年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink") | EPIC・ソニー                                                          | [8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | 10･8H-3145                                            | 38位  |    |
+| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")         | 規格                                                        | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考 |
+| --- | ------------------------------------------------------------------------ | ---------------------------------------------- | --------------------------------------------------------- | ---------------------------------- | ---- | -- |
+| 1   | [1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") | [EPIC・ソニー](../Page/エピックレコードジャパン.md "wikilink") | [7インチ](../Page/レコード.md "wikilink")                        | 07･5H-196                          | \-   |    |
+| 2   | [1989年](../Page/1989年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink") | EPIC・ソニー                                       | [8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | 10･8H-3145                         | 38位  |    |
 
 ## 収録アルバム
 
 **金曜日のライオン (Take it to the Lucky)**
 
-  - [RAINBOW RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_RAINBOW "wikilink") (アルバムバージョン)
-  - [TETSUYA KOMURO PRESENTS TMN BLACK](https://ja.wikipedia.org/wiki/TETSUYA_KOMURO_PRESENTS_TMN_BLACK "wikilink")
-  - [TMN final live LAST GROOVE 5.18](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
+  - [RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink") (アルバムバージョン)
+  - [TETSUYA KOMURO PRESENTS TMN BLACK](../Page/TETSUYA_KOMURO_PRESENTS_TMN_BLACK.md "wikilink")
+  - [TMN final live LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink") (ライブバージョン)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [BEST TRACKS ～A message to the next generation～](https://ja.wikipedia.org/wiki/BEST_TRACKS_～A_message_to_the_next_generation～ "wikilink")
   - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にライブバージョンが収録)
@@ -63,11 +63,11 @@
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink") (金曜日ライオン 2014)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 **クロコダイル・ラップ (Get Away)**
 
-  - [RAINBOW RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_RAINBOW "wikilink")
+  - [RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
 

@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [AMラジオ](https://ja.wikipedia.org/wiki/AMラジオ "wikilink")のようなノリだったと言われ\[1\]、音楽の他にも、トークとリスナーからの[はがき](https://ja.wikipedia.org/wiki/はがき "wikilink")にも重点が置かれていた。
+  - [AMラジオ](https://ja.wikipedia.org/wiki/AMラジオ "wikilink")のようなノリだったと言われ\[1\]、音楽の他にも、トークとリスナーからの[はがき](../Page/はがき.md "wikilink")にも重点が置かれていた。
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 曜日によって異なっていた。金曜日のみ、途中でパーソナリティ交替があった。
 
   - 月曜日＝[五島仁](https://ja.wikipedia.org/wiki/五島仁 "wikilink")・[酒向ヨシミ](https://ja.wikipedia.org/wiki/酒向芳 "wikilink")（さんご・オンシアター自由劇場） - サブタイトルは『アグレッシブ・マンデー』
-  - 火曜日＝[六角精児](https://ja.wikipedia.org/wiki/六角精児 "wikilink")・[恵畑純子](https://ja.wikipedia.org/wiki/恵畑純子 "wikilink")（[善人会議](https://ja.wikipedia.org/wiki/善人会議 "wikilink")） - サブタイトルは『リラックス・デラックス・チューズデイ』
+  - 火曜日＝[六角精児](../Page/六角精児.md "wikilink")・[恵畑純子](https://ja.wikipedia.org/wiki/恵畑純子 "wikilink")（[善人会議](https://ja.wikipedia.org/wiki/善人会議 "wikilink")） - サブタイトルは『リラックス・デラックス・チューズデイ』
   - 水曜日＝[松本きょうじ](../Page/松本きょうじ.md "wikilink")（[ランプティパンプティ](https://ja.wikipedia.org/wiki/ランプティパンプティ "wikilink")） - サブタイトルは『ウェンズデー・ワンダーランド』。1990年4月からは[岡田惠和](../Page/岡田惠和.md "wikilink")もレギュラーに加わる
   - 木曜日＝[深沢敦](../Page/深沢敦.md "wikilink")（[花組芝居](https://ja.wikipedia.org/wiki/花組芝居 "wikilink")） - サブタイトルは『豪華な木曜日』通称は『GAY-WAVE』\[2\]
   - 金曜日(1)＝[コロッケ](../Page/コロッケ_\(タレント\).md "wikilink") - サブタイトルは『スペシャル・コロッケ“並”』。1988年10月〜[1989年](../Page/1989年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")
@@ -109,11 +109,11 @@
 
 ## 内包番組
 
-  - [ブルーハーツのしおり](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink") （22:30〜22:40、1988年11月〜1990年3月）
+  - [ブルーハーツのしおり](../Page/THE_BLUE_HEARTS.md "wikilink") （22:30〜22:40、1988年11月〜1990年3月）
   - [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")・[鉛筆を削って](https://ja.wikipedia.org/wiki/鉛筆を削って "wikilink") （23:30〜23:45、1988年11月〜1990年9月 1990年4月からは22:30の枠へ　\[10\]）
   - 藤村正美・お許しが出ました （金曜日の放送内、1989年4月〜1990年10月 ※後番組『KUWA-MAN IN THE NIGHT』でも放送）
   - [西田ひかる](../Page/西田ひかる.md "wikilink") ハート・ポップ・絵モーション （24:30〜24:40、1989年10月〜1990年3月）
-  - [ケント・デリカット](https://ja.wikipedia.org/wiki/ケント・デリカット "wikilink")クラブ （24:30〜24:35、1990年4月〜同年9月）
+  - [ケント・デリカット](../Page/ケント・デリカット.md "wikilink")クラブ （24:30〜24:35、1990年4月〜同年9月）
   - [SHOW-YA](../Page/SHOW-YA.md "wikilink")\! SLAVE TO ROCK （22:30〜22:40、1990年10月〜1991年3月）
 
 ## 脚注
@@ -126,7 +126,7 @@
 
 [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:NACK5の帯番組](https://ja.wikipedia.org/wiki/Category:NACK5の帯番組 "wikilink")
 
-1.  月刊『[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink")』1988年11月号の48ページでもこのように紹介。
+1.  月刊『[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")』1988年11月号の48ページでもこのように紹介。
 2.  オカマパーソナリティであることと、J-WAVEをひっかけたもの。当のJ-WAVEから「紛らわしい番組が放送されている」と発言があったと、喜んでいた一幕も。
 3.  大馬鹿なすすむくんがさまざまな珍事を繰り広げる。「ひろしくんはアンパンを3個、ジャムパンを4個、クリームパンを5個買いました。さて、問題です。ひろしくんはいつチンポに毛が生えたでしょうか？」というネタをよく使う。
 4.  地球平和の為に戦う特殊警察隊ドラマ。回を重ねるごとに仲間が消え、猿のメンバーが加入してゆく。

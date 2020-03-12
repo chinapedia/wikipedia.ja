@@ -1,7 +1,7 @@
 > この記事は[Jack in the box!](https://ja.wikipedia.org/wiki/Jack_in_the_box!)から翻訳されています。
 
 
-**jack in the box\!**(ジャック イン ザ ボックス)は[FM NACK5で水曜日](../Page/エフエムナックファイブ.md "wikilink")23:30～24:00に放送されていた番組。 パーソナリティーは[ナイトメア](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink")。主にYOMIと柩の2人がパーソナリティーを務めていた。[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")放送終了。
+**jack in the box\!**(ジャック イン ザ ボックス)は[FM NACK5で水曜日](../Page/エフエムナックファイブ.md "wikilink")23:30～24:00に放送されていた番組。 パーソナリティーは[ナイトメア](../Page/ナイトメア_\(バンド\).md "wikilink")。主にYOMIと柩の2人がパーソナリティーを務めていた。[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")放送終了。
 
 ## コーナー
 
@@ -67,11 +67,11 @@
 <!-- end list -->
 
   -
-    これまでに登場したゲスト…･[時東ぁみ](https://ja.wikipedia.org/wiki/時東ぁみ "wikilink")･LM.C･J・[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink") など
+    これまでに登場したゲスト…･[時東ぁみ](../Page/時東ぁみ.md "wikilink")･LM.C･J・[河村隆一](../Page/河村隆一.md "wikilink") など
 
 ## 関連項目
 
-  - [ナイトメア](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink")
+  - [ナイトメア](../Page/ナイトメア_\(バンド\).md "wikilink")
 
 ## 外部リンク
 

@@ -10,7 +10,7 @@
 | 前級                                                                |
 | 次級                                                                |
 | 性能諸元                                                              |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")               |
+| [排水量](../Page/排水量.md "wikilink")                                  |
 | 全長                                                                |
 | 全幅                                                                |
 | 吃水                                                                |

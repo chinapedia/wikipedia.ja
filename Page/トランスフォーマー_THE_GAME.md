@@ -1,13 +1,13 @@
 > この記事は[ THE GAME](https://ja.wikipedia.org/wiki/_THE_GAME)から翻訳されています。
 
 
-『**トランスフォーマー THE GAME**』(*Transformers THE GAME*)は、[アクティビジョン](https://ja.wikipedia.org/wiki/アクティビジョン "wikilink")から発売されたアクションゲーム。日本では[2007年](../Page/2007年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に公開された映画[トランスフォーマー](https://ja.wikipedia.org/wiki/トランスフォーマー_\(2007年の映画\) "wikilink")（[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")制作総指揮、[パラマウント](https://ja.wikipedia.org/wiki/パラマウント "wikilink")映画配給）をゲーム化したものである。
+『**トランスフォーマー THE GAME**』(*Transformers THE GAME*)は、[アクティビジョン](../Page/アクティビジョン.md "wikilink")から発売されたアクションゲーム。日本では[2007年](../Page/2007年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に公開された映画[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")（[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")制作総指揮、[パラマウント](https://ja.wikipedia.org/wiki/パラマウント "wikilink")映画配給）をゲーム化したものである。
 
 ## 概要
 
 プレイヤーは、正義の「オートボット」と悪の組織「ディセプティコン」のいずれかを選択し、バンブルビーなどを操作し**トランスフォーム**（変形）を自由自在に行い戦闘を開始する。
 
-他にも[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版、[PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、[Xbox 360版](../Page/Xbox_360.md "wikilink")、[PC版があるがいずれも日本未発売](../Page/パーソナルコンピュータ.md "wikilink")。
+他にも[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版、[PSP版](../Page/PlayStation_Portable.md "wikilink")、[Xbox 360版](../Page/Xbox_360.md "wikilink")、[PC版があるがいずれも日本未発売](../Page/パーソナルコンピュータ.md "wikilink")。
 
 [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版には、オートボット版とディセプティコン版が発売。
 
@@ -27,14 +27,14 @@
 
 ## 声の出演
 
-  - [オプティマス・プライム](../Page/コンボイ_\(トランスフォーマー\).md "wikilink")：[ピーター・カレン](https://ja.wikipedia.org/wiki/ピーター・カレン "wikilink")
+  - [オプティマス・プライム](../Page/コンボイ_\(トランスフォーマー\).md "wikilink")：[ピーター・カレン](../Page/ピーター・カレン.md "wikilink")
   - [ジャズ](https://ja.wikipedia.org/wiki/マイスター_\(トランスフォーマー\) "wikilink")：アンドリュー・キシノ
   - [アイアンハイド](https://ja.wikipedia.org/wiki/アイアンハイド "wikilink")、ホイスト：マーク・ライアン
   - [ラチェット](https://ja.wikipedia.org/wiki/ラチェット_\(トランスフォーマー\) "wikilink")、[サイドスワイプ](https://ja.wikipedia.org/wiki/ランボル_\(トランスフォーマー\) "wikilink")：[フレッド・タタショア](https://ja.wikipedia.org/wiki/フレッド・タタショア "wikilink")
   - [ホイルジャック](https://ja.wikipedia.org/wiki/ホイルジャック "wikilink")：エリック・パソジャ
-  - トレイルブレイカー：[スティーヴン・ブルーム](https://ja.wikipedia.org/wiki/スティーヴン・ブルーム "wikilink")
+  - トレイルブレイカー：[スティーヴン・ブルーム](../Page/スティーヴン・ブルーム.md "wikilink")
   - [メガトロン](../Page/メガトロン_\(トランスフォーマー\).md "wikilink")：[フランク・ウェルカー](../Page/フランク・ウェルカー.md "wikilink")
-  - [スタースクリーム](https://ja.wikipedia.org/wiki/スタースクリーム "wikilink")、ハウンド：ダニエル・ロイス
+  - [スタースクリーム](../Page/スタースクリーム.md "wikilink")、ハウンド：ダニエル・ロイス
   - バリケード：[キース・デイヴィッド](https://ja.wikipedia.org/wiki/キース・デイヴィッド "wikilink")
   - [ショックウェーブ](https://ja.wikipedia.org/wiki/レーザーウェーブ "wikilink")、ミックスマスター：ダニエル・リオーダン
   - ブラックアウト、ドレッドウィング：ノア・ネルソン

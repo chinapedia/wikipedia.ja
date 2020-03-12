@@ -1,9 +1,9 @@
 > この記事は[COMIC](https://ja.wikipedia.org/wiki/COMIC)から翻訳されています。
 
 
-『**COMIC快楽天**』（コミックかいらくてん）は、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[成人向け漫画雑誌](https://ja.wikipedia.org/wiki/成人向け漫画雑誌の一覧 "wikilink")。
+『**COMIC快楽天**』（コミックかいらくてん）は、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[成人向け漫画雑誌](../Page/成人向け漫画雑誌の一覧.md "wikilink")。
 
-[1994年](../Page/1994年.md "wikilink")に『[漫画エロトピア](https://ja.wikipedia.org/wiki/漫画エロトピア "wikilink")』9月8日増刊号としてスタートし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月号から独立創刊\[1\]。2014年10月号で創刊20周年を迎え、定期刊行中の成年漫画雑誌として1986年創刊の『[ペンギンクラブ](https://ja.wikipedia.org/wiki/ペンギンクラブ "wikilink")』に次ぐ歴史を持つ。
+[1994年](../Page/1994年.md "wikilink")に『[漫画エロトピア](../Page/漫画エロトピア.md "wikilink")』9月8日増刊号としてスタートし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月号から独立創刊\[1\]。2014年10月号で創刊20周年を迎え、定期刊行中の成年漫画雑誌として1986年創刊の『[ペンギンクラブ](https://ja.wikipedia.org/wiki/ペンギンクラブ "wikilink")』に次ぐ歴史を持つ。
 
 ## 概要
 
@@ -13,9 +13,9 @@
 
 この時期の主力作家は[OKAMA](../Page/OKAMA.md "wikilink")、[ぢたま某](https://ja.wikipedia.org/wiki/ぢたま某 "wikilink")、[文月晃](https://ja.wikipedia.org/wiki/文月晃 "wikilink")、[陽気婢](../Page/陽気婢.md "wikilink")などが挙げられる。
 
-2003年6月号以降は成人誌らしい性的アピールのあるものとなり、表紙イラストも[みやびつづる](https://ja.wikipedia.org/wiki/みやびつづる "wikilink")、[LINDA](https://ja.wikipedia.org/wiki/LINDA "wikilink")、[西安](https://ja.wikipedia.org/wiki/西安_\(漫画家\) "wikilink")、[鳴子ハナハル](https://ja.wikipedia.org/wiki/鳴子ハナハル "wikilink")などが交代で担当するようになった（村田蓮爾は広告を除いた最後のページに "futuregraph" として絵を掲載している）\[2\]。
+2003年6月号以降は成人誌らしい性的アピールのあるものとなり、表紙イラストも[みやびつづる](../Page/みやびつづる.md "wikilink")、[LINDA](https://ja.wikipedia.org/wiki/LINDA "wikilink")、[西安](https://ja.wikipedia.org/wiki/西安_\(漫画家\) "wikilink")、[鳴子ハナハル](../Page/鳴子ハナハル.md "wikilink")などが交代で担当するようになった（村田蓮爾は広告を除いた最後のページに "futuregraph" として絵を掲載している）\[2\]。
 
-成人向け漫画雑誌としては異例の32万部発行（公称\[3\]）。これは一般誌である『[ヤングチャンピオン](https://ja.wikipedia.org/wiki/ヤングチャンピオン "wikilink")』（25万部）や『[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")』（19万部）を越え、『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』（41万部）や『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（37万部）や『[ビジネスジャンプ](https://ja.wikipedia.org/wiki/ビジネスジャンプ "wikilink")』（37万部）などに並ぶ発行部数である。
+成人向け漫画雑誌としては異例の32万部発行（公称\[3\]）。これは一般誌である『[ヤングチャンピオン](../Page/ヤングチャンピオン.md "wikilink")』（25万部）や『[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")』（19万部）を越え、『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』（41万部）や『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（37万部）や『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』（37万部）などに並ぶ発行部数である。
 
 いわゆる[コンビニ売り雑誌であり](../Page/コンビニエンスストア.md "wikilink")、主にコンビニエンスストア（[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")、[ファミリーマート](../Page/ファミリーマート.md "wikilink")等）で販売されている。ただし、一時期オンライン書店でも販売され、[Amazonでは](../Page/Amazon.co.jp.md "wikilink")2006年3月号～2008年7月号に関してはマーケットプレイス（一般の出品者から言い値で購入する）より購入できる。なお、販売されなくなったのは2008年7月1日に注文した商品をコンビニエンスストアの店頭で受け取れる「コンビニ受取」サービスを開始したことに伴いコンビニ売りの雑誌の取扱を縮小したためである。
 
@@ -34,7 +34,7 @@
   - 第4回--王子様賞：[ポヨ＝ナマステ](https://ja.wikipedia.org/wiki/ポヨ＝ナマステ "wikilink")
   - 第6回--奨励賞：[くどうひさし](https://ja.wikipedia.org/wiki/くどうひさし "wikilink")
   - 第7回--お姫様賞：[小梅けいと](https://ja.wikipedia.org/wiki/小梅けいと "wikilink")
-  - 第12回--王子様賞：[鳴子ハナハル](https://ja.wikipedia.org/wiki/鳴子ハナハル "wikilink")
+  - 第12回--王子様賞：[鳴子ハナハル](../Page/鳴子ハナハル.md "wikilink")
   - 第15回--奨励賞：[恩田チロ](https://ja.wikipedia.org/wiki/恩田チロ "wikilink")、終焉、野原ひろみ
 
 <!-- end list -->
@@ -83,7 +83,7 @@
 
 ## モバイル快楽天
 
-携帯電話向けに漫画や待ち受けイラストを有料でダウンロードできるサービス「モバイル快楽天」が[2007年](../Page/2007年.md "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")に開始したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")まででサービスを休止することとなった。再開は未定で、事実上のサービス終了。 2017年1月13日から、コミック快楽天などワニマガジン社のコミック雑誌有料読み放題サービス「Komiflo（コミフロ）」を開始。月額980円。（2017年7月現在）
+携帯電話向けに漫画や待ち受けイラストを有料でダウンロードできるサービス「モバイル快楽天」が[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に開始したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")まででサービスを休止することとなった。再開は未定で、事実上のサービス終了。 2017年1月13日から、コミック快楽天などワニマガジン社のコミック雑誌有料読み放題サービス「Komiflo（コミフロ）」を開始。月額980円。（2017年7月現在）
 
 ## 出典
 
@@ -91,8 +91,8 @@
 
   - [成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")
   - [ワニマガジン社](../Page/ワニマガジン社.md "wikilink")
-  - [対戦ホットギミック 快楽天](https://ja.wikipedia.org/wiki/ホットギミック_\(ゲーム\) "wikilink") - [彩京](https://ja.wikipedia.org/wiki/彩京 "wikilink")の脱衣麻雀ゲームとのコラボレーション作品。
-  - [HELLSING](../Page/HELLSING.md "wikilink") - [平野耕太](../Page/平野耕太.md "wikilink")は[ヤングキングアワーズ](https://ja.wikipedia.org/wiki/ヤングキングアワーズ "wikilink")での連載前に、第1話とほぼ同じストーリーの読切『HELLSING』を1996年10月号に掲載している。
+  - [対戦ホットギミック 快楽天](../Page/ホットギミック_\(ゲーム\).md "wikilink") - [彩京](../Page/彩京.md "wikilink")の脱衣麻雀ゲームとのコラボレーション作品。
+  - [HELLSING](../Page/HELLSING.md "wikilink") - [平野耕太](../Page/平野耕太.md "wikilink")は[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")での連載前に、第1話とほぼ同じストーリーの読切『HELLSING』を1996年10月号に掲載している。
 
 ## 外部リンク
 

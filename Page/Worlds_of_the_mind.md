@@ -27,6 +27,6 @@
 
 ## 関連項目
 
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink") [Category:m.o.v.eのアルバム](https://ja.wikipedia.org/wiki/Category:m.o.v.eのアルバム "wikilink")

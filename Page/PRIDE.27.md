@@ -1,7 +1,7 @@
 > この記事は[PRIDE.27](https://ja.wikipedia.org/wiki/PRIDE.27)から翻訳されています。
 
 
-**PRIDE.27 TRIUMPHAL RETURN**（プライド・トゥウェンティセブン トライアンファル・リターン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2004年](../Page/2004年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")の[大阪城ホール](../Page/大阪城ホール.md "wikilink")で開催された。海外[PPVでの大会名は](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")「**PRIDE 27: Inferno**」。
+**PRIDE.27 TRIUMPHAL RETURN**（プライド・トゥウェンティセブン トライアンファル・リターン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2004年](../Page/2004年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")の[大阪城ホール](../Page/大阪城ホール.md "wikilink")で開催された。海外[PPVでの大会名は](../Page/ペイ・パー・ビュー.md "wikilink")「**PRIDE 27: Inferno**」。
 
 サブタイトル「TRIUMPHAL RETURN」は、「凱旋」の意。
 
@@ -12,22 +12,22 @@
 ## 試合結果
 
   - 第1試合 PRIDE GP サバイバルマッチ 1R10分、2・3R5分
-    ○  [イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink") vs.  [ダン・ボビッシュ](https://ja.wikipedia.org/wiki/ダン・ボビッシュ "wikilink") ×
-    2R 1:45 TKO（レフェリーストップ：[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") vs.  [ダン・ボビッシュ](../Page/ダン・ボビッシュ.md "wikilink") ×
+    2R 1:45 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 PRIDE GP サバイバルマッチ 1R10分、2・3R5分
-    ○  [セルゲイ・ハリトーノフ](https://ja.wikipedia.org/wiki/セルゲイ・ハリトーノフ "wikilink") vs.  [LA・ジャイアント](https://ja.wikipedia.org/wiki/LA・ジャイアント "wikilink") ×
-    1R 1:23 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [セルゲイ・ハリトーノフ](../Page/セルゲイ・ハリトーノフ.md "wikilink") vs.  [LA・ジャイアント](https://ja.wikipedia.org/wiki/LA・ジャイアント "wikilink") ×
+    1R 1:23 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第3試合 PRIDEルール 1R10分、2・3R5分
-    ○  [ムリーロ・ニンジャ](https://ja.wikipedia.org/wiki/ムリーロ・ニンジャ "wikilink") vs.  [アレクサンダー大塚](https://ja.wikipedia.org/wiki/アレクサンダー大塚 "wikilink") ×
-    1R 5:25 [肩固め](https://ja.wikipedia.org/wiki/肩固め "wikilink")
+    ○  [ムリーロ・ニンジャ](https://ja.wikipedia.org/wiki/ムリーロ・ニンジャ "wikilink") vs.  [アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink") ×
+    1R 5:25 [肩固め](../Page/肩固め.md "wikilink")
   - 第4試合 PRIDEルール 1R10分、2・3R5分
-    ○  [中村和裕](https://ja.wikipedia.org/wiki/中村和裕 "wikilink") vs.  [ドス・カラスJr](https://ja.wikipedia.org/wiki/アルベルト・ロドリゲス "wikilink") ×
+    ○  [中村和裕](../Page/中村和裕.md "wikilink") vs.  [ドス・カラスJr](../Page/アルベルト・ロドリゲス.md "wikilink") ×
     3R終了 判定3-0
   - 第5試合 PRIDE GP サバイバルマッチ 1R10分、2・3R5分
-    ○  [山本宜久](https://ja.wikipedia.org/wiki/山本宜久 "wikilink") vs.  [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink") ×
-    1R 0:40 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [山本宜久](../Page/山本宜久.md "wikilink") vs.  [マーク・ケアー](../Page/マーク・ケアー.md "wikilink") ×
+    1R 0:40 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第6試合 PRIDE GP サバイバルマッチ 1R10分、2・3R5分
-    ○  [ヒース・ヒーリング](https://ja.wikipedia.org/wiki/ヒース・ヒーリング "wikilink") vs.  [ガン・マッギー](../Page/ガン・マッギー.md "wikilink") ×
+    ○  [ヒース・ヒーリング](../Page/ヒース・ヒーリング.md "wikilink") vs.  [ガン・マッギー](../Page/ガン・マッギー.md "wikilink") ×
     3R終了 判定2-1
   - 第7試合 PRIDEルール 1R10分、2・3R5分
     ○  [ミルコ・クロコップ](../Page/ミルコ・クロコップ.md "wikilink") vs.  [ロン・ウォーターマン](../Page/ロン・ウォーターマン.md "wikilink") ×
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧 "wikilink")
+  - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
 
 ## 外部リンク
 

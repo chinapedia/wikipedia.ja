@@ -67,7 +67,7 @@
 <td><p>13,902</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大韓民国" title="wikilink">大韓民国</a>[11]</p></td>
+<td><p><a href="../Page/大韓民国.md" title="wikilink">大韓民国</a>[11]</p></td>
 <td><p>4,780</p></td>
 <td><p>4,463</p></td>
 </tr>
@@ -81,17 +81,17 @@
 
 </table>
 
-[Next_Eleven.svg](https://ja.wikipedia.org/wiki/File:Next_Eleven.svg "fig:Next_Eleven.svg") **NEXT11**（ねくすといれぶん、Next Eleven、略称: **N-11**; "NEXT11"は日本独自表記）は、[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")の[ゴールドマン・サックス](https://ja.wikipedia.org/wiki/ゴールドマン・サックス "wikilink")及びエコノミストの[ジム・オニールが研究論文において](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")、[BRICs](https://ja.wikipedia.org/wiki/BRICs "wikilink")諸国に次いで21世紀有数の経済大国に成長する高い潜在性があるとした11箇国の総称である。具体的には[イラン](../Page/イラン.md "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[エジプト](../Page/エジプト.md "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[ナイジェリア](../Page/ナイジェリア.md "wikilink")、[パキスタン](../Page/パキスタン.md "wikilink")、[バングラデシュ](../Page/バングラデシュ.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")が挙げられた。2005年12月12日、同行は投資及び将来成長への有望な前途でこれら主権国家を選出した。2011年末、NEXT11で最も傑出した4箇国であるインドネシア、トルコ、メキシコ、大韓民国のみで、NEXT11全体のGDPのうち73％を計上した。BRICとして提唱された[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[インド](../Page/インド.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")のGDP合計は13.5兆[米ドルであった一方](../Page/アメリカ合衆国ドル.md "wikilink")、MINTとして提唱されたメキシコ、インドネシア、ナイジェリア、トルコのGDP合計は3.9兆米ドルでBRICのGDP合計のほぼ30％であった。\[12\]
+[Next_Eleven.svg](https://ja.wikipedia.org/wiki/File:Next_Eleven.svg "fig:Next_Eleven.svg") **NEXT11**（ねくすといれぶん、Next Eleven、略称: **N-11**; "NEXT11"は日本独自表記）は、[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")の[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")及びエコノミストの[ジム・オニールが研究論文において](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")、[BRICs](../Page/BRICs.md "wikilink")諸国に次いで21世紀有数の経済大国に成長する高い潜在性があるとした11箇国の総称である。具体的には[イラン](../Page/イラン.md "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[エジプト](../Page/エジプト.md "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[ナイジェリア](../Page/ナイジェリア.md "wikilink")、[パキスタン](../Page/パキスタン.md "wikilink")、[バングラデシュ](../Page/バングラデシュ.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")が挙げられた。2005年12月12日、同行は投資及び将来成長への有望な前途でこれら主権国家を選出した。2011年末、NEXT11で最も傑出した4箇国であるインドネシア、トルコ、メキシコ、大韓民国のみで、NEXT11全体のGDPのうち73％を計上した。BRICとして提唱された[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[インド](../Page/インド.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")のGDP合計は13.5兆[米ドルであった一方](../Page/アメリカ合衆国ドル.md "wikilink")、MINTとして提唱されたメキシコ、インドネシア、ナイジェリア、トルコのGDP合計は3.9兆米ドルでBRICのGDP合計のほぼ30％であった。\[12\]
 
-同行が用いた基準は、[マクロ経済の安定性](../Page/マクロ経済学.md "wikilink")、[政治の成熟度](https://ja.wikipedia.org/wiki/政治哲学 "wikilink")、貿易及び投資政策の開放性、教育の質であった。NEXT11の論文は、2003年のブラジル、ロシア、インド、中華人民共和国を挙げたBRICの補足論文である。\[13\] [エコノミスト・インテリジェンス・ユニット](https://ja.wikipedia.org/wiki/エコノミスト・インテリジェンス・ユニット "wikilink") (EIU) のグローバル・フォーカスティング・ディレクターのロバート・ワードによる造語である[CIVETS](https://ja.wikipedia.org/wiki/CIVETS "wikilink")は、わずかな差異及び多くの類似点からNEXT11と比較され得る。
+同行が用いた基準は、[マクロ経済の安定性](../Page/マクロ経済学.md "wikilink")、[政治の成熟度](../Page/政治哲学.md "wikilink")、貿易及び投資政策の開放性、教育の質であった。NEXT11の論文は、2003年のブラジル、ロシア、インド、中華人民共和国を挙げたBRICの補足論文である。\[13\] [エコノミスト・インテリジェンス・ユニット](https://ja.wikipedia.org/wiki/エコノミスト・インテリジェンス・ユニット "wikilink") (EIU) のグローバル・フォーカスティング・ディレクターのロバート・ワードによる造語である[CIVETS](https://ja.wikipedia.org/wiki/CIVETS "wikilink")は、わずかな差異及び多くの類似点からNEXT11と比較され得る。
 
 ## 概要
 
-BRICsが広大な国土と人口を持ち、資源にも恵まれているという共通点があるのに対し、N-11の国々は、国土の大きさも人口も様々で、その点では共通点を見出すことが出来ない。経済力においても、[1970年代](../Page/1970年代.md "wikilink")から[80年代にかけ急成長を見せ](../Page/1980年代.md "wikilink")、[NIES](https://ja.wikipedia.org/wiki/新興工業経済地域 "wikilink")（新興工業経済地域）や「準先進国」に分類されてきたトルコ、メキシコ、韓国、[2000年代](../Page/2000年代.md "wikilink")になってから安定した経済成長が続き新興国として挙げられることが多いインドネシア、フィリピン、ベトナムの[ASEAN諸国が含まれている一方で](../Page/東南アジア諸国連合.md "wikilink")、多くの貧困と食糧難で苦しむパキスタン、また[後発開発途上国](https://ja.wikipedia.org/wiki/後発開発途上国 "wikilink")の一つであるバングラデシュも含まれており、高度経済成長の真っ只中にあるBRICs諸国とは大きく違う。
+BRICsが広大な国土と人口を持ち、資源にも恵まれているという共通点があるのに対し、N-11の国々は、国土の大きさも人口も様々で、その点では共通点を見出すことが出来ない。経済力においても、[1970年代](../Page/1970年代.md "wikilink")から[80年代にかけ急成長を見せ](../Page/1980年代.md "wikilink")、[NIES](../Page/新興工業経済地域.md "wikilink")（新興工業経済地域）や「準先進国」に分類されてきたトルコ、メキシコ、韓国、[2000年代](../Page/2000年代.md "wikilink")になってから安定した経済成長が続き新興国として挙げられることが多いインドネシア、フィリピン、ベトナムの[ASEAN諸国が含まれている一方で](../Page/東南アジア諸国連合.md "wikilink")、多くの貧困と食糧難で苦しむパキスタン、また[後発開発途上国](../Page/後発開発途上国.md "wikilink")の一つであるバングラデシュも含まれており、高度経済成長の真っ只中にあるBRICs諸国とは大きく違う。
 
 また、[2050年](../Page/2050年.md "wikilink")の人口を見ると、ナイジェリア、パキスタン、バングラデシュの様にほぼ倍増する国々があるのに対し、韓国のように減少する国も存在する。
 
-唯一の共通点としては、規制緩和政策によって外資の流入が始まっていることである。これにより各国は2050年までに飛躍的にGDPを増加させると予測されている。しかし、BRICsよりも深刻な政治的あるいは地理的な面で不安定要素を抱えている国が多いことも事実で、例えばイランでは、[核開発などにおいて先進国と対立する姿勢を強めているほか](https://ja.wikipedia.org/wiki/イランの核開発問題 "wikilink")、パキスタンは[カシミール紛争](https://ja.wikipedia.org/wiki/カシミール紛争 "wikilink")が解決を見ておらず、ナイジェリアは内戦状態から脱しきれていない。バングラデシュはインフラが貧弱なことから自然災害の度に甚大な被害が出ている。このことが安定成長を阻む大きなリスクとなる恐れも指摘されている。
+唯一の共通点としては、規制緩和政策によって外資の流入が始まっていることである。これにより各国は2050年までに飛躍的にGDPを増加させると予測されている。しかし、BRICsよりも深刻な政治的あるいは地理的な面で不安定要素を抱えている国が多いことも事実で、例えばイランでは、[核開発などにおいて先進国と対立する姿勢を強めているほか](../Page/イランの核開発問題.md "wikilink")、パキスタンは[カシミール紛争](../Page/カシミール紛争.md "wikilink")が解決を見ておらず、ナイジェリアは内戦状態から脱しきれていない。バングラデシュはインフラが貧弱なことから自然災害の度に甚大な被害が出ている。このことが安定成長を阻む大きなリスクとなる恐れも指摘されている。
 
 [2030年](../Page/2030年.md "wikilink")迄にNEXT11の経済規模は[EU](https://ja.wikipedia.org/wiki/EU "wikilink")のそれを上回ると予想されている\[14\]。
 
@@ -117,12 +117,12 @@ BRICsが広大な国土と人口を持ち、資源にも恵まれているとい
 <th><p><a href="https://ja.wikipedia.org/wiki/輸出" title="wikilink">輸出</a><br />
 (2012)<br />
 (単位: 10億米ドル)</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/輸入" title="wikilink">輸入</a><br />
+<th><p><a href="../Page/輸入.md" title="wikilink">輸入</a><br />
 (2012)<br />
 (単位: 10億米ドル)</p></th>
 <th><p><a href="../Page/貿易.md" title="wikilink">貿易</a><br />
 (単位: 10億米ドル)</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/人間開発指数" title="wikilink">HDI</a><br />
+<th><p><a href="../Page/人間開発指数.md" title="wikilink">HDI</a><br />
 (2012)</p></th>
 </tr>
 </thead>
@@ -248,7 +248,7 @@ BRICsが広大な国土と人口を持ち、資源にも恵まれているとい
 <td><p>0.775</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大韓民国" title="wikilink">大韓民国</a></p></td>
+<td><p><a href="../Page/大韓民国.md" title="wikilink">大韓民国</a></p></td>
 <td><p>50,004,441</p></td>
 <td><p>$1,666</p></td>
 <td><p>$1,198</p></td>
@@ -284,7 +284,7 @@ BRICsが広大な国土と人口を持ち、資源にも恵まれているとい
   - [G77](https://ja.wikipedia.org/wiki/77ヶ国グループ "wikilink")
   - [国の国内総生産順リスト (為替レート)](https://ja.wikipedia.org/wiki/国の国内総生産順リスト_\(為替レート\) "wikilink")、([一人当り](https://ja.wikipedia.org/wiki/国の国内総生産順リスト_\(一人当り為替レート\) "wikilink"))
   - [人間開発指数による国順リスト](https://ja.wikipedia.org/wiki/人間開発指数による国順リスト "wikilink")
-  - [新興工業経済地域](https://ja.wikipedia.org/wiki/新興工業経済地域 "wikilink")
+  - [新興工業経済地域](../Page/新興工業経済地域.md "wikilink")
   - [OECD](https://ja.wikipedia.org/wiki/OECD "wikilink")
   - [Tiger Cub Economies](https://ja.wikipedia.org/wiki/w:Tiger_Cub_Economies "wikilink")
 

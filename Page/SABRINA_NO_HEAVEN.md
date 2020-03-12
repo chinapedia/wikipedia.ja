@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - 2003年3月に発売されたアルバム「[SABRINA HEAVEN](https://ja.wikipedia.org/wiki/SABRINA_HEAVEN "wikilink")」と対を成す位置付けとされ、同時期にレコーディングされた。本作品は[HDCD](https://ja.wikipedia.org/wiki/HDCD "wikilink")にて収録されている。
-  - 「SABRINA HEAVEN」と今作を2枚に分けてリリースした理由を[チバは](https://ja.wikipedia.org/wiki/チバユウスケ "wikilink")「2枚組のCDとかって、やっぱ全部聴かないからさ」と[JAPAN COUNTDOWNのインタビューで語っている](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")。
+  - 2003年3月に発売されたアルバム「[SABRINA HEAVEN](../Page/SABRINA_HEAVEN.md "wikilink")」と対を成す位置付けとされ、同時期にレコーディングされた。本作品は[HDCD](../Page/HDCD.md "wikilink")にて収録されている。
+  - 「SABRINA HEAVEN」と今作を2枚に分けてリリースした理由を[チバは](../Page/チバユウスケ.md "wikilink")「2枚組のCDとかって、やっぱ全部聴かないからさ」と[JAPAN COUNTDOWNのインタビューで語っている](../Page/JAPAN_COUNTDOWN.md "wikilink")。
   - 収録曲は6曲とミニアルバム並みだが、チバは「ミニアルバムとは思っていない」「ただ曲数が少ないだけ」と発言している。「SABRINA HEAVEN」同様、収録曲には前年のツアーやライブで既に披露されていた楽曲も存在する。
   - 同日に[インディーズ・レーベル](https://ja.wikipedia.org/wiki/インディーズ・レーベル "wikilink")である「[TRIPPIN' ELEPHANT RECORDS](https://ja.wikipedia.org/wiki/TRIPPIN'_ELEPHANT_RECORDS "wikilink")」から「[Girl Friend](https://ja.wikipedia.org/wiki/Girl_Friend_\(thee_michelle_gun_elephantの曲\) "wikilink")」がリリースされた。
 
@@ -20,7 +20,7 @@
         「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に出演した際、生放送中に出演を放棄した[t.A.T.u](https://ja.wikipedia.org/wiki/t.A.T.u "wikilink")の代わりに急遽演奏された曲。
 3.  **デッドマンズ・ギャラクシー・デイズ**（3:52）
       -
-        全身血まみれになって演奏するPVが話題となった。白黒の自主規制バージョンの2パターンが存在する。チバは[JAPAN COUNTDOWNのインタビューで血まみれになった理由を聞かれ](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")「(監督である)[番場君が](https://ja.wikipedia.org/wiki/番場秀一 "wikilink")『血まみれになって下さい』って言ったから」と答えている。
+        全身血まみれになって演奏するPVが話題となった。白黒の自主規制バージョンの2パターンが存在する。チバは[JAPAN COUNTDOWNのインタビューで血まみれになった理由を聞かれ](../Page/JAPAN_COUNTDOWN.md "wikilink")「(監督である)[番場君が](../Page/番場秀一.md "wikilink")『血まみれになって下さい』って言ったから」と答えている。
         この曲で「ミュージックステーション」に初出演した。
 4.  **水色の水**（6:40）
       -

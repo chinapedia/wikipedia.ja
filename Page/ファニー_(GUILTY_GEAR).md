@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - かつて発狂する前の名医であった[Dr.ボルドヘッド](../Page/Dr.ボルドヘッド.md "wikilink")の治療を受け、その恩に報いる為に[看護婦になった少女](https://ja.wikipedia.org/wiki/看護師 "wikilink")。母親も看護婦だったのか、形見の巨大な[注射器](https://ja.wikipedia.org/wiki/注射器 "wikilink")を武器にしている。行方不明のボルドヘッドを探しているが、殺人鬼としての彼の事を知っているかどうかは不明。「プチ2」で[ファウストと出会うが](../Page/ファウスト_\(GUILTY_GEAR\).md "wikilink")、何故か余り反応は無かった。
+  - かつて発狂する前の名医であった[Dr.ボルドヘッド](../Page/Dr.ボルドヘッド.md "wikilink")の治療を受け、その恩に報いる為に[看護婦になった少女](https://ja.wikipedia.org/wiki/看護師 "wikilink")。母親も看護婦だったのか、形見の巨大な[注射器](../Page/注射器.md "wikilink")を武器にしている。行方不明のボルドヘッドを探しているが、殺人鬼としての彼の事を知っているかどうかは不明。「プチ2」で[ファウストと出会うが](../Page/ファウスト_\(GUILTY_GEAR\).md "wikilink")、何故か余り反応は無かった。
   - 可愛らしい容姿をした女の子だが、ゲーム中では首が伸びたり巨大な注射器で攻撃するなど、ファウストのような奇抜な技を使う。
-  - 初期設定は「[カイの追っかけ](https://ja.wikipedia.org/wiki/カイ・キスク "wikilink")」である。
+  - 初期設定は「[カイの追っかけ](../Page/カイ・キスク.md "wikilink")」である。
 
 ## ストーリー
 
@@ -60,7 +60,7 @@
 ## 関連項目
 
   - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 [en:List of Guilty Gear characters\#Fanny](https://ja.wikipedia.org/wiki/en:List_of_Guilty_Gear_characters#Fanny "wikilink")
 

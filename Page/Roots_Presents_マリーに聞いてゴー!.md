@@ -1,18 +1,18 @@
 > この記事は[Roots Presents !](https://ja.wikipedia.org/wiki/Roots_Presents_!)から翻訳されています。
 
 
-**Roots Presents マリーに聞いてゴー\!**（ルーツ・プレセンツ・マリーにきいてゴー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに全国](https://ja.wikipedia.org/wiki/キー局 "wikilink")35局ネットで放送されていたラジオ番組。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた。前番組の『[Roots TODAY'S INSPIRATION](https://ja.wikipedia.org/wiki/Roots_TODAY'S_INSPIRATION "wikilink")』に続き、缶コーヒー「[Roots](https://ja.wikipedia.org/wiki/Roots "wikilink")」の[JT一社提供](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")。
+**Roots Presents マリーに聞いてゴー\!**（ルーツ・プレセンツ・マリーにきいてゴー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに全国](https://ja.wikipedia.org/wiki/キー局 "wikilink")35局ネットで放送されていたラジオ番組。[2007年](../Page/2007年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた。前番組の『[Roots TODAY'S INSPIRATION](../Page/Roots_TODAY'S_INSPIRATION.md "wikilink")』に続き、缶コーヒー「[Roots](https://ja.wikipedia.org/wiki/Roots "wikilink")」の[JT一社提供](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")。
 
 ## 放送時間
 
-  - 月曜日－金曜日 8:09 - 8:10 （『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』〈かつては『[SKY](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\) "wikilink")』〉の1コーナーとして放送）
+  - 月曜日－金曜日 8:09 - 8:10 （『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』〈かつては『[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")』〉の1コーナーとして放送）
       - JFN系35局で放送。[FMぐんま](../Page/エフエム群馬.md "wikilink")、[RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")、[レディオキューブ FM三重では放送されていない](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")。
 
 ## 放送内容
 
-毎日[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から寄せられた「お悩み」に、パーソナリティのマリーが簡単に答えるという内容。相談に答えた後には必ず「どう、マリーお役に立てたかしら?ダメ?」という台詞で締める。その答えは大体役に立たないものになっているせいか、その後のCM部分では「すっきりしない朝は〜（以下Rootsの宣伝部分）」というつかみから入る。相談者の中から毎月10名に缶コーヒー「Roots」がプレゼントされる。
+毎日[リスナー](../Page/リスナー.md "wikilink")から寄せられた「お悩み」に、パーソナリティのマリーが簡単に答えるという内容。相談に答えた後には必ず「どう、マリーお役に立てたかしら?ダメ?」という台詞で締める。その答えは大体役に立たないものになっているせいか、その後のCM部分では「すっきりしない朝は〜（以下Rootsの宣伝部分）」というつかみから入る。相談者の中から毎月10名に缶コーヒー「Roots」がプレゼントされる。
 
-2008年2月11日からは[JTの関連企業である](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")[ジェイティフーズ](https://ja.wikipedia.org/wiki/ジェイティフーズ "wikilink")の輸入した中国産冷凍餃子問題によるCM自粛により『マリーに聞いてゴー\!』として放送し、Rootsの宣伝部分が放送されない状態が続いていたが、4月1日より再開した。
+2008年2月11日からは[JTの関連企業である](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")[ジェイティフーズ](../Page/ジェイティフーズ.md "wikilink")の輸入した中国産冷凍餃子問題によるCM自粛により『マリーに聞いてゴー\!』として放送し、Rootsの宣伝部分が放送されない状態が続いていたが、4月1日より再開した。
 
 ## 歴代マリー
 
@@ -59,8 +59,8 @@
 ## 関連項目
 
   - [SUZUKI Future Navi](https://ja.wikipedia.org/wiki/SUZUKI_Future_Navi "wikilink")
-  - [Roots TODAY'S INSPIRATION](https://ja.wikipedia.org/wiki/Roots_TODAY'S_INSPIRATION "wikilink")
-  - [Honda SWEET MISSION](https://ja.wikipedia.org/wiki/Honda_SWEET_MISSION "wikilink")
+  - [Roots TODAY'S INSPIRATION](../Page/Roots_TODAY'S_INSPIRATION.md "wikilink")
+  - [Honda SWEET MISSION](../Page/Honda_SWEET_MISSION.md "wikilink")
 
 ## 外部リンク
 

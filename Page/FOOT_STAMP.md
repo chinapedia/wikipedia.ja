@@ -3,7 +3,7 @@
 
 **FOOT STAMP**（フット・スタンプ）は[新潟県](../Page/新潟県.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
-1997年結成。2003年[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")よりメジャーデビュー。
+1997年結成。2003年[バップ](../Page/バップ.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
@@ -215,7 +215,7 @@ VPCC-81535:通常盤</p></td>
 <li>流星</li>
 <li>26歳</li>
 <li>未来都市</li>
-<li>戦う風 (日本テレビ系「<a href="https://ja.wikipedia.org/wiki/アンテナ22" title="wikilink">アンテナ22</a>」エンディングテーマ)</li>
+<li>戦う風 (日本テレビ系「<a href="../Page/アンテナ22.md" title="wikilink">アンテナ22</a>」エンディングテーマ)</li>
 <li>宴の夜</li>
 </ol></td>
 <td></td>
@@ -266,36 +266,36 @@ VPCC-81535:通常盤</p></td>
 <td><p>STREET ROCK FILE THE BEST</p></td>
 <td><p>MUCD-1081-82</p></td>
 <td><ol>
-<li>東京少年 / <a href="https://ja.wikipedia.org/wiki/GOING_STEADY" title="wikilink">GOING STEADY</a></li>
-<li>Puberty / <a href="https://ja.wikipedia.org/wiki/SKA_SKA_CLUB" title="wikilink">SKA SKA CLUB</a></li>
+<li>東京少年 / <a href="../Page/GOING_STEADY.md" title="wikilink">GOING STEADY</a></li>
+<li>Puberty / <a href="../Page/SKA_SKA_CLUB.md" title="wikilink">SKA SKA CLUB</a></li>
 <li>ALL YEAR ROUND / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
-<li>愛の花 / <a href="https://ja.wikipedia.org/wiki/LINK_(バンド)" title="wikilink">LINK</a></li>
+<li>愛の花 / <a href="../Page/LINK_(バンド).md" title="wikilink">LINK</a></li>
 <li>SAKURA / <a href="../Page/175R.md" title="wikilink">175R</a></li>
-<li>はんぶんこ / <a href="https://ja.wikipedia.org/wiki/Bivattchee" title="wikilink">Bivattchee</a></li>
+<li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li><strong>がんばって / FOOT STAMP</strong></li>
 <li>All Time / <a href="https://ja.wikipedia.org/wiki/3.6_MILK" title="wikilink">3.6 MILK</a></li>
-<li>EVERY / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
-<li>泥だらけの道 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
-<li>愛するPOW / <a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a></li>
-<li>レコード / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
-<li>手紙 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>EVERY / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li>泥だらけの道 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
+<li>愛するPOW / <a href="../Page/B-DASH.md" title="wikilink">B-DASH</a></li>
+<li>レコード / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
+<li>手紙 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>F.A.T / <a href="https://ja.wikipedia.org/wiki/bus_tribute" title="wikilink">bus tribute</a></li>
-<li>青空へ / <a href="https://ja.wikipedia.org/wiki/SABOTEN" title="wikilink">SABOTEN</a></li>
-<li>FREAK ME OUT / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
-<li>発揚の人 / <a href="https://ja.wikipedia.org/wiki/BAZRA" title="wikilink">BAZRA</a></li>
-<li>贈り物 / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
+<li>青空へ / <a href="../Page/SABOTEN.md" title="wikilink">SABOTEN</a></li>
+<li>FREAK ME OUT / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
+<li>発揚の人 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
+<li>贈り物 / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
 <li>青春の日々 / <a href="https://ja.wikipedia.org/wiki/THE_PAN" title="wikilink">THE PAN</a></li>
-<li>EVERLASTING SUMMER PLACE / <a href="https://ja.wikipedia.org/wiki/LONG_SHOT_PARTY" title="wikilink">LONG SHOT PARTY</a></li>
-<li>head-scissirs(single version) / <a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
+<li>EVERLASTING SUMMER PLACE / <a href="../Page/LONG_SHOT_PARTY.md" title="wikilink">LONG SHOT PARTY</a></li>
+<li>head-scissirs(single version) / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li>STRAIN / <a href="https://ja.wikipedia.org/wiki/CHANGE_UP" title="wikilink">CHANGE UP</a></li>
 <li>握れっっ！！ / <a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモン</a></li>
 <li>SUPER DRUNKEN CHRISTMAS / <a href="https://ja.wikipedia.org/wiki/ROCKET_K" title="wikilink">ROCKET K</a></li>
-<li>ドーテー島 / <a href="https://ja.wikipedia.org/wiki/オナニーマシーン" title="wikilink">オナニーマシーン</a></li>
-<li>セミのぬけがら / <a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></li>
-<li>UNDER THE BLUE SKY / <a href="https://ja.wikipedia.org/wiki/POTSHOT" title="wikilink">POTSHOT</a></li>
+<li>ドーテー島 / <a href="../Page/オナニーマシーン.md" title="wikilink">オナニーマシーン</a></li>
+<li>セミのぬけがら / <a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></li>
+<li>UNDER THE BLUE SKY / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li>O.I.DE.YA.SU～ポイ to TRY / <a href="../Page/鴨川_(バンド).md" title="wikilink">鴨川</a></li>
-<li>片隅の唄 / <a href="https://ja.wikipedia.org/wiki/THE_BOOGIE_JACK" title="wikilink">THE BOOGIE JACK</a></li>
-<li>LET'S DRIVING THE SIDE / <a href="https://ja.wikipedia.org/wiki/GOOD4NOTHING" title="wikilink">GOOD4NOTHING</a></li>
+<li>片隅の唄 / <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></li>
+<li>LET'S DRIVING THE SIDE / <a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a></li>
 </ol></td>
 </tr>
 <tr class="odd">
@@ -314,10 +314,10 @@ VPCC-81535:通常盤</p></td>
 <li>OUR SONG（原田 真二） / 将番頭</li>
 <li>春夏秋冬（泉谷 しげる） / Parking Out</li>
 <li>落陽（吉田 拓郎） / ニューロティカ</li>
-<li>なごり雪（イルカ） / <a href="https://ja.wikipedia.org/wiki/JINDOU" title="wikilink">JINDOU</a></li>
+<li>なごり雪（イルカ） / <a href="../Page/JINDOU.md" title="wikilink">JINDOU</a></li>
 <li>昴（谷村 新司） / ナナマーラ</li>
 <li>川の流れのように（美空 ひばり） / 30% LESS FAT</li>
-<li>少年時代（井上 陽水） / <a href="https://ja.wikipedia.org/wiki/PAN_(バンド)" title="wikilink">PAN</a></li>
+<li>少年時代（井上 陽水） / <a href="../Page/PAN_(バンド).md" title="wikilink">PAN</a></li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -325,17 +325,17 @@ VPCC-81535:通常盤</p></td>
 <td><p>パンクロック･バトルロイヤル</p></td>
 <td><p>WPCL-10009</p></td>
 <td><ol>
-<li>ENJOY PUNK ROCK（ヘッドロックのテーマ） / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>ENJOY PUNK ROCK（ヘッドロックのテーマ） / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>P.M.A（Positive Mental Attitude） / <a href="https://ja.wikipedia.org/wiki/KEMURI" title="wikilink">KEMURI</a></li>
-<li>レコード（HEADROCK version） / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
-<li>最果ソング / <a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></li>
+<li>レコード（HEADROCK version） / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
+<li>最果ソング / <a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></li>
 <li>花～すべての人の心に花を～ / SUGAR LUNCH</li>
 <li>ぼくの青春と呼ぼう / EAST WOMAN</li>
 <li>アスファルト（RYU-ZABU version） / THE PAN</li>
 <li>Starting with ZERO / FULL MONTY</li>
 <li>You'll be the Sunshine / BEE'S KNEES</li>
 <li>嘘になっちまうぜ / ニューロティカ</li>
-<li>僕らは・・・ / <a href="https://ja.wikipedia.org/wiki/太陽族_(バンド)" title="wikilink">太陽族</a></li>
+<li>僕らは・・・ / <a href="../Page/太陽族_(バンド).md" title="wikilink">太陽族</a></li>
 <li>GANGSTERVILLE / THE SECT</li>
 <li>スラッピング デッドポイント / <a href="../Page/小島_(バンド).md" title="wikilink">小島</a></li>
 <li>俺たちの未来は明るいぜ！！ / <a href="https://ja.wikipedia.org/wiki/THEイナズマ戦隊" title="wikilink">THEイナズマ戦隊</a></li>
@@ -373,9 +373,9 @@ VPCC-81535:通常盤</p></td>
 ## 関連項目
 
   - [新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")
-  - [T-FINE\!](https://ja.wikipedia.org/wiki/T-FINE! "wikilink")
+  - [T-FINE\!](../Page/T-FINE!.md "wikilink")
   - [長渕剛](../Page/長渕剛.md "wikilink")
-  - [中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink") - 「立ち上がれ」をカバー（主演のドラマ、『[新・夜逃げ屋本舗](https://ja.wikipedia.org/wiki/夜逃げ屋本舗 "wikilink")』の主題歌）。本家よりも先にシングルをリリースしている
-  - [西村麻聡](https://ja.wikipedia.org/wiki/西村麻聡 "wikilink")（[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")） - 「真昼の月」「裸になって」「流星」プロデュース
+  - [中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink") - 「立ち上がれ」をカバー（主演のドラマ、『[新・夜逃げ屋本舗](../Page/夜逃げ屋本舗.md "wikilink")』の主題歌）。本家よりも先にシングルをリリースしている
+  - [西村麻聡](../Page/西村麻聡.md "wikilink")（[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")） - 「真昼の月」「裸になって」「流星」プロデュース
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:新潟県出身の人物](https://ja.wikipedia.org/wiki/Category:新潟県出身の人物 "wikilink")

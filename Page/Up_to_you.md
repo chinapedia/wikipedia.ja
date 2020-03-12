@@ -1,7 +1,7 @@
 > この記事は[Up to you](https://ja.wikipedia.org/wiki/Up_to_you)から翻訳されています。
 
 
-『**up to you**』（アップ・トゥー・ユー）は、[19の](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")3枚目のアルバム。
+『**up to you**』（アップ・トゥー・ユー）は、[19の](../Page/19_\(音楽グループ\).md "wikilink")3枚目のアルバム。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ※は初回盤のみの収録
 
-1.  **[たいせつなひと](https://ja.wikipedia.org/wiki/たいせつなひと "wikilink")(album ver.)**
+1.  **[たいせつなひと](../Page/たいせつなひと.md "wikilink")(album ver.)**
       -
         シングルではロック調であったが、こちらは曲の前半がピアノを交えたバラードとなっている。後に「[19 〜すべての人へ](https://ja.wikipedia.org/wiki/19_〜すべての人へ "wikilink")」に収録された。
 2.  **[足跡](https://ja.wikipedia.org/wiki/足跡_\(19の曲\) "wikilink")**
@@ -27,19 +27,19 @@
         ブルボンチョトスCMソング。
 5.  **太陽は僕らを照らしてた**
       -
-        [はしもとみゆき](https://ja.wikipedia.org/wiki/はしもとみゆき "wikilink")が作詞。[岡平健治](https://ja.wikipedia.org/wiki/岡平健治 "wikilink")のバイクの曲。元々は[POP JAMで即興披露された](https://ja.wikipedia.org/wiki/POP_JAM "wikilink")「悲しみのモンゴリアンチョップ」というウインターソングであったが、大幅に歌詞を変更している。
+        [はしもとみゆき](https://ja.wikipedia.org/wiki/はしもとみゆき "wikilink")が作詞。[岡平健治](../Page/岡平健治.md "wikilink")のバイクの曲。元々は[POP JAMで即興披露された](https://ja.wikipedia.org/wiki/POP_JAM "wikilink")「悲しみのモンゴリアンチョップ」というウインターソングであったが、大幅に歌詞を変更している。
 6.  **雲レ日**
       -
         間違えられやすいが、「曇レ日」ではない。
 7.  **無意識とは**
       -
-        [岩瀬敬吾](https://ja.wikipedia.org/wiki/岩瀬敬吾 "wikilink")が19の解散について書いた詞と言われているが不明。
+        [岩瀬敬吾](../Page/岩瀬敬吾.md "wikilink")が19の解散について書いた詞と言われているが不明。
 8.  **[水・陸・そら、無限大](../Page/水・陸・そら、無限大.md "wikilink")**
       -
         シドニーオリンピックにも使われた、5thシングル。
 9.  **ショベルヘッド'79**
       -
-        ショベルヘッドとは、[ハーレーダビッドソン](https://ja.wikipedia.org/wiki/ハーレーダビッドソン "wikilink")のエンジンの一つ。「1979年製の[バイク](../Page/オートバイ.md "wikilink")」の意。
+        ショベルヘッドとは、[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")のエンジンの一つ。「1979年製の[バイク](../Page/オートバイ.md "wikilink")」の意。
 10. **落書**
       -
         岡平健治の彼女に対する歌。

@@ -1,13 +1,13 @@
 > この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
 
 
-**おこしやす京都AC**（おこしやす きょうとエーシー、, \[1\]）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")に本拠地を置く社会人サッカークラブ。旧クラブ名称は**アミティエSC京都**。[Jリーグ加盟を目指すクラブ](https://ja.wikipedia.org/wiki/Jリーグ加盟を目指すクラブ "wikilink")の1つである。クラブの運営会社である「おこしやす京都AC株式会社」は、[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")の創設に携わった小山淳がオーナーを務める「スポーツX株式会社」の子会社である。
+**おこしやす京都AC**（おこしやす きょうとエーシー、, \[1\]）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")に本拠地を置く社会人サッカークラブ。旧クラブ名称は**アミティエSC京都**。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。クラブの運営会社である「おこしやす京都AC株式会社」は、[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")の創設に携わった小山淳がオーナーを務める「スポーツX株式会社」の子会社である。
 
 ## 概要
 
-2002年に[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")で幼稚園児・小学生向けのサッカースクールとして創設\[2\]。2005年にトップチームを立ち上げて[京都フットボールリーグ](https://ja.wikipedia.org/wiki/京都フットボールリーグ "wikilink")に参加\[3\]。2003年7月に[特定非営利活動法人](https://ja.wikipedia.org/wiki/特定非営利活動法人 "wikilink")（NPO法人）として設立認証された（特定非営利活動法人アミティエ・スポーツクラブ）\[4\]。
+2002年に[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")で幼稚園児・小学生向けのサッカースクールとして創設\[2\]。2005年にトップチームを立ち上げて[京都フットボールリーグ](https://ja.wikipedia.org/wiki/京都フットボールリーグ "wikilink")に参加\[3\]。2003年7月に[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")（NPO法人）として設立認証された（特定非営利活動法人アミティエ・スポーツクラブ）\[4\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からFC京都BAMB1993と統合して[関西サッカーリーグ](https://ja.wikipedia.org/wiki/関西サッカーリーグ "wikilink")に参加\[5\]。チーム名称は**アミティエSC京都**。[2011年](../Page/2011年.md "wikilink")にチーム名を**アミティエSC**に改称。[2012年](../Page/2012年.md "wikilink")に関西リーグで初優勝。[京都FAカップ京都サッカー選手権大会](https://ja.wikipedia.org/wiki/京都FAカップ京都サッカー選手権大会 "wikilink")で優勝して[天皇杯に初出場した](https://ja.wikipedia.org/wiki/第92回天皇杯全日本サッカー選手権大会 "wikilink")（1回戦敗退）。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からFC京都BAMB1993と統合して[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")に参加\[5\]。チーム名称は**アミティエSC京都**。[2011年](../Page/2011年.md "wikilink")にチーム名を**アミティエSC**に改称。[2012年](../Page/2012年.md "wikilink")に関西リーグで初優勝。[京都FAカップ京都サッカー選手権大会](https://ja.wikipedia.org/wiki/京都FAカップ京都サッカー選手権大会 "wikilink")で優勝して[天皇杯に初出場した](https://ja.wikipedia.org/wiki/第92回天皇杯全日本サッカー選手権大会 "wikilink")（1回戦敗退）。
 
 [2015年](../Page/2015年.md "wikilink")4月28日、チームの運営会社として株式会社アミティエ・スポーツクラブ京都を設立。また、チーム名を**アミティエSC京都**に改称。
 
@@ -138,7 +138,7 @@
 <td><p>36</p></td>
 <td><p>12</p></td>
 <td><p>24</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/草木克洋" title="wikilink">草木克洋</a></p></td>
+<td><p><a href="../Page/草木克洋.md" title="wikilink">草木克洋</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -155,7 +155,7 @@
 <td><p>34</p></td>
 <td><p>1回戦敗退</p></td>
 <td><p>草木克洋(-9月)<br />
-<a href="https://ja.wikipedia.org/wiki/石田祐樹" title="wikilink">石田祐樹</a>(9月-)</p></td>
+<a href="../Page/石田祐樹.md" title="wikilink">石田祐樹</a>(9月-)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -210,15 +210,15 @@
 
 ### リーグ戦
 
-  - **[関西サッカーリーグ](https://ja.wikipedia.org/wiki/関西サッカーリーグ "wikilink")1部：3回**
+  - **[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")1部：3回**
       - 2012年、2017年、2019年
 
 ## 下部組織
 
-関連法人として[特定非営利活動法人](https://ja.wikipedia.org/wiki/特定非営利活動法人 "wikilink")アミティエスポーツクラブがあり、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")以外に[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")・[野球](../Page/野球.md "wikilink")・[卓球](../Page/卓球.md "wikilink")のクラブを兵庫県、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")で運営している。
+関連法人として[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")アミティエスポーツクラブがあり、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")以外に[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")・[野球](../Page/野球.md "wikilink")・[卓球](../Page/卓球.md "wikilink")のクラブを兵庫県、[大阪府](../Page/大阪府.md "wikilink")、[京都府](../Page/京都府.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")で運営している。
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")、トップチームを創設、神戸市社会人サッカーリーグ\[8\]に参加。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[京都府リーグに参加するトップチームを創設](https://ja.wikipedia.org/wiki/京都フットボールリーグ "wikilink")。以降4年間、京都府リーグのチームをトップチーム、神戸市リーグのチームをセカンドチームとする。
+  - [2004年](../Page/2004年.md "wikilink")、トップチームを創設、神戸市社会人サッカーリーグ\[8\]に参加。
+  - [2005年](../Page/2005年.md "wikilink")、[京都府リーグに参加するトップチームを創設](https://ja.wikipedia.org/wiki/京都フットボールリーグ "wikilink")。以降4年間、京都府リーグのチームをトップチーム、神戸市リーグのチームをセカンドチームとする。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[FC京都BAMB1993](https://ja.wikipedia.org/wiki/FC京都BAMB1993 "wikilink")と統合（事実上の吸収）。
   - [2011年](../Page/2011年.md "wikilink")、旧FC京都BAMB1993が保有していた関西サッカーリーグへの在籍資格を継承し、チーム名を「アミティエSC」に改称する形で同リーグに参入、トップチームに位置づける。京都府リーグのチームは「アミティエSC京都」と改称し、セカンドチームとなる。神戸市リーグのチーム名称も「アミティエSC兵庫」と改称。
   - [2015年](../Page/2015年.md "wikilink")、トップチーム名の「アミティエSC京都」への改称に伴い、セカンドチーム「アミティエSC京都」の名称を「アミティエSC京都セカンド」に改称。
@@ -240,7 +240,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石田祐樹" title="wikilink">石田祐樹</a></p></td>
+<td><p><a href="../Page/石田祐樹.md" title="wikilink">石田祐樹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤枝MYFC" title="wikilink">藤枝MYFC</a> 広報部長</p></td>
 <td></td>
 </tr>
@@ -259,7 +259,7 @@
 <tr class="odd">
 <td><p><strong>コーチ</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/清水良平" title="wikilink">清水良平</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪産業大学" title="wikilink">大阪産業大学</a></p></td>
+<td><p><a href="../Page/大阪産業大学.md" title="wikilink">大阪産業大学</a></p></td>
 <td><p>選手兼任</p></td>
 </tr>
 <tr class="even">
@@ -298,7 +298,7 @@
 <tr class="odd">
 <td><p><strong>21</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/本吉勇貴" title="wikilink">本吉勇貴</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MIOびわこ滋賀" title="wikilink">MIOびわこ滋賀</a></p></td>
+<td><p><a href="../Page/MIOびわこ滋賀.md" title="wikilink">MIOびわこ滋賀</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -327,7 +327,7 @@
 <td><p><strong>DF</strong></p></td>
 <td><p><strong>2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/澤口雅彦" title="wikilink">澤口雅彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山FC" title="wikilink">ファジアーノ岡山FC</a></p></td>
+<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山FC</a></p></td>
 <td><p>新加入</p></td>
 </tr>
 <tr class="even">
@@ -348,7 +348,7 @@
 <tr class="even">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森崎広樹" title="wikilink">森崎広樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルテリーヴォ和歌山" title="wikilink">アルテリーヴォ和歌山</a></p></td>
+<td><p><a href="../Page/アルテリーヴォ和歌山.md" title="wikilink">アルテリーヴォ和歌山</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -362,7 +362,7 @@
 <tr class="even">
 <td><p><strong>26</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中憧" title="wikilink">田中憧</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわてグルージャ盛岡" title="wikilink">グルージャ盛岡</a></p></td>
+<td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">グルージャ盛岡</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -379,13 +379,13 @@
 <td><p></p></td>
 <td><p></p></td>
 <td><p>新加入<br />
-元<a href="https://ja.wikipedia.org/wiki/サッカーガーナ代表" title="wikilink">ガーナ代表</a></p></td>
+元<a href="../Page/サッカーガーナ代表.md" title="wikilink">ガーナ代表</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青木捷" title="wikilink">青木捷</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤枝MYFC" title="wikilink">藤枝MYFC</a></p></td>
-<td><p>2017年は<a href="https://ja.wikipedia.org/wiki/期限付き移籍" title="wikilink">期限付き移籍</a></p></td>
+<td><p>2017年は<a href="../Page/期限付き移籍.md" title="wikilink">期限付き移籍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -398,7 +398,7 @@
 <tr class="odd">
 <td><p><strong>14</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/守屋鷹人" title="wikilink">守屋鷹人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SP京都FC" title="wikilink">佐川印刷京都SC</a></p></td>
+<td><p><a href="../Page/SP京都FC.md" title="wikilink">佐川印刷京都SC</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -427,14 +427,14 @@
 <tr class="odd">
 <td><p><strong>27</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋俊樹" title="wikilink">高橋俊樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪産業大学" title="wikilink">大阪産業大学</a></p></td>
+<td><p><a href="../Page/大阪産業大学.md" title="wikilink">大阪産業大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>29</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/杉山ビラル正将" title="wikilink">杉山ビラル正将</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静岡産業大学サッカー部" title="wikilink">静岡産業大学</a></p></td>
+<td><p><a href="../Page/静岡産業大学サッカー部.md" title="wikilink">静岡産業大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -470,7 +470,7 @@
 <tr class="odd">
 <td><p><strong>13</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/勝又慶典" title="wikilink">勝又慶典</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AC長野パルセイロ" title="wikilink">AC長野パルセイロ</a></p></td>
+<td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -689,7 +689,7 @@ Trust</p></td>
 
 ### ユニフォームサプライヤー
 
-  - \- 2016年 [ATHLETA](https://ja.wikipedia.org/wiki/アスレタ "wikilink")
+  - \- 2016年 [ATHLETA](../Page/アスレタ.md "wikilink")
   - 2017年 - [gol.](https://gol-deportes.com/)
 
 ### 歴代ユニフォームスポンサー年表
@@ -714,7 +714,7 @@ Trust</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレタ" title="wikilink">ATHLETA</a></p></td>
+<td><p><a href="../Page/アスレタ.md" title="wikilink">ATHLETA</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
@@ -770,7 +770,7 @@ Trust</a></p></td>
 
 ## 関連項目
 
-  - [柱谷幸一](https://ja.wikipedia.org/wiki/柱谷幸一 "wikilink") - テクニカルアドバイザー
+  - [柱谷幸一](../Page/柱谷幸一.md "wikilink") - テクニカルアドバイザー
 
 ## 外部リンク
 

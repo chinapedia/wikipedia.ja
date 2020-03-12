@@ -47,7 +47,7 @@
 
 再発売は3回行われている
 
-  - [1989年](../Page/1989年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")
+  - [1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")
   - [2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")
       - デビュー35周年に伴うもの
@@ -59,14 +59,14 @@
   - 高見沢俊彦：Electric Guitar
   - 坂崎幸之助：Acoustic Guitar（\#1,2,4,5,6,7,8,9,10）、Mandolin（\#2）、Harmonica（\#2）
   - 桜井賢：Electric Bass（\#1,2,4,5,6,7,8,9,10）、Bass（\#3）
-  - [菊地圭介](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink")：Keyboards（\#1）
+  - [菊地圭介](../Page/菊地圭介.md "wikilink")：Keyboards（\#1）
   - [山石敬之](https://ja.wikipedia.org/wiki/山石敬之 "wikilink")：A.pf（\#1）、Keyboards（\#2,3,4,5,6,8,9,10）
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")：Drums（\#1,2,4,5）
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")：Drums（\#1,2,4,5）
   - [そうる透](../Page/そうる透.md "wikilink")：Drums（\#3,6,9,10）
-  - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")：Drums（\#7,8）、Percussion（\#7）
+  - [山木秀夫](../Page/山木秀夫.md "wikilink")：Drums（\#7,8）、Percussion（\#7）
   - [浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")：Synth Programmer（\#2,3,4,5,6,8,9,10）
   - 井上鑑：Synth Solo（\#3）、Keyboards（\#7）
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")：Sound Adviser（\#5）
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")：Sound Adviser（\#5）
   - LINDA HENNRICK：Chorus（\#10）
 
 <!-- end list -->

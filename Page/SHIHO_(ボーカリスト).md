@@ -1,11 +1,11 @@
 > この記事は[SHIHO \(\)](https://ja.wikipedia.org/wiki/SHIHO_\(\))から翻訳されています。
 
 
-**SHIHO**（しほ、[12月16日](../Page/12月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")161[cm](../Page/センチメートル.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**SHIHO**（しほ、[12月16日](../Page/12月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[身長](../Page/身長.md "wikilink")161[cm](../Page/センチメートル.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 来歴
 
-カラオケボックスに貼られていた[I've](../Page/I've.md "wikilink")のボーカリスト募集のチラシをSHIHOの弟が発見したことがきっかけで、[2000年](../Page/2000年.md "wikilink")発表の楽曲『Days of promise』よりI'veに参加。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月より、自身の音楽活動に力を入れる為にI'veを卒業。現在は弟である￥utakaが設立したインディーズレーベル「STARAVID」で[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")とボーカルを担当している。また、コンピレーションアルバムへの参加や、他のアーティストへの歌詞提供など、STARAVID以外の音楽活動も精力的に行っている。
+カラオケボックスに貼られていた[I've](../Page/I've.md "wikilink")のボーカリスト募集のチラシをSHIHOの弟が発見したことがきっかけで、[2000年](../Page/2000年.md "wikilink")発表の楽曲『Days of promise』よりI'veに参加。[2006年](../Page/2006年.md "wikilink")3月より、自身の音楽活動に力を入れる為にI'veを卒業。現在は弟である￥utakaが設立したインディーズレーベル「STARAVID」で[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")とボーカルを担当している。また、コンピレーションアルバムへの参加や、他のアーティストへの歌詞提供など、STARAVID以外の音楽活動も精力的に行っている。
 
 ## ディスコグラフィー
 
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    Days of promise（作詞：[SAYUMI](https://ja.wikipedia.org/wiki/木田亜由美 "wikilink")／作曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")／編曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")）
+    Days of promise（作詞：[SAYUMI](https://ja.wikipedia.org/wiki/木田亜由美 "wikilink")／作曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")／編曲：[中沢伴行](../Page/中沢伴行.md "wikilink")）
 
 <!-- end list -->
 
@@ -28,11 +28,11 @@
 
   -
     Belvedia（作詞：SAYUMI／作曲・編曲：高瀬一矢）
-    birthday eve（作詞：[元長柾木](https://ja.wikipedia.org/wiki/元長柾木 "wikilink")／作曲・編曲：高瀬一矢）
+    birthday eve（作詞：[元長柾木](../Page/元長柾木.md "wikilink")／作曲・編曲：高瀬一矢）
 
 <!-- end list -->
 
-  - **I've Girls Compilation 4「[LAMENT](https://ja.wikipedia.org/wiki/LAMENT "wikilink")」**（[2003年](../Page/2003年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")発売）
+  - **I've Girls Compilation 4「[LAMENT](../Page/LAMENT.md "wikilink")」**（[2003年](../Page/2003年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")発売）
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - **I've Girls Compilation 5「[OUT FLOW](https://ja.wikipedia.org/wiki/OUT_FLOW "wikilink")」**（[2003年](../Page/2003年.md "wikilink")9月5日発売）
+  - **I've Girls Compilation 5「[OUT FLOW](../Page/OUT_FLOW.md "wikilink")」**（[2003年](../Page/2003年.md "wikilink")9月5日発売）
 
 <!-- end list -->
 
@@ -50,21 +50,21 @@
 
 <!-- end list -->
 
-  - **I've Girls Compilation 6「[COLLECTIVE](https://ja.wikipedia.org/wiki/COLLECTIVE "wikilink")」**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")発売）
+  - **I've Girls Compilation 6「[COLLECTIVE](../Page/COLLECTIVE.md "wikilink")」**（[2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")発売）
 
 <!-- end list -->
 
   -
-    Kiss the Future（作詞：元長柾木 / 作曲:[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink") / 編曲:[C.G mix](../Page/C.G_mix.md "wikilink")）
+    Kiss the Future（作詞：元長柾木 / 作曲:[高瀬一矢](../Page/高瀬一矢.md "wikilink") / 編曲:[C.G mix](../Page/C.G_mix.md "wikilink")）
 
 <!-- end list -->
 
-  - **C-LICK**（[2001年](../Page/2001年.md "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")発売）
+  - **C-LICK**（[2001年](../Page/2001年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")発売）
 
 <!-- end list -->
 
   -
-    FUCK ME -Radio Activity Mix-（作詞・作曲:[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink") / 編曲：[中坪淳彦](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")）
+    FUCK ME -Radio Activity Mix-（作詞・作曲:[高瀬一矢](../Page/高瀬一矢.md "wikilink") / 編曲：[中坪淳彦](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")）
 
 <!-- end list -->
 
@@ -73,11 +73,11 @@
 <!-- end list -->
 
   -
-    Ever stay snow(Mixed up ver.)（作詞・作曲:[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink") / 編曲:[C.G mix](../Page/C.G_mix.md "wikilink")）
+    Ever stay snow(Mixed up ver.)（作詞・作曲:[高瀬一矢](../Page/高瀬一矢.md "wikilink") / 編曲:[C.G mix](../Page/C.G_mix.md "wikilink")）
 
 <!-- end list -->
 
-  - **I've MANIA Tracks Vol.III** ([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")発売)
+  - **I've MANIA Tracks Vol.III** ([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 
 <!-- end list -->
 
-  - **The Time ～12 Colors～** ([2016年](../Page/2016年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")発売)
+  - **The Time ～12 Colors～** ([2016年](../Page/2016年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -97,21 +97,21 @@
 
 I've Special Unit 名義
 
-  - **Fair Heaven**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月30日](../Page/7月30日.md "wikilink")発売※現在廃盤）
+  - **Fair Heaven**（[2005年](../Page/2005年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")発売※現在廃盤）
 
 <!-- end list -->
 
   -
-    Fair Heaven（作詞・作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")）
+    Fair Heaven（作詞・作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")）
 
 <!-- end list -->
 
-  - **I've MANIA Tracks Vol.I**（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")発売※現在廃盤）
+  - **I've MANIA Tracks Vol.I**（[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")発売※現在廃盤）
 
 <!-- end list -->
 
   -
-    See You〜小さな永遠〜 P.V mix（作詞：[都築真紀](https://ja.wikipedia.org/wiki/都築真紀 "wikilink")、高瀬一矢／作曲：高瀬一矢／編曲：高瀬一矢、[中坪淳彦](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")）
+    See You〜小さな永遠〜 P.V mix（作詞：[都築真紀](../Page/都築真紀.md "wikilink")、高瀬一矢／作曲：高瀬一矢／編曲：高瀬一矢、[中坪淳彦](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")）
 
 #### オリジナル曲
 
@@ -128,7 +128,7 @@ I've Special Unit 名義
 <!-- end list -->
 
   - sensitive2001 -Remix-（作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲・編曲：高瀬一矢）
-  - いっしょにね 〜幸せのある場所〜（作詞：KOTOKO／作曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")／編曲：高瀬一矢）
+  - いっしょにね 〜幸せのある場所〜（作詞：KOTOKO／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：高瀬一矢）
   - Fortress -D.F Style-（作詞：KOTOKO／作曲：高瀬一矢／編曲：中沢伴行）
 
 <!-- end list -->
@@ -148,7 +148,7 @@ I've Special Unit 名義
 
 ### STARAVID作品
 
-弟の￥utakaと共に立ち上げたレーベル。I've時代のSHIHOとは異なる印象を受ける楽曲も多く、「Don't cry」や「Piece of our hearts」のように、英語力を活かした全編英語歌詞の楽曲も手掛けている。2011年のアルバム「NEO LIGHT」を最後に新譜の発売はなく、2012年発売のPCゲーム[アステリズム -Astraythem-の主題歌提供以降のSTARAVID名義での活動はなかったが](https://ja.wikipedia.org/wiki/アステリズム_-Astraythem- "wikilink")、[2015年](../Page/2015年.md "wikilink")のコミックマーケット89にて、Visual Art'sから同名義での新アルバム「Resurrection〜朽ち果てるものと生まれ変わるもの〜」が発売された。「Resurrection〜朽ち果てるものと生まれ変わるもの〜」はこれまでの￥utakaによる作曲ではなく、後述のMakouや[新井健史](https://ja.wikipedia.org/wiki/新井健史 "wikilink")、[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")、[横田昭](https://ja.wikipedia.org/wiki/横田昭 "wikilink")などによる楽曲提供によって制作された。 [2017年](../Page/2017年.md "wikilink")には￥utakaが復帰し、STARAVID名義の完全新作「SPEAK about start」が発売された。また、以降の作品はSHIHO自らが作曲した楽曲も収録されるようになった。
+弟の￥utakaと共に立ち上げたレーベル。I've時代のSHIHOとは異なる印象を受ける楽曲も多く、「Don't cry」や「Piece of our hearts」のように、英語力を活かした全編英語歌詞の楽曲も手掛けている。2011年のアルバム「NEO LIGHT」を最後に新譜の発売はなく、2012年発売のPCゲーム[アステリズム -Astraythem-の主題歌提供以降のSTARAVID名義での活動はなかったが](https://ja.wikipedia.org/wiki/アステリズム_-Astraythem- "wikilink")、[2015年](../Page/2015年.md "wikilink")のコミックマーケット89にて、Visual Art'sから同名義での新アルバム「Resurrection〜朽ち果てるものと生まれ変わるもの〜」が発売された。「Resurrection〜朽ち果てるものと生まれ変わるもの〜」はこれまでの￥utakaによる作曲ではなく、後述のMakouや[新井健史](../Page/新井健史.md "wikilink")、[島みやえい子](../Page/島みやえい子.md "wikilink")、[横田昭](https://ja.wikipedia.org/wiki/横田昭 "wikilink")などによる楽曲提供によって制作された。 [2017年](../Page/2017年.md "wikilink")には￥utakaが復帰し、STARAVID名義の完全新作「SPEAK about start」が発売された。また、以降の作品はSHIHO自らが作曲した楽曲も収録されるようになった。
 
 <table>
 <thead>
@@ -273,7 +273,7 @@ I've Special Unit 名義
 
 #### リミックス・アルバム
 
-  - **Divarats Extension/Blasterhead VS quad** (SEMICONDUCTOR RECORDS [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売)
+  - **Divarats Extension/Blasterhead VS quad** (SEMICONDUCTOR RECORDS [2006年](../Page/2006年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -291,7 +291,7 @@ I've Special Unit 名義
 
 ### touchtrax作品
 
-[渡部真也](https://ja.wikipedia.org/wiki/渡部真也 "wikilink")(wata, W)、[大黒淳一](https://ja.wikipedia.org/wiki/大黒淳一 "wikilink")(Grock, O)、山口真(Makou→MUSIKADeLIK, M)の3人による音楽ユニットWOMとSHIHOのコラボレーション作品。
+[渡部真也](../Page/渡部真也.md "wikilink")(wata, W)、[大黒淳一](https://ja.wikipedia.org/wiki/大黒淳一 "wikilink")(Grock, O)、山口真(Makou→MUSIKADeLIK, M)の3人による音楽ユニットWOMとSHIHOのコラボレーション作品。
 2003年から休止となっていたが、2011年にボーカロイドを採用して活動を再開、3rd Singleの0831以降はボーカルと歌詞をSHIHOが担当している。
 また0831、R629ではWOM feat. SHIHOという名義であったが、IK56以降はSHIHO supported by WOMに変更している。
 メンバーの多忙からtouchtrax010 TV10が実質の最後の作品と宣言されており、2017年4月に発売されたベストアルバム「WORKS Remaster + Remix Vol.2」の発売を最後に活動が終了した。
@@ -404,7 +404,7 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
 #### とらのあなコンピレーションアルバム
 
-  - **Summer Mix Vol.1** ([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")発売)
+  - **Summer Mix Vol.1** ([2006年](../Page/2006年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -413,7 +413,7 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
 <!-- end list -->
 
-  - **Winter Mix Vol.4** ([2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")発売)
+  - **Winter Mix Vol.4** ([2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -431,7 +431,7 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
 #### iyunaline (現Solfa)
 
-  - **iyunaline200612** (iyuna [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売)
+  - **iyunaline200612** (iyuna [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売)
 
 <!-- end list -->
 
@@ -467,7 +467,7 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
 #### Electro muster
 
-  - **The Personalizer_\[C81.Limited\]** (GWAVE / Electro muster [2011年](../Page/2011年.md "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")発売)
+  - **The Personalizer_\[C81.Limited\]** (GWAVE / Electro muster [2011年](../Page/2011年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -518,7 +518,7 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
 <!-- end list -->
 
-  - **5TEARS Vol.2** (infinity [2012年](../Page/2012年.md "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")発売)
+  - **5TEARS Vol.2** (infinity [2012年](../Page/2012年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")発売)
 
 <!-- end list -->
 
@@ -542,11 +542,11 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 <!-- end list -->
 
   -
-    青く、果てなく (作詞：門司／作曲・編曲：[渡部真也](https://ja.wikipedia.org/wiki/渡部真也 "wikilink"))
+    青く、果てなく (作詞：門司／作曲・編曲：[渡部真也](../Page/渡部真也.md "wikilink"))
 
 <!-- end list -->
 
-  - **noyau**　(fish tone [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink"))
+  - **noyau**　(fish tone [2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink"))
 
 <!-- end list -->
 

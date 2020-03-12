@@ -6,7 +6,7 @@
 ## メンバー
 
   - **Aaron**（ボーカル・ギター）[ハワイ出身](../Page/ハワイ州.md "wikilink")
-  - **K5**（ギター）[横須賀市](../Page/横須賀市.md "wikilink")出身。　2010年、[難波章浩](https://ja.wikipedia.org/wiki/難波章浩 "wikilink")のソロプロジェクトにギターで参加。2013年3月より[NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink")メンバーとして活動。
+  - **K5**（ギター）[横須賀市](../Page/横須賀市.md "wikilink")出身。　2010年、[難波章浩](../Page/難波章浩.md "wikilink")のソロプロジェクトにギターで参加。2013年3月より[NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink")メンバーとして活動。
   - **Jesse**（ベース・ボーカル）[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")出身。2011年As Cities Shine結成。
   - **Kaz**（ドラム）[湘南](../Page/湘南.md "wikilink")出身
 
@@ -222,7 +222,7 @@
 <li>Change track / <a href="https://ja.wikipedia.org/wiki/GOLDEN_GOOSE" title="wikilink">GOLDEN GOOSE</a></li>
 <li>assert / <a href="https://ja.wikipedia.org/wiki/DISCRUNCH" title="wikilink">DISCRUNCH</a></li>
 <li>my SUMMER / <a href="https://ja.wikipedia.org/wiki/THE_POP69CAFE" title="wikilink">THE POP69CAFE</a></li>
-<li>WALK TOWARD THE BRIGHTEST STAR / <a href="https://ja.wikipedia.org/wiki/GOOD4NOTHING" title="wikilink">GOOD4NOTHING</a></li>
+<li>WALK TOWARD THE BRIGHTEST STAR / <a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a></li>
 <li>コヨーテ / <a href="https://ja.wikipedia.org/wiki/THE-WOW" title="wikilink">THE-WOW</a></li>
 <li>Punk Rock Drive / <a href="https://ja.wikipedia.org/wiki/GUN-FOAD" title="wikilink">GUN-FOAD</a></li>
 <li>Magic shoes / <a href="https://ja.wikipedia.org/wiki/UNi46" title="wikilink">UNi46</a></li>
@@ -239,7 +239,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年10月08日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/POSSIBILITY" title="wikilink">POSSIBILITY</a>『New World』</p></td>
+<td><p><a href="../Page/POSSIBILITY.md" title="wikilink">POSSIBILITY</a>『New World』</p></td>
 <td><p>SRCL-6865<br />
 SRCL-6867</p></td>
 <td><p>14.No music, no more life feat. Aaron(START FROM SCRATCH)</p></td>
@@ -266,9 +266,9 @@ SRCL-6867</p></td>
 
 ## タイアップ
 
-| 曲名               | タイアップ                                                                                   |
-| ---------------- | --------------------------------------------------------------------------------------- |
-| Change the world | 日本テレビ系「[ミラクル☆シェイプ](https://ja.wikipedia.org/wiki/ミラクル☆シェイプ "wikilink")」2007年6月エンディングテーマ |
+| 曲名               | タイアップ                                                                |
+| ---------------- | -------------------------------------------------------------------- |
+| Change the world | 日本テレビ系「[ミラクル☆シェイプ](../Page/ミラクル☆シェイプ.md "wikilink")」2007年6月エンディングテーマ |
 
 ## 主なライブ
 

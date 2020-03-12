@@ -1,15 +1,15 @@
 > この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
 
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| **[騎士ガンダム](https://ja.wikipedia.org/wiki/騎士ガンダム "wikilink")シリーズ** |
-| **通番**                                                            |
-| **第9作**                                                           |
-| **第10作**                                                          |
-| **第11作**                                                          |
+|                                                |
+| ---------------------------------------------- |
+| **[騎士ガンダム](../Page/騎士ガンダム.md "wikilink")シリーズ** |
+| **通番**                                         |
+| **第9作**                                        |
+| **第10作**                                       |
+| **第11作**                                       |
 
-『**SDガンダム英雄伝**』（エスディーガンダムえいゆうでん）は、『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』で連載されていた漫画作品及び[ワンダースワン](../Page/ワンダースワン.md "wikilink")と[PlayStationで発売したゲーム作品](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。プラモデルとの連動企画でもあった。漫画版は[ときた洸一](../Page/ときた洸一.md "wikilink")が担当し[コミックボンボン](../Page/コミックボンボン.md "wikilink")2000年9月号から2002年7月号まで連載された。
+『**SDガンダム英雄伝**』（エスディーガンダムえいゆうでん）は、『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』で連載されていた漫画作品及び[ワンダースワン](../Page/ワンダースワン.md "wikilink")と[PlayStationで発売したゲーム作品](../Page/PlayStation_\(ゲーム機\).md "wikilink")。プラモデルとの連動企画でもあった。漫画版は[ときた洸一](../Page/ときた洸一.md "wikilink")が担当し[コミックボンボン](../Page/コミックボンボン.md "wikilink")2000年9月号から2002年7月号まで連載された。
 
 ## 登場人物
 
@@ -146,7 +146,7 @@
 
 ### ラクロア (登場メカ)
 
-  - 英雄機 騎士ガンダム（[バーサル騎士ガンダム](https://ja.wikipedia.org/wiki/SDガンダム外伝_ジークジオン編 "wikilink")） / 真英雄機 スペリオル騎士ガンダム（[スペリオルドラゴン](https://ja.wikipedia.org/wiki/SDガンダム外伝_ジークジオン編 "wikilink")）
+  - 英雄機 騎士ガンダム（[バーサル騎士ガンダム](../Page/SDガンダム外伝_ジークジオン編.md "wikilink")） / 真英雄機 スペリオル騎士ガンダム（[スペリオルドラゴン](../Page/SDガンダム外伝_ジークジオン編.md "wikilink")）
 
 かつてのオルドーおよびマインが搭乗する伝説の機兵。戦いを重ねていったことでスペリオル騎士ガンダムへ進化する。 最終決戦時にデビルガンダムに挑み、仲間の力を騎士ガンダムに集中させた攻撃によりデビルガンダムを破壊したがその力に耐え切れず機体は大破。 そしてターンエーの力で大破した武者ガンダムと共に復活し最終形態となったデビルガンダムに三機の力を合わせた攻撃「エレメントフラッシュ」によりデビルガンダムを完全に消滅させた。
 
@@ -156,14 +156,14 @@
     フレッドの乗る機兵で当初は頭だけ近くにあった量産機の頭部を流用していたため完全に力を発揮できなかった。が、途中で機体が中破した後フレッドがディスティーナに洗脳された際、正式な頭部に替えられたことで本来の力を発揮できるようになった。なお、最終決戦で合流した際機体色が青から白に変更されている。
   - 灼熱騎士F91（[ガンダムF91](https://ja.wikipedia.org/wiki/フォーミュラ計画#ガンダムF91 "wikilink")）
     フレイの乗る機兵。高い能力を持つがラファエルとの初戦では装備が完全な物でなかった為敗北。しかし後にヴェスバーを装備しリベンジを果たす。
-  - 剛烈騎士シャイニングガンダム（[シャイニングガンダム](https://ja.wikipedia.org/wiki/シャイニングガンダム "wikilink")） / 爆熱騎士ゴッドガンダム（[ゴッドガンダム](../Page/ゴッドガンダム.md "wikilink")）
+  - 剛烈騎士シャイニングガンダム（[シャイニングガンダム](../Page/シャイニングガンダム.md "wikilink")） / 爆熱騎士ゴッドガンダム（[ゴッドガンダム](../Page/ゴッドガンダム.md "wikilink")）
     ランドの乗る機兵。剣よりも打撃戦闘を得意としている。
   - 聖龍騎士ゼータガンダム（[Zガンダム](https://ja.wikipedia.org/wiki/Zガンダム "wikilink")）
     オルドーが搭乗する機兵。ゲーム版では状況次第でフレッドが受け継ぐ。
 
 ### 天宮 (登場メカ)
 
-  - 英雄機 武者ガンダム（武者ガンダム：[ファーストガンダム大将軍](https://ja.wikipedia.org/wiki/ムシャ戦記_光の変幻編 "wikilink")） / 真英雄機 超武者ガンダム
+  - 英雄機 武者ガンダム（武者ガンダム：[ファーストガンダム大将軍](../Page/ムシャ戦記_光の変幻編.md "wikilink")） / 真英雄機 超武者ガンダム
     かつての大善と勇座の乗る機兵で剣戟戦闘を得意としている。
   - 砲神武者サイサリス（[ガンダムGP02](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作2号機（サイサリス） "wikilink")）
     雷破が乗る砲撃戦を得意とした機兵。ザード所属時代は禍々しく改造されていた。
@@ -178,16 +178,16 @@
 
 ### ザード (登場メカ)
 
-  - 光霊機ターンエーガンダム（[∀ガンダム](https://ja.wikipedia.org/wiki/∀ガンダム_\(架空の兵器\) "wikilink")）
+  - 光霊機ターンエーガンダム（[∀ガンダム](../Page/∀ガンダム_\(架空の兵器\).md "wikilink")）
   - 帝機兵ジオング（[ジオング](../Page/ジオング.md "wikilink")）
-  - 究極機兵デビルガンダム（[デビルガンダム](https://ja.wikipedia.org/wiki/デビルガンダム "wikilink")）
+  - 究極機兵デビルガンダム（[デビルガンダム](../Page/デビルガンダム.md "wikilink")）
   - 神風騎士トールギス（[トールギス](../Page/トールギス.md "wikilink")）
   - 轟炎騎士イフリート（[イフリート改](https://ja.wikipedia.org/wiki/イフリート_\(ガンダムシリーズ\)#イフリート改 "wikilink")）
-  - 妖水騎士キュベレイ（[キュベレイ](https://ja.wikipedia.org/wiki/キュベレイ "wikilink")）
-  - 裂地騎士グフ（[グフ](https://ja.wikipedia.org/wiki/グフ "wikilink")）
+  - 妖水騎士キュベレイ（[キュベレイ](../Page/キュベレイ.md "wikilink")）
+  - 裂地騎士グフ（[グフ](../Page/グフ.md "wikilink")）
   - 裂輝武者サザビー（[サザビー](../Page/サザビー_\(ガンダムシリーズ\).md "wikilink")）
   - 水鬼武者ガーベラテトラ（[ガーベラ・テトラ](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガーベラ・テトラ "wikilink")）
-  - 鉄機武者ジ・O（[ジ・O](https://ja.wikipedia.org/wiki/ジ・O "wikilink")）
+  - 鉄機武者ジ・O（[ジ・O](../Page/ジ・O.md "wikilink")）
   - 獣騎武者ケンプファー（[ケンプファー](../Page/ケンプファー.md "wikilink")）
   - 火帝機獣ビグザム（[ビグ・ザム](../Page/ビグ・ザム.md "wikilink")）
   - 水帝機獣グラブロ（[グラブロ](https://ja.wikipedia.org/wiki/グラブロ "wikilink")）
@@ -215,7 +215,7 @@
 
 ### SDガンダム英雄伝 大決戦\!\!騎士VS武者
 
-[2001年](../Page/2001年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")より発売された[PlayStation用バトル](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。[PocketStation](../Page/PocketStation.md "wikilink")対応。
+[2001年](../Page/2001年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")より発売された[PlayStation用バトル](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。[PocketStation](../Page/PocketStation.md "wikilink")対応。
 
 ### SDガンダム英雄伝
 

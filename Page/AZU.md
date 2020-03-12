@@ -9,21 +9,21 @@
 
 AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU)、あなたに伝える」という意味が込められている\[8\]。
 
-以前はMegとのユニット・JAZZY BLAZEのほか、SNAZZY BLOWやSEAMOの「[マタアイマショウ](https://ja.wikipedia.org/wiki/マタアイマショウ "wikilink")」の女声コーラスを担当したEILYSHとのユニット・Rで活躍していた。また、SEAMOの2ndシングル「[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")」のカップリングの「Honey Honey」ではEILYSHとともに2人でコーラスを、1stアルバム『[Get Back On Stage](https://ja.wikipedia.org/wiki/Get_Back_On_Stage "wikilink")』ではイントロの「Intro 〜Here Comes the SEAMO〜」を担当し、初登場1位を獲得した2ndアルバム『[Live Goes On](https://ja.wikipedia.org/wiki/Live_Goes_On "wikilink")』のリード曲「心の声 featuring AZU」でSEAMOとフィーチャリングしている。そのほか、「Were you happy? feat. AZU」「[Kiss Kiss Kiss](https://ja.wikipedia.org/wiki/Kiss_Kiss_Kiss "wikilink")」などSEAMOの曲には多数参加。
+以前はMegとのユニット・JAZZY BLAZEのほか、SNAZZY BLOWやSEAMOの「[マタアイマショウ](../Page/マタアイマショウ.md "wikilink")」の女声コーラスを担当したEILYSHとのユニット・Rで活躍していた。また、SEAMOの2ndシングル「[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")」のカップリングの「Honey Honey」ではEILYSHとともに2人でコーラスを、1stアルバム『[Get Back On Stage](../Page/Get_Back_On_Stage.md "wikilink")』ではイントロの「Intro 〜Here Comes the SEAMO〜」を担当し、初登場1位を獲得した2ndアルバム『[Live Goes On](../Page/Live_Goes_On.md "wikilink")』のリード曲「心の声 featuring AZU」でSEAMOとフィーチャリングしている。そのほか、「Were you happy? feat. AZU」「[Kiss Kiss Kiss](https://ja.wikipedia.org/wiki/Kiss_Kiss_Kiss "wikilink")」などSEAMOの曲には多数参加。
 
-現在、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")が主催するイベント「GOLDEN TIME」など名古屋、三重で多くのイベントにレギュラー出演している。
+現在、[SEAMO](../Page/SEAMO.md "wikilink")が主催するイベント「GOLDEN TIME」など名古屋、三重で多くのイベントにレギュラー出演している。
 
 ## 来歴
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")に『[CHERISH](https://ja.wikipedia.org/wiki/CHERISH_\(AZUの曲\) "wikilink")』でメジャーデビュー。
+[2007年](../Page/2007年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に『[CHERISH](https://ja.wikipedia.org/wiki/CHERISH_\(AZUの曲\) "wikilink")』でメジャーデビュー。
 
 2008年、「時間よ止まれ feat.SEAMO」で注目を集め、「いますぐに…」「YOU & I feat. LOVE LOVE LOVE」でレコチョク着うた、着うたフル(R)、待ちうた、で週間、ディリー、全てにおいてランキング1位獲得。2nd Album「Two of Us」、3rd Album"AZyoU"は共にオリコンデイリーランキングTOP10入り。11thシングル「Broken Heart」のカップリング曲「Ring〜M\&M〜」が[新日本製薬](https://ja.wikipedia.org/wiki/新日本製薬 "wikilink")CMソングに起用され、配信半年後もレコチョクTOP100にランクインする、配信ロングヒットに。続く13th Single「Woman」も新日本製薬・新CMソングとしてO.A.された。
 
-2012年1月18日、4th Album「Love letter」発売。5月30日でデビュー5周年を迎える。10月31日、5周年記念として初のベスト盤「BEST」を発売。オリコンではデイリー9位、週間では12位を獲得。アルバム先行配信新録曲「またね。」では[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系の](../Page/日本テレビネットワーク協議会.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")「[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")」エンディングテーマに起用。歌詞サイトでも12曲連続1位獲得を達成した。
+2012年1月18日、4th Album「Love letter」発売。5月30日でデビュー5周年を迎える。10月31日、5周年記念として初のベスト盤「BEST」を発売。オリコンではデイリー9位、週間では12位を獲得。アルバム先行配信新録曲「またね。」では[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系の](../Page/日本テレビネットワーク協議会.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")「[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")」エンディングテーマに起用。歌詞サイトでも12曲連続1位獲得を達成した。
 
-2013年6月、5周年記念BEST発売を経て放つ温かさと優しさに包まれた結婚ソング14th Single「Promise」発売。c/wには結婚式のBGMでも良く使用される、キャッチーなサビが印象的なナンバー、[デブラ・モーガン](https://ja.wikipedia.org/wiki/デブラ・モーガン "wikilink")の1998年のヒット曲「I LOVE YOU」をAZU流にサンプリング・カバーした「I LOVE YOU TOO feat. MIKU a.k.a tomboy」を収録。同年夏、「Summer Time\!\!\!」が[大磯ロングビーチ](https://ja.wikipedia.org/wiki/大磯ロングビーチ "wikilink") /[エプソン 品川アクアスタジアム](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")2013キャンペーンソングになった。iTunesランキング3位になった。「Circles of Life」がテレビ朝日系 木曜ミステリー[京都地検の女](https://ja.wikipedia.org/wiki/京都地検の女 "wikilink") 主題歌になった。歌詞サイトではシングル楽曲15曲連続1位を獲得。AZUにとって初めてのテレビドラマ主題歌となった。10月1日、[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")から[エイベックス・ヴァイヴ・プロダクションへ移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
+2013年6月、5周年記念BEST発売を経て放つ温かさと優しさに包まれた結婚ソング14th Single「Promise」発売。c/wには結婚式のBGMでも良く使用される、キャッチーなサビが印象的なナンバー、[デブラ・モーガン](https://ja.wikipedia.org/wiki/デブラ・モーガン "wikilink")の1998年のヒット曲「I LOVE YOU」をAZU流にサンプリング・カバーした「I LOVE YOU TOO feat. MIKU a.k.a tomboy」を収録。同年夏、「Summer Time\!\!\!」が[大磯ロングビーチ](../Page/大磯ロングビーチ.md "wikilink") /[エプソン 品川アクアスタジアム](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")2013キャンペーンソングになった。iTunesランキング3位になった。「Circles of Life」がテレビ朝日系 木曜ミステリー[京都地検の女](../Page/京都地検の女.md "wikilink") 主題歌になった。歌詞サイトではシングル楽曲15曲連続1位を獲得。AZUにとって初めてのテレビドラマ主題歌となった。10月1日、[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")から[エイベックス・ヴァイヴ・プロダクションへ移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
 
-2016年2月、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")\&AZU名義でコラボアルバム「THE SAME AS YOU」リリース。
+2016年2月、[SEAMO](../Page/SEAMO.md "wikilink")\&AZU名義でコラボアルバム「THE SAME AS YOU」リリース。
 
 2017年5月、デビュー10周年記念ライブ「〜AZU 10th Anniversary PREMIUM LIVE〜 AZUDECHANeeL FINAL」のステージ上で、一般男性との結婚を報告。
 
@@ -41,12 +41,12 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
   - 嫌いな食べ物は[うなぎと](https://ja.wikipedia.org/wiki/ウナギ "wikilink")[あなご](../Page/アナゴ.md "wikilink")。
   - 性格は良く笑い、良く食べ、良く寝る。
   - 好きなことはお風呂に入る・見るくらげ・愛犬と遊ぶこと。
-  - [ディズニー好き](https://ja.wikipedia.org/wiki/ディズニー作品 "wikilink")。特に[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")　[ダッフィー](https://ja.wikipedia.org/wiki/ダッフィー "wikilink")が好き。年間PASSを持っている。
+  - [ディズニー好き](../Page/ディズニー作品.md "wikilink")。特に[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")　[ダッフィー](../Page/ダッフィー.md "wikilink")が好き。年間PASSを持っている。
   - 愛犬はロコとリトル
   - 座右の銘「出会いは一瞬、出会えば一生！！」
-  - 好きなタイプは俳優の[藤原竜也](https://ja.wikipedia.org/wiki/藤原竜也 "wikilink")。
-  - 交友関係は、[YU-A](https://ja.wikipedia.org/wiki/YU-A "wikilink")、[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink") hirokoなどとデビュー当時から仲が良く、155センチ以下が参加条件とされた、チビ会という会を定期的に行っている。
-  - [蒼井そら](https://ja.wikipedia.org/wiki/蒼井そら "wikilink")と親友であり、11thシングル「BROKEN HEART」の[PVには彼女が友情出演している](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - 好きなタイプは俳優の[藤原竜也](../Page/藤原竜也.md "wikilink")。
+  - 交友関係は、[YU-A](../Page/YU-A.md "wikilink")、[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink") hirokoなどとデビュー当時から仲が良く、155センチ以下が参加条件とされた、チビ会という会を定期的に行っている。
+  - [蒼井そら](../Page/蒼井そら.md "wikilink")と親友であり、11thシングル「BROKEN HEART」の[PVには彼女が友情出演している](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ## ディスコグラフィー
 
@@ -63,7 +63,7 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CHERISH_(AZUの曲)" title="wikilink">CHERISH</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -79,7 +79,7 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2008年<a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/時間よ止まれ_feat._SEAMO" title="wikilink">時間よ止まれ feat. SEAMO</a></strong></p></td>
+<td><p><strong><a href="../Page/時間よ止まれ_feat._SEAMO.md" title="wikilink">時間よ止まれ feat. SEAMO</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -151,13 +151,13 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 
 #### オリジナルアルバム
 
-| 枚   | 発売日                                                                                                            | タイトル                                                                                 |
-| --- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") | **[AS ONE](https://ja.wikipedia.org/wiki/AS_ONE_\(AZUのアルバム\) "wikilink")**           |
-| 2nd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")                    | **[Two of Us](https://ja.wikipedia.org/wiki/Two_of_Us_\(AZUのアルバム\) "wikilink")**     |
-| 3rd | [2011年](../Page/2011年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")                    | **[AZyoU](https://ja.wikipedia.org/wiki/AZyoU "wikilink")**                          |
-| 4th | [2012年](../Page/2012年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")                                       | **[Love letter](https://ja.wikipedia.org/wiki/Love_letter_\(AZUのアルバム\) "wikilink")** |
-| 5th | [2014年](../Page/2014年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")                                       | **[4Seasons](https://ja.wikipedia.org/wiki/4Seasons "wikilink")**                    |
+| 枚   | 発売日                                                                                         | タイトル                                                                                 |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](../Page/7月23日.md "wikilink") | **[AS ONE](../Page/AS_ONE_\(AZUのアルバム\).md "wikilink")**                              |
+| 2nd | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") | **[Two of Us](https://ja.wikipedia.org/wiki/Two_of_Us_\(AZUのアルバム\) "wikilink")**     |
+| 3rd | [2011年](../Page/2011年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") | **[AZyoU](https://ja.wikipedia.org/wiki/AZyoU "wikilink")**                          |
+| 4th | [2012年](../Page/2012年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")                    | **[Love letter](https://ja.wikipedia.org/wiki/Love_letter_\(AZUのアルバム\) "wikilink")** |
+| 5th | [2014年](../Page/2014年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")                    | **[4Seasons](https://ja.wikipedia.org/wiki/4Seasons "wikilink")**                    |
 
 #### その他アルバム
 
@@ -179,7 +179,7 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong>WINTER LOVE BEST</strong></p></td>
 <td><p>ベストアルバム</p></td>
 </tr>
@@ -194,7 +194,7 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/2月3日.md" title="wikilink">2月3日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_SAME_AS_YOU" title="wikilink">THE SAME AS YOU</a></strong></p></td>
 <td><p>コラボアルバム<br />
-<a href="https://ja.wikipedia.org/wiki/SEAMO" title="wikilink">SEAMO</a> &amp; AZU名義</p></td>
+<a href="../Page/SEAMO.md" title="wikilink">SEAMO</a> &amp; AZU名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>５th</p></td>
@@ -210,17 +210,17 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 
 ### 参加作品
 
-1.  [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")『[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")』（2005年7月13日）　M-2「Honey Honey」
-2.  SEAMO『[Get Back On Stage](https://ja.wikipedia.org/wiki/Get_Back_On_Stage "wikilink")』（2005年10月26日）　M-1「Intro 〜Here Comes the SEAMO〜」
-3.  SEAMO『[Live Goes On](https://ja.wikipedia.org/wiki/Live_Goes_On "wikilink")』（2006年9月20日）　M-6「心の声 featuring AZU」
-4.  [カルテット](https://ja.wikipedia.org/wiki/カルテット_\(ユニット\) "wikilink")『拝啓、僕の未来へ。』（2008年7月23日）　M-2「いつまでも。feat. AZU」
-5.  [MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")『[STARS](https://ja.wikipedia.org/wiki/STARS_\(MAKAIのアルバム\) "wikilink")』（2008年9月24日）　M-12「BABY STAR feat. AZU & [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")」
+1.  [SEAMO](../Page/SEAMO.md "wikilink")『[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")』（2005年7月13日）　M-2「Honey Honey」
+2.  SEAMO『[Get Back On Stage](../Page/Get_Back_On_Stage.md "wikilink")』（2005年10月26日）　M-1「Intro 〜Here Comes the SEAMO〜」
+3.  SEAMO『[Live Goes On](../Page/Live_Goes_On.md "wikilink")』（2006年9月20日）　M-6「心の声 featuring AZU」
+4.  [カルテット](../Page/カルテット_\(ユニット\).md "wikilink")『拝啓、僕の未来へ。』（2008年7月23日）　M-2「いつまでも。feat. AZU」
+5.  [MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")『[STARS](https://ja.wikipedia.org/wiki/STARS_\(MAKAIのアルバム\) "wikilink")』（2008年9月24日）　M-12「BABY STAR feat. AZU & [L-VOKAL](../Page/L-VOKAL.md "wikilink")」
 6.  SEAMO『[SCRAP & BUILD](https://ja.wikipedia.org/wiki/SCRAP_&_BUILD "wikilink")』（2008年11月26日）　M-4「Kiss Kiss Kiss feat. AZU & [yukako](https://ja.wikipedia.org/wiki/yukako "wikilink")」
 7.  [Spontania](../Page/Spontania.md "wikilink")『同じ空みつめてるあなたに feat. AZU』（2009年10月21日）　M-1「同じ空みつめてるあなたに feat. AZU」
 8.  MAKAI『LOVE LITE』（2010年4月28日）　M-8「また会いたくて feat. AZU」
 9.  [S'capade](../Page/SOUL'd_OUT.md "wikilink")『S'CAPADE』（2010年6月9日）　M-10「Every 4 U feat. AZU」
 10. [KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")『Songs of love』（2010年10月20日）　M-1「どんなに離れても duet with AZU」
-11. [CRYSTAL BOY](https://ja.wikipedia.org/wiki/Nobodyknows+ "wikilink")『クリスタルボーイ』（2010年10月27日）　M-5「言葉以上… feat. AZU」
+11. [CRYSTAL BOY](../Page/Nobodyknows+.md "wikilink")『クリスタルボーイ』（2010年10月27日）　M-5「言葉以上… feat. AZU」
 12. SEAMO『[5♥WOMEN](https://ja.wikipedia.org/wiki/5_WOMEN "wikilink")』（2010年12月15日）　M-5「Were you happy? feat. AZU」
 13. [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")『VOICE』（2011年7月13日）　M-1「小さな光 feat. AZU」
 14. [Sunya](https://ja.wikipedia.org/wiki/Sunya "wikilink")『[To You…もう一度 feat. AZU](https://ja.wikipedia.org/wiki/To_You…もう一度_feat._AZU "wikilink")』（2011年11月16日）　M-1「To You…もう一度 feat. AZU」
@@ -232,15 +232,15 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 現在も交流のあるアーティスト
 
   - [mihimaruGT](https://ja.wikipedia.org/wiki/mihimaruGT "wikilink")
-  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
+  - [SEAMO](../Page/SEAMO.md "wikilink")
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
   - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
-  - [カルテット](https://ja.wikipedia.org/wiki/カルテット_\(ユニット\) "wikilink")
+  - [カルテット](../Page/カルテット_\(ユニット\).md "wikilink")
   - [手裏剣ジェット](https://ja.wikipedia.org/wiki/手裏剣ジェット "wikilink")
-  - [MAY'S](https://ja.wikipedia.org/wiki/MAY'S "wikilink")
+  - [MAY'S](../Page/MAY'S.md "wikilink")
   - [BRIDGET](https://ja.wikipedia.org/wiki/BRIDGET "wikilink")
   - [Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink")
-  - [KEN THE 390](https://ja.wikipedia.org/wiki/KEN_THE_390 "wikilink")
+  - [KEN THE 390](../Page/KEN_THE_390.md "wikilink")
   - [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")
   - [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
 
@@ -249,8 +249,8 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
   - [Spontania](../Page/Spontania.md "wikilink")
   - [宏実](https://ja.wikipedia.org/wiki/宏実 "wikilink")
   - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")
-  - [浦田直也](https://ja.wikipedia.org/wiki/浦田直也 "wikilink") AAA
-  - [DEPAPEPE](https://ja.wikipedia.org/wiki/DEPAPEPE "wikilink")
+  - [浦田直也](../Page/浦田直也.md "wikilink") AAA
+  - [DEPAPEPE](../Page/DEPAPEPE.md "wikilink")
   - 指田フミヤ
   - [吉田山田](https://ja.wikipedia.org/wiki/吉田山田 "wikilink")
 

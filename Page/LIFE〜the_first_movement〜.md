@@ -1,7 +1,7 @@
 > この記事は[LIFEthe first movement](https://ja.wikipedia.org/wiki/LIFEthe_first_movement)から翻訳されています。
 
 
-『**LIFE〜the first movement〜**』（ライフ ザ ファースト ムーブメント）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")、[youが](../Page/You_\(Janne_Da_Arc\).md "wikilink")[バンド結成](../Page/バンド_\(音楽\).md "wikilink")10周年記念のソロ活動としてソロアルバム3部作の第一弾としてリリースの[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")発売。
+『**LIFE〜the first movement〜**』（ライフ ザ ファースト ムーブメント）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")、[youが](../Page/You_\(Janne_Da_Arc\).md "wikilink")[バンド結成](../Page/バンド_\(音楽\).md "wikilink")10周年記念のソロ活動としてソロアルバム3部作の第一弾としてリリースの[インストゥルメンタル](../Page/器楽曲.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")発売。
 
 ## 収録曲
 
@@ -26,7 +26,7 @@
 7.  **a true voice**
 8.  **home**
       -
-        [ミディアム](https://ja.wikipedia.org/wiki/ミディアム "wikilink")[テンポ](../Page/テンポ.md "wikilink")のナンバー。アルバム収録曲の中で演奏時間が一番短い。
+        [ミディアム](../Page/ミディアム.md "wikilink")[テンポ](../Page/テンポ.md "wikilink")のナンバー。アルバム収録曲の中で演奏時間が一番短い。
 9.  '''retrospect
       -
         [ピアノ](../Page/ピアノ.md "wikilink")や[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")が導入されたアルバムの最後を締め括る[バラード](../Page/バラード.md "wikilink")。

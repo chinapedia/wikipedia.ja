@@ -1,15 +1,15 @@
 > この記事は[ HOT! 10 Count down Radio II Huu!](https://ja.wikipedia.org/wiki/_HOT!_10_Count_down_Radio_II_Huu!)から翻訳されています。
 
 
-**ネオロマンス♥ライヴ HOT\! 10 Count down Radio II Huu\!**（ネオロマンスライヴ ホット\! テンカウントダウンラジオツーフー\!）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")5月から11月まで、[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")から配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。8月までは毎週水曜日配信、8月以降は隔週水曜日の配信で放送された。
+**ネオロマンス♥ライヴ HOT\! 10 Count down Radio II Huu\!**（ネオロマンスライヴ ホット\! テンカウントダウンラジオツーフー\!）は、[2007年](../Page/2007年.md "wikilink")5月から11月まで、[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")から配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。8月までは毎週水曜日配信、8月以降は隔週水曜日の配信で放送された。
 
-「[ネオロマンス♥ライヴ HOT\! 10 Count down Radio](https://ja.wikipedia.org/wiki/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio "wikilink")」の続編で、絶えず増え続けているネオロマンス楽曲を毎回決められたテーマ毎にリスナーから募集してランキング形式で紹介する。
+「[ネオロマンス♥ライヴ HOT\! 10 Count down Radio](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio.md "wikilink")」の続編で、絶えず増え続けているネオロマンス楽曲を毎回決められたテーマ毎にリスナーから募集してランキング形式で紹介する。
 
 ## パーソナリティ
 
-  - [岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink") （アンジェリークのゼフェル役）
-  - [小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink") （ネオアンジェリークのヒュウガ役）
-  - [2HEARTS](https://ja.wikipedia.org/wiki/2HEARTS "wikilink") （[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")：アンジェリークのヴィクトール役 ＆ [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")：アンジェリークのエルンスト役）
+  - [岩田光央](../Page/岩田光央.md "wikilink") （アンジェリークのゼフェル役）
+  - [小野大輔](../Page/小野大輔.md "wikilink") （ネオアンジェリークのヒュウガ役）
+  - [2HEARTS](../Page/2HEARTS.md "wikilink") （[立木文彦](../Page/立木文彦.md "wikilink")：アンジェリークのヴィクトール役 ＆ [森川智之](../Page/森川智之.md "wikilink")：アンジェリークのエルンスト役）
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - [GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink") （[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")：金色のコルダの月森蓮役 ＆ [飯塚昌明](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")）
+  - [GRANRODEO](../Page/GRANRODEO.md "wikilink") （[谷山紀章](../Page/谷山紀章.md "wikilink")：金色のコルダの月森蓮役 ＆ [飯塚昌明](../Page/飯塚昌明.md "wikilink")）
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>第1回～第14回・第21回</p></td>
-<td style="text-align: center;"><p>「<a href="https://ja.wikipedia.org/wiki/ひねもす_(小野大輔のアルバム)" title="wikilink">ひねもす</a>」よりランダム</p></td>
+<td style="text-align: center;"><p>「<a href="../Page/ひねもす_(小野大輔のアルバム).md" title="wikilink">ひねもす</a>」よりランダム</p></td>
 <td style="text-align: center;"><p>小野大輔</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -71,8 +71,8 @@
 <td style="text-align: center;"><p>第15回～第20回</p></td>
 <td style="text-align: center;"><p>「輝きはダイヤモンド」</p></td>
 <td style="text-align: center;"><p>月森連（谷山紀章）<br />
-土浦梁太郎（<a href="https://ja.wikipedia.org/wiki/伊藤健太郎_(声優)" title="wikilink">伊藤健太郎</a>）<br />
-加地葵（<a href="https://ja.wikipedia.org/wiki/宮野真守" title="wikilink">宮野真守</a>）</p></td>
+土浦梁太郎（<a href="../Page/伊藤健太郎_(声優).md" title="wikilink">伊藤健太郎</a>）<br />
+加地葵（<a href="../Page/宮野真守.md" title="wikilink">宮野真守</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -179,7 +179,7 @@
 
   - 第05回配信－[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")（アンジェリークのレオナード役）
   - 第08回配信－[保志総一朗](../Page/保志総一朗.md "wikilink")（遙かなる時空の中での永泉／源泉水／平敦盛役）
-  - 第12回配信－[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")（金色のコルダ2の加地葵役）
+  - 第12回配信－[宮野真守](../Page/宮野真守.md "wikilink")（金色のコルダ2の加地葵役）
 
 ## CD
 
@@ -187,12 +187,12 @@
 
 ## 関連項目
 
-  - [ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")
-  - [アンジェリーク](https://ja.wikipedia.org/wiki/アンジェリーク "wikilink")
-  - [ネオ アンジェリーク](https://ja.wikipedia.org/wiki/ネオ_アンジェリーク "wikilink")
+  - [ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")
+  - [アンジェリーク](../Page/アンジェリーク.md "wikilink")
+  - [ネオ アンジェリーク](../Page/ネオ_アンジェリーク.md "wikilink")
   - [遙かなる時空の中で](../Page/遙かなる時空の中で.md "wikilink")
-  - [金色のコルダ](https://ja.wikipedia.org/wiki/金色のコルダ "wikilink")
-  - [ネオロマンス♥ライヴ HOT\! 10 Count down Radio](https://ja.wikipedia.org/wiki/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio "wikilink")
+  - [金色のコルダ](../Page/金色のコルダ.md "wikilink")
+  - [ネオロマンス♥ライヴ HOT\! 10 Count down Radio](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio.md "wikilink")
 
 ## 外部リンク
 

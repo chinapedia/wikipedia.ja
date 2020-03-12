@@ -1,11 +1,11 @@
 > この記事は[ SC](https://ja.wikipedia.org/wiki/_SC)から翻訳されています。
 
 
-**流山おおたかの森 S・C**（ながれやまおおたかのもり ショッピングセンター）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")おおたかの森南一丁目に所在する[高島屋](../Page/高島屋.md "wikilink")子会社の[東神開発](https://ja.wikipedia.org/wiki/東神開発 "wikilink")株式会社が運営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
+**流山おおたかの森 S・C**（ながれやまおおたかのもり ショッピングセンター）は、[千葉県](../Page/千葉県.md "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")おおたかの森南一丁目に所在する[高島屋](../Page/高島屋.md "wikilink")子会社の[東神開発](https://ja.wikipedia.org/wiki/東神開発 "wikilink")株式会社が運営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
 
 ## 概要
 
-[都市再生機構](../Page/都市再生機構.md "wikilink")を施工者とする「流山市新市街地地区一体型特定[土地区画整理事業](https://ja.wikipedia.org/wiki/土地区画整理事業 "wikilink")」区域\[1\]において、[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）夏季に開発事業に着手し\[2\]、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[3月12日](../Page/3月12日.md "wikilink")に開業した\[3\]。
+[都市再生機構](../Page/都市再生機構.md "wikilink")を施工者とする「流山市新市街地地区一体型特定[土地区画整理事業](https://ja.wikipedia.org/wiki/土地区画整理事業 "wikilink")」区域\[1\]において、[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）夏季に開発事業に着手し\[2\]、[2007年](../Page/2007年.md "wikilink")（平成19年）[3月12日](../Page/3月12日.md "wikilink")に開業した\[3\]。
 
 建物は地上3階建ての本館、地上5階建ての本館[駐車場](../Page/駐車場.md "wikilink")棟、別棟の地上6階建てのANNEXとで構成される\[4\]。
 
@@ -19,10 +19,10 @@
 
 ### 核店舗
 
-  - [タカシマヤ フードメゾン](https://ja.wikipedia.org/wiki/高島屋#関東圏 "wikilink") おおたかの森店（1階） - [高島屋](../Page/高島屋.md "wikilink")初の食料品販売に特化した店舗\[7\]。コンセプトは「あなたの街に[デパ地下](https://ja.wikipedia.org/wiki/デパ地下 "wikilink")を」\[8\]。
+  - [タカシマヤ フードメゾン](https://ja.wikipedia.org/wiki/高島屋#関東圏 "wikilink") おおたかの森店（1階） - [高島屋](../Page/高島屋.md "wikilink")初の食料品販売に特化した店舗\[7\]。コンセプトは「あなたの街に[デパ地下](../Page/デパ地下.md "wikilink")を」\[8\]。
   - [イトーヨーカドー](../Page/イトーヨーカ堂.md "wikilink") 食品館おおたかの森店（1階） - 食料品販売に特化、イトーヨーカドーとしては175店舗目（千葉県内21店舗目）の出店となる\[9\]。
   - [紀伊國屋書店 / 紀伊國屋書店Forest](../Page/紀伊國屋書店.md "wikilink")（2階） - 開業時点では千葉県内最大級の規模を有する\[10\]。CD・DVD販売エリアは「Forest」の名称で営業する\[11\]。
-  - 流山[ロフト](https://ja.wikipedia.org/wiki/ロフト_\(雑貨店\) "wikilink")（2階） - 千葉県内3店舗目の出店\[12\]。
+  - 流山[ロフト](../Page/ロフト_\(雑貨店\).md "wikilink")（2階） - 千葉県内3店舗目の出店\[12\]。
   - [TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink") 流山おおたかの森（3階） - 11スクリーン、1,900席を有する[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")\[13\]。
   - [namco DONDOKOフェスタ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（3階）
   - [セントラルウェルネスクラブ](https://ja.wikipedia.org/wiki/セントラルスポーツ "wikilink") おおたかの森（3階）
@@ -33,7 +33,7 @@
   - [LACOSTE](https://ja.wikipedia.org/wiki/ラコステ "wikilink")
   - [UNIQLO](../Page/ユニクロ.md "wikilink")
   - [KEYUCA](https://ja.wikipedia.org/wiki/KEYUCA "wikilink")
-  - [Beauty Deli by HOUSE OF ROSE](https://ja.wikipedia.org/wiki/ハウス_オブ_ローゼ "wikilink")
+  - [Beauty Deli by HOUSE OF ROSE](../Page/ハウス_オブ_ローゼ.md "wikilink")
   - [TAYA](https://ja.wikipedia.org/wiki/田谷 "wikilink")
   - [カメラのキタムラ](https://ja.wikipedia.org/wiki/カメラのキタムラ "wikilink")
   - [BAGEL\&BAGEL](https://ja.wikipedia.org/wiki/BAGEL&BAGEL "wikilink")
@@ -42,33 +42,33 @@
 ### 2階専門店
 
   - [green parks topic](https://ja.wikipedia.org/wiki/クロスカンパニー "wikilink")
-  - [m.f.editorial](https://ja.wikipedia.org/wiki/タカキュー "wikilink")
-  - [semanticdesign](https://ja.wikipedia.org/wiki/タカキュー "wikilink")
-  - [ORIHICA](https://ja.wikipedia.org/wiki/AOKIホールディングス "wikilink")
+  - [m.f.editorial](../Page/タカキュー.md "wikilink")
+  - [semanticdesign](../Page/タカキュー.md "wikilink")
+  - [ORIHICA](../Page/AOKIホールディングス.md "wikilink")
   - [LEPSIM LOWRYS FARM](https://ja.wikipedia.org/wiki/ローリーズファーム#姉妹ブランド "wikilink")
   - [PARiS Miki](https://ja.wikipedia.org/wiki/三城 "wikilink")
   - [JINS](https://ja.wikipedia.org/wiki/ジンズ "wikilink")
-  - [ABC-MART](https://ja.wikipedia.org/wiki/ABCマート "wikilink")
-  - [CIQUETO LBC](https://ja.wikipedia.org/wiki/コックス_\(衣料品\) "wikilink")
-  - [MARY QUANT](https://ja.wikipedia.org/wiki/マリー・クワント "wikilink")
+  - [ABC-MART](../Page/ABCマート.md "wikilink")
+  - [CIQUETO LBC](../Page/コックス_\(衣料品\).md "wikilink")
+  - [MARY QUANT](../Page/マリー・クワント.md "wikilink")
   - [DHC 直営店](https://ja.wikipedia.org/wiki/DHC "wikilink")
   - [中央コンタクト](https://ja.wikipedia.org/wiki/中央コンタクト "wikilink")
 
 ### 3階専門店
 
-  - [手芸センター ドリーム](https://ja.wikipedia.org/wiki/小野_\(企業\) "wikilink")
+  - [手芸センター ドリーム](../Page/小野_\(企業\).md "wikilink")
   - レストランエリア（17店舗）\[14\]
   - [ABC Cooking Studio / abc kids](../Page/ABCクッキングスタジオ.md "wikilink")
-  - [POLA THE BEAUTY](https://ja.wikipedia.org/wiki/ポーラ_\(企業\) "wikilink")
+  - [POLA THE BEAUTY](../Page/ポーラ_\(企業\).md "wikilink")
   - 流山市おおたかの森出張所
   - [スタジオマリオ](https://ja.wikipedia.org/wiki/カメラのキタムラ "wikilink")
 
 ### ANNEX
 
   - [ヴィクトリア](https://ja.wikipedia.org/wiki/ゼビオ "wikilink")
-  - [ノジマ](https://ja.wikipedia.org/wiki/ノジマ "wikilink")
-  - [セリア](https://ja.wikipedia.org/wiki/セリア_\(100円ショップ\) "wikilink")
-  - [サブウェイ](https://ja.wikipedia.org/wiki/サブウェイ "wikilink")
+  - [ノジマ](../Page/ノジマ.md "wikilink")
+  - [セリア](../Page/セリア_\(100円ショップ\).md "wikilink")
+  - [サブウェイ](../Page/サブウェイ.md "wikilink")
   - 流山おおたかの森郵便局
 
 ## 交通アクセス
@@ -83,7 +83,7 @@
 
 ### 自動車
 
-最寄ICは[常磐自動車道](../Page/常磐自動車道.md "wikilink")・[流山ICである](https://ja.wikipedia.org/wiki/流山インターチェンジ "wikilink")。[国道16号](../Page/国道16号.md "wikilink")線からは若柴交差点を「流山おおたかの森」方面に進む。
+最寄ICは[常磐自動車道](../Page/常磐自動車道.md "wikilink")・[流山ICである](../Page/流山インターチェンジ.md "wikilink")。[国道16号](../Page/国道16号.md "wikilink")線からは若柴交差点を「流山おおたかの森」方面に進む。
 
 ## 周辺施設
 
@@ -91,7 +91,7 @@
 
 ### CM
 
-[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")・[タント](https://ja.wikipedia.org/wiki/ダイハツ・タント "wikilink") - 「子供服篇」を当SCで撮影（2009年放送）\[15\]。
+[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")・[タント](../Page/ダイハツ・タント.md "wikilink") - 「子供服篇」を当SCで撮影（2009年放送）\[15\]。
 
 ### テレビアニメ
 

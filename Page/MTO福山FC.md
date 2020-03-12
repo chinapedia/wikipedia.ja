@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - 1997年　[中国サッカーリーグ](https://ja.wikipedia.org/wiki/中国サッカーリーグ "wikilink")昇格。
+  - 1997年　[中国サッカーリーグ](../Page/中国サッカーリーグ.md "wikilink")昇格。
   - 1999年　[広島県社会人サッカーリーグ](../Page/広島県社会人サッカーリーグ.md "wikilink")へ降格。
-  - 2003年　中国リーグへ再昇格。[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")と[川崎製鉄](https://ja.wikipedia.org/wiki/川崎製鉄 "wikilink")の合併に伴い、「NKK福山サッカー部」から「JFEスチール西日本サッカー部」へ名称変更。
+  - 2003年　中国リーグへ再昇格。[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")と[川崎製鉄](../Page/川崎製鉄.md "wikilink")の合併に伴い、「NKK福山サッカー部」から「JFEスチール西日本サッカー部」へ名称変更。
   - 2010年　広島県リーグへ再降格。
   - 2011年　「JFEスチール西日本サッカー部」から「MTO福山FC」へ名称変更。
 
@@ -55,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年の地域リーグ_(サッカー)" title="wikilink">1997</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中国サッカーリーグ" title="wikilink">中国</a></p></td>
+<td><p><a href="../Page/中国サッカーリーグ.md" title="wikilink">中国</a></p></td>
 <td><p>7位</p></td>
 <td><p>14</p></td>
 <td><p>14</p></td>
@@ -334,9 +334,9 @@
 
 ## 関連項目
 
-  - [日本鋼管サッカー部](https://ja.wikipedia.org/wiki/日本鋼管サッカー部 "wikilink")
-  - [川崎製鉄水島サッカー部](https://ja.wikipedia.org/wiki/川崎製鉄水島サッカー部 "wikilink")
-  - [JFE西日本硬式野球部](https://ja.wikipedia.org/wiki/JFE西日本硬式野球部 "wikilink")
+  - [日本鋼管サッカー部](../Page/日本鋼管サッカー部.md "wikilink")
+  - [川崎製鉄水島サッカー部](../Page/川崎製鉄水島サッカー部.md "wikilink")
+  - [JFE西日本硬式野球部](../Page/JFE西日本硬式野球部.md "wikilink")
 
 ## 外部リンク
 

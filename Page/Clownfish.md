@@ -1,11 +1,11 @@
 > この記事は[Clownfish](https://ja.wikipedia.org/wiki/Clownfish)から翻訳されています。
 
 
-**Clownfish**（クラウンフィッシュ）は日本の2人組バンド。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")結成。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月、ミニアルバム「Cars & Girls」で[よしもとアール・アンド・シー](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")よりデビュー。
+**Clownfish**（クラウンフィッシュ）は日本の2人組バンド。[2005年](../Page/2005年.md "wikilink")結成。[2007年](../Page/2007年.md "wikilink")1月、ミニアルバム「Cars & Girls」で[よしもとアール・アンド・シー](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")よりデビュー。
 
 ## メンバー
 
-  - **[中山豪次郎](https://ja.wikipedia.org/wiki/中山豪次郎 "wikilink")**（ボーカル・ギター・キーボード・作詞・作曲）伯父は作詞・作曲家の[中山大三郎](https://ja.wikipedia.org/wiki/中山大三郎 "wikilink")
+  - **[中山豪次郎](https://ja.wikipedia.org/wiki/中山豪次郎 "wikilink")**（ボーカル・ギター・キーボード・作詞・作曲）伯父は作詞・作曲家の[中山大三郎](../Page/中山大三郎.md "wikilink")
   - **[武藤直哉](https://ja.wikipedia.org/wiki/武藤直哉 "wikilink")**（ベース）
 
 ## ディスコグラフィー
@@ -31,7 +31,7 @@
 <td><ol>
 <li>君とのサンデイ
 <ul>
-<li>TX系「<a href="https://ja.wikipedia.org/wiki/スキバラ" title="wikilink">スキバラ</a>」エンディングテーマ</li>
+<li>TX系「<a href="../Page/スキバラ.md" title="wikilink">スキバラ</a>」エンディングテーマ</li>
 </ul></li>
 <li>cf show：圏外</li>
 <li>シロップ&amp;ハニー</li>
@@ -74,7 +74,7 @@
 <li>David</li>
 <li>夜明け前
 <ul>
-<li>「<a href="https://ja.wikipedia.org/wiki/PVTV" title="wikilink">PVTV</a>」オープニングテーマ</li>
+<li>「<a href="../Page/PVTV.md" title="wikilink">PVTV</a>」オープニングテーマ</li>
 </ul></li>
 <li>Cars &amp; Girls</li>
 <li>Serious Story</li>
@@ -113,7 +113,7 @@
 
 ### 中山豪次郎楽曲提供
 
-  - [野中藍](https://ja.wikipedia.org/wiki/野中藍 "wikilink")『[もっと](https://ja.wikipedia.org/wiki/サプリメント_\(アルバム\) "wikilink")』(2009年4月22日)作曲
+  - [野中藍](../Page/野中藍.md "wikilink")『[もっと](https://ja.wikipedia.org/wiki/サプリメント_\(アルバム\) "wikilink")』(2009年4月22日)作曲
   - [星羅](https://ja.wikipedia.org/wiki/星羅 "wikilink")『ラブレターのかわりにこの詩を。 』(2010年1月20日)作詞、作曲
   - [CHiAKi KURiYAMA](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")『[流星のナミダ](https://ja.wikipedia.org/wiki/流星のナミダ "wikilink")』(2010年2月24日)作詞、作曲
 

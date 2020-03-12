@@ -1,11 +1,11 @@
 > この記事は[COMMAND.COM](https://ja.wikipedia.org/wiki/COMMAND.COM)から翻訳されています。
 
 
-**COMMAND.COM**（コマンド・コム）は、[MS-DOS](../Page/MS-DOS.md "wikilink")/[PC DOS及び互換DOS](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")、および[Windows 95](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")、[Windows 98](https://ja.wikipedia.org/wiki/Windows_98 "wikilink")、[Windows 98SE](https://ja.wikipedia.org/wiki/Windows_98SE "wikilink")、[Windows MEにおける標準の](https://ja.wikipedia.org/wiki/Windows_ME "wikilink")[コマンドラインインタプリタ](https://ja.wikipedia.org/wiki/コマンドラインインタプリタ "wikilink")（コマンド[シェル](../Page/シェル.md "wikilink")）である。
+**COMMAND.COM**（コマンド・コム）は、[MS-DOS](../Page/MS-DOS.md "wikilink")/[PC DOS及び互換DOS](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")、および[Windows 95](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")、[Windows 98](https://ja.wikipedia.org/wiki/Windows_98 "wikilink")、[Windows 98SE](https://ja.wikipedia.org/wiki/Windows_98SE "wikilink")、[Windows MEにおける標準の](https://ja.wikipedia.org/wiki/Windows_ME "wikilink")[コマンドラインインタプリタ](../Page/コマンドラインインタプリタ.md "wikilink")（コマンド[シェル](../Page/シェル.md "wikilink")）である。
 
 ## 概要
 
-DOSにおいては、デフォルトのユーザインターフェイスである。MS-DOSでは、起動プロセスの中で MSDOS.SYS（PC DOSでは IBMDOS.COM）が `CONFIG.SYS` の記述「`SHELL=`」を元に起動する最初の[プロセス](../Page/プロセス.md "wikilink")（ルートプロセス）であり、[AUTOEXEC.BAT](https://ja.wikipedia.org/wiki/AUTOEXEC.BAT "wikilink")を実行してシステムをセットアップした後、全てのプロセスの祖先となる役割がある。
+DOSにおいては、デフォルトのユーザインターフェイスである。MS-DOSでは、起動プロセスの中で MSDOS.SYS（PC DOSでは IBMDOS.COM）が `CONFIG.SYS` の記述「`SHELL=`」を元に起動する最初の[プロセス](../Page/プロセス.md "wikilink")（ルートプロセス）であり、[AUTOEXEC.BAT](../Page/AUTOEXEC.BAT.md "wikilink")を実行してシステムをセットアップした後、全てのプロセスの祖先となる役割がある。
 
 \[\[Windows_9x系|
 

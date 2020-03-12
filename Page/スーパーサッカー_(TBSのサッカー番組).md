@@ -5,12 +5,12 @@
 
 ## 題名の遍歴
 
-  - 開始当初からの1年間　[ネスレ日本](https://ja.wikipedia.org/wiki/ネスレ日本 "wikilink")1社提供の『**[ネスレ](https://ja.wikipedia.org/wiki/ネスレ "wikilink")（ネッスル）・スーパーサッカー Jリーグエクスプレス**』
+  - 開始当初からの1年間　[ネスレ日本](../Page/ネスレ日本.md "wikilink")1社提供の『**[ネスレ](../Page/ネスレ.md "wikilink")（ネッスル）・スーパーサッカー Jリーグエクスプレス**』
   - [1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月](../Page/9月.md "wikilink")　スポンサーの冠を外した『**スーパーサッカー Jリーグエクスプレス**』
   - 1998年[10月3日](../Page/10月3日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")　『**スーパーサッカー**』（第1期）
   - 2002年[4月7日](../Page/4月7日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")　『**J-SPORTS SUPER SOCCER PLUS**』（2008年以降はタイトルロゴから「J-SPORTS」の文字が消えている）
   - 2009年[4月5日](../Page/4月5日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")　[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』に内包され『**S☆1・スパサカ**』。
-  - 2010年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")　『**スーパーサッカー J（ジェー）**』
+  - 2010年[4月3日](../Page/4月3日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")　『**スーパーサッカー J（ジェー）**』
   - 2011年[3月29日](../Page/3月29日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")『**スーパーサッカー**』（第2期）
   - 2015年[4月4日](../Page/4月4日.md "wikilink")から[2017年](../Page/2017年.md "wikilink")3月24日『**スーパーサッカー J+（ジェー・プラス）**』（BS-TBSのみ）
   - 2017年[10月2日](../Page/10月2日.md "wikilink")から『**スーパーサッカー**』（第3期）
@@ -19,11 +19,11 @@
 
 日本国内や海外のサッカー情報を紹介する番組で、[Jリーグの土曜日開催試合ダイジェストや](../Page/日本プロサッカーリーグ.md "wikilink")、海外リーグの強豪チームの試合のダイジェストを放送するほか、選手インタビュー・選手たちにスポットを当てたバラエティ企画なども放送。
 
-1993年5月16日（[Jリーグ開幕の翌日](https://ja.wikipedia.org/wiki/1993年Jリーグ開幕節 "wikilink")）から9月27日までの毎週日曜日未明（土曜深夜、[JNNスポーツ&ニュース](https://ja.wikipedia.org/wiki/JNNスポーツ&ニュース "wikilink")の直後枠）に、TBS、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送などJリーグチーム所在地のJNN系列局で放送されていた番組](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『**速報Jリーグ**』をリニューアルする形で放送を開始。当時から[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")の「サッカーマガジン」が協力し、同誌編集長（当時）の千野圭一や伊東武彦、元編集長の[大住良之](https://ja.wikipedia.org/wiki/大住良之 "wikilink")などがたびたび出演している\[1\]。
+1993年5月16日（[Jリーグ開幕の翌日](../Page/1993年Jリーグ開幕節.md "wikilink")）から9月27日までの毎週日曜日未明（土曜深夜、[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")の直後枠）に、TBS、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送などJリーグチーム所在地のJNN系列局で放送されていた番組](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『**速報Jリーグ**』をリニューアルする形で放送を開始。当時から[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink")の「サッカーマガジン」が協力し、同誌編集長（当時）の千野圭一や伊東武彦、元編集長の[大住良之](../Page/大住良之.md "wikilink")などがたびたび出演している\[1\]。
 
-人気司会者の[生島ヒロシ](https://ja.wikipedia.org/wiki/生島ヒロシ "wikilink")を起用、[西田ひかる](../Page/西田ひかる.md "wikilink")や[ビートたけし](../Page/ビートたけし.md "wikilink")が出演するなど、「バブル」とも揶揄されたJリーグの爆発的人気拡大への貢献度は高かった。その後、観客動員の減少などで現れた人気の衰退に伴って他テレビ局のJリーグ番組が終了しても同番組は継続して、[三井ゆり](https://ja.wikipedia.org/wiki/三井ゆり "wikilink")や[白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")などの人気タレントを輩出し、[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")（音楽家）や[加藤浩次](https://ja.wikipedia.org/wiki/加藤浩次 "wikilink")（[極楽とんぼ](https://ja.wikipedia.org/wiki/極楽とんぼ "wikilink")。キャスター・俳優としても活躍）など異色のキャスターを起用するなど、視聴率競争の激しい週末のスポーツ番組の中でも異彩を放つ番組であった。単に試合の詳細を伝えるだけでなく、[ビートたけし](../Page/ビートたけし.md "wikilink")をレギュラー（VTR出演）させるなどして、サッカーバラエティの要素を兼ね備えた体裁を整えたことも番組の繁栄につなげた。
+人気司会者の[生島ヒロシ](../Page/生島ヒロシ.md "wikilink")を起用、[西田ひかる](../Page/西田ひかる.md "wikilink")や[ビートたけし](../Page/ビートたけし.md "wikilink")が出演するなど、「バブル」とも揶揄されたJリーグの爆発的人気拡大への貢献度は高かった。その後、観客動員の減少などで現れた人気の衰退に伴って他テレビ局のJリーグ番組が終了しても同番組は継続して、[三井ゆり](../Page/三井ゆり.md "wikilink")や[白石美帆](https://ja.wikipedia.org/wiki/白石美帆 "wikilink")などの人気タレントを輩出し、[徳永英明](../Page/徳永英明.md "wikilink")（音楽家）や[加藤浩次](../Page/加藤浩次.md "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")。キャスター・俳優としても活躍）など異色のキャスターを起用するなど、視聴率競争の激しい週末のスポーツ番組の中でも異彩を放つ番組であった。単に試合の詳細を伝えるだけでなく、[ビートたけし](../Page/ビートたけし.md "wikilink")をレギュラー（VTR出演）させるなどして、サッカーバラエティの要素を兼ね備えた体裁を整えたことも番組の繁栄につなげた。
 
-2009年3月までは、0時からの放送（[野球中継をはじめとする](https://ja.wikipedia.org/wiki/ザ・プロ野球 "wikilink")[スポーツ中継](https://ja.wikipedia.org/wiki/スポーツ中継 "wikilink")の延長など、都合によっては1時か2時を過ぎることもある）にもかかわらず、安定した視聴率を維持し続けていた。
+2009年3月までは、0時からの放送（[野球中継をはじめとする](https://ja.wikipedia.org/wiki/ザ・プロ野球 "wikilink")[スポーツ中継](../Page/スポーツ中継.md "wikilink")の延長など、都合によっては1時か2時を過ぎることもある）にもかかわらず、安定した視聴率を維持し続けていた。
 
 2009年4月の[大型番組改編で週末の一般ニュースとスポーツニュースが](https://ja.wikipedia.org/wiki/TBSテレビ#2009年春の大改編（第二の開局） "wikilink")『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』に統合されたことに伴い、1年間は『S☆1スパサカ』として放送。しかし、28分間という短い時間に、サッカー情報とスポーツニュースはおろか一般ニュースまで詰め込まれたことによりサッカー報道は質量とも低下し、視聴率は低迷した。サッカーファンからは単独番組としての復活を求める声が高まったが、逆にTBS局内では番組終了が検討され、一時は正式決定の寸前まで至ったが、Jリーグからの公認番組認定などの支援が得られる事になり、辛うじて番組の存続が決まった\[2\]。
 
@@ -35,13 +35,13 @@
 
 2001年1月のリニューアルから使用されている番組タイトルロゴに描かれた星は、放送を100回迎えるごとに増えた。2009年3月に単独番組としての放送を終了した時の星の数は7つ。なお、星を冠したロゴは『S☆1スパサカ』にも引き継がれ、2010年春の改編による土曜深夜枠から撤退、金曜深夜のローカル枠に移動、降格するまで9年間の長きに亘り使用され続けた。
 
-かつては、生放送だったが、これ以降加藤の出演する朝のワイド番組「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」との関係もあり、月曜日の昼に収録(加藤は「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」終了後にTBSに移動して収録)、収録翌日未明に[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")＜完全パッケージ＞放送となっている。[2015年](../Page/2015年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送をもって[枡田絵理奈](https://ja.wikipedia.org/wiki/枡田絵理奈 "wikilink")がTBSを退職する\[5\]のに伴い卒業し、火曜未明（月曜深夜）のシリーズは終了となった。
+かつては、生放送だったが、これ以降加藤の出演する朝のワイド番組「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」との関係もあり、月曜日の昼に収録(加藤は「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」終了後にTBSに移動して収録)、収録翌日未明に[撮って出し](../Page/撮って出し.md "wikilink")＜完全パッケージ＞放送となっている。[2015年](../Page/2015年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送をもって[枡田絵理奈](https://ja.wikipedia.org/wiki/枡田絵理奈 "wikilink")がTBSを退職する\[5\]のに伴い卒業し、火曜未明（月曜深夜）のシリーズは終了となった。
 
-[2015年](../Page/2015年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")の放送から土曜未明（金曜深夜）に復帰し、地上波のほか、[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")（BSでは初放送）で同月3日から地上波での放送前日23時から23時30分に先行放送（基本は撮って出しだが、BSでの放送初日を含め、生放送の場合もあった）を開始（したがって地上波で放送されるものは、BSの実質再放送であるが、一部の内容はBS版から差し替えられる場合もある\[6\]）。新アシスタントとして[国山ハセン](https://ja.wikipedia.org/wiki/国山ハセン "wikilink")と[宇垣美里](https://ja.wikipedia.org/wiki/宇垣美里 "wikilink")（両氏ともTBSアナウンサー）が加わる。また収録スタジオはEスタジオから、スポーツのメインスタジオとして使用されているPスタジオへと変更された。BSでは『**スーパーサッカー J+**』というタイトルで、2010年3月の地上波ネット終了以来5年ぶりとなる全国放送再開となったが、BSでの先行放送は2017年3月24日放送分を以って終了し、再び地上波のみの放送となる。BSでの最終回は、加藤ら4人が視聴者への別れの挨拶と最終回となる旨の告知をしている。なお、地上波でのネット局は5局となっており、「速報Jリーグ」開始時から継続してネット受けしている系列局は静岡放送のみである。
+[2015年](../Page/2015年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")の放送から土曜未明（金曜深夜）に復帰し、地上波のほか、[BS-TBS](../Page/BS-TBS.md "wikilink")（BSでは初放送）で同月3日から地上波での放送前日23時から23時30分に先行放送（基本は撮って出しだが、BSでの放送初日を含め、生放送の場合もあった）を開始（したがって地上波で放送されるものは、BSの実質再放送であるが、一部の内容はBS版から差し替えられる場合もある\[6\]）。新アシスタントとして[国山ハセン](https://ja.wikipedia.org/wiki/国山ハセン "wikilink")と[宇垣美里](https://ja.wikipedia.org/wiki/宇垣美里 "wikilink")（両氏ともTBSアナウンサー）が加わる。また収録スタジオはEスタジオから、スポーツのメインスタジオとして使用されているPスタジオへと変更された。BSでは『**スーパーサッカー J+**』というタイトルで、2010年3月の地上波ネット終了以来5年ぶりとなる全国放送再開となったが、BSでの先行放送は2017年3月24日放送分を以って終了し、再び地上波のみの放送となる。BSでの最終回は、加藤ら4人が視聴者への別れの挨拶と最終回となる旨の告知をしている。なお、地上波でのネット局は5局となっており、「速報Jリーグ」開始時から継続してネット受けしている系列局は静岡放送のみである。
 
-[2015年](../Page/2015年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")放送を持って、[小倉隆史](https://ja.wikipedia.org/wiki/小倉隆史 "wikilink")が[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[ゼネラルマネージャー](https://ja.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")補佐就任\[7\]に伴い、それに専念する都合により番組を卒業した。
+[2015年](../Page/2015年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")放送を持って、[小倉隆史](../Page/小倉隆史.md "wikilink")が[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")補佐就任\[7\]に伴い、それに専念する都合により番組を卒業した。
 
-[2017年](../Page/2017年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")の放送から月曜未明（日曜深夜）に枠移動となる。それと同時に放送形態も[事前収録](https://ja.wikipedia.org/wiki/事前収録 "wikilink")（録って出し）から再び生放送へ変更された。 なお、月曜未明移行後は国政選挙時に開票速報が行われる場合は放送休止になる。 2017年4月3日放送分から、北海道放送がネット受け開始。同時に放送回数が1176回となった。そのうち加藤は776回出演している。\[8\]
+[2017年](../Page/2017年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")の放送から月曜未明（日曜深夜）に枠移動となる。それと同時に放送形態も[事前収録](https://ja.wikipedia.org/wiki/事前収録 "wikilink")（録って出し）から再び生放送へ変更された。 なお、月曜未明移行後は国政選挙時に開票速報が行われる場合は放送休止になる。 2017年4月3日放送分から、北海道放送がネット受け開始。同時に放送回数が1176回となった。そのうち加藤は776回出演している。\[8\]
 
 [2017年](../Page/2017年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")（放送日付上は1日）放送分から、放送時間が30分繰り上がり午前0時50分スタートとなる。
 
@@ -67,7 +67,7 @@
 <tr class="even">
 <td><p>1993.10</p></td>
 <td><p>1993.12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/生島ヒロシ" title="wikilink">生島ヒロシ</a></p></td>
+<td><p><a href="../Page/生島ヒロシ.md" title="wikilink">生島ヒロシ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994.01</p></td>
@@ -82,7 +82,7 @@
 <tr class="odd">
 <td><p>1994.10</p></td>
 <td><p>1996.11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三井ゆり" title="wikilink">三井ゆり</a></p></td>
+<td><p><a href="../Page/三井ゆり.md" title="wikilink">三井ゆり</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996.12</p></td>
@@ -97,7 +97,7 @@
 <tr class="even">
 <td><p>2001.01</p></td>
 <td><p>2001.05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳永英明" title="wikilink">徳永英明</a></p></td>
+<td><p><a href="../Page/徳永英明.md" title="wikilink">徳永英明</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001.06</p></td>
@@ -107,17 +107,17 @@
 <tr class="even">
 <td><p>2001.10</p></td>
 <td><p>2002.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤浩次" title="wikilink">加藤浩次</a></p></td>
+<td><p><a href="../Page/加藤浩次.md" title="wikilink">加藤浩次</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002.04</p></td>
 <td><p>2003.03</p></td>
-<td><p>土井敏之、<a href="https://ja.wikipedia.org/wiki/初田啓介" title="wikilink">初田啓介</a><sup>4</sup></p></td>
+<td><p>土井敏之、<a href="../Page/初田啓介.md" title="wikilink">初田啓介</a><sup>4</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2003.04</p></td>
 <td><p>2004.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤文康" title="wikilink">佐藤文康</a>、<a href="../Page/有馬隼人.md" title="wikilink">有馬隼人</a><sup>3・4</sup></p></td>
+<td><p><a href="../Page/佐藤文康.md" title="wikilink">佐藤文康</a>、<a href="../Page/有馬隼人.md" title="wikilink">有馬隼人</a><sup>3・4</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004.04</p></td>
@@ -126,14 +126,14 @@
 </tr>
 <tr class="even">
 <td><p>2006.01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福田正博" title="wikilink">福田正博</a></p></td>
+<td><p><a href="../Page/福田正博.md" title="wikilink">福田正博</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006.02</p></td>
 <td><p>2006.03</p></td>
-<td><p>福田正博、<a href="https://ja.wikipedia.org/wiki/相馬直樹" title="wikilink">相馬直樹</a><br />
-<a href="https://ja.wikipedia.org/wiki/小島伸幸" title="wikilink">小島伸幸</a>、<a href="https://ja.wikipedia.org/wiki/小倉隆史" title="wikilink">小倉隆史</a></p></td>
+<td><p>福田正博、<a href="../Page/相馬直樹.md" title="wikilink">相馬直樹</a><br />
+<a href="../Page/小島伸幸.md" title="wikilink">小島伸幸</a>、<a href="../Page/小倉隆史.md" title="wikilink">小倉隆史</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006.04</p></td>
@@ -143,7 +143,7 @@
 <tr class="odd">
 <td><p>2007.01</p></td>
 <td><p>2009.03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤未央" title="wikilink">加藤未央</a></p></td>
+<td><p><a href="../Page/加藤未央.md" title="wikilink">加藤未央</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009.04</p></td>
@@ -189,12 +189,12 @@
 </dl>
 <ul>
 <li><sup>1</sup>　レギュラーゲストとして出演。</li>
-<li><sup>2</sup>　2002年4月から2006年9月まで日曜日の『<a href="https://ja.wikipedia.org/wiki/J-SPO" title="wikilink">J-SPO</a>RTS』と兼任。[11]</li>
-<li><sup>3</sup>　『<a href="https://ja.wikipedia.org/wiki/ブロードキャスター" title="wikilink">ブロードキャスター</a>』スポーツコーナーを兼務。</li>
+<li><sup>2</sup>　2002年4月から2006年9月まで日曜日の『<a href="../Page/J-SPO.md" title="wikilink">J-SPO</a>RTS』と兼任。[11]</li>
+<li><sup>3</sup>　『<a href="../Page/ブロードキャスター.md" title="wikilink">ブロードキャスター</a>』スポーツコーナーを兼務。</li>
 <li><sup>4</sup>　サッカー関連の話題以外の土曜日のスポーツニュースを担当。</li>
 <li><sup>5</sup>　『S☆1』2日間レギュラーとして出演（枡田は2012年3月まで）。</li>
 <li><sup>6</sup>　主に<a href="https://ja.wikipedia.org/wiki/チェーザレ・ポレンギ" title="wikilink">チェーザレ・ポレンギ</a>（スポーツライター）、福田、三浦（淳）が多い。</li>
-<li><sup>7</sup>　2017年4月から2019年9月まで、『<a href="https://ja.wikipedia.org/wiki/アッコにおまかせ!" title="wikilink">アッコにおまかせ!</a>』を兼務。</li>
+<li><sup>7</sup>　2017年4月から2019年9月まで、『<a href="../Page/アッコにおまかせ!.md" title="wikilink">アッコにおまかせ!</a>』を兼務。</li>
 <li><sup>8</sup>　『S☆1』を兼務。</li>
 <li>コメンテーターが複数の時期は週替わりで出演していた。</li>
 </ul>
@@ -216,8 +216,8 @@
 <!-- end list -->
 
   - [佐野文俊](https://ja.wikipedia.org/wiki/佐野文俊 "wikilink")
-  - [杉山真也](https://ja.wikipedia.org/wiki/杉山真也 "wikilink")（TBSアナウンサー）
-  - [辻谷耕史](https://ja.wikipedia.org/wiki/辻谷耕史 "wikilink") - 2009年3月まで（担当開始時期は不明）
+  - [杉山真也](../Page/杉山真也.md "wikilink")（TBSアナウンサー）
+  - [辻谷耕史](../Page/辻谷耕史.md "wikilink") - 2009年3月まで（担当開始時期は不明）
 
 <!-- end list -->
 
@@ -226,7 +226,7 @@
 
 <!-- end list -->
 
-  - [安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")
+  - [安元洋貴](../Page/安元洋貴.md "wikilink")
 
 <!-- end list -->
 
@@ -235,7 +235,7 @@
 
 <!-- end list -->
 
-  - [佐藤文康](https://ja.wikipedia.org/wiki/佐藤文康 "wikilink")（TBSアナウンサー）
+  - [佐藤文康](../Page/佐藤文康.md "wikilink")（TBSアナウンサー）
 
 <!-- end list -->
 
@@ -334,44 +334,44 @@
 
   - [1993年](../Page/1993年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")　『**速報Jリーグ**』が放送開始。
   - 1993年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")　同番組が放送終了。
-  - 1993年[10月3日](../Page/10月3日.md "wikilink")　同番組をリニューアルし、全国ネットの番組『**ネスレ・スーパーサッカー Jリーグエクスプレス**』として放送開始。[ネスレマニュファクチャリング](https://ja.wikipedia.org/wiki/ネスレ日本 "wikilink")（当時はネッスル日本、現在はネスレ日本）の一社提供で、生CMも挿入された。
+  - 1993年[10月3日](../Page/10月3日.md "wikilink")　同番組をリニューアルし、全国ネットの番組『**ネスレ・スーパーサッカー Jリーグエクスプレス**』として放送開始。[ネスレマニュファクチャリング](../Page/ネスレ日本.md "wikilink")（当時はネッスル日本、現在はネスレ日本）の一社提供で、生CMも挿入された。
   - 1993年12月　レギュラーゲストの西田が卒業。
-  - [1994年](../Page/1994年.md "wikilink")1月　ビートたけしがVTR出演。[金田喜稔](https://ja.wikipedia.org/wiki/金田喜稔 "wikilink")や[山際淳司](https://ja.wikipedia.org/wiki/山際淳司 "wikilink")と絡み、笑える番組として下地が出来た\[12\]。
+  - [1994年](../Page/1994年.md "wikilink")1月　ビートたけしがVTR出演。[金田喜稔](../Page/金田喜稔.md "wikilink")や[山際淳司](../Page/山際淳司.md "wikilink")と絡み、笑える番組として下地が出来た\[12\]。
   - 1994年8月　ビートたけしがバイク事故を起こし、約半年間の長期休養に入った為、降板。
   - 1994年10月　ネスレの冠提供撤退を含めたスポンサーの変更（このときから複数提供になる）により、企業冠なしの『**スーパーサッカー**』に改題。三井がアシスタントキャスターに就任。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月　水沼がゲストコメンテーターに就任（現役時代に初回のゲストとして出演）。当初は1 - 2ヶ月に1回の出演であったが、1996年12月よりレギュラーとなる。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月　アシスタントキャスターが三井から白石に、サブキャスターが清水から土井に交代。白石はこの番組でタレントデビュー。
   - [2000年](../Page/2000年.md "wikilink")12月　生島が卒業。
   - [2001年](../Page/2001年.md "wikilink")1月 徳永がメインキャスターに就任。
-  - 2001年7月　徳永が[もやもや病](https://ja.wikipedia.org/wiki/もやもや病 "wikilink")（[脳血管障害](../Page/脳血管障害.md "wikilink")）のため降板（5月から休養中）。
-  - 2001年10月　[極楽とんぼ](https://ja.wikipedia.org/wiki/極楽とんぼ "wikilink")（当時）の加藤浩次がメインキャスターに就任。
-  - [2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") 『[JNNスポーツ&ニュース](https://ja.wikipedia.org/wiki/JNNスポーツ&ニュース "wikilink")』のスポーツニュースを『J-SPORTS』として内包するため放送時間を30分から45分に延長し、『**J-SPORTS・スーパーサッカーPLUS**』にタイトルを変更。（スポーツニュースを内包する構成は『S☆1・スパサカ』時代も踏襲）。スポーツニュース担当として初田が参加。
-  - 2003年4月　土井が『[ウォッチ\!](https://ja.wikipedia.org/wiki/ウォッチ! "wikilink")』メインキャスターとなるため佐藤に交代。初田がスポーツ実況に専念するため有馬に交代。
+  - 2001年7月　徳永が[もやもや病](../Page/もやもや病.md "wikilink")（[脳血管障害](../Page/脳血管障害.md "wikilink")）のため降板（5月から休養中）。
+  - 2001年10月　[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")（当時）の加藤浩次がメインキャスターに就任。
+  - [2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") 『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』のスポーツニュースを『J-SPORTS』として内包するため放送時間を30分から45分に延長し、『**J-SPORTS・スーパーサッカーPLUS**』にタイトルを変更。（スポーツニュースを内包する構成は『S☆1・スパサカ』時代も踏襲）。スポーツニュース担当として初田が参加。
+  - 2003年4月　土井が『[ウォッチ\!](../Page/ウォッチ!.md "wikilink")』メインキャスターとなるため佐藤に交代。初田がスポーツ実況に専念するため有馬に交代。
   - [2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")　通算500回。タイトルの星の数は5つとなった。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")3月　有馬が[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")の選手に復帰するためにTBSを退社したため降板。以後、2009年3月末まではサッカー以外のスポーツニュースも佐藤が担当する。
+  - [2004年](../Page/2004年.md "wikilink")3月　有馬が[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")の選手に復帰するためにTBSを退社したため降板。以後、2009年3月末まではサッカー以外のスポーツニュースも佐藤が担当する。
   - 2004年4月　水沼とのローテーション（月1・2回程度）で高木が参加。
   - 2003年[10月5日](../Page/10月5日.md "wikilink")　放送開始10周年。この頃から水沼の[S級ライセンス](https://ja.wikipedia.org/wiki/S級ライセンス "wikilink")取得に密着取材したコーナーがスタート（S級ライセンス取得後に伴い終了するが、後に監督に就任した際に一時的に復活した）。
-  - 2004年[7月25日](../Page/7月25日.md "wikilink")　メインキャスターである加藤浩次が[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[27時間テレビ](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2004年\) "wikilink")』で27時間マラソンに挑戦中だったが出演（同行していた介助犬バリーも出演）。ただし、そのためもあって時間内にゴールできなかった。
+  - 2004年[7月25日](../Page/7月25日.md "wikilink")　メインキャスターである加藤浩次が[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[27時間テレビ](../Page/FNS27時間テレビ_\(2004年\).md "wikilink")』で27時間マラソンに挑戦中だったが出演（同行していた介助犬バリーも出演）。ただし、そのためもあって時間内にゴールできなかった。
   - 2004年[10月24日](../Page/10月24日.md "wikilink")　前日夜に発生した[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")の報道特別番組を放送するため、放送中止。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")　通算600回。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月8日　水沼が[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")コーチ、高木が[横浜FC](../Page/横浜FC.md "wikilink")コーチ（その後、ともに監督に就任）に就任するため卒業。これで、番組初期からのレギュラー出演者が全て卒業。
+  - [2005年](../Page/2005年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")　通算600回。
+  - [2006年](../Page/2006年.md "wikilink")1月8日　水沼が[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")コーチ、高木が[横浜FC](../Page/横浜FC.md "wikilink")コーチ（その後、ともに監督に就任）に就任するため卒業。これで、番組初期からのレギュラー出演者が全て卒業。
   - 2006年1月15日　福田がコメンテーターに就任。
   - 2006年2月　相馬、小島、小倉がコメンテーターに就任し、週替わりで出演。
   - 2006年4月　小倉がレギュラーコメンテーターに就任。
   - 2006年[12月24日](../Page/12月24日.md "wikilink")　8年3ヶ月間にわたってレギュラーを務めた白石が卒業。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")　加藤未央がアシスタントキャスターに就任。
+  - [2007年](../Page/2007年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")　加藤未央がアシスタントキャスターに就任。
   - 2007年[9月30日](../Page/9月30日.md "wikilink")　通算700回。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")　この日から期間限定で、[ユーロ2008キャスターの](https://ja.wikipedia.org/wiki/UEFA欧州選手権2008 "wikilink")[ベッキー](https://ja.wikipedia.org/wiki/ベッキー "wikilink")がレギュラー出演。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")　この日から期間限定で、[ユーロ2008キャスターの](https://ja.wikipedia.org/wiki/UEFA欧州選手権2008 "wikilink")[ベッキー](../Page/ベッキー.md "wikilink")がレギュラー出演。
   - [2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")　単独番組としての放送を終了。加藤未央と佐藤が卒業。
   - 2009年[4月5日](../Page/4月5日.md "wikilink")　スポーツニュース番組『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』開始に伴い、『**S☆1スパサカ**』にリニューアル。放送時間は28分に縮小。同番組キャスターの枡田と山本が出演。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月28日　『S☆1スパサカ』としての放送を終了（1993年の番組開始から第823回、『S☆1』は継続）。
-  - 2010年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")　土曜日未明（金曜日深夜）に移動し、単独番組として復活。『**スーパーサッカーJ**』として再スタート。番組開始当初の原点に立ち返って、Jリーグと参加各クラブの全面監修・協力のもと、週末のJリーグ観戦に役立つ情報や選手のプレー技術解説、また選手の素顔の一面を披露するコーナーを設けた\[13\]。
+  - 2010年[4月3日](../Page/4月3日.md "wikilink")　土曜日未明（金曜日深夜）に移動し、単独番組として復活。『**スーパーサッカーJ**』として再スタート。番組開始当初の原点に立ち返って、Jリーグと参加各クラブの全面監修・協力のもと、週末のJリーグ観戦に役立つ情報や選手のプレー技術解説、また選手の素顔の一面を披露するコーナーを設けた\[13\]。
   - [2011年](../Page/2011年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")　前年4月以来「Jリーグ特命PR部長」として出演していた木下が卒業。
   - 2011年[3月12日](../Page/3月12日.md "wikilink") 前日午後に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の報道特別番組を放送のため、放送中止。
   - 2011年3月29日 火曜未明（月曜深夜）に枠移動・『**スーパーサッカー**』に再改題。一部地域では同年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")を以ってネット打ち切り。
   - 2015年3月24日 6年間出演してきた枡田がTBS退社に向けた準備のため卒業\[14\]。
   - 2015年4月4日 放送日を土曜未明（金曜深夜）に再移動。地上波放送の前日深夜23時に『**スーパーサッカー J+**』としてBS-TBSでの先行放送開始（実質5年ぶりの全国放送再開）。新たに国山、宇垣がレギュラー出演。
-  - 2015年6月28日 小倉が、古巣である[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[ゼネラルマネージャー](https://ja.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")補佐に就任し、それへ専念することに伴い番組を卒業
+  - 2015年6月28日 小倉が、古巣である[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")補佐に就任し、それへ専念することに伴い番組を卒業
   - 2017年3月24日 BS-TBSでの放送が終了（地上波は継続）
   - 2017年4月1日 2年間出演してきた宇垣が卒業。
   - 2017年4月3日 放送日を月曜未明（日曜深夜）に枠移動。上村がレギュラー出演。
@@ -384,18 +384,18 @@
 ※印はエンディングテーマも兼ねているもの
 
   - 「OLE\!OLA\!J\!」：ウルトラス・J (1993年頃・スタジオ部分OP）サッカー中継のTM曲でもあった
-  - 「[LOVE FOREVER](https://ja.wikipedia.org/wiki/LOVE_FOREVER/少年 "wikilink")」：[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink") (1995年頃)
-  - 「[T・R・Y -RETURN TO YOURSELF-](https://ja.wikipedia.org/wiki/T・R・Y_-RETURN_TO_YOURSELF- "wikilink")」：[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink") (1996.1 - 1996.3)
+  - 「[LOVE FOREVER](https://ja.wikipedia.org/wiki/LOVE_FOREVER/少年 "wikilink")」：[DEEN](../Page/DEEN.md "wikilink") (1995年頃)
+  - 「[T・R・Y -RETURN TO YOURSELF-](../Page/T・R・Y_-RETURN_TO_YOURSELF-.md "wikilink")」：[TWO-MIX](../Page/TWO-MIX.md "wikilink") (1996.1 - 1996.3)
   - 「無限大の夢」：小嶋希代子 (1996.7 - 1996.9)
-  - 「[HONEY](https://ja.wikipedia.org/wiki/HONEY_\(L'Arc〜en〜Cielの曲\) "wikilink")」：[L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink") (1998. - 1998.9)※
+  - 「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」：[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") (1998. - 1998.9)※
   - 「[BODY MAKES STREAM](https://ja.wikipedia.org/wiki/BODY_MAKES_STREAM "wikilink")」：TWO-MIX (1999.4 - 1999.6)
-  - 「[BLACK](https://ja.wikipedia.org/wiki/BLACK_\(SIAM_SHADEの曲\) "wikilink")」：[SIAM SHADE](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")（1999.7 - 1999.9）
-  - 「[サイクリングビート330](https://ja.wikipedia.org/wiki/WEED_CROWN/サイクリングビート330 "wikilink")」：[センチメンタル・バス](https://ja.wikipedia.org/wiki/センチメンタル・バス "wikilink")（1999.10 - 1999.12）
+  - 「[BLACK](https://ja.wikipedia.org/wiki/BLACK_\(SIAM_SHADEの曲\) "wikilink")」：[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")（1999.7 - 1999.9）
+  - 「[サイクリングビート330](https://ja.wikipedia.org/wiki/WEED_CROWN/サイクリングビート330 "wikilink")」：[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")（1999.10 - 1999.12）
   - 「[直感パラダイス](https://ja.wikipedia.org/wiki/直感パラダイス "wikilink")」：[Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")（2000.1 - 2000.3）
   - 「LOVE SAVER」：T.M.Revolution（2000.7 - 2000.9）
-  - 「どうしたい\!\!\!」：[大槻真希](https://ja.wikipedia.org/wiki/大槻マキ "wikilink")　（2000.10 - 2000.12）※
-  - 「call」：[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")（2001.1 - 2001.5）※
-  - 「[COCOON](https://ja.wikipedia.org/wiki/COCOON_\(PIERROTの曲\) "wikilink")」：[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")（2001.10 - 2002.3）※
+  - 「どうしたい\!\!\!」：[大槻真希](../Page/大槻マキ.md "wikilink")　（2000.10 - 2000.12）※
+  - 「call」：[徳永英明](../Page/徳永英明.md "wikilink")（2001.1 - 2001.5）※
+  - 「[COCOON](../Page/COCOON_\(PIERROTの曲\).md "wikilink")」：[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")（2001.10 - 2002.3）※
   - 「NEVER GIVE UP」：IMON RUSSELL（2002.4 - 2009.3）
   - 「[Shock of Love](https://ja.wikipedia.org/wiki/Shock_of_Love "wikilink")」：[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink") (2003年頃)
   - 「君は君でいたいのに」：徳永英明 (2003年頃)
@@ -410,7 +410,7 @@
   - 「Football j-lion」：海野勝久（2011.4 - 2015.3）
   - 「[Fantasista](https://ja.wikipedia.org/wiki/Sensation_III "wikilink")」：[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")（2015.4 - 2017.3）
   - 「シャドウ」：[cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink")（2015.4 - 2015.5）
-  - 「約束」：[Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")（2015.10 - 2015.11）
+  - 「約束」：[Lead](../Page/Lead.md "wikilink")（2015.10 - 2015.11）
   - 「青春Yell」：[E-yell](https://ja.wikipedia.org/wiki/E-yell "wikilink")（2016.10 - 2016.11）
   - 「パトスとエートス」：[Brian the Sun](https://ja.wikipedia.org/wiki/Brian_the_Sun "wikilink")（2016.12 - 2017.1）
   - 「敗者復活戦自由形」：[PENGUIN RESEARCH](https://ja.wikipedia.org/wiki/PENGUIN_RESEARCH "wikilink")（2017.2 - 2017.3）
@@ -426,7 +426,7 @@
 <!-- end list -->
 
   -
-    2015年4月からの改題リニューアル後からスタートした番組のメインコーナー。その週のサッカー界を巡るトピックス、特に[J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")各カテゴリーやヨーロッパ主要リーグで活躍する日本人選手の話題を中心にヘッドライン形式で綴る。
+    2015年4月からの改題リニューアル後からスタートした番組のメインコーナー。その週のサッカー界を巡るトピックス、特に[J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")各カテゴリーやヨーロッパ主要リーグで活躍する日本人選手の話題を中心にヘッドライン形式で綴る。
 
 <!-- end list -->
 
@@ -458,7 +458,7 @@
 <!-- end list -->
 
   -
-    2015年度の改編で新登場した企画。タイトルは[FIFAプスカシュ賞](https://ja.wikipedia.org/wiki/FIFAプスカシュ賞 "wikilink")にちなんでおり、プスカシュ賞に匹敵するスーパーゴールをJリーグの選手が、ヨーロッパ主要リーグ（まれにJリーグやFIFAワールドカップ予選などの[国際Aマッチ](https://ja.wikipedia.org/wiki/国際Aマッチ "wikilink")なども）の試合から選出して、そのゴールについて解説する。
+    2015年度の改編で新登場した企画。タイトルは[FIFAプスカシュ賞](https://ja.wikipedia.org/wiki/FIFAプスカシュ賞 "wikilink")にちなんでおり、プスカシュ賞に匹敵するスーパーゴールをJリーグの選手が、ヨーロッパ主要リーグ（まれにJリーグやFIFAワールドカップ予選などの[国際Aマッチ](../Page/国際Aマッチ.md "wikilink")なども）の試合から選出して、そのゴールについて解説する。
 
 <!-- end list -->
 
@@ -467,7 +467,7 @@
 <!-- end list -->
 
   -
-    2010年3月の『S☆1・スパサカ』最終回では、同年に[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")へ移籍した[久保竜彦](https://ja.wikipedia.org/wiki/久保竜彦 "wikilink")への取材を、その時の対戦相手だった[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")の[相馬直樹](https://ja.wikipedia.org/wiki/相馬直樹 "wikilink")監督（当時）へのインタビューを交えて行った。
+    2010年3月の『S☆1・スパサカ』最終回では、同年に[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")へ移籍した[久保竜彦](../Page/久保竜彦.md "wikilink")への取材を、その時の対戦相手だった[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")の[相馬直樹](../Page/相馬直樹.md "wikilink")監督（当時）へのインタビューを交えて行った。
 
 <!-- end list -->
 
@@ -479,7 +479,7 @@
 
   -
     シーズンオフなどJリーグの試合のない時には選手らがゲストに駆けつける場合もある。1997年はJリーグ（J1）が17チームだったので、シーズン中でも試合のないチームから1名をゲストに招いた時期もある。
-    同企画で[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")の[久保竜彦](https://ja.wikipedia.org/wiki/久保竜彦 "wikilink")が加藤浩次相手に行ったインタビューでは、久保の極端な寡黙さにより異例の長時間収録となった。『S☆1・スパサカ』最終回では再び加藤による久保へのインタビューが行われた（既述）。
+    同企画で[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")の[久保竜彦](../Page/久保竜彦.md "wikilink")が加藤浩次相手に行ったインタビューでは、久保の極端な寡黙さにより異例の長時間収録となった。『S☆1・スパサカ』最終回では再び加藤による久保へのインタビューが行われた（既述）。
 
 <!-- end list -->
 
@@ -488,10 +488,10 @@
 <!-- end list -->
 
   -
-    小倉隆史と現役サッカー選手のボレーシュート対決。センタリングマシン（初代は“[ベッカム君](../Page/デビッド・ベッカム.md "wikilink")”、二代目は“[くりろな君](https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド "wikilink")”）がゴール前に上げるボールを5回ずつ打ってゴール数の多い方が勝者（5回で決着がつかない場合は延長サドンデス）。ゴールキーパーが立つため、枠内に飛んでも止められた場合はゴールと認められない。（アニメ「[タイガーマスク](https://ja.wikipedia.org/wiki/タイガーマスク "wikilink")」のオープニング曲・エンディング曲をコーナー内で使用している。）
-    同コーナーに登場してボレーシュートを披露した[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")の[李忠成](https://ja.wikipedia.org/wiki/李忠成 "wikilink")は、[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")移籍後に出場した[AFCアジアカップ2011](https://ja.wikipedia.org/wiki/AFCアジアカップ2011 "wikilink")の決勝戦（[オーストラリア戦](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")）で同様のボレーシュートにより決勝点を挙げ、同番組内などで話題となった。
+    小倉隆史と現役サッカー選手のボレーシュート対決。センタリングマシン（初代は“[ベッカム君](../Page/デビッド・ベッカム.md "wikilink")”、二代目は“[くりろな君](../Page/クリスティアーノ・ロナウド.md "wikilink")”）がゴール前に上げるボールを5回ずつ打ってゴール数の多い方が勝者（5回で決着がつかない場合は延長サドンデス）。ゴールキーパーが立つため、枠内に飛んでも止められた場合はゴールと認められない。（アニメ「[タイガーマスク](../Page/タイガーマスク.md "wikilink")」のオープニング曲・エンディング曲をコーナー内で使用している。）
+    同コーナーに登場してボレーシュートを披露した[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")の[李忠成](../Page/李忠成.md "wikilink")は、[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")移籍後に出場した[AFCアジアカップ2011](../Page/AFCアジアカップ2011.md "wikilink")の決勝戦（[オーストラリア戦](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")）で同様のボレーシュートにより決勝点を挙げ、同番組内などで話題となった。
     この企画は、2012年1月に番組初のDVDソフト化されることが決定。
-    また、[2012年](../Page/2012年.md "wikilink")の[Jリーグ中継](https://ja.wikipedia.org/wiki/Jリーグ中継 "wikilink")、[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")で放送される日の一部で、このボレーの虎を15分に編集したスピンオフの番組が放送される。小倉側のセンタリングを[三浦淳寛が担当し](https://ja.wikipedia.org/wiki/三浦淳宏 "wikilink")、相手側はチームスタッフなどが担当する。
+    また、[2012年](../Page/2012年.md "wikilink")の[Jリーグ中継](../Page/Jリーグ中継.md "wikilink")、[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で放送される日の一部で、このボレーの虎を15分に編集したスピンオフの番組が放送される。小倉側のセンタリングを[三浦淳寛が担当し](https://ja.wikipedia.org/wiki/三浦淳宏 "wikilink")、相手側はチームスタッフなどが担当する。
 
 <!-- end list -->
 
@@ -504,7 +504,7 @@
 
 ### 過去の内容
 
-  - [J-SPO](https://ja.wikipedia.org/wiki/J-SPO "wikilink")
+  - [J-SPO](../Page/J-SPO.md "wikilink")
 
 <!-- end list -->
 
@@ -519,11 +519,11 @@
 <!-- end list -->
 
   -
-    [山際淳司](https://ja.wikipedia.org/wiki/山際淳司 "wikilink")、[金田喜稔](https://ja.wikipedia.org/wiki/金田喜稔 "wikilink")とのトーク。司会進行は[渡辺真理](../Page/渡辺真理.md "wikilink")。
+    [山際淳司](../Page/山際淳司.md "wikilink")、[金田喜稔](../Page/金田喜稔.md "wikilink")とのトーク。司会進行は[渡辺真理](../Page/渡辺真理.md "wikilink")。
 
 <!-- end list -->
 
-  - [越前屋俵太](https://ja.wikipedia.org/wiki/越前屋俵太 "wikilink")のサッカー向上委員会
+  - [越前屋俵太](../Page/越前屋俵太.md "wikilink")のサッカー向上委員会
   - 三井ゆりのサッカー審判への道
 
 <!-- end list -->
@@ -533,10 +533,10 @@
 
 <!-- end list -->
 
-  - 23の翼 - [ドイツW杯](https://ja.wikipedia.org/wiki/2006_FIFAワールドカップ "wikilink")[日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")（候補）へのインタビュー企画（2006年1月 - 5月）
-  - 水沼貴史のKINGは俺だ\!\!（テーマソングにアニメ「[闘将ダイモス](https://ja.wikipedia.org/wiki/闘将ダイモス "wikilink")」のオープニング曲である「立て\!闘将ダイモス」（[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")）を使っている）
+  - 23の翼 - [ドイツW杯](../Page/2006_FIFAワールドカップ.md "wikilink")[日本代表](../Page/サッカー日本代表.md "wikilink")（候補）へのインタビュー企画（2006年1月 - 5月）
+  - 水沼貴史のKINGは俺だ\!\!（テーマソングにアニメ「[闘将ダイモス](../Page/闘将ダイモス.md "wikilink")」のオープニング曲である「立て\!闘将ダイモス」（[ささきいさお](../Page/ささきいさお.md "wikilink")）を使っている）
       - スピードキングコンテスト（シュート速度の測定コンテスト）
-      - [バナナキングコンテスト](https://ja.wikipedia.org/wiki/バナナキングコンテスト "wikilink")（フリーキックの競演）
+      - [バナナキングコンテスト](../Page/バナナキングコンテスト.md "wikilink")（フリーキックの競演）
       - [水沼貴史のオレによこせ\!\!](https://ja.wikipedia.org/wiki/水沼貴史のオレによこせ!! "wikilink")→ファンタジーキングII
   - SSザ・ワールド（海外サッカー情報）
 
@@ -549,9 +549,9 @@
 
 ### TBSテレビ及びその関連放送局のJリーグ中継体制
 
-  - TBSテレビと系列[BS放送の](https://ja.wikipedia.org/wiki/放送衛星 "wikilink")[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")では、2002年度からJリーグの民間放送における包括的テレビ中継権（J.リーグ・パートナーTV）を持っており、「[J-LEAGUE WIDE](https://ja.wikipedia.org/wiki/J-LEAGUE_WIDE "wikilink")」という表題でBS-TBSでは毎節1 - 3試合(土曜日1 - 2試合、日曜日1試合)を中継しているほか、不定期で地上波でも中継が行われている。
-  - [CS放送では](../Page/通信衛星.md "wikilink")、2002年度から2004年度までは「JNNニュースバード（現・[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")）」から試合当日の録画中継（TBS、BS-TBSの生中継素材をそのまま使用）を中心に各節3・4試合中継していたが、2005年度からは「JNNニュースバード」に代って[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")で各節2・3試合の生中継（再放映あり）を中心に放送された（一部は従来同様TBS、BS-TBSの中継素材を利用する）。
-  - 2007年以後、Jリーグ中継の優先権が[スカパー\!に委譲し](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス "wikilink")、主として[スカチャン](https://ja.wikipedia.org/wiki/スカチャン "wikilink")での生放送に特化された関係で、BS-TBS、TBSチャンネルとも原則的には各節1・2試合程度に縮小された。（基本的にはBS-TBSとTBSチャンネル同時。TBS地上波での中継がある時はBS-TBSは生中継せず、地上波とTBSチャンネルの同時中継）
+  - TBSテレビと系列[BS放送の](../Page/放送衛星.md "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")では、2002年度からJリーグの民間放送における包括的テレビ中継権（J.リーグ・パートナーTV）を持っており、「[J-LEAGUE WIDE](../Page/J-LEAGUE_WIDE.md "wikilink")」という表題でBS-TBSでは毎節1 - 3試合(土曜日1 - 2試合、日曜日1試合)を中継しているほか、不定期で地上波でも中継が行われている。
+  - [CS放送では](../Page/通信衛星.md "wikilink")、2002年度から2004年度までは「JNNニュースバード（現・[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")）」から試合当日の録画中継（TBS、BS-TBSの生中継素材をそのまま使用）を中心に各節3・4試合中継していたが、2005年度からは「JNNニュースバード」に代って[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で各節2・3試合の生中継（再放映あり）を中心に放送された（一部は従来同様TBS、BS-TBSの中継素材を利用する）。
+  - 2007年以後、Jリーグ中継の優先権が[スカパー\!に委譲し](../Page/スカパー!プレミアムサービス.md "wikilink")、主として[スカチャン](../Page/スカチャン.md "wikilink")での生放送に特化された関係で、BS-TBS、TBSチャンネルとも原則的には各節1・2試合程度に縮小された。（基本的にはBS-TBSとTBSチャンネル同時。TBS地上波での中継がある時はBS-TBSは生中継せず、地上波とTBSチャンネルの同時中継）
   - TBSのJリーグ中継の際はスパサカメンバーとゲストによる副音声の放送が行われることがある。その時TBSチャンネルでの放送の場合は別の解説者、実況アナウンサーに差し替えて放送することがある。
 
 ### 兄弟番組
@@ -560,9 +560,9 @@
 
 ### 取材での出来事
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で行われた[コンフェデレーションズカップの取材で](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ2005 "wikilink")、現地の[コーディネータ](https://ja.wikipedia.org/wiki/コーディネータ "wikilink")が、キャスターの加藤浩次らを、[フランクフルトにある](../Page/フランクフルト・アム・マイン.md "wikilink")[大人の遊園地](../Page/風俗店.md "wikilink")「ザ・パレス」に連れて行き、そこで加藤は[セルビア・モンテネグロ](../Page/セルビア・モンテネグロ.md "wikilink")と「対戦」（加藤は既婚者）した。
-      - この事実が[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNS25時間テレビ](https://ja.wikipedia.org/wiki/FNS25時間テレビ "wikilink")』内「[真夜中の大かま騒ぎ](https://ja.wikipedia.org/wiki/恋のかま騒ぎ "wikilink")」で暴露されたときに、同じ店で、[佐野瑞樹](https://ja.wikipedia.org/wiki/佐野瑞樹_\(アナウンサー\) "wikilink")（フジテレビアナウンサー）も、偶然[アルゼンチン](../Page/アルゼンチン.md "wikilink")と「対戦」（当時、佐野は未婚でバツイチ）していたことが発覚し、各局でアナウンサー倫理・キャスター倫理が問われるきっかけとなった。
-      - この問題は当時、[菊間千乃](https://ja.wikipedia.org/wiki/菊間千乃 "wikilink")（当時フジテレビアナウンサー）の未成年タレントへの飲酒問題など、アナウンサー倫理を問われることが続いていた一連の問題の一つであり、[日本テレビアナウンサーを退職したばかりの](../Page/日本テレビ放送網.md "wikilink")[福澤朗](../Page/福澤朗.md "wikilink")にも苦言をこぼされる始末となった\[16\]。
+  - [2005年](../Page/2005年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で行われた[コンフェデレーションズカップの取材で](../Page/FIFAコンフェデレーションズカップ2005.md "wikilink")、現地の[コーディネータ](https://ja.wikipedia.org/wiki/コーディネータ "wikilink")が、キャスターの加藤浩次らを、[フランクフルトにある](../Page/フランクフルト・アム・マイン.md "wikilink")[大人の遊園地](../Page/風俗店.md "wikilink")「ザ・パレス」に連れて行き、そこで加藤は[セルビア・モンテネグロ](../Page/セルビア・モンテネグロ.md "wikilink")と「対戦」（加藤は既婚者）した。
+      - この事実が[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNS25時間テレビ](../Page/FNS25時間テレビ.md "wikilink")』内「[真夜中の大かま騒ぎ](../Page/恋のかま騒ぎ.md "wikilink")」で暴露されたときに、同じ店で、[佐野瑞樹](../Page/佐野瑞樹_\(アナウンサー\).md "wikilink")（フジテレビアナウンサー）も、偶然[アルゼンチン](../Page/アルゼンチン.md "wikilink")と「対戦」（当時、佐野は未婚でバツイチ）していたことが発覚し、各局でアナウンサー倫理・キャスター倫理が問われるきっかけとなった。
+      - この問題は当時、[菊間千乃](../Page/菊間千乃.md "wikilink")（当時フジテレビアナウンサー）の未成年タレントへの飲酒問題など、アナウンサー倫理を問われることが続いていた一連の問題の一つであり、[日本テレビアナウンサーを退職したばかりの](../Page/日本テレビ放送網.md "wikilink")[福澤朗](../Page/福澤朗.md "wikilink")にも苦言をこぼされる始末となった\[16\]。
 
 ### ウェブサイト
 
@@ -570,7 +570,7 @@
 
 ### スーパーサッカー・THE MATCH SP
 
-  - [TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")（1・2）において、主に[国際Aマッチ](https://ja.wikipedia.org/wiki/国際Aマッチ "wikilink")においてのヨーロッパや南米の主要国の試合についての試合を随時放送するスピンオフ番組が実施されている。
+  - [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")（1・2）において、主に[国際Aマッチ](../Page/国際Aマッチ.md "wikilink")においてのヨーロッパや南米の主要国の試合についての試合を随時放送するスピンオフ番組が実施されている。
 
 ## スタッフ
 
@@ -627,7 +627,7 @@
 <!-- end list -->
 
   -
-    1993年の番組開始以来関わり、2度の離脱を経て、2010年4月のリニューアル時に復帰している。[W杯南アフリカ大会ではTBS系列で放映された日本](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")－[パラグアイ戦のチーフプロデューサーも担当し](https://ja.wikipedia.org/wiki/サッカーパラグアイ代表 "wikilink")、平均視聴率57.3%、瞬間最高視聴率64.9%といずれも同局の最高値を記録した。
+    1993年の番組開始以来関わり、2度の離脱を経て、2010年4月のリニューアル時に復帰している。[W杯南アフリカ大会ではTBS系列で放映された日本](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")－[パラグアイ戦のチーフプロデューサーも担当し](../Page/サッカーパラグアイ代表.md "wikilink")、平均視聴率57.3%、瞬間最高視聴率64.9%といずれも同局の最高値を記録した。
 
 <!-- end list -->
 
@@ -671,5 +671,5 @@
 12. 「[週刊サッカーダイジェスト](https://ja.wikipedia.org/wiki/週刊サッカーダイジェスト "wikilink")」2007年2月20日号
 13. 出典・読売新聞2010年3月17日
 14. 枡田は実際には有給休暇の行使により、2015年6月18日までTBSに在籍。
-15. [ロス・インディオス](https://ja.wikipedia.org/wiki/ロス・インディオス "wikilink")による同名のヒット曲にちなんだもの。
+15. [ロス・インディオス](../Page/ロス・インディオス.md "wikilink")による同名のヒット曲にちなんだもの。
 16. 『スポーツニッポン』 2005年7月25日

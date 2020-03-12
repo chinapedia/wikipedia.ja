@@ -1,7 +1,7 @@
 > この記事は[Go!Go!](https://ja.wikipedia.org/wiki/Go!Go!)から翻訳されています。
 
 
-**Go\!Go\!ウェイトレス**（ゴーゴーウェイトレス）は[カクテル・ソフト](https://ja.wikipedia.org/wiki/カクテル・ソフト "wikilink")の18禁恋愛シミュレーションゲーム『[Pia♥キャロットへようこそ\!\!2](../Page/Piaキャロットへようこそ!!2.md "wikilink")』及びその系列作品における主題歌である。ただし、18禁OVA版でのみ未使用。作品によってボーカルが異なるなど、バージョンの多い曲として一部で有名。
+**Go\!Go\!ウェイトレス**（ゴーゴーウェイトレス）は[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")の18禁恋愛シミュレーションゲーム『[Pia♥キャロットへようこそ\!\!2](../Page/Piaキャロットへようこそ!!2.md "wikilink")』及びその系列作品における主題歌である。ただし、18禁OVA版でのみ未使用。作品によってボーカルが異なるなど、バージョンの多い曲として一部で有名。
 
 ## 各バージョンの比較
 
@@ -157,7 +157,7 @@ standard composition Lにも収録</p></td>
 <td><p>[[Piaキャロットへようこそ</p></td>
 <td><p>3#Piaキャロットへようこそ</p></td>
 <td><p>3.3|3.3]]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲームボーイアドバンス" title="wikilink">GBA</a></p></td>
+<td><p><a href="../Page/ゲームボーイアドバンス.md" title="wikilink">GBA</a></p></td>
 <td><p>1コーラスループ</p></td>
 </tr>
 <tr class="odd">
@@ -165,13 +165,13 @@ standard composition Lにも収録</p></td>
 <td><p>G.O._～グランド・オープン～|G.O.]]</p></td>
 <td><p>PC</p></td>
 <td><p>フルコーラス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YURIA" title="wikilink">YURIA</a></p></td>
+<td><p><a href="../Page/YURIA.md" title="wikilink">YURIA</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## 関連項目
 
-  - [DOORS MUSIC ENTERTAINMENT](https://ja.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")
+  - [DOORS MUSIC ENTERTAINMENT](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")
 
 [Category:アダルトゲームの主題歌](https://ja.wikipedia.org/wiki/Category:アダルトゲームの主題歌 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:Piaキャロットへようこそ\!\!](https://ja.wikipedia.org/wiki/Category:Piaキャロットへようこそ!! "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
